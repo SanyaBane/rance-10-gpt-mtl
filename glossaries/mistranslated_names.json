@@ -2808,7 +2808,7 @@
         "knownMistranslations": [
             "Louis Quitowack"
         ]
-     },
+    },
     {
         "shortNameEng": "Descoco",
         "shortNameJpn": "デスココ",
@@ -2826,6 +2826,15 @@
             "Villenhowe",
             "Biyounhou",
             "Byonhou"
+        ]
+    },
+    {
+        "shortNameEng": "Megalas",
+        "shortNameJpn": "メガラス",
+        "knownMistranslations": [
+            "Meglass",
+            "Megaras",
+            "Megarasu"
         ]
     }
 ]
