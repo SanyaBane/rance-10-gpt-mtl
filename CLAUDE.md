@@ -20,7 +20,7 @@ these is edited by hand:
 | Folder | Holds |
 |---|---|
 | `glossaries/` | the English, keyed by the Japanese — the tables below, and the two the enemy panel and the synopsis screen read |
-| `patches/` | what alice-tools is handed directly: the cherry-picked system strings, the hand-written `.jaf`, and the one hand-assembled `.jam` |
+| `patches/` | what alice-tools is handed directly: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `variants/` | one folder per translation of the dialogue |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
@@ -54,6 +54,17 @@ release` sets, and `--game` asks for `GAME_DIR` by name, for a run that would
 otherwise pick up an `OUT_DIR` from its environment. Nothing in a build ever
 *reads* that directory, so redirecting it cannot leave one short of an input:
 `outputDir` in `modules/AliceTools.js`.
+
+The patches that change what the game *does* rather than what it says are
+`modules/Features.js`, a row apiece: a line saying what it is, and the
+`alice ain edit` arguments that apply it. They are on by default, so the `.ain`
+that goes into a game folder is the one that gets played; `--with=<name>` and
+`--without=<name>` decide it for one run; and a release folder is built the
+other way round — a base `.ain` carrying none of them, and one
+`optional/<name>/Rance10.ain` apiece to copy over it, so that installing the
+English never means installing modified game logic with it. Adding the next
+feature is a row in that table and nothing in `scripts/ain.js` or
+`scripts/release.js`.
 
 The rest of this file is the handful of rules that are expensive to break, and
 the reasoning behind each, because each one was learned by breaking it.

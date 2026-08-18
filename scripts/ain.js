@@ -15,6 +15,7 @@ import {spawnSync} from "child_process";
 import {AIN} from "../modules/AinFiles.js";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
+import {featureArgs, selectedFeatures} from "../modules/Features.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
 import {regeneratedTxt, variantName} from "../modules/Variants.js";
 
@@ -55,6 +56,17 @@ const renderRaceNames = async () => {
 
 run(async () => {
     const variant = variantName();
+    /*
+     * Which optional patches this build takes, --with= and --without= away.
+     * What they are is modules/Features.js and nothing is spelled out here, so
+     * the next one is an entry in that table rather than two more lines below.
+     *
+     * Read before anything is rendered, because a misspelled feature is a
+     * message rather than a build and a minute of dialogue would go by first.
+     */
+    const features = selectedFeatures();
+    console.log(features.length > 0 ? `Building with ${features.join(", ")}` : "Building with no optional features");
+
     const rendered = node([path.join(import.meta.dirname, "regenerate_aai_txt.js"), `--variant=${variant}`]);
     if (rendered !== 0) {
         return rendered;
@@ -66,16 +78,14 @@ run(async () => {
         "--jaf", "patches/card_names.jaf",
         "--jaf", path.relative(ROOT, RACE_JAF),
         /*
-         * The enemy status panel: shown every round rather than only after
-         * アナライズ when custom_mods\enemy_panel.on is there to switch it on,
-         * and drawing its two card Ids in English. The .jam is both of those
-         * and it resolves two functions by name -- EnemyInfoPanelEnabled from
-         * the .jaf beside it, CardEnglishLabel from card_names.jaf above -- so
-         * it has to come after both, or alice-tools stops with "Unable to
-         * resolve function". Each file says why it is the kind it is.
+         * The enemy panel's two card Ids in English. Not optional -- it is
+         * translation -- and after both .jaf above, whose CardEnglishLabel and
+         * 表示種族 it resolves by name; the other order stops with "Unable to
+         * resolve function". The features come last for the same reason: the
+         * one there is now resolves a name out of its own .jaf.
          */
-        "--jaf", "patches/enemy_info_panel.jaf",
-        "--jam", "patches/enemy_info_panel.jam",
+        "--jam", "patches/enemy_panel_cards.jam",
+        ...featureArgs(features),
         "-o", "{game}/Rance10.ain",
         path.relative(ROOT, AIN),
     ]);
