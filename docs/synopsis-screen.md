@@ -105,13 +105,20 @@ caption of its own is the translator's ear, and the way to fix one that does is
 to phrase the caption so it breaks elsewhere.
 
 Where the event has no row to spare, the captions that overflow least are put
-back onto one row and left to run off the panel, which is what they do today.
-As the glossary stands that is **54 captions in 44 events**, and they are the
-ones that have to be shortened by meaning rather than by layout:
+back onto one row and left to run off the panel. Those are the ones somebody has
+to shorten by meaning rather than by layout, and there are **none** as the
+glossary stands -- there were 54, in 44 events, and each was cut down to one
+row. The flag that finds them again:
 
 ```
-node scripts/summary_chunk.js --panels --cramped     # exactly those events
+node scripts/summary_chunk.js --panels --cramped     # events the build cannot fit
 ```
+
+In a block it marks the caption itself with a `!` in place of the bar opening
+its row. Which one that is has to be marked rather than worked out, because the
+rows of a panel compete for the same spare space: ４２／ヘルマン自力解放５ has two
+rows free and three captions that each want a second one, and shortening any one
+of the three is what frees the other two.
 
 ## Working on it
 
