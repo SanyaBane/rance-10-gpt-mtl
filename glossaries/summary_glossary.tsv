@@ -12,15 +12,17 @@
 # The order is the order the game's own table has, which is the order the
 # story happens in: a line reads differently once you have read the one above.
 #
-# One row fits about twenty full-width characters (１２３４５６７８９０１２３４５６７８９０),
-# which is both the placeholder in Game/Adv/SceneSummary.pactex and the ruler
-# the designers left in field ００ of the table. Nothing wraps, so a longer
-# line runs off the panel; the scripts below report which ones do.
+# One row of the panel fits twenty full-width characters (１２３４５６７８９０１２３４５６７８９０),
+# measured with the game's own font -- modules/GameFont.js, and docs/text-width.md
+# for why Meiryo is not it. Around 33 latin letters, and a caption over that is
+# not an error: the build lays it across two of the panel's seven rows wherever
+# the event has a row to spare. What has to be shortened is a caption in an
+# event that has not, and the scripts below report those separately.
 #
-# Translating a chunk at a time: scripts/summary_chunk.js prints the next
-# untranslated rows as a prompt, scripts/summary_merge.js reads the reply back
-# in. Nothing applies this file to the game yet -- the English still has to be
-# written into 37_あらすじデータ.x, which is what npm run regenerate-ex builds.
+# Translating a chunk at a time: scripts/summary_chunk.js prints the next rows
+# as a prompt -- --panels for a whole event at a time, which is what the room
+# for a second row is decided by -- and scripts/summary_merge.js reads the reply
+# back in. npm run regenerate-ex writes the result into the game's table.
 にぽぽ温泉旅館	Nipopo Hot Spring Inn
 兄弟姉妹全員で来た	All the siblings came along
 兄弟で部屋でくつろぐ	The brothers relax in their room

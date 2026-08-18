@@ -70,12 +70,37 @@ export const readNameTable = async (variantDir) => {
 const KATAKANA = /[゠-ヿ]/;
 
 /**
- * Which of the table's characters a Japanese line names.
+ * Whether a Japanese line says this word, rather than merely containing its
+ * characters.
  *
- * A katakana name only counts when it is not part of a longer run of katakana.
+ * A katakana word only counts when it is not part of a longer run of katakana.
  * Without that, リア is in バリア, レイ is in ブレイク and フル is in
  * フルスペック, and three complaints out of five are noise -- which is how a
- * warning stops being read.
+ * warning stops being read. The synopsis terms need it as badly as the names
+ * do: オク, リッチ and スケール are free cities of two and three characters
+ * apiece.
+ *
+ * It is the ends of the word that decide, not whether it holds katakana
+ * anywhere: 裸イベント follows a character's name in 144 captions, and reading
+ * the カチューシャ before it as a longer run would lose every one of them.
+ */
+export const mentions = (japanese, word) => {
+    const opensKatakana = KATAKANA.test(word[0]);
+    const endsKatakana = KATAKANA.test(word[word.length - 1]);
+    for (let at = japanese.indexOf(word); at >= 0; at = japanese.indexOf(word, at + 1)) {
+        const before = japanese[at - 1];
+        const after = japanese[at + word.length];
+        const glued = (opensKatakana && before && KATAKANA.test(before))
+            || (endsKatakana && after && KATAKANA.test(after));
+        if (!glued) {
+            return true;
+        }
+    }
+    return false;
+};
+
+/**
+ * Which of the table's characters a Japanese line names.
  *
  * The shared table only: the files this serves are not dialogue, and a
  * variant's overrides are its dialogue's business.
@@ -83,19 +108,7 @@ const KATAKANA = /[゠-ヿ]/;
 export const createNameFinder = async () => {
     const table = (await readSharedNameTable()).filter(record => record.shortNameJpn.length >= 2);
 
-    return (japanese) => table.filter(record => {
-        const name = record.shortNameJpn;
-        for (let at = japanese.indexOf(name); at >= 0; at = japanese.indexOf(name, at + 1)) {
-            const before = japanese[at - 1];
-            const after = japanese[at + name.length];
-            const glued = KATAKANA.test(name)
-                && ((before && KATAKANA.test(before)) || (after && KATAKANA.test(after)));
-            if (!glued) {
-                return true;
-            }
-        }
-        return false;
-    });
+    return (japanese) => table.filter(record => mentions(japanese, record.shortNameJpn));
 };
 
 /**

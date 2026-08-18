@@ -1,0 +1,181 @@
+# The words the synopsis screen has settled on -- what is not a person's name.
+# Hand-written; this is the file to edit.
+#
+# Columns: the Japanese <TAB> the English <TAB> a short form, where the panel
+# needed one.
+#
+# Names of people are not here. They come from glossaries/mistranslated_names.json and
+# glossaries/card_name_glossary.tsv, and scripts/summary_chunk.js quotes both into a prompt
+# beside these. What is left -- the operations, the fortresses, the map, the
+# machines -- the dialogue mostly never said, so scripts/lookup_term.js has no
+# answer for it and each of these was decided once, in a batch of three hundred,
+# and then had to hold for four and a half thousand captions nobody reads in one
+# sitting. 滅号作戦 is not a thing anybody invents the same way twice.
+#
+# The third column is the form to use when the full one will not fit twenty
+# full-width characters: 聖櫃 is "the Ark" in four rows out of five. A caption
+# reading back shortened is the panel's width and not a disagreement.
+#
+# Every row here is what glossaries/summary_glossary.tsv already holds, checked
+# against it row by row when this file was written.
+
+# --- The Monster Army --------------------------------------------------------
+魔軍	Monster Army
+魔人	Fiend
+魔王	Demon King
+使徒	apostle
+大将軍	Great General
+魔物大元帥	Grand Marshal
+魔物将軍	Monster General
+魔物隊長	monster captain
+魔人討伐隊	the Fiend slayers
+魔物界	the demon world
+器兵	automaton
+穴奴隷	hole slave
+
+# --- Who stands against it ---------------------------------------------------
+勇者	hero
+主人公	protagonist
+英霊	heroic spirit
+聖女モンスター	Holy Gal Monster
+妖怪	youkai
+妖怪王	Youkai King
+鬼	oni
+調教師	trainer
+
+# --- Heaven ------------------------------------------------------------------
+天界	Heaven
+神々の国	the Land of the Gods
+１級神	First-Class God
+レベル神	Level God
+魂管理局	the Soul Bureau
+神魔法	divine magic
+闘神	War God
+闘将	Tousho
+聖骸闘将	Holy Corpse Tousho
+聖櫃	the Sacred Ark	the Ark
+闘神都市	Fighting God City
+闘神大会	Fighting God tournament	Fighting God tourney
+
+# --- Sides and institutions --------------------------------------------------
+聖魔教団	the Holy Magic Sect	the Sect
+聖魔教団の遺産	the Holy Magic Sect's legacy	the Sect's legacy
+ＡＬ教	the AL Church
+ＤＸの会	the DX Association
+自由都市連合	the Free Cities Alliance
+紫軍	the Purple Army
+魔法軍	the Magic Army
+赤軍	the Red Army
+参謀本部	General Staff HQ
+総統	Supreme Commander
+法王特典	papal privilege	privilege
+闇社会	the underworld
+保育園	daycare
+
+# --- Powers and afflictions --------------------------------------------------
+魔血魂	Magic Blood Soul
+魔王システム	Demon King System
+満ち潮	high tide
+逡巡モード	Hesitation Mode
+刹那モード	Instant Mode
+恐瘴気	miasma of terror
+白色破壊光線	White Destruction Ray
+魔封印結界	Magic Sealing Barrier
+絶対服従魔法	absolute obedience magic
+チュパ病	Chupa Disease
+才能限界値	talent cap
+攻撃限界点	attack limit	their limit
+異界	the otherworld
+異界ゲート	Otherworld Gate
+サイバーワールド	the Cyber World
+
+# --- The war -----------------------------------------------------------------
+滅号作戦	Operation Extermination
+ダウンフォール作戦	Operation Downfall
+人破壊爆弾	human destruction bomb
+特別焼却師団	Special Incineration Corps	the Incineration Corps
+衛星兵器	the satellite weapon
+電磁パルスの杖	the EMP staff
+永久牢	the Eternal Prison
+マジノライン	Maginot Line
+番裏の砦	Fort Banura
+ニクラス砦	Fort Niklas
+マンガン砦	Mangan Fort
+ランス砦	Rance Fort
+
+# --- The map -----------------------------------------------------------------
+死国	Shikoku
+川中島	Kawanakajima
+セキガハラ	Sekigahara
+なんば	Namba
+中之島	Nakanoshima
+天満橋	Tenmabashi Bridge
+翔竜山	Mount Shoryu
+スルメ山	Mount Surume
+ベズドグ山	Mount Bezdog
+ツングース高地	Tungus Plateau
+キナニ砂漠	Kinani Desert
+カラーの森	Kalar Forest
+ニカニカ平原	Nikanika Plain
+ワシントン花畑	Washington Flower Field
+へっぽこ街道	the Hapoko Road
+ルッコンフード洞窟	Rukkonfood Cave
+悪魔回廊	the Demon Corridor
+カクテル迷宮	the Cocktail Labyrinth
+マルグリッド迷宮	the Marguerite Labyrinth
+離れ宮島	Detached Miyajima
+シャングリラ	Shangri-La
+アメージング城	Amazing Castle
+ラグナロックアーク	Ragnarok Arc
+ハイパービル	Hyperville
+リプ商店街	Lip Shopping District
+ハニーインザスカイ	Hanny in the Sky
+Ｍランド	M-Land
+アイスフレーム	Ice Flame
+ローレングラード	Laurengrad
+トランシルバニア	Transylvania
+ジフテリア	Diphteria
+テニアン	Tinian
+ラボリ	Labori
+ラングバウ	Rangbau
+アペムンタ村	Apemunta village
+ペンシルカウ	Pencilcow
+シーウィード	Sieweed
+にぽぽ	Nipopo
+ポリポリワン	Polipoliwan
+アレルギー超大国	the Allergy superpower
+アニャガス王国	the Kingdom of Anyagas
+パランチョ王国	the Kingdom of Parancho
+ゴア	Goa
+カスタム	Custom
+オク	Oku
+リッチ	Rich
+カーソン	Carson
+スケール	Scale
+ミダラナツリー	Midarana Tree
+ブルトンツリー	Burton Tree
+タンザモンザツリー	Tanzamonza Tree
+サイサイツリー	Saisai Tree
+ビューティツリー	Beauty Tree
+
+# --- Things and beasts -------------------------------------------------------
+チューリップ３号	Tulip No.3
+ブレイブ号	the Brave
+サンセット号	the Sunset
+あてな２号	Athena 2.0
+ＩＰボディ	IP body
+ノートンガツ	Notongatsu
+大規模モルルン	Massive Morurun
+デラックスブック	the Deluxe Book
+究極お神籤	the ultimate fortune box
+ガールズショー	the Girls Show
+幸福タイム	Happy Time
+宝箱だんご	chest dango
+ゴールデンハニー	Golden Hanny
+リターンデーモン	Return Demon
+ホフホフ	Hofhoph
+幸福きゃんきゃん	Lucky Can Can
+
+# --- The one pattern ---------------------------------------------------------
+# 144 rows in an unbroken run at the end of the glossary, one per character.
+裸イベント	nude event

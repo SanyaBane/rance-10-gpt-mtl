@@ -35,10 +35,34 @@ are read and `００` is not. Every `００` in the file holds the same thing --
 `｜−−−−−−−−｜−−−−−−−−−｜`, with its marks at 1, 10 and 20. It is the width ruler
 the designers worked against, and it agrees with the placeholder the layout
 carries for `TextDesc` in `archives/Rance10Pact_v1_04/Game/Adv/SceneSummary.pactex.x`:
-seven lines of twenty full-width characters, about 280 pixels by
-`getTextWidth`, roughly 38 latin letters. Nothing wraps -- each field is its own
-row -- so an overlong line runs off the panel rather than folding onto the next,
-which is why the width is checked rather than fixed up.
+twenty full-width characters. Do not *measure* that `００` string, though --
+it is drawn with `−`, U+2212, which is narrower than a full-width glyph, so it
+comes out a sixth short of the twenty columns it marks. `LONGEST_LINE` is the
+measure; `００` is the picture of it.
+
+## The panel is seven rows, and it clips nothing
+
+Measured in the game rather than derived from the layout, whose numbers do not
+agree with each other -- see `docs/text-width.md`, which is also where the width
+of a row is settled.
+
+The base CG, entry 0 of `Rance10CG4.afa`, draws **seven** dotted rules, at y 380
+to 740 sixty pixels apart. No event in the table is taller than seven rows, and
+the ００ ruler is twenty columns wide, so seven by twenty is the panel the
+designers wrote to.
+
+Fields `０８`, `０９` and `１０` are read by the code and **do print** -- they
+land on the ornamental frame below the box, beside the Play Event button, which
+looks like a bug rather than a row. Treat seven as the ceiling.
+
+Nothing is clipped in either direction. `クリップ許可 = 0` is literal: an
+overlong caption runs out of the box, over the OK button and off the screen
+edge. So the cost of a row that does not fit is worse than a cut-off tail, and
+the width is checked and warned about rather than truncated.
+
+Nothing wraps by itself either -- each field is its own row -- so a caption too
+wide for one row has to be laid into two fields, which is why writing the
+English into the table is a per-panel layout and not a per-field substitution.
 
 ## The English lives in a glossary, not in the table
 
@@ -59,13 +83,45 @@ A phrase with no English is left as it is rather than blanked, so a partly
 translated glossary gives a partly English panel and shows at a glance what is
 still to do.
 
+## The build lays a caption across two rows
+
+A row of the panel holds about 33 latin letters, and 597 of the 4458 captions
+are wider than that -- every Monster Army, Free Cities and Demon King line.
+Nothing is clipped, so each of those would run out over the OK button.
+
+`renderSummaryTable` breaks them instead. It rebuilds each node rather than
+substituting field by field: the captions of the event go through
+`wrapToPanel`, the blanks the designers left between thoughts stay where they
+are, and the result is written back into `０１` onwards -- into more fields
+than the node started with, where it needs them. 2152 of the 2208 events have
+at least one row to spare, so most of the room is already there.
+
+`wrapToPanel` breaks on spaces, into as few rows as the caption needs and then
+as evenly as it can, preferring not to end a row on `and` or `the`. Even beats
+greedy here because the panel's dotted rules space every row alike: `The
+satellite weapon / comes into view` reads as one caption, where `The satellite
+weapon comes / into view` reads as two. Whether the second row stands up as a
+caption of its own is the translator's ear, and the way to fix one that does is
+to phrase the caption so it breaks elsewhere.
+
+Where the event has no row to spare, the captions that overflow least are put
+back onto one row and left to run off the panel, which is what they do today.
+As the glossary stands that is **54 captions in 44 events**, and they are the
+ones that have to be shortened by meaning rather than by layout:
+
+```
+node scripts/summary_chunk.js --panels --cramped     # exactly those events
+```
+
 ## Working on it
 
 ```
 node scripts/extract_summary_lines.js   # refresh the glossary from the table
-node scripts/summary_chunk.js 300       # next batch as a prompt for a chat
-node scripts/summary_chunk.js 300 --context   # ...or with the event, to translate here
-node scripts/summary_merge.js           # read the answer back in
+node scripts/summary_chunk.js --panels  # the next 20 events, whole
+node scripts/summary_chunk.js --panels --node=２４１／３    # ...or one chapter
+node scripts/summary_chunk.js --panels --cramped           # ...or what will not fit
+node scripts/summary_chunk.js 300       # a flat batch of whatever is still Japanese
+node scripts/summary_merge.js --force   # read the answer back in
 node scripts/lookup_term.js 魔軍         # how the patch already translates a word
 ```
 
@@ -75,104 +131,57 @@ file under a heading, and `summary_merge.js` leaves an already-translated row
 alone unless `--force`. Nothing typed by hand is lost by running any of them
 again.
 
-`summary_merge.js` reports two things worth acting on: rows too wide for the
-panel, and rows where the English does not spell a name the way
-`glossaries/mistranslated_names.json` does. The second report is noisy by design -- around
-308 of the 4458 rows trip it, nearly all because a caption twenty characters
-wide cannot hold `Agireda Kosabusshi Zonna Abona` and says `Agireda`. What it is
-for is the other kind of hit: a *different* spelling of the same name. Where the
-canonical name does not fit, the card's short form is the right fallback --
-`scripts/generate_card_names.js` refuses `Masamune` -> `Dokuganryuu Masamune` as a wrap
-rather than a respelling, so the short form is a spelling the game itself
-displays.
+`--panels` is the mode to go back over finished text with, and `--force` is how
+its answer gets in, since every phrase has English now and a merge without it
+applies nothing. A block is one event: all seven rows in the order they are
+drawn, the blanks among them, the English each row carries today, how many rows
+are free, and the names and terms that event mentions. A phrase shown in more
+than one event belongs to the first of them by file order and reads as fixed
+context in the rest -- which matters for `戦闘開始` and the 313 others like it,
+and not at all for the 4145 that appear exactly once.
 
-Anything that is not a character -- places, ranks, operations -- comes from
-`scripts/lookup_term.js`, which pairs the Japanese dump with the variant's
-rendered text by `m[]` number and shows how the dialogue already says it.
-`滅号作戦` is Operation Extermination, `永久牢` the Eternal Prison, `番裏の砦`
-Fort Banura; none of those is what a translator would invent unprompted.
+What comes back is unchanged: `<number> <TAB> <the English>`, one line per
+caption, numbered by position in the glossary. The translator never breaks a
+caption -- the build does that -- they are told how much room the event has and
+write to it.
 
-## The terms the 4458 rows settled on
+`summary_merge.js` reports three things worth acting on: the captions the build
+cannot fit, every row it overwrote with the English it replaced, and rows where
+the English does not spell a name the way `glossaries/mistranslated_names.json`
+does. The last is noisy by design -- around 308 of the 4458 rows trip it, nearly
+all because a caption twenty characters wide cannot hold `Agireda Kosabusshi
+Zonna Abona` and says `Agireda` -- so it is printed last, after everything
+somebody has to act on. What it is for is the other kind of hit: a *different*
+spelling of the same name. Where the canonical name does not fit, the card's
+short form is the right fallback -- `scripts/generate_card_names.js` refuses
+`Masamune` -> `Dokuganryuu Masamune` as a wrap rather than a respelling, so the
+short form is a spelling the game itself displays.
 
-`lookup_term.js` answers for a word the dialogue already used. A good part of
-the synopsis is words it never did -- operations, fortresses, the map, the
-machines -- and each of those was decided once, in a batch of three hundred,
-and then had to hold for a screen nobody reads in one sitting. So the decisions
-are written down here, where the next row can be checked against them rather
-than deciding them a second time.
+An overwrite and a hand correction look the same in the glossary afterwards.
+The file is in version control and `git diff` shows both, which is the whole of
+the safety net there is.
 
-Names of people are **not** in this list. They come from
-`glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`, and `summary_merge.js`
-reports a row that spells one some other way.
+## The words this screen settled on
 
-Every term below is what `glossaries/summary_glossary.tsv` holds today. Where the
-canonical form did not fit twenty characters the row carries a short one --
-`聖櫃` is "the Ark" in four rows out of five, `闘神大会` "Fighting God tourney"
--- so a term reading back shortened is the panel's width, not a disagreement.
+`glossaries/summary_terms.tsv`, the Japanese and the English, and a third column
+for the short form where twenty characters would not hold the full one: `聖櫃`
+is `the Ark` in four rows out of five, `闘神大会` `Fighting God tourney`.
+`summary_chunk.js` quotes the ones an event mentions into its prompt, beside the
+names.
 
-**The Monster Army.** 魔軍 Monster Army, 魔人 Fiend, 魔王 Demon King, 使徒
-apostle, 大将軍 Great General, 魔物大元帥 Grand Marshal, 魔物将軍 Monster
-General, 魔物隊長 monster captain, 魔人討伐隊 the Fiend slayers, 魔物界 the demon
-world, 器兵 automaton, 穴奴隷 hole slave.
+Names of people are not in it. They come from
+`glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`,
+and `summary_merge.js` reports a row that spells one some other way.
 
-**Who stands against it.** 勇者 hero, 主人公 protagonist -- a different word,
-fixed by the caption `※主人公＝男` -- 英霊 heroic spirit, 聖女モンスター Holy Gal
-Monster, 妖怪 youkai, 妖怪王 Youkai King, 鬼 oni, 調教師 trainer.
-
-**Heaven.** 天界 Heaven, 神々の国 the Land of the Gods, １級神 First-Class God,
-レベル神 Level God, 魂管理局 the Soul Bureau, 神魔法 divine magic, 闘神 War God,
-闘将 Tousho (聖骸闘将 Holy Corpse Tousho), 聖櫃 the Sacred Ark, 闘神都市 Fighting
-God City, 闘神大会 Fighting God tournament.
-
-**Sides and institutions.** 聖魔教団 the Holy Magic Sect and 聖魔教団の遺産 the
-Sect's legacy, ＡＬ教 the AL Church, ＤＸの会 the DX Association, 自由都市連合 the
-Free Cities Alliance, 紫軍 the Purple Army, 魔法軍 the Magic Army, 赤軍 the Red
-Army, 参謀本部 General Staff HQ, 総統 Supreme Commander, 法王特典 papal
-privilege, 闇社会 the underworld, 保育園 daycare.
-
-**Powers and afflictions.** 魔血魂 Magic Blood Soul, 魔王システム Demon King
-System, 満ち潮 high tide, 逡巡モード Hesitation Mode, 刹那モード Instant Mode,
-恐瘴気 miasma of terror, 白色破壊光線 White Destruction Ray, 魔封印結界 Magic
-Sealing Barrier, 絶対服従魔法 absolute obedience magic, チュパ病 Chupa Disease,
-才能限界値 talent cap, 攻撃限界点 attack limit, 異界 the otherworld, 異界ゲート
-Otherworld Gate, サイバーワールド the Cyber World.
-
-**The war.** 滅号作戦 Operation Extermination, ダウンフォール作戦 Operation
-Downfall, 人破壊爆弾 human destruction bomb, 特別焼却師団 Special Incineration
-Corps, 衛星兵器 the satellite weapon, 電磁パルスの杖 the EMP staff, 永久牢 the
-Eternal Prison, マジノライン Maginot Line, 番裏の砦 Fort Banura, ニクラス砦 Fort
-Niklas, マンガン砦 Mangan Fort, ランス砦 Rance Fort.
-
-**The map.** 死国 Shikoku, 川中島 Kawanakajima, セキガハラ Sekigahara, なんば
-Namba, 中之島 Nakanoshima, 天満橋 Tenmabashi Bridge, 翔竜山 Mount Shoryu, スルメ山
-Mount Surume, ベズドグ山 Mount Bezdog, ツングース高地 Tungus Plateau, キナニ砂漠
-Kinani Desert, カラーの森 Kalar Forest, ニカニカ平原 Nikanika Plain, ワシントン花畑
-Washington Flower Field, へっぽこ街道 the Hapoko Road, ルッコンフード洞窟
-Rukkonfood Cave, 悪魔回廊 the Demon Corridor, カクテル迷宮 the Cocktail Labyrinth,
-マルグリッド迷宮 the Marguerite Labyrinth, 離れ宮島 Detached Miyajima, シャングリラ
-Shangri-La, アメージング城 Amazing Castle, ラグナロックアーク Ragnarok Arc,
-ハイパービル Hyperville, リプ商店街 Lip Shopping District, ハニーインザスカイ Hanny
-in the Sky, Ｍランド M-Land, アイスフレーム Ice Flame, ローレングラード Laurengrad,
-トランシルバニア Transylvania, ジフテリア Diphteria, テニアン Tinian, ラボリ Labori,
-ラングバウ Rangbau, アペムンタ村 Apemunta village, ペンシルカウ Pencilcow,
-シーウィード Sieweed, にぽぽ Nipopo, 異界ポリポリワン the otherworld Polipoliwan,
-アレルギー超大国 the Allergy superpower, アニャガス王国 the Kingdom of Anyagas,
-パランチョ王国 the Kingdom of Parancho, and the free cities ゴア Goa, カスタム
-Custom, オク Oku, リッチ Rich, カーソン Carson, スケール Scale. The five trees are
-ミダラナツリー Midarana Tree, ブルトンツリー Burton Tree, タンザモンザツリー
-Tanzamonza Tree, サイサイツリー Saisai Tree, ビューティツリー Beauty Tree.
-
-**Things and beasts.** チューリップ３号 Tulip No.3, ブレイブ号 the Brave, サンセット号
-the Sunset, あてな２号 Athena 2.0, ＩＰボディ IP body, ノートンガツ Notongatsu,
-大規模モルルン Massive Morurun, デラックスブック the Deluxe Book, 究極お神籤 the
-ultimate fortune box, ガールズショー the Girls Show, 幸福タイム Happy Time,
-宝箱だんご chest dango, ゴールデンハニー Golden Hanny, リターンデーモン Return
-Demon, ホフホフ Hofhoph, 幸福きゃんきゃん Lucky Can Can -- that last one from
-`glossaries/card_name_glossary.tsv`, because the dialogue has it as both Happy Kyankyan and
-Happiness Kyankyan and the card is the spelling the game itself displays.
-
-The glossary ends in an unbroken run of 144 `◯◯裸イベント` rows, one per
-character, and every one of them is `X nude event`.
+`scripts/lookup_term.js` answers for a word the dialogue already used -- it
+pairs the Japanese dump with the variant's rendered text by `m[]` number. A good
+part of the synopsis is words it never did: the operations, the fortresses, the
+map, the machines. Each of those was decided once, in a batch of three hundred,
+and then had to hold for a screen nobody reads in one sitting. `滅号作戦` is
+Operation Extermination, `永久牢` the Eternal Prison, `番裏の砦` Fort Banura;
+none of those is what a translator would invent unprompted, and none of them
+would survive being invented a second time. That file is where they live so
+that no batch has to.
 
 A caption that opens with `※` keeps it: 114 rows do, because it is the game's
 own mark for a condition rather than a word. `※要◯◯　内容若干変化` becomes
@@ -182,6 +191,9 @@ own mark for a condition rather than a word. `※要◯◯　内容若干変化`
 enforceable at all is that `summary_merge.js` refuses a row still carrying kana
 or kanji outright -- full-width punctuation is outside those blocks and gets
 through, so it is on the translator.
+
+The glossary ends in an unbroken run of 144 `◯◯裸イベント` rows, one per
+character, and every one of them is `X nude event`.
 
 The coarse register is the patch's, not softened for the panel: `※エロＣＧ`
 ※Erotic CG, `抱く` beds, `犯す` and `陵辱` rapes and violates, `ヤリ殺す` fucks to

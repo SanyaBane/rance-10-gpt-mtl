@@ -20,6 +20,14 @@
  *
  * A row is matched by the number, never by position, so a refused or dropped
  * line costs that line and nothing after it.
+ *
+ * Every phrase of the game's table has English now, so --force is no longer the
+ * exception it was: going back over a batch as panels (summary_chunk.js
+ * --panels) rewrites rows rather than filling them, and a merge without it
+ * applies nothing at all. What --force is there for is that it has to be typed.
+ * A rewrite is printed with the English it replaced, since afterwards a hand
+ * correction and a machine one look the same in the file and `git diff` is the
+ * only other record of which was which.
  */
 import * as fs from "fs/promises";
 import * as path from "path";
@@ -29,6 +37,7 @@ import {
     readSummaryGlossary,
     readSummaryLines,
     reportSummaryGlossary,
+    reportSummaryNames,
     writeSummaryGlossary,
 } from "../modules/SummaryLines.js";
 
@@ -74,6 +83,8 @@ const lines = await readSummaryLines();
 const glossary = await readSummaryGlossary();
 
 const applied = [];
+const changed = [];
+const left = [];
 const skipped = [];
 for (const line of reply.split(/\r?\n/)) {
     if (!line.trim() || line.trim().startsWith("```")) {
@@ -101,23 +112,54 @@ for (const line of reply.split(/\r?\n/)) {
         continue;
     }
     const before = glossary.get(row.japanese);
-    if (before && before !== english && !force) {
-        skipped.push(`already translated, left alone -- ${row.japanese} -> ${before}`
-            + ` (the reply says ${english})`);
+    if (before === english) {
+        continue;
+    }
+    if (before && !force) {
+        left.push(`${row.japanese} -> ${before} (the reply says ${english})`);
         continue;
     }
     glossary.set(row.japanese, english);
-    applied.push(row.japanese);
+    (before ? changed : applied).push(before ? `${row.japanese}\n      was ${before}\n      now ${english}`
+        : row.japanese);
 }
 
-if (!applied.length && !force) {
-    console.error("Nothing to apply: no line of the reply looked like <number> <english>.");
+if (!applied.length && !changed.length) {
+    // Every phrase of the table has English now, so a reply that changes
+    // nothing is the ordinary outcome of merging one twice -- and a whole batch
+    // of rewrites landing on nothing is the outcome of forgetting --force.
+    console.error(left.length
+        ? `Nothing applied: all ${left.length} rows of the reply are already translated,`
+            + " and rewriting one takes --force."
+        : skipped.length
+            ? `Nothing applied: ${skipped.length} lines of the reply could not be placed.`
+            : "Nothing to apply: no line of the reply looked like <number> <english>.");
+    for (const complaint of skipped.slice(0, 10)) {
+        console.error(`  skipped: ${complaint}`);
+    }
     process.exit(1);
 }
 
 const written = await writeSummaryGlossary(lines, glossary);
 
-console.log(`Applied ${applied.length} phrases; ${reportSummaryGlossary(written, lines).join("\n")}`);
+console.log(`Applied ${applied.length} phrases`
+    + (changed.length ? `, rewrote ${changed.length}` : "")
+    + `; ${reportSummaryGlossary(written, lines).join("\n")}`);
+// Every rewrite, spelled out. A hand correction and a machine one look the same
+// in the glossary afterwards, and the only record of which was which is this
+// and `git diff`.
+for (const rewrite of changed) {
+    console.log(`  rewrote ${rewrite}`);
+}
+if (left.length) {
+    console.log(`  ${left.length} rows already translated, left alone -- pass --force to take them:`);
+    for (const row of left.slice(0, 5)) {
+        console.log(`    ${row}`);
+    }
+}
 for (const complaint of skipped) {
     console.log(`  skipped: ${complaint}`);
 }
+// Last, because there are around 308 of them and nearly every one is a caption
+// too narrow for the full name rather than a misspelling.
+console.log(reportSummaryNames(written).join("\n"));
