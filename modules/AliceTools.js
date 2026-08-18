@@ -4,12 +4,14 @@
 import * as fs from "fs";
 import * as path from "path";
 import {spawnSync} from "child_process";
-import {flagValue} from "./Argv.js";
+import {flagValue, hasFlag} from "./Argv.js";
 import {required, ROOT} from "./Env.js";
 
 /**
- * The directory a build installs into: GAME_DIR, or the one --out=<dir> or
- * OUT_DIR names for this run.
+ * The directory a build installs into: GAME_DIR, or the one --out=<dir> (-o for
+ * short) or OUT_DIR names for this run. --game is GAME_DIR said out loud, for a
+ * run that would otherwise pick up an OUT_DIR from its environment -- which is
+ * how scripts/release.js tells its three children where to write.
  *
  * Redirecting it is safe by construction, because nothing here ever *reads*
  * this directory -- scripts/ain.js takes its .ain from game/, scripts/ex.js and
@@ -27,7 +29,11 @@ import {required, ROOT} from "./Env.js";
  * directory", which is a long way to go to be told to run mkdir.
  */
 export const outputDir = () => {
-    const named = flagValue("out") || process.env.OUT_DIR;
+    const flag = flagValue(["out", "o"]);
+    if (hasFlag("game") && flag) {
+        throw new Error(`--game and --out name two directories, GAME_DIR and ${flag}. Pass one or the other.`);
+    }
+    const named = hasFlag("game") ? undefined : flag || process.env.OUT_DIR;
     const dir = named ? path.resolve(ROOT, named) : required("GAME_DIR");
     fs.mkdirSync(dir, {recursive: true});
     return dir;

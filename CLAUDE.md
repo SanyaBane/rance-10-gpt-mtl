@@ -48,10 +48,12 @@ npm run regenerate-pack         # the UI archive
 npm run release                 # all three, into build/release rather than the game
 ```
 
-Each of the four writes into `GAME_DIR`, and `--out=<dir>` sends it elsewhere
-instead — `build/release` is only the default `npm run release` sets. Nothing in
-a build ever *reads* that directory, so redirecting it cannot leave one short of
-an input: `outputDir` in `modules/AliceTools.js`.
+Each of the four writes into `GAME_DIR`, and `--out=<dir>` — `-o` for short —
+sends it elsewhere instead; `build/release` is only the default `npm run
+release` sets, and `--game` asks for `GAME_DIR` by name, for a run that would
+otherwise pick up an `OUT_DIR` from its environment. Nothing in a build ever
+*reads* that directory, so redirecting it cannot leave one short of an input:
+`outputDir` in `modules/AliceTools.js`.
 
 The rest of this file is the handful of rules that are expensive to break, and
 the reasoning behind each, because each one was learned by breaking it.

@@ -3,7 +3,8 @@
  *
  *   npm run release                             # build/release
  *   npm run release -- --variant=grok
- *   node scripts/release.js --out=E:/somewhere
+ *   node scripts/release.js -o build/scratch
+ *   node scripts/release.js --game              # into the game, all three at once
  *
  * The three builds are the three commands README lists, run in order, with the
  * output directory pointed at build/release instead of GAME_DIR -- see
@@ -18,7 +19,7 @@
  */
 import * as path from "path";
 import {spawnSync} from "child_process";
-import {flagValue} from "../modules/Argv.js";
+import {flagValue, hasFlag} from "../modules/Argv.js";
 import {outputDir, run} from "../modules/AliceTools.js";
 import {BUILD} from "../modules/Env.js";
 
@@ -43,9 +44,10 @@ run(() => {
     /*
      * Set for the children to inherit, and only as a default: --out on the
      * command line still wins inside each of them, and an OUT_DIR already in
-     * the environment is somebody saying where their builds go.
+     * the environment is somebody saying where their builds go. --game asks for
+     * GAME_DIR by name, which outputDir() reads before either.
      */
-    if (!flagValue("out", args)) {
+    if (!hasFlag("game", args) && !flagValue(["out", "o"], args)) {
         process.env.OUT_DIR ??= path.join(BUILD, "release");
     }
     const dir = outputDir();

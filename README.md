@@ -43,15 +43,20 @@ npm run release
 
 That puts `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa` into `build/release`. Copy the three files over yourself when you want to install them. The images are not in there — see two paragraphs down, they have no build command at all.
 
-Add `--out` to build into some other folder:
+Where a build goes is two flags — on `release`, and on any one of the three commands above:
 
 ```
-node scripts/release.js --out=build/grok-test    # all three
-node scripts/ain.js --out=build/grok-test        # just Rance10.ain
-node scripts/release.js --out=D:/patches/v3      # anywhere else on disk
+node scripts/release.js                            # what npm run release runs: all three into build/release
+node scripts/release.js --game                     # all three into your game folder
+node scripts/release.js -o build/grok-test         # all three into a folder of your own
+node scripts/release.js --out="D:/my patches/v3"   # --out is -o spelled out; any disk will do
+
+node scripts/ain.js -o build/grok-test             # just Rance10.ain
 ```
 
-A path like `build/grok-test` counts from this repository's folder, not from the folder you are standing in, and it is created if it is not there yet. Setting `OUT_DIR` in your shell does the same thing for every build you run in it.
+Quote a path that has a space in it, the way the last line does. Without the quotes the build is handed `D:/my`, and it writes there and says nothing. `--out="D:/my patches/v3"` and `"--out=D:/my patches/v3"` both work, in PowerShell and in bash alike.
+
+`--game` is the folder your `.env` calls `GAME_DIR`, so the path to your game is written down once and never typed again. A path like `build/grok-test` counts from this repository's folder, not from the folder you are standing in, and it is created if it is not there yet. Setting `OUT_DIR` in your shell does the same thing for every build you run in it, and `--game` overrules it for the one run.
 
 Use `node scripts/...` for this rather than `npm run release -- --out=...`: in PowerShell the bare `--` disappears and you quietly get `build/release` instead.
 
