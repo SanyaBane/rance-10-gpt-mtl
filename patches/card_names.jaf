@@ -17,6 +17,24 @@
  */
 
 /*
+ * The English label for one card Id, where the tree has one.
+ *
+ * Three places want this exact lookup -- the card plate below, and the two
+ * card Ids the enemy status panel draws -- so it is a function rather than an
+ * expression written out three times. patches/enemy_info_panel.jam calls it by
+ * name, and alice-tools resolves a .jam's CALLFUNC against what it has already
+ * read, so this file has to be handed to it before that .jam. scripts/ain.js
+ * passes them in that order.
+ *
+ * The Id itself is the default, so a card the tree does not name -- the
+ * ＜エール＞ cards carry no entry -- renders exactly as it did unpatched.
+ */
+string CardEnglishLabel(string id)
+{
+	return EX_String("識別名情報.カード英名." + id + ".英名", id, 0);
+}
+
+/*
  * Name shown in the combat log. super() returns 識別名, except for the chapter
  * 2 protagonist where the original getter substitutes the player-chosen name.
  * Wrapping the original instead of reimplementing it keeps that branch intact.
@@ -45,6 +63,5 @@ override string Character@Name::get(void)
  */
 override string PlayerCard@ViewName::get(void)
 {
-	string id = super();
-	return EX_String("識別名情報.カード英名." + id + ".英名", id, 0);
+	return CardEnglishLabel(super());
 }

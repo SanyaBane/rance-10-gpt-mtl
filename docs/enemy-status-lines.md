@@ -5,6 +5,11 @@ can be captured or stolen from, and four lines of free text underneath saying
 what the fight will do to you — `3.6.9ラウンド　大技`, `自軍.燃え→大技`,
 `とにかく倒せ`. Those four lines are what this is about.
 
+The two card Ids beside *Capturable* and *Stealable* are English too, but by
+another route entirely: those are save keys rather than names, so the panel's
+own function is patched and the strings are left alone. See
+[card-name-localization.md](card-name-localization.md).
+
 ```
 npm run regenerate-enemy-info   # only after the .ain changes
 npm run regenerate-ain          # the build; reads the two files below

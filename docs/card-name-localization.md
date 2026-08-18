@@ -176,6 +176,51 @@ of this patch did. Both routes are worse:
 table, no messages touched, no existing index moved. That is why it composes
 with `-t` in a single invocation.
 
+### The same Ids on the enemy status panel
+
+The panel that opens when an enemy is clicked in battle carries two more of
+these Ids: what the enemy is captured as, and what can be stolen from it.
+`EnemyInformationView@SetParam` writes both of them out raw —
+
+```
+label("Capture").SetText(g_battleContext.Capture.CaptureTarget)
+label("Steal").SetText(g_battleContext.Capture.StealTarget)
+```
+
+— and they are keys like every other Id here. `CardGenerator@GenerateFromId`
+builds the captured card out of `CaptureTarget`, `CardCapture@GetTreasureBoxCardIds`
+hands it to the chest, `IsCaptureSuccess` compares it against `""`, and
+`CaptureTarget::set` drops anything `PlayerCard::IsExistId` does not already
+know. So the rule is the one above: patch the display, leave the string alone.
+The lookup is `CardEnglishLabel` in [`patches/card_names.jaf`](../patches/card_names.jaf),
+which is where `ViewName` gets it from too, and
+[`patches/enemy_info_panel.jam`](../patches/enemy_info_panel.jam) calls it on the
+way to each of the two labels.
+
+That one **is** a `.jam`, which is not a contradiction of the section above.
+`SetParam` reads `this.m_act` on every line it draws and the `.jaf` compiler
+resolves neither `this` nor a struct's own members, so there is no `override`
+to write. What makes it safe is that the patched function adds no local:
+`--jam` rewrites code and leaves the `FUNC` section alone, so a function keeps
+the locals it was compiled with. And it is a *partial* `.jam`, which works —
+the "does not work at all" above is about `ain edit -c`, which replaces the
+whole CODE section. `--jam` appends the patched function and repoints the table
+at it, leaving the original body in place as dead code; a dump of the built
+`.ain` shows `EnemyInformationView@SetParam` twice, once with the two added
+`CALLFUNC` lines and once without.
+
+The width question settles itself. Of the 99 Ids that can reach that panel the
+widest Japanese is 21 half-width units (`魔物 幸福きゃんきゃん`) and the widest
+English 22 (`Monster Love Me Tender`), so the English asks the label for one
+unit more than the game already draws there. It cannot ask for more than that
+either: these are the plate's own labels, and `scripts/generate_card_names.js`
+has already compressed them to the plate's 22-unit budget.
+
+One of the 99 is not a card Id at all. An enemy sets its capture target to
+`ストーンＧ` where the card is `魔物 ストーンＧ`, so `CaptureTarget::set` refuses
+it and nothing ever reaches the label. The patch reproduces that exactly: the
+Id is the `EX_String` default, and there is no Id.
+
 ## Where the English strings live
 
 `識別名情報` gains a leaf inside each existing node, plus one new sibling node
