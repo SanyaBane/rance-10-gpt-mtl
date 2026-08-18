@@ -157,6 +157,28 @@ carries for it — that is the designer's own statement of the width. Measure
 against it with `getTextWidth` from `modules/TextNormalization.js` and warn
 rather than truncate.
 
+## An `.ex` dump is not the table it came from
+
+`alice ex dump` writes the line break inside a description as a bare `r`, where
+the tables under `archives/Rance10EX_v1_04/` carry the escaped form the build
+needs — which is what `#8 Fix r escaping in Skill Descriptions` went and put
+there. So a fresh dump cannot be pasted back over a table, and cannot be diffed
+against one either: counting description lines without allowing for it makes 133
+rows of `11_スキルデータ.x` look like they say more than the game does, when the
+whole of the difference is that English wraps wider than Japanese.
+
+What a dump is good for is the numbers, and they are worth checking. These
+tables were forward-ported from v1.00, so a row can carry English the game has
+since rewritten: skill 1954 promised "2 attacks" and "AP accumulation" long
+after v1.04 took both away and cut its description down to `攻撃(3倍)`. Comparing
+every numeric column of all 1028 rows against an untranslated `.ex` found that
+one text, no other drift, and no lost data.
+
+Which means the copy compared against has to be the game's own. The
+`Rance10EX.ex` under `GAME_DIR` is this repository's output rather than the
+original, and a backup sitting beside it is as likely to be an older build of
+the same patch.
+
 ## Repository language
 
 Everything committed here — code comments, `docs/`, commit messages, this file —
