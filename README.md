@@ -7,7 +7,7 @@ So, apparently, with [alice-tools](https://github.com/nunuhara/alice-tools) it's
 
 And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to translate the game with rather fine quality.
 
-Youtube recordings of the walkthrough with this English patch:
+Youtube recordings of the walkthrough with this English patch (ChatGPT version of translation):
 https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
 
 You can obtain the game copy here: (please, support the developer!)
