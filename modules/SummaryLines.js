@@ -35,10 +35,11 @@
  * the measure.
  */
 import * as fs from "fs/promises";
+import {readFileSync} from "fs";
 import * as path from "path";
 import {ROOT} from "./Env.js";
 import {gameTextWidth} from "./GameFont.js";
-import {createNameChecker, mentions} from "./NameNormalizer.js";
+import {SHARED_NAMES, createNameChecker, mentions} from "./NameNormalizer.js";
 
 /** The game's own table. Written into by the build, never by hand. */
 export const SUMMARY_DATA = path.join(ROOT, "archives", "Rance10EX_v1_04", "37_あらすじデータ.x");
@@ -126,11 +127,78 @@ const DANGLING = new Set(("a an and are as at be but by for from her his in into
 const LEADING = /^[=:-]+$/;
 
 /**
+ * The English that is one word in more than one word: the terms this screen
+ * settled on and the names the tables spell, both of which read as broken when
+ * a row ends in the middle of them -- "wears the Monster / Army down further",
+ * "Meanwhile, Grand / Marshal Stroganoff".
+ *
+ * Read on first use rather than at import, and with the synchronous fs, because
+ * the wrapping this serves runs inside layOutPanel, which scripts/summary_chunk.js
+ * calls from a filter. Loading it a second way rather than through
+ * readSummaryTerms is the price of that; both read the same two files.
+ *
+ * A leading "the" is dropped: breaking after an article is what DANGLING above
+ * already covers, and leaving it on would weld a break that is perfectly good.
+ */
+let unbreakable = null;
+
+const readUnbreakable = () => {
+    const phrases = [];
+    const add = (english) => {
+        const words = english.toLowerCase().replace(/^the /, "").split(" ");
+        if (words.length > 1) {
+            phrases.push(words);
+        }
+    };
+    for (const line of readFileSync(SUMMARY_TERMS, "utf-8").split(/\r?\n/)) {
+        if (!line.trim() || line.startsWith("#")) {
+            continue;
+        }
+        const [, english, short] = line.split("\t");
+        [english, short].filter(Boolean).forEach(form => add(form.trim()));
+    }
+    for (const record of JSON.parse(readFileSync(SHARED_NAMES, "utf-8"))) {
+        add(record.shortNameEng);
+    }
+    return phrases;
+};
+
+/** A word as it compares: "Army's" and "Lei," are the Army and Lei. */
+const bareWord = (word) => word.toLowerCase().replace(/['’]s$/, "").replace(/[^a-z0-9]+$/, "");
+
+/**
+ * The break positions inside one of those phrases, for this caption's words.
+ *
+ * A position is the gap before words[at], so a phrase found at `from` welds
+ * every gap it spans but not the ones at either end.
+ */
+const weldedBreaks = (words) => {
+    unbreakable ??= readUnbreakable();
+    const bare = words.map(bareWord);
+    const welded = new Set();
+    for (const phrase of unbreakable) {
+        for (let from = 0; from + phrase.length <= bare.length; from++) {
+            if (phrase.every((word, at) => word === bare[from + at])) {
+                for (let gap = from + 1; gap < from + phrase.length; gap++) {
+                    welded.add(gap);
+                }
+            }
+        }
+    }
+    return welded;
+};
+
+/**
  * A caption broken across as many rows as it needs, on spaces.
  *
- * Fewest rows first, then the evenest split of them, and a word that should not
- * end a row costs a break the same as being a quarter of the panel short. A
- * caption that has to take two rows reads better halved than
+ * Fewest rows first, then the evenest split of them, and two things a break
+ * pays for: ending a row on a word the next one is needed to make sense of,
+ * which costs a quarter of the panel, and landing inside a name or a term,
+ * which costs a whole row of it. Neither can change how many rows a caption
+ * takes, since the row count is settled before the cost is looked at -- they
+ * only decide where among the splits of that height the breaks go.
+ *
+ * A caption that has to take two rows reads better halved than
  * filled-then-dribbled, because the panel's dotted rules space every row the
  * same: "The satellite weapon / comes into view" reads as one caption where
  * "The satellite weapon comes / into view" reads as two.
@@ -156,6 +224,7 @@ export const wrapToPanel = (text) => {
     const best = Array(words.length + 1);
     best[words.length] = {rows: 0, cost: 0, next: words.length};
     const dangling = (panelWidth() / 4) ** 2;
+    const welded = weldedBreaks(words);
     for (let at = words.length - 1; at >= 0; at--) {
         for (let to = at + 1; to <= words.length; to++) {
             const slack = panelWidth() - width(at, to);
@@ -165,7 +234,9 @@ export const wrapToPanel = (text) => {
             const rows = 1 + best[to].rows;
             const awkward = to < words.length
                 && (DANGLING.has(words[to - 1].toLowerCase()) || LEADING.test(words[to]));
-            const cost = slack * slack + best[to].cost + (awkward ? dangling : 0);
+            const cost = slack * slack + best[to].cost
+                + (awkward ? dangling : 0)
+                + (welded.has(to) ? panelWidth() ** 2 : 0);
             if (!best[at] || rows < best[at].rows || (rows === best[at].rows && cost < best[at].cost)) {
                 best[at] = {rows, cost, next: to};
             }

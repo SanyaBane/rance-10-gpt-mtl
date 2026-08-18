@@ -97,12 +97,23 @@ than the node started with, where it needs them. 2152 of the 2208 events have
 at least one row to spare, so most of the room is already there.
 
 `wrapToPanel` breaks on spaces, into as few rows as the caption needs and then
-as evenly as it can, preferring not to end a row on `and` or `the`. Even beats
-greedy here because the panel's dotted rules space every row alike: `The
-satellite weapon / comes into view` reads as one caption, where `The satellite
-weapon comes / into view` reads as two. Whether the second row stands up as a
-caption of its own is the translator's ear, and the way to fix one that does is
-to phrase the caption so it breaks elsewhere.
+as evenly as it can. Even beats greedy here because the panel's dotted rules
+space every row alike: `The satellite weapon / comes into view` reads as one
+caption, where `The satellite weapon comes / into view` reads as two.
+
+Two things pull against even. A row should not end on a word the next one is
+needed to make sense of -- `and`, `the`, `of` -- and a break should not land
+inside a name or a term, because `wears the Monster / Army down further` reads
+as a caption that lost its subject. The second is why the terms are a table:
+`glossaries/summary_terms.tsv` and `glossaries/mistranslated_names.json` are
+read for their English as well, and every phrase in them of more than one word
+is welded. Neither rule can change how tall a caption is -- the row count is
+settled before either is looked at, so they only choose among the splits of that
+height.
+
+What is left is the translator's ear. Whether the second row stands up as a
+caption of its own is not something a rule can hear, and the way to fix one that
+does is to phrase the caption so it breaks elsewhere.
 
 Where the event has no row to spare, the captions that overflow least are put
 back onto one row and left to run off the panel. Those are the ones somebody has

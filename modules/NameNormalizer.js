@@ -56,7 +56,10 @@ const layer = (shared, overrides) => {
     return [...layered, ...overrides.filter(record => !alreadyNamed.has(record.shortNameJpn))];
 };
 
-export const readSharedNameTable = async () => readTable(path.join(ROOT, "glossaries", "mistranslated_names.json"));
+/** The canonical spellings, shared by every variant and by the card plates. */
+export const SHARED_NAMES = path.join(ROOT, "glossaries", "mistranslated_names.json");
+
+export const readSharedNameTable = async () => readTable(SHARED_NAMES);
 
 export const readNameTable = async (variantDir) => {
     const table = layer(
