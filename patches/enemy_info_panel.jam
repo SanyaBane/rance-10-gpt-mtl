@@ -1,0 +1,81 @@
+; The enemy status panel, on every round rather than only after アナライズ --
+; when the switch file is there.
+;
+; The panel is EnemyInformationView, and the game shows it from exactly one
+; place: SceneBattle@OnSkillEffectPostProcess casts the finished effect to
+; SkillEffectProcessShowEnemyInformation -- skill effect 48, which only
+; アナライズ (skill Id 1119) carries -- and calls m_enemyInfoView.Show().
+; Show() runs SetParam() and fades the panel in, and nothing ever hides it
+; again, so one call per round leaves it up for the whole battle.
+;
+; This is a .jam rather than a .jaf because the call has to be made on a member
+; of SceneBattle, and alice-tools' .jaf compiler resolves neither `this` nor a
+; struct's own members inside an override -- only arguments, locals, globals
+; and super(). What it can do is assemble a whole function and repoint the
+; function table at it, which is what --jam is for.
+;
+; SceneBattle@ShowRound is the hook: it is 26 instructions, it has one caller
+; (SceneBattle@StartRound, past the early return that skips a round the player
+; does not get), and it runs after the battle has begun, so g_enemy -- which
+; EnemyInformationView@SetParam dereferences without checking -- is set. The
+; body below is that function verbatim, from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; with the tail added. Regenerate it the same way if the game version changes:
+; every number here is an index into one build of one .ain.
+;
+; The switch itself is patches/enemy_info_panel.jaf, not this file. It builds a
+; path, and a path needs a string local -- which cannot go here, because --jam
+; rewrites code and not the FUNC section, so this function's three locals are
+; the three it was compiled with. CALLFUNC resolves EnemyInfoPanelEnabled by
+; name, which means alice-tools has to be handed that .jaf *before* this file:
+; the other order stops with "Unable to resolve function".
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ" -- and an
+; editor that defaults .jam to UTF-8-with-BOM will quietly put one back.
+;
+;   CALLFUNC EnemyInfoPanelEnabled           is the switch file there
+;   IFZ skip_panel                           no: leave the panel alone
+;   .STRUCTREF SceneBattle m_enemyInfoView   the panel
+;   PUSH 24858                               EnemyInformationView@Show
+;   CALLMETHOD 0                             no arguments
+;
+; Showing it once per round rather than once per battle also refreshes it: the
+; enemy can change mid-battle (SceneBattle@OnInsertionEnemyChanged), and the
+; panel would otherwise keep describing the enemy that is gone. The cost is
+; that Show()'s slide-in animation replays each round.
+FUNC 24905
+	PUSHSTRUCTPAGE
+	PUSH 24944
+	.LOCALREF "<dummy : new BattleLog>"
+	DELETE
+	PUSHLOCALPAGE
+	PUSH 0
+	.STRUCTREF SceneBattle m_context
+	PUSH 26574
+	CALLMETHOD 0
+	.STACK_LOCALASSIGN "<dummy : BattleContext@Round::getの戻り値>"
+	NEW BattleLog 27222
+	ASSIGN
+	CALLMETHOD 1
+	.LOCALDELETE "<dummy : new BattleLog>"
+	.LOCALDELETE "<dummy : BattleContext@Round::getの戻り値>"
+	.STRUCTREF SceneBattle m_roundView
+	PUSH 24832
+	.STRUCTREF SceneBattle m_context
+	PUSH 26574
+	CALLMETHOD 0
+	.STACK_LOCALASSIGN "<dummy : BattleContext@Round::getの戻り値>#1"
+	PUSH 26653
+	CALLMETHOD 0
+	PUSH 1
+	CALLMETHOD 2
+	.LOCALDELETE "<dummy : BattleContext@Round::getの戻り値>#1"
+	CALLFUNC EnemyInfoPanelEnabled
+	IFZ skip_panel
+	.STRUCTREF SceneBattle m_enemyInfoView
+	PUSH 24858
+	CALLMETHOD 0
+skip_panel:
+	RETURN
+ENDFUNC SceneBattle@ShowRound

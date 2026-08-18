@@ -65,6 +65,16 @@ run(async () => {
         "-t", path.relative(ROOT, regeneratedTxt(variant)),
         "--jaf", "patches/card_names.jaf",
         "--jaf", path.relative(ROOT, RACE_JAF),
+        /*
+         * The enemy status panel, shown every round rather than only after
+         * アナライズ, when custom_mods\enemy_panel.on is there to switch it on.
+         * The .jaf is the switch and the .jam is the call, and that order is
+         * required: the .jam resolves EnemyInfoPanelEnabled by name, and
+         * alice-tools stops with "Unable to resolve function" if it assembles
+         * before it has compiled. Each file says why it is the kind it is.
+         */
+        "--jaf", "patches/enemy_info_panel.jaf",
+        "--jam", "patches/enemy_info_panel.jam",
         "-o", "{game}/Rance10.ain",
         path.relative(ROOT, AIN),
     ]);

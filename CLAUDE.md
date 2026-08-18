@@ -20,7 +20,7 @@ these is edited by hand:
 | Folder | Holds |
 |---|---|
 | `glossaries/` | the English, keyed by the Japanese — the tables below, and the two the enemy panel and the synopsis screen read |
-| `patches/` | what alice-tools is handed directly: the cherry-picked system strings, and `card_names.jaf` |
+| `patches/` | what alice-tools is handed directly: the cherry-picked system strings, the hand-written `.jaf`, and the one hand-assembled `.jam` |
 | `variants/` | one folder per translation of the dialogue |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |

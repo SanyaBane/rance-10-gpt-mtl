@@ -1,0 +1,32 @@
+/*
+ * Whether the enemy status panel comes up on its own, written as the presence
+ * of a file: custom_mods\enemy_panel.on under the game folder, beside
+ * Rance10.exe. Delete it and the panel goes back to being what アナライズ shows
+ * and nothing else. It is read at the start of every round, so creating or
+ * removing the file takes effect in the next round rather than the next launch.
+ *
+ * patches/enemy_info_panel.jam is what calls this, and says why the call it
+ * makes could not be written as .jaf itself. This half is .jaf because it
+ * needs a string local, and a .jam cannot add one.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not
+ * take a backslash in a string literal at all -- neither "\\" nor a lone one
+ * parses -- and Windows accepts either separator.
+ *
+ * It is looked for twice because whether SystemService.GetGameFolderPath()
+ * ends in a separator is something the game does not agree with itself about:
+ * two of its three callers concatenate a relative path straight onto it, which
+ * needs the trailing separator, and the third appends "\.." first, which does
+ * not. Trying both spellings costs one more stat per round and settles the
+ * question without running the game.
+ *
+ * The failure mode is the harmless one either way: a path that does not
+ * resolve reads as "no file", which is the game behaving exactly as it does
+ * unpatched.
+ */
+bool EnemyInfoPanelEnabled(void)
+{
+	string folder = SystemService.GetGameFolderPath();
+	return FileOperation.ExistFile(folder + "custom_mods/enemy_panel.on")
+	    || FileOperation.ExistFile(folder + "/custom_mods/enemy_panel.on");
+}
