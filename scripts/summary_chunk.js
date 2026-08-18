@@ -210,6 +210,10 @@ const panelBatch = async () => {
 
     const blocks = chosen.map(panel => {
         const {names, terms} = vocabulary(panel.rows.filter(Boolean));
+        // The captions the build gives up on in this event -- too wide for a row
+        // with no row left to lay them onto. Marked, because which one it is is
+        // decided by the whole panel and cannot be read off any single row.
+        const cramped = new Set(crampedCaptions(panel, glossary));
         const seen = new Set();
         const rows = panel.rows.map(japanese => {
             if (!japanese) {
@@ -222,11 +226,14 @@ const panelBatch = async () => {
             const note = !number ? "  (not a caption -- left as it is)"
                 : mine ? ""
                 : `  (translated with ${owner.get(japanese)})`;
-            return `${(mine ? String(number) : "").padStart(5)}| ${japanese}${english ? ` | ${english}` : ""}${note}`;
+            const bar = english && cramped.has(english) ? "!" : "|";
+            return `${(mine ? String(number) : "").padStart(5)}${bar} ${japanese}`
+                + `${english ? ` | ${english}` : ""}${note}`;
         });
         return [
             `### ${panel.name}`,
-            `${panel.rows.length} of the ${PANEL_ROWS} rows used, ${panel.free} to spare`,
+            `${panel.rows.length} of the ${PANEL_ROWS} rows used, ${panel.free} to spare`
+                + (cramped.size ? `, ${cramped.size} marked ! that will not fit` : ""),
             ...rows,
             ...listed("names:", names),
             ...listed("terms:", terms),
@@ -254,6 +261,11 @@ const panelBatch = async () => {
         "                                                      fixed here, for context only",
         "     empty line with just a bar                       a blank row the designers left",
         "                                                      between two thoughts; it stays",
+        "",
+        "A ! in place of the bar means that caption does not fit and this panel has",
+        "no row left to lay it onto, so it runs off the screen as it stands. Those are",
+        "the ones to shorten, and shortening one may be what frees the room another",
+        "needs -- the rows of a panel compete for the same spare space.",
         "",
         "Answer with one fenced code block and nothing else in it: the number I gave,",
         "a tab, the English. One line for each numbered row, in order, no Japanese, no",
