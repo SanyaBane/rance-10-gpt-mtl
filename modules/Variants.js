@@ -13,6 +13,7 @@
  */
 import * as fs from "fs";
 import * as path from "path";
+import {flagValue} from "./Argv.js";
 import {BUILD, ROOT} from "./Env.js";
 
 const VARIANTS_DIR = path.join(ROOT, "variants");
@@ -24,24 +25,12 @@ export const listVariants = () => fs.readdirSync(VARIANTS_DIR, {withFileTypes: t
     .sort();
 
 /**
- * Both --variant=grok and --variant grok, since npm run passes them through
- * either way and neither spelling is the wrong guess to make.
- */
-const fromArgv = (argv) => {
-    const index = argv.findIndex(arg => arg === "--variant" || arg.startsWith("--variant="));
-    if (index < 0) {
-        return undefined;
-    }
-    const arg = argv[index];
-    return arg.includes("=") ? arg.slice(arg.indexOf("=") + 1) : argv[index + 1];
-};
-
-/**
  * The flag beats TRANSLATION_VARIANT in .env, which beats the default -- so
- * .env names the one you build most and the flag is for the exception.
+ * .env names the one you build most and the flag is for the exception. Both
+ * --variant=grok and --variant grok are read; modules/Argv.js says why.
  */
 export const variantName = () => {
-    const name = fromArgv(process.argv.slice(2)) || process.env.TRANSLATION_VARIANT || DEFAULT_VARIANT;
+    const name = flagValue("variant") || process.env.TRANSLATION_VARIANT || DEFAULT_VARIANT;
     const available = listVariants();
     if (!available.includes(name)) {
         throw new Error(`There is no "${name}" translation variant. variants/ holds: ${available.join(", ")}.`);

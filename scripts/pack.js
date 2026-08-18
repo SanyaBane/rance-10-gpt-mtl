@@ -27,7 +27,7 @@
  */
 import * as fs from "fs";
 import * as path from "path";
-import {alice, gameDir, run} from "../modules/AliceTools.js";
+import {alice, outputDir, run} from "../modules/AliceTools.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 
 const TEMPLATE = "archives/Rance10Pact_manifest.txt";
@@ -37,7 +37,7 @@ const STAGING = "build/pactex";
 run(() => {
     const template = fs.readFileSync(path.join(ROOT, TEMPLATE), "utf-8");
     // The manifest quotes its path C-style, so every backslash in it is doubled.
-    const rendered = template.replaceAll("{game}", gameDir().replaceAll("\\", "\\\\"));
+    const rendered = template.replaceAll("{game}", outputDir().replaceAll("\\", "\\\\"));
     ensureBuild();
     fs.writeFileSync(path.join(ROOT, RENDERED), rendered, "utf-8");
     fs.mkdirSync(path.join(ROOT, STAGING), {recursive: true});

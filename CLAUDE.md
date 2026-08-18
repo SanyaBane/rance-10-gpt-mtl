@@ -45,7 +45,13 @@ three that configure it, and nothing else.
 npm run regenerate-ain          # the main build: dialogue + system text + the .jaf patches
 npm run regenerate-ex           # skill and character descriptions
 npm run regenerate-pack         # the UI archive
+npm run release                 # all three, into build/release rather than the game
 ```
+
+Each of the four writes into `GAME_DIR`, and `--out=<dir>` sends it elsewhere
+instead — `build/release` is only the default `npm run release` sets. Nothing in
+a build ever *reads* that directory, so redirecting it cannot leave one short of
+an input: `outputDir` in `modules/AliceTools.js`.
 
 The rest of this file is the handful of rules that are expensive to break, and
 the reasoning behind each, because each one was learned by breaking it.
@@ -140,11 +146,12 @@ alice ain dump -t -o built.txt <built>.ain     # strings and messages
 alice ain dump -c -o built.code <built>.ain    # code, for .jaf overrides
 ```
 
-Build into a scratch directory rather than the real one while testing. A
-`GAME_DIR` already in the environment wins over the one in `.env`, so setting it
-for the one command is enough — `GAME_DIR=/tmp/whatever node scripts/ain.js` in
-bash, `$env:GAME_DIR = "C:\tmp\whatever"; node scripts/ain.js` in PowerShell,
-which has no inline prefix form. Worth the extra step: the game directory holds
+Build into a scratch directory rather than the real one while testing:
+`node scripts/ain.js --out=build/scratch` sends every one of the three builds
+somewhere else, resolved against the repository root and created if it is not
+there, and `OUT_DIR` in the environment says the same thing for a whole shell.
+(A `GAME_DIR` already in the environment still wins over the one in `.env`, the
+way it always did.) Worth the extra step: the game directory holds
 one `Rance10.ain`, and installing the default variant over somebody's
 `grok` silently switches the whole script. `docs/translation-variants.md`
 says what a variant is and how the `--variant` flag gets eaten by PowerShell.

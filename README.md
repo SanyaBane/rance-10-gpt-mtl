@@ -35,6 +35,26 @@ ______________________________________
 5. Run `npm run regenerate-ex` to do same for the `Rance10EX.ex` file that translates skill descriptions, character descriptions, quests, and the synopsis screen
 6. Run `npm run regenerate-pack` to translate some UI elements, like settings menu (the archive it builds is already translated in the released patch, so this only matters if you edit `archives/Rance10Pact_v1_04`)
 
+Those three commands write straight into your game folder. To build into a folder instead, run all three at once:
+
+```
+npm run release
+```
+
+That puts `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa` into `build/release`. Copy the three files over yourself when you want to install them. The images are not in there — see two paragraphs down, they have no build command at all.
+
+Add `--out` to build into some other folder:
+
+```
+node scripts/release.js --out=build/grok-test    # all three
+node scripts/ain.js --out=build/grok-test        # just Rance10.ain
+node scripts/release.js --out=D:/patches/v3      # anywhere else on disk
+```
+
+A path like `build/grok-test` counts from this repository's folder, not from the folder you are standing in, and it is created if it is not there yet. Setting `OUT_DIR` in your shell does the same thing for every build you run in it.
+
+Use `node scripts/...` for this rather than `npm run release -- --out=...`: in PowerShell the bare `--` disappears and you quietly get `build/release` instead.
+
 There is more than one translation of the dialogue in here. `npm run regenerate-ain` builds the `gpt` one, the translation this repository has always shipped; `node scripts/ain.js --variant=grok` builds a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok, and `TRANSLATION_VARIANT` in `.env` changes which one you get by default. (The npm spelling of the flag, `npm run regenerate-ain -- --variant=grok`, works in cmd.exe and bash but not in PowerShell, which eats the bare `--` and quietly builds the default instead.) Only the dialogue differs — the UI text, the card names and the images are the same either way. See [docs/translation-variants.md](docs/translation-variants.md) for what a variant is made of and how to add one.
 
 The images are English too, in `archives/Rance10Flat_v1_04` and `archives/Rance10CG2_v1_04`, and they are the one thing here with no command. `ar pack` rebuilds an archive out of every entry it holds rather than patching the one file you changed, so packing either of those needs the game's own copy of the thousands of images nobody translated — half a gigabyte the repository cannot carry. See [docs/image-archives.md](docs/image-archives.md) for how each is packed, and what a mistake costs you.
