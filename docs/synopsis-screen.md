@@ -158,6 +158,16 @@ than one event belongs to the first of them by file order and reads as fixed
 context in the rest -- which matters for `戦闘開始` and the 313 others like it,
 and not at all for the 4145 that appear exactly once.
 
+Owning a phrase is not the same as being the only panel that draws it, and the
+difference is the one trap this mode has. A caption written to follow the row
+above it is that panel's own sentence and a non-sequitur everywhere else:
+`各国姫をケイブリスが陵辱` reads perfectly as "He violates the princess of
+every land" under `Demon King Kayblis rules the world`, and in `５５５／人類滅亡`
+there is nobody in the panel for that "He" to be. So the block says
+`(also drawn in N other panels)` beside a caption it is asking for, and a
+caption carrying that note has to stand up under rows this block is not
+showing. `--node=` is how to go and look at them.
+
 What comes back is unchanged: `<number> <TAB> <the English>`, one line per
 caption, numbered by position in the glossary. The translator never breaks a
 caption -- the build does that -- they are told how much room the event has and
@@ -209,6 +219,14 @@ own mark for a condition rather than a word. `※要◯◯　内容若干変化`
 enforceable at all is that `summary_merge.js` refuses a row still carrying kana
 or kanji outright -- full-width punctuation is outside those blocks and gets
 through, so it is on the translator.
+
+The one that cannot get through is the leading full-width space. Ten rows open
+with one, `　裸イベント` and `　少し下がる` among them, and it is an indent under
+the row above rather than a word. `summary_merge.js` trims the English it reads,
+and JavaScript's `trim` counts U+3000 as whitespace, so a reply that keeps the
+indent merges as though it had not -- silently, since the row it leaves is the
+row that was already there. All ten drop it, and the prompt says so rather than
+asking for something the merge will not take.
 
 The glossary ends in an unbroken run of 144 `◯◯裸イベント` rows, one per
 character, and every one of them is `X nude event`.

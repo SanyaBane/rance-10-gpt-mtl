@@ -91,7 +91,11 @@ for (const line of reply.split(/\r?\n/)) {
         continue;
     }
     // The number, then whatever the model used to part it from the text.
-    const match = line.match(/^\s*(\d+)\s*[\t.):\]-]?\s*(.+)$/);
+    // Punctuation is that separator only where it sits against the number and
+    // whitespace follows it: a caption can open on "..." or on a dash of its
+    // own, and eating the first character of one is a change nothing
+    // downstream reports.
+    const match = line.match(/^\s*(\d+)[.):\]-]?\s+(.+)$/);
     const row = match && lines[Number(match[1]) - 1];
     if (!row) {
         skipped.push(`no row of the glossary has that number -- ${JSON.stringify(line)}`);

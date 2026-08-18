@@ -191,8 +191,14 @@ const deliver = async (prompt, summary) => {
 const panelBatch = async () => {
     const panels = await readSummaryPanels();
     const owner = new Map();
+    // How many events draw the phrase at all, which is not the same question as
+    // who translates it. A caption written to follow the row above it reads as
+    // that panel's own sentence and as a non-sequitur in every other panel that
+    // shows it -- and 313 of the 4458 are shown somewhere else.
+    const shownIn = new Map();
     for (const line of lines) {
         owner.set(line.japanese, line.nodes[0]);
+        shownIn.set(line.japanese, new Set(line.nodes).size);
     }
 
     const wanted = text("node");
@@ -223,9 +229,11 @@ const panelBatch = async () => {
             const english = glossary.get(japanese) ?? "";
             const mine = number && owner.get(japanese) === panel.name && !seen.has(japanese);
             seen.add(japanese);
+            const elsewhere = (shownIn.get(japanese) ?? 1) - 1;
             const note = !number ? "  (not a caption -- left as it is)"
-                : mine ? ""
-                : `  (translated with ${owner.get(japanese)})`;
+                : !mine ? `  (translated with ${owner.get(japanese)})`
+                : elsewhere ? `  (also drawn in ${elsewhere} other panel${elsewhere > 1 ? "s" : ""})`
+                : "";
             const bar = english && cramped.has(english) ? "!" : "|";
             return `${(mine ? String(number) : "").padStart(5)}${bar} ${japanese}`
                 + `${english ? ` | ${english}` : ""}${note}`;
@@ -259,6 +267,8 @@ const panelBatch = async () => {
         "  <number> | <Japanese> | <the English it has now>   a caption to translate",
         "           | <Japanese> | ...  (translated with ...)  a caption another panel owns,",
         "                                                      fixed here, for context only",
+        "  <number> | ...  (also drawn in N other panels)      yours to translate, but it is",
+        "                                                      drawn under other rows as well",
         "     empty line with just a bar                       a blank row the designers left",
         "                                                      between two thoughts; it stays",
         "",
@@ -278,7 +288,11 @@ const panelBatch = async () => {
         "- A caption is a label, not a sentence. No trailing period.",
         "- The rows of a panel are read one after another, so a thought split across",
         "  two of them stays split the same way in English.",
-        "- Keep a leading ※ or a leading full-width space exactly where it is.",
+        "- Keep a leading ※ where it is. A leading full-width space is an indent",
+        "  rather than a word and does not survive the merge, so do not write one.",
+        "- A numbered caption can be drawn in panels other than this one, under rows",
+        "  that say something else. Unless the block shows it belongs to this panel",
+        "  alone, name who is doing what rather than leaning on the row above.",
         "- Spell a name the way the block gives it. Where the full name will not fit,",
         "  use the short form the game itself displays -- Katyusha for Katyusha Bosch,",
         "  Masamune for Dokuganryuu Masamune -- rather than a spelling of your own.",
@@ -337,7 +351,8 @@ const flatBatch = async () => {
         "",
         "- At most 33 characters a line. Shorter is better.",
         "- No trailing period.",
-        "- Keep a leading ※ or a leading full-width space exactly where it is.",
+        "- Keep a leading ※ where it is. A leading full-width space is an indent",
+        "  rather than a word and does not survive the merge, so do not write one.",
         "- Some lines are crude or sexual. Translate them plainly rather than softening",
         "  them. If you will not translate one, leave its number out -- do not renumber.",
         ...listed("- These are names. Spell them exactly this way:", names),
