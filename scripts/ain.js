@@ -58,8 +58,9 @@ run(async () => {
     const variant = variantName();
     /*
      * Which optional patches this build takes, --with= and --without= away.
-     * What they are is modules/Features.js and nothing is spelled out here, so
-     * the next one is an entry in that table rather than two more lines below.
+     * What they are is one folder apiece under features/, which
+     * modules/Features.js reads, and nothing is spelled out here -- so the
+     * next one is a folder rather than two more lines below.
      *
      * Read before anything is rendered, because a misspelled feature is a
      * message rather than a build and a minute of dialogue would go by first.

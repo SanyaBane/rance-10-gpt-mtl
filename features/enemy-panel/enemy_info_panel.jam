@@ -2,8 +2,8 @@
 ; when the switch file is there.
 ;
 ; Half of a feature a build can leave out -- the other half is the switch,
-; patches/enemy_info_panel.jaf, and modules/Features.js is where the pair is
-; named. The same panel's two card Ids in English are a separate file,
+; enemy_info_panel.jaf beside it, and feature.js in this folder is where the
+; pair is named. The same panel's two card Ids in English are a separate file,
 ; patches/enemy_panel_cards.jam, and no feature of anything: that is
 ; translation, so every build gets it.
 ;
@@ -29,8 +29,8 @@
 ; with the tail added. Regenerate it the same way if the game version changes:
 ; every number here is an index into one build of one .ain.
 ;
-; The switch itself is patches/enemy_info_panel.jaf, not this file. It builds a
-; path, and a path needs a string local -- which cannot go here, because --jam
+; The switch itself is enemy_info_panel.jaf, not this file. It builds a path,
+; and a path needs a string local -- which cannot go here, because --jam
 ; rewrites code and not the FUNC section, so this function's three locals are
 ; the three it was compiled with. CALLFUNC resolves EnemyInfoPanelEnabled by
 ; name, which means alice-tools has to be handed that .jaf *before* this file:

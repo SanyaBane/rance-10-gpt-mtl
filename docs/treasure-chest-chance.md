@@ -187,7 +187,7 @@ once `patches/card_names.jaf` is applied. The five experience captions above the
 
 `CalcTreasure` itself is a namespace function, not a method, and alice-tools'
 `.jaf` `override` is written for methods — the same wall
-`patches/enemy_info_panel.jam` ran into from the other side, and the reason that
+`features/enemy-panel/enemy_info_panel.jam` ran into from the other side, and the reason that
 patch is hand-assembled. The class methods around it are the practical handles,
 and all three have a `super()` that reproduces the original exactly:
 

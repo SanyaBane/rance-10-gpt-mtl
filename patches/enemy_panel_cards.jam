@@ -1,7 +1,7 @@
 ; Applied by every build: this is translation rather than a change to what the
 ; game does, unlike the panel-every-round feature it shared a file with until
-; the two were told apart -- patches/enemy_info_panel.jam, named in
-; modules/Features.js.
+; the two were told apart -- features/enemy-panel/, the folder that whole
+; feature lives in.
 ;
 ; It resolves CardEnglishLabel and 表示種族 by name, from patches/card_names.jaf
 ; and the generated build/race_names.jaf, so alice-tools has to be handed both

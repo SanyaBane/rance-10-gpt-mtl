@@ -274,7 +274,7 @@ Two things this deliberately accepts:
 
 ### How it would be patched
 
-Same split as `patches/enemy_info_panel.{jaf,jam}`, and for the same reason:
+Same split as `features/enemy-panel/enemy_info_panel.{jaf,jam}`, and for the same reason:
 `CalcTotalHp` has to write `this.m_totalHp`, and alice-tools' `.jaf` `override`
 resolves neither `this` nor a struct's own members. So the logic goes in a `.jaf`
 global function and a `.jam` replaces the body of FUNC 27914 with a `CALLFUNC` to

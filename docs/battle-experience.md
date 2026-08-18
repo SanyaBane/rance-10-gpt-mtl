@@ -443,7 +443,7 @@ the reward follows the roster you committed to before the fight.
 This is a `.jam`, not a `.jaf`. `SceneBattleResult@0` is a method whose body is
 almost entirely `PUSHSTRUCTPAGE`/`CALLMETHOD` against its own struct, and
 alice-tools' `.jaf` `override` resolves neither `this` nor a struct's own
-members — the same wall `patches/enemy_info_panel.jam` hit.
+members — the same wall `features/enemy-panel/enemy_info_panel.jam` hit.
 
 ### B. Pay the union of the two rosters
 

@@ -21,10 +21,10 @@
  *
  * Three places want this exact lookup -- the card plate below, and the two
  * card Ids the enemy status panel draws -- so it is a function rather than an
- * expression written out three times. patches/enemy_info_panel.jam calls it by
- * name, and alice-tools resolves a .jam's CALLFUNC against what it has already
- * read, so this file has to be handed to it before that .jam. scripts/ain.js
- * passes them in that order.
+ * expression written out three times. patches/enemy_panel_cards.jam calls it
+ * by name, and alice-tools resolves a .jam's CALLFUNC against what it has
+ * already read, so this file has to be handed to it before that .jam.
+ * scripts/ain.js passes them in that order.
  *
  * The Id itself is the default, so a card the tree does not name -- the
  * ＜エール＞ cards carry no entry -- renders exactly as it did unpatched.

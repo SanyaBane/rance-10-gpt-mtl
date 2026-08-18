@@ -194,7 +194,7 @@ hands it to the chest, `IsCaptureSuccess` compares it against `""`, and
 know. So the rule is the one above: patch the display, leave the string alone.
 The lookup is `CardEnglishLabel` in [`patches/card_names.jaf`](../patches/card_names.jaf),
 which is where `ViewName` gets it from too, and
-[`patches/enemy_info_panel.jam`](../patches/enemy_info_panel.jam) calls it on the
+[`features/enemy-panel/enemy_info_panel.jam`](../features/enemy-panel/enemy_info_panel.jam) calls it on the
 way to each of the two labels.
 
 That one **is** a `.jam`, which is not a contradiction of the section above.

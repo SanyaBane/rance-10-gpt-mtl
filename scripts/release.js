@@ -23,7 +23,7 @@
  *   Rance10Pact.afa
  *   optional/enemy-panel/Rance10.ain   the same, plus that one feature
  *
- * One extra .ain per entry in modules/Features.js, each of them the base plus
+ * One extra .ain per folder under features/, each of them the base plus
  * that feature and nothing else, to be copied over the base to turn it on. The
  * two archives never vary, so they are built once.
  *

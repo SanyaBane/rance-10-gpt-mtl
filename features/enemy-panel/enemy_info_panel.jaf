@@ -5,7 +5,7 @@
  * and nothing else. It is read at the start of every round, so creating or
  * removing the file takes effect in the next round rather than the next launch.
  *
- * patches/enemy_info_panel.jam is what calls this, and says why the call it
+ * enemy_info_panel.jam beside it is what calls this, and says why the call it
  * makes could not be written as .jaf itself. This half is .jaf because it
  * needs a string local, and a .jam cannot add one.
  *
