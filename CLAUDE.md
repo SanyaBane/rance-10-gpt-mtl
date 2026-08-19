@@ -65,14 +65,14 @@ The patches that change what the game *does* rather than what it says are one
 folder apiece under `features/` — the files that apply the change, and a
 `feature.js` saying what it is and in what order they reach `alice ain edit`.
 The folder's name is the feature's name. They are on by default, so the `.ain`
-that goes into a game folder is the one that gets played; `--with=<name>` and
-`--without=<name>` decide it for one run; and a release folder is built the
-other way round — a base `.ain` carrying none of them, and one
-`optional/<name>/Rance10.ain` apiece to copy over it, so that installing the
-English never means installing modified game logic with it. Adding the next
-feature is a folder and nothing in `modules/Features.js`, `scripts/ain.js` or
-`scripts/release.js`: the first of those reads `features/` rather than holding
-a list of what is in it.
+that goes into a game folder — or into a release folder — is the one that gets
+played, and `--with=<name>` and `--without=<name>` decide it for one run. A
+release used to carry an `optional/<name>/Rance10.ain` apiece instead, from when
+installing a feature meant installing a different `.ain`; the one feature there
+is has a switch file of its own now, so building it in changes nothing until the
+player asks. Adding the next feature is a folder and nothing in
+`modules/Features.js`, `scripts/ain.js` or `scripts/release.js`: the first of
+those reads `features/` rather than holding a list of what is in it.
 
 A feature has to build without a translation, because that is what
 `--text-lang=jp` is: the game's own `.ain` with the features over it and no

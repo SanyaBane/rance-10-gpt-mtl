@@ -1,50 +1,64 @@
 /**
- * Build all three patched files into one folder rather than into the game.
+ * Build every text language into a folder of its own rather than into the game.
  *
- *   npm run release                             # build/release
- *   npm run release -- --text-lang=en_grok
+ *   npm run release                            # build/release
+ *   npm run release -- --text-lang=en_grok     # just that one
  *   node scripts/release.js -o build/scratch
- *   node scripts/release.js --game              # into the game, all three at once
+ *   node scripts/release.js --game             # into the game, all of it at once
  *
- * The three builds are the three commands README lists, run in order, with the
- * output directory pointed at build/release instead of GAME_DIR -- see
- * outputDir in modules/AliceTools.js for why redirecting it cannot leave a
- * build short of an input. Nothing here knows how to build anything: the
- * arguments it was given are handed to each of them, each takes the flags it
- * knows, and a flag added to one of them needs no change in this file. The
- * exceptions are the flags this file answers itself -- where a build writes,
- * and which features it takes -- which are stripped before its own are added.
+ * The builds are the three commands README lists, run with the output directory
+ * pointed somewhere other than GAME_DIR -- see outputDir in
+ * modules/AliceTools.js for why redirecting it cannot leave a build short of an
+ * input. Nothing here knows how to build anything: the arguments it was given
+ * are handed to each of them, each takes the flags it knows, and a flag added
+ * to one of them needs no change in this file. The exceptions are the flags
+ * this file answers itself -- where a build writes, and which text language it
+ * is -- which are stripped before its own are added.
  *
- * A release folder is laid out so that installing the English never means
- * installing modified game logic with it:
+ * A release folder is one folder per folder under text_languages/:
  *
- *   Rance10.ain                        the translation, and no feature at all
- *   Rance10EX.ex
- *   Rance10Pact.afa
- *   optional/enemy-panel/Rance10.ain   the same, plus that one feature
+ *   en_gpt/Rance10.ain, Rance10EX.ex, Rance10Pact.afa
+ *   en_grok/Rance10.ain, Rance10EX.ex, Rance10Pact.afa
+ *   jp/Rance10.ain
  *
- * One extra .ain per folder under features/, each of them the base plus
- * that feature and nothing else, to be copied over the base to turn it on. The
- * two archives never vary, so they are built once.
+ * Each is a whole install: copy the contents of one folder into the game and
+ * that is the patch, with nothing to assemble out of two places. The price is
+ * that Rance10EX.ex and Rance10Pact.afa are the same file twice -- they hold no
+ * dialogue, so they do not vary by text language -- which is why they are built
+ * once and copied rather than built per folder.
  *
- * --game is the other job and gets the other layout: what you play, which is
- * the features that are on by default and nothing beside it. A game folder
- * reads one Rance10.ain, so a tree of alternatives in it would be dead weight.
+ * jp is the game's own script with the features over it and no English at all,
+ * so it is one file; and with no features selected there would be nothing in it
+ * but the game's own .ain, so that folder is skipped rather than shipped.
+ *
+ * Which features every folder takes is --with= and --without=, the same as any
+ * other build. There used to be an optional/<feature>/Rance10.ain apiece here,
+ * from when the enemy panel could only be turned on by installing a different
+ * .ain; it has a switch file of its own now, so the .ain in every folder is the
+ * one with the features in it.
+ *
+ * --game is the other job and gets the other layout: what you play, one text
+ * language, straight into the game folder. A game folder reads one Rance10.ain,
+ * so a tree of alternatives in it would be dead weight.
  *
  * What lands in a release folder is the text and the code, which is not the
  * whole patch: the two image archives are packed by hand out of half a gigabyte
  * of the game's own files that this repository cannot carry, and
  * docs/image-archives.md is how.
  */
+import * as fs from "fs";
 import * as path from "path";
 import {spawnSync} from "child_process";
 import {flagValue, hasFlag, withoutFlags} from "../modules/Argv.js";
 import {outputDir, run} from "../modules/AliceTools.js";
 import {BUILD} from "../modules/Env.js";
-import {FEATURES, FEATURE_NAMES} from "../modules/Features.js";
+import {selectedFeatures} from "../modules/Features.js";
+import {isTranslated, listTextLangs, TEXT_LANGS, textLangName} from "../modules/TextLanguages.js";
 
-const BUILDS = ["ain.js", "ex.js", "pack.js"];
-const OPTIONAL = "optional";
+/** The one build that is per text language, and the two that are not. */
+const AIN = "ain.js";
+const SHARED = ["ex.js", "pack.js"];
+const SHARED_FILES = ["Rance10EX.ex", "Rance10Pact.afa"];
 
 /**
  * A child process per build rather than three imports: each is written as an
@@ -60,63 +74,106 @@ const node = (script, args) => {
     return result.status ?? 1;
 };
 
-/** Every feature off, and every feature but one off: the two selections below. */
-const NO_FEATURES = `--without=${FEATURE_NAMES.join(",")}`;
-const onlyFeature = (name) => [`--with=${name}`, `--without=${FEATURE_NAMES.filter(other => other !== name).join(",")}`];
+/** Every build this run makes, in order, as {script, args}. */
+const stagesFor = (scripts, args) => scripts.map(script => ({script, args}));
+
+/**
+ * Installing: one text language into GAME_DIR, chosen the way every other build
+ * chooses it -- the flag, then TEXT_LANG in .env, then the default. Said out
+ * loud before anything is rendered, because the game folder holds one
+ * Rance10.ain and working out afterwards which translation went into it means
+ * reading the dialogue.
+ */
+const install = (args, dir, features) => {
+    const lang = textLangName();
+    console.log(`Installing ${lang} into ${dir}`
+        + (features.length > 0 ? ` with ${features.join(", ")}` : " with no optional features"));
+    if (!isTranslated(lang)) {
+        console.warn(`  WARNING: ${lang} builds Rance10.ain and nothing else, so that is all this installs.`
+            + " Rance10EX.ex and Rance10Pact.afa in the game folder are left as they are -- if an English patch"
+            + " is installed there, those two are still English.");
+    }
+    return stagesFor([AIN, ...(isTranslated(lang) ? SHARED : [])], args);
+};
 
 run(() => {
     const args = process.argv.slice(2);
+    const installing = hasFlag("game", args);
     /*
      * Set for the children to inherit, and only as a default: --out on the
      * command line still wins inside each of them, and an OUT_DIR already in
      * the environment is somebody saying where their builds go. --game asks for
      * GAME_DIR by name, which outputDir() reads before either.
      */
-    if (!hasFlag("game", args) && !flagValue(["out", "o"], args)) {
+    if (!installing && !flagValue(["out", "o"], args)) {
         process.env.OUT_DIR ??= path.join(BUILD, "release");
     }
     const dir = outputDir();
-    const installing = hasFlag("game", args);
     /*
-     * A release folder holds every feature already, one .ain apiece, so there
-     * is nothing for --with or --without to decide and they would be dropped
-     * without a word. Installing is the run where choosing makes sense.
+     * Read here as well as in every child, to answer two questions this file
+     * has of its own: whether the untranslated folder would hold anything, and
+     * what to print at the end.
      */
-    if (!installing && (flagValue("with") !== undefined || flagValue("without") !== undefined)) {
-        throw new Error("--with and --without are for --game: a release folder builds every feature anyway,"
-            + " one Rance10.ain each under optional/.");
+    const features = selectedFeatures();
+
+    if (installing) {
+        for (const stage of install(args, dir, features)) {
+            const status = node(stage.script, stage.args);
+            if (status !== 0) {
+                console.error(`\n${stage.script} failed. ${dir} holds whatever the builds before it wrote.`);
+                return status;
+            }
+        }
+        console.log(`\nInstalled into ${dir}.`);
+        return 0;
     }
+
     /*
-     * Every build below is told where to write and which features to take, so
-     * the run's own answers to those two questions go first -- otherwise --game
-     * would reach a child that is being handed an --out as well, and the two
-     * refuse to be in the same command.
+     * Every text language, or the one --text-lang names. TEXT_LANG in .env is
+     * not read here on purpose: it says which one you install, and a release
+     * folder carries them all anyway.
      */
-    const rest = withoutFlags(args, ["out", "o", "with", "without"], ["game"]);
-
-    const stages = installing
-        ? BUILDS.map(script => ({script, args}))
-        : [
-            ...BUILDS.map(script => ({script, args: [...rest, `--out=${dir}`, NO_FEATURES]})),
-            ...FEATURE_NAMES.map(name => ({
-                script: "ain.js",
-                args: [...rest, `--out=${path.join(dir, OPTIONAL, name)}`, ...onlyFeature(name)],
-            })),
-        ];
-
-    for (const stage of stages) {
-        const status = node(stage.script, stage.args);
+    const langs = flagValue("text-lang", args) ? [textLangName()] : listTextLangs();
+    const rest = withoutFlags(args, ["out", "o", "text-lang"], ["game"]);
+    const built = [];
+    for (const lang of langs) {
+        if (!isTranslated(lang) && features.length === 0) {
+            console.log(`Skipping ${lang}: with no translation and no features it would be the game's own`
+                + " Rance10.ain, byte for byte.");
+            continue;
+        }
+        const status = node(AIN, [...rest, `--text-lang=${lang}`, `--out=${path.join(dir, lang)}`]);
         if (status !== 0) {
-            console.error(`\n${stage.script} failed. ${dir} holds whatever the builds before it wrote.`);
+            console.error(`\n${AIN} failed on ${lang}. ${dir} holds whatever the builds before it wrote.`);
+            return status;
+        }
+        built.push(lang);
+    }
+
+    /*
+     * The other two hold no dialogue, so they are the same file in every
+     * folder: built into the first translated one and copied into the rest.
+     * Copied rather than built again because a second `ar pack` is a minute of
+     * work to produce a file that is already there.
+     */
+    const translated = built.filter(isTranslated);
+    for (const script of translated.length > 0 ? SHARED : []) {
+        const status = node(script, [...rest, `--out=${path.join(dir, translated[0])}`]);
+        if (status !== 0) {
+            console.error(`\n${script} failed. ${dir} holds whatever the builds before it wrote.`);
             return status;
         }
     }
-
-    console.log(`\nBuilt into ${dir}: Rance10.ain, Rance10EX.ex, Rance10Pact.afa.`);
-    if (!installing) {
-        for (const name of FEATURE_NAMES) {
-            console.log(`  ${OPTIONAL}/${name}/Rance10.ain -- ${FEATURES[name].summary}`);
+    for (const lang of translated.slice(1)) {
+        for (const file of SHARED_FILES) {
+            fs.copyFileSync(path.join(dir, translated[0], file), path.join(dir, lang, file));
         }
+    }
+
+    console.log(`\nBuilt into ${dir}:`);
+    for (const lang of built) {
+        console.log(`  ${lang}/ -- ${TEXT_LANGS[lang].summary}`);
+        console.log(`    ${(isTranslated(lang) ? ["Rance10.ain", ...SHARED_FILES] : ["Rance10.ain"]).join(", ")}`);
     }
     return 0;
 });
