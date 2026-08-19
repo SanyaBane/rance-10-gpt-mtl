@@ -97,6 +97,12 @@ run(async () => {
              * reason: the one there is now resolves a name out of its own .jaf.
              */
             "--jam", "patches/enemy_panel_cards.jam",
+            /*
+             * The four states the battle log names. A .jam rather than three more
+             * lines of text because one of the four, ダウン, is a slot the enemy AI
+             * conditions are compared against -- the file says which and why.
+             */
+            "--jam", "patches/leader_state_names.jam",
         );
     } else if (features.length === 0) {
         console.log("  which is the game's own Rance10.ain: no text and no features is nothing to apply");

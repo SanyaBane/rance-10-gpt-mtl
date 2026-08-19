@@ -1,0 +1,62 @@
+; The four states the battle log names -- SkillEffectProcessLeaderState@Evaluate
+; writes "%s: %s！" and fills the second field from this function, so this is
+; where the log gets "Rance: Stunned！".
+;
+; Three of the four could be, and were, translated as strings. The fourth cannot:
+; s[3897] = "ダウン" is also what BattleInsertionProcessor@InnerProcess runs
+; String.Contains against, over tokens split out of the enemy AI conditions --
+; those are data and still Japanese, so a translated slot stops that test from
+; ever matching. The rule the repository keeps for exactly this case is to leave
+; the string alone and patch the function that displays it, which is what
+; patches/card_names.jaf does for card names and build/race_names.jaf for races.
+;
+; Which means all four move here, not just the one. A literal in a .jam is
+; assembled against the string table as it stands when alice-tools reads the
+; file, and the text patch has already run: S_PUSH "スタン" would match no slot
+; -- s[3965] says "Stunned" by then -- and come back as a new Japanese string
+; that this function would push. The enemy panel spent a long while drawing
+; 種族：%s for that reason. So the English is written in directly, and
+; patches/system_cherry_picks.v1.04.ain.txt keeps s[3965] through s[3967] only as
+; a comment pointing here. "Unknown" is the exception that needs no thought: it
+; is s[174], a slot shared far too widely to be anything but a text patch, and
+; it already reads English by the time this file is assembled.
+;
+; getStateNameFromSkillType returns the same three names from a second switch and
+; is left as it is -- it has no callers, the way 表示規模 has none.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ".
+;
+; The body is that function verbatim from
+;
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+;
+; with the five strings swapped and nothing else touched; regenerate it the same
+; way if the game version changes, since every number in it indexes one build of
+; one .ain. It adds no local, which is what makes it possible at all -- --jam
+; rewrites code and leaves the FUNC section alone, so a function keeps the
+; locals it was compiled with.
+FUNC 27472
+	.LOCALREF proc
+	PUSH 27334
+	CALLMETHOD 0
+	SWITCH 434
+	JUMP 0x4368a6
+.CASE 434:0 2
+	S_PUSH "Stunned"
+	RETURN
+.CASE 434:1 4
+	S_PUSH "Downed"
+	RETURN
+.CASE 434:2 3
+	S_PUSH "Petrified"
+	RETURN
+.CASE 434:3 0
+	S_PUSH "Boosted"
+	RETURN
+0x4368a6:
+	S_PUSH "Unknown"
+	RETURN
+	S_PUSH ""
+	RETURN
+ENDFUNC SkillEffectProcessLeaderState@GetStateName
