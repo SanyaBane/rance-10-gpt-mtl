@@ -65,7 +65,7 @@ const PANEL_LINE = "１２３４５６７８９ａ１２３４５６７８９ａ
 const HINT_FONT = 26;
 const RACE_FONT = 36;
 
-/** As patches/system_cherry_picks.v1.04.ain.txt translates 種族：%s. */
+/** As patches/enemy_panel_cards.jam translates 種族：%s -- the panel draws that one. */
 const LABEL = "Race：";
 
 const readTsv = async (filePath) => {

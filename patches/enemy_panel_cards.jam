@@ -49,6 +49,16 @@
 ; unit more than the Japanese the panel already draws. It cannot grow past that
 ; either: these are the card plate's own labels, and scripts/generate_card_names.js
 ; compresses those to the plate's 22-unit budget before they ever reach the tree.
+; The three literals this function writes itself -- the race label above BOSS,
+; and the two words for the scale beside it -- are translated here rather than
+; in patches/system_cherry_picks.v1.04.ain.txt, where they used to be s[3251],
+; s[3255] and s[3256]. There they were dead. --jam assembles S_PUSH "種族：%s"
+; into whatever slot already holds that text, and the text patch is applied
+; first, so by the time this file is read s[3251] says "Race：%s" and nothing
+; in the table says 種族：%s any more: the assembler adds it back as a new
+; string, and the panel draws that one. What this function pushes is what the
+; panel shows, so this is where those three belong.
+;
 FUNC 24857
 	.STRUCTREF EnemyInformationView m_act
 	PUSH 29060
@@ -56,7 +66,7 @@ FUNC 24857
 	CALLMETHOD 1
 	.STACK_LOCALASSIGN "<dummy : Activity@GetLabelの戻り値>"
 	PUSH 29150
-	S_PUSH "種族：%s"
+	S_PUSH "Race：%s"
 	.GLOBALREF g_enemy
 	PUSH 27699
 	CALLMETHOD 0
@@ -105,7 +115,7 @@ FUNC 24857
 	CALLMETHOD 1
 	.STACK_LOCALASSIGN "<dummy : Activity@GetLabelの戻り値>#1"
 	PUSH 29150
-	S_PUSH "小規模部隊"
+	S_PUSH "Small Size"
 	DUP_X2
 	A_REF
 	CALLMETHOD 1
@@ -128,7 +138,7 @@ FUNC 24857
 	CALLMETHOD 1
 	.STACK_LOCALASSIGN "<dummy : Activity@GetLabelの戻り値>#2"
 	PUSH 29150
-	S_PUSH "大規模部隊"
+	S_PUSH "Large Size"
 	DUP_X2
 	A_REF
 	CALLMETHOD 1
