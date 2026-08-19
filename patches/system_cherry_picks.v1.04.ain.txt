@@ -47,6 +47,22 @@ s[3696] = "You have obtained battle Results。"
 ; SaveObjectView@OnButtonBaseClick
 s[3544] = "Load this save？"
 
+; SceneLoad@OnClickDeleteAll
+s[3560] = "All save data without a ★ will be deleted。Are you sure？"
+;
+; DialogScenes::RunInformationDialog(title, message), twice: SceneSave@OnClick and
+; CommonMenu@OnClick. s[2599] is the title of both and is pushed nowhere else.
+; s[2600] carries its line break as a bare r, which English cannot -- every r in
+; a word would be one -- so it takes the \n that s[2360] below already uses.
+s[2599] = "Save"
+s[2600] = "Save failed。\nDelete unneeded save data from the load screen"
+s[3564] = "Save failed。"
+;
+; Not the other two dialogs the .ain still has in Japanese. s[2854] and s[2898]
+; both go to DialogScenes::RunTestDialog, and that function is one instruction:
+; RETURN. Translating either would be work nobody could ever see, the way
+; patching 表示規模 would have been.
+
 s[2360] = "Do you want to quit the game？\n\n※Unsaved data will be lost."
 
 ; SceneCommonMenu@LoadSnapShot
@@ -298,6 +314,36 @@ s[3964] = "%s: %s！"
 
 ; SceneBattle@ShowAdditionalDamageLog
 s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
+
+; SceneBattle@CheckActionCountLimit
+s[3270] = "Action limit！Up to %d actions"
+; SceneBattle@RunSelectedSkill. Omikuji is what 11_スキルデータ.x calls the skill,
+; so the log and the skill that caused it read as the same thing.
+s[3276] = "Copandon's Omikuji！"
+; SceneBattle@<lambda : SceneBattle@ProcessAttack(ref PlayerAction)(617, 34)>
+s[3280] = "<Target> woke up！"
+; SceneBattle@CheckLeaderReaction, and SkillEffectProcessPostReaction@Evaluate
+s[3285] = "{255,200,0}Extra Action{} activated！<Player> can act once more！"
+; SceneBattle@LogPlayerAction
+s[3294] = "■■%s's [%s]■■"
+; SceneBattle@ShowLogGuard
+s[3295] = "The Fiend's invincible barrier was removed！"
+; SceneBattle@CreateLogNormalGuardBreak
+s[3297] = "Limit Broken！"
+; SceneBattle@ProcessCountDown. Death Sentence is what glossaries/enemy_info_glossary.tsv
+; calls 即死予告 in the hint lines the same battle prints above it.
+s[3301] = "Death Sentence timed out！"
+; SceneBattle@RunAutoHeal
+s[3302] = "Auto-Recovery activated！"
+;
+; Three more in SceneBattle read like log lines and are not:
+;
+;   s[3268] = "戦闘開始" is the type argument of
+;   AssistantSelector@PlayMessage(type, param) -- a key into the assistant's
+;   message table rather than anything drawn.
+;
+;   s[3305] = "プレイヤー" and s[3306] = "エネミー" are substituted into
+;   "戦闘画面/シス／戦闘／%sターン" by SceneBattlePhase@0, which is a CG name.
 
 ; SceneBattle@ShowDefaultDamageLog
 
