@@ -3,6 +3,7 @@
  *
  *   npm run regenerate-ain                      # the language .env names, or en_gpt
  *   npm run regenerate-ain -- --text-lang=en_grok
+ *   node scripts/ain.js --text-lang=jp          # the features, over the game's own Japanese
  *
  * Rendering the patch and applying it are two steps, and they used to be a &&
  * chain in package.json -- which cannot take the flag: npm appends whatever
@@ -17,7 +18,7 @@ import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
-import {regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
+import {isTranslated, regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
 
 /**
  * A child process rather than an import: the generator holds both ain.json
@@ -66,26 +67,43 @@ run(async () => {
      * message rather than a build and a minute of dialogue would go by first.
      */
     const features = selectedFeatures();
-    console.log(features.length > 0 ? `Building with ${features.join(", ")}` : "Building with no optional features");
+    console.log(`Building ${textLang}`
+        + (features.length > 0 ? ` with ${features.join(", ")}` : " with no optional features"));
 
-    const rendered = node([path.join(import.meta.dirname, "regenerate_aai_txt.js"), `--text-lang=${textLang}`]);
-    if (rendered !== 0) {
-        return rendered;
+    /*
+     * Everything below the features is translation, and the Japanese is the
+     * absence of one: no dialogue to render, no race names to generate, and
+     * none of the three patches that write English into the .ain. What is left
+     * is the game's own script with the features over it -- and with no
+     * features either, the game's own .ain byte for byte, which is how you get
+     * back out of a modified one.
+     */
+    const english = [];
+    if (isTranslated(textLang)) {
+        const rendered = node([path.join(import.meta.dirname, "regenerate_aai_txt.js"), `--text-lang=${textLang}`]);
+        if (rendered !== 0) {
+            return rendered;
+        }
+        await renderRaceNames();
+        english.push(
+            "-t", path.relative(ROOT, regeneratedTxt(textLang)),
+            "--jaf", "patches/card_names.jaf",
+            "--jaf", path.relative(ROOT, RACE_JAF),
+            /*
+             * The enemy panel's two card Ids in English. Not optional -- it is
+             * translation -- and after both .jaf above, whose CardEnglishLabel
+             * and 表示種族 it resolves by name; the other order stops with
+             * "Unable to resolve function". The features come last for the same
+             * reason: the one there is now resolves a name out of its own .jaf.
+             */
+            "--jam", "patches/enemy_panel_cards.jam",
+        );
+    } else if (features.length === 0) {
+        console.log("  which is the game's own Rance10.ain: no text and no features is nothing to apply");
     }
-    await renderRaceNames();
     return alice([
         "ain", "edit",
-        "-t", path.relative(ROOT, regeneratedTxt(textLang)),
-        "--jaf", "patches/card_names.jaf",
-        "--jaf", path.relative(ROOT, RACE_JAF),
-        /*
-         * The enemy panel's two card Ids in English. Not optional -- it is
-         * translation -- and after both .jaf above, whose CardEnglishLabel and
-         * 表示種族 it resolves by name; the other order stops with "Unable to
-         * resolve function". The features come last for the same reason: the
-         * one there is now resolves a name out of its own .jaf.
-         */
-        "--jam", "patches/enemy_panel_cards.jam",
+        ...english,
         ...featureArgs(features),
         "-o", "{game}/Rance10.ain",
         path.relative(ROOT, AIN),

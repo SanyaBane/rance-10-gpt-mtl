@@ -9,11 +9,17 @@
  * cherry-picked system strings, the wrapping and the name repairs -- is the
  * same whichever is selected, so adding a translation is adding a folder.
  *
+ * One of them holds no text at all. jp is the game's own Japanese, and what it
+ * selects is the absence of a translation: the folder says so in its
+ * text_language.js and the builds read that rather than looking for English
+ * that was never there.
+ *
  * The game directory holds one Rance10.ain, so a build installs one text
  * language; switching is re-running the build with a different name.
  */
 import * as fs from "fs";
 import * as path from "path";
+import {pathToFileURL} from "url";
 import {flagValue} from "./Argv.js";
 import {BUILD, ROOT} from "./Env.js";
 
@@ -22,10 +28,42 @@ export const TEXT_LANGS_DIR = path.join(ROOT, "text_languages");
 
 export const DEFAULT_TEXT_LANG = "en_gpt";
 
-export const listTextLangs = () => fs.readdirSync(TEXT_LANGS_DIR, {withFileTypes: true})
+const MANIFEST = "text_language.js";
+
+/**
+ * A folder under text_languages/ read as one. The same arrangement features/
+ * has, and for the same reason: a manifest that is a module can carry the
+ * comments explaining itself, which for a translation is where it came from and
+ * what it is allowed to differ in.
+ */
+const readTextLang = async (name) => {
+    const manifest = path.join(TEXT_LANGS_DIR, name, MANIFEST);
+    if (!fs.existsSync(manifest)) {
+        throw new Error(`text_languages/${name} has no ${MANIFEST}, so nothing there says what that text is.`
+            + " Every folder under text_languages/ is one text language.");
+    }
+    const {default: lang} = await import(pathToFileURL(manifest));
+    if (!lang?.summary) {
+        throw new Error(`text_languages/${name}/${MANIFEST} has no summary. It is the line the release listing`
+            + " and the folder's README print, so a language without one has no way to say what it is.");
+    }
+    return [name, {summary: lang.summary, translated: lang.translated ?? false}];
+};
+
+/**
+ * Every text language there is, by name. Sorted, because readdir's order is the
+ * filesystem's and this decides the order a release folder is built in.
+ */
+export const TEXT_LANGS = Object.fromEntries(await Promise.all(fs.readdirSync(TEXT_LANGS_DIR, {withFileTypes: true})
     .filter(entry => entry.isDirectory())
     .map(entry => entry.name)
-    .sort();
+    .sort()
+    .map(readTextLang)));
+
+export const listTextLangs = () => Object.keys(TEXT_LANGS);
+
+/** Whether a build of this one applies any English at all. */
+export const isTranslated = (name) => TEXT_LANGS[name].translated;
 
 /**
  * The flag beats TEXT_LANG in .env, which beats the default -- so .env names
@@ -70,6 +108,10 @@ export const hasPatch = (name) => fs.existsSync(textLangPatch(name));
  * Naming the reason beats the ENOENT they would otherwise die of.
  */
 export const corpusDir = (name) => {
+    if (!isTranslated(name)) {
+        throw new Error(`The "${name}" text language is the game's own Japanese: there is no text in`
+            + ` ${path.relative(ROOT, textLangDir(name))} for this script to work on.`);
+    }
     if (hasPatch(name)) {
         throw new Error(`The "${name}" text language is a finished patch, ${textLangPatch(name)},`
             + ` rather than a corpus of chunk files. This script works on the chunks.`);

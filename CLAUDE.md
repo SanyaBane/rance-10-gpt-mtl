@@ -27,7 +27,7 @@ these is edited by hand:
 | `glossaries/` | the English, keyed by the Japanese — the tables below, the two the enemy panel and the synopsis screen read, and the words that screen settled on |
 | `patches/` | what alice-tools is handed directly by every build: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `features/` | one folder per optional patch: the files that change what the game *does*, and the `feature.js` naming them |
-| `text_languages/` | one folder per translation of the dialogue |
+| `text_languages/` | one folder per text the game can be built with — the two translations, and the Japanese it shipped with |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
 
@@ -73,6 +73,12 @@ English never means installing modified game logic with it. Adding the next
 feature is a folder and nothing in `modules/Features.js`, `scripts/ain.js` or
 `scripts/release.js`: the first of those reads `features/` rather than holding
 a list of what is in it.
+
+A feature has to build without a translation, because that is what
+`--text-lang=jp` is: the game's own `.ain` with the features over it and no
+English at all. Anything a feature needs that only the English build renders — a
+patched string, a generated `.jaf` — makes the Japanese build the one nobody
+tests. `docs/text-languages.md` says what that build leaves out.
 
 The rest of this file is the handful of rules that are expensive to break, and
 the reasoning behind each, because each one was learned by breaking it.

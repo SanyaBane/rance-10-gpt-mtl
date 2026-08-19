@@ -1,19 +1,23 @@
 # The text the game is built with
 
 The repository carries two English translations of the game's dialogue, a
-folder each, and builds whichever one you ask for:
+folder each, and builds whichever one you ask for — or the Japanese the game
+shipped with, which is a folder too:
 
 | Text language | What it is |
 |---|---|
 | `en_gpt` | the default, the translation this repository has always shipped |
 | `en_grok` | a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok |
+| `jp` | no translation at all: the game's own script, with the `features/` patches over it |
 
-Each folder under `text_languages/` carries a README saying where its text came
+Each folder under `text_languages/` carries a `text_language.js` saying what it
+is and whether there is English in it, and a README saying where its text came
 from and what has been done to it since.
 
 ```
 npm run regenerate-ain                     # the language .env names, or en_gpt
 node scripts/ain.js --text-lang=en_grok    # this one, just this once
+node scripts/ain.js --text-lang=jp         # the features, and no English at all
 ```
 
 `TEXT_LANG` in `.env` sets the one you build most; the flag overrides it. The
@@ -30,8 +34,9 @@ scripts/ain.js --text-lang=en_grok` — or quote it, `npm run regenerate-ain '--
 
 ## What a text language is
 
-A directory under `text_languages/`, holding nothing but data, in one of two
-shapes. A corpus, which is what a translation run through the API leaves behind:
+A directory under `text_languages/`, holding a `text_language.js` and, if it is
+a translation, nothing but data in one of two shapes. A corpus, which is what a
+translation run through the API leaves behind:
 
 ```
 text_languages/en_gpt/gpt_outputs/           the v1.00 translation, one JSON per chunk of lines
@@ -85,11 +90,34 @@ what the translations disagree about:
 - `patches/card_names.jaf`, `archives/Rance10EX_v1_04`, `archives/Rance10Pact_v1_04` and the image folders
   are not dialogue at all.
 
-So there is one pipeline, not one per text language. Adding a third translation
+So there is one pipeline, not one per text language. Adding another translation
 is adding a folder: either a `dialogue.ain.txt`, or the two corpora in the format
 `scripts/translate_chunks.js` writes, an object with
 `output_parsed.translationLines` holding
 `{lineNumber, originalJapaneseLine, translatedEnglishLine}`.
+
+## The one with no text
+
+`jp` is a text language whose folder holds no text, because the text is already
+in the `.ain` this repository patches. Its `text_language.js` says
+`translated: false`, and every build reads that rather than looking for English
+that was never there: no dialogue is rendered, no race names are generated, and
+none of `patches/card_names.jaf`, the generated `build/race_names.jaf` or
+`patches/enemy_panel_cards.jam` is applied. What is left is the game's own
+script with the `features/` patches over it.
+
+Two things follow, and both are useful rather than awkward:
+
+- with no features selected, what it builds is the game's own `Rance10.ain`,
+  byte for byte — the way back out of a modified one;
+- a feature has to be buildable without a translation, or this build is the one
+  nobody tests. Nothing under `features/` may depend on a string the English
+  build renders.
+
+There is no Japanese `Rance10EX.ex` or `Rance10Pact.afa`. The tables under
+`archives/` are the game's data with the English written into them and there is
+no untranslated copy here, so a Japanese build is one file and whatever the game
+folder already holds is what stays.
 
 ## Names are shared, unless a language insists
 

@@ -13,7 +13,8 @@ import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
-import {DEFAULT_TEXT_LANG, hasPatch, regeneratedTxt, textLangDir, textLangName, textLangPatch} from "../modules/TextLanguages.js";
+import {DEFAULT_TEXT_LANG, hasPatch, isTranslated, regeneratedTxt, textLangDir, textLangName, textLangPatch}
+    from "../modules/TextLanguages.js";
 
 /** The system strings translated by hand, appended to the rendered dialogue. */
 const CHERRY_PICKS = path.join(ROOT, "patches", "system_cherry_picks.v1.04.ain.txt");
@@ -31,6 +32,16 @@ ensureBuild();
 let textLang;
 try {
     textLang = textLangName();
+    /*
+     * jp is a text language with no text: what it selects is the absence of a
+     * translation, and scripts/ain.js skips this whole step for it. Said here
+     * as well, because reached directly this would otherwise go looking for
+     * chunk folders that were never there.
+     */
+    if (!isTranslated(textLang)) {
+        throw new Error(`The "${textLang}" text language has no dialogue to render:`
+            + " it is the game's own Japanese. There is nothing for this script to do.");
+    }
 } catch (error) {
     console.error(error.message);
     process.exit(1);
