@@ -68,7 +68,7 @@ run(async () => {
      */
     const features = selectedFeatures();
     console.log(`Building ${textLang}`
-        + (features.length > 0 ? ` with ${features.join(", ")}` : " with no optional features"));
+        + (features.length > 0 ? ` with: ${features.join(", ")}` : " with no optional features"));
 
     /*
      * Everything below the features is translation, and the Japanese is the

@@ -109,7 +109,7 @@ const reportFeatures = (features) => {
 const install = (args, dir, features) => {
     const lang = textLangName();
     console.log(`Installing ${lang} into ${dir}`
-        + (features.length > 0 ? ` with ${features.join(", ")}` : " with no optional features"));
+        + (features.length > 0 ? ` with: ${features.join(", ")}` : " with no optional features"));
     if (!isTranslated(lang)) {
         console.warn(`  WARNING: ${lang} builds Rance10.ain and nothing else, so that is all this installs.`
             + " Rance10EX.ex and Rance10Pact.afa in the game folder are left as they are -- if an English patch"
