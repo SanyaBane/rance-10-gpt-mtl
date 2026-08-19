@@ -20,7 +20,7 @@
  * cost anybody the English.
  *
  * Building it in is not the same as turning it on. The panel also has a switch
- * the player owns -- custom_mods\enemy_panel.on in the game folder, read at
+ * the player owns -- custom_mods\enemy_panel_on in the game folder, read at
  * the start of every round -- so an .ain with this feature in it behaves
  * exactly like one without until that file appears.
  */

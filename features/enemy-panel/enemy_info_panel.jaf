@@ -1,6 +1,6 @@
 /*
  * Whether the enemy status panel comes up on its own, written as the presence
- * of a file: custom_mods\enemy_panel.on under the game folder, beside
+ * of a file: custom_mods\enemy_panel_on under the game folder, beside
  * Rance10.exe. Delete it and the panel goes back to being what アナライズ shows
  * and nothing else. It is read at the start of every round, so creating or
  * removing the file takes effect in the next round rather than the next launch.
@@ -27,6 +27,6 @@
 bool EnemyInfoPanelEnabled(void)
 {
 	string folder = SystemService.GetGameFolderPath();
-	return FileOperation.ExistFile(folder + "custom_mods/enemy_panel.on")
-	    || FileOperation.ExistFile(folder + "/custom_mods/enemy_panel.on");
+	return FileOperation.ExistFile(folder + "custom_mods/enemy_panel_on")
+	    || FileOperation.ExistFile(folder + "/custom_mods/enemy_panel_on");
 }
