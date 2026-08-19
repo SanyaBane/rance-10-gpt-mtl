@@ -41,7 +41,7 @@ Those three commands write straight into your game folder. To build into a folde
 npm run release
 ```
 
-That puts one folder per text language into `build/release`: `en_gpt/` and `en_grok/`, each holding `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa`, and `jp/`, which holds one `Rance10.ain` — the game's own Japanese with the optional features over it and no translation anywhere. Each folder is a whole install: copy the contents of one of them into your game folder, over the files already there, and that is the patch. `npm run release -- --text-lang=en_grok` builds just that one folder. The images are not in there — see two paragraphs down, they have no build command at all.
+That puts one folder per text language into `build/release`: `en_gpt/` and `en_grok/`, each holding `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa`, and `jp/`, which holds one `Rance10.ain` — the game's own Japanese with the optional features over it and no translation anywhere. Each folder is a whole install: copy the contents of one of them into your game folder, over the files already there, and that is the patch. Each also carries a generated `README.md` saying which text it is, what the files are and what the optional features in it need — written by `modules/ReleaseReadme.js`, since a folder full of identically named files cannot show any of that by itself. `npm run release -- --text-lang=en_grok` builds just that one folder. The images are not in there — see two paragraphs down, they have no build command at all.
 
 Where a build goes is two flags — on `release`, and on any one of the three commands above:
 

@@ -17,12 +17,16 @@
  *
  * A release folder is one folder per folder under text_languages/:
  *
- *   en_gpt/Rance10.ain, Rance10EX.ex, Rance10Pact.afa
- *   en_grok/Rance10.ain, Rance10EX.ex, Rance10Pact.afa
- *   jp/Rance10.ain
+ *   README.md                                          which folder is which
+ *   en_gpt/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
+ *   en_grok/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
+ *   jp/Rance10.ain, README.md
  *
  * Each is a whole install: copy the contents of one folder into the game and
- * that is the patch, with nothing to assemble out of two places. The price is
+ * that is the patch, with nothing to assemble out of two places. The READMEs
+ * are written by modules/ReleaseReadme.js, and generated rather than copied
+ * because what they have to say depends on the run -- which text language a
+ * folder is, and which features went into it. The price is
  * that Rance10EX.ex and Rance10Pact.afa are the same file twice -- they hold no
  * dialogue, so they do not vary by text language -- which is why they are built
  * once and copied rather than built per folder.
@@ -52,7 +56,8 @@ import {spawnSync} from "child_process";
 import {flagValue, hasFlag, withoutFlags} from "../modules/Argv.js";
 import {outputDir, run} from "../modules/AliceTools.js";
 import {BUILD} from "../modules/Env.js";
-import {selectedFeatures} from "../modules/Features.js";
+import {FEATURES, selectedFeatures} from "../modules/Features.js";
+import {filesFor, renderFolderReadme, renderIndexReadme} from "../modules/ReleaseReadme.js";
 import {isTranslated, listTextLangs, TEXT_LANGS, textLangName} from "../modules/TextLanguages.js";
 
 /** The one build that is per text language, and the two that are not. */
@@ -76,6 +81,23 @@ const node = (script, args) => {
 
 /** Every build this run makes, in order, as {script, args}. */
 const stagesFor = (scripts, args) => scripts.map(script => ({script, args}));
+
+/**
+ * What went in, and what the player has to do about it. Printed at the end of
+ * either job, because a feature that does nothing until a file exists is worth
+ * saying out loud to whoever just installed it -- a release folder says the same
+ * in its README, and an install into the game has nowhere else to say it at all.
+ */
+const reportFeatures = (features) => {
+    if (features.length === 0) {
+        return;
+    }
+    console.log("\nOptional features in every Rance10.ain built here:");
+    for (const name of features) {
+        console.log(`  ${name} -- ${FEATURES[name].summary}`);
+        console.log(`    ${FEATURES[name].howToTurnOn || "On as soon as it is installed."}`);
+    }
+};
 
 /**
  * Installing: one text language into GAME_DIR, chosen the way every other build
@@ -125,6 +147,7 @@ run(() => {
             }
         }
         console.log(`\nInstalled into ${dir}.`);
+        reportFeatures(features);
         return 0;
     }
 
@@ -170,10 +193,22 @@ run(() => {
         }
     }
 
+    /*
+     * The page that says what a folder is. Every folder holds the same file
+     * names now, so which translation this is, and that one of the features
+     * needs a file created before it does anything, are things nothing in the
+     * folder shows -- modules/ReleaseReadme.js writes them down.
+     */
+    for (const lang of built) {
+        fs.writeFileSync(path.join(dir, lang, "README.md"), renderFolderReadme(lang, features), "utf-8");
+    }
+    fs.writeFileSync(path.join(dir, "README.md"), renderIndexReadme(built, features), "utf-8");
+
     console.log(`\nBuilt into ${dir}:`);
     for (const lang of built) {
         console.log(`  ${lang}/ -- ${TEXT_LANGS[lang].summary}`);
-        console.log(`    ${(isTranslated(lang) ? ["Rance10.ain", ...SHARED_FILES] : ["Rance10.ain"]).join(", ")}`);
+        console.log(`    ${[...filesFor(lang), "README.md"].join(", ")}`);
     }
+    reportFeatures(features);
     return 0;
 });

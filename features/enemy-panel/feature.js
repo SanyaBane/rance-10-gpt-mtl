@@ -26,6 +26,15 @@
  */
 export default {
     summary: "the enemy status panel at the start of every round, not only after アナライズ",
+    /*
+     * Said to the player rather than to the build: it is what the README in a
+     * release folder prints under the summary above, because a feature that
+     * does nothing until a file exists has to say so somewhere the player
+     * looks. A feature with no switch leaves this out and the README says it is
+     * on as soon as it is installed.
+     */
+    howToTurnOn: "Create an empty file called `custom_mods\\enemy_panel_on` beside `Rance10.exe` to turn it"
+        + " on, and delete it to turn it off. It is read at the start of every round, so neither takes a restart.",
     patches: ["enemy_info_panel.jaf", "enemy_info_panel.jam"],
     default: true,
 };

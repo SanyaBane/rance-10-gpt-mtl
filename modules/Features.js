@@ -77,6 +77,14 @@ const readFeature = async (name) => {
     }
     return [name, {
         summary: feature.summary,
+        /*
+         * What the player has to do for it to do anything, in a sentence or
+         * two, or "" for a feature that is on as soon as it is built in. Read
+         * by modules/ReleaseReadme.js and printed by scripts/release.js: the
+         * switch belongs to the feature, so the line describing it lives in the
+         * feature's folder rather than in either of those.
+         */
+        howToTurnOn: feature.howToTurnOn ?? "",
         args: patchArgs(name, dir, feature.patches ?? []),
         default: feature.default ?? false,
     }];
