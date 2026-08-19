@@ -233,7 +233,7 @@ s[12594] = "Ancient Body"
 ; Ｔ初期化１
 
 ; SkillEffectProcessAlterRound@Evaluate
-;s[3950] = "New Round！"
+s[3950] = "The Round changed！"
 
 ; BattleInfoView@GetProcessTypeString
 s[3355] = "Advance"
@@ -242,7 +242,15 @@ s[3636] = "View"
 
 s[12905] = "x"
 
+; SkillEffectProcessAbsorption@Evaluate
+s[3947] = "<Enemy> was absorbed！"
+; SkillEffectProcessAddAegisEffect@Process
 s[3948] = "<AegisEffect> is in effect！"
+; SkillEffectProcessAddCombo@Evaluate
+s[3949] = "Combo Added！"
+; SkillEffectProcessAssasination@Evaluate
+s[3951] = "<Enemy> was assassinated！"
+s[3952] = "Failed to assassinate <Enemy>！"
 ; SkillEffectProcessBoost@Evaluate
 s[3303] = "Boost Activated！"
 s[3955] = "Removed！"
