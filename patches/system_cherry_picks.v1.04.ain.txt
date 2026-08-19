@@ -268,6 +268,33 @@ s[3954] = "ＡＰ decreased！"
 s[3973] = "Enemy Analyzed！"
 s[3957] = "Interrupt Modifier:%3.2f％"
 s[3958] = "<Enemy>'s action was interrupted！"
+; SkillEffectProcessForceDraw@Evaluate
+s[3959] = "Rance and the others fled！"
+s[3960] = "<Enemy> fled！"
+; SkillEffectProcessForceUsed@GetLog
+s[3961] = "Seizure left the skill already used！"
+; SkillEffectProcessHandOfClausen@Evaluate
+s[3962] = "Clausen's Hand！(success)"
+; SkillEffectProcessPostRandomDown@GetLog
+s[3969] = "A random ally went down！"
+; SceneBattle@OnBadConditionBlockAction
+s[3271] = "<BadCondition> prevented the action！"
+
+; SkillEffectProcessLeaderState@Evaluate, and the state names it fills in.
+; A list of leaders and one state, so the colon rather than a verb: "is" is
+; wrong the moment the effect takes two of them at once.
+s[3964] = "%s: %s！"
+; SkillEffectProcessLeaderState@GetStateName
+s[3965] = "Stunned"
+s[3966] = "Petrified"
+s[3967] = "Boosted"
+;
+; s[3897] = "ダウン" is the fourth state and cannot join them.
+; BattleInsertionProcessor@InnerProcess runs String.Contains against that same
+; slot, over tokens that come from the enemy AI conditions -- data, and still
+; Japanese -- so translating it stops the comparison from ever matching. The
+; log says ダウン until GetStateName is patched the way the enemy panel is.
+
 ; SceneBattle@ShowAdditionalDamageLog
 s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
 
