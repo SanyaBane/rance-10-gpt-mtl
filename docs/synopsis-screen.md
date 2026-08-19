@@ -202,7 +202,7 @@ Names of people are not in it. They come from
 and `summary_merge.js` reports a row that spells one some other way.
 
 `scripts/lookup_term.js` answers for a word the dialogue already used -- it
-pairs the Japanese dump with the variant's rendered text by `m[]` number. A good
+pairs the Japanese dump with the text language's rendered text by `m[]` number. A good
 part of the synopsis is words it never did: the operations, the fortresses, the
 map, the machines. Each of those was decided once, in a batch of three hundred,
 and then had to hold for a screen nobody reads in one sitting. `滅号作戦` is

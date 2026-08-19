@@ -4,11 +4,11 @@
  * glossaries/mistranslated_names.json is not translation text but a repair pass run at
  * build time: where the Japanese line names a character and the English does
  * not spell them the canonical way, a known misspelling is swapped out. The
- * table is shared by every variant on purpose -- scripts/generate_card_names.js reads
- * the same file for the card plates, so a variant that renamed people in its
+ * table is shared by every text language on purpose -- scripts/generate_card_names.js
+ * reads the same file for the card plates, so a language that renamed people in its
  * dialogue alone would disagree with the cards its own build installs.
  *
- * A variant that wants to disagree anyway can put a mistranslated_names.json
+ * A text language that wants to disagree anyway can put a mistranslated_names.json
  * next to its corpora. It is layered over the shared table by Japanese name,
  * so it only has to state what it wants different.
  */
@@ -32,7 +32,7 @@ const readOptionalTable = async (filePath) => {
 /**
  * Overriding a name keeps the misspellings the shared table already knows --
  * they are the same wrong spellings whichever name you consider right, and a
- * variant should not have to copy the list to change the answer.
+ * text language should not have to copy the list to change the answer.
  *
  * The shared table gives a couple of Japanese names two entries -- クルックー is
  * both "Crook" and "Ms. Crook" -- so an override applies to every entry under
@@ -56,15 +56,15 @@ const layer = (shared, overrides) => {
     return [...layered, ...overrides.filter(record => !alreadyNamed.has(record.shortNameJpn))];
 };
 
-/** The canonical spellings, shared by every variant and by the card plates. */
+/** The canonical spellings, shared by every text language and by the card plates. */
 export const SHARED_NAMES = path.join(ROOT, "glossaries", "mistranslated_names.json");
 
 export const readSharedNameTable = async () => readTable(SHARED_NAMES);
 
-export const readNameTable = async (variantDir) => {
+export const readNameTable = async (langDir) => {
     const table = layer(
         await readSharedNameTable(),
-        await readOptionalTable(path.join(variantDir, "mistranslated_names.json")),
+        await readOptionalTable(path.join(langDir, "mistranslated_names.json")),
     );
     table.forEach(char => char.knownMistranslations.sort((a, b) => b.length - a.length));
     return table;
@@ -106,7 +106,7 @@ export const mentions = (japanese, word) => {
  * Which of the table's characters a Japanese line names.
  *
  * The shared table only: the files this serves are not dialogue, and a
- * variant's overrides are its dialogue's business.
+ * language's overrides are its dialogue's business.
  */
 export const createNameFinder = async () => {
     const table = (await readSharedNameTable()).filter(record => record.shortNameJpn.length >= 2);
@@ -135,8 +135,8 @@ export const createNameChecker = async () => {
             + ` "${record.shortNameEng}" -- ${JSON.stringify(english)}`);
 };
 
-export const createNameNormalizer = async (variantDir) => {
-    const mistranslated_names = await readNameTable(variantDir);
+export const createNameNormalizer = async (langDir) => {
+    const mistranslated_names = await readNameTable(langDir);
 
     return (lineRecord) => {
         let sentence = lineRecord.translatedEnglishLine;

@@ -3,9 +3,9 @@
  *
  *   node scripts/lookup_term.js 魔軍 使徒 番裏の砦
  *   node scripts/lookup_term.js --limit=6 滅号作戦
- *   node scripts/lookup_term.js --variant=grok 魔軍
+ *   node scripts/lookup_term.js --text-lang=en_grok 魔軍
  *
- * Prints the Japanese line and the English the variant renders for it, a few
+ * Prints the Japanese line and the English that language renders for it, a few
  * per term. The two dumps line up by m[] number -- the same numbering the
  * translation is written against -- so pairing them is just reading both.
  *
@@ -20,7 +20,7 @@
  */
 import * as fs from "fs/promises";
 import {AIN_TXT} from "../modules/AinFiles.js";
-import {regeneratedTxt, variantName} from "../modules/Variants.js";
+import {regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
 
 const args = process.argv.slice(2);
 const limitFlag = args.find(arg => arg.startsWith("--limit="));
@@ -45,7 +45,7 @@ const readMessages = async (file) => {
 };
 
 const japanese = await readMessages(AIN_TXT);
-const english = await readMessages(regeneratedTxt(variantName()));
+const english = await readMessages(regeneratedTxt(textLangName()));
 
 for (const term of terms) {
     console.log(`=== ${term} ===`);

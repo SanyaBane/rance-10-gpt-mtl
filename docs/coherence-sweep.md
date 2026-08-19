@@ -9,11 +9,11 @@
 > outlast the run that produced them. Four things it names are no longer where
 > it says:
 >
-> - `gpt_outputs/` is `variants/gpt/gpt_outputs/` now, and its sibling
->   `gpt_outputs_v104/` alongside it. See [translation-variants.md](translation-variants.md).
+> - `gpt_outputs/` is `text_languages/en_gpt/gpt_outputs/` now, and its sibling
+>   `gpt_outputs_v104/` alongside it. See [text-languages.md](text-languages.md).
 > - `Files_Check.md`, the running log this file tells the next session to resume
 >   from, was never committed. The one log that survives covers the v104 half of
->   the corpus and is `variants/gpt/coherence-sweep-log.md`.
+>   the corpus and is `text_languages/en_gpt/coherence-sweep-log.md`.
 > - `Title_Consistency_Fixes.md` was never committed either. Names are settled in
 >   `glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`, and the build reports
 >   what disagrees with them.

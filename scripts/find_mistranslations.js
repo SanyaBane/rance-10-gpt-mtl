@@ -2,14 +2,14 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {BUILD, ensureBuild} from "../modules/Env.js";
 import {readNameTable} from "../modules/NameNormalizer.js";
-import {corpusDir, variantName} from "../modules/Variants.js";
+import {corpusDir, textLangName} from "../modules/TextLanguages.js";
 
-// Reported against the same table and corpus a build of this variant would
+// Reported against the same table and corpus a build of this text language would
 // use, so what it finds is what the build would leave misspelled.
-const VARIANT_ROOT = corpusDir(variantName());
-const mistranslated_names = await readNameTable(VARIANT_ROOT);
+const CORPUS_ROOT = corpusDir(textLangName());
+const mistranslated_names = await readNameTable(CORPUS_ROOT);
 
-const ROOT_FOLDER_PATH = path.join(VARIANT_ROOT, "gpt_outputs");
+const ROOT_FOLDER_PATH = path.join(CORPUS_ROOT, "gpt_outputs");
 
 const chunkFileNames = await fs.readdir(ROOT_FOLDER_PATH);
 const chunkFiles = chunkFileNames

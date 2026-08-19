@@ -1,8 +1,8 @@
 /**
- * Render one dialogue variant into the ain.txt patch alice-tools applies.
+ * Render one text language's dialogue into the ain.txt patch alice-tools applies.
  *
- * Which variant is the only thing this takes from the command line; see
- * modules/Variants.js. Everything else here -- the line mapping between the
+ * Which text language is the only thing this takes from the command line;
+ * see modules/TextLanguages.js. Everything else here -- the line mapping between the
  * two game versions, the cherry-picked system strings, the wrapping -- is the
  * same whichever translation is being built.
  */
@@ -13,7 +13,7 @@ import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
-import {DEFAULT_VARIANT, hasPatch, regeneratedTxt, variantDir, variantName, variantPatch} from "../modules/Variants.js";
+import {DEFAULT_TEXT_LANG, hasPatch, regeneratedTxt, textLangDir, textLangName, textLangPatch} from "../modules/TextLanguages.js";
 
 /** The system strings translated by hand, appended to the rendered dialogue. */
 const CHERRY_PICKS = path.join(ROOT, "patches", "system_cherry_picks.v1.04.ain.txt");
@@ -26,18 +26,18 @@ const UNMAPPED = path.join(BUILD, "unmapped.ain.json");
 
 ensureBuild();
 
-// Naming a variant that is not there is a typo to fix, not a stack trace to
+// Naming a text language that is not there is a typo to fix, not a stack trace to
 // read -- the same courtesy scripts/ain.js gets from AliceTools' run().
-let variant;
+let textLang;
 try {
-    variant = variantName();
+    textLang = textLangName();
 } catch (error) {
     console.error(error.message);
     process.exit(1);
 }
 
-const variantRoot = variantDir(variant);
-const normalizeNames = await createNameNormalizer(variantRoot);
+const langRoot = textLangDir(textLang);
+const normalizeNames = await createNameNormalizer(langRoot);
 
 const v100AinJson = await fs.readFile(AIN_V100_JSON, "utf-8");
 const v100AinData = JSON.parse(v100AinJson);
@@ -136,7 +136,7 @@ const japaneseByLineNumber = new Map(v104AinData.map(rec => [+rec.lineNumber, re
 /**
  * alice-tools escapes an ain.txt the way JSON does, except that it also lets a
  * lone backslash through -- there was one "「--No,\」" in the patch the grok
- * variant was imported from. An escape nothing recognises gives up the
+ * text language was imported from. An escape nothing recognises gives up the
  * backslash and keeps the character rather than failing a whole build over one
  * line.
  */
@@ -144,7 +144,7 @@ const unescapePatch = (body) => body.replaceAll(/\\(.)/g, (_, char) =>
     char === "n" ? "\n" : char === "t" ? "\t" : char === "r" ? "\r" : char);
 
 /**
- * A variant written as a finished patch. Its numbers are the game's already,
+ * A text language written as a finished patch. Its numbers are the game's already,
  * so nothing is mapped; what it does need is the Japanese each number stands
  * for, which the name repairs read to decide whether a line names a character.
  *
@@ -185,17 +185,17 @@ const readPatch = async (filePath) => {
 
 /**
  * A patch names the lines it has an opinion about and no others, and a line it
- * skips would play in Japanese -- the patch the grok variant was imported from
- * missed a scene of 300 lines that way. So the default variant is rendered
- * underneath it and shows through the gaps; the variant's own README says which
- * lines those are.
+ * skips would play in Japanese -- the patch en_grok was imported from missed a
+ * scene of 300 lines that way. So the default text language is rendered
+ * underneath it and shows through the gaps; that language's own README says
+ * which lines those are.
  */
-const readVariant = async (name) => {
+const readTextLang = async (name) => {
     if (!hasPatch(name)) {
-        return [await readCorpus(variantDir(name)), ""];
+        return [await readCorpus(textLangDir(name)), ""];
     }
-    const [patched, undescribed] = await readPatch(variantPatch(name));
-    const beneath = name === DEFAULT_VARIANT ? [] : await readCorpus(variantDir(DEFAULT_VARIANT));
+    const [patched, undescribed] = await readPatch(textLangPatch(name));
+    const beneath = name === DEFAULT_TEXT_LANG ? [] : await readCorpus(textLangDir(DEFAULT_TEXT_LANG));
     const lineRecords = new Map(beneath.map(lr => [+lr.lineNumber, lr]));
     const filledIn = [...lineRecords.keys()].filter(lineNumber => !patched.has(lineNumber)).length;
     for (const [lineNumber, lineRecord] of patched) {
@@ -204,12 +204,12 @@ const readVariant = async (name) => {
     return [
         [...lineRecords.values()].sort((a, b) => +a.lineNumber - +b.lineNumber),
         `${patched.size} lines of its own`
-        + (filledIn ? `, ${filledIn} left to "${DEFAULT_VARIANT}"` : "")
+        + (filledIn ? `, ${filledIn} left to "${DEFAULT_TEXT_LANG}"` : "")
         + (undescribed ? `, ${undescribed} the v1.04 dump does not describe` : ""),
     ];
 };
 
-const [allLineRecords, howItWasBuilt] = await readVariant(variant);
+const [allLineRecords, howItWasBuilt] = await readTextLang(textLang);
 
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
 
@@ -229,9 +229,9 @@ const output = allLineRecords
     // which has only ever worked because the line they open with is a comment.
     .join("\n") + "\n" + cherryPicksTxt + "\n" + enemyInfo.text + "\n";
 
-await fs.writeFile(regeneratedTxt(variant), output, "utf-8");
+await fs.writeFile(regeneratedTxt(textLang), output, "utf-8");
 
-console.log(`Rendered the "${variant}" dialogue variant into ${path.relative(ROOT, regeneratedTxt(variant))}`
+console.log(`Rendered the "${textLang}" dialogue into ${path.relative(ROOT, regeneratedTxt(textLang))}`
     + (howItWasBuilt ? ` -- ${howItWasBuilt}` : ""));
 console.log(`Translated ${enemyInfo.report}`);
 // Worth saying out loud, not worth stopping for: the panel does not wrap, so an

@@ -169,7 +169,7 @@ of this patch did. Both routes are worse:
   Translation collapses distinct Japanese strings into identical English ones —
   a dozen different lines all become "Thank you." — so roughly 164 call sites
   come back pointing at a shared index. The strings still render correctly, but
-  `s[8489]` no longer addresses what `build/regenerated.<variant>.ain.txt` thinks it does, and
+  `s[8489]` no longer addresses what `build/regenerated.<lang>.ain.txt` thinks it does, and
   the next text edit writes to the wrong places.
 
 `--jaf` has neither problem. It appends: three new strings at the end of the

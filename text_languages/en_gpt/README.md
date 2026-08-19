@@ -1,9 +1,9 @@
-# The `gpt` dialogue translation
+# The `en_gpt` dialogue translation
 
 The translation this repository has shipped from the beginning, and the one
 `npm run regenerate-ain` builds unless you ask for another. See
-[docs/translation-variants.md](../../docs/translation-variants.md) for how
-variants are selected and what they are allowed to differ in.
+[docs/text-languages.md](../../docs/text-languages.md) for how text
+languages are selected and what they are allowed to differ in.
 
 ## Where the two folders come from
 
@@ -26,7 +26,7 @@ The responses are dated between 14 and 27 October 2025: 4885 chunks from
 ## It is not what the model returned
 
 The text has been corrected by hand ever since -- names, genders, pronouns,
-whole lines -- and `git log -- variants/gpt` is where that work is. Editing a
+whole lines -- and `git log -- text_languages/en_gpt` is where that work is. Editing a
 chunk file in place is the normal way to fix a line; nothing regenerates these
 folders.
 

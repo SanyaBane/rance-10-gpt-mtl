@@ -6,8 +6,9 @@
  * two tables a build reads back out of that .ain and commits, which are equally
  * nobody's to edit -- modules/EnemyInfo.js and modules/RaceNames.js name those,
  * since each is read by one thing. Everything written rather than generated --
- * the cherry-picked system strings, the glossaries, the variants -- is under
- * patches/, glossaries/ and variants/, however similar the name looks.
+ * the cherry-picked system strings, the glossaries, the text languages -- is
+ * under patches/, glossaries/ and text_languages/, however similar the name
+ * looks.
  *
  * Not to be confused with GAME_DIR, which modules/AliceTools.js expands {game}
  * to: that is the installed game a build writes into, this is the copy under

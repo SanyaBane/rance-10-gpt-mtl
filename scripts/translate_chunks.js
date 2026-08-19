@@ -2,11 +2,11 @@ import { promises as fs } from "fs";
 import * as path from "path";
 import {BUILD} from "../modules/Env.js";
 import {translateNextChunk} from "../modules/OpenAiTranslator.js";
-import {corpusDir, variantName} from "../modules/Variants.js";
+import {corpusDir, textLangName} from "../modules/TextLanguages.js";
 
-// Freshly translated chunks belong to the variant being worked on, the same
-// one --variant selects for a build.
-const OUTPUT_DIR = path.join(corpusDir(variantName()), "gpt_outputs_v104");
+// Freshly translated chunks belong to the text language being worked on, the
+// same one --text-lang selects for a build.
+const OUTPUT_DIR = path.join(corpusDir(textLangName()), "gpt_outputs_v104");
 
 // Left behind by scripts/regenerate_aai_txt.js: the v1.04 lines no corpus
 // covers. Run that first, or this translates whatever it wrote last time.

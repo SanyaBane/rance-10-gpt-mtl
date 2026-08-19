@@ -27,7 +27,7 @@ these is edited by hand:
 | `glossaries/` | the English, keyed by the Japanese — the tables below, the two the enemy panel and the synopsis screen read, and the words that screen settled on |
 | `patches/` | what alice-tools is handed directly by every build: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `features/` | one folder per optional patch: the files that change what the game *does*, and the `feature.js` naming them |
-| `variants/` | one folder per translation of the dialogue |
+| `text_languages/` | one folder per translation of the dialogue |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
 
@@ -173,9 +173,9 @@ somewhere else, resolved against the repository root and created if it is not
 there, and `OUT_DIR` in the environment says the same thing for a whole shell.
 (A `GAME_DIR` already in the environment still wins over the one in `.env`, the
 way it always did.) Worth the extra step: the game directory holds
-one `Rance10.ain`, and installing the default variant over somebody's
-`grok` silently switches the whole script. `docs/translation-variants.md`
-says what a variant is and how the `--variant` flag gets eaten by PowerShell.
+one `Rance10.ain`, and installing the default text language over somebody's
+`en_grok` silently switches the whole script. `docs/text-languages.md`
+says what a text language is and how the `--text-lang` flag gets eaten by PowerShell.
 
 ## Panel and layout widths are in the `.pactex`
 

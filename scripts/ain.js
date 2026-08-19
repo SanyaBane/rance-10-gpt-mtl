@@ -1,12 +1,12 @@
 /**
- * Build Rance10.ain from one of the dialogue variants.
+ * Build Rance10.ain from one of the text languages.
  *
- *   npm run regenerate-ain                      # the variant .env names, or gpt
- *   npm run regenerate-ain -- --variant=grok
+ *   npm run regenerate-ain                      # the language .env names, or en_gpt
+ *   npm run regenerate-ain -- --text-lang=en_grok
  *
  * Rendering the patch and applying it are two steps, and they used to be a &&
  * chain in package.json -- which cannot take the flag: npm appends whatever
- * follows `--` to the *end* of the chain, so --variant would reach alice-tools
+ * follows `--` to the *end* of the chain, so --text-lang would reach alice-tools
  * rather than the generator that needs it. One entry point reads it once.
  */
 import * as fs from "fs/promises";
@@ -17,7 +17,7 @@ import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
-import {regeneratedTxt, variantName} from "../modules/Variants.js";
+import {regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
 
 /**
  * A child process rather than an import: the generator holds both ain.json
@@ -37,7 +37,7 @@ const node = (args) => {
  * arrive as a second .jaf, and that one is generated -- from
  * glossaries/race_name_glossary.tsv, by modules/RaceNames.js. Written here rather than by
  * the dialogue generator because it is not dialogue and does not vary by
- * variant; alice-tools takes as many --jaf as it is given.
+ * text language; alice-tools takes as many --jaf as it is given.
  */
 const renderRaceNames = async () => {
     const rendered = await renderRaceNamesJaf();
@@ -55,7 +55,7 @@ const renderRaceNames = async () => {
 };
 
 run(async () => {
-    const variant = variantName();
+    const textLang = textLangName();
     /*
      * Which optional patches this build takes, --with= and --without= away.
      * What they are is one folder apiece under features/, which
@@ -68,14 +68,14 @@ run(async () => {
     const features = selectedFeatures();
     console.log(features.length > 0 ? `Building with ${features.join(", ")}` : "Building with no optional features");
 
-    const rendered = node([path.join(import.meta.dirname, "regenerate_aai_txt.js"), `--variant=${variant}`]);
+    const rendered = node([path.join(import.meta.dirname, "regenerate_aai_txt.js"), `--text-lang=${textLang}`]);
     if (rendered !== 0) {
         return rendered;
     }
     await renderRaceNames();
     return alice([
         "ain", "edit",
-        "-t", path.relative(ROOT, regeneratedTxt(variant)),
+        "-t", path.relative(ROOT, regeneratedTxt(textLang)),
         "--jaf", "patches/card_names.jaf",
         "--jaf", path.relative(ROOT, RACE_JAF),
         /*

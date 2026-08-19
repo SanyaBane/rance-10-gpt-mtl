@@ -1,13 +1,13 @@
-# The `grok` dialogue translation
+# The `en_grok` dialogue translation
 
 A second translation of the whole script, made in
 [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting
 the Japanese through Grok five hundred lines at a time and pasting the English
-back. It sits here in the shape the `gpt` one has -- a corpus of chunk files,
+back. It sits here in the shape the `en_gpt` one has -- a corpus of chunk files,
 one record per line, with the Japanese beside the English -- so the same tools
 and the same habits work on it. Build it with `node scripts/ain.js
---variant=grok`; see
-[docs/translation-variants.md](../../docs/translation-variants.md) for the rest
+--text-lang=en_grok`; see
+[docs/text-languages.md](../../docs/text-languages.md) for the rest
 of the selection.
 
 ## Where the text came from
@@ -18,7 +18,7 @@ the v1.04 numbering, 269299 lines, which is the script -- and never kept the
 chunks, so that file is what this folder was built from. It was never committed
 anywhere either; it sat in the fork's working copy as `regenerated.ain.txt`.
 
-It is its own translation, not the `gpt` one edited. Of the lines both variants
+It is its own translation, not the `en_gpt` one edited. Of the lines both languages
 render, 251687 differ and 17924 come out word for word the same, which is about
 what two independent machine translations of the same short lines will collide
 on. Against the fork's own untranslated dump, 252022 lines differ.
@@ -27,22 +27,22 @@ What the fork kept under this name was something else again: a corpus its README
 described as this repository's own text reworked through Grok and Gemini chats.
 That was wrong twice over. The two folders were a copy of this repository's `gpt`
 corpus as of commit 9ec77de -- the git trees match ours byte for byte, and the
-fork has no commit of its own touching either -- so the variant was the default
+fork has no commit of its own touching either -- so the language was the default
 translation under a second name, and the differences that README counted were
 this repository's own later edits to `gpt`.
 
 ## How the corpus was built
 
-A one-shot script, from `variants/gpt` and the fork's patch. It is not in the
+A one-shot script, from `text_languages/en_gpt` and the fork's patch. It is not in the
 repository on purpose: running it again would overwrite by hand whatever hand
 editing had been done since, which is the only reason the folder is here. What
 it did, in full:
 
-- copied both chunk folders of `variants/gpt`, file for file, and left
+- copied both chunk folders of `text_languages/en_gpt`, file for file, and left
   everything except the English untouched -- the line numbers, the Japanese,
   the API response the chunk came in (`id`, `created_at`, `model`, `usage`), the
-  formatting and the line endings. A diff of `variants/gpt/<file>.json` against
-  `variants/grok/<file>.json` shows translation lines and nothing else;
+  formatting and the line endings. A diff of `text_languages/en_gpt/<file>.json` against
+  `text_languages/en_grok/<file>.json` shows translation lines and nothing else;
 - replaced `translatedEnglishLine` with the grok text wherever the patch names
   that line -- 274913 of the 275312 records it copied. The number it looks the
   line up by is the v1.04 one, mapping the v1.00 numbering of `gpt_outputs/`
@@ -55,7 +55,7 @@ it did, in full:
   it is there so that a line being edited says whose it is. 318 of them are
   lines the patch never names and the game would otherwise play in Japanese --
   nearly all one scene, m[21708] to m[22007] -- and the remaining 81 are
-  records under v1.00 numbers that no longer exist in v1.04, which no variant
+  records under v1.00 numbers that no longer exist in v1.04, which no text language
   ever reaches;
 - added the 62 records the patch has and the corpus did not (see below).
 
@@ -66,7 +66,7 @@ numbers here that no longer exist in v1.04 and are read by nothing.
 
 A quarter of the lines open with a full-width space. That is not a break but an
 indent, sitting the continuation of a quote under the 「 that opened it, and the
-wrapping keeps it -- here and in every variant, which is a rule this text is
+wrapping keeps it -- here and in every text language, which is a rule this text is
 simply the first to lean on.
 
 Two names the fork's chunking cut in half are repaired in the records
@@ -129,7 +129,7 @@ The half-cut names above are the only thing corrected here so far, and the
 translation is rough in three ways worth knowing before editing it.
 
 It keeps the Japanese punctuation, 「」 on 183008 lines, which reads as a
-deliberate choice rather than a leftover -- the `gpt` variant uses quotation
+deliberate choice rather than a leftover -- the `en_gpt` text uses quotation
 marks instead.
 
 Around sixty lines still hold kana or kanji after the build normalises what it

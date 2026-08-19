@@ -2,7 +2,7 @@
  * Build all three patched files into one folder rather than into the game.
  *
  *   npm run release                             # build/release
- *   npm run release -- --variant=grok
+ *   npm run release -- --text-lang=en_grok
  *   node scripts/release.js -o build/scratch
  *   node scripts/release.js --game              # into the game, all three at once
  *

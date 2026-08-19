@@ -7,7 +7,7 @@
  * -o. The first name given that appears in the arguments is the one read, so a
  * long flag and its alias never both count.
  *
- * modules/Variants.js had worked the two long spellings out for --variant
+ * modules/TextLanguages.js had worked the two long spellings out for --text-lang
  * already; a second flag is the point at which it stops being one private copy
  * per flag.
  */
