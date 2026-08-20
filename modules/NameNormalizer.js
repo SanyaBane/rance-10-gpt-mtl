@@ -61,13 +61,32 @@ export const SHARED_NAMES = path.join(ROOT, "glossaries", "mistranslated_names.j
 
 export const readSharedNameTable = async () => readTable(SHARED_NAMES);
 
+/**
+ * Longest Japanese name first, and the longest of its misspellings first within
+ * it, because the repair below applies every entry the line matches in turn and
+ * a name can sit inside another name.
+ *
+ * 魔人討伐隊 holds 魔人, so with the short entry first "the Demon Lord subjugation
+ * squad" becomes "the Fiend Lord subjugation squad" before the long entry ever
+ * sees the line -- 82 lines of the corpus went that way. That was kept working
+ * by ordering the file itself, an invariant nothing checked and which twelve of
+ * the file's twenty-four nested pairs already broke; they cost nothing only
+ * because their misspellings happen not to overlap. Sorting here says it once,
+ * and the order the file is written in stops meaning anything.
+ *
+ * Two names of the same length still fall to the file's order, and that is not
+ * an oversight this can fix: 魔人 and 魔軍 both claim "demon" on the lines that
+ * name both, and which one should have it is a fact about the sentence rather
+ * than about the table. The sort is stable, so those keep the order they are
+ * written in.
+ */
 export const readNameTable = async (langDir) => {
     const table = layer(
         await readSharedNameTable(),
         await readOptionalTable(path.join(langDir, "mistranslated_names.json")),
     );
     table.forEach(char => char.knownMistranslations.sort((a, b) => b.length - a.length));
-    return table;
+    return table.sort((a, b) => b.shortNameJpn.length - a.shortNameJpn.length);
 };
 
 const KATAKANA = /[゠-ヿ]/;
@@ -135,6 +154,58 @@ export const createNameChecker = async () => {
             + ` "${record.shortNameEng}" -- ${JSON.stringify(english)}`);
 };
 
+const LETTER = /[A-Za-z]/;
+
+/**
+ * Whether adding an s is all this name's plural takes.
+ *
+ * The pass has always let a plural through by accident -- replacing "demon"
+ * inside "demons" gave "Fiends", which is the right word -- and the boundary
+ * check below would take that away from 250 lines. So the plural is allowed on
+ * purpose instead, for the names where it is only an s: "Hanny" and "Monster
+ * Army" pluralise as Hannies and Monster Armies, and those the check keeps
+ * refusing rather than shipping the "Hannys" and "Monster Armys" it used to.
+ */
+const pluralisesWithS = (canonical) => !/(?:s|x|z|ch|sh|y)$/i.test(canonical);
+
+/**
+ * Swap a misspelling for the right name where the misspelling is a word, and
+ * leave it alone where it is the opening of a longer one.
+ *
+ * A plain replaceAll does not know the difference, and the translation is full
+ * of near misses that a listed misspelling opens: it spells スシヌ "Sushinu"
+ * where the table wants "Sushinu the Gandhi" and lists the shorter "Sushi", so
+ * 427 lines went out saying "Sushinu the Gandhinu". キャロリ turned "Caroli"
+ * into "Caroliei" the same way, バボラ "Babolat" into "Babolata", ミル "Milk"
+ * into "Millk" -- 843 lines of it altogether, produced silently at every build.
+ *
+ * Only the letter ends of a misspelling are guarded. Plenty of them open or
+ * close on something else -- "<Ale>", "Ms. Crook", "Cave-bris" -- and a bracket
+ * or a hyphen is a boundary already.
+ *
+ * What this cannot do is finish the repair: a line left saying "Caroli" is no
+ * longer mangled but still is not "Carolie", and the way to fix that one is an
+ * entry in the table rather than a cleverer match here.
+ */
+const replaceWords = (sentence, misspelling, canonical) => {
+    const opensLetter = LETTER.test(misspelling[0]);
+    const endsLetter = LETTER.test(misspelling[misspelling.length - 1]);
+    const takesPlural = endsLetter && pluralisesWithS(canonical);
+    let repaired = "";
+    let from = 0;
+    for (let at = sentence.indexOf(misspelling); at >= 0; at = sentence.indexOf(misspelling, from)) {
+        const before = sentence[at - 1];
+        const after = sentence[at + misspelling.length];
+        // The s stays where it is: replacing the stem of "demons" leaves "Fiends".
+        const plural = takesPlural && after === "s" && !LETTER.test(sentence[at + misspelling.length + 1] ?? "");
+        const glued = !plural && ((opensLetter && before && LETTER.test(before))
+            || (endsLetter && after && LETTER.test(after)));
+        repaired += sentence.slice(from, at) + (glued ? misspelling : canonical);
+        from = at + misspelling.length;
+    }
+    return repaired + sentence.slice(from);
+};
+
 export const createNameNormalizer = async (langDir) => {
     const mistranslated_names = await readNameTable(langDir);
 
@@ -150,7 +221,7 @@ export const createNameNormalizer = async (langDir) => {
             }
             for (const mistranslation of nameRecord.knownMistranslations) {
                 const beforeUpdate = sentence;
-                sentence = sentence.replaceAll(mistranslation, shortNameEng);
+                sentence = replaceWords(sentence, mistranslation, shortNameEng);
                 if (beforeUpdate !== sentence) {
                     break;
                 }
