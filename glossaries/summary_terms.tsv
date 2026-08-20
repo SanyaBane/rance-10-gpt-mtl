@@ -7,9 +7,9 @@
 # Names of people are not here. They come from glossaries/mistranslated_names.json and
 # glossaries/card_name_glossary.tsv, and scripts/summary_chunk.js quotes both into a prompt
 # beside these. A word the dialogue also says is not here either, and for the
-# same reason: 総統, 魔物界 and 大将軍 live in that file too, where the build repairs the
-# corpus from one field and the name check reports a caption that disagrees. A
-# row here can do neither.
+# same reason: 総統, 魔物界, 大将軍 and 天満橋 live in that file too, where the build
+# repairs the corpus from one field and the name check reports a caption that
+# disagrees. A row here can do neither.
 #
 # What is left -- the operations, the fortresses, the map, the
 # machines -- the dialogue mostly never said, so scripts/lookup_term.js has no
@@ -112,7 +112,6 @@
 セキガハラ	Sekigahara
 なんば	Namba
 中之島	Nakanoshima
-天満橋	Tenmabashi Bridge
 翔竜山	Mount Shoryu
 スルメ山	Mount Surume
 ベズドグ山	Mount Bezdog
