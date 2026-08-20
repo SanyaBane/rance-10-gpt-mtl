@@ -107,11 +107,31 @@ const advanceOf = (character) => {
 };
 
 /**
+ * The tracking a layout declares, in the units of the table: a part's 字間隔 is
+ * in the pixels of its own フォントサイズ, and a full-width glyph is one of those
+ * font sizes across.
+ *
+ * TRACKING above is the synopsis panel's, read off the screen rather than out
+ * of the layout, and it is the only one anybody has put a ruler to. What makes
+ * it safe to take the declared number everywhere else is that the two agree
+ * where both exist: that panel's own 字間隔 4 at フォントサイズ 48 is 3.75 in
+ * these units, inside the measured range of 3.05 to 5.80. So a panel nobody has
+ * measured is measured with what its layout says, and no correction on top.
+ */
+export const trackingFor = (spacing, fontSize) => spacing / fontSize * em();
+
+/**
  * How wide the game draws this string, in the table's units.
  *
  * Compare it against a string of the full-width characters the panel is
  * measured in -- LONGEST_LINE in modules/SummaryLines.js is twenty of them --
  * rather than against a number, so the units never have to be thought about.
+ *
+ * The tracking defaults to the synopsis panel's, which is where this started. A
+ * panel that declares its own passes trackingFor() instead, and it is not a
+ * detail: the skill description panel's 字間隔 is negative where the synopsis
+ * panel's is positive, and over a line of twenty characters the two differ by
+ * three and a half full-width glyphs.
  */
-export const gameTextWidth = (text) => text.split("")
-    .reduce((width, character) => width + advanceOf(character) + TRACKING, 0);
+export const gameTextWidth = (text, tracking = TRACKING) => text.split("")
+    .reduce((width, character) => width + advanceOf(character) + tracking, 0);
