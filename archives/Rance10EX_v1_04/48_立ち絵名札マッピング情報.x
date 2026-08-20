@@ -651,7 +651,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "スパーン／", "Spahn" },
 	{ "奴隷商人／", "Slave Merchant" },
 	{ "逃げてきた中年男／", "Middle-Aged Man Who Fled" },
-	{ "死国／", "Deathkoku" },
+	{ "死国／", "Land of the Dead" },
 	{ "魔物兵Ａ／", "Monster Soldier A" },
 	{ "Mランド／", "M Land" },
 	{ "めぽら／", "Mepora" },
