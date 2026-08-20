@@ -3940,7 +3940,7 @@ tree 識別名情報 = {
 			英名 = "Apostle Mercy",
 		},
 		"魔人 健太郎" = {
-			英名 = "Dark Lord Kentarou",
+			英名 = "Fiend Kentarou",
 		},
 		"未魔王 美樹" = {
 			英名 = "Future Demon King Miki",
@@ -3952,10 +3952,10 @@ tree 識別名情報 = {
 			英名 = "Naked Miki",
 		},
 		"魔人 サテラ" = {
-			英名 = "Dark Lord Satella",
+			英名 = "Fiend Satella",
 		},
 		"敏感魔人 サテラ" = {
-			英名 = "Sensitive DL Satella",
+			英名 = "Sens. Fiend Satella",
 		},
 		"全裸 サテラ" = {
 			英名 = "Naked Satella",
@@ -3964,13 +3964,13 @@ tree 識別名情報 = {
 			英名 = "Caesar",
 		},
 		"魔人 ハウゼル" = {
-			英名 = "Dark Lord Hawzel",
+			英名 = "Fiend Hawzel",
 		},
 		"全裸 ハウゼル" = {
 			英名 = "Naked Hawzel",
 		},
 		"魔人 サイゼル" = {
-			英名 = "Dark Lord Seizel",
+			英名 = "Fiend Seizel",
 		},
 		"全裸 サイゼル" = {
 			英名 = "Naked Seizel",
@@ -4003,19 +4003,19 @@ tree 識別名情報 = {
 			英名 = "Naked Aurora",
 		},
 		"魔人 ワーグ" = {
-			英名 = "Dark Lord Warg",
+			英名 = "Fiend Warg",
 		},
 		"全裸 ワーグ" = {
 			英名 = "Naked Warg",
 		},
 		"魔人 ホーネット" = {
-			英名 = "Dark Lord Hornet",
+			英名 = "Fiend Hornet",
 		},
 		"全裸 ホーネット" = {
 			英名 = "Naked Hornet",
 		},
 		"魔人 ガルティア" = {
-			英名 = "Dark Lord Galtia",
+			英名 = "Fiend Galtia",
 		},
 		"使徒 ラウネア" = {
 			英名 = "Apostle Launea",
@@ -4027,13 +4027,13 @@ tree 識別名情報 = {
 			英名 = "Apostle Samezan",
 		},
 		"魔人 レイ" = {
-			英名 = "Dark Lord Lei",
+			英名 = "Fiend Lei",
 		},
 		"パイアールロボ" = {
 			英名 = "Pi-R Robot",
 		},
 		"魔人 ケッセルリンク" = {
-			英名 = "Dark Lord Kesselring",
+			英名 = "Fiend Kesselring",
 		},
 		"全裸 ケッセルリンク" = {
 			英名 = "Naked Kesselring",
@@ -5164,28 +5164,28 @@ tree 識別名情報 = {
 			英名 = "Witch Richelle",
 		},
 		"魔人 ＤＤ" = {
-			英名 = "Dark Lord DD",
+			英名 = "Fiend DD",
 		},
 		"勇者 ゲイマルク" = {
 			英名 = "Hero Geimark",
 		},
 		"魔人 カミーラ" = {
-			英名 = "Dark Lord Camilla",
+			英名 = "Fiend Camilla",
 		},
 		"全裸 カミーラ" = {
 			英名 = "Naked Camilla",
 		},
 		"魔人 かわぞえ" = {
-			英名 = "Dark Lord Kawazoe",
+			英名 = "Fiend Kawazoe",
 		},
 		"魔人 ますぞえ" = {
-			英名 = "Dark Lord Masuzoe",
+			英名 = "Fiend Masuzoe",
 		},
 		"４級神 コーラ" = {
 			英名 = "4th-Class God Cola",
 		},
 		"魔人 ジーク" = {
-			英名 = "Dark Lord Sieg",
+			英名 = "Fiend Sieg",
 		},
 		"１１級神 ヌーク７７" = {
 			英名 = "Goddess 11 Nook77",
@@ -5194,16 +5194,16 @@ tree 識別名情報 = {
 			英名 = "Fallen Angel Nook77",
 		},
 		"魔人 バボラ" = {
-			英名 = "Dark Lord Babolat",
+			英名 = "Fiend Babolat",
 		},
 		"ラッシー" = {
 			英名 = "Lassie",
 		},
 		"魔人 レッドアイ" = {
-			英名 = "Dark Lord RedEye",
+			英名 = "Fiend RedEye",
 		},
 		"魔人 リズナ" = {
-			英名 = "Dark Lord Rizna",
+			英名 = "Fiend Rizna",
 		},
 		"ＰＧ" = {
 			英名 = "PG",
@@ -5266,13 +5266,13 @@ tree 識別名情報 = {
 			英名 = "Superhuman Agireda",
 		},
 		"魔人 ニミッツ" = {
-			英名 = "Dark Lord Nimitz",
+			英名 = "Fiend Nimitz",
 		},
 		"全裸 ニミッツ" = {
 			英名 = "Naked Nimitz",
 		},
 		"魔人 シルキィ" = {
-			英名 = "Dark Lord Silky",
+			英名 = "Fiend Silky",
 		},
 		"全裸 シルキィ" = {
 			英名 = "Naked Silky",

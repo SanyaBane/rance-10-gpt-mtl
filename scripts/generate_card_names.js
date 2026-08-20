@@ -138,7 +138,7 @@ const SHORTEN = [
     ["Corps", "Corp"],
     ["Monster ", "Mon. "],
     ["Apostle ", "Ap. "],
-    ["Dark Lord ", "DL "],
+    ["Sensitive Fiend", "Sens. Fiend"],
 ];
 
 /** <japanese affix pattern> -> <english template> */
@@ -147,7 +147,7 @@ const AFFIX = new Map([
     ["全裸 {}", "Naked {}"],
     ["魔物 {}", "Monster {}"],
     ["使徒 {}", "Apostle {}"],
-    ["魔人 {}", "Dark Lord {}"],
+    ["魔人 {}", "Fiend {}"],
     ["絶魔物 {}", "Extreme Monster {}"],
     ["{}＋", "{} +"],
     ["運命の女 {}", "Fated Woman {}"],
@@ -210,7 +210,7 @@ const AFFIX = new Map([
     ["未魔王 {}", "Future Demon King {}"],
     ["魔王 {}", "Demon King {}"],
     ["恋人 {}", "Lover {}"],
-    ["敏感魔人 {}", "Sensitive Dark Lord {}"],
+    ["敏感魔人 {}", "Sensitive Fiend {}"],
     ["悪魔 {}", "Devil {}"],
     ["レベル屋 {}", "Level Shop {}"],
     ["ハイレベル神 {}", "High Level Goddess {}"],
