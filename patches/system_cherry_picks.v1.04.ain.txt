@@ -7,6 +7,18 @@
 ; glossaries/enemy_info_glossary.tsv now and the build appends them after this
 ; file.
 
+; The name over the enemy's HP bar went the same way. 64 of those 231 names were
+; translated here, which reached the ones whose slot is theirs alone and had to
+; leave the rest -- ジャハルッカス is a card Id, マエリータ隊 a flag name, and
+; translating either breaks a lookup rather than a label. They are in
+; glossaries/enemy_party_glossary.tsv now, and the build renders them into an
+; override of Enemy@Id::get, which needs no slot to be safe.
+;
+; What is left of them below is the handful whose slot is drawn somewhere else
+; too -- a speaker's nameplate, an admiral's title, a buff's own name -- where
+; the string still has to say it in English. Those spell it the way the glossary
+; does, on purpose. docs/enemy-party-names.md has the whole of it.
+
 ; QuestMapParamAccessor@GetDesc
 s[4223] = "Advance"
 
@@ -100,7 +112,6 @@ s[2527] = "\r"
 ;s[3251] = "Race：%s"
 ;s[3255] = "Small Size"
 ;s[3256] = "Large Size"
-s[13013] = "Flying Monsters"
 s[12684] = "Keep Distance"
 s[5999] = "Monster Captain"
 ;s[2673] = "Name"
@@ -193,17 +204,6 @@ s[14809] = "Engineer　Kasumi"
 s[14810] = "ＪＡＰＡＮ Southern Army"
 s[14811] = "General　Agireda"
 
-s[13030] = "Elite Monster Army Unit"
-s[12991] = "Guard Monster Soldier"
-s[13041] = "Monster Captain's Company"
-s[13062] = "Cossack Cavalry"
-s[13006] = "Monster Army Assault Unit"
-s[13072] = "Massacre Unit"
-
-
-s[13514] = "Treasure Chest Dango"
-s[13824] = "Fiend Medusa"
-s[13251] = "Bandit Group"
 
 ; BadConditionDescView@0
 ;s[3336] = "Game/Battle/BadCondition/BadConditionDescView"
@@ -352,64 +352,26 @@ s[3302] = "Auto-Recovery activated！"
 
 ; SceneBattle@ShowDefaultDamageLog
 
-; monster names
-s[13229] = "Round Ones"
-s[13358] = "Cyclops Type"
-s[13348] = "Advanced Magical Creatures"
-s[13506] = "Green Slime"
-s[13507] = "Blue Slime"
-s[13508] = "Red Slime"
-s[13477] = "Xacalite"
-s[13291] = "Return Devil"
-s[13743] = "Fiend Lei"
-s[13767] = "RedEye（Possessing Toppos）"
+; monster names -- what is left of them here. The enemy party names moved to
+; glossaries/enemy_party_glossary.tsv; these are the ones that are something else
+; as well, plus the few that were never a party name at all.
 s[12341] = "Recover Bug"
 s[12339] = "Multiply Bug"
-s[13427] = "Fatal Bugs"
 s[12614] = "Hawzel's Body"
 
-s[13302] = "Daikon Squad"
 s[6438] = "Stone Guardian"
-s[13612] = "Fiend RedEye（Possessing Anise）"
-s[13212] = "Hanny Squad"
-s[7771] = "Magic Creatures Ａ"
-s[7772] = "Magic Creatures Ｂ"
-s[7773] = "Magic Creatures Ｃ"
-s[13167] = "Monster Group Ａ"
-s[13169] = "Monster Group Ｂ"
-s[13171] = "Monster Group Ｃ"
-s[13147] = "Monsters Ａ"
-s[13148] = "Monsters Ｂ"
-s[13150] = "Monsters Ｃ"
-s[13152] = "Monsters Ａ Unit"
-s[13154] = "Monsters Ｂ Unit"
-s[13156] = "Monsters Ｃ Unit"
-s[13010] = "Base Defence Unit"
-s[13158] = "Horde of Monsters"
-s[13016] = "Retreating Demon Army Company"
-s[13238] = "Flying Monsters"
-s[13240] = "Flying Monsters Ｂ"
+s[7771] = "Monster A"
+s[7772] = "Monster B"
+s[7773] = "Monster C"
 s[8006] = "Devils"
 s[9610] = "Maelita Squad"
 s[12393] = "Monster Mages"
-s[12994] = "Monster Mages Company"
 
-s[13205] = "Iron-Armed Rubble and Friends"
-s[13204] = "Miiran and Friends"
-s[13192] = "Kamikaze and Friends"
-s[13199] = "PE Star and Friends"
-s[13206] = "Cross-dresseress and Friends"
-s[5889] = "Holy Magic Sect Undead General"
-s[13033] = "Kung Fu Units"
-s[13369] = "Puryo"
-s[13379] = "White Fang Antone"
-s[13049] = "Kaybnyan and SS Company"
+s[5889] = "Holy Corpse Fighting General"
 
-s[13178] = "Weak Monsters"
 s[12668] = "Fire Immunity"
 s[12670] = "Ice Immunity"
-s[13601] = "Rampaging Anise"
-s[12203] = "Apostle Raunea"
+s[12203] = "Apostle Launea"
 s[12209] = "Apostle Samezan"
 
 ; Displayed race
@@ -422,8 +384,9 @@ s[12209] = "Apostle Samezan"
 ; record of which ones were safe.
 ;
 ; The three still live are pushed somewhere else as well: 女の子モンスター is a
-; speaker's nameplate, 魔物兵 and 魔法生物 are enemies' own names. The glossary
-; spells those the same way on purpose.
+; speaker's nameplate, 魔物兵 and 魔法生物 are enemies' own names -- so both of those
+; say what glossaries/enemy_party_glossary.tsv says, a party of Monster Soldiers
+; against the one Monster Soldier the race glossary names.
 
 ;DO NOT CHANGE! it breaks all monster cards, showing them as black rectangles
 ;s[4018] = "モンスター"
@@ -1562,7 +1525,7 @@ s[8993] = "I'll show Zans his worth."
 s[8994] = "Let's kill Zans."
 
 ; 604 / Meanwhile, the Demon General
-s[8995] = "Darson the Demon General"
+s[8995] = "Monster General Darson"
 s[8996] = "Lieutenant Alekozin"
 
 ; 604/Zans's Erotic Proudness
@@ -2517,7 +2480,6 @@ s[8731] = "Maybe..."
 ; ６１３／エピローグ
 s[8735] = ".... Is it finally over?"
 s[8736] = "Quelplan?"
-
 
 
 m[225088] = "I became a bit closer with Ero-yak ALV,"

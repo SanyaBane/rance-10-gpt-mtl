@@ -15,6 +15,7 @@ import * as path from "path";
 import {spawnSync} from "child_process";
 import {AIN} from "../modules/AinFiles.js";
 import {alice, run} from "../modules/AliceTools.js";
+import {ENEMY_PARTY_JAF, renderEnemyPartyNamesJaf} from "../modules/EnemyPartyNames.js";
 import {ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
@@ -34,24 +35,45 @@ const node = (args) => {
 };
 
 /**
- * The race names are a patch to a function rather than to a string, so they
- * arrive as a second .jaf, and that one is generated -- from
- * glossaries/race_name_glossary.tsv, by modules/RaceNames.js. Written here rather than by
- * the dialogue generator because it is not dialogue and does not vary by
- * text language; alice-tools takes as many --jaf as it is given.
+ * The two translations that patch a function rather than a string: the race on
+ * the enemy status panel, and the name over the enemy's HP bar. Both are
+ * generated from a hand-written glossary, by modules/RaceNames.js and
+ * modules/EnemyPartyNames.js, and each says why it cannot be a translated
+ * string -- the words are keys somewhere else.
+ *
+ * Written here rather than by the dialogue generator because neither is
+ * dialogue and neither varies by text language; alice-tools takes as many --jaf
+ * as it is given.
  */
-const renderRaceNames = async () => {
-    const rendered = await renderRaceNamesJaf();
-    await fs.writeFile(RACE_JAF, rendered.text, "utf-8");
-    console.log(`Translated ${rendered.report}`);
-    for (const english of rendered.overlong) {
-        console.warn(`  too wide for the enemy status panel: ${JSON.stringify(english)}`);
-    }
-    for (const complaint of rendered.misnamed) {
-        console.warn(`  ${complaint}`);
-    }
-    for (const japanese of rendered.stale) {
-        console.warn(`  the game has no race called ${JSON.stringify(japanese)}`);
+const GENERATED_JAF = [
+    {
+        render: renderRaceNamesJaf,
+        file: RACE_JAF,
+        overlong: "too wide for the enemy status panel",
+        stale: (japanese) => `the game has no race called ${JSON.stringify(japanese)}`,
+    },
+    {
+        render: renderEnemyPartyNamesJaf,
+        file: ENEMY_PARTY_JAF,
+        overlong: "wider than the HP bar it labels",
+        stale: (japanese) => `the game has no enemy called ${JSON.stringify(japanese)}`,
+    },
+];
+
+const renderGeneratedJaf = async () => {
+    for (const {render, file, overlong, stale} of GENERATED_JAF) {
+        const rendered = await render();
+        await fs.writeFile(file, rendered.text, "utf-8");
+        console.log(`Translated ${rendered.report}`);
+        for (const english of rendered.overlong) {
+            console.warn(`  ${overlong}: ${JSON.stringify(english)}`);
+        }
+        for (const complaint of rendered.misnamed) {
+            console.warn(`  ${complaint}`);
+        }
+        for (const japanese of rendered.stale) {
+            console.warn(`  ${stale(japanese)}`);
+        }
     }
 };
 
@@ -84,7 +106,7 @@ run(async () => {
         if (rendered !== 0) {
             return rendered;
         }
-        await renderRaceNames();
+        await renderGeneratedJaf();
         english.push(
             "-t", path.relative(ROOT, regeneratedTxt(textLang)),
             "--jaf", "patches/card_names.jaf",
@@ -97,8 +119,14 @@ run(async () => {
             "--jaf", "patches/trophy_names.jaf",
             "--jaf", path.relative(ROOT, RACE_JAF),
             /*
+             * The name over the enemy's HP bar. Nothing else resolves against
+             * it, so its place in this list is free; it sits by the other
+             * generated .jaf.
+             */
+            "--jaf", path.relative(ROOT, ENEMY_PARTY_JAF),
+            /*
              * The enemy panel's two card Ids in English. Not optional -- it is
-             * translation -- and after both .jaf above, whose CardEnglishLabel
+             * translation -- and after the .jaf above, whose CardEnglishLabel
              * and 表示種族 it resolves by name; the other order stops with
              * "Unable to resolve function". The features come last for the same
              * reason: the one there is now resolves a name out of its own .jaf.

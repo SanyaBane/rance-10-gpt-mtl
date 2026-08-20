@@ -1,0 +1,257 @@
+# The English for the name over an enemy's HP bar -- the plate that reads
+# ジャハルッカス or 魔物兵(25匹) while a fight is on. Hand-written; this is the file
+# to edit.
+#
+# Columns: the Japanese <TAB> the English.
+#
+# The Japanese is copied from game/extracted/enemy_party_names.v1.04.tsv, which
+# scripts/extract_enemy_party_names.js writes, and the order is the game's own --
+# the Monster Army first, the Fiends last. A name left out here stays Japanese in
+# game.
+#
+# Keyed by the Japanese rather than by string slot, because a slot belongs to one
+# build of one version and because 45 of these names share theirs with something
+# else. The build renders this into an override of Enemy@Id::get rather than into
+# translated strings; modules/EnemyPartyNames.js says why, and
+# docs/enemy-party-names.md has the whole of it.
+#
+# The suffixes the game appends are not here and must not be written in: 難易度調整
+# adds + or v for a rebalanced fight and (25匹) for a group, and the .jaf takes
+# those off before it looks a name up.
+#
+# Names follow glossaries/mistranslated_names.json and
+# glossaries/card_name_glossary.tsv; the terms follow the dialogue, which is what
+# scripts/lookup_term.js is for -- 中隊 a Company, 大隊 a Battalion, 闘将 a Fighting
+# General, 鬼 an oni, 群生 a colony.
+
+テストの集団	Test Group
+魔物兵	Monster Soldiers
+魔法魔物兵	Monster Mages
+偵察魔物兵	Monster Scouts
+護衛魔物兵	Monster Guards
+魔軍中隊	Monster Army Company
+魔法魔物兵中隊	Monster Mage Company
+岸壁偵察中隊	Cliffside Scout Company
+魔軍 大隊	Monster Army Battalion
+魔軍突撃隊	Monster Army Assault Squad
+拠点防衛隊	Base Defence Squad
+飛行魔物兵	Flying Monster Soldiers
+敗走中の魔軍中隊	Routed Monster Army Company
+ＳＳ魔物兵	SS Monster Soldiers
+魔軍ＳＳ中隊	Monster Army SS Company
+廃棄されたＳＳ中隊	Discarded SS Company
+精鋭魔軍部隊	Elite Monster Army Unit
+カンフー部隊	Kung Fu Unit
+魔物隊長	Monster Captain
+魔物隊長率いる中隊	Monster Captain's Company
+ボス隊長率いる中隊	Boss Captain's Company
+魔物将軍率いる大隊	Monster General's Battalion
+ケイブワンとＳＳ中隊	Kaybwan and the SS Company
+ケイブニャンとＳＳ中隊	Kaybnyan and the SS Company
+魔物隊長アバシリ	Monster Captain Abashiri
+コサック騎兵隊	Cossack Cavalry
+特別放火部隊	Special Arson Unit
+惨殺部隊	Massacre Unit
+マエリータ隊	Maelita Squad
+魔物将軍	Monster General
+魔物将軍ダボダス	Monster General Dabodas
+魔物将軍ダルソン	Monster General Darson
+魔物大将軍ツォトン	Monster Great General Zedong
+魔物大将軍ピサロ	Monster Great General Pizarro
+魔物大将軍ヨシフ	Monster Great General Joseph
+魔物大将軍ルメイ	Monster Great General LeMay
+超空エノラゲイ	High-Altitude Enola Gay
+バイランローズ	Byranrose
+腐ったバイランローズ	Rotted Byranrose
+骸骨王モドカタ	Skeleton King Modokata
+大元帥ストロガノフ	Grand Marshal Stroganoff
+モンスターＡ	Monsters A
+モンスターＢ	Monsters B
+モンスターＣ	Monsters C
+モンスターＡ部隊	Monster Unit A
+モンスターＢ部隊	Monster Unit B
+モンスターＣ部隊	Monster Unit C
+モンスターの大集団	Horde of Monsters
+魔物Ａ	Monster A
+魔物Ｂ	Monster B
+魔物Ｃ	Monster C
+モンスター達Ａ	Monster Pack A
+モンスター達Ｂ	Monster Pack B
+モンスター達Ｃ	Monster Pack C
+魔物の大群	Swarm of Monsters
+雑魚モンスター	Weak Monsters
+きゃんきゃんと仲間達	Can Can and Friends
+９７チハと仲間達	97 Chi-ha and Friends
+ラルカットと仲間達	Ralcat and Friends
+メイドさんと仲間達	Maid-san and Friends
+フローズンと取り巻き	Frozen and Entourage
+マジスコと取り巻き	Magisko and Entourage
+バルキリーと僕達	Valkyrie and the Boys
+神風と僕達	Kamikaze and the Boys
+ハチ女と変態モンスター	Bee Girl and Pervert Monsters
+はいからちゃんと仲間達	Haikara-chan and Friends
+上野花子と仲間達	Ueno Hanako and Friends
+体育スターと仲間達	Athletic Star and Friends
+シャチ子と仲間達	Shachiko and Friends
+ガルバンと仲間達	Galban and Friends
+めぽらと仲間達	Mepora and Friends
+ミイランと仲間達	Myiran and Friends
+鉄腕ラブルと仲間達	Mighty-armed Rabble and Friends
+男装女と仲間達	Crossdresser and Friends
+手裏剣使いと仲間達	Shuriken User and Friends
+幸福きゃんきゃんと仲間達	Lucky Can Can and Friends
+ハニー	Hanny
+ハニー部隊	Hanny Squad
+強いハニー部隊	Strong Hanny Squad
+古代種	Ancients
+古代種Ｂ群	Ancient Group B
+まるいもの達	Round Ones
+飛行モンスター	Flying Monsters
+飛行モンスターＢ群	Flying Monster Group B
+山賊達	Bandits
+山賊団	Bandit Gang
+エレナ山賊団	Elena's Bandit Gang
+鬼	Oni
+動けない鬼	Immobile Oni
+ナナサンダケ鬼	Nana-san Dake Oni
+大鬼コウギョク	Great Oni Kougyoku
+悪魔	Devils
+リターンデーモン	Return Demon
+ダイコン群生	Radish Colony
+毒ダイコン群生	Poison Radish Colony
+魔界植物群生	Demon World Plant Colony
+強魔界植物の群生	Strong Demon World Plant Colony
+幽霊	Ghosts
+アコンゴースト群	Acon Ghost Swarm
+聖骸闘将	Holy Corpse Fighting General
+魔法生物	Magical Creature
+上級魔法生物	Advanced Magical Creatures
+サイクロ系	Cyclo Type
+装甲独眼ゴーレム	Armoured One-Eyed Golem
+海の生き物	Sea Creatures
+ぷりょ	Puryo
+巨大なぷりょ	Giant Puryo
+アントーン	Antone
+白牙アントーン	White Fang Antone
+闇に蠢く物達	Things That Stir in the Dark
+闇と死の物達	Things of Dark and Death
+ガツガツ	Gatsugatsu
+ＳＸガツガツ	SX Gatsugatsu
+ＳＸガツガツ(reverse)	SX Gatsugatsu (reverse)
+ポリポリ	Polipoli
+危険なバグ	Dangerous Bugs
+致命的なバグ	Fatal Bugs
+ＰＧ	PG
+謎のロボット	Mystery Robot
+ハチ女の集団	Bee Girl Swarm
+機々械々	Kigikaigai
+ガーディアン	Guardian
+ストーンガーディアン	Stone Guardian
+狂った闘将達	Mad Fighting Generals
+ジャハルッカス	Jhahlckas
+ザカリテ	Xacalite
+ＰＩ３	PI3
+工場長ロボ	Factory Chief Robot
+衛星兵器	Satellite Weapon
+グリーンドラゴン	Green Dragon
+レッドドラゴン	Red Dragon
+ブラックドラゴン	Black Dragon
+クレイジードラゴン	Crazy Dragon
+グリーンスライム	Green Slime
+ブルースライム	Blue Slime
+レッドスライム	Red Slime
+宝箱だんご	Treasure Chest Dango
+キラトーキ	Kiratouki
+海獣レイドボス	Sea Beast Raid Boss
+怪獣ＵＲ	Giant Monster UR
+アスタコプロト	Asutakoputo
+アスタコ	ASTACO
+悪魔ネプラカス	Devil Neplacus
+黒部	Kurobe
+トッポス	Toppos
+砂虫	Sandworms
+幸福な砂虫	Lucky Sandworm
+ＮＡＴＯ	NATO
+デカント部隊	Decant Unit
+デスゴーレム	Death Golem
+ティラノ	Tyranno
+特殊部隊１	Special Forces 1
+特殊部隊２	Special Forces 2
+チャカ	Chaka
+リック	Rick
+暴走アニス	Rampaging Anise
+カチューシャ	Katyusha Bosch
+魔人レッドアイ（アニス憑依）	Fiend RedEye (Possessing Anise)
+魔人健太郎	Fiend Kentarou
+魔人健太郎(怒)	Fiend Kentarou (Enraged)
+魔人シルキィ・リトル	Fiend Silky Little
+魔人シルキィ	Fiend Silky
+魔人ハウゼル	Fiend Hawzel
+魔人姉妹	The Fiend Sisters
+バボラの足？	Babolat's Leg?
+魔人バボラ	Fiend Babolat
+魔人ガルティア	Fiend Galtia
+使徒ラウネア	Apostle Launea
+ガルティアの使徒	Galtia's Apostles
+魔人レイ	Fiend Lei
+魔人レッドアイ（トッポス憑依）	Fiend RedEye (Possessing Toppos)
+魔人レキシントン	Fiend Lexington
+裸の使徒達	The Naked Apostles
+魔人ケッセルリンク	Fiend Kesselring
+メイド使徒	The Maid Apostles
+魔人メディウサ	Fiend Medusa
+使徒アレフガルド	Apostle Alefgard
+魔人パイアール	Fiend Pi-R
+魔人ケイブリス	Fiend Kayblis
+魔人ケイブリス(猛撃)	Fiend Kayblis (Fierce)
+魔人ケイブリス(増長)	Fiend Kayblis (Cocky)
+魔人ケイブリス(魔法)	Fiend Kayblis (Magic)
+魔人ケイブリス(リス)	Fiend Kayblis (Risky)
+魔人ケイブリス(用心)	Fiend Kayblis (Wary)
+魔王ケイブリス	Demon King Kayblis
+魔人ワーグ	Fiend Warg
+魔人ますぞえ	Fiend Masuzoe
+魔人かわぞえ	Fiend Kawazoe
+大量の料理	Mountain of Food
+大量の料理(おかわり)	Mountain of Food (Seconds)
+嵐	Storm
+天界の壁	Wall of Heaven
+魔法の壁	Magic Wall
+岩盤	Bedrock
+事件の謎	The Mystery
+ロッキー	Rocky
+ランスＪｒ	Rance Jr.
+魔人サテラ	Fiend Satella
+ディフェンダー	Defender
+ディフェンダー大軍	Defender Horde
+魔獣カース	Magic Beast Curse
+魔王の子　レリコフ	Demon King's Child Lelikov Helman
+ブロビオ	Brobio
+アームズ	Arms
+魔女リクチェル	Witch Richelle von do Kosusu
+アレキサンダー	Alexander
+魔獣タイガー	Magic Beast Tiger
+勇者ゲイマルク	Hero Geimark
+魔人リズナ	Fiend Rizna
+魔人ホーネット	Fiend Hornet
+魔人ＤＤ	Fiend DD
+魔王ランス	Demon King Rance
+北条早雲(錯乱)	Houjou Souun (Deranged)
+バファムーン	Baphamoon
+冬将軍１９４２	Winter General 1942
+大怪獣クエルプラン	Giant Monster Quelplan
+血の記憶ランス	Blood Memory: Rance
+血の記憶リトルプリンセス	Blood Memory: Little Princess
+血の記憶ガイ	Blood Memory: Gai
+血の記憶ジル	Blood Memory: Jill
+血の記憶ナイチサ	Blood Memory: Naitisa
+血の記憶スラル	Blood Memory: Sural
+血の記憶アベル	Blood Memory: Abel
+血の記憶ククルククル	Blood Memory: Kukurukuru
+血の記憶血	Blood Memory: Blood
+魔王美樹	Demon King Miki
+ストーンガーディアンＧＥＸ１	Stone Guardian GEX1
+ストーンガーディアンＧＥＸ２	Stone Guardian GEX2
+ストーンガーディアンＧＥＸ３	Stone Guardian GEX3
+ルドラサウム	Rudrasaum
+バスワルド	Vaswald
