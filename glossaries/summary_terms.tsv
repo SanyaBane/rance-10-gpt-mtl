@@ -6,7 +6,12 @@
 #
 # Names of people are not here. They come from glossaries/mistranslated_names.json and
 # glossaries/card_name_glossary.tsv, and scripts/summary_chunk.js quotes both into a prompt
-# beside these. What is left -- the operations, the fortresses, the map, the
+# beside these. A word the dialogue also says is not here either, and for the
+# same reason: 総統 and 魔物界 live in that file too, where the build repairs the
+# corpus from one field and the name check reports a caption that disagrees. A
+# row here can do neither.
+#
+# What is left -- the operations, the fortresses, the map, the
 # machines -- the dialogue mostly never said, so scripts/lookup_term.js has no
 # answer for it and each of these was decided once, in a batch of three hundred,
 # and then had to hold for four and a half thousand captions nobody reads in one
@@ -30,7 +35,6 @@
 魔物隊長	monster captain
 魔人討伐隊	the Fiend Extermination Squad
 魔王討伐隊	the Demon King Extermination Squad
-魔物界	the demon world
 器兵	automaton
 穴奴隷	hole slave
 
@@ -68,10 +72,6 @@
 魔法軍	the Magic Army
 赤軍	the Red Army
 参謀本部	General Staff HQ
-# 総統 is in glossaries/mistranslated_names.json rather than here, because the title
-# is the dialogue's as much as this screen's and it should be settled once. The
-# build repairs the dialogue from that entry and the name check reports a caption
-# that disagrees, which is what a row here could not do.
 法王特典	papal privilege	privilege
 闇社会	the underworld
 保育園	daycare
