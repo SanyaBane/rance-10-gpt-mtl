@@ -27,7 +27,7 @@ these is edited by hand:
 | `glossaries/` | the English, keyed by the Japanese — the tables below, the ones the enemy panel, the synopsis screen and the achievements screen read, and the words the synopsis settled on |
 | `patches/` | what alice-tools is handed directly by every build: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `features/` | one folder per optional patch: the files that change what the game *does*, and the `feature.js` naming them |
-| `text_languages/` | one folder per text the game can be built with — the two translations, and the Japanese it shipped with |
+| `text_languages/` | one folder per text the game can be built with — the translation, and the Japanese it shipped with |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
 

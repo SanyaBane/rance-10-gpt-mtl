@@ -18,7 +18,6 @@
  * A release folder is one folder per folder under text_languages/:
  *
  *   README.md                                          which folder is which
- *   en_gpt/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
  *   en_grok/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
  *   jp/Rance10.ain, README.md
  *
@@ -27,9 +26,9 @@
  * are written by modules/ReleaseReadme.js, and generated rather than copied
  * because what they have to say depends on the run -- which text language a
  * folder is, and which features went into it. The price is
- * that Rance10EX.ex and Rance10Pact.afa are the same file twice -- they hold no
- * dialogue, so they do not vary by text language -- which is why they are built
- * once and copied rather than built per folder.
+ * that Rance10EX.ex and Rance10Pact.afa would be the same file in every English
+ * folder -- they hold no dialogue, so they do not vary by text language -- which
+ * is why they are built once and copied rather than built per folder.
  *
  * jp is the game's own script with the features over it and no English at all,
  * so it is one file; and with no features selected there would be nothing in it

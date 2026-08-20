@@ -9,18 +9,23 @@
 > outlast the run that produced them. Four things it names are no longer where
 > it says:
 >
-> - `gpt_outputs/` is `text_languages/en_gpt/gpt_outputs/` now, and its sibling
->   `gpt_outputs_v104/` alongside it. See [text-languages.md](text-languages.md).
+> - `gpt_outputs/` became `text_languages/en_gpt/gpt_outputs/`, and that text
+>   language has since been removed -- the corpus this file was written against
+>   is in git and nowhere else. The one built today is
+>   `text_languages/en_grok/`: the same file names and the same line numbers,
+>   with a different translation over them, so the method below still applies to
+>   it. See [text-languages.md](text-languages.md).
 > - `Files_Check.md`, the running log this file tells the next session to resume
->   from, was never committed. The one log that survives covers the v104 half of
->   the corpus and is `text_languages/en_gpt/coherence-sweep-log.md`.
+>   from, was never committed. The one log that survived covers the v104 half of
+>   the corpus and went with the folder:
+>   `git show en_gpt-final:text_languages/en_gpt/coherence-sweep-log.md`.
 > - `Title_Consistency_Fixes.md` was never committed either. Names are settled in
 >   `glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`, and the build reports
 >   what disagrees with them.
 > - The "Task type 1 in CLAUDE.md" it cites is from a CLAUDE.md since rewritten.
 >
 > The counts near the end ("~166 files in gpt_outputs/") were wrong even then:
-> the folder holds 4805.
+> the folder held 4805.
 
 ## SESSION 12 CONTINUATION: self-audit coverage gap (read this first)
 

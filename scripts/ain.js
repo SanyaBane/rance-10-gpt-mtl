@@ -1,8 +1,8 @@
 /**
  * Build Rance10.ain from one of the text languages.
  *
- *   npm run regenerate-ain                      # the language .env names, or en_gpt
- *   npm run regenerate-ain -- --text-lang=en_grok
+ *   npm run regenerate-ain                      # the language .env names, or en_grok
+ *   npm run regenerate-ain -- --text-lang=jp
  *   node scripts/ain.js --text-lang=jp          # the features, over the game's own Japanese
  *
  * Rendering the patch and applying it are two steps, and they used to be a &&

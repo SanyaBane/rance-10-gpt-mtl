@@ -1,22 +1,23 @@
 # The text the game is built with
 
-The repository carries two English translations of the game's dialogue, a
-folder each, and builds whichever one you ask for — or the Japanese the game
-shipped with, which is a folder too:
+The repository carries the English translation of the game's dialogue as a
+folder, and builds it — or the Japanese the game shipped with, which is a folder
+too:
 
 | Text language | What it is |
 |---|---|
-| `en_gpt` | the default, the translation this repository has always shipped |
-| `en_grok` | a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok |
+| `en_grok` | the default: the whole script put through Grok in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) |
 | `jp` | no translation at all: the game's own script, with the `features/` patches over it |
+
+There were two until `en_gpt` was removed; the section at the end of this file
+says what it was and how to read it back.
 
 Each folder under `text_languages/` carries a `text_language.js` saying what it
 is and whether there is English in it, and a README saying where its text came
 from and what has been done to it since.
 
 ```
-npm run regenerate-ain                     # the language .env names, or en_gpt
-node scripts/ain.js --text-lang=en_grok    # this one, just this once
+npm run regenerate-ain                     # the language .env names, or en_grok
 node scripts/ain.js --text-lang=jp         # the features, and no English at all
 ```
 
@@ -26,11 +27,11 @@ language and switching means running the build again. Whichever way you choose,
 the build says which one it rendered before it writes anything — worth a
 glance, because there is one way to get this wrong quietly:
 
-`npm run regenerate-ain -- --text-lang=en_grok` is the npm spelling and it works
+`npm run regenerate-ain -- --text-lang=jp` is the npm spelling and it works
 in cmd.exe and in bash, but **PowerShell eats the bare `--`**, so npm never sees
 the flag and you get the default with no complaint. In PowerShell, call `node
-scripts/ain.js --text-lang=en_grok` — or quote it, `npm run regenerate-ain '--'
---text-lang=en_grok`.
+scripts/ain.js --text-lang=jp` — or quote it, `npm run regenerate-ain '--'
+--text-lang=jp`.
 
 ## What a text language is
 
@@ -39,9 +40,9 @@ a translation, nothing but data in one of two shapes. A corpus, which is what a
 translation run through the API leaves behind:
 
 ```
-text_languages/en_gpt/gpt_outputs/           the v1.00 translation, one JSON per chunk of lines
-text_languages/en_gpt/gpt_outputs_v104/      the same for lines v1.04 added
-text_languages/en_gpt/mistranslated_names.json   optional, see below
+text_languages/en_grok/gpt_outputs/          the v1.00 translation, one JSON per chunk of lines
+text_languages/en_grok/gpt_outputs_v104/     the same for lines v1.04 added
+text_languages/en_grok/mistranslated_names.json  optional, see below
 ```
 
 Or a finished patch, which is what a translation done by hand in a chat window
@@ -68,8 +69,8 @@ the other build had in mind.
 The shape is not a property of the translation, only of how it arrived, and a
 patch can be moved into the other one. That is what happened to `en_grok`: what
 the folder holds is the `en_gpt` corpus with the grok text written over it, line
-number for line number, so the Grok translation can be corrected the way this
-repository has always corrected `en_gpt` -- a chunk file at a time, with the
+number for line number, so the Grok translation could be corrected the way this
+repository had always corrected `en_gpt` -- a chunk file at a time, with the
 Japanese next to the English and `scripts/find_mistranslations.js` able to read
 it. Its README says what the move cost, which is nine lines out of 269617
 rendering differently from the patch it was made from.
@@ -127,8 +128,9 @@ the canonical way, the known misspelling is replaced. The same file names the
 characters on the card plates through `scripts/generate_card_names.js`, so it
 has to be shared — a text language that renamed people in its dialogue alone
 would contradict the cards its own build installs. Two translations of the same
-script get a name wrong in different ways, and the table has to know both
-spellings; what the two are allowed to differ in is the wording.
+script got a name wrong in different ways, which is why the table lists several
+misspellings against one canonical spelling; what a text language is allowed to
+differ in is the wording.
 
 If a text language does need its own answer, put a `mistranslated_names.json`
 next to its text with just the entries it disagrees about. It is layered over
@@ -146,3 +148,33 @@ and `build/` is gitignored whole. The patch file is named per text language on
 purpose — switching languages should not leave you reading the other one's text,
 and a generation that fails should not pass off a stale file as the build you
 asked for.
+
+## The one that was removed
+
+`en_gpt` was the translation this repository shipped from the beginning, and the
+default until `en_grok` replaced it: 4805 + 85 chunk files under
+`text_languages/en_gpt/`, from a translation run dated October 2025, with every
+correction made to them since. It was removed because nobody built it any more,
+and because a second corpus under the same file names is a standing invitation
+to read, grep and edit the copy that is not played.
+
+Removing it costs nothing that git does not keep. The folder is reachable at the
+`en_gpt-final` tag, which is the last commit carrying it, and its objects were
+already in the pack — deleting it makes the working tree 77 MB lighter and the
+clone not one byte smaller.
+
+What is worth reaching back for is a line. `en_grok` was built out of that
+corpus file for file, so the two share their file names but for one, their line
+numbers and the Japanese beside them, and a diff shows the English and nothing
+else:
+
+```
+git show en_gpt-final:text_languages/en_gpt/gpt_outputs/184850_184910.json
+```
+
+Its own README is at `en_gpt-final:text_languages/en_gpt/README.md`, and the log
+of the coherence sweep over its v1.04 half — twelve sessions in July 2026, read
+by hand, never finished — at
+`en_gpt-final:text_languages/en_gpt/coherence-sweep-log.md`. What outlasted that
+sweep is the method, and that is in [coherence-sweep.md](coherence-sweep.md)
+rather than in the deleted folder.

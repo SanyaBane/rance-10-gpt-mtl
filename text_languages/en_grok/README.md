@@ -1,14 +1,14 @@
 # The `en_grok` dialogue translation
 
-A second translation of the whole script, made in
-[the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting
-the Japanese through Grok five hundred lines at a time and pasting the English
-back. It sits here in the shape the `en_gpt` one has -- a corpus of chunk files,
-one record per line, with the Japanese beside the English -- so the same tools
-and the same habits work on it. Build it with `node scripts/ain.js
---text-lang=en_grok`; see
+The translation this repository builds: the whole script put through Grok in
+[the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) five
+hundred lines at a time, with the English pasted back. It arrived second, into a
+repository whose own translation was `en_gpt`, and sits here in the shape that
+one had -- a corpus of chunk files, one record per line, with the Japanese
+beside the English -- so the same tools and the same habits work on it. It is
+what `npm run regenerate-ain` builds; see
 [docs/text-languages.md](../../docs/text-languages.md) for the rest
-of the selection.
+of the selection, and for where `en_gpt` went.
 
 ## Where the text came from
 
@@ -35,14 +35,18 @@ this repository's own later edits to `gpt`.
 
 A one-shot script, from `text_languages/en_gpt` and the fork's patch. It is not in the
 repository on purpose: running it again would overwrite by hand whatever hand
-editing had been done since, which is the only reason the folder is here. What
-it did, in full:
+editing had been done since, which is the only reason the folder is here.
+Neither is `en_gpt` any more -- it was removed once this became the only
+translation built, and it reads back out of git under the `en_gpt-final` tag.
+What the script did, in full:
 
 - copied both chunk folders of `text_languages/en_gpt`, file for file, and left
   everything except the English untouched -- the line numbers, the Japanese,
   the API response the chunk came in (`id`, `created_at`, `model`, `usage`), the
-  formatting and the line endings. A diff of `text_languages/en_gpt/<file>.json` against
-  `text_languages/en_grok/<file>.json` shows translation lines and nothing else;
+  formatting and the line endings. A diff of
+  `git show en_gpt-final:text_languages/en_gpt/<file>.json` against
+  `text_languages/en_grok/<file>.json` shows translation lines and nothing else,
+  which is still the way to read what the other translation made of a line;
 - replaced `translatedEnglishLine` with the grok text wherever the patch names
   that line -- 274913 of the 275312 records it copied. The number it looks the
   line up by is the v1.04 one, mapping the v1.00 numbering of `gpt_outputs/`
@@ -129,12 +133,12 @@ The half-cut names above are the only thing corrected here so far, and the
 translation is rough in three ways worth knowing before editing it.
 
 It keeps the Japanese punctuation, 「」 on 183008 lines, which reads as a
-deliberate choice rather than a leftover -- the `en_gpt` text uses quotation
+deliberate choice rather than a leftover -- the `en_gpt` text used quotation
 marks instead.
 
 Around sixty lines still hold kana or kanji after the build normalises what it
 can. Half of those are `・` used as a separator, "M・M・Rune", which the `gpt`
-text does too; the rest are a word the translation walked past, `幻獣` for a
+text did too; the rest are a word the translation walked past, `幻獣` for a
 phantom beast being the one that recurs. One line, m[145787], is untranslated
 outright.
 

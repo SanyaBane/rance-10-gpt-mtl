@@ -1,6 +1,6 @@
 /**
- * Which text the game is built with: one of the translations, or the Japanese
- * it shipped with.
+ * Which text the game is built with: a translation, or the Japanese it
+ * shipped with.
  *
  * A text language is data, not code: a directory under text_languages/ holding
  * the text -- either the two translation corpora or a finished dialogue.ain.txt
@@ -26,7 +26,16 @@ import {BUILD, ROOT} from "./Env.js";
 /** One folder per text language, each holding nothing but that text. */
 export const TEXT_LANGS_DIR = path.join(ROOT, "text_languages");
 
-export const DEFAULT_TEXT_LANG = "en_gpt";
+/**
+ * What a build renders when neither --text-lang nor TEXT_LANG names one, and
+ * what a patch-shaped text language is rendered on top of.
+ *
+ * It was en_gpt until that language was removed -- the translation this
+ * repository shipped from the beginning, kept in git under the en_gpt-final
+ * tag and nowhere in the working tree. docs/text-languages.md says why and
+ * how to read it back.
+ */
+export const DEFAULT_TEXT_LANG = "en_grok";
 
 const MANIFEST = "text_language.js";
 
