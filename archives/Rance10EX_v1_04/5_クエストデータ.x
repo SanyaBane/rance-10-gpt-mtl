@@ -14836,7 +14836,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ヘルマン被害１／実行済み",
-					説明 = "The Zell sisters are\nalready...",
+					説明 = "The Zahl sisters are\nalready...",
 				},
 			},
 		},
@@ -14931,7 +14931,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ヘルマン被害１／実行済み",
-					説明 = "The Zell sisters are\nalready...",
+					説明 = "The Zahl sisters are\nalready...",
 				},
 			},
 		},
