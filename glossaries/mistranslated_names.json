@@ -2992,6 +2992,21 @@
         ]
     },
     {
+        "shortNameEng": "Great General",
+        "shortNameJpn": "大将軍",
+        "knownMistranslations": [
+            "demon generalissimo",
+            "generalissimo",
+            "Grand General",
+            "grand general",
+            "Great general",
+            "great general",
+            "Demon General",
+            "Demon general",
+            "demon general"
+        ]
+    },
+    {
         "shortNameEng": "Monster Realm",
         "shortNameJpn": "魔物界",
         "knownMistranslations": [
