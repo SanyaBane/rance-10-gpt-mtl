@@ -169,7 +169,7 @@ duplication diagnosis was right both times, but the initial phrasing chosen to f
 ## SESSION 9 LEARNINGS
 
 **Scope correction — title consistency is NOT part of this checklist's job.**
-Do not chase 総統 ("Supreme Commander") or any other title-consistency issue while doing a
+Do not chase 総統 ("Supreme Leader") or any other title-consistency issue while doing a
 coherence/grammar sweep. It was a recurring distraction in earlier sessions — time spent
 verifying title translations is time not spent on the actual 11-point checklist below, and it
 skews review toward one narrow, already-well-covered error type while other categories
@@ -484,7 +484,7 @@ VERDICT: [CLEAN / X ERRORS FOUND]
    off (check the last entry in that file — do not restart from the beginning; as of Session 9
    it extends through `019840_019890.json`, line ~19890). Do not trust this number either —
    always re-read the actual tail of `Files_Check.md` before resuming, since it will keep moving.
-2. **Do not chase title/Supreme Commander consistency** — see Session 9 Learnings above.
+2. **Do not chase title/Supreme Leader consistency** — see Session 9 Learnings above.
 3. **For each file:** apply the full 11-point checklist genuinely — actively scan for
    duplication (front-loaded content across split lines), pronoun/agency reversal, and
    speaker-attribution errors specifically, since those were the categories most often missed.

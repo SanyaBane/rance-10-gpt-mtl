@@ -12648,7 +12648,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The Supreme Commander is\npassing through!",
+					説明 = "The Supreme Leader is\npassing through!",
 				},
 			},
 		},

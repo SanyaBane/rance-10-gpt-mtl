@@ -68,7 +68,10 @@
 魔法軍	the Magic Army
 赤軍	the Red Army
 参謀本部	General Staff HQ
-総統	Supreme Commander
+# 総統 is in glossaries/mistranslated_names.json rather than here, because the title
+# is the dialogue's as much as this screen's and it should be settled once. The
+# build repairs the dialogue from that entry and the name check reports a caption
+# that disagrees, which is what a row here could not do.
 法王特典	papal privilege	privilege
 闇社会	the underworld
 保育園	daycare

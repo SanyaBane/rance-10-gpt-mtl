@@ -2992,6 +2992,28 @@
         ]
     },
     {
+        "shortNameEng": "Supreme Leader's Office",
+        "shortNameJpn": "総統府",
+        "knownMistranslations": [
+            "Presidential Office",
+            "presidential office"
+        ]
+    },
+    {
+        "shortNameEng": "Supreme Leader",
+        "shortNameJpn": "総統",
+        "knownMistranslations": [
+            "Supreme Commander",
+            "supreme commander",
+            "supreme leader",
+            "Mr. President",
+            "Great Leader",
+            "Chancellor",
+            "President",
+            "president"
+        ]
+    },
+    {
         "shortNameEng": "God of War",
         "shortNameJpn": "軍神",
         "knownMistranslations": [
