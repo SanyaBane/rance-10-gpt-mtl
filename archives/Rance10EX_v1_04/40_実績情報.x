@@ -197,13 +197,13 @@ tree 実績情報 = {
 		種類 = 10,
 		ボーナス = "割り込み発動＋１",
 		値 = (list) { "達成／姉妹撃破" },
-		説明 = "You defeat the Saizel-Hawzel sisters. Bonus: Permanent Interrupt Rate +1.",
+		説明 = "You defeat the Seizel-Hawzel sisters. Bonus: Permanent Interrupt Rate +1.",
 	},
 	"達成(クリアＡ時)　ワンニャン　　　　★割り込み発生率＋１" = {
 		種類 = 10,
 		ボーナス = "割り込み発動＋１",
 		値 = (list) { "達成／ケイブニャン" },
-		説明 = "You choose “Kave-nyan” and clear the game to the end. Bonus: Permanent Interrupt Rate +1.",
+		説明 = "You choose “Kaybnyan” and clear the game to the end. Bonus: Permanent Interrupt Rate +1.",
 	},
 	"達成(クリアＡ時)　恋人美樹　　　　　★割り込み発生率＋１" = {
 		種類 = 10,
@@ -616,6 +616,6 @@ tree 実績情報 = {
 		種類 = 10,
 		ボーナス = "",
 		値 = (list) { "達成／バスワルド" },
-		説明 = "Calm the Second-Class God Baswald. Bonus: Card appears in ‘Anything Goes' mode.",
+		説明 = "Calm the Second-Class God Vaswald. Bonus: Card appears in ‘Anything Goes' mode.",
 	},
 };

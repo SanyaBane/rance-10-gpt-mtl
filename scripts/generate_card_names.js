@@ -31,7 +31,7 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {width} from "../modules/EastAsianWidth.js";
 import {ROOT} from "../modules/Env.js";
-import {NAMEPLATES} from "../modules/Nameplates.js";
+import {CARD_DATA, CARD_INFO, NAMEPLATES} from "../modules/Nameplates.js";
 
 const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
 const GLOSSARY_PATH = path.join(ROOT, "glossaries", "card_name_glossary.tsv");
@@ -467,8 +467,8 @@ const findCollapses = (overrides, base, original) => {
 };
 
 /** Id -> 識別名, in card table order. */
-const readCards = async (exDir) => {
-    const {text, encoding} = await readText(`${exDir}/8_カードデータ.x`);
+const readCards = async () => {
+    const {text, encoding} = await readText(CARD_DATA);
     const cards = new Map();
     for (const line of splitLines(text)) {
         const row = CARD_ROW.exec(line);
@@ -480,8 +480,8 @@ const readCards = async (exDir) => {
 };
 
 /** Id -> フルネーム. */
-const readFullNames = async (exDir) => {
-    const {text, encoding} = await readText(`${exDir}/9_カード情報.x`);
+const readFullNames = async () => {
+    const {text, encoding} = await readText(CARD_INFO);
     const fullNames = new Map();
     let current = null;
     for (const rawLine of splitLines(text)) {
@@ -635,8 +635,8 @@ const main = async () => {
 
     const dialogueNames = await loadDialogueNames();
     const {base, alias, overrides, refused, original} = await loadGlossary(dialogueNames);
-    const {cards, encoding: cardsEncoding} = await readCards(EX_DIR);
-    const {fullNames, encoding: infoEncoding} = await readFullNames(EX_DIR);
+    const {cards, encoding: cardsEncoding} = await readCards();
+    const {fullNames, encoding: infoEncoding} = await readFullNames();
     const {plates, encoding: plateEncoding} = await readNameplates();
 
     console.log(`カードデータ : ${cards.size} cards (${cardsEncoding})`);

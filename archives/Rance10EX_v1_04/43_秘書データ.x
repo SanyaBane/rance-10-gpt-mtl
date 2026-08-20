@@ -434,12 +434,12 @@ tree 秘書データ = {
 			"Now, march!",
 			"This way looks best.",
 			"Hmm... what to do\nin this situation.",
-			"I, Bares, still won't\nlose to the young.",
+			"I, Barres, still won't\nlose to the young.",
 			"I wonder what awaits next..."
 		},
 		挨拶 = (list) {
 			"Let's proceed, Lord Rance!",
-			"I, Bares, shall be your guide!"
+			"I, Barres, shall be your guide!"
 		},
 		クエストクリア = (list) {
 			"Splendid!\nAs expected of Lord Rance!",
@@ -491,7 +491,7 @@ tree 秘書データ = {
 			"Speaking with subordinates is also a mark of a good commander.\nWhat will you do?",
 			"Please choose one person.",
 			"条件＜バレス発生中＞　How about sharing a drink with me sometime?",
-			"条件＜スー発生中＞　Oh?\nThere's Sue over there...",
+			"条件＜スー発生中＞　Oh?\nThere's Sioux over there...",
 			"条件＜ハウレーン発生中＞　Hm, Hawl...\nwhat is he doing over there?",
 			"条件＜食券３枚＞　Oh, three tickets.\nThey should be used."
 		},
@@ -633,7 +633,7 @@ tree 秘書データ = {
 			"条件＜第５ターン＞　Fufu, you're already good\n friends with Zance-chan.",
 			"条件＜第６ターン＞　Rangy-chan joined us!\nThe adventure's going smoothly, ＜エール＞-chan.\nHmm, next is.........",
 			"条件＜第７ターン＞　Miracle-san is always so energetic.\nMix-chan joined too,\n let's go to Zeth next!",
-			"条件＜第８ターン＞　Fufu, you've gotten close with Sushi-nu-chan.\nNow, off to Helman!",
+			"条件＜第８ターン＞　Fufu, you've gotten close with Sushinu-chan.\nNow, off to Helman!",
 			"条件＜第９ターン＞　Finally, the last orb!\nHuh, a martial arts tournament?\nHope it's fine!",
 			"条件＜第１０ターン＞　You've gathered all allies and orbs.........",
 			"条件＜第１１ターン＞　Things got pretty bad...\ncheer up, ＜エール＞-chan!てね",
@@ -764,7 +764,7 @@ tree 秘書データ = {
 		},
 		挨拶 = (list) {
 			"I'll be your secretary, partner!\nLeave it to me!",
-			"Osada-kun's here!\nI'll secretary it up!",
+			"Nagata-kun's here!\nI'll secretary it up!",
 			"Heheh, yeah, I've gotta stick with my partner!"
 		},
 		クエストクリア = (list) {

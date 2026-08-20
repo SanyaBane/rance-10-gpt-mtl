@@ -1825,7 +1825,7 @@ tree 識別名情報 = {
 		キャライベント３ = (list) { "条件不成立" },
 	},
 	瀕死の子１ = {
-		英名 = "Millilicca",
+		英名 = "Miririkka",
 		キャライベント１ = (list) { "条件不成立" },
 		キャライベント２ = (list) { "条件不成立" },
 		キャライベント３ = (list) { "条件不成立" },
@@ -1879,7 +1879,7 @@ tree 識別名情報 = {
 		キャライベント３ = (list) { "条件不成立" },
 	},
 	バファムーン = {
-		英名 = "Baphamoon",
+		英名 = "Bafamoon",
 		キャライベント１ = (list) { "条件不成立" },
 		キャライベント２ = (list) { "条件不成立" },
 		キャライベント３ = (list) { "条件不成立" },
@@ -1945,7 +1945,7 @@ tree 識別名情報 = {
 		キャライベント３ = (list) { "条件不成立" },
 	},
 	リクチェル = {
-		英名 = "Richelle Von De Course",
+		英名 = "Richelle von do Kosusu",
 		キャライベント１ = (list) { "条件不成立" },
 		キャライベント２ = (list) { "条件不成立" },
 		キャライベント３ = (list) { "条件不成立" },
@@ -2012,7 +2012,7 @@ tree 識別名情報 = {
 		キャライベント３ = (list) { "条件不成立" },
 	},
 	ネプラカス = {
-		英名 = "Neplacas",
+		英名 = "Neplacus",
 		キャライベント１ = (list) { "条件不成立" },
 		キャライベント２ = (list) { "条件不成立" },
 		キャライベント３ = (list) { "条件不成立" },
@@ -3907,7 +3907,7 @@ tree 識別名情報 = {
 			英名 = "Egg of Strength",
 		},
 		"マエリータ隊" = {
-			英名 = "Maereeta Squad",
+			英名 = "Maelita Squad",
 		},
 		"全魔物大百科" = {
 			英名 = "Monster Encyclopedia",
@@ -4897,7 +4897,7 @@ tree 識別名情報 = {
 			英名 = "Heavy Club",
 		},
 		"バイロード" = {
-			英名 = "Byroad",
+			英名 = "By Road",
 		},
 		"リーザス鎧" = {
 			英名 = "Leazas Armor",
@@ -5128,7 +5128,7 @@ tree 識別名情報 = {
 			英名 = "Adult Mary",
 		},
 		"裸族王 バファムーン" = {
-			英名 = "Nudist King Baphamoon",
+			英名 = "Nudist King Bafamoon",
 		},
 		"エロヤック" = {
 			英名 = "Eroyack ALV",

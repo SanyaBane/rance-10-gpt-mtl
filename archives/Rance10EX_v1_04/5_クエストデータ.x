@@ -4376,7 +4376,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Greeting to Princess Kaori.",
+					説明 = "Greeting to Kouhime.",
 					物語 = "６０５／選択／香姫に会いに",
 				},
 				分岐前 = {
@@ -4423,7 +4423,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "深根が居る",
-					説明 = "Fukane is here.",
+					説明 = "Tone is here.",
 				},
 				分岐右 = {
 					！条件 = "深根が居る",
@@ -4457,7 +4457,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will search for Lord Soun.",
+					説明 = "I will search for Lord Souun.",
 				},
 			},
 		},
@@ -4468,7 +4468,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will search for Lord Soun.",
+					説明 = "I will search for Lord Souun.",
 				},
 			},
 		},
@@ -4479,7 +4479,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will search for Lord Soun.",
+					説明 = "I will search for Lord Souun.",
 				},
 			},
 		},
@@ -4490,7 +4490,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will search for Lord Soun.",
+					説明 = "I will search for Lord Souun.",
 				},
 			},
 		},
@@ -4501,11 +4501,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will search for Lord Soun.",
+					説明 = "I will search for Lord Souun.",
 				},
 				分岐左 = {
 					顔画像 = "ザンス",
-					説明 = "I will search for Lord Soun.",
+					説明 = "I will search for Lord Souun.",
 				},
 			},
 		},
@@ -4610,7 +4610,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Return to Soun's place.",
+					説明 = "Return to Souun's place.",
 				},
 			},
 		},
@@ -6083,7 +6083,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Chase Relikoff",
+					説明 = "Chase Lelikov",
 				},
 			},
 		},
@@ -6094,7 +6094,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Lost sight of Relikoff, which\nway did he go?",
+					説明 = "Lost sight of Lelikov, which\nway did he go?",
 				},
 			},
 		},
@@ -8776,7 +8776,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Childi's Lesson: High-Speed\nSwordsmanship",
+					説明 = "Tilde's Lesson: High-Speed\nSwordsmanship",
 				},
 			},
 		},
@@ -9066,7 +9066,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Departing to Kala Village",
+					説明 = "Departing to Kalar Village",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -9152,7 +9152,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Replenishing Kala girls",
+					説明 = "Replenishing Kalar girls",
 				},
 			},
 		},
@@ -9181,7 +9181,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Farewell, Pencil Cow!",
+					説明 = "Farewell, Pencilcow!",
 				},
 			},
 		},
@@ -9433,7 +9433,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Alright, Kurukuu, let's go\ntogether.",
+					説明 = "Alright, Crook, let's go\ntogether.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 				},
@@ -10781,7 +10781,7 @@ tree クエストデータ = {
 				},
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Sil, it's lunch time.",
+					説明 = "Sill, it's lunch time.",
 				},
 			},
 		},
@@ -11798,7 +11798,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "カロリア",
-					説明 = "Karo's poison? Understood.",
+					説明 = "Caloria's poison? Understood.",
 					背景 = "街道２",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -14381,7 +14381,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Defeat the demon army and\ngain favor with the Zeiss\nfolks.",
+					説明 = "Defeat the demon army and\ngain favor with the Zeth\nfolks.",
 				},
 			},
 		},
@@ -14520,7 +14520,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Departing for Hellman!",
+					説明 = "Departing for Helman!",
 					背景 = "ＪＡＰＡＮ街道",
 					地名 = "ＪＡＰＡＮ",
 					音楽 = "フィールド／ヘルマン",
@@ -14710,7 +14710,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Departing towards Hellman.",
+					説明 = "Departing towards Helman.",
 				},
 			},
 		},
@@ -15124,7 +15124,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Babola is coming into view;\nwe're quite close.",
+					説明 = "Babolat is coming into view;\nwe're quite close.",
 				},
 			},
 		},
@@ -15785,7 +15785,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Chase after Anacel.",
+					説明 = "Chase after Anasel.",
 				},
 			},
 		},
@@ -16074,7 +16074,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					！条件 = "謙信ルート",
-					説明 = "Meeting with Anacel.",
+					説明 = "Meeting with Anasel.",
 				},
 			},
 		},
@@ -16456,7 +16456,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Damn you, Kessellink!",
+					説明 = "Damn you, Kesselring!",
 				},
 			},
 		},
@@ -16754,7 +16754,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's search for Kessellink.",
+					説明 = "Let's search for Kesselring.",
 				},
 			},
 		},
@@ -16988,7 +16988,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "It's a bit reckless, but\nPeruere, you'll do.",
+					説明 = "It's a bit reckless, but\nPeruele, you'll do.",
 				},
 			},
 		},
@@ -16999,7 +16999,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hehehe, watch closely,\nKessellink.",
+					説明 = "Hehehe, watch closely,\nKesselring.",
 				},
 			},
 		},
@@ -18282,7 +18282,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "アーシーが居る",
-					説明 = "Archie is here, Lucy is here.",
+					説明 = "Arcy is here, Lucy is here.",
 				},
 			},
 		},
@@ -18445,7 +18445,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Weakness of Kebirus.",
+					説明 = "Weakness of Kayblis.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -18634,7 +18634,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "That's the saintess\nSeracloras... I'm\ndisappointed.",
+					説明 = "That's the saintess\nSerachrolas... I'm\ndisappointed.",
 				},
 			},
 		},
@@ -19014,7 +19014,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Head towards Lizas Castle!",
+					説明 = "Head towards Leazas Castle!",
 				},
 			},
 		},
@@ -19159,7 +19159,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's almost Lizas Castle.",
+					説明 = "It's almost Leazas Castle.",
 				},
 			},
 		},
@@ -19246,7 +19246,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Defeat Howzel (.violate).",
+					説明 = "Defeat Hawzel (.violate).",
 					物語 = "２１０／４１／ハウゼルに決めた",
 					フラグ = "ハウゼルルート＝１",
 					背景 = "街道１",
@@ -19373,7 +19373,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ハウレーン",
-					説明 = "Lord Bares's camp is this\nway.",
+					説明 = "Lord Barres's camp is this\nway.",
 				},
 			},
 		},
@@ -19397,7 +19397,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ハウレーン",
-					説明 = "About 5 kilometers left until\nwe reach Lord Bares's\ncamp.",
+					説明 = "About 5 kilometers left until\nwe reach Lord Barres's\ncamp.",
 				},
 			},
 		},
@@ -19820,7 +19820,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Chasing after Silky, heading\ntowards Lizas Castle.",
+					説明 = "Chasing after Silky, heading\ntowards Leazas Castle.",
 					地名 = "リーザス",
 					背景 = "リーザス平原",
 				},
@@ -19853,11 +19853,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ハウレーン",
-					説明 = "(No matter how strong Lizas\nCastle is, it can't stop the\ndemon lord...)",
+					説明 = "(No matter how strong Leazas\nCastle is, it can't stop the\ndemon lord...)",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "(So they've come to Lizas\nCastle... heh heh, just as\nplanned.)",
+					説明 = "(So they've come to Leazas\nCastle... heh heh, just as\nplanned.)",
 				},
 			},
 		},
@@ -20431,11 +20431,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Chase Hauser.",
+					説明 = "Chase Hawzel.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Chase Hauser.",
+					説明 = "Chase Hawzel.",
 				},
 			},
 		},
@@ -20464,7 +20464,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Spotted flying Hauser. There\nhe is, let's chase.",
+					説明 = "Spotted flying Hawzel. There\nhe is, let's chase.",
 				},
 			},
 		},
@@ -20479,7 +20479,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サチコ",
-					説明 = "Hauser-san- I've got Dragon\nPatch here!",
+					説明 = "Hawzel-san- I've got Dragon\nPatch here!",
 				},
 			},
 		},
@@ -20503,7 +20503,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hauser, there, th-th-there's\na book!",
+					説明 = "Hawzel, there, th-th-there's\na book!",
 				},
 			},
 		},
@@ -20611,7 +20611,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's search for Does-ski.",
+					説明 = "Let's search for Doessky.",
 				},
 			},
 		},
@@ -20643,7 +20643,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Does-ski, huh... That's\nsomeone I don't know.",
+					説明 = "Doessky, huh... That's\nsomeone I don't know.",
 				},
 			},
 		},
@@ -20654,7 +20654,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's search for Does-ski.\nFind him and make him write\na book.",
+					説明 = "Let's search for Doessky.\nFind him and make him write\na book.",
 				},
 			},
 		},
@@ -20691,7 +20691,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's search for Does-ski.\nFind him and make him write\na book.",
+					説明 = "Let's search for Doessky.\nFind him and make him write\na book.",
 				},
 			},
 		},
@@ -20789,7 +20789,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha, Got Hauser!",
+					説明 = "Gahahahaha, Got Hawzel!",
 					地名 = "リーザス",
 					背景 = "リーザス平原",
 				},
@@ -22641,7 +22641,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Layla... Let's return to\nLeesas Castle.",
+					説明 = "Leila... Let's return to\nLeazas Castle.",
 					物語 = "２１２／リーザス城に戻る",
 					背景 = "山道",
 					地名 = "Ｌ・Ｃ・Ｍ連山",
@@ -22670,7 +22670,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "チルディ調教確認１",
-					説明 = "Childi owned, same event A\ncompleted.",
+					説明 = "Tilde owned, same event A\ncompleted.",
 				},
 				分岐右 = {
 					説明 = "---",
@@ -22698,7 +22698,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "チルディ調教確認２",
-					説明 = "Childi trained, holding\nTraining Bible.",
+					説明 = "Tilde trained, holding\nTraining Bible.",
 				},
 				分岐右 = {
 					説明 = "---",
@@ -22770,7 +22770,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "チルディ",
-					説明 = "I'll head quickly to Yoshif's\nmansion.",
+					説明 = "I'll head quickly to Joseph's\nmansion.",
 				},
 			},
 		},
@@ -22780,7 +22780,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "チルディ調教確認３",
-					説明 = "Childi perfectly trained.",
+					説明 = "Tilde perfectly trained.",
 				},
 				分岐右 = {
 					！条件 = "チルディ調教確認３",
@@ -23771,7 +23771,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Retrieve Biscetta-san.",
+					説明 = "Retrieve Biscuitta-san.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -25072,7 +25072,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "シャリエラルート",
-					説明 = "Embracing Shaliera.",
+					説明 = "Embracing Shariela.",
 				},
 				分岐右 = {
 					！条件 = "シャリエラルート",
@@ -26103,7 +26103,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "シャリエラルート",
-					説明 = "Embracing Shaliera.",
+					説明 = "Embracing Shariela.",
 				},
 				分岐右 = {
 					！条件 = "シャリエラルート",
@@ -27021,7 +27021,7 @@ tree クエストデータ = {
 					音楽 = "フィールド／自由都市",
 				},
 				分岐右 = {
-					説明 = "It's Diphtheria - I'm\ninterested in my exclusive\nship.",
+					説明 = "It's Diphteria - I'm\ninterested in my exclusive\nship.",
 					物語 = "２４０／２２／ジフテリアへ",
 					フラグ = "志津香の追加",
 					背景 = "街道１",
@@ -27945,7 +27945,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ビヨンホウ",
-					説明 = "Call Biyonhou (Jifteria City\nMayor).",
+					説明 = "Call Biyonhou (Diphteria City\nMayor).",
 				},
 			},
 		},
@@ -29418,7 +29418,7 @@ tree クエストデータ = {
 				},
 				分岐左 = {
 					条件 = "カチューシャ展開２とセラクロ大人",
-					説明 = "There is an adult Seracloras\ninvestigating Katiusha.",
+					説明 = "There is an adult Serachrolas\ninvestigating Katyusha.",
 				},
 				分岐右 = {
 					条件 = "セシルルート１",
@@ -29451,7 +29451,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hehe, with this, Katiusha is\nmine too.",
+					説明 = "Hehe, with this, Katyusha is\nmine too.",
 				},
 			},
 		},
@@ -29463,7 +29463,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahaha, with this, Katiusha is\nmine too.",
+					説明 = "Gahaha, with this, Katyusha is\nmine too.",
 				},
 			},
 		},
@@ -30322,7 +30322,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Here, Sheel is\ndrowning-gahaha!",
+					説明 = "Here, Sill is\ndrowning-gahaha!",
 				},
 			},
 		},
@@ -31166,7 +31166,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "Pisaro, wait up! Wait up!",
+					説明 = "Pizarro, wait up! Wait up!",
 				},
 			},
 		},
@@ -31267,7 +31267,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "フェリス",
-					説明 = "(Nepracas...)",
+					説明 = "(Neplacus...)",
 					物語 = "２４４／選択／フェリスとネプラカス",
 					背景 = "街道１",
 					地名 = "自由都市",
@@ -31731,7 +31731,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "First, sort out the Lizas\ndirection.",
+					説明 = "First, sort out the Leazas\ndirection.",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 					音楽 = "フィールド／支援",
@@ -33085,14 +33085,14 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Lizas, Free Cityr,\nconscription here.",
+					説明 = "Leazas, Free City,\nconscription here.",
 					背景 = "その他",
 					地名 = "−−−",
 					音楽 = "フィールド／村",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Hellman, Zesr, conscription\nhere.",
+					説明 = "Helman, Zeth, conscription\nhere.",
 					背景 = "その他",
 					地名 = "−−−",
 					音楽 = "フィールド／村",
@@ -33105,7 +33105,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Lizas regionr,\nconducting conscription!",
+					説明 = "Heading to the Leazas region,\nconducting conscription!",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 				},
@@ -33123,7 +33123,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Lizas regionr,\nconducting conscription!",
+					説明 = "Heading to the Leazas region,\nconducting conscription!",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 				},
@@ -33141,13 +33141,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Hellman\nregionr, thoroughly\nconscripting.",
+					説明 = "Heading to the Helman\nregion, thoroughly\nconscripting.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Zes regionr,\nthoroughly conscripting.",
+					説明 = "Heading to the Zeth region,\nthoroughly conscripting.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 				},
@@ -33159,13 +33159,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Hellman\nregionr, distributing red\nnotices.",
+					説明 = "Heading to the Helman\nregion, distributing red\nnotices.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Zes regionr,\ndistributing red notices.",
+					説明 = "Heading to the Zeth region,\ndistributing red notices.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 				},
@@ -34742,11 +34742,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Help Kentaro get up.",
+					説明 = "Help Kentarou get up.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Kill Kentaro.",
+					説明 = "Kill Kentarou.",
 					フラグ = "達成／Ｂ健太郎＝１",
 				},
 			},

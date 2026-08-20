@@ -22,7 +22,7 @@ import * as os from "os";
 import * as path from "path";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
-import {checkNameplates} from "../modules/Nameplates.js";
+import {checkCardNames, checkNameplates} from "../modules/Nameplates.js";
 import {SUMMARY_DATA, renderSummaryTable} from "../modules/SummaryLines.js";
 import {TROPHY_DATA, renderTrophyTable} from "../modules/TrophyNames.js";
 
@@ -64,6 +64,17 @@ run(async () => {
     const plates = await checkNameplates();
     console.log(`Checked ${plates.report}`);
     for (const complaint of plates.misnamed) {
+        console.warn(`  ${complaint}`);
+    }
+
+    /*
+     * カード情報's フルネーム is the same kind of hand-written English, read by
+     * the card detail panel and -- for a character with no portrait -- by the
+     * combat log as well.
+     */
+    const cardNames = await checkCardNames();
+    console.log(`Checked ${cardNames.report}`);
+    for (const complaint of cardNames.misnamed) {
         console.warn(`  ${complaint}`);
     }
 

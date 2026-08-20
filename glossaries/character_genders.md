@@ -144,7 +144,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | **Galtia** | Friendly, food-loving dark lord — **MALE** |
 | **Warg** | Harsh name — **FEMALE** |
 | **Mi Lordring** | Bishop of AL Church — **MALE** |
-| **Chochoman Public** | Zeth Four Lord — **MALE** |
+| **Chochoman Publy** | Zeth Four Lord — **MALE** |
 | **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay" — fix to "Lord LeMay". |
 | **Kola** (Cola) | Male, but a big reveal at line ~21996 — use "Kola" or "the angel" before the reveal to avoid exposing gender. After reveal: he/him. |
 | **Yutin Fulz** | Copandon's secretary — **Hermaphrodite** (wiki: "Sex Hermaphrodite"). Use they/them or avoid gendered pronouns. |
@@ -235,7 +235,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Chaos | カオス | Male | R01 RX |
 | Chisa Gode | チサ・ゴード | Female | RQ |
 | Chizuko Yamada / Yamada Chizuko | 山田 千鶴子 | Female | RVI RX |
-| Chochoman Public | チョチョマン・パブリック | Male | RX |
+| Chochoman Publy | チョチョマン・パブリ | Male | RX |
 | Colin Coccolin | コリン・コッコリン | Female | RQ |
 | Convert Tax | コンバート・タックス | Male | RX |
 | Copandon Dott | コパンドン・ドット | Female | RIV RX |
@@ -271,7 +271,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Freak Paraffin | フリーク・パラフィン | Male | RQ |
 | Freoncoise | フロンソワーズ | Female | RIII |
 | Freya Idun | フレイア・イズン | Female | RX |
-| Frostvine | フロストバイン | Female | RX |
+| Frostbain | フロストバイン | Female | RX |
 | Full Kalar | フル・カラー | Female | RX |
 | Galban | ガルバン | Female | RX |
 | Galtia | ガルティア | Male | RVI RX |
@@ -392,7 +392,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Mill Yorks / Milli Yorks | ミル・ヨークス | Female | RIII RX |
 | Millie Lincle | ミリー・リンクル | Female | RQ |
 | Mineva Margaret | ミネバ・マーガレット | Female | RIX RX |
-| Miracle Tou / Miracle Tor | ミラクル・トー | Female | RX |
+| Miracle Tor | ミラクル・トー | Female | RX |
 | Mix | ミックス | Female | RX |
 | Modern Kalar | モダン・カラー | Female | RX |
 | Moganda | モガンダ | Male | RQ |
