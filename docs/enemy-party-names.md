@@ -121,5 +121,13 @@ rendered, and the build says so when a name the Japanese carries is spelled some
 other way in the English. That check is why `アスタコプロト` reads `Asutakoputo`
 here and not `ASTACO Proto`: the table says so, and the table is where a name is
 decided. The terms follow the dialogue rather than a fresh guess —
-`node scripts/lookup_term.js 中隊 大隊 闘将` is how they were settled: a Company,
-a Battalion, a Fighting General.
+`node scripts/lookup_term.js 中隊 大隊 群生` is how they were settled: a Company,
+a Battalion, a colony.
+
+`闘将` is where that stops working. The dialogue calls it a fighting general in
+56 lines and a Fighting God in one, which is the word for `闘神` — it cannot
+hold the two apart, so following it here would put a Holy Corpse Fighting
+General over the HP bar of the boss the synopsis calls a Holy Corpse Tousho, and
+a third General beside the Monster Generals and the Great General. It is a
+Tousho on both, which is what `glossaries/summary_terms.tsv` and
+`glossaries/card_name_glossary.tsv` already said.

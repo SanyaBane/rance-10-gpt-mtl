@@ -3376,10 +3376,10 @@ tree 識別名情報 = {
 			英名 = "Tulip Corps",
 		},
 		"チューリップ２号" = {
-			英名 = "Tulip Mk.2",
+			英名 = "Tulip No.2",
 		},
 		"チューリップ３号Ｈ" = {
-			英名 = "Tulip Mk.3 H",
+			英名 = "Tulip No.3 H",
 		},
 		"アスカのパンツ" = {
 			英名 = "Asuka's Panties",
