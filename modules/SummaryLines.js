@@ -39,7 +39,7 @@ import {readFileSync} from "fs";
 import * as path from "path";
 import {ROOT} from "./Env.js";
 import {gameTextWidth} from "./GameFont.js";
-import {SHARED_NAMES, createNameChecker, mentions} from "./NameNormalizer.js";
+import {SHARED_NAMES, createNameChecker, mentions, readSharedNameTable} from "./NameNormalizer.js";
 
 /** The game's own table. Written into by the build, never by hand. */
 export const SUMMARY_DATA = path.join(ROOT, "archives", "Rance10EX_v1_04", "37_あらすじデータ.x");
@@ -452,6 +452,59 @@ export const readSummaryTerms = async () => {
 export const createTermFinder = async () => {
     const terms = await readSummaryTerms();
     return (japanese) => terms.filter(term => mentions(japanese, term.japanese));
+};
+
+/**
+ * The terms a caption uses that no longer term it uses already covers.
+ *
+ * createTermFinder hands back 闘神 for a caption that says 闘神都市 and 異界 for
+ * one that says 異界ゲート, which is what a prompt wants -- it should read the
+ * whole phrase and the part of it. A check does not: the part is the whole
+ * phrase's business, and complaining that "Fighting God City" fails to say
+ * "War God" is the kind of noise that stops a warning being read.
+ */
+const outermostTerms = (found) => found.filter(term => !found.some(other => other !== term
+    && other.japanese.length > term.japanese.length && other.japanese.includes(term.japanese)));
+
+/**
+ * Whether an English caption says a term, in either of the forms the table
+ * gives it.
+ *
+ * A leading "the" is dropped before comparing, so "the Free Cities Alliance"
+ * is found in "M-Land, the Free Cities Alliance HQ" and in "a Free Cities
+ * Alliance envoy" alike. The article is the caption's business.
+ */
+const saysTerm = (english, term) => [term.english, term.short].filter(Boolean)
+    .some(form => english.toLowerCase().includes(form.toLowerCase().replace(/^the /, "")));
+
+/**
+ * The terms read as a check rather than as a prompt, the way createNameChecker
+ * reads the names: where the Japanese says one of the words the screens have
+ * settled on and the English does not, say so and let somebody decide.
+ *
+ * This is the half that was missing. 魔王 has been "Demon King" in
+ * glossaries/summary_terms.tsv since it was written, and ０８／魔王の噂 still went out
+ * saying "The Monster Army hunts the King" -- because the term reaches a
+ * translator through scripts/summary_chunk.js as a suggestion and nothing ever
+ * asked afterwards whether it was taken.
+ *
+ * Noisy in the same way and for the same reason as the name check: a caption
+ * fits twenty full-width characters and a panel is often full, so "the enemy"
+ * for 魔軍 and "the Gate" for 異界ゲート are the shortening the panel forced
+ * rather than a disagreement. What it is for is the other kind -- a *different*
+ * word for the same thing -- and there is no telling the two apart from here.
+ *
+ * The nine terms glossaries/mistranslated_names.json also carries are left to the
+ * name check, which already reports them and reports them identically.
+ */
+export const createTermChecker = async () => {
+    const findTerms = await createTermFinder();
+    const named = new Set((await readSharedNameTable()).map(record => record.shortNameJpn));
+
+    return (japanese, english) => outermostTerms(findTerms(japanese))
+        .filter(term => !named.has(term.japanese) && !saysTerm(english, term))
+        .map(term => `${japanese} says ${term.japanese}, which the screens call`
+            + ` "${term.english}" -- ${JSON.stringify(english)}`);
 };
 
 const HEADER = [

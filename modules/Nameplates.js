@@ -54,6 +54,13 @@ export const CARD_DATA = path.join(EX_DIR, "8_カードデータ.x");
 /** One node per card Id, holding the フルネーム the detail panel prints. */
 export const CARD_INFO = path.join(EX_DIR, "9_カード情報.x");
 
+/**
+ * The short names the card plate prints, keyed by the Japanese. Hand-written,
+ * and the file the header above means when it says the plate can disagree with
+ * 立ち絵名札マッピング情報.
+ */
+export const CARD_GLOSSARY = path.join(ROOT, "glossaries", "card_name_glossary.tsv");
+
 /** { "<識別名>／<pose>", "<english>" }, and the odd row with no pose at all. */
 const PLATE_ROW = /^\s*\{\s*"((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"/;
 

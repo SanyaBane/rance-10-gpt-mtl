@@ -31,10 +31,9 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {width} from "../modules/EastAsianWidth.js";
 import {ROOT} from "../modules/Env.js";
-import {CARD_DATA, CARD_INFO, NAMEPLATES} from "../modules/Nameplates.js";
+import {CARD_DATA, CARD_GLOSSARY, CARD_INFO, NAMEPLATES} from "../modules/Nameplates.js";
 
 const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
-const GLOSSARY_PATH = path.join(ROOT, "glossaries", "card_name_glossary.tsv");
 const DIALOGUE_NAMES_PATH = path.join(ROOT, "glossaries", "mistranslated_names.json");
 
 /**
@@ -390,7 +389,7 @@ const loadDialogueNames = async () => {
  * from BOTH sides so 子供志津香 ("Young Shizuka") also answers to 志津香.
  */
 const loadGlossary = async (dialogueNames) => {
-    const {text} = await readText(GLOSSARY_PATH);
+    const {text} = await readText(CARD_GLOSSARY);
     const base = new Map();
     const alias = new Map();
     const overrides = [];
