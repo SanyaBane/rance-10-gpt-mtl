@@ -262,7 +262,15 @@ s[3355] = "Advance"
 
 s[3636] = "View"
 
-s[12905] = "x"
+; The counter word 難易度調整 puts inside the (25匹) it appends to a group's name.
+; It is Ｔ敵本体生成's ◆匹, and this slot is the 匹 that function starts every enemy
+; with. It read "x" here from back when party names were translated as strings and
+; half a name in English beside a Japanese counter was the thing worth fixing.
+; build/enemy_party_names.jaf writes the count itself now -- ×25 -- and it finds
+; where the name ends by that counter word, so an English counter here means it
+; cannot find the name at all and the whole plate stays Japanese.
+; docs/enemy-party-names.md has it.
+;s[12905] = "匹"
 
 ; SkillEffectProcessAbsorption@Evaluate
 s[3947] = "<Enemy> was absorbed！"

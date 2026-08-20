@@ -73,15 +73,28 @@ and appends:
 - `+` where it strengthened an enemy the party had outgrown, `v` where it cut one
   down. Either can land twice, so `ジャハルッカス+` and `魔物兵vv` are real.
 - `(25匹)` when `▲数` is more than one — a bracket, the number, and the counter
-  word for what is being counted: `匹` for beasts, `名` for people, `体` for
-  things.
+  word for what is being counted. The word is the global `◆匹`: `Ｔ敵本体生成`
+  starts every enemy at `匹` and individual fights overwrite it, so all six of
+  `匹 名 体 個 本 魂` reach the plate. `COUNTER_WORDS` has to carry every one of
+  them — a count whose word is missing is not recognised, and the name still
+  carrying `(5個)` matches nothing in the table.
 
 The generated `.jaf` takes those off before the lookup and puts them back after
 it. The count is the exception: `Monster Soldiers (25匹)` is worse than either
 language alone and English has no counter word to put there, so it comes out as
 `Monster Soldiers ×25`.
 
-Nine of the game's own names end in a bracket of their own —
+Which is why the counter word itself stays Japanese. `s[12905]` — the `匹`
+`Ｔ敵本体生成` starts every enemy from — was translated to `x` in
+`patches/system_cherry_picks.v1.04.ain.txt` back when party names were strings,
+and `Weak Monsters(25x)` was better than half a name in each language. Once the
+names moved here the suffix stopped being text and became the marker that says
+where the name ends: `バルキリーと僕達(80x)` ends in no counter word this file
+knows, so nothing came off, the lookup missed, and `super()` drew the Japanese.
+The slot is pushed in exactly one place — that one assignment — so it is left
+alone and the note in the cherry picks says why.
+
+Eleven of the game's own names end in a bracket of their own —
 `魔人ケイブリス(猛撃)` is five different fights, one per battle preset — which is
 why a count is recognised by its counter word rather than by the bracket.
 

@@ -51,14 +51,23 @@ export const ENEMY_PARTY_JAF = path.join(BUILD, "enemy_party_names.jaf");
  * outclassed the party -- and either can land twice, so ジャハルッカス+ and
  * 魔物兵vv are names the player really sees. Then, if the enemy is a group, ▲数
  * is appended as (25匹): a bracket, the number, and the counter word for
- * whatever is being counted -- 匹 for beasts, 名 for people, 体 for things.
+ * whatever is being counted.
+ *
+ * That word is the global ◆匹. Ｔ敵本体生成 starts every enemy at 匹 and individual
+ * fights overwrite it -- 体 for things, 名 for people, 個 for objects, 本 for the
+ * two radish colonies, 魂 for the two of ghosts. All six belong in the list: a
+ * count whose counter word is not in it is not taken off, and a name still
+ * carrying (5個) matches nothing in the table, so the plate keeps its Japanese.
  *
  * The counter word is dropped rather than translated. "Monster Soldiers (25匹)"
  * is the one thing worse than either language on its own, and English has no
- * counter to put there; ×25 is what the game itself writes elsewhere.
+ * counter to put there; ×25 is what the game itself writes elsewhere. Which is
+ * also why s[12905] -- the 匹 Ｔ敵本体生成 starts from -- is left in Japanese in
+ * patches/system_cherry_picks.v1.04.ain.txt: an English counter word there hides
+ * the end of the name from the lookup that has to find it.
  */
 export const REBALANCE_MARKS = ["+", "v"];
-export const COUNTER_WORDS = ["匹", "名", "体"];
+export const COUNTER_WORDS = ["匹", "名", "体", "個", "本", "魂"];
 
 /**
  * How wide a name can go before it is worth saying something.
