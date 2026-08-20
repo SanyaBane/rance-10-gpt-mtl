@@ -2990,5 +2990,19 @@
         "knownMistranslations": [
             "Yamikakkou"
         ]
+    },
+    {
+        "shortNameEng": "Tousho",
+        "shortNameJpn": "闘将",
+        "knownMistranslations": [
+            "Fighting Generals",
+            "fighting generals",
+            "Fighting General",
+            "fighting general",
+            "Battle Generals",
+            "battle generals",
+            "Battle General",
+            "battle general"
+        ]
     }
 ]
