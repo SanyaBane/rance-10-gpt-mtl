@@ -1927,10 +1927,19 @@
         ]
     },
     {
+        "shortNameEng": "Queen Lia",
+        "shortNameJpn": "リア",
+        "knownMistranslations": [
+            "Queen Lea",
+            "Queen Rea"
+        ]
+    },
+    {
         "shortNameEng": "Lia",
         "shortNameJpn": "リア",
         "knownMistranslations": [
             "Ria",
+            "Rea",
             "Leah"
         ]
     },
