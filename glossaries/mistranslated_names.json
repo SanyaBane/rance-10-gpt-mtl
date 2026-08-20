@@ -2930,5 +2930,58 @@
             "Megaras",
             "Megarasu"
         ]
+    },
+    {
+        "shortNameEng": "Kurusu Miki",
+        "shortNameJpn": "来水美樹",
+        "knownMistranslations": [
+            "Mizuki Kuruizumi",
+            "Mizuki Kurusu",
+            "Mizuki Kurumi",
+            "Mizusawa Miki",
+            "Mizuki Kuru",
+            "Miki Kurusu",
+            "Mizu Miki"
+        ]
+    },
+    {
+        "shortNameEng": "Ogawa Kentarou",
+        "shortNameJpn": "小川健太郎",
+        "knownMistranslations": [
+            "Kentarou Ogawa",
+            "Kentaro Ogawa"
+        ]
+    },
+    {
+        "shortNameEng": "Uspira Shintou",
+        "shortNameJpn": "ウスピラ・真冬",
+        "knownMistranslations": [
+            "Uspira Mafuyu",
+            "Uspira Mayuki"
+        ]
+    },
+    {
+        "shortNameEng": "Dark Heron",
+        "shortNameJpn": "闇鷺",
+        "knownMistranslations": [
+            "Yamitsuru",
+            "Yamizuru",
+            "Yamigami",
+            "Yamisagi"
+        ]
+    },
+    {
+        "shortNameEng": "Kill Kill Takora",
+        "shortNameJpn": "キレキレタコラ",
+        "knownMistranslations": [
+            "Kire Kire Takora"
+        ]
+    },
+    {
+        "shortNameEng": "Myiran",
+        "shortNameJpn": "ミイラン",
+        "knownMistranslations": [
+            "Miiran"
+        ]
     }
 ]
