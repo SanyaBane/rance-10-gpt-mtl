@@ -4500,12 +4500,12 @@ tree クエストデータ = {
 			物語 = "６０５／乱義とザンス",
 			選択分岐 = {
 				分岐前 = {
-					顔画像 = "乱義",
-					説明 = "I will search for Lord Souun.",
+					顔画像 = "長田君",
+					説明 = "Come on, let's keep going.",
 				},
 				分岐左 = {
 					顔画像 = "ザンス",
-					説明 = "I will search for Lord Souun.",
+					説明 = "Man, what a gloomy mood.",
 				},
 			},
 		},
