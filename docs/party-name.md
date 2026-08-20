@@ -116,7 +116,7 @@ repairing, so it cannot see a name sitting one record away. Thirteen of those we
 edited in `text_languages/en_grok/gpt_outputs/` directly, along with
 `まじんとーばつたい`, which is the same word in kana and no kanji key can match. Two
 are left as they are: `ラング・バウから出発したランス達、` / `魔人討伐隊が昼間、城に到着した。`
-reads "Rance and the others who departed from Rang Bau" / "arrived at the castle
+reads "Rance and the others who departed from Lang Bau" / "arrived at the castle
 during the day", which does not name the squad and does not contradict it either.
 
 `ランス部隊` is deliberately **not** in the table. Its six lines are description
