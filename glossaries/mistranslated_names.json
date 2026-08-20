@@ -462,6 +462,54 @@
         ]
     },
     {
+        "shortNameEng": "Fiend Extermination Squad",
+        "shortNameJpn": "魔人討伐隊",
+        "knownMistranslations": [
+            "Majin Extermination Squad",
+            "Majin extermination squad",
+            "Majin Extermination Team",
+            "Demon Lord Extermination Squad",
+            "Demon Lord subjugation squad",
+            "Demon Lord subjugation unit",
+            "Demon Lord subjugation party",
+            "Demon Extermination Squad",
+            "Demon extermination team",
+            "Demon extermination force",
+            "demon extermination squad",
+            "demon extermination unit",
+            "demon extermination force",
+            "demon extermination team",
+            "demon extermination party",
+            "demon subjugation squad",
+            "demon hunting squad",
+            "demon-slaying unit",
+            "Monster Extermination Squad",
+            "Magic Monster Slaying Team",
+            "Monster Slaying Team",
+            "warlock extermination squads",
+            "warlock extermination squad",
+            "Fiend Hunting Squad",
+            "Fiend hunting squad",
+            "Fiend Slayers",
+            "Fiend slayers",
+            "fiend slayers"
+        ]
+    },
+    {
+        "shortNameEng": "Demon King Extermination Squad",
+        "shortNameJpn": "魔王討伐隊",
+        "knownMistranslations": [
+            "Demon King Subjugation Squad",
+            "Demon King subjugation squad",
+            "Demon King’s extermination squad",
+            "Demon King's extermination squad",
+            "Demon Lord Subjugation Force",
+            "Demon Lord subjugation squad",
+            "Demon King hunters",
+            "Demon King Hunters"
+        ]
+    },
+    {
         "shortNameEng": "Fiend",
         "shortNameJpn": "魔人",
         "knownMistranslations": [

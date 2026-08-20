@@ -408,7 +408,27 @@ s[6368] = "Monster Soldiers"
 s[11309] = "Magical Creature"
 ;s[11304] = "Fiend"
 
-s[4008] = "Fiend Slayers"
+; The name over the player's own HP bar, and the three names it becomes.
+;
+; Party@Name::get switches on TadaFlagFunc::Get(2) and returns one of these four
+; and nothing else: ランス部隊 until the event 反撃作戦開始 names the party,
+; 魔人討伐隊 through the rest of the first part, then 魔王討伐隊 and 統合部隊 as
+; Ｔ初期化２ and Ｔ初期化３ move the story on. The Japanese keeps 隊 on all four and
+; swaps one word in the middle, so the English does the same: Squad on all four,
+; and only the thing being hunted changes.
+;
+; Strings rather than an override of Party@Name::get, unlike the enemy half of the
+; same plate. Nothing compares any of the four -- every reader is display, and
+; s[4008] is drawn a second time somewhere Party@Name::get cannot reach: Ｔ武将計算
+; pushes it straight into ▲Ａ, which becomes an admiral's positionName and the Title
+; of AdmiralView, beside the Leazas and Helman armies further down this file. An
+; override would translate the plate, leave the war map Japanese, and still need the
+; string written here -- twice, which is the one thing alice-tools will not tell you
+; about. docs/party-name.md has the whole of it.
+s[4007] = "Rance Squad"
+s[4008] = "Fiend Extermination Squad"
+s[4009] = "Demon King Extermination Squad"
+s[4010] = "Combined Squad"
 
 ; SceneBattle@ShowMiss
 s[3281] = "ＭＩＳＳ (missed)"
@@ -640,7 +660,7 @@ s[14922] = "The famed Maginot Line was breached and even the capital fell.\r"
 s[14923] = "Defeats continue across the land, total chaos Reigns.\r"
 s[14924] = "The holy land of the AL Church, Kawanakajima, fell to demon invasion.\r"
 s[14925] = "A demon army forward base was discovered in the Kinani Desert.\r"
-s[14926] = "The Fiend Slayers occupied it.\r"
+s[14926] = "The Fiend Extermination Squad occupied it.\r"
 s[14927] = "The teleportation device was destroyed - demon Reinforcements stopped.\r"
 s[14928] = "The human stronghold CITY was struck by a massive demon assault.\r"
 s[14929] = "CITY and Rance Castle were occupied.\r"
@@ -766,7 +786,7 @@ s[14882] = "Robot Corps"
 s[14884] = "Lightning Attackers"
 
 ; Title
-s[10623] = "World Leader, Fiend Slayers Captain"
+s[10623] = "World Leader, Fiend Extermination Squad Captain"
 s[10624] = "Adventurer"
 s[10625] = "Rance’s Slave"
 s[10627] = "Demon Sword"
@@ -1012,7 +1032,7 @@ s[10965] = "8th Demon Lord"
 s[10967] = "Class 1 Demon"
 s[10970] = "Class 1 Demon in Human Form"
 s[10972] = "Wife of Dark Rance"
-s[10975] = "Demon Lord Subjugation Defender General"
+s[10975] = "Demon King Extermination Squad Defender　General"
 s[10977] = "Rance Faction Demon"
 s[10979] = "Head Maid of Amazing Castle"
 s[10981] = "JP Hojo Clan Retainer"

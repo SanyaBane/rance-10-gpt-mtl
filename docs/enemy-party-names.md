@@ -3,7 +3,8 @@
 Every fight puts a plate at each end of the screen: `ランス部隊` over your own HP
 bar, and over the enemy's whatever the enemy is called — `ジャハルッカス`,
 `魔物兵(25匹)`, `魔人ケイブリス(猛撃)`. The enemy half is what this is about. The
-party half is `Party@Name::get`, four strings, and it is not translated here.
+party half is `Party@Name::get`, four strings translated where they sit rather
+than through an override, and it is [party-name.md](party-name.md).
 
 ```
 npm run regenerate-enemy-party-names   # only after the .ain changes
