@@ -1,0 +1,46 @@
+/*
+ * English names for the achievements on the 実績 screen.
+ *
+ * A trophy's Id is the string the screen draws -- TrophyPage@InitButtons puts it
+ * on the row button and SceneTrophyDetail writes it into the Name label of the
+ * panel a new one is announced with. It is also the key the ex-tree defines the
+ * trophy under, the string Ｐ実績確認 and Ｐ実績ＯＮ are called with from some two
+ * hundred places in the script, and the value CompletedTrophy@Add hands to
+ * CollectionSaveData::Save. Translating it in the table would read every earned
+ * trophy in every existing save back as unearned, and take the clear points and
+ * the stat bonuses with it.
+ *
+ * So the Id keeps its Japanese and the English sits beside it under 英名, which
+ * scripts/ex.js writes in from glossaries/trophy_name_glossary.tsv. This reads it
+ * back at the one place both screens go through.
+ *
+ * See docs/trophy-names.md; patches/card_names.jaf is the same shape for a card Id.
+ */
+
+/*
+ * Every label in the game is set through ActivityLabel@Text::set -- 88 call
+ * sites, all of them view construction or a SetParam, none in a per-frame loop
+ * -- and both places that draw a trophy name arrive here: the row button by way
+ * of TextButton@SetText, the panel by way of Activity@GetLabel("Name"). One
+ * override therefore covers both, where patching either display function would
+ * mean reimplementing it.
+ *
+ * The prefix test is what keeps the other 86 sites from paying for it: all 109
+ * Ids begin with one of these three words. A label that passes the test and is
+ * not a trophy simply does not resolve and comes back unchanged, because the raw
+ * value is the EX_String default -- so the worst case here is the Japanese the
+ * screen drew before this existed, never a blank label, and this file can be
+ * built and tested without the ex-table it reads.
+ */
+string TrophyEnglishName(string value)
+{
+	if (!value.StartsWith("クリア") && !value.StartsWith("達成") && !value.StartsWith("集結")) {
+		return value;
+	}
+	return EX_String("実績情報." + value + ".英名", value, 0);
+}
+
+override void ActivityLabel@Text::set(string value)
+{
+	super(TrophyEnglishName(value));
+}

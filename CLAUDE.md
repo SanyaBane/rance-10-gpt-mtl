@@ -24,7 +24,7 @@ these is edited by hand:
 
 | Folder | Holds |
 |---|---|
-| `glossaries/` | the English, keyed by the Japanese — the tables below, the two the enemy panel and the synopsis screen read, and the words that screen settled on |
+| `glossaries/` | the English, keyed by the Japanese — the tables below, the ones the enemy panel, the synopsis screen and the achievements screen read, and the words the synopsis settled on |
 | `patches/` | what alice-tools is handed directly by every build: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `features/` | one folder per optional patch: the files that change what the game *does*, and the `feature.js` naming them |
 | `text_languages/` | one folder per text the game can be built with — the two translations, and the Japanese it shipped with |

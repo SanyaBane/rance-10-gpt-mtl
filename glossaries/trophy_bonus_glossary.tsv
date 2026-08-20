@@ -1,0 +1,34 @@
+# The bonus a trophy grants, as the 実績 screen prints it -- the ★ or ● tail on
+# the right of every row. Hand-written; this is the file to edit.
+#
+# Columns: the Japanese <TAB> the English.
+#
+# The Japanese is the tail of a trophy Id in archives/Rance10EX_v1_04/40_実績情報.x,
+# marker and all, exactly as it appears there. Thirteen of them cover the
+# fifty-seven rows that have one, which is why they live here rather than being
+# written out per row in glossaries/trophy_name_glossary.tsv.
+#
+# NOT the ボーナス column of that table. That one looks like the same words and
+# is not text at all: CompletedTrophy@CalcStatus and ClearPoint::get run
+# String.Contains over it for ＣＰ, 物理倍率, 魔法倍率, 異常レジスト,
+# 自動戦闘倍率 and 割り込み発動, and every achievement bonus in the game is
+# decided by that. Translating it silently switches them all off. It stays
+# Japanese; this is the part that is only ever drawn.
+#
+# The tail column is what is left of a row after the name: ten full-width
+# characters, which is what the widest Japanese tail uses. modules/TrophyNames.js
+# measures, and docs/trophy-names.md has the layout.
+
+★ＣＰ＋１	★CP+1
+★２部解放	★Part 2 Unlock
+★継続プレイ解放	★Continue Play
+★レア確率ＵＰ	★Rare Rate Up
+★物理倍率＋１	★Physical +1
+★魔法倍率＋１	★Magic +1
+★異常レジスト＋１	★Ailment Res +1
+★自動戦闘倍率＋１	★Auto-Battle +1
+★割り込み発生率＋１	★Interrupt +1
+●分岐発生	●Branch Opens
+●有利クエスト発生	●Favorable Quest
+●？？解放条件	●?? Requirement
+●キャラカード解放	●Card Unlocked

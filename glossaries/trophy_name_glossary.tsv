@@ -1,0 +1,136 @@
+# The name of every achievement on the 実績 screen, in English. Hand-written;
+# this is the file to edit.
+#
+# Columns: the Japanese <TAB> the English name.
+#
+# The Japanese is a whole Id from archives/Rance10EX_v1_04/40_実績情報.x, padding and
+# ★ tail included, copied exactly -- that Id is the key the save file records a
+# completed trophy under and the key the ex-tree stores it as, so it is never
+# translated anywhere. docs/trophy-names.md says what happens if it is.
+#
+# The English is the *name only*. The bonus tail comes from
+# glossaries/trophy_bonus_glossary.tsv and the run of spaces that pins it to its
+# column is measured by the build, so writing one here would be overwritten.
+# A row left blank stays Japanese in game.
+#
+# Eighteen full-width characters is what the name has before the tail column
+# starts -- around thirty-four letters of English. The five rows with no tail
+# have the whole line, twenty-eight. The build measures each one and says which
+# are over rather than cutting them.
+#
+# Every proper noun here comes from glossaries/mistranslated_names.json,
+# glossaries/card_name_glossary.tsv, glossaries/race_name_glossary.tsv or
+# glossaries/summary_terms.tsv -- リーザス is Leazas, 魔人 is a Fiend, 魔王 is the
+# Demon King, 松下姫 is Princess Panasonic. The English titles that used to sit
+# in the 説明 column of the ex-table said Rizeas, Demon Lord and Princess
+# Matsushita for those; they were not written against the tables.
+
+クリアＡ　海から　　　　　　　　　　★ＣＰ＋１	Clear A: From the Sea
+クリアＡ　空から　　　　　　　　　　★ＣＰ＋１	Clear A: From the Sky
+クリアＡ　強行突破　　　　　　　　　★ＣＰ＋１	Clear A: Forced Breakthrough
+クリアＡ　魔物界大侵攻　　　　　　　★ＣＰ＋１	Clear A: Demon World Invasion
+クリアＢ　魔王を倒したが　　　　　　★ＣＰ＋１	Clear B: Demon King Slain, but…
+クリアＢ　タイムカプセル　　　　　　★ＣＰ＋１	Clear B: Time Capsule
+クリアＢ　地底大作戦　　　　　　　　★ＣＰ＋１	Clear B: Underground Operation
+クリアＢ　魔王美樹　　　　　　　　　★ＣＰ＋１	Clear B: Demon King Miki
+クリアＢ　神の真実　　　　　　　　　★ＣＰ＋１	Clear B: The Truth of God
+クリアＢ　異界の魔王　　　　　　　　★ＣＰ＋１	Clear B: Otherworld Demon King
+クリアＣ　魔王ケイブリス　　　　　　★ＣＰ＋１	Clear C: Demon King Kayblis
+クリアＣ　勇者の成就　　　　　　　　★ＣＰ＋１	Clear C: The Hero Fulfilled
+クリアＣ　人類滅亡　　　　　　　　　★ＣＰ＋１	Clear C: Humanity Wiped Out
+クリアＣ　敗北　　　　　　　　　　　★ＣＰ＋１	Clear C: Defeat
+達成(クリア時)　初クリア　　　　　　★継続プレイ解放	On Clear: First Clear
+達成　？？解放条件全達成　　　　　　★２部解放	Achieved: All ?? Conditions
+達成(第２部クリア時)　全クリア	Part 2: Complete Clear
+達成　実績２０個　　　　　　　　　　★物理倍率＋１	Total: 20 Achievements
+達成　実績４０個　　　　　　　　　　★魔法倍率＋１	Total: 40 Achievements
+達成　実績６０個　　　　　　　　　　★物理倍率＋１	Total: 60 Achievements
+達成　実績８０個　　　　　　　　　　★魔法倍率＋１	Total: 80 Achievements
+達成　実績１００個　　　　　　　　　★物理倍率＋１	Total: 100 Achievements
+達成(クリア時)　タイニリーチＥ　　　★レア確率ＵＰ	On Clear: Tiny Leech E
+達成(クリア時)　マリアの可能性　　　●分岐発生	On Clear: Maria's Potential
+達成(クリア時)　奈落の王　　　　　　●分岐発生	On Clear: King of the Abyss
+達成(クリア時)　海獣　　　　　　　　★物理倍率＋１	On Clear: Sea Beast
+達成(クリア時)　怪獣　　　　　　　　★物理倍率＋１	On Clear: Kaiju
+達成(クリア時)　リーザス魔人２撃破　★異常レジスト＋１	On Clear: 2 Leazas Fiends
+達成(クリア時)　ヘルマン魔人２撃破　★異常レジスト＋１	On Clear: 2 Helman Fiends
+達成(クリア時)　ゼス魔人２撃破　　　★異常レジスト＋１	On Clear: 2 Zeth Fiends
+達成(クリア時)　自由都市魔人２撃破　★異常レジスト＋１	On Clear: 2 Free Cities Fiends
+達成(クリア時)　レイタイマン撃破　　★割り込み発生率＋１	On Clear: Lei Duel Won
+達成(クリア時)　姉妹撃破　　　　　　★割り込み発生率＋１	On Clear: Sisters Defeated
+達成(クリアＡ時)　ワンニャン　　　　★割り込み発生率＋１	On Clear A: Wan-Nyan
+達成(クリアＡ時)　恋人美樹　　　　　★割り込み発生率＋１	On Clear A: Lover Miki
+達成(クリア時)　リーザス解放　　　　●有利クエスト発生	On Clear: Leazas Liberated
+達成(クリア時)　リーザス４０枚　　　●有利クエスト発生	On Clear: Leazas 40 Cards
+達成(クリア時)　ヘルマン解放　　　　●有利クエスト発生	On Clear: Helman Liberated
+達成(クリア時)　ヘルマン４０枚　　　●有利クエスト発生	On Clear: Helman 40 Cards
+達成(クリア時)　ゼス解放　　　　　　●有利クエスト発生	On Clear: Zeth Liberated
+達成(クリア時)　ゼス４０枚　　　　　●有利クエスト発生	On Clear: Zeth 40 Cards
+達成(クリア時)　自由都市解放　　　　●有利クエスト発生	On Clear: Free Cities Liberated
+達成(クリア時)　自由都市４０枚　　　●有利クエスト発生	On Clear: Free Cities 40 Cards
+達成(クリア時)　ＪＡＰＡＮ４０枚　　●有利クエスト発生	On Clear: JAPAN 40 Cards
+達成(クリア時)　その他４０枚　　　　●有利クエスト発生	On Clear: Other 40 Cards
+達成(クリア時)　亜人４０枚　　　　　●有利クエスト発生	On Clear: Demi-human 40 Cards
+達成(クリアＡ時)　４地域無事　　　　●？？解放条件	On Clear A: 4 Regions Safe
+達成(クリアＡ時)　ケイブリス撃破　　●？？解放条件	On Clear A: Kayblis Defeated
+達成(クリアＡ時)　ホーネット無事　　●？？解放条件	On Clear A: Hornet Safe
+達成(クリアＡ時)　魂管理局との邂逅　●？？解放条件	On Clear A: Met the Soul Bureau
+達成(クリアＡ時)　法王特典未使用　　●？？解放条件	On Clear A: Privilege Unused
+達成(２部クリア時)　親友は長田君	Part 2: Best Friend Nagata-kun
+達成(２部クリア時)　親友は志津香＆ナギ	Part 2: Best Friends Shizuka & Nagi
+達成(２部クリア時)　親友はリセット	Part 2: Best Friend Reset
+達成(２部クリア時)　親友はザンス	Part 2: Best Friend Zance
+達成(２部クリア時)　親友はウズメ	Part 2: Best Friend Uzume
+達成(２部クリア時)　親友は乱義	Part 2: Best Friend Rangi
+達成(２部クリア時)　親友は深根	Part 2: Best Friend Tone
+達成(２部クリア時)　親友はミックス	Part 2: Best Friend Mix
+達成(２部クリア時)　親友はスシヌ	Part 2: Best Friend Sushinu the Gandhi
+達成(２部クリア時)　親友は元就	Part 2: Best Friend Motonari
+達成(２部クリア時)　親友はレリコフ	Part 2: Best Friend Lelikov Helman
+達成(２部クリア時)　親友はダークランス	Part 2: Best Friend Dark Rance
+達成(２部クリア時)　親友はドッス＆ワッス	Part 2: Best Friends Doss & Wass
+達成(２部クリア時)　親友は松下姫	Part 2: Best Friend Princess Panasonic
+集結　ランスバリエーション	Gathered: Rance Variations
+集結　ランス城のメイドと騎士	Gathered: Rance Castle Maids & Knights
+集結　運命の女１	Gathered: Fated Women 1
+集結　運命の女２	Gathered: Fated Women 2
+集結　フロストバイン一派	Gathered: Frostbain's Faction
+集結　エターナルヒーロー	Gathered: Eternal Heroes
+集結　ＡＬ教	Gathered: The AL Church
+集結　リーザス王家	Gathered: Leazas Royal Family
+集結　リーザス軍	Gathered: Leazas Army
+集結　リーザス親衛隊	Gathered: Leazas Royal Guard
+集結　ヘルマン共和国	Gathered: Helman Republic
+集結　ヘルマン軍	Gathered: Helman Army
+集結　パットン一派	Gathered: Patton's Faction
+集結　ゼス王国	Gathered: Kingdom of Zeth
+集結　ゼス軍	Gathered: Zeth Army
+集結　カスタムの４魔女(R2)	Gathered: Custom's 4 Witches
+集結　７人の都市長	Gathered: The 7 City Mayors
+集結　パランチョ王国	Gathered: Kingdom of Parancho
+集結　ＪＰ毛利家	Gathered: JP Mouri Clan
+集結　ＪＰ上杉家	Gathered: JP Uesugi Clan
+集結　妖怪軍団	Gathered: Youkai Legion
+集結　カラー一族	Gathered: The Kalar Clan
+集結　ポピンズ一族	Gathered: The Poppins Clan
+集結　ホルス一族	Gathered: The Horus Clan
+集結　聖魔教団	Gathered: The Holy Magic Sect
+集結　マエリータ隊	Gathered: Maelita's Squad
+集結　ハニー一族	Gathered: The Hanny Clan
+集結　日本の人達	Gathered: People of JAPAN
+集結　ホーネット派	Gathered: Hornet's Faction
+集結　ケッセルのメイド達	Gathered: Kesselring's Maids
+集結　聖女モンスター	Gathered: Holy Gal Monsters
+集結　ドット	Gathered: The Tinies
+集結　ロードリングの成長	Gathered: Lordring Grows Up
+集結　女の子モンスター１	Gathered: Gal Monsters 1
+集結　女の子モンスター２	Gathered: Gal Monsters 2
+集結　女の子モンスター３	Gathered: Gal Monsters 3
+集結　次世代モンスター	Gathered: Next-Gen Monsters
+達成(アフター)　１クエスト達成　　　★自動戦闘倍率＋１	After: 1 Quest Done
+達成(アフター)　２クエスト達成　　　★自動戦闘倍率＋１	After: 2 Quests Done
+達成(アフター)　３クエスト達成　　　★自動戦闘倍率＋１	After: 3 Quests Done
+達成(アフター)　４クエスト達成　　　★自動戦闘倍率＋１	After: 4 Quests Done
+達成(アフター)　５クエスト達成　　　★自動戦闘倍率＋１	After: 5 Quests Done
+達成(アフター)　６クエスト達成　　　★自動戦闘倍率＋１	After: 6 Quests Done
+達成(アフター)　バスワルド　　　　　●キャラカード解放	After: Vaswald

@@ -88,6 +88,13 @@ run(async () => {
         english.push(
             "-t", path.relative(ROOT, regeneratedTxt(textLang)),
             "--jaf", "patches/card_names.jaf",
+            /*
+             * The achievement names, read out of the ex-tree the same way the
+             * card names are -- both Ids are save keys. The English itself is
+             * written in by npm run regenerate-ex, so this changes nothing at
+             * all until that has been run over the same game directory.
+             */
+            "--jaf", "patches/trophy_names.jaf",
             "--jaf", path.relative(ROOT, RACE_JAF),
             /*
              * The enemy panel's two card Ids in English. Not optional -- it is
