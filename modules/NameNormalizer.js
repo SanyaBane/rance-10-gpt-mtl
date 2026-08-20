@@ -206,14 +206,70 @@ const replaceWords = (sentence, misspelling, canonical) => {
     return repaired + sentence.slice(from);
 };
 
+/** The misspelling this entry would take out of the sentence, if any. */
+const claimOf = (sentence, nameRecord) => sentence.includes(nameRecord.shortNameEng) ? null
+    : nameRecord.knownMistranslations.find(mistranslation =>
+        replaceWords(sentence, mistranslation, nameRecord.shortNameEng) !== sentence) ?? null;
+
+/**
+ * Two names of the same length reaching for the same words, which is the one
+ * thing the ordering above cannot settle.
+ *
+ * 魔人 and 魔軍 are two characters each and both list "demon", so on the lines
+ * that name both -- 魔軍は魔人ガルティアに率いられ -- whichever is written first
+ * in the file takes it, and the other 36 lines get the answer that order
+ * happens to give: "led by the Monster Army Galtya" where the Japanese says
+ * 魔人ガルティア. Which "demon" belongs to which word is a fact about the
+ * sentence, so there is no entry that fixes it and no order that is right for
+ * both. The build says so out loud instead, and the line gets repaired where
+ * the rest of the residue does, in the corpus.
+ *
+ * Entries sharing a Japanese name are left alone: クルックー is "Crook" and again
+ * "Ms. Crook" on purpose, and ＜エール＞ is spelled by two entries in turn.
+ */
+const contestsOver = (claims) => {
+    const complaints = [];
+    for (let i = 0; i < claims.length; ++i) {
+        for (let j = i + 1; j < claims.length; ++j) {
+            const [a, claimedByA] = claims[i];
+            const [b, claimedByB] = claims[j];
+            if (a.shortNameJpn === b.shortNameJpn
+                || a.shortNameJpn.length !== b.shortNameJpn.length
+                || !(claimedByA.includes(claimedByB) || claimedByB.includes(claimedByA))) {
+                continue;
+            }
+            complaints.push(`${a.shortNameJpn} ("${a.shortNameEng}") and ${b.shortNameJpn}`
+                + ` ("${b.shortNameEng}") both claim ${JSON.stringify(claimedByA)}`);
+        }
+    }
+    return complaints;
+};
+
+/**
+ * The repair, and the lines it could not decide.
+ *
+ * contested is filled in as lines go through rather than returned per line:
+ * every caller renders the whole corpus and then reports, the way
+ * renderEnemyInfo hands back its overlong and misnamed lists.
+ */
 export const createNameNormalizer = async (langDir) => {
     const mistranslated_names = await readNameTable(langDir);
+    const contested = [];
 
-    return (lineRecord) => {
-        let sentence = lineRecord.translatedEnglishLine;
+    const normalizeNames = (lineRecord) => {
+        const original = lineRecord.translatedEnglishLine;
+        let sentence = original;
+        const claims = [];
         for (const nameRecord of mistranslated_names) {
             if (!lineRecord.originalJapaneseLine.includes(nameRecord.shortNameJpn)) {
                 continue;
+            }
+            // Read against the line as it arrived: by the time a later entry is
+            // reached the earlier ones have already taken their words out, and
+            // what the report is about is who wanted them.
+            const claimed = claimOf(original, nameRecord);
+            if (claimed) {
+                claims.push([nameRecord, claimed]);
             }
             const shortNameEng = nameRecord.shortNameEng;
             if (sentence.includes(shortNameEng)) {
@@ -227,6 +283,11 @@ export const createNameNormalizer = async (langDir) => {
                 }
             }
         }
+        for (const complaint of contestsOver(claims)) {
+            contested.push(`m[${lineRecord.lineNumber}] ${complaint} -- ${JSON.stringify(original)}`);
+        }
         return sentence;
     };
+
+    return {normalizeNames, contested};
 };

@@ -48,7 +48,7 @@ try {
 }
 
 const langRoot = textLangDir(textLang);
-const normalizeNames = await createNameNormalizer(langRoot);
+const {normalizeNames, contested} = await createNameNormalizer(langRoot);
 
 const v100AinJson = await fs.readFile(AIN_V100_JSON, "utf-8");
 const v100AinData = JSON.parse(v100AinJson);
@@ -256,4 +256,14 @@ for (const complaint of enemyInfo.misnamed) {
 }
 for (const japanese of enemyInfo.stale) {
     console.warn(`  no enemy status line says ${JSON.stringify(japanese)} any more`);
+}
+// The name repairs the table cannot decide, because two names of the same
+// length want the same word. Whichever is written first in the file takes it,
+// which is right for some of these lines and wrong for the others, so they are
+// listed for somebody to fix in the corpus. See modules/NameNormalizer.js.
+if (contested.length) {
+    console.warn(`  ${contested.length} lines where two names claim the same word:`);
+    for (const complaint of contested) {
+        console.warn(`    ${complaint}`);
+    }
 }
