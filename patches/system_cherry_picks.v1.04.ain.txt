@@ -282,8 +282,13 @@ s[3286] = " resulted in…"
 s[3954] = "ＡＰ decreased！"
 ; SkillEffectProcessShowEnemyInformation@GetLog
 s[3973] = "Enemy Analyzed！"
-s[3957] = "Interrupt Modifier:%3.2f％"
-s[3958] = "<Enemy>'s action was interrupted！"
+; SkillEffectProcessEnemyActionAbort@Evaluate. 行動阻止 deletes one of the queued
+; enemy actions the player is looking at, and the skill descriptions in
+; 11_スキルデータ.x have always called that Action Prevention, so the log says
+; prevented too. s[3957] is formatted and handed to pass(), whose body is a bare
+; RETURN, so nothing carries it to the screen.
+s[3957] = "Prevention Rate Modifier:%3.2f％"
+s[3958] = "<Enemy>'s action was prevented！"
 ; SkillEffectProcessForceDraw@Evaluate
 s[3959] = "Rance and the others fled！"
 s[3960] = "<Enemy> fled！"
@@ -606,7 +611,10 @@ s[3296] = "Cannot deal damage！(<Any>)"
 s[3892] = "Attribute nullified"
 
 ; SceneBattle@IsEnemySkillActionFailed
-s[3292] = "<Enemy>'s <Skill> interrupted！"
+; s[3292] is one line for two causes: an action s[3958] has just deleted, and a
+; skill whose own 発動条件 did not hold. The second is why it does not say
+; interrupted -- nothing interrupted a skill that never qualified to run.
+s[3292] = "<Enemy>'s <Skill> was prevented！"
 s[3291] = "<BadCondition> stunned the <Player>！"
 s[3963] = "<BadCondition> prevented Recovery！"
 s[3272] = "<Enemy> was defeated！"
