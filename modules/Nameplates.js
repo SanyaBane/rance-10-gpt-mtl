@@ -239,10 +239,19 @@ const unnamed = (english) => english === "" || english === "ｘｘｘ"
  *
  * The plate settles it wherever the two namelists disagree -- a フルネーム that
  * matches the portrait's plate is left alone even when the canonical table
- * would have wanted another word. That disagreement is real and there are
- * around sixty of it, mostly two hand-written tables putting a Sengoku name in
- * opposite orders ("Motonari Mouri" against "Mouri Motonari"); it is a job of
- * its own, and folding it in here would bury the misspellings this is for.
+ * would have wanted another word. That disagreement used to run to around sixty
+ * characters and has been reconciled by hand: the Sengoku names now read in the
+ * order the rest of the translation uses on both sides ("Mouri Motonari"), and
+ * the plates that were left as bare romanisations were respelled from the
+ * glossaries ("Rarukatto" -> "Ralcat", "Yamisagi" -> "Dark Heron").
+ *
+ * What is left is the nineteen rows where the two tables are not naming the same
+ * Japanese at all -- a generic portrait's role against the card's individual
+ * name (汎用魔法使い "Wizard" against ジェリー・オネ), a joke design against the
+ * character wearing it (ケーちゃん "K-Chan" against ケイブリス), a short name
+ * against a full one (マジスコ against マジック・スコルピオン) -- which is why the
+ * plate still settles a row it matches rather than the check policing the two
+ * tables against each other.
  */
 export const checkCardNames = async () => {
     const spellings = spellingsByName(await readSharedNameTable());

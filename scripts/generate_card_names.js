@@ -506,8 +506,9 @@ const readFullNames = async () => {
  * in it agrees with itself, so the first row of a character wins. This table is
  * the repository's most carefully kept English namelist -- 1016 characters
  * against the 356 カード情報 can name -- and its Sengoku names are in the order
- * the rest of the translation uses, 上杉謙信 as "Uesugi Kenshin" rather than
- * カード情報's "Kenshin Uesugi".
+ * the rest of the translation uses, 上杉謙信 as "Uesugi Kenshin". カード情報 was
+ * reconciled to it, so the two now answer alike wherever they name the same
+ * character; see the note over checkCardNames in modules/Nameplates.js.
  */
 const readNameplates = async () => {
     const {text, encoding} = await readText(NAMEPLATES);
