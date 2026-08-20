@@ -622,7 +622,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "ヘクトミリバール・千津／", "Hectomillibar Chizu" },
 	{ "ヌーク７７／", "Nook 77" },
 	{ "魔獣タイガー／", "Beast Tiger" },
-	{ "ラングバウ／", "Rangbau" },
+	{ "ラングバウ／", "Lang Bau" },
 	{ "魔物隊長／", "Monster Captain" },
 	{ "起床係の魔物兵／", "Monster Soldier on Wake-up Duty" },
 	{ "妖怪／", "Yokai" },
