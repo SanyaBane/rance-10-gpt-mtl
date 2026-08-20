@@ -176,7 +176,7 @@ write to it.
 `summary_merge.js` reports three things worth acting on: the captions the build
 cannot fit, every row it overwrote with the English it replaced, and rows where
 the English does not spell a name the way `glossaries/mistranslated_names.json`
-does. The last is noisy by design -- around 308 of the 4458 rows trip it, nearly
+does. The last is noisy by design -- 178 of the 4458 rows trip it, nearly
 all because a caption twenty characters wide cannot hold `Agireda Kosabusshi
 Zonna Abona` and says `Agireda` -- so it is printed last, after everything
 somebody has to act on. What it is for is the other kind of hit: a *different*
@@ -196,6 +196,25 @@ for the short form where twenty characters would not hold the full one: `聖櫃`
 is `the Ark` in four rows out of five, `闘神大会` `Fighting God tourney`.
 `summary_chunk.js` quotes the ones an event mentions into its prompt, beside the
 names.
+
+A suggestion in a prompt is not a decision, though, and for a long time nothing
+asked afterwards whether it had been taken. `魔王` has been `Demon King` in that
+file since it was written and `０８／魔王の噂` still went out saying "The Monster
+Army hunts the King", which in this world is somebody else entirely.
+`createTermChecker` asks, the same way the name check asks of
+`mistranslated_names.json`, and both scripts that write the glossary print what it
+found -- 43 rows, ahead of the name complaints because there are a quarter as
+many. Most of those 43 are the panel rather than a disagreement, "the enemy" for
+a `魔軍` that would not fit on the row; what is worth the reading is a row that
+had the room and used another word anyway.
+
+`node scripts/find_dropped_terms.js` asks it of the glossaries no build writes
+back -- the enemy panel, the HP bar, the cards, the achievements -- and, with
+`--corpus`, of the dialogue. That is where the terms are really loose: 3912 of
+the 273562 translated lines, `総統` a Supreme Leader in a thousand of them where
+every screen says Supreme Commander. It is also how `聖骸闘将` was found to be a
+Holy Corpse Tousho on the synopsis and a Holy Corpse Fighting General over its
+own HP bar.
 
 Names of people are not in it. They come from
 `glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`,

@@ -557,13 +557,22 @@ const STALE_HEADING = [
  * caption over one row is ordinary now -- the build lays it onto a second one.
  * A caption over one row that appears in an event with no free row is the one
  * somebody has to shorten, and there are two orders of magnitude fewer of them.
+ *
+ * Two glossary reports as well, and for the same reason. A row that spells a
+ * name some other way and a row that does not take a settled term are the same
+ * question asked of two tables -- glossaries/mistranslated_names.json and
+ * glossaries/summary_terms.tsv -- and both are asked here, as the file is
+ * written, because this is the last place anything reads the Japanese of a row
+ * beside its English.
  */
 export const writeSummaryGlossary = async (lines, glossary) => {
     const checkNames = await createNameChecker();
+    const checkTerms = await createTermChecker();
 
     const rows = [];
     const overlong = [];
     const misnamed = [];
+    const mistermed = [];
     let translated = 0;
     for (const {japanese} of lines) {
         const english = glossary.get(japanese) ?? "";
@@ -573,6 +582,7 @@ export const writeSummaryGlossary = async (lines, glossary) => {
                 overlong.push(`${japanese} -> ${english}`);
             }
             misnamed.push(...checkNames(japanese, english));
+            mistermed.push(...checkTerms(japanese, english));
         }
         rows.push(`${japanese}\t${english}`);
     }
@@ -589,7 +599,7 @@ export const writeSummaryGlossary = async (lines, glossary) => {
         + (stale.length ? STALE_HEADING + stale.map(row => row.join("\t")).join("\n") + "\n" : ""),
         "utf-8");
 
-    return {translated, overlong, cramped, misnamed, stale};
+    return {translated, overlong, cramped, misnamed, mistermed, stale};
 };
 
 /**
@@ -682,9 +692,13 @@ export const renderSummaryTable = async () => {
 };
 
 /** What writeSummaryGlossary found, as lines to print. */
-export const reportSummaryGlossary = ({translated, overlong, cramped, misnamed, stale}, lines) => {
+export const reportSummaryGlossary = ({translated, overlong, cramped, misnamed, mistermed, stale}, lines) => {
     const report = [`${translated} of ${lines.length} phrases have English`
         + ` -> ${path.relative(ROOT, SUMMARY_GLOSSARY)}`];
+    if (mistermed.length) {
+        report.push(`  ${mistermed.length} rows drop a word ${path.relative(ROOT, SUMMARY_TERMS)}`
+            + " settled -- listed at the end");
+    }
     if (misnamed.length) {
         report.push(`  ${misnamed.length} rows name somebody the tables spell another way`
             + " -- listed at the end");
@@ -707,7 +721,7 @@ export const reportSummaryGlossary = ({translated, overlong, cramped, misnamed, 
 /**
  * The name complaints, which go last wherever they are printed.
  *
- * Noisy by design: around 308 of the 4458 rows trip it, nearly all because a
+ * Noisy by design: 178 of the 4458 rows trip it, nearly all because a
  * caption twenty characters wide cannot hold "Agireda Kosabusshi Zonna Abona"
  * and says "Agireda". What it is for is the other kind of hit -- a *different*
  * spelling of the same name -- and there is no way to tell the two apart from
@@ -715,3 +729,18 @@ export const reportSummaryGlossary = ({translated, overlong, cramped, misnamed, 
  * the reports somebody has to act on.
  */
 export const reportSummaryNames = ({misnamed}) => misnamed.map(complaint => `  ${complaint}`);
+
+/**
+ * The term complaints, which go beside them and go first of the two.
+ *
+ * Noisy for the same reason and an order of magnitude less of it: 43 rows
+ * against the name check's 178. Most are still the panel rather than a
+ * disagreement -- "the enemy" for a 魔軍 that would not fit on the row, "the
+ * Gate" for 異界ゲート -- and what is worth the reading is a row that had the
+ * room and used another word anyway. 魔王 stood as "the King" in ０８／魔王の噂
+ * for as long as there was nothing printing this.
+ *
+ * scripts/find_dropped_terms.js asks the same of the glossaries no build writes
+ * back, and of the dialogue corpus, which neither of these reaches.
+ */
+export const reportSummaryTerms = ({mistermed}) => mistermed.map(complaint => `  ${complaint}`);

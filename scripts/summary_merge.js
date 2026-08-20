@@ -38,6 +38,7 @@ import {
     readSummaryLines,
     reportSummaryGlossary,
     reportSummaryNames,
+    reportSummaryTerms,
     writeSummaryGlossary,
 } from "../modules/SummaryLines.js";
 
@@ -164,6 +165,8 @@ if (left.length) {
 for (const complaint of skipped) {
     console.log(`  skipped: ${complaint}`);
 }
-// Last, because there are around 308 of them and nearly every one is a caption
-// too narrow for the full name rather than a misspelling.
+// Last, and the terms before the names: there are 43 of those against 178 of
+// these, and nearly every one of the 178 is a caption too narrow for the full
+// name rather than a misspelling.
+console.log(reportSummaryTerms(written).join("\n"));
 console.log(reportSummaryNames(written).join("\n"));

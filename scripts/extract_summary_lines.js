@@ -20,6 +20,7 @@ import {
     readSummaryLines,
     reportSummaryGlossary,
     reportSummaryNames,
+    reportSummaryTerms,
     writeSummaryGlossary,
 } from "../modules/SummaryLines.js";
 
@@ -28,7 +29,9 @@ const glossary = await readSummaryGlossary();
 const written = await writeSummaryGlossary(lines, glossary);
 
 console.log(reportSummaryGlossary(written, lines).join("\n"));
-// Last: around 308 rows trip the name check, nearly all of them because the
-// panel is too narrow for the full name rather than because anything is spelled
-// wrong, so they must not sit in front of the counts.
+// Last, and the terms before the names: there are 43 of those against 178 of
+// these, and nearly every one of the 178 is a caption too narrow for the full
+// name rather than anything spelled wrong. Neither may sit in front of the
+// counts.
+console.log(reportSummaryTerms(written).join("\n"));
 console.log(reportSummaryNames(written).join("\n"));
