@@ -56,7 +56,7 @@ table クエスト情報 = {
     {113,"クルックーの護衛",10,"ADV: Guard Crook","To ALICE Church HQ in Kaiz","　Strong　Party(Demihuman)　Elem(Light)","　Reward　　　Better　Crook","",0,1,8,4,4,"川中島",1},
     {142,"必殺技を得る",1,"Solo: New Special Move","The hero grows at times like this","　Story Only","　Reward　　　Lv65 Rance","",0,1,1,0,0,"ランス城",0},
     {106,"俺は自由になる",1,"Solo: Freedom","Abandon presidential post","　Story Only","　Reward　　　−−−","",0,0,1,0,0,"ランス城",0},
-    {109,"空飛ぶランス城散策",1,"Solo: Flying Rance Castle","Explore Rance Castle","　Story Only","　Reward　　　Battle God Zeta","",0,1,1,0,0,"ランス城",0},
+    {109,"空飛ぶランス城散策",1,"Solo: Flying Rance Castle","Explore Rance Castle","　Story Only","　Reward　　　Toushin Zeta","",0,1,1,0,0,"ランス城",0},
     {116,"魔王の記憶改竄",1,"Solo: Win Demon King’s Heart","Be with Miki by any means","　Story Only","　Reward　　　Miki","",0,1,1,0,0,"ランス城",0},
     {143,"海を調べる",1,"Solo: Check the High Tide","Once-in-a-decade high tide, may as well...","　Story Only","　Reward　　　High-grade Measuring Tape","",0,1,1,0,0,"２０海里",0},
     {144,"再出発／ＪＰ",1,"Solo: Restart from JAPAN","Restart at new base","　Story Only","　Reward　　　Medal","",0,1,1,0,0,"ＪＡＰＡＮ",0},

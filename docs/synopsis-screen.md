@@ -193,7 +193,7 @@ the safety net there is.
 
 `glossaries/summary_terms.tsv`, the Japanese and the English, and a third column
 for the short form where twenty characters would not hold the full one: `聖櫃`
-is `the Ark` in four rows out of five, `闘神大会` `Fighting God tourney`.
+is `the Ark` in four rows out of five, `闘神大会` `Toushin tourney`.
 `summary_chunk.js` quotes the ones an event mentions into its prompt, beside the
 names.
 

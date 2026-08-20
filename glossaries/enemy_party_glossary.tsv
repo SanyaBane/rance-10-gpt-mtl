@@ -24,10 +24,10 @@
 # scripts/lookup_term.js is for -- 中隊 a Company, 大隊 a Battalion, 鬼 an oni,
 # 群生 a colony.
 #
-# 闘将 is the exception the dialogue lost: it renders both 闘将 and 闘神 as a
-# Fighting something, so it cannot tell the two apart and neither could a player
-# reading it. It is a Tousho here, the way glossaries/summary_terms.tsv and
-# glossaries/card_name_glossary.tsv have it.
+# 闘将 is the exception the dialogue lost: it rendered both 闘将 and 闘神 as a
+# Fighting something, so it could not tell the two apart and neither could a
+# player reading it. It is a Tousho here and 闘神 a Toushin, the way
+# glossaries/summary_terms.tsv and glossaries/card_name_glossary.tsv have them.
 
 テストの集団	Test Group
 魔物兵	Monster Soldiers

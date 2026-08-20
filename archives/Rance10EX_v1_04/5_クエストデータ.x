@@ -33366,7 +33366,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "This... reminds me of the\nBattle God City...",
+					説明 = "This... reminds me of the\nToushin City...",
 				},
 			},
 		},
