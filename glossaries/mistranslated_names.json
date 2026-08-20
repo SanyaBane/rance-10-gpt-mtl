@@ -4,7 +4,8 @@
         "shortNameJpn": "セル",
         "knownMistranslations": [
             "Seru",
-            "Cel"
+            "Cel",
+            "Cell"
         ]
     },
     {
@@ -190,7 +191,10 @@
             "Puerere",
             "Perriere",
             "Perere",
-            "Peruelé"
+            "Peruelé",
+            "Perelle",
+            "Perle",
+            "Perel"
         ]
     },
     {
@@ -318,7 +322,8 @@
             "Cuëlplan",
             "Kuerupuran",
             "Quelp",
-            "Querpplan"
+            "Querpplan",
+            "Quelpulan"
         ]
     },
     {
@@ -434,7 +439,9 @@
             "Piearl",
             "Paiyaru",
             "Payar",
-            "Piar"
+            "Piar",
+            "Pi-Rl",
+            "Pyarl"
         ]
     },
     {
@@ -629,7 +636,12 @@
             "Kvebris",
             "Cavegris",
             "Kavebris",
-            "Kavilis"
+            "Kavilis",
+            "Keibris",
+            "Kailbris",
+            "Kairbriss",
+            "Kabelis",
+            "Kebirisu"
         ]
     },
     {
@@ -992,7 +1004,8 @@
             "Hauseil",
             "Hwazel",
             "Hausele",
-            "Houseil"
+            "Houseil",
+            "Hauzer"
         ]
     },
     {
@@ -1062,14 +1075,24 @@
             "Krukk",
             "Kukku",
             "Krukuu",
-            "Cruck"
+            "Cruck",
+            "Crookcku",
+            "Crookchu",
+            "Crucku",
+            "Crooku",
+            "Crookke"
         ]
     },
     {
         "shortNameEng": "Ms. Crook",
         "shortNameJpn": "クルックー",
         "knownMistranslations": [
-            "Mr. Crook"
+            "Mr. Crook",
+            "Crookcku",
+            "Crookchu",
+            "Crucku",
+            "Crooku",
+            "Crookke"
         ]
     },
     {
@@ -1409,7 +1432,8 @@
         "knownMistranslations": [
             "Karo",
             "Karomo",
-            "Kouro"
+            "Kouro",
+            "Caroria"
         ]
     },
     {
@@ -1435,7 +1459,9 @@
             "Carol",
             "Carolyn",
             "Carolyn",
-            "Kaoru"
+            "Kaoru",
+            "Caroli",
+            "Carolly"
         ]
     },
     {
@@ -1461,7 +1487,8 @@
             "Kurein",
             "Claire",
             "Clane",
-            "Crain"
+            "Crain",
+            "Craine"
         ]
     },
     {
@@ -1488,7 +1515,8 @@
             "Mecababora",
             "Bavola",
             "Babolath",
-            "Babolata"
+            "Babolata",
+            "Babola"
         ]
     },
     {
@@ -1551,7 +1579,8 @@
             "Satera",
             "Saterra",
             "Sateera",
-            "Sateira"
+            "Sateira",
+            "Satela"
         ]
     },
     {
@@ -1599,7 +1628,9 @@
             "Serakloras",
             "Chronolas",
             "Chronolas",
-            "Selacroras"
+            "Selacroras",
+            "Seracholas",
+            "Sarakoras"
         ]
     },
     {
@@ -1618,7 +1649,11 @@
             "Chirudi",
             "Chirdi",
             "Chilly",
-            "Chilthy"
+            "Chilthy",
+            "Chiludi",
+            "Chilti",
+            "Childie",
+            "Chilody"
         ]
     },
     {
@@ -1938,7 +1973,8 @@
         "shortNameJpn": "レッドアイ",
         "knownMistranslations": [
             "RedEye",
-            "Redeye"
+            "Redeye",
+            "Red Eye"
         ]
     },
     {
@@ -2131,7 +2167,8 @@
         "shortNameJpn": "ハニー",
         "knownMistranslations": [
             "Hanny",
-            "honey"
+            "honey",
+            "Honey"
         ]
     },
     {
@@ -2166,7 +2203,9 @@
             "Doesusuki",
             "Does",
             "Doesuski",
-            "Doesusky"
+            "Doesusky",
+            "Doesusukii",
+            "Doesuskey"
         ]
     },
     {
@@ -2177,7 +2216,9 @@
             "Shariera",
             "Chariela",
             "Sharliera",
-            "Shariella"
+            "Shariella",
+            "Sharriera",
+            "Sharera"
         ]
     },
     {
@@ -2215,7 +2256,8 @@
             "Zans",
             "Zanz",
             "Zanse",
-            "Zhans"
+            "Zhans",
+            "Zansu"
         ]
     },
     {
