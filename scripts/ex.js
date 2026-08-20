@@ -22,6 +22,7 @@ import * as os from "os";
 import * as path from "path";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
+import {checkNameplates} from "../modules/Nameplates.js";
 import {SUMMARY_DATA, renderSummaryTable} from "../modules/SummaryLines.js";
 import {TROPHY_DATA, renderTrophyTable} from "../modules/TrophyNames.js";
 
@@ -52,6 +53,18 @@ run(async () => {
     }
     for (const japanese of trophies.missingBonus) {
         console.warn(`  no English for the bonus ${JSON.stringify(japanese)}`);
+    }
+
+    /*
+     * The dialogue window's nameplates are translated in the file rather than
+     * rendered from a glossary, so no pass repairs them and this build installs
+     * whatever they say -- in the plate, and through scripts/generate_card_names.js
+     * in the combat log. modules/Nameplates.js has what that cost.
+     */
+    const plates = await checkNameplates();
+    console.log(`Checked ${plates.report}`);
+    for (const complaint of plates.misnamed) {
+        console.warn(`  ${complaint}`);
     }
 
     const tempDir = await fs.mkdtemp(path.join(os.tmpdir(), "rance10-ex-"));

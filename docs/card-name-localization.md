@@ -300,11 +300,11 @@ it merely wraps the glossary's name in more words, on either end:
 
 | kept | refused |
 |---|---|
-| `Calory` → `Carolie` | `Eleanor` → `Eleanor Ran` |
+| `Yozefu` → `Yosif` | `Eleanor` → `Eleanor Ran` |
 | `Sultan` → `Sorutoan` | `Masamune` → `Dokuganryuu Masamune` |
 | `Frostvine` → `Frostbain` | `Crook` → `Ms. Crook` |
 
-Today that takes 10 and refuses 25. The comparison is by whole words, so
+Today that takes 8 and refuses 25. The comparison is by whole words, so
 `Caroli` → `Carolie` still counts as a respelling rather than a wrap.
 
 The rule replaced a hand-written exception list, which it happens to subsume:

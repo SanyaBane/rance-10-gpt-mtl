@@ -31,6 +31,7 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {width} from "../modules/EastAsianWidth.js";
 import {ROOT} from "../modules/Env.js";
+import {NAMEPLATES} from "../modules/Nameplates.js";
 
 const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
 const GLOSSARY_PATH = path.join(ROOT, "glossaries", "card_name_glossary.tsv");
@@ -508,8 +509,8 @@ const readFullNames = async (exDir) => {
  * the rest of the translation uses, 上杉謙信 as "Uesugi Kenshin" rather than
  * カード情報's "Kenshin Uesugi".
  */
-const readNameplates = async (exDir) => {
-    const {text, encoding} = await readText(`${exDir}/48_立ち絵名札マッピング情報.x`);
+const readNameplates = async () => {
+    const {text, encoding} = await readText(NAMEPLATES);
     const plates = new Map();
     for (const line of splitLines(text)) {
         const row = CARD_ROW.exec(line);
@@ -636,7 +637,7 @@ const main = async () => {
     const {base, alias, overrides, refused, original} = await loadGlossary(dialogueNames);
     const {cards, encoding: cardsEncoding} = await readCards(EX_DIR);
     const {fullNames, encoding: infoEncoding} = await readFullNames(EX_DIR);
-    const {plates, encoding: plateEncoding} = await readNameplates(EX_DIR);
+    const {plates, encoding: plateEncoding} = await readNameplates();
 
     console.log(`カードデータ : ${cards.size} cards (${cardsEncoding})`);
     console.log(`カード情報   : ${fullNames.size} nodes with フルネーム (${infoEncoding})`);

@@ -109,6 +109,18 @@ which has around 205 lines it would complain about (`魔軍` as "demon army" whe
 the table says Monster Army, `魔人` as "Demon" where it says Fiend). Those are a
 separate job.
 
+The name over a portrait in the dialogue window comes from neither the corpus
+nor a glossary: `AdvNameResolver::Resolve` reads it out of
+`archives/Rance10EX_v1_04/48_立ち絵名札マッピング情報.x`, which is written by hand and
+which `npm run regenerate-ex` hands to alice-tools as it stands. So no pass
+repaired it, and `キャンテル` was "Kanteru" on the plate — and, because
+`scripts/generate_card_names.js` copies that table into `識別名情報.英名`, in the
+combat log too — while the dialogue and the card both said "Cantel".
+`modules/Nameplates.js` now checks the table at every `.ex` build, by whole key
+rather than by `mentions()`: a plate key is a cast list as much as a name, and
+reading a name out of anything containing it made eight of thirteen complaints
+noise.
+
 ## A string slot is shared by everything that pushes it
 
 `s[4018]` is the race `モンスター`, and it is also what
