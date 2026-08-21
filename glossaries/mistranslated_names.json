@@ -1724,9 +1724,7 @@
     {
         "shortNameEng": "Pastel",
         "shortNameJpn": "パステル",
-        "knownMistranslations": [
-            "pastel"
-        ]
+        "knownMistranslations": []
     },
     {
         "shortNameEng": "Patton",
@@ -1830,8 +1828,7 @@
         "shortNameEng": "Magic",
         "shortNameJpn": "マジック",
         "knownMistranslations": [
-            "Majikku",
-            "magic"
+            "Majikku"
         ]
     },
     {
