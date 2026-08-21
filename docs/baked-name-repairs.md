@@ -126,6 +126,37 @@ So the rule is not "no single words" but "count what the entry did before
 deciding", and a trace against the corpus as the translation produced it is
 how that count is taken.
 
+## The pass only reads its own record's Japanese
+
+`normalizeNames` decides from the `originalJapaneseLine` of the record it is
+repairing. A sentence that wraps across two records leaves its name on one of
+them and its English spelling on the other, and then no entry can fire: the
+table is right, the line is wrong, and nothing reports it. 474 lines were in
+that state, fixed over `ea5247cb`, `806c0267`, `4a7c3d95`, `ad812670` and
+`67d52b5c`.
+
+They are found by running the same repair against a **window of neighbouring
+records** instead of one. Window ±0 finds nothing at all, which is the check
+that the sweep is measuring the wrap and not something else; ±1 found 477 lines
+and ±2 another 56. The sweep is not committed, for the same reason the check
+above is not.
+
+Two guards it cannot work without, both found by triage rather than by the
+sweep:
+
+- **A word can already be somebody else's right name.** シィル lists `"Sheila"`
+  among its misspellings, and fourteen lines say Sheila because シーラ is who
+  they are about — their own Japanese says so. A spelling the record's own
+  Japanese claims is never taken away from it.
+- **The canonical may already be there under another separator.** The sword
+  By-Road holds `"Road"`, which バイ・ロード lists, and repairing it gives
+  "By-By Road".
+
+And a repair has to replay the **whole** entry rather than the misspelling that
+was noticed. ＜エール＞ is spelled by two entries in turn — a dozen spellings
+fold into the full-width form, then that becomes `El` — so replaying one
+spelling stops the line halfway and leaves ＜エール＞ inside an English sentence.
+
 ## What is still done at build time
 
 The corpus is not literally the patch. `replaceUnicode` in

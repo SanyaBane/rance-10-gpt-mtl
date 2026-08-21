@@ -105,9 +105,11 @@ So `createNameChecker` in the same module reads the table the other way round �
 it reports where the Japanese names somebody and the English does not spell them
 the canonical way — and both hand-written glossaries go through it as the build
 renders them. It does **not** run over `patches/system_cherry_picks.v1.04.ain.txt`,
-which has around 205 lines it would complain about (`魔軍` as "demon army" where
-the table says Monster Army, `魔人` as "Demon" where it says Fiend). Those are a
-separate job.
+whose names have therefore never been held to the table. Its demon words have
+been swept since — 116 strings said Demon, 37 of them correctly, and the rest
+are written — but the sweep was by hand and the file is still unchecked at build
+time. `docs/system-cherry-picks.md` says how to read a slot's Japanese, and why
+anything in that file overwrites the dialogue rather than adding to it.
 
 The name over a portrait in the dialogue window comes from neither the corpus
 nor a glossary: `AdvNameResolver::Resolve` reads it out of
