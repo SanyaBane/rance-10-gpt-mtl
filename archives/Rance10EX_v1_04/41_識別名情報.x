@@ -5326,4 +5326,2007 @@ tree 識別名情報 = {
 			英名 = "DB Item 3",
 		},
 	},
+	短縮英名 = {
+		"テストアイテム" = {
+			英名 = "Test Item",
+		},
+		"テストキャラ" = {
+			英名 = "Test Character",
+		},
+		"ランス" = {
+			英名 = "Rance",
+		},
+		"ビスケッタ" = {
+			英名 = "Biscuitta",
+		},
+		"クリン" = {
+			英名 = "Klean",
+		},
+		"ハイジ" = {
+			英名 = "Heidi",
+		},
+		"ロナ" = {
+			英名 = "Rona",
+		},
+		"将軍内に居た女１" = {
+			英名 = "Monster General's Girl 1",
+		},
+		"将軍内に居た女２" = {
+			英名 = "Monster General's Girl 2",
+		},
+		"将軍内に居た女３" = {
+			英名 = "Monster General's Girl 3",
+		},
+		"将軍内に居た女４" = {
+			英名 = "Monster General's Girl 4",
+		},
+		"将軍内に居た女５" = {
+			英名 = "Monster General's Girl 5",
+		},
+		"将軍内に居た女６" = {
+			英名 = "Monster General's Girl 6",
+		},
+		"将軍内に居た女７" = {
+			英名 = "Monster General's Girl 7",
+		},
+		"将軍内に居た女８" = {
+			英名 = "Monster General's Girl 8",
+		},
+		"将軍内に居た女９" = {
+			英名 = "Monster General's Girl 9",
+		},
+		"将軍内に居た女１０" = {
+			英名 = "Monster General's Girl 10",
+		},
+		"将軍内に居た女１１" = {
+			英名 = "Monster General's Girl 11",
+		},
+		"将軍内に居た女１２" = {
+			英名 = "Monster General's Girl 12",
+		},
+		"クゥ" = {
+			英名 = "Cu",
+		},
+		"魔剣 カオス" = {
+			英名 = "Demon Sword Chaos",
+		},
+		"究極うさぎ鍋" = {
+			英名 = "Ultimate Rabbit Pot",
+		},
+		"シルキィメダル" = {
+			英名 = "Silky Medallion",
+		},
+		"ハウゼルメダル" = {
+			英名 = "Hawzel Medallion",
+		},
+		"レキシントンメダル" = {
+			英名 = "Lexington Medallion",
+		},
+		"バボラメダル" = {
+			英名 = "Babolat Medallion",
+		},
+		"ケッセルリンクメダル" = {
+			英名 = "Kesselring Medallion",
+		},
+		"ガルティアメダル" = {
+			英名 = "Galtia Medallion",
+		},
+		"メディウサメダル" = {
+			英名 = "Medusa Medallion",
+		},
+		"レイメダル" = {
+			英名 = "Lei Medallion",
+		},
+		"パイアールメダル" = {
+			英名 = "Pi-R Medallion",
+		},
+		"ワーグメダル" = {
+			英名 = "Warg Medallion",
+		},
+		"ケイブリスメダル" = {
+			英名 = "Kayblis Medallion",
+		},
+		"ますぞえメダル" = {
+			英名 = "Masuzoe Medallion",
+		},
+		"かわぞえメダル" = {
+			英名 = "Kawazoe Medallion",
+		},
+		"ヨシフメダル" = {
+			英名 = "Joseph Medallion",
+		},
+		"ルメイメダル" = {
+			英名 = "LeMay Medallion",
+		},
+		"ツォトンメダル" = {
+			英名 = "Zedong Medallion",
+		},
+		"ピサロメダル" = {
+			英名 = "Pizarro Medallion",
+		},
+		"ジャハルッカスの爪" = {
+			英名 = "Jhahlckas Claw",
+		},
+		"バンオペタの証Ｂ" = {
+			英名 = "Ban Opeta's License B",
+		},
+		"バンオペタの証Ａ" = {
+			英名 = "Ban Opeta's License A",
+		},
+		"宝剣イングランド" = {
+			英名 = "Treasured Sword England",
+		},
+		"鏡餅" = {
+			英名 = "Mirror Mochi",
+		},
+		"ＣＩＴＹの看板" = {
+			英名 = "CITY Billboard",
+		},
+		"海の思い出" = {
+			英名 = "Memories of the Sea",
+		},
+		"高級巻き尺" = {
+			英名 = "High-Grade Tape Measure",
+		},
+		"ひまわり型黄金像" = {
+			英名 = "Sunflower Golden Statue",
+		},
+		"ひょうたん型黄金像" = {
+			英名 = "Gourd Golden Statue",
+		},
+		"盆栽型黄金像" = {
+			英名 = "Bonsai Golden Statue",
+		},
+		"言わ猿型黄金像" = {
+			英名 = "Speak-No-Evil Monkey Golden Statue",
+		},
+		"ＫＤ挑戦権" = {
+			英名 = "KD Challenge Ticket",
+		},
+		"ヒラミレモン" = {
+			英名 = "Hirami Lemons",
+		},
+		"男の友情" = {
+			英名 = "Male Friendship",
+		},
+		"上級天使のブラ" = {
+			英名 = "High-Class Angel's Bra",
+		},
+		"緑の瓶" = {
+			英名 = "Green Bottle",
+		},
+		"タロコンソード" = {
+			英名 = "Talcom Sword",
+		},
+		"タロコン機関" = {
+			英名 = "Talcom Engine",
+		},
+		"鋼鉄黒飴貝" = {
+			英名 = "Blacksteel Shell",
+		},
+		"エリザベート" = {
+			英名 = "Elizabeth",
+		},
+		"へケート" = {
+			英名 = "Hecette",
+		},
+		"シィル" = {
+			英名 = "Sill",
+		},
+		"あてな２号" = {
+			英名 = "Athena 2.0",
+		},
+		"量産型あてな２号" = {
+			英名 = "Mass-Produced Athena 2.0",
+		},
+		"フロストバイン" = {
+			英名 = "Frostbain",
+		},
+		"タマ" = {
+			英名 = "Tama",
+		},
+		"クレイン" = {
+			英名 = "Crane",
+		},
+		"ミラクル" = {
+			英名 = "Miracle",
+		},
+		"ミステリア" = {
+			英名 = "Mysteria",
+		},
+		"カフェ" = {
+			英名 = "Cafe",
+		},
+		"サーナキア" = {
+			英名 = "Sanakia",
+		},
+		"アルカネーゼ" = {
+			英名 = "Alkanese",
+		},
+		"キバ子" = {
+			英名 = "Kibako",
+		},
+		"キャロリ" = {
+			英名 = "Carolie",
+		},
+		"アタゴ" = {
+			英名 = "Atago",
+		},
+		"カロリア" = {
+			英名 = "Caloria",
+		},
+		"ノア" = {
+			英名 = "Noah",
+		},
+		"日光" = {
+			英名 = "Nikkou",
+		},
+		"ルート" = {
+			英名 = "Root",
+		},
+		"アームズ" = {
+			英名 = "Arms",
+		},
+		"クルーチェ" = {
+			英名 = "Krutche",
+		},
+		"ウルンセルの刃" = {
+			英名 = "Urunsel Blade",
+		},
+		"世界純金ベアー" = {
+			英名 = "Pure Gold Bear",
+		},
+		"シィルの杖" = {
+			英名 = "Sill's Wand",
+		},
+		"ウニセフの旗" = {
+			英名 = "Flag of UNICEF",
+		},
+		"聖書" = {
+			英名 = "Holy Book",
+		},
+		"高級うし車" = {
+			英名 = "Luxurious Cow Carriage",
+		},
+		"精鋭荷駄隊" = {
+			英名 = "Elite Logistics Corps",
+		},
+		"部隊司令部" = {
+			英名 = "Force Command",
+		},
+		"リア" = {
+			英名 = "Lia",
+		},
+		"マリス" = {
+			英名 = "Maris",
+		},
+		"アールコート" = {
+			英名 = "Arlcoate",
+		},
+		"バレス" = {
+			英名 = "Barres",
+		},
+		"ハウレーン" = {
+			英名 = "Haurein",
+		},
+		"スー" = {
+			英名 = "Sioux",
+		},
+		"コルドバ" = {
+			英名 = "Cordoba",
+		},
+		"リック" = {
+			英名 = "Rick",
+		},
+		"キンケード" = {
+			英名 = "Kinkaid",
+		},
+		"メナド" = {
+			英名 = "Menad",
+		},
+		"エクス" = {
+			英名 = "Ex",
+		},
+		"チルディ" = {
+			英名 = "Tilde",
+		},
+		"レイラ" = {
+			英名 = "Leila",
+		},
+		"ジュリア" = {
+			英名 = "Julia",
+		},
+		"チャカ" = {
+			英名 = "Chaka",
+		},
+		"メルフェイス" = {
+			英名 = "Melfeis",
+		},
+		"かなみ" = {
+			英名 = "Kanami",
+		},
+		"あおい" = {
+			英名 = "Aoi",
+		},
+		"オーギル" = {
+			英名 = "Ogier",
+		},
+		"イベット" = {
+			英名 = "Yvette",
+		},
+		"リーザス聖剣" = {
+			英名 = "Leazas Holy Sword",
+		},
+		"ペルシオン" = {
+			英名 = "Prussian",
+		},
+		"タツノオトシドコロ" = {
+			英名 = "Seahorses",
+		},
+		"調教バイブル" = {
+			英名 = "Training Bible",
+		},
+		"リーザスの旗" = {
+			英名 = "Flag of Leazas",
+		},
+		"王家の歴史書" = {
+			英名 = "Royal Family History Book",
+		},
+		"シーラ" = {
+			英名 = "Sheila",
+		},
+		"ペルエレ" = {
+			英名 = "Peruele",
+		},
+		"クリーム" = {
+			英名 = "Cream",
+		},
+		"ヒューバート" = {
+			英名 = "Hubert",
+		},
+		"ロレックス" = {
+			英名 = "Rolex",
+		},
+		"アミトス" = {
+			英名 = "Amitos",
+		},
+		"オルオレ" = {
+			英名 = "Oruore",
+		},
+		"トルストイ" = {
+			英名 = "Tolstoy",
+		},
+		"フレイア" = {
+			英名 = "Freya",
+		},
+		"闇鷺" = {
+			英名 = "Dark Heron",
+		},
+		"アナセル" = {
+			英名 = "Anasel",
+		},
+		"ルーベラン" = {
+			英名 = "Ruberan",
+		},
+		"メリム" = {
+			英名 = "Merim",
+		},
+		"パットン" = {
+			英名 = "Patton",
+		},
+		"サムソン" = {
+			英名 = "Samson",
+		},
+		"デストラー" = {
+			英名 = "Destora",
+		},
+		"イオ" = {
+			英名 = "Io",
+		},
+		"ピグ" = {
+			英名 = "Pigu",
+		},
+		"透琳" = {
+			英名 = "Tourin",
+		},
+		"ヘルマン石壁" = {
+			英名 = "Helman Stone Wall",
+		},
+		"ストロンガー" = {
+			英名 = "Stronger",
+		},
+		"真・守り神様" = {
+			英名 = "True Guardian Deity",
+		},
+		"ヘルマンの旗" = {
+			英名 = "Flag of Helman",
+		},
+		"ザナゲスサーガー" = {
+			英名 = "Zanageth Saga",
+		},
+		"マジック" = {
+			英名 = "Magic",
+		},
+		"ウルザ" = {
+			英名 = "Urza",
+		},
+		"千鶴子" = {
+			英名 = "Chizuko",
+		},
+		"アニス" = {
+			英名 = "Anise",
+		},
+		"ガンジー" = {
+			英名 = "Gandhi",
+		},
+		"カオル" = {
+			英名 = "Kaoru",
+		},
+		"ウィチタ" = {
+			英名 = "Wichita",
+		},
+		"リズナ" = {
+			英名 = "Rizna",
+		},
+		"アレックス" = {
+			英名 = "Alex",
+		},
+		"サイアス" = {
+			英名 = "Saias",
+		},
+		"ウスピラ" = {
+			英名 = "Uspira",
+		},
+		"カバッハーン" = {
+			英名 = "Kabachahn",
+		},
+		"ネルソン" = {
+			英名 = "Nelson",
+		},
+		"パパイア" = {
+			英名 = "Papaya",
+		},
+		"パセリ" = {
+			英名 = "Parsley",
+		},
+		"エロピチャ" = {
+			英名 = "Eropicha",
+		},
+		"花屋エレナ" = {
+			英名 = "Florist Elena",
+		},
+		"エレナ" = {
+			英名 = "Elena",
+		},
+		"マルチナ" = {
+			英名 = "Martina",
+		},
+		"ロッキー" = {
+			英名 = "Rocky",
+		},
+		"キムチ" = {
+			英名 = "Kimchi",
+		},
+		"チョチョマン" = {
+			英名 = "Chochoman",
+		},
+		"ソルトアン" = {
+			英名 = "Sorutoan",
+		},
+		"ブラックロータス" = {
+			英名 = "Black Lotus",
+		},
+		"プリマ" = {
+			英名 = "Prima",
+		},
+		"メガデス" = {
+			英名 = "Megadeath",
+		},
+		"セスナ" = {
+			英名 = "Cessna",
+		},
+		"マジックウール" = {
+			英名 = "Magic Wool",
+		},
+		"コメットさん" = {
+			英名 = "Comet-san",
+		},
+		"愛フォーン９" = {
+			英名 = "Ai Horn 9",
+		},
+		"ゼスの旗" = {
+			英名 = "Flag of Zeth",
+		},
+		"中級魔導書" = {
+			英名 = "Guide to Intermediate Magic",
+		},
+		"コパンドン" = {
+			英名 = "Copandon",
+		},
+		"ユーティン" = {
+			英名 = "Yutin",
+		},
+		"セシル" = {
+			英名 = "Cecil",
+		},
+		"篠田源五郎" = {
+			英名 = "Shinoda Gengorou",
+		},
+		"子供志津香" = {
+			英名 = "Young Shizuka",
+		},
+		"子供ナギ" = {
+			英名 = "Young Nagi",
+		},
+		"マリア" = {
+			英名 = "Maria",
+		},
+		"香澄" = {
+			英名 = "Kasumi",
+		},
+		"エレノア" = {
+			英名 = "Eleanor",
+		},
+		"ミル" = {
+			英名 = "Mill",
+		},
+		"ピッテン" = {
+			英名 = "Pitten",
+		},
+		"ポロン" = {
+			英名 = "Poron",
+		},
+		"メアリー" = {
+			英名 = "Mary",
+		},
+		"ヌヌハラ" = {
+			英名 = "Nunuhara",
+		},
+		"カチューシャ" = {
+			英名 = "Katyusha",
+		},
+		"少女カチューシャ" = {
+			英名 = "Maiden Katyusha",
+		},
+		"パパデマス" = {
+			英名 = "Papademas",
+		},
+		"パトリシア" = {
+			英名 = "Patricia",
+		},
+		"ビヨンホウ" = {
+			英名 = "Biyonhou",
+		},
+		"ペスポ" = {
+			英名 = "Pespo",
+		},
+		"ドエススキー" = {
+			英名 = "Doessky",
+		},
+		"バーナード" = {
+			英名 = "Bernard",
+		},
+		"シルバレル" = {
+			英名 = "Silbarrel",
+		},
+		"オノハ" = {
+			英名 = "Onoha",
+		},
+		"アマデス" = {
+			英名 = "Amades",
+		},
+		"イアン" = {
+			英名 = "Ian",
+		},
+		"クルックー" = {
+			英名 = "Crook",
+		},
+		"ロードリング" = {
+			英名 = "Lordring",
+		},
+		"サチコ" = {
+			英名 = "Sachiko",
+		},
+		"セル" = {
+			英名 = "Sel",
+		},
+		"アム" = {
+			英名 = "Am",
+		},
+		"ＢＳ" = {
+			英名 = "BS",
+		},
+		"恐怖の槍" = {
+			英名 = "Spear of Terror",
+		},
+		"３段ロケットエンジン" = {
+			英名 = "Three-stage Rocket Engine",
+		},
+		"チューリップ兵" = {
+			英名 = "Tulip Corps",
+		},
+		"チューリップ２号" = {
+			英名 = "Tulip No.2",
+		},
+		"チューリップ３号Ｈ" = {
+			英名 = "Tulip No.3 H",
+		},
+		"アスカのパンツ" = {
+			英名 = "Asuka's Panties",
+		},
+		"自由の旗" = {
+			英名 = "Free Cities Flag",
+		},
+		"独立宣言書" = {
+			英名 = "Declaration of Independence",
+		},
+		"法王のアリス像" = {
+			英名 = "Pope's ALICE Statuette",
+		},
+		"司教のアリス像" = {
+			英名 = "Bishop's ALICE Statuette",
+		},
+		"司祭のアリス像" = {
+			英名 = "Priest's ALICE Statuette",
+		},
+		"香姫" = {
+			英名 = "Kouhime",
+		},
+		"３Ｇ" = {
+			英名 = "3G",
+		},
+		"てる" = {
+			英名 = "Teru",
+		},
+		"きく" = {
+			英名 = "Kiku",
+		},
+		"ちぬ" = {
+			英名 = "Chinu",
+		},
+		"謙信" = {
+			英名 = "Kenshin",
+		},
+		"愛" = {
+			英名 = "Ai",
+		},
+		"勝子" = {
+			英名 = "Katsuko",
+		},
+		"虎子" = {
+			英名 = "Torako",
+		},
+		"義景" = {
+			英名 = "Yoshikage",
+		},
+		"千姫" = {
+			英名 = "Senhime",
+		},
+		"柚美" = {
+			英名 = "Yuzumi",
+		},
+		"早雲" = {
+			英名 = "Souun",
+		},
+		"五十六" = {
+			英名 = "Isoroku",
+		},
+		"政宗" = {
+			英名 = "Masamune",
+		},
+		"お町" = {
+			英名 = "Omachi",
+		},
+		"ノワール" = {
+			英名 = "Noir",
+		},
+		"野菊" = {
+			英名 = "Nogiku",
+		},
+		"折女" = {
+			英名 = "Orime",
+		},
+		"黒部" = {
+			英名 = "Kurobe",
+		},
+		"紀伊" = {
+			英名 = "Kii",
+		},
+		"乳久里" = {
+			英名 = "Chikuri",
+		},
+		"鈴女" = {
+			英名 = "Suzume",
+		},
+		"帝ハチマキ" = {
+			英名 = "Emperor's Hachimaki",
+		},
+		"ドラゴン手袋" = {
+			英名 = "Dragon Gloves",
+		},
+		"新品もじゃ人形" = {
+			英名 = "Brand New Moja Doll",
+		},
+		"オロチの牙" = {
+			英名 = "Orochi's Fang",
+		},
+		"妖怪宝具" = {
+			英名 = "Youkai Treasure",
+		},
+		"日の丸" = {
+			英名 = "Flag of JAPAN",
+		},
+		"日本昔話" = {
+			英名 = "Old Japanese Tales",
+		},
+		"パステル" = {
+			英名 = "Pastel",
+		},
+		"リセット" = {
+			英名 = "Reset",
+		},
+		"サクラ" = {
+			英名 = "Sakura",
+		},
+		"イージス" = {
+			英名 = "Aegis",
+		},
+		"フル" = {
+			英名 = "Full",
+		},
+		"ビビッド" = {
+			英名 = "Vivid",
+		},
+		"モダン" = {
+			英名 = "Modern",
+		},
+		"三菱王" = {
+			英名 = "King Mitsubishi",
+		},
+		"満鉄王" = {
+			英名 = "King Mantetsu",
+		},
+		"日立姫" = {
+			英名 = "Princess Hitachi",
+		},
+		"東芝王子" = {
+			英名 = "Prince Toshiba",
+		},
+		"ハンティ" = {
+			英名 = "Hunty",
+		},
+		"キャンテル" = {
+			英名 = "Cantel",
+		},
+		"ゼータ" = {
+			英名 = "Zeta",
+		},
+		"シグマ" = {
+			英名 = "Sigma",
+		},
+		"プルーペット" = {
+			英名 = "Pluepet",
+		},
+		"メガッス" = {
+			英名 = "Megas",
+		},
+		"メガワス" = {
+			英名 = "Megawas",
+		},
+		"メガフォース" = {
+			英名 = "Megaforce",
+		},
+		"テラ" = {
+			英名 = "Terra",
+		},
+		"アカシロ" = {
+			英名 = "Akashiro",
+		},
+		"アスベスト" = {
+			英名 = "Asbestos",
+		},
+		"シャリエラ" = {
+			英名 = "Shariela",
+		},
+		"仏陀" = {
+			英名 = "Buddha",
+		},
+		"中元避け茶漬け" = {
+			英名 = "Chuugenzake Chazuke",
+		},
+		"カラー国旗" = {
+			英名 = "Kalar Flag",
+		},
+		"チワワの飼い方" = {
+			英名 = "How to Care for a Chihuahua",
+		},
+		"ドラゴンの加護" = {
+			英名 = "Draconic Protection",
+		},
+		"カラーの秘宝" = {
+			英名 = "Kalar Treasure",
+		},
+		"材料Ａ" = {
+			英名 = "Material A",
+		},
+		"材料Ｂ" = {
+			英名 = "Material B",
+		},
+		"材料Ｃ" = {
+			英名 = "Material C",
+		},
+		"きゃんきゃん" = {
+			英名 = "Can Can",
+		},
+		"幸福きゃんきゃん" = {
+			英名 = "Lucky Can Can",
+		},
+		"９７チハ" = {
+			英名 = "97 Chi-ha",
+		},
+		"ラルカット" = {
+			英名 = "Ralcat",
+		},
+		"メイドさん" = {
+			英名 = "Maid-san",
+		},
+		"フローズン" = {
+			英名 = "Frozen",
+		},
+		"マジスコ" = {
+			英名 = "Magisko",
+		},
+		"バルキリー" = {
+			英名 = "Valkyrie",
+		},
+		"神風" = {
+			英名 = "Kamikaze",
+		},
+		"ハチ女" = {
+			英名 = "Bee Girl",
+		},
+		"はいからちゃん" = {
+			英名 = "Haikara-chan",
+		},
+		"シャチ子" = {
+			英名 = "Shachiko",
+		},
+		"ガルバン" = {
+			英名 = "Galban",
+		},
+		"めぽら" = {
+			英名 = "Mepora",
+		},
+		"上野花子" = {
+			英名 = "Ueno Hanako",
+		},
+		"ミイラン" = {
+			英名 = "Myiran",
+		},
+		"鉄腕ラブル" = {
+			英名 = "Mighty-armed Rabble",
+		},
+		"男装女" = {
+			英名 = "Crossdresser",
+		},
+		"体育スター" = {
+			英名 = "Athletic Star",
+		},
+		"手裏剣使い" = {
+			英名 = "Shuriken User",
+		},
+		"ラカン" = {
+			英名 = "Rakan",
+		},
+		"王様" = {
+			英名 = "King",
+		},
+		"学者" = {
+			英名 = "Scholar",
+		},
+		"マッスル" = {
+			英名 = "Muscle",
+		},
+		"ニードル" = {
+			英名 = "Needle",
+		},
+		"アパッチ" = {
+			英名 = "Apache",
+		},
+		"剣豪" = {
+			英名 = "Kengo",
+		},
+		"ハニ子" = {
+			英名 = "Haniko",
+		},
+		"ハニーキング" = {
+			英名 = "Hanny King",
+		},
+		"グリーンハニー" = {
+			英名 = "Green Hanny",
+		},
+		"ブルーハニー" = {
+			英名 = "Blue Hanny",
+		},
+		"レッドハニー" = {
+			英名 = "Red Hanny",
+		},
+		"拷問戦士" = {
+			英名 = "Torture Warrior",
+		},
+		"イカマン" = {
+			英名 = "Squidman",
+		},
+		"メイジマン" = {
+			英名 = "Mage Man",
+		},
+		"ヤンキー" = {
+			英名 = "Yankee",
+		},
+		"ポリマン" = {
+			英名 = "Polyman",
+		},
+		"スカイ目玉" = {
+			英名 = "Sky Eyeball",
+		},
+		"ダイコン役者" = {
+			英名 = "Daikon Actor",
+		},
+		"さけび男" = {
+			英名 = "Scream Guy",
+		},
+		"アイロンヘッド" = {
+			英名 = "Ironhead",
+		},
+		"オッズ" = {
+			英名 = "Oz",
+		},
+		"サイクロナイト" = {
+			英名 = "Cycloknight",
+		},
+		"ノーススラッグ" = {
+			英名 = "North Slug",
+		},
+		"ナイトホラー" = {
+			英名 = "Night Horror",
+		},
+		"ラブミーテンダー" = {
+			英名 = "Love Me Tender",
+		},
+		"ポリザウルス" = {
+			英名 = "Polysaurus",
+		},
+		"マグボール" = {
+			英名 = "Magball",
+		},
+		"ぬぼぼ" = {
+			英名 = "Nubobo",
+		},
+		"フライング甘食" = {
+			英名 = "Flying Sweets",
+		},
+		"おかゆフィーバー" = {
+			英名 = "Okayu Fever",
+		},
+		"首狩りマサオ" = {
+			英名 = "Headhunter Masao",
+		},
+		"ストーンＧ" = {
+			英名 = "Stone G",
+		},
+		"魔物兵１号" = {
+			英名 = "1st Monster Corps",
+		},
+		"魔物兵２号" = {
+			英名 = "2nd Monster Corps",
+		},
+		"魔物兵３号" = {
+			英名 = "3rd Monster Corps",
+		},
+		"魔物兵４号" = {
+			英名 = "4th Monster Corps",
+		},
+		"命の次世代魔物" = {
+			英名 = "Next-Gen Monster of Life",
+		},
+		"大地の次世代魔物" = {
+			英名 = "Next-Gen Monster of Earth",
+		},
+		"時の次世代魔物" = {
+			英名 = "Next-Gen Monster of Time",
+		},
+		"力の次世代魔物" = {
+			英名 = "Next-Gen Monster of Strength",
+		},
+		"非売品ゲーモッチ" = {
+			英名 = "Not-for-Sale Gemotchi",
+		},
+		"衝撃のあるベルト" = {
+			英名 = "Belt with Impact",
+		},
+		"赤色の円柱" = {
+			英名 = "Red Cylinder",
+		},
+		"青色の円柱" = {
+			英名 = "Blue Cylinder",
+		},
+		"命の卵" = {
+			英名 = "Egg of Life",
+		},
+		"大地の卵" = {
+			英名 = "Egg of Earth",
+		},
+		"時の卵" = {
+			英名 = "Egg of Time",
+		},
+		"力の卵" = {
+			英名 = "Egg of Strength",
+		},
+		"マエリータ隊" = {
+			英名 = "Maelita Squad",
+		},
+		"全魔物大百科" = {
+			英名 = "Monster Encyclopedia",
+		},
+		"タイニリーチＡ" = {
+			英名 = "Tiny Leech A",
+		},
+		"タイニリーチＢ" = {
+			英名 = "Tiny Leech B",
+		},
+		"タイニリーチＣ" = {
+			英名 = "Tiny Leech C",
+		},
+		"タイニリーチＤ" = {
+			英名 = "Tiny Leech D",
+		},
+		"タイニリーチＥ" = {
+			英名 = "Tiny Leech E",
+		},
+		"機々械々" = {
+			英名 = "Kigikaigai",
+		},
+		"ルーシー" = {
+			英名 = "Lucy",
+		},
+		"アーシー" = {
+			英名 = "Arcy",
+		},
+		"マーシー" = {
+			英名 = "Mercy",
+		},
+		"健太郎" = {
+			英名 = "Kentarou",
+		},
+		"美樹" = {
+			英名 = "Miki",
+		},
+		"サテラ" = {
+			英名 = "Satella",
+		},
+		"シーザー" = {
+			英名 = "Caesar",
+		},
+		"ハウゼル" = {
+			英名 = "Hawzel",
+		},
+		"サイゼル" = {
+			英名 = "Seizel",
+		},
+		"火炎書士" = {
+			英名 = "Flame Scrivener",
+		},
+		"ユキちゃん" = {
+			英名 = "Yuki-chan",
+		},
+		"アトランタ" = {
+			英名 = "Atlanta",
+		},
+		"ジュノー" = {
+			英名 = "Juno",
+		},
+		"オーロラ" = {
+			英名 = "Aurora",
+		},
+		"ワーグ" = {
+			英名 = "Warg",
+		},
+		"ホーネット" = {
+			英名 = "Hornet",
+		},
+		"ガルティア" = {
+			英名 = "Galtia",
+		},
+		"ラウネア" = {
+			英名 = "Launea",
+		},
+		"タルゴ" = {
+			英名 = "Thalgo",
+		},
+		"サメザン" = {
+			英名 = "Samezan",
+		},
+		"レイ" = {
+			英名 = "Lei",
+		},
+		"パイアールロボ" = {
+			英名 = "Pi-R Robot",
+		},
+		"女ケッセルリンク" = {
+			英名 = "Female Kesselring",
+		},
+		"パレロア" = {
+			英名 = "Paleloa",
+		},
+		"バーバラ" = {
+			英名 = "Barbara",
+		},
+		"ファーレン" = {
+			英名 = "Varen",
+		},
+		"シャロン" = {
+			英名 = "Sharon",
+		},
+		"エルシール" = {
+			英名 = "Elsill",
+		},
+		"加奈代" = {
+			英名 = "Kanayo",
+		},
+		"リリム" = {
+			英名 = "Lilim",
+		},
+		"アルカリア" = {
+			英名 = "Alcarria",
+		},
+		"フェリス" = {
+			英名 = "Feliss",
+		},
+		"ウィリス" = {
+			英名 = "Willis",
+		},
+		"ミカン" = {
+			英名 = "Mikan",
+		},
+		"ケイブニャン" = {
+			英名 = "Kaybnyan",
+		},
+		"ケイブワン" = {
+			英名 = "Kaybwan",
+		},
+		"ベゼルアイ大" = {
+			英名 = "Bezeleye (Large)",
+		},
+		"ベゼルアイ小" = {
+			英名 = "Bezeleye (Small)",
+		},
+		"ハウセスナース大" = {
+			英名 = "Housesnurse (Large)",
+		},
+		"ハウセスナース小" = {
+			英名 = "Housesnurse (Small)",
+		},
+		"ウェンリーナー大" = {
+			英名 = "Wenlina (Large)",
+		},
+		"ウェンリーナー小" = {
+			英名 = "Wenlina (Small)",
+		},
+		"セラクロラス大" = {
+			英名 = "Serachrolas (Large)",
+		},
+		"セラクロラス小" = {
+			英名 = "Serachrolas (Small)",
+		},
+		"日光刀" = {
+			英名 = "Nikkou Blade",
+		},
+		"耐性宝冠アレル" = {
+			英名 = "Crown of Resistance Alelu",
+		},
+		"父" = {
+			英名 = "Father",
+		},
+		"母" = {
+			英名 = "Mother",
+		},
+		"少女" = {
+			英名 = "Girl",
+		},
+		"Lv20 戦士" = {
+			英名 = "Lv20 Warrior",
+		},
+		"Lv25 戦士" = {
+			英名 = "Lv25 Warrior",
+		},
+		"Lv30 戦士" = {
+			英名 = "Lv30 Warrior",
+		},
+		"Lv35 戦士" = {
+			英名 = "Lv35 Warrior",
+		},
+		"Lv40 戦士" = {
+			英名 = "Lv40 Warrior",
+		},
+		"Lv66 戦士" = {
+			英名 = "Lv66 Warrior",
+		},
+		"Lv20 弓兵" = {
+			英名 = "Lv20 Archer",
+		},
+		"Lv25 弓兵" = {
+			英名 = "Lv25 Archer",
+		},
+		"Lv30 弓兵" = {
+			英名 = "Lv30 Archer",
+		},
+		"Lv35 弓兵" = {
+			英名 = "Lv35 Archer",
+		},
+		"Lv40 弓兵" = {
+			英名 = "Lv40 Archer",
+		},
+		"Lv66 弓兵" = {
+			英名 = "Lv66 Archer",
+		},
+		"Lv20 魔法使い" = {
+			英名 = "Lv20 Wizard",
+		},
+		"Lv25 魔法使い" = {
+			英名 = "Lv25 Wizard",
+		},
+		"Lv30 魔法使い" = {
+			英名 = "Lv30 Wizard",
+		},
+		"Lv35 魔法使い" = {
+			英名 = "Lv35 Wizard",
+		},
+		"Lv40 魔法使い" = {
+			英名 = "Lv40 Wizard",
+		},
+		"Lv66 魔法使い" = {
+			英名 = "Lv66 Wizard",
+		},
+		"Lv25 警備兵" = {
+			英名 = "Lv25 Guardsman",
+		},
+		"Lv30 警備兵" = {
+			英名 = "Lv30 Guardsman",
+		},
+		"Lv33 警備兵" = {
+			英名 = "Lv33 Guardsman",
+		},
+		"Lv35 警備兵" = {
+			英名 = "Lv35 Guardsman",
+		},
+		"Lv40 警備兵" = {
+			英名 = "Lv40 Guardsman",
+		},
+		"Lv25 ランス城騎士" = {
+			英名 = "Lv25 Rance Castle Knight",
+		},
+		"Lv30 ランス城騎士" = {
+			英名 = "Lv30 Rance Castle Knight",
+		},
+		"Lv33 ランス城騎士" = {
+			英名 = "Lv33 Rance Castle Knight",
+		},
+		"Lv35 ランス城騎士" = {
+			英名 = "Lv35 Rance Castle Knight",
+		},
+		"Lv40 ランス城騎士" = {
+			英名 = "Lv40 Rance Castle Knight",
+		},
+		"Lv30 テンプルナイト" = {
+			英名 = "Lv30 Templar Knight",
+		},
+		"Lv33 テンプルナイト" = {
+			英名 = "Lv33 Templar Knight",
+		},
+		"Lv35 テンプルナイト" = {
+			英名 = "Lv35 Templar Knight",
+		},
+		"Lv40 テンプルナイト" = {
+			英名 = "Lv40 Templar Knight",
+		},
+		"Lv45 テンプルナイト" = {
+			英名 = "Lv45 Templar Knight",
+		},
+		"Lv40 リーザス赤騎士" = {
+			英名 = "Lv40 Leazas Red Knight",
+		},
+		"Lv40 リーザス白騎士" = {
+			英名 = "Lv40 Leazas White Knight",
+		},
+		"Lv40 リーザス青騎士" = {
+			英名 = "Lv40 Leazas Blue Knight",
+		},
+		"Lv40 リーザス黒騎士" = {
+			英名 = "Lv40 Leazas Black Knight",
+		},
+		"Lv50 リーザス黒騎士" = {
+			英名 = "Lv50 Leazas Black Knight",
+		},
+		"Lv30 リーザス赤兵" = {
+			英名 = "Lv30 Leazas Red Corps",
+		},
+		"Lv30 リーザス黒兵" = {
+			英名 = "Lv30 Leazas Black Corps",
+		},
+		"Lv30 リーザス青兵" = {
+			英名 = "Lv30 Leazas Blue Corps",
+		},
+		"Lv30 リーザス白兵" = {
+			英名 = "Lv30 Leazas White Corps",
+		},
+		"Lv40 リーザス白兵" = {
+			英名 = "Lv40 Leazas White Corps",
+		},
+		"Lv10 親衛隊" = {
+			英名 = "Lv10 Royal Guard",
+		},
+		"Lv25 親衛隊" = {
+			英名 = "Lv25 Royal Guard",
+		},
+		"Lv30 親衛隊" = {
+			英名 = "Lv30 Royal Guard",
+		},
+		"Lv35 親衛隊" = {
+			英名 = "Lv35 Royal Guard",
+		},
+		"Lv40 親衛隊" = {
+			英名 = "Lv40 Royal Guard",
+		},
+		"Lv30 ヘルマン騎士" = {
+			英名 = "Lv30 Helman Knight",
+		},
+		"Lv33 ヘルマン騎士" = {
+			英名 = "Lv33 Helman Knight",
+		},
+		"Lv35 ヘルマン騎士" = {
+			英名 = "Lv35 Helman Knight",
+		},
+		"Lv40 ヘルマン騎士" = {
+			英名 = "Lv40 Helman Knight",
+		},
+		"Lv45 ヘルマン騎士" = {
+			英名 = "Lv45 Helman Knight",
+		},
+		"Lv30 魔物使い" = {
+			英名 = "Lv30 Monster Trainer",
+		},
+		"Lv33 魔物使い" = {
+			英名 = "Lv33 Monster Trainer",
+		},
+		"Lv35 魔物使い" = {
+			英名 = "Lv35 Monster Trainer",
+		},
+		"Lv40 魔物使い" = {
+			英名 = "Lv40 Monster Trainer",
+		},
+		"Lv45 魔物使い" = {
+			英名 = "Lv45 Monster Trainer",
+		},
+		"Lv35 ゼス女魔法兵" = {
+			英名 = "Lv35 Zeth Female Wizard Corps",
+		},
+		"Lv36 ゼス女魔法兵" = {
+			英名 = "Lv36 Zeth Female Wizard Corps",
+		},
+		"Lv37 ゼス女魔法兵" = {
+			英名 = "Lv37 Zeth Female Wizard Corps",
+		},
+		"Lv38 ゼス女魔法兵" = {
+			英名 = "Lv38 Zeth Female Wizard Corps",
+		},
+		"Lv39 ゼス女魔法兵" = {
+			英名 = "Lv39 Zeth Female Wizard Corps",
+		},
+		"Lv35 ゼス男魔法兵" = {
+			英名 = "Lv35 Zeth Male Wizard Corps",
+		},
+		"Lv36 ゼス男魔法兵" = {
+			英名 = "Lv36 Zeth Male Wizard Corps",
+		},
+		"Lv37 ゼス男魔法兵" = {
+			英名 = "Lv37 Zeth Male Wizard Corps",
+		},
+		"Lv38 ゼス男魔法兵" = {
+			英名 = "Lv38 Zeth Male Wizard Corps",
+		},
+		"Lv39 ゼス男魔法兵" = {
+			英名 = "Lv39 Zeth Male Wizard Corps",
+		},
+		"Lv30 男武士" = {
+			英名 = "Lv30 Male Samurai",
+		},
+		"Lv33 男武士" = {
+			英名 = "Lv33 Male Samurai",
+		},
+		"Lv35 男武士" = {
+			英名 = "Lv35 Male Samurai",
+		},
+		"Lv40 男武士" = {
+			英名 = "Lv40 Male Samurai",
+		},
+		"Lv45 男武士" = {
+			英名 = "Lv45 Male Samurai",
+		},
+		"Lv30 女武士" = {
+			英名 = "Lv30 Female Samurai",
+		},
+		"Lv33 女武士" = {
+			英名 = "Lv33 Female Samurai",
+		},
+		"Lv35 女武士" = {
+			英名 = "Lv35 Female Samurai",
+		},
+		"Lv40 女武士" = {
+			英名 = "Lv40 Female Samurai",
+		},
+		"Lv45 女武士" = {
+			英名 = "Lv45 Female Samurai",
+		},
+		"Lv30 巫女" = {
+			英名 = "Lv30 Miko",
+		},
+		"Lv33 巫女" = {
+			英名 = "Lv33 Miko",
+		},
+		"Lv35 巫女" = {
+			英名 = "Lv35 Miko",
+		},
+		"Lv40 巫女" = {
+			英名 = "Lv40 Miko",
+		},
+		"Lv45 巫女" = {
+			英名 = "Lv45 Miko",
+		},
+		"Lv30 カラー" = {
+			英名 = "Lv30 Kalar",
+		},
+		"Lv33 カラー" = {
+			英名 = "Lv33 Kalar",
+		},
+		"Lv35 カラー" = {
+			英名 = "Lv35 Kalar",
+		},
+		"Lv40 カラー" = {
+			英名 = "Lv40 Kalar",
+		},
+		"Lv45 カラー" = {
+			英名 = "Lv45 Kalar",
+		},
+		"Lv30 ポピンズ" = {
+			英名 = "Lv30 Poppins",
+		},
+		"Lv33 ポピンズ" = {
+			英名 = "Lv33 Poppins",
+		},
+		"Lv35 ポピンズ" = {
+			英名 = "Lv35 Poppins",
+		},
+		"Lv40 ポピンズ" = {
+			英名 = "Lv40 Poppins",
+		},
+		"Lv45 ポピンズ" = {
+			英名 = "Lv45 Poppins",
+		},
+		"闘将Ａ" = {
+			英名 = "Tousho A",
+		},
+		"闘将Ｂ" = {
+			英名 = "Tousho B",
+		},
+		"闘将Ｃ" = {
+			英名 = "Tousho C",
+		},
+		"大野喜郎さん" = {
+			英名 = "Ohno Yoshiro-san",
+		},
+		"長堀橋貞夫君" = {
+			英名 = "Nagahoribashi Sadao-kun",
+		},
+		"東大寺久美" = {
+			英名 = "Todaiji Kumi",
+		},
+		"ランス２" = {
+			英名 = "Rance 2",
+		},
+		"ランス３" = {
+			英名 = "Rance 3",
+		},
+		"エール２" = {
+			英名 = "El 2",
+		},
+		"ウズメ２" = {
+			英名 = "Uzume 2",
+		},
+		"ミックス２" = {
+			英名 = "Mix 2",
+		},
+		"ザンス２" = {
+			英名 = "Zance 2",
+		},
+		"ドッス２" = {
+			英名 = "Doss 2",
+		},
+		"レリコフ２" = {
+			英名 = "Lelikov 2",
+		},
+		"ワッス２" = {
+			英名 = "Wass 2",
+		},
+		"スシヌ２" = {
+			英名 = "Sushinu 2",
+		},
+		"ロッキー２" = {
+			英名 = "Rocky 2",
+		},
+		"志津香２" = {
+			英名 = "Shizuka 2",
+		},
+		"ナギ２" = {
+			英名 = "Nagi 2",
+		},
+		"乱義２" = {
+			英名 = "Rangi 2",
+		},
+		"元就２" = {
+			英名 = "Motonari 2",
+		},
+		"リセット２" = {
+			英名 = "Reset 2",
+		},
+		"松下姫２" = {
+			英名 = "Princess Panasonic 2",
+		},
+		"深根２" = {
+			英名 = "Tone 2",
+		},
+		"長田君２" = {
+			英名 = "Nagata-kun 2",
+		},
+		"ヒーロー２" = {
+			英名 = "Hero 2",
+		},
+		"ダークランス２" = {
+			英名 = "Dark Rance 2",
+		},
+		"アームズ２" = {
+			英名 = "Arms 2",
+		},
+		"神官ソード" = {
+			英名 = "Priest Sword",
+		},
+		"神官冒険服" = {
+			英名 = "Priest Adventure Garb",
+		},
+		"法王の加護" = {
+			英名 = "Pope's Blessing",
+		},
+		"信じる心" = {
+			英名 = "Believing Heart",
+		},
+		"医学全集" = {
+			英名 = "Complete Works of Medicine",
+		},
+		"トー家の家紋" = {
+			英名 = "Tou Family Crest",
+		},
+		"かなみ忍法帳" = {
+			英名 = "Kanami Ninja Book",
+		},
+		"イカス服" = {
+			英名 = "Squid Clothes",
+		},
+		"巫女服" = {
+			英名 = "Shrine Maiden Garb",
+		},
+		"深根の鈴" = {
+			英名 = "Tone's Bell",
+		},
+		"グラム" = {
+			英名 = "Gram",
+		},
+		"マフラー" = {
+			英名 = "Muffler",
+		},
+		"従者の鎧" = {
+			英名 = "Servant's Armor",
+		},
+		"料理道具一式" = {
+			英名 = "Complete Set of Cooking Utensils",
+		},
+		"守護神パセリ" = {
+			英名 = "Guardian Spirit Parsley",
+		},
+		"勇気のペン" = {
+			英名 = "Pen of Courage",
+		},
+		"昭和の鉄骨" = {
+			英名 = "Showa Steel Beam",
+		},
+		"叔父のグローブ" = {
+			英名 = "Uncle's Gloves",
+		},
+		"ヒーローの卵片" = {
+			英名 = "Hero's Eggshell",
+		},
+		"重い棍棒" = {
+			英名 = "Heavy Club",
+		},
+		"バイロード" = {
+			英名 = "By Road",
+		},
+		"リーザス鎧" = {
+			英名 = "Leazas Armor",
+		},
+		"クリスタルロッド" = {
+			英名 = "Crystal Rod",
+		},
+		"獣化の技術" = {
+			英名 = "Beastification Technique",
+		},
+		"短刀山本丸" = {
+			英名 = "Yamamoto Tanto",
+		},
+		"ラバウルの弓" = {
+			英名 = "Rabaul's Bow",
+		},
+		"厳島神社" = {
+			英名 = "Itsukushima Shrine",
+		},
+		"携帯ご先祖様" = {
+			英名 = "Ancestor Straps",
+		},
+		"父のプレゼント" = {
+			英名 = "Father's Present",
+		},
+		"洗濯機" = {
+			英名 = "Washing Machine",
+		},
+		"冷蔵庫" = {
+			英名 = "Refrigerator",
+		},
+		"珍しい貝１" = {
+			英名 = "Rare Shell 1",
+		},
+		"珍しい貝２" = {
+			英名 = "Rare Shell 2",
+		},
+		"珍しい貝３" = {
+			英名 = "Rare Shell 3",
+		},
+		"珍しい貝４" = {
+			英名 = "Rare Shell 4",
+		},
+		"魔力の杯" = {
+			英名 = "Chalice of Magic",
+		},
+		"青巫女絵巻" = {
+			英名 = "Blue Shrine Maiden Plaque",
+		},
+		"ルンルンバ" = {
+			英名 = "Roomroomba",
+		},
+		"掴み鷲" = {
+			英名 = "Grasping Eagle",
+		},
+		"楽馬" = {
+			英名 = "Equine Progress",
+		},
+		"ブロブロッサム" = {
+			英名 = "Bloblossom",
+		},
+		"ゴーストパイプ" = {
+			英名 = "Ghost Pipe",
+		},
+		"道楽師マスク" = {
+			英名 = "Rambunctious Mask",
+		},
+		"ゴールドライター" = {
+			英名 = "Golden Lighter",
+		},
+		"鐘のなる木" = {
+			英名 = "Bell Lucky Tree",
+		},
+		"長髪まねき猫" = {
+			英名 = "Long-haired Manekineko",
+		},
+		"初夢宝船" = {
+			英名 = "New Year's Dream Treasure Ship",
+		},
+		"トンでもない奴" = {
+			英名 = "No Way Dude",
+		},
+		"フェアリーランタン" = {
+			英名 = "Fairy Lantern",
+		},
+		"スッポン天帝" = {
+			英名 = "Turtle Emperor",
+		},
+		"茶釜の精" = {
+			英名 = "Teapot Spirit",
+		},
+		"伝説の武具亜人" = {
+			英名 = "Legendary Arms: Demi-Humans",
+		},
+		"伝説の武具モンスター" = {
+			英名 = "Legendary Arms: Monsters",
+		},
+		"伝説の武具ＪＡＰＡＮ" = {
+			英名 = "Legendary Arms: JAPAN",
+		},
+		"伝説の武具自由都市" = {
+			英名 = "Legendary Arms: Free Cities",
+		},
+		"伝説の武具ゼス" = {
+			英名 = "Legendary Arms: Zeth",
+		},
+		"伝説の武具ヘルマン" = {
+			英名 = "Legendary Arms: Helman",
+		},
+		"伝説の武具リーザス" = {
+			英名 = "Legendary Arms: Leazas",
+		},
+		"伝説の武具その他" = {
+			英名 = "Legendary Arms: Others",
+		},
+		"伝説の武具主人公" = {
+			英名 = "Legendary Arms: Protagonist",
+		},
+		"伝説の武具神魔" = {
+			英名 = "Legendary Arms: Gods & Demons",
+		},
+		"火のオーブ" = {
+			英名 = "Fire Orb",
+		},
+		"水のオーブ" = {
+			英名 = "Water Orb",
+		},
+		"土のオーブ" = {
+			英名 = "Earth Orb",
+		},
+		"金のオーブ" = {
+			英名 = "Metal Orb",
+		},
+		"木のオーブ" = {
+			英名 = "Wood Orb",
+		},
+		"アスカ" = {
+			英名 = "Asuka",
+		},
+		"ジャロ" = {
+			英名 = "Jaro",
+		},
+		"ブリティシュ" = {
+			英名 = "British",
+		},
+		"リア２" = {
+			英名 = "Lia 2",
+		},
+		"コンバート" = {
+			英名 = "Convert",
+		},
+		"バード" = {
+			英名 = "Bird",
+		},
+		"ホ・ラガ" = {
+			英名 = "Ho-Raga",
+		},
+		"よーぜふ" = {
+			英名 = "Yosif",
+		},
+		"シーラ２" = {
+			英名 = "Sheila 2",
+		},
+		"タイガー将軍" = {
+			英名 = "General Tiger",
+		},
+		"ランスＪｒ" = {
+			英名 = "Rance Jr.",
+		},
+		"冬将軍１８１２" = {
+			英名 = "Winter General 1812",
+		},
+		"冬将軍１９４２" = {
+			英名 = "Winter General 1942",
+		},
+		"ザカリテ" = {
+			英名 = "Xacalite",
+		},
+		"瀕死の子１" = {
+			英名 = "Dying Child 1",
+		},
+		"瀕死の子２" = {
+			英名 = "Dying Child 2",
+		},
+		"マジック２" = {
+			英名 = "Magic 2",
+		},
+		"ＹＯＲＡ" = {
+			英名 = "YORA",
+		},
+		"ニーナ" = {
+			英名 = "Nina",
+		},
+		"アレキサンダー" = {
+			英名 = "Alexander",
+		},
+		"シュリ" = {
+			英名 = "Shuri",
+		},
+		"マリア２" = {
+			英名 = "Maria 2",
+		},
+		"バファムーン" = {
+			英名 = "Bafamoon",
+		},
+		"エロヤック" = {
+			英名 = "Eroyack ALV",
+		},
+		"船長" = {
+			英名 = "Ship Captain",
+		},
+		"すず" = {
+			英名 = "Suzu",
+		},
+		"ＫＤ" = {
+			英名 = "KD",
+		},
+		"ジャハルッカス" = {
+			英名 = "Jhahlckas",
+		},
+		"アスタコ" = {
+			英名 = "ASTACO",
+		},
+		"アリス" = {
+			英名 = "Alice",
+		},
+		"闇アリス" = {
+			英名 = "Dark Alice",
+		},
+		"肉片 ルート" = {
+			英名 = "Meat Chunk Root",
+		},
+		"戯骸" = {
+			英名 = "Gigai",
+		},
+		"リクチェル" = {
+			英名 = "Richelle",
+		},
+		"ＤＤ" = {
+			英名 = "DD",
+		},
+		"ゲイマルク" = {
+			英名 = "Geimark",
+		},
+		"カミーラ" = {
+			英名 = "Camilla",
+		},
+		"かわぞえ" = {
+			英名 = "Kawazoe",
+		},
+		"ますぞえ" = {
+			英名 = "Masuzoe",
+		},
+		"コーラ" = {
+			英名 = "Cola",
+		},
+		"ジーク" = {
+			英名 = "Sieg",
+		},
+		"ヌーク７７" = {
+			英名 = "Nook77",
+		},
+		"バボラ" = {
+			英名 = "Babolat",
+		},
+		"ラッシー" = {
+			英名 = "Lassie",
+		},
+		"レッドアイ" = {
+			英名 = "RedEye",
+		},
+		"リズナ２" = {
+			英名 = "Rizna 2",
+		},
+		"ＰＧ" = {
+			英名 = "PG",
+		},
+		"ストロガノフ" = {
+			英名 = "Stroganoff",
+		},
+		"モドカタ" = {
+			英名 = "Modokata",
+		},
+		"ツォトン" = {
+			英名 = "Zedong",
+		},
+		"ルメイ" = {
+			英名 = "LeMay",
+		},
+		"ピサロ" = {
+			英名 = "Pizarro",
+		},
+		"ヨシフ" = {
+			英名 = "Joseph",
+		},
+		"バイランローズ" = {
+			英名 = "Byranrose",
+		},
+		"ケイブリス２" = {
+			英名 = "Kayblis 2",
+		},
+		"トッポス" = {
+			英名 = "Toppos",
+		},
+		"クエルプラン" = {
+			英名 = "Quelplan",
+		},
+		"ＡＬＩＣＥ" = {
+			英名 = "ALICE",
+		},
+		"バスワルド" = {
+			英名 = "Vaswald",
+		},
+		"ネプラカス" = {
+			英名 = "Neplacus",
+		},
+		"アギレダ" = {
+			英名 = "Agireda",
+		},
+		"ニミッツ" = {
+			英名 = "Nimitz",
+		},
+		"シルキィ" = {
+			英名 = "Silky",
+		},
+		"テオマン" = {
+			英名 = "Theoman",
+		},
+		"擬態／食券" = {
+			英名 = "Mimicry / Meal Ticket",
+		},
+		"擬態／勲章" = {
+			英名 = "Mimicry / Medal",
+		},
+		"擬態／戦果" = {
+			英名 = "Mimicry / War Results",
+		},
+		"擬態／友情" = {
+			英名 = "Mimicry / Friendship",
+		},
+		"擬態／金塊" = {
+			英名 = "Mimicry / Gold Bullion",
+		},
+		"擬態／闘将軍団" = {
+			英名 = "Mimicry / Tousho Corps",
+		},
+		"擬態／ハニー軍団" = {
+			英名 = "Mimicry / Hanny Corps",
+		},
+		"擬態／ポピンズ軍団" = {
+			英名 = "Mimicry / Poppins Corps",
+		},
+		"擬態／残党軍団" = {
+			英名 = "Mimicry / Remnant Corps",
+		},
+		"擬態／ＥＸＰＵＰ" = {
+			英名 = "Mimicry / EXP UP",
+		},
+		"擬態／アイテムＵＰ" = {
+			英名 = "Mimicry / Item UP",
+		},
+		"ＤＢアイテム１" = {
+			英名 = "DB Item 1",
+		},
+		"ＤＢアイテム２" = {
+			英名 = "DB Item 2",
+		},
+		"ＤＢアイテム３" = {
+			英名 = "DB Item 3",
+		},
+	},
 };

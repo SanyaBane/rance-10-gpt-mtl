@@ -181,10 +181,22 @@ The result screen lists these bonuses by caption, and the six treasure ones are
 function pushes them, so unlike the race names in `docs/race-names.md` these are
 ordinary cherry-picks and translating the slots is safe. All six are translated,
 in `patches/system_cherry_picks.v1.04.ain.txt`; `%sで初トドメ` is
-`First Finisher by %s` there, and the `%s` is the character's `ViewName`, which
-`patches/card_names.jaf` has already made English. The five experience captions
-above them, `s[3934]`–`s[3938]`, are in the same position and are translated
-alongside.
+`First Finisher by %s` there. The five experience captions above them,
+`s[3934]`–`s[3938]`, are in the same position and are translated alongside.
+
+The `%s` is a second job, and this document got it wrong for a while by saying
+`patches/card_names.jaf` had already done it. What fills it is
+`BattleBonus@ViewName::get` (FUNC 27270), reached from `Caption::get` and from
+nowhere else, and it returns `BattleBonus.CharacterId` raw — the 識別名 that
+`CalcTreasure` copied out of `RecentUsedSkill.KillingCharacterId`, which is a
+save key rather than a label. It shares nothing with `PlayerCard@ViewName` but
+the property name, so patching the card plate and the combat log left this
+caption ending in a Japanese name under an English sentence. It is
+`Character@Name::get` written out a second time, chapter-2 branch and all, and
+`card_names.jaf` now overrides it a second time to match, against a
+`識別名情報.短縮英名` node that `scripts/generate_card_names.js` writes. The
+*short* name, not the full one the combat log uses: see the comment over the
+override for the widths. `docs/card-name-localization.md` has the tree.
 
 ## What the feature patches
 

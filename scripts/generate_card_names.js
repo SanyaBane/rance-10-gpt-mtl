@@ -1,23 +1,38 @@
 /**
  * Fill 識別名情報 with the English names the display accessors read.
  *
- * patches/card_names.jaf points Character@Name::get at 識別名情報.<識別名>.英名 and
- * PlayerCard@ViewName::get at 識別名情報.カード英名.<Id>.英名. This builds both.
+ * patches/card_names.jaf points three display accessors at this tree, and this
+ * builds what all three read:
  *
- *   英名 inside each existing node   the character's *full* name, for the
- *                                    combat log, read out of the standing
- *                                    portrait nameplates and joined out of
- *                                    カード情報's フルネーム where they have none.
+ *   英名 inside each existing node   Character@Name::get -- the character's
+ *                                    *full* name, for the combat log, read out
+ *                                    of the standing portrait nameplates and
+ *                                    joined out of カード情報's フルネーム where
+ *                                    they have none.
  *
- *   カード英名, one new sibling node  the card plate's label: the *short* name
- *                                    plus a translated affix, because the plate
- *                                    clips text centred without scaling it.
+ *   カード英名, one new sibling node  PlayerCard@ViewName::get at
+ *                                    識別名情報.カード英名.<Id>.英名 -- the card
+ *                                    plate's label: the *short* name plus a
+ *                                    translated affix, because the plate clips
+ *                                    text centred without scaling it.
+ *
+ *   短縮英名, a second sibling node   BattleBonus@ViewName::get at
+ *                                    識別名情報.短縮英名.<識別名>.英名 -- the short
+ *                                    name bare, for the one caption on the
+ *                                    battle result screen that names whoever
+ *                                    landed the killing blow.
+ *
+ * The last two are keyed differently and cannot share a node: 334 strings are
+ * both a card Id and a 識別名, and the two want different English for them.
+ * 短縮英名 is keyed by 識別名 because that is what the result screen has -- it
+ * is holding a save key, not a card.
  *
  * Node names are never touched. They are the keys under which saves store rank
  * and event state, so translating one detaches the game from its own saved
  * state -- ranks read back as zero while the display still looks correct.
- * Adding leaves inside a node is safe; the only new name is the カード英名
- * sibling, which nothing enumerates.
+ * Adding leaves inside a node is safe; the only new names are the two siblings
+ * above, and nothing in the .ain enumerates 識別名情報 -- every EX_GetNodeNameList
+ * in the dump names a different tree.
  *
  * Rewrites archives/Rance10EX_v1_04/41_識別名情報.x in place and is idempotent: anything
  * a previous run added is stripped before the new content goes in, and the
@@ -264,6 +279,7 @@ const EIMEI_LEAF = /^\t\t英名 = "/;
 const LV = /^Lv(\p{Nd}+|\?\?) \{\}$/u;
 const R_TAG = /^(.*\{\})\((R\p{Nd})\)$/u;
 const CARD_NAMES_NODE = "\tカード英名 = {";
+const SHORT_NAMES_NODE = "\t短縮英名 = {";
 
 /**
  * Read a game text file. The encoding is only reported as having a BOM when one
@@ -613,17 +629,67 @@ const buildCardLabels = (cards, lookup) => {
     return {labels, skipped};
 };
 
+/**
+ * 識別名 -> the short English name, for the battle result screen's first-kill
+ * caption.
+ *
+ * Keyed by 識別名 rather than by card Id because BattleBonus@ViewName::get reads
+ * BattleBonus.CharacterId, which CalcTreasure copies out of
+ * RecentUsedSkill.KillingCharacterId -- a save key, not a card. That is also
+ * why the bare short name is the right register: the affix a plate carries
+ * ("Lv42", "Naked") belongs to the card, not to whoever swung, and the caption
+ * has a fixed "First Finisher by " in front of it eating the room.
+ *
+ * Both sources are taken. カードデータ is the set that can actually reach the
+ * screen, and every one of its 667 識別名 is in the glossary; the 識別名情報 nodes
+ * cost a line apiece and save trusting that nothing else ever builds a
+ * Character.
+ */
+const buildShortNames = (cards, identNodes, lookup) => {
+    const shortNames = new Map();
+    const missing = [];
+    for (const ident of new Set([...cards.values(), ...identNodes])) {
+        const english = lookup.get(ident);
+        if (english === undefined) {
+            missing.push(ident);
+        } else {
+            shortNames.set(ident, english);
+        }
+    }
+    return {shortNames, missing};
+};
+
+/** One sibling node of "<key> = { 英名 = "..." }" children, ready to splice in. */
+const siblingNode = (opener, entries, carriage) => {
+    const block = [`${opener}${carriage}`];
+    for (const [key, english] of entries) {
+        block.push(`\t\t${quoted(key)} = {${carriage}`);
+        block.push(`\t\t\t英名 = ${quoted(english)},${carriage}`);
+        block.push(`\t\t},${carriage}`);
+    }
+    block.push(`\t},${carriage}`);
+    return block;
+};
+
+/** Cut one whole sibling node this script wrote, opening line to closing brace. */
+const stripNode = (lines, opener) => {
+    const start = lines.findIndex(line => line.replace(/\r$/, "") === opener);
+    if (start === -1) {
+        return lines;
+    }
+    // The node closes with "\t}," -- its children close with "\t\t},", so
+    // the indent has to be part of the match, not stripped away.
+    const end = lines.findIndex((line, index) => index > start && line.replace(/\r$/, "") === "\t},");
+    if (end === -1) {
+        throw new Error(`found a ${opener.trim()} node with no closing brace`);
+    }
+    return lines.slice(0, start).concat(lines.slice(end + 1));
+};
+
 /** Remove everything a previous run of this script added. */
 const stripGenerated = (lines) => {
-    const start = lines.findIndex(line => line.replace(/\r$/, "") === CARD_NAMES_NODE);
-    if (start !== -1) {
-        // The node closes with "\t}," -- its children close with "\t\t},", so
-        // the indent has to be part of the match, not stripped away.
-        const end = lines.findIndex((line, index) => index > start && line.replace(/\r$/, "") === "\t},");
-        if (end === -1) {
-            throw new Error("found a カード英名 node with no closing brace");
-        }
-        lines = lines.slice(0, start).concat(lines.slice(end + 1));
+    for (const opener of [CARD_NAMES_NODE, SHORT_NAMES_NODE]) {
+        lines = stripNode(lines, opener);
     }
     return lines.filter((line, index) => !(index > 0
         && EIMEI_LEAF.test(line)
@@ -696,12 +762,14 @@ const main = async () => {
     let injected = 0;
     const missing = [];
     const untranslated = [];
+    const identNodes = [];
     for (const line of stripped) {
         out.push(line);
         const node = INFO_NODE.exec(line);
         if (!node) {
             continue;
         }
+        identNodes.push(node[1].trim());
         const english = names.get(node[1].trim());
         if (english === undefined) {
             missing.push(node[1].trim());
@@ -720,14 +788,11 @@ const main = async () => {
     if (close === -1) {
         throw new Error(`${identPath} has no closing "};"`);
     }
-    const block = [`${CARD_NAMES_NODE}${carriage}`];
-    for (const [cardId, english] of labels) {
-        block.push(`\t\t${quoted(cardId)} = {${carriage}`);
-        block.push(`\t\t\t英名 = ${quoted(english)},${carriage}`);
-        block.push(`\t\t},${carriage}`);
-    }
-    block.push(`\t},${carriage}`);
-    const rewritten = out.slice(0, close).concat(block, out.slice(close));
+    const {shortNames, missing: missingShort} = buildShortNames(cards, identNodes, lookup);
+    const rewritten = out.slice(0, close).concat(
+        siblingNode(CARD_NAMES_NODE, labels, carriage),
+        siblingNode(SHORT_NAMES_NODE, shortNames, carriage),
+        out.slice(close));
 
     // Identity round-trip: stripping our own output has to reproduce exactly
     // what we started from. Catches a stripper that misses what the injector
@@ -741,6 +806,10 @@ const main = async () => {
     console.log(`               ${missing.slice(0, 12).join(", ")}`);
     if (untranslated.length > 0) {
         console.log(`               ${untranslated.length} still Japanese: ${untranslated.join(", ")}`);
+    }
+    console.log(`短縮英名     : ${shortNames.size} 識別名 named, ${missingShort.length} without a short name`);
+    if (missingShort.length > 0) {
+        console.log(`               ${missingShort.join(", ")}`);
     }
 
     if (dryRun) {

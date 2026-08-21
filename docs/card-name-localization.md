@@ -96,6 +96,7 @@ Function numbers are from the v1.04 dump; verify them after any game update.
 |---|---|---|---|
 | `Character@Name::get` / `#1` | 27959 / 27960 | `Character@Id` (27932 / 27933) | name shown in the combat log |
 | `PlayerCard@ViewName::get` / `#1` | 28089 / 28090 | `PlayerCard@Id` (28086 / 28087) | label drawn on the card plate |
+| `BattleBonus@ViewName::get` / `#1` | 27270 / 27271 | `BattleBonus.CharacterId` | the battle result screen's first-kill caption |
 | `PlayerCard@CharacterId::get` / `#1` | 28095 / 28096 | column `識別名` | identity, **not** a label |
 | `PlayerCard@Profile::get` | 28143 | builds `カード情報.<Id>` | card detail screen |
 | `PlayerCardProfile@FullName::get` | 28219 | `<key>.フルネーム` | full name, already English |
@@ -103,18 +104,35 @@ Function numbers are from the v1.04 dump; verify them after any game update.
 `CharacterId` has around 45 call sites and almost all of them are identity
 uses — lookup caches, party selection, rank-up targeting, portrait resolution
 (`PlayerCard::ResolveStandName`). Do not repoint it at a translated string.
-Patch the two display accessors instead; `ViewName` alone covers all five card
-render sites (`CardConstructProcessCacheFront@CreateName`,
+Patch the display accessors instead; `PlayerCard@ViewName` alone covers all five
+card render sites (`CardConstructProcessCacheFront@CreateName`,
 `CardConstructorFrontCard::Create` twice, and the two back-face constructors).
 
-The `::get#1` twins are dead. Nothing in the code section pushes 27960 or
-28090, while 27959 has two call sites and 28089 has the five render sites. An
-earlier version of this patch changed all four; only two of them mattered.
+The `::get#1` twins are dead. Nothing in the code section pushes 27960, 28090
+or 27271, while 27959 has two call sites, 28089 has the five render sites and
+27270 has one. An earlier version of this patch changed all four of the first
+two pairs; only two of them mattered.
 
-Both accessors already special-case the chapter 2 protagonist: `Character@Name`
-compares against `エール２`, `ViewName` looks for the `＜エール＞` token and
-substitutes `PlayerCard::GetChapter2PlayerName()`. Leave those branches alone —
-that name is chosen by the player at runtime.
+`BattleBonus@ViewName` is the one that got away, and it is worth reading as a
+warning about matching by property name. It is a different class from
+`PlayerCard@ViewName` and shares nothing with it: byte for byte it is
+`Character@Name::get` again — `CharacterId`, with the chapter 2 protagonist
+substituted — reached only from `BattleBonus@Caption::get` (27268) when it
+formats `s[3942]` `%sで初トドメ`. Patching the plate and the combat log therefore
+left the result screen printing a save key, so `First Finisher by セシル` sat
+under an otherwise English screen. The override is the third one in
+`patches/card_names.jaf` now. It reads a node of its own, `識別名情報.短縮英名`,
+because the caption wants the **short** name where the combat log wants the full
+one: `First Finisher by ` is spent before the name starts, and the part is 410
+pixels wide before the `+` sits on it. `docs/treasure-chest-chance.md` has the
+rest of that screen.
+
+All three accessors already special-case the chapter 2 protagonist:
+`Character@Name` and `BattleBonus@ViewName` compare against `エール２`,
+`PlayerCard@ViewName` looks for the `＜エール＞` token, and all three substitute
+`PlayerCard::GetChapter2PlayerName()`. Leave those branches alone — that name is
+chosen by the player at runtime. Wrapping with `super()` rather than
+reimplementing is what keeps them intact.
 
 ## The patch shape
 
@@ -223,8 +241,8 @@ Id is the `EX_String` default, and there is no Id.
 
 ## Where the English strings live
 
-`識別名情報` gains a leaf inside each existing node, plus one new sibling node
-for per-card labels:
+`識別名情報` gains a leaf inside each existing node, plus two new sibling nodes —
+one keyed by card Id for plate labels, one keyed by `識別名` for the short name:
 
 ```
 tree 識別名情報 = {
@@ -237,14 +255,26 @@ tree 識別名情報 = {
 			英名 = "Naked Crook",
 		},
 	},
+	短縮英名 = {
+		クルックー = {
+			英名 = "Crook",
+		},
+	},
 }
 ```
 
+The two siblings cannot be one node. 334 strings are both a card Id and a
+`識別名`, and the two want different English for them — `カード英名` carries the
+affix the plate needs, `短縮英名` deliberately does not.
+
 **Node names are never touched** — they are the save keys. Adding leaves inside
-them is safe and verified. Adding the one new sibling node is a slightly
-larger assumption: the tree is only ever read by exact path in those five
-`sprintf` sites, so an extra child should be inert, but nothing was found that
-enumerates it either way.
+them is safe and verified. Adding the sibling nodes is a slightly larger
+assumption: the tree is only ever read by exact path in those `sprintf` sites,
+so an extra child should be inert. Since first writing that, every
+`EX_GetNodeNameList` in the code dump — 35 of them — was read, and not one names
+`識別名情報`; the enumerating calls are all in the model viewer, the sound
+editor, the stage editor, and over `クエストデータ`, `マップデータ`, `あらすじデータ`,
+`ＣＧ回想情報`, `BGM情報` and `実績情報`.
 
 Quoted node names are required for anything containing spaces or brackets, and
 the nested `"<key>" = { 英名 = "..." }` shape mirrors what `カード情報` already
@@ -254,13 +284,13 @@ That the names survive is easy to check without launching anything: build the
 `.ex`, dump it back with `alice ex dump --split`, and confirm the node is still
 there. Confirming the *keys* survive is the check that matters, and it is just
 as cheap — the node names of the generated tree must be the 316 of the vanilla
-tree, in order, plus `カード英名` and nothing else, and the `Id`/`識別名`
-columns of `8_カードデータ.x` must still match vanilla row for row.
+tree, in order, plus `カード英名` and `短縮英名` and nothing else, and the
+`Id`/`識別名` columns of `8_カードデータ.x` must still match vanilla row for row.
 
 ## Choosing the English text
 
-Two different registers are needed, and the game already makes this
-distinction:
+Three different registers are needed, and the game already makes the first two
+distinctions itself:
 
 - **Character name** (combat log) — the full name, taken from
   `48_立ち絵名札マッピング情報.x`, the table that already names every standing
@@ -269,6 +299,13 @@ distinction:
 - **Card label** (the plate) — the *short* name plus a translated affix. The
   Japanese labels do exactly this: `全裸 シィル`, `運命の女 パステル`. Using the
   full name here yields `Naked Crook Mofus` and overflows the plate.
+- **Short name alone** (`短縮英名`, the first-kill caption) — the same short name
+  the plate is built from, with no affix. The affix belongs to the card; the
+  caption is naming whoever swung, and it has already spent its room on
+  `First Finisher by `. Every one of the 667 `識別名` in `8_カードデータ.x` has one,
+  straight out of `glossaries/card_name_glossary.tsv` — including the 352 that
+  are items rather than characters and have no node of their own, which is why
+  this node is keyed off the card table rather than off the tree.
 
 The nameplates are the better source of the two on offer: 1016 characters
 against the 356 the card table can name, and their names are in the order the
@@ -369,7 +406,8 @@ That independence is worth re-checking rather than trusting, and it is cheap:
 build once with `-t` alone and once with both, then `alice ain dump -s` and
 `-m` on each. The message table must come back byte for byte and the string
 table must agree up to its old length, with the `--jaf` literals — `識別名情報.`,
-`.英名`, `識別名情報.カード英名.` — appended past it. Running both together does
+`.英名`, `識別名情報.カード英名.`, `識別名情報.短縮英名.` — appended past it.
+Running both together does
 print `Duplicate string in string table` a few dozen times; that is the
 translated string table being hashed for lookup, and it happens with any `.jaf`
 whatsoever, not because of this one.
@@ -414,6 +452,15 @@ The same asymmetry shows up on the way out: `alice ex build` accepts quotes
 around any name and `alice ex dump` writes them back only where they are
 needed, so a rebuilt file will not compare equal to the one that produced it.
 Ignore quoting when diffing a round trip, or the real differences drown.
+
+**Two accessors with the same property name are not the same accessor.**
+`PlayerCard@ViewName::get` and `BattleBonus@ViewName::get` share a name, a
+signature and a chapter-2 branch, and nothing else — the second is a second copy
+of `Character@Name::get` living on a different class. Overriding one does not
+reach the other, and a note in `docs/treasure-chest-chance.md` claimed for a
+while that it did, which is why `First Finisher by セシル` shipped. Resolve a
+display function by finding its callers in the dump, never by recognising the
+property name.
 
 **A character name can sit inside a longer one.** `セル` (Sel) occurs within
 `ケッセルリンク`, `セスナ` (Cessna) within `ハウセスナース`, `ランス` within

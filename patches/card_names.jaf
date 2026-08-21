@@ -65,3 +65,35 @@ override string PlayerCard@ViewName::get(void)
 {
 	return CardEnglishLabel(super());
 }
+
+/*
+ * The name in the battle result screen's first-kill caption -- s[3942]
+ * "First Finisher by %s". Nothing else calls this getter.
+ *
+ * It is a different class from PlayerCard@ViewName above and shares nothing
+ * with it but the property name, which is exactly how this got missed: patching
+ * the card plate and the combat log left the result screen printing 識別名 raw,
+ * so an English caption ended in a Japanese name. The getter is
+ * Character@Name::get written out a second time -- CharacterId, with the
+ * chapter 2 protagonist's player-chosen name substituted -- and the override
+ * has to be written out a second time with it.
+ *
+ * The *short* name, not the full one Character@Name uses. The caption spends
+ * "First Finisher by " before the name is even reached, and its part is 410
+ * pixels wide before the "+" sits on top of it (Caption at x=80, Sign at x=490
+ * in Game/Battle/Result/BattleResultValueView.pactex.x). Nothing clips, so an
+ * overlong name runs out over the bonus figure rather than being cut; the short
+ * name is a median 1.43x the Japanese it replaces where the full name is 1.68x
+ * and reaches 3.12x. Some still overrun, and the game's own longest Japanese
+ * captions overrun the same budget, so this is the register the layout was
+ * drawn for rather than a fit.
+ *
+ * super() is the raw id and is passed as the default, so anything 短縮英名 does
+ * not name renders exactly as it did unpatched. That covers the chapter 2
+ * protagonist, whose id is not an id at all by the time it arrives.
+ */
+override string BattleBonus@ViewName::get(void)
+{
+	string id = super();
+	return EX_String("識別名情報.短縮英名." + id + ".英名", id, 0);
+}
