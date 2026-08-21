@@ -14302,7 +14302,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ignore the haniwa. Let's aim\nstraight for the big boss!",
+					説明 = "Ignore the Haniwa. Let's aim\nstraight for the big boss!",
 				},
 			},
 		},
