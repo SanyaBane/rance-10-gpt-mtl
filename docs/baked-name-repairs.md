@@ -110,10 +110,21 @@ Removed on those grounds, each verified to change 0 lines the day it went:
 | `カオス` → Chaos | `chaos` | the capital is right on the sword, wrong on `カオスの塊な奴` |
 | `リセット` → Reset | `reset` | `世界がリセットされる` is a verb |
 | `カフェ` → Cafe | `cafe`, `café` | a coffee shop is not the character |
+| `火炎` → Flame | `fire` | one firing, and `火炎魔法` is the element |
+| `火炎` → Flame | `Flame` | the canonical spelling itself, so nothing could reach it |
 
 The longer forms stay in every case — `demon army`, `Demon Army`, `Majin`,
 `Majikku`, `Café` — because a phrase is about the thing it names and a single
 common word is about whatever the sentence was already saying.
+
+One single common word survived that reasoning. `火炎` keeps `"Fire"` because
+the evidence went the other way: all thirty of its firings were the apostle —
+`Fire-chan`, `Fire Library` — and none was a word belonging to somebody else,
+where `魔人`'s `"Demon"` took the Demon King's title 67 times. Every line
+using 火炎 as the element spells it lowercase or buries it in a longer word.
+So the rule is not "no single words" but "count what the entry did before
+deciding", and a trace against the corpus as the translation produced it is
+how that count is taken.
 
 ## What is still done at build time
 
@@ -122,9 +133,28 @@ The corpus is not literally the patch. `replaceUnicode` in
 and `wrapAt` still decides the line breaks. Wrapping cannot be baked — it is
 layout against a font and a margin. Folding could be, and has not been.
 
-## One thing to watch when editing by line number
+## Two things to watch when editing by line number
 
 `gpt_outputs/` has 5 679 duplicate records: the chunk ranges overlap, so
 `128540_128600.json` and `128550_128610.json` both carry `m[128578]`. The English
 agrees in all but two of them. A fix applied by line number has to reach **every**
 copy, or the build's last-wins rule decides which one a player sees.
+
+And the number is not always a number. 6 495 of the 275 374 records carry
+`lineNumber` as a JSON **string** — the whole of `gpt_outputs_v104`, and the
+block from `gpt_outputs/132117_132317.json` through `133317_133367.json` — and
+4 261 line numbers exist in no other form. `r.lineNumber === 48582`, or a `Map`
+keyed on the number, walks past every one of them and says nothing. The build
+never trips on it because each of its own reads coerces: `+lr.lineNumber`, in
+`scripts/regenerate_aai_txt.js`. Nor are the two folders one numbering space —
+`gpt_outputs` is the v1.00 numbering that same script maps forward, and
+`gpt_outputs_v104` is already v1.04. The 5 045 numbers on the v104 side are not
+a range of their own either; they run from 94 to 269 677, and 784 of them are
+also a number `gpt_outputs` uses for some other line.
+
+Both traps have the same answer. Key a one-off repair on **the exact English**
+rather than on the number, and assert that each edit was found as many times as
+you meant it to be — no fewer, which catches the string-keyed record, and no
+more, which catches the duplicate copy you did not know was there. That is what
+carried `m[269231]` through the `火炎` pass: a v104 record whose line number is
+the string `"269231"`.
