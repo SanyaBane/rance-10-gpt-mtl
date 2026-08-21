@@ -1,0 +1,64 @@
+; The activation chance of every skill, with the two cooking skills' own number
+; replaced when the switch file is there.
+;
+; Half of a feature a build can leave out -- the other half is the switch,
+; cooking_skill_chance.jaf beside it, and feature.js in this folder is where the
+; pair is named. That file is also where the two skill Ids and the reasoning
+; about them live; this one is about where the hook goes.
+;
+; PlayerSkill@PerSkill::get is the accessor for the スキルデータ table's 確率
+; column, and it has three callers in the whole game: SceneBattle@CheckSkillPer
+; (FUNC 24907), which is the roll -- checkRandomPercent(per), i.e.
+; RAND(100) <= per -- and two in SacrificeFinder, which only ever look at leader
+; skills (行動タイプ 20). Patching the accessor rather than the roll means every
+; reader sees one consistent number, and it is the roll that stays untouched.
+;
+; This is a .jam rather than a .jaf because the replacement has to pass the
+; skill's own Id to the switch, and the Id is on `this`. alice-tools' .jaf
+; compiler resolves neither `this` nor a struct's own members inside an
+; override, and it will not reach a property through a ref argument either --
+; overriding SceneBattle@CheckSkillPer(ref PlayerAction action) instead, which
+; needs no `this` at all, stops at
+;   error: Invalid struct member name: Skill
+;       in: action.Skill
+; because PlayerAction@Skill is a property and not a field. What a .jam can do
+; is assemble a whole function and repoint the function table at it, which is
+; what --jam is for. It adds no locals -- --jam rewrites code and not the FUNC
+; section -- and this function needs none: the two values it hands the switch
+; both come off the stack.
+;
+; The first nine instructions are SceneBattle's own PlayerSkill@PerSkill::get
+; verbatim, from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; and the tail is this feature. Regenerate it the same way if the game version
+; changes: 28274 and 28263 are indices into one build of one .ain and mean
+; nothing in the next.
+;
+; PlayerSkill@PerSkill::get#1 (FUNC 28275) is the compiler's twin of this
+; getter, reading the same column through PlayerSkill@Id::get#1. Nothing in the
+; .ain calls it -- no `PUSH 28275` anywhere in the dump -- so it is left as it
+; is rather than patched blind.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1, and an editor that defaults .jam to
+; UTF-8-with-BOM will quietly put one back.
+;
+;   PUSHSTRUCTPAGE / PUSH 28263 / CALLMETHOD 0   this skill's Id
+;   CALLFUNC CookingSkillPercent                 (確率, Id) -> the number to use
+FUNC 28274
+	S_PUSH "スキルデータ"
+	PUSHSTRUCTPAGE
+	PUSH 28263
+	CALLMETHOD 0
+	S_PUSH "確率"
+	PUSH 0
+	PUSH 0
+	CALLFUNC EX_IA2Int
+	PUSHSTRUCTPAGE
+	PUSH 28263
+	CALLMETHOD 0
+	CALLFUNC CookingSkillPercent
+	RETURN
+	PUSH 0
+	RETURN
+ENDFUNC PlayerSkill@PerSkill::get

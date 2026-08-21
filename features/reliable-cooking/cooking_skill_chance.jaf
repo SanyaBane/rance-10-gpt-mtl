@@ -1,0 +1,49 @@
+/*
+ * Whether the two cooking skills can fail, written as the presence of a file:
+ * custom_mods\reliable_cooking_on under the game folder, beside Rance10.exe.
+ * Delete it and both go back to the odds the game shipped with.
+ *
+ * The two are 調理準備 (Meal Preparation, Id 1131, 75%) and 菓子作り (Sweets
+ * Making, Id 1974, 80%). Both are 処理=7 Preprocess with 効果=60 支援配置: no
+ * attack, no target, nothing to hit -- they place the [食券保持中] buff and
+ * that is all. So the MISS the battle log prints for them is not an accuracy
+ * roll at all. It is SceneBattle@CheckSkillPer, which rolls once against the
+ * skill's 確率 column and prints s[3279] ＭＩＳＳ（skill activation failed）
+ * when it loses, and the AP is spent either way. docs/cooking-skill-chance.md
+ * has the whole path.
+ *
+ * Which is why raising the number here is the whole change: 確率 is what that
+ * one roll compares against, checkRandomPercent is RAND(100) <= percent, and
+ * 100 cannot lose.
+ *
+ * The Id is checked first so that a battle only ever stats the switch file when
+ * one of those two skills activates -- every other skill in the game reads its
+ * 確率 through this same function, and none of them should be paying for a file
+ * lookup. Any Id this does not know gets its own number back, so an .ain with
+ * this feature in it and no switch file behaves exactly as an unpatched one.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not take
+ * a backslash in a string literal at all, and Windows accepts either separator.
+ * It is looked for twice for the reason features/enemy-panel/enemy_info_panel.jaf
+ * gives: whether SystemService.GetGameFolderPath() ends in a separator is
+ * something the game does not agree with itself about, and trying both spellings
+ * settles it without running the game. A path that does not resolve reads as
+ * "no file", which is the harmless direction.
+ *
+ * The skill description is not touched and still reads Buff: <75%>, because it
+ * lives in archives/Rance10EX_v1_04/11_スキルデータ.x and features patch the
+ * .ain only. Rewriting it would put the change in every build, switch file or
+ * not, which is the one thing this feature exists to avoid.
+ */
+int CookingSkillPercent(int per, int skillId)
+{
+	if (skillId != 1131 && skillId != 1974) {
+		return per;
+	}
+	string folder = SystemService.GetGameFolderPath();
+	if (FileOperation.ExistFile(folder + "custom_mods/reliable_cooking_on")
+	 || FileOperation.ExistFile(folder + "/custom_mods/reliable_cooking_on")) {
+		return 100;
+	}
+	return per;
+}
