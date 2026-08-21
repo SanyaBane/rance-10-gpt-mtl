@@ -130,6 +130,14 @@ collides with the ordinary loanword — `　本来はポピンズ用のルート
 guard exists that would tell that ルート from Root's. These have to be recognised,
 not filtered.
 
+**`・` is katakana.** The middle dot that separates a given name from a surname
+sits at U+30FB, inside the block `mentions()` tests, so `リセット・カラー` and
+`パパデマス・シルサブン` read as one long katakana run and the name inside them is
+refused. It costs nothing while the pass is only *reporting*, and it costs lines
+the moment something *sweeps* on the same guard: seven of the 13 that
+`0c4e4d14` nearly left behind were a middle dot, and the other six were the wrap.
+A sweep wants `mentions()` **or** a plain `includes()`, over a ±2 window.
+
 **The counts above are not invariants.** Unlike the bake check, which must report
 0 and means something is wrong when it does not, these numbers move with where
 each guard is drawn. A rebuilt filter on 2026-08-22 reported 9566 rather than
@@ -137,10 +145,11 @@ each guard is drawn. A rebuilt filter on 2026-08-22 reported 9566 rather than
 trust is the shape — six classes, roughly these sizes, in this order — rather
 than the digits.
 
-## The two slices worth reading
+## The slices worth reading
 
 Filtering down to a residue and reading it top to bottom is still the wrong
-shape of work. What pays is asking two specific questions of the residue.
+shape of work. What pays is asking the residue two specific questions — and
+then knowing which names neither question can reach.
 
 ### The English names a different character
 
@@ -160,17 +169,61 @@ name is spelled right.
 
 ### The character's own name is spelled off the table
 
-Not built yet, and it is the next thing to build. The two most productive finds
-of the whole pass came out of it **sideways**: the checker complained that a line
-did not name Neplacus, and the reason turned out to be that the corpus spells him
-`Neplakus`, one letter from the `Neplakas` the table already lists.
+The bigger of the two, and the one the checker only ever reached **sideways**: it
+complained that a line did not name Neplacus, and the reason turned out to be
+that the corpus spells him `Neplakus`, one letter from the `Neplakas` the table
+already lists. `921dd29c` is 40 lines of that, and `55f2f8d5` is 88 more where
+`Cruche` sat one letter from the listed `Cruce`.
 
-`921dd29c` is 40 lines of that, and `55f2f8d5` is 88 more where `Cruche` sat one
-letter from the listed `Cruce`. Both misses were a single edit away from an entry
-that would have caught them, which means the class is worth searching for on
-purpose: for each of the table's 274 entries, find the lines whose English
-carries a word *near* a canonical or a known misspelling without equalling
-either — edit distance 1 to 2, with ordinary English words screened out.
+Asked for on purpose it is: for every entry, the lines whose English carries a
+word *near* one of that entry's spellings without being any of them — edit
+distance 1 for a form of five letters or fewer, 2 above that. Three screens make
+it readable, and each removes a class the search would otherwise be drowned by:
+
+| Screen | Without it |
+|---|---|
+| plurals and possessives count as the spelling | the loudest finding is `fiend` → `fiends`, 451 lines the repair pass produces on purpose |
+| a word that is any other name is not a near miss | `saizel` → `hawzel`, which is the *other* slice |
+| an ordinary English word, by how much of its corpus-wide use falls on lines naming this character | `yell` → `well`, `leah` → `yeah`, `darkes` → `darkness` |
+
+That found **1052 lines over 87 names**, and the useful cut through them is what
+share of the character's own lines already spell the canonical: at 90% or better
+the variant is a stray and there is nothing to decide, which is `0c4e4d14` — 45
+names, 60 spellings, 181 records. Below 60% the corpus's own majority disagrees
+with the table, and 23 names are in that state; `Xacalite`, `Thalgo`,
+`Silbarrel` and `Notongatsu` do not occur in the corpus at **all**. Those are a
+decision about which spelling is canonical, not a repair.
+
+**Read the table as people, not as entries.** Two entries can be one person with
+two misspelling lists, and `normalizeNames` asks each entry only about its own
+`shortNameJpn` — so a spelling listed on one of them is unreachable from a line
+whose Japanese carries the other. `Caroria` is on かろ and not on カロリア, and 86
+lines kept it through every build (`8c59c4fd`). Grouping by canonical is also
+what stops those lines being reported as naming somebody else.
+
+**And the sweep's guard has to be wider than `mentions()`.** Widening it caught
+13 lines in `0c4e4d14` that the strict form left behind, and every one of them
+was a line that should be fixed.
+
+### Short names are not covered by any of this
+
+The floor that keeps ordinary English out also keeps short names in the dark, and
+it hid the single largest spelling defect in the corpus. ＜エール＞ was spelled
+four ways over 152 lines — `<Eel>` 86, `Yale` 45, `<Elle>` 12, `<Eal>` 9, against
+1304 that say `El` — and the search reported 12 of them. Both blind spots are the
+same threshold: forms under four letters are never built, so `El`, `Eel` and
+`Eal` are nothing to compare against, and `Yale` against the listed `Yell` is two
+edits where a four-letter form is allowed one.
+
+Lowering either floods the report with ordinary English, so the answer is a
+separate pass rather than a looser one. Eleven entries have a canonical under
+four letters — `El`, `Lia`, `Sel`, `Lei`, `Ex`, `Io`, `Am`, `Kou`, `Cu`, `Pi-R` —
+and only ＜エール＞ has been looked at (`dce75bb9`).
+
+A key with punctuation in it has the same shape of problem from the other end:
+the table's key is `＜エール＞` **with** the brackets, so the 194 lines whose
+Japanese writes `エール` bare are reachable by no entry at all. They spell her
+`Yell` 80 times, `Ale` 25, `Earl` 7 and `Eal` 3, and never `El`.
 
 ## What the checker cannot see
 
