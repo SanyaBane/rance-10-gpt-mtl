@@ -8996,7 +8996,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "ますぞえ撃破",
-					説明 = "Demon Masuzoe - Defeated",
+					説明 = "Fiend Masuzoe - Defeated",
 					フラグ = "ますぞえかわぞえ→２",
 				},
 				分岐右 = {
@@ -9846,7 +9846,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ゼス２／実行済み",
-					説明 = "Demon Lord Medusa -\nDefeated",
+					説明 = "Fiend Medusa -\nDefeated",
 				},
 			},
 		},
@@ -9880,7 +9880,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "自由都市２／実行済み",
-					説明 = "Demon Lord Pi-R - Defeated",
+					説明 = "Fiend Pi-R - Defeated",
 				},
 			},
 		},
@@ -9915,7 +9915,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ヘルマン２／実行済み",
-					説明 = "Demon Lord Kesselring -\nDefeated",
+					説明 = "Fiend Kesselring -\nDefeated",
 				},
 			},
 		},
@@ -9949,7 +9949,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "リーザス２／実行済み",
-					説明 = "Demon Lord Lexington -\nDefeated",
+					説明 = "Fiend Lexington -\nDefeated",
 				},
 			},
 		},
