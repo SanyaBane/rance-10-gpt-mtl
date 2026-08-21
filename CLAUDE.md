@@ -150,6 +150,25 @@ that was worth having on a raw corpus is pure risk on a baked one: `魔人` list
 lines. `docs/baked-name-repairs.md` has the rest, including how to write a chunk
 back without burying the edit.
 
+## A record's Japanese is not the game's line just because the number says so
+
+A corpus record carries a `lineNumber`, the Japanese it was translated from, and
+the English. Only the number reaches the game: `readCorpus` in
+`scripts/regenerate_aai_txt.js` keys on it and compares the Japanese with nothing.
+So a chunk that merged two of the game's lines into one record is numbered one
+short from there on, and the English of every line after it goes out under the
+previous line's number. Six scenes were playing one line out of step that way,
+158 lines of them, until `eec7f479`.
+
+The check is one comparison — a record's `originalJapaneseLine` against the
+game's own dump for that number — and it is not the same question as whether the
+two copies of a duplicated number agree. They agreed on the same wrong text.
+5157 line numbers still fail it. Most of that is a dropped closing `」`, and 75
+are a Japanese line that is the neighbour's, which decides that record's name
+repairs by the wrong sentence. `docs/corpus-alignment.md` has the breakdown,
+and the trap that a drift run ends where the English catches up rather than
+where the chunk file does.
+
 ## A string slot is shared by everything that pushes it
 
 `s[4018]` is the race `モンスター`, and it is also what

@@ -183,6 +183,11 @@ never trips on it because each of its own reads coerces: `+lr.lineNumber`, in
 a range of their own either; they run from 94 to 269 677, and 784 of them are
 also a number `gpt_outputs` uses for some other line.
 
+And a record's Japanese is not automatically the game's line for its number.
+5157 of them are not, most of that a dropped closing `」`, and 158 lines of six
+scenes were showing the *next* line's English until `eec7f479`.
+`docs/corpus-alignment.md` has the check and what it still reports.
+
 Both traps have the same answer. Key a one-off repair on **the exact English**
 rather than on the number, and assert that each edit was found as many times as
 you meant it to be — no fewer, which catches the string-keyed record, and no
