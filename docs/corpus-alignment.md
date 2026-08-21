@@ -16,26 +16,49 @@ describes. It is not committed, for the same reason the bake invariant is not.
 ## What it reports, and what each part is
 
 Ask it of the record the build actually applies -- the last one carrying a given
-number, since alice-tools keeps the last assignment it reads. **5157 line numbers
-are adrift**, and they are four different things:
+number, since alice-tools keeps the last assignment it reads. **5082 line numbers
+are adrift**, and they are three different things:
 
 | Numbers | What it is | Does the player see it |
 |---|---|---|
 | 4906 | the record's Japanese lost a closing `」` | no |
 | 169 | punctuation folded -- `…………」` against `............」` | no |
-| 75 | the Japanese is the next line's, the English is not | no, but see below |
 | 7 | a merge, a blank, one line early | no |
 
-A fifth kind is gone: 158 numbers whose **English** was the next line's, fixed in
-`eec7f479`. Counting every copy rather than the winning one gives 5714, because
-the overlapping chunk ranges carry 5479 numbers twice.
+Two kinds are gone. 158 numbers whose **English** was the next line's, fixed in
+`eec7f479`, and 75 whose **Japanese** was, fixed in `8fbf3793` -- the section
+below is what those were. Counting every copy rather than the winning one gives
+5329, because the overlapping chunk ranges carry 5479 numbers twice.
 
-The 75 are not harmless even though nothing renders differently.
-`normalizeNames` decides whether a line names a character by reading that
-record's `originalJapaneseLine`, so on those 75 lines every name repair is
-decided by the wrong sentence. What is left of them: `184790_184850.json` (51
-lines), `130760_130820.json` (14), `101820_101880.json` (9),
-`136110_136160.json` (1).
+One record is adrift in a way this table cannot hold: `gpt_outputs_v104/000720_000780.json`
+carries `m[185445]` with an empty `originalJapaneseLine`, and the v1.04 dump has
+no line for that number at all. Asking what has **no** line in the dump is a
+different question from asking what disagrees with one, and it is worth asking
+separately -- it is how `m[184739]` was found.
+
+## The Japanese that was the next line's
+
+75 numbers reached the game with the Japanese of the line after them, and
+`normalizeNames` reads exactly that field to decide whether a line names a
+character. Nothing rendered differently, so the whole of what it cost was that
+those name repairs were decided by the wrong sentence.
+
+Two ways in. Most of it was the overlapping chunk ranges: where two chunks carry
+a number, one had the Japanese right and the other had the neighbour's, and the
+build keeps the last it reads. The rest was **the one gap in the game's own
+numbering** -- the v1.00 dump runs 1..264710 with 184738 followed by 184740, and
+`184790_184850.json` was numbered arithmetically from 184731 without knowing it,
+so from the gap on all 52 of its remaining records sat one number ahead of their
+Japanese. The record it wrote for the gap itself, `m[184739]`, was dropped in
+`d42c50a6`: `readCorpus` maps a v1.00 number forward and drops what it cannot
+map, so nothing had ever reached the game from it.
+
+386 records were written back rather than 75. The other 311 lose the last-wins
+sort and never reach a build, but a chunk file is meant to read the way a build
+of it reads, and the next renumbering of the chunk ranges would promote them.
+The repair is safe exactly when the pass stays silent after it: with the
+Japanese back on its own number, `normalizeNames` changed no English on any of
+the 386, so the rendered patch came back identical.
 
 ## Where the slip comes from
 
@@ -61,9 +84,10 @@ chunk carried the same shifted English, so both had to be written.
 The corpus has 5479 line numbers with more than one record, because the chunk
 ranges overlap. Comparing those copies against each other found 883 numbers
 whose Japanese disagreed and **two** whose English did -- which reads like the
-drift is invisible, since whichever copy wins says the same thing. (725 and two
-today: the repair brought the copies of six scenes into line with each other as
-well as with the game.)
+drift is invisible, since whichever copy wins says the same thing. (391 and two
+today: the two repairs brought the copies of six scenes, and then every copy
+carrying a neighbour's Japanese, into line with each other as well as with the
+game.)
 
 It says the same *wrong* thing. Copy-against-copy measures whether the patch
 contradicts itself, and that is a different question from whether the text is
@@ -114,6 +138,12 @@ else" does not apply. What does apply is that `lineNumber` and the key order mus
 come back untouched, which is worth asserting field by field rather than reading
 off `git diff` -- with `-U0` the diff realigns whole blocks of consecutive
 changes and reports unchanged `lineNumber` lines as changed.
+
+Comparing record against record by **index** is only right while the record
+count holds. A repair that removes one -- `m[184739]` was the only one so far --
+renumbers every index after it, and a field-by-field check then reports the
+whole tail as changed. Compare against the old list with that index taken out,
+or key on the line number.
 
 Then render and read the result back against the v1.04 dump at the run's start,
 its end, and the line past its end. A line whose Japanese is blank cannot be

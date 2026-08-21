@@ -163,11 +163,15 @@ previous line's number. Six scenes were playing one line out of step that way,
 The check is one comparison — a record's `originalJapaneseLine` against the
 game's own dump for that number — and it is not the same question as whether the
 two copies of a duplicated number agree. They agreed on the same wrong text.
-5157 line numbers still fail it. Most of that is a dropped closing `」`, and 75
-are a Japanese line that is the neighbour's, which decides that record's name
-repairs by the wrong sentence. `docs/corpus-alignment.md` has the breakdown,
-and the trap that a drift run ends where the English catches up rather than
-where the chunk file does.
+5082 line numbers still fail it, and almost all of that is a dropped closing
+`」` the game never sees. The kind that cost something was the record whose
+Japanese is the **next** line's, because `normalizeNames` reads it to decide
+whether the line names a character: 75 numbers were repaired by the wrong
+sentence, and 386 records in all, since a copy that loses the last-wins sort
+still reads wrong on the page. Written back in `8fbf3793`, and the count is 0
+now. `docs/corpus-alignment.md` has the breakdown, the one gap in the game's own
+numbering that caused most of it, and the trap that a drift run ends where the
+English catches up rather than where the chunk file does.
 
 ## A string slot is shared by everything that pushes it
 

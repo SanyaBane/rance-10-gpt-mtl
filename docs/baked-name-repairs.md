@@ -5,7 +5,9 @@ wrong ones seen before, and `normalizeNames` in `modules/NameNormalizer.js`
 applies it: where the Japanese line names a character and the English spells them
 some other way, a known misspelling is swapped for the right name. For years that
 happened only on the way into the patch. 14 380 of the corpus's 275 374 lines went
-through the swap at every build, and none of them said so on disk.
+through the swap at every build, and none of them said so on disk. (275 373
+since `d42c50a6`, which dropped the one record sitting on a line number the game
+does not have.)
 
 They say so now. The repairs were written into
 `text_languages/en_grok/gpt_outputs*/` by commit `3eafda3a` — a chunk file reads
@@ -171,7 +173,7 @@ layout against a font and a margin. Folding could be, and has not been.
 agrees in all but two of them. A fix applied by line number has to reach **every**
 copy, or the build's last-wins rule decides which one a player sees.
 
-And the number is not always a number. 6 495 of the 275 374 records carry
+And the number is not always a number. 6 495 of the 275 373 records carry
 `lineNumber` as a JSON **string** — the whole of `gpt_outputs_v104`, and the
 block from `gpt_outputs/132117_132317.json` through `133317_133367.json` — and
 4 261 line numbers exist in no other form. `r.lineNumber === 48582`, or a `Map`
@@ -184,9 +186,11 @@ a range of their own either; they run from 94 to 269 677, and 784 of them are
 also a number `gpt_outputs` uses for some other line.
 
 And a record's Japanese is not automatically the game's line for its number.
-5157 of them are not, most of that a dropped closing `」`, and 158 lines of six
-scenes were showing the *next* line's English until `eec7f479`.
-`docs/corpus-alignment.md` has the check and what it still reports.
+5082 of them are not, almost all of that a dropped closing `」`. Two kinds that
+mattered are gone: 158 lines of six scenes were showing the *next* line's
+English until `eec7f479`, and 386 records carried the *next* line's Japanese --
+which is what `normalizeNames` reads to decide a name repair -- until
+`8fbf3793`. `docs/corpus-alignment.md` has the check and what it still reports.
 
 Both traps have the same answer. Key a one-off repair on **the exact English**
 rather than on the number, and assert that each edit was found as many times as
