@@ -4,8 +4,9 @@ Every won battle ends with the 宝箱だんご carrying a box on or off screen, 
 whether it is the good box or the bad one is one `RAND` against one number. That
 number is a plain sum of five bonuses, each of which is written down on the
 result screen next to its own caption. This is a read of how it is assembled,
-written while looking for the "first kill by this character" rule; nothing here
-is patched yet.
+written while looking for the "first kill by this character" rule — which is now
+the one thing here that is patched, optionally, by
+`features/always-first-finisher/`.
 
 Everything below is in `Rance10.ain`. Nothing about the chest lives in the `.ex`
 tables or the `.pactex`.
@@ -172,24 +173,76 @@ that same character, and it stacks with nothing — the bonus is flat, and a sec
 character's first kill in a *later* battle is a fresh +50 in that battle, not a
 running total.
 
-## The captions are still Japanese
+## The captions
 
 The result screen lists these bonuses by caption, and the six treasure ones are
 `s[3939]`–`s[3944]`. Each appears exactly twice in the dump, in
 `BattleBonus@Caption::get` and its `#1` twin, and nowhere else — no other
 function pushes them, so unlike the race names in `docs/race-names.md` these are
-ordinary cherry-picks and translating the slots is safe. `%sで初トドメ` takes the
-character's `ViewName`, so it will already be English inside a Japanese frame
-once `patches/card_names.jaf` is applied. The five experience captions above them,
-`s[3934]`–`s[3938]`, are in the same position.
+ordinary cherry-picks and translating the slots is safe. All six are translated,
+in `patches/system_cherry_picks.v1.04.ain.txt`; `%sで初トドメ` is
+`First Finisher by %s` there, and the `%s` is the character's `ViewName`, which
+`patches/card_names.jaf` has already made English. The five experience captions
+above them, `s[3934]`–`s[3938]`, are in the same position and are translated
+alongside.
 
-## If this is ever to be changed
+## What the feature patches
+
+`features/always-first-finisher/` makes that +50 unconditional: with its switch
+file in place, every won battle earns it, whoever took the killing blow and
+however many they have taken already this quest. Rotating the last hit around the
+party is the chore it exists to remove.
+
+The hook is `Character@IsFinishAttack::get` (FUNC 27956), overridden to answer
+`false` while `custom_mods\always_first_finisher_on` is in the game folder and to
+call `super()` otherwise. That reaches the rule rather than the figure, which is
+the whole reason it is not the `Set#1` knob listed below: `Set` is not called at
+all on a repeat kill, so there is nothing there to intercept — it is the `if`
+that has to change.
+
+It also reaches exactly one decision in the game. Four functions in the whole
+`.ain` touch the member, and this is all of them — two reads, one of which
+nothing calls, and two writes:
+
+| | | |
+|---|---|---|
+| `Character@IsFinishAttack::get` | FUNC 27956 | one caller, `CalcTreasure` |
+| `Character@IsFinishAttack::get#1` | FUNC 27957 | no callers, the compiler's twin |
+| `Character@IsFinishAttack::set` | FUNC 27958 | `CalcTreasure` and `ClearIsFinishAttack` |
+| `.STRUCTASSIGN Character <IsFinishAttack> 0` | FUNC 27952 | the constructor |
+
+The one read is `PUSH 27956 / CALLMETHOD 0` rather than a struct reference, which
+is what makes it interceptable at all.
+
+Nothing else moves. The setter still runs, so `CalcTreasure` still marks the
+character — with the switch on, nobody reads the mark. Removing the file part way
+through a quest restores the original rule at once, because it is read as the
+result is calculated rather than at launch, and the marks that quest has already
+collected are still where it left them.
+
+What the feature deliberately leaves alone is the `id != ""` test above the flag:
+a kill the game credits to nobody earns nothing, switch or no switch. Reaching
+that case means overriding a total, and a total is the one thing here that cannot
+be changed quietly — `CalcResult` and `InitResultView` read the same getter, so
+the sum on the result screen would stop adding up to the list printed under it.
+
+The screen needs nothing further: `Set` stores the character id, and the caption
+is already English, so the line is simply there after every won battle instead of
+some of them.
+
+Being one `.jaf` and no `.jam` is the other thing worth noting, since both other
+features are a pair. A property getter needs neither `this` nor a caller's
+argument, and that — not the `override` keyword — is what sent those two to
+hand-written assembly.
+
+## The other handles
 
 `CalcTreasure` itself is a namespace function, not a method, and alice-tools'
 `.jaf` `override` is written for methods — the same wall
 `features/enemy-panel/enemy_info_panel.jam` ran into from the other side, and the reason that
-patch is hand-assembled. The class methods around it are the practical handles,
-and all three have a `super()` that reproduces the original exactly:
+patch is hand-assembled. If anything else here is ever tuned, the class methods
+around it are the practical handles, and all three have a `super()` that
+reproduces the original exactly:
 
 | Override | Reaches |
 |---|---|
@@ -200,9 +253,12 @@ and all three have a `super()` that reproduces the original exactly:
 Overriding a total changes the roll and the number the result screen prints,
 since `CalcResult` and `InitResultView` read the same getter — which is the right
 behaviour, and worth keeping if anything here is ever tuned. Overriding `Set#1`
-by type is the narrower knob: it is where a different figure than 50, or a
-different rule for who earns it, would go without touching the other four
-bonuses.
+by type is the narrower knob: it is where a different figure than 50 would go
+without touching the other four bonuses.
 
 Whichever it is, verify against the built `.ain` rather than the patch, the way
-the rest of this repository does.
+the rest of this repository does. An `override` shows up in
+`alice ain dump -c` twice — the original body where it always was, and the
+replacement appended at the end of the dump under the same `FUNC` number, calling
+the original as `::get#2`. The appended one is the live one; `Character@Name::get`
+from `patches/card_names.jaf` reads exactly the same way.

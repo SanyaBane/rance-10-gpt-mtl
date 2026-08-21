@@ -1,0 +1,97 @@
+/*
+ * The +50 "First Finisher" bonus on the treasure chest roll, every battle,
+ * whoever lands the kill -- written as the presence of a file:
+ * custom_mods\always_first_finisher_on under the game folder, beside
+ * Rance10.exe. Delete it and the bonus goes back to being once per character
+ * per quest. It is read as the battle result is calculated, so neither takes a
+ * restart.
+ *
+ * Unlike the other two features this is one file rather than a .jaf and a .jam
+ * pair, because the hook needs neither `this` nor a caller's argument: the
+ * whole of the rule is one property read, and alice-tools' .jaf `override`
+ * handles a property getter -- patches/card_names.jaf overrides two of them the
+ * same way, with the same super().
+ *
+ * WHAT THE GAME DOES. BattleBonusCalculator::CalcTreasure (FUNC 24820) sums
+ * five bonuses into the number RAND(100) is compared against, and one of them
+ * is:
+ *
+ *     string id = g_battleContext.RecentUsedSkill.KillingCharacterId;
+ *     if (id != "") {
+ *         ref Character c = g_character.Get(id);
+ *         if (!c.IsFinishAttack) {
+ *             c.IsFinishAttack = true;
+ *             r.Bonus.Set(初トドメ, 50, id);
+ *         }
+ *     }
+ *
+ * The flag is cleared for the whole cast by CharacterCollection@
+ * ClearIsFinishAttack, which SceneQuestSceneSet@ResetParm calls on the way into
+ * a quest and again on the way out -- so the scope is one run of one quest, and
+ * collecting the bonus means rotating who takes the last hit.
+ * docs/treasure-chest-chance.md has the rest of the arithmetic.
+ *
+ * WHY THE GETTER. Character.IsFinishAttack is member 6, and the read above goes
+ * through the accessor -- `PUSH 27956 / CALLMETHOD 0` in the dump, not a struct
+ * reference -- so it is interceptable. It is also the only read anything reaches.
+ * Four functions in the whole .ain touch the member, and this is all of them:
+ *
+ *     Character@IsFinishAttack::get    FUNC 27956   1 caller: CalcTreasure
+ *     Character@IsFinishAttack::get#1  FUNC 27957   0 callers, the compiler's twin
+ *     Character@IsFinishAttack::set    FUNC 27958   2: CalcTreasure, ClearIsFinishAttack
+ *     .STRUCTASSIGN ... 0              FUNC 27952   the constructor
+ *
+ * So overriding the getter reaches exactly one decision in the game -- whether
+ * this battle's killer has already earned the bonus this quest -- and nothing
+ * else can notice. The setter is left alone: CalcTreasure still marks the
+ * character, and with the switch on nobody ever reads the mark.
+ *
+ * The narrower knob docs/treasure-chest-chance.md names -- overriding
+ * BattleBonusCollection@Set#1 by type -- cannot do this one. Set is not called
+ * on a repeat kill at all, so there is nothing there to intercept; it is the
+ * condition that has to change, not the figure. Overriding the total instead
+ * would work but would print a sum the itemised list below it does not add up
+ * to, since CalcResult and InitResultView read the same getter.
+ *
+ * WHAT IT DOES NOT DO. The `id != ""` test above is untouched, so a kill the
+ * game credits to nobody still earns nothing. Reaching that case means patching
+ * the total, with the mismatch that entails, and it is rare enough not to be
+ * worth the screen looking broken.
+ *
+ * The result screen needs nothing further: Set stores the character id, and the
+ * caption is already English -- s[3942] "First Finisher by %s" in
+ * patches/system_cherry_picks.v1.04.ain.txt. With the switch on that line is
+ * simply on the screen after every won battle instead of some of them.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not take
+ * a backslash in a string literal at all, and Windows accepts either separator.
+ * It is looked for twice for the reason features/enemy-panel/enemy_info_panel.jaf
+ * gives: whether SystemService.GetGameFolderPath() ends in a separator is
+ * something the game does not agree with itself about, and trying both spellings
+ * settles it without running the game. A path that does not resolve reads as
+ * "no file", which is the harmless direction -- the game behaving exactly as it
+ * does unpatched.
+ */
+bool AlwaysFirstFinisherEnabled(void)
+{
+	string folder = SystemService.GetGameFolderPath();
+	return FileOperation.ExistFile(folder + "custom_mods/always_first_finisher_on")
+	    || FileOperation.ExistFile(folder + "/custom_mods/always_first_finisher_on");
+}
+
+/*
+ * "Has this character already taken a killing blow this quest?", answered no
+ * while the switch file is there.
+ *
+ * super() is the original getter and is what runs with the file absent, so an
+ * .ain with this feature in it and no switch file behaves exactly as an
+ * unpatched one. The one caller stats the file once per won battle, and only
+ * when the kill is credited to somebody.
+ */
+override bool Character@IsFinishAttack::get(void)
+{
+	if (AlwaysFirstFinisherEnabled()) {
+		return false;
+	}
+	return super();
+}
