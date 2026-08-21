@@ -2509,6 +2509,23 @@ s[8731] = "Maybe..."
 s[8735] = ".... Is it finally over?"
 s[8736] = "Quelplan?"
 
+; BraveModeView@SetParam
+;
+; The caption over the brave-mode screen, and the one place the in-game date is
+; wrapped in something rather than drawn on its own: "%s" is what
+; GameYear@ToString returns, which patches/lp_date.jam and patches/lp_date.jaf
+; render as "LP 7 Dec, early". Left in Japanese it would read
+; "LP 7 Dec, early（12ターン）終了".
+;
+; The slot is this caption's alone, so it is a string rather than another line
+; of that .jam. %D to %d for the same reason the date changed: half-width digits.
+;
+; "over" rather than "complete" because the caption has to fit. Its underline,
+; シス／勇者／年号下線, is 1024 pixels wide and the caption starts 35 in, and the
+; widest this can render -- "RA 15 May, late (turn 10) over" -- is 972 of the 989
+; that leaves. "(turn %d) complete" is 1121, wider even than the Japanese.
+s[3500] = "%s (turn %d) over"
+
 
 m[225088] = "I became a bit closer with Ero-yak ALV,"
 m[225089] = "and they performed some Rakugo for me."

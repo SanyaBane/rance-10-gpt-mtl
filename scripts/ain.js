@@ -117,6 +117,13 @@ run(async () => {
              * all until that has been run over the same game directory.
              */
             "--jaf", "patches/trophy_names.jaf",
+            /*
+             * The English words the in-game date is spelled out of -- the era,
+             * the twelve months and the two halves. Nothing calls these until
+             * patches/lp_date.jam below resolves them by name, which is why
+             * they are a plain .jaf of three functions rather than an override.
+             */
+            "--jaf", "patches/lp_date.jaf",
             "--jaf", path.relative(ROOT, RACE_JAF),
             /*
              * The name over the enemy's HP bar. Nothing else resolves against
@@ -138,6 +145,13 @@ run(async () => {
              * conditions are compared against -- the file says which and why.
              */
             "--jam", "patches/leader_state_names.jam",
+            /*
+             * The in-game date. A .jam because GameYear keeps its year, month
+             * and half as properties, which the .jaf compiler cannot read, so
+             * ToString has to be re-emitted rather than overridden; it calls
+             * the three functions patches/lp_date.jaf defines above.
+             */
+            "--jam", "patches/lp_date.jam",
         );
     } else if (features.length === 0) {
         console.log("  which is the game's own Rance10.ain: no text and no features is nothing to apply");

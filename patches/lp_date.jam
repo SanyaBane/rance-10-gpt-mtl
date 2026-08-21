@@ -1,0 +1,86 @@
+; GameYear@ToString, the one place the game builds the in-game date, re-emitted
+; so that the month arrives as a name: "LP 7 Dec, early" for ＬＰ７年１２月前半.
+;
+; It resolves GameYearEraName, GameYearMonthName and GameYearHalfName by name,
+; from patches/lp_date.jaf, so alice-tools has to be handed that file before
+; this one or it stops with "Unable to resolve function". That .jaf carries all
+; the English and the reasoning; this file is the wiring.
+;
+; A .jam rather than an override for one reason: GameYear keeps its four fields
+; as properties -- <YearTitle>, <Year>, <Month>, <Half> -- and the .jaf compiler
+; reaches none of them, so a `override string GameYear@ToString(void)` cannot
+; read the month it has to name. Overriding the getters instead does not help
+; either: Month::get returns an int, and the format string is what turns it into
+; text.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ" -- and an
+; editor that defaults .jam to UTF-8-with-BOM will quietly put one back.
+;
+; The body is that function verbatim from
+;
+;   alice ain dump --function GameYear@ToString game/ain/Rance10.v1.04.ain
+;
+; with four things changed and nothing else touched; regenerate it the same way
+; if the game version changes, since every number in it indexes one build of one
+; .ain. It adds no local, which is what makes it possible at all -- --jam
+; rewrites code and leaves the FUNC section alone, so a function keeps the
+; locals it was compiled with.
+;
+;   the format      "%s%D年%D月%s" becomes "%s %d %s, %s": half-width digits,
+;                   and the third field is a string now rather than a number
+;   26185           YearTitle::get, its result passed through GameYearEraName
+;   26191           Month::get, through GameYearMonthName, and S_MOD 2 -> S_MOD 4
+;   26194           Half::get, through GameYearHalfName, where the original
+;                   called 26203 HalfText::get and formatted the 前半 that
+;                   returns. Handing the int over instead leaves s[3111] and
+;                   s[3112] out of the chain entirely, which is the point: those
+;                   two are also the name of a CG the war-result screen asks for.
+;                   It leaves both HalfText getters with no callers, the way
+;                   表示規模 has none.
+;
+; The literals are written here rather than in
+; patches/system_cherry_picks.v1.04.ain.txt because what this function pushes is
+; what the four views show. s[3678] and s[3679] keep their Japanese and are read
+; by nothing else.
+;
+; Nothing needs clipping. Measured with gameTextWidth over every turn in
+; archives/Rance10EX_v1_04/36_ＬＰ情報.x, the widest English is "RA 15 May, late"
+; and it is narrower than the widest Japanese, ＬＰ７年１０月前半, at all four
+; sites: 419 against 441 on the turn-start banner, 193 against 207 in the corner
+; frame, 129 against 153 in the ADV box.
+FUNC 26200
+	PUSHSTRUCTPAGE
+	PUSH 26201
+	.STRUCTREF GameYear m_chapter
+	CALLMETHOD 1
+	IFNZ 0x404358
+	JUMP 0x4043b0
+0x404358:
+	S_PUSH "%s %d %s, %s"
+	PUSHSTRUCTPAGE
+	PUSH 26185
+	CALLMETHOD 0
+	CALLFUNC GameYearEraName
+	S_MOD 4
+	PUSHSTRUCTPAGE
+	PUSH 26188
+	CALLMETHOD 0
+	S_MOD 2
+	PUSHSTRUCTPAGE
+	PUSH 26191
+	CALLMETHOD 0
+	CALLFUNC GameYearMonthName
+	S_MOD 4
+	PUSHSTRUCTPAGE
+	PUSH 26194
+	CALLMETHOD 0
+	CALLFUNC GameYearHalfName
+	S_MOD 4
+	RETURN
+0x4043b0:
+	S_PUSH "XX ??/??"
+	RETURN
+	S_PUSH ""
+	RETURN
+ENDFUNC GameYear@ToString

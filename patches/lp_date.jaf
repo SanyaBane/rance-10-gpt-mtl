@@ -1,0 +1,97 @@
+/*
+ * The in-game date, in English: "LP 7 Dec, early" where the game writes
+ * ＬＰ７年１２月前半.
+ *
+ * GameYear@ToString is the only place the game builds that string --
+ * s[3678] = "%s%D年%D月%s" filled from YearTitle, Year, Month and Half -- and
+ * four views draw what it returns: the turn-start banner (LPYearView), the
+ * date under the turn number in the corner frame (CommonFrame@UpdateYear),
+ * the ADV corner box (AdvQuestInfo) and the brave-mode caption
+ * (BraveModeView, which wraps it in s[3500]). One function therefore covers
+ * every one of them.
+ *
+ * Translating the strings instead would take two of the four with it. s[3111]
+ * "前半" and s[3112] "後半" are pushed by GameYear@HalfText::get, and also by
+ * ResultYearView@SetParam into "シス／戦況／年月／%s" -- which is a CG name, and
+ * シス／戦況／年月／前半.ajp is a real entry in Rance10CG2. An English slot there
+ * asks the war-result screen for a picture that does not exist. So the
+ * strings keep their Japanese and the display is patched, the way
+ * patches/card_names.jaf does it for a card Id.
+ *
+ * What is here is only the English. The wiring is patches/lp_date.jam, which
+ * re-emits GameYear@ToString with these three called by name; it has to be
+ * handed to alice-tools after this file or it stops with "Unable to resolve
+ * function". docs/lp-date.md has the whole of it.
+ *
+ * A .jaf cannot do the job on its own, which is why there is a .jam beside it.
+ * GameYear stores its four fields as the properties <YearTitle>, <Year>,
+ * <Month> and <Half>, and the compiler reaches none of them: `Year` is
+ * "Undefined variable", `this.Year` is "Invalid struct member name". Plain
+ * members resolve -- `this.m_chapter` compiles -- but there are no plain
+ * members to read here. So the month number cannot be turned into a name
+ * inside an override of ToString, and the .jam passes it out to this file
+ * instead.
+ */
+
+/*
+ * The era. Two values reach this -- GameYear@InnerInit sets ＬＰ for chapter 1
+ * and ＲＡ for chapter 2 -- and the argument is the fallback, so anything else
+ * renders as it did unpatched.
+ *
+ * These two are s[3672] and s[3673], and nothing but the getter this reads
+ * from pushes either, so they could have been translated as strings. They are
+ * here because the era, the month and the half are one decision about how a
+ * date reads and belong in one file.
+ */
+string GameYearEraName(string era)
+{
+	if (era == "ＬＰ") {
+		return "LP";
+	}
+	if (era == "ＲＡ") {
+		return "RA";
+	}
+	return era;
+}
+
+/*
+ * The month, as a three-letter name. No switch -- the .jaf compiler answers
+ * "switch not supported" -- and no array, because a chain of twelve is the
+ * thing that certainly compiles.
+ *
+ * The number is the fallback rather than an empty string: the game's own
+ * calendar in archives/Rance10EX_v1_04/36_ＬＰ情報.x only ever holds 1 through
+ * 12, but a date built from a turn the table does not have would otherwise
+ * lose the month entirely.
+ */
+string GameYearMonthName(int month)
+{
+	if (month == 1)  { return "Jan"; }
+	if (month == 2)  { return "Feb"; }
+	if (month == 3)  { return "Mar"; }
+	if (month == 4)  { return "Apr"; }
+	if (month == 5)  { return "May"; }
+	if (month == 6)  { return "Jun"; }
+	if (month == 7)  { return "Jul"; }
+	if (month == 8)  { return "Aug"; }
+	if (month == 9)  { return "Sep"; }
+	if (month == 10) { return "Oct"; }
+	if (month == 11) { return "Nov"; }
+	if (month == 12) { return "Dec"; }
+	return "%d" % month;
+}
+
+/*
+ * Which half of the month. The .jam hands over Half itself rather than the
+ * string GameYear@HalfText::get makes of it, so nothing here depends on
+ * s[3111] and s[3112] still saying 前半 and 後半 by the time this runs.
+ *
+ * Everything that is not 0 is the second half, which is the test the original
+ * getter makes and has to be kept: chapter 2 stores -1 for all thirteen of its
+ * turns, and the game has always drawn 後半 for them. That is the game's own
+ * quirk rather than a hole in the translation, and reproducing it is the point.
+ */
+string GameYearHalfName(int half)
+{
+	return half == 0 ? "early" : "late";
+}
