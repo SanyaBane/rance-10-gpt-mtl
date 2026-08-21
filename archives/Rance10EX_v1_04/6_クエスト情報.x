@@ -179,7 +179,7 @@ table クエスト情報 = {
     {115,"魔王とミラクル",1,"Miki Kurusu","Contact with the protected Demon King","　Story Only","　Reward　　　Uncorrupted Demon King Miki","",0,1,0,0,0,"",0},
     {108,"ランス城散策",1,"Rance Castle","Explore Rance Castle, now humanity’s HQ","　Story Only","　Reward　　　Biscuitta","",0,1,0,0,0,"",0},
     {107,"サテラの魔人話",1,"Demon Satella","Hear from Satella about events in Monster Realm","　Story Only","　Reward　　　Medal","",0,1,0,0,0,"",0},
-    {9,"クルックーと女神アリス",10,"Pope Crook","Meanwhile, Pope Crukuru…","　Story Only","　Reward　　　Crukuru","",0,1,0,0,0,"",0},
+    {9,"クルックーと女神アリス",10,"Pope Crook","Meanwhile, Pope Crook…","　Story Only","　Reward　　　Crook","",0,1,0,0,0,"",0},
     {7,"ランス城の補給",1,"Support Copandon","Wealthy patron supporting Rance Castle’s economy","　Story Only","　Reward　　　Copandon","",0,1,0,0,0,"",0},
     {401,"アニス抱く",1,"Prisoner Anise","Interrogate girl possessed by a Demon?","　Story Only","　Reward　　　Torture Warrior","",0,1,0,0,0,"",0},
     {402,"ワーグ仲間",1,"Demon Warg","Contact with the protected Demon","　Story Only","　Reward　　　Demon Warg","",0,1,0,0,0,"",0},
