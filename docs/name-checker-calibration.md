@@ -187,12 +187,23 @@ it readable, and each removes a class the search would otherwise be drowned by:
 | an ordinary English word, by how much of its corpus-wide use falls on lines naming this character | `yell` → `well`, `leah` → `yeah`, `darkes` → `darkness` |
 
 That found **1052 lines over 87 names**, and the useful cut through them is what
-share of the character's own lines already spell the canonical: at 90% or better
-the variant is a stray and there is nothing to decide, which is `0c4e4d14` — 45
-names, 60 spellings, 181 records. Below 60% the corpus's own majority disagrees
-with the table, and 23 names are in that state; `Xacalite`, `Thalgo`,
-`Silbarrel` and `Notongatsu` do not occur in the corpus at **all**. Those are a
-decision about which spelling is canonical, not a repair.
+share of the character's own lines already spell the canonical.
+
+| Share | What it is | Done in |
+|---|---|---|
+| 90% and up | a stray, nothing to decide | `0c4e4d14` — 45 names, 60 spellings, 181 records |
+| 60–89% | a whole scene translated the other way | `b836a9cd` — 17 names, 28 spellings, 356 records |
+| under 60% | the corpus's own majority disagrees with the table | 23 names, open |
+
+The middle band is the one worth recognising, because it is not scattered slips.
+`Melpheis` is exactly `m[164301]`-`m[164489]` and `Melphees` exactly
+`m[164501]`-`m[165198]`, one scene apiece with the same character in both;
+`Kachusha` is `m[60289]`-`m[60950]` and nowhere else. A chunk was translated, the
+model held one spelling for the length of it, and the next chunk held another.
+
+The bottom band is a decision about which spelling is canonical rather than a
+repair, and `Xacalite`, `Thalgo`, `Silbarrel` and `Notongatsu` do not occur in
+the corpus at **all**.
 
 **Read the table as people, not as entries.** Two entries can be one person with
 two misspelling lists, and `normalizeNames` asks each entry only about its own
@@ -201,9 +212,24 @@ whose Japanese carries the other. `Caroria` is on かろ and not on カロリア
 lines kept it through every build (`8c59c4fd`). Grouping by canonical is also
 what stops those lines being reported as naming somebody else.
 
+**A piece of a listed misspelling is not listed.** `replaceWords` applies a
+misspelling whole, so a table that carries `Rerikofu` and `Rerikof-chan` repairs
+neither of the four lines writing bare `Rerikof` — and the search does not report
+them either, because a search that splits a spelling into words to catch short
+forms counts `rerikof` as something the entry already knows. Unreachable by the
+pass and invisible to the check, which is the worst of both: it reads in the
+table like it works. Found only by sweeping レリコフ and looking at what was left
+(`b836a9cd`).
+
 **And the sweep's guard has to be wider than `mentions()`.** Widening it caught
 13 lines in `0c4e4d14` that the strict form left behind, and every one of them
 was a line that should be fixed.
+
+**Recount the band after a sweep.** `レリコフ` was reviewed into `0c4e4d14`'s list
+and left out of the array it edited, so 45 of the 46 names shown were swept.
+What found it was re-running the band against the corpus as it then stood: a
+finished band reports only what was deliberately left in it, and anything else
+in there is a miss.
 
 ### Short names are not covered by any of this
 
