@@ -53,7 +53,8 @@
             "Lemei",
             "Lemay",
             "Lumey",
-            "Lumay"
+            "Lumay",
+            "Rumay"
         ]
     },
     {
@@ -177,7 +178,8 @@
         "shortNameJpn": "フレイア",
         "knownMistranslations": [
             "Freia",
-            "Freyja"
+            "Freyja",
+            "Freiya"
         ]
     },
     {
@@ -320,7 +322,8 @@
             "Kuerupuran",
             "Quelp",
             "Querpplan",
-            "Quelpulan"
+            "Quelpulan",
+            "Cuelplan"
         ]
     },
     {
@@ -437,7 +440,8 @@
             "Paiyaru",
             "Payar",
             "Piar",
-            "Pyarl"
+            "Pyarl",
+            "Piyar"
         ]
     },
     {
@@ -651,7 +655,8 @@
             "Kailbris",
             "Kairbriss",
             "Kabelis",
-            "Kebirisu"
+            "Kebirisu",
+            "Keburis"
         ]
     },
     {
@@ -673,7 +678,9 @@
             "Kvebnyan",
             "Kave Nyan",
             "Kivenyan",
-            "Kave-nyan"
+            "Kave-nyan",
+            "Kaybunyan",
+            "Kaebunyan"
         ]
     },
     {
@@ -687,7 +694,8 @@
             "Arcanase",
             "Arcaneese",
             "Arkaneze",
-            "Arukaneze"
+            "Arukaneze",
+            "Arukaneeze"
         ]
     },
     {
@@ -714,7 +722,9 @@
             "Kvebwan",
             "Cave-wan",
             "Kaibu One",
-            "Kaive One"
+            "Kaive One",
+            "Kaybuwan",
+            "Kaebuwan"
         ]
     },
     {
@@ -985,7 +995,13 @@
             "Aalcott",
             "Alcoat",
             "Arklot",
-            "Arclord"
+            "Arclord",
+            "Earlcoat",
+            "Alecourt",
+            "Aarukoto",
+            "Aarckort",
+            "Arikoto",
+            "Aarlcourt"
         ]
     },
     {
@@ -995,7 +1011,8 @@
             "Saizer",
             "Saizel",
             "Sizel",
-            "Saisel"
+            "Saisel",
+            "Seizer"
         ]
     },
     {
@@ -1091,7 +1108,9 @@
             "Crookchu",
             "Crucku",
             "Crooku",
-            "Crookke"
+            "Crookke",
+            "Crulk",
+            "Crullu"
         ]
     },
     {
@@ -1174,7 +1193,8 @@
             "Rithas",
             "Lysas",
             "Lysus",
-            "Lisath"
+            "Lisath",
+            "Leas"
         ]
     },
     {
@@ -1319,7 +1339,8 @@
             "Wenerina",
             "Wenlearner",
             "Wenlyna",
-            "Wenreena"
+            "Wenreena",
+            "Wenleena"
         ]
     },
     {
@@ -1337,7 +1358,8 @@
             "Ulza",
             "Uruza",
             "Ulzza",
-            "Ulrza"
+            "Ulrza",
+            "Ursa"
         ]
     },
     {
@@ -1470,7 +1492,8 @@
             "Carolyn",
             "Kaoru",
             "Caroli",
-            "Carolly"
+            "Carolly",
+            "Karory"
         ]
     },
     {
@@ -1548,7 +1571,8 @@
         "shortNameEng": "Cordoba",
         "shortNameJpn": "コルドバ",
         "knownMistranslations": [
-            "Cordova"
+            "Cordova",
+            "Korudoba"
         ]
     },
     {
@@ -1574,7 +1598,9 @@
             "Saius",
             "Cyas",
             "Saiaasu",
-            "Syuss"
+            "Syuss",
+            "Cyars",
+            "Cias"
         ]
     },
     {
@@ -1655,7 +1681,8 @@
             "Chronolas",
             "Selacroras",
             "Seracholas",
-            "Sarakoras"
+            "Sarakoras",
+            "Serakrulas"
         ]
     },
     {
@@ -1696,7 +1723,9 @@
     {
         "shortNameEng": "Heidi",
         "shortNameJpn": "ハイジ",
-        "knownMistranslations": []
+        "knownMistranslations": [
+            "Heiji"
+        ]
     },
     {
         "shortNameEng": "Housesnurse",
@@ -1749,7 +1778,9 @@
     {
         "shortNameEng": "Papaya",
         "shortNameJpn": "パパイア",
-        "knownMistranslations": []
+        "knownMistranslations": [
+            "Papaia"
+        ]
     },
     {
         "shortNameEng": "Barres",
@@ -1794,7 +1825,8 @@
             "Bisquet",
             "Bisquitta",
             "Biska",
-            "Biscretta-san"
+            "Biscretta-san",
+            "Biscutta"
         ]
     },
     {
@@ -2038,7 +2070,9 @@
             "Regent Kagome",
             "Princess Kou",
             "Kou-hime",
-            "Kougahime"
+            "Kougahime",
+            "Kaouhime",
+            "Kaohime"
         ]
     },
     {
@@ -2048,7 +2082,8 @@
             "Kaoru",
             "Kaori",
             "Ka",
-            "Koki"
+            "Koki",
+            "Kaou"
         ]
     },
     {
@@ -2083,7 +2118,8 @@
         "shortNameEng": "Katsuko",
         "shortNameJpn": "勝子",
         "knownMistranslations": [
-            "Katsuiko"
+            "Katsuiko",
+            "Koutsuko"
         ]
     },
     {
@@ -2098,7 +2134,8 @@
             "Isohoku",
             "Gojūroku",
             "Jūrokus",
-            "Jūroku"
+            "Jūroku",
+            "Issoroku"
         ]
     },
     {
@@ -2189,7 +2226,8 @@
             "Cala",
             "colored",
             "colors",
-            "color"
+            "color",
+            "Karman"
         ]
     },
     {
@@ -2271,7 +2309,8 @@
             "Ariosss",
             "Ariossss",
             "Ariosssss",
-            "Ares"
+            "Ares",
+            "Arius"
         ]
     },
     {
@@ -2429,14 +2468,16 @@
             "Nepracas",
             "Neplax",
             "Neprakath",
-            "Neplakus"
+            "Neplakus",
+            "Neplukas"
         ]
     },
     {
         "shortNameEng": "Papademas Shirusven",
         "shortNameJpn": "パパデマス",
         "knownMistranslations": [
-            "Papa Demas"
+            "Papa Demas",
+            "Papademus"
         ]
     },
     {
@@ -2453,7 +2494,8 @@
         "shortNameEng": "Varen",
         "shortNameJpn": "ファーレン",
         "knownMistranslations": [
-            "Fahren"
+            "Fahren",
+            "Faren"
         ]
     },
     {
@@ -2495,7 +2537,8 @@
         "shortNameEng": "Megawas Horus",
         "shortNameJpn": "メガワス",
         "knownMistranslations": [
-            "Mega Was"
+            "Mega Was",
+            "Megwass"
         ]
     },
     {
@@ -2774,7 +2817,8 @@
             "Zagai",
             "Gigarai",
             "Tagai",
-            "Zawagai"
+            "Zawagai",
+            "Gigi"
         ]
     },
     {
@@ -2945,7 +2989,8 @@
         "knownMistranslations": [
             "Rangii",
             "Rangyi",
-            "Ranji"
+            "Ranji",
+            "Rangy"
         ]
     },
     {
@@ -2962,7 +3007,8 @@
             "Desukoko",
             "Desuco",
             "Deathcoco",
-            "Desco co"
+            "Desco co",
+            "Deskoco"
         ]
     },
     {
@@ -2971,7 +3017,8 @@
         "knownMistranslations": [
             "Villenhowe",
             "Biyounhou",
-            "Byonhou"
+            "Byonhou",
+            "Byonho"
         ]
     },
     {
