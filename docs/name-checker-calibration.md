@@ -246,10 +246,22 @@ separate pass rather than a looser one. Eleven entries have a canonical under
 four letters — `El`, `Lia`, `Sel`, `Lei`, `Ex`, `Io`, `Am`, `Kou`, `Cu`, `Pi-R` —
 and only ＜エール＞ has been looked at (`dce75bb9`).
 
-A key with punctuation in it has the same shape of problem from the other end:
-the table's key is `＜エール＞` **with** the brackets, so the 194 lines whose
-Japanese writes `エール` bare are reachable by no entry at all. They spell her
-`Yell` 80 times, `Ale` 25, `Earl` 7 and `Eal` 3, and never `El`.
+### A key that carries more than the name
+
+The same problem from the other end, and it is not about length at all. An entry
+matches on its `shortNameJpn` exactly, so whatever else that key carries — a
+bracket, a title — has to be in the line too, and every line naming the character
+without it is reachable by no entry. Two of them, both found by sweeping the
+bracketed or titled form and looking at what was left over:
+
+| Key | Bare form | Lines | Spelled |
+|---|---|---|---|
+| `＜エール＞` | `エール` | 194 | `Yell` 80, `Ale` 25, `Earl` 7, `Eal` 3, `El` never |
+| `魔女リクチェル` | `リクチェル` | 22 | `Richel` 18, `Rikucher` 3, `Ricchel` 1 |
+
+Neither is a spelling question until somebody decides what the bare form is. Both
+are also invisible to every check in this repository, including the ones this
+file describes, because a check that starts from the table starts from the key.
 
 ## What the checker cannot see
 
