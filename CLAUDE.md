@@ -108,7 +108,11 @@ renders them. It does **not** run over `patches/system_cherry_picks.v1.04.ain.tx
 whose names have therefore never been held to the table. Its demon words have
 been swept since — 116 strings said Demon, 37 of them correctly, and the rest
 are written — but the sweep was by hand and the file is still unchecked at build
-time. `docs/system-cherry-picks.md` says how to read a slot's Japanese, and why
+time. Nor does it run over the corpus, where its raw output is 9435 complaints
+and stays unreadable until six classes of noise come off it.
+`docs/name-checker-calibration.md` is which six, and the two slices worth
+reading once they have. `docs/system-cherry-picks.md` says how to read a slot's
+Japanese, and why
 anything in that file overwrites the dialogue rather than adding to it.
 
 The name over a portrait in the dialogue window comes from neither the corpus
