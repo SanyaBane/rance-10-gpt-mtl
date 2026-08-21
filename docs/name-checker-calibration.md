@@ -254,14 +254,50 @@ bracket, a title — has to be in the line too, and every line naming the charac
 without it is reachable by no entry. Two of them, both found by sweeping the
 bracketed or titled form and looking at what was left over:
 
-| Key | Bare form | Lines | Spelled |
-|---|---|---|---|
-| `＜エール＞` | `エール` | 194 | `Yell` 80, `Ale` 25, `Earl` 7, `Eal` 3, `El` never |
-| `魔女リクチェル` | `リクチェル` | 22 | `Richel` 18, `Rikucher` 3, `Ricchel` 1 |
+| Key | Bare form | Lines | Spelled | Swept in |
+|---|---|---|---|---|
+| `＜エール＞` | `エール` | 194 | `Yell` 79, `Aile` 39, `Ale` 25, `Eru` 23, `Eiru` 12, `Earl` 7, `Earle` 4, `Eal` 3, `El` never | `bdbea3fd` |
+| `魔女リクチェル` | `リクチェル` | 77 | `Rikucheru` 45, `Richel` 18, `Rikchel` 5, `Rikucher` 3, `Ricchel` 1 | `e6f30219` |
 
-Neither is a spelling question until somebody decides what the bare form is. Both
-are also invisible to every check in this repository, including the ones this
+Both are invisible to every check in this repository, including the ones this
 file describes, because a check that starts from the table starts from the key.
+
+**Count the lines, not the spellings the table happens to know.** The figures
+above are the whole set; a filter built from the entry's own misspelling lists
+reports far less of it and reads like the whole. `Aile`, `Eru` and `Earle` are on
+neither ＜エール＞ entry, so 66 of the 194 were invisible to a search keyed on the
+table, and `リクチェル`'s count was 22 — the sum of the three spellings that
+happened to be listed — where the set is 77.
+
+**The canon is not a decision when the rest of the repository has already made
+it.** Neither bare form needed one: `El` is what
+`glossaries/card_name_glossary.tsv`, `41_識別名情報.x`, `11_スキルデータ.x`,
+`48_立ち絵名札マッピング情報.x` and `glossaries/summary_glossary.tsv` all write, and
+`Richelle` is what the first two and the last write for bare `リクチェル`. The
+corpus was the only thing disagreeing in either case. Look there before asking.
+
+**Ask what the word is doing before assuming it is the name.** `エール` is also a
+cheer in Japanese, which made 79 lines rendered `Yell` look like they might be
+ordinary English. Reading what follows each occurrence settled it — 達, 君, は, が,
+を, の, 女/男, と across all 194, and no `エールを送る` anywhere — so every one was
+the name. Two had gone the other way instead and rendered the name *as* the noun
+("The yells happen regardless of whether it's a man or a woman"), which no
+spelling rule reaches and which had to be written by hand.
+
+Neither sweep put an entry in the table. The corpus is baked, so the pass has
+nothing left to repair on lines that already read right, and what a fresh entry
+can still do is take a word off somebody else — the reasoning
+`docs/baked-name-repairs.md` sets out for `魔人`'s `"Demon"`. A bare `エール` entry
+would be worse than most: `El` is two letters, and the pass decides a line is
+already correct by plain `String.Contains`, so `Elder` or `Elsewhere` would
+silence it. Nothing in the 1718 `エール` lines opens a word with `El` today, which
+is why the sweep was safe — not why an entry would be.
+
+**What a titled key hides is not only the bare form.** `魔女リクチェル` is itself
+split, eight corpus lines writing `Richelle` against six writing `Richelle von do
+Kosusu`, and the repository divides the same way — the nameplate in
+`48_立ち絵名札マッピング情報.x` and `glossaries/enemy_party_glossary.tsv` say the long
+form, `41_識別名情報.x` and `glossaries/summary_glossary.tsv` the short. Open.
 
 ## What the checker cannot see
 
