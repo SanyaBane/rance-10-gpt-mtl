@@ -1056,7 +1056,8 @@
             "Moolaralo",
             "Moolaralu",
             "Muralarou",
-            "Muralalu"
+            "Muralalu",
+            "Mularalu"
         ]
     },
     {
@@ -1211,7 +1212,9 @@
             "Jiphteria",
             "Jifuteria",
             "Diptheria",
-            "Gifuteria"
+            "Gifuteria",
+            "Jihteria",
+            "Jipteria"
         ]
     },
     {
@@ -1447,7 +1450,8 @@
             "Garutia",
             "Galthia",
             "Gurgia",
-            "Galtya"
+            "Galtya",
+            "Galatia"
         ]
     },
     {
@@ -1468,7 +1472,8 @@
             "Karo",
             "Karomo",
             "Kouro",
-            "Caroria"
+            "Caroria",
+            "Caro"
         ]
     },
     {
@@ -1477,7 +1482,10 @@
         "knownMistranslations": [
             "Ganji",
             "Gangie",
-            "Gansy"
+            "Gansy",
+            "Gangee",
+            "Ghandi",
+            "Ganjy"
         ]
     },
     {
@@ -1590,7 +1598,9 @@
         "knownMistranslations": [
             "Sarnakia",
             "Sarakhia",
-            "Saarnakia"
+            "Saarnakia",
+            "Sarnakya",
+            "Sanaakia"
         ]
     },
     {
@@ -1873,7 +1883,9 @@
     {
         "shortNameEng": "Poron",
         "shortNameJpn": "ポロン",
-        "knownMistranslations": []
+        "knownMistranslations": [
+            "Polon"
+        ]
     },
     {
         "shortNameEng": "Magic",
@@ -1966,7 +1978,9 @@
             "Merufeisu",
             "Meruface",
             "Melphis",
-            "Melphaice"
+            "Melphaice",
+            "Melphees",
+            "Melpheis"
         ]
     },
     {
@@ -2396,7 +2410,10 @@
             "Elsile",
             "Elsheal",
             "Elcil",
-            "Elsea"
+            "Elsea",
+            "Elcirl",
+            "Elshiel",
+            "Elcyl"
         ]
     },
     {
@@ -2414,7 +2431,8 @@
             "Katiusha",
             "Katiusha-san",
             "Katusha",
-            "Kat-yusha"
+            "Kat-yusha",
+            "Kachusha"
         ]
     },
     {
@@ -2491,7 +2509,8 @@
             "Paleroa",
             "Palleroa",
             "Palerowa",
-            "Pareloa"
+            "Pareloa",
+            "Parella"
         ]
     },
     {
@@ -2549,7 +2568,8 @@
         "shortNameEng": "Yutin Fulz",
         "shortNameJpn": "ユーティン",
         "knownMistranslations": [
-            "Yuutin"
+            "Yuutin",
+            "Utin"
         ]
     },
     {
@@ -2589,7 +2609,8 @@
             "Erotic Yak-chan",
             "Erotak",
             "Eroyak",
-            "Eroyak-chan"
+            "Eroyak-chan",
+            "EroYac"
         ]
     },
     {
@@ -2664,7 +2685,10 @@
             "Relikoff",
             "Rerikoff",
             "Rerikof-chan",
-            "Rericof"
+            "Rericof",
+            "Relikof",
+            "Relikofu",
+            "Rerikof"
         ]
     },
     {
@@ -2771,7 +2795,9 @@
         "knownMistranslations": [
             "Orihime",
             "Ori-me",
-            "Oriorime"
+            "Oriorime",
+            "Orikime",
+            "Orikume"
         ]
     },
     {
@@ -2845,7 +2871,8 @@
         "shortNameEng": "British",
         "shortNameJpn": "ブリティシュ",
         "knownMistranslations": [
-            "Britisch"
+            "Britisch",
+            "Britsh"
         ]
     },
     {
@@ -3031,7 +3058,8 @@
         "knownMistranslations": [
             "Meglass",
             "Megaras",
-            "Megarasu"
+            "Megarasu",
+            "Megarus"
         ]
     },
     {
