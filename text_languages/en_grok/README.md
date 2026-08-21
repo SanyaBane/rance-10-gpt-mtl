@@ -46,7 +46,10 @@ What the script did, in full:
   formatting and the line endings. A diff of
   `git show en_gpt-final:text_languages/en_gpt/<file>.json` against
   `text_languages/en_grok/<file>.json` shows translation lines and nothing else,
-  which is still the way to read what the other translation made of a line;
+  which is still the way to read what the other translation made of a line --
+  though the English on this side is no longer only grok's: the name repairs
+  were written into it later, and `docs/baked-name-repairs.md` says which commit
+  drew that line;
 - replaced `translatedEnglishLine` with the grok text wherever the patch names
   that line -- 274913 of the 275312 records it copied. The number it looks the
   line up by is the v1.04 one, mapping the v1.00 numbering of `gpt_outputs/`

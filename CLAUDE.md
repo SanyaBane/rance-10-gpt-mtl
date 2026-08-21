@@ -121,6 +121,33 @@ rather than by `mentions()`: a plate key is a cast list as much as a name, and
 reading a name out of anything containing it made eight of thirteen complaints
 noise.
 
+## The name repairs are in the corpus, and have to stay agreed with it
+
+`normalizeNames` used to apply that table on the way into the patch and nowhere
+else, so 14 380 lines of `text_languages/en_grok/` said one thing on disk and
+another in the game. They are written in now: a chunk file reads the way a build
+of it reads.
+
+The pass still runs, and after a bake it repairs nothing — which is the check.
+**Run it over the corpus after any edit to the corpus or to the table, and expect
+0 lines.** Anything else means the two have drifted. Then render and diff:
+
+```
+node scripts/regenerate_aai_txt.js     # build/regenerated.en_grok.ain.txt
+```
+
+against a copy saved beforehand — the count of changed lines has to be the count
+of lines you edited, and no more.
+
+Two traps come with it. The pass skips a line whose English already holds the
+canonical name, by plain `String.Contains`, so a misspelling containing its own
+canonical name is a dead entry — `"Babolatat"` holds `"Babolat"` — and undoing a
+rendering takes a corpus edit rather than a table one. And a one-word misspelling
+that was worth having on a raw corpus is pure risk on a baked one: `魔人` listed
+`"Demon"`, which is how `前魔王ガイ` shipped as "the former Fiend King Guy" in 71
+lines. `docs/baked-name-repairs.md` has the rest, including how to write a chunk
+back without burying the edit.
+
 ## A string slot is shared by everything that pushes it
 
 `s[4018]` is the race `モンスター`, and it is also what
