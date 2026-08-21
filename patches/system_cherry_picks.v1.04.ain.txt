@@ -180,7 +180,7 @@ s[14860] = "General　Kabachahn"
 s[14818] = "Fiend　Silky"
 s[14820] = "Fiend　Lexington"
 s[14888] = "Temple Knights"
-s[14889] = "Bishop Lordling"
+s[14889] = "Bishop Lordring"
 s[14890] = "Commander ＢＳ"
 s[14891] = "Knight Nabelos VII"
 s[14892] = "Independent Mobile Unit"
@@ -710,23 +710,23 @@ s[15005] = "The human army is pushing back against the Monster Army.\nVictories 
 s[15006] = "Large-scale Reinforcements arrive from Japan.\r"
 s[15007] = "Downing morale and a lack of troops puts the entire army in danger of collapse.\r"
 s[15008] = "※ Military losses Reduced due to CP effect.\r"
-s[15009] = "Damage increases due to the machinations of the hero Teoman.\r"
+s[15009] = "Damage increases due to the machinations of the hero Theoman.\r"
 s[15014] = "The Remnants of Hornet's monsters have joined (50,000)\r"
 s[15015] = "The Poppins tribe has joined (50,000)\r"
 s[15016] = "The Excavation General's troops have joined (50,000)\r"
-s[15017] = "Haniwa and the others have joined (50,000)\r"
+s[15017] = "Hanny and the others have joined (50,000)\r"
 s[15018] = "The Apostle Atlanta invades Leazas Castle but is Repelled\r"
 s[15019] = "The impregnable Blue General Cordoba is killed in a fierce battle\r"
 s[15020] = "Enemy General Joseph issues the order for a major offensive\r"
 s[15021] = "The great city of Lich is under siege by the Monster Army\r"
-s[15022] = "Rumor has it that enemy General Joseph Received a letter of encouragement from Kaybilis.\r"
+s[15022] = "Rumor has it that enemy General Joseph Received a letter of encouragement from Kayblis.\r"
 s[15023] = "Rumor has it that enemy General Joseph has purged three of his subordinate monster generals.\r"
 s[15024] = "Rumor has it that enemy General Joseph is collecting valuable sex slaves.\r"
 s[15025] = "A unit is engulfed in flames by the Fiend Hawzel.\r"
 s[15026] = "The fort is blown up by the Fiend Silky.\r"
 s[15027] = "No sightings of the Fiend Lexington yet.\r"
 s[15028] = "General Rick's elite troops successfully launch a night attack.\r"
-s[15029] = "The nobles of the outlying Regions have Risen up against Queen Lea.\r"
+s[15029] = "The nobles of the outlying Regions have Risen up against Queen Lia.\r"
 s[15030] = "Rumors are spreading that Julia has been confessed to by a common soldier.\r"
 s[15032] = "The fortress at the back of the gate has fallen, and General Tolstoy has died.\r"
 s[15033] = "President Sheila's workload has doubled.\r"
@@ -818,7 +818,7 @@ s[10791] = "Acting Leader of JAPAN"
 s[10786] = "Rance’s Stalker"
 s[10787] = "Mayor of Geo"
 s[10788] = "Mayor of Ice City"
-s[10789] = "Mayor of Diphtheria"
+s[10789] = "Mayor of Diphteria"
 s[10790] = "Mayor of Hanna"
 s[10792] = "Radio Spirit, Kaga’s Guardian"
 s[10647] = "Cyborg"
@@ -839,12 +839,12 @@ s[10667] = "Demon, Servant of Rance"
 s[10668] = "Mysterious Dancer"
 s[10670] = "Villager, Former Hero"
 s[10673] = "Hero’s Attendant"
-s[10675] = "Villager, Teoman’s Childhood Friend"
-s[10676] = "Queen of the Color Race, Mayor of International City"
-s[10677] = "Queen of the Color Race"
+s[10675] = "Villager, Theoman’s Childhood Friend"
+s[10676] = "Queen of the Kalar Race, Mayor of International City"
+s[10677] = "Queen of the Kalar Race"
 s[10678] = "Pastel’s Daughter (Father = Rance)"
 s[10680] = "Pencilcow Defense Captain"
-s[10682] = "Color Race Secretary-General"
+s[10682] = "Kalar Race Secretary-General"
 s[10684] = "Ghost of Modern"
 s[10685] = "Former Queen (Heroic Spirit)"
 s[10687] = "Ghost of Vivid"
@@ -861,14 +861,14 @@ s[10700] = "Mysterious Merchant"
 s[10701] = "Queen of Leazas"
 s[10702] = "Lia’s Maid (De Facto Chancellor)"
 s[10703] = "Leazas Black Army General"
-s[10704] = "Leazas Black Army Strategist (Bares’ Adopted Son)"
+s[10704] = "Leazas Black Army Strategist (Barres’ Adopted Son)"
 s[10705] = "Leazas Black Army Strategist"
 s[10706] = "Leazas Blue Army General (Iron Wall)"
 s[10707] = "Leazas Blue Army Vice-General"
 s[10708] = "Leazas Red Army General (Death God)"
 s[10709] = "Leazas Red Army Vice-General"
 s[10710] = "Leazas White Army General"
-s[10711] = "Leazas White Army Vice-General (Bares’ Daughter)"
+s[10711] = "Leazas White Army Vice-General (Barres’ Daughter)"
 s[10713] = "Leazas Royal Guard Captain"
 s[10714] = "Leazas Royal Guard Vice-Captain"
 s[10716] = "Leazas Royal Guard (Nepotism)"
@@ -982,17 +982,17 @@ s[10859] = "Fiend Ruling the Monster Realm"
 s[10860] = "Apostle of Kayblis"
 s[10862] = "Kayblis Faction Fiend"
 s[10192] = "Kesselring’s Maid"
-s[10872] = "Red Eye Magical Monster Soldier"
+s[10872] = "RedEye Magical Monster Soldier"
 s[10873] = "Kayblis Faction Fiend (Parasite in Monster)"
 s[10875] = "Kayblis Faction Fiend (Parasite in Anise)"
 s[10877] = "Kayblis Faction Fiend (Parasite in Toppos)"
 s[10880] = "Galtia’s Apostle (Insect)"
 s[10884] = "Medusa’s Apostle Butler"
 s[10885] = "Former Hornet Faction Fiend"
-s[10886] = "Apostle of Saizel"
-s[10887] = "Apostle of Hausel"
-s[10889] = "Machine Implanted with Pyar’s Memory"
-s[10891] = "Pyar’s Sister"
+s[10886] = "Apostle of Seizel"
+s[10887] = "Apostle of Hawzel"
+s[10889] = "Machine Implanted with Pi-R’s Memory"
+s[10891] = "Pi-R’s Sister"
 s[10892] = "Village Girl"
 s[10894] = "Girl Bearing Fiend Power"
 s[10896] = "Apostle of Lexington"
@@ -1002,7 +1002,7 @@ s[10904] = "Monster Grand Marshal"
 s[9607] = "Monster (Special Individual)"
 s[10907] = "Maelita Squad Captain"
 s[10908] = "Swordmaster"
-s[10910] = "Son of Felis (Father = Rance)"
+s[10910] = "Son of Feliss (Father = Rance)"
 s[10912] = "Commander-in-Chief, Helman Front"
 s[10914] = "Commander-in-Chief, Free City Front"
 s[10916] = "Commander-in-Chief, Leazas Front"
@@ -1015,7 +1015,7 @@ s[10932] = "Great Witch (Mother of Mix)"
 s[10934] = "Regent of JAPAN"
 s[10936] = "Head of Copa Empire, Wealthy"
 s[10937] = "Handsome Hanny"
-s[10938] = "Child of Crucchu (Father = Rance)"
+s[10938] = "Child of Crook (Father = Rance)"
 s[10939] = "Ruler of JAPAN, Child of Isoroku (Father = Rance)"
 s[10940] = "JAPAN Shrine Maiden, Child of Princess Sen (Father = Rance)"
 s[10941] = "Sisters Fleeing from the Demon King"
@@ -1027,8 +1027,8 @@ s[10946] = "Town Doctor, Child of Miracle (Father = Rance)"
 s[10947] = "Warrior in Training, Child of Teru (Father = Rance)"
 s[10948] = "Defender Vice-Captain"
 s[10949] = "Rogue Ninja, Child of Kanami (Father = Rance)"
-s[10951] = "??? Child of Chirdy (Father = Rance)"
-s[10952] = "Dragon, Child of Patton and Hanty"
+s[10951] = "??? Child of Tilde (Father = Rance)"
+s[10952] = "Dragon, Child of Patton and Hunty"
 s[10953] = "Former Bandit"
 s[10954] = "Former Servant of Rance"
 s[10955] = "Combat Unit Captain of Rance Corps"
@@ -1073,7 +1073,7 @@ s[8107] = "I'll help too"
 s[8113] = "Even in the bath?"
 s[8114] = "Even when sleeping?"
 s[8128] = "I think we can win if we try our best"
-s[8129] = "Zans is stronger"
+s[8129] = "Zance is stronger"
 s[8137] = "Did something happen?"
 s[8140] = "Doodle on their face"
 s[8141] = "Cover them with a blanket"
@@ -1224,9 +1224,9 @@ s[8320] = "Let's search a little more."
 ; 601/Nagata rescues
 s[8321] = "Drop weapon"
 s[8322] = "Try to persuade him somehow"
-s[8323] = "Split Nagata"
+s[8323] = "Split Nagata-kun"
 s[8324] = "Extend hand"
-s[8325] = "Accuse Nagata"
+s[8325] = "Accuse Nagata-kun"
 s[8326] = "Lightly punch his head"
 
 ; 601/Lance Jr./Pre-battle
@@ -1268,7 +1268,7 @@ s[8760] = "I won't forgive you. I'll tear you to pieces."
 
 ; 602 / Hero Geymark
 s[8761] = "I'll try to get closer."
-s[8762] = "I'll put Nagata in front."
+s[8762] = "I'll put Nagata-kun in front."
 
 ; 602 / Arms Encounter 1
 s[8763] = "Yeah, this is impressive."
@@ -1360,7 +1360,7 @@ s[8831] = "Let's find Reset."
 ; 603 / Reset Topic
 s[8832] = "Easy win."
 s[8835] = "Gather information about Kalar's daughter"
-s[8836] = "Korra the talkative one"
+s[8836] = "The talkative Kalar"
 s[8833] = "I'll do my best."
 s[8834] = "It'll all work out."
 s[8837] = "Gather information from monsters."
@@ -1548,9 +1548,9 @@ s[8989] = "They'll surely be helpful."
 
 ; 604 / Who is the leader?
 s[8991] = "Trust me."
-s[8992] = "I'll do my best to gain Zans's approval."
-s[8993] = "I'll show Zans his worth."
-s[8994] = "Let's kill Zans."
+s[8992] = "I'll do my best to gain Zance's approval."
+s[8993] = "I'll show Zance his worth."
+s[8994] = "Let's kill Zance."
 
 ; 604 / Meanwhile, the Demon General
 s[8995] = "Monster General Darson"
@@ -1607,7 +1607,7 @@ s[9028] = "I can't wait to meet him."
 
 ; 605/Teahouse
 s[9031] = "It's delicious."
-s[9032] = "I'll eat Zans's share too."
+s[9032] = "I'll eat Zance's share too."
 
 ; 605/Arrived at Oda Castle
 s[9033] = "Take this seriously, please"
@@ -1615,8 +1615,8 @@ s[9034] = "Yay!"
 s[9035] = "Let's go inside!"
 s[9036] = "Let's go help Rangi!"
 s[9037] = "Let's go defeat the oni!"
-s[9038] = "Persuade Zans"
-s[9039] = "Stare intently at Zans"
+s[9038] = "Persuade Zance"
+s[9039] = "Stare intently at Zance"
 
 ; 605/Ran'gi 2
 s[9040] = "Introduce yourself politely"
@@ -1667,8 +1667,8 @@ s[9075] = "It's a pain."
 s[9076] = "I'm not sure."
 s[9077] = "Are you on bad terms with Rangi?"
 s[9078] = "What if I get along with Rangi?"
-s[9079] = "Are you on bad terms with Zans?"
-s[9080] = "Can't you get along with Zans?"
+s[9079] = "Are you on bad terms with Zance?"
+s[9080] = "Can't you get along with Zance?"
 s[9081] = "Just a little."
 s[9082] = "Attacked by East Helman"
 ; will probably break her sprite - should remove if so
@@ -1677,7 +1677,7 @@ s[3218] = "Tone"
 ; 605 / Ooni / Before the battle
 s[9083] = "Just step in and say 'Come on, come on.'"
 s[9084] = "Turn a blind eye."
-s[9085] = "Have Nagata stop it."
+s[9085] = "Have Nagata-kun stop it."
 ; Seems like sound effects? There were no choices like these
 ; s[9086] = "Something's roaring."
 ; s[9087] = "Dang!"
@@ -1799,7 +1799,7 @@ s[9176] = "Going to look for the orb"
 
 ; 607/Sushinu's room
 s[9177] = "Let's go together."
-s[9178] = "Push Nagata."
+s[9178] = "Push Nagata-kun."
 
 ; 607 / Persuade Sushinu
 s[9180] = "We have no choice."
@@ -1834,7 +1834,7 @@ s[9207] = "Cheer her."
 s[9210] = "I'm surprised."
 s[9211] = "I understand."
 ; Might cause crashes, need to test
-s[3220] = "Osada-kun"
+s[3220] = "Nagata-kun"
 
 ; 607 / Love Story 2
 s[9213] = "Good morning"
@@ -1842,7 +1842,7 @@ s[9214] = "Sorry for talking to you"
 s[9215] = "What flavor toothpaste do you use?"
 
 ; 607 / Demon World
-s[9216] = "Osada-kun and Sushi-nu"
+s[9216] = "Nagata-kun and Sushinu"
 
 ; 607 / Accompanying Motonari
 s[9217] = "Shall we hold hands?"
@@ -1899,7 +1899,7 @@ s[9278] = "Sushinu looked cool"
 s[9279] = "I'm always here to help you."
 
 ; 607 / Entering the Naked Area / Female Route
-s[9280] = "Is Zans coming too?"
+s[9280] = "Is Zance coming too?"
 s[9281] = "Wait here."
 
 ; 607 / Female / Entering the Naked Area
@@ -1921,7 +1921,7 @@ s[9301] = "The third person."
 
 ; 608 / East Herman
 s[9303] = "Deliver the letter from your mother."
-s[9304] = "Put miso soup on Nagata's head."
+s[9304] = "Put miso soup on Nagata-kun's head."
 
 ; 608/Langbau
 s[9305] = "Don't get carried away."
@@ -2015,7 +2015,7 @@ s[9369] = "Touch the chest"
 s[9370] = "Stroke the cheek"
 
 ; 608 / Epilogue
-s[9371] = "Extract the sunlight"
+s[9371] = "Draw Nikkou"
 s[9372] = "For some reason, I managed to get it"
 s[9373] = "This is the power of the chosen one, gahahahaha!"
 s[9374] = "I'm giving it back"
@@ -2028,9 +2028,9 @@ s[9380] = "Remain silent"
 s[9381] = "I'll ignore the flow and get revenge for the attack."
 
 ; 609/M Land 1
-s[9382] = "Is Kopandon here?"
+s[9382] = "Is Copandon here?"
 s[9383] = "What Ride?"
-s[9391] = "Kopandon's subordinate"
+s[9391] = "Copandon's subordinate"
 
 ; 609/Arrival in God of War City
 s[9392] = "Eat at a Food Stall"
@@ -2041,7 +2041,7 @@ s[9404] = "Do Your Best"
 s[9405] = "Show Me Your Adult Side"
 
 ; 609 / Qualifier 2
-s[9412] = "You're a dogi!"
+s[9412] = "You're Dogi Magi!"
 s[9413] = "Who are you?"
 s[9415] = "We'll advance"
 s[9416] = "I'll defeat you in the main tournament"
@@ -2064,7 +2064,7 @@ s[9433] = "Turn on Magic Vision"
 s[9441] = "I'll give it my all"
 
 ; 609 / Round 1 Relikov / Pre-battle
-s[9443] = "God of War Tournament Staff"
+s[9443] = "Toushin Tournament Staff"
 s[9444] = "I'll do my best!"
 s[9445] = "I won't try my best!"
 s[9447] = "I'm nervous"
@@ -2092,7 +2092,7 @@ s[9467] = "Unfriendly store clerk"
 s[9468] = "Where is Arms?"
 
 ; 609 / Round 2 / Before the battle
-s[9470] = "God of War Tournament Staff"
+s[9470] = "Toushin Tournament Staff"
 
 ; 609 / Round 2 / After the battle
 s[9472] = "Brobio's Partner"
@@ -2118,7 +2118,7 @@ s[9484] = "All I can do is give it my all"
 ; 609 / Bar 1
 s[9485] = "I'll do my best"
 s[9486] = "I have no intention of losing to anyone."
-s[9487] = "I'll become a God of War and live a good life."
+s[9487] = "I'll become a Toushin and live a good life."
 
 ; 609 / Round 3 Arms / Pre-battle
 s[9488] = "What are you talking about?"
@@ -2171,7 +2171,7 @@ s[9534] = "Believer Nakhtu"
 s[9537] = "Take a short break"
 s[9538] = "Passing monster"
 s[9539] = "Wave back because you're happy"
-s[9540] = "Embarrassed, so bring Nagata forward"
+s[9540] = "Embarrassed, so bring Nagata-kun forward"
 s[9541] = "Give the middle finger because it's annoying"
 
 ; 609 / Toushin Digest 8
@@ -2204,7 +2204,7 @@ s[8344] = "Pull her nose"
 
 ; 610 / Arrived at Shoryuzan
 s[8345] = "Nod vigorously"
-s[8346] = "Are you coming as well, Nagata?"
+s[8346] = "Are you coming as well, Nagata-kun?"
 s[8347] = "Let's go"
 
 ; 610 / Mothers at that time 1
@@ -2251,7 +2251,7 @@ s[8400] = "Let's rest now."
 s[8401] = "SX Stone Guardian"
 
 ; 610 / Emergency Meeting
-s[8404] = "I agree with Zans's opinion."
+s[8404] = "I agree with Zance's opinion."
 s[8405] = "I agree with Rangi's opinion."
 s[8406] = "I agree with both of their opinions."
 
@@ -2295,7 +2295,7 @@ s[8448] = "Giant Monster Quelplan"
 
 ; 611 / Reunited with the others
 s[8449] = "You're beautiful."
-s[8450] = "What color is your black hair?"
+s[8450] = "A black-haired Kalar?"
 s[8451] = "Thank you for helping me."
 
 ; 611/Recover
@@ -2352,7 +2352,7 @@ s[8521] = "Let's go! To Mount Shoryu!"
 s[8523] = "My first time at a hot spring"
 
 ; 611 / Hot Springs / Men's Bath
-s[8529] = "Massaging Zans's breasts."
+s[8529] = "Massaging Zance's breasts."
 s[8530] = "Massaging Rangi's breasts."
 s[8531] = "Massaging Nagata-kun's breasts."
 
@@ -2398,7 +2398,7 @@ s[8606] = "Uzume doesn't need to do that."
 s[8608] = "I promise I'll come back alive."
 
 ; 611 / The Night Before the Final Battle / Zans
-s[8609] = "You say that too, Zans?"
+s[8609] = "You say that too, Zance?"
 s[8610] = "What's wrong?"
 s[8612] = "Aren't you going to say anything?"
 s[8613] = "Okay."
@@ -2482,7 +2482,7 @@ s[8681] = "Hide in the shadow of the ice sculpture"
 
 ; ６１３／ランスと子供達
 s[8694] = "Pull Rance's cheeks"
-s[8695] = "Pull Nagata's cheeks"
+s[8695] = "Pull Nagata-kun's cheeks"
 s[8696] = "Put a shell on Rance's head"
 
 ; ６１３／今後の対策
