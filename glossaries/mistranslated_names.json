@@ -528,7 +528,8 @@
             "magic",
             "Mazin",
             "Madman",
-            "Martian"
+            "Martian",
+            "warlock"
         ]
     },
     {
@@ -1414,7 +1415,8 @@
             "Garthia",
             "Garutia",
             "Galthia",
-            "Gurgia"
+            "Gurgia",
+            "Galtya"
         ]
     },
     {
@@ -1582,6 +1584,13 @@
             "Sateera",
             "Sateira",
             "Satela"
+        ]
+    },
+    {
+        "shortNameEng": "Xavier",
+        "shortNameJpn": "ザビエル",
+        "knownMistranslations": [
+            "Javier"
         ]
     },
     {
