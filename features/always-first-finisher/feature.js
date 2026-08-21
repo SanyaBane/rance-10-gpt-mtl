@@ -31,7 +31,7 @@ export default {
      * does nothing until a file exists has to say so somewhere the player
      * looks.
      */
-    howToTurnOn: "Create an empty file called `custom_mods\always_first_finisher_on` beside `Rance10.exe` to"
+    howToTurnOn: "Create an empty file called `custom_mods\\always_first_finisher_on` beside `Rance10.exe` to"
         + " turn it on, and delete it to turn it off. It is read as the battle result is calculated, so neither"
         + " takes a restart. With the file there, the result screen lists First Finisher +50 after every won"
         + " battle instead of only the first time each character takes a killing blow in a quest.",
