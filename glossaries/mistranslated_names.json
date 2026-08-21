@@ -1361,9 +1361,7 @@
     {
         "shortNameEng": "Chaos",
         "shortNameJpn": "カオス",
-        "knownMistranslations": [
-            "chaos"
-        ]
+        "knownMistranslations": []
     },
     {
         "shortNameEng": "Kaoru",
@@ -1389,9 +1387,7 @@
         "shortNameJpn": "カフェ",
         "knownMistranslations": [
             "Café",
-            "Kafe",
-            "cafe",
-            "café"
+            "Kafe"
         ]
     },
     {
@@ -1966,8 +1962,7 @@
         "shortNameEng": "Reset",
         "shortNameJpn": "リセット",
         "knownMistranslations": [
-            "Risette",
-            "reset"
+            "Risette"
         ]
     },
     {
