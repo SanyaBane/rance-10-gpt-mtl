@@ -7675,7 +7675,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "To Mount Shoryu... to\nDemon Lord Rance...",
+					説明 = "To Mount Shoryu... to\nDemon King Rance...",
 				},
 			},
 		},
