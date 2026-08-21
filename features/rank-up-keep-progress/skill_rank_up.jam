@@ -1,0 +1,126 @@
+; The in-battle rank-up skill effect, promoting a leader without emptying the
+; bar it had filled.
+;
+; Half of a feature a build can leave out -- the switch is
+; rank_up_keep_progress.jaf beside it, the other patched site is
+; quest_map_exp.jam, and feature.js in this folder is where the three are named.
+; The .jaf is where the arithmetic and the reasoning live; this file is about
+; where the hook goes.
+;
+; SkillEffectProcessRankUp is the "<Player>がランクアップ！" effect: Evaluate
+; (27506) picks a target through FindLeader, which shuffles the party's leaders
+; and takes one whose star count is at most m_value, and Process below is what
+; pays it. One target per firing, so the switch is read at most once per use.
+;
+; THE ONE ADDED INSTRUCTION. The original hands AddExp exactly the shortfall
+;
+;     c.AddExp(c.NextExp - c.Exp)
+;
+; and the CALLFUNC below sits between the c.Exp read and the SUB, so the
+; subtrahend is whatever the switch returns: c.Exp with the file absent, which
+; is the game unchanged, or 0 with it there, which pays the full price of the
+; rank and leaves what the character had in the bar.
+;
+;   .LOCALREF c / PUSH 27944 / CALLMETHOD 0   c.NextExp
+;   .LOCALREF c / PUSH 27941 / CALLMETHOD 0   c.Exp
+;   CALLFUNC RankUpExpToConsume               c.Exp, or 0 while the switch is on
+;   SUB
+;
+; Note which of the two this site reads: c.NextExp, the stored field, where
+; quest_map_exp.jam's site recomputes the threshold from the star count through
+; SceneQuestMapExp@CalcRankUpExp. They agree for any character the game has
+; maintained, and neither is touched here -- only the subtraction is.
+;
+; This is a .jam rather than a .jaf for the same reason as its pair: Process is
+; a method reading m_target throughout, and alice-tools' .jaf compiler resolves
+; neither `this` nor a struct's own members inside an override. It adds no
+; locals, which --jam could not do anyway, and needs none.
+;
+; Process is dispatched virtually -- the only PUSH 27510 in the whole dump is
+; the vtable being built in SkillEffectProcessRankUp@2 -- so replacing the body
+; is enough and the table needs no edit.
+;
+; Everything except that one line is SkillEffectProcessRankUp@Process verbatim,
+; from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; Regenerate it the same way if the game version changes: 27108, 27123, 27130,
+; 27137, 27828, 27944, 27941, 27962, 28070, 28086, 28184 and the local indices
+; are indices into one build of one .ain and mean nothing in the next.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1, and an editor that defaults .jam to
+; UTF-8-with-BOM will quietly put one back.
+FUNC 27510
+	PUSHLOCALPAGE
+	PUSH 0
+	.STRUCTREF SkillEffectProcessRankUp m_target
+	PUSH 27108
+	CALLMETHOD 0
+	ASSIGN
+	POP
+	PUSHLOCALPAGE
+	PUSH 1
+	.STRUCTREF SkillEffectProcessRankUp m_target
+	PUSH 6
+	REF
+	ASSIGN
+	POP
+	PUSHLOCALPAGE
+	PUSH 2
+	DUP2
+	REF
+	DELETE
+	.STRUCTREF SkillEffectProcessRankUp m_target
+	PUSH 27123
+	CALLMETHOD 0
+	.STACK_LOCALASSIGN "<dummy : LeaderCard@CardInstance::getの戻り値>"
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : LeaderCard@CardInstance::getの戻り値>"
+	PUSHLOCALPAGE
+	PUSH 4
+	DUP2
+	REF
+	DELETE
+	.LOCALREF p
+	PUSH 28086
+	CALLMETHOD 0
+	CALLFUNC findCharacterFromCardId
+	.STACK_LOCALASSIGN "<dummy : findCharacterFromCardIdの戻り値>"
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : findCharacterFromCardIdの戻り値>"
+	.LOCALREF c
+	PUSH 27962
+	.LOCALREF c
+	PUSH 27944
+	CALLMETHOD 0
+	.LOCALREF c
+	PUSH 27941
+	CALLMETHOD 0
+	CALLFUNC RankUpExpToConsume
+	SUB
+	CALLMETHOD 1
+	POP
+	.GLOBALREF g_playerCard
+	PUSH 28184
+	.LOCALREF orgId
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : PlayerCardCollection@GetOrganizationの戻り値>"
+	PUSH 28070
+	CALLMETHOD 0
+	.LOCALDELETE "<dummy : PlayerCardCollection@GetOrganizationの戻り値>"
+	.GLOBALREF g_party
+	PUSH 27828
+	CALLMETHOD 0
+	.STACK_LOCALASSIGN "<dummy : Party@_Leaders::getの戻り値>"
+	PUSH 27137
+	.LOCALREF index
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : LeaderCardCollection@Getの戻り値>"
+	PUSH 27130
+	CALLMETHOD 0
+	.LOCALDELETE "<dummy : LeaderCardCollection@Getの戻り値>"
+	.LOCALDELETE "<dummy : Party@_Leaders::getの戻り値>"
+	RETURN
+ENDFUNC SkillEffectProcessRankUp@Process
