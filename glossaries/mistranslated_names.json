@@ -146,7 +146,8 @@
             "Puru-petto",
             "Puru-petto",
             "Pulpet",
-            "Pluppet"
+            "Pluppet",
+            "Pruupetto"
         ]
     },
     {
@@ -170,7 +171,10 @@
             "Kabahan",
             "Kabaughaan",
             "Kabahaan",
-            "Kabah"
+            "Kabah",
+            "Kabakhan",
+            "Kabakhaan",
+            "Kababahan"
         ]
     },
     {
@@ -344,7 +348,12 @@
             "Shinkone",
             "Tokone",
             "Fukane",
-            "Deep Root"
+            "Deep Root",
+            "Fukone",
+            "Mizune",
+            "Mimine",
+            "Fukune",
+            "Mikune"
         ]
     },
     {
@@ -552,7 +561,9 @@
     {
         "shortNameEng": "Xacalite",
         "shortNameJpn": "ザカリテ",
-        "knownMistranslations": []
+        "knownMistranslations": [
+            "Zakalite"
+        ]
     },
     {
         "shortNameEng": "Kayblis",
@@ -1301,7 +1312,10 @@
     {
         "shortNameEng": "Amitos",
         "shortNameJpn": "アミトス",
-        "knownMistranslations": []
+        "knownMistranslations": [
+            "Amithos",
+            "Amytos"
+        ]
     },
     {
         "shortNameEng": "Alex",
@@ -1379,7 +1393,8 @@
         "shortNameJpn": "エロピチャ",
         "knownMistranslations": [
             "Erotic Picha",
-            "Eripicha"
+            "Eripicha",
+            "Ero Piccha"
         ]
     },
     {
@@ -1393,7 +1408,9 @@
         "knownMistranslations": [
             "Olore",
             "Orure",
-            "Oruore"
+            "Oruore",
+            "Orlore",
+            "Oluore"
         ]
     },
     {
@@ -1776,7 +1793,10 @@
             "Haureen",
             "Haur",
             "Hauleen",
-            "Haulene"
+            "Haulene",
+            "Houreen",
+            "Howlen",
+            "Hourane"
         ]
     },
     {
@@ -2045,7 +2065,10 @@
         "knownMistranslations": [
             "Rubelan",
             "Rubellan",
-            "Rüberan"
+            "Rüberan",
+            "Luberaan",
+            "Luveran",
+            "Lubelan"
         ]
     },
     {
@@ -2291,7 +2314,9 @@
         "shortNameJpn": "シルバレル",
         "knownMistranslations": [
             "Silverel",
-            "Silveral"
+            "Silveral",
+            "Silverrel",
+            "Sylbarrel"
         ]
     },
     {
@@ -2455,7 +2480,8 @@
         "shortNameJpn": "タルゴ",
         "knownMistranslations": [
             "Talgo",
-            "Targo"
+            "Targo",
+            "Tarugo"
         ]
     },
     {
@@ -2715,7 +2741,10 @@
             "Rikucherul",
             "Rikchel",
             "Rikucheru",
-            "Rikucheru-san"
+            "Rikucheru-san",
+            "Richel",
+            "Rikucher",
+            "Ricchel"
         ]
     },
     {
@@ -2758,7 +2787,9 @@
         "knownMistranslations": [
             "Kola",
             "Cora",
-            "Kōra"
+            "Kōra",
+            "Kora",
+            "Colla"
         ]
     },
     {
@@ -2812,7 +2843,8 @@
         "shortNameEng": "Nogiku",
         "shortNameJpn": "野菊",
         "knownMistranslations": [
-            "Yogiku"
+            "Yogiku",
+            "Nojiku"
         ]
     },
     {
@@ -2855,7 +2887,8 @@
         "shortNameEng": "Frostbain",
         "shortNameJpn": "フロストバイン",
         "knownMistranslations": [
-            "Frostvine"
+            "Frostvine",
+            "Frostbine"
         ]
     },
     {
@@ -2893,7 +2926,8 @@
             "Jaharlukus",
             "Jaharrcus",
             "Jaharukas",
-            "Jahalkkus"
+            "Jahalkkus",
+            "Jahalukkas"
         ]
     },
     {
@@ -2937,7 +2971,8 @@
         "shortNameJpn": "よーぜふ",
         "knownMistranslations": [
             "Joseph",
-            "Yosef"
+            "Yosef",
+            "Yozeff"
         ]
     },
     {
@@ -2968,7 +3003,8 @@
         "shortNameJpn": "ノートンガツ",
         "knownMistranslations": [
             "Norton Gatsu",
-            "Nortongatsu"
+            "Nortongatsu",
+            "Nortonguts"
         ]
     },
     {
@@ -2997,7 +3033,8 @@
         "shortNameJpn": "小十郎",
         "knownMistranslations": [
             "Kojuro",
-            "Kojurou"
+            "Kojurou",
+            "Jujuro"
         ]
     },
     {
