@@ -34,7 +34,7 @@ type:
 |---|---|
 | `PartyBonusOnStart::get` (27621) | `SumValues(PartyBonusUp)` |
 | `RatioExpUp::get` (27623) | `(100 + SumValues(ExpUp)) / 100.0` |
-| `MapExpBonusUp::get` (27625) | `SumValues(MapExpBonusUp)` |
+| `MapExpBonusUp::get` (27625) | `SumValues(MapExpBonusUp) + 1` — the only one with a base, so 1 unbought and up to 3 |
 | `BaseCardStarRank::get` (27627) | `SumValues(StarOnStart)`, read by `CharacterCollection@Create` (27974) |
 
 ## How the two reach the party

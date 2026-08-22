@@ -1,0 +1,82 @@
+/*
+ * A rank-up keeps the experience the character had already accumulated instead
+ * of emptying the bar -- written as the presence of a file:
+ * custom_mods\rank_up_keep_progress_on under the game folder, beside
+ * Rance10.exe. Delete it and both rank-ups go back to rounding the progress
+ * down to nothing. It is read as the rank is awarded, so neither takes a
+ * restart.
+ *
+ * WHAT THE GAME DOES. Two places hand a character exactly the experience
+ * missing from the next rank and not one point more:
+ *
+ *     SceneQuestMapExp@ShowExpUpEffect (23856)   the ＥＸＰ tile on a quest map
+ *         exp = CalcRankUpExp(c.Star) - c.Exp
+ *     SkillEffectProcessRankUp@Process (27510)   the in-battle rank-up effect
+ *         c.AddExp(c.NextExp - c.Exp)
+ *
+ * Both land the character on the next rank with an empty bar, so the further
+ * along the bar was, the less the rank-up was worth: a character at 99% of the
+ * way to the next rank collects a single point of experience from it, and the
+ * player who wants full value has to spend the tile on whoever is closest to
+ * having just ranked up. docs/battle-experience.md has both call chains and
+ * what else reads these numbers.
+ *
+ * WHAT THIS CHANGES. Only the subtrahend. With the switch on this returns 0
+ * where the game reads c.Exp, so the two expressions become CalcRankUpExp(
+ * c.Star) and c.NextExp -- the full price of the rank, handed over on top of
+ * what the character had rather than instead of it. Character@AddExp (27962)
+ * then spends that on the ranks and leaves the remainder in the bar, and the
+ * remainder is exactly the old c.Exp:
+ *
+ *     rank 22, 545/814 (67%)   ->   rank 23, 545/895 (61%)
+ *
+ * Points carry, not the percentage, because each rank costs 1.1x the one below
+ * it (Character::CalcNextExp is min(99999, 100 * 1.1^star)). Holding the
+ * percentage instead would mean carrying a ratio through float arithmetic at
+ * both sites; holding the points needs no arithmetic at all, which is why this
+ * is one returned number rather than a rewrite of the two expressions.
+ * docs/rank-up-keep-progress.md compares the two.
+ *
+ * The carry cannot overshoot into an extra rank, and that is a property of
+ * Character@AddExp rather than of this file: it only ever leaves a remainder
+ * smaller than the rank it just paid for, so c.Exp < c.NextExp holds going in
+ * and coming out. It also composes with MapExpBonusUp, the clear-point bonus
+ * that buys how many ranks the tile is worth (docs/clear-point-bonuses.md) --
+ * AddExp spends the whole sum rank by rank and the same remainder survives at
+ * the end of it.
+ *
+ * WHY THE SUBTRACTION SURVIVES. Deleting the SUB would say the same thing in
+ * fewer instructions, but a deleted instruction cannot be put back by a file in
+ * custom_mods, and the .ain would carry the change for everybody. Subtracting a
+ * zero this function chooses leaves the switched-off path doing
+ * instruction-for-instruction what the original did, which is the property
+ * features/always-first-finisher gets out of super().
+ *
+ * WHY A .jaf AND TWO .jam. This half is the switch, and it is a .jaf because it
+ * wants HLL calls and a string literal and nothing off the .ain at all. The
+ * other half has to reach inside two existing function bodies, which
+ * alice-tools' .jaf override cannot do -- features/reliable-cooking/
+ * cooking_skill_chance.jam has the error message you get for trying, and the
+ * reason: an override resolves neither `this` nor a struct's own members. Two
+ * .jam files rather than one because every .jam in this repository carries
+ * exactly one FUNC ... ENDFUNC block, and these two sites have nothing in
+ * common but the call below.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not take
+ * a backslash in a string literal at all, and Windows accepts either separator.
+ * It is looked for twice for the reason features/enemy-panel/enemy_info_panel.jaf
+ * gives: whether SystemService.GetGameFolderPath() ends in a separator is
+ * something the game does not agree with itself about, and trying both
+ * spellings settles it without running the game. A path that does not resolve
+ * reads as "no file", which is the harmless direction -- the game behaving
+ * exactly as it does unpatched.
+ */
+int RankUpExpToConsume(int exp)
+{
+	string folder = SystemService.GetGameFolderPath();
+	if (FileOperation.ExistFile(folder + "custom_mods/rank_up_keep_progress_on")
+	 || FileOperation.ExistFile(folder + "/custom_mods/rank_up_keep_progress_on")) {
+		return 0;
+	}
+	return exp;
+}

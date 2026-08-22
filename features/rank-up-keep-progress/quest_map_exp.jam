@@ -1,0 +1,165 @@
+; The ＥＸＰ tile on a quest map, filling the bar to the next rank without
+; emptying what was in it.
+;
+; Half of a feature a build can leave out -- the switch is
+; rank_up_keep_progress.jaf beside it, the other patched site is
+; skill_rank_up.jam, and feature.js in this folder is where the three are named.
+; The .jaf is where the arithmetic and the reasoning live; this file is about
+; where the hook goes.
+;
+; SceneQuestMapExp@ShowExpUpEffect is the loop that pays the seven party slots.
+; docs/battle-experience.md has the chain that reaches it -- three callers, all
+; through QuestScenes::RunQuestMapExp (26318): the map tile itself, the
+; 擬態／ＥＸＰＵＰ mimic result, and nothing else. The two-argument form (26319),
+; which the chapter-3 simple battle uses to pay an explicit amount, does not
+; come through the sentinel branch below and is unaffected.
+;
+; THE ONE ADDED INSTRUCTION. In the exp < 0 branch -- the INT_MIN sentinel
+; meaning "fill to the next rank or ranks" -- the original reads
+;
+;     exp = CalcRankUpExp(c.Star) - c.Exp
+;
+; and the CALLFUNC below sits between the c.Exp read and the SUB, so the
+; subtrahend is whatever the switch returns: c.Exp with the file absent, which
+; is the game unchanged, or 0 with it there, which hands over the full price of
+; the rank and leaves what the character had in the bar.
+;
+;   .LOCALREF c / PUSH 27941 / CALLMETHOD 0   c.Exp
+;   CALLFUNC RankUpExpToConsume               c.Exp, or 0 while the switch is on
+;   SUB
+;
+; This is a .jam rather than a .jaf because the function is a method and its
+; body is PUSHSTRUCTPAGE/CALLMETHOD against its own struct throughout --
+; m_cardIds, m_exp, m_rankUp, m_cardView -- and alice-tools' .jaf compiler
+; resolves neither `this` nor a struct's own members inside an override. What a
+; .jam can do is assemble a whole function and repoint the function table at it,
+; which is what --jam is for. It adds no locals -- --jam rewrites code and not
+; the FUNC section -- and this change needs none: the value it hands the switch
+; is already on the stack.
+;
+; Everything except that one line is SceneQuestMapExp@ShowExpUpEffect verbatim,
+; from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; and the labels are the original's own addresses, kept as written because the
+; assembler resolves them by name. Regenerate it the same way if the game
+; version changes: 23857, 27935, 27941, 22954, 28040 and the local indices are
+; indices into one build of one .ain and mean nothing in the next.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1, and an editor that defaults .jam to
+; UTF-8-with-BOM will quietly put one back.
+FUNC 23856
+	.STRUCTREF SceneQuestMapExp m_cardIds
+	.STACK_LOCALASSIGN "<dummy : foreach文のコンテナ>"
+	SP_INC
+	.LOCALASSIGN i -1
+0x380682:
+	.LOCALINC i
+	.LOCALREF i
+	.LOCALREF "<dummy : foreach文のコンテナ>"
+	CALLHLL Array Numof 12
+	LT
+	IFZ 0x38097a
+	PUSHLOCALPAGE
+	PUSH 1
+	.LOCALREF "<dummy : foreach文のコンテナ>"
+	.LOCALREF i
+	R_ASSIGN
+	POP
+	POP
+	.LOCALREFREF id
+	REF
+	A_REF
+	S_PUSH ""
+	S_EQUALE
+	IFNZ 0x3806fa
+	JUMP 0x380700
+0x3806fa:
+	JUMP 0x380682
+0x380700:
+	PUSHLOCALPAGE
+	PUSH 4
+	DUP2
+	REF
+	DELETE
+	.LOCALREFREF id
+	REF
+	A_REF
+	CALLFUNC findCharacterFromCardId
+	.STACK_LOCALASSIGN "<dummy : findCharacterFromCardIdの戻り値>"
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : findCharacterFromCardIdの戻り値>"
+	PUSHLOCALPAGE
+	PUSH 6
+	.STRUCTREF SceneQuestMapExp m_exp
+	ASSIGN
+	POP
+	.LOCALREF exp
+	PUSH 0
+	LT
+	IFNZ 0x38078c
+	JUMP 0x3807d4
+0x38078c:
+	PUSHLOCALPAGE
+	PUSH 6
+	PUSHSTRUCTPAGE
+	PUSH 23857
+	.LOCALREF c
+	PUSH 27935
+	CALLMETHOD 0
+	CALLMETHOD 1
+	.LOCALREF c
+	PUSH 27941
+	CALLMETHOD 0
+	CALLFUNC RankUpExpToConsume
+	SUB
+	ASSIGN
+	POP
+0x3807d4:
+	PUSHLOCALPAGE
+	PUSH 7
+	DUP2
+	REF
+	DELETE
+	.LOCALREF c
+	.LOCALREF exp
+	CALLFUNC CharacterLevel::AddExp
+	.STACK_LOCALASSIGN "<dummy : CharacterLevel::AddExpの戻り値>"
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : CharacterLevel::AddExpの戻り値>"
+	.LOCALREF r
+	PUSH -1
+	EQUALE
+	IFNZ 0x380850
+	JUMP 0x3808b6
+0x380850:
+	.LOCALDELETE "<dummy : CharacterLevel::AddExpの戻り値>"
+	.LOCALDELETE r
+	.LOCALDELETE "<dummy : findCharacterFromCardIdの戻り値>"
+	.LOCALDELETE c
+	JUMP 0x380682
+0x3808b6:
+	.STRUCTREF SceneQuestMapExp m_rankUp
+	.LOCALREF r
+	A_REF
+	CALLHLL Array PushBack 13
+	.STRUCTREF SceneQuestMapExp m_cardView
+	.LOCALREF i
+	REF
+	PUSH 22954
+	.LOCALREF r
+	PUSH 28040
+	CALLMETHOD 0
+	DG_NEW
+	CALLMETHOD 2
+	.LOCALDELETE "<dummy : CharacterLevel::AddExpの戻り値>"
+	.LOCALDELETE r
+	.LOCALDELETE "<dummy : findCharacterFromCardIdの戻り値>"
+	.LOCALDELETE c
+	JUMP 0x380682
+0x38097a:
+	.LOCALDELETE "<dummy : foreach文のコンテナ>"
+	RETURN
+ENDFUNC SceneQuestMapExp@ShowExpUpEffect
