@@ -376,7 +376,7 @@ table スキルデータ = {
     { 1390,"Juno's Attack",1,3,"",0,100,1,100,25,25,0,0,"",0,0,"Attack (1x)\r▼Weakness 25%" },
     { 1846,"Caesar's Attack",1,3,"",0,100,1,120,39,15,0,0,"",0,0,"Attack (1.2x)\r▼Stun 15%" },
     { 1849,"General Tiger's Atk",1,3,"",0,100,1,200,25,25,0,0,"",1,0,"Attack (2x)\r▼Weakness 25%" },
-    { 1850,"Vice-General Monkey's Atk",1,4,"",0,100,1,200,29,25,0,0,"",1,0,"Magic (2x)\r▼Anti-recovery 25%" },
+    { 1850,"Vice General Monkey's Atk",1,4,"",0,100,1,200,29,25,0,0,"",1,0,"Magic (2x)\r▼Anti-recovery 25%" },
     { 1851,"Uzume's Attack",1,2,"",0,100,1,120,42,1,0,0,"",1,0,"Attack (Ranged) (1.2x)\rDown 1 person" },
     { 1859,"Oni Attack",1,3,"",0,100,1,120,39,20,0,0,"",0,0,"Attack (1.2x)\r▼Stun 20%" },
     { 1561,"Needle's Attack",1,2,"",0,100,7,0,26,80,0,0,"",0,0,"Attack (Ranged) (1x)\r▼Poison 80%\rGuaranteed Hit" },
