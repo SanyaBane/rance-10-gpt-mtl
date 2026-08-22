@@ -193,7 +193,7 @@ share of the character's own lines already spell the canonical.
 |---|---|---|
 | 90% and up | a stray, nothing to decide | `0c4e4d14` — 45 names, 60 spellings, 181 records |
 | 60–89% | a whole scene translated the other way | `b836a9cd` — 17 names, 28 spellings, 356 records |
-| under 60% | the corpus's own majority disagrees with the table | 23 names, open |
+| under 60% | the corpus's own majority disagrees with the table | `d3dfd96c` — 21 names, 516 records |
 
 The middle band is the one worth recognising, because it is not scattered slips.
 `Melpheis` is exactly `m[164301]`-`m[164489]` and `Melphees` exactly
@@ -201,9 +201,11 @@ The middle band is the one worth recognising, because it is not scattered slips.
 `Kachusha` is `m[60289]`-`m[60950]` and nowhere else. A chunk was translated, the
 model held one spelling for the length of it, and the next chunk held another.
 
-The bottom band is a decision about which spelling is canonical rather than a
-repair, and `Xacalite`, `Thalgo`, `Silbarrel` and `Notongatsu` do not occur in
-the corpus at **all**.
+The bottom band was a decision about which spelling is canonical rather than a
+repair, since `Xacalite`, `Thalgo`, `Silbarrel` and `Notongatsu` did not occur in
+the corpus at **all**. `d3dfd96c` took it, writing all four in — 29 lines, 15, 5
+and 4 — so that sentence is now only true of the corpus before that commit, and
+the band is closed.
 
 **Read the table as people, not as entries.** Two entries can be one person with
 two misspelling lists, and `normalizeNames` asks each entry only about its own
@@ -315,5 +317,13 @@ the table's `Great General`
 against the file's `Great Monster General` in four slots. Both show up in the
 26 complaints the cherry-picks check reports and cannot decide.
 
-Every term *not* in that table gets no report at all, from any checker in this
-repository. Those are found by reading.
+Every term *not* in that table used to get no report at all. `docs/terminology-drift.md`
+is the check that changed it: `scripts/find_term_drift.js` starts from the text
+rather than from a table, so a word nobody wrote down is reachable. Both of the
+two above are in its first report, and so are 216 corpus lines over twelve more.
+
+It answers the other half of this file as well. The slice above can only report a
+spelling the table lists or a near miss of one, so a name drifting into a form
+the table has never seen is invisible to it -- 元就 is Genjo 42 times against
+Motonari 41, and 早雲 is Souun 62 against Hayakumo 40, neither reachable from
+`mistranslated_names.json`. 57 names are in that state.

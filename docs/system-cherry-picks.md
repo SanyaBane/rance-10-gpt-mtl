@@ -42,17 +42,19 @@ been looked at until `9f6a60a7`.
 
 ## Reading a slot's Japanese
 
-The repository's own dumps will not help: `game/ain/Rance10.v1.04.ain.txt` and
-`.json` are **message** dumps — 269 676 `m` lines and no `s` at all. The strings
-come from dumping the game's `.ain` directly, and they arrive commented out, one
-line per push site, under the scene that pushes them:
+`game/ain/Rance10.v1.04.ain.txt` already has them, which this file said for a
+while that it did not. Only the `.json` is messages-only; the `.txt` carries all
+15 770 slots commented out alongside its 269 677 `m` lines, one line per push
+site, under the scene that pushes them — byte for byte what a fresh
+`alice ain dump -t` writes, so nothing needs alice-tools or `GAME_DIR` to read a
+slot's Japanese.
 
 ```
-alice ain dump -t -o original.txt game/ain/Rance10.v1.04.ain
 ;s[5106] = "魔人バークスハムの使徒"
 ```
 
-15 770 slots. A slot pushed from several places appears several times, which is
+`readSlotJapanese` in `modules/TermDrift.js` reads it that way. A slot pushed
+from several places appears several times, which is
 how the shared-slot hazard in `CLAUDE.md` is checked: `s[5106]`, `s[8411]` and
 `s[8697]` are pushed from up to five scenes apiece, every one a `Ｔ肩書き`, so
 they are display-only and safe to translate.
@@ -61,15 +63,14 @@ they are display-only and safe to translate.
 
 `createNameChecker` does not run over this file at any build, so for years its
 names were never held to the table. Nothing stops you pointing it at them by
-hand: the file carries no Japanese, but every slot has one in a dump of the
-game's own `.ain`, and pairing the two gives the checker exactly what it wants.
+hand: the file carries no Japanese, but every slot has one in the dump above, and
+pairing the two gives the checker exactly what it wants.
 
 ```
-alice ain dump -t -o original.txt game/ain/Rance10.v1.04.ain
 ;s[8186] = "レリコフもしてみる？"
 ```
 
-Done that way over all 1683 `s[]` lines it reported **88 complaints**, of which 61
+Done that way it reported **88 complaints**, of which 61
 were real and are written to the canon in `19d94fe9` and `aacf918f`. Two names
 were most of it — ザンス was "Zans" thirteen times against the table's Zance, and
 長田君 was "Nagata" nine times and "Osada-kun" twice, 長田 read as Osada. レリコフ
@@ -90,6 +91,9 @@ The one place the short form won on purpose is `s[3211]`, which is
 `FriendPanel@Name::get` — all nine of its neighbours are bare given names, so it
 says "Lelikov" where the table says "Lelikov Helman", and the checker goes on
 complaining about it forever.
+
+The file has 1684 `s[]` lines, not the 1683 a regex reports: `s[174]` is written
+with two spaces before its `=`, and it says "Unknown".
 
 **The 26 complaints left are what the checker cannot decide**, and a rerun will
 show the same ones. Six are リア, which has two entries — "Queen Lia" and "Lia" —

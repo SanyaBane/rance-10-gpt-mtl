@@ -127,6 +127,20 @@ rather than by `mentions()`: a plate key is a cast list as much as a name, and
 reading a name out of anything containing it made eight of thirteen complaints
 noise.
 
+## Every other word drifts too, and no table has it
+
+The checks above start from a table, so what is in no table is invisible: a
+title, a place, the word a role is called. 総統 was only ever visible because it
+landed in the name table by accident, and the corpus still calls the city of
+Rich "Lich" and Ragnarok Arc four different things.
+
+`scripts/find_term_drift.js` starts from the text instead. A term is a Japanese
+substring; its rendering is the English phrase that turns up almost only on the
+lines carrying it; drift is a term with two of those. It reads the corpus, the
+cherry-picks and all eight glossaries and needs neither alice-tools nor
+`GAME_DIR`. `docs/terminology-drift.md` is what it costs to read, what its first
+run found, and which of its findings are noise on purpose.
+
 ## The name repairs are in the corpus, and have to stay agreed with it
 
 `normalizeNames` used to apply that table on the way into the patch and nowhere
