@@ -163,6 +163,43 @@ const holds = (whole, part) => ` ${keyOf(whole)} `.includes(` ${keyOf(part)} `);
 const sameWord = (a, b) => keyOf(a) === keyOf(b);
 const wordsOf = (phrase) => keyOf(phrase).split(" ").filter(word => word.length > 2);
 
+/** How far past a term a compound can reach: enough for 自動戦闘倍率, short of a sentence. */
+const COMPOUND = 8;
+
+/** Leading or trailing kana, which is grammar rather than part of the word. */
+const PARTICLES = /^[ぁ-ゖー]+|[ぁ-ゖー]+$/g;
+
+/**
+ * The longest string containing the term that every one of these lines carries,
+ * or the term itself when they share nothing more.
+ *
+ * Bounded to a compound's length rather than a line's, because two lines that
+ * happen to be the same sentence would otherwise report that whole sentence as
+ * the word they have in common.
+ */
+const contextOf = (term, japaneses) => {
+    const first = japaneses[0];
+    for (let length = Math.min(term.length + COMPOUND, first.length); length > term.length; --length) {
+        for (let at = 0; at + length <= first.length; ++at) {
+            const candidate = first.slice(at, at + length);
+            if (candidate.includes(term) && japaneses.every(japanese => japanese.includes(candidate))) {
+                return candidate;
+            }
+        }
+    }
+    return term;
+};
+
+/**
+ * The compound a rendering sits in, which is not the same as the string around
+ * it: の魔人退治 and で魔人退治 are one word carrying a particle, where 物理倍率
+ * and 魔法倍率 are two words sharing one.
+ */
+export const compoundOf = (term, japaneses) => {
+    const context = contextOf(term, japaneses);
+    return context.replace(PARTICLES, "").length > term.length ? context : term;
+};
+
 const readGlossary = (file) => fs.readFileSync(file, "utf-8").split(/\r?\n/)
     .map((row, at) => ({row, number: at + 1}))
     .filter(({row}) => row.trim() && !row.startsWith("#"))
@@ -458,7 +495,31 @@ export const findTermDrift = (lines, options = {}) => {
         }
         const all = linesOfTerm.get(term) ?? [];
 
-        if (renderings.length >= 2) {
+        /*
+         * A term whose every rendering sits in a *different* compound is not a
+         * term rendered several ways: it is one component of several words,
+         * each translated correctly. 倍率 is 物理倍率 "Physical Boost" and
+         * 魔法倍率 "Magic Boost"; 報酬 is the quest panel's 　報酬　　　勲章
+         * "Reward Medal" beside 　報酬　　　食券 "Reward Meal Ticket", which is
+         * one label with several values. Both read as drift and neither is.
+         *
+         * A rendering that ever appears with the bare term keeps the finding,
+         * which is what makes this safe: 総統's 953 lines share nothing but
+         * 総統, so "World Leader" -- the one slot the whole exercise was
+         * written to find -- is still reported.
+         *
+         * Only split can be asked this. A disagreeing line in odd is one line,
+         * and the longest string one line has in common with itself is the
+         * whole line, so every odd finding would look like a compound.
+         */
+        const component = () => {
+            const compounds = renderings.map(one =>
+                compoundOf(term, [...one.where].map(at => lines[at].japanese)));
+            return compounds.every(compound => compound.length > term.length)
+                && new Set(compounds).size > 1;
+        };
+
+        if (renderings.length >= 2 && !component()) {
             const covered = new Set(renderings.flatMap(one => [...one.where])).size;
             if (covered / termCount.get(term) >= coverage) {
                 split.push({term, total: termCount.get(term), covered, renderings});

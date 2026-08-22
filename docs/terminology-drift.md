@@ -87,6 +87,30 @@ reports `報酬`, `有利`, `所属` and `有利所属` as terms rendered severa
 are one label with several values, the same shape as the trophy glossary's
 neighbouring rows.
 
+**They come off now**, along with the other half of the same shape: a term that
+is a *component* of several compounds rather than a word with several names.
+`compoundOf` in `modules/TermDrift.js` asks what Japanese each rendering
+actually sits in, and drops the finding when every one of them sits in a
+different compound -- 倍率 is 物理倍率 "Physical Boost" beside 魔法倍率 "Magic
+Boost", 難度 is 捕捉難度, 友好難度 and 命令難度, and 報酬 is the panel's own
+label in front of six different rewards. It takes **16 findings off split**,
+including three this file had already worked out by hand: 中島 as 中島君 against
+川中島, 帝国 as the Copa Empire against the Squidman one, and 衛隊 as five
+different guards.
+
+Two things keep it safe. A rendering that ever appears with the **bare** term
+keeps the finding, so 総統 -- whose 953 lines share nothing but 総統 -- still
+reports `s[10623]`'s World Leader, and 格闘, the one real finding this report
+has surfaced since, is still reported when the fix for it is taken back out.
+And a leading or trailing kana is grammar rather than a compound: の魔人退治 and
+で魔人退治 are one word carrying a particle, where 物理倍率 and 魔法倍率 are two
+words sharing one.
+
+**Only split can be asked this.** A disagreeing line in odd is one line, and the
+longest string one line has in common with itself is the whole line, so every
+odd finding would look like a compound. Asked of odd anyway it drops ベズドグ山
+and アペムンタ村, which are one word apiece.
+
 ## Not the question find_dropped_terms asks
 
 That one asks whether a settled English word is **absent**, which cannot tell a
@@ -118,6 +142,7 @@ names. The fifth is the opposite of one of them and cost the most.
 | a term reported once per substring | 魔人討伐隊, 魔人討伐 and 人討伐隊 say the same thing thirteen times over |
 | a possessive or an honorific | "Supreme Leader's Office" holds "Supreme Leader" by no plain test, and eight lines of 総統 read as disagreements while saying exactly what it settled on |
 | a word that is not a term | 成功 is on 206 lines and its renderings covered nine, because what they co-occur with is a trophy list. Coverage is the cut |
+| a component of several compounds | 倍率 reads as seven renderings, and they are 物理倍率, 魔法倍率 and ＨＰ倍率 each translated correctly. Split only, and the paragraph above says why |
 
 **A capital at the start of a phrase proves nothing -- but a second capital
 does.** The calibration file's rule, applied whole, drops every phrase at an
@@ -161,10 +186,10 @@ buckets have been worked through since, over the corpus, the cherry-picks and
 the glossaries: **what was left there is 9, 4 and 25 in split and 7, 6 and 22 in
 odd**, and every one of those is on a list below of things left in on purpose.
 
-The `.ex` tables joined after that, and nothing has been worked through in them.
-A run today reports **32, 9 and 28 in split and 6, 11 and 24 in odd** -- the
-report grew by 31 split findings and 6 odd ones, some of which are the label
-columns described above and the rest of which nobody has read yet. The lists
+The `.ex` tables joined after that, and only part of what they brought has been
+read. A run today reports **17, 8 and 27 in split and 6, 11 and 24 in odd**.
+Before the component cut above it reported 32, 9 and 28 in split, so 16 of what
+the tables brought was one label or one component read several ways. The lists
 below are the residue of the three sources that *were* swept, so a finding
 touching a `.x` file is new rather than deliberate.
 
@@ -190,10 +215,11 @@ sweep's own literal walked past in `fd60f026`.
 | `ベズドグ山` | `Mount Bezdog` | Bezudog |
 | `タンザモンザツリー` | `Tanzamonza Tree` | Tanzamont Tree |
 
-Four remain in that bucket on purpose, and a rerun shows the same four: 中島 and
-セキガハラ are not drift, `翔竜山`'s 30 lines writing "Mt. Shoryu" are an
-abbreviation of the settled name rather than a disagreement with it, and
-ラグナロックアーク's "Royal Capital" is 王都 sitting next to it.
+Three remain in that bucket on purpose: セキガハラ is not drift, `翔竜山`'s 30
+lines writing "Mt. Shoryu" are an abbreviation of the settled name rather than a
+disagreement with it, and ラグナロックアーク's "Royal Capital" is 王都 sitting next
+to it. 中島 was the fourth and is gone -- not swept but no longer reported, which
+is what the component cut is for.
 
 **Two of the repairs were worth more than a spelling.** リッチ is the Leazas city
 of Rich and four lines called it Lich, the undead -- one of them the war report
@@ -245,12 +271,12 @@ out to be the rule rather than the exception.
 | `ラレラレ石` | a decision | Larerare 7, Lalalare 6, Lalelare 5, Rare-Rare 4, Lare Rare 3, Lalalai 2 |
 | `副将` | the labels only | seven Ｔ肩書き slots hyphenated where `9_カード情報.x` writes it plain |
 
-Nine remain in that bucket and a rerun shows the same nine. `軍司令部` is not a
-name but the suffix of half a dozen armies' headquarters, and its only split is
-`summary_glossary.tsv`'s "Monster Army HQ" against the prose's "Monster Army
-headquarters" -- the panel's abbreviation, like "Mt. Shoryu". `兄様`, `帝国`,
-`試練`, `達成`, `内容若干変化`, `上杉軍`, `防衛隊` and `連合軍` are the noise this
-file already describes.
+Six of the nine remain. `軍司令部` is not a name but the suffix of half a dozen
+armies' headquarters, and its only split is `summary_glossary.tsv`'s "Monster
+Army HQ" against the prose's "Monster Army headquarters" -- the panel's
+abbreviation, like "Mt. Shoryu". `兄様`, `内容若干変化`, `上杉軍`, `防衛隊` and
+`連合軍` are the noise this file already describes. The other three -- `帝国`,
+`試練` and `達成` -- the component cut now drops on its own.
 
 ### named
 
