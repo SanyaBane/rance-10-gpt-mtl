@@ -102,9 +102,14 @@ reports.
 
 ## The first run
 
-17 untabled, 13 tabled and 57 named in split; 7, 6 and 21 in odd.
+17 untabled, 13 tabled and 57 named in split; 7, 6 and 21 in odd. All three
+buckets have been worked through since; **what is left is 9, 4 and 25 in split
+and 7, 6 and 22 in odd**, and every one of those is on a list below of things
+left in on purpose.
 
-**The tabled bucket is closed.** Twelve terms and 216 corpus lines in `60f7d8cd`,
+### tabled
+
+**Closed.** Twelve terms and 216 corpus lines in `60f7d8cd`,
 eight cherry-pick slots in `25fe381d`, 聖女モンスター in `38e519c7`, and three the
 sweep's own literal walked past in `fd60f026`.
 
@@ -142,46 +147,115 @@ panel's width; "Banri" is a second name. The exceptions are where the phrase
 *is* the second name -- Dragon Mountain for 翔竜山, Hyper Building for ハイパービル,
 and the seven ways 聖女モンスター was written.
 
-## What is still open
+### The two role words it was written for
 
-**untabled**, the blind spot proper, where the canon is a decision rather than a
-lookup:
+`bcbb913`, and two more under them. 96 corpus lines and 5 cherry-picked slots.
 
-```
-アレフガルド  Arefgard 33 | Aregalud 8 | Alefgard 6
-毛利         Mouri 83 | Mori 25
-北条         Hojo 22 | Houjou 12
-カイズ        Kaizu 16 | Kaiz 9
-ガイ          Gai 39 | Guy 29
-ククルククル   Kukurukuru 10 | Kukuru Kukuru 7
-ラレラレ      Larerare 5 | Lalelare 4
-副将         Vice General 20 | Vice-General 7
-```
+| Term | Settled on | Was |
+|---|---|---|
+| `総統` | `Supreme Leader` | `s[10623]`'s World Leader, plus "the Great General of the World", "Commander," and "under General Rance" |
+| `大将軍` | `Great General` | Supreme General 3, Fiend General 2, Generalissimo 5, and one invented "General Rumei" |
+| `総統司令部` | `the Supreme Leader's Headquarters` | fourteen forms over 68 lines |
+| `自由都市連合軍` | `Free Cities Alliance Army` | Alliance Forces 17, allied forces 3, United Army 1 |
 
-**named**, 57 of them, where the name table has the character and not the
-spelling:
+`総統司令部` had no canon anywhere and the shape of one: `mistranslated_names.json`
+gives `総統府` "Supreme Leader's Office", and the largest single corpus form was
+already "Supreme Leader's headquarters". "Supreme Headquarters", the other
+ten-line form, could not have been taken -- `m[64851]` renders 総統府 with it.
+`自由都市連合軍` went to Army because X軍 is X Army here: 魔軍 is the Monster Army
+and 自由都市軍 the Free Cities Army in `s[14981]`.
 
-```
-元就       Genjo 42 | Motonari 41 | Motoharu 12
-アルカリア  Alkaria 15 | Arcarie 11 | Arukaria 9 | Arkalia 7
-早雲       Souun 62 | Hayakumo 40
-五十六     Isoroku 32 | Issun 13
-ザカリテ    Xacalite 25 | Zakarite 10
-バファムーン Bafamoon 30 | Baphamun 9 | Bafamun 4
-日光       Nikkou 184 | Nichirin-san 49
-満鉄       Mantetsu 16 | Mitsutetsu King 10
-リリム      Lilim 28 | Lilith 14 | Lilimu 4
-女神       Goddess ALICE 37 | Goddess Alice 18
-イカマン    Ikaman 23 | Squidman 8
-松下       Matsushita 27 | Princess Panasonic 7
-野菊       Nogiku 22 | Nozomi 5
-```
+### untabled
+
+`d3cca67a`. Nine real findings out of 17, 242 corpus records and twelve rows
+elsewhere -- and four of the nine needed no decision, because the answer was
+already written down and only the corpus disagreed. That is the same reasoning
+`docs/name-checker-calibration.md` gives for `El` and `Richelle`, and it turned
+out to be the rule rather than the exception.
+
+| Term | Canon, and where it was already written | Was |
+|---|---|---|
+| `アレフガルド` | `48_立ち絵名札マッピング情報.x`, summary x8 | Arefgard 49, Aregalud 22, Alefgarud 11, Aregard 8, Arefugaldo 4 |
+| `毛利` | `41_識別名情報.x`, 32 times | Mori 30 |
+| `カイズ` | summary x5, `6_クエスト情報.x` | Kaizu 18 |
+| `ガイ` | `enemy_party_glossary.tsv`, summary x2 | Guy 35 |
+| `北条` | `41_識別名情報.x`, and the name table's `Houjou Suzu` | Hojo 23 and three slots |
+| `ククルククル` | a decision | Kukurukuru 11, Kukuru Kukuru 7, Kukrukuru 3 |
+| `ラレラレ石` | a decision | Larerare 7, Lalalare 6, Lalelare 5, Rare-Rare 4, Lare Rare 3, Lalalai 2 |
+| `副将` | the labels only | seven Ｔ肩書き slots hyphenated where `9_カード情報.x` writes it plain |
+
+Nine remain in that bucket and a rerun shows the same nine. `軍司令部` is not a
+name but the suffix of half a dozen armies' headquarters, and its only split is
+`summary_glossary.tsv`'s "Monster Army HQ" against the prose's "Monster Army
+headquarters" -- the panel's abbreviation, like "Mt. Shoryu". `兄様`, `帝国`,
+`試練`, `達成`, `内容若干変化`, `上杉軍`, `防衛隊` and `連合軍` are the noise this
+file already describes.
+
+### named
+
+`4ff39af6` and `3e05d2c1`. 54 findings, 880 corpus records and twenty table
+rows. Two dozen were a lookup rather than a decision -- 元就 is Motonari on the
+standing portrait's plate, 早雲 is Souun in the name table, 日光 is Nikkou in
+both -- and five were a decision because the repository wrote two answers in two
+files: 松下姫 (Princess Panasonic against the plate's Princess Matsushita),
+イカマン (Squidman against the plate's Squid Man), 女神アリス (Goddess ALICE, which
+is what the *game* writes in Latin letters), 剣豪 (Swordmaster against three
+tables' Kengo) and トー, whose two spellings sat on consecutive lines of one file:
+`{ "ミラクル／", "Miracle Tor" }` and `{ "ミステリア／", "Mysteria Tou" }`.
 
 `ザカリテ` is worth one note, because it shows what a check starting from the
 text reaches that one starting from the table cannot. The table lists exactly one
 misspelling for it, `Zakalite`, and that spelling is on **no** line of the corpus,
 the glossaries or the cherry-picks. What is there is `Zakarite`, with an r, on 17
 lines -- one letter away from the dead entry and unreachable from it.
+
+Twenty-five remain in split and 22 in odd, and every one is a shape this file
+lists as noise: a possessive or honorific tail the merge could not fold
+(`Barres'`, `Zance'`, `Melfeis'`, `Poppins'`, `Pi-R'`), a plural beside its
+singular (`Squidman`/`Squidmen`), a neighbouring rank (`魔物大元帥`'s Monster
+Grand Marshal beside `魔物大将軍`'s Monster Great General), a bracketed label's
+opening word (`Defeating`, `Army's Great Counterattack`), a title or a form of
+address (`コルドバ`'s Blue General, `法王`'s Your Holiness), and the substrings of
+words already settled (`衛隊`, `魔物大`, `将軍`, `魔軍`, `魔人`, `都市`).
+
+### 魔女リクチェル
+
+`b0daa07a`, the second of the two titled keys `docs/name-checker-calibration.md`
+records. Split across the repository rather than only inside the corpus, and
+most of that split was already right when read by purpose -- the full name on
+the standing portrait's plate and the card's `フルネーム`, "Witch Richelle" on the
+card plate, "the witch Richelle" on the synopsis panel. Two places did not fit:
+six corpus lines writing the whole four-word name in prose, and the plate over
+the enemy HP bar, at 852 pixels of the bar's 867.
+
+## Four things the filter's own literal cost
+
+**A phrase that contains the settled rendering is not the settled rendering.**
+The count that settled `大将軍` asked whether a line held "Great General", and
+"Demon Great General" holds it -- so 23 lines rendering 魔物 as Demon and 11
+rendering it as Great were counted among the ones that agreed, and had to be
+written back in `a202199`. Ask which word stands in *front* of the rendering,
+not whether the rendering is there.
+
+**A rendering that shares no word with the settled one is dropped.** `odd` keeps
+a disagreement only when it brings a word the settled form does not have *and*
+shares one it does, so `Generalissimo` against `Great General` was invisible to
+the report and had to be found by reading the term's lines. It is the guard that
+makes the bucket readable and it is also its floor.
+
+**Sweep the glossaries too, and read the built file back.** Two sweeps ran over
+the corpus and the cherry-picks and left the built patch still saying
+"Blood Memory: Kukurukuru" and "Mysteria Tou" --
+`glossaries/enemy_party_glossary.tsv`, `9_カード情報.x`'s `フルネーム` column and
+skill 1562 of `11_スキルデータ.x`, none of which the report reads. A term is
+finished when `alice ain dump -t` and `alice ex dump` no longer carry the old
+spelling, not when the sweep says 0.
+
+**A lookalike is not a misspelling.** `Keibuwan` is ケイブワン, Kaybnyan's dog,
+and would have been swept into Kaybnyan by any filter working from spelling
+distance alone; `ナイスガイブレード` is a nice guy and `ウォール・ガイ` is a wall,
+neither of them 前魔王ガイ. Read the Japanese of every record a sweep is about to
+touch.
 
 **The counts are not invariants**, for the same reason the calibration file's are
 not: they move with where each guard is drawn. What to trust is the shape.

@@ -95,15 +95,28 @@ complaining about it forever.
 The file has 1684 `s[]` lines, not the 1683 a regex reports: `s[174]` is written
 with two spaces before its `=`, and it says "Unknown".
 
-**The 26 complaints left are what the checker cannot decide**, and a rerun will
+**The 21 complaints left are what the checker cannot decide**, and a rerun will
 show the same ones. Six are リア, which has two entries — "Queen Lia" and "Lia" —
 so whichever a line uses, the other complains. Nine are a name whose entry is the
 full form where this file writes the short one deliberately: 政宗 four times,
 トルストイ twice, チョチョマン, アギレダ, 源五郎, and the second クルックー entry.
-Four are 大将軍, where the file writes "Great Monster General" for 魔物大将軍 and
-the entry wants "Great General". Five are role words rendered by sense — 総統,
-闘将, 自由都市, 魔軍, フル — and one is かろ inside かろうじて, which `mentions()`
+Four are role words rendered by sense — 闘将, 自由都市, 魔軍, フル — one is
+レリコフ at `s[3211]`, and one is かろ inside かろうじて, which `mentions()`
 cannot guard against because the word is hiragana rather than katakana.
+
+Five of the original 26 were decidable after all and went in `bcbb913`. Four were
+大将軍, where this file wrote "Great Monster General" for 魔物大将軍 while eight
+other slots of the same block — `s[14974]` through `s[14982]` — wrote "Great
+General" for the same word; the fifth was 総統 at `s[10623]`, "World Leader"
+against 1044 corpus lines. `docs/terminology-drift.md` is what found them: a
+check that starts from the text rather than from the table can see that the file
+disagrees with itself.
+
+One new one has arrived since, and it is deliberate. The `.ain` build's own
+enemy-party check now reports `魔女リクチェル ... which the game calls "Richelle
+von do Kosusu" -- "Witch Richelle"`, because the plate over the HP bar was
+shortened in `b0daa07a` while the entry's canonical stays the full name for the
+standing portrait. Same trade as `s[3211]`, in a different file.
 
 **The checker is case-insensitive.** It compares with `toLowerCase()`, so `Lemay`
 reads as correct where the table says `LeMay`. Silence from it is not proof of

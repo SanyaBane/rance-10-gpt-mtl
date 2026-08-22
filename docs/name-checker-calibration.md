@@ -295,11 +295,19 @@ already correct by plain `String.Contains`, so `Elder` or `Elsewhere` would
 silence it. Nothing in the 1718 `エール` lines opens a word with `El` today, which
 is why the sweep was safe — not why an entry would be.
 
-**What a titled key hides is not only the bare form.** `魔女リクチェル` is itself
+**What a titled key hides is not only the bare form.** `魔女リクチェル` was itself
 split, eight corpus lines writing `Richelle` against six writing `Richelle von do
-Kosusu`, and the repository divides the same way — the nameplate in
-`48_立ち絵名札マッピング情報.x` and `glossaries/enemy_party_glossary.tsv` say the long
-form, `41_識別名情報.x` and `glossaries/summary_glossary.tsv` the short. Open.
+Kosusu`, and the repository divided the same way — the nameplate in
+`48_立ち絵名札マッピング情報.x` and `glossaries/enemy_party_glossary.tsv` said the long
+form, `41_識別名情報.x` and `glossaries/summary_glossary.tsv` the short. Settled in
+`b0daa07a`, and the settlement is that most of that division was right: the full
+name is what the standing portrait's plate and the card's `フルネーム` are *for*.
+What moved was the six prose lines and the plate over the enemy HP bar, which at
+852 pixels of the bar's 867 was longer than any name the game itself puts there.
+
+The cost of that is one standing complaint from this checker at every `.ain`
+build, because the entry's canonical is the full name and the plate deliberately
+is not — the trade `docs/system-cherry-picks.md` records for `s[3211]`.
 
 ## What the checker cannot see
 
@@ -312,10 +320,11 @@ in a table of names by accident. The table says `Supreme Leader`,
 `glossaries/summary_glossary.tsv` says `Supreme Leader`, and 1055 of the 1167
 corpus lines whose Japanese carries 総統 say `Supreme Leader` — while `s[10623]`
 of `patches/system_cherry_picks.v1.04.ain.txt` says `World Leader`, which is
-the only place in the repository that does. 大将軍 divides the same way:
+the only place in the repository that did. 大将軍 divided the same way:
 the table's `Great General`
-against the file's `Great Monster General` in four slots. Both show up in the
-26 complaints the cherry-picks check reports and cannot decide.
+against the file's `Great Monster General` in four slots. Both showed up among the
+complaints the cherry-picks check reports and cannot decide, and both are gone
+now (`bcbb913`), which is five of the 26 — the check reports 21.
 
 Every term *not* in that table used to get no report at all. `docs/terminology-drift.md`
 is the check that changed it: `scripts/find_term_drift.js` starts from the text
@@ -324,6 +333,12 @@ two above are in its first report, and so are 216 corpus lines over twelve more.
 
 It answers the other half of this file as well. The slice above can only report a
 spelling the table lists or a near miss of one, so a name drifting into a form
-the table has never seen is invisible to it -- 元就 is Genjo 42 times against
-Motonari 41, and 早雲 is Souun 62 against Hayakumo 40, neither reachable from
-`mistranslated_names.json`. 57 names are in that state.
+the table has never seen is invisible to it -- 元就 was Genjo 42 times against
+Motonari 41, and 早雲 was Souun 62 against Hayakumo 40, neither reachable from
+`mistranslated_names.json`. 57 names were in that state; all of them are worked
+through in `4ff39af6` and `3e05d2c1`, and what that took was mostly not a
+decision. **Two dozen of the 54 findings had their answer already written in
+`48_立ち絵名札マッピング情報.x`, in `glossaries/card_name_glossary.tsv` or in the
+name table itself, and the corpus was the only thing disagreeing** — the same
+thing this file says about `El` and `Richelle`, at twenty-four times the scale.
+Look there before asking anybody.
