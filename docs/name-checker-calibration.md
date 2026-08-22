@@ -130,6 +130,16 @@ collides with the ordinary loanword — `　本来はポピンズ用のルート
 guard exists that would tell that ルート from Root's. These have to be recognised,
 not filtered.
 
+**And the particle is what a hand sweep of a hiragana form actually finds.**
+Asking the corpus for `はにわ` returns seven records; **four** of them are the
+topic marker `は` in front of `にわかに`, "suddenly" — 玉座の間はにわかに騒がしく,
+司令部はにわかに活気を. `はにー` returns six and one is `は` in front of
+`にーちゃん`, big brother. So 5 of 13 hits are a word boundary the search cannot
+see, and the katakana entry in `mistranslated_names.json` reaches none of the
+remaining eight either way. The three real はにわ were already spelled Haniwa and
+the five real はにー are cries; the whole exercise was worth one line, which is
+the point of writing the count down rather than the finding.
+
 **`・` is katakana.** The middle dot that separates a given name from a surname
 sits at U+30FB, inside the block `mentions()` tests, so `リセット・カラー` and
 `パパデマス・シルサブン` read as one long katakana run and the name inside them is
