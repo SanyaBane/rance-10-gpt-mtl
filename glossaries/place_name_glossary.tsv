@@ -1,0 +1,282 @@
+# The English for the name on the Location plate -- the banner that reads
+# スルメ山 or 首都　ラングバウ across the top of the quest map. Hand-written; this
+# is the file to edit.
+#
+# Columns: the Japanese <TAB> the English.
+#
+# The Japanese is the key, and the key is what the game's own table says: the
+# build writes the English into a copy of archives/Rance10EX_v1_04/5_クエストデータ.x
+# on the way past and leaves the file itself as the game shipped it. A name with
+# no English keeps its Japanese, which is what the plate drew before this file
+# existed. modules/PlaceNames.js and docs/place-names.md have the rest.
+#
+# Three rows have no English on purpose:
+#
+#   ランス城   is not a name here but a sentinel. QuestMapParamAccessor@PlaceName::get
+#              compares the field against it and, where it matches, draws
+#              RanceCastlePositionString instead -- ランス城空中, ＪＡＰＡＮ城, ランス砦
+#              or ランス城, whichever the castle is at the time. English here
+#              would freeze the plate on one of the four. Those literals live in
+#              the .ain and are a separate job; docs/place-names.md says which.
+#   −−−        is the game's own blank, three dashes rather than a word.
+#   ？？？     and ？？？？ are the game withholding the name.
+#
+# The plate is 458 pixels wide, the name is centred in it at 32 pixels, and the
+# word "Location" occupies the left 80. So a name past about 300 pixels starts to
+# run over that label and one past 458 leaves the plate -- neither clips, and the
+# build reports both rather than cutting anything. Fifty-five of the game's own
+# names are already over the label, so crossing it is not by itself wrong.
+ポポンのお顔は真っ黒け	Popon's Face Is Pitch Black
+自動車事故に逢いました、飛行機事故にも合いました	I Was in a Car Crash, and a Plane Crash Too
+ツギガセ	Tsugigase
+択捉島の秘密基地	Etorofu Secret Base
+南樺太の秘密基地	South Sakhalin Base
+台湾の秘密基地	Taiwan Secret Base
+トレードセンター前	Outside the Trade Center
+中之島公園	Nakanoshima Park
+山上遊園地	Hilltop Amusement Park
+ランス城	
+破壊された都市の郊外	Ruined City Outskirts
+リーザス	Leazas
+フチュウ盆地	Fuchuu Basin
+リーザス城	Leazas Castle
+首都　ラングバウ	Capital: Lang Bau
+ヘルマン	Helman
+首都　ラグナロックアーク	Capital: Ragnarok Arc
+ゼス	Zeth
+臨時首都　Ｍランド	Interim Capital: M-Land
+自由都市	Free Cities
+カコガワ農園	Kakogawa Farm
+最果ての村	Farthest Village
+ジフテリアの港	Diphteria Harbor
+海　−航海１日目−	At Sea: Day 1
+海　−航海２日目−	At Sea: Day 2
+海　−航海３日目−	At Sea: Day 3
+海　−航海４日目−	At Sea: Day 4
+竜宮島？	Dragon Palace Island?
+海　−航海６日目−	At Sea: Day 6
+魔物界の海岸	Monster Realm Shore
+海　−航海７日目−	At Sea: Day 7
+海　−航海８日目−	At Sea: Day 8
+天満橋	Tenman Bridge
+ＪＡＰＡＮ	JAPAN
+ＪＡＰＡＮ　織田城	JAPAN: Oda Castle
+死国	Land of the Dead
+−−−	
+異界　ポリポリワン	Otherworld: Polipoliwan
+ミラクルの秘密屋敷	Miracle's Secret Manor
+キナニ砂漠	Kinani Desert
+国際共同都市　シャングリラ	International City: Shangri-La
+アメージング城	Amazing Castle
+空飛ぶランス城	Flying Rance Castle
+トリダシタ村	Toridashita Village
+首都　マジック	Capital: Magic
+スシヌ迷宮	Sushinu Labyrinth
+ゼス領　魔物界	Zeth: Monster Realm
+パワジオンセン	Pawajionsen
+シベリア	Siberia
+シベリア地下の洞窟？	A Cave Under Siberia?
+巨大戦艦遺跡	Giant Battleship Ruins
+移動型売春宿シーウィード	Mobile Brothel Sieweed
+首都　リーザス城	Capital: Leazas Castle
+放棄された都市　スケール	Abandoned City: Scale
+首都　Ｍランド	Capital: M-Land
+闘神都市	Toushin City
+試練迷宮	Trial Labyrinth
+翔竜山のふもと	Foot of Mount Shoryu
+翔竜山　標高５００	Mount Shoryu: 500m
+翔竜山　標高１０００	Mount Shoryu: 1000m
+翔竜山　標高２０００	Mount Shoryu: 2000m
+翔竜山	Mount Shoryu
+翔竜山　標高３０００	Mount Shoryu: 3000m
+翔竜山　標高３５００	Mount Shoryu: 3500m
+翔竜山　標高４０００	Mount Shoryu: 4000m
+翔竜山　標高４５００	Mount Shoryu: 4500m
+翔竜山　標高５０００	Mount Shoryu: 5000m
+翔竜山　標高５５００	Mount Shoryu: 5500m
+翔竜山　標高６０００	Mount Shoryu: 6000m
+翔竜山　標高６５００	Mount Shoryu: 6500m
+翔竜山　標高７０００	Mount Shoryu: 7000m
+翔竜山　標高７５００	Mount Shoryu: 7500m
+翔竜山　標高８０００	Mount Shoryu: 8000m
+翔竜山　標高８５００	Mount Shoryu: 8500m
+翔竜山　標高９０００	Mount Shoryu: 9000m
+？？　クエルプランの中　？？	?? Inside Quelplan ??
+シャングリラ周辺	Around Shangri-La
+トト村	Toto Village
+メススライム迷宮	Female Slime Labyrinth
+？？？	
+ハニーインザスカイ	Hanny in the Sky
+ＣＩＴＹ　ランス城	CITY: Rance Castle
+カラーの森	Kalar Forest
+ペンシルカウ	Pencilcow
+エスケープカウ　脱出洞窟	Escapecow Cave
+川中島	Kawanakajima
+ＡＬ本部 カイズ地下迷宮	AL HQ: Kaiz Maze
+ゼス横断回廊	Zeth Corridor
+マジノ要塞	Maginot Fortress
+魔物界	Monster Realm
+ミダラナツリー　カミーラ城	Midarana: Camilla's Castle
+サイサイツリー	Saisai Tree
+砂漠の都市　シャングリラ	Desert City: Shangri-La
+シャングリラ劇場内	Shangri-La Theater
+シャングリラ本部？	Shangri-La HQ?
+臨時首都　マーク	Interim Capital: Mark
+ダグザス	Dagzas
+オールドゼス	Old Zeth
+ゼス軍　野営地	Zeth Army Camp
+ニカニカ平原	Nikanika Plain
+巨大ホフホフの中	Inside Giant Hofhoph
+ガルティアの腹の中？	Inside Galtia's Belly?
+秘密の谷	Secret Valley
+ＪＡＰＡＮ　イシイ迷宮	JAPAN: Ishii Labyrinth
+メディウサ討伐へ	To Hunt Medusa
+メディウサ支配地	Medusa's Domain
+ラグナロックアーク	Ragnarok Arc
+戦場　マーク近郊	Battlefield: Outside Mark
+ゼスの砦	Zeth Fort
+スライム迷宮	Slime Labyrinth
+ロストパセリの通路	Lost Parsley Passage
+戦場	Battlefield
+都市　ガーベル	City: Garbel
+メディウサ軍　勢力範囲	Medusa's Territory
+ゼス　光蝕の日	Zeth: The Koushoku
+ナガールモール周辺	Around Nagalmol
+スリミド周辺	Around Surimido
+イタリア周辺	Around Italia
+ゼス地域	Zeth Region
+戦場　サンデー平原	Battlefield: Sunday Plain
+ペトロの森	Petro Forest
+村　ビーハンデル	Village: Beehandel
+村　ルールーハンデル	Village: Ruuruhandel
+燃える村	Burning Village
+ゼス　街道	Zeth Highway
+戦場　第１０１砦	Battlefield: Fort 101
+織田城	Oda Castle
+シベリア氷雪地帯	Siberian Snowfield
+巨大戦艦遺跡内	Inside the Ruins
+タンザモンザツリー	Tanzamonza Tree
+ビューティツリー	Beauty Tree
+マルグリッド迷宮	Marguerite Labyrinth
+ＸＸＸ村	XXX Village
+とある村	A Certain Village
+ニーチェの森	Nietzsche Forest
+ツングース高地	Tungus Plateau
+魔軍陣地	Monster Army Camp
+放火された村	Torched Village
+上杉軍　野営地	Uesugi Army Camp
+魔軍が立て籠もる山	Monster Army's Mountain
+ノシタタ村	Noshitata Village
+トランシルバニアの森	Transylvania Forest
+戦場　ラングバウ西	Battlefield: West of Lang Bau
+ケッセルリンクの城	Kesselring's Castle
+魔軍陣地　テニアン	Monster Army Camp: Tinian
+魔王城内	Demon King's Castle
+シベリア　氷雪地帯	Siberia: Snowfield
+ホ・ラガの塔	Ho-Raga's Tower
+コールドスリープ室	Cold Sleep Room
+５ヶ月後……	Five Months Later...
+１年後……	One Year Later...
+３年後……	Three Years Later...
+１０００年後……	1000 Years Later...
+？？？？年後……	???? Years Later...
+ランス砦	Rance Fort
+ランス砦の奥	Deep Inside Rance Fort
+アニャガス王国	Kingdom of Anyagas
+ランス城付近	Near Rance Castle
+小さな村	A Small Village
+ＪＡＰＡＮ軍駐屯地	JAPAN Army Garrison
+首都 リーザス城	Capital: Leazas Castle
+リーザス軍　野営地	Leazas Army Camp
+戦場　アンデル紅平原	Battlefield: Ander Crimson Plain
+リプ商店街	Lip Shopping District
+プリティリア	Pritilia
+大都市　スケール	Great City: Scale
+戦場　スケールの南	Battlefield: South of Scale
+ハイパービル　１階	Hyperville: Floor 1
+ハイパービル　１５階	Hyperville: Floor 15
+ハイパービル　２１階	Hyperville: Floor 21
+ハイパービル　２８階	Hyperville: Floor 28
+マニア洞窟内　即売会会場	Mania Cave: Fair Hall
+公園坂森	Kouenzaka Forest
+小都市　カーソン	Small City: Carson
+魔軍支配地域	Monster Army Territory
+アペムンタ村	Apemunta Village
+カクテル迷宮	Cocktail Labyrinth
+戦場　スケールの西	Battlefield: West of Scale
+光の道	Path of Light
+離れ宮島	Detached Miyajima
+リーザス　街道	Leazas Highway
+リーザス　平原	Leazas Plains
+オク	Oku
+Ｌ・Ｃ・Ｍ連山	L・C・M Range
+ズンド農地	Zundo Farmland
+大都市　リッチ	Great City: Rich
+魔軍野営地	Monster Army Camp
+大都市リッチ	Great City: Rich
+最前線の近く	Near the Front Line
+魔軍との最前線	Monster Army Front Line
+前線の砦	Front-Line Fort
+永久地下牢	Eternal Dungeon
+永久地下牢　中層	Eternal Dungeon: Mid
+永久地下牢　下層	Eternal Dungeon: Lower
+魔軍に占領されたランス城	Monster Army's Rance Castle
+ランス砦の奥の奥	Deeper Inside Rance Fort
+魔物界の岸壁	Monster Realm Cliffs
+魔物平原	Monster Plains
+ベズドグ山	Mount Bezdog
+ベズドグ山内　第１ブロック	Mount Bezdog: Block 1
+ベズドグ山内　第２ブロック	Mount Bezdog: Block 2
+ベズドグ山内　第３ブロック	Mount Bezdog: Block 3
+ベズドグ山内　廃棄エリア	Mount Bezdog: Disposal
+魔物界　奥地	Monster Realm: Interior
+ＣＩＴＹ近郊	Outside CITY
+ＣＩＴＹ近郊　裏道	Outside CITY: Back Road
+西山道口	West Mountain Path
+魔軍司令部	Monster Army HQ
+帰路	The Way Home
+ねっとり迷宮	Sticky Labyrinth
+悪魔回廊	Demon Corridor
+カスタムの町	Town of Custom
+カスタムの地下迷宮	Custom Underground Maze
+熊野古道	Kumano Kodo
+パランチョ	Parancho
+火星	Mars
+ジフテリア	Diphteria
+戦場　ハイパービル前	Battlefield: Hyperville
+穴草原の地下	Under the Hole Grassland
+戦場　穴草原	Battlefield: Hole Grassland
+小都市　ゴア	Small City: Goa
+戦場　セキガハラ	Battlefield: Sekigahara
+パイアール第２工場	Pi-R Factory No. 2
+へっぽこ街道	Hapoko Road
+ワシントン花畑	Washington Flower Field
+翔竜山　標高１５００	Mount Shoryu: 1500m
+翔竜山　標高９５００	Mount Shoryu: 9500m
+翔竜山　標高１００００	Mount Shoryu: 10000m
+翔竜山　標高１１０００	Mount Shoryu: 11000m
+翔竜山　標高１１５００	Mount Shoryu: 11500m
+翔竜山　標高１２０００	Mount Shoryu: 12000m
+異界　サイバーワールド	Otherworld: Cyber World
+パイアール第２工場　２Ｆ	Pi-R Factory No. 2: 2F
+パイアール第２工場　１Ｆ	Pi-R Factory No. 2: 1F
+パイアール第２工場　３Ｆ	Pi-R Factory No. 2: 3F
+地下へ続く迷宮	Maze Leading Down
+アレルギー超大国	Allergy Superpower
+アニャガス牢獄	Anyagas Prison
+地底	Underground
+地底　さらに深く・・・	Underground: Deeper...
+？？？？	
+へルマン	Helman
+闘神都市の遺跡	Ruins of Toushin City
+東登り口	East Approach
+北登り口	North Approach
+正面登り口	Front Approach
+大阪	Osaka
+大陸のどこか？？	Continent: Somewhere??
+スルメ山	Mount Surume
+戦場　丹波	Battlefield: Tanba
+番裏の砦	Fort Banura
+ルッコンフード洞窟	Rukkonfood Cave
+近くの街道	Nearby Road
+ゼス近郊	Outside Zeth
