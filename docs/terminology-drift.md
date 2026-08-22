@@ -278,6 +278,29 @@ abbreviation, like "Mt. Shoryu". `兄様`, `内容若干変化`, `上杉軍`, `�
 `連合軍` are the noise this file already describes. The other three -- `帝国`,
 `試練` and `達成` -- the component cut now drops on its own.
 
+**One untabled decision was taken that this report could not have reached.**
+魔素漢, the monster army's mass magic troops, is on **three** lines of dialogue
+and nowhere else in the game -- not a card, not an enemy name, not a key -- so
+it never met the 25-line floor `least` puts on a term. No glossary has it and
+neither does the wiki: the word turns up once in a Japanese monster list for
+Widenyo, and the English table beside it stops before reaching it. The scenes
+are what named it. A 魔物将軍 plays them as his trump card, a thousand of them
+fire from behind, Cordoba calls them 魔法使い, and in the labyrinth that drains
+魔物の魔力 they are フラッフラ without doing anything -- so 魔素, the mana, is what
+they run on. `32f2b831` writes **mana casters**, and says in as many words that
+the place to change it is those three records.
+
+Two of the three said "magic soldiers" before that, and the majority was not
+available: 魔法兵 is Mage Soldier in five rows of `48_立ち絵名札マッピング情報.x`,
+two of `9_カード情報.x` and ten of `card_name_glossary.tsv`, and the dialogue was
+calling *them* magic soldiers too (`f471852f`, twelve records). **Two Japanese
+words cannot share one English phrase on a surface where both appear**, which is
+the same reasoning `docs/enemy-status-lines.md` gives for keying a glossary by
+the Japanese, and it decided 格闘 as well: `6a418b65` took Martial Arts partly
+because `9_カード情報.x:8425` is けんか -- "Fighting 2, Soccer 2" -- a different
+skill that had been sharing the name on six cards. That one the report did find,
+and it is the only real finding it has surfaced since it was written.
+
 ### named
 
 `4ff39af6` and `3e05d2c1`. 54 findings, 880 corpus records and twenty table
