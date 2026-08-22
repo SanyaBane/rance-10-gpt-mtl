@@ -16,22 +16,26 @@ describes. It is not committed, for the same reason the bake invariant is not.
 ## What it reports, and what each part is
 
 Ask it of the record the build actually applies -- the last one carrying a given
-number, since alice-tools keeps the last assignment it reads. **4995 line numbers
+number, since alice-tools keeps the last assignment it reads. **4905 line numbers
 are adrift**, and sorting them by shape is what makes the number readable:
 
 | Numbers | What it is | Does the player see it |
 |---|---|---|
 | 4860 | punctuation or a bracket folded -- a dropped `」`, `…………」` against `............」` | no |
-| 90 | the game's own line with a stray `「` glued on the end | no |
 | 44 | a slip in retyping the Japanese -- `溜息` for `溜め息`, `言わず` for `言わさず` | no |
 | 1 | no line in the dump at all | no |
 
 **No sample of any of those has the English wrong**, and that is the thing to
 take from the table rather than the digits. Every one of them also reads its
 *own* sentence, which is the only property `normalizeNames` needs from this
-field -- so what the number counts now is transcription rather than damage. The
-shape that was damage is gone, and the two sections under this are what it was
-and what closing it took.
+field -- so what the number counts now is the model retyping a line slightly
+differently, and nothing else. Nothing in it carries text glued on the end any
+more, and nothing in it belongs to another number.
+
+Which took three passes over one gradient, because that is what it turned out to
+be rather than three faults. A character of the next line, a whole sentence of
+it, and five lines running are the same leak at three depths, and the sections
+below go through them shallowest last.
 
 Two kinds are gone. 158 numbers whose **English** was the next line's, fixed in
 `eec7f479`, and 75 whose **Japanese** was, fixed in `8fbf3793` -- the section
@@ -64,10 +68,18 @@ This is the shape a repair of `originalJapaneseLine` is easiest on: the count
 moved by exactly 29, from 5083 to 5054, and every one of the 29 now equals the
 dump byte for byte.
 
-The 90 rows of the table above are the same artifact with a `「` instead of a
-comma, and they are left standing: the English of every one of them is clean, so
-there is no slot to repair and no name decision to move -- only the field's own
-tidiness, which nothing reads.
+### The bracket that opens the line under this one
+
+`9633fecd`, and the shallowest of the three. 90 records carried the game's own
+line with a single `「` after it, and 82 of the 90 sit on a line the game follows
+with a line opening `「` -- so what the model took was the first character of the
+line under the one it was writing. 53 chunk files, all 90 the copy the build
+plays, and the English of every one clean.
+
+**It buys nothing a player sees**, which is why it is not part of `29685a5e`
+below: a `「` carries no name, so no repair decision moves. What it buys is the
+table at the top of this file, which has no row left for anything glued on the
+end.
 
 ### The record that was reading the neighbour's sentence
 

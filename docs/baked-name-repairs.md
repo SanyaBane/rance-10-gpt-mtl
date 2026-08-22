@@ -197,7 +197,7 @@ a range of their own either; they run from 94 to 269 677, and 784 of them are
 also a number `gpt_outputs` uses for some other line.
 
 And a record's Japanese is not automatically the game's line for its number.
-4995 of them are not, almost all of that a dropped closing `」`. Two kinds that
+4905 of them are not, almost all of that a dropped closing `」`. Two kinds that
 mattered are gone: 158 lines of six scenes were showing the *next* line's
 English until `eec7f479`, and 386 records carried the *next* line's Japanese --
 which is what `normalizeNames` reads to decide a name repair -- until
