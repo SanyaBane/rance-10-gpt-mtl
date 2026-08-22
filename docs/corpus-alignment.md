@@ -16,25 +16,80 @@ describes. It is not committed, for the same reason the bake invariant is not.
 ## What it reports, and what each part is
 
 Ask it of the record the build actually applies -- the last one carrying a given
-number, since alice-tools keeps the last assignment it reads. **5082 line numbers
-are adrift**, and they are three different things:
+number, since alice-tools keeps the last assignment it reads. **5054 line numbers
+are adrift**, and sorting them by shape is what makes the number readable:
 
 | Numbers | What it is | Does the player see it |
 |---|---|---|
-| 4906 | the record's Japanese lost a closing `」` | no |
-| 169 | punctuation folded -- `…………」` against `............」` | no |
-| 7 | a merge, a blank, one line early | no |
+| 4837 | punctuation or a bracket folded -- a dropped `」`, `…………」` against `............」` | no |
+| 128 | the record's Japanese carries the game's line **and something after it** | no |
+| 76 | a typo in the record's Japanese -- `溜息` for `溜め息`, `言わず` for `言わさず` | no |
+| 41 | the record's Japanese stands one line ahead | no |
+| 2 | the record's Japanese is the start of the game's line and stops | no |
+| 1 | no line in the dump at all | no |
+
+**No sample of any of those has the English wrong**, and that is the thing to
+take from the table rather than the digits. The first shape needs no folding
+rule cleverer than stripping the brackets and the ellipsis; the last four
+together are 120 numbers, and what they cost is what the two repairs below cost
+-- `normalizeNames` decides a name from `originalJapaneseLine`, so a record
+whose Japanese belongs to the neighbour is repaired by the wrong sentence.
 
 Two kinds are gone. 158 numbers whose **English** was the next line's, fixed in
 `eec7f479`, and 75 whose **Japanese** was, fixed in `8fbf3793` -- the section
 below is what those were. Counting every copy rather than the winning one gives
 5329, because the overlapping chunk ranges carry 5479 numbers twice.
 
-One record is adrift in a way this table cannot hold: `gpt_outputs_v104/000720_000780.json`
-carries `m[185445]` with an empty `originalJapaneseLine`, and the v1.04 dump has
-no line for that number at all. Asking what has **no** line in the dump is a
-different question from asking what disagrees with one, and it is worth asking
-separately -- it is how `m[184739]` was found.
+The table's last row is one record, and it is there only because this check
+happens to trip over it: `gpt_outputs_v104/000720_000780.json` carries
+`m[185445]` with an empty `originalJapaneseLine`, and the v1.04 dump has no line
+for that number at all. Asking what has **no** line in the dump is a different
+question from asking what disagrees with one, and it is worth asking separately
+rather than reading off this row -- it is how `m[184739]` was found.
+
+### The comma the model glued on, and the 25 slots printing it
+
+`d113c2c3`. 29 records carried the game's own line with a `,` on the end, and 25
+of them printed it in English too, after the closing quote: "　Good work
+yesterday.」,". 28 are one scene of `gpt_outputs/000240_000300.json` and one is
+`m[152328]`.
+
+**What decides the set is the dump, not a pattern over the English.** Four lines
+of that same scene end in a comma correctly -- "Watching the two run off,",
+"「Some days you want curry," -- so the cut on the English is a comma standing
+*after a closing bracket*, which is never English punctuation, and the cut on
+the set is `record.originalJapaneseLine === game + ","`. `m[152328]` is the case
+where those two disagree: its English "「--No,」" carries the comma inside the
+bracket, leading into the next line, and only its Japanese was repaired.
+
+This is the shape a repair of `originalJapaneseLine` is easiest on: the count
+moved by exactly 29, from 5083 to 5054, and every one of the 29 now equals the
+dump byte for byte.
+
+### The blank English, which is 1565 records and is not this
+
+Measured while sorting the table above, and left alone. 1565 of the records the
+build plays have a Japanese line that says something and an English line that is
+empty, so the patch assigns `m[N] = ""` and the player gets a blank where a line
+should be. **Nothing is lost**: every one of them is a two-line Japanese unit the
+model merged into one English on the *first* record, and the text is on the line
+above.
+
+```
+m[34827] = "「Yes. We've had Tulip artillery with us before..."   ← 「ええ。前から、チューリップ砲兵を
+m[34828] = "　but the Zeth mage corps is impressive.」"           ← 　周りに付けてましたけど……
+m[34829] = ""                                                     ← 　ゼスの魔法兵団は流石ですね」
+```
+
+The signature that shows it is a merge rather than a dropped line: the blank
+record's Japanese closes a speech, the record above it does not, and the English
+above it does. That reaches 984 of the 1565 directly, and the remaining 581 are
+narration of the same shape, where no bracket is there to test.
+
+It is invisible to the check this file is about, because both fields of every
+one of those records agree with the dump. And repairing it is not a sweep --
+each one is the English of two game lines that has to be split back across
+them, which is 1565 translation decisions rather than a rule.
 
 ## The Japanese that was the next line's
 
