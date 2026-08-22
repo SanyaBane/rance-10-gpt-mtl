@@ -537,7 +537,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "ノワール／", "Noir" },
 	{ "タイガー将軍／", "General Tiger" },
 	{ "鈴女／", "Suzume" },
-	{ "量産型あてな２号／", "Mass-produced Athena 2.0" },
+	{ "量産型あてな２号／", "Mass-Produced Athena 2.0" },
 	{ "あおい／", "Aoi" },
 	{ "The Mysterious Beautiful Detective.", "The Mysterious Beautiful Detective." },
 	{ "闘神シグマ／", "Toushin Sigma" },
