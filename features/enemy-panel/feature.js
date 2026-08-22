@@ -25,16 +25,21 @@
  * exactly like one without until that file appears.
  */
 export default {
-    summary: "the enemy status panel at the start of every round, not only after アナライズ",
+    /* Analyze rather than アナライズ: the summary is player-facing, and the release READMEs are English. */
+    summary: "the enemy status panel at the start of every round, not only after Analyze",
     /*
-     * Said to the player rather than to the build: it is what the README in a
-     * release folder prints under the summary above, because a feature that
-     * does nothing until a file exists has to say so somewhere the player
-     * looks. A feature with no switch leaves this out and the README says it is
-     * on as soon as it is installed.
+     * The switch the player owns: the file the game looks for, and what is
+     * different once it is on. Both are player-facing prose --
+     * modules/CustomMods.js puts them in the README a release folder ships and
+     * in the one inside custom_mods. There is no whenOn here because the summary
+     * above is already the whole of what changes, and how to switch a feature at
+     * all is said once under the list rather than inside every feature. What
+     * reads the file is the .jaf next door, and modules/Features.js checks the
+     * name below against it.
      */
-    howToTurnOn: "Create an empty file called `custom_mods\\enemy_panel_on` beside `Rance10.exe` to turn it"
-        + " on, and delete it to turn it off. It is read at the start of every round, so neither takes a restart.",
+    switch: {
+        file: "enemy_panel_on",
+    },
     patches: ["enemy_info_panel.jaf", "enemy_info_panel.jam"],
     default: true,
 };

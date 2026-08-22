@@ -7,16 +7,15 @@
  * what it does and in what order they are applied. The folder's name is the
  * feature's name. Nothing here holds a list, because features/ is the list --
  * this module reads it, scripts/ain.js applies whichever are selected,
- * scripts/release.js builds one extra .ain per feature without being told any
+ * scripts/release.js ships the switch for each of them without being told any
  * names, and adding the next one is a folder rather than an edit to any of the
  * three.
  *
  * They are on by default, because the .ain a build installs into the game is
- * the one that gets played. The release folder is the other way round: its
- * Rance10.ain is the translation and nothing else, and each feature is a
- * separate file to copy over it, so that installing the English does not mean
- * taking modified game logic with it. scripts/release.js is where that layout
- * is written down.
+ * the one that gets played, and every one of them is a file away from doing
+ * nothing: the switch below is what a player turns a feature off by deleting.
+ * A release folder ships those files ready made and an install into a game
+ * folder does not -- modules/CustomMods.js is that folder and the reasoning.
  */
 import * as fs from "fs";
 import * as path from "path";
@@ -38,6 +37,54 @@ const MANIFEST = "feature.js";
  * resolve function".
  */
 const FLAGS = {".jaf": "--jaf", ".jam": "--jam"};
+
+/**
+ * The folder under the game folder that every switch file sits in, spelled
+ * here and in each feature's .jaf and nowhere else. switchOf below checks the
+ * two against each other, so a feature that names a file the game never stats
+ * stops a build instead of shipping a switch that turns nothing on.
+ */
+export const CUSTOM_MODS = "custom_mods";
+
+/**
+ * The switch a feature is turned on by, or null for one that is on as soon as
+ * it is built in:
+ *
+ *     file    the empty file the game looks for, under custom_mods
+ *     whenOn  what is different in the game once it is on, as a sentence, or ""
+ *             where the summary has already said it
+ *
+ * Two fields rather than the paragraph a manifest used to carry, because almost
+ * all of that paragraph was the same for every feature: how to switch one at
+ * all, and that neither direction takes a restart, are one instruction under
+ * the list rather than a sentence inside each of them. What is left is these
+ * two, both player-facing prose, and modules/CustomMods.js writes them out.
+ *
+ * The name is checked against the files the feature applies, because that is
+ * the one place it can be wrong with nothing failing: a switch nobody stats
+ * turns nothing on, and a release folder shipping it would say a feature is
+ * running when it is not. A .jaf spells the path with forward slashes -- its
+ * lexer takes no backslash in a string literal at all -- so that is what is
+ * looked for.
+ */
+const switchOf = (name, dir, feature, patches) => {
+    if (!feature.switch) {
+        return null;
+    }
+    const {file, whenOn} = feature.switch;
+    if (!file) {
+        throw new Error(`features/${name}/${MANIFEST} has a switch with no file. It is the name the game looks`
+            + " for, and the name the release folder creates -- there is no switch without it.");
+    }
+    const stat = `${CUSTOM_MODS}/${file}`;
+    const stats = patches.some(patch => fs.readFileSync(path.join(dir, patch), "utf-8").includes(stat));
+    if (!stats) {
+        throw new Error(`features/${name}/${MANIFEST} says it is switched on by ${stat}, and none of the files`
+            + ` it applies looks that path up. Nothing would fail: the .ain would carry the feature, the game`
+            + ` would never stat that name, and a release folder would ship the file saying the feature is on.`);
+    }
+    return {file, whenOn: whenOn ?? ""};
+};
 
 /**
  * A feature's arguments: each file it names, as a path relative to the
@@ -75,17 +122,17 @@ const readFeature = async (name) => {
         throw new Error(`features/${name}/${MANIFEST} has no summary. It is the line --with= and the release`
             + ` listing print, so a feature without one has no way to say what it does.`);
     }
+    /* Read before the switch, which reads the same files to check the name it was given. */
+    const patches = feature.patches ?? [];
     return [name, {
         summary: feature.summary,
+        args: patchArgs(name, dir, patches),
         /*
-         * What the player has to do for it to do anything, in a sentence or
-         * two, or "" for a feature that is on as soon as it is built in. Read
-         * by modules/ReleaseReadme.js and printed by scripts/release.js: the
-         * switch belongs to the feature, so the line describing it lives in the
-         * feature's folder rather than in either of those.
+         * How the player turns it on, in pieces: modules/CustomMods.js is what
+         * says it in words, because what there is to say depends on whether
+         * the file has been shipped already or has to be created.
          */
-        howToTurnOn: feature.howToTurnOn ?? "",
-        args: patchArgs(name, dir, feature.patches ?? []),
+        switch: switchOf(name, dir, feature, patches),
         default: feature.default ?? false,
     }];
 };

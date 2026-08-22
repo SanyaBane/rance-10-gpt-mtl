@@ -26,15 +26,19 @@ export default {
     summary: "the +50 First Finisher treasure bonus on every battle, whoever lands the kill,"
         + " instead of once per character per quest",
     /*
-     * Said to the player rather than to the build: it is what the README in a
-     * release folder prints under the summary above, because a feature that
-     * does nothing until a file exists has to say so somewhere the player
-     * looks.
+     * The switch the player owns: the file the game looks for, and what is
+     * different once it is on. Both are player-facing prose --
+     * modules/CustomMods.js puts them in the README a release folder ships and
+     * in the one inside custom_mods -- so whenOn describes what somebody sees
+     * rather than the file that switched it. How to switch a feature at all is
+     * said once under the list rather than inside every feature, so it is not
+     * here. What reads the file is the .jaf next door, and modules/Features.js
+     * checks the name below against it.
      */
-    howToTurnOn: "Create an empty file called `custom_mods\\always_first_finisher_on` beside `Rance10.exe` to"
-        + " turn it on, and delete it to turn it off. It is read as the battle result is calculated, so neither"
-        + " takes a restart. With the file there, the result screen lists First Finisher +50 after every won"
-        + " battle instead of only the first time each character takes a killing blow in a quest.",
+    switch: {
+        file: "always_first_finisher_on",
+        whenOn: "You will see it as the First Finisher +50 line on the result screen after a won battle.",
+    },
     patches: ["always_first_finisher.jaf"],
     default: true,
 };

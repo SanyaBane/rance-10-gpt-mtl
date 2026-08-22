@@ -26,14 +26,19 @@
 export default {
     summary: "Meal Preparation and Sweets Making always work, instead of failing a quarter of the time",
     /*
-     * Said to the player rather than to the build: it is what the README in a
-     * release folder prints under the summary above, because a feature that
-     * does nothing until a file exists has to say so somewhere the player
-     * looks.
+     * The switch the player owns: the file the game looks for, and what is
+     * different once it is on. Both are player-facing prose --
+     * modules/CustomMods.js puts them in the README a release folder ships and
+     * in the one inside custom_mods -- so whenOn describes what somebody sees
+     * rather than the file that switched it. How to switch a feature at all is
+     * said once under the list rather than inside every feature, so it is not
+     * here. What reads the file is the .jaf next door, and modules/Features.js
+     * checks the name below against it.
      */
-    howToTurnOn: "Create an empty file called `custom_mods\\reliable_cooking_on` beside `Rance10.exe` to turn"
-        + " it on, and delete it to turn it off. It is read as the skill fires, so neither takes a restart."
-        + " The skill descriptions still say 75% and 80%; with the file there, both always succeed.",
+    switch: {
+        file: "reliable_cooking_on",
+        whenOn: "The two skill descriptions still say 75% and 80%; ignore them, both succeed every time.",
+    },
     patches: ["cooking_skill_chance.jaf", "cooking_skill_chance.jam"],
     default: true,
 };

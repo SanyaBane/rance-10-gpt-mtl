@@ -14,14 +14,23 @@
  * right until the first build that left a feature out.
  *
  * What a feature says for itself comes out of its own feature.js -- the summary
- * every feature has, and the howToTurnOn line the ones with a switch add -- so
- * the next feature brings its own paragraph rather than a line being added
- * here.
+ * every feature has, and the switch the ones with a switch name -- so the next
+ * feature brings its own bullet rather than a line being added here. The bullet
+ * itself, and the instruction under the list, are modules/CustomMods.js, which
+ * writes the page inside custom_mods out of exactly the same pieces.
+ *
+ * Written for whoever installed the patch and nobody else. What a file is
+ * called inside the game, when the switch is read, what the feature is called
+ * under features/ -- none of that is on this page: it is three steps to
+ * install, a list of what is in the folder, and what each optional feature
+ * changes.
  */
 import * as path from "path";
 import {AIN} from "./AinFiles.js";
-import {FEATURES} from "./Features.js";
+import {featureBullet, switchedFeatures, switchingLines} from "./CustomMods.js";
+import {CUSTOM_MODS} from "./Features.js";
 import {isTranslated, TEXT_LANGS} from "./TextLanguages.js";
+import {wrap} from "./Wrap.js";
 
 /** Rance10.v1.04, the game build every file here was made from. */
 const GAME_BUILD = path.basename(AIN, ".ain");
@@ -32,52 +41,77 @@ const FILES = {
     "Rance10Pact.afa": "the interface",
 };
 
+/**
+ * A count in words, because "the same 4 optional features" is a page written by
+ * a program and "the same four" is a sentence. Past ten it goes back to digits,
+ * which is a number of features nobody is going to read as prose anyway.
+ */
+const spelled = (n) => ["no", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
+    "ten"][n] ?? String(n);
+
 /** The files a folder of this text language holds, in the order they matter. */
 export const filesFor = (lang) => (isTranslated(lang)
     ? ["Rance10.ain", "Rance10EX.ex", "Rance10Pact.afa"]
     : ["Rance10.ain"]);
 
 /**
- * The features this build carries, as a bullet apiece: what it does, and what
- * the player has to do for it to do anything. A feature with no howToTurnOn is
- * on as soon as it is installed, and says so.
+ * The features this build carries: what each one changes, and one instruction
+ * about the files that switch them rather than the same two sentences four
+ * times over. The bullets are modules/CustomMods.js, because the page inside
+ * custom_mods lists the same things and the two saying it differently would be
+ * two answers to one question.
  */
 const featureSection = (features) => {
     if (features.length === 0) {
-        return ["## Optional features", "", "None. This build changes what the game says and never how it plays."];
+        return ["## Optional features", "",
+            ...wrap("None. This build changes what the game says and never how it plays.")];
     }
-    const lines = ["## Optional features", "",
-        "Built into the `Rance10.ain` here. They change how the game behaves rather than what it says:", ""];
-    for (const name of features) {
-        const feature = FEATURES[name];
-        lines.push(`- **${name}** — ${feature.summary}`);
-        lines.push(feature.howToTurnOn
-            ? `  ${feature.howToTurnOn}`
-            : "  Nothing to switch on: it is on as soon as this file is installed.");
-    }
-    return lines;
+    const switched = switchedFeatures(features);
+    return ["## Optional features", "",
+        ...wrap("These come with the patch. Unlike the rest of it, they change how the game plays rather than"
+            + " what it says in English, so each one is yours to keep or turn off. Not sure you want any of"
+            + ` them? Leave the \`${CUSTOM_MODS}\` folder out when you copy: what is left is the translation`
+            + " and nothing else, and the game plays exactly the way it always has."),
+        "",
+        ...features.flatMap(featureBullet),
+        ...(switched.length > 0
+            ? ["", ...switchingLines(`The \`${CUSTOM_MODS}\` folder here`)]
+            : []),
+    ];
 };
 
 /**
- * The two lines the index says about the features, which depend on whether any
- * of them waits on the player -- a page that promises a switch nobody has to
- * throw sends whoever reads it looking for one.
+ * The lines the index says about the features, which depend on whether any of
+ * them is switched by a file -- a page that promises a folder of switches for a
+ * build whose features have none sends whoever reads it looking for one. The
+ * names under features/ are this repository's and stay out of it: what the
+ * player needs from this page is that the features are there and already on.
  */
 const featureNote = (features) => {
     if (features.length === 0) {
-        return ["These builds carry no optional features: they change what the game says and",
-            "never how it plays."];
+        return wrap("These builds carry no optional features: they change what the game says and never how it"
+            + " plays.");
     }
-    const waiting = features.filter(name => FEATURES[name].howToTurnOn);
-    return [`Every build here carries the optional features: ${features.join(", ")}.`,
-        "Each folder's README says what they do"
-        + (waiting.length > 0
-            ? `, and what to create for ${waiting.length === 1 ? "the one that waits" : "the ones that wait"}`
-                + " on a file of yours."
-            : ".")];
+    const many = features.length === 1
+        ? "one optional feature"
+        : `the same ${spelled(features.length)} optional features`;
+    return switchedFeatures(features).length > 0
+        ? wrap(`Every folder here carries ${many}, which change how the game plays rather than what it says.`
+            + ` Each folder's \`${CUSTOM_MODS}\` has them switched on already, and that folder's README says`
+            + " what each file changes and how to turn one off.")
+        : wrap(`Every folder here carries ${many}, which change how the game plays rather than what it says.`
+            + " Each folder's README says what they do.");
 };
 
-/** The page in one release folder. */
+/**
+ * The page in one release folder.
+ *
+ * Three steps first and the detail after them, because installing this is
+ * copying a folder and everything else on the page is something you only need
+ * once it is copied. Nothing here is folded by hand: wrap() does it, so a
+ * sentence can be edited without re-folding the paragraph under it, and the
+ * page is the same 80 columns wherever it was generated.
+ */
 export const renderFolderReadme = (lang, features) => {
     const files = filesFor(lang);
     const lines = [
@@ -86,33 +120,40 @@ export const renderFolderReadme = (lang, features) => {
         `${TEXT_LANGS[lang].summary[0].toUpperCase()}${TEXT_LANGS[lang].summary.slice(1)}.`,
         `Built from ${GAME_BUILD}.`,
         "",
-        "## Installing",
+        "## Quick start",
         "",
-        `Copy the ${files.length === 1 ? "file" : "files"} in this folder into your Rance 10 folder — the one holding`,
-        "`Rance10.exe` — over what is already there. Keep a copy of the originals first:",
-        "nothing here puts them back.",
+        ...wrap("Make a copy of your Rance 10 folder, or at least of the files listed below —"
+            + " nothing here puts the originals back.", "1. ", "   "),
+        ...wrap("Copy everything in this folder into your Rance 10 folder, the one holding `Rance10.exe`,"
+            + " over what is already there.", "2. ", "   "),
+        ...wrap("Play. The rest of this page is only worth reading if you want to change what the optional"
+            + " features do.", "3. ", "   "),
         "",
-        "| File | What it holds |",
+        "## What is in this folder",
+        "",
+        "| Name | What it holds |",
         "|---|---|",
         ...files.map(file => `| \`${file}\` | ${FILES[file]} |`),
+        ...(switchedFeatures(features).length > 0
+            ? [`| \`${CUSTOM_MODS}\\\` | the switches for the optional features below, every one already on |`]
+            : []),
         "",
     ];
     if (isTranslated(lang)) {
         lines.push(
-            "The images are not in here. The two archives holding the drawn-in Japanese are",
-            "packed by hand out of half a gigabyte of the game's own files, so they are not",
-            "part of a build.",
+            ...wrap("The images are not in here. The two archives holding the drawn-in Japanese are packed by"
+                + " hand out of half a gigabyte of the game's own files, so they are not part of a build."),
             "",
         );
     } else {
         lines.push(
             "## What this does not replace",
             "",
-            "`Rance10EX.ex` and `Rance10Pact.afa` are not in here, and there is no Japanese",
-            "build of them: those two only ever exist with the English written into them. So",
-            "whatever your game folder holds is what stays — if you installed an English patch",
-            "before this, the descriptions and the interface are still English, and putting the",
-            "game's own back is a matter of your backup or a reinstall.",
+            ...wrap("`Rance10EX.ex` and `Rance10Pact.afa` are not in here, and there is no Japanese build of"
+                + " them: those two only ever exist with the English written into them. So whatever your game"
+                + " folder holds is what stays — if you installed an English patch before this, the"
+                + " descriptions and the interface are still English, and putting the game's own back is a"
+                + " matter of your backup or a reinstall."),
             "",
         );
     }
@@ -124,12 +165,12 @@ export const renderFolderReadme = (lang, features) => {
 export const renderIndexReadme = (langs, features) => [
     "# Rance 10 — patch builds",
     "",
-    `One folder per text the game can be built with, all of them from ${GAME_BUILD}.`,
-    "Copy the contents of **one** folder into your Rance 10 folder, over what is",
-    "already there. Each folder has a README of its own saying what is in it.",
+    ...wrap(`One folder per text the game can be built with, all of them from ${GAME_BUILD}. Copy the contents`
+        + " of **one** folder into your Rance 10 folder, over what is already there. Each folder has a README"
+        + " of its own saying what is in it and how to install it."),
     "",
-    ...langs.map(lang => `- \`${lang}/\` — ${TEXT_LANGS[lang].summary}`
-        + ` (${filesFor(lang).length} file${filesFor(lang).length === 1 ? "" : "s"})`),
+    ...langs.flatMap(lang => wrap(`\`${lang}/\` — ${TEXT_LANGS[lang].summary}`
+        + ` (${filesFor(lang).length} file${filesFor(lang).length === 1 ? "" : "s"})`, "- ", "  ")),
     "",
     ...featureNote(features),
     "",

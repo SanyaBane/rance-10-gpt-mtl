@@ -19,7 +19,9 @@
  *
  *   README.md                                          which folder is which
  *   en_grok/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
+ *           custom_mods/<one empty file per feature>, README.md
  *   jp/Rance10.ain, README.md
+ *      custom_mods/<the same>, README.md
  *
  * Each is a whole install: copy the contents of one folder into the game and
  * that is the patch, with nothing to assemble out of two places. The READMEs
@@ -37,8 +39,12 @@
  * Which features every folder takes is --with= and --without=, the same as any
  * other build. There used to be an optional/<feature>/Rance10.ain apiece here,
  * from when the enemy panel could only be turned on by installing a different
- * .ain; it has a switch file of its own now, so the .ain in every folder is the
- * one with the features in it.
+ * .ain; every feature has a switch file of its own now, so the .ain in every
+ * folder is the one with the features in it, and custom_mods beside it is those
+ * switches shipped already thrown -- one empty file per feature this build put
+ * in, so that turning one off is deleting a file rather than working out which
+ * one to create. modules/CustomMods.js writes it, and says why an install into
+ * a game folder deliberately gets none.
  *
  * --game is the other job and gets the other layout: what you play, one text
  * language, straight into the game folder. A game folder reads one Rance10.ain,
@@ -54,8 +60,9 @@ import * as path from "path";
 import {spawnSync} from "child_process";
 import {flagValue, hasFlag, withoutFlags} from "../modules/Argv.js";
 import {outputDir, run} from "../modules/AliceTools.js";
+import {switchedFeatures, switchNote, writeCustomMods} from "../modules/CustomMods.js";
 import {BUILD} from "../modules/Env.js";
-import {FEATURES, selectedFeatures} from "../modules/Features.js";
+import {CUSTOM_MODS, FEATURES, selectedFeatures} from "../modules/Features.js";
 import {filesFor, renderFolderReadme, renderIndexReadme} from "../modules/ReleaseReadme.js";
 import {isTranslated, listTextLangs, TEXT_LANGS, textLangName} from "../modules/TextLanguages.js";
 
@@ -86,15 +93,21 @@ const stagesFor = (scripts, args) => scripts.map(script => ({script, args}));
  * either job, because a feature that does nothing until a file exists is worth
  * saying out loud to whoever just installed it -- a release folder says the same
  * in its README, and an install into the game has nowhere else to say it at all.
+ *
+ * `where` is where this run created the switch files, or "" for a run that
+ * created none: a release folder was handed them as it was built and an install
+ * was not, so one line says which file to delete and the other which to create.
+ * This is the build log rather than a page for a player, so it keeps the names
+ * under features/ -- they are what --with= and --without= take.
  */
-const reportFeatures = (features) => {
+const reportFeatures = (features, where) => {
     if (features.length === 0) {
         return;
     }
     console.log("\nOptional features in every Rance10.ain built here:");
     for (const name of features) {
         console.log(`  ${name} -- ${FEATURES[name].summary}`);
-        console.log(`    ${FEATURES[name].howToTurnOn || "On as soon as it is installed."}`);
+        console.log(`    ${switchNote(name, where) || "On as soon as it is installed."}`);
     }
 };
 
@@ -146,7 +159,7 @@ run(() => {
             }
         }
         console.log(`\nInstalled into ${dir}.`);
-        reportFeatures(features);
+        reportFeatures(features, "");
         return 0;
     }
 
@@ -193,21 +206,26 @@ run(() => {
     }
 
     /*
-     * The page that says what a folder is. Every folder holds the same file
-     * names now, so which translation this is, and that one of the features
-     * needs a file created before it does anything, are things nothing in the
-     * folder shows -- modules/ReleaseReadme.js writes them down.
+     * The switches, and the page that says what a folder is. Every folder holds
+     * the same file names now, so which translation this is, and which feature
+     * each of those extensionless files turns on, are things nothing in the
+     * folder shows -- modules/ReleaseReadme.js and modules/CustomMods.js write
+     * them down. Both are per folder, because a folder is a whole install and
+     * nothing in it may point at a neighbour.
      */
+    const switched = switchedFeatures(features);
     for (const lang of built) {
+        writeCustomMods(path.join(dir, lang), features);
         fs.writeFileSync(path.join(dir, lang, "README.md"), renderFolderReadme(lang, features), "utf-8");
     }
     fs.writeFileSync(path.join(dir, "README.md"), renderIndexReadme(built, features), "utf-8");
 
+    const extra = switched.length > 0 ? [`${CUSTOM_MODS}/`] : [];
     console.log(`\nBuilt into ${dir}:`);
     for (const lang of built) {
         console.log(`  ${lang}/ -- ${TEXT_LANGS[lang].summary}`);
-        console.log(`    ${[...filesFor(lang), "README.md"].join(", ")}`);
+        console.log(`    ${[...filesFor(lang), "README.md", ...extra].join(", ")}`);
     }
-    reportFeatures(features);
+    reportFeatures(features, switched.length > 0 ? "in every folder here" : "");
     return 0;
 });

@@ -46,16 +46,20 @@
 export default {
     summary: "a rank-up keeps the experience already accumulated toward it, instead of emptying the bar",
     /*
-     * Said to the player rather than to the build: it is what the README in a
-     * release folder prints under the summary above, because a feature that
-     * does nothing until a file exists has to say so somewhere the player
-     * looks.
+     * The switch the player owns: the file the game looks for, and what is
+     * different once it is on. Both are player-facing prose --
+     * modules/CustomMods.js puts them in the README a release folder ships and
+     * in the one inside custom_mods -- so whenOn describes what somebody sees
+     * rather than the file that switched it. How to switch a feature at all is
+     * said once under the list rather than inside every feature, so it is not
+     * here. What reads the file is the .jaf next door, and modules/Features.js
+     * checks the name below against it.
      */
-    howToTurnOn: "Create an empty file called `custom_mods\\rank_up_keep_progress_on` beside `Rance10.exe` to"
-        + " turn it on, and delete it to turn it off. It is read as the rank is awarded, so neither takes a"
-        + " restart. With the file there, an EXP tile on a quest map and the in-battle rank-up skill both leave"
-        + " the experience a character had already earned in the bar rather than clearing it, so spending them on"
-        + " someone who is nearly ranked up no longer wastes the progress.",
+    switch: {
+        file: "rank_up_keep_progress_on",
+        whenOn: "It covers both the EXP tiles on a quest map and the in-battle rank-up skill, so spending one"
+            + " on somebody who is nearly ranked up no longer wastes what they had earned.",
+    },
     patches: ["rank_up_keep_progress.jaf", "quest_map_exp.jam", "skill_rank_up.jam"],
     default: true,
 };

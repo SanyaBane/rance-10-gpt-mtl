@@ -72,11 +72,19 @@ The folder's name is the feature's name. They are on by default, so the `.ain`
 that goes into a game folder — or into a release folder — is the one that gets
 played, and `--with=<name>` and `--without=<name>` decide it for one run. A
 release used to carry an `optional/<name>/Rance10.ain` apiece instead, from when
-installing a feature meant installing a different `.ain`; the one feature there
-is has a switch file of its own now, so building it in changes nothing until the
-player asks. Adding the next feature is a folder and nothing in
-`modules/Features.js`, `scripts/ain.js` or `scripts/release.js`: the first of
-those reads `features/` rather than holding a list of what is in it.
+installing a feature meant installing a different `.ain`; every feature has a
+switch file of its own now — `custom_mods\<name>_on` beside `Rance10.exe`, named
+in its `feature.js` and read by its `.jaf` — so building it in changes nothing
+until that file is there. A release folder ships those switches already thrown:
+one empty file apiece under `custom_mods/`, written by `modules/CustomMods.js`,
+so turning a feature off is deleting a file rather than working out which one to
+create. An install into a game folder deliberately gets none — those files are
+the player's, and a build that wrote them would turn a gameplay change on
+uninvited and put back every one they had deleted. Adding the next feature is a
+folder and nothing in `modules/Features.js`, `scripts/ain.js` or
+`scripts/release.js`: the first of those reads `features/` rather than holding a
+list of what is in it, and checks that the switch a `feature.js` names is one its
+own patches look up.
 
 A feature has to build without a translation, because that is what
 `--text-lang=jp` is: the game's own `.ain` with the features over it and no
