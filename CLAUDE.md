@@ -108,12 +108,13 @@ fresh plausible spelling is not on the list.
 So `createNameChecker` in the same module reads the table the other way round —
 it reports where the Japanese names somebody and the English does not spell them
 the canonical way — and both hand-written glossaries go through it as the build
-renders them. It does **not** run over `patches/system_cherry_picks.v1.04.ain.txt`,
-whose names have therefore never been held to the table. Its demon words have
-been swept since — 116 strings said Demon, 37 of them correctly, and the rest
-are written — but the sweep was by hand and the file is still unchecked at build
-time. Nor does it run over the corpus, where its raw output is 9435 complaints
-and stays unreadable until six classes of noise come off it.
+renders them. `patches/system_cherry_picks.v1.04.ain.txt` goes through it too
+now: `checkCherryPickNames` in `modules/CherryPicks.js` pairs each `s[N]` with
+the Japanese of that slot in the committed dump, and carries the 17 complaints
+the checker cannot decide so that the eighteenth prints alone. Four of the
+complaints that list used to hold turned out to be decidable the moment the
+tables were asked. It does **not** run over the corpus, where its raw output is
+9435 complaints and stays unreadable until six classes of noise come off it.
 `docs/name-checker-calibration.md` is which six, and the slices worth
 reading once they have. `docs/system-cherry-picks.md` says how to read a slot's
 Japanese, and why

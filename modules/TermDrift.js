@@ -26,7 +26,8 @@
  */
 import * as fs from "fs";
 import * as path from "path";
-import {AIN_TXT, EX_TXT} from "./AinFiles.js";
+import {EX_TXT} from "./AinFiles.js";
+import {CHERRY_PICKS, readSlotJapanese} from "./CherryPicks.js";
 import {ENEMY_INFO_GLOSSARY} from "./EnemyInfo.js";
 import {ENEMY_PARTY_GLOSSARY} from "./EnemyPartyNames.js";
 import {ROOT} from "./Env.js";
@@ -36,9 +37,6 @@ import {RACE_GLOSSARY} from "./RaceNames.js";
 import {SUMMARY_GLOSSARY, SUMMARY_TERMS} from "./SummaryLines.js";
 import {corpusDir} from "./TextLanguages.js";
 import {TROPHY_BONUS_GLOSSARY, TROPHY_GLOSSARY} from "./TrophyNames.js";
-
-/** The system text translated by hand, which no name or term check has ever run over. */
-export const CHERRY_PICKS = path.join(ROOT, "patches", "system_cherry_picks.v1.04.ain.txt");
 
 const KANJI = /[一-鿿々]/;
 const KATAKANA = /[゠-ヿｦ-ﾟ]/;
@@ -174,32 +172,6 @@ const readGlossary = (file) => fs.readFileSync(file, "utf-8").split(/\r?\n/)
     })
     .filter(({japanese, english}) => japanese && english);
 
-/**
- * The Japanese of every string slot, out of the dump game/ain/ already carries.
- *
- * docs/system-cherry-picks.md says to take this from a fresh alice ain dump -t,
- * on the grounds that the committed dump is messages only. It is not: the .json
- * is, and the .txt has all 15 770 slots commented out beside the messages, byte
- * for byte what a fresh dump writes. So nothing here needs alice-tools or
- * GAME_DIR to run.
- */
-export const readSlotJapanese = () => {
-    const bySlot = new Map();
-    const dump = fs.readFileSync(AIN_TXT, "utf-8");
-    for (const match of dump.matchAll(/^;s\[(\d+)\]\s*=\s*"((?:[^"\\\n]|\\.)*)"\r?$/gm)) {
-        const slot = +match[1];
-        const japanese = match[2].replace(/\\(.)/g, (_, character) =>
-            character === "n" ? "\n" : character === "t" ? "\t" : character === "r" ? "\r" : character);
-        const already = bySlot.get(slot);
-        if (!already) {
-            bySlot.set(slot, [japanese]);
-        } else if (!already.includes(japanese)) {
-            already.push(japanese);
-        }
-    }
-    return bySlot;
-};
-
 /** The game's own .ex tables with our English written over them. */
 const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
 
@@ -318,10 +290,12 @@ export const readExPairs = () => {
  * Japanese of the slot they overwrite, and the .ex tables paired with the game's
  * own dump of them.
  *
- * The cherry-picks matter here out of proportion to their size. They are the
- * one file createNameChecker has never run over at any build, they are appended
- * last so they beat the corpus, and both terms this was written to find --
- * 総統's "World Leader" and 大将軍's "Great Monster General" -- are in them.
+ * The cherry-picks matter here out of proportion to their size. They are
+ * appended last so they beat the corpus, and both terms this was written to
+ * find -- 総統's "World Leader" and 大将軍's "Great Monster General" -- are in
+ * them. They were also the one file no name check had ever run over, which is
+ * what checkCherryPickNames in modules/CherryPicks.js does at every build now;
+ * this asks the other question, the one no table can be the starting point for.
  */
 export const readDriftLines = (textLang) => {
     const lines = [];

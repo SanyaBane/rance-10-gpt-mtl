@@ -53,7 +53,7 @@ slot's Japanese.
 ;s[5106] = "魔人バークスハムの使徒"
 ```
 
-`readSlotJapanese` in `modules/TermDrift.js` reads it that way. A slot pushed
+`readSlotJapanese` in `modules/CherryPicks.js` reads it that way. A slot pushed
 from several places appears several times, which is
 how the shared-slot hazard in `CLAUDE.md` is checked: `s[5106]`, `s[8411]` and
 `s[8697]` are pushed from up to five scenes apiece, every one a `Ｔ肩書き`, so
@@ -61,16 +61,21 @@ they are display-only and safe to translate.
 
 ## The names in it
 
-`createNameChecker` does not run over this file at any build, so for years its
-names were never held to the table. Nothing stops you pointing it at them by
-hand: the file carries no Japanese, but every slot has one in the dump above, and
-pairing the two gives the checker exactly what it wants.
+`createNameChecker` did not run over this file at any build, so for years its
+names were never held to the table. Nothing stopped anybody pointing it at them
+by hand: the file carries no Japanese, but every slot has one in the dump above,
+and pairing the two gives the checker exactly what it wants.
 
 ```
 ;s[8186] = "レリコフもしてみる？"
 ```
 
-Done that way it reported **88 complaints**, of which 61
+`checkCherryPickNames` in `modules/CherryPicks.js` is that pairing, and it runs
+at every build of a translated text language — `scripts/regenerate_aai_txt.js`
+is what reads this file, so it is what asks. The next name to drift in here is a
+build warning rather than a session of reading.
+
+Done by hand the first time it reported **88 complaints**, of which 61
 were real and are written to the canon in `19d94fe9` and `aacf918f`. Two names
 were most of it — ザンス was "Zans" thirteen times against the table's Zance, and
 長田君 was "Nagata" nine times and "Osada-kun" twice, 長田 read as Osada. レリコフ
@@ -89,28 +94,48 @@ table's longest: カラー becomes "Kalar Race" because `s[7564]` already writes
 "Dragon Kalar Race", and 闘神 becomes Toushin because `s[10738]` and `s[10984]` do.
 The one place the short form won on purpose is `s[3211]`, which is
 `FriendPanel@Name::get` — all nine of its neighbours are bare given names, so it
-says "Lelikov" where the table says "Lelikov Helman", and the checker goes on
-complaining about it forever.
+says "Lelikov" where the table says "Lelikov Helman", and the checker would go on
+complaining about it forever, which is what the settled list below is for.
 
 The file has 1684 `s[]` lines, not the 1683 a regex reports: `s[174]` is written
 with two spaces before its `=`, and it says "Unknown".
 
-**The 21 complaints left are what the checker cannot decide**, and a rerun will
-show the same ones. Six are リア, which has two entries — "Queen Lia" and "Lia" —
-so whichever a line uses, the other complains. Nine are a name whose entry is the
-full form where this file writes the short one deliberately: 政宗 four times,
-トルストイ twice, チョチョマン, アギレダ, 源五郎, and the second クルックー entry.
-Four are role words rendered by sense — 闘将, 自由都市, 魔軍, フル — one is
-レリコフ at `s[3211]`, and one is かろ inside かろうじて, which `mentions()`
-cannot guard against because the word is hiragana rather than katakana.
+**The 17 complaints left are what the checker cannot decide**, and they are the
+`SETTLED` table in `modules/CherryPicks.js`, one line of reasoning apiece, so
+that the eighteenth prints on its own. They are four shapes:
 
-Five of the original 26 were decidable after all and went in `bcbb913`. Four were
+| How many | What it is |
+|---|---|
+| 5 | a Japanese name with two entries, where whichever a line uses the other objects — リア four times, and the second クルックー entry |
+| 10 | the entry holds the full name where this file writes the short one along with every neighbour — 政宗 ×4, トルストイ ×2, チョチョマン, アギレダ, フル, and レリコフ at `s[3211]` |
+| 1 | かろ inside かろうじて, which `mentions()` cannot guard because the word is hiragana rather than katakana |
+| 1 | `s[9187]`, where the English names nobody: スシヌはそのままでいい is "You're fine just the way you are" |
+
+One of the five is not a name choice at all. `s[14799]` does say "Queen Lia" —
+what stands between the two words is the ideographic space this block puts
+between a title and a name, and no plain `includes()` gets past it.
+
+The table also reports an entry that stops firing, the way `renderEnemyInfo`
+reports a glossary row the game no longer has: a list of accepted complaints
+nobody ever takes anything out of stops describing the file.
+
+Nine of the original 26 were decidable after all. Five went in `bcbb913`: four were
 大将軍, where this file wrote "Great Monster General" for 魔物大将軍 while eight
 other slots of the same block — `s[14974]` through `s[14982]` — wrote "Great
 General" for the same word; the fifth was 総統 at `s[10623]`, "World Leader"
 against 1044 corpus lines. `docs/terminology-drift.md` is what found them: a
 check that starts from the text rather than from the table can see that the file
 disagrees with itself.
+
+The other four went the day the check was written into the build, and three of
+them the same way — by reading this file a line further up. `s[14877]` wrote
+"Gengoro Shinoda" where the name table spells 源五郎 "Gengorou" and lists
+"Gengoro" as a misspelling; `s[10914]` wrote "Free City Front" beside
+`s[10912]`'s "Helman Front" and `s[10916]`'s "Leazas Front"; `s[15016]` wrote
+"Excavation General" for 闘将, which four tables spell Tousho; and `s[14915]`
+wrote "600,000 monsters invaded" two lines under "A Monster Army numbering
+900,000 attacked". **Read the tables before adding anything to `SETTLED`** —
+those four had been called undecidable here for as long as the list existed.
 
 One new one has arrived since, and it is deliberate. The `.ain` build's own
 enemy-party check now reports `魔女リクチェル ... which the game calls "Richelle

@@ -9,15 +9,13 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {AIN_JSON, AIN_V100_JSON} from "../modules/AinFiles.js";
+import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
 import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
 import {DEFAULT_TEXT_LANG, hasPatch, isTranslated, regeneratedTxt, textLangDir, textLangName, textLangPatch}
     from "../modules/TextLanguages.js";
-
-/** The system strings translated by hand, appended to the rendered dialogue. */
-const CHERRY_PICKS = path.join(ROOT, "patches", "system_cherry_picks.v1.04.ain.txt");
 
 /**
  * The v1.04 lines no corpus covers, for scripts/translate_chunks.js to feed on.
@@ -256,6 +254,22 @@ for (const complaint of enemyInfo.misnamed) {
 }
 for (const japanese of enemyInfo.stale) {
     console.warn(`  no enemy status line says ${JSON.stringify(japanese)} any more`);
+}
+
+/*
+ * The cherry-picks held to the name table. Here rather than in scripts/ain.js
+ * because this is what reads that file, and it runs only for a text language
+ * that has English in it -- which is the only kind where the question means
+ * anything. modules/CherryPicks.js carries the complaints it answers on
+ * purpose, so what prints is a new one.
+ */
+const cherryPicks = await checkCherryPickNames();
+console.log(`Checked ${cherryPicks.report}`);
+for (const complaint of cherryPicks.misnamed) {
+    console.warn(`  ${complaint}`);
+}
+for (const complaint of cherryPicks.stale) {
+    console.warn(`  ${complaint}`);
 }
 // The name repairs the table cannot decide, because two names of the same
 // length want the same word. Whichever is written first in the file takes it,
