@@ -113,7 +113,7 @@ table クエスト情報 = {
     {287,"最終決戦／飛行",10,"OP: Assault Mt. Bezdog","Infiltrate Bezdog Mountain, search for Kayblis","","　Strong　Party(Protag)　Elem(？　？)","　Reward　　　Medal",0,1,1,6,6,"ランス城",1},
     {201,"魔王を捜す",10,"ADV: Demon King Search","Travel with Crane seeking Demon King info","　　★　Difficulty ＵＰ","　Strong　Party(Other)　Elem(Dark　Ice)","　Reward　　　ヒラミレモン",0,1,7,5,2,"全方面",1},
     {202,"魔王を異界に帰す",10,"ADV: Return Demon King","Use interdimensional gate to Steel Horror","","　Strong　Party(Gods/Demons)　Elem(None)","　Reward　　　Meal Ticket",0,1,10,0,0,"ランス城",1},
-    {270,"闘将の発掘",10,"ADV: Collect Relics","Investigate Holy Demon Order relics with Patton","","　Strong　Party(Other)　Elem(Thunder)","　Reward　　　闘将軍団",2,1,7,3,3,"ヘルマン",1},
+    {270,"闘将の発掘",10,"ADV: Collect Relics","Investigate Holy Magic Sect relics with Patton","","　Strong　Party(Other)　Elem(Thunder)","　Reward　　　闘将軍団",2,1,7,3,3,"ヘルマン",1},
     {273,"タイムカプセル／ＪＰ",10,"ADV: Siberia","Find way to stop Demon King’s awakening...","","　Strong　Party(Helman)　Elem(Fire)","　Reward　　　Meal Ticket",2,1,3,1,1,"シベリア",0},
     {277,"坑道からモンスター／砦",10,"ADV: Fortress Trouble","Monster outbreak at Rance Fort","","　Strong　Party(Other)　Elem(Fire)","　Reward　　　Meal Ticket",0,1,7,1,1,"ランス城",0},
     {278,"ポピンズ連結／砦",10,"ADV: Poppins Alliance","Coordinate with underground demi-humans...","","　Strong　Party(Demihuman)　Elem(Fire　Ice)","　Reward　　　Meal Ticket",0,1,8,1,2,"ランス城",0},
