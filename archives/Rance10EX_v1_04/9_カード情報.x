@@ -11938,7 +11938,7 @@ tree カード情報 = {
 		コメント２ = "subjugation unit. She's not an Angel Knight,",
 		コメント３ = "so her combat ability is inferior.",
 		コメント４ = "She's not reincarnated from an earthly creature,",
-		コメント５ = "but an angel created and born in the Gods Realm.",
+		コメント５ = "but an angel created and born in Heaven.",
 		同種カード = (list) { "１１級神 ヌーク７７", "堕天使 ヌーク７７" },
 		関連カード = (list) { "Lv180 ダークランス" },
 	},

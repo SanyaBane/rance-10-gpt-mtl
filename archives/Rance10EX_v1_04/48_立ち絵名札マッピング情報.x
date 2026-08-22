@@ -840,7 +840,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "従者／", "Attendant" },
 	{ "新兵／", "New Recruit" },
 	{ "モレノル老人／", "Old Man Morenor" },
-	{ "天界／", "Heavenly Realm" },
+	{ "天界／", "Heaven" },
 	{ "ごろつき／", "Thug" },
 	{ "着ぐるみ／", "Mascot Costume" },
 	{ "チューリップ／", "Tulip" },
