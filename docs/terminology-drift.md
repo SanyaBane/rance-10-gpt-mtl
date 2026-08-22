@@ -391,7 +391,8 @@ than by any filter:
 | 魔物大将軍 with the 魔物 simply **dropped** | **127 of 195** | "Great General Joseph" where 61 records already named the rank |
 
 **All three are closed.** The second was a repair; the third was a decision and
-then a correction.
+then a correction. A fourth shape opened later out of the second's own excluder
+list, and the rule the excluder list is a blind spot below is what it was.
 
 The 256 were counted with every line whose Japanese also carries 魔王, 悪魔,
 魔人, 神魔 or 魔族 taken out, so the word was not somebody else's, and the
@@ -430,6 +431,99 @@ is a post rather than a rank: he is a Great Monster General who additionally
 held it. It is rendered `Monster Grand Marshal`, a short form of what the wiki
 calls Supreme Commander of the Monster Army, because the achievements screen
 pins its bonus flag to the eighteenth full-width character.
+
+### The excluder list of a closed sweep is its own blind spot
+
+`28c150c9`, `fe4c5e10`, `8dce33c2`, `a5a77076` and `2021dc53`. Fifteen records
+over five terms, and this report surfaced none of them and could not: three of
+the five stand on three lines apiece, far under the 25-line floor `least` puts
+on a term, and the counts above did not move by a single finding across all
+five commits. What they cost was one thread pulled from the paragraph directly
+above, on the 256.
+
+**Those 256 were counted with an excluder list, and the list is a claim about
+the corpus that nobody had counted.** Every line whose Japanese also carries
+魔王, 悪魔, 魔人, 神魔 or 魔族 was taken out so that the word being swept was not
+somebody else's. 38 of the excluded lines say demon in English; after the
+phrases that own the word come off, three are left, and two of them are the
+sweep's blind spot rather than somebody else's word:
+
+| Slot | Japanese | Was | Why the exclusion was wrong |
+|---|---|---|---|
+| `m[252944]` | 数十万の魔物を指揮するのは | hundreds of thousands of demons | the 魔人 in the same sentence is already Fiend |
+| `m[155819]` | その中心に来た魔物を封印する神魔法 | seals the demon | 神魔 is not a word standing there |
+
+`m[66737]` is the third and is left, because it is exactly what the list was
+written to protect: 　ほとんどの魔物より、悪魔のほうが強いですし、 reads "Demons are
+stronger than most monsters", 悪魔 the demons and 魔物 the monsters.
+
+**神魔 protects nothing in this corpus at all.** All 32 records carrying it are
+神魔法, divine magic, so the entry's whole effect was to hide `m[155819]`. An
+excluder can be counted the same way any other claim here can be, and it is
+worth doing before trusting the sweep it guarded.
+
+### A line that gets the name right once is invisible to every check that asks whether it is there
+
+Both `m[252944]` and `m[252355]` say the right thing in their first clause and
+the wrong thing in their second -- "Fiend Kesselring ... hundreds of thousands
+of demons", "the territory controlled by the Monster Army. Tens of thousands of
+demons". `normalizeNames` skips a line whose English already holds the
+canonical, by plain `String.Contains`; `createNameChecker` asks whether the
+canonical is absent and it is not; and the subtraction
+`docs/baked-name-repairs.md` describes starts from lines that say the wrong
+word, which these do -- but only after saying the right one. This is the shape
+that survives all three, and there is no filter for it that is not just reading.
+
+### 魔軍 was never swept, and the built file is what said so
+
+`a5a77076`. The last step of the ritual in `CLAUDE.md` -- read the built `.ain`
+back and check the removed spelling is gone -- left one "thousands of demons"
+standing after the three commits above had each reported clean. It was
+`m[253061]`, whose Japanese is 魔軍 rather than 魔物, so no sweep of that word
+was ever going to reach it and no sweep of 魔軍 had ever been run.
+
+1867 records carry 魔軍 and 1767 occurrences of Monster Army stand on them. 14
+say demon; ten survive the phrases that own the word; six are the term itself,
+at `m[28201]`, `m[39071]`, `m[45645]`, `m[74597]`, `m[252355]` and `m[258358]`.
+**The wording was not invented**: a counted 魔軍 is already "N Monster Army
+troops" on six records, one of which writes "Tens of thousands more Monster
+Army troops" -- the phrase `m[252355]` needed, sitting in the corpus the whole
+time.
+
+Three of the remaining four are somebody else's word and stay -- `m[23890]` and
+`m[23909]` are 剣鬼, "sword demon", and `m[66731]` is 悪魔回廊, the Demon
+Corridor -- and all three already render their own 魔軍 as Monster Army.
+
+**The fourth was a different word wearing the shape of this one.** `m[218154]`
+read "The 2nd Demon General War between humanity and the Monster Army" and its
+own Japanese, 「……既に、人類と魔軍が戦った, names no war at all: 第2次魔人戦争 is on
+`m[218155]`, one record down. So the name and the Japanese it came from sat on
+two different records, which is the wrap `docs/baked-name-repairs.md`
+describes, and no check that reads one record's Japanese can see it. Every
+other rendering of 魔人戦争 across 21 records is a Fiend War. Fixed in
+`2021dc53`.
+
+### Two terms whose answer was already written, three lines apiece
+
+`fe4c5e10` and `8dce33c2`, both found by reading the scene around `m[155819]`
+rather than by any report, and neither needing a decision.
+
+| Term | Settled by | Was |
+|---|---|---|
+| `魔封印結界` | `summary_terms.tsv:86`, `summary_glossary.tsv:2735`, skill 1761 of `11_スキルデータ.x` as the panel's short `Magic Seal` | Demon Sealing Barrier x2, magical sealing barrier x1 |
+| `神魔法` | `summary_terms.tsv:56`, `summary_glossary.tsv:1180`, 28 corpus records | holy magic x2, god magic x1 |
+
+**神魔法's was a collision rather than a spelling.** 聖魔法 is Holy Magic --
+`m[77010]` is 　聖魔法――聖魔教団の呪文だな, and `summary_terms.tsv:65` fixes the
+other end of it with 聖魔教団 as the Holy Magic Sect -- so two Japanese words
+were sharing one English phrase on a surface where both appear, the rule this
+file applies to 天界 against 神々の国 and to 魔素漢 against 魔法兵. All four 聖魔法
+lines are untouched; it was 神魔法 that had taken the words.
+
+**The wiki was asked for 魔封印結界 and had nothing to give.** Its Rance X card
+table carries the Japanese untranslated in the skill column, which is the first
+of the three cautions in `CLAUDE.md` about reading the mirror: look at what
+field the hits are standing in before counting them.
 
 ### 鬼 was written three ways, and the report found none of them
 
@@ -546,6 +640,14 @@ of the three was ever a gap in what it reads: the glossary was in it the whole
 time and the sweep did not open the file. A term is finished when
 `alice ain dump -t` and `alice ex dump` no longer carry the old spelling, not
 when the sweep says 0.
+
+**And what it catches need not be the term you were sweeping.** `a5a77076` is
+the strongest case this file has: three commits had each read the built `.ain`
+back and reported clean on their own phrases, and the fourth query -- "thousands
+of demons", which had just been repaired at `m[253650]` -- came back 1 rather
+than 0. The line it found was 魔軍, a word no sweep had ever been pointed at,
+and pulling it opened six records and then a seventh in a third word again. Ask
+the built file the phrase rather than the term, and read what else answers.
 
 **A lookalike is not a misspelling.** `Keibuwan` is ケイブワン, Kaybnyan's dog,
 and would have been swept into Kaybnyan by any filter working from spelling

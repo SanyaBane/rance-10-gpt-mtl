@@ -168,6 +168,21 @@ the entry dropped in the first place. Read alone, either could go the other way;
 read in the scene, Miki is already the Demon King and means to fix the Fiends,
 and Hornet is a Fiend offering to take the Demon King's post.
 
+**`魔軍` has a residue too, and it was found by reading the built file rather
+than by asking.** `a5a77076` is six records still calling the Monster Army
+demons, against 1767 occurrences of the canonical on the 1867 lines that carry
+the word. Nothing pointed a sweep at 魔軍 at all; what turned it up was checking
+that a phrase repaired in `28c150c9` was gone from `alice ain dump -t`, and
+finding one occurrence left on a line about a different Japanese word.
+
+**Both residues share a shape that no check here reaches, and it is worth
+naming.** `m[252944]` says "Fiend" and then calls a 魔物 a demon; `m[252355]`
+says "the Monster Army" and then calls the 魔軍 demons. The pass skips a line
+whose English holds the canonical, `createNameChecker` asks whether the
+canonical is absent and it is not, and the subtraction above starts from lines
+that say the wrong word — which these do, but only after saying the right one.
+A line that gets the name right once is invisible to all three.
+
 ## The pass only reads its own record's Japanese
 
 `normalizeNames` decides from the `originalJapaneseLine` of the record it is
