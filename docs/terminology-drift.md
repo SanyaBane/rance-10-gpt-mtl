@@ -162,8 +162,8 @@ the glossaries: **what was left there is 9, 4 and 25 in split and 7, 6 and 22 in
 odd**, and every one of those is on a list below of things left in on purpose.
 
 The `.ex` tables joined after that, and nothing has been worked through in them.
-A run today reports **32, 12 and 37 in split and 6, 8 and 24 in odd** -- the
-report grew by 43 split findings and 3 odd ones, some of which are the label
+A run today reports **32, 9 and 28 in split and 6, 11 and 24 in odd** -- the
+report grew by 31 split findings and 6 odd ones, some of which are the label
 columns described above and the rest of which nobody has read yet. The lists
 below are the residue of the three sources that *were* swept, so a finding
 touching a `.x` file is new rather than deliberate.
@@ -342,6 +342,88 @@ is a post rather than a rank: he is a Great Monster General who additionally
 held it. It is rendered `Monster Grand Marshal`, a short form of what the wiki
 calls Supreme Commander of the Monster Army, because the achievements screen
 pins its bonus flag to the eighteenth full-width character.
+
+### 鬼 was written three ways, and the report found none of them
+
+The largest single term this file has been used on, and the one it did **not**
+find. `9ca08caa`, `00b965cd` and `73804a7e`, 181 corpus records and seven rows
+of a table, and the counts in the report above did not move by a single finding
+before or after any of the three. What found it was reading one scene whole.
+
+290 corpus records use 鬼 for the creature rather than as a figure of speech,
+and they were split **ogre 125, demon 64, oni 51**, with 48 more reaching for a
+pronoun or losing the word to a wrap and two carried by the rank alone. A
+three-way split at that scale is invisible to `odd`, which wants a settled
+majority and a handful of disagreements, and it survives `split`, whose
+coverage cut reads 鬼 as a word the renderings barely cover -- 鬼 is inside
+鬼畜, 剣鬼, 悪鬼羅刹 and 百鬼夜行, and those carry "demon" perfectly correctly.
+
+**The scene is what showed it.** The 211/5 scenario notes call the same unit Oni
+from `m[255331]` to `m[255350]` and a demon from `m[255353]` on, and the flip is
+exactly the boundary between `255350_255410.json` and `255410_255470.json` --
+the middle band `docs/name-checker-calibration.md` describes, where the model
+held one word for the length of a chunk and another for the next. `m[255348]`
+and `m[255362]` carry the *same* Japanese, なんとか鬼部隊を撃退する, and read two
+different ways.
+
+**Nothing had to be decided, and the corpus's own majority was the wrong side.**
+`glossaries/summary_terms.tsv` has 鬼 as oni; `glossaries/enemy_party_glossary.tsv`
+has Oni, Immobile Oni, Nana-san Dake Oni and Great Oni Kougyoku;
+`glossaries/summary_glossary.tsv` writes oni on twenty rows including the very
+scenes the corpus was calling ogres -- 「ナナサンダケを鬼が食べていた」 is "An oni
+had been eating them" there and "those ogres eat it regularly" in the dialogue.
+The AliceSoft wiki settles it past argument: **Oni 506 times across the mirror
+against 44 Ogre**, and those 44 are almost entirely other games -- DALK, Pastel
+Chime, Beat Wars -- where an Ogre is a different creature. The species has a
+page of its own, and what the Rance-world "ogre" it does use amounts to is
+lowercase prose on two older pages about the same thing.
+
+**Three names came out of it that no table here had.** The wiki's page for 鬼王
+is titled Oni King, where `m[163426]` said "become the Ogre King". Lexington's
+page carries `Race = Oni (former)`, where the corpus wrote "ogre Fiend" 13 times
+against "oni Fiend" 6. And `m[220765]` had lost the name as well as the race,
+reading "a Great Demon... Oni Gyoku..." for 大鬼-ｵｵｵﾆ-コウギョク, where
+`enemy_party_glossary.tsv` had said Great Oni Kougyoku all along; the built
+`.ain` now spells it the same way in the dialogue, on the synopsis panel and on
+the plate over the enemy HP bar -- `m[221471]`, `m[259115]` and `s[16081]`.
+
+**And seven rows sat where no sweep of the corpus reaches.** 青鬼, 赤鬼, 毒鬼 and
+four A/B variants were Blue Ogre, Red Ogre and Poison Ogre in
+`archives/Rance10EX_v1_04/48_立ち絵名札マッピング情報.x`, which is handed to
+alice-tools as it stands. The wiki's own gallery of the species names them Blue
+Oni and Red Oni. They are not card keys -- `npm run regenerate-card-names`
+rewrites `41_識別名情報.x` byte for byte identical -- so nothing downstream moved,
+which is worth knowing rather than assuming: it is checked by running it.
+
+**Fifteen records keep the other word on purpose**, and every one of them is
+decided by reading the Japanese rather than by any filter:
+
+| What it is | Where |
+|---|---|
+| a human being called 鬼 -- 人間じゃねえ, in the 剣鬼 scenes | `m[23937]`, `m[23938]` |
+| 缶蹴り, where 鬼 is whoever is "it" | `m[86734]` |
+| abuse aimed at a person: "you brute" | `m[88034]`, `m[121108]`, `m[142573]`, `m[158586]` |
+| 鬼にも修羅にも and 復讐の鬼, both set phrases | `m[91915]`, `m[163615]` |
+| 鬼の方角, which is 鬼門, a compass direction | `m[237540]` |
+| 鬼 beside 悪魔, where the demon is the 悪魔 | `m[31401]`, `m[88021]` |
+| 殺人鬼 the murderer, beside 魔王 the Demon King | `m[166025]` |
+| 鬼神 a fierce deity, 悪鬼羅刹 a monster of a man | `m[24146]`, `m[137336]` |
+
+**No entry goes into `glossaries/mistranslated_names.json` for this, and that is
+the point rather than an omission.** A 鬼 → Oni entry listing "ogre" would fire
+on any line whose Japanese carries 鬼 and take the word off the two epithets at
+the bottom of that table at the next build -- exactly what 魔人's `"Demon"` did
+to 前魔王ガイ in 71 lines, which `docs/baked-name-repairs.md` records. 鬼 already
+has a home in `summary_terms.tsv`, and 鬼王 needs none: the game's dump has no
+鬼王 in it at all.
+
+Two things this pass cost that generalise. **A lookalike is one Japanese word
+away.** `m[157855]` reads "That Kayblis ogre" for ケイブリスのオジャラゴン, which
+is not 鬼, and has no 鬼 in its neighbours either -- a sweep working from the
+English alone eats it. And **a sweep that changes a word's opening sound has to
+fix the article**: "a demon" becomes "a Oni" under a blind swap, because Oni
+opens on a vowel where demon does not. Five records, and no check in this
+repository would ever have reported them.
 
 ## Four things the filter's own literal cost
 
