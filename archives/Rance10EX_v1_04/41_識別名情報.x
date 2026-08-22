@@ -4336,19 +4336,19 @@ tree 識別名情報 = {
 			英名 = "Lv45 Helman Knight",
 		},
 		"Lv30 魔物使い" = {
-			英名 = "Lv30 Monster Trainer",
+			英名 = "Lv30 Monster Tamer",
 		},
 		"Lv33 魔物使い" = {
-			英名 = "Lv33 Monster Trainer",
+			英名 = "Lv33 Monster Tamer",
 		},
 		"Lv35 魔物使い" = {
-			英名 = "Lv35 Monster Trainer",
+			英名 = "Lv35 Monster Tamer",
 		},
 		"Lv40 魔物使い" = {
-			英名 = "Lv40 Monster Trainer",
+			英名 = "Lv40 Monster Tamer",
 		},
 		"Lv45 魔物使い" = {
-			英名 = "Lv45 Monster Trainer",
+			英名 = "Lv45 Monster Tamer",
 		},
 		"Lv35 ゼス女魔法兵" = {
 			英名 = "Lv35 Zeth F. Wizard",
@@ -6693,19 +6693,19 @@ tree 識別名情報 = {
 			英名 = "Lv45 Helman Knight",
 		},
 		"Lv30 魔物使い" = {
-			英名 = "Lv30 Monster Trainer",
+			英名 = "Lv30 Monster Tamer",
 		},
 		"Lv33 魔物使い" = {
-			英名 = "Lv33 Monster Trainer",
+			英名 = "Lv33 Monster Tamer",
 		},
 		"Lv35 魔物使い" = {
-			英名 = "Lv35 Monster Trainer",
+			英名 = "Lv35 Monster Tamer",
 		},
 		"Lv40 魔物使い" = {
-			英名 = "Lv40 Monster Trainer",
+			英名 = "Lv40 Monster Tamer",
 		},
 		"Lv45 魔物使い" = {
-			英名 = "Lv45 Monster Trainer",
+			英名 = "Lv45 Monster Tamer",
 		},
 		"Lv35 ゼス女魔法兵" = {
 			英名 = "Lv35 Zeth Female Wizard Corps",
