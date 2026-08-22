@@ -53,8 +53,8 @@ const DIALOGUE_NAMES_PATH = path.join(ROOT, "glossaries", "mistranslated_names.j
 
 /**
  * The plate clips text centred and does not scale it, so an overlong label
- * loses its "Lv" prefix *and* its tail at once: "Lv36 Zeth Male Wizard Corps"
- * renders as "36 Zeth Male Wizard Cor". The widest Japanese label in the game
+ * loses its "Lv" prefix *and* its tail at once: "Lv36 Zeth Male Mage Soldier"
+ * renders as "36 Zeth Male Mage Sold". The widest Japanese label in the game
  * is 22 half-width units and the plate was drawn for that.
  */
 const MAX_WIDTH = 22;
@@ -109,8 +109,8 @@ const SHORTEN = [
     ["Blue Shrine Maiden Plaque", "Blue Miko Plaque"],
     ["Beastification Technique", "Beast Technique"],
     ["Mighty-armed Rabble", "Mighty Rabble"],
-    ["Female Wizard Corps", "F. Wizard"],
-    ["Male Wizard Corps", "M. Wizard"],
+    ["Female Mage Soldier", "F. Mage"],
+    ["Male Mage Soldier", "M. Mage"],
     ["Rance Castle Knight", "Castle Knight"],
     ["Next-Gen Monster of", "Next-Gen"],
     ["Legendary Arms:", "Arms:"],

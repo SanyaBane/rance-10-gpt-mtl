@@ -4351,34 +4351,34 @@ tree 識別名情報 = {
 			英名 = "Lv45 Monster Tamer",
 		},
 		"Lv35 ゼス女魔法兵" = {
-			英名 = "Lv35 Zeth F. Wizard",
+			英名 = "Lv35 Zeth F. Mage",
 		},
 		"Lv36 ゼス女魔法兵" = {
-			英名 = "Lv36 Zeth F. Wizard",
+			英名 = "Lv36 Zeth F. Mage",
 		},
 		"Lv37 ゼス女魔法兵" = {
-			英名 = "Lv37 Zeth F. Wizard",
+			英名 = "Lv37 Zeth F. Mage",
 		},
 		"Lv38 ゼス女魔法兵" = {
-			英名 = "Lv38 Zeth F. Wizard",
+			英名 = "Lv38 Zeth F. Mage",
 		},
 		"Lv39 ゼス女魔法兵" = {
-			英名 = "Lv39 Zeth F. Wizard",
+			英名 = "Lv39 Zeth F. Mage",
 		},
 		"Lv35 ゼス男魔法兵" = {
-			英名 = "Lv35 Zeth M. Wizard",
+			英名 = "Lv35 Zeth M. Mage",
 		},
 		"Lv36 ゼス男魔法兵" = {
-			英名 = "Lv36 Zeth M. Wizard",
+			英名 = "Lv36 Zeth M. Mage",
 		},
 		"Lv37 ゼス男魔法兵" = {
-			英名 = "Lv37 Zeth M. Wizard",
+			英名 = "Lv37 Zeth M. Mage",
 		},
 		"Lv38 ゼス男魔法兵" = {
-			英名 = "Lv38 Zeth M. Wizard",
+			英名 = "Lv38 Zeth M. Mage",
 		},
 		"Lv39 ゼス男魔法兵" = {
-			英名 = "Lv39 Zeth M. Wizard",
+			英名 = "Lv39 Zeth M. Mage",
 		},
 		"Lv30 男武士" = {
 			英名 = "Lv30 Male Samurai",
@@ -6708,34 +6708,34 @@ tree 識別名情報 = {
 			英名 = "Lv45 Monster Tamer",
 		},
 		"Lv35 ゼス女魔法兵" = {
-			英名 = "Lv35 Zeth Female Wizard Corps",
+			英名 = "Lv35 Zeth Female Mage Soldier",
 		},
 		"Lv36 ゼス女魔法兵" = {
-			英名 = "Lv36 Zeth Female Wizard Corps",
+			英名 = "Lv36 Zeth Female Mage Soldier",
 		},
 		"Lv37 ゼス女魔法兵" = {
-			英名 = "Lv37 Zeth Female Wizard Corps",
+			英名 = "Lv37 Zeth Female Mage Soldier",
 		},
 		"Lv38 ゼス女魔法兵" = {
-			英名 = "Lv38 Zeth Female Wizard Corps",
+			英名 = "Lv38 Zeth Female Mage Soldier",
 		},
 		"Lv39 ゼス女魔法兵" = {
-			英名 = "Lv39 Zeth Female Wizard Corps",
+			英名 = "Lv39 Zeth Female Mage Soldier",
 		},
 		"Lv35 ゼス男魔法兵" = {
-			英名 = "Lv35 Zeth Male Wizard Corps",
+			英名 = "Lv35 Zeth Male Mage Soldier",
 		},
 		"Lv36 ゼス男魔法兵" = {
-			英名 = "Lv36 Zeth Male Wizard Corps",
+			英名 = "Lv36 Zeth Male Mage Soldier",
 		},
 		"Lv37 ゼス男魔法兵" = {
-			英名 = "Lv37 Zeth Male Wizard Corps",
+			英名 = "Lv37 Zeth Male Mage Soldier",
 		},
 		"Lv38 ゼス男魔法兵" = {
-			英名 = "Lv38 Zeth Male Wizard Corps",
+			英名 = "Lv38 Zeth Male Mage Soldier",
 		},
 		"Lv39 ゼス男魔法兵" = {
-			英名 = "Lv39 Zeth Male Wizard Corps",
+			英名 = "Lv39 Zeth Male Mage Soldier",
 		},
 		"Lv30 男武士" = {
 			英名 = "Lv30 Male Samurai",
