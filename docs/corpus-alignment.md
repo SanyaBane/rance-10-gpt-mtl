@@ -16,24 +16,22 @@ describes. It is not committed, for the same reason the bake invariant is not.
 ## What it reports, and what each part is
 
 Ask it of the record the build actually applies -- the last one carrying a given
-number, since alice-tools keeps the last assignment it reads. **5054 line numbers
+number, since alice-tools keeps the last assignment it reads. **4995 line numbers
 are adrift**, and sorting them by shape is what makes the number readable:
 
 | Numbers | What it is | Does the player see it |
 |---|---|---|
-| 4837 | punctuation or a bracket folded -- a dropped `」`, `…………」` against `............」` | no |
-| 128 | the record's Japanese carries the game's line **and something after it** | no |
-| 76 | a typo in the record's Japanese -- `溜息` for `溜め息`, `言わず` for `言わさず` | no |
-| 41 | the record's Japanese stands one line ahead | no |
-| 2 | the record's Japanese is the start of the game's line and stops | no |
+| 4860 | punctuation or a bracket folded -- a dropped `」`, `…………」` against `............」` | no |
+| 90 | the game's own line with a stray `「` glued on the end | no |
+| 44 | a slip in retyping the Japanese -- `溜息` for `溜め息`, `言わず` for `言わさず` | no |
 | 1 | no line in the dump at all | no |
 
 **No sample of any of those has the English wrong**, and that is the thing to
-take from the table rather than the digits. The first shape needs no folding
-rule cleverer than stripping the brackets and the ellipsis; the last four
-together are 120 numbers, and what they cost is what the two repairs below cost
--- `normalizeNames` decides a name from `originalJapaneseLine`, so a record
-whose Japanese belongs to the neighbour is repaired by the wrong sentence.
+take from the table rather than the digits. Every one of them also reads its
+*own* sentence, which is the only property `normalizeNames` needs from this
+field -- so what the number counts now is transcription rather than damage. The
+shape that was damage is gone, and the two sections under this are what it was
+and what closing it took.
 
 Two kinds are gone. 158 numbers whose **English** was the next line's, fixed in
 `eec7f479`, and 75 whose **Japanese** was, fixed in `8fbf3793` -- the section
@@ -65,6 +63,39 @@ bracket, leading into the next line, and only its Japanese was repaired.
 This is the shape a repair of `originalJapaneseLine` is easiest on: the count
 moved by exactly 29, from 5083 to 5054, and every one of the 29 now equals the
 dump byte for byte.
+
+The 90 rows of the table above are the same artifact with a `「` instead of a
+comma, and they are left standing: the English of every one of them is clean, so
+there is no slot to repair and no name decision to move -- only the field's own
+tidiness, which nothing reads.
+
+### The record that was reading the neighbour's sentence
+
+`29685a5e`, and the class is closed. 123 records carried a *neighbouring* line's
+text in `originalJapaneseLine` while their English was right for their own
+number: 91 held exactly the line at some other number, 17 opened with another
+line and ran on, and 15 held their own line plus a whole sentence after it. Same
+defect as `8fbf3793`, and found this time by sorting the count rather than by
+reading a chunk.
+
+Two chunk files are most of it. `101820_101880.json` runs a line ahead from
+`m[101822]` to `m[101869]`, 50 records; `136110_136160.json` runs **seven**
+ahead over 22, and its English is correct on every one of them --
+`m[136119]` reads "「Anyway, more importantly, what kind of" against the game's
+「さて、それより女向けの while its own field says 「ガキ向けのエロ本って奴か？18禁でもない,
+which is two lines the game puts seven numbers later. The other seventeen files
+have between one and eighteen apiece.
+
+**The dump decides which records these are and what goes back in**, which is why
+this one is mechanical where the blank English below is not. And because no
+English is touched, the check is absolute rather than statistical: the rendered
+patch and the built `Rance10.ain` both came back **byte for byte the same file**.
+
+`m[300]` is the one worth naming. What sat in its Japanese was the model's own
+reply -- `」}]}]}The JSON object contains lines of script. Here's the
+translation. Please let me know if you'd like me to do anything else.}]},{` --
+and nothing had ever read it, because nothing reads that field except the name
+pass.
 
 ### The blank English, which is 1565 records and is not this
 

@@ -208,7 +208,7 @@ previous line's number. Six scenes were playing one line out of step that way,
 The check is one comparison — a record's `originalJapaneseLine` against the
 game's own dump for that number — and it is not the same question as whether the
 two copies of a duplicated number agree. They agreed on the same wrong text.
-5054 line numbers still fail it, and almost all of that is a dropped closing
+4995 line numbers still fail it, and almost all of that is a dropped closing
 `」` the game never sees. The kind that cost something was the record whose
 Japanese is the **next** line's, because `normalizeNames` reads it to decide
 whether the line names a character: 75 numbers were repaired by the wrong
