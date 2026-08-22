@@ -199,6 +199,44 @@ was noticed. ＜エール＞ is spelled by two entries in turn — a dozen spell
 fold into the full-width form, then that becomes `El` — so replaying one
 spelling stops the line halfway and leaves ＜エール＞ inside an English sentence.
 
+### The `break` is the second of those guards, written in code
+
+`normalizeNames` applies **one** misspelling per entry per line: the loop over
+`knownMistranslations` stops at the first that changes anything. Read cold it
+looks like an oversight, and it is the opposite — it is the By-Road bullet
+above, enforced.
+
+バイ・ロード lists both `"By"` and `"Road"`, and both sit inside its own canonical
+`"By Road"` with a space on the inner side, which is exactly where
+`replaceWords`' glued test does *not* refuse a match. Take the break out and the
+entry walks on down its own list after writing the canonical, finds `"Road"`
+inside the `"By Road"` it just wrote, and produces "By By Road".
+
+**What it costs is narrow and worth knowing.** A line carrying two *different*
+misspellings of one name keeps one of them, and which one is decided by the
+table rather than by the sentence — `readNameTable` sorts an entry's
+misspellings longest first, so the longest present wins wherever it stands:
+
+```
+セル → Sel    "Seru met Cel in the hall."  →  "Sel met Cel in the hall."
+              "Cel met Seru in the hall."  →  "Cel met Sel in the hall."
+```
+
+It fires on nothing today, because the corpus is baked and the pass reports 0.
+The case is reachable only through what the pass is still *for*: the chunks
+written next, hand edits, and the misspellings the table learns after today.
+
+**Two shapes in the table look like the same problem and are not**, and both are
+worth naming so the next audit of that file stops where this one did. 88 pairs
+have a shorter misspelling written before a longer one containing it — `"Cel"`
+before `"Cell"`, `"Pol"` before `"Pol Pot"` — and the longest-first sort in
+`readNameTable` handles every one; asked of the module, `"Pol Pot"` comes back
+`"Zedong"`. And 66 misspellings are listed twice or more inside their own entry
+— `リーザス` carries `"Lisath"` three times — which is dead weight rather than a
+defect, since after the sort the copies sit adjacent and the break stops at the
+first. **Audit that file against the module, not against the list**: reading the
+list alone reports 154 defects that are not there.
+
 ## What is still done at build time
 
 The corpus is not literally the patch. `replaceUnicode` in
