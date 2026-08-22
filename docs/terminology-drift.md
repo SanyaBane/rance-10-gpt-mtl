@@ -522,7 +522,7 @@ fix the article**: "a demon" becomes "a Oni" under a blind swap, because Oni
 opens on a vowel where demon does not. Five records, and no check in this
 repository would ever have reported them.
 
-## Four things the filter's own literal cost
+## Five things the filter's own literal cost
 
 **A phrase that contains the settled rendering is not the settled rendering.**
 The count that settled `大将軍` asked whether a line held "Great General", and
@@ -552,6 +552,19 @@ and would have been swept into Kaybnyan by any filter working from spelling
 distance alone; `ナイスガイブレード` is a nice guy and `ウォール・ガイ` is a wall,
 neither of them 前魔王ガイ. Read the Japanese of every record a sweep is about to
 touch.
+
+**One Japanese spelling is not the term.** A term measured by hand is measured
+by grepping *a* spelling of it, and the game writes its own words several ways.
+`ハニめし` is on three records, which read like the whole of it; the food is also
+`ハニメシ` on five, `ハニ飯` on one and `はに飯` on one, and the class is ten
+(`b489b1d3`). Nothing reported the gap -- the report never surfaced this term at
+all, at three lines or at ten, because it never met `least`'s floor.
+
+What found the other seven was "read the built file back" above, run after the
+sweep had already said 0. That step is the only one that sees the class rather
+than the query, which is worth knowing before it gets treated as a formality.
+Before grepping one spelling, ask the dump for the kana, the kanji and the mixed
+forms -- 飯/めし/メシ here -- and count what comes back.
 
 **The counts are not invariants**, for the same reason the calibration file's are
 not: they move with where each guard is drawn. What to trust is the shape.
