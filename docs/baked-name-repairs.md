@@ -86,6 +86,17 @@ entry for it could ever fire. Those 62 lines were fixed in the corpus instead. D
 not add a misspelling that holds its own canonical name; it will sit in the table
 doing nothing and reading like it works.
 
+The table had 26 of them over 17 entries, and they are gone. Ten were the
+canonical spelling itself — `"Rance"` under ランス, `"Hanny"` under ハニー,
+`"Satella"` under サテラ — and the rest were it with something on the end:
+`"Kaybliss"`, `"Babolata"`, `"Kalara"`, `"Rangii"`, four ways of writing
+`Arios` with extra esses. The check is one line, `spelling.includes(canonical)`,
+and the proof that they were dead is that dropping them rendered the patch
+**byte for byte the same file**. Two entries are left with no misspellings at
+all, which is a shape the table already had 40 of: `createNameChecker`, the
+nameplates and `scripts/generate_card_names.js` read an entry's canonical and
+never its misspellings, so an empty list costs nothing.
+
 **Undoing a rendering takes a corpus edit.** `Athena 2.0` holds `Athena`, so the
 173 lines that had to go back to the short form could not be left to the pass.
 

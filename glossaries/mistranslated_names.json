@@ -403,7 +403,6 @@
             "Yell",
             "Eru",
             "Alle",
-            "Elru",
             "Eile",
             "Aire",
             "Ale",
@@ -587,11 +586,9 @@
             "Kaivelis",
             "Kébris",
             "Kéibris",
-            "Kaybliss",
             "Kaeblis",
             "Keblis",
             "Kabeiris",
-            "Kayblis",
             "Kaibiris",
             "Cave-bris",
             "Kévriss",
@@ -821,7 +818,6 @@
             "Shir",
             "Syl",
             "Seiru",
-            "Siil",
             "Shiil",
             "Seeral",
             "Seer",
@@ -1121,11 +1117,7 @@
             "Kukku",
             "Krukuu",
             "Cruck",
-            "Crookcku",
-            "Crookchu",
             "Crucku",
-            "Crooku",
-            "Crookke",
             "Crulk",
             "Crullu"
         ]
@@ -1273,8 +1265,6 @@
         "shortNameEng": "Rance",
         "shortNameJpn": "ランス",
         "knownMistranslations": [
-            "Rance",
-            "Rancer",
             "Lanse",
             "Tobelance",
             "LANCE",
@@ -1411,7 +1401,6 @@
         "knownMistranslations": [
             "Olore",
             "Orure",
-            "Oruore",
             "Orlore",
             "Oluore"
         ]
@@ -1578,8 +1567,6 @@
             "Bavora",
             "Mecababora",
             "Bavola",
-            "Babolath",
-            "Babolata",
             "Babola"
         ]
     },
@@ -1653,7 +1640,6 @@
         "shortNameEng": "Satella",
         "shortNameJpn": "サテラ",
         "knownMistranslations": [
-            "Satella",
             "Satera",
             "Saterra",
             "Sateera",
@@ -1948,7 +1934,6 @@
             "Miracle Toh",
             "Miracle Tho",
             "Milky Toe",
-            "Miracle Toru",
             "Miracle Tou"
         ]
     },
@@ -1978,9 +1963,7 @@
     {
         "shortNameEng": "Menad",
         "shortNameJpn": "メナド",
-        "knownMistranslations": [
-            "Menad"
-        ]
+        "knownMistranslations": []
     },
     {
         "shortNameEng": "Merim",
@@ -2009,9 +1992,7 @@
     {
         "shortNameEng": "Modern",
         "shortNameJpn": "モダン",
-        "knownMistranslations": [
-            "Modern"
-        ]
+        "knownMistranslations": []
     },
     {
         "shortNameEng": "Princess Lia",
@@ -2041,7 +2022,6 @@
         "shortNameEng": "Rizna",
         "shortNameJpn": "リズナ",
         "knownMistranslations": [
-            "Rizna",
             "Lizna",
             "Lizzna",
             "Lisna",
@@ -2078,7 +2058,6 @@
         "shortNameEng": "RedEye",
         "shortNameJpn": "レッドアイ",
         "knownMistranslations": [
-            "RedEye",
             "Redeye",
             "Red Eye"
         ]
@@ -2241,7 +2220,6 @@
             "Klar",
             "Khara",
             "Khala",
-            "Kalara",
             "Kawara",
             "Karra",
             "Karla",
@@ -2278,7 +2256,6 @@
         "shortNameEng": "Hanny",
         "shortNameJpn": "ハニー",
         "knownMistranslations": [
-            "Hanny",
             "honey",
             "Honey"
         ]
@@ -2351,10 +2328,6 @@
         "shortNameEng": "Arios",
         "shortNameJpn": "アリオス",
         "knownMistranslations": [
-            "Arioss",
-            "Ariosss",
-            "Ariossss",
-            "Ariosssss",
             "Ares",
             "Arius"
         ]
@@ -3058,7 +3031,6 @@
         "shortNameEng": "Rangi",
         "shortNameJpn": "乱義",
         "knownMistranslations": [
-            "Rangii",
             "Rangyi",
             "Ranji",
             "Rangy"
