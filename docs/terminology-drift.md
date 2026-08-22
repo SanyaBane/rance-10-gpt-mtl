@@ -483,19 +483,28 @@ Oni and Red Oni. They are not card keys -- `npm run regenerate-card-names`
 rewrites `41_識別名情報.x` byte for byte identical -- so nothing downstream moved,
 which is worth knowing rather than assuming: it is checked by running it.
 
-**Fifteen records keep the other word on purpose**, and every one of them is
+**Fourteen records keep the other word on purpose**, and every one of them is
 decided by reading the Japanese rather than by any filter:
 
 | What it is | Where |
 |---|---|
 | a human being called 鬼 -- 人間じゃねえ, in the 剣鬼 scenes | `m[23937]`, `m[23938]` |
-| 缶蹴り, where 鬼 is whoever is "it" | `m[86734]` |
 | abuse aimed at a person: "you brute" | `m[88034]`, `m[121108]`, `m[142573]`, `m[158586]` |
 | 鬼にも修羅にも and 復讐の鬼, both set phrases | `m[91915]`, `m[163615]` |
 | 鬼の方角, which is 鬼門, a compass direction | `m[237540]` |
 | 鬼 beside 悪魔, where the demon is the 悪魔 | `m[31401]`, `m[88021]` |
 | 殺人鬼 the murderer, beside 魔王 the Demon King | `m[166025]` |
 | 鬼神 a fierce deity, 悪鬼羅刹 a monster of a man | `m[24146]`, `m[137336]` |
+
+**The fifteenth was not keeping the word, it was a different mistake wearing the
+same clothes** (`b40bfef7`). `m[86734]` is 「缶蹴りだ！　鬼はシィーーーール！」 and read
+"Kick the can! The demon is Siiiill!". 缶蹴り is kick-the-can and its 鬼 is
+whoever is **it** -- a role in a children's game, which is why neither Oni nor
+demon is the word and why the sweep left it standing: swapping one noun for
+another cannot fix a line that has to be re-said. It reads "Kick the can!
+Siiiill is it!" now, which is the English playground word for the same role.
+Nothing else in the corpus needed it: 鬼ごっこ is "tag" on all nine of its lines
+and かくれんぼ "hide and seek" on all three, and 缶蹴り occurs exactly once.
 
 **No entry goes into `glossaries/mistranslated_names.json` for this, and that is
 the point rather than an omission.** A 鬼 → Oni entry listing "ogre" would fire
