@@ -383,7 +383,7 @@ table スキルデータ = {
     { 2040,"Warg's Attack",1,4,"",0,100,1,50,0,0,0,0,"",0,0,"Magic (0.5x)" },
     { 2041,"Lassie's Attack",1,3,"",0,100,1,150,39,20,0,0,"",0,0,"Attack (1.5x)\r▼Stun 20%" },
     { 1644,"Paleloa's Continuous Atk",1,3,"",0,100,1,100,4,2,0,0,"",0,0,"Attack (1x)\r※2 attacks" },
-    { 1562,"Kengo's Continuous Atk",1,3,"",0,100,1,100,4,3,0,0,"",0,0,"Attack (1x)\r※3 attacks" },
+    { 1562,"Swordmaster's Continuous Atk",1,3,"",0,100,1,100,4,3,0,0,"",0,0,"Attack (1x)\r※3 attacks" },
     { 1596,"Hawzel's Flame Slash",1,3,"",0,100,6,1,32,80,0,0,"",0,0,"Attack (1x)\r▼Burn 80%\rAttribute = Fire" },
     { 1597,"Hawzel's Flame Cannon",1,4,"魔法／炎魔法攻撃",0,100,1,400,6,1,0,0,"",1,0,"Magic (4x)\rAttribute = Fire" },
     { 1594,"Seizel's Ice Magic",1,4,"",0,100,1,100,33,50,6,2,"",0,0,"Magic Attack (1x)\r▼Freeze 50%\rAttribute = Ice" },

@@ -400,7 +400,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Mouri Motonari | 毛利 元就 | Male | SR RX |
 | Mouri Teru | 毛利 てる | Female | SR RX |
 | Murala | ムララ | Male | RQ |
-| Mysteria Tou | ミステリア・トー | Female | RX |
+| Mysteria Tor | ミステリア・トー | Female | RX |
 | Nagata-kun | 長田君 | Male | RX |
 | Nagi su Ragarl | ナギ・ス・ラガール | Female | RIII RX |
 | Nanjou Ran | 南条 蘭 | Female | SR |
