@@ -274,7 +274,7 @@ Twenty-five remain in split and 22 in odd, and every one is a shape this file
 lists as noise: a possessive or honorific tail the merge could not fold
 (`Barres'`, `Zance'`, `Melfeis'`, `Poppins'`, `Pi-R'`), a plural beside its
 singular (`Squidman`/`Squidmen`), a neighbouring rank (`魔物大元帥`'s Monster
-Grand Marshal beside `魔物大将軍`'s Monster Great General), a bracketed label's
+Grand Marshal beside `魔物大将軍`'s Great Monster General), a bracketed label's
 opening word (`Defeating`, `Army's Great Counterattack`), a title or a form of
 address (`コルドバ`'s Blue General, `法王`'s Your Holiness), and the substrings of
 words already settled (`衛隊`, `魔物大`, `将軍`, `魔軍`, `魔人`, `都市`).
@@ -299,21 +299,49 @@ than by any filter:
 | Shape | Records | What it looks like |
 |---|---|---|
 | 魔物軍 rendered as a demon army | 8 of 24 | "the demon army's position", "Numerous demon troops" |
-| 魔物 rendered demon anywhere else | **253** | 魔物兵 "demon soldiers", 魔物隊 "demon unit", 魔物 "demons" |
-| 魔物大将軍 with the 魔物 simply **dropped** | **134 of 195** | "Great General Joseph" where 61 records say "Monster Great General Joseph" |
+| 魔物 rendered demon anywhere else | **256** | 魔物兵 "demon soldiers", 魔物隊 "demon unit", 魔物 "demons" |
+| 魔物大将軍 with the 魔物 simply **dropped** | **127 of 195** | "Great General Joseph" where 61 records already named the rank |
 
-The first is closed. The other two are not, and neither is a spelling sweep.
+**All three are closed.** The second was a repair; the third was a decision and
+then a correction.
 
-The 253 are counted with every line whose Japanese also carries 魔王, 悪魔, 魔人,
-神魔 or 魔族 taken out, so the word is not somebody else's; what is left still has
-to be read, because "demons" as a plural noun in prose is a different question
-from `魔物軍` as the name of an army.
+The 256 were counted with every line whose Japanese also carries 魔王, 悪魔,
+魔人, 神魔 or 魔族 taken out, so the word was not somebody else's, and the
+corpus decided it: 1947 records already said monster against them, and every
+table covering a 魔物 compound agrees — `race_name_glossary.tsv` has 魔物兵 as
+Monster Soldier, `summary_terms.tsv` has 魔物隊長 as monster captain. 魔物界 went
+to **Monster Realm**, which the corpus writes 232 times.
 
-The 134 are a decision rather than a repair. `大将軍` alone is settled as "Great
-General" and the cherry-picks write "Great General Joseph" for `大将軍ヨシフ` at
-`s[10915]`, so a corpus line rendering `魔物大将軍ヨシフ` the same way is not
-misspelling anything — it is treating one rank as two names for it. Settle
-whether the 魔物 is part of the rank before touching 134 records.
+Two of the 256 are left standing, and they are the reason a sweep of this word
+needs reading rather than counting: `m[140002]` says 魔物都市 in the Japanese and
+"the Demon King Castle" in the English, and `m[217304]` says 魔物 and "the Demon
+General Kayblis" — the clause moved across the line break and the English names
+somebody else. Both are reached by the rank that follows them. Two more are not
+魔物 at all: `魔素漢ども` reads "demon soldiers" in one record and `鬼部隊`, an
+oni squad, reads "demon unit" in five. Those are open, and are their own words.
+
+The 127 went the other way: **the 魔物 is part of the rank.** `魔物将軍` is
+already a Monster General in `summary_terms.tsv` and
+`enemy_party_glossary.tsv` has named the four over the enemy HP bar all along,
+so the corpus was the only thing dropping it. `大将軍` standing alone stays
+`Great General` — 86 records and `s[14832]`, Hubert of Helman, are human beings
+holding a human rank — and the distinction is the game's own.
+
+**Then the word order turned out to be wrong, which cost a second pass over the
+same 220 places.** The rank was written "Monster Great General", taken from
+`enemy_party_glossary.tsv`, which had it that way before any of this. The
+AliceSoft wiki's page for the rank carries `Japanese=魔物大将軍` and writes
+**Great Monster General** 92 times without varying it or ever lowercasing it,
+and `9_カード情報.x` had a `職業` column saying exactly that the whole time. One
+file in the repository was right and the sweep cited the one that was not.
+`glossaries/mistranslated_names.json` carries 魔物大将軍 now, so the question is
+settled where the other checks can see it.
+
+The same wiki page lists **Stroganoff** among the five, which is why 魔物大元帥
+is a post rather than a rank: he is a Great Monster General who additionally
+held it. It is rendered `Monster Grand Marshal`, a short form of what the wiki
+calls Supreme Commander of the Monster Army, because the achievements screen
+pins its bonus flag to the eighteenth full-width character.
 
 ## Four things the filter's own literal cost
 

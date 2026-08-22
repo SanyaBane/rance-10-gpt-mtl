@@ -127,6 +127,17 @@ against 1044 corpus lines. `docs/terminology-drift.md` is what found them: a
 check that starts from the text rather than from the table can see that the file
 disagrees with itself.
 
+**The 大将軍 half of that was decided the wrong way, and is reverted.** Seeing
+that a file disagrees with itself says nothing about which side is right, and
+the four slots were the ones that were: the AliceSoft wiki's page for the rank
+carries `Japanese=魔物大将軍` and writes **Great Monster General** 92 times
+without varying it. The eight that outvoted them had dropped the 魔物
+altogether. Counting heads inside one file is not a source for a name — the
+rule at the top of `CLAUDE.md` is that names come from the tables, and where no
+table has one, the wiki is the table. All twelve slots say Great Monster
+General now, and `glossaries/mistranslated_names.json` carries 魔物大将軍 so
+that the next disagreement has something to lose to.
+
 The other four went the day the check was written into the build, and three of
 them the same way — by reading this file a line further up. `s[14877]` wrote
 "Gengoro Shinoda" where the name table spells 源五郎 "Gengorou" and lists

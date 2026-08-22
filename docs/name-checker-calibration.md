@@ -320,11 +320,19 @@ in a table of names by accident. The table says `Supreme Leader`,
 `glossaries/summary_glossary.tsv` says `Supreme Leader`, and 1055 of the 1167
 corpus lines whose Japanese carries 総統 say `Supreme Leader` — while `s[10623]`
 of `patches/system_cherry_picks.v1.04.ain.txt` says `World Leader`, which is
-the only place in the repository that did. 大将軍 divided the same way:
+the only place in the repository that did. 大将軍 looked like the same shape:
 the table's `Great General`
 against the file's `Great Monster General` in four slots. Both showed up among the
-complaints the cherry-picks check reports and cannot decide, and both are gone
-now (`bcbb913`), which is five of the 26 — the check reports 21.
+complaints the cherry-picks check reports and cannot decide, and both were
+resolved in `bcbb913`, which is five of the 26 — the check reports 21.
+
+**They were not the same shape, and the 大将軍 four went the wrong way.** 総統
+had a majority *and* a table behind it; 大将軍 had only a majority. The four
+odd slots said `Great Monster General`, which is what the wiki's page for
+魔物大将軍 says, and the eight that outvoted them had dropped the 魔物. A
+minority inside one file is not evidence of an error — it is a tie the file
+cannot break, and the entry now in `glossaries/mistranslated_names.json` is
+what breaks it. The check reports 17.
 
 Every term *not* in that table used to get no report at all. `docs/terminology-drift.md`
 is the check that changed it: `scripts/find_term_drift.js` starts from the text

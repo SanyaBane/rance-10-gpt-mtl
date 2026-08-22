@@ -130,7 +130,28 @@ export const mentions = (japanese, word) => {
 export const createNameFinder = async () => {
     const table = (await readSharedNameTable()).filter(record => record.shortNameJpn.length >= 2);
 
-    return (japanese) => table.filter(record => mentions(japanese, record.shortNameJpn));
+    return (japanese) => {
+        const found = table.filter(record => mentions(japanese, record.shortNameJpn));
+        /*
+         * The longest name wins where one contains another, the way
+         * outermostTerms does it for the synopsis terms.
+         *
+         * 魔物大将軍 holds 大将軍, and their English shares no words at all: a
+         * "Great Monster General" carries no "Great General" for the plain
+         * substring test in createNameChecker to find. So the short entry
+         * complained about twelve cherry-picked slots whose English was right.
+         *
+         * Strictly longer rather than merely different, because the table
+         * carries alias pairs under one key -- リア is both "Lia" and "Queen
+         * Lia", クルックー both "Crook" and "Ms. Crook". Those contain each
+         * other in both directions, so a rule that only asked about containment
+         * would drop one of each arbitrarily and silence five slots that should
+         * still be reported.
+         */
+        return found.filter(record => !found.some(other =>
+            other.shortNameJpn.length > record.shortNameJpn.length
+            && other.shortNameJpn.includes(record.shortNameJpn)));
+    };
 };
 
 /**

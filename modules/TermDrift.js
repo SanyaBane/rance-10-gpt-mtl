@@ -296,6 +296,11 @@ export const readExPairs = () => {
  * them. They were also the one file no name check had ever run over, which is
  * what checkCherryPickNames in modules/CherryPicks.js does at every build now;
  * this asks the other question, the one no table can be the starting point for.
+ *
+ * Only one of those two was an error, which is the lesson. This report says a
+ * term is rendered two ways; it does not say which way is right, and 大将軍's
+ * minority spelling turned out to be the one the wiki uses -- see
+ * docs/terminology-drift.md. Finding the split is the whole of what it does.
  */
 export const readDriftLines = (textLang) => {
     const lines = [];
