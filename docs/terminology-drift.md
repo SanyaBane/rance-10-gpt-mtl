@@ -289,6 +289,32 @@ card plate, "the witch Richelle" on the synopsis panel. Two places did not fit:
 six corpus lines writing the whole four-word name in prose, and the plate over
 the enemy HP bar, at 852 pixels of the bar's 867.
 
+### What is left of 魔物, and it is not small
+
+`a202199` swept 魔物 out of Demon and Great **where it stood in front of a
+rank**, which is the shape that commit's own count could see. Two other shapes
+of the same word are open, and both were found by reading a chunk whole rather
+than by any filter:
+
+| Shape | Records | What it looks like |
+|---|---|---|
+| 魔物軍 rendered as a demon army | 8 of 24 | "the demon army's position", "Numerous demon troops" |
+| 魔物 rendered demon anywhere else | **253** | 魔物兵 "demon soldiers", 魔物隊 "demon unit", 魔物 "demons" |
+| 魔物大将軍 with the 魔物 simply **dropped** | **134 of 195** | "Great General Joseph" where 61 records say "Monster Great General Joseph" |
+
+The first is closed. The other two are not, and neither is a spelling sweep.
+
+The 253 are counted with every line whose Japanese also carries 魔王, 悪魔, 魔人,
+神魔 or 魔族 taken out, so the word is not somebody else's; what is left still has
+to be read, because "demons" as a plural noun in prose is a different question
+from `魔物軍` as the name of an army.
+
+The 134 are a decision rather than a repair. `大将軍` alone is settled as "Great
+General" and the cherry-picks write "Great General Joseph" for `大将軍ヨシフ` at
+`s[10915]`, so a corpus line rendering `魔物大将軍ヨシフ` the same way is not
+misspelling anything — it is treating one rank as two names for it. Settle
+whether the 魔物 is part of the rank before touching 134 records.
+
 ## Four things the filter's own literal cost
 
 **A phrase that contains the settled rendering is not the settled rendering.**

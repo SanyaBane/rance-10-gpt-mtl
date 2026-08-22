@@ -137,6 +137,22 @@ decided. The terms follow the dialogue rather than a fresh guess —
 `node scripts/lookup_term.js 中隊 大隊 群生` is how they were settled: a Company,
 a Battalion, a colony.
 
+**One of its complaints is deliberate and prints at every build.**
+
+```
+魔女リクチェル is 魔女リクチェル, which the game calls "Richelle von do Kosusu" -- "Witch Richelle"
+```
+
+The plate is deliberately shorter than the entry it is held to. The full name is
+what the standing portrait's plate and the card's `フルネーム` are for, and over
+the HP bar it measures 852 pixels of the bar's 867 — longer than any name the
+game itself puts there, the longest of which is 746. So `b0daa07a` shortened the
+glossary row to "Witch Richelle" and left the canonical alone, and the checker
+goes on objecting because both halves of that are right. It is the same trade
+`docs/system-cherry-picks.md` records for `s[3211]`, and
+`docs/name-checker-calibration.md` has how the name came to be split in the
+first place.
+
 `闘将` is where that stopped working. The dialogue called it a fighting general
 in 56 lines and a Fighting God in one, which was also its word for `闘神` — it
 could not hold the two apart, so following it would have put a Holy Corpse
