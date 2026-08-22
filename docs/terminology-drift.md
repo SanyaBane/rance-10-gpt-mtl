@@ -29,9 +29,63 @@ almost only on the lines carrying that substring -- "Supreme Leader" is on 972
 lines and 953 of them say 総統, which no dictionary had to state. Drift is a term
 with two such phrases.
 
-It reads the corpus, the cherry-picks and all eight glossaries -- 277 252 lines
--- and needs neither alice-tools nor `GAME_DIR`, because the cherry-picks'
-Japanese is in the committed dump.
+It reads the corpus, the cherry-picks, all eight glossaries and every `.x` table
+under `archives/Rance10EX_v1_04/` -- 288 557 lines -- and needs neither
+alice-tools nor `GAME_DIR`, because the Japanese of both the cherry-picks and
+the tables is in a committed dump.
+
+## The `.ex` tables, and the dump that makes them readable
+
+The tables under `archives/Rance10EX_v1_04/` were translated **in place**: a
+row's English sits where its Japanese sat, and the Japanese is gone. So for a
+long time they were the one body of translated text nothing here could read as a
+pair, and it cost two passes -- both sweeps of `docs/name-checker-calibration.md`
+ran to 0 over the corpus and the cherry-picks while the built `.ex` still said
+"Mysteria Tou" in a card's `フルネーム` and "Kengo" in skill 1562's name.
+
+`game/ex/Rance10EX.v1.04.ex.txt` is `alice ex dump` of the game's own
+`Rance10EX.ex`, committed for exactly this. Because the English was written over
+the Japanese rather than beside it, our copy of a table and the game's hold the
+same strings in the same order, and pairing them is walking both at once:
+**10 293 pairs**, plus 1012 read out of the plate table's own rows. 6.6 MB on
+disk, 643 KB packed, and 0.36 s on a run.
+
+Positional pairing is exactly as strong as that alignment, so `readExPairs` in
+`modules/TermDrift.js` refuses to guess. Two tables are named as deliberately
+reshaped -- `41_識別名情報.x`, which `scripts/generate_card_names.js` writes an
+`英名` into, and `48_立ち絵名札マッピング情報.x`, which carries a hand-added English
+column and is therefore read row by row instead. Any **other** table whose count
+stops matching is an error naming the file, because a row added without a fresh
+dump would silently pair every string after it with the wrong Japanese.
+
+| Table | Pairs | What they are |
+|---|---|---|
+| `9_カード情報.x` | 5145 | `フルネーム`, `職業`, `スキル` and the five `コメント` lines of every card |
+| `11_スキルデータ.x` | 1883 | every skill's name and description |
+| `5_クエストデータ.x` | 1880 | the `説明` of every quest node |
+| `48_立ち絵名札マッピング情報.x` | 1012 | the plate over a portrait, keyed by the portrait |
+| `6_クエスト情報.x` | 718 | quest names and the four `説明` columns |
+| `43_秘書データ.x` | 566 | what the secretary says |
+| `40_実績情報.x` | 72 | the achievement descriptions |
+| `45_秘書情報.x` | 26 | the profile panel |
+| `37_あらすじデータ.x` | 3 | three strings; the synopsis' English is in `glossaries/` |
+
+**This is the half no key can reach.** A card's node is keyed by `"Lv42 ランス"`
+and carries five `コメント` lines of prose; a skill is keyed by a number and
+carries no Japanese anywhere. Pairing a key with the fields under it -- the only
+thing possible without the dump -- gets the names and none of the prose, and
+skill 1562 is keyed by nothing at all.
+
+Two tables that look like they should be in the list are not: `3_マップデータ.x`
+and `39_障害物データ.x` carry **no** English, 0 of 12 884 and 0 of 27 830
+strings. What `grep` finds in them is identifiers outside the quotes.
+
+**And a table's own label column is a new kind of noise.** `6_クエスト情報.x`'s
+`説明１`--`４` are the lines the quest panel prints -- "Reward: Medal",
+"Strong Party / Elem: Fire Dark" -- so a column co-occurs with itself and
+reports `報酬`, `有利`, `所属` and `有利所属` as terms rendered several ways. They
+are one label with several values, the same shape as the trophy glossary's
+neighbouring rows.
 
 ## Not the question find_dropped_terms asks
 
@@ -103,9 +157,16 @@ reports.
 ## The first run
 
 17 untabled, 13 tabled and 57 named in split; 7, 6 and 21 in odd. All three
-buckets have been worked through since; **what is left is 9, 4 and 25 in split
-and 7, 6 and 22 in odd**, and every one of those is on a list below of things
-left in on purpose.
+buckets have been worked through since, over the corpus, the cherry-picks and
+the glossaries: **what was left there is 9, 4 and 25 in split and 7, 6 and 22 in
+odd**, and every one of those is on a list below of things left in on purpose.
+
+The `.ex` tables joined after that, and nothing has been worked through in them.
+A run today reports **32, 12 and 37 in split and 6, 8 and 24 in odd** -- the
+report grew by 43 split findings and 3 odd ones, some of which are the label
+columns described above and the rest of which nobody has read yet. The lists
+below are the residue of the three sources that *were* swept, so a finding
+touching a `.x` file is new rather than deliberate.
 
 ### tabled
 
@@ -247,9 +308,11 @@ makes the bucket readable and it is also its floor.
 the corpus and the cherry-picks and left the built patch still saying
 "Blood Memory: Kukurukuru" and "Mysteria Tou" --
 `glossaries/enemy_party_glossary.tsv`, `9_カード情報.x`'s `フルネーム` column and
-skill 1562 of `11_スキルデータ.x`, none of which the report reads. A term is
-finished when `alice ain dump -t` and `alice ex dump` no longer carry the old
-spelling, not when the sweep says 0.
+skill 1562 of `11_スキルデータ.x`. The report reads all three now, and only one
+of the three was ever a gap in what it reads: the glossary was in it the whole
+time and the sweep did not open the file. A term is finished when
+`alice ain dump -t` and `alice ex dump` no longer carry the old spelling, not
+when the sweep says 0.
 
 **A lookalike is not a misspelling.** `Keibuwan` is ケイブワン, Kaybnyan's dog,
 and would have been swept into Kaybnyan by any filter working from spelling

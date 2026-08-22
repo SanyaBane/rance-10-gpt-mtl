@@ -107,7 +107,7 @@ await run(async () => {
         console.log(`Nothing for ${onlyTerm ?? onlyBucket} in the "${textLang}" text language.`);
     }
     console.log(`\nRead over ${lines.length} lines of the "${textLang}" text language,`
-        + " the cherry-picks and the glossaries. modules/TermDrift.js says what the"
-        + " filtering takes off and why.");
+        + " the cherry-picks, the glossaries and the .ex tables. modules/TermDrift.js says"
+        + " what the filtering takes off and why.");
     return 0;
 });

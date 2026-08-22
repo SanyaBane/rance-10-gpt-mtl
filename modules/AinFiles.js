@@ -1,14 +1,15 @@
 /**
- * The game's own .ain and the dumps taken from it.
+ * The game's own files and the dumps taken from them.
  *
  * game/ain/ holds what nobody edits by hand: Rance10.v1.04.ain exactly as it
- * ships, and what alice-tools makes of it. game/extracted/ beside it holds the
- * two tables a build reads back out of that .ain and commits, which are equally
- * nobody's to edit -- modules/EnemyInfo.js and modules/RaceNames.js name those,
- * since each is read by one thing. Everything written rather than generated --
- * the cherry-picked system strings, the glossaries, the text languages -- is
- * under patches/, glossaries/ and text_languages/, however similar the name
- * looks.
+ * ships, and what alice-tools makes of it. game/ex/ holds the same for
+ * Rance10EX.ex, which is a dump and no original, because no build reads one.
+ * game/extracted/ beside them holds the tables a build reads back out of that
+ * .ain and commits, which are equally nobody's to edit -- modules/EnemyInfo.js
+ * and modules/RaceNames.js name those, since each is read by one thing.
+ * Everything written rather than generated -- the cherry-picked system strings,
+ * the glossaries, the text languages -- is under patches/, glossaries/ and
+ * text_languages/, however similar the name looks.
  *
  * Not to be confused with GAME_DIR, which modules/AliceTools.js expands {game}
  * to: that is the installed game a build writes into, this is the copy under
@@ -43,3 +44,19 @@ export const AIN_JSON = path.join(AIN_DIR, "Rance10.v1.04.ain.json");
  */
 export const AIN_V100_TXT = path.join(AIN_DIR, "Rance10.v1.00.ain.txt");
 export const AIN_V100_JSON = path.join(AIN_DIR, "Rance10.v1.00.ain.json");
+
+/**
+ * alice ex dump of the game's own Rance10EX.ex: the Japanese every table under
+ * archives/Rance10EX_v1_04/ was translated from.
+ *
+ * The archives hold the game's data with our English written over it, so the
+ * Japanese a row used to say is nowhere in this repository -- which is why two
+ * sweeps ran to zero over the corpus and the cherry-picks while the built .ex
+ * still carried the old spelling in a card's フルネーム and a skill's name.
+ * modules/TermDrift.js reads the two side by side.
+ *
+ * A dump and no original, unlike game/ain/. Nothing builds an .ex out of the
+ * game's own one -- scripts/ex.js builds it out of archives/ -- so committing
+ * the .ex itself would put a file here that nothing reads.
+ */
+export const EX_TXT = path.join(ROOT, "game", "ex", "Rance10EX.v1.04.ex.txt");

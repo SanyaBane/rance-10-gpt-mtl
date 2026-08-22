@@ -26,11 +26,11 @@
  */
 import * as fs from "fs";
 import * as path from "path";
-import {AIN_TXT} from "./AinFiles.js";
+import {AIN_TXT, EX_TXT} from "./AinFiles.js";
 import {ENEMY_INFO_GLOSSARY} from "./EnemyInfo.js";
 import {ENEMY_PARTY_GLOSSARY} from "./EnemyPartyNames.js";
 import {ROOT} from "./Env.js";
-import {CARD_GLOSSARY} from "./Nameplates.js";
+import {CARD_GLOSSARY, NAMEPLATES} from "./Nameplates.js";
 import {SHARED_NAMES} from "./NameNormalizer.js";
 import {RACE_GLOSSARY} from "./RaceNames.js";
 import {SUMMARY_GLOSSARY, SUMMARY_TERMS} from "./SummaryLines.js";
@@ -200,10 +200,123 @@ export const readSlotJapanese = () => {
     return bySlot;
 };
 
+/** The game's own .ex tables with our English written over them. */
+const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
+
+/** A quoted string, escapes and all, the way both an .x and an .ex dump write one. */
+const STRING = /"((?:[^"\\\n]|\\.)*)"/g;
+
+/** Enough Latin to be a rendering rather than a number, a filename or a label. */
+const ENGLISH = /[A-Za-z]{3}/;
+
+/** Kana or kanji, which is what the string being replaced looks like. */
+const JAPANESE = /[぀-ヿ一-鿿々ｦ-ﾟ]/;
+
+/**
+ * The two tables that deliberately do not line up with the game's own .ex, and
+ * why. Any other table that stops lining up is an error rather than an entry
+ * here: the pairing below is positional, so a row added or dropped without a
+ * fresh dump silently pairs every string after it with the wrong Japanese.
+ */
+const RESHAPED = new Map([
+    ["41_識別名情報.x", "scripts/generate_card_names.js writes an 英名 into every node of it"],
+    ["48_立ち絵名札マッピング情報.x", "an English column added by hand, which is why it is read by name below"],
+]);
+
+/** { "<識別名>／<pose>", "<english>" }: the one table whose pair is a row of itself. */
+const PLATE_ROW = /^\s*\{\s*"((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"/;
+
+/** Every quoted string of a text, in order, with the line it sits on. */
+const quotedStrings = (text) => {
+    const found = [];
+    let lineNumber = 0;
+    for (const line of text.split(/\r?\n/)) {
+        ++lineNumber;
+        for (const match of line.matchAll(STRING)) {
+            found.push({value: match[1], lineNumber});
+        }
+    }
+    return found;
+};
+
+/**
+ * Every English string of archives/Rance10EX_v1_04/ beside the Japanese it
+ * replaced.
+ *
+ * The tables were translated in place -- a row's English sits where its
+ * Japanese sat -- so the game's own dump and ours hold the same strings in the
+ * same order, and pairing them is walking both at once. All but two tables line
+ * up today, and the two that do not say so above.
+ *
+ * That is the half no key can reach. A card's node is keyed by "Lv42 ランス"
+ * and carries five コメント lines; a skill's name and description are keyed by a
+ * number and carry no Japanese at all. Reading the key instead pairs prose with
+ * a name, and skill 1562 -- which said "Kengo" for 剣豪 through two sweeps that
+ * both reported zero -- is keyed by nothing.
+ */
+export const readExPairs = () => {
+    const lines = [];
+
+    const game = new Map();
+    let declared = null;
+    let strings = [];
+    for (const line of fs.readFileSync(EX_TXT, "utf-8").split(/\r?\n/)) {
+        const opens = line.match(/^\w+ (\S+) = /);
+        if (opens) {
+            if (declared) {
+                game.set(declared, strings);
+            }
+            declared = opens[1];
+            strings = [];
+        }
+        for (const match of declared ? line.matchAll(STRING) : []) {
+            strings.push(match[1]);
+        }
+    }
+    if (declared) {
+        game.set(declared, strings);
+    }
+
+    for (const name of fs.readdirSync(EX_DIR).filter(file => file.endsWith(".x") && file !== "main.x").sort()) {
+        if (RESHAPED.has(name)) {
+            continue;
+        }
+        const text = fs.readFileSync(path.join(EX_DIR, name), "utf-8");
+        const ours = quotedStrings(text);
+        const theirs = game.get(text.match(/^\w+ (\S+) = /)?.[1]) ?? [];
+        if (ours.length !== theirs.length) {
+            throw new Error(`${name} has ${ours.length} strings where ${path.basename(EX_TXT)} has`
+                + ` ${theirs.length}, so pairing them by position would pair the wrong ones.`
+                + " Either the table gained a row, or the dump is of a different game version:"
+                + " re-dump the game's own Rance10EX.ex, or say in RESHAPED why this one is meant"
+                + " to differ.");
+        }
+        for (let at = 0; at < ours.length; ++at) {
+            if (ours[at].value !== theirs[at] && ENGLISH.test(ours[at].value) && JAPANESE.test(theirs[at])) {
+                lines.push({
+                    japanese: theirs[at], english: ours[at].value,
+                    source: name, where: `${name}:${ours[at].lineNumber}`,
+                });
+            }
+        }
+    }
+
+    const plates = fs.readFileSync(NAMEPLATES, "utf-8").split(/\r?\n/);
+    for (let at = 0; at < plates.length; ++at) {
+        const row = plates[at].match(PLATE_ROW);
+        if (row && ENGLISH.test(row[2])) {
+            const name = path.basename(NAMEPLATES);
+            lines.push({japanese: row[1], english: row[2], source: name, where: `${name}:${at + 1}`});
+        }
+    }
+    return lines;
+};
+
 /**
  * Every Japanese-and-English pair the patch is made of: the dialogue, the
- * hand-written glossaries, and the cherry-picked system strings paired with the
- * Japanese of the slot they overwrite.
+ * hand-written glossaries, the cherry-picked system strings paired with the
+ * Japanese of the slot they overwrite, and the .ex tables paired with the game's
+ * own dump of them.
  *
  * The cherry-picks matter here out of proportion to their size. They are the
  * one file createNameChecker has never run over at any build, they are appended
@@ -249,6 +362,8 @@ export const readDriftLines = (textLang) => {
             lines.push({japanese: row.japanese, english: row.english, source: name, where: `${name}:${row.number}`});
         }
     }
+
+    lines.push(...readExPairs());
     return lines;
 };
 
