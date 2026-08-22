@@ -187,7 +187,7 @@ the glossaries: **what was left there is 9, 4 and 25 in split and 7, 6 and 22 in
 odd**, and every one of those is on a list below of things left in on purpose.
 
 The `.ex` tables joined after that, and only part of what they brought has been
-read. A run today reports **17, 8 and 27 in split and 6, 11 and 24 in odd**.
+read. A run today reports **17, 7 and 27 in split and 6, 11 and 24 in odd**.
 Before the component cut above it reported 32, 9 and 28 in split, so 16 of what
 the tables brought was one label or one component read several ways. The lists
 below are the residue of the three sources that *were* swept, so a finding
@@ -215,11 +215,50 @@ sweep's own literal walked past in `fd60f026`.
 | `ベズドグ山` | `Mount Bezdog` | Bezudog |
 | `タンザモンザツリー` | `Tanzamonza Tree` | Tanzamont Tree |
 
-Three remain in that bucket on purpose: セキガハラ is not drift, `翔竜山`'s 30
-lines writing "Mt. Shoryu" are an abbreviation of the settled name rather than a
-disagreement with it, and ラグナロックアーク's "Royal Capital" is 王都 sitting next
-to it. 中島 was the fourth and is gone -- not swept but no longer reported, which
+**The bucket is wholly read now**, which no other one is. Seven findings remain
+in split and every one is a shape this file already names: セキガハラ is not
+drift, `翔竜山`'s 30 lines writing "Mt. Shoryu" are an abbreviation of the
+settled name, ラグナロックアーク's "Royal Capital" is 王都 sitting next to it,
+カスタム's "Four Witches" is 四魔女 sitting next to it the same way, 聖魔教団's
+"The Holy Magic" is a phrase holding the settled rendering, and 神魔法's
+"Throwing", "Blacksmith" and "Crafting" -- with 聖魔's "Crafting" -- are the
+*other* skills on the same card's `スキル` line, one column listing several
+values. 中島 was an eighth and is gone -- not swept but no longer reported, which
 is what the component cut is for.
+
+### 天界 was the last unread one, and the report showed two of its six renderings
+
+`46258fed`. 36 lines, and `split` named `Heaven` x15 against `Heavenly Realm`
+x4. Reading all 36 found four more: a lower-case `heaven` on two corpus lines,
+`heavenly town` and `celestial town` for 天界の町, and -- on one card of
+`9_カード情報.x` -- **the Gods Realm**, which is the wiki's own word.
+
+Nothing had to be decided. `glossaries/summary_terms.tsv:51` settles 天界 as
+Heaven, three `summary_glossary.tsv` rows and `enemy_party_glossary.tsv`'s
+天界の壁 agree, and so do thirteen corpus lines. Thirteen places did not: eleven
+corpus records, the plate row `{ "天界／", ... }` of
+`48_立ち絵名札マッピング情報.x`, and that card.
+
+**The wiki is not the table here, and its word is the one to refuse.** It has no
+page keyed to 天界 and writes "Heavenly Realm" zero times; what it calls the
+realm is `Gods Realm`, 24 times. Taking that would collide with 神々の国, which
+`summary_terms.tsv:52` already renders "the Land of the Gods" and which the game
+keeps as a separate place with a scene of its own, `５６５／神々の国`. 神界 is in
+the game's dump 0 times against 天界's 87. This is the check
+`docs/name-checker-calibration.md` asks for from the other side: a wiki page is
+evidence for the term it is *about*, and two Japanese words cannot share one
+English phrase on a surface where both appear.
+
+**Two of the eleven were the synopsis panel disagreeing with the dialogue over
+the same Japanese.** `summary_glossary.tsv:4036` renders `その頃、天界` "Meanwhile, in
+Heaven" where `m[256942]` said "the heavenly realm", and `:4045` renders
+`天界の町を探索` "Exploring the town in Heaven" where `m[256951]` said "the
+heavenly town" -- the shape 鬼 had, at two lines instead of 181.
+
+**Four rows keep the other word on purpose.** `11_スキルデータ.x:297`-`300` read
+`対天界 効果大` as "Strong vs angels": there 天界 is the enemy attribute a skill
+is strong against rather than the name of the place, and there is no 天界 among
+the races in `game/extracted/race_names.v1.04.tsv`.
 
 **Two of the repairs were worth more than a spelling.** リッチ is the Leazas city
 of Rich and four lines called it Lich, the undead -- one of them the war report
