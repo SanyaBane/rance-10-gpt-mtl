@@ -139,6 +139,35 @@ So the rule is not "no single words" but "count what the entry did before
 deciding", and a trace against the corpus as the translation produced it is
 how that count is taken.
 
+### Dropping an entry leaves a residue, and nothing reports it
+
+Each removal above was verified to change 0 lines the day it went, which says
+the corpus already read correctly *on the lines the entry was then repairing*.
+It says nothing about the lines the entry would have repaired **next** — and
+after the drop, no check in this repository looks at them at all.
+`createNameChecker` never runs over the corpus, and a lower-case `demon`
+satisfies it in any case.
+
+`090f776d` is that residue for `魔人`: 16 records still calling a Fiend a demon,
+against 2567 that spell it Fiend and a `summary_terms.tsv` row that has said
+Fiend all along. Two of them the entry could not have reached even while it
+existed — `m[252944]` already carries the word "Fiend" earlier in the line, and
+the pass skips a line whose English holds the canonical.
+
+**The way to find one is subtraction, not search.** Grepping the English for
+`demon` over the lines whose Japanese carries 魔人 gives 114, and 94 of them are
+the word doing its own job. Take every phrase that legitimately owns it off the
+English first — Demon King, Demon Sword, Demonic Blood Soul, Demon World, demon
+army, Return Demon, demonification, `demonic <noun>` — and 20 are left, of which
+16 are wrong and the four right ones are 悪魔 standing in the same sentence.
+That list is readable; the 114 is not.
+
+**And a line holding both words is decided by the scene.** `m[263608]` and
+`m[264492]` each put 魔王 and 魔人 in one sentence, which is the pair that got
+the entry dropped in the first place. Read alone, either could go the other way;
+read in the scene, Miki is already the Demon King and means to fix the Fiends,
+and Hornet is a Fiend offering to take the Demon King's post.
+
 ## The pass only reads its own record's Japanese
 
 `normalizeNames` decides from the `originalJapaneseLine` of the record it is
