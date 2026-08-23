@@ -31,6 +31,7 @@ import {gameTextWidth, trackingFor} from "./GameFont.js";
 import {createNameFinder, mentions} from "./NameNormalizer.js";
 import {CARD_GLOSSARY} from "./Nameplates.js";
 import {PLACE_GLOSSARY} from "./PlaceNames.js";
+import {SUBSTITUTIONS} from "./SceneAcceptance.js";
 import {CG_FLAG, ROUTE_FLAG} from "./SceneIndex.js";
 import {SUMMARY_TERMS} from "./SummaryLines.js";
 import {readGlossary} from "./TermDrift.js";
@@ -105,13 +106,24 @@ const glossaryFor = (scene, {names, tables}) => {
     const found = new Map();
     for (const line of japanese) {
         for (const record of names(line)) {
+            /*
+             * Not the tokens the game substitutes at runtime. The name table
+             * has an entry spelling ＜エール＞ as "El", which is what it is for
+             * -- and printing it here would put a line of advice saying to
+             * resolve the token directly under the rule saying to carry it
+             * through. A translator following the table would be right.
+             */
+            if (SUBSTITUTIONS.includes(record.shortNameJpn)) {
+                continue;
+            }
             found.set(record.shortNameJpn, record.shortNameEng);
         }
     }
     const others = [];
     for (const {title, rows} of tables) {
-        const hits = rows.filter(row =>
-            !found.has(row.japanese) && japanese.some(line => mentions(line, row.japanese)));
+        const hits = rows.filter(row => !found.has(row.japanese)
+            && !SUBSTITUTIONS.includes(row.japanese)
+            && japanese.some(line => mentions(line, row.japanese)));
         // Longest first, so a name that contains another is read before it.
         hits.sort((a, b) => b.japanese.length - a.japanese.length);
         if (hits.length) {

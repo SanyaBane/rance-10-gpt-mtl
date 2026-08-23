@@ -155,7 +155,7 @@ const LONGEST_LINE = LONGEST_DIALOGUE_LINE;
 const output = allLineRecords
     .flatMap(lr => {
         let text = normalizeNames(lr);
-        text = replaceUnicode(text);
+        text = replaceUnicode(text, SUBSTITUTIONS);
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }

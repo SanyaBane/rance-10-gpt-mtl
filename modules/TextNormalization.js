@@ -1,7 +1,40 @@
 import {createCanvas} from "canvas";
 
 
-export const replaceUnicode = text => {
+/**
+ * A substring replaceUnicode must not touch, quoted for a regular expression.
+ *
+ * None of the tokens has a metacharacter in it today. This is here so that the
+ * day one does, it does not quietly become a pattern.
+ */
+const quoted = (text) => text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+/**
+ * @param {string} text
+ * @param {string[]} [protect] substrings to carry through untransformed
+ */
+export const replaceUnicode = (text, protect = []) => {
+    if (protect.length) {
+        /*
+         * A token the game substitutes at runtime is a key, not prose, and
+         * every rule below is a rule about prose. ＜エール＞ has a ー in it,
+         * which the katakana rule turns into a tilde: the patch went out saying
+         * ＜エ~ル＞, the game would find no such key, and 1522 lines would show
+         * the mangled token where the player's name belongs.
+         *
+         * It costs en_grok nothing, whose English carries no token at all --
+         * it had resolved every one of them itself. It was found by reading the
+         * built .ain rather than the patch, which is the whole of why CLAUDE.md
+         * says to.
+         *
+         * A split rather than a replace-and-restore: a placeholder would be
+         * another string that has to survive the same rules.
+         */
+        const pattern = new RegExp(`(${protect.map(quoted).join("|")})`, "g");
+        return text.split(pattern)
+            .map((part, at) => (at % 2 ? part : replaceUnicode(part)))
+            .join("");
+    }
     return text.normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
         .replace(/’/g, "'")
