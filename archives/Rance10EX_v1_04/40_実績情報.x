@@ -137,7 +137,7 @@ tree 実績情報 = {
 		種類 = 10,
 		ボーナス = "",
 		値 = (list) { "達成／タイニリーチＥ" },
-		説明 = "You obtain the treasure Tiny Leech E. Bonus: Permanent increase to rare drop rate.",
+		説明 = "You obtain the treasure Tiny Leech E. Bonus: Permanent Rare Chance Up.",
 	},
 	"達成(クリア時)　マリアの可能性　　　●分岐発生" = {
 		種類 = 10,
