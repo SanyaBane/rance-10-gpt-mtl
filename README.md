@@ -1,111 +1,139 @@
-English translation installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
-__________
+# Rance 10 — English patch
+
+## How to install it
+
+You need Rance 10, version **1.04**. The patch is a few files you copy into game directory.
+
+1. **Download the patch.** From the [Releases page](https://github.com/SanyaBane/rance-10-gpt-mtl/releases),
+   take the newest file whose name starts with `rance10-en_grok`, and unzip it.
+2. **Find your game folder.** It is the folder with `Rance10.exe` in it. If you are not sure where
+   that is, right-click the game's shortcut and choose *Open file location*.
+3. **Make a backup (Recommended) .** Copy `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa` somewhere safe.
+4. **Copy the patch in.** Copy files from unzipped folder into the game folder — say yes
+   when Windows asks to replace the files already there.
+5. **Play.** The game is in English now.
+
+### If something goes wrong
+
+**Windows will not let you copy the files.** Your game is probably in `C:\Program Files`, which is
+write-protected. Either confirm the administrator prompt, or move the whole game folder somewhere
+like `D:\Games\Rance10` and play it from there.
+
+**You want the Japanese back.** Copy your backup of the three files over the game folder again.
+
+**Your saves.** Patch is save-compatible. Your saves keep working — with the patch or without it.
+
+**The other download.** The `rance10-jp-…` file on the releases page is the game's own Japanese with
+only the optional features added and no English anywhere.
+
+- If you came here for the English, take the`rance10-en_grok`.
+- If you came just for optional features and want to continue play on Japanese version, take `rance10-jp`.
+
+## The optional features
+
+The patch brings a folder called `custom_mods`, holding empty files with specific names. 
+Game just check for their existence. 
+Each one switches on an optional change to how the game plays.
+
+These features are designed to improve the gameplay, but at the same time make the game slightly easier 
+by reducing the number of routine actions that the player must perform to achieve better results.
+
+| Feature | What it changes | The file that switches it |
+|---|---|---|
+| [`enemy-panel`](features/enemy-panel/README.md) | the enemy status panel at the start of every round, not only after Analyze | `custom_mods\enemy_panel_on` |
+| [`reliable-cooking`](features/reliable-cooking/README.md) | Meal Preparation and Sweets Making always work, instead of failing a quarter of the time | `custom_mods\reliable_cooking_on` |
+| [`always-first-finisher`](features/always-first-finisher/README.md) | the +50 First Finisher treasure bonus on every battle, whoever lands the kill | `custom_mods\always_first_finisher_on` |
+| [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md) | a rank-up keeps the experience already accumulated toward it, instead of emptying the bar | `custom_mods\rank_up_keep_progress_on` |
+
+To turn one off, simply delete its file; to be left with the translation and nothing else, delete the whole
+`custom_mods` folder. Neither needs the game restarted.
+
+
+## About
+
+Repository is fork of [this repository](https://github.com/klesun/rance-10-gpt-mtl) by klesun, with Grok translation taken from [this repository](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by IdOnThAvEaUsE69.
+
+### Slightly modified introduction from original repository 
+
 God bless the soul of the author of this article:
 https://haniwa.technology/alice-tools/README-ain.html
 
 So, apparently, with [alice-tools](https://github.com/nunuhara/alice-tools) it's _very_ easy to edit the text in the game to translate it.
 
-And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to translate the game with rather fine quality. (What ships today is Grok's translation rather than ChatGPT's — the original one is still in git, under the `en_gpt-final` tag. See the text languages below.)
+And, as we all know, nowadays AI is a thing so it should be rather easy to translate the game with rather fine quality. (What ships today is Grok's translation rather than original repository's ChatGPT — the original one is still in git, under the `en_gpt-final` tag.)
 
-Youtube recordings of the walkthrough with this English patch:
-https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
-
-You can obtain the game copy here: (please, support the developer!)
+You can obtain the game copy here (please, support the developer!): 
 https://www.dlsite.com/pro/work/=/product_id/VJ011759.html
-
-## Examples
-
-Before:
-
-<img width="1112" alt="The dialogue window as the game ships it, Sill speaking in Japanese" src="docs/images/dialogue-before.jpg" />
-
-After:
-
-<img width="1112" alt="The same line with the patch installed, Sill speaking in English" src="docs/images/dialogue-after.jpg" />
-
-
-______________________________________
 
 ## Steps to Build
 
-1. Install [node.js](https://nodejs.org/en)
-2. Run `npm i` to install dependencies
-3. Copy `.env.example` to `.env` and put your own paths in it: `GAME_DIR` is the game folder the build writes into, `ALICE_EXE` is your [alice-tools](https://github.com/nunuhara/alice-tools) binary. `.env` is gitignored, so these stay yours
-4. Run `npm run regenerate-ain` to replace the `Rance10.ain` in the folder your `.env` calls `GAME_DIR` with the translated version (if the game sits under `C:\Program Files`, you will likely need to either open terminal as administrator for that or change the access of that folder to "Full Access" for "Everyone" group)
-5. Run `npm run regenerate-ex` to do same for the `Rance10EX.ex` file that translates skill descriptions, character descriptions, quests, and the synopsis screen
-6. Run `npm run regenerate-pack` to translate some UI elements, like settings menu (the archive it builds is already translated in the released patch, so this only matters if you edit `archives/Rance10Pact_v1_04`)
+### Setup
 
-Those three commands write straight into your game folder. To build into a folder instead, run all three at once:
+1. Install [node.js](https://nodejs.org/en) and run `npm i`.
+2. Copy `.env.example` to `.env` and put your own paths in it: `GAME_DIR` is the game folder a build
+   writes into, `ALICE_EXE` is your [alice-tools](https://github.com/nunuhara/alice-tools) binary.~~~~
 
-```
-npm run release
-```
+### The commands
 
-That builds into `build/release`, one folder per language:
+| Command | What it builds |
+|---|---|
+| `npm run regenerate-ain` | `Rance10.ain` — the dialogue, the system text and the `.jaf` patches |
+| `npm run regenerate-ex` | `Rance10EX.ex` — skill and character descriptions, the quests, the synopsis and achievement screens |
+| `npm run regenerate-pack` | `Rance10Pact.afa` — the interface, the settings menu among it. It ships translated in the released patch, so this one only matters if you edit `archives/Rance10Pact_v1_04` |
+| `npm run release` | all three at once, into `build/release` rather than into the game |
 
-- `rance10-en_grok-v<version>/` — the English patch: `Rance10.ain`, `Rance10EX.ex` and
-  `Rance10Pact.afa`.
-- `rance10-jp-v<version>/` — one `Rance10.ain`, the game's own Japanese with the optional features
-  over it and no English anywhere.
+The first three write straight into the folder your `.env` calls `GAME_DIR`. If the game sits under
+`C:\Program Files`, either run the terminal as administrator or give that folder "Full Access" for
+the "Everyone" group.
 
-Each folder is named for the download it becomes: zip it as it stands and it goes on the releases
-page as an asset of its own, so somebody takes the English or the Japanese and not both. The version
-in the name comes from `package.json` — `modules/TextLanguages.js` builds it. Note that
-`--text-lang` still takes the bare `en_grok`, never the folder name.
+The images (UI) are the one thing here with no command at all — see [The images](#the-images).
 
-Each folder is a complete install on its own. Copy what is inside one of them into your game folder,
-over the files already there, and that is the patch — there is nothing to assemble out of two
-places.
+### Where a build goes
 
-Two more things are in each folder. `custom_mods/` holds one empty file per optional feature, and
-those files are the switches, shipped already turned on — so the features work the moment you copy
-the folder in, and turning one off means deleting a file instead of working out which one to create.
-`README.md` says which language the folder is, which version of the patch it is, what each file
-holds and which file switches what, since a folder of identically named files cannot show any of
-that by itself. Both are generated: `modules/CustomMods.js` and `modules/ReleaseReadme.js`.
+`npm run release` writes one folder per text language — `rance10-en_grok-v<version>/` and
+`rance10-jp-v<version>/` — each named for the download it becomes: zip one as it stands and it goes
+on the releases page as an asset of its own. A folder is a complete install, and holds two generated
+things besides the game files: `custom_mods/`, one empty switch file per optional feature with every
+one already on, and a `README.md` saying which language and which patch version it is and what each
+file does.
 
-To build just one of the folders, use `node scripts/release.js --text-lang=en_grok`. The npm
-spelling of that flag is unreliable — PowerShell quietly turns it back into the default.
-
-The images are not in there. They have no build command at all; see the image archives below.
-
-Where a build goes is two flags, and which text it carries is a third — all of them on `release`, and on any one of the three commands above:
+Three flags decide where a build goes and which text it carries, and all three work on any of the
+four commands above:
 
 ```
-node scripts/release.js                            # what npm run release runs: every language into build/release
-node scripts/release.js --text-lang=en_grok        # just the English
-node scripts/release.js --text-lang=jp             # just the Japanese: one Rance10.ain, no English in it
-node scripts/release.js --game                     # into your game folder, the language .env names
-node scripts/release.js --game --text-lang=jp      # into your game folder, and no translation at all
-node scripts/release.js -o build/grok-test         # into a folder of your own
-node scripts/release.js --out="D:/my patches/v3"   # --out is -o spelled out; any disk will do
+node scripts/release.js -o build/grok-test         # into a folder of your own; -o is --out for short
+node scripts/release.js --game                     # into GAME_DIR (which declared inside .env file)
+node scripts/release.js --text-lang=jp             # one language instead of all of them
 
-node scripts/ain.js -o build/grok-test             # just Rance10.ain
-node scripts/ain.js --text-lang=jp                 # just Rance10.ain, the Japanese, into your game folder
+node scripts/ain.js --out="D:/my patches/v3"       # any of the builds, any disk
 ```
 
-Quote a path that has a space in it, the way the last line does. Without the quotes the build is handed `D:/my`, and it writes there and says nothing. `--out="D:/my patches/v3"` and `"--out=D:/my patches/v3"` both work, in PowerShell and in bash alike.
+- A path like `build/grok-test` counts from this repository's folder, not from the one you are
+  standing in, and it is created if it is not there yet. `OUT_DIR` in your shell says the same for
+  every build you run in it, and `--game` overrules it for the one run.
+- Quote a path that has a space in it. Without the quotes the build is handed `D:/my`, and it writes
+  there and says nothing. `--out="D:/my patches/v3"` and `"--out=D:/my patches/v3"` both work, in
+  PowerShell and in bash alike.
+- Pass these to `node scripts/...` rather than through `npm run release -- --out=...`: PowerShell
+  eats the bare `--` and quietly builds the default instead.
 
-`--game` is the folder your `.env` calls `GAME_DIR`, so the path to your game is written down once and never typed again. A path like `build/grok-test` counts from this repository's folder, not from the folder you are standing in, and it is created if it is not there yet. Setting `OUT_DIR` in your shell does the same thing for every build you run in it, and `--game` overrules it for the one run.
+### Optional features
 
-Use `node scripts/...` for this rather than `npm run release -- --out=...`: in PowerShell the bare `--` disappears and you quietly get `build/release` instead.
+Each feature is one folder under `features/`, and its README there says what it does, how it is
+built and what it cost.
 
-The game can be built with more than one text, and there are two to choose from.
+To build without one of them:
 
-`en_grok` is the English one, and the default: the whole script put through Grok in
-[the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork). `npm run regenerate-ain`
-builds it, and `TEXT_LANG` in `.env` changes which one you get without passing a flag.
+```
+node scripts/ain.js --without=enemy-panel
+```
 
-`jp` is no translation at all — the game's own Japanese with the `features/` patches over it and no
-English anywhere. Build it with `node scripts/ain.js --text-lang=jp`. It is for playing or testing a
-change to how the game behaves without installing a translation along with it. (Use the `node`
-spelling: `npm run regenerate-ain -- --text-lang=jp` works in cmd.exe and bash, but PowerShell eats
-the bare `--` and quietly builds the default instead.)
+### Text languages
 
-There used to be a third, `en_gpt`, the translation this repository shipped with at the beginning.
-It was removed once nobody was building it, and it is still in git under the `en_gpt-final` tag.
-[docs/text-languages.md](docs/text-languages.md) has what a text language is made of, how to add
-one, and how to read a line back out of that removed one.
+`en_grok` is the English one and the default. `jp` is no translation at all — the game's own
+Japanese with the `features/` patches over it, for playing or testing a change to how the game
+behaves without installing a translation along with it. `TEXT_LANG` in `.env` sets the one you build
+most, and `--text-lang` overrules it for a run.
 
 ## What the patch translates
 
@@ -115,7 +143,7 @@ Everything below was harder. In each of these the Japanese is not only text — 
 your save file stores progress under, or a word the game's own code compares against, or a picture
 rather than a string. Replace it and something breaks: ranks read back as zero, cards turn into
 black rectangles, an image the game asks for is not there. So each of these needed a way around,
-and each section says which one.
+and each section says which one.~~~~
 
 ### The images
 
@@ -239,34 +267,6 @@ of a read — so the month could not be turned into `Dec` inside an override.
 `npm run regenerate-ain` applies both, and nothing else is needed.
 See [docs/lp-date.md](docs/lp-date.md).
 
-## Optional features
-
-These four change how the game *plays*, not what it says, so you can take them or leave them.
-
-There are two switches, and a feature only works when both are on. The first is the build:
-`npm run regenerate-ain` puts all four features into `Rance10.ain`. The second is a file next to
-`Rance10.exe`, which the game looks for while the feature is firing: create the file and the feature
-works, delete it and the game behaves exactly as it always has. Neither switch needs the game
-restarted.
-
-A release folder comes with those files already made, so its features work as soon as you copy the
-folder in. Installing straight into your game folder makes none of them — those files are the
-player's to create.
-
-| Feature | What it changes | The file that switches it |
-|---|---|---|
-| [`enemy-panel`](features/enemy-panel/README.md) | the enemy status panel at the start of every round, not only after Analyze | `custom_mods\enemy_panel_on` |
-| [`reliable-cooking`](features/reliable-cooking/README.md) | Meal Preparation and Sweets Making always work, instead of failing a quarter of the time | `custom_mods\reliable_cooking_on` |
-| [`always-first-finisher`](features/always-first-finisher/README.md) | the +50 First Finisher treasure bonus on every battle, whoever lands the kill | `custom_mods\always_first_finisher_on` |
-| [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md) | a rank-up keeps the experience already accumulated toward it, instead of emptying the bar | `custom_mods\rank_up_keep_progress_on` |
-
-Each feature is one folder under `features/`, and its README there says what it does, how it is
-built and what it cost. To build without one of them:
-
-```
-node scripts/ain.js --without=enemy-panel
-```
-
 ## The rest of `docs/`
 
 Every section above links its own write-up. These are the remaining ones, about things the patch
@@ -279,3 +279,13 @@ does *not* change — questions that were looked into and left alone, and one po
 - [docs/shuriken-target-choice.md](docs/shuriken-target-choice.md) — whether the player could pick which of the enemy's queued actions a shuriken tries to cancel, instead of the game picking at random. The icons in that row are already clickable objects that know their own index, so the cheap version is three files and no new UI; the version the question literally asks for needs a scene class the game has nothing to lend. An investigation and a low-priority todo, not a plan.
 - [docs/number-format.md](docs/number-format.md) — why the war panels count in myriads, `総兵力 26万0000人` for 260,000 troops, and what it would take to make them count in thousands. The code half is a `.jam` of substituted constants; what stops it is that there is no comma anywhere in `Rance10CG2.afa` and the digit sheets are ten cells wide, so a Western separator is a picture somebody has to draw. It also records what the two alice-tools builds will and will not compile against a class like this, which is the part worth having whether or not the format ever changes.
 - [docs/corpus-alignment.md](docs/corpus-alignment.md) — the one of these that is about the translation rather than the game: whether a corpus record's Japanese is really the game's line for the number it carries. Thousands of them are not, and almost all of that is a dropped closing bracket that nobody ever sees — but 158 lines across six scenes were showing the *next* line's English, and 386 records carried the *next* line's Japanese, which is the field the name repairs read. Both are what comes of measuring a duplicated line number against its other copy instead of against the game's own dump.
+
+## Examples
+
+Before:
+
+<img width="1112" alt="The dialogue window as the game ships it, Sill speaking in Japanese" src="docs/images/dialogue-before.jpg" />
+
+After:
+
+<img width="1112" alt="The same line with the patch installed, Sill speaking in English" src="docs/images/dialogue-after.jpg" />
