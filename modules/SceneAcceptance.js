@@ -25,7 +25,9 @@
  * The file format itself is modules/SceneFile.js. This module only judges.
  */
 import {PLAYERS_CHOICE} from "./CharacterGenders.js";
+import {gameTextWidth, trackingFor} from "./GameFont.js";
 import {unescapeCell} from "./SceneFile.js";
+import {LONGEST_DIALOGUE_LINE, wrapAt} from "./TextNormalization.js";
 
 /** "N<tab>english", or the four-column form when a translator echoes the input. */
 const ROW = /^(\d+)\t(.*)$/;
@@ -86,6 +88,44 @@ const PUNCTUATION = /[「」（）｛｝【】、。！？…‥・゛゜\s]/g;
  * are all differences in the body of the line, and those are the ones a
  * translation has to keep.
  */
+/**
+ * Rows the message window draws at once.
+ *
+ * The layout says so: MessageWindow01.pactex.x, which every ADV command but the
+ * three ●…Ｅ ones opens, carries a three-line placeholder, and 99.25% of the
+ * game's own speeches are three m[] rows or fewer. docs/message-window.md has
+ * the rest, including why this is the number the window states and its width is
+ * not.
+ */
+const WINDOW_ROWS = 3;
+
+/**
+ * How wide one of those rows is, as a string rather than a number, the way
+ * modules/SummaryLines.js compares against its panel: twenty-four full-width
+ * characters.
+ *
+ * Not stated anywhere as a number. What states it is the geometry --
+ * MessageWindow01 starts its text at x=470 and puts the key-wait mark at
+ * x=1440 -- read at the scale the event window fixes: MessageWindow02's
+ * placeholder is exactly 31 full-width characters, its text starts at x=337 and
+ * its mark sits at x=1580, which makes a full-width character 40.1 px and this
+ * window (1440-470)/40.1 = 24.2 of them. The backlog checks the same arithmetic
+ * from a third place and lands within one percent. docs/message-window.md has
+ * it in full.
+ *
+ * The game's own Japanese agrees: 96.1% of the lines this window draws are
+ * inside 24, against 17.6% of the current English draft being outside it.
+ *
+ * The tracking has to be the window's own. modules/GameFont.js defaults to the
+ * synopsis panel's 字間隔 4 at font 48; MessageWindow01 says 文字間隔 -2 at font
+ * 57, which is negative, and using the default would over-measure every line by
+ * an eighth of a character.
+ */
+const ORDINARY_WINDOW = "１２３４５６７８９０１２３４５６７８９０１２３４";
+
+/** MessageWindow01: フォントサイズ 57, 文字間隔 -2. */
+const DIALOGUE_TRACKING = trackingFor(-2, 57);
+
 /**
  * An English word that says whether somebody is a man or a woman.
  *
@@ -198,6 +238,81 @@ export const acceptTranslation = (scene, returned) => {
                 + " the draft's length -- a note to the reader rather than a translation?");
         }
     }
+
+    /*
+     * A row wider than the window draws.
+     *
+     * A warning rather than a refusal for two reasons. The build's own wrap
+     * budget is about 31 full-width characters -- it was fitted in Meiryo,
+     * which is not the game's font -- so 17.6% of the existing draft is over
+     * this and refusing would refuse the house style rather than a mistake.
+     * And the 6.7% of lines drawn by the ●…Ｅ commands get a wider window, 31
+     * rather than 24, which the scene file does not say; those get a warning
+     * they do not deserve.
+     *
+     * What it is for is the new translation, which can be written to the real
+     * window from the first scene instead of to a budget nobody measured.
+     */
+    for (const row of scene.rows) {
+        const said = english.get(row.lineNumber);
+        if (said && gameTextWidth(said, DIALOGUE_TRACKING)
+                > gameTextWidth(ORDINARY_WINDOW, DIALOGUE_TRACKING)) {
+            warnings.push(`line ${row.lineNumber} is wider than the message window,`
+                + ` which draws ${ORDINARY_WINDOW.length} full-width characters:`
+                + ` ${JSON.stringify(said.slice(0, 60))}`);
+        }
+    }
+
+    /*
+     * A speech that will not fit the window it is drawn in.
+     *
+     * The game hands the message window one line per m[] row and draws three at
+     * a time. Nothing wraps at runtime, so a row too wide for the window is a
+     * row the build has to break in two -- and the speech then wants four lines
+     * where the game's own Japanese wanted three.
+     *
+     * The budget is the greater of the window's rows and the rows the speech
+     * has, because the Japanese line count is by definition acceptable: the
+     * game shipped it. 1241 of the game's own speeches run past three rows and
+     * those are its business, not a translation's.
+     *
+     * A refusal rather than a warning, because it is always fixable without
+     * touching a line number. The rows of one speech may hold the English in
+     * any arrangement -- nothing reads a row on its own; the backlog replays
+     * the same rows, and the game has no voice at all -- so a speech that needs
+     * four lines can be written as three that each fit. What the existing draft
+     * did instead was pour two Japanese rows into one English row and leave the
+     * next empty, which the build then wraps back into two: m[43] is that in
+     * three rows and four lines. 4455 of the draft's 166 173 speeches are over,
+     * 3274 of them by exactly one line.
+     *
+     * Measured with the build's own wrap, so this refuses exactly what the
+     * build would split rather than a second opinion about the window's width
+     * -- which nobody has settled. docs/message-window.md is what is known.
+     */
+    let speech = [];
+    const closeSpeech = () => {
+        if (!speech.length) {
+            return;
+        }
+        const lines = speech.reduce((sum, row) =>
+            sum + wrapAt(english.get(row.lineNumber) ?? "", LONGEST_DIALOGUE_LINE).split("\n").length, 0);
+        const budget = Math.max(speech.length, WINDOW_ROWS);
+        if (lines > budget) {
+            problems.push(`the speech at line ${speech[0].lineNumber} is ${speech.length} rows and needs`
+                + ` ${lines} lines, where the window draws ${budget}. Rows of one speech may hold the`
+                + " English in any arrangement, so this fits if the words are spread across them --"
+                + " what it cannot do is grow past the rows the game gave it.");
+        }
+        speech = [];
+    };
+    for (const row of scene.rows) {
+        if (row.startsUtterance) {
+            closeSpeech();
+        }
+        speech.push(row);
+    }
+    closeSpeech();
 
     /*
      * A gender branch flattened into one sentence.

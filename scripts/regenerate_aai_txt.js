@@ -12,7 +12,7 @@ import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
 import {readCorpus} from "../modules/Corpus.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
-import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
+import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
 import {checkPlayerNamePlate} from "../modules/Nameplates.js";
@@ -135,7 +135,7 @@ const readTextLang = async (name) => {
 
 const [allLineRecords, howItWasBuilt] = await readTextLang(textLang);
 
-const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
+const LONGEST_LINE = LONGEST_DIALOGUE_LINE;
 
 const output = allLineRecords
     .flatMap(lr => {

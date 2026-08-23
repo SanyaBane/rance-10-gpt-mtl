@@ -48,6 +48,23 @@ export const getTextWidth = (text) => {
         .reduce((a,b) => a + b, 0);
 };
 
+/**
+ * The reference the dialogue is wrapped against: the widest line the message
+ * window is taken to hold.
+ *
+ * Here rather than in scripts/regenerate_aai_txt.js because the build is no
+ * longer the only thing that needs it. modules/SceneAcceptance.js asks the same
+ * question before a translation lands -- will this row be split, and will the
+ * speech then need more lines than the window draws -- and a second copy of the
+ * reference string would answer a slightly different question.
+ *
+ * Measured in Meiryo by getTextWidth, which is not the game's font: see
+ * docs/message-window.md and docs/text-width.md. What that costs is accuracy
+ * about the window, not agreement between the two callers, which is what this
+ * being one constant buys.
+ */
+export const LONGEST_DIALOGUE_LINE = "“More importantly, what we should discuss now is how the other";
+
 const WRAP_SAFETY_MARGIN = 0.9;
 
 const wrap = (text, maxLengthRef) => {
