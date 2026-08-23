@@ -1,0 +1,179 @@
+# Translating a scene at a time
+
+The loop that gets 5433 scenes translated and back, and what it refuses.
+
+`docs/message-window.md` is the box the English has to fit in.
+`modules/SceneFile.js` is the format. `modules/SceneAcceptance.js` is what
+decides whether an answer may land. This is how they are driven.
+
+## The loop
+
+```
+npm run extract-scenes                                  # build/scenes/en_grok/, 5433 files
+npm run request-scenes -- --text-lang=en_opus --count=8 # build/scene-work/*.prompt.md
+      ... translate each one into the .answer.tsv its prompt names ...
+npm run accept-scenes -- --text-lang=en_opus            # text_languages/en_opus/scenes/
+npm run assemble-scenes -- --text-lang=en_opus          # the patch the build reads
+node scripts/ain.js --text-lang=en_opus --out=build/scratch-opus
+```
+
+Repeat the middle three. The last two are worth running early and often rather
+than at the end: a scene that is right in its file and wrong in the game is a
+thing this pipeline has already produced twice, and only the built `.ain` said
+so. See [What the built file caught](#what-the-built-file-caught).
+
+Nothing here translates anything. `request_scenes` writes the task out and
+`accept_scenes` judges what came back; the middle step is a person, or a model,
+or an agent handing scenes to sub-agents. That seam is the point — the prompt
+is a file, so whatever does the translating can be swapped without touching
+either end.
+
+## What is in a prompt
+
+`modules/ScenePrompt.js`, and nothing in it is invented. Every rule it states
+is one the acceptance already enforces or `docs/message-window.md` already
+measured — written out so that a scene comes back accepted rather than refused,
+because a translator who has not been told a speech may not grow a row will
+grow one.
+
+- **The scene**: the `m[]` number, the speaker, the Japanese. Blank lines where
+  one speech ends, `> male` / `> female` markers where the game branches.
+- **The cast**, with the gender to write pronouns from — including
+  `Player's choice`, which is El and is not a missing answer.
+- **The settled English** for whatever this scene names, cut from
+  `mistranslated_names.json` and three of the TSV glossaries.
+- **The rules**: the answer's shape, `＜エール＞`, the brackets and the
+  full-width indent, the rows of a speech, the width.
+
+Two decisions inside it are worth knowing about.
+
+**The draft English is not shown.** `en_grok` is a line-at-a-time machine
+translation with no speaker, no scene and no neighbouring line; showing it
+would buy its settled terminology at the price of its mistakes. The
+terminology is bought from the glossaries instead, which are the authority the
+draft was supposed to be following.
+
+**The width is stated in Latin characters.** "Twenty-four full-width
+characters" is exact and uncountable by somebody writing English — the row has
+none in it. Measured against ordinary prose in the game's own font that box is
+about **43 Latin characters**, spaces counted, and a number that can be counted
+is a number that gets respected. Acceptance still measures the real thing with
+`gameTextWidth`.
+
+The glossary slice is cut for recall, not precision: about five rows per scene,
+and every rule that would quiet the noisiest false hit costs a real name. `てる`
+is a card called Teru and turns up in 1973 scenes because it ends 書いてる;
+dropping the all-hiragana keys to be rid of it loses かなみ, who is in the party.
+A wrong line of advice is a wrong line of advice, and a name the translator was
+never shown is what this repository is built around.
+
+## Three outcomes
+
+`accept_scenes` decides one of three things per answer. The judging itself is
+all in `modules/SceneAcceptance.js` and is not repeated in the script.
+
+| | |
+|---|---|
+| **accepted** | written into `text_languages/<lang>/scenes/`, the work files deleted |
+| **refused** | the complaints kept beside the scene, so the next prompt opens with them, until `--attempts` (3) of those |
+| **declined** | no rows at all, only prose — a translator saying no. Not retried: asking the same question again is the one thing certain not to change the answer. |
+
+**A scene lands whole or not at all.** That is not tidiness. The game is handed
+one English line per `m[]` number, so a scene that came back short does not
+lose its tail, it *shifts* it, and every line after the gap goes out under the
+previous line's number. 158 lines across six scenes played one line out of step
+that way once already — see `docs/corpus-alignment.md`.
+
+An answer that was refused is moved to `.refused.tsv` rather than left where it
+is. Without that the next `accept` run judges the same answer again and spends
+an attempt on it with nobody having touched anything: three runs and a scene
+translated once is out of attempts. It is kept rather than deleted because when
+several scenes fail the same way, the answers are what says why.
+
+`build/scene-translation.tsv` is what is still out, rewritten whole each run.
+`build/scene-translation.log` is append-only and is the trail a killed run
+leaves behind.
+
+## Coverage is a directory listing
+
+A scene is translated exactly when `text_languages/<lang>/scenes/<id>.tsv`
+exists. There is no ledger and nothing to keep in step. A run interrupted
+halfway leaves prompts nobody answered, which is exactly what the next run
+should hand out again; re-translating a scene is `--only=<id>` and overwrites
+one file.
+
+Until the last scene lands this is a partial translation, and building one is
+normal: `scripts/regenerate_aai_txt.js` renders the default text language
+underneath, so a line no scene file claims yet still plays in `en_grok`'s
+English.
+
+## Width: a warning there, a refusal here
+
+A row wider than the window is a **warning** in the acceptance module and a
+**refusal** in the driver, on every attempt but the last.
+
+It has to be a warning in the module because 18% of the existing `en_grok`
+draft is over — it was written to a wrap budget of about 31 full-width
+characters, fitted in Meiryo, which is not the game's font — so refusing there
+would refuse the house style rather than a mistake. A fresh translation has no
+such excuse and can be written to the real window from the first scene.
+
+It relents on the last attempt rather than looping on a line that will not
+shorten, and the report names the scenes that went in that way.
+
+## The scenes that are not asked for
+
+**The 131 the CG recollection gallery replays**, 27617 lines, 10.2% of the
+dialogue. `35_ＣＧ回想情報.x` is the game's own statement of where its adult
+content is, and a translator is entitled to decline it, so the default is not
+to spend the ask. `--with-cg` asks anyway; `--only-cg` asks for nothing else.
+Those lines are not lost — they play in the language underneath. The flag is a
+routing hint and not a guarantee (`modules/CgGallery.js` says why), which is
+what the **declined** outcome above is for.
+
+**One scene with nothing in it**: function 2119, whose whole content is the
+engine's own empty `m[1]` and whose name in the dump is
+`VAR  1: Message : string`, because there is no scene there to name. It is
+counted out loud rather than silently skipped, so that 5432 of 5433 is not a
+mystery.
+
+## Order
+
+`--order=index` is the default: the `.ain`'s own order, which is roughly the
+order the scenes were written and so roughly the order they are played. A
+translation reads better when the scene before it was done first.
+
+`--order=small` buys coverage fastest and `--order=large` finds out early
+whether the biggest scene — 765 lines, 77 KB — fits in one ask. Both are for
+shaking the pipeline out rather than for the real run.
+
+## What the built file caught
+
+Both of these were invisible in the scene file, invisible in the patch, and
+passed the acceptance. Only `alice ain dump -t` over the built `.ain` showed
+them, which is the whole of why `CLAUDE.md` says to read it.
+
+**The name repair was resolving the player's name.**
+`glossaries/mistranslated_names.json` listed `＜エール＞` in the
+`knownMistranslations` of the entry whose English is "El", so `normalizeNames`
+rewrote the token itself to the literal El. That is exactly what the acceptance
+refuses a translation for, done afterwards, on the way out. It cost `en_grok`
+nothing only because `en_grok` had already resolved all 1522 of its own lines
+and left the pass nothing to spoil.
+
+**Then the unicode pass mangled it.** With the repair fixed, the token reached
+`replaceUnicode`, whose katakana rule turns `ー` into a tilde. The patch went
+out saying `＜エ~ル＞`, and the game, looking up a key it has never heard of,
+would print the mangled token where the player's name belongs.
+
+Both are fixed and both now have a guard. A token the game substitutes at
+runtime is checked against the name table at every build — it is nobody's
+misspelling, and there is no line of dialogue that could make it one — and
+`replaceUnicode` takes the same list and carries those substrings through
+untouched.
+
+The lesson generalises past the token: **the acceptance guards the door, and
+the build has three passes after it.** `normalizeNames`, `replaceUnicode` and
+`wrapAt` all rewrite an accepted line before it reaches the `.ain`. Anything a
+translation is required to preserve has to survive all three, and the only
+thing that says whether it did is the built file.

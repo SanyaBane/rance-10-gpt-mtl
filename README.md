@@ -86,6 +86,16 @@ The first three write straight into the folder your `.env` calls `GAME_DIR`. If 
 `C:\Program Files`, either run the terminal as administrator or give that folder "Full Access" for
 the "Everyone" group.
 
+Four more lay a retranslation out, hand it round and take it back in; none of them writes into the
+game. [docs/scene-driver.md](docs/scene-driver.md) is the loop.
+
+| Command | What it does |
+|---|---|
+| `npm run extract-scenes` | lays the dialogue out scene by scene into `build/scenes/`, with the speaker on every line |
+| `npm run request-scenes` | writes the next scenes' prompts into `build/scene-work/` |
+| `npm run accept-scenes` | judges the answers and writes the ones that pass into `text_languages/<lang>/scenes/` |
+| `npm run assemble-scenes` | turns those scene files into the patch `regenerate-ain` reads |
+
 The images (UI) are the one thing here with no command at all — see [The images](#the-images).
 
 ### Where a build goes
@@ -130,7 +140,10 @@ node scripts/ain.js --without=enemy-panel
 
 ### Text languages
 
-`en_grok` is the English one and the default. `jp` is no translation at all — the game's own
+`en_grok` is the English one and the default. `en_opus` is the retranslation being made now, a
+scene at a time with the speakers and the context in front of whoever is translating it -- partial,
+and rendered on top of `en_grok` so that a scene not reached yet still plays in English. `jp` is no
+translation at all — the game's own
 Japanese with the `features/` patches over it, for playing or testing a change to how the game
 behaves without installing a translation along with it. `TEXT_LANG` in `.env` sets the one you build
 most, and `--text-lang` overrules it for a run.
