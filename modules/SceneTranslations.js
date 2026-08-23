@@ -29,7 +29,8 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
-import {parseSceneFile, renderSceneFile, sceneFileName} from "./SceneFile.js";
+import {parseSceneFile, renderSceneFile, sceneFileName, speechesOf} from "./SceneFile.js";
+import {layOutSpeech} from "./SpeechRows.js";
 import {textLangDir} from "./TextLanguages.js";
 
 /** text_languages/<lang>/scenes: the translation, one file per scene. */
@@ -42,15 +43,30 @@ export const translatedScenesDir = (lang) => path.join(textLangDir(lang), "scene
  * its blank lines -- with only the English column taken from the translation.
  * Nothing a translator says can move a line number or a speaker that way.
  *
+ * The English is keyed by speech and the file has a line per row, so the
+ * utterance goes on the speech's first row and its continuations are written
+ * **blank**. Blank rather than left alone: renderSceneFile falls back to the
+ * row's existing English, which in the source scene is the en_grok draft, so
+ * skipping them would file half a machine translation inside a retranslated
+ * scene and nothing downstream would notice. assemblePatch joins the rows of a
+ * speech back up before laying it out, so the blanks cost nothing.
+ *
  * @param {string} lang
  * @param {ReturnType<parseSceneFile>} scene the source scene, from build/scenes
- * @param {Map<number, string>} english an accepted acceptTranslation().english
+ * @param {Map<number, string>} english an accepted acceptTranslation().english,
+ *        keyed by the first row of each speech
  */
 export const writeTranslatedScene = async (lang, scene, english) => {
     const dir = translatedScenesDir(lang);
     await fs.mkdir(dir, {recursive: true});
     const file = path.join(dir, sceneFileName(scene.functionId));
-    await fs.writeFile(file, renderSceneFile(scene, english), "utf-8");
+    const perRow = new Map();
+    for (const speech of speechesOf(scene)) {
+        speech.rows.forEach((lineNumber, at) => {
+            perRow.set(lineNumber, at === 0 ? (english.get(speech.lineNumber) ?? "") : "");
+        });
+    }
+    await fs.writeFile(file, renderSceneFile(scene, perRow), "utf-8");
     return file;
 };
 
@@ -86,6 +102,22 @@ export const readTranslatedScenes = async (lang) => {
  * would override that with nothing where leaving the line unnamed lets the
  * draft show through. Ten of the game's messages are empty in Japanese too.
  *
+ * **The speech is the unit, and the rows are worked out here.** A translation
+ * is written and stored as whole utterances -- the English of a speech sits on
+ * its first row and its continuations are blank -- because the rows are where
+ * Japanese typesetting fell at twenty-four full-width characters, and English
+ * shaped to them loses words to them. modules/SpeechRows.js puts each speech
+ * back into exactly the rows the bytecode gave it.
+ *
+ * Doing it here rather than at acceptance is what keeps that reversible: the
+ * division is a build product, so changing how it is divided is a rebuild and
+ * never an edit to a committed translation.
+ *
+ * A file whose English sits on every row instead -- the shape the first two
+ * scenes were accepted in -- assembles the same way and needs no conversion:
+ * speechesOf joins the rows of a speech back into the utterance before this
+ * ever sees them, so an older file is simply laid out again.
+ *
  * @return {Promise<{text: string, scenes: number, lines: number, skipped: number}>}
  */
 export const assemblePatch = async (lang) => {
@@ -94,18 +126,21 @@ export const assemblePatch = async (lang) => {
     const owner = new Map();
     let skipped = 0;
     for (const {fileName, scene} of translated) {
-        for (const row of scene.rows) {
-            if (!row.english) {
-                ++skipped;
+        for (const speech of speechesOf(scene)) {
+            if (!speech.english) {
+                skipped += speech.rows.length;
                 continue;
             }
-            if (owner.has(row.lineNumber)) {
-                throw new Error(`line ${row.lineNumber} is claimed by both ${owner.get(row.lineNumber)}`
-                    + ` and ${fileName}. A line belongs to one scene, so the line numbers have moved --`
-                    + " regenerate the scenes before assembling this.");
-            }
-            owner.set(row.lineNumber, fileName);
-            byLineNumber.set(row.lineNumber, row.english);
+            const {rows} = layOutSpeech(speech.english, speech.rows.length);
+            speech.rows.forEach((lineNumber, at) => {
+                if (owner.has(lineNumber)) {
+                    throw new Error(`line ${lineNumber} is claimed by both ${owner.get(lineNumber)}`
+                        + ` and ${fileName}. A line belongs to one scene, so the line numbers have moved --`
+                        + " regenerate the scenes before assembling this.");
+                }
+                owner.set(lineNumber, fileName);
+                byLineNumber.set(lineNumber, rows[at]);
+            });
         }
     }
     const text = [...byLineNumber.keys()]

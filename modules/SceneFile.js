@@ -131,6 +131,59 @@ export const parseSceneFile = (text) => {
 };
 
 /**
+ * The rows of a scene gathered back into the speeches they were split out of.
+ *
+ * A speech is a run of `m[]` joined by `message::detail::R` and ended by
+ * `message::detail::A`, which is where the click is, so its rows are all on
+ * screen together and where the breaks fell is where Japanese typesetting fell
+ * at twenty-four full-width characters. That is a fact about the source and not
+ * about the utterance, which is why a translation is asked for and stored per
+ * speech and put back into the rows afterwards by modules/SpeechRows.js.
+ *
+ * **A route boundary splits a speech**, even though the bytecode does not. Four
+ * of the 209 route blocks open in the middle of one, and the two halves are
+ * played to different players -- handing them over joined would ask for one
+ * English sentence to cover both, which is the branch thrown away. Each half
+ * keeps its own rows and is laid out into them separately.
+ *
+ * The continuation indent comes off: it sits the text under the 「 that opened
+ * the quote and belongs to the row, not to the sentence. SpeechRows puts it
+ * back on whichever rows end up being continuations.
+ *
+ * @param {ReturnType<parseSceneFile>} scene
+ * @return {{
+ *     lineNumber: number,
+ *     speaker: string,
+ *     route: "male" | "female" | null,
+ *     rows: number[],
+ *     japanese: string,
+ *     english: string,
+ * }[]}
+ */
+export const speechesOf = (scene) => {
+    const speeches = [];
+    for (const row of scene.rows) {
+        const open = speeches[speeches.length - 1];
+        if (!open || row.startsUtterance || (row.route ?? null) !== open.route) {
+            speeches.push({
+                lineNumber: row.lineNumber,
+                speaker: row.speaker,
+                route: row.route ?? null,
+                rows: [],
+                japanese: "",
+                english: "",
+            });
+        }
+        const speech = speeches[speeches.length - 1];
+        speech.rows.push(row.lineNumber);
+        speech.japanese += row.japanese.replace(/^　/, "");
+        speech.english += (speech.english && row.english ? " " : "")
+            + row.english.replace(/^　/, "");
+    }
+    return speeches;
+};
+
+/**
  * The same scene back as text, byte for byte.
  *
  * Exact enough to be worth asserting: scripts/extract_scenes.js checks that

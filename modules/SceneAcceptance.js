@@ -25,9 +25,7 @@
  * The file format itself is modules/SceneFile.js. This module only judges.
  */
 import {PLAYERS_CHOICE} from "./CharacterGenders.js";
-import {gameTextWidth, trackingFor} from "./GameFont.js";
-import {unescapeCell} from "./SceneFile.js";
-import {LONGEST_DIALOGUE_LINE, wrapAt} from "./TextNormalization.js";
+import {speechesOf, unescapeCell} from "./SceneFile.js";
 
 /** "N<tab>english", or the four-column form when a translator echoes the input. */
 const ROW = /^(\d+)\t(.*)$/;
@@ -95,44 +93,6 @@ const PUNCTUATION = /[「」（）｛｝【】、。！？…‥・゛゜\s]/g;
  * translation has to keep.
  */
 /**
- * Rows the message window draws at once.
- *
- * The layout says so: MessageWindow01.pactex.x, which every ADV command but the
- * three ●…Ｅ ones opens, carries a three-line placeholder, and 99.25% of the
- * game's own speeches are three m[] rows or fewer. docs/message-window.md has
- * the rest, including why this is the number the window states and its width is
- * not.
- */
-const WINDOW_ROWS = 3;
-
-/**
- * How wide one of those rows is, as a string rather than a number, the way
- * modules/SummaryLines.js compares against its panel: twenty-four full-width
- * characters.
- *
- * Not stated anywhere as a number. What states it is the geometry --
- * MessageWindow01 starts its text at x=470 and puts the key-wait mark at
- * x=1440 -- read at the scale the event window fixes: MessageWindow02's
- * placeholder is exactly 31 full-width characters, its text starts at x=337 and
- * its mark sits at x=1580, which makes a full-width character 40.1 px and this
- * window (1440-470)/40.1 = 24.2 of them. The backlog checks the same arithmetic
- * from a third place and lands within one percent. docs/message-window.md has
- * it in full.
- *
- * The game's own Japanese agrees: 96.1% of the lines this window draws are
- * inside 24, against 17.6% of the current English draft being outside it.
- *
- * The tracking has to be the window's own. modules/GameFont.js defaults to the
- * synopsis panel's 字間隔 4 at font 48; MessageWindow01 says 文字間隔 -2 at font
- * 57, which is negative, and using the default would over-measure every line by
- * an eighth of a character.
- */
-const ORDINARY_WINDOW = "１２３４５６７８９０１２３４５６７８９０１２３４";
-
-/** MessageWindow01: フォントサイズ 57, 文字間隔 -2. */
-const DIALOGUE_TRACKING = trackingFor(-2, 57);
-
-/**
  * An English word that says whether somebody is a man or a woman.
  *
  * Deliberately not every such word. "king", "queen" and "guy" were in an earlier
@@ -175,7 +135,16 @@ export const acceptTranslation = (scene, returned) => {
     /** Everything that was not a row, which is where a refusal would be. */
     const prose = [];
 
-    const expected = new Map(scene.rows.map(row => [row.lineNumber, row]));
+    /*
+     * Keyed by the speech rather than by the row, because the speech is the
+     * unit the translation is asked for and stored in: its rows are where
+     * Japanese typesetting fell, and modules/SpeechRows.js puts the English
+     * back into them at assembly. The number is the speech's first row, which
+     * is the number the answer comes back under and the number a missing
+     * speech would shift everything after.
+     */
+    const speeches = speechesOf(scene);
+    const expected = new Map(speeches.map(speech => [speech.lineNumber, speech]));
 
     for (const line of returned.split(/\r?\n/)) {
         if (!line.trim()) {
@@ -230,10 +199,11 @@ export const acceptTranslation = (scene, returned) => {
         return {accepted: false, declined: !unasked.length, english, problems, warnings};
     }
 
-    const missing = scene.rows.filter(row => !english.has(row.lineNumber)).map(row => row.lineNumber);
+    const missing = speeches.filter(speech => !english.has(speech.lineNumber))
+        .map(speech => speech.lineNumber);
     if (missing.length) {
-        problems.push(`${missing.length} of ${scene.rows.length} lines missing,`
-            + ` from ${missing[0]}: a scene that stops early shifts every line after it`);
+        problems.push(`${missing.length} of ${speeches.length} speeches missing,`
+            + ` from ${missing[0]}: a scene that stops early shifts every speech after it`);
         if (prose.length) {
             problems.push(`what was said instead: ${JSON.stringify(prose.join(" ").slice(0, 200))}`);
         }
@@ -246,99 +216,24 @@ export const acceptTranslation = (scene, returned) => {
     }
 
     for (const [lineNumber, text] of english) {
-        const row = expected.get(lineNumber);
+        const speech = expected.get(lineNumber);
         if (CONTROL.test(text)) {
-            problems.push(`line ${lineNumber} holds a tab or a line break`);
+            problems.push(`speech ${lineNumber} holds a tab or a line break`);
         }
-        if (!text && row.japanese) {
-            problems.push(`line ${lineNumber} came back empty for ${JSON.stringify(row.japanese)}`);
+        if (!text && speech.japanese) {
+            problems.push(`speech ${lineNumber} came back empty for ${JSON.stringify(speech.japanese)}`);
         }
         for (const token of SUBSTITUTIONS) {
-            if (row.japanese.includes(token) && !text.includes(token)) {
-                problems.push(`line ${lineNumber} drops ${token}, which the game replaces at runtime`
+            if (speech.japanese.includes(token) && !text.includes(token)) {
+                problems.push(`speech ${lineNumber} drops ${token}, which the game replaces at runtime`
                     + " -- resolving it writes one player's name into everybody's game");
             }
         }
-        if (row.english && text.length > row.english.length * LONGER_THAN_DRAFT) {
-            warnings.push(`line ${lineNumber} is ${Math.round(text.length / row.english.length)}x`
+        if (speech.english && text.length > speech.english.length * LONGER_THAN_DRAFT) {
+            warnings.push(`speech ${lineNumber} is ${Math.round(text.length / speech.english.length)}x`
                 + " the draft's length -- a note to the reader rather than a translation?");
         }
     }
-
-    /*
-     * A row wider than the window draws.
-     *
-     * A warning rather than a refusal for two reasons. The build's own wrap
-     * budget is about 31 full-width characters -- it was fitted in Meiryo,
-     * which is not the game's font -- so 17.6% of the existing draft is over
-     * this and refusing would refuse the house style rather than a mistake.
-     * And the 6.7% of lines drawn by the ●…Ｅ commands get a wider window, 31
-     * rather than 24, which the scene file does not say; those get a warning
-     * they do not deserve.
-     *
-     * What it is for is the new translation, which can be written to the real
-     * window from the first scene instead of to a budget nobody measured.
-     */
-    for (const row of scene.rows) {
-        const said = english.get(row.lineNumber);
-        if (said && gameTextWidth(said, DIALOGUE_TRACKING)
-                > gameTextWidth(ORDINARY_WINDOW, DIALOGUE_TRACKING)) {
-            warnings.push(`line ${row.lineNumber} is wider than the message window,`
-                + ` which draws ${ORDINARY_WINDOW.length} full-width characters:`
-                + ` ${JSON.stringify(said.slice(0, 60))}`);
-        }
-    }
-
-    /*
-     * A speech that will not fit the window it is drawn in.
-     *
-     * The game hands the message window one line per m[] row and draws three at
-     * a time. Nothing wraps at runtime, so a row too wide for the window is a
-     * row the build has to break in two -- and the speech then wants four lines
-     * where the game's own Japanese wanted three.
-     *
-     * The budget is the greater of the window's rows and the rows the speech
-     * has, because the Japanese line count is by definition acceptable: the
-     * game shipped it. 1241 of the game's own speeches run past three rows and
-     * those are its business, not a translation's.
-     *
-     * A refusal rather than a warning, because it is always fixable without
-     * touching a line number. The rows of one speech may hold the English in
-     * any arrangement -- nothing reads a row on its own; the backlog replays
-     * the same rows, and the game has no voice at all -- so a speech that needs
-     * four lines can be written as three that each fit. What the existing draft
-     * did instead was pour two Japanese rows into one English row and leave the
-     * next empty, which the build then wraps back into two: m[43] is that in
-     * three rows and four lines. 4455 of the draft's 166 173 speeches are over,
-     * 3274 of them by exactly one line.
-     *
-     * Measured with the build's own wrap, so this refuses exactly what the
-     * build would split rather than a second opinion about the window's width
-     * -- which nobody has settled. docs/message-window.md is what is known.
-     */
-    let speech = [];
-    const closeSpeech = () => {
-        if (!speech.length) {
-            return;
-        }
-        const lines = speech.reduce((sum, row) =>
-            sum + wrapAt(english.get(row.lineNumber) ?? "", LONGEST_DIALOGUE_LINE).split("\n").length, 0);
-        const budget = Math.max(speech.length, WINDOW_ROWS);
-        if (lines > budget) {
-            problems.push(`the speech at line ${speech[0].lineNumber} is ${speech.length} rows and needs`
-                + ` ${lines} lines, where the window draws ${budget}. Rows of one speech may hold the`
-                + " English in any arrangement, so this fits if the words are spread across them --"
-                + " what it cannot do is grow past the rows the game gave it.");
-        }
-        speech = [];
-    };
-    for (const row of scene.rows) {
-        if (row.startsUtterance) {
-            closeSpeech();
-        }
-        speech.push(row);
-    }
-    closeSpeech();
 
     /*
      * A gender branch flattened into one sentence.
@@ -362,7 +257,7 @@ export const acceptTranslation = (scene, returned) => {
      * pair that matters. What keeps that from crying wolf is
      * differsMaterially, not the pairing.
      */
-    const onRoute = (route) => scene.rows.filter(row => row.route === route);
+    const onRoute = (route) => speeches.filter(speech => speech.route === route);
     for (const male of onRoute("male")) {
         for (const female of onRoute("female")) {
             const said = english.get(male.lineNumber);
@@ -372,7 +267,7 @@ export const acceptTranslation = (scene, returned) => {
             if (!differsMaterially(male.japanese, female.japanese)) {
                 continue;
             }
-            problems.push(`lines ${male.lineNumber} and ${female.lineNumber} are both`
+            problems.push(`speeches ${male.lineNumber} and ${female.lineNumber} are both`
                 + ` ${JSON.stringify(said)}, but the game plays the first only to a male El and the`
                 + ` second only to a female one -- ${JSON.stringify(male.japanese)} against`
                 + ` ${JSON.stringify(female.japanese)}. Nobody sees both, so one English for the two`
@@ -398,13 +293,13 @@ export const acceptTranslation = (scene, returned) => {
      * other thirty-odd from being three thousand.
      */
     if (scene.cast.some(member => member.gender === PLAYERS_CHOICE)) {
-        for (const row of scene.rows) {
-            const said = english.get(row.lineNumber);
-            if (row.route || !said || !GENDERED.test(said)) {
+        for (const speech of speeches) {
+            const said = english.get(speech.lineNumber);
+            if (speech.route || !said || !GENDERED.test(said)) {
                 continue;
             }
-            if (SUBSTITUTIONS.some(token => row.japanese.includes(token))) {
-                warnings.push(`line ${row.lineNumber} names El and says`
+            if (SUBSTITUTIONS.some(token => speech.japanese.includes(token))) {
+                warnings.push(`speech ${speech.lineNumber} names El and says`
                     + ` ${JSON.stringify(GENDERED.exec(said)[0])} -- El's gender is the player's, and`
                     + " this line is played to both. Fine if the word is about somebody else.");
             }

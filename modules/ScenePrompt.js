@@ -7,8 +7,6 @@
  *
  *   - the answer's shape, and why a short one is worse than no answer at all:
  *     modules/SceneAcceptance.js;
- *   - the rows of a speech, the twenty-four characters and what may move
- *     between them: docs/message-window.md;
  *   - the columns, the speaker markers and the "> male" blocks:
  *     modules/SceneFile.js;
  *   - ＜エール＞, which the game replaces at runtime with the name the player
@@ -27,36 +25,14 @@
  * scene actually names is a dozen rows, and a dozen rows get read.
  */
 import {CHARACTER_VOICES, PLAYERS_CHOICE} from "./CharacterGenders.js";
-import {gameTextWidth, trackingFor} from "./GameFont.js";
 import {createNameFinder, mentions} from "./NameNormalizer.js";
 import {CARD_GLOSSARY} from "./Nameplates.js";
 import {PLACE_GLOSSARY} from "./PlaceNames.js";
 import {SUBSTITUTIONS} from "./SceneAcceptance.js";
+import {speechesOf} from "./SceneFile.js";
 import {CG_FLAG, ROUTE_FLAG} from "./SceneIndex.js";
 import {SUMMARY_TERMS} from "./SummaryLines.js";
 import {readGlossary} from "./TermDrift.js";
-
-/** MessageWindow01: フォントサイズ 57, 文字間隔 -2. docs/message-window.md. */
-const DIALOGUE_TRACKING = trackingFor(-2, 57);
-
-/** Twenty-four full-width characters, the width the ordinary window draws. */
-const ORDINARY_WINDOW = "１２３４５６７８９０１２３４５６７８９０１２３４";
-
-/**
- * The same width said in the unit somebody writing English can count in.
- *
- * "Twenty-four full-width characters" is exact and uncountable: the row being
- * written has no full-width characters in it. Measured against a sentence of
- * ordinary English prose in the game's own font, that box holds about this
- * many Latin characters, spaces included -- and a number that can be counted
- * is a number that gets respected. modules/SceneAcceptance.js still measures
- * the real thing.
- */
-const LATIN_SAMPLE = "The quick brown fox jumps over the lazy dog, and then some more words follow here.";
-
-export const latinPerRow = () => Math.floor(
-    gameTextWidth(ORDINARY_WINDOW, DIALOGUE_TRACKING)
-    / (gameTextWidth(LATIN_SAMPLE, DIALOGUE_TRACKING) / LATIN_SAMPLE.length));
 
 /**
  * The slice is cut for recall, not for precision.
@@ -153,76 +129,66 @@ const castBlock = (scene, voices) => scene.cast
         + (voices.get(member.speaker) ? `. ${voices.get(member.speaker)}` : ""))
     .join("\n");
 
-/** The scene as the translator sees it: number, speaker, Japanese. No English. */
+/**
+ * The scene as the translator sees it: one speech per line -- its number, who
+ * says it, and the whole utterance. No English, and no rows.
+ *
+ * The rows are deliberately not on the page. They are where Japanese
+ * typesetting fell, modules/SpeechRows.js puts the answer back into them
+ * afterwards, and a translator who can see them writes English shaped to them:
+ * the first scene translated through this pipeline lost 巨大戦艦 out of a
+ * sentence because the row it was on was already full, while the row above it
+ * was two thirds empty.
+ */
 const sceneBlock = (scene) => {
     const lines = [];
     let route = null;
-    for (const row of scene.rows) {
-        if (row.startsUtterance && lines.length) {
-            lines.push("");
-        }
-        if ((row.route ?? null) !== route) {
-            route = row.route ?? null;
+    for (const speech of speechesOf(scene)) {
+        if (speech.route !== route) {
+            route = speech.route;
             lines.push(`> ${route ?? "end"}`);
         }
-        lines.push([row.lineNumber, row.speaker, row.japanese].join("\t"));
+        lines.push([speech.lineNumber, speech.speaker, speech.japanese].join("\t"));
     }
     return lines.join("\n");
 };
 
-/** How many rows the window will draw for each speech, so the budget is on the page. */
-const speechSizes = (scene) => {
-    const sizes = [];
-    let size = 0;
-    for (const row of scene.rows) {
-        if (row.startsUtterance && size) {
-            sizes.push(size);
-            size = 0;
-        }
-        ++size;
-    }
-    if (size) {
-        sizes.push(size);
-    }
-    return sizes;
-};
+const RULES = `## The rules
 
-const RULES = (perRow) => `## The rules
-
-**Send back every row, and only these rows.** One line per row of the scene:
+**Send back every speech, and only these speeches.** One line per speech below:
 the number, a tab, the English. Nothing else on the line -- no speaker, no
 Japanese, no quotes around it. A scene is accepted whole or not at all, because
-the game is handed one English line per number: an answer that stops early does
-not lose its tail, it shifts it, and every line after the gap goes out under the
-previous line's number.
+the game is handed one English speech per number: an answer that stops early
+does not lose its tail, it shifts it, and every speech after the gap goes out
+under the previous speech's number.
 
-If you will not translate this scene, say so in plain prose and send no rows.
+If you will not translate this scene, say so in plain prose and send no lines.
 That is a clean answer and it is handled. A scene translated up to the point it
 turns explicit and then stopped is the one failure nothing in the text of the
 answer reveals.
 
-**One line, one line.** No tab and no line break inside the English: the first
-moves every column when the scene is written back, the second turns one row into
-two. Where the Japanese is empty, send the number and an empty English.
+**One speech, one line of answer.** No tab and no line break inside the English:
+the first moves every column when the scene is written back, the second is read
+as the end of the answer. Where the Japanese is empty, send the number and an
+empty English.
 
 **Keep ＜エール＞ exactly as it is**, brackets and all. The game replaces it at
 runtime with the name the player typed for the protagonist. Resolving it to "El"
 writes one player's name into everybody's game. Other ＜…＞ are sound effects and
 are translated inside the brackets.
 
-**Keep the punctuation the row opens and closes with.** 「」 for speech, （） for
-a thought, and a leading full-width space on a continuation row -- that space is
-an indent that sits the rest of a quote under the 「 that opened it, and dropping
-it leaves the line flush against the window edge while its neighbours are not.
+**Keep the punctuation the speech opens and closes with.** 「」 for speech, （）
+for a thought. They are how the game marks who is talking rather than
+decoration, and the build reads them to lay the speech out.
 
 **Write the rest in plain ASCII.** The build rewrites ... for an ellipsis, a
 hyphen for a dash, straight quotes for curly ones, and strips accents, so
 writing them plainly is what you will get either way.
 
-**…… is "...", three dots.** Not one dot per Japanese character. 「ぐすっ……奴隷
-です……」 is "「Sniff... Your slave...」" and not "「Sniff...... Your slave......」";
-the second is a transcription of the source rather than a line of English, and
-it eats a quarter of the row.
+**…… is "...", three dots**, however many Japanese characters it runs to. Not
+one dot apiece. 「ぐすっ……奴隷です……」 is "「Sniff... Your slave...」" and not
+"「Sniff...... Your slave......」"; the second is a transcription of the source
+rather than a line of English.
 
 ## How it has to sound
 
@@ -245,30 +211,16 @@ A brute stays blunt. A child stays a child.
 
 **Do not trade a concrete word for a shorter one.** ミカン箱 is a tangerine box,
 not a crate; 不思議な遺跡 is a mysterious ruin, not a curious one; すりすりと撫でた
-is rubbing it *gently*. Length is a real constraint and it is not solved by
-blurring the noun -- it is solved by moving words between the rows of the
-speech, which you may do freely.
+is rubbing it *gently*. A shorter word that means less is not a translation of
+the longer one.
 
 **Honorifics stay.** -sama, -san, -chan, -kun as the Japanese has them; the rest
 of this patch writes -sama 3592 times. Do not translate one into "Lady" or
 "Lord" -- and especially not for El, whose gender the player picks.
 
-## Rows and width
-
-A blank line separates one speech from the next. The message window draws
-**three rows at a time**, and each row is **twenty-four full-width characters --
-about ${perRow} Latin characters, spaces counted**.
-
-The words of one speech may be moved between its rows freely. Nothing reads a
-row on its own: the backlog replays the same rows, and the game has no voice at
-all. **What cannot change is the number of rows** -- they are operands in the
-bytecode, so a speech of three rows comes back as three rows.
-
-So a speech of N rows has N lines of about ${perRow} characters to say what it
-says, and never fewer than three, since that is what the window draws. Over that
-and the build breaks a row in two, and the speech runs off the bottom of the
-window. Spread the English across the rows the speech already has rather than
-pouring it into the first one and leaving the rest short.`;
+**There is no length limit.** Say what the Japanese says, in English that reads
+well, and let it come out as long as it comes out. Nothing is gained by
+compressing a sentence and something is always lost.`;
 
 const ROUTE_RULE = `## The two Els
 
@@ -297,14 +249,12 @@ without one.`;
  *        what went wrong last time, from a previous acceptTranslation()
  */
 export const renderScenePrompt = (scene, glossaries, again = {}) => {
-    const perRow = latinPerRow();
     const {names, others} = glossaryFor(scene, glossaries);
-    const sizes = speechSizes(scene);
+    const speeches = speechesOf(scene);
     const parts = [];
 
     parts.push(`# ${scene.name}`);
-    parts.push(`Scene ${scene.functionId} of Rance 10, ${scene.rows.length} lines`
-        + ` in ${sizes.length} speeches (the longest is ${Math.max(...sizes, 0)} rows).`
+    parts.push(`Scene ${scene.functionId} of Rance 10, ${speeches.length} speeches.`
         + (scene.flags.includes(CG_FLAG)
             ? " The game lists this scene in its CG recollection gallery, so it is adult content."
             : "")
@@ -323,7 +273,7 @@ export const renderScenePrompt = (scene, glossaries, again = {}) => {
             + again.warnings.map(warning => `- ${warning}`).join("\n"));
     }
 
-    parts.push(RULES(perRow));
+    parts.push(RULES);
     if (scene.rows.some(row => row.route)) {
         parts.push(ROUTE_RULE);
     }
@@ -333,9 +283,8 @@ export const renderScenePrompt = (scene, glossaries, again = {}) => {
 
     parts.push("## Who is in it\n\n"
         + (castBlock(scene, glossaries.voices) || "- nobody: this scene is all narration.")
-        + "\n\nThe speaker column below is one of these names, or `+` for another row of the speech"
-        + " above, `-` for narration, `?` for a message with no speaker, and a trailing `~` for a"
-        + " thought the game draws in （） rather than 「」.");
+        + "\n\nThe speaker column below is one of these names, `-` for narration, `?` for a message"
+        + " with no speaker, and a trailing `~` for a thought the game draws in （） rather than 「」.");
 
     if (names.length || others.length) {
         const blocks = [];
@@ -355,7 +304,7 @@ export const renderScenePrompt = (scene, glossaries, again = {}) => {
 
     if (again.answerFile) {
         parts.push(`## Where it goes\n\nWrite the answer to \`${again.answerFile}\`, one`
-            + " `number<TAB>English` per line and nothing else in the file.");
+            + " `number<TAB>English` per line -- one line per speech -- and nothing else in the file.");
     }
 
     return parts.join("\n\n") + "\n";
