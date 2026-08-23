@@ -1,0 +1,103 @@
+# The gender of a crowd portrait: the soldier, the miko, the passer-by. Hand-
+# written; this is the file to edit.
+#
+# Columns: the portrait key <TAB> the name its plate prints <TAB> the gender
+# <TAB> where the answer came from. modules/PortraitGenders.js reads the first
+# and the third; the other two are for whoever reads this next.
+#
+# Keyed by the portrait rather than by the plate's English name, which is the
+# whole reason this file is not more rows in glossaries/character_genders.md.
+# 汎用ゼス男魔法兵 and 汎用ゼス女魔法兵 are both "Zeth Mage Soldier" over the
+# portrait, and so are 汎用男武士兵 and 汎用女武士兵 both "JAPAN Samurai" and all
+# four ポピンズ both sexes of "Poppins". A table keyed by name has one row to
+# give them and would be telling a translator the wrong pronoun for 819 lines.
+#
+# That other file stays a table of characters -- people with a name, a history
+# and a wiki page. These are costumes. Nothing here belongs in a cast list, and
+# a row here answering somebody that file also answers is a mistake rather than
+# a fallback: scripts/extract_scenes.js asks the character table first and
+# complains about any row here it never had to reach.
+#
+# The evidence is in the last column because it is not all of one kind, and the
+# difference matters. 8_カードデータ.x has a 性別 column the game itself reads
+# (modules/CardGenders.js), and where a card wears one of these costumes that is
+# strong evidence -- but it is evidence about the card, not about the extra in
+# the same outfit. 汎用自由都市警備兵Ａ dresses five 警備兵 cards that all say
+# Female, and every line spoken from behind that portrait is a man's: 「なんで俺
+# までっ！？」, 「女性の方もかなり好きモノですなあ」. So the lines win where the two
+# disagree, and that row says so out loud.
+#
+# 汎用その他 is the one honest "?". It is the game's own junk drawer: a Hanny
+# saying はにはに in one scene and a crowd of men fighting over who gets to
+# father Wenlina's child in another. Listed rather than left out, so the next
+# person to look does not have to find that out again.
+#
+# A portrait not in this file and not in character_genders.md gets "?" on the
+# cast line, which is the honest answer and the useless one. `node
+# scripts/find_gender_gaps.js` is the list of those.
+汎用魔物兵緑	Green Monster Soldier	Male	the lines: 隊長が一撃で, なんだコイツ
+汎用魔物兵青	Blue Monster Soldier	Male	the card 魔物兵１号
+汎用魔物兵赤	Red Monster Soldier	Male	the card 魔物兵２号
+汎用魔法魔物兵	Magic Monster Soldier	Male	the card 魔物兵４号
+汎用飛行魔物兵	Flying Monster Soldier	Male	the card 魔物兵３号
+汎用魔物隊長	Monster Captain	Male	the card ラカン, and the wiki's Monster Captain
+魔物隊長	Monster Captain	Male	as 汎用魔物隊長
+汎用魔物将軍	Monster General	Male	the lines: 閣下 to LeMay, and the wiki's Monster General
+魔物将軍マックス	Monster General	Male	as 汎用魔物将軍
+汎用魔物使い	Monster Tamer	Female	the five 魔物使い cards, and the lines
+汎用魔法使い	Wizard	Female	the seven 魔法使い cards, and the lines
+汎用ゼス男魔法兵	Zeth Mage Soldier	Male	the five ゼス男魔法兵 cards, and the 男 in the key
+汎用ゼス女魔法兵	Zeth Mage Soldier	Female	the five ゼス女魔法兵 cards, and the 女 in the key
+汎用リーザス黒兵	Leazas Black Soldier	Male	the card Lv30 リーザス黒兵
+汎用リーザス赤兵	Leazas Red Soldier	Male	the card Lv30 リーザス赤兵
+汎用リーザス青兵	Leazas Blue Soldier	Male	the card Lv30 リーザス青兵
+汎用リーザス白兵	Leazas White Soldier	Male	the cards Lv30/Lv40 リーザス白兵
+汎用リーザス黒騎士	Leazas Black Knight	Male	the cards Lv40/Lv50 リーザス黒騎士
+汎用リーザス赤騎士	Leazas Red Knight	Male	the card Lv40 リーザス赤騎士
+汎用リーザス青騎士	Leazas Blue Knight	Male	the card Lv40 リーザス青騎士
+汎用リーザス白騎士	Leazas White Knight	Male	the card Lv40 リーザス白騎士
+汎用リーザス親衛隊	Leazas Royal Guard	Female	the five 親衛隊 cards, and 私はリーザスの……！ in the lines
+汎用ヘルマン兵	Helman Soldier	Male	the lines: たまんねぇ, うぉっしゃー
+汎用ヘルマン騎士	Helman Knight	Male	the five ヘルマン騎士 cards, and the wiki
+汎用テンプルナイト	Temple Knight	Male	the five テンプルナイト cards, and the lines
+汎用男武士兵	JAPAN Samurai	Male	the five 男武士 cards, and the 男 in the key
+汎用女武士兵	JAPAN Samurai	Female	the five 女武士 cards, and the 女 in the key
+汎用武将	JAPAN General	Male	the lines: おぬし, しかと申しつけてくれよ
+汎用巫女	Miko	Female	the five 巫女 cards, and the lines
+汎用闘将Ａ	Tousho	Male	the card 闘将Ａ
+汎用闘将Ｂ	Tousho	Male	the card 闘将Ｂ
+汎用闘将Ｃ	Tousho	Male	the card 闘将Ｃ
+汎用男ポピンズ１	Poppins	Male	the ポピンズ cards, and the 男 in the key
+汎用男ポピンズ２	Poppins	Male	the ポピンズ cards, and the 男 in the key
+汎用女ポピンズ１	Poppins	Female	the ポピンズ cards, and the 女 in the key
+汎用女ポピンズ２	Poppins	Female	the ポピンズ cards, and the 女 in the key
+汎用自由都市警備兵Ａ	Free Cities Guard	Male	the lines: なんで俺までっ！？, ですなあ -- NOT the cards, which say Female
+汎用自由都市警備兵Ｂ	Free Cities Guard	Male	as 汎用自由都市警備兵Ａ
+汎用男	Man	Male	the card 父, and the 男 in the key
+汎用女	Woman	Female	the cards 母 and 将軍内に居た女４, and the 女 in the key
+汎用爺	Old Man	Male	the key, and the lines: わたくしども
+汎用婆	Old Woman	Female	the key, and the lines: 本当だわ, 祈りましょう
+汎用少年	Boy	Male	the lines: ぼく
+汎用少女	Girl	Female	the card 少女, and the key
+少女	Girl	Female	as 汎用少女
+汎用筋肉男	Muscle Man	Male	the lines: 俺, よう、兄さん
+汎用天使	Angel	Female	the lines: 対応変わるのよねー, ゴソッと逝ったわよー
+汎用売春宿ボーイ	Brothel Boy	Male	ボーイ, and the lines
+汎用穴奴隷	Sex Slave	Female	the card 将軍内に居た女５
+学者	Scholar	Male	the card 学者
+山賊	Bandit	Male	the lines: 俺たち, エレナの姐御
+奴隷商人	Slave Merchant	Male	the lines: 俺達, ひでぇんですもん
+老兵	Veteran Soldier	Male	the lines: 儂, じゃわい
+剣豪	Swordmaster	Male	the card 剣豪, and the lines
+王様	King	Male	the card 王様
+手裏剣使い	Shuriken User	Female	the card 手裏剣使い
+男装女	Crossdresser	Female	the card 男装女, and the key
+体育スター	Gym Star	Female	the card 体育スター
+茶屋の娘	Tea house girl	Female	娘, and the lines
+メイドさん	Maid	Female	the card メイドさん, and the wiki's Maid Lady
+青鬼	Blue Oni	Male	the lines: 親父ー, 俺ら
+赤鬼	Red Oni	Male	the lines: ゲヘヘ, オッパイアル
+毒鬼	Poison Oni	Male	no words of its own; as 青鬼 and 赤鬼
+砂漠案内人	Desert Guide	Female	the lines: わたち, 喋りすぎまちたわ
+日立姫砂漠案内人	Desert Guide	Female	as 砂漠案内人
+汎用その他	Generic Other	?	genuinely two things: a Hanny in one scene, a crowd of men in another

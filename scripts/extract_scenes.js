@@ -36,6 +36,8 @@ import {readGalleryScenes} from "../modules/CgGallery.js";
 import {readCorpus} from "../modules/Corpus.js";
 import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
+import {createNameplateResolver} from "../modules/Nameplates.js";
+import {readPortraitGenders, unreachedRows} from "../modules/PortraitGenders.js";
 import {escapeCell, parseSceneFile, renderSceneFile, sceneFileName} from "../modules/SceneFile.js";
 import {readScenes} from "../modules/SceneScript.js";
 import {isTranslated, textLangDir, textLangName} from "../modules/TextLanguages.js";
@@ -111,6 +113,8 @@ await run(async () => {
     const englishByLineNumber = new Map(corpus.map(record => [+record.lineNumber, record.translatedEnglishLine]));
 
     const {genders, malformed} = await readCharacterGenders();
+    const {genders: portraitGenders, malformed: portraitMalformed} = await readPortraitGenders();
+    const resolveNameplate = await createNameplateResolver();
     const gallery = await readGalleryScenes();
     const {scenes, dumped} = await readScenes();
     if (dumped) {
@@ -168,9 +172,13 @@ await run(async () => {
             rows: [],
         };
         for (const {speaker, stand} of cast.values()) {
-            const gender = genders.get(speaker);
+            // The character table first, because it is the one that answers a
+            // person; the portrait table is for the costumes it has no row for.
+            // A portrait in both would never reach the second, which is what
+            // unreachedRows below reports.
+            const gender = genders.get(speaker) ?? portraitGenders.get(stand);
             if (!gender) {
-                genderless.add(speaker);
+                genderless.add(stand);
             }
             laidOut.cast.push({speaker, stand, gender: gender ?? "?"});
         }
@@ -265,12 +273,21 @@ await run(async () => {
         + ` ${flaggedLines} lines (${(flaggedLines / lines * 100).toFixed(1)}%)`);
     console.log(`  read ${checked} rows back against the game's own dump, all agreed`);
     if (genderless.size) {
-        console.warn(`  ${genderless.size} speakers glossaries/character_genders.md does not list`);
+        console.warn(`  ${genderless.size} portraits neither gender table answers`
+            + " -- node scripts/find_gender_gaps.js lists them");
     }
     // A row that answers neither Male nor Female is dropped, and a dropped row
     // nothing complains about is how the next one goes unnoticed.
     for (const complaint of malformed) {
         console.warn(`  character_genders.md row cannot be read: ${complaint}`);
+    }
+    for (const complaint of portraitMalformed) {
+        console.warn(`  portrait_genders.tsv row cannot be read: ${complaint}`);
+    }
+    const used = new Set(scenes.flatMap(scene =>
+        scene.lines.map(line => line.stand?.split("／")[0]).filter(Boolean)));
+    for (const complaint of unreachedRows(portraitGenders, genders, resolveNameplate, used)) {
+        console.warn(`  ${complaint}`);
     }
     const worst = [...unnamed.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
     for (const [stand, count] of worst) {

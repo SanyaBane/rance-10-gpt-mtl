@@ -41,6 +41,7 @@ import {readCorpus} from "../modules/Corpus.js";
 import {width} from "../modules/EastAsianWidth.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
 import {createNameplateResolver} from "../modules/Nameplates.js";
+import {readPortraitGenders} from "../modules/PortraitGenders.js";
 import {readScenes} from "../modules/SceneScript.js";
 import {textLangDir, textLangName} from "../modules/TextLanguages.js";
 
@@ -138,8 +139,16 @@ await run(async () => {
         }
     }
 
+    const {genders: portraitGenders} = await readPortraitGenders();
+    // The same two lookups scripts/extract_scenes.js does, in the same order,
+    // so this lists exactly the portraits that end up with "?" on a cast line
+    // -- and by portrait rather than by name, since a name can cover two
+    // portraits and have an answer for only one of them.
+    const unanswered = (speaker) => [...speaker.stands]
+        .filter(stand => !genders.has(speaker.name) && !portraitGenders.has(stand));
+
     const gaps = [...speakers.values()]
-        .filter(speaker => !genders.has(speaker.name))
+        .filter(speaker => unanswered(speaker).length)
         .sort((a, b) => b.lines - a.lines);
 
     const one = flagValue("speaker");
@@ -167,13 +176,13 @@ await run(async () => {
         return 0;
     }
 
-    const isGeneric = (speaker) => [...speaker.stands].every(stand => GENERIC.test(stand));
+    const isGeneric = (speaker) => unanswered(speaker).every(stand => GENERIC.test(stand));
     const wanted = hasFlag("generic") ? gaps.filter(isGeneric)
         : hasFlag("named") ? gaps.filter(speaker => !isGeneric(speaker))
             : gaps;
 
     const total = (list) => list.reduce((sum, speaker) => sum + speaker.lines, 0);
-    console.log(`${gaps.length} of ${speakers.size} speakers are not in the table, ${total(gaps)} lines`);
+    console.log(`${gaps.length} of ${speakers.size} speakers get "?" on a cast line, ${total(gaps)} lines`);
     console.log(`  ${gaps.filter(isGeneric).length} generic portraits, ${total(gaps.filter(isGeneric))} lines`);
     console.log(`  ${gaps.filter(s => !isGeneric(s)).length} named characters,`
         + ` ${total(gaps.filter(s => !isGeneric(s)))} lines`);
@@ -186,7 +195,9 @@ await run(async () => {
 
     const rows = [["lines", "scenes", "speaker", "portrait", "cards", "note"]];
     for (const speaker of wanted) {
-        const stands = [...speaker.stands];
+        // Only the portraits still without an answer: a speaker whose other
+        // costume is settled is not a reason to reprint the settled one.
+        const stands = unanswered(speaker);
         const notes = [
             ...isGeneric(speaker) ? ["generic"] : [],
             ...stands.map(genderInKey).filter(Boolean),
