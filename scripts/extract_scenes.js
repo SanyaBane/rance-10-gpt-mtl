@@ -32,14 +32,40 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {run} from "../modules/AliceTools.js";
 import {readCharacterGenders} from "../modules/CharacterGenders.js";
+import {readGalleryScenes} from "../modules/CgGallery.js";
 import {readCorpus} from "../modules/Corpus.js";
 import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
+import {parseSceneFile} from "../modules/SceneAcceptance.js";
 import {readScenes} from "../modules/SceneScript.js";
 import {isTranslated, textLangDir, textLangName} from "../modules/TextLanguages.js";
 
+/** Where every text language's scenes go, and the one file shared across them. */
+const SCENES = path.join(BUILD, "scenes");
+
 /** build/scenes/<lang>: one folder per text language, one file per scene. */
 const sceneDir = (lang) => path.join(BUILD, "scenes", lang);
+
+/**
+ * Pin the line endings for anybody keeping these under version control.
+ *
+ * Written with LF, and a checkout with core.autocrlf=true -- the Windows
+ * default -- hands them back as CRLF, which appends a \r to the English of
+ * every row. Nothing notices: the Japanese is the third column of four, so a
+ * check that reads it passes while the whole last column has grown a
+ * character. Cheaper to say eol=lf once than to find that later.
+ */
+const GITATTRIBUTES = "*.tsv text eol=lf\n";
+
+/**
+ * Scenes the CG recollection gallery replays, flagged on the header line.
+ *
+ * A translator may decline these, and a pipeline is better off knowing which
+ * before it asks than discovering it from a half-translated answer. The flag is
+ * a routing hint and nothing more -- see modules/CgGallery.js for what it does
+ * not cover, and modules/SceneAcceptance.js for the half that does not guess.
+ */
+const CG_FLAG = "cg";
 
 /**
  * A tab inside a cell would silently move every column after it.
@@ -52,8 +78,6 @@ const sceneDir = (lang) => path.join(BUILD, "scenes", lang);
  * that could bring the first one.
  */
 const escape = (text) => text.replaceAll("\\", "\\\\").replaceAll("\t", "\\t");
-
-const unescape = (text) => text.replaceAll(/\\(.)/g, (_, char) => char === "t" ? "\t" : char);
 
 /**
  * Who the line is, before "+" gets a say: a name, or the marker standing in for
@@ -98,10 +122,14 @@ await run(async () => {
     const englishByLineNumber = new Map(corpus.map(record => [+record.lineNumber, record.translatedEnglishLine]));
 
     const genders = await readCharacterGenders();
+    const gallery = await readGalleryScenes();
     const {scenes, dumped} = await readScenes();
     if (dumped) {
         console.log("Dumped the game's code to build/ -- delete build/ to take it again.");
     }
+
+    await fs.mkdir(SCENES, {recursive: true});
+    await fs.writeFile(path.join(SCENES, ".gitattributes"), GITATTRIBUTES, "utf-8");
 
     const outputDir = sceneDir(lang);
     // Stale scenes would otherwise outlive the run that stopped writing them.
@@ -115,6 +143,9 @@ await run(async () => {
     /** No corpus record at all, against a record whose English is empty. */
     let uncovered = 0;
     let blank = 0;
+    let flagged = 0;
+    let flaggedLines = 0;
+    const manifest = [];
     const unnamed = new Map();
     const genderless = new Set();
     /** lineNumber -> the Japanese written, to read back below. */
@@ -128,7 +159,8 @@ await run(async () => {
             }
         }
 
-        const body = [`# ${scene.functionId}\t${escape(scene.name)}`];
+        const flags = gallery.has(scene.name) ? [CG_FLAG] : [];
+        const body = [`# ${scene.functionId}\t${escape(scene.name)}\t${flags.join(",")}`];
         for (const [speaker, stand] of cast) {
             const gender = genders.get(speaker);
             if (!gender) {
@@ -164,11 +196,27 @@ await run(async () => {
 
         const fileName = String(scene.functionId).padStart(6, "0") + ".tsv";
         await fs.writeFile(path.join(outputDir, fileName), body.join("\n") + "\n", "utf-8");
+        manifest.push([fileName, flags.join(","), scene.lines.length, escape(scene.name)].join("\t"));
+        if (flags.length) {
+            ++flagged;
+            flaggedLines += scene.lines.length;
+        }
         ++files;
     }
 
+    // What a driver reads to decide the order and the routing, so that deciding
+    // does not mean opening 5433 files.
+    await fs.writeFile(path.join(outputDir, "index.tsv"),
+        "# file\tflags\tlines\tscene\n" + manifest.join("\n") + "\n", "utf-8");
+
     /*
      * Read every file back and hold its Japanese against the dump.
+     *
+     * Through parseSceneFile, which is what the acceptance module and any
+     * driver will read these with: a check that parses differently from the
+     * consumer checks the wrong thing. It is also what makes this notice a CRLF
+     * checkout -- reading the Japanese alone would not, because the \r lands on
+     * the English at the end of the row.
      *
      * The whole format rests on the escaping, and the escaping is only ever
      * exercised by the twenty-odd lines that need it. A check that runs over
@@ -177,19 +225,18 @@ await run(async () => {
      */
     let checked = 0;
     for (const fileName of await fs.readdir(outputDir)) {
-        const text = await fs.readFile(path.join(outputDir, fileName), "utf-8");
-        for (const row of text.split("\n")) {
-            if (!row || row.startsWith("#") || row.startsWith("* ")) {
-                continue;
+        if (fileName === "index.tsv") {
+            continue;
+        }
+        const scene = parseSceneFile(await fs.readFile(path.join(outputDir, fileName), "utf-8"));
+        for (const row of scene.rows) {
+            if (row.japanese !== written.get(row.lineNumber)) {
+                throw new Error(`${fileName}: line ${row.lineNumber} reads back as`
+                    + ` ${JSON.stringify(row.japanese)}, not ${JSON.stringify(written.get(row.lineNumber))}`);
             }
-            const cells = row.split("\t");
-            if (cells.length !== 4) {
-                throw new Error(`${fileName}: ${cells.length} columns, not 4, in ${JSON.stringify(row)}`);
-            }
-            const expected = written.get(Number(cells[0]));
-            if (unescape(cells[2]) !== expected) {
-                throw new Error(`${fileName}: line ${cells[0]} reads back as`
-                    + ` ${JSON.stringify(unescape(cells[2]))}, not ${JSON.stringify(expected)}`);
+            if (row.english !== (englishByLineNumber.get(row.lineNumber) ?? "")) {
+                throw new Error(`${fileName}: line ${row.lineNumber} lost its English on the way back`
+                    + ` -- ${JSON.stringify(row.english)}`);
             }
             ++checked;
         }
@@ -199,6 +246,8 @@ await run(async () => {
         + ` into ${path.relative(ROOT, outputDir)}, ${lines} lines`);
     console.log(`  ${named} lines name their speaker (${(named / lines * 100).toFixed(1)}%)`);
     console.log(`  ${uncovered} lines no corpus record covers, ${blank} whose record is empty`);
+    console.log(`  ${flagged} scenes flagged "${CG_FLAG}" by the recollection gallery,`
+        + ` ${flaggedLines} lines (${(flaggedLines / lines * 100).toFixed(1)}%)`);
     console.log(`  read ${checked} rows back against the game's own dump, all agreed`);
     if (genderless.size) {
         console.warn(`  ${genderless.size} speakers glossaries/character_genders.md does not list`);
