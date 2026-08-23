@@ -2525,3 +2525,30 @@ s[8736] = "Quelplan?"
 ; widest this can render -- "RA 15 May, late (turn 10) over" -- is 972 of the 989
 ; that leaves. "(turn %d) complete" is 1121, wider even than the Japanese.
 s[3500] = "%s (turn %d) over"
+
+; AdvNamePlate@InnerCreate -- the name over El Mofus's portrait
+;
+; The player names the protagonist of the second half at the エール入力画面, and
+; the plate is where the game puts that name. It does it by comparing the plate
+; it has just resolved against a literal:
+;
+;     fullName = AdvNameResolver::Resolve(standCgName)          ; the .ex table
+;     if (fullName == s[2665])                                  ; "エール・モフス"
+;         fullName = Chapter2PlayerInfo@Name::get() + s[2666]   ; "・モフス"
+;
+; So s[2665] is a sentinel, and the thing it is a sentinel *for* is a row of
+; archives/Rance10EX_v1_04/48_立ち絵名札マッピング情報.x that this repository
+; translated years ago: "エール２／" now reads "El Mofus". The comparison has been
+; failing ever since, the player's name thrown away, and all 575 of El's lines
+; have played under a plate reading "El Mofus" whatever the player typed.
+;
+; Which makes this the rare sentinel that has to be translated rather than left
+; alone: it is compared against a value this repository controls, so the two have
+; to say the same thing. Keep this string spelled exactly as that row is. The
+; suffix beside it is display-only, and takes the leading space the Japanese
+; middle dot did not need.
+;
+; Both slots are pushed exactly once each, in this one function -- checked
+; against `alice ain dump -C --no-macros`: S_PUSH 0xa69 and S_PUSH 0xa6a.
+s[2665] = "El Mofus"
+s[2666] = " Mofus"
