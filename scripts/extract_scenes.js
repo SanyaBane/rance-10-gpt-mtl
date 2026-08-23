@@ -110,7 +110,7 @@ await run(async () => {
     // Last wins, the way rendering the patch resolves a line named twice.
     const englishByLineNumber = new Map(corpus.map(record => [+record.lineNumber, record.translatedEnglishLine]));
 
-    const genders = await readCharacterGenders();
+    const {genders, malformed} = await readCharacterGenders();
     const gallery = await readGalleryScenes();
     const {scenes, dumped} = await readScenes();
     if (dumped) {
@@ -255,6 +255,11 @@ await run(async () => {
     console.log(`  read ${checked} rows back against the game's own dump, all agreed`);
     if (genderless.size) {
         console.warn(`  ${genderless.size} speakers glossaries/character_genders.md does not list`);
+    }
+    // A row that answers neither Male nor Female is dropped, and a dropped row
+    // nothing complains about is how the next one goes unnoticed.
+    for (const complaint of malformed) {
+        console.warn(`  character_genders.md row cannot be read: ${complaint}`);
     }
     const worst = [...unnamed.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
     for (const [stand, count] of worst) {
