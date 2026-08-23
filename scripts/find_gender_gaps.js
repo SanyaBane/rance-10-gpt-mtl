@@ -35,10 +35,12 @@
  */
 import {flagValue, hasFlag} from "../modules/Argv.js";
 import {run} from "../modules/AliceTools.js";
+import {checkCardGenders, oneGender, readCardGenders} from "../modules/CardGenders.js";
 import {readCharacterGenders} from "../modules/CharacterGenders.js";
 import {readCorpus} from "../modules/Corpus.js";
 import {width} from "../modules/EastAsianWidth.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
+import {createNameplateResolver} from "../modules/Nameplates.js";
 import {readScenes} from "../modules/SceneScript.js";
 import {textLangDir, textLangName} from "../modules/TextLanguages.js";
 
@@ -177,7 +179,12 @@ await run(async () => {
         + ` ${total(gaps.filter(s => !isGeneric(s)))} lines`);
     console.log("");
 
-    const rows = [["lines", "scenes", "speaker", "portrait", "note"]];
+    const {byPortrait, byIdentity} = await readCardGenders();
+    /** What the game's own 性別 column claims for this speaker's portraits. */
+    const cardsSay = (stands) => [...new Set(stands.flatMap(stand =>
+        [...byPortrait.get(stand) ?? byIdentity.get(stand) ?? []]))];
+
+    const rows = [["lines", "scenes", "speaker", "portrait", "cards", "note"]];
     for (const speaker of wanted) {
         const stands = [...speaker.stands];
         const notes = [
@@ -185,10 +192,25 @@ await run(async () => {
             ...stands.map(genderInKey).filter(Boolean),
             ...candidates(speaker.name, genders),
         ];
-        rows.push([speaker.lines, speaker.scenes, speaker.name, stands.join(" "), [...new Set(notes)].join("; ")]);
+        rows.push([speaker.lines, speaker.scenes, speaker.name, stands.join(" "),
+            cardsSay(stands).join("+") || "-", [...new Set(notes)].join("; ")]);
     }
     for (const line of columns(rows)) {
         console.log(line);
+    }
+
+    const answered = wanted.filter(speaker => oneGender(new Set(cardsSay([...speaker.stands]))));
+    console.log(`\n${answered.length} of these ${wanted.length} the game's own 性別 column answers`
+        + ` on its own -- but see modules/CardGenders.js on what it answers about.`);
+
+    // The other direction, which is the check on the table rather than on the
+    // gap: the game and the glossary both name these people, so a row that has
+    // drifted shows up here and nowhere else.
+    const resolve = await createNameplateResolver();
+    const {compared, disagree} = await checkCardGenders(genders, resolve);
+    console.log(`${compared - disagree.length} of ${compared} speakers both tables name agree outright`);
+    for (const complaint of disagree) {
+        console.log(`  ${complaint}`);
     }
 
     for (const complaint of malformed) {
