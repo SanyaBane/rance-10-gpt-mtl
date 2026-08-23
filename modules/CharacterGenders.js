@@ -89,8 +89,10 @@ export const spellingsInCell = (cell) => {
  * caught is the one whose columns are shifted: "Dark Wings (Freya faction)"
  * would otherwise file a faction under the gender "RX".
  */
+export const PLAYERS_CHOICE = "Player's choice";
+
 const GENDERS = new Set(["Male", "Female", "?", "Both", "Genderless", "Hermaphrodite",
-    "Male→Female", "Female→Male", "Male/Female", "Player's choice"]);
+    "Male→Female", "Female→Male", "Male/Female", PLAYERS_CHOICE]);
 
 /**
  * English name -> the gender column as written, plus the rows that cannot be read.

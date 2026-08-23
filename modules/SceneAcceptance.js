@@ -24,6 +24,7 @@
  *
  * The file format itself is modules/SceneFile.js. This module only judges.
  */
+import {PLAYERS_CHOICE} from "./CharacterGenders.js";
 import {unescapeCell} from "./SceneFile.js";
 
 /** "N<tab>english", or the four-column form when a translator echoes the input. */
@@ -85,6 +86,18 @@ const PUNCTUATION = /[「」（）｛｝【】、。！？…‥・゛゜\s]/g;
  * are all differences in the body of the line, and those are the ones a
  * translation has to keep.
  */
+/**
+ * An English word that says whether somebody is a man or a woman.
+ *
+ * Deliberately not every such word. "king", "queen" and "guy" were in an earlier
+ * draft of this list and every one of their hits was about somebody else --
+ * "the Demon King's child", "Man, El," -- which is how a warning stops being
+ * read. What is here is the pronouns and the words that attach to a name: the
+ * honorific ＜エール＞様 rendered as "Lady El" is the single commonest way the
+ * existing draft gives El a gender, fourteen times over.
+ */
+const GENDERED = /\b(he|him|his|himself|she|her|hers|herself|lady|lord|sir|madam|mistress|mister|brother|sister|son|daughter|boy|girl|woman|prince|princess)\b/i;
+
 const differsMaterially = (a, b) => {
     const left = a.replace(PUNCTUATION, "");
     const right = b.replace(PUNCTUATION, "");
@@ -223,6 +236,37 @@ export const acceptTranslation = (scene, returned) => {
                 + ` second only to a female one -- ${JSON.stringify(male.japanese)} against`
                 + ` ${JSON.stringify(female.japanese)}. Nobody sees both, so one English for the two`
                 + " is one of the two players reading the wrong line.");
+        }
+    }
+
+    /*
+     * English that gives El a gender where the game gives her none.
+     *
+     * 257 scenes have El on stage and 82 of them carry a "> male" / "> female"
+     * branch, which means the other 175 are played word for word to a player who
+     * chose a man and to one who chose a woman. A "she" in those is not a
+     * translation choice, it is half the players reading about somebody they did
+     * not create.
+     *
+     * A warning and not a refusal, because whether the word is about El is not
+     * decidable from the line. Over the current draft it fires 51 times on the
+     * lines carrying ＜エール＞, and about twenty of those are "Lady El" or "Lord
+     * El" for ＜エール＞様 and ＜エール＞殿; the rest are a "him" that belongs to
+     * whoever El is being told to hit. Narrowing it to the lines that name El,
+     * and skipping the branches where the gender is known, is what keeps the
+     * other thirty-odd from being three thousand.
+     */
+    if (scene.cast.some(member => member.gender === PLAYERS_CHOICE)) {
+        for (const row of scene.rows) {
+            const said = english.get(row.lineNumber);
+            if (row.route || !said || !GENDERED.test(said)) {
+                continue;
+            }
+            if (SUBSTITUTIONS.some(token => row.japanese.includes(token))) {
+                warnings.push(`line ${row.lineNumber} names El and says`
+                    + ` ${JSON.stringify(GENDERED.exec(said)[0])} -- El's gender is the player's, and`
+                    + " this line is played to both. Fine if the word is about somebody else.");
+            }
         }
     }
 
