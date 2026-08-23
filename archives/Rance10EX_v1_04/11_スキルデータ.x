@@ -742,7 +742,7 @@ table スキルデータ = {
     { 1386,"Crazy About Dango",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Eating Kouhime's dango\rCan't move" },
     { 1693,"Elder Sister",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Freeze in place, I\rthink I might get hit" },
     { 1729,"Confused by Sheila",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Magical Ironworker ???\rCan't move" },
-    { 1802,"Confused by Caloria",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Bug? Friend?\rCan't move" },
+    { 1802,"Confused by Caloria",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Insect? Friend?\rCan't move" },
     { 1575,"Click-clack",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Ahhh, I can't move" },
     { 1824,"Work in Progress",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"PG in progress...\rPG in progress..." },
     { 2048,"The Movement Ceased",1,8,"",0,100,0,0,0,0,0,0,"",0,0,"Daytime activities were too much\rI feel dizzy" },

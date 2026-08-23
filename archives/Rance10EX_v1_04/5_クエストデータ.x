@@ -11806,7 +11806,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ちぬ",
-					説明 = "Even dragon-class foes\ninstantly die with a single hit.\nSuch a wonderful poison\nyou've prepared☆",
+					説明 = "Even dragon-class foes\ndrop dead on the spot!\nI'll prepare such a\nlovely poison for you☆",
 					背景 = "ＪＡＰＡＮ街道",
 					地名 = "ＪＡＰＡＮ",
 					音楽 = "フィールド／ＪＡＰＡＮ",
