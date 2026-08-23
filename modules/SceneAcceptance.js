@@ -154,6 +154,7 @@ const differsMaterially = (a, b) => {
  * @param {string} returned the translator's answer, "N<tab>english" per line
  * @return {{
  *     accepted: boolean,
+ *     declined: boolean,
  *     english: Map<number, string>,
  *     problems: string[],
  *     warnings: string[],
@@ -198,10 +199,29 @@ export const acceptTranslation = (scene, returned) => {
     }
 
     if (english.size === 0) {
-        problems.push(prose.length
-            ? `no lines came back, only prose: ${JSON.stringify(prose.join(" ").slice(0, 200))}`
-            : "no lines came back and nothing was said");
-        return {accepted: false, english, problems, warnings};
+        /*
+         * Nothing landed, and which of two things that is decides what to do
+         * about it. A translator declining -- prose and no rows -- is the clean
+         * answer this module exists to make safe, and asking again gets the
+         * same answer. An answer full of rows whose numbers this scene never
+         * had is a mistake, and one worth sending back with the reason.
+         *
+         * Reported as a flag rather than left to be re-derived from the shape
+         * of the result: whoever is driving would have to look for the same
+         * thing this already knows, and would get it subtly wrong -- a scene
+         * whose every line number came back off by one has an empty english
+         * and is not a refusal.
+         */
+        if (unasked.length) {
+            problems.push(`${unasked.length} lines came back and not one of their numbers belongs to this`
+                + ` scene, from ${unasked[0]}. The number is the only part of a row the game reads;`
+                + " send back the scene's own.");
+        } else {
+            problems.push(prose.length
+                ? `no lines came back, only prose: ${JSON.stringify(prose.join(" ").slice(0, 200))}`
+                : "no lines came back and nothing was said");
+        }
+        return {accepted: false, declined: !unasked.length, english, problems, warnings};
     }
 
     const missing = scene.rows.filter(row => !english.has(row.lineNumber)).map(row => row.lineNumber);
@@ -391,5 +411,5 @@ export const acceptTranslation = (scene, returned) => {
         warnings.push(`${prose.length} lines of the answer were not rows and were ignored`);
     }
 
-    return {accepted: problems.length === 0, english, problems, warnings};
+    return {accepted: problems.length === 0, declined: false, english, problems, warnings};
 };
