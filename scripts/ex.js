@@ -22,7 +22,7 @@ import * as os from "os";
 import * as path from "path";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
-import {checkCardNames, checkNameplates} from "../modules/Nameplates.js";
+import {checkCardNames, checkNameplates, checkPlayerNamePlate} from "../modules/Nameplates.js";
 import {PLACE_DATA, renderPlaceTable} from "../modules/PlaceNames.js";
 import {SUMMARY_DATA, renderSummaryTable} from "../modules/SummaryLines.js";
 import {TROPHY_DATA, renderTrophyTable} from "../modules/TrophyNames.js";
@@ -83,6 +83,17 @@ run(async () => {
     const plates = await checkNameplates();
     console.log(`Checked ${plates.report}`);
     for (const complaint of plates.misnamed) {
+        console.warn(`  ${complaint}`);
+    }
+
+    /*
+     * And the one plate whose English is not a matter of taste: the .ain
+     * compares it against a cherry-picked string to decide whether to put the
+     * player's own name there instead. modules/Nameplates.js has the whole of it.
+     */
+    const playerPlate = await checkPlayerNamePlate();
+    console.log(`Checked ${playerPlate.report}`);
+    for (const complaint of playerPlate.complaints) {
         console.warn(`  ${complaint}`);
     }
 

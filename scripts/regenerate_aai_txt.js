@@ -15,6 +15,7 @@ import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
 import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
+import {checkPlayerNamePlate} from "../modules/Nameplates.js";
 import {DEFAULT_TEXT_LANG, hasPatch, isTranslated, regeneratedTxt, textLangDir, textLangName, textLangPatch}
     from "../modules/TextLanguages.js";
 
@@ -183,6 +184,14 @@ for (const complaint of cherryPicks.misnamed) {
     console.warn(`  ${complaint}`);
 }
 for (const complaint of cherryPicks.stale) {
+    console.warn(`  ${complaint}`);
+}
+// The one cherry-picked string whose correctness is not a matter of English:
+// the game compares it against a row of the nameplate table, and the two are
+// edited in different archives for different reasons.
+const playerPlate = await checkPlayerNamePlate(cherryPicksTxt);
+console.log(`Checked ${playerPlate.report}`);
+for (const complaint of playerPlate.complaints) {
     console.warn(`  ${complaint}`);
 }
 // The name repairs the table cannot decide, because two names of the same

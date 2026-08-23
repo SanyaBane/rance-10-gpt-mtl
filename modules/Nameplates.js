@@ -40,6 +40,7 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
+import {CHERRY_PICKS} from "./CherryPicks.js";
 import {ROOT} from "./Env.js";
 import {readSharedNameTable} from "./NameNormalizer.js";
 
@@ -163,6 +164,54 @@ export const createNameplateResolver = async () => {
         resolved.set(stand, name);
         return name;
     };
+};
+
+/**
+ * The one plate row the game's own code compares a string against.
+ *
+ * AdvNamePlate@InnerCreate resolves the plate and then, if what came back is
+ * exactly エール・モフス, replaces it with the name the player typed at the
+ * エール入力画面 plus ・モフス. Both of those are string slots -- s[2665] and
+ * s[2666] -- and patches/system_cherry_picks.v1.04.ain.txt translates them,
+ * because the value the first is compared against is this row, which this
+ * repository translated years ago.
+ *
+ * Which makes two files that have to agree letter for letter, in different
+ * archives, edited for different reasons, with nothing between them. They
+ * disagreed for years and the symptom was silent: the plate kept saying "El
+ * Mofus" and the player's name was thrown away. So the agreement is checked at
+ * every .ain build and every .ex build, since either side can move.
+ */
+export const PLAYER_PLATE_KEY = "エール２／";
+
+/** s[2665], the sentinel; s[2666] is the suffix and has nothing to agree with. */
+const PLAYER_PLATE_SLOT = 2665;
+
+/**
+ * Whether the cherry-picked sentinel still says what the plate says.
+ *
+ * @param {string} [cherryPicks] the text of patches/system_cherry_picks.v1.04.ain.txt,
+ *     which the .ain build has in hand already and the .ex build has not
+ * @return {Promise<{report: string, complaints: string[]}>}
+ */
+export const checkPlayerNamePlate = async (cherryPicks) => {
+    const text = cherryPicks ?? await fs.readFile(CHERRY_PICKS, "utf-8");
+    const plate = (await readPlateRows()).find(([key]) => key === PLAYER_PLATE_KEY)?.[1];
+    const assigned = new RegExp(String.raw`^s\[${PLAYER_PLATE_SLOT}]\s*=\s*"((?:[^"\\\n]|\\.)*)"`, "m")
+        .exec(text)?.[1];
+    const complaints = [];
+    if (plate === undefined) {
+        complaints.push(`${PLAYER_PLATE_KEY} is no longer a row of ${path.basename(NAMEPLATES)},`
+            + " so nothing puts the player's name over El's portrait");
+    } else if (assigned === undefined) {
+        complaints.push(`s[${PLAYER_PLATE_SLOT}] is not cherry-picked, so the game compares the plate`
+            + ` against エール・モフス and ${JSON.stringify(plate)} will never match it`);
+    } else if (assigned !== plate) {
+        complaints.push(`s[${PLAYER_PLATE_SLOT}] says ${JSON.stringify(assigned)} where the plate for`
+            + ` ${PLAYER_PLATE_KEY} says ${JSON.stringify(plate)}. The game compares the two, so El's`
+            + " plate will read that plate instead of the name the player typed.");
+    }
+    return {report: `the player's nameplate against s[${PLAYER_PLATE_SLOT}]`, complaints};
 };
 
 /** Every English name the plate table has for a portrait key. */
