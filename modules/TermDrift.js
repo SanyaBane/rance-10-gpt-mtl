@@ -200,7 +200,16 @@ export const compoundOf = (term, japaneses) => {
     return context.replace(PARTICLES, "").length > term.length ? context : term;
 };
 
-const readGlossary = (file) => fs.readFileSync(file, "utf-8").split(/\r?\n/)
+/**
+ * One of the hand-written TSV glossaries: the Japanese, a tab, the English,
+ * with # for a comment and a third column where a file has one.
+ *
+ * Exported because modules/ScenePrompt.js reads the same files, to put the
+ * settled English for whatever a scene names in front of the person
+ * translating it. Two parsers for one shape is how one of them ends up not
+ * skipping the comment header.
+ */
+export const readGlossary = (file) => fs.readFileSync(file, "utf-8").split(/\r?\n/)
     .map((row, at) => ({row, number: at + 1}))
     .filter(({row}) => row.trim() && !row.startsWith("#"))
     .map(({row, number}) => {
