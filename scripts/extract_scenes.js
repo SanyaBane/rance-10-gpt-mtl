@@ -38,15 +38,10 @@ import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
 import {createNameplateResolver} from "../modules/Nameplates.js";
 import {readPortraitGenders, unreachedRows} from "../modules/PortraitGenders.js";
-import {escapeCell, parseSceneFile, renderSceneFile, sceneFileName} from "../modules/SceneFile.js";
+import {parseSceneFile, renderSceneFile, sceneFileName} from "../modules/SceneFile.js";
+import {CG_FLAG, renderSceneIndex, ROUTE_FLAG, SCENES, sceneDir, sceneIndexFile} from "../modules/SceneIndex.js";
 import {readScenes} from "../modules/SceneScript.js";
 import {isTranslated, textLangDir, textLangName} from "../modules/TextLanguages.js";
-
-/** Where every text language's scenes go, and the one file shared across them. */
-const SCENES = path.join(BUILD, "scenes");
-
-/** build/scenes/<lang>: one folder per text language, one file per scene. */
-const sceneDir = (lang) => path.join(BUILD, "scenes", lang);
 
 /**
  * Pin the line endings for anybody keeping these under version control.
@@ -59,26 +54,14 @@ const sceneDir = (lang) => path.join(BUILD, "scenes", lang);
  */
 const GITATTRIBUTES = "*.tsv text eol=lf\n";
 
-/**
- * Scenes the CG recollection gallery replays, flagged on the header line.
- *
- * A translator may decline these, and a pipeline is better off knowing which
- * before it asks than discovering it from a half-translated answer. The flag is
- * a routing hint and nothing more -- see modules/CgGallery.js for what it does
- * not cover, and modules/SceneAcceptance.js for the half that does not guess.
+/*
+ * CG_FLAG and ROUTE_FLAG are decided here and named in modules/SceneIndex.js,
+ * beside the index that carries them: a flag is a routing hint for whatever
+ * hands the scenes out, and the driver reads it from there rather than from
+ * this file. What the cg flag does not promise is in modules/CgGallery.js; the
+ * markers inside a route scene are what a translator actually reads, and the
+ * flag is so that deciding does not mean opening the file.
  */
-const CG_FLAG = "cg";
-
-/**
- * Scenes holding a line the game plays on only one of El's two routes.
- *
- * A routing hint like CG_FLAG, and a different kind of warning: these 82 scenes
- * are the ones a translation can flatten without anything looking wrong, so a
- * driver may want them translated with more care than a scene where every line
- * is played to everybody. The markers inside the file are what a translator
- * actually reads; this is so that deciding does not mean opening the file.
- */
-const ROUTE_FLAG = "route";
 
 
 /**
@@ -229,7 +212,7 @@ await run(async () => {
 
         const fileName = sceneFileName(scene.functionId);
         await fs.writeFile(path.join(outputDir, fileName), renderSceneFile(laidOut), "utf-8");
-        manifest.push([fileName, flags.join(","), scene.lines.length, escapeCell(scene.name)].join("\t"));
+        manifest.push({fileName, flags, lines: scene.lines.length, name: scene.name});
         if (flags.includes(CG_FLAG)) {
             ++flagged;
             flaggedLines += scene.lines.length;
@@ -243,8 +226,7 @@ await run(async () => {
 
     // What a driver reads to decide the order and the routing, so that deciding
     // does not mean opening 5433 files.
-    await fs.writeFile(path.join(outputDir, "index.tsv"),
-        "# file\tflags\tlines\tscene\n" + manifest.join("\n") + "\n", "utf-8");
+    await fs.writeFile(sceneIndexFile(lang), renderSceneIndex(manifest), "utf-8");
 
     /*
      * Read every file back and hold its Japanese against the dump.
