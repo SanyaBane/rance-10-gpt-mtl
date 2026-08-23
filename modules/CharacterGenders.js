@@ -36,6 +36,16 @@ import {ROOT} from "./Env.js";
 
 export const CHARACTER_GENDERS = path.join(ROOT, "glossaries", "character_genders.md");
 
+/**
+ * How each of them talks, keyed by the same English name this table is keyed
+ * by, which is what makes the two sliceable together into one cast line.
+ *
+ * Here rather than beside its only reader because the key is the thing that
+ * matters about it: a name spelled the way the master list above does not
+ * spell it finds nothing, silently. modules/ScenePrompt.js reads the file.
+ */
+export const CHARACTER_VOICES = path.join(ROOT, "glossaries", "character_voices.tsv");
+
 /** The one table worth reading, and where it stops. */
 const MASTER_LIST = "## Master Alphabetical List";
 

@@ -1,0 +1,33 @@
+# How a character talks, for the retranslation. Hand-written; this is the file
+# to edit. modules/ScenePrompt.js puts the rows for a scene's own cast into its
+# prompt, keyed by the English name the cast line carries -- the same key
+# glossaries/character_genders.md uses, so a name has to be spelled the way that
+# table spells it or nothing is found.
+#
+# Columns: the English name <TAB> how they speak <TAB> where it came from.
+#
+# This is about the voice and nothing else. Who somebody is, what they have
+# done and who they love are in the two sources below and are not repeated
+# here: a prompt has room for one line per speaker and the line has to be the
+# one that changes the English.
+#
+# Both sources are read rather than remembered, in this order:
+#
+#   card    archives/Rance10EX_v1_04/9_カード情報.x, コメント１-５ -- the game's
+#           own description of 302 named characters, already in English. The
+#           authority, and often about their history rather than their manner.
+#   wiki    the "Personality and Appearance" section of their page on the
+#           AliceSoft wiki. Longer, and about the whole series rather than this
+#           game, so where it disagrees with the card the card wins.
+#   asked   neither settled it and a person decided.
+#
+# The Japanese says it too, on every line: the pronoun (俺様 against 私), the
+# politeness, the sentence-final particle. A translator reading the scene has
+# that in front of them, which is why this file is a summary and not a rule --
+# it says what to listen for, and the line itself says the rest.
+#
+# 417 speakers have a line in the game and 24 of them say half of it. This file
+# is written from the top down and an entry missing is the normal case, not a
+# fault: the prompt prints the rows it has.
+Rance	Blunt, loud, crude. Gives orders and never asks; brags, mocks, and says exactly what he wants. Calls Sill his slave and means it. Never polite, never elaborate, never embarrassed.	card+wiki
+Sill Plain	Unfailingly polite and soft-spoken -- ですます to everyone, "Rance-sama" every time. Meek, apologetic, easily flustered and easily frightened, and cheerful about serving anyway. Never sarcastic, never coarse.	wiki

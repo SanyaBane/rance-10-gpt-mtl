@@ -26,7 +26,7 @@
  * fifty kilobytes of tables against a scene of a couple of kilobytes; what a
  * scene actually names is a dozen rows, and a dozen rows get read.
  */
-import {PLAYERS_CHOICE} from "./CharacterGenders.js";
+import {CHARACTER_VOICES, PLAYERS_CHOICE} from "./CharacterGenders.js";
 import {gameTextWidth, trackingFor} from "./GameFont.js";
 import {createNameFinder, mentions} from "./NameNormalizer.js";
 import {CARD_GLOSSARY} from "./Nameplates.js";
@@ -87,6 +87,14 @@ export const latinPerRow = () => Math.floor(
  */
 export const readSceneGlossaries = async () => ({
     names: await createNameFinder(),
+    /*
+     * How each of them talks. A prompt full of rules about what the English may
+     * not do, and nothing at all about how it should sound, gets exactly what
+     * it asks for: correct, inside the window, and lifeless. This is the other
+     * half, and it is keyed by the name on the cast line so the two print
+     * together.
+     */
+    voices: new Map(readGlossary(CHARACTER_VOICES).map(row => [row.japanese, row.english])),
     tables: [
         {title: "card and combat-log names", rows: readGlossary(CARD_GLOSSARY)},
         {title: "places", rows: readGlossary(PLACE_GLOSSARY)},
@@ -140,8 +148,9 @@ const glossaryFor = (scene, {names, tables}) => {
  * decides at ２部旅立ち and the game plays the same lines to both, so the line
  * has to work either way. modules/SceneAcceptance.js warns when it does not.
  */
-const castBlock = (scene) => scene.cast
-    .map(member => `- **${member.speaker}** (${member.stand}) -- ${member.gender}`)
+const castBlock = (scene, voices) => scene.cast
+    .map(member => `- **${member.speaker}** (${member.stand}) -- ${member.gender}`
+        + (voices.get(member.speaker) ? `. ${voices.get(member.speaker)}` : ""))
     .join("\n");
 
 /** The scene as the translator sees it: number, speaker, Japanese. No English. */
@@ -209,6 +218,40 @@ it leaves the line flush against the window edge while its neighbours are not.
 **Write the rest in plain ASCII.** The build rewrites ... for an ellipsis, a
 hyphen for a dash, straight quotes for curly ones, and strips accents, so
 writing them plainly is what you will get either way.
+
+**…… is "...", three dots.** Not one dot per Japanese character. 「ぐすっ……奴隷
+です……」 is "「Sniff... Your slave...」" and not "「Sniff...... Your slave......」";
+the second is a transcription of the source rather than a line of English, and
+it eats a quarter of the row.
+
+## How it has to sound
+
+This is a game script. Every line is somebody talking, or the narrator telling
+you what you just did. It is not a document, and the commonest way a careful
+translation of it goes wrong is by reading like one.
+
+**Use contractions.** "Break's over, let's go" is a man giving an order.
+"Break is over. We are moving." is an announcement at an airport. It is the
+same length and it is the wrong character. The apostrophe reaches the game
+intact -- there is no reason to avoid it, and a scene that comes back without
+one anywhere has been written in the wrong register throughout.
+
+**Keep whose line it is.** The speaker column and the cast list above say who is
+talking and how they talk; the Japanese says it too, in the pronoun and the
+ending. A diary written in polite ですます is *her* diary and stays first person
+-- 外では見ないような材質の壁に is "walls made of materials I've never seen
+outside", not "walls of a material never seen outside", which is a guidebook.
+A brute stays blunt. A child stays a child.
+
+**Do not trade a concrete word for a shorter one.** ミカン箱 is a tangerine box,
+not a crate; 不思議な遺跡 is a mysterious ruin, not a curious one; すりすりと撫でた
+is rubbing it *gently*. Length is a real constraint and it is not solved by
+blurring the noun -- it is solved by moving words between the rows of the
+speech, which you may do freely.
+
+**Honorifics stay.** -sama, -san, -chan, -kun as the Japanese has them; the rest
+of this patch writes -sama 3592 times. Do not translate one into "Lady" or
+"Lord" -- and especially not for El, whose gender the player picks.
 
 ## Rows and width
 
@@ -288,7 +331,8 @@ export const renderScenePrompt = (scene, glossaries, again = {}) => {
         parts.push(EL_RULE);
     }
 
-    parts.push("## Who is in it\n\n" + (castBlock(scene) || "- nobody: this scene is all narration.")
+    parts.push("## Who is in it\n\n"
+        + (castBlock(scene, glossaries.voices) || "- nobody: this scene is all narration.")
         + "\n\nThe speaker column below is one of these names, or `+` for another row of the speech"
         + " above, `-` for narration, `?` for a message with no speaker, and a trailing `~` for a"
         + " thought the game draws in （） rather than 「」.");
