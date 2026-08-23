@@ -141,10 +141,21 @@ await run(async () => {
     const written = new Map();
 
     for (const scene of scenes) {
+        // Keyed by the portrait as well as the name, because the plate does not
+        // always tell two people apart. 汎用ゼス男魔法兵 and 汎用ゼス女魔法兵 are
+        // both "Zeth Mage Soldier", and 25 scenes have both on stage; the same
+        // goes for 汎用男武士兵 against 汎用女武士兵 and for the four ポピンズ. A
+        // cast line per name would have to pick one of the two and would be
+        // telling a translator the wrong pronoun for half the lines.
         const cast = new Map();
         for (const line of scene.lines) {
-            if (line.speaker && !cast.has(line.speaker)) {
-                cast.set(line.speaker, line.stand);
+            if (!line.speaker) {
+                continue;
+            }
+            const stand = line.stand.split("／")[0];
+            const key = `${line.speaker}\t${stand}`;
+            if (!cast.has(key)) {
+                cast.set(key, {speaker: line.speaker, stand});
             }
         }
 
@@ -156,12 +167,12 @@ await run(async () => {
             cast: [],
             rows: [],
         };
-        for (const [speaker, stand] of cast) {
+        for (const {speaker, stand} of cast.values()) {
             const gender = genders.get(speaker);
             if (!gender) {
                 genderless.add(speaker);
             }
-            laidOut.cast.push({speaker, stand: stand.split("／")[0], gender: gender ?? "?"});
+            laidOut.cast.push({speaker, stand, gender: gender ?? "?"});
         }
 
         let previous = null;
