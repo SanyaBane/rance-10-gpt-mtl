@@ -5,6 +5,7 @@
     "scripts": {
         "release": "node scripts/release.js",
         "regenerate-ain": "node scripts/ain.js",
+    "extract-scenes": "node scripts/extract_scenes.js",
         "regenerate-card-names": "node scripts/generate_card_names.js",
         "regenerate-enemy-info": "node scripts/extract_enemy_info.js",
         "regenerate-enemy-party-names": "node scripts/extract_enemy_party_names.js",

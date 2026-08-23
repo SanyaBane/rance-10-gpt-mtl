@@ -118,14 +118,60 @@ export const checkNameplates = async () => {
     return {report: `${rows} nameplates`, misnamed};
 };
 
+/**
+ * The table as it stands: [portrait key, English], in file order.
+ *
+ * Order is part of the data rather than a detail of the reader. Resolve below
+ * takes the first row a portrait opens on, so two rows that both match settle
+ * it by which was written first -- the same way the game does.
+ */
+export const readPlateRows = async () => {
+    const rows = [];
+    for (const line of (await fs.readFile(NAMEPLATES, "utf-8")).split(/\r?\n/)) {
+        const row = PLATE_ROW.exec(line);
+        if (row && row[2]) {
+            rows.push([row[1], row[2]]);
+        }
+    }
+    return rows;
+};
+
+/**
+ * AdvNameResolver::Resolve: the name the dialogue window prints over a portrait.
+ *
+ * An exact row first, then the first row whose key the portrait name starts
+ * with, then the part before the ／ on its own -- 立ち絵名札マッピング情報 keys
+ * most characters by "サーナキア／" and a handful by a bare name, so all three
+ * steps earn their place. Null for a portrait the table does not name, which is
+ * not a fault: 汎用男性／基本 is a passer-by, and 大爆発 is an explosion.
+ *
+ * Built once and memoised, because a script asking this asks it a quarter of a
+ * million times over a thousand-row table.
+ */
+export const createNameplateResolver = async () => {
+    const rows = await readPlateRows();
+    const resolved = new Map();
+    return (stand) => {
+        if (resolved.has(stand)) {
+            return resolved.get(stand);
+        }
+        const head = stand.split("／")[0];
+        const name = rows.find(([key]) => key === stand)?.[1]
+            ?? rows.find(([key]) => stand.startsWith(key))?.[1]
+            ?? rows.find(([key]) => key === head || key === head + "／")?.[1]
+            ?? null;
+        resolved.set(stand, name);
+        return name;
+    };
+};
+
 /** Every English name the plate table has for a portrait key. */
 const readPlates = async () => {
     const plates = new Map();
-    for (const line of (await fs.readFile(NAMEPLATES, "utf-8")).split(/\r?\n/)) {
-        const row = PLATE_ROW.exec(line);
-        const key = row?.[1].split("／")[0];
-        if (key && row[2]) {
-            plates.set(key, [...plates.get(key) ?? [], row[2]]);
+    for (const [stand, english] of await readPlateRows()) {
+        const key = stand.split("／")[0];
+        if (key) {
+            plates.set(key, [...plates.get(key) ?? [], english]);
         }
     }
     return plates;
