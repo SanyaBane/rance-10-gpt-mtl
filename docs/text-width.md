@@ -136,5 +136,15 @@ number, the way `modules/SummaryLines.js` compares against `LONGEST_LINE`, and
 the units never have to be thought about.
 
 `getTextWidth` in `modules/TextNormalization.js` stays where it is: the dialogue
-wrapping hangs on it, and the dialogue window is a different measure that nobody
-has settled the same way.
+wrapping hangs on it, and rewriting that wrap would rewrite the whole `en_grok`
+patch. The dialogue window itself is settled now — 24 full-width characters by
+three rows, and 31 by two for the `●…Ｅ` commands' window — in
+`docs/message-window.md`, along with what that wrap costs: its budget works out
+to 31.2 full-width characters, so 17.6% of the rendered English is wider than
+the window it is drawn in.
+
+One thing from there that applies to any panel: **the tracking is per layout.**
+`TRACKING` here is the synopsis panel's `字間隔 4` at font 48. The message window
+says `文字間隔 -2` at font 57, which is negative, and measuring it with the
+default overstates every line by an eighth of a character. `trackingFor` exists
+for exactly that.

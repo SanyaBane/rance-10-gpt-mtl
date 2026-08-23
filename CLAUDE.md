@@ -105,6 +105,7 @@ faction — look it up:
 | `glossaries/mistranslated_names.json` | the canonical spelling, plus the wrong ones seen before |
 | `glossaries/card_name_glossary.tsv` | the same for everything that appears in a card Id |
 | `glossaries/character_genders.md` | who is which gender, for pronouns |
+| `glossaries/portrait_genders.tsv` | the same for the crowd portraits, keyed by the portrait |
 
 `ハニー` is a **Hanny**, not a Honey, and `ハニ子` is **Haniko**. Both went in as
 "Honey" anyway — as a race, as an enemy status line, and twice in
@@ -311,9 +312,18 @@ Measure with `gameTextWidth` from `modules/GameFont.js`, never with
 whose proportions are not the game's — it understates capital-heavy English by
 about a sixth, which on the synopsis panel is the difference between "no line is
 too wide" and 597 of them. It stays where it is only because the dialogue
-wrapping hangs on it, and the dialogue window is a different measure nobody has
-settled the same way. `docs/text-width.md` has the font, the two numbers that
-are not in it, and how to measure a panel that has not been settled yet.
+wrapping hangs on it and retuning that would rewrite the whole patch.
+`docs/text-width.md` has the font, the two numbers that are not in it, and how
+to measure a panel that has not been settled yet — and the tracking is per
+layout, so a measurement passes the layout's own `字間隔` through `trackingFor`
+rather than taking the default, which is the synopsis panel's.
+
+The dialogue window is settled too, in `docs/message-window.md`: 24 full-width
+characters by three rows, 31 by two for the `●…Ｅ` commands. Which matters for a
+retranslation, because the words of one speech may be moved between its rows
+freely — nothing reads a row alone, the backlog replays the same rows and the
+game has no voice — while the number of rows cannot change, because they are
+`MSG` operands in the bytecode.
 
 Then give the line somewhere to go. A caption too wide for one row of the
 synopsis panel is laid across two of the seven the panel draws, because there
