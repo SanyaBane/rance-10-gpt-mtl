@@ -4,6 +4,14 @@
 # glossaries/character_genders.md uses, so a name has to be spelled the way that
 # table spells it or nothing is found.
 #
+# That name is usually a character and sometimes a typed portrait: 汎用魔物兵緑
+# reaches the cast line as "Green Monster Soldier", a role many different
+# monsters speak from. Those keys come from the plate table by way of
+# glossaries/portrait_genders.tsv rather than from the master name list, so
+# looking one up in character_genders.md finds nothing and the row is still
+# right. A role's row describes the range and says to read the scene, because
+# that is all a role can honestly promise.
+#
 # Columns: the English name <TAB> how they speak <TAB> where it came from.
 #
 # This is about the voice and nothing else. Who somebody is, what they have
@@ -53,3 +61,17 @@ Sushinu the Gandhi	Timid and halting -- stammered openings, sentences that trail
 Maria Custard	Casual and warm -- 私, relaxed feminine endings, sighs and "geez". Brightens the moment the subject is machinery and will explain her own inventions at length. Grumbles at Rance's schemes and goes along with them anyway.	card+wiki
 Shuri Seihajuu Nagasaki	A tournament announcer at the microphone -- polite ですます, play-by-play in the past tense, sound effects, and a build-up before every reveal. Breezy and friendly off the mic, professionally neutral about who wins while making it perfectly obvious who she is rooting for.	card+wiki
 Monster Captain	Not one character but the game's generic plate for a Monster Army officer, so the exact register moves from scene to scene. Brutal and contemptuous by default -- 貴様 down at humans, threats and boasts, no eloquence and no courtesy for its own sake -- but clipped and deferential up the chain of command, and outright panic when reporting a disaster.	asked
+Green Monster Soldier	Rank and file, and never articulate -- short bursts, 俺 and お前, and a great deal of screaming, whether charging or dying. Boastful and greedy in a pack, instantly cowardly alone, openly lecherous about any woman in sight. "-sama" for whichever officer is above him. Never a complete thought where a shout will do.	asked
+Blue Monster Soldier	Rank and file, and never articulate -- short bursts, 俺 and お前, and a great deal of screaming, whether charging or dying. Boastful and greedy in a pack, instantly cowardly alone, openly lecherous about any woman in sight. "-sama" for whichever officer is above him. Never a complete thought where a shout will do.	asked
+Red Monster Soldier	Rank and file, and never articulate -- short bursts, 俺 and お前, and a great deal of screaming, whether charging or dying. Boastful and greedy in a pack, instantly cowardly alone, openly lecherous about any woman in sight. "-sama" for whichever officer is above him. Never a complete thought where a shout will do.	asked
+Monster General	A commander, so the register splits: 貴様 and flat contempt downward at humans and at his own troops, humble keigo upward at a Fiend or the Demon King. Composed and formal, given to pronouncements, and refuses to beg even when he is losing. Never crude the way the soldiers under him are.	asked
+Zeth Mage Soldier	A uniformed technician rather than a warrior -- 私, ですます, and no second-person pronoun to speak of. Reports readings and procedures precisely, defers to anyone senior with "-san", and stammers when startled. Technical vocabulary and a nervous, correct manner; never soldierly.	asked
+Hanny	Boyish and sunny -- 僕 and 君, never お前, and an exclamation for anything at all impressive. Agreeable, easily excited, polite without being formal, and completely unthreatening. Nagata-kun is the exception among hannies rather than the model: he is 俺 and お前, and these are not.	asked
+Green Hanny	As Hanny -- 僕, 君, cheerful and harmless -- but coarser at the edges, with the occasional 俺 and お前 that the plain hannies never use.	asked
+Man	No fixed register: an ordinary civilian man and nothing else, so the pronoun swings 俺／僕／私 and the manner runs from polite to vile depending on the scene. What is constant is that he has no rank, no title and no importance -- never make him grand. The scene decides the rest.	asked
+Free Cities Guard	Militia rather than soldiers, and it shows -- casual, chatty and undisciplined, as ready to admit they ran away as to gossip about somebody else's commander. 俺, easy familiarity in both directions, and no military bearing at all. Cheerful when nothing is happening and useless when something is.	asked
+Old Man	An elderly villager -- 儂, ～じゃ, and deferential keigo for anyone who looks important. Long-winded, apologetic, easily frightened, and grateful out of all proportion to what was done for him. Plain, old-fashioned English; never brisk and never modern.	asked
+Leazas Black Soldier	A regular under discipline: formal apology and report upward, flat orders sideways, and outright screaming when the line breaks. Rough around the edges when he speaks for himself. Correct rather than eloquent, and quick to panic.	asked
+Leazas Red Soldier	The elite corps, and earnest about it -- 我 and 貴方 rather than お前, no coarseness at all, and a taste for the formal, slightly archaic phrase when issuing a challenge. Loyal, sincere and a little stiff. Never mocks and never boasts.	asked
+Helman Soldier	A reporting voice above all -- terse confirmations, positions and numbers, officers named by rank rather than addressed as "you". Almost no first-person pronoun. Disciplined and impersonal on duty, and briefly human off it.	asked
+Helman Knight	An officer's version of the same: rank-conscious, "-sama" upward and お前 or 貴様 downward, and free with an opinion the ranks would keep to themselves. Formal but not refined, and undignified the moment he is actually hurt.	asked
