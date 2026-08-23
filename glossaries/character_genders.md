@@ -221,7 +221,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Beast Tiger | 魔獣タイガー | Male | RX |
 | Bernard Seramite | バーナード・セラミテ | Male | RX |
 | Bezeleye | ベゼルアイ | Female | RX |
-| Bintan Destra | ビンタン・デストラー | Male | RIII |
+| Bintan Destra / Bintan Destora | ビンタン・デストラー | Male | RIII |
 | Bird Lithfie | バード・リスフィ | Male | RQ RX |
 | Biscuitta Berns / Biscuitta Burns | ビスケッタ・ベルンズ | Female | RX |
 | Bitch Golch | ビッチ・ゴルチ | Male | RQ |
