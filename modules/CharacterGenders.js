@@ -76,12 +76,21 @@ export const spellingsInCell = (cell) => {
  * Those are the six answers a translator most needs, so they are passed through
  * as written rather than flattened.
  *
+ * "Player's choice" is the newest of them and the only one that is not a fact
+ * about a character. El Mofus is the protagonist of the second half and the
+ * player picks at ２部旅立ち -- 選択_２択 between ルート：性別＝男 and
+ * ルート：性別＝女, kept in the setting the game calls 主人公性別, and the game
+ * ships an エール２男Ａ card and an エール２女Ａ card for the same 識別名. So there
+ * is no answer to look up, and "?" would be the wrong way to say so: that means
+ * nobody has found out, and this is 575 lines where the English has to work
+ * either way on purpose.
+ *
  * A closed list rather than anything at all, because the row that has to stay
  * caught is the one whose columns are shifted: "Dark Wings (Freya faction)"
  * would otherwise file a faction under the gender "RX".
  */
 const GENDERS = new Set(["Male", "Female", "?", "Both", "Genderless", "Hermaphrodite",
-    "Male→Female", "Female→Male", "Male/Female"]);
+    "Male→Female", "Female→Male", "Male/Female", "Player's choice"]);
 
 /**
  * English name -> the gender column as written, plus the rows that cannot be read.

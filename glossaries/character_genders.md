@@ -144,6 +144,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | **Galtia** | Friendly, food-loving dark lord — **MALE** |
 | **Warg** | Harsh name — **FEMALE** |
 | **Lassie** | Warg's "pet dog", and she calls him one, which is how this row read Female for a long time. **MALE**: the game's own `8_カードデータ.x` gives ラッシー 性別=1, and the wiki writes "He was originally just a mass of Souls" and "His physical structure". |
+| **El Mofus** | **The player picks**, at ２部旅立ち: 選択_２択 between ルート：性別＝男 and ルート：性別＝女, kept as 主人公性別. There are an エール２男Ａ and an エール２女Ａ card for the same character. So El's 575 lines have to read either way — no he, no she, no "himself", and no "the young man". The player names El too, at the エール入力画面, which is why the dialogue writes ＜エール＞ rather than a name. |
 | **Mi Lordring** | Bishop of AL Church — **MALE** |
 | **Chochoman Publy** | Zeth Four Lord — **MALE** |
 | **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay" — fix to "Lord LeMay". |
@@ -263,6 +264,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Dolhan Cricket | ドルハン・クリケット | Male | RQ |
 | Don Doessky | ドン・ドエススキー | Male | RX |
 | Doss | ドッス | Male | RX |
+| El Mofus | エール・モフス | Player's choice | RX |
 | Eleanor Ran | エレノア・ラン | Female | RIII RX |
 | Elena Flower | エレナ・フラワー | Female | RX |
 | Elena L.R. | エレナ・エルアール | Female | RIV |
