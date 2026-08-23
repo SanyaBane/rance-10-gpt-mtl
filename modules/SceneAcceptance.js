@@ -66,6 +66,35 @@ const LONGER_THAN_DRAFT = 3;
 const SUBSTITUTIONS = ["＜エール＞"];
 
 /**
+ * Punctuation, which two lines of a gender branch differ in without differing.
+ *
+ * 「…………。」 against 「…………」 is 19 of the 25 pairs the current draft renders
+ * identically, and every one of them is right to: the game's two routes really
+ * do say the same nothing.
+ */
+const PUNCTUATION = /[「」（）｛｝【】、。！？…‥・゛゜\s]/g;
+
+/**
+ * Whether two lines of a gender branch differ in something English can carry.
+ *
+ * Two things are deliberately not a difference. Punctuation, above. And the
+ * last character of the line, which in Japanese is where the sentence-final
+ * particle sits and where a great deal of gendered speech lives: 置いてあるぞ
+ * against 置いてあるよ is the same sentence said by a man and by a woman, and no
+ * English renders it twice. 兄様 against 姉様, 弟 against 妹, 童貞 against 処女
+ * are all differences in the body of the line, and those are the ones a
+ * translation has to keep.
+ */
+const differsMaterially = (a, b) => {
+    const left = a.replace(PUNCTUATION, "");
+    const right = b.replace(PUNCTUATION, "");
+    if (left === right) {
+        return false;
+    }
+    return left.length !== right.length || left.slice(0, -1) !== right.slice(0, -1);
+};
+
+/**
  * Hold what came back against the scene it was asked about.
  *
  * @param {import("./SceneFile.js").parseSceneFile} scene the source scene
@@ -154,6 +183,46 @@ export const acceptTranslation = (scene, returned) => {
         if (row.english && text.length > row.english.length * LONGER_THAN_DRAFT) {
             warnings.push(`line ${lineNumber} is ${Math.round(text.length / row.english.length)}x`
                 + " the draft's length -- a note to the reader rather than a translation?");
+        }
+    }
+
+    /*
+     * A gender branch flattened into one sentence.
+     *
+     * The game plays a line inside "> male" to a player who made El a man and
+     * the line inside "> female" to one who made her a woman, and no player
+     * ever sees both. So two such lines with the same English throw the branch
+     * away: 深根 calls El 兄様 on one route and 姉様 on the other, and "big
+     * sibling" would be a translation of neither.
+     *
+     * This is the failure the scene format itself creates. Translated a line at
+     * a time, as the existing draft was, the two halves are a fortnight apart
+     * and get different English by accident. Handed a whole scene, a translator
+     * sees two nearly identical Japanese lines together, and the shorter way
+     * out is one sentence used twice -- which is what six lines of the current
+     * draft did while it still had the excuse of never having seen them.
+     *
+     * Every male line against every female one, rather than pairing them off.
+     * The blocks are not the same length -- 深根２／友情イベントＣ has 24 lines on
+     * one route and 29 on the other -- and any alignment guess would miss the
+     * pair that matters. What keeps that from crying wolf is
+     * differsMaterially, not the pairing.
+     */
+    const onRoute = (route) => scene.rows.filter(row => row.route === route);
+    for (const male of onRoute("male")) {
+        for (const female of onRoute("female")) {
+            const said = english.get(male.lineNumber);
+            if (!said || said !== english.get(female.lineNumber)) {
+                continue;
+            }
+            if (!differsMaterially(male.japanese, female.japanese)) {
+                continue;
+            }
+            problems.push(`lines ${male.lineNumber} and ${female.lineNumber} are both`
+                + ` ${JSON.stringify(said)}, but the game plays the first only to a male El and the`
+                + ` second only to a female one -- ${JSON.stringify(male.japanese)} against`
+                + ` ${JSON.stringify(female.japanese)}. Nobody sees both, so one English for the two`
+                + " is one of the two players reading the wrong line.");
         }
     }
 
