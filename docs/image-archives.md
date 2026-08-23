@@ -67,7 +67,7 @@ game's `Rance10CG2.afa`.
    destination.
 5. Pack into a scratch directory rather than straight over the game's copy:
 
-       alice ar pack CG2-raw\pack.manifest.txt
+       alice ar pack CG2-raw\Rance10CG2_manifest.txt
 
 6. Verify the result before installing it, the same way the `.ain` build is verified against the
    built file:
