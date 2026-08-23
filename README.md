@@ -5,7 +5,7 @@ https://haniwa.technology/alice-tools/README-ain.html
 
 So, apparently, with [alice-tools](https://github.com/nunuhara/alice-tools) it's _very_ easy to edit the text in the game to translate it.
 
-And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to translate the game with rather fine quality.
+And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to translate the game with rather fine quality. (What ships today is Grok's translation rather than ChatGPT's — the original one is still in git, under the `en_gpt-final` tag. See the text languages below.)
 
 Youtube recordings of the walkthrough with this English patch:
 https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
@@ -31,7 +31,7 @@ ______________________________________
 1. Install [node.js](https://nodejs.org/en)
 2. Run `npm i` to install dependencies
 3. Copy `.env.example` to `.env` and put your own paths in it: `GAME_DIR` is the game folder the build writes into, `ALICE_EXE` is your [alice-tools](https://github.com/nunuhara/alice-tools) binary. `.env` is gitignored, so these stay yours
-4. Run `npm run regenerate-ain` to replace your `%GAME_DIR%\Rance10.ain` with translated version (if the game sits under `C:\Program Files`, you will likely need to either open terminal as administrator for that or change the access of that folder to "Full Access" for "Everyone" group)
+4. Run `npm run regenerate-ain` to replace the `Rance10.ain` in the folder your `.env` calls `GAME_DIR` with the translated version (if the game sits under `C:\Program Files`, you will likely need to either open terminal as administrator for that or change the access of that folder to "Full Access" for "Everyone" group)
 5. Run `npm run regenerate-ex` to do same for the `Rance10EX.ex` file that translates skill descriptions, character descriptions, quests, and the synopsis screen
 6. Run `npm run regenerate-pack` to translate some UI elements, like settings menu (the archive it builds is already translated in the released patch, so this only matters if you edit `archives/Rance10Pact_v1_04`)
 
@@ -41,7 +41,27 @@ Those three commands write straight into your game folder. To build into a folde
 npm run release
 ```
 
-That puts one folder per text language into `build/release`: `en_grok/`, holding `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa`, and `jp/`, which holds one `Rance10.ain` — the game's own Japanese with the optional features over it and no translation anywhere. Each folder is a whole install: copy the contents of one of them into your game folder, over the files already there, and that is the patch. Each also carries a `custom_mods/` holding one empty file per optional feature that went in — the switch each of them reads, shipped already thrown, so the features work the moment the folder is copied in and turning one off is deleting a file rather than working out which one to create (`modules/CustomMods.js`, which also says why an install straight into the game folder deliberately gets none). And each carries a generated `README.md` saying which text it is, which version of the patch it is, what the files are and which file switches what — written by `modules/ReleaseReadme.js`, since a folder full of identically named files cannot show any of that by itself. `npm run release -- --text-lang=en_grok` builds just that one folder. The images are not in there — see two paragraphs down, they have no build command at all.
+That builds into `build/release`, one folder per language:
+
+- `en_grok/` — the English patch: `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa`.
+- `jp/` — one `Rance10.ain`, the game's own Japanese with the optional features over it and no
+  English anywhere.
+
+Each folder is a complete install on its own. Copy what is inside one of them into your game folder,
+over the files already there, and that is the patch — there is nothing to assemble out of two
+places.
+
+Two more things are in each folder. `custom_mods/` holds one empty file per optional feature, and
+those files are the switches, shipped already turned on — so the features work the moment you copy
+the folder in, and turning one off means deleting a file instead of working out which one to create.
+`README.md` says which language the folder is, which version of the patch it is, what each file
+holds and which file switches what, since a folder of identically named files cannot show any of
+that by itself. Both are generated: `modules/CustomMods.js` and `modules/ReleaseReadme.js`.
+
+To build just one of the folders, use `node scripts/release.js --text-lang=en_grok`. The npm
+spelling of that flag is unreliable — PowerShell quietly turns it back into the default.
+
+The images are not in there. They have no build command at all; see the image archives below.
 
 Where a build goes is two flags, and which text it carries is a third — all of them on `release`, and on any one of the three commands above:
 
@@ -64,15 +84,44 @@ Quote a path that has a space in it, the way the last line does. Without the quo
 
 Use `node scripts/...` for this rather than `npm run release -- --out=...`: in PowerShell the bare `--` disappears and you quietly get `build/release` instead.
 
-There is more than one text the game can be built with. `npm run regenerate-ain` builds `en_grok`, the whole script put through Grok in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), and `TEXT_LANG` in `.env` changes which one you get by default. The other folder is `jp`, which is no translation at all: `node scripts/ain.js --text-lang=jp` builds the game's own Japanese with the `features/` patches over it and no English anywhere, for playing or testing a change to how the game behaves without installing a translation with it. (The npm spelling of the flag, `npm run regenerate-ain -- --text-lang=jp`, works in cmd.exe and bash but not in PowerShell, which eats the bare `--` and quietly builds the default instead.) There was a second translation, `en_gpt`, the one this repository shipped from the beginning; it was removed once nobody built it, and lives in git under the `en_gpt-final` tag. See [docs/text-languages.md](docs/text-languages.md) for what a text language is made of, how to add one, and how to read a line back out of that one.
+The game can be built with more than one text, and there are two to choose from.
+
+`en_grok` is the English one, and the default: the whole script put through Grok in
+[the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork). `npm run regenerate-ain`
+builds it, and `TEXT_LANG` in `.env` changes which one you get without passing a flag.
+
+`jp` is no translation at all — the game's own Japanese with the `features/` patches over it and no
+English anywhere. Build it with `node scripts/ain.js --text-lang=jp`. It is for playing or testing a
+change to how the game behaves without installing a translation along with it. (Use the `node`
+spelling: `npm run regenerate-ain -- --text-lang=jp` works in cmd.exe and bash, but PowerShell eats
+the bare `--` and quietly builds the default instead.)
+
+There used to be a third, `en_gpt`, the translation this repository shipped with at the beginning.
+It was removed once nobody was building it, and it is still in git under the `en_gpt-final` tag.
+[docs/text-languages.md](docs/text-languages.md) has what a text language is made of, how to add
+one, and how to read a line back out of that removed one.
+
+## What the patch translates
+
+Most of the patch is dialogue, and that part is easy: swap the Japanese line for an English one.
+
+Everything below was harder. In each of these the Japanese is not only text — it is also a key
+your save file stores progress under, or a word the game's own code compares against, or a picture
+rather than a string. Replace it and something breaks: ranks read back as zero, cards turn into
+black rectangles, an image the game asks for is not there. So each of these needed a way around,
+and each section says which one.
+
+### The images
 
 The images are English too, in `archives/Rance10Flat_v1_04` and `archives/Rance10CG2_v1_04`, and they are the one thing here with no command. `ar pack` rebuilds an archive out of every entry it holds rather than patching the one file you changed, so packing either of those needs the game's own copy of the thousands of images nobody translated — half a gigabyte the repository cannot carry. See [docs/image-archives.md](docs/image-archives.md) for how each is packed, and what a mistake costs you.
+
+### Character names and card labels
 
 Character names and card labels are English too, but they cannot simply be translated in the data: a character's `識別名` and a card's `Id` double as the keys your save file stores rank and event progress under, so translating them makes every rank read back as zero. Instead `patches/card_names.jaf` patches the two display accessors to look the English text up in the `識別名情報` tree, keeping the keys Japanese. `npm run regenerate-ain` applies it, and nothing extra is needed to build.
 
 The English text itself is generated by `npm run regenerate-card-names`, whose output is committed — you only need to re-run it after changing `glossaries/card_name_glossary.tsv`, `glossaries/mistranslated_names.json` or the `archives/Rance10EX_v1_04` tables it reads. See [docs/card-name-localization.md](docs/card-name-localization.md) for how it works and what breaks if you get it wrong.
 
-The race on that same panel is English from `glossaries/race_name_glossary.tsv`, but as a patched function rather than patched text: six of the nineteen race names are also keys or names elsewhere — translating `モンスター` where it sits turns every monster card into a black rectangle — so the build overrides the accessor instead, the way `patches/card_names.jaf` does, and every string keeps its Japanese. `npm run regenerate-race-names` re-reads the race numbers out of the `.ain`; `npm run regenerate-ain` generates the `.jaf` and applies it. See [docs/race-names.md](docs/race-names.md).
+### The synopsis screen
 
 The synopsis screen — the recap `あらすじモード` shows for an event you have already seen — is English from
 `glossaries/summary_glossary.tsv`, all 4458 captions of it. `npm run regenerate-ex` writes them in as it builds, into a copy of
@@ -81,26 +130,146 @@ so a table with the English written over it would match nothing on the next buil
 that screen is the caption beside the panel, which is painted into an image in `Rance10CG4.afa` rather than stored as
 text. See [docs/synopsis-screen.md](docs/synopsis-screen.md).
 
-The Location plate across the top of the quest map is English from `glossaries/place_name_glossary.tsv` — 254 names, from `スルメ山` to `首都　ラングバウ`. The frame with the word `Location` on it had been redrawn years ago and the name inside it never was, because it lives in `archives/Rance10EX_v1_04/5_クエストデータ.x` beside the quest descriptions somebody did translate. `npm run regenerate-ex` writes the English into a copy of the table the same way the synopsis is done. One value is left alone: `地名 = "ランス城"` is not a name but a sentinel the code compares against to draw whichever of four names the castle goes by at that point in the story, so the 25 rows saying it keep their Japanese until a `.jaf` override takes over the accessor. The plate is 458 pixels wide and nothing clips, so the build measures every name and says which run over the `Location` label and which leave the plate. See [docs/place-names.md](docs/place-names.md).
+### The Location plate on the quest map
+
+The 254 place names on that plate come from `glossaries/place_name_glossary.tsv`. The frame with the
+word `Location` on it had been redrawn into English years ago; the name sitting inside it never was,
+because it lives in `archives/Rance10EX_v1_04/5_クエストデータ.x`, beside quest descriptions somebody
+had translated. `npm run regenerate-ex` writes the English into a copy of that table, the same way
+the synopsis is done.
+
+One value is left in Japanese on purpose. `地名 = "ランス城"` is not a name at all but a marker: the
+code compares against it to decide which of the four names Rance Castle goes by at that point in the
+story. So the 25 rows saying it keep their Japanese, until a `.jaf` override takes the accessor over.
+
+Nothing on this plate clips — a name too long simply runs out over the `Location` label and off the
+frame — so the build measures every name against the plate's 458 pixels and reports the ones that do
+not fit rather than cutting them. See [docs/place-names.md](docs/place-names.md).
+
+### The race on the enemy status panel
+
+The race under an enemy's name is English from `glossaries/race_name_glossary.tsv`, but as a patched function rather than patched text: six of the nineteen race names are also keys or names elsewhere — translating `モンスター` where it sits turns every monster card into a black rectangle — so the build overrides the accessor instead, the way `patches/card_names.jaf` does, and every string keeps its Japanese. `npm run regenerate-race-names` re-reads the race numbers out of the `.ain`; `npm run regenerate-ain` generates the `.jaf` and applies it. See [docs/race-names.md](docs/race-names.md).
+
+### The four hint lines under an enemy's stats
 
 The four hint lines under an enemy's stats in battle are English too, from `glossaries/enemy_info_glossary.tsv`. They are string literals rather than dialogue, and they sit in the dump among every enemy's internal code name, so which ones they are is found in the code rather than by reading: `npm run regenerate-enemy-info` does that and writes `game/extracted/enemy_info_lines.v1.04.tsv`, which is committed and only needs re-running after the `.ain` changes. `npm run regenerate-ain` applies them. See [docs/enemy-status-lines.md](docs/enemy-status-lines.md).
 
-The name over the enemy's own HP bar is English as well, from `glossaries/enemy_party_glossary.tsv` — 231 of them, from `魔物兵` to `魔王ケイブリス`. Like the races, they are a patched function rather than patched text: 45 of those names share a string slot with something else and 14 of those are keys — `ジャハルッカス` is the card Id the card box is filled from — so the build overrides `Enemy@Id::get` and every string keeps its Japanese. The override also tidies what the game appends to a name: a group reads `Monster Soldiers ×25` rather than `Monster Soldiers(25匹)`. `npm run regenerate-enemy-party-names` re-reads the names out of the `.ain`; `npm run regenerate-ain` generates the `.jaf` and applies it. See [docs/enemy-party-names.md](docs/enemy-party-names.md).
+### The two card Ids on that same panel
 
-The plate at the other end of the same screen — the name over your own HP bar — is English too, and it is the one surface here that needed no new machinery. `Party@Name::get` returns one of four strings depending on how far the story has got, and none of them is a key or is compared by anything, so they are translated where they sit in `patches/system_cherry_picks.v1.04.ain.txt`: `ランス部隊` is the Rance Squad, then the Fiend Extermination Squad, the Demon King Extermination Squad and the Combined Squad, keeping the `隊` the Japanese keeps on all four. An override could not have done it anyway, since the second of those strings is also the army's name on the war map and that is pushed straight out of `Ｔ武将計算` rather than through the accessor. The 201 dialogue lines that say the same word — spelled twenty-five different ways — are brought into line at build time by an entry in `glossaries/mistranslated_names.json` rather than one by one. See [docs/party-name.md](docs/party-name.md).
+The same panel names two cards: the one an enemy is captured as, and the one it can be stolen from.
+Both are in English, and unlike the optional feature further down, this is in every build.
 
-That panel is also up more often than the game puts it there, if you ask for it. Everything on it — the race, the four hint lines, the capture and steal rates — is drawn by `EnemyInformationView`, and the game shows that view from exactly one place: the effect behind `アナライズ`, the Analyze skill, and nothing else. `features/enemy-panel/enemy_info_panel.jam` adds the same call to `SceneBattle@ShowRound`, so the panel comes up at the start of every round and stays up whether or not anybody in the party can Analyze. It is a `.jam` — one hand-assembled function — rather than a `.jaf` because the call is on a member of `SceneBattle`, and alice-tools' `.jaf` compiler resolves neither `this` nor a struct's own members inside an override. Switching it on is a file rather than a build: create `custom_mods\enemy_panel_on` in the game folder, beside `Rance10.exe`, and delete it to go back to the panel being what Analyze shows. `features/enemy-panel/enemy_info_panel.jaf` is the half that reads it, at the start of every round, so it takes effect without restarting the game. Whether it is built in at all is the other question, and a separate one: `npm run regenerate-ain` puts it in and `node scripts/ain.js --without=enemy-panel` leaves it out, which goes for a release folder too — every `Rance10.ain` a release builds carries the features, because the switch above is what decides whether this one does anything. `features/` is where those names come from — one folder per feature, this one's being `features/enemy-panel/`, which holds both files above and the `feature.js` that names them.
+Those two are Ids rather than names — the keys `CardGenerator` builds a captured card out of, and
+the ones a treasure chest is filled from. Translate them where they sit and the capture breaks while
+the panel goes on looking perfectly right. So `EnemyInformationView@SetParam` is patched instead, to
+run each Id through the same tree the card plates already read, and every string keeps its Japanese.
+Nothing here needs translating or switching on: the English is the card plate's own, already there.
 
-`patches/enemy_panel_cards.jam` draws one more thing on that panel, and this one is in every build: the two card Ids the panel draws — the card an enemy is captured as, and the one it can be stolen from — in English. They are Ids rather than names, the keys `CardGenerator` builds the captured card out of and the treasure chest is filled from, so translating them where they sit would break the capture and leave the panel looking right. `EnemyInformationView@SetParam` is patched instead, to run each Id through the same tree the card plates read, and every string keeps its Japanese. There is nothing to translate and nothing to switch on: the English is the plate's own, already there. It shared a file with the panel patch above until that became optional, and was split out then — this is translation, and leaving out a change to how the game plays should not cost you any of it. See [docs/card-name-localization.md](docs/card-name-localization.md).
+It used to share a file with the enemy-panel feature, and was split out when that feature became
+optional — this is translation, and declining a change to how the game plays should not cost you any
+of it. See [docs/card-name-localization.md](docs/card-name-localization.md).
 
-The other feature in `features/` changes what two skills *do* rather than what anything says. `調理準備` — Meal Preparation, Martina's Lv7 skill and Varen's second — and `菓子作り`, Sweets Making, both place the meal-ticket buff and both roll for it first: 75% and 80%, out of the `確率` column of `11_スキルデータ.x`, which is what `ＭＩＳＳ（skill activation failed）` in the battle log means under either of them. It is not an accuracy roll and `必中` would not help — both are `処理` 7, Preprocess, with nothing to hit — so `features/reliable-cooking/` replaces the number rather than the outcome, in `PlayerSkill@PerSkill::get`, and `RAND(100) <= 100` cannot lose. It is a `.jam` for the same reason the panel above is, with one difference worth writing down: the obvious hook is `SceneBattle@CheckSkillPer`, which takes the action as an argument and needs no `this` at all, and it *still* will not compile as a `.jaf` — `action.Skill` is a property rather than a field, and alice-tools reaches those through neither. The switch is `custom_mods\reliable_cooking_on`, read as the skill fires, and `node scripts/ain.js --without=reliable-cooking` is how it stays out of a build. The two descriptions are deliberately left saying 75% and 80%: they are rows of `archives/Rance10EX_v1_04/11_スキルデータ.x`, a `.x` edit cannot be left out of a build the way a `.jaf` and a `.jam` can, and a gameplay change nobody can decline is not a feature. [docs/cooking-skill-chance.md](docs/cooking-skill-chance.md) has the four functions the roll passes through, and why 75 is the game's own number rather than a forward-port losing a digit.
+### The name over the enemy's HP bar
 
-The third feature is one line of the treasure chest arithmetic. Every won battle rolls `RAND(100)` against a sum of five bonuses, and one of them is `%sで初トドメ`, First Finisher: +50 the first time a character takes a killing blow in a quest, and nothing on any later kill by that same character — a rule you collect by rotating who lands the last hit, which is bookkeeping rather than a decision. `features/always-first-finisher/` pays it every battle instead, whoever finished. The flag it turns off is `Character.IsFinishAttack`, a member that exists for this bonus and nothing else: it is read from exactly one place in the whole `.ain`, `BattleBonusCalculator::CalcTreasure`, and read through its accessor rather than as a field — so overriding `Character@IsFinishAttack::get` to answer `false` reaches that one `if` and nothing else in the game can notice. That also makes it the one feature here that is a `.jaf` and nothing else: a property getter needs neither `this` nor a caller's argument, which is what sent the two above to hand-written assembly. The switch is `custom_mods\always_first_finisher_on`, read as the result screen is calculated, and `node scripts/ain.js --without=always-first-finisher` is how it stays out of a build. With it on, the result screen lists First Finisher +50 after every won battle — the caption and the name in it are both already English, so nothing had to be translated for it. [docs/treasure-chest-chance.md](docs/treasure-chest-chance.md) has the rest of that arithmetic: the other four bonuses, the boss bonus that makes the chest certain on its own, and the one case the feature deliberately leaves alone.
+The 231 enemy names come from `glossaries/enemy_party_glossary.tsv`, and like the races they are a
+patched function rather than patched text. 45 of them share a string slot with something else, and
+14 of those are keys — `ジャハルッカス`, for instance, is the card Id a card box is filled from. So the
+build overrides `Enemy@Id::get` and every string keeps its Japanese.
 
-The fourth feature changes what a rank is worth. Two things hand a character a rank outright — the `ＥＸＰ` tile on a quest map, and the in-battle effect behind `<Player>がランクアップ！` — and both work out what is missing from the next rank and give exactly that, so the bar is empty afterwards. Which makes the rank-up worth least to whoever has earned the most toward it: a character 99% of the way there collects a single point of experience, and getting a tile's full value means spending it on somebody who has just ranked up, which is bookkeeping rather than a decision. `features/rank-up-keep-progress/` hands over the whole price of the rank instead, so what was already earned stays in the bar — rank 22 at 545 of 814 becomes rank 23 at 545 of 895 rather than 0 of 895. It carries the points rather than the percentage, which drifts down about a tenth of a rank each time because each rank costs 1.1× the one below it; holding the percentage exactly would mean float arithmetic at both sites, and this needs none at all. Both sites are `.jam` — methods reading their own struct members, the same wall the panel above hit — over one shared `.jaf`, and what each gains is a single `CALLFUNC` between the `c.Exp` read and the `SUB` that was already there: the switch answers `0` in place of `c.Exp` and the subtraction stays where it was, which is what makes a build carrying the feature with no switch file instruction-for-instruction identical to the game's own. The switch is `custom_mods\rank_up_keep_progress_on`, read as the rank is awarded, and `node scripts/ain.js --without=rank-up-keep-progress` is how it stays out of a build. [docs/rank-up-keep-progress.md](docs/rank-up-keep-progress.md) has the arithmetic, the alternative it did not take, and the four places it deliberately leaves alone.
+The override also tidies up what the game adds after a name: a group reads `Monster Soldiers ×25`
+instead of `Monster Soldiers(25匹)`. `npm run regenerate-enemy-party-names` re-reads the names out of
+the `.ain`, and `npm run regenerate-ain` generates the `.jaf` and applies it. See
+[docs/enemy-party-names.md](docs/enemy-party-names.md).
 
-The achievement names on the 実績 screen are English from `glossaries/trophy_name_glossary.tsv`, and the bonus each one grants from `glossaries/trophy_bonus_glossary.tsv`. A trophy's Id is both the string that screen draws and the key your save file records a completed one under, so translating it would read every achievement you have earned back as unearned and take the clear points and the permanent stat bonuses with it. `npm run regenerate-ex` writes the English in beside the Japanese instead, and `patches/trophy_names.jaf` — applied by `npm run regenerate-ain` — reads it back at the one label setter both the list and the panel go through; you need both commands, since either alone leaves the screen exactly as it was. A row is two columns, the name and a `★` bonus flag pinned to a fixed column by padding, and the build measures every name against what the Japanese uses and says which are over rather than cutting them. See [docs/trophy-names.md](docs/trophy-names.md).
+### The name over your own HP bar
 
-The date the game counts turns in is English too — `LP 7 Dec, early` where it used to say `ＬＰ７年１２月前半`. It is built rather than stored: `GameYear@ToString` fills `%s%D年%D月%s` from four accessors, and the turn-start banner, the corner frame, the ADV box and the brave-mode caption all draw what it returns, so one patch covers the four of them. It has to be a patch rather than translated text because two of those four pieces are `前半` and `後半`, and the war-result screen pushes the same two slots into `シス／戦況／年月／%s` to name a picture — `シス／戦況／年月／前半.ajp` is a real entry in `Rance10CG2.afa`, and an English slot there asks for one that is not. So every string keeps its Japanese and `patches/lp_date.jam` re-emits the function, calling `patches/lp_date.jaf` for the era, the month name and the half. The `.jam` is there for a reason worth knowing if you write the next one: `GameYear` keeps its year, month and half as properties, and alice-tools' `.jaf` compiler answers `Invalid struct member name` to every spelling of a read, so the month could not be turned into `Dec` inside an override. `npm run regenerate-ain` applies both and nothing else is needed. See [docs/lp-date.md](docs/lp-date.md).
+The plate at the other end of the same screen is the one surface here that needed no new machinery.
+`Party@Name::get` returns one of four strings depending on how far the story has got, and not one of
+them is a key or is compared against anything — so they are simply translated where they sit, in
+`patches/system_cherry_picks.v1.04.ain.txt`. `ランス部隊` is the Rance Squad, then the Fiend
+Extermination Squad, the Demon King Extermination Squad and the Combined Squad, all four keeping the
+`隊` the Japanese keeps.
 
-The rest of `docs/` is the write-ups those paragraphs link to, plus the ones that nothing here builds. [docs/coherence-sweep.md](docs/coherence-sweep.md) is twelve sessions of reading the translated dialogue line by line by hand, kept for the taxonomy of errors it arrived at rather than as instructions to follow. [docs/party-total-hp.md](docs/party-total-hp.md) is the same for the party's Total HP: where the number comes from, why rearranging the party mid-battle does not move it, what else in the game reads it, and the replacement formula worked out but not yet built. [docs/battle-experience.md](docs/battle-experience.md) is the same for the experience a battle pays out: the formula and its five bonuses, and why the characters who collect it are the ones standing in the party when the result screen appears rather than the ones who fought — so swapping the party in before the last hit hands the whole amount to characters who were not there. Four ways of changing that are costed at the end of it; none is built. [docs/clear-point-bonuses.md](docs/clear-point-bonuses.md) is a short note off the back of that one: what the new-game-plus points buy, and why spending them on extra party slots is the worst of the available splits. [docs/shuriken-target-choice.md](docs/shuriken-target-choice.md) is the furthest from built of them: whether the player could pick which of the enemy's queued actions a shuriken tries to cancel, instead of the game picking at random. The answer is that the icons in that row are already clickable objects that know their own index, so the cheap version is three files and no new UI — and that the version the question literally asks for, a chooser when the skill fires, needs a scene class the game has nothing to lend. It is an investigation and a low-priority todo, not a plan. [docs/number-format.md](docs/number-format.md) is the newest of them: why the war panels count in myriads — `総兵力 26万0000人` for 260,000 troops — and what it would take to make them count in thousands. The format is four constants inside one class in the `.ain`, so the code half is a `.jam` of substituted numbers; what stops it is that there is no comma anywhere in `Rance10CG2.afa` and the digit sheets are ten cells wide, so a Western separator is a picture that has to be drawn and an archive that has to be repacked. It also records what the two alice-tools builds will and will not compile against a class like this, which is the part worth having whether or not the number format is ever changed. [docs/corpus-alignment.md](docs/corpus-alignment.md) is newer still, and the one of these that is about the translation rather than the game: whether a corpus record's Japanese is really the game's line for the number it carries. 5082 of them are not, almost all of that a dropped closing bracket — but 158 lines across six scenes were showing the *next* line's English, and 386 records carried the *next* line's Japanese, which is the field the name repairs read. Both are what comes of measuring a duplicated line number against its other copy instead of against the game's own dump.
+An override could not have done this anyway: the second of those strings is also the army's name on
+the war map, and that one is pushed straight out of `Ｔ武将計算` rather than through the accessor.
+
+201 dialogue lines say the same word, spelled twenty-five different ways between them. They are
+brought into line at build time by a single entry in `glossaries/mistranslated_names.json` rather
+than edited one by one. See [docs/party-name.md](docs/party-name.md).
+
+### The achievements screen
+
+The achievement names on the 実績 screen come from `glossaries/trophy_name_glossary.tsv`, and the
+bonus each one grants from `glossaries/trophy_bonus_glossary.tsv`.
+
+A trophy's Id is two things at once: the string that screen draws, and the key your save file
+records a completed trophy under. Translate it and every achievement you have earned reads back as
+unearned — taking the clear points and the permanent stat bonuses with it. So `npm run regenerate-ex`
+writes the English in beside the Japanese instead, and `patches/trophy_names.jaf`, applied by
+`npm run regenerate-ain`, reads it back at the one label setter both the list and the panel go
+through. You need both commands: either one alone leaves the screen exactly as it was.
+
+A row is two columns — the name, and a `★` bonus flag held at a fixed column by padding. The build
+measures every English name against the width the Japanese used and reports the ones that are over
+rather than cutting them. See [docs/trophy-names.md](docs/trophy-names.md).
+
+### The date
+
+The date the game counts turns in reads `LP 7 Dec, early` where it used to say `ＬＰ７年１２月前半`.
+It is assembled rather than stored: `GameYear@ToString` fills `%s%D年%D月%s` from four accessors, and
+the turn-start banner, the corner frame, the ADV box and the brave-mode caption all draw whatever it
+returns — so one patch covers all four places.
+
+It had to be a patch rather than translated text. Two of those four pieces are `前半` and `後半`, and
+the war-result screen pushes those same two strings into `シス／戦況／年月／%s` to name a *picture*:
+`シス／戦況／年月／前半.ajp` is a real entry in `Rance10CG2.afa`, so an English string there would ask
+the game for a file that does not exist. Every string therefore keeps its Japanese, and
+`patches/lp_date.jam` re-emits the function, calling `patches/lp_date.jaf` for the era, the month
+name and the half.
+
+Why a `.jam`, if you come to write the next one: `GameYear` keeps its year, month and half as
+properties, and alice-tools' `.jaf` compiler answers `Invalid struct member name` to every spelling
+of a read — so the month could not be turned into `Dec` inside an override.
+`npm run regenerate-ain` applies both, and nothing else is needed.
+See [docs/lp-date.md](docs/lp-date.md).
+
+## Optional features
+
+These four change how the game *plays*, not what it says, so you can take them or leave them.
+
+There are two switches, and a feature only works when both are on. The first is the build:
+`npm run regenerate-ain` puts all four features into `Rance10.ain`. The second is a file next to
+`Rance10.exe`, which the game looks for while the feature is firing: create the file and the feature
+works, delete it and the game behaves exactly as it always has. Neither switch needs the game
+restarted.
+
+A release folder comes with those files already made, so its features work as soon as you copy the
+folder in. Installing straight into your game folder makes none of them — those files are the
+player's to create.
+
+| Feature | What it changes | The file that switches it |
+|---|---|---|
+| [`enemy-panel`](features/enemy-panel/README.md) | the enemy status panel at the start of every round, not only after Analyze | `custom_mods\enemy_panel_on` |
+| [`reliable-cooking`](features/reliable-cooking/README.md) | Meal Preparation and Sweets Making always work, instead of failing a quarter of the time | `custom_mods\reliable_cooking_on` |
+| [`always-first-finisher`](features/always-first-finisher/README.md) | the +50 First Finisher treasure bonus on every battle, whoever lands the kill | `custom_mods\always_first_finisher_on` |
+| [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md) | a rank-up keeps the experience already accumulated toward it, instead of emptying the bar | `custom_mods\rank_up_keep_progress_on` |
+
+Each feature is one folder under `features/`, and its README there says what it does, how it is
+built and what it cost. To build without one of them:
+
+```
+node scripts/ain.js --without=enemy-panel
+```
+
+## The rest of `docs/`
+
+Every section above links its own write-up. These are the remaining ones, about things the patch
+does *not* change — questions that were looked into and left alone, and one post-mortem:
+
+- [docs/coherence-sweep.md](docs/coherence-sweep.md) — twelve sessions of reading the translated dialogue line by line by hand. Kept for the taxonomy of errors it arrived at rather than as instructions to follow.
+- [docs/party-total-hp.md](docs/party-total-hp.md) — where the party's Total HP comes from, why rearranging the party mid-battle does not move it, what else in the game reads it, and the replacement formula worked out but not built.
+- [docs/battle-experience.md](docs/battle-experience.md) — the experience a battle pays out, its five bonuses, and why the characters who collect it are the ones standing in the party when the result screen appears rather than the ones who fought. Four ways of changing that are costed at the end; none is built.
+- [docs/clear-point-bonuses.md](docs/clear-point-bonuses.md) — a short note off the back of that one: what the new-game-plus points buy, and why spending them on extra party slots is the worst of the available splits.
+- [docs/shuriken-target-choice.md](docs/shuriken-target-choice.md) — whether the player could pick which of the enemy's queued actions a shuriken tries to cancel, instead of the game picking at random. The icons in that row are already clickable objects that know their own index, so the cheap version is three files and no new UI; the version the question literally asks for needs a scene class the game has nothing to lend. An investigation and a low-priority todo, not a plan.
+- [docs/number-format.md](docs/number-format.md) — why the war panels count in myriads, `総兵力 26万0000人` for 260,000 troops, and what it would take to make them count in thousands. The code half is a `.jam` of substituted constants; what stops it is that there is no comma anywhere in `Rance10CG2.afa` and the digit sheets are ten cells wide, so a Western separator is a picture somebody has to draw. It also records what the two alice-tools builds will and will not compile against a class like this, which is the part worth having whether or not the format ever changes.
+- [docs/corpus-alignment.md](docs/corpus-alignment.md) — the one of these that is about the translation rather than the game: whether a corpus record's Japanese is really the game's line for the number it carries. Thousands of them are not, and almost all of that is a dropped closing bracket that nobody ever sees — but 158 lines across six scenes were showing the *next* line's English, and 386 records carried the *next* line's Japanese, which is the field the name repairs read. Both are what comes of measuring a duplicated line number against its other copy instead of against the game's own dump.
