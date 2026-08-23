@@ -32,6 +32,24 @@ switching on the `viewType` each ADV command passes:
 | `●ト書きＥ`, `●台詞Ｅ`, `●思考Ｅ` | `MessageWindow02` | 2 |
 | the backlog | `MessageWindowHistory` | 18 |
 
+That is the switch, and the switch is not the whole answer: a scene can change
+the frame under it. `CALLFUNC ■歴史枠` does, and it happens **once** in the
+whole 60 MB of bytecode -- before the chronology in `６０１／プロローグ`, the
+scrolling history of everything since Rance became Demon King. The 311 lines
+after it run up to 41 full-width characters and are not in `MessageWindow01`
+whatever their `viewType` says. Nothing else in the game does this: of the
+`■…枠` commands only `■枠消し` is otherwise used, 3548 times, and that one
+clears rather than switches.
+
+Worth knowing because those 311 lines look like the counter-evidence to
+everything below -- 41 characters in a box that holds 24 -- and they are not
+in the box. Held out of the census, the game's own Japanese in
+`MessageWindow01` runs over 24 on 3.89% of lines, and 4562 of those 9783 are
+in functions named `t…`, which are the writer's notes to the scripter rather
+than dialogue: `（的なことを言ってる）`, `大南さん判断に任せます`, once a bare
+`if (確認("パットンが居る")==1)`. Over the scenes that are not those, it is
+2.20%, and the widest line the window really draws is 50.
+
 `MessageWindow01` draws 93.3% of the dialogue. 411 scenes use both it and the
 event window, so which window a line is in is a property of the line and not of
 the scene.
