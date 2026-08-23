@@ -44,6 +44,28 @@ const CONTROL = /[\t\r\n]/;
 const LONGER_THAN_DRAFT = 3;
 
 /**
+ * Text the game replaces at runtime, which a translation has to carry through
+ * rather than resolve.
+ *
+ * ＜エール＞ is the name the player types at the エール入力画面 -- GameChapter2@Init
+ * registers it into the game context, and 1522 lines of dialogue are written
+ * around it. The existing draft resolved it to the literal "El" in 1474 of
+ * them, so a player who named their character anything else reads somebody
+ * else's name in every one. Nothing about that is visible in the English on its
+ * own, which is exactly why it survived a whole translation.
+ *
+ * A named list rather than a rule about ＜…＞ generally, because the game writes
+ * its sound effects that way too -- ＜コンコン……＞ is a knock at the door, 679
+ * distinct ones, and those are meant to be translated inside the brackets.
+ * Being inline rather than a line of its own does not separate them either: 76
+ * tokens only ever appear inline and 75 of those are onomatopoeia. The four
+ * other bracketed literals in the code -- ＜ナギ＞, ＜志津香＞, ＜ケイブニャン＞,
+ * ＜ケイブワン＞ -- belong to AssistantMessageView's colouring and appear in no
+ * line of dialogue at all.
+ */
+const SUBSTITUTIONS = ["＜エール＞"];
+
+/**
  * Hold what came back against the scene it was asked about.
  *
  * @param {import("./SceneFile.js").parseSceneFile} scene the source scene
@@ -122,6 +144,12 @@ export const acceptTranslation = (scene, returned) => {
         }
         if (!text && row.japanese) {
             problems.push(`line ${lineNumber} came back empty for ${JSON.stringify(row.japanese)}`);
+        }
+        for (const token of SUBSTITUTIONS) {
+            if (row.japanese.includes(token) && !text.includes(token)) {
+                problems.push(`line ${lineNumber} drops ${token}, which the game replaces at runtime`
+                    + " -- resolving it writes one player's name into everybody's game");
+            }
         }
         if (row.english && text.length > row.english.length * LONGER_THAN_DRAFT) {
             warnings.push(`line ${lineNumber} is ${Math.round(text.length / row.english.length)}x`
