@@ -192,7 +192,6 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Apostle Garnet | 使徒 ガーネット | Female | RX |
 | Apostle Gigai / Gigai | 使徒 戯骸 | Male | RX |
 | Apostle Juno / Juno | 使徒 ジュノー | Male | RX |
-| Apostle Kaen Shoshi | 使徒 火炎書士 | Female | RX |
 | Apostle Kanayo / Kanayo | 使徒 加奈代 | Female | RX |
 | Apostle Kaybnyan / Kaybnyan | ケイブニャン | Female | RX |
 | Apostle Kaybwan / Kaybwan | ケイブワン | Female | RX |
@@ -201,7 +200,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Apostle Sapphire | 使徒 サファイア | Female | RX |
 | Apostle Sharon / Sharon | 使徒 シャロン | Female | RX |
 | Apostle Topaz | 使徒 トパーズ | Female | RX |
-| Apostle Yuki | 使徒 ユキ | Female | RX |
+| Apostle Yuki / Yuki | 使徒 ユキ | Female | RX |
 | Arcy Julietta | アーシー・ジュリエッタ | Female | RX |
 | Arios Theoman | アリオス テオマン | Male | RQ RX |
 | Aristoles Calm | アリストレス・カーム | Male | RQ |
@@ -233,7 +232,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Borchini | ボルチーニ | Male | RX |
 | British | ブリティシュ | Male | RX |
 | Caesar | シーザー | Male | RX |
-| Café Artful | カフェ・アートフル | Female | RX |
+| Cafe Artful | カフェ・アートフル | Female | RX |
 | Caloria Cricket | カロリア・クリケット | Female | RX |
 | Camilla | カミーラ | Female | RVI RX |
 | Cantel | キャンテル | Male | RX |
@@ -285,6 +284,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Eroyack ALV | エロヤック | Male | RX |
 | Ex Banquet | エクス・バンケット | Male | RX |
 | Feliss | フェリス | Female | RVI RQ RX |
+| Flame Scrivener | 使徒 火炎書士 | Female | RX |
 | Fletcher Modell | フレッチャー・モーデル | Female | RQ |
 | Foot Rot | フット・ロット | Male | R5D |
 | Freak Paraffin | フリーク・パラフィン | Male | RQ |
@@ -356,7 +356,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Kawanoe Mine | 川之江 美禰 | Female | SR |
 | Kawanoe Yuzuru | 川之江 譲 | Male | SR |
 | Kawazoe | かわぞえ | Male | RX |
-| Kayblis | ケイブリス | Male | RVI RX |
+| Kayblis (K-Chan) | ケイブリス | Male | RVI RX |
 | KD | ＫＤ | Male | R02 RIV RVI RQ RX |
 | Keiko | ケイコ | Female | RX |
 | Keith Gold | キース・ゴールド | Male | RQ RX |
@@ -493,7 +493,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Pastel Kalar | パステル・カラー | Female | RX |
 | Patricia Bacon |  | Female | RX |
 | Patton Misnarge / Patton Helman | パットン・ミスナルジ | Male | RIII RIX RX |
-| Peruelé Kalette | ペルエレ・カレット | Female | RX |
+| Peruele Kalette | ペルエレ・カレット | Female | RX |
 | Pervert Mouse | 変態ネズミ | Male | RQ |
 | Pespo Tontone | ペスポ・トントーネ | Male | RX |
 | Petrified Person | 石化した人 | Genderless | RX |
@@ -591,7 +591,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Thoma Lipton | トーマ・リプトン | Male | RIII RIX RX |
 | Tilde Sharp | チルディ・シャープ | Female | RX |
 | Tokugawa Ieyasu / Tokugawa Sen | 徳川 家康 | Male/Female | SR=Male; RX=Female (Sen) |
-| Tolstoy Batou | トルストイ・バトー | Male | RIX |
+| Tolstoy Bato | トルストイ・バトー | Male | RIX |
 | Tone / Tokugawa Tone | 深根 | Female | RX |
 | Toppos | トッポス | Male | RX |
 | Toushin Sigma | 闘神シグマ | Male | RX |
