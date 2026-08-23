@@ -17,11 +17,11 @@ https://www.dlsite.com/pro/work/=/product_id/VJ011759.html
 
 Before:
 
-<img width="1186" height="834" alt="image" src="https://github.com/user-attachments/assets/53ffc48b-1b7c-469f-a79a-b31c248846a2" />
+<img width="1112" alt="The dialogue window as the game ships it, Sill speaking in Japanese" src="docs/images/dialogue-before.jpg" />
 
 After:
 
-<img width="1109" height="844" alt="image" src="https://github.com/user-attachments/assets/5233c5d3-83e8-4e20-807d-a0cbef5e5c81" />
+<img width="1112" alt="The same line with the patch installed, Sill speaking in English" src="docs/images/dialogue-after.jpg" />
 
 
 ______________________________________
