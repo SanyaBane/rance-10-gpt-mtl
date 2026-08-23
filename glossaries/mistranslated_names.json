@@ -3266,5 +3266,54 @@
             "Silsabun",
             "Shilsabun"
         ]
+    },
+    {
+        "shortNameEng": "Khukul Khukul",
+        "shortNameJpn": "ククルククル",
+        "knownMistranslations": [
+            "Kukurukukuru"
+        ]
+    },
+    {
+        "shortNameEng": "Abel",
+        "shortNameJpn": "アベル",
+        "knownMistranslations": []
+    },
+    {
+        "shortNameEng": "Ssulal",
+        "shortNameJpn": "スラル",
+        "knownMistranslations": [
+            "Thrall",
+            "Sural",
+            "Slal"
+        ]
+    },
+    {
+        "shortNameEng": "Nighcisa",
+        "shortNameJpn": "ナイチサ",
+        "knownMistranslations": [
+            "Nightchisa",
+            "Nai Chisa",
+            "Naichisa",
+            "Naitisa",
+            "Nails"
+        ]
+    },
+    {
+        "shortNameEng": "Jill",
+        "shortNameJpn": "ジル",
+        "knownMistranslations": [
+            "Jil"
+        ]
+    },
+    {
+        "shortNameEng": "Gai",
+        "shortNameJpn": "ガイ",
+        "knownMistranslations": []
+    },
+    {
+        "shortNameEng": "Little Princess",
+        "shortNameJpn": "リトルプリンセス",
+        "knownMistranslations": []
     }
 ]
