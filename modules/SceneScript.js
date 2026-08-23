@@ -64,6 +64,34 @@ const THOUGHT = /思考/;
 const NARRATION = /ト書き/;
 
 /**
+ * The branch that plays a line only to a player who made El a man, or only to
+ * one who made her a woman.
+ *
+ *     S_PUSH "主人公は男"
+ *     CALLFUNC 確認
+ *     PUSH 1
+ *     EQUALE
+ *     IFNZ 0xa968ae     -- the branch
+ *     JUMP 0xa968e4     -- past it
+ *
+ * 確認 itself is the one place these strings appear outside a scene: it reads
+ * the global the ２部旅立ち choice writes -- tt[3], 1 for 男 and 11 for 女 -- and
+ * compares it with 10. Everywhere else they are this shape, guarding 1228
+ * messages in 82 scenes.
+ *
+ * Worth carrying because those messages are the one part of the script a
+ * translation can silently flatten. 深根 says ＜エール＞兄様 on one route and
+ * ＜エール＞姉様 on the other, and the two are adjacent lines with almost the
+ * same text: a translator reading a whole scene sees them together and is
+ * likelier to write one sentence twice than a translator who saw them a
+ * fortnight apart. modules/SceneAcceptance.js is what refuses that.
+ */
+const ROUTE_FLAG = /^S_PUSH "主人公は(男|女)"$/;
+
+/** "0xa968ae:" -- where a branch begins and where the jump past it lands. */
+const LABEL = /^(0x[0-9a-f]+):$/;
+
+/**
  * Produce the code dump if build/ does not already have one.
  *
  * Kept rather than re-dumped every run because three seconds is three seconds,
@@ -101,6 +129,7 @@ const ensureCodeDump = async () => {
  *             speaker: string | null,
  *             kind: "speech" | "thought" | "narration" | "other",
  *             continues: boolean,
+ *             route: "male" | "female" | null,
  *         }[],
  *     }[],
  * }>}
@@ -120,9 +149,14 @@ export const readScenes = async () => {
     let command = null;
     /** Whether a MSG now would be another row of the speech already open. */
     let open = false;
+    /** The gender branches a MSG here would be inside, innermost last. */
+    const branches = [];
+    /** A branch whose guard has been read and whose opening label has not. */
+    let pending = null;
 
-    for (const raw of jam.split(/\r?\n/)) {
-        const line = raw.trim();
+    const rows = jam.split(/\r?\n/);
+    for (let index = 0; index < rows.length; ++index) {
+        const line = rows[index].trim();
         if (!line) {
             continue;
         }
@@ -145,11 +179,41 @@ export const readScenes = async () => {
             pushed = [];
             command = null;
             open = false;
+            branches.length = 0;
+            pending = null;
+            continue;
+        }
+
+        const label = LABEL.exec(line);
+        if (label) {
+            if (pending?.opens === label[1]) {
+                branches.push(pending);
+                pending = null;
+            }
+            // The jump target closes the branch it jumped past. A while rather
+            // than an if because two branches can share one exit.
+            while (branches.length && branches[branches.length - 1].closes === label[1]) {
+                branches.pop();
+            }
             continue;
         }
 
         const push = /^S_PUSH "(.*)"$/.exec(line);
         if (push) {
+            const flag = ROUTE_FLAG.exec(line);
+            const opens = /^IFNZ (0x[0-9a-f]+)$/.exec(rows[index + 4]?.trim() ?? "");
+            const closes = /^JUMP (0x[0-9a-f]+)$/.exec(rows[index + 5]?.trim() ?? "");
+            // The guard is five instructions long and 確認 itself pushes the
+            // same two strings without one, which is what the shape check keeps
+            // out. Anything else wearing this shape would be a branch on El's
+            // gender too, which is exactly what wants recording.
+            if (flag && rows[index + 1]?.trim() === "CALLFUNC 確認" && opens && closes) {
+                pending = {
+                    route: flag[1] === "男" ? "male" : "female",
+                    opens: opens[1],
+                    closes: closes[1],
+                };
+            }
             pushed.push(push[1]);
             continue;
         }
@@ -183,6 +247,7 @@ export const readScenes = async () => {
                     ? (THOUGHT.test(name) ? "thought" : "speech")
                     : NARRATION.test(name) ? "narration" : "other",
                 continues: open,
+                route: branches[branches.length - 1]?.route ?? null,
             });
             open = true;
             pushed = [];

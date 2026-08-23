@@ -69,6 +69,17 @@ const GITATTRIBUTES = "*.tsv text eol=lf\n";
  */
 const CG_FLAG = "cg";
 
+/**
+ * Scenes holding a line the game plays on only one of El's two routes.
+ *
+ * A routing hint like CG_FLAG, and a different kind of warning: these 82 scenes
+ * are the ones a translation can flatten without anything looking wrong, so a
+ * driver may want them translated with more care than a scene where every line
+ * is played to everybody. The markers inside the file are what a translator
+ * actually reads; this is so that deciding does not mean opening the file.
+ */
+const ROUTE_FLAG = "route";
+
 
 /**
  * Who the line is, before "+" gets a say: a name, or the marker standing in for
@@ -138,6 +149,8 @@ await run(async () => {
     let blank = 0;
     let flagged = 0;
     let flaggedLines = 0;
+    let routed = 0;
+    let routedLines = 0;
     const manifest = [];
     const unnamed = new Map();
     const genderless = new Set();
@@ -163,7 +176,10 @@ await run(async () => {
             }
         }
 
-        const flags = gallery.has(scene.name) ? [CG_FLAG] : [];
+        const flags = [
+            ...gallery.has(scene.name) ? [CG_FLAG] : [],
+            ...scene.lines.some(line => line.route) ? [ROUTE_FLAG] : [],
+        ];
         const laidOut = {
             functionId: scene.functionId,
             name: scene.name,
@@ -194,6 +210,7 @@ await run(async () => {
                 japanese,
                 english,
                 startsUtterance: !line.continues,
+                route: line.route,
             });
             previous = line;
 
@@ -213,9 +230,13 @@ await run(async () => {
         const fileName = sceneFileName(scene.functionId);
         await fs.writeFile(path.join(outputDir, fileName), renderSceneFile(laidOut), "utf-8");
         manifest.push([fileName, flags.join(","), scene.lines.length, escapeCell(scene.name)].join("\t"));
-        if (flags.length) {
+        if (flags.includes(CG_FLAG)) {
             ++flagged;
             flaggedLines += scene.lines.length;
+        }
+        if (flags.includes(ROUTE_FLAG)) {
+            ++routed;
+            routedLines += scene.lines.filter(line => line.route).length;
         }
         ++files;
     }
@@ -271,6 +292,8 @@ await run(async () => {
     console.log(`  ${uncovered} lines no corpus record covers, ${blank} whose record is empty`);
     console.log(`  ${flagged} scenes flagged "${CG_FLAG}" by the recollection gallery,`
         + ` ${flaggedLines} lines (${(flaggedLines / lines * 100).toFixed(1)}%)`);
+    console.log(`  ${routed} scenes flagged "${ROUTE_FLAG}", ${routedLines} lines`
+        + " the game plays on only one of El's two routes");
     console.log(`  read ${checked} rows back against the game's own dump, all agreed`);
     if (genderless.size) {
         console.warn(`  ${genderless.size} portraits neither gender table answers`
