@@ -36,7 +36,7 @@ import {readGalleryScenes} from "../modules/CgGallery.js";
 import {readCorpus} from "../modules/Corpus.js";
 import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
-import {parseSceneFile} from "../modules/SceneAcceptance.js";
+import {escapeCell, parseSceneFile, renderSceneFile, sceneFileName} from "../modules/SceneFile.js";
 import {readScenes} from "../modules/SceneScript.js";
 import {isTranslated, textLangDir, textLangName} from "../modules/TextLanguages.js";
 
@@ -67,17 +67,6 @@ const GITATTRIBUTES = "*.tsv text eol=lf\n";
  */
 const CG_FLAG = "cg";
 
-/**
- * A tab inside a cell would silently move every column after it.
- *
- * 2929 of the game's messages hold one -- almost all of them leading
- * indentation in a scenario draft, but 17 have a tab in the middle of the line,
- * and those are the ones that would go wrong. No message and no translation
- * holds a backslash today, so the escape is unambiguous the moment it is
- * written; it is doubled anyway, because a new translation is exactly the thing
- * that could bring the first one.
- */
-const escape = (text) => text.replaceAll("\\", "\\\\").replaceAll("\t", "\\t");
 
 /**
  * Who the line is, before "+" gets a say: a name, or the marker standing in for
@@ -160,26 +149,34 @@ await run(async () => {
         }
 
         const flags = gallery.has(scene.name) ? [CG_FLAG] : [];
-        const body = [`# ${scene.functionId}\t${escape(scene.name)}\t${flags.join(",")}`];
+        const laidOut = {
+            functionId: scene.functionId,
+            name: scene.name,
+            flags,
+            cast: [],
+            rows: [],
+        };
         for (const [speaker, stand] of cast) {
             const gender = genders.get(speaker);
             if (!gender) {
                 genderless.add(speaker);
             }
-            body.push(`* ${speaker}\t${escape(stand.split("／")[0])}\t${gender ?? "?"}`);
+            laidOut.cast.push({speaker, stand: stand.split("／")[0], gender: gender ?? "?"});
         }
 
         let previous = null;
         for (const line of scene.lines) {
-            if (!line.continues) {
-                body.push("");
-            }
             const japanese = japaneseByLineNumber.get(line.lineNumber) ?? "";
             const english = englishByLineNumber.get(line.lineNumber) ?? "";
             written.set(line.lineNumber, japanese);
-            const who = sameAsAbove(line, previous) ? "+" : speakerCell(line);
+            laidOut.rows.push({
+                lineNumber: line.lineNumber,
+                speaker: sameAsAbove(line, previous) ? "+" : speakerCell(line),
+                japanese,
+                english,
+                startsUtterance: !line.continues,
+            });
             previous = line;
-            body.push([line.lineNumber, who, escape(japanese), escape(english)].join("\t"));
 
             ++lines;
             if (line.speaker) {
@@ -194,9 +191,9 @@ await run(async () => {
             }
         }
 
-        const fileName = String(scene.functionId).padStart(6, "0") + ".tsv";
-        await fs.writeFile(path.join(outputDir, fileName), body.join("\n") + "\n", "utf-8");
-        manifest.push([fileName, flags.join(","), scene.lines.length, escape(scene.name)].join("\t"));
+        const fileName = sceneFileName(scene.functionId);
+        await fs.writeFile(path.join(outputDir, fileName), renderSceneFile(laidOut), "utf-8");
+        manifest.push([fileName, flags.join(","), scene.lines.length, escapeCell(scene.name)].join("\t"));
         if (flags.length) {
             ++flagged;
             flaggedLines += scene.lines.length;
@@ -228,7 +225,14 @@ await run(async () => {
         if (fileName === "index.tsv") {
             continue;
         }
-        const scene = parseSceneFile(await fs.readFile(path.join(outputDir, fileName), "utf-8"));
+        const text = await fs.readFile(path.join(outputDir, fileName), "utf-8");
+        const scene = parseSceneFile(text);
+        // The one comparison that fails when the reader and the writer drift
+        // apart rather than when the data does: escaping, column count, blank
+        // lines and line endings, all at once.
+        if (renderSceneFile(scene) !== text) {
+            throw new Error(`${fileName}: reading it and writing it back does not reproduce the file`);
+        }
         for (const row of scene.rows) {
             if (row.japanese !== written.get(row.lineNumber)) {
                 throw new Error(`${fileName}: line ${row.lineNumber} reads back as`

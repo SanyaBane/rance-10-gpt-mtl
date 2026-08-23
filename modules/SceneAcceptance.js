@@ -1,5 +1,5 @@
 /**
- * Deciding whether a translated scene may replace the one on disk.
+ * Deciding whether a translated scene may be written back.
  *
  * A scene is the unit: all of it is accepted or none of it is. That is not
  * tidiness, it is the only shape that makes a declined translation harmless.
@@ -21,67 +21,13 @@
  * list run over the cells would eventually throw away a good scene because a
  * character said the wrong sentence. What gets looked at is only the part of
  * the answer that did not parse as rows.
+ *
+ * The file format itself is modules/SceneFile.js. This module only judges.
  */
+import {unescapeCell} from "./SceneFile.js";
 
 /** "N<tab>english", or the four-column form when a translator echoes the input. */
 const ROW = /^(\d+)\t(.*)$/;
-
-/** Written by the writer in modules/../scripts/extract_scenes.js; read back here. */
-const unescape = (text) => text.replaceAll(/\\(.)/g, (_, char) => char === "t" ? "\t" : char);
-
-/**
- * One scene file as written, parsed back.
- *
- * Split on either ending. The file is written with LF, and a checkout with
- * core.autocrlf=true -- the Windows default, and what a fresh clone of a
- * scenes repository does -- hands every line back with a trailing \r. Splitting
- * on "\n" alone does not fail: it appends the \r to the last column, which is
- * the English, and leaves a self-check that reads the Japanese column perfectly
- * happy while every translation on the page has grown a character.
- *
- * @return {{
- *     functionId: number,
- *     name: string,
- *     flags: string[],
- *     cast: {speaker: string, stand: string, gender: string}[],
- *     rows: {lineNumber: number, speaker: string, japanese: string, english: string}[],
- * }}
- */
-export const parseSceneFile = (text) => {
-    let functionId = 0;
-    let name = "";
-    let flags = [];
-    const cast = [];
-    const rows = [];
-    for (const line of text.split(/\r?\n/)) {
-        if (!line) {
-            continue;
-        }
-        if (line.startsWith("# ")) {
-            const [id, sceneName, sceneFlags] = line.slice(2).split("\t");
-            functionId = Number(id);
-            name = unescape(sceneName ?? "");
-            flags = (sceneFlags ?? "").split(",").filter(Boolean);
-            continue;
-        }
-        if (line.startsWith("* ")) {
-            const [speaker, stand, gender] = line.slice(2).split("\t");
-            cast.push({speaker, stand: unescape(stand ?? ""), gender: gender ?? "?"});
-            continue;
-        }
-        const cells = line.split("\t");
-        if (cells.length !== 4) {
-            throw new Error(`scene ${functionId}: ${cells.length} columns, not 4, in ${JSON.stringify(line)}`);
-        }
-        rows.push({
-            lineNumber: Number(cells[0]),
-            speaker: cells[1],
-            japanese: unescape(cells[2]),
-            english: unescape(cells[3]),
-        });
-    }
-    return {functionId, name, flags, cast, rows};
-};
 
 /**
  * A translated line may not carry a raw tab or a line break: the first moves
@@ -100,7 +46,7 @@ const LONGER_THAN_DRAFT = 3;
 /**
  * Hold what came back against the scene it was asked about.
  *
- * @param {ReturnType<parseSceneFile>} scene
+ * @param {import("./SceneFile.js").parseSceneFile} scene the source scene
  * @param {string} returned the translator's answer, "N<tab>english" per line
  * @return {{
  *     accepted: boolean,
@@ -144,7 +90,7 @@ export const acceptTranslation = (scene, returned) => {
             duplicated.push(lineNumber);
             continue;
         }
-        english.set(lineNumber, unescape(row[2]));
+        english.set(lineNumber, unescapeCell(row[2]));
     }
 
     if (english.size === 0) {
