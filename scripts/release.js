@@ -27,7 +27,9 @@
  * that is the patch, with nothing to assemble out of two places. The READMEs
  * are written by modules/ReleaseReadme.js, and generated rather than copied
  * because what they have to say depends on the run -- which text language a
- * folder is, and which features went into it. The price is
+ * folder is, which features went into it, and which version of the patch it is
+ * (modules/Version.js, which also says why that version is nowhere in the game
+ * itself). The price is
  * that Rance10EX.ex and Rance10Pact.afa would be the same file in every English
  * folder -- they hold no dialogue, so they do not vary by text language -- which
  * is why they are built once and copied rather than built per folder.
@@ -65,6 +67,7 @@ import {BUILD} from "../modules/Env.js";
 import {CUSTOM_MODS, FEATURES, selectedFeatures} from "../modules/Features.js";
 import {filesFor, renderFolderReadme, renderIndexReadme} from "../modules/ReleaseReadme.js";
 import {isTranslated, listTextLangs, TEXT_LANGS, textLangName} from "../modules/TextLanguages.js";
+import {PATCH_TAG} from "../modules/Version.js";
 
 /** The one build that is per text language, and the two that are not. */
 const AIN = "ain.js";
@@ -158,7 +161,7 @@ run(() => {
                 return status;
             }
         }
-        console.log(`\nInstalled into ${dir}.`);
+        console.log(`\nInstalled patch ${PATCH_TAG} into ${dir}.`);
         reportFeatures(features, "");
         return 0;
     }
@@ -221,7 +224,7 @@ run(() => {
     fs.writeFileSync(path.join(dir, "README.md"), renderIndexReadme(built, features), "utf-8");
 
     const extra = switched.length > 0 ? [`${CUSTOM_MODS}/`] : [];
-    console.log(`\nBuilt into ${dir}:`);
+    console.log(`\nBuilt patch ${PATCH_TAG} into ${dir}:`);
     for (const lang of built) {
         console.log(`  ${lang}/ -- ${TEXT_LANGS[lang].summary}`);
         console.log(`    ${[...filesFor(lang), "README.md", ...extra].join(", ")}`);

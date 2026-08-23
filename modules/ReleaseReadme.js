@@ -30,6 +30,7 @@ import {AIN} from "./AinFiles.js";
 import {featureBullet, switchedFeatures, switchingLines} from "./CustomMods.js";
 import {CUSTOM_MODS} from "./Features.js";
 import {isTranslated, TEXT_LANGS} from "./TextLanguages.js";
+import {PATCH_TAG} from "./Version.js";
 import {wrap} from "./Wrap.js";
 
 /** Rance10.v1.04, the game build every file here was made from. */
@@ -118,7 +119,7 @@ export const renderFolderReadme = (lang, features) => {
         `# Rance 10 — ${lang}`,
         "",
         `${TEXT_LANGS[lang].summary[0].toUpperCase()}${TEXT_LANGS[lang].summary.slice(1)}.`,
-        `Built from ${GAME_BUILD}.`,
+        `Patch ${PATCH_TAG}, built from ${GAME_BUILD}.`,
         "",
         "## Quick start",
         "",
@@ -165,7 +166,8 @@ export const renderFolderReadme = (lang, features) => {
 export const renderIndexReadme = (langs, features) => [
     "# Rance 10 — patch builds",
     "",
-    ...wrap(`One folder per text the game can be built with, all of them from ${GAME_BUILD}. Copy the contents`
+    ...wrap(`Patch ${PATCH_TAG}. One folder per text the game can be built with, all of them from`
+        + ` ${GAME_BUILD}. Copy the contents`
         + " of **one** folder into your Rance 10 folder, over what is already there. Each folder has a README"
         + " of its own saying what is in it and how to install it."),
     "",
