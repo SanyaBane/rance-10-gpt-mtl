@@ -15,8 +15,9 @@ import {ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
 import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
-import {createNameNormalizer} from "../modules/NameNormalizer.js";
+import {checkSubstitutionsAreNotMisspellings, createNameNormalizer} from "../modules/NameNormalizer.js";
 import {checkPlayerNamePlate} from "../modules/Nameplates.js";
+import {SUBSTITUTIONS} from "../modules/SceneAcceptance.js";
 import {DEFAULT_TEXT_LANG, hasPatch, isTranslated, regeneratedTxt, textLangDir, textLangName, textLangPatch}
     from "../modules/TextLanguages.js";
 
@@ -208,6 +209,22 @@ console.log(`Checked ${playerPlate.report}`);
 for (const complaint of playerPlate.complaints) {
     console.warn(`  ${complaint}`);
 }
+/*
+ * A token the game substitutes at runtime, listed in the name table as
+ * somebody's misspelling. ＜エール＞ was, and the repair pass resolved the
+ * player's name to "El" on the way out -- past the acceptance check that
+ * refuses a translation for doing the same thing. A hard stop rather than a
+ * warning: there is no line of dialogue this could be right about, and the
+ * damage is invisible in the English afterwards.
+ */
+const substitutions = await checkSubstitutionsAreNotMisspellings(SUBSTITUTIONS, langRoot);
+if (substitutions.length) {
+    for (const complaint of substitutions) {
+        console.error(`  ${complaint}`);
+    }
+    process.exit(1);
+}
+
 // The name repairs the table cannot decide, because two names of the same
 // length want the same word. Whichever is written first in the file takes it,
 // which is right for some of these lines and wrong for the others, so they are

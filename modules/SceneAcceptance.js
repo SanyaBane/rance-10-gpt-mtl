@@ -65,8 +65,14 @@ const LONGER_THAN_DRAFT = 3;
  * other bracketed literals in the code -- ＜ナギ＞, ＜志津香＞, ＜ケイブニャン＞,
  * ＜ケイブワン＞ -- belong to AssistantMessageView's colouring and appear in no
  * line of dialogue at all.
+ *
+ * Exported because modules/ScenePrompt.js has to keep these out of the glossary
+ * it shows a translator. glossaries/mistranslated_names.json carries ＜エール＞
+ * as a name spelled "El" -- which is right for the repairs it was written for
+ * and flatly contradicts the rule in the same prompt saying to carry the token
+ * through untouched. One list, so the two cannot drift.
  */
-const SUBSTITUTIONS = ["＜エール＞"];
+export const SUBSTITUTIONS = ["＜エール＞"];
 
 /**
  * Punctuation, which two lines of a gender branch differ in without differing.

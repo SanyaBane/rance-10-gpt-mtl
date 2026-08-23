@@ -273,6 +273,37 @@ const contestsOver = (claims) => {
  * every caller renders the whole corpus and then reports, the way
  * renderEnemyInfo hands back its overlong and misnamed lists.
  */
+/**
+ * A token the game substitutes at runtime is nobody's misspelling.
+ *
+ * glossaries/mistranslated_names.json carried ＜エール＞ twice: once as its own
+ * canonical form, which is right, and once in the knownMistranslations of the
+ * entry whose English is "El" -- so the repair pass resolved the player's name
+ * to the literal El in any line still carrying the token. That is precisely
+ * what modules/SceneAcceptance.js refuses a translation for, and the build did
+ * it after the refusal, on the way out.
+ *
+ * It cost nothing in en_grok, which had already resolved all 1522 lines itself
+ * and so had none left to spoil. What it would have cost is the retranslation:
+ * every scene that carried the token through correctly, undone at build time,
+ * with nothing anywhere saying so.
+ *
+ * A static check over the table rather than one over the rendered lines,
+ * because the rendered lines cannot say it -- en_grok's English legitimately
+ * holds no token at all. The token list is passed in rather than imported so
+ * that this module keeps knowing nothing about scenes.
+ *
+ * @param {string[]} tokens
+ * @return {Promise<string[]>} one complaint per entry that lists one
+ */
+export const checkSubstitutionsAreNotMisspellings = async (tokens, langDir) =>
+    (await readNameTable(langDir)).flatMap(record =>
+        record.knownMistranslations
+            .filter(mistranslation => tokens.includes(mistranslation))
+            .map(mistranslation => `the name table lists ${mistranslation} as a misspelling of`
+                + ` "${record.shortNameEng}", but the game replaces it at runtime -- repairing it`
+                + " writes one player's name into everybody's game"));
+
 export const createNameNormalizer = async (langDir) => {
     const mistranslated_names = await readNameTable(langDir);
     const contested = [];
