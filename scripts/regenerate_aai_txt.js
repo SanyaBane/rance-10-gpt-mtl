@@ -8,20 +8,15 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
-import {AIN_JSON, AIN_V100_JSON} from "../modules/AinFiles.js";
 import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
-import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
+import {readCorpus} from "../modules/Corpus.js";
+import {ensureBuild, ROOT} from "../modules/Env.js";
+import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
 import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
 import {DEFAULT_TEXT_LANG, hasPatch, isTranslated, regeneratedTxt, textLangDir, textLangName, textLangPatch}
     from "../modules/TextLanguages.js";
-
-/**
- * The v1.04 lines no corpus covers, for scripts/translate_chunks.js to feed on.
- * A by-product of the mapping below rather than something this is asked for.
- */
-const UNMAPPED = path.join(BUILD, "unmapped.ain.json");
 
 ensureBuild();
 
@@ -48,11 +43,7 @@ try {
 const langRoot = textLangDir(textLang);
 const {normalizeNames, contested} = await createNameNormalizer(langRoot);
 
-const v100AinJson = await fs.readFile(AIN_V100_JSON, "utf-8");
-const v100AinData = JSON.parse(v100AinJson);
-
-const v104AinJson = await fs.readFile(AIN_JSON, "utf-8");
-const v104AinData = JSON.parse(v104AinJson);
+const {v100ToV104, unmapped, japaneseByLineNumber} = await loadLineNumbers();
 
 const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 
@@ -61,86 +52,7 @@ const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 // Japanese in glossaries/enemy_info_glossary.tsv. See modules/EnemyInfo.js.
 const enemyInfo = await renderEnemyInfo();
 
-const mapLineNumbers = (v100AinData, v104AinData) => {
-    let v100Offset = 0;
-    let v104LastMappedOffset = -1;
-    const mapping = new Map();
-    done:
-    while (v100Offset < v100AinData.length) {
-        for (let v104Offset = v104LastMappedOffset + 1; v104Offset < v104AinData.length; ++v104Offset) {
-            const v100Record = v100AinData[v100Offset];
-            const v104Record = v104AinData[v104Offset];
-            if (v100Record.originalJapaneseLine === v104Record.originalJapaneseLine) {
-                mapping.set(+v100Record.lineNumber, +v104Record.lineNumber);
-                ++v100Offset;
-                v104LastMappedOffset = v104Offset;
-                if (v100Offset === v100AinData.length) {
-                    break done;
-                }
-            }
-        }
-        ++v100Offset;
-    }
-    const mapped = new Set(mapping.values());
-    const unmapped = v104AinData.filter(rec => !mapped.has(+rec.lineNumber));
-    return [mapping, unmapped];
-};
-
-const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
-
 await fs.writeFile(UNMAPPED, JSON.stringify(unmapped, null, 4), "utf-8");
-
-const readTranslations = async (folderPath) => {
-    const chunkFileNames = await fs.readdir(folderPath);
-    const chunkFiles = chunkFileNames
-        .map(fileName => {
-            const [, startLineNumber, endLineNumber] = fileName.match(/^(\d+)_(\d+)\.json$/);
-            return {
-                fileName,
-                startLineNumber: Number(startLineNumber),
-                endLineNumber: Number(endLineNumber),
-            };
-        })
-        .sort((a,b) => a.startLineNumber - b.startLineNumber);
-
-    const allLineRecords = [];
-
-    for (const chunkFile of chunkFiles) {
-        const json = await fs.readFile(folderPath + "/" + chunkFile.fileName, "utf-8");
-        let data;
-        try {
-            data = JSON.parse(json);
-        } catch (error) {
-            error.message += 'At file ' + chunkFile.fileName;
-            throw error;
-        }
-        allLineRecords.push(...data.output_parsed.translationLines);
-    }
-
-    return allLineRecords;
-};
-
-/**
- * A corpus is written against the v1.00 line numbers, plus a second folder for
- * the lines v1.04 added, so reading one is also moving it onto the numbering
- * the game being patched uses.
- */
-const readCorpus = async (root) => {
-    const allLineRecordsV100 = await readTranslations(path.join(root, "gpt_outputs"));
-    const allLineRecordsV104 = await readTranslations(path.join(root, "gpt_outputs_v104"));
-    return allLineRecordsV100
-        .flatMap(lr => {
-            const v104LineNumber = v100ToV104.get(+lr.lineNumber);
-            if (!v104LineNumber) {
-                return [];
-            } else {
-                return { ...lr, lineNumber: v104LineNumber };
-            }
-        })
-        .concat(allLineRecordsV104);
-};
-
-const japaneseByLineNumber = new Map(v104AinData.map(rec => [+rec.lineNumber, rec.originalJapaneseLine]));
 
 /**
  * alice-tools escapes an ain.txt the way JSON does, except that it also lets a
@@ -201,10 +113,12 @@ const readPatch = async (filePath) => {
  */
 const readTextLang = async (name) => {
     if (!hasPatch(name)) {
-        return [await readCorpus(textLangDir(name)), ""];
+        return [await readCorpus(textLangDir(name), v100ToV104), ""];
     }
     const [patched, undescribed] = await readPatch(textLangPatch(name));
-    const beneath = name === DEFAULT_TEXT_LANG ? [] : await readCorpus(textLangDir(DEFAULT_TEXT_LANG));
+    const beneath = name === DEFAULT_TEXT_LANG
+        ? []
+        : await readCorpus(textLangDir(DEFAULT_TEXT_LANG), v100ToV104);
     const lineRecords = new Map(beneath.map(lr => [+lr.lineNumber, lr]));
     const filledIn = [...lineRecords.keys()].filter(lineNumber => !patched.has(lineNumber)).length;
     for (const [lineNumber, lineRecord] of patched) {

@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import * as path from "path";
-import {BUILD} from "../modules/Env.js";
+import {UNMAPPED} from "../modules/LineNumbers.js";
 import {translateNextChunk} from "../modules/OpenAiTranslator.js";
 import {corpusDir, textLangName} from "../modules/TextLanguages.js";
 
@@ -10,7 +10,7 @@ const OUTPUT_DIR = path.join(corpusDir(textLangName()), "gpt_outputs_v104");
 
 // Left behind by scripts/regenerate_aai_txt.js: the v1.04 lines no corpus
 // covers. Run that first, or this translates whatever it wrote last time.
-const inputJson = await fs.readFile(path.join(BUILD, "unmapped.ain.json"), "utf8");
+const inputJson = await fs.readFile(UNMAPPED, "utf8");
 const inputMessages = JSON.parse(inputJson);
 
 let chunkStart = 0;
