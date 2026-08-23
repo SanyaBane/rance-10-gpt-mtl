@@ -312,7 +312,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Io Ishtar | イオ・イシュタル | Female | RIX RX |
 | Isis | イシス | Male | RQ |
 | Jhahlckas | ジャハルッカス | Male | RX |
-| Jaro Jasrack | ジャロ・ジャスラック | Male | R5D |
+| Jaro Jaslak / Jaro Jasrack | ジャロ・ジャスラック | Male | R5D |
 | Jean Gangvang II | ジャン・ギャンバン二世 | Male | RQ |
 | Jericho Colon | イェリコ・コロン | Female | RQ |
 | Johnny | じょにぃ | Male | R5D |
