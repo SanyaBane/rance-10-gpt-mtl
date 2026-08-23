@@ -143,6 +143,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | **Lei** | Delinquent-type dark lord — **MALE** |
 | **Galtia** | Friendly, food-loving dark lord — **MALE** |
 | **Warg** | Harsh name — **FEMALE** |
+| **Lassie** | Warg's "pet dog", and she calls him one, which is how this row read Female for a long time. **MALE**: the game's own `8_カードデータ.x` gives ラッシー 性別=1, and the wiki writes "He was originally just a mass of Souls" and "His physical structure". |
 | **Mi Lordring** | Bishop of AL Church — **MALE** |
 | **Chochoman Publy** | Zeth Four Lord — **MALE** |
 | **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay" — fix to "Lord LeMay". |
@@ -357,7 +358,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | La Seizel | ラ・サイゼル | Female | RX |
 | La Vaswald | ラ・バスワルド | Female | RX |
 | Lark Pikespeak | ラーク・パイクスピーク | Male | RQ |
-| Lassie | ラッシー | Female | RX |
+| Lassie | ラッシー | Male | RX |
 | Launea |  | ? | RX |
 | Lei | レイ | Male | RX |
 | Leila Grecni | レイラ・グレクニー | Female | R01 RX |
