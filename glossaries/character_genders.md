@@ -229,6 +229,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Café Artful | カフェ・アートフル | Female | RX |
 | Caloria Cricket | カロリア・クリケット | Female | RX |
 | Camilla | カミーラ | Female | RVI RX |
+| Cantel | キャンテル | Male | RX |
 | Captain | 船長 | ? | RX |
 | Captain Vanilla | キャプテン バニラ | Female | SR |
 | Carolie Mate / Calory Mate | キャロリ・メイト | Female | RX |
@@ -311,16 +312,15 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Inukai | 犬飼 | Male | SR |
 | Io Ishtar | イオ・イシュタル | Female | RIX RX |
 | Isis | イシス | Male | RQ |
-| Jhahlckas | ジャハルッカス | Male | RX |
 | Jaro Jaslak / Jaro Jasrack | ジャロ・ジャスラック | Male | R5D |
 | Jean Gangvang II | ジャン・ギャンバン二世 | Male | RQ |
 | Jericho Colon | イェリコ・コロン | Female | RQ |
+| Jhahlckas | ジャハルッカス | Male | RX |
 | Johnny | じょにぃ | Male | R5D |
 | Julia Lindum | ジュリア・リンダム | Female | RX |
 | Kabachahn the Lightning | カバッハーン・ザ・ライトニング | Male | RX |
 | Kalar | 汎用カラー | Female | RX |
 | Kana Seihajuu Oosaka | カーナ・セイハジュウ・オオサカ | Female | SR |
-| Cantel | キャンテル | Male | RX |
 | Kaoru Quincy Kagura | カオル・クインシー・神楽 | Female | RX |
 | Kapalla Uche | カパーラ・ウーチ | Male | RQ |
 | Karl Ojizan | カール・オジザン | Male | RQ |
@@ -552,9 +552,9 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Yamamoto Rangi | 山本 乱義 | Male | RX |
 | Yamanaka Kojika | 山中 子鹿 | Female | SR |
 | Yamisagi / Dark Heron | 闇鷺 | Female | RX |
-| Yosif | よーぜふ | Male | RX |
 | Yoshikawa Kyouko | 芳川 今日子 | Female | SR |
 | Yoshikawa Machiko | 芳川 真知子 | Female | SR |
+| Yosif | よーぜふ | Male | RX |
 | Youko | 洋子 | Female | SR |
 | Yuki Del | ユキ・デル | Female | RIV |
 | Yukichi | 諭吉 | Male | RX |
