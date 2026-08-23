@@ -91,8 +91,8 @@ neighbouring rows.
 is a *component* of several compounds rather than a word with several names.
 `compoundOf` in `modules/TermDrift.js` asks what Japanese each rendering
 actually sits in, and drops the finding when every one of them sits in a
-different compound -- 倍率 is 物理倍率 "Physical Boost" beside 魔法倍率 "Magic
-Boost", 難度 is 捕捉難度, 友好難度 and 命令難度, and 報酬 is the panel's own
+different compound -- 倍率 is 物理倍率 "Physical Mult." beside 魔法倍率 "Magic
+Mult.", 難度 is 捕捉難度, 友好難度 and 命令難度, and 報酬 is the panel's own
 label in front of six different rewards. It takes **16 findings off split**,
 including three this file had already worked out by hand: 中島 as 中島君 against
 川中島, 帝国 as the Copa Empire against the Squidman one, and 衛隊 as five

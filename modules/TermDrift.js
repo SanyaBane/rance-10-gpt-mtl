@@ -498,8 +498,8 @@ export const findTermDrift = (lines, options = {}) => {
         /*
          * A term whose every rendering sits in a *different* compound is not a
          * term rendered several ways: it is one component of several words,
-         * each translated correctly. 倍率 is 物理倍率 "Physical Boost" and
-         * 魔法倍率 "Magic Boost"; 報酬 is the quest panel's 　報酬　　　勲章
+         * each translated correctly. 倍率 is 物理倍率 "Physical Mult." and
+         * 魔法倍率 "Magic Mult."; 報酬 is the quest panel's 　報酬　　　勲章
          * "Reward Medal" beside 　報酬　　　食券 "Reward Meal Ticket", which is
          * one label with several values. Both read as drift and neither is.
          *
