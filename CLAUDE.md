@@ -58,6 +58,13 @@ npm run regenerate-pack         # the UI archive
 npm run release                 # all three, into build/release rather than the game
 ```
 
+Four more make a translation rather than a build, and none of them writes into
+a game folder: `extract-scenes` lays the dialogue out one file per scene with
+the speaker on every line, `request-scenes` and `accept-scenes` hand those
+round and judge what comes back, and `assemble-scenes` turns the answers into
+the patch `regenerate-ain` reads. `docs/scene-driver.md` is the loop, and
+`text_languages/en_opus/` is where it lands.
+
 Each of the four writes into `GAME_DIR`, and `--out=<dir>` — `-o` for short —
 sends it elsewhere instead; `build/release` is only the default `npm run
 release` sets, and `--game` asks for `GAME_DIR` by name, for a run that would
@@ -298,6 +305,18 @@ way it always did.) Worth the extra step: the game directory holds
 one `Rance10.ain`, and installing the default text language over somebody's
 `en_grok` silently switches the whole script. `docs/text-languages.md`
 says what a text language is and how the `--text-lang` flag gets eaten by PowerShell.
+
+**A check on the way in does not cover the three passes on the way out.**
+`modules/SceneAcceptance.js` refuses a translation that drops `＜エール＞`, the
+token the game swaps for the name the player typed. It was then resolved to the
+literal "El" by `normalizeNames`, because the name table listed the token as a
+misspelling of El; with that fixed, `replaceUnicode` turned its `ー` into a
+tilde and shipped `＜エ~ル＞`, a key the game has never heard of. 1522 lines,
+twice, past a check written specifically to stop it. `normalizeNames`,
+`replaceUnicode` and `wrapAt` all rewrite an accepted line before it reaches
+the `.ain`, and neither the scene file nor the patch showed either fault --
+only the dump of the built file did. `docs/scene-driver.md` has both, and the
+two guards that now stand where they were.
 
 ## Panel and layout widths are in the `.pactex`
 
