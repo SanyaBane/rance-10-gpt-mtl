@@ -183,6 +183,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Anise Sawatari | アニス・沢渡 | Female | RX |
 | Anokia Moemoe Slin | アノキア・モエモエ・スリン | Female | RQ |
 | Aoi | あおい | Female | RX |
+| Apache | アパッチ | Male | RX |
 | Apostle Alcarria / Alcarria | 使徒 アルカリア | Female | RX |
 | Apostle Atlanta / Atlanta | 使徒 アトランタ | Female | RX |
 | Apostle Aurora / Aurora | 使徒 オーロラ | Female | RX |
@@ -208,6 +209,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Arms Arc | アームズ・アーク | Female | RX |
 | Asakura Yoshikage | 朝倉 義景 | Male | SR RX |
 | Asakura Yuki | 朝倉 雪 | Male | SR |
+| Asbestos | アスベスト | Male | RX |
 | Asuka Cadmium | アスカ・カドミュウム | Female | RX |
 | Atago McCart / Atago Macatt | アタゴ・マカット | Female | RX |
 | Aten Gnu | アテン・ヌー | Female | RQ |
@@ -217,11 +219,15 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Barres Province | バレス・プロヴァンス | Male | RIII RX |
 | Bashou Matio |  | Male | SR |
 | Battling Centers | バッティング・センターズ | Male | RX |
+| Beast Tiger | 魔獣タイガー | Male | RX |
 | Bernard Seramite | バーナード・セラミテ | Male | RX |
+| Bezeleye | ベゼルアイ | Female | RX |
 | Bintan Destra | ビンタン・デストラー | Male | RIII |
 | Bird Lithfie | バード・リスフィ | Male | RQ RX |
 | Biscuitta Berns / Biscuitta Burns | ビスケッタ・ベルンズ | Female | RX |
 | Bitch Golch | ビッチ・ゴルチ | Male | RQ |
+| Biyonhou Osman | ビヨンホウ | Male | RX |
+| Black Lotus | ブラックロータス | Male | RX |
 | Black Swan | ブラックスワン | Female | RIX |
 | Bobza Flanders | ボブザ・フランダース | Male | RQ |
 | Borchini | ボルチーニ | Male | RX |
@@ -231,7 +237,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Caloria Cricket | カロリア・クリケット | Female | RX |
 | Camilla | カミーラ | Female | RVI RX |
 | Cantel | キャンテル | Male | RX |
-| Captain | 船長 | ? | RX |
+| Captain | 船長 | Male | RX |
 | Captain Vanilla | キャプテン バニラ | Female | SR |
 | Carolie Mate / Calory Mate | キャロリ・メイト | Female | RX |
 | Cecil Carna | セシル・カーナ | Female | RX |
@@ -239,6 +245,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Cetina Favo | セティナ・ファーボ | Female | R5D |
 | Chaka Cadmium |  | ? | RX |
 | Chaos | カオス | Male | R01 RX |
+| Chikuri | 乳久里 | Female | RX |
 | Chisa Gode | チサ・ゴード | Female | RQ |
 | Chizuko Yamada / Yamada Chizuko | 山田 千鶴子 | Female | RVI RX |
 | Chochoman Publy | チョチョマン・パブリ | Male | RX |
@@ -249,6 +256,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Crane | クレイン | Female | RX |
 | Cream Ganoblade | クリーム・ガノブレード | Female | RX |
 | Crook Mofus | クルックー・モフス | Female | RX |
+| Cu | クゥ | Female | RX |
 | Cutie Band | キューティ・バンド | Female | SR |
 | Cynthia | シンシア | Female | RIII |
 | Daidouji Komatsu | 大道寺 小松 | Female | SR |
@@ -256,6 +264,8 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Dark Alice | 闇アリス | Female | RX |
 | Dark Rance | ダークランス | Male | RVI RQ RX |
 | Dark Wings (Freya faction) | — | ? | RX |
+| DD | 魔人ＤＤ | Male | RX |
+| Demon King Little Princess | リトルプリンセス | Female | RX |
 | Dens Blau | デンズ・ブラウ | Male | RQ |
 | Dio Calmis | ディオ・カルミス | Male | RQ |
 | Diphteria (city mayor) | ジフテリア | Male | RX |
@@ -272,6 +282,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Emi Alphorne | エミ・アルフォーヌ | Female | RQ |
 | Erina | エリナ | Female | SR |
 | Eropicha Nyanko | エロピチャ・ニャンコ | Female | RX |
+| Eroyack ALV | エロヤック | Male | RX |
 | Ex Banquet | エクス・バンケット | Male | RX |
 | Feliss | フェリス | Female | RVI RQ RX |
 | Fletcher Modell | フレッチャー・モーデル | Female | RQ |
@@ -284,11 +295,17 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Galban | ガルバン | Female | RX |
 | Galtia | ガルティア | Male | RVI RX |
 | Gazel Gode | ガイゼル・ゴード | Male | RQ |
+| General Tiger | タイガー将軍 | Male | RX |
 | Gengorou Shinoda / Shinoda Gengorou | 篠田源五郎 | Male | RX |
 | Genri | 言裏 | Male | RVI |
+| Giant Demonic Blood Soul | 巨大魔血魂 | Genderless | RX |
 | Goddess ALICE | 女神アリス | Female | RX |
 | Gon | ゴン | Male | SR |
+| Haikara-chan | はいからちゃん | Female | RX |
 | Haini Gold | ハイニ・ゴール | Female | RQ |
+| Hanako | 花子 | Female | RX |
+| Haniko | ハニ子 | Female | RX |
+| Hanman | 大地の次世代魔物 | Male | RX |
 | Hanny / Green Hanny / Blue Hanny / Red Hanny / Black Hanny | ハニー | Male | All |
 | Hanny King | ハニー・キング | Male | RX |
 | Hara Aki | 原 阿樹 | Female | SR |
@@ -298,16 +315,22 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Hectomillibar Chizu | ヘクトミリバール・千津 | Female | RX |
 | Heidi Pankrau | ハイジ・パンクラウ | Female | RX |
 | Henderson Dauntless | ヘンダーソン・ドーントレス | Male | RQ |
+| Hero Geimark | 勇者ゲイマルク | Male | RX |
+| Hero Helman | ヒーロー２ | Male | RX |
 | Hibachi | 火鉢 | Female | SR |
 | Hikari Mi Blanc | ヒカリ・ミ・ブラン | Female | RQ |
 | Ho Raga / Ho-Raga | ホ・ラガ | Male | RX |
 | Holy Katana Nikkou / Nikkou | 聖刀日光 | Female | SR RX |
 | Horikawa Nami | 堀川 奈美 | Female | SR |
 | Hornet | ホーネット | Female | RVI RX |
+| Horus | ノーマルホルス | Male | RX |
 | Houjou Souun | 北条 早雲 | Male | SR RX |
 | Houjou Susu |  | Female | RX (spoiler) |
+| Houjou Suzu | すず２ | Female | RX |
+| Housesnurse | ハウセスナース | Female | RX |
 | Hubert Lipton | ヒューバート・リプトン | Male | RIII RIX RX |
 | Hunty Kalar | ハンティ・カラー | Female | RQ RX |
+| Ian Ruston | イアン | Male | RX |
 | Ikanti Kalar | イカンティ | Female | RX |
 | Imagawa Anko | 今川 あんこ | Female | SR |
 | Imagawa Yoshimoto | 今川 義元 | Male | SR |
@@ -319,6 +342,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Jericho Colon | イェリコ・コロン | Female | RQ |
 | Jhahlckas | ジャハルッカス | Male | RX |
 | Johnny | じょにぃ | Male | R5D |
+| Joseph | 大将軍ヨシフ | Male | RX |
 | Julia Lindum | ジュリア・リンダム | Female | RX |
 | Kabachahn the Lightning | カバッハーン・ザ・ライトニング | Male | RX |
 | Kalar | 汎用カラー | Female | RX |
@@ -331,16 +355,23 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Katyusha Bosch | カチューシャ・ボッシュ | Female | RX |
 | Kawanoe Mine | 川之江 美禰 | Female | SR |
 | Kawanoe Yuzuru | 川之江 譲 | Male | SR |
+| Kawazoe | かわぞえ | Male | RX |
 | Kayblis | ケイブリス | Male | RVI RX |
+| KD | ＫＤ | Male | R02 RIV RVI RQ RX |
+| Keiko | ケイコ | Female | RX |
 | Keith Gold | キース・ゴールド | Male | RQ RX |
 | Kentou Kanami | 見当 かなみ | Female | R01 RX |
 | Kesselring | ケッセルリンク | Male→Female | RX (sex change) |
 | Ketchuk Bangor | ケチャック・バンゴー | Male | RIII |
+| Kiba-o | 命の次世代魔物 | Male | RX |
 | Kibako | キバ子 | Female | RX |
 | Kii | 紀伊 | Female | RX |
 | Kikkawa Kiku | 吉川 きく | Female | SR RX |
+| Kill Kill Takora | 力の次世代魔物 | Male | RX |
 | Kimchi Drive | キムチ・ドライブ | Female | RX |
 | King Dragon | キング・ドラゴン | Male | RQ |
+| King Mantetsu | 満鉄王 | Male | RX |
+| King Mitsubishi | 三菱王 | Male | RX |
 | Kinggeorge Violae | キングジョージ・アバレー | Female | RQ |
 | Kinkaid Brambla | キンケード・ブランブラ | Male | RX |
 | Kiratouki | キラトーキ | Male | RX |
@@ -371,10 +402,12 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Lexington |  | Male | RX |
 | Lia Parapara Leazas | リア・パラパラ・リーザス | Female | R01 RX |
 | Lil Avenger | 復讐ちゃん | Female | RQ |
+| Locked Packet | 鍵付きパケット | Genderless | RX |
 | Lola Indus | ローラ・インダス | Female | RQ |
 | Louis Kittwac | ルイス・キートワック | Male | RIV |
 | Lucy Julietta | ルーシー・ジュリエッタ | Female | RX |
 | Magic the Gandhi | マジック・ザ・ガンジー | Female | RVI RX |
+| Magisko | マジスコ | Female | RX |
 | Mai | マイ | Female | SR |
 | Maitrea Meishin | マイトレイア・メイシアン | Male | RIII |
 | Makibano Meg | 牧場野 メグ | Female | SR |
@@ -394,10 +427,12 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Mekill Depa L'Zile | ミーキル・デパ・ラジール | Female | RQ |
 | Melfeis Promenade | メルフェイス・プロムナード | Female | RX |
 | Menad Shisei | メナド・シセイ | Female | R01 RX |
+| Mepora | めぽら | Female | RX |
 | Merci Archa | メルシィ・アーチャ | Male | RQ |
 | Mercy Julietta | マーシー・ジュリエッタ | Female | RX |
 | Merim Tser | メリム・ツェール | Female | RX |
 | Mi Lordring | ミ・ロードリング | Male | RX |
+| Mighty-armed Rabble | 鉄腕ラブル | Female | RX |
 | Mikan | ミカン | Female | RX |
 | Mill Yorks / Milli Yorks | ミル・ヨークス | Female | RIII RX |
 | Millie Lincle | ミリー・リンクル | Female | RQ |
@@ -406,10 +441,14 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Mix / Mix Tou | ミックス | Female | RX |
 | Modern Kalar | モダン・カラー | Female | RX |
 | Moganda | モガンダ | Male | RQ |
+| Monster Captain Abashiri | 魔物隊長アバシリ | Male | RX |
 | Morita Ai | 森田 愛 | Female | SR |
 | Mouri Motonari | 毛利 元就 | Male | SR RX |
 | Mouri Teru | 毛利 てる | Female | SR RX |
+| Mud Princess Byranrose | 泥姫バイランローズ | Female | RX |
 | Murala | ムララ | Male | RQ |
+| Muscle | マッスル | Male | RX |
+| Myiran | ミイラン | Female | RX |
 | Mysteria Tor | ミステリア・トー | Female | RX |
 | Nagata-kun | 長田君 | Male | RX |
 | Nagi su Ragarl | ナギ・ス・ラガール | Female | RIII RX |
@@ -418,19 +457,25 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Natori | 名取 | Female | SR |
 | Nay Wrong | ネイ ヲロング | Female | RQ |
 | Necai Sys | ネカイ・シス | Female | R5D |
+| Needle | ニードル | Female | RX |
 | Nelson Server | ネルソン・サーバー | Male | RX |
 | Neplacus / Elder Neplacus | ネプラカス | Male | RX |
 | Nero Chapet VII | ネロ・チャペット7世 | Male | RIII |
 | Nikkou / Holy Katana Nikkou | 日光 | Female | SR RX |
 | Nimitz Leak | ニミッツ リーク | Female | RX |
+| Nina Nirvana | ニーナ | Female | RX |
+| Noah Hakobune | ノア | Female | RIII RQ RX |
 | Noah Sailing | ノア・セーリング | Female | RX |
 | Nogiku | 野菊 | Female | SR RX |
 | Noir | ノワール | Female | SR RX |
+| Nook 77 | ヌーク７７ | Female | RX |
 | Nopperabo |  | Female | SR |
 | Nos | ノス | Male | RQ |
+| Notongatsu | ノートンガツ | Genderless | RX |
 | Nunuhara Cabbage | ヌヌハラ・キャベツ | Female | RX |
 | Oama Motohide | オアマ・モトヒーデ | Male | SR |
 | Oda Kou | 織田 香 | Female | SR RX |
+| Oda Kouhime | 香姫 | Female | RX |
 | Oda Nobunaga | 織田 信長 | Male | SR |
 | Ogawa Kentarou | 小川 健太郎 | Male | SR RX |
 | Ogier Lott Stein | オーギル・ロット・シュタイン | Male | RQ |
@@ -440,6 +485,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Orime | 折女 | Female | SR RX |
 | Oruore the 3rd | オルオレ・ザ・サード | Male | RX |
 | Ouka Toki | 凰火 朱鷺 | Female | SR |
+| Packet | パケット | Genderless | RX |
 | Pamela Helman | パメラ・ヘルマン | Female | RIII RIX |
 | Papaya Server | パパイア・サーバー | Female | RX |
 | Papdimus Scirsabun (Papademas Shirusven) | — | Male | RX |
@@ -450,6 +496,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Peruelé Kalette | ペルエレ・カレット | Female | RX |
 | Pervert Mouse | 変態ネズミ | Male | RQ |
 | Pespo Tontone | ペスポ・トントーネ | Male | RX |
+| Petrified Person | 石化した人 | Genderless | RX |
 | Pi-R | パイアール | Male | RX |
 | Pigu Geliciam | ピグ・ギリシアム | Female | RX |
 | Pitten Chao | ピッテン・チャオ | Male | RX |
@@ -458,11 +505,15 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Poron Chao | ポロン・チャオ | Male | RX |
 | Potauf Tokrev | ポートフ・トカレフ | Male | RIX |
 | Prima Hononoman | プリマ・ホノノマン | Female | RX |
+| Prince Toshiba | 東芝王子 | Male | RX |
+| Princess Hitachi | 日立姫 | Female | RX |
+| Princess Panasonic | 松下姫 | Female | RX |
 | Pulptenks Flanders | パルプテンクス・フランダース | Female | RQ |
 | Quelplan | クエルプラン | Female | RX |
 | Radon Alphorne | ラドン・アルフォーヌ | Male | RQ |
 | Ragishss Cryhausen | ラギシス クライハウゼン | Male | RVI RX |
 | Ragnarokarc Super Gandhi | ラグナロックアーク・スーパー・ガンジー | Male | RVI RX |
+| Ralcat | ラルカット | Female | RX |
 | Ralga Succubus | ラルガ・サッキュバス | Female | RQ |
 | Rance / Demon King Rance | ランス | Male | All |
 | Rance Castle Knight | 汎用ランス城騎士 | Female | RX |
@@ -474,6 +525,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Reincock | ラインコック | Male | RQ |
 | Replica Misly | レプリカ・ミスリー | Female | RQ |
 | Reset Kalar | リセット・カラー | Female | RX |
+| Return Demon | リターンデーモン | Male | RX |
 | Richelle von do Kosusu | リクチェル・フォン・ド・コースス | Female | RX |
 | Rick Addison | リック・アディスン | Male | R01 RX |
 | Rizna Lanfbitt | リズナ・ランフビット | Female | RVI RX |
@@ -496,6 +548,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Sanada Tourin | 真田 透琳 | Male | RX |
 | Sanakia Drelshkaf | サーナキア・ドレルシュカフ | Female | RQ RX |
 | Satella | サテラ | Female | RVI RX |
+| Satellite Weapon | 衛星兵器 | Genderless | RX |
 | Saya Friday | サヤ・フライディ | Female | RIII |
 | Seigan | 性眼 | Male | SR |
 | Sel Catchgolf | セル・カーチゴルフ | Female | RX |
@@ -503,16 +556,22 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Sepia Landstarr | セピア・ランドスター | Male | RQ |
 | Serachrolas | セラクロラス | Female | RX |
 | Seyadatara | セヤダタラ | Female | RQ |
+| Shachiko | シャチ子 | Female | RX |
 | Shariela Aries / Shariela | シャリエラ・アリエス | Female | RX |
 | Sheila Helman | シーラ・ヘルマン | Female | RIX RX |
 | Shibata Katsuie | 柴田 勝家 | Male | SR |
 | Shichisei | 七星 | Male | SR |
 | Shimazu Yoshihisa | 島津 ヨシヒサ | Male | SR |
+| Shizuka and Nagi | 子供志津香とナギ | Female | RX |
+| Shuri Seihajuu Nagasaki | シュリ２ | Female | RX |
 | Sieg | ジーク | Male | RVI |
 | Silbarrel Silbarella | シルバレル・シルバレラ | Female | RX |
 | Silky Littleraisin | シルキィ リトルレーズン | Female | RX |
 | Sill Plain | シィル・プライン | Female | All |
 | Sioux / Sioux Province | スー・プロヴァンス | Female | RX |
+| Skeleton King Modokata | 骸骨王モドカタ | Male | RX |
+| Sorutoan | ソルトアン | Female | RX |
+| Squidman | イカマン | Male | R5D RVI SR RQ RIX RX |
 | Starlevel The Great | スターレベル様 | Male | RQ |
 | Stessel Romanov | ステッセル・ロマノフ | Male | RIX |
 | Stroganoff | ストロガノフ | Male | RX |
@@ -527,6 +586,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Tamanegi | タマネギ | Male | SR |
 | Tanegashima Shigehiko | 種子島 重彦 | Male | SR |
 | Tenmabashi Alice | 天満橋 ありす | Female | SR |
+| Terra Horus | テラ | Female | RX |
 | Thalgo |  | ? | RX |
 | Thoma Lipton | トーマ・リプトン | Male | RIII RIX RX |
 | Tilde Sharp | チルディ・シャープ | Female | RX |
@@ -534,6 +594,10 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Tolstoy Batou | トルストイ・バトー | Male | RIX |
 | Tone / Tokugawa Tone | 深根 | Female | RX |
 | Toppos | トッポス | Male | RX |
+| Toushin Sigma | 闘神シグマ | Male | RX |
+| Toushin Zeta | 闘神ゼータ | Male | RVI RX |
+| Treasure Chest Dango | 宝箱だんご | Genderless | RX |
+| Ueno Hanako | 上野花子 | Female | RX |
 | Uesugi Katsuko | 上杉 勝子 | Female | SR RX |
 | Uesugi Kenshin |  | Female | SR RX |
 | Uesugi Torako | 上杉 虎子 | Female | SR RX |
@@ -542,18 +606,24 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Uspira Shintou | ウスピラ・真冬 | Female | RX |
 | Uzume / Kentou Uzume | ウズメ | Female | RX |
 | Varen | ファーレン | Female | RX |
+| Vital Fit | バイタル | Male | RX |
 | Vivid Kalar | ビビッド・カラー | Female | RX |
 | Warg | ワーグ | Female | RX |
+| Wass | ワッス２ | Male | RX |
 | Wayoso Benville | ワヨソ・ベンビール | Female | RQ |
+| Wenlina | ウェンリーナー | Female | R42 RX |
+| White Satan | 時の次世代魔物 | Male | RX |
 | Wichita Skate | ウィチタ・スケート | Female | RX |
 | Willis Fujisaki | ウィリス・藤崎 | Female | RX |
 | Wrench Luncheon | レンチ・ランチョン | Female | RQ |
 | Wuu | ウー | Male | SR |
+| Xacalite | ザカリテ | Male | RX |
 | Yamada Chizuko / Chizuko Yamada | 山田 千鶴子 | Female | RVI RX |
 | Yamamoto Isoroku | 山本 五十六 | Female | SR RX |
 | Yamamoto Rangi | 山本 乱義 | Male | RX |
 | Yamanaka Kojika | 山中 子鹿 | Female | SR |
 | Yamisagi / Dark Heron | 闇鷺 | Female | RX |
+| YORA | ＹＯＲＡ | Male | RX |
 | Yoshikawa Kyouko | 芳川 今日子 | Female | SR |
 | Yoshikawa Machiko | 芳川 真知子 | Female | SR |
 | Yosif | よーぜふ | Male | RX |
