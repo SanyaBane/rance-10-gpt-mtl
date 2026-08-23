@@ -29,7 +29,7 @@ import * as path from "path";
 import {AIN} from "./AinFiles.js";
 import {featureBullet, switchedFeatures, switchingLines} from "./CustomMods.js";
 import {CUSTOM_MODS} from "./Features.js";
-import {isTranslated, TEXT_LANGS} from "./TextLanguages.js";
+import {isTranslated, releaseFolder, TEXT_LANGS} from "./TextLanguages.js";
 import {PATCH_TAG} from "./Version.js";
 import {wrap} from "./Wrap.js";
 
@@ -171,7 +171,7 @@ export const renderIndexReadme = (langs, features) => [
         + " of **one** folder into your Rance 10 folder, over what is already there. Each folder has a README"
         + " of its own saying what is in it and how to install it."),
     "",
-    ...langs.flatMap(lang => wrap(`\`${lang}/\` — ${TEXT_LANGS[lang].summary}`
+    ...langs.flatMap(lang => wrap(`\`${releaseFolder(lang)}/\` — ${TEXT_LANGS[lang].summary}`
         + ` (${filesFor(lang).length} file${filesFor(lang).length === 1 ? "" : "s"})`, "- ", "  ")),
     "",
     ...featureNote(features),

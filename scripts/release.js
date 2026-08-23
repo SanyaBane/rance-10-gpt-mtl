@@ -17,11 +17,18 @@
  *
  * A release folder is one folder per folder under text_languages/:
  *
- *   README.md                                          which folder is which
- *   en_grok/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
- *           custom_mods/<one empty file per feature>, README.md
- *   jp/Rance10.ain, README.md
- *      custom_mods/<the same>, README.md
+ *   README.md                              which folder is which
+ *   rance10-en_grok-v<version>/Rance10.ain, Rance10EX.ex, Rance10Pact.afa, README.md
+ *                              custom_mods/<one empty file per feature>, README.md
+ *   rance10-jp-v<version>/Rance10.ain, README.md
+ *                         custom_mods/<the same>, README.md
+ *
+ * A folder is named for the download it becomes rather than for the language
+ * it holds -- each one is zipped as it stands and put on the releases page as
+ * an asset of its own, so somebody takes the English or the Japanese and not
+ * both. modules/TextLanguages.js builds that name and says why it is the one
+ * name here that is not an identifier; --text-lang goes on taking the bare
+ * en_grok.
  *
  * Each is a whole install: copy the contents of one folder into the game and
  * that is the patch, with nothing to assemble out of two places. The READMEs
@@ -66,7 +73,7 @@ import {switchedFeatures, switchNote, writeCustomMods} from "../modules/CustomMo
 import {BUILD} from "../modules/Env.js";
 import {CUSTOM_MODS, FEATURES, selectedFeatures} from "../modules/Features.js";
 import {filesFor, renderFolderReadme, renderIndexReadme} from "../modules/ReleaseReadme.js";
-import {isTranslated, listTextLangs, TEXT_LANGS, textLangName} from "../modules/TextLanguages.js";
+import {isTranslated, listTextLangs, releaseFolder, TEXT_LANGS, textLangName} from "../modules/TextLanguages.js";
 import {PATCH_TAG} from "../modules/Version.js";
 
 /** The one build that is per text language, and the two that are not. */
@@ -180,7 +187,7 @@ run(() => {
                 + " Rance10.ain, byte for byte.");
             continue;
         }
-        const status = node(AIN, [...rest, `--text-lang=${lang}`, `--out=${path.join(dir, lang)}`]);
+        const status = node(AIN, [...rest, `--text-lang=${lang}`, `--out=${path.join(dir, releaseFolder(lang))}`]);
         if (status !== 0) {
             console.error(`\n${AIN} failed on ${lang}. ${dir} holds whatever the builds before it wrote.`);
             return status;
@@ -196,7 +203,7 @@ run(() => {
      */
     const translated = built.filter(isTranslated);
     for (const script of translated.length > 0 ? SHARED : []) {
-        const status = node(script, [...rest, `--out=${path.join(dir, translated[0])}`]);
+        const status = node(script, [...rest, `--out=${path.join(dir, releaseFolder(translated[0]))}`]);
         if (status !== 0) {
             console.error(`\n${script} failed. ${dir} holds whatever the builds before it wrote.`);
             return status;
@@ -204,7 +211,7 @@ run(() => {
     }
     for (const lang of translated.slice(1)) {
         for (const file of SHARED_FILES) {
-            fs.copyFileSync(path.join(dir, translated[0], file), path.join(dir, lang, file));
+            fs.copyFileSync(path.join(dir, releaseFolder(translated[0]), file), path.join(dir, releaseFolder(lang), file));
         }
     }
 
@@ -218,15 +225,16 @@ run(() => {
      */
     const switched = switchedFeatures(features);
     for (const lang of built) {
-        writeCustomMods(path.join(dir, lang), features);
-        fs.writeFileSync(path.join(dir, lang, "README.md"), renderFolderReadme(lang, features), "utf-8");
+        writeCustomMods(path.join(dir, releaseFolder(lang)), features);
+        fs.writeFileSync(path.join(dir, releaseFolder(lang), "README.md"), renderFolderReadme(lang, features),
+            "utf-8");
     }
     fs.writeFileSync(path.join(dir, "README.md"), renderIndexReadme(built, features), "utf-8");
 
     const extra = switched.length > 0 ? [`${CUSTOM_MODS}/`] : [];
     console.log(`\nBuilt patch ${PATCH_TAG} into ${dir}:`);
     for (const lang of built) {
-        console.log(`  ${lang}/ -- ${TEXT_LANGS[lang].summary}`);
+        console.log(`  ${releaseFolder(lang)}/ -- ${TEXT_LANGS[lang].summary}`);
         console.log(`    ${[...filesFor(lang), "README.md", ...extra].join(", ")}`);
     }
     reportFeatures(features, switched.length > 0 ? "in every folder here" : "");

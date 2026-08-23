@@ -43,9 +43,15 @@ npm run release
 
 That builds into `build/release`, one folder per language:
 
-- `en_grok/` — the English patch: `Rance10.ain`, `Rance10EX.ex` and `Rance10Pact.afa`.
-- `jp/` — one `Rance10.ain`, the game's own Japanese with the optional features over it and no
-  English anywhere.
+- `rance10-en_grok-v<version>/` — the English patch: `Rance10.ain`, `Rance10EX.ex` and
+  `Rance10Pact.afa`.
+- `rance10-jp-v<version>/` — one `Rance10.ain`, the game's own Japanese with the optional features
+  over it and no English anywhere.
+
+Each folder is named for the download it becomes: zip it as it stands and it goes on the releases
+page as an asset of its own, so somebody takes the English or the Japanese and not both. The version
+in the name comes from `package.json` — `modules/TextLanguages.js` builds it. Note that
+`--text-lang` still takes the bare `en_grok`, never the folder name.
 
 Each folder is a complete install on its own. Copy what is inside one of them into your game folder,
 over the files already there, and that is the patch — there is nothing to assemble out of two

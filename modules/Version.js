@@ -36,7 +36,7 @@
  * box under the menu bar is built by Rance10.exe out of the game's title, the
  * literal "\r\n\r\nVersion ", and the whole of Version.txt beside it -- four
  * bytes reading "1.04", with nothing in the .ain holding that line at all. So
- * writing "1.04 + patch v1.2.0" into that file would put the patch's name in
+ * writing "1.04 + patch v<version>" into that file would put the patch's name in
  * the one place the game answers the question, without an .exe being touched.
  * It is not done because the file is the game's own rather than ours: whatever
  * an official update does with it, our four extra words would be sitting in the
@@ -48,8 +48,8 @@ import * as fs from "fs";
 import * as path from "path";
 import {ROOT} from "./Env.js";
 
-/** "1.2.0" -- the bare number, for anything that composes a line of its own. */
+/** The bare number as package.json spells it, for anything composing a line of its own. */
 export const PATCH_VERSION = JSON.parse(fs.readFileSync(path.join(ROOT, "package.json"), "utf-8")).version;
 
-/** "v1.2.0" -- how a person reads it, and how a tag spells it. */
+/** The same with a `v` on the front -- how a person reads it, and how a tag spells it. */
 export const PATCH_TAG = `v${PATCH_VERSION}`;

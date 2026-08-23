@@ -22,6 +22,7 @@ import * as path from "path";
 import {pathToFileURL} from "url";
 import {flagValue} from "./Argv.js";
 import {BUILD, ROOT} from "./Env.js";
+import {PATCH_TAG} from "./Version.js";
 
 /** One folder per text language, each holding nothing but that text. */
 export const TEXT_LANGS_DIR = path.join(ROOT, "text_languages");
@@ -99,6 +100,25 @@ export const textLangName = () => {
 };
 
 export const textLangDir = (name) => path.join(TEXT_LANGS_DIR, name);
+
+/**
+ * What this language's folder is called in a release: rance10-en_grok-v<version>,
+ * where the version is whatever package.json says, through modules/Version.js.
+ *
+ * Every other name here is an identifier -- the folder under text_languages/,
+ * the value --text-lang takes, the key in TEXT_LANGS -- and all of them are the
+ * bare name. This one is not: each language is an asset of its own on the
+ * releases page, zipped exactly as this folder stands, so what it is called
+ * becomes the name of a file somebody downloads. It has to say which game,
+ * which text and which patch without the page around it to explain, because a
+ * month later it is a zip in a downloads folder and nothing else.
+ *
+ * Which is also why it is only ever an output. Nothing reads a folder by this
+ * name, and --text-lang goes on taking the bare one -- the two must not be
+ * confused, or somebody feeds the flag the folder they downloaded and is told
+ * there is no such language.
+ */
+export const releaseFolder = (name) => `rance10-${name}-${PATCH_TAG}`;
 
 /**
  * A translation does not have to arrive as a corpus of chunks. One that was
