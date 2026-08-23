@@ -248,7 +248,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Daidouji Komatsu | 大道寺 小松 | Female | SR |
 | Daniel Safety | ダニエル・セフティ | Male | RQ |
 | Dark Rance | ダークランス | Male | RVI RQ RX |
-| Dark Wings (Freya faction) | — | RX |
+| Dark Wings (Freya faction) | — | ? | RX |
 | Dens Blau | デンズ・ブラウ | Male | RQ |
 | Dio Calmis | ディオ・カルミス | Male | RQ |
 | Diphteria (city mayor) | ジフテリア | Male | RX |
@@ -358,7 +358,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Lelyukov Berkov | レリューコフ・バーコフ | Male | RIX |
 | LeMay | ルメイ | Male | RX |
 | Leopard Maara | レオパルド マーラ | Female | SR |
-| Lexington | **Male** | RX |
+| Lexington |  | Male | RX |
 | Lia Parapara Leazas | リア・パラパラ・リーザス | Female | R01 RX |
 | Lil Avenger | 復讐ちゃん | Female | RQ |
 | Lola Indus | ローラ・インダス | Female | RQ |
@@ -523,7 +523,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Tokugawa Tone / Tone | 深根 | Female | RX |
 | Toppos | トッポス | Male | RX |
 | Uesugi Katsuko | 上杉 勝子 | Female | SR RX |
-| Uesugi Kenshin | **Female** | SR RX |
+| Uesugi Kenshin |  | Female | SR RX |
 | Uesugi Torako | 上杉 虎子 | Female | SR RX |
 | Unga Sayori | 運河 さより | Male | SR |
 | Urza Pranaice | ウルザ・プラナアイス | Female | RVI RX |
