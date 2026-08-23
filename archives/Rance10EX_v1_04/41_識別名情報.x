@@ -62,7 +62,7 @@ tree 識別名情報 = {
 		ランクアップ４０ = (list) { "全裸カード　取得可能" },
 	},
 	フロストバイン = {
-		英名 = "Frostbain",
+		英名 = "Frostbyne",
 		キャライベント１ = (list) { "条件成立" },
 		キャライベント２ = (list) { "条件成立" },
 		キャライベント３ = (list) { "条件不成立" },
@@ -2458,7 +2458,7 @@ tree 識別名情報 = {
 			英名 = "Naked M-P Athena 2.0",
 		},
 		"魔女 フロストバイン" = {
-			英名 = "Witch Frostbain",
+			英名 = "Witch Frostbyne",
 		},
 		"お手伝い タマ" = {
 			英名 = "Helper Tama",
@@ -5520,7 +5520,7 @@ tree 識別名情報 = {
 			英名 = "Mass-Produced Athena 2.0",
 		},
 		"フロストバイン" = {
-			英名 = "Frostbain",
+			英名 = "Frostbyne",
 		},
 		"タマ" = {
 			英名 = "Tama",

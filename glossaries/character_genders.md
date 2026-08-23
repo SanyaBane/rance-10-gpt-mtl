@@ -271,7 +271,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Freak Paraffin | フリーク・パラフィン | Male | RQ |
 | Freoncoise | フロンソワーズ | Female | RIII |
 | Freya Idun | フレイア・イズン | Female | RX |
-| Frostbain | フロストバイン | Female | RX |
+| Frostbyne | フロストバイン | Female | RX |
 | Full Kalar | フル・カラー | Female | RX |
 | Galban | ガルバン | Female | RX |
 | Galtia | ガルティア | Male | RVI RX |

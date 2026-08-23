@@ -557,7 +557,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "闘神ゼータ／", "Toushin Zeta" },
 	{ "Lieutenant Alekozin", "Lieutenant Alekozin" },
 	{ "Monster Captain Brobio", "Monster Captain Brobio" },
-	{ "フロストバイン／", "Frostbain" },
+	{ "フロストバイン／", "Frostbyne" },
 	{ "ソルトアン／", "Sorutoan" },
 	{ "船長／", "Captain" },
 	{ "The mysterious girl", "The mysterious girl" },
