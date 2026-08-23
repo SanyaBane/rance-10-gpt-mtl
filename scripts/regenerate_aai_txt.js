@@ -7,6 +7,7 @@
  * same whichever translation is being built.
  */
 import * as fs from "fs/promises";
+import * as fsSync from "fs";
 import * as path from "path";
 import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
 import {readCorpus} from "../modules/Corpus.js";
@@ -35,6 +36,19 @@ try {
     if (!isTranslated(textLang)) {
         throw new Error(`The "${textLang}" text language has no dialogue to render:`
             + " it is the game's own Japanese. There is nothing for this script to do.");
+    }
+    /*
+     * A third shape has arrived since readTextLang below knew two. A language
+     * whose dialogue is one file per scene keeps those under scenes/ and
+     * reaches the build through an assembled dialogue.ain.txt, which is
+     * generated and gitignored -- so a fresh checkout of one has the scenes and
+     * no patch, and falls through to the corpus reader, which says "ENOENT:
+     * gpt_outputs" and a stack about a folder that was never going to be there.
+     */
+    if (!hasPatch(textLang) && fsSync.existsSync(path.join(textLangDir(textLang), "scenes"))) {
+        throw new Error(`text_languages/${textLang} keeps its dialogue as one file per scene, and has no`
+            + " assembled dialogue.ain.txt to build from. That file is generated rather than kept:"
+            + ` run npm run assemble-scenes -- --text-lang=${textLang} first.`);
     }
 } catch (error) {
     console.error(error.message);

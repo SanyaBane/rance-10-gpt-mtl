@@ -13,3 +13,8 @@
 /local/
 /modules/openai_api_key.js
 /gpt_tests/
+
+# A text language whose dialogue is one file per scene assembles its
+# dialogue.ain.txt out of them, so that file is a build product living beside
+# its source rather than under build/. See modules/SceneTranslations.js.
+/text_languages/en_opus/dialogue.ain.txt
