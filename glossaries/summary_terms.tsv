@@ -4,12 +4,20 @@
 # Columns: the Japanese <TAB> the English <TAB> a short form, where the panel
 # needed one.
 #
-# Names of people are not here. They come from glossaries/mistranslated_names.json and
-# glossaries/card_name_glossary.tsv, and scripts/summary_chunk.js quotes both into a prompt
-# beside these. A word the dialogue also says is not here either, and for the
-# same reason: 総統, 魔物界, 大将軍, 天満橋 and 死国 live in that file too, where the
-# build repairs the corpus from one field and the name check reports a caption
-# that disagrees. A row here can do neither.
+# For the synopsis panel, names of people are not here: they come from
+# glossaries/mistranslated_names.json and glossaries/card_name_glossary.tsv, and
+# scripts/summary_chunk.js quotes both into a prompt beside these. A word the
+# dialogue also says was not here either, and for the same reason: 総統, 魔物界,
+# 大将軍, 天満橋 and 死国 live in that file, where the build repairs the corpus
+# from one field and the name check reports a caption that disagrees.
+#
+# The file has a second job now and the last section is it. modules/ScenePrompt.js
+# cuts a scene's glossary slice from three tables and this is one of them, so a
+# row here is how a word reaches the person translating a scene -- and the name
+# table is the wrong place to put one for that, because an entry there is also a
+# repair pass over a corpus that is already baked. Those rows are people's names
+# and dialogue words both, they are labelled as what they are, and they are for
+# the prompt rather than for the panel.
 #
 # What is left -- the operations, the fortresses, the map, the
 # machines -- the dialogue mostly never said, so scripts/lookup_term.js has no
@@ -178,12 +186,41 @@
 ホフホフ	Hofhoph
 幸福きゃんきゃん	Lucky Can Can
 
+# --- What a scene prompt needs -----------------------------------------------
+# The rows below are here because modules/ScenePrompt.js cuts a scene's glossary
+# slice from this file, and a word no row covers is absent from the prompt: the
+# translator then invents an English for it, and the next scene's translator
+# invents another. scripts/find_unnamed_terms.js is what finds them and
+# docs/unnamed-terms.md is why they are here rather than in the name table --
+# a fresh entry there is a repair pass over a corpus that is already baked,
+# which is the hazard docs/baked-name-repairs.md records.
+#
+# The English is not decided here where something else already had it. These
+# come from enemy_party_glossary.tsv (Rudrasaum, Stone Guardian, Brobio,
+# Demon King Miki, Grand Marshal Stroganoff), card_name_glossary.tsv (Mix, Dark
+# Rance, Motonari, Uzume, Princess Panasonic), place_name_glossary.tsv (the
+# Demon King's Castle) and docs/terminology-drift.md (the Supreme Leader's
+# Headquarters, whose panel short form summary_glossary.tsv already writes).
+
 ホルス	Horus
 LP5年	LP5
 LP6年	LP6
 LP7年	LP7
 ＬＰ８年	LP8
 大陸	the Continent
+
+総統司令部	the Supreme Leader's Headquarters	The Supreme Leader's HQ
+魔王城	the Demon King's Castle
+魔王美樹	Demon King Miki
+大元帥	Grand Marshal
+ルドラサウム	Rudrasaum
+ストーンガーディアン	Stone Guardian
+ブロビオ	Brobio
+ミックス	Mix
+ダークランス	Dark Rance
+元就	Motonari
+ウズメ	Uzume
+松下姫	Princess Panasonic
 
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
