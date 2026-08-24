@@ -311,6 +311,55 @@ Mランド	M Land
 GOLD	GOLD
 ＣＧ	CG
 
+# Titles, ranks, events and three surnames. 6_クエスト情報.x and 9_カード情報.x
+# carry 法王特典 as Pope Bonus and へルマン共和国大統領 as President of Helman;
+# 48_立ち絵名札マッピング情報.x has 副官／ as Adjutant, 創造神／ as Creator God and
+# 山田千鶴子／ and ぶたバンバラ／; card_name_glossary.tsv has Lv10 親衛隊 as Lv10
+# Royal Guard and 魔剣 カオス -- with a space the dialogue does not write -- as
+# Demon Sword Chaos; trophy_name_glossary.tsv has 奈落の王 as King of the Abyss;
+# 9_カード情報.x calls 神異変 the Divine Anomaly and gives the Thunder Emperor
+# his quotes. docs/terminology-drift.md settled the Fiend War and the Free
+# Cities Alliance Army.
+#
+# 四天王 is two different fours and gets a row apiece: 9_カード情報.x writes
+# ゼス四天王 as the Four Lords of Zeth, and the wiki has an article titled after
+# the Four Dread Fiends, which is what the draft calls 魔人四天王 as well.
+#
+# The three surnames are the half of a full name the tables never keyed on:
+# シィル・プライン, バレス・プロヴァンス and シルキィ・リトルレーズン are spelled out
+# in 9_カード情報.x and the given name alone is what the name table holds.
+
+法王	the Pope
+大統領	President
+副将	Vice General
+副官	Adjutant
+親衛隊	the Royal Guard
+連合軍	the Alliance Army
+自由都市連合軍	the Free Cities Alliance Army
+魔人四天王	the Four Dread Fiends
+ゼス四天王	the Four Lords of Zeth
+カオスマスター	the Chaos Master
+魔剣	Demon Sword
+魔剣カオス	Demon Sword Chaos
+創造神	the Creator God
+女神ALICE	Goddess ALICE
+神異変	the Divine Anomaly
+魔人戦争	the Fiend War
+鬼畜王戦争	the Brutal King War
+奈落の王	the King of the Abyss
+自衛隊	the Self-Defense Forces
+粘着地面	Sticky Ground
+ダーリン	Darling
+山田	Yamada
+バンバラ	Banbara
+モロッコ	Morocco
+ブロック	Block
+ＸＸＸ	XXX
+ＩＦ	IF
+プライン	Plain
+プロヴァンス	Provence
+リトルレーズン	Little Raisin
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
