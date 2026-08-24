@@ -78,10 +78,10 @@ A term's rendering is what the draft calls it, measured the way `TermDrift`
 measures one: a capitalised English phrase that turns up almost only on the
 lines carrying the term, at 0.85 precision and four lines of support.
 
-Without it the report is **5748 terms** and its top is 出来, 本当, 人間, 自分,
-世界 -- ordinary Japanese, which no glossary will ever have a row for and none
-should. With it, and with the rendering required to reach 35% of the term's
-blind speeches, it is **167**, and they are proper nouns.
+Without it the report is some **5750 terms** and its top is 出来, 本当, 人間,
+自分, 世界 -- ordinary Japanese, which no glossary will ever have a row for and
+none should. With it, and with the rendering required to reach 35% of the term's
+blind speeches, it was **167** on the first run, and they were proper nouns.
 
 Two halves of that measurement do different jobs and it took a pass to see why:
 
@@ -125,9 +125,10 @@ The copy goes into `summary_terms.tsv` and not into the file that already has
 the word. The slice is cut from three tables and nothing else, and widening it
 is a change to every prompt.
 
-The unsliced bucket is 12 entries and every one of them is a name the game says
-out loud: 総統司令部, 魔王城, ミックス, ダークランス, 元就, ウズメ, 魔王美樹,
-ルドラサウム, 松下姫, ストーンガーディアン, ブロビオ, 元帥.
+The unsliced bucket was 12 entries on the first run and every one of them was a
+name the game says out loud: 総統司令部, 魔王城, ミックス, ダークランス, 元就,
+ウズメ, 魔王美樹, ルドラサウム, 松下姫, ストーンガーディアン, ブロビオ, 元帥. It
+is 0 now.
 
 ## Calibrated on the four it was written for
 
@@ -147,6 +148,60 @@ kanji run because the compound is kanji, kana and katakana in turn and no single
 run holds it.
 
 The fourth is not, and that is the next section.
+
+## The first pass: 167 findings, 101 rows, and one guard
+
+`34c250f5` through `006d63ad`. The report went 167 -> 149 -> 135 -> 117 -> 108 ->
+99 -> 73 -> 70 -> 49, one class per commit, and every row landed in the last
+section of `glossaries/summary_terms.tsv` rather than in the name table -- an
+entry there is also a repair pass over a corpus that is already baked, which is
+the hazard `docs/baked-name-repairs.md` records.
+
+**Almost nothing had to be decided.** The tables answered 90 of the 101 rows,
+one key further out than the term: `子供志津香` and `志津香２` for Shizuka,
+`Lv10 親衛隊` for the Royal Guard, `魔物将軍ダルソン` for Darson, `副官／` for
+Adjutant, `村　ルールーハンデル` for Ruuruhandel. That is the same finding
+`docs/terminology-drift.md` reports for its untabled bucket, from the other
+side: the answer is usually already written down, in a file the prompt does not
+open.
+
+**Where they disagreed, the older source was usually right.** ジオ is The-O, not
+the draft's Geo -- `9_カード情報.x:5096` is `職業 = "The-O City Mayor"`, and the
+wiki's thirty Geo hits are another game's park. アウトバーン is a surname on the
+wiki's DX Association page rather than the road the draft heard. 副官 is the
+plate's Adjutant, not Vice Officer. 火爆破 is the skill table's Fire Blast, not
+Fire Explosion. ルールーハンデル is Ruuruhandel, not Rule Handel.
+
+**Once, the table was the thing that was wrong.** `9_カード情報.x:1309` writes
+Fiend Kite for 魔人カイト; the wiki writes Kaito 249 times against that one, and
+so does the draft on all nine of its scenes. A row is evidence about its own row.
+
+**And one finding was not a missing row at all.** カラー sat in
+`mistranslated_names.json` spelled Kalar and was reported blind in 25 scenes
+anyway, because the middle dot is in the katakana block and `mentions()` refuses
+a katakana word glued to katakana -- so パステル・カラー did not count as saying
+カラー. The same held for リセット, リーザス, モフス and ザンス, about a hundred
+scenes in all. `7963ab57` makes the dot a boundary; `regenerated.en_grok.ain.txt`,
+the cherry-pick check's 17 settled complaints, the card and plate checks, the
+place, trophy and synopsis tables are all identical with the change in and out.
+No check that starts from the table could have seen this: they all ask whether a
+line names somebody, get no, and report nothing.
+
+**The one build output this can move is the synopsis panel**, because a row's
+English becomes an unbreakable phrase in `readUnbreakable()`. `34c250f5` moved
+four captions and all four stopped breaking mid-name -- "Grand / Marshal
+Stroganoff", "Demon King / Miki" twice, "Stone / Guardian". Every later commit
+left it byte for byte alone. Snapshot it before editing this file:
+`renderSummaryTable().text` is the check, and it needs no alice-tools.
+
+**Two findings were left standing on purpose and are worth picking up.**
+`黒色破壊光線` would have gone in as Black Destruction Beam next to this file's
+own `白色破壊光線` "White Destruction Ray", and `11_スキルデータ.x` says Beam for
+the white, the black and the six-coloured alike. That is the skill screen
+disagreeing with the synopsis panel over one word, it wants a sweep and a look
+at the built file, and it belongs to `find_term_drift`. The other is
+`防衛隊長`, where `summary_glossary.tsv` writes "defence" and the draft writes
+"Defense": a repository-wide spelling question rather than a term.
 
 ## 大陸 is this report's 鬼
 
@@ -171,21 +226,46 @@ leaves 大陸 at 265, behind 出来, 俺様, 本当 and 人間 exactly as before
 
 ## What is noise on purpose
 
-**A stage-direction template read one word at a time.** 友情イベント　志津香　
+The 49 findings the first pass left are all of five shapes, and reading them is
+how the pass knew it was finished.
+
+**A name with an honorific stuck to it, seen through the wrong window** -- 17 of
+the 49. 美樹様 reports as `樹様`, 謙信様 as `信様`, 北条早雲 as `条早`, 藤原石丸
+as `原石`. Every one of those names is in a table already -- 謙信 is
+`card_name_glossary.tsv:48` -- and what the report can see is a fragment that is
+nobody's word. The `-sama` rule is in the prompt's own text.
+
+**A stage-direction template read one word at a time** -- 11. 友情イベント　志津香　
 １段階目一言ぐらいの簡易な物 is a scenario note in 52 scenes, and 一言, 段階, 簡易
-and 目一 each report it as their rendering. They print with their compound
-beside them -- `一言 (always inside 段階目一言ぐらいの簡)` -- which is enough to
-read them as what they are. The same shape is `文章`, `戦闘時` and `霧散`.
+and 目一 each report it as their rendering. They print with their compound beside
+them -- `一言 (always inside 段階目一言ぐらいの簡)` -- which is enough to read them
+as what they are. `文章`, `戦闘時`, `シリーズ`, `霧散` and `年発売` are the same.
 
-**A word that is genuinely a word and genuinely has no row.** 将軍 is blind in
-159 scenes of 511 and "General" is exactly what it means; so are 王国, 王子 and
-元帥. Whether a common noun of that kind wants a glossary row is a judgement
-about the prompt's length, not a fault in the report.
+**A quest panel's own label** -- 3. `捕捉`, `友好` and `命令難度` are the column
+headings of the capture-difficulty box, so they co-occur with each other's
+values. `docs/terminology-drift.md` describes the shape as one label with
+several values.
 
-**A name blind in a handful of the hundreds of scenes it is in.** ランス is blind
-in 20 of 3032, シィル in 8 of 604, リーザス in 12 of 412. Those are the scenes
-where the name is said and neither the cast nor a key fired; three of them are
-worth reading and the rest are the tail of a distribution.
+**A word that is genuinely a word and genuinely has no row** -- 11. 将軍 is
+blind in 159 scenes of 511 and "General" is exactly what it means; so are イベント,
+王国, 軍司令部, 共和国, 海里, テープ and スパルタ. Whether a common noun of that
+kind wants a row is a judgement about how long a prompt should be, not a fault
+in the report.
+
+**The residue of a compound that is settled** -- 7. 天王 is blind in 32 scenes
+after both 四天王 got rows, because the game also writes ゼス**の**四天王 and
+`mentions()` matches neither spelling against the other. 光線, 衛隊長, 聖女, トー,
+アーク and 宮島 are the same: the whole word has a row and a variant of it does
+not.
+
+**That last one is the gap worth knowing about.** A の inside a term makes it a
+different string, and it is exactly how 聖女モンスター failed to cover
+聖女の子モンスター. Measured over all 5434 scenes, allowing a one-character gap of
+の alone would join 11 terms across 39 scenes and 10 of the 11 are real. Widening
+it further does not pay: a gap of any one character finds 40 terms across 253
+scenes and reads 魔物**大**将軍 as 魔物将軍 in 119 of them, which is a different
+rank, and a gap of two reaches 聖女の子モンスター at the price of reading
+スケジュール as スケール.
 
 **The counts are not invariants.** They move with where each guard is drawn, and
 with every row anybody adds to a glossary -- which is the point of the report.

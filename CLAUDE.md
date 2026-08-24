@@ -174,7 +174,11 @@ forty translators who cannot see each other -- and counts a scene's own cast
 list as a glossary, which is what takes 志津香 from 173 scenes to 58. Its cut is
 the same one `TermDrift` uses: a term whose draft English is a capitalised
 phrase is a name somebody is about to guess at, and without that cut the report
-is 5748 terms led by 出来, 本当 and 人間. `docs/unnamed-terms.md` is the write-up,
+is some 5700 terms led by 出来, 本当 and 人間. Its first pass wrote 101 rows and
+took it from 167 findings to 49, and one of the 167 was not a missing row but a
+guard: `mentions()` counted the middle dot as katakana, so パステル・カラー did
+not count as saying カラー and a name the table had spelled Kalar all along was
+withheld from a hundred scenes. `docs/unnamed-terms.md` is the write-up,
 including the one it does not find and why -- 大陸 is an ordinary noun in both
 languages and nothing in the text separates it from 世界.
 
