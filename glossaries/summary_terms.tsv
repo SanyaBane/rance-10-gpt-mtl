@@ -240,6 +240,32 @@ DD	DD
 PG	PG
 BS	BS
 
+# People, where the tables only ever held the name inside something longer. The
+# card table is keyed by a card -- 志津香２, 子供ナギ, Lv30 ポピンズ -- and the
+# name table by the portrait, so a scene that says the bare name matches none of
+# them. Each English below is the one that longer key already carries.
+
+志津香	Shizuka
+ナギ	Nagi
+メディウサ	Medusa
+ポピンズ	Poppins
+モフス	Mofus
+カラー	Kalar
+アレフガルド	Alefgard
+ガンジー	Gandhi
+フリーク	Freak
+パラパラ	Parapara
+毛利	Mouri
+上杉	Uesugi
+北条	Houjou
+山本	Yamamoto
+藤原	Fujiwara
+石丸	Ishimaru
+真田	Sanada
+織田	Oda
+ハンナ	Hanna
+独眼流政宗	Dokuganryuu Masamune
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
