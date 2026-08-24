@@ -360,6 +360,17 @@ GOLD	GOLD
 プロヴァンス	Provence
 リトルレーズン	Little Raisin
 
+# Four the earlier rows missed. ゼスの四天王 carries a の the ゼス四天王 row
+# cannot reach, which is the gap docs/unnamed-terms.md describes; the other
+# three are summary_glossary.tsv's "Meanwhile, Horaga",
+# enemy_party_glossary.tsv's 骸骨王モドカタ, and a nickname the draft never
+# varied over eight scenes.
+
+ゼスの四天王	the Four Lords of Zeth
+骸骨王	the Skeleton King
+ホラガ	Horaga
+デコちゃん	Forehead-chan
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
