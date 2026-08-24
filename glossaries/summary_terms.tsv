@@ -266,6 +266,32 @@ BS	BS
 ハンナ	Hanna
 独眼流政宗	Dokuganryuu Masamune
 
+# Places, weapons and the things people read, from the same tables one key
+# further out: place_name_glossary.tsv for Mark and Kaiz, 11_スキルデータ.x for
+# Tulip and Sensor Jizo, 6_クエスト情報.x for Holy Sword Nikkou, 9_カード情報.x
+# for Portugal, the Escudo Sword, the Rance Castle Knights and the Thunder
+# Emperor, and 48_立ち絵名札マッピング情報.x for M Land and three of Zeth's four
+# armies -- 光軍 is the fourth and takes the pattern.
+
+マーク	Mark
+カイズ	Kaiz
+ポルトガル	Portugal
+スチールホラー	Steel Horror
+Mランド	M Land
+チューリップ	Tulip
+ルーン	Rune
+エスクードソード	Escudo Sword
+聖刀日光	Holy Sword Nikkou
+ドラゴンパッチ	Dragon Patch
+闘神ダイジェスト	Toushin Digest
+センサー地蔵	Sensor Jizo
+ランス城騎士団	the Rance Castle Knights
+炎軍	the Flame Army
+氷軍	the Ice Army
+雷軍	the Thunder Army
+光軍	the Light Army
+雷帝	Thunder Emperor
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
