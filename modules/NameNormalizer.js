@@ -105,15 +105,26 @@ const KATAKANA = /[゠-ヿ]/;
  * It is the ends of the word that decide, not whether it holds katakana
  * anywhere: 裸イベント follows a character's name in 144 captions, and reading
  * the カチューシャ before it as a longer run would lose every one of them.
+ *
+ * The middle dot is in the katakana block and is the opposite of a longer run:
+ * it is what the game puts *between* the parts of a name. Counting it as glue
+ * hid カラー in パステル・カラー, リセット・カラー and ハンティ・カラー -- 25 scenes
+ * of a name the table has spelled Kalar all along -- and did the same for
+ * リセット, リーザス, モフス, ザンス, プライン and プロヴァンス.
+ * scripts/find_unnamed_terms.js is what found it, by reporting a term as named
+ * nowhere while the name table named it.
  */
+const SEPARATOR = /[・･]/;
+
 export const mentions = (japanese, word) => {
     const opensKatakana = KATAKANA.test(word[0]);
     const endsKatakana = KATAKANA.test(word[word.length - 1]);
+    const runs = (character) => KATAKANA.test(character) && !SEPARATOR.test(character);
     for (let at = japanese.indexOf(word); at >= 0; at = japanese.indexOf(word, at + 1)) {
         const before = japanese[at - 1];
         const after = japanese[at + word.length];
-        const glued = (opensKatakana && before && KATAKANA.test(before))
-            || (endsKatakana && after && KATAKANA.test(after));
+        const glued = (opensKatakana && before && runs(before))
+            || (endsKatakana && after && runs(after));
         if (!glued) {
             return true;
         }
