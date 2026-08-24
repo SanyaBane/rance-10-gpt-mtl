@@ -222,6 +222,24 @@ LP7年	LP7
 ウズメ	Uzume
 松下姫	Princess Panasonic
 
+# The same word, written half-width. Every English below is what the row for
+# the full-width spelling already says -- place_name_glossary.tsv for JAPAN and
+# CITY, card_name_glossary.tsv for ALICE, DD, PG, BS and Rance Jr., and this
+# file's own ＡＬ教 and ＤＸの会 rows for the AL Church and the DX Association. 35 of the game's 116
+# Latin runs are written both ways and mentions() matches neither against the
+# other, so the row that was there covered the scenes with one spelling and left
+# the scenes with the other blind: ＪＡＰＡＮ in 50 and JAPAN in 171.
+
+JAPAN	JAPAN
+CITY	CITY
+ALICE	ALICE
+AL教	the AL Church
+DXの会	the DX Association
+ランスJr	Rance Jr.
+DD	DD
+PG	PG
+BS	BS
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
