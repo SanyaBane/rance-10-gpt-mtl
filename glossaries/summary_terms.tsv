@@ -371,6 +371,44 @@ GOLD	GOLD
 ホラガ	Horaga
 デコちゃん	Forehead-chan
 
+# The tail: terms in seven to nine scenes apiece, which is still seven to nine
+# translators deciding separately. card_name_glossary.tsv has ワッス２ and
+# 東芝王子; enemy_party_glossary.tsv has 魔物将軍ダルソン; place_name_glossary.tsv
+# has 村　ルールーハンデル, where the draft heard Rule Handel; 11_スキルデータ.x has
+# 火爆破 as Fire Blast against the draft's Fire Explosion; 9_カード情報.x has
+# ヌヌハラ・キャベツ and 全裸教教祖 as Naked Cult Founder; and
+# 48_立ち絵名札マッピング情報.x has 騎士団長.
+#
+# カイト is the one where a table is the thing that is wrong. 9_カード情報.x:1309
+# writes Fiend Kite, and the wiki writes Kaito 249 times against that one Kite,
+# which is also what the draft says. A row is evidence about its own row and not
+# about the name.
+#
+# Por, Owari, Tokugawa, Maresuke, Byonhou, the Calculator Cube, the Light
+# Eclipse and the Flower District have no answer anywhere and no disagreement:
+# the draft settled on one spelling and nothing contradicts it.
+
+カイト	Kaito
+ワッス	Wass
+東芝	Toshiba
+ダルソン	Darson
+ルールーハンデル	Ruuruhandel
+キャベツ	Cabbage
+アマゾン	Amazon
+ポル	Por
+尾張	Owari
+徳川	Tokugawa
+マレスケ	Maresuke
+ビョンホウ	Byonhou
+火爆破	Fire Blast
+全裸教	the Naked Cult
+騎士団長	Knight Commander
+電卓キューブ	Calculator Cube
+光蝕	Light Eclipse
+フラワー番地	Flower District
+フラワー番地強盗団	the Flower District Robber Gang
+討伐隊	Extermination Squad
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
