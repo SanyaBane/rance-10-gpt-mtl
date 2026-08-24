@@ -292,6 +292,26 @@ Mランド	M Land
 光軍	the Light Army
 雷帝	Thunder Emperor
 
+# Four the draft spelled its own way and something older disagreed with, and
+# five nothing anywhere had a word for. 9_カード情報.x:5096 is 職業 = "The-O City
+# Mayor"; the wiki has a page titled Ylapu and none for the other two spellings
+# 9_カード情報.x itself uses; ズッキーニ・アウトバーン is a surname on the wiki's DX
+# Association page, so Autobahn is the man rather than the road the draft heard;
+# and summary_glossary.tsv:753 has Maria's Hirara engine. The last five have no
+# answer anywhere and the draft never varied: Bontenmaru, Larerare Stone, the
+# Sunrise -- a ship, サンライズ号 -- GOLD, and CG, which summary_glossary.tsv
+# writes as ※Event CG.
+
+ジオ	The-O
+イラーピュ	Ylapu
+アウトバーン	Autobahn
+ヒララ	Hirara
+サンライズ	the Sunrise
+梵天丸	Bontenmaru
+ラレラレ石	Larerare Stone
+GOLD	GOLD
+ＣＧ	CG
+
 # --- The one pattern ---------------------------------------------------------
 # 144 rows in an unbroken run at the end of the glossary, one per character.
 裸イベント	nude event
