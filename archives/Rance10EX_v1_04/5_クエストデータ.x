@@ -31524,7 +31524,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "政宗",
-					説明 = "We're approaching the\nDeath Country soon. Be\ncareful.",
+					説明 = "We're almost at\nLand of the Dead.\nWatch yourself.",
 				},
 			},
 		},
