@@ -165,8 +165,21 @@ neither alice-tools nor `GAME_DIR`. `docs/terminology-drift.md` is what it costs
 to read, what its three buckets have cost so far -- some 1900 corpus records
 over four passes -- and which of its findings are noise on purpose.
 
-Two things it taught that generalise past it. **A phrase that contains the
-settled rendering is not the settled rendering**: "Demon Great General" holds
+That report needs the word to have been translated twice. A retranslation asks
+the question first, and `scripts/find_unnamed_terms.js` is that half: which
+Japanese words recur across the scenes and have **no row anywhere** to be handed
+over with. It reads `build/scenes/`, counts blindness per scene rather than per
+line -- a word said once in each of forty scenes is forty decisions taken by
+forty translators who cannot see each other -- and counts a scene's own cast
+list as a glossary, which is what takes 志津香 from 173 scenes to 58. Its cut is
+the same one `TermDrift` uses: a term whose draft English is a capitalised
+phrase is a name somebody is about to guess at, and without that cut the report
+is 5748 terms led by 出来, 本当 and 人間. `docs/unnamed-terms.md` is the write-up,
+including the one it does not find and why -- 大陸 is an ordinary noun in both
+languages and nothing in the text separates it from 世界.
+
+Two things `find_term_drift` taught that generalise past it. **A phrase that
+contains the settled rendering is not the settled rendering**: "Demon Great General" holds
 "Great General", so a plain `includes()` counted 34 wrong lines as agreeing, and
 they had to be written back a commit later. And **a sweep is finished when the
 built file says so, not when the sweep says 0** -- twice a term was swept out of
