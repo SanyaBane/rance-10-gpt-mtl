@@ -1070,4 +1070,11 @@ table 立ち絵名札マッピング情報 = {
 	{ "３Ｇ　左の／", "3G (Left)" },
 	{ "３Ｇ　右の／", "3G (Right)" },
 	{ "３Ｇ　三つ巴／", "3G (All Three)" },
+	{ "ナギ・ス・ラガール／", "Nagi su Ragarl" },
+	{ "魔想 志津香／", "Masou Shizuka" },
+	{ "山本 乱義／", "Yamamoto Rangi" },
+	{ "アニス・沢渡／", "Anise Sawatari" },
+	{ "ドギ・マギ／", "Dogi Magi" },
+	{ "ニミッツ・リーク？／", "Nimitz Leak?" },
+	{ "アスカ・カドミュウム／", "Asuka Cadmium" },
 };
