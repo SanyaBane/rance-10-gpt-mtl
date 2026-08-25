@@ -22,10 +22,11 @@ export const replaceUnicode = (text, protect = []) => {
          * ＜エ~ル＞, the game would find no such key, and 1522 lines would show
          * the mangled token where the player's name belongs.
          *
-         * It costs en_grok nothing, whose English carries no token at all --
-         * it had resolved every one of them itself. It was found by reading the
-         * built .ain rather than the patch, which is the whole of why CLAUDE.md
-         * says to.
+         * It cost en_grok nothing on the day, whose English carried no token at
+         * all -- it had resolved every one of them itself, which
+         * docs/player-name-token.md has since repaired, so this rule now carries
+         * 1504 lines of it per build. It was found by reading the built .ain
+         * rather than the patch, which is the whole of why CLAUDE.md says to.
          *
          * A split rather than a replace-and-restore: a placeholder would be
          * another string that has to survive the same rules.

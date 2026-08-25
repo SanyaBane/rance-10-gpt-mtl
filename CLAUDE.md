@@ -335,6 +335,13 @@ the `.ain`, and neither the scene file nor the patch showed either fault --
 only the dump of the built file did. `docs/scene-driver.md` has both, and the
 two guards that now stand where they were.
 
+The larger fault was underneath both, and it was invisible for the same reason:
+`en_grok` had resolved all 1522 lines itself, so a player who named the
+protagonist anything else read somebody else's name on every one of them. The
+corpus carries the token again — `docs/player-name-token.md` is what the classes
+were, what 18 lines are deliberately still without it, and why a sweep for the
+canonical spelling misses the half that was also misspelled.
+
 ## Panel and layout widths are in the `.pactex`
 
 Text does not wrap by itself. When translating something that has to fit,

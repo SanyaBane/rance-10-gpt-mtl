@@ -159,7 +159,8 @@ them, which is the whole of why `CLAUDE.md` says to read it.
 rewrote the token itself to the literal El. That is exactly what the acceptance
 refuses a translation for, done afterwards, on the way out. It cost `en_grok`
 nothing only because `en_grok` had already resolved all 1522 of its own lines
-and left the pass nothing to spoil.
+and left the pass nothing to spoil — which was itself the larger fault, and is
+repaired now. `docs/player-name-token.md` is that pass.
 
 **Then the unicode pass mangled it.** With the repair fixed, the token reached
 `replaceUnicode`, whose katakana rule turns `ー` into a tilde. The patch went

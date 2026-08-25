@@ -50,10 +50,12 @@ const LONGER_THAN_DRAFT = 3;
  *
  * ＜エール＞ is the name the player types at the エール入力画面 -- GameChapter2@Init
  * registers it into the game context, and 1522 lines of dialogue are written
- * around it. The existing draft resolved it to the literal "El" in 1474 of
- * them, so a player who named their character anything else reads somebody
- * else's name in every one. Nothing about that is visible in the English on its
- * own, which is exactly why it survived a whole translation.
+ * around it. The existing draft resolved every one of them to the literal "El",
+ * so a player who named their character anything else read somebody else's name
+ * 1522 times. Nothing about that is visible in the English on its own, which is
+ * exactly why it survived a whole translation; the corpus carries the token
+ * again, on 1504 of the 1522, and docs/player-name-token.md is what the other
+ * eighteen are.
  *
  * A named list rather than a rule about ＜…＞ generally, because the game writes
  * its sound effects that way too -- ＜コンコン……＞ is a knock at the door, 679

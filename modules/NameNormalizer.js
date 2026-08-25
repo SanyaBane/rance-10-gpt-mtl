@@ -297,7 +297,10 @@ const contestsOver = (claims) => {
  * It cost nothing in en_grok, which had already resolved all 1522 lines itself
  * and so had none left to spoil. What it would have cost is the retranslation:
  * every scene that carried the token through correctly, undone at build time,
- * with nothing anywhere saying so.
+ * with nothing anywhere saying so. It would cost en_grok too now --
+ * docs/player-name-token.md put the token back into 1504 of those lines, and
+ * this check is what stands between them and the entry that used to resolve
+ * them.
  *
  * A static check over the table rather than one over the rendered lines,
  * because the rendered lines cannot say it -- en_grok's English legitimately
