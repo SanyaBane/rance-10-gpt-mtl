@@ -625,7 +625,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "ラングバウ／", "Lang Bau" },
 	{ "魔物隊長／", "Monster Captain" },
 	{ "起床係の魔物兵／", "Monster Soldier on Wake-up Duty" },
-	{ "妖怪／", "Yokai" },
+	{ "妖怪／", "Youkai" },
 	{ "村長／", "Village Chief" },
 	{ "ぶたバンバラ／", "Buta Banbara" },
 	{ "村の青年／", "Village Youth" },
