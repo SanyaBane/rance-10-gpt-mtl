@@ -9532,7 +9532,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "メリムが居る",
-					説明 = "When Merim was possessed",
+					説明 = "If Merim is present",
 				},
 				分岐前 = {
 					！条件 = "メリムが居る",
@@ -25117,7 +25117,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "メリムが居る",
-					説明 = "When Merim was possessed",
+					説明 = "If Merim is present",
 				},
 				分岐右 = {
 					！条件 = "メリムが居る",
@@ -26148,7 +26148,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "メリムが居る",
-					説明 = "When Merim was possessed",
+					説明 = "If Merim is present",
 				},
 				分岐右 = {
 					！条件 = "メリムが居る",
