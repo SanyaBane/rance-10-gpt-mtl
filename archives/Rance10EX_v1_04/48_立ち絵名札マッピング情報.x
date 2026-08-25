@@ -1077,4 +1077,8 @@ table 立ち絵名札マッピング情報 = {
 	{ "ドギ・マギ／", "Dogi Magi" },
 	{ "ニミッツ・リーク？／", "Nimitz Leak?" },
 	{ "アスカ・カドミュウム／", "Asuka Cadmium" },
+	{ "ザンス／", "Zance Leazas" },
+	{ "スシヌ／", "Sushinu the Gandhi" },
+	{ "乱義／", "Yamamoto Rangi" },
+	{ "ナギ／", "Nagi su Ragarl" },
 };
