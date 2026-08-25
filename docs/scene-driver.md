@@ -53,6 +53,11 @@ would buy its settled terminology at the price of its mistakes. The
 terminology is bought from the glossaries instead, which are the authority the
 draft was supposed to be following.
 
+That was decided on terminology alone, and the question was reopened on
+register and measured. [What showing the draft is
+worth](#what-showing-the-draft-is-worth) is the answer, which is the same
+answer for a different reason.
+
 **The width is stated in Latin characters.** "Twenty-four full-width
 characters" is exact and uncountable by somebody writing English — the row has
 none in it. Measured against ordinary prose in the game's own font that box is
@@ -146,6 +151,82 @@ translation reads better when the scene before it was done first.
 `--order=small` buys coverage fastest and `--order=large` finds out early
 whether the biggest scene — 765 lines, 77 KB — fits in one ask. Both are for
 shaking the pipeline out rather than for the real run.
+
+## What showing the draft is worth
+
+The prompt withholds the `en_grok` draft, and the reason above is about
+terminology. There is a second reason to want it that the first decision never
+weighed: **the draft is often right about register where a careful translation
+is not.** A line-at-a-time machine leaves an exclamation an exclamation, where a
+translator finishes the sentence and raises the speaker with it.
+
+`「わわ、妖怪の方々が沢山……！それにすごい殺気ですよ……！」` is the case that
+reopened it. The draft ends "And such intense bloodlust..."; the fresh
+translation ended "And what terrible bloodlust they have", which finishes a
+sentence the scene had already finished and puts three words of grammar and a
+steadier speaker where the Japanese had ですよ. `modules/ScenePrompt.js` now
+carries two rules against exactly that, and they were written from this line.
+
+So the question was measured rather than argued. Three scenes, each translated
+blind and then again with the draft beside the Japanese, same translator, blind
+run first — an ordering that biases the two toward each other, so a difference
+counts and a sameness does not.
+
+| | speeches | changed | toward the draft | away |
+|---|---|---|---|---|
+| 033485 | 52 | 13 | 10 | 0 |
+| 031537 | 88 | 20 | 15 | 4 |
+| 030852, short lines only | 40 | 5 | 5 | 0 |
+
+**The draft only ever pulls.** Nothing moved away from it in the two runs where
+the prompt was held constant; the four in 031537 are the two new rules, which
+that scene's blind half predated. Some thirty adoptions across the three, against
+one that was a loss — で、あるな is the King's whole part, said twice, and the
+draft's "...Indeed." flattens a deliberately odd catchphrase into a stock reply.
+
+**The answer is still no, and the reason is that every gain has the shape of a
+rule.** Keep the fragment; keep "gonna"; do not swap a concrete word for a
+vaguer one — the prompt says all three, and the third it already said before any
+of this. Two more the runs turned up and the prompt does not carry yet: a
+question stays a question (`戦争は終わったんじゃなかったのかよ` is "Wasn't the war
+over!?" and not "I thought the war was over", which is the same sentence with
+the indignation taken out), and a number the Japanese writes in digits stays in
+digits. Written into the prompt once, a rule holds for all 5433 scenes and costs
+nothing per scene. The draft delivers the same thing one scene at a time and
+carries its errors along with it every time.
+
+### The length cut, and why it is not there
+
+Its errors looked separable. Over the first two scenes the draft lines a
+translation adopted ran to a median of 6 words and the lines carrying an error
+to 11, so showing only short lines should have kept the gains and dropped the
+hazards. 030852 was run that way, at 8 words, and the separation did not hold:
+of the 16 lines withheld, 2 were hazards and **3 were gains that were lost**,
+while a hazard came through on the short side anyway — `うずうず` is fidgeting
+with impatience and the draft calls it "itchy" in three words.
+
+The measurement had been taken on a hazard sample picked by hand, which is
+selection on the dependent variable: the worst lines were long because long
+lines were what got noticed. Length is a weak proxy and the cut is not worth
+having.
+
+### What the experiment could not measure
+
+Not one of the draft's errors was adopted — but the names were rejected because
+`るろんた` and `アカメ` were looked up in `9_カード情報.x` first, and no glossary
+slice would have carried either; and "itchy" was rejected because the word was
+already known. That is a property of who was translating, not of the process,
+and an agent handed the draft has neither habit. The three runs measured a
+translator who was also the experimenter.
+
+Which is the last argument for keeping the draft out. Its two failure modes —
+terminology no table covers, and a plausible-but-wrong reading like
+`せっかく喧嘩できりゃあ` rendered as having had the fight — are exactly the two the
+prompt has no defence against, and the second does not look like an error in
+English at all.
+
+The draft stays where it is useful: beside a finished translation, in a
+side-by-side reading, where what it got right becomes the next rule.
 
 ## What the built file caught
 
