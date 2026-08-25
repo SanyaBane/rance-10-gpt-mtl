@@ -1064,4 +1064,6 @@ table 立ち絵名札マッピング情報 = {
 	{ "謎の声Ａ／", "Mysterious Voice A" },
 	{ "謎の声Ｂ／", "Mysterious Voice B" },
 	{ "魔法使いA／", "Wizard A" },
+	{ "？？？／", "???" },
+	{ "？／", "?" },
 };
