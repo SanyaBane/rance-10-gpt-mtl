@@ -190,6 +190,11 @@ one dot apiece. 「ぐすっ……奴隷です……」 is "「Sniff... Your sla
 "「Sniff...... Your slave......」"; the second is a transcription of the source
 rather than a line of English.
 
+**A number the Japanese writes in digits stays in digits.** 20万 is "200,000",
+not "two hundred thousand": a figure spelled out reads as prose where the
+Japanese meant a figure. Multiply 万 and 億 out on the way, because English has
+no unit for either -- 20万 is 200,000 and never "20 man" or "20 myriad".
+
 ## How it has to sound
 
 This is a game script. Every line is somebody talking, or the narrator telling
@@ -240,7 +245,14 @@ in the middle of reacting to it. It never has to stand alone.
 
 Japanese ですます is the unmarked way to say something; an English finite clause
 is not. Match the register rather than the grammar -- matching the grammar is
-how a frightened girl ends up composing a sentence.`;
+how a frightened girl ends up composing a sentence.
+
+**A question stays a question.** 戦争は終わったんじゃなかったのかよ is "Wasn't the
+war over!?" and not "I thought the war was over". Both carry the same fact and
+only one of them is affronted: a negative question is how the Japanese is
+protesting, English has the same construction, and turning it into a statement
+leaves somebody calmly reporting their own expectations. The same goes the
+other way -- an order stays an order, a mutter stays a mutter.`;
 
 const ROUTE_RULE = `## The two Els
 

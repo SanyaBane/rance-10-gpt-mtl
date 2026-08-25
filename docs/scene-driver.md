@@ -187,11 +187,14 @@ draft's "...Indeed." flattens a deliberately odd catchphrase into a stock reply.
 **The answer is still no, and the reason is that every gain has the shape of a
 rule.** Keep the fragment; keep "gonna"; do not swap a concrete word for a
 vaguer one — the prompt says all three, and the third it already said before any
-of this. Two more the runs turned up and the prompt does not carry yet: a
-question stays a question (`戦争は終わったんじゃなかったのかよ` is "Wasn't the war
-over!?" and not "I thought the war was over", which is the same sentence with
-the indignation taken out), and a number the Japanese writes in digits stays in
-digits. Written into the prompt once, a rule holds for all 5433 scenes and costs
+of this. Two more came out of the runs and are in it now: a question stays a
+question (`戦争は終わったんじゃなかったのかよ` is "Wasn't the war over!?" and not
+"I thought the war was over", which is the same sentence with the indignation
+taken out), and a number the Japanese writes in digits stays in digits, with
+`万` and `億` multiplied out because English has no unit for either. Four new
+rules out of three scenes, and a fifth the prompt already had and the
+translation broke anyway — which is the exchange rate the decision turns on.
+Written into the prompt once, a rule holds for all 5433 scenes and costs
 nothing per scene. The draft delivers the same thing one scene at a time and
 carries its errors along with it every time.
 
