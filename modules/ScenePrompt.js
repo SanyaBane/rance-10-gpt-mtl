@@ -209,6 +209,13 @@ ending. A diary written in polite ですます is *her* diary and stays first pe
 outside", not "walls of a material never seen outside", which is a guidebook.
 A brute stays blunt. A child stays a child.
 
+**Do not tidy a voice upward.** "gonna", "wanna", a missing subject, a sentence
+that opens with "and" -- that is how somebody talks, not a defect to repair.
+A mob youkai says "all of you are gonna get crushed"; regularising him into
+"every one of you is going to get chewed to pieces" costs the one thing the
+speaker column is there to protect, and it costs it quietly, because the tidied
+line is perfectly good English.
+
 **Do not trade a concrete word for a shorter one.** ミカン箱 is a tangerine box,
 not a crate; 不思議な遺跡 is a mysterious ruin, not a curious one; すりすりと撫でた
 is rubbing it *gently*. A shorter word that means less is not a translation of
@@ -220,7 +227,20 @@ of this patch writes -sama 3592 times. Do not translate one into "Lady" or
 
 **There is no length limit.** Say what the Japanese says, in English that reads
 well, and let it come out as long as it comes out. Nothing is gained by
-compressing a sentence and something is always lost.`;
+compressing a sentence and something is always lost.
+
+**But length is earned by content, not by grammar.** The rule above is about
+words that carry something -- a tangerine box, a mysterious ruin, a nail driven
+into bran. It is not a licence to finish a sentence the scene has already
+finished. English exclamations stand without a verb: "And such terrible
+bloodlust...!" is a whole utterance, and "what terrible bloodlust they have" is
+the same thought with three words of scaffolding and a steadier speaker behind
+it. The line is played inside a scene, with the thing on screen and the speaker
+in the middle of reacting to it. It never has to stand alone.
+
+Japanese ですます is the unmarked way to say something; an English finite clause
+is not. Match the register rather than the grammar -- matching the grammar is
+how a frightened girl ends up composing a sentence.`;
 
 const ROUTE_RULE = `## The two Els
 
