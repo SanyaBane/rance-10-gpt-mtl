@@ -28,6 +28,13 @@
 # Fighting something, so it could not tell the two apart and neither could a
 # player reading it. It is a Tousho here and 闘神 a Toushin, the way
 # glossaries/summary_terms.tsv and glossaries/card_name_glossary.tsv have them.
+#
+# 聖骸 in 聖骸闘将 is Holy Skeletal rather than Holy Corpse. The thing is not a
+# walking corpse: the Sect built it on the body of a dead magic user, which serves
+# as the frame and the medium for the magic, and the dialogue says outright that it
+# is neither robot nor monster. The English fandom's name for the series-wide race,
+# Holy Skeletal Fighting Marshal, does not fit here -- 875 pixels against the HP
+# bar's 867, and it brings back the Fighting General the row above just retired.
 
 テストの集団	Test Group
 魔物兵	Monster Soldiers
@@ -128,7 +135,7 @@
 強魔界植物の群生	Strong Demon World Plant Colony
 幽霊	Ghosts
 アコンゴースト群	Acon Ghost Swarm
-聖骸闘将	Holy Corpse Tousho
+聖骸闘将	Holy Skeletal Tousho
 魔法生物	Magical Creature
 上級魔法生物	Advanced Magical Creatures
 サイクロ系	Cyclo Type

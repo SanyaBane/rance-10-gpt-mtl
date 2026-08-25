@@ -155,10 +155,10 @@ first place.
 
 `闘将` is where that stopped working. The dialogue called it a fighting general
 in 56 lines and a Fighting God in one, which was also its word for `闘神` — it
-could not hold the two apart, so following it would have put a Holy Corpse
-Fighting General over the HP bar of the boss the synopsis calls a Holy Corpse
-Tousho, and a third General beside the Monster Generals and the Great General.
-It is a Tousho on both, which is what `glossaries/summary_terms.tsv` and
+could not hold the two apart, so following it would have put a Fighting General
+over the HP bar of the boss the synopsis calls a Holy Skeletal Tousho, and a
+third General beside the Monster Generals and the Great General. It is a Tousho
+on both, which is what `glossaries/summary_terms.tsv` and
 `glossaries/card_name_glossary.tsv` already said. `闘神` is a Toushin for the
 same reason and by the same table, so the pair reads apart now wherever it
 appears.

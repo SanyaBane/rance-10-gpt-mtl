@@ -212,7 +212,7 @@ had the room and used another word anyway.
 back -- the enemy panel, the HP bar, the cards, the achievements -- and, with
 `--corpus`, of the dialogue. That is where the terms are really loose: 3912 of
 the 273562 translated lines. It is also how `聖骸闘将` was found to be a
-Holy Corpse Tousho on the synopsis and a Holy Corpse Fighting General over its
+Holy Skeletal Tousho on the synopsis and a Holy Corpse Fighting General over its
 own HP bar.
 
 Names of people are not in it. They come from
