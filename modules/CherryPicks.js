@@ -81,7 +81,6 @@ const SETTLED = new Map([
     ["10815 政宗", "the table holds Dokuganryuu Masamune; the epithet writes the short form"],
     ["10816 政宗", "the table holds Dokuganryuu Masamune; the epithet writes the short form"],
     ["10851 リア", "the Lia entry is satisfied; the Queen Lia entry is the one objecting"],
-    ["10938 クルックー", "the Crook entry is satisfied; Ms. Crook is the one objecting"],
     ["10943 リア", "the Lia entry is satisfied; the Queen Lia entry is the one objecting"],
     ["14799 リア", "it does say Queen Lia -- the separator is the ideographic space this block"
         + " puts between a title and a name, so no plain includes() can see it"],

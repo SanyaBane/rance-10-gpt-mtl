@@ -65,7 +65,6 @@ for (const chunkFile of chunkFiles) {
                     shortNameEng !== 'Am' &&
                     shortNameEng !== 'Root' &&
                     shortNameEng !== 'Rance' &&
-                    shortNameEng !== 'Ms. Crook' &&
                     sentenceNames.length > 0 &&
                     shortNameEng !== "Sioux"
                 ) {
