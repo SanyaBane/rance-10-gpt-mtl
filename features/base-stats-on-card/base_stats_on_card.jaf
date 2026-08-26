@@ -1,0 +1,35 @@
+/*
+ * Whether the card back carries what the card is worth at ★0 in brackets beside
+ * the numbers its rank has grown that into, written as the presence of a file:
+ * custom_mods\base_stats_on_card_on under the game folder, beside Rance10.exe.
+ * Delete it and the card reads the way it always did.
+ *
+ * base_stats_on_card.jam beside it is what calls this, and says why the two
+ * lines it adds could not be written as .jaf themselves -- the short of it is
+ * that the .jaf compiler reaches neither a property (card.Hp), nor a struct
+ * method (fp.SetSize), nor an array of struct, and drawing on this card is all
+ * three. This half is .jaf because it needs a string local, which a .jam cannot
+ * add: --jam rewrites code and not the FUNC section, so a patched function has
+ * exactly the locals it was compiled with.
+ *
+ * Read once per card rather than once per draw -- the layer it guards is the
+ * one CardConstructProcessCacheBackCard caches under the card Id -- so unlike
+ * the other features' switches this one is effectively read at launch: a card
+ * already drawn this session keeps what it was drawn with. The .jam says so at
+ * more length.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not take
+ * a backslash in a string literal at all, and Windows accepts either separator.
+ * It is looked for twice for the reason features/enemy-panel/enemy_info_panel.jaf
+ * gives: whether SystemService.GetGameFolderPath() ends in a separator is
+ * something the game does not agree with itself about, and trying both spellings
+ * settles it without running the game. A path that does not resolve reads as
+ * "no file", which is the harmless direction -- the game behaving exactly as it
+ * does unpatched.
+ */
+bool BaseStatsOnCardEnabled(void)
+{
+	string folder = SystemService.GetGameFolderPath();
+	return FileOperation.ExistFile(folder + "custom_mods/base_stats_on_card_on")
+	    || FileOperation.ExistFile(folder + "/custom_mods/base_stats_on_card_on");
+}
