@@ -1,0 +1,315 @@
+; The faction on the back of a card in English -- the word after "Belong".
+;
+; Translation rather than a feature, so every build gets it. It is here rather
+; than in features/base-stats-on-card/ for the reason patches/enemy_panel_cards.jam
+; is not in features/enemy-panel/: leaving a feature out must not cost anybody
+; the English.
+;
+; WHY A FUNCTION AND NOT A STRING. getOrganizationNameFromId (FUNC 28857) turns
+; 所属 1..10 into 主人公, リーザス, ヘルマン, ゼス, 自由都市, ＪＡＰＡＮ, その他, 亜人,
+; モンスター, 神魔, and nineteen places call it. In eighteen of them the word is
+; not shown to anybody -- it is pasted into a CG name: the card's background and
+; frame, the plate its name sits on, the faction flag on the character screen,
+; the deck screen's tabs, the quest screen's advantage panel. Those pictures are
+; where the faction is actually read, and the ones worth translating are
+; translated already, as images, under archives/Rance10CG2_v1_04/.
+;
+; So the game's own function has to keep returning Japanese. The nineteenth call
+; is the single BlendText below, and it is the only place in the whole game
+; where the faction is drawn as text. modules/OrganizationNames.js renders
+; build/organization_names.jaf, this calls that, and every CG name is untouched
+; -- the local they are built from is not even read any more.
+;
+; TWO FILES, ONE BODY. features/base-stats-on-card/base_stats_on_card.jam
+; replaces this same function, and alice-tools applies the last --jam it is
+; given: scripts/ain.js hands it the features after the English, so with that
+; feature built in its copy is the one that runs and this one is overwritten
+; whole. Which is why both files carry the same body, and why the feature's
+; carries this translation too -- it has to, or turning the feature on would put
+; the Japanese back.
+;
+; The two shared regions are marked below and modules/CardBack.js compares them
+; byte for byte at the start of every build. Edit one and the build stops until
+; the other says the same thing. The feature's copy differs in exactly one
+; place: a block between the two regions, which is what it is a feature for.
+;
+; The body itself is FUNC 23037 verbatim, from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; with the faction's three lines swapped. Regenerate it the same way if the game
+; version changes: every number here is an index into one build of one .ain.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ".
+; >>>>>> SHARED CARD-BACK BODY -- HEAD
+FUNC 23037
+	.LOCALREF proc
+	CALLHLL Array Free 13
+	.LOCALREF orgName
+	.LOCALREF card
+	PUSH 28097
+	CALLMETHOD 0
+	CALLFUNC getOrganizationNameFromId
+	S_ASSIGN
+	DELETE
+	.LOCALREF proc
+	CALLFUNC ConstructProcess::CreateBase
+	CALLHLL Array PushBack 13
+	.LOCALREF card
+	PUSH 28121
+	CALLMETHOD 0
+	IFNZ 0x357b68
+	JUMP 0x357d1c
+0x357b68:
+	.LOCALREF proc
+	S_PUSH "シス／カード／下地／%s所属／アイテム"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF cgName
+	S_PUSH "カード／アイテム／"
+	.LOCALREF card
+	PUSH 28105
+	CALLMETHOD 0
+	CALLFUNC AlternativeImage::GetCg
+	S_ASSIGN
+	DELETE
+	.LOCALREF proc
+	.LOCALREF cgName
+	A_REF
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／枠／%s所属／アイテム"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／詳細"
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／下地／%s所属"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／%s"
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementNameFromId
+	S_MOD 4
+	PUSH 9
+	PUSH 9
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	JUMP 0x357e6e
+0x357d1c:
+	.LOCALREF proc
+	S_PUSH "シス／カード／下地／%s所属"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "カード／%s"
+	.LOCALREF card
+	PUSH 28105
+	CALLMETHOD 0
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／詳細"
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／下地／%s所属"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／%s"
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementNameFromId
+	S_MOD 4
+	PUSH 9
+	PUSH 9
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+0x357e6e:
+	.LOCALASSIGN r 0
+	.LOCALASSIGN g 0
+	.LOCALASSIGN b 0
+	.LOCALCREATE fp FontProperty
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 25
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	PUSHLOCALPAGE
+	PUSH 4
+	PUSHLOCALPAGE
+	PUSH 5
+	PUSHLOCALPAGE
+	PUSH 6
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementColor
+	.LOCALREF fp
+	PUSH 29393
+	.LOCALREF r
+	.LOCALREF g
+	.LOCALREF b
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>"
+	.LOCALREF proc
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementNameFromId
+	.LOCALREF fp
+	A_REF
+	PUSH 84
+	PUSH 41
+	PUSH 5
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+	PUSHLOCALPAGE
+	PUSH 4
+	PUSHLOCALPAGE
+	PUSH 5
+	PUSHLOCALPAGE
+	PUSH 6
+	.LOCALREF card
+	PUSH 28097
+	CALLMETHOD 0
+	CALLFUNC getOrganizationColor
+	.LOCALREF fp
+	PUSH 29393
+	.LOCALREF r
+	.LOCALREF g
+	.LOCALREF b
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>#1"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#1"
+; --- changed: the faction drawn in English, at 20 rather than 25 --------------
+;
+; The three lines this replaces were
+;
+;   .LOCALREF proc / .LOCALREF orgName / A_REF
+;
+; -- the same local the five CG names above are built out of. Calling
+; OrganizationEnglishName with the raw 所属 id instead leaves that local alone,
+; so シス／カード／下地／%s所属 and its four siblings still resolve in Japanese and
+; only the drawn word changes. build/organization_names.jaf defines the
+; function, rendered from glossaries/organization_name_glossary.tsv, and returns
+; the game's own word for anything the glossary does not name -- and for every
+; faction in a --text-lang=jp build, which is what lets this same file be the
+; one applied there.
+;
+; The size drops to 20 for this one line and goes back to 25 straight after,
+; because the card's name below is drawn with the same FontProperty and wants
+; the 25. At 25 three of the ten factions run back over the "Belong" label --
+; "Demi-human" is 160px against the 131 between the label and x=198. Nothing
+; clips, so that would be an overlap rather than a truncation.
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 20
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	.LOCALREF proc
+	.LOCALREF card
+	PUSH 28097
+	CALLMETHOD 0
+	CALLFUNC OrganizationEnglishName
+	.LOCALREF fp
+	A_REF
+	PUSH 198
+	PUSH 86
+	PUSH 9
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 25
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+; --- end of the change --------------------------------------------------------
+	.LOCALREF fp
+	PUSH 29393
+	PUSH 255
+	PUSH 255
+	PUSH 255
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	.LOCALREF proc
+	.LOCALREF card
+	PUSH 28089
+	CALLMETHOD 0
+	.LOCALREF fp
+	A_REF
+	PUSH 105
+	PUSH 289
+	PUSH 5
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+; <<<<<< SHARED CARD-BACK BODY -- HEAD
+; >>>>>> SHARED CARD-BACK BODY -- TAIL
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#1"
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>"
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	.LOCALDELETE fp
+	.STRUCTREF CardConstructProcessCacheBackCard m_proc
+	PUSH 35893
+	.LOCALREF card
+	PUSH 28086
+	CALLMETHOD 0
+	.LOCALREF proc
+	A_REF
+	CALLMETHOD 2
+	RETURN
+ENDFUNC CardConstructProcessCacheBackCard@Create
+; <<<<<< SHARED CARD-BACK BODY -- TAIL

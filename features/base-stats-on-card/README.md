@@ -67,3 +67,19 @@ switch alone, and has to be compiled before the `.jam` is assembled.
 
 The two files say the rest, and [docs/card-base-stats.md](../../docs/card-base-stats.md) has the
 formula, where each number lives, and the layout of the card face down to the pixel.
+
+## Why the `.jam` also carries a translation
+
+`base_stats_on_card.jam` draws the card's faction in English, which is not this feature's job —
+[patches/card_back_names.jam](../../patches/card_back_names.jam) does that for every build. It has
+to be in here as well because the two files replace the *same* function, and alice-tools applies
+whichever `--jam` it is handed last: with this feature built in, this file's copy runs and the
+other is overwritten whole. Leave the feature out and the roles swap. So each has to be correct on
+its own.
+
+Both therefore hold the same body, in two marked regions that
+[modules/CardBack.js](../../modules/CardBack.js) compares line by line at the start of every build —
+edit one and the build stops until the other agrees. What sits between the two regions is this
+feature, and is the only thing they disagree about.
+[docs/organization-names.md](../../docs/organization-names.md) has the reasoning and the table of
+which copy runs when.
