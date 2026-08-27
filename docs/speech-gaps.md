@@ -38,9 +38,9 @@ signals.
 | class | speeches | what it is |
 |---|---|---|
 | `shifted` | 18 | the English on a row belongs to a different row |
-| `blank` | 2502 | English on some rows of a speech and not others |
-| `bracket` | 3693 | the speech opens 「 or closes 」 in Japanese and not in English |
-| `untranslated` | 36 | no English anywhere in the speech |
+| `blank` | 1548 | the game says something on a row and the English does not |
+| `bracket` | 3696 | the speech opens 「 or closes 」 in Japanese and not in English |
+| `untranslated` | 35 | no English anywhere in the speech |
 
 **shifted** is the one worth reading first and the one that is not cosmetic. Two
 signals: a row whose Japanese is a thought （…） answered with speech 「…」 or the
@@ -52,11 +52,11 @@ it, and the run ends on `............`.
 **blank** is mostly the fork's own way of translating: it answered a whole
 utterance on the utterance's first row and left the rest empty, which is the same
 shape `modules/SceneTranslations.js` writes on purpose. Most of it is harmless.
-The part that is not: **592 of the 2502 already draw in more lines than their
+The part that is not: **279 of the 1548 already draw in more lines than their
 window allows**, because the whole speech sits in row one and the build folds it.
-Laying those out again with `modules/SpeechRows.js` fixes 491; the remaining 101
-are too long for their rows whatever the layout and want shortening by meaning,
-the way the synopsis panel's overlong captions do.
+Laying those out again with `modules/SpeechRows.js` fixes 278 of them. The one
+that is left is too long for its rows whatever the layout and wants shortening by
+meaning, the way the synopsis panel's overlong captions do.
 
 **bracket** is the largest class and the least urgent. The text is on its own
 row; a quotation mark fell off the end of one row or the start of the next.
@@ -72,10 +72,22 @@ misplaced sentence that is neither is invisible here. So `shifted`'s count is a
 floor and not a measurement, and the report is worth re-running after any pass
 that moves English between rows.
 
-## Two traps it was written into
+## Three traps it was written into
 
-Both were false positives in the first run, and both are the same mistake:
-reading a character for what it looks like rather than what it is.
+All three were false positives, and all three are the same mistake: asking what
+a cell holds instead of what the row is for.
+
+**A row the game itself left blank owes a translation nothing.** 954 speeches
+hold one -- a beat inside a bubble, or text positioned across the screen with
+runs of full-width spaces, as `m[6638]` does with twenty of them under 「ふ」.
+Read as gaps they made `blank` 2502 speeches instead of 1548, and 592 of them
+look like they overflow the window when 279 do. Worse, they made the layout look
+worse than it is: asked to fill rows the author left empty, `layOutSpeech` could
+not fit 101 speeches, where asked to fill only the rows the game speaks on it
+cannot fit **one**. A layout that took those rows would pour a sentence into a
+pause and flatten the screen positioning.
+
+The two below are the same mistake about a character rather than a row.
 
 **A cell holding nothing but the continuation indent is a blank row.** `　` is a
 full-width space; it draws as an empty line, it reads as a dot to a

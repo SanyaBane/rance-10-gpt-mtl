@@ -190,15 +190,25 @@ find them in the corpus, because a record is a number and two lines with no
 speech around it to be wrong about. A scene file has the game's own Japanese,
 the speaker from the bytecode and the row boundaries the `MSG` operands gave, so
 a row's English can be held against the row it sits on. 18 speeches are shifted,
-2502 have the English of the whole utterance on one row and blanks after it --
-**592 of those already draw in more lines than the window allows**, which is the
-part that is not cosmetic -- and 3693 have lost a 「 or a 」 at a row boundary.
+1548 have the English of the whole utterance on one row and blanks after it --
+**279 of those already draw in more lines than the window allows**, which is the
+part that is not cosmetic -- and 3696 have lost a 「 or a 」 at a row boundary.
 `docs/speech-gaps.md` is the write-up, including the shift it cannot see: both
 its signals need the wrong row to *look* wrong, so a misplaced sentence that
-reads plausibly where it landed is invisible and the count is a floor. And the
-middle dot cost a false positive here too -- `………………・` answered with
-`..............・` is a translation, not padding, because U+30FB is a letter by
-codepoint and a dot by eye.
+reads plausibly where it landed is invisible and the count is a floor.
+
+Its three false positives are one lesson, and it is the one to carry into
+anything that rewrites a row: **ask what the row is for, not what the cell
+holds.** A row the game itself left blank owes a translation nothing -- 954
+speeches hold one, a beat inside a bubble or text positioned across the screen
+with twenty full-width spaces, and counting those as gaps put 954 speeches in
+the report and made the layout look unable to fit 101 speeches where it cannot
+fit one. A cell holding only the continuation indent is a blank row rather than
+a translation. And `………………・` answered with `..............・` is a translation
+rather than padding, because U+30FB is a letter by codepoint and a dot by eye --
+the same middle dot that cost `mentions()` a finding. None of those three
+heuristics goes anywhere near a build: in a report a false positive costs a
+look, and in the patch it costs a line of dialogue.
 
 Two things `find_term_drift` taught that generalise past it. **A phrase that
 contains the settled rendering is not the settled rendering**: "Demon Great General" holds

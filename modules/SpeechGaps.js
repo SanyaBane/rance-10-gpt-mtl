@@ -27,14 +27,17 @@
  * run of shifted rows ends with. m[102332] carries the thought that belongs to
  * m[102333], and m[102335] carries "............".
  *
- * **blank** -- a speech with English on some rows and not others. Three kinds,
- * and they are not equally bad: a *hole* between two filled rows is the one a
- * player sees as a gap in the middle of a bubble; *trailing* blanks are the
- * whole utterance sitting in row one, which looks fine until it does not fit;
- * *leading* is the mirror. Each finding says whether the rows as they stand
- * draw in more lines than the window allows, which is the part that is not
- * cosmetic -- and whether laying the speech out again would fix it, which is
- * what modules/SpeechRows.js is for.
+ * **blank** -- a row where the game says something and the English does not.
+ * Three kinds, and they are not equally bad: a *hole* between two filled rows
+ * is the one a player sees as a gap in the middle of a bubble; *trailing*
+ * blanks are the whole utterance sitting in row one, which looks fine until it
+ * does not fit; *leading* is the mirror. Each finding says whether the rows as
+ * they stand draw in more lines than the window allows, which is the part that
+ * is not cosmetic -- and whether laying the speech out again would fix it,
+ * which is what modules/SpeechRows.js is for.
+ *
+ * A row the game itself left blank is none of this, and asking the cell
+ * instead of the row got it wrong by 954 speeches. See carriesText below.
  *
  * **bracket** -- the speech opens 「 in Japanese and does not in English, or
  * closes 」 and does not. The text is on its own row; a quotation mark fell off
@@ -74,6 +77,20 @@ const closes = (text, bracket) => text.trimEnd().endsWith(bracket);
  * different wrong answers to one whitespace.
  */
 const englishOf = (row) => (row.english.trim() ? row.english : "");
+
+/**
+ * Whether the game says anything on this row, which is what decides whether a
+ * translation owes it anything.
+ *
+ * 954 speeches hold a row the game itself left blank -- a beat inside a bubble,
+ * or text positioned across the screen with runs of full-width spaces, as
+ * m[6638] does with twenty of them under 「ふ」. An English cell that is blank
+ * there is the faithful answer and not a gap, and a layout that treated it as
+ * one would pour the speech into a row the author left empty on purpose. So the
+ * question is never "is this cell empty" but "is this cell empty where the game
+ * has something to say".
+ */
+const carriesText = (row) => Boolean(row.japanese.trim());
 
 /**
  * The English of a row that is a thought where its Japanese is speech, or the
@@ -128,6 +145,15 @@ export const findSpeechGaps = async (lang) => {
             const rows = speech.rows.map(number => byNumber.get(number));
             const at = {file: fileName, lineNumber: speech.lineNumber, speaker: speech.speaker, rows};
 
+            // Rows the game says nothing on are the game's own spacing, and a
+            // translation owes them nothing. A speech made of them entirely --
+            // a beat between two bubbles -- is not a speech to have an opinion
+            // about at all.
+            const spoken = rows.filter(carriesText);
+            if (!spoken.length) {
+                continue;
+            }
+
             const signals = shiftSignals(rows);
             if (signals.length) {
                 findings.push({...at, class: "shifted", kind: signals[0].kind, signals});
@@ -141,11 +167,14 @@ export const findSpeechGaps = async (lang) => {
                 continue;
             }
 
-            const filled = rows.map(row => Boolean(englishOf(row)));
+            const filled = spoken.map(row => Boolean(englishOf(row)));
             if (filled.includes(false)) {
+                // Drawn over every row, because a blank one still takes a line
+                // of the window; laid out over the spoken ones, because those
+                // are the only rows a layout may put words in.
                 const drawn = drawnLines(rows.map(englishOf));
                 const budget = rowBudget(rows.length);
-                const again = layOutSpeech(speech.english, rows.length);
+                const again = layOutSpeech(speech.english, spoken.length);
                 findings.push({
                     ...at,
                     class: "blank",
