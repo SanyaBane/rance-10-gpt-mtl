@@ -52,16 +52,16 @@ await run(async () => {
         }
     }
 
-    // The part of the blank class that is not cosmetic: rows the build draws in
-    // more lines than the window has, which is the difference between a bubble
-    // that looks odd and one that runs off the box.
-    const blanks = wanted.filter(finding => finding.class === "blank");
-    if (blanks.length) {
-        const over = blanks.filter(finding => finding.overflows);
-        console.log(`\n${over.length} of the ${blanks.length} blank speeches already draw in more lines`
-            + ` than their window allows, and laying them out again fixes ${over.filter(f => f.fixes).length}`
-            + ` of those. ${blanks.filter(f => f.stillOverflows).length} are too long for their rows`
-            + " whatever the layout, and want shortening by meaning.");
+    // The class a player sees whatever else is true of the speech: what runs
+    // off the box, and how much of it a layout can take back.
+    const over = wanted.filter(finding => finding.class === "overflow");
+    if (over.length) {
+        const withBlank = over.filter(finding => finding.kind.includes("blank")).length;
+        console.log(`\n${over.length} speeches run off the window, ${over.length - withBlank} of them with`
+            + ` every row filled and nothing else the matter. Laying them out again fits`
+            + ` ${over.filter(f => f.fixes).length}; the other ${over.filter(f => f.stillOverflows).length}`
+            + " hold more English than their rows can draw whatever the layout, and want shortening"
+            + " by meaning.");
     }
 
     for (const name of CLASSES) {

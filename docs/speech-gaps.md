@@ -38,9 +38,10 @@ signals.
 | class | speeches | what it is |
 |---|---|---|
 | `shifted` | 18 | the English on a row belongs to a different row |
-| `blank` | 1548 | the game says something on a row and the English does not |
-| `bracket` | 3696 | the speech opens 「 or closes 」 in Japanese and not in English |
-| `untranslated` | 35 | no English anywhere in the speech |
+| `overflow` | 4469 | the speech draws in more lines than its window has |
+| `blank` | 1269 | the game says something on a row and the English does not |
+| `bracket` | 3609 | the speech opens 「 or closes 」 in Japanese and not in English |
+| `untranslated` | 25 | no English anywhere in the speech |
 
 **shifted** is the one worth reading first and the one that is not cosmetic. Two
 signals: a row whose Japanese is a thought （…） answered with speech 「…」 or the
@@ -49,14 +50,20 @@ the padding a run of shifted rows ends with. `031792.tsv` has both -- the
 narrator's third row carries Tilde's thought, her thought carries the line after
 it, and the run ends on `............`.
 
-**blank** is mostly the fork's own way of translating: it answered a whole
-utterance on the utterance's first row and left the rest empty, which is the same
-shape `modules/SceneTranslations.js` writes on purpose. Most of it is harmless.
-The part that is not: **279 of the 1548 already draw in more lines than their
-window allows**, because the whole speech sits in row one and the build folds it.
-Laying those out again with `modules/SpeechRows.js` fixes 278 of them. The one
-that is left is too long for its rows whatever the layout and wants shortening by
-meaning, the way the synopsis panel's overlong captions do.
+**overflow** is the one a player cannot miss: the speech is drawn in more lines
+than its window has, so the end of it runs off the box. `modules/SpeechRows.js`
+takes 3143 of them back by laying the same words out across the rows the
+bytecode gives them -- `ネルソン／キャライベントＣ` is three rows drawn in five,
+and balanced across those three it fits. The other 1326 hold more English than
+their rows can draw whatever the layout, and want shortening by meaning, the way
+the synopsis panel's overlong captions do.
+
+**blank** is the fork's own way of translating: it answered a whole utterance on
+the utterance's first row and left the rest empty, which is the same shape
+`modules/SceneTranslations.js` writes on purpose. What is in this class fits the
+window as it stands, so it is a bubble with a gap in it rather than one that runs
+off. 83 of them have that gap in the middle, where a player sees it; 58 more sit
+in `overflow`, which is worse in both ways at once.
 
 **bracket** is the largest class and the least urgent. The text is on its own
 row; a quotation mark fell off the end of one row or the start of the next.
@@ -72,6 +79,21 @@ misplaced sentence that is neither is invisible here. So `shifted`'s count is a
 floor and not a measurement, and the report is worth re-running after any pass
 that moves English between rows.
 
+## The one it did not ask about
+
+The three traps below are false positives, and every one of them was found by
+running the report. The costly mistake was the opposite kind, and no run of the
+report could have shown it: **whether a speech fits its window was a flag on one
+class rather than a question of its own.** Only speeches already suspect for
+having a blank row were ever measured, so 4193 speeches with every row filled
+and simply too much English in them were never asked about at all -- the report
+was silent about `ネルソン／キャライベントＣ`, which draws in five lines where the
+window has three, until a screenshot of it arrived.
+
+A flag on a class answers the question for the members of that class. If the
+question stands on its own -- and "does the player see the end of this line"
+does -- it wants a class of its own.
+
 ## Three traps it was written into
 
 All three were false positives, and all three are the same mistake: asking what
@@ -80,12 +102,12 @@ a cell holds instead of what the row is for.
 **A row the game itself left blank owes a translation nothing.** 954 speeches
 hold one -- a beat inside a bubble, or text positioned across the screen with
 runs of full-width spaces, as `m[6638]` does with twenty of them under 「ふ」.
-Read as gaps they made `blank` 2502 speeches instead of 1548, and 592 of them
-look like they overflow the window when 279 do. Worse, they made the layout look
-worse than it is: asked to fill rows the author left empty, `layOutSpeech` could
-not fit 101 speeches, where asked to fill only the rows the game speaks on it
-cannot fit **one**. A layout that took those rows would pour a sentence into a
-pause and flatten the screen positioning.
+Read as gaps they made 954 speeches into findings that were not, and made the
+layout look worse than it is: asked to fill rows the author left empty,
+`layOutSpeech` could not fit 101 of the speeches it was then offered, where
+asked to fill only the rows the game speaks on it could not fit one of them. A
+layout that took those rows would pour a sentence into a pause and flatten the
+screen positioning.
 
 The two below are the same mistake about a character rather than a row.
 

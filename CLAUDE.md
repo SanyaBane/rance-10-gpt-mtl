@@ -189,13 +189,23 @@ after them. Both were found by playing the game, and neither has a report to
 find them in the corpus, because a record is a number and two lines with no
 speech around it to be wrong about. A scene file has the game's own Japanese,
 the speaker from the bytecode and the row boundaries the `MSG` operands gave, so
-a row's English can be held against the row it sits on. 18 speeches are shifted,
-1548 have the English of the whole utterance on one row and blanks after it --
-**279 of those already draw in more lines than the window allows**, which is the
-part that is not cosmetic -- and 3696 have lost a 「 or a 」 at a row boundary.
-`docs/speech-gaps.md` is the write-up, including the shift it cannot see: both
-its signals need the wrong row to *look* wrong, so a misplaced sentence that
-reads plausibly where it landed is invisible and the count is a floor.
+a row's English can be held against the row it sits on. **4469 speeches are
+drawn in more lines than their window has**, which is the class a player cannot
+miss; `layOutSpeech` takes 3143 of them back and the other 1326 hold more
+English than their rows can draw whatever the layout. 18 are shifted, 1269 have
+a blank row where the game speaks, and 3609 have lost a 「 or a 」 at a row
+boundary. `docs/speech-gaps.md` is the write-up, including the shift it cannot
+see: both its signals need the wrong row to *look* wrong, so a misplaced
+sentence that reads plausibly where it landed is invisible and the count is a
+floor.
+
+The expensive mistake there was a false negative, and no run of the report could
+have shown it: **whether a speech fits its window was a flag on one class rather
+than a question of its own**, so only speeches already suspect for having a
+blank row were ever measured, and 4193 with every row filled were never asked.
+The report said nothing at all about the scene a screenshot then arrived from. A
+flag answers the question for the members of one class; a question that stands
+on its own wants a class of its own.
 
 Its three false positives are one lesson, and it is the one to carry into
 anything that rewrites a row: **ask what the row is for, not what the cell

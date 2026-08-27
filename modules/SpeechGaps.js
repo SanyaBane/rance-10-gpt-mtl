@@ -27,14 +27,22 @@
  * run of shifted rows ends with. m[102332] carries the thought that belongs to
  * m[102333], and m[102335] carries "............".
  *
- * **blank** -- a row where the game says something and the English does not.
- * Three kinds, and they are not equally bad: a *hole* between two filled rows
- * is the one a player sees as a gap in the middle of a bubble; *trailing*
- * blanks are the whole utterance sitting in row one, which looks fine until it
- * does not fit; *leading* is the mirror. Each finding says whether the rows as
- * they stand draw in more lines than the window allows, which is the part that
- * is not cosmetic -- and whether laying the speech out again would fix it,
- * which is what modules/SpeechRows.js is for.
+ * **overflow** -- the speech draws in more lines than its window has, so the
+ * end of it runs off the box. The player sees this one whether or not anything
+ * else is wrong with the speech, which is why it is a class of its own and
+ * ranks above the rest: 4193 of the 4472 have every row filled and nothing else
+ * the matter with them. It was a flag on the class below until a screenshot of
+ * ネルソン／キャライベントＣ arrived, five lines drawn in a three-row window, and
+ * the report had nothing to say about that scene -- the fit was only ever being
+ * asked about speeches that were already suspect for another reason.
+ *
+ * **blank** -- a row where the game says something and the English does not,
+ * in a speech that does fit. Three kinds: a *hole* between two filled rows is
+ * the one a player sees as a gap in the middle of a bubble; *trailing* blanks
+ * are the whole utterance sitting in row one; *leading* is the mirror.
+ *
+ * Both carry what modules/SpeechRows.js would put in the rows instead, so a
+ * report can show the fix rather than assert one exists.
  *
  * A row the game itself left blank is none of this, and asking the cell
  * instead of the row got it wrong by 954 speeches. See carriesText below.
@@ -55,7 +63,7 @@ import {readTranslatedScenes} from "./SceneTranslations.js";
 import {drawnLines, layOutSpeech, rowBudget} from "./SpeechRows.js";
 
 /** Worst first, which is also the order a fix is worth making in. */
-export const CLASSES = ["shifted", "blank", "bracket", "untranslated"];
+export const CLASSES = ["shifted", "overflow", "blank", "bracket", "untranslated"];
 
 /**
  * Kana and kanji, and deliberately not ・ or ー.
@@ -168,25 +176,42 @@ export const findSpeechGaps = async (lang) => {
             }
 
             const filled = spoken.map(row => Boolean(englishOf(row)));
+            // Drawn over every row, because a blank one still takes a line of
+            // the window; laid out over the spoken ones, because those are the
+            // only rows a layout may put words in.
+            const drawn = drawnLines(rows.map(englishOf));
+            const budget = rowBudget(rows.length);
+            const again = layOutSpeech(speech.english, spoken.length);
+            const howItWouldGo = {
+                drawn,
+                budget,
+                // What laying it out again would put in the rows, so that a
+                // report can show the fix rather than assert one exists.
+                laidOut: again.rows,
+                fixes: again.fits,
+                stillOverflows: !again.fits,
+            };
+
+            if (drawn > budget) {
+                findings.push({
+                    ...at,
+                    class: "overflow",
+                    kind: filled.includes(false)
+                        ? `${blankKind(filled)}, and too long for the window`
+                        : "too long for the window",
+                    overflows: true,
+                    ...howItWouldGo,
+                });
+                continue;
+            }
+
             if (filled.includes(false)) {
-                // Drawn over every row, because a blank one still takes a line
-                // of the window; laid out over the spoken ones, because those
-                // are the only rows a layout may put words in.
-                const drawn = drawnLines(rows.map(englishOf));
-                const budget = rowBudget(rows.length);
-                const again = layOutSpeech(speech.english, spoken.length);
                 findings.push({
                     ...at,
                     class: "blank",
                     kind: blankKind(filled),
-                    overflows: drawn > budget,
-                    drawn,
-                    budget,
-                    // What laying it out again would put in the rows, so that a
-                    // report can show the fix rather than assert one exists.
-                    laidOut: again.rows,
-                    fixes: drawn > budget && again.fits,
-                    stillOverflows: !again.fits,
+                    overflows: false,
+                    ...howItWouldGo,
                 });
                 continue;
             }
