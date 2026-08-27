@@ -146,6 +146,20 @@ export const textLangPatch = (name) => path.join(textLangDir(name), "dialogue.ai
 export const hasPatch = (name) => fs.existsSync(textLangPatch(name));
 
 /**
+ * text_languages/<lang>/scenes: the dialogue as one file per scene, which is
+ * the shape a build reads first and the shape a translation is written in.
+ *
+ * The path is here rather than beside the code that writes into it because
+ * three things now ask the question -- what a build renders, what a report
+ * reads, and where an accepted scene is filed -- and a path spelled three times
+ * is two of them to miss when it moves. modules/SceneTranslations.js is what a
+ * folder of these means; modules/Corpus.js is how one is read.
+ */
+export const textLangScenes = (name) => path.join(textLangDir(name), "scenes");
+
+export const hasScenes = (name) => fs.existsSync(textLangScenes(name));
+
+/**
  * For the scripts that read or write the chunk files themselves, which have
  * nothing to work with in a text language that arrived as a finished patch.
  * Naming the reason beats the ENOENT they would otherwise die of.

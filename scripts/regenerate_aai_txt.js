@@ -10,7 +10,7 @@ import * as fs from "fs/promises";
 import * as fsSync from "fs";
 import * as path from "path";
 import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
-import {readCorpus} from "../modules/Corpus.js";
+import {readCorpus, readSceneDialogue} from "../modules/Corpus.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
 import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
@@ -18,8 +18,8 @@ import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {checkSubstitutionsAreNotMisspellings, createNameNormalizer} from "../modules/NameNormalizer.js";
 import {checkPlayerNamePlate} from "../modules/Nameplates.js";
 import {SUBSTITUTIONS} from "../modules/SceneAcceptance.js";
-import {DEFAULT_TEXT_LANG, hasPatch, isTranslated, regeneratedTxt, textLangDir, textLangName, textLangPatch}
-    from "../modules/TextLanguages.js";
+import {DEFAULT_TEXT_LANG, hasPatch, hasScenes, isTranslated, regeneratedTxt, textLangDir, textLangName,
+    textLangPatch} from "../modules/TextLanguages.js";
 
 ensureBuild();
 
@@ -39,25 +39,15 @@ try {
             + " it is the game's own Japanese. There is nothing for this script to do.");
     }
     /*
-     * A third shape has arrived since readTextLang below knew two. A language
-     * whose dialogue is one file per scene keeps those under scenes/ and
-     * reaches the build through an assembled dialogue.ain.txt, which is
-     * generated and gitignored -- so a fresh checkout of one has the scenes and
-     * no patch, and falls through to the corpus reader, which says "ENOENT:
-     * gpt_outputs" and a stack about a folder that was never going to be there.
-     *
-     * A corpus beside the scenes settles it the other way. en_grok now carries
-     * both -- the scene tree is what its corpus is being replaced by, and
-     * nothing reads it yet -- so a language holding a folder this script can
-     * still build from is not the shape this message is about, and refusing it
-     * stops the build on a language that was never broken.
+     * A language with none of the three shapes has nothing to render, and
+     * saying so beats the ENOENT about a folder that was never going to be
+     * there. Scenes first: that is what a language keeps its dialogue in now,
+     * and the corpus of chunk files is what they were rendered out of.
      */
-    if (!hasPatch(textLang)
-        && fsSync.existsSync(path.join(textLangDir(textLang), "scenes"))
+    if (!hasScenes(textLang) && !hasPatch(textLang)
         && !fsSync.existsSync(path.join(textLangDir(textLang), "gpt_outputs"))) {
-        throw new Error(`text_languages/${textLang} keeps its dialogue as one file per scene, and has no`
-            + " assembled dialogue.ain.txt to build from. That file is generated rather than kept:"
-            + ` run npm run assemble-scenes -- --text-lang=${textLang} first.`);
+        throw new Error(`text_languages/${textLang} holds no dialogue this script can read: no scenes/,`
+            + " no dialogue.ain.txt and no gpt_outputs/. modules/Corpus.js is what the shapes are.");
     }
 } catch (error) {
     console.error(error.message);
@@ -128,31 +118,56 @@ const readPatch = async (filePath) => {
     return [records, undescribed];
 };
 
+const byLineNumber = (a, b) => +a.lineNumber - +b.lineNumber;
+
 /**
- * A patch names the lines it has an opinion about and no others, and a line it
- * skips would play in Japanese -- the patch en_grok was imported from missed a
- * scene of 300 lines that way. So the default text language is rendered
- * underneath it and shows through the gaps; that language's own README says
- * which lines those are.
+ * What one language says on its own, keyed by line number, in whichever of the
+ * three shapes it keeps its dialogue.
+ *
+ * Scenes first, because that is where a translation is written and read now;
+ * modules/Corpus.js is what each shape is and what reading one costs. The
+ * chunk-file shape keys by number here rather than handing back its records in
+ * file order, which drops the 5676 duplicate assignments the overlapping chunk
+ * ranges used to put in the patch -- the same line, twice, resolved by
+ * alice-tools taking the last. The built .ain never noticed; the patch was just
+ * longer than the script.
+ */
+const own = async (name) => {
+    if (hasScenes(name)) {
+        const {records, scenes, skipped} = await readSceneDialogue(name);
+        return [
+            new Map(records.map(record => [+record.lineNumber, record])),
+            `${records.length} lines from ${scenes} scenes`
+            + (skipped ? `, ${skipped} rows of speeches nobody has translated left in Japanese` : ""),
+        ];
+    }
+    if (hasPatch(name)) {
+        const [patched, undescribed] = await readPatch(textLangPatch(name));
+        return [patched, `${patched.size} lines of its own`
+            + (undescribed ? `, ${undescribed} the v1.04 dump does not describe` : "")];
+    }
+    const corpus = await readCorpus(textLangDir(name), v100ToV104);
+    return [new Map(corpus.map(record => [+record.lineNumber, record])),
+        `${corpus.length} chunk records`];
+};
+
+/**
+ * A language names the lines it has an opinion about and no others, and a line
+ * it skips plays in the game's own Japanese -- the patch en_grok was imported
+ * from missed a scene of 300 lines that way, and a retranslation is partial by
+ * definition until the last scene lands. So every language but the default is
+ * rendered over the default, which shows through the gaps.
  */
 const readTextLang = async (name) => {
-    if (!hasPatch(name)) {
-        return [await readCorpus(textLangDir(name), v100ToV104), ""];
+    const [mine, howMine] = await own(name);
+    if (name === DEFAULT_TEXT_LANG) {
+        return [[...mine.values()].sort(byLineNumber), howMine];
     }
-    const [patched, undescribed] = await readPatch(textLangPatch(name));
-    const beneath = name === DEFAULT_TEXT_LANG
-        ? []
-        : await readCorpus(textLangDir(DEFAULT_TEXT_LANG), v100ToV104);
-    const lineRecords = new Map(beneath.map(lr => [+lr.lineNumber, lr]));
-    const filledIn = [...lineRecords.keys()].filter(lineNumber => !patched.has(lineNumber)).length;
-    for (const [lineNumber, lineRecord] of patched) {
-        lineRecords.set(lineNumber, lineRecord);
-    }
+    const [beneath] = await own(DEFAULT_TEXT_LANG);
+    const filledIn = [...beneath.keys()].filter(lineNumber => !mine.has(lineNumber)).length;
     return [
-        [...lineRecords.values()].sort((a, b) => +a.lineNumber - +b.lineNumber),
-        `${patched.size} lines of its own`
-        + (filledIn ? `, ${filledIn} left to "${DEFAULT_TEXT_LANG}"` : "")
-        + (undescribed ? `, ${undescribed} the v1.04 dump does not describe` : ""),
+        [...new Map([...beneath, ...mine]).values()].sort(byLineNumber),
+        howMine + (filledIn ? `, ${filledIn} left to "${DEFAULT_TEXT_LANG}"` : ""),
     ];
 };
 

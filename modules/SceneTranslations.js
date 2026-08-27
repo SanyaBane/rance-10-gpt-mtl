@@ -31,10 +31,10 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {parseSceneFile, renderSceneFile, sceneFileName, speechesOf} from "./SceneFile.js";
 import {layOutSpeech} from "./SpeechRows.js";
-import {textLangDir} from "./TextLanguages.js";
+import {textLangScenes} from "./TextLanguages.js";
 
 /** text_languages/<lang>/scenes: the translation, one file per scene. */
-export const translatedScenesDir = (lang) => path.join(textLangDir(lang), "scenes");
+export const translatedScenesDir = textLangScenes;
 
 /**
  * Write one accepted scene, replacing whatever was there.

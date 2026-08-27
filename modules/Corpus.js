@@ -1,25 +1,33 @@
 /**
- * Reading a text language's chunk files, on the numbering the game uses.
+ * What one text language says, line by line, on the numbering the game uses.
  *
- * A corpus is two folders of JSON, one record per line of dialogue: gpt_outputs
- * written against v1.00, and gpt_outputs_v104 for the lines v1.04 added. So
- * reading one is also moving it, and modules/LineNumbers.js is what it is moved
- * with -- a record whose v1.00 number found no partner is dropped, because
- * there is no slot in the game being patched to put it in.
+ * Two shapes, and the first is the one to write new things against.
  *
- * Here rather than inline in scripts/regenerate_aai_txt.js because rendering
- * the patch is no longer the only thing that reads a corpus. The chunk file
- * names carry line numbers of their own, the two folders have to be read in
- * that order and concatenated in that order, and a second copy of those rules
- * would not fail -- it would quietly answer a slightly different question.
+ * **One file per scene**, under text_languages/<lang>/scenes/. The numbers are
+ * the game's already, every message sits in exactly one scene so no number is
+ * claimed twice, and the row carries the game's own Japanese beside the English
+ * rather than a copy somebody retyped. modules/SceneFile.js is the format.
  *
- * What comes back is in file order and may name the same line twice: a chunk
- * that overlaps its neighbour, or a duplicated number the corpus never had
- * squeezed out. Callers that key by line number take the last, which is what
+ * **A corpus of chunk files**, which is what the scenes were rendered out of:
+ * gpt_outputs written against v1.00 and gpt_outputs_v104 for the lines v1.04
+ * added. Reading one is also moving it onto the game's numbering, which is what
+ * modules/LineNumbers.js is for -- a record whose v1.00 number found no partner
+ * is dropped, because there is no slot in the game being patched to put it in.
+ * It comes back in file order and may name the same line twice, since the chunk
+ * ranges overlap; callers key by line number and take the last, which is what
  * rendering the patch has always done.
+ *
+ * Both hand back the same record -- a line number, the Japanese it stands for
+ * and the English -- so what reads a language does not have to know which shape
+ * it keeps. The Japanese differs between them on 5081 records and it costs
+ * nothing: rendering the patch from either gives the same 269617 lines, because
+ * the only thing that reads that field is the name repair pass and the repairs
+ * were written into the text years ago. docs/baked-name-repairs.md is that.
  */
 import * as fs from "fs/promises";
 import * as path from "path";
+import {speechesOf} from "./SceneFile.js";
+import {readTranslatedScenes} from "./SceneTranslations.js";
 
 /** One folder of chunk files, read in line-number order, records concatenated. */
 const readTranslations = async (folderPath) => {
@@ -73,4 +81,50 @@ export const readCorpus = async (root, v100ToV104) => {
             }
         })
         .concat(allLineRecordsV104);
+};
+
+/**
+ * The same records out of one file per scene, on the game's numbering already.
+ *
+ * **The speech decides, and the row is written.** A speech nobody has
+ * translated is left out entirely rather than written empty, because a line the
+ * patch does not name plays in the game's own Japanese and an empty one plays
+ * as an empty bubble -- untranslated Japanese is the better of those. But every
+ * row of a speech that *has* been translated is written, including the rows
+ * with nothing on them: the draft answers a whole utterance on its first row
+ * and leaves the rest empty, so skipping those would put an English sentence on
+ * one row of a bubble and the game's Japanese on the next. 1801 rows are that
+ * shape. docs/speech-gaps.md is what else it costs and what fixes it.
+ *
+ * Nothing here reads the cells for meaning. A cell holding a full-width space
+ * is written as one, because 825 of those sit on a row the game itself leaves
+ * blank -- a beat inside a bubble, or text positioned across the screen with
+ * runs of spaces -- and a build that decided such a cell was "empty enough"
+ * would be deciding it about the game's own layout.
+ *
+ * @param {string} lang
+ * @return {Promise<{records: object[], scenes: number, skipped: number}>}
+ */
+export const readSceneDialogue = async (lang) => {
+    const scenes = await readTranslatedScenes(lang);
+    const records = [];
+    let skipped = 0;
+    for (const {scene} of scenes) {
+        const byNumber = new Map(scene.rows.map(row => [row.lineNumber, row]));
+        for (const speech of speechesOf(scene)) {
+            if (!speech.english.trim()) {
+                skipped += speech.rows.length;
+                continue;
+            }
+            for (const number of speech.rows) {
+                const row = byNumber.get(number);
+                records.push({
+                    lineNumber: row.lineNumber,
+                    originalJapaneseLine: row.japanese,
+                    translatedEnglishLine: row.english,
+                });
+            }
+        }
+    }
+    return {records, scenes: scenes.length, skipped};
 };
