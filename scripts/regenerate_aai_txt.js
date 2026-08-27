@@ -45,8 +45,16 @@ try {
      * generated and gitignored -- so a fresh checkout of one has the scenes and
      * no patch, and falls through to the corpus reader, which says "ENOENT:
      * gpt_outputs" and a stack about a folder that was never going to be there.
+     *
+     * A corpus beside the scenes settles it the other way. en_grok now carries
+     * both -- the scene tree is what its corpus is being replaced by, and
+     * nothing reads it yet -- so a language holding a folder this script can
+     * still build from is not the shape this message is about, and refusing it
+     * stops the build on a language that was never broken.
      */
-    if (!hasPatch(textLang) && fsSync.existsSync(path.join(textLangDir(textLang), "scenes"))) {
+    if (!hasPatch(textLang)
+        && fsSync.existsSync(path.join(textLangDir(textLang), "scenes"))
+        && !fsSync.existsSync(path.join(textLangDir(textLang), "gpt_outputs"))) {
         throw new Error(`text_languages/${textLang} keeps its dialogue as one file per scene, and has no`
             + " assembled dialogue.ain.txt to build from. That file is generated rather than kept:"
             + ` run npm run assemble-scenes -- --text-lang=${textLang} first.`);
