@@ -3,70 +3,70 @@
 * Zance Leazas	ザンス２	Male
 * El Mofus	エール２	Player's choice
 
-191647	Reset Kalar	「お邪魔しまーす。	「Excuse me~.
-191648	+	　＜エール＞ちゃん、晩ご飯が出来たから、	　＜エール＞-chan, dinner's ready,
-191649	+	　ザンスちゃん呼んできてくれないかな？」	　can you go call Zance-chan for me?」
+191647	Reset Kalar	基本	「お邪魔しまーす。	「Excuse me~.
+191648	+		　＜エール＞ちゃん、晩ご飯が出来たから、	　＜エール＞-chan, dinner's ready,
+191649	+		　ザンスちゃん呼んできてくれないかな？」	　can you go call Zance-chan for me?」
 
-191650	-	――と、リセットに頼まれたあなたは、	一一At Reset's request,
-191651	+	ザンスを探して近くの川まで来ていた。	you came to the nearby river looking for Zance.
+191650	-		――と、リセットに頼まれたあなたは、	一一At Reset's request,
+191651	+		ザンスを探して近くの川まで来ていた。	you came to the nearby river looking for Zance.
 
-191652	Zance Leazas	「……アア？」	「...Aa?」
+191652	Zance Leazas		「……アア？」	「...Aa?」
 
-191653	Zance Leazas	「げっ、何しに来やがった……」	「Tch, what are you doing here...」
+191653	Zance Leazas	不満	「げっ、何しに来やがった……」	「Tch, what are you doing here...」
 
-191654	-	川辺を少し歩くと、	After walking a bit along the riverside,
-191655	+	剣を構えているザンスがすぐに見つかった。	you quickly spotted Zance holding his sword.
+191654	-		川辺を少し歩くと、	After walking a bit along the riverside,
+191655	+		剣を構えているザンスがすぐに見つかった。	you quickly spotted Zance holding his sword.
 
-191656	El Mofus	「…………。」	「............」
+191656	El Mofus	基本	「…………。」	「............」
 
-191657	Zance Leazas	「アア？　なにしてるかって？	「Aa? What am I doing?
-191658	+	　ちっ、まあ隠しても意味ねーしな」	　Tch, well hiding it won't do any good.」
+191657	Zance Leazas		「アア？　なにしてるかって？	「Aa? What am I doing?
+191658	+		　ちっ、まあ隠しても意味ねーしな」	　Tch, well hiding it won't do any good.」
 
-191659	Zance Leazas	「見ての通り、しゅぎょーだよ、修行」	「As you can see, training.」
+191659	Zance Leazas		「見ての通り、しゅぎょーだよ、修行」	「As you can see, training.」
 
-191660	Zance Leazas	「一日の遅れを取り戻すには三日かかる。	「It takes three days to make up for one day's delay.
-191661	+	　基本的には毎日やってんぞ。	　I do it basically every day.
-191662	+	　ま、人前ではそーそーやらねーがな」	　Well, I don't usually do it in front of people.」
+191660	Zance Leazas		「一日の遅れを取り戻すには三日かかる。	「It takes three days to make up for one day's delay.
+191661	+		　基本的には毎日やってんぞ。	　I do it basically every day.
+191662	+		　ま、人前ではそーそーやらねーがな」	　Well, I don't usually do it in front of people.」
 
-191663	Zance Leazas	「ハンッ、最強の俺も修行すんのかって驚いたか」	「Hmph, surprised that even the strongest me trains?」
+191663	Zance Leazas	不満	「ハンッ、最強の俺も修行すんのかって驚いたか」	「Hmph, surprised that even the strongest me trains?」
 
-191664	Zance Leazas	「俺の師匠がその辺くそ真面目でな。	「My master was ridiculously serious.
-191665	+	　人生を剣に捧げたみたいな奴でよ、	　The kind of guy who devoted his life to the sword,
-191666	+	　剣術に関しちゃ厳しく躾けられてんだ」	　and he trained me harshly in swordsmanship.」
+191664	Zance Leazas	基本	「俺の師匠がその辺くそ真面目でな。	「My master was ridiculously serious.
+191665	+		　人生を剣に捧げたみたいな奴でよ、	　The kind of guy who devoted his life to the sword,
+191666	+		　剣術に関しちゃ厳しく躾けられてんだ」	　and he trained me harshly in swordsmanship.」
 
-191667	Zance Leazas	「最強になるには人よりも多く、	「To become the strongest, you need to swing
-191668	+	　一度でも多く剣を振れってな」	　your sword more than others, even once more.」
+191667	Zance Leazas		「最強になるには人よりも多く、	「To become the strongest, you need to swing
+191668	+		　一度でも多く剣を振れってな」	　your sword more than others, even once more.」
 
-191669	Zance Leazas	「つっても、人に物教えるセンスは	「That said, he had zero talent for teaching,
-191670	+	　壊滅的な師匠だったから、	　so I mostly just stole his techniques by watching.」
-191671	+	　ほとんど見て盗んだだけだがな」	
+191669	Zance Leazas	微笑み	「つっても、人に物教えるセンスは	「That said, he had zero talent for teaching,
+191670	+		　壊滅的な師匠だったから、	　so I mostly just stole his techniques by watching.」
+191671	+		　ほとんど見て盗んだだけだがな」	
 
-191672	Zance Leazas	「…………」	「............」
+191672	Zance Leazas	基本	「…………」	「............」
 
-191673	Zance Leazas	「もし今後会う機会があっても、	「If you ever meet him in the future,
-191674	+	　俺がそいつを師匠と呼んでたなんて言うなよ」	　don't tell him I called him master.」
+191673	Zance Leazas		「もし今後会う機会があっても、	「If you ever meet him in the future,
+191674	+		　俺がそいつを師匠と呼んでたなんて言うなよ」	　don't tell him I called him master.」
 
-191675	Zance Leazas	「……ぜってー、泣いて喜ぶからうぜえ」	「...He'd definitely cry with joy and it'd be annoying.」
+191675	Zance Leazas	呆れ	「……ぜってー、泣いて喜ぶからうぜえ」	「...He'd definitely cry with joy and it'd be annoying.」
 
-191676	-	どうやら、その師匠とは複雑な関係であるらしい。	It seemed his relationship with that master was complicated.
+191676	-		どうやら、その師匠とは複雑な関係であるらしい。	It seemed his relationship with that master was complicated.
 
-191677	Zance Leazas	「まあいいや。	「Whatever.
-191678	+	　おめぇーもちったー強くなりたきゃ、	　If you wanna get a bit stronger too,
-191679	+	　剣の一つでも振っとけよ」	　swing a sword at least once in a while.」
+191677	Zance Leazas	微笑み	「まあいいや。	「Whatever.
+191678	+		　おめぇーもちったー強くなりたきゃ、	　If you wanna get a bit stronger too,
+191679	+		　剣の一つでも振っとけよ」	　swing a sword at least once in a while.」
 
-191680	Zance Leazas	「…………」	「............」
+191680	Zance Leazas	基本	「…………」	「............」
 
-191681	Zance Leazas	「だー！　いつまで見てんだテメェ！	「Gah! How long are you gonna watch, you bastard!
-191682	+	　俺ぁ修行してんの人に見られんのが嫌いなんだよ！	　I hate people watching me train!
-191683	+	　とっととどっか消えろ！」	　Get lost already!」
+191681	Zance Leazas	怒り	「だー！　いつまで見てんだテメェ！	「Gah! How long are you gonna watch, you bastard!
+191682	+		　俺ぁ修行してんの人に見られんのが嫌いなんだよ！	　I hate people watching me train!
+191683	+		　とっととどっか消えろ！」	　Get lost already!」
 
-191684	Zance Leazas	「アア？　飯が出来たから呼びに来ただァ？」	「Aa? You came to call me because dinner's ready?」
+191684	Zance Leazas		「アア？　飯が出来たから呼びに来ただァ？」	「Aa? You came to call me because dinner's ready?」
 
-191685	Zance Leazas	「……そういうことは早く言え、タコ」	「...Say that first, you idiot.」
+191685	Zance Leazas	基本	「……そういうことは早く言え、タコ」	「...Say that first, you idiot.」
 
-191686	-	理不尽にもあなたは頭を叩かれた。	For no good reason, he bonked your head.
+191686	-		理不尽にもあなたは頭を叩かれた。	For no good reason, he bonked your head.
 
-191687	-	なんともあなたの兄は理不尽な人だった。	Your brother really was an unreasonable guy.
+191687	-		なんともあなたの兄は理不尽な人だった。	Your brother really was an unreasonable guy.
 
-191688	Zance Leazas	「おら、早く行くぞ。	「Oi, let's go already.
-191689	+	　俺は腹が減ってんだ」	　I'm starving.」
+191688	Zance Leazas		「おら、早く行くぞ。	「Oi, let's go already.
+191689	+		　俺は腹が減ってんだ」	　I'm starving.」

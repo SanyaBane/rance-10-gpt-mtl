@@ -7,82 +7,82 @@
 * Masou Shizuka	志津香２	Female
 * Nagi su Ragarl	ナギ２	Female
 
-190453	-	あなた達は町を出発しようとしていた。	You all were about to leave the town.
+190453	-		あなた達は町を出発しようとしていた。	You all were about to leave the town.
 
-190454	Nagata-kun	「ふーっ、いやー、買った買った。	「Phew, man, we bought a lot.
-190455	+	　大量に買ったっすねー」	　We really stocked up.」
+190454	Nagata-kun	基本	「ふーっ、いやー、買った買った。	「Phew, man, we bought a lot.
+190455	+		　大量に買ったっすねー」	　We really stocked up.」
 
-190456	Rocky Bank	「次の町は遠いだすからね。	「The next town is far away.
-190457	+	　食料と備蓄品とその他諸々、	　Food, supplies, and all sorts of things,
-190458	+	　結構な量になってしまいましただすな」	　it ended up being quite a lot.」
+190456	Rocky Bank		「次の町は遠いだすからね。	「The next town is far away.
+190457	+		　食料と備蓄品とその他諸々、	　Food, supplies, and all sorts of things,
+190458	+		　結構な量になってしまいましただすな」	　it ended up being quite a lot.」
 
-190459	Rocky Bank	「よいっ……せっ！」	「Heave... ho!」
+190459	Rocky Bank		「よいっ……せっ！」	「Heave... ho!」
 
-190460	-	ロッキーが荷物を重たげに担いだ。	Rocky lifted the heavy load onto his back.
+190460	-		ロッキーが荷物を重たげに担いだ。	Rocky lifted the heavy load onto his back.
 
-190461	Rocky Bank	「…………う、ぐ」	「......U, guh」
+190461	Rocky Bank	ガーン	「…………う、ぐ」	「......U, guh」
 
-190462	-	ロッキーは顔を歪ませてピタリと動きを止めた。	Rocky grimaced and froze in place.
-190463	+	どうやら重すぎて動くことが出来ないようだ。	It seemed too heavy for him to move.
+190462	-		ロッキーは顔を歪ませてピタリと動きを止めた。	Rocky grimaced and froze in place.
+190463	+		どうやら重すぎて動くことが出来ないようだ。	It seemed too heavy for him to move.
 
-190464	Nagata-kun	「やっぱ無理ですって、その量は……	「See, it's impossible with that much...
-190465	+	　うし車でも雇います？」	　Should we hire a cart?」
+190464	Nagata-kun	基本	「やっぱ無理ですって、その量は……	「See, it's impossible with that much...
+190465	+		　うし車でも雇います？」	　Should we hire a cart?」
 
-190466	Rocky Bank	「い、いやいや……	「N-no no...
-190467	+	　そんな無駄遣いをさせるわけにはいかないだ。	　I can't let you waste money like that.
-190468	+	　こんな荷物くらいおらが……」	　I can carry this much...」
+190466	Rocky Bank	ガーン	「い、いやいや……	「N-no no...
+190467	+		　そんな無駄遣いをさせるわけにはいかないだ。	　I can't let you waste money like that.
+190468	+		　こんな荷物くらいおらが……」	　I can carry this much...」
 
-190469	Nagata-kun	「って、言ったってなぁ……	「Even if you say that...
-190470	+	　しゃーない、みんなで分担して持とう。	　No choice, let's split it among everyone.
-190471	+	　それならなんとか……」	　That should work...」
+190469	Nagata-kun	基本	「って、言ったってなぁ……	「Even if you say that...
+190470	+		　しゃーない、みんなで分担して持とう。	　No choice, let's split it among everyone.
+190471	+		　それならなんとか……」	　That should work...」
 
-190472	Wass	「うっす……」	「Yess...」
+190472	Wass		「うっす……」	「Yess...」
 
-190473	Doss	「……うっす」	「...Yess.」
+190473	Doss		「……うっす」	「...Yess.」
 
-190474	Rocky Bank	「えっ、ドッスさんにワッスさん！？」	「Eh, Doss-san and Wass-san!?」
+190474	Rocky Bank		「えっ、ドッスさんにワッスさん！？」	「Eh, Doss-san and Wass-san!?」
 
-190475	-	ドッスとワッスの二人が、	Doss and Wass
-190476	+	ロッキーの荷物を優しく下ろす。	gently took down Rocky's load.
+190475	-		ドッスとワッスの二人が、	Doss and Wass
+190476	+		ロッキーの荷物を優しく下ろす。	gently took down Rocky's load.
 
-190477	-	そして、二人は荷物をテキパキと二つに分けると、	Then they quickly split the luggage into two
-190478	+	それぞれが肩に担いだ。	and carried it on their shoulders.
+190477	-		そして、二人は荷物をテキパキと二つに分けると、	Then they quickly split the luggage into two
+190478	+		それぞれが肩に担いだ。	and carried it on their shoulders.
 
-190479	Nagata-kun	「お、おーっ、すごい！　	「O-ohh, amazing!
-190480	+	　二人とも軽々と！」	　They lifted it so easily!」
+190479	Nagata-kun		「お、おーっ、すごい！　	「O-ohh, amazing!
+190480	+		　二人とも軽々と！」	　They lifted it so easily!」
 
-190481	Rocky Bank	「うんうん、すごいだ。	「Yeah yeah, impressive.
-190482	+	　でも、持ってもらっちゃっていいんだすか？」	　But is it okay for you to carry it?」
+190481	Rocky Bank		「うんうん、すごいだ。	「Yeah yeah, impressive.
+190482	+		　でも、持ってもらっちゃっていいんだすか？」	　But is it okay for you to carry it?」
 
-190483	Wass	「うっす……」	「Yess...」
+190483	Wass		「うっす……」	「Yess...」
 
-190484	Doss	「……うっす」	「...Yess.」
+190484	Doss		「……うっす」	「...Yess.」
 
-190485	-	二人はこくこくと頷いていた。	The two nodded firmly.
+190485	-		二人はこくこくと頷いていた。	The two nodded firmly.
 
-190486	-	こうして力持ちな二人は、	And so the two strong ones
-190487	+	一行の荷物持ちの任務についた。	took on the duty of carrying the party's luggage.
+190486	-		こうして力持ちな二人は、	And so the two strong ones
+190487	+		一行の荷物持ちの任務についた。	took on the duty of carrying the party's luggage.
 
-190488	Reset Kalar	「うわぁ、すごい。	「Wow, amazing.
-190489	+	　二人とも力持ちさんなんだねえ」	　You two are really strong.」
+190488	Reset Kalar		「うわぁ、すごい。	「Wow, amazing.
+190489	+		　二人とも力持ちさんなんだねえ」	　You two are really strong.」
 
-190490	Masou Shizuka	「本当にすごいわ……	「They're really impressive...
-190491	+	　よく持てるものね……」	　I can't believe they can carry that much...」
+190490	Masou Shizuka		「本当にすごいわ……	「They're really impressive...
+190491	+		　よく持てるものね……」	　I can't believe they can carry that much...」
 
-190492	Nagi su Ragarl	「私達じゃ、その半分の半分でも無理だねぇ」	「Even half of half of that would be impossible for us.」
+190492	Nagi su Ragarl		「私達じゃ、その半分の半分でも無理だねぇ」	「Even half of half of that would be impossible for us.」
 
-190493	Reset Kalar	「えへへ、ドッスさんとワッスさんがいて	「Ehehe, having Doss-san and Wass-san
-190494	+	　助かっちゃったね、ね、＜エール＞ちゃん」	　really helps, right ＜エール＞-chan?」
+190493	Reset Kalar	笑顔	「えへへ、ドッスさんとワッスさんがいて	「Ehehe, having Doss-san and Wass-san
+190494	+		　助かっちゃったね、ね、＜エール＞ちゃん」	　really helps, right ＜エール＞-chan?」
 
-190495	-	姉の言葉にあなたは頷いた。	You nodded at your sister's words.
+190495	-		姉の言葉にあなたは頷いた。	You nodded at your sister's words.
 
-190496	Wass	「…………」	「............」
+190496	Wass	基本	「…………」	「............」
 
-190497	Doss	「…………」	「............」
+190497	Doss		「…………」	「............」
 
-190498	Wass	「うっす……」	「Yess...」
+190498	Wass		「うっす……」	「Yess...」
 
-190499	Doss	「……うっす」	「...Yess.」
+190499	Doss		「……うっす」	「...Yess.」
 
-190500	-	なんとなく、	Somehow,
-190501	+	二人は照れているようにあなたには見えた。	the two seemed to be blushing to you.
+190500	-		なんとなく、	Somehow,
+190501	+		二人は照れているようにあなたには見えた。	the two seemed to be blushing to you.

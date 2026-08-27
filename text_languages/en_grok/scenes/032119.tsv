@@ -7,207 +7,207 @@
 * Uesugi Torako	虎子	Female
 * Uesugi Katsuko	勝子	Female
 
-123738	-	ランス城では余暇を利用しての、	At Rance Castle, they were using their free time
-123739	+	ドッジボール大会が行われていた。	for a dodgeball tournament.
+123738	-		ランス城では余暇を利用しての、	At Rance Castle, they were using their free time
+123739	+		ドッジボール大会が行われていた。	for a dodgeball tournament.
 
-123740	Rance	「おう、謙信、同じチームだな。	「Yo, Kenshin, we're on the same team.
-123741	+	　今日は頼むぞ」	　I'm counting on you today.」
+123740	Rance	基本	「おう、謙信、同じチームだな。	「Yo, Kenshin, we're on the same team.
+123741	+		　今日は頼むぞ」	　I'm counting on you today.」
 
-123742	Uesugi Kenshin	「……うむ」	「...Yes.」
+123742	Uesugi Kenshin		「……うむ」	「...Yes.」
 
-123743	Uesugi Kenshin	「しかし……」	「However...」
+123743	Uesugi Kenshin		「しかし……」	「However...」
 
-123744	Rance	「ん？」	「Hm?」
+123744	Rance		「ん？」	「Hm?」
 
-123745	Uesugi Kenshin	「今、世界は戦火に包まれている……	「Right now the world is engulfed in war...
-123746	+	　このようなことをしていていいのだろうか」	　Is it okay for us to be doing something like this?」
+123745	Uesugi Kenshin		「今、世界は戦火に包まれている……	「Right now the world is engulfed in war...
+123746	+		　このようなことをしていていいのだろうか」	　Is it okay for us to be doing something like this?」
 
-123747	Rance	「たまの休暇は必要だろう。	「Everyone needs a break sometimes.
-123748	+	　誰が言い出したことかは知らんがな」	　I don't know who suggested it though.」
+123747	Rance		「たまの休暇は必要だろう。	「Everyone needs a break sometimes.
+123748	+		　誰が言い出したことかは知らんがな」	　I don't know who suggested it though.」
 
-123749	Rance	「がははは、俺のチームには謙信がいるのだ！	「Gahahaha, my team has Kenshin!
-123750	+	　楽勝だな！」	　Easy win!」
+123749	Rance	笑顔	「がははは、俺のチームには謙信がいるのだ！	「Gahahaha, my team has Kenshin!
+123750	+		　楽勝だな！」	　Easy win!」
 
-123751	Uesugi Kenshin	「…………」	「............」
+123751	Uesugi Kenshin	基本	「…………」	「............」
 
-123752	Uesugi Kenshin	「勝つと……貴方は嬉しい？」	「If we win... will you be happy?」
+123752	Uesugi Kenshin		「勝つと……貴方は嬉しい？」	「If we win... will you be happy?」
 
-123753	Rance	「そうだな、ドッジなんて下らんが、	「Well, dodgeball is lame,
-123754	+	　折角なら勝った方が気分いいな」	　but winning feels better than losing.」
+123753	Rance		「そうだな、ドッジなんて下らんが、	「Well, dodgeball is lame,
+123754	+		　折角なら勝った方が気分いいな」	　but winning feels better than losing.」
 
-123755	Uesugi Kenshin	「…………」	「............」
+123755	Uesugi Kenshin		「…………」	「............」
 
-123756	Uesugi Kenshin	「分かった」	「Understood.」
+123756	Uesugi Kenshin		「分かった」	「Understood.」
 
-123757	Uesugi Kenshin	「私の命を賭けてでも、	「Even if it costs my life,
-123758	+	　必ず貴方を勝利へ導くと約束する」	　I promise to lead you to victory.」
+123757	Uesugi Kenshin		「私の命を賭けてでも、	「Even if it costs my life,
+123758	+		　必ず貴方を勝利へ導くと約束する」	　I promise to lead you to victory.」
 
-123759	Rance	「いや……何もそこまで気合い入れんでいいぞ」	「Hey... No need to go that far.」
+123759	Rance		「いや……何もそこまで気合い入れんでいいぞ」	「Hey... No need to go that far.」
 
-123760	Uesugi Kenshin	「…………」	「............」
+123760	Uesugi Kenshin		「…………」	「............」
 
-123761	Uesugi Kenshin	「今日はがんばる」	「I'll do my best today.」
+123761	Uesugi Kenshin		「今日はがんばる」	「I'll do my best today.」
 
-123762	Rance	「そんくらい、そんくらい」	「That's enough, that's enough.」
+123762	Rance		「そんくらい、そんくらい」	「That's enough, that's enough.」
 
-123763	Rance	「行けー、謙信！」	「Go, Kenshin!」
+123763	Rance		「行けー、謙信！」	「Go, Kenshin!」
 
-123764	Uesugi Kenshin	「はい！」	「Yes!」
+123764	Uesugi Kenshin	戦闘	「はい！」	「Yes!」
 
-123765	Pastel Kalar	「ぎゃー！」	「Gyaa!」
+123765	Pastel Kalar	基本	「ぎゃー！」	「Gyaa!」
 
-123766	Rance	「謙信ゴー！」	「Kenshin go!」
+123766	Rance		「謙信ゴー！」	「Kenshin go!」
 
-123767	Uesugi Kenshin	「承知！」	「Understood!」
+123767	Uesugi Kenshin	戦闘	「承知！」	「Understood!」
 
-123768	Rocky Bank	「ほんげー！」	「Hongeー!」
+123768	Rocky Bank	基本	「ほんげー！」	「Hongeー!」
 
-123769	Rance	「ズドドドーンと行け！　謙信！」	「Go with a bang! Kenshin!」
+123769	Rance		「ズドドドーンと行け！　謙信！」	「Go with a bang! Kenshin!」
 
-123770	Uesugi Kenshin	「ずどどどぉん」	「Zudododoon.」
+123770	Uesugi Kenshin	戦闘	「ずどどどぉん」	「Zudododoon.」
 
-123771	Sachiko Centers	「あんぎゃーーーー！」	「Angyaaaa!」
+123771	Sachiko Centers	基本	「あんぎゃーーーー！」	「Angyaaaa!」
 
-123772	-	ランスのチームは謙信の活躍により、	Thanks to Kenshin's performance,
-123773	+	破竹の勢いで勝ち続けた。	Rance's team kept winning overwhelmingly.
+123772	-		ランスのチームは謙信の活躍により、	Thanks to Kenshin's performance,
+123773	+		破竹の勢いで勝ち続けた。	Rance's team kept winning overwhelmingly.
 
-123774	Uesugi Torako	「ぐえ〜……	「Gueee...
-123775	+	　け、謙信様、強すぎます……」	　L-Lady Kenshin is too strong...」
+123774	Uesugi Torako		「ぐえ〜……	「Gueee...
+123775	+		　け、謙信様、強すぎます……」	　L-Lady Kenshin is too strong...」
 
-123776	Uesugi Kenshin	「勝子、虎子。	「Katsuko, Torako.
-123777	+	　勝負とは非情」	　A match is ruthless.」
+123776	Uesugi Kenshin		「勝子、虎子。	「Katsuko, Torako.
+123777	+		　勝負とは非情」	　A match is ruthless.」
 
-123778	Uesugi Torako	「くすん、くすん……」	「Sniff, sniff...」
+123778	Uesugi Torako	泣き	「くすん、くすん……」	「Sniff, sniff...」
 
-123779	Uesugi Katsuko	「はらほろひれはれ……」	「Harahoro hirehare...」
+123779	Uesugi Katsuko		「はらほろひれはれ……」	「Harahoro hirehare...」
 
-123780	Rance	「がははははははは！	「Gahahahahahaha!
-123781	+	　圧勝、楽勝、万歳三唱だな！」	　Overwhelming victory, easy win, three cheers!」
+123780	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+123781	+		　圧勝、楽勝、万歳三唱だな！」	　Overwhelming victory, easy win, three cheers!」
 
-123782	Rance	「これも謙信のおかげだ」	「This is all thanks to Kenshin.」
+123782	Rance	基本	「これも謙信のおかげだ」	「This is all thanks to Kenshin.」
 
-123783	Uesugi Kenshin	「私は貴方の役に立てたか？」	「Was I useful to you?」
+123783	Uesugi Kenshin		「私は貴方の役に立てたか？」	「Was I useful to you?」
 
-123784	Rance	「うむ、立った立った」	「Yes, very useful.」
+123784	Rance		「うむ、立った立った」	「Yes, very useful.」
 
-123785	Uesugi Kenshin	「そうか」	「I see.」
+123785	Uesugi Kenshin		「そうか」	「I see.」
 
-123786	-	今は別のチーム同士が戦っていた。	Now other teams were battling.
-123787	+	戦っている者同士の怒声、	Angry shouts from the players,
-123788	+	応援する者達の声が中庭に響いていた。	and cheers from supporters echoed in the courtyard.
+123786	-		今は別のチーム同士が戦っていた。	Now other teams were battling.
+123787	+		戦っている者同士の怒声、	Angry shouts from the players,
+123788	+		応援する者達の声が中庭に響いていた。	and cheers from supporters echoed in the courtyard.
 
-123789	Uesugi Kenshin	「……いい、風が吹いている」	「...The wind feels nice.」
+123789	Uesugi Kenshin		「……いい、風が吹いている」	「...The wind feels nice.」
 
-123790	Rance	「ん？　そうだな、涼しいな」	「Hm? Yeah, it's refreshing.」
+123790	Rance		「ん？　そうだな、涼しいな」	「Hm? Yeah, it's refreshing.」
 
-123791	Uesugi Kenshin	「貴方がこうやって	「The reason you allowed everyone
-123792	+	　皆で遊ぶことを許可した理由、	　to play like this,
-123793	+	　今更分かった」	　I understand it now.」
+123791	Uesugi Kenshin		「貴方がこうやって	「The reason you allowed everyone
+123792	+		　皆で遊ぶことを許可した理由、	　to play like this,
+123793	+		　今更分かった」	　I understand it now.」
 
-123794	Uesugi Kenshin	「こういう時間が……	「Moments like this...
-123795	+	　皆に必要だったんだな」	　were necessary for everyone.」
+123794	Uesugi Kenshin		「こういう時間が……	「Moments like this...
+123795	+		　皆に必要だったんだな」	　were necessary for everyone.」
 
-123796	Rance	「…………」	「............」
+123796	Rance		「…………」	「............」
 
-123797	Rance	「……いや、なにも考えてないぞ」	「...No, I wasn't thinking anything.」
+123797	Rance		「……いや、なにも考えてないぞ」	「...No, I wasn't thinking anything.」
 
-123798	Uesugi Kenshin	「む……そうなのか……」	「Mu... Is that so...」
+123798	Uesugi Kenshin		「む……そうなのか……」	「Mu... Is that so...」
 
-123799	Uesugi Kenshin	「だが……私は」	「But... I
+123799	Uesugi Kenshin		「だが……私は」	「But... I
 
-123800	Uesugi Kenshin	「この時間を守る為ならば、	　will fight as long as needed
-123801	+	　私はいつまででも戦える……	　to protect moments like this...
-123802	+	　そんな気がした」	　That's how I feel.」
+123800	Uesugi Kenshin		「この時間を守る為ならば、	　will fight as long as needed
+123801	+		　私はいつまででも戦える……	　to protect moments like this...
+123802	+		　そんな気がした」	　That's how I feel.」
 
-123803	-	ざあっと謙信の髪が風に流れていた。	Kenshin's hair flowed beautifully in the wind.
+123803	-		ざあっと謙信の髪が風に流れていた。	Kenshin's hair flowed beautifully in the wind.
 
-123804	Uesugi Kenshin	「こういう時間が好きだ」	「I like times like this.」
+123804	Uesugi Kenshin		「こういう時間が好きだ」	「I like times like this.」
 
-123805	Uesugi Kenshin	「皆が笑っているこういう時間が」	「Times when everyone is smiling.」
+123805	Uesugi Kenshin		「皆が笑っているこういう時間が」	「Times when everyone is smiling.」
 
-123806	Rance~	（おお、美人な横顔……）	（Whoa, what a beautiful side profile...）
+123806	Rance~		（おお、美人な横顔……）	（Whoa, what a beautiful side profile...）
 
-123807	Uesugi Kenshin	「それに、あなたも」	「And you too.」
+123807	Uesugi Kenshin		「それに、あなたも」	「And you too.」
 
-123808	Rance	「へ？」	「He?」
+123808	Rance		「へ？」	「He?」
 
-123809	-	皆を見守っていた筈の謙信が	Kenshin, who should have been watching everyone,
-123810	+	気づけばランスの顔を見つめていた。	was now staring at Rance's face.
+123809	-		皆を見守っていた筈の謙信が	Kenshin, who should have been watching everyone,
+123810	+		気づけばランスの顔を見つめていた。	was now staring at Rance's face.
 
-123811	Uesugi Kenshin	「私はあなたの笑う顔が好きだ」	「I love your smiling face.」
+123811	Uesugi Kenshin		「私はあなたの笑う顔が好きだ」	「I love your smiling face.」
 
-123812	Uesugi Kenshin	「あなたが笑うと……」	「When you smile...
+123812	Uesugi Kenshin		「あなたが笑うと……」	「When you smile...
 
-123813	Uesugi Kenshin	「胸の……この辺りが……」	　My chest... right here...」
+123813	Uesugi Kenshin		「胸の……この辺りが……」	　My chest... right here...」
 
-123814	-	胸に手を当てて、かすかに頬を染める。	She placed her hand on her chest, her cheeks faintly flushed.
+123814	-		胸に手を当てて、かすかに頬を染める。	She placed her hand on her chest, her cheeks faintly flushed.
 
-123815	Uesugi Kenshin	「ポッと灯がともるように、安らぐ」	「It feels like a warm light ignites and calms me.」
+123815	Uesugi Kenshin		「ポッと灯がともるように、安らぐ」	「It feels like a warm light ignites and calms me.」
 
-123816	Uesugi Kenshin	「それだけで……	「Just that...
-123817	+	　心が満たされる」	　fills my heart.」
+123816	Uesugi Kenshin		「それだけで……	「Just that...
+123817	+		　心が満たされる」	　fills my heart.」
 
-123818	Uesugi Kenshin	「泣きたくなるような……	「It makes me want to cry...
-123819	+	　笑いたくなるような……」	　and want to smile...」
+123818	Uesugi Kenshin		「泣きたくなるような……	「It makes me want to cry...
+123819	+		　笑いたくなるような……」	　and want to smile...」
 
-123820	Uesugi Kenshin	「あなたを作ってくれた、	「To the world that created you,
-123821	+	　この世界と、全ての人に……	　and to everyone in it...
-123822	+	　感謝がしたいような……」	　I want to give thanks...」
+123820	Uesugi Kenshin		「あなたを作ってくれた、	「To the world that created you,
+123821	+		　この世界と、全ての人に……	　and to everyone in it...
+123822	+		　感謝がしたいような……」	　I want to give thanks...」
 
-123823	Uesugi Kenshin	「そんな気分になる」	「That's how I feel.」
+123823	Uesugi Kenshin		「そんな気分になる」	「That's how I feel.」
 
-123824	Rance	「お、おお……すごいこと言うな……」	「O-oh... You say some amazing things...」
+123824	Rance		「お、おお……すごいこと言うな……」	「O-oh... You say some amazing things...」
 
-123825	Uesugi Kenshin	「だから、私はあなたが笑っていられる、	「That's why I want a world
-123826	+	　そんな世界にしたい」	　where you can keep smiling.」
+123825	Uesugi Kenshin		「だから、私はあなたが笑っていられる、	「That's why I want a world
+123826	+		　そんな世界にしたい」	　where you can keep smiling.」
 
-123827	Uesugi Kenshin	「おそらく……	「Probably...
-123828	+	　魔軍に支配された世界では……	　In a world ruled by the Monster Army...
-123829	+	　貴方は笑えない」	　You wouldn't be able to smile.」
+123827	Uesugi Kenshin		「おそらく……	「Probably...
+123828	+		　魔軍に支配された世界では……	　In a world ruled by the Monster Army...
+123829	+		　貴方は笑えない」	　You wouldn't be able to smile.」
 
-123830	Uesugi Kenshin	「だから、その為にも戦う」	「So I will fight for that.」
+123830	Uesugi Kenshin		「だから、その為にも戦う」	「So I will fight for that.」
 
-123831	Uesugi Kenshin	「私は頭は良くないが、	「I'm not smart,
-123832	+	　それだけは間違ってないと……そう思う……」	　but I believe this at least is right...」
+123831	Uesugi Kenshin		「私は頭は良くないが、	「I'm not smart,
+123832	+		　それだけは間違ってないと……そう思う……」	　but I believe this at least is right...」
 
-123833	Rance	「そか」	「I see.」
+123833	Rance		「そか」	「I see.」
 
-123834	Uesugi Kenshin	「今日は……	「Today...
-123835	+	　改めて、何故戦場に立つのか……	　I was able to reaffirm
-123836	+	　その気持ちを再確認できた」	　why I stand on the battlefield.」
+123834	Uesugi Kenshin		「今日は……	「Today...
+123835	+		　改めて、何故戦場に立つのか……	　I was able to reaffirm
+123836	+		　その気持ちを再確認できた」	　why I stand on the battlefield.」
 
-123837	Uesugi Kenshin	「ありがとう、ランス殿」	「Thank you, Lord Rance.」
+123837	Uesugi Kenshin		「ありがとう、ランス殿」	「Thank you, Lord Rance.」
 
-123838	Rance	「じゃあ、もっと頑張らないとな」	「Then I have to work harder.」
+123838	Rance		「じゃあ、もっと頑張らないとな」	「Then I have to work harder.」
 
-123839	Uesugi Kenshin	「ああ」	「Yes.」
+123839	Uesugi Kenshin		「ああ」	「Yes.」
 
-123840	Rance	「JAPANで一番の剣士な軍神様だ。	「You're JAPAN's greatest swordsman and God of War.
-123841	+	　頼りにさせてもらうぞ」	　I'll be counting on you.」
+123840	Rance		「JAPANで一番の剣士な軍神様だ。	「You're JAPAN's greatest swordsman and God of War.
+123841	+		　頼りにさせてもらうぞ」	　I'll be counting on you.」
 
-123842	Uesugi Kenshin	「ああ。	「Yes.
-123843	+	　存分に戦わせて欲しいと思う」	　Please let me fight to my heart's content.」
+123842	Uesugi Kenshin		「ああ。	「Yes.
+123843	+		　存分に戦わせて欲しいと思う」	　Please let me fight to my heart's content.」
 
-123844	Rance	「ま、とりあえず今日目指すのは	「Well, for today our goal is
-123845	+	　ドッジ大会を優勝だ」	　winning the dodgeball tournament.」
+123844	Rance		「ま、とりあえず今日目指すのは	「Well, for today our goal is
+123845	+		　ドッジ大会を優勝だ」	　winning the dodgeball tournament.」
 
-123846	Uesugi Kenshin	「うむ、勝とう」	「Yes, let's win.」
+123846	Uesugi Kenshin		「うむ、勝とう」	「Yes, let's win.」
 
-123847	Uesugi Kenshin	「きっと……今の私は無敵だ」	「Surely... right now I am invincible.」
+123847	Uesugi Kenshin	キラキラ	「きっと……今の私は無敵だ」	「Surely... right now I am invincible.」
 
-123848	-	　	　
-123849	+	　　＜くーーーー……＞	　　＜Gruuuu...＞
+123848	-		　	　
+123849	+		　　＜くーーーー……＞	　　＜Gruuuu...＞
 
-123850	Uesugi Kenshin	「む……」	「Mu...」
+123850	Uesugi Kenshin	基本	「む……」	「Mu...」
 
-123851	Rance	「腹が減っては戦はなんとやらだ。	「You can't fight on an empty stomach.
-123852	+	　昼飯の用意があるらしいので沢山食べなさい」	　Lunch is ready so eat plenty.」
+123851	Rance		「腹が減っては戦はなんとやらだ。	「You can't fight on an empty stomach.
+123852	+		　昼飯の用意があるらしいので沢山食べなさい」	　Lunch is ready so eat plenty.」
 
-123853	Uesugi Kenshin	「うむ、沢山食べよう」	「Yes, I'll eat a lot.」
+123853	Uesugi Kenshin		「うむ、沢山食べよう」	「Yes, I'll eat a lot.」
 
-123854	-	…………	............
+123854	-		…………	............
 
-123855	-	……	...
+123855	-		……	...
 
-123856	-	ドッジボール大会は和やかなままに終了し、	The dodgeball tournament ended peacefully,
-123857	+	優勝はランスのいるチームが納めた。	with Rance's team taking the championship.
+123856	-		ドッジボール大会は和やかなままに終了し、	The dodgeball tournament ended peacefully,
+123857	+		優勝はランスのいるチームが納めた。	with Rance's team taking the championship.

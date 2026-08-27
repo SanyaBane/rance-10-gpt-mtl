@@ -3,85 +3,85 @@
 * Tilde Sharp	チルディ	Female
 * Pigu Geliciam	ピグ	Female
 
-124691	Tokugawa Sen	「おや、チルディ」	「Oh, Tilde.」
+124691	Tokugawa Sen	武装／微笑み	「おや、チルディ」	「Oh, Tilde.」
 
-124692	Tilde Sharp	「……千姫さん」	「...Senhime-san.」
+124692	Tilde Sharp	基本	「……千姫さん」	「...Senhime-san.」
 
-124693	Tokugawa Sen	「？　なにか不満げだな。	「? You look dissatisfied.
-124694	+	　何かあったのか？」	　Did something happen?」
+124693	Tokugawa Sen	武装	「？　なにか不満げだな。	「? You look dissatisfied.
+124694	+		　何かあったのか？」	　Did something happen?」
 
-124695	Tilde Sharp	「千姫さんが戦場に戻ってきたからですわ」	「Because Senhime-san returned to the battlefield.」
+124695	Tilde Sharp	基本	「千姫さんが戦場に戻ってきたからですわ」	「Because Senhime-san returned to the battlefield.」
 
-124696	Tokugawa Sen	「？」	「?」
+124696	Tokugawa Sen	武装	「？」	「?」
 
-124697	Tilde Sharp	「千姫さんは戦場をお捨てになったかと思ったから、	「Senhime-san, I thought you'd abandoned the field,
-124698	+	　わたくしのライバルから外していたのに……」	　so I removed you from my rivals...
+124697	Tilde Sharp	基本	「千姫さんは戦場をお捨てになったかと思ったから、	「Senhime-san, I thought you'd abandoned the field,
+124698	+		　わたくしのライバルから外していたのに……」	　so I removed you from my rivals...
 
-124699	Tilde Sharp	「それをまた、こんなあっさりと	　Yet you returned so easily...」
-124700	+	　戻ってきてらっしゃるなんて……」	
+124699	Tilde Sharp		「それをまた、こんなあっさりと	　Yet you returned so easily...」
+124700	+		　戻ってきてらっしゃるなんて……」	
 
-124701	Tokugawa Sen	「そうか……」	「I see...」
+124701	Tokugawa Sen	武装	「そうか……」	「I see...」
 
-124702	Tokugawa Sen	「私が戻ってきたことを	「You're happy I returned,
-124703	+	　喜んでくれるのか、少し照れるな」	　that makes me a bit shy.」
+124702	Tokugawa Sen	武装／微笑み	「私が戻ってきたことを	「You're happy I returned,
+124703	+		　喜んでくれるのか、少し照れるな」	　that makes me a bit shy.」
 
-124704	Tilde Sharp	「いやいやいや、言ってないですわ」	「No no no, I didn't say that.」
+124704	Tilde Sharp	基本	「いやいやいや、言ってないですわ」	「No no no, I didn't say that.」
 
-124705	Tokugawa Sen	「私も一度は戦を捨て、	「I once abandoned war
-124706	+	　母として生きることを決めた身。	　and decided to live as a mother.
-124707	+	　戻って来る気はなかったんだがな」	　I didn't plan to return.」
+124705	Tokugawa Sen	武装／微笑み	「私も一度は戦を捨て、	「I once abandoned war
+124706	+		　母として生きることを決めた身。	　and decided to live as a mother.
+124707	+		　戻って来る気はなかったんだがな」	　I didn't plan to return.」
 
-124708	Tokugawa Sen	「ま、こうなった以上は、	「Well, now that it has come to this,
-124709	+	　共に戦場を駆ける仲間として宜しく頼む」	　let's fight together as comrades on the battlefield.」
+124708	Tokugawa Sen		「ま、こうなった以上は、	「Well, now that it has come to this,
+124709	+		　共に戦場を駆ける仲間として宜しく頼む」	　let's fight together as comrades on the battlefield.」
 
-124710	Tilde Sharp	「えーえー、しっかり働いて頂きますわ」	「Yes yes, please work hard.」
+124710	Tilde Sharp	基本	「えーえー、しっかり働いて頂きますわ」	「Yes yes, please work hard.」
 
-124711	Tilde Sharp	「……ところでそれは何を？」	「...By the way, what is that?」
+124711	Tilde Sharp		「……ところでそれは何を？」	「...By the way, what is that?」
 
-124712	Pigu Geliciam	「んー？」	「N~?」
+124712	Pigu Geliciam	分裂２	「んー？」	「N~?」
 
-124713	-	千姫の膝の上にはピグが座っていた。	Pigu was sitting on Senhime's lap.
+124713	-		千姫の膝の上にはピグが座っていた。	Pigu was sitting on Senhime's lap.
 
-124714	Tokugawa Sen	「いや、最近は小さくてふにふにしたものを	「Lately I've found holding small soft things
-124715	+	　抱えている方が落ち着くようになってしまってな」	　calming.」
+124714	Tokugawa Sen	武装／微笑み	「いや、最近は小さくてふにふにしたものを	「Lately I've found holding small soft things
+124715	+		　抱えている方が落ち着くようになってしまってな」	　calming.」
 
-124716	-	そう言いながら千姫が	While saying that Senhime
-124717	+	ピグの小さな頭を優しく撫でる。	gently stroked Pigu's small head.
+124716	-		そう言いながら千姫が	While saying that Senhime
+124717	+		ピグの小さな頭を優しく撫でる。	gently stroked Pigu's small head.
 
-124718	Pigu Geliciam	「んひひひ……」	「Nhehehe...」
+124718	Pigu Geliciam	分裂２	「んひひひ……」	「Nhehehe...」
 
-124719	Tokugawa Sen	「さ、たまごポーロを食べなさい」	「Here, eat some tamago polo.」
+124719	Tokugawa Sen	武装／微笑み	「さ、たまごポーロを食べなさい」	「Here, eat some tamago polo.」
 
-124720	Pigu Geliciam	「はむはむ、はむはむ……」	「Ham ham, ham ham...」
+124720	Pigu Geliciam	分裂２	「はむはむ、はむはむ……」	「Ham ham, ham ham...」
 
-124721	Tokugawa Sen	「ふむ……こうして見ると、	「Hmm... Looking at you like this,
-124722	+	　チルディも小さくてふにふにしてるな……」	　Tilde is also small and soft...」
+124721	Tokugawa Sen	武装	「ふむ……こうして見ると、	「Hmm... Looking at you like this,
+124722	+		　チルディも小さくてふにふにしてるな……」	　Tilde is also small and soft...」
 
-124723	-	千姫が自分の膝をぽんぽん叩く。	Senhime patted her own lap.
+124723	-		千姫が自分の膝をぽんぽん叩く。	Senhime patted her own lap.
 
-124724	Tokugawa Sen	「座るか？」	「Want to sit?」
+124724	Tokugawa Sen	武装／微笑み	「座るか？」	「Want to sit?」
 
-124725	Tilde Sharp	「結構です！」	「No thank you!」
+124725	Tilde Sharp	ぷー	「結構です！」	「No thank you!」
 
-124726	Tilde Sharp	「はあ、本当に母親になってしまったんですのね」	「Haa, you've really become a mother.」
+124726	Tilde Sharp	基本	「はあ、本当に母親になってしまったんですのね」	「Haa, you've really become a mother.」
 
-124727	Tokugawa Sen	「まあ、そういうことだな」	「Well, that's how it is.」
+124727	Tokugawa Sen	武装／微笑み	「まあ、そういうことだな」	「Well, that's how it is.」
 
-124728	?	「敵襲だーーーッ！」	「Enemy attack!」
+124728	?		「敵襲だーーーッ！」	「Enemy attack!」
 
-124729	Tokugawa Sen	「おっと、戦闘か……」	「Oh, battle...」
+124729	Tokugawa Sen	武装	「おっと、戦闘か……」	「Oh, battle...」
 
-124730	Tokugawa Sen	「一人の母として過ごす落ち着いた日々にも	「I was just getting used to calm days as a mother,
-124731	+	　慣れてきたところだというのにな」	　yet here we are.」
+124730	Tokugawa Sen		「一人の母として過ごす落ち着いた日々にも	「I was just getting used to calm days as a mother,
+124731	+		　慣れてきたところだというのにな」	　yet here we are.」
 
-124732	Tokugawa Sen	「まったく……」	「Good grief...」
+124732	Tokugawa Sen		「まったく……」	「Good grief...」
 
-124733	Tokugawa Sen	「…………」	「............」
+124733	Tokugawa Sen		「…………」	「............」
 
-124734	Tokugawa Sen	「……困ったものだ、フフ」	「...What a problem, fufu.」
+124734	Tokugawa Sen	武装／狂気	「……困ったものだ、フフ」	「...What a problem, fufu.」
 
-124735	Tilde Sharp	「顔に嬉しくて仕方ないって書いてありますわよ」	「It's written all over your face how happy you are.」
+124735	Tilde Sharp	基本	「顔に嬉しくて仕方ないって書いてありますわよ」	「It's written all over your face how happy you are.」
 
-124736	Pigu Geliciam	「千姫、たのしそうね」	「Senhime, you look like you're having fun.」
+124736	Pigu Geliciam	分裂２	「千姫、たのしそうね」	「Senhime, you look like you're having fun.」
 
-124737	Tokugawa Sen	「おっと……」	「Oops...」
+124737	Tokugawa Sen	武装／微笑み	「おっと……」	「Oops...」

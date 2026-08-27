@@ -4,56 +4,56 @@
 * Pigu Geliciam	ピグ	Female
 * Hornet	ホーネット	Female
 
-141488	Rance	「うむむ、異様にプライドが高い女だ。	「Mmm, she's unusually proud.
-141489	+	　こんな奴を説得するのは骨が折れるぞ……」	　Convincing someone like her will be tough...」
+141488	Rance	だる顔	「うむむ、異様にプライドが高い女だ。	「Mmm, she's unusually proud.
+141489	+		　こんな奴を説得するのは骨が折れるぞ……」	　Convincing someone like her will be tough...」
 
-141490	Satella	「しかし、このままじゃ、	「But if we stay like this,
-141491	+	　一人でケイブリスと戦いかねない……	　she might fight Kayblis alone...
-141492	+	　ま、まずいぞ……」	　This is bad...」
+141490	Satella	不安	「しかし、このままじゃ、	「But if we stay like this,
+141491	+		　一人でケイブリスと戦いかねない……	　she might fight Kayblis alone...
+141492	+		　ま、まずいぞ……」	　This is bad...」
 
-141493	Pigu Geliciam	「どうするの、サテラ」	「What now, Satella?」
+141493	Pigu Geliciam	分裂１	「どうするの、サテラ」	「What now, Satella?」
 
-141494	Pigu Geliciam	「どーするのー」	「What to dooo?」
+141494	Pigu Geliciam	分裂２全裸	「どーするのー」	「What to dooo?」
 
-141495	Pigu Geliciam	「ねーねー、ホーネット帰っちゃうのー？」	「Hey hey, is Hornet going home?」
+141495	Pigu Geliciam	ピグコプター	「ねーねー、ホーネット帰っちゃうのー？」	「Hey hey, is Hornet going home?」
 
-141496	Satella	「だー、うるさい、むらがるな！	「Quiet, stop swarming me!
-141497	+	　サテラだって今考えてるんだ！	　I'm thinking right now!
-141498	+	　むむむむむむむ……！」	　Mmmmmm...!」
+141496	Satella	基本	「だー、うるさい、むらがるな！	「Quiet, stop swarming me!
+141497	+		　サテラだって今考えてるんだ！	　I'm thinking right now!
+141498	+		　むむむむむむむ……！」	　Mmmmmm...!」
 
-141499	Pigu Geliciam	「美樹ちゃんの話はした？」	「Did you mention Miki-chan?」
+141499	Pigu Geliciam	分裂１／笑顔	「美樹ちゃんの話はした？」	「Did you mention Miki-chan?」
 
-141500	Satella	「へ？」	「Eh?」
+141500	Satella	基本	「へ？」	「Eh?」
 
-141501	Rance	「あ、そうだ。美樹ちゃん」	「Ah, that's right. Miki-chan.」
+141501	Rance	真剣	「あ、そうだ。美樹ちゃん」	「Ah, that's right. Miki-chan.」
 
-141502	Rance	「おいおい、そうだ。	「Hey hey, that's right.
-141503	+	　俺様のもとには魔王の美樹ちゃんがいるぞ」	　I have the Demon King Miki-chan with me.」
+141502	Rance	基本	「おいおい、そうだ。	「Hey hey, that's right.
+141503	+		　俺様のもとには魔王の美樹ちゃんがいるぞ」	　I have the Demon King Miki-chan with me.」
 
-141504	Hornet	「リトルプリンセスが……」	「The Little Princess...」
+141504	Hornet		「リトルプリンセスが……」	「The Little Princess...」
 
-141505	-	ホーネットがチラリとサテラに目を向ける。	Hornet glanced at Satella.
+141505	-		ホーネットがチラリとサテラに目を向ける。	Hornet glanced at Satella.
 
-141506	Satella	「あ、はい、そうです。	「Ah, yes, that's right.
-141507	+	　美樹様は確かに今ランス城にいます」	　Miki-sama is indeed at Rance Castle now.」
+141506	Satella	超テレ	「あ、はい、そうです。	「Ah, yes, that's right.
+141507	+		　美樹様は確かに今ランス城にいます」	　Miki-sama is indeed at Rance Castle now.」
 
-141508	Rance	「その美樹ちゃんがお前に会いたがってたぞ」	「That Miki-chan wants to see you.」
+141508	Rance	基本	「その美樹ちゃんがお前に会いたがってたぞ」	「That Miki-chan wants to see you.」
 
-141509	Hornet	「…………」	「............」
+141509	Hornet		「…………」	「............」
 
-141510	Rance	「ほらほらどうする、魔王ちゃんの命令だぞ。	「Well well, it's the Demon King's order.
-141511	+	　まさか無視したりしないよなー？」	　You wouldn't ignore it, right?」
+141510	Rance	笑顔	「ほらほらどうする、魔王ちゃんの命令だぞ。	「Well well, it's the Demon King's order.
+141511	+		　まさか無視したりしないよなー？」	　You wouldn't ignore it, right?」
 
-141512	Hornet	「…………」	「............」
+141512	Hornet	目閉じ	「…………」	「............」
 
-141513	-	ホーネットの逡巡も一瞬、	Hornet's hesitation lasted only a moment,
-141514	+	すぐに顔を上げた。	then she raised her head.
+141513	-		ホーネットの逡巡も一瞬、	Hornet's hesitation lasted only a moment,
+141514	+		すぐに顔を上げた。	then she raised her head.
 
-141515	Hornet	「……分かりました。	「...Understood.
-141516	+	　貴方の城に伺わせて頂きます」	　I shall visit your castle.」
+141515	Hornet	基本	「……分かりました。	「...Understood.
+141516	+		　貴方の城に伺わせて頂きます」	　I shall visit your castle.」
 
-141517	Satella	「ほーーーっ……	「Whew...
-141518	+	　よ、良かった……」	　Thank goodness...」
+141517	Satella	不安	「ほーーーっ……	「Whew...
+141518	+		　よ、良かった……」	　Thank goodness...」
 
-141519	Rance	「う、うむ……	「Y-yeah...
-141520	+	　ギリギリセーフだった……」	　That was close...」
+141519	Rance	だる顔	「う、うむ……	「Y-yeah...
+141520	+		　ギリギリセーフだった……」	　That was close...」

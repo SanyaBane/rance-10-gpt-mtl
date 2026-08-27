@@ -2,79 +2,79 @@
 * Kentou Kanami	かなみ	Female
 * Atlanta	アトランタ	Female
 
-117640	Kentou Kanami	「ふーん、ふふふーん♪」	「Hmm, fufufu♪」
+117640	Kentou Kanami	微笑み	「ふーん、ふふふーん♪」	「Hmm, fufufu♪」
 
-117641	-	食堂でかなみが鯖味噌定食を食べていた。	Kanami was eating mackerel miso set meal in the cafeteria.
+117641	-		食堂でかなみが鯖味噌定食を食べていた。	Kanami was eating mackerel miso set meal in the cafeteria.
 
-117642	Atlanta	「隣、いいかしら？」	「Is this seat free?」
+117642	Atlanta	基本	「隣、いいかしら？」	「Is this seat free?」
 
-117643	Kentou Kanami	「あ、はい、どうぞー」	「Ah, yes, go ahead.」
+117643	Kentou Kanami	微笑み	「あ、はい、どうぞー」	「Ah, yes, go ahead.」
 
-117644	Atlanta	「はい、どうもー」	「Thanks.」
+117644	Atlanta	基本	「はい、どうもー」	「Thanks.」
 
-117645	Kentou Kanami	「って、きゃあああ！？	「Wait, kyaaaa!?」
-117646	+	　あ、アトランタ！？」	　A-Atlanta!?」
+117645	Kentou Kanami	混乱	「って、きゃあああ！？	「Wait, kyaaaa!?」
+117646	+		　あ、アトランタ！？」	　A-Atlanta!?」
 
-117647	Atlanta	「もう、なんて声出してるのよ」	「Geez, what a loud voice.」
+117647	Atlanta	基本	「もう、なんて声出してるのよ」	「Geez, what a loud voice.」
 
-117648	Kentou Kanami	「し、使徒が隣に座ったらびっくりもするわよ」	「O-of course I'd be surprised if an Apostle sits next to me.」
+117648	Kentou Kanami	混乱	「し、使徒が隣に座ったらびっくりもするわよ」	「O-of course I'd be surprised if an Apostle sits next to me.」
 
-117649	Atlanta	「あ、使徒差別的発言ー」	「Ah, Apostle discrimination.」
+117649	Atlanta	怒り	「あ、使徒差別的発言ー」	「Ah, Apostle discrimination.」
 
-117650	Kentou Kanami	「使徒だってことは抜きにしても、	「Even without the Apostle thing,
-117651	+	　忘れたとは言わせないわよ……	　I won't let you say you forgot...
-117652	+	　あなたが昔、私に何をしたか……」	　what you did to me in the past...」
+117650	Kentou Kanami	うがー	「使徒だってことは抜きにしても、	「Even without the Apostle thing,
+117651	+		　忘れたとは言わせないわよ……	　I won't let you say you forgot...
+117652	+		　あなたが昔、私に何をしたか……」	　what you did to me in the past...」
 
-117653	Atlanta	「…………」	「............」
+117653	Atlanta	基本	「…………」	「............」
 
-117654	Atlanta	「……えっと」	「...Um.」
+117654	Atlanta		「……えっと」	「...Um.」
 
-117655	Atlanta	「あっ、あーあーあー！	「Ah, aah aah aah!
-117656	+	　あれ、ね？　はいはい、あれでしょ？	　That thing, right? Yes yes, that right?
-117657	+	　覚えてる、覚えてる、うん、ね？」	　I remember, I remember, yeah.」
+117655	Atlanta	えーっと	「あっ、あーあーあー！	「Ah, aah aah aah!
+117656	+		　あれ、ね？　はいはい、あれでしょ？	　That thing, right? Yes yes, that right?
+117657	+		　覚えてる、覚えてる、うん、ね？」	　I remember, I remember, yeah.」
 
-117658	Kentou Kanami	「うわーん！　この人忘れてるし！」	「Waaah! She forgot!」
+117658	Kentou Kanami	混乱	「うわーん！　この人忘れてるし！」	「Waaah! She forgot!」
 
-117659	Atlanta	「冗談よ」	「Just kidding.」
+117659	Atlanta	基本	「冗談よ」	「Just kidding.」
 
-117660	Atlanta	「貴方を鏡の中に閉じ込めてやったことでしょう？	「I locked you in a mirror, right?
-117661	+	　そんなこともあったわねー」	　That happened.」
+117660	Atlanta		「貴方を鏡の中に閉じ込めてやったことでしょう？	「I locked you in a mirror, right?
+117661	+		　そんなこともあったわねー」	　That happened.」
 
-117662	Kentou Kanami	「私、正直あなたのこと、	「Honestly, I don't trust you
-117663	+	　ちっとも信用してませんから」	　at all.」
+117662	Kentou Kanami		「私、正直あなたのこと、	「Honestly, I don't trust you
+117663	+		　ちっとも信用してませんから」	　at all.」
 
-117664	Atlanta	「もちろん、それでいいわよー」	「Of course, that's fine.」
+117664	Atlanta		「もちろん、それでいいわよー」	「Of course, that's fine.」
 
-117665	Atlanta	「今はただ、主を人質にされてるから、	「Right now I'm just held hostage by my master,
-117666	+	　せいぜいランスの為に働いて、	　so I'll work for Rance for now,
-117667	+	　魔血魂を返してもらう。それだけ」	　and get my blood soul back. That's all.」
+117665	Atlanta		「今はただ、主を人質にされてるから、	「Right now I'm just held hostage by my master,
+117666	+		　せいぜいランスの為に働いて、	　so I'll work for Rance for now,
+117667	+		　魔血魂を返してもらう。それだけ」	　and get my blood soul back. That's all.」
 
-117668	Atlanta	「仲良しこよしは私も趣味じゃないしね」	「I'm not into being best friends either.」
+117668	Atlanta		「仲良しこよしは私も趣味じゃないしね」	「I'm not into being best friends either.」
 
-117669	Kentou Kanami	「さ、サッパリしてるのね……	「So straightforward...
-117670	+	　使徒ってみんなそんな感じなの？」	　Are all Apostles like that?」
+117669	Kentou Kanami		「さ、サッパリしてるのね……	「So straightforward...
+117670	+		　使徒ってみんなそんな感じなの？」	　Are all Apostles like that?」
 
-117671	Atlanta	「さあ？　人それぞれよ」	「Who knows? It varies.」
+117671	Atlanta		「さあ？　人それぞれよ」	「Who knows? It varies.」
 
-117672	Atlanta	「少なくとも、私はあんまり、	「At least I don't care much
-117673	+	　過去の怨恨だとか仇討ちとか……	　about old grudges or revenge...
-117674	+	　そういう面倒臭そうな話、興味ないかな」	　that kind of annoying stuff.」
+117672	Atlanta		「少なくとも、私はあんまり、	「At least I don't care much
+117673	+		　過去の怨恨だとか仇討ちとか……	　about old grudges or revenge...
+117674	+		　そういう面倒臭そうな話、興味ないかな」	　that kind of annoying stuff.」
 
-117675	Atlanta	「ま、過度にいがみ合う必要もないでしょ。	「No need to fight too much.
-117676	+	　戦争が終わるまでの間だけなんだから、	　It's only until the war ends,
-117677	+	　適当にやっといてよ」	　so just get along casually.」
+117675	Atlanta		「ま、過度にいがみ合う必要もないでしょ。	「No need to fight too much.
+117676	+		　戦争が終わるまでの間だけなんだから、	　It's only until the war ends,
+117677	+		　適当にやっといてよ」	　so just get along casually.」
 
-117678	Atlanta	「昨日の敵は今日の友、みたいな？	「Yesterday's enemy is today's friend, right?
-117679	+	　よろしくね」	　Nice to meet you.」
+117678	Atlanta		「昨日の敵は今日の友、みたいな？	「Yesterday's enemy is today's friend, right?
+117679	+		　よろしくね」	　Nice to meet you.」
 
-117680	Kentou Kanami	「え、ええ……」	「Y-yeah...」
+117680	Kentou Kanami		「え、ええ……」	「Y-yeah...」
 
-117681	Kentou Kanami	「ただ、あの……その……」	「Just, um... that...」
+117681	Kentou Kanami	ジト目	「ただ、あの……その……」	「Just, um... that...」
 
-117682	Atlanta	「なぁに？　まだ何か文句が？」	「What? Still complaining?」
+117682	Atlanta	基本	「なぁに？　まだ何か文句が？」	「What? Still complaining?」
 
-117683	Kentou Kanami	「とりあえず裸はやめません？」	「For now, can you stop being naked?」
+117683	Kentou Kanami	ジト目	「とりあえず裸はやめません？」	「For now, can you stop being naked?」
 
-117684	Atlanta	「やだ」	「No.」
+117684	Atlanta	基本	「やだ」	「No.」
 
-117685	Kentou Kanami	「うう……見てるこっちが恥ずかしい……」	「Uuu... it's embarrassing just looking...」
+117685	Kentou Kanami		「うう……見てるこっちが恥ずかしい……」	「Uuu... it's embarrassing just looking...」

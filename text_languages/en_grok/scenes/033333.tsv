@@ -11,135 +11,135 @@
 * Tokugawa Tone	深根２	Female
 * Reset Kalar	リセット２	Female
 
-228050	Nagata-kun	「ま、それしかないよなぁ」	「Well, that's our only choice.」
+228050	Nagata-kun	基本	「ま、それしかないよなぁ」	「Well, that's our only choice.」
 
-228051	Nagata-kun	「とりあえずリーダーのお前は行くとして、	「You'll go as the leader for now,
-228052	+	　相棒の俺も当然ついて……	　and as your partner I'll naturally come too...
-228053	+	　えーと、後は中に入るのは……」	　Um, and the ones going inside are...」
+228051	Nagata-kun		「とりあえずリーダーのお前は行くとして、	「You'll go as the leader for now,
+228052	+		　相棒の俺も当然ついて……	　and as your partner I'll naturally come too...
+228053	+		　えーと、後は中に入るのは……」	　Um, and the ones going inside are...」
 
-228054	Sushinu the Gandhi	「あ、あ……！」	「A-Ah...!」
+228054	Sushinu the Gandhi		「あ、あ……！」	「A-Ah...!」
 
-228055	Sushinu the Gandhi	「わ、私も行く！」	「I-I'll go too!」
+228055	Sushinu the Gandhi	パニック	「わ、私も行く！」	「I-I'll go too!」
 
-228056	Nagata-kun	「え……」	「Eh...」
+228056	Nagata-kun	基本	「え……」	「Eh...」
 
-228057	Sushinu the Gandhi	「こ、ここの魔法をどうにか出来ないのは	「I-It's my responsibility that we can't do anything about this magic,
-228058	+	　わ、私の責任だから……」	　so...」
+228057	Sushinu the Gandhi	パニック	「こ、ここの魔法をどうにか出来ないのは	「I-It's my responsibility that we can't do anything about this magic,
+228058	+		　わ、私の責任だから……」	　so...」
 
-228059	Sushinu the Gandhi	「私がなんとかしてくる！」	「I'll do something about it myself!」
+228059	Sushinu the Gandhi		「私がなんとかしてくる！」	「I'll do something about it myself!」
 
-228060	Mix Tou	「……あ？」	「...Huh?」
+228060	Mix Tou	基本	「……あ？」	「...Huh?」
 
-228061	Nagata-kun	「…………え？」	「............Eh?」
+228061	Nagata-kun		「…………え？」	「............Eh?」
 
-228062	Masou Shizuka	「……それは」	「...That means」
+228062	Masou Shizuka		「……それは」	「...That means」
 
-228063	Nagi su Ragarl	「＜エール＞と一緒に	「Going in naked with ＜エール＞
-228064	+	　裸で中に入るってことだけど、大丈夫？」	　is what you mean, right? You sure?」
+228063	Nagi su Ragarl		「＜エール＞と一緒に	「Going in naked with ＜エール＞
+228064	+		　裸で中に入るってことだけど、大丈夫？」	　is what you mean, right? You sure?」
 
-228065	Sushinu the Gandhi	「う、うん！」	「Y-Yeah!」
+228065	Sushinu the Gandhi	パニック	「う、うん！」	「Y-Yeah!」
 
-228066	Sushinu the Gandhi	「…………」	「............」
+228066	Sushinu the Gandhi		「…………」	「............」
 
-228067	Sushinu the Gandhi	「……うん！？」	「...Yeah!?」
+228067	Sushinu the Gandhi	唖然	「……うん！？」	「...Yeah!?」
 
-228068	Zance Leazas	「気に入った！	「I like it!
-228069	+	　言うじゃねーか、スシヌ！」	　Way to go, Sushinu!」
+228068	Zance Leazas	笑い	「気に入った！	「I like it!
+228069	+		　言うじゃねーか、スシヌ！」	　Way to go, Sushinu!」
 
-228070	Sushinu the Gandhi	「きゃひい！？」	「Kyaaah!?」
+228070	Sushinu the Gandhi	基本	「きゃひい！？」	「Kyaaah!?」
 
-228071	-	ばちーん。	Smack.
-228072	+	ザンスが乱暴にスシヌの背を叩いた。	Zance roughly slapped Sushinu on the back.
+228071	-		ばちーん。	Smack.
+228072	+		ザンスが乱暴にスシヌの背を叩いた。	Zance roughly slapped Sushinu on the back.
 
-228073	Zance Leazas	「大体、俺ぁさっきからイラついてたんだ。	「I've been pissed off for a while now.
-228074	+	　敵がいんなら裸だろーがどうだろーが	　If there's an enemy, who cares if we're naked or not!
-228075	+	　どうだっていいだろーがってな！」	　It doesn't matter at all!」
+228073	Zance Leazas		「大体、俺ぁさっきからイラついてたんだ。	「I've been pissed off for a while now.
+228074	+		　敵がいんなら裸だろーがどうだろーが	　If there's an enemy, who cares if we're naked or not!
+228075	+		　どうだっていいだろーがってな！」	　It doesn't matter at all!」
 
-228076	Zance Leazas	「がはははははは！	「Gahahahaha!
-228077	+	　スシヌも中々覚悟が決まってきたな！」	　Sushinu's really getting determined!」
+228076	Zance Leazas	笑い	「がはははははは！	「Gahahahaha!
+228077	+		　スシヌも中々覚悟が決まってきたな！」	　Sushinu's really getting determined!」
 
-228078	Sushinu the Gandhi	「ええっ！？　あう！？　うううう！？」	「Eeeh!? Auh!? Uuuuuu!?」
+228078	Sushinu the Gandhi	唖然汗	「ええっ！？　あう！？　うううう！？」	「Eeeh!? Auh!? Uuuuuu!?」
 
-228079	Yamamoto Rangi	「スシヌ……無理しなくても……」	「Sushinu... You don't have to force yourself...」
+228079	Yamamoto Rangi	基本	「スシヌ……無理しなくても……」	「Sushinu... You don't have to force yourself...」
 
-228080	Sushinu the Gandhi	「いいいい、行く！」	「I-I'm going!」
+228080	Sushinu the Gandhi	唖然汗	「いいいい、行く！」	「I-I'm going!」
 
-228081	Sushinu the Gandhi	「行くったら行く！」	「I'm going, I said I'm going!」
+228081	Sushinu the Gandhi	パニック	「行くったら行く！」	「I'm going, I said I'm going!」
 
-228082	Yamamoto Rangi~	（ああ……パニックを起こしてる……）	（Ah... She's panicking...）
+228082	Yamamoto Rangi~	基本	（ああ……パニックを起こしてる……）	（Ah... She's panicking...）
 
-228083	Zance Leazas	「がははは、よーし、俺様も行ってやる！」	「Gahahaha, alright, I'll go too!」
+228083	Zance Leazas	笑い	「がははは、よーし、俺様も行ってやる！」	「Gahahaha, alright, I'll go too!」
 
-228084	Sushinu the Gandhi	「え……ザンスちゃんはいい……」	「Eh... Zance-chan doesn't have to...」
+228084	Sushinu the Gandhi	基本	「え……ザンスちゃんはいい……」	「Eh... Zance-chan doesn't have to...」
 
-228085	Zance Leazas	「どーゆー意味だテメェ！」	「What the hell do you mean by that!」
+228085	Zance Leazas	怒り	「どーゆー意味だテメェ！」	「What the hell do you mean by that!」
 
-228086	Sushinu the Gandhi	「いたたた！？」	「Ouch!?」
+228086	Sushinu the Gandhi	泣き	「いたたた！？」	「Ouch!?」
 
-228087	Nagi su Ragarl	「うーん……	「Hmm...
-228088	+	　どう思う、お姉様」	　What do you think, big sis?」
+228087	Nagi su Ragarl	基本	「うーん……	「Hmm...
+228088	+		　どう思う、お姉様」	　What do you think, big sis?」
 
-228089	Masou Shizuka	「まあ、いいんじゃない？	「Well, why not?
-228090	+	　変なことにはならないだろうし」	　I don't think anything weird will happen.」
+228089	Masou Shizuka		「まあ、いいんじゃない？	「Well, why not?
+228090	+		　変なことにはならないだろうし」	　I don't think anything weird will happen.」
 
-228091	Nagi su Ragarl	「すげぇ信頼度」	「Such high trust.」
+228091	Nagi su Ragarl	反省	「すげぇ信頼度」	「Such high trust.」
 
-228092	Masou Shizuka	「ただし、乱義も一緒なら。	「As long as Rangi is with them.
-228093	+	　ないと思うけど、何かあったら止めてあげて」	　I doubt it, but stop them if anything happens.」
+228092	Masou Shizuka	基本	「ただし、乱義も一緒なら。	「As long as Rangi is with them.
+228093	+		　ないと思うけど、何かあったら止めてあげて」	　I doubt it, but stop them if anything happens.」
 
-228094	Yamamoto Rangi	「……はあ」	「...Haa」
+228094	Yamamoto Rangi	ため息	「……はあ」	「...Haa」
 
-228095	-	こうして、中に入るメンバーが決定した。	And so, the members going inside were decided.
+228095	-		こうして、中に入るメンバーが決定した。	And so, the members going inside were decided.
 
-228096	Yamamoto Rangi	「リーダーの＜エール＞を中心に、	「Centered around leader ＜エール＞,
-228097	+	　同性の人間と……スシヌだけ、か……」	　only same-gender humans... and just Sushinu, huh...」
+228096	Yamamoto Rangi	基本	「リーダーの＜エール＞を中心に、	「Centered around leader ＜エール＞,
+228097	+		　同性の人間と……スシヌだけ、か……」	　only same-gender humans... and just Sushinu, huh...」
 
-228098	Rocky Bank	「だ、大丈夫だすかな……」	「I-Is this really okay...」
+228098	Rocky Bank		「だ、大丈夫だすかな……」	「I-Is this really okay...」
 
-228099	Zance Leazas	「テメェらスシヌの裸見たら殺すぞ。	「If any of you look at Sushinu's naked body I'll kill you.
-228100	+	　俺様は未来の旦那だからいいとして……	　I'm her future husband so it's fine for me...
-228101	+	　兄弟連中もまあ許してやろう」	　I'll let her brothers off the hook too.」
+228099	Zance Leazas		「テメェらスシヌの裸見たら殺すぞ。	「If any of you look at Sushinu's naked body I'll kill you.
+228100	+		　俺様は未来の旦那だからいいとして……	　I'm her future husband so it's fine for me...
+228101	+		　兄弟連中もまあ許してやろう」	　I'll let her brothers off the hook too.」
 
-228102	Sushinu the Gandhi	「ザンスちゃんも見ちゃ駄目ー！？」	「Zance-chan can't look either!?」
+228102	Sushinu the Gandhi		「ザンスちゃんも見ちゃ駄目ー！？」	「Zance-chan can't look either!?」
 
-228103	Yamamoto Rangi	「間には僕が入るから安心しなさい。	「I'll stand between you so don't worry.
-228104	+	　まあ、ザンスならおかしいことはしないだろうが」	　Well, Zance probably won't do anything weird.」
+228103	Yamamoto Rangi		「間には僕が入るから安心しなさい。	「I'll stand between you so don't worry.
+228104	+		　まあ、ザンスならおかしいことはしないだろうが」	　Well, Zance probably won't do anything weird.」
 
-228105	Nagi su Ragarl	「すげぇ信頼度」	「Such high trust.」
+228105	Nagi su Ragarl		「すげぇ信頼度」	「Such high trust.」
 
-228106	Mix Tou	「んじゃ、あたしも行くわ」	「Then I'll go too.」
+228106	Mix Tou		「んじゃ、あたしも行くわ」	「Then I'll go too.」
 
-228107	Sushinu the Gandhi	「み、ミックスちゃん」	「M-Mix-chan」
+228107	Sushinu the Gandhi		「み、ミックスちゃん」	「M-Mix-chan」
 
-228108	Mix Tou	「んな泣きそうな顔されても不愉快だしね。	「Seeing that crying face is unpleasant.
-228109	+	　ま、外で待ってても退屈だし――」	　Besides, waiting outside would be boring――」
+228108	Mix Tou		「んな泣きそうな顔されても不愉快だしね。	「Seeing that crying face is unpleasant.
+228109	+		　ま、外で待ってても退屈だし――」	　Besides, waiting outside would be boring――」
 
-228110	Mix Tou	「って、こら待て。	「Hey, wait a second.
-228111	+	　なに当然のようにちゃん付けしてんのよ」	　Why are you casually calling me 'chan'?」
+228110	Mix Tou		「って、こら待て。	「Hey, wait a second.
+228111	+		　なに当然のようにちゃん付けしてんのよ」	　Why are you casually calling me 'chan'?」
 
-228112	Kentou Uzume	「ほしたら、ウズメも行くでござるかね。	「Then Uzume will go too.
-228113	+	　主君達が心配でござるし」	　I'm worried about my lords.」
+228112	Kentou Uzume		「ほしたら、ウズメも行くでござるかね。	「Then Uzume will go too.
+228113	+		　主君達が心配でござるし」	　I'm worried about my lords.」
 
-228114	Yamamoto Rangi	「深根も裸を見られても気にしないだろう。	「Fune probably wouldn't mind being seen naked.
-228115	+	　どうだ？」	　What do you think?」
+228114	Yamamoto Rangi		「深根も裸を見られても気にしないだろう。	「Fune probably wouldn't mind being seen naked.
+228115	+		　どうだ？」	　What do you think?」
 
-228116	Tokugawa Tone	「…………」	「............」
+228116	Tokugawa Tone		「…………」	「............」
 
-228117	Tokugawa Tone	「兄様のえっち、すけっち、わんたっち」	「Big brother's pervy, sketchy, want-touch.」
+228117	Tokugawa Tone		「兄様のえっち、すけっち、わんたっち」	「Big brother's pervy, sketchy, want-touch.」
 
-228118	Yamamoto Rangi	「お前ね……」	「You...」
+228118	Yamamoto Rangi		「お前ね……」	「You...」
 
-228119	Tokugawa Tone	「だるい、行かない」	「Too bothersome, not going.」
+228119	Tokugawa Tone		「だるい、行かない」	「Too bothersome, not going.」
 
-228120	Yamamoto Rangi	「はあ……」	「Haa...」
+228120	Yamamoto Rangi		「はあ……」	「Haa...」
 
-228121	Zance Leazas	「うし、メンバー決定だな」	「Alright, team decided.」
+228121	Zance Leazas		「うし、メンバー決定だな」	「Alright, team decided.」
 
-228122	Nagi su Ragarl	「頑張ってね〜」	「Good luck~」
+228122	Nagi su Ragarl		「頑張ってね〜」	「Good luck~」
 
-228123	Masou Shizuka	「行ってらっしゃい」	「Take care.」
+228123	Masou Shizuka		「行ってらっしゃい」	「Take care.」
 
-228124	Reset Kalar	「うう、ごめんね、一緒に行けなくて……」	「Uuu, sorry I can't go with you...」
+228124	Reset Kalar	困り	「うう、ごめんね、一緒に行けなくて……」	「Uuu, sorry I can't go with you...」
 
-228125	Zance Leazas	「うしっ！　裸迷宮！	「Alright! Naked labyrinth!
-228126	+	　攻略開始だ！」	　Time to conquer it!」
+228125	Zance Leazas	基本	「うしっ！　裸迷宮！	「Alright! Naked labyrinth!
+228126	+		　攻略開始だ！」	　Time to conquer it!」

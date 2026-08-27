@@ -7,236 +7,236 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Crook Mofus	クルックー	Female
 
-22008	Rance	「えっほ、えっほ……ん？」	「Heave-ho, heave-ho... hm?」
+22008	Rance	基本	「えっほ、えっほ……ん？」	「Heave-ho, heave-ho... hm?」
 
-22009	-	先を急ぐランスの前に、一人の戦士が現れた。	Before Rance as he hurried along, a lone warrior appeared.
+22009	-		先を急ぐランスの前に、一人の戦士が現れた。	Before Rance as he hurried along, a lone warrior appeared.
 
-22010	Arios Theoman	「…………ランス」	「...Rance.」
+22010	Arios Theoman		「…………ランス」	「...Rance.」
 
-22011	Rance	「ぬ。ぬぬぬぬ。こいつ……見たことがあるぞ」	「Nu. Nununununu. This guy... I've seen him before.」
+22011	Rance	だる顔	「ぬ。ぬぬぬぬ。こいつ……見たことがあるぞ」	「Nu. Nununununu. This guy... I've seen him before.」
 
-22012	Miracle Tor	「ほう……アリオス・テオマン。	「Ho... Arios Theoman.
-22013	+	　元勇者ではないか」	The former Hero, is it not?」
+22012	Miracle Tor	基本	「ほう……アリオス・テオマン。	「Ho... Arios Theoman.
+22013	+		　元勇者ではないか」	The former Hero, is it not?」
 
-22014	Rance	「あぁ……そういえば、そんな名前だったか」	「Ah... now that you mention it, that was his name.」
+22014	Rance	真剣	「あぁ……そういえば、そんな名前だったか」	「Ah... now that you mention it, that was his name.」
 
-22015	Miracle Tor	「知り合いか、カオスマスター。	「Is he an acquaintance, Chaos Master?
-22016	+	　いつぞやも妙な反応だったが」	You had a strange reaction to him once before too.」
+22015	Miracle Tor	基本	「知り合いか、カオスマスター。	「Is he an acquaintance, Chaos Master?
+22016	+		　いつぞやも妙な反応だったが」	You had a strange reaction to him once before too.」
 
-22017	Rance	「気に食わん男という事だけは覚えてる。	「I only remember that he's a guy I don't like.
-22018	+	　お前こそ、前みたくいちいち勧誘に走るなよ」	As for you, don't go running off to recruit him like last time.」
+22017	Rance	イライラ	「気に食わん男という事だけは覚えてる。	「I only remember that he's a guy I don't like.
+22018	+		　お前こそ、前みたくいちいち勧誘に走るなよ」	As for you, don't go running off to recruit him like last time.」
 
-22019	Miracle Tor	「さて。風聞通りなら是非欲しいと思っていたが……	「Well. If the rumors are true, I would certainly want him, but...
-22020	+	　何を囀るか、それ次第だな」	That depends on what he has to say.」
+22019	Miracle Tor	目閉じ	「さて。風聞通りなら是非欲しいと思っていたが……	「Well. If the rumors are true, I would certainly want him, but...
+22020	+		　何を囀るか、それ次第だな」	That depends on what he has to say.」
 
-22021	Arios Theoman	「……魔人を倒しているのか」	「...Are you defeating the Fiends?」
+22021	Arios Theoman	基本	「……魔人を倒しているのか」	「...Are you defeating the Fiends?」
 
-22022	Rance	「それがどうした。	「What of it?
-22023	+	　言っとくが、今更お前みたいなのは要らんぞ。	I'm telling you now, I don't need someone like you anymore.
-22024	+	　どーしてもというなら、土下座でもして……」	If you insist, you can get on your knees and...」
+22022	Rance		「それがどうした。	「What of it?
+22023	+		　言っとくが、今更お前みたいなのは要らんぞ。	I'm telling you now, I don't need someone like you anymore.
+22024	+		　どーしてもというなら、土下座でもして……」	If you insist, you can get on your knees and...」
 
-22025	Arios Theoman	「手を引いて欲しい」	「I want you to back off.」
+22025	Arios Theoman		「手を引いて欲しい」	「I want you to back off.」
 
-22026	Rance	「………………あん？」	「...Hah?」
+22026	Rance	真剣	「………………あん？」	「...Hah?」
 
-22027	Arios Theoman	「理由は言えない。だが……人類のためだ。	「I cannot give the reason. But... it is for humanity.
-22028	+	　魔人を倒すのは、しばらく待ってくれないか」	Could you wait for a while before defeating any more Fiends?」
+22027	Arios Theoman	基本	「理由は言えない。だが……人類のためだ。	「I cannot give the reason. But... it is for humanity.
+22028	+		　魔人を倒すのは、しばらく待ってくれないか」	Could you wait for a while before defeating any more Fiends?」
 
-22029	Rance	「ふん、何を抜かすかと思えば。	「Hmph, I wondered what you were going to say.
-22030	+	　ちんたら待つ道理も、	I have no reason to wait around,
-22031	+	　お前の言うことを大人しく聞く道理もないわ」	and no reason to quietly listen to what you say.」
+22029	Rance		「ふん、何を抜かすかと思えば。	「Hmph, I wondered what you were going to say.
+22030	+		　ちんたら待つ道理も、	I have no reason to wait around,
+22031	+		　お前の言うことを大人しく聞く道理もないわ」	and no reason to quietly listen to what you say.」
 
-22032	Arios Theoman	「頼む。人類のためだ。……信じて欲しい」	「I beg you. It is for humanity. ...Please believe me.」
+22032	Arios Theoman		「頼む。人類のためだ。……信じて欲しい」	「I beg you. It is for humanity. ...Please believe me.」
 
-22033	Miracle Tor	「……………………ふむ」	「...Hmm.」
+22033	Miracle Tor	真剣	「……………………ふむ」	「...Hmm.」
 
-22034	Rance	「いやなこった。話は終わりだ。失せろ」	「Not a chance. We're done talking. Get lost.」
+22034	Rance		「いやなこった。話は終わりだ。失せろ」	「Not a chance. We're done talking. Get lost.」
 
-22035	Arios Theoman	「話に、ならないか……	「So talking won't work...
-22036	+	　では力尽くで止めるしか、ないな」	Then I have no choice but to stop you by force.」
+22035	Arios Theoman	抜刀	「話に、ならないか……	「So talking won't work...
+22036	+		　では力尽くで止めるしか、ないな」	Then I have no choice but to stop you by force.」
 
-22037	-	アリオスが、背負っていた剣を抜く。	Arios draws the sword he was carrying on his back.
+22037	-		アリオスが、背負っていた剣を抜く。	Arios draws the sword he was carrying on his back.
 
-22038	Rance	「ふん、やる気か？　邪魔をするならぶち殺す」	「Hmph, you want to fight? If you get in my way, I'll kill you.」
+22038	Rance	基本	「ふん、やる気か？　邪魔をするならぶち殺す」	「Hmph, you want to fight? If you get in my way, I'll kill you.」
 
-22039	-	ランスも剣を抜いた。	Rance also drew his sword.
+22039	-		ランスも剣を抜いた。	Rance also drew his sword.
 
-22040	Cola	「あ、魔剣カオス。いーなー、	「Ah, Demon Sword Chaos. Nice一
-22041	+	　あれ魔王も魔人もいつでも殺れるんですよね」	That thing can kill Demon Kings and Fiends anytime, right?」
+22040	Cola		「あ、魔剣カオス。いーなー、	「Ah, Demon Sword Chaos. Nice一
+22041	+		　あれ魔王も魔人もいつでも殺れるんですよね」	That thing can kill Demon Kings and Fiends anytime, right?」
 
-22042	Rance	「なんだクソガキ。お前も相手か」	「What, you brat? Are you an opponent too?」
+22042	Rance	真剣	「なんだクソガキ。お前も相手か」	「What, you brat? Are you an opponent too?」
 
-22043	Cola	「あ、私そういうんじゃないんで。	「Ah, I'm not like that.
-22044	+	　どうぞどうぞ」	Go right ahead.」
+22043	Cola	基本	「あ、私そういうんじゃないんで。	「Ah, I'm not like that.
+22044	+		　どうぞどうぞ」	Go right ahead.」
 
-22045	Rance	「なんだありゃ……」	「What the hell is that...」
+22045	Rance	だる顔	「なんだありゃ……」	「What the hell is that...」
 
-22046	Arios Theoman	「……人類の要は、ランス…………止めるしかない」	「...The key to humanity is Rance... I have no choice but to stop him.」
+22046	Arios Theoman	抜刀	「……人類の要は、ランス…………止めるしかない」	「...The key to humanity is Rance... I have no choice but to stop him.」
 
-22047	-	アリオスが、一直線に間合いを詰める。	Arios closes the distance in a straight line.
+22047	-		アリオスが、一直線に間合いを詰める。	Arios closes the distance in a straight line.
 
-22048	Rance	「ふん、何をイカレたかは知らんが……	「Hmph, I don't know what kind of madness has gripped you...
-22049	+	　俺様に勝てると思うか！」	But do you really think you can defeat me!」
+22048	Rance	怒り	「ふん、何をイカレたかは知らんが……	「Hmph, I don't know what kind of madness has gripped you...
+22049	+		　俺様に勝てると思うか！」	But do you really think you can defeat me!」
 
-22050	Arios Theoman	「はぁっ！」	「Haaah!」
+22050	Arios Theoman	抜刀	「はぁっ！」	「Haaah!」
 
-22051	-	叩きつけるように脳天を狙って振り下ろされる剣を、	The sword swung down toward the crown of the head as if to crush it,
-22052	+	アリオスの剣が鋭く弾き返す。	was sharply parried by Arios's blade.
+22051	-		叩きつけるように脳天を狙って振り下ろされる剣を、	The sword swung down toward the crown of the head as if to crush it,
+22052	+		アリオスの剣が鋭く弾き返す。	was sharply parried by Arios's blade.
 
-22053	Rance	「むっ……」	「Ngh...」
+22053	Rance	真剣	「むっ……」	「Ngh...」
 
-22054	-	体勢が僅かに崩れた隙を縫って、	Seizing the opening from a slight stumble in stance,
-22055	+	ランスの喉笛に切っ先が迫る。	the tip of the blade closes in on Rance's throat.
+22054	-		体勢が僅かに崩れた隙を縫って、	Seizing the opening from a slight stumble in stance,
+22055	+		ランスの喉笛に切っ先が迫る。	the tip of the blade closes in on Rance's throat.
 
-22056	Rance	「ち、鬱陶しい……！」	「Tch, annoying...!」
+22056	Rance	イライラ	「ち、鬱陶しい……！」	「Tch, annoying...!」
 
-22057	Arios Theoman	「…………！」	「...!」
+22057	Arios Theoman	抜刀	「…………！」	「...!」
 
-22058	-	ランスが右手でとっさに自らの分厚いマントを掴み、	Rance quickly grabbed his thick cloak with his right hand,
-22059	+	それでアリオスの剣をはたいて逸らした。	using it to swat Arios's sword aside.
+22058	-		ランスが右手でとっさに自らの分厚いマントを掴み、	Rance quickly grabbed his thick cloak with his right hand,
+22059	+		それでアリオスの剣をはたいて逸らした。	using it to swat Arios's sword aside.
 
-22060	-	アリオスの顎を狙って、下からカオスの一撃が飛ぶが	Chaos flies upward, aiming for Arios's jaw,
-22061	+	半歩だけ退いてアリオスは避ける。	but Arios avoids it by retreating half a step.
+22060	-		アリオスの顎を狙って、下からカオスの一撃が飛ぶが	Chaos flies upward, aiming for Arios's jaw,
+22061	+		半歩だけ退いてアリオスは避ける。	but Arios avoids it by retreating half a step.
 
-22062	-	アリオスが退いた半歩を、ランスが躊躇なく詰める。	Rance closes that half-step gap without hesitation.
+22062	-		アリオスが退いた半歩を、ランスが躊躇なく詰める。	Rance closes that half-step gap without hesitation.
 
-22063	Rance	「邪魔するなら、ぶち殺す！」	「If you get in my way, I'll kill you!」
+22063	Rance	怒り	「邪魔するなら、ぶち殺す！」	「If you get in my way, I'll kill you!」
 
-22064	Arios Theoman	「はああぁぁっ！」	「Haaaaaaah!」
+22064	Arios Theoman	抜刀	「はああぁぁっ！」	「Haaaaaaah!」
 
-22065	-	ランスの上段からの一撃を、アリオスの剣が受ける。	Arios's sword meets Rance's overhead strike.
-22066	+	火花が散り、刃が噛み合う。	Sparks fly as the blades lock together.
+22065	-		ランスの上段からの一撃を、アリオスの剣が受ける。	Arios's sword meets Rance's overhead strike.
+22066	+		火花が散り、刃が噛み合う。	Sparks fly as the blades lock together.
 
-22067	Rance~	（む…………こいつ、少しはやるか、ッ……！）	（Ngh... so this guy can actually fight a bit, huh...!）
+22067	Rance~	真剣	（む…………こいつ、少しはやるか、ッ……！）	（Ngh... so this guy can actually fight a bit, huh...!）
 
-22068	-	そのままアリオスが身体を横に流し、懐に入り込もうとするが、	Arios tries to slide past to close in,
-22069	+	ランスの力任せの横薙ぎがそれを阻む。	but Rance's forceful horizontal sweep blocks him.
+22068	-		そのままアリオスが身体を横に流し、懐に入り込もうとするが、	Arios tries to slide past to close in,
+22069	+		ランスの力任せの横薙ぎがそれを阻む。	but Rance's forceful horizontal sweep blocks him.
 
-22070	-	なおもバックステップで間を空けるアリオスに、	As Arios creates distance with a backstep,
-22071	+	ランスは一方的に剣を打ち振るう。	Rance relentlessly swings his sword.
+22070	-		なおもバックステップで間を空けるアリオスに、	As Arios creates distance with a backstep,
+22071	+		ランスは一方的に剣を打ち振るう。	Rance relentlessly swings his sword.
 
-22072	-	幾度目のことか、上段から打ち付けるランスの剣を、	Arios catches Rance's overhead blow yet again.
-22073	+	アリオスが受ける。	were taken by Arios.
+22072	-		幾度目のことか、上段から打ち付けるランスの剣を、	Arios catches Rance's overhead blow yet again.
+22073	+		アリオスが受ける。	were taken by Arios.
 
-22074	Rance	「この…………！」	「You...!」
+22074	Rance	基本	「この…………！」	「You...!」
 
-22075	-	鍔迫ったまま、片手で振り回していたカオスを	While their blades remain locked, he switches Chaos from one hand
-22076	+	両手に持ち変える。	to both hands.
+22075	-		鍔迫ったまま、片手で振り回していたカオスを	While their blades remain locked, he switches Chaos from one hand
+22076	+		両手に持ち変える。	to both hands.
 
-22077	Rance	「くたばれ、雑魚が…………！」	「Drop dead, you trash...!」
+22077	Rance		「くたばれ、雑魚が…………！」	「Drop dead, you trash...!」
 
-22078	Arios Theoman	「――――――！」	「------!」
+22078	Arios Theoman	抜刀	「――――――！」	「------!」
 
-22079	-	そして力でそのまま押し切ろうとした、その瞬間。	At the very moment he tries to overpower him with brute force.
+22079	-		そして力でそのまま押し切ろうとした、その瞬間。	At the very moment he tries to overpower him with brute force.
 
-22080	-	その力の流れが見えているかのように、	As if he could see the flow of power,
-22081	+	アリオスの剣と身体とが、脱力する。	Arios's sword and body go limp.
+22080	-		その力の流れが見えているかのように、	As if he could see the flow of power,
+22081	+		アリオスの剣と身体とが、脱力する。	Arios's sword and body go limp.
 
-22082	Rance	「な、んだとっ……！」	「Wh-What...!」
+22082	Rance	基本	「な、んだとっ……！」	「Wh-What...!」
 
-22083	-	地面にしたたかに叩きつけられるカオス。	Chaos is slammed hard against the ground.
-22084	+	その刀身を、アリオスのブーツが踏みしめた。	Arios's boot stomps down on the blade.
+22083	-		地面にしたたかに叩きつけられるカオス。	Chaos is slammed hard against the ground.
+22084	+		その刀身を、アリオスのブーツが踏みしめた。	Arios's boot stomps down on the blade.
 
-22085	Rance	「ぐ、おおぉっ……！」	「Guh, ooooh...!」
+22085	Rance		「ぐ、おおぉっ……！」	「Guh, ooooh...!」
 
-22086	-	その重みがカオス越しにランスへ伝わるより速く、	Before that weight can even reach Rance through Chaos,
-22087	+	白刃がその首元に迫る。	a cold blade approaches his neck.
+22086	-		その重みがカオス越しにランスへ伝わるより速く、	Before that weight can even reach Rance through Chaos,
+22087	+		白刃がその首元に迫る。	a cold blade approaches his neck.
 
-22088	Rance	「っ……！　だーーーーーー！」	「Ngh...! Daahhhhhhh!」
+22088	Rance		「っ……！　だーーーーーー！」	「Ngh...! Daahhhhhhh!」
 
-22089	-	ランスは両手でカオスを握ったまま、	Still gripping Chaos with both hands,
-22090	+	力任せにそれを振り回した。	Rance swings it with all his might.
+22089	-		ランスは両手でカオスを握ったまま、	Still gripping Chaos with both hands,
+22090	+		力任せにそれを振り回した。	Rance swings it with all his might.
 
-22091	Arios Theoman	「――――！」	「----!」
+22091	Arios Theoman	抜刀	「――――！」	「----!」
 
-22092	-	二人の間に、ぱっと血飛沫が舞う。	A spray of blood dances between them.
-22093	+	ランスの首元が裂かれ、鎧が紅く染まり……だが、致命傷ではない。	Rance's neck is cut, staining his armor crimson... however, it's not fatal.
+22092	-		二人の間に、ぱっと血飛沫が舞う。	A spray of blood dances between them.
+22093	+		ランスの首元が裂かれ、鎧が紅く染まり……だが、致命傷ではない。	Rance's neck is cut, staining his armor crimson... however, it's not fatal.
 
-22094	Sill Plain	「あ、ああぁ、ら、ランス様ッ……！」	「Ah, aah, R-Rance-sama...!」
+22094	Sill Plain	基本	「あ、ああぁ、ら、ランス様ッ……！」	「Ah, aah, R-Rance-sama...!」
 
-22095	Alkanese Rize	「あっととと！　あぶねーぜ、近づいちゃ！」	「Whoa there! Dangerous, don't get too close!」
+22095	Alkanese Rize		「あっととと！　あぶねーぜ、近づいちゃ！」	「Whoa there! Dangerous, don't get too close!」
 
-22096	-	足元を崩されて、アリオスが半瞬、たたらを踏む。	Losing his footing, Arios stumbles for a split second.
+22096	-		足元を崩されて、アリオスが半瞬、たたらを踏む。	Losing his footing, Arios stumbles for a split second.
 
-22097	-	そのアリオスが体勢を立て直すより早く、	Before Arios can recover his stance,
-22098	+	ランスが踏み込んだ。	Rance lunges in.
+22097	-		そのアリオスが体勢を立て直すより早く、	Before Arios can recover his stance,
+22098	+		ランスが踏み込んだ。	Rance lunges in.
 
-22099	Rance	「がーーーーー！」	「Gaaaaah!」
+22099	Rance		「がーーーーー！」	「Gaaaaah!」
 
-22100	Arios Theoman	「ぐ……！」	「Guh...!」
+22100	Arios Theoman	抜刀	「ぐ……！」	「Guh...!」
 
-22101	-	肩口から体当たりをぶちかましてよろめかせ、	He slams into him with a shoulder tackle to make him stagger,
-22102	+	すかさず鋭い一撃でアリオスの首を狙う。	then immediately aims a sharp blow at Arios's neck.
+22101	-		肩口から体当たりをぶちかましてよろめかせ、	He slams into him with a shoulder tackle to make him stagger,
+22102	+		すかさず鋭い一撃でアリオスの首を狙う。	then immediately aims a sharp blow at Arios's neck.
 
-22103	-	アリオスは辛うじて止めるが、	Arios barely manages to block it,
-22104	+	ランスはその剣を押し込んで手首を返し、体を崩す。	but Rance pushes the sword in and twists his wrist, breaking his stance.
+22103	-		アリオスは辛うじて止めるが、	Arios barely manages to block it,
+22104	+		ランスはその剣を押し込んで手首を返し、体を崩す。	but Rance pushes the sword in and twists his wrist, breaking his stance.
 
-22105	Arios Theoman	「なっ……！」	「What...!」
+22105	Arios Theoman		「なっ……！」	「What...!」
 
-22106	Rance	「ランスキーーーーーーック！」	「RANCE KIIIIIIIIIICK!」
+22106	Rance	基本	「ランスキーーーーーーック！」	「RANCE KIIIIIIIIIICK!」
 
-22107	Arios Theoman	「ぐ…………！」	「Guh...!」
+22107	Arios Theoman	抜刀	「ぐ…………！」	「Guh...!」
 
-22108	-	腹にランスの膝が突き刺さり、アリオスがふらつく。	Rance's knee strikes Arios's stomach, making him falter.
-22109	+	瞬間、ランスは剣を担いで高く跳躍した。	In an instant, Rance shoulders his sword and leaps high.
+22108	-		腹にランスの膝が突き刺さり、アリオスがふらつく。	Rance's knee strikes Arios's stomach, making him falter.
+22109	+		瞬間、ランスは剣を担いで高く跳躍した。	In an instant, Rance shoulders his sword and leaps high.
 
-22110	Rance	「アーーーンド、アタタタタターーーーック！」	「AAAAND, ATTACKTATATATA!」
+22110	Rance	基本	「アーーーンド、アタタタタターーーーック！」	「AAAAND, ATTACKTATATATA!」
 
-22111	Arios Theoman	「く、っ……ぐあああぁっ……！」	「Ngh... guaahhhhh...!」
+22111	Arios Theoman	抜刀	「く、っ……ぐあああぁっ……！」	「Ngh... guaahhhhh...!」
 
-22112	-	アリオスは倒れ伏し、そのまま動かなくなった。	Arios falls to the ground and stops moving.
+22112	-		アリオスは倒れ伏し、そのまま動かなくなった。	Arios falls to the ground and stops moving.
 
-22113	Rance	「がーはははは、楽勝！	「Gah-hahahaha, easy win!
-22114	+	　雑魚が俺の邪魔をするからこうなるのだ」	This is what happens when trash gets in my way.」
+22113	Rance	笑顔	「がーはははは、楽勝！	「Gah-hahahaha, easy win!
+22114	+		　雑魚が俺の邪魔をするからこうなるのだ」	This is what happens when trash gets in my way.」
 
-22115	Miracle Tor	「……死んだのか？」	「...Is he dead?」
+22115	Miracle Tor	基本	「……死んだのか？」	「...Is he dead?」
 
-22116	Rance	「知らん。……まあ、どうでもいい。行くぞ」	「Dunno. ...Well, whatever. Let's go.」
+22116	Rance		「知らん。……まあ、どうでもいい。行くぞ」	「Dunno. ...Well, whatever. Let's go.」
 
-22117	Miracle Tor	「勇者は希少種なのだがな。	「The Hero is a rare specimen, after all.
-22118	+	　色々調べてみたくはあるが……時間がないか」	I'd like to investigate him in various ways... but there's no time, I suppose.」
+22117	Miracle Tor	目閉じ	「勇者は希少種なのだがな。	「The Hero is a rare specimen, after all.
+22118	+		　色々調べてみたくはあるが……時間がないか」	I'd like to investigate him in various ways... but there's no time, I suppose.」
 
-22119	Crook Mofus	「……そうですね。時間の無駄です」	「...Indeed. It is a waste of time.」
+22119	Crook Mofus	基本	「……そうですね。時間の無駄です」	「...Indeed. It is a waste of time.」
 
-22120	-	ランス一行は、そのまま去っていった。	Rance and his party left just like that.
+22120	-		ランス一行は、そのまま去っていった。	Rance and his party left just like that.
 
-22121	Cola	「あーあ」	「Ah well.」
+22121	Cola		「あーあ」	「Ah well.」
 
-22122	-	一人残されたコーラが、軽く肩を竦める。	Left alone, Cola lightly shrugs her shoulders.
+22122	-		一人残されたコーラが、軽く肩を竦める。	Left alone, Cola lightly shrugs her shoulders.
 
-22123	Cola	「偉そうに挑んでおいて、負けちゃいましたね。	「He challenged him so arrogantly, yet lost.
-22124	+	　ださっ」	So lame.」
+22123	Cola		「偉そうに挑んでおいて、負けちゃいましたね。	「He challenged him so arrogantly, yet lost.
+22124	+		　ださっ」	So lame.」
 
-22125	Arios Theoman	「………………」	「............」
+22125	Arios Theoman	抜刀	「………………」	「............」
 
-22126	-	無言で、アリオスは立ち上がった。	Silently, Arios stood up.
-22127	+	僅かな時間、衝撃波で気絶していただけだった。	He had only been knocked unconscious by the shockwave for a short time.
+22126	-		無言で、アリオスは立ち上がった。	Silently, Arios stood up.
+22127	+		僅かな時間、衝撃波で気絶していただけだった。	He had only been knocked unconscious by the shockwave for a short time.
 
-22128	Cola	「またあの、ランスでしたね。	「It was that Rance again.
-22129	+	　何度見ても、ただの人間なんですけどねぇ」	No matter how many times I look at him, he seems like just an ordinary human.」
+22128	Cola	基本	「またあの、ランスでしたね。	「It was that Rance again.
+22129	+		　何度見ても、ただの人間なんですけどねぇ」	No matter how many times I look at him, he seems like just an ordinary human.」
 
-22130	Arios Theoman	「強い……な。僕も、まだレベルが足りない」	「He is strong... Indeed. I am still lacking in levels.」
+22130	Arios Theoman		「強い……な。僕も、まだレベルが足りない」	「He is strong... Indeed. I am still lacking in levels.」
 
-22131	Cola	「ある意味……今こうなってるのも、	「In a sense... the reason things are like this now
-22132	+	　あのランスのせいですよね」	is because of that Rance.」
+22131	Cola		「ある意味……今こうなってるのも、	「In a sense... the reason things are like this now
+22132	+		　あのランスのせいですよね」	is because of that Rance.」
 
-22133	Arios Theoman	「……何が言いたい？」	「...What are you trying to say?」
+22133	Arios Theoman		「……何が言いたい？」	「...What are you trying to say?」
 
-22134	Cola	「いえ。お馬鹿なアリオスが、大事件ほったらかしで	「Nothing. The only reason a fool like Arios could carefree-ly help people
-22135	+	　人助けなんぞ呑気にしてられたのも、	while ignoring the major incidents was because
-22136	+	　あの男が大事件を解決しちゃったからですし」	that man went and solved those major incidents himself.」
+22134	Cola		「いえ。お馬鹿なアリオスが、大事件ほったらかしで	「Nothing. The only reason a fool like Arios could carefree-ly help people
+22135	+		　人助けなんぞ呑気にしてられたのも、	while ignoring the major incidents was because
+22136	+		　あの男が大事件を解決しちゃったからですし」	that man went and solved those major incidents himself.」
 
-22137	Arios Theoman	「……………………」	「............」
+22137	Arios Theoman		「……………………」	「............」
 
-22138	Cola	「リーザスの事件やらカスタムの事件やら……	「The Leazas incident, the Custom incident...
-22139	+	　本来は、勇者が解決するはずだったんですけどね」	Originally, the Hero was supposed to solve them.」
+22138	Cola		「リーザスの事件やらカスタムの事件やら……	「The Leazas incident, the Custom incident...
+22139	+		　本来は、勇者が解決するはずだったんですけどね」	Originally, the Hero was supposed to solve them.」
 
-22140	Cola	「そしたら、もしかしてこんな事をしなくても……」	「If that happened, perhaps we wouldn't have had to do this...」
+22140	Cola	スマイル	「そしたら、もしかしてこんな事をしなくても……」	「If that happened, perhaps we wouldn't have had to do this...」
 
-22141	Arios Theoman	「……過ぎたことは、いい。	「...What's past is past.
-22142	+	　魔王を仕留める為に、やるべき事をやるだけだ」	I will simply do what must be done to strike down the Demon King.」
+22141	Arios Theoman	基本	「……過ぎたことは、いい。	「...What's past is past.
+22142	+		　魔王を仕留める為に、やるべき事をやるだけだ」	I will simply do what must be done to strike down the Demon King.」
 
-22143	Cola	「……ま、そうですねー。はいはい。	「...Well, I suppose. Right, right.
-22144	+	　ふん、からかいがいのない……」	Hmph, you're no fun to tease...」
+22143	Cola		「……ま、そうですねー。はいはい。	「...Well, I suppose. Right, right.
+22144	+		　ふん、からかいがいのない……」	Hmph, you're no fun to tease...」
 
-22145	-	主従は連れだって、いずこかへと姿を消した。	The master and servant together vanished toward somewhere.
+22145	-		主従は連れだって、いずこかへと姿を消した。	The master and servant together vanished toward somewhere.

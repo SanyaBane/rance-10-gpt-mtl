@@ -2,254 +2,254 @@
 * Mouri Motonari	元就２	Male
 * El Mofus	エール２	Player's choice
 
-205726	Mouri Motonari	「おう！　そこにいるのは大将か！」	「Yo! Is that the General over there!」
+205726	Mouri Motonari	基本	「おう！　そこにいるのは大将か！」	「Yo! Is that the General over there!」
 
-205727	-	あなたの前に現れたのは元就だった。	The one who appeared before you was Motonari.
+205727	-		あなたの前に現れたのは元就だった。	The one who appeared before you was Motonari.
 
-205728	Mouri Motonari	「なんだ！	「What!
-205729	+	　眠れないのか！」	　Can't sleep!」
+205728	Mouri Motonari		「なんだ！	「What!
+205729	+		　眠れないのか！」	　Can't sleep!」
 
-205730	Mouri Motonari	「ぐわっははははははは！	「Gwahahahahahaha!
-205731	+	　意外に大将はアレだな！」	　The General is surprisingly delicate!」
+205730	Mouri Motonari	笑顔	「ぐわっははははははは！	「Gwahahahahahaha!
+205731	+		　意外に大将はアレだな！」	　The General is surprisingly delicate!」
 
-205732	Mouri Motonari	「大根、じゃなくて……ゴボウ、でもなくて……	「Not a daikon, not a burdock...
-205733	+	　人参、でもなくて……サツマイモ、でもなく……	　not a carrot, not a sweet potato...
-205734	+	　根菜、根菜……」	　Root vegetable, root vegetable...」
+205732	Mouri Motonari	不満	「大根、じゃなくて……ゴボウ、でもなくて……	「Not a daikon, not a burdock...
+205733	+		　人参、でもなくて……サツマイモ、でもなく……	　not a carrot, not a sweet potato...
+205734	+		　根菜、根菜……」	　Root vegetable, root vegetable...」
 
-205735	Mouri Motonari	「そう！　繊細だ！	「Yes! Delicate!
-205736	+	　繊細だな！　繊細！　大将は繊細だ！	　Delicate! Delicate! The General is delicate!
-205737	+	　カカカカカ！」	　Kakakaka!」
+205735	Mouri Motonari	笑顔	「そう！　繊細だ！	「Yes! Delicate!
+205736	+		　繊細だな！　繊細！　大将は繊細だ！	　Delicate! Delicate! The General is delicate!
+205737	+		　カカカカカ！」	　Kakakaka!」
 
-205738	Mouri Motonari	「……ふう、久し振りに頭を使ったから疲れたぞ」	「...Phew, using my head after so long tired me out.」
+205738	Mouri Motonari	な	「……ふう、久し振りに頭を使ったから疲れたぞ」	「...Phew, using my head after so long tired me out.」
 
-205739	-	元就はあなたの向かいのソファーに	Motonari plopped down heavily
-205740	+	どっかりと乱暴に腰を下ろした。	on the sofa across from you.
+205739	-		元就はあなたの向かいのソファーに	Motonari plopped down heavily
+205740	+		どっかりと乱暴に腰を下ろした。	on the sofa across from you.
 
-205741	-	ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
-205742	+	二人は会話もなくジッと黙っている。	The two of you sit in silence without conversation.
+205741	-		ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
+205742	+		二人は会話もなくジッと黙っている。	The two of you sit in silence without conversation.
 
-205743	-	しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
-205744	+	むしろ落ち着くとあなたは思った。	In fact, you feel calm.
+205743	-		しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
+205744	+		むしろ落ち着くとあなたは思った。	In fact, you feel calm.
 
-205745	-	なんとなく、	Somehow,
-205746	+	まったりとした時間が流れる。	a relaxed time flows gently.
+205745	-		なんとなく、	Somehow,
+205746	+		まったりとした時間が流れる。	a relaxed time flows gently.
 
-205747	Mouri Motonari	「そういえば、大将。	「By the way, General.
-205748	+	　今回の旅が終わったとき、	　When this journey ends,
-205749	+	　やりたいことなどはあるのか？」	　is there anything you want to do?」
-205750	+	「ぐわっははは！	「Gwahahaha!
-205751	+	　なら、オレと一緒だな！	　Then we're the same!
-205752	?	　大将も案外馬鹿だな！」	　The General is surprisingly stupid too!」
+205747	Mouri Motonari	基本	「そういえば、大将。	「By the way, General.
+205748	+		　今回の旅が終わったとき、	　When this journey ends,
+205749	+		　やりたいことなどはあるのか？」	　is there anything you want to do?」
+205750	+	笑顔	「ぐわっははは！	「Gwahahaha!
+205751	+		　なら、オレと一緒だな！	　Then we're the same!
+205752	?		　大将も案外馬鹿だな！」	　The General is surprisingly stupid too!」
 
-205753	-	あなたはすごく失礼なことを言われた。	You were told something very rude.
+205753	-		あなたはすごく失礼なことを言われた。	You were told something very rude.
 
-205754	Mouri Motonari	「なら大将、毛利家に来ないか」	「Then General, why don't you come to the Mouri family?」
+205754	Mouri Motonari	基本	「なら大将、毛利家に来ないか」	「Then General, why don't you come to the Mouri family?」
 
-205755	Mouri Motonari	「毛利家はいいぞ！	「The Mouri family is great!
-205756	+	　思考回路は常時、単純明快！」	　Our thinking is always simple and clear!」
+205755	Mouri Motonari		「毛利家はいいぞ！	「The Mouri family is great!
+205756	+		　思考回路は常時、単純明快！」	　Our thinking is always simple and clear!」
 
-205757	Mouri Motonari	「酒！　	「Alcohol!
-205758	?	女！　	　Women!
-205759	+	戦！」	　Battle!」
+205757	Mouri Motonari		「酒！　	「Alcohol!
+205758	?		女！　	　Women!
+205759	+		戦！」	　Battle!」
 
-205760	Mouri Motonari	「ただそれだけよ！！！！」	「That's all there is!!!!」
+205760	Mouri Motonari		「ただそれだけよ！！！！」	「That's all there is!!!!」
 
-205761	Mouri Motonari	「ぐわっははは！	「Gwahahaha!
-205762	+	　どーしようもない馬鹿しかおらんのだ！	　Only hopeless idiots there!
-205763	+	　我が毛利は！」	　That's the Mouri family!」
+205761	Mouri Motonari	笑顔	「ぐわっははは！	「Gwahahaha!
+205762	+		　どーしようもない馬鹿しかおらんのだ！	　Only hopeless idiots there!
+205763	+		　我が毛利は！」	　That's the Mouri family!」
 
-205764	Mouri Motonari	「クク……」	「Kuku...」
+205764	Mouri Motonari	基本	「クク……」	「Kuku...」
 
-205765	Mouri Motonari	「善か悪かなら、悪。	「If it's good or evil, then evil.
-205766	+	　白か黒かなら、黒」	　If it's white or black, then black.」
+205765	Mouri Motonari		「善か悪かなら、悪。	「If it's good or evil, then evil.
+205766	+		　白か黒かなら、黒」	　If it's white or black, then black.」
 
-205767	Mouri Motonari	「他の魔王の子と違ってな、	「Unlike the other Demon King's children,
-205768	+	　オレは『そちら側』で生きている」	　I live on 'that side'.」
+205767	Mouri Motonari		「他の魔王の子と違ってな、	「Unlike the other Demon King's children,
+205768	+		　オレは『そちら側』で生きている」	　I live on 'that side'.」
 
-205769	Mouri Motonari	「だが、それでいい」	「But that's fine.」
+205769	Mouri Motonari		「だが、それでいい」	「But that's fine.」
 
-205770	Mouri Motonari	「世界中から忌み嫌われようと、	「Even if the whole world hates us,
-205771	+	　オレは毛利家が好きだ！	　I love the Mouri family!
-205772	?	　そして兄弟姉妹も好きだ！」	　And I love my brothers and sisters!」
+205770	Mouri Motonari		「世界中から忌み嫌われようと、	「Even if the whole world hates us,
+205771	+		　オレは毛利家が好きだ！	　I love the Mouri family!
+205772	?		　そして兄弟姉妹も好きだ！」	　And I love my brothers and sisters!」
 
-205773	Mouri Motonari	「魔王の子達は表舞台で生きる奴ばかりだ。	「The Demon King's children all live on the main stage.
-205774	+	　表で生きるということは、	　Living in the open means
-205775	+	　常に清廉潔白を求められるということ」	　always being required to be pure and upright.」
+205773	Mouri Motonari		「魔王の子達は表舞台で生きる奴ばかりだ。	「The Demon King's children all live on the main stage.
+205774	+		　表で生きるということは、	　Living in the open means
+205775	+		　常に清廉潔白を求められるということ」	　always being required to be pure and upright.」
 
-205776	Mouri Motonari	「それでは通れぬ難所もあるだろう」	「There will be difficult paths that can't be taken that way.」
+205776	Mouri Motonari		「それでは通れぬ難所もあるだろう」	「There will be difficult paths that can't be taken that way.」
 
-205777	Mouri Motonari	「悪でなければ出来ぬことがあれば！	「If there's something that can only be done with evil!
-205778	+	　それは我が毛利家がやってやる！」	　Then the Mouri family will do it!」
+205777	Mouri Motonari		「悪でなければ出来ぬことがあれば！	「If there's something that can only be done with evil!
+205778	+		　それは我が毛利家がやってやる！」	　Then the Mouri family will do it!」
 
-205779	Mouri Motonari	「魔王の子の中に、	「If the name Mouri among the Demon King's children
-205780	+	　毛利の名が冠されている意味があるとしたら、	　has any meaning,
-205781	+	　それはおそらく、こういうことなんだ！」	　it's probably this!」
+205779	Mouri Motonari		「魔王の子の中に、	「If the name Mouri among the Demon King's children
+205780	+		　毛利の名が冠されている意味があるとしたら、	　has any meaning,
+205781	+		　それはおそらく、こういうことなんだ！」	　it's probably this!」
 
-205782	El Mofus	「…………。」	「............」
-205783	Mouri Motonari	「ぐわっははははははは！	「Gwahahahahahaha!
-205784	+	　そうだろう、そうだろう！」	　That's right, that's right!」
+205782	El Mofus		「…………。」	「............」
+205783	Mouri Motonari	笑顔	「ぐわっははははははは！	「Gwahahahahahaha!
+205784	+		　そうだろう、そうだろう！」	　That's right, that's right!」
 
-205785	Mouri Motonari	「オレと、オレの家族に関することなら！	「When it comes to me and my family!
-205786	+	　こう見えても真剣に考えるのだ！	　I think seriously!
-205787	+	　オレは！」	　I do!」
+205785	Mouri Motonari	基本	「オレと、オレの家族に関することなら！	「When it comes to me and my family!
+205786	+		　こう見えても真剣に考えるのだ！	　I think seriously!
+205787	+		　オレは！」	　I do!」
 
-205788	Mouri Motonari	「ま、黙って助けてやるかは別の話だがな。	「Well, whether I'll help silently is another story.
-205789	+	　クケケケ……」	　Kukekeke...」
+205788	Mouri Motonari	にんまぁ	「ま、黙って助けてやるかは別の話だがな。	「Well, whether I'll help silently is another story.
+205789	+		　クケケケ……」	　Kukekeke...」
 
-205790	Mouri Motonari	「どうだ、大将？」	「What do you say, General?」
+205790	Mouri Motonari	基本	「どうだ、大将？」	「What do you say, General?」
 
-205791	El Mofus	「…………。」	「............」
+205791	El Mofus		「…………。」	「............」
 
-205792	Mouri Motonari	「なんだ、その間の抜けた顔は」	「What's with that dumb face?」
+205792	Mouri Motonari	不満	「なんだ、その間の抜けた顔は」	「What's with that dumb face?」
 
-205793	Mouri Motonari	「そういう毛利の生き方を	「I'm inviting you
-205794	+	　お前もしないかと誘っているのだ。	　to live like a Mouri too.
-205795	+	　オレは」	　I am.」
+205793	Mouri Motonari	基本	「そういう毛利の生き方を	「I'm inviting you
+205794	+		　お前もしないかと誘っているのだ。	　to live like a Mouri too.
+205795	+		　オレは」	　I am.」
 
 > male
-205796	Mouri Motonari	「なにせお前はオレの大将だからな」	「After all, you're my General.」
+205796	Mouri Motonari		「なにせお前はオレの大将だからな」	「After all, you're my General.」
 
-205797	Mouri Motonari	「クク、キキキ……」	「Kuku, kikiki...」
+205797	Mouri Motonari		「クク、キキキ……」	「Kuku, kikiki...」
 
-205798	-	背を丸めて、元就が笑う。	Motonari laughed, hunching his back.
+205798	-		背を丸めて、元就が笑う。	Motonari laughed, hunching his back.
 
-205799	Mouri Motonari	「＜エール＞も分かってないだろうが……	「You probably don't realize it, ＜エール＞...
-205800	+	　オレは大将の中に化け物が潜んでいると読む」	　but I sense a monster lurking inside the General.」
+205799	Mouri Motonari		「＜エール＞も分かってないだろうが……	「You probably don't realize it, ＜エール＞...
+205800	+		　オレは大将の中に化け物が潜んでいると読む」	　but I sense a monster lurking inside the General.」
 
-205801	Mouri Motonari	「その化け物……クカカ……	「That monster... kukaka...
-205802	+	　オレに近いと思っている」	　feels similar to me.」
+205801	Mouri Motonari		「その化け物……クカカ……	「That monster... kukaka...
+205802	+		　オレに近いと思っている」	　feels similar to me.」
 
-205803	-	ピッとあなたは元就に指を差される。	Motonari pointed at you sharply.
+205803	-		ピッとあなたは元就に指を差される。	Motonari pointed at you sharply.
 
-205804	Mouri Motonari	「お前の中には凶暴性がある」	「You have ferocity inside you.」
+205804	Mouri Motonari		「お前の中には凶暴性がある」	「You have ferocity inside you.」
 
-205805	Mouri Motonari	「暴れるのは楽しいだろう？	「Isn't rampaging fun?
-205806	+	　強い魔物を打ち倒すのは快感だろう？」	　Doesn't defeating strong monsters feel great?」
+205805	Mouri Motonari		「暴れるのは楽しいだろう？	「Isn't rampaging fun?
+205806	+		　強い魔物を打ち倒すのは快感だろう？」	　Doesn't defeating strong monsters feel great?」
 
-205807	Mouri Motonari	「楽しいと思っているなら、	「If you enjoy it,
-205808	+	　オレと来い」	　come with me.」
+205807	Mouri Motonari		「楽しいと思っているなら、	「If you enjoy it,
+205808	+		　オレと来い」	　come with me.」
 
-205809	Mouri Motonari	「オレと共に、存分に暴れるぞ」	「Rampage to your heart's content with me.」
+205809	Mouri Motonari		「オレと共に、存分に暴れるぞ」	「Rampage to your heart's content with me.」
 
 > female
-205810	Mouri Motonari	「……ん？」	「...Hm?」
+205810	Mouri Motonari		「……ん？」	「...Hm?」
 
-205811	Mouri Motonari	「ああ、これは先日の求婚の続きだぞ」	「Ah, this is a continuation of my recent proposal.」
+205811	Mouri Motonari		「ああ、これは先日の求婚の続きだぞ」	「Ah, this is a continuation of my recent proposal.」
 
-205812	Mouri Motonari	「オレは大将が気にいった。	「I like the General.
-205813	+	　だから嫁にする」	　So I'll make you my wife.」
+205812	Mouri Motonari		「オレは大将が気にいった。	「I like the General.
+205813	+		　だから嫁にする」	　So I'll make you my wife.」
 
-205814	Mouri Motonari	「無論、無理強いはせん」	「Of course, I won't force you.」
+205814	Mouri Motonari		「無論、無理強いはせん」	「Of course, I won't force you.」
 
-205815	Mouri Motonari	「今、言ったように我が家は悪だ。	「As I said, my family is evil.
-205816	+	　生半可な覚悟で来て貰っても困る」	　Half-hearted resolve would trouble us.」
+205815	Mouri Motonari		「今、言ったように我が家は悪だ。	「As I said, my family is evil.
+205816	+		　生半可な覚悟で来て貰っても困る」	　Half-hearted resolve would trouble us.」
 
-205817	Mouri Motonari	「ああ、嫁入り道具に	「Ah, you can bring pottery
-205818	+	　陶器も連れてきていいぞ」	　as dowry.」
+205817	Mouri Motonari		「ああ、嫁入り道具に	「Ah, you can bring pottery
+205818	+		　陶器も連れてきていいぞ」	　as dowry.」
 
-205819	Mouri Motonari	「で。	「So.
-205820	+	　返事は如何に」	　What's your answer?
+205819	Mouri Motonari		「で。	「So.
+205820	+		　返事は如何に」	　What's your answer?
 
-205821	-	あなたは唐突に求婚の返事を求められた。	You were suddenly asked for a reply to the marriage proposal.
+205821	-		あなたは唐突に求婚の返事を求められた。	You were suddenly asked for a reply to the marriage proposal.
 
-205822	El Mofus	「…………。」	「............」
-205823	Mouri Motonari	「おお！　そうか！」	「Oh! I see!」
+205822	El Mofus		「…………。」	「............」
+205823	Mouri Motonari	笑顔	「おお！　そうか！」	「Oh! I see!」
 
-205824	Mouri Motonari	「嬉しい！	「I'm happy!
-205825	+	　オレはとても嬉しいぞ！」	　I'm really happy!」
+205824	Mouri Motonari	基本	「嬉しい！	「I'm happy!
+205825	+		　オレはとても嬉しいぞ！」	　I'm really happy!」
 
-205826	Mouri Motonari	「必ず幸せにしてやる！！！！」	「I'll definitely make you happy!!!!」
+205826	Mouri Motonari		「必ず幸せにしてやる！！！！」	「I'll definitely make you happy!!!!」
 
-205827	Mouri Motonari	「ぐわっはははは！」	「Gwahahahaha!」
+205827	Mouri Motonari	笑顔	「ぐわっはははは！」	「Gwahahahaha!」
 
-205828	-	元就は非常に嬉しそうに笑っていた。	Motonari laughed with great joy.
+205828	-		元就は非常に嬉しそうに笑っていた。	Motonari laughed with great joy.
 
-205829	-	あなたは話の流れで、	In the flow of the conversation,
-205830	+	元就と結婚することになった。	you ended up agreeing to marry Motonari.
+205829	-		あなたは話の流れで、	In the flow of the conversation,
+205830	+		元就と結婚することになった。	you ended up agreeing to marry Motonari.
 
-205831	Mouri Motonari	「ん、なんだ。	「Hm, what.
-205832	+	　即決即断の大将らしくもない」	　That's not like the quick-deciding General.」
+205831	Mouri Motonari	基本	「ん、なんだ。	「Hm, what.
+205832	+		　即決即断の大将らしくもない」	　That's not like the quick-deciding General.」
 
-205833	Mouri Motonari	「まあいいだろう！	「Well, it's fine!
-205834	+	　焦ってでかいサカナを取り逃すのは	　Rushing and letting a big fish escape
-205835	+	　惜しいからな！」	　would be a shame!」
+205833	Mouri Motonari		「まあいいだろう！	「Well, it's fine!
+205834	+		　焦ってでかいサカナを取り逃すのは	　Rushing and letting a big fish escape
+205835	+		　惜しいからな！」	　would be a shame!」
 
-205836	Mouri Motonari	「オレと結婚したくなったらいつでも言え！	「If you want to marry me, say it anytime!
-205837	+	　それは盛大な式を挙げてやる！」	　I'll throw a grand ceremony!」
+205836	Mouri Motonari		「オレと結婚したくなったらいつでも言え！	「If you want to marry me, say it anytime!
+205837	+		　それは盛大な式を挙げてやる！」	　I'll throw a grand ceremony!」
 
-205838	Mouri Motonari	「ぐわっははははははははは！」	「Gwahahahahahahaha!」
+205838	Mouri Motonari	笑顔	「ぐわっははははははははは！」	「Gwahahahahahahaha!」
 
-205839	-	元就はさして気にした様子もなく、	Motonari didn't seem particularly bothered,
-205840	+	豪快に笑っていた。	and laughed heartily.
+205839	-		元就はさして気にした様子もなく、	Motonari didn't seem particularly bothered,
+205840	+		豪快に笑っていた。	and laughed heartily.
 
-205841	Mouri Motonari	「そうか！」	「I see!」
+205841	Mouri Motonari	基本	「そうか！」	「I see!」
 
-205842	Mouri Motonari	「まあいい！」	「Well, fine!」
+205842	Mouri Motonari		「まあいい！」	「Well, fine!」
 
-205843	Mouri Motonari	「オレは諦めんぞ！！！！」	「I won't give up!!!!」
+205843	Mouri Motonari		「オレは諦めんぞ！！！！」	「I won't give up!!!!」
 
-205844	Mouri Motonari	「ぐわっははははははははは！」	「Gwahahahahahahaha!」
+205844	Mouri Motonari	笑顔	「ぐわっははははははははは！」	「Gwahahahahahahaha!」
 
-205845	-	元就は諦める気はないらしい。	Motonari clearly has no intention of giving up.
-205846	+	豪快に笑っていた。	He laughed heartily.
+205845	-		元就は諦める気はないらしい。	Motonari clearly has no intention of giving up.
+205846	+		豪快に笑っていた。	He laughed heartily.
 
 > end
-205847	Mouri Motonari	「……と、言ってみたが。	「...Or so I said.
-205848	+	　クカカカ」	　Kukaka.
+205847	Mouri Motonari	基本	「……と、言ってみたが。	「...Or so I said.
+205848	+		　クカカカ」	　Kukaka.
 
-205849	-	突然、元就は落ち着いた様子で息を吐き出した。	Suddenly Motonari calmly exhaled.
+205849	-		突然、元就は落ち着いた様子で息を吐き出した。	Suddenly Motonari calmly exhaled.
 
-205850	Mouri Motonari	「まずは明日の決戦が先だな」	「First comes tomorrow's decisive battle.」
+205850	Mouri Motonari		「まずは明日の決戦が先だな」	「First comes tomorrow's decisive battle.」
 
-205851	Mouri Motonari	「互いに死ぬかも知れんからな。	「We might die tomorrow.
-205852	+	　カカカカ」	　Kakaka.」
+205851	Mouri Motonari	笑顔	「互いに死ぬかも知れんからな。	「We might die tomorrow.
+205852	+		　カカカカ」	　Kakaka.」
 
-205853	Mouri Motonari	「…………」	「............」
+205853	Mouri Motonari	基本	「…………」	「............」
 
-205854	-	ジッと……	Staring...
-205855	+	いつだって敵意に溢れている元就の瞳が	Motonari's eyes, always full of hostility,
-205856	+	あなたの顔を見つめていた。	were fixed on your face.
+205854	-		ジッと……	Staring...
+205855	+		いつだって敵意に溢れている元就の瞳が	Motonari's eyes, always full of hostility,
+205856	+		あなたの顔を見つめていた。	were fixed on your face.
 
-205857	Mouri Motonari	「大将、死ぬなよ」	「General, don't die.」
+205857	Mouri Motonari		「大将、死ぬなよ」	「General, don't die.」
 
-205858	Mouri Motonari	「オレとて毛利の男。	「I'm a man of the Mouri family too.
-205859	+	　近しい者の死はいつだって覚悟しているが、	　I'm always prepared for the death of those close to me,
-205860	+	　それでもやはり、堪える」	　but it still hurts.」
+205858	Mouri Motonari		「オレとて毛利の男。	「I'm a man of the Mouri family too.
+205859	+		　近しい者の死はいつだって覚悟しているが、	　I'm always prepared for the death of those close to me,
+205860	+		　それでもやはり、堪える」	　but it still hurts.」
 
-205861	Mouri Motonari	「オレはお前が死ぬと嫌だ」	「I don't want you to die.」
+205861	Mouri Motonari		「オレはお前が死ぬと嫌だ」	「I don't want you to die.」
 
-205862	Mouri Motonari	「すごく嫌だ」	「I really don't want that.」
+205862	Mouri Motonari	不満	「すごく嫌だ」	「I really don't want that.」
 
-205863	Mouri Motonari	「もしかしたら泣くかも知れん。	「I might even cry.
-205864	+	　泣くのは格好悪いから嫌だ」	　Crying is uncool so I hate it.」
+205863	Mouri Motonari		「もしかしたら泣くかも知れん。	「I might even cry.
+205864	+		　泣くのは格好悪いから嫌だ」	　Crying is uncool so I hate it.」
 
-205865	Mouri Motonari	「だから死ぬな」	「So don't die.」
+205865	Mouri Motonari	基本	「だから死ぬな」	「So don't die.」
 
-205866	Mouri Motonari	「いいな」	「Got it?」
+205866	Mouri Motonari		「いいな」	「Got it?」
 
-205867	El Mofus	「…………。」	「............」
-205868	Mouri Motonari	「ぐわっはははははは！	「Gwahahahahaha!
-205869	+	　なら、安心だな！」	　Then I'm relieved!」
+205867	El Mofus		「…………。」	「............」
+205868	Mouri Motonari	笑顔	「ぐわっはははははは！	「Gwahahahahaha!
+205869	+		　なら、安心だな！」	　Then I'm relieved!」
 
-205870	Mouri Motonari	「安心したら眠くなってきたぞ！」	「Now that I'm relieved, I'm getting sleepy!」
+205870	Mouri Motonari	基本	「安心したら眠くなってきたぞ！」	「Now that I'm relieved, I'm getting sleepy!」
 
-205871	Mouri Motonari	「だから寝る！！！！」	「So I'm going to sleep!!!!」
+205871	Mouri Motonari		「だから寝る！！！！」	「So I'm going to sleep!!!!」
 
-205872	Mouri Motonari	「ぐわっはははは！	「Gwahahahaha!
-205873	+	　じゃあな、大将！」	　See ya, General!」
+205872	Mouri Motonari	笑顔	「ぐわっはははは！	「Gwahahahaha!
+205873	+		　じゃあな、大将！」	　See ya, General!」
 
-205874	-	深夜にも関わらず高笑いを上げて、	Despite the late hour, he laughed loudly,
-205875	+	元就はのっしのっしと行ってしまった。	and Motonari walked off heavily.
+205874	-		深夜にも関わらず高笑いを上げて、	Despite the late hour, he laughed loudly,
+205875	+		元就はのっしのっしと行ってしまった。	and Motonari walked off heavily.
 
-205876	-	あなたの親友は、どこまでもマイペースだった。	Your best friend was completely carefree.
+205876	-		あなたの親友は、どこまでもマイペースだった。	Your best friend was completely carefree.
 
-205877	-	…………	............
+205877	-		…………	............
 
-205878	-	……	......
+205878	-		……	......
 
-205879	-	あなたは『親友』との	You spent irreplaceable time
-205880	+	かけがえのない時間を過ごした。	with your 'best friend'.
+205879	-		あなたは『親友』との	You spent irreplaceable time
+205880	+		かけがえのない時間を過ごした。	with your 'best friend'.
 
-205881	-	そして……	And then...
+205881	-		そして……	And then...
 
-205882	-	運命の朝を迎える。	You greet the fated morning.
+205882	-		運命の朝を迎える。	You greet the fated morning.

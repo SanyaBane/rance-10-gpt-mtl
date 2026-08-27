@@ -10,309 +10,309 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Cafe Artful	カフェ	Female
 
-22311	Chaos	「あっ」	「Ah.」
+22311	Chaos	基本	「あっ」	「Ah.」
 
-22312	Rance	「ん？　どうかしたか、アホ剣」	「Hmm? Something wrong, stupid sword?」
+22312	Rance		「ん？　どうかしたか、アホ剣」	「Hmm? Something wrong, stupid sword?」
 
-22313	Chaos	「いやーんな予感。ほれ」	「Got a baaaad feeling. Lookie there.」
+22313	Chaos		「いやーんな予感。ほれ」	「Got a baaaad feeling. Lookie there.」
 
-22314	Arios Theoman	「……………………」	「............」
+22314	Arios Theoman		「……………………」	「............」
 
-22315	Rance	「まだやる気か、このくされ勇者が。	「You're still up for it, you rotten Hero?
-22316	+	　どうせお前は俺様には勝てないぞ」	You'll never beat me anyway.」
+22315	Rance		「まだやる気か、このくされ勇者が。	「You're still up for it, you rotten Hero?
+22316	+		　どうせお前は俺様には勝てないぞ」	You'll never beat me anyway.」
 
-22317	Arios Theoman	「……必要なことを、するだけだ」	「...I will simply do what is necessary.」
+22317	Arios Theoman	抜刀	「……必要なことを、するだけだ」	「...I will simply do what is necessary.」
 
-22318	-	背中から引き抜かれた、	Drawn from his back,
-22319	+	勇者の剣エスクードソードが鈍く光る。	the Hero's sword Escudo Sword glows dimly.
+22318	-		背中から引き抜かれた、	Drawn from his back,
+22319	+		勇者の剣エスクードソードが鈍く光る。	the Hero's sword Escudo Sword glows dimly.
 
-22320	Rance	「ふん、貴様のような奴に	「Hmph, I'm not free enough to keep
-22321	+	　いつまでも付き合うほど暇じゃない。	dealing with a guy like you forever.
-22322	+	　よーし、みんなでたこ殴りにするぞ」	Alright, everyone, let's beat him to a pulp.」
+22320	Rance	基本	「ふん、貴様のような奴に	「Hmph, I'm not free enough to keep
+22321	+		　いつまでも付き合うほど暇じゃない。	dealing with a guy like you forever.
+22322	+		　よーし、みんなでたこ殴りにするぞ」	Alright, everyone, let's beat him to a pulp.」
 
-22323	Sill Plain	「え、あ……い、いいんですか、ランス様」	「Eh, ah... Is, is that okay, Rance-sama?」
+22323	Sill Plain	恥	「え、あ……い、いいんですか、ランス様」	「Eh, ah... Is, is that okay, Rance-sama?」
 
-22324	Rance	「あんな外道勇者には何したって構わん。	「I don't care what we do to a deviant Hero like that.
-22325	+	　魔法を片っ端から撃って近寄らせなきゃ楽勝だ」	Just blast him with magic after magic to keep him away, it'll be an easy win.」
+22324	Rance	基本	「あんな外道勇者には何したって構わん。	「I don't care what we do to a deviant Hero like that.
+22325	+		　魔法を片っ端から撃って近寄らせなきゃ楽勝だ」	Just blast him with magic after magic to keep him away, it'll be an easy win.」
 
-22326	Pastel Kalar	「ま……道理よな。妾が消し飛ばしてくれるわ。	「Well... that's reasonable. I shall blow him away myself.
-22327	+	　精々、露払いと盾役を務めるがよい」	You'd best serve as my vanguard and shield.」
+22326	Pastel Kalar	片手間モルルン	「ま……道理よな。妾が消し飛ばしてくれるわ。	「Well... that's reasonable. I shall blow him away myself.
+22327	+		　精々、露払いと盾役を務めるがよい」	You'd best serve as my vanguard and shield.」
 
-22328	Cola	「あー。ま、そうなんですけどねー」	「Ah. Well, I suppose so.」
+22328	Cola	基本	「あー。ま、そうなんですけどねー」	「Ah. Well, I suppose so.」
 
-22329	Rance	「む。またあの従者とかいうクソガキか」	「Hmm. It's that attendant brat again.」
+22329	Rance	真剣	「む。またあの従者とかいうクソガキか」	「Hmm. It's that attendant brat again.」
 
-22330	Cola	「流石にそれはないわ、ってことで。	「That wouldn't be fair, so...
-22331	+	　よっと」	Yoop!」
+22330	Cola	基本	「流石にそれはないわ、ってことで。	「That wouldn't be fair, so...
+22331	+		　よっと」	Yoop!」
 
-22332	Rance	「ぬっ？」	「Ngh?」
+22332	Rance	真剣	「ぬっ？」	「Ngh?」
 
-22333	-	アリオスと、一行の先頭にいたランスを	A faint semi-circular light enveloped Arios
-22334	+	薄い光が半円状に包んだ。	and Rance, who was at the front of the party.
+22333	-		アリオスと、一行の先頭にいたランスを	A faint semi-circular light enveloped Arios
+22334	+		薄い光が半円状に包んだ。	and Rance, who was at the front of the party.
 
-22335	Sill Plain	「ランス様！？」	「Rance-sama?!」
+22335	Sill Plain	慌て	「ランス様！？」	「Rance-sama?!」
 
-22336	Rance	「なんだこりゃ……壁か？	「What the hell is this... a wall?
-22337	+	　ランスキック、キーーーーック！」	RANCE KICK, KIIIIIIIICK!」
+22336	Rance	怒り	「なんだこりゃ……壁か？	「What the hell is this... a wall?
+22337	+		　ランスキック、キーーーーック！」	RANCE KICK, KIIIIIIIICK!」
 
-22338	-	蹴っても殴っても、斬っても破れない。	No matter how much he kicks, punches, or slashes, it won't break.
+22338	-		蹴っても殴っても、斬っても破れない。	No matter how much he kicks, punches, or slashes, it won't break.
 
-22339	Rance	「むう……ダメだな」	「Muu... it's no use.」
+22339	Rance	だる顔	「むう……ダメだな」	「Muu... it's no use.」
 
-22340	Sill Plain	「これ、魔法……ですか？	「Is this... magic?
-22341	+	　見た事無いです、こんなの……！」	I've never seen anything like this...!」
+22340	Sill Plain	慌て	「これ、魔法……ですか？	「Is this... magic?
+22341	+		　見た事無いです、こんなの……！」	I've never seen anything like this...!」
 
-22342	Miracle Tor	「これは……結界か。これほどのものを瞬時に……	「This is... a barrier. To create something like this instantly...
-22343	+	　ほう、ふむ……」	Oho, I see...」
+22342	Miracle Tor	基本	「これは……結界か。これほどのものを瞬時に……	「This is... a barrier. To create something like this instantly...
+22343	+		　ほう、ふむ……」	Oho, I see...」
 
-22344	Cola	「まぁ一応、勇者の戦う場を整えるのは	「Well, preparing the Hero's battlefield
-22345	+	　従者の仕事なんで」	is an attendant's job, after all.」
+22344	Cola		「まぁ一応、勇者の戦う場を整えるのは	「Well, preparing the Hero's battlefield
+22345	+		　従者の仕事なんで」	is an attendant's job, after all.」
 
-22346	Miracle Tor	「……さしもの余でも、解くには時間が掛かるか。	「...Even for me, it would take time to unravel this.
-22347	+	　法王、どうだ」	Pope, what say you?」
+22346	Miracle Tor		「……さしもの余でも、解くには時間が掛かるか。	「...Even for me, it would take time to unravel this.
+22347	+		　法王、どうだ」	Pope, what say you?」
 
-22348	Crook Mofus	「私は無理です」	「It is impossible for me.」
+22348	Crook Mofus		「私は無理です」	「It is impossible for me.」
 
-22349	-	結界をほとんど目に入れないまま、	Hardly looking at the barrier,
-22350	+	クルックーは首を振った。	Crook shook her head.
+22349	-		結界をほとんど目に入れないまま、	Hardly looking at the barrier,
+22350	+		クルックーは首を振った。	Crook shook her head.
 
-22351	Rance	「ちっ、うざい真似を……	「Tch, what annoying tricks...
-22352	+	　仕方ない。直々に殺してやるとするか」	Fine then. I'll personally kill him.」
+22351	Rance		「ちっ、うざい真似を……	「Tch, what annoying tricks...
+22352	+		　仕方ない。直々に殺してやるとするか」	Fine then. I'll personally kill him.」
 
-22353	-	無言で歩み寄ってくるアリオスに対し、	As Arios approached in silence,
-22354	+	ランスもカオスを引き抜いた。	Rance also drew Chaos.
+22353	-		無言で歩み寄ってくるアリオスに対し、	As Arios approached in silence,
+22354	+		ランスもカオスを引き抜いた。	Rance also drew Chaos.
 
-22355	Chaos	「気ぃーつけぇーよ、心の友。	「Be careful, Soul Friend.
-22356	+	　あいつ、また強くなっとるぞい」	That guy has gotten stronger again.」
+22355	Chaos		「気ぃーつけぇーよ、心の友。	「Be careful, Soul Friend.
+22356	+		　あいつ、また強くなっとるぞい」	That guy has gotten stronger again.」
 
-22357	Rance	「抜かせ、ボケ魔剣。俺様があんなのに負けるか」	「Shut up, you senile magic sword. As if I'd lose to someone like him.」
+22357	Rance	真剣	「抜かせ、ボケ魔剣。俺様があんなのに負けるか」	「Shut up, you senile magic sword. As if I'd lose to someone like him.」
 
-22358	Arios Theoman	「お前は…………邪魔だ、ランス……！」	「You are... in the way, Rance...!」
+22358	Arios Theoman	抜刀	「お前は…………邪魔だ、ランス……！」	「You are... in the way, Rance...!」
 
-22359	-	アリオスが疾走する。	Arios dashes forward.
-22360	+	そのまま、剣を構えた瞬間……	Then, at the very moment he readies his sword...
+22359	-		アリオスが疾走する。	Arios dashes forward.
+22360	+		そのまま、剣を構えた瞬間……	Then, at the very moment he readies his sword...
 
-22361	Rance	「不意打ちランスアタタタタターーーーーック！！」	「SURPRISE ATTACK RANCE ATTACKTATATATA!!」
+22361	Rance	怒り	「不意打ちランスアタタタタターーーーーック！！」	「SURPRISE ATTACK RANCE ATTACKTATATATA!!」
 
-22362	Arios Theoman	「………………」	「............」
+22362	Arios Theoman	抜刀	「………………」	「............」
 
-22363	-	衝撃波が炸裂する。	The shockwave explodes.
-22364	+	だが、アリオスは表情を動かさず、地を蹴った。	However, Arios doesn't change his expression and kicks off the ground.
-22365	+	その間合い、実に衝撃の効果半径から指一本程度。	His position was truly only a finger's width away from the shockwave's effective radius.
+22363	-		衝撃波が炸裂する。	The shockwave explodes.
+22364	+		だが、アリオスは表情を動かさず、地を蹴った。	However, Arios doesn't change his expression and kicks off the ground.
+22365	+		その間合い、実に衝撃の効果半径から指一本程度。	His position was truly only a finger's width away from the shockwave's effective radius.
 
-22366	Rance	「げっ……！」	「Geh...!」
+22366	Rance	驚き	「げっ……！」	「Geh...!」
 
-22367	-	跳躍したアリオスは衝撃波をすり抜けるようにして	Leaping through the air as if slipping past the shockwave,
-22368	+	ランスに肉薄し、そのまま刃が振り上げられる。	Arios closes in on Rance, raising his blade.
+22367	-		跳躍したアリオスは衝撃波をすり抜けるようにして	Leaping through the air as if slipping past the shockwave,
+22368	+		ランスに肉薄し、そのまま刃が振り上げられる。	Arios closes in on Rance, raising his blade.
 
-22369	Arios Theoman	「は、あああぁぁああっ！」	「Ha, aaaaaaaah!」
+22369	Arios Theoman	抜刀	「は、あああぁぁああっ！」	「Ha, aaaaaaaah!」
 
-22370	Rance	「ちっ、この野郎……！」	「Tch, you bastard...!」
+22370	Rance	イライラ	「ちっ、この野郎……！」	「Tch, you bastard...!」
 
-22371	-	叩きつけられるエスクードソードを、	Chaos barely manages to catch
-22372	+	カオスが辛くも受けた。	the slammed-down Escudo Sword.
+22371	-		叩きつけられるエスクードソードを、	Chaos barely manages to catch
+22372	+		カオスが辛くも受けた。	the slammed-down Escudo Sword.
 
-22373	Rance	「っ、ちいい、めんどくさい奴だ……！	「Ngh, damn, such a troublesome guy...!
-22374	+	　奇襲失敗か！　運の良い奴！」	The surprise attack failed?! Lucky bastard!」
+22373	Rance	基本	「っ、ちいい、めんどくさい奴だ……！	「Ngh, damn, such a troublesome guy...!
+22374	+		　奇襲失敗か！　運の良い奴！」	The surprise attack failed?! Lucky bastard!」
 
-22375	-	更に力押しとも見える強引さで押し込むアリオスを、	As Arios pushes in with brute-force-like aggression,
-22376	+	ランスは崩れた体勢と痺れる手で守勢に回る。	Rance goes on the defensive with a broken stance and numbed hands.
+22375	-		更に力押しとも見える強引さで押し込むアリオスを、	As Arios pushes in with brute-force-like aggression,
+22376	+		ランスは崩れた体勢と痺れる手で守勢に回る。	Rance goes on the defensive with a broken stance and numbed hands.
 
-22377	Chaos	「あー、いかんのー。前からそうかと思ったけど、	「Ah, no good. I thought so before, but
-22378	+	　かーんぜんに見切られとるのう、その必殺技」	he's completely seen through that special move.」
+22377	Chaos		「あー、いかんのー。前からそうかと思ったけど、	「Ah, no good. I thought so before, but
+22378	+		　かーんぜんに見切られとるのう、その必殺技」	he's completely seen through that special move.」
 
-22379	Rance	「ええい……！　なんとかしろ！」	「Grrr...! Do something!」
+22379	Rance		「ええい……！　なんとかしろ！」	「Grrr...! Do something!」
 
-22380	Chaos	「出来んって。儂、ただのグレイトワンダフルな	「I can't. I'm just a Great Wonderful
-22381	+	　ナイスガイブレードってだけじゃもん」	Nice Guy Blade, after all.」
+22380	Chaos		「出来んって。儂、ただのグレイトワンダフルな	「I can't. I'm just a Great Wonderful
+22381	+		　ナイスガイブレードってだけじゃもん」	Nice Guy Blade, after all.」
 
-22382	Rance	「へし折るぞ貴様！」	「I'll snap you in half!」
+22382	Rance		「へし折るぞ貴様！」	「I'll snap you in half!」
 
-22383	Chaos	「いやー、あんたこの状況でそれが言えるって、	「Wow, the fact that you can say that in this situation
-22384	+	　大したもんじゃわ」	is really something else.」
+22383	Chaos		「いやー、あんたこの状況でそれが言えるって、	「Wow, the fact that you can say that in this situation
+22384	+		　大したもんじゃわ」	is really something else.」
 
-22385	Rance	「ちっ……！」	「Tch...!」
+22385	Rance		「ちっ……！」	「Tch...!」
 
-22386	-	一撃一撃が必殺の威力を秘めた刃が、	Blades concealing lethal force in every strike
-22387	+	ランスを縦横に襲う。	assault Rance from all directions.
+22386	-		一撃一撃が必殺の威力を秘めた刃が、	Blades concealing lethal force in every strike
+22387	+		ランスを縦横に襲う。	assault Rance from all directions.
 
-22388	-	首元への薙ぎ払いを受け、胴への突きを捌き、	He blocks a sweep to his neck, parries a thrust to his torso,
-22389	+	足を斬り飛ばそうとする一閃を跳躍して避ける。	and leaps to avoid a flash aiming to sever his legs.
+22388	-		首元への薙ぎ払いを受け、胴への突きを捌き、	He blocks a sweep to his neck, parries a thrust to his torso,
+22389	+		足を斬り飛ばそうとする一閃を跳躍して避ける。	and leaps to avoid a flash aiming to sever his legs.
 
-22390	Rance	「だああぁっ！　ええい、忙しすぎる！」	「Daaaaaah! Argh, too busy!」
+22390	Rance		「だああぁっ！　ええい、忙しすぎる！」	「Daaaaaah! Argh, too busy!」
 
-22391	Chaos~	（しかしまあ、苦手な防御をよくこなすもんだ。	（But still, he handles his weak point of defense quite well.）
-22392	+	　この勇者、並の者じゃ戦いにならんほど強いのに）	（Even though this Hero is so strong that an average person wouldn't even stand a chance.）
+22391	Chaos~		（しかしまあ、苦手な防御をよくこなすもんだ。	（But still, he handles his weak point of defense quite well.）
+22392	+		　この勇者、並の者じゃ戦いにならんほど強いのに）	（Even though this Hero is so strong that an average person wouldn't even stand a chance.）
 
-22393	Alkanese Rize	「ちょっ……う、動き、速っ……！	「Wait... th-they're so fast...!
-22394	+	　どっちも、何やってるかよく分かんねー……！」	I can't even tell what either of them is doing...!」
+22393	Alkanese Rize		「ちょっ……う、動き、速っ……！	「Wait... th-they're so fast...!
+22394	+		　どっちも、何やってるかよく分かんねー……！」	I can't even tell what either of them is doing...!」
 
-22395	Cafe Artful	「うわ……日光さんやブリティシュを	「Wow... this reminds me
-22396	+	　思い出すわー……」	of Nikkou-san and British...」
+22395	Cafe Artful		「うわ……日光さんやブリティシュを	「Wow... this reminds me
+22396	+		　思い出すわー……」	of Nikkou-san and British...」
 
-22397	Sill Plain	（ランス様……頑張って、ランス様……）	（Rance-sama... good luck, Rance-sama...）
+22397	Sill Plain		（ランス様……頑張って、ランス様……）	（Rance-sama... good luck, Rance-sama...）
 
-22398	Rance	「ッ、この！」	「Ngh, take this!」
+22398	Rance		「ッ、この！」	「Ngh, take this!」
 
-22399	-	肩口を斬り飛ばすような勇者の一刀を、辛うじて身を捻って避ける。	He barely manages to twist his body to avoid the Hero's strike aiming to sever his shoulder.
-22400	+	マントの毛皮が犠牲になって、宙に数本舞う。	Several strands of fur from his cloak are sacrificed, dancing in the air.
+22399	-		肩口を斬り飛ばすような勇者の一刀を、辛うじて身を捻って避ける。	He barely manages to twist his body to avoid the Hero's strike aiming to sever his shoulder.
+22400	+		マントの毛皮が犠牲になって、宙に数本舞う。	Several strands of fur from his cloak are sacrificed, dancing in the air.
 
-22401	-	その切っ先が再び持ち上がる寸前を突いて、	Seizing the moment just before the blade is raised again,
-22402	+	ランスが斬りかかった。	Rance slashes back.
+22401	-		その切っ先が再び持ち上がる寸前を突いて、	Seizing the moment just before the blade is raised again,
+22402	+		ランスが斬りかかった。	Rance slashes back.
 
-22403	Arios Theoman	「く……！」	「Ngh...!」
+22403	Arios Theoman	抜刀	「く……！」	「Ngh...!」
 
-22404	-	頭を叩き潰さんばかりの勢いで、	Chaos is swung down with enough force
-22405	+	カオスが振り下ろされる。	to crush his head.
+22404	-		頭を叩き潰さんばかりの勢いで、	Chaos is swung down with enough force
+22405	+		カオスが振り下ろされる。	to crush his head.
 
-22406	-	並の剣ならば叩き折られるだろうその一撃を、	Escudo Sword parries that blow,
-22407	+	エスクードソードが弾く。	which would have snapped an ordinary sword.
+22406	-		並の剣ならば叩き折られるだろうその一撃を、	Escudo Sword parries that blow,
+22407	+		エスクードソードが弾く。	which would have snapped an ordinary sword.
 
-22408	Chaos	「うっほ。こっちの剣も業物じゃな。	「Oho. That sword is a masterpiece too.
-22409	+	　儂といい勝負しそう。やるねキミ」	Looks like it can go toe-to-toe with me. Not bad, kid.」
+22408	Chaos	基本	「うっほ。こっちの剣も業物じゃな。	「Oho. That sword is a masterpiece too.
+22409	+		　儂といい勝負しそう。やるねキミ」	Looks like it can go toe-to-toe with me. Not bad, kid.」
 
-22410	Rance	「ええい、鬱陶しい……！」	「Argh, annoying...!」
+22410	Rance		「ええい、鬱陶しい……！」	「Argh, annoying...!」
 
-22411	-	アリオスはそのまま剣を滑らせて手指を狙うが、	Arios slides his sword down aiming for the fingers,
-22412	+	ランスは強引に打ち払ってそれを阻止する。	but Rance forcefully bats it away to prevent it.
+22411	-		アリオスはそのまま剣を滑らせて手指を狙うが、	Arios slides his sword down aiming for the fingers,
+22412	+		ランスは強引に打ち払ってそれを阻止する。	but Rance forcefully bats it away to prevent it.
 
-22413	Chaos	「我慢比べじゃのー。ま、強者同士だと	「It's a contest of endurance. Well, when powerhouses clash,
-22414	+	　だいたいはそうなるが……」	it usually turns out this way...」
+22413	Chaos		「我慢比べじゃのー。ま、強者同士だと	「It's a contest of endurance. Well, when powerhouses clash,
+22414	+		　だいたいはそうなるが……」	it usually turns out this way...」
 
-22415	Rance	「…………………………」	「......................」
+22415	Rance		「…………………………」	「......................」
 
-22416	-	アリオスは素早く体勢を立て直し、	Arios quickly recovers his stance,
-22417	+	精緻な足捌きで間合いを計り……	measuring the distance with precise footwork...
+22416	-		アリオスは素早く体勢を立て直し、	Arios quickly recovers his stance,
+22417	+		精緻な足捌きで間合いを計り……	measuring the distance with precise footwork...
 
-22418	Rance	「やかましいわ、この駄剣が！」	「Shut up, you trash sword!」
+22418	Rance		「やかましいわ、この駄剣が！」	「Shut up, you trash sword!」
 
-22419	Chaos	「――――へ？」	「----Huh?」
+22419	Chaos		「――――へ？」	「----Huh?」
 
-22420	Arios Theoman	「…………っ！？」	「...Ngh!?」
+22420	Arios Theoman	抜刀	「…………っ！？」	「...Ngh!?」
 
-22421	-	……イライラが沸点に達したランスに、	...The magic sword was thrown at him
-22422	+	魔剣を投げつけられた。	by Rance, whose irritation had reached its boiling point.
+22421	-		……イライラが沸点に達したランスに、	...The magic sword was thrown at him
+22422	+		魔剣を投げつけられた。	by Rance, whose irritation had reached its boiling point.
 
-22423	Arios Theoman	「な……んだとっ……！？」	「Wh... what...!?」
+22423	Arios Theoman		「な……んだとっ……！？」	「Wh... what...!?」
 
-22424	Chaos	「にょ、にょわーーーー！？」	「Nyo, nyowaahhhhhh?!」
+22424	Chaos	基本	「にょ、にょわーーーー！？」	「Nyo, nyowaahhhhhh?!」
 
-22425	-	あまりの事態に、アリオスの反応が僅かに遅れた。	At the sheer absurdity, Arios's reaction is slightly delayed.
-22426	+	それでも回転しながら飛ぶカオスを剣で受け止め、叩き落とす。	Even so, he catches the spinning Chaos with his sword and bats it down.
+22425	-		あまりの事態に、アリオスの反応が僅かに遅れた。	At the sheer absurdity, Arios's reaction is slightly delayed.
+22426	+		それでも回転しながら飛ぶカオスを剣で受け止め、叩き落とす。	Even so, he catches the spinning Chaos with his sword and bats it down.
 
-22427	Rance	「お前の喋りが鬱陶しいのだ、馬鹿剣めが！」	「It's your constant talking that's annoying, you stupid sword!」
+22427	Rance		「お前の喋りが鬱陶しいのだ、馬鹿剣めが！」	「It's your constant talking that's annoying, you stupid sword!」
 
-22428	-	言いながら、ランスは駆け込んで	As he speaks, Rance rushes in
-22429	+	アリオスの懐に入りこむ。	and enters Arios's guard.
+22428	-		言いながら、ランスは駆け込んで	As he speaks, Rance rushes in
+22429	+		アリオスの懐に入りこむ。	and enters Arios's guard.
 
-22430	Arios Theoman	「…………っ！」	「...Ngh!」
+22430	Arios Theoman	抜刀	「…………っ！」	「...Ngh!」
 
-22431	Rance	「ラーーーンスライディングーー！」	「RANCE SLIDINGGGGG!」
+22431	Rance	基本	「ラーーーンスライディングーー！」	「RANCE SLIDINGGGGG!」
 
-22432	-	横薙ぎに一閃されたアリオスの剣をくぐり、	Ducking under Arios's horizontal slash,
-22433	+	ランスの足がアリオスの足首を蹴りつける。	Rance's foot kicks Arios's ankle.
+22432	-		横薙ぎに一閃されたアリオスの剣をくぐり、	Ducking under Arios's horizontal slash,
+22433	+		ランスの足がアリオスの足首を蹴りつける。	Rance's foot kicks Arios's ankle.
 
-22434	Arios Theoman	「っ……！　そんな真似を、っ……！」	「Ngh...! To do such a thing...!」
+22434	Arios Theoman	抜刀	「っ……！　そんな真似を、っ……！」	「Ngh...! To do such a thing...!」
 
-22435	Rance	「がはははは、奇襲成功！」	「Gah-hahahaha, surprise attack successful!」
+22435	Rance	基本	「がはははは、奇襲成功！」	「Gah-hahahaha, surprise attack successful!」
 
-22436	Chaos	「にょ、にょわにょわ……おおっと」	「Nyo, nyowa-nyowa... oopsie.」
+22436	Chaos		「にょ、にょわにょわ……おおっと」	「Nyo, nyowa-nyowa... oopsie.」
 
-22437	-	同時にカオスを拾い上げ、身体を跳ね起こす。	He picks up Chaos while springing his body back up.
-22438	+	切っ先に体重を乗せて、膝をついたアリオスの胴めがけて突き込む。	Putting his weight into the tip, he thrusts toward the torso of the kneeling Arios.
+22437	-		同時にカオスを拾い上げ、身体を跳ね起こす。	He picks up Chaos while springing his body back up.
+22438	+		切っ先に体重を乗せて、膝をついたアリオスの胴めがけて突き込む。	Putting his weight into the tip, he thrusts toward the torso of the kneeling Arios.
 
-22439	Arios Theoman	「ぐっ……！」	「Guh...!」
+22439	Arios Theoman	抜刀	「ぐっ……！」	「Guh...!」
 
-22440	-	身を捻るが間に合わず、アリオスは脇腹を抉られる。	He twists his body but isn't fast enough; Arios's flank is gouged.
-22441	+	だが逃げようとはせず、踏み込みと同時に首を狙う。	However, he doesn't try to flee, aiming for the neck as he steps in.
+22440	-		身を捻るが間に合わず、アリオスは脇腹を抉られる。	He twists his body but isn't fast enough; Arios's flank is gouged.
+22441	+		だが逃げようとはせず、踏み込みと同時に首を狙う。	However, he doesn't try to flee, aiming for the neck as he steps in.
 
-22442	Rance	「ちっ……！」	「Tch...!」
+22442	Rance	基本	「ちっ……！」	「Tch...!」
 
-22443	-	ランスから、鮮血がほとばしった。	Fresh blood spurts from Rance.
-22444	+	反射的にかざした右腕が、勇者の刃に深々と切り裂かれていた。	The right arm he instinctively raised was deeply slashed by the Hero's blade.
+22443	-		ランスから、鮮血がほとばしった。	Fresh blood spurts from Rance.
+22444	+		反射的にかざした右腕が、勇者の刃に深々と切り裂かれていた。	The right arm he instinctively raised was deeply slashed by the Hero's blade.
 
-22445	-	だがランスは半歩の体捌きで致命傷を避けつつ、	However, Rance avoids a fatal wound with a half-step maneuver,
-22446	+	カオスの切っ先でアリオスの右腿を貫いた。	piercing Arios's right thigh with the tip of Chaos.
+22445	-		だがランスは半歩の体捌きで致命傷を避けつつ、	However, Rance avoids a fatal wound with a half-step maneuver,
+22446	+		カオスの切っ先でアリオスの右腿を貫いた。	piercing Arios's right thigh with the tip of Chaos.
 
-22447	Arios Theoman	「がッ…………！」	「Gah...!」
+22447	Arios Theoman	抜刀	「がッ…………！」	「Gah...!」
 
-22448	-	鮮血が舞い、アリオスが体勢を崩す。	Fresh blood dances as Arios loses his balance.
+22448	-		鮮血が舞い、アリオスが体勢を崩す。	Fresh blood dances as Arios loses his balance.
 
-22449	-	その右脚は両断こそされていないが、	His right leg hasn't been severed,
-22450	+	溢れるほどの流血が地面を濡らして止まらない。	but an overflowing amount of blood wets the ground without stopping.
+22449	-		その右脚は両断こそされていないが、	His right leg hasn't been severed,
+22450	+		溢れるほどの流血が地面を濡らして止まらない。	but an overflowing amount of blood wets the ground without stopping.
 
-22451	Rance	「がはははは、これで、逃げ場はあるまいっ……！」	「Gah-hahahaha, now you have nowhere left to run...!」
+22451	Rance	基本	「がはははは、これで、逃げ場はあるまいっ……！」	「Gah-hahahaha, now you have nowhere left to run...!」
 
-22452	Arios Theoman	「っ、の、程度で、退くかっ……！」	「Ngh, as if I'd retreat after only this much...!」
+22452	Arios Theoman	抜刀	「っ、の、程度で、退くかっ……！」	「Ngh, as if I'd retreat after only this much...!」
 
-22453	-	エスクードソードが、こめかみの肉をそぎ飛ばす。	Escudo Sword shears flesh from his temple.
-22454	+	魔剣カオスが、鎖骨を貫く。	The magic sword Chaos pierces a collarbone.
+22453	-		エスクードソードが、こめかみの肉をそぎ飛ばす。	Escudo Sword shears flesh from his temple.
+22454	+		魔剣カオスが、鎖骨を貫く。	The magic sword Chaos pierces a collarbone.
 
-22455	-	ランスもアリオスも既に相手の剣を防ごうとはせず、	Neither Rance nor Arios is even trying to block the other's sword anymore,
-22456	+	ほんのわずかな動きで即死から逃れつつ、相手を斬り刻んでいく。	carving each other up while narrowly avoiding instant death with minimal movements.
+22455	-		ランスもアリオスも既に相手の剣を防ごうとはせず、	Neither Rance nor Arios is even trying to block the other's sword anymore,
+22456	+		ほんのわずかな動きで即死から逃れつつ、相手を斬り刻んでいく。	carving each other up while narrowly avoiding instant death with minimal movements.
 
-22457	Arios Theoman	「死ね、ランス、ッ……！」	「Die, Rance...!」
+22457	Arios Theoman		「死ね、ランス、ッ……！」	「Die, Rance...!」
 
-22458	-	アリオスの、既に満足に動かない左腕が	Arios's left arm, already failing to move properly,
-22459	+	強引に打ち振られた。	is swung with brute force.
+22458	-		アリオスの、既に満足に動かない左腕が	Arios's left arm, already failing to move properly,
+22459	+		強引に打ち振られた。	is swung with brute force.
 
-22460	Rance	「ぐぉっ！？」	「Guoh?!」
+22460	Rance	基本	「ぐぉっ！？」	「Guoh?!」
 
-22461	-	アリオスの手に溜まっていた鮮血が、	Fresh blood pooled in Arios's hand
-22462	+	ランスの視界を紅く染める。	stains Rance's vision crimson.
+22461	-		アリオスの手に溜まっていた鮮血が、	Fresh blood pooled in Arios's hand
+22462	+		ランスの視界を紅く染める。	stains Rance's vision crimson.
 
-22463	Rance	「勇者が、目潰しだとっ……！」	「The Hero is using a blinding attack...!」
+22463	Rance		「勇者が、目潰しだとっ……！」	「The Hero is using a blinding attack...!」
 
-22464	Arios Theoman	「――――弐式…………ショウキッッ！！」	「----Second Style... SHOUKI!!」
+22464	Arios Theoman	抜刀	「――――弐式…………ショウキッッ！！」	「----Second Style... SHOUKI!!」
 
-22465	Rance	「舐めるな、雑魚がっ……！　とーーーーーー！！」	「Don't underestimate me, you trash...! Toooooo!!」
+22465	Rance	基本	「舐めるな、雑魚がっ……！　とーーーーーー！！」	「Don't underestimate me, you trash...! Toooooo!!」
 
-22466	-	ランスの胸を、エスクードソードが貫いていた。	Escudo Sword had pierced through Rance's chest.
+22466	-		ランスの胸を、エスクードソードが貫いていた。	Escudo Sword had pierced through Rance's chest.
 
-22467	-	だが同時に、カオスの刃が	But at the same time, Chaos's blade
-22468	+	アリオスの胴を半ば両断していた。	had sliced halfway through Arios's torso.
+22467	-		だが同時に、カオスの刃が	But at the same time, Chaos's blade
+22468	+		アリオスの胴を半ば両断していた。	had sliced halfway through Arios's torso.
 
-22469	Sill Plain	「――――――！　ラ、ランス様ッ！」	「------! R-Rance-sama!」
+22469	Sill Plain		「――――――！　ラ、ランス様ッ！」	「------! R-Rance-sama!」
 
-22470	Rance	「……………………」	「............」
+22470	Rance		「……………………」	「............」
 
-22471	Arios Theoman	「……………………」	「............」
+22471	Arios Theoman	抜刀	「……………………」	「............」
 
-22472	-	時間が止まったかのように、	As if time had stopped,
-22473	+	両者は動きを止めていた。	both of them had ceased moving.
+22472	-		時間が止まったかのように、	As if time had stopped,
+22473	+		両者は動きを止めていた。	both of them had ceased moving.
 
-22474	-	そして……互いを睨みつけたまま、崩れ落ちた。	And then... while glaring at each other, they collapsed.
+22474	-		そして……互いを睨みつけたまま、崩れ落ちた。	And then... while glaring at each other, they collapsed.
 
-22475	-	二人分とは思えないほど大量の血が、	An amount of blood so massive it seemed more than what two people could hold
-22476	+	混じり合ってその場に広がっていく。	mingled and spread across the ground.
+22475	-		二人分とは思えないほど大量の血が、	An amount of blood so massive it seemed more than what two people could hold
+22476	+		混じり合ってその場に広がっていく。	mingled and spread across the ground.
 
-22477	Cola	「あーあ。あーあ。相打ちかあ……	「Ah well. Ah well. A mutual kill, huh...
-22478	+	　今回はここまでですねー」	I guess this is as far as it goes this time.」
+22477	Cola	基本	「あーあ。あーあ。相打ちかあ……	「Ah well. Ah well. A mutual kill, huh...
+22478	+		　今回はここまでですねー」	I guess this is as far as it goes this time.」
 
-22479	-	未だ消えない結界の中、	Into the still-standing barrier,
-22480	+	コーラが気楽な様子で踏み入った。	Cola stepped with a carefree air.
+22479	-		未だ消えない結界の中、	Into the still-standing barrier,
+22480	+		コーラが気楽な様子で踏み入った。	Cola stepped with a carefree air.
 
-22481	-	そして倒れ伏したままのランスを仰向けにすると、	And then, turning the fallen Rance onto his back,
-22482	+	エスクードソードを引き抜く。	she pulls out the Escudo Sword.
+22481	-		そして倒れ伏したままのランスを仰向けにすると、	And then, turning the fallen Rance onto his back,
+22482	+		エスクードソードを引き抜く。	she pulls out the Escudo Sword.
 
-22483	Cola	「馬鹿だなー、アリオス。…………よいしょっと。	「You fool, Arios. ...Yoop.
-22484	+	　うわ、重っ」	Whoa, it's heavy.」
+22483	Cola		「馬鹿だなー、アリオス。…………よいしょっと。	「You fool, Arios. ...Yoop.
+22484	+		　うわ、重っ」	Whoa, it's heavy.」
 
-22485	-	更にアリオスを担ぐと、コーラは飄々と姿を消した。	Further hoisting Arios onto her shoulder, Cola drifted away and vanished.
+22485	-		更にアリオスを担ぐと、コーラは飄々と姿を消した。	Further hoisting Arios onto her shoulder, Cola drifted away and vanished.
 
-22486	Sill Plain	「ランス様！　ランス様…………きゃっ！？」	「Rance-sama! Rance-sama... Kyaa?!」
+22486	Sill Plain	恥	「ランス様！　ランス様…………きゃっ！？」	「Rance-sama! Rance-sama... Kyaa?!」
 
-22487	-	結界を叩き続けていたシィルの体が、	Sill's body, which had been pounding on the barrier,
-22488	+	不意に中へと入り込んだ。	unexpectedly fell inside.
+22487	-		結界を叩き続けていたシィルの体が、	Sill's body, which had been pounding on the barrier,
+22488	+		不意に中へと入り込んだ。	unexpectedly fell inside.
 
-22489	Miracle Tor	「結界が消えたか」	「So the barrier has vanished.」
+22489	Miracle Tor	基本	「結界が消えたか」	「So the barrier has vanished.」
 
-22490	Sill Plain	「ランス様！」	「Rance-sama!」
+22490	Sill Plain	恥	「ランス様！」	「Rance-sama!」
 
-22491	-	一目散に駆け寄ったシィルだが、	Sill rushed over as fast as she could, but
-22492	+	ランスは倒れ込んだまま動かない。動きようがない。	Rance remained fallen and motionless. He couldn't move.
+22491	-		一目散に駆け寄ったシィルだが、	Sill rushed over as fast as she could, but
+22492	+		ランスは倒れ込んだまま動かない。動きようがない。	Rance remained fallen and motionless. He couldn't move.
 
-22493	-	ランスの心臓は、完全に鼓動を止めていた。	Rance's heart had completely stopped beating.
+22493	-		ランスの心臓は、完全に鼓動を止めていた。	Rance's heart had completely stopped beating.
 
-22494	Sill Plain	「あ、あ、あ…………！	「A-ah, ah...!
-22495	+	　ど、どんどん、冷たくなって……！」	H-he's getting colder and colder...!」
+22494	Sill Plain	泣き	「あ、あ、あ…………！	「A-ah, ah...!
+22495	+		　ど、どんどん、冷たくなって……！」	H-he's getting colder and colder...!」

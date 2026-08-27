@@ -4,71 +4,71 @@
 * Sill Plain	シィル	Female
 * Kentou Kanami	かなみ	Female
 
-45215	-	なんとなく、口数が多くならないまま、	Somehow, without talking much,
-45216	+	ランス一行はマークを目指して進んでいた。	Rance's group continued toward Mark.
+45215	-		なんとなく、口数が多くならないまま、	Somehow, without talking much,
+45216	+		ランス一行はマークを目指して進んでいた。	Rance's group continued toward Mark.
 
-45217	Satella	「しかし……次はメディウサが相手か……」	「However... Next is Medusa...」
+45217	Satella	思考	「しかし……次はメディウサが相手か……」	「However... Next is Medusa...」
 
-45218	-	ぽつりと、魔人サテラが呟いた。	Fiend Satella muttered quietly.
+45218	-		ぽつりと、魔人サテラが呟いた。	Fiend Satella muttered quietly.
 
-45219	Rance	「おう。お前、あの蛇女のこと何か知らないのか」	「Yeah. Do you know anything about that snake woman?」
+45219	Rance	真剣	「おう。お前、あの蛇女のこと何か知らないのか」	「Yeah. Do you know anything about that snake woman?」
 
-45220	Satella	「……多少ならな。厄介な奴だ」	「...A bit. She's a troublesome one.」
+45220	Satella	不安	「……多少ならな。厄介な奴だ」	「...A bit. She's a troublesome one.」
 
-45221	-	サテラはうそ寒い表情で、肩を震わせた。	Satella shivered with a pale expression.
+45221	-		サテラはうそ寒い表情で、肩を震わせた。	Satella shivered with a pale expression.
 
-45222	Satella	「女の子モンスターの、へびさん出身の魔人だ。	「She's a Fiend from the snake monster girls.
-45223	+	　性格は……見た通りの悪趣味だ」	　Her personality... is as sick as she looks.」
+45222	Satella	思考	「女の子モンスターの、へびさん出身の魔人だ。	「She's a Fiend from the snake monster girls.
+45223	+		　性格は……見た通りの悪趣味だ」	　Her personality... is as sick as she looks.」
 
-45224	Rance	「レズなのか？」	「Is she a lesbian?」
+45224	Rance	だる顔	「レズなのか？」	「Is she a lesbian?」
 
-45225	Satella	「……男に興味を持った事はないらしいが……	「...She doesn't seem interested in men, but...
-45226	+	　そういう言葉では表現できないぞ」	　It's not something that simple.」
+45225	Satella	不安	「……男に興味を持った事はないらしいが……	「...She doesn't seem interested in men, but...
+45226	+		　そういう言葉では表現できないぞ」	　It's not something that simple.」
 
-45227	Satella	「普段は怠け者だけど、残虐。捕まったら最後だ。	「She's usually lazy but extremely cruel. Once caught, it's over.
-45228	+	　…………サテラも狙われたことがある」	　...Even Satella was targeted once.」
+45227	Satella	思考	「普段は怠け者だけど、残虐。捕まったら最後だ。	「She's usually lazy but extremely cruel. Once caught, it's over.
+45228	+		　…………サテラも狙われたことがある」	　...Even Satella was targeted once.」
 
-45229	Rance	「なんだと？」	「What?」
+45229	Rance	驚き	「なんだと？」	「What?」
 
-45230	Satella	「メガラスが来てくれたから、助かった。	「I was saved because Megalas came.
-45231	+	　メディウサ自身もめちゃめちゃに強いが、	　Medusa herself is insanely strong,
-45232	+	　執事のアレフガルドが厄介だ」	　but her butler Alefgard is the real problem.」
+45230	Satella	思考	「メガラスが来てくれたから、助かった。	「I was saved because Megalas came.
+45231	+		　メディウサ自身もめちゃめちゃに強いが、	　Medusa herself is insanely strong,
+45232	+		　執事のアレフガルドが厄介だ」	　but her butler Alefgard is the real problem.」
 
-45233	Rance	「誰だそれは。女か？」	「Who is that? A woman?」
+45233	Rance	真剣	「誰だそれは。女か？」	「Who is that? A woman?」
 
-45234	Satella	「……男だ。たぶん。	「...A man. Probably.
-45235	+	　主のためならなんでもするし、できる。	　He'll do anything for his master.
-45236	+	　お前の所にもメイドがいるだろ」	　You have a maid too, right?」
+45234	Satella	不安	「……男だ。たぶん。	「...A man. Probably.
+45235	+		　主のためならなんでもするし、できる。	　He'll do anything for his master.
+45236	+		　お前の所にもメイドがいるだろ」	　You have a maid too, right?」
 
-45237	Rance	「ああ……ビスケッタさんか」	「Yeah... Biscuitta-san.」
+45237	Rance	基本	「ああ……ビスケッタさんか」	「Yeah... Biscuitta-san.」
 
-45238	Satella	「あいつより節操なくなんでもできると思えばいい。	「Think of him as even less scrupulous than her.
-45239	+	　主の入った迷宮の罠や仕掛けを全部外すとか。	　He can remove all traps in his master's labyrinth,
-45240	+	　狙った相手を探して捕まえる、とかな」	　and catch any target.」
+45238	Satella		「あいつより節操なくなんでもできると思えばいい。	「Think of him as even less scrupulous than her.
+45239	+		　主の入った迷宮の罠や仕掛けを全部外すとか。	　He can remove all traps in his master's labyrinth,
+45240	+		　狙った相手を探して捕まえる、とかな」	　and catch any target.」
 
-45241	Sill Plain	「あの……すごく強いって事ですか？」	「Um... Is he very strong?」
+45241	Sill Plain	考え中	「あの……すごく強いって事ですか？」	「Um... Is he very strong?」
 
-45242	Satella	「ええと……そうじゃない。	「Well... Not exactly strong.
-45243	+	　そうじゃないが……あいつからは、	　But... No one can escape from him.」
-45244	+	　誰も逃げられないだろうな」	
+45242	Satella	思考	「ええと……そうじゃない。	「Well... Not exactly strong.
+45243	+		　そうじゃないが……あいつからは、	　But... No one can escape from him.」
+45244	+		　誰も逃げられないだろうな」	
 
-45245	Rance	「……よく分からん」	「...I don't really get it.」
+45245	Rance	だる顔	「……よく分からん」	「...I don't really get it.」
 
-45246	Satella	「仕方ないだろう！	「It can't be helped!
-45247	+	　サテラだって上手く説明ができないんだ！	　Even Satella can't explain it well!
-45248	+	　とにかく、どちらも危険な奴だ」	　Anyway, both are dangerous.」
+45246	Satella	怒り	「仕方ないだろう！	「It can't be helped!
+45247	+		　サテラだって上手く説明ができないんだ！	　Even Satella can't explain it well!
+45248	+		　とにかく、どちらも危険な奴だ」	　Anyway, both are dangerous.」
 
-45249	Satella	「甘い考えでいると……今度こそ危ないぞ」	「If you underestimate them... it'll be really dangerous this time.」
+45249	Satella	不安	「甘い考えでいると……今度こそ危ないぞ」	「If you underestimate them... it'll be really dangerous this time.」
 
-45250	Rance	「がはははは、そう心配するな。	「Gahahahaha, don't worry so much.
-45251	+	　俺様が何とかしてやる」	　I'll handle it.」
+45250	Rance	笑顔	「がはははは、そう心配するな。	「Gahahahaha, don't worry so much.
+45251	+		　俺様が何とかしてやる」	　I'll handle it.」
 
-45252	Satella	「なっ！　し、心配だと！？	「Wha! W-worried!?
-45253	+	　サテラがするか、お前なんかに！」	　As if Satella would worry about you!」
+45252	Satella	ツンデレ	「なっ！　し、心配だと！？	「Wha! W-worried!?
+45253	+		　サテラがするか、お前なんかに！」	　As if Satella would worry about you!」
 
-45254	Rance	「がははは、よーし急ぐぞ。	「Gahahaha, alright let's hurry.
-45255	+	　あの蛇女にこれ以上はやらせん。	　I won't let that snake bitch do any more.
-45256	+	　ゼスの可愛い女の子は俺のものなのだ」	　All the cute Zeth girls are mine.」
+45254	Rance	基本	「がははは、よーし急ぐぞ。	「Gahahaha, alright let's hurry.
+45255	+		　あの蛇女にこれ以上はやらせん。	　I won't let that snake bitch do any more.
+45256	+		　ゼスの可愛い女の子は俺のものなのだ」	　All the cute Zeth girls are mine.」
 
-45257	Kentou Kanami	「狙われた子、大変よね。	「The targeted girl must be in trouble.
-45258	+	　緑の……セミロング、だっけ」	　Green... semi-long hair, right?」
+45257	Kentou Kanami		「狙われた子、大変よね。	「The targeted girl must be in trouble.
+45258	+		　緑の……セミロング、だっけ」	　Green... semi-long hair, right?」

@@ -5,114 +5,114 @@
 * Crook Mofus	クルックー	Female
 * Satella	サテラ	Female
 
-250437	-	ランス城――	Rance Castle--
+250437	-		ランス城――	Rance Castle--
 
-250438	-	朝、目覚めたランスは騒がしい城内に	In the morning, Rance woke up to the noisy castle
-250439	+	目を丸くしていた。	and widened his eyes.
+250438	-		朝、目覚めたランスは騒がしい城内に	In the morning, Rance woke up to the noisy castle
+250439	+		目を丸くしていた。	and widened his eyes.
 
-250440	Rance	「なんだ、どいつもこいつも騒いで……	「What's going on, everyone's making such a racket...
-250441	+	　めでたいことでもあったのか？」	　Did something good happen?」
+250440	Rance	だる顔	「なんだ、どいつもこいつも騒いで……	「What's going on, everyone's making such a racket...
+250441	+		　めでたいことでもあったのか？」	　Did something good happen?」
 
-250442	Rance	「おい、なにがあった」	「Hey, what happened?」
+250442	Rance	真剣	「おい、なにがあった」	「Hey, what happened?」
 
-250443	Free Cities Guard	「ひ、ひい、総統閣下！	「H-hi, Supreme Leader!
-250444	+	　それが、あ、アコンカの花が咲いて……！」	　T-the Aconka flower has bloomed...!」
+250443	Free Cities Guard	基本	「ひ、ひい、総統閣下！	「H-hi, Supreme Leader!
+250444	+		　それが、あ、アコンカの花が咲いて……！」	　T-the Aconka flower has bloomed...!」
 
-250445	Rance	「アコンカの花？」	「Aconka flower?」
+250445	Rance		「アコンカの花？」	「Aconka flower?」
 
-250446	Free Cities Guard	「あ、あ、話している間も惜しい！	「A-ah, no time to talk!
-250447	+	　申し訳ありませんが、私はこれで！」	　Sorry, I have to go!」
+250446	Free Cities Guard		「あ、あ、話している間も惜しい！	「A-ah, no time to talk!
+250447	+		　申し訳ありませんが、私はこれで！」	　Sorry, I have to go!」
 
-250448	-	兵士は涙目でその場から逃げ出した。	The soldier ran away with tears in his eyes.
+250448	-		兵士は涙目でその場から逃げ出した。	The soldier ran away with tears in his eyes.
 
-250449	Sill Plain	「ど、どうしたんでしょう？」	「W-what's going on?」
+250449	Sill Plain	きょとん	「ど、どうしたんでしょう？」	「W-what's going on?」
 
-250450	Rance	「むう……」	「Muu...」
+250450	Rance	基本	「むう……」	「Muu...」
 
-250451	Crook Mofus	「ランス、ここにいたのですね……」	「Rance, you were here...」
+250451	Crook Mofus		「ランス、ここにいたのですね……」	「Rance, you were here...」
 
-250452	Rance	「おう、アコンカの花が咲いたとか騒いでるが……	「Yeah, everyone's making a fuss about the Aconka flower blooming...
-250453	+	　なんだ、それは」	　What is that?」
+250452	Rance		「おう、アコンカの花が咲いたとか騒いでるが……	「Yeah, everyone's making a fuss about the Aconka flower blooming...
+250453	+		　なんだ、それは」	　What is that?」
 
-250454	Crook Mofus	「今、説明します……	「I'll explain now...
-250455	+	　とりあえずこちらに」	　This way for now.」
+250454	Crook Mofus		「今、説明します……	「I'll explain now...
+250455	+		　とりあえずこちらに」	　This way for now.」
 
-250456	Rance	「？？」	「??」
+250456	Rance		「？？」	「??」
 
-250457	-	普段と明らかに様子の違うクルックーに	Noticing Crook acting clearly different from usual,
-250458	+	首をかしげながらランスはついて行った。	Rance tilted his head and followed.
+250457	-		普段と明らかに様子の違うクルックーに	Noticing Crook acting clearly different from usual,
+250458	+		首をかしげながらランスはついて行った。	Rance tilted his head and followed.
 
-250459	Crook Mofus	「こちらがアコンカの花です」	「This is the Aconka flower.」
+250459	Crook Mofus		「こちらがアコンカの花です」	「This is the Aconka flower.」
 
-250460	Rance	「なんの変哲もない花に見えるが……」	「It looks like an ordinary flower...」
+250460	Rance		「なんの変哲もない花に見えるが……」	「It looks like an ordinary flower...」
 
-250461	Crook Mofus	「この花は非常に希少であり、	「This flower is extremely rare,
-250462	+	　ＡＬ教本山の聖堂奥に奉られていたのを、	　it was enshrined deep in the AL Church main temple,
-250463	+	　こちらに持ってきました」	　and we brought it here.」
+250461	Crook Mofus		「この花は非常に希少であり、	「This flower is extremely rare,
+250462	+		　ＡＬ教本山の聖堂奥に奉られていたのを、	　it was enshrined deep in the AL Church main temple,
+250463	+		　こちらに持ってきました」	　and we brought it here.」
 
-250464	Rance	「で、この花がなんなんだ？」	「So, what is this flower?」
+250464	Rance		「で、この花がなんなんだ？」	「So, what is this flower?」
 
-250465	Crook Mofus	「この花は時代の移り変わりを知らせる花です」	「This flower signals a change of eras.」
+250465	Crook Mofus		「この花は時代の移り変わりを知らせる花です」	「This flower signals a change of eras.」
 
-250466	Crook Mofus	「過去、何度もこの花は咲き、	「In the past, it has bloomed many times,
-250467	+	　その度に伝えるのです」	　and each time it announces」
+250466	Crook Mofus		「過去、何度もこの花は咲き、	「In the past, it has bloomed many times,
+250467	+		　その度に伝えるのです」	　and each time it announces」
 
-250468	Crook Mofus	「新しい魔王、または勇者の誕生を」	「the birth of a new Demon King or Hero.」
+250468	Crook Mofus		「新しい魔王、または勇者の誕生を」	「the birth of a new Demon King or Hero.」
 
-250469	Rance	「それが咲いたということは……」	「So if it bloomed...」
+250469	Rance		「それが咲いたということは……」	「So if it bloomed...」
 
-250470	Crook Mofus	「はい、魔王か勇者か、どちらかが誕生しました。	「Yes, either a new Demon King or a new Hero has been born.
-250471	+	　勇者ならいいですが……」	　If it's a Hero, that's good, but...」
+250470	Crook Mofus		「はい、魔王か勇者か、どちらかが誕生しました。	「Yes, either a new Demon King or a new Hero has been born.
+250471	+		　勇者ならいいですが……」	　If it's a Hero, that's good, but...」
 
-250472	Rance	「もし、魔王なら……	「If it's a Demon King...
-250473	+	　ってそれで皆こんな混乱してるわけだ」	　That's why everyone's in such a panic.」
+250472	Rance		「もし、魔王なら……	「If it's a Demon King...
+250473	+		　ってそれで皆こんな混乱してるわけだ」	　That's why everyone's in such a panic.」
 
-250474	Crook Mofus	「その通りです」	「Exactly.」
+250474	Crook Mofus		「その通りです」	「Exactly.」
 
-250475	-	そのとき、一度大きくアコンカの花が揺れた。	At that moment, the Aconka flower shook greatly once.
+250475	-		そのとき、一度大きくアコンカの花が揺れた。	At that moment, the Aconka flower shook greatly once.
 
-250476	?	「世界の変革をお知らせします」	「Announcing a transformation of the world.」
+250476	?		「世界の変革をお知らせします」	「Announcing a transformation of the world.」
 
-250477	Sill Plain	「しゃ、喋りました！	「I-it spoke!
-250478	+	　お花が喋りましたよ！」	　The flower spoke!」
+250477	Sill Plain		「しゃ、喋りました！	「I-it spoke!
+250478	+		　お花が喋りましたよ！」	　The flower spoke!」
 
-250479	Crook Mofus	「静かに」	「Quiet.」
+250479	Crook Mofus		「静かに」	「Quiet.」
 
-250480	-	皆が固唾をのみアコンカの花を見守る。	Everyone watched the Aconka flower with bated breath.
+250480	-		皆が固唾をのみアコンカの花を見守る。	Everyone watched the Aconka flower with bated breath.
 
-250481	?	「新しい魔王が誕生しました」	「A new Demon King has been born.」
+250481	?		「新しい魔王が誕生しました」	「A new Demon King has been born.」
 
-250482	?	「まだ正月早々ですが、	「It's still early in the new year, but
-250483	+	　LP歴は8年で終了となります」	　the LP calendar ends at year 8.」
+250482	?		「まだ正月早々ですが、	「It's still early in the new year, but
+250483	+		　LP歴は8年で終了となります」	　the LP calendar ends at year 8.」
 
-250484	?	「来年からKL1年となります。	「From next year it will be KL year 1.
-250485	+	　お間違えなきように」	　Please take note.」
+250484	?		「来年からKL1年となります。	「From next year it will be KL year 1.
+250485	+		　お間違えなきように」	　Please take note.」
 
-250486	-	するべき仕事を終えたということか、	Having finished its duty,
-250487	+	まるでビデオの巻き戻しのように	like a video rewinding,
-250488	+	アコンカの花がつぼみへ戻っていく。	the Aconka flower returned to a bud.
+250486	-		するべき仕事を終えたということか、	Having finished its duty,
+250487	+		まるでビデオの巻き戻しのように	like a video rewinding,
+250488	+		アコンカの花がつぼみへ戻っていく。	the Aconka flower returned to a bud.
 
-250489	-	それをその場の皆は	Everyone present
-250490	+	一言も発せず見守っていた。	watched in silence.
+250489	-		それをその場の皆は	Everyone present
+250490	+		一言も発せず見守っていた。	watched in silence.
 
-250491	Satella	「KL……ケイブリスだ……」	「KL... It's Kayblis...」
+250491	Satella	不安	「KL……ケイブリスだ……」	「KL... It's Kayblis...」
 
-250492	Rance	「つまり、なんだ？」	「So what does that mean?」
+250492	Rance	基本	「つまり、なんだ？」	「So what does that mean?」
 
-250493	Rance	「俺達は今から魔王を倒さなくちゃ	「Does that mean we have to defeat the Demon King
-250494	+	　いけなくなったってことか？」	　from now on?」
+250493	Rance		「俺達は今から魔王を倒さなくちゃ	「Does that mean we have to defeat the Demon King
+250494	+		　いけなくなったってことか？」	　from now on?」
 
-250495	Satella	「馬鹿言え！	「Don't be stupid!
-250496	+	　魔王は誰にも殺せない！」	　No one can kill a Demon King!」
+250495	Satella	怒り	「馬鹿言え！	「Don't be stupid!
+250496	+		　魔王は誰にも殺せない！」	　No one can kill a Demon King!」
 
-250497	Satella	「そう……殺せない……」	「Yes... they can't be killed...」
+250497	Satella	不安	「そう……殺せない……」	「Yes... they can't be killed...」
 
-250498	Satella	「もう……」	「It's already...」
+250498	Satella	思考	「もう……」	「It's already...」
 
-250499	Satella	「終わったんだ……」	「Over...」
+250499	Satella		「終わったんだ……」	「Over...」
 
-250500	-	サテラはそれ以上、なにも言うことはなかった。	Satella had nothing more to say.
+250500	-		サテラはそれ以上、なにも言うことはなかった。	Satella had nothing more to say.
 
-250501	-	…………	............
+250501	-		…………	............
 
-250502	-	……	...
+250502	-		……	...

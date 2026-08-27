@@ -4,227 +4,227 @@
 * Alcarria	アルカリア	Female
 * Lilim	リリム	Female
 
-147622	-	森の奥の城――	The castle deep in the forest――
+147622	-		森の奥の城――	The castle deep in the forest――
 
-147623	Kanayo	「シャロンさん、紅茶飲みます？」	「Sharon-san, would you like some black tea?」
+147623	Kanayo	基本	「シャロンさん、紅茶飲みます？」	「Sharon-san, would you like some black tea?」
 
-147624	Sharon	「ありがとう加奈代、いただくわ」	「Thank you Kanayo, I'll have some.」
+147624	Sharon		「ありがとう加奈代、いただくわ」	「Thank you Kanayo, I'll have some.」
 
-147625	-	ケッセルリンクのメイド達が談笑していた。	Kesselring's maids were chatting happily.
+147625	-		ケッセルリンクのメイド達が談笑していた。	Kesselring's maids were chatting happily.
 
-147626	-	彼女達は睡眠を取らない。	They do not sleep.
+147626	-		彼女達は睡眠を取らない。	They do not sleep.
 
-147627	-	それは使徒には必要ないからでもあるが、	Not only because apostles don't need it,
-147628	+	何よりもケッセルリンクを守る為、	but above all to protect Kesselring,
-147629	+	24時間起き続けていたいからである。	they want to stay awake 24 hours.
+147627	-		それは使徒には必要ないからでもあるが、	Not only because apostles don't need it,
+147628	+		何よりもケッセルリンクを守る為、	but above all to protect Kesselring,
+147629	+		24時間起き続けていたいからである。	they want to stay awake 24 hours.
 
-147630	Alcarria	「ねーねー、シャロンさん、	「Hey hey, Sharon-san,
-147631	+	　なにかお話してくださいよ」	　tell us a story.」
+147630	Alcarria		「ねーねー、シャロンさん、	「Hey hey, Sharon-san,
+147631	+		　なにかお話してくださいよ」	　tell us a story.」
 
-147632	Sharon	「どうしたのアルカリア、退屈？」	「What's wrong Alcarria, bored?」
+147632	Sharon		「どうしたのアルカリア、退屈？」	「What's wrong Alcarria, bored?」
 
-147633	Alcarria	「ええ、退屈。	「Yes, bored.
-147634	+	　毎日同じ繰り返しだと飽きちゃうわ」	　The same thing every day gets old.」
+147633	Alcarria		「ええ、退屈。	「Yes, bored.
+147634	+		　毎日同じ繰り返しだと飽きちゃうわ」	　The same thing every day gets old.」
 
-147635	Sharon	「あら、私は好きよ？　繰り返し」	「Oh, I like it. Repetition.
+147635	Sharon		「あら、私は好きよ？　繰り返し」	「Oh, I like it. Repetition.
 
-147636	Sharon	「不変は永遠を感じられるもの」	　The unchanging lets you feel eternity.」
+147636	Sharon		「不変は永遠を感じられるもの」	　The unchanging lets you feel eternity.」
 
-147637	Sharon	「このまま……	「Just like this...
-147638	+	　ただケッセルリンク様の	　Staying forever by
-147639	+	　お側にいられる永遠を」	　Master Kesselring's side.」
+147637	Sharon		「このまま……	「Just like this...
+147638	+		　ただケッセルリンク様の	　Staying forever by
+147639	+		　お側にいられる永遠を」	　Master Kesselring's side.」
 
-147640	Lilim	「ケッセルリンク様に限っては同意だし私も好き。	「I agree about Master Kesselring, I like it too.
-147641	+	　でも変化がなきゃ飽きちゃいますよ」	　But without any change it gets boring.」
+147640	Lilim		「ケッセルリンク様に限っては同意だし私も好き。	「I agree about Master Kesselring, I like it too.
+147641	+		　でも変化がなきゃ飽きちゃいますよ」	　But without any change it gets boring.」
 
-147642	Sharon	「うふふ、貴方達はまだ若いものね。	「Ufufu, you girls are still young.
-147643	+	　1000年も生きれば分かるわ」	　You'll understand after living 1000 years.」
+147642	Sharon		「うふふ、貴方達はまだ若いものね。	「Ufufu, you girls are still young.
+147643	+		　1000年も生きれば分かるわ」	　You'll understand after living 1000 years.」
 
-147644	Lilim	「ふん、すぐに年長ぶって。	「Hmph, acting all elder-like.
-147645	+	　そんなの意味ないのに」	　That doesn't mean anything.」
+147644	Lilim	拗ね	「ふん、すぐに年長ぶって。	「Hmph, acting all elder-like.
+147645	+		　そんなの意味ないのに」	　That doesn't mean anything.」
 
-147646	Sharon	「はいはい、それじゃ何をお話しようかしらね」	「Yes yes, what story shall I tell?」
+147646	Sharon	基本	「はいはい、それじゃ何をお話しようかしらね」	「Yes yes, what story shall I tell?」
 
-147647	-	お話を始めようとしている三人に、	As the three were about to start,
-147648	+	紅茶を持つ加奈代が声をかける。	Kanayo holding the tea spoke up.
+147647	-		お話を始めようとしている三人に、	As the three were about to start,
+147648	+		紅茶を持つ加奈代が声をかける。	Kanayo holding the tea spoke up.
 
-147649	Kanayo	「そういえば二人はもう、	「By the way, do you two already
-147650	+	　みんなの過去のことは知ってたかしら？」	　know everyone's past?」
+147649	Kanayo		「そういえば二人はもう、	「By the way, do you two already
+147650	+		　みんなの過去のことは知ってたかしら？」	　know everyone's past?」
 
-147651	Alcarria	「いいえー」	「No~」
+147651	Alcarria		「いいえー」	「No~」
 
-147652	Lilim	「わざわざ聞くようなことでもないかと思って、	「I thought it wasn't something to ask about,
-147653	+	　チラホラとしか聞いたことはありません」	　so I only heard bits and pieces.」
+147652	Lilim		「わざわざ聞くようなことでもないかと思って、	「I thought it wasn't something to ask about,
+147653	+		　チラホラとしか聞いたことはありません」	　so I only heard bits and pieces.」
 
-147654	Kanayo	「そうねぇ、もう500年以上は一緒なんだし、	「Well, we've been together over 500 years,
-147655	+	　気にしてる子もいないでしょうし。	　and no one minds, so
-147656	+	　いいんじゃないですか、シャロンさん」	　it's fine, right Sharon-san?」
+147654	Kanayo		「そうねぇ、もう500年以上は一緒なんだし、	「Well, we've been together over 500 years,
+147655	+		　気にしてる子もいないでしょうし。	　and no one minds, so
+147656	+		　いいんじゃないですか、シャロンさん」	　it's fine, right Sharon-san?」
 
-147657	Sharon	「そうねぇ……	「I suppose...
-147658	+	　それじゃあ、パレロアの話でも……」	　Then perhaps Paleloa's story...」
+147657	Sharon		「そうねぇ……	「I suppose...
+147658	+		　それじゃあ、パレロアの話でも……」	　Then perhaps Paleloa's story...」
 
-147659	Kanayo	「ふふ、パレロアさん、	「Fufu, Paleloa-san,
-147660	+	　二人に特別優しいってこと気づいていた？」	　have you noticed she's especially kind to these two?」
+147659	Kanayo		「ふふ、パレロアさん、	「Fufu, Paleloa-san,
+147660	+		　二人に特別優しいってこと気づいていた？」	　have you noticed she's especially kind to these two?」
 
-147661	Lilim	「まあ、なんとなく……」	「Well, sort of...」
+147661	Lilim		「まあ、なんとなく……」	「Well, sort of...」
 
-147662	Alcarria	「よく叱られますけどね」	「She scolds us a lot though.」
+147662	Alcarria		「よく叱られますけどね」	「She scolds us a lot though.」
 
-147663	Sharon	「彼女は私達の中で唯一子供を産んだことがあるから	「She's the only one among us who has given birth,
-147664	+	　幼い子が相手だと、どうしても、ね。	　so when dealing with young ones she can't help it.
-147665	+	　そういうところがあるみたいなの」	　That's just how she is.」
+147663	Sharon		「彼女は私達の中で唯一子供を産んだことがあるから	「She's the only one among us who has given birth,
+147664	+		　幼い子が相手だと、どうしても、ね。	　so when dealing with young ones she can't help it.
+147665	+		　そういうところがあるみたいなの」	　That's just how she is.」
 
-147666	Alcarria	「え、子持ちだったんですか？」	「Eh, she has children?」
+147666	Alcarria		「え、子持ちだったんですか？」	「Eh, she has children?」
 
-147667	Lilim	「じゃあ、その、結婚相手も？」	「Then, did she have a husband too?」
+147667	Lilim		「じゃあ、その、結婚相手も？」	「Then, did she have a husband too?」
 
-147668	Kanayo	「いたそうよ、お見合いらしいけど。	「Yes, apparently through an arranged marriage.
-147669	+	　当時の高名な魔法関係の研究者だとか」	　He was a famous magic researcher at the time.」
+147668	Kanayo		「いたそうよ、お見合いらしいけど。	「Yes, apparently through an arranged marriage.
+147669	+		　当時の高名な魔法関係の研究者だとか」	　He was a famous magic researcher at the time.」
 
-147670	Sharon	「彼女は夫に尽くしたし、子宝にも恵まれた。	「She devoted herself to her husband and was blessed with children.
-147671	+	　一見、順風満帆な人生だったんだけど……」	　On the surface it was a perfect life, but...」
+147670	Sharon		「彼女は夫に尽くしたし、子宝にも恵まれた。	「She devoted herself to her husband and was blessed with children.
+147671	+		　一見、順風満帆な人生だったんだけど……」	　On the surface it was a perfect life, but...」
 
-147672	Sharon	「双子の娘達を夫の研究の実験台にされて、	「Her twin daughters were used as test subjects in her husband's research,
-147673	+	　娘達は見るも無惨な	　turning them into hideous
-147674	+	　肉瘤だらけの化け物のような姿にされた」	　monstrous lumps of flesh.」
+147672	Sharon		「双子の娘達を夫の研究の実験台にされて、	「Her twin daughters were used as test subjects in her husband's research,
+147673	+		　娘達は見るも無惨な	　turning them into hideous
+147674	+		　肉瘤だらけの化け物のような姿にされた」	　monstrous lumps of flesh.」
 
-147675	Alcarria	「……」	「......」
+147675	Alcarria		「……」	「......」
 
-147676	Kanayo	「思わず彼女は夫を殺し、	「In rage she killed her husband,
-147677	+	　まだ赤子の子供達を連れて、	　and fled with her infant children,
-147678	+	　街を飛び出したんですって」	　leaving the city.」
+147676	Kanayo		「思わず彼女は夫を殺し、	「In rage she killed her husband,
+147677	+		　まだ赤子の子供達を連れて、	　and fled with her infant children,
+147678	+		　街を飛び出したんですって」	　leaving the city.」
 
-147679	Kanayo	「子供達の見た目のせいでどこの地でも迫害され、	「Because of how the children looked, they were persecuted everywhere,
-147680	+	　ついには人里から離れた	　until they were forced to live in a remote mountain hut...
-147681	+	　山小屋生活にまで追い込まれ……」	
+147679	Kanayo		「子供達の見た目のせいでどこの地でも迫害され、	「Because of how the children looked, they were persecuted everywhere,
+147680	+		　ついには人里から離れた	　until they were forced to live in a remote mountain hut...
+147681	+		　山小屋生活にまで追い込まれ……」	
 
-147682	Kanayo	「元々生き物として無理があったんでしょうね。	「They probably weren't meant to live long.
-147683	+	　赤子は一月後に自然死」	　The babies died naturally a month later.」
+147682	Kanayo		「元々生き物として無理があったんでしょうね。	「They probably weren't meant to live long.
+147683	+		　赤子は一月後に自然死」	　The babies died naturally a month later.」
 
-147684	Kanayo	「全てを失ったパレロアさんが	「Having lost everything, Paleloa was walking
-147685	+	　魔物に食い殺されようと魔物界の森を歩いていて、	　through the Monster Realm forest when she was about to be eaten,
-147686	+	　ケッセルリンク様とお会いしたとか」	　and that's when she met Master Kesselring.」
+147684	Kanayo		「全てを失ったパレロアさんが	「Having lost everything, Paleloa was walking
+147685	+		　魔物に食い殺されようと魔物界の森を歩いていて、	　through the Monster Realm forest when she was about to be eaten,
+147686	+		　ケッセルリンク様とお会いしたとか」	　and that's when she met Master Kesselring.」
 
-147687	Lilim	「……」	「......」
+147687	Lilim		「……」	「......」
 
-147688	Alcarria	「ひどい話ですね……」	「What a horrible story...」
+147688	Alcarria		「ひどい話ですね……」	「What a horrible story...」
 
-147689	Lilim	「あら、そういうアルカリアだって、	「Well, Alcarria, you were captured by bandits
-147690	+	　確か夜盗に捕らえられて、絶対服従魔法で	　and your whole family was enslaved with absolute obedience magic,
-147691	+	　家族全員夜盗の奴隷にされたって聞いたけど」	　right?」
+147689	Lilim		「あら、そういうアルカリアだって、	「Well, Alcarria, you were captured by bandits
+147690	+		　確か夜盗に捕らえられて、絶対服従魔法で	　and your whole family was enslaved with absolute obedience magic,
+147691	+		　家族全員夜盗の奴隷にされたって聞いたけど」	　right?」
 
-147692	Alcarria	「ああ、うん、辛かったよー」	「Yeah, it was painful~」
+147692	Alcarria		「ああ、うん、辛かったよー」	「Yeah, it was painful~」
 
-147693	Alcarria	「命令で父が母を殴らされてたりその逆があったり。	　Father was ordered to beat mother and vice versa.
-147694	+	　完全に玩具にされて」	　We were completely treated as toys.」
+147693	Alcarria		「命令で父が母を殴らされてたりその逆があったり。	　Father was ordered to beat mother and vice versa.
+147694	+		　完全に玩具にされて」	　We were completely treated as toys.」
 
-147695	Alcarria	「父や母や兄が殺されて私も発狂したところを、	　After my family was killed and I went mad,
-147696	+	　ケッセルリンク様に救って頂きました」	　Master Kesselring saved me.」
+147695	Alcarria		「父や母や兄が殺されて私も発狂したところを、	　After my family was killed and I went mad,
+147696	+		　ケッセルリンク様に救って頂きました」	　Master Kesselring saved me.」
 
-147697	Alcarria	「そう考えるとむしろラッキーだったかも」	「In a way, I was lucky.」
+147697	Alcarria		「そう考えるとむしろラッキーだったかも」	「In a way, I was lucky.」
 
-147698	Sharon	「ふふ、みんな、似たようなものよ」	「Fufu, we're all similar.
+147698	Sharon		「ふふ、みんな、似たようなものよ」	「Fufu, we're all similar.
 
-147699	Sharon	「私達は皆、人間の世界で	　We all suffered terribly
-147700	+	　非道い目に遭わされてきた」	　in the human world.」
+147699	Sharon		「私達は皆、人間の世界で	　We all suffered terribly
+147700	+		　非道い目に遭わされてきた」	　in the human world.」
 
-147701	Sharon	「エルシールは、元貴族の娘」	「Elsill was the daughter of a noble,
+147701	Sharon		「エルシールは、元貴族の娘」	「Elsill was the daughter of a noble,
 
-147702	Sharon	「悪党に家を没落させられて、領地の村で	　her family ruined by villains,
-147703	+	　共有財産の性奴隷として一年生き続けた」	　and lived a year as a shared sex slave in her village.」
+147702	Sharon		「悪党に家を没落させられて、領地の村で	　her family ruined by villains,
+147703	+		　共有財産の性奴隷として一年生き続けた」	　and lived a year as a shared sex slave in her village.」
 
-147704	Sharon	「バーバラは先天性の病気で体が上手く動かず、	「Barbara had a congenital illness that made her body weak,
-147705	+	　家族に苛められ、体を売らされて……」	　bullied by her family and forced into prostitution...」
+147704	Sharon		「バーバラは先天性の病気で体が上手く動かず、	「Barbara had a congenital illness that made her body weak,
+147705	+		　家族に苛められ、体を売らされて……」	　bullied by her family and forced into prostitution...」
 
-147706	Sharon	「それでも恨まずに家族を愛していたけど、	「Yet she still loved them without resentment,
-147707	+	　ある日冬の山に放置されて」	　but one day she was abandoned in a winter mountain.」
+147706	Sharon		「それでも恨まずに家族を愛していたけど、	「Yet she still loved them without resentment,
+147707	+		　ある日冬の山に放置されて」	　but one day she was abandoned in a winter mountain.」
 
-147708	Sharon	「動かぬ体を動かして家に帰れば	「When she dragged her immobile body home,
-147709	+	　家族が温かい部屋で談笑していて……」	　her family was warmly chatting inside...」
+147708	Sharon		「動かぬ体を動かして家に帰れば	「When she dragged her immobile body home,
+147709	+		　家族が温かい部屋で談笑していて……」	　her family was warmly chatting inside...」
 
-147710	Sharon	「そのとき初めて	「That was the first time
-147711	+	　世界に絶望したって言ってたわ」	　she despaired at the world, she said.」
+147710	Sharon		「そのとき初めて	「That was the first time
+147711	+		　世界に絶望したって言ってたわ」	　she despaired at the world, she said.」
 
-147712	Sharon	「ファーレンは奴隷として生きて、	「Varen lived as a slave,
-147713	+	　動物と同じようなペット生活を	　forced into pet-like life
-147714	+	　変態の貴族に強要されて」	　by a perverted noble.」
+147712	Sharon		「ファーレンは奴隷として生きて、	「Varen lived as a slave,
+147713	+		　動物と同じようなペット生活を	　forced into pet-like life
+147714	+		　変態の貴族に強要されて」	　by a perverted noble.」
 
-147715	Sharon	「ある日、処女を失うと死ぬ呪いを受けて、	「One day she was cursed to die if she lost her virginity,
-147716	+	　男装で男ばかりの学園に編入させられて……」	　and enrolled disguised as a boy in an all-male academy...」
+147715	Sharon		「ある日、処女を失うと死ぬ呪いを受けて、	「One day she was cursed to die if she lost her virginity,
+147716	+		　男装で男ばかりの学園に編入させられて……」	　and enrolled disguised as a boy in an all-male academy...」
 
-147717	Sharon	「何日まで無事でいられるかという、	「It was a cruel bet on how many days
-147718	+	　貴族のタチの悪い賭けの対象にされた」	　she could stay safe.」
+147717	Sharon		「何日まで無事でいられるかという、	「It was a cruel bet on how many days
+147718	+		　貴族のタチの悪い賭けの対象にされた」	　she could stay safe.」
 
-147719	Sharon	「リリムは狂った父親に人殺しの協力をさせられて、	「Lilim was forced by her mad uncle to help with murders,
-147720	+	　自分も気が狂いかけていた、だったかしら」	　and was nearly driven insane herself.」
+147719	Sharon		「リリムは狂った父親に人殺しの協力をさせられて、	「Lilim was forced by her mad uncle to help with murders,
+147720	+		　自分も気が狂いかけていた、だったかしら」	　and was nearly driven insane herself.」
 
-147721	Lilim	「父親ではなくて叔父です。	「It was my uncle, not father.
-147722	+	　両親が死んで預けられたんです」	　My parents died and I was sent to him.」
+147721	Lilim	拗ね	「父親ではなくて叔父です。	「It was my uncle, not father.
+147722	+		　両親が死んで預けられたんです」	　My parents died and I was sent to him.」
 
-147723	Sharon	「あら、そうだった？」	「Oh, was it?」
+147723	Sharon	基本	「あら、そうだった？」	「Oh, was it?」
 
-147724	Sharon	「加奈代は武家の娘だったかしら」	「Kanayo was the daughter of a warrior family, right?」
+147724	Sharon		「加奈代は武家の娘だったかしら」	「Kanayo was the daughter of a warrior family, right?」
 
-147725	Kanayo	「ええ、尊敬していた姉がいたんですが、	「Yes, I had a sister I respected,
-147726	+	　姉の婚約者が私に惚れていたみたいで、	　but her fiance fell for me,
-147727	+	　嫉妬に狂った姉の罠にはめられました」	　and my jealous sister framed me.」
+147725	Kanayo		「ええ、尊敬していた姉がいたんですが、	「Yes, I had a sister I respected,
+147726	+		　姉の婚約者が私に惚れていたみたいで、	　but her fiance fell for me,
+147727	+		　嫉妬に狂った姉の罠にはめられました」	　and my jealous sister framed me.」
 
-147728	Kanayo	「やってもいない罪で死刑待ち。	「I was waiting for execution for a crime I didn't commit.
-147729	+	　そこをケッセルリンク様に救われたんです」	　Master Kesselring saved me there.」
+147728	Kanayo		「やってもいない罪で死刑待ち。	「I was waiting for execution for a crime I didn't commit.
+147729	+		　そこをケッセルリンク様に救われたんです」	　Master Kesselring saved me there.」
 
-147730	Alcarria	「そういえば、親の魔法実験と復讐の為に	「Speaking of which, there was Nagi,
-147731	+	　体をボロボロにされたナギなんて子もいたね」	　whose body was destroyed for her parents' magic experiments and revenge.」
+147730	Alcarria		「そういえば、親の魔法実験と復讐の為に	「Speaking of which, there was Nagi,
+147731	+		　体をボロボロにされたナギなんて子もいたね」	　whose body was destroyed for her parents' magic experiments and revenge.」
 
-147732	Lilim	「洗礼……使徒になる前に	「Before her baptism... becoming an apostle,
-147733	+	　いつの間にかいなくなって……」	　she suddenly disappeared...」
+147732	Lilim		「洗礼……使徒になる前に	「Before her baptism... becoming an apostle,
+147733	+		　いつの間にかいなくなって……」	　she suddenly disappeared...」
 
-147734	Lilim	「使徒として、ケッセルリンク様の元で	「Living as an apostle under Master Kesselring
-147735	+	　生きた方が幸せになれるのに……」	　would have made her happier...」
+147734	Lilim		「使徒として、ケッセルリンク様の元で	「Living as an apostle under Master Kesselring
+147735	+		　生きた方が幸せになれるのに……」	　would have made her happier...」
 
-147736	Kanayo	「そうそう、シャロンさんは実は	「That's right, Sharon-san was actually
-147737	+	　ある王国のお姫様だったんですよね」	　a princess of a certain kingdom.」
+147736	Kanayo		「そうそう、シャロンさんは実は	「That's right, Sharon-san was actually
+147737	+		　ある王国のお姫様だったんですよね」	　a princess of a certain kingdom.」
 
-147738	Alcarria	「え、そうなんですか？」	「Eh, really?」
+147738	Alcarria		「え、そうなんですか？」	「Eh, really?」
 
-147739	Lilim	「お姫様……	「A princess...
-147740	+	　本当にいるんだ……」	　They really exist...」
+147739	Lilim		「お姫様……	「A princess...
+147740	+		　本当にいるんだ……」	　They really exist...」
 
-147741	Sharon	「今はただのメイドよ」	「Now I'm just a maid.」
+147741	Sharon		「今はただのメイドよ」	「Now I'm just a maid.」
 
-147742	Sharon	「ある国の縁談が転がり込んできたけど……	「A marriage proposal came from another country...
-147743	+	　第一王女との婚儀には到底釣り合わない縁談で、	　It was far beneath a first princess,
-147744	+	　父である国王がそれを蹴ったの」	　and my father the king rejected it.」
+147742	Sharon		「ある国の縁談が転がり込んできたけど……	「A marriage proposal came from another country...
+147743	+		　第一王女との婚儀には到底釣り合わない縁談で、	　It was far beneath a first princess,
+147744	+		　父である国王がそれを蹴ったの」	　and my father the king rejected it.」
 
-147745	Sharon	「ただその国が元々私のいた国に	「But that country had wanted to wage war on mine,
-147746	+	　戦争を仕掛けたがっていた国でね、	
-147747	+	　これを幸いにと攻め込んできてね」	　and used it as an excuse to invade.」
+147745	Sharon		「ただその国が元々私のいた国に	「But that country had wanted to wage war on mine,
+147746	+		　戦争を仕掛けたがっていた国でね、	
+147747	+		　これを幸いにと攻め込んできてね」	　and used it as an excuse to invade.」
 
-147748	Sharon	「いえ、むしろ戦う理由を作る為に	「Actually, they probably proposed the impossible match
-147749	+	　無茶な縁談を申し込んできたんでしょうね」	　to create a reason for war.」
+147748	Sharon		「いえ、むしろ戦う理由を作る為に	「Actually, they probably proposed the impossible match
+147749	+		　無茶な縁談を申し込んできたんでしょうね」	　to create a reason for war.」
 
-147750	Sharon	「怖かったわ。	「I was terrified.
-147751	+	　私のせいで何十万人もの人が死んで……」	　Because of me, hundreds of thousands died...」
+147750	Sharon		「怖かったわ。	「I was terrified.
+147751	+		　私のせいで何十万人もの人が死んで……」	　Because of me, hundreds of thousands died...」
 
-147752	Sharon	「その後私は、国を滅ぼした原因として	「Afterward I was blamed for the country's destruction
-147753	+	　全国民から怨嗟の声と拷問を受けて……」	　and tortured by the entire nation...」
+147752	Sharon		「その後私は、国を滅ぼした原因として	「Afterward I was blamed for the country's destruction
+147753	+		　全国民から怨嗟の声と拷問を受けて……」	　and tortured by the entire nation...」
 
-147754	Sharon	「本当は遅かれ早かれ隣国には	「Everyone knew the neighboring country would attack sooner or later...
-147755	+	　攻められると皆分かっていたけど……	
-147756	+	　誰か生け贄が必要だったのね……」	　They just needed a scapegoat...」
+147754	Sharon		「本当は遅かれ早かれ隣国には	「Everyone knew the neighboring country would attack sooner or later...
+147755	+		　攻められると皆分かっていたけど……	
+147756	+		　誰か生け贄が必要だったのね……」	　They just needed a scapegoat...」
 
-147757	Sharon	「そして火あぶりにかけられるってところで――」	「And right as I was about to be burned at the stake――」
+147757	Sharon		「そして火あぶりにかけられるってところで――」	「And right as I was about to be burned at the stake――」
 
-147758	Kanayo	「ケッセルリンク様と会ったんですよね」	「You met Master Kesselring.」
+147758	Kanayo		「ケッセルリンク様と会ったんですよね」	「You met Master Kesselring.」
 
-147759	Sharon	「ええ、私達は事情は違えど、	「Yes, though our circumstances differ,
-147760	+	　みんなあの方に救われた」	　we were all saved by him.」
+147759	Sharon		「ええ、私達は事情は違えど、	「Yes, though our circumstances differ,
+147760	+		　みんなあの方に救われた」	　we were all saved by him.」
 
-147761	-	シャロンは胸に手を置き、	Sharon placed a hand on her chest,
-147762	+	にっこりと微笑んだ。	and smiled gently.
+147761	-		シャロンは胸に手を置き、	Sharon placed a hand on her chest,
+147762	+		にっこりと微笑んだ。	and smiled gently.
 
-147763	-	生まれの不幸など、	As if she had forgotten all the misfortune of her birth,
-147764	+	全て忘れたかのような幸せそうな顔で。	her face was filled with pure happiness.
+147763	-		生まれの不幸など、	As if she had forgotten all the misfortune of her birth,
+147764	+		全て忘れたかのような幸せそうな顔で。	her face was filled with pure happiness.
 
-147765	Sharon	「私達は皆、	「We are all
-147766	+	　世界で一番不幸で、	　the most unfortunate girls in the world,
-147767	+	　世界で一番幸福な女の子なのよ」	　and the happiest girls in the world.」
+147765	Sharon		「私達は皆、	「We are all
+147766	+		　世界で一番不幸で、	　the most unfortunate girls in the world,
+147767	+		　世界で一番幸福な女の子なのよ」	　and the happiest girls in the world.」

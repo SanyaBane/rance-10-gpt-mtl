@@ -7,174 +7,174 @@
 * Full Kalar	フル幽霊	Female
 * Parsley Rig Zeth	パセリ幽霊	Female
 
-14355	Pastel Kalar	「……ううむ……どうしたものか」	「......Hmm...... What should I do.」
+14355	Pastel Kalar	疲れた	「……ううむ……どうしたものか」	「......Hmm...... What should I do.」
 
-14356	-	城の中を、悩んだ様子のパステルが	Inside the castle, Pastel wandered around
-14357	+	うろうろと徘徊していた。	with a troubled expression.
+14356	-		城の中を、悩んだ様子のパステルが	Inside the castle, Pastel wandered around
+14357	+		うろうろと徘徊していた。	with a troubled expression.
 
-14358	Rance	「ん？　なんだパステル。	「Nn? What's up, Pastel.
-14359	+	　うろうろと徘徊して」	　Wandering around like that.」
+14358	Rance	基本	「ん？　なんだパステル。	「Nn? What's up, Pastel.
+14359	+		　うろうろと徘徊して」	　Wandering around like that.」
 
-14360	Pastel Kalar	「おぬしか……	「It's you......
-14361	+	　お母様から、念話が来ての」	　I received a telepathic message from mother.」
+14360	Pastel Kalar	落ち着き	「おぬしか……	「It's you......
+14361	+		　お母様から、念話が来ての」	　I received a telepathic message from mother.」
 
-14362	Rance	「は？　モダンちゃんが？　どうしたって？」	「Huh? From Modern-chan? What happened?」
+14362	Rance	基本	「は？　モダンちゃんが？　どうしたって？」	「Huh? From Modern-chan? What happened?」
 
-14363	Pastel Kalar	「うむ……すぐに切れたが、	「Yeah...... It cut off quickly,
-14364	+	　混乱されているようで……よく分からぬ」	　but she seemed confused...... I couldn't tell clearly.」
+14363	Pastel Kalar	落ち着き	「うむ……すぐに切れたが、	「Yeah...... It cut off quickly,
+14364	+		　混乱されているようで……よく分からぬ」	　but she seemed confused...... I couldn't tell clearly.」
 
-14365	Rance	「むむ。何かトラブルか？	「Hmm. Some kind of trouble?
-14366	+	　変な奴にさらわれたとか」	　Was she kidnapped by some weirdo?」
+14365	Rance	真剣	「むむ。何かトラブルか？	「Hmm. Some kind of trouble?
+14366	+		　変な奴にさらわれたとか」	　Was she kidnapped by some weirdo?」
 
-14367	Pastel Kalar	「英霊じゃぞ……」	「She's a heroic spirit......」
+14367	Pastel Kalar	落ち着き	「英霊じゃぞ……」	「She's a heroic spirit......」
 
-14368	Rance	「しかし、モダンちゃんだぞ。	「Still, it's Modern-chan.
-14369	+	　何かの拍子に、ふらふらと……」	　She might have wandered off on a whim......」
+14368	Rance	真剣	「しかし、モダンちゃんだぞ。	「Still, it's Modern-chan.
+14369	+		　何かの拍子に、ふらふらと……」	　She might have wandered off on a whim......」
 
-14370	Pastel Kalar	「………………確かめるがよいか」	「............Perhaps we should check.」
+14370	Pastel Kalar	疲れた	「………………確かめるがよいか」	「............Perhaps we should check.」
 
-14371	Rance	「割り当てた部屋はこっちか。	「Her assigned room is this way.
-14372	+	　ま、行ってみるか」	　Well, let's go take a look.」
+14371	Rance	基本	「割り当てた部屋はこっちか。	「Her assigned room is this way.
+14372	+		　ま、行ってみるか」	　Well, let's go take a look.」
 
-14373	Vivid Kalar	「ん、婿殿」	「Nn, son-in-law.」
+14373	Vivid Kalar		「ん、婿殿」	「Nn, son-in-law.」
 
-14374	Modern Kalar	「あ、パステル……ランスさんも」	「Ah, Pastel...... And Rance-san too.」
+14374	Modern Kalar		「あ、パステル……ランスさんも」	「Ah, Pastel...... And Rance-san too.」
 
-14375	Pastel Kalar	「お母様……にお婆様。一体何事が……」	「Mother...... Grandmother. What on earth......」
+14375	Pastel Kalar	落ち着き	「お母様……にお婆様。一体何事が……」	「Mother...... Grandmother. What on earth......」
 
-14376	Modern Kalar	「ごめんね、危ない事とかじゃなかったんだけど。	「Sorry, it wasn't anything dangerous.
-14377	+	　その…………」	　It's just......」
+14376	Modern Kalar	基本	「ごめんね、危ない事とかじゃなかったんだけど。	「Sorry, it wasn't anything dangerous.
+14377	+		　その…………」	　It's just......」
 
-14378	-	モダンの指先が、	Modern pointed with her fingertip
-14379	+	光の射す窓際のテーブルへと向けられた。	toward the table by the sunlit window.
+14378	-		モダンの指先が、	Modern pointed with her fingertip
+14379	+		光の射す窓際のテーブルへと向けられた。	toward the table by the sunlit window.
 
-14380	Rance	「パセリと…………フル……？」	「Parsley and............ Full......?」
+14380	Rance	驚き	「パセリと…………フル……？」	「Parsley and............ Full......?」
 
-14381	-	二人は何故か和やかに、テーブルに着いていた。	For some reason the two were sitting peacefully at the table.
+14381	-		二人は何故か和やかに、テーブルに着いていた。	For some reason the two were sitting peacefully at the table.
 
-14382	Rance	「…………どういうことだ……？」	「............What the hell is going on......?」
+14382	Rance	だる顔	「…………どういうことだ……？」	「............What the hell is going on......?」
 
-14383	Vivid Kalar	「有り体に入って、私にもさっぱり分からん」	「To be honest, I have no idea either.」
+14383	Vivid Kalar	基本	「有り体に入って、私にもさっぱり分からん」	「To be honest, I have no idea either.」
 
-14384	Pastel Kalar	「あの、曾お婆様が……？」	「Great-grandmother is......?」
+14384	Pastel Kalar	疲れた	「あの、曾お婆様が……？」	「Great-grandmother is......?」
 
-14385	Lucy Julietta	「このカラーは、パセリの友達だ。	「This Kalar is Parsley's friend.
-14386	+	　まぐ、むく、んく」	　Munch, munch, gulp.」
+14385	Lucy Julietta	むぐむぐ	「このカラーは、パセリの友達だ。	「This Kalar is Parsley's friend.
+14386	+		　まぐ、むく、んく」	　Munch, munch, gulp.」
 
-14387	Rance	「む、菓子のガキ。……友達だと？」	「You snack brat...... Friends?」
+14387	Rance	真剣	「む、菓子のガキ。……友達だと？」	「You snack brat...... Friends?」
 
-14388	Full Kalar	「それは我に捧げられたマフィンだぞ、貴様」	「That muffin was offered to me, you fool.」
+14388	Full Kalar	興味	「それは我に捧げられたマフィンだぞ、貴様」	「That muffin was offered to me, you fool.」
 
-14389	Lucy Julietta	「その身体では食べられまい。	「You can't eat it in that form.
-14390	+	　なので儂が消費してやっただけのこと」	　So I simply consumed it for you.」
+14389	Lucy Julietta	基本	「その身体では食べられまい。	「You can't eat it in that form.
+14390	+		　なので儂が消費してやっただけのこと」	　So I simply consumed it for you.」
 
-14391	Full Kalar	「精神性の問題だ。	「It's a matter of spirit.
-14392	+	　我の許可無く掠め取るならば	　If you take it without my permission,
-14393	+	　にゃんにゃんだろうと許しはせぬ」	　I won't forgive you even if you're a cat.」
+14391	Full Kalar	興味	「精神性の問題だ。	「It's a matter of spirit.
+14392	+		　我の許可無く掠め取るならば	　If you take it without my permission,
+14393	+		　にゃんにゃんだろうと許しはせぬ」	　I won't forgive you even if you're a cat.」
 
-14394	Lucy Julietta	「覆水盆に返らず。	「What's done is done.
-14395	+	　せめて欠落した味覚だけでも伝えてやろう。	　At least let me tell you how it tasted.
-14396	?	　めっちゃ美味しい」	　It was really good.」
+14394	Lucy Julietta	基本	「覆水盆に返らず。	「What's done is done.
+14395	+		　せめて欠落した味覚だけでも伝えてやろう。	　At least let me tell you how it tasted.
+14396	?		　めっちゃ美味しい」	　It was really good.」
 
-14397	Full Kalar	「…………愉快な生き物だな、貴様は……！」	「............What an amusing creature you are......!」
+14397	Full Kalar	興味	「…………愉快な生き物だな、貴様は……！」	「............What an amusing creature you are......!」
 
-14398	-	言葉通り愉快そうに唇を歪めながら、	With an amused twist of her lips,
-14399	+	フルは手に魔力を集中していく。	Full began gathering magic power in her hand.
+14398	-		言葉通り愉快そうに唇を歪めながら、	With an amused twist of her lips,
+14399	+		フルは手に魔力を集中していく。	Full began gathering magic power in her hand.
 
-14400	Parsley Rig Zeth	「はいはい。すぐもうひとつ焼くから。	「Okay okay. I'll bake another one right away.
-14401	+	　ルーシーにもね」	　One for Lucy too.」
+14400	Parsley Rig Zeth	基本	「はいはい。すぐもうひとつ焼くから。	「Okay okay. I'll bake another one right away.
+14401	+		　ルーシーにもね」	　One for Lucy too.」
 
-14402	Full Kalar	「……次はアロエ味にしろ」	「......Next one aloe flavor.」
+14402	Full Kalar		「……次はアロエ味にしろ」	「......Next one aloe flavor.」
 
-14403	Lucy Julietta	「儂は甘ければ甘いほど良し。	「The sweeter the better for me.
-14404	+	　チープな味わいで」	　Cheap taste is fine.」
+14403	Lucy Julietta		「儂は甘ければ甘いほど良し。	「The sweeter the better for me.
+14404	+		　チープな味わいで」	　Cheap taste is fine.」
 
-14405	Parsley Rig Zeth	「はーいっ。ご注文入りましたー」	「Okaaay. Order received~」
+14405	Parsley Rig Zeth		「はーいっ。ご注文入りましたー」	「Okaaay. Order received~」
 
-14406	-	パセリは部屋に備え付けられた調理器具を	Parsley used magic to operate the cooking tools
-14407	+	魔法で操り、さかさかとお菓子を焼いていく。	in the room and quickly baked more sweets.
+14406	-		パセリは部屋に備え付けられた調理器具を	Parsley used magic to operate the cooking tools
+14407	+		魔法で操り、さかさかとお菓子を焼いていく。	in the room and quickly baked more sweets.
 
-14408	Rance	「……………なんだこれ。仲良しか」	「............What is this. They're getting along.」
+14408	Rance	だる顔	「……………なんだこれ。仲良しか」	「............What is this. They're getting along.」
 
-14409	Vivid Kalar	「アレに……友がいた、だと…………？	「She...... had a friend......?
-14410	+	　何者だ、あの娘」	　Who is that girl?」
+14409	Vivid Kalar	基本	「アレに……友がいた、だと…………？	「She...... had a friend......?
+14410	+		　何者だ、あの娘」	　Who is that girl?」
 
-14411	Rance	「パセリっていう幽霊だ。	「She's a ghost named Parsley.
-14412	+	　あれでもゼスの建国王らしいが」	　Apparently she's the founding king of Zeth.」
+14411	Rance	真剣	「パセリっていう幽霊だ。	「She's a ghost named Parsley.
+14412	+		　あれでもゼスの建国王らしいが」	　Apparently she's the founding king of Zeth.」
 
-14413	Vivid Kalar	「ゼス…………まさか……」	「Zeth............ No way......」
+14413	Vivid Kalar	基本	「ゼス…………まさか……」	「Zeth............ No way......」
 
-14414	Lucy Julietta	「昔、ゼスの建国中……というか、独立戦争中。	「Back during Zeth's founding...... or rather the independence war.
-14415	+	　ひとりのカラーが戦闘中に横から襲ってきてな」	　One Kalar attacked from the side during battle.」
+14414	Lucy Julietta		「昔、ゼスの建国中……というか、独立戦争中。	「Back during Zeth's founding...... or rather the independence war.
+14415	+		　ひとりのカラーが戦闘中に横から襲ってきてな」	　One Kalar attacked from the side during battle.」
 
-14416	Lucy Julietta	「それを、パセリと仲間が数人がかりで撃退した。	「Parsley and her companions repelled it together.
-14417	+	　しかし懲りなくてな、何度も来た」	　But it didn't learn and kept coming back.」
+14416	Lucy Julietta		「それを、パセリと仲間が数人がかりで撃退した。	「Parsley and her companions repelled it together.
+14417	+		　しかし懲りなくてな、何度も来た」	　But it didn't learn and kept coming back.」
 
-14418	Full Kalar	「……あれは心楽しい日々だった。	「......Those were truly enjoyable days.
-14419	+	　我が全力を出すに値する敵手どもだった」	　They were opponents worthy of my full power.」
+14418	Full Kalar		「……あれは心楽しい日々だった。	「......Those were truly enjoyable days.
+14419	+		　我が全力を出すに値する敵手どもだった」	　They were opponents worthy of my full power.」
 
-14420	Lucy Julietta	「こっちは迷惑千万だった。	「It was nothing but trouble for us.
-14421	+	　まあ……だいたい、こっちの敵は	　Well...... most of our enemies
-14422	+	　巻き添えで消し飛んでたが」	　got caught in the crossfire and obliterated.」
+14420	Lucy Julietta		「こっちは迷惑千万だった。	「It was nothing but trouble for us.
+14421	+		　まあ……だいたい、こっちの敵は	　Well...... most of our enemies
+14422	+		　巻き添えで消し飛んでたが」	　got caught in the crossfire and obliterated.」
 
-14423	Parsley Rig Zeth	「それから仲良くなったのよねー」	「And after that we became friends~」
+14423	Parsley Rig Zeth		「それから仲良くなったのよねー」	「And after that we became friends~」
 
-14424	Full Kalar	「なっていない。	「We did not.
-14425	+	　貴様がどうしてもというから	　I only look after you because you insisted.
-14426	+	　世話をさせてやっているだけのこと」	　That's all.」
+14424	Full Kalar	興味	「なっていない。	「We did not.
+14425	+		　貴様がどうしてもというから	　I only look after you because you insisted.
+14426	+		　世話をさせてやっているだけのこと」	　That's all.」
 
-14427	Parsley Rig Zeth	「うんうん、そうだね」	「Yeah yeah, that's right.」
+14427	Parsley Rig Zeth	基本	「うんうん、そうだね」	「Yeah yeah, that's right.」
 
-14428	Lucy Julietta	「敵の方が多い時は、向こうを先に襲っていたしな。	「When there were more enemies, she attacked them first.
-14429	+	　ある意味ではゼス建国の立役者の一人と	　In a way, she could be called one of the key figures
-14430	+	　言えなくもない」	　in Zeth's founding.」
+14428	Lucy Julietta		「敵の方が多い時は、向こうを先に襲っていたしな。	「When there were more enemies, she attacked them first.
+14429	+		　ある意味ではゼス建国の立役者の一人と	　In a way, she could be called one of the key figures
+14430	+		　言えなくもない」	　in Zeth's founding.」
 
-14431	Vivid Kalar	「……ゼスはペンシルカウには手出し無用。	「......Zeth has a non-aggression policy toward Pencilcow.
-14432	+	　アレが高官を脅して、	　I heard she threatened high officials
-14433	+	　そんな条約を結ばせたと聞いたが……」	　to make that treaty......」
+14431	Vivid Kalar		「……ゼスはペンシルカウには手出し無用。	「......Zeth has a non-aggression policy toward Pencilcow.
+14432	+		　アレが高官を脅して、	　I heard she threatened high officials
+14433	+		　そんな条約を結ばせたと聞いたが……」	　to make that treaty......」
 
-14434	Lucy Julietta	「実際にはこんな所ぞ。	「In reality it's like this.
-14435	+	　脅されるまでもなく、パセリがカラーを襲うなど、	　Parsley would never attack a Kalar
-14436	+	　望むはずがない」	　even without being threatened.」
+14434	Lucy Julietta		「実際にはこんな所ぞ。	「In reality it's like this.
+14435	+		　脅されるまでもなく、パセリがカラーを襲うなど、	　Parsley would never attack a Kalar
+14436	+		　望むはずがない」	　even without being threatened.」
 
-14437	Modern Kalar	「じゃあ、全部噂だった……？」	「So it was all just rumors......?」
+14437	Modern Kalar		「じゃあ、全部噂だった……？」	「So it was all just rumors......?」
 
-14438	Full Kalar	「…………そうでもない。	「............Not entirely.
-14439	+	　あの国が建って、すぐ……こやつは姿を消した」	　Right after that country was founded...... this one disappeared.」
+14438	Full Kalar		「…………そうでもない。	「............Not entirely.
+14439	+		　あの国が建って、すぐ……こやつは姿を消した」	　Right after that country was founded...... this one disappeared.」
 
-14440	Parsley Rig Zeth	「……………………」	「........................」
+14440	Parsley Rig Zeth		「……………………」	「........................」
 
-14441	Modern Kalar	「何かあったんですか？」	「Did something happen?」
+14441	Modern Kalar		「何かあったんですか？」	「Did something happen?」
 
-14442	Rance	「なんか、クソ悪魔に捕まったとか	「Something about getting caught by a shitty demon
-14443	+	　言ってなかったか。それか？」	　or whatever. Was that it?」
+14442	Rance	だる顔	「なんか、クソ悪魔に捕まったとか	「Something about getting caught by a shitty demon
+14443	+		　言ってなかったか。それか？」	　or whatever. Was that it?」
 
-14444	Parsley Rig Zeth	「ん……そうなんだよね。	「Yeah...... That's right.
-14445	+	　ちょこっと、詐欺に遭っちゃった」	　I got a little scammed.」
+14444	Parsley Rig Zeth	基本	「ん……そうなんだよね。	「Yeah...... That's right.
+14445	+		　ちょこっと、詐欺に遭っちゃった」	　I got a little scammed.」
 
-14446	Full Kalar	「……………愚か者め」	「............Fool.」
+14446	Full Kalar		「……………愚か者め」	「............Fool.」
 
-14447	Parsley Rig Zeth	「ごめんね」	「Sorry.」
+14447	Parsley Rig Zeth		「ごめんね」	「Sorry.」
 
-14448	Full Kalar	「馬鹿が」	「Idiot.」
+14448	Full Kalar		「馬鹿が」	「Idiot.」
 
-14449	Parsley Rig Zeth	「うん」	「Yeah.」
+14449	Parsley Rig Zeth		「うん」	「Yeah.」
 
-14450	Full Kalar	「ふん…………こうしてるのにも飽いた。	「Hmph............ I'm bored of this.
-14451	+	　魔物でも狩りに行く」	　I'm going to hunt some monsters.」
+14450	Full Kalar	興味	「ふん…………こうしてるのにも飽いた。	「Hmph............ I'm bored of this.
+14451	+		　魔物でも狩りに行く」	　I'm going to hunt some monsters.」
 
-14452	-	唐突にフルは起ち上がった。	Full suddenly stood up.
+14452	-		唐突にフルは起ち上がった。	Full suddenly stood up.
 
-14453	Lucy Julietta	「悪魔に八つ当たりできる方角、	「Want me to divine the direction
-14454	+	　占ってやろうか」	　where you can vent on some demons?」
+14453	Lucy Julietta	基本	「悪魔に八つ当たりできる方角、	「Want me to divine the direction
+14454	+		　占ってやろうか」	　where you can vent on some demons?」
 
-14455	Full Kalar	「……………………」	「........................」
+14455	Full Kalar	興味	「……………………」	「........................」
 
-14456	-	無言でルーシーの襟首を掴み、	Silently grabbing Lucy by the collar,
-14457	+	フルはそのまま出て行った。	Full dragged her out.
+14456	-		無言でルーシーの襟首を掴み、	Silently grabbing Lucy by the collar,
+14457	+		フルはそのまま出て行った。	Full dragged her out.
 
-14458	Parsley Rig Zeth	「あらら。フルちゃーん」	「Ara ara. Full-chan~」
+14458	Parsley Rig Zeth	基本	「あらら。フルちゃーん」	「Ara ara. Full-chan~」
 
-14459	Rance	「行っちまいやがった……」	「They left......」
+14459	Rance	だる顔	「行っちまいやがった……」	「They left......」
 
-14460	Vivid Kalar	「アレをたらしこむような人間がいたとは……」	「To think someone managed to seduce that one......」
+14460	Vivid Kalar	基本	「アレをたらしこむような人間がいたとは……」	「To think someone managed to seduce that one......」

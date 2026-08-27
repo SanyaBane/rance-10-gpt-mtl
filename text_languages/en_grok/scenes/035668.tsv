@@ -1,4 +1,4 @@
 # 35668	t２６０／３／宝物庫を開ける２	
 
-265049	?	\t\t\t\tメリムがいる場合	If Merim is present.
-265050	+	\t\t\t\tさらにタロコン機関を発見	Further discovers the Talocon mechanism.
+265049	?		\t\t\t\tメリムがいる場合	If Merim is present.
+265050	+		\t\t\t\tさらにタロコン機関を発見	Further discovers the Talocon mechanism.

@@ -5,122 +5,122 @@
 * Sill Plain	シィル	Female
 * Satella	サテラ	Female
 
-147447	Rance	「くう、寒いな……」	「Ugh, it's cold...」
+147447	Rance	だる顔	「くう、寒いな……」	「Ugh, it's cold...」
 
-147448	-	月の明かりさえ届かぬ暗い森。	A dark forest where even moonlight barely reached.
+147448	-		月の明かりさえ届かぬ暗い森。	A dark forest where even moonlight barely reached.
 
-147449	-	足下から這い上る冷気が四肢に絡みつき	Chilly air crawled up from the ground,
-147450	+	動きを鈍くさせるようだった。	making their limbs feel heavy.
+147449	-		足下から這い上る冷気が四肢に絡みつき	Chilly air crawled up from the ground,
+147450	+		動きを鈍くさせるようだった。	making their limbs feel heavy.
 
-147451	Kentou Kanami	「不気味……	「Creepy...
-147452	+	　ホラーな逸話がいくつもありそうな森よね……」	　This forest feels like it has tons of horror stories...」
+147451	Kentou Kanami	基本	「不気味……	「Creepy...
+147452	+		　ホラーな逸話がいくつもありそうな森よね……」	　This forest feels like it has tons of horror stories...」
 
-147453	Amitos Armitage	「ああ、実際にあるぞ。	「Yeah, there are some.
-147454	+	　私も一つ二つ聞いたことがある」	　I've heard one or two myself.」
+147453	Amitos Armitage		「ああ、実際にあるぞ。	「Yeah, there are some.
+147454	+		　私も一つ二つ聞いたことがある」	　I've heard one or two myself.」
 
-147455	Rance	「ほう、面白そうだ。	「Oh, sounds interesting.
-147456	+	　ちょっと聞かせてみろ」	　Tell me one.」
+147455	Rance		「ほう、面白そうだ。	「Oh, sounds interesting.
+147456	+		　ちょっと聞かせてみろ」	　Tell me one.」
 
-147457	Amitos Armitage	「そういうのは苦手なんだがな……	「I'm not good with those but...
-147458	+	　まあ、いいだろう」	　Fine, I guess.」
+147457	Amitos Armitage		「そういうのは苦手なんだがな……	「I'm not good with those but...
+147458	+		　まあ、いいだろう」	　Fine, I guess.」
 
-147459	-	アミトスは声をひそめ、そっと話し始めた。	Amitos lowered his voice and began speaking softly.
+147459	-		アミトスは声をひそめ、そっと話し始めた。	Amitos lowered his voice and began speaking softly.
 
-147460	Amitos Armitage	「昔、この森には一件の小屋があった」	「Long ago, there was a small hut in this forest.」
+147460	Amitos Armitage		「昔、この森には一件の小屋があった」	「Long ago, there was a small hut in this forest.」
 
-147461	Amitos Armitage	「美しい少女がたった一人だけいる売春宿。	「A brothel run by a single beautiful girl.
-147462	+	　少女の名はリリム」	　Her name was Lilim.」
+147461	Amitos Armitage		「美しい少女がたった一人だけいる売春宿。	「A brothel run by a single beautiful girl.
+147462	+		　少女の名はリリム」	　Her name was Lilim.」
 
-147463	Amitos Armitage	「リリムの存在は噂となり、村から男達が	「The rumor of Lilim spread,
-147464	+	　何人もこっそりと出かけていたらしい」	　and many men from the village would sneak out to visit her.」
+147463	Amitos Armitage		「リリムの存在は噂となり、村から男達が	「The rumor of Lilim spread,
+147464	+		　何人もこっそりと出かけていたらしい」	　and many men from the village would sneak out to visit her.」
 
-147465	Amitos Armitage	「しかし……不思議なことに、	「However... strangely,
-147466	+	　その多くは村に帰ることがなかった……」	　most of them never returned...」
+147465	Amitos Armitage		「しかし……不思議なことに、	「However... strangely,
+147466	+		　その多くは村に帰ることがなかった……」	　most of them never returned...」
 
-147467	Amitos Armitage	「少女目当てにこっそり夜の森に行くのに	「They went secretly at night for the girl,
-147468	+	　目的なんて誰も告げないので	　but no one told anyone where they were going,
-147469	+	　最初はただの行方不明と思われていた」	　so at first they were thought missing.」
+147467	Amitos Armitage		「少女目当てにこっそり夜の森に行くのに	「They went secretly at night for the girl,
+147468	+		　目的なんて誰も告げないので	　but no one told anyone where they were going,
+147469	+		　最初はただの行方不明と思われていた」	　so at first they were thought missing.」
 
-147470	Amitos Armitage	「事実は全く違う……」	「But the truth was far worse...」
+147470	Amitos Armitage		「事実は全く違う……」	「But the truth was far worse...」
 
-147471	Amitos Armitage	「少女――リリムの父親は狂人でな、	「The girl's――Lilim's father was insane,
-147472	+	　不思議な宗教にハマっていた」	　obsessed with a strange cult.」
+147471	Amitos Armitage		「少女――リリムの父親は狂人でな、	「The girl's――Lilim's father was insane,
+147472	+		　不思議な宗教にハマっていた」	　obsessed with a strange cult.」
 
-147473	Amitos Armitage	「それは男性の生首が50個あれば、	「It taught that collecting 50 male heads
-147474	+	　最後に捧げられた首の男は	　would let the man whose head was offered last
-147475	+	　世界の神になれるという教義があった」	　become the god of the world.」
+147473	Amitos Armitage		「それは男性の生首が50個あれば、	「It taught that collecting 50 male heads
+147474	+		　最後に捧げられた首の男は	　would let the man whose head was offered last
+147475	+		　世界の神になれるという教義があった」	　become the god of the world.」
 
-147476	Amitos Armitage	「そう、消えた男性はこの	「Yes, the missing men
-147477	+	　少女の父親に殺されていたんだ」	　were killed by the girl's father.」
+147476	Amitos Armitage		「そう、消えた男性はこの	「Yes, the missing men
+147477	+		　少女の父親に殺されていたんだ」	　were killed by the girl's father.」
 
-147478	Amitos Armitage	「売春宿を不審に思った警備隊が調べに行くと、	「When guards investigated the suspicious brothel,
-147479	+	　小屋の中には49の男性の生首……」	　they found 49 male heads inside...」
+147478	Amitos Armitage		「売春宿を不審に思った警備隊が調べに行くと、	「When guards investigated the suspicious brothel,
+147479	+		　小屋の中には49の男性の生首……」	　they found 49 male heads inside...」
 
-147480	Amitos Armitage	「祭壇には少女の	「On the altar was the head
-147481	+	　父親の生首が飾られていたらしい」	　of the girl's own father.」
+147480	Amitos Armitage		「祭壇には少女の	「On the altar was the head
+147481	+		　父親の生首が飾られていたらしい」	　of the girl's own father.」
 
-147482	Amitos Armitage	「これがこの森にまつわる話だ」	「That's the story of this forest.」
+147482	Amitos Armitage		「これがこの森にまつわる話だ」	「That's the story of this forest.」
 
-147483	Rance	「……あんまし怖くないぞ」	「...Not that scary.」
+147483	Rance		「……あんまし怖くないぞ」	「...Not that scary.」
 
-147484	Amitos Armitage	「こういうのは苦手と言ったろう」	「I told you I'm not good with these.」
+147484	Amitos Armitage		「こういうのは苦手と言ったろう」	「I told you I'm not good with these.」
 
-147485	Sill Plain	「あの、一ついいですか？」	「Um, may I ask one thing?」
+147485	Sill Plain	考え中	「あの、一ついいですか？」	「Um, may I ask one thing?」
 
-147486	Sill Plain	「そのリリムという少女は	「What happened to that girl Lilim?」
-147487	+	　どこに行ったんでしょう？」	
+147486	Sill Plain		「そのリリムという少女は	「What happened to that girl Lilim?」
+147487	+		　どこに行ったんでしょう？」	
 
-147488	Amitos Armitage	「ああ……」	「Ah...」
+147488	Amitos Armitage	基本	「ああ……」	「Ah...」
 
-147489	Amitos Armitage	「ここから先が不思議なことなのだが……」	「This is where it gets strange...」
+147489	Amitos Armitage		「ここから先が不思議なことなのだが……」	「This is where it gets strange...」
 
-147490	Amitos Armitage	「売春宿をどれほど調べても、	「No matter how much they searched the brothel,
-147491	+	　リリムという少女は見つからなかった」	　the girl named Lilim was nowhere to be found.」
+147490	Amitos Armitage		「売春宿をどれほど調べても、	「No matter how much they searched the brothel,
+147491	+		　リリムという少女は見つからなかった」	　the girl named Lilim was nowhere to be found.」
 
-147492	Amitos Armitage	「それから何十年か経った頃、	「Decades later,
-147493	+	　またリリムという少女の噂が立つ」	　the rumor of a girl named Lilim appeared again.」
+147492	Amitos Armitage		「それから何十年か経った頃、	「Decades later,
+147493	+		　またリリムという少女の噂が立つ」	　the rumor of a girl named Lilim appeared again.」
 
-147494	Amitos Armitage	「男がこの森に一人で入っているとな……	「When a man enters the forest alone...
-147495	+	　現れて……手を振るんだそうだ……」	　she appears... and waves at him...」
+147494	Amitos Armitage		「男がこの森に一人で入っているとな……	「When a man enters the forest alone...
+147495	+		　現れて……手を振るんだそうだ……」	　she appears... and waves at him...」
 
-147496	Amitos Armitage	「その少女が一人きりで立っていて……	「The girl stands there all alone...
-147497	+	　おいで……おいで……と」	　Come... come here...」
+147496	Amitos Armitage		「その少女が一人きりで立っていて……	「The girl stands there all alone...
+147497	+		　おいで……おいで……と」	　Come... come here...」
 
-147498	Amitos Armitage	「ついていった者が	「No one knows
-147499	+	　どうなるのかは誰も知らない……」	　what happens to those who follow her...」
+147498	Amitos Armitage		「ついていった者が	「No one knows
+147499	+		　どうなるのかは誰も知らない……」	　what happens to those who follow her...」
 
-147500	Amitos Armitage	「しかし、少女は今もすぐ近くに	「But perhaps the girl is still nearby...
-147501	+	　いるのかも知れない……」	
+147500	Amitos Armitage		「しかし、少女は今もすぐ近くに	「But perhaps the girl is still nearby...
+147501	+		　いるのかも知れない……」	
 
-147502	Amitos Armitage	「そう、例えば……」	「For example...
+147502	Amitos Armitage		「そう、例えば……」	「For example...
 
-147503	Rance	「お前の後ろにーーーッ！！！！」	「Right behind you-----!!!」
+147503	Rance	怒り	「お前の後ろにーーーッ！！！！」	「Right behind you-----!!!」
 
-147504	Sill Plain	「きゃーーーーっ！」	「Kyaaaaah!」
+147504	Sill Plain	慌て	「きゃーーーーっ！」	「Kyaaaaah!」
 
-147505	Satella	「のわぁぁあぁぁあ！？」	「Nooaaaaah!?」
+147505	Satella	あほー	「のわぁぁあぁぁあ！？」	「Nooaaaaah!?」
 
-147506	Satella	「き、貴様なーッ！」	「Y, you bastard!」
+147506	Satella	ツンデレ	「き、貴様なーッ！」	「Y, you bastard!」
 
-147507	Rance	「がははははははははは！	「Gahahahahahaha!
-147508	+	　びびってるびびってる！」	　You're scared, you're scared!」
+147507	Rance	基本	「がははははははははは！	「Gahahahahahaha!
+147508	+		　びびってるびびってる！」	　You're scared, you're scared!」
 
-147509	Sill Plain	「はふ、ふう……し、心臓が止まるかと……」	「Hafu, fuu... I thought my heart would stop...」
+147509	Sill Plain	泣き	「はふ、ふう……し、心臓が止まるかと……」	「Hafu, fuu... I thought my heart would stop...」
 
-147510	Rance	「しかし、リリムちゃんか……」	「But Lilim-chan, huh...
+147510	Rance	基本	「しかし、リリムちゃんか……」	「But Lilim-chan, huh...
 
-147511	Rance	「うむ、いいな、俺もおいでおいでされたいぞ」	「Yeah, sounds nice. I want her to wave me over too.」
+147511	Rance		「うむ、いいな、俺もおいでおいでされたいぞ」	「Yeah, sounds nice. I want her to wave me over too.」
 
-147512	Sill Plain	「こ、殺されちゃいますよ……」	「You'll get killed...」
+147512	Sill Plain	泣き	「こ、殺されちゃいますよ……」	「You'll get killed...」
 
-147513	Amitos Armitage	「まあ、ただの怪談だな。	「Well, it's just a ghost story.
-147514	+	　その事件が実際にあったのは事実だが、	　The incident did happen,
-147515	+	　少女に関してはただの噂だ」	　but the part about the girl is just rumor.」
+147513	Amitos Armitage	基本	「まあ、ただの怪談だな。	「Well, it's just a ghost story.
+147514	+		　その事件が実際にあったのは事実だが、	　The incident did happen,
+147515	+		　少女に関してはただの噂だ」	　but the part about the girl is just rumor.」
 
-147516	Rance	「うーむ、リリムちゃん、リリムちゃん。	「Hmm, Lilim-chan, Lilim-chan.
-147517	+	　名前からして可愛いな……うむうむ……」	　Even the name is cute... yeah yeah...」
+147516	Rance		「うーむ、リリムちゃん、リリムちゃん。	「Hmm, Lilim-chan, Lilim-chan.
+147517	+		　名前からして可愛いな……うむうむ……」	　Even the name is cute... yeah yeah...」
 
-147518	Amitos Armitage	「怪談を聞いた後に	「You're the first man I've seen
-147519	+	　いやらしい顔をする男は初めて見たな」	　make a perverted face after hearing a ghost story.」
+147518	Amitos Armitage		「怪談を聞いた後に	「You're the first man I've seen
+147519	+		　いやらしい顔をする男は初めて見たな」	　make a perverted face after hearing a ghost story.」
 
-147520	Sill Plain	「あ、あはは……」	「A, ahaha...」
+147520	Sill Plain	苦笑	「あ、あはは……」	「A, ahaha...」

@@ -18,352 +18,352 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Crook Mofus	クルックー	Female
 
-76721	Rance	「あーーーーっ、しんどかった……」	「Aaaaaah, that was exhausting...」
+76721	Rance	だる顔	「あーーーーっ、しんどかった……」	「Aaaaaah, that was exhausting...」
 
-76722	-	レッドアイとの戦闘が終わり、	After the battle with RedEye ended,
-76723	+	ランスはその場に腰を下ろした。	Rance sat down right there.
+76722	-		レッドアイとの戦闘が終わり、	After the battle with RedEye ended,
+76723	+		ランスはその場に腰を下ろした。	Rance sat down right there.
 
-76724	Sill Plain	「ランス様ァ！」	「Lord Rance!」
+76724	Sill Plain	嬉し泣き	「ランス様ァ！」	「Lord Rance!」
 
-76725	-	涙を流してシィルがランスに飛びついた。	With tears streaming down her face, Sill jumped into Rance's arms.
+76725	-		涙を流してシィルがランスに飛びついた。	With tears streaming down her face, Sill jumped into Rance's arms.
 
-76726	Rance	「とっ、こ、この馬鹿、	「H-Hey, you idiot,
-76727	+	　無闇に抱きついてくるんじゃない」	　don't just cling to me like that.」
+76726	Rance	基本	「とっ、こ、この馬鹿、	「H-Hey, you idiot,
+76727	+		　無闇に抱きついてくるんじゃない」	　don't just cling to me like that.」
 
-76728	Sill Plain	「あいたっ！」	「Ouch!」
+76728	Sill Plain	泣き	「あいたっ！」	「Ouch!」
 
-76729	Sill Plain	「痛いけど……	「It hurts but...
-76730	+	　えへへ、ご無事で良かったです」	　Ehehe, I'm so glad you're safe.」
+76729	Sill Plain	嬉し泣き	「痛いけど……	「It hurts but...
+76730	+		　えへへ、ご無事で良かったです」	　Ehehe, I'm so glad you're safe.」
 
-76731	Rance	「ふん、俺様の楽勝に決まってるだろう」	「Hmph, of course it was an easy win for me.」
+76731	Rance	基本	「ふん、俺様の楽勝に決まってるだろう」	「Hmph, of course it was an easy win for me.」
 
-76732	Toppos	「……ッ！」	「...!」
+76732	Toppos		「……ッ！」	「...!」
 
-76733	Sill Plain	「きゃあああ！？」	「Kyaaaa!?」
+76733	Sill Plain		「きゃあああ！？」	「Kyaaaa!?」
 
-76734	-	今までレッドアイに寄生されていた	Toppos, who had been parasitized by RedEye until now,
-76735	+	トッポスが突如立ち上がった。	suddenly stood up.
+76734	-		今までレッドアイに寄生されていた	Toppos, who had been parasitized by RedEye until now,
+76735	+		トッポスが突如立ち上がった。	suddenly stood up.
 
-76736	Toppos	「…………」	「............」
+76736	Toppos		「…………」	「............」
 
-76737	-	辺りをきょろきょろと窺い、	He looked around nervously,
-76738	+	自分の現状を確認する。	checking his current situation.
+76737	-		辺りをきょろきょろと窺い、	He looked around nervously,
+76738	+		自分の現状を確認する。	checking his current situation.
 
-76739	Toppos	「……ッ！」	「...!」
+76739	Toppos		「……ッ！」	「...!」
 
-76740	-	そしてトッポスはランス達に	Then Toppos bowed his head politely to Rance and the others
-76741	+	ぺこりと頭を下げてから山道を降りていった。	before walking down the mountain path.
+76740	-		そしてトッポスはランス達に	Then Toppos bowed his head politely to Rance and the others
+76741	+		ぺこりと頭を下げてから山道を降りていった。	before walking down the mountain path.
 
-76742	Sill Plain	「はぁ〜、良かった……	「Haa~, thank goodness...
-76743	+	　行ってくれましたね、ランス様……」	　He left, Lord Rance...」
+76742	Sill Plain	慌て	「はぁ〜、良かった……	「Haa~, thank goodness...
+76743	+		　行ってくれましたね、ランス様……」	　He left, Lord Rance...」
 
-76744	Rance	「う、うむ、ちょっとドキドキしたぞ……」	「Y-Yeah, that gave me a bit of a scare...」
+76744	Rance	驚き	「う、うむ、ちょっとドキドキしたぞ……」	「Y-Yeah, that gave me a bit of a scare...」
 
-76745	Cantel	「ふふ、久しぶりだな。	「Fufu, it's been a while.
-76746	+	　人の子らよ」	　Children of man.」
+76745	Cantel	基本	「ふふ、久しぶりだな。	「Fufu, it's been a while.
+76746	+		　人の子らよ」	　Children of man.」
 
-76747	Rance	「お前は……」	「You're...」
+76747	Rance		「お前は……」	「You're...」
 
-76748	Sill Plain	「あっ、キャンテルさん！」	「Ah, Cantel-san!」
+76748	Sill Plain		「あっ、キャンテルさん！」	「Ah, Cantel-san!」
 
-76749	Rance	「見覚えはある、が……	「I recognize you, but...
-76750	+	　誰だったか……」	　Who were you again...?」
+76749	Rance		「見覚えはある、が……	「I recognize you, but...
+76750	+		　誰だったか……」	　Who were you again...?」
 
-76751	Sill Plain	「闘神都市のイラーピュで会った	「He's the dragon we met in the Toushin city of Irapyu.
-76752	+	　ドラゴンさんですよ。	
-76753	+	　お風邪を召していた」	　He had a cold at the time.」
+76751	Sill Plain		「闘神都市のイラーピュで会った	「He's the dragon we met in the Toushin city of Irapyu.
+76752	+		　ドラゴンさんですよ。	
+76753	+		　お風邪を召していた」	　He had a cold at the time.」
 
-76754	Rance	「おお、そんなのもいたな。	「Oh yeah, there was someone like that.
-76755	+	　それが何故ここに」	　Why are you here?」
+76754	Rance		「おお、そんなのもいたな。	「Oh yeah, there was someone like that.
+76755	+		　それが何故ここに」	　Why are you here?」
 
-76756	Cantel	「私も過去、魔人と戦う為に、	「In the past I also fought against Fiends
-76757	+	　聖魔教団――人間に協力した身。	　and cooperated with the Holy Magic Sect--humans.
-76758	+	　また人類と共に戦う為、馳せ参じた」	　I've come to fight alongside humanity once more.」
+76756	Cantel		「私も過去、魔人と戦う為に、	「In the past I also fought against Fiends
+76757	+		　聖魔教団――人間に協力した身。	　and cooperated with the Holy Magic Sect--humans.
+76758	+		　また人類と共に戦う為、馳せ参じた」	　I've come to fight alongside humanity once more.」
 
-76759	Hunty Kalar	「彼自身がフリークと知り合いでね、	「He knows Freak personally,
-76760	+	　その関係で協力してもらってたの」	　so we've been working together through that connection.」
+76759	Hunty Kalar		「彼自身がフリークと知り合いでね、	「He knows Freak personally,
+76760	+		　その関係で協力してもらってたの」	　so we've been working together through that connection.」
 
-76761	Rance	「あ、ハンティ」	「Ah, Hunty.」
+76761	Rance		「あ、ハンティ」	「Ah, Hunty.」
 
-76762	Rance	「…………」	「............」
+76762	Rance	真剣	「…………」	「............」
 
-76763	Hunty Kalar	「な、なにさ。	「W-What?
-76764	+	　そんなに人の顔じろじろ見て」	　Why are you staring at my face like that?」
+76763	Hunty Kalar	基本	「な、なにさ。	「W-What?
+76764	+		　そんなに人の顔じろじろ見て」	　Why are you staring at my face like that?」
 
-76765	Rance	「……クリスタル赤い」	「...Your crystal is red.」
+76765	Rance		「……クリスタル赤い」	「...Your crystal is red.」
 
-76766	Hunty Kalar	「雷撃」	「Lightning Strike.」
+76766	Hunty Kalar	呆れ	「雷撃」	「Lightning Strike.」
 
-76767	Rance	「ほべべべべべべべ！」	「Hobebebebebebe!」
+76767	Rance	基本	「ほべべべべべべべ！」	「Hobebebebebebe!」
 
-76768	Patton Helman	「あーあー……」	「Ah ah...」
+76768	Patton Helman	戸惑い	「あーあー……」	「Ah ah...」
 
-76769	Patton Helman	「しかし悪かったな。	「Sorry about that.
-76770	+	　色々と準備が大変で時間がかかっちまった」	　It took a while because preparations were tough.」
+76769	Patton Helman	基本	「しかし悪かったな。	「Sorry about that.
+76770	+		　色々と準備が大変で時間がかかっちまった」	　It took a while because preparations were tough.」
 
-76771	Patton Helman	「これからは俺達も大将の戦いに協力するぜ」	「From now on we'll help you in your fights, boss.」
+76771	Patton Helman		「これからは俺達も大将の戦いに協力するぜ」	「From now on we'll help you in your fights, boss.」
 
-76772	Patton Helman	「いや、もう総統と呼んだ方がいいか」	「Or should I call you Supreme Leader now?」
+76772	Patton Helman		「いや、もう総統と呼んだ方がいいか」	「Or should I call you Supreme Leader now?」
 
-76773	Rance	「ふん、好きに呼べ」	「Hmph, call me whatever you want.」
+76773	Rance		「ふん、好きに呼べ」	「Hmph, call me whatever you want.」
 
-76774	Patton Helman	「あいよ。	「Got it.
-76775	+	　じゃあ総統や閣下はなんかムズ痒いんで、	　Supreme Leader or Excellency feels itchy,
-76776	+	　俺はまた大将と呼ばせてもらうかね」	　so I'll just keep calling you boss.」
+76774	Patton Helman		「あいよ。	「Got it.
+76775	+		　じゃあ総統や閣下はなんかムズ痒いんで、	　Supreme Leader or Excellency feels itchy,
+76776	+		　俺はまた大将と呼ばせてもらうかね」	　so I'll just keep calling you boss.」
 
-76777	Patton Helman	「……隊長さんから大将に、	「...From captain to boss,
-76778	+	　そして今度は総統閣下か」	　and now Supreme Leader.」
+76777	Patton Helman		「……隊長さんから大将に、	「...From captain to boss,
+76778	+		　そして今度は総統閣下か」	　and now Supreme Leader.」
 
-76779	Patton Helman	「ははっ、あんたドンドン偉くなってくなあ」	「Haha, you're really climbing the ranks.」
+76779	Patton Helman	笑い	「ははっ、あんたドンドン偉くなってくなあ」	「Haha, you're really climbing the ranks.」
 
-76780	Rance	「けっ、知るか」	「Tch, whatever.」
+76780	Rance	基本	「けっ、知るか」	「Tch, whatever.」
 
-76781	Satella	「うぅ〜ん？　パットン・ヘルマン……	「Hmmm? Patton Helman...
-76782	+	　どこかで聞いた覚えがあるような……」	　I feel like I've heard that name somewhere...」
+76781	Satella	思考	「うぅ〜ん？　パットン・ヘルマン……	「Hmmm? Patton Helman...
+76782	+		　どこかで聞いた覚えがあるような……」	　I feel like I've heard that name somewhere...」
 
-76783	Patton Helman	「うげっ、魔人サテラ……	「Ugeh, Fiend Satella...
-76784	+	　仲間にいるとは聞いていたが、	　I heard she was with you,
-76785	+	　本当だったんだな……」	　but it's really true...」
+76783	Patton Helman	戸惑い	「うげっ、魔人サテラ……	「Ugeh, Fiend Satella...
+76784	+		　仲間にいるとは聞いていたが、	　I heard she was with you,
+76785	+		　本当だったんだな……」	　but it's really true...」
 
-76786	Rance	「ん？　知り合いか？」	「Hm? You know each other?」
+76786	Rance	基本	「ん？　知り合いか？」	「Hm? You know each other?」
 
-76787	Patton Helman	「……昔ちょっと、な」	「...A little, a long time ago.」
+76787	Patton Helman	戸惑い	「……昔ちょっと、な」	「...A little, a long time ago.」
 
-76788	Satella	「はあ？　サテラはお前みたいな	「Haa? Satella doesn't know
-76789	+	　筋肉だるま知らないぞ」	　a muscle daruma like you.」
+76788	Satella	基本	「はあ？　サテラはお前みたいな	「Haa? Satella doesn't know
+76789	+		　筋肉だるま知らないぞ」	　a muscle daruma like you.」
 
-76790	Patton Helman	「まあまあ、その辺は後で話そう」	「Anyway, let's talk about that later.」
+76790	Patton Helman		「まあまあ、その辺は後で話そう」	「Anyway, let's talk about that later.」
 
-76791	Miracle Tor	「しかし……闘神まで味方になるとはな。	「However... to think even a Toushin is on our side.
-76792	+	　ふふ、面白いじゃないか」	　Fufu, how interesting.」
+76791	Miracle Tor	目閉じ	「しかし……闘神まで味方になるとはな。	「However... to think even a Toushin is on our side.
+76792	+		　ふふ、面白いじゃないか」	　Fufu, how interesting.」
 
-76793	Toushin Zeta	「…………」	「............」
+76793	Toushin Zeta	基本	「…………」	「............」
 
-76794	-	そのとき、崩れた岩の間で蠢く者がいた。	At that moment, something was wriggling among the broken rocks.
+76794	-		そのとき、崩れた岩の間で蠢く者がいた。	At that moment, something was wriggling among the broken rocks.
 
-76795	RedEye	「ね、ネヴァーギブアップぅぅぅ……」	「N-Never give up...」
+76795	RedEye		「ね、ネヴァーギブアップぅぅぅ……」	「N-Never give up...」
 
-76796	RedEye	「ミーは……負けた、か？	「Did I... lose?
-76797	+	　ミーは……ルーザー、か……」	　Am I... a loser...?」
+76796	RedEye		「ミーは……負けた、か？	「Did I... lose?
+76797	+		　ミーは……ルーザー、か……」	　Am I... a loser...?」
 
-76798	-	自身の敗北が信じられぬレッドアイは、	RedEye, unable to believe his own defeat,
-76799	+	まず何よりも先に呆けた。	was first stunned.
+76798	-		自身の敗北が信じられぬレッドアイは、	RedEye, unable to believe his own defeat,
+76799	+		まず何よりも先に呆けた。	was first stunned.
 
-76800	-	しかし、それも数秒のこと、	But that only lasted a few seconds,
-76801	+	すぐにレッドアイの表情が醜く変わる。	and then his expression twisted hideously.
+76800	-		しかし、それも数秒のこと、	But that only lasted a few seconds,
+76801	+		すぐにレッドアイの表情が醜く変わる。	and then his expression twisted hideously.
 
-76802	RedEye	「ケ……」	「Ke...」
+76802	RedEye		「ケ……」	「Ke...」
 
-76803	RedEye	「ケケ、ケケケケケケ……	「Keke, kekekekeke...
-76804	+	　ミーの負け、ミーは弱い……	　I lost, I'm weak...
-76805	+	　ミーはルーザー、ミーは敗北者……」	　I'm a loser, I'm a defeated one...」
+76803	RedEye		「ケケ、ケケケケケケ……	「Keke, kekekekeke...
+76804	+		　ミーの負け、ミーは弱い……	　I lost, I'm weak...
+76805	+		　ミーはルーザー、ミーは敗北者……」	　I'm a loser, I'm a defeated one...」
 
-76806	RedEye	「グググ……」	「Gugugu...」
+76806	RedEye		「グググ……」	「Gugugu...」
 
-76807	RedEye	「グーーーーッド！！！！」	「Gooooood!!!!」
+76807	RedEye		「グーーーーッド！！！！」	「Gooooood!!!!」
 
-76808	RedEye	「ヘケキャキャケケケウケケプ！	「Hekekyakyakekekekukekepu!
-76809	+	　グッドよ、ベリーにとてもグッド！	　Good, very very good!
-76810	+	　それミーのハッピー！」	　This makes me happy!」
+76808	RedEye		「ヘケキャキャケケケウケケプ！	「Hekekyakyakekekekukekepu!
+76809	+		　グッドよ、ベリーにとてもグッド！	　Good, very very good!
+76810	+		　それミーのハッピー！」	　This makes me happy!」
 
-76811	-	負けて尚、狂気の魔人レッドアイは	Even in defeat, the insane Fiend RedEye
-76812	+	喜びに目を限界まで見開いていた。	had his eyes wide open with joy.
+76811	-		負けて尚、狂気の魔人レッドアイは	Even in defeat, the insane Fiend RedEye
+76812	+		喜びに目を限界まで見開いていた。	had his eyes wide open with joy.
 
-76813	RedEye	「あのヒューマン、トッポスより強い。	「That human is stronger than Toppos.
-76814	+	　となれば今度は……あのヒューマンね」	　Then next... that human.」
+76813	RedEye		「あのヒューマン、トッポスより強い。	「That human is stronger than Toppos.
+76814	+		　となれば今度は……あのヒューマンね」	　Then next... that human.」
 
-76815	RedEye	「あのヒューマンに乗り移れば！	「If I parasitize that human!
-76816	+	　それミーがより強くなれた言うこと！	　That means I can become even stronger!
-76817	+	　ケケ、それミーのハッピー！」	　Keke, that makes me happy!」
+76815	RedEye		「あのヒューマンに乗り移れば！	「If I parasitize that human!
+76816	+		　それミーがより強くなれた言うこと！	　That means I can become even stronger!
+76817	+		　ケケ、それミーのハッピー！」	　Keke, that makes me happy!」
 
-76818	RedEye	「ケヒヒ、今日はとってもハッピーな日！	「Kehi hi, today is a very happy day!
-76819	+	　ケケケケケケケケケケケケ！	　Kekekekekekekekekekeke!
-76820	+	　ミーはもっと、もーーーっと強くなれる！」	　I can become even, eeeeven stronger!」
+76818	RedEye		「ケヒヒ、今日はとってもハッピーな日！	「Kehi hi, today is a very happy day!
+76819	+		　ケケケケケケケケケケケケ！	　Kekekekekekekekekekeke!
+76820	+		　ミーはもっと、もーーーっと強くなれる！」	　I can become even, eeeeven stronger!」
 
-76821	RedEye	「ケケ、ケケケケ……」	「Keke, kekekeke...」
+76821	RedEye		「ケケ、ケケケケ……」	「Keke, kekekeke...」
 
-76822	-	岩と岩の隙間からレッドアイがランスの様子を窺う。	From between the rocks, RedEye peeked at Rance.
+76822	-		岩と岩の隙間からレッドアイがランスの様子を窺う。	From between the rocks, RedEye peeked at Rance.
 
-76823	-	ランス自身は既に満身創痍、	Rance himself was already exhausted and covered in wounds,
-76824	+	一歩も動けない様子だった。	unable to take even a single step.
+76823	-		ランス自身は既に満身創痍、	Rance himself was already exhausted and covered in wounds,
+76824	+		一歩も動けない様子だった。	unable to take even a single step.
 
-76825	RedEye	「ミーにビッグなチャーンス……」	「This is a big chaaance for me...」
+76825	RedEye		「ミーにビッグなチャーンス……」	「This is a big chaaance for me...」
 
-76826	RedEye	「ケ、ケケ、ケ……」	「Ke, keke, ke...」
+76826	RedEye		「ケ、ケケ、ケ……」	「Ke, keke, ke...」
 
-76827	RedEye	「キシャアアアアアアアアア！」	「Kishaaaaaaa!」
+76827	RedEye		「キシャアアアアアアアアア！」	「Kishaaaaaaa!」
 
-76828	-	レッドアイが奇声を上げてランスに飛びかかる。	RedEye let out a strange cry and leaped at Rance.
+76828	-		レッドアイが奇声を上げてランスに飛びかかる。	RedEye let out a strange cry and leaped at Rance.
 
-76829	Patton Helman	「なっ！？　大将、危ねぇ！」	「What!? Boss, look out!」
+76829	Patton Helman		「なっ！？　大将、危ねぇ！」	「What!? Boss, look out!」
 
-76830	Rance	「はっ！」	「Hah!」
+76830	Rance	驚き	「はっ！」	「Hah!」
 
-76831	-	パットンの声にランスが慌てて振り返るが、	At Patton's voice Rance turned around in a panic, but
-76832	+	既に手遅れだった。	it was already too late.
+76831	-		パットンの声にランスが慌てて振り返るが、	At Patton's voice Rance turned around in a panic, but
+76832	+		既に手遅れだった。	it was already too late.
 
-76833	RedEye	「クケケケケケケケケケーーーーッ！」	「Kukekekekekekekekeeeee!」
+76833	RedEye	基本	「クケケケケケケケケケーーーーッ！」	「Kukekekekekekekekeeeee!」
 
-76834	Rance~	（まずい……も、もう体力の限界で……	（Bad... I'm already at my physical limit...
-76835	+	　は、はねのける力もないぞ……！）	　I don't even have the strength to knock him away...!）
+76834	Rance~		（まずい……も、もう体力の限界で……	（Bad... I'm already at my physical limit...
+76835	+		　は、はねのける力もないぞ……！）	　I don't even have the strength to knock him away...!）
 
-76836	Rance~	（やばいやばいやばいやばい！）	（This is bad bad bad bad!）
+76836	Rance~		（やばいやばいやばいやばい！）	（This is bad bad bad bad!）
 
-76837	RedEye	「ミーのヴィクトリーーーッ！！」	「My victoryyyy!!」
+76837	RedEye		「ミーのヴィクトリーーーッ！！」	「My victoryyyy!!」
 
-76838	-	レッドアイの自分に迫る姿が、	The sight of RedEye charging at him
-76839	+	ランスの目にはいやにゆっくりと映った。	looked strangely slow in Rance's eyes.
+76838	-		レッドアイの自分に迫る姿が、	The sight of RedEye charging at him
+76839	+		ランスの目にはいやにゆっくりと映った。	looked strangely slow in Rance's eyes.
 
-76840	Rance~	（くっ……！）	（Kuh...!）
+76840	Rance~		（くっ……！）	（Kuh...!）
 
-76841	-	　	　
-76842	+	　　＜ぺちんっ＞	　　＜Pachin!＞
+76841	-		　	　
+76842	+		　　＜ぺちんっ＞	　　＜Pachin!＞
 
-76843	RedEye	「ぷぎゃ！」	「Pugya!」
+76843	RedEye		「ぷぎゃ！」	「Pugya!」
 
-76844	-	ランスに飛びかかったレッドアイは	RedEye, who had leaped at Rance,
-76845	+	ビスケッタの手刀で叩き落とされた。	was knocked down by Biscuitta's hand chop.
+76844	-		ランスに飛びかかったレッドアイは	RedEye, who had leaped at Rance,
+76845	+		ビスケッタの手刀で叩き落とされた。	was knocked down by Biscuitta's hand chop.
 
-76846	Rance	「へ、ビスケッタ、さん？」	「Heh, Biscuitta-san?」
+76846	Rance		「へ、ビスケッタ、さん？」	「Heh, Biscuitta-san?」
 
-76847	Biscuitta Burns	「突然横合いから不作法、申し訳ありません」	「I'm sorry for the sudden rude interruption from the side.」
+76847	Biscuitta Burns		「突然横合いから不作法、申し訳ありません」	「I'm sorry for the sudden rude interruption from the side.」
 
-76848	Biscuitta Burns	「ですが、この生き物が	「But this creature
-76849	+	　主を襲っていたので思わず……」	　was attacking my master, so I instinctively...」
+76848	Biscuitta Burns		「ですが、この生き物が	「But this creature
+76849	+		　主を襲っていたので思わず……」	　was attacking my master, so I instinctively...」
 
-76850	RedEye	「ノーーーーッ！	「Noooo!
-76851	+	　貴様なんかお呼びじゃノーッ！	　I didn't call for the likes of you!
-76852	+	　ドンタッチミーーーーッ！！」	　Don't touch meeee!!」
+76850	RedEye		「ノーーーーッ！	「Noooo!
+76851	+		　貴様なんかお呼びじゃノーッ！	　I didn't call for the likes of you!
+76852	+		　ドンタッチミーーーーッ！！」	　Don't touch meeee!!」
 
-76853	Biscuitta Burns	「動かないで下さい」	「Please don't move.」
+76853	Biscuitta Burns		「動かないで下さい」	「Please don't move.」
 
-76854	RedEye	「ノゴッ！？	「Nogo!?」
-76855	+	　グ！？　ゲ！？　ガ！？」	　Gu!? Ge!? Ga!?」
+76854	RedEye		「ノゴッ！？	「Nogo!?」
+76855	+		　グ！？　ゲ！？　ガ！？」	　Gu!? Ge!? Ga!?」
 
-76856	-	するするとレッドアイの触手を	Biscuitta smoothly tied up RedEye's tentacles
-76857	+	ビスケッタが紐をまとめるように結んでいく。	like bundling strings.
+76856	-		するするとレッドアイの触手を	Biscuitta smoothly tied up RedEye's tentacles
+76857	+		ビスケッタが紐をまとめるように結んでいく。	like bundling strings.
 
-76858	Rance	「ビスケッタさん……	「Biscuitta-san...
-76859	+	　それ、気持ち悪くないのか？」	　Doesn't that feel gross?」
+76858	Rance		「ビスケッタさん……	「Biscuitta-san...
+76859	+		　それ、気持ち悪くないのか？」	　Doesn't that feel gross?」
 
-76860	Biscuitta Burns	「タコのようなものです」	「It's like an octopus.」
+76860	Biscuitta Burns		「タコのようなものです」	「It's like an octopus.」
 
-76861	Sill Plain	「レッドアイを……タコ……」	「RedEye... as an octopus...」
+76861	Sill Plain		「レッドアイを……タコ……」	「RedEye... as an octopus...」
 
-76862	Biscuitta Burns	「……御主人様、	「...Master,
-76863	+	　後でおやつにタコヤキでも作りましょうか」	　shall I make takoyaki for a snack later?」
+76862	Biscuitta Burns		「……御主人様、	「...Master,
+76863	+		　後でおやつにタコヤキでも作りましょうか」	　shall I make takoyaki for a snack later?」
 
-76864	Rance	「……そうだな、食べたくなってきたぞ」	「...Yeah, I'm getting hungry for that.」
+76864	Rance		「……そうだな、食べたくなってきたぞ」	「...Yeah, I'm getting hungry for that.」
 
-76865	Sill Plain	「えっ！？」	「Eh!?」
+76865	Sill Plain		「えっ！？」	「Eh!?」
 
-76866	Biscuitta Burns	「はい、出来ました」	「Yes, finished.」
+76866	Biscuitta Burns		「はい、出来ました」	「Yes, finished.」
 
-76867	-	触手を固結びにされ、	With his tentacles tightly bound,
-76868	+	身動きの取れないレッドアイが	RedEye, unable to move,
-76869	+	地面にぼてっと転がされた。	was dumped onto the ground with a thud.
+76867	-		触手を固結びにされ、	With his tentacles tightly bound,
+76868	+		身動きの取れないレッドアイが	RedEye, unable to move,
+76869	+		地面にぼてっと転がされた。	was dumped onto the ground with a thud.
 
-76870	Biscuitta Burns	「後はお任せいたします。	「I'll leave the rest to you.
-76871	+	　御主人様」	　Master.」
+76870	Biscuitta Burns		「後はお任せいたします。	「I'll leave the rest to you.
+76871	+		　御主人様」	　Master.」
 
-76872	RedEye	「ノォーーーーー！！！！	「Nooooo!!!!
-76873	+	　ミーは、ミーは最強の兵器！」	　I am, I am the strongest weapon!」
+76872	RedEye		「ノォーーーーー！！！！	「Nooooo!!!!
+76873	+		　ミーは、ミーは最強の兵器！」	　I am, I am the strongest weapon!」
 
-76874	RedEye	「ミーのドラマは終わらない！	「My drama is not over!
-76875	+	　ヒューマンに永遠に続くヘルをルックさせるまで、	　Until I make humans look at eternal hell,
-76876	+	　こんなところではーーーーー！」	　not in a place like this!」
+76874	RedEye		「ミーのドラマは終わらない！	「My drama is not over!
+76875	+		　ヒューマンに永遠に続くヘルをルックさせるまで、	　Until I make humans look at eternal hell,
+76876	+		　こんなところではーーーーー！」	　not in a place like this!」
 
-76877	Rance	「黙って死ね」	「Shut up and die.」
+76877	Rance	真剣	「黙って死ね」	「Shut up and die.」
 
-76878	-	カオスの刃が突き立てられ、	Chaos's blade was thrust down,
-76879	+	レッドアイの本体である宝石が真っ二つに割れる。	and the gem that was RedEye's main body was split cleanly in two.
+76878	-		カオスの刃が突き立てられ、	Chaos's blade was thrust down,
+76879	+		レッドアイの本体である宝石が真っ二つに割れる。	and the gem that was RedEye's main body was split cleanly in two.
 
-76880	RedEye	「ピ、ゲ……ゲ……」	「Pi, ge... ge...」
+76880	RedEye	基本	「ピ、ゲ……ゲ……」	「Pi, ge... ge...」
 
-76881	RedEye	「――メ」	「--Me」
+76881	RedEye		「――メ」	「--Me」
 
-76882	RedEye	「メイクドラーーーーマーーーー！！！！」	「Make dramaaaaa!!!!」
+76882	RedEye		「メイクドラーーーーマーーーー！！！！」	「Make dramaaaaa!!!!」
 
-76883	-	断末魔の叫びを上げて、	With a final death cry,
-76884	+	ついに狂気の魔人レッドアイは動かなくなった。	the insane Fiend RedEye finally stopped moving.
+76883	-		断末魔の叫びを上げて、	With a final death cry,
+76884	+		ついに狂気の魔人レッドアイは動かなくなった。	the insane Fiend RedEye finally stopped moving.
 
-76885	Rance	「……まったく、最後までやかましい奴だったな」	「...What a noisy bastard until the very end.」
+76885	Rance	だる顔	「……まったく、最後までやかましい奴だったな」	「...What a noisy bastard until the very end.」
 
-76886	Biscuitta Burns	「お疲れ様です、御主人様。	「Good work, Master.
-76887	+	　レッドアイ討伐、さすがです」	　As expected of you in defeating RedEye.」
+76886	Biscuitta Burns	基本	「お疲れ様です、御主人様。	「Good work, Master.
+76887	+		　レッドアイ討伐、さすがです」	　As expected of you in defeating RedEye.」
 
-76888	Rance	「がははは、俺様なら当然だ！」	「Gahahaha, of course for me!」
+76888	Rance	笑顔	「がははは、俺様なら当然だ！」	「Gahahaha, of course for me!」
 
-76889	Rance	「……って、あれ？　そういや、	「...Wait, huh? Come to think of it,
-76890	+	　ビスケッタさんが何故ここに？」	　why is Biscuitta-san here?」
+76889	Rance	基本	「……って、あれ？　そういや、	「...Wait, huh? Come to think of it,
+76890	+		　ビスケッタさんが何故ここに？」	　why is Biscuitta-san here?」
 
-76891	Biscuitta Burns	「はい、御主人様を呼び戻しに参りました」	「Yes, I came to call Master back.」
+76891	Biscuitta Burns		「はい、御主人様を呼び戻しに参りました」	「Yes, I came to call Master back.」
 
-76892	Rance	「呼び戻しにだと？」	「Call me back?」
+76892	Rance		「呼び戻しにだと？」	「Call me back?」
 
-76893	Monster General	「てめぇらァアア！　なにしてるーーー！」	「You bastards! What are you doing!!!」
+76893	Monster General		「てめぇらァアア！　なにしてるーーー！」	「You bastards! What are you doing!!!」
 
-76894	Rance	「うお、なんだ！？」	「Whoa, what!?」
+76894	Rance		「うお、なんだ！？」	「Whoa, what!?」
 
-76895	Monster General	「レッドアイが死んだからってそれがなんだ！」	「So what if RedEye died!」
+76895	Monster General		「レッドアイが死んだからってそれがなんだ！」	「So what if RedEye died!」
 
-76896	Monster General	「もう敵の本拠地を落とす寸前なんだぞ！	「We're almost at the enemy's main base!
-76897	+	　ちったぁ根性を見せやがれ！」	　Show some damn spirit!」
+76896	Monster General		「もう敵の本拠地を落とす寸前なんだぞ！	「We're almost at the enemy's main base!
+76897	+		　ちったぁ根性を見せやがれ！」	　Show some damn spirit!」
 
-76898	Monster Captain	「で、ですが……」	「B-But...」
+76898	Monster Captain		「で、ですが……」	「B-But...」
 
-76899	Monster General	「一番に城に辿り着いた者は	「Whoever reaches the castle first
-76900	+	　ケイブリス様から褒美が出るぞ！」	　will get a reward from Lord Kayblis!
+76899	Monster General		「一番に城に辿り着いた者は	「Whoever reaches the castle first
+76900	+		　ケイブリス様から褒美が出るぞ！」	　will get a reward from Lord Kayblis!
 
-76901	Monster General	「出世に女に好き放題だ！	「Promotion, women, anything you want!
-76902	+	　さあ、これでも逃げ帰るのか、貴様ら！」	　So are you still going to run, you bastards!」
+76901	Monster General		「出世に女に好き放題だ！	「Promotion, women, anything you want!
+76902	+		　さあ、これでも逃げ帰るのか、貴様ら！」	　So are you still going to run, you bastards!」
 
-76903	Green Monster Soldier	「出世……」	「Promotion...」
+76903	Green Monster Soldier		「出世……」	「Promotion...」
 
-76904	Blue Monster Soldier	「女……」	「Women...」
+76904	Blue Monster Soldier		「女……」	「Women...」
 
-76905	Green Monster Soldier	「うらぁああ！　褒美は俺様のものだー！」	「Uraaaa! The reward is mine!」
+76905	Green Monster Soldier		「うらぁああ！　褒美は俺様のものだー！」	「Uraaaa! The reward is mine!」
 
-76906	Blue Monster Soldier	「どけぇえ！　俺だ俺だ俺だーーー！」	「Move! It's me, me, meeee!」
+76906	Blue Monster Soldier		「どけぇえ！　俺だ俺だ俺だーーー！」	「Move! It's me, me, meeee!」
 
-76907	Sachiko Centers	「わー、いっぱい来ましたよー！？」	「Wah, so many are coming!?」
+76907	Sachiko Centers		「わー、いっぱい来ましたよー！？」	「Wah, so many are coming!?」
 
-76908	Alkanese Rize	「な、なんだこいつら！？	「W-What are these guys!?
-76909	+	　また元気になりやがって！」	　They're full of energy again!」
+76908	Alkanese Rize	怒り	「な、なんだこいつら！？	「W-What are these guys!?
+76909	+		　また元気になりやがって！」	　They're full of energy again!」
 
-76910	-	レッドアイが消えた途端、	The moment RedEye disappeared,
-76911	+	辺りは乱戦の様相を呈し始めた。	the area turned into a chaotic melee.
+76910	-		レッドアイが消えた途端、	The moment RedEye disappeared,
+76911	+		辺りは乱戦の様相を呈し始めた。	the area turned into a chaotic melee.
 
-76912	Sill Plain	「ど、どうしましょう、ランス様……	「W-What should we do, Lord Rance...
-76913	+	　ま、魔物がこんなに沢山……」	　There are so many monsters...」
+76912	Sill Plain	泣き	「ど、どうしましょう、ランス様……	「W-What should we do, Lord Rance...
+76913	+		　ま、魔物がこんなに沢山……」	　There are so many monsters...」
 
-76914	Sill Plain	「せっかくレッドアイを倒したのに、	「We finally defeated RedEye, but
-76915	+	　これじゃ……」	　at this rate...」
+76914	Sill Plain		「せっかくレッドアイを倒したのに、	「We finally defeated RedEye, but
+76915	+		　これじゃ……」	　at this rate...」
 
-76916	Rance	「どうなってやがる……	「What's going on...
-76917	+	　魔人を倒したら魔軍は逃げるんじゃないのか？」	　Isn't the Monster Army supposed to run when their Fiend is defeated?」
+76916	Rance	だる顔	「どうなってやがる……	「What's going on...
+76917	+		　魔人を倒したら魔軍は逃げるんじゃないのか？」	　Isn't the Monster Army supposed to run when their Fiend is defeated?」
 
-76918	Crook Mofus	「今回の場合はもう少しで本丸が落とせますからね。	「In this case they're almost at our main base.
-76919	+	　魔物の意地ではないでしょうか」	　It must be monster pride.」
+76918	Crook Mofus	基本	「今回の場合はもう少しで本丸が落とせますからね。	「In this case they're almost at our main base.
+76919	+		　魔物の意地ではないでしょうか」	　It must be monster pride.」
 
-76920	Rance~	（ちっ、面倒だな……どうする、どうする……）	（Tch, what a pain... what to do, what to do...）
+76920	Rance~	だる顔	（ちっ、面倒だな……どうする、どうする……）	（Tch, what a pain... what to do, what to do...）
 
-76921	Biscuitta Burns	「御主人様、すぐ城にお戻り下さい」	「Master, please return to the castle immediately.」
+76921	Biscuitta Burns	基本	「御主人様、すぐ城にお戻り下さい」	「Master, please return to the castle immediately.」
 
-76922	Rance	「あ？　そういやさっきもそう言ってたな。	「Huh? You said that earlier too.
-76923	+	　なんだって城に……」	　Why to the castle...?」
+76922	Rance		「あ？　そういやさっきもそう言ってたな。	「Huh? You said that earlier too.
+76923	+		　なんだって城に……」	　Why to the castle...?」
 
-76924	Biscuitta Burns	「他の部隊も全て城に撤収しています」	「All other units have also withdrawn to the castle.」
+76924	Biscuitta Burns		「他の部隊も全て城に撤収しています」	「All other units have also withdrawn to the castle.」
 
-76925	Rance	「なに？　どういうことだ？	「What? What's going on?
-76926	+	　俺様はそんな命令してないぞ」	　I didn't give any such order.」
+76925	Rance		「なに？　どういうことだ？	「What? What's going on?
+76926	+		　俺様はそんな命令してないぞ」	　I didn't give any such order.」
 
-76927	Patton Helman	「それは俺が先んじてお願いしていたのさ」	「I asked them to do that in advance.」
+76927	Patton Helman		「それは俺が先んじてお願いしていたのさ」	「I asked them to do that in advance.」
 
-76928	Rance	「パットン！　貴様、どういうつもりだ！」	「Patton! What the hell are you planning!」
+76928	Rance		「パットン！　貴様、どういうつもりだ！」	「Patton! What the hell are you planning!」
 
-76929	Patton Helman	「どうもこうも……」	「No special reason...
+76929	Patton Helman		「どうもこうも……」	「No special reason...
 
-76930	-	パットンがふっと笑った。	Patton smiled faintly.
+76930	-		パットンがふっと笑った。	Patton smiled faintly.
 
-76931	Patton Helman	「逃げるのさ」	「We're running.」
+76931	Patton Helman	ウィンク	「逃げるのさ」	「We're running.」

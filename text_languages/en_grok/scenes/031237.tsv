@@ -6,85 +6,85 @@
 * Sill Plain	シィル	Female
 * Chaos	カオス	Male
 
-61732	Rance	「しかし……ええと、パイアールだったか。	「But... um, it was Pi-R, right.
-61733	+	　魔人って言うわりには、	　For a Fiend,
-61734	+	　ただ病んだガキって感じだったな」	　he just seemed like a sick kid.」
+61732	Rance	基本	「しかし……ええと、パイアールだったか。	「But... um, it was Pi-R, right.
+61733	+		　魔人って言うわりには、	　For a Fiend,
+61734	+		　ただ病んだガキって感じだったな」	　he just seemed like a sick kid.」
 
-61735	Satella	「実際、そんなところだ。	「That's pretty much it.
-61736	+	　サテラも、戦う所はほとんど見た事ない」	　Even Satella has barely seen him fight.」
+61735	Satella	不安	「実際、そんなところだ。	「That's pretty much it.
+61736	+		　サテラも、戦う所はほとんど見た事ない」	　Even Satella has barely seen him fight.」
 
-61737	Satella	「パイアールは、兵器を作る魔人だ。	「Pi-R is a Fiend who creates weapons.
-61738	+	　……嘘か本当か分からないが、奴の発明品は、	　...True or not, his inventions
-61739	+	　作るのに魔力や素質はほぼ必要としないらしい」	　apparently need almost no magic power or talent.」
+61737	Satella		「パイアールは、兵器を作る魔人だ。	「Pi-R is a Fiend who creates weapons.
+61738	+		　……嘘か本当か分からないが、奴の発明品は、	　...True or not, his inventions
+61739	+		　作るのに魔力や素質はほぼ必要としないらしい」	　apparently need almost no magic power or talent.」
 
-61740	Rance	「マリアと同じという訳か」	「So same as Maria.」
+61740	Rance	基本	「マリアと同じという訳か」	「So same as Maria.」
 
-61741	Maria Custard	「う……そ、そう、なるわね……	「U... Y-yeah, I guess...
-61742	+	　でもあれ、本当にそうなの……？	　But is that really true...?
-61743	+	　魔法の産物と言われる方が、まだ…………」	　It would make more sense if they were called products of magic...」
+61741	Maria Custard	あかんわ	「う……そ、そう、なるわね……	「U... Y-yeah, I guess...
+61742	+		　でもあれ、本当にそうなの……？	　But is that really true...?
+61743	+		　魔法の産物と言われる方が、まだ…………」	　It would make more sense if they were called products of magic...」
 
-61744	Miracle Tor	「マリア・カスタード。	「Maria Custard.
-61745	+	　断言しておくが、あれは以前見た限り、	　I can say for sure, from what I saw before,
-61746	+	　魔法科学はほとんど用いられていないぞ」	　almost no magic science was used.」
+61744	Miracle Tor	基本	「マリア・カスタード。	「Maria Custard.
+61745	+		　断言しておくが、あれは以前見た限り、	　I can say for sure, from what I saw before,
+61746	+		　魔法科学はほとんど用いられていないぞ」	　almost no magic science was used.」
 
-61747	Maria Custard	「うう……そ、そうだよね……」	「Uuu... Yeah...」
+61747	Maria Custard	泣き	「うう……そ、そうだよね……」	「Uuu... Yeah...」
 
-61748	Rance	「そういや、前にぶち壊した奴のロボット、	「Come to think of it, that robot we smashed before,
-61749	+	　解析してただろ。できたのか？」	　you were analyzing it. Did you figure it out?」
+61748	Rance	基本	「そういや、前にぶち壊した奴のロボット、	「Come to think of it, that robot we smashed before,
+61749	+		　解析してただろ。できたのか？」	　you were analyzing it. Did you figure it out?」
 
-61750	Maria Custard	「ぜ、全然無理なの、それが……	「It's completely impossible...
-61751	+	　弾丸ひとつ、ネジひとつまで調べたんだけど、	　I checked down to every bullet and screw,
-61752	+	　材質の製法から、さっぱりで……うぅ……」	　but the material manufacturing is a total mystery... Uuu...」
+61750	Maria Custard	泣き	「ぜ、全然無理なの、それが……	「It's completely impossible...
+61751	+		　弾丸ひとつ、ネジひとつまで調べたんだけど、	　I checked down to every bullet and screw,
+61752	+		　材質の製法から、さっぱりで……うぅ……」	　but the material manufacturing is a total mystery... Uuu...」
 
-61753	Rance	「ちっ、無能め」	「Tch, useless.」
+61753	Rance	だる顔	「ちっ、無能め」	「Tch, useless.」
 
-61754	Satella	「ま。いろんな兵器を作ってるが……	「Well. He makes all kinds of weapons...
-61755	+	　シーザーの方がかっこいいし可愛い。	　But Caesar is cooler and cuter.
-61756	+	　あいつはただの変人だ」	　He's just a weirdo.」
+61754	Satella	ふふん	「ま。いろんな兵器を作ってるが……	「Well. He makes all kinds of weapons...
+61755	+		　シーザーの方がかっこいいし可愛い。	　But Caesar is cooler and cuter.
+61756	+		　あいつはただの変人だ」	　He's just a weirdo.」
 
-61757	Rance~	（さっきのマリアと同じ事を……）	（Same as what Maria said earlier...）
+61757	Rance~	真剣	（さっきのマリアと同じ事を……）	（Same as what Maria said earlier...）
 
-61758	Sill Plain	「あの、そのいろんな兵器って……	「Um, those various weapons...
-61759	+	　まだ健在なんですか？	　Are they still active?
-61760	+	　戦車だけじゃなくて…………」	　Not just the tanks...」
+61758	Sill Plain	泣き	「あの、そのいろんな兵器って……	「Um, those various weapons...
+61759	+		　まだ健在なんですか？	　Are they still active?
+61760	+		　戦車だけじゃなくて…………」	　Not just the tanks...」
 
-61761	Satella	「いや。けっこう破壊したぞ。	「No. We destroyed quite a few.
-61762	+	　メカバボラも強かったが、	　Mech Babolat was strong too,
-61763	+	　シーザーとシルキィが潰したし……」	　but Caesar and Silky crushed it...」
+61761	Satella	基本	「いや。けっこう破壊したぞ。	「No. We destroyed quite a few.
+61762	+		　メカバボラも強かったが、	　Mech Babolat was strong too,
+61763	+		　シーザーとシルキィが潰したし……」	　but Caesar and Silky crushed it...」
 
-61764	Satella	「けど、やっぱりやばいのは衛星兵器だったな。	「But the really dangerous one was the satellite weapon.
-61765	+	　サテラがバグを集めて、直接流し込んで……」	　Satella gathered bugs and injected them directly...」
+61764	Satella	ふふん	「けど、やっぱりやばいのは衛星兵器だったな。	「But the really dangerous one was the satellite weapon.
+61765	+		　サテラがバグを集めて、直接流し込んで……」	　Satella gathered bugs and injected them directly...」
 
-61766	Rance	「バグ？　あぁ、そういえば集めてたな」	「Bugs? Oh yeah, you were collecting them.」
+61766	Rance	基本	「バグ？　あぁ、そういえば集めてたな」	「Bugs? Oh yeah, you were collecting them.」
 
-61767	Satella	「えっ、あ…………！」	「Eh, ah...!」
+61767	Satella	超テレ	「えっ、あ…………！」	「Eh, ah...!」
 
-61768	Satella~	（そういえば、っ……バグはランスに集めさせて……	（Now that I think about it... I made Rance collect the bugs...
-61769	+	　でも、そ、その場で、っ……）	　But right there...）
+61768	Satella~	ぐぬぬ	（そういえば、っ……バグはランスに集めさせて……	（Now that I think about it... I made Rance collect the bugs...
+61769	+		　でも、そ、その場で、っ……）	　But right there...）
 
-61770	Satella	「〜〜〜〜〜〜っ……」	「~~~~~~~~~~...」
+61770	Satella	思考	「〜〜〜〜〜〜っ……」	「~~~~~~~~~~...」
 
-61771	Rance	「？　どうかしたか？」	「? What's wrong?」
+61771	Rance	基本	「？　どうかしたか？」	「? What's wrong?」
 
-61772	Satella	「こ、光栄に思うんだぞっ！」	「Y-you should feel honored!」
+61772	Satella	ツンデレ	「こ、光栄に思うんだぞっ！」	「Y-you should feel honored!」
 
-61773	Rance	「使徒だどうだってアレか……	「Apostle or whatever, that thing...
-61774	+	　ああ、そうだなー。働かせてもらって光栄だなー」	　Yeah, right. Honored to have worked.」
+61773	Rance	基本	「使徒だどうだってアレか……	「Apostle or whatever, that thing...
+61774	+		　ああ、そうだなー。働かせてもらって光栄だなー」	　Yeah, right. Honored to have worked.」
 
-61775	Satella	「……………………」	「........................」
+61775	Satella	ぐぬぬ	「……………………」	「........................」
 
-61776	Sill Plain	「ところでランス様。	「By the way, Rance-sama.
-61777	+	　今、どこに向かってるんですか？」	　Where are we heading now?」
+61776	Sill Plain	基本	「ところでランス様。	「By the way, Rance-sama.
+61777	+		　今、どこに向かってるんですか？」	　Where are we heading now?」
 
-61778	Rance	「目的はない。	「No specific goal.
-61779	+	　だが戦車を狙い撃ちしてくるという事は、	　But since they snipe at tanks,
-61780	+	　こうしていれば、向こうから本命がやってくる」	　if we do this, the real one will come to us.」
+61778	Rance		「目的はない。	「No specific goal.
+61779	+		　だが戦車を狙い撃ちしてくるという事は、	　But since they snipe at tanks,
+61780	+		　こうしていれば、向こうから本命がやってくる」	　if we do this, the real one will come to us.」
 
-61781	Rance	「そこを返り討ちにしてやるのだ。	「Then we'll counterattack.
-61782	+	　今度は逃がさん、きっちり殺してやろう」	　This time I won't let him escape, I'll kill him properly.」
+61781	Rance	笑顔	「そこを返り討ちにしてやるのだ。	「Then we'll counterattack.
+61782	+		　今度は逃がさん、きっちり殺してやろう」	　This time I won't let him escape, I'll kill him properly.」
 
-61783	Chaos	「むほほほ。	「Muhohoho.
-61784	+	　天才魔人の脳味噌の色は何色かなーっと！	　What color is the genius Fiend's brain I wonder!
-61785	+	　ピンク？　灰色？　知りたい知りたい！」	　Pink? Gray? I wanna know!」
+61783	Chaos	基本	「むほほほ。	「Muhohoho.
+61784	+		　天才魔人の脳味噌の色は何色かなーっと！	　What color is the genius Fiend's brain I wonder!
+61785	+		　ピンク？　灰色？　知りたい知りたい！」	　Pink? Gray? I wanna know!」
 
-61786	Maria Custard	「はぁ……複雑だわ……がんばろ」	「Haa... It's complicated... Let's do our best.」
+61786	Maria Custard	あかんわ	「はぁ……複雑だわ……がんばろ」	「Haa... It's complicated... Let's do our best.」

@@ -12,151 +12,151 @@
 * Zance Leazas	ザンス２	Male
 * Rocky Bank	ロッキー２	Male
 
-233677	-	あなた達はコパンドンの厚意に甘え、	Taking advantage of Copandon's kindness,
-233678	+	Mランド内のレストランで昼食を頂く。	you had lunch at a restaurant inside M Land.
+233677	-		あなた達はコパンドンの厚意に甘え、	Taking advantage of Copandon's kindness,
+233678	+		Mランド内のレストランで昼食を頂く。	you had lunch at a restaurant inside M Land.
 
-233679	-	そしてその後、一部メンバー	After that, at the strong request of some members
-233680	+	（主に長田君、ナギ、レリコフ、ヒーロー等）	（mainly Nagata-kun, Nagi, Lelikov Helman, Hero, etc.）
-233681	+	の、強い希望によりMランドで遊ぶこととなった。	you decided to play at M Land.
+233679	-		そしてその後、一部メンバー	After that, at the strong request of some members
+233680	+		（主に長田君、ナギ、レリコフ、ヒーロー等）	（mainly Nagata-kun, Nagi, Lelikov Helman, Hero, etc.）
+233681	+		の、強い希望によりMランドで遊ぶこととなった。	you decided to play at M Land.
 
-233682	-	…………	............
+233682	-		…………	............
 
-233683	-	……	......
+233683	-		……	......
 
-233684	-	楽しい時はあっという間に過ぎ、	Fun times pass in the blink of an eye,
-233685	+	あなた達は園内のホテルへ引き上げる。	and you returned to the hotel inside the park.
+233684	-		楽しい時はあっという間に過ぎ、	Fun times pass in the blink of an eye,
+233685	+		あなた達は園内のホテルへ引き上げる。	and you returned to the hotel inside the park.
 
-233686	-	一同はあなたの部屋に集まり、	Everyone gathered in your room,
-233687	+	作戦会議を行った。	and held a strategy meeting.
+233686	-		一同はあなたの部屋に集まり、	Everyone gathered in your room,
+233687	+		作戦会議を行った。	and held a strategy meeting.
 
-233688	Yamamoto Rangi	「さて、説明してないことが多かったから、	「Now then, there were many things I haven't explained,
-233689	+	　改めて、今の内に説明しておこうか」	　so let me explain them properly now.」
+233688	Yamamoto Rangi	基本	「さて、説明してないことが多かったから、	「Now then, there were many things I haven't explained,
+233689	+		　改めて、今の内に説明しておこうか」	　so let me explain them properly now.」
 
-233690	Reset Kalar	「はーい、授業を始めるから、	「Okay, class is starting,
-233691	+	　おねむの子もちゃんと起きててねー」	　sleepy kids make sure to stay awakeー」
+233690	Reset Kalar	口開き	「はーい、授業を始めるから、	「Okay, class is starting,
+233691	+		　おねむの子もちゃんと起きててねー」	　sleepy kids make sure to stay awakeー」
 
-233692	Reset Kalar	「……起きててね？」	「...Stay awake, okay?」
+233692	Reset Kalar	たははー	「……起きててね？」	「...Stay awake, okay?」
 
-233693	Nagata-kun	「う、うぃーっす……起きてます……」	「Y-Yes... I'm awake...」
+233693	Nagata-kun	基本	「う、うぃーっす……起きてます……」	「Y-Yes... I'm awake...」
 
-233694	Nagi su Ragarl	「あははは……	「Ahahaha...
-233695	+	　昼間ちょっとはしゃぎすぎたねー」	　I got a bit too excited during the dayー」
+233694	Nagi su Ragarl	帽子なし／反省	「あははは……	「Ahahaha...
+233695	+		　昼間ちょっとはしゃぎすぎたねー」	　I got a bit too excited during the dayー」
 
-233696	Tokugawa Tone	「すやすや……すぴすぴ……」	「Suya suya... Supi supi...」
+233696	Tokugawa Tone	スヤァ	「すやすや……すぴすぴ……」	「Suya suya... Supi supi...」
 
-233697	Kentou Uzume	「はいはい、深根ちゃん、	「Yes yes, Tone-chan,
-233698	+	　起きてーでござる」	　wake up.」
+233697	Kentou Uzume	基本	「はいはい、深根ちゃん、	「Yes yes, Tone-chan,
+233698	+		　起きてーでござる」	　wake up.」
 
-233699	Hero Helman	「ほらほら、レリコフも、	「Come on Lelikov Helman too,
-233700	+	　起きてないと怒られちゃうよ」	　if you don't wake up you'll get scolded.」
+233699	Hero Helman		「ほらほら、レリコフも、	「Come on Lelikov Helman too,
+233700	+		　起きてないと怒られちゃうよ」	　if you don't wake up you'll get scolded.」
 
-233701	Lelikov Helman	「うーーーん……ねむい……」	「Uuuu... sleepy...」
+233701	Lelikov Helman	しょんぼり	「うーーーん……ねむい……」	「Uuuu... sleepy...」
 
-233702	Nagi su Ragarl	「ほんじゃ先生、しつもーん」	「Then teacher, questionー」
+233702	Nagi su Ragarl	帽子なし	「ほんじゃ先生、しつもーん」	「Then teacher, questionー」
 
-233703	Reset Kalar	「はい、ナギちゃん」	「Yes, Nagi-chan.」
+233703	Reset Kalar	基本	「はい、ナギちゃん」	「Yes, Nagi-chan.」
 
-233704	Nagi su Ragarl	「えーと、さっき変なこと言ってたけど、	「Um, you said something weird earlier,
-233705	+	　魔剣カオスを手に入れるには	　to get the Demon Sword Chaos
-233706	+	　闘神大会に出る必要があるの？」	　we need to participate in the Toushin Tournament?」
+233704	Nagi su Ragarl	帽子なし	「えーと、さっき変なこと言ってたけど、	「Um, you said something weird earlier,
+233705	+		　魔剣カオスを手に入れるには	　to get the Demon Sword Chaos
+233706	+		　闘神大会に出る必要があるの？」	　we need to participate in the Toushin Tournament?」
 
-233707	Reset Kalar	「うん、そういうこと。	「Yeah, that's right.
-233708	+	　全員でなくともいいけどね」	　Not everyone has to though.」
+233707	Reset Kalar	基本	「うん、そういうこと。	「Yeah, that's right.
+233708	+		　全員でなくともいいけどね」	　Not everyone has to though.」
 
-233709	Yamamoto Rangi	「まず、魔剣カオスの所在について話しておこうか」	「First, let me talk about the location of the Demon Sword Chaos.」
+233709	Yamamoto Rangi	説明するよ	「まず、魔剣カオスの所在について話しておこうか」	「First, let me talk about the location of the Demon Sword Chaos.」
 
-233710	Yamamoto Rangi	「魔剣カオスとは今＜エール＞が持っている	「The Demon Sword Chaos, like the Holy Sword Nikkou that ＜エール＞ currently holds,
-233711	+	　聖刀日光と同じく、この世で唯一	　is one of the only weapons in this world
-233712	+	　魔人、魔王に対抗できる武器のこと」	　capable of opposing Fiends and the Demon King.」
+233710	Yamamoto Rangi	基本	「魔剣カオスとは今＜エール＞が持っている	「The Demon Sword Chaos, like the Holy Sword Nikkou that ＜エール＞ currently holds,
+233711	+		　聖刀日光と同じく、この世で唯一	　is one of the only weapons in this world
+233712	+		　魔人、魔王に対抗できる武器のこと」	　capable of opposing Fiends and the Demon King.」
 
-233713	Yamamoto Rangi	「既に聖刀日光を擁しているとは言え……	「Even though we already have the Holy Sword Nikkou...
-233714	+	　魔王に対抗する武器は一つでも多い方がいい。	　It's better to have as many weapons against the Demon King as possible.
-233715	+	　出来れば魔剣カオスも手に入れたいね」	　Ideally we'd like to obtain the Demon Sword Chaos too.」
+233713	Yamamoto Rangi		「既に聖刀日光を擁しているとは言え……	「Even though we already have the Holy Sword Nikkou...
+233714	+		　魔王に対抗する武器は一つでも多い方がいい。	　It's better to have as many weapons against the Demon King as possible.
+233715	+		　出来れば魔剣カオスも手に入れたいね」	　Ideally we'd like to obtain the Demon Sword Chaos too.」
 
-233716	Nikkou	「ええ、私も賛成です」	「Yes, I agree too.」
+233716	Nikkou		「ええ、私も賛成です」	「Yes, I agree too.」
 
-233717	Reset Kalar	「元々は私達のお父さん、	「Originally it belonged to our father,
-233718	+	　魔王ランスが持っていた武器なんだけど、	　Demon King Rance,
-233719	+	　魔王になったのを機に手放したみたい」	　but he let go of it when he became the Demon King.」
+233717	Reset Kalar		「元々は私達のお父さん、	「Originally it belonged to our father,
+233718	+		　魔王ランスが持っていた武器なんだけど、	　Demon King Rance,
+233719	+		　魔王になったのを機に手放したみたい」	　but he let go of it when he became the Demon King.」
 
-233720	Reset Kalar	「その後、魔剣カオスはカーマさん、	「After that, the Demon Sword Chaos came into the hands of Karma-san,
-233721	+	　もといカーマという女冒険者さんの手に」	　a female adventurer named Karma.」
+233720	Reset Kalar		「その後、魔剣カオスはカーマさん、	「After that, the Demon Sword Chaos came into the hands of Karma-san,
+233721	+		　もといカーマという女冒険者さんの手に」	　a female adventurer named Karma.」
 
-233722	Reset Kalar	「ただ、お父さんに挑んだ際に敗れて……	「However, when she challenged our father she was defeated...
-233723	+	　魔剣カオスはお父さんの手で、	　and the Demon Sword Chaos was thrown far away
-233724	+	　遠くへ放り投げられちゃったの」	　by our father.」
+233722	Reset Kalar		「ただ、お父さんに挑んだ際に敗れて……	「However, when she challenged our father she was defeated...
+233723	+		　魔剣カオスはお父さんの手で、	　and the Demon Sword Chaos was thrown far away
+233724	+		　遠くへ放り投げられちゃったの」	　by our father.」
 
-233725	Yamamoto Rangi	「その際に岩に突き刺さり、	「At that time it stabbed into a rock,
-233726	+	　常人には簡単に抜けない状態に陥り――」	　and became a state where normal people couldn't easily pull it out――」
+233725	Yamamoto Rangi		「その際に岩に突き刺さり、	「At that time it stabbed into a rock,
+233726	+		　常人には簡単に抜けない状態に陥り――」	　and became a state where normal people couldn't easily pull it out――」
 
-233727	Yamamoto Rangi	「少し馬鹿馬鹿しい話だが……	「It's a bit silly but...
-233728	+	　この岩は皆が引き抜こうとチャレンジする	　this rock became a famous tourist spot
-233729	+	　有名な観光名所となっていたらしい」	　where people challenge themselves to pull it out.」
+233727	Yamamoto Rangi		「少し馬鹿馬鹿しい話だが……	「It's a bit silly but...
+233728	+		　この岩は皆が引き抜こうとチャレンジする	　this rock became a famous tourist spot
+233729	+		　有名な観光名所となっていたらしい」	　where people challenge themselves to pull it out.」
 
-233730	Reset Kalar	「で、ここからが本題」	「And now the main topic.」
+233730	Reset Kalar		「で、ここからが本題」	「And now the main topic.」
 
-233731	Reset Kalar	「なんと闘神都市がその岩ごとカオスを買い取って、	「Amazingly, the Toushin City bought the Chaos along with the rock,
-233732	+	　毎年闘神都市で行われる	　and made it the secondary prize
-233733	+	　武闘大会、闘神大会の副賞としちゃったの」	　for the annual Toushin Tournament held in the city.」
+233731	Reset Kalar	口開き	「なんと闘神都市がその岩ごとカオスを買い取って、	「Amazingly, the Toushin City bought the Chaos along with the rock,
+233732	+		　毎年闘神都市で行われる	　and made it the secondary prize
+233733	+		　武闘大会、闘神大会の副賞としちゃったの」	　for the annual Toushin Tournament held in the city.」
 
-233734	Masou Shizuka	「副賞？」	「Secondary prize?」
+233734	Masou Shizuka	基本	「副賞？」	「Secondary prize?」
 
-233735	Reset Kalar	「うん、闘神大会の本戦出場者のみが、	「Yeah, only the main tournament participants
-233736	+	　引き抜くチャレンジ権を	　get the right to challenge pulling it out.」
-233737	+	　得られるようにしたんだって」	
+233735	Reset Kalar		「うん、闘神大会の本戦出場者のみが、	「Yeah, only the main tournament participants
+233736	+		　引き抜くチャレンジ権を	　get the right to challenge pulling it out.」
+233737	+		　得られるようにしたんだって」	
 
-233738	Masou Shizuka	「……ああ、なるほど。そういう話なわけね」	「...Ah, I see. So that's what it is.」
+233738	Masou Shizuka		「……ああ、なるほど。そういう話なわけね」	「...Ah, I see. So that's what it is.」
 
-233739	Reset Kalar	「だから、平和的に手に入れるには、	「Therefore, to obtain it peacefully,
-233740	+	　私達も闘神大会に出場しないといけないの」	　we also need to participate in the Toushin Tournament.」
+233739	Reset Kalar		「だから、平和的に手に入れるには、	「Therefore, to obtain it peacefully,
+233740	+		　私達も闘神大会に出場しないといけないの」	　we also need to participate in the Toushin Tournament.」
 
-233741	Nagi su Ragarl	「ちなみに、木のオーブはどこにあるの？	「By the way, where is the Wood Orb?
-233742	+	　それも闘神都市にあるんだよね？」	　It's also in the Toushin City, right?」
+233741	Nagi su Ragarl		「ちなみに、木のオーブはどこにあるの？	「By the way, where is the Wood Orb?
+233742	+		　それも闘神都市にあるんだよね？」	　It's also in the Toushin City, right?」
 
-233743	Yamamoto Rangi	「カオスと同じ場所のようですね。	「It seems to be in the same place as Chaos.
-233744	+	　先程話に出たカオスが突き刺さった岩の土台、	　At the base of the rock where Chaos is stabbed,
-233745	+	　その近くにあるそうです」	　that's where it is.」
+233743	Yamamoto Rangi		「カオスと同じ場所のようですね。	「It seems to be in the same place as Chaos.
+233744	+		　先程話に出たカオスが突き刺さった岩の土台、	　At the base of the rock where Chaos is stabbed,
+233745	+		　その近くにあるそうです」	　that's where it is.」
 
-233746	Nagi su Ragarl	「ほっほーう」	「Hoh hou.」
+233746	Nagi su Ragarl	帽子なし	「ほっほーう」	「Hoh hou.」
 
-233747	Nagi su Ragarl	「なら、大会に出場すれば一石二鳥ってわけだー」	「Then participating in the tournament would kill two birds with one stoneー」
+233747	Nagi su Ragarl	帽子なし／笑顔	「なら、大会に出場すれば一石二鳥ってわけだー」	「Then participating in the tournament would kill two birds with one stoneー」
 
-233748	Zance Leazas	「そのとぉーり！	「Exactly!
-233749	+	　俺らは出場せざるを得ないわけだ！」	　We have no choice but to participate!」
+233748	Zance Leazas	微笑み	「そのとぉーり！	「Exactly!
+233749	+		　俺らは出場せざるを得ないわけだ！」	　We have no choice but to participate!」
 
-233750	Rocky Bank	「武闘大会に出るなんて危険だすが……	「Participating in a fighting tournament is dangerous but...
-233751	+	　皆さんが出場するなら大丈夫だすな」	　if everyone is participating then it'll be fine.」
+233750	Rocky Bank	楽	「武闘大会に出るなんて危険だすが……	「Participating in a fighting tournament is dangerous but...
+233751	+		　皆さんが出場するなら大丈夫だすな」	　if everyone is participating then it'll be fine.」
 
-233752	Zance Leazas	「がははは、とーぜんだ！」	「Gahahaha, of course!」
+233752	Zance Leazas	笑い	「がははは、とーぜんだ！」	「Gahahaha, of course!」
 
-233753	Masou Shizuka	「嬉しそうに……」	「You look so happy...」
+233753	Masou Shizuka	基本	「嬉しそうに……」	「You look so happy...」
 
-233754	Yamamoto Rangi	「闘神大会が開かれるのは来週、	「The Toushin Tournament is next week,
-233755	+	　今から向かえば充分に間に合うだろう」	　if we head there now we'll make it in plenty of time.」
+233754	Yamamoto Rangi		「闘神大会が開かれるのは来週、	「The Toushin Tournament is next week,
+233755	+		　今から向かえば充分に間に合うだろう」	　if we head there now we'll make it in plenty of time.」
 
-233756	Reset Kalar	「うん、というわけで、	「Yeah, so with that,
-233757	+	　明日からは闘神都市を目指して出発だー」	　starting tomorrow we head for the Toushin Cityー」
+233756	Reset Kalar	口開き	「うん、というわけで、	「Yeah, so with that,
+233757	+		　明日からは闘神都市を目指して出発だー」	　starting tomorrow we head for the Toushin Cityー」
 
-233758	Reset Kalar	「…………」	「............」
+233758	Reset Kalar		「…………」	「............」
 
-233759	Reset Kalar	「という話なんだけど、	「That's the story,
-233760	+	　分かってもらえたかな？」	　did everyone understand?」
+233759	Reset Kalar	たははー	「という話なんだけど、	「That's the story,
+233760	+		　分かってもらえたかな？」	　did everyone understand?」
 
-233761	Lelikov Helman	「ぐうぐう……ぐうぐう……」	「Zzz... zzz...」
+233761	Lelikov Helman	基本	「ぐうぐう……ぐうぐう……」	「Zzz... zzz...」
 
-233762	Hero Helman	「すやすや……」	「Suya suya...」
+233762	Hero Helman		「すやすや……」	「Suya suya...」
 
-233763	Nagata-kun	「すぴー、すぴょんぴょん……」	「Supi, supyon pyon...」
+233763	Nagata-kun		「すぴー、すぴょんぴょん……」	「Supi, supyon pyon...」
 
-233764	-	室内にいる数人は昼間の疲れから、	Several people in the room, tired from the day's activities,
-233765	+	夢の世界に気持ち良さそうに飛び立っていた。	had pleasantly flown off to the world of dreams.
+233764	-		室内にいる数人は昼間の疲れから、	Several people in the room, tired from the day's activities,
+233765	+		夢の世界に気持ち良さそうに飛び立っていた。	had pleasantly flown off to the world of dreams.
 
-233766	Masou Shizuka	「この子達は……」	「These kids...」
+233766	Masou Shizuka	帽子なし／ため息	「この子達は……」	「These kids...」
 
-233767	Nagi su Ragarl	「まあ、乱義が後で説明してくれるさ」	「Well, Rangi will explain later.」
+233767	Nagi su Ragarl	帽子なし／反省	「まあ、乱義が後で説明してくれるさ」	「Well, Rangi will explain later.」
 
-233768	Yamamoto Rangi	「はあ……」	「Haa...」
+233768	Yamamoto Rangi	ため息	「はあ……」	「Haa...」
 
-233769	-	こうして……	And so...
+233769	-		こうして……	And so...
 
-233770	-	あなた達は一路、闘神都市を目指すこととなった。	you decided to head straight for the Toushin City.
+233770	-		あなた達は一路、闘神都市を目指すこととなった。	you decided to head straight for the Toushin City.

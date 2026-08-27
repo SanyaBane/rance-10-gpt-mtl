@@ -5,112 +5,112 @@
 * Merim Tser	メリム	Female
 * Babolat	バボラ	Male
 
-153456	-	ヘルマン――	Helman――
+153456	-		ヘルマン――	Helman――
 
-153457	-	大都市コサック、	The great city Cossack,
-153458	+	近くの町――	a nearby town――
+153457	-		大都市コサック、	The great city Cossack,
+153458	+		近くの町――	a nearby town――
 
-153459	-	魔物の侵攻は凄まじく、	The monster invasion was ferocious,
-153460	+	この田舎の小さな町にまで及んでいた。	reaching even this small rural town.
+153459	-		魔物の侵攻は凄まじく、	The monster invasion was ferocious,
+153460	+		この田舎の小さな町にまで及んでいた。	reaching even this small rural town.
 
-153461	Man	「魔物が来るぞー！　逃げろー！」	「The monsters are coming! Run!」
+153461	Man	基本	「魔物が来るぞー！　逃げろー！」	「The monsters are coming! Run!」
 
-153462	-	村を包む悲鳴と怒号。	Screams and roars filled the village.
+153462	-		村を包む悲鳴と怒号。	Screams and roars filled the village.
 
-153463	-	未だ魔物の姿こそ見えないが、	Though the monsters themselves weren't visible yet,
-153464	+	魔軍が迫っている情報は	the news that the Monster Army was approaching
-153465	+	市民を恐慌させるのに充分だった。	was enough to throw the citizens into panic.
+153463	-		未だ魔物の姿こそ見えないが、	Though the monsters themselves weren't visible yet,
+153464	+		魔軍が迫っている情報は	the news that the Monster Army was approaching
+153465	+		市民を恐慌させるのに充分だった。	was enough to throw the citizens into panic.
 
-153466	Helman Soldier	「皆さん、落ち着いて！　落ち着いて下さい！」	「Everyone, calm down! Please calm down!」
+153466	Helman Soldier		「皆さん、落ち着いて！　落ち着いて下さい！」	「Everyone, calm down! Please calm down!」
 
-153467	-	どうにか秩序を回復させようと	The guards shouted trying to restore order,
-153468	+	警備隊が声を張り上げるが、	but against panicked citizens
-153469	+	パニックに陥った市民を相手には焼け石に水だった。	it was like pouring water on hot stones.
+153467	-		どうにか秩序を回復させようと	The guards shouted trying to restore order,
+153468	+		警備隊が声を張り上げるが、	but against panicked citizens
+153469	+		パニックに陥った市民を相手には焼け石に水だった。	it was like pouring water on hot stones.
 
-153470	Ruberan Tser	「ついにここまで魔軍が来るなんて……」	「I can't believe the Monster Army has reached this far...」
+153470	Ruberan Tser		「ついにここまで魔軍が来るなんて……」	「I can't believe the Monster Army has reached this far...」
 
-153471	Helman Soldier	「巨大な魔人が迫っています！	「A giant Fiend is approaching!
-153472	+	　ルーベラン隊長もすぐにお逃げ下さい！」	　Captain Ruberan, please escape immediately!」
+153471	Helman Soldier		「巨大な魔人が迫っています！	「A giant Fiend is approaching!
+153472	+		　ルーベラン隊長もすぐにお逃げ下さい！」	　Captain Ruberan, please escape immediately!」
 
-153473	Ruberan Tser	「ええ、分かっています！	「Yes, I know!
-153474	+	　でもそれは市民の避難が完了してからよ！	　But only after the citizens have evacuated!
-153475	+	　市民を急がせて！」	　Hurry the citizens!」
+153473	Ruberan Tser		「ええ、分かっています！	「Yes, I know!
+153474	+		　でもそれは市民の避難が完了してからよ！	　But only after the citizens have evacuated!
+153475	+		　市民を急がせて！」	　Hurry the citizens!」
 
-153476	Helman Soldier	「はっ！」	「Yes!」
+153476	Helman Soldier		「はっ！」	「Yes!」
 
-153477	-	魔軍はもう目と鼻の先、すぐ近くまで来ていた。	The Monster Army was already right at their doorstep.
+153477	-		魔軍はもう目と鼻の先、すぐ近くまで来ていた。	The Monster Army was already right at their doorstep.
 
-153478	Ruberan Tser~	（かくなる上はたとえほんの少しでも	（If it comes to this, even if only a little,
-153479	+	　時間を稼ぐ為に……）	　to buy time...）
+153478	Ruberan Tser~		（かくなる上はたとえほんの少しでも	（If it comes to this, even if only a little,
+153479	+		　時間を稼ぐ為に……）	　to buy time...）
 
-153480	-	ルーベランが冷や汗を垂らしながら	Ruberan wiped cold sweat
-153481	+	自分の腰の剣に手を添えた。	and placed her hand on the sword at her waist.
+153480	-		ルーベランが冷や汗を垂らしながら	Ruberan wiped cold sweat
+153481	+		自分の腰の剣に手を添えた。	and placed her hand on the sword at her waist.
 
-153482	Merim Tser	「ルーベランお姉様！」	「Big sister Ruberan!」
+153482	Merim Tser		「ルーベランお姉様！」	「Big sister Ruberan!」
 
-153483	Ruberan Tser	「メリム！？」	「Merim!?」
+153483	Ruberan Tser		「メリム！？」	「Merim!?」
 
-153484	-	その時、ルーベランの妹のメリムが声をかけた。	At that moment, Ruberan's younger sister Merim called out.
+153484	-		その時、ルーベランの妹のメリムが声をかけた。	At that moment, Ruberan's younger sister Merim called out.
 
-153485	Ruberan Tser	「あなた、なんでここに！？	「Why are you here!?」
-153486	+	　避難した筈じゃ……！？」	　You should have evacuated...!?」
+153485	Ruberan Tser		「あなた、なんでここに！？	「Why are you here!?」
+153486	+		　避難した筈じゃ……！？」	　You should have evacuated...!?」
 
-153487	Merim Tser	「う、うん……避難した……	「Y-Yeah... I evacuated...
-153488	+	　したけど、戻ってきちゃった」	　but I came back.」
+153487	Merim Tser		「う、うん……避難した……	「Y-Yeah... I evacuated...
+153488	+		　したけど、戻ってきちゃった」	　but I came back.」
 
-153489	Ruberan Tser	「なっ……	「Wha...
-153490	+	　この馬鹿！　貴方、状況が分かってるの！？」	　You idiot! Do you understand the situation!?」
+153489	Ruberan Tser		「なっ……	「Wha...
+153490	+		　この馬鹿！　貴方、状況が分かってるの！？」	　You idiot! Do you understand the situation!?」
 
-153491	Merim Tser	「分かってる……	「I understand...
-153492	+	　分かってるから、戻ったの……」	　That's why I came back...」
+153491	Merim Tser		「分かってる……	「I understand...
+153492	+		　分かってるから、戻ったの……」	　That's why I came back...」
 
-153493	Merim Tser	「だって、お姉様、死ぬんでしょ？」	「Because big sister, you're going to die, right?」
+153493	Merim Tser		「だって、お姉様、死ぬんでしょ？」	「Because big sister, you're going to die, right?」
 
-153494	Ruberan Tser	「……ッ！」	「...!」
+153494	Ruberan Tser		「……ッ！」	「...!」
 
-153495	Merim Tser	「お姉様が逆の立場ならどうしてた？」	「What would you have done if you were in my place?」
+153495	Merim Tser		「お姉様が逆の立場ならどうしてた？」	「What would you have done if you were in my place?」
 
-153496	-	メリムは手を震わせながら、にっこりと微笑んだ。	Merim smiled gently while her hands trembled.
+153496	-		メリムは手を震わせながら、にっこりと微笑んだ。	Merim smiled gently while her hands trembled.
 
-153497	Merim Tser	「家にお金がないから、	「Because we had no money at home,
-153498	+	　私はビッチ家に奉公に出された……」	　I was sent to serve at the Bitch household...」
+153497	Merim Tser		「家にお金がないから、	「Because we had no money at home,
+153498	+		　私はビッチ家に奉公に出された……」	　I was sent to serve at the Bitch household...」
 
-153499	Merim Tser	「それで……ようやく再会して……	「And then... we finally reunited...
-153500	+	　また一緒に暮らせるようになったのに……」	　and could live together again...」
+153499	Merim Tser		「それで……ようやく再会して……	「And then... we finally reunited...
+153500	+		　また一緒に暮らせるようになったのに……」	　and could live together again...」
 
-153501	Merim Tser	「また離ればなれなんて、私……嫌だから……」	　I don't want to be separated again...」
+153501	Merim Tser		「また離ればなれなんて、私……嫌だから……」	　I don't want to be separated again...」
 
-153502	Ruberan Tser	「話は後にして。	「We'll talk later.
-153503	+	　とにかく逃げるわよ！　こっちに来て！」	　For now we have to run! Come here!」
+153502	Ruberan Tser		「話は後にして。	「We'll talk later.
+153503	+		　とにかく逃げるわよ！　こっちに来て！」	　For now we have to run! Come here!」
 
-153504	-	メリムを引っ張ってルーベランが	Ruberan tried to pull Merim
-153505	+	移動しようとした、その時――	and move, but at that moment――
+153504	-		メリムを引っ張ってルーベランが	Ruberan tried to pull Merim
+153505	+		移動しようとした、その時――	and move, but at that moment――
 
-153506	-	　	　
-153507	+	　　＜フッ……＞	　　＜Fuu...＞
+153506	-		　	　
+153507	+		　　＜フッ……＞	　　＜Fuu...＞
 
-153508	Merim Tser	「え、暗い？」	「Eh, it's dark?」
+153508	Merim Tser		「え、暗い？」	「Eh, it's dark?」
 
-153509	-	急に空が陰り、太陽の光が遮られた。	Suddenly the sky darkened, blocking the sunlight.
+153509	-		急に空が陰り、太陽の光が遮られた。	Suddenly the sky darkened, blocking the sunlight.
 
-153510	Ruberan Tser	「な、なに！？　夜になったとでも言うの！？」	「Wh-What!? Did night fall!?」
+153510	Ruberan Tser		「な、なに！？　夜になったとでも言うの！？」	「Wh-What!? Did night fall!?」
 
-153511	-	空を見上げる。	She looked up at the sky.
-153512	+	そこにあったのは――	What was there――
+153511	-		空を見上げる。	She looked up at the sky.
+153512	+		そこにあったのは――	What was there――
 
-153513	-	――巨大な足の裏。	――was the sole of a gigantic foot.
+153513	-		――巨大な足の裏。	――was the sole of a gigantic foot.
 
-153514	-	　	　
-153515	+	　　＜ぐしゃっ＞	　　＜Squish＞
+153514	-		　	　
+153515	+		　　＜ぐしゃっ＞	　　＜Squish＞
 
-153516	-	メリムとルーベランの姉妹は	The sisters Merim and Ruberan
-153517	+	巨漢の魔人、バボラに踏み潰された。	were crushed under the giant Fiend Babolat.
+153516	-		メリムとルーベランの姉妹は	The sisters Merim and Ruberan
+153517	+		巨漢の魔人、バボラに踏み潰された。	were crushed under the giant Fiend Babolat.
 
-153518	Babolat	「…………う……」	「............U...」
+153518	Babolat		「…………う……」	「............U...」
 
-153519	Babolat	「…………なに、か……ふんだ？」	「............Did I... step on something?」
+153519	Babolat		「…………なに、か……ふんだ？」	「............Did I... step on something?」
 
-153520	Babolat	「……………………ま、いいや……」	「........................Whatever...」
+153520	Babolat		「……………………ま、いいや……」	「........................Whatever...」
 
-153521	-	地面を揺らしながら、	While shaking the ground,
-153522	+	バボラは悠々と次の町へ向かった。	Babolat leisurely headed toward the next town.
+153521	-		地面を揺らしながら、	While shaking the ground,
+153522	+		バボラは悠々と次の町へ向かった。	Babolat leisurely headed toward the next town.

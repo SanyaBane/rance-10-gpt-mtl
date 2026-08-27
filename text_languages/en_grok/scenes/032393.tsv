@@ -4,25 +4,25 @@
 * Satella	サテラ	Female
 * Kentou Kanami	かなみ	Female
 
-146352	-	道を塞ぐ魔物の話を聞いてから、	After hearing about the monsters blocking the road,
-146353	+	警備隊と別れて街道を真っ直ぐに進むと、	they parted with the guards and went straight down the highway,
-146354	+	すぐにそれと分かる魔物と遭遇した。	and soon encountered an obviously monstrous creature.
+146352	-		道を塞ぐ魔物の話を聞いてから、	After hearing about the monsters blocking the road,
+146353	+		警備隊と別れて街道を真っ直ぐに進むと、	they parted with the guards and went straight down the highway,
+146354	+		すぐにそれと分かる魔物と遭遇した。	and soon encountered an obviously monstrous creature.
 
-146355	Rance	「こいつらか……」	「So it's these guys...」
+146355	Rance	基本	「こいつらか……」	「So it's these guys...」
 
-146356	Rocky Bank	「ひえーっ、で、でかくて怖いだす……」	「Hiee, i-it's huge and scary...」
+146356	Rocky Bank		「ひえーっ、で、でかくて怖いだす……」	「Hiee, i-it's huge and scary...」
 
-146357	Rocky Bank	「ら、ランス様、ここは遠回りして……」	「L-Lord Rance, let's take a detour here...」
+146357	Rocky Bank		「ら、ランス様、ここは遠回りして……」	「L-Lord Rance, let's take a detour here...」
 
-146358	Rance	「馬鹿言え。	「Don't be stupid.
-146359	+	　邪魔する奴は殺すと相場が決まってる」	　The rule is to kill anyone who gets in the way.」
+146358	Rance	真剣	「馬鹿言え。	「Don't be stupid.
+146359	+		　邪魔する奴は殺すと相場が決まってる」	　The rule is to kill anyone who gets in the way.」
 
-146360	Satella	「ふふん、そうだ、サテラの使徒なら	「Fufun, exactly. As Satella's apostle,
-146361	+	　そう答えるのが正しい」	　that's the correct answer.」
+146360	Satella	ふふん	「ふふん、そうだ、サテラの使徒なら	「Fufun, exactly. As Satella's apostle,
+146361	+		　そう答えるのが正しい」	　that's the correct answer.」
 
-146362	Satella	「さあ、行くぞ！　ランス！」	「Now, let's go! Rance!」
+146362	Satella	笑顔	「さあ、行くぞ！　ランス！」	「Now, let's go! Rance!」
 
-146363	Rance	「俺様の行く手を塞ぐ奴は	「Anyone who blocks my path
-146364	+	　わんわんの糞以外踏み潰ーーーす！」	　will be crushed except for dog shit!」
+146363	Rance	怒り	「俺様の行く手を塞ぐ奴は	「Anyone who blocks my path
+146364	+		　わんわんの糞以外踏み潰ーーーす！」	　will be crushed except for dog shit!」
 
-146365	Kentou Kanami	「……好戦的だなぁ」	「...So aggressive.」
+146365	Kentou Kanami	ジト目	「……好戦的だなぁ」	「...So aggressive.」

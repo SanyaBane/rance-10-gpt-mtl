@@ -7,68 +7,68 @@
 * Kentou Kanami	かなみ	Female
 * Caloria Cricket	カロリア	Female
 
-66787	Sachiko Centers	「うう……」	「Uuu...」
+66787	Sachiko Centers	ドン引き	「うう……」	「Uuu...」
 
-66788	-	周囲をきょろきょろと見回しながら、	While looking around nervously,
-66789	+	おっかなびっくりサチコが歩く。	Sachiko walked timidly.
+66788	-		周囲をきょろきょろと見回しながら、	While looking around nervously,
+66789	+		おっかなびっくりサチコが歩く。	Sachiko walked timidly.
 
-66790	Rance	「おい、グズグズするな。さっさと進むぞ」	「Hey, don't dawdle. Move faster.」
+66790	Rance	基本	「おい、グズグズするな。さっさと進むぞ」	「Hey, don't dawdle. Move faster.」
 
-66791	Sachiko Centers	「うー……なんで無理に進むんですか？」	「Uuu... why are we forcing our way in?」
+66791	Sachiko Centers	叫び	「うー……なんで無理に進むんですか？」	「Uuu... why are we forcing our way in?」
 
-66792	Rance	「あん？」	「Hm?」
+66792	Rance	真剣	「あん？」	「Hm?」
 
-66793	Sachiko Centers	「さっきの悪魔のひとが、危ない悪魔がいるって……	「That demon earlier said there's a dangerous demon...
-66794	+	　今日進む必要、ホントにあったんですか？」	　Did we really have to go today?」
+66793	Sachiko Centers	ドン引き	「さっきの悪魔のひとが、危ない悪魔がいるって……	「That demon earlier said there's a dangerous demon...
+66794	+		　今日進む必要、ホントにあったんですか？」	　Did we really have to go today?」
 
-66795	Rance	「あるんだ。だから進む」	「Yes we did. So we're going.」
+66795	Rance	基本	「あるんだ。だから進む」	「Yes we did. So we're going.」
 
-66796	Sachiko Centers	「うぅ……それを教えてくださいよーぅ……」	「Uuu... you could have told me that...」
+66796	Sachiko Centers	ドン引き	「うぅ……それを教えてくださいよーぅ……」	「Uuu... you could have told me that...」
 
-66797	Miracle Tor	「上位悪魔か。	「A high-ranking demon.
-66798	+	　リターンデーモンでも、下位の魔人と	　Even Return Demon was comparable to lower Fiends,
-66799	+	　そう引けを取らぬ力を持っていたが……」	　but this one is...」
+66797	Miracle Tor	基本	「上位悪魔か。	「A high-ranking demon.
+66798	+		　リターンデーモンでも、下位の魔人と	　Even Return Demon was comparable to lower Fiends,
+66799	+		　そう引けを取らぬ力を持っていたが……」	　but this one is...」
 
-66800	Sachiko Centers	「今、うろついている悪魔はそれより、	「The demon wandering around now is even stronger
-66801	+	　もっともっと強いんですよね？」	　than that, right?」
+66800	Sachiko Centers	ドン引き	「今、うろついている悪魔はそれより、	「The demon wandering around now is even stronger
+66801	+		　もっともっと強いんですよね？」	　than that, right?」
 
-66802	Rance	「ちっ、分かった分かった。	「Tch, fine fine.
-66803	+	　ここまで来れば、もういいだろ」	　We've come this far already.」
+66802	Rance	だる顔	「ちっ、分かった分かった。	「Tch, fine fine.
+66803	+		　ここまで来れば、もういいだろ」	　We've come this far already.」
 
-66804	Rance	「ピサロが来るんだ。今日、ここに」	「Pizarro is coming. Today, right here.」
+66804	Rance	基本	「ピサロが来るんだ。今日、ここに」	「Pizarro is coming. Today, right here.」
 
-66805	Sachiko Centers	「………………へ？」	「............Eh?」
+66805	Sachiko Centers		「………………へ？」	「............Eh?」
 
-66806	Sill Plain	「えっ、え……すごい偶然ですね。	「Eh, ehh... what a huge coincidence.
-66807	+	　あ、でもなんでそれを……」	　Ah, but why did you...」
+66806	Sill Plain	慌て	「えっ、え……すごい偶然ですね。	「Eh, ehh... what a huge coincidence.
+66807	+		　あ、でもなんでそれを……」	　Ah, but why did you...」
 
-66808	Rance	「バカめ、偶然などであるわけがなかろう。	「Idiot, of course it's not a coincidence.
-66809	+	　魔軍に噂を流したのだ。	　I spread a rumor to the Monster Army.
-66810	+	　ここにゴールデンハニーの財宝が眠っているとな」	　That Golden Hanny's treasure is sleeping here.」
+66808	Rance	真剣	「バカめ、偶然などであるわけがなかろう。	「Idiot, of course it's not a coincidence.
+66809	+		　魔軍に噂を流したのだ。	　I spread a rumor to the Monster Army.
+66810	+		　ここにゴールデンハニーの財宝が眠っているとな」	　That Golden Hanny's treasure is sleeping here.」
 
-66811	Rance	「そして、魔軍に取られるとむかつくから、	「And because it pisses me off if the Monster Army takes it,
-66812	+	　俺様がそれを粉々に破壊するのだと。	　I'll smash it to pieces.
-66813	+	　それが今日なのだ」	　That's why it's today.」
+66811	Rance	基本	「そして、魔軍に取られるとむかつくから、	「And because it pisses me off if the Monster Army takes it,
+66812	+		　俺様がそれを粉々に破壊するのだと。	　I'll smash it to pieces.
+66813	+		　それが今日なのだ」	　That's why it's today.」
 
-66814	Maria Custard	「はあ……そんな細工を……	「Haa... such a scheme...
-66815	+	　でも、実際の魔軍の動きはどうなの？」	　But how are the Monster Army's actual movements?」
+66814	Maria Custard	あかんわ	「はあ……そんな細工を……	「Haa... such a scheme...
+66815	+		　でも、実際の魔軍の動きはどうなの？」	　But how are the Monster Army's actual movements?」
 
-66816	Kentou Kanami	「確かにピサロに、その報告は入ったわ。	「Yes, Pizarro received that report.
-66817	+	　ここに直衛部隊を引き連れてやって来ているのも	　He's confirmed to be coming here with his direct guard unit.」
-66818	+	　確認済み」	
+66816	Kentou Kanami	基本	「確かにピサロに、その報告は入ったわ。	「Yes, Pizarro received that report.
+66817	+		　ここに直衛部隊を引き連れてやって来ているのも	　He's confirmed to be coming here with his direct guard unit.」
+66818	+		　確認済み」	
 
-66819	Rance	「というわけで、ゴールデンハニーの住処まで	「So we'll go to Golden Hanny's nest
-66820	+	　行って、待ち伏せでぶち殺す」	　and ambush him there.」
+66819	Rance		「というわけで、ゴールデンハニーの住処まで	「So we'll go to Golden Hanny's nest
+66820	+		　行って、待ち伏せでぶち殺す」	　and ambush him there.」
 
-66821	Caloria Cricket	「……ゴールデンハニーのお宝で	「...Weren't we using Golden Hanny's treasure
-66822	+	　引き寄せる計画じゃなかったの？」	　as bait to lure him?」
+66821	Caloria Cricket		「……ゴールデンハニーのお宝で	「...Weren't we using Golden Hanny's treasure
+66822	+		　引き寄せる計画じゃなかったの？」	　as bait to lure him?」
 
-66823	Rance	「初めはそうしようと思ったが、	「I thought about that at first,
-66824	+	　いちいち罠を作ってかけるのがめんどくさい。	　but setting up traps every time is a pain.
-66825	+	　ここに引きずり込んだ方が手っ取り早いわ」	　Dragging him here is much simpler.」
+66823	Rance		「初めはそうしようと思ったが、	「I thought about that at first,
+66824	+		　いちいち罠を作ってかけるのがめんどくさい。	　but setting up traps every time is a pain.
+66825	+		　ここに引きずり込んだ方が手っ取り早いわ」	　Dragging him here is much simpler.」
 
-66826	Sill Plain~	（あれ？　じゃあ都市長さん達から頂いた宝物は	（Huh? Then what about the treasures we took from the city lords
-66827	+	　どうされるんだろう……）	　...?）
+66826	Sill Plain~	考え中	（あれ？　じゃあ都市長さん達から頂いた宝物は	（Huh? Then what about the treasures we took from the city lords
+66827	+		　どうされるんだろう……）	　...?）
 
-66828	Rance	「さあ、決戦だ決戦。さっさと叩き殺すぞ。	「Now, it's the decisive battle. Let's kill him quickly.
-66829	+	　がははははははは！」	　Gahahahahahaha!」
+66828	Rance	笑顔	「さあ、決戦だ決戦。さっさと叩き殺すぞ。	「Now, it's the decisive battle. Let's kill him quickly.
+66829	+		　がははははははは！」	　Gahahahahahaha!」

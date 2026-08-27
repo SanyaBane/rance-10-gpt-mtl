@@ -7,97 +7,97 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Rance	ランス	Male
 
-64099	Maria Custard	「これ、で、っ……そろそろ、9000……」	「This... step by step... we're almost at 9000...」
+64099	Maria Custard	あかんわ	「これ、で、っ……そろそろ、9000……」	「This... step by step... we're almost at 9000...」
 
-64100	-	一歩一歩、踏みしめるようにして進むマリアの横を、	Beside Maria who was carefully placing each step,
-64101	+	ベゼルアイが散歩でもしているかの様な歩調で進む。	Bezeleye walked as if she were on a casual stroll.
+64100	-		一歩一歩、踏みしめるようにして進むマリアの横を、	Beside Maria who was carefully placing each step,
+64101	+		ベゼルアイが散歩でもしているかの様な歩調で進む。	Bezeleye walked as if she were on a casual stroll.
 
-64102	Bezeleye	「大したものね。	「Impressive.
-64103	+	　人間には、かなりきつい環境だと思うけど」	　This environment is quite harsh for humans though.」
+64102	Bezeleye	基本	「大したものね。	「Impressive.
+64103	+		　人間には、かなりきつい環境だと思うけど」	　This environment is quite harsh for humans though.」
 
-64104	Maria Custard	「ううん……はぁ、ふぅ……必要な、ことだし……」	「Uuu... haa, fuu... It's necessary...」
+64104	Maria Custard	泣き	「ううん……はぁ、ふぅ……必要な、ことだし……」	「Uuu... haa, fuu... It's necessary...」
 
-64105	Bezeleye	「ふぅん、そう。そんなにランス君が好きなんだ」	「Hmm, I see. You really like Rance-kun that much.」
+64105	Bezeleye	基本	「ふぅん、そう。そんなにランス君が好きなんだ」	「Hmm, I see. You really like Rance-kun that much.」
 
-64106	Maria Custard	「うえっ！？　あ、ええと、いやそれは……」	「Eh!? Ah, um, that's not...」
+64106	Maria Custard	あかんわ	「うえっ！？　あ、ええと、いやそれは……」	「Eh!? Ah, um, that's not...」
 
-64107	-	一瞬、マリアは慌てふためいたが、	Maria panicked for a moment,
-64108	+	ひとつ、この高所で薄い酸素を吸い込むと、	but after taking a thin breath of high-altitude air,
-64109	+	再び前を見て、足を進めていく。	she looked forward again and kept walking.
+64107	-		一瞬、マリアは慌てふためいたが、	Maria panicked for a moment,
+64108	+		ひとつ、この高所で薄い酸素を吸い込むと、	but after taking a thin breath of high-altitude air,
+64109	+		再び前を見て、足を進めていく。	she looked forward again and kept walking.
 
-64110	Maria Custard	「……分かんないよ、そんなの。	「...I don't know about that.
-64111	+	　仮にそうだったとしても……	　Even if that were true...
-64112	+	　意味はあるのかな、ってたまに思うし……」	　I sometimes wonder if it even means anything...」
+64110	Maria Custard	基本	「……分かんないよ、そんなの。	「...I don't know about that.
+64111	+		　仮にそうだったとしても……	　Even if that were true...
+64112	+		　意味はあるのかな、ってたまに思うし……」	　I sometimes wonder if it even means anything...」
 
-64113	Bezeleye	「……………………」	「........................」
+64113	Bezeleye		「……………………」	「........................」
 
-64114	Maria Custard	「ま、まあ、それ以前に……人類が生き残る為には、	「W-well, before that... for humanity to survive,
-64115	+	　ランスは助けなきゃ、だし……」	　we have to help Rance...」
+64114	Maria Custard		「ま、まあ、それ以前に……人類が生き残る為には、	「W-well, before that... for humanity to survive,
+64115	+		　ランスは助けなきゃ、だし……」	　we have to help Rance...」
 
-64116	Maria Custard	「それに、あのパイアールの発明に……	「Besides, that invention of Pi-R's...
-64117	+	　技術力じゃなくても、一泡吹かしてやるのは	　Even if it's not about technical skill,
-64118	+	　気分いいもの」	　it feels good to one-up him.」
+64116	Maria Custard		「それに、あのパイアールの発明に……	「Besides, that invention of Pi-R's...
+64117	+		　技術力じゃなくても、一泡吹かしてやるのは	　Even if it's not about technical skill,
+64118	+		　気分いいもの」	　it feels good to one-up him.」
 
-64119	Bezeleye	「……うん。そうね。頑張りましょ」	「...Yeah. That's right. Let's do our best.」
+64119	Bezeleye	笑顔	「……うん。そうね。頑張りましょ」	「...Yeah. That's right. Let's do our best.」
 
-64120	-	マリアの背を触れる程度に叩いて、	Bezeleye lightly patted Maria's back,
-64121	+	ベゼルアイは少しだけ笑った。	and smiled gently.
+64120	-		マリアの背を触れる程度に叩いて、	Bezeleye lightly patted Maria's back,
+64121	+		ベゼルアイは少しだけ笑った。	and smiled gently.
 
-64122	Hunty Kalar	「大丈夫かい、パットン。	「You okay, Patton?
-64123	+	　そろそろ本命の場所だけど」	　We're almost at the main spot.」
+64122	Hunty Kalar	基本	「大丈夫かい、パットン。	「You okay, Patton?
+64123	+		　そろそろ本命の場所だけど」	　We're almost at the main spot.」
 
-64124	Patton Helman	「ああ…………って、男が言われる台詞じゃねぇぞ。	「Yeah... Wait, that's not something a man should hear.
-64125	+	　ちょっとはこっちにも心配させろよな」	　Let me worry about you a little too.」
+64124	Patton Helman		「ああ…………って、男が言われる台詞じゃねぇぞ。	「Yeah... Wait, that's not something a man should hear.
+64125	+		　ちょっとはこっちにも心配させろよな」	　Let me worry about you a little too.」
 
-64126	Hunty Kalar	「あたしを心配しようっての？	「Worried about me?
-64127	+	　足を引っ張るなんて、無い無い」	　I won't hold you back.」
+64126	Hunty Kalar	笑い	「あたしを心配しようっての？	「Worried about me?
+64127	+		　足を引っ張るなんて、無い無い」	　I won't hold you back.」
 
-64128	Patton Helman	「そりゃまー、そうなんだが。	「Well yeah, that's true.
-64129	+	　足引っ張るとかじゃなく、背負った方が	　But some men get motivated when they carry their woman...」
-64130	+	　やる気が出る男もいるんだがな……」	
+64128	Patton Helman	戸惑い	「そりゃまー、そうなんだが。	「Well yeah, that's true.
+64129	+		　足引っ張るとかじゃなく、背負った方が	　But some men get motivated when they carry their woman...」
+64130	+		　やる気が出る男もいるんだがな……」	
 
-64131	Hunty Kalar	「何言ってんだか。	「What are you even saying.
-64132	+	　ドラゴンの群れの中を突っ切ってんだ、	　We're charging through a pack of dragons,
-64133	+	　油断すんじゃないよ」	　don't let your guard down.」
+64131	Hunty Kalar	呆れ	「何言ってんだか。	「What are you even saying.
+64132	+		　ドラゴンの群れの中を突っ切ってんだ、	　We're charging through a pack of dragons,
+64133	+		　油断すんじゃないよ」	　don't let your guard down.」
 
-64134	-	肩を竦めるハンティに呼応するように、	In response to Hunty shrugging her shoulders,
-64135	+	パットンは軽く眼を細める。	Patton narrowed his eyes slightly.
+64134	-		肩を竦めるハンティに呼応するように、	In response to Hunty shrugging her shoulders,
+64135	+		パットンは軽く眼を細める。	Patton narrowed his eyes slightly.
 
-64136	Patton Helman	「ああ……あの黒いの。	「Yeah... That black one.
-64137	+	　さっきから旋回して……そろそろ来るかな」	　It's been circling... probably about to attack soon.」
+64136	Patton Helman	真剣	「ああ……あの黒いの。	「Yeah... That black one.
+64137	+		　さっきから旋回して……そろそろ来るかな」	　It's been circling... probably about to attack soon.」
 
-64138	-	――――黒竜は、困惑していた。	――――The black dragon was confused.
+64138	-		――――黒竜は、困惑していた。	――――The black dragon was confused.
 
-64139	?	（この、感じ…………なんだ？	（This feeling... what is it?
-64140	+	　雌の……気配、か…………？）	　A female... scent...?）
+64139	?		（この、感じ…………なんだ？	（This feeling... what is it?
+64140	+		　雌の……気配、か…………？）	　A female... scent...?）
 
-64141	?	（あの、宝冠では……雌竜では、ない……	（That treasure crown... it's not a female dragon...
-64142	+	　別の、気配……だと…………？）	　It's a different presence...?）
+64141	?		（あの、宝冠では……雌竜では、ない……	（That treasure crown... it's not a female dragon...
+64142	+		　別の、気配……だと…………？）	　It's a different presence...?）
 
-64143	-	混乱を誤魔化すように、ひとつ咆哮を上げる。	To hide its confusion, it let out a roar.
+64143	-		混乱を誤魔化すように、ひとつ咆哮を上げる。	To hide its confusion, it let out a roar.
 
-64144	-	竜たちの最後の居城に土足で踏み込む人間どもは、	The humans trampling into the dragons' last fortress
-64145	+	警戒した様子でこちらの動きを探る。	watched its movements warily.
+64144	-		竜たちの最後の居城に土足で踏み込む人間どもは、	The humans trampling into the dragons' last fortress
+64145	+		警戒した様子でこちらの動きを探る。	watched its movements warily.
 
-64146	?	（これは……この気配は……カラー、か……？	（This... this scent... is it Kalar...?
-64147	+	　いや、無い……あの人間どもの中に、	　No... Among those humans,
-64148	+	　そのような竜は見当たらぬ…………）	　there is no such dragon...）
+64146	?		（これは……この気配は……カラー、か……？	（This... this scent... is it Kalar...?
+64147	+		　いや、無い……あの人間どもの中に、	　No... Among those humans,
+64148	+		　そのような竜は見当たらぬ…………）	　there is no such dragon...）
 
-64149	?	（遠い昔、あの宝冠たる雌竜を失い……	（We lost our treasured female dragon long ago...
-64150	+	　ついに、おかしくなったか……？）	　Have I finally gone mad...?）
+64149	?		（遠い昔、あの宝冠たる雌竜を失い……	（We lost our treasured female dragon long ago...
+64150	+		　ついに、おかしくなったか……？）	　Have I finally gone mad...?）
 
-64151	?	（ふ…………今さら、未練でもあるというのか。	（Heh... Do I still have lingering attachments even now?
-64152	+	　我は、我の為すべき事を……	　I must do what I must...
-64153	+	　我が城を踏み荒らす者を――！）	　Crush those who trample my castle――!）
+64151	?		（ふ…………今さら、未練でもあるというのか。	（Heh... Do I still have lingering attachments even now?
+64152	+		　我は、我の為すべき事を……	　I must do what I must...
+64153	+		　我が城を踏み荒らす者を――！）	　Crush those who trample my castle――!）
 
-64154	Kentou Kanami	「向こう、空からブラックドラゴン！	「Black dragon from the sky ahead!
-64155	+	　来るわ！」	　It's coming!」
+64154	Kentou Kanami	基本	「向こう、空からブラックドラゴン！	「Black dragon from the sky ahead!
+64155	+		　来るわ！」	　It's coming!」
 
-64156	Alkanese Rize	「だーーー、くっそー！	「Daah, damn it!
-64157	+	　ま、まだ来るのかよーーー！」	　They're still coming---!」
+64156	Alkanese Rize	怒り	「だーーー、くっそー！	「Daah, damn it!
+64157	+		　ま、まだ来るのかよーーー！」	　They're still coming---!」
 
-64158	Rance	「しつこい野郎どもだ……！　ぜぇ、はぁ、っ……	「Persistent bastards...! Haa, haa...
-64159	+	　邪魔する奴は叩き潰す！！」	　Anyone who gets in my way gets crushed!!」
+64158	Rance	イライラ	「しつこい野郎どもだ……！　ぜぇ、はぁ、っ……	「Persistent bastards...! Haa, haa...
+64159	+		　邪魔する奴は叩き潰す！！」	　Anyone who gets in my way gets crushed!!」
 
-64160	-	繰り返し、威嚇というよりは己を鼓舞するような	The black dragon roared repeatedly, more to rally itself
-64161	+	咆哮を上げながら、黒竜が襲いかかってきた。	than to intimidate, and charged.
+64160	-		繰り返し、威嚇というよりは己を鼓舞するような	The black dragon roared repeatedly, more to rally itself
+64161	+		咆哮を上げながら、黒竜が襲いかかってきた。	than to intimidate, and charged.

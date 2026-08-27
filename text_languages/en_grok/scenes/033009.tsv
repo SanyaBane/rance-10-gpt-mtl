@@ -2,90 +2,90 @@
 * Nagata-kun	長田君２	Male
 * Mouri Motonari	元就２	Male
 
-192938	-	あなたと長田君は、	You and Nagata
-192939	+	焚き火の近くに一人でいる元就を見つけた。	found Motonari alone near the campfire.
+192938	-		あなたと長田君は、	You and Nagata
+192939	+		焚き火の近くに一人でいる元就を見つけた。	found Motonari alone near the campfire.
 
-192940	Nagata-kun	「よう、元就。	「Yo, Motonari.
-192941	+	　……って、なにしてんの、お前？」	　...Wait, what are you doing?」
+192940	Nagata-kun	基本	「よう、元就。	「Yo, Motonari.
+192941	+		　……って、なにしてんの、お前？」	　...Wait, what are you doing?」
 
-192942	Mouri Motonari	「もっちゃもっちゃ……」	「Munch munch...」
+192942	Mouri Motonari	不満	「もっちゃもっちゃ……」	「Munch munch...」
 
-192943	-	元就は肉を生のまま囓っていた。	Motonari was gnawing on raw meat.
+192943	-		元就は肉を生のまま囓っていた。	Motonari was gnawing on raw meat.
 
-192944	Mouri Motonari	「肉は美味いな！　特に生がいい！	「Meat is delicious! Especially raw!
-192945	+	　命を食らっている実感が得られる！」	　You really feel like you're devouring life!」
+192944	Mouri Motonari	笑顔	「肉は美味いな！　特に生がいい！	「Meat is delicious! Especially raw!
+192945	+		　命を食らっている実感が得られる！」	　You really feel like you're devouring life!」
 
-192946	Nagata-kun	「あ、うん……」	「Ah, yeah...」
+192946	Nagata-kun	基本	「あ、うん……」	「Ah, yeah...」
 
-192947	Nagata-kun	「でも生で食うことないだろ！？」	「But you don't have to eat it raw!」
+192947	Nagata-kun		「でも生で食うことないだろ！？」	「But you don't have to eat it raw!」
 
-192948	Mouri Motonari	「あ、これ……あの、あいつ……	「Ah, this... that guy...
-192949	+	　あの白衣……白衣の……」	　That white coat... white coat...」
+192948	Mouri Motonari		「あ、これ……あの、あいつ……	「Ah, this... that guy...
+192949	+		　あの白衣……白衣の……」	　That white coat... white coat...」
 
-192950	Nagata-kun	「ミックス？」	「Mix?」
+192950	Nagata-kun		「ミックス？」	「Mix?」
 
-192951	Mouri Motonari	「そうだ！　あの白衣には言うな！」	「Yes! Don't tell the white coat!」
+192951	Mouri Motonari		「そうだ！　あの白衣には言うな！」	「Yes! Don't tell the white coat!」
 
-192952	Mouri Motonari	「肉は、その……生だと……ええと……	「Meat, um... raw... uh...
-192953	+	　なんか、すごく……生だと、大変な……」	　it's really... raw is bad...」
+192952	Mouri Motonari	な	「肉は、その……生だと……ええと……	「Meat, um... raw... uh...
+192953	+		　なんか、すごく……生だと、大変な……」	　it's really... raw is bad...」
 
-192954	Mouri Motonari	「危険なんだそうだ！！！！」	「It's dangerous!!!!」
+192954	Mouri Motonari	基本	「危険なんだそうだ！！！！」	「It's dangerous!!!!」
 
-192955	Mouri Motonari	「ククク、危険を恐れる阿呆が！	「Kukuku, fools who fear danger!
-192956	+	　毛利家にいるものか！　オレは食う！」	　Not in the Mouri family! I'll eat it!」
+192955	Mouri Motonari	にんまぁ	「ククク、危険を恐れる阿呆が！	「Kukuku, fools who fear danger!
+192956	+		　毛利家にいるものか！　オレは食う！」	　Not in the Mouri family! I'll eat it!」
 
-192957	Mouri Motonari	「が、怒られるのは嫌だ！	「B-but I don't want to get scolded!
-192958	?	　あいつ注射するし！	　She gives injections!
-192959	+	　黙っていろ！」	　Keep quiet!」
+192957	Mouri Motonari	ガルル	「が、怒られるのは嫌だ！	「B-but I don't want to get scolded!
+192958	?		　あいつ注射するし！	　She gives injections!
+192959	+		　黙っていろ！」	　Keep quiet!」
 
-192960	Nagata-kun	「お前……	「You...
-192961	+	　どんな育ち方したらそうなるの……」	　What kind of upbringing makes you like this...」
+192960	Nagata-kun	基本	「お前……	「You...
+192961	+		　どんな育ち方したらそうなるの……」	　What kind of upbringing makes you like this...」
 
-192962	Mouri Motonari	「おう！」	「Yeah!」
+192962	Mouri Motonari	笑顔	「おう！」	「Yeah!」
 
-192963	Mouri Motonari	「うちの母殿は子を千尋の谷に突き落とし！	「My mother threw her children into the Chihiro valley!
-192964	+	　おまけに矢の雨を降らせるような女傑よ！」	　And even rained arrows on them, what a heroine!」
+192963	Mouri Motonari		「うちの母殿は子を千尋の谷に突き落とし！	「My mother threw her children into the Chihiro valley!
+192964	+		　おまけに矢の雨を降らせるような女傑よ！」	　And even rained arrows on them, what a heroine!」
 
-192965	Nagata-kun	「例えにしてもすごい例え……」	「That's an extreme example even for an analogy...」
+192965	Nagata-kun	基本	「例えにしてもすごい例え……」	「That's an extreme example even for an analogy...」
 
-192966	Mouri Motonari	「いや、実際にされたことだ」	「No, it actually happened.」
+192966	Mouri Motonari		「いや、実際にされたことだ」	「No, it actually happened.」
 
-192967	Nagata-kun	「ええっ！？」	「Ehh!?」
+192967	Nagata-kun		「ええっ！？」	「Ehh!?」
 
-192968	Mouri Motonari	「齢が四にもなった頃か」	「When I was about four years old.」
+192968	Mouri Motonari		「齢が四にもなった頃か」	「When I was about four years old.」
 
-192969	Mouri Motonari	「ある日、なんの前触れもなく落とされたわ！	「One day, without warning, I was dropped!
-192970	+	　三日かけて実家に帰ったが！	　It took three days to get home!
-192971	+	　さすがにあの時は死ぬかと思った！」	　I really thought I was going to die then!」
+192969	Mouri Motonari		「ある日、なんの前触れもなく落とされたわ！	「One day, without warning, I was dropped!
+192970	+		　三日かけて実家に帰ったが！	　It took three days to get home!
+192971	+		　さすがにあの時は死ぬかと思った！」	　I really thought I was going to die then!」
 
-192972	Mouri Motonari	「齢六の頃には死国に置き去りにもされた！	「At six I was abandoned in the Land of the Dead!
-192973	+	　ぐわっははは！　そういう家なんだ！」	　Gwah hahaha! That's my family!」
+192972	Mouri Motonari	笑顔	「齢六の頃には死国に置き去りにもされた！	「At six I was abandoned in the Land of the Dead!
+192973	+		　ぐわっははは！　そういう家なんだ！」	　Gwah hahaha! That's my family!」
 
-192974	-	何がそんなに楽しいのか、	Whatever was so funny,
-192975	+	元就は膝をバンバン叩きながら笑っていた。	Motonari slapped his knee while laughing.
+192974	-		何がそんなに楽しいのか、	Whatever was so funny,
+192975	+		元就は膝をバンバン叩きながら笑っていた。	Motonari slapped his knee while laughing.
 
-192976	Nagata-kun	「そりゃ……」	「No wonder...
+192976	Nagata-kun	基本	「そりゃ……」	「No wonder...
 
-192977	Nagata-kun	「元就がこんな風にも育つわ……」	　you turned out like this...」
+192977	Nagata-kun		「元就がこんな風にも育つわ……」	　you turned out like this...」
 
-192978	Mouri Motonari	「おう！	「Yeah!
-192979	?	　いくら誇っても足りん！	　No amount of bragging is enough!
-192980	+	　自慢の家族だ！」	　I'm proud of my family!」
+192978	Mouri Motonari		「おう！	「Yeah!
+192979	?		　いくら誇っても足りん！	　No amount of bragging is enough!
+192980	+		　自慢の家族だ！」	　I'm proud of my family!」
 
-192981	Mouri Motonari	「ぐわっははははは！」	「Gwah hahahahaha!」
+192981	Mouri Motonari	笑顔	「ぐわっははははは！」	「Gwah hahahahaha!」
 
-192982	Mouri Motonari	「お、そうだ！」	「Oh yeah!」
+192982	Mouri Motonari	基本	「お、そうだ！」	「Oh yeah!」
 
-192983	Mouri Motonari	「大将と陶器も！	「I'll invite the boss and pottery too!
-192984	+	　いずれ家に招待してやろう！」	　Someday!」
+192983	Mouri Motonari		「大将と陶器も！	「I'll invite the boss and pottery too!
+192984	+		　いずれ家に招待してやろう！」	　Someday!」
 
-192985	Mouri Motonari	「母殿も叔母達も二人を見れば喜ぶぞ！	「Mother and my aunts will be delighted to see you two!
-192986	+	　ぐわはははははははははは！」	　Gwah hahahahahahaha!」
+192985	Mouri Motonari	笑顔	「母殿も叔母達も二人を見れば喜ぶぞ！	「Mother and my aunts will be delighted to see you two!
+192986	+		　ぐわはははははははははは！」	　Gwah hahahahahahaha!」
 
-192987	Nagata-kun	「ひい……それは結構ですぅ……」	「Hii... I'll pass on that...」
+192987	Nagata-kun	基本	「ひい……それは結構ですぅ……」	「Hii... I'll pass on that...」
 
-192988	-	元就は毛利家の家族が大好きなのだろう。	Motonari must really love his Mouri family.
-192989	+	その表情は活き活きとしていた。	His face was full of life.
+192988	-		元就は毛利家の家族が大好きなのだろう。	Motonari must really love his Mouri family.
+192989	+		その表情は活き活きとしていた。	His face was full of life.
 
-192990	-	あなたは晩ご飯の時間まで、	Until dinner time,
-192991	+	毛利家の話を色々と聞かせてもらった。	you listened to many stories about the Mouri family.
+192990	-		あなたは晩ご飯の時間まで、	Until dinner time,
+192991	+		毛利家の話を色々と聞かせてもらった。	you listened to many stories about the Mouri family.

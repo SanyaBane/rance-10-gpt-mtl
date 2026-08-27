@@ -6,105 +6,105 @@
 * Amades Kakades	アマデス	Male
 * Jaro Jaslak	ジャロ	Male
 
-163219	Green Monster Soldier	「ひっ、隊長が……」	「Hii, the captain......」
+163219	Green Monster Soldier	基本	「ひっ、隊長が……」	「Hii, the captain......」
 
-163220	-	魔物隊長が死に、魔軍の兵が一斉に戸惑う。	The monster captain died, and the Monster Army soldiers fell into confusion.
+163220	-		魔物隊長が死に、魔軍の兵が一斉に戸惑う。	The monster captain died, and the Monster Army soldiers fell into confusion.
 
-163221	Green Monster Soldier	「おおお、俺は逃げるぞ！	「Oooo, I'm running away!
-163222	+	　こんなの敵うわけねー！」	　No way we can win against this!」
+163221	Green Monster Soldier		「おおお、俺は逃げるぞ！	「Oooo, I'm running away!
+163222	+		　こんなの敵うわけねー！」	　No way we can win against this!」
 
-163223	Green Monster Soldier	「うわああ、お、置いていかねぇでくれー！」	「Uwaaa, d, don't leave me!」
+163223	Green Monster Soldier		「うわああ、お、置いていかねぇでくれー！」	「Uwaaa, d, don't leave me!」
 
-163224	-	頭を失った魔軍の部隊は	The leaderless Monster Army unit
-163225	+	あっという間に散り散りに逃げ出した。	scattered and fled in an instant.
+163224	-		頭を失った魔軍の部隊は	The leaderless Monster Army unit
+163225	+		あっという間に散り散りに逃げ出した。	scattered and fled in an instant.
 
-163226	Rance	「がははは！　弱っちい奴らだぜ！」	「Gahahaha! What weaklings!」
+163226	Rance	笑顔	「がははは！　弱っちい奴らだぜ！」	「Gahahaha! What weaklings!」
 
-163227	?	「お、おお、魔軍を追い払った……	「O, oh, they drove away the Monster Army......
-163228	+	　み、皆様はいったい……」	　W, who are you all......」
+163227	?		「お、おお、魔軍を追い払った……	「O, oh, they drove away the Monster Army......
+163228	+		　み、皆様はいったい……」	　W, who are you all......」
 
-163229	Chaka Cadmium	「我らはリーザス軍のものですじゃ。	「We are from the Leazas army.
-163230	+	　うむ、皆無事のようですな」	　Yes, everyone seems safe.」
+163229	Chaka Cadmium	基本	「我らはリーザス軍のものですじゃ。	「We are from the Leazas army.
+163230	+		　うむ、皆無事のようですな」	　Yes, everyone seems safe.」
 
-163231	?	「あ、あら？	「A, ara?
-163232	+	　そこにいるのメルフェイスじゃないかい！？	　Isn't that Melfeis over there!?
-163233	+	　あんた帰ってきたんだね！」	　You came back!」
+163231	?		「あ、あら？	「A, ara?
+163232	+		　そこにいるのメルフェイスじゃないかい！？	　Isn't that Melfeis over there!?
+163233	+		　あんた帰ってきたんだね！」	　You came back!」
 
-163234	Melfeis Promenade	「皆さん……」	「Everyone......」
+163234	Melfeis Promenade		「皆さん……」	「Everyone......」
 
-163235	Melfeis Promenade	「はい、ご無事で本当に、良かった……」	「Yes, I'm so glad you're all safe......」
+163235	Melfeis Promenade		「はい、ご無事で本当に、良かった……」	「Yes, I'm so glad you're all safe......」
 
-163236	?	「おお、本当にありがとう、ありがとう。	「Oh, thank you so much, thank you.
-163237	+	　メルフェイスに救われるのは二度目じゃな……」	　This is the second time Melfeis has saved us......」
+163236	?		「おお、本当にありがとう、ありがとう。	「Oh, thank you so much, thank you.
+163237	+		　メルフェイスに救われるのは二度目じゃな……」	　This is the second time Melfeis has saved us......」
 
-163238	Melfeis Promenade	「い、いえ、私なんて……」	「N, no, I'm nothing special......」
+163238	Melfeis Promenade		「い、いえ、私なんて……」	「N, no, I'm nothing special......」
 
-163239	?	「おーい、村の英雄のメルフェイスが	「Hey, the village hero Melfeis
-163240	+	　また村を守ってくれたぞー！」	　has protected the village again!」
+163239	?		「おーい、村の英雄のメルフェイスが	「Hey, the village hero Melfeis
+163240	+		　また村を守ってくれたぞー！」	　has protected the village again!」
 
-163241	?	「メルフェイスー、おかえりー！」	「Melfeis~ Welcome back~!」
+163241	?		「メルフェイスー、おかえりー！」	「Melfeis~ Welcome back~!」
 
-163242	Melfeis Promenade	「え、英雄だなんて……	「E, hero, that's too much......
-163243	+	　み、みなさん、やめて下さい……」	　E, everyone, please stop......」
+163242	Melfeis Promenade		「え、英雄だなんて……	「E, hero, that's too much......
+163243	+		　み、みなさん、やめて下さい……」	　E, everyone, please stop......」
 
-163244	Rance	「むむむ、救ったのは俺様なのに……」	「Muu, I'm the one who saved them though......」
+163244	Rance	だる顔	「むむむ、救ったのは俺様なのに……」	「Muu, I'm the one who saved them though......」
 
-163245	Rance	「まあ、村に美女はいないようだし、別にいいか」	「Well, there don't seem to be any beauties in the village, so whatever.」
+163245	Rance	真剣	「まあ、村に美女はいないようだし、別にいいか」	「Well, there don't seem to be any beauties in the village, so whatever.」
 
-163246	Amades Kakades	「メルフェイス先生！」	「Teacher Melfeis!」
+163246	Amades Kakades	基本	「メルフェイス先生！」	「Teacher Melfeis!」
 
-163247	Melfeis Promenade	「あ、アマデス君！」	「A, Amades-kun!」
+163247	Melfeis Promenade		「あ、アマデス君！」	「A, Amades-kun!」
 
-163248	-	メルフェイスを囲む集団の中から、	From the crowd surrounding Melfeis,
-163249	+	一人の青年が顔を見せる。	a young man showed his face.
+163248	-		メルフェイスを囲む集団の中から、	From the crowd surrounding Melfeis,
+163249	+		一人の青年が顔を見せる。	a young man showed his face.
 
-163250	Amades Kakades	「ああ、お久しぶりです！	「Ah, it's been so long!
-163251	+	　まさかまたお会い出来るなんて！」	　I never thought I'd see you again!」
+163250	Amades Kakades		「ああ、お久しぶりです！	「Ah, it's been so long!
+163251	+		　まさかまたお会い出来るなんて！」	　I never thought I'd see you again!」
 
-163252	Melfeis Promenade	「……成長、したのね。	「......You've grown.
-163253	+	　随分大きくなって……」	　You're so much bigger now......」
+163252	Melfeis Promenade		「……成長、したのね。	「......You've grown.
+163253	+		　随分大きくなって……」	　You're so much bigger now......」
 
-163254	Amades Kakades	「えへへ、あの頃から何年も経ちましたから」	「Ehehe, it's been many years since then.」
+163254	Amades Kakades		「えへへ、あの頃から何年も経ちましたから」	「Ehehe, it's been many years since then.」
 
-163255	Jaro Jaslak	「おい、メルフェイス！」	「Hey, Melfeis!」
+163255	Jaro Jaslak	怒り	「おい、メルフェイス！」	「Hey, Melfeis!」
 
-163256	Melfeis Promenade	「あ……」	「Ah......」
+163256	Melfeis Promenade	基本	「あ……」	「Ah......」
 
-163257	Jaro Jaslak	「ふん、何へらへらしてやがる」	「Hmph, what are you grinning for.」
+163257	Jaro Jaslak		「ふん、何へらへらしてやがる」	「Hmph, what are you grinning for.」
 
-163258	-	ジャロは横柄な態度で	Jaro stood arrogantly
-163259	+	アマデスの前に立ちはだかる。	in front of Amades.
+163258	-		ジャロは横柄な態度で	Jaro stood arrogantly
+163259	+		アマデスの前に立ちはだかる。	in front of Amades.
 
-163260	Jaro Jaslak	「……俺の前にメルフェイスの面倒を	「......So you're the brat who was taking care of Melfeis
-163261	+	　見ていたっつーガキはお前か」	　before me.」
+163260	Jaro Jaslak		「……俺の前にメルフェイスの面倒を	「......So you're the brat who was taking care of Melfeis
+163261	+		　見ていたっつーガキはお前か」	　before me.」
 
-163262	-	最初は敵意を見せていたジャロの顔が	Jaro's face, which had shown hostility at first,
-163263	+	ニタリと嫌らしく歪む。	twisted into a nasty grin.
+163262	-		最初は敵意を見せていたジャロの顔が	Jaro's face, which had shown hostility at first,
+163263	+		ニタリと嫌らしく歪む。	twisted into a nasty grin.
 
-163264	Jaro Jaslak	「残念だったなー。	「Too bad for you~.
-163265	+	　メルフェイスの世話は俺様がいるから	　I'm here to take care of Melfeis now
-163266	+	　もうお前はお役御免なんだ」	　so you're no longer needed.」
+163264	Jaro Jaslak		「残念だったなー。	「Too bad for you~.
+163265	+		　メルフェイスの世話は俺様がいるから	　I'm here to take care of Melfeis now
+163266	+		　もうお前はお役御免なんだ」	　so you're no longer needed.」
 
-163267	Jaro Jaslak	「なあ、そうだろう、メルフェイス」	「Right, Melfeis?」
+163267	Jaro Jaslak		「なあ、そうだろう、メルフェイス」	「Right, Melfeis?」
 
-163268	Melfeis Promenade	「…………え、ええ」	「............Y, yes.」
+163268	Melfeis Promenade		「…………え、ええ」	「............Y, yes.」
 
-163269	Amades Kakades	「え、メルフェイス先生……それって……」	「Eh, Teacher Melfeis... that means......」
+163269	Amades Kakades		「え、メルフェイス先生……それって……」	「Eh, Teacher Melfeis... that means......」
 
-163270	Melfeis Promenade	「…………」	「............」
+163270	Melfeis Promenade		「…………」	「............」
 
-163271	Chaka Cadmium	「な、なんにしても、ここも危険ですじゃ。	「A, anyway, this place is still dangerous.
-163272	+	　皆さん今のうちに避難をしてくだされ」	　Everyone, please evacuate while you can.」
+163271	Chaka Cadmium		「な、なんにしても、ここも危険ですじゃ。	「A, anyway, this place is still dangerous.
+163272	+		　皆さん今のうちに避難をしてくだされ」	　Everyone, please evacuate while you can.」
 
-163273	-	チャカがことさら明るい声で	Chaka spoke in a deliberately cheerful voice
-163274	+	その場を取り繕う。	to smooth things over.
+163273	-		チャカがことさら明るい声で	Chaka spoke in a deliberately cheerful voice
+163274	+		その場を取り繕う。	to smooth things over.
 
-163275	?	「ああ、こんな村わざわざ襲われんだろうと	「Yeah, I thought a village like this wouldn't get attacked on purpose
-163276	+	　思っとったが……甘かったようじゃ……」	but... I was naive......」
+163275	?		「ああ、こんな村わざわざ襲われんだろうと	「Yeah, I thought a village like this wouldn't get attacked on purpose
+163276	+		　思っとったが……甘かったようじゃ……」	but... I was naive......」
 
-163277	?	「皆さんに救って頂いた今のうちに	「While we have your protection,
-163278	+	　安全な場所まで避難することにいたします」	we'll evacuate to a safe place.」
+163277	?		「皆さんに救って頂いた今のうちに	「While we have your protection,
+163278	+		　安全な場所まで避難することにいたします」	we'll evacuate to a safe place.」
 
-163279	Melfeis Promenade	「え、ええ、どうかお気をつけて」	「Y, yes, please be careful.」
+163279	Melfeis Promenade		「え、ええ、どうかお気をつけて」	「Y, yes, please be careful.」
 
-163280	Jaro Jaslak	「……ふんっ」	「......Hmph.」
+163280	Jaro Jaslak		「……ふんっ」	「......Hmph.」

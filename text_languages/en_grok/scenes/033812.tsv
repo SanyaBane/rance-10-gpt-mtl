@@ -1,13 +1,13 @@
 # 33812	t２３２／１／夜の平原	
 
-253056	?	夜／星空	Night / starry sky
-253057	+	目的地についたランス	Rance arrived at the destination.
-253058	+	 if (tt[cゼス３の移動先]==1)　ナガールモール周辺です、と地図で現在地表示	if (tt[cZeth3Destination]==1) Display 'Around Nagarl Mall' and show current location on the map
-253059	+	 if (tt[cゼス３の移動先]==2)　スリミド周辺です、と地図で現在地表示	if (tt[cZeth3Destination]==2) Display 'Around Surimido' and show current location on the map
-253060	+	 if (tt[cゼス３の移動先]==3)　イタリア周辺です、と地図で現在地表示	if (tt[cZeth3Destination]==3) Display 'Around Italia' and show current location on the map
-253061	+	気をつけて下さい、すでに魔軍の支配地の中です。数万の魔軍がこの付近に展開しています	Be careful, you are already inside the territory controlled by the Monster Army. Tens of thousands of Monster Army troops are deployed around here.
-253062	+	この暗闇に紛れて、いっきに攻め込むぞ	Let's take advantage of this darkness and launch an all-out attack.
-253063	+	狙いは魔物大将軍ツォトンだ	Our target is the Great Monster General Zedong.
-253064	+	ツォトンが確実にここにいるという保証はありませんよ	There is no guarantee that Zedong is definitely here.
-253065	+	ふふふ、俺がここと選んだのだ、居るはずだ。確信	Hehe, I chose this place myself; he must be here. I'm certain.
-253066	+	ごー	Go!
+253056	?		夜／星空	Night / starry sky
+253057	+		目的地についたランス	Rance arrived at the destination.
+253058	+		 if (tt[cゼス３の移動先]==1)　ナガールモール周辺です、と地図で現在地表示	if (tt[cZeth3Destination]==1) Display 'Around Nagarl Mall' and show current location on the map
+253059	+		 if (tt[cゼス３の移動先]==2)　スリミド周辺です、と地図で現在地表示	if (tt[cZeth3Destination]==2) Display 'Around Surimido' and show current location on the map
+253060	+		 if (tt[cゼス３の移動先]==3)　イタリア周辺です、と地図で現在地表示	if (tt[cZeth3Destination]==3) Display 'Around Italia' and show current location on the map
+253061	+		気をつけて下さい、すでに魔軍の支配地の中です。数万の魔軍がこの付近に展開しています	Be careful, you are already inside the territory controlled by the Monster Army. Tens of thousands of Monster Army troops are deployed around here.
+253062	+		この暗闇に紛れて、いっきに攻め込むぞ	Let's take advantage of this darkness and launch an all-out attack.
+253063	+		狙いは魔物大将軍ツォトンだ	Our target is the Great Monster General Zedong.
+253064	+		ツォトンが確実にここにいるという保証はありませんよ	There is no guarantee that Zedong is definitely here.
+253065	+		ふふふ、俺がここと選んだのだ、居るはずだ。確信	Hehe, I chose this place myself; he must be here. I'm certain.
+253066	+		ごー	Go!

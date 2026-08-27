@@ -7,242 +7,242 @@
 * Reset Kalar	リセット	Female
 * Yutin Fulz	ユーティン	Hermaphrodite
 
-55591	-	一行は魔軍の勢力圏内を避け、	They avoided the Monster Army's territory
-55592	+	南方へと針路を取った。	and headed south.
+55591	-		一行は魔軍の勢力圏内を避け、	They avoided the Monster Army's territory
+55592	+		南方へと針路を取った。	and headed south.
 
-55593	-	その、夕暮れ。	That evening.
-55594	+	ランス一行は、夜営の準備でぱたぱたと動いていた。	Rance's group was busily preparing for the night camp.
+55593	-		その、夕暮れ。	That evening.
+55594	+		ランス一行は、夜営の準備でぱたぱたと動いていた。	Rance's group was busily preparing for the night camp.
 
-55595	Sill Plain	「あっ、ナギちゃん、お皿持ってきて。	「Ah, Nagi-chan, bring some plates.
-55596	+	　そろそろ、お肉が焼けるから」	　The meat is almost ready.」
+55595	Sill Plain	基本	「あっ、ナギちゃん、お皿持ってきて。	「Ah, Nagi-chan, bring some plates.
+55596	+		　そろそろ、お肉が焼けるから」	　The meat is almost ready.」
 
-55597	Nagi su Ragarl	「はーいっ、シィルおねえちゃん！	「Okay, big sis Sill!
-55598	+	　いっぱい持ってくよー！」	　I'll bring lots!」
+55597	Nagi su Ragarl		「はーいっ、シィルおねえちゃん！	「Okay, big sis Sill!
+55598	+		　いっぱい持ってくよー！」	　I'll bring lots!」
 
-55599	Sill Plain	「わ、わ、そんなにいっぱい。	「W-Wait, not so many.
-55600	+	　落とさないようにね」	　Don't drop them.」
+55599	Sill Plain	慌て	「わ、わ、そんなにいっぱい。	「W-Wait, not so many.
+55600	+		　落とさないようにね」	　Don't drop them.」
 
-55601	Nagi su Ragarl	「にひひ、平気平気ー」	「Niihihi, no problem.」
+55601	Nagi su Ragarl	基本	「にひひ、平気平気ー」	「Niihihi, no problem.」
 
-55602	Masou Shizuka	「ナギ、半分よこしなさい。	「Nagi, give me half.
-55603	+	　私も持ってくから」	　I'll carry some too.」
+55602	Masou Shizuka		「ナギ、半分よこしなさい。	「Nagi, give me half.
+55603	+		　私も持ってくから」	　I'll carry some too.」
 
-55604	Nagi su Ragarl	「はーいっ、お姉様。半分こだー」	「Okay, big sis. Half for you.」
+55604	Nagi su Ragarl	笑顔	「はーいっ、お姉様。半分こだー」	「Okay, big sis. Half for you.」
 
-55605	Copandon Dott	「はぁ…………」	「Haa............」
+55605	Copandon Dott	ため息	「はぁ…………」	「Haa............」
 
-55606	Rance	「ん、どうしたコパンドン」	「Hm, what's up Copandon?」
+55606	Rance	基本	「ん、どうしたコパンドン」	「Hm, what's up Copandon?」
 
-55607	Copandon Dott	「いやあ……ちょろっと聞いてはいたけど……	「Well... I'd heard a bit but...
-55608	+	　あれが志津香はんと、ナギかぁ……ってな」	　So those are Shizuka and Nagi...」
+55607	Copandon Dott	ジト目	「いやあ……ちょろっと聞いてはいたけど……	「Well... I'd heard a bit but...
+55608	+		　あれが志津香はんと、ナギかぁ……ってな」	　So those are Shizuka and Nagi...」
 
-55609	Rance	「ああ、見た事なかったか」	「Yeah, you hadn't seen them before.」
+55609	Rance	基本	「ああ、見た事なかったか」	「Yeah, you hadn't seen them before.」
 
-55610	Copandon Dott	「ゼスの時の様子は覚えとるから、余計になぁ」	「I remember how they were during the Zeth time, so it's even more surprising.」
+55610	Copandon Dott	ジト目	「ゼスの時の様子は覚えとるから、余計になぁ」	「I remember how they were during the Zeth time, so it's even more surprising.」
 
-55611	Rance	「うむ……確かに、あの頃は	「Yeah... Back then
-55612	+	　志津香もナギも、復讐の鬼って感じだったからな」	　both Shizuka and Nagi were like vengeful demons.」
+55611	Rance	基本	「うむ……確かに、あの頃は	「Yeah... Back then
+55612	+		　志津香もナギも、復讐の鬼って感じだったからな」	　both Shizuka and Nagi were like vengeful demons.」
 
-55613	Copandon Dott	「正直もう、いきつく所までいくしかない、って	「Honestly, I thought they had no choice but to go all the way,
-55614	+	　思ったもんやけどな……何したん？」	　but... what did you do?」
+55613	Copandon Dott	ため息	「正直もう、いきつく所までいくしかない、って	「Honestly, I thought they had no choice but to go all the way,
+55614	+		　思ったもんやけどな……何したん？」	　but... what did you do?」
 
-55615	Rance	「別に。志津香の奴があれを選んだだけだ」	「Nothing special. Shizuka just chose that.」
+55615	Rance	基本	「別に。志津香の奴があれを選んだだけだ」	「Nothing special. Shizuka just chose that.」
 
-55616	Copandon Dott	「ふーん……？」	「Hmm...?」
+55616	Copandon Dott		「ふーん……？」	「Hmm...?」
 
-55617	Rance	「まったく、志津香の奴め……	「Geez, that Shizuka...
-55618	+	　いきなりガキの身体なんかになりおって……	　Suddenly turning into a kid's body...
-55619	+	　手が出せんではないか」	　I can't lay a hand on her now.」
+55617	Rance	だる顔	「まったく、志津香の奴め……	「Geez, that Shizuka...
+55618	+		　いきなりガキの身体なんかになりおって……	　Suddenly turning into a kid's body...
+55619	+		　手が出せんではないか」	　I can't lay a hand on her now.」
 
-55620	Copandon Dott	「あっはは。ええやん、幸せそうで」	「Ahahaha. It's fine, they look happy.」
+55620	Copandon Dott	笑い	「あっはは。ええやん、幸せそうで」	「Ahahaha. It's fine, they look happy.」
 
-55621	-	ランスとコパンドンの視線の先で、	In the direction Rance and Copandon were looking,
-55622	+	リセットを交えた三人は、	the three including Reset
-55623	+	楽しげにおしゃべりと食事を楽しんでいた。	were happily chatting and eating.
+55621	-		ランスとコパンドンの視線の先で、	In the direction Rance and Copandon were looking,
+55622	+		リセットを交えた三人は、	the three including Reset
+55623	+		楽しげにおしゃべりと食事を楽しんでいた。	were happily chatting and eating.
 
-55624	Reset Kalar	「おとーーーさーーん！」	「Daaaaad!」
+55624	Reset Kalar	笑顔	「おとーーーさーーん！」	「Daaaaad!」
 
-55625	Nagi su Ragarl	「ランスー！　ねぇねぇ、ランスランス！」	「Rance! Hey hey, Rance Rance!」
+55625	Nagi su Ragarl		「ランスー！　ねぇねぇ、ランスランス！」	「Rance! Hey hey, Rance Rance!」
 
-55626	-	食事を終えて、リセットとナギが	After finishing their meal, Reset and Nagi
-55627	+	ランスの元に駆け込んできた。	ran over to Rance.
+55626	-		食事を終えて、リセットとナギが	After finishing their meal, Reset and Nagi
+55627	+		ランスの元に駆け込んできた。	ran over to Rance.
 
-55628	Rance	「なんだちびども。	「What is it, you little runts.
-55629	+	　メシを食い終わったなら歯を磨けよ」	　If you're done eating, go brush your teeth.」
+55628	Rance	基本	「なんだちびども。	「What is it, you little runts.
+55629	+		　メシを食い終わったなら歯を磨けよ」	　If you're done eating, go brush your teeth.」
 
-55630	Reset Kalar	「磨いたよー、ほら！」	「I brushed them! See!」
+55630	Reset Kalar	うきゃー	「磨いたよー、ほら！」	「I brushed them! See!」
 
-55631	-	笑顔満面で、リセットは磨いた歯を父に見せつけた。	With a big smile, Reset showed her brushed teeth to her dad.
+55631	-		笑顔満面で、リセットは磨いた歯を父に見せつけた。	With a big smile, Reset showed her brushed teeth to her dad.
 
-55632	Rance	「うむまあよし、さっさと寝ろ」	「Yeah, good. Now go to sleep quickly.」
+55632	Rance	基本	「うむまあよし、さっさと寝ろ」	「Yeah, good. Now go to sleep quickly.」
 
-55633	Reset Kalar	「がはははーっ！」	「Gahahaha!」
+55633	Reset Kalar	ガハハー	「がはははーっ！」	「Gahahaha!」
 
-55634	Nagi su Ragarl	「てーいっ！」	「Tei!」
+55634	Nagi su Ragarl	怒り	「てーいっ！」	「Tei!」
 
-55635	Rance	「うがっ」	「Ugh.」
+55635	Rance	だる顔	「うがっ」	「Ugh.」
 
-55636	-	ランスの言うことを華麗にスルーして、	Completely ignoring Rance's words,
-55637	+	リセットとナギが両膝に飛び乗った。	Reset and Nagi jumped onto his knees.
+55636	-		ランスの言うことを華麗にスルーして、	Completely ignoring Rance's words,
+55637	+		リセットとナギが両膝に飛び乗った。	Reset and Nagi jumped onto his knees.
 
-55638	Nagi su Ragarl	「ねぇねぇランス！　聞きたいことあるんだ！」	「Hey hey Rance! I have something to ask!」
+55638	Nagi su Ragarl	基本	「ねぇねぇランス！　聞きたいことあるんだ！」	「Hey hey Rance! I have something to ask!」
 
-55639	Rance	「ん？」	「Hm?」
+55639	Rance	真剣	「ん？」	「Hm?」
 
-55640	Nagi su Ragarl	「船って、海に浮かんでるんでしょ？」	「Ships float on the sea, right?」
+55640	Nagi su Ragarl	基本	「船って、海に浮かんでるんでしょ？」	「Ships float on the sea, right?」
 
-55641	Rance	「む？　海というか港というか……	「Hm? Well, sea or harbor...
-55642	+	　まあそうだな」	　Yeah, that's right.」
+55641	Rance		「む？　海というか港というか……	「Hm? Well, sea or harbor...
+55642	+		　まあそうだな」	　Yeah, that's right.」
 
-55643	Nagi su Ragarl	「で…………海って何？」	「Then............ what is the sea?」
+55643	Nagi su Ragarl	不満	「で…………海って何？」	「Then............ what is the sea?」
 
-55644	Rance	「……………………」	「........................」
+55644	Rance	基本	「……………………」	「........................」
 
-55645	Masou Shizuka	「私も本で見た説明はしたんだけど……	「I explained what I read in books but...
-55646	+	　見てはいないから、上手く言えなくて」	　I haven't seen it myself so I couldn't explain well.」
+55645	Masou Shizuka		「私も本で見た説明はしたんだけど……	「I explained what I read in books but...
+55646	+		　見てはいないから、上手く言えなくて」	　I haven't seen it myself so I couldn't explain well.」
 
-55647	-	遅れて志津香もやってきて、	Shizuka arrived a bit late,
-55648	+	ランスの膝に乗った二人をちらっと見てから、	glanced at the two on Rance's knees,
-55649	+	少し離れた所に腰をおろした。	and sat down a short distance away.
+55647	-		遅れて志津香もやってきて、	Shizuka arrived a bit late,
+55648	+		ランスの膝に乗った二人をちらっと見てから、	glanced at the two on Rance's knees,
+55649	+		少し離れた所に腰をおろした。	and sat down a short distance away.
 
-55650	Reset Kalar	「………………」	「............」
+55650	Reset Kalar		「………………」	「............」
 
-55651	Nagi su Ragarl	「………………」	「............」
+55651	Nagi su Ragarl		「………………」	「............」
 
-55652	Rance	「コパンドン、任せた」	「Copandon, you're up.」
+55652	Rance	真剣	「コパンドン、任せた」	「Copandon, you're up.」
 
-55653	Copandon Dott	「なんや、博識なトコ見せたらんの、パパ？」	「What, you want papa to show off his knowledge?」
+55653	Copandon Dott	笑い	「なんや、博識なトコ見せたらんの、パパ？」	「What, you want papa to show off his knowledge?」
 
-55654	Rance	「誰がパパだ」	「Who are you calling papa?」
+55654	Rance	だる顔	「誰がパパだ」	「Who are you calling papa?」
 
-55655	Reset Kalar	「おとーさんだよ？」	「You're dad, right?」
+55655	Reset Kalar	基本	「おとーさんだよ？」	「You're dad, right?」
 
-55656	Rance	「お前だけな」	「Only for you.」
+55656	Rance	真剣	「お前だけな」	「Only for you.」
 
-55657	Reset Kalar	「……にへへへーっ」	「...Nihehehe.」
+55657	Reset Kalar	笑顔	「……にへへへーっ」	「...Nihehehe.」
 
-55658	Rance	「何笑ってんだ、アホ」	「What are you laughing at, idiot.」
+55658	Rance	だる顔	「何笑ってんだ、アホ」	「What are you laughing at, idiot.」
 
-55659	Nagi su Ragarl	「………………」	「............」
+55659	Nagi su Ragarl	不満	「………………」	「............」
 
-55660	Rance	「いて、いて。なんだナギ、足踏むな、こら」	「Ow, ow. Hey Nagi, stop stepping on me.」
+55660	Rance	だる顔	「いて、いて。なんだナギ、足踏むな、こら」	「Ow, ow. Hey Nagi, stop stepping on me.」
 
-55661	Nagi su Ragarl	「ふーんだ」	「Hmph.」
+55661	Nagi su Ragarl	不満	「ふーんだ」	「Hmph.」
 
-55662	Masou Shizuka~	（やきもち……？）	（Jealous...?）
+55662	Masou Shizuka~	基本	（やきもち……？）	（Jealous...?）
 
-55663	Copandon Dott	「えー、ほなコパンドン姉ちゃんが	「Alright, big sis Copandon will
-55664	+	　ざっくり解説したろかいな」	　give a quick explanation.」
+55663	Copandon Dott	笑い	「えー、ほなコパンドン姉ちゃんが	「Alright, big sis Copandon will
+55664	+		　ざっくり解説したろかいな」	　give a quick explanation.」
 
-55665	Nagi su Ragarl	「わーーっ、ぱちぱちぱち！」	「Waaa, clap clap clap!」
+55665	Nagi su Ragarl	基本	「わーーっ、ぱちぱちぱち！」	「Waaa, clap clap clap!」
 
-55666	Reset Kalar	「ぱちぱちぱち」	「Clap clap clap.」
+55666	Reset Kalar		「ぱちぱちぱち」	「Clap clap clap.」
 
-55667	Masou Shizuka	「………………」	「............」
+55667	Masou Shizuka		「………………」	「............」
 
-55668	-	無言のままの志津香を含め、三人分の拍手を受けて、	Receiving applause from the three, including the silent Shizuka,
-55669	+	コパンドンが立ち上がった。	Copandon stood up.
+55668	-		無言のままの志津香を含め、三人分の拍手を受けて、	Receiving applause from the three, including the silent Shizuka,
+55669	+		コパンドンが立ち上がった。	Copandon stood up.
 
-55670	Copandon Dott	「海いうんは、でっかい水溜まりや。	「The sea is a huge puddle of water.
-55671	+	　そらもう、めーっちゃくちゃでかい」	　It's insanely huge.」
+55670	Copandon Dott		「海いうんは、でっかい水溜まりや。	「The sea is a huge puddle of water.
+55671	+		　そらもう、めーっちゃくちゃでかい」	　It's insanely huge.」
 
-55672	Reset Kalar	「…………川じゃなくて？」	「............Not a river?」
+55672	Reset Kalar		「…………川じゃなくて？」	「............Not a river?」
 
-55673	Copandon Dott	「川よりもぜーんぜんでかい。	「Way bigger than a river.
-55674	+	　川の水が流れ込んで、	　All the river water flows in
-55675	+	　でーっかく集まったモンって思ったらええかな」	　and gathers into this massive thing.」
+55673	Copandon Dott	怒り	「川よりもぜーんぜんでかい。	「Way bigger than a river.
+55674	+		　川の水が流れ込んで、	　All the river water flows in
+55675	+		　でーっかく集まったモンって思ったらええかな」	　and gathers into this massive thing.」
 
-55676	Nagi su Ragarl	「えーっ、うっそだー！	「Eeeh, no way!
-55677	+	　川の果てって、大陸の下でしょ？	　At the end of the river is under the continent, right?
-55678	+	　流れ込んだら落っこちてっちゃうじゃん！」	　It would fall off!」
+55676	Nagi su Ragarl		「えーっ、うっそだー！	「Eeeh, no way!
+55677	+		　川の果てって、大陸の下でしょ？	　At the end of the river is under the continent, right?
+55678	+		　流れ込んだら落っこちてっちゃうじゃん！」	　It would fall off!」
 
-55679	Copandon Dott	「おー、ナギは物知りさんやなあ。	「Oh, Nagi knows a lot.
-55680	+	　せやけど、十年にいっぺん、その大陸の端っこから	　But once every ten years, from the edge of the continent
-55681	+	　ごっつい量の水が迫り上がってくるんや」	　a huge amount of water surges up.」
+55679	Copandon Dott	基本	「おー、ナギは物知りさんやなあ。	「Oh, Nagi knows a lot.
+55680	+		　せやけど、十年にいっぺん、その大陸の端っこから	　But once every ten years, from the edge of the continent
+55681	+		　ごっつい量の水が迫り上がってくるんや」	　a huge amount of water surges up.」
 
-55682	Copandon Dott	「すっごいでー。向こう30キロ以上、	「It's amazing. Over 30 kilometers that way,
-55683	+	　ずーっと水やねん。しかも、塩水や。	　it's all water. And it's saltwater.
-55684	+	　シナ海と同じやな」	　Same as the Cina Sea.」
+55682	Copandon Dott	笑い	「すっごいでー。向こう30キロ以上、	「It's amazing. Over 30 kilometers that way,
+55683	+		　ずーっと水やねん。しかも、塩水や。	　it's all water. And it's saltwater.
+55684	+		　シナ海と同じやな」	　Same as the Cina Sea.」
 
-55685	Reset Kalar	「シナ海……」	「Cina Sea...」
+55685	Reset Kalar	基本	「シナ海……」	「Cina Sea...」
 
-55686	Masou Shizuka	「カイズのある川中島の、周りの内海。	「The inland sea around Kawanakajima where Kaiz is.
-55687	+	　あそこも海って言われてるけど……」	　That's also called sea but...」
+55686	Masou Shizuka		「カイズのある川中島の、周りの内海。	「The inland sea around Kawanakajima where Kaiz is.
+55687	+		　あそこも海って言われてるけど……」	　That's also called sea but...」
 
-55688	Copandon Dott	「こっちはスケールが違うし、時々めっちゃ荒れる。	「This one is on a different scale and sometimes gets really rough.
-55689	+	　一筋縄ではいかない魔境やで」	　It's a dangerous place that doesn't play by the rules.」
+55688	Copandon Dott	怒り	「こっちはスケールが違うし、時々めっちゃ荒れる。	「This one is on a different scale and sometimes gets really rough.
+55689	+		　一筋縄ではいかない魔境やで」	　It's a dangerous place that doesn't play by the rules.」
 
-55690	Nagi su Ragarl	「ほへーーー……」	「Whoaaa...」
+55690	Nagi su Ragarl	基本	「ほへーーー……」	「Whoaaa...」
 
-55691	Copandon Dott	「あいにく、どこまでも果てなくとはいかんけどな。	「Unfortunately, it doesn't go on forever.
-55692	+	　けど、その時の海にしか現れんモンスターや、	　But there are monsters that only appear then,
-55693	+	　見たこともないお宝なんかが見つかるんや」	　and treasures you've never seen before.」
+55691	Copandon Dott		「あいにく、どこまでも果てなくとはいかんけどな。	「Unfortunately, it doesn't go on forever.
+55692	+		　けど、その時の海にしか現れんモンスターや、	　But there are monsters that only appear then,
+55693	+		　見たこともないお宝なんかが見つかるんや」	　and treasures you've never seen before.」
 
-55694	Copandon Dott	「誰が言ったか、食べ物いっぱい、お宝いっぱいの	「Someone said there's an island full of food and treasure,
-55695	+	　夢みたいな島がある、なーんて噂もあるな」	　like a dream island. There's that rumor too.」
+55694	Copandon Dott	ため息	「誰が言ったか、食べ物いっぱい、お宝いっぱいの	「Someone said there's an island full of food and treasure,
+55695	+		　夢みたいな島がある、なーんて噂もあるな」	　like a dream island. There's that rumor too.」
 
-55696	Reset Kalar	「すごーい……すごいね、おとーさん……ね、ね」	「Amazing... Amazing, dad... right, right?」
+55696	Reset Kalar	基本	「すごーい……すごいね、おとーさん……ね、ね」	「Amazing... Amazing, dad... right, right?」
 
-55697	Rance	「そうだ、思い出したぞ。	「Yeah, I just remembered.
-55698	+	　それで海に冒険に行くって言ったんだ」	　That's why I said we're going on a sea adventure.」
+55697	Rance		「そうだ、思い出したぞ。	「Yeah, I just remembered.
+55698	+		　それで海に冒険に行くって言ったんだ」	　That's why I said we're going on a sea adventure.」
 
-55699	Copandon Dott	「せやで。だからばーっちり、	「That's right. So we'll be fully prepared
-55700	+	　海への冒険が出来るように……」	　for the sea adventure...」
+55699	Copandon Dott		「せやで。だからばーっちり、	「That's right. So we'll be fully prepared
+55700	+		　海への冒険が出来るように……」	　for the sea adventure...」
 
-55701	Masou Shizuka	「……どうしたの？」	「...What's wrong?」
+55701	Masou Shizuka		「……どうしたの？」	「...What's wrong?」
 
-55702	Copandon Dott	「いや。船の話しよかと思ったけど、やめた。	「Nah. I was going to talk about the ship but changed my mind.
-55703	+	　実際に見てもろた方がええやろ」	　Better to see it for real.」
+55702	Copandon Dott		「いや。船の話しよかと思ったけど、やめた。	「Nah. I was going to talk about the ship but changed my mind.
+55703	+		　実際に見てもろた方がええやろ」	　Better to see it for real.」
 
-55704	Nagi su Ragarl	「えーっ。ちょっとくらい教えてよー」	「Eeeh. Tell us a little at least.」
+55704	Nagi su Ragarl		「えーっ。ちょっとくらい教えてよー」	「Eeeh. Tell us a little at least.」
 
-55705	Copandon Dott	「ネタバレは御法度や。着けば分かる。	「No spoilers. You'll understand when we get there.
-55706	+	　さ、今日の紙芝居はここまでー。	　That's it for today's picture story.
-55707	+	　みずあめは1個1Gやでー」	　Mizuame is 1G each.」
+55705	Copandon Dott	笑い	「ネタバレは御法度や。着けば分かる。	「No spoilers. You'll understand when we get there.
+55706	+		　さ、今日の紙芝居はここまでー。	　That's it for today's picture story.
+55707	+		　みずあめは1個1Gやでー」	　Mizuame is 1G each.」
 
-55708	Reset Kalar	「みずあめ？」	「Mizuame?」
+55708	Reset Kalar	基本	「みずあめ？」	「Mizuame?」
 
-55709	Copandon Dott	「お、おおう……ボケが通じひん……	「O-Oh... My joke didn't land...
-55710	+	　これがジェネレーションギャップ……」	　This is the generation gap...」
+55709	Copandon Dott	ジト目	「お、おおう……ボケが通じひん……	「O-Oh... My joke didn't land...
+55710	+		　これがジェネレーションギャップ……」	　This is the generation gap...」
 
-55711	Rance	「俺も紙芝居の作法なんぞ知らんぞ」	「I don't know picture story etiquette either.」
+55711	Rance	基本	「俺も紙芝居の作法なんぞ知らんぞ」	「I don't know picture story etiquette either.」
 
-55712	Yutin Fulz	「はいはい、みんなー。もう寝ましょうねー。	「Okay okay everyone. Time to sleep.
-55713	+	　そろそろお休みの時間ですよー」	　It's bedtime.」
+55712	Yutin Fulz		「はいはい、みんなー。もう寝ましょうねー。	「Okay okay everyone. Time to sleep.
+55713	+		　そろそろお休みの時間ですよー」	　It's bedtime.」
 
-55714	Sill Plain	「毛布どうぞー。はい、リセットちゃん」	「Here's a blanket. Here you go, Reset-chan.」
+55714	Sill Plain		「毛布どうぞー。はい、リセットちゃん」	「Here's a blanket. Here you go, Reset-chan.」
 
-55715	Reset Kalar	「はーいっ」	「Yeees.」
+55715	Reset Kalar		「はーいっ」	「Yeees.」
 
-55716	-	やって来たシィルから毛布を受け取って、	Reset took the blanket from Sill
-55717	+	リセットがランスと一緒にくるまる。	and snuggled up with Rance.
+55716	-		やって来たシィルから毛布を受け取って、	Reset took the blanket from Sill
+55717	+		リセットがランスと一緒にくるまる。	and snuggled up with Rance.
 
-55718	Rance	「むっ」	「Mph.」
+55718	Rance	真剣	「むっ」	「Mph.」
 
-55719	Reset Kalar	「へへ。一緒に寝ていい？　おとーさん」	「Hehe. Can I sleep with you, dad?」
+55719	Reset Kalar	基本	「へへ。一緒に寝ていい？　おとーさん」	「Hehe. Can I sleep with you, dad?」
 
-55720	Rance	「うーん……ま、よかろう。	「Hmm... Well, alright.
-55721	+	　寝相悪くするなよ」	　Don't kick around in your sleep.」
+55720	Rance	真剣	「うーん……ま、よかろう。	「Hmm... Well, alright.
+55721	+		　寝相悪くするなよ」	　Don't kick around in your sleep.」
 
-55722	Reset Kalar	「わーいっ。ごそごそ……」	「Yay. Rustle rustle...」
+55722	Reset Kalar	笑顔	「わーいっ。ごそごそ……」	「Yay. Rustle rustle...」
 
-55723	Sill Plain	「ふふ、お休みなさい、ランス様」	「Fufu, good night, Rance-sama.」
+55723	Sill Plain	基本	「ふふ、お休みなさい、ランス様」	「Fufu, good night, Rance-sama.」
 
-55724	Copandon Dott	「ほな、うちも寝よ……おやすみさん」	「Well, time for me to sleep too... Good night.」
+55724	Copandon Dott		「ほな、うちも寝よ……おやすみさん」	「Well, time for me to sleep too... Good night.」
 
-55725	Nagi su Ragarl	「お姉様っ。私たちも一緒にくるまろっ」	「Big sis! Let's snuggle together too!」
+55725	Nagi su Ragarl		「お姉様っ。私たちも一緒にくるまろっ」	「Big sis! Let's snuggle together too!」
 
-55726	Masou Shizuka	「なんでわざわざ……毛布は人数分あるでしょ」	「Why go out of your way... There are enough blankets.」
+55726	Masou Shizuka	呆れ	「なんでわざわざ……毛布は人数分あるでしょ」	「Why go out of your way... There are enough blankets.」
 
-55727	Nagi su Ragarl	「いーのっ。ほらほら」	「It's fine. Come on.」
+55727	Nagi su Ragarl	基本	「いーのっ。ほらほら」	「It's fine. Come on.」
 
-55728	Masou Shizuka	「ん……」	「Nn...」
+55728	Masou Shizuka	笑顔	「ん……」	「Nn...」
 
-55729	-	ナギがマントのように広げた毛布に、	Under the blanket Nagi spread like a cape,
-55730	+	志津香も大人しく入り込んだ。	Shizuka quietly slipped in.
+55729	-		ナギがマントのように広げた毛布に、	Under the blanket Nagi spread like a cape,
+55730	+		志津香も大人しく入り込んだ。	Shizuka quietly slipped in.
 
-55731	-	星が瞬く。	Stars twinkled.
+55731	-		星が瞬く。	Stars twinkled.
 
-55732	-	別のどこかでは血で血を洗う闘争が	In some other place, bloody battles
-55733	+	昼夜問わずに行われているなどとは思えないような、	continued day and night, but here it was
-55734	+	静かな夜だった。	a peaceful quiet night.
+55732	-		別のどこかでは血で血を洗う闘争が	In some other place, bloody battles
+55733	+		昼夜問わずに行われているなどとは思えないような、	continued day and night, but here it was
+55734	+		静かな夜だった。	a peaceful quiet night.

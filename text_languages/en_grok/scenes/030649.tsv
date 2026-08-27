@@ -10,670 +10,670 @@
 * Serachrolas	セラクロラス	Female
 * Magic Monster Soldier	汎用魔法魔物兵	Male
 
-20863	-	――平穏な空を、鳥が流れていく。	―― Birds soar across the peaceful sky.
+20863	-		――平穏な空を、鳥が流れていく。	―― Birds soar across the peaceful sky.
 
-20864	Arios Theoman	「ああ…………天気、いいな」	「Ah... the weather is nice.」
+20864	Arios Theoman	村人	「ああ…………天気、いいな」	「Ah... the weather is nice.」
 
-20865	-	見上げた目に陽光が入り込んできて、	As the sunlight entered his eyes as he looked up,
-20866	+	アリオス・テオマンは少しだけ眼を細めた。	Arios Theoman narrowed his eyes slightly.
+20865	-		見上げた目に陽光が入り込んできて、	As the sunlight entered his eyes as he looked up,
+20866	+		アリオス・テオマンは少しだけ眼を細めた。	Arios Theoman narrowed his eyes slightly.
 
-20867	Man	「ようアリオス！　今日は森か？」	「Yo, Arios! Are you heading to the forest today?」
+20867	Man	基本	「ようアリオス！　今日は森か？」	「Yo, Arios! Are you heading to the forest today?」
 
-20868	Arios Theoman	「やあフクノリ。向こうのノボソさんちが、	「Hey, Fukunori. It seems the Noboso house over there
-20869	+	　柱を取り替えたいらしくてさ」	wants to replace their pillars.」
+20868	Arios Theoman	村人	「やあフクノリ。向こうのノボソさんちが、	「Hey, Fukunori. It seems the Noboso house over there
+20869	+		　柱を取り替えたいらしくてさ」	wants to replace their pillars.」
 
-20870	-	斧を軽く、肩で担ぎ直した。	He lightly shifted the axe on his shoulder.
+20870	-		斧を軽く、肩で担ぎ直した。	He lightly shifted the axe on his shoulder.
 
-20871	Man	「へーぇ。それで今日は、	「Heh. So that's why Nina is
-20872	+	　ニーナが外までお見送りってわけか」	seeing you off outside today.」
+20871	Man	基本	「へーぇ。それで今日は、	「Heh. So that's why Nina is
+20872	+		　ニーナが外までお見送りってわけか」	seeing you off outside today.」
 
-20873	Nina Nirvana	「わ、私は畑にいくだけよ。	「I-I'm just going to the fields.
-20874	+	　別に、そんな……」	It's not like that...」
+20873	Nina Nirvana	ぷう	「わ、私は畑にいくだけよ。	「I-I'm just going to the fields.
+20874	+		　別に、そんな……」	It's not like that...」
 
-20875	Man	「わはははは！　そうかいそうかい。	「Wahahaha! I see, I see.
-20876	+	　……おい、アリオス」	...Hey, Arios.」
+20875	Man	基本	「わはははは！　そうかいそうかい。	「Wahahaha! I see, I see.
+20876	+		　……おい、アリオス」	...Hey, Arios.」
 
-20877	Arios Theoman	「わっ、とと……」	「Whoa, hey...」
+20877	Arios Theoman	村人	「わっ、とと……」	「Whoa, hey...」
 
-20878	-	ぐいっと首を掴まれて、引き寄せられる。	He was grabbed by the neck and pulled in.
+20878	-		ぐいっと首を掴まれて、引き寄せられる。	He was grabbed by the neck and pulled in.
 
-20879	Man	「……ニーナの記憶は、結局あのままなのか？」	「...Are Nina's memories still like that, after all?」
+20879	Man	基本	「……ニーナの記憶は、結局あのままなのか？」	「...Are Nina's memories still like that, after all?」
 
-20880	Arios Theoman	「ああ……僕が旅立った、あの日から……	「Yeah... from that day I left on my journey...
-20881	+	　ほとんど、何も覚えてないって」	she says she remembers almost nothing.」
+20880	Arios Theoman	村人	「ああ……僕が旅立った、あの日から……	「Yeah... from that day I left on my journey...
+20881	+		　ほとんど、何も覚えてないって」	she says she remembers almost nothing.」
 
-20882	Man	「そっか……それでも、いいかもな……	「I see... maybe that's for the best...
-20883	+	　酷い目に遭って……お前がいない時の記憶なんて」	After going through such a terrible time... memories of when you weren't there.」
+20882	Man	基本	「そっか……それでも、いいかもな……	「I see... maybe that's for the best...
+20883	+		　酷い目に遭って……お前がいない時の記憶なんて」	After going through such a terrible time... memories of when you weren't there.」
 
-20884	Arios Theoman	「……………………」	「..................」
+20884	Arios Theoman	村人	「……………………」	「..................」
 
-20885	Man	「泣かせるなよ」	「Don't make her cry.」
+20885	Man	基本	「泣かせるなよ」	「Don't make her cry.」
 
-20886	Arios Theoman	「……分かってるよ」	「...I know.」
+20886	Arios Theoman	村人	「……分かってるよ」	「...I know.」
 
-20887	Nina Nirvana	「なぁに？　内緒話？」	「What is it? Secret talk?」
+20887	Nina Nirvana	基本	「なぁに？　内緒話？」	「What is it? Secret talk?」
 
-20888	Arios Theoman	「なんでもないよ」	「It's nothing.」
+20888	Arios Theoman	村人	「なんでもないよ」	「It's nothing.」
 
-20889	Nina Nirvana	「あーっ！	「Ah!
-20890	+	　やらしい話とかしてたんじゃないでしょうね」	I hope you weren't talking about something lewd.」
+20889	Nina Nirvana	基本	「あーっ！	「Ah!
+20890	+		　やらしい話とかしてたんじゃないでしょうね」	I hope you weren't talking about something lewd.」
 
-20891	Man	「うへっ、ばれた」	「Ugh, I've been found out.」
+20891	Man		「うへっ、ばれた」	「Ugh, I've been found out.」
 
-20892	Arios Theoman	「お、おいフクノリっ！？」	「H-Hey, Fukunori!?」
+20892	Arios Theoman	村人	「お、おいフクノリっ！？」	「H-Hey, Fukunori!?」
 
-20893	Nina Nirvana	「アリオスーーーっ！？」	「Arios!!」
+20893	Nina Nirvana	ぷう	「アリオスーーーっ！？」	「Arios!!」
 
-20894	Arios Theoman	「わっ、たたた！」	「Whoa, ow ow ow!」
+20894	Arios Theoman	村人	「わっ、たたた！」	「Whoa, ow ow ow!」
 
-20895	-	鍬を振り上げて追いかけてくる幼馴染みから、	As his childhood friend chased him with a raised hoe,
-20896	+	アリオスは慌てて逃げ出した。	Arios hurriedly ran away.
+20895	-		鍬を振り上げて追いかけてくる幼馴染みから、	As his childhood friend chased him with a raised hoe,
+20896	+		アリオスは慌てて逃げ出した。	Arios hurriedly ran away.
 
-20897	Arios Theoman	「ふう、っと。あいつが変な事言うから、	「Phew. He said something strange,
-20898	+	　逃げるハメになったじゃないか……」	and I ended up having to run away...」
+20897	Arios Theoman		「ふう、っと。あいつが変な事言うから、	「Phew. He said something strange,
+20898	+		　逃げるハメになったじゃないか……」	and I ended up having to run away...」
 
-20899	-	森の中に入った所で、アリオスは歩調を緩めた。	Once he entered the forest, Arios slowed his pace.
+20899	-		森の中に入った所で、アリオスは歩調を緩めた。	Once he entered the forest, Arios slowed his pace.
 
-20900	Arios Theoman~	（ごまかすためなのは分かるけど……	(I know it was to cover things up...)
-20901	+	　あとで、ニーナには弁解しておかないとな……）	(but I'll have to apologize to Nina later...)
+20900	Arios Theoman~		（ごまかすためなのは分かるけど……	(I know it was to cover things up...)
+20901	+		　あとで、ニーナには弁解しておかないとな……）	(but I'll have to apologize to Nina later...)
 
-20902	Arios Theoman	「あ……そうだ。	「Ah... that's right.
-20903	+	　この辺にニーナの好きな花があったな……	Nina's favorite flowers used to grow around here...
-20904	+	　後で摘んでいくか」	Maybe I'll pick some later.」
+20902	Arios Theoman		「あ……そうだ。	「Ah... that's right.
+20903	+		　この辺にニーナの好きな花があったな……	Nina's favorite flowers used to grow around here...
+20904	+		　後で摘んでいくか」	Maybe I'll pick some later.」
 
-20905	Arios Theoman	「……ぷっ。く、くくく……」	「...*Pfft*. Ku, kukuku...」
+20905	Arios Theoman		「……ぷっ。く、くくく……」	「...*Pfft*. Ku, kukuku...」
 
-20906	-	ふと……そこで、おかしくなった。	Suddenly... he found it amusing.
+20906	-		ふと……そこで、おかしくなった。	Suddenly... he found it amusing.
 
-20907	Arios Theoman	「………………平和だ」	「...It's peaceful.」
+20907	Arios Theoman		「………………平和だ」	「...It's peaceful.」
 
-20908	-	つい三年前には、そんな呑気な問題で	Just three years ago, he wouldn't have been
-20909	+	頭を悩ませることなんて、なかった。	troubling his head with such carefree problems.
+20908	-		つい三年前には、そんな呑気な問題で	Just three years ago, he wouldn't have been
+20909	+		頭を悩ませることなんて、なかった。	troubling his head with such carefree problems.
 
-20910	-	アリオス・テオマン。	Arios Theoman.
-20911	+	数年前までは、世界を旅する、勇者の名前だった。	Until a few years ago, that was the name of a Hero traveling the world.
+20910	-		アリオス・テオマン。	Arios Theoman.
+20911	+		数年前までは、世界を旅する、勇者の名前だった。	Until a few years ago, that was the name of a Hero traveling the world.
 
-20912	-	およそ、十年前。	About ten years ago.
-20913	+	突然現れた、従者を名乗るコーラという少年から、	The days of training began when a boy named Cola, who claimed to be a servant, suddenly appeared
-20914	+	勇者だと宣告されて始まった修行の日々。	and declared him a Hero.
+20912	-		およそ、十年前。	About ten years ago.
+20913	+		突然現れた、従者を名乗るコーラという少年から、	The days of training began when a boy named Cola, who claimed to be a servant, suddenly appeared
+20914	+		勇者だと宣告されて始まった修行の日々。	and declared him a Hero.
 
-20915	-	村が襲われ、幼馴染みのニーナは記憶を失い、	The village was attacked, his childhood friend Nina lost her memory,
-20916	+	そうして、アリオスは勇者として……	and then Arios, as a Hero...
-20917	+	魔王を倒すための旅に出た。	set out on a journey to defeat the Demon King.
+20915	-		村が襲われ、幼馴染みのニーナは記憶を失い、	The village was attacked, his childhood friend Nina lost her memory,
+20916	+		そうして、アリオスは勇者として……	and then Arios, as a Hero...
+20917	+		魔王を倒すための旅に出た。	set out on a journey to defeat the Demon King.
 
-20918	-	それから七年。	Seven years since then.
+20918	-		それから七年。	Seven years since then.
 
-20919	-	世界のあちこちを巡り、激しい戦いも経験したが……	He traveled all over the world and experienced fierce battles, but...
-20920	+	魔王を倒す前に、アリオスは勇者の定年を迎えていた。	before he could defeat the Demon King, Arios reached his retirement age as a Hero.
+20919	-		世界のあちこちを巡り、激しい戦いも経験したが……	He traveled all over the world and experienced fierce battles, but...
+20920	+		魔王を倒す前に、アリオスは勇者の定年を迎えていた。	before he could defeat the Demon King, Arios reached his retirement age as a Hero.
 
-20921	Arios Theoman~	（……怒ってるだろうなぁ、コーラの奴。	(...Cola's probably angry.)
-20922	+	　そのうち、剣も……返さないとな）	(Eventually, I'll have to... return the sword too.)
+20921	Arios Theoman~		（……怒ってるだろうなぁ、コーラの奴。	(...Cola's probably angry.)
+20922	+		　そのうち、剣も……返さないとな）	(Eventually, I'll have to... return the sword too.)
 
-20923	-	定年を迎える、少し前。	A little before he reached retirement age.
-20924	+	本当は、もう一度くらい旅に出る時間はあった。	He actually had enough time to set out on one more journey.
+20923	-		定年を迎える、少し前。	A little before he reached retirement age.
+20924	+		本当は、もう一度くらい旅に出る時間はあった。	He actually had enough time to set out on one more journey.
 
-20925	-	けれど、その前にと一人で寄った村。	However, he stopped by a village alone first.
+20925	-		けれど、その前にと一人で寄った村。	However, he stopped by a village alone first.
 
-20926	-	復興しかけの故郷で、アリオスは見てしまった。	In his hometown, which was in the middle of reconstruction, Arios saw her.
-20927	+	記憶を失ったまま、	His childhood friend, who had lost her memory,
-20928	+	独りぼっちで笑わなくなった幼馴染みの姿を。	was all alone and had stopped smiling.
+20926	-		復興しかけの故郷で、アリオスは見てしまった。	In his hometown, which was in the middle of reconstruction, Arios saw her.
+20927	+		記憶を失ったまま、	His childhood friend, who had lost her memory,
+20928	+		独りぼっちで笑わなくなった幼馴染みの姿を。	was all alone and had stopped smiling.
 
-20929	-	……そこで、何かが切れてしまった。	...At that moment, something snapped.
-20930	+	再び発つ事が、できなくなってしまっていた。	He found himself unable to set out again.
+20929	-		……そこで、何かが切れてしまった。	...At that moment, something snapped.
+20930	+		再び発つ事が、できなくなってしまっていた。	He found himself unable to set out again.
 
-20931	-	アリオス・テオマンの旅は、そこで終わった。	Arios Theoman's journey ended there.
-20932	+	勇者の剣はひっそりと納屋の奥で眠り、	The Hero's sword slept quietly in the back of a shed,
-20933	+	青年はただの村人に戻った。	and the young man returned to being just a villager.
+20931	-		アリオス・テオマンの旅は、そこで終わった。	Arios Theoman's journey ended there.
+20932	+		勇者の剣はひっそりと納屋の奥で眠り、	The Hero's sword slept quietly in the back of a shed,
+20933	+		青年はただの村人に戻った。	and the young man returned to being just a villager.
 
-20934	Arios Theoman~	（こないだ来た郵便屋さんからは、	(I also heard from the mailman who came the other day)
-20935	+	　魔物が増えてるみたいな話も聞いたけれど……	(that it seems monsters are increasing, but...)
-20936	+	　誰かが、戦うさ）	(someone will fight them.)
+20934	Arios Theoman~		（こないだ来た郵便屋さんからは、	(I also heard from the mailman who came the other day)
+20935	+		　魔物が増えてるみたいな話も聞いたけれど……	(that it seems monsters are increasing, but...)
+20936	+		　誰かが、戦うさ）	(someone will fight them.)
 
-20937	-	それからも、多少は色々とあった。	A few things happened after that, as well.
-20938	+	改めて旅に出そうになったこともあったが、	There were times when he almost set out on a journey again,
-20939	+	それも過去のことだ。	but that's all in the past.
+20937	-		それからも、多少は色々とあった。	A few things happened after that, as well.
+20938	+		改めて旅に出そうになったこともあったが、	There were times when he almost set out on a journey again,
+20939	+		それも過去のことだ。	but that's all in the past.
 
-20940	Arios Theoman~	（何が大事かは、わかった。	(I've learned what's important.)
-20941	+	　……大事な物を守るくらいの力も……ある。	(...I also have... enough power to protect what's important.)
-20942	+	　うん。それでいい）	(Yeah. That's fine.)
+20940	Arios Theoman~		（何が大事かは、わかった。	(I've learned what's important.)
+20941	+		　……大事な物を守るくらいの力も……ある。	(...I also have... enough power to protect what's important.)
+20942	+		　うん。それでいい）	(Yeah. That's fine.)
 
-20943	Arios Theoman	「そうだ。今度……昔の仲間に、手紙でも書こうか。	「Right. Maybe next time... I'll write a letter to my old comrades.
-20944	+	　ずいぶん、連絡も取ってないし……」	I haven't been in touch for quite a while...」
+20943	Arios Theoman		「そうだ。今度……昔の仲間に、手紙でも書こうか。	「Right. Maybe next time... I'll write a letter to my old comrades.
+20944	+		　ずいぶん、連絡も取ってないし……」	I haven't been in touch for quite a while...」
 
-20945	-	それがいい、と少し笑う。	He smiled slightly, thinking that was a good idea.
-20946	+	こんな暮らしに戻ったことも、報告しなくては。	He also had to report that he had returned to such a lifestyle.
-20947	+	色々と、謝らなくちゃいけない。	He had a lot of things to apologize for.
+20945	-		それがいい、と少し笑う。	He smiled slightly, thinking that was a good idea.
+20946	+		こんな暮らしに戻ったことも、報告しなくては。	He also had to report that he had returned to such a lifestyle.
+20947	+		色々と、謝らなくちゃいけない。	He had a lot of things to apologize for.
 
-20948	Arios Theoman	「おっと……さっさと伐り倒さないと。	「Whoops... I've got to cut them down quickly.
-20949	+	　日が暮れちまう。どの樹がいいかな……」	The sun's going to set. I wonder which tree would be good...」
+20948	Arios Theoman		「おっと……さっさと伐り倒さないと。	「Whoops... I've got to cut them down quickly.
+20949	+		　日が暮れちまう。どの樹がいいかな……」	The sun's going to set. I wonder which tree would be good...」
 
-20950	-	遠くの空で、鳥がのんびりと鳴いていた。	In the distant sky, a bird was chirping lazily.
+20950	-		遠くの空で、鳥がのんびりと鳴いていた。	In the distant sky, a bird was chirping lazily.
 
-20951	-	…………	.........
+20951	-		…………	.........
 
-20952	-	……	...
+20952	-		……	...
 
-20953	Arios Theoman	「ふぅ……こんなもんかな」	「Phew... I guess this is about it.」
+20953	Arios Theoman		「ふぅ……こんなもんかな」	「Phew... I guess this is about it.」
 
-20954	-	一抱えほどの太さの樹を数本切り倒して、	After cutting down several trees about the thickness of an armful,
-20955	+	アリオスは額の汗を拭った。	Arios wiped the sweat from his forehead.
+20954	-		一抱えほどの太さの樹を数本切り倒して、	After cutting down several trees about the thickness of an armful,
+20955	+		アリオスは額の汗を拭った。	Arios wiped the sweat from his forehead.
 
-20956	Arios Theoman	「そろそろ、戻って………………ん？」	「It's about time to head back... Hm?」
+20956	Arios Theoman		「そろそろ、戻って………………ん？」	「It's about time to head back... Hm?」
 
-20957	-	そこで、アリオスは違和感に気づいた。	There, Arios noticed something felt off.
+20957	-		そこで、アリオスは違和感に気づいた。	There, Arios noticed something felt off.
 
-20958	Arios Theoman	「…………静かすぎる……	「...It's too quiet...
-20959	+	　ムシの声一つ、聞こえないぞ……？」	I can't even hear the sound of a single insect...?」
+20958	Arios Theoman		「…………静かすぎる……	「...It's too quiet...
+20959	+		　ムシの声一つ、聞こえないぞ……？」	I can't even hear the sound of a single insect...?」
 
-20960	-	呟きが、妙に遠くまで響く。	His murmur echoed strangely far.
-20961	+	周囲の存在が、全て姿を消したかのようだった。	It was as if everything in the surroundings had disappeared.
+20960	-		呟きが、妙に遠くまで響く。	His murmur echoed strangely far.
+20961	+		周囲の存在が、全て姿を消したかのようだった。	It was as if everything in the surroundings had disappeared.
 
-20962	-	そうして…………	And then...
+20962	-		そうして…………	And then...
 
-20963	-	気を張ったアリオスの鼻孔を、物が焼ける臭いと……	The smell of something burning and...
-20964	+	生臭い鉄錆の臭いがくすぐった。	the fishy smell of iron rust tickled Arios's tense nostrils.
+20963	-		気を張ったアリオスの鼻孔を、物が焼ける臭いと……	The smell of something burning and...
+20964	+		生臭い鉄錆の臭いがくすぐった。	the fishy smell of iron rust tickled Arios's tense nostrils.
 
-20965	Arios Theoman	「――――――！」	「――――――!」
+20965	Arios Theoman		「――――――！」	「――――――!」
 
-20966	?	「がぶっ……！　ごああああっ！」	「Gueh...! Guaaaaaah!」
+20966	?		「がぶっ……！　ごああああっ！」	「Gueh...! Guaaaaaah!」
 
-20967	?	「あああぁッ！　たっ、助けっ、いやっ……	「Aaaah! H-Help, no...
-20968	+	　ああがああああああぁぁっ！」	Aaaaaaaaaah!」
+20967	?		「あああぁッ！　たっ、助けっ、いやっ……	「Aaaah! H-Help, no...
+20968	+		　ああがああああああぁぁっ！」	Aaaaaaaaaah!」
 
-20969	Arios Theoman	「あ…………あ、あ……っ……！」	「A... a, a...!」
+20969	Arios Theoman		「あ…………あ、あ……っ……！」	「A... a, a...!」
 
-20970	-	――――赤い、光景だった。	―――― It was a red scene.
+20970	-		――――赤い、光景だった。	―――― It was a red scene.
 
-20971	-	炎の赤。血の紅。	The red of fire. The crimson of blood.
+20971	-		炎の赤。血の紅。	The red of fire. The crimson of blood.
 
-20972	-	ほんの今朝まで、影も無かったそれが、	Something that hadn't even left a shadow until this morning
-20973	+	平凡な……なんでもない村を、覆い尽くしていた。	was now completely covering the ordinary... unremarkable village.
+20972	-		ほんの今朝まで、影も無かったそれが、	Something that hadn't even left a shadow until this morning
+20973	+		平凡な……なんでもない村を、覆い尽くしていた。	was now completely covering the ordinary... unremarkable village.
 
-20974	Monster Captain	「はいはーい！	「Alright, alright!
-20975	+	　女犯す側ばっかりやってちゃだめですヨー。	You shouldn't just be on the side of raping women.
-20976	+	　ちゃんと男も殺す殺す。みんな仲良く、平等ネー」	Kill the men too. Everyone get along, equality!」
+20974	Monster Captain	基本	「はいはーい！	「Alright, alright!
+20975	+		　女犯す側ばっかりやってちゃだめですヨー。	You shouldn't just be on the side of raping women.
+20976	+		　ちゃんと男も殺す殺す。みんな仲良く、平等ネー」	Kill the men too. Everyone get along, equality!」
 
-20977	Green Monster Soldier	「たいちょー！　女が離してくれないんですよー！	「Captain! The women won't let go!
-20978	+	　げははははは！」	Gehahahaha!」
+20977	Green Monster Soldier		「たいちょー！　女が離してくれないんですよー！	「Captain! The women won't let go!
+20978	+		　げははははは！」	Gehahahaha!」
 
-20979	Monster Captain	「仕方ないネー。時間制限を付けるヨー。	「It can't be helped. Let's set a time limit.
-20980	+	　過ぎたら女の首刎ねるから、それまで楽しみなサイ」	I'll beheading the women once it's up, so enjoy yourselves until then.」
+20979	Monster Captain		「仕方ないネー。時間制限を付けるヨー。	「It can't be helped. Let's set a time limit.
+20980	+		　過ぎたら女の首刎ねるから、それまで楽しみなサイ」	I'll beheading the women once it's up, so enjoy yourselves until then.」
 
-20981	Green Monster Soldier	「うっひょー！　タイムアタックだ！	「Whoo-hoo! It's a time attack!
-20982	+	　ぐはははははは！」	Gahahahaha!」
+20981	Green Monster Soldier		「うっひょー！　タイムアタックだ！	「Whoo-hoo! It's a time attack!
+20982	+		　ぐはははははは！」	Gahahahaha!」
 
-20983	?	「いやっ、いやあああああぁぁあ！」	「No, nooooooooo!」
+20983	?		「いやっ、いやあああああぁぁあ！」	「No, nooooooooo!」
 
-20984	Arios Theoman	「魔物…………魔物、の……群れ……？」	「Monsters... a swarm... of monsters...?」
+20984	Arios Theoman	村人	「魔物…………魔物、の……群れ……？」	「Monsters... a swarm... of monsters...?」
 
-20985	-	――――思考が、真っ白に弾けた。	―――― His thoughts exploded into white.
+20985	-		――――思考が、真っ白に弾けた。	―――― His thoughts exploded into white.
 
-20986	Arios Theoman	「お、ッ…………！	「O...!
-20987	+	　お前らああああああああッ！！」	You bastards!!!!」
+20986	Arios Theoman		「お、ッ…………！	「O...!
+20987	+		　お前らああああああああッ！！」	You bastards!!!!」
 
-20988	-	手にしている斧で、躍りかかる。	He lunged forward with the axe in his hand.
+20988	-		手にしている斧で、躍りかかる。	He lunged forward with the axe in his hand.
 
-20989	Green Monster Soldier	「うわっ。なんか来た」	「Whoa. Something's coming.」
+20989	Green Monster Soldier	基本	「うわっ。なんか来た」	「Whoa. Something's coming.」
 
-20990	-	緩慢な動きで、魔物兵が向き直った。	With slow movements, the monster soldier turned around.
+20990	-		緩慢な動きで、魔物兵が向き直った。	With slow movements, the monster soldier turned around.
 
-20991	Arios Theoman	「…………ッ！」	「...!」
+20991	Arios Theoman	村人	「…………ッ！」	「...!」
 
-20992	-	振り下ろされる魔物の拳を体を捻って避け、	Arios twisted his body to avoid the monster's swinging fist
-20993	+	アリオスは魔物の懐へと踏み込む。	and stepped into the monster's reach.
+20992	-		振り下ろされる魔物の拳を体を捻って避け、	Arios twisted his body to avoid the monster's swinging fist
+20993	+		アリオスは魔物の懐へと踏み込む。	and stepped into the monster's reach.
 
-20994	Green Monster Soldier	「あれっ……」	「Huh...?」
+20994	Green Monster Soldier	基本	「あれっ……」	「Huh...?」
 
-20995	Arios Theoman	「おおおぉぉおおおおっ！！」	「Ooooooooooh!!」
+20995	Arios Theoman	村人	「おおおぉぉおおおおっ！！」	「Ooooooooooh!!」
 
-20996	Green Monster Soldier	「げぐ、っ……！？」	「Gueh...!?」
+20996	Green Monster Soldier	基本	「げぐ、っ……！？」	「Gueh...!?」
 
-20997	-	喉笛から血を飛沫かせて、巨体が倒れる。	With blood spraying from its throat, the giant body collapsed.
+20997	-		喉笛から血を飛沫かせて、巨体が倒れる。	With blood spraying from its throat, the giant body collapsed.
 
-20998	-	一瞬、周囲の魔物達の動きが止まる。	For a moment, the movements of the surrounding monsters stopped.
+20998	-		一瞬、周囲の魔物達の動きが止まる。	For a moment, the movements of the surrounding monsters stopped.
 
-20999	Monster Captain	「あっ……？」	「Ah...?」
+20999	Monster Captain		「あっ……？」	「Ah...?」
 
-21000	Arios Theoman	「魔物の、ボスっ……お前か、ッ……！」	「The monster... boss... is it you...?!」
+21000	Arios Theoman	村人	「魔物の、ボスっ……お前か、ッ……！」	「The monster... boss... is it you...?!」
 
-21001	Monster Captain	「……！　囲みなサーイ！」	「...! Surround hiiiim!」
+21001	Monster Captain	基本	「……！　囲みなサーイ！」	「...! Surround hiiiim!」
 
-21002	-	叫んだ魔物隊長にすぐさま応じ、	Responding immediately to the Captain's shout,
-21003	+	その周囲を兵士達が固める。	the soldiers closed in around him.
+21002	-		叫んだ魔物隊長にすぐさま応じ、	Responding immediately to the Captain's shout,
+21003	+		その周囲を兵士達が固める。	the soldiers closed in around him.
 
-21004	Arios Theoman	「くっ……おおおおおっ！」	「Guh... Ooooooooooh!」
+21004	Arios Theoman	村人	「くっ……おおおおおっ！」	「Guh... Ooooooooooh!」
 
-21005	-	襲ってくる得物を辛うじて捌き、	He barely parried the weapons lunging at him,
-21006	+	切り返すが、敵の数を減らせない。	and while he struck back, he couldn't thin out their numbers.
+21005	-		襲ってくる得物を辛うじて捌き、	He barely parried the weapons lunging at him,
+21006	+		切り返すが、敵の数を減らせない。	and while he struck back, he couldn't thin out their numbers.
 
-21007	Monster Captain	「魔法兵！　お仕事ヨーー」	「Mage soldiers! Time for woooork一」
+21007	Monster Captain	基本	「魔法兵！　お仕事ヨーー」	「Mage soldiers! Time for woooork一」
 
-21008	Arios Theoman	「…………ッ……が、ぐはっ……！」	「...!! Gh, guhah...!」
+21008	Arios Theoman	村人／絶望	「…………ッ……が、ぐはっ……！」	「...!! Gh, guhah...!」
 
-21009	Arios Theoman~	（そうだ、っ……	(That's right...)
-21010	+	　切り込む時は、魔法使いの確認……！	(When charging in, check for mages first...!)
-21011	+	　基本、じゃないかっ……）	(It's the basics, isn't it...)
+21009	Arios Theoman~		（そうだ、っ……	(That's right...)
+21010	+		　切り込む時は、魔法使いの確認……！	(When charging in, check for mages first...!)
+21011	+		　基本、じゃないかっ……）	(It's the basics, isn't it...)
 
-21012	-	意識が遠のく。膝が崩れる。	His consciousness fades. His knees give out.
-21013	+	久しく……命を賭けた戦闘など、していなかった。	It had been a long time... since he had fought a life-or-death battle.
+21012	-		意識が遠のく。膝が崩れる。	His consciousness fades. His knees give out.
+21013	+		久しく……命を賭けた戦闘など、していなかった。	It had been a long time... since he had fought a life-or-death battle.
 
-21014	Red Monster Soldier	「もおおぉぉ、早く死ねよ！」	「Geez, just hurry up and die!」
+21014	Red Monster Soldier	基本	「もおおぉぉ、早く死ねよ！」	「Geez, just hurry up and die!」
 
-21015	Arios Theoman	「ぐっ！」	「Guh!」
+21015	Arios Theoman	村人	「ぐっ！」	「Guh!」
 
-21016	-	受けた斧が、砕かれた。	The axe he blocked with shattered.
-21017	+	元より、戦闘に耐えるような物ではなかった。	It was never meant to withstand combat in the first place.
+21016	-		受けた斧が、砕かれた。	The axe he blocked with shattered.
+21017	+		元より、戦闘に耐えるような物ではなかった。	It was never meant to withstand combat in the first place.
 
-21018	Red Monster Soldier	「はいはい、気が済んだ？	「Yeah, yeah, are you satisfied yet?
-21019	+	　さっさと死ね！」	Now die already!」
+21018	Red Monster Soldier	基本	「はいはい、気が済んだ？	「Yeah, yeah, are you satisfied yet?
+21019	+		　さっさと死ね！」	Now die already!」
 
-21020	Arios Theoman~	（武器、ッ……！　武器を、ッ…………！）	(A weapon...! I need a weapon...!)
+21020	Arios Theoman~	村人	（武器、ッ……！　武器を、ッ…………！）	(A weapon...! I need a weapon...!)
 
-21021	-	アリオスに残った力が、足にこもった。	Arios poured his remaining strength into his legs.
+21021	-		アリオスに残った力が、足にこもった。	Arios poured his remaining strength into his legs.
 
-21022	Red Monster Soldier	「あっ、逃げた！」	「Ah, he ran away!」
+21022	Red Monster Soldier	基本	「あっ、逃げた！」	「Ah, he ran away!」
 
-21023	Blue Monster Soldier	「いいよもう、ほっとこう。	「Whatever, just leave him.
-21024	+	　次はフットサルごっこしよーぜー！」	Let's play pretend futsal next!」
+21023	Blue Monster Soldier		「いいよもう、ほっとこう。	「Whatever, just leave him.
+21024	+		　次はフットサルごっこしよーぜー！」	Let's play pretend futsal next!」
 
-21025	Monster Captain	「もーう、しょうがありませんネー。	「My, my, you're hopeless一
-21026	+	　仲良くやるんですヨー？」	You have to play nice together, okaaaay?」
+21025	Monster Captain		「もーう、しょうがありませんネー。	「My, my, you're hopeless一
+21026	+		　仲良くやるんですヨー？」	You have to play nice together, okaaaay?」
 
-21027	-	…………	............
+21027	-		…………	............
 
-21028	-	……	......
+21028	-		……	......
 
-21029	Arios Theoman	「がはっ……！　あ、ううぅっ、うぐっ……！」	「Gah...! Ah, uuuugh, uggh...!」
+21029	Arios Theoman	村人／絶望	「がはっ……！　あ、ううぅっ、うぐっ……！」	「Gah...! Ah, uuuugh, uggh...!」
 
-21030	-	体中の傷をどうにか無視して、	Somehow ignoring the wounds covering his body,
-21031	+	アリオスは納屋に転がり込んだ。	Arios tumbled into the shed.
+21030	-		体中の傷をどうにか無視して、	Somehow ignoring the wounds covering his body,
+21031	+		アリオスは納屋に転がり込んだ。	Arios tumbled into the shed.
 
-21032	Arios Theoman~	（早く、ッ……！　早く戻って……	(Hurry...! I have to get back fast...)
-21033	+	　助けないと……みんなを……ニーナを、ッ……！）	(I have to save them... everyone... Nina...!)
+21032	Arios Theoman~	村人	（早く、ッ……！　早く戻って……	(Hurry...! I have to get back fast...)
+21033	+		　助けないと……みんなを……ニーナを、ッ……！）	(I have to save them... everyone... Nina...!)
 
-21034	Arios Theoman	「ここ、っ……ここに、ッ……！」	「It's here... it's right here...!」
+21034	Arios Theoman		「ここ、っ……ここに、ッ……！」	「It's here... it's right here...!」
 
-21035	-	簡素な箱に収められた、一本の剣。	Stored in a simple box was a single sword.
-21036	+	魔を払う勇者の剣、エスクードソード。	The hero's sword that dispels evil, Escudo Sword.
+21035	-		簡素な箱に収められた、一本の剣。	Stored in a simple box was a single sword.
+21036	+		魔を払う勇者の剣、エスクードソード。	The hero's sword that dispels evil, Escudo Sword.
 
-21037	-	箱に倒れ込むようにして蓋を開け、	He collapsed against the box, threw open the lid,
-21038	+	縋るように握りこむ。	and gripped it as if clinging to life.
+21037	-		箱に倒れ込むようにして蓋を開け、	He collapsed against the box, threw open the lid,
+21038	+		縋るように握りこむ。	and gripped it as if clinging to life.
 
-21039	Arios Theoman	「っ、よし……！　これで、すぐにッ……」	「Yes...! With this, I can go back right away...」
+21039	Arios Theoman		「っ、よし……！　これで、すぐにッ……」	「Yes...! With this, I can go back right away...」
 
-21040	-	立ち上がろうとして……何かに引かれるようにして、	As he tried to stand... Arios's movements stopped,
-21041	+	アリオスの動きが止まった。	as if held back by something.
+21040	-		立ち上がろうとして……何かに引かれるようにして、	As he tried to stand... Arios's movements stopped,
+21041	+		アリオスの動きが止まった。	as if held back by something.
 
-21042	Arios Theoman	「――――――――ッ！？」	「...?!」
+21042	Arios Theoman		「――――――――ッ！？」	「...?!」
 
-21043	-	――――持ち上がらない。	一It won't lift.
-21044	+	あんなに軽々と振り回せた剣が、	The sword he once swung so effortlessly
-21045	+	今は鉄の塊よりも遙かに重い。	was now far heavier than a mere lump of iron.
+21043	-		――――持ち上がらない。	一It won't lift.
+21044	+		あんなに軽々と振り回せた剣が、	The sword he once swung so effortlessly
+21045	+		今は鉄の塊よりも遙かに重い。	was now far heavier than a mere lump of iron.
 
-21046	Arios Theoman	「あ……あっ、あああぁぁっ……！」	「Ah... ah, aaaaaaah...!」
+21046	Arios Theoman		「あ……あっ、あああぁぁっ……！」	「Ah... ah, aaaaaaah...!」
 
-21047	-	勇者としての寿命が、尽きている。	His lifespan as a Hero had run out.
-21048	+	それは分かっていた。	He knew that.
+21047	-		勇者としての寿命が、尽きている。	His lifespan as a Hero had run out.
+21048	+		それは分かっていた。	He knew that.
 
-21049	-	けれど……戦う資格さえ、もうないのか。	But... does he no longer even have the right to fight?
+21049	-		けれど……戦う資格さえ、もうないのか。	But... does he no longer even have the right to fight?
 
-21050	Arios Theoman	「ば、バカ野郎……！	「Y-You bastard...!
-21051	+	　いいだろ、ただ振り回すくらい……！	Just let me swing it, just once is enough...!
-21052	+	　はや、早くしないと、あいつが、ッ……！」	Hurry, if I don't hurry, she...!」
+21050	Arios Theoman		「ば、バカ野郎……！	「Y-You bastard...!
+21051	+		　いいだろ、ただ振り回すくらい……！	Just let me swing it, just once is enough...!
+21052	+		　はや、早くしないと、あいつが、ッ……！」	Hurry, if I don't hurry, she...!」
 
-21053	-	血でぬるつく指で、	With fingers slippery with blood,
-21054	+	必死に柄を握ろうとするが……叶わない。	he tried desperately to grasp the hilt... but to no avail.
+21053	-		血でぬるつく指で、	With fingers slippery with blood,
+21054	+		必死に柄を握ろうとするが……叶わない。	he tried desperately to grasp the hilt... but to no avail.
 
-21055	-	仕方なく視線を転じた……その、足下に。	Helpless, his eyes drifted... to what lay at his feet.
+21055	-		仕方なく視線を転じた……その、足下に。	Helpless, his eyes drifted... to what lay at his feet.
 
-21056	-	　	 
-21057	+	　　＜ぼとっ……ごろっ、ごろごろ……＞	<Thud... roll, roll roll...>
+21056	-		　	 
+21057	+		　　＜ぼとっ……ごろっ、ごろごろ……＞	<Thud... roll, roll roll...>
 
-21058	Arios Theoman	「――――――…………え、っ」	「一一一一一一...... Eh?」
+21058	Arios Theoman		「――――――…………え、っ」	「一一一一一一...... Eh?」
 
-21059	-	転がってきた、丸い何かと……目があった。	His eyes met something round that had rolled toward him.
+21059	-		転がってきた、丸い何かと……目があった。	His eyes met something round that had rolled toward him.
 
-21060	Nina Nirvana	「…………………………」	「......................」
+21060	Nina Nirvana	基本	「…………………………」	「......................」
 
-21061	-	朝方に別れた、その顔。	The face he had parted with this morning.
-21062	+	何度も見た……ずっと、見守るはずの、顔だった。	A face he had seen many times... one he was supposed to protect forever.
+21061	-		朝方に別れた、その顔。	The face he had parted with this morning.
+21062	+		何度も見た……ずっと、見守るはずの、顔だった。	A face he had seen many times... one he was supposed to protect forever.
 
-21063	Arios Theoman	「っ……あ、ぁ……ああ、ぅ、ぁぁっ……	「...Ah... aah... ah... ugh... aaah...
-21064	+	　……ニー……ナ……？」	...Ni... na...?」
+21063	Arios Theoman	村人	「っ……あ、ぁ……ああ、ぅ、ぁぁっ……	「...Ah... aah... ah... ugh... aaah...
+21064	+		　……ニー……ナ……？」	...Ni... na...?」
 
-21065	-	応えはない。	There was no answer.
+21065	-		応えはない。	There was no answer.
 
-21066	-	顔を真っ赤にして怒っていた表情も、	The face that once turned red with anger,
-21067	+	恥ずかしげにはにかんでいた表情も、もう、亡く――	the expression that once bashfully smiled, were now gone一
+21066	-		顔を真っ赤にして怒っていた表情も、	The face that once turned red with anger,
+21067	+		恥ずかしげにはにかんでいた表情も、もう、亡く――	the expression that once bashfully smiled, were now gone一
 
-21068	Arios Theoman	「あ、ぅ、あ……………………	「A... ugh... ah................
-21069	+	　うあああああああああああああああああああッ！！」	UAAAAAAAAAAAAAAAAAAAAAAAGH!!」
+21068	Arios Theoman		「あ、ぅ、あ……………………	「A... ugh... ah................
+21069	+		　うあああああああああああああああああああッ！！」	UAAAAAAAAAAAAAAAAAAAAAAAGH!!」
 
-21070	Green Monster Soldier	「うっひょ、ゴーーール……あれ。なんかいる。	「Woohoo, GOOOOOAL! ...Wait. There's someone here.
-21071	+	　あらよっと」	Ups-a-daisy.」
+21070	Green Monster Soldier	基本	「うっひょ、ゴーーール……あれ。なんかいる。	「Woohoo, GOOOOOAL! ...Wait. There's someone here.
+21071	+		　あらよっと」	Ups-a-daisy.」
 
-21072	-	伏したアリオスの背に、無造作な魔物の足が落ちた。	A monster's foot carelessly slammed down onto the back of the prostrate Arios.
+21072	-		伏したアリオスの背に、無造作な魔物の足が落ちた。	A monster's foot carelessly slammed down onto the back of the prostrate Arios.
 
-21073	Arios Theoman	「っ、が……！」	「...Gah!」
+21073	Arios Theoman	村人	「っ、が……！」	「...Gah!」
 
-21074	-	心身から動くだけの力が抜け落ち、	With all strength drained from his body and soul,
-21075	+	アリオスは床に叩きつけられた。	Arios was slammed against the floor.
+21074	-		心身から動くだけの力が抜け落ち、	With all strength drained from his body and soul,
+21075	+		アリオスは床に叩きつけられた。	Arios was slammed against the floor.
 
-21076	Arios Theoman~	（ど……ぅ、して……どうして、こんな、っ……！）	(Wh... y... why did this...!)
+21076	Arios Theoman~		（ど……ぅ、して……どうして、こんな、っ……！）	(Wh... y... why did this...!)
 
-21077	Green Monster Soldier	「男じゃん。殺しとこうぜ」	「It's just a guy. Let's kill him.」
+21077	Green Monster Soldier	基本	「男じゃん。殺しとこうぜ」	「It's just a guy. Let's kill him.」
 
-21078	Blue Monster Soldier	「あー、ほっとくと隊長に怒られちゃうなー。	「Ah, the Captain's gonna be mad if we just leave him.
-21079	+	　よっこらせ、っと」	Heave-ho.」
+21078	Blue Monster Soldier		「あー、ほっとくと隊長に怒られちゃうなー。	「Ah, the Captain's gonna be mad if we just leave him.
+21079	+		　よっこらせ、っと」	Heave-ho.」
 
-21080	-	魔物兵たちの武器が、振り上がる。	The monster soldiers' weapons were raised high.
-21081	+	だが、アリオスの視界には、それは入らなかった。	But Arios didn't even see them.
+21080	-		魔物兵たちの武器が、振り上がる。	The monster soldiers' weapons were raised high.
+21081	+		だが、アリオスの視界には、それは入らなかった。	But Arios didn't even see them.
 
-21082	-	微動だにしないアリオスの頭に、	As several weapons were brought down upon
-21083	+	幾つもの凶器が振り下ろされ――――	the motionless Arios's head一一
+21082	-		微動だにしないアリオスの頭に、	As several weapons were brought down upon
+21083	+		幾つもの凶器が振り下ろされ――――	the motionless Arios's head一一
 
-21084	-	――魔物の首が、前触れもなく刎ね飛んだ。	一一The monster's head was sent flying without warning.
+21084	-		――魔物の首が、前触れもなく刎ね飛んだ。	一一The monster's head was sent flying without warning.
 
-21085	Cola	「はいはい、邪魔邪魔、っと」	「Yeah, yeah, out of the way.」
+21085	Cola		「はいはい、邪魔邪魔、っと」	「Yeah, yeah, out of the way.」
 
-21086	Arios Theoman	「あ…………」	「Ah............」
+21086	Arios Theoman	村人	「あ…………」	「Ah............」
 
-21087	Cola	「あれ。納屋の中で、	「Oh. What are you doing rummaging around
-21088	+	　何ごそごそやってるんですか、アリオス」	in a shed, Arios?」
+21087	Cola	基本	「あれ。納屋の中で、	「Oh. What are you doing rummaging around
+21088	+		　何ごそごそやってるんですか、アリオス」	in a shed, Arios?」
 
-21089	Arios Theoman	「コー、ラ……」	「Cou... ra...」
+21089	Arios Theoman	村人	「コー、ラ……」	「Cou... ra...」
 
-21090	Cola	「はーい。ご無沙汰ですアリオス。	「Yes, yes. It's been a while, Arios.
-21091	+	　エスクードソード、返してもらいに来ましたよ」	I've come to take the Escudo Sword back.」
+21090	Cola	基本	「はーい。ご無沙汰ですアリオス。	「Yes, yes. It's been a while, Arios.
+21091	+		　エスクードソード、返してもらいに来ましたよ」	I've come to take the Escudo Sword back.」
 
-21092	-	勇者の従者コーラが、平然と立っていた。	The Hero's attendant, Cola, stood there calmly.
+21092	-		勇者の従者コーラが、平然と立っていた。	The Hero's attendant, Cola, stood there calmly.
 
-21093	Arios Theoman	「っ……！　コーラ！　村……村を、助けてくれ！	「...! Cola! The village... save the village!
-21094	+	　みんな、みんなが、っ……！」	Everyone... everyone is...!」
+21093	Arios Theoman	村人	「っ……！　コーラ！　村……村を、助けてくれ！	「...! Cola! The village... save the village!
+21094	+		　みんな、みんなが、っ……！」	Everyone... everyone is...!」
 
-21095	-	気を取り直したアリオスが、	Coming to his senses, Arios rushed toward Cola
-21096	+	すがりつかんばかりの勢いでコーラに詰め寄る。	with enough force to practically cling to him.
+21095	-		気を取り直したアリオスが、	Coming to his senses, Arios rushed toward Cola
+21096	+		すがりつかんばかりの勢いでコーラに詰め寄る。	with enough force to practically cling to him.
 
-21097	Cola	「え？　嫌ですよめんどくさい。	「Eh? No way, that's a pain.
-21098	+	　……それに、もう遅いと思いますけど」	...Besides, I think it's already too late.」
+21097	Cola	基本	「え？　嫌ですよめんどくさい。	「Eh? No way, that's a pain.
+21098	+		　……それに、もう遅いと思いますけど」	...Besides, I think it's already too late.」
 
-21099	Arios Theoman	「お、そい、って………………」	「Too... late...?」
+21099	Arios Theoman	村人	「お、そい、って………………」	「Too... late...?」
 
-21100	Cola	「この村にある人間の反応は、もう消えるか、	「The human signatures in this village have either
-21101	+	　消えようとしているか、しかないです」	already vanished or are about to.」
+21100	Cola	基本	「この村にある人間の反応は、もう消えるか、	「The human signatures in this village have either
+21101	+		　消えようとしているか、しかないです」	already vanished or are about to.」
 
-21102	Arios Theoman	「…………………！」	「...............!」
+21102	Arios Theoman	村人	「…………………！」	「...............!」
 
-21103	-	その言葉が意味する所を察してしまい、	Realizing what those words meant,
-21104	+	アリオスの膝が崩れ落ちる。	Arios's knees gave way.
+21103	-		その言葉が意味する所を察してしまい、	Realizing what those words meant,
+21104	+		アリオスの膝が崩れ落ちる。	Arios's knees gave way.
 
-21105	Arios Theoman	「なんで、っ……なんで、こんな、っ……！	「Why... why did this happen...!
-21106	+	　まさか、あいつらもエスクードソードを狙って……」	Don't tell me they were after the Escudo Sword too...」
+21105	Arios Theoman		「なんで、っ……なんで、こんな、っ……！	「Why... why did this happen...!
+21106	+		　まさか、あいつらもエスクードソードを狙って……」	Don't tell me they were after the Escudo Sword too...」
 
-21107	Cola	「相変わらず……馬鹿ですねーアリオスは」	「As usual... you're an idiot, Arios.」
+21107	Cola	基本	「相変わらず……馬鹿ですねーアリオスは」	「As usual... you're an idiot, Arios.」
 
-21108	Cola	「あんな雑魚どもに、エスクードソードの価値なんて	「Trash like that wouldn't understand the value
-21109	+	　分かりませんよ。ただの気まぐれでしょ」	of the Escudo Sword. It was just a whim.」
+21108	Cola		「あんな雑魚どもに、エスクードソードの価値なんて	「Trash like that wouldn't understand the value
+21109	+		　分かりませんよ。ただの気まぐれでしょ」	of the Escudo Sword. It was just a whim.」
 
-21110	Arios Theoman	「き、気まぐれ、って……っ、そんな……！	「A... a whim? That's...!
-21111	+	　そんな、事で、ッ……みんなが、っ…………！」	Because of something like that... everyone is...!」
+21110	Arios Theoman	村人	「き、気まぐれ、って……っ、そんな……！	「A... a whim? That's...!
+21111	+		　そんな、事で、ッ……みんなが、っ…………！」	Because of something like that... everyone is...!」
 
-21112	Cola	「戦争が始まったんですよ。人類と魔軍の。	「A war has begun. Between humanity and the Monster Army.
-21113	+	　こんな平和ボケした田舎にいたから	Maybe you didn't know because you were
-21114	+	　知らなかったのかもしれないですけど」	in this peaceful, backwater countryside.」
+21112	Cola	基本	「戦争が始まったんですよ。人類と魔軍の。	「A war has begun. Between humanity and the Monster Army.
+21113	+		　こんな平和ボケした田舎にいたから	Maybe you didn't know because you were
+21114	+		　知らなかったのかもしれないですけど」	in this peaceful, backwater countryside.」
 
-21115	Arios Theoman	「せん、そう……」	「A... war...」
+21115	Arios Theoman	村人	「せん、そう……」	「A... war...」
 
-21116	-	それらしいことは、聞いていた。	He had heard rumors of such things.
-21117	+	少し気にすれば、分かっていたかも知れない。	If he had paid a little attention, he might have known.
-21118	+	けれど、自分には、もう、関係がないと……	But he had thought it no longer had anything to do with him...
+21116	-		それらしいことは、聞いていた。	He had heard rumors of such things.
+21117	+		少し気にすれば、分かっていたかも知れない。	If he had paid a little attention, he might have known.
+21118	+		けれど、自分には、もう、関係がないと……	But he had thought it no longer had anything to do with him...
 
-21119	Cola	「今じゃ、こんなのどこにでもありますよ。	「Nowadays, this is happening everywhere.
-21120	+	　さ、エスクードソードを……」	Now then, the Escudo Sword...」
+21119	Cola	基本	「今じゃ、こんなのどこにでもありますよ。	「Nowadays, this is happening everywhere.
+21120	+		　さ、エスクードソードを……」	Now then, the Escudo Sword...」
 
-21121	Arios Theoman	「……魔物が……いるから、か…………	「That's...
-21122	+	　僕が、魔王を……倒さなかったから………	Because I... didn't defeat... the Demon King...
-21123	+	　だから……こんな…………」	That's why... this happened...」
+21121	Arios Theoman	村人	「……魔物が……いるから、か…………	「That's...
+21122	+		　僕が、魔王を……倒さなかったから………	Because I... didn't defeat... the Demon King...
+21123	+		　だから……こんな…………」	That's why... this happened...」
 
-21124	Cola	「ん？　ああ、そですよ」	「Hmm? Ah, yeah, that's right.」
+21124	Cola	基本	「ん？　ああ、そですよ」	「Hmm? Ah, yeah, that's right.」
 
-21125	Cola	「ずーっとそうでしたよね。	「It's been like that all along, hasn't it?
-21126	+	　勇者として立ち向かうべき事件以外の、	Getting distracted by trivial little incidents
-21127	+	　どうでもいい細かい事件ばかりに目を取られて」	instead of the ones a Hero should be facing.」
+21125	Cola		「ずーっとそうでしたよね。	「It's been like that all along, hasn't it?
+21126	+		　勇者として立ち向かうべき事件以外の、	Getting distracted by trivial little incidents
+21127	+		　どうでもいい細かい事件ばかりに目を取られて」	instead of the ones a Hero should be facing.」
 
-21128	Arios Theoman	「放っておけなかったんだ！	「I couldn't just leave them!
-21129	+	　正しいと思える事をして、人を守りたかった！」	I wanted to do what was right and protect people!」
+21128	Arios Theoman	村人	「放っておけなかったんだ！	「I couldn't just leave them!
+21129	+		　正しいと思える事をして、人を守りたかった！」	I wanted to do what was right and protect people!」
 
-21130	Arios Theoman	「それが……それが、いけなかったっていうのか！」	「Are you saying... that was wrong?!」
+21130	Arios Theoman		「それが……それが、いけなかったっていうのか！」	「Are you saying... that was wrong?!」
 
-21131	Cola	「十や二十、その場の命を永らえさせたから、	「What does it matter if you prolonged
-21132	+	　どうだっていうんですか」	ten or twenty lives in the moment?」
+21131	Cola	基本	「十や二十、その場の命を永らえさせたから、	「What does it matter if you prolonged
+21132	+		　どうだっていうんですか」	ten or twenty lives in the moment?」
 
-21133	Arios Theoman	「目の前で、苦しんでる人を……	「Abandoning someone suffering right in front of me...
-21134	+	　見捨てるなんてこと、僕には……っ」	I just couldn't do that...!」
+21133	Arios Theoman	村人	「目の前で、苦しんでる人を……	「Abandoning someone suffering right in front of me...
+21134	+		　見捨てるなんてこと、僕には……っ」	I just couldn't do that...!」
 
-21135	Cola	「その場にいない人だってどこかで苦しんでますよ。	「People who weren't there were suffering somewhere too.
-21136	+	　目に見えなかっただけです。今この場所のように」	You just didn't see them. Just like this place now.」
+21135	Cola	基本	「その場にいない人だってどこかで苦しんでますよ。	「People who weren't there were suffering somewhere too.
+21136	+		　目に見えなかっただけです。今この場所のように」	You just didn't see them. Just like this place now.」
 
-21137	Arios Theoman	「それ、は…………」	"That is..."
+21137	Arios Theoman	村人	「それ、は…………」	"That is..."
 
-21138	Cola	「ま、ただの冒険者ならそれでもいいんですけど。	「Well, if you were just an adventurer, that'd be fine.
-21139	+	　攻城兵器使うならムシを潰すより城を落とせ、	But if you're using a siege engine, you'd think to take
-21140	+	　って思うでしょ？」	the castle rather than squash bugs, right?」
+21138	Cola	基本	「ま、ただの冒険者ならそれでもいいんですけど。	「Well, if you were just an adventurer, that'd be fine.
+21139	+		　攻城兵器使うならムシを潰すより城を落とせ、	But if you're using a siege engine, you'd think to take
+21140	+		　って思うでしょ？」	the castle rather than squash bugs, right?」
 
-21141	Arios Theoman	「…………………」	「...............」
+21141	Arios Theoman	村人	「…………………」	「...............」
 
-21142	Cola	「自己満足ですよ。	「It's self-satisfaction.
-21143	+	　感謝されたいから、自分が気分よく酔えるから、	You want to be thanked, you want to feel good about yourself,
-21144	+	　だからその場の気分で決めて、こうなった」	so you decided on a whim, and this is the result.」
+21142	Cola	基本	「自己満足ですよ。	「It's self-satisfaction.
+21143	+		　感謝されたいから、自分が気分よく酔えるから、	You want to be thanked, you want to feel good about yourself,
+21144	+		　だからその場の気分で決めて、こうなった」	so you decided on a whim, and this is the result.」
 
-21145	Arios Theoman	「………………っ……！」	「............!」
+21145	Arios Theoman	村人	「………………っ……！」	「............!」
 
-21146	-	罵倒ともとれる辛辣な言葉を、	Cola continued to list these harsh words, which sounded
-21147	+	コーラは淡々と、感情を乗せずに並べていく。	like insults, in a flat tone devoid of emotion.
+21146	-		罵倒ともとれる辛辣な言葉を、	Cola continued to list these harsh words, which sounded
+21147	+		コーラは淡々と、感情を乗せずに並べていく。	like insults, in a flat tone devoid of emotion.
 
-21148	Cola	「間に合わなかったんですよ、間抜けなアリオス。	「You didn't make it in time, you dense Arios.
-21149	+	　勇者でいられる時間は有限なのに、	The time you can be a Hero is limited, yet you
-21150	+	　その責務よりも自分の感情を優先したんです」	prioritized your own feelings over your duty.」
+21148	Cola	基本	「間に合わなかったんですよ、間抜けなアリオス。	「You didn't make it in time, you dense Arios.
+21149	+		　勇者でいられる時間は有限なのに、	The time you can be a Hero is limited, yet you
+21150	+		　その責務よりも自分の感情を優先したんです」	prioritized your own feelings over your duty.」
 
-21151	Arios Theoman	「……………っ、う、ぐっ……！」	「...gh, ugh...!」
+21151	Arios Theoman	村人	「……………っ、う、ぐっ……！」	「...gh, ugh...!」
 
-21152	Arios Theoman	「ぐ、ぅぁ、ううううぅぅぅぅっ…………！」	「Gh, aaah, uuuuuuuuuuuugh...!」
+21152	Arios Theoman		「ぐ、ぅぁ、ううううぅぅぅぅっ…………！」	「Gh, aaah, uuuuuuuuuuuugh...!」
 
-21153	-	煮えたぎるように、アリオスの裡で激情が渦巻く。	Passion swirled within Arios like a boiling cauldron.
+21153	-		煮えたぎるように、アリオスの裡で激情が渦巻く。	Passion swirled within Arios like a boiling cauldron.
 
-21154	-	あらゆる、と称して差し支えないほどの負の感情が、	Negative emotions, enough to be called 'everything,'
-21155	+	刃となってアリオスを斬り刻んだ。	became blades that carved into Arios.
+21154	-		あらゆる、と称して差し支えないほどの負の感情が、	Negative emotions, enough to be called 'everything,'
+21155	+		刃となってアリオスを斬り刻んだ。	became blades that carved into Arios.
 
-21156	Cola	「さ、エスクードソード返してください。	「Now, give back the Escudo Sword.
-21157	+	　私、次の勇者にそれを渡さなきゃならないんで」	I have to give it to the next Hero.」
+21156	Cola	基本	「さ、エスクードソード返してください。	「Now, give back the Escudo Sword.
+21157	+		　私、次の勇者にそれを渡さなきゃならないんで」	I have to give it to the next Hero.」
 
-21158	Arios Theoman	「ぼ……く、を……………」	「Make... me...」
+21158	Arios Theoman	村人	「ぼ……く、を……………」	「Make... me...」
 
-21159	Cola	「ん？」	「Hmm?」
+21159	Cola	基本	「ん？」	「Hmm?」
 
-21160	Arios Theoman	「僕を、もう一度…………勇者にしてくれ！	「Make me a Hero... once more!
-21161	+	　魔物を、魔王を倒す、力をくれ！」	Give me the power to defeat the monsters, the Demon King!」
+21160	Arios Theoman	村人	「僕を、もう一度…………勇者にしてくれ！	「Make me a Hero... once more!
+21161	+		　魔物を、魔王を倒す、力をくれ！」	Give me the power to defeat the monsters, the Demon King!」
 
-21162	Cola	「不可能です。もう、時間切れですよ」	「It's impossible. Your time is already up.」
+21162	Cola	基本	「不可能です。もう、時間切れですよ」	「It's impossible. Your time is already up.」
 
-21163	Arios Theoman	「頼む……頼む、コーラ！	「I'm begging you... please, Cola!
-21164	+	　なんでもいい、戦う、方法を……」	I don't care what it is, just give me a way to fight...」
+21163	Arios Theoman	村人	「頼む……頼む、コーラ！	「I'm begging you... please, Cola!
+21164	+		　なんでもいい、戦う、方法を……」	I don't care what it is, just give me a way to fight...」
 
-21165	Cola	「はぁ……無理なものは無理ですって」	「*Sigh*... I'm telling you, what's impossible is impossible.」
+21165	Cola	基本	「はぁ……無理なものは無理ですって」	「*Sigh*... I'm telling you, what's impossible is impossible.」
 
-21166	?	「……できるよ？」	「...You can do it, you know?」
+21166	?		「……できるよ？」	「...You can do it, you know?」
 
-21167	Serachrolas	「できるよー……むにゃむにゃ……」	「You can do it... *mumble mumble*...」
+21167	Serachrolas	睡眠	「できるよー……むにゃむにゃ……」	「You can do it... *mumble mumble*...」
 
-21168	Arios Theoman~	（………………誰、だ……？	(Who... is that...?)
-21169	+	　いいや、なんでもいい……）	(No, I don't care who it is...)
+21168	Arios Theoman~	村人	（………………誰、だ……？	(Who... is that...?)
+21169	+		　いいや、なんでもいい……）	(No, I don't care who it is...)
 
-21170	Cola	「ああ……そっか。君がいましたね、セラクロラス。	「Ah... that's right. You were here, Serachrolas.
-21171	+	　そうか、時間を巻き戻せば……」	I see, if we rewind time...」
+21170	Cola	基本	「ああ……そっか。君がいましたね、セラクロラス。	「Ah... that's right. You were here, Serachrolas.
+21171	+		　そうか、時間を巻き戻せば……」	I see, if we rewind time...」
 
-21172	Serachrolas	「ぐぅぐぅ…………」	「*Snore snore*............」
+21172	Serachrolas	睡眠	「ぐぅぐぅ…………」	「*Snore snore*............」
 
-21173	Cola	「ふーむ……今、いい勇者候補いないんですよね。	「Hmm... there aren't any good Hero candidates right now.
-21174	+	　新しく育てる頃には、	By the time we raised a new one,
-21175	+	　人類がみんなくたばってるかも……」	humanity might all be dead...」
+21173	Cola	基本	「ふーむ……今、いい勇者候補いないんですよね。	「Hmm... there aren't any good Hero candidates right now.
+21174	+		　新しく育てる頃には、	By the time we raised a new one,
+21175	+		　人類がみんなくたばってるかも……」	humanity might all be dead...」
 
-21176	Arios Theoman	「じゃあ、っ……！」	「Then...!」
+21176	Arios Theoman	村人	「じゃあ、っ……！」	「Then...!」
 
-21177	Cola	「けど……いいですか？	「But... are you sure?
-21178	+	　勇者が魔王を倒すには、大勢人間が死にますよ」	For a Hero to defeat the Demon King, many humans will die.」
+21177	Cola	基本	「けど……いいですか？	「But... are you sure?
+21178	+		　勇者が魔王を倒すには、大勢人間が死にますよ」	For a Hero to defeat the Demon King, many humans will die.」
 
-21179	Arios Theoman	「………………」	「...............」
+21179	Arios Theoman	村人	「………………」	「...............」
 
-21180	Cola	「それにほら、復讐は何も生まない、ですっけ？	「And you know, doesn't 'revenge breed nothing'?
-21181	+	　死んだ人間はそんな事しても帰ってこない？	The dead won't come back even if you do that?
-21182	+	　望まない？」	They wouldn't want it?」
+21180	Cola	基本	「それにほら、復讐は何も生まない、ですっけ？	「And you know, doesn't 'revenge breed nothing'?
+21181	+		　死んだ人間はそんな事しても帰ってこない？	The dead won't come back even if you do that?
+21182	+		　望まない？」	They wouldn't want it?」
 
-21183	Cola	「いかにも甘ちゃんのアリオスが言いそうですよね。	「It sounds exactly like something a softie like Arios would say.
-21184	+	　実際にどこかで言いましたっけ」	Did you actually say it somewhere?」
+21183	Cola	スマイル	「いかにも甘ちゃんのアリオスが言いそうですよね。	「It sounds exactly like something a softie like Arios would say.
+21184	+		　実際にどこかで言いましたっけ」	Did you actually say it somewhere?」
 
-21185	Cola	「そういうくだらない台詞を言ったり言われたりして	「Aren't you just going to say or hear those worthless lines
-21186	+	　結局何もできないまま、	and end up doing nothing again?
-21187	+	　また終わるんじゃないですか？」	won't it just end like that again?"
+21185	Cola		「そういうくだらない台詞を言ったり言われたりして	「Aren't you just going to say or hear those worthless lines
+21186	+		　結局何もできないまま、	and end up doing nothing again?
+21187	+		　また終わるんじゃないですか？」	won't it just end like that again?"
 
-21188	Arios Theoman	「…………かまわ、ないっ……」	「...I don't... care...」
+21188	Arios Theoman	村人	「…………かまわ、ないっ……」	「...I don't... care...」
 
-21189	Arios Theoman	「復讐と言われても、どうでもいい……！	「Call it revenge if you want, it doesn't matter...!
-21190	+	　これは……僕が、すべき事、だったんだ……！」	This was... what I was supposed to do...!」
+21189	Arios Theoman		「復讐と言われても、どうでもいい……！	「Call it revenge if you want, it doesn't matter...!
+21190	+		　これは……僕が、すべき事、だったんだ……！」	This was... what I was supposed to do...!」
 
-21191	Arios Theoman	「全て…………僕の、せい……なんだ……	「It's all... my fault...
-21192	+	　僕が……力を、持ち得た者が……	Because I... the one with the power...
-21193	+	　義務を、果たさないから……こう、なった……！」	didn't fulfill my duty... this happened...!」
+21191	Arios Theoman		「全て…………僕の、せい……なんだ……	「It's all... my fault...
+21192	+		　僕が……力を、持ち得た者が……	Because I... the one with the power...
+21193	+		　義務を、果たさないから……こう、なった……！」	didn't fulfill my duty... this happened...!」
 
-21194	Cola	「……………………」	「..................」
+21194	Cola	基本	「……………………」	「..................」
 
-21195	Arios Theoman	「頼む……頼む、コーラ……！」	「I'm begging you... please, Cola...!」
+21195	Arios Theoman	村人	「頼む……頼む、コーラ……！」	「I'm begging you... please, Cola...!」
 
-21196	Cola	「はーあぁ。わっかりましたよ。わかりました。	「*Sigh* Fine, I get it. I get it.
-21197	+	　やれやれ……」	Good grief...」
+21196	Cola	基本	「はーあぁ。わっかりましたよ。わかりました。	「*Sigh* Fine, I get it. I get it.
+21197	+		　やれやれ……」	Good grief...」
 
-21198	Cola	「セラクロラス、お願いします。	「Serachrolas, please.
-21199	+	　アリオスを若返らせてください。	Make Arios younger.
-21200	+	　ちょぴっとでいいです」	Just a tiny bit is fine.」
+21198	Cola		「セラクロラス、お願いします。	「Serachrolas, please.
+21199	+		　アリオスを若返らせてください。	Make Arios younger.
+21200	+		　ちょぴっとでいいです」	Just a tiny bit is fine.」
 
-21201	Serachrolas	「おいーっす？」	「Sure thing?」
+21201	Serachrolas		「おいーっす？」	「Sure thing?」
 
-21202	Cola	「アリオス。ですよ。	「Make him 'Arios.'
-21203	+	　報酬は飴ちゃん3個でどうでしょう」	How about three pieces of candy as a reward?」
+21202	Cola		「アリオス。ですよ。	「Make him 'Arios.'
+21203	+		　報酬は飴ちゃん3個でどうでしょう」	How about three pieces of candy as a reward?」
 
-21204	Serachrolas	「あいあい…………てやぷー」	「Aye aye... teyapoo.」
+21204	Serachrolas	睡眠	「あいあい…………てやぷー」	「Aye aye... teyapoo.」
 
-21205	Arios Theoman	「……………………ッ！」	「..................!」
+21205	Arios Theoman	村人	「……………………ッ！」	「..................!」
 
-21206	-	…………	............
+21206	-		…………	............
 
-21207	-	……	......
+21207	-		……	......
 
-21208	Monster Captain	「ふむう。そろそろ帰りますヨー。	「Hmm. It's about time to head back.
-21209	+	　まだ終わらない人はお持ち帰りにしなサーイ」	If you're not done yet, take 'em to gooo.」
+21208	Monster Captain	基本	「ふむう。そろそろ帰りますヨー。	「Hmm. It's about time to head back.
+21209	+		　まだ終わらない人はお持ち帰りにしなサーイ」	If you're not done yet, take 'em to gooo.」
 
-21210	-	　	 
-21211	+	　　＜ジャリ……＞	<Crunch...>
+21210	-		　	 
+21211	+		　　＜ジャリ……＞	<Crunch...>
 
-21212	Monster Captain	「んん？」	「Hmm?」
+21212	Monster Captain		「んん？」	「Hmm?」
 
-21213	-	背後から、砂を踏む音がした。	The sound of sand being stepped on came from behind.
+21213	-		背後から、砂を踏む音がした。	The sound of sand being stepped on came from behind.
 
-21214	Monster Captain	「あ……」	「Ah...」
+21214	Monster Captain		「あ……」	「Ah...」
 
-21215	Monster Captain	「がばッ……！？　か、がぼ……」	「Gah...!? Ka, gabo...」
+21215	Monster Captain		「がばッ……！？　か、がぼ……」	「Gah...!? Ka, gabo...」
 
-21216	-	自らを貫く刃を眺めながら、魔物隊長は絶命した。	Watching the blade that pierced through him, the Monster Captain died.
+21216	-		自らを貫く刃を眺めながら、魔物隊長は絶命した。	Watching the blade that pierced through him, the Monster Captain died.
 
-21217	Blue Monster Soldier	「げっ！　た、隊長！？」	「Ack! C-Captain?!」
+21217	Blue Monster Soldier		「げっ！　た、隊長！？」	「Ack! C-Captain?!」
 
-21218	Green Monster Soldier	「な、なんだ！　誰――――」	「Wh-What! Who are一一」
+21218	Green Monster Soldier		「な、なんだ！　誰――――」	「Wh-What! Who are一一」
 
-21219	Arios Theoman	「……………………………」	「........................」
+21219	Arios Theoman	抜刀	「……………………………」	「........................」
 
-21220	-	そこに立っていたのは、勇者。	Standing there was the Hero.
+21220	-		そこに立っていたのは、勇者。	Standing there was the Hero.
 
-21221	-	剣の一振りで魔の悉くを滅する、世界を断つ刃。	The blade that cleaves the world, annihilating all evil with a single swing.
+21221	-		剣の一振りで魔の悉くを滅する、世界を断つ刃。	The blade that cleaves the world, annihilating all evil with a single swing.
 
-21222	Green Monster Soldier	「な、なんだこいつ……！	「Wh-What is this guy...!
-21223	+	　人間が！　捻り殺して――――」	A human! I'll crush you to一一」
+21222	Green Monster Soldier	基本	「な、なんだこいつ……！	「Wh-What is this guy...!
+21223	+		　人間が！　捻り殺して――――」	A human! I'll crush you to一一」
 
-21224	Blue Monster Soldier	「へ……………へ？」	「Heh......... huh?」
+21224	Blue Monster Soldier		「へ……………へ？」	「Heh......... huh?」
 
-21225	-	隣の仲間が、声も上げられずに倒れた。	His companion beside him collapsed without even a cry.
-21226	+	首のあった場所から流れる血がブーツを濡らして、	Blood flowing from where the neck once was soaked his boots,
-21227	+	魔物兵は初めて仲間の死を知覚した。	and only then did the monster soldier perceive his comrade's death.
+21225	-		隣の仲間が、声も上げられずに倒れた。	His companion beside him collapsed without even a cry.
+21226	+		首のあった場所から流れる血がブーツを濡らして、	Blood flowing from where the neck once was soaked his boots,
+21227	+		魔物兵は初めて仲間の死を知覚した。	and only then did the monster soldier perceive his comrade's death.
 
-21228	Blue Monster Soldier	「な――――なんだ！　なんなんだてめぇ！	「Wh一一What! What are you?!
-21229	+	　た、ただの人間風情が――」	You're just a measly human一」
+21228	Blue Monster Soldier		「な――――なんだ！　なんなんだてめぇ！	「Wh一一What! What are you?!
+21229	+		　た、ただの人間風情が――」	You're just a measly human一」
 
-21230	-	ころりと、初めから繋がっていなかったかのような	With a thud, the head fell away with a smoothness
-21231	+	滑らかさで、首が落ちた。	as if it had never been attached in the first place.
+21230	-		ころりと、初めから繋がっていなかったかのような	With a thud, the head fell away with a smoothness
+21231	+		滑らかさで、首が落ちた。	as if it had never been attached in the first place.
 
-21232	Red Monster Soldier	「なっ、ひ、あ…………っ……！	「Wh- Hi- Ah............!
-21233	+	　お、おい、魔法兵……！」	H-Hey, mage soldiers...!」
+21232	Red Monster Soldier		「なっ、ひ、あ…………っ……！	「Wh- Hi- Ah............!
+21233	+		　お、おい、魔法兵……！」	H-Hey, mage soldiers...!」
 
-21234	-	飛び出した魔法兵が、集団で魔法を放とうと構え……	The mage soldiers that leapt forward prepared to fire in unison...
+21234	-		飛び出した魔法兵が、集団で魔法を放とうと構え……	The mage soldiers that leapt forward prepared to fire in unison...
 
-21235	Magic Monster Soldier	「――――――ッ……！」	「一一一一一一...!」
+21235	Magic Monster Soldier		「――――――ッ……！」	「一一一一一一...!」
 
-21236	-	一瞬で間合いを詰められて、一人が首を刎ねられる。	The distance was closed in an instant, and one's head was severed.
+21236	-		一瞬で間合いを詰められて、一人が首を刎ねられる。	The distance was closed in an instant, and one's head was severed.
 
-21237	-	構わず撃ち込まれた魔法は、	The magic fired regardless was blocked,
-21238	+	倒された魔法兵が盾に使われ、阻まれて――	the fallen mage soldier used as a shield一
+21237	-		構わず撃ち込まれた魔法は、	The magic fired regardless was blocked,
+21238	+		倒された魔法兵が盾に使われ、阻まれて――	the fallen mage soldier used as a shield一
 
-21239	-	残りの魔法兵も、全てが斬り殺される。	The remaining mage soldiers were all slaughtered.
+21239	-		残りの魔法兵も、全てが斬り殺される。	The remaining mage soldiers were all slaughtered.
 
-21240	Red Monster Soldier	「ひっ、あ、か…………っ、だ、だめだ……！	「Hie- Ah- Ka............ No...!
-21241	+	　にげっ、逃げろッ…………」	Ru- Run............」
+21240	Red Monster Soldier		「ひっ、あ、か…………っ、だ、だめだ……！	「Hie- Ah- Ka............ No...!
+21241	+		　にげっ、逃げろッ…………」	Ru- Run............」
 
-21242	Arios Theoman	「――――――――」	「一一一一一一一一」
+21242	Arios Theoman	抜刀	「――――――――」	「一一一一一一一一」
 
-21243	?	「ぎゃあああああああああ！！」	「GYAAAAAAAAAAAAAAAAA!!」
+21243	?		「ぎゃあああああああああ！！」	「GYAAAAAAAAAAAAAAAAA!!」
 
-21244	-	アリオスは、誰一人逃がさなかった。	Arios let not a single one escape.
+21244	-		アリオスは、誰一人逃がさなかった。	Arios let not a single one escape.
 
-21245	Arios Theoman	「………………」	「...............」
+21245	Arios Theoman	基本	「………………」	「...............」
 
-21246	-	無言で、穴を掘る。	Silently, he dug a hole.
-21247	+	一抱え程度の物しか入らない、小さな墓穴。	A small grave, only big enough for something one could hold in their arms.
+21246	-		無言で、穴を掘る。	Silently, he dug a hole.
+21247	+		一抱え程度の物しか入らない、小さな墓穴。	A small grave, only big enough for something one could hold in their arms.
 
-21248	Cola	「弔い、ってやつですか？	「A mourning ritual, is it?
-21249	+	　人間は好きですよねー、そういうの」	Humans sure love that kind of thing.」
+21248	Cola	スマイル	「弔い、ってやつですか？	「A mourning ritual, is it?
+21249	+		　人間は好きですよねー、そういうの」	Humans sure love that kind of thing.」
 
-21250	Arios Theoman	「……………………」	「..................」
+21250	Arios Theoman	基本	「……………………」	「..................」
 
-21251	Cola	「言っときますけど、	「Just so you know,
-21252	+	　死骸にいちいち気を配らない方がいいですよ。	it's better not to fuss over every corpse.
-21253	+	　これから、どれだけ見るか分かりませんし」	You have no idea how many more you'll see from now on.」
+21251	Cola		「言っときますけど、	「Just so you know,
+21252	+		　死骸にいちいち気を配らない方がいいですよ。	it's better not to fuss over every corpse.
+21253	+		　これから、どれだけ見るか分かりませんし」	You have no idea how many more you'll see from now on.」
 
-21254	Arios Theoman	「………………ああ。これ、ひとつだけ……	「...Yeah. Just this one...
-21255	+	　それで…………最後だ」	And then... it's the last one.」
+21254	Arios Theoman		「………………ああ。これ、ひとつだけ……	「...Yeah. Just this one...
+21255	+		　それで…………最後だ」	And then... it's the last one.」
 
-21256	-	ひとつ土を掻き出す度に、	With every scoop of earth,
-21257	+	アリオスの瞳から光が失われていく。	the light faded further from Arios's eyes.
+21256	-		ひとつ土を掻き出す度に、	With every scoop of earth,
+21257	+		アリオスの瞳から光が失われていく。	the light faded further from Arios's eyes.
 
-21258	-	人ではなく……自らの人間性を、	It was as if he were burying not a person,
-21259	+	葬っているかのようだった。	but his own humanity.
+21258	-		人ではなく……自らの人間性を、	It was as if he were burying not a person,
+21259	+		葬っているかのようだった。	but his own humanity.
 
-21260	Cola	「……ま、ご自由に。言っておきますけど、	「...Well, suit yourself. But let me tell you,
-21261	+	　馬鹿のアリオスには多分きついですよ、これから」	it'll probably be tough for an idiot like you from here on.」
+21260	Cola		「……ま、ご自由に。言っておきますけど、	「...Well, suit yourself. But let me tell you,
+21261	+		　馬鹿のアリオスには多分きついですよ、これから」	it'll probably be tough for an idiot like you from here on.」
 
-21262	Arios Theoman	「どんなことでも……やるさ」	「I'll do... whatever it takes.」
+21262	Arios Theoman		「どんなことでも……やるさ」	「I'll do... whatever it takes.」
 
-21263	-	掘り終えた穴に、そっと亡骸を入れる。	He gently placed the remains into the finished grave.
+21263	-		掘り終えた穴に、そっと亡骸を入れる。	He gently placed the remains into the finished grave.
 
-21264	Cola	「じゃ……魔王退治の旅。再開といきますか」	「Now then... shall we resume the journey to slay the Demon King?」
+21264	Cola		「じゃ……魔王退治の旅。再開といきますか」	「Now then... shall we resume the journey to slay the Demon King?」
 
-21265	Arios Theoman	「………………ああ…………」	「............Yeah............」
+21265	Arios Theoman		「………………ああ…………」	「............Yeah............」
 
-21266	-	その少女に、あの花を一輪、供えて。	He offered a single flower to the girl.
-21267	+	心の中で、小さく祈り……強く、誓う。	A small prayer in his heart... and a powerful oath.
+21266	-		その少女に、あの花を一輪、供えて。	He offered a single flower to the girl.
+21267	+		心の中で、小さく祈り……強く、誓う。	A small prayer in his heart... and a powerful oath.
 
-21268	Arios Theoman	「誰にも、認められなくてもいい……	「I don't care if no one acknowledges it...
-21269	+	　地獄に堕ちようと、外道と、罵られてもっ……！」	Even if I fall to hell, even if I'm cursed as a monster...!」
+21268	Arios Theoman		「誰にも、認められなくてもいい……	「I don't care if no one acknowledges it...
+21269	+		　地獄に堕ちようと、外道と、罵られてもっ……！」	Even if I fall to hell, even if I'm cursed as a monster...!」
 
-21270	Arios Theoman	「――――――魔王を、殺すッ……！」	「一一一一一一I will kill the Demon King...!」
+21270	Arios Theoman		「――――――魔王を、殺すッ……！」	「一一一一一一I will kill the Demon King...!」
 
-21271	-	誰もいなくなった村から、	From the village where no one remained,
-21272	+	勇者アリオス・テオマンが二度目の旅に出発した。	the Hero Arios Theoman departed on his second journey.
+21271	-		誰もいなくなった村から、	From the village where no one remained,
+21272	+		勇者アリオス・テオマンが二度目の旅に出発した。	the Hero Arios Theoman departed on his second journey.

@@ -5,49 +5,49 @@
 * Kentou Kanami	かなみ	Female
 * Pi-R	パイアールロボ	Male
 
-62521	Rance	「だりゃーーー！」	「Daryaaa!」
+62521	Rance	怒り	「だりゃーーー！」	「Daryaaa!」
 
-62522	-	入口を蹴破って入った工場内部は、	Kicking open the entrance, the inside of the factory
-62523	+	ひっそりと静まりかえっていた。	was eerily quiet.
+62522	-		入口を蹴破って入った工場内部は、	Kicking open the entrance, the inside of the factory
+62523	+		ひっそりと静まりかえっていた。	was eerily quiet.
 
-62524	Rance	「…………おぉ？」	「............Oh?」
+62524	Rance	真剣	「…………おぉ？」	「............Oh?」
 
-62525	-	つるりとした、よく分からない材質の壁。	Smooth walls of an unknown material.
-62526	+	神経質なまでに真っ白な空間だった。	The space was obsessively white.
+62525	-		つるりとした、よく分からない材質の壁。	Smooth walls of an unknown material.
+62526	+		神経質なまでに真っ白な空間だった。	The space was obsessively white.
 
-62527	Rance	「…………なんか、ホルスの宇宙船みたいだな」	「............It looks like Horus's spaceship.」
+62527	Rance		「…………なんか、ホルスの宇宙船みたいだな」	「............It looks like Horus's spaceship.」
 
-62528	Megas Horus	「我々とも様式は違うようだが。	「The style is different from ours as well.
-62529	+	　しかし技術水準はこの星の常識とは、	　But the technological level is completely
-62530	+	　確かにまったく違うようじゃのう。ﾇﾇﾇ」	　different from the common sense of this planet. Nunu.」
+62528	Megas Horus	基本	「我々とも様式は違うようだが。	「The style is different from ours as well.
+62529	+		　しかし技術水準はこの星の常識とは、	　But the technological level is completely
+62530	+		　確かにまったく違うようじゃのう。ﾇﾇﾇ」	　different from the common sense of this planet. Nunu.」
 
-62531	Sill Plain	「静か、ですね……誰もいないんでしょうか……」	「It's quiet... Is no one here...?」
+62531	Sill Plain	真剣	「静か、ですね……誰もいないんでしょうか……」	「It's quiet... Is no one here...?」
 
-62532	Kentou Kanami	「何か……低い音がするけど……それだけね。	「There's some... low sound... but that's all.
-62533	+	　何の音かしら、これ……」	　What could this sound be...?」
+62532	Kentou Kanami	基本	「何か……低い音がするけど……それだけね。	「There's some... low sound... but that's all.
+62533	+		　何の音かしら、これ……」	　What could this sound be...?」
 
-62534	Rance	「音すら聞こえんが…………お？」	「I can't even hear any sound...... Oh?」
+62534	Rance	真剣	「音すら聞こえんが…………お？」	「I can't even hear any sound...... Oh?」
 
-62535	-	通路の向こうから、ランスの腰ほどの高さの物体が	From the other end of the corridor, an object about waist height
-62536	+	滑るように近づいてきた。	slid smoothly toward them.
+62535	-		通路の向こうから、ランスの腰ほどの高さの物体が	From the other end of the corridor, an object about waist height
+62536	+		滑るように近づいてきた。	slid smoothly toward them.
 
-62537	Rance	「おっと、敵か！」	「Whoa, enemy!」
+62537	Rance	怒り	「おっと、敵か！」	「Whoa, enemy!」
 
-62538	?	「認証……新規ユーザー。	「Authentication... New user.
-62539	+	　いらっしゃいませ。ご見学ですか？」	　Welcome. Here for a tour?」
+62538	?		「認証……新規ユーザー。	「Authentication... New user.
+62539	+		　いらっしゃいませ。ご見学ですか？」	　Welcome. Here for a tour?」
 
-62540	Rance	「む？」	「Mu?」
+62540	Rance	真剣	「む？」	「Mu?」
 
-62541	-	剣を構えたランスに構わず、	Ignoring Rance who had his sword ready,
-62542	+	そのロボットのような物体はのんびりと喋った。	the robot-like object spoke leisurely.
+62541	-		剣を構えたランスに構わず、	Ignoring Rance who had his sword ready,
+62542	+		そのロボットのような物体はのんびりと喋った。	the robot-like object spoke leisurely.
 
-62543	Pi-R	「当施設のパイアールに面会でしょうか。	「Are you here to meet Pi-R of this facility?
-62544	+	　でしたら、こちらへどうぞ」	　If so, please come this way.」
+62543	Pi-R	基本	「当施設のパイアールに面会でしょうか。	「Are you here to meet Pi-R of this facility?
+62544	+		　でしたら、こちらへどうぞ」	　If so, please come this way.」
 
-62545	Rance	「……………………」	「........................」
+62545	Rance	真剣	「……………………」	「........................」
 
-62546	Sill Plain	「ランス様、ランス様。	「Rance-sama, Rance-sama.
-62547	+	　壊さない方が良さそうで……	　It seems better not to destroy it...
-62548	?	ひんっ！」	Hin!」
+62546	Sill Plain	慌て	「ランス様、ランス様。	「Rance-sama, Rance-sama.
+62547	+		　壊さない方が良さそうで……	　It seems better not to destroy it...
+62548	?		ひんっ！」	Hin!」
 
-62549	Rance	「今そう思ったところだ。ふん」	「I was just thinking that. Hmph.」
+62549	Rance	真剣	「今そう思ったところだ。ふん」	「I was just thinking that. Hmph.」

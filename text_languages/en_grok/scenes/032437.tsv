@@ -4,94 +4,94 @@
 * Alcarria	アルカリア	Female
 * Paleloa	パレロア	Female
 
-149611	Rance	「おらー！　遅れるなー！」	「Oraa! Don't fall behind!」
+149611	Rance	怒り	「おらー！　遅れるなー！」	「Oraa! Don't fall behind!」
 
-149612	-	ランスが夜の森の中を	Rance charged through the night forest
-149613	+	勢い任せに進んでいく。	with pure momentum.
+149612	-		ランスが夜の森の中を	Rance charged through the night forest
+149613	+		勢い任せに進んでいく。	with pure momentum.
 
-149614	Kentou Kanami	「ちょ、ちょっとランス！	「Hey, wait Rance!
-149615	+	　そんな闇雲に進まないでよ！	　Don't charge blindly like that!
-149616	+	　罠とかあるかも……」	　There might be traps...」
+149614	Kentou Kanami	うがー	「ちょ、ちょっとランス！	「Hey, wait Rance!
+149615	+		　そんな闇雲に進まないでよ！	　Don't charge blindly like that!
+149616	+		　罠とかあるかも……」	　There might be traps...」
 
-149617	Rance	「ふん、罠があったら踏み潰すまでだ！	「Hmph, if there are traps I'll crush them!
-149618	+	　遅れるなよ！」	　Don't fall behind!」
+149617	Rance	基本	「ふん、罠があったら踏み潰すまでだ！	「Hmph, if there are traps I'll crush them!
+149618	+		　遅れるなよ！」	　Don't fall behind!」
 
-149619	Kentou Kanami	「あ、ちょ、ちょっとー！」	「Ah, hey, wait!」
+149619	Kentou Kanami	混乱	「あ、ちょ、ちょっとー！」	「Ah, hey, wait!」
 
-149620	-	少し離れた地点。	A short distance away.
-149621	+	木々の上からランス達を監視する目があった。	Eyes watched Rance and his group from atop the trees.
+149620	-		少し離れた地点。	A short distance away.
+149621	+		木々の上からランス達を監視する目があった。	Eyes watched Rance and his group from atop the trees.
 
-149622	Alcarria	「ふーん、また来たんですね、連中」	「Hmm, they're back again.」
+149622	Alcarria	基本	「ふーん、また来たんですね、連中」	「Hmm, they're back again.」
 
-149623	Alcarria	「くすくす、ケッセルリンク様には	「Hehe, even though they have no chance
-149624	+	　絶対に敵わないのに」	　against Kesselring-sama.」
+149623	Alcarria		「くすくす、ケッセルリンク様には	「Hehe, even though they have no chance
+149624	+		　絶対に敵わないのに」	　against Kesselring-sama.」
 
-149625	Paleloa	「…………」	「............」
+149625	Paleloa		「…………」	「............」
 
-149626	-	そう軽口を叩くアルカリアの手は、	Even as Alcarria joked lightly,
-149627	+	しかし恐怖から小刻みに震えていた。	her hands trembled slightly from fear.
+149626	-		そう軽口を叩くアルカリアの手は、	Even as Alcarria joked lightly,
+149627	+		しかし恐怖から小刻みに震えていた。	her hands trembled slightly from fear.
 
-149628	Paleloa	「……アルカリア、こっちに」	「...Alcarria, come here.」
+149628	Paleloa		「……アルカリア、こっちに」	「...Alcarria, come here.」
 
-149629	Alcarria	「わぷっ！　うえ、なにを……！？」	「Wapuh! Ueh, what are you...!?」
+149629	Alcarria		「わぷっ！　うえ、なにを……！？」	「Wapuh! Ueh, what are you...!?」
 
-149630	-	パレロアがアルカリアを	Paleloa pulled Alcarria
-149631	+	胸の中に抱きしめる。	into her embrace.
+149630	-		パレロアがアルカリアを	Paleloa pulled Alcarria
+149631	+		胸の中に抱きしめる。	into her embrace.
 
-149632	Paleloa	「どう？　少しは怖いの抜けたかしら？」	「How is it? Feeling less scared?」
+149632	Paleloa		「どう？　少しは怖いの抜けたかしら？」	「How is it? Feeling less scared?」
 
-149633	Alcarria	「あ、う……	「Ah, u...」
-149634	+	　あの、これ、恥ずかしいですよ〜……」	　This is embarrassing...」
+149633	Alcarria		「あ、う……	「Ah, u...」
+149634	+		　あの、これ、恥ずかしいですよ〜……」	　This is embarrassing...」
 
-149635	Paleloa	「ふふ、なに言ってるの。	「Fufu, what are you saying.
-149636	+	　アルカリアが城に来たばかりの頃は、	　When you first came to the castle,
-149637	+	　毎晩こうしないと眠れなかったじゃない」	　you couldn't sleep without this every night.」
+149635	Paleloa		「ふふ、なに言ってるの。	「Fufu, what are you saying.
+149636	+		　アルカリアが城に来たばかりの頃は、	　When you first came to the castle,
+149637	+		　毎晩こうしないと眠れなかったじゃない」	　you couldn't sleep without this every night.」
 
-149638	Paleloa	「あの頃はどこに行くにも	「Back then you followed me everywhere...
-149639	+	　いつも私の後を付いてきて……	
-149640	+	　ふふ、本当に甘えん坊だったわね」	　Fufu, you were such a spoiled child.」
+149638	Paleloa		「あの頃はどこに行くにも	「Back then you followed me everywhere...
+149639	+		　いつも私の後を付いてきて……	
+149640	+		　ふふ、本当に甘えん坊だったわね」	　Fufu, you were such a spoiled child.」
 
-149641	Alcarria	「い、いや、それはその……」	「N-no, that was...」
+149641	Alcarria		「い、いや、それはその……」	「N-no, that was...」
 
-149642	Paleloa	「……怖いや悲しいは誤魔化さなくていいのよ？」	「...You don't have to hide when you're scared or sad, okay?」
+149642	Paleloa		「……怖いや悲しいは誤魔化さなくていいのよ？」	「...You don't have to hide when you're scared or sad, okay?」
 
-149643	Alcarria	「…………」	「............」
+149643	Alcarria		「…………」	「............」
 
-149644	Alcarria	「……はい」	「...Yes.」
+149644	Alcarria		「……はい」	「...Yes.」
 
-149645	Paleloa	「大丈夫よ。	「It's okay.
-149646	+	　私達は今日、あの男達と戦わない」	　We won't fight those men today.」
+149645	Paleloa		「大丈夫よ。	「It's okay.
+149646	+		　私達は今日、あの男達と戦わない」	　We won't fight those men today.」
 
-149647	Paleloa	「ケッセルリンク様の命令で	「By Kesselring-sama's orders
-149648	+	　戦ってはいけないと言われているからね」	　we are not to engage.」
+149647	Paleloa		「ケッセルリンク様の命令で	「By Kesselring-sama's orders
+149648	+		　戦ってはいけないと言われているからね」	　we are not to engage.」
 
-149649	Paleloa	「その代わり、あの男達の相手は	「Instead, Kesselring-sama himself
-149650	+	　ケッセルリンク様が直々に行われるわ」	　will deal with them personally.」
+149649	Paleloa		「その代わり、あの男達の相手は	「Instead, Kesselring-sama himself
+149650	+		　ケッセルリンク様が直々に行われるわ」	　will deal with them personally.」
 
-149651	Paleloa	「きっと貴方の言う通りあっという間に	「Just as you said, he'll finish them instantly.」
-149652	+	　やっつけて下さる」	
+149651	Paleloa		「きっと貴方の言う通りあっという間に	「Just as you said, he'll finish them instantly.」
+149652	+		　やっつけて下さる」	
 
-149653	Paleloa	「アルカリアが今日、見張り役の当番なのは、	「The reason you're on lookout duty today,
-149654	+	　それを見せて安心させる為でもあるのよ」	　is also to show you and ease your fears.」
+149653	Paleloa		「アルカリアが今日、見張り役の当番なのは、	「The reason you're on lookout duty today,
+149654	+		　それを見せて安心させる為でもあるのよ」	　is also to show you and ease your fears.」
 
-149655	Alcarria	「あ……」	「Ah...」
+149655	Alcarria		「あ……」	「Ah...」
 
-149656	Alcarria	「はいっ」	「Yes!」
+149656	Alcarria		「はいっ」	「Yes!」
 
-149657	Paleloa	「ふふっ、いつもこう素直なら可愛いのにね」	「Fufu, you'd be so cute if you were always this honest.」
+149657	Paleloa		「ふふっ、いつもこう素直なら可愛いのにね」	「Fufu, you'd be so cute if you were always this honest.」
 
-149658	Alcarria	「あー、パレロアさんひどーい」	「Aah, Paleloa-san you're mean!」
+149658	Alcarria		「あー、パレロアさんひどーい」	「Aah, Paleloa-san you're mean!」
 
-149659	Paleloa	「ふふふ……」	「Fufufu...」
+149659	Paleloa		「ふふふ……」	「Fufufu...」
 
-149660	-	アルカリアに対して見せる	The motherly gentleness she showed Alcarria
-149661	+	母のような優しさ。	was in complete contrast
+149660	-		アルカリアに対して見せる	The motherly gentleness she showed Alcarria
+149661	+		母のような優しさ。	was in complete contrast
 
-149662	-	それとはまったく対照的な、	to the cold, sharp gaze
-149663	+	冷たく鋭い視線で、	with which she pierced
-149664	+	パレロアがランス達を射貫く。	Rance and his group.
+149662	-		それとはまったく対照的な、	to the cold, sharp gaze
+149663	+		冷たく鋭い視線で、	with which she pierced
+149664	+		パレロアがランス達を射貫く。	Rance and his group.
 
-149665	Paleloa~	（ファーレンを殺した男……）	（The man who killed Varen...）
+149665	Paleloa~		（ファーレンを殺した男……）	（The man who killed Varen...）
 
-149666	Paleloa~	（せいぜい、ケッセルリンク様との	（Feel the overwhelming power difference
-149667	+	　力の差を痛感するといいわ……）	　with Kesselring-sama...）
+149666	Paleloa~		（せいぜい、ケッセルリンク様との	（Feel the overwhelming power difference
+149667	+		　力の差を痛感するといいわ……）	　with Kesselring-sama...）

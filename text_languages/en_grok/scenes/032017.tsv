@@ -6,188 +6,188 @@
 * Woman	汎用女	Female
 * Old Woman	汎用婆	Female
 
-117453	-	ランスとニミッツがデートに出ていた。	Rance and Nimitz were out on a date.
+117453	-		ランスとニミッツがデートに出ていた。	Rance and Nimitz were out on a date.
 
-117454	Rance	「は、いいのだが……」	「It's fine but...」
+117454	Rance	真剣	「は、いいのだが……」	「It's fine but...」
 
-117455	Rance	「なあ、俺の後ろに隠れるのはやめたらどうだ？」	「Hey, how about you stop hiding behind me?」
+117455	Rance	だる顔	「なあ、俺の後ろに隠れるのはやめたらどうだ？」	「Hey, how about you stop hiding behind me?」
 
-117456	Nimitz Leak	「ああっ、す、すみません、ご迷惑ですよね！」	「Aah, s-sorry, I'm bothering you!」
+117456	Nimitz Leak	ノーマル／照れ	「ああっ、す、すみません、ご迷惑ですよね！」	「Aah, s-sorry, I'm bothering you!」
 
-117457	Rance	「や、迷惑っつーか……」	「No, not bothering but...」
+117457	Rance	だる顔	「や、迷惑っつーか……」	「No, not bothering but...」
 
-117458	Rance	「ん、なんだ？」	「Hm, what?」
+117458	Rance	基本	「ん、なんだ？」	「Hm, what?」
 
-117459	-	見ると、CITYの入り口を塞ぐように	He saw a rock bigger than a house
-117460	+	家よりも巨大な岩が鎮座していた。	blocking the city entrance.
+117459	-		見ると、CITYの入り口を塞ぐように	He saw a rock bigger than a house
+117460	+		家よりも巨大な岩が鎮座していた。	blocking the city entrance.
 
-117461	Nimitz Leak	「大っきな岩……	「A huge rock...
-117462	+	　ここはいつもこうなんですか？」	　Is it always like this here?」
+117461	Nimitz Leak	ノーマル	「大っきな岩……	「A huge rock...
+117462	+		　ここはいつもこうなんですか？」	　Is it always like this here?」
 
-117463	Rance	「んな、アホな」	「No, idiot.」
+117463	Rance	だる顔	「んな、アホな」	「No, idiot.」
 
-117464	Rance	「おい、そこの、何があった？」	「Hey you, what happened?」
+117464	Rance	基本	「おい、そこの、何があった？」	「Hey you, what happened?」
 
-117465	Man	「あ、これはランスさん……	「Ah, it's Rance-san...
-117466	+	　いや、ハニーのイタズラですよ。	　It's Hanny's prank.
-117467	+	　大勢でどっかから運んできたみたいで……」	　They brought it from somewhere...」
+117465	Man		「あ、これはランスさん……	「Ah, it's Rance-san...
+117466	+		　いや、ハニーのイタズラですよ。	　It's Hanny's prank.
+117467	+		　大勢でどっかから運んできたみたいで……」	　They brought it from somewhere...」
 
-117468	Man	「物資なんかの受け取りも出来なくなるんで、	「We can't receive supplies like this,
-117469	+	　すぐにどかしますがね、	　we'll move it soon,
-117470	+	　なにしろ人手が足りないから大変で……」	　but we're short on manpower...」
+117468	Man		「物資なんかの受け取りも出来なくなるんで、	「We can't receive supplies like this,
+117469	+		　すぐにどかしますがね、	　we'll move it soon,
+117470	+		　なにしろ人手が足りないから大変で……」	　but we're short on manpower...」
 
-117471	Rance	「そうかそうか、頑張れ」	「I see, good luck.」
+117471	Rance		「そうかそうか、頑張れ」	「I see, good luck.」
 
-117472	Man	「うっく……少しくらい手伝ってくれたって……	「Ugh... you could at least help a little...
-117473	+	　や、言っても殺されるだけか……」	　No, I'd just get killed...」
+117472	Man		「うっく……少しくらい手伝ってくれたって……	「Ugh... you could at least help a little...
+117473	+		　や、言っても殺されるだけか……」	　No, I'd just get killed...」
 
-117474	Nimitz Leak	「皆さん、困ってますね」	「Everyone looks troubled.」
+117474	Nimitz Leak	ノーマル	「皆さん、困ってますね」	「Everyone looks troubled.」
 
-117475	Rance	「おう、今の奴も言ってたが、	「Yeah, as that guy said,
-117476	+	　疎開でここも人が減ったからなあ」	　people evacuated so we're short on hands.」
+117475	Rance	基本	「おう、今の奴も言ってたが、	「Yeah, as that guy said,
+117476	+		　疎開でここも人が減ったからなあ」	　people evacuated so we're short on hands.」
 
-117477	Rance	「どかすのに結構時間がかかりそうだ」	「Moving it will take quite a while.」
+117477	Rance		「どかすのに結構時間がかかりそうだ」	「Moving it will take quite a while.」
 
-117478	Nimitz Leak	「…………」	「............」
+117478	Nimitz Leak	ノーマル	「…………」	「............」
 
-117479	Rance	「ん、どした？」	「Hm, what's up?」
+117479	Rance	基本	「ん、どした？」	「Hm, what's up?」
 
-117480	Nimitz Leak	「あ、いえ……	「Ah, no...
-117481	+	　私が手伝ったら、その、ご迷惑、でしょうか？」	　Would it be a bother if I helped?」
+117480	Nimitz Leak	ノーマル	「あ、いえ……	「Ah, no...
+117481	+		　私が手伝ったら、その、ご迷惑、でしょうか？」	　Would it be a bother if I helped?」
 
-117482	Rance	「はあ？」	「Haa?」
+117482	Rance	だる顔	「はあ？」	「Haa?」
 
-117483	Nimitz Leak	「ああっ、すみません、迷惑ですよね！	「Aah, sorry, it would be bothersome!
-117484	+	　魔人が何言ってんだって話ですよね！	　A Fiend saying that is ridiculous!
-117485	+	　大人しくしていた方がいいですよね！」	　I should just stay quiet!」
+117483	Nimitz Leak	恐れ	「ああっ、すみません、迷惑ですよね！	「Aah, sorry, it would be bothersome!
+117484	+		　魔人が何言ってんだって話ですよね！	　A Fiend saying that is ridiculous!
+117485	+		　大人しくしていた方がいいですよね！」	　I should just stay quiet!」
 
-117486	Rance	「いや、そうではなく手伝うたって……」	「No, that's not it, helping...」
+117486	Rance	真剣	「いや、そうではなく手伝うたって……」	「No, that's not it, helping...」
 
-117487	Nimitz Leak	「ま、魔人の姿になれば、その……	「If I turn into my Fiend form, um...
-117488	+	　あれくらいなら私一人で運べるので……」	　I can move that rock by myself...」
+117487	Nimitz Leak	ノーマル	「ま、魔人の姿になれば、その……	「If I turn into my Fiend form, um...
+117488	+		　あれくらいなら私一人で運べるので……」	　I can move that rock by myself...」
 
-117489	Rance	「ああ、いいじゃないか。	「Yeah, that's fine.
-117490	+	　手伝いたいなら手伝ってやればいい」	　If you want to help, go ahead.」
+117489	Rance	基本	「ああ、いいじゃないか。	「Yeah, that's fine.
+117490	+		　手伝いたいなら手伝ってやればいい」	　If you want to help, go ahead.」
 
-117491	Nimitz Leak	「で、でも、やっぱり迷惑なような……	「B-but, it might bother them...
-117492	+	　皆さん、嫌な顔するかも……」	　They might make unhappy faces...」
+117491	Nimitz Leak	恐れ	「で、でも、やっぱり迷惑なような……	「B-but, it might bother them...
+117492	+		　皆さん、嫌な顔するかも……」	　They might make unhappy faces...」
 
-117493	Nimitz Leak	「というか話しかけただけで、	「Just talking to them,
-117494	+	　きっとみんな顔をしかめて嫌な思いを……」	　they'll probably frown...」
+117493	Nimitz Leak		「というか話しかけただけで、	「Just talking to them,
+117494	+		　きっとみんな顔をしかめて嫌な思いを……」	　they'll probably frown...」
 
-117495	Rance	「するわけないだろ！	「No way!
-117496	+	　いいから、行ってこい！」	　Just go!」
+117495	Rance	だる顔	「するわけないだろ！	「No way!
+117496	+		　いいから、行ってこい！」	　Just go!」
 
-117497	Nimitz Leak	「わわわ……！」	「Wawawa...!」
+117497	Nimitz Leak	恐れ	「わわわ……！」	「Wawawa...!」
 
-117498	Nimitz Leak	「あ、あのぉ……」	「U-um...」
+117498	Nimitz Leak	基本	「あ、あのぉ……」	「U-um...」
 
-117499	Man	「うわっ、でかっ！」	「Whoa, huge!」
+117499	Man		「うわっ、でかっ！」	「Whoa, huge!」
 
-117500	Woman	「ええっ、鬼！？」	「Ehh, an Oni!?」
+117500	Woman		「ええっ、鬼！？」	「Ehh, an Oni!?」
 
-117501	Nimitz Leak	「えと、その……あの……」	「Um, well... um...」
+117501	Nimitz Leak	恥ずかしい	「えと、その……あの……」	「Um, well... um...」
 
-117502	Nimitz Leak	「…………」	「............」
+117502	Nimitz Leak		「…………」	「............」
 
-117503	Nimitz Leak	「ううううう〜〜〜〜……！」	「Uuuuuu~~~...!」
+117503	Nimitz Leak	怖い	「ううううう〜〜〜〜……！」	「Uuuuuu~~~...!」
 
-117504	Nimitz Leak	「すみません、なんでもありません！」	「Sorry, never mind!」
+117504	Nimitz Leak		「すみません、なんでもありません！」	「Sorry, never mind!」
 
-117505	Man	「い、行っちまった……」	「She ran off...」
+117505	Man	基本	「い、行っちまった……」	「She ran off...」
 
-117506	Woman	「なんだった……の、かしら……」	「What was that...?」
+117506	Woman		「なんだった……の、かしら……」	「What was that...?」
 
-117507	Rance	「こらー！　逃げ帰ってくるなー！」	「Hey! Don't run back!」
+117507	Rance	怒り	「こらー！　逃げ帰ってくるなー！」	「Hey! Don't run back!」
 
-117508	Nimitz Leak	「ああ、無理、無理です！	「Aah, impossible, impossible!
-117509	+	　私にはこれ以上、無理です！」	　I can't do any more!」
+117508	Nimitz Leak	怖い	「ああ、無理、無理です！	「Aah, impossible, impossible!
+117509	+		　私にはこれ以上、無理です！」	　I can't do any more!」
 
-117510	Rance	「まったく、でかい図体してる癖に、	「Seriously, with that huge body,
-117511	+	　とんでもない引っ込み思案だな」	　you're incredibly shy.」
+117510	Rance	基本	「まったく、でかい図体してる癖に、	「Seriously, with that huge body,
+117511	+		　とんでもない引っ込み思案だな」	　you're incredibly shy.」
 
-117512	Nimitz Leak	「で、でかい図体は借り物ですから……」	「Th-this huge body is borrowed...」
+117512	Nimitz Leak	恥ずかしい	「で、でかい図体は借り物ですから……」	「Th-this huge body is borrowed...」
 
-117513	Nimitz Leak	「と、というか、このでかい体、嫌ぁ……	「A-and this big body is embarrassing...
-117514	+	　いっぱい目立つし、見られるし……ぐすっ……」	　It stands out and everyone stares... sniff...」
+117513	Nimitz Leak		「と、というか、このでかい体、嫌ぁ……	「A-and this big body is embarrassing...
+117514	+		　いっぱい目立つし、見られるし……ぐすっ……」	　It stands out and everyone stares... sniff...」
 
-117515	-	ニミッツは体を限界まで小さくして、	Nimitz shrank her body as much as possible
-117516	+	その場に座り込んでいた。	and sat down on the spot.
+117515	-		ニミッツは体を限界まで小さくして、	Nimitz shrank her body as much as possible
+117516	+		その場に座り込んでいた。	and sat down on the spot.
 
-117517	Rance	「おや？」	「Oh?」
+117517	Rance	基本	「おや？」	「Oh?」
 
-117518	Nimitz Leak	「え？」	「Eh?」
+117518	Nimitz Leak		「え？」	「Eh?」
 
-117519	Old Woman	「あのぉ……もし、貴方……？」	「Um... excuse me, you...?」
+117519	Old Woman		「あのぉ……もし、貴方……？」	「Um... excuse me, you...?」
 
-117520	Old Woman	「もしかして、あの岩……	「Could you perhaps help
-117521	+	　どかすの、手伝って下さるの？」	　move that rock?」
+117520	Old Woman		「もしかして、あの岩……	「Could you perhaps help
+117521	+		　どかすの、手伝って下さるの？」	　move that rock?」
 
-117522	Nimitz Leak	「ぁっ……」	「Ah...」
+117522	Nimitz Leak	恥ずかしい	「ぁっ……」	「Ah...」
 
-117523	Rance	「ほれ、聞かれてるぞ」	「Hey, she's asking you.」
+117523	Rance	基本	「ほれ、聞かれてるぞ」	「Hey, she's asking you.」
 
-117524	Nimitz Leak	「は、はい！　はい！	「Y-yes! Yes!
-117525	+	　ててて、手伝います！」	　I-I'll help!」
+117524	Nimitz Leak	恥ずかしい	「は、はい！　はい！	「Y-yes! Yes!
+117525	+		　ててて、手伝います！」	　I-I'll help!」
 
-117526	Old Woman	「まぁ〜、それは助かるわぁ〜」	「My my, that would be a big help~」
+117526	Old Woman	基本	「まぁ〜、それは助かるわぁ〜」	「My my, that would be a big help~」
 
-117527	-	半ば、老婆に手を引かれるような形で	Half-dragged by the old woman,
-117528	+	手伝いに行ったニミッツは、	Nimitz went to help
-117529	+	軽々と大岩をどかし町民に大層感謝された。	and easily moved the huge rock, earning great thanks from the townspeople.
+117527	-		半ば、老婆に手を引かれるような形で	Half-dragged by the old woman,
+117528	+		手伝いに行ったニミッツは、	Nimitz went to help
+117529	+		軽々と大岩をどかし町民に大層感謝された。	and easily moved the huge rock, earning great thanks from the townspeople.
 
-117530	Nimitz Leak	「おばあさんにおまんじゅう……	「The old lady gave me a manjyu...
-117531	+	　貰っちゃいました……」	　I received one...」
+117530	Nimitz Leak	ノーマル	「おばあさんにおまんじゅう……	「The old lady gave me a manjyu...
+117531	+		　貰っちゃいました……」	　I received one...」
 
-117532	Rance	「おう、お礼だってな。	「Yeah, it's thanks.
-117533	+	　良かったじゃないか」	　That's great.」
+117532	Rance	基本	「おう、お礼だってな。	「Yeah, it's thanks.
+117533	+		　良かったじゃないか」	　That's great.」
 
-117534	Nimitz Leak	「これは……」	「This is...」
+117534	Nimitz Leak	ノーマル	「これは……」	「This is...」
 
-117535	Nimitz Leak	「あああ、後で菓子折でも買って、	「Aah, should I buy her a gift box later,
-117536	+	　お返しをした方が良いのでしょうか？	　as a return gift?
-117537	+	　でもそういうの逆に迷惑でしょうか？」	　But that might bother her instead?」
+117535	Nimitz Leak	恐れ	「あああ、後で菓子折でも買って、	「Aah, should I buy her a gift box later,
+117536	+		　お返しをした方が良いのでしょうか？	　as a return gift?
+117537	+		　でもそういうの逆に迷惑でしょうか？」	　But that might bother her instead?」
 
-117538	Rance	「……やめた方がいいんじゃないか？	「...Maybe you shouldn't?
-117539	+	　困らせかねんぞ」	　You might trouble her.」
+117538	Rance	だる顔	「……やめた方がいいんじゃないか？	「...Maybe you shouldn't?
+117539	+		　困らせかねんぞ」	　You might trouble her.」
 
-117540	Rance	「はむっ、んぐっ……	「Munch, gulp...
-117541	+	　うん、美味い美味い」	　Yeah, delicious.」
+117540	Rance	真剣	「はむっ、んぐっ……	「Munch, gulp...
+117541	+		　うん、美味い美味い」	　Yeah, delicious.」
 
-117542	Nimitz Leak	「あっ」	「Ah.」
+117542	Nimitz Leak	ノーマル	「あっ」	「Ah.」
 
-117543	Rance	「ほれ、お前も食え。	「Here, you eat too.
-117544	+	　お前が頑張ったからもらえた報酬だろ」	　It's your reward for working hard.」
+117543	Rance	基本	「ほれ、お前も食え。	「Here, you eat too.
+117544	+		　お前が頑張ったからもらえた報酬だろ」	　It's your reward for working hard.」
 
-117545	Nimitz Leak	「あ、はい……」	「Ah, yes...」
+117545	Nimitz Leak	ノーマル	「あ、はい……」	「Ah, yes...」
 
-117546	-	ちびちび、もむもむと、	Nibbling quietly,
-117547	+	静かにニミッツがおまんじゅうを食べる。	Nimitz ate the manjyu.
+117546	-		ちびちび、もむもむと、	Nibbling quietly,
+117547	+		静かにニミッツがおまんじゅうを食べる。	Nimitz ate the manjyu.
 
-117548	Rance	「なんだ、もっとガーッと食ったらどうだ？」	「What, eat more heartily?」
+117548	Rance	基本	「なんだ、もっとガーッと食ったらどうだ？」	「What, eat more heartily?」
 
-117549	Nimitz Leak	「あ、いえ……	「Ah, no...
-117550	+	　まだ心臓バクバクしてて食欲がないので……」	　My heart is still pounding so I have no appetite...」
+117549	Nimitz Leak	ノーマル	「あ、いえ……	「Ah, no...
+117550	+		　まだ心臓バクバクしてて食欲がないので……」	　My heart is still pounding so I have no appetite...」
 
-117551	Rance	「分からん……	「I don't get it...
-117552	+	　なんでそんな緊張するのか、	　Why are you so tense,
-117553	+	　俺にはサーーーッパリ分からん……」	　I don't understand at all...」
+117551	Rance	基本	「分からん……	「I don't get it...
+117552	+		　なんでそんな緊張するのか、	　Why are you so tense,
+117553	+		　俺にはサーーーッパリ分からん……」	　I don't understand at all...」
 
-117554	Nimitz Leak	「…………」	「............」
+117554	Nimitz Leak	ノーマル	「…………」	「............」
 
-117555	Nimitz Leak	「あの、ランスさん、ありがとうございました」	「Um, Rance-san, thank you very much.」
+117555	Nimitz Leak		「あの、ランスさん、ありがとうございました」	「Um, Rance-san, thank you very much.」
 
-117556	Nimitz Leak	「勇気を出して、その、良かったです」	「I'm glad I worked up the courage.」
+117556	Nimitz Leak		「勇気を出して、その、良かったです」	「I'm glad I worked up the courage.」
 
-117557	Rance	「ふーん、なら良かったな」	「Hmm, good then.」
+117557	Rance	基本	「ふーん、なら良かったな」	「Hmm, good then.」
 
-117558	Rance	「な、言った通り、迷惑じゃなかっただろ」	「See, it wasn't a bother, right?」
+117558	Rance		「な、言った通り、迷惑じゃなかっただろ」	「See, it wasn't a bother, right?」
 
-117559	Nimitz Leak	「はい……」	「Yes...」
+117559	Nimitz Leak	ノーマル	「はい……」	「Yes...」
 
-117560	Nimitz Leak	「えと……私が思っていたよりも……」	「Um... more than I thought...
+117560	Nimitz Leak		「えと……私が思っていたよりも……」	「Um... more than I thought...
 
-117561	Nimitz Leak	「世の中は優しい、みたい、です……	「The world seems kind...
-117562	?	　でした」	　it was.」
+117561	Nimitz Leak	ノーマル／笑顔	「世の中は優しい、みたい、です……	「The world seems kind...
+117562	?		　でした」	　it was.」
 
-117563	-	ニミッツはとっても嬉しそうだった。	Nimitz looked really happy.
+117563	-		ニミッツはとっても嬉しそうだった。	Nimitz looked really happy.

@@ -12,88 +12,88 @@
 * Caloria Cricket	カロリア	Female
 * Oda Kouhime	香姫	Female
 
-63864	Rance	「衛星を叩き壊すぞ！」	「We'll smash that satellite!」
+63864	Rance	怒り	「衛星を叩き壊すぞ！」	「We'll smash that satellite!」
 
-63865	-	主立った面々を集め、	Gathering the key members,
-63866	+	ランスは開口一番、そう言い放った。	Rance declared it right away.
+63865	-		主立った面々を集め、	Gathering the key members,
+63866	+		ランスは開口一番、そう言い放った。	Rance declared it right away.
 
-63867	Cecil Carna	「それはけっこうだ。	「That's good.
-63868	+	　奴まで手を届かす方法を思いついたのか？」	　Did you figure out a way to reach it?」
+63867	Cecil Carna	基本	「それはけっこうだ。	「That's good.
+63868	+		　奴まで手を届かす方法を思いついたのか？」	　Did you figure out a way to reach it?」
 
-63869	Rance	「ふっふっふ。要は、手が届く所まで	「Fufufu. Basically, we just need to get within reach
-63870	+	　奴に近づけばいいのだ」	　of the damn thing.」
+63869	Rance		「ふっふっふ。要は、手が届く所まで	「Fufufu. Basically, we just need to get within reach
+63870	+		　奴に近づけばいいのだ」	　of the damn thing.」
 
-63871	Copandon Dott	「……どないするん？	「...How exactly?
-63872	+	　飴ちゃんやるでーって言っても、	　Even if we offer candy,
-63873	+	　まさか降りてきてはくれんやろ」	　it's not gonna come down.」
+63871	Copandon Dott		「……どないするん？	「...How exactly?
+63872	+		　飴ちゃんやるでーって言っても、	　Even if we offer candy,
+63873	+		　まさか降りてきてはくれんやろ」	　it's not gonna come down.」
 
-63874	Rance	「だろうな。	「Of course not.
-63875	+	　だからこっちが高い所まで行く」	　So we'll go up high instead.」
+63874	Rance		「だろうな。	「Of course not.
+63875	+		　だからこっちが高い所まで行く」	　So we'll go up high instead.」
 
-63876	Kentou Kanami	「高い所、って……」	「High place, you mean...」
+63876	Kentou Kanami		「高い所、って……」	「High place, you mean...」
 
-63877	Rance	「マリア、双眼鏡で奴の姿は見たな？	「Maria, you saw it with the binoculars, right?
-63878	+	　だいたいどのくらいの高さだ」	　Roughly how high was it?」
+63877	Rance	真剣	「マリア、双眼鏡で奴の姿は見たな？	「Maria, you saw it with the binoculars, right?
+63878	+		　だいたいどのくらいの高さだ」	　Roughly how high was it?」
 
-63879	Maria Custard	「ん……見たけど……ええと、倍率から……	「Nn... I saw it... let's see, from the magnification...
-63880	+	　ちょっと待ってね」	　Wait a moment.
+63879	Maria Custard	基本	「ん……見たけど……ええと、倍率から……	「Nn... I saw it... let's see, from the magnification...
+63880	+		　ちょっと待ってね」	　Wait a moment.
 
-63881	-	マリアは手近な紙にガリガリと式を書いて、	Maria scribbled calculations on a nearby paper,
-63882	+	計算し始めた。	and began computing.
+63881	-		マリアは手近な紙にガリガリと式を書いて、	Maria scribbled calculations on a nearby paper,
+63882	+		計算し始めた。	and began computing.
 
-63883	Maria Custard	「例の衛星、前の物って大きさ分かる？」	「Do you know the size of the previous satellite?」
+63883	Maria Custard		「例の衛星、前の物って大きさ分かる？」	「Do you know the size of the previous satellite?」
 
-63884	Satella	「メガラスから聞いたくらいだが……	「Only what I heard from Megalas...
-63885	+	　ええと、確か…………」	　Um, I think......」
+63884	Satella		「メガラスから聞いたくらいだが……	「Only what I heard from Megalas...
+63885	+		　ええと、確か…………」	　Um, I think......」
 
-63886	Rance	「実のところ、高さがいくらかは重要ではないがな。	「Actually, the exact height doesn't matter much.
-63887	+	　どれだけ高くとも、世界一高い場所がある」	　No matter how high, there's the tallest place in the world.」
+63886	Rance		「実のところ、高さがいくらかは重要ではないがな。	「Actually, the exact height doesn't matter much.
+63887	+		　どれだけ高くとも、世界一高い場所がある」	　No matter how high, there's the tallest place in the world.」
 
-63888	Miracle Tor	「…………翔竜山か」	「............Shoryu Mountain.」
+63888	Miracle Tor		「…………翔竜山か」	「............Shoryu Mountain.」
 
-63889	Alkanese Rize	「ぐえーーー！　あそこかぁ……」	「Gueee! That place...」
+63889	Alkanese Rize	困り	「ぐえーーー！　あそこかぁ……」	「Gueee! That place...」
 
-63890	Rance	「そうだ。俺がどんどん高い所に登ったら、	「That's right. If I keep climbing higher and higher,
-63891	+	　奴はどうなる？」	　what will it do?」
+63890	Rance	基本	「そうだ。俺がどんどん高い所に登ったら、	「That's right. If I keep climbing higher and higher,
+63891	+		　奴はどうなる？」	　what will it do?」
 
-63892	Miracle Tor	「……ふむ。自力であの高度を保っているとしたら、	「...Hmm. If it's maintaining that altitude on its own,
-63893	+	　更に高く距離を取る可能性もあるぞ？	　it might go even higher to keep distance?
-63894	+	　それこそ、翔竜山以上に」	　Even higher than Shoryu Mountain.」
+63892	Miracle Tor	目閉じ	「……ふむ。自力であの高度を保っているとしたら、	「...Hmm. If it's maintaining that altitude on its own,
+63893	+		　更に高く距離を取る可能性もあるぞ？	　it might go even higher to keep distance?
+63894	+		　それこそ、翔竜山以上に」	　Even higher than Shoryu Mountain.」
 
-63895	Crook Mofus	「それは……たぶん無いです」	「That... probably won't happen.」
+63895	Crook Mofus	基本	「それは……たぶん無いです」	「That... probably won't happen.」
 
-63896	Miracle Tor	「ほう」	「Oh?」
+63896	Miracle Tor		「ほう」	「Oh?」
 
-63897	Crook Mofus	「翔竜山より高い所は、壁があります。	「Above Shoryu Mountain there is a wall.
-63898	+	　飛べるとしても、そこにぶつかるはずです」	　Even if it flies, it should hit that.」
+63897	Crook Mofus		「翔竜山より高い所は、壁があります。	「Above Shoryu Mountain there is a wall.
+63898	+		　飛べるとしても、そこにぶつかるはずです」	　Even if it flies, it should hit that.」
 
-63899	Miracle Tor	「そういえば……	「Now that you mention it...
-63900	+	　天の壁を貫くと、神の世界に通じる……	　Piercing the heavenly wall leads to the world of gods...
-63901	+	　そんな伝承もあったな」	　There was such a legend.」
+63899	Miracle Tor	目閉じ	「そういえば……	「Now that you mention it...
+63900	+		　天の壁を貫くと、神の世界に通じる……	　Piercing the heavenly wall leads to the world of gods...
+63901	+		　そんな伝承もあったな」	　There was such a legend.」
 
-63902	Crook Mofus	「……………………」	「........................」
+63902	Crook Mofus	基本	「……………………」	「........................」
 
-63903	Maria Custard	「……出たわ。	「...Here it is.
-63904	+	　目測だけど、高度は7000から10000メートル。	　Rough estimate, altitude between 7000 to 10000 meters.
-63905	+	　……イラーピュより、遙かに高いわね」	　...Much higher than Irapyu.」
+63903	Maria Custard		「……出たわ。	「...Here it is.
+63904	+		　目測だけど、高度は7000から10000メートル。	　Rough estimate, altitude between 7000 to 10000 meters.
+63905	+		　……イラーピュより、遙かに高いわね」	　...Much higher than Irapyu.」
 
-63906	Copandon Dott	「翔竜山は確か、12000メートルやったっけ。	「Shoryu Mountain is about 12000 meters, right.
-63907	+	　足りとるな、一応……」	　Should be enough...」
+63906	Copandon Dott	ため息	「翔竜山は確か、12000メートルやったっけ。	「Shoryu Mountain is about 12000 meters, right.
+63907	+		　足りとるな、一応……」	　Should be enough...」
 
-63908	Sachiko Centers	「え、えーと、同じ高さまで登る、んですか？	「E, um, we're climbing to the same height?
-63909	+	　そうすると……衛星は結局どうなるんですか？」	　Then... what happens to the satellite?」
+63908	Sachiko Centers	困り	「え、えーと、同じ高さまで登る、んですか？	「E, um, we're climbing to the same height?
+63909	+		　そうすると……衛星は結局どうなるんですか？」	　Then... what happens to the satellite?」
 
-63910	Caloria Cricket	「えーと、衛星はそれ以上高く上がれないから……」	「Um, the satellite can't go any higher so...
+63910	Caloria Cricket	基本	「えーと、衛星はそれ以上高く上がれないから……」	「Um, the satellite can't go any higher so...
 
-63911	Oda Kouhime	「ランス兄様についてきて……	「It will follow big Rance-niisama...
-63912	+	　手の届く距離まで、来るかもしれません。	　and come within reach.
-63913	+	　……ということだと思います」	　...I think that's what will happen.」
+63911	Oda Kouhime		「ランス兄様についてきて……	「It will follow big Rance-niisama...
+63912	+		　手の届く距離まで、来るかもしれません。	　and come within reach.
+63913	+		　……ということだと思います」	　...I think that's what will happen.」
 
-63914	Rance	「よーし、決まりだ！	「Alright, decided!
-63915	+	　翔竜山を登って、衛星を叩く！　以上！」	　We'll climb Shoryu Mountain and smash the satellite! That's it!」
+63914	Rance	笑顔	「よーし、決まりだ！	「Alright, decided!
+63915	+		　翔竜山を登って、衛星を叩く！　以上！」	　We'll climb Shoryu Mountain and smash the satellite! That's it!」
 
-63916	Alkanese Rize	「うっし！　わかりやすい！	「Yessir! Easy to understand!
-63917	+	　また登るのはキツイけど、腹ぁくくったぜ！」	　Climbing again will be tough, but I'm ready!」
+63916	Alkanese Rize	基本	「うっし！　わかりやすい！	「Yessir! Easy to understand!
+63917	+		　また登るのはキツイけど、腹ぁくくったぜ！」	　Climbing again will be tough, but I'm ready!」
 
-63918	Rance	「いくぞ！　高い所から見下ろしてやがる、	「Let's go! That bastard looking down from high above,
-63919	+	　あの衛星を叩き壊す！」	　we'll smash that satellite!」
+63918	Rance	怒り	「いくぞ！　高い所から見下ろしてやがる、	「Let's go! That bastard looking down from high above,
+63919	+		　あの衛星を叩き壊す！」	　we'll smash that satellite!」

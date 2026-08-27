@@ -5,80 +5,80 @@
 * Reset Kalar	リセット	Female
 * Cream Ganoblade	クリーム	Female
 
-30580	-	――――マンガン砦、改めランス砦に	――――About one month after Rance and the others holed up
-30581	+	ランス達がこもってから、およそ一ヶ月。	in what was once Mangan Fortress, now Rance Fortress.
+30580	-		――――マンガン砦、改めランス砦に	――――About one month after Rance and the others holed up
+30581	+		ランス達がこもってから、およそ一ヶ月。	in what was once Mangan Fortress, now Rance Fortress.
 
-30582	Rance	「………………不便だな」	「............This is inconvenient.」
+30582	Rance	真剣	「………………不便だな」	「............This is inconvenient.」
 
-30583	Sill Plain	「ランス様？」	「Rance-sama?」
+30583	Sill Plain	基本	「ランス様？」	「Rance-sama?」
 
-30584	Rance	「薄暗い。気が滅入る」	「It's too dark. Puts me in a bad mood.」
+30584	Rance	だる顔	「薄暗い。気が滅入る」	「It's too dark. Puts me in a bad mood.」
 
-30585	Sill Plain	「岩肌に作られてますし……	「It's carved into the rock face...
-30586	+	　お日様、入ってきませんからね」	　Sunlight doesn't reach inside.」
+30585	Sill Plain	基本	「岩肌に作られてますし……	「It's carved into the rock face...
+30586	+		　お日様、入ってきませんからね」	　Sunlight doesn't reach inside.」
 
-30587	Rance	「部屋が狭い」	「The rooms are cramped.」
+30587	Rance	だる顔	「部屋が狭い」	「The rooms are cramped.」
 
-30588	Sill Plain	「作りかけだそうですし……」	「It's still under construction...」
+30588	Sill Plain	基本	「作りかけだそうですし……」	「It's still under construction...」
 
-30589	Rance	「なんかすえた匂いがする」	「It smells musty.」
+30589	Rance	だる顔	「なんかすえた匂いがする」	「It smells musty.」
 
-30590	Sill Plain	「換気、よくないですから……」	「The ventilation isn't great...」
+30590	Sill Plain	基本	「換気、よくないですから……」	「The ventilation isn't great...」
 
-30591	Rance	「だーーーーーーーー！！」	「Aaaaargh!!」
+30591	Rance	怒り	「だーーーーーーーー！！」	「Aaaaargh!!」
 
-30592	Sill Plain	「きゃああああああ！」	「Kyaaaaah!」
+30592	Sill Plain	慌て	「きゃああああああ！」	「Kyaaaaah!」
 
-30593	-	ランスはシィルのぽわぽわ頭をガシガシ掻き回した。	Rance roughly tousled Sill's fluffy hair.
+30593	-		ランスはシィルのぽわぽわ頭をガシガシ掻き回した。	Rance roughly tousled Sill's fluffy hair.
 
-30594	Rance	「ふん！」	「Hmph!」
+30594	Rance	イライラ	「ふん！」	「Hmph!」
 
-30595	Sill Plain	「あっ、ランス様、どちらへ……」	「Ah, Rance-sama, where are you...」
+30595	Sill Plain	慌て	「あっ、ランス様、どちらへ……」	「Ah, Rance-sama, where are you...」
 
-30596	Rance	「散歩だ」	「Taking a walk.」
+30596	Rance	真剣	「散歩だ」	「Taking a walk.」
 
-30597	-	居住区画の端の方では工員が遠くで行き来しており、	At the edge of the residential area, workers could be seen moving in the distance,
-30598	+	掘削する音がランスの耳にまで届いてきていた。	and the sound of digging reached even Rance's ears.
+30597	-		居住区画の端の方では工員が遠くで行き来しており、	At the edge of the residential area, workers could be seen moving in the distance,
+30598	+		掘削する音がランスの耳にまで届いてきていた。	and the sound of digging reached even Rance's ears.
 
-30599	Rance	「……作りかけか。	「...Still under construction.
-30600	+	　今でも工事続行中みたいだな」	　Looks like work is still going on.」
+30599	Rance		「……作りかけか。	「...Still under construction.
+30600	+		　今でも工事続行中みたいだな」	　Looks like work is still going on.」
 
-30601	Pigu Geliciam	「うん、そだね」	「Yeah, that's right.」
+30601	Pigu Geliciam	分裂１／笑顔	「うん、そだね」	「Yeah, that's right.」
 
-30602	Pigu Geliciam	「あちこち掘りかけで楽しいよ。	「Digging everywhere is so fun.
-30603	+	　この間も――――」	　Just the other day――――」
+30602	Pigu Geliciam	分裂２全裸	「あちこち掘りかけで楽しいよ。	「Digging everywhere is so fun.
+30603	+		　この間も――――」	　Just the other day――――」
 
-30604	Reset Kalar	「ピーグーーちゃーーーーん！	「Piiig-chaaan!
-30605	+	　昨日の続き、行こ？」	　Let's continue from yesterday?」
+30604	Reset Kalar	基本	「ピーグーーちゃーーーーん！	「Piiig-chaaan!
+30605	+		　昨日の続き、行こ？」	　Let's continue from yesterday?」
 
-30606	Pigu Geliciam	「おおういえっさ！　れっつごう」	「Ooh yeah! Let's go!」
+30606	Pigu Geliciam	分裂２全裸	「おおういえっさ！　れっつごう」	「Ooh yeah! Let's go!」
 
-30607	Rance	「……なんだ、遊びに行くのか」	「...What, they're going to play?」
+30607	Rance	真剣	「……なんだ、遊びに行くのか」	「...What, they're going to play?」
 
-30608	Pigu Geliciam	「坑道の奥から変な音聞こえるの。	「We hear weird sounds from deep in the tunnels.
-30609	+	　偵察偵察」	　Scouting time.」
+30608	Pigu Geliciam	分裂１	「坑道の奥から変な音聞こえるの。	「We hear weird sounds from deep in the tunnels.
+30609	+		　偵察偵察」	　Scouting time.」
 
-30610	-	遊びに行く勢いで、ピグはぴゅっぴゅーっと	With the energy of going out to play, Pigu dashed off
-30611	+	駆け出していった。	with a whoosh.
+30610	-		遊びに行く勢いで、ピグはぴゅっぴゅーっと	With the energy of going out to play, Pigu dashed off
+30611	+		駆け出していった。	with a whoosh.
 
-30612	Rance	「あんまり奥に行くなよ！	「Don't go too deep!
-30613	+	　岩盤崩れても知らんぞ！」	　I won't care if the bedrock collapses!」
+30612	Rance	真剣	「あんまり奥に行くなよ！	「Don't go too deep!
+30613	+		　岩盤崩れても知らんぞ！」	　I won't care if the bedrock collapses!」
 
-30614	Pigu Geliciam	「あいあいさーーー」	「Aye aye sir~」
+30614	Pigu Geliciam	分裂２全裸	「あいあいさーーー」	「Aye aye sir~」
 
-30615	Rance	「……まったく。ガキは気楽なもんだ」	「...Kids really have it easy.」
+30615	Rance	だる顔	「……まったく。ガキは気楽なもんだ」	「...Kids really have it easy.」
 
-30616	Sill Plain	「でも……安全ですから、安心はできますね。	「But... it's safe here, so we can relax.
-30617	+	　魔軍も、ここには来ませんし……」	　The Monster Army won't come here...」
+30616	Sill Plain	基本	「でも……安全ですから、安心はできますね。	「But... it's safe here, so we can relax.
+30617	+		　魔軍も、ここには来ませんし……」	　The Monster Army won't come here...」
 
-30618	Cream Ganoblade	「確かにそうですが……	「That's true, but...
-30619	+	　いつまでも、安穏とはしていられません」	　We can't stay peaceful forever.」
+30618	Cream Ganoblade		「確かにそうですが……	「That's true, but...
+30619	+		　いつまでも、安穏とはしていられません」	　We can't stay peaceful forever.」
 
-30620	Rance	「む、クリームちゃん」	「Oh, Cream.」
+30620	Rance		「む、クリームちゃん」	「Oh, Cream.」
 
-30621	Cream Ganoblade	「現状の報告に来ました。	「I'm here to report the current situation.
-30622	+	　……世界はまだ、刻一刻と……	　...The world is still, moment by moment...
-30623	+	　魔人と魔軍の脅威に、晒され続けています」	　being ravaged by the threat of the Fiends and Monster Army.」
+30621	Cream Ganoblade		「現状の報告に来ました。	「I'm here to report the current situation.
+30622	+		　……世界はまだ、刻一刻と……	　...The world is still, moment by moment...
+30623	+		　魔人と魔軍の脅威に、晒され続けています」	　being ravaged by the threat of the Fiends and Monster Army.」
 
-30624	Rance	「ふん……魔人を片付ければ何とかなる。	「Hmph... If we take out the Fiends, it'll work out.
-30625	+	　ここから一発、逆転だ。がははははは！」	　A big comeback starting right here. Gahahahaha!」
+30624	Rance	笑顔	「ふん……魔人を片付ければ何とかなる。	「Hmph... If we take out the Fiends, it'll work out.
+30625	+		　ここから一発、逆転だ。がははははは！」	　A big comeback starting right here. Gahahahaha!」

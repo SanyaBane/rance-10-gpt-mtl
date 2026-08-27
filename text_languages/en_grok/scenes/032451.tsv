@@ -8,281 +8,281 @@
 * Sharon	シャロン	Female
 * Kesselring	ケッセルリンク	Male→Female
 
-150532	-	トランシルバニアの森――	Transylvania Forest--
+150532	-		トランシルバニアの森――	Transylvania Forest--
 
-150533	-	ケッセルリンクの城は今、	Kesselring's castle was now
-150534	+	おかしな事態に陥っていた。	in a strange situation.
+150533	-		ケッセルリンクの城は今、	Kesselring's castle was now
+150534	+		おかしな事態に陥っていた。	in a strange situation.
 
-150535	Elsill	「あっ、おかえりバーバラ」	「Ah, welcome back Barbara.」
+150535	Elsill	基本	「あっ、おかえりバーバラ」	「Ah, welcome back Barbara.」
 
-150536	-	外で山菜採りに出ていたバーバラを	Elsil, who was in the kitchen,
-150537	+	キッチンにいたエルシールが出迎えた。	greeted Barbara who had been out gathering wild vegetables.
+150536	-		外で山菜採りに出ていたバーバラを	Elsil, who was in the kitchen,
+150537	+		キッチンにいたエルシールが出迎えた。	greeted Barbara who had been out gathering wild vegetables.
 
-150538	Barbara	「？　なんだか城の中が騒がしい？」	「? The castle seems noisy?」
+150538	Barbara		「？　なんだか城の中が騒がしい？」	「? The castle seems noisy?」
 
-150539	Barbara	「ああ、それより大変よ、	「Ah, more importantly it's serious,
-150540	+	　森で女の子が行き倒れていて……」	　there were collapsed girls in the forest...
+150539	Barbara		「ああ、それより大変よ、	「Ah, more importantly it's serious,
+150540	+		　森で女の子が行き倒れていて……」	　there were collapsed girls in the forest...
 
-150541	Barbara	「話を聞けばケッセルリンク様の	「When I asked, they matched Kesselring-sama's
-150542	+	　保護条件に合うから連れてきたけど……」	　protection conditions so I brought them...」
+150541	Barbara		「話を聞けばケッセルリンク様の	「When I asked, they matched Kesselring-sama's
+150542	+		　保護条件に合うから連れてきたけど……」	　protection conditions so I brought them...」
 
-150543	Elsill	「……何人？」	「...How many?」
+150543	Elsill		「……何人？」	「...How many?」
 
-150544	Barbara	「？　よく複数いるって分かったわね。	「? You knew there were multiple.
-150545	+	　二人よ」	　Two.」
+150544	Barbara		「？　よく複数いるって分かったわね。	「? You knew there were multiple.
+150545	+		　二人よ」	　Two.」
 
-150546	Elsill	「そう……」	「I see...」
+150546	Elsill		「そう……」	「I see...」
 
-150547	Elsill	「今日はこれで八人目よ」	「This makes eight today.」
+150547	Elsill		「今日はこれで八人目よ」	「This makes eight today.」
 
-150548	Barbara	「はあ！？」	「Haa!?」
+150548	Barbara	怒り	「はあ！？」	「Haa!?」
 
-150549	Alcarria	「いったいどうなってるんでしょ。	「What's going on?
-150550	+	　今日は森の中に不幸な女の子が溢れてて……」	　The forest is full of unhappy girls today...
+150549	Alcarria	基本	「いったいどうなってるんでしょ。	「What's going on?
+150550	+		　今日は森の中に不幸な女の子が溢れてて……」	　The forest is full of unhappy girls today...
 
-150551	Barbara	「それ、全員、城の中に入れたわけ？」	「You let all of them into the castle?」
+150551	Barbara	怒り	「それ、全員、城の中に入れたわけ？」	「You let all of them into the castle?」
 
-150552	Alcarria	「だってー、ケッセルリンク様の仰る	「Because they all matched
-150553	+	　保護の条件に合致するんですもん」	　Kesselring-sama's protection conditions.」
+150552	Alcarria	基本	「だってー、ケッセルリンク様の仰る	「Because they all matched
+150553	+		　保護の条件に合致するんですもん」	　Kesselring-sama's protection conditions.」
 
-150554	Barbara	「……ケッセルリンク様はなんて？」	「...What did Kesselring-sama say?」
+150554	Barbara	怒り	「……ケッセルリンク様はなんて？」	「...What did Kesselring-sama say?」
 
-150555	Elsill	「いつも通りで構わない、と」	「He said it's fine as usual.」
+150555	Elsill	基本	「いつも通りで構わない、と」	「He said it's fine as usual.」
 
-150556	Barbara	「いつも通りって……	「As usual...
-150557	+	　それじゃあ見境なく保護することに……」	　That means we'll protect anyone without limit...
+150556	Barbara		「いつも通りって……	「As usual...
+150557	+		　それじゃあ見境なく保護することに……」	　That means we'll protect anyone without limit...
 
-150558	Alcarria	「明日も明後日も千客万来だったらどうしましょ？」	「What if tomorrow and the day after are just as busy?」
+150558	Alcarria		「明日も明後日も千客万来だったらどうしましょ？」	「What if tomorrow and the day after are just as busy?」
 
-150559	Barbara	「はは……そんな馬鹿な……」	「Haha... no way...」
+150559	Barbara		「はは……そんな馬鹿な……」	「Haha... no way...」
 
-150560	Elsill	「…………」	「............」
+150560	Elsill	真剣	「…………」	「............」
 
-150561	Barbara	「もー、考え過ぎよエルシール。	「Geez, you're overthinking it Elsill.
-150562	+	　相変わらず心配性なんだから」	　You're as worrywart as always.」
+150561	Barbara	基本	「もー、考え過ぎよエルシール。	「Geez, you're overthinking it Elsill.
+150562	+		　相変わらず心配性なんだから」	　You're as worrywart as always.」
 
-150563	Elsill	「そう、よね……	「Yeah...
-150564	+	　考えすぎ、よね……」	　I'm overthinking...」
+150563	Elsill	真剣	「そう、よね……	「Yeah...
+150564	+		　考えすぎ、よね……」	　I'm overthinking...」
 
-150565	-	しかし、エルシールの嫌な予感は	However, Elsill's bad premonition
-150566	+	見事に的中した。	proved completely right.
+150565	-		しかし、エルシールの嫌な予感は	However, Elsill's bad premonition
+150566	+		見事に的中した。	proved completely right.
 
-150567	-	次の日――	The next day--
+150567	-		次の日――	The next day--
 
-150568	-	キッチン――	Kitchen--
+150568	-		キッチン――	Kitchen--
 
-150569	Kanayo	「あのぉ……	「Um...
-150570	+	　申し上げにくいんだけど……」	　It's hard to say but...」
+150569	Kanayo	基本	「あのぉ……	「Um...
+150570	+		　申し上げにくいんだけど……」	　It's hard to say but...」
 
-150571	Lilim	「えーっ、あと、30人分も食事追加ですか！？」	「Ehh, another 30 more portions!?」
+150571	Lilim	拗ね	「えーっ、あと、30人分も食事追加ですか！？」	「Ehh, another 30 more portions!?」
 
-150572	Paleloa	「……リリム、なんて声を上げるの」	「...Lilim, don't raise your voice like that.」
+150572	Paleloa	基本	「……リリム、なんて声を上げるの」	「...Lilim, don't raise your voice like that.」
 
-150573	Lilim	「むぐっ」	「Mgu!」
+150573	Lilim	拗ね	「むぐっ」	「Mgu!」
 
-150574	Paleloa	「でも、どうなっているの……	「But what's going on...
-150575	+	　たった二日でメイドの数が百人を越えるなんて」	　The number of maids exceeded a hundred in just two days
+150574	Paleloa	基本	「でも、どうなっているの……	「But what's going on...
+150575	+		　たった二日でメイドの数が百人を越えるなんて」	　The number of maids exceeded a hundred in just two days
 
-150576	?	「あの、パレロアさん、	「Um, Paleloa-san,
-150577	+	　こちらの食事はどこにお運びすれば……」	　where should I take this meal...」
+150576	?		「あの、パレロアさん、	「Um, Paleloa-san,
+150577	+		　こちらの食事はどこにお運びすれば……」	　where should I take this meal...」
 
-150578	Paleloa	「ああ、ちょっと待ってね……」	「Ah, wait a moment...」
+150578	Paleloa		「ああ、ちょっと待ってね……」	「Ah, wait a moment...」
 
-150579	Lilim	「何人かは仕事を手伝ってくれてますけど……	「Some are helping with work but...
-150580	+	　これじゃあ到底管理しきれませんよ……」	　we can't manage this at all...」
+150579	Lilim	拗ね	「何人かは仕事を手伝ってくれてますけど……	「Some are helping with work but...
+150580	+		　これじゃあ到底管理しきれませんよ……」	　we can't manage this at all...」
 
-150581	Kanayo	「そうなのよねぇ……」	「I know...」
+150581	Kanayo	基本	「そうなのよねぇ……」	「I know...」
 
-150582	Lilim	「……いっそ見なかったことにすれば」	「...Maybe we should just pretend we didn't see.」
+150582	Lilim	拗ね	「……いっそ見なかったことにすれば」	「...Maybe we should just pretend we didn't see.」
 
-150583	Sharon	「駄目よ」	「No.」
+150583	Sharon	基本	「駄目よ」	「No.」
 
-150584	Lilim	「シャロンさん」	「Sharon-san.」
+150584	Lilim		「シャロンさん」	「Sharon-san.」
 
-150585	Sharon	「ケッセルリンク様の教えでしょう？	「It's Kesselring-sama's teaching, right?
-150586	+	　不幸な子は救わなければいけない」	　We must save unhappy children.」
+150585	Sharon		「ケッセルリンク様の教えでしょう？	「It's Kesselring-sama's teaching, right?
+150586	+		　不幸な子は救わなければいけない」	　We must save unhappy children.」
 
-150587	Lilim	「でも……」	「But...」
+150587	Lilim		「でも……」	「But...」
 
-150588	-	シャロンはそっと、	Sharon gently
-150589	+	自分の胸に手を置いた。	placed her hand on her chest.
+150588	-		シャロンはそっと、	Sharon gently
+150589	+		自分の胸に手を置いた。	placed her hand on her chest.
 
-150590	Sharon	「私達も……	「We too...
-150591	+	　そうしてここにいるのでしょう？」	　are here because of that, right?」
+150590	Sharon		「私達も……	「We too...
+150591	+		　そうしてここにいるのでしょう？」	　are here because of that, right?」
 
-150592	-	シャロンの言葉に反論できるものはいなかった。	No one could argue against Sharon's words.
+150592	-		シャロンの言葉に反論できるものはいなかった。	No one could argue against Sharon's words.
 
-150593	-	その日は更に358名が増えた。	That day another 358 were added.
+150593	-		その日は更に358名が増えた。	That day another 358 were added.
 
-150594	-	次の日は500名が……	The next day 500...
+150594	-		次の日は500名が……	The next day 500...
 
-150595	-	毎日のように森の中で不幸な娘が見つかり、	Unhappy girls were found in the forest every day,
-150596	+	しまいには直接お城に	and eventually some came directly to the castle
-150597	+	助けを求めにくる始末になっていた。	asking for help.
+150595	-		毎日のように森の中で不幸な娘が見つかり、	Unhappy girls were found in the forest every day,
+150596	+		しまいには直接お城に	and eventually some came directly to the castle
+150597	+		助けを求めにくる始末になっていた。	asking for help.
 
-150598	-	ケッセルリンクの城は	Kesselring's castle
-150599	+	日に日に、メイドの数が増えていく。	saw the number of maids increase day by day.
+150598	-		ケッセルリンクの城は	Kesselring's castle
+150599	+		日に日に、メイドの数が増えていく。	saw the number of maids increase day by day.
 
-150600	-	数日後――	Several days later--
+150600	-		数日後――	Several days later--
 
-150601	-	ケッセルリンクの部屋――	Kesselring's room--
+150601	-		ケッセルリンクの部屋――	Kesselring's room--
 
-150602	Elsill	「現在、この城には	「Currently, this castle has
-150603	+	　2327名の人間が保護されています」	　2327 humans under protection.」
+150602	Elsill		「現在、この城には	「Currently, this castle has
+150603	+		　2327名の人間が保護されています」	　2327 humans under protection.」
 
-150604	Kesselring	「…………」	「............」
+150604	Kesselring		「…………」	「............」
 
-150605	-	エルシールの報告をケッセルリンクは	Kesselring silently listened to Elsill's report
-150606	+	手元のワインを揺らしながら黙って聞いている。	while swirling the wine in his hand.
+150605	-		エルシールの報告をケッセルリンクは	Kesselring silently listened to Elsill's report
+150606	+		手元のワインを揺らしながら黙って聞いている。	while swirling the wine in his hand.
 
-150607	Elsill	「その全てが不幸な身の上を持つ、	「All of them have unhappy backgrounds,
-150608	+	　人間界での居場所を失いここに逃げてきた娘」	　girls who lost their place in the human world and fled here.」
+150607	Elsill		「その全てが不幸な身の上を持つ、	「All of them have unhappy backgrounds,
+150608	+		　人間界での居場所を失いここに逃げてきた娘」	　girls who lost their place in the human world and fled here.」
 
-150609	Elsill	「言うまでもないことですが……	「Needless to say...
-150610	+	　これは人間側の罠です」	　this is a trap from the human side.」
+150609	Elsill		「言うまでもないことですが……	「Needless to say...
+150610	+		　これは人間側の罠です」	　this is a trap from the human side.」
 
-150611	Kesselring	「…………」	「............」
+150611	Kesselring		「…………」	「............」
 
-150612	-	ケッセルリンクは何も言わない。	Kesselring said nothing.
+150612	-		ケッセルリンクは何も言わない。	Kesselring said nothing.
 
-150613	Elsill	「私達は現在、内部に多数の敵兵を抱えた状態」	「We currently have a large number of enemy soldiers inside.」
+150613	Elsill		「私達は現在、内部に多数の敵兵を抱えた状態」	「We currently have a large number of enemy soldiers inside.」
 
-150614	Elsill	「それだけでなく、彼女らの管理と保護の為に	Not only that, managing and protecting them
-150615	+	　多数の物資と手間が使われ、	　requires a huge amount of supplies and effort,
-150616	+	　軍事的な作戦行動は何も行えません」	　so we can't carry out any military operations.」
+150614	Elsill		「それだけでなく、彼女らの管理と保護の為に	Not only that, managing and protecting them
+150615	+		　多数の物資と手間が使われ、	　requires a huge amount of supplies and effort,
+150616	+		　軍事的な作戦行動は何も行えません」	　so we can't carry out any military operations.」
 
-150617	Elsill	「完全に身動きを封じられています」	「We are completely immobilized.」
+150617	Elsill		「完全に身動きを封じられています」	「We are completely immobilized.」
 
-150618	Kesselring	「……それで」	「...And?」
+150618	Kesselring		「……それで」	「...And?」
 
-150619	Kesselring	「エルシール、君はどうするべきと考える」	「Elsill, what do you think we should do?」
+150619	Kesselring		「エルシール、君はどうするべきと考える」	「Elsill, what do you think we should do?」
 
-150620	-	ようやく、ケッセルリンクはワインを置き、	Finally, Kesselring put down his wine
-150621	+	エルシールの顔を見た。	and looked at Elsill.
+150620	-		ようやく、ケッセルリンクはワインを置き、	Finally, Kesselring put down his wine
+150621	+		エルシールの顔を見た。	and looked at Elsill.
 
-150622	Elsill	「私は……」	「I...」
+150622	Elsill	真剣	「私は……」	「I...」
 
-150623	Elsill	「この城の放棄を提案します」	「Propose abandoning this castle.」
+150623	Elsill		「この城の放棄を提案します」	「Propose abandoning this castle.」
 
-150624	Kesselring	「なるほど、彼女達を見捨てるべき、と」	「I see, we should abandon them.」
+150624	Kesselring	基本	「なるほど、彼女達を見捨てるべき、と」	「I see, we should abandon them.」
 
-150625	Elsill	「その通りです」	「That's correct.」
+150625	Elsill	真剣	「その通りです」	「That's correct.」
 
-150626	Kesselring	「他の子達はどうしているかね？」	「What about the other girls?」
+150626	Kesselring	基本	「他の子達はどうしているかね？」	「What about the other girls?」
 
-150627	Elsill	「他の子……メイド達、ですか？	「The other girls... the maids?
-150628	+	　そう、ですね……」	　Yes...」
+150627	Elsill	真剣	「他の子……メイド達、ですか？	「The other girls... the maids?
+150628	+		　そう、ですね……」	　Yes...」
 
-150629	Elsill	「加奈代は食事作りに忙しそうです。	「Kanayo seems busy cooking.
-150630	+	　休む暇もなく料理を作り続けてます」	　She's cooking nonstop without rest.」
+150629	Elsill		「加奈代は食事作りに忙しそうです。	「Kanayo seems busy cooking.
+150630	+		　休む暇もなく料理を作り続けてます」	　She's cooking nonstop without rest.」
 
-150631	Elsill	「バーバラは食材の調達として、	「Barbara is out gathering ingredients,
-150632	+	　野生の動物を捕りに行ったり、	　hunting wild animals,
-150633	+	　捌いたりと毎日血まみれになってます」	　butchering them, covered in blood every day.」
+150631	Elsill		「バーバラは食材の調達として、	「Barbara is out gathering ingredients,
+150632	+		　野生の動物を捕りに行ったり、	　hunting wild animals,
+150633	+		　捌いたりと毎日血まみれになってます」	　butchering them, covered in blood every day.」
 
-150634	Elsill	「パレロアさんは主に寝る場所などの確保を……」	「Paleloa is mainly securing sleeping spaces...」
+150634	Elsill		「パレロアさんは主に寝る場所などの確保を……」	「Paleloa is mainly securing sleeping spaces...」
 
-150635	Kesselring	「どうかしたかね？」	「Is something wrong?」
+150635	Kesselring	基本	「どうかしたかね？」	「Is something wrong?」
 
-150636	Elsill	「いえ、中には	「No, among them
-150637	+	　子供と言える年齢の子もいまして……」	　there are children...
+150636	Elsill	真剣	「いえ、中には	「No, among them
+150637	+		　子供と言える年齢の子もいまして……」	　there are children...
 
-150638	Elsill	「パレロアさん……	「Paleloa...
-150639	+	　少し思うところがあるようで、	　seems to have some thoughts,
-150640	+	　すっかり世話を楽しんでいます」	　and is fully enjoying taking care of them.」
+150638	Elsill	基本	「パレロアさん……	「Paleloa...
+150639	+		　少し思うところがあるようで、	　seems to have some thoughts,
+150640	+		　すっかり世話を楽しんでいます」	　and is fully enjoying taking care of them.」
 
-150641	Kesselring	「そうか……」	「I see...」
+150641	Kesselring		「そうか……」	「I see...」
 
-150642	Kesselring	「パレロアらしいな」	「That's just like Paleloa.」
+150642	Kesselring	目閉じ	「パレロアらしいな」	「That's just like Paleloa.」
 
-150643	-	薄く、ケッセルリンクの口元が	A faint smile formed on Kesselring's lips,
-150644	+	笑みを形作ったのを見て、	and seeing that,
-150645	+	思わずエルシールも口元をほころばせた。	Elsill couldn't help but smile too.
+150643	-		薄く、ケッセルリンクの口元が	A faint smile formed on Kesselring's lips,
+150644	+		笑みを形作ったのを見て、	and seeing that,
+150645	+		思わずエルシールも口元をほころばせた。	Elsill couldn't help but smile too.
 
-150646	Elsill	「そうですね……」	「Yes...」
+150646	Elsill	基本	「そうですね……」	「Yes...」
 
-150647	Elsill	「アルカリアやリリムは	「Alcarria and Lilim
-150648	+	　新人の子達を連れて山菜など食料の調達に。	　are out gathering wild vegetables and food with the new girls.
-150649	+	　ふふ、リリムはどこか硬くなってます」	　Fufu, Lilim seems a bit stiff.」
+150647	Elsill		「アルカリアやリリムは	「Alcarria and Lilim
+150648	+		　新人の子達を連れて山菜など食料の調達に。	　are out gathering wild vegetables and food with the new girls.
+150649	+		　ふふ、リリムはどこか硬くなってます」	　Fufu, Lilim seems a bit stiff.」
 
-150650	Elsill	「シャロンさんはいつも通りですね。	「Sharon-san is the same as always.
-150651	+	　泰然自若、城の中が騒がしくても	　Calm and composed, even with the castle in chaos
-150652	+	　特に変わったところはありません」	　there's no change in her.」
+150650	Elsill		「シャロンさんはいつも通りですね。	「Sharon-san is the same as always.
+150651	+		　泰然自若、城の中が騒がしくても	　Calm and composed, even with the castle in chaos
+150652	+		　特に変わったところはありません」	　there's no change in her.」
 
-150653	Kesselring	「なるほど」	「I see.」
+150653	Kesselring		「なるほど」	「I see.」
 
-150654	Kesselring	「皆、困惑はしても、	「Everyone is confused,
-150655	+	　保護に反対の者、嫌がる者はいないようだ」	　but no one opposes protecting them or dislikes it.」
+150654	Kesselring		「皆、困惑はしても、	「Everyone is confused,
+150655	+		　保護に反対の者、嫌がる者はいないようだ」	　but no one opposes protecting them or dislikes it.」
 
-150656	Elsill	「えっ……あ……」	「Eh... ah...」
+150656	Elsill	真剣	「えっ……あ……」	「Eh... ah...」
 
-150657	-	ケッセルリンクの言葉に気づかされた。	She realized what Kesselring meant.
+150657	-		ケッセルリンクの言葉に気づかされた。	She realized what Kesselring meant.
 
-150658	Kesselring	「エルシール、君は先程	「Elsill, earlier you
-150659	+	　一人の娘の為にわざわざパン粥を	　made rice porridge specifically for one girl.」
-150660	+	　作ったそうだね」	
+150658	Kesselring	基本	「エルシール、君は先程	「Elsill, earlier you
+150659	+		　一人の娘の為にわざわざパン粥を	　made rice porridge specifically for one girl.」
+150660	+		　作ったそうだね」	
 
-150661	Kesselring	「それは何故だ？」	「Why was that?」
+150661	Kesselring		「それは何故だ？」	「Why was that?」
 
-150662	Elsill	「それは……」	「That's...
+150662	Elsill	真剣	「それは……」	「That's...
 
-150663	Elsill	「その子は……性奴隷だったそうです……」	「That girl... was a sex slave...」
+150663	Elsill		「その子は……性奴隷だったそうです……」	「That girl... was a sex slave...」
 
-150664	Elsill	「口淫の為に歯を全て抜かれて入れ歯の為……	「All her teeth were pulled out for oral sex and she has dentures...
-150665	+	　堅いものが噛めないとのことでした……」	　so she can't chew hard food...」
+150664	Elsill		「口淫の為に歯を全て抜かれて入れ歯の為……	「All her teeth were pulled out for oral sex and she has dentures...
+150665	+		　堅いものが噛めないとのことでした……」	　so she can't chew hard food...」
 
-150666	Elsill	「まともな食事が取れないのは……	「Not being able to eat proper meals...
-150667	+	　本当に辛いことですので……」	　is truly painful...」
+150666	Elsill		「まともな食事が取れないのは……	「Not being able to eat proper meals...
+150667	+		　本当に辛いことですので……」	　is truly painful...」
 
-150668	Elsill	「それで、仕方なく……」	「So, I had no choice...」
+150668	Elsill		「それで、仕方なく……」	「So, I had no choice...」
 
-150669	Kesselring	「見捨てるつもりなら、	「If you planned to abandon her,
-150670	+	　そんなことをする必要はない筈」	　you wouldn't have needed to do that.」
+150669	Kesselring	基本	「見捨てるつもりなら、	「If you planned to abandon her,
+150670	+		　そんなことをする必要はない筈」	　you wouldn't have needed to do that.」
 
-150671	-	認めざるを得ず、エルシールは手を強く握った。	Unable to deny it, Elsill clenched her hands tightly.
+150671	-		認めざるを得ず、エルシールは手を強く握った。	Unable to deny it, Elsill clenched her hands tightly.
 
-150672	Elsill	「その子が同じだったからです……	「Because she was the same as me...
-150673	?	　人間時代の私と……」	　as I was in my human days...」
+150672	Elsill	真剣	「その子が同じだったからです……	「Because she was the same as me...
+150673	?		　人間時代の私と……」	　as I was in my human days...」
 
-150674	-	ここにいるメイド達は誰もが、	All the maids here
-150675	+	他人や不運により、不幸になった者ばかり。	became unhappy due to others or misfortune.
+150674	-		ここにいるメイド達は誰もが、	All the maids here
+150675	+		他人や不運により、不幸になった者ばかり。	became unhappy due to others or misfortune.
 
-150676	-	見捨てられる筈がなかった。	They couldn't be abandoned.
+150676	-		見捨てられる筈がなかった。	They couldn't be abandoned.
 
-150677	Elsill	「心の傷はケッセルリンク様に治して頂きました」	「Kesselring-sama healed the wounds in our hearts.」
+150677	Elsill	基本	「心の傷はケッセルリンク様に治して頂きました」	「Kesselring-sama healed the wounds in our hearts.」
 
-150678	Elsill	「ですが……傷でいびつになった心までは……	「But... the hearts twisted by those wounds...
-150679	+	　戻りませんでしたね」	　didn't fully return to normal.」
+150678	Elsill		「ですが……傷でいびつになった心までは……	「But... the hearts twisted by those wounds...
+150679	+		　戻りませんでしたね」	　didn't fully return to normal.」
 
-150680	Kesselring	「他人の為に傷つけるエルシール、	「Elsill who hurts for others,
-150681	+	　それは君の美しさだ……」	　that is your beauty...」
+150680	Kesselring		「他人の為に傷つけるエルシール、	「Elsill who hurts for others,
+150681	+		　それは君の美しさだ……」	　that is your beauty...」
 
-150682	Kesselring	「それが傷によるものだと言うのなら……	「If those wounds are what made you that way...
-150683	+	　その傷すら君は美しい」	　then even those wounds are beautiful on you.」
+150682	Kesselring		「それが傷によるものだと言うのなら……	「If those wounds are what made you that way...
+150683	+		　その傷すら君は美しい」	　then even those wounds are beautiful on you.」
 
-150684	Elsill	「ケッセルリンク様……」	「Kesselring-sama...」
+150684	Elsill		「ケッセルリンク様……」	「Kesselring-sama...」
 
-150685	Kesselring	「確かに彼女達は人間のスパイだろう」	「They are surely human spies.
+150685	Kesselring		「確かに彼女達は人間のスパイだろう」	「They are surely human spies.
 
-150686	Kesselring	「だが助けを求めてきた以上は私の客」	　But since they came asking for help, they are my guests.」
+150686	Kesselring		「だが助けを求めてきた以上は私の客」	　But since they came asking for help, they are my guests.」
 
-150687	Kesselring	「見捨てはしない」	「I will not abandon them.」
+150687	Kesselring		「見捨てはしない」	「I will not abandon them.」
 
-150688	Elsill	「はい……」	「Yes...」
+150688	Elsill		「はい……」	「Yes...」
 
-150689	Kesselring	「改めて命じる」	「I order you again.」
+150689	Kesselring		「改めて命じる」	「I order you again.」
 
-150690	Kesselring	「常の君達でありたまえ」	「Remain as you always are.」
+150690	Kesselring	目閉じ	「常の君達でありたまえ」	「Remain as you always are.」
 
-150691	Elsill	「…………」	「............」
+150691	Elsill	真剣	「…………」	「............」
 
-150692	-	エルシールが深く頭を下げる。	Elsill bowed deeply.
+150692	-		エルシールが深く頭を下げる。	Elsill bowed deeply.
 
-150693	-	最悪の未来を予見し、	Foreseeing the worst future,
-150694	+	それでも尚メイドは主に忠を尽くす。	the maids still pledged loyalty to their master.
+150693	-		最悪の未来を予見し、	Foreseeing the worst future,
+150694	+		それでも尚メイドは主に忠を尽くす。	the maids still pledged loyalty to their master.
 
-150695	Elsill	「かしこまりました。	「Understood.
-150696	+	　ケッセルリンク様」	　Kesselring-sama.」
+150695	Elsill	基本	「かしこまりました。	「Understood.
+150696	+		　ケッセルリンク様」	　Kesselring-sama.」
 
-150697	-	最後の言葉を、	With those final words,
-150698	+	エルシールは覚悟を込めて呟いた。	Elsill whispered with resolve.
+150697	-		最後の言葉を、	With those final words,
+150698	+		エルシールは覚悟を込めて呟いた。	Elsill whispered with resolve.

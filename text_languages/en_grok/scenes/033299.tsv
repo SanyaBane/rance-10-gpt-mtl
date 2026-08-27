@@ -11,270 +11,270 @@
 * Masou Shizuka	志津香２	Female
 * El Mofus	エール２	Player's choice
 
-223981	Nagata-kun	「うっっっ……」	「Uhhh...」
+223981	Nagata-kun	基本	「うっっっ……」	「Uhhh...」
 
-223982	Nagata-kun	「はーーーーっ！　すっげーーーー！」	「Haaaa! Amazing!」
+223982	Nagata-kun		「はーーーーっ！　すっげーーーー！」	「Haaaa! Amazing!」
 
-223983	-	ミラクルの操る骸骨達の配膳により、	Thanks to the skeletons controlled by Miracle serving,
-223984	+	誰も目にしたこともないような	unseen before
-223985	+	珍妙なお茶と菓子が次々に並べられる。	bizarre teas and sweets were lined up one after another.
+223983	-		ミラクルの操る骸骨達の配膳により、	Thanks to the skeletons controlled by Miracle serving,
+223984	+		誰も目にしたこともないような	unseen before
+223985	+		珍妙なお茶と菓子が次々に並べられる。	bizarre teas and sweets were lined up one after another.
 
-223986	-	中には食品であるかすら疑わしいものまであり、	Some were so strange it was doubtful they were even food,
-223987	+	皆が目を丸くしてそれらに注目していた。	and everyone stared wide-eyed.
+223986	-		中には食品であるかすら疑わしいものまであり、	Some were so strange it was doubtful they were even food,
+223987	+		皆が目を丸くしてそれらに注目していた。	and everyone stared wide-eyed.
 
-223988	Zance Leazas	「ったく、赤に青に緑に、	「Jeez, red, blue, green,
-223989	+	　黒の紅茶まで並べやがって……	　even black tea...
-223990	+	　相変わらずやること下っ品だな……」	　As tasteless as always...」
+223988	Zance Leazas	不満	「ったく、赤に青に緑に、	「Jeez, red, blue, green,
+223989	+		　黒の紅茶まで並べやがって……	　even black tea...
+223990	+		　相変わらずやること下っ品だな……」	　As tasteless as always...」
 
-223991	Yamamoto Rangi	「珍品好きなのは知っていたが……	「I knew she liked rare items, but...
-223992	+	　これは最早、珍奇を越えて奇妙だな……」	　This goes beyond rare into outright bizarre...」
+223991	Yamamoto Rangi	説明するよ	「珍品好きなのは知っていたが……	「I knew she liked rare items, but...
+223992	+		　これは最早、珍奇を越えて奇妙だな……」	　This goes beyond rare into outright bizarre...」
 
-223993	Miracle Tor	「ふふふ、良いではないか。	「Fufufu, it's fine.
-223994	+	　余は賑やかなのが好きなのだ。	　I like it lively.
-223995	?	　静かなのも好きだがな」	　I like quiet too though.」
+223993	Miracle Tor	ライドオン／目閉じ	「ふふふ、良いではないか。	「Fufufu, it's fine.
+223994	+		　余は賑やかなのが好きなのだ。	　I like it lively.
+223995	?		　静かなのも好きだがな」	　I like quiet too though.」
 
-223996	Nagata-kun	「うはっ！　＜エール＞！	「Uha! ＜エール＞!
-223997	+	　このフルーツ食ってみろよ！	　Try this fruit!
-223998	+	　甘いもんが全部辛くなるぞ！」	　All the sweet stuff turns spicy!」
+223996	Nagata-kun	基本	「うはっ！　＜エール＞！	「Uha! ＜エール＞!
+223997	+		　このフルーツ食ってみろよ！	　Try this fruit!
+223998	+		　甘いもんが全部辛くなるぞ！」	　All the sweet stuff turns spicy!」
 
-223999	Reset Kalar	「わわわ、フォーク入れる度に	「Wah wah wah, every time I put in the fork
-224000	+	　ピカピカ色が変わるケーキだ！	　the cake changes color and sparkles!
-224001	+	　ほら、ザンスちゃん、こういうの好きでしょ？」	　Look, Zance-chan, you like this kind of thing, right?」
+223999	Reset Kalar	笑顔	「わわわ、フォーク入れる度に	「Wah wah wah, every time I put in the fork
+224000	+		　ピカピカ色が変わるケーキだ！	　the cake changes color and sparkles!
+224001	+		　ほら、ザンスちゃん、こういうの好きでしょ？」	　Look, Zance-chan, you like this kind of thing, right?」
 
-224002	Zance Leazas	「っせーな、嫌いじゃねーが、	「So noisy. I don't hate it, but
-224003	+	　ミラクルが嫌いだから	　I hate Miracle so
-224004	+	　ケチつけてんだよ、気ィ使うな」	　I'm complaining about it. Don't worry about me.」
+224002	Zance Leazas	基本	「っせーな、嫌いじゃねーが、	「So noisy. I don't hate it, but
+224003	+		　ミラクルが嫌いだから	　I hate Miracle so
+224004	+		　ケチつけてんだよ、気ィ使うな」	　I'm complaining about it. Don't worry about me.」
 
-224005	Kentou Uzume	「にゃんと、この天ぷら、中にジュースが！	「Nyaa, this tempura has juice inside!
-224006	+	　どうやって作ってるでござる？」	　How do they make this?」
+224005	Kentou Uzume		「にゃんと、この天ぷら、中にジュースが！	「Nyaa, this tempura has juice inside!
+224006	+		　どうやって作ってるでござる？」	　How do they make this?」
 
-224007	Tokugawa Tone	「ぴよぴよ鳴くひよこ菓子……	「Chick sweets that go peep peep...
-224008	+	　可愛い可愛い……おいひい、おいひい……」	　So cute, so cute... Delicious, delicious...」
+224007	Tokugawa Tone	ドヤァ	「ぴよぴよ鳴くひよこ菓子……	「Chick sweets that go peep peep...
+224008	+		　可愛い可愛い……おいひい、おいひい……」	　So cute, so cute... Delicious, delicious...」
 
-224009	Rocky Bank	「ひぃーっ！	「Hiiieee!
-224010	+	　たっ、たい焼きに噛まれただすー！？」	　I-I got bitten by the taiyaki-!」
+224009	Rocky Bank	ガーン	「ひぃーっ！	「Hiiieee!
+224010	+		　たっ、たい焼きに噛まれただすー！？」	　I-I got bitten by the taiyaki-!」
 
-224011	Nagi su Ragarl	「あっははははは！	「Ah hahahahaha!
-224012	+	　たのしー！　私、こういうの大好き！」	　So fun! I love this kind of thing!」
+224011	Nagi su Ragarl	帽子なし／笑顔	「あっははははは！	「Ah hahahahaha!
+224012	+		　たのしー！　私、こういうの大好き！」	　So fun! I love this kind of thing!」
 
-224013	Masou Shizuka	「……ちょっと乱義、	「...Hey Rangi,
-224014	+	　そっちのまともそうなクッキー取って」	　pass me that normal-looking cookie over there.」
+224013	Masou Shizuka	帽子なし／ため息	「……ちょっと乱義、	「...Hey Rangi,
+224014	+		　そっちのまともそうなクッキー取って」	　pass me that normal-looking cookie over there.」
 
-224015	Yamamoto Rangi	「はあ、悪夢みたいな光景だ……」	「Sigh, what a nightmare scene...」
+224015	Yamamoto Rangi	基本	「はあ、悪夢みたいな光景だ……」	「Sigh, what a nightmare scene...」
 
-224016	Miracle Tor	「ふははは、世の中には、	「Fuhahaha, in this world there are
-224017	+	　お前らの知らぬものが山とある。	　mountains of things you don't know.
-224018	+	　今日はせいぜい楽しむがいい」	　Enjoy yourselves to the fullest today.」
+224016	Miracle Tor	ライドオン／笑顔	「ふははは、世の中には、	「Fuhahaha, in this world there are
+224017	+		　お前らの知らぬものが山とある。	　mountains of things you don't know.
+224018	+		　今日はせいぜい楽しむがいい」	　Enjoy yourselves to the fullest today.」
 
-224019	-	ミラクル主催のお茶会は、まるで色彩のパレード、	The tea party hosted by Miracle was like a parade of colors,
-224020	+	おもちゃ箱を引っ繰り返したような賑やかさだった。	as lively as if a toy box had been turned upside down.
+224019	-		ミラクル主催のお茶会は、まるで色彩のパレード、	The tea party hosted by Miracle was like a parade of colors,
+224020	+		おもちゃ箱を引っ繰り返したような賑やかさだった。	as lively as if a toy box had been turned upside down.
 
-224021	-	…………	............
+224021	-		…………	............
 
-224022	-	……	......
+224022	-		……	......
 
-224023	Yamamoto Rangi	「ところでミラクルさん、	「By the way, Miracle-san,
-224024	+	　ずっと気になっていたのですが……」	　there's something I've been wondering about...」
+224023	Yamamoto Rangi	基本	「ところでミラクルさん、	「By the way, Miracle-san,
+224024	+		　ずっと気になっていたのですが……」	　there's something I've been wondering about...」
 
-224025	Yamamoto Rangi	「ここは一体どこなのですか？」	「Where exactly is this place?」
+224025	Yamamoto Rangi		「ここは一体どこなのですか？」	「Where exactly is this place?」
 
-224026	Miracle Tor	「次元と次元の狭間に作った余の隠れ家よ……	「This is my hideout, built in the gap between dimensions...
-224027	+	　用がないときは基本的にここで過ごしている」	　When I have nothing to do, I basically stay here.」
+224026	Miracle Tor	ライドオン	「次元と次元の狭間に作った余の隠れ家よ……	「This is my hideout, built in the gap between dimensions...
+224027	+		　用がないときは基本的にここで過ごしている」	　When I have nothing to do, I basically stay here.」
 
-224028	Miracle Tor	「ここからお前達の活躍は常に覗いていたぞ」	「I've been watching all your adventures from here.」
+224028	Miracle Tor		「ここからお前達の活躍は常に覗いていたぞ」	「I've been watching all your adventures from here.」
 
-224029	Miracle Tor	「そろそろ人数も揃ってきたことだし、	「Now that you've gathered quite a number of people,
-224030	+	　お茶会でも開き愛娘の紹介でも、	　I thought I'd hold a tea party and introduce my beloved daughters,
-224031	+	　と考えたのだがな……」	　or something like that...」
+224029	Miracle Tor		「そろそろ人数も揃ってきたことだし、	「Now that you've gathered quite a number of people,
+224030	+		　お茶会でも開き愛娘の紹介でも、	　I thought I'd hold a tea party and introduce my beloved daughters,
+224031	+		　と考えたのだがな……」	　or something like that...」
 
-224032	Miracle Tor	「まったく……	「Good grief...
-224033	+	　お茶会への招待をあれほど拒みおって。	　You refused my invitation to the tea party so stubbornly.
-224034	+	　乱暴な手を使わざるを得なかったではないか」	　I had no choice but to use forceful methods.」
+224032	Miracle Tor	ライドオン／目閉じ	「まったく……	「Good grief...
+224033	+		　お茶会への招待をあれほど拒みおって。	　You refused my invitation to the tea party so stubbornly.
+224034	+		　乱暴な手を使わざるを得なかったではないか」	　I had no choice but to use forceful methods.」
 
-224035	Nagata-kun	「もしかして異界ゲートが	「Wait, was that otherworld gate
-224036	+	　開いてたアレってお茶会のお誘い？	　that opened an invitation to the tea party?
-224037	?	　…………え？」	　............Eh?」
+224035	Nagata-kun	基本	「もしかして異界ゲートが	「Wait, was that otherworld gate
+224036	+		　開いてたアレってお茶会のお誘い？	　that opened an invitation to the tea party?
+224037	?		　…………え？」	　............Eh?」
 
-224038	Masou Shizuka	「あんまり深く考えるのはやめなさい。	「Don't think too deeply about it.
-224039	+	　こういう人だから」	　That's just how this person is.」
+224038	Masou Shizuka	帽子なし	「あんまり深く考えるのはやめなさい。	「Don't think too deeply about it.
+224039	+		　こういう人だから」	　That's just how this person is.」
 
-224040	Zance Leazas	「俺らのこと、ずっと見てたってのか？」	「You've been watching us the whole time?」
+224040	Zance Leazas	基本	「俺らのこと、ずっと見てたってのか？」	「You've been watching us the whole time?」
 
-224041	Miracle Tor	「うむ、特に＜エール＞・モフス。	「Yes, especially you, ＜エール＞ Mofus.
-224042	+	　お前のことをずっと気にしていた」	　I've been particularly interested in you.」
+224041	Miracle Tor	ライドオン	「うむ、特に＜エール＞・モフス。	「Yes, especially you, ＜エール＞ Mofus.
+224042	+		　お前のことをずっと気にしていた」	　I've been particularly interested in you.」
 
-224043	-	あなたは突然名を呼ばれ、	You were suddenly called by name,
-224044	+	銀色の紅茶を飲むのをやめて顔を上げた。	stopped drinking the silver tea, and looked up.
+224043	-		あなたは突然名を呼ばれ、	You were suddenly called by name,
+224044	+		銀色の紅茶を飲むのをやめて顔を上げた。	stopped drinking the silver tea, and looked up.
 
-224045	Miracle Tor	「ふふん……」	「Fufun...」
+224045	Miracle Tor		「ふふん……」	「Fufun...」
 
-224046	-	ミラクルにニヤリと頬を歪められ、	Miracle grinned with a twisted cheek,
-224047	+	なんとなくあなたは	and for some reason you
-224048	+	全てを見透かされたような気分になった。	felt as if everything had been seen through.
+224046	-		ミラクルにニヤリと頬を歪められ、	Miracle grinned with a twisted cheek,
+224047	+		なんとなくあなたは	and for some reason you
+224048	+		全てを見透かされたような気分になった。	felt as if everything had been seen through.
 
-224049	Miracle Tor	「ま、その話はまた後でとしよう。	「Well, let's talk about that later.
-224050	+	　余はこう見えて順番や形式にはこだわるのだ」	　I may look like this but I care about order and formality.」
+224049	Miracle Tor	ライドオン／目閉じ	「ま、その話はまた後でとしよう。	「Well, let's talk about that later.
+224050	+		　余はこう見えて順番や形式にはこだわるのだ」	　I may look like this but I care about order and formality.」
 
-224051	Miracle Tor	「さて、＜エール＞・モフス。	「Now then, ＜エール＞ Mofus.
-224052	+	　余に渡すものがあるのではないか？」	　Don't you have something to give me?」
+224051	Miracle Tor	ライドオン	「さて、＜エール＞・モフス。	「Now then, ＜エール＞ Mofus.
+224052	+		　余に渡すものがあるのではないか？」	　Don't you have something to give me?」
 
-224053	Miracle Tor	「余のような重要人物にそれぞれ渡している、	「The thing you're giving to important people like me,
-224054	+	　アレがあるだろう？　うん？」	　you have it, right? Hmm?」
+224053	Miracle Tor		「余のような重要人物にそれぞれ渡している、	「The thing you're giving to important people like me,
+224054	+		　アレがあるだろう？　うん？」	　you have it, right? Hmm?」
 
-224055	Nagata-kun	「あっ、各国の偉い人に渡す紹介状のことかな」	「Ah, you mean the introduction letters for important people of each country?」
+224055	Nagata-kun	基本	「あっ、各国の偉い人に渡す紹介状のことかな」	「Ah, you mean the introduction letters for important people of each country?」
 
-224056	Nagata-kun	「……って、この人宛てって、あったっけ？」	「...Wait, was there one addressed to this person?」
+224056	Nagata-kun		「……って、この人宛てって、あったっけ？」	「...Wait, was there one addressed to this person?」
 
-224057	-	あなたは鞄の中を探してみた。	You searched inside your bag.
+224057	-		あなたは鞄の中を探してみた。	You searched inside your bag.
 
-224058	El Mofus	「…………。」	「............」
-224059	Miracle Tor	「はっはっはっ、父と母に似て	「Hah hah hah, just like your father and mother,
-224060	+	　冗談が好きなのだな、貴様は」	　you love jokes.」
+224058	El Mofus		「…………。」	「............」
+224059	Miracle Tor	ライドオン／笑顔	「はっはっはっ、父と母に似て	「Hah hah hah, just like your father and mother,
+224060	+		　冗談が好きなのだな、貴様は」	　you love jokes.」
 
-224061	Miracle Tor	「この世界の王にして覇者である余に、	「There is no way a letter of introduction wouldn't be sent
-224062	+	　紹介状が送られぬわけがないだろう。	　to me, the king and conqueror of this world.
-224063	+	　もう一度探してみろ」	　Search again.」
+224061	Miracle Tor	ライドオン／目閉じ	「この世界の王にして覇者である余に、	「There is no way a letter of introduction wouldn't be sent
+224062	+		　紹介状が送られぬわけがないだろう。	　to me, the king and conqueror of this world.
+224063	+		　もう一度探してみろ」	　Search again.」
 
-224064	-	あなたは言われるがまま、もう一度探してみた。	You obediently searched once more.
+224064	-		あなたは言われるがまま、もう一度探してみた。	You obediently searched once more.
 
-224065	Nagata-kun	「あった？」	「Found it?」
+224065	Nagata-kun	基本	「あった？」	「Found it?」
 
-224066	El Mofus	「…………。」	「............」
-224067	Miracle Tor	「ない？」	「Not there?」
+224066	El Mofus		「…………。」	「............」
+224067	Miracle Tor	ライドオン／真剣	「ない？」	「Not there?」
 
-224068	Miracle Tor	「ないのか？　本当にか？」	「Really not there? Truly?」
+224068	Miracle Tor		「ないのか？　本当にか？」	「Really not there? Truly?」
 
-224069	Miracle Tor	「…………」	「............」
+224069	Miracle Tor		「…………」	「............」
 
-224070	-	なんとなくその場は少し寒い雰囲気になった。	For some reason the atmosphere became slightly chilly.
+224070	-		なんとなくその場は少し寒い雰囲気になった。	For some reason the atmosphere became slightly chilly.
 
-224071	Miracle Tor	「クッ……！」	「Kuh...!」
+224071	Miracle Tor	ライドオン／怒り	「クッ……！」	「Kuh...!」
 
-224072	Miracle Tor	「はーーーっはっはっはっはっ！	「Haaaaah hah hah hah hah!
-224073	+	　まったく、あの法王め！	　That damn Pope!
-224074	+	　もっとも大事な余への紹介状を忘れるとは！」	　Forgetting the most important introduction letter for me!」
+224072	Miracle Tor	ライドオン／笑顔	「はーーーっはっはっはっはっ！	「Haaaaah hah hah hah hah!
+224073	+		　まったく、あの法王め！	　That damn Pope!
+224074	+		　もっとも大事な余への紹介状を忘れるとは！」	　Forgetting the most important introduction letter for me!」
 
-224075	Miracle Tor	「ククク、法王は真面目で冷静そうに見えて、	「Kukuku, the Pope looks serious and calm,
-224076	+	　あれでやることが大雑把だからな。	　but he's actually quite sloppy with things.
-224077	+	　まあそれくらいは大目に見てやるが王の器か」	　Well, I'll overlook that much. That's the capacity of a king.」
+224075	Miracle Tor	ライドオン／嘲笑	「ククク、法王は真面目で冷静そうに見えて、	「Kukuku, the Pope looks serious and calm,
+224076	+		　あれでやることが大雑把だからな。	　but he's actually quite sloppy with things.
+224077	+		　まあそれくらいは大目に見てやるが王の器か」	　Well, I'll overlook that much. That's the capacity of a king.」
 
-224078	Miracle Tor	「はっはっはっはっはっはっ！」	「Hah hah hah hah hah hah!」
+224078	Miracle Tor	ライドオン／笑顔	「はっはっはっはっはっはっ！」	「Hah hah hah hah hah hah!」
 
-224079	Nagata-kun	「…………」	「............」
+224079	Nagata-kun	基本	「…………」	「............」
 
-224080	Nagata-kun	「＜エール＞、やばい……」	「＜エール＞, this is bad...」
+224080	Nagata-kun		「＜エール＞、やばい……」	「＜エール＞, this is bad...」
 
-224081	Nagata-kun	「この人、変な人だ」	「This person is weird.」
+224081	Nagata-kun		「この人、変な人だ」	「This person is weird.」
 
-224082	Masou Shizuka	「……みんな、知ってることよ」	「...Everyone already knows that.」
+224082	Masou Shizuka	帽子なし	「……みんな、知ってることよ」	「...Everyone already knows that.」
 
-224083	Miracle Tor	「しかし……」	「However...」
+224083	Miracle Tor	ライドオン	「しかし……」	「However...」
 
-224084	Miracle Tor	「各国の指導者達の協力のもと、	「With the cooperation of the leaders of each country,
-224085	+	　魔王の子達の力を結集し、魔王を討つ、か……」	　gathering the power of the Demon King's children to defeat the Demon King...」
+224084	Miracle Tor		「各国の指導者達の協力のもと、	「With the cooperation of the leaders of each country,
+224085	+		　魔王の子達の力を結集し、魔王を討つ、か……」	　gathering the power of the Demon King's children to defeat the Demon King...」
 
-224086	Miracle Tor	「魔王ランスは凶悪にして強敵……	「Demon King Rance is a vicious and formidable enemy...
-224087	+	　人類は軍隊を用いても敗北した歴史を持つ」	　Humanity has a history of defeat even when using armies.」
+224086	Miracle Tor	ライドオン／真剣	「魔王ランスは凶悪にして強敵……	「Demon King Rance is a vicious and formidable enemy...
+224087	+		　人類は軍隊を用いても敗北した歴史を持つ」	　Humanity has a history of defeat even when using armies.」
 
-224088	Miracle Tor	「才能限界のない魔王の子達であるならば、	「If it's the Demon King's children who have no talent limit,
-224089	+	　魔王にも対抗できるのではないか、と……	　perhaps they can oppose the Demon King...
-224090	+	　今まで誰しもがそう考えてきた」	　That's what everyone has thought until now.」
+224088	Miracle Tor		「才能限界のない魔王の子達であるならば、	「If it's the Demon King's children who have no talent limit,
+224089	+		　魔王にも対抗できるのではないか、と……	　perhaps they can oppose the Demon King...
+224090	+		　今まで誰しもがそう考えてきた」	　That's what everyone has thought until now.」
 
-224091	Miracle Tor	「この意味が分かるか？」	「Do you understand what this means?」
+224091	Miracle Tor	ライドオン	「この意味が分かるか？」	「Do you understand what this means?」
 
-224092	Zance Leazas	「そーゆー試すような言い方は反吐が出る。	「That testing way of speaking makes me wanna puke.
-224093	+	　ハッキリ言え」	　Say it clearly.」
+224092	Zance Leazas	基本	「そーゆー試すような言い方は反吐が出る。	「That testing way of speaking makes me wanna puke.
+224093	+		　ハッキリ言え」	　Say it clearly.」
 
-224094	Miracle Tor	「お前らは世界に唯一残された希望、	「You are the only remaining hope for this world,
-224095	+	　ということだ」	　that's what it means.」
+224094	Miracle Tor	ライドオン	「お前らは世界に唯一残された希望、	「You are the only remaining hope for this world,
+224095	+		　ということだ」	　that's what it means.」
 
-224096	Nagata-kun	「えっ、俺らそんな重要なポジだったの！？」	「Eh, we were in such an important position!?」
+224096	Nagata-kun	基本	「えっ、俺らそんな重要なポジだったの！？」	「Eh, we were in such an important position!?」
 
-224097	Miracle Tor	「無論。	「Of course.
-224098	+	　もしもお前らが道半ばで倒れることがあれば、	　If you fall halfway on your path,
-224099	+	　それは人類の完全敗北を意味している」	　it would mean complete defeat for humanity.」
+224097	Miracle Tor	ライドオン	「無論。	「Of course.
+224098	+		　もしもお前らが道半ばで倒れることがあれば、	　If you fall halfway on your path,
+224099	+		　それは人類の完全敗北を意味している」	　it would mean complete defeat for humanity.」
 
-224100	Miracle Tor	「待っているのは……	「What awaits is...
-224101	+	　人類が魔物に蹂躙され奴隷にされ、	　humanity trampled by monsters, turned into slaves,
-224102	+	　嬲られる地獄だ」	　and toyed with in hell.」
+224100	Miracle Tor		「待っているのは……	「What awaits is...
+224101	+		　人類が魔物に蹂躙され奴隷にされ、	　humanity trampled by monsters, turned into slaves,
+224102	+		　嬲られる地獄だ」	　and toyed with in hell.」
 
-224103	Miracle Tor	「全人類の希望はお前ら全員に託された」	「The hopes of all humanity have been entrusted to all of you.」
+224103	Miracle Tor		「全人類の希望はお前ら全員に託された」	「The hopes of all humanity have been entrusted to all of you.」
 
-224104	Miracle Tor	「そのこと、努々忘れぬようにな」	「Never forget that.」
+224104	Miracle Tor	ライドオン／目閉じ	「そのこと、努々忘れぬようにな」	「Never forget that.」
 
-224105	Nagata-kun	「……うあ」	「...Uwa」
+224105	Nagata-kun	基本	「……うあ」	「...Uwa」
 
-224106	-	今まで考えたこともなかったような、	A heavy topic he had never thought about before,
-224107	+	重い話を前に長田君は言葉を失った。	left Nagata-kun at a loss for words.
+224106	-		今まで考えたこともなかったような、	A heavy topic he had never thought about before,
+224107	+		重い話を前に長田君は言葉を失った。	left Nagata-kun at a loss for words.
 
-224108	Masou Shizuka	「どうして今急に、あんたがそんな話を？」	「Why are you suddenly talking about this now?」
+224108	Masou Shizuka	帽子なし	「どうして今急に、あんたがそんな話を？」	「Why are you suddenly talking about this now?」
 
-224109	Miracle Tor	「ふっ、仕方あるまい」	「Fuh, it can't be helped.」
+224109	Miracle Tor	ライドオン／目閉じ	「ふっ、仕方あるまい」	「Fuh, it can't be helped.」
 
-224110	Miracle Tor	「見たところお前らはそんな話は一切せず、	「From what I see, you haven't talked about this at all,
-224111	+	　呑気な冒険を送っているだけ。	　just enjoying carefree adventures.
-224112	+	　誰かが言ってもいい頃だろう」	　It's about time someone said it.」
+224110	Miracle Tor	ライドオン	「見たところお前らはそんな話は一切せず、	「From what I see, you haven't talked about this at all,
+224111	+		　呑気な冒険を送っているだけ。	　just enjoying carefree adventures.
+224112	+		　誰かが言ってもいい頃だろう」	　It's about time someone said it.」
 
-224113	Miracle Tor	「お前が意図的に隠しているな？	「You're intentionally hiding it, aren't you?
-224114	+	　リセット・カラー」	　Reset Kalar.」
+224113	Miracle Tor	ライドオン／嘲笑	「お前が意図的に隠しているな？	「You're intentionally hiding it, aren't you?
+224114	+		　リセット・カラー」	　Reset Kalar.」
 
-224115	Reset Kalar	「うあっ、ばれてる……」	「Uwaa, you found out...」
+224115	Reset Kalar	たははー	「うあっ、ばれてる……」	「Uwaa, you found out...」
 
-224116	Reset Kalar	「う……はい、そうです……」	「U... Yes, that's right...」
+224116	Reset Kalar	基本	「う……はい、そうです……」	「U... Yes, that's right...」
 
-224117	Miracle Tor	「ふっ、お前は弟や妹達を甘やかす悪い癖があるな」	「Fuh, you have a bad habit of spoiling your younger brothers and sisters.」
+224117	Miracle Tor	ライドオン	「ふっ、お前は弟や妹達を甘やかす悪い癖があるな」	「Fuh, you have a bad habit of spoiling your younger brothers and sisters.」
 
-224118	Reset Kalar	「甘やかすというか……	「It's not exactly spoiling...
-224119	+	　もちろん、人類の希望や	　Of course, humanity's hope and
-224120	+	　そういうのも大事だけど……」	　that stuff is important too, but...」
+224118	Reset Kalar	基本	「甘やかすというか……	「It's not exactly spoiling...
+224119	+		　もちろん、人類の希望や	　Of course, humanity's hope and
+224120	+		　そういうのも大事だけど……」	　that stuff is important too, but...」
 
-224121	Reset Kalar	「お姉ちゃんとしては、みんなには自由に、	「As their big sister, I want everyone to freely
-224122	+	　自分がしたいことをして欲しいなって」	　do what they want to do.」
+224121	Reset Kalar		「お姉ちゃんとしては、みんなには自由に、	「As their big sister, I want everyone to freely
+224122	+		　自分がしたいことをして欲しいなって」	　do what they want to do.」
 
-224123	Reset Kalar	「だから今回のことも、	「That's why for this trip too,
-224124	+	　家族旅行くらいに考えて欲しいの」	　I want you to think of it as a family vacation.」
+224123	Reset Kalar		「だから今回のことも、	「That's why for this trip too,
+224124	+		　家族旅行くらいに考えて欲しいの」	　I want you to think of it as a family vacation.」
 
-224125	Reset Kalar	「その点、ザンスちゃんなんかは	「In that regard, Zance-chan for example
-224126	+	　まったく心配してないけど」	　I'm not worried at all.」
+224125	Reset Kalar		「その点、ザンスちゃんなんかは	「In that regard, Zance-chan for example
+224126	+		　まったく心配してないけど」	　I'm not worried at all.」
 
-224127	Zance Leazas	「当たり前だ。	「Obviously.
-224128	+	　どーしてこの世界の王たる俺様が、	　Why should I, the king of this world,
-224129	+	　ポンコツな大人共のケツ拭かにゃならんのだ」	　have to wipe the asses of these useless adults?」
+224127	Zance Leazas		「当たり前だ。	「Obviously.
+224128	+		　どーしてこの世界の王たる俺様が、	　Why should I, the king of this world,
+224129	+		　ポンコツな大人共のケツ拭かにゃならんのだ」	　have to wipe the asses of these useless adults?」
 
-224130	Zance Leazas	「俺にとって魔王ランスは邪魔だ！	「To me, Demon King Rance is just an annoyance!
-224131	+	　だから殺す！」	　So I'll kill him!」
+224130	Zance Leazas	不満	「俺にとって魔王ランスは邪魔だ！	「To me, Demon King Rance is just an annoyance!
+224131	+		　だから殺す！」	　So I'll kill him!」
 
-224132	Zance Leazas	「それだけだ」	「That's all.」
+224132	Zance Leazas	基本	「それだけだ」	「That's all.」
 
-224133	Reset Kalar	「こ、殺すのはちょっと……」	「K-killing him is a bit...」
+224133	Reset Kalar		「こ、殺すのはちょっと……」	「K-killing him is a bit...」
 
-224134	Miracle Tor	「ふははははははははははは！」	「Fuhahahahahahahahaha!」
+224134	Miracle Tor	ライドオン／笑顔	「ふははははははははははは！」	「Fuhahahahahahahahaha!」
 
-224135	Miracle Tor	「うむ、それでいい、それでいい。	「Yes, that's good, that's good.
-224136	+	　百点満点の回答だぞ、ザンス・リーザス」	　A perfect 100-point answer, Zance Leazas.」
+224135	Miracle Tor		「うむ、それでいい、それでいい。	「Yes, that's good, that's good.
+224136	+		　百点満点の回答だぞ、ザンス・リーザス」	　A perfect 100-point answer, Zance Leazas.」
 
-224137	Zance Leazas	「俺に点数つけんな、しばくぞ……」	「Don't score me, I'll beat you up...」
+224137	Zance Leazas	基本	「俺に点数つけんな、しばくぞ……」	「Don't score me, I'll beat you up...」
 
-224138	Miracle Tor	「自分がしたいことは何か、	「What do you want to do,
-224139	+	　それを意識するのはとても大事だ」	　being conscious of that is very important.」
+224138	Miracle Tor	ライドオン／目閉じ	「自分がしたいことは何か、	「What do you want to do,
+224139	+		　それを意識するのはとても大事だ」	　being conscious of that is very important.」
 
-224140	Miracle Tor	「そこで、お前に話が移る」	「Now, the talk shifts to you.」
+224140	Miracle Tor	ライドオン	「そこで、お前に話が移る」	「Now, the talk shifts to you.」
 
-224141	El Mofus	「…………。」	「............」
+224141	El Mofus	基本	「…………。」	「............」
 
-224142	-	ミラクルはあなたをハッキリと見つめていた。	Miracle was staring straight at you.
+224142	-		ミラクルはあなたをハッキリと見つめていた。	Miracle was staring straight at you.
 
-224143	Miracle Tor	「お前はこの冒険を通して何がしたい？	「What do you want to do through this adventure?
-224144	+	　何をするべきと考える？」	　What do you think you should do?」
+224143	Miracle Tor	ライドオン	「お前はこの冒険を通して何がしたい？	「What do you want to do through this adventure?
+224144	+		　何をするべきと考える？」	　What do you think you should do?」
 
-224145	Miracle Tor	「人に触れ、世界を歩き、冒険を続け、	「Touching people, walking the world, continuing the adventure,
-224146	+	　お前がしたいことは何になった？」	　what have you come to want?」
+224145	Miracle Tor		「人に触れ、世界を歩き、冒険を続け、	「Touching people, walking the world, continuing the adventure,
+224146	+		　お前がしたいことは何になった？」	　what have you come to want?」
 
-224147	Miracle Tor	「すぐに答えを出す必要はない。	「You don't need to answer right away.
-224148	+	　少し考えておくだけでいい」	　Just think about it a little.」
+224147	Miracle Tor		「すぐに答えを出す必要はない。	「You don't need to answer right away.
+224148	+		　少し考えておくだけでいい」	　Just think about it a little.」
 
-224149	Miracle Tor	「お茶会の参加費だとでも思っておけ」	「Think of it as the participation fee for the tea party.」
+224149	Miracle Tor		「お茶会の参加費だとでも思っておけ」	「Think of it as the participation fee for the tea party.」
 
-224150	Miracle Tor	「ふふふ……」	「Fufufu...」
+224150	Miracle Tor	ライドオン／目閉じ	「ふふふ……」	「Fufufu...」
 
-224151	-	ミラクルは話の最後をそう締めくくった。	Miracle concluded the talk that way.
+224151	-		ミラクルは話の最後をそう締めくくった。	Miracle concluded the talk that way.

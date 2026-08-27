@@ -3,246 +3,246 @@
 * Nagata-kun	長田君２	Male
 * El Mofus	エール２	Player's choice
 
-195595	Rocky Bank	「ま、負けた……」	「I, I lost...」
+195595	Rocky Bank	基本	「ま、負けた……」	「I, I lost...」
 
-195596	-	力尽きたのか、ロッキーがその場に倒れる。	Exhausted, Rocky collapsed on the spot.
+195596	-		力尽きたのか、ロッキーがその場に倒れる。	Exhausted, Rocky collapsed on the spot.
 
-195597	Nagata-kun	「ほーっ、良かったぁ……	「Phew, thank goodness...
-195598	+	　勝てたぁ……」	　We won...」
+195597	Nagata-kun		「ほーっ、良かったぁ……	「Phew, thank goodness...
+195598	+		　勝てたぁ……」	　We won...」
 
-195599	El Mofus	「…………。」	「............」
+195599	El Mofus		「…………。」	「............」
 
-195600	Nagata-kun	「お、どうした、＜エール＞？」	「Oh, what's up, ＜エール＞?」
+195600	Nagata-kun		「お、どうした、＜エール＞？」	「Oh, what's up, ＜エール＞?」
 
-195601	-	あなたはそっと倒れたロッキーを窺う。	You quietly looked at the fallen Rocky.
+195601	-		あなたはそっと倒れたロッキーを窺う。	You quietly looked at the fallen Rocky.
 
-195602	El Mofus	「…………。」	「............」
-195603	-	と、あなたが動こうとすると――	Just as you moved to act――
+195602	El Mofus		「…………。」	「............」
+195603	-		と、あなたが動こうとすると――	Just as you moved to act――
 
-195604	Rocky Bank	「うおおおおおおおおおおおお！！！！」	「Uoooooooohhhhh!!!!」
+195604	Rocky Bank	男泣き	「うおおおおおおおおおおおお！！！！」	「Uoooooooohhhhh!!!!」
 
-195605	-	ロッキーが突然立ち上がって叫びだした。	Rocky suddenly stood up and shouted.
+195605	-		ロッキーが突然立ち上がって叫びだした。	Rocky suddenly stood up and shouted.
 
-195606	Nagata-kun	「ひーっ！？　なになになに！？」	「Hiee!? What what what!?」
+195606	Nagata-kun	基本	「ひーっ！？　なになになに！？」	「Hiee!? What what what!?」
 
-195607	Rocky Bank	「お、おら、負けちまっただー！	「I, I lost-!」
-195608	+	　ランスJr.様に申し訳ないだー！」	　I'm so sorry to Rance Jr.-sama-!」
+195607	Rocky Bank	男泣き	「お、おら、負けちまっただー！	「I, I lost-!」
+195608	+		　ランスJr.様に申し訳ないだー！」	　I'm so sorry to Rance Jr.-sama-!」
 
-195609	Rocky Bank	「おら！　どうしたらいいだー！？」	「What should I do-!?」
+195609	Rocky Bank		「おら！　どうしたらいいだー！？」	「What should I do-!?」
 
-195610	Rocky Bank	「はっ！　そ、そうだ！」	「Hah! Th, that's right!」
+195610	Rocky Bank	ガーン	「はっ！　そ、そうだ！」	「Hah! Th, that's right!」
 
-195611	Rocky Bank	「ももも、申し訳ありませんでしただー！」	「I, I'm terribly sorry-!」
+195611	Rocky Bank	とほほ	「ももも、申し訳ありませんでしただー！」	「I, I'm terribly sorry-!」
 
-195612	-	ロッキーががばーっとあなたに土下座してきた。	Rocky suddenly prostrated himself before you.
+195612	-		ロッキーががばーっとあなたに土下座してきた。	Rocky suddenly prostrated himself before you.
 
-195613	Rocky Bank	「おらが代わりに謝るから、	「I'll apologize in his place,
-195614	+	　ランスJr.様は許して欲しいだー！」	　please forgive Rance Jr.-sama-!」
+195613	Rocky Bank		「おらが代わりに謝るから、	「I'll apologize in his place,
+195614	+		　ランスJr.様は許して欲しいだー！」	　please forgive Rance Jr.-sama-!」
 
-195615	Rocky Bank	「ああ、いやいや！	「Ah, no no!
-195616	+	　おらなんかの命で良ければ、	　If my life is enough,
-195617	+	　どうぞ奪ってやって欲しいだ！」	　please take it!」
+195615	Rocky Bank		「ああ、いやいや！	「Ah, no no!
+195616	+		　おらなんかの命で良ければ、	　If my life is enough,
+195617	+		　どうぞ奪ってやって欲しいだ！」	　please take it!」
 
-195618	Rocky Bank	「だから、なにとぞ！	「So please!
-195619	+	　あの方だけはー！」	　Just spare him-!」
+195618	Rocky Bank	男泣き	「だから、なにとぞ！	「So please!
+195619	+		　あの方だけはー！」	　Just spare him-!」
 
-195620	Nagata-kun	「な、なんなのこのおっさん……	「W, what is with this old man...
-195621	+	　さっきまでとキャラも違うし……」	　His personality changed completely...」
+195620	Nagata-kun	基本	「な、なんなのこのおっさん……	「W, what is with this old man...
+195621	+		　さっきまでとキャラも違うし……」	　His personality changed completely...」
 
-195622	Rocky Bank	「あっ……さっきまでのは、	「Ah... earlier I was
-195623	+	　おらの田舎くさい喋りが気に入らないと、	　forced to speak in a more refined way
-195624	+	　ランスJr.様に強制されて……」	　because Rance Jr.-sama didn't like my country accent...」
+195622	Rocky Bank	とほほ	「あっ……さっきまでのは、	「Ah... earlier I was
+195623	+		　おらの田舎くさい喋りが気に入らないと、	　forced to speak in a more refined way
+195624	+		　ランスJr.様に強制されて……」	　because Rance Jr.-sama didn't like my country accent...」
 
-195625	Rocky Bank	「おら、本当はこっちが素なんだす……」	「This is my real way of speaking...」
+195625	Rocky Bank		「おら、本当はこっちが素なんだす……」	「This is my real way of speaking...」
 
-195626	Nagata-kun	「……急に親しみやすくなった」	「...Suddenly became much more approachable.」
+195626	Nagata-kun	基本	「……急に親しみやすくなった」	「...Suddenly became much more approachable.」
 
-195627	Rocky Bank	「はあ、そうだすか……？」	「Haa, is that so...?」
+195627	Rocky Bank	とほほ	「はあ、そうだすか……？」	「Haa, is that so...?」
 
-195628	Nagata-kun	「＜エール＞、＜エール＞、	「＜エール＞, ＜エール＞,
-195629	+	　なんかこいつ変な奴だよ……」	　this guy is weird...」
+195628	Nagata-kun	基本	「＜エール＞、＜エール＞、	「＜エール＞, ＜エール＞,
+195629	+		　なんかこいつ変な奴だよ……」	　this guy is weird...」
 
-195630	Rocky Bank	「？　どうしただすか？」	「? What's wrong?」
-195631	+	「ランスJr.様は……	「Rance Jr.-sama is...
-195632	+	　おらにとってとても大事な方の	　the child of a very important person to me,
-195633	+	　落とし子だすから……」	　so...」
+195630	Rocky Bank		「？　どうしただすか？」	「? What's wrong?」
+195631	+		「ランスJr.様は……	「Rance Jr.-sama is...
+195632	+		　おらにとってとても大事な方の	　the child of a very important person to me,
+195633	+		　落とし子だすから……」	　so...」
 
-195634	Nagata-kun	「大事な方の子って……	「Child of an important person...
-195635	+	　それ、もしかして……」	　Could that mean...」
+195634	Nagata-kun		「大事な方の子って……	「Child of an important person...
+195635	+		　それ、もしかして……」	　Could that mean...」
 
-195636	Rocky Bank	「お、おらのことだすか！？」	「M, me!?」
+195636	Rocky Bank		「お、おらのことだすか！？」	「M, me!?」
 
-195637	Rocky Bank	「はあ……どこから説明したものか……」	「Haa... where should I start...」
+195637	Rocky Bank		「はあ……どこから説明したものか……」	「Haa... where should I start...」
 
-195638	Rocky Bank	「な、何者って……	「What am I...
-195639	+	　おら、大したもんじゃないだすよ？」	　I'm nothing special.」
+195638	Rocky Bank		「な、何者って……	「What am I...
+195639	+		　おら、大したもんじゃないだすよ？」	　I'm nothing special.」
 
-195640	Rocky Bank	「おら……元々は今は魔王である、	「I... originally served
-195641	+	　ランス様の召使いさせてもらってただ」	　as a servant to Lord Rance, who is now the Demon King.」
+195640	Rocky Bank		「おら……元々は今は魔王である、	「I... originally served
+195641	+		　ランス様の召使いさせてもらってただ」	　as a servant to Lord Rance, who is now the Demon King.」
 
-195642	Nagata-kun	「ええっ！？	「Ehh!?」
-195643	+	　お、おっさん、意外とすごい人……」	　Old man, you're surprisingly important...」
+195642	Nagata-kun		「ええっ！？	「Ehh!?」
+195643	+		　お、おっさん、意外とすごい人……」	　Old man, you're surprisingly important...」
 
-195644	Rocky Bank	「そ、そんなことないだす……	「N, not at all...
-195645	+	　召使いと言っても	　Even calling myself a servant
-195646	+	　おらが勝手にそう言ってただけで……」	　was just me saying it...」
+195644	Rocky Bank		「そ、そんなことないだす……	「N, not at all...
+195645	+		　召使いと言っても	　Even calling myself a servant
+195646	+		　おらが勝手にそう言ってただけで……」	　was just me saying it...」
 
-195647	Rocky Bank	「それに……	「Besides...
-195648	+	　魔王になったのをきっかけに、	　When he became Demon King,
-195649	+	　本格的に捨てられちまって……」	　he properly abandoned me...」
+195647	Rocky Bank		「それに……	「Besides...
+195648	+		　魔王になったのをきっかけに、	　When he became Demon King,
+195649	+		　本格的に捨てられちまって……」	　he properly abandoned me...」
 
-195650	Rocky Bank	「う、うう、ランス様ぁ……」	「U, uuu, Lord Rance...」
+195650	Rocky Bank	とほほ	「う、うう、ランス様ぁ……」	「U, uuu, Lord Rance...」
 
-195651	Rocky Bank	「でも、おら色々と考えただ……」	「But I thought about many things...
+195651	Rocky Bank		「でも、おら色々と考えただ……」	「But I thought about many things...
 
-195652	Rocky Bank	「ランス様に仕えることが出来ないなら、	「If I can't serve Lord Rance,
-195653	+	　その子達に仕えることにしようって……」	　then I'll serve his children...」
+195652	Rocky Bank	基本	「ランス様に仕えることが出来ないなら、	「If I can't serve Lord Rance,
+195653	+		　その子達に仕えることにしようって……」	　then I'll serve his children...」
 
-195654	Rocky Bank	「魔王の子に仕えるのが、	「Serving the Demon King's children
-195655	+	　今のおらの使命だと思ってるだ……」	　is my current mission...」
+195654	Rocky Bank		「魔王の子に仕えるのが、	「Serving the Demon King's children
+195655	+		　今のおらの使命だと思ってるだ……」	　is my current mission...」
 
-195656	Rocky Bank	「そんな理由から、おら、	「For that reason,
-195657	+	　ランスJr.様の子分させてもらってるだ」	　I became Rance Jr.-sama's subordinate.」
+195656	Rocky Bank		「そんな理由から、おら、	「For that reason,
+195657	+		　ランスJr.様の子分させてもらってるだ」	　I became Rance Jr.-sama's subordinate.」
 
-195658	Nagata-kun	「魔王の子……って……」	「Demon King's child... you mean...」
+195658	Nagata-kun		「魔王の子……って……」	「Demon King's child... you mean...」
 
-195659	-	チラリと長田君があなたを見た。	Nagata-kun glanced at you.
+195659	-		チラリと長田君があなたを見た。	Nagata-kun glanced at you.
 
-195660	El Mofus	「…………。」	「............」
-195661	Rocky Bank	「ええっ！？」	「Ehh!?」
+195660	El Mofus		「…………。」	「............」
+195661	Rocky Bank	ガーン	「ええっ！？」	「Ehh!?」
 
-195662	-	あなたは、自分が冒険している理由を	You briefly explained
-195663	+	簡単に説明することにした。	the reason for your adventure.
+195662	-		あなたは、自分が冒険している理由を	You briefly explained
+195663	+		簡単に説明することにした。	the reason for your adventure.
 
-195664	-	…………	............
+195664	-		…………	............
 
-195665	-	……	...
+195665	-		……	...
 
-195666	Rocky Bank	「そ、そんな事情があっただすか……」	「S, so that's the situation...」
+195666	Rocky Bank	基本	「そ、そんな事情があっただすか……」	「S, so that's the situation...」
 
-195667	Nagata-kun	「そそ。	「Yeah yeah.
-195668	+	　＜エール＞ちゃんが魔王の子って、	　＜エール＞-chan being the Demon King's child,
-195669	+	　俺は半信半疑だけどね」	　I'm still half in doubt though.」
+195667	Nagata-kun		「そそ。	「Yeah yeah.
+195668	+		　＜エール＞ちゃんが魔王の子って、	　＜エール＞-chan being the Demon King's child,
+195669	+		　俺は半信半疑だけどね」	　I'm still half in doubt though.」
 
-195670	Rocky Bank	「い、いや、おらには分かるだ。	「N, no, I can tell.
-195671	+	　言われてみればランス様の面影があるだ」	　Now that you mention it, she resembles Lord Rance.」
+195670	Rocky Bank	楽	「い、いや、おらには分かるだ。	「N, no, I can tell.
+195671	+		　言われてみればランス様の面影があるだ」	　Now that you mention it, she resembles Lord Rance.」
 
-195672	Nagata-kun	「へえ〜、そうなんだ」	「Hee~, I see.」
+195672	Nagata-kun	基本	「へえ〜、そうなんだ」	「Hee~, I see.」
 
-195673	Rocky Bank	「…………」	「............」
+195673	Rocky Bank		「…………」	「............」
 
-195674	Rocky Bank	「よし！　おら、決めただ！」	「Alright! I've decided!」
+195674	Rocky Bank		「よし！　おら、決めただ！」	「Alright! I've decided!」
 
-195675	Rocky Bank	「＜エール＞様！　お願いだ！	「＜エール＞-sama! Please!
-195676	+	　どうかその旅におらも連れてって下さいだ！」	　Take me with you on that journey!」
+195675	Rocky Bank		「＜エール＞様！　お願いだ！	「＜エール＞-sama! Please!
+195676	+		　どうかその旅におらも連れてって下さいだ！」	　Take me with you on that journey!」
 
-195677	Nagata-kun	「えーーーっ！？」	「Ehhh!?」
+195677	Nagata-kun		「えーーーっ！？」	「Ehhh!?」
 
-195678	Rocky Bank	「他のことならともかく！	「For anything else maybe not,
-195679	+	　ランス様を助ける為となったら、	　but to help Lord Rance,
-195680	+	　おらもお手伝いしないわけにはいかないだ！」	　I must assist!」
+195678	Rocky Bank		「他のことならともかく！	「For anything else maybe not,
+195679	+		　ランス様を助ける為となったら、	　but to help Lord Rance,
+195680	+		　おらもお手伝いしないわけにはいかないだ！」	　I must assist!」
 
-195681	Rocky Bank	「この旅についていかないと、	「If I don't join this journey,
-195682	+	　きっとおら一生後悔しちまうだ！」	　I'll regret it for the rest of my life!」
+195681	Rocky Bank		「この旅についていかないと、	「If I don't join this journey,
+195682	+		　きっとおら一生後悔しちまうだ！」	　I'll regret it for the rest of my life!」
 
-195683	Rocky Bank	「どうか！　どうかお願いだ！」	「Please! I beg you!」
+195683	Rocky Bank		「どうか！　どうかお願いだ！」	「Please! I beg you!」
 
-195684	Nagata-kun	「だってよ……	「I mean...
-195685	+	　どうする、＜エール＞？」	　What do you think, ＜エール＞?」
-195686	Rocky Bank	「わーいわーい！	「Yay yay!
-195687	+	　はい、宜しくお願いしますだー！」	　Please treat me well!」
+195684	Nagata-kun		「だってよ……	「I mean...
+195685	+		　どうする、＜エール＞？」	　What do you think, ＜エール＞?」
+195686	Rocky Bank	楽	「わーいわーい！	「Yay yay!
+195687	+		　はい、宜しくお願いしますだー！」	　Please treat me well!」
 
-195688	Nagata-kun	「あーあー……	「Aah...
-195689	+	　いいのかなぁ……」	　Is this okay...?」
+195688	Nagata-kun	基本	「あーあー……	「Aah...
+195689	+		　いいのかなぁ……」	　Is this okay...?」
 
-195690	Rocky Bank	「がーーーん！」	「Gahhh!」
+195690	Rocky Bank	ガーン	「がーーーん！」	「Gahhh!」
 
-195691	Rocky Bank	「そ、そんなこと言わないで下さいだ！	「D, don't say that!
-195692	+	　是非、是非お願いしますだー！」	　Please, please take me!」
+195691	Rocky Bank		「そ、そんなこと言わないで下さいだ！	「D, don't say that!
+195692	+		　是非、是非お願いしますだー！」	　Please, please take me!」
 
-195693	Nagata-kun	「あーもう、駄目駄目！	「Aah enough, no way!
-195694	+	　＜エール＞ちゃんがこう言ってる以上、	　Since ＜エール＞-chan said so,
-195695	+	　山賊なんて仲間に出来ないよ！」	　we can't recruit a bandit!」
+195693	Nagata-kun	基本	「あーもう、駄目駄目！	「Aah enough, no way!
+195694	+		　＜エール＞ちゃんがこう言ってる以上、	　Since ＜エール＞-chan said so,
+195695	+		　山賊なんて仲間に出来ないよ！」	　we can't recruit a bandit!」
 
-195696	Rocky Bank	「そ、そうだ！　おら、ここの偉い人だから、	「Th, that's right! I'm an important person here,
-195697	+	　仲間にしてもらえたら、	　if you recruit me,
-195698	+	　ランスJr.様の所まで安全に案内しますだ！」	　I'll safely guide you to Rance Jr.-sama!」
+195696	Rocky Bank	楽	「そ、そうだ！　おら、ここの偉い人だから、	「Th, that's right! I'm an important person here,
+195697	+		　仲間にしてもらえたら、	　if you recruit me,
+195698	+		　ランスJr.様の所まで安全に案内しますだ！」	　I'll safely guide you to Rance Jr.-sama!」
 
-195699	Nagata-kun	「え、マジ？」	「Eh, really?」
+195699	Nagata-kun	基本	「え、マジ？」	「Eh, really?」
 
-195700	Rocky Bank	「はい、もちろんだ！」	「Yes, of course!」
+195700	Rocky Bank	楽	「はい、もちろんだ！」	「Yes, of course!」
 
-195701	Rocky Bank	「だ、だから、おらも仲間に……」	「S, so, let me join...」
+195701	Rocky Bank	基本	「だ、だから、おらも仲間に……」	「S, so, let me join...」
 
-195702	Nagata-kun	「採用ーーーーーーー！」	「You're hired!」
+195702	Nagata-kun		「採用ーーーーーーー！」	「You're hired!」
 
-195703	Rocky Bank	「え、いいんだすか？」	「Eh, is it okay?」
+195703	Rocky Bank		「え、いいんだすか？」	「Eh, is it okay?」
 
-195704	El Mofus	「…………。」	「............」
+195704	El Mofus		「…………。」	「............」
 
-195705	Nagata-kun	「や、だってさ！	「See!」
-195706	+	　この中を安全に進めるんだよ！？	　We can safely advance through here!?
-195707	+	　仲間にしないと絶対後悔するって！」	　We'll definitely regret not recruiting him!」
+195705	Nagata-kun		「や、だってさ！	「See!」
+195706	+		　この中を安全に進めるんだよ！？	　We can safely advance through here!?
+195707	+		　仲間にしないと絶対後悔するって！」	　We'll definitely regret not recruiting him!」
 
-195708	Nagata-kun	「な、＜エール＞ちゃん、いいだろ？」	「Right, ＜エール＞-chan?」
+195708	Nagata-kun		「な、＜エール＞ちゃん、いいだろ？」	「Right, ＜エール＞-chan?」
 
-195709	Nagata-kun	「はい、これもう決定ね！」	「Yes, it's decided!」
+195709	Nagata-kun		「はい、これもう決定ね！」	「Yes, it's decided!」
 
-195710	-	あなたは長田君に押し切られてしまった。	You were pushed into it by Nagata-kun.
+195710	-		あなたは長田君に押し切られてしまった。	You were pushed into it by Nagata-kun.
 
-195711	Rocky Bank	「わ、わーいわーい、宜しくお願いしますだー！」	「Y, yay yay, please treat me well!」
+195711	Rocky Bank	楽	「わ、わーいわーい、宜しくお願いしますだー！」	「Y, yay yay, please treat me well!」
 
-195712	Rocky Bank	「冷たーーーっ！？」	「So cold---!?」
+195712	Rocky Bank	ガーン	「冷たーーーっ！？」	「So cold---!?」
 
-195713	-	あなたはロッキーの頭に、	You placed
-195714	+	かき氷（いちご味）を乗せた。	strawberry shaved ice on Rocky's head.
+195713	-		あなたはロッキーの頭に、	You placed
+195714	+		かき氷（いちご味）を乗せた。	strawberry shaved ice on Rocky's head.
 
-195715	Rocky Bank	「うおっ、おおお、おおおおお！？」	「Uoh, ooooh, ooooooh!?」
+195715	Rocky Bank		「うおっ、おおお、おおおおお！？」	「Uoh, ooooh, ooooooh!?」
 
-195716	-	なんとかバランスを取ろうとしたが、	He tried to balance it,
-195717	+	無惨にもかき氷の中身は全て	but the entire contents
-195718	+	ロッキーの顔にぶちまけられた。	spilled all over Rocky's face.
+195716	-		なんとかバランスを取ろうとしたが、	He tried to balance it,
+195717	+		無惨にもかき氷の中身は全て	but the entire contents
+195718	+		ロッキーの顔にぶちまけられた。	spilled all over Rocky's face.
 
-195719	Rocky Bank	「ぎゃー！　冷たいだすー！」	「Gyaa! It's cold!」
+195719	Rocky Bank		「ぎゃー！　冷たいだすー！」	「Gyaa! It's cold!」
 
-195720	El Mofus	「…………。」	「............」
+195720	El Mofus	基本	「…………。」	「............」
 
-195721	Rocky Bank	「ええ……なんで、そんなことするだ……」	「Eee... why would you do that...」
+195721	Rocky Bank	とほほ	「ええ……なんで、そんなことするだ……」	「Eee... why would you do that...」
 
-195722	Nagata-kun	「ごめん、俺のベストフレンド……	「Sorry, my best friend...
-195723	+	　ちょっとだけ変な奴なんだ」	　is a bit weird.」
+195722	Nagata-kun	基本	「ごめん、俺のベストフレンド……	「Sorry, my best friend...
+195723	+		　ちょっとだけ変な奴なんだ」	　is a bit weird.」
 
-195724	El Mofus	「…………。」	「............」
+195724	El Mofus		「…………。」	「............」
 
-195725	Rocky Bank	「え、仲間になってもいいだすか！？」	「Eh, can I really join!?」
+195725	Rocky Bank		「え、仲間になってもいいだすか！？」	「Eh, can I really join!?」
 
-195726	Nagata-kun	「なら、さっきの行動は本当になんだったの？」	「Then what was all that earlier?」
+195726	Nagata-kun		「なら、さっきの行動は本当になんだったの？」	「Then what was all that earlier?」
 
-195727	Rocky Bank	「わーいわーい！	「Yay yay!
-195728	+	　とにかく宜しくお願いしますだー！」	　Anyway, please treat me well!」
+195727	Rocky Bank	楽	「わーいわーい！	「Yay yay!
+195728	+		　とにかく宜しくお願いしますだー！」	　Anyway, please treat me well!」
 
-195729	-	あなたはロッキーと仲良くなれた気がした。	You felt like you became friends with Rocky.
+195729	-		あなたはロッキーと仲良くなれた気がした。	You felt like you became friends with Rocky.
 
-195730	Nagata-kun	「あ、でもさ、	「Ah, but,
-195731	+	　ランスJr.達はいいの？」	　what about Rance Jr. and the others?」
+195730	Nagata-kun	基本	「あ、でもさ、	「Ah, but,
+195731	+		　ランスJr.達はいいの？」	　what about Rance Jr. and the others?」
 
-195732	Rocky Bank	「＜エール＞様の事情がそういうことなら、	「If that's ＜エール＞-sama's situation,
-195733	+	　是非ランスJr.様も仲間にしてあげて欲しいだ」	　please recruit Rance Jr.-sama too.」
+195732	Rocky Bank	楽	「＜エール＞様の事情がそういうことなら、	「If that's ＜エール＞-sama's situation,
+195733	+		　是非ランスJr.様も仲間にしてあげて欲しいだ」	　please recruit Rance Jr.-sama too.」
 
-195734	El Mofus	「…………。」	「............」
+195734	El Mofus	基本	「…………。」	「............」
 
-195735	Rocky Bank	「おお、最初からそのつもりだっただすか！	「Oh, you intended that from the start!
-195736	+	　さすが＜エール＞様だ！」	　As expected of ＜エール＞-sama!」
+195735	Rocky Bank	楽	「おお、最初からそのつもりだっただすか！	「Oh, you intended that from the start!
+195736	+		　さすが＜エール＞様だ！」	　As expected of ＜エール＞-sama!」
 
-195737	Nagata-kun	「うう、山賊団のボスなんて、	「Uuu, recruiting the boss of a bandit gang,
-195738	+	　仲間にできないと思うけどなぁ……」	　I don't think we should...」
+195737	Nagata-kun	基本	「うう、山賊団のボスなんて、	「Uuu, recruiting the boss of a bandit gang,
+195738	+		　仲間にできないと思うけどなぁ……」	　I don't think we should...」
 
-195739	Rocky Bank	「きっと大丈夫だ。	「It'll be fine.
-195740	+	　ランスJr.様は確かにちょっとわがままだけど、	　Rance Jr.-sama is a bit selfish, but
-195741	+	　根は良い方だすから」	　he has a good heart.」
+195739	Rocky Bank	楽	「きっと大丈夫だ。	「It'll be fine.
+195740	+		　ランスJr.様は確かにちょっとわがままだけど、	　Rance Jr.-sama is a bit selfish, but
+195741	+		　根は良い方だすから」	　he has a good heart.」
 
-195742	Rocky Bank	「…………多分」	「............Probably.」
+195742	Rocky Bank	基本	「…………多分」	「............Probably.」
 
-195743	Rocky Bank	「と、とにかく、おらも一緒に説得しますだ」	「A, anyway, I'll help persuade him too.」
+195743	Rocky Bank	楽	「と、とにかく、おらも一緒に説得しますだ」	「A, anyway, I'll help persuade him too.」
 
-195744	Rocky Bank	「＜エール＞様、これからよろしくだー！」	「＜エール＞-sama, please treat me well from now on!」
+195744	Rocky Bank		「＜エール＞様、これからよろしくだー！」	「＜エール＞-sama, please treat me well from now on!」

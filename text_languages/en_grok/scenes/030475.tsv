@@ -3,72 +3,72 @@
 * Uspira Shintou	ウスピラ	Female
 * Rance	ランス	Male
 
-9314	Saias Crown	「ウスピラ！」	「Uspira!」
+9314	Saias Crown	基本	「ウスピラ！」	「Uspira!」
 
-9315	Uspira Shintou	「あ……」	「Ah......」
+9315	Uspira Shintou		「あ……」	「Ah......」
 
-9316	-	ウスピラ・真冬を、	Saias Crown stopped
-9317	+	サイアス・クラウンが呼び止めた。	Uspira Shintou.
+9316	-		ウスピラ・真冬を、	Saias Crown stopped
+9317	+		サイアス・クラウンが呼び止めた。	Uspira Shintou.
 
-9318	Uspira Shintou	「どうしたの？」	「What is it?」
+9318	Uspira Shintou		「どうしたの？」	「What is it?」
 
-9319	Saias Crown	「明日、デートしないか？」	「Want to go on a date tomorrow?」
+9319	Saias Crown	ウスピラ／笑顔	「明日、デートしないか？」	「Want to go on a date tomorrow?」
 
-9320	Uspira Shintou	「明日、って…………無理よ。	「Tomorrow...... Impossible.
-9321	+	　出撃こそ無いけど、重要な軍議があるじゃない」	　We don't have a sortie but there's an important military meeting.」
+9320	Uspira Shintou	基本	「明日、って…………無理よ。	「Tomorrow...... Impossible.
+9321	+		　出撃こそ無いけど、重要な軍議があるじゃない」	　We don't have a sortie but there's an important military meeting.」
 
-9322	Saias Crown	「そこをなんとか！」	「Make it work somehow!」
+9322	Saias Crown	ウスピラ	「そこをなんとか！」	「Make it work somehow!」
 
-9323	Uspira Shintou	「サイアス。私もあなたも、それどころじゃない。	「Saias. Neither of us has time for that.
-9324	+	　それは分かっているでしょう？」	　You know that, right?」
+9323	Uspira Shintou	怒り	「サイアス。私もあなたも、それどころじゃない。	「Saias. Neither of us has time for that.
+9324	+		　それは分かっているでしょう？」	　You know that, right?」
 
-9325	Saias Crown	「ん……それは、そうなんだが……」	「Yeah...... That's true but......」
+9325	Saias Crown	ウスピラ／拙い	「ん……それは、そうなんだが……」	「Yeah...... That's true but......」
 
-9326	Uspira Shintou	「立場と、するべき任務を放り出す人とは、	「I can't spend my day off with someone
-9327	+	　休日を共にする気にはなれないわ、クラウン将軍」	　who throws away their position and duties, General Crown.」
+9326	Uspira Shintou	怒り	「立場と、するべき任務を放り出す人とは、	「I can't spend my day off with someone
+9327	+		　休日を共にする気にはなれないわ、クラウン将軍」	　who throws away their position and duties, General Crown.」
 
-9328	-	"氷"の二つ名の通り、冷ややかに言い残して、	Just like her nickname "Ice", she left those cold words
-9329	+	ウスピラは去っていった。	and departed.
+9328	-		"氷"の二つ名の通り、冷ややかに言い残して、	Just like her nickname "Ice", she left those cold words
+9329	+		ウスピラは去っていった。	and departed.
 
-9330	Saias Crown	「きついね、ウスピラ……	「That's harsh, Uspira......
-9331	+	　ま、無視や無感情よりはいいか」	　Well, better than being ignored or emotionless.」
+9330	Saias Crown	拙い	「きついね、ウスピラ……	「That's harsh, Uspira......
+9331	+		　ま、無視や無感情よりはいいか」	　Well, better than being ignored or emotionless.」
 
-9332	Rance	「がはははははは！　やーい、フラれたフラれた。	「Gahahahahaha! Hah, you got rejected, rejected.
-9333	+	　ざまあないな、キザ野郎！」	　Serves you right, you flashy bastard!」
+9332	Rance	笑顔	「がはははははは！　やーい、フラれたフラれた。	「Gahahahahaha! Hah, you got rejected, rejected.
+9333	+		　ざまあないな、キザ野郎！」	　Serves you right, you flashy bastard!」
 
-9334	Saias Crown	「ボーヤか……ま、いつもの事だ。	「It's you, boy...... Well, as usual.
-9335	+	　気にしちゃいない」	　I'm not bothered.」
+9334	Saias Crown	基本	「ボーヤか……ま、いつもの事だ。	「It's you, boy...... Well, as usual.
+9335	+		　気にしちゃいない」	　I'm not bothered.」
 
-9336	Rance	「ふむふむ……あの様子だと、ウスピラはフリーか。	「Hmm hmm...... So Uspira is free.
-9337	+	　よーし、俺が貰おう」	　Alright, I'll take her.」
+9336	Rance	エロ顔	「ふむふむ……あの様子だと、ウスピラはフリーか。	「Hmm hmm...... So Uspira is free.
+9337	+		　よーし、俺が貰おう」	　Alright, I'll take her.」
 
-9338	Saias Crown	「さて、それは難しいと思うがね」	「Well, I think that'll be difficult.」
+9338	Saias Crown	基本	「さて、それは難しいと思うがね」	「Well, I think that'll be difficult.」
 
-9339	Rance	「ふん、フラれムシの遠吠えだろう。	「Hmph, just the howl of a rejected loser.
-9340	+	　貴様と俺様では魅力が違うわ」	　Our charm levels are completely different.」
+9339	Rance		「ふん、フラれムシの遠吠えだろう。	「Hmph, just the howl of a rejected loser.
+9340	+		　貴様と俺様では魅力が違うわ」	　Our charm levels are completely different.」
 
-9341	Saias Crown	「ま、やってみるといいさ。塩は送らないぜ」	「Well, give it a try. I won't send salt though.」
+9341	Saias Crown	笑顔	「ま、やってみるといいさ。塩は送らないぜ」	「Well, give it a try. I won't send salt though.」
 
-9342	Saias Crown~	（しかしウスピラ……いつにも増して余裕がないな。	(But Uspira...... she's even more tense than usual.
-9343	+	　根を詰め過ぎじゃないのか……？）	　Isn't she pushing herself too hard......?)
+9342	Saias Crown~	真剣	（しかしウスピラ……いつにも増して余裕がないな。	(But Uspira...... she's even more tense than usual.
+9343	+		　根を詰め過ぎじゃないのか……？）	　Isn't she pushing herself too hard......?)
 
-9344	Rance	「ん？　なんだどうかしたのか。	「Hm? What's wrong.
-9345	+	　俺が上手くやるかもしれんと怖くなったのか」	　Scared I'll succeed with her?」
+9344	Rance	基本	「ん？　なんだどうかしたのか。	「Hm? What's wrong.
+9345	+		　俺が上手くやるかもしれんと怖くなったのか」	　Scared I'll succeed with her?」
 
-9346	Saias Crown	「ああ、いや……プレゼントの花がな。	「Ah, no...... It's the flower I prepared as a gift.
-9347	+	　無駄になっちまったな、とね」	　It went to waste.」
+9346	Saias Crown		「ああ、いや……プレゼントの花がな。	「Ah, no...... It's the flower I prepared as a gift.
+9347	+		　無駄になっちまったな、とね」	　It went to waste.」
 
-9348	Rance	「花だと？」	「A flower?」
+9348	Rance	真剣	「花だと？」	「A flower?」
 
-9349	-	サイアスは懐から、蕾のままの花を一輪、	Saias took out a single unbloomed flower from his pocket
-9350	+	取りだして眺めた。	and looked at it.
+9349	-		サイアスは懐から、蕾のままの花を一輪、	Saias took out a single unbloomed flower from his pocket
+9350	+		取りだして眺めた。	and looked at it.
 
-9351	Saias Crown	「自作の品種なんだ。	「It's a variety I bred myself.
-9352	+	　青い髪に、映える花……名は薄氷、ってとこか」	　A flower that suits blue hair...... Thin Ice, I guess.」
+9351	Saias Crown	基本	「自作の品種なんだ。	「It's a variety I bred myself.
+9352	+		　青い髪に、映える花……名は薄氷、ってとこか」	　A flower that suits blue hair...... Thin Ice, I guess.」
 
-9353	Rance	「かーーーーっ！　このきざきざ野郎が！」	「Gahhh! You flashy bastard!」
+9353	Rance	怒り	「かーーーーっ！　このきざきざ野郎が！」	「Gahhh! You flashy bastard!」
 
-9354	Saias Crown	「だが、花が咲くのは明日一日だけなんだ。	「But this flower only blooms for one day tomorrow.
-9355	+	　今回はパスだな…………要るか？」	　Guess I'll pass this time...... Want it?」
+9354	Saias Crown	基本	「だが、花が咲くのは明日一日だけなんだ。	「But this flower only blooms for one day tomorrow.
+9355	+		　今回はパスだな…………要るか？」	　Guess I'll pass this time...... Want it?」
 
-9356	Rance	「要らんわ！」	「I don't want it!」
+9356	Rance	怒り	「要らんわ！」	「I don't want it!」

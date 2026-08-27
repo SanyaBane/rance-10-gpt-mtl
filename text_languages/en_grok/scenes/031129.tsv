@@ -6,56 +6,56 @@
 * Copandon Dott	コパンドン	Female
 * Kentou Kanami	かなみ	Female
 
-53835	Rance	「……おっ？　出口だ」	「...Oh? The exit.」
+53835	Rance	基本	「……おっ？　出口だ」	「...Oh? The exit.」
 
-53836	Rance	「がはははは、踏破ーーー！」	「Gahahahaha, cleared!」
+53836	Rance	笑顔	「がはははは、踏破ーーー！」	「Gahahahaha, cleared!」
 
-53837	Sill Plain	「お疲れ様です、ランス様」	「Good work, Rance-sama.」
+53837	Sill Plain		「お疲れ様です、ランス様」	「Good work, Rance-sama.」
 
-53838	Rance	「えーっと、ここは……カスタムの近くだったな。	「Umm, this is... near Custom, right.
-53839	+	　よし、久しぶりに連中の顔でも……」	　Alright, time to see their faces after so long...
+53838	Rance	基本	「えーっと、ここは……カスタムの近くだったな。	「Umm, this is... near Custom, right.
+53839	+		　よし、久しぶりに連中の顔でも……」	　Alright, time to see their faces after so long...
 
-53840	Maria Custard	「見れないわよ」	「You won't see them.」
+53840	Maria Custard		「見れないわよ」	「You won't see them.」
 
-53841	Rance	「ぬっ？　どういうことだ」	「Nu? What do you mean?」
+53841	Rance	だる顔	「ぬっ？　どういうことだ」	「Nu? What do you mean?」
 
-53842	Maria Custard	「カスタムは都市を放棄して撤退したわ。	「Custom abandoned the city and withdrew.
-53843	+	　今は主力もみんな、ジフテリアかMランドよ」	　The main forces are now in Diphteria or M Land.」
+53842	Maria Custard	基本	「カスタムは都市を放棄して撤退したわ。	「Custom abandoned the city and withdrew.
+53843	+		　今は主力もみんな、ジフテリアかMランドよ」	　The main forces are now in Diphteria or M Land.」
 
-53844	Rance	「ジフテリアというと……」	「Diphteria, you mean...」
+53844	Rance		「ジフテリアというと……」	「Diphteria, you mean...」
 
-53845	Maria Custard	「カイズに面した、西端の都市ね。	「The westernmost city facing the Kaiz Sea.
-53846	+	　近所だし、AL教団と親しかったはずだけど……」	　It's nearby and was close with the AL Church, but...
+53845	Maria Custard		「カイズに面した、西端の都市ね。	「The westernmost city facing the Kaiz Sea.
+53846	+		　近所だし、AL教団と親しかったはずだけど……」	　It's nearby and was close with the AL Church, but...
 
-53847	Crook Mofus	「はい。それに都市の代表は司祭の方です。	「Yes. And the city's representative is the priest.
-53848	+	　お中元やお歳暮も毎年来ますよ」	　They send mid-year and year-end gifts every year.」
+53847	Crook Mofus		「はい。それに都市の代表は司祭の方です。	「Yes. And the city's representative is the priest.
+53848	+		　お中元やお歳暮も毎年来ますよ」	　They send mid-year and year-end gifts every year.」
 
-53849	Copandon Dott	「ビヨンホウはんやな。	「It's Biyonhou, right.
-53850	+	　あの人、AL教団から来とるの？」	　Is that person from the AL Church?」
+53849	Copandon Dott		「ビヨンホウはんやな。	「It's Biyonhou, right.
+53850	+		　あの人、AL教団から来とるの？」	　Is that person from the AL Church?」
 
-53851	Crook Mofus	「いえ。ジフテリアの内政に	「No. The AL Church is not intervening
-53852	+	　AL教団が介入しているということはありません」	　in Diphteria's internal affairs.」
+53851	Crook Mofus		「いえ。ジフテリアの内政に	「No. The AL Church is not intervening
+53852	+		　AL教団が介入しているということはありません」	　in Diphteria's internal affairs.」
 
-53853	Crook Mofus	「ジフテリアを統治しているのは、あくまで	「Diphteria is ruled solely by
-53854	+	　ビヨンホウさん自身の意思と能力によるものです」	　Biyonhou-san's own will and ability.」
+53853	Crook Mofus		「ジフテリアを統治しているのは、あくまで	「Diphteria is ruled solely by
+53854	+		　ビヨンホウさん自身の意思と能力によるものです」	　Biyonhou-san's own will and ability.」
 
-53855	Copandon Dott	「でも、AL教がこれと命令したら従うんやないの？」	「But if the AL Church orders something, wouldn't they obey?」
+53855	Copandon Dott		「でも、AL教がこれと命令したら従うんやないの？」	「But if the AL Church orders something, wouldn't they obey?」
 
-53856	Crook Mofus	「そういう事態が発生すれば、ですが」	「Only if such a situation arises.」
+53856	Crook Mofus		「そういう事態が発生すれば、ですが」	「Only if such a situation arises.」
 
-53857	Copandon Dott	「さよか」	「I see.」
+53857	Copandon Dott		「さよか」	「I see.」
 
-53858	Rance	「そんなのはどうでもいいが……	「I don't care about that...
-53859	+	　カスタムが無人なら、寄る理由もないな」	　If Custom is empty, no reason to stop by.」
+53858	Rance	真剣	「そんなのはどうでもいいが……	「I don't care about that...
+53859	+		　カスタムが無人なら、寄る理由もないな」	　If Custom is empty, no reason to stop by.」
 
-53860	Kentou Kanami	「ランス、注意して。	「Rance, be careful.
-53861	+	　この辺り、まだ魔軍の勢力圏内よ」	　This area is still within Monster Army territory.」
+53860	Kentou Kanami	基本	「ランス、注意して。	「Rance, be careful.
+53861	+		　この辺り、まだ魔軍の勢力圏内よ」	　This area is still within Monster Army territory.」
 
-53862	Rance	「なんだと？　大して近道にならなかったな」	「What? It wasn't much of a shortcut.」
+53862	Rance	だる顔	「なんだと？　大して近道にならなかったな」	「What? It wasn't much of a shortcut.」
 
-53863	Maria Custard	「……かえって遠回りだったんじゃないかなぁ。	「...It might have been a detour actually.
-53864	+	　ここからだといったん北上して、	　From here we'd go north,
-53865	+	　ジオを回って……とかそんな感じだし……」	　loop around Geo... something like that...」
+53863	Maria Custard	あかんわ	「……かえって遠回りだったんじゃないかなぁ。	「...It might have been a detour actually.
+53864	+		　ここからだといったん北上して、	　From here we'd go north,
+53865	+		　ジオを回って……とかそんな感じだし……」	　loop around Geo... something like that...」
 
-53866	Rance	「ま、楽しかったから良しだ。	「Well, it was fun so it's fine.
-53867	+	　さあ行くぞー」	　Let's go!」
+53866	Rance	笑顔	「ま、楽しかったから良しだ。	「Well, it was fun so it's fine.
+53867	+		　さあ行くぞー」	　Let's go!」

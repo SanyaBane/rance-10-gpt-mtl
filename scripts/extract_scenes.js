@@ -9,11 +9,12 @@
  * back goes into text_languages/<lang>/ as usual -- so they are a build
  * by-product like everything else under build/, regenerated rather than kept.
  *
- * Four columns. The m[] number, which is the join key and the only thing the
+ * Five columns. The m[] number, which is the join key and the only thing the
  * game gets back. Then the speaker: their canonical English name, "+" for
  * another row of the speech above, "-" for narration, "?" for a message with no
  * speaker that is not narration either, and a trailing "~" for a thought. Then
- * the Japanese, and then the English the corpus has now.
+ * what the portrait is doing, written only where it changes. Then the
+ * Japanese, and then the English the corpus has now.
  *
  * The Japanese comes from the game's own dump rather than from the corpus
  * record beside the English. Those disagree on 5081 records -- see the header
@@ -92,6 +93,29 @@ const sameAsAbove = (line, previous) => line.continues
     && previous !== null
     && speakerCell(line) === speakerCell(previous);
 
+/**
+ * What the portrait is doing, out of the 立ち絵 the bytecode names.
+ *
+ * A stand is the character, then a costume, then a face: ランス／基本 is the
+ * default of both, ランス／基本／真剣 is the default costume with a serious
+ * face, ランス／全裸／笑顔 is neither. So the character comes off -- the
+ * speaker column already says who this is -- and 基本 comes off wherever
+ * something else is left, because "default costume, serious" is serious.
+ *
+ * What is left when everything comes off is 基本 itself, and that is written
+ * rather than left blank: a blank cell means the row above, so a character
+ * returning to their default face has to be able to say so. A row with no
+ * portrait at all has no state, which is a different thing again and is the
+ * empty string.
+ */
+const stateOf = (line) => {
+    if (!line.stand) {
+        return "";
+    }
+    const parts = line.stand.split("／").slice(1).filter(part => part !== "基本");
+    return parts.join("／") || "基本";
+};
+
 await run(async () => {
     ensureBuild();
 
@@ -127,6 +151,8 @@ await run(async () => {
     let files = 0;
     let lines = 0;
     let named = 0;
+    /** Rows that name what the portrait is doing, which is where it changed. */
+    let stated = 0;
     /** No corpus record at all, against a record whose English is empty. */
     let uncovered = 0;
     let blank = 0;
@@ -183,19 +209,32 @@ await run(async () => {
         }
 
         let previous = null;
+        // The last state written, so that a run of rows holding the same face
+        // is one word rather than a column of them. A row with no portrait
+        // leaves it alone: the narrator does not take the picture off screen.
+        let standing = "";
         for (const line of scene.lines) {
             const japanese = japaneseByLineNumber.get(line.lineNumber) ?? "";
             const english = englishByLineNumber.get(line.lineNumber) ?? "";
             written.set(line.lineNumber, japanese);
+            const state = stateOf(line);
+            const changed = state && state !== standing;
+            if (state) {
+                standing = state;
+            }
             laidOut.rows.push({
                 lineNumber: line.lineNumber,
                 speaker: sameAsAbove(line, previous) ? "+" : speakerCell(line),
+                state: changed ? state : "",
                 japanese,
                 english,
                 startsUtterance: !line.continues,
                 route: line.route,
             });
             previous = line;
+            if (changed) {
+                ++stated;
+            }
 
             ++lines;
             if (line.speaker) {
@@ -271,6 +310,7 @@ await run(async () => {
     console.log(`Wrote ${files} scenes of the "${lang}" dialogue`
         + ` into ${path.relative(ROOT, outputDir)}, ${lines} lines`);
     console.log(`  ${named} lines name their speaker (${(named / lines * 100).toFixed(1)}%)`);
+    console.log(`  ${stated} lines name what the portrait is doing, which is where it changed`);
     console.log(`  ${uncovered} lines no corpus record covers, ${blank} whose record is empty`);
     console.log(`  ${flagged} scenes flagged "${CG_FLAG}" by the recollection gallery,`
         + ` ${flaggedLines} lines (${(flaggedLines / lines * 100).toFixed(1)}%)`);

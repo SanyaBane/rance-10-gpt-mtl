@@ -2,93 +2,93 @@
 * Monster General	汎用魔物将軍	Male
 * Green Monster Soldier	汎用魔物兵緑	Male
 
-47446	Monster General	「なんだと……人間の少数部隊が？」	「What...? A small human unit?」
+47446	Monster General	基本	「なんだと……人間の少数部隊が？」	「What...? A small human unit?」
 
-47447	Green Monster Soldier	「はっ。報告によると、	「Yes. According to reports,
-47448	+	　一直線にこちらへ突撃してきているとか」	　they are charging straight toward us.」
+47447	Green Monster Soldier		「はっ。報告によると、	「Yes. According to reports,
+47448	+		　一直線にこちらへ突撃してきているとか」	　they are charging straight toward us.」
 
-47449	-	その報告を受けて、一軍を預かり陣を張っていた	Upon hearing the report, Monster General Gusman, who commanded an army,
-47450	+	魔物将軍グスマンは首を捻った。	tilted his head.
+47449	-		その報告を受けて、一軍を預かり陣を張っていた	Upon hearing the report, Monster General Gusman, who commanded an army,
+47450	+		魔物将軍グスマンは首を捻った。	tilted his head.
 
-47451	Monster General	「……なんだそれは。なんのつもりだ？」	「...What is that? What are they planning?」
+47451	Monster General		「……なんだそれは。なんのつもりだ？」	「...What is that? What are they planning?」
 
-47452	Green Monster Soldier	「目下不明であります。	「Currently unknown.
-47453	+	　叩き潰してよろしいですか？」	　Shall we crush them?」
+47452	Green Monster Soldier		「目下不明であります。	「Currently unknown.
+47453	+		　叩き潰してよろしいですか？」	　Shall we crush them?」
 
-47454	Monster General	「構わんが…………いや待て」	「I don’t mind, but... wait.」
+47454	Monster General		「構わんが…………いや待て」	「I don’t mind, but... wait.」
 
-47455	-	グスマンはいったん口にしかけた言葉を呑み込み、	Gusman swallowed his words,
-47456	+	思案する構えになった。	and began thinking.
+47455	-		グスマンはいったん口にしかけた言葉を呑み込み、	Gusman swallowed his words,
+47456	+		思案する構えになった。	and began thinking.
 
-47457	Monster General	「周辺の地図を持ってこい！　詳細な奴だ」	「Bring me a detailed map of the area!」
+47457	Monster General		「周辺の地図を持ってこい！　詳細な奴だ」	「Bring me a detailed map of the area!」
 
-47458	Green Monster Soldier	「は、ははっ！」	「Y-Yes!」
+47458	Green Monster Soldier		「は、ははっ！」	「Y-Yes!」
 
-47459	-	予想しなかった返答に驚きつつ、	Surprised by the unexpected response,
-47460	+	兵士は慌てて、地図を持って帰ってきた。	the soldier hurriedly brought back the map.
+47459	-		予想しなかった返答に驚きつつ、	Surprised by the unexpected response,
+47460	+		兵士は慌てて、地図を持って帰ってきた。	the soldier hurriedly brought back the map.
 
-47461	Monster General	「ありえる手としては…………ふむ」	「Possible strategies... Hmm.」
+47461	Monster General		「ありえる手としては…………ふむ」	「Possible strategies... Hmm.」
 
-47462	-	持ってこさせた地図を睨み、	Staring at the map he had called for,
-47463	+	グスマンはあれこれと呟く。	Gusman muttered to himself.
+47462	-		持ってこさせた地図を睨み、	Staring at the map he had called for,
+47463	+		グスマンはあれこれと呟く。	Gusman muttered to himself.
 
-47464	Green Monster Soldier	「あ、あの……？」	「U-Um...?」
+47464	Green Monster Soldier		「あ、あの……？」	「U-Um...?」
 
-47465	Monster General	「…………陽動か。単純な手を」	「...A diversion. A simple move.」
+47465	Monster General		「…………陽動か。単純な手を」	「...A diversion. A simple move.」
 
-47466	Green Monster Soldier	「は？」	「Huh?」
+47466	Green Monster Soldier		「は？」	「Huh?」
 
-47467	Monster General	「行使する魔法や、その他……	「The magic they used and the others...
-47468	+	　いやに派手な連中ではなかったか？」	　Weren’t they a flashy bunch?」
+47467	Monster General		「行使する魔法や、その他……	「The magic they used and the others...
+47468	+		　いやに派手な連中ではなかったか？」	　Weren’t they a flashy bunch?」
 
-47469	Green Monster Soldier	「そ、それは……はい、その通りです！	「Y-Yes! Exactly!
-47470	+	　大規模な魔法を使う魔法使いや、	　There were mages using large-scale magic,
-47471	+	　かなり腕の立つ、騒がしい戦士などがいたと……」	　and very skilled, noisy warriors...」
+47469	Green Monster Soldier		「そ、それは……はい、その通りです！	「Y-Yes! Exactly!
+47470	+		　大規模な魔法を使う魔法使いや、	　There were mages using large-scale magic,
+47471	+		　かなり腕の立つ、騒がしい戦士などがいたと……」	　and very skilled, noisy warriors...」
 
-47472	-	予想通りの報告に、グスマンは大きく頷く。	Hearing the expected report, Gusman nodded deeply.
+47472	-		予想通りの報告に、グスマンは大きく頷く。	Hearing the expected report, Gusman nodded deeply.
 
-47473	Monster General	「本命はこっちだ。この細道」	「The real threat is here. This narrow path.」
+47473	Monster General		「本命はこっちだ。この細道」	「The real threat is here. This narrow path.」
 
-47474	-	グスマンは自陣の逆側の一点を指した。	Gusman pointed to a spot on the opposite side of his camp.
+47474	-		グスマンは自陣の逆側の一点を指した。	Gusman pointed to a spot on the opposite side of his camp.
 
-47475	Monster General	「奴らが我々の目を引きつけ、	「They draw our attention,
-47476	+	　逆側から裏道を通った部隊で、後背の都市に潜入。	　while a unit sneaks through the back path into the city behind us.
-47477	+	　しかる後に要所を襲撃して、都市を解放させる」	　Then they attack key points and liberate the city.」
+47475	Monster General		「奴らが我々の目を引きつけ、	「They draw our attention,
+47476	+		　逆側から裏道を通った部隊で、後背の都市に潜入。	　while a unit sneaks through the back path into the city behind us.
+47477	+		　しかる後に要所を襲撃して、都市を解放させる」	　Then they attack key points and liberate the city.」
 
-47478	Green Monster Soldier	「なるほど……！」	「I see...!」
+47478	Green Monster Soldier		「なるほど……！」	「I see...!」
 
-47479	Monster General	「あるいは、メディウサ様を害するつもりか。	「Or perhaps they intend to harm Lady Medusa.
-47480	+	　人間達にも、魔人様がたを傷つけうる	　Humans apparently have weapons that can harm Fiends.」
-47481	+	　武器があるらしいからな」	
+47479	Monster General		「あるいは、メディウサ様を害するつもりか。	「Or perhaps they intend to harm Lady Medusa.
+47480	+		　人間達にも、魔人様がたを傷つけうる	　Humans apparently have weapons that can harm Fiends.」
+47481	+		　武器があるらしいからな」	
 
-47482	Green Monster Soldier	「さ、さすがはグスマン様……！	「As expected of Lord Gusman...!
-47483	+	　素晴らしい読み……！」	　A brilliant analysis...!」
+47482	Green Monster Soldier		「さ、さすがはグスマン様……！	「As expected of Lord Gusman...!
+47483	+		　素晴らしい読み……！」	　A brilliant analysis...!」
 
-47484	Monster General	「我々は考えるのが仕事だからな。	「Thinking is our job.
-47485	+	　配置を換える、各隊に連絡しろ！」	　Change positions and inform all units!」
+47484	Monster General		「我々は考えるのが仕事だからな。	「Thinking is our job.
+47485	+		　配置を換える、各隊に連絡しろ！」	　Change positions and inform all units!」
 
-47486	Monster General	「敵本隊を、細道の出口で待ち構える。	「We’ll wait for the enemy main force at the exit of the narrow path.
-47487	+	　出てきた所を叩き潰して終わりだ」	　Crush them the moment they emerge.」
+47486	Monster General		「敵本隊を、細道の出口で待ち構える。	「We’ll wait for the enemy main force at the exit of the narrow path.
+47487	+		　出てきた所を叩き潰して終わりだ」	　Crush them the moment they emerge.」
 
-47488	Green Monster Soldier	「ははっ！　して、正面の突撃してくる連中は……」	「Yes! Then what about the ones charging from the front...?」
+47488	Green Monster Soldier		「ははっ！　して、正面の突撃してくる連中は……」	「Yes! Then what about the ones charging from the front...?」
 
-47489	Monster General	「100にも満たないのだろう？　取るに足らん。	「Less than a hundred? Insignificant.
-47490	+	　形ばかりの防衛線だけ残しておけ」	　Leave only a token defense line.」
+47489	Monster General		「100にも満たないのだろう？　取るに足らん。	「Less than a hundred? Insignificant.
+47490	+		　形ばかりの防衛線だけ残しておけ」	　Leave only a token defense line.」
 
-47491	Green Monster Soldier	「了解いたしました！」	「Understood!」
+47491	Green Monster Soldier		「了解いたしました！」	「Understood!」
 
-47492	Monster General	「こちらに策が見抜かれたと、	「If they realize we’ve seen through their plan too early,
-47493	+	　早い段階で知ってしまったら	　they might escape.
-47494	+	　逃げられるかもしれん。配置移動は注意せよ」	　Be careful with the repositioning.」
+47492	Monster General		「こちらに策が見抜かれたと、	「If they realize we’ve seen through their plan too early,
+47493	+		　早い段階で知ってしまったら	　they might escape.
+47494	+		　逃げられるかもしれん。配置移動は注意せよ」	　Be careful with the repositioning.」
 
-47495	Green Monster Soldier	「各隊長に伝えます！」	「I’ll inform the captains!」
+47495	Green Monster Soldier		「各隊長に伝えます！」	「I’ll inform the captains!」
 
-47496	Monster General	「少々距離がある、急がせろ！	「It’s a bit far, hurry!
-47497	+	　今から移動させれば間に合うはずだ！」	　If we move now we should make it!」
+47496	Monster General		「少々距離がある、急がせろ！	「It’s a bit far, hurry!
+47497	+		　今から移動させれば間に合うはずだ！」	　If we move now we should make it!」
 
-47498	Green Monster Soldier	「ははっ！」	「Yes!」
+47498	Green Monster Soldier		「ははっ！」	「Yes!」
 
-47499	-	魔物兵は、急いで駆けていった。	The monster soldier ran off in a hurry.
+47499	-		魔物兵は、急いで駆けていった。	The monster soldier ran off in a hurry.
 
-47500	Monster General	「くく……人間が、小賢しい。	「Heh heh... Clever little humans.
-47501	+	　半端な策士は策に溺れると知るがいい……」	　Amateur strategists drown in their own schemes...」
+47500	Monster General		「くく……人間が、小賢しい。	「Heh heh... Clever little humans.
+47501	+		　半端な策士は策に溺れると知るがいい……」	　Amateur strategists drown in their own schemes...」

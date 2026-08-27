@@ -6,87 +6,87 @@
 * Captain	船長	Male
 * Sill Plain	シィル	Female
 
-37334	Rance	「んごぉ……ふががが……すぴゅぴゅ……」	「Nngoh... fugaga... supyupyu...」
+37334	Rance	全裸／笑顔	「んごぉ……ふががが……すぴゅぴゅ……」	「Nngoh... fugaga... supyupyu...」
 
-37335	Rance	「んんっ……？　ふご、ふあ……ん……なんだ？」	「Nnh...? Fugo, fua... n... what?」
+37335	Rance	全裸／だる顔	「んんっ……？　ふご、ふあ……ん……なんだ？」	「Nnh...? Fugo, fua... n... what?」
 
-37336	-	船室で昼寝をしていたランスの耳に、	While napping in the cabin, Rance's ears caught
-37337	+	なにやら大勢が騒ぐ声が聞こえてきた。	the sound of many people making a commotion.
+37336	-		船室で昼寝をしていたランスの耳に、	While napping in the cabin, Rance's ears caught
+37337	+		なにやら大勢が騒ぐ声が聞こえてきた。	the sound of many people making a commotion.
 
-37338	Rance	「むう……なんだ騒がしい。	「Muu... What's all the noise.
-37339	+	　俺様の眠りを妨げるとは……さては面白い事か」	　Disturbing my sleep... Must be something interesting.」
+37338	Rance	全裸／真剣	「むう……なんだ騒がしい。	「Muu... What's all the noise.
+37339	+		　俺様の眠りを妨げるとは……さては面白い事か」	　Disturbing my sleep... Must be something interesting.」
 
-37340	-	ランスは素早く身支度をすると、	Rance quickly got dressed
-37341	+	外に飛び出した。	and rushed outside.
+37340	-		ランスは素早く身支度をすると、	Rance quickly got dressed
+37341	+		外に飛び出した。	and rushed outside.
 
-37342	-	外に出てみると、作業中の者を除いた船員達と、	Outside, nearly all the crew except those working
-37343	+	乗り込んだ面々のほとんどが揃い、	and passengers were gathered
-37344	+	船縁から向こうを注目していた。	at the railing, staring outward.
+37342	-		外に出てみると、作業中の者を除いた船員達と、	Outside, nearly all the crew except those working
+37343	+		乗り込んだ面々のほとんどが揃い、	and passengers were gathered
+37344	+		船縁から向こうを注目していた。	at the railing, staring outward.
 
-37345	Rance	「おい、なんかあったのか」	「Hey, what happened?」
+37345	Rance	基本	「おい、なんかあったのか」	「Hey, what happened?」
 
-37346	Kobayakawa Chinu	「あ、ランスたま。	「Ah, Rance-tama.
-37347	+	　かいじゅーだって、かいじゅー」	　It's a kaiju, a kaiju!」
+37346	Kobayakawa Chinu		「あ、ランスたま。	「Ah, Rance-tama.
+37347	+		　かいじゅーだって、かいじゅー」	　It's a kaiju, a kaiju!」
 
-37348	Rance	「は？　怪獣だと？」	「Huh? A sea monster?」
+37348	Rance	真剣	「は？　怪獣だと？」	「Huh? A sea monster?」
 
-37349	-	ランスも周囲と同じ方向を見晴らしてみると、	When Rance looked in the same direction as everyone else,
-37350	+	何か巨大なものが見てとれた。	he could make out something enormous.
+37349	-		ランスも周囲と同じ方向を見晴らしてみると、	When Rance looked in the same direction as everyone else,
+37350	+		何か巨大なものが見てとれた。	he could make out something enormous.
 
-37351	Rance	「……確かに、なんかいるな……海に、怪獣か……」	「...Yeah, there's definitely something... a sea monster...」
+37351	Rance		「……確かに、なんかいるな……海に、怪獣か……」	「...Yeah, there's definitely something... a sea monster...」
 
-37352	Crook Mofus	「違います、ランス。あれは海獣です」	「No, Rance. That's a sea beast.」
+37352	Crook Mofus	基本	「違います、ランス。あれは海獣です」	「No, Rance. That's a sea beast.」
 
-37353	Rance	「お、クルックー。違うってどういうことだ」	「Oh, Crook. What do you mean it's different?」
+37353	Rance		「お、クルックー。違うってどういうことだ」	「Oh, Crook. What do you mean it's different?」
 
-37354	Crook Mofus	「海の獣と書きます。海獣レイドボス。	「It's written as sea beast. Sea Beast Raid Boss.
-37355	+	　神が世界を創る際に生み出した生き物です」	　A creature created by the gods when they made the world.」
+37354	Crook Mofus		「海の獣と書きます。海獣レイドボス。	「It's written as sea beast. Sea Beast Raid Boss.
+37355	+		　神が世界を創る際に生み出した生き物です」	　A creature created by the gods when they made the world.」
 
-37356	Rance	「ほほう、しかしでかいな……」	「Hmm, but it's huge...」
+37356	Rance		「ほほう、しかしでかいな……」	「Hmm, but it's huge...」
 
-37357	Miracle Tor	「史上、何度もその名前は出てくるな！	「Its name has appeared many times in history!
-37358	+	　そして多大な労力を払って倒しても、	　Even if defeated with great effort,
-37359	+	　また蘇ってくる！　不死ではなく不滅の生き物だ」	　it revives! An immortal, not undead, creature.」
+37357	Miracle Tor	笑顔	「史上、何度もその名前は出てくるな！	「Its name has appeared many times in history!
+37358	+		　そして多大な労力を払って倒しても、	　Even if defeated with great effort,
+37359	+		　また蘇ってくる！　不死ではなく不滅の生き物だ」	　it revives! An immortal, not undead, creature.」
 
-37360	-	頭上から、ミラクルが声を張り上げていた。	Miracle shouted from above.
-37361	+	箒で飛行し、高所から海獣を眺めていた。	She was flying on her broom, observing the sea beast from high up.
+37360	-		頭上から、ミラクルが声を張り上げていた。	Miracle shouted from above.
+37361	+		箒で飛行し、高所から海獣を眺めていた。	She was flying on her broom, observing the sea beast from high up.
 
-37362	Miracle Tor	「くく、地上の怪獣、空の階獣と並び称される、	「Kuku, one of the three great beasts alongside land monsters
-37363	+	　海獣か……この目で見られるとはな」	　and sky beasts... To see it with my own eyes.」
+37362	Miracle Tor	目閉じ	「くく、地上の怪獣、空の階獣と並び称される、	「Kuku, one of the three great beasts alongside land monsters
+37363	+		　海獣か……この目で見られるとはな」	　and sky beasts... To see it with my own eyes.」
 
-37364	Miracle Tor	「どのような力を持っているのだ？	「What kind of power does it have?
-37365	+	　そして知性は？　ふふふ、興味が尽きん」	　And does it have intelligence? Fufu, my curiosity is endless.」
+37364	Miracle Tor	基本	「どのような力を持っているのだ？	「What kind of power does it have?
+37365	+		　そして知性は？　ふふふ、興味が尽きん」	　And does it have intelligence? Fufu, my curiosity is endless.」
 
-37366	Rance	「うーむ。死なないと言われると挑戦したくなるな。	「Hmm. Hearing it doesn't die makes me want to challenge it.
-37367	+	　マズそうだが、食えるかもしれんし」	　Looks nasty, but maybe it's edible.」
+37366	Rance	真剣	「うーむ。死なないと言われると挑戦したくなるな。	「Hmm. Hearing it doesn't die makes me want to challenge it.
+37367	+		　マズそうだが、食えるかもしれんし」	　Looks nasty, but maybe it's edible.」
 
-37368	-	ざわりと、周囲がどよめいた。	A murmur rippled through the crowd.
+37368	-		ざわりと、周囲がどよめいた。	A murmur rippled through the crowd.
 
-37369	Captain	「待て待て待て！　あいつは襲わない限り	「Wait wait wait! It won't attack unless provoked,
-37370	+	　襲っては来ないと聞いたぞ！」	　or so I've heard!」
+37369	Captain	汗	「待て待て待て！　あいつは襲わない限り	「Wait wait wait! It won't attack unless provoked,
+37370	+		　襲っては来ないと聞いたぞ！」	　or so I've heard!」
 
-37371	Captain	「今なら余裕を持って逃げられる！	「We can still escape comfortably now!
-37372	+	　みんなそうしてるんだよ！」	　That's what everyone does!」
+37371	Captain		「今なら余裕を持って逃げられる！	「We can still escape comfortably now!
+37372	+		　みんなそうしてるんだよ！」	　That's what everyone does!」
 
-37373	Rance	「馬鹿め、雑魚どもと一緒にするな。	「Fool, don't lump me in with small fry.
-37374	+	　俺様にかかれば……」	　With me here...」
+37373	Rance	真剣	「馬鹿め、雑魚どもと一緒にするな。	「Fool, don't lump me in with small fry.
+37374	+		　俺様にかかれば……」	　With me here...」
 
-37375	Sill Plain	「ら、ランス様ランス様！	「R-Rance-sama! Rance-sama!
-37376	+	　でも、時間かかっちゃいますよ……」	　But it'll take too much time...」
+37375	Sill Plain	恥	「ら、ランス様ランス様！	「R-Rance-sama! Rance-sama!
+37376	+		　でも、時間かかっちゃいますよ……」	　But it'll take too much time...」
 
-37377	Rance	「む」	「Mu.」
+37377	Rance	真剣	「む」	「Mu.」
 
-37378	Sill Plain	「海がなくなっちゃうかもしれませんし……	「The sea might disappear...
-37379	+	　そしたらみんな、落ちちゃいますよ」	　Then everyone will fall.」
+37378	Sill Plain	泣き	「海がなくなっちゃうかもしれませんし……	「The sea might disappear...
+37379	+		　そしたらみんな、落ちちゃいますよ」	　Then everyone will fall.」
 
-37380	Rance	「……ちっ、まあいい。	「...Tch, fine.
-37381	+	　倒してもうまみが無さそうだしな」	　Doesn't seem worth it anyway.」
+37380	Rance	だる顔	「……ちっ、まあいい。	「...Tch, fine.
+37381	+		　倒してもうまみが無さそうだしな」	　Doesn't seem worth it anyway.」
 
-37382	Captain	「ほ、ほっ……じゃあ避けていくぜ」	「Haa... Let's avoid it then.」
+37382	Captain	基本	「ほ、ほっ……じゃあ避けていくぜ」	「Haa... Let's avoid it then.」
 
-37383	Rance	「さっさとしろ」	「Hurry up.」
+37383	Rance		「さっさとしろ」	「Hurry up.」
 
-37384	Captain	「面舵！　お前ら、そろそろ持ち場に戻りやがれ！」	「Starboard! Everyone, back to your posts!」
+37384	Captain		「面舵！　お前ら、そろそろ持ち場に戻りやがれ！」	「Starboard! Everyone, back to your posts!」
 
-37385	-	船長から号令が下り、サンライズ号はゆっくりと	At the captain's command, the Sunrise slowly
-37386	+	針路を変更していった。	changed course.
+37385	-		船長から号令が下り、サンライズ号はゆっくりと	At the captain's command, the Sunrise slowly
+37386	+		針路を変更していった。	changed course.

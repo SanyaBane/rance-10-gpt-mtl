@@ -5,51 +5,51 @@
 * Hornet	ホーネット	Female
 * Miracle Tor	ミラクル	Female
 
-35459	-	徹底的な捜索と、魔物から引き出した情報を元に、	Based on thorough searches and information extracted from monsters,
-35460	+	ランス達はルッコンフード洞窟へとたどりついた。	Rance and the others reached the Rukkon Food cave.
+35459	-		徹底的な捜索と、魔物から引き出した情報を元に、	Based on thorough searches and information extracted from monsters,
+35460	+		ランス達はルッコンフード洞窟へとたどりついた。	Rance and the others reached the Rukkon Food cave.
 
-35461	Rance	「…………これが、ルッコンフード……か？」	「............So this is Rukkon Food...?」
+35461	Rance	だる顔	「…………これが、ルッコンフード……か？」	「............So this is Rukkon Food...?」
 
-35462	Kentou Kanami	「間違いないわ。	「No mistake.
-35463	+	　……私も、本当かなって思うけど」	　...Even I find it hard to believe.」
+35462	Kentou Kanami	基本	「間違いないわ。	「No mistake.
+35463	+		　……私も、本当かなって思うけど」	　...Even I find it hard to believe.」
 
-35464	Masou Shizuka	「この辺りの複数の魔物からリーダーで読んだし。	「I read it from multiple monsters in the area with Leader.
-35465	+	　間違いない、はずだけど」	　It should be correct.」
+35464	Masou Shizuka		「この辺りの複数の魔物からリーダーで読んだし。	「I read it from multiple monsters in the area with Leader.
+35465	+		　間違いない、はずだけど」	　It should be correct.」
 
-35466	-	ランスの眼下には、	Below Rance
-35467	+	地下に続く小さな穴があるだけだった。	was only a small hole leading underground.
-35468	+	辛うじて、ランスが入り込める程度。	Just barely big enough for Rance to enter.
+35466	-		ランスの眼下には、	Below Rance
+35467	+		地下に続く小さな穴があるだけだった。	was only a small hole leading underground.
+35468	+		辛うじて、ランスが入り込める程度。	Just barely big enough for Rance to enter.
 
-35469	Rance	「こんなもん、パットンですら入れんぞ。	「Even Patton couldn't fit through this.
-35470	+	　あのデカブツが、どうやって……」	　How did that giant get in...?」
+35469	Rance	だる顔	「こんなもん、パットンですら入れんぞ。	「Even Patton couldn't fit through this.
+35470	+		　あのデカブツが、どうやって……」	　How did that giant get in...?」
 
-35471	Hornet	「無理矢理、でいいそうです」	「Forcing our way in is fine, apparently.」
+35471	Hornet	基本	「無理矢理、でいいそうです」	「Forcing our way in is fine, apparently.」
 
-35472	Rance	「ん？　どういうことだ？」	「Hm? What do you mean?」
+35472	Rance	真剣	「ん？　どういうことだ？」	「Hm? What do you mean?」
 
-35473	Hornet	「入口を削るなり掘るなりすれば、奥は空洞。	「If we widen or dig the entrance, the inside is hollow.
-35474	+	　入った後の入口は、自動的に埋まる……	　After entering, the entrance closes automatically...
-35475	+	　そういう場所なのだそうです」	　That's the kind of place it is.」
+35473	Hornet	基本	「入口を削るなり掘るなりすれば、奥は空洞。	「If we widen or dig the entrance, the inside is hollow.
+35474	+		　入った後の入口は、自動的に埋まる……	　After entering, the entrance closes automatically...
+35475	+		　そういう場所なのだそうです」	　That's the kind of place it is.」
 
-35476	Miracle Tor	「ほう……いや、構わん。	「Hmm... well, no problem.
-35477	+	　無理矢理入ればよい」	　We just force our way in.」
+35476	Miracle Tor		「ほう……いや、構わん。	「Hmm... well, no problem.
+35477	+		　無理矢理入ればよい」	　We just force our way in.」
 
-35478	Rance	「ミラクル？」	「Miracle?」
+35478	Rance	真剣	「ミラクル？」	「Miracle?」
 
-35479	Miracle Tor	「入口を掘るなり削るなり……	「Dig or widen the entrance...
-35480	+	　入ってしまえば、後で自動的に埋まる。	　Once inside, it will close automatically later.
-35481	+	　そういう性質の洞窟のようだな」	　It seems to be that kind of cave.」
+35479	Miracle Tor	目閉じ	「入口を掘るなり削るなり……	「Dig or widen the entrance...
+35480	+		　入ってしまえば、後で自動的に埋まる。	　Once inside, it will close automatically later.
+35481	+		　そういう性質の洞窟のようだな」	　It seems to be that kind of cave.」
 
-35482	Miracle Tor	「あの巨体を隠すには、うってつけというわけだ」	「Perfect for hiding that giant body.」
+35482	Miracle Tor	基本	「あの巨体を隠すには、うってつけというわけだ」	「Perfect for hiding that giant body.」
 
-35483	Rance	「面妖な……まぁいい」	「Suspicious... whatever.」
+35483	Rance	真剣	「面妖な……まぁいい」	「Suspicious... whatever.」
 
-35484	-	ランスが、カオスを抜いて構える。	Rance drew Chaos and readied it.
+35484	-		ランスが、カオスを抜いて構える。	Rance drew Chaos and readied it.
 
-35485	Rance	「この奥に、奴がいる！　ぶち破って、ぶち殺す！	「He's inside! We'll break through and slaughter him!
-35486	+	　そして美樹ちゃんを助ける！」	　And rescue Miki-chan!」
+35485	Rance	怒り	「この奥に、奴がいる！　ぶち破って、ぶち殺す！	「He's inside! We'll break through and slaughter him!
+35486	+		　そして美樹ちゃんを助ける！」	　And rescue Miki-chan!」
 
-35487	Rance	「いくぞ、突撃だ！」	「Let's go, charge!」
+35487	Rance		「いくぞ、突撃だ！」	「Let's go, charge!」
 
-35488	-	強烈な一撃で入り口はこじ開けられ、	With a powerful strike the entrance was forced open,
-35489	+	ランスを先頭にして最後の突入が始まった。	and the final assault began with Rance at the lead.
+35488	-		強烈な一撃で入り口はこじ開けられ、	With a powerful strike the entrance was forced open,
+35489	+		ランスを先頭にして最後の突入が始まった。	and the final assault began with Rance at the lead.

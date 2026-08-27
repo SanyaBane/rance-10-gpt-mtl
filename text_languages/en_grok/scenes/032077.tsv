@@ -2,166 +2,166 @@
 * Rance	ランス	Male
 * Feliss	フェリス	Female
 
-120934	-	ランスがフェリスの部屋に顔を出していた。	Rance visited Feliss's room.
+120934	-		ランスがフェリスの部屋に顔を出していた。	Rance visited Feliss's room.
 
-120935	Rance	「おっす」	「Yo.」
+120935	Rance	基本	「おっす」	「Yo.」
 
-120936	Feliss	「…………」	「............」
+120936	Feliss		「…………」	「............」
 
-120937	Feliss	「……なに、また来たの？」	「...What, you're here again?」
+120937	Feliss		「……なに、また来たの？」	「...What, you're here again?」
 
-120938	Rance	「なんだ、その言い方は。	「What's with that tone.
-120939	+	　俺はお前のご主人様だぞ」	　I'm your master.」
+120938	Rance		「なんだ、その言い方は。	「What's with that tone.
+120939	+		　俺はお前のご主人様だぞ」	　I'm your master.」
 
-120940	Feliss	「はいはい、申し訳ありません。	「Yes yes, sorry.
-120941	+	　ご主人様」	　Master.」
+120940	Feliss	不機嫌	「はいはい、申し訳ありません。	「Yes yes, sorry.
+120941	+		　ご主人様」	　Master.」
 
-120942	Rance	「なんか適当だな……」	「That's pretty half-assed...」
+120942	Rance	基本	「なんか適当だな……」	「That's pretty half-assed...」
 
-120943	Rance	「まあいいや。	「Whatever.
-120944	+	　なにしてたんだ？」	　What were you doing?」
+120943	Rance		「まあいいや。	「Whatever.
+120944	+		　なにしてたんだ？」	　What were you doing?」
 
-120945	Feliss	「なにって……」	「What...」
+120945	Feliss		「なにって……」	「What...」
 
-120946	Feliss	「さやいんげんの筋、取ってた……」	　Removing the strings from string beans...」
+120946	Feliss		「さやいんげんの筋、取ってた……」	　Removing the strings from string beans...」
 
-120947	Rance	「…………」	「............」
+120947	Rance		「…………」	「............」
 
-120948	Feliss	「なによ、さやいんげんはビタミン豊富なのよ？	「What, string beans are rich in vitamins?
-120949	+	　離乳食にも使えるんだから」	　They're good for baby food.」
+120948	Feliss		「なによ、さやいんげんはビタミン豊富なのよ？	「What, string beans are rich in vitamins?
+120949	+		　離乳食にも使えるんだから」	　They're good for baby food.」
 
-120950	Rance	「お前、しばらく会わない間に	「You've become quite domestic
-120951	+	　随分と所帯じみたなぁ……」	　while I wasn't seeing you...」
+120950	Rance		「お前、しばらく会わない間に	「You've become quite domestic
+120951	+		　随分と所帯じみたなぁ……」	　while I wasn't seeing you...」
 
-120952	Feliss	「ビスケッタさんに頼まれたの」	「Biscuitta asked me to.」
+120952	Feliss		「ビスケッタさんに頼まれたの」	「Biscuitta asked me to.」
 
-120953	Rance	「悪魔なのに？　従ってるのか？」	「Even though you're a demon? You're obeying?」
+120953	Rance		「悪魔なのに？　従ってるのか？」	「Even though you're a demon? You're obeying?」
 
-120954	Feliss	「あんたに過去されていた	「Compared to the orders you gave me before,
-120955	+	　命令に比べれば断然マシね」	　this is way better.」
+120954	Feliss		「あんたに過去されていた	「Compared to the orders you gave me before,
+120955	+		　命令に比べれば断然マシね」	　this is way better.」
 
-120956	Rance	「ぐっ……」	「Guh...」
+120956	Rance	だる顔	「ぐっ……」	「Guh...」
 
-120957	Rance~	（なーんか……	（Somehow...
-120958	+	　こいつにそういうこと言われると、	　when she says things like that,
-120959	+	　胸の辺りがもやっとする……何故だ……）	　my chest feels stuffy... why...）
+120957	Rance~		（なーんか……	（Somehow...
+120958	+		　こいつにそういうこと言われると、	　when she says things like that,
+120959	+		　胸の辺りがもやっとする……何故だ……）	　my chest feels stuffy... why...）
 
-120960	Rance	「まあいいや。	「Whatever.
-120961	+	　ほれ、食え」	　Here, eat this.」
+120960	Rance	真剣	「まあいいや。	「Whatever.
+120961	+		　ほれ、食え」	　Here, eat this.」
 
-120962	Feliss	「なにこれ？」	「What's this?」
+120962	Feliss	基本	「なにこれ？」	「What's this?」
 
-120963	Rance	「見て分からんか。	「Can't you tell by looking?
-120964	+	　ケーキだ」	　It's cake.」
+120963	Rance		「見て分からんか。	「Can't you tell by looking?
+120964	+		　ケーキだ」	　It's cake.」
 
-120965	Feliss	「け、ケーキ……」	「C-Cake...」
+120965	Feliss		「け、ケーキ……」	「C-Cake...」
 
-120966	Rance~	（これは別にしもべに気を遣ってるわけではないぞ。	（I'm not being considerate to my servant or anything.
-120967	+	　たまたま手に入ったから、	　I just happened to get it,
-120968	+	　たまたまこいつにやるだけだ、うむ）	　and just happened to give it to her, yeah.）
+120966	Rance~	真剣	（これは別にしもべに気を遣ってるわけではないぞ。	（I'm not being considerate to my servant or anything.
+120967	+		　たまたま手に入ったから、	　I just happened to get it,
+120968	+		　たまたまこいつにやるだけだ、うむ）	　and just happened to give it to her, yeah.）
 
-120969	Feliss~	（ケーキ……）	（Cake...）
+120969	Feliss~	基本	（ケーキ……）	（Cake...）
 
-120970	Feliss~	（私にこんなことして……	（Doing this for me...
-120971	+	　何が狙いなの……？）	　What is he planning...?）
+120970	Feliss~		（私にこんなことして……	（Doing this for me...
+120971	+		　何が狙いなの……？）	　What is he planning...?）
 
-120972	Feliss~	（まさか、毒でも入ってて、	（No way there's poison in it,
-120973	+	　私が苦しむのを見て笑おうってんじゃ……）	　and he's going to laugh while I suffer...?）
+120972	Feliss~		（まさか、毒でも入ってて、	（No way there's poison in it,
+120973	+		　私が苦しむのを見て笑おうってんじゃ……）	　and he's going to laugh while I suffer...?）
 
-120974	Feliss	「…………」	「............」
+120974	Feliss		「…………」	「............」
 
-120975	Feliss	「わー、美味しそうー。	「Waa, it looks delicious.
-120976	+	　ありがとう、後で頂くわー」	　Thank you, I'll eat it later~」
+120975	Feliss	憂い微笑	「わー、美味しそうー。	「Waa, it looks delicious.
+120976	+		　ありがとう、後で頂くわー」	　Thank you, I'll eat it later~」
 
-120977	Rance	「いや、今食え」	「No, eat it now.」
+120977	Rance	基本	「いや、今食え」	「No, eat it now.」
 
-120978	Feliss	「ぐっ……」	「Guh...」
+120978	Feliss		「ぐっ……」	「Guh...」
 
-120979	Rance	「？　どうした？」	「? What's wrong?」
+120979	Rance		「？　どうした？」	「? What's wrong?」
 
-120980	Feliss~	（間違いない……	（No doubt...
-120981	+	　毒入りだ……）	　it's poisoned...）
+120980	Feliss~		（間違いない……	（No doubt...
+120981	+		　毒入りだ……）	　it's poisoned...）
 
-120982	Feliss	「し……」	「Sh...」
+120982	Feliss		「し……」	「Sh...」
 
-120983	Feliss	「しもべが先に食べるわけには……	「A servant can't eat before the master...
-120984	+	　ご主人様、先にどうぞ」	　Master, please eat first.」
+120983	Feliss		「しもべが先に食べるわけには……	「A servant can't eat before the master...
+120984	+		　ご主人様、先にどうぞ」	　Master, please eat first.」
 
-120985	Rance	「いや、お前のケーキだ。	「No, it's your cake.
-120986	+	　お前が食え」	　You eat it.」
+120985	Rance		「いや、お前のケーキだ。	「No, it's your cake.
+120986	+		　お前が食え」	　You eat it.」
 
-120987	Feliss	「……っ」	「...!」
+120987	Feliss		「……っ」	「...!」
 
-120988	Feliss~	（これ……どの程度の毒ケーキ？）	（How strong is this poisoned cake?）
+120988	Feliss~		（これ……どの程度の毒ケーキ？）	（How strong is this poisoned cake?）
 
-120989	Feliss~	（体が痺れるくらいならいいけど……	（If it just numbs my body it's fine but...
-120990	+	　即死したらどうしよう……）	　what if it's instant death...?）
+120989	Feliss~		（体が痺れるくらいならいいけど……	（If it just numbs my body it's fine but...
+120990	+		　即死したらどうしよう……）	　what if it's instant death...?）
 
-120991	Feliss	「…………」	「............」
+120991	Feliss		「…………」	「............」
 
-120992	Feliss	「だ、ダークランス……」	「D-Dark Rance...」
+120992	Feliss		「だ、ダークランス……」	「D-Dark Rance...」
 
-120993	Feliss	「駄目なお母さんでごめんねぇ……」	「Sorry for being a bad mother...」
+120993	Feliss		「駄目なお母さんでごめんねぇ……」	「Sorry for being a bad mother...」
 
-120994	-	はらはらとフェリスが泣き出した。	Tears streamed down Feliss's face.
+120994	-		はらはらとフェリスが泣き出した。	Tears streamed down Feliss's face.
 
-120995	Rance	「何故泣く……」	「Why are you crying...」
+120995	Rance		「何故泣く……」	「Why are you crying...」
 
-120996	Feliss~	（ええい、ままよ！）	（Fine, whatever!）
+120996	Feliss~		（ええい、ままよ！）	（Fine, whatever!）
 
-120997	Feliss	「ばくっ！」	「Chomp!」
+120997	Feliss	不機嫌	「ばくっ！」	「Chomp!」
 
-120998	Feliss	「もっぐ、もっぐ……！	「Munch, munch...!
-120999	+	　もっぐ、もっぐ……！」	　Munch, munch...!」
+120998	Feliss		「もっぐ、もっぐ……！	「Munch, munch...!
+120999	+		　もっぐ、もっぐ……！」	　Munch, munch...!」
 
-121000	Feliss	「……んっくん」	「...Gulp.」
+121000	Feliss		「……んっくん」	「...Gulp.」
 
-121001	Feliss	「あれ？　美味しい……」	「Huh? This is delicious...」
+121001	Feliss	基本	「あれ？　美味しい……」	「Huh? This is delicious...」
 
-121002	Rance	「そーか、美味いか」	「Oh yeah? Tastes good, huh.」
+121002	Rance	真剣	「そーか、美味いか」	「Oh yeah? Tastes good, huh.」
 
-121003	Feliss	「え、ええ……まあ、甘くて……」	「Y-Yes... Well, it's sweet...」
+121003	Feliss	基本	「え、ええ……まあ、甘くて……」	「Y-Yes... Well, it's sweet...」
 
-121004	Rance	「そーか」	「I see.」
+121004	Rance	真剣	「そーか」	「I see.」
 
-121005	Feliss	「あの……」	「Um...」
+121005	Feliss	基本	「あの……」	「Um...」
 
-121006	Rance	「そーかそーか」	「Yeah yeah.」
+121006	Rance	真剣	「そーかそーか」	「Yeah yeah.」
 
-121007	-	そーかそーかと繰り返しながら、	While repeating yeah yeah over and over,
-121008	+	ランスは出て行った。	Rance left the room.
+121007	-		そーかそーかと繰り返しながら、	While repeating yeah yeah over and over,
+121008	+		ランスは出て行った。	Rance left the room.
 
-121009	Feliss	「…………」	「............」
+121009	Feliss	基本	「…………」	「............」
 
-121010	Feliss	「これ……もしかして……	「This... could it be...
-121011	+	　謝罪のつもりだったのかしら……」	　His way of apologizing...?」
+121010	Feliss		「これ……もしかして……	「This... could it be...
+121011	+		　謝罪のつもりだったのかしら……」	　His way of apologizing...?」
 
-121012	Feliss	「こんなことするくらいなら、	「If he was going to do something like this,
-121013	+	　最初から……」	　he should have from the start...」
+121012	Feliss		「こんなことするくらいなら、	「If he was going to do something like this,
+121013	+		　最初から……」	　he should have from the start...」
 
-121014	Feliss	「ああ、いえ……やめましょう……	「Ah, no... Let's stop...
-121015	+	　言い出すとキリがないから……」	　If I start complaining there's no end to it...」
+121014	Feliss		「ああ、いえ……やめましょう……	「Ah, no... Let's stop...
+121015	+		　言い出すとキリがないから……」	　If I start complaining there's no end to it...」
 
-121016	Feliss	「あ、美味しい……」	「Ah, it's delicious...」
+121016	Feliss		「あ、美味しい……」	「Ah, it's delicious...」
 
-121017	Feliss	「…………」	「............」
+121017	Feliss		「…………」	「............」
 
-121018	Feliss	「もう……私のことは諦めてるんだけどな……」	「He's already given up on me though...」
+121018	Feliss		「もう……私のことは諦めてるんだけどな……」	「He's already given up on me though...」
 
-121019	Feliss	「私はいくらでも	「I don't mind no matter
-121020	+	　ひどい目に遭っても構わないから……」	　how badly he treats me...」
+121019	Feliss		「私はいくらでも	「I don't mind no matter
+121020	+		　ひどい目に遭っても構わないから……」	　how badly he treats me...」
 
-121021	Feliss	「でも……あの子だけは、って……」	「But... that child is the only one...」
+121021	Feliss		「でも……あの子だけは、って……」	「But... that child is the only one...」
 
-121022	Feliss	「はあ……」	「Haa...」
+121022	Feliss		「はあ……」	「Haa...」
 
-121023	Feliss	「これも、キリがないわね」	「This is endless too.」
+121023	Feliss		「これも、キリがないわね」	「This is endless too.」
 
-121024	Feliss	「うん、美味しい美味しい……」	「Yeah, so delicious...」
+121024	Feliss		「うん、美味しい美味しい……」	「Yeah, so delicious...」
 
-121025	-	結局、フェリスは完食した。	In the end, Feliss ate every last bite.
+121025	-		結局、フェリスは完食した。	In the end, Feliss ate every last bite.
 
-121026	Feliss	「本当は壁にでも	「I was actually thinking of smashing it against the wall
-121027	+	　叩きつけてやろうかと思ったけど……」	　but...」
+121026	Feliss		「本当は壁にでも	「I was actually thinking of smashing it against the wall
+121027	+		　叩きつけてやろうかと思ったけど……」	　but...」
 
-121028	Feliss	「……私も甘いなあ」	「...I'm too soft too.」
+121028	Feliss		「……私も甘いなあ」	「...I'm too soft too.」

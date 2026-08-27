@@ -8,56 +8,56 @@
 * Houjou Souun	早雲	Male
 * Miracle Tor	ミラクル	Female
 
-34050	-	魔物界の奥深く。	Deep within the Monster Realm.
+34050	-		魔物界の奥深く。	Deep within the Monster Realm.
 
-34051	-	空に浮かぶランス城をトッポスに引かせるという	Using the bold plan of having Toppos pull the floating Rance Castle in the sky,
-34052	+	奇策で、魔人討伐隊はここまでたどりついていた。	the Fiend Extermination Squad had made it this far.
+34051	-		空に浮かぶランス城をトッポスに引かせるという	Using the bold plan of having Toppos pull the floating Rance Castle in the sky,
+34052	+		奇策で、魔人討伐隊はここまでたどりついていた。	the Fiend Extermination Squad had made it this far.
 
-34053	Rance	「今、どの辺りだ？」	「Where are we now?」
+34053	Rance	基本	「今、どの辺りだ？」	「Where are we now?」
 
-34054	Urza Pranaice	「そろそろ、ビューティツリーという	「Soon, the monster city called Beauty Tree
-34055	+	　魔物の都市が見えてくる頃ですね」	　should come into view.」
+34054	Urza Pranaice		「そろそろ、ビューティツリーという	「Soon, the monster city called Beauty Tree
+34055	+		　魔物の都市が見えてくる頃ですね」	　should come into view.」
 
-34056	Rance	「ほう、どれどれ」	「Hmm, let's see.」
+34056	Rance		「ほう、どれどれ」	「Hmm, let's see.」
 
-34057	-	ランスは窓から遠くへと視線を向けた。	Rance turned his gaze far into the distance from the window.
+34057	-		ランスは窓から遠くへと視線を向けた。	Rance turned his gaze far into the distance from the window.
 
-34058	Rance	「ほーう。あれがビューティツリーか。	「Hoo. So that's Beauty Tree.
-34059	+	　でかいな……美人が居そうな名前だが」	　It's huge... The name sounds like it'd have beautiful girls though.」
+34058	Rance		「ほーう。あれがビューティツリーか。	「Hoo. So that's Beauty Tree.
+34059	+		　でかいな……美人が居そうな名前だが」	　It's huge... The name sounds like it'd have beautiful girls though.」
 
-34060	Urza Pranaice	「……いるとしても魔物でしょうね」	「...Even if there are, they'd be monsters.」
+34060	Urza Pranaice	真剣	「……いるとしても魔物でしょうね」	「...Even if there are, they'd be monsters.」
 
-34061	Rance	「ようし決めた！　攻めるぞ！	「Alright, decided! We're attacking!
-34062	+	　ケイブリスがいるかもしれん」	　Kayblis might be here.」
+34061	Rance	基本	「ようし決めた！　攻めるぞ！	「Alright, decided! We're attacking!
+34062	+		　ケイブリスがいるかもしれん」	　Kayblis might be here.」
 
-34063	Rance	「ついでに美人の女の子モンスターも、	「While we're at it, if there are cute monster girls,
-34064	+	　いたら確保だ。がはははは」	　we'll secure them. Gahahahaha.」
+34063	Rance	笑顔	「ついでに美人の女の子モンスターも、	「While we're at it, if there are cute monster girls,
+34064	+		　いたら確保だ。がはははは」	　we'll secure them. Gahahahaha.」
 
-34065	Urza Pranaice	「はい、了解いたしました。	「Yes, understood.
-34066	+	　では、出撃の準備を」	　Then let's prepare for sortie.」
+34065	Urza Pranaice	真剣	「はい、了解いたしました。	「Yes, understood.
+34066	+		　では、出撃の準備を」	　Then let's prepare for sortie.」
 
-34067	-	慌ただしく降下の準備が始まり、	Preparations for descent began in a hurry,
-34068	+	魔人討伐隊が活性化していく。	and the Fiend Extermination Squad grew active.
+34067	-		慌ただしく降下の準備が始まり、	Preparations for descent began in a hurry,
+34068	+		魔人討伐隊が活性化していく。	and the Fiend Extermination Squad grew active.
 
-34069	Kabachahn the Lightning	「ふむ……………往くか」	「Hmm............ Shall we go.」
+34069	Kabachahn the Lightning	基本	「ふむ……………往くか」	「Hmm............ Shall we go.」
 
-34070	Melfeis Promenade	「はいっ……油断しないよう……」	「Yes... Let's not let our guard down...」
+34070	Melfeis Promenade		「はいっ……油断しないよう……」	「Yes... Let's not let our guard down...」
 
-34071	Masou Shizuka	「いい？　突出しないように。	「Okay? Don't rush ahead.
-34072	+	　変な物があっても飛びついちゃダメよ」	　Even if you see something weird, don't jump at it.」
+34071	Masou Shizuka		「いい？　突出しないように。	「Okay? Don't rush ahead.
+34072	+		　変な物があっても飛びついちゃダメよ」	　Even if you see something weird, don't jump at it.」
 
-34073	Nagi su Ragarl	「へーきへーき！	「No problem!
-34074	+	　カブトムシ見つけても我慢するよ」	　I'll hold back even if I find a beetle.」
+34073	Nagi su Ragarl		「へーきへーき！	「No problem!
+34074	+		　カブトムシ見つけても我慢するよ」	　I'll hold back even if I find a beetle.」
 
-34075	Masou Shizuka	「不安だわ……」	「I'm worried...」
+34075	Masou Shizuka	呆れ	「不安だわ……」	「I'm worried...」
 
-34076	Houjou Souun	「奇襲状態……とはいえ、	「It's a surprise attack... but still,
-34077	+	　相手は数万……手は抜けないな」	　there are tens of thousands... We can't hold back.」
+34076	Houjou Souun	基本	「奇襲状態……とはいえ、	「It's a surprise attack... but still,
+34077	+		　相手は数万……手は抜けないな」	　there are tens of thousands... We can't hold back.」
 
-34078	Miracle Tor	「さて…………何が見られるか」	「Now then............ What will we see.」
+34078	Miracle Tor		「さて…………何が見られるか」	「Now then............ What will we see.」
 
-34079	Rance	「ケイブリスが見つかったら、決戦だ。	「If we find Kayblis, it's the decisive battle.
-34080	+	　気合いを入れろよ！」	　Get pumped up!」
+34079	Rance		「ケイブリスが見つかったら、決戦だ。	「If we find Kayblis, it's the decisive battle.
+34080	+		　気合いを入れろよ！」	　Get pumped up!」
 
-34081	-	魔人討伐隊は一塊になって、	The Fiend Extermination Squad gathered together
-34082	+	ビューティツリーへ降下していった。	and descended toward Beauty Tree.
+34081	-		魔人討伐隊は一塊になって、	The Fiend Extermination Squad gathered together
+34082	+		ビューティツリーへ降下していった。	and descended toward Beauty Tree.

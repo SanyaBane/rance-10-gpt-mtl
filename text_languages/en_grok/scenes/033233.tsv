@@ -7,217 +7,217 @@
 * Nagi su Ragarl	ナギ２	Female
 * El Mofus	エール２	Player's choice
 
-215808	-	あなたはテントの中で	You slowly woke up inside the tent.
-215809	+	ゆっくりと目を覚ました。	
+215808	-		あなたはテントの中で	You slowly woke up inside the tent.
+215809	+		ゆっくりと目を覚ました。	
 
-215810	Nagata-kun	「お、ようやく起きたか。	「Oh, you're finally awake.
-215811	+	　おはよーさん、＜エール＞」	　Good morning, ＜エール＞.」
+215810	Nagata-kun	基本	「お、ようやく起きたか。	「Oh, you're finally awake.
+215811	+		　おはよーさん、＜エール＞」	　Good morning, ＜エール＞.」
 
-215812	Nagata-kun	「先にテント出といてくれや。	「Go out first.
-215813	+	　俺はこの髪のセットが中々上手くいかなくてよ」	　I'm having trouble setting my hair nicely today.」
+215812	Nagata-kun		「先にテント出といてくれや。	「Go out first.
+215813	+		　俺はこの髪のセットが中々上手くいかなくてよ」	　I'm having trouble setting my hair nicely today.」
 
-215814	-	長田君は今日も朝から長田君だった。	Nagata-kun was being Nagata-kun from the morning as usual.
+215814	-		長田君は今日も朝から長田君だった。	Nagata-kun was being Nagata-kun from the morning as usual.
 
-215815	-	テントの入り口を開くと、	When you opened the tent entrance,
-215816	+	朝の冷えた空気が吹き抜け、	the cool morning air blew through,
-215817	+	あなたは思わず体をぶるりと震わせた。	and you involuntarily shivered.
+215815	-		テントの入り口を開くと、	When you opened the tent entrance,
+215816	+		朝の冷えた空気が吹き抜け、	the cool morning air blew through,
+215817	+		あなたは思わず体をぶるりと震わせた。	and you involuntarily shivered.
 
-215818	-	人数が増えたことで、	With the increased number of people,
-215819	+	あなた達の寝床も本格的に大きくなっていた。	your sleeping area had become properly large.
+215818	-		人数が増えたことで、	With the increased number of people,
+215819	+		あなた達の寝床も本格的に大きくなっていた。	your sleeping area had become properly large.
 
-215820	-	用意したのは全てリセットである。	Reset had prepared all of it.
+215820	-		用意したのは全てリセットである。	Reset had prepared all of it.
 
-215821	-	曰く、昔から兄弟でこうして	She said it was because she had always dreamed
-215822	+	旅するのが夢だったから奮発した、	of traveling with her siblings like this,
-215823	+	とのことだった。	so she went all out.
+215821	-		曰く、昔から兄弟でこうして	She said it was because she had always dreamed
+215822	+		旅するのが夢だったから奮発した、	of traveling with her siblings like this,
+215823	+		とのことだった。	so she went all out.
 
-215824	-	その当のリセットは、	At that moment Reset
-215825	+	ロッキーと共に朝食を作っていた。	was making breakfast together with Rocky.
+215824	-		その当のリセットは、	At that moment Reset
+215825	+		ロッキーと共に朝食を作っていた。	was making breakfast together with Rocky.
 
-215826	Reset Kalar	「あ、おはよう、＜エール＞ちゃん。	「Ah, good morning, ＜エール＞-chan.
-215827	+	　そろそろ朝ご飯出来るから、	　Breakfast will be ready soon,
-215828	+	　顔を洗ってきてねー」	　go wash your face.」
+215826	Reset Kalar		「あ、おはよう、＜エール＞ちゃん。	「Ah, good morning, ＜エール＞-chan.
+215827	+		　そろそろ朝ご飯出来るから、	　Breakfast will be ready soon,
+215828	+		　顔を洗ってきてねー」	　go wash your face.」
 
-215829	Rocky Bank	「おはようございますだ、＜エール＞様」	「Good morning, ＜エール＞-sama.」
+215829	Rocky Bank	楽	「おはようございますだ、＜エール＞様」	「Good morning, ＜エール＞-sama.」
 
-215830	-	近くを流れる冷たい川で顔を洗うと、	Washing your face in the cold river nearby
-215831	+	身も心も引き締まるような気分がした。	made your body and mind feel refreshed.
+215830	-		近くを流れる冷たい川で顔を洗うと、	Washing your face in the cold river nearby
+215831	+		身も心も引き締まるような気分がした。	made your body and mind feel refreshed.
 
-215832	-	隣には食器を洗っている志津香がいた。	Next to you Shizuka was washing dishes.
+215832	-		隣には食器を洗っている志津香がいた。	Next to you Shizuka was washing dishes.
 
-215833	Masou Shizuka	「おはよう」	「Good morning.」
+215833	Masou Shizuka	帽子なし	「おはよう」	「Good morning.」
 
-215834	-	挨拶は最低限。	A minimal greeting.
-215835	+	それでも志津香は毎朝、挨拶してくれた。	Still, Shizuka greeted you every morning.
+215834	-		挨拶は最低限。	A minimal greeting.
+215835	+		それでも志津香は毎朝、挨拶してくれた。	Still, Shizuka greeted you every morning.
 
-215836	-	キャンプ地から少し離れた場所では、	A little away from the camp site,
-215837	+	今日もまた常のようにドッスとワッスの二人が	Doss and Wass were once again
-215838	+	見張りとして立っていた。	standing guard as usual.
+215836	-		キャンプ地から少し離れた場所では、	A little away from the camp site,
+215837	+		今日もまた常のようにドッスとワッスの二人が	Doss and Wass were once again
+215838	+		見張りとして立っていた。	standing guard as usual.
 
-215839	-	松下姫は丸太に座って、	Princess Panasonic was sitting on a log,
-215840	+	カラクリを弄っていた。	tinkering with a mechanism.
+215839	-		松下姫は丸太に座って、	Princess Panasonic was sitting on a log,
+215840	+		カラクリを弄っていた。	tinkering with a mechanism.
 
-215841	-	こうして見るとまるでぬいぐるみのようだった。	She looked just like a stuffed doll.
+215841	-		こうして見るとまるでぬいぐるみのようだった。	She looked just like a stuffed doll.
 
-215842	Masou Shizuka	「松下姫、悪いんだけど、	「Princess Panasonic, sorry to ask,
-215843	+	　ナギを起こしに行ってくれる？」	　but can you go wake Nagi?」
+215842	Masou Shizuka	基本	「松下姫、悪いんだけど、	「Princess Panasonic, sorry to ask,
+215843	+		　ナギを起こしに行ってくれる？」	　but can you go wake Nagi?」
 
-215844	Princess Panasonic	「了解でち。	「Understood.
-215845	+	　もう、寝ぼすけなんて、	　Geez, being a sleepyhead
-215846	+	　淑女じゃないでち……」	　isn't ladylike...」
+215844	Princess Panasonic		「了解でち。	「Understood.
+215845	+		　もう、寝ぼすけなんて、	　Geez, being a sleepyhead
+215846	+		　淑女じゃないでち……」	　isn't ladylike...」
 
-215847	-	見慣れた――見慣れるようになった、	A familiar一now completely familiar一
-215848	+	朝のいつもの風景だった。	morning scene.
+215847	-		見慣れた――見慣れるようになった、	A familiar一now completely familiar一
+215848	+		朝のいつもの風景だった。	morning scene.
 
-215849	-	今日もまた冒険が始まる。	Today, the adventure begins once more.
+215849	-		今日もまた冒険が始まる。	Today, the adventure begins once more.
 
-215850	-	朝の食事の時間、長田君が質問した。	During breakfast, Nagata-kun asked a question.
+215850	-		朝の食事の時間、長田君が質問した。	During breakfast, Nagata-kun asked a question.
 
-215851	Nagata-kun	「あ、そういや……	「Ah, by the way...
-215852	+	　そろそろ聞いておきたいんすけど」	　I've been wanting to ask.
+215851	Nagata-kun		「あ、そういや……	「Ah, by the way...
+215852	+		　そろそろ聞いておきたいんすけど」	　I've been wanting to ask.
 
-215853	Nagata-kun	「ザンスってどんな奴なんすか？」	「What kind of guy is Zance?」
+215853	Nagata-kun		「ザンスってどんな奴なんすか？」	「What kind of guy is Zance?」
 
-215854	-	朝の喧噪がピタリと止まった。	The morning chatter suddenly stopped.
+215854	-		朝の喧噪がピタリと止まった。	The morning chatter suddenly stopped.
 
-215855	Masou Shizuka	「…………」	「............」
+215855	Masou Shizuka	帽子なし	「…………」	「............」
 
-215856	Nagi su Ragarl	「あ〜……」	「Ahh...」
+215856	Nagi su Ragarl		「あ〜……」	「Ahh...」
 
-215857	Rocky Bank	「ザンス様、だすか……」	「Zance-sama, huh...」
+215857	Rocky Bank	とほほ	「ザンス様、だすか……」	「Zance-sama, huh...」
 
-215858	Nagata-kun	「ほら、この空気だ！	「See, this atmosphere!
-215859	+	　マジなんなんすか！？」	　What the heck is going on!?」
+215858	Nagata-kun	基本	「ほら、この空気だ！	「See, this atmosphere!
+215859	+		　マジなんなんすか！？」	　What the heck is going on!?」
 
-215860	Reset Kalar	「あはは……」	「Ahaha...」
+215860	Reset Kalar	たははー	「あはは……」	「Ahaha...」
 
-215861	Reset Kalar	「そうだね、	「Yeah,
-215862	+	　もうすぐでリーザスの首都に到着するし、	　we'll reach the capital of Leazas soon,
-215863	+	　そろそろ説明しよっか」	　so I should explain now.」
+215861	Reset Kalar	基本	「そうだね、	「Yeah,
+215862	+		　もうすぐでリーザスの首都に到着するし、	　we'll reach the capital of Leazas soon,
+215863	+		　そろそろ説明しよっか」	　so I should explain now.」
 
-215864	Reset Kalar	「リーザス国主リア女王と、	「Son of Queen Lia, ruler of Leazas,
-215865	+	　魔王ランスの子、	　and child of Demon King Rance,
-215866	+	　ザンス・パラパラ・リーザス」	　Zance Parapara Leazas.」
+215864	Reset Kalar		「リーザス国主リア女王と、	「Son of Queen Lia, ruler of Leazas,
+215865	+		　魔王ランスの子、	　and child of Demon King Rance,
+215866	+		　ザンス・パラパラ・リーザス」	　Zance Parapara Leazas.」
 
-215867	Reset Kalar	「リーザスの次期国王にして、	「The next king of Leazas,
-215868	+	　今は赤の軍の将軍してる」	　and currently a general of the Red Army.」
+215867	Reset Kalar		「リーザスの次期国王にして、	「The next king of Leazas,
+215868	+		　今は赤の軍の将軍してる」	　and currently a general of the Red Army.」
 
-215869	Nagata-kun	「え、赤の軍の将軍って……	「Eh, general of the Red Army...
-215870	+	　それ、めっちゃすごいんじゃ」	　that's really amazing,
+215869	Nagata-kun		「え、赤の軍の将軍って……	「Eh, general of the Red Army...
+215870	+		　それ、めっちゃすごいんじゃ」	　that's really amazing,
 
-215871	Reset Kalar	「うん、慣例的にリーザス最強の	「Yeah, by tradition only the strongest swordsman
-215872	+	　剣士しかなれない決まりだからね」	　of Leazas can become one.」
+215871	Reset Kalar		「うん、慣例的にリーザス最強の	「Yeah, by tradition only the strongest swordsman
+215872	+		　剣士しかなれない決まりだからね」	　of Leazas can become one.」
 
-215873	Masou Shizuka	「赤の将軍しか使えない魔法剣バイ・ロードも	「He already inherited the magic sword By Road
-215874	+	　既に先代のリックさんから受け継いでるし……」	　that only the Red General can use from the previous Rick...」
+215873	Masou Shizuka	帽子なし	「赤の将軍しか使えない魔法剣バイ・ロードも	「He already inherited the magic sword By Road
+215874	+		　既に先代のリックさんから受け継いでるし……」	　that only the Red General can use from the previous Rick...」
 
-215875	Nagi su Ragarl	「ま、名実共に人類最強クラスの一人ね」	「Well, he's one of the strongest humans in name and reality.」
+215875	Nagi su Ragarl		「ま、名実共に人類最強クラスの一人ね」	「Well, he's one of the strongest humans in name and reality.」
 
-215876	Nagata-kun	「おーおー、いいじゃないっすか！	「Ohh, that's great!
-215877	+	　魔王を倒すつもりなら	　If we're going to defeat the Demon King,
-215878	+	　絶対に欲しい人材じゃないっすか！」	　we definitely want someone like him!」
+215876	Nagata-kun	基本	「おーおー、いいじゃないっすか！	「Ohh, that's great!
+215877	+		　魔王を倒すつもりなら	　If we're going to defeat the Demon King,
+215878	+		　絶対に欲しい人材じゃないっすか！」	　we definitely want someone like him!」
 
-215879	Nagi su Ragarl	「ただ、性格がねー」	「But his personality is...」
+215879	Nagi su Ragarl	帽子なし／反省	「ただ、性格がねー」	「But his personality is...」
 
-215880	Masou Shizuka	「暫定……	「Provisional...
-215881	+	　魔王の子一番の問題児、ね」	　the biggest problem child among the Demon King's kids.」
+215880	Masou Shizuka	帽子なし	「暫定……	「Provisional...
+215881	+		　魔王の子一番の問題児、ね」	　the biggest problem child among the Demon King's kids.」
 
-215882	Nagi su Ragarl	「二番目じゃない？	「Isn't he second?
-215883	+	　ザンスはなんだかんだ良い子よ？」	　Zance is a good kid overall?」
+215882	Nagi su Ragarl		「二番目じゃない？	「Isn't he second?
+215883	+		　ザンスはなんだかんだ良い子よ？」	　Zance is a good kid overall?」
 
-215884	Masou Shizuka	「そう？」	「Is he?」
+215884	Masou Shizuka		「そう？」	「Is he?」
 
-215885	Nagata-kun	「問題児、ね……」	「Problem child, huh...」
+215885	Nagata-kun	基本	「問題児、ね……」	「Problem child, huh...」
 
-215886	Nagata-kun	「な、なんか嫌ァ〜な予感しかしねぇけど……	「I have a baaad feeling about this...
-215887	+	　＜エール＞……こいつだけシカトするって手も	　＜エール＞... maybe we should just ignore this one?
-215888	+	　あったりするんじゃねぇか？　うん？」	　Yeah?」
+215886	Nagata-kun		「な、なんか嫌ァ〜な予感しかしねぇけど……	「I have a baaad feeling about this...
+215887	+		　＜エール＞……こいつだけシカトするって手も	　＜エール＞... maybe we should just ignore this one?
+215888	+		　あったりするんじゃねぇか？　うん？」	　Yeah?」
 
-215889	Reset Kalar	「それはよした方が……」	「Better not...
+215889	Reset Kalar	たははー	「それはよした方が……」	「Better not...
 
-215890	Reset Kalar	「自分だけ仲間外れにされたって知ったら、	　If he finds out he was the only one left out,
-215891	+	　きっとすごい怒るから」	　he'll get really angry.」
+215890	Reset Kalar		「自分だけ仲間外れにされたって知ったら、	　If he finds out he was the only one left out,
+215891	+		　きっとすごい怒るから」	　he'll get really angry.」
 
-215892	Nagata-kun	「……いったい、どんな奴なんすか？」	「...Just what kind of guy is he?」
+215892	Nagata-kun	基本	「……いったい、どんな奴なんすか？」	「...Just what kind of guy is he?」
 
-215893	Masou Shizuka	「会えば分かるわ」	「You'll understand when you meet him.」
+215893	Masou Shizuka		「会えば分かるわ」	「You'll understand when you meet him.」
 
-215894	Nagata-kun	「ハハ、会った時が命の最後、とかは勘弁っすよ？」	「Haha, please don't say meeting him is the end of my life?」
+215894	Nagata-kun		「ハハ、会った時が命の最後、とかは勘弁っすよ？」	「Haha, please don't say meeting him is the end of my life?」
 
-215895	Masou Shizuka	「…………」	「............」
+215895	Masou Shizuka		「…………」	「............」
 
-215896	Nagata-kun	「冗談だったんすけど！	「I was joking!
-215897	+	　なんで否定してくれないんすか！？」	　Why didn't you deny it!?」
+215896	Nagata-kun		「冗談だったんすけど！	「I was joking!
+215897	+		　なんで否定してくれないんすか！？」	　Why didn't you deny it!?」
 
-215898	Nagata-kun	「そ、そうだ、こんな時こそ、	「R, right, now's the time,
-215899	+	　あれだよ、あれ！」	　that thing!」
+215898	Nagata-kun		「そ、そうだ、こんな時こそ、	「R, right, now's the time,
+215899	+		　あれだよ、あれ！」	　that thing!」
 
-215900	Nagata-kun	「＜エール＞の母ちゃんからの手紙を	「Let's read the letter from ＜エール＞'s mom!
-215901	+	　読んでみようぜ！	
-215902	+	　何か分かるかも知れないぞ！」	　Maybe it'll tell us something!」
+215900	Nagata-kun		「＜エール＞の母ちゃんからの手紙を	「Let's read the letter from ＜エール＞'s mom!
+215901	+		　読んでみようぜ！	
+215902	+		　何か分かるかも知れないぞ！」	　Maybe it'll tell us something!」
 
-215903	-	あなたは長田君に促され、	Urged by Nagata-kun,
-215904	+	母から送られた手紙を取り出した。	you took out the letter from your mother.
+215903	-		あなたは長田君に促され、	Urged by Nagata-kun,
+215904	+		母から送られた手紙を取り出した。	you took out the letter from your mother.
 
-215905	Nagata-kun	「えーと、なになに……」	「Let's see, what does it say...」
+215905	Nagata-kun		「えーと、なになに……」	「Let's see, what does it say...」
 
-215906	Nagata-kun	「こんにちは、＜エール＞。	「Hello, ＜エール＞.
-215907	+	　旅は順調でしょうか？」	　Is your journey going well?」
+215906	Nagata-kun		「こんにちは、＜エール＞。	「Hello, ＜エール＞.
+215907	+		　旅は順調でしょうか？」	　Is your journey going well?」
 
-215908	Nagata-kun	「リーザス赤の軍将軍、ザンス・リーザス。	「Leazas Red Army General, Zance Leazas.
-215909	+	　彼は魔王の三男に当たる貴方の兄です」	　He is your older brother, the third son of the Demon King.」
+215908	Nagata-kun		「リーザス赤の軍将軍、ザンス・リーザス。	「Leazas Red Army General, Zance Leazas.
+215909	+		　彼は魔王の三男に当たる貴方の兄です」	　He is your older brother, the third son of the Demon King.」
 
-215910	Nagata-kun	「それでは早速、評価を見てみましょう」	「Now, let's look at his evaluation right away.」
+215910	Nagata-kun		「それでは早速、評価を見てみましょう」	「Now, let's look at his evaluation right away.」
 
-215911	Nagata-kun	「評価点は三つ。	「There are three evaluation points.
-215912	+	　友好は仲良くなる難度、捕捉は捕まえやすさ、	　Friendship is difficulty to get close, Capture is ease of recruiting,
-215913	+	　命令はあなたの言うことを聞いてくれるかです」	　Command is how well he listens to you.」
+215911	Nagata-kun		「評価点は三つ。	「There are three evaluation points.
+215912	+		　友好は仲良くなる難度、捕捉は捕まえやすさ、	　Friendship is difficulty to get close, Capture is ease of recruiting,
+215913	+		　命令はあなたの言うことを聞いてくれるかです」	　Command is how well he listens to you.」
 
-215914	-	リーザス赤の軍将軍、	Leazas Red Army General,
-215915	+	ザンス・リーザスの評価。	Zance Leazas's evaluation.
+215914	-		リーザス赤の軍将軍、	Leazas Red Army General,
+215915	+		ザンス・リーザスの評価。	Zance Leazas's evaluation.
 
-215916	-	友好難度：★★★★★　★★★	Friendship Difficulty: ★★★★★ ★★★
-215917	+	捕捉難度：★★	Capture Difficulty: ★★
-215918	+	命令難度：★★★★★　★★★★★	Command Difficulty: ★★★★★ ★★★★★
+215916	-		友好難度：★★★★★　★★★	Friendship Difficulty: ★★★★★ ★★★
+215917	+		捕捉難度：★★	Capture Difficulty: ★★
+215918	+		命令難度：★★★★★　★★★★★	Command Difficulty: ★★★★★ ★★★★★
 
-215919	Nagata-kun	「こんな感じですね」	「Something like that.」
+215919	Nagata-kun		「こんな感じですね」	「Something like that.」
 
-215920	Nagata-kun	「彼は非常に怒りっぽい一面を持っています」	「He has a very short temper.」
+215920	Nagata-kun		「彼は非常に怒りっぽい一面を持っています」	「He has a very short temper.」
 
-215921	Nagata-kun	「それでいて、魔王の子の中でも、	「And among the Demon King's children,
-215922	+	　飛び抜けて傲慢かつ乱暴な性格です」	　he stands out as extremely arrogant and violent.」
+215921	Nagata-kun		「それでいて、魔王の子の中でも、	「And among the Demon King's children,
+215922	+		　飛び抜けて傲慢かつ乱暴な性格です」	　he stands out as extremely arrogant and violent.」
 
-215923	Nagata-kun	「ザンスとの接触は慎重に行って下さい」	「Please approach Zance with caution.」
+215923	Nagata-kun		「ザンスとの接触は慎重に行って下さい」	「Please approach Zance with caution.」
 
-215924	Nagata-kun	「もし仲間にするのなら、	「If you want to recruit him,
-215925	+	　先にリセットを仲間にしておきましょう」	　it's best to have Reset with you first.」
+215924	Nagata-kun		「もし仲間にするのなら、	「If you want to recruit him,
+215925	+		　先にリセットを仲間にしておきましょう」	　it's best to have Reset with you first.」
 
-215926	Nagata-kun	「では、また」	「See you again.」
+215926	Nagata-kun		「では、また」	「See you again.」
 
-215927	Nagata-kun	「お……」	「O...」
+215927	Nagata-kun		「お……」	「O...」
 
-215928	Nagata-kun	「おいおいおい、＜エール＞！	「Hey hey hey, ＜エール＞!」
-215929	+	　これマジでやばいって！	　This is seriously bad!
-215930	+	　俺の危険センサーがビンビンだってー！」	　My danger sensor is going crazy!」
+215928	Nagata-kun		「おいおいおい、＜エール＞！	「Hey hey hey, ＜エール＞!」
+215929	+		　これマジでやばいって！	　This is seriously bad!
+215930	+		　俺の危険センサーがビンビンだってー！」	　My danger sensor is going crazy!」
 
-215931	El Mofus	「…………。」	「............」
-215932	Nagata-kun	「おも、面白そうって、おま！」	「You think it sounds fun, you!」
+215931	El Mofus		「…………。」	「............」
+215932	Nagata-kun		「おも、面白そうって、おま！」	「You think it sounds fun, you!」
 
-215933	Nagata-kun	「うわ、かたくな……」	「Uwa, stubborn...」
+215933	Nagata-kun		「うわ、かたくな……」	「Uwa, stubborn...」
 
-215934	Nagata-kun	「マジで？　超ありがてぇ。	「For real? Super grateful.
-215935	+	　離すなよ？　絶対だかんな？」	　Don't let go? Absolutely?」
+215934	Nagata-kun		「マジで？　超ありがてぇ。	「For real? Super grateful.
+215935	+		　離すなよ？　絶対だかんな？」	　Don't let go? Absolutely?」
 
-215936	Nagata-kun	「はあ〜、嫌な予感がする〜、嫌な予感がする〜。	「Haa~, bad feeling, bad feeling.
-215937	+	　俺の嫌な予感って結構当たるんだよなぁ……」	　My bad feelings tend to be right...」
+215936	Nagata-kun		「はあ〜、嫌な予感がする〜、嫌な予感がする〜。	「Haa~, bad feeling, bad feeling.
+215937	+		　俺の嫌な予感って結構当たるんだよなぁ……」	　My bad feelings tend to be right...」
 
-215938	Nagi su Ragarl	「もう、男の子がいつまでもグチグチ言わない」	「Geez, boys shouldn't keep complaining.」
+215938	Nagi su Ragarl	帽子なし	「もう、男の子がいつまでもグチグチ言わない」	「Geez, boys shouldn't keep complaining.」
 
-215939	Reset Kalar	「大丈夫大丈夫、なにかあっても私が守るから」	「It's fine, if anything happens I'll protect you.」
+215939	Reset Kalar	基本	「大丈夫大丈夫、なにかあっても私が守るから」	「It's fine, if anything happens I'll protect you.」
 
-215940	Nagata-kun	「ああ……守られる必要があるんすね……」	「Ahh... so I need protection...」
+215940	Nagata-kun		「ああ……守られる必要があるんすね……」	「Ahh... so I need protection...」
 
-215941	-	あなたはザンスという、	You imagined your yet unseen brother Zance
-215942	+	まだ見ぬ兄に想像を巡らせて冒険の続きに戻る。	and returned to continuing the adventure.
+215941	-		あなたはザンスという、	You imagined your yet unseen brother Zance
+215942	+		まだ見ぬ兄に想像を巡らせて冒険の続きに戻る。	and returned to continuing the adventure.
 
-215943	-	首都リーザスは近い。	The capital Leazas is close.
+215943	-		首都リーザスは近い。	The capital Leazas is close.

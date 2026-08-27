@@ -7,87 +7,87 @@
 * Cream Ganoblade	クリーム	Female
 * Urza Pranaice	ウルザ	Female
 
-28312	Rance	「おーっす、と……」	「Ossu...」
+28312	Rance	基本	「おーっす、と……」	「Ossu...」
 
-28313	JAPAN Samurai	「コロンズの状況に関する報告って来てます！？」	「Any reports on the Colonz situation!?」
+28313	JAPAN Samurai	兜なし／怒る	「コロンズの状況に関する報告って来てます！？」	「Any reports on the Colonz situation!?」
 
-28314	Zeth Mage Soldier	「こっち、来てるよ！	「We've got some here!
-28315	+	　すぐに目を通してくれ、対策会議するぞ！」	　Look them over right away, we're holding a strategy meeting!」
+28314	Zeth Mage Soldier	基本	「こっち、来てるよ！	「We've got some here!
+28315	+		　すぐに目を通してくれ、対策会議するぞ！」	　Look them over right away, we're holding a strategy meeting!」
 
-28316	Free Cities Guard	「プリティリアの輸送計画、	「What's the status on Prettyria's transport plan,
-28317	+	　受け入れ態勢はどうなってんです！？」	　are we ready to receive!?」
+28316	Free Cities Guard		「プリティリアの輸送計画、	「What's the status on Prettyria's transport plan,
+28317	+		　受け入れ態勢はどうなってんです！？」	　are we ready to receive!?」
 
-28318	Arlcoate Marius	「あ、お、おじ様……！」	「Ah, U-Uncle...!」
+28318	Arlcoate Marius		「あ、お、おじ様……！」	「Ah, U-Uncle...!」
 
-28319	Cream Ganoblade	「ほら、アールコートさん。	「Come on, Arlcoate-san.
-28320	+	　リーザスの案件、来てますから」	　The Leazas matter has arrived.」
+28319	Cream Ganoblade	ため息	「ほら、アールコートさん。	「Come on, Arlcoate-san.
+28320	+		　リーザスの案件、来てますから」	　The Leazas matter has arrived.」
 
-28321	Arlcoate Marius	「あ、は、はいっ……す、すみません……！」	「Ah, y-yes... S-Sorry...!」
+28321	Arlcoate Marius	テレビックリ	「あ、は、はいっ……す、すみません……！」	「Ah, y-yes... S-Sorry...!」
 
-28322	-	アールコートはクリームに肩を押されて、	Pushed by Cream's shoulder,
-28323	+	仕事へと戻っていった。	Arlcoate went back to work.
+28322	-		アールコートはクリームに肩を押されて、	Pushed by Cream's shoulder,
+28323	+		仕事へと戻っていった。	Arlcoate went back to work.
 
-28324	Rance	「……あいっかわらず、修羅場全開だな」	「...It's still a total battlefield as usual.」
+28324	Rance	だる顔	「……あいっかわらず、修羅場全開だな」	「...It's still a total battlefield as usual.」
 
-28325	-	辟易しながら、ランスは卓に置かれたメモを	Looking fed up, Rance picked up the memo
-28326	+	手に取った。	on the desk.
+28325	-		辟易しながら、ランスは卓に置かれたメモを	Looking fed up, Rance picked up the memo
+28326	+		手に取った。	on the desk.
 
-28327	Rance	「お。今の戦況ってところか……」	「Oh. Current war situation, huh...」
+28327	Rance	基本	「お。今の戦況ってところか……」	「Oh. Current war situation, huh...」
 
-28328	-	見ているうちに、ランスの表情が渋くなる。	As he read, Rance's expression grew grim.
+28328	-		見ているうちに、ランスの表情が渋くなる。	As he read, Rance's expression grew grim.
 
-28329	Rance	「………………足りんな。兵士が足りん」	「............Not enough. We don't have enough soldiers.」
+28329	Rance	だる顔	「………………足りんな。兵士が足りん」	「............Not enough. We don't have enough soldiers.」
 
-28330	Urza Pranaice	「ですが……ほぼ限界です。	「However... We're almost at the limit.
-28331	+	　これ以上増やすのは、難しいですね」	　It's hard to increase any further.」
+28330	Urza Pranaice	真剣	「ですが……ほぼ限界です。	「However... We're almost at the limit.
+28331	+		　これ以上増やすのは、難しいですね」	　It's hard to increase any further.」
 
-28332	Rance	「お、ウルザちゃん」	「Oh, Urza-chan.」
+28332	Rance	基本	「お、ウルザちゃん」	「Oh, Urza-chan.」
 
-28333	Urza Pranaice	「各国とも、混乱の中で動員できるだけの兵は	「Every country is mobilizing as many troops
-28334	+	　動員しています。正規軍だけでなく、予備役も」	　as they can in the chaos. Not just regular forces, but reserves too.」
+28333	Urza Pranaice	真剣	「各国とも、混乱の中で動員できるだけの兵は	「Every country is mobilizing as many troops
+28334	+		　動員しています。正規軍だけでなく、予備役も」	　as they can in the chaos. Not just regular forces, but reserves too.」
 
-28335	Rance	「しかし、リーザスとかは人が多いぞ。	「But Leazas has a big population.
-28336	+	　もうちょっといけるんじゃないのか？」	　Can't we squeeze out a few more?」
+28335	Rance		「しかし、リーザスとかは人が多いぞ。	「But Leazas has a big population.
+28336	+		　もうちょっといけるんじゃないのか？」	　Can't we squeeze out a few more?」
 
-28337	Urza Pranaice	「いいえ、その表は前線で直接戦う兵士の数です。	「No, that number is only frontline combat soldiers.
-28338	+	　実際には、補給や流通、後方支援などで	　In reality, many more people are involved
-28339	+	　関わっている人は大勢います」	　in supply, logistics, and rear support.」
+28337	Urza Pranaice		「いいえ、その表は前線で直接戦う兵士の数です。	「No, that number is only frontline combat soldiers.
+28338	+		　実際には、補給や流通、後方支援などで	　In reality, many more people are involved
+28339	+		　関わっている人は大勢います」	　in supply, logistics, and rear support.」
 
-28340	Urza Pranaice	「魔軍と戦うには、こうした支援は不可欠です。	「Such support is essential to fight the Monster Army.
-28341	+	　およそ五倍ほどの後方要員が、こうして……」	　We need roughly five times as many rear personnel...」
+28340	Urza Pranaice		「魔軍と戦うには、こうした支援は不可欠です。	「Such support is essential to fight the Monster Army.
+28341	+		　およそ五倍ほどの後方要員が、こうして……」	　We need roughly five times as many rear personnel...」
 
-28342	Rance	「ぬう、めんどくさい話はパスだ。	「Ugh, skip the complicated stuff.
-28343	+	　今戦う兵士が少ないのが問題だろう」	　The problem is we don't have enough soldiers actually fighting.」
+28342	Rance	だる顔	「ぬう、めんどくさい話はパスだ。	「Ugh, skip the complicated stuff.
+28343	+		　今戦う兵士が少ないのが問題だろう」	　The problem is we don't have enough soldiers actually fighting.」
 
-28344	Urza Pranaice	「最大限に増員を掛けつつ、	「We're increasing numbers as much as possible,
-28345	+	　限られた数でやるしかないというのが現状ですね」	　but we have no choice but to fight with what we have.」
+28344	Urza Pranaice	真剣	「最大限に増員を掛けつつ、	「We're increasing numbers as much as possible,
+28345	+		　限られた数でやるしかないというのが現状ですね」	　but we have no choice but to fight with what we have.」
 
-28346	Rance	「増員だと？　これ見る限りじゃ、	「Increase? Looking at this,
-28347	+	　どんどん減ってるではないか」	　they're decreasing faster than increasing.」
+28346	Rance		「増員だと？　これ見る限りじゃ、	「Increase? Looking at this,
+28347	+		　どんどん減ってるではないか」	　they're decreasing faster than increasing.」
 
-28348	Urza Pranaice	「増える以上の速度で減ってるんです」	「They're decreasing faster than we can increase them.」
+28348	Urza Pranaice	悲愴	「増える以上の速度で減ってるんです」	「They're decreasing faster than we can increase them.」
 
-28349	-	そこで、ウルザは言葉を切った。	Urza paused there.
-28350	+	再び出した声は、周囲に届かない、低いものだった。	Her next words were low, not meant for others to hear.
+28349	-		そこで、ウルザは言葉を切った。	Urza paused there.
+28350	+		再び出した声は、周囲に届かない、低いものだった。	Her next words were low, not meant for others to hear.
 
-28351	Urza Pranaice	「このままでは、人類は滅びます。	「At this rate, humanity will perish.
-28352	+	　ランスさんが魔人を倒すより、早く……」	　Faster than you can defeat the Fiends...」
+28351	Urza Pranaice		「このままでは、人類は滅びます。	「At this rate, humanity will perish.
+28352	+		　ランスさんが魔人を倒すより、早く……」	　Faster than you can defeat the Fiends...」
 
-28353	Rance	「………………」	「............」
+28353	Rance	真剣	「………………」	「............」
 
-28354	Urza Pranaice	「ですが現実問題としては、難しいですね。	「But realistically, it's difficult.
-28355	+	　作戦立案と効率化で対処するしかありません」	　We can only handle it through better planning and efficiency.」
+28354	Urza Pranaice	基本	「ですが現実問題としては、難しいですね。	「But realistically, it's difficult.
+28355	+		　作戦立案と効率化で対処するしかありません」	　We can only handle it through better planning and efficiency.」
 
-28356	Rance	「んん…………いや、よし。	「Hmm............ No, alright.
-28357	+	　ならば俺様がなんとかしてやろう」	　Then I'll do something about it.」
+28356	Rance	真剣	「んん…………いや、よし。	「Hmm............ No, alright.
+28357	+		　ならば俺様がなんとかしてやろう」	　Then I'll do something about it.」
 
-28358	Urza Pranaice	「は……と言いますと？」	「Yes...? What do you mean?」
+28358	Urza Pranaice	基本	「は……と言いますと？」	「Yes...? What do you mean?」
 
-28359	Rance	「俺様が一声掛ければ、	「If I give the word,
-28360	+	　まだ戦ってないボンクラどもをかき集めて	　I can easily round up all the lazy bums who haven't fought yet
-28361	+	　兵士に仕立て上げるなど容易い事！」	　and turn them into soldiers!」
+28359	Rance	笑顔	「俺様が一声掛ければ、	「If I give the word,
+28360	+		　まだ戦ってないボンクラどもをかき集めて	　I can easily round up all the lazy bums who haven't fought yet
+28361	+		　兵士に仕立て上げるなど容易い事！」	　and turn them into soldiers!」
 
-28362	Urza Pranaice	「え、でも…………」	「Eh, but............」
+28362	Urza Pranaice	困惑	「え、でも…………」	「Eh, but............」
 
-28363	Rance	「よーし、どこに向かうかな。	「Alright, where should I go.
-28364	+	　特に少ない所がいいか……」	　Somewhere that's especially short...」
+28363	Rance	基本	「よーし、どこに向かうかな。	「Alright, where should I go.
+28364	+		　特に少ない所がいいか……」	　Somewhere that's especially short...」

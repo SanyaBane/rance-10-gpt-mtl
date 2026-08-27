@@ -5,235 +5,235 @@
 * Warg	ワーグ	Female
 * Lassie	ラッシー	Male
 
-243461	Rance	「さて、暇だしワーグの家に遊びに行くかな」	「Well, I'm free, maybe I'll go play at Warg's house.」
+243461	Rance	基本	「さて、暇だしワーグの家に遊びに行くかな」	「Well, I'm free, maybe I'll go play at Warg's house.」
 
-243462	Kurusu Miki	「あ、殿様……	「Ah, Your Majesty...
-243463	+	　じゃなくてランスさんだ」	　I mean Rance-san.」
+243462	Kurusu Miki		「あ、殿様……	「Ah, Your Majesty...
+243463	+		　じゃなくてランスさんだ」	　I mean Rance-san.」
 
-243464	Ogawa Kentarou	「こんにちは、ランスさん」	「Hello, Rance-san.」
+243464	Ogawa Kentarou		「こんにちは、ランスさん」	「Hello, Rance-san.」
 
-243465	Rance	「ん〜？　お前達もお出かけか？」	「Hmm? You two going out?」
+243465	Rance		「ん〜？　お前達もお出かけか？」	「Hmm? You two going out?」
 
-243466	Kurusu Miki	「うん、街に行ってお買い物なのよ」	「Yeah, we're going shopping in town.」
+243466	Kurusu Miki		「うん、街に行ってお買い物なのよ」	「Yeah, we're going shopping in town.」
 
-243467	Ogawa Kentarou	「それじゃあ。	「Well then.
-243468	+	　行こうか、美樹ちゃん」	　Shall we go, Miki-chan?」
+243467	Ogawa Kentarou		「それじゃあ。	「Well then.
+243468	+		　行こうか、美樹ちゃん」	　Shall we go, Miki-chan?」
 
-243469	Kurusu Miki	「うんっ。	「Yeah.
-243470	+	　じゃあね、ランスさんばいば〜い」	　Bye bye, Rance-san~」
+243469	Kurusu Miki		「うんっ。	「Yeah.
+243470	+		　じゃあね、ランスさんばいば〜い」	　Bye bye, Rance-san~」
 
-243471	-	二人は手を繋いで、街に向かって行った。	The two held hands and headed toward the town.
+243471	-		二人は手を繋いで、街に向かって行った。	The two held hands and headed toward the town.
 
-243472	Rance	「むむむむむむむむむむ……」	「Mmmmmm...」
+243472	Rance	だる顔	「むむむむむむむむむむ……」	「Mmmmmm...」
 
-243473	Rance	「納得がいかん」	「I can't accept this.」
+243473	Rance	真剣	「納得がいかん」	「I can't accept this.」
 
-243474	Warg	「…………」	「............」
+243474	Warg	ラッシーなし	「…………」	「............」
 
-243475	Warg	「突然、人の家に来てなんの話？」	「Suddenly coming to someone's house, what is it?」
+243475	Warg		「突然、人の家に来てなんの話？」	「Suddenly coming to someone's house, what is it?」
 
-243476	Rance	「美樹ちゃんの話だ」	「It's about Miki-chan.」
+243476	Rance	真剣	「美樹ちゃんの話だ」	「It's about Miki-chan.」
 
-243477	Rance	「なーんであんな子が、	「Why is a girl like that
-243478	+	　あーんなボンヤリした男にベッタリなんだ！	　so attached to such a dull guy!
-243479	+	　世の中間違ってる！」	　The world is wrong!」
+243477	Rance		「なーんであんな子が、	「Why is a girl like that
+243478	+		　あーんなボンヤリした男にベッタリなんだ！	　so attached to such a dull guy!
+243479	+		　世の中間違ってる！」	　The world is wrong!」
 
-243480	Warg	「ああ、魔王様の話……」	「Ah, about the Demon King...」
+243480	Warg	ラッシーなし	「ああ、魔王様の話……」	「Ah, about the Demon King...」
 
-243481	Rance	「なんだ、知り合いか」	「What, you know him?」
+243481	Rance	基本	「なんだ、知り合いか」	「What, you know him?」
 
-243482	Warg	「何度か遊びに来てくれたわ。	「He came to play a few times.
-243483	+	　よほど暇なんでしょうね」	　He must be really free.」
+243482	Warg	ラッシーなし	「何度か遊びに来てくれたわ。	「He came to play a few times.
+243483	+		　よほど暇なんでしょうね」	　He must be really free.」
 
-243484	-	ワーグがシニカルに、	Warg smiled cynically,
-243485	+	しかしどこか嬉しそうに笑った。	yet somewhat happily.
+243484	-		ワーグがシニカルに、	Warg smiled cynically,
+243485	+		しかしどこか嬉しそうに笑った。	yet somewhat happily.
 
-243486	Lassie	「でも魔王様なんて、暇な方が	「But for the Demon King, being free
-243487	+	　平和でいいに決まってるぜー！」	　is definitely better for peace~!」
+243486	Lassie	基本	「でも魔王様なんて、暇な方が	「But for the Demon King, being free
+243487	+		　平和でいいに決まってるぜー！」	　is definitely better for peace~!」
 
-243488	Warg	「健太郎くん、って人は私に近づけないみたいで、	「Kentarou-kun doesn't seem to approach me,
-243489	+	　話をしたことはないけど、いい人って聞いてる」	　but I've heard he's a good person.」
+243488	Warg	ラッシーなし	「健太郎くん、って人は私に近づけないみたいで、	「Kentarou-kun doesn't seem to approach me,
+243489	+		　話をしたことはないけど、いい人って聞いてる」	　but I've heard he's a good person.」
 
-243490	Rance	「いい人！？　ふん、とんでもない！	「Good person!? Hmph, no way!
-243491	+	　あいつは最低な奴だ！」	　He's the worst!」
+243490	Rance	怒り	「いい人！？　ふん、とんでもない！	「Good person!? Hmph, no way!
+243491	+		　あいつは最低な奴だ！」	　He's the worst!」
 
-243492	Rance	「くそ〜、どうすれば	「Damn, how can I
-243493	+	　美樹ちゃんは俺に振り向くのだ」	　make Miki-chan turn to me?」
+243492	Rance	イライラ	「くそ〜、どうすれば	「Damn, how can I
+243493	+		　美樹ちゃんは俺に振り向くのだ」	　make Miki-chan turn to me?」
 
-243494	Warg	「そんなにセックスしたいの？」	「You want to fuck her that badly?」
+243494	Warg	ラッシーなし	「そんなにセックスしたいの？」	「You want to fuck her that badly?」
 
-243495	Rance	「おう、したい。	「Yeah, I do.
-243496	+	　出来るならなんだってやるぞ」	　I'll do anything if I can.」
+243495	Rance	基本	「おう、したい。	「Yeah, I do.
+243496	+		　出来るならなんだってやるぞ」	　I'll do anything if I can.」
 
-243497	Warg	「はあ……	「Haa...
-243498	+	　二人の間に割って入るのは	　Cutting into their relationship
-243499	+	　難しいんじゃない？」	　won't be easy, right?」
+243497	Warg	ラッシーなし	「はあ……	「Haa...
+243498	+		　二人の間に割って入るのは	　Cutting into their relationship
+243499	+		　難しいんじゃない？」	　won't be easy, right?」
 
-243500	Rance	「ぬ？」	「Nu?」
+243500	Rance	基本	「ぬ？」	「Nu?」
 
-243501	Warg	「どういう事情があるかは知らないけど、	「I don't know the details,
-243502	+	　二人には今までに共にいた時間、	　but they have time spent together,
-243503	+	　積み重ねられた絆があるもの」	　a built-up bond.」
+243501	Warg	ラッシーなし	「どういう事情があるかは知らないけど、	「I don't know the details,
+243502	+		　二人には今までに共にいた時間、	　but they have time spent together,
+243503	+		　積み重ねられた絆があるもの」	　a built-up bond.」
 
-243504	-	何故かワーグは少し幸せそうだった。	For some reason Warg looked a little happy.
+243504	-		何故かワーグは少し幸せそうだった。	For some reason Warg looked a little happy.
 
-243505	Rance	「む、二人の積み重ね、か……	「Mu, their accumulated time, huh...
-243506	+	　くう……最初に出会ったのが俺様なら……」	　Kuh... If only I had met her first...」
+243505	Rance	基本	「む、二人の積み重ね、か……	「Mu, their accumulated time, huh...
+243506	+		　くう……最初に出会ったのが俺様なら……」	　Kuh... If only I had met her first...」
 
-243507	Warg	「そうね、もしかしたら、	「Yes, perhaps,
-243508	+	　二人は恋仲になって、今の健太郎くんの位置に	　they could have become lovers, and you
-243509	+	　ランスがいたかもね」	　would be in Kentarou-kun's place.」
+243507	Warg	ラッシーなし	「そうね、もしかしたら、	「Yes, perhaps,
+243508	+		　二人は恋仲になって、今の健太郎くんの位置に	　they could have become lovers, and you
+243509	+		　ランスがいたかもね」	　would be in Kentarou-kun's place.」
 
-243510	Rance	「…………」	「............」
+243510	Rance	真剣	「…………」	「............」
 
-243511	Warg	「……なに？　真剣な顔して……」	「...What? Such a serious face...」
+243511	Warg	ラッシーなし	「……なに？　真剣な顔して……」	「...What? Such a serious face...」
 
-243512	Rance	「それだーーーーーッ！！」	「That's it-----!!!」
+243512	Rance	怒り	「それだーーーーーッ！！」	「That's it-----!!!」
 
-243513	Warg	「…………なにが？」	「............What is?」
+243513	Warg	ラッシーなし	「…………なにが？」	「............What is?」
 
-243514	Rance	「美樹ちゃんの過去の思い出、	「Miki-chan's past memories,
-243515	+	　健太郎がいた場所に俺が入ればいいのだ！」	　I'll just take Kentarou's place in them!」
+243514	Rance	怒り	「美樹ちゃんの過去の思い出、	「Miki-chan's past memories,
+243515	+		　健太郎がいた場所に俺が入ればいいのだ！」	　I'll just take Kentarou's place in them!」
 
-243516	Rance	「これで自然と美樹ちゃんは俺のもの！	「Then Miki-chan will naturally become mine!
-243517	+	　ぐふふふ、完璧だ……」	　Gufufu, perfect...」
+243516	Rance	エロ顔	「これで自然と美樹ちゃんは俺のもの！	「Then Miki-chan will naturally become mine!
+243517	+		　ぐふふふ、完璧だ……」	　Gufufu, perfect...」
 
-243518	Warg	「……どうやってそんなことするの？」	「...How would you do that?」
+243518	Warg	ラッシーなし	「……どうやってそんなことするの？」	「...How would you do that?」
 
-243519	Rance	「ワーグ、お前には夢を見せる力があると言ったな。	「Warg, you said you have the power to show dreams.
-243520	+	　しかも、それで人の記憶や考え方も変えられると」	　And that you can even change people's memories and thoughts with it.」
+243519	Rance	基本	「ワーグ、お前には夢を見せる力があると言ったな。	「Warg, you said you have the power to show dreams.
+243520	+		　しかも、それで人の記憶や考え方も変えられると」	　And that you can even change people's memories and thoughts with it.」
 
-243521	Warg	「…………」	「............」
+243521	Warg	ラッシーなし	「…………」	「............」
 
-243522	-	ワーグの瞳が細くなり、ランスを睨む。	Warg narrowed her eyes and glared at Rance.
-243523	+	鋭い眼光がランスを貫いた。	Her sharp gaze pierced him.
+243522	-		ワーグの瞳が細くなり、ランスを睨む。	Warg narrowed her eyes and glared at Rance.
+243523	+		鋭い眼光がランスを貫いた。	Her sharp gaze pierced him.
 
-243524	Warg	「なんで？」	「Why?」
+243524	Warg		「なんで？」	「Why?」
 
-243525	Rance	「いや、なんでって……」	「Well, why...」
+243525	Rance	基本	「いや、なんでって……」	「Well, why...」
 
-243526	Warg	「魔王様に聞いた話でしかないけど、	「I only heard from the Demon King,
-243527	+	　二人はとても仲良しなんでしょう？」	　but aren't those two really close?」
+243526	Warg	ラッシーなし	「魔王様に聞いた話でしかないけど、	「I only heard from the Demon King,
+243527	+		　二人はとても仲良しなんでしょう？」	　but aren't those two really close?」
 
-243528	Warg	「私に……この私に、	「You're asking me... me of all people,
-243529	+	　二人の関係を断ち切れって言ってるの？」	　to cut their relationship?」
+243528	Warg	ラッシーなし／憂い	「私に……この私に、	「You're asking me... me of all people,
+243529	+		　二人の関係を断ち切れって言ってるの？」	　to cut their relationship?」
 
-243530	Rance	「む……」	「Mu...」
+243530	Rance	だる顔	「む……」	「Mu...」
 
-243531	Rance	「いやいや、勘違いはいかん」	「No no, don't misunderstand.」
+243531	Rance	基本	「いやいや、勘違いはいかん」	「No no, don't misunderstand.」
 
-243532	Rance	「さっきも言っただろう。	「I said it earlier.
-243533	+	　健太郎って奴は最低な奴なんだ」	　Kentarou is the worst scum.」
+243532	Rance		「さっきも言っただろう。	「I said it earlier.
+243533	+		　健太郎って奴は最低な奴なんだ」	　Kentarou is the worst scum.」
 
-243534	Rance	「実は美樹ちゃんのことなんて全然好きじゃない。	「He doesn't actually like Miki-chan at all.
-243535	+	　あいつは美樹ちゃんを利用してるのだ」	　He's just using her.」
+243534	Rance	真剣	「実は美樹ちゃんのことなんて全然好きじゃない。	「He doesn't actually like Miki-chan at all.
+243535	+		　あいつは美樹ちゃんを利用してるのだ」	　He's just using her.」
 
-243536	Warg	「…………」	「............」
+243536	Warg	ラッシーなし	「…………」	「............」
 
-243537	Rance	「可愛いからって理由だけで付き合ってて	「He's dating her just because she's cute
-243538	+	　ちっとも好きじゃない。	　and doesn't like her at all.
-243539	+	　あんな奴ただのキープちゃんだぜ、とかなんとか」	　She's just a backup girl or something.」
+243537	Rance	だる顔	「可愛いからって理由だけで付き合ってて	「He's dating her just because she's cute
+243538	+		　ちっとも好きじゃない。	　and doesn't like her at all.
+243539	+		　あんな奴ただのキープちゃんだぜ、とかなんとか」	　She's just a backup girl or something.」
 
-243540	Rance	「いつも金の無心ばかりして、	「Always asking for money,
-243541	+	　それどころか暴力まで振るう最低野郎だ」	　and even uses violence. The lowest scum.」
+243540	Rance		「いつも金の無心ばかりして、	「Always asking for money,
+243541	+		　それどころか暴力まで振るう最低野郎だ」	　and even uses violence. The lowest scum.」
 
-243542	Rance	「可哀想に、美樹ちゃんは純粋だから、	「Poor Miki-chan is so pure,
-243543	+	　まったく気づいてないのだ……	　she hasn't noticed at all...
-243544	+	　うう、哀れな美樹ちゃん……」	　Uuu, pitiful Miki-chan...」
+243542	Rance	真剣	「可哀想に、美樹ちゃんは純粋だから、	「Poor Miki-chan is so pure,
+243543	+		　まったく気づいてないのだ……	　she hasn't noticed at all...
+243544	+		　うう、哀れな美樹ちゃん……」	　Uuu, pitiful Miki-chan...」
 
-243545	Lassie	「ぬぬぬ、健太郎って奴、	「Nunu, if that's true about Kentarou,
-243546	+	　それが本当なら許せない男だぜー！」	　I can't forgive that guy~!」
+243545	Lassie	基本	「ぬぬぬ、健太郎って奴、	「Nunu, if that's true about Kentarou,
+243546	+		　それが本当なら許せない男だぜー！」	　I can't forgive that guy~!」
 
-243547	Warg	「…………」	「............」
+243547	Warg	ラッシーなし	「…………」	「............」
 
-243548	Warg	「……続けて」	「...Continue.」
+243548	Warg		「……続けて」	「...Continue.」
 
-243549	Rance	「俺様は何もエッチがしたいから	「It's not just because I want to fuck her
-243550	+	　美樹ちゃんの恋人になろうってんじゃない」	　that I want to become Miki-chan's lover.」
+243549	Rance	基本	「俺様は何もエッチがしたいから	「It's not just because I want to fuck her
+243550	+		　美樹ちゃんの恋人になろうってんじゃない」	　that I want to become Miki-chan's lover.」
 
-243551	Rance	「あの最低の男から、美樹ちゃんを助ける為に	「I just want to save Miki-chan from that scum
-243552	+	　恋人になりたいだけなのだ」	　by becoming her lover.」
+243551	Rance		「あの最低の男から、美樹ちゃんを助ける為に	「I just want to save Miki-chan from that scum
+243552	+		　恋人になりたいだけなのだ」	　by becoming her lover.」
 
-243553	Warg	「……エッチはするんでしょう？」	「...But you will have sex, right?」
+243553	Warg	ラッシーなし	「……エッチはするんでしょう？」	「...But you will have sex, right?」
 
-243554	Rance	「そりゃ、恋人ならな」	「Of course, if we're lovers.」
+243554	Rance	基本	「そりゃ、恋人ならな」	「Of course, if we're lovers.」
 
-243555	Warg	「非常に疑わしいんだけど……」	「Very suspicious...」
+243555	Warg	ラッシーなし	「非常に疑わしいんだけど……」	「Very suspicious...」
 
-243556	Warg	「大体、その話は本当なの？」	「Is that story even true?」
+243556	Warg		「大体、その話は本当なの？」	「Is that story even true?」
 
-243557	Rance	「本当だ！」	「It's true!」
+243557	Rance	基本	「本当だ！」	「It's true!」
 
-243558	Warg	「ひゃっ……！」	「Hya...!」
+243558	Warg	ラッシーなし	「ひゃっ……！」	「Hya...!」
 
-243559	-	ランスがワーグの小さな双肩をがっしりと掴んだ。	Rance firmly grabbed Warg's small shoulders.
+243559	-		ランスがワーグの小さな双肩をがっしりと掴んだ。	Rance firmly grabbed Warg's small shoulders.
 
-243560	Rance	「俺の目を見ろ、	「Look into my eyes,
-243561	+	　これが嘘をついてる男の目か？　ん？」	　do these look like the eyes of a lying man? Hm?」
+243560	Rance	真剣	「俺の目を見ろ、	「Look into my eyes,
+243561	+		　これが嘘をついてる男の目か？　ん？」	　do these look like the eyes of a lying man? Hm?」
 
-243562	Warg	「…………いや、いい。	「...No, never mind.
-243563	+	　目は見ない」	　Don't look.」
+243562	Warg	ラッシーなし／憂い	「…………いや、いい。	「...No, never mind.
+243563	+		　目は見ない」	　Don't look.」
 
-243564	-	ぷいっと顔を逸らしたかと思えば、	She turned her face away, but then
-243565	+	ワーグは真剣な顔でランスに向き直った。	turned back to Rance with a serious expression.
+243564	-		ぷいっと顔を逸らしたかと思えば、	She turned her face away, but then
+243565	+		ワーグは真剣な顔でランスに向き直った。	turned back to Rance with a serious expression.
 
-243566	Warg	「その代わり、誓ってよ」	「Instead, swear it.」
+243566	Warg		「その代わり、誓ってよ」	「Instead, swear it.」
 
-243567	Warg	「ランスは嘘をついてないって」	「That Rance is not lying.」
+243567	Warg	ラッシーなし	「ランスは嘘をついてないって」	「That Rance is not lying.」
 
-243568	Warg	「ただ、もし嘘だった場合は……」	「But if it is a lie...」
+243568	Warg		「ただ、もし嘘だった場合は……」	「But if it is a lie...」
 
-243569	Rance	「場合は？」	「Then what?」
+243569	Rance	基本	「場合は？」	「Then what?」
 
-243570	Warg	「私が思いつく限りの地獄を見せる」	「I'll show you every hell I can imagine.」
+243570	Warg	ラッシーなし	「私が思いつく限りの地獄を見せる」	「I'll show you every hell I can imagine.」
 
-243571	Rance	「ふーむ……」	「Hmm...」
+243571	Rance	基本	「ふーむ……」	「Hmm...」
 
-243572	Warg	「これでも数百年を生きる魔人よ。	「I'm a Fiend who has lived for hundreds of years.
-243573	+	　嘘は通用しないと思いなさい」	　Lies won't work on me.」
+243572	Warg	ラッシーなし	「これでも数百年を生きる魔人よ。	「I'm a Fiend who has lived for hundreds of years.
+243573	+		　嘘は通用しないと思いなさい」	　Lies won't work on me.」
 
-243574	Warg	「それでも誓える？」	「Can you still swear?」
+243574	Warg		「それでも誓える？」	「Can you still swear?」
 
-243575	Rance	「おー、誓う誓う」	「Yeah, I swear, I swear.」
+243575	Rance	基本	「おー、誓う誓う」	「Yeah, I swear, I swear.」
 
-243576	Warg	「…………」	「............」
+243576	Warg	ラッシーなし	「…………」	「............」
 
-243577	-	サラリと誓ったランスに、	Rance swore so casually,
-243578	+	ワーグが毒気を抜かれた様子だった。	that Warg looked taken aback.
+243577	-		サラリと誓ったランスに、	Rance swore so casually,
+243578	+		ワーグが毒気を抜かれた様子だった。	that Warg looked taken aback.
 
-243579	Rance	「そんなことより本当に出来るのか？	「More importantly, can you really do it?
-243580	+	　美樹ちゃんの夢を操作して	　Manipulating Miki-chan's dreams
-243581	+	　記憶を書き換えるなんて」	　and rewriting her memories?」
+243579	Rance	基本	「そんなことより本当に出来るのか？	「More importantly, can you really do it?
+243580	+		　美樹ちゃんの夢を操作して	　Manipulating Miki-chan's dreams
+243581	+		　記憶を書き換えるなんて」	　and rewriting her memories?」
 
-243582	Warg	「やったことがないけど、多分……	「I've never done it, but probably...
-243583	+	　できる」	　I can.」
+243582	Warg	ラッシーなし／憂い	「やったことがないけど、多分……	「I've never done it, but probably...
+243583	+		　できる」	　I can.」
 
-243584	Rance	「おおっ！」	「Ooh!」
+243584	Rance	基本	「おおっ！」	「Ooh!」
 
-243585	-	ふう、とワーグが息を吐く。	Warg let out a sigh.
+243585	-		ふう、とワーグが息を吐く。	Warg let out a sigh.
 
-243586	Warg	「分かった……	「Fine...
-243587	+	　そこまで言うなら、きっと本当なんでしょう」	　If you're that insistent, it must be true.」
+243586	Warg	ラッシーなし	「分かった……	「Fine...
+243587	+		　そこまで言うなら、きっと本当なんでしょう」	　If you're that insistent, it must be true.」
 
-243588	Warg	「ランスを信じる」	「I'll trust you, Rance.」
+243588	Warg		「ランスを信じる」	「I'll trust you, Rance.」
 
-243589	Rance	「おーっ、そうかそうか。	「Ooh, good good.
-243590	+	　さんきゅー、ワーグ」	　Thanks, Warg.」
+243589	Rance	基本	「おーっ、そうかそうか。	「Ooh, good good.
+243590	+		　さんきゅー、ワーグ」	　Thanks, Warg.」
 
-243591	Warg	「ランスの為じゃないわ。	「It's not for you.
-243592	+	　魔王様を救う為よ」	　It's to save the Demon King.」
+243591	Warg	ラッシーなし	「ランスの為じゃないわ。	「It's not for you.
+243592	+		　魔王様を救う為よ」	　It's to save the Demon King.」
 
-243593	Lassie	「後はランスに任せるぜー！」	「I'll leave the rest to Rance~!」
+243593	Lassie	基本	「後はランスに任せるぜー！」	「I'll leave the rest to Rance~!」
 
-243594	Warg	「……最後に確認」	「...Final confirmation.」
+243594	Warg	ラッシーなし	「……最後に確認」	「...Final confirmation.」
 
-243595	Warg	「人の記憶を書き換えるなんて、	「Rewriting a person's memories
-243596	+	　どんな理由があっても許されないことよ」	　is unforgivable no matter the reason.」
+243595	Warg		「人の記憶を書き換えるなんて、	「Rewriting a person's memories
+243596	+		　どんな理由があっても許されないことよ」	　is unforgivable no matter the reason.」
 
-243597	Warg	「人の人生そのものの否定なんて……	「Denying someone's entire life...
-243598	+	　本来誰にも行う権利なんてない」	　No one has the right to do that.」
+243597	Warg		「人の人生そのものの否定なんて……	「Denying someone's entire life...
+243598	+		　本来誰にも行う権利なんてない」	　No one has the right to do that.」
 
-243599	Warg	「一人の人間から思い出を奪うことが	「Stealing memories from one person
-243600	+	　どれほどの罪か……想像もつかない……」	　is a sin beyond imagination...」
+243599	Warg		「一人の人間から思い出を奪うことが	「Stealing memories from one person
+243600	+		　どれほどの罪か……想像もつかない……」	　is a sin beyond imagination...」
 
-243601	Warg	「それでも本当に……やる？」	「Even so, you really... want to do it?」
+243601	Warg		「それでも本当に……やる？」	「Even so, you really... want to do it?」

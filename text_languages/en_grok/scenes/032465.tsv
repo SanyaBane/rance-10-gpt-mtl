@@ -6,223 +6,223 @@
 * Kesselring	ケッセルリンク	Male→Female
 * Sheila Helman	シーラ	Female
 
-151575	-	ケッセルリンクの城――	Kesselring's castle――
+151575	-		ケッセルリンクの城――	Kesselring's castle――
 
-151576	Elsill	「ペルエレー、ペルエレー。	「Peruele~, Peruele~.
-151577	+	　ちょっといいかしらー？」	　Got a moment?」
+151576	Elsill	基本	「ペルエレー、ペルエレー。	「Peruele~, Peruele~.
+151577	+		　ちょっといいかしらー？」	　Got a moment?」
 
-151578	-	エルシールに呼ばれ、	Called by Elsill,
-151579	+	ケッセルリンクのメイドのペルエレが返事を返す。	the maid Peruele replied.
-151580	?	――元気一杯に。	――Full of energy.
+151578	-		エルシールに呼ばれ、	Called by Elsill,
+151579	+		ケッセルリンクのメイドのペルエレが返事を返す。	the maid Peruele replied.
+151580	?		――元気一杯に。	――Full of energy.
 
-151581	Peruele Kalette	「っ、はーーーーい！」	「Y, yeees!」
+151581	Peruele Kalette	笑顔	「っ、はーーーーい！」	「Y, yeees!」
 
-151582	Peruele Kalette	「何かしら、エルシールさん」	「What is it, Elsill-san?」
+151582	Peruele Kalette		「何かしら、エルシールさん」	「What is it, Elsill-san?」
 
-151583	Elsill	「今手が空いているなら	「If you're free right now,
-151584	+	　この廊下の掃除をお願いしたいんだけど……」	　could you clean this hallway...?」
+151583	Elsill	基本	「今手が空いているなら	「If you're free right now,
+151584	+		　この廊下の掃除をお願いしたいんだけど……」	　could you clean this hallway...?」
 
-151585	Peruele Kalette	「はいはい、このペルエレにお任せあれー」	「Yes yes, leave it to this Peruele!」
+151585	Peruele Kalette		「はいはい、このペルエレにお任せあれー」	「Yes yes, leave it to this Peruele!」
 
-151586	Elsill	「あ、そうそう、それと、	「Ah, yes, and also,
-151587	+	　後でアルカリアが料理手伝ってって」	　later Alcarria wants help with cooking.」
+151586	Elsill		「あ、そうそう、それと、	「Ah, yes, and also,
+151587	+		　後でアルカリアが料理手伝ってって」	　later Alcarria wants help with cooking.」
 
-151588	Peruele Kalette	「はーい、分かりましたー」	「Okaaay, understood~」
+151588	Peruele Kalette		「はーい、分かりましたー」	「Okaaay, understood~」
 
-151589	Elsill	「ふふ、それじゃあお願いね」	「Fufu, then please.」
+151589	Elsill		「ふふ、それじゃあお願いね」	「Fufu, then please.」
 
-151590	Peruele Kalette	「ふんふふーん、ふんふーん♪	「Fun fufuun, fun fuun♪
-151591	+	　私はお掃除大好きメイドさーん♪」	　I'm a maid who loves cleaning~♪
+151590	Peruele Kalette	笑顔	「ふんふふーん、ふんふーん♪	「Fun fufuun, fun fuun♪
+151591	+		　私はお掃除大好きメイドさーん♪」	　I'm a maid who loves cleaning~♪
 
-151592	-	ペルエレがモップで廊下を	Peruele happily mopped the hallway
-151593	+	ウキウキ、ルンルンと拭きまくる。	with great cheer.
-151594	?	十数秒の間だけ。	For about ten seconds.
+151592	-		ペルエレがモップで廊下を	Peruele happily mopped the hallway
+151593	+		ウキウキ、ルンルンと拭きまくる。	with great cheer.
+151594	?		十数秒の間だけ。	For about ten seconds.
 
-151595	Peruele Kalette	「…………」	「............」
+151595	Peruele Kalette		「…………」	「............」
 
-151596	Peruele Kalette	「ふう……だっる……」	「Huu... so boring...」
+151596	Peruele Kalette	ジト目	「ふう……だっる……」	「Huu... so boring...」
 
-151597	-	ペルエレは持っていたモップの柄の部分に	Peruele rested her chin on the mop handle
-151598	+	顎を乗せて溜め息を吐きだした。	and let out a sigh.
+151597	-		ペルエレは持っていたモップの柄の部分に	Peruele rested her chin on the mop handle
+151598	+		顎を乗せて溜め息を吐きだした。	and let out a sigh.
 
-151599	Peruele Kalette	「まあ、掃除なんて適当でいいわよね。	「Well, cleaning can be done half-assed.
-151600	+	　生活が出来ればいいのよ、生活できれば」	　As long as I can live comfortably.」
+151599	Peruele Kalette	基本	「まあ、掃除なんて適当でいいわよね。	「Well, cleaning can be done half-assed.
+151600	+		　生活が出来ればいいのよ、生活できれば」	　As long as I can live comfortably.」
 
-151601	-	ペルエレは隠し持っていたお菓子を	Peruele munched on hidden snacks
-151602	+	ボリボリと貪りながら、ニヤリと笑った。	and grinned.
+151601	-		ペルエレは隠し持っていたお菓子を	Peruele munched on hidden snacks
+151602	+		ボリボリと貪りながら、ニヤリと笑った。	and grinned.
 
-151603	Peruele Kalette	「しかし、あれよね……	「But you know...
-151604	+	　充実した日々だわ」	　These are fulfilling days.」
+151603	Peruele Kalette		「しかし、あれよね……	「But you know...
+151604	+		　充実した日々だわ」	　These are fulfilling days.」
 
-151605	Peruele Kalette	「私がここのメイドになってもう一週間。	「It's been a week since I became a maid here.
-151606	+	　なーんかすっかり馴染んだ、みたいな？」	　I feel totally used to it already?」
+151605	Peruele Kalette		「私がここのメイドになってもう一週間。	「It's been a week since I became a maid here.
+151606	+		　なーんかすっかり馴染んだ、みたいな？」	　I feel totally used to it already?」
 
-151607	Peruele Kalette	「他のメイド達とも結構仲良くなってきたし、	「I've gotten pretty close with the other maids,
-151608	+	　信頼されてるって感じ？」	　and they seem to trust me?」
+151607	Peruele Kalette		「他のメイド達とも結構仲良くなってきたし、	「I've gotten pretty close with the other maids,
+151608	+		　信頼されてるって感じ？」	　and they seem to trust me?」
 
-151609	Peruele Kalette	「まだ何人か……	「Though a few...
-151610	+	　私を怪しんでる臭いのもいるけど」	　still seem suspicious of me.」
+151609	Peruele Kalette		「まだ何人か……	「Though a few...
+151610	+		　私を怪しんでる臭いのもいるけど」	　still seem suspicious of me.」
 
-151611	Peruele Kalette	「おほほほ、ま、そのうちなんとかなるでしょ」	「Ohohoho, well, it'll work out eventually.」
+151611	Peruele Kalette	笑顔	「おほほほ、ま、そのうちなんとかなるでしょ」	「Ohohoho, well, it'll work out eventually.」
 
-151612	Peruele Kalette	「う〜〜ん、私の人生――」	「Hmmm, my life――
+151612	Peruele Kalette		「う〜〜ん、私の人生――」	「Hmmm, my life――
 
-151613	Freya Idun	「――順調のようね」	――seems to be going smoothly.」
+151613	Freya Idun	基本	「――順調のようね」	――seems to be going smoothly.」
 
-151614	Peruele Kalette	「ヒッ！？　誰！？」	「Hii!? Who!?」
+151614	Peruele Kalette	恐怖	「ヒッ！？　誰！？」	「Hii!? Who!?」
 
-151615	Freya Idun	「そのまま、動かないで話だけ聞きなさい」	「Stay still and just listen.」
+151615	Freya Idun	基本	「そのまま、動かないで話だけ聞きなさい」	「Stay still and just listen.」
 
-151616	Peruele Kalette	「その声は……	「That voice...
-151617	?	　フレイア？」	　Freya?」
+151616	Peruele Kalette		「その声は……	「That voice...
+151617	?		　フレイア？」	　Freya?」
 
-151618	Freya Idun	「ご明察」	「Correct.」
+151618	Freya Idun		「ご明察」	「Correct.」
 
-151619	-	ペルエレはきょろきょろと周りを窺うが、	Peruele looked around nervously,
-151620	+	声はすれども姿は見えなかった。	but could not see the speaker.
+151619	-		ペルエレはきょろきょろと周りを窺うが、	Peruele looked around nervously,
+151620	+		声はすれども姿は見えなかった。	but could not see the speaker.
 
-151621	Freya Idun	「……動くなって言ってるでしょうに」	「...I told you not to move.」
+151621	Freya Idun		「……動くなって言ってるでしょうに」	「...I told you not to move.」
 
-151622	Freya Idun	「まあいいわ。	「Oh well.
-151623	+	　どうやら信頼も得られているようね」	　Seems you've gained their trust.」
+151622	Freya Idun		「まあいいわ。	「Oh well.
+151623	+		　どうやら信頼も得られているようね」	　Seems you've gained their trust.」
 
-151624	Peruele Kalette	「はあ……	「Haa...
-151625	+	　ま、それなりに、ね」	　Well, somewhat.」
+151624	Peruele Kalette		「はあ……	「Haa...
+151625	+		　ま、それなりに、ね」	　Well, somewhat.」
 
-151626	Freya Idun	「貴方、意外とスパイの才能あったとか？」	「You actually have talent as a spy?」
+151626	Freya Idun		「貴方、意外とスパイの才能あったとか？」	「You actually have talent as a spy?」
 
-151627	Peruele Kalette	「冗談。	「Joking.
-151628	+	　で、なんの用よ？」	　So, what do you want?」
+151627	Peruele Kalette		「冗談。	「Joking.
+151628	+		　で、なんの用よ？」	　So, what do you want?」
 
-151629	Freya Idun	「総統からの指示が出たわ。	「Orders from the Supreme Leader.
-151630	+	　作戦は明日決行、	　The operation is tomorrow,
-151631	+	　ケッセルリンクを始末する、と」	　we eliminate Kesselring.」
+151629	Freya Idun		「総統からの指示が出たわ。	「Orders from the Supreme Leader.
+151630	+		　作戦は明日決行、	　The operation is tomorrow,
+151631	+		　ケッセルリンクを始末する、と」	　we eliminate Kesselring.」
 
-151632	Freya Idun	「念の為に言っておくけど……」	「Just to be sure...
+151632	Freya Idun		「念の為に言っておくけど……」	「Just to be sure...
 
-151633	Freya Idun	「相手は魔人や使徒、	Your opponents are Fiend and apostles,
-151634	+	　人ではないのだから躊躇は無用よ」	not humans, so no hesitation.」
+151633	Freya Idun		「相手は魔人や使徒、	Your opponents are Fiend and apostles,
+151634	+		　人ではないのだから躊躇は無用よ」	not humans, so no hesitation.」
 
-151635	Peruele Kalette	「…………」	「............」
+151635	Peruele Kalette		「…………」	「............」
 
-151636	Freya Idun	「とりあえず、伝えるべきことは伝えたわ」	「Anyway, I've delivered the message.」
+151636	Freya Idun		「とりあえず、伝えるべきことは伝えたわ」	「Anyway, I've delivered the message.」
 
-151637	Peruele Kalette	「あ、ちょっと……」	「Ah, wait...」
+151637	Peruele Kalette		「あ、ちょっと……」	「Ah, wait...」
 
-151638	Peruele Kalette	「消えたか……	「She's gone...
-151639	+	　アサシンってすごいのね」	　Assassins are amazing.」
+151638	Peruele Kalette		「消えたか……	「She's gone...
+151639	+		　アサシンってすごいのね」	　Assassins are amazing.」
 
-151640	Peruele Kalette	「魔人や使徒に躊躇は無用か……	「No hesitation against Fiends or apostles...
-151641	+	　私も使徒なんだけどね」	　Even though I'm an apostle now.」
+151640	Peruele Kalette		「魔人や使徒に躊躇は無用か……	「No hesitation against Fiends or apostles...
+151641	+		　私も使徒なんだけどね」	　Even though I'm an apostle now.」
 
-151642	Peruele Kalette	「ご飯が美味しいからすっかり忘れてた。	「The food was so good I completely forgot.
-151643	+	　元々、作戦の為に潜り込んだんだったわね」	　I originally sneaked in for the mission.」
+151642	Peruele Kalette		「ご飯が美味しいからすっかり忘れてた。	「The food was so good I completely forgot.
+151643	+		　元々、作戦の為に潜り込んだんだったわね」	　I originally sneaked in for the mission.」
 
-151644	Peruele Kalette	「おそらく問題はない……はず。	「Probably no problem... should be fine.
-151645	+	　ケッセルリンクもメイド達も、	　Kesselring and the maids
-151646	+	　甘ちゃんだから……」	　are all softies...」
+151644	Peruele Kalette		「おそらく問題はない……はず。	「Probably no problem... should be fine.
+151645	+		　ケッセルリンクもメイド達も、	　Kesselring and the maids
+151646	+		　甘ちゃんだから……」	　are all softies...」
 
-151647	Peruele Kalette	「でも……」	「But...
+151647	Peruele Kalette		「でも……」	「But...
 
-151648	-	ペルエレの心中に、迷いが生まれる。	Doubt arose in Peruele's heart.
+151648	-		ペルエレの心中に、迷いが生まれる。	Doubt arose in Peruele's heart.
 
-151649	-	人類と魔軍、どちらにつくべきか。	Whether to side with humanity or the Monster Army.
+151649	-		人類と魔軍、どちらにつくべきか。	Whether to side with humanity or the Monster Army.
 
-151650	Peruele Kalette	「ケッセルリンク一人倒したところで……	「Even if we kill one Kesselring...
-151651	+	　魔軍ってとんでもない数なのよね……」	　The Monster Army has an insane number...」
+151650	Peruele Kalette		「ケッセルリンク一人倒したところで……	「Even if we kill one Kesselring...
+151651	+		　魔軍ってとんでもない数なのよね……」	　The Monster Army has an insane number...」
 
-151652	Peruele Kalette	「人類が滅亡する可能性の方が	「The chance of humanity being destroyed
-151653	+	　よーっぽど高いんじゃ……」	　is way higher...」
+151652	Peruele Kalette		「人類が滅亡する可能性の方が	「The chance of humanity being destroyed
+151653	+		　よーっぽど高いんじゃ……」	　is way higher...」
 
-151654	Peruele Kalette	「私……」	「I...
+151654	Peruele Kalette		「私……」	「I...
 
-151655	Peruele Kalette	「このままケッセルリンクのメイドしてる方が、	「Staying as Kesselring's maid
-151656	+	　本当は安全なんじゃ……」	　would actually be safer...」
+151655	Peruele Kalette		「このままケッセルリンクのメイドしてる方が、	「Staying as Kesselring's maid
+151656	+		　本当は安全なんじゃ……」	　would actually be safer...」
 
-151657	Peruele Kalette	「でも……それって人類を裏切ることで……	「But... that would mean betraying humanity...
-151658	+	　そんなこと……そんなこと……」	　Something like that...」
+151657	Peruele Kalette		「でも……それって人類を裏切ることで……	「But... that would mean betraying humanity...
+151658	+		　そんなこと……そんなこと……」	　Something like that...」
 
-151659	Peruele Kalette	「…………」	「............」
+151659	Peruele Kalette		「…………」	「............」
 
-151660	-	思い出すのは、ある日のイメージ。	What came to mind was an image from a certain day.
+151660	-		思い出すのは、ある日のイメージ。	What came to mind was an image from a certain day.
 
-151661	Rance	「がははは、久し振りだな、ペルエレ！	「Gahahaha, long time no see, Peruele!
-151662	+	　おらおら、パンツを脱げー！」	　Come on, take off your panties!」
+151661	Rance	笑顔	「がははは、久し振りだな、ペルエレ！	「Gahahaha, long time no see, Peruele!
+151662	+		　おらおら、パンツを脱げー！」	　Come on, take off your panties!」
 
-151663	Peruele Kalette	「ぎゃー！　やーめーろー！」	「Gyaa! Stooop!」
+151663	Peruele Kalette	基本	「ぎゃー！　やーめーろー！」	「Gyaa! Stooop!」
 
-151664	Rance	「がーーーっはっはっはっはっはっ！」	「Gaaaaahahahaha!」
+151664	Rance	笑顔	「がーーーっはっはっはっはっはっ！」	「Gaaaaahahahaha!」
 
-151665	Peruele Kalette	「むむむ……」	「Mumu...」
+151665	Peruele Kalette	基本	「むむむ……」	「Mumu...」
 
-151666	Kesselring	「ペルエレ、ここでの生活に不便はないか？」	「Peruele, is life here comfortable?」
+151666	Kesselring		「ペルエレ、ここでの生活に不便はないか？」	「Peruele, is life here comfortable?」
 
-151667	Peruele Kalette	「は、はい、これといって」	「Y, yes, nothing in particular.」
+151667	Peruele Kalette		「は、はい、これといって」	「Y, yes, nothing in particular.」
 
-151668	Kesselring	「そうか……」	「I see...」
+151668	Kesselring	目閉じ	「そうか……」	「I see...」
 
-151669	Kesselring	「ふっ……	「Heh...
-151670	+	　ならば、よい」	　Then that's good.」
+151669	Kesselring		「ふっ……	「Heh...
+151670	+		　ならば、よい」	　Then that's good.」
 
-151671	Peruele Kalette	「あれ？　悩む必要、ちっともないぞ？」	「Huh? No need to worry at all?」
+151671	Peruele Kalette	基本	「あれ？　悩む必要、ちっともないぞ？」	「Huh? No need to worry at all?」
 
-151672	Peruele Kalette	「いやいや、もう少し考えましょう……」	「No no, let's think a bit more...」
+151672	Peruele Kalette	ジト目	「いやいや、もう少し考えましょう……」	「No no, let's think a bit more...」
 
-151673	Peruele Kalette	「国の為に疲弊して大変な生活して、	「Living a hard exhausted life for the country,
-151674	+	　死ぬかも知れない人類側につくか……」	　or side with humanity where I might die...
+151673	Peruele Kalette	基本	「国の為に疲弊して大変な生活して、	「Living a hard exhausted life for the country,
+151674	+		　死ぬかも知れない人類側につくか……」	　or side with humanity where I might die...
 
-151675	Peruele Kalette	「まず確実に安全で結構いい奴らばっかの	　or side with Kesselring where it's safe
-151676	+	　ケッセルリンク側につくか……」	　and everyone's pretty nice...
+151675	Peruele Kalette		「まず確実に安全で結構いい奴らばっかの	　or side with Kesselring where it's safe
+151676	+		　ケッセルリンク側につくか……」	　and everyone's pretty nice...
 
-151677	Peruele Kalette	「…………」	「............」
+151677	Peruele Kalette		「…………」	「............」
 
-151678	Peruele Kalette	「やっぱ悩む必要ないぞ？」	「Yeah, no need to worry at all?」
+151678	Peruele Kalette	ジト目	「やっぱ悩む必要ないぞ？」	「Yeah, no need to worry at all?」
 
-151679	Peruele Kalette	「う〜〜ん……」	「Hmmm...」
+151679	Peruele Kalette		「う〜〜ん……」	「Hmmm...」
 
-151680	-	もう一つ、ついでのように思い出す。	Another memory came to mind.
+151680	-		もう一つ、ついでのように思い出す。	Another memory came to mind.
 
-151681	Peruele Kalette	「うしっ、準備はこんなもんか」	「Alright, preparations done.」
+151681	Peruele Kalette	基本	「うしっ、準備はこんなもんか」	「Alright, preparations done.」
 
-151682	Peruele Kalette	「じゃ、ちょっくらケッセルリンクの城に	「Well, I'm off to Kesselring's castle
-151683	+	　行ってくるから後はよろしく……」	　for a bit, take care of the rest...」
+151682	Peruele Kalette		「じゃ、ちょっくらケッセルリンクの城に	「Well, I'm off to Kesselring's castle
+151683	+		　行ってくるから後はよろしく……」	　for a bit, take care of the rest...」
 
-151684	Peruele Kalette	「だから……	「So...
-151685	+	　手を離してくれない？」	　could you let go of my hand?」
+151684	Peruele Kalette		「だから……	「So...
+151685	+		　手を離してくれない？」	　could you let go of my hand?」
 
-151686	Sheila Helman	「…………」	「............」
+151686	Sheila Helman	悲しみ	「…………」	「............」
 
-151687	-	シーラはペルエレの手を	Sheila tightly held Peruele's hand
-151688	+	ぎゅっと掴んだまま固まっていた。	and wouldn't let go.
+151687	-		シーラはペルエレの手を	Sheila tightly held Peruele's hand
+151688	+		ぎゅっと掴んだまま固まっていた。	and wouldn't let go.
 
-151689	Sheila Helman	「…………」	「............」
+151689	Sheila Helman		「…………」	「............」
 
-151690	Peruele Kalette	「おいこら、離せ」	「Hey, let go.」
+151690	Peruele Kalette	基本	「おいこら、離せ」	「Hey, let go.」
 
-151691	Sheila Helman	「……やだ」	「...No.」
+151691	Sheila Helman	悲しみ	「……やだ」	「...No.」
 
-151692	Peruele Kalette	「やだ、て……」	「No...」
+151692	Peruele Kalette	基本	「やだ、て……」	「No...」
 
-151693	Peruele Kalette	「あんた……	「You...
-151694	+	　私の前でだけ我が儘になるわよね」	　only act selfish in front of me.」
+151693	Peruele Kalette		「あんた……	「You...
+151694	+		　私の前でだけ我が儘になるわよね」	　only act selfish in front of me.」
 
-151695	Sheila Helman	「…………」	「............」
+151695	Sheila Helman	エロ顔	「…………」	「............」
 
-151696	Peruele Kalette	「へーきよ、へーき。	「It's fine, it's fine.
-151697	+	　あんたが生き残れるなら、	　If you can survive,
-151698	+	　私の方がよっぽど楽勝よ」	　I'll have it way easier.」
+151696	Peruele Kalette	基本	「へーきよ、へーき。	「It's fine, it's fine.
+151697	+		　あんたが生き残れるなら、	　If you can survive,
+151698	+		　私の方がよっぽど楽勝よ」	　I'll have it way easier.」
 
-151699	Sheila Helman	「……うん」	「...Yeah.」
+151699	Sheila Helman	エロ顔	「……うん」	「...Yeah.」
 
-151700	Peruele Kalette	「ま、死んだ時は化けて出るけど」	「Well, if I die I'll haunt you though.」
+151700	Peruele Kalette	基本	「ま、死んだ時は化けて出るけど」	「Well, if I die I'll haunt you though.」
 
-151701	Sheila Helman	「うっ、やっぱり私が……」	「Ugh, then I should...」
+151701	Sheila Helman	悲しみ	「うっ、やっぱり私が……」	「Ugh, then I should...」
 
-151702	Peruele Kalette	「ああもう！　うっとうしい！」	「Aah geez! So annoying!」
+151702	Peruele Kalette	基本	「ああもう！　うっとうしい！」	「Aah geez! So annoying!」
 
-151703	Peruele Kalette	「…………」	「............」
+151703	Peruele Kalette		「…………」	「............」
 
-151704	Peruele Kalette	「ま……	「Well...
-151705	+	　悩む必要ないか」	　no need to worry.」
+151704	Peruele Kalette		「ま……	「Well...
+151705	+		　悩む必要ないか」	　no need to worry.」
 
-151706	Peruele Kalette	「よし、決めた」	「Alright, decided.」
+151706	Peruele Kalette	笑顔	「よし、決めた」	「Alright, decided.」

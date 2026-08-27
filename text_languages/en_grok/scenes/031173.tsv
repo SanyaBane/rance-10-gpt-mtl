@@ -13,280 +13,280 @@
 * Copandon Dott	コパンドン	Female
 * Sill Plain	シィル	Female
 
-57452	Monster General	「くっ、ぐ、うぬおおおおぉっ……！」	「Kuh, guh, uoooooh...!」
+57452	Monster General	基本	「くっ、ぐ、うぬおおおおぉっ……！」	「Kuh, guh, uoooooh...!」
 
-57453	Caesar	「オオオオオオオオオッ！」	「OOOOOOOOOH!」
+57453	Caesar		「オオオオオオオオオッ！」	「OOOOOOOOOH!」
 
-57454	Monster General	「あぐっ……ぐふ、く、は、っ……」	「Aguh... gufu, kuh, ha...」
+57454	Monster General		「あぐっ……ぐふ、く、は、っ……」	「Aguh... gufu, kuh, ha...」
 
-57455	-	シーザーの超重量級の一撃が、	Caesar's super heavy blow
-57456	+	魔物将軍の頭部を叩き砕く。	smashed a Monster General's head.
+57455	-		シーザーの超重量級の一撃が、	Caesar's super heavy blow
+57456	+		魔物将軍の頭部を叩き砕く。	smashed a Monster General's head.
 
-57457	Freya Idun	「これで4つ。魔物将軍は片付いた、と。	「That's four. All Monster Generals dealt with.
-57458	+	　あとは…………」	Now then............
+57457	Freya Idun		「これで4つ。魔物将軍は片付いた、と。	「That's four. All Monster Generals dealt with.
+57458	+		　あとは…………」	Now then............
 
-57459	-	激しいが短い戦闘の末、	After a short but fierce battle,
-57460	+	魔物将軍はその全てが屍を晒した。	all the Monster Generals lay dead.
-57461	+	そして……	And then...
+57459	-		激しいが短い戦闘の末、	After a short but fierce battle,
+57460	+		魔物将軍はその全てが屍を晒した。	all the Monster Generals lay dead.
+57461	+		そして……	And then...
 
-57462	Lei	「ぐ、く、おおぉぉっ……！」	「Guh, kuh, ooooooh...!」
+57462	Lei	戦闘時	「ぐ、く、おおぉぉっ……！」	「Guh, kuh, ooooooh...!」
 
-57463	Rance	「がははははは！！　ざまぁないな、ビリビリ野郎！	「Gahahahaha!! Pathetic, you shock bastard!
-57464	+	　俺様の本気とは、こういう事だ！！」	This is what I'm like when serious!!」
+57463	Rance	笑顔	「がははははは！！　ざまぁないな、ビリビリ野郎！	「Gahahahaha!! Pathetic, you shock bastard!
+57464	+		　俺様の本気とは、こういう事だ！！」	This is what I'm like when serious!!」
 
-57465	Chaos	「やったー！　ド汚い手も平気で取れちゃう！」	「Yay! I can use dirty tricks no problem!」
+57465	Chaos	基本	「やったー！　ド汚い手も平気で取れちゃう！」	「Yay! I can use dirty tricks no problem!」
 
-57466	Lei	「やってくれる、ッ……！」	「You got me...!」
+57466	Lei	戦闘時	「やってくれる、ッ……！」	「You got me...!」
 
-57467	Rance	「とどめだ、くたばれ！！」	「This is the end, die!!」
+57467	Rance	怒り	「とどめだ、くたばれ！！」	「This is the end, die!!」
 
-57468	Lei	「…………ッ！」	「......!」
+57468	Lei	戦闘時	「…………ッ！」	「......!」
 
-57469	Rance	「むっ……！」	「Mph...!」
+57469	Rance	イライラ	「むっ……！」	「Mph...!」
 
-57470	-	とっさに放ったレイの電撃は殺傷力はなく、	Lei's desperate electric shock had no lethal power,
-57471	+	ただ瞬間的な閃光がランスの目を一瞬眩ませた。	it only flashed brightly enough to momentarily blind Rance.
+57470	-		とっさに放ったレイの電撃は殺傷力はなく、	Lei's desperate electric shock had no lethal power,
+57471	+		ただ瞬間的な閃光がランスの目を一瞬眩ませた。	it only flashed brightly enough to momentarily blind Rance.
 
-57472	Rance	「ぐっ、貴様ッ……！」	「Guh, you...!」
+57472	Rance	だる顔	「ぐっ、貴様ッ……！」	「Guh, you...!」
 
-57473	-	一瞬目の眩んだランスが強引に剣を振り回すが、	Rance swung his sword wildly while blinded for a moment,
-57474	+	レイには当たらない。	but it didn't hit Lei.
+57473	-		一瞬目の眩んだランスが強引に剣を振り回すが、	Rance swung his sword wildly while blinded for a moment,
+57474	+		レイには当たらない。	but it didn't hit Lei.
 
-57475	Lei	「おもしれぇ、じゃねぇか、ランス、ッ……！」	「Not bad, Rance...!」
+57475	Lei	戦闘時	「おもしれぇ、じゃねぇか、ランス、ッ……！」	「Not bad, Rance...!」
 
-57476	-	レイは背面の窓に身体ごと突っ込んで、	Lei threw himself through the window behind him,
-57477	+	そのまま外へと落ちていく。	and fell outside.
+57476	-		レイは背面の窓に身体ごと突っ込んで、	Lei threw himself through the window behind him,
+57477	+		そのまま外へと落ちていく。	and fell outside.
 
-57478	Rance	「くっ、逃げやがった！	「Damn, he ran!
-57479	+	　ええい、これでトドメというところで……！」	　Right when I was about to finish him...!」
+57478	Rance	怒り	「くっ、逃げやがった！	「Damn, he ran!
+57479	+		　ええい、これでトドメというところで……！」	　Right when I was about to finish him...!」
 
-57480	Kentou Kanami	「ランス、魔物将軍は全部倒したわ。	「Rance, all the Monster Generals are dead.
-57481	+	　あとは…………」	　Now...」
+57480	Kentou Kanami	基本	「ランス、魔物将軍は全部倒したわ。	「Rance, all the Monster Generals are dead.
+57481	+		　あとは…………」	　Now...」
 
-57482	Chaos	「追え追え、心の友ー！	「Chase him, my soul friend!
-57483	+	　いい一発が入っとる、見つければ殺れる！」	　I landed a good hit. If you find him, you can kill him!」
+57482	Chaos	真剣	「追え追え、心の友ー！	「Chase him, my soul friend!
+57483	+		　いい一発が入っとる、見つければ殺れる！」	　I landed a good hit. If you find him, you can kill him!」
 
-57484	Rance	「よし、すぐに…………ん」	「Alright, right away... Hm.」
+57484	Rance		「よし、すぐに…………ん」	「Alright, right away... Hm.」
 
-57485	Katyusha Bosch	「………………ッ」	「............!」
+57485	Katyusha Bosch	睨み	「………………ッ」	「............!」
 
-57486	-	カチューシャが一人、	Katyusha was cornered alone
-57487	+	部屋の隅に追い詰められていた。	in the corner of the room.
+57486	-		カチューシャが一人、	Katyusha was cornered alone
+57487	+		部屋の隅に追い詰められていた。	in the corner of the room.
 
-57488	Rance	「……………………ぐふ。	「........................Gufu.
-57489	+	　いや、優先順位を考えるとそれじゃないな」	　No, that's not the priority right now.」
+57488	Rance	エロ顔	「……………………ぐふ。	「........................Gufu.
+57489	+		　いや、優先順位を考えるとそれじゃないな」	　No, that's not the priority right now.」
 
-57490	Chaos	「ちょ、うぉぉぉーーい！」	「Hey, waaaaait!」
+57490	Chaos	驚き	「ちょ、うぉぉぉーーい！」	「Hey, waaaaait!」
 
-57491	-	最前までの執着をあっさり捨てて、	Rance casually abandoned his previous obsession
-57492	+	ランスはカチューシャに歩み寄った。	and walked toward Katyusha.
+57491	-		最前までの執着をあっさり捨てて、	Rance casually abandoned his previous obsession
+57492	+		ランスはカチューシャに歩み寄った。	and walked toward Katyusha.
 
-57493	Katyusha Bosch	「ランス、ッ…………」	「Rance...」
+57493	Katyusha Bosch	睨み	「ランス、ッ…………」	「Rance...」
 
-57494	Rance	「さーて、お仕置きタイムだカチューシャ。	「Now then, it's punishment time, Katyusha.
-57495	+	　全て見切っていたぞ」	　I saw through everything.」
+57494	Rance	笑顔	「さーて、お仕置きタイムだカチューシャ。	「Now then, it's punishment time, Katyusha.
+57495	+		　全て見切っていたぞ」	　I saw through everything.」
 
-57496	Katyusha Bosch	「何故……っ……見抜かれるはずが……！」	「How... did you see through it...!」
+57496	Katyusha Bosch	睨み	「何故……っ……見抜かれるはずが……！」	「How... did you see through it...!」
 
-57497	Rance	「残念だったな。	「Too bad for you.
-57498	+	　こっちは、諜報に関しては	　On my side, when it comes to intelligence
-57499	+	　とっておきの秘密兵器がいるのだ」	　I have a secret ultimate weapon.」
+57497	Rance	笑顔	「残念だったな。	「Too bad for you.
+57498	+		　こっちは、諜報に関しては	　On my side, when it comes to intelligence
+57499	+		　とっておきの秘密兵器がいるのだ」	　I have a secret ultimate weapon.」
 
-57500	Crane	「………………」	「............」
+57500	Crane	基本	「………………」	「............」
 
-57501	Katyusha Bosch	「魔女、ッ……お前がいたのっ……！」	「The witch... You were here...!」
+57501	Katyusha Bosch	睨み	「魔女、ッ……お前がいたのっ……！」	「The witch... You were here...!」
 
-57502	Rance	「がははは、なんだメイドの格好はもうやめたのか。	「Gahahaha, you dropped the maid outfit already?
-57503	+	　似合ってたのに」	　It suited you.」
+57502	Rance	笑顔	「がははは、なんだメイドの格好はもうやめたのか。	「Gahahaha, you dropped the maid outfit already?
+57503	+		　似合ってたのに」	　It suited you.」
 
-57504	Crane	「……あなたが……変な事、させるから……」	「...Because you made me do weird things...」
+57504	Crane	基本	「……あなたが……変な事、させるから……」	「...Because you made me do weird things...」
 
-57505	-	口元の感触を思い出して、	Remembering the feeling on her lips,
-57506	+	クレインは指の背で唇をぬぐった。	Crane wiped her mouth with the back of her finger.
+57505	-		口元の感触を思い出して、	Remembering the feeling on her lips,
+57506	+		クレインは指の背で唇をぬぐった。	Crane wiped her mouth with the back of her finger.
 
-57507	Katyusha Bosch	「……どういうこと？	「...What does this mean?
-57508	+	　ランス……あなたは、こちら側の人間でしょう」	　Rance... You're on our side, aren't you?」
+57507	Katyusha Bosch		「……どういうこと？	「...What does this mean?
+57508	+		　ランス……あなたは、こちら側の人間でしょう」	　Rance... You're on our side, aren't you?」
 
-57509	Rance	「こっちだのそっちだのと、	「This side, that side,
-57510	+	　勝手に分別せんでもらおう。	　Don't categorize me arbitrarily.
-57511	+	　俺は俺で、好きなようにやるだけだ」	　I just do whatever I want.」
+57509	Rance	真剣	「こっちだのそっちだのと、	「This side, that side,
+57510	+		　勝手に分別せんでもらおう。	　Don't categorize me arbitrarily.
+57511	+		　俺は俺で、好きなようにやるだけだ」	　I just do whatever I want.」
 
-57512	Rance	「邪魔者と気に食わん奴は全て殺す。	「I kill anyone who gets in my way or I dislike.
-57513	+	　誰かにコントロールされるつもりもない」	　I have no intention of being controlled by anyone.」
+57512	Rance	基本	「邪魔者と気に食わん奴は全て殺す。	「I kill anyone who gets in my way or I dislike.
+57513	+		　誰かにコントロールされるつもりもない」	　I have no intention of being controlled by anyone.」
 
-57514	Katyusha Bosch	「損得勘定も出来ない……そういう事？」	「You can't even do basic cost-benefit analysis...?」
+57514	Katyusha Bosch		「損得勘定も出来ない……そういう事？」	「You can't even do basic cost-benefit analysis...?」
 
-57515	Rance	「何が損で何が得か、決めるのは俺様だ」	「I decide what is loss and what is gain.
+57515	Rance		「何が損で何が得か、決めるのは俺様だ」	「I decide what is loss and what is gain.
 
-57516	Rance	「セックスさせてコントロールしようなんて、	　Trying to control me with sex
-57517	+	　甘すぎる。	　is way too naive.
-57518	+	　俺は世界一の女を山ほど抱いてきた男だぞ」	　I'm a man who's fucked the best women in the world by the hundreds.」
+57516	Rance		「セックスさせてコントロールしようなんて、	　Trying to control me with sex
+57517	+		　甘すぎる。	　is way too naive.
+57518	+		　俺は世界一の女を山ほど抱いてきた男だぞ」	　I'm a man who's fucked the best women in the world by the hundreds.」
 
-57519	Katyusha Bosch	「っ、そう……どうやら、思ったより	「...I see... You're even more
-57520	+	　訳の分からない男だったみたい、ね……！」	　unpredictable than I thought...!」
+57519	Katyusha Bosch		「っ、そう……どうやら、思ったより	「...I see... You're even more
+57520	+		　訳の分からない男だったみたい、ね……！」	　unpredictable than I thought...!」
 
-57521	Rance	「全裸になって、マンコを広げて許しを請え。	「Strip naked, spread your pussy and beg for forgiveness.
-57522	+	　そうすれば、一晩たっぷりコースのお仕置きで	　If you do that, I'll punish you thoroughly all night
-57523	+	　許してやるぞ、がははは」	　and then forgive you, gahahaha
+57521	Rance		「全裸になって、マンコを広げて許しを請え。	「Strip naked, spread your pussy and beg for forgiveness.
+57522	+		　そうすれば、一晩たっぷりコースのお仕置きで	　If you do that, I'll punish you thoroughly all night
+57523	+		　許してやるぞ、がははは」	　and then forgive you, gahahaha
 
-57524	-	じりっと、カチューシャが後ずさる。	Katyusha slowly backed away.
+57524	-		じりっと、カチューシャが後ずさる。	Katyusha slowly backed away.
 
-57525	Kentou Kanami	「逃がさない！」	「I won't let you escape!」
+57525	Kentou Kanami		「逃がさない！」	「I won't let you escape!」
 
-57526	Rance	「殺すなよ、かなみ！」	「Don't kill her, Kanami!」
+57526	Rance		「殺すなよ、かなみ！」	「Don't kill her, Kanami!」
 
-57527	-	飛びかかったかなみが、忍刀の柄元で殴りかかる。	Kanami leaped at her and struck with the hilt of her ninja sword.
+57527	-		飛びかかったかなみが、忍刀の柄元で殴りかかる。	Kanami leaped at her and struck with the hilt of her ninja sword.
 
-57528	Katyusha Bosch	「ふ……ぅっ！」	「Fu...!」
+57528	Katyusha Bosch		「ふ……ぅっ！」	「Fu...!」
 
-57529	-	だが、その手首をカチューシャの手が掴む。	But Katyusha grabbed her wrist.
+57529	-		だが、その手首をカチューシャの手が掴む。	But Katyusha grabbed her wrist.
 
-57530	Kentou Kanami	「えっ……きゃああぁっ！？」	「Eh... Kyaaaa!?」
+57530	Kentou Kanami	うがー	「えっ……きゃああぁっ！？」	「Eh... Kyaaaa!?」
 
-57531	-	そのまま、流れるような上段回し蹴りが突き刺さり、	A smooth, powerful high roundhouse kick landed,
-57532	+	かなみの身体は宙に舞った。	sending Kanami flying.
+57531	-		そのまま、流れるような上段回し蹴りが突き刺さり、	A smooth, powerful high roundhouse kick landed,
+57532	+		かなみの身体は宙に舞った。	sending Kanami flying.
 
-57533	Freya Idun	「おっととと」	「Whoops.」
+57533	Freya Idun	基本	「おっととと」	「Whoops.」
 
-57534	Kentou Kanami	「う、嘘っ……ごほっ……！」	「N-no way... Cough...!」
+57534	Kentou Kanami	混乱	「う、嘘っ……ごほっ……！」	「N-no way... Cough...!」
 
-57535	-	フレイアがそれをキャッチするのと同時に、	As Freya caught her,
-57536	+	カチューシャは素早く入口まで疾走する。	Katyusha sprinted toward the entrance.
+57535	-		フレイアがそれをキャッチするのと同時に、	As Freya caught her,
+57536	+		カチューシャは素早く入口まで疾走する。	Katyusha sprinted toward the entrance.
 
-57537	Katyusha Bosch	「っ――――」	「...!」
+57537	Katyusha Bosch	基本	「っ――――」	「...!」
 
-57538	Biscuitta Burns	「失礼します」	「Excuse me.」
+57538	Biscuitta Burns		「失礼します」	「Excuse me.」
 
-57539	-	部屋の入口を、ビスケッタが塞いだ。	Biscuitta blocked the room entrance.
+57539	-		部屋の入口を、ビスケッタが塞いだ。	Biscuitta blocked the room entrance.
 
-57540	-	尋常ではない速度で、岩をも両断する手刀が飛ぶが、	At inhuman speed, a hand chop capable of cutting rock flew,
-57541	+	その手首を異常な精密さでカチューシャの拳が	but Katyusha's fist with abnormal precision
-57542	+	はたき落とす。	slapped it away.
+57540	-		尋常ではない速度で、岩をも両断する手刀が飛ぶが、	At inhuman speed, a hand chop capable of cutting rock flew,
+57541	+		その手首を異常な精密さでカチューシャの拳が	but Katyusha's fist with abnormal precision
+57542	+		はたき落とす。	slapped it away.
 
-57543	Biscuitta Burns	「…………！」	「......!」
+57543	Biscuitta Burns	レンズピカー	「…………！」	「......!」
 
-57544	Katyusha Bosch	「はぁっ！」	「Haa!」
+57544	Katyusha Bosch	基本	「はぁっ！」	「Haa!」
 
-57545	-	痛烈な前蹴りがビスケッタの胴に突き刺さり、	A fierce front kick pierced Biscuitta's torso,
-57546	+	入口を抜けて廊下の壁まで叩きつけた。	sending her crashing through the entrance into the hallway wall.
+57545	-		痛烈な前蹴りがビスケッタの胴に突き刺さり、	A fierce front kick pierced Biscuitta's torso,
+57546	+		入口を抜けて廊下の壁まで叩きつけた。	sending her crashing through the entrance into the hallway wall.
 
-57547	Rance	「お、おぉっ！？」	「O-oh!?」
+57547	Rance	驚き	「お、おぉっ！？」	「O-oh!?」
 
-57548	Katyusha Bosch	「覚えていなさい、ランス！	「Remember this, Rance!
-57549	+	　必ず、後悔させて……！」	　I'll make you regret this...!」
+57548	Katyusha Bosch	睨み	「覚えていなさい、ランス！	「Remember this, Rance!
+57549	+		　必ず、後悔させて……！」	　I'll make you regret this...!」
 
-57550	Freya Idun	「おっと」	「Whoops.」
+57550	Freya Idun	基本	「おっと」	「Whoops.」
 
-57551	Katyusha Bosch	「っ…………！」	「...!」
+57551	Katyusha Bosch	睨み	「っ…………！」	「...!」
 
-57552	-	矢のような速さで逃げようとしたカチューシャだが、	Katyusha tried to flee at arrow-like speed,
-57553	+	その足下を鞭と化したノリマキが浅く打った。	but Norimaki's whip struck lightly at her feet.
+57552	-		矢のような速さで逃げようとしたカチューシャだが、	Katyusha tried to flee at arrow-like speed,
+57553	+		その足下を鞭と化したノリマキが浅く打った。	but Norimaki's whip struck lightly at her feet.
 
-57554	Katyusha Bosch	「っ、浅いっ……」	「Tch, too shallow...」
+57554	Katyusha Bosch		「っ、浅いっ……」	「Tch, too shallow...」
 
-57555	-	カチューシャは一瞬足をもつれさせたが、	Katyusha stumbled for a moment,
-57556	+	すぐさま態勢を立て直そうとして……ふらついた。	but as she tried to regain balance... she staggered.
+57555	-		カチューシャは一瞬足をもつれさせたが、	Katyusha stumbled for a moment,
+57556	+		すぐさま態勢を立て直そうとして……ふらついた。	but as she tried to regain balance... she staggered.
 
-57557	Katyusha Bosch~	（毒……！？　いや、これくらいは……！）	（Poison...!? No, this much is...!）
+57557	Katyusha Bosch~		（毒……！？　いや、これくらいは……！）	（Poison...!? No, this much is...!）
 
-57558	Freya Idun	「いいえ、この一瞬でおしまいよ」	「No, it's over in this instant.」
+57558	Freya Idun	基本	「いいえ、この一瞬でおしまいよ」	「No, it's over in this instant.」
 
-57559	Satella	「シーザー、捕らえろ！」	「Caesar, capture her!」
+57559	Satella	怒り	「シーザー、捕らえろ！」	「Caesar, capture her!」
 
-57560	Katyusha Bosch	「あ、っ…………！」	「Ah...!」
+57560	Katyusha Bosch	基本	「あ、っ…………！」	「Ah...!」
 
-57561	-	シーザーの巨躯が、逃げられない間合いへ	Caesar's massive body closed the distance
-57562	+	入り込んでいた。	so she couldn't escape.
+57561	-		シーザーの巨躯が、逃げられない間合いへ	Caesar's massive body closed the distance
+57562	+		入り込んでいた。	so she couldn't escape.
 
-57563	-	ガーディアンの巨腕がカチューシャの腕を掴み、	The guardian's giant arm grabbed Katyusha's arm
-57564	+	何を藻掻く事も許さずにねじ伏せた。	and pinned her down without allowing any struggle.
+57563	-		ガーディアンの巨腕がカチューシャの腕を掴み、	The guardian's giant arm grabbed Katyusha's arm
+57564	+		何を藻掻く事も許さずにねじ伏せた。	and pinned her down without allowing any struggle.
 
-57565	Katyusha Bosch	「あう、ぐっ……く……ッ……！」	「Auu, guh... kuh...!」
+57565	Katyusha Bosch		「あう、ぐっ……く……ッ……！」	「Auu, guh... kuh...!」
 
-57566	Caesar	「ツカマエマシタ。サテラ様」	「Captured. Satella-sama.」
+57566	Caesar		「ツカマエマシタ。サテラ様」	「Captured. Satella-sama.」
 
-57567	Satella	「よーし、よくやった」	「Good job.」
+57567	Satella		「よーし、よくやった」	「Good job.」
 
-57568	Copandon Dott	「動かさんといてな！」	「Don't let her move!」
+57568	Copandon Dott	怒り	「動かさんといてな！」	「Don't let her move!」
 
-57569	Katyusha Bosch	「やめ、ッ……よ、よせッ……！」	「Stop... s-stop...!」
+57569	Katyusha Bosch	基本	「やめ、ッ……よ、よせッ……！」	「Stop... s-stop...!」
 
-57570	-	素早く駆け寄ったコパンドンが、	Copandon quickly rushed over
-57571	+	押さえ込まれたカチューシャの懐を器用にまさぐる。	and skillfully searched Katyusha's bosom while she was pinned down.
+57570	-		素早く駆け寄ったコパンドンが、	Copandon quickly rushed over
+57571	+		押さえ込まれたカチューシャの懐を器用にまさぐる。	and skillfully searched Katyusha's bosom while she was pinned down.
 
-57572	Copandon Dott	「あった、デラックスブック……！」	「Found it, the Deluxe Book...!」
+57572	Copandon Dott		「あった、デラックスブック……！」	「Found it, the Deluxe Book...!」
 
-57573	Rance	「よしよし……と、ビスケッタさん！	「Good good... Biscuitta!
-57574	+	　大丈夫か！？」	　Are you okay!?」
+57573	Rance	真剣	「よしよし……と、ビスケッタさん！	「Good good... Biscuitta!
+57574	+		　大丈夫か！？」	　Are you okay!?」
 
-57575	Biscuitta Burns	「受けは間に合ったので、どうにか……	「I managed to block in time, somehow...
-57576	+	　申し訳ございません」	　I'm sorry.」
+57575	Biscuitta Burns	基本	「受けは間に合ったので、どうにか……	「I managed to block in time, somehow...
+57576	+		　申し訳ございません」	　I'm sorry.」
 
-57577	Rance	「いや、おかげでとっ捕まえられた。	「No, thanks to you we caught her.
-57578	+	　怪我したなら無理するんじゃないぞ」	　Don't push yourself if you're hurt.」
+57577	Rance		「いや、おかげでとっ捕まえられた。	「No, thanks to you we caught her.
+57578	+		　怪我したなら無理するんじゃないぞ」	　Don't push yourself if you're hurt.」
 
-57579	Kentou Kanami	「は、はらほろ……くらくら」	「H-hurts... dizzy...」
+57579	Kentou Kanami	混乱	「は、はらほろ……くらくら」	「H-hurts... dizzy...」
 
-57580	Freya Idun	「はいはい。……隊長？	「There there. ...Captain?
-57581	+	　そろそろ起きなさいな。大将が見てるわよ」	　Time to get up. The general is watching.」
+57580	Freya Idun	基本	「はいはい。……隊長？	「There there. ...Captain?
+57581	+		　そろそろ起きなさいな。大将が見てるわよ」	　Time to get up. The general is watching.」
 
-57582	Kentou Kanami	「わ、わわわっ……」	「W-wawawa...」
+57582	Kentou Kanami	うがー	「わ、わわわっ……」	「W-wawawa...」
 
-57583	Rance	「と、いうわけでジ・エンドだカチューシャ。	「And that's the end, Katyusha.
-57584	+	　役者が違ったな。がははははははは！」	　You were outclassed. Gahahahahahaha!」
+57583	Rance	笑顔	「と、いうわけでジ・エンドだカチューシャ。	「And that's the end, Katyusha.
+57584	+		　役者が違ったな。がははははははは！」	　You were outclassed. Gahahahahahaha!」
 
-57585	Katyusha Bosch	「……ッ……！　殺さないの、かしら……？」	「...! You're not going to kill me...?」
+57585	Katyusha Bosch	基本	「……ッ……！　殺さないの、かしら……？」	「...! You're not going to kill me...?」
 
-57586	Rance	「いい女は殺さない。色々聞く事もあるしな。	「I don't kill good women. I still have questions.
-57587	+	　なにより…………」	　Above all............
+57586	Rance		「いい女は殺さない。色々聞く事もあるしな。	「I don't kill good women. I still have questions.
+57587	+		　なにより…………」	　Above all............
 
-57588	-	にやりと、ランスがいやらしく笑う。	Rance grinned lewdly.
-57589	+	視線で、カチューシャの肢体を舐め回す。	His eyes licked all over her body.
+57588	-		にやりと、ランスがいやらしく笑う。	Rance grinned lewdly.
+57589	+		視線で、カチューシャの肢体を舐め回す。	His eyes licked all over her body.
 
-57590	Rance	「たーっぷりお仕置きしなきゃならんからな！	「I have to punish you thoroughly!
-57591	+	　ぐふふふふ、楽しみにしておけ！」	　Gufufufu, look forward to it!」
+57590	Rance	エロ顔	「たーっぷりお仕置きしなきゃならんからな！	「I have to punish you thoroughly!
+57591	+		　ぐふふふふ、楽しみにしておけ！」	　Gufufufu, look forward to it!」
 
-57592	Katyusha Bosch	「絶対に……後悔させてあげる……！」	「I'll definitely... make you regret this...!」
+57592	Katyusha Bosch	基本	「絶対に……後悔させてあげる……！」	「I'll definitely... make you regret this...!」
 
-57593	-	最後まで燃えるような視線でランスを射貫いて、	With a burning glare until the very end,
-57594	+	カチューシャは連れて行かれた。	Katyusha was taken away.
+57593	-		最後まで燃えるような視線でランスを射貫いて、	With a burning glare until the very end,
+57594	+		カチューシャは連れて行かれた。	Katyusha was taken away.
 
-57595	Sill Plain	「って、あれ……？	「Wait... Huh...?
-57596	+	　もうひとりいませんでした？　人間の方……」	　Wasn't there one more? The human...」
+57595	Sill Plain	慌て	「って、あれ……？	「Wait... Huh...?
+57596	+		　もうひとりいませんでした？　人間の方……」	　Wasn't there one more? The human...」
 
-57597	Rance	「ああ……なんかぶたがいたな……いないか？」	「Yeah... There was some pig... Is he gone?」
+57597	Rance	真剣	「ああ……なんかぶたがいたな……いないか？」	「Yeah... There was some pig... Is he gone?」
 
-57598	Kentou Kanami	「どさくさで逃げちゃったみたいね。	「He must have slipped away in the chaos.
-57599	+	　逃げ足の速い……」	　Pretty fast runner...」
+57598	Kentou Kanami	基本	「どさくさで逃げちゃったみたいね。	「He must have slipped away in the chaos.
+57599	+		　逃げ足の速い……」	　Pretty fast runner...」
 
-57600	Rance	「なるほど。これはかなみをお仕置きかな？」	「I see. Does this mean punishment for Kanami?」
+57600	Rance		「なるほど。これはかなみをお仕置きかな？」	「I see. Does this mean punishment for Kanami?」
 
-57601	Kentou Kanami	「な、なんでよぉ！」	「W-why me!?」
+57601	Kentou Kanami	混乱	「な、なんでよぉ！」	「W-why me!?」
 
-57602	Chaos	「あーあ……」	「Aah...」
+57602	Chaos	基本	「あーあ……」	「Aah...」
 
-57603	Rance	「ん？　なんだカオス。	「Hm? What is it, Chaos.
-57604	+	　カチューシャがどうかしたのか」	　Something about Katyusha?」
+57603	Rance		「ん？　なんだカオス。	「Hm? What is it, Chaos.
+57604	+		　カチューシャがどうかしたのか」	　Something about Katyusha?」
 
-57605	Chaos	「うんにゃ、レイだよレイ。魔人。	「Nope, it's Lei. The Fiend.
-57606	+	　あー、もう逃げちゃったかなあ……」	　Ah, he probably escaped already...」
+57605	Chaos	ため息	「うんにゃ、レイだよレイ。魔人。	「Nope, it's Lei. The Fiend.
+57606	+		　あー、もう逃げちゃったかなあ……」	　Ah, he probably escaped already...」
 
-57607	Rance	「ああ……ちっ、ここで叩き殺しておきたかったな。	「Yeah... Tch, I wanted to smash him to death here.
-57608	+	　意外と生き汚い野郎だ」	　Tougher to kill than expected.」
+57607	Rance	真剣	「ああ……ちっ、ここで叩き殺しておきたかったな。	「Yeah... Tch, I wanted to smash him to death here.
+57608	+		　意外と生き汚い野郎だ」	　Tougher to kill than expected.」
 
-57609	Chaos	「どの口が言うのやら……」	「Look who's talking...」
+57609	Chaos	ため息	「どの口が言うのやら……」	「Look who's talking...」
 
-57610	Freya Idun	「一応、追っ手は出しておいたわ。	「I sent pursuers just in case.
-57611	+	　魔人だから、仕留めるのは無理だけど……」	　But since he's a Fiend, killing him might be hard...」
+57610	Freya Idun	基本	「一応、追っ手は出しておいたわ。	「I sent pursuers just in case.
+57611	+		　魔人だから、仕留めるのは無理だけど……」	　But since he's a Fiend, killing him might be hard...」
 
-57612	Rance	「あの傷なら助からんかもしれんぞ」	「With that wound he might not make it.」
+57612	Rance		「あの傷なら助からんかもしれんぞ」	「With that wound he might not make it.」
 
-57613	Chaos	「うーん、どうかなあ……ああ、せっかく	「Hmm, I wonder... Ah, it was such a good chance
-57614	+	　魔人をぶっ殺せるチャンスだったのにー。	　to kill a Fiend.
-57615	+	　奴の頭と心臓をカチ割りたかったのにー」	　I wanted to smash his head and heart.」
+57613	Chaos		「うーん、どうかなあ……ああ、せっかく	「Hmm, I wonder... Ah, it was such a good chance
+57614	+		　魔人をぶっ殺せるチャンスだったのにー。	　to kill a Fiend.
+57615	+		　奴の頭と心臓をカチ割りたかったのにー」	　I wanted to smash his head and heart.」
 
-57616	Rance	「ふん、やかましい。	「Hmph, shut up.
-57617	+	　もし生きてたら、次には叩き殺してくれるわ」	　If he's still alive, I'll smash him next time.」
+57616	Rance	だる顔	「ふん、やかましい。	「Hmph, shut up.
+57617	+		　もし生きてたら、次には叩き殺してくれるわ」	　If he's still alive, I'll smash him next time.」
 
-57618	-	破られた窓の向こうから、	From beyond the broken window,
-57619	+	夜気と共に追跡者の呼び子の音が流れてきていた。	the sound of pursuers' whistles mixed with the night air.
+57618	-		破られた窓の向こうから、	From beyond the broken window,
+57619	+		夜気と共に追跡者の呼び子の音が流れてきていた。	the sound of pursuers' whistles mixed with the night air.

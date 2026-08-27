@@ -8,67 +8,67 @@
 * Galtia	ガルティア	Male
 * Hunty Kalar	ハンティ	Female
 
-38136	?	「あ、あぐぐぐ……えさ、１０年ぶりの、	「Agh... First meal in ten years,
-38137	+	　えさ、なのに…………ちくしょう」	　and yet... damn it...」
+38136	?		「あ、あぐぐぐ……えさ、１０年ぶりの、	「Agh... First meal in ten years,
+38137	+		　えさ、なのに…………ちくしょう」	　and yet... damn it...」
 
-38138	-	モンスターは轟音を立てて崩れ落ちた。	The monster collapsed with a thunderous crash.
+38138	-		モンスターは轟音を立てて崩れ落ちた。	The monster collapsed with a thunderous crash.
 
-38139	Rance	「お、おお、やったか……	「O-oh, we did it...
-38140	+	　ぐ、くそ、まだ動けん……」	　Guh, damn, still can't move...」
+38139	Rance	驚き	「お、おお、やったか……	「O-oh, we did it...
+38140	+		　ぐ、くそ、まだ動けん……」	　Guh, damn, still can't move...」
 
-38141	Mill Yorks	「ちょっと待ってね、多分これで症状緩和するはず。	「Wait a moment, this should ease the symptoms.
-38142	+	　ええと……シィルねーちゃん」	　Um... Big sis Sill.」
+38141	Mill Yorks	基本	「ちょっと待ってね、多分これで症状緩和するはず。	「Wait a moment, this should ease the symptoms.
+38142	+		　ええと……シィルねーちゃん」	　Um... Big sis Sill.」
 
-38143	-	ミルはポシェットから出した薬を、	Mill took medicine from her pouch
-38144	+	倒れたままのシィルの口にねじこんだ。	and shoved it into the fallen Sill's mouth.
+38143	-		ミルはポシェットから出した薬を、	Mill took medicine from her pouch
+38144	+		倒れたままのシィルの口にねじこんだ。	and shoved it into the fallen Sill's mouth.
 
-38145	Sill Plain	「あ、っ……少し、楽になってきました……」	「Ah... It's getting a bit better...」
+38145	Sill Plain	泣き	「あ、っ……少し、楽になってきました……」	「Ah... It's getting a bit better...」
 
-38146	Mill Yorks	「基本は毒だから。	「It's basically poison.
-38147	+	　たぶん、魔法で治せるんじゃないかな」	　Magic should be able to cure it.」
+38146	Mill Yorks	基本	「基本は毒だから。	「It's basically poison.
+38147	+		　たぶん、魔法で治せるんじゃないかな」	　Magic should be able to cure it.」
 
-38148	Sill Plain	「あっ、はい。そうですね……治します。	「Ah, yes. Right... I'll heal it.
-38149	+	　状態回復！」	　Status Recovery!」
+38148	Sill Plain		「あっ、はい。そうですね……治します。	「Ah, yes. Right... I'll heal it.
+38149	+		　状態回復！」	　Status Recovery!」
 
-38150	-	シィルや、他のヒーラーが魔法を掛けて回り、	Sill and the other healers cast spells around,
-38151	+	一行は身体の自由を取り戻した。	and the group regained control of their bodies.
+38150	-		シィルや、他のヒーラーが魔法を掛けて回り、	Sill and the other healers cast spells around,
+38151	+		一行は身体の自由を取り戻した。	and the group regained control of their bodies.
 
-38152	Rance	「やれやれ、とんでもない目に遭ったな」	「Good grief, what a mess.」
+38152	Rance	だる顔	「やれやれ、とんでもない目に遭ったな」	「Good grief, what a mess.」
 
-38153	Noah Hakobune	「はい……竜宮島というのは、	「Yes... Dragon Palace Island
-38154	+	　伝説の中だけだったのかも知れません……」	　might only exist in legends...」
+38153	Noah Hakobune	基本	「はい……竜宮島というのは、	「Yes... Dragon Palace Island
+38154	+		　伝説の中だけだったのかも知れません……」	　might only exist in legends...」
 
-38155	Rance	「ともかく、船に戻るぞ。	「Anyway, back to the ship.
-38156	+	　追加のモンスターが来ないとも限らん」	　More monsters might show up.」
+38155	Rance		「ともかく、船に戻るぞ。	「Anyway, back to the ship.
+38156	+		　追加のモンスターが来ないとも限らん」	　More monsters might show up.」
 
-38157	Patton Helman	「おーーーー。こりゃすごい。	「Ooooooh. This is amazing.
-38158	+	　果物だらけじゃないか」	　It's full of fruit.」
+38157	Patton Helman	笑い	「おーーーー。こりゃすごい。	「Ooooooh. This is amazing.
+38158	+		　果物だらけじゃないか」	　It's full of fruit.」
 
-38159	Sachiko Centers	「わーーーー、美味しそうですね！」	「Waaaah, it looks delicious!」
+38159	Sachiko Centers	笑顔	「わーーーー、美味しそうですね！」	「Waaaah, it looks delicious!」
 
-38160	Rance	「……………………」	「........................」
+38160	Rance	イライラ	「……………………」	「........................」
 
-38161	-	サンライズ号の傍らで、	Beside the Sunrise,
-38162	+	ちょうどサンセット号が上陸していた。	the Sunset had just landed.
+38161	-		サンライズ号の傍らで、	Beside the Sunrise,
+38162	+		ちょうどサンセット号が上陸していた。	the Sunset had just landed.
 
-38163	Rance	「アホか、貴様ら！！！	「You idiots!!!
-38164	+	　あれは全部毒だ！　さっさと行くぞ！！」	　That's all poison! Move it!!」
+38163	Rance	怒り	「アホか、貴様ら！！！	「You idiots!!!
+38164	+		　あれは全部毒だ！　さっさと行くぞ！！」	　That's all poison! Move it!!」
 
-38165	Patton Helman	「ど、毒！？　そうなのか」	「P-poison!? Really?」
+38165	Patton Helman	叫び	「ど、毒！？　そうなのか」	「P-poison!? Really?」
 
-38166	Sachiko Centers	「えー、あんなに甘そうなのがいっぱいなのに……」	「Ehh, but they looked so sweet...」
+38166	Sachiko Centers	ドン引き	「えー、あんなに甘そうなのがいっぱいなのに……」	「Ehh, but they looked so sweet...」
 
-38167	Rance	「この未熟者どもが！　罠ぐらい、一目で見抜け！」	「You amateurs! You should spot a trap at a glance!」
+38167	Rance	基本	「この未熟者どもが！　罠ぐらい、一目で見抜け！」	「You amateurs! You should spot a trap at a glance!」
 
-38168	Sill Plain	「………………」	「............」
+38168	Sill Plain	苦笑	「………………」	「............」
 
-38169	Patton Helman	「はあ、しゃーねぇな。再出発といくか」	「Sigh, can't be helped. Let's set off again.」
+38169	Patton Helman	戸惑い	「はあ、しゃーねぇな。再出発といくか」	「Sigh, can't be helped. Let's set off again.」
 
-38170	Galtia	「へー、面白いな。	「Heh, interesting.
-38171	+	　ちょちょいと二、三本、引っこ抜いていくか」	　I'll just pull out a couple trees real quick.」
+38170	Galtia	基本使徒なし	「へー、面白いな。	「Heh, interesting.
+38171	+		　ちょちょいと二、三本、引っこ抜いていくか」	　I'll just pull out a couple trees real quick.」
 
-38172	Hunty Kalar	「二、三個、じゃなくて木をまるごと？	「Not a couple fruits, but whole trees?
-38173	+	　こっち、ただでさえデカブツ揃いで狭いのに……」	　Our ship is already packed with big guys and cramped...」
+38172	Hunty Kalar	基本	「二、三個、じゃなくて木をまるごと？	「Not a couple fruits, but whole trees?
+38173	+		　こっち、ただでさえデカブツ揃いで狭いのに……」	　Our ship is already packed with big guys and cramped...」
 
-38174	-	二隻の船は慌ただしく準備を行い、	The two ships hurriedly prepared,
-38175	+	再び海へと乗り出した。	and set sail once more.
+38174	-		二隻の船は慌ただしく準備を行い、	The two ships hurriedly prepared,
+38175	+		再び海へと乗り出した。	and set sail once more.

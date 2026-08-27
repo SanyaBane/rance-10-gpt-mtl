@@ -3,31 +3,31 @@
 * Kentou Kanami	かなみ	Female
 * Monster Captain	汎用魔物隊長	Male
 
-179347	Rance	「森まで戻ってきたが……」	「We've made it back to the forest, but...」
+179347	Rance	真剣	「森まで戻ってきたが……」	「We've made it back to the forest, but...」
 
-179348	Rance	「さーて、どうするかな……	「Now then, what to do...
-179349	+	　中に侵入とか出来んのか？」	　Can we even infiltrate inside?」
+179348	Rance	だる顔	「さーて、どうするかな……	「Now then, what to do...
+179349	+		　中に侵入とか出来んのか？」	　Can we even infiltrate inside?」
 
-179350	Kentou Kanami	「さすがに百万以上の魔物がいる中に	「Jumping into a place with over a million monsters
-179351	+	　飛び込むのは現実的じゃないわね……」	　isn't realistic...」
+179350	Kentou Kanami	基本	「さすがに百万以上の魔物がいる中に	「Jumping into a place with over a million monsters
+179351	+		　飛び込むのは現実的じゃないわね……」	　isn't realistic...」
 
-179352	Kentou Kanami	「こういうときは、	「In times like this,
-179353	+	　一人でポツンと孤立している	　we catch a lone isolated enemy
-179354	+	　敵を捕まえて情報を吐かせるものよ」	　and squeeze information out of them.」
+179352	Kentou Kanami		「こういうときは、	「In times like this,
+179353	+		　一人でポツンと孤立している	　we catch a lone isolated enemy
+179354	+		　敵を捕まえて情報を吐かせるものよ」	　and squeeze information out of them.」
 
-179355	Rance	「なるほど……	「I see...
-179356	+	　ではその作戦で行くぞ」	　Then we'll go with that plan.」
+179355	Rance		「なるほど……	「I see...
+179356	+		　ではその作戦で行くぞ」	　Then we'll go with that plan.」
 
-179357	-	ランス達が森の中に身を潜め、	Rance and the others hid in the forest,
-179358	+	孤立している兵を探す。	searching for isolated soldiers.
+179357	-		ランス達が森の中に身を潜め、	Rance and the others hid in the forest,
+179358	+		孤立している兵を探す。	searching for isolated soldiers.
 
-179359	Rance	「む、あそこにいるのは……」	「Mu, over there is...」
+179359	Rance		「む、あそこにいるのは……」	「Mu, over there is...」
 
-179360	Kentou Kanami	「魔物隊長ね」	「A monster captain.」
+179360	Kentou Kanami		「魔物隊長ね」	「A monster captain.」
 
-179361	Rance	「うってつけの奴だな。	「Perfect target.
-179362	+	　サクーッと行くぞ」	　Let's snatch him quick.」
+179361	Rance		「うってつけの奴だな。	「Perfect target.
+179362	+		　サクーッと行くぞ」	　Let's snatch him quick.」
 
-179363	Rance	「おらー！　とっ捕まれー！」	「Oraa! Gotcha!」
+179363	Rance	怒り	「おらー！　とっ捕まれー！」	「Oraa! Gotcha!」
 
-179364	Monster Captain	「うわあ！？　なんだァ！？」	「Uwaa!? What the!?」
+179364	Monster Captain	基本	「うわあ！？　なんだァ！？」	「Uwaa!? What the!?」

@@ -3,785 +3,785 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-177419	-	魔物界で行われた、	The last banquet
-177420	+	最終決戦前の最後の宴会。	before the final battle in the Monster Realm.
+177419	-		魔物界で行われた、	The last banquet
+177420	+		最終決戦前の最後の宴会。	before the final battle in the Monster Realm.
 
-177421	-	ランスは少し離れた所から、	Rance was drinking alone
-177422	+	周りを眺めながら一人で酒を飲んでいた。	a little ways away, watching everyone.
+177421	-		ランスは少し離れた所から、	Rance was drinking alone
+177422	+		周りを眺めながら一人で酒を飲んでいた。	a little ways away, watching everyone.
 
-177423	-	宴会の参加者は目立たないようにと配慮し、	The participants kept the noise modest
-177424	+	さわさわと静かに騒いでいる。	so as not to stand out.
+177423	-		宴会の参加者は目立たないようにと配慮し、	The participants kept the noise modest
+177424	+		さわさわと静かに騒いでいる。	so as not to stand out.
 
-177425	Sill Plain	「あ、ランス様……	「Ah, Rance-sama...
-177426	+	　こんな所にいたのですか」	　You were here.」
+177425	Sill Plain	基本	「あ、ランス様……	「Ah, Rance-sama...
+177426	+		　こんな所にいたのですか」	　You were here.」
 
-177427	Rance	「うむ、なんとなくな」	「Yeah, just felt like it.」
+177427	Rance	真剣	「うむ、なんとなくな」	「Yeah, just felt like it.」
 
-177428	Rance	「って、なんだそれ、美味そうだな」	「Wait, what's that? Looks delicious.」
+177428	Rance		「って、なんだそれ、美味そうだな」	「Wait, what's that? Looks delicious.」
 
-177429	Sill Plain	「うし肉のピッピン煮込みだそうですよ。	「It's apparently cow meat pipin stew.
-177430	+	　食べますか？　はい、あーん」	　Would you like some? Here, aahn.」
+177429	Sill Plain	基本	「うし肉のピッピン煮込みだそうですよ。	「It's apparently cow meat pipin stew.
+177430	+		　食べますか？　はい、あーん」	　Would you like some? Here, aahn.」
 
-177431	Rance	「もぐもぐ、うむ、中々だ」	「Munch munch, yeah, not bad.」
+177431	Rance		「もぐもぐ、うむ、中々だ」	「Munch munch, yeah, not bad.」
 
-177432	Sill Plain	「ランス様の分、取ってきましょうか？」	「Shall I get more for you, Rance-sama?」
+177432	Sill Plain	考え中	「ランス様の分、取ってきましょうか？」	「Shall I get more for you, Rance-sama?」
 
-177433	Rance	「いや、いい。	「No, it's fine.
-177434	+	　お前の分、半分よこせ」	　Give me half of yours.」
+177433	Rance	基本	「いや、いい。	「No, it's fine.
+177434	+		　お前の分、半分よこせ」	　Give me half of yours.」
 
-177435	Sill Plain	「はい」	「Yes.」
+177435	Sill Plain		「はい」	「Yes.」
 
-177436	Sill Plain	「あのー……	「Um...
-177437	+	　ところでランス様は、どうして	　By the way, why are you
-177438	+	　こんな場所にいるのでしょう？」	　in a place like this?」
+177436	Sill Plain	きょとん	「あのー……	「Um...
+177437	+		　ところでランス様は、どうして	　By the way, why are you
+177438	+		　こんな場所にいるのでしょう？」	　in a place like this?」
 
-177439	Rance	「ん？　どういう意味だ？」	「Hm? What do you mean?」
+177439	Rance	基本	「ん？　どういう意味だ？」	「Hm? What do you mean?」
 
-177440	Sill Plain	「……やっぱり、その、	「...As I thought, um,
-177441	+	　明日の戦いが心配だったり……	　you're worried about tomorrow's battle...
-177442	+	　それで物思いに耽ってらっしゃるのかなって」	　and that's why you're lost in thought?」
+177440	Sill Plain	泣き	「……やっぱり、その、	「...As I thought, um,
+177441	+		　明日の戦いが心配だったり……	　you're worried about tomorrow's battle...
+177442	+		　それで物思いに耽ってらっしゃるのかなって」	　and that's why you're lost in thought?」
 
-177443	Rance	「馬鹿たれ、最強無敵の俺様がそんなことするか」	「Idiot, would the strongest and invincible me worry about that?」
+177443	Rance	基本	「馬鹿たれ、最強無敵の俺様がそんなことするか」	「Idiot, would the strongest and invincible me worry about that?」
 
-177444	Sill Plain	「あうっ、す、すみません……」	「Auu, s-sorry...」
+177444	Sill Plain	ひんひん	「あうっ、す、すみません……」	「Auu, s-sorry...」
 
-177445	Rance~	（むしろ心配なのは……）	（Actually what I'm worried about is...）
+177445	Rance~	基本	（むしろ心配なのは……）	（Actually what I'm worried about is...）
 
-177446	-	ランスがジッとシィルを見つめていた。	Rance stared intently at Sill.
+177446	-		ランスがジッとシィルを見つめていた。	Rance stared intently at Sill.
 
-177447	Sill Plain	「？　どうかしましたか？」	「? Is something wrong?」
+177447	Sill Plain	考え中	「？　どうかしましたか？」	「? Is something wrong?」
 
-177448	Rance~	（シィルは俺と違ってどん臭いからな……）	（Sill is clumsy unlike me...）
+177448	Rance~	真剣	（シィルは俺と違ってどん臭いからな……）	（Sill is clumsy unlike me...）
 
-177449	Rance~	（なにかあったりしたらどうしよう……）	（What if something happens to her...）
+177449	Rance~		（なにかあったりしたらどうしよう……）	（What if something happens to her...）
 
-177450	Rance~	（……なんて思ってたなんて言えない。	（...I can't say I was thinking that.
-177451	+	　言いたくない……）	　I don't want to say it...）
+177450	Rance~	だる顔	（……なんて思ってたなんて言えない。	（...I can't say I was thinking that.
+177451	+		　言いたくない……）	　I don't want to say it...）
 
-177452	Sill Plain	「あ、あのー……ランス様？」	「U-um... Rance-sama?」
+177452	Sill Plain	苦笑	「あ、あのー……ランス様？」	「U-um... Rance-sama?」
 
-177453	Rance	「もっとそれ食わせろ。	「Feed me more of that.
-177454	+	　がつがつがつ」	　Munch munch munch.」
+177453	Rance	基本	「もっとそれ食わせろ。	「Feed me more of that.
+177454	+		　がつがつがつ」	　Munch munch munch.」
 
-177455	Sill Plain	「あっ、あっ、あっ、	「Ah, ah, ah,
-177456	+	　私の分なくなっちゃいますー」	　My share is disappearing!」
+177455	Sill Plain	恥	「あっ、あっ、あっ、	「Ah, ah, ah,
+177456	+		　私の分なくなっちゃいますー」	　My share is disappearing!」
 
-177457	Rance	「もぐもぐ、けぷっ。	「Munch munch, burp.
-177458	+	　遠慮するな、お前も食え」	　Don't hold back, you eat too.」
+177457	Rance	基本	「もぐもぐ、けぷっ。	「Munch munch, burp.
+177458	+		　遠慮するな、お前も食え」	　Don't hold back, you eat too.」
 
-177459	Sill Plain	「くすん……	「Sob...
-177460	+	　もう切れ端しか残ってないです……」	　Only scraps are left...」
+177459	Sill Plain	泣き	「くすん……	「Sob...
+177460	+		　もう切れ端しか残ってないです……」	　Only scraps are left...」
 
-177461	Rance	「がははは、そうなるよう食ってやったからな」	「Gahahaha, I ate it on purpose so it'd end up that way.」
+177461	Rance	基本	「がははは、そうなるよう食ってやったからな」	「Gahahaha, I ate it on purpose so it'd end up that way.」
 
-177462	-	料理に夢中になっていると、	While absorbed in the food,
-177463	+	宴会の喧噪と、森の不気味な静かさが際だつ。	the lively yet quiet banquet noise contrasted with the eerie silence of the forest.
+177462	-		料理に夢中になっていると、	While absorbed in the food,
+177463	+		宴会の喧噪と、森の不気味な静かさが際だつ。	the lively yet quiet banquet noise contrasted with the eerie silence of the forest.
 
-177464	-	みんな、明日は大変な戦いになると知っており、	Everyone knew tomorrow would be a terrible battle,
-177465	+	どこか無理してはしゃいでいるようだった。	so they seemed to be forcing themselves to be cheerful.
+177464	-		みんな、明日は大変な戦いになると知っており、	Everyone knew tomorrow would be a terrible battle,
+177465	+		どこか無理してはしゃいでいるようだった。	so they seemed to be forcing themselves to be cheerful.
 
-177466	Sill Plain	「…………」	「............」
+177466	Sill Plain	真剣	「…………」	「............」
 
-177467	Rance	「ん？　なんだよ」	「Hm? What is it?」
+177467	Rance	基本	「ん？　なんだよ」	「Hm? What is it?」
 
-177468	Sill Plain	「ランス様……すごいです……」	「Rance-sama... you're amazing...」
+177468	Sill Plain	真剣	「ランス様……すごいです……」	「Rance-sama... you're amazing...」
 
-177469	Sill Plain	「本当に世界を統一されて……	「You really unified the world...
-177470	+	　長年の夢だったハーレムも、	　and your long-cherished dream of a harem
-177471	+	　もう作ってしまったようなもので……」	　is basically already complete...」
+177469	Sill Plain		「本当に世界を統一されて……	「You really unified the world...
+177470	+		　長年の夢だったハーレムも、	　and your long-cherished dream of a harem
+177471	+		　もう作ってしまったようなもので……」	　is basically already complete...」
 
-177472	Sill Plain	「その……	「Um...
-177473	+	　どなたかの所に行かれなくていいんですか？」	　Don't you need to go to someone else's side?」
+177472	Sill Plain		「その……	「Um...
+177473	+		　どなたかの所に行かれなくていいんですか？」	　Don't you need to go to someone else's side?」
 
-177474	Sill Plain	「わたし……	「Can I...
-177475	+	　ここにいても、いいですか？」	　stay here with you?」
+177474	Sill Plain		「わたし……	「Can I...
+177475	+		　ここにいても、いいですか？」	　stay here with you?」
 
-177476	Rance	「…………」	「............」
+177476	Rance	基本	「…………」	「............」
 
-177477	Sill Plain	「どきどき……どきどき……」	「Thump thump... thump thump...」
+177477	Sill Plain	恥	「どきどき……どきどき……」	「Thump thump... thump thump...」
 
-177478	Rance	「馬ー鹿、お前俺の奴隷だろうが」	「Idiot, you're my slave, aren't you?」
+177478	Rance	真剣	「馬ー鹿、お前俺の奴隷だろうが」	「Idiot, you're my slave, aren't you?」
 
-177479	Rance	「俺様の世話する仕事を	「You can't slack on
-177480	+	　サボろうたってそうはいかん」	　taking care of me.」
+177479	Rance		「俺様の世話する仕事を	「You can't slack on
+177480	+		　サボろうたってそうはいかん」	　taking care of me.」
 
-177481	Rance	「俺の近くにいろ」	「Stay close to me.」
+177481	Rance		「俺の近くにいろ」	「Stay close to me.」
 
-177482	Sill Plain	「あ――はいっ！」	「A-- Yes!」
+177482	Sill Plain	笑顔	「あ――はいっ！」	「A-- Yes!」
 
-177483	Rance	「……いいな、離れるなよ」	「...Good, don't leave my side.」
+177483	Rance	基本	「……いいな、離れるなよ」	「...Good, don't leave my side.」
 
-177484	Sill Plain	「はいっ」	「Yes!」
+177484	Sill Plain	笑顔	「はいっ」	「Yes!」
 
-177485	Rance	「飯」	「Food.」
+177485	Rance	基本	「飯」	「Food.」
 
-177486	Sill Plain	「はい、ふーふーっ、	「Yes, fuu fuu,
-177487	+	　あーんしてください、ランス様」	　aahn, Rance-sama.」
+177486	Sill Plain	笑顔	「はい、ふーふーっ、	「Yes, fuu fuu,
+177487	+		　あーんしてください、ランス様」	　aahn, Rance-sama.」
 
-177488	Rance	「うむ、もぐもぐ」	「Yeah, munch munch.」
+177488	Rance	基本	「うむ、もぐもぐ」	「Yeah, munch munch.」
 
-177489	-	…………	............
+177489	-		…………	............
 
-177490	-	……	...
+177490	-		……	...
 
-177491	-	宴会も終わり、皆が休んでいる頃――	After the banquet ended and everyone was resting――
+177491	-		宴会も終わり、皆が休んでいる頃――	After the banquet ended and everyone was resting――
 
-177492	-	ランスとシィルが、	Rance and Sill
-177493	+	魔物界の森に来ていた。	had come to the Monster Realm forest.
+177492	-		ランスとシィルが、	Rance and Sill
+177493	+		魔物界の森に来ていた。	had come to the Monster Realm forest.
 
-177494	Sill Plain	「あのぉ、ランス様……	「Um, Rance-sama...
-177495	+	　お休みにならなくて良いのですか？」	　Shouldn't you be resting?」
+177494	Sill Plain	きょとん	「あのぉ、ランス様……	「Um, Rance-sama...
+177495	+		　お休みにならなくて良いのですか？」	　Shouldn't you be resting?」
 
-177496	Rance	「お休みぃ〜？」	「Resting~?」
+177496	Rance	だる顔	「お休みぃ〜？」	「Resting~?」
 
-177497	Rance	「がははははははは！	「Gahahahahahaha!
-177498	+	　まだやり残したことがあるだろう！」	　We still have unfinished business!」
+177497	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+177498	+		　まだやり残したことがあるだろう！」	　We still have unfinished business!」
 
-177499	Rance	「とーーーーーーっ！」	「Toooraaaa!」
+177499	Rance	全裸／怒り	「とーーーーーーっ！」	「Toooraaaa!」
 
-177500	Sill Plain	「きゃあああ！？　ら、ランス様！？」	「Kyaaaa!? R-Rance-sama!?」
+177500	Sill Plain	基本	「きゃあああ！？　ら、ランス様！？」	「Kyaaaa!? R-Rance-sama!?」
 
-177501	-	ランスはすぽぽーんと裸になった。	Rance stripped completely naked in one smooth motion.
+177501	-		ランスはすぽぽーんと裸になった。	Rance stripped completely naked in one smooth motion.
 
-177502	Rance	「ぐふふふ、せっかく魔物界まで来たのだ。	「Gufufu, we've come all the way to the Monster Realm.
-177503	+	　その証しとしてここでセックスするのだ」	　As proof, we're going to fuck right here.」
+177502	Rance	全裸／エロ顔	「ぐふふふ、せっかく魔物界まで来たのだ。	「Gufufu, we've come all the way to the Monster Realm.
+177503	+		　その証しとしてここでセックスするのだ」	　As proof, we're going to fuck right here.」
 
-177504	Rance	「探検家が前人未踏の地に、	「It's like an explorer planting a flag
-177505	+	　旗をおっ立てるみたいなものだな」	　on uncharted land.」
+177504	Rance	全裸	「探検家が前人未踏の地に、	「It's like an explorer planting a flag
+177505	+		　旗をおっ立てるみたいなものだな」	　on uncharted land.」
 
-177506	Sill Plain	「ち、違います……	「T-that's not...
-177507	+	　きっとそれ違うと思います……」	　I'm sure that's wrong...」
+177506	Sill Plain	ぽか〜ん	「ち、違います……	「T-that's not...
+177507	+		　きっとそれ違うと思います……」	　I'm sure that's wrong...」
 
-177508	Sill Plain	「そ、それに、明日は決戦ですし、	「B-besides, tomorrow is the final battle,
-177509	+	　そんなことしたら明日に響いて……」	　if we do that it'll affect tomorrow...」
+177508	Sill Plain	恥	「そ、それに、明日は決戦ですし、	「B-besides, tomorrow is the final battle,
+177509	+		　そんなことしたら明日に響いて……」	　if we do that it'll affect tomorrow...」
 
-177510	Rance	「んじゃ、三発だけでやめておくか。	「Then I'll settle for three shots.
-177511	+	　がははは、いいから脱ぐのだー！」	　Gahahaha, just strip already!」
+177510	Rance	全裸／笑顔	「んじゃ、三発だけでやめておくか。	「Then I'll settle for three shots.
+177511	+		　がははは、いいから脱ぐのだー！」	　Gahahaha, just strip already!」
 
-177512	Sill Plain	「きゃああああ！？」	「Kyaaaaaaa!?」
+177512	Sill Plain	基本	「きゃああああ！？」	「Kyaaaaaaa!?」
 
-177513	-	…………	............
+177513	-		…………	............
 
-177514	-	……	...
+177514	-		……	...
 
-177515	-	　　＜パンパン、パンパン……＞	　　＜Slap slap, slap slap...＞
+177515	-		　　＜パンパン、パンパン……＞	　　＜Slap slap, slap slap...＞
 
-177516	-	生き物の姿の見えない森の中で、不思議な音だけが響いていた。	In the forest devoid of visible creatures, only those mysterious wet sounds echoed.
+177516	-		生き物の姿の見えない森の中で、不思議な音だけが響いていた。	In the forest devoid of visible creatures, only those mysterious wet sounds echoed.
 
-177517	Rance	「がーーーーっはっはっはっはっはっ！	「Gaaaaahahahaha!
-177518	+	　魔物界での初セーーーックス！」	　First sex in the Monster Realm!」
+177517	Rance		「がーーーーっはっはっはっはっはっ！	「Gaaaaahahahaha!
+177518	+		　魔物界での初セーーーックス！」	　First sex in the Monster Realm!」
 
-177519	Sill Plain	「うあっ、あっ、あううう……ランス、様、ぁ……」	「Uah, ah, auuu... Rance... sama...」
+177519	Sill Plain		「うあっ、あっ、あううう……ランス、様、ぁ……」	「Uah, ah, auuu... Rance... sama...」
 
-177520	-	裸で抱き合った二人は、魔物界の森で性交を行っていた。	The two embraced naked, fucking passionately in the Monster Realm forest.
-177521	+	既に数十分も経っているがランスは何度も楽しそうに笑った。	Minutes had already passed, yet Rance laughed happily again and again.
+177520	-		裸で抱き合った二人は、魔物界の森で性交を行っていた。	The two embraced naked, fucking passionately in the Monster Realm forest.
+177521	+		既に数十分も経っているがランスは何度も楽しそうに笑った。	Minutes had already passed, yet Rance laughed happily again and again.
 
-177522	-	対照的に、すっかりシィルの息は荒くなり、	In contrast, Sill's breathing had grown completely ragged,
-177523	+	ランスにしがみつくので精一杯になっていた。	and she could only cling desperately to Rance.
+177522	-		対照的に、すっかりシィルの息は荒くなり、	In contrast, Sill's breathing had grown completely ragged,
+177523	+		ランスにしがみつくので精一杯になっていた。	and she could only cling desperately to Rance.
 
-177524	Sill Plain	「あううう……ら、ランス様、	「Auuh... R-Rance-sama,
-177525	+	　すぐに終わらせると仰っていたのにぃ……」	　you said you'd finish quickly...」
+177524	Sill Plain		「あううう……ら、ランス様、	「Auuh... R-Rance-sama,
+177525	+		　すぐに終わらせると仰っていたのにぃ……」	　you said you'd finish quickly...」
 
-177526	Rance	「そんなことは言ってない。	「I never said that.
-177527	+	　俺は三発やったら寝るかと言ったのだ」	　I said I'd sleep after three shots.」
+177526	Rance		「そんなことは言ってない。	「I never said that.
+177527	+		　俺は三発やったら寝るかと言ったのだ」	　I said I'd sleep after three shots.」
 
-177528	Sill Plain	「そ、そんなぁ……	「B-but...
-177529	+	　明日に響きますよぉ……」	　It'll affect tomorrow...」
+177528	Sill Plain		「そ、そんなぁ……	「B-but...
+177529	+		　明日に響きますよぉ……」	　It'll affect tomorrow...」
 
-177530	-	口ではそう言いつつ、	Even as she said that,
-177531	+	しかしシィルの胸の中には一つの思いがあった。	a single thought filled Sill's heart.
+177530	-		口ではそう言いつつ、	Even as she said that,
+177531	+		しかしシィルの胸の中には一つの思いがあった。	a single thought filled Sill's heart.
 
-177532	Sill Plain~	（でも……もしかしたら、これが最後になる、かも……）	（But... this might be the last time...）
+177532	Sill Plain~		（でも……もしかしたら、これが最後になる、かも……）	（But... this might be the last time...）
 
-177533	Sill Plain~	（もしも、私とランス様、どちらかが死んでしまったら……）	（If either me or Rance-sama dies...）
+177533	Sill Plain~		（もしも、私とランス様、どちらかが死んでしまったら……）	（If either me or Rance-sama dies...）
 
-177534	-	そう考えると、シィルの心臓は気持ちの悪い鼓動を打ち、	Her heart pounded painfully at the thought,
-177535	+	胸の内に黒いもやもやが溜まるような気がした。	and a dark haze seemed to gather in her chest.
+177534	-		そう考えると、シィルの心臓は気持ちの悪い鼓動を打ち、	Her heart pounded painfully at the thought,
+177535	+		胸の内に黒いもやもやが溜まるような気がした。	and a dark haze seemed to gather in her chest.
 
-177536	Sill Plain~	（ない、ないとは、思うけど……	（It won't happen, I don't think so but...
-177537	+	　でも、もしもそうなったら……こんな風に出来るのもきっと……）	　but if it does... this might be the last time we can do this...）
+177536	Sill Plain~		（ない、ないとは、思うけど……	（It won't happen, I don't think so but...
+177537	+		　でも、もしもそうなったら……こんな風に出来るのもきっと……）	　but if it does... this might be the last time we can do this...）
 
-177538	-	これが最後のセックスかも知れない。	This could be their last sex.
-177539	+	その思いが緊張を生み、シィルの体を絶頂へ導かずにいた。	That thought created tension, preventing her body from reaching climax.
+177538	-		これが最後のセックスかも知れない。	This could be their last sex.
+177539	+		その思いが緊張を生み、シィルの体を絶頂へ導かずにいた。	That thought created tension, preventing her body from reaching climax.
 
-177540	Rance	「がははは！　場所が違うからかな！	「Gahahaha! Maybe it's the different location!
-177541	+	　今日はやけに気持ちいいぞー！」	　It feels incredibly good today!」
+177540	Rance		「がははは！　場所が違うからかな！	「Gahahaha! Maybe it's the different location!
+177541	+		　今日はやけに気持ちいいぞー！」	　It feels incredibly good today!」
 
-177542	Rance	「俺様のハイパー兵器が擦れる度に、こう……	「Every time my hyper weapon rubs inside her...
-177543	+	　あへあへーって感じで、グッドだー」	　it makes her go all ahe ahe, so good!」
+177542	Rance		「俺様のハイパー兵器が擦れる度に、こう……	「Every time my hyper weapon rubs inside her...
+177543	+		　あへあへーって感じで、グッドだー」	　it makes her go all ahe ahe, so good!」
 
-177544	Rance	「どうだ、シィル。	「How is it, Sill.
-177545	+	　お前も気持ちいいだろう！」	　It feels good for you too, right!」
+177544	Rance		「どうだ、シィル。	「How is it, Sill.
+177545	+		　お前も気持ちいいだろう！」	　It feels good for you too, right!」
 
-177546	Sill Plain	「う、あ……はい……	「U, ah... Yes...
-177547	+	　そ、その、それは……その、私も、不思議と……」	　T-that... strangely... it feels good for me too...」
+177546	Sill Plain		「う、あ……はい……	「U, ah... Yes...
+177547	+		　そ、その、それは……その、私も、不思議と……」	　T-that... strangely... it feels good for me too...」
 
-177548	-	言葉通り、ペニスをシィルの膣内でしごくと、	Just as she said, every stroke of his cock inside her tight pussy
-177549	+	それだけでイッてしまいそうなほどの快感がペニスを走り抜けた。	sent waves of pleasure through his shaft that nearly made him cum.
+177548	-		言葉通り、ペニスをシィルの膣内でしごくと、	Just as she said, every stroke of his cock inside her tight pussy
+177549	+		それだけでイッてしまいそうなほどの快感がペニスを走り抜けた。	sent waves of pleasure through his shaft that nearly made him cum.
 
-177550	-	それはシィルも同様で、膣内を擦り上げられる度に、	The same was true for Sill; every thrust rubbing her inner walls
-177551	+	快感が背筋へ突き抜けてゾクゾクと震えた。	sent electric jolts of ecstasy up her spine, making her shiver.
+177550	-		それはシィルも同様で、膣内を擦り上げられる度に、	The same was true for Sill; every thrust rubbing her inner walls
+177551	+		快感が背筋へ突き抜けてゾクゾクと震えた。	sent electric jolts of ecstasy up her spine, making her shiver.
 
-177552	-	まるで性器だけが別の生物のなったような、	It felt as if their genitals had become separate living creatures,
-177553	+	普段では感じないほどの快楽だった。	delivering pleasure far beyond their usual encounters.
+177552	-		まるで性器だけが別の生物のなったような、	It felt as if their genitals had become separate living creatures,
+177553	+		普段では感じないほどの快楽だった。	delivering pleasure far beyond their usual encounters.
 
-177554	-	が、しかし――	However――
+177554	-		が、しかし――	However――
 
-177555	Rance	「……むー？」	「...Hmm?」
+177555	Rance		「……むー？」	「...Hmm?」
 
-177556	Sill Plain	「あ、ひうっ……ランス様？　ど、どうかなさいましたか？」	「A, hiu... Rance-sama? Is something wrong?」
+177556	Sill Plain		「あ、ひうっ……ランス様？　ど、どうかなさいましたか？」	「A, hiu... Rance-sama? Is something wrong?」
 
-177557	Rance	「いや、普段ならとっくにイッていてもおかしくないのだが……	「No, normally I'd have cum long ago...
-177558	+	　今日に限って中々イカないなと……うぅん……？」	　but today I just can't seem to finish... Hmm...?」
+177557	Rance		「いや、普段ならとっくにイッていてもおかしくないのだが……	「No, normally I'd have cum long ago...
+177558	+		　今日に限って中々イカないなと……うぅん……？」	　but today I just can't seem to finish... Hmm...?」
 
-177559	Sill Plain~	（もしかしたら、その……）	（Maybe...）
+177559	Sill Plain~		（もしかしたら、その……）	（Maybe...）
 
-177560	Sill Plain~	（……ランス様も私と同じように緊張を？）	（...Rance-sama is also tense like me?）
+177560	Sill Plain~		（……ランス様も私と同じように緊張を？）	（...Rance-sama is also tense like me?）
 
-177561	Rance	「ここの環境のせいかな？	「Is it because of the environment here?
-177562	+	　がははは、それならそれで長続きして面白いではないか！」	　Gahahaha, if so that's great for lasting longer!」
+177561	Rance		「ここの環境のせいかな？	「Is it because of the environment here?
+177562	+		　がははは、それならそれで長続きして面白いではないか！」	　Gahahaha, if so that's great for lasting longer!」
 
-177563	Sill Plain	「ああっ、あんっ！」	「Aah, ahn!」
+177563	Sill Plain		「ああっ、あんっ！」	「Aah, ahn!」
 
-177564	-	ランスは馬鹿笑いをしながら、シィルの膣内をペニスで突き上げる。	Laughing boorishly, Rance thrust his thick cock deep into Sill's dripping pussy.
+177564	-		ランスは馬鹿笑いをしながら、シィルの膣内をペニスで突き上げる。	Laughing boorishly, Rance thrust his thick cock deep into Sill's dripping pussy.
 
-177565	Rance	「それにいつもよりも、不思議と気持ちいいのは事実だしな！	「Plus it really does feel better than usual!
-177566	+	　がははは、俺様は細かいことは気にしないのだー！」	　Gahahaha, I don't sweat the small stuff!」
+177565	Rance		「それにいつもよりも、不思議と気持ちいいのは事実だしな！	「Plus it really does feel better than usual!
+177566	+		　がははは、俺様は細かいことは気にしないのだー！」	　Gahahaha, I don't sweat the small stuff!」
 
-177567	-	シィルの軽い体を抱えたまま、	Holding Sill's light body firmly,
-177568	+	ランスは好き勝手に膣内でペニスで抽送させる。	Rance fucked her pussy however he pleased with powerful strokes.
+177567	-		シィルの軽い体を抱えたまま、	Holding Sill's light body firmly,
+177568	+		ランスは好き勝手に膣内でペニスで抽送させる。	Rance fucked her pussy however he pleased with powerful strokes.
 
-177569	Sill Plain	「あっ、ひっ、ひん、んあっ、あっ、ら、ランス、様ぁ……！」	「Ah, hi, hin, nahn, ah, R-Rance... sama...!」
+177569	Sill Plain		「あっ、ひっ、ひん、んあっ、あっ、ら、ランス、様ぁ……！」	「Ah, hi, hin, nahn, ah, R-Rance... sama...!」
 
-177570	-	膣内をペニスで擦られる度にシィルは、	Every time his thick cock scraped her sensitive walls,
-177571	+	甘い声で小さい悲鳴のようなものを上げ続けていた。	Sill let out sweet little cries of pleasure.
+177570	-		膣内をペニスで擦られる度にシィルは、	Every time his thick cock scraped her sensitive walls,
+177571	+		甘い声で小さい悲鳴のようなものを上げ続けていた。	Sill let out sweet little cries of pleasure.
 
-177572	Sill Plain	「ランス、様……ランス様ぁ……」	「Rance... sama... Rance-sama...」
+177572	Sill Plain		「ランス、様……ランス様ぁ……」	「Rance... sama... Rance-sama...」
 
-177573	-	今までとは少し違う声色にランスが気がつく。	Rance noticed the slightly different tone in her voice.
+177573	-		今までとは少し違う声色にランスが気がつく。	Rance noticed the slightly different tone in her voice.
 
-177574	Rance	「お前、何を泣きそうな顔をしてるのだ」	「Why do you look like you're about to cry?」
+177574	Rance		「お前、何を泣きそうな顔をしてるのだ」	「Why do you look like you're about to cry?」
 
-177575	Sill Plain	「だって……だって……」	「Because... because...
+177575	Sill Plain		「だって……だって……」	「Because... because...
 
-177576	-	もしかしたら体を重ね合うのはこれが最後かも知れない――	this might be the last time we embrace each other――
+177576	-		もしかしたら体を重ね合うのはこれが最後かも知れない――	this might be the last time we embrace each other――
 
-177577	-	そう思うと、自然とシィルの胸は切なくなり、	Thinking that made Sill's heart ache with bittersweet longing,
-177578	+	いつもより、ぎゅうと強くランスにしがみついていた。	and she clung to Rance even tighter than usual.
+177577	-		そう思うと、自然とシィルの胸は切なくなり、	Thinking that made Sill's heart ache with bittersweet longing,
+177578	+		いつもより、ぎゅうと強くランスにしがみついていた。	and she clung to Rance even tighter than usual.
 
-177579	-	この一瞬一瞬を体に刻みつけるように。	As if trying to imprint every moment into her body.
+177579	-		この一瞬一瞬を体に刻みつけるように。	As if trying to imprint every moment into her body.
 
-177580	Rance	「ふん、わけの分からん奴め。	「Hmph, what a confusing girl.
-177581	+	　だがそれくらいしがみついてる方が楽だ、そうしてろ」	　But it's easier when you cling this tightly, so keep doing that.」
+177580	Rance		「ふん、わけの分からん奴め。	「Hmph, what a confusing girl.
+177581	+		　だがそれくらいしがみついてる方が楽だ、そうしてろ」	　But it's easier when you cling this tightly, so keep doing that.」
 
-177582	Sill Plain	「は、はいっ……」	「Y-yes...」
+177582	Sill Plain		「は、はいっ……」	「Y-yes...」
 
-177583	Rance	「とーうとーう、とーーーう！	「Toooraa, toooraa, toooraaa!
-177584	+	　がははは、気持ちいいぞー！」	　Gahahaha, it feels so good!」
+177583	Rance		「とーうとーう、とーーーう！	「Toooraa, toooraa, toooraaa!
+177584	+		　がははは、気持ちいいぞー！」	　Gahahaha, it feels so good!」
 
-177585	-	ランスは更に腰の速度を上げ、シィルの膣内をペニスで擦り上げた。	Rance increased the speed of his hips, relentlessly pounding and rubbing Sill's tight wet pussy.
+177585	-		ランスは更に腰の速度を上げ、シィルの膣内をペニスで擦り上げた。	Rance increased the speed of his hips, relentlessly pounding and rubbing Sill's tight wet pussy.
 
-177586	Sill Plain	「んっ、ひうっ、ん、んんんん……！	「N, hiu, n, nnn...!」
-177587	+	　あっ、あっ、ら、ランス様、速い、ですぅ……！」	　Ah, ah, R-Rance-sama, so fast...!」
+177586	Sill Plain		「んっ、ひうっ、ん、んんんん……！	「N, hiu, n, nnn...!」
+177587	+		　あっ、あっ、ら、ランス様、速い、ですぅ……！」	　Ah, ah, R-Rance-sama, so fast...!」
 
-177588	-	シィルの膣内はきゅうきゅうとランスのを締め付け、	Sill's pussy squeezed Rance's cock tightly,
-177589	+	前後に動かすとそれだけでペニスが強くしごかれた。	milking him with every thrust.
+177588	-		シィルの膣内はきゅうきゅうとランスのを締め付け、	Sill's pussy squeezed Rance's cock tightly,
+177589	+		前後に動かすとそれだけでペニスが強くしごかれた。	milking him with every thrust.
 
-177590	-	二人の体は絶頂こそ上りつめないが、	Though they hadn't climaxed yet,
-177591	+	その分、性感だけが制限なく高まっていく。	their arousal kept rising without limit.
+177590	-		二人の体は絶頂こそ上りつめないが、	Though they hadn't climaxed yet,
+177591	+		その分、性感だけが制限なく高まっていく。	their arousal kept rising without limit.
 
-177592	-	性器に至っては触れただけで火傷しそうなほどに熱く火照り、	Their genitals burned so hot they felt like they would scorch each other,
-177593	+	お互いに繋がっているだけで溶けてしまいそうだった。	as if they would melt together from the mere connection.
+177592	-		性器に至っては触れただけで火傷しそうなほどに熱く火照り、	Their genitals burned so hot they felt like they would scorch each other,
+177593	+		お互いに繋がっているだけで溶けてしまいそうだった。	as if they would melt together from the mere connection.
 
-177594	Sill Plain	「あ、はぁ、はあ……あん、ん、はあ……	「Ah, haa, haa... ahn, n, haa...
-177595	+	　す、すみませ、わたし……もう、限界、あんっ……」	　S-sorry, I... I'm already at my limit, ahn...」
+177594	Sill Plain		「あ、はぁ、はあ……あん、ん、はあ……	「Ah, haa, haa... ahn, n, haa...
+177595	+		　す、すみませ、わたし……もう、限界、あんっ……」	　S-sorry, I... I'm already at my limit, ahn...」
 
-177596	-	シィルの熱い吐息がランスの耳にかかる。	Sill's hot breath tickled Rance's ear.
+177596	-		シィルの熱い吐息がランスの耳にかかる。	Sill's hot breath tickled Rance's ear.
 
-177597	Rance	「うおおおおおおお！」	「Uooooooooh!」
+177597	Rance		「うおおおおおおお！」	「Uooooooooh!」
 
-177598	Sill Plain	「ああああああっ！？　ら、ランス様ぁ！」	「Aaaaaahhh!? R-Rance-sama!」
+177598	Sill Plain		「ああああああっ！？　ら、ランス様ぁ！」	「Aaaaaahhh!? R-Rance-sama!」
 
-177599	-	不意を突くようにランスが速度を上げる。	Rance suddenly increased his pace.
+177599	-		不意を突くようにランスが速度を上げる。	Rance suddenly increased his pace.
 
-177600	-	射精に至ろうとするような速く短い小刻みな動きで、	With fast, short, forceful thrusts as if about to cum,
-177601	+	膣内を突き上げられて、シィルが甘く鳴く。	he pounded deep into her pussy, making Sill moan sweetly.
+177600	-		射精に至ろうとするような速く短い小刻みな動きで、	With fast, short, forceful thrusts as if about to cum,
+177601	+		膣内を突き上げられて、シィルが甘く鳴く。	he pounded deep into her pussy, making Sill moan sweetly.
 
-177602	Rance~	（うおおお、すごい気持ちいいぞ！	（Uoooooh, this feels insanely good!
-177603	+	　俺様のちんこが溶けてしまいそうだ！）	　My cock feels like it's going to melt!）
+177602	Rance~		（うおおお、すごい気持ちいいぞ！	（Uoooooh, this feels insanely good!
+177603	+		　俺様のちんこが溶けてしまいそうだ！）	　My cock feels like it's going to melt!）
 
-177604	-	どろどろの愛液を染み出させる膣内は非常に柔らかく、	Her pussy, overflowing with thick love juices, was incredibly soft,
-177605	+	入れているだけで射精しそうなほど気持ち良い。	feeling so good he could cum just from being inside.
+177604	-		どろどろの愛液を染み出させる膣内は非常に柔らかく、	Her pussy, overflowing with thick love juices, was incredibly soft,
+177605	+		入れているだけで射精しそうなほど気持ち良い。	feeling so good he could cum just from being inside.
 
-177606	-	だと、言うのに――	And yet――
+177606	-		だと、言うのに――	And yet――
 
-177607	-	絶頂にまでは互いに至らない。	Neither had reached climax yet.
+177607	-		絶頂にまでは互いに至らない。	Neither had reached climax yet.
 
-177608	Rance	「はあっ、はあっ……少し、疲れた……休憩だ……」	「Haa, haa... I'm a bit tired... break time...」
+177608	Rance		「はあっ、はあっ……少し、疲れた……休憩だ……」	「Haa, haa... I'm a bit tired... break time...」
 
-177609	-	ランスが体の力を抜いて、シィルに少し体重をかける。	Rance relaxed his body and leaned some weight onto Sill.
+177609	-		ランスが体の力を抜いて、シィルに少し体重をかける。	Rance relaxed his body and leaned some weight onto Sill.
 
-177610	Rance	「さ、さすがにおかしいな……	「This is weird...
-177611	+	　普段ならもう三回は出してる筈なんだが……」	　Normally I'd have cum three times by now...」
+177610	Rance		「さ、さすがにおかしいな……	「This is weird...
+177611	+		　普段ならもう三回は出してる筈なんだが……」	　Normally I'd have cum three times by now...」
 
-177612	Rance~	（チンコだけは気持ちいいのに……なんか……	（My cock feels amazing but... somehow...
-177613	+	　ちっともイケる気がしない、こんなの初めてだ……）	　I don't feel like I'm going to cum at all. This is a first...）
+177612	Rance~		（チンコだけは気持ちいいのに……なんか……	（My cock feels amazing but... somehow...
+177613	+		　ちっともイケる気がしない、こんなの初めてだ……）	　I don't feel like I'm going to cum at all. This is a first...）
 
-177614	Rance~	（くそ……もしかしたら、これが……）	（Damn... maybe this is...）
+177614	Rance~		（くそ……もしかしたら、これが……）	（Damn... maybe this is...）
 
-177615	Sill Plain	「ら、ランス様……？」	「R-Rance-sama...?」
+177615	Sill Plain		「ら、ランス様……？」	「R-Rance-sama...?」
 
-177616	-	　　＜ぎゅっ……＞	　　＜Squeeze...＞
+177616	-		　　＜ぎゅっ……＞	　　＜Squeeze...＞
 
-177617	Sill Plain	「ひゃっ、ど、どうしました……？」	「Hya, w-what's wrong...?」
+177617	Sill Plain		「ひゃっ、ど、どうしました……？」	「Hya, w-what's wrong...?」
 
-177618	-	ランスが強くシィルの肩を抱く。	Rance hugged Sill's shoulders tightly.
+177618	-		ランスが強くシィルの肩を抱く。	Rance hugged Sill's shoulders tightly.
 
-177619	Rance	「やっぱりお前の体は気持ちいいな……」	「Your body really does feel good...」
+177619	Rance		「やっぱりお前の体は気持ちいいな……」	「Your body really does feel good...」
 
-177620	Sill Plain	「えっ……」	「Eh...」
+177620	Sill Plain		「えっ……」	「Eh...」
 
-177621	Rance	「沢山の女を抱いてきたがお前の体は不思議と飽きない。	「I've fucked many women but your body never gets old.
-177622	+	　何度も何度も抱いたが、悪くない」	　No matter how many times, it's always good.」
+177621	Rance		「沢山の女を抱いてきたがお前の体は不思議と飽きない。	「I've fucked many women but your body never gets old.
+177622	+		　何度も何度も抱いたが、悪くない」	　No matter how many times, it's always good.」
 
-177623	Rance	「だから……」	「So...
+177623	Rance		「だから……」	「So...
 
-177624	Rance	「明日も明後日も抱くからな」	「I'll fuck you tomorrow and the day after too.」
+177624	Rance		「明日も明後日も抱くからな」	「I'll fuck you tomorrow and the day after too.」
 
-177625	Sill Plain	「……ランス様」	「...Rance-sama.」
+177625	Sill Plain		「……ランス様」	「...Rance-sama.」
 
-177626	Rance	「絶対に死ぬんじゃないぞ。	「Don't you dare die.
-177627	+	　お前には仕事が沢山あるんだからな」	　You have so much work to do for me.」
+177626	Rance		「絶対に死ぬんじゃないぞ。	「Don't you dare die.
+177627	+		　お前には仕事が沢山あるんだからな」	　You have so much work to do for me.」
 
-177628	Sill Plain	「そ、それって……」	「T-that means...」
+177628	Sill Plain		「そ、それって……」	「T-that means...」
 
-177629	-	ランスの言葉に、シィルの胸が甘く締め付けられる。	Rance's words made Sill's heart tighten sweetly.
+177629	-		ランスの言葉に、シィルの胸が甘く締め付けられる。	Rance's words made Sill's heart tighten sweetly.
 
-177630	-	嫌な感じは一切しない。	It didn't feel bad at all.
-177631	+	むしろ、氷が溶けるようにゆるゆると肩から力が抜けた。	Instead, the tension melted away like ice, draining from her shoulders.
+177630	-		嫌な感じは一切しない。	It didn't feel bad at all.
+177631	+		むしろ、氷が溶けるようにゆるゆると肩から力が抜けた。	Instead, the tension melted away like ice, draining from her shoulders.
 
-177632	Sill Plain	「私……ず、ずっと、おそばにいて、いいんですか？」	「Can I... s-stay by your side... forever?」
+177632	Sill Plain		「私……ず、ずっと、おそばにいて、いいんですか？」	「Can I... s-stay by your side... forever?」
 
-177633	Rance	「…………」	「............」
+177633	Rance		「…………」	「............」
 
-177634	-	一瞬だけの無言の後、ランスは言う。	After a brief silence, Rance spoke.
+177634	-		一瞬だけの無言の後、ランスは言う。	After a brief silence, Rance spoke.
 
-177635	Rance	「……ふん、当然だ。	「...Hmph, of course.
-177636	+	　ずーっと、ずーっと、コキ使ってやるからな」	　I'll keep using you forever and ever.」
+177635	Rance		「……ふん、当然だ。	「...Hmph, of course.
+177636	+		　ずーっと、ずーっと、コキ使ってやるからな」	　I'll keep using you forever and ever.」
 
-177637	Sill Plain	「ああっ……」	「Aah...」
+177637	Sill Plain		「ああっ……」	「Aah...」
 
-177638	-	胸が、温かいもので満たされる。	Her chest filled with warmth.
+177638	-		胸が、温かいもので満たされる。	Her chest filled with warmth.
 
-177639	Sill Plain	「ラン、ス、様ぁ……」	「Rance... sama...」
+177639	Sill Plain		「ラン、ス、様ぁ……」	「Rance... sama...」
 
-177640	Rance	「……シィル？」	「...Sill?」
+177640	Rance		「……シィル？」	「...Sill?」
 
-177641	-	ぎゅうううう、と全身を密着させるように、	Sill pressed her entire body tightly against him,
-177642	+	強く強くシィルがランスに抱きついてきた。	clinging to Rance with all her strength.
+177641	-		ぎゅうううう、と全身を密着させるように、	Sill pressed her entire body tightly against him,
+177642	+		強く強くシィルがランスに抱きついてきた。	clinging to Rance with all her strength.
 
-177643	-	じっとりと汗にまみれた二人の体がぬるりと擦れ合い、	Their sweat-slicked bodies slid smoothly against each other,
-177644	+	互いの体温が今までよりも強く感じられた。	their body heat feeling stronger than ever.
+177643	-		じっとりと汗にまみれた二人の体がぬるりと擦れ合い、	Their sweat-slicked bodies slid smoothly against each other,
+177644	+		互いの体温が今までよりも強く感じられた。	their body heat feeling stronger than ever.
 
-177645	-	それだけで、今まで強ばっていた体から力が抜けるようだった。	Just that was enough to melt the tension from their bodies.
+177645	-		それだけで、今まで強ばっていた体から力が抜けるようだった。	Just that was enough to melt the tension from their bodies.
 
-177646	Sill Plain	「ランス様、ランス様、ランス様……」	「Rance-sama, Rance-sama, Rance-sama...」
+177646	Sill Plain		「ランス様、ランス様、ランス様……」	「Rance-sama, Rance-sama, Rance-sama...」
 
-177647	Sill Plain~	（大好き、大好きです……ずっと、ずっと大好きです……	（I love you, I love you so much... I've always, always loved you...」
-177648	+	　ランス様、ランス様……大好きです……）	　Rance-sama, Rance-sama... I love you...）
+177647	Sill Plain~		（大好き、大好きです……ずっと、ずっと大好きです……	（I love you, I love you so much... I've always, always loved you...」
+177648	+		　ランス様、ランス様……大好きです……）	　Rance-sama, Rance-sama... I love you...）
 
-177649	-	決して言葉に出してはいけないそのことを、	Words she could never say aloud,
-177650	+	代わりに体で示すようにシィルの力は強くなる。	she expressed instead through the strength of her embrace.
+177649	-		決して言葉に出してはいけないそのことを、	Words she could never say aloud,
+177650	+		代わりに体で示すようにシィルの力は強くなる。	she expressed instead through the strength of her embrace.
 
-177651	Sill Plain	「私、ずっと……ランス様の為に働きます……	「I'll work for you forever, Rance-sama...
-177652	+	　家事も、魔法も、回復も……え、エッチもします……」	　Housework, magic, healing... and s-sex too...」
+177651	Sill Plain		「私、ずっと……ランス様の為に働きます……	「I'll work for you forever, Rance-sama...
+177652	+		　家事も、魔法も、回復も……え、エッチもします……」	　Housework, magic, healing... and s-sex too...」
 
-177653	Sill Plain	「だから……だから……」	「So... so...
+177653	Sill Plain		「だから……だから……」	「So... so...
 
-177654	Sill Plain	「ずっとおそばに置いて下さい……」	　please keep me by your side forever...」
+177654	Sill Plain		「ずっとおそばに置いて下さい……」	　please keep me by your side forever...」
 
-177655	Rance	「…………」	「............」
+177655	Rance		「…………」	「............」
 
-177656	Rance	「シィル……」	「Sill...」
+177656	Rance		「シィル……」	「Sill...」
 
-177657	-	　　＜――ドクンッ＞	　　＜――Thump!＞
+177657	-		　　＜――ドクンッ＞	　　＜――Thump!＞
 
-177658	Rance	「お、おおっ！？」	「O-oooh!?」
+177658	Rance		「お、おおっ！？」	「O-oooh!?」
 
-177659	-	　　＜――ドクンッ！　――ドクンッ！＞	　　＜――Thump! Thump!＞
+177659	-		　　＜――ドクンッ！　――ドクンッ！＞	　　＜――Thump! Thump!＞
 
-177660	-	ランスのペニスが、まるで心臓のように大きく弾む。	Rance's cock throbbed powerfully like a heartbeat.
-177661	+	ぶわっと一気に血流が流れ込み、腰ごと揺らした。	Blood surged in, making his hips buck.
+177660	-		ランスのペニスが、まるで心臓のように大きく弾む。	Rance's cock throbbed powerfully like a heartbeat.
+177661	+		ぶわっと一気に血流が流れ込み、腰ごと揺らした。	Blood surged in, making his hips buck.
 
-177662	Sill Plain	「ランス、様……？」	「Rance... sama...?」
+177662	Sill Plain		「ランス、様……？」	「Rance... sama...?」
 
-177663	Rance	「来た！　来た来た来た来たーーーっ！」	「It's here! It's coming, coming, coming!!!」
+177663	Rance		「来た！　来た来た来た来たーーーっ！」	「It's here! It's coming, coming, coming!!!」
 
-177664	-	　　＜むずむずむずむずむずむず！＞	　　＜Itchy itchy itchy itchy!＞
+177664	-		　　＜むずむずむずむずむずむず！＞	　　＜Itchy itchy itchy itchy!＞
 
-177665	-	ペニスが強い痒みを発する。	His cock throbbed with intense itching.
-177666	+	それは毎日のように感じている、射精の前兆だった。	It was the familiar prelude to ejaculation.
+177665	-		ペニスが強い痒みを発する。	His cock throbbed with intense itching.
+177666	+		それは毎日のように感じている、射精の前兆だった。	It was the familiar prelude to ejaculation.
 
-177667	Rance	「シィル！　一気に行くぞ！」	「Sill! I'm going all out!」
+177667	Rance		「シィル！　一気に行くぞ！」	「Sill! I'm going all out!」
 
-177668	Rance	「うおおおおおおおおおおっ！」	「Uoooooooooooooh!」
+177668	Rance		「うおおおおおおおおおおっ！」	「Uoooooooooooooh!」
 
-177669	Sill Plain	「ひ、やあっ！？　ああっ、あ、あっ！？	「Hi, yaaah!? Aah, a, ah!?」
-177670	+	　ら、ランス、様！？　あ、あ、あ、は、激しい、やああ！？」	　R-Rance-sama!? A, a, a, hah, so rough, yaaaaah!?」
+177669	Sill Plain		「ひ、やあっ！？　ああっ、あ、あっ！？	「Hi, yaaah!? Aah, a, ah!?」
+177670	+		　ら、ランス、様！？　あ、あ、あ、は、激しい、やああ！？」	　R-Rance-sama!? A, a, a, hah, so rough, yaaaaah!?」
 
-177671	-	乱暴に、荒々しく、がむしゃらに――	Roughly, wildly, frantically――
-177672	+	ランスが腰を思い切り動かし、叩きつけるように抽送する。	Rance slammed his hips powerfully, pounding her pussy with raw dominance.
+177671	-		乱暴に、荒々しく、がむしゃらに――	Roughly, wildly, frantically――
+177672	+		ランスが腰を思い切り動かし、叩きつけるように抽送する。	Rance slammed his hips powerfully, pounding her pussy with raw dominance.
 
-177673	Rance	「うおおおお、なーんか知らんがイキそうだぞー！	「Uoooooh, I don't know why but I'm about to cum!
-177674	+	　がはははははははははは！」	　Gahahahahahahahaha!」
+177673	Rance		「うおおおお、なーんか知らんがイキそうだぞー！	「Uoooooh, I don't know why but I'm about to cum!
+177674	+		　がはははははははははは！」	　Gahahahahahahahaha!」
 
-177675	Sill Plain	「あっ、あっ、あ、っ、ら、ランス様ぁ！？」	「Ah, ah, a, ah, R-Rance-sama!?」
+177675	Sill Plain		「あっ、あっ、あ、っ、ら、ランス様ぁ！？」	「Ah, ah, a, ah, R-Rance-sama!?」
 
-177676	-	ランスのすぐ耳元でシィルが甘い悲鳴を上げる。	Sill moaned sweetly right next to Rance's ear.
-177677	+	その声が、またランスの腰の速度を上げる。	That voice made Rance thrust even faster.
+177676	-		ランスのすぐ耳元でシィルが甘い悲鳴を上げる。	Sill moaned sweetly right next to Rance's ear.
+177677	+		その声が、またランスの腰の速度を上げる。	That voice made Rance thrust even faster.
 
-177678	-	ペニスのみならず股間全体が、カーッと強い熱に包まれていた。	Not just his cock but his entire groin burned with intense heat.
+177678	-		ペニスのみならず股間全体が、カーッと強い熱に包まれていた。	Not just his cock but his entire groin burned with intense heat.
 
-177679	-	その状態でシィルの膣内でペニスを擦り上げると、	Thrusting inside her scorching pussy in that state,
-177680	+	ペニスどころか下半身全体に甘い痺れが駆け抜けた。	sent sweet numbness through his entire lower body.
+177679	-		その状態でシィルの膣内でペニスを擦り上げると、	Thrusting inside her scorching pussy in that state,
+177680	+		ペニスどころか下半身全体に甘い痺れが駆け抜けた。	sent sweet numbness through his entire lower body.
 
-177681	-	最初から止める気はなかったが、抽送を止めようと思っても、	He never intended to stop, and even if he tried,
-177682	+	もうランスの意思では決して止められそうになかった。	his body refused to obey.
+177681	-		最初から止める気はなかったが、抽送を止めようと思っても、	He never intended to stop, and even if he tried,
+177682	+		もうランスの意思では決して止められそうになかった。	his body refused to obey.
 
-177683	Sill Plain	「あっ、ひ！　ら、ランス様、私、も、もう！」	「Ah, hi! R-Rance-sama, I, I'm already!」
+177683	Sill Plain		「あっ、ひ！　ら、ランス様、私、も、もう！」	「Ah, hi! R-Rance-sama, I, I'm already!」
 
-177684	-	シィルの下腹部がキュッと甘く締め付けられる。	Sill's lower belly tightened sweetly.
-177685	+	それは絶頂の前兆だった。	The sign of her impending orgasm.
+177684	-		シィルの下腹部がキュッと甘く締め付けられる。	Sill's lower belly tightened sweetly.
+177685	+		それは絶頂の前兆だった。	The sign of her impending orgasm.
 
-177686	Rance	「くっ！　俺もだ！　イクぞ、シィル！」	「Kuh! Me too! I'm cumming, Sill!」
+177686	Rance		「くっ！　俺もだ！　イクぞ、シィル！」	「Kuh! Me too! I'm cumming, Sill!」
 
-177687	-	　　＜ドクンッ！　ドクンッ！　ドクンッ！＞	　　＜Thump! Thump! Thump!＞
+177687	-		　　＜ドクンッ！　ドクンッ！　ドクンッ！＞	　　＜Thump! Thump! Thump!＞
 
-177688	-	シィルの膣内で上下に大きく弾みながら、	Rance's cock throbbed violently inside Sill's pussy,
-177689	+	ペニスが大量の白濁の液体を一番奥へ向かって吐き出す。	shooting thick ropes of hot cum deep into her womb.
+177688	-		シィルの膣内で上下に大きく弾みながら、	Rance's cock throbbed violently inside Sill's pussy,
+177689	+		ペニスが大量の白濁の液体を一番奥へ向かって吐き出す。	shooting thick ropes of hot cum deep into her womb.
 
-177690	Sill Plain	「ああっ！　ああああっ！　ら、ランス様！？」	「Aah! Aaaaaah! R-Rance-sama!?」
+177690	Sill Plain		「ああっ！　ああああっ！　ら、ランス様！？」	「Aah! Aaaaaah! R-Rance-sama!?」
 
-177691	Rance	「ぐううう、出る出る！　出るぞー！」	「Guuuuh, it's coming out, coming out!」
+177691	Rance		「ぐううう、出る出る！　出るぞー！」	「Guuuuh, it's coming out, coming out!」
 
-177692	-	ランスと同様のタイミングでシィルも絶頂し、	At the same moment Sill climaxed hard,
-177693	+	二人はお互いの肌に爪が食い込みそうなほど強く抱き合う。	and the two clung to each other so tightly their nails dug into skin.
+177692	-		ランスと同様のタイミングでシィルも絶頂し、	At the same moment Sill climaxed hard,
+177693	+		二人はお互いの肌に爪が食い込みそうなほど強く抱き合う。	and the two clung to each other so tightly their nails dug into skin.
 
-177694	-	だが――	But――
+177694	-		だが――	But――
 
-177695	Rance	「あ、あれ！？」	「Ah, what!?」
+177695	Rance		「あ、あれ！？」	「Ah, what!?」
 
-177696	-	精液を吐き出している最中にも関わらず、	Even while still cumming,
-177697	+	ペニスは一切硬度を失わず、むしろ更なる快楽を欲していた。	his cock remained rock hard and craved even more pleasure.
+177696	-		精液を吐き出している最中にも関わらず、	Even while still cumming,
+177697	+		ペニスは一切硬度を失わず、むしろ更なる快楽を欲していた。	his cock remained rock hard and craved even more pleasure.
 
-177698	Rance	「し、シィル！　動くぞー！　うおおおお！」	「S-Sill! I'm moving! Uoooooh!」
+177698	Rance		「し、シィル！　動くぞー！　うおおおお！」	「S-Sill! I'm moving! Uoooooh!」
 
-177699	Sill Plain	「あひぃっ！？　ら、ランス、ひゃま！？	「Ahii!? R-Rance, hyama!?」
-177700	+	　あっ、あっ、あっ、あっ！」	　Ah, ah, ah, ah!」
+177699	Sill Plain		「あひぃっ！？　ら、ランス、ひゃま！？	「Ahii!? R-Rance, hyama!?」
+177700	+		　あっ、あっ、あっ、あっ！」	　Ah, ah, ah, ah!」
 
-177701	-	射精している最中でも構わずペニスをしごき立てる。	He kept fucking her hard even while cumming.
-177702	+	普通なら激しく痛みを訴えるとこだが、痛みはまったくない。	Normally this would hurt, but there was no pain at all.
+177701	-		射精している最中でも構わずペニスをしごき立てる。	He kept fucking her hard even while cumming.
+177702	+		普通なら激しく痛みを訴えるとこだが、痛みはまったくない。	Normally this would hurt, but there was no pain at all.
 
-177703	-	むしろ射精している最中のペニスを更に膣でしごくのは、	Instead, having his cock milked while cumming felt
-177704	+	ペニスどころか下半身全体がジンジンと痺れるような快楽だった。	incredibly pleasurable, numbing his entire lower body with ecstasy.
+177703	-		むしろ射精している最中のペニスを更に膣でしごくのは、	Instead, having his cock milked while cumming felt
+177704	+		ペニスどころか下半身全体がジンジンと痺れるような快楽だった。	incredibly pleasurable, numbing his entire lower body with ecstasy.
 
-177705	-	その気持ち良さはランスだけのものではなく、	That pleasure wasn't just for Rance,
-177706	+	シィルも同様であった。	Sill felt it too.
+177705	-		その気持ち良さはランスだけのものではなく、	That pleasure wasn't just for Rance,
+177706	+		シィルも同様であった。	Sill felt it too.
 
-177707	Sill Plain~	（あ、ああっ……どうして、こんなに気持ちいいの……！）	（A, aah... Why does it feel so good...!）
+177707	Sill Plain~		（あ、ああっ……どうして、こんなに気持ちいいの……！）	（A, aah... Why does it feel so good...!）
 
-177708	Sill Plain~	（や、だ、嫌ぁ……ら、ランス様、怖い……あ、あ、あ……！	（N-no, scary... R-Rance-sama, it's scary... a, a, a...!」
-177709	+	　ランス様、ランス様……私、怖いです、ランス様ぁ……！）	　Rance-sama, Rance-sama... I'm scared, Rance-sama...!）
+177708	Sill Plain~		（や、だ、嫌ぁ……ら、ランス様、怖い……あ、あ、あ……！	（N-no, scary... R-Rance-sama, it's scary... a, a, a...!」
+177709	+		　ランス様、ランス様……私、怖いです、ランス様ぁ……！）	　Rance-sama, Rance-sama... I'm scared, Rance-sama...!）
 
-177710	Rance	「シィル！」	「Sill!」
+177710	Rance		「シィル！」	「Sill!」
 
-177711	-	　　＜ぎゅううううう！＞	　　＜Squeeze!＞
+177711	-		　　＜ぎゅううううう！＞	　　＜Squeeze!＞
 
-177712	Sill Plain	「あっ……！」	「Ah...!」
+177712	Sill Plain		「あっ……！」	「Ah...!」
 
-177713	-	密着した肌からシィルの不安を感じ取ったのか否か、	Whether he sensed her anxiety through their pressed skin or not,
-177714	+	まるでその不安を取り除くようにランスが強く抱きしめた。	Rance hugged her even tighter as if to dispel it.
+177713	-		密着した肌からシィルの不安を感じ取ったのか否か、	Whether he sensed her anxiety through their pressed skin or not,
+177714	+		まるでその不安を取り除くようにランスが強く抱きしめた。	Rance hugged her even tighter as if to dispel it.
 
-177715	Sill Plain	「ひ、あっ……あ、あ、あ……！」	「Hi, ah... a, a, a...!」
+177715	Sill Plain		「ひ、あっ……あ、あ、あ……！」	「Hi, ah... a, a, a...!」
 
-177716	-	ランスと繋がっている結合部がカーッと熱くなり、	Their joined genitals burned hotter,
-177717	+	絶頂しているところから更に、甘く痺れる。	sending even sweeter numbness through her climaxing body.
+177716	-		ランスと繋がっている結合部がカーッと熱くなり、	Their joined genitals burned hotter,
+177717	+		絶頂しているところから更に、甘く痺れる。	sending even sweeter numbness through her climaxing body.
 
-177718	Sill Plain	「ふあああぁ゛ああぁ゛あああ……！」	「Fuaaaaaahhh...!」
+177718	Sill Plain		「ふあああぁ゛ああぁ゛あああ……！」	「Fuaaaaaahhh...!」
 
-177719	-	――また、同時に達した。	――They came together once more.
+177719	-		――また、同時に達した。	――They came together once more.
 
-177720	Sill Plain	「ああ、ひっ！　らん、す、さま……ああああっ……！」	「Aah, hi! Rance... sama... aaaaaah...!」
+177720	Sill Plain		「ああ、ひっ！　らん、す、さま……ああああっ……！」	「Aah, hi! Rance... sama... aaaaaah...!」
 
-177721	-	――視界がチカチカと明滅する。	――Her vision flickered.
+177721	-		――視界がチカチカと明滅する。	――Her vision flickered.
 
-177722	-	シィルの長い足がピンと突っ張り、体全体がびくびくと痙攣する。	Sill's long legs stiffened, her whole body convulsing.
+177722	-		シィルの長い足がピンと突っ張り、体全体がびくびくと痙攣する。	Sill's long legs stiffened, her whole body convulsing.
 
-177723	-	下腹部から広がった甘い衝撃が、波紋となって体全体に波及する。	Sweet shockwaves spread from her lower belly throughout her body.
-177724	+	ランスに抱かれながら達した多幸感で心がとろける。	Held in Rance's arms, her mind melted in overwhelming bliss.
+177723	-		下腹部から広がった甘い衝撃が、波紋となって体全体に波及する。	Sweet shockwaves spread from her lower belly throughout her body.
+177724	+		ランスに抱かれながら達した多幸感で心がとろける。	Held in Rance's arms, her mind melted in overwhelming bliss.
 
-177725	Sill Plain~	（あ、ふ……すごい……これ、気持ちい……！	（A, fu... amazing... it feels so good...!」
-177726	+	　頭の、中……どろぉってして……ああっ……！）	　My head... is turning to mush... aah...!）
+177725	Sill Plain~		（あ、ふ……すごい……これ、気持ちい……！	（A, fu... amazing... it feels so good...!」
+177726	+		　頭の、中……どろぉってして……ああっ……！）	　My head... is turning to mush... aah...!）
 
-177727	-	自然とシィルの腕の力は強くなり、もっともっととねだるように、	Naturally Sill's arms tightened, begging for more and more,
-177728	+	ランスにぎゅううとしがみついていた。	clinging desperately to Rance.
+177727	-		自然とシィルの腕の力は強くなり、もっともっととねだるように、	Naturally Sill's arms tightened, begging for more and more,
+177728	+		ランスにぎゅううとしがみついていた。	clinging desperately to Rance.
 
-177729	-	膣内もまた、精液を一滴でも多く搾り取ろうとするように、	Her pussy too squeezed rhythmically,
-177730	+	きゅっきゅっと断続的にランスのペニスを締め付けていた。	trying to milk every last drop of cum.
+177729	-		膣内もまた、精液を一滴でも多く搾り取ろうとするように、	Her pussy too squeezed rhythmically,
+177730	+		きゅっきゅっと断続的にランスのペニスを締め付けていた。	trying to milk every last drop of cum.
 
-177731	Rance	「はあ、はあ……はあ、はあ……」	「Haa, haa... haa, haa...」
+177731	Rance		「はあ、はあ……はあ、はあ……」	「Haa, haa... haa, haa...」
 
-177732	Rance	「はあああ……」	「Haaaa...」
+177732	Rance		「はあああ……」	「Haaaa...」
 
-177733	Rance	「シィル！　シィル！	「Sill! Sill!
-177734	+	　おおおおおおおおおおおおおお！」	　Ooooooooooooooh!」
+177733	Rance		「シィル！　シィル！	「Sill! Sill!
+177734	+		　おおおおおおおおおおおおおお！」	　Ooooooooooooooh!」
 
-177735	Sill Plain	「ふぇぇぇ……！？」	「Fueee...!?」
+177735	Sill Plain		「ふぇぇぇ……！？」	「Fueee...!?」
 
-177736	Sill Plain	「あ、やああっ！　ら、ランス、ひゃま！？	「A, yaaah! R-Rance, hyama!?」
-177737	+	　ま、まら、つづける、んれすか！？　んひうううう！」	　Y-you're still going!? N-huuuuu!」
+177736	Sill Plain		「あ、やああっ！　ら、ランス、ひゃま！？	「A, yaaah! R-Rance, hyama!?」
+177737	+		　ま、まら、つづける、んれすか！？　んひうううう！」	　Y-you're still going!? N-huuuuu!」
 
-177738	-	イッている状態のまま膣内を思い切り貫かれ、	While still cumming, her pussy was pierced hard,
-177739	+	シィルは絶頂から降りられなくなってしまった。	trapping Sill in continuous orgasm.
+177738	-		イッている状態のまま膣内を思い切り貫かれ、	While still cumming, her pussy was pierced hard,
+177739	+		シィルは絶頂から降りられなくなってしまった。	trapping Sill in continuous orgasm.
 
-177740	-	また、先程と同じように痛みはまったくない。	Again, there was no pain.
-177741	+	むしろイッたまま膣内を擦られるのは未経験の快感だった。	Instead, having her pussy rubbed while cumming was an entirely new pleasure.
+177740	-		また、先程と同じように痛みはまったくない。	Again, there was no pain.
+177741	+		むしろイッたまま膣内を擦られるのは未経験の快感だった。	Instead, having her pussy rubbed while cumming was an entirely new pleasure.
 
-177742	-	シィルの胸の内が、ランスへの愛しさで熱くなる。	Sill's heart burned hotter with love for Rance.
+177742	-		シィルの胸の内が、ランスへの愛しさで熱くなる。	Sill's heart burned hotter with love for Rance.
 
-177743	Sill Plain	「ああっ、ランス、ひゃま、ランスひゃま、ああっ！	「Aah, Rance, hyama, Rance hyama, aah!
-177744	+	　だいしゅき、だいすき、れす！　あっ、ひっ、んあっ！」	　I love you, I love you so much! Ah, hi, nahn!」
+177743	Sill Plain		「ああっ、ランス、ひゃま、ランスひゃま、ああっ！	「Aah, Rance, hyama, Rance hyama, aah!
+177744	+		　だいしゅき、だいすき、れす！　あっ、ひっ、んあっ！」	　I love you, I love you so much! Ah, hi, nahn!」
 
-177745	-	シィルは想いを行動で示すように、爪が食い込むほどに	To show her feelings through actions, Sill clung so hard her nails dug in,
-177746	+	強くしがみつき、両足はランスの腰に絡みつかせていた。	wrapping her legs tightly around his waist.
+177745	-		シィルは想いを行動で示すように、爪が食い込むほどに	To show her feelings through actions, Sill clung so hard her nails dug in,
+177746	+		強くしがみつき、両足はランスの腰に絡みつかせていた。	wrapping her legs tightly around his waist.
 
-177747	-	肌と肌と強く密着し、一つに溶け合うような感覚。	Skin against skin, melting together into one.
+177747	-		肌と肌と強く密着し、一つに溶け合うような感覚。	Skin against skin, melting together into one.
 
-177748	-	ランスの下腹部がギューッと熱くなる。	Rance's lower belly burned intensely.
-177749	+	もっともっと速くと体に命じられるまま勝手に動き出す。	His body moved on its own, faster and harder.
+177748	-		ランスの下腹部がギューッと熱くなる。	Rance's lower belly burned intensely.
+177749	+		もっともっと速くと体に命じられるまま勝手に動き出す。	His body moved on its own, faster and harder.
 
-177750	Rance	「うっ、が……！　うおおおおおお！　シィルーーッ！」	「Ugh, ga...! Uoooooooooh! Siiiill!」
+177750	Rance		「うっ、が……！　うおおおおおお！　シィルーーッ！」	「Ugh, ga...! Uoooooooooh! Siiiill!」
 
-177751	-	ランスもまた我慢が出来ない。	Rance could no longer hold back.
-177752	+	目の前の女に全ての精を吐き出すまでは止まらない。	He wouldn't stop until he poured every drop into the woman before him.
+177751	-		ランスもまた我慢が出来ない。	Rance could no longer hold back.
+177752	+		目の前の女に全ての精を吐き出すまでは止まらない。	He wouldn't stop until he poured every drop into the woman before him.
 
-177753	-	腰を動かすとペニスがジンジンと痺れて気持ちいい。	Moving his hips sent tingling pleasure through his cock.
-177754	+	この女の中に精液を全部吐き出してやりたい。	He wanted to fill this woman completely with his cum.
+177753	-		腰を動かすとペニスがジンジンと痺れて気持ちいい。	Moving his hips sent tingling pleasure through his cock.
+177754	+		この女の中に精液を全部吐き出してやりたい。	He wanted to fill this woman completely with his cum.
 
-177755	-	今、ランスの頭の中にあるのはそれだけ。	That was all that filled his mind now.
-177756	+	最早、獣のようだった。	He had become like a wild beast.
+177755	-		今、ランスの頭の中にあるのはそれだけ。	That was all that filled his mind now.
+177756	+		最早、獣のようだった。	He had become like a wild beast.
 
-177757	Sill Plain	「ひあああああっ！　ああっ、ああっ！	「Hiaaaaaaah! Aah, aah!
-177758	+	　らん、す、さまぁ！　んやあっ！　やあああ！」	　Rance, sama! Nyaah! Yaaaaaah!」
+177757	Sill Plain		「ひあああああっ！　ああっ、ああっ！	「Hiaaaaaaah! Aah, aah!
+177758	+		　らん、す、さまぁ！　んやあっ！　やあああ！」	　Rance, sama! Nyaah! Yaaaaaah!」
 
-177759	-	一度、膣内を突く度に、シィルが絶頂したかのような	Every deep thrust made Sill cry out as if cumming again,
-177760	+	甘えるような声色の悲鳴を上げた。	her voice sweet and needy.
+177759	-		一度、膣内を突く度に、シィルが絶頂したかのような	Every deep thrust made Sill cry out as if cumming again,
+177760	+		甘えるような声色の悲鳴を上げた。	her voice sweet and needy.
 
-177761	-	それがまた、ランスの興奮を煽り、抽送の激しさを増していく。	That in turn fueled Rance's lust, making his thrusts even more violent.
+177761	-		それがまた、ランスの興奮を煽り、抽送の激しさを増していく。	That in turn fueled Rance's lust, making his thrusts even more violent.
 
-177762	Rance~	（一体どうなってんだ……き、気持ち良すぎる……	（What the hell is happening... it feels too good...
-177763	+	　一週間は溜めていたようにいくらでも出来るぞ……）	　I feel like I can keep going as if I saved up for a week...）
+177762	Rance~		（一体どうなってんだ……き、気持ち良すぎる……	（What the hell is happening... it feels too good...
+177763	+		　一週間は溜めていたようにいくらでも出来るぞ……）	　I feel like I can keep going as if I saved up for a week...）
 
-177764	Rance~	（ええい、そんなの……どうでもいい！	（Whatever, who cares!
-177765	+	　今は、とにかく、シィルを何度でも抱いてやる！）	　Right now I just want to fuck Sill over and over!）
+177764	Rance~		（ええい、そんなの……どうでもいい！	（Whatever, who cares!
+177765	+		　今は、とにかく、シィルを何度でも抱いてやる！）	　Right now I just want to fuck Sill over and over!）
 
-177766	Rance	「この！　この！　どうだ、シィル！　気持ちいいか！？」	「Take this! And this! How's that, Sill? Feels good!?」
+177766	Rance		「この！　この！　どうだ、シィル！　気持ちいいか！？」	「Take this! And this! How's that, Sill? Feels good!?」
 
-177767	-	ぐっちゅぐっちゅと結合部が激しい水音を立てていた。	Their joining made loud wet squelching sounds.
+177767	-		ぐっちゅぐっちゅと結合部が激しい水音を立てていた。	Their joining made loud wet squelching sounds.
 
-177768	Sill Plain	「あ、ひうううっ！　んっ、んっ、はいぃ！	「A, hiuuu! N, n, yes!
-177769	+	　あっ、ああああ、も、もう、壊れひょう、で、ああああっ！」	　Ah, aaaaaah, I'm going to break, aaaaaah!」
+177768	Sill Plain		「あ、ひうううっ！　んっ、んっ、はいぃ！	「A, hiuuu! N, n, yes!
+177769	+		　あっ、ああああ、も、もう、壊れひょう、で、ああああっ！」	　Ah, aaaaaah, I'm going to break, aaaaaah!」
 
-177770	Rance	「がは、がはははは！　俺も、だあ！　ああああ！	「Gaha, gahahahaha! Me too! Aaaaaah!
-177771	+	　もう、全部どうでもいい！　イクぞ、イクぞ、イクぞ！」	　I don't care about anything anymore! Cumming, cumming, cumming!」
+177770	Rance		「がは、がはははは！　俺も、だあ！　ああああ！	「Gaha, gahahahaha! Me too! Aaaaaah!
+177771	+		　もう、全部どうでもいい！　イクぞ、イクぞ、イクぞ！」	　I don't care about anything anymore! Cumming, cumming, cumming!」
 
-177772	-	自分がペニスで奥を突くとシィルが甘い声で応える。	Every deep thrust drew a sweet response from Sill.
-177773	+	そんないつも通りが何よりも興奮を煽り、ランスの動きが速くなる。	That familiar reaction excited him more than anything, speeding up his hips.
+177772	-		自分がペニスで奥を突くとシィルが甘い声で応える。	Every deep thrust drew a sweet response from Sill.
+177773	+		そんないつも通りが何よりも興奮を煽り、ランスの動きが速くなる。	That familiar reaction excited him more than anything, speeding up his hips.
 
-177774	Rance	「こっ、壊れる気で抱くぞ！	「I'm going to fuck you like I want to break you!
-177775	+	　だからと言って、壊れるんじゃあないぞぉ！」	　But don't actually break!」
+177774	Rance		「こっ、壊れる気で抱くぞ！	「I'm going to fuck you like I want to break you!
+177775	+		　だからと言って、壊れるんじゃあないぞぉ！」	　But don't actually break!」
 
-177776	Sill Plain	「は、ぃぃっ！	「Y-yess!
-177777	+	　き、きて、きて下さい！　あっ、ああっ！」	　C-come, please come! Ah, aah!」
+177776	Sill Plain		「は、ぃぃっ！	「Y-yess!
+177777	+		　き、きて、きて下さい！　あっ、ああっ！」	　C-come, please come! Ah, aah!」
 
-177778	-	何をしているのか、何を言っているのか分からなくなっていく。	She no longer knew what she was doing or saying.
+177778	-		何をしているのか、何を言っているのか分からなくなっていく。	She no longer knew what she was doing or saying.
 
-177779	-	互いに確かなのは、相手の体温、相手の声、相手の動き、	All they knew for certain was each other's body heat, voice, movements,
-177780	+	そしてセックスの気持ちよさだけだった。	and the overwhelming pleasure of their sex.
+177779	-		互いに確かなのは、相手の体温、相手の声、相手の動き、	All they knew for certain was each other's body heat, voice, movements,
+177780	+		そしてセックスの気持ちよさだけだった。	and the overwhelming pleasure of their sex.
 
-177781	Sill Plain	「んむぅっ！？	「Nmu!?」
-177782	+	　ら、らんひゅ、ひゃま！　ぷあっ！　んれるっ……！」	　R-Rance, hyama! Pua! Nreru...!」
+177781	Sill Plain		「んむぅっ！？	「Nmu!?」
+177782	+		　ら、らんひゅ、ひゃま！　ぷあっ！　んれるっ……！」	　R-Rance, hyama! Pua! Nreru...!」
 
-177783	-	突然ランスにキスされても驚いたのは一瞬だけ。	She was only surprised for a moment when Rance suddenly kissed her.
-177784	+	シィルはすぐにそれに応え、舌同士をれろれろと絡ませ合う。	Sill immediately responded, tangling her tongue with his lewdly.
+177783	-		突然ランスにキスされても驚いたのは一瞬だけ。	She was only surprised for a moment when Rance suddenly kissed her.
+177784	+		シィルはすぐにそれに応え、舌同士をれろれろと絡ませ合う。	Sill immediately responded, tangling her tongue with his lewdly.
 
-177785	-	ちゅばちゅばと大きな音を立てて、お互いが唇を吸い合う。	They sucked on each other's lips with loud wet sounds.
+177785	-		ちゅばちゅばと大きな音を立てて、お互いが唇を吸い合う。	They sucked on each other's lips with loud wet sounds.
 
-177786	Sill Plain~	（ランス様と、こ、こんなくっついて、何度も奥、突かれて……	（Pressed so tightly against Rance-sama, getting fucked so deep over and over...
-177787	+	　き、キスまでされて……ああっ、おかしくなりそう……！）	　even kissed... aah, I'm going crazy...!）
+177786	Sill Plain~		（ランス様と、こ、こんなくっついて、何度も奥、突かれて……	（Pressed so tightly against Rance-sama, getting fucked so deep over and over...
+177787	+		　き、キスまでされて……ああっ、おかしくなりそう……！）	　even kissed... aah, I'm going crazy...!）
 
-177788	-	いくらでも求めたくなり、求められることが嬉しくて、	She wanted to be wanted endlessly, and being desired made her happy,
-177789	+	理性がどろどろに溶けて消えてなくなる。	melting her rationality into mush.
+177788	-		いくらでも求めたくなり、求められることが嬉しくて、	She wanted to be wanted endlessly, and being desired made her happy,
+177789	+		理性がどろどろに溶けて消えてなくなる。	melting her rationality into mush.
 
-177790	-	お互いに相手を求め、体も壊れそうな	Craving each other, their bodies moved like beasts
-177791	+	獣のような激しいセックスに夢中になる。	in fierce, body-breaking sex.
+177790	-		お互いに相手を求め、体も壊れそうな	Craving each other, their bodies moved like beasts
+177791	+		獣のような激しいセックスに夢中になる。	in fierce, body-breaking sex.
 
-177792	Rance	「くっ！　またイキそうだ！	「Kuh! I'm about to cum again!
-177793	+	　イクぞシィル！　イクぞイクぞ！　うお、うおおおおおお！」	　Cumming Sill! Cumming, cumming! Uo, uoooooooh!」
+177792	Rance		「くっ！　またイキそうだ！	「Kuh! I'm about to cum again!
+177793	+		　イクぞシィル！　イクぞイクぞ！　うお、うおおおおおお！」	　Cumming Sill! Cumming, cumming! Uo, uoooooooh!」
 
-177794	Sill Plain	「あひうううう！　ああっ！　ら、らんす、さまぁ！	「Ahiuuuu! Aah! R-Rance, sama!
-177795	+	　きて、くださ、んやああ！　やっ、あっ、ひああっ！」	　Come, please, nyaah! Yah, ah, hiaaah!」
+177794	Sill Plain		「あひうううう！　ああっ！　ら、らんす、さまぁ！	「Ahiuuuu! Aah! R-Rance, sama!
+177795	+		　きて、くださ、んやああ！　やっ、あっ、ひああっ！」	　Come, please, nyaah! Yah, ah, hiaaah!」
 
-177796	-	二人の体があまりに激しい突き入れの衝撃で、	Their bodies shook violently from the intense impacts,
-177797	+	前後にがくがくと揺れる。	rocking back and forth.
+177796	-		二人の体があまりに激しい突き入れの衝撃で、	Their bodies shook violently from the intense impacts,
+177797	+		前後にがくがくと揺れる。	rocking back and forth.
 
-177798	-	本当にシィルを壊そうとするかのような乱暴な抽送。	Rance fucked her so roughly it seemed he truly wanted to break her.
-177799	+	ペニスで膣内を貫かれる度に、シィルが背を仰け反らせる。	Every thrust made Sill arch her back.
+177798	-		本当にシィルを壊そうとするかのような乱暴な抽送。	Rance fucked her so roughly it seemed he truly wanted to break her.
+177799	+		ペニスで膣内を貫かれる度に、シィルが背を仰け反らせる。	Every thrust made Sill arch her back.
 
-177800	-	膣内の肉を掻き分けて、一番奥にズン！　とペニスが入り込む度、	His cock parted her inner flesh and slammed deep inside with heavy impacts,
-177801	+	二人とも絶頂したような快感が体中に迸っていた。	sending orgasmic pleasure surging through both of them.
+177800	-		膣内の肉を掻き分けて、一番奥にズン！　とペニスが入り込む度、	His cock parted her inner flesh and slammed deep inside with heavy impacts,
+177801	+		二人とも絶頂したような快感が体中に迸っていた。	sending orgasmic pleasure surging through both of them.
 
-177802	-	　　＜ぐっちゅ！　ぐぷっ！　ぐちゅっ！＞	　　＜Guchu! Gupu! Guchu!＞
+177802	-		　　＜ぐっちゅ！　ぐぷっ！　ぐちゅっ！＞	　　＜Guchu! Gupu! Guchu!＞
 
-177803	-	結合部の精液が泡立つほど速く、小刻みな動きで、	Fast, short movements made the cum at their joining froth,
-177804	+	ランスがシィルの膣内をかき回す。	as Rance stirred her pussy thoroughly.
+177803	-		結合部の精液が泡立つほど速く、小刻みな動きで、	Fast, short movements made the cum at their joining froth,
+177804	+		ランスがシィルの膣内をかき回す。	as Rance stirred her pussy thoroughly.
 
-177805	Sill Plain	「あ、ひうっ！　あっ、ああっ！　らん、す、さま！	「A, hiu! Ah, aah! Rance, sama!
-177806	+	　んあっ、らんすさま、らんすさま、らんすさま！」	　Nahn, Rance-sama, Rance-sama, Rance-sama!」
+177805	Sill Plain		「あ、ひうっ！　あっ、ああっ！　らん、す、さま！	「A, hiu! Ah, aah! Rance, sama!
+177806	+		　んあっ、らんすさま、らんすさま、らんすさま！」	　Nahn, Rance-sama, Rance-sama, Rance-sama!」
 
-177807	Rance	「くううっ！　シィル、シィル、シィル！」	「Kuuuh! Sill, Sill, Sill!」
+177807	Rance		「くううっ！　シィル、シィル、シィル！」	「Kuuuh! Sill, Sill, Sill!」
 
-177808	-	シィルの声に応えるように、お互いに何度も名を呼び合う。	They called each other's names over and over in response.
+177808	-		シィルの声に応えるように、お互いに何度も名を呼び合う。	They called each other's names over and over in response.
 
-177809	-	下腹部にむらっとした熱が迸り、ペニスがカーッと一気に熱くなる。	A wild heat surged in his lower belly, making his cock burn hotter.
+177809	-		下腹部にむらっとした熱が迸り、ペニスがカーッと一気に熱くなる。	A wild heat surged in his lower belly, making his cock burn hotter.
 
-177810	Rance	「くっ……！　イクぞ、シィル！」	「Kuh...! Cumming, Sill!」
+177810	Rance		「くっ……！　イクぞ、シィル！」	「Kuh...! Cumming, Sill!」
 
-177811	-	溜まりに溜まった快感が一気に弾ける。	All the built-up pleasure exploded at once.
+177811	-		溜まりに溜まった快感が一気に弾ける。	All the built-up pleasure exploded at once.
 
-177812	Sill Plain	「ひああぁ゛あ゛ああ゛ぁ゛ぁぁぁあ゛ぁああ！！」	「Hiaaaaaaaaahhhhh!!!」
+177812	Sill Plain		「ひああぁ゛あ゛ああ゛ぁ゛ぁぁぁあ゛ぁああ！！」	「Hiaaaaaaaaahhhhh!!!」
 
-177813	Rance	「うっ、くうううう！」	「Ugh, kuuuuh!」
+177813	Rance		「うっ、くうううう！」	「Ugh, kuuuuh!」
 
-177814	-	体の奥から全てが放出していくような激しい射精。	A violent ejaculation as if releasing everything from deep inside his body.
-177815	+	シィルの膣内の一番奥で何度も精液が迸るように吐き出される。	Thick cum erupted repeatedly into the deepest part of Sill's womb.
+177814	-		体の奥から全てが放出していくような激しい射精。	A violent ejaculation as if releasing everything from deep inside his body.
+177815	+		シィルの膣内の一番奥で何度も精液が迸るように吐き出される。	Thick cum erupted repeatedly into the deepest part of Sill's womb.
 
-177816	Sill Plain	「あっ！　ひうっ！　んあっ！　んやああっ！」	「Ah! Hiu! Nahn! Nyaaaaah!」
+177816	Sill Plain		「あっ！　ひうっ！　んあっ！　んやああっ！」	「Ah! Hiu! Nahn! Nyaaaaah!」
 
-177817	-	最早、中に入りきることも出来ず、大量の精液が	There was too much cum to fit inside,
-177818	+	結合部から溢れ出し、二人の下半身を濡らしていた。	overflowing from their joining and soaking their lower bodies.
+177817	-		最早、中に入りきることも出来ず、大量の精液が	There was too much cum to fit inside,
+177818	+		結合部から溢れ出し、二人の下半身を濡らしていた。	overflowing from their joining and soaking their lower bodies.
 
-177819	Rance	「くっ、うう……シィル……！」	「Kuh, uu... Sill...!」
+177819	Rance		「くっ、うう……シィル……！」	「Kuh, uu... Sill...!」
 
-177820	Sill Plain	「やあっ、あっ、ら、んす、さま……！　や、あっ……！」	「Yaaah, ah, R-Rance, sama...! Ya, ah...!」
+177820	Sill Plain		「やあっ、あっ、ら、んす、さま……！　や、あっ……！」	「Yaaah, ah, R-Rance, sama...! Ya, ah...!」
 
-177821	-	最後の一滴まで注ぐような長い射精。	A long ejaculation that poured out every last drop.
-177822	+	お互いにまんじりとも動かずに、ただただ絶頂にだけ集中する。	Neither moved, completely focused on their shared climax.
+177821	-		最後の一滴まで注ぐような長い射精。	A long ejaculation that poured out every last drop.
+177822	+		お互いにまんじりとも動かずに、ただただ絶頂にだけ集中する。	Neither moved, completely focused on their shared climax.
 
-177823	Rance	「…………」	「............」
+177823	Rance		「…………」	「............」
 
-177824	Rance	「はっ……！　はあ、はあ……はあ、はあ……！」	「Hah...! Haa, haa... haa, haa...!」
+177824	Rance		「はっ……！　はあ、はあ……はあ、はあ……！」	「Hah...! Haa, haa... haa, haa...!」
 
-177825	-	ようやく……	Finally...
-177826	+	一心地がつき、ランスが肩の力を抜いた。	he caught his breath and relaxed his shoulders.
+177825	-		ようやく……	Finally...
+177826	+		一心地がつき、ランスが肩の力を抜いた。	he caught his breath and relaxed his shoulders.
 
-177827	Rance	「り、理由は……分からんが、激しい、セックスだった……	「I don't know why... but that was some intense sex...
-177828	+	　さすがの俺様もなかなか疲れたぞ……」	　Even I am pretty tired...」
+177827	Rance		「り、理由は……分からんが、激しい、セックスだった……	「I don't know why... but that was some intense sex...
+177828	+		　さすがの俺様もなかなか疲れたぞ……」	　Even I am pretty tired...」
 
-177829	Sill Plain	「あ、ひ、あ、あ……」	「A, hi, a, a...」
+177829	Sill Plain		「あ、ひ、あ、あ……」	「A, hi, a, a...」
 
-177830	-	ランスの言葉が聞こえているのか、いないのか、	Whether she heard Rance's words or not,
-177831	+	シィルは甘い声を漏らしながら体をぴくぴくとさせるだけだった。	Sill could only twitch and moan sweetly.
+177830	-		ランスの言葉が聞こえているのか、いないのか、	Whether she heard Rance's words or not,
+177831	+		シィルは甘い声を漏らしながら体をぴくぴくとさせるだけだった。	Sill could only twitch and moan sweetly.
 
-177832	Rance	「まったく、情けない奴め」	「What a pathetic girl.」
+177832	Rance		「まったく、情けない奴め」	「What a pathetic girl.」
 
-177833	Sill Plain	「あ、え……？　お、おわった、れしゅか……？」	「A, eh...? I-is it over...?」
+177833	Sill Plain		「あ、え……？　お、おわった、れしゅか……？」	「A, eh...? I-is it over...?」
 
-177834	-	どうやら、かなり放心してしまっているらしい。	She seemed quite out of it.
-177835	+	今の状況すら分かっていないようだった。	She didn't even seem to understand the current situation.
+177834	-		どうやら、かなり放心してしまっているらしい。	She seemed quite out of it.
+177835	+		今の状況すら分かっていないようだった。	She didn't even seem to understand the current situation.
 
-177836	Sill Plain	「う、あ……あ……らんす、さま……」	「U, a... a... Rance... sama...」
+177836	Sill Plain		「う、あ……あ……らんす、さま……」	「U, a... a... Rance... sama...」
 
-177837	Rance	「うおっ……？」	「Uoh...?」
+177837	Rance		「うおっ……？」	「Uoh...?」
 
-177838	-	シィルがぎゅっとしがみついてきた。	Sill clung tightly to him.
+177838	-		シィルがぎゅっとしがみついてきた。	Sill clung tightly to him.
 
-177839	Sill Plain	「し……しばらく……このまま、でぇ……	「F... for a while... like this...
-177840	+	　らんすさ、ま……あ、ぅ……う……」	　Rance... sama... a, u... u...」
+177839	Sill Plain		「し……しばらく……このまま、でぇ……	「F... for a while... like this...
+177840	+		　らんすさ、ま……あ、ぅ……う……」	　Rance... sama... a, u... u...」
 
-177841	Rance	「…………」	「............」
+177841	Rance		「…………」	「............」
 
-177842	Rance	「ふん、しばらくもなにも、俺だって動けんわ」	「Hmph, I can't move either right now.」
+177842	Rance		「ふん、しばらくもなにも、俺だって動けんわ」	「Hmph, I can't move either right now.」
 
-177843	Sill Plain	「あっ……」	「Ah...」
+177843	Sill Plain		「あっ……」	「Ah...」
 
-177844	-	うっとりと、溶けるような声で、	In a melting, entranced voice,
-177845	+	シィルは喜びを表現した。	Sill expressed her joy.
+177844	-		うっとりと、溶けるような声で、	In a melting, entranced voice,
+177845	+		シィルは喜びを表現した。	Sill expressed her joy.
 
-177846	Rance	「…………」	「............」
+177846	Rance		「…………」	「............」
 
-177847	Rance	「ふんっ」	「Hmph.」
+177847	Rance		「ふんっ」	「Hmph.」
 
-177848	-	そうして、二人はしばらく、	And so the two remained,
-177849	+	行為の余韻を楽しむように、そのまま抱きつき合った。	clinging to each other, savoring the afterglow.
+177848	-		そうして、二人はしばらく、	And so the two remained,
+177849	+		行為の余韻を楽しむように、そのまま抱きつき合った。	clinging to each other, savoring the afterglow.
 
-177850	-	…………	............
+177850	-		…………	............
 
-177851	-	……	...
+177851	-		……	...
 
-177852	Rance	「ぷはーーーっ！　大満足ー！	「Puhaaa! Fully satisfied!
-177853	+	　がははははははははははは！」	　Gahahahahahahahaha!」
+177852	Rance	全裸／笑顔	「ぷはーーーっ！　大満足ー！	「Puhaaa! Fully satisfied!
+177853	+		　がははははははははははは！」	　Gahahahahahahahaha!」
 
-177854	Rance	「いやー、出した出した！	「Man, I came so much!
-177855	+	　三日分は出した気がするぞ！」	　Feels like three days' worth!」
+177854	Rance		「いやー、出した出した！	「Man, I came so much!
+177855	+		　三日分は出した気がするぞ！」	　Feels like three days' worth!」
 
-177856	Rance	「なあ、シィル」	「Hey, Sill.」
+177856	Rance	全裸	「なあ、シィル」	「Hey, Sill.」
 
-177857	Sill Plain	「あ……ひぅ……うう……」	「A... hiu... uu...」
+177857	Sill Plain	全裸／恥	「あ……ひぅ……うう……」	「A... hiu... uu...」
 
-177858	-	シィルはすっかり腰が抜けていた。	Sill's legs had completely given out.
-177859	+	少し放心もしているようだった。	She seemed a bit spaced out.
+177858	-		シィルはすっかり腰が抜けていた。	Sill's legs had completely given out.
+177859	+		少し放心もしているようだった。	She seemed a bit spaced out.
 
-177860	Rance	「まったく情けない奴め」	「What a pathetic girl.」
+177860	Rance	基本	「まったく情けない奴め」	「What a pathetic girl.」
 
-177861	Sill Plain	「うう……だ、だって……	「Uu... b-but...
-177862	+	　三発だって言っていたのに……」	　you said only three shots...」
+177861	Sill Plain	全裸／泣き	「うう……だ、だって……	「Uu... b-but...
+177862	+		　三発だって言っていたのに……」	　you said only three shots...」
 
-177863	Rance	「三発は三発だろう！	「Three shots means three shots!
-177864	+	　がはははは！」	　Gahahahaha!」
+177863	Rance	全裸／笑顔	「三発は三発だろう！	「Three shots means three shots!
+177864	+		　がはははは！」	　Gahahahaha!」
 
-177865	Rance	「ん？　なんか声が聞こえるな」	「Hm? I hear voices.」
+177865	Rance	全裸／だる顔	「ん？　なんか声が聞こえるな」	「Hm? I hear voices.」
 
-177866	Satella	「おーい、ランス、シィル！	「Hey, Rance, Sill!
-177867	+	　こっちにいるのかー？」	　Are you over there?」
+177866	Satella	基本	「おーい、ランス、シィル！	「Hey, Rance, Sill!
+177867	+		　こっちにいるのかー？」	　Are you over there?」
 
-177868	Rance	「あ、サテラ」	「Ah, Satella.」
+177868	Rance		「あ、サテラ」	「Ah, Satella.」
 
-177869	Sill Plain	「えっ、きゃあああ！？」	「Eh, kyaaaa!?」
+177869	Sill Plain		「えっ、きゃあああ！？」	「Eh, kyaaaa!?」
 
-177870	Satella	「うわわわわわ！？	「Uwawawawa!?」
-177871	+	　ななな、お前ら何を！？」	　W-what are you two doing!?」
+177870	Satella	超テレ	「うわわわわわ！？	「Uwawawawa!?」
+177871	+		　ななな、お前ら何を！？」	　W-what are you two doing!?」
 
-177872	Satella	「て、テントにいないから人が探しに来たら、	「Y-you weren't in the tent so I came looking,
-177873	+	　お、お前ら……朝から、こんな！」	　and you two... doing this since morning!」
+177872	Satella	ツンデレ	「て、テントにいないから人が探しに来たら、	「Y-you weren't in the tent so I came looking,
+177873	+		　お、お前ら……朝から、こんな！」	　and you two... doing this since morning!」
 
-177874	Rance	「お、もうそんな時間だったか。	「Oh, is it that time already.
-177875	+	　それではそろそろ行くか。	　Guess we should get going.
-177876	+	　ああ、その前に風呂だな、風呂」	　Ah, but first a bath, a bath.」
+177874	Rance	基本	「お、もうそんな時間だったか。	「Oh, is it that time already.
+177875	+		　それではそろそろ行くか。	　Guess we should get going.
+177876	+		　ああ、その前に風呂だな、風呂」	　Ah, but first a bath, a bath.」
 
-177877	Satella	「こ、こ、こ……」	「T-t-t...」
+177877	Satella	ツンデレ	「こ、こ、こ……」	「T-t-t...」
 
-177878	Satella	「こんな大事な日に！	「On such an important day!
-177879	+	　何をしてるんだ、お前らはーーー！」	　What the hell are you doing!!!」
+177878	Satella		「こんな大事な日に！	「On such an important day!
+177879	+		　何をしてるんだ、お前らはーーー！」	　What the hell are you doing!!!」
 
-177880	Rance	「なんだ、混ざりたかったのか？	「What, did you want to join?
-177881	+	　そうならそうと言えば混ぜてやるのに」	　You should've said so and I would've let you.」
+177880	Rance	基本	「なんだ、混ざりたかったのか？	「What, did you want to join?
+177881	+		　そうならそうと言えば混ぜてやるのに」	　You should've said so and I would've let you.」
 
-177882	Satella	「ちっっっがーーーーう！」	「T-t-t-that's not it!」
+177882	Satella	ツンデレ	「ちっっっがーーーーう！」	「T-t-t-that's not it!」
 
-177883	Rance	「がははは！　それでは行くぞ、シィル！」	「Gahahaha! Let's go, Sill!」
+177883	Rance	全裸／笑顔	「がははは！　それでは行くぞ、シィル！」	「Gahahaha! Let's go, Sill!」
 
-177884	Satella	「あっ、こらー！	「Ah, hey!
-177885	+	　話はまだ終わってなーーーい！」	　I'm not done talking!!!」
+177884	Satella	基本	「あっ、こらー！	「Ah, hey!
+177885	+		　話はまだ終わってなーーーい！」	　I'm not done talking!!!」
 
-177886	Sill Plain	「クスン、ひどいですぅ、ランス様……」	「Sob, that's mean, Rance-sama...」
+177886	Sill Plain	全裸／恥	「クスン、ひどいですぅ、ランス様……」	「Sob, that's mean, Rance-sama...」

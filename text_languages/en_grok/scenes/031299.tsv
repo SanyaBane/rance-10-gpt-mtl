@@ -7,106 +7,106 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Kentou Kanami	かなみ	Female
 
-65196	Nagi su Ragarl	「ひゃー、出てきた出てきたー！	「Hyaa, it's coming out, it's coming out!
-65197	+	　ん、なんだこれ？　…………なんかの図？」	　Hm, what's this? ......Some kind of diagram?」
+65196	Nagi su Ragarl	基本	「ひゃー、出てきた出てきたー！	「Hyaa, it's coming out, it's coming out!
+65197	+		　ん、なんだこれ？　…………なんかの図？」	　Hm, what's this? ......Some kind of diagram?」
 
-65198	Maria Custard	「設計図ね。PI-2、って……	「It's a blueprint. PI-2, it says...
-65199	+	　ちょっと、何これ…………！！」	　Wait, what is this............!!
+65198	Maria Custard		「設計図ね。PI-2、って……	「It's a blueprint. PI-2, it says...
+65199	+		　ちょっと、何これ…………！！」	　Wait, what is this............!!
 
-65200	-	目で文字を追っていたマリアが、	Maria's eyes scanned the text,
-65201	+	次第に表情を変えていく。	and her expression gradually changed.
+65200	-		目で文字を追っていたマリアが、	Maria's eyes scanned the text,
+65201	+		次第に表情を変えていく。	and her expression gradually changed.
 
-65202	Maria Custard	「なんてことを……	「What the hell...
-65203	+	　いいえ、なんでこんなことが……！」	　No, how is this even possible...!」
+65202	Maria Custard	あかんわ	「なんてことを……	「What the hell...
+65203	+		　いいえ、なんでこんなことが……！」	　No, how is this even possible...!」
 
-65204	-	発　パイアール	From Pi-R
-65205	+	宛　第2工場長	To Second Factory Manager
+65204	-		発　パイアール	From Pi-R
+65205	+		宛　第2工場長	To Second Factory Manager
 
-65206	-	人間の科学者は面白い事を考える。	Human scientists think of interesting things.
-65207	+	発想の転換とはこのことだね。	This is what they mean by a change in perspective.
+65206	-		人間の科学者は面白い事を考える。	Human scientists think of interesting things.
+65207	+		発想の転換とはこのことだね。	This is what they mean by a change in perspective.
 
-65208	-	調べていく中で、また新しい兵器を知った。	While investigating, I learned of another new weapon.
-65209	+	砲弾を、とにかく遠くまで飛ばす兵器だ。	A weapon that launches shells as far as possible.
+65208	-		調べていく中で、また新しい兵器を知った。	While investigating, I learned of another new weapon.
+65209	+		砲弾を、とにかく遠くまで飛ばす兵器だ。	A weapon that launches shells as far as possible.
 
-65210	-	他の機能は一切なし。	No other functions at all.
-65211	+	装甲もなければ、自走さえしない。	No armor, not even self-propelled.
-65212	+	兵器というより、工業品レベルだ。	It's more like an industrial product than a weapon.
+65210	-		他の機能は一切なし。	No other functions at all.
+65211	+		装甲もなければ、自走さえしない。	No armor, not even self-propelled.
+65212	+		兵器というより、工業品レベルだ。	It's more like an industrial product than a weapon.
 
-65213	-	けど、目的を果たす事だけを考えるならそれでいい。	But if the only goal is to fulfill its purpose, that's fine.
-65214	+	攻撃されようもない距離から撃てばいいんだ。	Just fire from a distance where it can't be attacked.
+65213	-		けど、目的を果たす事だけを考えるならそれでいい。	But if the only goal is to fulfill its purpose, that's fine.
+65214	+		攻撃されようもない距離から撃てばいいんだ。	Just fire from a distance where it can't be attacked.
 
-65215	-	このコンセプトは使える。	This concept is usable.
-65216	+	さっさと戦争を終わらせるために、これを作ろう。	Let's make this to end the war quickly.
+65215	-		このコンセプトは使える。	This concept is usable.
+65216	+		さっさと戦争を終わらせるために、これを作ろう。	Let's make this to end the war quickly.
 
-65217	-	予定ではこうだ。	The plan is like this.
-65218	+	設置場所は魔物界の奥地、このポイント。	Installation site is deep in the Monster Realm, this point.
+65217	-		予定ではこうだ。	The plan is like this.
+65218	+		設置場所は魔物界の奥地、このポイント。	Installation site is deep in the Monster Realm, this point.
 
-65219	-	完成品の射程はおよそ1500になるから、	The completed product's range is about 1500,
-65220	+	ここからでも人間界のだいたいの場所は狙える。	so from here it can target most places in the human world.
+65219	-		完成品の射程はおよそ1500になるから、	The completed product's range is about 1500,
+65220	+		ここからでも人間界のだいたいの場所は狙える。	so from here it can target most places in the human world.
 
-65221	-	位置情報は、衛星兵器に取得させて、	Position data will be acquired by satellite weapons
-65222	+	それとリンクさせる。これならまず外さないだろう。	and linked. This should almost never miss.
+65221	-		位置情報は、衛星兵器に取得させて、	Position data will be acquired by satellite weapons
+65222	+		それとリンクさせる。これならまず外さないだろう。	and linked. This should almost never miss.
 
-65223	-	軍隊なんか狙わなくても、都市を更地にし続ければ勝ちだろう。	No need to target armies; just keep flattening cities and we win.
-65224	+	やっと研究に戻れる。	I can finally return to research.
+65223	-		軍隊なんか狙わなくても、都市を更地にし続ければ勝ちだろう。	No need to target armies; just keep flattening cities and we win.
+65224	+		やっと研究に戻れる。	I can finally return to research.
 
-65225	-	それなりに大きくなるから、いくつか部品が必要だ。	It will be quite large, so several parts are needed.
-65226	+	第2工場でも作ってくれ。図面は…………	Make them at the second factory too. The blueprints are............
+65225	-		それなりに大きくなるから、いくつか部品が必要だ。	It will be quite large, so several parts are needed.
+65226	+		第2工場でも作ってくれ。図面は…………	Make them at the second factory too. The blueprints are............
 
-65227	Maria Custard	「……………………」	「........................」
+65227	Maria Custard	基本	「……………………」	「........................」
 
-65228	Nagi su Ragarl	「マリア？」	「Maria?」
+65228	Nagi su Ragarl		「マリア？」	「Maria?」
 
-65229	Rance	「おい、今度はなんだ。	「Hey, now what is it.
-65230	+	　よく分からん図形しか出てないぞ」	　Only incomprehensible diagrams are showing up.」
+65229	Rance	だる顔	「おい、今度はなんだ。	「Hey, now what is it.
+65230	+		　よく分からん図形しか出てないぞ」	　Only incomprehensible diagrams are showing up.」
 
-65231	-	マリアは食い入るようにして図面を眺め、	Maria stared intently at the blueprints,
-65232	+	頭の中で計算を繰り返していた。	repeating calculations in her head.
+65231	-		マリアは食い入るようにして図面を眺め、	Maria stared intently at the blueprints,
+65232	+		頭の中で計算を繰り返していた。	repeating calculations in her head.
 
-65233	Maria Custard	「……マレスケよ。チューリップ2号」	「...It's Maresuke. Tulip No. 2.」
+65233	Maria Custard	怒り	「……マレスケよ。チューリップ2号」	「...It's Maresuke. Tulip No. 2.」
 
-65234	Rance	「あーー……あの固定砲台だったか。	「Ah... That fixed artillery platform.
-65235	+	　なんだ、あのガキまたパクッたのか」	　What, that brat stole it again?」
+65234	Rance	真剣	「あーー……あの固定砲台だったか。	「Ah... That fixed artillery platform.
+65235	+		　なんだ、あのガキまたパクッたのか」	　What, that brat stole it again?」
 
-65236	Maria Custard	「…………そう、なるのかな。	「............So that's how it is.
-65237	+	　有効射程1500キロ……	　Effective range 1500 kilometers...
-65238	+	　ほぼ大陸の端から端に届くらしいんだけど……」	　It can apparently reach almost from one end of the continent to the other...」
+65236	Maria Custard	基本	「…………そう、なるのかな。	「............So that's how it is.
+65237	+		　有効射程1500キロ……	　Effective range 1500 kilometers...
+65238	+		　ほぼ大陸の端から端に届くらしいんだけど……」	　It can apparently reach almost from one end of the continent to the other...」
 
-65239	Rance	「な、なんだと！？	「W-What!?
-65240	+	　ハッタリじゃないのか！」	　Isn't that just a bluff!」
+65239	Rance	怒り	「な、なんだと！？	「W-What!?
+65240	+		　ハッタリじゃないのか！」	　Isn't that just a bluff!」
 
-65241	Maria Custard	「あちこちでよく分からない方程式が使われて……	「Unknown equations are used all over...
-65242	+	　んん、これでそんな性能になるの……？」	　Hmm, can it really achieve that performance...?」
+65241	Maria Custard	あかんわ	「あちこちでよく分からない方程式が使われて……	「Unknown equations are used all over...
+65242	+		　んん、これでそんな性能になるの……？」	　Hmm, can it really achieve that performance...?」
 
-65243	Maria Custard	「基礎理論は完全にコピーされてる……けど、	「The basic theory is completely copied... but
-65244	+	　どう低く見積もっても、マレスケより全然上……	　even at the lowest estimate, it's way above Maresuke...
-65245	+	　ううん、これたぶん、本当に…………！」	　No, this is probably really............!」
+65243	Maria Custard		「基礎理論は完全にコピーされてる……けど、	「The basic theory is completely copied... but
+65244	+		　どう低く見積もっても、マレスケより全然上……	　even at the lowest estimate, it's way above Maresuke...
+65245	+		　ううん、これたぶん、本当に…………！」	　No, this is probably really............!」
 
-65246	Copandon Dott	「1500キロ先からの砲撃て……	「Shelling from 1500 kilometers away...
-65247	+	　そんなんされたら対抗策ないで！」	　There's no countermeasure for that!」
+65246	Copandon Dott	驚き	「1500キロ先からの砲撃て……	「Shelling from 1500 kilometers away...
+65247	+		　そんなんされたら対抗策ないで！」	　There's no countermeasure for that!」
 
-65248	Maria Custard	「あ、あ、あああああ！　どうしよ！	「A-A-Aaaah! What do we do!
-65249	+	　こんなの、どうしようもないわよ！」	　This is impossible to deal with!」
+65248	Maria Custard	あかんわ	「あ、あ、あああああ！　どうしよ！	「A-A-Aaaah! What do we do!
+65249	+		　こんなの、どうしようもないわよ！」	　This is impossible to deal with!」
 
-65250	Rance	「発案者はお前だろ！　なんか弱点ないのか！」	「You're the one who came up with it! Doesn't it have any weaknesses!」
+65250	Rance	怒り	「発案者はお前だろ！　なんか弱点ないのか！」	「You're the one who came up with it! Doesn't it have any weaknesses!」
 
-65251	Maria Custard	「マレスケは拠点攻撃用としては最高だもの！	「Maresuke is the best for base attacks!
-65252	+	　命中精度もカバーされてるし……」	　Its accuracy is also covered...」
+65251	Maria Custard	あかんわ	「マレスケは拠点攻撃用としては最高だもの！	「Maresuke is the best for base attacks!
+65252	+		　命中精度もカバーされてるし……」	　Its accuracy is also covered...」
 
-65253	Sill Plain	「え、ええと、ゼスの時とかに使ったアレですよね。	「Um, it's the one we used during the Zeth incident, right.
-65254	+	　確か、あの時は、モンスターに襲われて……」	　I think back then it was attacked by monsters...
+65253	Sill Plain	泣き	「え、ええと、ゼスの時とかに使ったアレですよね。	「Um, it's the one we used during the Zeth incident, right.
+65254	+		　確か、あの時は、モンスターに襲われて……」	　I think back then it was attacked by monsters...
 
-65255	Alkanese Rize	「そうだよ！	「That's right!
-65256	+	　発射台に突っ込んで、ぶっ壊しちまえば……」	　If we charge the launch platform and destroy it...」
+65255	Alkanese Rize	基本	「そうだよ！	「That's right!
+65256	+		　発射台に突っ込んで、ぶっ壊しちまえば……」	　If we charge the launch platform and destroy it...」
 
-65257	Maria Custard	「だって設置場所、魔物界の奥地だって！	「But the installation site is deep in the Monster Realm!
-65258	+	　そんな所、行けないでしょ！」	　We can't go there!」
+65257	Maria Custard	泣き	「だって設置場所、魔物界の奥地だって！	「But the installation site is deep in the Monster Realm!
+65258	+		　そんな所、行けないでしょ！」	　We can't go there!」
 
-65259	Kentou Kanami	「そんな…………」	「That's......」
+65259	Kentou Kanami	基本	「そんな…………」	「That's......」
 
-65260	Maria Custard	「ううう、こ、ここまで射程伸ばせるなんて……	「Uuuu, to extend the range this far...
-65261	+	　ううん、砲身長と……でも、これ……	　No, the barrel length and... but this...
-65262	+	　ヒララ鉱石じゃ、こんなのどうやっても……」	　With Hirara ore, no matter what...」
+65260	Maria Custard	あかんわ	「ううう、こ、ここまで射程伸ばせるなんて……	「Uuuu, to extend the range this far...
+65261	+		　ううん、砲身長と……でも、これ……	　No, the barrel length and... but this...
+65262	+		　ヒララ鉱石じゃ、こんなのどうやっても……」	　With Hirara ore, no matter what...」
 
-65263	Rance	「ええい！　情報だ、情報を探すぞ！	「Damn it! Information, we need information!
-65264	+	　あのクソガキの弱点を見つけるのだ！」	　Find that shitty brat's weakness!」
+65263	Rance	怒り	「ええい！　情報だ、情報を探すぞ！	「Damn it! Information, we need information!
+65264	+		　あのクソガキの弱点を見つけるのだ！」	　Find that shitty brat's weakness!」

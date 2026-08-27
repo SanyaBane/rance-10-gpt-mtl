@@ -7,229 +7,229 @@
 * Masou Shizuka	志津香２	Female
 * El Mofus	エール２	Player's choice
 
-215944	-	リーザスの平原をあなた達はゆっくりと進む。	You slowly advanced across the Leazas plains.
+215944	-		リーザスの平原をあなた達はゆっくりと進む。	You slowly advanced across the Leazas plains.
 
-215945	Reset Kalar	「そろそろ近くの村に着くかなー？」	「We should reach a nearby village soon?」
+215945	Reset Kalar	基本	「そろそろ近くの村に着くかなー？」	「We should reach a nearby village soon?」
 
-215946	Reset Kalar	「今日は宿屋で眠れそうだね、	「Looks like we can sleep at an inn tonight,
-215947	+	　＜エール＞ちゃん」	　＜エール＞-chan.」
+215946	Reset Kalar		「今日は宿屋で眠れそうだね、	「Looks like we can sleep at an inn tonight,
+215947	+		　＜エール＞ちゃん」	　＜エール＞-chan.」
 
-215948	-	リセットがあなたに笑いかけてきた。	Reset smiled at you.
+215948	-		リセットがあなたに笑いかけてきた。	Reset smiled at you.
 
-215949	Reset Kalar	「……ッ！」	「...!」
+215949	Reset Kalar	驚き	「……ッ！」	「...!」
 
-215950	Reset Kalar	「＜エール＞ちゃん、危ない！」	「＜エール＞-chan, watch out!」
+215950	Reset Kalar	怒り	「＜エール＞ちゃん、危ない！」	「＜エール＞-chan, watch out!」
 
-215951	-	あなたは突然、リセットに突き飛ばされた。	You were suddenly pushed by Reset.
+215951	-		あなたは突然、リセットに突き飛ばされた。	You were suddenly pushed by Reset.
 
-215952	-	　	　
-215953	+	　　＜ドスッ！！！！＞	　　<Doss!!!!>
+215952	-		　	　
+215953	+		　　＜ドスッ！！！！＞	　　<Doss!!!!>
 
-215954	Nagata-kun	「うわっ、大丈夫か、＜エール＞！」	「Uwa, are you okay, ＜エール＞!」
+215954	Nagata-kun	基本	「うわっ、大丈夫か、＜エール＞！」	「Uwa, are you okay, ＜エール＞!」
 
-215955	-	あなたが今まで立っていた場所に、	Where you had been standing,
-215956	+	槍が突き刺さる。	a spear was now stabbed into the ground.
+215955	-		あなたが今まで立っていた場所に、	Where you had been standing,
+215956	+		槍が突き刺さる。	a spear was now stabbed into the ground.
 
-215957	-	もしも、リセットに突き飛ばされていなければ、	If Reset hadn't pushed you,
-215958	+	あなたは串刺しにされていただろう。	you would have been skewered.
+215957	-		もしも、リセットに突き飛ばされていなければ、	If Reset hadn't pushed you,
+215958	+		あなたは串刺しにされていただろう。	you would have been skewered.
 
-215959	General Tiger	「おや、運がいい……	「Oh, lucky...
-215960	+	　いや、悪運かな？」	　or maybe bad luck?」
+215959	General Tiger		「おや、運がいい……	「Oh, lucky...
+215960	+		　いや、悪運かな？」	　or maybe bad luck?」
 
-215961	-	槍には紐がくくりつけられており、	A rope was tied to the spear,
-215962	+	地面に突き刺さった槍が戻っていく。	and the spear stabbed in the ground was pulled back.
+215961	-		槍には紐がくくりつけられており、	A rope was tied to the spear,
+215962	+		地面に突き刺さった槍が戻っていく。	and the spear stabbed in the ground was pulled back.
 
-215963	-	小高い山の上にいる人物がそれを片手で受け取った。	A figure on a small hill caught it with one hand.
+215963	-		小高い山の上にいる人物がそれを片手で受け取った。	A figure on a small hill caught it with one hand.
 
-215964	General Tiger	「まあいっか。	「Well, whatever.
-215965	+	　これはただの挨拶代わりなんだからね」	　That was just a greeting anyway.」
+215964	General Tiger		「まあいっか。	「Well, whatever.
+215965	+		　これはただの挨拶代わりなんだからね」	　That was just a greeting anyway.」
 
-215966	-	それは、軍隊だった。	It was an army.
+215966	-		それは、軍隊だった。	It was an army.
 
-215967	-	整然と並んだ同じ格好の百名近くの兵士達、	Nearly a hundred soldiers in uniform formation,
-215968	+	そして、その先頭には軽装の男が立っていた。	and at the front stood a lightly armored man.
+215967	-		整然と並んだ同じ格好の百名近くの兵士達、	Nearly a hundred soldiers in uniform formation,
+215968	+		そして、その先頭には軽装の男が立っていた。	and at the front stood a lightly armored man.
 
-215969	General Tiger	「ごきげんよう。	「Good day.
-215970	+	　魔王の子とそれに与する皆さん」	　Children of the Demon King and his allies.」
+215969	General Tiger		「ごきげんよう。	「Good day.
+215970	+		　魔王の子とそれに与する皆さん」	　Children of the Demon King and his allies.」
 
-215971	-	先頭の男が更に一歩、前に進み出る。	The man at the front took another step forward.
+215971	-		先頭の男が更に一歩、前に進み出る。	The man at the front took another step forward.
 
-215972	General Tiger	「私の名前はタイガー。	「My name is Tiger.
-215973	+	　そして私達は東ヘルマンの特殊部隊、	　And we are the Eastern Helman special unit,
-215974	+	　その名も魔王討伐隊」	　known as the Demon King Extermination Squad.」
+215972	General Tiger		「私の名前はタイガー。	「My name is Tiger.
+215973	+		　そして私達は東ヘルマンの特殊部隊、	　And we are the Eastern Helman special unit,
+215974	+		　その名も魔王討伐隊」	　known as the Demon King Extermination Squad.」
 
-215975	Reset Kalar	「東ヘルマン……って……」	「Eastern Helman... you mean...」
+215975	Reset Kalar		「東ヘルマン……って……」	「Eastern Helman... you mean...」
 
-215976	Nagata-kun	「知ってるんすか、リセットさん！」	「You know them, Reset-san!」
+215976	Nagata-kun		「知ってるんすか、リセットさん！」	「You know them, Reset-san!」
 
-215977	Reset Kalar	「う、うん……	「Y, yeah...
-215978	+	　ヘルマンが分裂して出来た、	　A new country that split from Helman,
-215979	+	　新興の国、だけど……」	　but...」
+215977	Reset Kalar		「う、うん……	「Y, yeah...
+215978	+		　ヘルマンが分裂して出来た、	　A new country that split from Helman,
+215979	+		　新興の国、だけど……」	　but...」
 
-215980	Nagi su Ragarl	「ちなみに数年前に全人類国家に対して、	「By the way, a few years ago they declared war
-215981	+	　戦争を敢行した国でもあるよ」	　on all human nations.」
+215980	Nagi su Ragarl		「ちなみに数年前に全人類国家に対して、	「By the way, a few years ago they declared war
+215981	+		　戦争を敢行した国でもあるよ」	　on all human nations.」
 
-215982	Nagata-kun	「えっ、それって自分とこ以外の	「Eh, that means against every country
-215983	+	　全ての国にってことっすか！？」	　except themselves!?」
+215982	Nagata-kun		「えっ、それって自分とこ以外の	「Eh, that means against every country
+215983	+		　全ての国にってことっすか！？」	　except themselves!?」
 
-215984	Nagata-kun	「なんすか、その狂犬みたい国……」	「What kind of rabid dog country is that...」
+215984	Nagata-kun		「なんすか、その狂犬みたい国……」	「What kind of rabid dog country is that...」
 
-215985	Nagi su Ragarl	「新聞とか読まないの？」	「Don't you read the newspaper?」
+215985	Nagi su Ragarl		「新聞とか読まないの？」	「Don't you read the newspaper?」
 
-215986	Nagata-kun	「えへへ、どーせ俺には関係ないんで……」	「Ehehe, I figured it had nothing to do with me...
+215986	Nagata-kun		「えへへ、どーせ俺には関係ないんで……」	「Ehehe, I figured it had nothing to do with me...
 
-215987	Masou Shizuka	「なら今後は覚えておきなさい。	「Then remember it from now on.
-215988	+	　もう無関係じゃなくなるから」	　It's no longer unrelated.」
+215987	Masou Shizuka		「なら今後は覚えておきなさい。	「Then remember it from now on.
+215988	+		　もう無関係じゃなくなるから」	　It's no longer unrelated.」
 
-215989	Nagi su Ragarl	「あのね、その東ヘルマンの	「You see, Eastern Helman's
-215990	+	　掲げている理念というか目標がね――」	　stated ideal or goal is一一」
+215989	Nagi su Ragarl		「あのね、その東ヘルマンの	「You see, Eastern Helman's
+215990	+		　掲げている理念というか目標がね――」	　stated ideal or goal is一一」
 
-215991	-	ナギの言葉を、軍人の男が引き取った。	The soldier man took over Nagi's words.
+215991	-		ナギの言葉を、軍人の男が引き取った。	The soldier man took over Nagi's words.
 
-215992	General Tiger	「……人類の解放、さ」	「...The liberation of humanity.」
+215992	General Tiger		「……人類の解放、さ」	「...The liberation of humanity.」
 
-215993	Nagata-kun	「な、なにそれ……」	「W, what is that...」
+215993	Nagata-kun		「な、なにそれ……」	「W, what is that...」
 
-215994	General Tiger	「人類の解放とは、	「The liberation of humanity means
-215995	+	　魔王の支配する世界からの脱却」	　breaking free from the world ruled by the Demon King.」
+215994	General Tiger		「人類の解放とは、	「The liberation of humanity means
+215995	+		　魔王の支配する世界からの脱却」	　breaking free from the world ruled by the Demon King.」
 
-215996	General Tiger	「ははは、若い子にはちょっと	「Hahaha, it might be a little
-215997	+	　分からないかも知れないね」	　hard for young ones to understand.」
+215996	General Tiger	茶化し	「ははは、若い子にはちょっと	「Hahaha, it might be a little
+215997	+		　分からないかも知れないね」	　hard for young ones to understand.」
 
-215998	General Tiger	「今、この世界はおおいに狂っているのさ」	「Right now, this world is completely mad.」
+215998	General Tiger		「今、この世界はおおいに狂っているのさ」	「Right now, this world is completely mad.」
 
-215999	General Tiger	「人間はいつの時代も	「Humans have always, in every era,
-216000	+	　魔王、魔人、魔物と敵対してきた」	　opposed Demon Kings, Fiends, and monsters.」
+215999	General Tiger		「人間はいつの時代も	「Humans have always, in every era,
+216000	+		　魔王、魔人、魔物と敵対してきた」	　opposed Demon Kings, Fiends, and monsters.」
 
-216001	General Tiger	「それが今はどうだい？」	「But what about now?」
+216001	General Tiger		「それが今はどうだい？」	「But what about now?」
 
-216002	-	そこで、タイガー将軍は嫌味ったらしく唇を歪めた。	There, Tiger General twisted his lips in a sarcastic smirk.
+216002	-		そこで、タイガー将軍は嫌味ったらしく唇を歪めた。	There, Tiger General twisted his lips in a sarcastic smirk.
 
-216003	General Tiger	「リーザス、ヘルマン、ゼス、自由都市、JAPAN。	「Leazas, Helman, Zeth, Free Cities, JAPAN.
-216004	+	　主要国の国主は魔王ランスの関係者ばかり」	　The rulers of all the major nations are connected to Demon King Rance.」
+216003	General Tiger	基本	「リーザス、ヘルマン、ゼス、自由都市、JAPAN。	「Leazas, Helman, Zeth, Free Cities, JAPAN.
+216004	+		　主要国の国主は魔王ランスの関係者ばかり」	　The rulers of all the major nations are connected to Demon King Rance.」
 
-216005	General Tiger	「既に人類は魔物の奴隷になっているも同然」	「Humanity has practically become slaves to monsters already.」
+216005	General Tiger		「既に人類は魔物の奴隷になっているも同然」	「Humanity has practically become slaves to monsters already.」
 
-216006	General Tiger	「このことをねぇ……	「And about this...
-216007	+	　世の大人達はみぃーんな不安がっているのさ」	　All the adults of the world are deeply worried.」
+216006	General Tiger		「このことをねぇ……	「And about this...
+216007	+		　世の大人達はみぃーんな不安がっているのさ」	　All the adults of the world are deeply worried.」
 
-216008	General Tiger	「そうじゃないのは……	「The only ones who aren't...
-216009	+	　各国権力者と近しいところに暮らしてる	　are the tiny handful living close to the powerful.」
-216010	+	　ほんの一部の人間だけだ」	
+216008	General Tiger		「そうじゃないのは……	「The only ones who aren't...
+216009	+		　各国権力者と近しいところに暮らしてる	　are the tiny handful living close to the powerful.」
+216010	+		　ほんの一部の人間だけだ」	
 
-216011	General Tiger	「だって、そうだろう？」	「After all, doesn't that make sense?」
+216011	General Tiger		「だって、そうだろう？」	「After all, doesn't that make sense?」
 
-216012	General Tiger	「長い歴史上で魔王の恐怖は	「Throughout long history, the terror of Demon Kings
-216013	+	　しっかりこってりと教えられてきたんだ」	　has been drilled into us thick and deep.」
+216012	General Tiger		「長い歴史上で魔王の恐怖は	「Throughout long history, the terror of Demon Kings
+216013	+		　しっかりこってりと教えられてきたんだ」	　has been drilled into us thick and deep.」
 
-216014	General Tiger	「本当は戦わないといけない相手を、	「The very enemy we should be fighting,
-216015	+	　よりにもよって自国の王が崇めている」	　our own kings are worshipping instead.」
+216014	General Tiger		「本当は戦わないといけない相手を、	「The very enemy we should be fighting,
+216015	+		　よりにもよって自国の王が崇めている」	　our own kings are worshipping instead.」
 
-216016	General Tiger	「こぉーんな恐ろしい話は他にないよねぇ？」	「There's no scarier story than this, right?」
+216016	General Tiger		「こぉーんな恐ろしい話は他にないよねぇ？」	「There's no scarier story than this, right?」
 
-216017	General Tiger	「おじさんの仕事はね、	「My job, you see,
-216018	+	　常にそんな善良でか弱い一般市民の	　is to always stand with those good, weak ordinary citizens.」
-216019	+	　味方であり続けること」	
+216017	General Tiger		「おじさんの仕事はね、	「My job, you see,
+216018	+		　常にそんな善良でか弱い一般市民の	　is to always stand with those good, weak ordinary citizens.」
+216019	+		　味方であり続けること」	
 
-216020	General Tiger	「なら、何をするべきか」	「So, what should we do?」
+216020	General Tiger		「なら、何をするべきか」	「So, what should we do?」
 
-216021	General Tiger	「国家からの魔王関係者の排除だ！」	「Eliminate all Demon King affiliates from the nations!」
+216021	General Tiger	真剣	「国家からの魔王関係者の排除だ！」	「Eliminate all Demon King affiliates from the nations!」
 
-216022	General Tiger	「我が国は新興の国なれど、	「Our country may be new,
-216023	+	　いや新興の国だからこそ！	　no, precisely because it is new!
-216024	+	　道徳観念は我が東ヘルマンが最も発達している！」	　Eastern Helman has the most developed sense of morality!」
+216022	General Tiger		「我が国は新興の国なれど、	「Our country may be new,
+216023	+		　いや新興の国だからこそ！	　no, precisely because it is new!
+216024	+		　道徳観念は我が東ヘルマンが最も発達している！」	　Eastern Helman has the most developed sense of morality!」
 
-216025	-	力強くタイガー将軍が拳を握りしめる。	Tiger General clenched his fist powerfully.
+216025	-		力強くタイガー将軍が拳を握りしめる。	Tiger General clenched his fist powerfully.
 
-216026	General Tiger	「つまり、我が国こそ、	「In other words, our nation alone
-216027	+	　全ての国を断罪する権利を有する！」	　holds the right to judge all other countries!」
+216026	General Tiger		「つまり、我が国こそ、	「In other words, our nation alone
+216027	+		　全ての国を断罪する権利を有する！」	　holds the right to judge all other countries!」
 
-216028	General Tiger	「いや、これは最早、義務である！」	「No, this is already our duty!」
+216028	General Tiger		「いや、これは最早、義務である！」	「No, this is already our duty!」
 
-216029	General Tiger	「故に！　改革が必要なのだ！」	「Therefore! Reform is necessary!」
+216029	General Tiger		「故に！　改革が必要なのだ！」	「Therefore! Reform is necessary!」
 
-216030	General Tiger	「…………」	「............」
+216030	General Tiger		「…………」	「............」
 
-216031	General Tiger	「ってぇのが、我が国の理念なのさ」	「That's the ideology of our nation.」
+216031	General Tiger	基本	「ってぇのが、我が国の理念なのさ」	「That's the ideology of our nation.」
 
-216032	Nagi su Ragarl	「なんか面倒臭そうなおじさんが来た」	「Some annoying-looking old man showed up.」
+216032	Nagi su Ragarl		「なんか面倒臭そうなおじさんが来た」	「Some annoying-looking old man showed up.」
 
-216033	Masou Shizuka	「で、その東ヘルマンの部隊が、	「So, what business does this unit from Eastern Helman
-216034	+	　私達に何か用かしら？」	　have with us?」
+216033	Masou Shizuka		「で、その東ヘルマンの部隊が、	「So, what business does this unit from Eastern Helman
+216034	+		　私達に何か用かしら？」	　have with us?」
 
-216035	General Tiger	「魔想志津香にナギ・ス・ラガール……	「Shizuka Masou and Nagi S. Ragarl...
-216036	+	　魔王の情婦であるお嬢さん達も一緒とはね」	　Even the Demon King's little mistresses are tagging along, I see.」
+216035	General Tiger		「魔想志津香にナギ・ス・ラガール……	「Shizuka Masou and Nagi S. Ragarl...
+216036	+		　魔王の情婦であるお嬢さん達も一緒とはね」	　Even the Demon King's little mistresses are tagging along, I see.」
 
-216037	Masou Shizuka	「…………」	「............」
+216037	Masou Shizuka		「…………」	「............」
 
-216038	Masou Shizuka	「……は？」	「...Huh?」
+216038	Masou Shizuka	睨み	「……は？」	「...Huh?」
 
-216039	Nagi su Ragarl	「お、お姉様、どうどう……」	「B-Big sis, calm down...」
+216039	Nagi su Ragarl	反省	「お、お姉様、どうどう……」	「B-Big sis, calm down...」
 
-216040	General Tiger	「リーザスのリア女王にヘルマンのシーラ大統領、	「Leazas's Queen Lia, Helman's President Sheila,
-216041	+	　ゼスのマジック王、自由都市のコパンドン総帥、	　Zeth's Magic King, Free Cities' Commander Copandon,
-216042	+	　JAPANの王母五十六、カラーの女王パステル」	　JAPAN's Queen Mother Isoroku, Kalar's Queen Pastel.」
+216040	General Tiger	基本	「リーザスのリア女王にヘルマンのシーラ大統領、	「Leazas's Queen Lia, Helman's President Sheila,
+216041	+		　ゼスのマジック王、自由都市のコパンドン総帥、	　Zeth's Magic King, Free Cities' Commander Copandon,
+216042	+		　JAPANの王母五十六、カラーの女王パステル」	　JAPAN's Queen Mother Isoroku, Kalar's Queen Pastel.」
 
-216043	General Tiger	「各国の指導者がことごとく魔王の情婦……	「Every single national leader is the Demon King's mistress...
-216044	+	　イカレた話さ」	　What a crazy situation.」
+216043	General Tiger		「各国の指導者がことごとく魔王の情婦……	「Every single national leader is the Demon King's mistress...
+216044	+		　イカレた話さ」	　What a crazy situation.」
 
-216045	General Tiger	「それら全てを排除するのが、	「Eliminating all of them
-216046	+	　おじさん達の仕事であり理想であるわけよ」	　is our job and our ideal.」
+216045	General Tiger		「それら全てを排除するのが、	「Eliminating all of them
+216046	+		　おじさん達の仕事であり理想であるわけよ」	　is our job and our ideal.」
 
-216047	Masou Shizuka	「目標は世界征服ってわけ？」	「So your goal is world conquest?」
+216047	Masou Shizuka		「目標は世界征服ってわけ？」	「So your goal is world conquest?」
 
-216048	General Tiger	「いいや、真の望みは人類の独立性を維持し、	「No, our true desire is to preserve humanity's independence,
-216049	+	　人類の誇りを守護することのみさ」	　and protect humanity's pride.」
+216048	General Tiger		「いいや、真の望みは人類の独立性を維持し、	「No, our true desire is to preserve humanity's independence,
+216049	+		　人類の誇りを守護することのみさ」	　and protect humanity's pride.」
 
-216050	General Tiger	「その為に、魔王の血は	「For that, the Demon King's blood
-216051	+	　この世界から一掃しなくちゃならん」	　must be wiped from this world.」
+216050	General Tiger		「その為に、魔王の血は	「For that, the Demon King's blood
+216051	+		　この世界から一掃しなくちゃならん」	　must be wiped from this world.」
 
-216052	General Tiger	「おじさんの言いたいこと、分かる？」	「Do you understand what I'm saying?」
+216052	General Tiger		「おじさんの言いたいこと、分かる？」	「Do you understand what I'm saying?」
 
-216053	Nagata-kun	「なーんか……話の筋道が見えてきた……」	「Somehow... I'm starting to see where this is going...」
+216053	Nagata-kun		「なーんか……話の筋道が見えてきた……」	「Somehow... I'm starting to see where this is going...」
 
-216054	Nagata-kun	「えーと、つまり……	「Um, in other words...
-216055	+	　おたくら、俺らの……敵？」	　you guys are... our enemies?」
+216054	Nagata-kun		「えーと、つまり……	「Um, in other words...
+216055	+		　おたくら、俺らの……敵？」	　you guys are... our enemies?」
 
-216056	General Tiger	「そーゆーこと」	「That's right.」
+216056	General Tiger	茶化し	「そーゆーこと」	「That's right.」
 
-216057	General Tiger	「魔王ランスの血を引く、	「The one carrying Demon King Rance's blood,
-216058	+	　カラー女王の娘、リセット」	　Queen Kalar's daughter, Reset.」
+216057	General Tiger	基本	「魔王ランスの血を引く、	「The one carrying Demon King Rance's blood,
+216058	+		　カラー女王の娘、リセット」	　Queen Kalar's daughter, Reset.」
 
-216059	General Tiger	「生かしておけば、いずれ必ず	「If left alive, she will surely
-216060	+	　厄介な存在になる。	　become a troublesome existence someday.
-216061	+	　いや、既にそうなりつつある」	　No, she's already becoming one.」
+216059	General Tiger		「生かしておけば、いずれ必ず	「If left alive, she will surely
+216060	+		　厄介な存在になる。	　become a troublesome existence someday.
+216061	+		　いや、既にそうなりつつある」	　No, she's already becoming one.」
 
-216062	General Tiger	「そして……」	「And...
+216062	General Tiger		「そして……」	「And...
 
-216063	-	タイガー将軍が呆れたような目で	Tiger General looked at you with exasperated eyes
-216064	+	あなたを睨みつけてきた。	and glared.
+216063	-		タイガー将軍が呆れたような目で	Tiger General looked at you with exasperated eyes
+216064	+		あなたを睨みつけてきた。	and glared.
 
-216065	General Tiger	「まさかAL教の法王までも	「To think even the AL Church's Pope
-216066	+	　魔王の子を産んでいたとはねぇ……」	　gave birth to the Demon King's child...」
+216065	General Tiger		「まさかAL教の法王までも	「To think even the AL Church's Pope
+216066	+		　魔王の子を産んでいたとはねぇ……」	　gave birth to the Demon King's child...」
 
-216067	General Tiger	「魔王ランスの血を引く、	「Carrying Demon King Rance's blood,
-216068	+	　AL教の法王の子、＜エール＞」	　the Pope's child, ＜エール＞.」
+216067	General Tiger		「魔王ランスの血を引く、	「Carrying Demon King Rance's blood,
+216068	+		　AL教の法王の子、＜エール＞」	　the Pope's child, ＜エール＞.」
 
-216069	General Tiger	「ごめんだけど、	「Sorry, but
-216070	+	　君も殺さなくちゃならないねぇ」	　I'll have to kill you too.」
+216069	General Tiger		「ごめんだけど、	「Sorry, but
+216070	+		　君も殺さなくちゃならないねぇ」	　I'll have to kill you too.」
 
-216071	El Mofus	「…………。」	「............」
-216072	General Tiger	「……おじさんも、出来るなら	「...Even I don't want to
-216073	+	　子供殺しはしたくないんだけどねぇ」	　kill children if I can help it.」
+216071	El Mofus		「…………。」	「............」
+216072	General Tiger		「……おじさんも、出来るなら	「...Even I don't want to
+216073	+		　子供殺しはしたくないんだけどねぇ」	　kill children if I can help it.」
 
-216074	General Tiger	「でも、人類の統一の為には、	「But for humanity's unity,
-216075	+	　君達の血が不可欠なんだ」	　your blood is essential.」
+216074	General Tiger		「でも、人類の統一の為には、	「But for humanity's unity,
+216075	+		　君達の血が不可欠なんだ」	　your blood is essential.」
 
-216076	General Tiger	「今、この世界においては重要なことさ」	「It's crucial in this world right now.」
+216076	General Tiger		「今、この世界においては重要なことさ」	「It's crucial in this world right now.」
 
-216077	General Tiger	「……君はもう少し、	「...You should understand
-216078	+	　自分の罪深さを知った方がいいねぇ」	　the depth of your sins a bit more.」
+216077	General Tiger		「……君はもう少し、	「...You should understand
+216078	+		　自分の罪深さを知った方がいいねぇ」	　the depth of your sins a bit more.」
 
-216079	General Tiger	「…………」	「............」
+216079	General Tiger		「…………」	「............」
 
-216080	General Tiger	「言いたいことは終わったかい？」	「Have you finished saying what you wanted?」
+216080	General Tiger		「言いたいことは終わったかい？」	「Have you finished saying what you wanted?」
 
-216081	General Tiger	「可哀想だけど、君達は生きているだけで罪だ」	「It's sad, but just by existing, you are sin itself.」
+216081	General Tiger		「可哀想だけど、君達は生きているだけで罪だ」	「It's sad, but just by existing, you are sin itself.」
 
-216082	General Tiger	「ここで死んでくれ」	「So die here.」
+216082	General Tiger		「ここで死んでくれ」	「So die here.」

@@ -6,68 +6,68 @@
 * Rick Addison	リック	Male
 * Kentou Kanami	かなみ	Female
 
-157553	-	ランス達がスケールの街に到着した。	Rance and the others arrived at Scale City.
+157553	-		ランス達がスケールの街に到着した。	Rance and the others arrived at Scale City.
 
-157554	Leazas White Knight	「お待ちしておりました！　ランス総統閣下！」	「We've been waiting! Supreme Leader Rance!」
+157554	Leazas White Knight	非武装	「お待ちしておりました！　ランス総統閣下！」	「We've been waiting! Supreme Leader Rance!」
 
-157555	-	街に入ると真っ先に入り口で待機していた	As soon as they entered the city, a White Army knight
-157556	+	白軍の騎士が敬礼と共に出迎えた。	waiting at the entrance saluted in greeting.
+157555	-		街に入ると真っ先に入り口で待機していた	As soon as they entered the city, a White Army knight
+157556	+		白軍の騎士が敬礼と共に出迎えた。	waiting at the entrance saluted in greeting.
 
-157557	Sill Plain	「わ、わ、ご丁寧にありがとうございます。	「W-Wow, thank you very much for your courtesy.
-157558	+	　お疲れ様です、宜しくお願いします」	　Thank you for your hard work, please treat us well.」
+157557	Sill Plain	慌て	「わ、わ、ご丁寧にありがとうございます。	「W-Wow, thank you very much for your courtesy.
+157558	+		　お疲れ様です、宜しくお願いします」	　Thank you for your hard work, please treat us well.」
 
-157559	Rance	「アホ」	「Idiot.」
+157559	Rance	基本	「アホ」	「Idiot.」
 
-157560	Sill Plain	「きゃんっ」	「Kyan!」
+157560	Sill Plain	ひんひん	「きゃんっ」	「Kyan!」
 
-157561	Rance	「俺様の奴隷がペコペコすんな。	「Don't bow your head like that, my slave.
-157562	+	　俺まで舐められるだろうが」	　They'll look down on me too.」
+157561	Rance	だる顔	「俺様の奴隷がペコペコすんな。	「Don't bow your head like that, my slave.
+157562	+		　俺まで舐められるだろうが」	　They'll look down on me too.」
 
-157563	Sill Plain	「で、でもぉ……」	「B-But...」
+157563	Sill Plain	基本	「で、でもぉ……」	「B-But...」
 
-157564	Rance	「む、口答えか？　口答えする気か？」	「Hm, talking back? You want to talk back?」
+157564	Rance	真剣	「む、口答えか？　口答えする気か？」	「Hm, talking back? You want to talk back?」
 
-157565	Sill Plain	「いたっ、いたた、	「Ouch, ow ow,
-157566	+	　ひんひん、すみません、ランス様ぁ……」	　hin hin, I'm sorry, Rance-sama...」
+157565	Sill Plain	基本	「いたっ、いたた、	「Ouch, ow ow,
+157566	+		　ひんひん、すみません、ランス様ぁ……」	　hin hin, I'm sorry, Rance-sama...」
 
-157567	Leazas White Knight	「あ、あの……」	「U-Um...」
+157567	Leazas White Knight	非武装	「あ、あの……」	「U-Um...」
 
-157568	Haurein Province	「いい、気にせんでくれ」	「It's fine, don't mind it.」
+157568	Haurein Province	目閉じ	「いい、気にせんでくれ」	「It's fine, don't mind it.」
 
-157569	Rick Addison	「出迎えご苦労」	「Thanks for meeting us.」
+157569	Rick Addison	基本	「出迎えご苦労」	「Thanks for meeting us.」
 
-157570	Leazas White Knight	「おおっ、ハウレーン副将！　リック将軍！」	「Ohh, Vice General Howlane! General Rick!」
+157570	Leazas White Knight	非武装	「おおっ、ハウレーン副将！　リック将軍！」	「Ohh, Vice General Howlane! General Rick!」
 
-157571	Haurein Province	「エクス将軍はどちらに？」	「Where is General Ex?」
+157571	Haurein Province	基本	「エクス将軍はどちらに？」	「Where is General Ex?」
 
-157572	Leazas White Knight	「はっ、現在は軍議室の方に」	「Yes, he is currently in the war council room.」
+157572	Leazas White Knight	非武装	「はっ、現在は軍議室の方に」	「Yes, he is currently in the war council room.」
 
-157573	Haurein Province	「では、すぐに案内を」	「Then guide us immediately.」
+157573	Haurein Province	基本	「では、すぐに案内を」	「Then guide us immediately.」
 
-157574	Leazas White Knight	「それはモチロン構いませんが、	「Of course that's fine, but
-157575	+	　食事の用意などもございます。	　we have also prepared meals.
-157576	+	　休憩はお取りにならなくても……」	　You don't have to rest if you don't want to...」
+157574	Leazas White Knight	非武装	「それはモチロン構いませんが、	「Of course that's fine, but
+157575	+		　食事の用意などもございます。	　we have also prepared meals.
+157576	+		　休憩はお取りにならなくても……」	　You don't have to rest if you don't want to...」
 
-157577	Rick Addison	「ランス殿？」	「Lord Rance?」
+157577	Rick Addison	基本	「ランス殿？」	「Lord Rance?」
 
-157578	-	リックが視線と語尾でランスに伺う。	Rick asked Rance with his gaze and tone.
+157578	-		リックが視線と語尾でランスに伺う。	Rick asked Rance with his gaze and tone.
 
-157579	Rance	「ああ、休憩なんぞいらん。	「Yeah, no need for rest.
-157580	+	　ぐだぐだするのは趣味じゃないからな」	　I don't like wasting time.」
+157579	Rance		「ああ、休憩なんぞいらん。	「Yeah, no need for rest.
+157580	+		　ぐだぐだするのは趣味じゃないからな」	　I don't like wasting time.」
 
-157581	Leazas White Knight	「失礼いたしました。	「Excuse me.
-157582	+	　では、すぐにご案内を」	　Then I'll guide you right away.」
+157581	Leazas White Knight	非武装	「失礼いたしました。	「Excuse me.
+157582	+		　では、すぐにご案内を」	　Then I'll guide you right away.」
 
-157583	-	騎士は心中で感心する。	The knight was impressed in his heart.
+157583	-		騎士は心中で感心する。	The knight was impressed in his heart.
 
-157584	Leazas White Knight~	（さすが世界を率いて戦うお方だ。	（As expected of the one who leads the world to battle.
-157585	+	　なんと使命感に熱い……）	　So full of sense of duty...）
+157584	Leazas White Knight~		（さすが世界を率いて戦うお方だ。	（As expected of the one who leads the world to battle.
+157585	+		　なんと使命感に熱い……）	　So full of sense of duty...）
 
-157586	Leazas White Knight~	（やはりこれくらいでなければ、	（Indeed, only someone like this
-157587	+	　総統閣下は名乗れぬのだろうなぁ……）	　can call himself Supreme Leader...）
+157586	Leazas White Knight~		（やはりこれくらいでなければ、	（Indeed, only someone like this
+157587	+		　総統閣下は名乗れぬのだろうなぁ……）	　can call himself Supreme Leader...）
 
-157588	Rance~	（ここには美少女魔人の	（There's a beautiful Fiend girl
-157589	+	　ハウゼルちゃんがいるからな、	　Hawzel-chan here,
-157590	+	　無駄に出来る時間はないのである。ぐふふ……）	　so there's no time to waste. Gufufu...）
+157588	Rance~	エロ顔	（ここには美少女魔人の	（There's a beautiful Fiend girl
+157589	+		　ハウゼルちゃんがいるからな、	　Hawzel-chan here,
+157590	+		　無駄に出来る時間はないのである。ぐふふ……）	　so there's no time to waste. Gufufu...）
 
-157591	Kentou Kanami~	（ああ……ランスが誤解されている……）	（Ahh... Rance is being completely misunderstood...）
+157591	Kentou Kanami~	ジト目	（ああ……ランスが誤解されている……）	（Ahh... Rance is being completely misunderstood...）

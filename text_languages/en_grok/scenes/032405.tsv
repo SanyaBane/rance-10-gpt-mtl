@@ -4,82 +4,82 @@
 * Bezeleye	ベゼルアイ	Female
 * Caesar	シーザー	Male
 
-147351	-	昼のトランシルバニアの森を歩いている間、	While walking through the daytime Transylvania Forest,
-147352	+	何故かサテラがご機嫌だった。	Satella was in an unusually good mood for some reason.
+147351	-		昼のトランシルバニアの森を歩いている間、	While walking through the daytime Transylvania Forest,
+147352	+		何故かサテラがご機嫌だった。	Satella was in an unusually good mood for some reason.
 
-147353	Satella	「ふふ……」	「Fufu...”
+147353	Satella	ふふん	「ふふ……」	「Fufu...”
 
-147354	Satella	「……ふんふんふーん♪」	「...Hum hum hum♪」
+147354	Satella		「……ふんふんふーん♪」	「...Hum hum hum♪」
 
-147355	Rance	「なんだ、鼻歌なんぞ歌って、	「What's with the humming?
-147356	+	　機嫌いいな」	　You're in a good mood.」
+147355	Rance	基本	「なんだ、鼻歌なんぞ歌って、	「What's with the humming?
+147356	+		　機嫌いいな」	　You're in a good mood.」
 
-147357	Satella	「機嫌がいいだと？　馬鹿を言え。	「Good mood? Don't be ridiculous.
-147358	+	　サテラはいつも通りだ」	　Satella is always like this.」
+147357	Satella	ふふん	「機嫌がいいだと？　馬鹿を言え。	「Good mood? Don't be ridiculous.
+147358	+		　サテラはいつも通りだ」	　Satella is always like this.」
 
-147359	Satella	「だが……」	「But...”
+147359	Satella		「だが……」	「But...”
 
-147360	Satella	「強いて言えばお前も立場の違いが	「If I had to say, it seems you've finally
-147361	+	　分かってきたようだな、と思ったくらいだ」	　understood the difference in our positions.」
+147360	Satella	笑顔	「強いて言えばお前も立場の違いが	「If I had to say, it seems you've finally
+147361	+		　分かってきたようだな、と思ったくらいだ」	　understood the difference in our positions.」
 
-147362	Rance	「立場の違い？」	「Difference in positions?」
+147362	Rance	基本	「立場の違い？」	「Difference in positions?」
 
-147363	Satella	「お前が昼の間に森に入ったことだ」	「The fact that you entered the forest during the day.」
+147363	Satella	ふふん	「お前が昼の間に森に入ったことだ」	「The fact that you entered the forest during the day.」
 
-147364	Satella	「ふふん、ケッセルリンクとは昼の間に戦え、	「Fufun, I told you to fight Kesselring during the day,
-147365	+	　と言ったサテラの言葉、	　and you actually listened.」
-147366	+	　ちゃんと覚えていたようじゃないか」	
+147364	Satella		「ふふん、ケッセルリンクとは昼の間に戦え、	「Fufun, I told you to fight Kesselring during the day,
+147365	+		　と言ったサテラの言葉、	　and you actually listened.」
+147366	+		　ちゃんと覚えていたようじゃないか」	
 
-147367	Rance	「ん、まあ……」	「Yeah, well...”
+147367	Rance	真剣	「ん、まあ……」	「Yeah, well...”
 
-147368	Rance~	（こいつ、そんなことが嬉しいのか？）	（Is she happy about something like that?）
+147368	Rance~	だる顔	（こいつ、そんなことが嬉しいのか？）	（Is she happy about something like that?）
 
-147369	Bezeleye~	（ランス君、いけずだもの。	（Rance-kun is so mean.
-147370	+	　主として、相当鬱憤溜まってたのよ……	　As his master, she's been holding in a lot of frustration...」
-147371	+	　可哀想に）	　Poor thing.）
+147369	Bezeleye~	基本	（ランス君、いけずだもの。	（Rance-kun is so mean.
+147370	+		　主として、相当鬱憤溜まってたのよ……	　As his master, she's been holding in a lot of frustration...」
+147371	+		　可哀想に）	　Poor thing.）
 
-147372	Rance~	（ふん、俺の知ったこっちゃないな）	（Hmph, not my problem.）
+147372	Rance~		（ふん、俺の知ったこっちゃないな）	（Hmph, not my problem.）
 
-147373	Satella	「お前の主はこのサテラ。	「I am your master, Satella.
-147374	+	　その辺がお前にもようやく分かってきたようだな」	　It seems you've finally understood that much.」
+147373	Satella	ふふん	「お前の主はこのサテラ。	「I am your master, Satella.
+147374	+		　その辺がお前にもようやく分かってきたようだな」	　It seems you've finally understood that much.」
 
-147375	Rance	「まあ……わざわざされたアドバイスを	「Well... I just didn't ignore the advice you gave me.
-147376	+	　無視するほどではなかっただけだが……」	　That's all...」
+147375	Rance	基本	「まあ……わざわざされたアドバイスを	「Well... I just didn't ignore the advice you gave me.
+147376	+		　無視するほどではなかっただけだが……」	　That's all...」
 
-147377	Satella	「言うことを聞かない部下を屈服させるのも	「Subduing disobedient subordinates
-147378	+	　主の仕事、と言ったところか」	　is also part of a master's duty.」
+147377	Satella	ふふん	「言うことを聞かない部下を屈服させるのも	「Subduing disobedient subordinates
+147378	+		　主の仕事、と言ったところか」	　is also part of a master's duty.」
 
-147379	Rance	「どっかで聞いたようなことを……」	「I've heard that somewhere before...」
+147379	Rance	だる顔	「どっかで聞いたようなことを……」	「I've heard that somewhere before...」
 
-147380	Rance~	（……まあ、喜んでるみたいだし	（...Well, she seems happy,
-147381	+	　放っておくか）	　so I'll leave her be.）
+147380	Rance~	基本	（……まあ、喜んでるみたいだし	（...Well, she seems happy,
+147381	+		　放っておくか）	　so I'll leave her be.）
 
-147382	Satella	「最初は色々と不安だったが……	「At first I was worried about many things...
-147383	+	　お前もようやく主従関係が分かってきたようだ」	　But it seems you've finally understood our master-servant relationship.」
+147382	Satella	ふふん	「最初は色々と不安だったが……	「At first I was worried about many things...
+147383	+		　お前もようやく主従関係が分かってきたようだ」	　But it seems you've finally understood our master-servant relationship.」
 
-147384	Rance	「んー……	「Mmm...
-147385	+	　まあ……	　Well...
-147386	+	　そうだな……」	　I guess...」
+147384	Rance	基本	「んー……	「Mmm...
+147385	+		　まあ……	　Well...
+147386	+		　そうだな……」	　I guess...」
 
-147387	Satella	「うんうん、そうかそうか。	「Yes yes, that's right.
-147388	+	　ふふふ」	　Fufufu.」
+147387	Satella	ふふん	「うんうん、そうかそうか。	「Yes yes, that's right.
+147388	+		　ふふふ」	　Fufufu.」
 
-147389	Satella	「よし、お前もいつかサテラを肩に乗せて運ぶ	「Good, one day I'll let you carry Satella on your shoulders
-147390	+	　名誉に預からせてやるとしよう」	　as an honor.」
+147389	Satella	笑顔	「よし、お前もいつかサテラを肩に乗せて運ぶ	「Good, one day I'll let you carry Satella on your shoulders
+147390	+		　名誉に預からせてやるとしよう」	　as an honor.」
 
-147391	Rance	「……それって名誉なことだったのか」	「...Is that really an honor?」
+147391	Rance	真剣	「……それって名誉なことだったのか」	「...Is that really an honor?」
 
-147392	Satella	「ふふん、ランスはシーザーに対しての	「Fufun, I've always thought Rance lacks respect for Caesar.
-147393	+	　敬意が見えないとは常々思っていた。	
-147394	+	　これを機に少しは先輩とあがめることだな」	　Use this chance to show some respect to your senior.」
+147392	Satella	ふふん	「ふふん、ランスはシーザーに対しての	「Fufun, I've always thought Rance lacks respect for Caesar.
+147393	+		　敬意が見えないとは常々思っていた。	
+147394	+		　これを機に少しは先輩とあがめることだな」	　Use this chance to show some respect to your senior.」
 
-147395	Rance	「こいつを……あがめる……」	「Respect... this guy...」
+147395	Rance	だる顔	「こいつを……あがめる……」	「Respect... this guy...」
 
-147396	Caesar	「…………」	「............」
+147396	Caesar	基本	「…………」	「............」
 
-147397	Rance	「なんか自慢げだな、生意気だぞ」	「You're acting all proud, how cheeky.」
+147397	Rance	真剣	「なんか自慢げだな、生意気だぞ」	「You're acting all proud, how cheeky.」
 
-147398	Caesar	「自慢ゲ？」	「Proud?」
+147398	Caesar	基本	「自慢ゲ？」	「Proud?」
 
-147399	Satella	「シーザーを軽んじれば、	「If you disrespect Caesar,
-147400	+	　いくらランスでも怒るぞ？」	　even you will make him angry, you know?」
+147399	Satella	不安	「シーザーを軽んじれば、	「If you disrespect Caesar,
+147400	+		　いくらランスでも怒るぞ？」	　even you will make him angry, you know?」

@@ -11,231 +11,231 @@
 * Reset Kalar	リセット	Female
 * Toushin Sigma	闘神シグマ	Male
 
-30343	Rance	「おー、ここだここだ」	「Oh, here it is.」
+30343	Rance	基本	「おー、ここだここだ」	「Oh, here it is.」
 
-30344	-	ランスは宝箱だんごを引き連れ、	Rance led the Treasure Chest Dumpling
-30345	+	瓦礫に埋まった闘神シグマの元まで戻ってきた。	back to the rubble-buried Toushin Sigma.
+30344	-		ランスは宝箱だんごを引き連れ、	Rance led the Treasure Chest Dumpling
+30345	+		瓦礫に埋まった闘神シグマの元まで戻ってきた。	back to the rubble-buried Toushin Sigma.
 
-30346	Rance	「で……こいつをどうすればいいんだ？」	「So...... what do we do with this?」
+30346	Rance		「で……こいつをどうすればいいんだ？」	「So...... what do we do with this?」
 
-30347	Patton Helman	「この聖櫃の中身を起こすんだ。	「We wake up what's inside this Sacred Ark.
-30348	+	　今は眠りに就いてる、闘神のコアを」	　The Toushin's core that's currently sleeping.」
+30347	Patton Helman		「この聖櫃の中身を起こすんだ。	「We wake up what's inside this Sacred Ark.
+30348	+		　今は眠りに就いてる、闘神のコアを」	　The Toushin's core that's currently sleeping.」
 
-30349	Rance	「ほー？」	「Hou?」
+30349	Rance		「ほー？」	「Hou?」
 
-30350	Kentou Kanami	「中って、見ていいのかしら。	「Can we look inside?
-30351	+	　ちょっと興味あるな……」	　I'm a bit curious......」
+30350	Kentou Kanami		「中って、見ていいのかしら。	「Can we look inside?
+30351	+		　ちょっと興味あるな……」	　I'm a bit curious......」
 
-30352	-	ランスが、傍に控えたままの宝箱だんごの掲げる、	Rance casually lifted the lid
-30353	+	宝箱の蓋をひょいと持ち上げた。	of the box held by the waiting dumpling.
+30352	-		ランスが、傍に控えたままの宝箱だんごの掲げる、	Rance casually lifted the lid
+30353	+		宝箱の蓋をひょいと持ち上げた。	of the box held by the waiting dumpling.
 
-30354	Rance	「ッ、ど、どわあああああッ！？	「Ugh, wh-whaaaaat!?」
-30355	+	　ミ、ミ、ミイラ！？」	　A m-m-mummy!?」
+30354	Rance	驚き	「ッ、ど、どわあああああッ！？	「Ugh, wh-whaaaaat!?」
+30355	+		　ミ、ミ、ミイラ！？」	　A m-m-mummy!?」
 
-30356	Kentou Kanami	「きゃーーーーーーっ！？」	「Kyaaaaaaa!?」
+30356	Kentou Kanami	混乱	「きゃーーーーーーっ！？」	「Kyaaaaaaa!?」
 
-30357	Sill Plain	「こ、こ、こどもの、みいら、っ……！」	「A c-child's mummy......!」
+30357	Sill Plain	恥	「こ、こ、こどもの、みいら、っ……！」	「A c-child's mummy......!」
 
-30358	Yuzuhara Yuzumi	「かわいく、ない…………残念」	「Not cute at all............ Disappointing.」
+30358	Yuzuhara Yuzumi	ハートブレイク	「かわいく、ない…………残念」	「Not cute at all............ Disappointing.」
 
-30359	Hunty Kalar	「それが闘神の、本体さ。魂はまだ生きてる」	「That's the Toushin's real body. The soul is still alive.」
+30359	Hunty Kalar	基本	「それが闘神の、本体さ。魂はまだ生きてる」	「That's the Toushin's real body. The soul is still alive.」
 
-30360	Miracle Tor	「この聖櫃の中のミイラが、	「The mummy inside this Sacred Ark
-30361	+	　遠隔操作によって操る金属人形。	　remotely controls the metal doll.
-30362	+	　……それが、闘神だ」	　......That's a Toushin.」
+30360	Miracle Tor		「この聖櫃の中のミイラが、	「The mummy inside this Sacred Ark
+30361	+		　遠隔操作によって操る金属人形。	　remotely controls the metal doll.
+30362	+		　……それが、闘神だ」	　......That's a Toushin.」
 
-30363	Rance	「ゼータの奴のあの箱も、中身はミイラなのか……	「So Zeta's box also had a mummy inside......
-30364	+	　しかし、ガキを入れるとは……」	　But putting a kid in there......」
+30363	Rance	だる顔	「ゼータの奴のあの箱も、中身はミイラなのか……	「So Zeta's box also had a mummy inside......
+30364	+		　しかし、ガキを入れるとは……」	　But putting a kid in there......」
 
-30365	Hunty Kalar	「子供じゃないよ。ポピンズだ」	「It's not a child. It's Poppins.」
+30365	Hunty Kalar	基本	「子供じゃないよ。ポピンズだ」	「It's not a child. It's Poppins.」
 
-30366	Sill Plain	「……ポピンズ、ですか……」	「......Poppins......?」
+30366	Sill Plain	きょとん	「……ポピンズ、ですか……」	「......Poppins......?」
 
-30367	Hunty Kalar	「ああ……思いだしたよ。ポピンズの聖魔導師。	「Yeah...... I remember now. Poppins the Holy Mage.
-30368	+	　あいつか、シグマって……」	　So that's Sigma......」
+30367	Hunty Kalar	基本	「ああ……思いだしたよ。ポピンズの聖魔導師。	「Yeah...... I remember now. Poppins the Holy Mage.
+30368	+		　あいつか、シグマって……」	　So that's Sigma......」
 
-30369	Patton Helman	「聖魔教団の幹部でお前と知り合いなんて珍しいな。	「Rare for you to know a Holy Magic Sect executive.
-30370	+	　爺さんくらいかと思ったぜ」	　I thought it'd be some old guy.」
+30369	Patton Helman		「聖魔教団の幹部でお前と知り合いなんて珍しいな。	「Rare for you to know a Holy Magic Sect executive.
+30370	+		　爺さんくらいかと思ったぜ」	　I thought it'd be some old guy.」
 
-30371	Hunty Kalar	「仲良しって訳じゃあないよ。……ま、昔の話」	「We weren't exactly close...... Just old acquaintances.」
+30371	Hunty Kalar		「仲良しって訳じゃあないよ。……ま、昔の話」	「We weren't exactly close...... Just old acquaintances.」
 
-30372	Rance	「ふーん？　まあいい。	「Hmm? Whatever.
-30373	+	　じゃあこいつの意識を起こせばいいのか」	　So we just need to wake this one's consciousness?」
+30372	Rance		「ふーん？　まあいい。	「Hmm? Whatever.
+30373	+		　じゃあこいつの意識を起こせばいいのか」	　So we just need to wake this one's consciousness?」
 
-30374	Patton Helman	「おう。頼むぜ、シーラ」	「Yeah. Do it, Sheila.」
+30374	Patton Helman		「おう。頼むぜ、シーラ」	「Yeah. Do it, Sheila.」
 
-30375	Sheila Helman	「……はい」	「......Yes.」
+30375	Sheila Helman	真剣	「……はい」	「......Yes.」
 
-30376	Hunty Kalar	「あ。ちょっとそこのエロ総統、	「Ah. Hey, you perverted Supreme Leader,
-30377	+	　誰か拘束しといて。今度は邪魔されると困る」	　someone restrain him. We can't have interference this time.」
+30376	Hunty Kalar	基本	「あ。ちょっとそこのエロ総統、	「Ah. Hey, you perverted Supreme Leader,
+30377	+		　誰か拘束しといて。今度は邪魔されると困る」	　someone restrain him. We can't have interference this time.」
 
-30378	Patton Helman	「よーしランス。相撲でも取るか！」	「Alright Rance. Wanna sumo wrestle!?」
+30378	Patton Helman	笑い	「よーしランス。相撲でも取るか！」	「Alright Rance. Wanna sumo wrestle!?」
 
-30379	-	かぽーんかぽーんとパットンが準備運動を始めた。	Patton started warming up with heavy stomps.
+30379	-		かぽーんかぽーんとパットンが準備運動を始めた。	Patton started warming up with heavy stomps.
 
-30380	Rance	「だー、寄るな暑苦しい！	「Ugh, don't come near me you sweaty gorilla!
-30381	+	　なんもせんわ、さっさとやれ！」	　I won't do anything, just hurry up!」
+30380	Rance	怒り	「だー、寄るな暑苦しい！	「Ugh, don't come near me you sweaty gorilla!
+30381	+		　なんもせんわ、さっさとやれ！」	　I won't do anything, just hurry up!」
 
-30382	Sheila Helman	「あー……では、始めますね」	「Ah...... Then I'll begin.」
+30382	Sheila Helman	苦笑	「あー……では、始めますね」	「Ah...... Then I'll begin.」
 
-30383	-	シーラが聖櫃に触れ、その手がぼんやりと	Sheila touched the Sacred Ark, her hands beginning to glow faintly,
-30384	+	発光し始めた、その時。	when suddenly.
+30383	-		シーラが聖櫃に触れ、その手がぼんやりと	Sheila touched the Sacred Ark, her hands beginning to glow faintly,
+30384	+		発光し始めた、その時。	when suddenly.
 
-30385	Alkanese Rize	「なんだ？　地震？」	「What? An earthquake?」
+30385	Alkanese Rize	怒り	「なんだ？　地震？」	「What? An earthquake?」
 
-30386	Reset Kalar	「ひゃっ！？」	「Hyaa!?」
+30386	Reset Kalar	基本	「ひゃっ！？」	「Hyaa!?」
 
-30387	Reset Kalar	「か、壁の向こうから、何か来てるよ！	「S-something's coming from the other side of the wall!
-30388	+	　すごくおっきいの！」	　It's huge!」
+30387	Reset Kalar		「か、壁の向こうから、何か来てるよ！	「S-something's coming from the other side of the wall!
+30388	+		　すごくおっきいの！」	　It's huge!」
 
-30389	Hunty Kalar	「この質量……！　あのドラゴンが、まだ……！」	「This mass......! That dragon is still......!」
+30389	Hunty Kalar		「この質量……！　あのドラゴンが、まだ……！」	「This mass......! That dragon is still......!」
 
-30390	Patton Helman	「どうする、やるか！？」	「What now, fight it!?」
+30390	Patton Helman	真剣	「どうする、やるか！？」	「What now, fight it!?」
 
-30391	Miracle Tor	「あのサイズのドラゴンが暴れ回れば、	「If a dragon that size rampages,
-30392	+	　ここはタダでは済むまいな」	　this place won't survive.」
+30391	Miracle Tor	基本	「あのサイズのドラゴンが暴れ回れば、	「If a dragon that size rampages,
+30392	+		　ここはタダでは済むまいな」	　this place won't survive.」
 
-30393	Rance	「仕方ないな……シーラ！	「No choice...... Sheila!
-30394	+	　今すぐシグマを目覚めさせろ！」	　Wake Sigma right now!」
+30393	Rance	怒り	「仕方ないな……シーラ！	「No choice...... Sheila!
+30394	+		　今すぐシグマを目覚めさせろ！」	　Wake Sigma right now!」
 
-30395	Sheila Helman	「い、今からですか？」	「R-right now?」
+30395	Sheila Helman	真剣	「い、今からですか？」	「R-right now?」
 
-30396	Kentou Kanami	「で、でも間に合うの！？」	「B-but will we make it!?」
+30396	Kentou Kanami	泣き	「で、でも間に合うの！？」	「B-but will we make it!?」
 
-30397	Rance	「奴に暴れられてここが崩落したら、	「If it rampages and the place collapses,
-30398	+	　どのみちシグマは生き埋めだ。急げ！」	　Sigma will be buried alive anyway. Hurry!」
+30397	Rance	怒り	「奴に暴れられてここが崩落したら、	「If it rampages and the place collapses,
+30398	+		　どのみちシグマは生き埋めだ。急げ！」	　Sigma will be buried alive anyway. Hurry!」
 
-30399	Sheila Helman	「は…………はいっ」	「Y...... Yes!」
+30399	Sheila Helman	真剣	「は…………はいっ」	「Y...... Yes!」
 
-30400	-	シーラは聖櫃に触れ、浮かび上がった画面を見ながら	Sheila touched the Sacred Ark and carefully followed the floating screen
-30401	+	慎重に手順を進めていった。	as she executed the steps.
+30400	-		シーラは聖櫃に触れ、浮かび上がった画面を見ながら	Sheila touched the Sacred Ark and carefully followed the floating screen
+30401	+		慎重に手順を進めていった。	as she executed the steps.
 
-30402	Sheila Helman	「っ…………！」	「......!」
+30402	Sheila Helman		「っ…………！」	「......!」
 
-30403	-	遺跡全体が、狂龍の突進で揺らぐ。	The entire ruin shook from the mad dragon's charge.
+30403	-		遺跡全体が、狂龍の突進で揺らぐ。	The entire ruin shook from the mad dragon's charge.
 
-30404	Miracle Tor	「……少々壁を増やしておくか。	「......I'll reinforce the walls a bit.
-30405	+	　あの勢いだと焼け石に水だろうがな」	　It probably won't be enough against that momentum though.」
+30404	Miracle Tor	基本	「……少々壁を増やしておくか。	「......I'll reinforce the walls a bit.
+30405	+		　あの勢いだと焼け石に水だろうがな」	　It probably won't be enough against that momentum though.」
 
-30406	Sheila Helman	「ロックシステム、第一から第三、解除……	「Releasing lock system one through three......
-30407	+	　魔力注入弁、20％から開放……」	　Opening mana injection valve from 20%......」
+30406	Sheila Helman	真剣	「ロックシステム、第一から第三、解除……	「Releasing lock system one through three......
+30407	+		　魔力注入弁、20％から開放……」	　Opening mana injection valve from 20%......」
 
-30408	-	遠くで、狂乱した龍の咆哮が響く。	In the distance, the frenzied dragon's roar echoed.
+30408	-		遠くで、狂乱した龍の咆哮が響く。	In the distance, the frenzied dragon's roar echoed.
 
-30409	Patton Helman	「……仕方ねえな。	「......Can't be helped.
-30410	+	　どうにか、ぶち当たって食い止めてみるか」	　I'll try to ram it and buy some time.」
+30409	Patton Helman		「……仕方ねえな。	「......Can't be helped.
+30410	+		　どうにか、ぶち当たって食い止めてみるか」	　I'll try to ram it and buy some time.」
 
-30411	Hunty Kalar	「……ドラゴン6匹分だよ？」	「......That's six dragons worth of power?」
+30411	Hunty Kalar	基本	「……ドラゴン6匹分だよ？」	「......That's six dragons worth of power?」
 
-30412	Patton Helman	「時間稼ぎ程度はやってみせるさ。	「I can at least stall it.
-30413	+	　妹に任せっぱなしじゃカッコがつかん」	　Can't let my little sister do everything.」
+30412	Patton Helman		「時間稼ぎ程度はやってみせるさ。	「I can at least stall it.
+30413	+		　妹に任せっぱなしじゃカッコがつかん」	　Can't let my little sister do everything.」
 
-30414	Sheila Helman	「命令系統、修正……初期化……	「Correcting command system...... Initializing......
-30415	+	　最終ロックシステム……解除……！」	　Releasing final lock system......!」
+30414	Sheila Helman	真剣	「命令系統、修正……初期化……	「Correcting command system...... Initializing......
+30415	+		　最終ロックシステム……解除……！」	　Releasing final lock system......!」
 
-30416	-	シーラは冷静に、最後の指令を入力し終えた。	Sheila calmly finished inputting the final command.
+30416	-		シーラは冷静に、最後の指令を入力し終えた。	Sheila calmly finished inputting the final command.
 
-30417	-	その途端、迷宮全体が揺れ始めた。	At that moment, the entire labyrinth began to shake violently.
+30417	-		その途端、迷宮全体が揺れ始めた。	At that moment, the entire labyrinth began to shake violently.
 
-30418	Sill Plain	「あっ、闘神さんが…………！」	「Ah, the Toushin is......!」
+30418	Sill Plain	慌て	「あっ、闘神さんが…………！」	「Ah, the Toushin is......!」
 
-30419	-	闘神が、動き始める。	The Toushin began to move.
+30419	-		闘神が、動き始める。	The Toushin began to move.
 
-30420	-	顔が、肩が、腰が、膝が。	Its face, shoulders, waist, knees.
-30421	+	600年の時を経て、大気を震わせて目覚め始める。	After 600 years, it awakened, shaking the very air.
+30420	-		顔が、肩が、腰が、膝が。	Its face, shoulders, waist, knees.
+30421	+		600年の時を経て、大気を震わせて目覚め始める。	After 600 years, it awakened, shaking the very air.
 
-30422	Toushin Sigma	「……………………」	「........................」
+30422	Toushin Sigma	基本	「……………………」	「........................」
 
-30423	-	そして、その眼に光が灯った、瞬間。	And the moment light returned to its eyes.
+30423	-		そして、その眼に光が灯った、瞬間。	And the moment light returned to its eyes.
 
-30424	Sill Plain	「きゃあああッ！？」	「Kyaaaaah!?」
+30424	Sill Plain	泣き	「きゃあああッ！？」	「Kyaaaaah!?」
 
-30425	-	六頭の龍が、壁を粉砕して姿を現した。	The six-headed dragon smashed through the wall and appeared.
+30425	-		六頭の龍が、壁を粉砕して姿を現した。	The six-headed dragon smashed through the wall and appeared.
 
-30426	Patton Helman	「ちっ、やるしかねぇか……！」	「Tch, guess we have to fight......!」
+30426	Patton Helman	叫び	「ちっ、やるしかねぇか……！」	「Tch, guess we have to fight......!」
 
-30427	Sheila Helman	「ッ……！　シグマ……助けて、お願い……！」	「......! Sigma...... Help us, please......!」
+30427	Sheila Helman	悲しみ	「ッ……！　シグマ……助けて、お願い……！」	「......! Sigma...... Help us, please......!」
 
-30428	Toushin Sigma	「――――命令受諾、戦闘開始！」	「――Command accepted. Battle start!」
+30428	Toushin Sigma	基本	「――――命令受諾、戦闘開始！」	「――Command accepted. Battle start!」
 
-30429	-	目覚めたシグマが、狂える奇形の龍に	The awakened Sigma fiercely tackled
-30430	+	猛然とタックルを浴びせた。	the frenzied deformed dragon.
+30429	-		目覚めたシグマが、狂える奇形の龍に	The awakened Sigma fiercely tackled
+30430	+		猛然とタックルを浴びせた。	the frenzied deformed dragon.
 
-30431	?	「キシュォァガァァァアアアアアア！！」	「Kishuoaaaagaaaaaaa!!!」
+30431	?		「キシュォァガァァァアアアアアア！！」	「Kishuoaaaagaaaaaaa!!!」
 
-30432	-	遮二無二食らいつき、押し込もうとするドラゴンに、	Against the dragon desperately biting and pushing,
-30433	+	闘神はまったく力負けせず、遺跡の壁を	the Toushin showed no signs of being overpowered,
-30434	+	いくつも突き破りながら奥へと押し込んでいく。	shoving it deeper while smashing through walls.
+30432	-		遮二無二食らいつき、押し込もうとするドラゴンに、	Against the dragon desperately biting and pushing,
+30433	+		闘神はまったく力負けせず、遺跡の壁を	the Toushin showed no signs of being overpowered,
+30434	+		いくつも突き破りながら奥へと押し込んでいく。	shoving it deeper while smashing through walls.
 
-30435	Patton Helman	「…………すげえな」	「............Amazing.」
+30435	Patton Helman		「…………すげえな」	「............Amazing.」
 
-30436	-	少々龍の牙が突き立ったところで、	Even when the dragon's fangs pierced it,
-30437	+	闘神の外面装甲を破ることはできない。	they couldn't break the Toushin's outer armor.
+30436	-		少々龍の牙が突き立ったところで、	Even when the dragon's fangs pierced it,
+30437	+		闘神の外面装甲を破ることはできない。	they couldn't break the Toushin's outer armor.
 
-30438	-	そのまま、拳を繰り返し叩き込み、	It kept pounding with its fists,
-30439	+	徐々にドラゴンの動きを鈍らせていく。	slowly dulling the dragon's movements.
+30438	-		そのまま、拳を繰り返し叩き込み、	It kept pounding with its fists,
+30439	+		徐々にドラゴンの動きを鈍らせていく。	slowly dulling the dragon's movements.
 
-30440	Toushin Sigma	「――――ごめんな。おやすみ」	「――Sorry. Good night.」
+30440	Toushin Sigma		「――――ごめんな。おやすみ」	「――Sorry. Good night.」
 
-30441	-	闘神の身体が旋回した。	The Toushin's body spun.
-30442	+	肩口の剣が竜巻のように回転し、	The blade on its shoulder spun like a tornado
-30443	+	ドラゴンの急所を切り裂いた。	and sliced the dragon's vital points.
+30441	-		闘神の身体が旋回した。	The Toushin's body spun.
+30442	+		肩口の剣が竜巻のように回転し、	The blade on its shoulder spun like a tornado
+30443	+		ドラゴンの急所を切り裂いた。	and sliced the dragon's vital points.
 
-30444	?	「グゴエギグガガガガガ、ッ…………！」	「Gugoegigagagaga......!」
+30444	?		「グゴエギグガガガガガ、ッ…………！」	「Gugoegigagagaga......!」
 
-30445	-	シグマの巨体が、返り血に濡れる。	Sigma's massive body was drenched in blood.
+30445	-		シグマの巨体が、返り血に濡れる。	Sigma's massive body was drenched in blood.
 
-30446	-	クレイジードラゴンは	The crazy dragon
-30447	+	それでもしばらくはもがいていたが……	struggled for a while longer but......
+30446	-		クレイジードラゴンは	The crazy dragon
+30447	+		それでもしばらくはもがいていたが……	struggled for a while longer but......
 
-30448	-	ある瞬間を境に、糸が切れたように倒れ伏した。	then suddenly collapsed as if its strings were cut.
+30448	-		ある瞬間を境に、糸が切れたように倒れ伏した。	then suddenly collapsed as if its strings were cut.
 
-30449	?	「ぉ…………お、っ…………シグ、マ……」	「O............ O...... Sigma......」
+30449	?		「ぉ…………お、っ…………シグ、マ……」	「O............ O...... Sigma......」
 
-30450	Toushin Sigma	「うん」	「Yeah.」
+30450	Toushin Sigma		「うん」	「Yeah.」
 
-30451	?	「ようやっと…………休める、か……」	「Finally............ I can rest......」
+30451	?		「ようやっと…………休める、か……」	「Finally............ I can rest......」
 
-30452	Toushin Sigma	「……うん」	「......Yeah.」
+30452	Toushin Sigma		「……うん」	「......Yeah.」
 
-30453	?	「……………………すまぬ」	「........................Sorry.」
+30453	?		「……………………すまぬ」	「........................Sorry.」
 
-30454	-	そのまま、600年の間、苦しみ狂いながら	And so, the dragons that had suffered madly for 600 years
-30455	+	番をしていた龍たちは、事切れた。	finally passed away.
+30454	-		そのまま、600年の間、苦しみ狂いながら	And so, the dragons that had suffered madly for 600 years
+30455	+		番をしていた龍たちは、事切れた。	finally passed away.
 
-30456	Toushin Sigma	「…………」	「............」
+30456	Toushin Sigma		「…………」	「............」
 
-30457	Sheila Helman	「闘神シグマ……ですね」	「Toushin Sigma...... correct?」
+30457	Sheila Helman	真剣	「闘神シグマ……ですね」	「Toushin Sigma...... correct?」
 
-30458	Toushin Sigma	「ん。あんたが……マスター？	「Nn. You're...... the Master?
-30459	+	　ルーンは？　蛮人達との戦争はどうなってるんだ？」	　Where's Rune? How's the war with the barbarians?」
+30458	Toushin Sigma	基本	「ん。あんたが……マスター？	「Nn. You're...... the Master?
+30459	+		　ルーンは？　蛮人達との戦争はどうなってるんだ？」	　Where's Rune? How's the war with the barbarians?」
 
-30460	Sheila Helman	「あ、ええと……」	「Ah, um......」
+30460	Sheila Helman	真剣	「あ、ええと……」	「Ah, um......」
 
-30461	Hunty Kalar	「やれやれ、そこからかい。	「Good grief, starting from there.
-30462	+	　ま、ずっと寝てたんだから当然か」	　Well, you've been asleep for 600 years, so it's natural.」
+30461	Hunty Kalar	呆れ	「やれやれ、そこからかい。	「Good grief, starting from there.
+30462	+		　ま、ずっと寝てたんだから当然か」	　Well, you've been asleep for 600 years, so it's natural.」
 
-30463	Toushin Sigma	「げっ！？　く、黒髪のカラー！	「Geh!? B-black hair Kalar!
-30464	+	　まさかこいつら蛮人……！？」	　Don't tell me these guys are barbarians......!?」
+30463	Toushin Sigma	基本	「げっ！？　く、黒髪のカラー！	「Geh!? B-black hair Kalar!
+30464	+		　まさかこいつら蛮人……！？」	　Don't tell me these guys are barbarians......!?」
 
-30465	-	素早くシグマが身構えるが、	Sigma quickly got into a fighting stance,
-30466	+	呆れたようにハンティは鉄の手で	but Hunty just scratched her head with her metal hand
-30467	+	頭を掻くだけだった。	in exasperation.
+30465	-		素早くシグマが身構えるが、	Sigma quickly got into a fighting stance,
+30466	+		呆れたようにハンティは鉄の手で	but Hunty just scratched her head with her metal hand
+30467	+		頭を掻くだけだった。	in exasperation.
 
-30468	Patton Helman	「お前……シグマに何したんだ？」	「What did you do to Sigma?」
+30468	Patton Helman		「お前……シグマに何したんだ？」	「What did you do to Sigma?」
 
-30469	Hunty Kalar	「まあ……大したこっちゃない。	「Well...... Nothing major.
-30470	+	　それより、もう引き上げでいいだろ？」	　Anyway, can we head back now?」
+30469	Hunty Kalar		「まあ……大したこっちゃない。	「Well...... Nothing major.
+30470	+		　それより、もう引き上げでいいだろ？」	　Anyway, can we head back now?」
 
-30471	Rance	「ん？　ああ。もらうもんはもらった。	「Hm? Yeah. We got what we came for.
-30472	+	　こんな所にもう用はない」	　No more reason to stay here.」
+30471	Rance		「ん？　ああ。もらうもんはもらった。	「Hm? Yeah. We got what we came for.
+30472	+		　こんな所にもう用はない」	　No more reason to stay here.」
 
-30473	Hunty Kalar	「じゃ、とりあえず引き上げよっかね。	「Then let's head back.
-30474	+	　道々、説明してやるよ」	　I'll explain on the way.」
+30473	Hunty Kalar		「じゃ、とりあえず引き上げよっかね。	「Then let's head back.
+30474	+		　道々、説明してやるよ」	　I'll explain on the way.」
 
-30475	Toushin Sigma	「あ、あぁ……	「A-ah......
-30476	+	　お前、そんなやつだっけ……？」	　Were you always like this......?」
+30475	Toushin Sigma		「あ、あぁ……	「A-ah......
+30476	+		　お前、そんなやつだっけ……？」	　Were you always like this......?」
 
-30477	Patton Helman~	（……どんなやつだったんだか）	(......What kind of person was she again?)
+30477	Patton Helman~	戸惑い	（……どんなやつだったんだか）	(......What kind of person was she again?)
 
-30478	-	一行は迷宮から脱出し、帰途に就いた。	The party escaped the labyrinth and began their journey home.
+30478	-		一行は迷宮から脱出し、帰途に就いた。	The party escaped the labyrinth and began their journey home.

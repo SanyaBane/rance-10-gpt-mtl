@@ -11,116 +11,116 @@
 * Crook Mofus	クルックー	Female
 * Miracle Tor	ミラクル	Female
 
-41447	Rance	「げぷっ……むぐ、がふ、がつがつ……！」	「Burp... Mgu, gah, crunch crunch...!」
+41447	Rance	怒り	「げぷっ……むぐ、がふ、がつがつ……！」	「Burp... Mgu, gah, crunch crunch...!」
 
-41448	-	ランスが、イカカレーの最後の一口を	Rance was forcing the last bite of squid curry
-41449	+	無理矢理口にねじ込もうとしていた。	into his mouth.
+41448	-		ランスが、イカカレーの最後の一口を	Rance was forcing the last bite of squid curry
+41449	+		無理矢理口にねじ込もうとしていた。	into his mouth.
 
-41450	Uesugi Kenshin	「ふむ……これは……	「Hmm... This is...
-41451	+	　美味しい……素晴らしいっ……！」	　Delicious... Wonderful...!」
+41450	Uesugi Kenshin	キラキラ	「ふむ……これは……	「Hmm... This is...
+41451	+		　美味しい……素晴らしいっ……！」	　Delicious... Wonderful...!」
 
-41452	-	謙信はひとつひとつの料理に感動しながら、	Kenshin ate with fierce speed,
-41453	+	猛烈な勢いで食べ続けていた。	moved by every single dish.
+41452	-		謙信はひとつひとつの料理に感動しながら、	Kenshin ate with fierce speed,
+41453	+		猛烈な勢いで食べ続けていた。	moved by every single dish.
 
-41454	Sill Plain	「はあ……す、すごい……さすが謙信さん……」	「Haa... Amazing... As expected of Kenshin...」
+41454	Sill Plain	慌て	「はあ……す、すごい……さすが謙信さん……」	「Haa... Amazing... As expected of Kenshin...」
 
-41455	Uesugi Kenshin	「いや……すごいのは、この料理を作った者です。	「No... The ones who made this food are amazing.
-41456	+	　愛の得意料理に勝るとも劣らない味と、	　The flavor rivals my beloved's cooking,
-41457	+	　この多彩な種類……食欲が衰えない」	　and this variety... My appetite won't fade.」
+41455	Uesugi Kenshin	キラキラ	「いや……すごいのは、この料理を作った者です。	「No... The ones who made this food are amazing.
+41456	+		　愛の得意料理に勝るとも劣らない味と、	　The flavor rivals my beloved's cooking,
+41457	+		　この多彩な種類……食欲が衰えない」	　and this variety... My appetite won't fade.」
 
-41458	Kentou Kanami	「お、衰えなさすぎだと思うけど……	「I think it's not fading too much...
-41459	+	　この一角の料理、全部食べちゃった……」	　You've already finished this whole section...」
+41458	Kentou Kanami	ジト目	「お、衰えなさすぎだと思うけど……	「I think it's not fading too much...
+41459	+		　この一角の料理、全部食べちゃった……」	　You've already finished this whole section...」
 
-41460	Sill Plain	「ええと、あとは……」	「Um, next is...」
+41460	Sill Plain	きょとん	「ええと、あとは……」	「Um, next is...」
 
-41461	Oda Kouhime	「ラ、ランス兄様、頑張ってください！	「R-Rance brother, do your best!
-41462	+	　それ、最後です！」	　That's the last one!」
+41461	Oda Kouhime	武装／焦り	「ラ、ランス兄様、頑張ってください！	「R-Rance brother, do your best!
+41462	+		　それ、最後です！」	　That's the last one!」
 
-41463	Rance	「ぐ、ぐむ、むぐぐぐぐ……！」	「Guh, gmu, mguuuu...!」
+41463	Rance	怒り	「ぐ、ぐむ、むぐぐぐぐ……！」	「Guh, gmu, mguuuu...!」
 
-41464	Sill Plain	「ランス様、お水飲みますか！？」	「Rance-sama, water!?」
+41464	Sill Plain	慌て	「ランス様、お水飲みますか！？」	「Rance-sama, water!?」
 
-41465	Rance	「………………！」	「............!」
+41465	Rance	驚き	「………………！」	「............!」
 
-41466	-	真っ赤になった顔が青くなり、	His bright red face turned blue,
-41467	+	ランスは思い切り首を振って	and Rance shook his head violently
-41468	+	シィルの差しだしたコップを拒絶した。	refusing the cup Sill offered.
+41466	-		真っ赤になった顔が青くなり、	His bright red face turned blue,
+41467	+		ランスは思い切り首を振って	and Rance shook his head violently
+41468	+		シィルの差しだしたコップを拒絶した。	refusing the cup Sill offered.
 
-41469	Rance	「む、むぐぐ……ぐ、が……んんんむむむーーー！」	「M-mgu... Gu-ga... Nnnnmmmuuuu!」
+41469	Rance	怒り	「む、むぐぐ……ぐ、が……んんんむむむーーー！」	「M-mgu... Gu-ga... Nnnnmmmuuuu!」
 
-41470	Sill Plain	「あっ！」	「Ah!」
+41470	Sill Plain	慌て	「あっ！」	「Ah!」
 
-41471	-	ガッとスプーンを口にねじ込み、強引に咀嚼する。	He shoved the spoon in and chewed forcefully.
-41472	+	口の中のものが半分程度になったところで、	When half was gone,
-41473	+	コップを奪い取り水で流し込む。	he snatched the cup and washed it down.
+41471	-		ガッとスプーンを口にねじ込み、強引に咀嚼する。	He shoved the spoon in and chewed forcefully.
+41472	+		口の中のものが半分程度になったところで、	When half was gone,
+41473	+		コップを奪い取り水で流し込む。	he snatched the cup and washed it down.
 
-41474	Rance	「ぐぷ、っ……はぁ、はあ……	「Gulp... Haa, haa...
-41475	+	　く、食ったぞ、どうだ！」	　I ate it! How's that!」
+41474	Rance	驚き	「ぐぷ、っ……はぁ、はあ……	「Gulp... Haa, haa...
+41475	+		　く、食ったぞ、どうだ！」	　I ate it! How's that!」
 
-41476	Galtia	「おーおー、頑張ったな。お疲れ」	「Ohh, you tried hard. Good job.」
+41476	Galtia	基本	「おーおー、頑張ったな。お疲れ」	「Ohh, you tried hard. Good job.」
 
-41477	Rance	「うっ…………」	「Ugh......」
+41477	Rance	驚き	「うっ…………」	「Ugh......」
 
-41478	-	ガルティアは既に、悠々と皿を空にしていた。	Galtia had already calmly emptied all his plates.
+41478	-		ガルティアは既に、悠々と皿を空にしていた。	Galtia had already calmly emptied all his plates.
 
-41479	Galtia	「引き分けだな。よし、第2戦だ」	「It's a draw. Alright, round 2.」
+41479	Galtia	基本	「引き分けだな。よし、第2戦だ」	「It's a draw. Alright, round 2.」
 
-41480	Rance	「なっ……！　ま、待て貴様！	「Wha...! W-wait, you!
-41481	+	　続きは後日で…………うっぷ」	　Let's do the rest another day... Urp.」
+41480	Rance	驚き	「なっ……！　ま、待て貴様！	「Wha...! W-wait, you!
+41481	+		　続きは後日で…………うっぷ」	　Let's do the rest another day... Urp.」
 
-41482	Galtia	「おいおい、そんなに待ってたら飢え死にしちまう。	「Hey, if we wait that long I'll starve.
-41483	+	　総料理長、もう三人前頼む」	　Head Chef, another three servings.」
+41482	Galtia	基本	「おいおい、そんなに待ってたら飢え死にしちまう。	「Hey, if we wait that long I'll starve.
+41483	+		　総料理長、もう三人前頼む」	　Head Chef, another three servings.」
 
-41484	Martina Curry	「…………はい、分かりました」	「............Yes, understood.」
+41484	Martina Curry		「…………はい、分かりました」	「............Yes, understood.」
 
-41485	Rance	「がっ……！」	「Gah...!」
+41485	Rance	怒り	「がっ……！」	「Gah...!」
 
-41486	Sill Plain	「ラ、ランス様、私、もうお腹いっぱいで……」	「R-Rance-sama, I'm already full...」
+41486	Sill Plain	泣き	「ラ、ランス様、私、もうお腹いっぱいで……」	「R-Rance-sama, I'm already full...」
 
-41487	Kentou Kanami	「わ、私も……もう、だめ……」	「M-me too... I can't...」
+41487	Kentou Kanami	混乱	「わ、私も……もう、だめ……」	「M-me too... I can't...」
 
-41488	Rance	「ええい、気合いを入れろ！	「Damn it, get motivated!
-41489	+	　強引に腹にねじ込むんだ！」	　Force it into your stomach!」
+41488	Rance	怒り	「ええい、気合いを入れろ！	「Damn it, get motivated!
+41489	+		　強引に腹にねじ込むんだ！」	　Force it into your stomach!」
 
-41490	Satella	「う、うぶ……うっぷ……」	「U-ubu... Urp...」
+41490	Satella	あほー	「う、うぶ……うっぷ……」	「U-ubu... Urp...」
 
-41491	Caesar	「サテラ様、頑張ッテ……	「Satella-sama, do your beeeest...
-41492	+	　シーザー、食事デキナイ……」	　Caesar can't eeeat...」
+41491	Caesar	基本	「サテラ様、頑張ッテ……	「Satella-sama, do your beeeest...
+41492	+		　シーザー、食事デキナイ……」	　Caesar can't eeeat...」
 
-41493	Satella~	（シーザーにも飲み食いさせる機能を付ければ……	（If only I gave Caesar eating functions...
-41494	+	　ああ、そんな無駄なのだめだ……んぶ、げふ……）	　No, that's wasteful... Mbu, gefu...）
+41493	Satella~	ぐぬぬ	（シーザーにも飲み食いさせる機能を付ければ……	（If only I gave Caesar eating functions...
+41494	+		　ああ、そんな無駄なのだめだ……んぶ、げふ……）	　No, that's wasteful... Mbu, gefu...）
 
-41495	Crook Mofus	「…………ミラクルさん。	「............Miracle-san.
-41496	+	　この前の消化薬は…………」	　The digestive medicine from before...」
+41495	Crook Mofus	基本	「…………ミラクルさん。	「............Miracle-san.
+41496	+		　この前の消化薬は…………」	　The digestive medicine from before...」
 
-41497	Miracle Tor	「在庫切れだ。	「Out of stock.
-41498	+	　腹ごなしの魔法は……」	　The magic for digestion...」
+41497	Miracle Tor		「在庫切れだ。	「Out of stock.
+41498	+		　腹ごなしの魔法は……」	　The magic for digestion...」
 
-41499	Crook Mofus	「胃腸の調子を整えるだけですから」	「It only settles the stomach.」
+41499	Crook Mofus		「胃腸の調子を整えるだけですから」	「It only settles the stomach.」
 
-41500	Miracle Tor	「……そうだったな。	「...That's right.
-41501	+	　ふっ、ふふふふ、それにしてもあのガルティア。	　Fufu, that Galtia though.
-41502	+	　明らかに物理的な許容限界を凌駕しているな」	　Clearly surpassing physical limits.」
+41500	Miracle Tor	目閉じ	「……そうだったな。	「...That's right.
+41501	+		　ふっ、ふふふふ、それにしてもあのガルティア。	　Fufu, that Galtia though.
+41502	+		　明らかに物理的な許容限界を凌駕しているな」	　Clearly surpassing physical limits.」
 
-41503	Crook Mofus	「そうですね。魔人とは言え……」	「Indeed. Even for a Fiend...」
+41503	Crook Mofus	基本	「そうですね。魔人とは言え……」	「Indeed. Even for a Fiend...」
 
-41504	Miracle Tor	「名付けるのならばハングリー・バーサーカー……	「If I were to name him, Hungry Berserker...
-41505	+	　いや、エンドレスイーターも捨てがたい……」	　No, Endless Eater is also good...」
+41504	Miracle Tor	嘲笑	「名付けるのならばハングリー・バーサーカー……	「If I were to name him, Hungry Berserker...
+41505	+		　いや、エンドレスイーターも捨てがたい……」	　No, Endless Eater is also good...」
 
-41506	Crook Mofus	「……………………」	「........................」
+41506	Crook Mofus	基本	「……………………」	「........................」
 
-41507	-	そうこうする内に、ワゴンがやってくる。	Meanwhile, more wagons arrived.
+41507	-		そうこうする内に、ワゴンがやってくる。	Meanwhile, more wagons arrived.
 
-41508	-	車輪の音が、処刑の予告をするかのように	The sound of wheels rang like an execution announcement
-41509	+	多重奏を響かせた。	in a cacophony.
+41508	-		車輪の音が、処刑の予告をするかのように	The sound of wheels rang like an execution announcement
+41509	+		多重奏を響かせた。	in a cacophony.
 
-41510	Galtia	「おっ、来た来た。	「Oh, here they come.
-41511	+	　制限時間はさっきと同じでいいよな」	　Same time limit as before, right?」
+41510	Galtia		「おっ、来た来た。	「Oh, here they come.
+41511	+		　制限時間はさっきと同じでいいよな」	　Same time limit as before, right?」
 
-41512	Martina Curry	「お待たせしました……！」	「Sorry for the wait...!」
+41512	Martina Curry		「お待たせしました……！」	「Sorry for the wait...!」
 
-41513	Rance	「これっぽっちも待っとらんわ！	「We didn't wait at all!
-41514	+	　ええい、こうなりゃヤケだ！」	　Screw it, all or nothing!」
+41513	Rance	怒り	「これっぽっちも待っとらんわ！	「We didn't wait at all!
+41514	+		　ええい、こうなりゃヤケだ！」	　Screw it, all or nothing!」
 
-41515	-	再び積み上げられた料理の包囲網に、	Rance dove at the newly piled mountain of food
-41516	+	ランスは飛びかかるようにして食らいついた。	like a wild animal.
+41515	-		再び積み上げられた料理の包囲網に、	Rance dove at the newly piled mountain of food
+41516	+		ランスは飛びかかるようにして食らいついた。	like a wild animal.

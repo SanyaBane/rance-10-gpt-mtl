@@ -5,119 +5,119 @@
 * Feliss	フェリス	Female
 * Sachiko Centers	サチコ	Female
 
-66850	-	暗く入り組んだ回廊を、ランス達は進んでいく。	Rance and the others advanced through the dark, winding corridor.
+66850	-		暗く入り組んだ回廊を、ランス達は進んでいく。	Rance and the others advanced through the dark, winding corridor.
 
-66851	Kentou Kanami	「ランス。ごめん、この先行き止まりだわ」	「Rance. Sorry, it's a dead end ahead.」
+66851	Kentou Kanami	基本	「ランス。ごめん、この先行き止まりだわ」	「Rance. Sorry, it's a dead end ahead.」
 
-66852	Rance	「なんだと、またか？」	「What, again?」
+66852	Rance	だる顔	「なんだと、またか？」	「What, again?」
 
-66853	Sill Plain	「意外と入り組んでますね……」	「It's more complicated than expected...」
+66853	Sill Plain	泣き	「意外と入り組んでますね……」	「It's more complicated than expected...」
 
-66854	Rance	「仕方ない。道案内を呼ぶか」	「Can't be helped. Time to call a guide.」
+66854	Rance	だる顔	「仕方ない。道案内を呼ぶか」	「Can't be helped. Time to call a guide.」
 
-66855	Kentou Kanami	「え？」	「Eh?」
+66855	Kentou Kanami	基本	「え？」	「Eh?」
 
-66856	Rance	「カモンフェリス！　フェリーーーーース！！」	「Come on Feliss! Feliiiiis!!」
+66856	Rance	笑顔	「カモンフェリス！　フェリーーーーース！！」	「Come on Feliss! Feliiiiis!!」
 
-66857	Feliss	「はいはい、呼んだ……？　って、げ……」	「Yes yes, you called...? Wait, geh...」
+66857	Feliss	不機嫌	「はいはい、呼んだ……？　って、げ……」	「Yes yes, you called...? Wait, geh...」
 
-66858	Rance	「うむ、呼んだ呼んだ。案内せい」	「Yeah, I called. Guide us.」
+66858	Rance	基本	「うむ、呼んだ呼んだ。案内せい」	「Yeah, I called. Guide us.」
 
-66859	Feliss	「だ、だからなんでここで呼ぶのよ！	「T-that's why I told you not to call me here!
-66860	+	　あ、悪魔からも指名手配されてるのよ！」	　I'm wanted by the demons too!」
+66859	Feliss		「だ、だからなんでここで呼ぶのよ！	「T-that's why I told you not to call me here!
+66860	+		　あ、悪魔からも指名手配されてるのよ！」	　I'm wanted by the demons too!」
 
-66861	Rance	「だーいじょうぶだ。	「It's fiiine.
-66862	+	　見つかったらその時は俺様が守ってやろう」	　If they find you, I'll protect you then.」
+66861	Rance		「だーいじょうぶだ。	「It's fiiine.
+66862	+		　見つかったらその時は俺様が守ってやろう」	　If they find you, I'll protect you then.」
 
-66863	Feliss	「え、えぇーーーー……」	「E-eeeeh......」
+66863	Feliss		「え、えぇーーーー……」	「E-eeeeh......」
 
-66864	-	フェリスは思い切り疑わしそうな目でランスを見た。	Feliss looked at Rance with extreme suspicion.
+66864	-		フェリスは思い切り疑わしそうな目でランスを見た。	Feliss looked at Rance with extreme suspicion.
 
-66865	Rance	「いいから案内しろ！	「Just guide us already!
-66866	+	　さっさとご主人様をお連れしろ！」	　Hurry up and lead your master!」
+66865	Rance	怒り	「いいから案内しろ！	「Just guide us already!
+66866	+		　さっさとご主人様をお連れしろ！」	　Hurry up and lead your master!」
 
-66867	Feliss	「はいはい……	「Yes yes...
-66868	+	　やればいいんでしょ、やれば……もう……」	　I just have to do it, right... geez...」
+66867	Feliss	不機嫌	「はいはい……	「Yes yes...
+66868	+		　やればいいんでしょ、やれば……もう……」	　I just have to do it, right... geez...」
 
-66869	-	溜息をひとつ吐き出して、	Letting out a sigh,
-66870	+	フェリスは周囲を見回した。	Feliss looked around.
+66869	-		溜息をひとつ吐き出して、	Letting out a sigh,
+66870	+		フェリスは周囲を見回した。	Feliss looked around.
 
-66871	Feliss	「ええっと……ここがあそこで、こっちが……	「Umm... here is there, this way is...
-66872	+	　うん、まあいけると思う……かな」	　Yeah, I think it's doable... maybe.」
+66871	Feliss	基本	「ええっと……ここがあそこで、こっちが……	「Umm... here is there, this way is...
+66872	+		　うん、まあいけると思う……かな」	　Yeah, I think it's doable... maybe.」
 
-66873	Rance	「よしよし。俺様をゴールデンハニーの所まで	「Good good. Guide me to Golden Hanny's place.」
-66874	+	　案内するのだ」	
+66873	Rance		「よしよし。俺様をゴールデンハニーの所まで	「Good good. Guide me to Golden Hanny's place.」
+66874	+		　案内するのだ」	
 
-66875	Feliss	「ゴールデンハニーね、はいはい……んん……？」	「Golden Hanny, yes yes... hmm...?」
+66875	Feliss		「ゴールデンハニーね、はいはい……んん……？」	「Golden Hanny, yes yes... hmm...?」
 
-66876	-	ふいに、フェリスは落ち着かなさげに眉をひそめた。	Suddenly, Feliss frowned uneasily.
+66876	-		ふいに、フェリスは落ち着かなさげに眉をひそめた。	Suddenly, Feliss frowned uneasily.
 
-66877	Feliss	「何これ……なんか、今日は変な空気……	「What is this... the air feels weird today...
-66878	+	　久しぶりに来たから……でもないでしょうに……」	　Maybe because I haven't been here in a while... but it doesn't feel like that...」
+66877	Feliss		「何これ……なんか、今日は変な空気……	「What is this... the air feels weird today...
+66878	+		　久しぶりに来たから……でもないでしょうに……」	　Maybe because I haven't been here in a while... but it doesn't feel like that...」
 
-66879	Rance	「ん？　そうか？」	「Hm? Really?」
+66879	Rance		「ん？　そうか？」	「Hm? Really?」
 
-66880	Sachiko Centers	「あー、ネプラカスっていう悪魔が通るって	「Ah, that demon called Neplacus is passing through
-66881	+	　言ってましたけど……関係あります？」	　they said... does it have something to do with that?」
+66880	Sachiko Centers		「あー、ネプラカスっていう悪魔が通るって	「Ah, that demon called Neplacus is passing through
+66881	+		　言ってましたけど……関係あります？」	　they said... does it have something to do with that?」
 
-66882	Feliss	「ええっ！？」	「Eeeeh!?」
+66882	Feliss		「ええっ！？」	「Eeeeh!?」
 
-66883	-	フェリスは慄然として、立ち尽くした。	Feliss froze in terror.
+66883	-		フェリスは慄然として、立ち尽くした。	Feliss froze in terror.
 
-66884	Feliss	「ネプラ……カス……？」	「Nepla... kus...?」
+66884	Feliss		「ネプラ……カス……？」	「Nepla... kus...?」
 
-66885	Sill Plain	「ど、どうかしたんですか？	「W-what's wrong?
-66886	+	　ご存じの方だったり……？」	　Do you know him...?」
+66885	Sill Plain		「ど、どうかしたんですか？	「W-what's wrong?
+66886	+		　ご存じの方だったり……？」	　Do you know him...?」
 
-66887	Feliss	「……絶対に……絶対に接触しちゃダメよ。	「...Absolutely... you must not make contact.
-66888	+	　私とかとは、まるで力が違う……第二級魔神よ」	　His power is on a completely different level from mine... He's a second-grade demon god.」
+66887	Feliss		「……絶対に……絶対に接触しちゃダメよ。	「...Absolutely... you must not make contact.
+66888	+		　私とかとは、まるで力が違う……第二級魔神よ」	　His power is on a completely different level from mine... He's a second-grade demon god.」
 
-66889	Rance	「……なんか、二流って感じで弱そうだが」	「...Sounds like second-rate and weak.」
+66889	Rance	真剣	「……なんか、二流って感じで弱そうだが」	「...Sounds like second-rate and weak.」
 
-66890	Feliss	「とんでもないわ。	「No way.
-66891	+	　人間が手出し出来る相手じゃないの」	　He's not someone humans can touch.」
+66890	Feliss	基本	「とんでもないわ。	「No way.
+66891	+		　人間が手出し出来る相手じゃないの」	　He's not someone humans can touch.」
 
-66892	Feliss	「私が一番階級高かった頃でも六階級だったし……	「Even when I was at my highest rank, I was only sixth grade...
-66893	+	　それより遙かに高いの。	　He's far higher than that.
-66894	?	　…………………………っ、それ、に……」	　........................and on top of that......」
+66892	Feliss		「私が一番階級高かった頃でも六階級だったし……	「Even when I was at my highest rank, I was only sixth grade...
+66893	+		　それより遙かに高いの。	　He's far higher than that.
+66894	?		　…………………………っ、それ、に……」	　........................and on top of that......」
 
-66895	-	蒼白になって語るフェリスの表情が、	Feliss's face, pale as she spoke,
-66896	+	何かに引っかかってこわばった。	stiffened as if caught on something.
+66895	-		蒼白になって語るフェリスの表情が、	Feliss's face, pale as she spoke,
+66896	+		何かに引っかかってこわばった。	stiffened as if caught on something.
 
-66897	Rance	「…………………………」	「........................」
+66897	Rance	真剣	「…………………………」	「........................」
 
-66898	-	ランスはひとつ、息を吐いた。	Rance let out a breath.
-66899	+	そして、震えるフェリスの手を取る。	Then he took the trembling Feliss's hand.
+66898	-		ランスはひとつ、息を吐いた。	Rance let out a breath.
+66899	+		そして、震えるフェリスの手を取る。	Then he took the trembling Feliss's hand.
 
-66900	Rance	「天使でも悪魔でも、大丈夫だ。守ってやる。	「Angel or demon, it's fine. I'll protect you.
-66901	+	　……お前は俺のおもちゃだからな。がはははは」	　...Because you're my toy. Gahahahaha.」
+66900	Rance	基本	「天使でも悪魔でも、大丈夫だ。守ってやる。	「Angel or demon, it's fine. I'll protect you.
+66901	+		　……お前は俺のおもちゃだからな。がはははは」	　...Because you're my toy. Gahahahaha.」
 
-66902	Feliss	「あ、ああああ……まさか、ネプラカスなんて……	「A-aaaaah... Neplacus of all beings...
-66903	+	　言って聞く人ならいいけどそんな訳ないし……」	　If he would listen it would be fine but that's impossible...」
+66902	Feliss		「あ、ああああ……まさか、ネプラカスなんて……	「A-aaaaah... Neplacus of all beings...
+66903	+		　言って聞く人ならいいけどそんな訳ないし……」	　If he would listen it would be fine but that's impossible...」
 
-66904	Rance	「んむ……き、聞いてない……」	「Nmu... I didn't hear that...」
+66904	Rance	だる顔	「んむ……き、聞いてない……」	「Nmu... I didn't hear that...」
 
-66905	Feliss	「ネ、ネプラカスには！　ネプラカスにだけは、	「N-Neplacus! You must never approach Neplacus!」
-66906	+	　近寄らないで！」	
+66905	Feliss	基本	「ネ、ネプラカスには！　ネプラカスにだけは、	「N-Neplacus! You must never approach Neplacus!」
+66906	+		　近寄らないで！」	
 
-66907	Rance	「……お、おう」	「...O-okay.」
+66907	Rance	真剣	「……お、おう」	「...O-okay.」
 
-66908	-	手を握られているのにも気づかずに、	Without noticing her hand was being held,
-66909	+	フェリスは見た事も無いような真剣さで	Feliss pressed Rance with unprecedented seriousness.
-66910	+	ランスに詰め寄った。	
+66908	-		手を握られているのにも気づかずに、	Without noticing her hand was being held,
+66909	+		フェリスは見た事も無いような真剣さで	Feliss pressed Rance with unprecedented seriousness.
+66910	+		ランスに詰め寄った。	
 
-66911	Feliss	「ホントに！　お願いだから……」	「Really! Please...」
+66911	Feliss	基本	「ホントに！　お願いだから……」	「Really! Please...」
 
-66912	Rance	「ええいやかましいわ！　さっさと先導しろ！」	「Shut up! Hurry up and lead the way!」
+66912	Rance	怒り	「ええいやかましいわ！　さっさと先導しろ！」	「Shut up! Hurry up and lead the way!」
 
-66913	Feliss	「あいたっ！　うう……」	「Ouch! Uu...」
+66913	Feliss	不機嫌	「あいたっ！　うう……」	「Ouch! Uu...」
 
-66914	-	フェリスを蹴り飛ばして前を歩かせ、	Rance kicked Feliss forward to make her walk ahead,
-66915	+	ランスは再び出発した。	and set off again.
+66914	-		フェリスを蹴り飛ばして前を歩かせ、	Rance kicked Feliss forward to make her walk ahead,
+66915	+		ランスは再び出発した。	and set off again.
 
-66916	Sachiko Centers	「スルーされちゃいましたね。	「It got completely ignored.
-66917	+	　ランスさんなりにカッコつけたのに」	　Even though Rance-san tried to look cool.」
+66916	Sachiko Centers	基本	「スルーされちゃいましたね。	「It got completely ignored.
+66917	+		　ランスさんなりにカッコつけたのに」	　Even though Rance-san tried to look cool.」
 
-66918	Rance	「……………………」	「........................」
+66918	Rance	イライラ	「……………………」	「........................」
 
-66919	Sachiko Centers	「あいたっ！」	「Ouch!」
+66919	Sachiko Centers	痛い	「あいたっ！」	「Ouch!」

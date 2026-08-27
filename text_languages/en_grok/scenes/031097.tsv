@@ -4,74 +4,74 @@
 * Monster Captain	汎用魔物隊長	Male
 * Hanny	汎用ハニー	Male
 
-50446	Hanny	「ほあああああああ！　ゆけ、ゆけーーー！」	「Hoaaaaaaa! Go, go---!」
+50446	Hanny	基本	「ほあああああああ！　ゆけ、ゆけーーー！」	「Hoaaaaaaa! Go, go---!」
 
-50447	-	ハニーキングは、自らも前進しながら、	The Hanny King advanced himself
-50448	+	ハニー達をひたすらに鼓舞……というより扇動する。	while relentlessly encouraging... or rather inciting the Hannies.
+50447	-		ハニーキングは、自らも前進しながら、	The Hanny King advanced himself
+50448	+		ハニー達をひたすらに鼓舞……というより扇動する。	while relentlessly encouraging... or rather inciting the Hannies.
 
-50449	Monster Captain	「う、おおおおおおぉ！」	「U, ooooooh!」
+50449	Monster Captain		「う、おおおおおおぉ！」	「U, ooooooh!」
 
-50450	-	そのハニーの波を押し切り、一人の魔物隊長が	Cutting through the wave of Hannies, one monster captain
-50451	+	ハニーキングの眼前まで飛び込んだ。	leapt right in front of the Hanny King.
+50450	-		そのハニーの波を押し切り、一人の魔物隊長が	Cutting through the wave of Hannies, one monster captain
+50451	+		ハニーキングの眼前まで飛び込んだ。	leapt right in front of the Hanny King.
 
-50452	Hanny	「ほう、やるね。だけど……」	「Oh, not bad. But...」
+50452	Hanny		「ほう、やるね。だけど……」	「Oh, not bad. But...」
 
-50453	Monster Captain	「うっ……！　ぐ、がは……！」	「Ugh...! Gu, gaha...!」
+50453	Monster Captain		「うっ……！　ぐ、がは……！」	「Ugh...! Gu, gaha...!」
 
-50454	-	無造作なハニーフラッシュの一撃で、	With a casual Hanny Flash strike,
-50455	+	魔物隊長は膝をつく。	the monster captain fell to his knees.
+50454	-		無造作なハニーフラッシュの一撃で、	With a casual Hanny Flash strike,
+50455	+		魔物隊長は膝をつく。	the monster captain fell to his knees.
 
-50456	Hanny	「容赦はしないよ。さよならだ」	「I won't show mercy. Goodbye.」
+50456	Hanny		「容赦はしないよ。さよならだ」	「I won't show mercy. Goodbye.」
 
-50457	Monster Captain	「ぐ、ぅぅ……！　何故だ！	「Gu, uuu...! Why!
-50458	+	　何故このような、下劣な裏切りを……！」	　Why commit such a vile betrayal...!?」
+50457	Monster Captain		「ぐ、ぅぅ……！　何故だ！	「Gu, uuu...! Why!
+50458	+		　何故このような、下劣な裏切りを……！」	　Why commit such a vile betrayal...!?」
 
-50459	Hanny	「………………裏切り？　下劣？　何故、だって？」	「............Betrayal? Vile? 'Why', you ask?」
+50459	Hanny		「………………裏切り？　下劣？　何故、だって？」	「............Betrayal? Vile? 'Why', you ask?」
 
-50460	-	ぴたりと、ハニーキングの動きが止まる。	The Hanny King froze dead in his tracks.
+50460	-		ぴたりと、ハニーキングの動きが止まる。	The Hanny King froze dead in his tracks.
 
-50461	Hanny	「それはね…………	「That's............
-50462	?	こっちが言いたいよ！」	what I should be asking you!」
+50461	Hanny		「それはね…………	「That's............
+50462	?		こっちが言いたいよ！」	what I should be asking you!」
 
-50463	Monster Captain	「ひっ！？」	「Hyeek!?」
+50463	Monster Captain		「ひっ！？」	「Hyeek!?」
 
-50464	Hanny	「これ！　これ、どういうこと！？」	「Look at this! What the hell is this supposed to mean!?」
+50464	Hanny		「これ！　これ、どういうこと！？」	「Look at this! What the hell is this supposed to mean!?」
 
-50465	-	ハニーキングが手にしているのは、数枚の写真。	Held in the Hanny King's hand were several photographs.
-50466	+	宴の折に側近から受け取った手紙の中に	They had been mixed in with the letter
-50467	+	混ざっていたものだった。	he received from his aide during the banquet.
+50465	-		ハニーキングが手にしているのは、数枚の写真。	Held in the Hanny King's hand were several photographs.
+50466	+		宴の折に側近から受け取った手紙の中に	They had been mixed in with the letter
+50467	+		混ざっていたものだった。	he received from his aide during the banquet.
 
-50468	Monster Captain	「それ……は……？」	「Th-Those... are......?」
+50468	Monster Captain		「それ……は……？」	「Th-Those... are......?」
 
-50469	-	写真に映っていたのは、死に瀕する少女の姿。	Captured in the photographs were young girls on the verge of death.
+50469	-		写真に映っていたのは、死に瀕する少女の姿。	Captured in the photographs were young girls on the verge of death.
 
-50470	-	存命であった頃のメディウサが執拗に繰り返した、	Photos documenting Medusa's relentless habit, back when she still lived,
-50471	+	女性を嬲り殺す様を撮った写真だった。	of torturing women to death for her own amusement.
+50470	-		存命であった頃のメディウサが執拗に繰り返した、	Photos documenting Medusa's relentless habit, back when she still lived,
+50471	+		女性を嬲り殺す様を撮った写真だった。	of torturing women to death for her own amusement.
 
-50472	Monster Captain	「…………これが……何だと……？」	「............What is... this...?」
+50472	Monster Captain		「…………これが……何だと……？」	「............What is... this...?」
 
-50473	Hanny	「こんな、こんな……殺戮ではないか！	「This, this... is slaughter!
-50474	+	　女の子にこんな事をしてはいかーーーーーん！！」	　You can't do this to girls---!!」
+50473	Hanny		「こんな、こんな……殺戮ではないか！	「This, this... is slaughter!
+50474	+		　女の子にこんな事をしてはいかーーーーーん！！」	　You can't do this to girls---!!」
 
-50475	Hanny	「ツォトン君が、一緒に人間をいじめて可愛がろう	「Zedong said we'd bully and pamper humans together,
-50476	+	　というから戦争で遊ぶのに乗ったんじゃないか！」	　that's why I joined the war for fun!」
+50475	Hanny		「ツォトン君が、一緒に人間をいじめて可愛がろう	「Zedong said we'd bully and pamper humans together,
+50476	+		　というから戦争で遊ぶのに乗ったんじゃないか！」	　that's why I joined the war for fun!」
 
-50477	Monster Captain	「え…………え？	「Eh............ Eh?
-50478	+	　いや、ハニーも人間に敵対しているのだろう？」	　Aren't the Hanny also hostile to humans?」
+50477	Monster Captain		「え…………え？	「Eh............ Eh?
+50478	+		　いや、ハニーも人間に敵対しているのだろう？」	　Aren't the Hanny also hostile to humans?」
 
-50479	Hanny	「ばっかもーーーーーーーーーーーーん！！」	「You idiiooooot!!!」
+50479	Hanny		「ばっかもーーーーーーーーーーーーん！！」	「You idiiooooot!!!」
 
-50480	Monster Captain	「ぎゃああああああああ！！」	「Gyaaaaaaa!!!」
+50480	Monster Captain		「ぎゃああああああああ！！」	「Gyaaaaaaa!!!」
 
-50481	-	魔物隊長は星になった。	The monster captain became a star.
+50481	-		魔物隊長は星になった。	The monster captain became a star.
 
-50482	Hanny	「私たちは楽しく仲良く、	「We want to have fun together,
-50483	+	　ちょっぴり女の子を不幸にしながら	　making girls a little unhappy,
-50484	+	　喧嘩して遊びたいのだ。グロはNG」	　and play at fighting. Gore is NG.」
+50482	Hanny		「私たちは楽しく仲良く、	「We want to have fun together,
+50483	+		　ちょっぴり女の子を不幸にしながら	　making girls a little unhappy,
+50484	+		　喧嘩して遊びたいのだ。グロはNG」	　and play at fighting. Gore is NG.」
 
-50485	Hanny	「さあゆくぞ皆の者！　奴らを殲滅するのだ！	「Everyone, let's go! Annihilate them!
-50486	+	　本気でやっちゃっていいよ！」	　You can go all out!」
+50485	Hanny		「さあゆくぞ皆の者！　奴らを殲滅するのだ！	「Everyone, let's go! Annihilate them!
+50486	+		　本気でやっちゃっていいよ！」	　You can go all out!」
 
-50487	Hanny	「「「「あいやーーーーーーっ！！」」」」	「「「「Aiyaaaaa!!!」
+50487	Hanny		「「「「あいやーーーーーーっ！！」」」」	「「「「Aiyaaaaa!!!」
 
-50488	-	ハニー達の行進は、止まらない。	The Hanny march did not stop.
+50488	-		ハニー達の行進は、止まらない。	The Hanny march did not stop.

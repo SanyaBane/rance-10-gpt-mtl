@@ -4,113 +4,113 @@
 * Nagi su Ragarl	ナギ２	Female
 * Nagata-kun	長田君２	Male
 
-214689	Reset Kalar	「うーん、当日のアリバイ調査は	「Hmm, I think that's about it for alibis on the day.」
-214690	+	　こんなところかな？」	
+214689	Reset Kalar	名探偵	「うーん、当日のアリバイ調査は	「Hmm, I think that's about it for alibis on the day.」
+214690	+		　こんなところかな？」	
 
-214691	Reset Kalar	「これによると、事件当夜、	「According to this, on the night of the incident,
-214692	+	　魔王ランスの襲撃により、	　due to Demon King Rance's attack,
-214693	+	　宿屋内は極端に人がいなかった」	　the inn was extremely empty.」
+214691	Reset Kalar		「これによると、事件当夜、	「According to this, on the night of the incident,
+214692	+		　魔王ランスの襲撃により、	　due to Demon King Rance's attack,
+214693	+		　宿屋内は極端に人がいなかった」	　the inn was extremely empty.」
 
-214694	Reset Kalar	「犯行が可能だったのは……	「The ones who could have committed the crime were...
-214695	+	　＜エール＞ちゃんの仲間の面々、	　＜エール＞-chan's party members,
-214696	+	　それから志津香さん、ナギちゃん」	　and then Shizuka-san and Nagi-chan.」
+214694	Reset Kalar		「犯行が可能だったのは……	「The ones who could have committed the crime were...
+214695	+		　＜エール＞ちゃんの仲間の面々、	　＜エール＞-chan's party members,
+214696	+		　それから志津香さん、ナギちゃん」	　and then Shizuka-san and Nagi-chan.」
 
-214697	Reset Kalar	「…………」	「............」
+214697	Reset Kalar		「…………」	「............」
 
-214698	Masou Shizuka	「？　他は？」	「? Anyone else?」
+214698	Masou Shizuka	基本	「？　他は？」	「? Anyone else?」
 
-214699	Reset Kalar	「……これだけでした」	「...That was all.」
+214699	Reset Kalar	名探偵	「……これだけでした」	「...That was all.」
 
-214700	Nagi su Ragarl	「えっ！？」	「Eh!?」
+214700	Nagi su Ragarl	基本	「えっ！？」	「Eh!?」
 
-214701	Nagata-kun	「つ、つまり……	「I-In other words...
-214702	+	　この中に犯人が！？」	　the culprit is among us!?」
+214701	Nagata-kun		「つ、つまり……	「I-In other words...
+214702	+		　この中に犯人が！？」	　the culprit is among us!?」
 
-214703	Nagi su Ragarl	「長田君……自首すれば罪は軽くなるよ？」	「Nagata-kun... If you confess, your sentence will be lighter, you know?」
+214703	Nagi su Ragarl	反省	「長田君……自首すれば罪は軽くなるよ？」	「Nagata-kun... If you confess, your sentence will be lighter, you know?」
 
-214704	Nagata-kun	「いや、やってねぇっすよ！？」	「I didn't do it!」
+214704	Nagata-kun	基本	「いや、やってねぇっすよ！？」	「I didn't do it!」
 
-214705	Nagi su Ragarl	「って、冗談は置いといて。	「Just kidding.
-214706	+	　私達しか犯人になりえないってのは……	　The fact that only we could be the culprits is...
-214707	+	　ちょーっとまずいねぇ」	　a bit problematic.」
+214705	Nagi su Ragarl	不満	「って、冗談は置いといて。	「Just kidding.
+214706	+		　私達しか犯人になりえないってのは……	　The fact that only we could be the culprits is...
+214707	+		　ちょーっとまずいねぇ」	　a bit problematic.」
 
-214708	Nagi su Ragarl	「あ、宿の人は調べた？」	「Ah, did you check the inn staff?」
+214708	Nagi su Ragarl	基本	「あ、宿の人は調べた？」	「Ah, did you check the inn staff?」
 
-214709	Nagi su Ragarl	「支配人も警備員も	「Both the manager and the security guard
-214710	+	　宿屋のマスターキー持ってて、	　have the master key to the inn,
-214711	+	　どこにだって入り放題だし怪しくない？」	　so they can enter anywhere. Isn't that suspicious?」
+214709	Nagi su Ragarl		「支配人も警備員も	「Both the manager and the security guard
+214710	+		　宿屋のマスターキー持ってて、	　have the master key to the inn,
+214711	+		　どこにだって入り放題だし怪しくない？」	　so they can enter anywhere. Isn't that suspicious?」
 
-214712	Reset Kalar	「うん、ちゃんと調べたよ」	「Yes, I checked properly.」
+214712	Reset Kalar	名探偵	「うん、ちゃんと調べたよ」	「Yes, I checked properly.」
 
-214713	Reset Kalar	「宿のマスターキーを	「The ones holding the master key
-214714	+	　持ってるのは支配人と警備員の二人だけ」	　are only the manager and the security guard.」
+214713	Reset Kalar		「宿のマスターキーを	「The ones holding the master key
+214714	+		　持ってるのは支配人と警備員の二人だけ」	　are only the manager and the security guard.」
 
-214715	Reset Kalar	「ただ、支配人さんはその時間、	「However, the manager had an alibi at that time,
-214716	+	　仕事で会食の最中でずっと近くに人がいたって」	　he was in the middle of a business dinner with people nearby.」
+214715	Reset Kalar		「ただ、支配人さんはその時間、	「However, the manager had an alibi at that time,
+214716	+		　仕事で会食の最中でずっと近くに人がいたって」	　he was in the middle of a business dinner with people nearby.」
 
-214717	Reset Kalar	「警備員さんは事件当夜、避難誘導やらで忙しく	「The security guard was busy with evacuation guidance
-214718	+	　動き回っていたからアリバイのない時間も	　that night, so there are times without alibi,
-214719	+	　あるにはあるけど……」	　but...
+214717	Reset Kalar		「警備員さんは事件当夜、避難誘導やらで忙しく	「The security guard was busy with evacuation guidance
+214718	+		　動き回っていたからアリバイのない時間も	　that night, so there are times without alibi,
+214719	+		　あるにはあるけど……」	　but...
 
-214720	Reset Kalar	「すぐに宿屋を出たから、	「He left the inn quickly,
-214721	+	　盗みに入られた部屋全部はとても回れないって」	　so he couldn't have gone through all the robbed rooms.」
+214720	Reset Kalar		「すぐに宿屋を出たから、	「He left the inn quickly,
+214721	+		　盗みに入られた部屋全部はとても回れないって」	　so he couldn't have gone through all the robbed rooms.」
 
-214722	Nagi su Ragarl	「うーん、二人ともアリバイがあるかぁ……」	「Hmm, so both have alibis...」
+214722	Nagi su Ragarl	不満	「うーん、二人ともアリバイがあるかぁ……」	「Hmm, so both have alibis...」
 
-214723	Nagi su Ragarl	「じゃあ外部犯？」	「Then an outside culprit?」
+214723	Nagi su Ragarl		「じゃあ外部犯？」	「Then an outside culprit?」
 
-214724	Reset Kalar	「は、ちょっと考えにくいって」	「That's a bit hard to imagine.
+214724	Reset Kalar	名探偵	「は、ちょっと考えにくいって」	「That's a bit hard to imagine.
 
-214725	Reset Kalar	「魔王ランスの騒ぎでこの宿屋の周りは	　Due to the Demon King Rance commotion,
-214726	+	　都市警備隊が厳戒態勢を敷いていたから、	　the city guards had the area on high alert,
-214727	+	　人っ子一人入れなかったの」	　so not a single person could enter.」
+214725	Reset Kalar		「魔王ランスの騒ぎでこの宿屋の周りは	　Due to the Demon King Rance commotion,
+214726	+		　都市警備隊が厳戒態勢を敷いていたから、	　the city guards had the area on high alert,
+214727	+		　人っ子一人入れなかったの」	　so not a single person could enter.」
 
-214728	Nagi su Ragarl	「うむむむ……	「Umm...
-214729	+	　このままだと私達が犯人だねぇ……	　At this rate we'll be seen as the culprits...
-214730	+	　包囲網が狭まっていくねぇ」	　The net is closing in.」
+214728	Nagi su Ragarl	不満	「うむむむ……	「Umm...
+214729	+		　このままだと私達が犯人だねぇ……	　At this rate we'll be seen as the culprits...
+214730	+		　包囲網が狭まっていくねぇ」	　The net is closing in.」
 
-214731	Masou Shizuka	「アリバイがなくて犯行可能な奴、	「There's one more person without an alibi
-214732	+	　私、もう一人知ってるわよ」	　who could have done it.」
+214731	Masou Shizuka	基本	「アリバイがなくて犯行可能な奴、	「There's one more person without an alibi
+214732	+		　私、もう一人知ってるわよ」	　who could have done it.」
 
-214733	Nagata-kun	「マジすか！？」	「For real!?」
+214733	Nagata-kun		「マジすか！？」	「For real!?」
 
-214734	Masou Shizuka	「魔王ランス」	「Demon King Rance.」
+214734	Masou Shizuka		「魔王ランス」	「Demon King Rance.」
 
-214735	Nagi su Ragarl	「あ、それいい！	「Ah, that's good!
-214736	+	　ランスが犯人ってことにしよう！	　Let's make Rance the culprit!
-214737	+	　これでロッキー救えるよ！」	　That way we can save Rocky!」
+214735	Nagi su Ragarl	笑顔	「あ、それいい！	「Ah, that's good!
+214736	+		　ランスが犯人ってことにしよう！	　Let's make Rance the culprit!
+214737	+		　これでロッキー救えるよ！」	　That way we can save Rocky!」
 
-214738	Reset Kalar	「もう、駄目だよぉ。	「Come on, that's no good.
-214739	+	　お父さんが可哀想でしょ？」	　That would be sad for dad.」
+214738	Reset Kalar	名探偵	「もう、駄目だよぉ。	「Come on, that's no good.
+214739	+		　お父さんが可哀想でしょ？」	　That would be sad for dad.」
 
-214740	Nagi su Ragarl	「ん？　お父さん？」	「Hm? Dad?」
+214740	Nagi su Ragarl	からかい	「ん？　お父さん？」	「Hm? Dad?」
 
-214741	Reset Kalar	「あっ、こほんこほん！」	「Ah, cough cough!」
+214741	Reset Kalar	名探偵	「あっ、こほんこほん！」	「Ah, cough cough!」
 
-214742	Reset Kalar	「な、ナギちゃん達が犯人ではないかもって、	「W-Well, something that might show Nagi-chan and the others
-214743	+	　少し擁護できるかも知れないこととしては」	　might not be the culprits
+214742	Reset Kalar		「な、ナギちゃん達が犯人ではないかもって、	「W-Well, something that might show Nagi-chan and the others
+214743	+		　少し擁護できるかも知れないこととしては」	　might not be the culprits
 
-214744	Reset Kalar	「盗品がどこにも見つからないんだよねぇ」	　is that the stolen goods can't be found anywhere.」
+214744	Reset Kalar		「盗品がどこにも見つからないんだよねぇ」	　is that the stolen goods can't be found anywhere.」
 
-214745	Nagi su Ragarl	「ほほう？」	「Hmm?」
+214745	Nagi su Ragarl	基本	「ほほう？」	「Hmm?」
 
-214746	Reset Kalar	「宿屋内をくまなく探したけどどこにもないし、	「We searched the entire inn but found nothing,
-214747	+	　市場にも流れてなくて、	　and nothing has appeared in the market either,
-214748	+	　どこに行ったか分からないの」	　so we don't know where they went.」
+214746	Reset Kalar	名探偵	「宿屋内をくまなく探したけどどこにもないし、	「We searched the entire inn but found nothing,
+214747	+		　市場にも流れてなくて、	　and nothing has appeared in the market either,
+214748	+		　どこに行ったか分からないの」	　so we don't know where they went.」
 
-214749	Reset Kalar	「みんなが今日はまだ一度も	「Everyone here hasn't left the inn today,
-214750	+	　宿の外に出てないのは宿の人も確認してるけど、	　and the staff confirmed that,
-214751	+	　そうなると、盗品の行方が……」	　so the whereabouts of the stolen goods...」
+214749	Reset Kalar		「みんなが今日はまだ一度も	「Everyone here hasn't left the inn today,
+214750	+		　宿の外に出てないのは宿の人も確認してるけど、	　and the staff confirmed that,
+214751	+		　そうなると、盗品の行方が……」	　so the whereabouts of the stolen goods...」
 
-214752	Nagi su Ragarl	「うーん、よく分からんねえ……」	「Hmm, I don't really get it...」
+214752	Nagi su Ragarl	基本	「うーん、よく分からんねえ……」	「Hmm, I don't really get it...」
 
-214753	Masou Shizuka	「消えた盗品、ねぇ……」	「The missing stolen goods, huh...」
+214753	Masou Shizuka		「消えた盗品、ねぇ……」	「The missing stolen goods, huh...」
 
-214754	-	事件当夜、アリバイのない人間は極端に少なかった。	On the night of the incident, there were extremely few people without alibis.
-214755	+	手がかり『それぞれのアリバイ』を手に入れた。	Obtained clue 'Each Person's Alibi'.
+214754	-		事件当夜、アリバイのない人間は極端に少なかった。	On the night of the incident, there were extremely few people without alibis.
+214755	+		手がかり『それぞれのアリバイ』を手に入れた。	Obtained clue 'Each Person's Alibi'.
 
-214756	-	盗まれた品はロッキーの部屋の一点以外は、	Except for one item in Rocky's room, the stolen goods
-214757	+	宿屋内には見つからず、市場にも流れていない。	were not found inside the inn nor circulating in the market.
-214758	+	手がかり『消えた盗品』を手に入れた。	Obtained clue 'Missing Stolen Goods'.
+214756	-		盗まれた品はロッキーの部屋の一点以外は、	Except for one item in Rocky's room, the stolen goods
+214757	+		宿屋内には見つからず、市場にも流れていない。	were not found inside the inn nor circulating in the market.
+214758	+		手がかり『消えた盗品』を手に入れた。	Obtained clue 'Missing Stolen Goods'.
 
-214759	Reset Kalar	「よーし、次々ー」	「Alright, next next~」
+214759	Reset Kalar	名探偵	「よーし、次々ー」	「Alright, next next~」

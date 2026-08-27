@@ -8,125 +8,125 @@
 * Tokugawa Tone	深根２	Female
 * Masou Shizuka	志津香２	Female
 
-224523	-	質問の時間が終わると、	When the question time ended,
-224524	+	今度は雑談の時間となった。	it became casual chat time.
+224523	-		質問の時間が終わると、	When the question time ended,
+224524	+		今度は雑談の時間となった。	it became casual chat time.
 
-224525	-	今までどのような冒険をしたか	Miracle asked what kind of adventures you had so far,
-224526	+	聞かせるようミラクルに求められ、	and you explained simply but in various ways.
-224527	+	あなたは簡単にではあるがあれこれと説明していく。	
+224525	-		今までどのような冒険をしたか	Miracle asked what kind of adventures you had so far,
+224526	+		聞かせるようミラクルに求められ、	and you explained simply but in various ways.
+224527	+		あなたは簡単にではあるがあれこれと説明していく。	
 
-224528	-	ミラクルは知っている筈にも関わらず、	Even though Miracle should already know,
-224529	+	その一つ一つを面白そうに聞いていた。	he listened to each one with interest.
+224528	-		ミラクルは知っている筈にも関わらず、	Even though Miracle should already know,
+224529	+		その一つ一つを面白そうに聞いていた。	he listened to each one with interest.
 
-224530	-	また、逆にミラクルの冒険が	Conversely, Miracle's adventures
-224531	+	話題に上がることもあった。	also came up as topics.
+224530	-		また、逆にミラクルの冒険が	Conversely, Miracle's adventures
+224531	+		話題に上がることもあった。	also came up as topics.
 
-224532	-	その中にはあなたの父、	Among them were stories of your father,
-224533	+	ランスの人間時代の冒険譚もあり、	Rance's human era adventures,
-224534	+	あなた達はそれを興味深く聞いた。	which you all listened to with great interest.
+224532	-		その中にはあなたの父、	Among them were stories of your father,
+224533	+		ランスの人間時代の冒険譚もあり、	Rance's human era adventures,
+224534	+		あなた達はそれを興味深く聞いた。	which you all listened to with great interest.
 
-224535	-	しっとりと、時間が過ぎていく。	Time passed quietly and calmly.
+224535	-		しっとりと、時間が過ぎていく。	Time passed quietly and calmly.
 
-224536	-	色とりどりの賑やかなお菓子は気づけば姿を消し、	The colorful lively sweets had disappeared before anyone noticed,
-224537	+	あるのはそれぞれの客の前に	and all that remained was one cup of tea
-224538	+	紅茶が一杯ずつだけとなっていた。	in front of each guest.
+224536	-		色とりどりの賑やかなお菓子は気づけば姿を消し、	The colorful lively sweets had disappeared before anyone noticed,
+224537	+		あるのはそれぞれの客の前に	and all that remained was one cup of tea
+224538	+		紅茶が一杯ずつだけとなっていた。	in front of each guest.
 
-224539	Miracle Tor	「ふう……」	「Fuu...」
+224539	Miracle Tor	ライドオン／目閉じ	「ふう……」	「Fuu...」
 
-224540	Miracle Tor	「楽しいお茶会も、	「Even this enjoyable tea party
-224541	+	　そろそろお開きの時間とするべきだな……」	　should come to a close soon...」
+224540	Miracle Tor		「楽しいお茶会も、	「Even this enjoyable tea party
+224541	+		　そろそろお開きの時間とするべきだな……」	　should come to a close soon...」
 
-224542	Miracle Tor	「どうだった？	「How was it?
-224543	+	　余の用意したものは」	　What I prepared?」
+224542	Miracle Tor	ライドオン	「どうだった？	「How was it?
+224543	+		　余の用意したものは」	　What I prepared?」
 
-224544	El Mofus	「…………。」	「............」
-224545	Miracle Tor	「はっはっはっ、そうかそうか」	「Hah hah hah, I see, I see.」
+224544	El Mofus	基本	「…………。」	「............」
+224545	Miracle Tor	ライドオン／笑顔	「はっはっはっ、そうかそうか」	「Hah hah hah, I see, I see.」
 
-224546	-	ミラクルは本当に嬉しそうに笑っていた。	Miracle laughed with genuine happiness.
+224546	-		ミラクルは本当に嬉しそうに笑っていた。	Miracle laughed with genuine happiness.
 
-224547	Miracle Tor	「それでは、今宵はここで英気を養い、	「Then, rest here tonight to restore your energy,
-224548	+	　出発はまた明朝とするが良かろう」	　and depart again tomorrow morning.」
+224547	Miracle Tor	ライドオン	「それでは、今宵はここで英気を養い、	「Then, rest here tonight to restore your energy,
+224548	+		　出発はまた明朝とするが良かろう」	　and depart again tomorrow morning.」
 
-224549	Miracle Tor	「ふっ、ここには朝も夜もないがな」	「Fuh, though there is no morning or night here.」
+224549	Miracle Tor		「ふっ、ここには朝も夜もないがな」	「Fuh, though there is no morning or night here.」
 
-224550	Mix Tou	「はあ……ようやく自由になるのね……」	「Haa... finally becoming free...」
+224550	Mix Tou	基本	「はあ……ようやく自由になるのね……」	「Haa... finally becoming free...」
 
-224551	-	いつしか柱から下ろされたミックスが呟く。	Mix, who had been lowered from the pillar at some point, muttered.
-224552	+	その顔には疲労の色がありありと浮かんでいた。	Clear exhaustion showed on her face.
+224551	-		いつしか柱から下ろされたミックスが呟く。	Mix, who had been lowered from the pillar at some point, muttered.
+224552	+		その顔には疲労の色がありありと浮かんでいた。	Clear exhaustion showed on her face.
 
-224553	Miracle Tor	「ああ、そうそう。	「Ah, yes yes.
-224554	+	　＜エール＞・モフス」	　＜エール＞ Mofus.」
+224553	Miracle Tor	ライドオン	「ああ、そうそう。	「Ah, yes yes.
+224554	+		　＜エール＞・モフス」	　＜エール＞ Mofus.」
 
-224555	Miracle Tor	「我が娘、ミックスも仲間に入れてやってくれ」	「Let my daughter Mix join your group as well.」
+224555	Miracle Tor	ライドオン／目閉じ	「我が娘、ミックスも仲間に入れてやってくれ」	「Let my daughter Mix join your group as well.」
 
-224556	Mix Tou	「はあ！？」	「Haa!?」
+224556	Mix Tou	怒り	「はあ！？」	「Haa!?」
 
-224557	Mix Tou	「ちょ、なんでよ！？」	「Wait, why!?」
+224557	Mix Tou		「ちょ、なんでよ！？」	「Wait, why!?」
 
-224558	Mix Tou	「ていうか、なんであんたがそれを決めるのよ！」	「Besides, why are you the one deciding that!」
+224558	Mix Tou		「ていうか、なんであんたがそれを決めるのよ！」	「Besides, why are you the one deciding that!」
 
-224559	Miracle Tor	「不満でもあるのか？	「Do you have any complaints?
-224560	+	　これは余の判断だぞ？」	　This is my decision.」
+224559	Miracle Tor	ライドオン	「不満でもあるのか？	「Do you have any complaints?
+224560	+		　これは余の判断だぞ？」	　This is my decision.」
 
-224561	Mix Tou	「あんたの判断が世界で一番信用ならないわよ！」	「Your judgment is the least trustworthy in the world!」
+224561	Mix Tou	怒り	「あんたの判断が世界で一番信用ならないわよ！」	「Your judgment is the least trustworthy in the world!」
 
-224562	Miracle Tor	「ミックス」	「Mix.」
+224562	Miracle Tor	ライドオン	「ミックス」	「Mix.」
 
-224563	Miracle Tor	「余の名を言ってみろ」	「Say my name.」
+224563	Miracle Tor		「余の名を言ってみろ」	「Say my name.」
 
-224564	Mix Tou	「……ミラクル・トー」	「...Miracle Tor.」
+224564	Mix Tou	基本	「……ミラクル・トー」	「...Miracle Tor.」
 
-224565	Miracle Tor	「そうだ、余の名はミラクル・トー。	「That's right, my name is Miracle Tor.
-224566	+	　余のやることに間違いはない」	　There is no mistake in what I do.」
+224565	Miracle Tor	ライドオン／目閉じ	「そうだ、余の名はミラクル・トー。	「That's right, my name is Miracle Tor.
+224566	+		　余のやることに間違いはない」	　There is no mistake in what I do.」
 
-224567	Miracle Tor	「ふっ、もしもあるのなら、	「Fuh, if there is any mistake,
-224568	+	　それは世界の方が間違っているのだ」	　then it is the world that is wrong.」
+224567	Miracle Tor	ライドオン	「ふっ、もしもあるのなら、	「Fuh, if there is any mistake,
+224568	+		　それは世界の方が間違っているのだ」	　then it is the world that is wrong.」
 
-224569	Mix Tou	「…………」	「............」
+224569	Mix Tou	基本	「…………」	「............」
 
-224570	Mix Tou	「もう……反論する気も起きない……」	「Enough... I don't even feel like arguing anymore...」
+224570	Mix Tou	呆れ	「もう……反論する気も起きない……」	「Enough... I don't even feel like arguing anymore...」
 
-224571	-	ぺちゃりと、ミックスはその場に腰を下ろした。	Plop, Mix sat down right there.
+224571	-		ぺちゃりと、ミックスはその場に腰を下ろした。	Plop, Mix sat down right there.
 
-224572	Reset Kalar	「えーと、それじゃあ……	「Um, then...
-224573	+	　ミックスちゃんも来てくれる……	　Mix-chan will come with us too...
-224574	+	　で、いいのかな？」	　is that okay?」
+224572	Reset Kalar	基本	「えーと、それじゃあ……	「Um, then...
+224573	+		　ミックスちゃんも来てくれる……	　Mix-chan will come with us too...
+224574	+		　で、いいのかな？」	　is that okay?」
 
-224575	Mix Tou	「…………」	「............」
+224575	Mix Tou		「…………」	「............」
 
-224576	Mix Tou	「はあ……」	「Haa...」
+224576	Mix Tou	呆れ	「はあ……」	「Haa...」
 
-224577	Mix Tou	「反論しても面倒なだけだから……	「Arguing would just be a hassle...
-224578	+	　いいわよ、一緒に行くわよ……」	　Fine, I'll go with you...」
+224577	Mix Tou		「反論しても面倒なだけだから……	「Arguing would just be a hassle...
+224578	+		　いいわよ、一緒に行くわよ……」	　Fine, I'll go with you...」
 
-224579	Nagata-kun	「やったー！　よく分からん内に、	「Yay! Before I even understood what was happening,
-224580	+	　新しい仲間をゲーット！」	　we got a new companion!」
+224579	Nagata-kun	基本	「やったー！　よく分からん内に、	「Yay! Before I even understood what was happening,
+224580	+		　新しい仲間をゲーット！」	　we got a new companion!」
 
-224581	Nagata-kun	「って、喜んでいいのかな……	「Wait, is it okay to be happy...
-224582	+	　なんか今回はよく分からん……」	　I don't really get it this time...」
+224581	Nagata-kun		「って、喜んでいいのかな……	「Wait, is it okay to be happy...
+224582	+		　なんか今回はよく分からん……」	　I don't really get it this time...」
 
-224583	Miracle Tor	「はっはっはっ」	「Hah hah hah.」
+224583	Miracle Tor	ライドオン／笑顔	「はっはっはっ」	「Hah hah hah.」
 
-224584	Zance Leazas	「まあいい、とっとと寝ようぜ。	「Whatever, let's hurry up and sleep.
-224585	+	　俺ぁもう眠い」	　I'm already sleepy.」
+224584	Zance Leazas	基本	「まあいい、とっとと寝ようぜ。	「Whatever, let's hurry up and sleep.
+224585	+		　俺ぁもう眠い」	　I'm already sleepy.」
 
-224586	Reset Kalar	「それじゃあ、ミラクルさん。	「Well then, Miracle-san.
-224587	+	　ごちそうさまでした」	　Thank you for the meal.」
+224586	Reset Kalar		「それじゃあ、ミラクルさん。	「Well then, Miracle-san.
+224587	+		　ごちそうさまでした」	　Thank you for the meal.」
 
-224588	Tokugawa Tone	「すやすや……すやすや……」	「Suya suya... suya suya...」
+224588	Tokugawa Tone	スヤァ	「すやすや……すやすや……」	「Suya suya... suya suya...」
 
-224589	Masou Shizuka	「こら深根、せめてベッドまで起きてなさい」	「Hey Tone, at least stay awake until the bed.」
+224589	Masou Shizuka	帽子なし	「こら深根、せめてベッドまで起きてなさい」	「Hey Tone, at least stay awake until the bed.」
 
-224590	Miracle Tor	「待った。	「Wait.
-224591	+	　その前にもう一つ……」	　Before that, one more thing...」
+224590	Miracle Tor	ライドオン	「待った。	「Wait.
+224591	+		　その前にもう一つ……」	　Before that, one more thing...」
 
-224592	Nagata-kun	「へ？」	「Eh?」
+224592	Nagata-kun	基本	「へ？」	「Eh?」
 
-224593	-	全員の視線が自分に向き、	All eyes turned toward you,
-224594	+	注目を集められたことを確認すると、	and after confirming he had everyone's attention,
-224595	+	ミラクルは嬉しそうに頬を歪めた。	Miracle twisted his cheek happily.
+224593	-		全員の視線が自分に向き、	All eyes turned toward you,
+224594	+		注目を集められたことを確認すると、	and after confirming he had everyone's attention,
+224595	+		ミラクルは嬉しそうに頬を歪めた。	Miracle twisted his cheek happily.
 
-224596	Miracle Tor	「食後の運動が必要であろうな？」	「You need some exercise after the meal, right?」
+224596	Miracle Tor	ライドオン／嘲笑	「食後の運動が必要であろうな？」	「You need some exercise after the meal, right?」
 
-224597	Nagata-kun	「…………	「............
-224598	?	はい？」	Yes?」
+224597	Nagata-kun	基本	「…………	「............
+224598	?		はい？」	Yes?」

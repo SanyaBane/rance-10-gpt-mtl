@@ -6,79 +6,79 @@
 * Maria Custard	マリア	Female
 * Kentou Kanami	かなみ	Female
 
-66740	-	現在は魔軍の勢力圏内にある、悪魔回廊。	The Demon Corridor, currently within Monster Army territory.
-66741	+	その深い洞窟の入口に、ランス達はたどり着いた。	Rance and the others arrived at the deep cave entrance.
+66740	-		現在は魔軍の勢力圏内にある、悪魔回廊。	The Demon Corridor, currently within Monster Army territory.
+66741	+		その深い洞窟の入口に、ランス達はたどり着いた。	Rance and the others arrived at the deep cave entrance.
 
-66742	Rance	「ちっ、やっと着いたか。雑魚どもが鬱陶しい」	「Tch, finally here. Those small fry were annoying.」
+66742	Rance	だる顔	「ちっ、やっと着いたか。雑魚どもが鬱陶しい」	「Tch, finally here. Those small fry were annoying.」
 
-66743	Sill Plain	「もしかして、中にまで魔軍の方々がいたり……」	「Maybe there are Monster Army members inside too...」
+66743	Sill Plain	泣き	「もしかして、中にまで魔軍の方々がいたり……」	「Maybe there are Monster Army members inside too...」
 
-66744	Rance	「ぬっ、それは……」	「Hm, that...」
+66744	Rance	真剣	「ぬっ、それは……」	「Hm, that...」
 
-66745	Crook Mofus	「それはまず無いと思います。	「I don't think so.
-66746	+	　ほとんどの魔物より、悪魔のほうが強いですし、	　Demons are stronger than most monsters,
-66747	+	　攻めこんでも無益な場所ですから」	　and attacking here would be pointless for them.」
+66745	Crook Mofus	基本	「それはまず無いと思います。	「I don't think so.
+66746	+		　ほとんどの魔物より、悪魔のほうが強いですし、	　Demons are stronger than most monsters,
+66747	+		　攻めこんでも無益な場所ですから」	　and attacking here would be pointless for them.」
 
-66748	Rance	「そうか、よしよし。さっさと入るぞ」	「I see, good. Let's go in quickly.」
+66748	Rance		「そうか、よしよし。さっさと入るぞ」	「I see, good. Let's go in quickly.」
 
-66749	Sill Plain	「あれ……」	「Huh...」
+66749	Sill Plain	きょとん	「あれ……」	「Huh...」
 
-66750	-	洞窟の入口に立ちふさがった悪魔が、	The demon blocking the cave entrance
-66751	+	ランス達を見つけて慌てふためいていた。	saw Rance and the others and panicked.
+66750	-		洞窟の入口に立ちふさがった悪魔が、	The demon blocking the cave entrance
+66751	+		ランス達を見つけて慌てふためいていた。	saw Rance and the others and panicked.
 
-66752	Return Demon	「うええええ！？　自分、また来たん！？」	「Ueeeeh!? You came again!?」
+66752	Return Demon	基本	「うええええ！？　自分、また来たん！？」	「Ueeeeh!? You came again!?」
 
-66753	Rance	「おう、変態悪魔。どけ」	「Yeah, you perverted demon. Move.」
+66753	Rance		「おう、変態悪魔。どけ」	「Yeah, you perverted demon. Move.」
 
-66754	Return Demon	「あかんあかん。通されへん言うてるやろ？	「No no. I said you can't pass, right?
-66755	+	　今日はぜーったいあかんで」	　Today is absolutely no good.」
+66754	Return Demon		「あかんあかん。通されへん言うてるやろ？	「No no. I said you can't pass, right?
+66755	+		　今日はぜーったいあかんで」	　Today is absolutely no good.」
 
-66756	Rance	「ふん、またしばかれんと分からんらしいな。	「Hmph, seems you won't understand until I beat you again.
-66757	+	　あの転移魔法は効かないんだぞ？」	　That teleport magic won't work, you know?」
+66756	Rance	真剣	「ふん、またしばかれんと分からんらしいな。	「Hmph, seems you won't understand until I beat you again.
+66757	+		　あの転移魔法は効かないんだぞ？」	　That teleport magic won't work, you know?」
 
-66758	Return Demon	「俺かてゲンコツとか嫌やで。	「I don't like getting punched either.
-66759	+	　ただエロがちょぴっと好きなだけの、	　I'm just a peaceful old man who likes ero a tiny bit,
-66760	+	　平和主義おじさんやねん」	　that's all.」
+66758	Return Demon	基本	「俺かてゲンコツとか嫌やで。	「I don't like getting punched either.
+66759	+		　ただエロがちょぴっと好きなだけの、	　I'm just a peaceful old man who likes ero a tiny bit,
+66760	+		　平和主義おじさんやねん」	　that's all.」
 
-66761	Rance	「ならばさっさと尻尾巻いてエロ本読んでろ！」	「Then hurry up, tuck your tail and go read ero books!」
+66761	Rance	怒り	「ならばさっさと尻尾巻いてエロ本読んでろ！」	「Then hurry up, tuck your tail and go read ero books!」
 
-66762	Return Demon	「はあ……俺もそうしたいけどな。	「Haa... I want to do that too.
-66763	+	　もう、立ちっぱとかホンマしんどいわ。	　Standing guard all the time is really tiring.
-66764	+	　疲れマラ勃ちっぱなしやっちゅうねん」	　My tired dick is constantly hard.」
+66762	Return Demon	基本	「はあ……俺もそうしたいけどな。	「Haa... I want to do that too.
+66763	+		　もう、立ちっぱとかホンマしんどいわ。	　Standing guard all the time is really tiring.
+66764	+		　疲れマラ勃ちっぱなしやっちゅうねん」	　My tired dick is constantly hard.」
 
-66765	Rance	「そんな話はどうでもいい」	「I don't care about that.」
+66765	Rance	イライラ	「そんな話はどうでもいい」	「I don't care about that.」
 
-66766	Return Demon	「まあまあ、聞けや兄弟」	「Now now, listen bro.」
+66766	Return Demon	基本	「まあまあ、聞けや兄弟」	「Now now, listen bro.」
 
-66767	Rance	「誰が兄弟か」	「Who the hell is your bro.」
+66767	Rance	だる顔	「誰が兄弟か」	「Who the hell is your bro.」
 
-66768	Return Demon	「今なあ、ネプラカス様が通っとんのよ。	「Right now Lord Neplacus is passing through.
-66769	+	　見つかったらバラバラにされるで」	　If he finds you, you'll be torn to pieces.」
+66768	Return Demon	基本	「今なあ、ネプラカス様が通っとんのよ。	「Right now Lord Neplacus is passing through.
+66769	+		　見つかったらバラバラにされるで」	　If he finds you, you'll be torn to pieces.」
 
-66770	Rance	「はーん？　なんだそいつ。悪魔か」	「Hmm? Who's that. A demon?」
+66770	Rance	真剣	「はーん？　なんだそいつ。悪魔か」	「Hmm? Who's that. A demon?」
 
-66771	Return Demon	「ん、上位悪魔や。俺よりぜーんぜん上の階級でな、	「Yeah, a high-ranking demon. Way higher class than me,
-66772	+	　話とか通じひん。いなくなる明後日まで待ちぃや」	　you can't reason with him. Wait until the day after tomorrow when he's gone.」
+66771	Return Demon	基本	「ん、上位悪魔や。俺よりぜーんぜん上の階級でな、	「Yeah, a high-ranking demon. Way higher class than me,
+66772	+		　話とか通じひん。いなくなる明後日まで待ちぃや」	　you can't reason with him. Wait until the day after tomorrow when he's gone.」
 
-66773	Sill Plain	「リターンデーモンさんより……そこまで……」	「Even stronger than Return Demon-san...」
+66773	Sill Plain	恥	「リターンデーモンさんより……そこまで……」	「Even stronger than Return Demon-san...」
 
-66774	Maria Custard	「そういう事なら、今日でなくてもいいかもね。	「In that case, maybe we don't have to go today.
-66775	+	　一日や二日で、何が変わるわけでも……」	　Nothing will change in a day or two...」
+66774	Maria Custard	基本	「そういう事なら、今日でなくてもいいかもね。	「In that case, maybe we don't have to go today.
+66775	+		　一日や二日で、何が変わるわけでも……」	　Nothing will change in a day or two...」
 
-66776	Rance	「……ダメだ。今日でなくてはダメなのだ。	「...No. It has to be today.
-66777	+	　おい、もう一度言うぞ。通せ。でなければ殺す」	　Hey, I'll say it again. Let us through. Or I'll kill you.」
+66776	Rance	真剣	「……ダメだ。今日でなくてはダメなのだ。	「...No. It has to be today.
+66777	+		　おい、もう一度言うぞ。通せ。でなければ殺す」	　Hey, I'll say it again. Let us through. Or I'll kill you.」
 
-66778	Return Demon	「はぁ……しゃあないなあ……	「Haa... can't be helped...
-66779	+	　まあええわ、通りぃ」	　Fine, go through.」
+66778	Return Demon	基本	「はぁ……しゃあないなあ……	「Haa... can't be helped...
+66779	+		　まあええわ、通りぃ」	　Fine, go through.」
 
-66780	Kentou Kanami	「……いいの？」	「...Is it okay?」
+66780	Kentou Kanami		「……いいの？」	「...Is it okay?」
 
-66781	Return Demon	「俺はなーんも見てへんし。	「I didn't see anything.
-66782	+	　トイレタイムでティッシュしてる合間に、	　While I was taking a toilet break and using tissue,
-66783	+	　人間が勝手に入り込んでもーただけやもん」	　humans just snuck in on their own.」
+66781	Return Demon		「俺はなーんも見てへんし。	「I didn't see anything.
+66782	+		　トイレタイムでティッシュしてる合間に、	　While I was taking a toilet break and using tissue,
+66783	+		　人間が勝手に入り込んでもーただけやもん」	　humans just snuck in on their own.」
 
-66784	Kentou Kanami	「……ほんっと下品な……」	「...So vulgar...」
+66784	Kentou Kanami	ジト目	「……ほんっと下品な……」	「...So vulgar...」
 
-66785	Rance	「放っておけ。さっさと行くぞ」	「Ignore him. Let's go quickly.」
+66785	Rance	基本	「放っておけ。さっさと行くぞ」	「Ignore him. Let's go quickly.」
 
-66786	-	ランス一行は、悪魔回廊の奥へと足を踏み入れた。	Rance's group stepped into the depths of the Demon Corridor.
+66786	-		ランス一行は、悪魔回廊の奥へと足を踏み入れた。	Rance's group stepped into the depths of the Demon Corridor.

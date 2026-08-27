@@ -7,88 +7,88 @@
 * Satella	サテラ	Female
 * Caesar	シーザー	Male
 
-37109	Maria Custard	「船長さん！　こっち、いつでもいけるよ！	「Captain! We're ready over here!
-37110	+	　使うでしょ！？」	　We're using it, right!?」
+37109	Maria Custard	怒り	「船長さん！　こっち、いつでもいけるよ！	「Captain! We're ready over here!
+37110	+		　使うでしょ！？」	　We're using it, right!?」
 
-37111	-	船倉から、マリアが飛び出してきた。	Maria burst out from the hold.
+37111	-		船倉から、マリアが飛び出してきた。	Maria burst out from the hold.
 
-37112	Captain	「おお、もうなんでもいいからなんとかしてくれ！」	「Yeah, just do whatever it takes!」
+37112	Captain	汗	「おお、もうなんでもいいからなんとかしてくれ！」	「Yeah, just do whatever it takes!」
 
-37113	Maria Custard	「了解っ！　ヒララエンジン、出力全開……！」	「Got it! Hirara Engine, full power...!」
+37113	Maria Custard	まかせて	「了解っ！　ヒララエンジン、出力全開……！」	「Got it! Hirara Engine, full power...!」
 
-37114	Rance	「おぉぉっ！？」	「Ooooh!?」
+37114	Rance	驚き	「おぉぉっ！？」	「Ooooh!?」
 
-37115	-	もはや海滝を押し流されていくしかないと	Just when it seemed the Sunrise would be swept over the falls,
-37116	+	思われたサンライズ号が、	the ship
-37117	+	その流れに逆らって、ゆっくり動き出す。	began slowly moving against the current.
+37115	-		もはや海滝を押し流されていくしかないと	Just when it seemed the Sunrise would be swept over the falls,
+37116	+		思われたサンライズ号が、	the ship
+37117	+		その流れに逆らって、ゆっくり動き出す。	began slowly moving against the current.
 
-37118	Captain	「お、おおお、すげえ……！	「O-oooooh, amazing...!
-37119	+	　これなら、いけるか……！」	　We might make it...!」
+37118	Captain	基本	「お、おおお、すげえ……！	「O-oooooh, amazing...!
+37119	+		　これなら、いけるか……！」	　We might make it...!」
 
-37120	Miracle Tor	「ふむ、多少、風を強めれば変わるか」	「Hmm, strengthening the wind a bit should help.」
+37120	Miracle Tor		「ふむ、多少、風を強めれば変わるか」	「Hmm, strengthening the wind a bit should help.」
 
-37121	?	「お、おおぉっ！？　追い風来たあああ！？	「O-oooooh!? Tailwind! We have a tailwind!?」
-37122	+	　いけますぜ！」	　We can do this!」
+37121	?		「お、おおぉっ！？　追い風来たあああ！？	「O-oooooh!? Tailwind! We have a tailwind!?」
+37122	+		　いけますぜ！」	　We can do this!」
 
-37123	Kentou Kanami	「ランス！　サンセット号から、	「Rance! From the Sunset,
-37124	+	　キャンテルさんたちが飛んで来てる！」	　Cantel and the others are flying over!」
+37123	Kentou Kanami		「ランス！　サンセット号から、	「Rance! From the Sunset,
+37124	+		　キャンテルさんたちが飛んで来てる！」	　Cantel and the others are flying over!」
 
-37125	Satella	「シーザー、そこの錨を持ち上げろ！	「Caesar, lift that anchor!
-37126	+	　奴らに投げ渡して、船を引かせろ！」	　Throw it to them and have them pull us!」
+37125	Satella	怒り	「シーザー、そこの錨を持ち上げろ！	「Caesar, lift that anchor!
+37126	+		　奴らに投げ渡して、船を引かせろ！」	　Throw it to them and have them pull us!」
 
-37127	Caesar	「ハイ、サテラサマ！！」	「Yes, Satella-sama!!」
+37127	Caesar	基本	「ハイ、サテラサマ！！」	「Yes, Satella-sama!!」
 
-37128	-	…………	............
+37128	-		…………	............
 
-37129	-	……	......
+37129	-		……	......
 
-37130	Captain	「し、潮の流れが、戻った、か……	「Th-the current... it's easing...
-37131	+	　た、助かった…………」	　We're saved...」
+37130	Captain		「し、潮の流れが、戻った、か……	「Th-the current... it's easing...
+37131	+		　た、助かった…………」	　We're saved...」
 
-37132	Rance	「おー、何とかなったな」	「Oh, we managed somehow.」
+37132	Rance		「おー、何とかなったな」	「Oh, we managed somehow.」
 
-37133	Maria Custard	「……はぁ。あると思ったわ、こういう事……	「...Haa. I knew something like this would happen...
-37134	+	　ヒララエンジン、組み込んでおいて良かった……」	　Good thing I installed the Hirara Engine...」
+37133	Maria Custard	あかんわ	「……はぁ。あると思ったわ、こういう事……	「...Haa. I knew something like this would happen...
+37134	+		　ヒララエンジン、組み込んでおいて良かった……」	　Good thing I installed the Hirara Engine...」
 
-37135	Rance	「なんだ、そんなのがあったのか」	「Oh, so we had something like that.」
+37135	Rance	基本	「なんだ、そんなのがあったのか」	「Oh, so we had something like that.」
 
-37136	Maria Custard	「コパンドンさんに相談されて、一応ね。	「I talked with Copandon about it, just in case.
-37137	+	　スクリュー……まあいっか、とにかく	　Screw propeller... anyway,
-37138	+	　潮の流れとは関係なく進む補助動力よ」	　it's auxiliary power that works regardless of the current.」
+37136	Maria Custard		「コパンドンさんに相談されて、一応ね。	「I talked with Copandon about it, just in case.
+37137	+		　スクリュー……まあいっか、とにかく	　Screw propeller... anyway,
+37138	+		　潮の流れとは関係なく進む補助動力よ」	　it's auxiliary power that works regardless of the current.」
 
-37139	Rance	「なんだあの船長の野郎。	「What the hell, that captain.
-37140	+	　そんなのがあるのにグダグダ言いやがって」	　Complaining even though we had this.」
+37139	Rance	だる顔	「なんだあの船長の野郎。	「What the hell, that captain.
+37140	+		　そんなのがあるのにグダグダ言いやがって」	　Complaining even though we had this.」
 
-37141	Maria Custard	「あくまで補助だから。	「It's only auxiliary.
-37142	+	　それに、船長さんには扱えない装置だもの。	　Plus the captain can't operate it.
-37143	+	　仕方ないわよ」	　So it can't be helped.」
+37141	Maria Custard	基本	「あくまで補助だから。	「It's only auxiliary.
+37142	+		　それに、船長さんには扱えない装置だもの。	　Plus the captain can't operate it.
+37143	+		　仕方ないわよ」	　So it can't be helped.」
 
-37144	Rance	「ふん、そうか。	「Hmph, I see.
-37145	+	　……しかし、あの端っこから落ちると	　...But what happens if you fall from that edge?
-37146	+	　どうなるんだろうな」	　I wonder.」
+37144	Rance		「ふん、そうか。	「Hmph, I see.
+37145	+		　……しかし、あの端っこから落ちると	　...But what happens if you fall from that edge?
+37146	+		　どうなるんだろうな」	　I wonder.」
 
-37147	Maria Custard	「下に落ちるわね」	「You fall down.」
+37147	Maria Custard		「下に落ちるわね」	「You fall down.」
 
-37148	Rance	「下に落ちるとどうなるんだ」	「What happens when you fall down?」
+37148	Rance		「下に落ちるとどうなるんだ」	「What happens when you fall down?」
 
-37149	Maria Custard	「……試した人はいないわよ。	「...No one's ever come back to tell us.
-37150	+	　あ、試して帰ってきた人がいない、が正確かな」	　More precisely, no one who tried has returned.」
+37149	Maria Custard	あかんわ	「……試した人はいないわよ。	「...No one's ever come back to tell us.
+37150	+		　あ、試して帰ってきた人がいない、が正確かな」	　More precisely, no one who tried has returned.」
 
-37151	Captain	「こ、今度はそれを試す、なんて言わんだろうな……	「You're not gonna suggest trying that next, are you...
-37152	+	　もう殺されても付き合わんぞ」	　I won't go along even if you kill me.」
+37151	Captain	基本	「こ、今度はそれを試す、なんて言わんだろうな……	「You're not gonna suggest trying that next, are you...
+37152	+		　もう殺されても付き合わんぞ」	　I won't go along even if you kill me.」
 
-37153	Rance	「ちっ、根性無しめ」	「Tch, coward.」
+37153	Rance	真剣	「ちっ、根性無しめ」	「Tch, coward.」
 
-37154	Captain	「俺は度胸試しに雇われたわけじゃねえだろ！	「I wasn't hired to test my courage!
-37155	+	　目的はなんなんだ！」	　What's the actual goal!」
+37154	Captain	基本	「俺は度胸試しに雇われたわけじゃねえだろ！	「I wasn't hired to test my courage!
+37155	+		　目的はなんなんだ！」	　What's the actual goal!」
 
-37156	Maria Custard	「魔物界への侵入、よね。	「Invading the Monster Realm, right.
-37157	+	　だいぶ時間をロスしたかも……」	　We might have lost quite a bit of time...」
+37156	Maria Custard	あかんわ	「魔物界への侵入、よね。	「Invading the Monster Realm, right.
+37157	+		　だいぶ時間をロスしたかも……」	　We might have lost quite a bit of time...」
 
-37158	Rance	「ふん、レアアイテムで相殺だ。	「Hmph, the rare items make up for it.
-37159	+	　まあいい、そろそろいくか」	　Whatever, let's get moving.」
+37158	Rance	基本	「ふん、レアアイテムで相殺だ。	「Hmph, the rare items make up for it.
+37159	+		　まあいい、そろそろいくか」	　Whatever, let's get moving.」
 
-37160	Captain	「ほっ…………じゃあ、このまま進めるぜ」	「Haa... Alright, let's proceed.」
+37160	Captain		「ほっ…………じゃあ、このまま進めるぜ」	「Haa... Alright, let's proceed.」
 
-37161	-	どうにか、這々の体でサンライズ号は	Barely managing, the Sunrise
-37162	+	針路を元に戻し、サンセット号と共に進み始めた。	returned to its original course and advanced with the Sunset.
+37161	-		どうにか、這々の体でサンライズ号は	Barely managing, the Sunrise
+37162	+		針路を元に戻し、サンセット号と共に進み始めた。	returned to its original course and advanced with the Sunset.

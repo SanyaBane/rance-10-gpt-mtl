@@ -8,120 +8,120 @@
 * Nagi su Ragarl	子供ナギ	Female
 * Sill Plain	シィル	Female
 
-67371	Rance	「ッ、だーーーーー！！」	「Haaaaaaa!!!」
+67371	Rance	怒り	「ッ、だーーーーー！！」	「Haaaaaaa!!!」
 
-67372	Pizarro	「がああああぁぅ、ッ……！」	「Gaaaaah...!」
+67372	Pizarro	基本	「がああああぁぅ、ッ……！」	「Gaaaaah...!」
 
-67373	-	ピサロの肩口に、ランスの一撃が深々と食い込んだ。	Rance's strike sank deep into Pizarro's shoulder.
+67373	-		ピサロの肩口に、ランスの一撃が深々と食い込んだ。	Rance's strike sank deep into Pizarro's shoulder.
 
-67374	Pizarro	「ぐうううッ……こいつ……つ、強い……！？」	「Guuuuh... This guy... is strong...!?」
+67374	Pizarro		「ぐうううッ……こいつ……つ、強い……！？」	「Guuuuh... This guy... is strong...!?」
 
-67375	Rance	「がははははは、くったばれーー！」	「Gahahahaha, dieeee!」
+67375	Rance	笑顔	「がははははは、くったばれーー！」	「Gahahahaha, dieeee!」
 
-67376	Green Monster Soldier	「ピサロ様！　お逃げを！」	「Pizarro-sama! Run!」
+67376	Green Monster Soldier	基本	「ピサロ様！　お逃げを！」	「Pizarro-sama! Run!」
 
-67377	Rance	「ちっ、この雑魚がっ……」	「Tch, these small fries...」
+67377	Rance	イライラ	「ちっ、この雑魚がっ……」	「Tch, these small fries...」
 
-67378	Pizarro	「く、ううううッ！　ひ、引くぞ！」	「Kuh, uuuuh! Retreat!」
+67378	Pizarro	基本	「く、ううううッ！　ひ、引くぞ！」	「Kuh, uuuuh! Retreat!」
 
-67379	-	脇から魔物兵がランスを食い止めた隙に、	While monster soldiers held Rance back from the side,
-67380	+	ピサロは傷口を押さえながら逃げ出した。	Pizarro fled, clutching his wound.
+67379	-		脇から魔物兵がランスを食い止めた隙に、	While monster soldiers held Rance back from the side,
+67380	+		ピサロは傷口を押さえながら逃げ出した。	Pizarro fled, clutching his wound.
 
-67381	Rance	「あっ、くそ、待て！　追え、追えーーーー！」	「Ah, damn, wait! Chase him, chase him---!」
+67381	Rance	怒り	「あっ、くそ、待て！　追え、追えーーーー！」	「Ah, damn, wait! Chase him, chase him---!」
 
-67382	Green Monster Soldier	「防げ！　ピサロ様が退かれるまで、	「Hold them off! Buy time until Pizarro-sama retreats,
-67383	+	　時間を稼ぐのだ！」	　that's our job!」
+67382	Green Monster Soldier	基本	「防げ！　ピサロ様が退かれるまで、	「Hold them off! Buy time until Pizarro-sama retreats,
+67383	+		　時間を稼ぐのだ！」	　that's our job!」
 
-67384	Pizarro	「はあ、はぁ……っ、く、がはっ……！」	「Haa, haa... Guh, gaha...!」
+67384	Pizarro		「はあ、はぁ……っ、く、がはっ……！」	「Haa, haa... Guh, gaha...!」
 
-67385	-	血を滴らせながら、巨体を揺らしてピサロは走る。	Bleeding heavily, Pizarro ran, his massive body shaking.
+67385	-		血を滴らせながら、巨体を揺らしてピサロは走る。	Bleeding heavily, Pizarro ran, his massive body shaking.
 
-67386	Blue Monster Soldier	「ピサロ様、お早く！　人間どもが……」	「Pizarro-sama, hurry! The humans...」
+67386	Blue Monster Soldier		「ピサロ様、お早く！　人間どもが……」	「Pizarro-sama, hurry! The humans...」
 
-67387	Pizarro	「え、ええぃ、分かっておるわ！」	「I know, I know!」
+67387	Pizarro		「え、ええぃ、分かっておるわ！」	「I know, I know!」
 
-67388	-	先行する護衛に怒鳴り返し、	He shouted back at the escort ahead,
-67389	+	ピサロは苦痛に顔を歪めた。	his face twisted in pain.
+67388	-		先行する護衛に怒鳴り返し、	He shouted back at the escort ahead,
+67389	+		ピサロは苦痛に顔を歪めた。	his face twisted in pain.
 
-67390	Pizarro	「くそ、あの、人間どもめ……	「Damn those humans...
-67391	+	　魔人たちを仕留めるわけだ……あの強さ……くっ」	　They actually defeated Fiend Gods... That strength... Kuh.」
+67390	Pizarro		「くそ、あの、人間どもめ……	「Damn those humans...
+67391	+		　魔人たちを仕留めるわけだ……あの強さ……くっ」	　They actually defeated Fiend Gods... That strength... Kuh.」
 
-67392	-	ふらつく足が回廊の細い道を踏み外しかけ、	His unsteady feet nearly slipped off the narrow path,
-67393	+	慌てて体勢を立て直す。	and he hurriedly regained balance.
+67392	-		ふらつく足が回廊の細い道を踏み外しかけ、	His unsteady feet nearly slipped off the narrow path,
+67393	+		慌てて体勢を立て直す。	and he hurriedly regained balance.
 
-67394	Blue Monster Soldier	「ピサロ様！　こちらです！」	「Pizarro-sama! This way!」
+67394	Blue Monster Soldier		「ピサロ様！　こちらです！」	「Pizarro-sama! This way!」
 
-67395	Pizarro	「おう…………ッ」	「Yeah...!」
+67395	Pizarro		「おう…………ッ」	「Yeah...!」
 
-67396	-	枝道に入り込もうとして、ピサロは動きを止めた。	Trying to enter a side path, Pizarro stopped.
-67397	+	狭く、身体を無理矢理押し込むのは難しい道だった。	It was too narrow to force his massive body through.
+67396	-		枝道に入り込もうとして、ピサロは動きを止めた。	Trying to enter a side path, Pizarro stopped.
+67397	+		狭く、身体を無理矢理押し込むのは難しい道だった。	It was too narrow to force his massive body through.
 
-67398	Pizarro	「ッ、ええい！　狭い！	「Tch, damn! Too narrow!
-67399	+	　他の道はないのか！」	　Is there no other path!?」
+67398	Pizarro		「ッ、ええい！　狭い！	「Tch, damn! Too narrow!
+67399	+		　他の道はないのか！」	　Is there no other path!?」
 
-67400	Blue Monster Soldier	「む、難しいです。かなり大回りになりますし……	「It's difficult. It would be a huge detour...
-67401	+	　それに、時間を掛けるとやつらが……」	　And if we take too long, they'll...」
+67400	Blue Monster Soldier		「む、難しいです。かなり大回りになりますし……	「It's difficult. It would be a huge detour...
+67401	+		　それに、時間を掛けるとやつらが……」	　And if we take too long, they'll...」
 
-67402	Pizarro	「クッ……そうよな……」	「Kuh... You're right...」
+67402	Pizarro		「クッ……そうよな……」	「Kuh... You're right...」
 
-67403	-	しかし、身体を縮こまらせても入れない。	But even squeezing, he couldn't fit.
-67404	+	無理をすればまた傷が自己主張しはじめ、	Forcing it made the wound throb again,
-67405	+	苦悶の声が上がる。	and he let out a groan of agony.
+67403	-		しかし、身体を縮こまらせても入れない。	But even squeezing, he couldn't fit.
+67404	+		無理をすればまた傷が自己主張しはじめ、	Forcing it made the wound throb again,
+67405	+		苦悶の声が上がる。	and he let out a groan of agony.
 
-67406	Pizarro	「おのれ、こうなれば…………むっ」	「Damn it, in that case... Mu?」
+67406	Pizarro		「おのれ、こうなれば…………むっ」	「Damn it, in that case... Mu?」
 
-67407	Blue Hanny	「えっ？」	「Eh?」
+67407	Blue Hanny		「えっ？」	「Eh?」
 
-67408	-	ピサロの目が、通りすがりのハニーを捉えた。	Pizarro's eyes caught a passing Hanny.
+67408	-		ピサロの目が、通りすがりのハニーを捉えた。	Pizarro's eyes caught a passing Hanny.
 
-67409	Rance	「ちっ、雑魚どもに足止めを食ったわ。	「Tch, those small fries slowed me down.
-67410	+	　おい、こっちでいいのか、ピサロが逃げたのは！」	　Hey, is this the right way? Where Pizarro ran!」
+67409	Rance	だる顔	「ちっ、雑魚どもに足止めを食ったわ。	「Tch, those small fries slowed me down.
+67410	+		　おい、こっちでいいのか、ピサロが逃げたのは！」	　Hey, is this the right way? Where Pizarro ran!」
 
-67411	Kentou Kanami	「間違いないわ。	「No mistake.
-67412	+	　あのサイズなら足跡がくっきり残るもの」	　At that size the footprints are obvious.」
+67411	Kentou Kanami	基本	「間違いないわ。	「No mistake.
+67412	+		　あのサイズなら足跡がくっきり残るもの」	　At that size the footprints are obvious.」
 
-67413	Rance	「よーし、さっさととどめを刺してくれるわ」	「Alright, time to finish him off.」
+67413	Rance	真剣	「よーし、さっさととどめを刺してくれるわ」	「Alright, time to finish him off.」
 
-67414	Nagi su Ragarl	「あっ、ランス！　あれ！」	「Ah, Rance! Look!」
+67414	Nagi su Ragarl	怒り	「あっ、ランス！　あれ！」	「Ah, Rance! Look!」
 
-67415	Rance	「おっ」	「Oh.」
+67415	Rance		「おっ」	「Oh.」
 
-67416	Pizarro	「……………………」	「............」
+67416	Pizarro	基本	「……………………」	「............」
 
-67417	-	走るランス達の行く先で、魔物大将軍の巨体が	Ahead of the running Rance group, the giant body of the Great Monster General
-67418	+	ふらふらとおぼつかない足取りで歩いていた。	was staggering along unsteadily.
+67417	-		走るランス達の行く先で、魔物大将軍の巨体が	Ahead of the running Rance group, the giant body of the Great Monster General
+67418	+		ふらふらとおぼつかない足取りで歩いていた。	was staggering along unsteadily.
 
-67419	Rance	「おっ、いたいた。フラフラだぞ、っと！」	「Oh, there he is. He's wobbling!」
+67419	Rance		「おっ、いたいた。フラフラだぞ、っと！」	「Oh, there he is. He's wobbling!」
 
-67420	-	ランスが疾走するのも気づく様子が無く、	Without noticing Rance charging toward him,
-67421	+	ピサロは千鳥足のままだった。	Pizarro continued his drunken stagger.
+67420	-		ランスが疾走するのも気づく様子が無く、	Without noticing Rance charging toward him,
+67421	+		ピサロは千鳥足のままだった。	Pizarro continued his drunken stagger.
 
-67422	Rance	「がははははは！	「Gahahahaha!
-67423	+	　とどめのランスあっったたたたーーーーっく！！」	　Finishing move, Rance attaaaaaack!!!」
+67422	Rance	笑顔	「がははははは！	「Gahahahaha!
+67423	+		　とどめのランスあっったたたたーーーーっく！！」	　Finishing move, Rance attaaaaaack!!!」
 
-67424	Rance	「どうだ！　がはははははは！」	「How's that! Gahahahaha!」
+67424	Rance		「どうだ！　がはははははは！」	「How's that! Gahahahaha!」
 
-67425	Pizarro	「は…………」	「Ha............」
+67425	Pizarro	基本	「は…………」	「Ha............」
 
-67426	Pizarro	「はにほー…………ひどい……」	「Haniho... So mean...」
+67426	Pizarro		「はにほー…………ひどい……」	「Haniho... So mean...」
 
-67427	Rance	「あん？」	「Huh?」
+67427	Rance	真剣	「あん？」	「Huh?」
 
-67428	Sill Plain	「あっ、ランス様！　お腹の所……」	「Ah, Rance-sama! Inside the stomach...」
+67428	Sill Plain	慌て	「あっ、ランス様！　お腹の所……」	「Ah, Rance-sama! Inside the stomach...」
 
-67429	-	ぷかぷかと、ボディの中に入ったハニーが	A Hanny was floating inside the body,
-67430	+	液体の中に浮いていた。	bobbing in the liquid.
+67429	-		ぷかぷかと、ボディの中に入ったハニーが	A Hanny was floating inside the body,
+67430	+		液体の中に浮いていた。	bobbing in the liquid.
 
-67431	Rance	「……なんだこりゃ」	「...What the hell is this?」
+67431	Rance	だる顔	「……なんだこりゃ」	「...What the hell is this?」
 
-67432	Kentou Kanami	「ブレインの代わりに……ハニー……？」	「A Hanny instead of the brain...?」
+67432	Kentou Kanami	ジト目	「ブレインの代わりに……ハニー……？」	「A Hanny instead of the brain...?」
 
-67433	Sill Plain	「え……じゃあ、本物のブレインは……」	「Eh... Then the real brain is...」
+67433	Sill Plain	真剣	「え……じゃあ、本物のブレインは……」	「Eh... Then the real brain is...」
 
-67434	Rance	「……取りだして逃げたか！？	「...It took the brain and ran!?」
-67435	+	　そんな真似ができるのか……ええい、くそ！」	　Can it even do that... Damn it!」
+67434	Rance	だる顔	「……取りだして逃げたか！？	「...It took the brain and ran!?」
+67435	+		　そんな真似ができるのか……ええい、くそ！」	　Can it even do that... Damn it!」
 
-67436	Pizarro	「あいやー」	「Aiya~」
+67436	Pizarro	基本	「あいやー」	「Aiya~」
 
-67437	-	ハニーにとどめを刺して、	After finishing off the Hanny,
-67438	+	ランス達は再びピサロを追いかけ始めた。	Rance and the others resumed chasing Pizarro.
+67437	-		ハニーにとどめを刺して、	After finishing off the Hanny,
+67438	+		ランス達は再びピサロを追いかけ始めた。	Rance and the others resumed chasing Pizarro.

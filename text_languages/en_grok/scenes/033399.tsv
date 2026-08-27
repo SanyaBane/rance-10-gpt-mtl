@@ -5,158 +5,158 @@
 * Monster Captain	汎用魔物隊長	Male
 * El Mofus	エール２	Player's choice
 
-236339	-	二回戦の試合直前、	Right before the second round match,
-236340	+	あなたは控え室で呼ばれるのを待っていた。	you waited in the waiting room to be called.
+236339	-		二回戦の試合直前、	Right before the second round match,
+236340	+		あなたは控え室で呼ばれるのを待っていた。	you waited in the waiting room to be called.
 
-236341	Nagata-kun	「毒を使うって言うけど、	「He uses poison, but
-236342	+	　具体的にどうやってやるんだろうなあ」	　I wonder how exactly......」
+236341	Nagata-kun	基本	「毒を使うって言うけど、	「He uses poison, but
+236342	+		　具体的にどうやってやるんだろうなあ」	　I wonder how exactly......」
 
-236343	Reset Kalar	「毒物を警戒して、	「We've been careful about poison,
-236344	+	　一応朝からご飯も我慢して食べないでいるけど、	　even skipping breakfast, but
-236345	+	　未だそれらしいものないもんねえ」	　nothing suspicious so far.」
+236343	Reset Kalar		「毒物を警戒して、	「We've been careful about poison,
+236344	+		　一応朝からご飯も我慢して食べないでいるけど、	　even skipping breakfast, but
+236345	+		　未だそれらしいものないもんねえ」	　nothing suspicious so far.」
 
-236346	Nagata-kun	「うう、腹空いたっすね……」	「Ugh, I'm so hungry......」
+236346	Nagata-kun		「うう、腹空いたっすね……」	「Ugh, I'm so hungry......」
 
-236347	-	あなたに付き合ってくれた二人は、	The two who accompanied you
-236348	+	揃ってお腹を押さえた。	both clutched their stomachs.
+236347	-		あなたに付き合ってくれた二人は、	The two who accompanied you
+236348	+		揃ってお腹を押さえた。	both clutched their stomachs.
 
-236349	Reset Kalar	「終わったら、美味しいご飯食べようねー」	「After it's over, let's eat something delicious~」
+236349	Reset Kalar		「終わったら、美味しいご飯食べようねー」	「After it's over, let's eat something delicious~」
 
-236350	Shuri Seihajuu Nagasaki	「＜エール＞さん！」	「＜エール＞-san!」
+236350	Shuri Seihajuu Nagasaki	叫び	「＜エール＞さん！」	「＜エール＞-san!」
 
-236351	Reset Kalar	「わあ、ビックリ！」	「Wah, that surprised me!」
+236351	Reset Kalar	基本	「わあ、ビックリ！」	「Wah, that surprised me!」
 
-236352	Shuri Seihajuu Nagasaki	「今日のブロビオ選手との戦い頑張って下さいね！	「Do your best against Brobio today!
-236353	+	　それはもうギッタンギッタンに	　Beat him to a pulp!」
-236354	+	　やっつけちゃって下さい！」	
+236352	Shuri Seihajuu Nagasaki	叫び	「今日のブロビオ選手との戦い頑張って下さいね！	「Do your best against Brobio today!
+236353	+		　それはもうギッタンギッタンに	　Beat him to a pulp!」
+236354	+		　やっつけちゃって下さい！」	
 
-236355	Nagata-kun	「な、なんか怒ってる！？」	「She seems really angry!?」
+236355	Nagata-kun	基本	「な、なんか怒ってる！？」	「She seems really angry!?」
 
-236356	Shuri Seihajuu Nagasaki	「そりゃ怒りますよ！	「Of course I'm angry!
-236357	+	　あの人、これまでに何度私にセクハラしたか！」	　How many times has that guy sexually harassed me!」
+236356	Shuri Seihajuu Nagasaki	叫び	「そりゃ怒りますよ！	「Of course I'm angry!
+236357	+		　あの人、これまでに何度私にセクハラしたか！」	　How many times has that guy sexually harassed me!」
 
-236358	Shuri Seihajuu Nagasaki	「ぷんぷん！	「Hmph!
-236359	+	　私、あの人、大っ嫌い！」	　I hate him so much!」
+236358	Shuri Seihajuu Nagasaki		「ぷんぷん！	「Hmph!
+236359	+		　私、あの人、大っ嫌い！」	　I hate him so much!」
 
-236360	Shuri Seihajuu Nagasaki	「＜エール＞さん！	「＜エール＞-san!
-236361	+	　あんな人、ばしーんと倒しちゃって下さい！	　Knock that guy down hard!
-236362	+	　もう私が許しちゃいますよ！」	　I give you full permission!」
+236360	Shuri Seihajuu Nagasaki	笑顔	「＜エール＞さん！	「＜エール＞-san!
+236361	+		　あんな人、ばしーんと倒しちゃって下さい！	　Knock that guy down hard!
+236362	+		　もう私が許しちゃいますよ！」	　I give you full permission!」
 
-236363	Nagata-kun	「そんな自分勝手な……」	「That's so selfish......
+236363	Nagata-kun	基本	「そんな自分勝手な……」	「That's so selfish......
 
-236364	Reset Kalar	「あ、あはは……」	「A, ahaha......」
+236364	Reset Kalar	たははー	「あ、あはは……」	「A, ahaha......」
 
-236365	Nagata-kun	「あ、＜エール＞。	「Ah, ＜エール＞.
-236366	+	　そろそろ薬を飲んでおいた方が	　You should drink the medicine soon
-236367	+	　いいんじゃないか？」	　don't you think?」
+236365	Nagata-kun	基本	「あ、＜エール＞。	「Ah, ＜エール＞.
+236366	+		　そろそろ薬を飲んでおいた方が	　You should drink the medicine soon
+236367	+		　いいんじゃないか？」	　don't you think?」
 
-236368	Reset Kalar	「そうだねえ」	「Yeah.」
+236368	Reset Kalar		「そうだねえ」	「Yeah.」
 
-236369	Reset Kalar	「アームズさんも言ってたけど、	「Like Arms-san said,
-236370	+	　この薬の効果はちょっと特殊だから気をつけてね」	　this medicine has a special effect so be careful.」
+236369	Reset Kalar		「アームズさんも言ってたけど、	「Like Arms-san said,
+236370	+		　この薬の効果はちょっと特殊だから気をつけてね」	　this medicine has a special effect so be careful.」
 
-236371	Reset Kalar	「回復薬でも予防薬でもなくて、	「It's not a recovery or preventive medicine,
-236372	+	　毒を受けてもしばらくすれば、	　but if you get poisoned, after a while
-236373	+	　すぐに治る薬とかなんとか」	　it heals quickly or something.」
+236371	Reset Kalar		「回復薬でも予防薬でもなくて、	「It's not a recovery or preventive medicine,
+236372	+		　毒を受けてもしばらくすれば、	　but if you get poisoned, after a while
+236373	+		　すぐに治る薬とかなんとか」	　it heals quickly or something.」
 
-236374	Reset Kalar	「逆に言えば、	「On the flip side,
-236375	+	　毒を受けたらその効果はしばらく	　if you get poisoned the effect will show
-236376	+	　現れてしまうってことだから注意だよ？」	　for a while, so watch out okay?」
+236374	Reset Kalar		「逆に言えば、	「On the flip side,
+236375	+		　毒を受けたらその効果はしばらく	　if you get poisoned the effect will show
+236376	+		　現れてしまうってことだから注意だよ？」	　for a while, so watch out okay?」
 
-236377	-	あなたは頷いてから、	You nodded and
-236378	+	錠剤の薬をごくりと飲み込んだ。	swallowed the pill.
+236377	-		あなたは頷いてから、	You nodded and
+236378	+		錠剤の薬をごくりと飲み込んだ。	swallowed the pill.
 
-236379	?	「＜エール＞選手！　入場願います！」	「＜エール＞ contestant! Please enter the arena!」
+236379	?		「＜エール＞選手！　入場願います！」	「＜エール＞ contestant! Please enter the arena!」
 
-236380	Nagata-kun	「うおっ、来た来た来た！」	「Whoa, it's time, it's time!」
+236380	Nagata-kun		「うおっ、来た来た来た！」	「Whoa, it's time, it's time!」
 
-236381	Reset Kalar	「お姉ちゃん達はここから応援してるからね！」	「We'll be cheering for you from here!」
+236381	Reset Kalar		「お姉ちゃん達はここから応援してるからね！」	「We'll be cheering for you from here!」
 
-236382	Nagata-kun	「あんなムカつく奴、	「Beat the crap out of that annoying bastard,
-236383	+	　すぱーんと倒しちまえよな！　相棒！」	　partner!」
+236382	Nagata-kun		「あんなムカつく奴、	「Beat the crap out of that annoying bastard,
+236383	+		　すぱーんと倒しちまえよな！　相棒！」	　partner!」
 
-236384	-	あなたは二人に見送られて試合場へ向かった。	You headed to the arena with their send-off.
+236384	-		あなたは二人に見送られて試合場へ向かった。	You headed to the arena with their send-off.
 
-236385	-	　	　
-236386	+	　　＜わあああああああああああああ！！！！＞	　　＜Waaaaaaaahhhhh!!!!＞
+236385	-		　	　
+236386	+		　　＜わあああああああああああああ！！！！＞	　　＜Waaaaaaaahhhhh!!!!＞
 
-236387	-	一回戦と同様に、	Just like the first round,
-236388	+	観客の歓声があなたを出迎えてくれた。	the audience's cheers welcomed you.
+236387	-		一回戦と同様に、	Just like the first round,
+236388	+		観客の歓声があなたを出迎えてくれた。	the audience's cheers welcomed you.
 
-236389	Shuri Seihajuu Nagasaki	『龍の方角より現れました！	『Appearing from the dragon direction!
-236390	+	　法王の血を引く天才！　＜エール＞選手！	　Genius with the Pope's blood! ＜エール＞ contestant!
-236391	+	　今回はどのような戦いを見せてくれるのか！』	　What kind of fight will they show us this time!』
+236389	Shuri Seihajuu Nagasaki		『龍の方角より現れました！	『Appearing from the dragon direction!
+236390	+		　法王の血を引く天才！　＜エール＞選手！	　Genius with the Pope's blood! ＜エール＞ contestant!
+236391	+		　今回はどのような戦いを見せてくれるのか！』	　What kind of fight will they show us this time!』
 
-236392	-	　	　
-236393	+	　　＜わああああああああああ！＞	　　＜Waaaaaaaah!＞
+236392	-		　	　
+236393	+		　　＜わああああああああああ！＞	　　＜Waaaaaaaah!＞
 
-236394	Shuri Seihajuu Nagasaki	『さあ、そして……』	『And now......』
+236394	Shuri Seihajuu Nagasaki		『さあ、そして……』	『And now......』
 
-236395	Monster Captain	「ケヒヒヒヒヒヒ……」	「Kehihihihihi......」
+236395	Monster Captain		「ケヒヒヒヒヒヒ……」	「Kehihihihihi......」
 
-236396	Shuri Seihajuu Nagasaki	『鬼の方角より現れしは、	『Appearing from the oni direction,
-236397	+	　女は犯す男は殺す！　極悪ヒール！	　rapes women and kills men! The ultimate heel!
-236398	+	　魔物隊長ブロビオ選手です！』	　Monster Captain Brobio contestant!』
+236396	Shuri Seihajuu Nagasaki		『鬼の方角より現れしは、	『Appearing from the oni direction,
+236397	+		　女は犯す男は殺す！　極悪ヒール！	　rapes women and kills men! The ultimate heel!
+236398	+		　魔物隊長ブロビオ選手です！』	　Monster Captain Brobio contestant!』
 
-236399	Monster Captain	「おーっと、前の試合ではしゃぎすぎたから、	「Whoops, I got too excited in the last match,
-236400	+	　嫌われちまったかな？　ケッケッケッ……」	　maybe they hate me now? Kek kek kek......」
+236399	Monster Captain		「おーっと、前の試合ではしゃぎすぎたから、	「Whoops, I got too excited in the last match,
+236400	+		　嫌われちまったかな？　ケッケッケッ……」	　maybe they hate me now? Kek kek kek......」
 
-236401	El Mofus	「…………。」	「............」
+236401	El Mofus		「…………。」	「............」
 
-236402	Monster Captain	「そんな怖い顔しねぇでくれよ。	「Don't make such a scary face.
-236403	+	　そんな力んでると勝てる戦いも勝てなくなるぜ？」	　If you tense up like that you'll lose even winnable fights.」
+236402	Monster Captain		「そんな怖い顔しねぇでくれよ。	「Don't make such a scary face.
+236403	+		　そんな力んでると勝てる戦いも勝てなくなるぜ？」	　If you tense up like that you'll lose even winnable fights.」
 
-236404	Monster Captain	「そういやよ、お前のパートナー……	「By the way, your partner......
-236405	+	　あれはいいねぇ……」	　she's nice......
+236404	Monster Captain		「そういやよ、お前のパートナー……	「By the way, your partner......
+236405	+		　あれはいいねぇ……」	　she's nice......
 
-236406	Monster Captain	「世の中には悪意なんてないって信じてる奴の顔だ。	　That face that believes there's no evil in the world.
-236407	+	　ああいう女をグチャグチャにするのは……	　Messing up a girl like that......
-236408	+	　それはもう気持ちいいぜぇ？」	　feels so damn good, you know?」
+236406	Monster Captain		「世の中には悪意なんてないって信じてる奴の顔だ。	　That face that believes there's no evil in the world.
+236407	+		　ああいう女をグチャグチャにするのは……	　Messing up a girl like that......
+236408	+		　それはもう気持ちいいぜぇ？」	　feels so damn good, you know?」
 
-236409	Monster Captain	「俺にとっちゃ人間の美醜も年齢も関係なくてよ。	「To me, human beauty or age doesn't matter.
-236410	+	　ただ穴に突っ込んだ時に	　As long as they scream and cry
-236411	+	　ひぃひぃ泣き叫んでくれりゃあそれでいい」	　when I thrust into their holes, that's enough.」
+236409	Monster Captain		「俺にとっちゃ人間の美醜も年齢も関係なくてよ。	「To me, human beauty or age doesn't matter.
+236410	+		　ただ穴に突っ込んだ時に	　As long as they scream and cry
+236411	+		　ひぃひぃ泣き叫んでくれりゃあそれでいい」	　when I thrust into their holes, that's enough.」
 
-236412	Monster Captain	「ケヒヒヒ、あの女……	「Kehihihi, that girl......
-236413	+	　どんな泣き声出すのかねぇ……	　I wonder what kind of scream she'll make......
-236414	+	　想像しただけで涎が出らあ」	　Just imagining it makes me drool.」
+236412	Monster Captain		「ケヒヒヒ、あの女……	「Kehihihi, that girl......
+236413	+		　どんな泣き声出すのかねぇ……	　I wonder what kind of scream she'll make......
+236414	+		　想像しただけで涎が出らあ」	　Just imagining it makes me drool.」
 
-236415	El Mofus	「…………。」	「............」
+236415	El Mofus		「…………。」	「............」
 
-236416	Monster Captain	「ケケケ、だからそんな力んだ顔すんなって」	「Kekeke, so don't make that tense face.」
+236416	Monster Captain		「ケケケ、だからそんな力んだ顔すんなって」	「Kekeke, so don't make that tense face.」
 
-236417	-	　	　
-236418	+	　　＜チクッ！＞	　　＜Prick!＞
+236417	-		　	　
+236418	+		　　＜チクッ！＞	　　＜Prick!＞
 
-236419	-	そのとき、あなたは首筋に激痛を感じた。	At that moment, you felt sharp pain in your neck.
+236419	-		そのとき、あなたは首筋に激痛を感じた。	At that moment, you felt sharp pain in your neck.
 
-236420	-	痛みはすぐにスッと溶けるように消えたが、	The pain quickly faded away,
-236421	+	首筋に触れてみても針や矢などはなかった。	but there was no needle or arrow when you touched it.
+236420	-		痛みはすぐにスッと溶けるように消えたが、	The pain quickly faded away,
+236421	+		首筋に触れてみても針や矢などはなかった。	but there was no needle or arrow when you touched it.
 
-236422	Monster Captain	「おー？　どうかしたかい？	「Oh? Something wrong?
-236423	+	　首でも痛むのかい？」	　Neck hurting?」
+236422	Monster Captain		「おー？　どうかしたかい？	「Oh? Something wrong?
+236423	+		　首でも痛むのかい？」	　Neck hurting?」
 
-236424	-	ブロビオはニヤついている。	Brobio smirked.
+236424	-		ブロビオはニヤついている。	Brobio smirked.
 
-236425	Monster Captain	「戦うときは慎重にしねぇーと駄目だぜ？」	「You gotta be careful when fighting, yeah?」
+236425	Monster Captain		「戦うときは慎重にしねぇーと駄目だぜ？」	「You gotta be careful when fighting, yeah?」
 
-236426	Monster Captain	「例えば……	「For example......
-236427	+	　今から戦う相手の仲間が客席から、	　your opponent's ally from the stands
-236428	+	　特殊な吹き矢で毒をかます……」	　shoots you with a special poison blowdart......
+236426	Monster Captain		「例えば……	「For example......
+236427	+		　今から戦う相手の仲間が客席から、	　your opponent's ally from the stands
+236428	+		　特殊な吹き矢で毒をかます……」	　shoots you with a special poison blowdart......
 
-236429	Monster Captain	「なーんてこともあるかも知れねぇからなぁ！	　Something like that could happen!」
-236430	+	　ケーーッヒッヒッヒッヒッ！」	　Keee hihihihihi!」
+236429	Monster Captain		「なーんてこともあるかも知れねぇからなぁ！	　Something like that could happen!」
+236430	+		　ケーーッヒッヒッヒッヒッ！」	　Keee hihihihihi!」
 
-236431	El Mofus	「…………。」	「............」
+236431	El Mofus		「…………。」	「............」
 
-236432	Monster Captain	「今ここに宣言しよう。	「I'll declare it right here.
-236433	+	　お前は俺に指一本触れられずに負けるってなぁ。	　You'll lose without even touching me with a single finger.
-236434	+	　ケヒヒヒヒヒヒヒ」	　Kehihihihihihi」
+236432	Monster Captain		「今ここに宣言しよう。	「I'll declare it right here.
+236433	+		　お前は俺に指一本触れられずに負けるってなぁ。	　You'll lose without even touching me with a single finger.
+236434	+		　ケヒヒヒヒヒヒヒ」	　Kehihihihihihi」
 
-236435	Shuri Seihajuu Nagasaki	『それでは……』	『Now then......』
+236435	Shuri Seihajuu Nagasaki		『それでは……』	『Now then......』
 
-236436	Shuri Seihajuu Nagasaki	『試合開始！！！！』	『Match start!!!!』
+236436	Shuri Seihajuu Nagasaki		『試合開始！！！！』	『Match start!!!!』
 
-236437	Monster Captain	「ケヒヒヒヒーーーーッ！」	「Kehihihi-----!」
+236437	Monster Captain		「ケヒヒヒヒーーーーッ！」	「Kehihihi-----!」
 
-236438	-	試合が始まってしまった。	The match began.
+236438	-		試合が始まってしまった。	The match began.

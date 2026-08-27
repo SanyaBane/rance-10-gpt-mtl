@@ -6,50 +6,50 @@
 * Crook Mofus	クルックー	Female
 * Rizna Lanfbitt	リズナ	Female
 
-41193	Rance	「っ、おうりゃぁっ！」	「Tch, oraaah!」
+41193	Rance	怒り	「っ、おうりゃぁっ！」	「Tch, oraaah!」
 
-41194	Launea	「…………！」	「............!」
+41194	Launea	基本	「…………！」	「............!」
 
-41195	-	カオスの一刀が蜘蛛の姿の使徒を捉え、	Chaos's blade caught the spider-like Apostle
-41196	+	地面に叩きつける。	and slammed it into the ground.
+41195	-		カオスの一刀が蜘蛛の姿の使徒を捉え、	Chaos's blade caught the spider-like Apostle
+41196	+		地面に叩きつける。	and slammed it into the ground.
 
-41197	Rance	「ふーー……死んだか？」	「Phew... Is it dead?」
+41197	Rance	だる顔	「ふーー……死んだか？」	「Phew... Is it dead?」
 
-41198	Chaos	「手応えはあった。うむ、使徒の感触じゃ。	「There was feedback. Yeah, definitely an Apostle.
-41199	+	　ていすてぃ」	　Tasty.」
+41198	Chaos	基本	「手応えはあった。うむ、使徒の感触じゃ。	「There was feedback. Yeah, definitely an Apostle.
+41199	+		　ていすてぃ」	　Tasty.」
 
-41200	Caloria Cricket	「ねぇ、カオス。	「Hey, Chaos.
-41201	+	　あれって……ほんとに使徒？	　Was that... really an Apostle?
-41202	+	　使徒って、魔人の…………」	　Apostles are the minions of...」
+41200	Caloria Cricket	真剣	「ねぇ、カオス。	「Hey, Chaos.
+41201	+		　あれって……ほんとに使徒？	　Was that... really an Apostle?
+41202	+		　使徒って、魔人の…………」	　Apostles are the minions of...」
 
-41203	Chaos	「ん？　おおそーじゃよカロリア嬢ちゃん。	「Hm? That's right, Miss Caloria.
-41204	+	　あの蜘蛛女、使徒。魔人の手駒よ」	　That spider woman is an Apostle. A Fiend's pawn.」
+41203	Chaos	基本	「ん？　おおそーじゃよカロリア嬢ちゃん。	「Hm? That's right, Miss Caloria.
+41204	+		　あの蜘蛛女、使徒。魔人の手駒よ」	　That spider woman is an Apostle. A Fiend's pawn.」
 
-41205	Crook Mofus	「状況から考えれば、ガルティアの配下でしょう。	「From the situation, it's probably under Galtia.
-41206	+	　使徒は主の魔人にしか従わないそうですし」	　Apostles only obey their master Fiend.」
+41205	Crook Mofus		「状況から考えれば、ガルティアの配下でしょう。	「From the situation, it's probably under Galtia.
+41206	+		　使徒は主の魔人にしか従わないそうですし」	　Apostles only obey their master Fiend.」
 
-41207	Caloria Cricket	「そっか……」	「I see...」
+41207	Caloria Cricket	真剣	「そっか……」	「I see...」
 
-41208	Rance	「どうしたカロリア、アレが気になるのか？	「What's wrong, Caloria? Bothered by that?
-41209	+	　しかしもう、叩き殺し……」	　But I already smashed it...」
+41208	Rance		「どうしたカロリア、アレが気になるのか？	「What's wrong, Caloria? Bothered by that?
+41209	+		　しかしもう、叩き殺し……」	　But I already smashed it...」
 
-41210	-	ひょこっと、だしぬけに使徒が身を起こした。	Suddenly, the Apostle popped back up.
+41210	-		ひょこっと、だしぬけに使徒が身を起こした。	Suddenly, the Apostle popped back up.
 
-41211	Rance	「おわっ！？」	「Whoa!?」
+41211	Rance	驚き	「おわっ！？」	「Whoa!?」
 
-41212	-	そのまま、傷を感じさせない俊敏さで	With unbelievable agility as if uninjured,
-41213	+	壁から天井を伝い、使徒は姿を消してしまった。	it crawled along the wall to the ceiling and vanished.
+41212	-		そのまま、傷を感じさせない俊敏さで	With unbelievable agility as if uninjured,
+41213	+		壁から天井を伝い、使徒は姿を消してしまった。	it crawled along the wall to the ceiling and vanished.
 
-41214	Rance	「あっ、くそ……！	「Ah, damn...!
-41215	+	　おいカオス！　何が手応えだ！	　Hey Chaos! What do you mean feedback!
-41216	+	　ばっちり生きとるじゃないか！」	　It's perfectly alive!」
+41214	Rance	怒り	「あっ、くそ……！	「Ah, damn...!
+41215	+		　おいカオス！　何が手応えだ！	　Hey Chaos! What do you mean feedback!
+41216	+		　ばっちり生きとるじゃないか！」	　It's perfectly alive!」
 
-41217	Chaos	「むう、大した生命力じゃなー」	「Muu, what amazing vitality.」
+41217	Chaos	基本	「むう、大した生命力じゃなー」	「Muu, what amazing vitality.」
 
-41218	Rance	「ええい、呑気な……」	「Geez, so carefree...」
+41218	Rance	イライラ	「ええい、呑気な……」	「Geez, so carefree...」
 
-41219	Rizna Lanfbitt	「行っちゃいましたね……」	「It ran away...」
+41219	Rizna Lanfbitt	基本	「行っちゃいましたね……」	「It ran away...」
 
-41220	Rance	「さっさと進むぞ。雑魚に付き合ってる暇はない」	「Let's move on. No time to waste on small fry.」
+41220	Rance	真剣	「さっさと進むぞ。雑魚に付き合ってる暇はない」	「Let's move on. No time to waste on small fry.」
 
-41221	Caloria Cricket	「…………うん……」	「............Yeah...」
+41221	Caloria Cricket		「…………うん……」	「............Yeah...」

@@ -5,175 +5,175 @@
 * Sill Plain	シィル	Female
 * Silbarrel Silbarella	シルバレル	Female
 
-20341	-	―　しばらく前　―	一A while ago一
+20341	-		―　しばらく前　―	一A while ago一
 
-20342	Temple Knight	「………………」	「………………」
+20342	Temple Knight	基本	「………………」	「………………」
 
-20343	-	AL教団が有する地下迷宮を、	Through the underground labyrinth owned by the AL Church,
-20344	+	巡回のテンプルナイトが歩く。	a patrolling Temple Knight walked.
+20343	-		AL教団が有する地下迷宮を、	Through the underground labyrinth owned by the AL Church,
+20344	+		巡回のテンプルナイトが歩く。	a patrolling Temple Knight walked.
 
-20345	-	兜の奥の表情に弛みはなく、	His expression behind the helmet showed no slack,
-20346	+	日常的で変化のない任務であっても、油断はない。	and even for an everyday, unchanging mission, he remained vigilant.
+20345	-		兜の奥の表情に弛みはなく、	His expression behind the helmet showed no slack,
+20346	+		日常的で変化のない任務であっても、油断はない。	and even for an everyday, unchanging mission, he remained vigilant.
 
-20347	-	この、一般信者には存在すら明らかでない施設は、	This facility, whose very existence was unknown to general believers,
-20348	+	教団にとって、いくつもの意味で重要機密であった。	was a top secret for the Church in several ways.
+20347	-		この、一般信者には存在すら明らかでない施設は、	This facility, whose very existence was unknown to general believers,
+20348	+		教団にとって、いくつもの意味で重要機密であった。	was a top secret for the Church in several ways.
 
-20349	-	ひとつは、教団にとって重要な部屋……	One was that it led to a room important to the Church...
-20350	+	女神と法王の謁見のための部屋に通じていること。	the audience chamber for the Goddess and the Pope.
+20349	-		ひとつは、教団にとって重要な部屋……	One was that it led to a room important to the Church...
+20350	+		女神と法王の謁見のための部屋に通じていること。	the audience chamber for the Goddess and the Pope.
 
-20351	-	そして、もうひとつは――――	And the other was一
+20351	-		そして、もうひとつは――――	And the other was一
 
-20352	Temple Knight	「…………む？」	...Hm?
+20352	Temple Knight		「…………む？」	...Hm?
 
-20353	-	テンプルナイトが駆ける。	The Temple Knight ran.
-20354	+	その先には、倒れている同僚の姿があった。	Ahead of him lay a collapsed comrade.
+20353	-		テンプルナイトが駆ける。	The Temple Knight ran.
+20354	+		その先には、倒れている同僚の姿があった。	Ahead of him lay a collapsed comrade.
 
-20355	Temple Knight	「おい、どうした！！」	「Hey, what happened!!」
+20355	Temple Knight		「おい、どうした！！」	「Hey, what happened!!」
 
-20356	Temple Knight	「う……ぁ…………」	「Ugh... ah...」
+20356	Temple Knight		「う……ぁ…………」	「Ugh... ah...」
 
-20357	Temple Knight~	（この匂い……兜の中で吐いたか、こいつ）	(This smell... did he vomit inside his helmet?)
+20357	Temple Knight~		（この匂い……兜の中で吐いたか、こいつ）	(This smell... did he vomit inside his helmet?)
 
-20358	-	周囲に異変はない。	There were no abnormalities in the surroundings.
-20359	+	それだけを確認して、倒れた仲間を助け起こす。	Confirming only that, he helped his fallen comrade up.
+20358	-		周囲に異変はない。	There were no abnormalities in the surroundings.
+20359	+		それだけを確認して、倒れた仲間を助け起こす。	Confirming only that, he helped his fallen comrade up.
 
-20360	Temple Knight	「っ……う、く、おお、ごぼっ……！	「Ugh... g-gh-gh-gh-gh-gh-gh-gh!
-20361	+	　ふ、封印が、っ……！」	The s-seal is...!」
+20360	Temple Knight		「っ……う、く、おお、ごぼっ……！	「Ugh... g-gh-gh-gh-gh-gh-gh-gh!
+20361	+		　ふ、封印が、っ……！」	The s-seal is...!」
 
-20362	Temple Knight	「なにッ……！」	「What...!」
+20362	Temple Knight		「なにッ……！」	「What...!」
 
-20363	-	同僚達が守る一角に視線を向ける。	He looked towards the section guarded by his comrades.
+20363	-		同僚達が守る一角に視線を向ける。	He looked towards the section guarded by his comrades.
 
-20364	-	この迷宮をテンプルナイトの精鋭が守る、	The other reason why the elite Temple Knights guarded this labyrinth.
-20365	+	もうひとつの理由。	It was the existence of the Forbidden Vault,
+20364	-		この迷宮をテンプルナイトの精鋭が守る、	The other reason why the elite Temple Knights guarded this labyrinth.
+20365	+		もうひとつの理由。	It was the existence of the Forbidden Vault,
 
-20366	-	数々の禁忌が封印された禁断保管庫の存在が、	where numerous taboos were sealed away.
-20367	+	それだった。	
+20366	-		数々の禁忌が封印された禁断保管庫の存在が、	where numerous taboos were sealed away.
+20367	+		それだった。	
 
-20368	Temple Knight	「お、汚染物質の、許容量が、越えたのだ……	「T-the contamination limit... has been exceeded...
-20369	+	　中の物が、外に……」	The things inside... are outside...」
+20368	Temple Knight		「お、汚染物質の、許容量が、越えたのだ……	「T-the contamination limit... has been exceeded...
+20369	+		　中の物が、外に……」	The things inside... are outside...」
 
-20370	Temple Knight	「ばっ、馬鹿な！	「I-Impossible!
-20371	+	　通常ならば数百年は保つ封印が……！？」	A seal that should normally last for centuries...!」
+20370	Temple Knight		「ばっ、馬鹿な！	「I-Impossible!
+20371	+		　通常ならば数百年は保つ封印が……！？」	A seal that should normally last for centuries...!」
 
-20372	Temple Knight	「封印し直すほど古くなったものはなかったはず……	「There shouldn't have been anything old enough to need resealing...
-20373	+	　どれだ！　解けた封印は…………！」	Which one! Which seal broke...!」
+20372	Temple Knight		「封印し直すほど古くなったものはなかったはず……	「There shouldn't have been anything old enough to need resealing...
+20373	+		　どれだ！　解けた封印は…………！」	Which one! Which seal broke...!」
 
-20374	-	足音が、テンプルナイトの言葉を遮る。	Footsteps interrupted the Temple Knight's words.
-20375	+	なんの変哲もない、軽い足音。	Ordinary, light footsteps.
+20374	-		足音が、テンプルナイトの言葉を遮る。	Footsteps interrupted the Temple Knight's words.
+20375	+		なんの変哲もない、軽い足音。	Ordinary, light footsteps.
 
-20376	Temple Knight	「あ…………っ、あ、あああぁぁ……ッ……！」	「A... ah, aaaaaah...!」
+20376	Temple Knight		「あ…………っ、あ、あああぁぁ……ッ……！」	「A... ah, aaaaaah...!」
 
-20377	-	そちらに素早く向き直り…………	He quickly turned towards them...
-20378	+	結果として、それが致命だった。	and as a result, that was fatal.
+20377	-		そちらに素早く向き直り…………	He quickly turned towards them...
+20378	+		結果として、それが致命だった。	and as a result, that was fatal.
 
-20379	Temple Knight	「うわああああああぁぁぁぁぁぁぁぁっ……！！」	「Uwaaaaaaaaaaaaaaaaaaaaaaah!!」
+20379	Temple Knight		「うわああああああぁぁぁぁぁぁぁぁっ……！！」	「Uwaaaaaaaaaaaaaaaaaaaaaaah!!」
 
-20380	Crook Mofus	「……ということがありまして」	「...And so that happened.」
+20380	Crook Mofus		「……ということがありまして」	「...And so that happened.」
 
-20381	Rance	「なんだ。怪談か？」	「What? A ghost story?」
+20381	Rance	だる顔	「なんだ。怪談か？」	「What? A ghost story?」
 
-20382	Crook Mofus	「いえ。どうにか逃亡したそれは捕獲したのですが。	「No. We managed to capture it after it escaped, but
-20383	+	　カイズに戻すのも難しい状況でして」	it's difficult to return it to Kaiz in this situation.」
+20382	Crook Mofus	基本	「いえ。どうにか逃亡したそれは捕獲したのですが。	「No. We managed to capture it after it escaped, but
+20383	+		　カイズに戻すのも難しい状況でして」	it's difficult to return it to Kaiz in this situation.」
 
-20384	Rance	「…………まさか、ここに持ってきたのか？」	「...Don't tell me you brought it here?」
+20384	Rance	真剣	「…………まさか、ここに持ってきたのか？」	「...Don't tell me you brought it here?」
 
-20385	Crook Mofus	「はい。やむを得ず」	「Yes. Out of necessity.」
+20385	Crook Mofus	基本	「はい。やむを得ず」	「Yes. Out of necessity.」
 
-20386	Rance	「ふぅん……で、なんなんだ？	「Hmm... and what is it?
-20387	+	　生き物っぽいようだが、	It sounds like a living thing, but
-20388	+	　モンスターか？　過去の極悪人か？」	is it a monster? A villain from the past?」
+20386	Rance		「ふぅん……で、なんなんだ？	「Hmm... and what is it?
+20387	+		　生き物っぽいようだが、	It sounds like a living thing, but
+20388	+		　モンスターか？　過去の極悪人か？」	is it a monster? A villain from the past?」
 
-20389	Crook Mofus	「いえ。人間の女性です」	「No. It's a human woman.」
+20389	Crook Mofus		「いえ。人間の女性です」	「No. It's a human woman.」
 
-20390	Rance	「ほう！　それで連れてきたのか。	「Oh! So that's why you brought her.
-20391	+	　よしよし、任せておけ」	Good, good, leave it to me.」
+20390	Rance	エロ顔	「ほう！　それで連れてきたのか。	「Oh! So that's why you brought her.
+20391	+		　よしよし、任せておけ」	Good, good, leave it to me.」
 
-20392	Crook Mofus	「はい。ランスには	「Yes. I'll make sure
-20393	+	　会わせないようにしますので……」	Rance doesn't meet her...」
+20392	Crook Mofus	基本	「はい。ランスには	「Yes. I'll make sure
+20393	+		　会わせないようにしますので……」	Rance doesn't meet her...」
 
-20394	Rance	「んん？　なんでだ。連れてこい」	「Hmm? Why? Bring her here.」
+20394	Rance	真剣	「んん？　なんでだ。連れてこい」	「Hmm? Why? Bring her here.」
 
-20395	Crook Mofus	「しかし……」	「But...」
+20395	Crook Mofus	基本	「しかし……」	「But...」
 
-20396	Rance	「ははあ。なんだ、ヤキモチか？	「Aha. What, are you jealous?
-20397	+	　美人だから俺がそっちに夢中になると	You must think that because she's a beauty,
-20398	+	　思ってるんだろう」	I'll be obsessed with her.」
+20396	Rance		「ははあ。なんだ、ヤキモチか？	「Aha. What, are you jealous?
+20397	+		　美人だから俺がそっちに夢中になると	You must think that because she's a beauty,
+20398	+		　思ってるんだろう」	I'll be obsessed with her.」
 
-20399	Crook Mofus	「いえ、そうではなく」	「No, that's not it.」
+20399	Crook Mofus		「いえ、そうではなく」	「No, that's not it.」
 
-20400	Crook Mofus	「……分かりました。	「...I understand.
-20401	+	　では連れてきます」	Then I'll bring her.」
+20400	Crook Mofus	目逸らし	「……分かりました。	「...I understand.
+20401	+		　では連れてきます」	Then I'll bring her.」
 
-20402	-	クルックーは、一度引っ込んだ。	Crook stepped out for a moment.
+20402	-		クルックーは、一度引っ込んだ。	Crook stepped out for a moment.
 
-20403	Rance	「ぐふふ、楽しみだな。	「Gufufu, I'm looking forward to it.
-20404	+	　危険な匂いがする美人か……いいぞ」	A beauty with a scent of danger... nice.」
+20403	Rance	エロ顔	「ぐふふ、楽しみだな。	「Gufufu, I'm looking forward to it.
+20404	+		　危険な匂いがする美人か……いいぞ」	A beauty with a scent of danger... nice.」
 
-20405	Sill Plain	「美人さんとは言ってませんでしたけど……」	「She didn't say she was a beauty...」
+20405	Sill Plain	苦笑	「美人さんとは言ってませんでしたけど……」	「She didn't say she was a beauty...」
 
-20406	Rance	「いーや、間違いない。	「No, there's no doubt about it.
-20407	+	　はじめは悪い子かも知れんが、	She might be a bad girl at first,
-20408	+	　俺がしっかりと躾けて……」	but I'll give her a proper education...」
+20406	Rance	基本	「いーや、間違いない。	「No, there's no doubt about it.
+20407	+		　はじめは悪い子かも知れんが、	She might be a bad girl at first,
+20408	+		　俺がしっかりと躾けて……」	but I'll give her a proper education...」
 
-20409	Silbarrel Silbarella	「ここの城主に会えって！？	「You want me to meet the lord of this castle!?
-20410	+	　もう！　封印しておいて、一方的ね！」	Jeez! You seal me away, then make such one-sided demands!」
+20409	Silbarrel Silbarella		「ここの城主に会えって！？	「You want me to meet the lord of this castle!?
+20410	+		　もう！　封印しておいて、一方的ね！」	Jeez! You seal me away, then make such one-sided demands!」
 
-20411	Rance	「おっ、来た来た。	「Oh, here she comes.
-20412	+	　どうも気の強い子みたいだな」	She seems like a strong-willed girl.」
+20411	Rance		「おっ、来た来た。	「Oh, here she comes.
+20412	+		　どうも気の強い子みたいだな」	She seems like a strong-willed girl.」
 
-20413	Rance	「……………む？　いや、この、声……？」	「...Hm? No, this voice...?」
+20413	Rance	だる顔	「……………む？　いや、この、声……？」	「...Hm? No, this voice...?」
 
-20414	Silbarrel Silbarella	「はいはいどうも。こんにちは……	「Yes, yes, hello. Good afternoon...
-20415	+	　って、あああ、あんた！」	Wait, a-a-a-ah, you!」
+20414	Silbarrel Silbarella	基本	「はいはいどうも。こんにちは……	「Yes, yes, hello. Good afternoon...
+20415	+		　って、あああ、あんた！」	Wait, a-a-a-ah, you!」
 
-20416	Rance	「ぎゃあああああああああああぁぁぁっ！」	「Gyaaaaaaaaaaaaaaaaaaaaaaaaah!」
+20416	Rance	怒り	「ぎゃあああああああああああぁぁぁっ！」	「Gyaaaaaaaaaaaaaaaaaaaaaaaaah!」
 
-20417	-	ランスの呼吸が停止した。	Rance's breathing stopped.
+20417	-		ランスの呼吸が停止した。	Rance's breathing stopped.
 
-20418	Silbarrel Silbarella	「いつぞやの失礼な冒険者……って、なによ！	「That rude adventurer from before... hey!
-20419	+	　人の顔を見て、失礼ね！！」	It's rude to look at someone's face like that!!」
+20418	Silbarrel Silbarella		「いつぞやの失礼な冒険者……って、なによ！	「That rude adventurer from before... hey!
+20419	+		　人の顔を見て、失礼ね！！」	It's rude to look at someone's face like that!!」
 
-20420	Sill Plain	「あああ、ランス様ー！	「A-a-ah, Master Rance!
-20421	+	　い、いたいのいたいのとんでけー！」	P-Pain, pain, go away!」
+20420	Sill Plain	慌て	「あああ、ランス様ー！	「A-a-ah, Master Rance!
+20421	+		　い、いたいのいたいのとんでけー！」	P-Pain, pain, go away!」
 
-20422	Crook Mofus	「これは……完全復活が必要ですね」	「This... will require a full resurrection.」
+20422	Crook Mofus	基本	「これは……完全復活が必要ですね」	「This... will require a full resurrection.」
 
-20423	Rance	「…………はっ！」	「...Hah!」
+20423	Rance	驚き	「…………はっ！」	「...Hah!」
 
-20424	-	目を覚ましたランスは、	Rance, who had regained consciousness,
-20425	+	光の速さで玉座の後ろに回った。	moved behind the throne at the speed of light.
+20424	-		目を覚ましたランスは、	Rance, who had regained consciousness,
+20425	+		光の速さで玉座の後ろに回った。	moved behind the throne at the speed of light.
 
-20426	Rance	「な、ななな、なんで！　あ、あ、あのブスが！	「W-w-w-w-why! Why is t-t-t-that ugly hag
-20427	+	　ここにいるんじゃーーーー！！」	here!一!」
+20426	Rance	怒り	「な、ななな、なんで！　あ、あ、あのブスが！	「W-w-w-w-why! Why is t-t-t-that ugly hag
+20427	+		　ここにいるんじゃーーーー！！」	here!一!」
 
-20428	Crook Mofus	「ですから、封印が解けたと」	「I told you, the seal broke.」
+20428	Crook Mofus	基本	「ですから、封印が解けたと」	「I told you, the seal broke.」
 
-20429	Crook Mofus	「封印具の中で濃縮され、強化された力が、	「The power that was concentrated and strengthened inside the sealing tool
-20430	+	　封印を破ったのです」	broke the seal.」
+20429	Crook Mofus		「封印具の中で濃縮され、強化された力が、	「The power that was concentrated and strengthened inside the sealing tool
+20430	+		　封印を破ったのです」	broke the seal.」
 
-20431	Rance	「そんな馬鹿な……うっぷ……！	「That's impossible... ugh...!
-20432	+	　め、目に入れてないのに吐き気が……	I-I'm not even looking at her, yet I feel nauseous...
-20433	+	　な、なんというブス力だ……」	W-What an ugly power...」
+20431	Rance	驚き	「そんな馬鹿な……うっぷ……！	「That's impossible... ugh...!
+20432	+		　め、目に入れてないのに吐き気が……	I-I'm not even looking at her, yet I feel nauseous...
+20433	+		　な、なんというブス力だ……」	W-What an ugly power...」
 
-20434	Silbarrel Silbarella	「ちょっと！　黙って聞いてれば！	「Hey! I've been quiet, and all I hear is
-20435	+	　ブスブスうるさいのよ！」	'ugly, ugly'! Shut it!」
+20434	Silbarrel Silbarella	怒り	「ちょっと！　黙って聞いてれば！	「Hey! I've been quiet, and all I hear is
+20435	+		　ブスブスうるさいのよ！」	'ugly, ugly'! Shut it!」
 
-20436	Silbarrel Silbarella	「子供みたいに女性の顔を囃したてて！	「Mocking a woman's face like a child!
-20437	+	　いい加減にしなさいよ！」	Cut it out already!」
+20436	Silbarrel Silbarella		「子供みたいに女性の顔を囃したてて！	「Mocking a woman's face like a child!
+20437	+		　いい加減にしなさいよ！」	Cut it out already!」
 
-20438	Rance	「だ、黙れ！	「S-Shut up!
-20439	+	　死活問題でなければ気になどするか！	As if I'd care if it wasn't a matter of life and death!
-20440	+	　こんな……っ……ぐ、うぐごごご……！」	Such a... gh, ugugogogogo...!」
+20438	Rance		「だ、黙れ！	「S-Shut up!
+20439	+		　死活問題でなければ気になどするか！	As if I'd care if it wasn't a matter of life and death!
+20440	+		　こんな……っ……ぐ、うぐごごご……！」	Such a... gh, ugugogogogo...!」
 
-20441	Sill Plain	「ああっ、言葉を交わしただけでランス様が	「A-ah, Master Rance has turned pale
-20442	+	　顔面蒼白に！」	just by exchanging words!」
+20441	Sill Plain	慌て	「ああっ、言葉を交わしただけでランス様が	「A-ah, Master Rance has turned pale
+20442	+		　顔面蒼白に！」	just by exchanging words!」
 
-20443	Crook Mofus	「謁見と挨拶はもう良いでしょう。	「The audience and greetings should be enough now.
-20444	+	　行きましょう」	Let's go.」
+20443	Crook Mofus	基本	「謁見と挨拶はもう良いでしょう。	「The audience and greetings should be enough now.
+20444	+		　行きましょう」	Let's go.」
 
-20445	Silbarrel Silbarella	「なんであんた、防護服着てんのよ」	「Why are you wearing a hazmat suit?」
+20445	Silbarrel Silbarella		「なんであんた、防護服着てんのよ」	「Why are you wearing a hazmat suit?」
 
-20446	Crook Mofus	「お気になさらず」	「Don't mind it.」
+20446	Crook Mofus	目逸らし	「お気になさらず」	「Don't mind it.」
 
-20447	-	伝説のブス、シルバレルがランス城にやってきた。	The legendary ugly woman, Silbarrel, had come to Rance Castle.
+20447	-		伝説のブス、シルバレルがランス城にやってきた。	The legendary ugly woman, Silbarrel, had come to Rance Castle.

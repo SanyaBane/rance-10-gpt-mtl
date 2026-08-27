@@ -3,136 +3,136 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-139947	Silky Littleraisin	「待っていたわ」	「I've been waiting.」
+139947	Silky Littleraisin	非武装	「待っていたわ」	「I've been waiting.」
 
-139948	-	開口一番、魔人シルキィはそう言った。	As soon as they arrived, Fiend Silky said that.
+139948	-		開口一番、魔人シルキィはそう言った。	As soon as they arrived, Fiend Silky said that.
 
-139949	Silky Littleraisin	「私のところに来たということは……」	「The fact that you came to me means...」
+139949	Silky Littleraisin		「私のところに来たということは……」	「The fact that you came to me means...」
 
-139950	Rance	「うむ、そろそろホーネットを助けに行く。	「Yeah, it's time to go rescue Hornet.
-139951	+	　もちろん、君にも協力してもらうぞ」	　Of course, I'll need your help too.」
+139950	Rance	基本	「うむ、そろそろホーネットを助けに行く。	「Yeah, it's time to go rescue Hornet.
+139951	+		　もちろん、君にも協力してもらうぞ」	　Of course, I'll need your help too.」
 
-139952	-	シルキィは戦場に立っているときの	Silky answered not in her warrior tone from the battlefield,
-139953	+	武人のような口調ではなく、	but in a girl's soft voice.
-139954	+	女の子の口調で答えた。	
+139952	-		シルキィは戦場に立っているときの	Silky answered not in her warrior tone from the battlefield,
+139953	+		武人のような口調ではなく、	but in a girl's soft voice.
+139954	+		女の子の口調で答えた。	
 
-139955	Silky Littleraisin	「ええ、分かったわ。	「Yes, understood.
-139956	+	　必要なときにはいつでも呼んで。	　Call me anytime you need me.
-139957	+	　準備なら出来てる」	　I'm already prepared.」
+139955	Silky Littleraisin	非武装	「ええ、分かったわ。	「Yes, understood.
+139956	+		　必要なときにはいつでも呼んで。	　Call me anytime you need me.
+139957	+		　準備なら出来てる」	　I'm already prepared.」
 
-139958	Satella	「ところで……	「By the way...
-139959	+	　なにをしていたんだ？」	　What were you doing?」
+139958	Satella	基本	「ところで……	「By the way...
+139959	+		　なにをしていたんだ？」	　What were you doing?」
 
-139960	-	シルキィは重量200キロある魔導具リトルを	Silky was lifting the 200kg magic tool Little
-139961	+	バーベル代わりにして片手で持ち上げていた。	with one hand like a barbell.
+139960	-		シルキィは重量200キロある魔導具リトルを	Silky was lifting the 200kg magic tool Little
+139961	+		バーベル代わりにして片手で持ち上げていた。	with one hand like a barbell.
 
-139962	Silky Littleraisin	「軽いトレーニングね。	「Just light training.
-139963	+	　貴方達もやる？」	　Want to join?」
+139962	Silky Littleraisin	非武装／笑顔	「軽いトレーニングね。	「Just light training.
+139963	+		　貴方達もやる？」	　Want to join?」
 
-139964	Rance	「……いや、いい」	「...No thanks.」
+139964	Rance	真剣	「……いや、いい」	「...No thanks.」
 
-139965	Rance	「しかし今まで戦い続けていたんだろ？	「But you've been fighting all this time, right?
-139966	+	　ダラダラと過ごしたらどうだ？」	　Why not just relax for once?」
+139965	Rance	基本	「しかし今まで戦い続けていたんだろ？	「But you've been fighting all this time, right?
+139966	+		　ダラダラと過ごしたらどうだ？」	　Why not just relax for once?」
 
-139967	Silky Littleraisin	「性分かしらね……	「It's just my nature...
-139968	+	　何かしていないと辛くて……」	　I feel bad if I'm not doing something...」
+139967	Silky Littleraisin	非武装	「性分かしらね……	「It's just my nature...
+139968	+		　何かしていないと辛くて……」	　I feel bad if I'm not doing something...」
 
-139969	Rance	「そんなもんか」	「I see.」
+139969	Rance	基本	「そんなもんか」	「I see.」
 
-139970	Satella	「ふん、シルキィはお前のような	「Hmph, unlike a slacker like you,
-139971	+	　怠け者と違って勤勉だからな」	　Silky is diligent.」
+139970	Satella	ふふん	「ふん、シルキィはお前のような	「Hmph, unlike a slacker like you,
+139971	+		　怠け者と違って勤勉だからな」	　Silky is diligent.」
 
-139972	Rance	「何故、サテラが偉そうにする」	「Why is Satella acting so high and mighty?」
+139972	Rance	だる顔	「何故、サテラが偉そうにする」	「Why is Satella acting so high and mighty?」
 
-139973	Rance	「まあいい、話を戻すぞ。	「Whatever, back to the topic.
-139974	+	　ホーネットはまだ無事だろうか？」	　Is Hornet still safe?」
+139973	Rance	真剣	「まあいい、話を戻すぞ。	「Whatever, back to the topic.
+139974	+		　ホーネットはまだ無事だろうか？」	　Is Hornet still safe?」
 
-139975	Silky Littleraisin	「おそらくは。	「Most likely.
-139976	+	　処刑していたら、	　If he executed her,
-139977	+	　ケイブリスは声高に宣伝する筈よ」	　Kayblis would loudly announce it.」
+139975	Silky Littleraisin	非武装	「おそらくは。	「Most likely.
+139976	+		　処刑していたら、	　If he executed her,
+139977	+		　ケイブリスは声高に宣伝する筈よ」	　Kayblis would loudly announce it.」
 
-139978	Silky Littleraisin	「ホーネット派残党の意志を挫くことが出来るもの」	　To crush the remaining Hornet faction's will.」
+139978	Silky Littleraisin		「ホーネット派残党の意志を挫くことが出来るもの」	　To crush the remaining Hornet faction's will.」
 
-139979	Rance	「なるほどね」	「I see.」
+139979	Rance	基本	「なるほどね」	「I see.」
 
-139980	Silky Littleraisin	「ホーネット様が捕らえられている場所は、	「The place where Lady Hornet is held is,
-139981	+	　おそらくだけど……魔王城だと思う」	　probably... the Demon King Castle.」
+139980	Silky Littleraisin	非武装	「ホーネット様が捕らえられている場所は、	「The place where Lady Hornet is held is,
+139981	+		　おそらくだけど……魔王城だと思う」	　probably... the Demon King Castle.」
 
-139982	Rance	「魔王城？」	「Demon King Castle?」
+139982	Rance	基本	「魔王城？」	「Demon King Castle?」
 
-139983	Silky Littleraisin	「先代の魔王、ガイ様がお住まいになられた城。	「The castle where the previous Demon King, Gai-sama, resided.
-139984	+	　そして、ホーネット派の本拠地よ。	　And the headquarters of the Hornet faction.
-139985	+	　元、だけどね……」	　Formerly, that is...」
+139983	Silky Littleraisin	非武装	「先代の魔王、ガイ様がお住まいになられた城。	「The castle where the previous Demon King, Gai-sama, resided.
+139984	+		　そして、ホーネット派の本拠地よ。	　And the headquarters of the Hornet faction.
+139985	+		　元、だけどね……」	　Formerly, that is...」
 
-139986	Satella	「ふん、それも今だけの話だ。	「Hmph, that's only for now.
-139987	+	　いずれ取り戻す」	　We'll take it back eventually.」
+139986	Satella	基本	「ふん、それも今だけの話だ。	「Hmph, that's only for now.
+139987	+		　いずれ取り戻す」	　We'll take it back eventually.」
 
-139988	Silky Littleraisin	「あの城にはホーネット様を始め、	「In that castle, Lady Hornet and
-139989	+	　私達の仲間も沢山捕らえられている……	　many of our comrades are imprisoned...
-139990	+	　出来れば全員助けたいが……」	　If possible I'd like to save them all but...」
+139988	Silky Littleraisin	非武装	「あの城にはホーネット様を始め、	「In that castle, Lady Hornet and
+139989	+		　私達の仲間も沢山捕らえられている……	　many of our comrades are imprisoned...
+139990	+		　出来れば全員助けたいが……」	　If possible I'd like to save them all but...」
 
-139991	Rance	「駄目だ。	「No.
-139992	+	　二兎追う者はなんちゃらだ、	　You can't chase two rabbits at once,
-139993	+	　ホーネットだけに狙いを絞る。いいな？」	　we focus only on Hornet. Got it?」
+139991	Rance	基本	「駄目だ。	「No.
+139992	+		　二兎追う者はなんちゃらだ、	　You can't chase two rabbits at once,
+139993	+		　ホーネットだけに狙いを絞る。いいな？」	　we focus only on Hornet. Got it?」
 
-139994	Silky Littleraisin	「…………」	「............」
+139994	Silky Littleraisin	非武装	「…………」	「............」
 
-139995	-	シルキィは返事をしなかったが、	Silky didn't reply,
-139996	+	ランスは気にせず話を続けた。	but Rance continued without minding.
+139995	-		シルキィは返事をしなかったが、	Silky didn't reply,
+139996	+		ランスは気にせず話を続けた。	but Rance continued without minding.
 
-139997	Rance	「で、防衛とかはどんなもんだろうな」	「So, how's the defense there?」
+139997	Rance	基本	「で、防衛とかはどんなもんだろうな」	「So, how's the defense there?」
 
-139998	Silky Littleraisin	「おそらく、相当のものになる筈……	「It will probably turn into something quite serious......
-139999	+	　ケイブリスが最も警戒しているのは	　The one Kayblis is most wary of
-140000	+	　ホーネット様でしょうから……」	　is Lady Hornet......」
+139998	Silky Littleraisin	非武装	「おそらく、相当のものになる筈……	「It will probably turn into something quite serious......
+139999	+		　ケイブリスが最も警戒しているのは	　The one Kayblis is most wary of
+140000	+		　ホーネット様でしょうから……」	　is Lady Hornet......」
 
-140001	Silky Littleraisin	「生半可な準備では失敗すると思うわ。	「Half-hearted preparations will lead to failure I think.
-140002	+	　大丈夫？」	　Are you sure?」
+140001	Silky Littleraisin		「生半可な準備では失敗すると思うわ。	「Half-hearted preparations will lead to failure I think.
+140002	+		　大丈夫？」	　Are you sure?」
 
-140003	Rance	「大丈夫も駄目もない」	「There's no such thing as sure or not sure.」
+140003	Rance	基本	「大丈夫も駄目もない」	「There's no such thing as sure or not sure.」
 
-140004	Rance	「俺様がホーネットを助けると言えば、	「If I say I'll save Hornet,
-140005	+	　それは絶対にそうなるのだ」	　then it will absolutely happen.」
+140004	Rance		「俺様がホーネットを助けると言えば、	「If I say I'll save Hornet,
+140005	+		　それは絶対にそうなるのだ」	　then it will absolutely happen.」
 
-140006	Silky Littleraisin	「……呆れた。	「......I'm stunned.
-140007	+	　すごい自信」	　What incredible confidence.」
+140006	Silky Littleraisin	非武装	「……呆れた。	「......I'm stunned.
+140007	+		　すごい自信」	　What incredible confidence.」
 
-140008	Rance	「がははははははは！	「Gahahahahahaha!
-140009	+	　そうだ、俺様はすごいのだ！	　That's right, I'm amazing!
-140010	+	　今までも何度となく危機を乗り越えたからな！」	　I've overcome countless crises before!」
+140008	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+140009	+		　そうだ、俺様はすごいのだ！	　That's right, I'm amazing!
+140010	+		　今までも何度となく危機を乗り越えたからな！」	　I've overcome countless crises before!」
 
-140011	Silky Littleraisin	「そう……	「I see......
-140012	?	　羨ましいわ」	　I'm envious.」
+140011	Silky Littleraisin	非武装	「そう……	「I see......
+140012	?		　羨ましいわ」	　I'm envious.」
 
-140013	Silky Littleraisin	「でも、貴方が言うならそうなのかもね」	「But if you say so, then it must be true.」
+140013	Silky Littleraisin	非武装／笑顔	「でも、貴方が言うならそうなのかもね」	「But if you say so, then it must be true.」
 
-140014	Silky Littleraisin	「私がホーネット派に与するのは……	「The reason I side with the Hornet faction is......
-140015	+	　それが最も争いが少なくなると信じてるから」	　because I believe it will lead to the least conflict.」
+140014	Silky Littleraisin	非武装	「私がホーネット派に与するのは……	「The reason I side with the Hornet faction is......
+140015	+		　それが最も争いが少なくなると信じてるから」	　because I believe it will lead to the least conflict.」
 
-140016	Silky Littleraisin	「その点において、私は人類の味方であると思う」	「In that sense, I consider myself an ally of humanity.」
+140016	Silky Littleraisin		「その点において、私は人類の味方であると思う」	「In that sense, I consider myself an ally of humanity.」
 
-140017	Silky Littleraisin	「ランス総統、私の力を使ってちょうだい。	「Supreme Leader Rance, please use my power.
-140018	+	　ホーネット派が勝つためなら、	　For the victory of the Hornet faction,
-140019	+	　私はどんなことでもするから」	　I will do anything.」
+140017	Silky Littleraisin		「ランス総統、私の力を使ってちょうだい。	「Supreme Leader Rance, please use my power.
+140018	+		　ホーネット派が勝つためなら、	　For the victory of the Hornet faction,
+140019	+		　私はどんなことでもするから」	　I will do anything.」
 
-140020	Rance	「ん？　よく分からんが分かった。	「Hm? I don't really get it but I got it.
-140021	+	　時が来たらバシバシ働いてもらおう」	　When the time comes I'll have you work hard.」
+140020	Rance	基本	「ん？　よく分からんが分かった。	「Hm? I don't really get it but I got it.
+140021	+		　時が来たらバシバシ働いてもらおう」	　When the time comes I'll have you work hard.」
 
-140022	Rance	「シルキィがホーネットを	「I understand why you want to save Hornet, Silky,
-140023	+	　救いたい理由は分かったが、	　but
-140024	+	　そういえば、サテラは何故なんだ？」	　by the way, why is Satella doing this?」
+140022	Rance		「シルキィがホーネットを	「I understand why you want to save Hornet, Silky,
+140023	+		　救いたい理由は分かったが、	　but
+140024	+		　そういえば、サテラは何故なんだ？」	　by the way, why is Satella doing this?」
 
-140025	Satella	「ホーネット様はサテラにとって大事な人だ。	「Lady Hornet is an important person to Satella.
-140026	+	　理由なんてそれで充分だろう」	　That's reason enough.」
+140025	Satella		「ホーネット様はサテラにとって大事な人だ。	「Lady Hornet is an important person to Satella.
+140026	+		　理由なんてそれで充分だろう」	　That's reason enough.」
 
-140027	Rance	「考えなしってことか」	「So you're just going with the flow.」
+140027	Rance		「考えなしってことか」	「So you're just going with the flow.」
 
-140028	Satella	「な、違う！　サテラの話	「N-No! Weren't you listening
-140029	+	　聞いてなかったのかお前は！」	　to Satella's story!?」
+140028	Satella	ツンデレ	「な、違う！　サテラの話	「N-No! Weren't you listening
+140029	+		　聞いてなかったのかお前は！」	　to Satella's story!?」
 
-140030	Silky Littleraisin	「…………」	「............」
+140030	Silky Littleraisin	非武装	「…………」	「............」
 
-140031	-	二人が言い合う賑やかな声を遠くに聞き、	Listening to the lively voices of the two arguing from afar,
-140032	+	シルキィがそっと窓から空を見上げる。	Silky quietly looked up at the sky from the window.
+140031	-		二人が言い合う賑やかな声を遠くに聞き、	Listening to the lively voices of the two arguing from afar,
+140032	+		シルキィがそっと窓から空を見上げる。	Silky quietly looked up at the sky from the window.
 
-140033	Silky Littleraisin	「ここはいいわね……」	「This place is nice......」
+140033	Silky Littleraisin	非武装／笑顔	「ここはいいわね……」	「This place is nice......」

@@ -3,120 +3,120 @@
 * Kaybwan	ケイブワン	Female
 * Stroganoff	ストロガノフ	Male
 
-249352	Kayblis	「なんだとォォォォ！？」	「What the hell!?!?」
+249352	Kayblis	基本	「なんだとォォォォ！？」	「What the hell!?!?」
 
-249353	Kaybwan	「ぎゃぴぃ！？」	「Gyapii!?」
+249353	Kaybwan	ぐぬぬ	「ぎゃぴぃ！？」	「Gyapii!?」
 
-249354	-	ケイブリス城の広間で	In the hall of Kayblis Castle
-249355	+	怒号とケイブワンの悲鳴が響いた。	Kayblis's roar and Kaybwan's scream echoed.
+249354	-		ケイブリス城の広間で	In the hall of Kayblis Castle
+249355	+		怒号とケイブワンの悲鳴が響いた。	Kayblis's roar and Kaybwan's scream echoed.
 
-249356	Kayblis	「魔王を見つけたのに逃しただァァァァー！？」	「You found the Demon King but let her escape!?!?!」
+249356	Kayblis	基本	「魔王を見つけたのに逃しただァァァァー！？」	「You found the Demon King but let her escape!?!?!」
 
-249357	Kayblis	「なら、魔王は！？　どこに行きやがった！？」	「Then where is the Demon King!? Where did she go!?」
+249357	Kayblis		「なら、魔王は！？　どこに行きやがった！？」	「Then where is the Demon King!? Where did she go!?」
 
-249358	Kaybwan	「ひぐっ！？」	「Higu!?」
+249358	Kaybwan	ぐぬぬ	「ひぐっ！？」	「Higu!?」
 
-249359	Kaybwan	「に、人間の特別部隊に	「S-She seems to have been taken away
-249360	+	　連れ去られたようで……」	　by a human special unit...」
+249359	Kaybwan		「に、人間の特別部隊に	「S-She seems to have been taken away
+249360	+		　連れ去られたようで……」	　by a human special unit...」
 
-249361	Kayblis	「なーーーにーーー！？」	「Whaaaaat!?!?」
+249361	Kayblis	基本	「なーーーにーーー！？」	「Whaaaaat!?!?」
 
-249362	Kaybwan	「ひいーっ、がくがく、ぷるぷる……」	「Hii-, shaking, trembling...」
+249362	Kaybwan	ぐぬぬ	「ひいーっ、がくがく、ぷるぷる……」	「Hii-, shaking, trembling...」
 
-249363	-	ケイブワンは雨に降られた小動物のように	Kaybwan trembled like a small animal caught in the rain,
-249364	+	小さな体を小刻みに震わせていた。	her small body shaking violently.
+249363	-		ケイブワンは雨に降られた小動物のように	Kaybwan trembled like a small animal caught in the rain,
+249364	+		小さな体を小刻みに震わせていた。	her small body shaking violently.
 
-249365	Kayblis	「確か……カオスマスターだったか……」	「It was... the Chaos Master, right...」
+249365	Kayblis	基本	「確か……カオスマスターだったか……」	「It was... the Chaos Master, right...」
 
-249366	Kayblis	「ちっ、邪魔な奴らだぜ」	「Tch, what annoying bastards.」
+249366	Kayblis		「ちっ、邪魔な奴らだぜ」	「Tch, what annoying bastards.」
 
-249367	Kaybwan	「あ、あの……ケイブリス様……？	「U-Um... Lord Kayblis...?
-249368	+	　そのぉー……お仕置きは？」	　About the... punishment?」
+249367	Kaybwan	ぐぬぬ	「あ、あの……ケイブリス様……？	「U-Um... Lord Kayblis...?
+249368	+		　そのぉー……お仕置きは？」	　About the... punishment?」
 
-249369	Kayblis	「ん、ああ、構わねぇよ。	「Hm, ah, it's fine.
-249370	+	　お前は最強無敵の俺様の使徒だから、	　You're my strongest invincible apostle,
-249371	+	　多少のミスくらい許してやらぁ」	　so I'll forgive a little mistake.」
+249369	Kayblis	基本	「ん、ああ、構わねぇよ。	「Hm, ah, it's fine.
+249370	+		　お前は最強無敵の俺様の使徒だから、	　You're my strongest invincible apostle,
+249371	+		　多少のミスくらい許してやらぁ」	　so I'll forgive a little mistake.」
 
-249372	Kaybwan	「さ、さすがケイブリス様わん……	「A-As expected of Lord Kayblis, wan...
-249373	+	　ワンは一生ついて行くわん」	　I'll follow you for life, wan.」
+249372	Kaybwan		「さ、さすがケイブリス様わん……	「A-As expected of Lord Kayblis, wan...
+249373	+		　ワンは一生ついて行くわん」	　I'll follow you for life, wan.」
 
-249374	Kayblis	「ぐぅはぁはぁはぁはぁ！	「Guha ha ha ha ha!
-249375	+	　そうだろう、そうだろう！」	　That's right, that's right!」
+249374	Kayblis		「ぐぅはぁはぁはぁはぁ！	「Guha ha ha ha ha!
+249375	+		　そうだろう、そうだろう！」	　That's right, that's right!」
 
-249376	Kayblis~	（ってか、人間の部隊が来てたんなら、	（Besides, if a human unit was there,
-249377	+	　ケイブワンじゃ太刀打ちできねぇからな……）	　Kaybwan wouldn't stand a chance anyway...）
+249376	Kayblis~		（ってか、人間の部隊が来てたんなら、	（Besides, if a human unit was there,
+249377	+		　ケイブワンじゃ太刀打ちできねぇからな……）	　Kaybwan wouldn't stand a chance anyway...）
 
-249378	Kayblis	「それよりストロガノフ！	「More importantly, Stroganoff!
-249379	+	　てめぇの部隊は何してやがった！	　What the hell was your unit doing!
-249380	+	　確かそっちも霧の山にいた筈だろう！」	　Weren't they in the Misty Mountains too!?」
+249378	Kayblis		「それよりストロガノフ！	「More importantly, Stroganoff!
+249379	+		　てめぇの部隊は何してやがった！	　What the hell was your unit doing!
+249380	+		　確かそっちも霧の山にいた筈だろう！」	　Weren't they in the Misty Mountains too!?」
 
-249381	Kaybwan	「こういうとこ案外細かいわん……」	「He's surprisingly picky about these things, wan...」
+249381	Kaybwan		「こういうとこ案外細かいわん……」	「He's surprisingly picky about these things, wan...」
 
-249382	Stroganoff	「それは……」	「That is...
+249382	Stroganoff		「それは……」	「That is...
 
-249383	Kaybwan	「〜♪」	「~♪」
+249383	Kaybwan	講釈たれ	「〜♪」	「~♪」
 
-249384	-	マエリータ隊を追い返した当の本人は	The very person who drove back the Maelita Squad
-249385	+	冷や汗を垂らしながら口笛を吹いていた。	was whistling while breaking into a cold sweat.
+249384	-		マエリータ隊を追い返した当の本人は	The very person who drove back the Maelita Squad
+249385	+		冷や汗を垂らしながら口笛を吹いていた。	was whistling while breaking into a cold sweat.
 
-249386	Stroganoff	「……申し開きはありません」	「...I have no excuse.」
+249386	Stroganoff	基本	「……申し開きはありません」	「...I have no excuse.」
 
-249387	Kayblis	「けっ！	「Heh!
-249388	+	　そうチャンスは何度もやらねぇぞ！」	　I won't give you chances like this again!」
+249387	Kayblis		「けっ！	「Heh!
+249388	+		　そうチャンスは何度もやらねぇぞ！」	　I won't give you chances like this again!」
 
-249389	Stroganoff	「はっ……」	「Yes...」
+249389	Stroganoff		「はっ……」	「Yes...」
 
-249390	Stroganoff	「しかし、カオスマスターを含む	「However, the special human unit including the Chaos Master
-249391	+	　人間共の特別部隊は少々厄介ですな……」	　is rather troublesome...」
+249390	Stroganoff		「しかし、カオスマスターを含む	「However, the special human unit including the Chaos Master
+249391	+		　人間共の特別部隊は少々厄介ですな……」	　is rather troublesome...」
 
-249392	Stroganoff	「早急に手を打った方が良いやも……」	「We should take swift action...」
+249392	Stroganoff		「早急に手を打った方が良いやも……」	「We should take swift action...」
 
-249393	Kaybwan	「そうだわん！	「That's right, wan!
-249394	+	　あんな奴ら生かしておいたら駄目わん！」	　We can't let bastards like that live, wan!」
+249393	Kaybwan		「そうだわん！	「That's right, wan!
+249394	+		　あんな奴ら生かしておいたら駄目わん！」	　We can't let bastards like that live, wan!」
 
-249395	Kaybwan	「あ、知性派のワンがいいこと思いついたわん。	「Ah, the intellectual wan has a good idea, wan.
-249396	+	　ケイブリス様が直接やっつけてはどうですわん？」	　How about Lord Kayblis goes and crushes them himself, wan?」
+249395	Kaybwan		「あ、知性派のワンがいいこと思いついたわん。	「Ah, the intellectual wan has a good idea, wan.
+249396	+		　ケイブリス様が直接やっつけてはどうですわん？」	　How about Lord Kayblis goes and crushes them himself, wan?」
 
-249397	Kayblis	「ああ？　俺様がだと？」	「Huh? Me?」
+249397	Kayblis		「ああ？　俺様がだと？」	「Huh? Me?」
 
-249398	Kaybwan	「ケイブリス様の力なら、	「With Lord Kayblis's power,
-249399	+	　楽勝、圧勝、ぺったんこですわん」	　it would be an easy victory, total domination, flattened, wan.」
+249398	Kaybwan		「ケイブリス様の力なら、	「With Lord Kayblis's power,
+249399	+		　楽勝、圧勝、ぺったんこですわん」	　it would be an easy victory, total domination, flattened, wan.」
 
-249400	Kaybwan	「それにたまには体を動かさないと	「Besides, you said you would get out of shape
-249401	+	　運動不足になると仰っていましたし」	　if you don't move your body occasionally.」
+249400	Kaybwan		「それにたまには体を動かさないと	「Besides, you said you would get out of shape
+249401	+		　運動不足になると仰っていましたし」	　if you don't move your body occasionally.」
 
-249402	Stroganoff	「それは……良いかも知れませんな。	「That... might be good.
-249403	+	　ケイブリス様の出撃は魔軍の士気向上にも	　Lord Kayblis taking the field would also boost the Monster Army's morale.」
-249404	+	　繋がることでしょう」	
+249402	Stroganoff		「それは……良いかも知れませんな。	「That... might be good.
+249403	+		　ケイブリス様の出撃は魔軍の士気向上にも	　Lord Kayblis taking the field would also boost the Monster Army's morale.」
+249404	+		　繋がることでしょう」	
 
-249405	Kayblis	「ああ？　いいのか？	「Huh? Is it okay?
-249406	+	　俺様が出たら絶対に勝つ。	　If I go out, victory is guaranteed.
-249407	+	　敵の特別部隊なんざ皆殺しだ」	　I'll slaughter the entire enemy special unit.」
+249405	Kayblis		「ああ？　いいのか？	「Huh? Is it okay?
+249406	+		　俺様が出たら絶対に勝つ。	　If I go out, victory is guaranteed.
+249407	+		　敵の特別部隊なんざ皆殺しだ」	　I'll slaughter the entire enemy special unit.」
 
-249408	Kayblis	「マエリータ隊の汚名返上のチャンス	「This is a chance for the Maelita Squad to clear its name,
-249409	+	　みすみすふいにするぞ？」	　are you sure you want to waste it?」
+249408	Kayblis		「マエリータ隊の汚名返上のチャンス	「This is a chance for the Maelita Squad to clear its name,
+249409	+		　みすみすふいにするぞ？」	　are you sure you want to waste it?」
 
-249410	Stroganoff	「構いません。	「I don't mind.
-249411	+	　儂の願いは魔軍の勝利のみ」	　My only wish is victory for the Monster Army.」
+249410	Stroganoff		「構いません。	「I don't mind.
+249411	+		　儂の願いは魔軍の勝利のみ」	　My only wish is victory for the Monster Army.」
 
-249412	Kayblis	「ふむ……」	「Hmm...」
+249412	Kayblis		「ふむ……」	「Hmm...」
 
-249413	Kayblis	「確かに俺様が出たらまず俺の勝ちだろう。	「If I go, it's basically my win.
-249414	+	　負ける可能性は万が一……	　The chance of losing is one in ten thousand...
-249415	+	　いや、億が一にもありえねぇ」	　No, not even one in a billion.」
+249413	Kayblis		「確かに俺様が出たらまず俺の勝ちだろう。	「If I go, it's basically my win.
+249414	+		　負ける可能性は万が一……	　The chance of losing is one in ten thousand...
+249415	+		　いや、億が一にもありえねぇ」	　No, not even one in a billion.」
 
-249416	Stroganoff	「では……」	「Then...
+249416	Stroganoff		「では……」	「Then...
 
-249417	Kayblis	「――だが」	「--However」
+249417	Kayblis		「――だが」	「--However」
 
-249418	Kayblis	「100兆分の1くらいなら、	「One in a hundred trillion,
-249419	+	　もしかしてがあるかも知れねぇ」	　there might be a slim chance.」
+249418	Kayblis		「100兆分の1くらいなら、	「One in a hundred trillion,
+249419	+		　もしかしてがあるかも知れねぇ」	　there might be a slim chance.」
 
-249420	Kayblis	「俺様はもう魔軍の長だからな。	「I am already the leader of the Monster Army.
-249421	+	　慎重にならなけりゃよぉ」	　I have to be cautious.」
+249420	Kayblis		「俺様はもう魔軍の長だからな。	「I am already the leader of the Monster Army.
+249421	+		　慎重にならなけりゃよぉ」	　I have to be cautious.」
 
-249422	Stroganoff	「左様ですか。	「I see.
-249423	+	　かしこまりました」	　Understood.」
+249422	Stroganoff		「左様ですか。	「I see.
+249423	+		　かしこまりました」	　Understood.」
 
-249424	Kaybwan	「えー……	「Ehh...
-249425	+	　行ったら絶対簡単に勝てるのに……」	　You would definitely win easily if you went...」
+249424	Kaybwan		「えー……	「Ehh...
+249425	+		　行ったら絶対簡単に勝てるのに……」	　You would definitely win easily if you went...」

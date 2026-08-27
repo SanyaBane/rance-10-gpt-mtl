@@ -9,470 +9,470 @@
 * Kayblis	魔王ケイブリス	Male
 * Cola	コーラ	Male
 
-250143	Kayblis	「なにぃ！？　魔王を見つけただとぉ！？」	「What!? You found the Demon King!?」
+250143	Kayblis	基本	「なにぃ！？　魔王を見つけただとぉ！？」	「What!? You found the Demon King!?」
 
-250144	Kaybwan	「はい、そうですわん！」	「Yes, that's right wan!」
+250144	Kaybwan		「はい、そうですわん！」	「Yes, that's right wan!」
 
-250145	Kaybwan	「ただ、見つけたはいいものの……	「But even though we found her...
-250146	+	　そ、その……あまりに強くて……」	　S-she's... far too strong...」
+250145	Kaybwan		「ただ、見つけたはいいものの……	「But even though we found her...
+250146	+		　そ、その……あまりに強くて……」	　S-she's... far too strong...」
 
-250147	Kaybwan	「ぷるぷる、怖かった……」	「Shivering, it was so scary...」
+250147	Kaybwan	ぐぬぬ	「ぷるぷる、怖かった……」	「Shivering, it was so scary...」
 
-250148	Kayblis	「お、おい、ストロガノフ！」	「H-hey, Stroganoff!」
+250148	Kayblis	基本	「お、おい、ストロガノフ！」	「H-hey, Stroganoff!」
 
-250149	Stroganoff	「はっ、現在、	「Yes, currently
-250150	+	　配下のマエリータ隊が交戦状態です」	　the subordinate Maelita squad is engaged in combat.」
+250149	Stroganoff		「はっ、現在、	「Yes, currently
+250150	+		　配下のマエリータ隊が交戦状態です」	　the subordinate Maelita squad is engaged in combat.」
 
-250151	Stroganoff	「しかし……	「However...
-250152	+	　今、追い切れなくばまた逃げられ、	　If we don't finish her off now, she'll escape again
-250153	+	　見失う可能性がありますな……」	　and we might lose sight of her...」
+250151	Stroganoff		「しかし……	「However...
+250152	+		　今、追い切れなくばまた逃げられ、	　If we don't finish her off now, she'll escape again
+250153	+		　見失う可能性がありますな……」	　and we might lose sight of her...」
 
-250154	Stroganoff	「ケイブリス様、いかがなさいますか？	「Kayblis-sama, what shall we do?
-250155	+	　ここは増援を……」	　Should we send reinforcements...?」
+250154	Stroganoff		「ケイブリス様、いかがなさいますか？	「Kayblis-sama, what shall we do?
+250155	+		　ここは増援を……」	　Should we send reinforcements...?」
 
-250156	Kayblis	「…………う」	「............U」
+250156	Kayblis		「…………う」	「............U」
 
-250157	Kayblis	「う、いや、うぐ……ちょっと待ちやがれ……」	「U, no, ug... wait a second...」
+250157	Kayblis		「う、いや、うぐ……ちょっと待ちやがれ……」	「U, no, ug... wait a second...」
 
-250158	Stroganoff	「ケイブリス様？」	「Kayblis-sama?」
+250158	Stroganoff		「ケイブリス様？」	「Kayblis-sama?」
 
-250159	Kayblis	「……が出る」	「...I'm going out.」
+250159	Kayblis		「……が出る」	「...I'm going out.」
 
-250160	Stroganoff	「は？」	「Huh?」
+250160	Stroganoff		「は？」	「Huh?」
 
-250161	Kayblis	「俺様が出る！」	「I'm going myself!」
+250161	Kayblis		「俺様が出る！」	「I'm going myself!」
 
-250162	-	ケイブリスがついに立ち上がった。	Kayblis finally stood up.
+250162	-		ケイブリスがついに立ち上がった。	Kayblis finally stood up.
 
-250163	-	…………	............
+250163	-		…………	............
 
-250164	-	……	...
+250164	-		……	...
 
-250165	-	スルメ山――	Surume Mountain--
+250165	-		スルメ山――	Surume Mountain--
 
-250166	Kayblis	「舐めんじゃねぇぇ！	「Don't underestimate meeee!
-250167	+	　俺様は魔人筆頭、ケイブリス様だ！」	　I am the top Fiend, Kayblis-sama!」
+250166	Kayblis		「舐めんじゃねぇぇ！	「Don't underestimate meeee!
+250167	+		　俺様は魔人筆頭、ケイブリス様だ！」	　I am the top Fiend, Kayblis-sama!」
 
-250168	Kayblis	「てめぇみたいな羽虫魔人、	「A bug-like Fiend like you
-250169	+	　俺の前に立つこと自体、失礼なんだよ！」	　standing before me is already rude!」
+250168	Kayblis		「てめぇみたいな羽虫魔人、	「A bug-like Fiend like you
+250169	+		　俺の前に立つこと自体、失礼なんだよ！」	　standing before me is already rude!」
 
-250170	Ogawa Kentarou	「くっ……」	「Kuh...」
+250170	Ogawa Kentarou	刀持ち／流血	「くっ……」	「Kuh...」
 
-250171	-	ケイブリスと健太郎が洞窟を前に対峙していた。	Kayblis and Kentarou faced each other in front of the cave.
+250171	-		ケイブリスと健太郎が洞窟を前に対峙していた。	Kayblis and Kentarou faced each other in front of the cave.
 
-250172	-	余裕のある様子のケイブリスに対し、	While Kayblis looked composed,
-250173	+	既に健太郎は満身創痍。	Kentarou was already covered in wounds.
+250172	-		余裕のある様子のケイブリスに対し、	While Kayblis looked composed,
+250173	+		既に健太郎は満身創痍。	Kentarou was already covered in wounds.
 
-250174	Ogawa Kentarou	「美樹ちゃんに……手を出すな……」	「Don't... lay a hand on Miki-chan...」
+250174	Ogawa Kentarou		「美樹ちゃんに……手を出すな……」	「Don't... lay a hand on Miki-chan...」
 
-250175	-	ぼろぼろの体でなお、眼光だけは鋭く、	Even with his battered body, his eyes were sharp
-250176	+	ケイブリスを睨み付けていた。	as he glared at Kayblis.
+250175	-		ぼろぼろの体でなお、眼光だけは鋭く、	Even with his battered body, his eyes were sharp
+250176	+		ケイブリスを睨み付けていた。	as he glared at Kayblis.
 
-250177	Kayblis	「……気に食わねぇな。	「...I don't like that look.
-250178	+	　なんだァ？　その目はよぉ。	　What's with those eyes?
-250179	+	　まだまだしぶといじゃねぇか」	　You're still so stubborn.」
+250177	Kayblis	基本	「……気に食わねぇな。	「...I don't like that look.
+250178	+		　なんだァ？　その目はよぉ。	　What's with those eyes?
+250179	+		　まだまだしぶといじゃねぇか」	　You're still so stubborn.」
 
-250180	Kayblis	「――ならもう二度とそんな目が	「--Then I'll make sure you can never
-250181	+	　できないようにしてやらぁ！」	　make that face again!」
+250180	Kayblis		「――ならもう二度とそんな目が	「--Then I'll make sure you can never
+250181	+		　できないようにしてやらぁ！」	　make that face again!」
 
-250182	Kayblis	「おらおらおらおらおら！	「Ora ora ora ora ora!
-250183	+	　死ねや死ねや死ねやァァァァ！」	　Die die dieeee!」
+250182	Kayblis	怒り	「おらおらおらおらおら！	「Ora ora ora ora ora!
+250183	+		　死ねや死ねや死ねやァァァァ！」	　Die die dieeee!」
 
-250184	-	ケイブリスの拳一つ一つが、	Each of Kayblis's punches
-250185	+	まるで落雷のような轟音を伴って	came with thunderous roars like lightning strikes
-250186	+	健太郎の体に降り注ぐ。	raining down on Kentarou's body.
+250184	-		ケイブリスの拳一つ一つが、	Each of Kayblis's punches
+250185	+		まるで落雷のような轟音を伴って	came with thunderous roars like lightning strikes
+250186	+		健太郎の体に降り注ぐ。	raining down on Kentarou's body.
 
-250187	Ogawa Kentarou	「っ……か……」	「...Ka...」
+250187	Ogawa Kentarou	基本	「っ……か……」	「...Ka...」
 
-250188	Kayblis	「ハンッ、姫を守るナイトか。	「Hah, a knight protecting his princess.
-250189	+	　ひー、ケツが痒くって仕方ねーぜ」	　Ugh, my ass is so itchy.」
+250188	Kayblis		「ハンッ、姫を守るナイトか。	「Hah, a knight protecting his princess.
+250189	+		　ひー、ケツが痒くって仕方ねーぜ」	　Ugh, my ass is so itchy.」
 
-250190	Kayblis	「……てめぇみたいな奴は	「...Guys like you
-250191	+	　一秒でも早く死ぬべきなんだよ」	　should die as fast as possible.」
+250190	Kayblis		「……てめぇみたいな奴は	「...Guys like you
+250191	+		　一秒でも早く死ぬべきなんだよ」	　should die as fast as possible.」
 
-250192	-	ケイブリスは健太郎に手をかけるべく、	Kayblis reached out toward Kentarou's neck
-250193	+	首筋に手を伸ばす。	to finish him off.
+250192	-		ケイブリスは健太郎に手をかけるべく、	Kayblis reached out toward Kentarou's neck
+250193	+		首筋に手を伸ばす。	to finish him off.
 
-250194	Kurusu Miki	「やめてぇぇぇぇ！」	「Stop itttt!」
+250194	Kurusu Miki	泣き	「やめてぇぇぇぇ！」	「Stop itttt!」
 
-250195	Kayblis	「あん？　あれは……」	「Huh? That's...
+250195	Kayblis	基本	「あん？　あれは……」	「Huh? That's...
 
-250196	Kayblis	「魔王リトルプリンセスのお出ましか！」	「The Demon King Little Princess herself!」
+250196	Kayblis		「魔王リトルプリンセスのお出ましか！」	「The Demon King Little Princess herself!」
 
-250197	Kayblis	「お、おーっと動くんじゃねぇぞ！	「Whoa, don't you move!
-250198	+	　こいつを殺されてもいいのか！？」	　Do you want me to kill this guy!?」
+250197	Kayblis		「お、おーっと動くんじゃねぇぞ！	「Whoa, don't you move!
+250198	+		　こいつを殺されてもいいのか！？」	　Do you want me to kill this guy!?」
 
-250199	Kurusu Miki	「あ、くっ……」	「Ah, kuh...」
+250199	Kurusu Miki	恐怖	「あ、くっ……」	「Ah, kuh...」
 
-250200	-	既に瀕死状態の健太郎を人質にされ、	With the already near-death Kentarou taken hostage,
-250201	+	美樹の動きが止まる。	Miki's movements froze.
+250200	-		既に瀕死状態の健太郎を人質にされ、	With the already near-death Kentarou taken hostage,
+250201	+		美樹の動きが止まる。	Miki's movements froze.
 
-250202	Kayblis~	（おほっ、止まった！	（Oho, she stopped!
-250203	+	　危ねぇ危ねぇ、言ってみるもんだぜ）	　That was close, good thing I tried it.）
+250202	Kayblis~	基本	（おほっ、止まった！	（Oho, she stopped!
+250203	+		　危ねぇ危ねぇ、言ってみるもんだぜ）	　That was close, good thing I tried it.）
 
-250204	Kayblis	「うお、うおおおおぉおお！	「Uoh, uoooooh!
-250205	+	　魔王がなんぼのもんだ！」	　So what if you're the Demon King!」
+250204	Kayblis		「うお、うおおおおぉおお！	「Uoh, uoooooh!
+250205	+		　魔王がなんぼのもんだ！」	　So what if you're the Demon King!」
 
-250206	Kayblis	「うがぁあぁあオオオオあぁあああ！」	「Ugaaaaah Ooooooh!」
+250206	Kayblis	怒り	「うがぁあぁあオオオオあぁあああ！」	「Ugaaaaah Ooooooh!」
 
-250207	-	雄叫びが轟き、地が鳴動する。	A war cry thundered as the ground shook.
+250207	-		雄叫びが轟き、地が鳴動する。	A war cry thundered as the ground shook.
 
-250208	-	六メートルはあるケイブリスの巨体が	Kayblis's six-meter giant body
-250209	+	普通の少女サイズの美樹にタックルをかました。	tackled the normal girl-sized Miki.
+250208	-		六メートルはあるケイブリスの巨体が	Kayblis's six-meter giant body
+250209	+		普通の少女サイズの美樹にタックルをかました。	tackled the normal girl-sized Miki.
 
-250210	-	その衝撃だけで地が割れ、木々がなぎ倒される。	The impact alone split the ground and toppled trees.
+250210	-		その衝撃だけで地が割れ、木々がなぎ倒される。	The impact alone split the ground and toppled trees.
 
-250211	Kayblis	「おらおらおらおらァァァアア！	「Ora ora ora oraaaa!
-250212	+	　死ィィにィィやァァがァァれェェ！」	　Diiiieeeee!」
+250211	Kayblis		「おらおらおらおらァァァアア！	「Ora ora ora oraaaa!
+250212	+		　死ィィにィィやァァがァァれェェ！」	　Diiiieeeee!」
 
-250213	-	巨大な握り拳が何度も美樹の細い体に降り注ぐ。	Huge fists rained down repeatedly on Miki's slender body.
+250213	-		巨大な握り拳が何度も美樹の細い体に降り注ぐ。	Huge fists rained down repeatedly on Miki's slender body.
 
-250214	-	先ほどの健太郎にしたパンチのラッシュと違い、	Unlike the punch rush on Kentarou earlier,
-250215	+	一撃一撃がひたすらに、重い。	each blow was relentlessly heavy.
+250214	-		先ほどの健太郎にしたパンチのラッシュと違い、	Unlike the punch rush on Kentarou earlier,
+250215	+		一撃一撃がひたすらに、重い。	each blow was relentlessly heavy.
 
-250216	Kurusu Miki	「ッ……ッ……！」	「...! ...!」
+250216	Kurusu Miki	基本	「ッ……ッ……！」	「...! ...!」
 
-250217	Stroganoff	「ケイブリス様、いけません！	「Kayblis-sama, you mustn't!
-250218	+	　あまり刺激を与えては	　If you stimulate her too much
-250219	+	　魔王に覚醒するやも知れませんぞ！」	　she might awaken as the Demon King!」
+250217	Stroganoff		「ケイブリス様、いけません！	「Kayblis-sama, you mustn't!
+250218	+		　あまり刺激を与えては	　If you stimulate her too much
+250219	+		　魔王に覚醒するやも知れませんぞ！」	　she might awaken as the Demon King!」
 
-250220	Kayblis	「分かってらー！	「I know that!
-250221	+	　その辺も考えてる、そろそろ来る筈なんだが……」	　I'm thinking about that too, she should be coming soon...」
+250220	Kayblis		「分かってらー！	「I know that!
+250221	+		　その辺も考えてる、そろそろ来る筈なんだが……」	　I'm thinking about that too, she should be coming soon...」
 
-250222	Kaybnyan	「ケイブリス様ー！　お待たせですにゃんー！」	「Kayblis-sama! Sorry to keep you waiting nya!」
+250222	Kaybnyan		「ケイブリス様ー！　お待たせですにゃんー！」	「Kayblis-sama! Sorry to keep you waiting nya!」
 
-250223	Kaybwan	「注文の品、持ってきましたわん。	「We brought the ordered goods wan.
-250224	+	　うへっ、すっぱー……」	　Uhe, so sour...」
+250223	Kaybwan		「注文の品、持ってきましたわん。	「We brought the ordered goods wan.
+250224	+		　うへっ、すっぱー……」	　Uhe, so sour...」
 
-250225	-	ケイブニャンとケイブワンが持ってきたもの、	What Kaybnyan and Kaybwan brought
-250226	+	それはうし車に詰め込まれた	was a massive load of Hilami lemons packed into an ox cart.
-250227	+	大量のヒラミレモンだった。	
+250225	-		ケイブニャンとケイブワンが持ってきたもの、	What Kaybnyan and Kaybwan brought
+250226	+		それはうし車に詰め込まれた	was a massive load of Hilami lemons packed into an ox cart.
+250227	+		大量のヒラミレモンだった。	
 
-250228	Kayblis	「よぉーっし、待ってたぜ！」	「Alright, I've been waiting!」
+250228	Kayblis		「よぉーっし、待ってたぜ！」	「Alright, I've been waiting!」
 
-250229	Kurusu Miki	「う、あ……これ……ヒラミレモン……？」	「U, ah... these... Hilami lemons...?」
+250229	Kurusu Miki		「う、あ……これ……ヒラミレモン……？」	「U, ah... these... Hilami lemons...?」
 
-250230	Kayblis	「ちゃーんと調べていたんだよ。	「I did my research properly.
-250231	+	　これが魔王の血を抑制する薬なんだろう？	　This is the medicine that suppresses the Demon King's blood, right?
-250232	+	　覚醒されちゃあ困るからな」	　Can't have you awakening.」
+250230	Kayblis		「ちゃーんと調べていたんだよ。	「I did my research properly.
+250231	+		　これが魔王の血を抑制する薬なんだろう？	　This is the medicine that suppresses the Demon King's blood, right?
+250232	+		　覚醒されちゃあ困るからな」	　Can't have you awakening.」
 
-250233	Kayblis	「――あのボロ雑巾、お前の男か？」	「--That ragged rag over there, is he your man?」
+250233	Kayblis		「――あのボロ雑巾、お前の男か？」	「--That ragged rag over there, is he your man?」
 
-250234	Kurusu Miki	「けんたろ、う、くん……おねが……	「Kenta... ro... kun... please...
-250235	+	　ころさな、いで……おねがい……」	　don't kill him... please...」
+250234	Kurusu Miki		「けんたろ、う、くん……おねが……	「Kenta... ro... kun... please...
+250235	+		　ころさな、いで……おねがい……」	　don't kill him... please...」
 
-250236	Kayblis	「おお、俺様はとーっても優しいんだ。	「Oh, I'm super kind.
-250237	+	　生かしておいてやるよ」	　I'll let him live.」
+250236	Kayblis		「おお、俺様はとーっても優しいんだ。	「Oh, I'm super kind.
+250237	+		　生かしておいてやるよ」	　I'll let him live.」
 
-250238	Kayblis	「ただし、お前が抵抗したら殺す。	「But if you resist, I'll kill him.
-250239	+	　魔王に覚醒しようとしても殺す」	　If you try to awaken as the Demon King, I'll kill him too.」
+250238	Kayblis		「ただし、お前が抵抗したら殺す。	「But if you resist, I'll kill him.
+250239	+		　魔王に覚醒しようとしても殺す」	　If you try to awaken as the Demon King, I'll kill him too.」
 
-250240	Kurusu Miki	「な、んでも、する……します……	「A-anything... I'll do anything...
-250241	+	　わたし、なら……なんでも言うこときく、から……	　I'll listen to anything you say...
-250242	+	　おねが、い……おねがい、します……」	　Please... I beg you...」
+250240	Kurusu Miki		「な、んでも、する……します……	「A-anything... I'll do anything...
+250241	+		　わたし、なら……なんでも言うこときく、から……	　I'll listen to anything you say...
+250242	+		　おねが、い……おねがい、します……」	　Please... I beg you...」
 
-250243	Kurusu Miki	「わたし……殺してもいいから……」	「You can kill me...」
+250243	Kurusu Miki		「わたし……殺してもいいから……」	「You can kill me...」
 
-250244	Kayblis	「ぐぁはぁはぁはぁ！	「Gwa haa haa haa!
-250245	+	　良い子だぜぇ、リトルプリンセス！」	　Good girl, Little Princess!」
+250244	Kayblis		「ぐぁはぁはぁはぁ！	「Gwa haa haa haa!
+250245	+		　良い子だぜぇ、リトルプリンセス！」	　Good girl, Little Princess!」
 
-250246	Kayblis	「おい、うし車の中にぶち込め！	「Hey, throw her into the ox cart!
-250247	+	　殺すのは城に戻ってからだ！	　I'll kill her after we get back to the castle!
-250248	+	　見張りもつけておけよ！」	　Put guards on her too!」
+250246	Kayblis		「おい、うし車の中にぶち込め！	「Hey, throw her into the ox cart!
+250247	+		　殺すのは城に戻ってからだ！	　I'll kill her after we get back to the castle!
+250248	+		　見張りもつけておけよ！」	　Put guards on her too!」
 
-250249	Stroganoff	「はっ！」	「Yes!」
+250249	Stroganoff		「はっ！」	「Yes!」
 
-250250	-	部下が迅速に動く様を	Kayblis watched with satisfaction
-250251	+	ケイブリスは満足げに眺める。	as his subordinates moved quickly.
+250250	-		部下が迅速に動く様を	Kayblis watched with satisfaction
+250251	+		ケイブリスは満足げに眺める。	as his subordinates moved quickly.
 
-250252	Ogawa Kentarou	「ま、て……」	「W-wait...」
+250252	Ogawa Kentarou	刀持ち／流血	「ま、て……」	「W-wait...」
 
-250253	Kayblis	「おお！　お前を忘れていたぜ！	「Oh! I forgot about you!
-250254	+	　お前にもついてきてもらわなきゃな！」	　You get to come along too!」
+250253	Kayblis	基本	「おお！　お前を忘れていたぜ！	「Oh! I forgot about you!
+250254	+		　お前にもついてきてもらわなきゃな！」	　You get to come along too!」
 
-250255	Ogawa Kentarou	「は、はな、せ……美樹、ちゃんを……	「L-let... go... of Miki... chan...
-250256	+	　いますぐ……離せ……」	　Right now... let her go...」
+250255	Ogawa Kentarou		「は、はな、せ……美樹、ちゃんを……	「L-let... go... of Miki... chan...
+250256	+		　いますぐ……離せ……」	　Right now... let her go...」
 
-250257	Kayblis	「ほーう、こりゃあ驚いた。	「Whoa, I'm surprised.
-250258	+	　そんな状態でも生きてやがるのか」	　You're still alive in that state?」
+250257	Kayblis		「ほーう、こりゃあ驚いた。	「Whoa, I'm surprised.
+250258	+		　そんな状態でも生きてやがるのか」	　You're still alive in that state?」
 
-250259	-	健太郎は満身創痍を超えて、半死半生。	Kentarou was beyond covered in wounds, half-dead.
+250259	-		健太郎は満身創痍を超えて、半死半生。	Kentarou was beyond covered in wounds, half-dead.
 
-250260	-	両腕は肩口から折れ、	Both arms broken from the shoulders,
-250261	+	左足はつま先の向きが無茶苦茶になっていた。	left leg twisted unnaturally at the toes.
-250262	+	脳震盪を起こし視界の確保すら困難。	Concussed, barely able to see.
+250260	-		両腕は肩口から折れ、	Both arms broken from the shoulders,
+250261	+		左足はつま先の向きが無茶苦茶になっていた。	left leg twisted unnaturally at the toes.
+250262	+		脳震盪を起こし視界の確保すら困難。	Concussed, barely able to see.
 
-250263	-	まともに動かせるのは右足だけという状態。	Only his right leg could move properly.
-250264	+	それでも尚、立ち上がりケイブリスを睨む。	Even so, he stood and glared at Kayblis.
+250263	-		まともに動かせるのは右足だけという状態。	Only his right leg could move properly.
+250264	+		それでも尚、立ち上がりケイブリスを睨む。	Even so, he stood and glared at Kayblis.
 
-250265	Ogawa Kentarou	「美樹ちゃんを……離せ……！」	「Let... Miki-chan... go...!」
+250265	Ogawa Kentarou	刀持ち／流血	「美樹ちゃんを……離せ……！」	「Let... Miki-chan... go...!」
 
-250266	Kayblis	「……今まで苦労かけさせられたんだ。	「...You've caused me a lot of trouble so far.
-250267	+	　ここでなぶり殺しにしてぇが……	　I'd love to torture you to death here but...
-250268	+	　俺様はしばらく忙しい」	　I'm busy for a while.」
+250266	Kayblis	基本	「……今まで苦労かけさせられたんだ。	「...You've caused me a lot of trouble so far.
+250267	+		　ここでなぶり殺しにしてぇが……	　I'd love to torture you to death here but...
+250268	+		　俺様はしばらく忙しい」	　I'm busy for a while.」
 
-250269	Kayblis	「残念だが一発で済ませるぜ」	「Too bad, I'll finish you in one hit.」
+250269	Kayblis		「残念だが一発で済ませるぜ」	「Too bad, I'll finish you in one hit.」
 
-250270	Ogawa Kentarou	「え……」	「Eh...」
+250270	Ogawa Kentarou		「え……」	「Eh...」
 
-250271	-	ケイブリスの巨大な手が健太郎に叩きつけられる。	Kayblis's massive hand slammed down on Kentarou.
+250271	-		ケイブリスの巨大な手が健太郎に叩きつけられる。	Kayblis's massive hand slammed down on Kentarou.
 
-250272	-	トマトを潰すような音。	A sound like a tomato being crushed.
-250273	+	辺りにびちゃりと血がブチ撒かれた。	Blood splattered everywhere.
+250272	-		トマトを潰すような音。	A sound like a tomato being crushed.
+250273	+		辺りにびちゃりと血がブチ撒かれた。	Blood splattered everywhere.
 
-250274	Kayblis	「安心しな、お前は大事な大事な人質だ。	「Don't worry, you're an important hostage.
-250275	+	　生かさず殺さず監禁してやるよ」	　I'll keep you half-alive in prison.」
+250274	Kayblis		「安心しな、お前は大事な大事な人質だ。	「Don't worry, you're an important hostage.
+250275	+		　生かさず殺さず監禁してやるよ」	　I'll keep you half-alive in prison.」
 
-250276	Kayblis	「ぐっ、ぐふふ……」	「Guh, gufufu...」
+250276	Kayblis		「ぐっ、ぐふふ……」	「Guh, gufufu...」
 
-250277	Kayblis	「ぐぁはぁはぁはぁはぁはぁはぁ！	「Gwa haa haa haa haa haa haa!
-250278	+	　ついに魔王を、魔王を手に入れたぞ！」	　I finally got my hands on the Demon King!」
+250277	Kayblis		「ぐぁはぁはぁはぁはぁはぁはぁ！	「Gwa haa haa haa haa haa haa!
+250278	+		　ついに魔王を、魔王を手に入れたぞ！」	　I finally got my hands on the Demon King!」
 
-250279	Kayblis	「くくく、殺してもいいから、か……」	「Kukuku, 'you can kill me'...」
+250279	Kayblis		「くくく、殺してもいいから、か……」	「Kukuku, 'you can kill me'...」
 
-250280	Kayblis	「ああ、すぐに殺してやるぜ……	「Yeah, I'll kill you soon...
-250281	+	　我らがリトルプリンセスよ……」	　Our beloved Little Princess...」
+250280	Kayblis		「ああ、すぐに殺してやるぜ……	「Yeah, I'll kill you soon...
+250281	+		　我らがリトルプリンセスよ……」	　Our beloved Little Princess...」
 
-250282	-	…………	............
+250282	-		…………	............
 
-250283	-	……	...
+250283	-		……	...
 
-250284	Arios Theoman	「……なんて、禍々しい気だ」	「...What a sinister aura.」
+250284	Arios Theoman		「……なんて、禍々しい気だ」	「...What a sinister aura.」
 
-250285	-	ケイブリスの城まで単身乗り込んだアリオスは	Arios who had stormed into Kayblis's castle alone
-250286	+	表情こそ平静を装っているが、	pretended to be calm,
-250287	+	喉を大きくごくりと鳴らした。	but swallowed hard.
+250285	-		ケイブリスの城まで単身乗り込んだアリオスは	Arios who had stormed into Kayblis's castle alone
+250286	+		表情こそ平静を装っているが、	pretended to be calm,
+250287	+		喉を大きくごくりと鳴らした。	but swallowed hard.
 
-250288	Kayblis	「ぐぁはははは！	「Gwahahaha!
-250289	+	　迎えに行こうと思ったがまさかそっちから	　I was going to come get you but you came to me instead!」
-250290	+	　来てくれるなんてなぁ！」	
+250288	Kayblis		「ぐぁはははは！	「Gwahahaha!
+250289	+		　迎えに行こうと思ったがまさかそっちから	　I was going to come get you but you came to me instead!」
+250290	+		　来てくれるなんてなぁ！」	
 
-250291	Arios Theoman	「む……」	「Mu...」
+250291	Arios Theoman		「む……」	「Mu...」
 
-250292	-	ケイブリスの声に反射的に	Reacting to Kayblis's voice,
-250293	+	アリオスが戦闘態勢に入る。	Arios immediately entered battle stance.
+250292	-		ケイブリスの声に反射的に	Reacting to Kayblis's voice,
+250293	+		アリオスが戦闘態勢に入る。	Arios immediately entered battle stance.
 
-250294	Arios Theoman	「な……」	「Wha...」
+250294	Arios Theoman		「な……」	「Wha...」
 
-250295	-	しかし、一瞬動きが止まる。	But his movement stopped for a moment.
-250296	+	目の前の異常事態に気づいたから。	Because he noticed the abnormality before him.
+250295	-		しかし、一瞬動きが止まる。	But his movement stopped for a moment.
+250296	+		目の前の異常事態に気づいたから。	Because he noticed the abnormality before him.
 
-250297	Kayblis	「ククク……」	「Kukuku...」
+250297	Kayblis		「ククク……」	「Kukuku...」
 
-250298	-	そこにいたのは――	What stood there was--
-250299	+	ケイブリスであってケイブリスではない。	Kayblis, yet not Kayblis.
+250298	-		そこにいたのは――	What stood there was--
+250299	+		ケイブリスであってケイブリスではない。	Kayblis, yet not Kayblis.
 
-250300	Kayblis	「なにを驚いてやがんだ？　あ？	「What are you so surprised about? Huh?
-250301	+	　俺様にビビッて声も出ねぇってか？」	　Too scared of me to even speak?」
+250300	Kayblis		「なにを驚いてやがんだ？　あ？	「What are you so surprised about? Huh?
+250301	+		　俺様にビビッて声も出ねぇってか？」	　Too scared of me to even speak?」
 
-250302	-	ケイブリスの体、首から上に『生えた』人間の体が、	The human body growing from Kayblis's neck
-250303	+	ニタニタと楽しそうに――残虐に笑う。	grinned creepily, pleasantly--and cruelly.
+250302	-		ケイブリスの体、首から上に『生えた』人間の体が、	The human body growing from Kayblis's neck
+250303	+		ニタニタと楽しそうに――残虐に笑う。	grinned creepily, pleasantly--and cruelly.
 
-250304	-	一目見ただけで、それが他の魔人と	Just one look and instinct understood
-250305	+	一線を画す存在であると本能が理解できた。	this being was on a completely different level from other Fiend.
+250304	-		一目見ただけで、それが他の魔人と	Just one look and instinct understood
+250305	+		一線を画す存在であると本能が理解できた。	this being was on a completely different level from other Fiend.
 
-250306	-	ケイブリスから放たれる禍々しい気配。	The sinister aura emanating from Kayblis
-250307	+	それが今まで見た何よりも強烈に体に突き刺さる。	pierced the body more intensely than anything seen before.
+250306	-		ケイブリスから放たれる禍々しい気配。	The sinister aura emanating from Kayblis
+250307	+		それが今まで見た何よりも強烈に体に突き刺さる。	pierced the body more intensely than anything seen before.
 
-250308	Kayblis	「あぁぁぁぁん？	「Aaaaaah?
-250309	+	　おめぇ、俺が誰だか分からねえってか？」	　Don't you know who I am?」
+250308	Kayblis		「あぁぁぁぁん？	「Aaaaaah?
+250309	+		　おめぇ、俺が誰だか分からねえってか？」	　Don't you know who I am?」
 
-250310	-	圧倒的なまでの威圧感。	Overwhelming pressure.
-250311	+	そこにいるのは――	What stood there was--
+250310	-		圧倒的なまでの威圧感。	Overwhelming pressure.
+250311	+		そこにいるのは――	What stood there was--
 
-250312	Kayblis	「俺は！　最強の魔物、ケイブリス様よ！」	「I am! The strongest monster, Kayblis-sama!」
+250312	Kayblis		「俺は！　最強の魔物、ケイブリス様よ！」	「I am! The strongest monster, Kayblis-sama!」
 
-250313	Kayblis	「たぁだぁしぃ……」	「Buuuut...」
+250313	Kayblis		「たぁだぁしぃ……」	「Buuuut...」
 
-250314	Kayblis	「魔王――ケイブリスだがなぁぁぁあああ！	「I am the Demon King-- Kayblis!!!
-250315	+	　ぐあぁぁはぁはぁはぁはぁはぁはぁ！」	　Gwaaa haa haa haa haa haa!」
+250314	Kayblis		「魔王――ケイブリスだがなぁぁぁあああ！	「I am the Demon King-- Kayblis!!!
+250315	+		　ぐあぁぁはぁはぁはぁはぁはぁはぁ！」	　Gwaaa haa haa haa haa haa!」
 
-250316	Arios Theoman	「……魔王、だと」	「...The Demon King, you say.」
+250316	Arios Theoman		「……魔王、だと」	「...The Demon King, you say.」
 
-250317	Kayblis	「ああ、そうだ！	「That's right!
-250318	+	　このスーパーエレガンツで	　This super elegant
-250319	+	　ミラクルハイパー最強の俺様が！」	　miracle hyper strongest me!」
+250317	Kayblis		「ああ、そうだ！	「That's right!
+250318	+		　このスーパーエレガンツで	　This super elegant
+250319	+		　ミラクルハイパー最強の俺様が！」	　miracle hyper strongest me!」
 
-250320	Kayblis	「この世界の新たな支配者なんだよぉぉぉ！」	「I am the new ruler of this world!!!」
+250320	Kayblis		「この世界の新たな支配者なんだよぉぉぉ！」	「I am the new ruler of this world!!!」
 
-250321	Arios Theoman	「貴様……魔王を、殺したのか……」	「You... killed the Demon King...?」
+250321	Arios Theoman		「貴様……魔王を、殺したのか……」	「You... killed the Demon King...?」
 
-250322	Kayblis	「へへっ、長かったぜぇ、	「Hehe, it took so long,
-250323	+	　あのガキ中々しぶとくってよぉ」	　that brat was so stubborn.」
+250322	Kayblis		「へへっ、長かったぜぇ、	「Hehe, it took so long,
+250323	+		　あのガキ中々しぶとくってよぉ」	　that brat was so stubborn.」
 
-250324	Kayblis	「……ああ、本当に」	「...Yeah, really.
+250324	Kayblis		「……ああ、本当に」	「...Yeah, really.
 
-250325	Kayblis	「ほんっとーーーに、長かったぜぇ」	　It was reaaaaally long.」
+250325	Kayblis		「ほんっとーーーに、長かったぜぇ」	　It was reaaaaally long.」
 
-250326	Cola	「これは……」	「This is...」
+250326	Cola		「これは……」	「This is...」
 
-250327	Cola	「……駄目ですね。	「...No good.
-250328	+	　アリオス、すぐに逃げて――」	　Arios, run away immediately--」
+250327	Cola		「……駄目ですね。	「...No good.
+250328	+		　アリオス、すぐに逃げて――」	　Arios, run away immediately--」
 
-250329	Arios Theoman	「…………」	「............」
+250329	Arios Theoman		「…………」	「............」
 
-250330	-	エスクードソードを抜いたアリオスが	Arios drew the Escudo Sword
-250331	+	ケイブリスの前に立つ。	and stood before Kayblis.
+250330	-		エスクードソードを抜いたアリオスが	Arios drew the Escudo Sword
+250331	+		ケイブリスの前に立つ。	and stood before Kayblis.
 
-250332	Arios Theoman	「……もう、手遅れだ」	「...It's already too late.」
+250332	Arios Theoman	抜刀	「……もう、手遅れだ」	「...It's already too late.」
 
-250333	Arios Theoman	「簡単に逃げられる相手じゃあない」	「He's not someone we can easily escape from.」
+250333	Arios Theoman		「簡単に逃げられる相手じゃあない」	「He's not someone we can easily escape from.」
 
-250334	Kayblis	「ぐぁはははは！　分かってるじゃねーか！」	「Gwahahaha! You get it!」
+250334	Kayblis	基本	「ぐぁはははは！　分かってるじゃねーか！」	「Gwahahaha! You get it!」
 
-250335	Kayblis	「おらおらおら、勇者だろうがなんだろうが	「Ora ora ora, whether you're a hero or whatever
-250336	+	　もう知ったこっちゃねーぞ！」	　I don't give a shit anymore!」
+250335	Kayblis		「おらおらおら、勇者だろうがなんだろうが	「Ora ora ora, whether you're a hero or whatever
+250336	+		　もう知ったこっちゃねーぞ！」	　I don't give a shit anymore!」
 
-250337	-	笑い声すら大きな質量を伴って	Even his laughter carried massive weight
-250338	+	アリオスの体に叩きつけられる。	and slammed into Arios's body.
+250337	-		笑い声すら大きな質量を伴って	Even his laughter carried massive weight
+250338	+		アリオスの体に叩きつけられる。	and slammed into Arios's body.
 
-250339	-	勝てるか否かは分からない。	Whether he could win was unknown.
-250340	+	だが戦わねば死ぬだけだった。	But not fighting meant certain death.
+250339	-		勝てるか否かは分からない。	Whether he could win was unknown.
+250340	+		だが戦わねば死ぬだけだった。	But not fighting meant certain death.
 
-250341	Kayblis	「死ねやぁぁぁあぁあ！」	「Dieeeee!」
+250341	Kayblis		「死ねやぁぁぁあぁあ！」	「Dieeeee!」
 
-250342	Arios Theoman	「……」	「...」
+250342	Arios Theoman	抜刀	「……」	「...」
 
-250343	Arios Theoman	「ここだ！」	「Here!」
+250343	Arios Theoman		「ここだ！」	「Here!」
 
-250344	-	ケイブリスの放つ大ぶりの一発、	Kayblis's wide swing,
-250345	+	それに合わせる形のカウンターの一閃が	met with a perfectly timed counter slash
-250346	+	ケイブリスの手のひらに叩きつけられた。	that struck Kayblis's palm.
+250344	-		ケイブリスの放つ大ぶりの一発、	Kayblis's wide swing,
+250345	+		それに合わせる形のカウンターの一閃が	met with a perfectly timed counter slash
+250346	+		ケイブリスの手のひらに叩きつけられた。	that struck Kayblis's palm.
 
-250347	-	タイミングはこれ以上なく完璧。	The timing was perfect.
+250347	-		タイミングはこれ以上なく完璧。	The timing was perfect.
 
-250348	-	それは大樹のように太い腕を両断し、	It should have bisected the thick tree-trunk arm
-250349	+	脇腹を突き抜け心臓までを断ち切る――	and pierced through the side to cut the heart--
-250350	?	筈だった。	or so it should have.
+250348	-		それは大樹のように太い腕を両断し、	It should have bisected the thick tree-trunk arm
+250349	+		脇腹を突き抜け心臓までを断ち切る――	and pierced through the side to cut the heart--
+250350	?		筈だった。	or so it should have.
 
-250351	Arios Theoman	「――なっ！！」	「--What!!」
+250351	Arios Theoman		「――なっ！！」	「--What!!」
 
-250352	Kayblis	「あぁん？　なんだぁそのツラ」	「Aahn? What's with that face?」
+250352	Kayblis	基本	「あぁん？　なんだぁそのツラ」	「Aahn? What's with that face?」
 
-250353	-	手の平が綺麗に立てられた刃を受け止めていた。	His palm had neatly caught the raised blade.
-250354	+	無敵結界すら貫くエスクードソードの刃をである。	The Escudo Sword blade that could pierce even invincible barriers.
+250353	-		手の平が綺麗に立てられた刃を受け止めていた。	His palm had neatly caught the raised blade.
+250354	+		無敵結界すら貫くエスクードソードの刃をである。	The Escudo Sword blade that could pierce even invincible barriers.
 
-250355	-	それはただの圧倒的な種族の差、	It was simply an overwhelming difference in race
-250356	+	そして力の差の表れだった。	and power.
+250355	-		それはただの圧倒的な種族の差、	It was simply an overwhelming difference in race
+250356	+		そして力の差の表れだった。	and power.
 
-250357	Kayblis	「こりゃ驚いた！　いや、笑えるぜ！	「I'm surprised! Nah, it's hilarious!
-250358	+	　お前本気で俺様に勝てるつもりだったのか！	　Did you seriously think you could beat me!
-250359	+	　ぐぁはぁはぁはぁはぁはぁはぁ！」	　Gwa haa haa haa haa haa!」
+250357	Kayblis		「こりゃ驚いた！　いや、笑えるぜ！	「I'm surprised! Nah, it's hilarious!
+250358	+		　お前本気で俺様に勝てるつもりだったのか！	　Did you seriously think you could beat me!
+250359	+		　ぐぁはぁはぁはぁはぁはぁはぁ！」	　Gwa haa haa haa haa haa!」
 
-250360	-	笑いながらの雑な腕の一振り。	A casual swing of the arm while laughing.
-250361	+	それでさえアリオスは対応が遅れ、	Even that was too slow for Arios to fully dodge,
-250362	+	そのまま壁に叩きつけられた。	and he was slammed into the wall.
+250360	-		笑いながらの雑な腕の一振り。	A casual swing of the arm while laughing.
+250361	+		それでさえアリオスは対応が遅れ、	Even that was too slow for Arios to fully dodge,
+250362	+		そのまま壁に叩きつけられた。	and he was slammed into the wall.
 
-250363	-	ただの一振り。	Just one swing.
-250364	+	圧倒的な力の差を前に、勇者であるアリオスは	Faced with overwhelming power, the hero Arios
-250365	+	なにも出来ずに倒れ伏した。	could do nothing and collapsed.
+250363	-		ただの一振り。	Just one swing.
+250364	+		圧倒的な力の差を前に、勇者であるアリオスは	Faced with overwhelming power, the hero Arios
+250365	+		なにも出来ずに倒れ伏した。	could do nothing and collapsed.
 
-250366	Arios Theoman	「くっ……！」	「Kuh...!」
+250366	Arios Theoman		「くっ……！」	「Kuh...!」
 
-250367	-	しかし、勇者特性がアリオスを奇跡的に生かした。	However, his hero trait miraculously kept Arios alive.
+250367	-		しかし、勇者特性がアリオスを奇跡的に生かした。	However, his hero trait miraculously kept Arios alive.
 
-250368	Kayblis	「ほーう？　とんでもなく運のいい奴だな」	「Hmm? What incredible luck you have.」
+250368	Kayblis		「ほーう？　とんでもなく運のいい奴だな」	「Hmm? What incredible luck you have.」
 
-250369	Kayblis	「なら、これで死んどけや」	「Then die with this.」
+250369	Kayblis		「なら、これで死んどけや」	「Then die with this.」
 
-250370	-	ケイブリスが熱い息をふっと吹き出した。	Kayblis blew out a hot breath.
+250370	-		ケイブリスが熱い息をふっと吹き出した。	Kayblis blew out a hot breath.
 
-250371	-	それはただの熱風だが、	It was just hot air, but
-250372	+	鉄すら溶かすほどの高温の息。	hot enough to melt iron.
+250371	-		それはただの熱風だが、	It was just hot air, but
+250372	+		鉄すら溶かすほどの高温の息。	hot enough to melt iron.
 
-250373	Arios Theoman	「え、あ、な……！？」	「Eh, a, wha...!?」
+250373	Arios Theoman	抜刀	「え、あ、な……！？」	「Eh, a, wha...!?」
 
-250374	-	その熱風がアリオスの体にまとわりつく。	The hot wind clung to Arios's body.
+250374	-		その熱風がアリオスの体にまとわりつく。	The hot wind clung to Arios's body.
 
-250375	Arios Theoman	「グゥウウアァアアァアアアアァ！」	「Guuuuaaaaaaaa!」
+250375	Arios Theoman	基本	「グゥウウアァアアァアアアアァ！」	「Guuuuaaaaaaaa!」
 
-250376	-	人の悲鳴とも思えぬような絶叫が響く。	An inhuman scream echoed.
+250376	-		人の悲鳴とも思えぬような絶叫が響く。	An inhuman scream echoed.
 
-250377	Kayblis	「その息は俺のお手製だ。	「That breath is my own creation.
-250378	+	　お前が死ぬまで解けはしねぇ。	　It won't come off until you die.
-250379	+	　まあ俺様の呪いみたいなもんだな」	　It's like my personal curse.」
+250377	Kayblis		「その息は俺のお手製だ。	「That breath is my own creation.
+250378	+		　お前が死ぬまで解けはしねぇ。	　It won't come off until you die.
+250379	+		　まあ俺様の呪いみたいなもんだな」	　It's like my personal curse.」
 
-250380	Kayblis	「てか、できるかなーと思ったら	「By the way, I wondered if I could do it
-250381	+	　本当にこんなこと出来ちまった。	　and I actually could.
-250382	+	　ぐぁははは、すげーな魔王の力」	　Gwahaha, the power of a Demon King is amazing.」
+250380	Kayblis		「てか、できるかなーと思ったら	「By the way, I wondered if I could do it
+250381	+		　本当にこんなこと出来ちまった。	　and I actually could.
+250382	+		　ぐぁははは、すげーな魔王の力」	　Gwahaha, the power of a Demon King is amazing.」
 
-250383	Kayblis	「よしよし、これで勇者は始末完了っと。	「Good good, hero taken care of.
-250384	+	　次は――」	　Next--」
+250383	Kayblis		「よしよし、これで勇者は始末完了っと。	「Good good, hero taken care of.
+250384	+		　次は――」	　Next--」
 
-250385	Ogawa Kentarou	「ま……待て……」	「W... wait...」
+250385	Ogawa Kentarou	刀持ち／流血	「ま……待て……」	「W... wait...」
 
-250386	-	美樹への人質の為、生かさず殺さず、	Kept barely alive as a hostage for Miki,
-250387	+	半死半生のまま監禁されていた健太郎が	the half-dead Kentarou
-250388	+	魔王であるケイブリスの前に立ちはだかる。	stood in front of the Demon King Kayblis.
+250386	-		美樹への人質の為、生かさず殺さず、	Kept barely alive as a hostage for Miki,
+250387	+		半死半生のまま監禁されていた健太郎が	the half-dead Kentarou
+250388	+		魔王であるケイブリスの前に立ちはだかる。	stood in front of the Demon King Kayblis.
 
-250389	Ogawa Kentarou	「美樹……ちゃんを……どこに……	「Where... did you take... Miki... chan...」
-250390	+	　か、返せ……」	　Give... her back...」
+250389	Ogawa Kentarou		「美樹……ちゃんを……どこに……	「Where... did you take... Miki... chan...」
+250390	+		　か、返せ……」	　Give... her back...」
 
-250391	Kayblis	「うるせぇぞ、羽虫」	「Shut up, you bug.」
+250391	Kayblis	基本	「うるせぇぞ、羽虫」	「Shut up, you bug.」
 
-250392	-	時間をかけることすら面倒に感じ、	Finding it too much trouble to waste time,
-250393	+	感慨もなにもなく、ケイブリスは	without any sentiment, Kayblis
-250394	+	あっさりと健太郎を踏み潰した。	casually stomped Kentarou flat.
+250392	-		時間をかけることすら面倒に感じ、	Finding it too much trouble to waste time,
+250393	+		感慨もなにもなく、ケイブリスは	without any sentiment, Kayblis
+250394	+		あっさりと健太郎を踏み潰した。	casually stomped Kentarou flat.
 
-250395	-	足をどかすとそこには、人の形をしていない、	When he lifted his foot, what remained was no longer shaped like a person,
-250396	+	健太郎だったものが転がっていた。	just a crushed mass that used to be Kentarou.
+250395	-		足をどかすとそこには、人の形をしていない、	When he lifted his foot, what remained was no longer shaped like a person,
+250396	+		健太郎だったものが転がっていた。	just a crushed mass that used to be Kentarou.
 
-250397	Kayblis	「よしよし、勇者と日光の使い手を殺したぞ。	「Good good, killed the hero and the user of Nikkou.
-250398	+	　くっくっくっ、予想よりも痛快だぜ。	　Kukuku, more fun than I expected.
-250399	+	　人間で俺に逆らえる奴が消えたってのは」	　All the humans who could oppose me are gone.」
+250397	Kayblis		「よしよし、勇者と日光の使い手を殺したぞ。	「Good good, killed the hero and the user of Nikkou.
+250398	+		　くっくっくっ、予想よりも痛快だぜ。	　Kukuku, more fun than I expected.
+250399	+		　人間で俺に逆らえる奴が消えたってのは」	　All the humans who could oppose me are gone.」
 
-250400	Kayblis	「……いや、一人だけ残ってたな。	「...Wait, there's still one left.
-250401	+	　忘れちゃいけねぇ大事な奴が」	　Can't forget that important one.」
+250400	Kayblis		「……いや、一人だけ残ってたな。	「...Wait, there's still one left.
+250401	+		　忘れちゃいけねぇ大事な奴が」	　Can't forget that important one.」
 
-250402	Kayblis	「……そうだな、今度はこっちから行ってやるか」	「...Yeah, this time I'll go to them.」
+250402	Kayblis		「……そうだな、今度はこっちから行ってやるか」	「...Yeah, this time I'll go to them.」
 
-250403	Kayblis	「――さあ、これから世界は面白くなるぜぇ……」	「--Now, the world is about to get real fun...」
+250403	Kayblis		「――さあ、これから世界は面白くなるぜぇ……」	「--Now, the world is about to get real fun...」
 
-250404	-	馬鹿笑いを上げ、ケイブリスが城から旅立った。	Laughing like a fool, Kayblis set out from the castle.
+250404	-		馬鹿笑いを上げ、ケイブリスが城から旅立った。	Laughing like a fool, Kayblis set out from the castle.
 
-250405	Cola	「可哀想なアリオス。	「Poor Arios.
-250406	+	　そんな姿でも生きているんですね。	　You're still alive even like that.
-250407	+	　熱いですかー、痛いですかー、辛いですかー？」	　Is it hot? Does it hurt? Is it painful?」
+250405	Cola		「可哀想なアリオス。	「Poor Arios.
+250406	+		　そんな姿でも生きているんですね。	　You're still alive even like that.
+250407	+		　熱いですかー、痛いですかー、辛いですかー？」	　Is it hot? Does it hurt? Is it painful?」
 
-250408	Arios Theoman	「……ッ……ッ」	「...! ...」
+250408	Arios Theoman		「……ッ……ッ」	「...! ...」
 
-250409	-	声は出せない。	He couldn't make a sound.
-250410	+	いや、五感は全て激痛に塗りつぶされ、	No, all five senses were overwhelmed by intense pain,
-250411	+	本当に自分が声を出そうとしたかすら分からない。	he couldn't even tell if he was trying to scream.
+250409	-		声は出せない。	He couldn't make a sound.
+250410	+		いや、五感は全て激痛に塗りつぶされ、	No, all five senses were overwhelmed by intense pain,
+250411	+		本当に自分が声を出そうとしたかすら分からない。	he couldn't even tell if he was trying to scream.
 
-250412	-	今、この瞬間もアリオスは体にまとわりつく	Even now, Arios's body was being burned alive
-250413	+	地獄の業火のような熱風に、	by the hellish hot wind clinging to him.
-250414	+	全身を生きたまま焼かれていた。	
+250412	-		今、この瞬間もアリオスは体にまとわりつく	Even now, Arios's body was being burned alive
+250413	+		地獄の業火のような熱風に、	by the hellish hot wind clinging to him.
+250414	+		全身を生きたまま焼かれていた。	
 
-250415	Cola	「……貴方は今、奇跡的な幸運が重なり、	「...You are currently surviving due to a miraculous stack of luck,
-250416	+	　かろうじて生きている状況です」	　barely clinging to life.」
+250415	Cola		「……貴方は今、奇跡的な幸運が重なり、	「...You are currently surviving due to a miraculous stack of luck,
+250416	+		　かろうじて生きている状況です」	　barely clinging to life.」
 
-250417	Cola	「普通ならショック死するほどの苦痛でも、	「Pain that would normally cause shock death,
-250418	+	　貴方は勇者だから生きていられるんですよ」	　but as a hero you can endure it.」
+250417	Cola		「普通ならショック死するほどの苦痛でも、	「Pain that would normally cause shock death,
+250418	+		　貴方は勇者だから生きていられるんですよ」	　but as a hero you can endure it.」
 
-250419	Cola	「勇者特性です。	「It's the hero trait.
-250420	+	　どんな状況であろうと勇者は死にません。	　Heroes do not die no matter the situation.
-250421	+	　絶対に生き残るんです」	　They always survive.」
+250419	Cola		「勇者特性です。	「It's the hero trait.
+250420	+		　どんな状況であろうと勇者は死にません。	　Heroes do not die no matter the situation.
+250421	+		　絶対に生き残るんです」	　They always survive.」
 
-250422	Cola	「今回は……	「This time though...
-250423	+	　死にたくても死ねない、	　You can't die even if you want to,
-250424	+	　と、言ったところですけどね」	　that's the situation.」
+250422	Cola		「今回は……	「This time though...
+250423	+		　死にたくても死ねない、	　You can't die even if you want to,
+250424	+		　と、言ったところですけどね」	　that's the situation.」
 
-250425	Cola	「普段であれば例えば、奇跡的に誰かが通りがかり、	「Normally, miraculously someone would pass by,
-250426	+	　それが奇跡的に解呪するすべを持つ人で、	　miraculously someone who could lift the curse,
-250427	+	　奇跡的に全回復して生還するんでしょう」	　and miraculously fully recover and survive.」
+250425	Cola		「普段であれば例えば、奇跡的に誰かが通りがかり、	「Normally, miraculously someone would pass by,
+250426	+		　それが奇跡的に解呪するすべを持つ人で、	　miraculously someone who could lift the curse,
+250427	+		　奇跡的に全回復して生還するんでしょう」	　and miraculously fully recover and survive.」
 
-250428	Cola	「でも、今回は時間が足りないでしょうね」	「But this time, there isn't enough time.」
+250428	Cola		「でも、今回は時間が足りないでしょうね」	「But this time, there isn't enough time.」
 
-250429	-	それ以上は言う必要なしと、	Deciding no more needed to be said,
-250430	+	コーラは言葉を切った。	Cola stopped speaking.
+250429	-		それ以上は言う必要なしと、	Deciding no more needed to be said,
+250430	+		コーラは言葉を切った。	Cola stopped speaking.
 
-250431	Cola	「貴方が死ぬまで、ここで待っています。	「I'll wait here until you die.
-250432	+	　それが早く来ることを祈るのを勧めます」	　I suggest you pray it comes quickly.」
+250431	Cola		「貴方が死ぬまで、ここで待っています。	「I'll wait here until you die.
+250432	+		　それが早く来ることを祈るのを勧めます」	　I suggest you pray it comes quickly.」
 
-250433	Cola	「安心してください。	「Don't worry.
-250434	+	　そう遠くない未来ですよ」	　It won't be long.」
+250433	Cola		「安心してください。	「Don't worry.
+250434	+		　そう遠くない未来ですよ」	　It won't be long.」
 
-250435	-	…………	............
+250435	-		…………	............
 
-250436	-	……	...
+250436	-		……	...

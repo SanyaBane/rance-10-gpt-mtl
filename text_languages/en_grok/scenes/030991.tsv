@@ -12,118 +12,118 @@
 * Zeth Mage Soldier	汎用ゼス女魔法兵	Female
 * Zeth Mage Soldier	汎用ゼス男魔法兵	Male
 
-44635	Galtia	「………………ッ……！」	「......!!」
+44635	Galtia	戦闘時使徒なし	「………………ッ……！」	「......!!」
 
-44636	-	魔剣の刃が、魔人の蛮刀を叩き折り、	The magic sword blade shattered the Fiend's wild blade,
-44637	+	そのままガルティアの心臓深くまで、	and sank deep into Galtia's heart.
-44638	+	ぞぶりと沈み込んだ。	with a sickening thud.
+44636	-		魔剣の刃が、魔人の蛮刀を叩き折り、	The magic sword blade shattered the Fiend's wild blade,
+44637	+		そのままガルティアの心臓深くまで、	and sank deep into Galtia's heart.
+44638	+		ぞぶりと沈み込んだ。	with a sickening thud.
 
-44639	Galtia	「お、ッ…………が、は…………っ……！」	「O... Gh... Ha...!」
+44639	Galtia		「お、ッ…………が、は…………っ……！」	「O... Gh... Ha...!」
 
-44640	Rance	「………………」	「............」
+44640	Rance	真剣	「………………」	「............」
 
-44641	Kentou Kanami	「や、やった……！」	「W-we did it...!」
+44641	Kentou Kanami	基本	「や、やった……！」	「W-we did it...!」
 
-44642	-	口から鮮血を吐き、ガルティアの身体が崩れ落ちる。	Fresh blood poured from his mouth as Galtia's body collapsed.
+44642	-		口から鮮血を吐き、ガルティアの身体が崩れ落ちる。	Fresh blood poured from his mouth as Galtia's body collapsed.
 
-44643	-	――だが、ガルティアの左手の小指が、	――But Galtia's left pinky finger
-44644	+	見えない糸に引かれるように持ち上がった。	lifted as if pulled by an invisible string.
+44643	-		――だが、ガルティアの左手の小指が、	――But Galtia's left pinky finger
+44644	+		見えない糸に引かれるように持ち上がった。	lifted as if pulled by an invisible string.
 
-44645	Caloria Cricket	「ランス！　それ、毒針！」	「Rance! That's a poisoned needle!」
+44645	Caloria Cricket		「ランス！　それ、毒針！」	「Rance! That's a poisoned needle!」
 
-44646	Rance	「………………！」	「......!」
+44646	Rance	真剣	「………………！」	「......!」
 
-44647	-	瞬時にランスは一歩距離を取り、	Rance instantly stepped back
-44648	+	飛来してきた物をカオスで叩き落とす。	and knocked the incoming projectile away with Chaos.
+44647	-		瞬時にランスは一歩距離を取り、	Rance instantly stepped back
+44648	+		飛来してきた物をカオスで叩き落とす。	and knocked the incoming projectile away with Chaos.
 
-44649	Rance	「そんなモンが俺様に、ッ……！　通用するか！」	「Something like that won't work on me...!」
+44649	Rance	怒り	「そんなモンが俺様に、ッ……！　通用するか！」	「Something like that won't work on me...!」
 
-44650	-	間髪を入れず、開いた間合いを埋めるように	Without a moment's delay, Rance leaped forward
-44651	+	ランスが跳躍した。	to close the distance.
+44650	-		間髪を入れず、開いた間合いを埋めるように	Without a moment's delay, Rance leaped forward
+44651	+		ランスが跳躍した。	to close the distance.
 
-44652	Galtia	「ち、ぃっ……！」	「Tch...!」
+44652	Galtia	戦闘時使徒なし	「ち、ぃっ……！」	「Tch...!」
 
-44653	Rance	「ランッッッッスアッターーーーーーッック！！」	「Raaaance Attaaaaack!!!!」
+44653	Rance	怒り	「ランッッッッスアッターーーーーーッック！！」	「Raaaance Attaaaaack!!!!」
 
-44654	-	渾身の、とどめの一撃が炸裂した。	His full-powered finishing blow exploded.
+44654	-		渾身の、とどめの一撃が炸裂した。	His full-powered finishing blow exploded.
 
-44655	Rance	「はー、はー、ぜー、ぜー、はー……」	「Haa... haa... ze... ze... haa...」
+44655	Rance	驚き	「はー、はー、ぜー、ぜー、はー……」	「Haa... haa... ze... ze... haa...」
 
-44656	Galtia	「がはっ……！　ご、ほッ……	「Gah...! Go... ho...
-44657	+	　あ〜あ……強ぇなぁ……お前ら…………」	　Haa... You're strong... you guys...」
+44656	Galtia	戦闘時使徒なし	「がはっ……！　ご、ほッ……	「Gah...! Go... ho...
+44657	+		　あ〜あ……強ぇなぁ……お前ら…………」	　Haa... You're strong... you guys...」
 
-44658	Rance	「おお。俺様たちの勝ちだ」	「Yeah. Our victory.」
+44658	Rance	基本	「おお。俺様たちの勝ちだ」	「Yeah. Our victory.」
 
-44659	Galtia	「ヘッ……まあ、いいけど、な…………	「Heh... Well, whatever...
-44660	+	　こっちも全員でかかって、負けたんだし、な……」	　We all attacked together and still lost...」
+44659	Galtia	戦闘時使徒なし	「ヘッ……まあ、いいけど、な…………	「Heh... Well, whatever...
+44660	+		　こっちも全員でかかって、負けたんだし、な……」	　We all attacked together and still lost...」
 
-44661	-	笑みさえ浮かべて、ガルティアは穏やかに話す。	Galtia spoke calmly, even with a smile.
-44662	+	だがその全身からは、力が、命が失われていく。	But strength and life were rapidly draining from his body.
+44661	-		笑みさえ浮かべて、ガルティアは穏やかに話す。	Galtia spoke calmly, even with a smile.
+44662	+		だがその全身からは、力が、命が失われていく。	But strength and life were rapidly draining from his body.
 
-44663	Galtia	「あぁ、そうだ……ん、ッ……！」	「Ah, yeah... Nn...!」
+44663	Galtia		「あぁ、そうだ……ん、ッ……！」	「Ah, yeah... Nn...!」
 
-44664	-	ひとつ、力を込めると、ガルティアの身体から	With one burst of power, bugs
-44665	+	ムシが剥がれ落ちていく。	began peeling off Galtia's body.
+44664	-		ひとつ、力を込めると、ガルティアの身体から	With one burst of power, bugs
+44665	+		ムシが剥がれ落ちていく。	began peeling off Galtia's body.
 
-44666	Rance	「ぬっ。何のつもりだ」	「Nu? What are you planning?」
+44666	Rance	真剣	「ぬっ。何のつもりだ」	「Nu? What are you planning?」
 
-44667	Galtia	「何のつもりも、ねぇよ。	「No plan.
-44668	+	　俺ぁ死ぬが……ムシは、放してやらねぇとな……」	　I'm dying... but I gotta set the bugs free...」
+44667	Galtia	戦闘時使徒なし	「何のつもりも、ねぇよ。	「No plan.
+44668	+		　俺ぁ死ぬが……ムシは、放してやらねぇとな……」	　I'm dying... but I gotta set the bugs free...」
 
-44669	-	何匹いるのか一度には数えられないくらいのムシが、	Countless bugs that couldn't be counted at once
-44670	+	戸惑うようにしながらガルティアから追い出され、	were driven out of Galtia in confusion
-44671	+	何処かへ散っていく。	and scattered somewhere.
+44669	-		何匹いるのか一度には数えられないくらいのムシが、	Countless bugs that couldn't be counted at once
+44670	+		戸惑うようにしながらガルティアから追い出され、	were driven out of Galtia in confusion
+44671	+		何処かへ散っていく。	and scattered somewhere.
 
-44672	Galtia	「ははは、ありがとな、お前ら……」	「Hahaha, thanks everyone...」
+44672	Galtia		「ははは、ありがとな、お前ら……」	「Hahaha, thanks everyone...」
 
-44673	-	ムシたちが居なくなったことで	With the bugs gone,
-44674	+	肉体の強度も下がったのか、	his physical strength dropped sharply,
-44675	+	ガルティアの声が急速にしぼんでいく。	and Galtia's voice faded quickly.
+44673	-		ムシたちが居なくなったことで	With the bugs gone,
+44674	+		肉体の強度も下がったのか、	his physical strength dropped sharply,
+44675	+		ガルティアの声が急速にしぼんでいく。	and Galtia's voice faded quickly.
 
-44676	Galtia	「…………あ〜あ。腹ぁ、減ったぜ……」	「......Haa. I'm hungry...」
+44676	Galtia		「…………あ〜あ。腹ぁ、減ったぜ……」	「......Haa. I'm hungry...」
 
-44677	-	それが、魔人ガルティアの最期の言葉だった。	Those were the last words of the Fiend Galtia.
+44677	-		それが、魔人ガルティアの最期の言葉だった。	Those were the last words of the Fiend Galtia.
 
-44678	Crook Mofus	「魔血魂、回収します」	「Recovering the Demonic Blood Soul.」
+44678	Crook Mofus	基本	「魔血魂、回収します」	「Recovering the Demonic Blood Soul.」
 
-44679	Rance	「ふん……がっっははははは！！　勝ーーーー利！！	「Hmph... Gaaahahahaha!! Victory!!
-44680	+	　魔人ガルティア、討ち取ったぞー」	　Fiend Galtia has been slain!」
+44679	Rance	笑顔	「ふん……がっっははははは！！　勝ーーーー利！！	「Hmph... Gaaahahahaha!! Victory!!
+44680	+		　魔人ガルティア、討ち取ったぞー」	　Fiend Galtia has been slain!」
 
-44681	Monster General	「なッ、ば、馬鹿な！？」	「Wha- Impossible!?」
+44681	Monster General	基本	「なッ、ば、馬鹿な！？」	「Wha- Impossible!?」
 
-44682	Saias Crown	「よーーーし！　どうやらやってくれたらしいな！」	「Yeees! Looks like you did it!」
+44682	Saias Crown	笑顔	「よーーーし！　どうやらやってくれたらしいな！」	「Yeees! Looks like you did it!」
 
-44683	Uspira Shintou	「氷軍全軍、突入準備！	「Ice Army, all units, prepare to charge!
-44684	+	　タイミングは注意して」	　Watch your timing.」
+44683	Uspira Shintou	基本	「氷軍全軍、突入準備！	「Ice Army, all units, prepare to charge!
+44684	+		　タイミングは注意して」	　Watch your timing.」
 
-44685	Green Monster Soldier	「へっ……？　ガルティア様が死んだって……	「Heh...? Lord Galtia died...?
-44686	+	　どこの化け物にそんな真似ができるんだよ！」	　What kind of monster could do that!?」
+44685	Green Monster Soldier		「へっ……？　ガルティア様が死んだって……	「Heh...? Lord Galtia died...?
+44686	+		　どこの化け物にそんな真似ができるんだよ！」	　What kind of monster could do that!?」
 
-44687	Green Monster Soldier	「し、知らねぇよ！　けど、現に…………！」	「I don't know! But it's happening...!」
+44687	Green Monster Soldier		「し、知らねぇよ！　けど、現に…………！」	「I don't know! But it's happening...!」
 
-44688	Monster Captain	「え、ええい！　とにかく、目の前の……」	「Damn it! Anyway, the enemy in front...」
+44688	Monster Captain		「え、ええい！　とにかく、目の前の……」	「Damn it! Anyway, the enemy in front...」
 
-44689	Zeth Mage Soldier	「好機！　ファイヤーレーザー！！」	「Perfect timing! Fire Laser!!」
+44689	Zeth Mage Soldier		「好機！　ファイヤーレーザー！！」	「Perfect timing! Fire Laser!!」
 
-44690	Zeth Mage Soldier	「氷雪吹雪！」	「Blizzard!」
+44690	Zeth Mage Soldier		「氷雪吹雪！」	「Blizzard!」
 
-44691	Monster Captain	「ぎゃあああぁっ！」	「Gyaaaaah!」
+44691	Monster Captain		「ぎゃあああぁっ！」	「Gyaaaaah!」
 
-44692	Uspira Shintou	「氷軍、前進！　徹底的に追い立てて！」	「Ice Army, advance! Chase them down completely!」
+44692	Uspira Shintou		「氷軍、前進！　徹底的に追い立てて！」	「Ice Army, advance! Chase them down completely!」
 
-44693	Saias Crown	「炎軍、同じく！　散々タダ食いしてきた連中に、	「Flame Army, same! To those who freeloaded for so long,
-44694	+	　取り立てをさせてもらえ！」	　time to collect the debt!」
+44693	Saias Crown		「炎軍、同じく！　散々タダ食いしてきた連中に、	「Flame Army, same! To those who freeloaded for so long,
+44694	+		　取り立てをさせてもらえ！」	　time to collect the debt!」
 
-44695	-	大規模な魔法の斉射によって、	With large-scale magic barrages,
-44696	+	隊長、将軍が倒れていく。	captains and generals fell one after another.
-44697	+	そうなると、もう魔軍には崩壊以外の道がなかった。	Once that happened, collapse was the only path left for the Monster Army.
+44695	-		大規模な魔法の斉射によって、	With large-scale magic barrages,
+44696	+		隊長、将軍が倒れていく。	captains and generals fell one after another.
+44697	+		そうなると、もう魔軍には崩壊以外の道がなかった。	Once that happened, collapse was the only path left for the Monster Army.
 
-44698	-	走った動揺を魔軍は振り払うことができず、	The Monster Army could not shake off their panic,
-44699	+	ゼス軍はその機に徹底的に乗じた。	and the Zeth army took full advantage.
+44698	-		走った動揺を魔軍は振り払うことができず、	The Monster Army could not shake off their panic,
+44699	+		ゼス軍はその機に徹底的に乗じた。	and the Zeth army took full advantage.
 
-44700	-	魔軍は甚大な被害を受けつつ、逃げ出した。	The Monster Army fled, suffering massive losses.
-44701	+	ニカニカ平原には膨大な数の屍が晒され、	Countless corpses littered the Nikanika Plains,
-44702	+	その多くは魔軍のものであった。	most of them from the Monster Army.
+44700	-		魔軍は甚大な被害を受けつつ、逃げ出した。	The Monster Army fled, suffering massive losses.
+44701	+		ニカニカ平原には膨大な数の屍が晒され、	Countless corpses littered the Nikanika Plains,
+44702	+		その多くは魔軍のものであった。	most of them from the Monster Army.
 
-44703	-	ガルティア率いるゼス侵攻部隊は、	The Zeth invasion force led by Galtia
-44704	+	その指揮系統を失った。	lost its chain of command.
+44703	-		ガルティア率いるゼス侵攻部隊は、	The Zeth invasion force led by Galtia
+44704	+		その指揮系統を失った。	lost its chain of command.

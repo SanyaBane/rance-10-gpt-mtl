@@ -4,71 +4,71 @@
 * Silky Littleraisin	シルキィ	Female
 * La Hawzel	ハウゼル	Female
 
-140197	-	会議後、一度魔物界に戻るラカンを	After the meeting, the Hornet faction members saw off
-140198	+	ホーネット派の面々が見送っていた。	Rakan who was returning to the Monster Realm once.
+140197	-		会議後、一度魔物界に戻るラカンを	After the meeting, the Hornet faction members saw off
+140198	+		ホーネット派の面々が見送っていた。	Rakan who was returning to the Monster Realm once.
 
-140199	Monster Captain	「……申し訳ありません。	「......I am sorry.
-140200	+	　お役に立ちたかったのですが、	　I wanted to be of help,
-140201	+	　それも叶わずおめおめと生き残るなど」	　but I couldn't and ended up surviving shamefully.」
+140199	Monster Captain	基本	「……申し訳ありません。	「......I am sorry.
+140200	+		　お役に立ちたかったのですが、	　I wanted to be of help,
+140201	+		　それも叶わずおめおめと生き残るなど」	　but I couldn't and ended up surviving shamefully.」
 
-140202	Satella	「馬鹿言うな。	「Don't say stupid things.
-140203	+	　今後はお前も仲間になってくれる。	　From now on you will be our comrade too.
-140204	+	　それだけで心強い」	　That's reassuring enough.」
+140202	Satella	不安	「馬鹿言うな。	「Don't say stupid things.
+140203	+		　今後はお前も仲間になってくれる。	　From now on you will be our comrade too.
+140204	+		　それだけで心強い」	　That's reassuring enough.」
 
-140205	Satella	「それに、正直……」	「Besides, to be honest......」
+140205	Satella	思考	「それに、正直……」	「Besides, to be honest......」
 
-140206	Satella	「ランスが作戦を断ったとき、	「When Rance rejected the plan,
-140207	+	　ホッとした……」	　I felt relieved......」
+140206	Satella		「ランスが作戦を断ったとき、	「When Rance rejected the plan,
+140207	+		　ホッとした……」	　I felt relieved......」
 
-140208	Satella	「お前らが死ななくて良かったと、	「I'm glad you guys didn't die,
-140209	+	　サテラは思う」	　Satella thinks.」
+140208	Satella	基本	「お前らが死ななくて良かったと、	「I'm glad you guys didn't die,
+140209	+		　サテラは思う」	　Satella thinks.」
 
-140210	Monster Captain	「そのようなお言葉……	「Such kind words......
-140211	+	　私にはもったいない」	　are too good for me.」
+140210	Monster Captain		「そのようなお言葉……	「Such kind words......
+140211	+		　私にはもったいない」	　are too good for me.」
 
-140212	Satella	「お前もサテラ達の仲間だ。	「You are also Satella's comrade.
-140213	+	　簡単に死のうとするな」	　Don't try to die so easily.」
+140212	Satella		「お前もサテラ達の仲間だ。	「You are also Satella's comrade.
+140213	+		　簡単に死のうとするな」	　Don't try to die so easily.」
 
-140214	-	サテラの言葉をシルキィが引き継ぐ。	Silky took over from Satella's words.
+140214	-		サテラの言葉をシルキィが引き継ぐ。	Silky took over from Satella's words.
 
-140215	Silky Littleraisin	「ホーネット派の戦いは、	「The fight of the Hornet faction
-140216	+	　まだ終わってはいない」	　is not over yet.」
+140215	Silky Littleraisin	非武装	「ホーネット派の戦いは、	「The fight of the Hornet faction
+140216	+		　まだ終わってはいない」	　is not over yet.」
 
-140217	Silky Littleraisin	「ラカン殿、貴方も協力してくれれば、	「Lord Rakan, if you cooperate with us too,
-140218	+	　私達にとってとても心強い」	　it will be very reassuring for us.」
+140217	Silky Littleraisin		「ラカン殿、貴方も協力してくれれば、	「Lord Rakan, if you cooperate with us too,
+140218	+		　私達にとってとても心強い」	　it will be very reassuring for us.」
 
-140219	Silky Littleraisin	「死んで道を切り開くのではなく、	「Instead of dying to open the path,
-140220	+	　共に戦う道を歩んで欲しい」	　I want you to walk the path of fighting together.」
+140219	Silky Littleraisin		「死んで道を切り開くのではなく、	「Instead of dying to open the path,
+140220	+		　共に戦う道を歩んで欲しい」	　I want you to walk the path of fighting together.」
 
-140221	-	サテラの言葉をハウゼルが引き継ぐ。	Hawzel took over from Satella's words.
+140221	-		サテラの言葉をハウゼルが引き継ぐ。	Hawzel took over from Satella's words.
 
-140222	La Hawzel	「ラカンさん、貴方が死んだら	「Rakan-san, if you die
-140223	+	　きっとホーネット様も悲しみます」	　Lady Hornet will surely be sad.」
+140222	La Hawzel	武装なし	「ラカンさん、貴方が死んだら	「Rakan-san, if you die
+140223	+		　きっとホーネット様も悲しみます」	　Lady Hornet will surely be sad.」
 
-140224	La Hawzel	「だから、どうか……	「So please......
-140225	+	　生き残って戦うことを考えて下さい」	　consider surviving and continuing to fight.」
+140224	La Hawzel		「だから、どうか……	「So please......
+140225	+		　生き残って戦うことを考えて下さい」	　consider surviving and continuing to fight.」
 
-140226	La Hawzel	「ホーネット様の為にも……」	「For Lady Hornet's sake too......」
+140226	La Hawzel		「ホーネット様の為にも……」	「For Lady Hornet's sake too......」
 
-140227	Monster Captain	「…………」	「............」
+140227	Monster Captain	基本	「…………」	「............」
 
-140228	Monster Captain	「やはり、貴方達に戦いは似合いませんね」	「As expected, fighting doesn't suit you all.」
+140228	Monster Captain		「やはり、貴方達に戦いは似合いませんね」	「As expected, fighting doesn't suit you all.」
 
-140229	Monster Captain	「だからこそ、私は死を選んだのですが……	「That's exactly why I chose death, but......
-140230	+	　だからこそ、貴方達に止められる。	　that's exactly why you can stop me.
-140231	+	　皮肉なものです……」	　How ironic......」
+140229	Monster Captain		「だからこそ、私は死を選んだのですが……	「That's exactly why I chose death, but......
+140230	+		　だからこそ、貴方達に止められる。	　that's exactly why you can stop me.
+140231	+		　皮肉なものです……」	　How ironic......」
 
-140232	Monster Captain	「分かりました」	「Understood.」
+140232	Monster Captain		「分かりました」	「Understood.」
 
-140233	Monster Captain	「このラカン、そしてラカン率いる5万の部隊、	「This Rakan and the 50,000 troops under my command
-140234	+	　これよりは全力で皆様の支援に回ります」	　will now fully support all of you.」
+140233	Monster Captain		「このラカン、そしてラカン率いる5万の部隊、	「This Rakan and the 50,000 troops under my command
+140234	+		　これよりは全力で皆様の支援に回ります」	　will now fully support all of you.」
 
-140235	-	…………	............
+140235	-		…………	............
 
-140236	-	……	......
+140236	-		……	......
 
-140237	-	こうして――	And so――
+140237	-		こうして――	And so――
 
-140238	-	ラカン率いるホーネット派残党5万の魔物兵は、	the 50,000 monster soldiers of the Hornet faction remnants led by Rakan
-140239	+	魔物の森から脱出し、	escaped from the monster forest
-140240	+	人類側の特別部隊に編入された。	and were incorporated into the human side's special unit.
+140238	-		ラカン率いるホーネット派残党5万の魔物兵は、	the 50,000 monster soldiers of the Hornet faction remnants led by Rakan
+140239	+		魔物の森から脱出し、	escaped from the monster forest
+140240	+		人類側の特別部隊に編入された。	and were incorporated into the human side's special unit.

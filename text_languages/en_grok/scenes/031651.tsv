@@ -5,106 +5,106 @@
 * Bandit	山賊	Male
 * Slave Merchant	奴隷商人	Male
 
-94102	Rance	「なに？　エレナちゃんに苦情が来てるだと？」	「What? Complaints about Elena-chan?」
+94102	Rance	基本	「なに？　エレナちゃんに苦情が来てるだと？」	「What? Complaints about Elena-chan?」
 
-94103	Cream Ganoblade	「ええ、その通りです」	「Yes, that's correct.」
+94103	Cream Ganoblade		「ええ、その通りです」	「Yes, that's correct.」
 
-94104	Cream Ganoblade	「元々、山賊団ですからね……	「They were originally a bandit group...
-94105	+	　普通の兵士達とのトラブルが相次ぎ……」	　Trouble with regular soldiers keeps happening...」
+94104	Cream Ganoblade	ため息	「元々、山賊団ですからね……	「They were originally a bandit group...
+94105	+		　普通の兵士達とのトラブルが相次ぎ……」	　Trouble with regular soldiers keeps happening...」
 
-94106	Cream Ganoblade	「このままでは放逐も考えねばなりません」	「At this rate we may have to expel them.」
+94106	Cream Ganoblade	基本	「このままでは放逐も考えねばなりません」	「At this rate we may have to expel them.」
 
-94107	Rance	「それは駄目だ。	「That's no good.
-94108	+	　エレナちゃんは可愛いからな」	　Elena-chan is cute after all.」
+94107	Rance		「それは駄目だ。	「That's no good.
+94108	+		　エレナちゃんは可愛いからな」	　Elena-chan is cute after all.」
 
-94109	Cream Ganoblade	「……そう仰るなら、注意して下さい。	「...If you say so, please warn them.
-94110	+	　もう不満を抑えておくのも限界に……」	　The soldiers' dissatisfaction is reaching its limit...」
+94109	Cream Ganoblade		「……そう仰るなら、注意して下さい。	「...If you say so, please warn them.
+94110	+		　もう不満を抑えておくのも限界に……」	　The soldiers' dissatisfaction is reaching its limit...」
 
-94111	Rance	「うむうむ、今度やっとこう」	「Yeah yeah, I'll do it next time.」
+94111	Rance		「うむうむ、今度やっとこう」	「Yeah yeah, I'll do it next time.」
 
-94112	Cream Ganoblade	「今すぐ行く！」	「Go right now!」
+94112	Cream Ganoblade	コラー！！	「今すぐ行く！」	「Go right now!」
 
-94113	Rance	「まったく、クリームちゃんめ、	「Geez, Cream-chan,
-94114	+	　最近ノリがオカンみたいになってる気が……」	　has been acting like a nagging mom lately...」
+94113	Rance	だる顔	「まったく、クリームちゃんめ、	「Geez, Cream-chan,
+94114	+		　最近ノリがオカンみたいになってる気が……」	　has been acting like a nagging mom lately...」
 
-94115	Rance	「お、いたいた」	「Oh, there she is.」
+94115	Rance	基本	「お、いたいた」	「Oh, there she is.」
 
-94116	Elena Flower	「あーーーーーん？	「Haaaaan?
-94117	+	　俺達に苦情だぁ？」	　Complaints about us?」
+94116	Elena Flower		「あーーーーーん？	「Haaaaan?
+94117	+		　俺達に苦情だぁ？」	　Complaints about us?」
 
-94118	Rance	「おう、そうなんだが……」	「Yeah, that's right...
+94118	Rance		「おう、そうなんだが……」	「Yeah, that's right...
 
-94119	Rance	「それより、お前ら集まって何してる……	　More importantly, what are you guys doing gathered here...
-94120	+	　うへっ、酒くさっ」	　Ugh, you reek of alcohol.」
+94119	Rance		「それより、お前ら集まって何してる……	　More importantly, what are you guys doing gathered here...
+94120	+		　うへっ、酒くさっ」	　Ugh, you reek of alcohol.」
 
-94121	Elena Flower	「ひゃひゃひゃひゃひゃ！	「Hyahaha!
-94122	+	　見て分かんねぇのかよ、酒盛りだよ、酒盛り！」	　Can't you tell by looking? It's a drinking party!」
+94121	Elena Flower	笑顔	「ひゃひゃひゃひゃひゃ！	「Hyahaha!
+94122	+		　見て分かんねぇのかよ、酒盛りだよ、酒盛り！」	　Can't you tell by looking? It's a drinking party!」
 
-94123	Rance	「こんな昼間から……	「In broad daylight...
-94124	+	　なるほど、こりゃ怒られるわけだ」	　No wonder they're complaining.」
+94123	Rance	基本	「こんな昼間から……	「In broad daylight...
+94124	+		　なるほど、こりゃ怒られるわけだ」	　No wonder they're complaining.」
 
-94125	Rance	「お前ら兵士達とトラブルばかり	「I heard you're causing constant trouble
-94126	+	　起こしてるそうではないか」	　with the regular soldiers.」
+94125	Rance	真剣	「お前ら兵士達とトラブルばかり	「I heard you're causing constant trouble
+94126	+		　起こしてるそうではないか」	　with the regular soldiers.」
 
-94127	Elena Flower	「けーーーーーーーっ！」	「Keeeeh!」
+94127	Elena Flower	基本	「けーーーーーーーっ！」	「Keeeeh!」
 
-94128	Elena Flower	「それで注意に来たってのかよ！」	「So you came to lecture us!」
+94128	Elena Flower		「それで注意に来たってのかよ！」	「So you came to lecture us!」
 
-94129	Elena Flower	「ひゃひゃひゃ、王様っても、	「Hyahaha, the king sure
-94130	+	　やってるこたお役所みてぇだな」	　acts like a damn bureaucrat.」
+94129	Elena Flower		「ひゃひゃひゃ、王様っても、	「Hyahaha, the king sure
+94130	+		　やってるこたお役所みてぇだな」	　acts like a damn bureaucrat.」
 
-94131	Rance	「王様違う、総統閣下だ」	「Not king, Supreme Leader.」
+94131	Rance		「王様違う、総統閣下だ」	「Not king, Supreme Leader.」
 
-94132	Elena Flower	「王様もそーとーかっかも大して変わんねぇだろ！」	「King or Supreme Leader, it's basically the same!」
+94132	Elena Flower		「王様もそーとーかっかも大して変わんねぇだろ！」	「King or Supreme Leader, it's basically the same!」
 
-94133	Bandit	「さすがっす、エレナの姐御！	「As expected of Boss Elena!
-94134	+	　いよっ、器がデカイ！」	　What a huge vessel!」
+94133	Bandit		「さすがっす、エレナの姐御！	「As expected of Boss Elena!
+94134	+		　いよっ、器がデカイ！」	　What a huge vessel!」
 
-94135	Slave Merchant	「俺達、一生ついていきまーす！」	「We'll follow you for life!」
+94135	Slave Merchant		「俺達、一生ついていきまーす！」	「We'll follow you for life!」
 
-94136	Rance	「お前らもエレナを甘やかすんじゃない」	「Don't spoil Elena too much, you guys.」
+94136	Rance		「お前らもエレナを甘やかすんじゃない」	「Don't spoil Elena too much, you guys.」
 
-94137	Elena Flower	「なーーーんか、下らねぇこと考えてんなぁ」	「You're thinking about something lame, aren't you?」
+94137	Elena Flower		「なーーーんか、下らねぇこと考えてんなぁ」	「You're thinking about something lame, aren't you?」
 
-94138	Rance	「はあ？」	「Haa?」
+94138	Rance		「はあ？」	「Haa?」
 
-94139	Elena Flower	「俺ぁ、テメェなんか大ッッッ嫌ぇだけどよ、	「I fucking hate you, but
-94140	+	　テメェのやること自体は好きだぜ」	　I like what you do.」
+94139	Elena Flower		「俺ぁ、テメェなんか大ッッッ嫌ぇだけどよ、	「I fucking hate you, but
+94140	+		　テメェのやること自体は好きだぜ」	　I like what you do.」
 
-94141	Elena Flower	「やることメチャクチャで、バカ中のバカで、	「You do crazy shit, you're the biggest idiot,
-94142	+	　バカやることに命を賭けた馬鹿野郎は、	　a fool who stakes his life on stupidity,
-94143	+	　フラワー番地強盗団は大好きだ！」	　that's why the Flower District Robber Gang loves you!」
+94141	Elena Flower		「やることメチャクチャで、バカ中のバカで、	「You do crazy shit, you're the biggest idiot,
+94142	+		　バカやることに命を賭けた馬鹿野郎は、	　a fool who stakes his life on stupidity,
+94143	+		　フラワー番地強盗団は大好きだ！」	　that's why the Flower District Robber Gang loves you!」
 
-94144	Elena Flower	「せいぜいテメェには、	「So go ahead and
-94145	+	　この世界をメッチャクチャにして欲しいね」	　mess this world up completely.」
+94144	Elena Flower		「せいぜいテメェには、	「So go ahead and
+94145	+		　この世界をメッチャクチャにして欲しいね」	　mess this world up completely.」
 
-94146	Elena Flower	「だってのに、なんだそのツラ」	「So what's with that face?
+94146	Elena Flower		「だってのに、なんだそのツラ」	「So what's with that face?
 
-94147	Elena Flower	「俺がいいねぇ、って思ったテメェは、	　The you I thought was cool
-94148	+	　そんな下らねぇ玉なしじゃなかった筈だがな。	　shouldn't have been such a spineless wimp.
-94149	+	　アア？」	　Huh?」
+94147	Elena Flower		「俺がいいねぇ、って思ったテメェは、	　The you I thought was cool
+94148	+		　そんな下らねぇ玉なしじゃなかった筈だがな。	　shouldn't have been such a spineless wimp.
+94149	+		　アア？」	　Huh?」
 
-94150	Rance	「お、おお……」	「O, oh...」
+94150	Rance	真剣	「お、おお……」	「O, oh...」
 
-94151	Rance	「あのエレナちゃんが！	「That Elena-chan!
-94152	+	　俺のことを大好きだと言ったぞー！」	　Said she really likes me!」
+94151	Rance	怒り	「あのエレナちゃんが！	「That Elena-chan!
+94152	+		　俺のことを大好きだと言ったぞー！」	　Said she really likes me!」
 
-94153	Elena Flower	「そこまでは言ってねぇ！」	「I didn't say that far!」
+94153	Elena Flower		「そこまでは言ってねぇ！」	「I didn't say that far!」
 
-94154	Rance	「しかし確かにエレナちゃんの言う通り。	「But yeah, Elena-chan is right.
-94155	+	　なんかめんどそうだし、	　It seems troublesome,
-94156	+	　後はクリームちゃんに任せよう」	　so I'll leave the rest to Cream-chan.」
+94154	Rance	基本	「しかし確かにエレナちゃんの言う通り。	「But yeah, Elena-chan is right.
+94155	+		　なんかめんどそうだし、	　It seems troublesome,
+94156	+		　後はクリームちゃんに任せよう」	　so I'll leave the rest to Cream-chan.」
 
-94157	Rance	「がははは、というわけで	「Gahahaha, so with that,
-94158	+	　俺にも酒持ってこーい！」	　bring me some booze too!」
+94157	Rance	笑顔	「がははは、というわけで	「Gahahaha, so with that,
+94158	+		　俺にも酒持ってこーい！」	　bring me some booze too!」
 
-94159	Elena Flower	「ケケケ、それでいんだよ」	「Kekeke, that's how it should be.」
+94159	Elena Flower	基本	「ケケケ、それでいんだよ」	「Kekeke, that's how it should be.」
 
-94160	Elena Flower	「おう！　一番きっつい酒持ってこい！」	「Yeah! Bring the strongest booze!」
+94160	Elena Flower	笑顔	「おう！　一番きっつい酒持ってこい！」	「Yeah! Bring the strongest booze!」
 
-94161	Bandit	「へーーーーい！」	「Yeees!」
+94161	Bandit	基本	「へーーーーい！」	「Yeees!」
 
-94162	-	ランスはフラワー番地強盗団と	Rance had a fun drinking party
-94163	+	楽しく酒盛りした。	with the Flower District Robber Gang.
+94162	-		ランスはフラワー番地強盗団と	Rance had a fun drinking party
+94163	+		楽しく酒盛りした。	with the Flower District Robber Gang.
 
-94164	-	……後でクリームに叱られた。	...He got scolded by Cream later.
+94164	-		……後でクリームに叱られた。	...He got scolded by Cream later.

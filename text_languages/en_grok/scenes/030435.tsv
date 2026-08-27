@@ -5,85 +5,85 @@
 * Hanny	汎用ハニー	Male
 * Rance	ランス	Male
 
-7043	Old Man	「こ、こちらをお納めください、アーシー様……！	「P-please accept this, Lady Arcy...!
-7044	+	　それでその、宝くじの当選番号を……」	　And in return, the winning lottery numbers...」
+7043	Old Man	基本	「こ、こちらをお納めください、アーシー様……！	「P-please accept this, Lady Arcy...!
+7044	+		　それでその、宝くじの当選番号を……」	　And in return, the winning lottery numbers...」
 
-7045	Arcy Julietta	「お徳用おかき……んー、まいっか。	「Economy rice crackers... Eh, whatever.
-7046	+	　ぴぷるぴー……」	　Pipuru pee...」
+7045	Arcy Julietta		「お徳用おかき……んー、まいっか。	「Economy rice crackers... Eh, whatever.
+7046	+		　ぴぷるぴー……」	　Pipuru pee...」
 
-7047	Arcy Julietta	「あ、だめ。	「Ah, no good.
-7048	+	　どれ買ってもおじいちゃん、あたらないよ」	　No matter what you buy, you won't win, grandpa.」
+7047	Arcy Julietta		「あ、だめ。	「Ah, no good.
+7048	+		　どれ買ってもおじいちゃん、あたらないよ」	　No matter what you buy, you won't win, grandpa.」
 
-7049	Old Man	「ぐはっ、なんと……！」	「Guh, what...!」
+7049	Old Man		「ぐはっ、なんと……！」	「Guh, what...!」
 
-7050	-	老人はとぼとぼと帰っていった。	The old man trudged away dejectedly.
+7050	-		老人はとぼとぼと帰っていった。	The old man trudged away dejectedly.
 
-7051	Arcy Julietta	「はあ、さいきんしけてるの。	「Sigh, business has been slow lately.
-7052	+	　わたちがもとめる至高のおかし、	　The supreme sweets I seek
-7053	+	　ちっともやってこないわ」	　aren't coming at all.」
+7051	Arcy Julietta		「はあ、さいきんしけてるの。	「Sigh, business has been slow lately.
+7052	+		　わたちがもとめる至高のおかし、	　The supreme sweets I seek
+7053	+		　ちっともやってこないわ」	　aren't coming at all.」
 
-7054	Arcy Julietta	「せんそうがはじまったせいなのよ。	「It's because the war started.
-7055	+	　もー……このままここにいても、	　Geez... If I stay here like this,
-7056	+	　かせぎがへるだけなの」	　I'll just keep earning less.」
+7054	Arcy Julietta		「せんそうがはじまったせいなのよ。	「It's because the war started.
+7055	+		　もー……このままここにいても、	　Geez... If I stay here like this,
+7056	+		　かせぎがへるだけなの」	　I'll just keep earning less.」
 
-7057	Arcy Julietta	「ばしょをかえようかしら……	「Maybe I should change locations...
-7058	+	　でも、どこに行けばいいのか……」	　But where should I go...?」
+7057	Arcy Julietta		「ばしょをかえようかしら……	「Maybe I should change locations...
+7058	+		　でも、どこに行けばいいのか……」	　But where should I go...?」
 
-7059	Arcy Julietta	「わたちは人の占い師……	「I'm a fortune teller for others...
-7060	+	　じぶんをうらなうのはあうとなの」	　It's bad luck to divine my own fate.」
+7059	Arcy Julietta		「わたちは人の占い師……	「I'm a fortune teller for others...
+7060	+		　じぶんをうらなうのはあうとなの」	　It's bad luck to divine my own fate.」
 
-7061	Arcy Julietta	「ううん……そうだ」	「Hmm... That's it.」
+7061	Arcy Julietta		「ううん……そうだ」	「Hmm... That's it.」
 
-7062	Free Cities Guard	「こ、ここか？	「I-is this the place?
-7063	+	　占い師のアーシー……」	　Fortune teller Arcy...」
+7062	Free Cities Guard		「こ、ここか？	「I-is this the place?
+7063	+		　占い師のアーシー……」	　Fortune teller Arcy...」
 
-7064	Arcy Julietta	「そうよ。てんちゃい占い師とは、わたちの事。	「That's right. The heavenly fortune teller is me.
-7065	+	　ただいまセール中なの」	　Right now it's on sale.」
+7064	Arcy Julietta		「そうよ。てんちゃい占い師とは、わたちの事。	「That's right. The heavenly fortune teller is me.
+7065	+		　ただいまセール中なの」	　Right now it's on sale.」
 
-7066	Free Cities Guard	「セール？」	「Sale?」
+7066	Free Cities Guard		「セール？」	「Sale?」
 
-7067	Arcy Julietta	「うん。ただでうらなったげる」	「Yep. I'll tell your fortune for free.」
+7067	Arcy Julietta		「うん。ただでうらなったげる」	「Yep. I'll tell your fortune for free.」
 
-7068	Free Cities Guard	「マジか！　ラッキー……！」	「For real!? Lucky...!」
+7068	Free Cities Guard		「マジか！　ラッキー……！」	「For real!? Lucky...!」
 
-7069	Arcy Julietta~	（その代わり……この人のうんめいの、	（In return... I'll also divine this person's fate,
-7070	+	　つよいながれもいっしょにうらなうの）	　along with the strong flows.）
+7069	Arcy Julietta~		（その代わり……この人のうんめいの、	（In return... I'll also divine this person's fate,
+7070	+		　つよいながれもいっしょにうらなうの）	　along with the strong flows.）
 
-7071	Arcy Julietta~	（そして、そこであった人もうらなって、	（Then divine the people I meet there,
-7072	+	　もっとつよいながれをさがす……	　to find even stronger flows...
-7073	+	　そしたら、いつかすごいひとにであえるはず！）	　That way, I'll surely meet an amazing person someday!）
+7071	Arcy Julietta~		（そして、そこであった人もうらなって、	（Then divine the people I meet there,
+7072	+		　もっとつよいながれをさがす……	　to find even stronger flows...
+7073	+		　そしたら、いつかすごいひとにであえるはず！）	　That way, I'll surely meet an amazing person someday!）
 
-7074	Arcy Julietta	「ふむふむ……」	「Hmm hmm...」
+7074	Arcy Julietta		「ふむふむ……」	「Hmm hmm...」
 
-7075	Arcy Julietta	「ちちんぷい……」	「Chichin pui...」
+7075	Arcy Julietta		「ちちんぷい……」	「Chichin pui...」
 
-7076	Arcy Julietta	「ぷいぷいぷー……」	「Pui pui poo...」
+7076	Arcy Julietta		「ぷいぷいぷー……」	「Pui pui poo...」
 
-7077	Arcy Julietta	「ぷぴるぴー！」	「Pupiru pee!」
+7077	Arcy Julietta		「ぷぴるぴー！」	「Pupiru pee!」
 
-7078	Arcy Julietta~	（わかった……人のうんめいがこうさくするばしょ。	（I see... The place where people's fates intertwine.
-7079	+	　つよいひとの、うんめいがたどりつくばしょ……）	　The place where strong people's fates arrive...）
+7078	Arcy Julietta~		（わかった……人のうんめいがこうさくするばしょ。	（I see... The place where people's fates intertwine.
+7079	+		　つよいひとの、うんめいがたどりつくばしょ……）	　The place where strong people's fates arrive...）
 
-7080	Hanny	「ねえねえ！　ううう、占ってくれるんだよね！	「Hey hey! Uuu, you'll tell my fortune right!?
-7081	+	　タダでいいんだって！？」	　It's free, right!?」
+7080	Hanny		「ねえねえ！　ううう、占ってくれるんだよね！	「Hey hey! Uuu, you'll tell my fortune right!?
+7081	+		　タダでいいんだって！？」	　It's free, right!?」
 
-7082	Arcy Julietta	「……………………」	「........................」
+7082	Arcy Julietta		「……………………」	「........................」
 
-7083	Arcy Julietta	「どこできいたの、そんなこと。	「Where did you hear that?
-7084	+	　あたちにうらなってほしかったら、おかしよ」	　If you want me to tell your fortune, give me sweets.」
+7083	Arcy Julietta		「どこできいたの、そんなこと。	「Where did you hear that?
+7084	+		　あたちにうらなってほしかったら、おかしよ」	　If you want me to tell your fortune, give me sweets.」
 
-7085	Hanny	「え、えぇーーーーーっ……！」	「Eeeehhh...!」
+7085	Hanny		「え、えぇーーーーーっ……！」	「Eeeehhh...!」
 
-7086	Arcy Julietta	「なければ、おちまい。	「If not, then we're done.
-7087	+	　わたち、いそがしいのよ」	　I'm busy.」
+7086	Arcy Julietta		「なければ、おちまい。	「If not, then we're done.
+7087	+		　わたち、いそがしいのよ」	　I'm busy.」
 
-7088	-	がっくりと力尽きたハニーをよそに、	Ignoring the completely dejected Hanny,
-7089	+	アーシーは立ち上がった。	Arcy stood up.
+7088	-		がっくりと力尽きたハニーをよそに、	Ignoring the completely dejected Hanny,
+7089	+		アーシーは立ち上がった。	Arcy stood up.
 
-7090	Arcy Julietta~	（ふふふ……	（Fufufu...
-7091	+	　どこのどちらさまか……おかしいーっぱい、	　Whoever it is... I'll have them feed me tons of sweets,
-7092	+	　たべさせてもらうのよ）	　that's the plan.）
+7090	Arcy Julietta~		（ふふふ……	（Fufufu...
+7091	+		　どこのどちらさまか……おかしいーっぱい、	　Whoever it is... I'll have them feed me tons of sweets,
+7092	+		　たべさせてもらうのよ）	　that's the plan.）
 
-7093	Rance	「なんだあのガキ。こんな所で……」	「What's that kid doing in a place like this...」
+7093	Rance	真剣	「なんだあのガキ。こんな所で……」	「What's that kid doing in a place like this...」
 
-7094	-	そしてアーシーは、彼らに出会った。	And then Arcy met them.
+7094	-		そしてアーシーは、彼らに出会った。	And then Arcy met them.

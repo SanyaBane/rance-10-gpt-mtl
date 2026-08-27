@@ -3,60 +3,60 @@
 * Satella	サテラ	Female
 * Sill Plain	シィル	Female
 
-140653	-	ランス達が魔王城を目指す。	Rance and the others headed for the Demon King Castle.
-140654	+	その道程も半分以上が過ぎた頃――	When more than half of the journey had passed――
+140653	-		ランス達が魔王城を目指す。	Rance and the others headed for the Demon King Castle.
+140654	+		その道程も半分以上が過ぎた頃――	When more than half of the journey had passed――
 
-140655	Rance	「はあ、だるいな……	「Haa, this is tiring......
-140656	+	　くねくねと回り道をしおって、	　taking all these winding detours,
-140657	+	　真っ直ぐ行くわけにはいかんのか？」	　can't we just go straight?」
+140655	Rance	だる顔	「はあ、だるいな……	「Haa, this is tiring......
+140656	+		　くねくねと回り道をしおって、	　taking all these winding detours,
+140657	+		　真っ直ぐ行くわけにはいかんのか？」	　can't we just go straight?」
 
-140658	Satella	「馬鹿かお前は」	「Are you stupid?」
+140658	Satella	思考	「馬鹿かお前は」	「Are you stupid?」
 
-140659	Satella	「魔軍にサテラ達の姿が見られたら、	「If the Monster Army spots us,
-140660	+	　ホーネット様が移動させられるだろうが」	　they'll move Lady Hornet.」
+140659	Satella	基本	「魔軍にサテラ達の姿が見られたら、	「If the Monster Army spots us,
+140660	+		　ホーネット様が移動させられるだろうが」	　they'll move Lady Hornet.」
 
-140661	Satella	「そうなったら、こんなチャンスは二度とない。	「If that happens, we'll never get another chance like this.
-140662	+	　姿を見られないようにするのは、	　Not being seen
-140663	+	　今回の戦いの前提条件なんだ」	　is a prerequisite for this battle.」
+140661	Satella	思考	「そうなったら、こんなチャンスは二度とない。	「If that happens, we'll never get another chance like this.
+140662	+		　姿を見られないようにするのは、	　Not being seen
+140663	+		　今回の戦いの前提条件なんだ」	　is a prerequisite for this battle.」
 
-140664	Rance	「それくらい分かっとるわ。	「I know that much.
-140665	+	　だが面倒だ」	　But it's annoying.」
+140664	Rance	だる顔	「それくらい分かっとるわ。	「I know that much.
+140665	+		　だが面倒だ」	　But it's annoying.」
 
-140666	Satella	「貴様、いい加減に――」	「You, enough――」
+140666	Satella	基本	「貴様、いい加減に――」	「You, enough――」
 
-140667	Satella	「待て、まずいぞ……」	「Wait, this is bad......」
+140667	Satella		「待て、まずいぞ……」	「Wait, this is bad......」
 
-140668	Satella	「くそ、こんなところにあるなんて	「Damn, I didn't hear about this being here......」
-140669	+	　聞いてないぞ……」	
+140668	Satella	怒り	「くそ、こんなところにあるなんて	「Damn, I didn't hear about this being here......」
+140669	+		　聞いてないぞ……」	
 
-140670	Rance	「ん、どうした？」	「Hm, what's wrong?」
+140670	Rance	真剣	「ん、どうした？」	「Hm, what's wrong?」
 
-140671	-	巨大かつ大量の植物の群れが	A huge mass of plants
-140672	+	うねうねと触手のように蠢いていた。	wriggled like tentacles.
+140671	-		巨大かつ大量の植物の群れが	A huge mass of plants
+140672	+		うねうねと触手のように蠢いていた。	wriggled like tentacles.
 
-140673	Rance	「気持ち悪い……	「Disgusting......
-140674	+	　これは――」	This――」
+140673	Rance	だる顔	「気持ち悪い……	「Disgusting......
+140674	+		　これは――」	This――」
 
-140675	Satella	「野生のアロエ……	「Wild aloe......
-140676	+	　それも魔界アロエの群生だ」	and a whole colony of demon world aloe.」
+140675	Satella	怒り	「野生のアロエ……	「Wild aloe......
+140676	+		　それも魔界アロエの群生だ」	and a whole colony of demon world aloe.」
 
-140677	Sill Plain	「す、すごい数ですよ……	「Th-There are so many......
-140678	+	　あの、サテラさん、もしかしてルートって……」	Um, Satella-san, does that mean the route......」
+140677	Sill Plain	慌て	「す、すごい数ですよ……	「Th-There are so many......
+140678	+		　あの、サテラさん、もしかしてルートって……」	Um, Satella-san, does that mean the route......」
 
-140679	Satella	「ここを真っ直ぐ進む必要がある……」	「We need to go straight through here......」
+140679	Satella	不安	「ここを真っ直ぐ進む必要がある……」	「We need to go straight through here......」
 
-140680	Sill Plain	「ああ……」	「Aah......」
+140680	Sill Plain	基本	「ああ……」	「Aah......」
 
-140681	Satella	「ちっ、負けることはまずないだろうが……	「Tch, we probably won't lose but......
-140682	+	　時間がかかって仕方ない。	it will take too much time.
-140683	+	　そうすると魔軍に見つかるかも……」	If so we might get spotted by the Monster Army......」
+140681	Satella	思考	「ちっ、負けることはまずないだろうが……	「Tch, we probably won't lose but......
+140682	+		　時間がかかって仕方ない。	it will take too much time.
+140683	+		　そうすると魔軍に見つかるかも……」	If so we might get spotted by the Monster Army......」
 
-140684	Satella	「ちっ……アロエ相手に不愉快だが……	「Tch...... it's unpleasant facing aloe but......
-140685	+	　ここは道を迂回していくしか」	we have no choice but to take a detour.」
+140684	Satella		「ちっ……アロエ相手に不愉快だが……	「Tch...... it's unpleasant facing aloe but......
+140685	+		　ここは道を迂回していくしか」	we have no choice but to take a detour.」
 
-140686	Rance	「がははは！　道を塞ぐものは	「Gahahaha! Anything blocking the path
-140687	+	　アロエだろうと神だろうと許さん！」	whether aloe or god, I won't allow it!」
+140686	Rance	笑顔	「がははは！　道を塞ぐものは	「Gahahaha! Anything blocking the path
+140687	+		　アロエだろうと神だろうと許さん！」	whether aloe or god, I won't allow it!」
 
-140688	Rance	「というわけで死ねーーーーーッ！」	「So dieeeeeee!」
+140688	Rance	怒り	「というわけで死ねーーーーーッ！」	「So dieeeeeee!」
 
-140689	Satella	「あ、こら、勝手に行くな！」	「Hey, don't go off on your own!」
+140689	Satella		「あ、こら、勝手に行くな！」	「Hey, don't go off on your own!」

@@ -153,11 +153,13 @@ export const acceptTranslation = (scene, returned) => {
             continue;
         }
         const cells = line.split("\t");
-        // A translator handed four columns sometimes gives four back. The
-        // number is still first and the English still last, so that is
-        // readable; anything else is not a row.
-        const row = cells.length === 4 && /^\d+$/.test(cells[0])
-            ? [line, cells[0], cells[3]]
+        // A translator handed the scene file's columns sometimes gives them
+        // back. The number is still first and the English still last, so that
+        // is readable; anything else is not a row. Four and five both, because
+        // the file grew a column for what the portrait is doing and an answer
+        // echoing the old shape is still an answer.
+        const row = (cells.length === 4 || cells.length === 5) && /^\d+$/.test(cells[0])
+            ? [line, cells[0], cells[cells.length - 1]]
             : ROW.exec(line);
         if (!row) {
             prose.push(line);

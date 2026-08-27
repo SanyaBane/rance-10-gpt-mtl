@@ -4,208 +4,208 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-3341	Asakura Yoshikage	「さて……私もそろそろ、仕事をするか……」	「Well then...... Time for me to get to work......」
+3341	Asakura Yoshikage	基本	「さて……私もそろそろ、仕事をするか……」	「Well then...... Time for me to get to work......」
 
-3342	-	朝倉義景は、ランス城の廊下を歩いていた。	Asakura Yoshikage walked down the hallway of Rance Castle.
+3342	-		朝倉義景は、ランス城の廊下を歩いていた。	Asakura Yoshikage walked down the hallway of Rance Castle.
 
-3343	Asakura Yoshikage	「治める土地が広ければ、	「The wider the land one governs,
-3344	+	　人の在りようも多彩になるもの……」	　the more varied the people become......」
+3343	Asakura Yoshikage		「治める土地が広ければ、	「The wider the land one governs,
+3344	+		　人の在りようも多彩になるもの……」	　the more varied the people become......」
 
-3345	Asakura Yoshikage	「その中でも……ふむ。	「Among them...... Hmm.
-3346	+	　やはりあの方からいくのがよいか」	　I suppose I should start with that person.」
+3345	Asakura Yoshikage		「その中でも……ふむ。	「Among them...... Hmm.
+3346	+		　やはりあの方からいくのがよいか」	　I suppose I should start with that person.」
 
-3347	Pastel Kalar	「毎度毎度……ッ……	「Every single time......
-3348	+	　いい加減にせんかーーーー！！」	　Enough alreadyーーー!!」
+3347	Pastel Kalar	ぐぬぬ	「毎度毎度……ッ……	「Every single time......
+3348	+		　いい加減にせんかーーーー！！」	　Enough alreadyーーー!!」
 
-3349	Pastel Kalar	「まったく……あやつと来たら毎日毎日！	「Honestly...... That guy every single day!
-3350	+	　顔を合わせれば妾を馬鹿にしくさりおって……」	　Every time he sees me he mocks me......」
+3349	Pastel Kalar		「まったく……あやつと来たら毎日毎日！	「Honestly...... That guy every single day!
+3350	+		　顔を合わせれば妾を馬鹿にしくさりおって……」	　Every time he sees me he mocks me......」
 
-3351	-	パステル・カラーがベンチで憤慨していた。	Pastel Kalar was fuming on a bench.
+3351	-		パステル・カラーがベンチで憤慨していた。	Pastel Kalar was fuming on a bench.
 
-3352	Pastel Kalar	「いっそ、もう一度何か、	「Maybe I should cast another nasty curse on him......」
-3353	+	　タチの悪い呪いでも仕掛けてくれようか……」	
+3352	Pastel Kalar		「いっそ、もう一度何か、	「Maybe I should cast another nasty curse on him......」
+3353	+		　タチの悪い呪いでも仕掛けてくれようか……」	
 
-3354	Asakura Yoshikage	「良い日差しですな」	「Nice sunlight today.」
+3354	Asakura Yoshikage	基本	「良い日差しですな」	「Nice sunlight today.」
 
-3355	Pastel Kalar	「は？」	「Ha?」
+3355	Pastel Kalar	落ち着き	「は？」	「Ha?」
 
-3356	Asakura Yoshikage	「カラーの長の……パステル殿でしたか。	「You're Pastel-dono, leader of Kalar, correct?
-3357	+	　おくつろぎ中ですかな」	　Enjoying some relaxation?」
+3356	Asakura Yoshikage	基本	「カラーの長の……パステル殿でしたか。	「You're Pastel-dono, leader of Kalar, correct?
+3357	+		　おくつろぎ中ですかな」	　Enjoying some relaxation?」
 
-3358	Pastel Kalar	「お主は、JAPANの…………ええと」	「You are from JAPAN...... um......」
+3358	Pastel Kalar	落ち着き	「お主は、JAPANの…………ええと」	「You are from JAPAN...... um......」
 
-3359	Asakura Yoshikage	「朝倉と申す、小大名でございます」	「I am Asakura, a minor daimyo.」
+3359	Asakura Yoshikage	基本	「朝倉と申す、小大名でございます」	「I am Asakura, a minor daimyo.」
 
-3360	Pastel Kalar	「む……で、何用じゃ」	「Mu...... So what do you want?」
+3360	Pastel Kalar	落ち着き	「む……で、何用じゃ」	「Mu...... So what do you want?」
 
-3361	Asakura Yoshikage	「年寄りの散歩ですよ。	「Just an old man's walk.
-3362	+	　お隣、よろしいか」	　May I sit beside you?」
+3361	Asakura Yoshikage	基本	「年寄りの散歩ですよ。	「Just an old man's walk.
+3362	+		　お隣、よろしいか」	　May I sit beside you?」
 
-3363	Pastel Kalar	「…………まあ、よいが」	「............Well, fine.」
+3363	Pastel Kalar	片手間モルルン	「…………まあ、よいが」	「............Well, fine.」
 
-3364	-	朝倉はパステルの隣に座る。	Asakura sat beside Pastel.
+3364	-		朝倉はパステルの隣に座る。	Asakura sat beside Pastel.
 
-3365	Pastel Kalar~	（なんじゃ、この男……？）	(Who is this man......?)
+3365	Pastel Kalar~	落ち着き	（なんじゃ、この男……？）	(Who is this man......?)
 
-3366	Asakura Yoshikage	「なにやら、気を揉まれているご様子ですな。	「You seem troubled.
-3367	+	　知らぬ人間に声を掛けられるのはご迷惑でしたか」	　Was it bothersome to be spoken to by a stranger?」
+3366	Asakura Yoshikage	基本	「なにやら、気を揉まれているご様子ですな。	「You seem troubled.
+3367	+		　知らぬ人間に声を掛けられるのはご迷惑でしたか」	　Was it bothersome to be spoken to by a stranger?」
 
-3368	Pastel Kalar	「いや……それは……別に、関係ない。	「No...... It's not that......
-3369	+	　気に入らん人間の男がいるだけで――」	　There's just a man I dislike――」
+3368	Pastel Kalar	片手間モルルン	「いや……それは……別に、関係ない。	「No...... It's not that......
+3369	+		　気に入らん人間の男がいるだけで――」	　There's just a man I dislike――」
 
-3370	Asakura Yoshikage	「ランス殿ですな？」	「It's Rance-dono, isn't it?」
+3370	Asakura Yoshikage	基本	「ランス殿ですな？」	「It's Rance-dono, isn't it?」
 
-3371	Pastel Kalar	「む…………」	「Mu............」
+3371	Pastel Kalar	落ち着き	「む…………」	「Mu............」
 
-3372	Asakura Yoshikage	「私も、彼には少々、痛い目を見せられましてな。	「I too have suffered at his hands a little.
-3373	+	　色々思うところがあるのですよ」	　I have many thoughts about him.」
+3372	Asakura Yoshikage	基本	「私も、彼には少々、痛い目を見せられましてな。	「I too have suffered at his hands a little.
+3373	+		　色々思うところがあるのですよ」	　I have many thoughts about him.」
 
-3374	Pastel Kalar	「なんと、そうなのか？」	「What, really?」
+3374	Pastel Kalar		「なんと、そうなのか？」	「What, really?」
 
-3375	Asakura Yoshikage	「娘がおりまして。彼は敵でした。	「I have a daughter. He was my enemy.
-3376	+	　私は敗北した……といえば、想像は付きましょう」	　I was defeated...... I'm sure you can imagine.」
+3375	Asakura Yoshikage		「娘がおりまして。彼は敵でした。	「I have a daughter. He was my enemy.
+3376	+		　私は敗北した……といえば、想像は付きましょう」	　I was defeated...... I'm sure you can imagine.」
 
-3377	Pastel Kalar	「なんと……ッ、あの、ゲスが！	「What...... That bastard!
-3378	+	　JAPANでも、そのような……」	　Even in JAPAN he......」
+3377	Pastel Kalar	疲れた	「なんと……ッ、あの、ゲスが！	「What...... That bastard!
+3378	+		　JAPANでも、そのような……」	　Even in JAPAN he......」
 
-3379	Asakura Yoshikage	「ふむ。あの御仁が貴女をどう扱っているのか……	「Hmm. I can roughly guess
-3380	+	　なんとなく、推測はつきます」	　how that man treats you.」
+3379	Asakura Yoshikage	基本	「ふむ。あの御仁が貴女をどう扱っているのか……	「Hmm. I can roughly guess
+3380	+		　なんとなく、推測はつきます」	　how that man treats you.」
 
-3381	Pastel Kalar	「いいや、お主の想像より酷いに決まっておる！	「No, it's even worse than you imagine!
-3382	+	　そもそも、奴はだな…………！」	　First of all, that guy............!」
+3381	Pastel Kalar		「いいや、お主の想像より酷いに決まっておる！	「No, it's even worse than you imagine!
+3382	+		　そもそも、奴はだな…………！」	　First of all, that guy............!」
 
-3383	-	パステルは、朝倉を相手に	Pastel began pouring out
-3384	+	普段の愚痴を思うさま吐き出し始めた。	all her usual complaints to Asakura.
+3383	-		パステルは、朝倉を相手に	Pastel began pouring out
+3384	+		普段の愚痴を思うさま吐き出し始めた。	all her usual complaints to Asakura.
 
-3385	Pastel Kalar	「そもそも、奴はただの侵入者に過ぎなかった。	「First of all, he was nothing but an intruder.
-3386	+	　それが、妾の重要な儀式に忍び込み……」	　And he sneaked into my important ritual......」
+3385	Pastel Kalar		「そもそも、奴はただの侵入者に過ぎなかった。	「First of all, he was nothing but an intruder.
+3386	+		　それが、妾の重要な儀式に忍び込み……」	　And he sneaked into my important ritual......」
 
-3387	Asakura Yoshikage	「ふむ、それは…………」	「Hmm, that is......」
+3387	Asakura Yoshikage		「ふむ、それは…………」	「Hmm, that is......」
 
-3388	Pastel Kalar	「いつもいつも！　妾を馬鹿にして！	「Every single time! He mocks me!
-3389	+	　リセットがおらなんだら間違いなく殺している！」	　If Reset wasn't there I would have killed him long ago!」
+3388	Pastel Kalar	ぐぬぬ	「いつもいつも！　妾を馬鹿にして！	「Every single time! He mocks me!
+3389	+		　リセットがおらなんだら間違いなく殺している！」	　If Reset wasn't there I would have killed him long ago!」
 
-3390	Asakura Yoshikage	「なるほど……こう考えてはどうですかな？」	「I see...... How about thinking of it this way?」
+3390	Asakura Yoshikage	基本	「なるほど……こう考えてはどうですかな？」	「I see...... How about thinking of it this way?」
 
-3391	Pastel Kalar	「むむ……？」	「Mumu......?」
+3391	Pastel Kalar	落ち着き	「むむ……？」	「Mumu......?」
 
-3392	Pastel Kalar	「なるほど……」	「I see......」
+3392	Pastel Kalar		「なるほど……」	「I see......」
 
-3393	Asakura Yoshikage	「貴女が彼をコントロールするのです。	「You should control him.
-3394	+	　彼にも利点はある。	　There are benefits for him too.
-3395	+	　それが、娘さんの為にもなりましょう」	　It would also benefit your daughter.」
+3393	Asakura Yoshikage	基本	「貴女が彼をコントロールするのです。	「You should control him.
+3394	+		　彼にも利点はある。	　There are benefits for him too.
+3395	+		　それが、娘さんの為にもなりましょう」	　It would also benefit your daughter.」
 
-3396	Pastel Kalar	「うむ……ふむ、そうか……！」	「Yes...... Hmm, that's right......!」
+3396	Pastel Kalar	笑顔	「うむ……ふむ、そうか……！」	「Yes...... Hmm, that's right......!」
 
-3397	Asakura Yoshikage	「貴女は強く、大局を見られる女性だ。	「You are a strong woman who can see the big picture.
-3398	+	　であれば、するべき事も見えるはず」	　Then you should be able to see what must be done.」
+3397	Asakura Yoshikage	基本	「貴女は強く、大局を見られる女性だ。	「You are a strong woman who can see the big picture.
+3398	+		　であれば、するべき事も見えるはず」	　Then you should be able to see what must be done.」
 
-3399	Pastel Kalar	「ふっ、そうだな。	「Fufu, indeed.
-3400	+	　朝倉殿の言われる通りじゃ！」	　Just as Asakura-dono says!」
+3399	Pastel Kalar	おほほほほ	「ふっ、そうだな。	「Fufu, indeed.
+3400	+		　朝倉殿の言われる通りじゃ！」	　Just as Asakura-dono says!」
 
-3401	-	一方的に話していたはずのパステルは、	Pastel, who had been talking one-sidedly,
-3402	+	いつの間にか朝倉の話をじっくりと聞き込んでいた。	was now carefully listening to Asakura's words.
+3401	-		一方的に話していたはずのパステルは、	Pastel, who had been talking one-sidedly,
+3402	+		いつの間にか朝倉の話をじっくりと聞き込んでいた。	was now carefully listening to Asakura's words.
 
-3403	Asakura Yoshikage	「おっと……つい話し込みすぎましたな。	「Oh...... I talked too much.
-3404	+	　年寄りの戯れ言で失礼しましたな」	　Sorry for an old man's ramblings.」
+3403	Asakura Yoshikage	基本	「おっと……つい話し込みすぎましたな。	「Oh...... I talked too much.
+3404	+		　年寄りの戯れ言で失礼しましたな」	　Sorry for an old man's ramblings.」
 
-3405	Pastel Kalar	「いや、有意義であった。	「No, it was very meaningful.
-3406	+	　妾もなんだか、やれる気がする！」	　I feel like I can do it now!」
+3405	Pastel Kalar	おほほほほ	「いや、有意義であった。	「No, it was very meaningful.
+3406	+		　妾もなんだか、やれる気がする！」	　I feel like I can do it now!」
 
-3407	Asakura Yoshikage	「それはようございました」	「I'm glad to hear that.」
+3407	Asakura Yoshikage	基本	「それはようございました」	「I'm glad to hear that.」
 
-3408	Pastel Kalar	「ではな！　ふふはははは！」	「Farewell! Fufuhahahaha!」
+3408	Pastel Kalar	おほほほほ	「ではな！　ふふはははは！」	「Farewell! Fufuhahahaha!」
 
-3409	Asakura Yoshikage	「ふぅ…………」	「Phew............」
+3409	Asakura Yoshikage	基本	「ふぅ…………」	「Phew............」
 
-3410	-	意気揚々と去っていくパステルを、	Asakura watched with a satisfied expression
-3411	+	朝倉は一仕事終えた表情で見送った。	as Pastel left full of energy.
+3410	-		意気揚々と去っていくパステルを、	Asakura watched with a satisfied expression
+3411	+		朝倉は一仕事終えた表情で見送った。	as Pastel left full of energy.
 
-3412	Rance	「ふわ〜ぁ……しかし、昨日は大騒ぎだったな」	「Fwaa...... Yesterday was quite the commotion.」
+3412	Rance		「ふわ〜ぁ……しかし、昨日は大騒ぎだったな」	「Fwaa...... Yesterday was quite the commotion.」
 
-3413	Sill Plain	「パステルさん、カンカンでしたよ。	「Pastel-san was furious.
-3414	+	　とんでもなく怒ってました……」	　She was incredibly angry......」
+3413	Sill Plain	恥	「パステルさん、カンカンでしたよ。	「Pastel-san was furious.
+3414	+		　とんでもなく怒ってました……」	　She was incredibly angry......」
 
-3415	Rance	「からかって欲しそうなあいつが悪い」	「It's her fault for looking so teaseable.」
+3415	Rance	基本	「からかって欲しそうなあいつが悪い」	「It's her fault for looking so teaseable.」
 
-3416	Sill Plain	「リセットちゃんからも、言われたじゃないですか。	「Even Reset told you off.
-3417	+	　今回はランス様が悪い、って……」	　She said it was your fault this time......」
+3416	Sill Plain	恥	「リセットちゃんからも、言われたじゃないですか。	「Even Reset told you off.
+3417	+		　今回はランス様が悪い、って……」	　She said it was your fault this time......」
 
-3418	Rance	「ええい、うるさいうるさい。	「Enough, enough.
-3419	+	　しばらくほっときゃ、忘れる……」	　She'll forget if we leave her alone for a while......」
+3418	Rance	だる顔	「ええい、うるさいうるさい。	「Enough, enough.
+3419	+		　しばらくほっときゃ、忘れる……」	　She'll forget if we leave her alone for a while......」
 
-3420	Rance	「うっ……」	「Ugh......」
+3420	Rance	驚き	「うっ……」	「Ugh......」
 
-3421	-	廊下の向こうから歩いてきたパステルと、	Rance's eyes met Pastel's as she walked down the hallway.
-3422	+	ランスの目が合った。	
+3421	-		廊下の向こうから歩いてきたパステルと、	Rance's eyes met Pastel's as she walked down the hallway.
+3422	+		ランスの目が合った。	
 
-3423	Pastel Kalar	「……………………」	「........................」
+3423	Pastel Kalar	落ち着き	「……………………」	「........................」
 
-3424	Pastel Kalar	「ふふん」	「Fufun.」
+3424	Pastel Kalar	笑顔	「ふふん」	「Fufun.」
 
-3425	Rance	「ん……？」	「Nn......?」
+3425	Rance	真剣	「ん……？」	「Nn......?」
 
-3426	Pastel Kalar	「やっと起きたのか。もう昼だぞ」	「Finally awake? It's already noon.」
+3426	Pastel Kalar	おほほほほ	「やっと起きたのか。もう昼だぞ」	「Finally awake? It's already noon.」
 
-3427	Rance	「お、おう…………」	「Y-yeah......」
+3427	Rance	真剣	「お、おう…………」	「Y-yeah......」
 
-3428	Pastel Kalar	「しゃきっとせい。お主が人類の盾なのだぞ。	「Stand tall. You are humanity's shield.
-3429	+	　……ほら、襟元が歪んでおる」	　......Here, your collar is crooked.」
+3428	Pastel Kalar	おほほほほ	「しゃきっとせい。お主が人類の盾なのだぞ。	「Stand tall. You are humanity's shield.
+3429	+		　……ほら、襟元が歪んでおる」	　......Here, your collar is crooked.」
 
-3430	Rance	「おっ……お、おぉ…………？」	「Oh...... O-oh......?」
+3430	Rance	基本	「おっ……お、おぉ…………？」	「Oh...... O-oh......?」
 
-3431	-	パステルは自然な仕草で、	Pastel naturally reached out
-3432	+	ランスの襟の乱れを直した。	and fixed Rance's collar.
+3431	-		パステルは自然な仕草で、	Pastel naturally reached out
+3432	+		ランスの襟の乱れを直した。	and fixed Rance's collar.
 
-3433	Pastel Kalar	「皆がお前に期待しておる。	「Everyone is counting on you.
-3434	+	　しっかりの」	　Do your best.」
+3433	Pastel Kalar	笑顔	「皆がお前に期待しておる。	「Everyone is counting on you.
+3434	+		　しっかりの」	　Do your best.」
 
-3435	-	パステルは微笑んだまま、	With a smile still on her face,
-3436	+	足取りも軽やかに去っていった。	Pastel walked away with light steps.
+3435	-		パステルは微笑んだまま、	With a smile still on her face,
+3436	+		足取りも軽やかに去っていった。	Pastel walked away with light steps.
 
-3437	Rance	「………………なんじゃありゃ……」	「............What the hell was that......」
+3437	Rance	だる顔	「………………なんじゃありゃ……」	「............What the hell was that......」
 
-3438	Sill Plain	「なんだか……すごくご機嫌でしたね……	「She seemed...... really happy......
-3439	+	　あんな姿、見た事ないような……」	　I've never seen her like that before......」
+3438	Sill Plain	ぽか〜ん	「なんだか……すごくご機嫌でしたね……	「She seemed...... really happy......
+3439	+		　あんな姿、見た事ないような……」	　I've never seen her like that before......」
 
-3440	Asakura Yoshikage	「ふむ……良くも悪くも極端な方だ」	「Hmm...... She is quite extreme, for better or worse.」
+3440	Asakura Yoshikage	基本	「ふむ……良くも悪くも極端な方だ」	「Hmm...... She is quite extreme, for better or worse.」
 
-3441	Rance	「あっ、爺さん。お前が何かしたのか」	「Ah, old man. Did you do something?」
+3441	Rance	真剣	「あっ、爺さん。お前が何かしたのか」	「Ah, old man. Did you do something?」
 
-3442	Asakura Yoshikage	「少々話し込んで、悩みを聞いた程度ですよ」	「I just talked with her a bit and listened to her worries.」
+3442	Asakura Yoshikage	基本	「少々話し込んで、悩みを聞いた程度ですよ」	「I just talked with her a bit and listened to her worries.」
 
-3443	Sill Plain	「それであんな風になるなんて…………」	「And that made her act like that......」
+3443	Sill Plain	考え中	「それであんな風になるなんて…………」	「And that made her act like that......」
 
-3444	Rance	「ああ。別人のようで気持ち悪い」	「Yeah. It's creepy how she's like a completely different person.」
+3444	Rance	だる顔	「ああ。別人のようで気持ち悪い」	「Yeah. It's creepy how she's like a completely different person.」
 
-3445	Asakura Yoshikage	「人間関係は円滑になるに越した事は	「There's nothing better than smooth human relationships.」
-3446	+	　ありませんからな」	
+3445	Asakura Yoshikage	基本	「人間関係は円滑になるに越した事は	「There's nothing better than smooth human relationships.」
+3446	+		　ありませんからな」	
 
-3447	Rance	「しかし、そうか。	「But I see.
-3448	+	　爺さんが後でどうとでもしてくれるのなら、	　If the old man can fix things later,
-3449	+	　あいつには何しても平気だな」	　I can do whatever I want to her.」
+3447	Rance	エロ顔	「しかし、そうか。	「But I see.
+3448	+		　爺さんが後でどうとでもしてくれるのなら、	　If the old man can fix things later,
+3449	+		　あいつには何しても平気だな」	　I can do whatever I want to her.」
 
-3450	Sill Plain	「ランス様？」	「Rance-sama?」
+3450	Sill Plain	きょとん	「ランス様？」	「Rance-sama?」
 
-3451	Rance	「がははは、またからかって遊んでこよう」	「Gahahaha, time to go tease her again.」
+3451	Rance	笑顔	「がははは、またからかって遊んでこよう」	「Gahahaha, time to go tease her again.」
 
-3452	Sill Plain	「あっ、ああっ！　だめですよう！」	「Ah, aah! You can't!」
+3452	Sill Plain	慌て	「あっ、ああっ！　だめですよう！」	「Ah, aah! You can't!」
 
-3453	Asakura Yoshikage	「……そう来ましたか。	「......So that's how it is.
-3454	+	　しかし、それだと…………」	　But in that case......」
+3453	Asakura Yoshikage	基本	「……そう来ましたか。	「......So that's how it is.
+3454	+		　しかし、それだと…………」	　But in that case......」
 
-3455	Pastel Kalar	「ききききさまーーーーーー！！	「Y-y-y-youーーーーー!!
-3456	+	　おちょくるのもいいかげんにせーーーーい！！」	　Stop messing with me alreadyーーー!!」
+3455	Pastel Kalar	ぐぬぬ	「ききききさまーーーーーー！！	「Y-y-y-youーーーーー!!
+3456	+		　おちょくるのもいいかげんにせーーーーい！！」	　Stop messing with me alreadyーーー!!」
 
-3457	-	……パステルの変貌は、	......Pastel's transformation
-3458	+	翌日まで保たなかった。	didn't even last until the next day.
+3457	-		……パステルの変貌は、	......Pastel's transformation
+3458	+		翌日まで保たなかった。	didn't even last until the next day.
 
-3459	Sill Plain	「すみません、	「I'm sorry,
-3460	+	　ランス様の為にしてくださったのに……」	　even though you did it for Rance-sama......」
+3459	Sill Plain	恥	「すみません、	「I'm sorry,
+3460	+		　ランス様の為にしてくださったのに……」	　even though you did it for Rance-sama......」
 
-3461	Asakura Yoshikage	「ま……船底に穴が空いているとはいえ、	「Well...... even if the ship has a hole in the bottom,
-3462	+	　水を汲み出さぬわけにもいかんよ」	　we still have to bail out the water.」
+3461	Asakura Yoshikage	基本	「ま……船底に穴が空いているとはいえ、	「Well...... even if the ship has a hole in the bottom,
+3462	+		　水を汲み出さぬわけにもいかんよ」	　we still have to bail out the water.」
 
-3463	Asakura Yoshikage	「ああ、そこの者…………」	「Ah, you there......」
+3463	Asakura Yoshikage		「ああ、そこの者…………」	「Ah, you there......」
 
-3464	-	朝倉義景は、めげなかった。	Asakura Yoshikage didn't give up.
+3464	-		朝倉義景は、めげなかった。	Asakura Yoshikage didn't give up.

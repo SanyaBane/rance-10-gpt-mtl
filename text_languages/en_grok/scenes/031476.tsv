@@ -6,194 +6,194 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Blue Monster Soldier	汎用魔物兵青	Male
 
-78528	-	元ランス城――	Former Rance Castle――
+78528	-		元ランス城――	Former Rance Castle――
 
-78529	-	玉座の間は今までランス達がいたときとは	The throne room looked completely different
-78530	+	その様相を一変させてしまっていた。	from when Rance and the others were there.
+78529	-		玉座の間は今までランス達がいたときとは	The throne room looked completely different
+78530	+		その様相を一変させてしまっていた。	from when Rance and the others were there.
 
-78531	-	内装はボロボロに引き裂かれ、壁まで崩れ、	The interior was torn apart, walls crumbled,
-78532	+	室内にはズラリと魔物兵が並ぶ。	and monster soldiers lined the room.
+78531	-		内装はボロボロに引き裂かれ、壁まで崩れ、	The interior was torn apart, walls crumbled,
+78532	+		室内にはズラリと魔物兵が並ぶ。	and monster soldiers lined the room.
 
-78533	-	そして、何よりも――	And above all――
+78533	-		そして、何よりも――	And above all――
 
-78534	RedEye	「ンッンー……♪」	「Nnn...♪」
+78534	RedEye	基本	「ンッンー……♪」	「Nnn...♪」
 
-78535	-	玉座にはレッドアイが座っていた。	RedEye sat on the throne.
+78535	-		玉座にはレッドアイが座っていた。	RedEye sat on the throne.
 
-78536	RedEye	「まだあの生き残りのヒューマン達は	「Those surviving humans still
-78537	+	　ルックできてないのか？」	　haven't been found?」
+78536	RedEye		「まだあの生き残りのヒューマン達は	「Those surviving humans still
+78537	+		　ルックできてないのか？」	　haven't been found?」
 
-78538	-	そう問うレッドアイの前には	In front of the asking RedEye
-78539	+	カタカタと身を震わせる魔物隊長がいた。	a monster captain trembled.
+78538	-		そう問うレッドアイの前には	In front of the asking RedEye
+78539	+		カタカタと身を震わせる魔物隊長がいた。	a monster captain trembled.
 
-78540	Monster Captain	「は、その……	「Y-Yes, um......
-78541	+	　どうやらこの付近を遠く離れたようで……	　It seems they went far away from here......
-78542	+	　残念ながら今のところ見つけられては……」	　Unfortunately we haven't found them yet......」
+78540	Monster Captain		「は、その……	「Y-Yes, um......
+78541	+		　どうやらこの付近を遠く離れたようで……	　It seems they went far away from here......
+78542	+		　残念ながら今のところ見つけられては……」	　Unfortunately we haven't found them yet......」
 
-78543	Monster Captain	「た、ただ今！　他の部隊と情報の連携を取り、	「R-Right now! We'll coordinate with other units
-78544	+	　必ずや見つけだしてみせます！」	　and definitely find them!」
+78543	Monster Captain		「た、ただ今！　他の部隊と情報の連携を取り、	「R-Right now! We'll coordinate with other units
+78544	+		　必ずや見つけだしてみせます！」	　and definitely find them!」
 
-78545	RedEye	「ンッン〜……	「Nnn~......
-78546	+	　シャラップよ、ユー」	　Shut up, you.」
+78545	RedEye		「ンッン〜……	「Nnn~......
+78546	+		　シャラップよ、ユー」	　Shut up, you.」
 
-78547	Monster Captain	「……は、はい」	「...Y-Yes」
+78547	Monster Captain		「……は、はい」	「...Y-Yes」
 
-78548	RedEye	「うふ、うふふ……	「Ufu, ufufu......
-78549	+	　そ〜んな震える必要はノー。	　No need to tremble like that.
-78550	+	　フェイスをア〜ップしなさい」	　Chin up.」
+78548	RedEye		「うふ、うふふ……	「Ufu, ufufu......
+78549	+		　そ〜んな震える必要はノー。	　No need to tremble like that.
+78550	+		　フェイスをア〜ップしなさい」	　Chin up.」
 
-78551	RedEye	「ミーは今とても気分がグッド。	「I'm in a very good mood right now.
-78552	+	　だから、許してやる」	　So I'll forgive you.」
+78551	RedEye		「ミーは今とても気分がグッド。	「I'm in a very good mood right now.
+78552	+		　だから、許してやる」	　So I'll forgive you.」
 
-78553	Monster Captain	「は、はっ……！	「Y-Yes...!
-78554	+	　ありがとうございます……！」	　Thank you...!」
+78553	Monster Captain		「は、はっ……！	「Y-Yes...!
+78554	+		　ありがとうございます……！」	　Thank you...!」
 
-78555	RedEye	「ただ〜し、ユーは後でキル・あなた」	「However, I'll kill you later.」
+78555	RedEye		「ただ〜し、ユーは後でキル・あなた」	「However, I'll kill you later.」
 
-78556	Monster Captain	「へっ？」	「Heh?」
+78556	Monster Captain		「へっ？」	「Heh?」
 
-78557	RedEye	「許してやるとは言ったが、	「I said I'd forgive you,
-78558	+	　罰をプレゼントしないとは言ってな〜い！	　but I didn't say I wouldn't give you a punishment!
-78559	+	　ケーーーッケケケケ！」	　Keeee-kekekeke!」
+78557	RedEye		「許してやるとは言ったが、	「I said I'd forgive you,
+78558	+		　罰をプレゼントしないとは言ってな〜い！	　but I didn't say I wouldn't give you a punishment!
+78559	+		　ケーーーッケケケケ！」	　Keeee-kekekeke!」
 
-78560	Monster Captain	「そ、そんな……！」	「N-No way...!」
+78560	Monster Captain		「そ、そんな……！」	「N-No way...!」
 
-78561	RedEye	「エスケープしたら	「If you try to escape
-78562	+	　もっと痛〜く、キル・あなたよ……」	　I'll kill you even more painfully...」
+78561	RedEye		「エスケープしたら	「If you try to escape
+78562	+		　もっと痛〜く、キル・あなたよ……」	　I'll kill you even more painfully...」
 
-78563	Monster Captain	「あ、あ、ああ……」	「A-A-Ah......」
+78563	Monster Captain		「あ、あ、ああ……」	「A-A-Ah......」
 
-78564	-	魔物隊長にはもうどうすることも出来ず、	The monster captain could do nothing
-78565	+	ただ表情を絶望に曇らせて頷くだけだった。	but nod with a face full of despair.
+78564	-		魔物隊長にはもうどうすることも出来ず、	The monster captain could do nothing
+78565	+		ただ表情を絶望に曇らせて頷くだけだった。	but nod with a face full of despair.
 
-78566	-	その非道な光景を眺める人間がいた。	A human was watching this cruel scene.
+78566	-		その非道な光景を眺める人間がいた。	A human was watching this cruel scene.
 
-78567	Rona Kestina	「…………」	「............」
+78567	Rona Kestina		「…………」	「............」
 
-78568	-	一人はレッドアイに常に付き従い、	One was Rona Kestina,
-78569	+	今は檻の中に入れられているロナ・ケスチナ。	always following RedEye and now locked in a cage.
+78568	-		一人はレッドアイに常に付き従い、	One was Rona Kestina,
+78569	+		今は檻の中に入れられているロナ・ケスチナ。	always following RedEye and now locked in a cage.
 
-78570	Biscuitta Burns	「…………」	「............」
+78570	Biscuitta Burns		「…………」	「............」
 
-78571	-	そして、もう一人は	And the other one
-78572	+	同じ檻に入れられたビスケッタだった。	was Biscuitta in the same cage.
+78571	-		そして、もう一人は	And the other one
+78572	+		同じ檻に入れられたビスケッタだった。	was Biscuitta in the same cage.
 
-78573	RedEye	「ヘ〜イ、ミスビスケッタ？」	「Hey, Miss Biscuitta?」
+78573	RedEye		「ヘ〜イ、ミスビスケッタ？」	「Hey, Miss Biscuitta?」
 
-78574	Biscuitta Burns	「…………」	「............」
+78574	Biscuitta Burns		「…………」	「............」
 
-78575	Biscuitta Burns	「はい、なんでしょう？」	「Yes, what is it?」
+78575	Biscuitta Burns		「はい、なんでしょう？」	「Yes, what is it?」
 
-78576	RedEye	「いい加減気分は変わりましたかのう？」	「Have you changed your mind yet?」
+78576	RedEye		「いい加減気分は変わりましたかのう？」	「Have you changed your mind yet?」
 
-78577	RedEye	「ミーに仕える、OK？」	「Will you serve me, OK?」
+78577	RedEye		「ミーに仕える、OK？」	「Will you serve me, OK?」
 
-78578	Biscuitta Burns	「…………」	「............」
+78578	Biscuitta Burns		「…………」	「............」
 
-78579	RedEye	「んっん〜、ミーは強くなること、	「Mmh-mmh~, for me to become stronger,
-78580	+	　それがミーの最大の目的にして、ハッピー」	　that is my biggest goal and ultimate happy!
+78579	RedEye		「んっん〜、ミーは強くなること、	「Mmh-mmh~, for me to become stronger,
+78580	+		　それがミーの最大の目的にして、ハッピー」	　that is my biggest goal and ultimate happy!
 
-78581	RedEye	「なのに、トッポスという最強ボディを	「And yet, even after getting the strongest Toppos body
-78582	+	　ハンドに入れて、伸び悩んでたトゥディこの頃」	　into my own hands, my growth was hitting a wall these days today!
+78581	RedEye		「なのに、トッポスという最強ボディを	「And yet, even after getting the strongest Toppos body
+78582	+		　ハンドに入れて、伸び悩んでたトゥディこの頃」	　into my own hands, my growth was hitting a wall these days today!
 
-78583	RedEye	「だ〜が〜……」	　Buuuuut......
+78583	RedEye		「だ〜が〜……」	　Buuuuut......
 
-78584	RedEye	「今回のヒューマン達とのバトルで、	「In this recent battle with the humans,
-78585	+	　ミーはあることに気づいてしまった」	　I realized something amazing!
+78584	RedEye		「今回のヒューマン達とのバトルで、	「In this recent battle with the humans,
+78585	+		　ミーはあることに気づいてしまった」	　I realized something amazing!
 
-78586	RedEye	「それは……」	And that is......
+78586	RedEye		「それは……」	And that is......
 
-78587	RedEye	「ガード！」	「Guard!」
+78587	RedEye		「ガード！」	「Guard!」
 
-78588	RedEye	「オ〜！　エクセレンッッ！	「Ohhh! Excellent!
-78589	+	　守るということ！　これするミー、	　The concept of protecting! If I do this,
-78590	+	　今でも強いミー！　より強くなる！」	　me, who is already strong, becomes even stronger!」
+78588	RedEye		「オ〜！　エクセレンッッ！	「Ohhh! Excellent!
+78589	+		　守るということ！　これするミー、	　The concept of protecting! If I do this,
+78590	+		　今でも強いミー！　より強くなる！」	　me, who is already strong, becomes even stronger!」
 
-78591	RedEye	「だ〜から、ミーもそれ真似することした。	「Sooo, I decided to copy that, too!
-78592	+	　まずはミーの弱点であるロナをガード」	　First step: guard my weak point, Rona!
+78591	RedEye		「だ〜から、ミーもそれ真似することした。	「Sooo, I decided to copy that, too!
+78592	+		　まずはミーの弱点であるロナをガード」	　First step: guard my weak point, Rona!
 
-78593	RedEye	「それには……メディウサの使徒みた〜いに、	　To do that... just like Medusa's Apostle,
-78594	+	　常にそばに控えるお世話役を置くのが	　having an attendant always waiting by my side
-78595	+	　最もベリーグッド。違うかのう？」	　is the absolute most very good! Would you not agree?」
+78593	RedEye		「それには……メディウサの使徒みた〜いに、	　To do that... just like Medusa's Apostle,
+78594	+		　常にそばに控えるお世話役を置くのが	　having an attendant always waiting by my side
+78595	+		　最もベリーグッド。違うかのう？」	　is the absolute most very good! Would you not agree?」
 
-78596	RedEye	「あ、ロナを苛めるのはミーの趣味、	「Ah, tormenting Rona is my hobby,
-78597	+	　お前には譲ってやらないがの〜」	　I won't give that to you~」
+78596	RedEye		「あ、ロナを苛めるのはミーの趣味、	「Ah, tormenting Rona is my hobby,
+78597	+		　お前には譲ってやらないがの〜」	　I won't give that to you~」
 
-78598	Biscuitta Burns	「このような少女が……弱点？」	「This kind of girl... is your weakness?」
+78598	Biscuitta Burns		「このような少女が……弱点？」	「This kind of girl... is your weakness?」
 
-78599	Rona Kestina	「…………」	「............」
+78599	Rona Kestina		「…………」	「............」
 
-78600	-	ビスケッタがチラリと伺うが、	Biscuitta glanced over,
-78601	+	見られたロナはぼんやりとした瞳で	but Rona stared blankly into space
-78602	+	宙を見つめていた。	with vacant eyes.
+78600	-		ビスケッタがチラリと伺うが、	Biscuitta glanced over,
+78601	+		見られたロナはぼんやりとした瞳で	but Rona stared blankly into space
+78602	+		宙を見つめていた。	with vacant eyes.
 
-78603	RedEye	「お〜……ミーはとーっても大昔、	「Oh... Long long ago,
-78604	+	　ケスチナの家の者に作られた魔導具」	　I was a magic tool made by the Kestina family.」
+78603	RedEye		「お〜……ミーはとーっても大昔、	「Oh... Long long ago,
+78604	+		　ケスチナの家の者に作られた魔導具」	　I was a magic tool made by the Kestina family.」
 
-78605	RedEye	「その際、ミーを作ったヒューマン、	「At that time, the human who made me
-78606	+	　あろうことか自分がダイしたとき、	　actually made it so that when he died
-78607	+	　同時にミーもダイするようクリエイト」	　I would die too.」
+78605	RedEye		「その際、ミーを作ったヒューマン、	「At that time, the human who made me
+78606	+		　あろうことか自分がダイしたとき、	　actually made it so that when he died
+78607	+		　同時にミーもダイするようクリエイト」	　I would die too.」
 
-78608	RedEye	「だ〜から、ミーその部分、少しいじって、	「So I tweaked that part a bit,
-78609	+	　ケスチナの血筋が絶えたら、	　so if the Kestina bloodline ends,
-78610	+	　ミーも死ぬにクリエイト」	　I die too.」
+78608	RedEye		「だ〜から、ミーその部分、少しいじって、	「So I tweaked that part a bit,
+78609	+		　ケスチナの血筋が絶えたら、	　so if the Kestina bloodline ends,
+78610	+		　ミーも死ぬにクリエイト」	　I die too.」
 
-78611	RedEye	「つまりミーにとって、	「In other words, for me
-78612	+	　ケスチナの血筋絶やす、これミーの死」	　ending the Kestina bloodline is my death.」
+78611	RedEye		「つまりミーにとって、	「In other words, for me
+78612	+		　ケスチナの血筋絶やす、これミーの死」	　ending the Kestina bloodline is my death.」
 
-78613	RedEye	「だから、ロナはチャイルド産むまで	「That's why Rona can't die
-78614	+	　絶対にダイさせられない。	　until she has a child.
-78615	+	　ドゥー・ユー・アンダスタンか？」	　Do you understand?」
+78613	RedEye		「だから、ロナはチャイルド産むまで	「That's why Rona can't die
+78614	+		　絶対にダイさせられない。	　until she has a child.
+78615	+		　ドゥー・ユー・アンダスタンか？」	　Do you understand?」
 
-78616	Biscuitta Burns	「丁寧な説明ありがとうございます。	「Thank you for the detailed explanation.
-78617	+	　はい、理解できました」	　Yes, I understand.」
+78616	Biscuitta Burns	目閉じ	「丁寧な説明ありがとうございます。	「Thank you for the detailed explanation.
+78617	+		　はい、理解できました」	　Yes, I understand.」
 
-78618	RedEye	「で〜はっ！	「Then!
-78619	+	　ロナの世話役として、	　As Rona's caretaker,
-78620	+	　ミーの使徒になる気あるOK？」	　will you become my apostle, OK?」
+78618	RedEye	基本	「で〜はっ！	「Then!
+78619	+		　ロナの世話役として、	　As Rona's caretaker,
+78620	+		　ミーの使徒になる気あるOK？」	　will you become my apostle, OK?」
 
-78621	-	レッドアイに凄まれて尚、	Even when threatened by RedEye,
-78622	+	ビスケッタは毅然とした態度を崩さず答える。	Biscuitta answered without losing her firm attitude.
+78621	-		レッドアイに凄まれて尚、	Even when threatened by RedEye,
+78622	+		ビスケッタは毅然とした態度を崩さず答える。	Biscuitta answered without losing her firm attitude.
 
-78623	Biscuitta Burns	「私の主は世界でただ一人。	「I have only one master in the world.
-78624	+	　貴方に仕えることは出来ません」	　I cannot serve you.」
+78623	Biscuitta Burns		「私の主は世界でただ一人。	「I have only one master in the world.
+78624	+		　貴方に仕えることは出来ません」	　I cannot serve you.」
 
-78625	Green Monster Soldier	「なっ！　なんて奴だ……！」	「What! What a girl...!」
+78625	Green Monster Soldier		「なっ！　なんて奴だ……！」	「What! What a girl...!」
 
-78626	Blue Monster Soldier	「レッドアイ様がキレて暴れたら……	「If Lord RedEye gets angry and rampages...
-78627	+	　俺達まで殺されるぞ……！」	　We'll get killed too...!」
+78626	Blue Monster Soldier		「レッドアイ様がキレて暴れたら……	「If Lord RedEye gets angry and rampages...
+78627	+		　俺達まで殺されるぞ……！」	　We'll get killed too...!」
 
-78628	-	むしろ、周りの兵達の方が、	Rather, the surrounding soldiers
-78629	+	その光景を見て身を震え上がらせた。	were the ones trembling at the sight.
+78628	-		むしろ、周りの兵達の方が、	Rather, the surrounding soldiers
+78629	+		その光景を見て身を震え上がらせた。	were the ones trembling at the sight.
 
-78630	RedEye	「…………」	「............」
+78630	RedEye		「…………」	「............」
 
-78631	RedEye	「お〜〜〜〜〜〜〜ッ！	「Oooooooooh!
-78632	+	　ヒューマン・イズ・忠誠心！」	　Humans are loyalty!」
+78631	RedEye		「お〜〜〜〜〜〜〜ッ！	「Oooooooooh!
+78632	+		　ヒューマン・イズ・忠誠心！」	　Humans are loyalty!」
 
-78633	-	レッドアイは嬉しそうに体をブルブルと震わせた。	RedEye happily shook its body.
+78633	-		レッドアイは嬉しそうに体をブルブルと震わせた。	RedEye happily shook its body.
 
-78634	RedEye	「んっんー、グーッド♪	「Nnn, good♪
-78635	+	　その忠誠心がロナに向けられるなら、	　If that loyalty is directed at Rona,
-78636	+	　これほど安心出来ることは他にな〜い♪」	　nothing could make me feel safer♪」
+78634	RedEye		「んっんー、グーッド♪	「Nnn, good♪
+78635	+		　その忠誠心がロナに向けられるなら、	　If that loyalty is directed at Rona,
+78636	+		　これほど安心出来ることは他にな〜い♪」	　nothing could make me feel safer♪」
 
-78637	RedEye	「ミー、絶対にユーゲットしたる。	「I'll definitely get you.
-78638	+	　楽しみに待つ、ハッピーね」	　Look forward to it, happy right?」
+78637	RedEye		「ミー、絶対にユーゲットしたる。	「I'll definitely get you.
+78638	+		　楽しみに待つ、ハッピーね」	　Look forward to it, happy right?」
 
-78639	Biscuitta Burns	「…………」	「............」
+78639	Biscuitta Burns		「…………」	「............」
 
-78640	RedEye	「まずは四肢でも引き千切る。	「First I'll tear off a limb or two.
-78641	+	　そうすればユーも気が変わる。ルンルン」	　Then you'll change your mind. Lulun.」
+78640	RedEye		「まずは四肢でも引き千切る。	「First I'll tear off a limb or two.
+78641	+		　そうすればユーも気が変わる。ルンルン」	　Then you'll change your mind. Lulun.」
 
-78642	Biscuitta Burns	「…………」	「............」
+78642	Biscuitta Burns		「…………」	「............」
 
-78643	-	レッドアイがビスケッタに近づく。	RedEye approached Biscuitta.
+78643	-		レッドアイがビスケッタに近づく。	RedEye approached Biscuitta.
 
-78644	Green Monster Soldier	「れ、レッドアイ様！　大変です！」	「L-Lord RedEye! It's terrible!」
+78644	Green Monster Soldier		「れ、レッドアイ様！　大変です！」	「L-Lord RedEye! It's terrible!」
 
-78645	RedEye	「ホワット？」	「What?」
+78645	RedEye		「ホワット？」	「What?」
 
-78646	Green Monster Soldier	「奴です！	「It's him!
-78647	+	　以前取り逃したあの男……」	　That man we let escape before...」
+78646	Green Monster Soldier		「奴です！	「It's him!
+78647	+		　以前取り逃したあの男……」	　That man we let escape before...」
 
-78648	Green Monster Soldier	「人類軍の総統が攻めてきました！」	「The Supreme Leader of the human army has attacked!」
+78648	Green Monster Soldier		「人類軍の総統が攻めてきました！」	「The Supreme Leader of the human army has attacked!」

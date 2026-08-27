@@ -7,137 +7,137 @@
 * Satella	サテラ	Female
 * Caesar	シーザー	Male
 
-40160	-	うし車に乗って、	Riding the ox carts,
-40161	+	ランス一行はゼスの平原を進んでいく。	Rance's party advanced across the Zeth plains.
+40160	-		うし車に乗って、	Riding the ox carts,
+40161	+		ランス一行はゼスの平原を進んでいく。	Rance's party advanced across the Zeth plains.
 
-40162	-	道行きは順調、と思われたが――――	The journey seemed smooth, but――――
+40162	-		道行きは順調、と思われたが――――	The journey seemed smooth, but――――
 
-40163	Rance	「ぶわーーーーーっ！	「Buwaaaaaah!
-40164	+	　いきなりなんじゃ、この大雨はーーー！」	　What the hell is this sudden downpour!」
+40163	Rance	怒り	「ぶわーーーーーっ！	「Buwaaaaaah!
+40164	+		　いきなりなんじゃ、この大雨はーーー！」	　What the hell is this sudden downpour!」
 
-40165	Free Cities Guard	「うへっ、降って来やがったか！	「Ugh, it's pouring!
-40166	+	　時々あるんだ、ゼスには！」	　This happens sometimes in Zeth!」
+40165	Free Cities Guard	基本	「うへっ、降って来やがったか！	「Ugh, it's pouring!
+40166	+		　時々あるんだ、ゼスには！」	　This happens sometimes in Zeth!」
 
-40167	Caloria Cricket	「食べ物、ぜんぶびちゃびちゃになっちゃうよ！	「All the food's getting soaked!
-40168	+	　幌があるのにほとんど役に立たない！」	　The covers aren't helping much!」
+40167	Caloria Cricket	驚き	「食べ物、ぜんぶびちゃびちゃになっちゃうよ！	「All the food's getting soaked!
+40168	+		　幌があるのにほとんど役に立たない！」	　The covers aren't helping much!」
 
-40169	Kentou Kanami	「ランス！　向こうに洞窟があるわ！	「Rance! There's a cave over there!
-40170	+	　なんとかうし車も入れそう！」	　We might be able to fit the carts too!」
+40169	Kentou Kanami	基本	「ランス！　向こうに洞窟があるわ！	「Rance! There's a cave over there!
+40170	+		　なんとかうし車も入れそう！」	　We might be able to fit the carts too!」
 
-40171	Rance	「よし決まりだ！　おい貴様！	「Decided! Hey you!
-40172	+	　一時雨宿りだ！」	　We're taking shelter from the rain!」
+40171	Rance	怒り	「よし決まりだ！　おい貴様！	「Decided! Hey you!
+40172	+		　一時雨宿りだ！」	　We're taking shelter from the rain!」
 
-40173	Free Cities Guard	「あ、あぁっ、わかったよっ！」	「O-okay, got it!」
+40173	Free Cities Guard	基本	「あ、あぁっ、わかったよっ！」	「O-okay, got it!」
 
-40174	-	怒鳴り合わないと、近くの声さえ聞こえない。	They had to shout to be heard over the rain.
-40175	+	一行は雨避けに、急いでうしを走らせた。	The group hurriedly drove the oxen toward the cave.
+40174	-		怒鳴り合わないと、近くの声さえ聞こえない。	They had to shout to be heard over the rain.
+40175	+		一行は雨避けに、急いでうしを走らせた。	The group hurriedly drove the oxen toward the cave.
 
-40176	Rance	「……洞窟と言うから天然物かと思ったが」	「...I thought it was a natural cave, but」
+40176	Rance	真剣	「……洞窟と言うから天然物かと思ったが」	「...I thought it was a natural cave, but」
 
-40177	Sill Plain	「誰かが作ったダンジョンなんでしょうか……」	「It looks like a man-made dungeon...」
+40177	Sill Plain	考え中	「誰かが作ったダンジョンなんでしょうか……」	「It looks like a man-made dungeon...」
 
-40178	?	『ワ、ワハハ、ハハ。　味太郎迷宮へ　ヨウコソ	『W-wahaha, haha. Welcome to Aji-taro Labyrinth.
-40179	+	　真理ヲ求メル、者ヨ、サア奥ニ――』	　Seekers of truth, come deeper――』
+40178	?		『ワ、ワハハ、ハハ。　味太郎迷宮へ　ヨウコソ	『W-wahaha, haha. Welcome to Aji-taro Labyrinth.
+40179	+		　真理ヲ求メル、者ヨ、サア奥ニ――』	　Seekers of truth, come deeper――』
 
-40180	Rance	「いや、ただの雨宿りだ。	「No thanks, we're just sheltering from the rain.
-40181	+	　奥にはこれっぱかしも興味はない」	　I'm not interested in going deeper at all.」
+40180	Rance	だる顔	「いや、ただの雨宿りだ。	「No thanks, we're just sheltering from the rain.
+40181	+		　奥にはこれっぱかしも興味はない」	　I'm not interested in going deeper at all.」
 
-40182	?	『エッ……？』	『Eh...?』
+40182	?		『エッ……？』	『Eh...?』
 
-40183	Rance	「さあて、しばらくは暇だな…………ん」	「Well, we've got some free time...... hm」
+40183	Rance	真剣	「さあて、しばらくは暇だな…………ん」	「Well, we've got some free time...... hm」
 
-40184	Satella	「はっ……ふぁっ……へぷしょん！」	「Hah... fah... hepshoon!」
+40184	Satella	不安	「はっ……ふぁっ……へぷしょん！」	「Hah... fah... hepshoon!」
 
-40185	Sill Plain	「あっ、サテラさん……」	「Ah, Satella-san...」
+40185	Sill Plain	きょとん	「あっ、サテラさん……」	「Ah, Satella-san...」
 
-40186	Caesar	「サテラ様　キチントタオルデ身体　拭イテ	「Satella-sama, please dry your body properly with a towel.
-40187	+	　風邪　引キマス」	　You'll catch a cold.」
+40186	Caesar	基本	「サテラ様　キチントタオルデ身体　拭イテ	「Satella-sama, please dry your body properly with a towel.
+40187	+		　風邪　引キマス」	　You'll catch a cold.」
 
-40188	Satella	「ええい……大丈夫だ」	「Enough... I'm fine.」
+40188	Satella	思考	「ええい……大丈夫だ」	「Enough... I'm fine.」
 
-40189	Rance	「……魔人も風邪なんか引くのか？」	「...Do Fiends even catch colds?」
+40189	Rance	真剣	「……魔人も風邪なんか引くのか？」	「...Do Fiends even catch colds?」
 
-40190	Satella	「そんな訳が――――	「Of course n――――
-40191	?	ひっぷし！」	hepshi!」
+40190	Satella	不安	「そんな訳が――――	「Of course n――――
+40191	?		ひっぷし！」	hepshi!」
 
-40192	Rance	「………………」	「............」
+40192	Rance	だる顔	「………………」	「............」
 
-40193	Satella	「ち、違うぞ！　ただ少し身体が冷えただけで――」	「T-that's not it! I just got a little chilled――」
+40193	Satella	ツンデレ	「ち、違うぞ！　ただ少し身体が冷えただけで――」	「T-that's not it! I just got a little chilled――」
 
-40194	Rance	「まあ……身体は大事にしろ」	「Well... take care of your body.」
+40194	Rance	だる顔	「まあ……身体は大事にしろ」	「Well... take care of your body.」
 
-40195	Satella	「むっ……ま、まあ使徒の言う事は聞いてやるのが	「Hmph... w-well, as your master I suppose I should listen to my apostle's words.
-40196	+	　主の度量だからな！」	　That's the generosity of a ruler!」
+40195	Satella	魔人顔	「むっ……ま、まあ使徒の言う事は聞いてやるのが	「Hmph... w-well, as your master I suppose I should listen to my apostle's words.
+40196	+		　主の度量だからな！」	　That's the generosity of a ruler!」
 
-40197	Sill Plain	「シーザーさん、これを」	「Caesar-san, here.」
+40197	Sill Plain	基本	「シーザーさん、これを」	「Caesar-san, here.」
 
-40198	Caesar	「サテラ様、ドウゾ」	「Satella-sama, here you go.」
+40198	Caesar		「サテラ様、ドウゾ」	「Satella-sama, here you go.」
 
-40199	Satella	「む。ああ」	「Hm. Yeah.」
+40199	Satella		「む。ああ」	「Hm. Yeah.」
 
-40200	-	サテラはシーザーから受け取ったタオルを	Satella took the towel from Caesar
-40201	+	濡れそぼった髪に当て始めた。	and began drying her soaked hair.
+40200	-		サテラはシーザーから受け取ったタオルを	Satella took the towel from Caesar
+40201	+		濡れそぼった髪に当て始めた。	and began drying her soaked hair.
 
-40202	Satella	「しかし……こんな所で	「Still... we shouldn't be wasting time here.
-40203	+	　足踏みしている場合じゃないぞ。	　We need to defeat Galtia quickly...
-40204	+	　早くガルティアを仕留めないと……」	　or we'll never catch up.」
+40202	Satella	不安	「しかし……こんな所で	「Still... we shouldn't be wasting time here.
+40203	+		　足踏みしている場合じゃないぞ。	　We need to defeat Galtia quickly...
+40204	+		　早くガルティアを仕留めないと……」	　or we'll never catch up.」
 
-40205	Rance	「メシを食いまくる魔人か。	「A Fiend that devours food like crazy.
-40206	+	　なんか意地汚い奴を連想するが……」	　Makes me think of some greedy bastard...」
+40205	Rance	真剣	「メシを食いまくる魔人か。	「A Fiend that devours food like crazy.
+40206	+		　なんか意地汚い奴を連想するが……」	　Makes me think of some greedy bastard...」
 
-40207	Satella	「そうでもないぞ。	「Not exactly.
-40208	+	　貪欲だが……別に性格は悪くない」	　He's greedy, but... not a bad personality.」
+40207	Satella	基本	「そうでもないぞ。	「Not exactly.
+40208	+		　貪欲だが……別に性格は悪くない」	　He's greedy, but... not a bad personality.」
 
-40209	Sill Plain	「そうなんですか？」	「Really?」
+40209	Sill Plain	きょとん	「そうなんですか？」	「Really?」
 
-40210	Rance	「そういえば、どんな奴か大して聞いてなかったな。	「Come to think of it, I didn't ask much about him.
-40211	+	　ま、男なんだろう？　どうでもいいが……」	　Well, he's a guy, right? Doesn't matter...」
+40210	Rance	だる顔	「そういえば、どんな奴か大して聞いてなかったな。	「Come to think of it, I didn't ask much about him.
+40211	+		　ま、男なんだろう？　どうでもいいが……」	　Well, he's a guy, right? Doesn't matter...」
 
-40212	Satella	「…………聞け、敵の情報くらい」	「............At least listen to enemy intel.」
+40212	Satella	思考	「…………聞け、敵の情報くらい」	「............At least listen to enemy intel.」
 
-40213	Satella	「ガルティアは……ええと。人間出身だったかな。	「Galtia... let's see. I think he was originally human.
-40214	+	　サテラよりかなり古株だから、よくわからん」	　He's much older than me, so I'm not sure.」
+40213	Satella	基本	「ガルティアは……ええと。人間出身だったかな。	「Galtia... let's see. I think he was originally human.
+40214	+		　サテラよりかなり古株だから、よくわからん」	　He's much older than me, so I'm not sure.」
 
-40215	Satella	「剣使いで……使徒三匹との連係攻撃が得意だな。	「He's a swordsman... good at coordinated attacks with three apostles.
-40216	+	　他にも、よく分からない能力をいくつも持ってる。	　He has many other strange abilities too.
-40217	+	　かなり危険だぞ」	　He's quite dangerous.」
+40215	Satella		「剣使いで……使徒三匹との連係攻撃が得意だな。	「He's a swordsman... good at coordinated attacks with three apostles.
+40216	+		　他にも、よく分からない能力をいくつも持ってる。	　He has many other strange abilities too.
+40217	+		　かなり危険だぞ」	　He's quite dangerous.」
 
-40218	Rance	「よくわからんじゃ何も分からんぞ。	「If you don't know then it's useless.
-40219	+	　魔法か？」	　Is it magic?」
+40218	Rance	真剣	「よくわからんじゃ何も分からんぞ。	「If you don't know then it's useless.
+40219	+		　魔法か？」	　Is it magic?」
 
-40220	Satella	「いや、身体から毒針とか爆弾を撃ってきたり……	「No, he shoots poison needles and bombs from his body...
-40221	+	　糸を出して絡めたり……そういうやつだ」	　Spits threads to entangle... that kind of thing.」
+40220	Satella	思考	「いや、身体から毒針とか爆弾を撃ってきたり……	「No, he shoots poison needles and bombs from his body...
+40221	+		　糸を出して絡めたり……そういうやつだ」	　Spits threads to entangle... that kind of thing.」
 
-40222	Rance	「なんだそれ。モンスターと違うか？」	「What the hell? Sounds like a monster.」
+40222	Rance	だる顔	「なんだそれ。モンスターと違うか？」	「What the hell? Sounds like a monster.」
 
-40223	Satella	「……そうかもしれん。そうは見えないが」	「...Maybe. He doesn't look like one though.」
+40223	Satella	思考	「……そうかもしれん。そうは見えないが」	「...Maybe. He doesn't look like one though.」
 
-40224	Satella	「しかし……なんでケイブリスに付いたのか……	「Still... I wonder why he joined Kayblis...
-40225	+	　悪いやつじゃないんだがな……」	　He's not really a bad guy...」
+40224	Satella	不安	「しかし……なんでケイブリスに付いたのか……	「Still... I wonder why he joined Kayblis...
+40225	+		　悪いやつじゃないんだがな……」	　He's not really a bad guy...」
 
-40226	Sill Plain	「そうなんですか？」	「Is that so?」
+40226	Sill Plain	きょとん	「そうなんですか？」	「Is that so?」
 
-40227	Satella	「……派閥戦争が始まるまではな。	「...Until the faction war started.
-40228	+	　やたらに気安くて、	　He was strangely friendly,
-40229	+	　魔人なのが不思議なくらいだった」	　it was weird for a Fiend.」
+40227	Satella	不安	「……派閥戦争が始まるまではな。	「...Until the faction war started.
+40228	+		　やたらに気安くて、	　He was strangely friendly,
+40229	+		　魔人なのが不思議なくらいだった」	　it was weird for a Fiend.」
 
-40230	Satella	「でも……サテラ達が仲間にしようと	「But... when we tried to recruit him,
-40231	+	　声を掛けた時には、もうケイブリスに付いていた」	　he had already joined Kayblis.」
+40230	Satella	思考	「でも……サテラ達が仲間にしようと	「But... when we tried to recruit him,
+40231	+		　声を掛けた時には、もうケイブリスに付いていた」	　he had already joined Kayblis.」
 
-40232	Satella	「以来、聞く耳持たずだ。	「Since then he won't listen to reason.
-40233	+	　結局、戦うしかないみたいだが……」	　Looks like we'll have to fight...」
+40232	Satella	不安	「以来、聞く耳持たずだ。	「Since then he won't listen to reason.
+40233	+		　結局、戦うしかないみたいだが……」	　Looks like we'll have to fight...」
 
-40234	Rance	「ふわぁ……ま、男の魔人だろ。	「Fwaah... Well, he's a male Fiend.
-40235	+	　サクーッと殺してくれるわ」	　I'll kill him quick and easy.」
+40234	Rance	基本	「ふわぁ……ま、男の魔人だろ。	「Fwaah... Well, he's a male Fiend.
+40235	+		　サクーッと殺してくれるわ」	　I'll kill him quick and easy.」
 
-40236	Satella	「強さは本物だぞ。油断するな」	「His strength is real. Don't let your guard down.」
+40236	Satella	思考	「強さは本物だぞ。油断するな」	「His strength is real. Don't let your guard down.」
 
-40237	Rance	「大丈夫だ大丈夫……っと、もう晴れたか」	「It'll be fine... Oh, the rain stopped.」
+40237	Rance	基本	「大丈夫だ大丈夫……っと、もう晴れたか」	「It'll be fine... Oh, the rain stopped.」
 
-40238	Sill Plain	「急に降ってくるけど、止むのも急なんですよね」	「It rains suddenly and stops just as fast.」
+40238	Sill Plain		「急に降ってくるけど、止むのも急なんですよね」	「It rains suddenly and stops just as fast.」
 
-40239	Rance	「よーしいくぞ。では出発だー」	「Alright, let's move. Departure!」
+40239	Rance		「よーしいくぞ。では出発だー」	「Alright, let's move. Departure!」
 
-40240	-	ランス達は平原へと戻り、再び進軍を始めた。	Rance's group returned to the plains and resumed their march.
+40240	-		ランス達は平原へと戻り、再び進軍を始めた。	Rance's group returned to the plains and resumed their march.
 
-40241	?	『ホ、本当ニ無視サレタ……シクシク』	『I-I really got ignored... sob sob』
+40241	?		『ホ、本当ニ無視サレタ……シクシク』	『I-I really got ignored... sob sob』

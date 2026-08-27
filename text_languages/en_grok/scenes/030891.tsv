@@ -7,68 +7,68 @@
 * Pigu Geliciam	ピグ	Female
 * Miracle Tor	ミラクル	Female
 
-38034	-	モンスターや小さなトラブルに対処しながら、	While dealing with monsters and minor troubles,
-38035	+	船の旅は続く。	the voyage continued.
+38034	-		モンスターや小さなトラブルに対処しながら、	While dealing with monsters and minor troubles,
+38035	+		船の旅は続く。	the voyage continued.
 
-38036	Rance	「……む。そろそろ昼メシか？」	「...Hm. About time for lunch?」
+38036	Rance	基本	「……む。そろそろ昼メシか？」	「...Hm. About time for lunch?」
 
-38037	Sill Plain	「もう少し時間があると思いますよ」	「I think we still have a little time.」
+38037	Sill Plain		「もう少し時間があると思いますよ」	「I think we still have a little time.」
 
-38038	Rance	「そうか、くそ。	「I see, damn.
-38039	+	　周囲が代わり映えしないもんだから、	　The scenery hasn't changed at all,
-38040	+	　時間の経過がよく分からん」	　so I can't really tell how much time has passed.」
+38038	Rance	だる顔	「そうか、くそ。	「I see, damn.
+38039	+		　周囲が代わり映えしないもんだから、	　The scenery hasn't changed at all,
+38040	+		　時間の経過がよく分からん」	　so I can't really tell how much time has passed.」
 
-38041	Kentou Kanami	「…………ん……？」	「............Hm...?」
+38041	Kentou Kanami	基本	「…………ん……？」	「............Hm...?」
 
-38042	Rance	「どうしたかなみ。ションベンなら我慢するなよ」	「What's wrong, Kanami? If you need to piss, don't hold it.」
+38042	Rance		「どうしたかなみ。ションベンなら我慢するなよ」	「What's wrong, Kanami? If you need to piss, don't hold it.」
 
-38043	Kentou Kanami	「や、そうじゃなくて。	「No, it's not that.
-38044	+	　…………なんか、向こうに……」	　............Something over there...」
+38043	Kentou Kanami	ジト目	「や、そうじゃなくて。	「No, it's not that.
+38044	+		　…………なんか、向こうに……」	　............Something over there...」
 
-38045	-	前方、やや左手側を睨んで、かなみが目を凝らす。	Staring toward the front, slightly to the left, Kanami narrowed her eyes.
+38045	-		前方、やや左手側を睨んで、かなみが目を凝らす。	Staring toward the front, slightly to the left, Kanami narrowed her eyes.
 
-38046	Kentou Kanami	「ちょっといいかしら！　向こう、何か無い！？」	「Hey! Isn't there something over there!?」
+38046	Kentou Kanami	基本	「ちょっといいかしら！　向こう、何か無い！？」	「Hey! Isn't there something over there!?」
 
-38047	?	「向こうって……あっちですかい？	「Over there... you mean that direction?
-38048	+	　………………おぉ！？」	　............Whoa!?」
+38047	?		「向こうって……あっちですかい？	「Over there... you mean that direction?
+38048	+		　………………おぉ！？」	　............Whoa!?」
 
-38049	-	声を張り上げて、見張り台に声を掛けると、	When they shouted up to the lookout,
-38050	+	素っ頓狂な反応が返ってきた。	a wild reaction came back.
+38049	-		声を張り上げて、見張り台に声を掛けると、	When they shouted up to the lookout,
+38050	+		素っ頓狂な反応が返ってきた。	a wild reaction came back.
 
-38051	?	「せんちょー、せんちょーーー！	「Captain, Captainー！
-38052	+	　島！　島ですぜ！！」	　An island! There's an island!!」
+38051	?		「せんちょー、せんちょーーー！	「Captain, Captainー！
+38052	+		　島！　島ですぜ！！」	　An island! There's an island!!」
 
-38053	Noah Hakobune	「え……！？　島、ですか？」	「Eh...!? An island?」
+38053	Noah Hakobune	動揺	「え……！？　島、ですか？」	「Eh...!? An island?」
 
-38054	Maria Custard	「んー、どれどれ。望遠鏡で…………わ。	「Hmm, let me see. Through the telescope... Oh.
-38055	+	　確かに島みたいね」	　It really does look like an island.」
+38054	Maria Custard	基本	「んー、どれどれ。望遠鏡で…………わ。	「Hmm, let me see. Through the telescope... Oh.
+38055	+		　確かに島みたいね」	　It really does look like an island.」
 
-38056	Sill Plain	「元々あった島だったりは……」	「Maybe it was there all along...」
+38056	Sill Plain		「元々あった島だったりは……」	「Maybe it was there all along...」
 
-38057	Maria Custard	「んー、無いと思うけど。	「Hmm, I don't think so.
-38058	+	　地図にはないし、位置的に見ても満ち潮の時だけ	　It's not on the map, and from the location it seems like an island
-38059	+	　現れる島……だと思う」	　that only appears at high tide.」
+38057	Maria Custard		「んー、無いと思うけど。	「Hmm, I don't think so.
+38058	+		　地図にはないし、位置的に見ても満ち潮の時だけ	　It's not on the map, and from the location it seems like an island
+38059	+		　現れる島……だと思う」	　that only appears at high tide.」
 
-38060	Rance	「ほう、ほほう！	「Ohh, oho!
-38061	+	　なんか面白いのが出てきたではないか！」	　Something interesting has shown up!」
+38060	Rance	笑顔	「ほう、ほほう！	「Ohh, oho!
+38061	+		　なんか面白いのが出てきたではないか！」	　Something interesting has shown up!」
 
-38062	Noah Hakobune	「竜宮島……もしかして、竜宮島じゃあ……！」	「Dragon Palace Island... Could it be Dragon Palace Island...!」
+38062	Noah Hakobune	動揺	「竜宮島……もしかして、竜宮島じゃあ……！」	「Dragon Palace Island... Could it be Dragon Palace Island...!」
 
-38063	Rance	「お。前に話してた、	「Oh. The one you mentioned before,
-38064	+	　綺麗なねーちゃん満載のうはうはパラダイスか！」	　that paradise packed full of beautiful girls!」
+38063	Rance	基本	「お。前に話してた、	「Oh. The one you mentioned before,
+38064	+		　綺麗なねーちゃん満載のうはうはパラダイスか！」	　that paradise packed full of beautiful girls!」
 
-38065	Noah Hakobune	「たぶん、そうは話してないと思いますが……	「I don't think I described it quite like that...
-38066	+	　でも、満ち潮の時だけ現れる島ならば……」	　But if it's an island that only appears at high tide...」
+38065	Noah Hakobune		「たぶん、そうは話してないと思いますが……	「I don't think I described it quite like that...
+38066	+		　でも、満ち潮の時だけ現れる島ならば……」	　But if it's an island that only appears at high tide...」
 
-38067	Pigu Geliciam	「うーん、どうかなー」	「Hmm, not sure...」
+38067	Pigu Geliciam	ピグコプター／落ち着き	「うーん、どうかなー」	「Hmm, not sure...」
 
-38068	Pigu Geliciam	「なーんかヤな気配するよね」	「Something feels off...」
+38068	Pigu Geliciam	風船	「なーんかヤな気配するよね」	「Something feels off...」
 
-38069	Pigu Geliciam	「よねー」	「Yeah...」
+38069	Pigu Geliciam	ピグコプター／落ち着き	「よねー」	「Yeah...」
 
-38070	Rance	「んん…………？」	「Hmm............？」
+38070	Rance	真剣	「んん…………？」	「Hmm............？」
 
-38071	Miracle Tor	「サンセット号からもテレパシーで通信だ。	「We have telepathic communication from the Sunset as well.
-38072	+	　どうするか、こちらで判断して欲しいとの事だ」	　They want us to decide what to do.」
+38071	Miracle Tor	基本	「サンセット号からもテレパシーで通信だ。	「We have telepathic communication from the Sunset as well.
+38072	+		　どうするか、こちらで判断して欲しいとの事だ」	　They want us to decide what to do.」
 
-38073	Sill Plain	「どうしますか、ランス様」	「What should we do, Rance-sama?」
+38073	Sill Plain	考え中	「どうしますか、ランス様」	「What should we do, Rance-sama?」

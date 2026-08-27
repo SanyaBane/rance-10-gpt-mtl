@@ -4,53 +4,53 @@
 * Arlcoate Marius	アールコート	Female
 * Sill Plain	シィル	Female
 
-33947	Rance	「さあて、けっこう進んだな」	「Well, we've come quite far.」
+33947	Rance	基本	「さあて、けっこう進んだな」	「Well, we've come quite far.」
 
-33948	Cream Ganoblade	「そうですね……既に、人類未到の地かと」	「Yes... We've already reached lands no human has been to before.」
+33948	Cream Ganoblade		「そうですね……既に、人類未到の地かと」	「Yes... We've already reached lands no human has been to before.」
 
-33949	Rance	「ふっふっふ、偉大すぎる自分が怖いぜ。	「Fufufu, I'm so great it's scary.
-33950	+	　で、今どの辺だ？」	　So, where are we now?」
+33949	Rance		「ふっふっふ、偉大すぎる自分が怖いぜ。	「Fufufu, I'm so great it's scary.
+33950	+		　で、今どの辺だ？」	　So, where are we now?」
 
-33951	Cream Ganoblade	「だいぶ奥地まで来ましたから……	「We've come deep into the interior...
-33952	+	　件のタンザモンザツリー、ベズドグ山、	　We can head to either Tanzamonza Tree or Mount Bezdog.」
-33953	+	　どちらにでも向かえます」	
+33951	Cream Ganoblade		「だいぶ奥地まで来ましたから……	「We've come deep into the interior...
+33952	+		　件のタンザモンザツリー、ベズドグ山、	　We can head to either Tanzamonza Tree or Mount Bezdog.」
+33953	+		　どちらにでも向かえます」	
 
-33954	Rance	「ほう、そこまで来たか。	「Hmm, we've come that far.
-33955	+	　二択の時間って訳だな」	　Time to make that two-choice decision.」
+33954	Rance		「ほう、そこまで来たか。	「Hmm, we've come that far.
+33955	+		　二択の時間って訳だな」	　Time to make that two-choice decision.」
 
-33956	Arlcoate Marius	「どうしますか、おじ様……」	「What will you do, uncle...?」
+33956	Arlcoate Marius		「どうしますか、おじ様……」	「What will you do, uncle...?」
 
-33957	Sill Plain	「ランス様、ここは慎重に……」	「Rance-sama, please be careful here...」
+33957	Sill Plain	真剣	「ランス様、ここは慎重に……」	「Rance-sama, please be careful here...」
 
-33958	Rance	「……ふん」	「...Hmph.」
+33958	Rance		「……ふん」	「...Hmph.」
 
-33959	-	ランスはブーツをもぞもぞと脱ぎだした。	Rance began wiggling off his boots.
+33959	-		ランスはブーツをもぞもぞと脱ぎだした。	Rance began wiggling off his boots.
 
-33960	Sill Plain	「……ランス様？」	「...Rance-sama?」
+33960	Sill Plain	きょとん	「……ランス様？」	「...Rance-sama?」
 
-33961	Rance	「右向きか左向きか……っ、ぽーい」	「Right or left... Hup, toss.」
+33961	Rance	基本	「右向きか左向きか……っ、ぽーい」	「Right or left... Hup, toss.」
 
-33962	Arlcoate Marius	「えっ、ええええぇぇぇっ！？」	「Eh, eeeeeeh!?」
+33962	Arlcoate Marius	駄目状況	「えっ、ええええぇぇぇっ！？」	「Eh, eeeeeeh!?」
 
-33963	Cream Ganoblade	「っ、えいっ……！」	「Hup...!」
+33963	Cream Ganoblade	基本	「っ、えいっ……！」	「Hup...!」
 
-33964	-	ブーツは床に落ちる前に、	Before the boot could hit the floor,
-33965	+	クリームの手にキャッチされた。	Cream caught it in her hand.
+33964	-		ブーツは床に落ちる前に、	Before the boot could hit the floor,
+33965	+		クリームの手にキャッチされた。	Cream caught it in her hand.
 
-33966	Rance	「あっ、こら」	「Ah, hey.」
+33966	Rance	驚き	「あっ、こら」	「Ah, hey.」
 
-33967	Cream Ganoblade	「……………………」	「........................」
+33967	Cream Ganoblade	ため息	「……………………」	「........................」
 
-33968	Cream Ganoblade	「こら、はこっちの台詞です！」	「Hey is my line!」
+33968	Cream Ganoblade	コラー！！	「こら、はこっちの台詞です！」	「Hey is my line!」
 
-33969	Cream Ganoblade	「最後の選択なんですよ！	「This is the final choice!
-33970	+	　少しくらい真面目に決めてください！」	　Please decide a bit more seriously!」
+33969	Cream Ganoblade		「最後の選択なんですよ！	「This is the final choice!
+33970	+		　少しくらい真面目に決めてください！」	　Please decide a bit more seriously!」
 
-33971	Rance	「ちっ、固いなぁクリームちゃんは」	「Tch, you're so stiff, Cream-chan.」
+33971	Rance	だる顔	「ちっ、固いなぁクリームちゃんは」	「Tch, you're so stiff, Cream-chan.」
 
-33972	Sill Plain	「状況が状況ですから……」	「Given the situation...」
+33972	Sill Plain	苦笑	「状況が状況ですから……」	「Given the situation...」
 
-33973	-	ランスはシィルにブーツを履き直させながら、	While having Sill put his boots back on,
-33974	+	少し考える表情になる。	Rance made a thoughtful expression.
+33973	-		ランスはシィルにブーツを履き直させながら、	While having Sill put his boots back on,
+33974	+		少し考える表情になる。	Rance made a thoughtful expression.
 
-33975	Rance~	（さぁて……どうするかな）	（Now then... what to do.）
+33975	Rance~	だる顔	（さぁて……どうするかな）	（Now then... what to do.）

@@ -5,171 +5,171 @@
 * Patton Helman	パットン	Male
 * Cream Ganoblade	クリーム	Female
 
-17884	Pitten Chao	「――――すまん。ちょっと邪魔をするぞ」	「一Sorry. I'll be intruding for a moment.」
+17884	Pitten Chao	基本	「――――すまん。ちょっと邪魔をするぞ」	「一Sorry. I'll be intruding for a moment.」
 
-17885	Rance	「あぁ？」	「Haaah?」
+17885	Rance	真剣	「あぁ？」	「Haaah?」
 
-17886	-	玉座の間に、唐突にピッテンがやってきた。	Pitten abruptly entered the throne room.
+17886	-		玉座の間に、唐突にピッテンがやってきた。	Pitten abruptly entered the throne room.
 
-17887	Pitten Chao	「少し、面倒事があってな……	「I've run into some trouble...
-17888	+	　ここで一息つけさせてくれ」	Let me catch my breath here.」
+17887	Pitten Chao	むっ	「少し、面倒事があってな……	「I've run into some trouble...
+17888	+		　ここで一息つけさせてくれ」	Let me catch my breath here.」
 
-17889	Rance	「なんだ金ぴか野郎。	「What is it, Goldie?
-17890	+	　人の王座を休憩所代わりにするんじゃない」	Don't use someone else's throne as a rest area.」
+17889	Rance	イライラ	「なんだ金ぴか野郎。	「What is it, Goldie?
+17890	+		　人の王座を休憩所代わりにするんじゃない」	Don't use someone else's throne as a rest area.」
 
-17891	Pitten Chao	「ここくらいしか手近な場所がなくてな。	「This was the only convenient place nearby.
-17892	+	　仕方がない」	It couldn't be helped.」
+17891	Pitten Chao	フッ	「ここくらいしか手近な場所がなくてな。	「This was the only convenient place nearby.
+17892	+		　仕方がない」	It couldn't be helped.」
 
-17893	Sill Plain	「……何かあったんですか？」	「...Did something happen?」
+17893	Sill Plain	きょとん	「……何かあったんですか？」	「...Did something happen?」
 
-17894	Pitten Chao	「あったと言えば、あったが……」	「Well, you could say that...」
+17894	Pitten Chao	基本	「あったと言えば、あったが……」	「Well, you could say that...」
 
-17895	-	ちらりと、ランスに視線を送る。	He glanced toward Rance.
+17895	-		ちらりと、ランスに視線を送る。	He glanced toward Rance.
 
-17896	Pitten Chao	「……総統閣下の不興を買いそうでな。	「...I'd rather not say as it might
-17897	+	　言いたくない」	　incur the Supreme Leader's displeasure.」
+17896	Pitten Chao	フッ	「……総統閣下の不興を買いそうでな。	「...I'd rather not say as it might
+17897	+		　言いたくない」	　incur the Supreme Leader's displeasure.」
 
-17898	Rance	「あん？　なんかやらかしたか、お前」	「Hah? Did you screw something up?」
+17898	Rance	だる顔	「あん？　なんかやらかしたか、お前」	「Hah? Did you screw something up?」
 
-17899	Pitten Chao	「己のせいではない……と思うんだが、	「I don't think it was my fault... but
-17900	+	　予想外の事態ではあったな」	　it was certainly an unexpected situation.」
+17899	Pitten Chao	基本	「己のせいではない……と思うんだが、	「I don't think it was my fault... but
+17900	+		　予想外の事態ではあったな」	　it was certainly an unexpected situation.」
 
-17901	Rance	「回りくどい言い方をしやがって。	「Stop talking in circles.
-17902	+	　やらかしたなら素直にごめんなさいと……」	If you screwed up, just say sorry...」
+17901	Rance	真剣	「回りくどい言い方をしやがって。	「Stop talking in circles.
+17902	+		　やらかしたなら素直にごめんなさいと……」	If you screwed up, just say sorry...」
 
-17903	Patton Helman	「あー、そうじゃねえよランス。	「Ah一, that's not it, Rance.
-17904	+	　ピッテンは確かに、悪くない……あんまり」	Pitten's definitely not at fault... mostly.」
+17903	Patton Helman	基本	「あー、そうじゃねえよランス。	「Ah一, that's not it, Rance.
+17904	+		　ピッテンは確かに、悪くない……あんまり」	Pitten's definitely not at fault... mostly.」
 
-17905	Rance	「は？」	「Huh?」
+17905	Rance	真剣	「は？」	「Huh?」
 
-17906	Patton Helman	「モテてモテて困ってる……んだろ？	「He's just troubled because he's too popular... right?
-17907	+	　黄金騎士さん」	Mr. Golden Knight.」
+17906	Patton Helman	基本	「モテてモテて困ってる……んだろ？	「He's just troubled because he's too popular... right?
+17907	+		　黄金騎士さん」	Mr. Golden Knight.」
 
-17908	Rance	「な！」	「Wha!」
+17908	Rance	怒り	「な！」	「Wha!」
 
-17909	Pitten Chao	「……存外意地が悪いな、お前も。	「...You're unexpectedly malicious, too.
-17910	+	　そういう事に聡いようには到底見えなかったが」	I didn't think you were that sharp about such things.」
+17909	Pitten Chao	基本	「……存外意地が悪いな、お前も。	「...You're unexpectedly malicious, too.
+17910	+		　そういう事に聡いようには到底見えなかったが」	I didn't think you were that sharp about such things.」
 
-17911	Patton Helman	「目ン球二つ付いてりゃ誰でもわかるぜ。	「Anyone with two eyes could see it.
-17912	+	　いっつも女性に絡まれてるんだから」	You're always being swarmed by women.」
+17911	Patton Helman	笑い	「目ン球二つ付いてりゃ誰でもわかるぜ。	「Anyone with two eyes could see it.
+17912	+		　いっつも女性に絡まれてるんだから」	You're always being swarmed by women.」
 
-17913	Rance	「なんだと貴様！	「What did you say!
-17914	+	　俺様の女に色目を使ってやがるのか！　死ね！」	Are you making eyes at my women! Die!」
+17913	Rance	怒り	「なんだと貴様！	「What did you say!
+17914	+		　俺様の女に色目を使ってやがるのか！　死ね！」	Are you making eyes at my women! Die!」
 
-17915	Patton Helman	「お、おいおい、待った待った……」	「W-Whoa, hold on, wait a second...」
+17915	Patton Helman	戸惑い	「お、おいおい、待った待った……」	「W-Whoa, hold on, wait a second...」
 
-17916	Pitten Chao	「誓って言うが、それは無い」	「I swear, that is not the case.」
+17916	Pitten Chao	基本	「誓って言うが、それは無い」	「I swear, that is not the case.」
 
-17917	Patton Helman	「この見た目だぜ。	「With these looks,
-17918	+	　女が寄ってくるのは今更だろ」	　women flocking to him is nothing new.」
+17917	Patton Helman		「この見た目だぜ。	「With these looks,
+17918	+		　女が寄ってくるのは今更だろ」	　women flocking to him is nothing new.」
 
-17919	Cream Ganoblade	「その……聞いていて思うのですが、	「Um... listening to this, I can't help but think
-17920	+	　ピッテンさんの立場もあるのではと……」	　Pitten-san's position also plays a part...」
+17919	Cream Ganoblade		「その……聞いていて思うのですが、	「Um... listening to this, I can't help but think
+17920	+		　ピッテンさんの立場もあるのではと……」	　Pitten-san's position also plays a part...」
 
-17921	Rance	「あん？」	「Hah?」
+17921	Rance	だる顔	「あん？」	「Hah?」
 
-17922	Patton Helman	「あーー、そうか。	「Ah一, I see.
-17923	+	　王族で、これと言って相手のいない独身だからな。	He's royalty and single, with no specific partner.
-17924	+	　狙い目に見えそうだ」	He must look like a prime target.」
+17922	Patton Helman	基本	「あーー、そうか。	「Ah一, I see.
+17923	+		　王族で、これと言って相手のいない独身だからな。	He's royalty and single, with no specific partner.
+17924	+		　狙い目に見えそうだ」	He must look like a prime target.」
 
-17925	Patton Helman	「見た目も、絵に描いたような王子様って	「And he looks just like a prince
-17926	+	　感じだしなあ」	　out of a picture book, too.」
+17925	Patton Helman		「見た目も、絵に描いたような王子様って	「And he looks just like a prince
+17926	+		　感じだしなあ」	　out of a picture book, too.」
 
-17927	Pitten Chao	「まぁそうだな。	「Well, yes.
-17928	+	　どこぞのヘルマンの元皇帝が羨ましいよ」	I'm quite envious of a certain former Helman Emperor.」
+17927	Pitten Chao		「まぁそうだな。	「Well, yes.
+17928	+		　どこぞのヘルマンの元皇帝が羨ましいよ」	I'm quite envious of a certain former Helman Emperor.」
 
-17929	Patton Helman	「おいおい、そりゃどういう意味だ」	「Whoa, what's that supposed to mean.」
+17929	Patton Helman	戸惑い	「おいおい、そりゃどういう意味だ」	「Whoa, what's that supposed to mean.」
 
-17930	Rance	「……………………………………」	「..............................」
+17930	Rance	イライラ	「……………………………………」	「..............................」
 
-17931	Sill Plain	「ラ、ランス様、落ち着いて……」	「R-Rance-sama, calm down...」
+17931	Sill Plain	慌て	「ラ、ランス様、落ち着いて……」	「R-Rance-sama, calm down...」
 
-17932	Rance	「……………おい、金ぴか。	「............Hey, Goldie.
-17933	+	　お前、女作れ」	You, get a woman.」
+17932	Rance	イライラ	「……………おい、金ぴか。	「............Hey, Goldie.
+17933	+		　お前、女作れ」	You, get a woman.」
 
-17934	Sill Plain	「――――へ！？」	「一Eh!?」
+17934	Sill Plain	ぽか〜ん	「――――へ！？」	「一Eh!?」
 
-17935	Cream Ganoblade	「え…………」	「Eh............」
+17935	Cream Ganoblade	基本	「え…………」	「Eh............」
 
-17936	Patton Helman	「ラ、ランス！？	「R-Rance!?
-17937	+	　怒りで頭の血管切れたか！？」	Did a blood vessel in your brain pop from anger!?」
+17936	Patton Helman	戸惑い	「ラ、ランス！？	「R-Rance!?
+17937	+		　怒りで頭の血管切れたか！？」	Did a blood vessel in your brain pop from anger!?」
 
-17938	Pitten Chao	「あるいは、誰かに魔法で操られてるか？」	「Or perhaps he's being manipulated by magic?」
+17938	Pitten Chao	基本	「あるいは、誰かに魔法で操られてるか？」	「Or perhaps he's being manipulated by magic?」
 
-17939	Rance	「やかましいわ！	「Shut up!
-17940	+	　こいつの場合、フリーの方が被害がでかい！」	In his case, being single causes more damage!」
+17939	Rance	怒り	「やかましいわ！	「Shut up!
+17940	+		　こいつの場合、フリーの方が被害がでかい！」	In his case, being single causes more damage!」
 
-17941	Rance	「それなら適当なブスをあてがってしまえば、	「If we just pair him up with some ugly chick,
-17942	+	　周りの女の子も大人しくなる！」	　the other girls will finally quiet down!」
+17941	Rance	イライラ	「それなら適当なブスをあてがってしまえば、	「If we just pair him up with some ugly chick,
+17942	+		　周りの女の子も大人しくなる！」	　the other girls will finally quiet down!」
 
-17943	Sill Plain	「あ……可愛い子でもいいとは言わないんですね」	「Ah... so you won't even say it's okay for her to be cute.」
+17943	Sill Plain	苦笑	「あ……可愛い子でもいいとは言わないんですね」	「Ah... so you won't even say it's okay for her to be cute.」
 
-17944	Rance	「当たり前だ、アホ」	「Of course not, you idiot.」
+17944	Rance	イライラ	「当たり前だ、アホ」	「Of course not, you idiot.」
 
-17945	Pitten Chao	「それを俺の目の前で言う辺り、流石だな」	「To say that right in front of me... truly remarkable.」
+17945	Pitten Chao	基本	「それを俺の目の前で言う辺り、流石だな」	「To say that right in front of me... truly remarkable.」
 
-17946	Rance	「さあ、好みを言え。	「Now, tell me your preference.
-17947	+	　それに沿った奴を探すくらいしてやろう」	I'll at least look for someone who fits it.」
+17946	Rance		「さあ、好みを言え。	「Now, tell me your preference.
+17947	+		　それに沿った奴を探すくらいしてやろう」	I'll at least look for someone who fits it.」
 
-17948	Pitten Chao	「伴侶を娶るか…………まったく意識になかったな」	「Taking a spouse... that wasn't on my radar at all.」
+17948	Pitten Chao		「伴侶を娶るか…………まったく意識になかったな」	「Taking a spouse... that wasn't on my radar at all.」
 
-17949	Rance	「ホモだからそうだろうな。	「Probably because you're gay.
-17950	+	　偽装結婚がいいならそっちでもいいぞ」	If you want a sham marriage, that's fine too.」
+17949	Rance		「ホモだからそうだろうな。	「Probably because you're gay.
+17950	+		　偽装結婚がいいならそっちでもいいぞ」	If you want a sham marriage, that's fine too.」
 
-17951	Pitten Chao	「なにせ、うちは弟が継ぐからな。	「After all, my brother will inherit the throne.
-17952	+	　あいつなら跡継ぎには困らんし……ふむ」	He won't have any trouble with heirs... hmm.」
+17951	Pitten Chao		「なにせ、うちは弟が継ぐからな。	「After all, my brother will inherit the throne.
+17952	+		　あいつなら跡継ぎには困らんし……ふむ」	He won't have any trouble with heirs... hmm.」
 
-17953	Cream Ganoblade	「その……一緒にいたいと思う相手とか……	「Um... do you have someone you'd like to be with...
-17954	+	　そういうタイプとかは……？」	...or a certain type...?」
+17953	Cream Ganoblade		「その……一緒にいたいと思う相手とか……	「Um... do you have someone you'd like to be with...
+17954	+		　そういうタイプとかは……？」	...or a certain type...?」
 
-17955	Pitten Chao	「……そうだな。芯が強くて……	「...Let's see. Someone with a strong core...
-17956	+	　実際に腕が立つなら言うこと無いな」	If they were actually skilled in combat, I'd have no complaints.」
+17955	Pitten Chao		「……そうだな。芯が強くて……	「...Let's see. Someone with a strong core...
+17956	+		　実際に腕が立つなら言うこと無いな」	If they were actually skilled in combat, I'd have no complaints.」
 
-17957	Pitten Chao	「見た目はどうでもいいが……	「Looks don't matter...
-17958	+	　目標に向けて邁進できるような人間……で、	But someone who can strive toward their goals... and,
-17959	+	　そうだな、俺を驚かせてくれるような相手がいい」	　yes, someone who can surprise me.」
+17957	Pitten Chao		「見た目はどうでもいいが……	「Looks don't matter...
+17958	+		　目標に向けて邁進できるような人間……で、	But someone who can strive toward their goals... and,
+17959	+		　そうだな、俺を驚かせてくれるような相手がいい」	　yes, someone who can surprise me.」
 
-17960	Rance	「…………まったく、	「............Seriously.
-17961	+	　好みの女のタイプの話に聞こえんぞ」	That doesn't sound like a description of a woman at all.」
+17960	Rance	だる顔	「…………まったく、	「............Seriously.
+17961	+		　好みの女のタイプの話に聞こえんぞ」	That doesn't sound like a description of a woman at all.」
 
-17962	Sill Plain	「そ、そうですね……	「Y-You're right...
-17963	+	　尊敬できる方、というか……」	More like someone you can respect...」
+17962	Sill Plain	考え中	「そ、そうですね……	「Y-You're right...
+17963	+		　尊敬できる方、というか……」	More like someone you can respect...」
 
-17964	Pitten Chao	「まあ、そうだな。	「Well, yes.
-17965	+	　そういうものじゃないのか？」	Isn't that how it's supposed to be?」
+17964	Pitten Chao	基本	「まあ、そうだな。	「Well, yes.
+17965	+		　そういうものじゃないのか？」	Isn't that how it's supposed to be?」
 
-17966	Cream Ganoblade	「それは……そうかもしれませんけど……	「That... might be true, but...
-17967	+	　そうでも、ないような……？」	...then again, maybe not...?」
+17966	Cream Ganoblade		「それは……そうかもしれませんけど……	「That... might be true, but...
+17967	+		　そうでも、ないような……？」	...then again, maybe not...?」
 
-17968	Rance	「お前それ、ミネバのババアでもいいってことか」	「Does that mean even that hag Minerva would be fine?」
+17968	Rance	真剣	「お前それ、ミネバのババアでもいいってことか」	「Does that mean even that hag Minerva would be fine?」
 
-17969	Pitten Chao	「ああ……さすがにあそこまで外道だとアレだが。	「Ah... well, she was a bit too much of a villain, but...
-17970	+	　部分的には見るべきものがあったと思うぞ」	I think she had some noteworthy aspects.」
+17969	Pitten Chao	基本	「ああ……さすがにあそこまで外道だとアレだが。	「Ah... well, she was a bit too much of a villain, but...
+17970	+		　部分的には見るべきものがあったと思うぞ」	I think she had some noteworthy aspects.」
 
-17971	Rance	「…………お前の伴侶の定義、どうなっとんじゃ」	「............Just what is your definition of a spouse?」
+17971	Rance	だる顔	「…………お前の伴侶の定義、どうなっとんじゃ」	「............Just what is your definition of a spouse?」
 
-17972	Patton Helman	「………………ううん……」	「..................Hmm......」
+17972	Patton Helman	真剣	「………………ううん……」	「..................Hmm......」
 
-17973	Rance	「なんだパットン。さっきから黙りこくって。	「What is it, Patton? Keeping quiet like that.
-17974	+	　そういうアテでもあるのか」	Do you have someone in mind?」
+17973	Rance	基本	「なんだパットン。さっきから黙りこくって。	「What is it, Patton? Keeping quiet like that.
+17974	+		　そういうアテでもあるのか」	Do you have someone in mind?」
 
-17975	Patton Helman	「心も力も強くて、ピッテンを驚かせる、	「Strong in heart and power, surprises Pitten,
-17976	+	　目標に向けて邁進する…………」	　strives toward their goal............」
+17975	Patton Helman		「心も力も強くて、ピッテンを驚かせる、	「Strong in heart and power, surprises Pitten,
+17976	+		　目標に向けて邁進する…………」	　strives toward their goal............」
 
-17977	Patton Helman	「俺が真っ先に思いついたのは、大将なんだが……」	「The first person I thought of was you, Rance.」
+17977	Patton Helman		「俺が真っ先に思いついたのは、大将なんだが……」	「The first person I thought of was you, Rance.」
 
-17978	Rance	「ぶっ！？」	「*Pfft*!?」
+17978	Rance	驚き	「ぶっ！？」	「*Pfft*!?」
 
-17979	Cream Ganoblade	「う……そ、それは……！」	「Ugh... t-that is...!」
+17979	Cream Ganoblade	基本	「う……そ、それは……！」	「Ugh... t-that is...!」
 
-17980	Pitten Chao	「…………あぁ。言われてみればそうか」	「............Ah. Now that you mention it.」
+17980	Pitten Chao		「…………あぁ。言われてみればそうか」	「............Ah. Now that you mention it.」
 
-17981	Rance	「納得してるんじゃない、このホモ野郎！」	「Don't you dare agree, you gay bastard!」
+17981	Rance	怒り	「納得してるんじゃない、このホモ野郎！」	「Don't you dare agree, you gay bastard!」
 
-17982	Pitten Chao	「ふ、まあランスが性転換したら、	「Heh, well, if Rance ever changes gender,
-17983	+	　考えてみるとしよう」	　I'll give it some thought.」
+17982	Pitten Chao	フッ	「ふ、まあランスが性転換したら、	「Heh, well, if Rance ever changes gender,
+17983	+		　考えてみるとしよう」	　I'll give it some thought.」
 
-17984	Pitten Chao	「さぁて……そろそろ、撒けているといいが……」	「Now then... hopefully, I've lost them by now...」
+17984	Pitten Chao	基本	「さぁて……そろそろ、撒けているといいが……」	「Now then... hopefully, I've lost them by now...」
 
-17985	-	飄々と、ピッテンは肩を竦めてから	Pitten casually shrugged his shoulders
-17986	+	玉座の間を出ていった。	and left the throne room.
+17985	-		飄々と、ピッテンは肩を竦めてから	Pitten casually shrugged his shoulders
+17986	+		玉座の間を出ていった。	and left the throne room.

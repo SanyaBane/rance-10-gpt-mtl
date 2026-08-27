@@ -2,153 +2,153 @@
 * Rance	ダークランス	Male
 * Maria Custard	マリア	Female
 
-55324	Rance	「ッ、だらああぁぁッ！」	「Gah, daaaaaah!」
+55324	Rance	怒り	「ッ、だらああぁぁッ！」	「Gah, daaaaaah!」
 
-55325	-	ダークランスが、逆袈裟の一刀で	Dark Rance slashed a monster
-55326	+	モンスターを斬り倒す。	with a powerful diagonal cut.
+55325	-		ダークランスが、逆袈裟の一刀で	Dark Rance slashed a monster
+55326	+		モンスターを斬り倒す。	with a powerful diagonal cut.
 
-55327	Rance	「ふー……終わったか……」	「Phew... Done...」
+55327	Rance	基本	「ふー……終わったか……」	「Phew... Done...」
 
-55328	-	ダークランスは、少し額の汗を拭った。	Dark Rance wiped a bit of sweat from his forehead.
+55328	-		ダークランスは、少し額の汗を拭った。	Dark Rance wiped a bit of sweat from his forehead.
 
-55329	-	先ほどから戦い通しで、マリアは	They had been fighting nonstop, so Maria
-55330	+	手近な石を投げつけるくらいしかできることがない。	could only throw nearby rocks.
+55329	-		先ほどから戦い通しで、マリアは	They had been fighting nonstop, so Maria
+55330	+		手近な石を投げつけるくらいしかできることがない。	could only throw nearby rocks.
 
-55331	Maria Custard	「お疲れ様。……ちょっと休む？」	「Good work. ...Want to rest a bit?」
+55331	Maria Custard		「お疲れ様。……ちょっと休む？」	「Good work. ...Want to rest a bit?」
 
-55332	Rance	「何言ってんだ。全然ヘーキだ、こんなもん」	「What are you saying. This is nothing.」
+55332	Rance		「何言ってんだ。全然ヘーキだ、こんなもん」	「What are you saying. This is nothing.」
 
-55333	Maria Custard	「私が疲れたの。	「I'm the one who's tired.
-55334	+	　落ちる前も戦ってたんだもん」	　I was fighting even before I fell.」
+55333	Maria Custard		「私が疲れたの。	「I'm the one who's tired.
+55334	+		　落ちる前も戦ってたんだもん」	　I was fighting even before I fell.」
 
-55335	-	今度はモンスターではないことを確認してから、	After confirming there were no monsters this time,
-55336	+	マリアはさっさと手頃な岩場に座り込んだ。	Maria quickly sat on a suitable rock.
+55335	-		今度はモンスターではないことを確認してから、	After confirming there were no monsters this time,
+55336	+		マリアはさっさと手頃な岩場に座り込んだ。	Maria quickly sat on a suitable rock.
 
-55337	Rance	「へっ……しょうがないな。…………ふぅ」	「Heh... Can't be helped. ......Phew.」
+55337	Rance		「へっ……しょうがないな。…………ふぅ」	「Heh... Can't be helped. ......Phew.」
 
-55338	-	ダークランスはわずかに上がる息を殺して、	Dark Rance hid his slightly heavy breathing
-55339	+	微妙に距離のある岩に腰を下ろした。	and sat on a rock a short distance away.
+55338	-		ダークランスはわずかに上がる息を殺して、	Dark Rance hid his slightly heavy breathing
+55339	+		微妙に距離のある岩に腰を下ろした。	and sat on a rock a short distance away.
 
-55340	-	しばし、空気が弛緩した。	The tension in the air eased for a while.
+55340	-		しばし、空気が弛緩した。	The tension in the air eased for a while.
 
-55341	Maria Custard	「ね。こんな事で何やってんの、ダークランスは」	「Hey. What are you doing here, Dark Rance?」
+55341	Maria Custard		「ね。こんな事で何やってんの、ダークランスは」	「Hey. What are you doing here, Dark Rance?」
 
-55342	Rance	「……言っただろ、悪魔回廊で。	「...I told you in the Demon Corridor.
-55343	+	　奴の残した……」	　That guy's leftover...」
+55342	Rance		「……言っただろ、悪魔回廊で。	「...I told you in the Demon Corridor.
+55343	+		　奴の残した……」	　That guy's leftover...」
 
-55344	Maria Custard	「あぁ、ランスの足跡を追うって？	「Ah, following Rance's footsteps?
-55345	+	　それでここまで…………あぁ」	　That's why you're here...... Ah.」
+55344	Maria Custard		「あぁ、ランスの足跡を追うって？	「Ah, following Rance's footsteps?
+55345	+		　それでここまで…………あぁ」	　That's why you're here...... Ah.」
 
-55346	Rance	「そんな言い方するんじゃねー！	「Don't say it like that!
-55347	+	　それに最後まで言わせろよ！」	　And let me finish!」
+55346	Rance	怒り	「そんな言い方するんじゃねー！	「Don't say it like that!
+55347	+		　それに最後まで言わせろよ！」	　And let me finish!」
 
-55348	Maria Custard	「あっはは、ごめんごめん。	「Ahaha, sorry sorry.
-55349	+	　でも、ホントよく調べたのね。	　But you really did your research.
-55350	+	　……じゃあ、この迷宮を攻略しに？」	　...So you're here to conquer this labyrinth?」
+55348	Maria Custard	基本	「あっはは、ごめんごめん。	「Ahaha, sorry sorry.
+55349	+		　でも、ホントよく調べたのね。	　But you really did your research.
+55350	+		　……じゃあ、この迷宮を攻略しに？」	　...So you're here to conquer this labyrinth?」
 
-55351	Rance	「ふん。アイツに出来ておいらにできない事なんか、	「Hmph. There's nothing that guy can do that I can't.
-55352	+	　何ひとつないんだ。簡単だ」	　It's easy.」
+55351	Rance		「ふん。アイツに出来ておいらにできない事なんか、	「Hmph. There's nothing that guy can do that I can't.
+55352	+		　何ひとつないんだ。簡単だ」	　It's easy.」
 
-55353	Rance	「……アイツを、超えてやるんだ。	「...I'm going to surpass him.
-55354	+	　かーちゃんを見つけて、	　Find my mom,
-55355	+	　助けてやれるように、強く……」	　and get strong enough to save her...」
+55353	Rance		「……アイツを、超えてやるんだ。	「...I'm going to surpass him.
+55354	+		　かーちゃんを見つけて、	　Find my mom,
+55355	+		　助けてやれるように、強く……」	　and get strong enough to save her...」
 
-55356	Maria Custard	「そっか。ごめんね、中断させちゃって」	「I see. Sorry for interrupting.」
+55356	Maria Custard		「そっか。ごめんね、中断させちゃって」	「I see. Sorry for interrupting.」
 
-55357	Rance	「ふ、ふん。ちょうど良いハンデだ。	「H-Hmph. It's a good handicap.
-55358	+	　我が闇の力をこの迷宮の隅々まで…………」	　I'll spread my dark power throughout every corner of this labyrinth...」
+55357	Rance		「ふ、ふん。ちょうど良いハンデだ。	「H-Hmph. It's a good handicap.
+55358	+		　我が闇の力をこの迷宮の隅々まで…………」	　I'll spread my dark power throughout every corner of this labyrinth...」
 
-55359	-	ぷいっと視線を逸らしたダークランスだが、	Dark Rance looked away, but
-55360	+	そのお腹が不意にきゅるる、と鳴った。	his stomach suddenly grumbled.
+55359	-		ぷいっと視線を逸らしたダークランスだが、	Dark Rance looked away, but
+55360	+		そのお腹が不意にきゅるる、と鳴った。	his stomach suddenly grumbled.
 
-55361	Rance	「………………あ、ぅ……」	「............Ah, uhh...」
+55361	Rance	泣き	「………………あ、ぅ……」	「............Ah, uhh...」
 
-55362	Maria Custard	「……ぷっ、くく。あははははは！」	「...Pfft, hehe. Ahahahaha!」
+55362	Maria Custard	笑顔	「……ぷっ、くく。あははははは！」	「...Pfft, hehe. Ahahahaha!」
 
-55363	Rance	「わ、笑うなーーー！　うっせーな、おいてくぞ！」	「D-Don't laugh! Shut up, I'll leave you behind!」
+55363	Rance	怒り	「わ、笑うなーーー！　うっせーな、おいてくぞ！」	「D-Don't laugh! Shut up, I'll leave you behind!」
 
-55364	Maria Custard	「あは、ごめん、あっははははは……！	「Ahaha, sorry, ahahahaha...!
-55365	+	　え、えと、何かあるかな……あ、みっけ」	　Um, do I have anything... Ah, found it.」
+55364	Maria Custard	基本	「あは、ごめん、あっははははは……！	「Ahaha, sorry, ahahahaha...!
+55365	+		　え、えと、何かあるかな……あ、みっけ」	　Um, do I have anything... Ah, found it.」
 
-55366	-	腰のポーチをがさがさ探ると、	She rummaged through her waist pouch
-55367	+	携帯用のおやつが出てきた。	and pulled out some portable snacks.
+55366	-		腰のポーチをがさがさ探ると、	She rummaged through her waist pouch
+55367	+		携帯用のおやつが出てきた。	and pulled out some portable snacks.
 
-55368	Maria Custard	「ふふふ……はい、干しプリンとチタンねじ。	「Fufufu... Here, dried pudding and titanium screws.
-55369	+	　どっちがいい？」	　Which one do you want?」
+55368	Maria Custard	笑顔	「ふふふ……はい、干しプリンとチタンねじ。	「Fufufu... Here, dried pudding and titanium screws.
+55369	+		　どっちがいい？」	　Which one do you want?」
 
-55370	Rance	「なんだ、そんなもん。ガキのおやつじゃ……」	「What the hell. Kid snacks...」
+55370	Rance	基本	「なんだ、そんなもん。ガキのおやつじゃ……」	「What the hell. Kid snacks...」
 
-55371	Maria Custard	「大事よ、糖分摂るの。ほら、どっち？」	「It's important for sugar. Come on, which one?」
+55371	Maria Custard		「大事よ、糖分摂るの。ほら、どっち？」	「It's important for sugar. Come on, which one?」
 
-55372	Rance	「…………じゃあ、干しプリン」	「............Then the dried pudding.」
+55372	Rance		「…………じゃあ、干しプリン」	「............Then the dried pudding.」
 
-55373	Maria Custard	「はい、じゃ私チタンねじね。	「Okay, I'll take the titanium screw.」
-55374	+	　んー、あまあま」	　Mmm, so sweet.
+55373	Maria Custard		「はい、じゃ私チタンねじね。	「Okay, I'll take the titanium screw.」
+55374	+		　んー、あまあま」	　Mmm, so sweet.
 
-55375	-	さっそく口の中にひょいと入れるマリアに倣って、	Following Maria who quickly popped hers in her mouth,
-55376	+	ダークランスも干しプリンを噛み始めた。	Dark Rance started chewing the dried pudding.
+55375	-		さっそく口の中にひょいと入れるマリアに倣って、	Following Maria who quickly popped hers in her mouth,
+55376	+		ダークランスも干しプリンを噛み始めた。	Dark Rance started chewing the dried pudding.
 
-55377	Maria Custard	「あ。服、袖がほつれてるじゃない」	「Ah. Your sleeve is frayed.」
+55377	Maria Custard		「あ。服、袖がほつれてるじゃない」	「Ah. Your sleeve is frayed.」
 
-55378	Rance	「……直せんのか？」	「...Can you fix it?」
+55378	Rance		「……直せんのか？」	「...Can you fix it?」
 
-55379	Maria Custard	「う、うーん……ミシンなら作れるんだけど……	「U-Umm... I could if I had a sewing machine...
-55380	+	　やってみよっか」	　Want me to try?」
+55379	Maria Custard		「う、うーん……ミシンなら作れるんだけど……	「U-Umm... I could if I had a sewing machine...
+55380	+		　やってみよっか」	　Want me to try?」
 
-55381	Rance	「いらね。一張羅がボロボロになったら困る」	「No need. This is my best outfit.」
+55381	Rance		「いらね。一張羅がボロボロになったら困る」	「No need. This is my best outfit.」
 
-55382	Maria Custard	「ひ、人並みにはできるわよ！	「I can do normal things too!
-55383	+	　しっつれーねー！」	　How rude!」
+55382	Maria Custard	あかんわ	「ひ、人並みにはできるわよ！	「I can do normal things too!
+55383	+		　しっつれーねー！」	　How rude!」
 
-55384	-	ふんだ、とマリアはそっぽを向いて、	Hmph, Maria turned away
-55385	+	おやつを新たに口の中に放り込む。	and tossed another snack into her mouth.
+55384	-		ふんだ、とマリアはそっぽを向いて、	Hmph, Maria turned away
+55385	+		おやつを新たに口の中に放り込む。	and tossed another snack into her mouth.
 
-55386	Rance	「………………」	「............」
+55386	Rance	基本	「………………」	「............」
 
-55387	-	もぐもぐとよく動く口元を、	His eyes unconsciously followed
-55388	+	なんとなくダークランスの視線が追いかける。	her chewing mouth.
+55387	-		もぐもぐとよく動く口元を、	His eyes unconsciously followed
+55388	+		なんとなくダークランスの視線が追いかける。	her chewing mouth.
 
-55389	Maria Custard	「ねぇ、ダークランス」	「Hey, Dark Rance.」
+55389	Maria Custard		「ねぇ、ダークランス」	「Hey, Dark Rance.」
 
-55390	Rance	「…………ヘっ！？　な、なんだ！？」	「............Heh!? W-What!?」
+55390	Rance		「…………ヘっ！？　な、なんだ！？」	「............Heh!? W-What!?」
 
-55391	Maria Custard	「どうしたの、大声出して」	「Why are you shouting?」
+55391	Maria Custard		「どうしたの、大声出して」	「Why are you shouting?」
 
-55392	Rance	「……なんでもない。なんか用かよ」	「...Nothing. What do you want?」
+55392	Rance		「……なんでもない。なんか用かよ」	「...Nothing. What do you want?」
 
-55393	Maria Custard	「ん……用、っていうか。	「Um... Not exactly business.
-55394	+	　迷宮探索……も、いいと思うんだけど。	Exploring the labyrinth is fine, but.
-55395	+	　私たちの所に、来ない？」	Why don't you come with us?」
+55393	Maria Custard		「ん……用、っていうか。	「Um... Not exactly business.
+55394	+		　迷宮探索……も、いいと思うんだけど。	Exploring the labyrinth is fine, but.
+55395	+		　私たちの所に、来ない？」	Why don't you come with us?」
 
-55396	Rance	「なんだと？」	「What?」
+55396	Rance		「なんだと？」	「What?」
 
-55397	-	ダークランスの、声が尖る。	Dark Rance's voice sharpened.
+55397	-		ダークランスの、声が尖る。	Dark Rance's voice sharpened.
 
-55398	Maria Custard	「今、世の中こんな状況だし……危ないもの。	「The world is in this state right now... It's dangerous.
-55399	+	　それに正直、強い人はいくらでも欲しいし……」	And honestly, we need all the strong people we can get...」
+55398	Maria Custard		「今、世の中こんな状況だし……危ないもの。	「The world is in this state right now... It's dangerous.
+55399	+		　それに正直、強い人はいくらでも欲しいし……」	And honestly, we need all the strong people we can get...」
 
-55400	Rance	「…………アイツの軍門に、下れってか」	「............You want me to submit to that guy's army?」
+55400	Rance		「…………アイツの軍門に、下れってか」	「............You want me to submit to that guy's army?」
 
-55401	Maria Custard	「軍門とか、そういうんじゃなくて……	「Not like submitting or anything...
-55402	+	　今は非常時だし……」	It's an emergency right now...」
+55401	Maria Custard		「軍門とか、そういうんじゃなくて……	「Not like submitting or anything...
+55402	+		　今は非常時だし……」	It's an emergency right now...」
 
-55403	Rance	「ぜってー嫌だ！！	「Absolutely not!!
-55404	+	　そんなんで、なし崩しに、うやむやなままに、	I won't let it end vaguely like that,
-55405	+	　適当にあしらわれたりしてたまるもんか！」	being brushed off casually!」
+55403	Rance	怒り	「ぜってー嫌だ！！	「Absolutely not!!
+55404	+		　そんなんで、なし崩しに、うやむやなままに、	I won't let it end vaguely like that,
+55405	+		　適当にあしらわれたりしてたまるもんか！」	being brushed off casually!」
 
-55406	Maria Custard	「…………っ……」	「............」
+55406	Maria Custard	基本	「…………っ……」	「............」
 
-55407	Rance	「合流するとしたらな、	「If we join, it'll be
-55408	+	　おいらがアイツを叩きのめして、	after I beat the shit out of him,
-55409	+	　ごめんなさいって土下座させた、その後だ！」	and make him apologize on his knees!」
+55407	Rance		「合流するとしたらな、	「If we join, it'll be
+55408	+		　おいらがアイツを叩きのめして、	after I beat the shit out of him,
+55409	+		　ごめんなさいって土下座させた、その後だ！」	and make him apologize on his knees!」
 
-55410	Maria Custard	「う……でもね、今、ランスの所には……」	「U... But right now at Rance's place there are...」
+55410	Maria Custard		「う……でもね、今、ランスの所には……」	「U... But right now at Rance's place there are...」
 
-55411	Rance	「休憩終わり！　もういい、さっさといくぞ！	「Break's over! Enough, let's go!
-55412	+	　ふん！！」	Hmph!!」
+55411	Rance	怒り	「休憩終わり！　もういい、さっさといくぞ！	「Break's over! Enough, let's go!
+55412	+		　ふん！！」	Hmph!!」
 
-55413	Maria Custard	「ああもう、ヘソ曲げちゃった……	「Aah, he's sulking now...
-55414	+	　ちょ、ま、待ってよーー！」	Hey, wait up!」
+55413	Maria Custard	あかんわ	「ああもう、ヘソ曲げちゃった……	「Aah, he's sulking now...
+55414	+		　ちょ、ま、待ってよーー！」	Hey, wait up!」
 
-55415	-	憤然と起ち上がり、先へと歩き出す小柄な背中を、	The small angry figure stood up and walked ahead,
-55416	+	マリアは慌てて追いかけ始めた。	and Maria hurriedly chased after him.
+55415	-		憤然と起ち上がり、先へと歩き出す小柄な背中を、	The small angry figure stood up and walked ahead,
+55416	+		マリアは慌てて追いかけ始めた。	and Maria hurriedly chased after him.

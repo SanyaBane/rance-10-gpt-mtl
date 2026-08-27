@@ -5,128 +5,128 @@
 * Sill Plain	シィル	Female
 * Copandon Dott	コパンドン	Female
 
-6239	Pluepet	「はいなはいな。毎度ありですー」	「Yes yes. Thank you for your business~」
+6239	Pluepet	基本	「はいなはいな。毎度ありですー」	「Yes yes. Thank you for your business~」
 
-6240	Rance	「………………」	「............」
+6240	Rance	真剣	「………………」	「............」
 
-6241	Pluepet	「おんや？　なんでっか、総統はん。	「Oh? What's wrong, Supreme Leader.
-6242	+	　今の商いに何か？」	　Something about my business?」
+6241	Pluepet	基本	「おんや？　なんでっか、総統はん。	「Oh? What's wrong, Supreme Leader.
+6242	+		　今の商いに何か？」	　Something about my business?」
 
-6243	Rance	「いや……お前、前線に放り込んでも	「No... Even if I throw you on the front lines
-6244	+	　金の話しかせんだろう」	　you'd only talk about money
+6243	Rance	真剣	「いや……お前、前線に放り込んでも	「No... Even if I throw you on the front lines
+6244	+		　金の話しかせんだろう」	　you'd only talk about money
 
-6245	Rance	「お前……そんなに金貯めてどうするんだ？」	「You... what are you saving all that money for?」
+6245	Rance		「お前……そんなに金貯めてどうするんだ？」	「You... what are you saving all that money for?」
 
-6246	Pluepet	「……………………」	「........................」
+6246	Pluepet	基本	「……………………」	「........................」
 
-6247	Pluepet	「いやはや。	「My my.
-6248	+	　総統はんからそんな事を聞かれるとは」	　Never thought the Supreme Leader would ask that
+6247	Pluepet		「いやはや。	「My my.
+6248	+		　総統はんからそんな事を聞かれるとは」	　Never thought the Supreme Leader would ask that
 
-6249	Rance	「ただの思いつきだ。	「Just a random thought.
-6250	+	　別にどうでもいい」	　Doesn't really matter
+6249	Rance	だる顔	「ただの思いつきだ。	「Just a random thought.
+6250	+		　別にどうでもいい」	　Doesn't really matter
 
-6251	Kentou Kanami	「まあでも、確かにそうよね。	「But yeah, it's true.
-6252	+	　商売以外で、使ってる所もほとんど見た事ないし」	　I've hardly seen you spend it on anything but business
+6251	Kentou Kanami	基本	「まあでも、確かにそうよね。	「But yeah, it's true.
+6252	+		　商売以外で、使ってる所もほとんど見た事ないし」	　I've hardly seen you spend it on anything but business
 
-6253	Pluepet	「んーー……」	「Hmm......
+6253	Pluepet		「んーー……」	「Hmm......
 
-6254	-	プルーペットは表情を微動だにさせないまま、	Without changing his expression at all,
-6255	+	少し迷ったように指先で頭を掻いた。	Pluepet scratched his head with his finger as if slightly hesitant.
+6254	-		プルーペットは表情を微動だにさせないまま、	Without changing his expression at all,
+6255	+		少し迷ったように指先で頭を掻いた。	Pluepet scratched his head with his finger as if slightly hesitant.
 
-6256	Pluepet	「ま、総統はんはお得意さんやし。	「Well, you're a good customer, Supreme Leader.
-6257	+	　少しくらい、恥ずかしい話も披露しましょか」	　I can share a slightly embarrassing story.」
+6256	Pluepet		「ま、総統はんはお得意さんやし。	「Well, you're a good customer, Supreme Leader.
+6257	+		　少しくらい、恥ずかしい話も披露しましょか」	　I can share a slightly embarrassing story.」
 
-6258	Rance	「おお。ま、暇潰しだ。さえずってみろ」	「Oh. Well, it's to kill time. Go on.」
+6258	Rance		「おお。ま、暇潰しだ。さえずってみろ」	「Oh. Well, it's to kill time. Go on.」
 
-6259	Pluepet	「ワテはまあ……育ちはポルトガルでんねんけど、	「I was raised in Portugal, but
-6260	+	　実は生まれた場所の記憶がありまへんのや」	I actually don't remember where I was born.
+6259	Pluepet		「ワテはまあ……育ちはポルトガルでんねんけど、	「I was raised in Portugal, but
+6260	+		　実は生まれた場所の記憶がありまへんのや」	I actually don't remember where I was born.
 
-6261	Pluepet	「どこからか追放されたか、送り込まれたか……	「Whether I was exiled or sent away...
-6262	+	　故郷の記憶は、霞ほどにしかありまへんねん」	　My memories of home are faint as mist.
+6261	Pluepet		「どこからか追放されたか、送り込まれたか……	「Whether I was exiled or sent away...
+6262	+		　故郷の記憶は、霞ほどにしかありまへんねん」	　My memories of home are faint as mist.
 
-6263	Rance	「……なんだと？」	「...What?」
+6263	Rance	真剣	「……なんだと？」	「...What?」
 
-6264	Pluepet	「意外だすか？」	「Surprised?」
+6264	Pluepet	基本	「意外だすか？」	「Surprised?」
 
-6265	Rance	「いや……というか、	「No... more like
-6266	+	　ガキなのか大人なのかも分からんから、	　I can't even tell if you're a kid or adult,
-6267	+	　育ちと言われてもな……」	　so hearing about your upbringing...
+6265	Rance	だる顔	「いや……というか、	「No... more like
+6266	+		　ガキなのか大人なのかも分からんから、	　I can't even tell if you're a kid or adult,
+6267	+		　育ちと言われてもな……」	　so hearing about your upbringing...
 
-6268	Pluepet	「何言わはりまんねーん。	「What are you saying.
-6269	+	　この額の大人毛。	　Look at this adult hair on my forehead.
-6270	+	　どっからどう見ても立派な成人でおま」	　I'm clearly a fine adult.
+6268	Pluepet	基本	「何言わはりまんねーん。	「What are you saying.
+6269	+		　この額の大人毛。	　Look at this adult hair on my forehead.
+6270	+		　どっからどう見ても立派な成人でおま」	　I'm clearly a fine adult.
 
-6271	Rance	「…………そうなのか」	「............I see.」
+6271	Rance	だる顔	「…………そうなのか」	「............I see.」
 
-6272	Pluepet	「おっと。まあ、記憶あらしまへんから、	「Oops. Well, since I don't have memories,
-6273	+	　ある程度は推量なんでっけどな」	　it's mostly guesswork.
+6272	Pluepet	基本	「おっと。まあ、記憶あらしまへんから、	「Oops. Well, since I don't have memories,
+6273	+		　ある程度は推量なんでっけどな」	　it's mostly guesswork.
 
-6274	Pluepet	「でも今のみたいに、	「But sometimes I vaguely remember things
-6275	+	　うっすら覚えとる事もあるんだす。	　like now.
-6276	+	　ワテと同じような姿をした同胞、緑豊かな森、丘」	　Fellows who looked like me, lush green forests, hills
+6274	Pluepet		「でも今のみたいに、	「But sometimes I vaguely remember things
+6275	+		　うっすら覚えとる事もあるんだす。	　like now.
+6276	+		　ワテと同じような姿をした同胞、緑豊かな森、丘」	　Fellows who looked like me, lush green forests, hills
 
-6277	Pluepet	「そして、幼馴染みの女のコと	「And a childhood friend girl
-6278	+	　平和に暮らしてたんどす」	　living peacefully with me.
+6277	Pluepet		「そして、幼馴染みの女のコと	「And a childhood friend girl
+6278	+		　平和に暮らしてたんどす」	　living peacefully with me.
 
-6279	Kentou Kanami	「えっ……」	「Eh...」
+6279	Kentou Kanami		「えっ……」	「Eh...」
 
-6280	Pluepet	「そんでも、別れの時が来た。	「But the time to part came.
-6281	+	　ワテが何かやらかしたのか、	　Did I do something wrong,
-6282	+	　それとも使命があったのか……」	　or was there a mission...
+6280	Pluepet		「そんでも、別れの時が来た。	「But the time to part came.
+6281	+		　ワテが何かやらかしたのか、	　Did I do something wrong,
+6282	+		　それとも使命があったのか……」	　or was there a mission...
 
-6283	Pluepet	「記憶にあるんは、その幼馴染みの泣き顔だけ。	「All I remember is that childhood friend's crying face.
-6284	+	　ワテと別れ別れになって……	　We were separated...
-6285	+	　ひたすら、ワテの名を呼ぶその子」	　and she kept calling my name.
+6283	Pluepet		「記憶にあるんは、その幼馴染みの泣き顔だけ。	「All I remember is that childhood friend's crying face.
+6284	+		　ワテと別れ別れになって……	　We were separated...
+6285	+		　ひたすら、ワテの名を呼ぶその子」	　and she kept calling my name.
 
-6286	Sill Plain	「そんな……」	「That's...」
+6286	Sill Plain	恥	「そんな……」	「That's...」
 
-6287	Rance	「……………………」	「........................」
+6287	Rance	真剣	「……………………」	「........................」
 
-6288	Pluepet	「戻るためには、金が要る。	「To go back, I need money.
-6289	+	　ワテの意識の中に、強く擦り込まれてるのは、	　The only thing strongly imprinted in my mind
-6290	+	　それだけですねんや」	　is that.
+6288	Pluepet	基本	「戻るためには、金が要る。	「To go back, I need money.
+6289	+		　ワテの意識の中に、強く擦り込まれてるのは、	　The only thing strongly imprinted in my mind
+6290	+		　それだけですねんや」	　is that.
 
-6291	Pluepet	「いつ戻れるのか。どれだけ貯めればいいのか。	「When can I return. How much do I need to save.
-6292	+	　へっ、まったく非効率な事ですねんけどな」	　Heh, it's completely inefficient.
+6291	Pluepet		「いつ戻れるのか。どれだけ貯めればいいのか。	「When can I return. How much do I need to save.
+6292	+		　へっ、まったく非効率な事ですねんけどな」	　Heh, it's completely inefficient.
 
-6293	Kentou Kanami	「そ、そんな事情があったなんて……」	「You had such circumstances...」
+6293	Kentou Kanami	ジト目	「そ、そんな事情があったなんて……」	「You had such circumstances...」
 
-6294	Sill Plain	「可哀想です……お二人とも……うぅ」	「How sad... both of you... uu」
+6294	Sill Plain	泣き	「可哀想です……お二人とも……うぅ」	「How sad... both of you... uu」
 
-6295	Rance	「思ったより重たかったな……」	「Heavier than I expected...」
+6295	Rance	だる顔	「思ったより重たかったな……」	「Heavier than I expected...」
 
-6296	Pluepet	「……やめておくんなはれ、湿っぽいのは……！	「...Please stop with the sentimental stuff...!
-6297	+	　険しい銭の道に、目標があるって、幸せですやん。	　Having a goal on this tough money path is happiness.
-6298	+	　せやからワテは、笑っていこうって……」	　So I'll keep smiling...」
+6296	Pluepet	基本	「……やめておくんなはれ、湿っぽいのは……！	「...Please stop with the sentimental stuff...!
+6297	+		　険しい銭の道に、目標があるって、幸せですやん。	　Having a goal on this tough money path is happiness.
+6298	+		　せやからワテは、笑っていこうって……」	　So I'll keep smiling...」
 
-6299	Copandon Dott	「……あー。盛り上がってるトコ悪いけど、	「...Ah. Sorry to ruin the mood,
-6300	+	　そいつ前に同じ事聞いたら、	　but when I asked him the same thing before
-6301	+	　亡国の王子で国買い戻す言うとったで」	　he said he was a fallen prince buying back his country.」
+6299	Copandon Dott	ジト目	「……あー。盛り上がってるトコ悪いけど、	「...Ah. Sorry to ruin the mood,
+6300	+		　そいつ前に同じ事聞いたら、	　but when I asked him the same thing before
+6301	+		　亡国の王子で国買い戻す言うとったで」	　he said he was a fallen prince buying back his country.」
 
-6302	Kentou Kanami	「………………」	「............」
+6302	Kentou Kanami	基本	「………………」	「............」
 
-6303	Sill Plain	「……………………」	「........................」
+6303	Sill Plain	ぽか〜ん	「……………………」	「........................」
 
-6304	Rance	「…………………………」	「..............................」
+6304	Rance	驚き	「…………………………」	「..............................」
 
-6305	Pluepet	「やー、ネタバラし早いですやんー。	「Yah, you spoiled it too fast.
-6306	+	　いけずやなー」	　So mean~」
+6305	Pluepet	基本	「やー、ネタバラし早いですやんー。	「Yah, you spoiled it too fast.
+6306	+		　いけずやなー」	　So mean~」
 
-6307	Rance	「う、うううう、嘘っぱちか貴様ーーーー！」	「U, uuuu, you liar-----!」
+6307	Rance	怒り	「う、うううう、嘘っぱちか貴様ーーーー！」	「U, uuuu, you liar-----!」
 
-6308	Pluepet	「いえ、ワテも流通業だけやなしに、	「No no, besides distribution
-6309	+	　コンテンツビジネスに手ぇつけようと	　I'm thinking of getting into content business too.」
-6310	+	　思いましてん」	
+6308	Pluepet	基本	「いえ、ワテも流通業だけやなしに、	「No no, besides distribution
+6309	+		　コンテンツビジネスに手ぇつけようと	　I'm thinking of getting into content business too.」
+6310	+		　思いましてん」	
 
-6311	Pluepet	「今の台本、どないやろ。	「How about this script.
-6312	+	　金にならへんかなー」	　Think it'll make money?」
+6311	Pluepet		「今の台本、どないやろ。	「How about this script.
+6312	+		　金にならへんかなー」	　Think it'll make money?」
 
-6313	Rance	「やかましい、死ね！」	「Shut up and die!」
+6313	Rance	怒り	「やかましい、死ね！」	「Shut up and die!」
 
-6314	Pluepet	「はわわわー」	「Hawawawa~」
+6314	Pluepet	基本	「はわわわー」	「Hawawawa~」
 
-6315	Sill Plain	「結局お金……なんですね」	「In the end it's about money... huh.」
+6315	Sill Plain	苦笑	「結局お金……なんですね」	「In the end it's about money... huh.」
 
-6316	Kentou Kanami	「はあ……ホントの所は聞けずじまいね」	「Haa... Couldn't hear the real story.」
+6316	Kentou Kanami	ジト目	「はあ……ホントの所は聞けずじまいね」	「Haa... Couldn't hear the real story.」
 
-6317	Copandon Dott	「無いのかもなあ、理由なんて……」	「Maybe there isn't one... a reason...」
+6317	Copandon Dott	ため息	「無いのかもなあ、理由なんて……」	「Maybe there isn't one... a reason...」

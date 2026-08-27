@@ -8,362 +8,362 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Blue Monster Soldier	汎用魔物兵青	Male
 
-76001	-	ランスの敗退、これに最もダメージを受けたのは、	Rance's defeat hit the troops defending the main mountain path the hardest,
-76002	+	当然正面山道を守っていた部隊である。	as expected from the unit holding the front line.
+76001	-		ランスの敗退、これに最もダメージを受けたのは、	Rance's defeat hit the troops defending the main mountain path the hardest,
+76002	+		当然正面山道を守っていた部隊である。	as expected from the unit holding the front line.
 
-76003	-	魔人を殺せる筈の部隊の敗退は、	The defeat of the unit that was supposed to kill a Fiend
-76004	+	早雲率いる部隊の士気を極限まで下げた。	plunged the morale of Souun's troops to rock bottom.
+76003	-		魔人を殺せる筈の部隊の敗退は、	The defeat of the unit that was supposed to kill a Fiend
+76004	+		早雲率いる部隊の士気を極限まで下げた。	plunged the morale of Souun's troops to rock bottom.
 
-76005	JAPAN General	「も、もうここは駄目です、早雲殿！	「I-It's hopeless here, Lord Souun!
-76006	+	　どうか、撤退、せめて後退のご指示を！」	　Please order a retreat, at least pull back!」
+76005	JAPAN General	基本	「も、もうここは駄目です、早雲殿！	「I-It's hopeless here, Lord Souun!
+76006	+		　どうか、撤退、せめて後退のご指示を！」	　Please order a retreat, at least pull back!」
 
-76007	JAPAN General	「このままでは兵が無駄に死ぬだけです！」	「At this rate our soldiers will just die for nothing!」
+76007	JAPAN General		「このままでは兵が無駄に死ぬだけです！」	「At this rate our soldiers will just die for nothing!」
 
-76008	Houjou Souun	「…………」	「............」
+76008	Houjou Souun	曇り	「…………」	「............」
 
-76009	-	早雲は考える。	Souun thinks.
-76010	+	今、最も合理的で、最も効率的な方法を。	The most rational and efficient method right now.
+76009	-		早雲は考える。	Souun thinks.
+76010	+		今、最も合理的で、最も効率的な方法を。	The most rational and efficient method right now.
 
-76011	-	そして結論を出し、顔を歪めた。	He reaches a conclusion and his face twists.
+76011	-		そして結論を出し、顔を歪めた。	He reaches a conclusion and his face twists.
 
-76012	Houjou Souun	「くっ……！」	「Kuh...!」
+76012	Houjou Souun	目閉じ	「くっ……！」	「Kuh...!」
 
-76013	-	早雲は懐からバサリと大量の札を取り出した。	Souun pulled out a huge stack of talismans from his chest.
+76013	-		早雲は懐からバサリと大量の札を取り出した。	Souun pulled out a huge stack of talismans from his chest.
 
-76014	JAPAN Samurai	「早雲様！？」	「Lord Souun!?」
+76014	JAPAN Samurai	基本	「早雲様！？」	「Lord Souun!?」
 
-76015	Houjou Souun	「――徹底抗戦だ」	「--We fight to the bitter end.」
+76015	Houjou Souun		「――徹底抗戦だ」	「--We fight to the bitter end.」
 
-76016	Houjou Souun	「ただの一体も通らせるな！	「Don't let a single one through!
-76017	+	　断固死守せよ！」	　Hold this position to the death!」
+76016	Houjou Souun		「ただの一体も通らせるな！	「Don't let a single one through!
+76017	+		　断固死守せよ！」	　Hold this position to the death!」
 
-76018	JAPAN General	「そ、そんな」	「B-But...」
+76018	JAPAN General		「そ、そんな」	「B-But...」
 
-76019	Houjou Souun	「逃げろとはまだ命じられていない。	「We haven't been ordered to retreat yet.
-76020	+	　その命令が来るまで、	　Until that order comes,
-76021	+	　俺達に出来ることは戦うことだけだ」	　the only thing we can do is fight.」
+76019	Houjou Souun		「逃げろとはまだ命じられていない。	「We haven't been ordered to retreat yet.
+76020	+		　その命令が来るまで、	　Until that order comes,
+76021	+		　俺達に出来ることは戦うことだけだ」	　the only thing we can do is fight.」
 
-76022	Houjou Souun	「ここで退いてはそれこそ人類は負ける！	「If we fall back now, humanity truly loses!
-76023	+	　最後まで諦めるんじゃない！」	　Don't give up until the very end!」
+76022	Houjou Souun		「ここで退いてはそれこそ人類は負ける！	「If we fall back now, humanity truly loses!
+76023	+		　最後まで諦めるんじゃない！」	　Don't give up until the very end!」
 
-76024	JAPAN General	「は……」	「Yes...」
+76024	JAPAN General		「は……」	「Yes...」
 
-76025	JAPAN General	「ははあっ！」	「Understood!」
+76025	JAPAN General		「ははあっ！」	「Understood!」
 
-76026	-	武器を取り、正面山道の兵は未だ諦めない。	They grab their weapons. The soldiers on the main mountain path still refuse to give up.
+76026	-		武器を取り、正面山道の兵は未だ諦めない。	They grab their weapons. The soldiers on the main mountain path still refuse to give up.
 
-76027	-	しかし、魔人レッドアイを筆頭とした部隊は	However, the forces led by Fiend RedEye
-76028	+	より侵攻の勢いを強め、	intensified their assault even further,
-76029	+	今や正面山道は総崩れをする寸前であった。	and the main mountain path was on the verge of total collapse.
+76027	-		しかし、魔人レッドアイを筆頭とした部隊は	However, the forces led by Fiend RedEye
+76028	+		より侵攻の勢いを強め、	intensified their assault even further,
+76029	+		今や正面山道は総崩れをする寸前であった。	and the main mountain path was on the verge of total collapse.
 
-76030	Copandon Dott	「ほほぉー……	「Hohoo...
-76031	+	　やっとる、やっとる」	　They're really going at it.」
+76030	Copandon Dott		「ほほぉー……	「Hohoo...
+76031	+		　やっとる、やっとる」	　They're really going at it.」
 
-76032	-	その戦場に、今までランス城にいた	Into that battlefield, Copandon, who had been at Rance Castle until now,
-76033	+	コパンドンが悠々と現れた。	casually appeared.
+76032	-		その戦場に、今までランス城にいた	Into that battlefield, Copandon, who had been at Rance Castle until now,
+76033	+		コパンドンが悠々と現れた。	casually appeared.
 
-76034	-	その背にはいつもと違う	On her back she carried something different from usual
-76035	+	お神籤箱-ﾐｸｼﾞﾊﾞｺ-を抱えていた。	一a fortune-telling box.
+76034	-		その背にはいつもと違う	On her back she carried something different from usual
+76035	+		お神籤箱-ﾐｸｼﾞﾊﾞｺ-を抱えていた。	一a fortune-telling box.
 
-76036	Copandon Dott	「…………」	「............」
+76036	Copandon Dott		「…………」	「............」
 
-76037	Copandon Dott	「うしゃ、ほな行こか」	「Alright, let's do this.」
+76037	Copandon Dott	笑い	「うしゃ、ほな行こか」	「Alright, let's do this.」
 
-76038	Yutin Fulz	「ま、待って下さいコパンドン様！」	「W-Wait, Lady Copandon!」
+76038	Yutin Fulz	驚き	「ま、待って下さいコパンドン様！」	「W-Wait, Lady Copandon!」
 
-76039	Copandon Dott	「ん、なんやユーティン、	「Hm? What is it, Yutin?
-76040	+	　来んでええ言うたやろ」	　I told you not to come.」
+76039	Copandon Dott	基本	「ん、なんやユーティン、	「Hm? What is it, Yutin?
+76040	+		　来んでええ言うたやろ」	　I told you not to come.」
 
-76041	Yutin Fulz	「それ……どうするつもりなんですか？」	「What... are you planning to do with that?」
+76041	Yutin Fulz		「それ……どうするつもりなんですか？」	「What... are you planning to do with that?」
 
-76042	Copandon Dott	「使う」	「Use it.」
+76042	Copandon Dott		「使う」	「Use it.」
 
-76043	Yutin Fulz	「駄目、駄目です！」	「No, you can't!」
+76043	Yutin Fulz	心配	「駄目、駄目です！」	「No, you can't!」
 
-76044	Yutin Fulz	「その究極お神籤だけは使っちゃ駄目です！」	「You absolutely cannot use that ultimate fortune slip!」
+76044	Yutin Fulz		「その究極お神籤だけは使っちゃ駄目です！」	「You absolutely cannot use that ultimate fortune slip!」
 
-76045	Copandon Dott	「…………」	「............」
+76045	Copandon Dott	基本	「…………」	「............」
 
-76046	Yutin Fulz	「確かにそれは強力な武器で……	「It's certainly a powerful weapon...
-76047	+	　コパンドン様にしか使えませんが……	　Only Lady Copandon can use it, but...
-76048	+	　その分、とっても危険です！」	　that's exactly why it's extremely dangerous!」
+76046	Yutin Fulz	心配	「確かにそれは強力な武器で……	「It's certainly a powerful weapon...
+76047	+		　コパンドン様にしか使えませんが……	　Only Lady Copandon can use it, but...
+76048	+		　その分、とっても危険です！」	　that's exactly why it's extremely dangerous!」
 
-76049	Yutin Fulz	「大吉を引けばどんな敵でも撃退できますが、	「If you draw a great blessing you can repel any enemy,
-76050	+	　大凶を引けば即死なんですよ！？」	　but a great curse means instant death!?」
+76049	Yutin Fulz		「大吉を引けばどんな敵でも撃退できますが、	「If you draw a great blessing you can repel any enemy,
+76050	+		　大凶を引けば即死なんですよ！？」	　but a great curse means instant death!?」
 
-76051	Copandon Dott	「そら一か八かは分かっとるよ」	「I know it's all or nothing.」
+76051	Copandon Dott	ジト目	「そら一か八かは分かっとるよ」	「I know it's all or nothing.」
 
-76052	Copandon Dott	「でも使わんかったらどうせ死ぬ、	「But if we don't use it we'll die anyway,
-76053	+	　使ってミスってもどうせ死ぬ。	　and if we use it and fail we'll die anyway.
-76054	+	　ほんだら今使わんといつ使うねん」	　So if not now, then when?」
+76052	Copandon Dott	怒り	「でも使わんかったらどうせ死ぬ、	「But if we don't use it we'll die anyway,
+76053	+		　使ってミスってもどうせ死ぬ。	　and if we use it and fail we'll die anyway.
+76054	+		　ほんだら今使わんといつ使うねん」	　So if not now, then when?」
 
-76055	Yutin Fulz	「こ、コパンドン様は金運以外の運が	「B-But Lady Copandon, your luck in everything except money
-76056	+	　全部悪いじゃないですかー！」	　is terrible!」
+76055	Yutin Fulz	心配	「こ、コパンドン様は金運以外の運が	「B-But Lady Copandon, your luck in everything except money
+76056	+		　全部悪いじゃないですかー！」	　is terrible!」
 
-76057	Copandon Dott	「うわ、なんてこと言うんやろかこの子」	「Wow, what a thing to say, this girl.」
+76057	Copandon Dott	ジト目	「うわ、なんてこと言うんやろかこの子」	「Wow, what a thing to say, this girl.」
 
-76058	Copandon Dott	「……ランスが負けた。	「...Rance lost.
-76059	+	　ここの守りももう限界」	　The defense here has reached its limit too.」
+76058	Copandon Dott	基本	「……ランスが負けた。	「...Rance lost.
+76059	+		　ここの守りももう限界」	　The defense here has reached its limit too.」
 
-76060	Copandon Dott	「ほんなら他の誰かがキバらなあかんやろ？」	「So someone else has to step up, right?」
+76060	Copandon Dott		「ほんなら他の誰かがキバらなあかんやろ？」	「So someone else has to step up, right?」
 
-76061	Yutin Fulz	「そ、そんな……」	「B-But...」
+76061	Yutin Fulz		「そ、そんな……」	「B-But...」
 
-76062	Copandon Dott	「とにかくもう決めたことや。	「Anyway, I've already decided.
-76063	+	　そこどき」	　Move aside.」
+76062	Copandon Dott		「とにかくもう決めたことや。	「Anyway, I've already decided.
+76063	+		　そこどき」	　Move aside.」
 
-76064	Yutin Fulz	「駄目！　絶対に駄目です！」	「No! Absolutely not!」
+76064	Yutin Fulz	心配	「駄目！　絶対に駄目です！」	「No! Absolutely not!」
 
-76065	-	ユーティンはコパンドンの前に	Yutin spreads both arms
-76066	+	両手を広げて立ちはだかる。	and blocks Copandon's path.
+76065	-		ユーティンはコパンドンの前に	Yutin spreads both arms
+76066	+		両手を広げて立ちはだかる。	and blocks Copandon's path.
 
-76067	Yutin Fulz	「こ、こればかりはコパンドン様が	「No matter what you say, Lady Copandon,
-76068	+	　何を言っても絶対にどきません！」	　I won't move for this!」
+76067	Yutin Fulz		「こ、こればかりはコパンドン様が	「No matter what you say, Lady Copandon,
+76068	+		　何を言っても絶対にどきません！」	　I won't move for this!」
 
-76069	Yutin Fulz	「お願い……お願い、です、から……」	「Please... please, I'm begging you...」
+76069	Yutin Fulz		「お願い……お願い、です、から……」	「Please... please, I'm begging you...」
 
-76070	-	瞳には涙まで浮かべていた。	Tears welled up in her eyes.
+76070	-		瞳には涙まで浮かべていた。	Tears welled up in her eyes.
 
-76071	Copandon Dott	「…………」	「............」
+76071	Copandon Dott	基本	「…………」	「............」
 
-76072	Copandon Dott	「どいたら後でチューしたるよ？」	「If you move, I'll give you a kiss later, okay?」
+76072	Copandon Dott		「どいたら後でチューしたるよ？」	「If you move, I'll give you a kiss later, okay?」
 
-76073	Yutin Fulz	「えっ？」	「Eh?」
+76073	Yutin Fulz	驚き	「えっ？」	「Eh?」
 
-76074	Yutin Fulz	「…………	「............
-76075	?	あ、駄目、駄目ですよ！？」	Ah, no, you can't!?」
+76074	Yutin Fulz		「…………	「............
+76075	?		あ、駄目、駄目ですよ！？」	Ah, no, you can't!?」
 
-76076	Copandon Dott~	（押したら行けそうやな……）	（If I push her, I can probably get through...）
+76076	Copandon Dott~	ジト目	（押したら行けそうやな……）	（If I push her, I can probably get through...）
 
-76077	Yutin Fulz	「ど、どうしても行くっていうなら、	「If you really insist on going,
-76078	+	　私を倒してから行って下さい！」	　then defeat me first!」
+76077	Yutin Fulz	心配	「ど、どうしても行くっていうなら、	「If you really insist on going,
+76078	+		　私を倒してから行って下さい！」	　then defeat me first!」
 
-76079	-	　	　
-76080	+	　　＜ドゴッ！＞	　　＜Thud!＞
+76079	-		　	　
+76080	+		　　＜ドゴッ！＞	　　＜Thud!＞
 
-76081	Yutin Fulz	「がふっ……！」	「Gafu...!」
+76081	Yutin Fulz	基本	「がふっ……！」	「Gafu...!」
 
-76082	Yutin Fulz	「しくしく……ひどい……」	「Hic... that's so mean...」
+76082	Yutin Fulz		「しくしく……ひどい……」	「Hic... that's so mean...」
 
-76083	Copandon Dott	「いや、お約束やから	「Hey, you said that's what you wanted.
-76084	+	　こうして欲しいんかなーと」	　So I did it.」
+76083	Copandon Dott	ジト目	「いや、お約束やから	「Hey, you said that's what you wanted.
+76084	+		　こうして欲しいんかなーと」	　So I did it.」
 
-76085	Copandon Dott	「安心し、大丈夫や。	「Don't worry, it'll be fine.
-76086	+	　……多分」	　...Probably.」
+76085	Copandon Dott	基本	「安心し、大丈夫や。	「Don't worry, it'll be fine.
+76086	+		　……多分」	　...Probably.」
 
-76087	Yutin Fulz	「多分じゃ駄目ですぅー……」	「Probably isn't good enough...」
+76087	Yutin Fulz		「多分じゃ駄目ですぅー……」	「Probably isn't good enough...」
 
-76088	Copandon Dott	「ほな行くでー……」	「Well then, here I go...」
+76088	Copandon Dott		「ほな行くでー……」	「Well then, here I go...」
 
-76089	Copandon Dott	「コパンドン・ドット、	「Copandon Dot,
-76090	+	　一世一代の大博打や！」	　this is the gamble of a lifetime!」
+76089	Copandon Dott	強気	「コパンドン・ドット、	「Copandon Dot,
+76090	+		　一世一代の大博打や！」	　this is the gamble of a lifetime!」
 
-76091	Copandon Dott	「オーーミーークーージーー！！！！」	「Oooomikujiii!!!!」
+76091	Copandon Dott	怒り	「オーーミーークーージーー！！！！」	「Oooomikujiii!!!!」
 
-76092	Yutin Fulz	「あ、ああっ！」	「A-Aah!」
+76092	Yutin Fulz	基本	「あ、ああっ！」	「A-Aah!」
 
-76093	-	奇声を発しながらコパンドンは、	Shouting strangely, Copandon
-76094	+	お神籤箱を天高く放り投げた。	threw the fortune box high into the sky.
+76093	-		奇声を発しながらコパンドンは、	Shouting strangely, Copandon
+76094	+		お神籤箱を天高く放り投げた。	threw the fortune box high into the sky.
 
-76095	Copandon Dott	「はあっ！」	「Hah!」
+76095	Copandon Dott		「はあっ！」	「Hah!」
 
-76096	-	お神籤箱が上空でくるくる三回転する、	The fortune box spun three times in the air,
-76097	+	そのタイミングでコパンドンがジャンプ一番、	and at the perfect moment Copandon jumped,
-76098	+	それを空中キャッチした。	catching it mid-air.
+76096	-		お神籤箱が上空でくるくる三回転する、	The fortune box spun three times in the air,
+76097	+		そのタイミングでコパンドンがジャンプ一番、	and at the perfect moment Copandon jumped,
+76098	+		それを空中キャッチした。	catching it mid-air.
 
-76099	Copandon Dott	「とあーーーっ！」	「Toaaaah!」
+76099	Copandon Dott		「とあーーーっ！」	「Toaaaah!」
 
-76100	-	お神籤箱を地面に叩きつけると、	She slammed the fortune box into the ground,
-76101	+	先端が地面にずぼっと突き刺さった。	its tip stabbing deep into the earth.
+76100	-		お神籤箱を地面に叩きつけると、	She slammed the fortune box into the ground,
+76101	+		先端が地面にずぼっと突き刺さった。	its tip stabbing deep into the earth.
 
-76102	-	　	　
-76103	+	　　＜ボシュ＞	　　＜Pshhh＞
+76102	-		　	　
+76103	+		　　＜ボシュ＞	　　＜Pshhh＞
 
-76104	-	その拍子にお神籤箱から姿を見せたのは、	From inside the box appeared
-76105	+	神籤棒と呼ばれる運勢の書かれた細長い棒だった。	a long fortune stick inscribed with destiny.
+76104	-		その拍子にお神籤箱から姿を見せたのは、	From inside the box appeared
+76105	+		神籤棒と呼ばれる運勢の書かれた細長い棒だった。	a long fortune stick inscribed with destiny.
 
-76106	Copandon Dott	「ふう……」	「Phew...」
+76106	Copandon Dott	ため息	「ふう……」	「Phew...」
 
-76107	Yutin Fulz	「こ、コパンドン様！」	「L-Lady Copandon!」
+76107	Yutin Fulz	基本	「こ、コパンドン様！」	「L-Lady Copandon!」
 
-76108	Yutin Fulz	「――危ない！」	「--Look out!」
+76108	Yutin Fulz		「――危ない！」	「--Look out!」
 
-76109	RedEye	「クケケケケケ！	「Kukekekeke!
-76110	+	　オール・キル・ユゥゥゥーーー！」	　All kill yooouuu!」
+76109	RedEye		「クケケケケケ！	「Kukekekeke!
+76110	+		　オール・キル・ユゥゥゥーーー！」	　All kill yooouuu!」
 
-76111	-	神籤棒を掴んだ瞬間、目の前に現れたのは、	The moment she grabbed the fortune stick, right in front of her appeared
-76112	+	コパンドンのいる位置まで迫っていた	Fiend RedEye, who had closed in on Copandon's position.
-76113	+	魔人レッドアイだった。	
+76111	-		神籤棒を掴んだ瞬間、目の前に現れたのは、	The moment she grabbed the fortune stick, right in front of her appeared
+76112	+		コパンドンのいる位置まで迫っていた	Fiend RedEye, who had closed in on Copandon's position.
+76113	+		魔人レッドアイだった。	
 
-76114	Copandon Dott	「これや……」	「This is it...」
+76114	Copandon Dott	ため息	「これや……」	「This is it...」
 
-76115	Copandon Dott	「運命！　しかと受け止めやーーー！」	「Destiny! Take it straight on-----!」
+76115	Copandon Dott	怒り	「運命！　しかと受け止めやーーー！」	「Destiny! Take it straight on-----!」
 
-76116	-	コパンドンは神籤棒を抜き放ち、	Copandon yanked out the fortune stick
-76117	+	レッドアイの眼前に突きつけた。	and thrust it right in front of RedEye.
+76116	-		コパンドンは神籤棒を抜き放ち、	Copandon yanked out the fortune stick
+76117	+		レッドアイの眼前に突きつけた。	and thrust it right in front of RedEye.
 
-76118	RedEye	「オー……？」	「Oh...?」
+76118	RedEye	基本	「オー……？」	「Oh...?」
 
-76119	RedEye	「これはいったい全体ホワット？	「What the hell is this?
-76120	+	　この貧相な武器はなんですのん？」	　What is this pathetic weapon?」
+76119	RedEye		「これはいったい全体ホワット？	「What the hell is this?
+76120	+		　この貧相な武器はなんですのん？」	　What is this pathetic weapon?」
 
-76121	Copandon Dott	「その先っちょ……	「Read what's written on the tip...
-76122	+	　なんて書かれてるか読んでくれへんかな？」	　can you read it for me?」
+76121	Copandon Dott	ジト目	「その先っちょ……	「Read what's written on the tip...
+76122	+		　なんて書かれてるか読んでくれへんかな？」	　can you read it for me?」
 
-76123	Copandon Dott	「それが……	「That...
-76124	+	　ウチの運命や」	　is my destiny.」
+76123	Copandon Dott		「それが……	「That...
+76124	+		　ウチの運命や」	　is my destiny.」
 
-76125	RedEye	「だ、い……」	「Da... i...」
+76125	RedEye	基本	「だ、い……」	「Da... i...」
 
-76126	Copandon Dott	「…………」	「............」
+76126	Copandon Dott		「…………」	「............」
 
-76127	RedEye	「………………	「..............
-76128	?	きち？」	ki?」
+76127	RedEye		「………………	「..............
+76128	?		きち？」	ki?」
 
-76129	-	　	　
-76130	+	　　＜グラグラグラグラ！！！！＞	　　＜Rumble rumble rumble!!!!＞
+76129	-		　	　
+76130	+		　　＜グラグラグラグラ！！！！＞	　　＜Rumble rumble rumble!!!!＞
 
-76131	-	そのとき、突如大地震が起こった。	Suddenly, a massive earthquake struck.
+76131	-		そのとき、突如大地震が起こった。	Suddenly, a massive earthquake struck.
 
-76132	Copandon Dott	「うっしゃ、来たでーーー！」	「Yes! Here it comes-----!」
+76132	Copandon Dott	強気	「うっしゃ、来たでーーー！」	「Yes! Here it comes-----!」
 
-76133	RedEye	「ほ、ホワーーイ！？	「Wh-What the heck!?」
-76134	+	　これは一体！？」	　What is this!?」
+76133	RedEye	基本	「ほ、ホワーーイ！？	「Wh-What the heck!?」
+76134	+		　これは一体！？」	　What is this!?」
 
-76135	Green Monster Soldier	「うわわわわわわわ！？」	「Uwaaaaaah!?」
+76135	Green Monster Soldier		「うわわわわわわわ！？」	「Uwaaaaaah!?」
 
-76136	-	レッドアイすら立っていられないような大地震に、	The earthquake was so violent even RedEye couldn't stand,
-76137	+	魔軍も人類軍も全員がその場にへたり込んだ。	and both Monster Army and human armies collapsed on the spot.
+76136	-		レッドアイすら立っていられないような大地震に、	The earthquake was so violent even RedEye couldn't stand,
+76137	+		魔軍も人類軍も全員がその場にへたり込んだ。	and both Monster Army and human armies collapsed on the spot.
 
-76138	RedEye	「オー……なんてこったい……」	「Oh... what the hell...」
+76138	RedEye		「オー……なんてこったい……」	「Oh... what the hell...」
 
-76139	-	空を見上げたレッドアイが呟く。	RedEye muttered while looking up at the sky.
+76139	-		空を見上げたレッドアイが呟く。	RedEye muttered while looking up at the sky.
 
-76140	-	　	　
-76141	+	　　＜ズドン！！！！＞	　　＜Zudon!!!!＞
+76140	-		　	　
+76141	+		　　＜ズドン！！！！＞	　　＜Zudon!!!!＞
 
-76142	-	巨大な岩石が、魔人レッドアイを下敷きにした。	A massive boulder crushed Fiend RedEye.
+76142	-		巨大な岩石が、魔人レッドアイを下敷きにした。	A massive boulder crushed Fiend RedEye.
 
-76143	Green Monster Soldier	「ら、落石だーーー！」	「R-Rockslide-----!」
+76143	Green Monster Soldier		「ら、落石だーーー！」	「R-Rockslide-----!」
 
-76144	Houjou Souun	「ぜ、全員、姿勢を低くして頭を守れ！」	「Everyone, crouch low and protect your heads!」
+76144	Houjou Souun		「ぜ、全員、姿勢を低くして頭を守れ！」	「Everyone, crouch low and protect your heads!」
 
-76145	Green Monster Soldier	「うぎゃっ！？」	「Ugyah!?」
+76145	Green Monster Soldier		「うぎゃっ！？」	「Ugyah!?」
 
-76146	Blue Monster Soldier	「ひぃぃ！　なんだこれはァーーー！？」	「Hiii! What the hell is thiiis!?」
+76146	Blue Monster Soldier		「ひぃぃ！　なんだこれはァーーー！？」	「Hiii! What the hell is thiiis!?」
 
-76147	Copandon Dott	「はっはっはっー！　どんなもんやー！」	「Hah hah hah! How do you like that!」
+76147	Copandon Dott	強気	「はっはっはっー！　どんなもんやー！」	「Hah hah hah! How do you like that!」
 
-76148	-	大量の落石がまるで雨のように降り注ぐ中、	Amid a downpour of countless falling rocks like rain,
-76149	+	コパンドンはただ一人悠々とレッドアイに向けて	Copandon alone calmly walked straight toward RedEye.
-76150	+	歩を進めていく。	
+76148	-		大量の落石がまるで雨のように降り注ぐ中、	Amid a downpour of countless falling rocks like rain,
+76149	+		コパンドンはただ一人悠々とレッドアイに向けて	Copandon alone calmly walked straight toward RedEye.
+76150	+		歩を進めていく。	
 
-76151	Yutin Fulz	「ここ、コパンドン様！	「Lady Copandon!
-76152	+	　危ないので避難！　避難してー！」	　It's dangerous, take cover! Take cover!」
+76151	Yutin Fulz	基本	「ここ、コパンドン様！	「Lady Copandon!
+76152	+		　危ないので避難！　避難してー！」	　It's dangerous, take cover! Take cover!」
 
-76153	Copandon Dott	「はーはっはっはっ！	「Hah hah hah!
-76154	+	　もう火山が噴火したって死ぬかいな！」	　Even if a volcano erupts I won't die!」
+76153	Copandon Dott	強気	「はーはっはっはっ！	「Hah hah hah!
+76154	+		　もう火山が噴火したって死ぬかいな！」	　Even if a volcano erupts I won't die!」
 
-76155	-	コパンドンの言う通り、	Just as Copandon said,
-76156	+	落石は彼女の体をすり抜けるように、	the falling rocks passed right through her body,
-76157	+	一つも当たらない。	not a single one hitting her.
+76155	-		コパンドンの言う通り、	Just as Copandon said,
+76156	+		落石は彼女の体をすり抜けるように、	the falling rocks passed right through her body,
+76157	+		一つも当たらない。	not a single one hitting her.
 
-76158	-	正確には、落石が降り注ぐのは魔軍のみにであり、	To be precise, the rockslide only rained down on the Monster Army,
-76159	+	『偶然』にも、その場にいる人間には誰一人、	and by 'coincidence' not a single human present
-76160	+	小石一つもぶつかってはいなかった。	was struck by even a pebble.
+76158	-		正確には、落石が降り注ぐのは魔軍のみにであり、	To be precise, the rockslide only rained down on the Monster Army,
+76159	+		『偶然』にも、その場にいる人間には誰一人、	and by 'coincidence' not a single human present
+76160	+		小石一つもぶつかってはいなかった。	was struck by even a pebble.
 
-76161	RedEye	「ぐうっ！　な、なにをした！？	「Guuh! W-What did you do!?
-76162	+	　どんなマジックを使ったー！？」	　What kind of magic was that!?」
+76161	RedEye	基本	「ぐうっ！　な、なにをした！？	「Guuh! W-What did you do!?
+76162	+		　どんなマジックを使ったー！？」	　What kind of magic was that!?」
 
-76163	-	　	　
-76164	+	　　＜ゴオオオッ！＞	　　＜Goooooh!＞
+76163	-		　	　
+76164	+		　　＜ゴオオオッ！＞	　　＜Goooooh!＞
 
-76165	RedEye	「ホワイ！？！？！？」	「Why!?!?!?」
+76165	RedEye		「ホワイ！？！？！？」	「Why!?!?!?」
 
-76166	-	そのとき、『偶然』にも超強力な突風が巻き起こり、	At that moment, by 'coincidence' an extremely powerful gust of wind arose,
-76167	+	『偶然』にも魔人レッドアイの体だけを	and by 'coincidence' only lifted Fiend RedEye's body
-76168	+	空中へと持ち上げた。	up into the air.
+76166	-		そのとき、『偶然』にも超強力な突風が巻き起こり、	At that moment, by 'coincidence' an extremely powerful gust of wind arose,
+76167	+		『偶然』にも魔人レッドアイの体だけを	and by 'coincidence' only lifted Fiend RedEye's body
+76168	+		空中へと持ち上げた。	up into the air.
 
-76169	Copandon Dott	「はぁー、なるほど、こうなるんや」	「Haa, I see, so that's how it works.」
+76169	Copandon Dott	驚き	「はぁー、なるほど、こうなるんや」	「Haa, I see, so that's how it works.」
 
-76170	Copandon Dott	「ほな、スタートに戻って最初からや」	「Well then, back to the start.」
+76170	Copandon Dott	笑い	「ほな、スタートに戻って最初からや」	「Well then, back to the start.」
 
-76171	RedEye	「ノォォーーーー！？」	「Noooooooo!?」
+76171	RedEye	基本	「ノォォーーーー！？」	「Noooooooo!?」
 
-76172	-	空中に投げ出されて尚、	Even after being thrown into the air,
-76173	+	『偶然』にも超強力な突風は止まず、	by 'coincidence' the powerful gust didn't stop,
-76174	+	魔人レッドアイの体を運び続ける。	and kept carrying Fiend RedEye higher.
+76172	-		空中に投げ出されて尚、	Even after being thrown into the air,
+76173	+		『偶然』にも超強力な突風は止まず、	by 'coincidence' the powerful gust didn't stop,
+76174	+		魔人レッドアイの体を運び続ける。	and kept carrying Fiend RedEye higher.
 
-76175	-	グングン、グングン、グングンと	Higher and higher,
-76176	+	空高くまで放り上げられ、レッドアイの目からは	RedEye's figure became as small as a bean
-76177	+	コパンドンの体は豆粒ほどになっていた。	from Copandon's view.
+76175	-		グングン、グングン、グングンと	Higher and higher,
+76176	+		空高くまで放り上げられ、レッドアイの目からは	RedEye's figure became as small as a bean
+76177	+		コパンドンの体は豆粒ほどになっていた。	from Copandon's view.
 
-76178	RedEye	「ファーック！	「Fuuuuck!
-76179	+	　ファックファックファーーーック！」	　Fuck fuck fuuuuuck!」
+76178	RedEye		「ファーック！	「Fuuuuck!
+76179	+		　ファックファックファーーーック！」	　Fuck fuck fuuuuuck!」
 
-76180	RedEye	「こんな『偶然』があるものかーーーッ！」	「There's no way this 'coincidence' is real-----!」
+76180	RedEye		「こんな『偶然』があるものかーーーッ！」	「There's no way this 'coincidence' is real-----!」
 
-76181	RedEye	「アイル・ビー・バァァァーーーック！」	「I'll be baaaaack!」
+76181	RedEye		「アイル・ビー・バァァァーーーック！」	「I'll be baaaaack!」
 
-76182	-	そのままレッドアイの姿は青空の中に消えた。	And with that, RedEye's figure vanished into the blue sky.
+76182	-		そのままレッドアイの姿は青空の中に消えた。	And with that, RedEye's figure vanished into the blue sky.
 
-76183	Copandon Dott	「はっはっはっ！	「Hah hah hah!
-76184	+	　『偶然』やのうて『運命』や！」	　This wasn't 'coincidence', it was 'destiny'!」
+76183	Copandon Dott	強気	「はっはっはっ！	「Hah hah hah!
+76184	+		　『偶然』やのうて『運命』や！」	　This wasn't 'coincidence', it was 'destiny'!」
 
-76185	Houjou Souun	「い、いったい……これは……」	「W-What on earth... is this...」
+76185	Houjou Souun	基本	「い、いったい……これは……」	「W-What on earth... is this...」
 
-76186	-	レッドアイが吹き飛ばされた頃、	By the time RedEye was blown away,
-76187	+	魔物兵は落石で死ぬか突風で吹き飛ばされるかをし、	the monster soldiers were either crushed by rocks or blown away by the wind,
-76188	+	その場は綺麗に人間以外は掃除されてしまっていた。	and the area was cleanly cleared of everything except humans.
+76186	-		レッドアイが吹き飛ばされた頃、	By the time RedEye was blown away,
+76187	+		魔物兵は落石で死ぬか突風で吹き飛ばされるかをし、	the monster soldiers were either crushed by rocks or blown away by the wind,
+76188	+		その場は綺麗に人間以外は掃除されてしまっていた。	and the area was cleanly cleared of everything except humans.
 
-76189	Copandon Dott	「しっかし、これえげつなぁー」	「Man, that was brutal.」
+76189	Copandon Dott		「しっかし、これえげつなぁー」	「Man, that was brutal.」
 
-76190	Copandon Dott	「……あと三回くらいつこたら	「...If I use it two or three more times
-76191	+	　労せず勝てるんちゃうか？」	　we could win without any effort, right?」
+76190	Copandon Dott	ジト目	「……あと三回くらいつこたら	「...If I use it two or three more times
+76191	+		　労せず勝てるんちゃうか？」	　we could win without any effort, right?」
 
-76192	Yutin Fulz	「駄目ーーッ！	「Nooooo!
-76193	+	　絶対に駄目ですーーーッ！」	　Absolutely not!」
+76192	Yutin Fulz	心配	「駄目ーーッ！	「Nooooo!
+76193	+		　絶対に駄目ですーーーッ！」	　Absolutely not!」
 
-76194	-	涙目でユーティンがお神籤箱を取り上げた。	With teary eyes, Yutin snatched the fortune box away.
+76194	-		涙目でユーティンがお神籤箱を取り上げた。	With teary eyes, Yutin snatched the fortune box away.
 
-76195	Copandon Dott	「冗談やって……	「Just kidding...
-76196	+	　一回つこただけで腰抜かしてもうた。	　One use was enough to scare me half to death.
-76197	+	　もう使う気になんかならへんよ」	　I don't want to use it again.」
+76195	Copandon Dott	笑い	「冗談やって……	「Just kidding...
+76196	+		　一回つこただけで腰抜かしてもうた。	　One use was enough to scare me half to death.
+76197	+		　もう使う気になんかならへんよ」	　I don't want to use it again.」
 
-76198	Copandon Dott	「さって、もうウチらに出来ることはあらへん。	「Well then, there's nothing more we can do here.
-76199	+	　尻尾巻いて城に戻るで」	　Let's tuck our tails and head back to the castle.」
+76198	Copandon Dott	基本	「さって、もうウチらに出来ることはあらへん。	「Well then, there's nothing more we can do here.
+76199	+		　尻尾巻いて城に戻るで」	　Let's tuck our tails and head back to the castle.」
 
-76200	Yutin Fulz	「あ、はいはい」	「Ah, yes yes.」
+76200	Yutin Fulz		「あ、はいはい」	「Ah, yes yes.」
 
-76201	-	コパンドンがユーティンに	Copandon leaned on Yutin
-76202	+	肩を借りてヨタヨタと戻っていく。	and the two staggered back together.
+76201	-		コパンドンがユーティンに	Copandon leaned on Yutin
+76202	+		肩を借りてヨタヨタと戻っていく。	and the two staggered back together.
 
-76203	Copandon Dott	「あいつ死んだかなーと思いたいが……	「I want to believe that guy died, but...
-76204	+	　魔人やし、死なんわな」	　he's a Fiend, so of course he didn't.」
+76203	Copandon Dott	ジト目	「あいつ死んだかなーと思いたいが……	「I want to believe that guy died, but...
+76204	+		　魔人やし、死なんわな」	　he's a Fiend, so of course he didn't.」
 
-76205	Copandon Dott	「ま、時間は稼げたしええやろ」	「Well, we bought some time, so that's good enough.」
+76205	Copandon Dott	基本	「ま、時間は稼げたしええやろ」	「Well, we bought some time, so that's good enough.」
 
-76206	Yutin Fulz	「う……」	「U...」
+76206	Yutin Fulz	驚き	「う……」	「U...」
 
-76207	Yutin Fulz	「確かに、それは、そうですが……	「That's true, but...
-76208	+	　それではなんの解決にも……」	　that doesn't solve anything...」
+76207	Yutin Fulz		「確かに、それは、そうですが……	「That's true, but...
+76208	+		　それではなんの解決にも……」	　that doesn't solve anything...」
 
-76209	Copandon Dott	「ウチらのやるべき仕事はやった」	「We did our job.」
+76209	Copandon Dott	基本	「ウチらのやるべき仕事はやった」	「We did our job.」
 
-76210	Copandon Dott	「後はランスに任せよやないか」	「The rest is up to Rance.」
+76210	Copandon Dott		「後はランスに任せよやないか」	「The rest is up to Rance.」
 
-76211	Yutin Fulz	「ら、ランス様にですか？	「To Lord Rance?
-76212	+	　今、魔人討伐隊の皆さんが捜していますが……	　Right now the Fiend Extermination Squad is searching for him, but...
-76213	+	　行方不明のままなのに……」	　he's still missing...」
+76211	Yutin Fulz	驚き	「ら、ランス様にですか？	「To Lord Rance?
+76212	+		　今、魔人討伐隊の皆さんが捜していますが……	　Right now the Fiend Extermination Squad is searching for him, but...
+76213	+		　行方不明のままなのに……」	　he's still missing...」
 
-76214	Copandon Dott	「大吉君がそう簡単に死ぬかいな」	「There's no way that great blessing guy dies so easily.」
+76214	Copandon Dott	基本	「大吉君がそう簡単に死ぬかいな」	「There's no way that great blessing guy dies so easily.」
 
-76215	Copandon Dott	「帰ってくる。	「He'll come back.
-76216	+	　ウチはそう信じてる」	　I believe that.」
+76215	Copandon Dott		「帰ってくる。	「He'll come back.
+76216	+		　ウチはそう信じてる」	　I believe that.」
 
-76217	Yutin Fulz	「どうして……	「Why...
-76218	+	　そこまで信じられるんですか？」	　do you believe in him so much?」
+76217	Yutin Fulz	驚き	「どうして……	「Why...
+76218	+		　そこまで信じられるんですか？」	　do you believe in him so much?」
 
-76219	Copandon Dott	「信じるだけならタダやから」	「Believing is free.」
+76219	Copandon Dott	笑い	「信じるだけならタダやから」	「Believing is free.」
 
-76220	-	サラリとコパンドンは言った。	Copandon said casually.
+76220	-		サラリとコパンドンは言った。	Copandon said casually.

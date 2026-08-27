@@ -5,78 +5,78 @@
 * Heidi Pankrau	ハイジ	Female
 * Rance Castle Knight	汎用ランス城騎士	Female
 
-9746	Anise Sawatari	「こんちにはですー」	「Hello there~」
+9746	Anise Sawatari	基本	「こんちにはですー」	「Hello there~」
 
-9747	Rance	「ひっ……」	「Hii......」
+9747	Rance	驚き	「ひっ……」	「Hii......」
 
-9748	Rance	「アニスが出たぞーーーーーーー！！」	「Anise appearedーーーーー!!」
+9748	Rance	怒り	「アニスが出たぞーーーーーーー！！」	「Anise appearedーーーーー!!」
 
-9749	-	その一言で、周囲の人間は素早く後ろに下がった。	At those words, everyone around quickly stepped back.
+9749	-		その一言で、周囲の人間は素早く後ろに下がった。	At those words, everyone around quickly stepped back.
 
-9750	Anise Sawatari	「おやおや？　どうかしましたか？」	「Oh my? Did something happen?」
+9750	Anise Sawatari	基本	「おやおや？　どうかしましたか？」	「Oh my? Did something happen?」
 
-9751	Rance	「近寄るな、へっぽこ味方殺し！	「Don't come near, you clumsy ally-killer!
-9752	+	　今、ハニーもゴブリンも切らしとるのだ！」	　We're out of Hanny and Goblins right now!」
+9751	Rance	怒り	「近寄るな、へっぽこ味方殺し！	「Don't come near, you clumsy ally-killer!
+9752	+		　今、ハニーもゴブリンも切らしとるのだ！」	　We're out of Hanny and Goblins right now!」
 
-9753	Anise Sawatari	「しっつれーなー。大丈夫ですよ。	「How rude~. It'll be fine.
-9754	+	　アニス、きちんと戦います。	　Anise will fight properly.
-9755	+	　魔物、やっつけますよー」	　I'll take care of the monsters~」
+9753	Anise Sawatari	基本	「しっつれーなー。大丈夫ですよ。	「How rude~. It'll be fine.
+9754	+		　アニス、きちんと戦います。	　Anise will fight properly.
+9755	+		　魔物、やっつけますよー」	　I'll take care of the monsters~」
 
-9756	Rance	「信じられるか！	「Like I can believe that!
-9757	+	　というか、お前の言葉は信じるも何もない！	　Your words aren't trustworthy at all!
-9758	+	　味方もやっつけるだろうが！」	　You'll end up killing allies too!」
+9756	Rance	怒り	「信じられるか！	「Like I can believe that!
+9757	+		　というか、お前の言葉は信じるも何もない！	　Your words aren't trustworthy at all!
+9758	+		　味方もやっつけるだろうが！」	　You'll end up killing allies too!」
 
-9759	Oda Kouhime	「あのう、どういう騒ぎで……」	「Um, what's all this commotion......」
+9759	Oda Kouhime	基本	「あのう、どういう騒ぎで……」	「Um, what's all this commotion......」
 
-9760	Rance	「香ちゃん！　そいつに近寄るな！　アニスだぞ！」	「Kou-chan! Don't get close to her! That's Anise!」
+9760	Rance	驚き	「香ちゃん！　そいつに近寄るな！　アニスだぞ！」	「Kou-chan! Don't get close to her! That's Anise!」
 
-9761	Oda Kouhime	「はい、アニス・沢渡さんですね？	「Yes, Anise Sawatari, right?
-9762	+	　高名な、LV3の魔法使いさん……」	　The famous LV3 mage......」
+9761	Oda Kouhime	基本	「はい、アニス・沢渡さんですね？	「Yes, Anise Sawatari, right?
+9762	+		　高名な、LV3の魔法使いさん……」	　The famous LV3 mage......」
 
-9763	Anise Sawatari	「はい！　アニス、頑張りますよ！」	「Yes! Anise will do her best!」
+9763	Anise Sawatari		「はい！　アニス、頑張りますよ！」	「Yes! Anise will do her best!」
 
-9764	Oda Kouhime	「JAPANの織田香と申します。	「I am Oda Kou from JAPAN.
-9765	+	　よろしくお願いしますね」	　Nice to meet you.」
+9764	Oda Kouhime		「JAPANの織田香と申します。	「I am Oda Kou from JAPAN.
+9765	+		　よろしくお願いしますね」	　Nice to meet you.」
 
-9766	-	二人はにこやかに、握手しようと近づいた。	The two smiled and approached each other for a handshake.
+9766	-		二人はにこやかに、握手しようと近づいた。	The two smiled and approached each other for a handshake.
 
-9767	Anise Sawatari	「あっ、毛虫発見。	「Ah, caterpillar found.
-9768	+	　ファイヤーレーザーーーーーー」	　Fire Laserーーーーー」
+9767	Anise Sawatari	魔力貯め	「あっ、毛虫発見。	「Ah, caterpillar found.
+9768	+		　ファイヤーレーザーーーーーー」	　Fire Laserーーーーー」
 
-9769	Oda Kouhime	「へっ？」	「Heh?」
+9769	Oda Kouhime	焦り	「へっ？」	「Heh?」
 
-9770	-	アニスはためらいなく、目の前に向かって	Without hesitation, Anise fired
-9771	+	攻撃魔法を撃ち込んだ。	her attack magic right in front of her.
+9770	-		アニスはためらいなく、目の前に向かって	Without hesitation, Anise fired
+9771	+		攻撃魔法を撃ち込んだ。	her attack magic right in front of her.
 
-9772	Rance	「ええい、伏せろ香ちゃん！」	「Damn it, duck Kou-chan!」
+9772	Rance	怒り	「ええい、伏せろ香ちゃん！」	「Damn it, duck Kou-chan!」
 
-9773	Heidi Pankrau	「きゃーーーーーー！　何々！？」	「Kyaaaーーー! What what!?」
+9773	Heidi Pankrau	ビクゥ！	「きゃーーーーーー！　何々！？」	「Kyaaaーーー! What what!?」
 
-9774	Rance Castle Knight	「て、敵襲！？」	「E-enemy attack!?」
+9774	Rance Castle Knight	基本	「て、敵襲！？」	「E-enemy attack!?」
 
-9775	Rance	「はあ、はあ、あぶねぇ……」	「Haa, haa, that was close......」
+9775	Rance	驚き	「はあ、はあ、あぶねぇ……」	「Haa, haa, that was close......」
 
-9776	Oda Kouhime	「び、びっくりしました……」	「I-I was so surprised......」
+9776	Oda Kouhime	焦り	「び、びっくりしました……」	「I-I was so surprised......」
 
-9777	-	とっさのところで、	At the last moment,
-9778	+	ランスは香姫をダイビングキャーッチ。	Rance did a diving catch on Kouhime.
+9777	-		とっさのところで、	At the last moment,
+9778	+		ランスは香姫をダイビングキャーッチ。	Rance did a diving catch on Kouhime.
 
-9779	Anise Sawatari	「当たったかな……	「Did I hit it......
-9780	+	　毛虫、見えなくなっちゃいました」	　The caterpillar disappeared.」
+9779	Anise Sawatari	基本	「当たったかな……	「Did I hit it......
+9780	+		　毛虫、見えなくなっちゃいました」	　The caterpillar disappeared.」
 
-9781	Rance	「壁3枚ぶち抜いて、言うことがそれか……」	「She blew through three walls and that's what she says......」
+9781	Rance	イライラ	「壁3枚ぶち抜いて、言うことがそれか……」	「She blew through three walls and that's what she says......」
 
-9782	Anise Sawatari	「念のため、火爆破しときましょうか」	「Just in case, should I do a fire explosion?」
+9782	Anise Sawatari	基本	「念のため、火爆破しときましょうか」	「Just in case, should I do a fire explosion?」
 
-9783	Rance	「ア、ッ………………」	「A-......」
+9783	Rance	イライラ	「ア、ッ………………」	「A-......」
 
-9784	Rance	「アホかーーーーーーーーーーーー！！」	「You idiotーーーーーーーーーーー!!」
+9784	Rance	怒り	「アホかーーーーーーーーーーーー！！」	「You idiotーーーーーーーーーーー!!」
 
-9785	-	アニスはぽーいと放り捨てられた。	Anise was tossed aside.
+9785	-		アニスはぽーいと放り捨てられた。	Anise was tossed aside.
 
-9786	Anise Sawatari	「あれあれ？　もしもーし。開けてくださーい」	「Hello? Hellooo. Please open up~」
+9786	Anise Sawatari	基本	「あれあれ？　もしもーし。開けてくださーい」	「Hello? Hellooo. Please open up~」
 
-9787	Rance	「やかましい！　魔力が空っぽになってから	「Shut up! Come back after your magic power is empty!
-9788	+	　出直してこい！」	　Then try again!」
+9787	Rance	怒り	「やかましい！　魔力が空っぽになってから	「Shut up! Come back after your magic power is empty!
+9788	+		　出直してこい！」	　Then try again!」
 
-9789	-	アニスがやってきた。	Anise had arrived.
+9789	-		アニスがやってきた。	Anise had arrived.

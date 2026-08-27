@@ -4,75 +4,75 @@
 * Black Lotus	ブラックロータス	Male
 * Bezeleye	ベゼルアイ	Female
 
-15323	Sill Plain	「ランス様。最近魔人討伐隊に編入された方が、	「Rance-sama. The person recently assigned to the Fiend Extermination Squad
-15324	+	　元魔法犯罪者の方だそうで……	　was apparently a former magic criminal......
-15325	+	　念の為に注意をとマジックさんから報告が……」	　Magic asked us to be careful just in case......」
+15323	Sill Plain	考え中	「ランス様。最近魔人討伐隊に編入された方が、	「Rance-sama. The person recently assigned to the Fiend Extermination Squad
+15324	+		　元魔法犯罪者の方だそうで……	　was apparently a former magic criminal......
+15325	+		　念の為に注意をとマジックさんから報告が……」	　Magic asked us to be careful just in case......」
 
-15326	Rance	「…………ほう」	「............Hmm.」
+15326	Rance	基本	「…………ほう」	「............Hmm.」
 
-15327	Rance	「というわけで一応、	「So just in case,
-15328	+	　ツラでも拝んでおくかと思ったが……」	　I thought I'd at least see his face but......」
+15327	Rance	真剣	「というわけで一応、	「So just in case,
+15328	+		　ツラでも拝んでおくかと思ったが……」	　I thought I'd at least see his face but......」
 
-15329	Rance	「……なんか、普通というか……」	「......He seems pretty normal......」
+15329	Rance	だる顔	「……なんか、普通というか……」	「......He seems pretty normal......」
 
-15330	Black Lotus	「ブラックロータスとお呼び下さい。	「Please call me Black Lotus.
-15331	+	　いかような作戦にも、力を尽くさせて頂きます」	　I will devote myself to any operation.」
+15330	Black Lotus	基本	「ブラックロータスとお呼び下さい。	「Please call me Black Lotus.
+15331	+		　いかような作戦にも、力を尽くさせて頂きます」	　I will devote myself to any operation.」
 
-15332	Sill Plain	「ずいぶん真面目な方みたいですね……」	「He seems quite serious......」
+15332	Sill Plain	きょとん	「ずいぶん真面目な方みたいですね……」	「He seems quite serious......」
 
-15333	Black Lotus	「仕えるべき方を前にすれば、	「It is natural to tighten one's attitude
-15334	+	　態度が引き締まるのは当然です」	　before the one I should serve.」
+15333	Black Lotus	基本	「仕えるべき方を前にすれば、	「It is natural to tighten one's attitude
+15334	+		　態度が引き締まるのは当然です」	　before the one I should serve.」
 
-15335	Rance	「ほほう、俺様か。	「Heh, me huh.
-15336	+	　男に仕えられても嬉しくはないが、	　Not thrilled about a man serving me,
-15337	+	　精々コキ使ってくれよう」	　but I'll work you hard.」
+15335	Rance		「ほほう、俺様か。	「Heh, me huh.
+15336	+		　男に仕えられても嬉しくはないが、	　Not thrilled about a man serving me,
+15337	+		　精々コキ使ってくれよう」	　but I'll work you hard.」
 
-15338	Black Lotus	「はい。	「Yes.
-15339	+	　まさか、人類の頂点に、魔人の使徒の方が	　I never imagined a Fiend's apostle
-15340	+	　就かれることになるとは……」	　would stand at the top of humanity......」
+15338	Black Lotus		「はい。	「Yes.
+15339	+		　まさか、人類の頂点に、魔人の使徒の方が	　I never imagined a Fiend's apostle
+15340	+		　就かれることになるとは……」	　would stand at the top of humanity......」
 
-15341	Rance	「…………ん？」	「............Nn?」
+15341	Rance	だる顔	「…………ん？」	「............Nn?」
 
-15342	Black Lotus	「人間だった頃と比べて、いかがですか？	「How does it compare to when you were human?
-15343	+	　やはり強くなられた？	　Have you become stronger?
-15344	+	　できなかった事ができるようになったとかは……」	　Can you do things you couldn't before......?」
+15342	Black Lotus	基本	「人間だった頃と比べて、いかがですか？	「How does it compare to when you were human?
+15343	+		　やはり強くなられた？	　Have you become stronger?
+15344	+		　できなかった事ができるようになったとかは……」	　Can you do things you couldn't before......?」
 
-15345	Rance	「なっ、なんだこら！　詰め寄ってくるな！」	「Wha一 what the hell! Don't crowd me!」
+15345	Rance	怒り	「なっ、なんだこら！　詰め寄ってくるな！」	「Wha一 what the hell! Don't crowd me!」
 
-15346	Black Lotus	「っと、失礼を。	「Ah, excuse me.
-15347	+	　研究に関連することに関しては、つい……」	　When it comes to research, I get carried away......」
+15346	Black Lotus	基本	「っと、失礼を。	「Ah, excuse me.
+15347	+		　研究に関連することに関しては、つい……」	　When it comes to research, I get carried away......」
 
-15348	Sill Plain	「研究？」	「Research?」
+15348	Sill Plain	考え中	「研究？」	「Research?」
 
-15349	Rance	「ってか、俺はまだ人間だぞ。	「By the way, I'm still human.
-15350	+	　サテラのことを聞きつけてきたなら、	　If you heard about Satella,
-15351	+	　ありゃただの空手形だ」	　that's just an empty title.」
+15349	Rance	真剣	「ってか、俺はまだ人間だぞ。	「By the way, I'm still human.
+15350	+		　サテラのことを聞きつけてきたなら、	　If you heard about Satella,
+15351	+		　ありゃただの空手形だ」	　that's just an empty title.」
 
-15352	Black Lotus	「えっ」	「Eh」
+15352	Black Lotus	基本	「えっ」	「Eh」
 
-15353	-	ブラックロータスの動きが、固まった。	Black Lotus froze.
+15353	-		ブラックロータスの動きが、固まった。	Black Lotus froze.
 
-15354	Black Lotus	「…………つまり。	「............In other words.
-15355	+	　まだただの………………人間？」	　You're still just a...... human?」
+15354	Black Lotus		「…………つまり。	「............In other words.
+15355	+		　まだただの………………人間？」	　You're still just a...... human?」
 
-15356	Rance	「おう。当たり前だ」	「Yeah. Obviously.」
+15356	Rance		「おう。当たり前だ」	「Yeah. Obviously.」
 
-15357	Sill Plain	「ああっ、大丈夫ですか！」	「Ah, are you okay!」
+15357	Sill Plain	慌て	「ああっ、大丈夫ですか！」	「Ah, are you okay!」
 
-15358	Black Lotus	「やる気が無くなりました」	「I've lost all motivation.」
+15358	Black Lotus	基本	「やる気が無くなりました」	「I've lost all motivation.」
 
-15359	Sill Plain	「え、えぇっ！？　いきなり！」	「E-ehh!? So suddenly!」
+15359	Sill Plain	ぽか〜ん	「え、えぇっ！？　いきなり！」	「E-ehh!? So suddenly!」
 
-15360	Rance	「めんどくさい……蹴り出すかこいつ……」	「Annoying...... Should I kick him out......」
+15360	Rance	だる顔	「めんどくさい……蹴り出すかこいつ……」	「Annoying...... Should I kick him out......」
 
-15361	Bezeleye	「ランスくん、なんだか騒がしいけど……」	「Rance-kun, it's noisy......」
+15361	Bezeleye	基本	「ランスくん、なんだか騒がしいけど……」	「Rance-kun, it's noisy......」
 
-15362	Black Lotus	「ああっ、聖女モンスター！？	「Aah, the Holy Gal Monster!?
-15363	+	　異形の命を量産する神！」	　The god that mass-produces grotesque life!」
+15362	Black Lotus		「ああっ、聖女モンスター！？	「Aah, the Holy Gal Monster!?
+15363	+		　異形の命を量産する神！」	　The god that mass-produces grotesque life!」
 
-15364	-	ブラックロータスは倒れた態勢のまま、	Black Lotus rolled over in his fallen position
-15365	+	ベゼルアイの足元に転がり込んだ。	and ended up at Bezeleye's feet.
+15364	-		ブラックロータスは倒れた態勢のまま、	Black Lotus rolled over in his fallen position
+15365	+		ベゼルアイの足元に転がり込んだ。	and ended up at Bezeleye's feet.
 
-15366	Bezeleye	「…………何これ。踏めばいいの？」	「............What is this. Should I step on him?」
+15366	Bezeleye		「…………何これ。踏めばいいの？」	「............What is this. Should I step on him?」
 
-15367	Rance	「頭を踏み抜いていいぞ」	「You can crush his head.」
+15367	Rance	真剣	「頭を踏み抜いていいぞ」	「You can crush his head.」

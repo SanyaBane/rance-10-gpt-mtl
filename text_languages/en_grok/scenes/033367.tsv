@@ -12,284 +12,284 @@
 * Masou Shizuka	志津香２	Female
 * Zance Leazas	ザンス２	Male
 
-231553	-	それは他の人のテントに比べると、	It was the largest tent compared to the others.
-231554	+	一番大きなテントだった。	
+231553	-		それは他の人のテントに比べると、	It was the largest tent compared to the others.
+231554	+		一番大きなテントだった。	
 
-231555	-	あなたはミックスのテント、もとい、	You were sleeping in Mix's tent, or rather,
-231556	+	ミックスの医療用テントの中で寝ていた。	her medical tent.
+231555	-		あなたはミックスのテント、もとい、	You were sleeping in Mix's tent, or rather,
+231556	+		ミックスの医療用テントの中で寝ていた。	her medical tent.
 
-231557	-	どうやら、あなたは仲間達に助け出され、	It seemed your companions had rescued you
-231558	+	治療を受けていたらしい。	and given you treatment.
+231557	-		どうやら、あなたは仲間達に助け出され、	It seemed your companions had rescued you
+231558	+		治療を受けていたらしい。	and given you treatment.
 
-231559	Mix Tou	「おはよう」	「Good morning.」
+231559	Mix Tou	基本	「おはよう」	「Good morning.」
 
-231560	Mix Tou	「ようやく起きたようね……	「You finally woke up...
-231561	+	　まったく、いつまでもぐーぐーと」	　Good grief, sleeping forever like that
+231560	Mix Tou	我関せず	「ようやく起きたようね……	「You finally woke up...
+231561	+		　まったく、いつまでもぐーぐーと」	　Good grief, sleeping forever like that
 
-231562	El Mofus	「…………。」	「............」
+231562	El Mofus	基本	「…………。」	「............」
 
-231563	Mix Tou	「体に違和感はある？　痛みは？」	「Do you feel anything strange in your body? Any pain?」
+231563	Mix Tou		「体に違和感はある？　痛みは？」	「Do you feel anything strange in your body? Any pain?」
 
-231564	El Mofus	「…………。」	「............」
+231564	El Mofus		「…………。」	「............」
 
-231565	Mix Tou	「体に違和感か痛みは！？	「Any discomfort or pain!?」
-231566	+	　とっとと答えなさい、イライラさせないで」	　Answer quickly, don't irritate me
+231565	Mix Tou	イラッ	「体に違和感か痛みは！？	「Any discomfort or pain!?」
+231566	+		　とっとと答えなさい、イライラさせないで」	　Answer quickly, don't irritate me
 
-231567	-	あなたはどちらもないと伝えた。	You told her you had neither.
+231567	-		あなたはどちらもないと伝えた。	You told her you had neither.
 
-231568	Mix Tou	「あ、そ」	「Oh, okay.」
+231568	Mix Tou	基本	「あ、そ」	「Oh, okay.」
 
-231569	Mix Tou	「体が凍傷になりかけてたけど、	「Your body was close to frostbite,
-231570	+	　大きな怪我なし、後遺症もなし。	　but no major injuries and no aftereffects.
-231571	+	　ついでに病気もなし」	　No illness either.」
+231569	Mix Tou		「体が凍傷になりかけてたけど、	「Your body was close to frostbite,
+231570	+		　大きな怪我なし、後遺症もなし。	　but no major injuries and no aftereffects.
+231571	+		　ついでに病気もなし」	　No illness either.」
 
-231572	Mix Tou	「見つけられたのが奇跡的なら、	「Finding you was a miracle,
-231573	+	　それ以外も奇跡的ね」	　and everything else was miraculous too.」
+231572	Mix Tou		「見つけられたのが奇跡的なら、	「Finding you was a miracle,
+231573	+		　それ以外も奇跡的ね」	　and everything else was miraculous too.」
 
-231574	Mix Tou	「運がいいのね」	「You're lucky.」
+231574	Mix Tou		「運がいいのね」	「You're lucky.」
 
-231575	Mix Tou	「……悪運かしら」	「...Or bad luck, perhaps.」
+231575	Mix Tou	我関せず	「……悪運かしら」	「...Or bad luck, perhaps.」
 
-231576	El Mofus	「…………。」	「............」
-231577	Mix Tou	「他に治す人いないでしょ」	「There aren't any other patients anyway.」
+231576	El Mofus	基本	「…………。」	「............」
+231577	Mix Tou		「他に治す人いないでしょ」	「There aren't any other patients anyway.」
 
-231578	Mix Tou	「大変だったんだからね。	「It was a lot of work.
-231579	+	　洞窟の中で応急処置して、	　First aid in the cave,
-231580	+	　ここまで運んでまた治療して」	　carrying you here, then treating you again.」
+231578	Mix Tou	呆れ	「大変だったんだからね。	「It was a lot of work.
+231579	+		　洞窟の中で応急処置して、	　First aid in the cave,
+231580	+		　ここまで運んでまた治療して」	　carrying you here, then treating you again.」
 
-231581	Mix Tou	「これに懲りたら、	「If you learned your lesson,
-231582	+	　次からは手を煩わせないで」	　don't make me go through this next time.」
+231581	Mix Tou	基本	「これに懲りたら、	「If you learned your lesson,
+231582	+		　次からは手を煩わせないで」	　don't make me go through this next time.」
 
-231583	Mix Tou	「別に」	「Whatever.」
+231583	Mix Tou		「別に」	「Whatever.」
 
-231584	Mix Tou	「私は私の仕事をしただけよ」	「I just did my job.」
+231584	Mix Tou		「私は私の仕事をしただけよ」	「I just did my job.」
 
-231585	-	ミックスは手元のカルテに何か書き込みながら、	Mix said this indifferently
-231586	+	本当にどうでもよさそうに言った。	while writing something on the chart in her hand.
+231585	-		ミックスは手元のカルテに何か書き込みながら、	Mix said this indifferently
+231586	+		本当にどうでもよさそうに言った。	while writing something on the chart in her hand.
 
-231587	Mix Tou	「おい、こら」	「Hey, you.」
+231587	Mix Tou	イラッ	「おい、こら」	「Hey, you.」
 
-231588	-	あなたはギロリと睨まれてしまった。	You were glared at fiercely.
+231588	-		あなたはギロリと睨まれてしまった。	You were glared at fiercely.
 
-231589	Mix Tou	「とりあえず今日一日は絶対安静ね。	「For today, complete rest is mandatory.
-231590	+	　体力が回復するのを待ちなさい」	　Wait until your stamina recovers.」
-231591	+	「…………」	「............」
+231589	Mix Tou	基本	「とりあえず今日一日は絶対安静ね。	「For today, complete rest is mandatory.
+231590	+		　体力が回復するのを待ちなさい」	　Wait until your stamina recovers.」
+231591	+		「…………」	「............」
 
-231592	Mix Tou	「……あ？」	「...Ah?」
+231592	Mix Tou	イラッ	「……あ？」	「...Ah?」
 
-231593	-	ぎろり。	Glare.
-231594	+	あなたは睨まれてしまった。	You were glared at.
+231593	-		ぎろり。	Glare.
+231594	+		あなたは睨まれてしまった。	You were glared at.
 
-231595	Mix Tou	「患者が医者に逆らうな。	「Patients shouldn't disobey their doctor.
-231596	+	　治したきゃ言うこと聞きなさい」	　If you want to get better, do as I say.」
+231595	Mix Tou		「患者が医者に逆らうな。	「Patients shouldn't disobey their doctor.
+231596	+		　治したきゃ言うこと聞きなさい」	　If you want to get better, do as I say.」
 
-231597	Mix Tou	「…………」	「............」
+231597	Mix Tou	基本	「…………」	「............」
 
-231598	Mix Tou	「……あ？」	「...Ah?」
+231598	Mix Tou	イラッ	「……あ？」	「...Ah?」
 
-231599	-	ぎろり。	Glare.
-231600	+	あなたは睨まれてしまった。	You were glared at.
+231599	-		ぎろり。	Glare.
+231600	+		あなたは睨まれてしまった。	You were glared at.
 
-231601	Mix Tou	「患者はどうでもいいこと考えないで、	「Patients shouldn't think about pointless things,
-231602	+	　治すことだけ考えていればいいの」	　just focus on getting better.」
+231601	Mix Tou		「患者はどうでもいいこと考えないで、	「Patients shouldn't think about pointless things,
+231602	+		　治すことだけ考えていればいいの」	　just focus on getting better.」
 
-231603	Mix Tou	「…………」	「............」
+231603	Mix Tou	基本	「…………」	「............」
 
-231604	Mix Tou	「……あ？」	「...Ah?」
+231604	Mix Tou	イラッ	「……あ？」	「...Ah?」
 
-231605	-	ぎろり。	Glare.
-231606	+	あなたは睨まれてしまった。	You were glared at.
+231605	-		ぎろり。	Glare.
+231606	+		あなたは睨まれてしまった。	You were glared at.
 
-231607	Mix Tou	「あによ。不満なわけ？	「What. Got a complaint?
-231608	+	　どうでもいいこと考えてないで、	　Don't think about pointless things,
-231609	+	　自分の体治すことだけ考えてなさい」	　just think about healing your body.」
+231607	Mix Tou		「あによ。不満なわけ？	「What. Got a complaint?
+231608	+		　どうでもいいこと考えてないで、	　Don't think about pointless things,
+231609	+		　自分の体治すことだけ考えてなさい」	　just think about healing your body.」
 
-231610	Mix Tou	「あっ」	「Ah.」
+231610	Mix Tou	基本	「あっ」	「Ah.」
 
-231611	Mix Tou	「もう喋ってもいいわよ」	「You can talk now.」
+231611	Mix Tou		「もう喋ってもいいわよ」	「You can talk now.」
 
-231612	Lelikov Helman	「ぷはーっ！　息苦しかったー！」	「Puhaah! I was suffocating!」
+231612	Lelikov Helman		「ぷはーっ！　息苦しかったー！」	「Puhaah! I was suffocating!」
 
-231613	-	隣の布団にはレリコフが眠っていた。	Lelikov Helman had been sleeping in the next bed.
+231613	-		隣の布団にはレリコフが眠っていた。	Lelikov Helman had been sleeping in the next bed.
 
-231614	Mix Tou	「ぎゃーぎゃーうるさいから、	「Because she was so noisy,
-231615	+	　黙らないとあんたが治らないって	　I told her she'd prevent your recovery
-231616	+	　言っておいたのよ」	　if she didn't stay quiet.」
+231614	Mix Tou		「ぎゃーぎゃーうるさいから、	「Because she was so noisy,
+231615	+		　黙らないとあんたが治らないって	　I told her she'd prevent your recovery
+231616	+		　言っておいたのよ」	　if she didn't stay quiet.」
 
-231617	Mix Tou	「……こんなに黙ると思ってなかったけど」	「...I didn't expect her to stay that quiet though.」
+231617	Mix Tou	我関せず	「……こんなに黙ると思ってなかったけど」	「...I didn't expect her to stay that quiet though.」
 
-231618	Mix Tou	「あんた、薬はちゃんと飲んだんでしょうね？」	「You took your medicine properly, right?」
+231618	Mix Tou	基本	「あんた、薬はちゃんと飲んだんでしょうね？」	「You took your medicine properly, right?」
 
-231619	Lelikov Helman	「飲んだよ。	「I did.
-231620	+	　すっっっごく苦かったけど」	　It was reeeally bitter though.」
+231619	Lelikov Helman		「飲んだよ。	「I did.
+231620	+		　すっっっごく苦かったけど」	　It was reeeally bitter though.」
 
-231621	Mix Tou	「そう、偉いじゃない」	「Good, well done.」
+231621	Mix Tou		「そう、偉いじゃない」	「Good, well done.」
 
-231622	Mix Tou	「しかし、何をどうやったらあの熱が	「Still, how did that fever
-231623	+	　一日でこれだけ下がるんだか……」	　drop so much in one day...」
+231622	Mix Tou	呆れ	「しかし、何をどうやったらあの熱が	「Still, how did that fever
+231623	+		　一日でこれだけ下がるんだか……」	　drop so much in one day...」
 
-231624	Lelikov Helman	「えへへー……」	「Ehehe~...」
+231624	Lelikov Helman	きゃはは！	「えへへー……」	「Ehehe~...」
 
-231625	Mix Tou	「ん？　なに笑ってるのよ」	「Hm? What are you laughing about?」
+231625	Mix Tou	基本	「ん？　なに笑ってるのよ」	「Hm? What are you laughing about?」
 
-231626	Lelikov Helman	「優しいんだね……」	「You're kind...」
+231626	Lelikov Helman		「優しいんだね……」	「You're kind...」
 
-231627	Mix Tou	「はっ」	「Hah.」
+231627	Mix Tou		「はっ」	「Hah.」
 
-231628	-	ミックスは鼻で笑った。	Mix laughed through her nose.
+231628	-		ミックスは鼻で笑った。	Mix laughed through her nose.
 
-231629	Mix Tou	「人を助ける職業に就いてるのよ。	「I'm in a profession that helps people.
-231630	+	　医者が優しいなんて当然でしょーが」	　Of course a doctor is kind.」
+231629	Mix Tou		「人を助ける職業に就いてるのよ。	「I'm in a profession that helps people.
+231630	+		　医者が優しいなんて当然でしょーが」	　Of course a doctor is kind.」
 
-231631	Lelikov Helman	「ありがとう、ミックスちゃん！」	「Thank you, Mix-chan!」
+231631	Lelikov Helman	きゃはは！	「ありがとう、ミックスちゃん！」	「Thank you, Mix-chan!」
 
-231632	Mix Tou	「……おいこら、勝手にちゃん付けすんな」	「...Hey, don't just call me chan.」
-231633	+	「あー、はいはい」	「Ah, yeah yeah.」
+231632	Mix Tou	イラッ	「……おいこら、勝手にちゃん付けすんな」	「...Hey, don't just call me chan.」
+231633	+	基本	「あー、はいはい」	「Ah, yeah yeah.」
 
-231634	Mix Tou	「感謝の気持ちがあるんなら、	「If you're grateful,
-231635	+	　とっとと治ってあたしの手を煩わせないでよ」	　get better quickly and stop bothering me.」
+231634	Mix Tou		「感謝の気持ちがあるんなら、	「If you're grateful,
+231635	+		　とっとと治ってあたしの手を煩わせないでよ」	　get better quickly and stop bothering me.」
 
-231636	-	照れているわけでもないようだ。	She didn't seem embarrassed.
-231637	+	ミックスは淡々とそう言った。	Mix said it flatly.
+231636	-		照れているわけでもないようだ。	She didn't seem embarrassed.
+231637	+		ミックスは淡々とそう言った。	Mix said it flatly.
 
-231638	Mix Tou	「…………」	「............」
+231638	Mix Tou	イラッ	「…………」	「............」
 
-231639	Mix Tou	「……ああ？」	「...Ah?」
+231639	Mix Tou		「……ああ？」	「...Ah?」
 
-231640	-	ぎろり。	Glare.
-231641	+	あなたは睨まれてしまった。	You were glared at.
+231640	-		ぎろり。	Glare.
+231641	+		あなたは睨まれてしまった。	You were glared at.
 
-231642	Mix Tou	「はあ……」	「Haa...」
+231642	Mix Tou	呆れ	「はあ……」	「Haa...」
 
-231643	-	あなたはカルテでバーンと顔を殴られた。	You got smacked in the face with the chart.
+231643	-		あなたはカルテでバーンと顔を殴られた。	You got smacked in the face with the chart.
 
-231644	Mix Tou	「……あによ？　なんか言った？」	「...What? Did you say something?」
+231644	Mix Tou	イラッ	「……あによ？　なんか言った？」	「...What? Did you say something?」
 
-231645	-	どうやら怒らせてしまったようだ。	It seemed you had made her angry.
-231646	+	あなたは首を横に振った。	You shook your head.
+231645	-		どうやら怒らせてしまったようだ。	It seemed you had made her angry.
+231646	+		あなたは首を横に振った。	You shook your head.
 
-231647	Mix Tou	「ったく……	「Good grief...
-231648	+	　無駄に元気有り余ってるわね……」	　You're full of unnecessary energy...」
+231647	Mix Tou		「ったく……	「Good grief...
+231648	+		　無駄に元気有り余ってるわね……」	　You're full of unnecessary energy...」
 
-231649	Mix Tou	「ま、元気なら、それが何よりだけどね」	「Well, being energetic is the best thing.」
+231649	Mix Tou	基本	「ま、元気なら、それが何よりだけどね」	「Well, being energetic is the best thing.」
 
-231650	-	ふわりと、ちゃんと見ていなければ	Gently, so subtly you might miss it if you weren't watching carefully,
-231651	+	気づかないほどさりげなく、	
-231652	+	ミックスが微笑んだ。	Mix smiled.
+231650	-		ふわりと、ちゃんと見ていなければ	Gently, so subtly you might miss it if you weren't watching carefully,
+231651	+		気づかないほどさりげなく、	
+231652	+		ミックスが微笑んだ。	Mix smiled.
 
-231653	Mix Tou	「とりあえず二人とも今日は絶対安静。	「For today, both of you are on complete rest.
-231654	+	　一日、大人しくしていること」	　Be good and stay put for the day.」
+231653	Mix Tou		「とりあえず二人とも今日は絶対安静。	「For today, both of you are on complete rest.
+231654	+		　一日、大人しくしていること」	　Be good and stay put for the day.」
 
-231655	Mix Tou	「ま、大人しく寝ていられたらだけどね」	「Well, if you can actually sleep quietly.」
+231655	Mix Tou		「ま、大人しく寝ていられたらだけどね」	「Well, if you can actually sleep quietly.」
 
-231656	Mix Tou	「もう入ってもいいわよー」	「You can come in now~」
+231656	Mix Tou		「もう入ってもいいわよー」	「You can come in now~」
 
-231657	Hero Helman	「うわーーーーーーん！　レリコフーーー！」	「Uwaaaaaah! Lelikov Helman---!」
+231657	Hero Helman		「うわーーーーーーん！　レリコフーーー！」	「Uwaaaaaah! Lelikov Helman---!」
 
-231658	Lelikov Helman	「あ、ヒーローだ」	「Ah, it's Hero.」
+231658	Lelikov Helman		「あ、ヒーローだ」	「Ah, it's Hero.」
 
-231659	-	どかーん。	Boom.
-231660	+	テントを吹き飛ばしかねない勢いで	With enough force to nearly blow the tent away,
-231661	+	ヒーローが中に突っ込んでレリコフを抱きしめた。	Hero charged in and hugged Lelikov Helman tightly.
+231659	-		どかーん。	Boom.
+231660	+		テントを吹き飛ばしかねない勢いで	With enough force to nearly blow the tent away,
+231661	+		ヒーローが中に突っ込んでレリコフを抱きしめた。	Hero charged in and hugged Lelikov Helman tightly.
 
-231662	-	　	　
-231663	+	　　＜バキボキグキバキボキボキ！＞	　　＜Crack crack crunch crack crack!＞
+231662	-		　	　
+231663	+		　　＜バキボキグキバキボキボキ！＞	　　＜Crack crack crunch crack crack!＞
 
-231664	Lelikov Helman	「あははは、痛いよー」	「Ahahaha, it hurts~」
+231664	Lelikov Helman	きゃはは！	「あははは、痛いよー」	「Ahahaha, it hurts~」
 
-231665	Hero Helman	「うわーん、もう！　心配したんだからねー！	「Uwaah, geez! I was so worried!
-231666	+	　もう！　もう！　レリコフの馬鹿ー！」	　Geez! Geez! Lelikov Helman you idiot!」
+231665	Hero Helman	基本	「うわーん、もう！　心配したんだからねー！	「Uwaah, geez! I was so worried!
+231666	+		　もう！　もう！　レリコフの馬鹿ー！」	　Geez! Geez! Lelikov Helman you idiot!」
 
-231667	Lelikov Helman	「あははは、痛いよー」	「Ahahaha, it hurts~」
+231667	Lelikov Helman		「あははは、痛いよー」	「Ahahaha, it hurts~」
 
-231668	Mix Tou	「はい、ヒーロー。退場」	「Okay Hero. Out.」
+231668	Mix Tou		「はい、ヒーロー。退場」	「Okay Hero. Out.」
 
-231669	Hero Helman	「ええええっ！？」	「Eeeeeeh!?」
+231669	Hero Helman		「ええええっ！？」	「Eeeeeeh!?」
 
-231670	Mix Tou	「病室では静かにするって約束、	「You promised to be quiet in the sickroom,
-231671	+	　守れなかったのはそっちでしょ。	　you were the one who broke it.
-231672	+	　はい、出てった出てった」	　Out, out you go.」
+231670	Mix Tou		「病室では静かにするって約束、	「You promised to be quiet in the sickroom,
+231671	+		　守れなかったのはそっちでしょ。	　you were the one who broke it.
+231672	+		　はい、出てった出てった」	　Out, out you go.」
 
-231673	Hero Helman	「うわーーーーーん！」	「Uwaaaaaah!」
+231673	Hero Helman		「うわーーーーーん！」	「Uwaaaaaah!」
 
-231674	Nagata-kun	「うあおおおおお！　＜エール＞ーーー！	「Uwaaaaaah! ＜エール＞---!
-231675	+	　無事で良かった！　良かったよー！」	　I'm so glad you're safe! So glad!」
+231674	Nagata-kun		「うあおおおおお！　＜エール＞ーーー！	「Uwaaaaaah! ＜エール＞---!
+231675	+		　無事で良かった！　良かったよー！」	　I'm so glad you're safe! So glad!」
 
-231676	Rocky Bank	「お二人ともご無事で何よりですだああああ！！	「I'm so glad both of you are safe daaaaaah!!
-231677	+	　おーーーいおいおいおい！」	　Oooooh ho ho ho!」
+231676	Rocky Bank	男泣き	「お二人ともご無事で何よりですだああああ！！	「I'm so glad both of you are safe daaaaaah!!
+231677	+		　おーーーいおいおいおい！」	　Oooooh ho ho ho!」
 
-231678	Mix Tou	「はい、お前ら退場」	「Okay, all of you out.」
+231678	Mix Tou	基本	「はい、お前ら退場」	「Okay, all of you out.」
 
-231679	Rocky Bank	「がーーーーん！」	「Gaaaan!」
+231679	Rocky Bank	ガーン	「がーーーーん！」	「Gaaaan!」
 
-231680	Nagata-kun	「早くない！？」	「That was fast!?」
+231680	Nagata-kun	基本	「早くない！？」	「That was fast!?」
 
-231681	-	その後も見舞客は次々に現れた。	After that, visitors kept coming one after another.
+231681	-		その後も見舞客は次々に現れた。	After that, visitors kept coming one after another.
 
-231682	Yamamoto Rangi	「ん……思ったよりも元気そうだね」	「Hmm... you look more energetic than I expected.」
+231682	Yamamoto Rangi	微笑み	「ん……思ったよりも元気そうだね」	「Hmm... you look more energetic than I expected.」
 
-231683	Reset Kalar	「二人とも、おはよー」	「Good morning, both of you~」
+231683	Reset Kalar	笑顔	「二人とも、おはよー」	「Good morning, both of you~」
 
-231684	-	乱義とリセットはそれまでの見舞客と違い、	Unlike the previous visitors, Rangi and Reset
-231685	+	落ち着いた様子で会話をし、	talked calmly
-231686	+	二人の無理にならないようにと早々に退出した。	and left early so as not to strain the two of you.
+231684	-		乱義とリセットはそれまでの見舞客と違い、	Unlike the previous visitors, Rangi and Reset
+231685	+		落ち着いた様子で会話をし、	talked calmly
+231686	+		二人の無理にならないようにと早々に退出した。	and left early so as not to strain the two of you.
 
-231687	-	リセットがささやかだけどと、	Reset left a small
-231688	+	見舞い品にお花を置いて行ってくれた。	bouquet of flowers as a get-well gift.
+231687	-		リセットがささやかだけどと、	Reset left a small
+231688	+		見舞い品にお花を置いて行ってくれた。	bouquet of flowers as a get-well gift.
 
-231689	-	スシヌは涙ぐみながら現れ、	Sushinu appeared with tears in her eyes
-231690	+	あなた達が無事だったことを喜んでくれた。	and rejoiced that you were both safe.
+231689	-		スシヌは涙ぐみながら現れ、	Sushinu appeared with tears in her eyes
+231690	+		あなた達が無事だったことを喜んでくれた。	and rejoiced that you were both safe.
 
-231691	Sushinu the Gandhi	「あ、ぐっ……ふ、二人、とも……	「Ah, guh... b-both of you...
-231692	+	　ひうっ……ぶ、無事で、良か、っ……った」	　hic... s-safe, I'm s-so gl-glad...」
+231691	Sushinu the Gandhi	泣き笑い	「あ、ぐっ……ふ、二人、とも……	「Ah, guh... b-both of you...
+231692	+		　ひうっ……ぶ、無事で、良か、っ……った」	　hic... s-safe, I'm s-so gl-glad...」
 
-231693	Sushinu the Gandhi	「ううううう〜〜……」	「Uuuuuuu~~~...」
+231693	Sushinu the Gandhi	泣き	「ううううう〜〜……」	「Uuuuuuu~~~...」
 
-231694	-	話している内に感極まったらしく	She became overwhelmed while talking
-231695	+	号泣した為にミックスに退場させられた。	and started sobbing, so Mix sent her out.
+231694	-		話している内に感極まったらしく	She became overwhelmed while talking
+231695	+		号泣した為にミックスに退場させられた。	and started sobbing, so Mix sent her out.
 
-231696	-	志津香とナギも来てくれた。	Shizuka and Nagi also came.
+231696	-		志津香とナギも来てくれた。	Shizuka and Nagi also came.
 
-231697	Nagi su Ragarl	「あはは、元気そうだねー」	「Ahaha, you look energetic~」
+231697	Nagi su Ragarl	笑顔	「あはは、元気そうだねー」	「Ahaha, you look energetic~」
 
-231698	Masou Shizuka	「まったく、心配ばかりかけて……」	「Good grief, always making us worry...」
+231698	Masou Shizuka	ため息	「まったく、心配ばかりかけて……」	「Good grief, always making us worry...」
 
-231699	-	ナギは軽く、志津香は冷たく、	Nagi spoke lightly, Shizuka spoke coldly,
-231700	+	二人とも口調こそいつも通りだったが、	but both seemed relieved somewhere deep down.
-231701	+	どこか安心してくれているように感じられた。	
+231699	-		ナギは軽く、志津香は冷たく、	Nagi spoke lightly, Shizuka spoke coldly,
+231700	+		二人とも口調こそいつも通りだったが、	but both seemed relieved somewhere deep down.
+231701	+		どこか安心してくれているように感じられた。	
 
-231702	-	ザンスは――	Zance――
+231702	-		ザンスは――	Zance――
 
-231703	Zance Leazas	「…………」	「............」
+231703	Zance Leazas	基本	「…………」	「............」
 
-231704	-	何故か無言のまま現れると、	For some reason he appeared silently,
-231705	+	レリコフとあなたにげんこつを食らわせ、	gave both Lelikov Helman and you a knuckle to the head,
-231706	+	何故か無言のまま去って行った。	and left silently for some reason.
+231704	-		何故か無言のまま現れると、	For some reason he appeared silently,
+231705	+		レリコフとあなたにげんこつを食らわせ、	gave both Lelikov Helman and you a knuckle to the head,
+231706	+		何故か無言のまま去って行った。	and left silently for some reason.
 
-231707	Mix Tou	「あんま時間かけんなっつってんのに、	「I told them not to take too long,
-231708	+	　全員で少しずつ来たら同じじゃないの……	　but if they all come one by one it's the same...
-231709	+	　馬鹿どもが」	　What idiots.」
+231707	Mix Tou	呆れ	「あんま時間かけんなっつってんのに、	「I told them not to take too long,
+231708	+		　全員で少しずつ来たら同じじゃないの……	　but if they all come one by one it's the same...
+231709	+		　馬鹿どもが」	　What idiots.」
 
-231710	-	その後も見舞い客は順番に現れては、	After that, visitors kept coming in order,
-231711	+	あなた達にお見舞い品を置いていったり、	leaving get-well gifts for you two
-231712	+	ミックスに追い出されたりしていった。	or getting kicked out by Mix.
+231710	-		その後も見舞い客は順番に現れては、	After that, visitors kept coming in order,
+231711	+		あなた達にお見舞い品を置いていったり、	leaving get-well gifts for you two
+231712	+		ミックスに追い出されたりしていった。	or getting kicked out by Mix.
 
-231713	Lelikov Helman	「…………」	「............」
+231713	Lelikov Helman	基本	「…………」	「............」
 
-231714	Lelikov Helman	「えへへ、仲間がいるっていいね」	「Ehehe, it's nice to have companions.」
+231714	Lelikov Helman	きゃはは！	「えへへ、仲間がいるっていいね」	「Ehehe, it's nice to have companions.」
 
-231715	-	レリコフが嬉しそうに笑うので、	Since Lelikov Helman smiled so happily,
-231716	+	あなたも笑い返した。	you smiled back.
+231715	-		レリコフが嬉しそうに笑うので、	Since Lelikov Helman smiled so happily,
+231716	+		あなたも笑い返した。	you smiled back.
 
-231717	-	…………	............
+231717	-		…………	............
 
-231718	-	……	......
+231718	-		……	......
 
-231719	-	体力が回復するのを確認してから、	After confirming your stamina had recovered,
-231720	+	あなた達はまた氷雪地帯踏破の旅に出た。	you set out once more to traverse the ice snow zone.
+231719	-		体力が回復するのを確認してから、	After confirming your stamina had recovered,
+231720	+		あなた達はまた氷雪地帯踏破の旅に出た。	you set out once more to traverse the ice snow zone.
 
-231721	-	今回はレリコフとも協力しあって進み、	This time working together with Lelikov Helman,
-231722	+	あなた達の旅はゆっくりとした足取りではあるが、	your journey advanced slowly but steadily.
-231723	+	着実に前に進んでいった。	
+231721	-		今回はレリコフとも協力しあって進み、	This time working together with Lelikov Helman,
+231722	+		あなた達の旅はゆっくりとした足取りではあるが、	your journey advanced slowly but steadily.
+231723	+		着実に前に進んでいった。	
 
-231724	-	そして……	And then...
+231724	-		そして……	And then...

@@ -3,177 +3,177 @@
 * Rance	ランス	Male
 * Reset Kalar	リセット	Female
 
-100985	Housesnurse	「ふう……」	「Phew...」
+100985	Housesnurse	基本	「ふう……」	「Phew...」
 
-100986	-	ハウセスナースは一人、	Housesnurse let out
-100987	+	疲れ切った溜め息を吐き出していた。	a tired sigh alone.
+100986	-		ハウセスナースは一人、	Housesnurse let out
+100987	+		疲れ切った溜め息を吐き出していた。	a tired sigh alone.
 
-100988	Rance	「お、どうした？	「Oh, what's wrong?
-100989	+	　今日は妙にアンニュイだな」	　You're unusually listless today.」
+100988	Rance		「お、どうした？	「Oh, what's wrong?
+100989	+		　今日は妙にアンニュイだな」	　You're unusually listless today.」
 
-100990	Housesnurse	「…………」	「............」
+100990	Housesnurse		「…………」	「............」
 
-100991	Housesnurse	「……ああ、あんたか」	「...Oh, it's you.」
+100991	Housesnurse		「……ああ、あんたか」	「...Oh, it's you.」
 
-100992	Housesnurse	「うん、まあ、ね……」	「Yeah, well...」
+100992	Housesnurse		「うん、まあ、ね……」	「Yeah, well...」
 
-100993	Housesnurse	「はあ……」	「Haa...」
+100993	Housesnurse		「はあ……」	「Haa...」
 
-100994	Rance	「な、なんか、本当に元気ないな。	「You really don't look well.
-100995	+	　何かあったのか？」	　Did something happen?」
+100994	Rance	真剣	「な、なんか、本当に元気ないな。	「You really don't look well.
+100995	+		　何かあったのか？」	　Did something happen?」
 
-100996	Housesnurse	「別にあんたに話すようなことじゃ……」	「It's nothing I'd talk to you about...」
+100996	Housesnurse	基本	「別にあんたに話すようなことじゃ……」	「It's nothing I'd talk to you about...」
 
-100997	Housesnurse	「こと……じゃ……」	「About...」
+100997	Housesnurse		「こと……じゃ……」	「About...」
 
-100998	Housesnurse	「うっ……！」	「Ugh...!」
+100998	Housesnurse		「うっ……！」	「Ugh...!」
 
-100999	Rance	「うおっ！？」	「Uoh!?」
+100999	Rance	驚き	「うおっ！？」	「Uoh!?」
 
-101000	-	ボロボロボローとハウセスナースの瞳から	Large tears poured down
-101001	+	大粒の涙がこぼれた。	from Housesnurse's eyes.
+101000	-		ボロボロボローとハウセスナースの瞳から	Large tears poured down
+101001	+		大粒の涙がこぼれた。	from Housesnurse's eyes.
 
-101002	Housesnurse	「……れた、の」	「...Rejected again.」
+101002	Housesnurse	基本	「……れた、の」	「...Rejected again.」
 
-101003	Rance	「は？」	「Huh?」
+101003	Rance		「は？」	「Huh?」
 
-101004	Housesnurse	「またフラれたのぉぉぉぉーー！	「I got dumped again nooooooo---!
-101005	+	　うわぁぁあーーーん！」	　Waaaaah---!」
+101004	Housesnurse	号泣	「またフラれたのぉぉぉぉーー！	「I got dumped again nooooooo---!
+101005	+		　うわぁぁあーーーん！」	　Waaaaah---!」
 
-101006	Rance	「…………」	「............」
+101006	Rance	真剣	「…………」	「............」
 
-101007	Rance	「いつものことじゃないか」	「Isn't this just the usual?」
+101007	Rance	だる顔	「いつものことじゃないか」	「Isn't this just the usual?」
 
-101008	Housesnurse	「いつもとは違うわよ！」	「This time is different!」
+101008	Housesnurse	怒り	「いつもとは違うわよ！」	「This time is different!」
 
-101009	Rance	「何が？」	「How so?」
+101009	Rance	基本	「何が？」	「How so?」
 
-101010	Housesnurse	「フラれた回数……」	「The number of times I've been dumped...」
+101010	Housesnurse		「フラれた回数……」	「The number of times I've been dumped...」
 
-101011	Housesnurse	「ついに50万回の大台に乗ったの……」	「It finally hit the 500,000 mark...」
+101011	Housesnurse		「ついに50万回の大台に乗ったの……」	「It finally hit the 500,000 mark...」
 
-101012	Rance	「そりゃ……すごい……」	「That's... impressive...」
+101012	Rance		「そりゃ……すごい……」	「That's... impressive...」
 
-101013	Housesnurse	「ねえ、私そんなに可愛くない！？	「Hey, am I really not that cute!?
-101014	+	　ウザい！？　やっぱりウザいのかなぁ！？」	　Am I annoying!? I really am annoying, aren't I!?」
+101013	Housesnurse	号泣	「ねえ、私そんなに可愛くない！？	「Hey, am I really not that cute!?
+101014	+		　ウザい！？　やっぱりウザいのかなぁ！？」	　Am I annoying!? I really am annoying, aren't I!?」
 
-101015	Rance	「うおおお、鼻水垂らしたまま迫るな！」	「Uoooooh, don't come at me with snot dripping!」
+101015	Rance	怒り	「うおおお、鼻水垂らしたまま迫るな！」	「Uoooooh, don't come at me with snot dripping!」
 
-101016	Rance	「ほれほれ、涙拭け。	「Here here, wipe your tears.
-101017	+	　はい、チーン」	　Here, blow.」
+101016	Rance	だる顔	「ほれほれ、涙拭け。	「Here here, wipe your tears.
+101017	+		　はい、チーン」	　Here, blow.」
 
-101018	Housesnurse	「ヂィィーーーーン！」	「Hooooooonk!」
+101018	Housesnurse	号泣	「ヂィィーーーーン！」	「Hooooooonk!」
 
-101019	Housesnurse	「ぷはっ……」	「Pwah...」
+101019	Housesnurse	基本	「ぷはっ……」	「Pwah...」
 
-101020	Housesnurse	「うう……何がいけないのかしら……」	「Uuu... What am I doing wrong...」
+101020	Housesnurse		「うう……何がいけないのかしら……」	「Uuu... What am I doing wrong...」
 
-101021	Rance	「お前は色々と強引すぎるんだ……	「You're way too pushy about everything...
-101022	+	　まあ、それ以前のものに惚れるときもあるが」	　Well, sometimes I fall for things before that though.」
+101021	Rance	だる顔	「お前は色々と強引すぎるんだ……	「You're way too pushy about everything...
+101022	+		　まあ、それ以前のものに惚れるときもあるが」	　Well, sometimes I fall for things before that though.」
 
-101023	Rance	「まあいずれ出会えるだろ。	「You'll meet someone eventually.
-101024	+	　両思いになれるような相手に」	　Someone who feels the same way.」
+101023	Rance	基本	「まあいずれ出会えるだろ。	「You'll meet someone eventually.
+101024	+		　両思いになれるような相手に」	　Someone who feels the same way.」
 
-101025	Housesnurse	「ほ、本当？　本当にそう思う？」	「R-Really? You really think so?」
+101025	Housesnurse		「ほ、本当？　本当にそう思う？」	「R-Really? You really think so?」
 
-101026	Rance	「その滅茶苦茶な性格を直せばな」	「If you fix that insane personality of yours.」
+101026	Rance	真剣	「その滅茶苦茶な性格を直せばな」	「If you fix that insane personality of yours.」
 
-101027	Housesnurse	「あ、あんた……」	「Y-You...」
+101027	Housesnurse	惚れ	「あ、あんた……」	「Y-You...」
 
-101028	Housesnurse	「意外といい奴だったのねぇ……」	「You're surprisingly nice...」
+101028	Housesnurse		「意外といい奴だったのねぇ……」	「You're surprisingly nice...」
 
-101029	Rance	「今までなんだと思ってたんだ」	「What did you think I was until now?」
+101029	Rance	基本	「今までなんだと思ってたんだ」	「What did you think I was until now?」
 
-101030	Housesnurse	「……ありがとね」	「...Thank you.」
+101030	Housesnurse	笑顔	「……ありがとね」	「...Thank you.」
 
-101031	Rance	「おう、俺に惚れたか」	「Yeah, fallen for me?」
+101031	Rance	基本	「おう、俺に惚れたか」	「Yeah, fallen for me?」
 
-101032	Housesnurse	「え、なんで？」	「Eh, why?」
+101032	Housesnurse		「え、なんで？」	「Eh, why?」
 
-101033	Rance	「…………」	「............」
+101033	Rance		「…………」	「............」
 
-101034	Housesnurse	「それより今後、私がまた誰かを好きになったら	「Anyway, if I fall for someone again in the future
-101035	+	　色々と手伝ってよ」	　help me out with stuff, okay?」
+101034	Housesnurse		「それより今後、私がまた誰かを好きになったら	「Anyway, if I fall for someone again in the future
+101035	+		　色々と手伝ってよ」	　help me out with stuff, okay?」
 
-101036	Rance	「んー……	「Hmm...
-101037	+	　まあ、まともなのが相手ならな」	　Well, if it's a decent guy.」
+101036	Rance		「んー……	「Hmm...
+101037	+		　まあ、まともなのが相手ならな」	　Well, if it's a decent guy.」
 
-101038	Housesnurse	「それでいいわよ」	「That's fine.」
+101038	Housesnurse		「それでいいわよ」	「That's fine.」
 
-101039	Housesnurse	「私もね、色ボケが過ぎたと思ってるの」	「I also think I've been too horny lately.」
+101039	Housesnurse		「私もね、色ボケが過ぎたと思ってるの」	「I also think I've been too horny lately.」
 
-101040	Rance	「ほう？」	「Oh?」
+101040	Rance		「ほう？」	「Oh?」
 
-101041	Housesnurse	「相手は生き物、会話が出来る、性別はオス。	「The partner has to be a living creature, able to talk, and male.
-101042	+	　次に好きになる相手は、	　The next one I fall for,
-101043	+	　とりあえずこれは守ろうと思うの」	　I'll at least stick to that.」
+101041	Housesnurse		「相手は生き物、会話が出来る、性別はオス。	「The partner has to be a living creature, able to talk, and male.
+101042	+		　次に好きになる相手は、	　The next one I fall for,
+101043	+		　とりあえずこれは守ろうと思うの」	　I'll at least stick to that.」
 
-101044	Rance	「ああ、いいんじゃないか。	「Yeah, that sounds good.
-101045	+	　健全に男の子モンスター辺りと恋愛すればいい」	　Go have a healthy romance with some boy monster.」
+101044	Rance		「ああ、いいんじゃないか。	「Yeah, that sounds good.
+101045	+		　健全に男の子モンスター辺りと恋愛すればいい」	　Go have a healthy romance with some boy monster.」
 
-101046	Rance~	（ま、そいつと交尾することになったら、	（Well, if she ends up mating with him,
-101047	+	　俺が横からかっさらうがな）	　I'll just steal her from the side.）
+101046	Rance~	エロ顔	（ま、そいつと交尾することになったら、	（Well, if she ends up mating with him,
+101047	+		　俺が横からかっさらうがな）	　I'll just steal her from the side.）
 
-101048	Reset Kalar	「あー、おとーさんとハウセスナースちゃん」	「Ah, Daddy and Housesnurse-chan.」
+101048	Reset Kalar	基本	「あー、おとーさんとハウセスナースちゃん」	「Ah, Daddy and Housesnurse-chan.」
 
-101049	Rance	「ん？　リセットどうした？」	「Hm? What's up, Reset?」
+101049	Rance		「ん？　リセットどうした？」	「Hm? What's up, Reset?」
 
-101050	Reset Kalar	「うん、ハウセスナースちゃんが	「Yeah, I heard Housesnurse-chan
-101051	+	　元気ないって聞いたから探してたの」	　was feeling down so I was looking for her.」
+101050	Reset Kalar		「うん、ハウセスナースちゃんが	「Yeah, I heard Housesnurse-chan
+101051	+		　元気ないって聞いたから探してたの」	　was feeling down so I was looking for her.」
 
-101052	Housesnurse	「私を心配に？」	「Worried about me?」
+101052	Housesnurse		「私を心配に？」	「Worried about me?」
 
-101053	Reset Kalar	「……だいじょうぶ？」	「...Are you okay?」
+101053	Reset Kalar		「……だいじょうぶ？」	「...Are you okay?」
 
-101054	Housesnurse	「あっ。	「Ah.
-101055	+	　え、ええ……別にもう平気よ」	　Y-Yeah... I'm fine now.」
+101054	Housesnurse		「あっ。	「Ah.
+101055	+		　え、ええ……別にもう平気よ」	　Y-Yeah... I'm fine now.」
 
-101056	Reset Kalar	「私ね、ニコニコ笑ってる	「I like it when Housesnurse-chan
-101057	+	　ハウセスナースちゃん好きなの」	　smiles brightly.」
+101056	Reset Kalar		「私ね、ニコニコ笑ってる	「I like it when Housesnurse-chan
+101057	+		　ハウセスナースちゃん好きなの」	　smiles brightly.」
 
-101058	Reset Kalar	「元気になったら嬉しいな。	「I'd be happy if you cheer up.
-101059	+	　いい子いい子」	　Good girl, good girl.」
+101058	Reset Kalar	笑顔	「元気になったら嬉しいな。	「I'd be happy if you cheer up.
+101059	+		　いい子いい子」	　Good girl, good girl.」
 
-101060	Housesnurse	「え、あ……ありが、とう……」	「E, ah... Th-Thank you...」
+101060	Housesnurse	惚れ	「え、あ……ありが、とう……」	「E, ah... Th-Thank you...」
 
-101061	-	なでなでとハウセスナースが頭を撫でられる。	Housesnurse's head was gently patted.
+101061	-		なでなでとハウセスナースが頭を撫でられる。	Housesnurse's head was gently patted.
 
-101062	Housesnurse	「…………」	「............」
+101062	Housesnurse		「…………」	「............」
 
-101063	Rance	「ん、どした？」	「Hm, what's wrong?」
+101063	Rance	基本	「ん、どした？」	「Hm, what's wrong?」
 
-101064	Housesnurse	「私……	「I...
-101065	+	　なんで今まで気づかなかったんだろう」	　Why didn't I notice until now?」
+101064	Housesnurse	惚れ	「私……	「I...
+101065	+		　なんで今まで気づかなかったんだろう」	　Why didn't I notice until now?」
 
-101066	Housesnurse	「…………」	「............」
+101066	Housesnurse		「…………」	「............」
 
-101067	Housesnurse	「……惚れた」	「...I've fallen for her.」
+101067	Housesnurse		「……惚れた」	「...I've fallen for her.」
 
-101068	Rance	「駄目ーーーー！」	「No way-----!」
+101068	Rance	怒り	「駄目ーーーー！」	「No way-----!」
 
-101069	Housesnurse	「なんでよ、お義父さん」	「Why not, step-dad?」
+101069	Housesnurse	基本	「なんでよ、お義父さん」	「Why not, step-dad?」
 
-101070	Rance	「お義父さんって呼ぶな！」	「Don't call me step-dad!」
+101070	Rance		「お義父さんって呼ぶな！」	「Don't call me step-dad!」
 
-101071	Housesnurse	「いいから、その子、ちょーだい」	「Just give me that girl already.」
+101071	Housesnurse		「いいから、その子、ちょーだい」	「Just give me that girl already.」
 
-101072	Rance	「猫の子もらうんじゃないんだぞ！」	「She's not a kitten you can just take!」
+101072	Rance		「猫の子もらうんじゃないんだぞ！」	「She's not a kitten you can just take!」
 
-101073	Reset Kalar	「にゃーにゃー？」	「Nya-nya?」
+101073	Reset Kalar		「にゃーにゃー？」	「Nya-nya?」
 
-101074	-	その後――	After that――
+101074	-		その後――	After that――
 
-101075	-	ハウセスナースはすぐリセットにフラれた。	Housesnurse was quickly dumped by Reset.
+101075	-		ハウセスナースはすぐリセットにフラれた。	Housesnurse was quickly dumped by Reset.
 
-101076	Reset Kalar	「えーと……	「Umm...
-101077	+	　『お友達からはじめましょう』……だって」	　'Let's start as friends'... she said.」
+101076	Reset Kalar		「えーと……	「Umm...
+101077	+		　『お友達からはじめましょう』……だって」	　'Let's start as friends'... she said.」
 
-101078	-	リセットはメモを読みながら言った。	Reset said while reading the note.
+101078	-		リセットはメモを読みながら言った。	Reset said while reading the note.
 
-101079	Housesnurse	「お友達から……	「As friends...
-101080	+	　いつもなら即フラれるのに……	　Normally I'd get dumped instantly...
-101081	+	　お友達から……」	　But as friends...」
+101079	Housesnurse	惚れ	「お友達から……	「As friends...
+101080	+		　いつもなら即フラれるのに……	　Normally I'd get dumped instantly...
+101081	+		　お友達から……」	　But as friends...」
 
-101082	Housesnurse	「これって大進歩！？」	「Isn't this a huge step forward!?」
+101082	Housesnurse	基本	「これって大進歩！？」	「Isn't this a huge step forward!?」
 
-101083	Rance	「違う」	「It's not.」
+101083	Rance	だる顔	「違う」	「It's not.」

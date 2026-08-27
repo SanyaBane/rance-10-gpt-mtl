@@ -6,78 +6,78 @@
 * Monster General	汎用魔物将軍	Male
 * Kentou Kanami	かなみ	Female
 
-145537	Rance	「ラーンスあたたたたーーーーーーっく！！！！」	「Raaaance atatatataaaaaack!!!!」
+145537	Rance	怒り	「ラーンスあたたたたーーーーーーっく！！！！」	「Raaaance atatatataaaaaack!!!!」
 
-145538	-	ランスのカオスによる斬撃で	With a slash from Rance's Chaos,
-145539	+	バボラの足を一刀両断した。	he sliced Babolat's leg clean in two.
+145538	-		ランスのカオスによる斬撃で	With a slash from Rance's Chaos,
+145539	+		バボラの足を一刀両断した。	he sliced Babolat's leg clean in two.
 
-145540	Babolat	「………………う？」	「............U?」
+145540	Babolat	基本	「………………う？」	「............U?」
 
-145541	Babolat	「…………う、う、う？」	「............U, u, u?」
+145541	Babolat		「…………う、う、う？」	「............U, u, u?」
 
-145542	Rance	「みんな離れろ！	「Everyone get away!
-145543	+	　たーおれーるぞーーーッ！」	　He's faaaalling!」
+145542	Rance	怒り	「みんな離れろ！	「Everyone get away!
+145543	+		　たーおれーるぞーーーッ！」	　He's faaaalling!」
 
-145544	-	バボラの巨体がバランスを崩し、	Babolat's giant body lost balance,
-145545	+	ぐらぐらと大きく揺れる。	and shook violently.
+145544	-		バボラの巨体がバランスを崩し、	Babolat's giant body lost balance,
+145545	+		ぐらぐらと大きく揺れる。	and shook violently.
 
-145546	-	　	　
-145547	+	　　＜ズシィィィィィーーーーン！！！！＞	　　＜Zushiiiiii~~~n!!!!＞
+145546	-		　	　
+145547	+		　　＜ズシィィィィィーーーーン！！！！＞	　　＜Zushiiiiii~~~n!!!!＞
 
-145548	-	ゆっくりと崩れるように、	Slowly collapsing,
-145549	+	巨体が地面に倒れ、地が大きく揺れた。	the giant body fell to the ground, shaking the earth violently.
+145548	-		ゆっくりと崩れるように、	Slowly collapsing,
+145549	+		巨体が地面に倒れ、地が大きく揺れた。	the giant body fell to the ground, shaking the earth violently.
 
-145550	Rance	「がはははははははは！	「Gahahahahahaha!
-145551	+	　今がチャンスだ！　頭をブッ潰せーッ！」	　Now's our chance! Smash his head!」
+145550	Rance	笑顔	「がはははははははは！	「Gahahahahahaha!
+145551	+		　今がチャンスだ！　頭をブッ潰せーッ！」	　Now's our chance! Smash his head!」
 
-145552	Babolat	「……あぎ、やべ、うぐ」	「...Agi, bad, ugu.」
+145552	Babolat	基本	「……あぎ、やべ、うぐ」	「...Agi, bad, ugu.」
 
-145553	-	ランスアタック、白色破壊光線、火丼の術、	Rance Attack, White Destruction Beam, Fire Bowl Technique,
-145554	+	ありとあらゆる攻撃がバボラの顔を襲う。	every possible attack assaulted Babolat's face.
+145553	-		ランスアタック、白色破壊光線、火丼の術、	Rance Attack, White Destruction Beam, Fire Bowl Technique,
+145554	+		ありとあらゆる攻撃がバボラの顔を襲う。	every possible attack assaulted Babolat's face.
 
-145555	-	そして、数分経った頃――	And after a few minutes――
+145555	-		そして、数分経った頃――	And after a few minutes――
 
-145556	-	その場にはバボラの大きさと同程度の	All that remained was a pile of dust
-145557	+	塵の塊だけがそこにあった。	the same size as Babora.
+145556	-		その場にはバボラの大きさと同程度の	All that remained was a pile of dust
+145557	+		塵の塊だけがそこにあった。	the same size as Babora.
 
-145558	Sill Plain	「わ、わ、すごい、ランス様。	「W-wow, amazing, Rance-sama.
-145559	+	　本当に倒しちゃったんですね」	　You really defeated him.」
+145558	Sill Plain	慌て	「わ、わ、すごい、ランス様。	「W-wow, amazing, Rance-sama.
+145559	+		　本当に倒しちゃったんですね」	　You really defeated him.」
 
-145560	Rance	「がはははははははは！」	「Gahahahahahaha!」
+145560	Rance	基本	「がはははははははは！」	「Gahahahahahaha!」
 
-145561	Green Monster Soldier	「なっ、なんだこれは！？	「Wh-what is this!?
-145562	+	　バボラ様が……殺されている！？」	　Babolat-sama... was killed!?」
+145561	Green Monster Soldier		「なっ、なんだこれは！？	「Wh-what is this!?
+145562	+		　バボラ様が……殺されている！？」	　Babolat-sama... was killed!?」
 
-145563	Green Monster Soldier	「う、嘘だろ！？　本当に死んだのか！？」	「N-no way!? Did he really die!?」
+145563	Green Monster Soldier		「う、嘘だろ！？　本当に死んだのか！？」	「N-no way!? Did he really die!?」
 
-145564	-	バボラの異変に気づき集まりだした魔物兵が、	Monster soldiers who noticed the anomaly gathered,
-145565	+	驚きの声を上げた。	and raised voices of shock.
+145564	-		バボラの異変に気づき集まりだした魔物兵が、	Monster soldiers who noticed the anomaly gathered,
+145565	+		驚きの声を上げた。	and raised voices of shock.
 
-145566	-	魔人であるバボラの死は容易には信じがたく、	Babolat's death as a Fiend was hard to believe,
-145567	+	周りの魔物兵達はただ予想外の事態に	and the surrounding monster soldiers
-145568	+	恐れおののいていた。	were simply terrified by the unexpected event.
+145566	-		魔人であるバボラの死は容易には信じがたく、	Babolat's death as a Fiend was hard to believe,
+145567	+		周りの魔物兵達はただ予想外の事態に	and the surrounding monster soldiers
+145568	+		恐れおののいていた。	were simply terrified by the unexpected event.
 
-145569	Monster General	「……バボラ様は殺された」	「...Babolat-sama has been killed.」
+145569	Monster General		「……バボラ様は殺された」	「...Babolat-sama has been killed.」
 
-145570	Monster General	「総員退避せよ！　状況を立て直す！」	「All units retreat! Regroup!」
+145570	Monster General		「総員退避せよ！　状況を立て直す！」	「All units retreat! Regroup!」
 
-145571	Green Monster Soldier	「う、うわぁーーーッ！	「U, uwaaaaah!
-145572	+	　バボラ様が人間に殺されたーッ！」	　Babolat-sama was killed by humans!」
+145571	Green Monster Soldier		「う、うわぁーーーッ！	「U, uwaaaaah!
+145572	+		　バボラ様が人間に殺されたーッ！」	　Babolat-sama was killed by humans!」
 
-145573	Green Monster Soldier	「逃げろ逃げろ逃げろ逃げろ！	「Run run run run!
-145574	+	　俺達も殺されるぞーーッ！」	　We'll be killed too!」
+145573	Green Monster Soldier		「逃げろ逃げろ逃げろ逃げろ！	「Run run run run!
+145574	+		　俺達も殺されるぞーーッ！」	　We'll be killed too!」
 
-145575	Sill Plain	「あ、あっという間に	「Ah, in the blink of an eye
-145576	+	　誰もいなくなっちゃいましたね……」	　everyone disappeared...」
+145575	Sill Plain	きょとん	「あ、あっという間に	「Ah, in the blink of an eye
+145576	+		　誰もいなくなっちゃいましたね……」	　everyone disappeared...」
 
-145577	Rance	「かなみ、ひとっ走りクリームに伝えてやれ。	「Kanami, run and tell Cream.
-145578	+	　今が追撃の大チャンスだとな」	　Now's the perfect chance for a pursuit.」
+145577	Rance	基本	「かなみ、ひとっ走りクリームに伝えてやれ。	「Kanami, run and tell Cream.
+145578	+		　今が追撃の大チャンスだとな」	　Now's the perfect chance for a pursuit.」
 
-145579	Kentou Kanami	「了解！」	「Roger!」
+145579	Kentou Kanami		「了解！」	「Roger!」
 
-145580	-	ランスの言葉通り、魔人バボラの死に	Just as Rance said, with Fiend Babolat's death
-145581	+	魔軍は大いに動揺し、ヘルマンの猛撃に	the Monster Army fell into chaos and couldn't properly respond
-145582	+	まともな対処を取ることは出来なかった。	to Helman's fierce attack.
+145580	-		ランスの言葉通り、魔人バボラの死に	Just as Rance said, with Fiend Babolat's death
+145581	+		魔軍は大いに動揺し、ヘルマンの猛撃に	the Monster Army fell into chaos and couldn't properly respond
+145582	+		まともな対処を取ることは出来なかった。	to Helman's fierce attack.
 
-145583	-	この戦いにより、	Through this battle,
-145584	+	ヘルマンは領地を大きく回復した。	Helman greatly recovered its territory.
+145583	-		この戦いにより、	Through this battle,
+145584	+		ヘルマンは領地を大きく回復した。	Helman greatly recovered its territory.

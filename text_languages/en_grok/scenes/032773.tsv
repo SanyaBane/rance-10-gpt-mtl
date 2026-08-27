@@ -6,106 +6,106 @@
 * Rance	ランス	Male
 * Crook Mofus	クルックー	Female
 
-175022	Camilla	「まさか……	「I can't believe...
-175023	+	　本当にケイブリスを倒すとは、な……」	　he actually defeated Kayblis...」
+175022	Camilla	薄目	「まさか……	「I can't believe...
+175023	+		　本当にケイブリスを倒すとは、な……」	　he actually defeated Kayblis...」
 
-175024	-	ケイブリスに傷つけられたカミーラが	Camilla, wounded by Kayblis,
-175025	+	ボロボロの体ながら、気丈に立ち上がる。	stood up bravely despite her battered body.
+175024	-		ケイブリスに傷つけられたカミーラが	Camilla, wounded by Kayblis,
+175025	+		ボロボロの体ながら、気丈に立ち上がる。	stood up bravely despite her battered body.
 
-175026	Sill Plain	「ま……魔人、カミーラ……	「M... Fiend Camilla...
-175027	+	　まさか……まだ戦うなんてこと……」	　Don't tell me you're still going to fight...」
+175026	Sill Plain	慌て	「ま……魔人、カミーラ……	「M... Fiend Camilla...
+175027	+		　まさか……まだ戦うなんてこと……」	　Don't tell me you're still going to fight...」
 
-175028	Camilla	「…………」	「............」
+175028	Camilla	基本	「…………」	「............」
 
-175029	Sill Plain	「ひっ！」	「Eek!」
+175029	Sill Plain	泣き	「ひっ！」	「Eek!」
 
-175030	-	視線を向けられシィルが肩をすくめる。	Sill shrank back as the gaze turned toward her.
+175030	-		視線を向けられシィルが肩をすくめる。	Sill shrank back as the gaze turned toward her.
 
-175031	Monster General	「な、なんだこれは！」	「W-what is this!」
+175031	Monster General	基本	「な、なんだこれは！」	「W-what is this!」
 
-175032	Monster General	「か、カミーラ様、これはいったい……！？」	「L-Lady Camilla, what on earth...!?」
+175032	Monster General		「か、カミーラ様、これはいったい……！？」	「L-Lady Camilla, what on earth...!?」
 
-175033	-	そのとき騒ぎを聞きつけた魔物将軍が	At that moment, a Monster General who heard the commotion
-175034	+	部屋に現れた。	appeared in the room.
+175033	-		そのとき騒ぎを聞きつけた魔物将軍が	At that moment, a Monster General who heard the commotion
+175034	+		部屋に現れた。	appeared in the room.
 
-175035	Camilla	「…………」	「............」
+175035	Camilla		「…………」	「............」
 
-175036	Camilla	「見ての通りだ」	「As you can see.」
+175036	Camilla		「見ての通りだ」	「As you can see.」
 
-175037	Camilla	「魔軍を統率していたケイブリスは死んだ」	「Kayblis, who led the Monster Army, is dead.」
+175037	Camilla		「魔軍を統率していたケイブリスは死んだ」	「Kayblis, who led the Monster Army, is dead.」
 
-175038	Green Monster Soldier	「そんな！？	「No way!?」
-175039	+	　あの、ケイブリス様が！？」	　That Kayblis-sama!?」
+175038	Green Monster Soldier		「そんな！？	「No way!?」
+175039	+		　あの、ケイブリス様が！？」	　That Kayblis-sama!?」
 
-175040	Green Monster Soldier	「では我々はこれからどうしたら……」	「Then what should we do from now on...」
+175040	Green Monster Soldier		「では我々はこれからどうしたら……」	「Then what should we do from now on...」
 
-175041	Camilla	「…………」	「............」
+175041	Camilla	薄目	「…………」	「............」
 
-175042	-	一瞬の逡巡を表情に滲ませ、	A brief hesitation showed on her face,
-175043	+	しかしカミーラは優雅に頷いた。	but Camilla nodded gracefully.
+175042	-		一瞬の逡巡を表情に滲ませ、	A brief hesitation showed on her face,
+175043	+		しかしカミーラは優雅に頷いた。	but Camilla nodded gracefully.
 
-175044	Camilla	「……後は私が引き継ごう」	「...I will take over from here.」
+175044	Camilla	基本	「……後は私が引き継ごう」	「...I will take over from here.」
 
-175045	Monster General	「か、カミーラ様が！？」	「L-Lady Camilla will!?」
+175045	Monster General		「か、カミーラ様が！？」	「L-Lady Camilla will!?」
 
-175046	Camilla	「なにか不服が？」	「Do you have any objections?」
+175046	Camilla		「なにか不服が？」	「Do you have any objections?」
 
-175047	Monster General	「いい、いえ、とんでもありません！	「N-no, not at all!
-175048	+	　四天王の一角、カミーラ様なら文句など……」	　One of the Four Dread Fiends, Lady Camilla, of course no complaints...」
+175047	Monster General		「いい、いえ、とんでもありません！	「N-no, not at all!
+175048	+		　四天王の一角、カミーラ様なら文句など……」	　One of the Four Dread Fiends, Lady Camilla, of course no complaints...」
 
-175049	Monster General	「ただ、カミーラ様はあまり	「It's just that Lady Camilla doesn't seem
-175050	+	　そういったことに興味はないのかと……」	　very interested in such things...」
+175049	Monster General		「ただ、カミーラ様はあまり	「It's just that Lady Camilla doesn't seem
+175050	+		　そういったことに興味はないのかと……」	　very interested in such things...」
 
-175051	Camilla	「無駄口は好みじゃない」	「I don't like pointless chatter.」
+175051	Camilla		「無駄口は好みじゃない」	「I don't like pointless chatter.」
 
-175052	Monster General	「は、はいっ！　申し訳ありません！」	「Y-yes! I'm sorry!」
+175052	Monster General		「は、はいっ！　申し訳ありません！」	「Y-yes! I'm sorry!」
 
-175053	Camilla	「人類圏に残存する魔物兵に伝えよ」	「Tell the remaining monster soldiers in the human realm」
+175053	Camilla		「人類圏に残存する魔物兵に伝えよ」	「Tell the remaining monster soldiers in the human realm」
 
-175054	Camilla	「すぐさま撤退せよと」	「to withdraw immediately.」
+175054	Camilla		「すぐさま撤退せよと」	「to withdraw immediately.」
 
-175055	Monster General	「て、撤退なさるのですか？」	「Y-you're ordering a retreat?」
+175055	Monster General		「て、撤退なさるのですか？」	「Y-you're ordering a retreat?」
 
-175056	Camilla	「…………」	「............」
+175056	Camilla		「…………」	「............」
 
-175057	Monster General	「あ、もも、申し訳ありません！	「Ah, s-sorry!
-175058	+	　すぐにーー！」	　Right away---!」
+175057	Monster General		「あ、もも、申し訳ありません！	「Ah, s-sorry!
+175058	+		　すぐにーー！」	　Right away---!」
 
-175059	-	カミーラに睨まれた魔物将軍は	Glared at by Camilla, the Monster General
-175060	+	脱兎の如く駆けだした。	dashed off like a frightened rabbit.
+175059	-		カミーラに睨まれた魔物将軍は	Glared at by Camilla, the Monster General
+175060	+		脱兎の如く駆けだした。	dashed off like a frightened rabbit.
 
-175061	Camilla	「これでよいか？」	「Is this fine?」
+175061	Camilla		「これでよいか？」	「Is this fine?」
 
-175062	Camilla	「それとも、どちらかが滅亡するまでやるか？」	「Or shall we continue until one side is destroyed?」
+175062	Camilla		「それとも、どちらかが滅亡するまでやるか？」	「Or shall we continue until one side is destroyed?」
 
-175063	Rance	「いや、それでいい。	「No, that's fine.
-175064	+	　グッドだ」	　Good.」
+175063	Rance		「いや、それでいい。	「No, that's fine.
+175064	+		　グッドだ」	　Good.」
 
-175065	Rance	「しかし、お前……	「But you...
-175066	+	　いつから人間の味方になった」	　Since when did you become humanity's ally?」
+175065	Rance	真剣	「しかし、お前……	「But you...
+175066	+		　いつから人間の味方になった」	　Since when did you become humanity's ally?」
 
-175067	Camilla	「……あれを殺した貴様らに対する、	「...It's just a whim toward you people
-175068	+	　気まぐれだ」	　who killed that thing.」
+175067	Camilla	基本	「……あれを殺した貴様らに対する、	「...It's just a whim toward you people
+175068	+		　気まぐれだ」	　who killed that thing.」
 
-175069	Crook Mofus	「我々も疲弊しました。	「We are also exhausted.
-175070	+	　今日はこれで撤収します。	　We will withdraw for today.
-175071	+	　戦後交渉は後ほど……」	　Post-war negotiations later...」
+175069	Crook Mofus		「我々も疲弊しました。	「We are also exhausted.
+175070	+		　今日はこれで撤収します。	　We will withdraw for today.
+175071	+		　戦後交渉は後ほど……」	　Post-war negotiations later...」
 
-175072	Sill Plain	「あ、あの……じゃあ、その……」	「U-um... then, well...」
+175072	Sill Plain	慌て	「あ、あの……じゃあ、その……」	「U-um... then, well...」
 
-175073	Rance	「おお、そうだ……」	「Oh yeah, right...」
+175073	Rance	基本	「おお、そうだ……」	「Oh yeah, right...」
 
-175074	Rance	「がははは！　ようやく終わったぞー！」	「Gahaha! It's finally over---!」
+175074	Rance	笑顔	「がははは！　ようやく終わったぞー！」	「Gahaha! It's finally over---!」
 
-175075	-	…………	............
+175075	-		…………	............
 
-175076	-	……	...
+175076	-		……	...
 
-175077	-	魔軍総大将であるケイブリスの死は	The death of Kayblis, supreme commander of the Monster Army,
-175078	+	瞬く間に世界中に報じられる。	spread across the world in the blink of an eye.
+175077	-		魔軍総大将であるケイブリスの死は	The death of Kayblis, supreme commander of the Monster Army,
+175078	+		瞬く間に世界中に報じられる。	spread across the world in the blink of an eye.
 
-175079	-	頭を失った魔物に組織だった行動は取れず、	The leaderless monsters could no longer act in an organized way,
-175080	+	魔軍という組織は自然と瓦解する。	and the Monster Army organization naturally collapsed.
+175079	-		頭を失った魔物に組織だった行動は取れず、	The leaderless monsters could no longer act in an organized way,
+175080	+		魔軍という組織は自然と瓦解する。	and the Monster Army organization naturally collapsed.
 
-175081	-	戦意喪失した魔物兵は人間界から引き上げ、	The demoralized monster soldiers withdrew from the human realm,
-175082	+	こうして、この長い戦いはようやく終わった。	and thus, this long war finally came to an end.
+175081	-		戦意喪失した魔物兵は人間界から引き上げ、	The demoralized monster soldiers withdrew from the human realm,
+175082	+		こうして、この長い戦いはようやく終わった。	and thus, this long war finally came to an end.

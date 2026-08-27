@@ -5,68 +5,68 @@
 * Kentou Kanami	かなみ	Female
 * Red Monster Soldier	汎用魔物兵赤	Male
 
-171161	-	ランス達がベズドグ山に到着した。	Rance and the others arrived at Mount Bezdog.
+171161	-		ランス達がベズドグ山に到着した。	Rance and the others arrived at Mount Bezdog.
 
-171162	Rance	「ここが、ベズドグ山か……」	「So this is Mount Bezdog...」
+171162	Rance	真剣	「ここが、ベズドグ山か……」	「So this is Mount Bezdog...」
 
-171163	-	ランス達の眼前に広がるのは、天然の要塞。	Spreading before Rance and the others was a natural fortress.
+171163	-		ランス達の眼前に広がるのは、天然の要塞。	Spreading before Rance and the others was a natural fortress.
 
-171164	-	ただその場に立っているだけで、	Just standing there,
-171165	+	熱波が吹き荒れ、ランス達の肌を撫でていった。	scorching heat waves blew wildly, caressing their skin.
+171164	-		ただその場に立っているだけで、	Just standing there,
+171165	+		熱波が吹き荒れ、ランス達の肌を撫でていった。	scorching heat waves blew wildly, caressing their skin.
 
-171166	Rance	「あっつ……	「It's hot...
-171167	+	　あいつ、こんな火山に暮らしてるのか」	　That guy lives in a volcano like this?」
+171166	Rance	だる顔	「あっつ……	「It's hot...
+171167	+		　あいつ、こんな火山に暮らしてるのか」	　That guy lives in a volcano like this?」
 
-171168	Satella	「太古から存在している山でな、	「It's a mountain that has existed since ancient times,
-171169	+	　正確には活火山ではない」	　technically it's not an active volcano.」
+171168	Satella	不安	「太古から存在している山でな、	「It's a mountain that has existed since ancient times,
+171169	+		　正確には活火山ではない」	　technically it's not an active volcano.」
 
-171170	Rance	「？　どう見ても火ィ噴いてるぞ？」	「? It looks like it's spewing fire though?」
+171170	Rance	基本	「？　どう見ても火ィ噴いてるぞ？」	「? It looks like it's spewing fire though?」
 
-171171	Satella	「火、だけではない、と言った方がいいか」	「It's better to say it's not just fire.」
+171171	Satella	不安	「火、だけではない、と言った方がいいか」	「It's better to say it's not just fire.」
 
-171172	Satella	「炎、氷、雷、光、闇、	「Flames, ice, lightning, light, darkness,
-171173	+	　数十年周期でその内のどれかが噴き出し、	　one of them erupts every few decades,
-171174	+	　それに覆われる山だ」	　and the mountain gets covered by it.」
+171172	Satella	基本	「炎、氷、雷、光、闇、	「Flames, ice, lightning, light, darkness,
+171173	+		　数十年周期でその内のどれかが噴き出し、	　one of them erupts every few decades,
+171174	+		　それに覆われる山だ」	　and the mountain gets covered by it.」
 
-171175	Satella	「人間界に比べて魔物界は危険な場所が多いが、	「The Monster Realm has many dangerous places compared to the human world,
-171176	+	　その中でも指折り。	　and this is one of the worst.
-171177	+	　魔物と言えどもおいそれとは近づかない」	　Even monsters don't approach lightly.」
+171175	Satella		「人間界に比べて魔物界は危険な場所が多いが、	「The Monster Realm has many dangerous places compared to the human world,
+171176	+		　その中でも指折り。	　and this is one of the worst.
+171177	+		　魔物と言えどもおいそれとは近づかない」	　Even monsters don't approach lightly.」
 
-171178	Satella	「マグマにでも飲み込まれた日には、	「If swallowed by magma,
-171179	+	　どんな魔物でも簡単に溶けて死ぬからな」	　even the strongest monster would melt and die easily.」
+171178	Satella		「マグマにでも飲み込まれた日には、	「If swallowed by magma,
+171179	+		　どんな魔物でも簡単に溶けて死ぬからな」	　even the strongest monster would melt and die easily.」
 
-171180	Carolie Mate	「うっ……」	「Ugh...」
+171180	Carolie Mate	弱気	「うっ……」	「Ugh...」
 
-171181	-	そのとき、キャロリが頭を押さえた。	At that moment, Carolie clutched her head.
+171181	-		そのとき、キャロリが頭を押さえた。	At that moment, Carolie clutched her head.
 
-171182	Satella	「ん……熱気にやられたか？」	「Hmm... Overcome by the heat?」
+171182	Satella	基本	「ん……熱気にやられたか？」	「Hmm... Overcome by the heat?」
 
-171183	Carolie Mate	「いえ、これは……	「No, this is...
-171184	+	　どこか気分が悪くなって……」	　I feel sick somehow...」
+171183	Carolie Mate	弱気	「いえ、これは……	「No, this is...
+171184	+		　どこか気分が悪くなって……」	　I feel sick somehow...」
 
-171185	Kentou Kanami	「確かに山全体に不穏な空気が漂っているわ……	「There really is an ominous atmosphere over the whole mountain...
-171186	+	　こんなに暑いのに……	　Even though it's so hot...
-171187	+	　生き物の気配がないというか……」	　it's like there are no signs of living creatures...」
+171185	Kentou Kanami	基本	「確かに山全体に不穏な空気が漂っているわ……	「There really is an ominous atmosphere over the whole mountain...
+171186	+		　こんなに暑いのに……	　Even though it's so hot...
+171187	+		　生き物の気配がないというか……」	　it's like there are no signs of living creatures...」
 
-171188	Satella	「この山は生き物を拒絶する……	「This mountain rejects living things...
-171189	+	　そう言われている」	　or so it's said.」
+171188	Satella	不安	「この山は生き物を拒絶する……	「This mountain rejects living things...
+171189	+		　そう言われている」	　or so it's said.」
 
-171190	Satella	「まあ、だからこそ、	「Well, that's exactly why
-171191	+	　ケイブリスにとっては居城に最適なんだろう」	　it's the perfect castle for Kayblis.」
+171190	Satella	思考	「まあ、だからこそ、	「Well, that's exactly why
+171191	+		　ケイブリスにとっては居城に最適なんだろう」	　it's the perfect castle for Kayblis.」
 
-171192	Rance	「本当にこんな所に住んでるのか？	「Does he really live in a place like this?
-171193	+	　信じられん奴だな……」	　What an unbelievable guy...」
+171192	Rance	だる顔	「本当にこんな所に住んでるのか？	「Does he really live in a place like this?
+171193	+		　信じられん奴だな……」	　What an unbelievable guy...」
 
-171194	Satella	「ん、待て――」	「Hm, wait――」
+171194	Satella	不安	「ん、待て――」	「Hm, wait――」
 
-171195	Red Monster Soldier	「…………」	「............」
+171195	Red Monster Soldier	基本	「…………」	「............」
 
-171196	-	歩哨の魔物兵が連れだって歩いているのが	Patrol monster soldiers walking together
-171197	+	遠くの方に見えた。	could be seen in the distance.
+171196	-		歩哨の魔物兵が連れだって歩いているのが	Patrol monster soldiers walking together
+171197	+		遠くの方に見えた。	could be seen in the distance.
 
-171198	Rance	「随分とのんびりした様子だな」	「They look pretty relaxed.」
+171198	Rance		「随分とのんびりした様子だな」	「They look pretty relaxed.」
 
-171199	Satella	「ということは、サテラ達の存在は	「Which means our presence
-171200	+	　まだ向こうにはバレてないようだ」	　hasn't been noticed by them yet.」
+171199	Satella	ふふん	「ということは、サテラ達の存在は	「Which means our presence
+171200	+		　まだ向こうにはバレてないようだ」	　hasn't been noticed by them yet.」
 
-171201	Rance	「よし、今の内に中に入るぞ」	「Alright, let's get inside while we can.」
+171201	Rance	基本	「よし、今の内に中に入るぞ」	「Alright, let's get inside while we can.」

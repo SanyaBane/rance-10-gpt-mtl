@@ -3,57 +3,57 @@
 * Satella	サテラ	Female
 * Sill Plain	シィル	Female
 
-80612	Rance	「はあっ……はあっ……」	「Haa... haa...」
+80612	Rance	だる顔	「はあっ……はあっ……」	「Haa... haa...」
 
-80613	Rance	「ど、どーーーっだ、さすが俺様……	「H, how's that, as expected of me...
-80614	+	　最強だな……」	　I'm the strongest...」
+80613	Rance		「ど、どーーーっだ、さすが俺様……	「H, how's that, as expected of me...
+80614	+		　最強だな……」	　I'm the strongest...」
 
-80615	Satella	「…………」	「............」
+80615	Satella	思考	「…………」	「............」
 
-80616	Satella~	（潮時、だな……）	（It's about time...）
+80616	Satella~	不安	（潮時、だな……）	（It's about time...）
 
-80617	-	ランスの奮戦はすさまじく、	Rance's fierce fighting was incredible,
-80618	+	また人類軍の士気は高い。	and the human army's morale was high.
+80617	-		ランスの奮戦はすさまじく、	Rance's fierce fighting was incredible,
+80618	+		また人類軍の士気は高い。	and the human army's morale was high.
 
-80619	-	それでも、その程度では覆せないほどの、	Even so, the difference in numbers
-80620	+	数の差が魔軍とはあった。	was too great for the Monster Army to be overturned.
+80619	-		それでも、その程度では覆せないほどの、	Even so, the difference in numbers
+80620	+		数の差が魔軍とはあった。	was too great for the Monster Army to be overturned.
 
-80621	-	既に人類軍は総崩れ一歩手前。	The human army was already on the verge of total collapse.
-80622	+	多くの人間の死体が転がり、	Many human corpses lay scattered,
-80623	+	既に勝敗は決していた。	and the outcome was already decided.
+80621	-		既に人類軍は総崩れ一歩手前。	The human army was already on the verge of total collapse.
+80622	+		多くの人間の死体が転がり、	Many human corpses lay scattered,
+80623	+		既に勝敗は決していた。	and the outcome was already decided.
 
-80624	Rance	「くっ、次！　次だ！	「Kuh, next! Next!
-80625	+	　ケイブリスを見つけるまでは！」	　Until I find Kayblis!」
+80624	Rance	だる顔	「くっ、次！　次だ！	「Kuh, next! Next!
+80625	+		　ケイブリスを見つけるまでは！」	　Until I find Kayblis!」
 
-80626	Sill Plain	「ら、ランス様！	「R, Rance-sama!
-80627	+	　一度、戻りましょう！　このままじゃ！」	　Let's retreat once! At this rate...!」
+80626	Sill Plain	慌て	「ら、ランス様！	「R, Rance-sama!
+80627	+		　一度、戻りましょう！　このままじゃ！」	　Let's retreat once! At this rate...!」
 
-80628	Rance	「馬鹿もん！　ケイブリスが近くにいるんだぞ！	「Idiot! Kayblis is nearby!
-80629	+	　ここで殺さずにいつ殺すってんだ！」	　If not now, when will I kill him!」
+80628	Rance	基本	「馬鹿もん！　ケイブリスが近くにいるんだぞ！	「Idiot! Kayblis is nearby!
+80629	+		　ここで殺さずにいつ殺すってんだ！」	　If not now, when will I kill him!」
 
-80630	Sill Plain	「でも、このままじゃ……ランス様が……	「But at this rate... Rance-sama will...
-80631	+	　お願いです……」	　Please...」
+80630	Sill Plain	真剣	「でも、このままじゃ……ランス様が……	「But at this rate... Rance-sama will...
+80631	+		　お願いです……」	　Please...」
 
-80632	Sill Plain	「もう、こんなに怪我してます……」	「You're already so badly injured...」
+80632	Sill Plain	泣き	「もう、こんなに怪我してます……」	「You're already so badly injured...」
 
-80633	-	シィルはランスに抱きついたまま、	Sill clung to Rance,
-80634	+	肩を小刻みに上下させていた。	her shoulders shaking slightly.
+80633	-		シィルはランスに抱きついたまま、	Sill clung to Rance,
+80634	+		肩を小刻みに上下させていた。	her shoulders shaking slightly.
 
-80635	Rance	「あ、く……」	「Ah, kuh...」
+80635	Rance	だる顔	「あ、く……」	「Ah, kuh...」
 
-80636	Rance	「…………」	「............」
+80636	Rance	真剣	「…………」	「............」
 
-80637	Rance	「離せ、馬鹿。	「Let go, idiot.
-80638	+	　歩きにくいだろうが」	　It's hard to walk.」
+80637	Rance		「離せ、馬鹿。	「Let go, idiot.
+80638	+		　歩きにくいだろうが」	　It's hard to walk.」
 
-80639	Rance	「……退くぞ」	「...We're retreating.」
+80639	Rance		「……退くぞ」	「...We're retreating.」
 
-80640	Sill Plain	「は、はいっ！」	「Y, yes!」
+80640	Sill Plain	慌て	「は、はいっ！」	「Y, yes!」
 
-80641	-	ランス達は撤退した。	Rance and the others retreated.
+80641	-		ランス達は撤退した。	Rance and the others retreated.
 
-80642	-	…………	............
+80642	-		…………	............
 
-80643	-	……	......
+80643	-		……	......
 
-80644	-	丹波の領地が魔軍に奪われた――	The territory of Tanba was taken by the Monster Army――
+80644	-		丹波の領地が魔軍に奪われた――	The territory of Tanba was taken by the Monster Army――

@@ -3,136 +3,136 @@
 * Sill Plain	シィル	Female
 * Mill Yorks	ミル	Female
 
-17406	-	進軍中――――	During the march――――
+17406	-		進軍中――――	During the march――――
 
-17407	Rance	「さー、メシだメシだ。	「Alright, time to eat.
-17408	+	　移動中っていうと楽しみが少ないからな。	　Marches are boring otherwise.
-17409	+	　持ってこいシィル」	　Bring it, Sill.」
+17407	Rance	基本	「さー、メシだメシだ。	「Alright, time to eat.
+17408	+		　移動中っていうと楽しみが少ないからな。	　Marches are boring otherwise.
+17409	+		　持ってこいシィル」	　Bring it, Sill.」
 
-17410	Sill Plain	「はいっ、ランス様」	「Yes, Rance-sama!」
+17410	Sill Plain		「はいっ、ランス様」	「Yes, Rance-sama!」
 
-17411	Rance	「大盛りだぞー」	「Make it a big serving!」
+17411	Rance		「大盛りだぞー」	「Make it a big serving!」
 
-17412	-	ランスはシィルの背中に声をかけてから、	Rance called out to Sill's back,
-17413	+	適当な場所に腰を下ろした。	then sat down somewhere nearby.
+17412	-		ランスはシィルの背中に声をかけてから、	Rance called out to Sill's back,
+17413	+		適当な場所に腰を下ろした。	then sat down somewhere nearby.
 
-17414	Sill Plain	「行ってきました！」	「I'm back!」
+17414	Sill Plain		「行ってきました！」	「I'm back!」
 
-17415	Rance	「あん？　やたら早いな。	「Huh? That was fast.
-17416	+	　まぁいいが……」	　Well, whatever......」
+17415	Rance	真剣	「あん？　やたら早いな。	「Huh? That was fast.
+17416	+		　まぁいいが……」	　Well, whatever......」
 
-17417	Sill Plain	「ミルちゃんが届けてくれてたんです。	「Mill-chan brought it over.
-17418	+	　それですぐに」	　That's why it was so quick.」
+17417	Sill Plain	笑顔	「ミルちゃんが届けてくれてたんです。	「Mill-chan brought it over.
+17418	+		　それですぐに」	　That's why it was so quick.」
 
-17419	Mill Yorks	「えへへ。ランス、お腹空いてるかなーと思って」	「Ehehe. I thought you might be hungry, Rance.」
+17419	Mill Yorks	基本	「えへへ。ランス、お腹空いてるかなーと思って」	「Ehehe. I thought you might be hungry, Rance.」
 
-17420	Rance	「ほう、褒めてつかわすぞ。	「Oh, good girl.
-17421	+	　おお、今日はカレーではないか」	　Oh, curry today.」
+17420	Rance		「ほう、褒めてつかわすぞ。	「Oh, good girl.
+17421	+		　おお、今日はカレーではないか」	　Oh, curry today.」
 
-17422	Mill Yorks	「どうぞどうぞ。食べてー」	「Here you go. Eat up~」
+17422	Mill Yorks		「どうぞどうぞ。食べてー」	「Here you go. Eat up~」
 
-17423	Rance	「お前の分は？」	「Where's yours?」
+17423	Rance	真剣	「お前の分は？」	「Where's yours?」
 
-17424	Mill Yorks	「あ。もう食べちゃったの」	「Ah. I already ate.」
+17424	Mill Yorks	基本	「あ。もう食べちゃったの」	「Ah. I already ate.」
 
-17425	Rance	「ふーん……」	「Hmm......」
+17425	Rance	真剣	「ふーん……」	「Hmm......」
 
-17426	Sill Plain	「ランス様。	「Rance-sama.
-17427	+	　私、自分の分を頂きに行っていいですか？」	　Can I go get my own portion?」
+17426	Sill Plain	考え中	「ランス様。	「Rance-sama.
+17427	+		　私、自分の分を頂きに行っていいですか？」	　Can I go get my own portion?」
 
-17428	Rance	「ダメだダメだ。奴隷の分際で」	「No no. You're a slave.」
+17428	Rance	基本	「ダメだダメだ。奴隷の分際で」	「No no. You're a slave.」
 
-17429	Sill Plain	「くすん……カレー食べたいです……」	「Sniff...... I want curry too......」
+17429	Sill Plain	恥	「くすん……カレー食べたいです……」	「Sniff...... I want curry too......」
 
-17430	Rance	「ふん。俺が全部食ったら、お代わり取って来い。	「Hmph. If I eat it all, go get seconds.
-17431	+	　そしたら一緒にお前の分を用意してもいい」	　Then I'll let you have some too.」
+17430	Rance	基本	「ふん。俺が全部食ったら、お代わり取って来い。	「Hmph. If I eat it all, go get seconds.
+17431	+		　そしたら一緒にお前の分を用意してもいい」	　Then I'll let you have some too.」
 
-17432	Sill Plain	「は、はいっ！」	「Y-Yes!」
+17432	Sill Plain	笑顔	「は、はいっ！」	「Y-Yes!」
 
-17433	Mill Yorks	「相変わらず仲良いねー」	「You two are as close as ever~」
+17433	Mill Yorks	基本	「相変わらず仲良いねー」	「You two are as close as ever~」
 
-17434	Rance	「がつがつばくばく！」	「Chomp chomp gulp!」
+17434	Rance	怒り	「がつがつばくばく！」	「Chomp chomp gulp!」
 
-17435	Mill Yorks	「わ。食べて誤魔化した……」	「Whoa. He's eating to dodge the question......」
+17435	Mill Yorks	驚	「わ。食べて誤魔化した……」	「Whoa. He's eating to dodge the question......」
 
-17436	Mill Yorks	「………………にやり」	「............Grin.」
+17436	Mill Yorks	艶	「………………にやり」	「............Grin.」
 
-17437	Rance	「んー、食った食った！	「Mmm, all eaten!
-17438	+	　おいシィル、お代わりだ！」	　Hey Sill, seconds!」
+17437	Rance	基本	「んー、食った食った！	「Mmm, all eaten!
+17438	+		　おいシィル、お代わりだ！」	　Hey Sill, seconds!」
 
-17439	Sill Plain	「はいっ。カレー、カレー♪」	「Yes! Curry, curry♪」
+17439	Sill Plain	笑顔	「はいっ。カレー、カレー♪」	「Yes! Curry, curry♪」
 
-17440	Rance	「ふーい……ちょっぴり食休みだ」	「Phew...... Time for a little break.」
+17440	Rance	基本	「ふーい……ちょっぴり食休みだ」	「Phew...... Time for a little break.」
 
-17441	Mill Yorks	「…………ねぇ、ランス？	「......Hey, Rance?
-17442	+	　味はどうだった？」	　How did it taste?
+17441	Mill Yorks	艶	「…………ねぇ、ランス？	「......Hey, Rance?
+17442	+		　味はどうだった？」	　How did it taste?
 
-17443	-	ミルは、半歩、ランスに近寄った。	Mill stepped a little closer to Rance.」
+17443	-		ミルは、半歩、ランスに近寄った。	Mill stepped a little closer to Rance.」
 
-17444	Rance	「あん？　まあまあだったぞ。	「Huh? It was pretty good.
-17445	+	　ちょっと舌にぬるっと、味わったことない味が	　There was a new slippery feeling on my tongue,
-17446	+	　来たのが斬新だった」	　that was pretty fresh.」
+17444	Rance	基本	「あん？　まあまあだったぞ。	「Huh? It was pretty good.
+17445	+		　ちょっと舌にぬるっと、味わったことない味が	　There was a new slippery feeling on my tongue,
+17446	+		　来たのが斬新だった」	　that was pretty fresh.」
 
-17447	Mill Yorks	「むむむ。無味無臭を心がけたのに……」	「Mmmph. I tried to make it tasteless and odorless......」
+17447	Mill Yorks	怒	「むむむ。無味無臭を心がけたのに……」	「Mmmph. I tried to make it tasteless and odorless......」
 
-17448	Rance	「なに？」	「What?」
+17448	Rance	真剣	「なに？」	「What?」
 
-17449	Mill Yorks	「ね。ね。身体……熱くなってこない？	「Hey. Hey. Isn't your body...... getting hot?
-17450	+	　目の前のせくしーな女体を、思う様貪りたく……」	　Don't you want to ravish the sexy girl right in front of you......」
+17449	Mill Yorks	艶	「ね。ね。身体……熱くなってこない？	「Hey. Hey. Isn't your body...... getting hot?
+17450	+		　目の前のせくしーな女体を、思う様貪りたく……」	　Don't you want to ravish the sexy girl right in front of you......」
 
-17451	Rance	「……………………」	........................
+17451	Rance	真剣	「……………………」	........................
 
-17452	Mill Yorks	「いたぁっ！」	「Ouch!」
+17452	Mill Yorks	驚	「いたぁっ！」	「Ouch!」
 
-17453	Rance	「お前！　なんかクスリでも盛ったな！」	「You! You put something in it, didn't you!」
+17453	Rance	怒り	「お前！　なんかクスリでも盛ったな！」	「You! You put something in it, didn't you!」
 
-17454	Mill Yorks	「パーフェクトすっきりする媚薬だよ！	「It's a perfect refreshing aphrodisiac!
-17455	+	　大丈夫な調合だし！」	　It's a safe mix!」
+17454	Mill Yorks	基本	「パーフェクトすっきりする媚薬だよ！	「It's a perfect refreshing aphrodisiac!
+17455	+		　大丈夫な調合だし！」	　It's a safe mix!」
 
-17456	Rance	「黙ってやるなといっとるんだ！」	「I told you not to do that!」
+17456	Rance	怒り	「黙ってやるなといっとるんだ！」	「I told you not to do that!」
 
-17457	Mill Yorks	「痛い痛い！　うう、おかしい……	「It hurts! Weird......
-17458	+	　もう辛抱堪らなくなってるはずなのに……」	　You should be unbearably horny by now......」
+17457	Mill Yorks	怒	「痛い痛い！　うう、おかしい……	「It hurts! Weird......
+17458	+		　もう辛抱堪らなくなってるはずなのに……」	　You should be unbearably horny by now......」
 
-17459	Rance	「俺様のパーフェクトな肉体にクスリなんぞ効くか」	「You think drugs work on my perfect body?」
+17459	Rance	真剣	「俺様のパーフェクトな肉体にクスリなんぞ効くか」	「You think drugs work on my perfect body?」
 
-17460	Mill Yorks	「う、うわーん！　覚えてろよー！」	「Uwaaah! I'll remember this!」
+17460	Mill Yorks	泣	「う、うわーん！　覚えてろよー！」	「Uwaaah! I'll remember this!」
 
-17461	Sill Plain	「戻りました、ランス様……	「I'm back, Rance-sama......
-17462	+	　あの、ミルちゃんどうかしました？」	　Um, is something wrong with Mill-chan?」
+17461	Sill Plain	きょとん	「戻りました、ランス様……	「I'm back, Rance-sama......
+17462	+		　あの、ミルちゃんどうかしました？」	　Um, is something wrong with Mill-chan?」
 
-17463	Rance	「まぁ、大した事じゃない。	「Nothing serious.
-17464	+	　お代わり寄越せ」	　More curry.」
+17463	Rance	基本	「まぁ、大した事じゃない。	「Nothing serious.
+17464	+		　お代わり寄越せ」	　More curry.」
 
-17465	Sill Plain	「はいっ！　カレー、カレー♪」	「Yes! Curry, curry♪」
+17465	Sill Plain	笑顔	「はいっ！　カレー、カレー♪」	「Yes! Curry, curry♪」
 
-17466	Rance	「まったく…………んん？」	「Geez............ Hmm?」
+17466	Rance	真剣	「まったく…………んん？」	「Geez............ Hmm?」
 
-17467	-	ランスが、シィルの笑顔に目を留める。	Rance's eyes lingered on Sill's smiling face.
+17467	-		ランスが、シィルの笑顔に目を留める。	Rance's eyes lingered on Sill's smiling face.
 
-17468	Sill Plain	「はいっ？　どうしました？」	「Yes? Is something wrong?」
+17468	Sill Plain	きょとん	「はいっ？　どうしました？」	「Yes? Is something wrong?」
 
-17469	Rance~	（シィルが……んん？　いつもより、なんか……	(Sill...... Hmm? She looks......
-17470	+	　可愛く見える、ような…………？）	　cuter than usual......?)
+17469	Rance~	基本	（シィルが……んん？　いつもより、なんか……	(Sill...... Hmm? She looks......
+17470	+		　可愛く見える、ような…………？）	　cuter than usual......?)
 
-17471	Sill Plain	「ランス様？　お加減悪いですか？	「Rance-sama? Are you feeling unwell?
-17472	+	　ぽんぽん痛いとか……？」	　Does your tummy hurt......?」
+17471	Sill Plain	考え中	「ランス様？　お加減悪いですか？	「Rance-sama? Are you feeling unwell?
+17472	+		　ぽんぽん痛いとか……？」	　Does your tummy hurt......?」
 
-17473	Rance	「う………………」	「Ugh......」
+17473	Rance	驚き	「う………………」	「Ugh......」
 
-17474	Rance	「ぬおおおおおーーーー！」	「Nwooooooo!」
+17474	Rance	怒り	「ぬおおおおおーーーー！」	「Nwooooooo!」
 
-17475	Sill Plain	「きゃああああぁぁっ！？」	「Kyaaaaa!?」
+17475	Sill Plain	慌て	「きゃああああぁぁっ！？」	「Kyaaaaa!?」
 
-17476	-	ランスはシィルにつかみかかり、	Rance grabbed Sill
-17477	+	そのまま抱えてテントに引っ込んでいった。	and carried her straight into the tent.
+17476	-		ランスはシィルにつかみかかり、	Rance grabbed Sill
+17477	+		そのまま抱えてテントに引っ込んでいった。	and carried her straight into the tent.
 
-17478	Rance	「ぐっ……うおおおおおおおーー！」	「Guh...... Uwoooooooo!」
+17478	Rance	全裸／怒り	「ぐっ……うおおおおおおおーー！」	「Guh...... Uwoooooooo!」
 
-17479	Sill Plain	「あっ、ん、ふぁ、ランス様ッ……	「Ah, n, fua, Rance-sama......
-17480	+	　せ、せめて、ごはんの後に……あっ、ああぁっ！」	　A-At least after dinner...... Ah, aah!」
+17479	Sill Plain	全裸／恥	「あっ、ん、ふぁ、ランス様ッ……	「Ah, n, fua, Rance-sama......
+17480	+		　せ、せめて、ごはんの後に……あっ、ああぁっ！」	　A-At least after dinner...... Ah, aah!」
 
-17481	-	ランスは一晩中、シィルを抱き続けた。	Rance fucked Sill passionately all night long.
+17481	-		ランスは一晩中、シィルを抱き続けた。	Rance fucked Sill passionately all night long.
 
-17482	Mill Yorks	「おっかしーなーー……	「That's weird......」
-17483	+	　上手くいくと思ったんだけど……」	「I thought it would work......」
+17482	Mill Yorks	泣	「おっかしーなーー……	「That's weird......」
+17483	+		　上手くいくと思ったんだけど……」	「I thought it would work......」

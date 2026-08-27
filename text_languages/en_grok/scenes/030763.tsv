@@ -10,119 +10,119 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Magic the Gandhi	マジック	Female
 
-30019	-	迷宮の中に、お茶の香りが広がる。	The scent of tea spread through the labyrinth.
+30019	-		迷宮の中に、お茶の香りが広がる。	The scent of tea spread through the labyrinth.
 
-30020	-	一行は、少し開けた一角で、	The party sat on convenient rubble
-30021	+	座りやすそうな瓦礫に腰を掛け、休憩をしていた。	in a slightly open area and took a break.
+30020	-		一行は、少し開けた一角で、	The party sat on convenient rubble
+30021	+		座りやすそうな瓦礫に腰を掛け、休憩をしていた。	in a slightly open area and took a break.
 
-30022	Rance	「ふー……休憩休憩。けっこう進んだか？」	「Phew...... Break time. Did we make good progress?」
+30022	Rance	基本	「ふー……休憩休憩。けっこう進んだか？」	「Phew...... Break time. Did we make good progress?」
 
-30023	Kentou Kanami	「あの宝箱だんごは見つからないけどね……」	「We still haven't found that Treasure Chest Dumpling though......」
+30023	Kentou Kanami		「あの宝箱だんごは見つからないけどね……」	「We still haven't found that Treasure Chest Dumpling though......」
 
-30024	Rance	「ちっ。少しずつでも追い詰めるしかないな」	「Tch. We'll just have to corner it bit by bit.」
+30024	Rance	真剣	「ちっ。少しずつでも追い詰めるしかないな」	「Tch. We'll just have to corner it bit by bit.」
 
-30025	Sill Plain	「はい、ランス様。ぬぼぼ羊羹です」	「Yes, Rance-sama. Here's some yokan.」
+30025	Sill Plain	基本	「はい、ランス様。ぬぼぼ羊羹です」	「Yes, Rance-sama. Here's some yokan.」
 
-30026	Rance	「おう。はぐむぐ……	「Yeah. Munch munch......
-30027	+	　しかし、大したもんだな、聖魔教団てのも。	　Still, the Holy Magic Sect was impressive.
-30028	+	　闘将とか、今は作れんのだろう？」	　They can't make Tousho anymore, right?」
+30026	Rance		「おう。はぐむぐ……	「Yeah. Munch munch......
+30027	+		　しかし、大したもんだな、聖魔教団てのも。	　Still, the Holy Magic Sect was impressive.
+30028	+		　闘将とか、今は作れんのだろう？」	　They can't make Tousho anymore, right?」
 
-30029	Miracle Tor	「人類の統一。	「Unification of humanity.
-30030	+	　そして魔法技術による、飢えや貧困の根絶。	　And the eradication of hunger and poverty through magic technology.
-30031	+	　現在の技術水準では、及ぶべくもない」	　It's impossible with today's technology.」
+30029	Miracle Tor	目閉じ	「人類の統一。	「Unification of humanity.
+30030	+		　そして魔法技術による、飢えや貧困の根絶。	　And the eradication of hunger and poverty through magic technology.
+30031	+		　現在の技術水準では、及ぶべくもない」	　It's impossible with today's technology.」
 
-30032	Hunty Kalar	「戦力でも、今より強いよ。	「They were stronger than our current forces too.
-30033	+	　主力の闘将が、一体で魔物数百体は相手取れたし」	　A single main Tousho could take on hundreds of monsters.」
+30032	Hunty Kalar	基本	「戦力でも、今より強いよ。	「They were stronger than our current forces too.
+30033	+		　主力の闘将が、一体で魔物数百体は相手取れたし」	　A single main Tousho could take on hundreds of monsters.」
 
-30034	Rance	「む。俺様だって闘将も闘神も倒したことあるぞ」	「Hmph. I've beaten Tousho and even Toushin before.」
+30034	Rance	真剣	「む。俺様だって闘将も闘神も倒したことあるぞ」	「Hmph. I've beaten Tousho and even Toushin before.」
 
-30035	Hunty Kalar	「そりゃ、あんたとか、ここにいる連中は	「Well, you and the people here are abnormally strong.
-30036	+	　かなりおかしい強さしてるけど。	　But there were about 20 Toushin
-30037	+	　闘神は約20体、闘将に至っては1000体以上だよ」	　and over 1000 Tousho.」
+30035	Hunty Kalar	基本	「そりゃ、あんたとか、ここにいる連中は	「Well, you and the people here are abnormally strong.
+30036	+		　かなりおかしい強さしてるけど。	　But there were about 20 Toushin
+30037	+		　闘神は約20体、闘将に至っては1000体以上だよ」	　and over 1000 Tousho.」
 
-30038	Rance	「ぬ……それ、は……ちょっとめんどうだな」	「Ugh...... That's...... a bit of a pain.」
+30038	Rance	だる顔	「ぬ……それ、は……ちょっとめんどうだな」	「Ugh...... That's...... a bit of a pain.」
 
-30039	Sachiko Centers	「う、うわあ……」	「U-uuwaa......」
+30039	Sachiko Centers	困り	「う、うわあ……」	「U-uuwaa......」
 
-30040	Patton Helman	「そして、それ故にか、魔人に目を付けられた。	「And because of that, the Fiends took notice.
-30041	+	　平和ってなぁ、長くは続かないもんだな」	　Peace never lasts long, huh.」
+30040	Patton Helman	基本	「そして、それ故にか、魔人に目を付けられた。	「And because of that, the Fiends took notice.
+30041	+		　平和ってなぁ、長くは続かないもんだな」	　Peace never lasts long, huh.」
 
-30042	Satella	「ずいぶん派手な戦争だったらしいな。	「It was quite the flashy war, apparently.
-30043	+	　時々、ノスやらが闘神都市を落としたと、	　I sometimes heard Nos and the others talking
-30044	+	　話題にしてたのを聞いた事がある」	　about capturing Toushin cities.」
+30042	Satella		「ずいぶん派手な戦争だったらしいな。	「It was quite the flashy war, apparently.
+30043	+		　時々、ノスやらが闘神都市を落としたと、	　I sometimes heard Nos and the others talking
+30044	+		　話題にしてたのを聞いた事がある」	　about capturing Toushin cities.」
 
-30045	Rance	「お前は行かなかったのか？」	「You didn't go?」
+30045	Rance		「お前は行かなかったのか？」	「You didn't go?」
 
-30046	Satella	「サテラはそんな年じゃない。	「Satella wasn't born yet.
-30047	+	　まだ生まれてもいない」	　I wasn't even alive.」
+30046	Satella	不安	「サテラはそんな年じゃない。	「Satella wasn't born yet.
+30047	+		　まだ生まれてもいない」	　I wasn't even alive.」
 
-30048	Rance	「……おお、そうなのか。	「......Oh, is that so.
-30049	+	　昔過ぎて感覚がよく分からん」	　It's so long ago I lose track.」
+30048	Rance	だる顔	「……おお、そうなのか。	「......Oh, is that so.
+30049	+		　昔過ぎて感覚がよく分からん」	　It's so long ago I lose track.」
 
-30050	Patton Helman	「派手じゃあるが、人類にとっちゃ	「It was flashy, but for humanity
-30051	+	　ワンサイドゲームだったらしいぜ。	　it was pretty much a one-sided game.
-30052	+	　なんせ魔人を倒せる武器がない」	　After all, they had no weapons that could kill Fiends.」
+30050	Patton Helman	基本	「派手じゃあるが、人類にとっちゃ	「It was flashy, but for humanity
+30051	+		　ワンサイドゲームだったらしいぜ。	　it was pretty much a one-sided game.
+30052	+		　なんせ魔人を倒せる武器がない」	　After all, they had no weapons that could kill Fiends.」
 
-30053	Rance	「おお、なんだったか、	「Oh yeah, that Toushin we met recently
-30054	+	　こないだの闘神もカオスを欲しがってたな」	　was really eager to get Chaos.」
+30053	Rance		「おお、なんだったか、	「Oh yeah, that Toushin we met recently
+30054	+		　こないだの闘神もカオスを欲しがってたな」	　was really eager to get Chaos.」
 
-30055	Patton Helman	「闘神MM、だろ。	「That was Toushin MM, right.
-30056	+	　聖魔教団のボス、マジックマスター・ルーン」	　The Holy Magic Sect's boss, Magic Master Rune.」
+30055	Patton Helman		「闘神MM、だろ。	「That was Toushin MM, right.
+30056	+		　聖魔教団のボス、マジックマスター・ルーン」	　The Holy Magic Sect's boss, Magic Master Rune.」
 
-30057	Alkanese Rize	「あーー……	「Aah......
-30058	+	　人類に裏切られて……人類を闘神やら闘将やらで	　Betrayed by humanity...... then attacked humanity using Toushin and Tousho
-30059	+	　攻撃し始めて……で、結局暗殺された、んだっけ」	　and was eventually assassinated, right?」
+30057	Alkanese Rize		「あーー……	「Aah......
+30058	+		　人類に裏切られて……人類を闘神やら闘将やらで	　Betrayed by humanity...... then attacked humanity using Toushin and Tousho
+30059	+		　攻撃し始めて……で、結局暗殺された、んだっけ」	　and was eventually assassinated, right?」
 
-30060	Hunty Kalar	「ああ。あたしとフリークと……もう一人と、でね」	「Yeah. Me, Freak, and one other.
+30060	Hunty Kalar	困り	「ああ。あたしとフリークと……もう一人と、でね」	「Yeah. Me, Freak, and one other.
 
-30061	-	少しだけ、ハンティは痛みを堪えるような	Hunty's expression briefly showed pain
-30062	+	表情になった。	as she remembered.
+30061	-		少しだけ、ハンティは痛みを堪えるような	Hunty's expression briefly showed pain
+30062	+		表情になった。	as she remembered.
 
-30063	Hunty Kalar	「……全ては、そのルーンていう、	「......It all started because of that one superhuman named Rune.」
-30064	+	　一人の超人が世に出たせいさ」	
+30063	Hunty Kalar		「……全ては、そのルーンていう、	「......It all started because of that one superhuman named Rune.」
+30064	+		　一人の超人が世に出たせいさ」	
 
-30065	Hunty Kalar	「あの頃は……魔法使いは、蔑まれていてね。	「Back then...... mages were looked down on.
-30066	+	　ルーンは、その解消と……	　Rune genuinely wanted to end that
-30067	+	　人類の恒久的な平和を本気で目指してた、らしい」	　and achieve lasting peace for humanity.」
+30065	Hunty Kalar		「あの頃は……魔法使いは、蔑まれていてね。	「Back then...... mages were looked down on.
+30066	+		　ルーンは、その解消と……	　Rune genuinely wanted to end that
+30067	+		　人類の恒久的な平和を本気で目指してた、らしい」	　and achieve lasting peace for humanity.」
 
-30068	Patton Helman	「そこいら辺はフリーク爺さんから聞いたな。	「I heard about that from old man Freak.
-30069	+	　大層な力と志を持った……純粋な奴だったらしい」	　He had incredible power and ideals...... A pure man.」
+30068	Patton Helman	真剣	「そこいら辺はフリーク爺さんから聞いたな。	「I heard about that from old man Freak.
+30069	+		　大層な力と志を持った……純粋な奴だったらしい」	　He had incredible power and ideals...... A pure man.」
 
-30070	Magic the Gandhi	「……ゼスだと、晩年におかしくなった、	「......In Zeth, he's treated like a mad scientist
-30071	+	　マッドサイエンティストみたいな扱いだけど」	　who went crazy in his later years.」
+30070	Magic the Gandhi	基本	「……ゼスだと、晩年におかしくなった、	「......In Zeth, he's treated like a mad scientist
+30071	+		　マッドサイエンティストみたいな扱いだけど」	　who went crazy in his later years.」
 
-30072	Kentou Kanami	「やったことが、やったことだもんね……」	「Well, what he did was pretty extreme......」
+30072	Kentou Kanami		「やったことが、やったことだもんね……」	「Well, what he did was pretty extreme......」
 
-30073	Magic the Gandhi	「タブーって訳でもないけどね。	「It's not exactly taboo though.
-30074	+	　むしろ、遺産は今でも活用されてるし。	　His legacy is still being used.
-30075	+	　マナバッテリーとか」	　Like mana batteries.」
+30073	Magic the Gandhi		「タブーって訳でもないけどね。	「It's not exactly taboo though.
+30074	+		　むしろ、遺産は今でも活用されてるし。	　His legacy is still being used.
+30075	+		　マナバッテリーとか」	　Like mana batteries.」
 
-30076	Magic the Gandhi	「ただ、ゼスはその第一次魔人戦争の後、	「But after the First Fiend War, Zeth was founded
-30077	+	　更にひどくなった魔法使いへの差別……」	　in opposition to even worse discrimination against mages......
+30076	Magic the Gandhi	目閉じ	「ただ、ゼスはその第一次魔人戦争の後、	「But after the First Fiend War, Zeth was founded
+30077	+		　更にひどくなった魔法使いへの差別……」	　in opposition to even worse discrimination against mages......
 
-30078	Magic the Gandhi	「ううん、弾圧に対抗する形で建国された	「It's complicated because of that background.」
-30079	+	　背景もあるから、けっこう複雑なのよね」	
+30078	Magic the Gandhi	思考	「ううん、弾圧に対抗する形で建国された	「It's complicated because of that background.」
+30079	+		　背景もあるから、けっこう複雑なのよね」	
 
-30080	Rance	「ふん。どーも胡散臭いな。偽善者か」	「Hmph. Smells fishy. A hypocrite, huh.」
+30080	Rance	だる顔	「ふん。どーも胡散臭いな。偽善者か」	「Hmph. Smells fishy. A hypocrite, huh.」
 
-30081	Patton Helman	「カッカッカ。まああんたとはウマの合いそうにない	「Kakhakhak. Yeah, he probably wouldn't get along with you.」
-30082	+	　男ではあったみたいだな」	
+30081	Patton Helman	笑い	「カッカッカ。まああんたとはウマの合いそうにない	「Kakhakhak. Yeah, he probably wouldn't get along with you.」
+30082	+		　男ではあったみたいだな」	
 
-30083	Rance	「その野郎がトチ狂ったせいで、	「Because that guy went nuts,
-30084	+	　闘神やらを活用するのに苦労してるわけだ。	　we're having trouble using the Toushin now.
-30085	+	　真面目な奴はめんどくさい」	　Serious guys are such a pain.」
+30083	Rance	真剣	「その野郎がトチ狂ったせいで、	「Because that guy went nuts,
+30084	+		　闘神やらを活用するのに苦労してるわけだ。	　we're having trouble using the Toushin now.
+30085	+		　真面目な奴はめんどくさい」	　Serious guys are such a pain.」
 
-30086	Patton Helman	「その辺、大将は心配無用かね。	「You don't have to worry about that, Boss.
-30087	+	　カッカッカ」	　Kakhakhak.」
+30086	Patton Helman	笑い	「その辺、大将は心配無用かね。	「You don't have to worry about that, Boss.
+30087	+		　カッカッカ」	　Kakhakhak.」
 
-30088	Rance	「引き留めたければ美女を山ほど用意しておけ。	「If you want to keep me, just prepare a mountain of beautiful women.
-30089	+	　がはははは」	　Gahahahaha.」
+30088	Rance	笑顔	「引き留めたければ美女を山ほど用意しておけ。	「If you want to keep me, just prepare a mountain of beautiful women.
+30089	+		　がはははは」	　Gahahahaha.」
 
-30090	Patton Helman	「あんたは、おかしくなったとしても	「Even if you go crazy,
-30091	+	　女好きのままなんだろうなあ……」	　you'll still be a womanizer......」
+30090	Patton Helman	基本	「あんたは、おかしくなったとしても	「Even if you go crazy,
+30091	+		　女好きのままなんだろうなあ……」	　you'll still be a womanizer......」
 
-30092	Rance	「当たり前だ。さて、そろそろ行くぞ。	「Obviously. Alright, time to move.
-30093	+	　いかれ野郎の遺産をさっさと回収だ」	　Let's quickly collect that madman's legacy.
+30092	Rance		「当たり前だ。さて、そろそろ行くぞ。	「Obviously. Alright, time to move.
+30093	+		　いかれ野郎の遺産をさっさと回収だ」	　Let's quickly collect that madman's legacy.
 
-30094	-	ランスの号令の下、	At Rance's command,
-30095	+	一行は休憩を終了し、再び探索を開始した。	the party ended their break and resumed exploring.
+30094	-		ランスの号令の下、	At Rance's command,
+30095	+		一行は休憩を終了し、再び探索を開始した。	the party ended their break and resumed exploring.

@@ -2,513 +2,513 @@
 * Rance	ランス	Male
 * Agireda Kosabusshi Zonna Abona	アギレダ	Female
 
-84487	Rance	「おーぅ、アギレダー、いるかー」	「Ooi, Agireda, you there?」
+84487	Rance	基本	「おーぅ、アギレダー、いるかー」	「Ooi, Agireda, you there?」
 
-84488	Agireda Kosabusshi Zonna Abona	「……いますけど」	「...I'm here.」
+84488	Agireda Kosabusshi Zonna Abona	非武装	「……いますけど」	「...I'm here.」
 
-84489	Agireda Kosabusshi Zonna Abona	「…………」	「............」
+84489	Agireda Kosabusshi Zonna Abona		「…………」	「............」
 
-84490	-	部屋にいたアギレダはすっくと立ち上がり	Agireda, who was in the room, stood up straight
-84491	+	部屋を出て行こうとする。	and tried to leave the room.
+84490	-		部屋にいたアギレダはすっくと立ち上がり	Agireda, who was in the room, stood up straight
+84491	+		部屋を出て行こうとする。	and tried to leave the room.
 
-84492	Rance	「こらこら、待ちなさい」	「Hey hey, wait.」
+84492	Rance	基本	「こらこら、待ちなさい」	「Hey hey, wait.」
 
-84493	Agireda Kosabusshi Zonna Abona	「貴方と話すことなんてありません」	「I have nothing to talk about with you.」
+84493	Agireda Kosabusshi Zonna Abona	非武装	「貴方と話すことなんてありません」	「I have nothing to talk about with you.」
 
-84494	Rance	「ふふーん、そんなこと言ってもいいのかなー？」	「Hmm, are you sure you can say that?」
+84494	Rance	基本	「ふふーん、そんなこと言ってもいいのかなー？」	「Hmm, are you sure you can say that?」
 
-84495	Agireda Kosabusshi Zonna Abona	「？」	「?」
+84495	Agireda Kosabusshi Zonna Abona	非武装	「？」	「?」
 
-84496	Rance	「じゃじゃーん！　これなんだー？」	「Ta-daa! What is this?」
+84496	Rance	基本	「じゃじゃーん！　これなんだー？」	「Ta-daa! What is this?」
 
-84497	Agireda Kosabusshi Zonna Abona	「え……これは……」	「Eh... this is...」
+84497	Agireda Kosabusshi Zonna Abona	非武装	「え……これは……」	「Eh... this is...」
 
-84498	Agireda Kosabusshi Zonna Abona	「コーラの瓶！？」	「A cola bottle!?」
+84498	Agireda Kosabusshi Zonna Abona	非武装／驚愕	「コーラの瓶！？」	「A cola bottle!?」
 
-84499	Rance	「がははは！　そのとーーり！」	「Gahahaha! Exactly!」
+84499	Rance	笑顔	「がははは！　そのとーーり！」	「Gahahaha! Exactly!」
 
-84500	Rance	「ほれ、受け取れ」	「Here, take it.」
+84500	Rance	基本	「ほれ、受け取れ」	「Here, take it.」
 
-84501	Agireda Kosabusshi Zonna Abona	「え、わっ、わっ……」	「Eh, wah, wah...」
+84501	Agireda Kosabusshi Zonna Abona	コーラ瓶／驚愕	「え、わっ、わっ……」	「Eh, wah, wah...」
 
-84502	Rance	「お前の為にこの瓶を手に入れたんだ。	「I got this bottle for you.
-84503	+	　本当に苦労したぞ」	　It was really hard work.」
+84502	Rance	基本	「お前の為にこの瓶を手に入れたんだ。	「I got this bottle for you.
+84503	+		　本当に苦労したぞ」	　It was really hard work.」
 
-84504	Agireda Kosabusshi Zonna Abona	「そ、その……」	「Th-that...」
+84504	Agireda Kosabusshi Zonna Abona	コーラ瓶	「そ、その……」	「Th-that...」
 
-84505	Agireda Kosabusshi Zonna Abona	「これって……私の為に？」	「This is... for me?」
+84505	Agireda Kosabusshi Zonna Abona	コーラ瓶／ツンデレ	「これって……私の為に？」	「This is... for me?」
 
-84506	Rance	「とーぜん。	「Of course.
-84507	+	　全部、アギレダの為を思ってだ」	　Everything was for your sake, Agireda.」
+84506	Rance	基本	「とーぜん。	「Of course.
+84507	+		　全部、アギレダの為を思ってだ」	　Everything was for your sake, Agireda.」
 
-84508	Agireda Kosabusshi Zonna Abona	「あっ……」	「Ah...」
+84508	Agireda Kosabusshi Zonna Abona	コーラ瓶／驚愕ツンデレ	「あっ……」	「Ah...」
 
-84509	-	ドクン、と心臓が強く跳ねる。	Her heart thumped hard.
+84509	-		ドクン、と心臓が強く跳ねる。	Her heart thumped hard.
 
-84510	Rance	「がははは、俺様は言ったことは守る男だからな」	「Gahahaha, I'm a man who keeps his promises.」
+84510	Rance	基本	「がははは、俺様は言ったことは守る男だからな」	「Gahahaha, I'm a man who keeps his promises.」
 
-84511	Agireda Kosabusshi Zonna Abona	「…………」	「............」
+84511	Agireda Kosabusshi Zonna Abona	コーラ瓶／ツンデレ	「…………」	「............」
 
-84512	Agireda Kosabusshi Zonna Abona	「――あの！」	「--Um!」
+84512	Agireda Kosabusshi Zonna Abona		「――あの！」	「--Um!」
 
-84513	Rance	「おお……」	「Oh...」
+84513	Rance	基本	「おお……」	「Oh...」
 
-84514	Agireda Kosabusshi Zonna Abona	「あ、あの……」	「U-um...」
+84514	Agireda Kosabusshi Zonna Abona	コーラ瓶／泣き	「あ、あの……」	「U-um...」
 
-84515	-	アギレダの顔がかすかに赤くなる。	Agireda's face turned slightly red.
+84515	-		アギレダの顔がかすかに赤くなる。	Agireda's face turned slightly red.
 
-84516	Agireda Kosabusshi Zonna Abona	「本当に……ありがとう……」	「Thank you... really...」
+84516	Agireda Kosabusshi Zonna Abona	コーラ瓶／泣きツンデレ	「本当に……ありがとう……」	「Thank you... really...」
 
-84517	Rance	「がははは、気にするな！」	「Gahahaha, don't mention it!」
+84517	Rance	基本	「がははは、気にするな！」	「Gahahaha, don't mention it!」
 
-84518	Agireda Kosabusshi Zonna Abona	「うん、これで……	「Yes, with this...
-84519	+	　一族の皆に顔向け出来そう……」	　I can face my clan again...」
+84518	Agireda Kosabusshi Zonna Abona	コーラ瓶／ツンデレ	「うん、これで……	「Yes, with this...
+84519	+		　一族の皆に顔向け出来そう……」	　I can face my clan again...」
 
-84520	Rance	「これで俺様が島津の馬鹿四兄弟とは	「Now you see I'm different from those idiot four Shimazu brothers.」
-84521	+	　違うと分かったな」	
+84520	Rance	基本	「これで俺様が島津の馬鹿四兄弟とは	「Now you see I'm different from those idiot four Shimazu brothers.」
+84521	+		　違うと分かったな」	
 
-84522	Agireda Kosabusshi Zonna Abona	「う、うん……」	「Y-yeah...」
+84522	Agireda Kosabusshi Zonna Abona	コーラ瓶／ツンデレ	「う、うん……」	「Y-yeah...」
 
-84523	Rance	「俺は誠実だ。他の口だけの男と違うのだ」	「I'm sincere. Unlike those men who only talk big.」
+84523	Rance	基本	「俺は誠実だ。他の口だけの男と違うのだ」	「I'm sincere. Unlike those men who only talk big.」
 
-84524	Agireda Kosabusshi Zonna Abona	「…………」	「............」
+84524	Agireda Kosabusshi Zonna Abona	コーラ瓶／ツンデレ	「…………」	「............」
 
-84525	-	アギレダの瞳がとろんと垂れる。	Agireda's eyes became dreamy.
+84525	-		アギレダの瞳がとろんと垂れる。	Agireda's eyes became dreamy.
 
-84526	Agireda Kosabusshi Zonna Abona	「うん……やっぱり、ランスは違う……」	「Yes... Rance really is different...」
+84526	Agireda Kosabusshi Zonna Abona		「うん……やっぱり、ランスは違う……」	「Yes... Rance really is different...」
 
-84527	-	その顔はすっかりぽわーんと夢見心地になっていた。	Her face was completely lost in a dreamy haze.
+84527	-		その顔はすっかりぽわーんと夢見心地になっていた。	Her face was completely lost in a dreamy haze.
 
-84528	Rance	「では、セックスしよう」	「Then let's fuck.」
+84528	Rance	基本	「では、セックスしよう」	「Then let's fuck.」
 
-84529	Agireda Kosabusshi Zonna Abona	「あ、う、う……」	「A, u, um...」
+84529	Agireda Kosabusshi Zonna Abona	コーラ瓶／泣きツンデレ	「あ、う、う……」	「A, u, um...」
 
-84530	Agireda Kosabusshi Zonna Abona	「…………でも」	「............But」
+84530	Agireda Kosabusshi Zonna Abona		「…………でも」	「............But」
 
-84531	Rance	「でも、なんだ！？」	「But what!?」
+84531	Rance	基本	「でも、なんだ！？」	「But what!?」
 
-84532	Agireda Kosabusshi Zonna Abona	「でも、ワタシは……あいつら……	「But I... those guys...
-84533	+	　島津四兄弟とランスをまた比べて……	　If I compare you to the four Shimazu brothers again...
-84534	+	　不快にさせてしまうかも……」	　I might make you uncomfortable...」
+84532	Agireda Kosabusshi Zonna Abona	コーラ瓶／泣きツンデレ	「でも、ワタシは……あいつら……	「But I... those guys...
+84533	+		　島津四兄弟とランスをまた比べて……	　If I compare you to the four Shimazu brothers again...
+84534	+		　不快にさせてしまうかも……」	　I might make you uncomfortable...」
 
-84535	Rance	「ふふん、それなら大丈夫だ」	「Heh, no problem.」
+84535	Rance	基本	「ふふん、それなら大丈夫だ」	「Heh, no problem.」
 
-84536	Rance	「あれから俺も研鑽を積んで、	「Since then I've trained hard,
-84537	+	　エロマスターとなったのだ！」	　and become an Ero Master!」
+84536	Rance	怒り	「あれから俺も研鑽を積んで、	「Since then I've trained hard,
+84537	+		　エロマスターとなったのだ！」	　and become an Ero Master!」
 
-84538	Rance	「がははは、あいつらの印象など	「Gahahaha, I'll completely erase
-84539	+	　ずばーっと消してやる」	　the impression those guys left!」
+84538	Rance	笑顔	「がははは、あいつらの印象など	「Gahahaha, I'll completely erase
+84539	+		　ずばーっと消してやる」	　the impression those guys left!」
 
-84540	Agireda Kosabusshi Zonna Abona	「……あ、う、でも」	「...A, u, but」
+84540	Agireda Kosabusshi Zonna Abona	コーラ瓶／泣きツンデレ	「……あ、う、でも」	「...A, u, but」
 
-84541	Rance	「でももへちまもない。	「No buts.
-84542	+	　そらそらそら」	　Here we go.」
+84541	Rance	基本	「でももへちまもない。	「No buts.
+84542	+		　そらそらそら」	　Here we go.」
 
-84543	Agireda Kosabusshi Zonna Abona	「あ、あ、ああああ……」	「A, a, aaaaa...」
+84543	Agireda Kosabusshi Zonna Abona	コーラ瓶／驚愕ツンデレ	「あ、あ、ああああ……」	「A, a, aaaaa...」
 
-84544	-	…………	............
+84544	-		…………	............
 
-84545	-	……	......
+84545	-		……	......
 
-84546	Agireda Kosabusshi Zonna Abona	「ああっ、ランス！　そんな、駄目……！」	「Aah, Rance! No, not there...!」
+84546	Agireda Kosabusshi Zonna Abona	基本	「ああっ、ランス！　そんな、駄目……！」	「Aah, Rance! No, not there...!」
 
-84547	Rance	「ほほーう！　アギレダはこんなところが弱点なのか！」	「Hohou! So this is your weak spot, Agireda!」
+84547	Rance		「ほほーう！　アギレダはこんなところが弱点なのか！」	「Hohou! So this is your weak spot, Agireda!」
 
-84548	Agireda Kosabusshi Zonna Abona	「あんっ！　そ、そんなところ！？　ああああ！」	「Ahn! T-there!? Aaaaaah!」
+84548	Agireda Kosabusshi Zonna Abona		「あんっ！　そ、そんなところ！？　ああああ！」	「Ahn! T-there!? Aaaaaah!」
 
-84549	-	…………	............
+84549	-		…………	............
 
-84550	-	……	......
+84550	-		……	......
 
-84551	-	ランスはアギレダを	Rance fucked Agireda
-84552	+	メロメロになるくらい抱きまくった。	until she melted completely in pleasure.
+84551	-		ランスはアギレダを	Rance fucked Agireda
+84552	+		メロメロになるくらい抱きまくった。	until she melted completely in pleasure.
 
-84553	Agireda Kosabusshi Zonna Abona	「はひ……あううう……」	「Hahi... auuuu...」
+84553	Agireda Kosabusshi Zonna Abona		「はひ……あううう……」	「Hahi... auuuu...」
 
-84554	Rance	「がははは、どうだった、アギレダ。イキまくっただろう！」	「Gahahaha, how was it, Agireda? You came like crazy!」
+84554	Rance		「がははは、どうだった、アギレダ。イキまくっただろう！」	「Gahahaha, how was it, Agireda? You came like crazy!」
 
-84555	Agireda Kosabusshi Zonna Abona	「あっ……」	「Ah...」
+84555	Agireda Kosabusshi Zonna Abona		「あっ……」	「Ah...」
 
-84556	-	ランスのセックスは凄まじく、	Rance's fucking was so intense
-84557	+	アギレダは上手く喋ることすら出来ない。	that Agireda could barely speak.
+84556	-		ランスのセックスは凄まじく、	Rance's fucking was so intense
+84557	+		アギレダは上手く喋ることすら出来ない。	that Agireda could barely speak.
 
-84558	-	激しすぎるセックスのせいで、	Because of the overwhelming sex,
-84559	+	アギレダの全身をぷるぷると震わせていた。	her whole body trembled.
+84558	-		激しすぎるセックスのせいで、	Because of the overwhelming sex,
+84559	+		アギレダの全身をぷるぷると震わせていた。	her whole body trembled.
 
-84560	-	満身創痍のアギレダは、ぼーっとしながらもなんとか頷く。	Exhausted Agireda nodded vaguely.
+84560	-		満身創痍のアギレダは、ぼーっとしながらもなんとか頷く。	Exhausted Agireda nodded vaguely.
 
-84561	Agireda Kosabusshi Zonna Abona	「は、はい……す、すごかった……れふ……」	「Y-yes... it was... amazing... refu...」
+84561	Agireda Kosabusshi Zonna Abona		「は、はい……す、すごかった……れふ……」	「Y-yes... it was... amazing... refu...」
 
-84562	Rance	「がははははははは！	「Gahahahahahaha!
-84563	+	　俺様の超絶エロテクがあの四兄弟を越えたことが証明されたな！」	　My supreme erotic techniques have surpassed those four brothers!」
+84562	Rance		「がははははははは！	「Gahahahahahaha!
+84563	+		　俺様の超絶エロテクがあの四兄弟を越えたことが証明されたな！」	　My supreme erotic techniques have surpassed those four brothers!」
 
-84564	Rance	「俺は名実共に奴らに勝ったのだ！　えっへん！」	「I have beaten them in name and reality! Ehen!」
+84564	Rance		「俺は名実共に奴らに勝ったのだ！　えっへん！」	「I have beaten them in name and reality! Ehen!」
 
-84565	Agireda Kosabusshi Zonna Abona~	（う……確かにテクニックは、ランスは上手くなった……	（U... His technique really has improved...
-84566	+	　気持ち良くて、素敵で……めろめろにされちゃった……）	　It felt so good, so amazing... I melted completely...）
+84565	Agireda Kosabusshi Zonna Abona~		（う……確かにテクニックは、ランスは上手くなった……	（U... His technique really has improved...
+84566	+		　気持ち良くて、素敵で……めろめろにされちゃった……）	　It felt so good, so amazing... I melted completely...）
 
-84567	Agireda Kosabusshi Zonna Abona~	（でも、四兄弟がすごかったのはそういうのでなくて……	（But what made the four brothers amazing wasn't just technique...
-84568	+	　ロマンチックな言葉とか優しい愛し方とか……）	　It was the romantic words and gentle lovemaking...）
+84567	Agireda Kosabusshi Zonna Abona~		（でも、四兄弟がすごかったのはそういうのでなくて……	（But what made the four brothers amazing wasn't just technique...
+84568	+		　ロマンチックな言葉とか優しい愛し方とか……）	　It was the romantic words and gentle lovemaking...）
 
-84569	Agireda Kosabusshi Zonna Abona~	（う、うぅん……奴らのは嘘ばかりだった……）	（U-uu... but everything they said was lies...）
+84569	Agireda Kosabusshi Zonna Abona~		（う、うぅん……奴らのは嘘ばかりだった……）	（U-uu... but everything they said was lies...）
 
-84570	Agireda Kosabusshi Zonna Abona~	（それに比べたら、ランスのは全部本当だ……	（Compared to that, everything Rance does is real...
-84571	+	　粗暴でもなんでも……ランスの方が真実の愛なんだ……）	　Even if he's rough... Rance's is true love...）
+84570	Agireda Kosabusshi Zonna Abona~		（それに比べたら、ランスのは全部本当だ……	（Compared to that, everything Rance does is real...
+84571	+		　粗暴でもなんでも……ランスの方が真実の愛なんだ……）	　Even if he's rough... Rance's is true love...）
 
-84572	-	　　＜とぷっ……とぷっ……＞	　　＜Plop... plop...＞
+84572	-		　　＜とぷっ……とぷっ……＞	　　＜Plop... plop...＞
 
-84573	-	身動き一つ取れないアギレダの花弁からは、	From Agireda's motionless petals,
-84574	+	白濁色の液体が絶え間なく溢れ出していた。	thick white liquid kept overflowing endlessly.
+84573	-		身動き一つ取れないアギレダの花弁からは、	From Agireda's motionless petals,
+84574	+		白濁色の液体が絶え間なく溢れ出していた。	thick white liquid kept overflowing endlessly.
 
-84575	Rance	「ふぅーーーむ……」	「Hmmm...」
+84575	Rance		「ふぅーーーむ……」	「Hmmm...」
 
-84576	Agireda Kosabusshi Zonna Abona	「ラ、ンス……？　なに、を……」	「Ra-Rance...? What are you...」
+84576	Agireda Kosabusshi Zonna Abona		「ラ、ンス……？　なに、を……」	「Ra-Rance...? What are you...」
 
-84577	Rance	「いや、せっかく注ぎ込んだ俺様の皇帝液が	「Well, it would be a waste to let my royal seed
-84578	+	　だらだら垂れ流しなのももったいないなと思ってな」	　that I pumped deep inside you just drip out like that.」
+84577	Rance		「いや、せっかく注ぎ込んだ俺様の皇帝液が	「Well, it would be a waste to let my royal seed
+84578	+		　だらだら垂れ流しなのももったいないなと思ってな」	　that I pumped deep inside you just drip out like that.」
 
-84579	Rance	「ぐふふ、栓をするというのはどうだろう？」	「Gufu, how about I plug it up?」
+84579	Rance		「ぐふふ、栓をするというのはどうだろう？」	「Gufu, how about I plug it up?」
 
-84580	Agireda Kosabusshi Zonna Abona	「……栓？」	「...Plug?」
+84580	Agireda Kosabusshi Zonna Abona		「……栓？」	「...Plug?」
 
-84581	Agireda Kosabusshi Zonna Abona	「あ、ばかばかばか！　やめてやめて！	「A-idiot idiot idiot! Stop stop!
-84582	+	　それだけは絶対に、んっ、駄目、だから！」	　Anything but that, nnh, no!」
+84581	Agireda Kosabusshi Zonna Abona		「あ、ばかばかばか！　やめてやめて！	「A-idiot idiot idiot! Stop stop!
+84582	+		　それだけは絶対に、んっ、駄目、だから！」	　Anything but that, nnh, no!」
 
-84583	Rance	「がははは、これも愛なのだ。	「Gahahaha, this is also love.
-84584	+	　アギレダよ、俺を愛しているなら頑張るのだ」	　Agireda, if you love me then endure it.」
+84583	Rance		「がははは、これも愛なのだ。	「Gahahaha, this is also love.
+84584	+		　アギレダよ、俺を愛しているなら頑張るのだ」	　Agireda, if you love me then endure it.」
 
-84585	Agireda Kosabusshi Zonna Abona	「ちがっ、そうりゃ、なくて……	「No, that's not it...
-84586	+	　そんな……神聖な道具……あ、ああああ……」	　That... sacred tool... a, aaaaa...」
+84585	Agireda Kosabusshi Zonna Abona		「ちがっ、そうりゃ、なくて……	「No, that's not it...
+84586	+		　そんな……神聖な道具……あ、ああああ……」	　That... sacred tool... a, aaaaa...」
 
-84587	Agireda Kosabusshi Zonna Abona~	（あ、駄目……体、動かな、駄目……逃げられない……！）	（Ah, no... my body won't move... I can't escape...!）
+84587	Agireda Kosabusshi Zonna Abona~		（あ、駄目……体、動かな、駄目……逃げられない……！）	（Ah, no... my body won't move... I can't escape...!）
 
-84588	-	どうにか体を立たせようとするが、それすら出来ず、	She tried to stand but couldn't even do that,
-84589	+	アギレダはただ体をプルプルとさせるだけだった。	and could only tremble.
+84588	-		どうにか体を立たせようとするが、それすら出来ず、	She tried to stand but couldn't even do that,
+84589	+		アギレダはただ体をプルプルとさせるだけだった。	and could only tremble.
 
-84590	-	アギレダの花弁にコーラの瓶の、飲み口がピタリと当てられた。	The mouth of the cola bottle was pressed perfectly against Agireda's petals.
+84590	-		アギレダの花弁にコーラの瓶の、飲み口がピタリと当てられた。	The mouth of the cola bottle was pressed perfectly against Agireda's petals.
 
-84591	Agireda Kosabusshi Zonna Abona~	（体、力、入らな……	（My body has no strength...
-84592	+	　やあああ……こ、このままだと……）	　Nooo... if this continues...）
+84591	Agireda Kosabusshi Zonna Abona~		（体、力、入らな……	（My body has no strength...
+84592	+		　やあああ……こ、このままだと……）	　Nooo... if this continues...）
 
-84593	Rance	「ぐふふ、ではレッツゴーだ」	「Gufu, let's go!」
+84593	Rance		「ぐふふ、ではレッツゴーだ」	「Gufu, let's go!」
 
-84594	Rance	「とーーーーーーう！」	「TooOOOOO!」
+84594	Rance		「とーーーーーーう！」	「TooOOOOO!」
 
-84595	Agireda Kosabusshi Zonna Abona	「んーーーーーーーーーーーーーーーーーーっ！」	「Nnnnnnnnnnnnnnnnnnn!」
+84595	Agireda Kosabusshi Zonna Abona		「んーーーーーーーーーーーーーーーーーーっ！」	「Nnnnnnnnnnnnnnnnnnn!」
 
-84596	Rance	「おーー、ぬるーっと入っていったぞ！	「Ooh, it slid right in!
-84597	+	　がははは、こりゃすごい！」	　Gahahaha, amazing!」
+84596	Rance		「おーー、ぬるーっと入っていったぞ！	「Ooh, it slid right in!
+84597	+		　がははは、こりゃすごい！」	　Gahahaha, amazing!」
 
-84598	-	ランスとのセックスですっかりほぐされた	Her pussy, thoroughly loosened by Rance's fucking,
-84599	+	アギレダの膣内は容易くコーラ瓶を飲み込んでしまった。	easily swallowed the cola bottle whole.
+84598	-		ランスとのセックスですっかりほぐされた	Her pussy, thoroughly loosened by Rance's fucking,
+84599	+		アギレダの膣内は容易くコーラ瓶を飲み込んでしまった。	easily swallowed the cola bottle whole.
 
-84600	Agireda Kosabusshi Zonna Abona	「あ、かはっ！　はあっ！　あ、あ、あ……！」	「A, kah! Haa! A, a, a...!」
+84600	Agireda Kosabusshi Zonna Abona		「あ、かはっ！　はあっ！　あ、あ、あ……！」	「A, kah! Haa! A, a, a...!」
 
-84601	Agireda Kosabusshi Zonna Abona~	（入れられ、ちゃったぁ……こ、こんな神聖な道具、を……	（It's inside... such a sacred tool...
-84602	+	　はっ、ああ……一族の皆……ご、ごめんなさい……）	　Haa, aah... everyone in the clan... I'm sorry...）
+84601	Agireda Kosabusshi Zonna Abona~		（入れられ、ちゃったぁ……こ、こんな神聖な道具、を……	（It's inside... such a sacred tool...
+84602	+		　はっ、ああ……一族の皆……ご、ごめんなさい……）	　Haa, aah... everyone in the clan... I'm sorry...）
 
-84603	-	ランスが手に持った瓶が縦横無尽に	The bottle in Rance's hand moved wildly
-84604	+	アギレダの膣内を動き回り、粘膜を容赦なく擦り上げる。	inside Agireda's pussy, mercilessly rubbing her sensitive walls.
+84603	-		ランスが手に持った瓶が縦横無尽に	The bottle in Rance's hand moved wildly
+84604	+		アギレダの膣内を動き回り、粘膜を容赦なく擦り上げる。	inside Agireda's pussy, mercilessly rubbing her sensitive walls.
 
-84605	Rance	「うーりうーり、こんなことまでしたりして」	「Uri uri, doing even this.」
+84605	Rance		「うーりうーり、こんなことまでしたりして」	「Uri uri, doing even this.」
 
-84606	Agireda Kosabusshi Zonna Abona	「ひぐっ！　ん、あっ！　やあ、あああっ、あっあっ！」	「Higu! N, ah! Yaa, aaaaah, ah ah!」
+84606	Agireda Kosabusshi Zonna Abona		「ひぐっ！　ん、あっ！　やあ、あああっ、あっあっ！」	「Higu! N, ah! Yaa, aaaaah, ah ah!」
 
-84607	-	瓶がアギレダの膣内の入り口を浅く速く、乱暴に動き回る。	The bottle moved shallowly, quickly, and roughly at the entrance of her pussy.
+84607	-		瓶がアギレダの膣内の入り口を浅く速く、乱暴に動き回る。	The bottle moved shallowly, quickly, and roughly at the entrance of her pussy.
 
-84608	-	思わず掴んでいたシーツをより力強く、	She gripped the sheets she was holding even tighter,
-84609	+	皺が出来るほど強く握りしめていた。	so hard they wrinkled.
+84608	-		思わず掴んでいたシーツをより力強く、	She gripped the sheets she was holding even tighter,
+84609	+		皺が出来るほど強く握りしめていた。	so hard they wrinkled.
 
-84610	Agireda Kosabusshi Zonna Abona~	（うっ、くっ！　手で動かされてる、から……ッ！	（Ugh, kuh! Because he's moving it with his hand...!」
-84611	+	　す、すごい……速く、動いて……！）	　It's... so fast...!）
+84610	Agireda Kosabusshi Zonna Abona~		（うっ、くっ！　手で動かされてる、から……ッ！	（Ugh, kuh! Because he's moving it with his hand...!」
+84611	+		　す、すごい……速く、動いて……！）	　It's... so fast...!）
 
-84612	Agireda Kosabusshi Zonna Abona	「んっ、んっ！　んっ、んっ、んっ……んんんん！」	「N, n! N, n, n... nnnnn!」
+84612	Agireda Kosabusshi Zonna Abona		「んっ、んっ！　んっ、んっ、んっ……んんんん！」	「N, n! N, n, n... nnnnn!」
 
-84613	-	今のアギレダにランスの蛮行を止める力はなく、されるがまま	The current Agireda had no strength to stop Rance's savagery
-84614	+	膣内を瓶でかき混ぜられ、くぐもった嬌声を上げるだけだった。	and could only moan muffled cries as her insides were stirred by the bottle.
+84613	-		今のアギレダにランスの蛮行を止める力はなく、されるがまま	The current Agireda had no strength to stop Rance's savagery
+84614	+		膣内を瓶でかき混ぜられ、くぐもった嬌声を上げるだけだった。	and could only moan muffled cries as her insides were stirred by the bottle.
 
-84615	Agireda Kosabusshi Zonna Abona~	（駄目、駄目、気持ち、良すぎて……ああああっ……！）	（No, no, it feels too good... aaaaaah...!）
+84615	Agireda Kosabusshi Zonna Abona~		（駄目、駄目、気持ち、良すぎて……ああああっ……！）	（No, no, it feels too good... aaaaaah...!）
 
-84616	-	乱暴にされているにも関わらず、	Even though she was being treated roughly,
-84617	+	腰が抜けそうなほどに気持ちが良かった。	it felt so good her hips nearly gave out.
+84616	-		乱暴にされているにも関わらず、	Even though she was being treated roughly,
+84617	+		腰が抜けそうなほどに気持ちが良かった。	it felt so good her hips nearly gave out.
 
-84618	Agireda Kosabusshi Zonna Abona~	（あ、ああ……一族の大事な道具が、こんなぁぁ……）	（A, aah... my clan's precious sacred tool, like this...）
+84618	Agireda Kosabusshi Zonna Abona~		（あ、ああ……一族の大事な道具が、こんなぁぁ……）	（A, aah... my clan's precious sacred tool, like this...）
 
-84619	-	本来、アギレダの立場は部族で神事を執り行う巫女。	Originally, Agireda was the shrine maiden who performed sacred rites for her tribe.
-84620	+	誰よりも神から賜った道具を大事に扱わねばならない立場にある。	She was supposed to treat the tools granted by the gods with the utmost care.
+84619	-		本来、アギレダの立場は部族で神事を執り行う巫女。	Originally, Agireda was the shrine maiden who performed sacred rites for her tribe.
+84620	+		誰よりも神から賜った道具を大事に扱わねばならない立場にある。	She was supposed to treat the tools granted by the gods with the utmost care.
 
-84621	-	それにも関わらず、今、アギレダはその道具を	Yet now, that very tool was
-84622	+	膣内に突き入れられて、あろうことか快楽を感じていた。	thrust deep inside her pussy, and she was feeling pleasure from it.
+84621	-		それにも関わらず、今、アギレダはその道具を	Yet now, that very tool was
+84622	+		膣内に突き入れられて、あろうことか快楽を感じていた。	thrust deep inside her pussy, and she was feeling pleasure from it.
 
-84623	-	涙がポロポロと溢れる。	Tears spilled down her cheeks.
+84623	-		涙がポロポロと溢れる。	Tears spilled down her cheeks.
 
-84624	Agireda Kosabusshi Zonna Abona~	（うーーーーっ、やっぱり……	（Uuuuu... just as I thought...
-84625	+	　この男、何も変わってないーーー！）	　This man hasn't changed at all---!）
+84624	Agireda Kosabusshi Zonna Abona~		（うーーーーっ、やっぱり……	（Uuuuu... just as I thought...
+84625	+		　この男、何も変わってないーーー！）	　This man hasn't changed at all---!）
 
-84626	Agireda Kosabusshi Zonna Abona	「や、あっ……！　ランス、これ、本当に大事な、あっ……！	「Y, ah...! Rance, this is really important, ah...!
-84627	+	　だから……おねが、い」	　So... please...」
+84626	Agireda Kosabusshi Zonna Abona		「や、あっ……！　ランス、これ、本当に大事な、あっ……！	「Y, ah...! Rance, this is really important, ah...!
+84627	+		　だから……おねが、い」	　So... please...」
 
-84628	Rance	「お願い？」	「Please?」
+84628	Rance		「お願い？」	「Please?」
 
-84629	Rance	「がははは！　まっかせなさーい！	「Gahahaha! Leave it to me!
-84630	+	　心配せんでもアヘアヘのへろへろに気持ち良くさせてやるぞー！」	　Don't worry, I'll make you ahegao and melt you with pleasure!」
+84629	Rance		「がははは！　まっかせなさーい！	「Gahahaha! Leave it to me!
+84630	+		　心配せんでもアヘアヘのへろへろに気持ち良くさせてやるぞー！」	　Don't worry, I'll make you ahegao and melt you with pleasure!」
 
-84631	Agireda Kosabusshi Zonna Abona~	（ちがうー！　そうじゃないー！）	（That's not it! That's not what I meant!）
+84631	Agireda Kosabusshi Zonna Abona~		（ちがうー！　そうじゃないー！）	（That's not it! That's not what I meant!）
 
-84632	-	もう、今自分がどのような痴態を晒しているか、	She no longer had the composure to think about what a lewd sight she was showing,
-84633	+	それを考える余裕すらなく、アギレダは体をビクビクと跳ねさせた。	and her body twitched violently.
+84632	-		もう、今自分がどのような痴態を晒しているか、	She no longer had the composure to think about what a lewd sight she was showing,
+84633	+		それを考える余裕すらなく、アギレダは体をビクビクと跳ねさせた。	and her body twitched violently.
 
-84634	Agireda Kosabusshi Zonna Abona~	（あ、あ……これ、気持ち良すぎて……んあああっ！	（A, aah... this feels too good... nhaaaa!」
-84635	+	　どうして、ぐすっ……！　こんな気持ち、いいの、ぉ……！）	　Why... sob... does it feel this good...!）
+84634	Agireda Kosabusshi Zonna Abona~		（あ、あ……これ、気持ち良すぎて……んあああっ！	（A, aah... this feels too good... nhaaaa!」
+84635	+		　どうして、ぐすっ……！　こんな気持ち、いいの、ぉ……！）	　Why... sob... does it feel this good...!）
 
-84636	Rance	「うーりうーり、ゆーっくりと動かしてやるぞー」	「Uri uri, I'll move it nice and slow.」
+84636	Rance		「うーりうーり、ゆーっくりと動かしてやるぞー」	「Uri uri, I'll move it nice and slow.」
 
-84637	-	ゆっくりと瓶の飲み口まで引き抜いたかと思ったら、	He slowly pulled the bottle out until only the mouth remained,
-84638	+	またゆっくりと瓶の根元まで押し込まれた。	then pushed it all the way back in slowly.
+84637	-		ゆっくりと瓶の飲み口まで引き抜いたかと思ったら、	He slowly pulled the bottle out until only the mouth remained,
+84638	+		またゆっくりと瓶の根元まで押し込まれた。	then pushed it all the way back in slowly.
 
-84639	Agireda Kosabusshi Zonna Abona	「んひっ！？　んぅぅぅぅぅぅぅ……！」	「Nhi!? Nuuuuuuu...!」
+84639	Agireda Kosabusshi Zonna Abona		「んひっ！？　んぅぅぅぅぅぅぅ……！」	「Nhi!? Nuuuuuuu...!」
 
-84640	-	愛液にまみれた瓶がドロドロと液体を	The bottle covered in love juices dripped thickly
-84641	+	滴らせながら姿を見せたかと思いきや、中へと埋められていく。	as it appeared, only to be buried back inside.
+84640	-		愛液にまみれた瓶がドロドロと液体を	The bottle covered in love juices dripped thickly
+84641	+		滴らせながら姿を見せたかと思いきや、中へと埋められていく。	as it appeared, only to be buried back inside.
 
-84642	Agireda Kosabusshi Zonna Abona	「んああああっ！　ああっ、も、もうやめ……いやぁぁぁ……！」	「Nhaaaaa! Aah, s-stop... nooooo...!」
+84642	Agireda Kosabusshi Zonna Abona		「んああああっ！　ああっ、も、もうやめ……いやぁぁぁ……！」	「Nhaaaaa! Aah, s-stop... nooooo...!」
 
-84643	-	快楽をゆっくりと長引かせられて、	The pleasure was drawn out slowly,
-84644	+	たまらずアギレダは体をくねくねとよじらせる。	and Agireda couldn't help but twist her body.
+84643	-		快楽をゆっくりと長引かせられて、	The pleasure was drawn out slowly,
+84644	+		たまらずアギレダは体をくねくねとよじらせる。	and Agireda couldn't help but twist her body.
 
-84645	Agireda Kosabusshi Zonna Abona	「んにゃっ、んやっ、ああああ……！	「Nnya, nya, aaaaa...!
-84646	+	　そん、なっ……ずんっ、ずんっ……って、しちゃ……！」	　D-don't... thrust, thrust... like that...!」
+84645	Agireda Kosabusshi Zonna Abona		「んにゃっ、んやっ、ああああ……！	「Nnya, nya, aaaaa...!
+84646	+		　そん、なっ……ずんっ、ずんっ……って、しちゃ……！」	　D-don't... thrust, thrust... like that...!」
 
-84647	Rance	「がははは、エッチなダンスだ。	「Gahahaha, what a lewd dance.
-84648	+	　うりうり、これがそんなに気持ちいいのか？」	　Uri uri, does it feel that good?」
+84647	Rance		「がははは、エッチなダンスだ。	「Gahahaha, what a lewd dance.
+84648	+		　うりうり、これがそんなに気持ちいいのか？」	　Uri uri, does it feel that good?」
 
-84649	-	腰をくねくねと身もだえさせるアギレダに気を良くして、	Pleased by Agireda writhing her hips,
-84650	+	更にランスは乱暴に瓶をぐりぐりと動かす。	Rance moved the bottle even more roughly, grinding it inside.
+84649	-		腰をくねくねと身もだえさせるアギレダに気を良くして、	Pleased by Agireda writhing her hips,
+84650	+		更にランスは乱暴に瓶をぐりぐりと動かす。	Rance moved the bottle even more roughly, grinding it inside.
 
-84651	Rance	「よーし、どこまで入るか実験といこう！	「Alright, let's experiment how deep it can go!
-84652	+	　がははは、アギレダの中、大行進だー！」	　Gahahaha, a grand parade inside Agireda!」
+84651	Rance		「よーし、どこまで入るか実験といこう！	「Alright, let's experiment how deep it can go!
+84652	+		　がははは、アギレダの中、大行進だー！」	　Gahahaha, a grand parade inside Agireda!」
 
-84653	Agireda Kosabusshi Zonna Abona~	（んんんんん！　悔し、いぃぃ！　こ、こんな男に……	（Nnnnn! So frustrating! To be used like this by this man...
-84654	+	　心許して、あまつさえ体、好き放題、されるなんてぇ……！）	　To trust him and let him do whatever he wants with my body...!）
+84653	Agireda Kosabusshi Zonna Abona~		（んんんんん！　悔し、いぃぃ！　こ、こんな男に……	（Nnnnn! So frustrating! To be used like this by this man...
+84654	+		　心許して、あまつさえ体、好き放題、されるなんてぇ……！）	　To trust him and let him do whatever he wants with my body...!）
 
-84655	Rance	「そーれ、ぐりぐりぐりぐりー！」	「There, grind grind grind!」
+84655	Rance		「そーれ、ぐりぐりぐりぐりー！」	「There, grind grind grind!」
 
-84656	Agireda Kosabusshi Zonna Abona	「んひんんんんっ！？」	「Nhinnnnn!?」
+84656	Agireda Kosabusshi Zonna Abona		「んひんんんんっ！？」	「Nhinnnnn!?」
 
-84657	-	瓶が今までにない程まで奥に入り込み、	The bottle went deeper than ever before,
-84658	+	アギレダはくぐもった悲鳴を上げた。	and Agireda let out a muffled scream.
+84657	-		瓶が今までにない程まで奥に入り込み、	The bottle went deeper than ever before,
+84658	+		アギレダはくぐもった悲鳴を上げた。	and Agireda let out a muffled scream.
 
-84659	Agireda Kosabusshi Zonna Abona~	（な、なにこ、れぇ、こんな、奥まで入る、の……	（W-what is this, going so deep...
-84660	+	　ああっ、壊れる、壊れ、ちゃう、んぅぅぅ……！）	　Aah, it's breaking me, I'm breaking, nuuuu...!）
+84659	Agireda Kosabusshi Zonna Abona~		（な、なにこ、れぇ、こんな、奥まで入る、の……	（W-what is this, going so deep...
+84660	+		　ああっ、壊れる、壊れ、ちゃう、んぅぅぅ……！）	　Aah, it's breaking me, I'm breaking, nuuuu...!）
 
-84661	Rance	「おっ、おっ、まだまだ入るぞー。	「Oh, oh, it can still go deeper.
-84662	+	　だが……そろそろ限界か……？」	　But... is this the limit...?」
+84661	Rance		「おっ、おっ、まだまだ入るぞー。	「Oh, oh, it can still go deeper.
+84662	+		　だが……そろそろ限界か……？」	　But... is this the limit...?」
 
-84663	Rance	「とーーーーっ！」	「Tooooo!」
+84663	Rance		「とーーーーっ！」	「Tooooo!」
 
-84664	Agireda Kosabusshi Zonna Abona	「あぁあぁぁあああああああああ！」	「Aaaaaaaaahhhhhh!」
+84664	Agireda Kosabusshi Zonna Abona		「あぁあぁぁあああああああああ！」	「Aaaaaaaaahhhhhh!」
 
-84665	-	最奥まで瓶をねじ込まれた瞬間、	The moment the bottle was twisted into her deepest part,
-84666	+	あまりの衝撃にアギレダの目の前がチカチカと明滅した。	the intense shock made her vision flicker.
+84665	-		最奥まで瓶をねじ込まれた瞬間、	The moment the bottle was twisted into her deepest part,
+84666	+		あまりの衝撃にアギレダの目の前がチカチカと明滅した。	the intense shock made her vision flicker.
 
-84667	-	体の抑えが効かず、陸に打ち上げられた魚のように	Unable to control her body, like a fish thrown on land,
-84668	+	全身がビクビクと痙攣する。	her whole body convulsed violently.
+84667	-		体の抑えが効かず、陸に打ち上げられた魚のように	Unable to control her body, like a fish thrown on land,
+84668	+		全身がビクビクと痙攣する。	her whole body convulsed violently.
 
-84669	Agireda Kosabusshi Zonna Abona	「んあ゛っ！　やめ、ランス、ホント、に！　んやぁ！	「Nga! Stop, Rance, really! Nya!」
-84670	+	　あんっ！　あっ、ああっ、あん、あっ！」	　Ahn! Ah, aah, ahn, ah!」
+84669	Agireda Kosabusshi Zonna Abona		「んあ゛っ！　やめ、ランス、ホント、に！　んやぁ！	「Nga! Stop, Rance, really! Nya!」
+84670	+		　あんっ！　あっ、ああっ、あん、あっ！」	　Ahn! Ah, aah, ahn, ah!」
 
-84671	-	中の瓶が動く度にアギレダは甘い嬌声を上げて反応を返した。	Every time the bottle moved inside, Agireda responded with sweet moans.
+84671	-		中の瓶が動く度にアギレダは甘い嬌声を上げて反応を返した。	Every time the bottle moved inside, Agireda responded with sweet moans.
 
-84672	-	最早声を抑えるなどという考えは頭から抜け落ちて、	The thought of holding back her voice had completely vanished,
-84673	+	ただ襲い来る快楽に体を跳ねさせることしか出来なくなっていた。	and she could only twitch her body in response to the pleasure.
+84672	-		最早声を抑えるなどという考えは頭から抜け落ちて、	The thought of holding back her voice had completely vanished,
+84673	+		ただ襲い来る快楽に体を跳ねさせることしか出来なくなっていた。	and she could only twitch her body in response to the pleasure.
 
-84674	Rance	「おおーー、もう奥まで入らないのに、	「Ooh, even though it can't go any deeper,
-84675	+	　まだぐっぷぐっぷと、かすかに動けるな」	　it's still moving a little with gup gup sounds.」
+84674	Rance		「おおーー、もう奥まで入らないのに、	「Ooh, even though it can't go any deeper,
+84675	+		　まだぐっぷぐっぷと、かすかに動けるな」	　it's still moving a little with gup gup sounds.」
 
-84676	Agireda Kosabusshi Zonna Abona	「やめ、もうわらひの体、玩具に、んあっ！　しない、でぇ！	「Stop, don't turn my body into a toy, nha! Please!」
-84677	+	　ああっ、あんっ、ああっ！」	　Aah, ahn, aah!」
+84676	Agireda Kosabusshi Zonna Abona		「やめ、もうわらひの体、玩具に、んあっ！　しない、でぇ！	「Stop, don't turn my body into a toy, nha! Please!」
+84677	+		　ああっ、あんっ、ああっ！」	　Aah, ahn, aah!」
 
-84678	Rance	「がははは、すごい反応だな、アギレダ！	「Gahahaha, what an amazing reaction, Agireda!
-84679	+	　おもろい、おもろい！」	　So fun, so fun!」
+84678	Rance		「がははは、すごい反応だな、アギレダ！	「Gahahaha, what an amazing reaction, Agireda!
+84679	+		　おもろい、おもろい！」	　So fun, so fun!」
 
-84680	Agireda Kosabusshi Zonna Abona	「ちがっ、それはぁ……！　体、がぁ、勝手に……！」	「No, that's...! My body is moving on its own...!」
+84680	Agireda Kosabusshi Zonna Abona		「ちがっ、それはぁ……！　体、がぁ、勝手に……！」	「No, that's...! My body is moving on its own...!」
 
-84681	Agireda Kosabusshi Zonna Abona	「んにゃあ！　も、もう、許し、てぇ……！」	「Nnyaa! P-please, forgive me...!」
+84681	Agireda Kosabusshi Zonna Abona		「んにゃあ！　も、もう、許し、てぇ……！」	「Nnyaa! P-please, forgive me...!」
 
-84682	-	アギレダは許してもらおうと嫌々と首を振るが、	Agireda shook her head desperately begging for mercy,
-84683	+	その行動とは裏腹に、体は強い快楽に抗えず甘い声を上げた。	but contrary to her actions her body couldn't resist the strong pleasure and let out sweet moans.
+84682	-		アギレダは許してもらおうと嫌々と首を振るが、	Agireda shook her head desperately begging for mercy,
+84683	+		その行動とは裏腹に、体は強い快楽に抗えず甘い声を上げた。	but contrary to her actions her body couldn't resist the strong pleasure and let out sweet moans.
 
-84684	Rance	「本気で嫌なのか喜んでるのか分からんなこれじゃ。	「I can't tell if you really hate it or love it.
-84685	+	　まあいい、もっと喜んでもらうだけだ」	　Whatever, I'll just make you feel even better.」
+84684	Rance		「本気で嫌なのか喜んでるのか分からんなこれじゃ。	「I can't tell if you really hate it or love it.
+84685	+		　まあいい、もっと喜んでもらうだけだ」	　Whatever, I'll just make you feel even better.」
 
-84686	-	ぐいっと押し込んだ瓶の底を指の腹で押さえつけ、	He pressed the bottom of the deeply inserted bottle with his fingers
-84687	+	ぶるぶると手を震わせた。	and shook his hand rapidly.
+84686	-		ぐいっと押し込んだ瓶の底を指の腹で押さえつけ、	He pressed the bottom of the deeply inserted bottle with his fingers
+84687	+		ぶるぶると手を震わせた。	and shook his hand rapidly.
 
-84688	Agireda Kosabusshi Zonna Abona	「んやぁあああ！」	「Nyaaaaah!」
+84688	Agireda Kosabusshi Zonna Abona		「んやぁあああ！」	「Nyaaaaah!」
 
-84689	-	膣内のもっとも敏感な部分が擦り上げられて、	The most sensitive part inside her pussy was rubbed hard,
-84690	+	アギレダは弓なりに背を反らした。	and Agireda arched her back like a bow.
+84689	-		膣内のもっとも敏感な部分が擦り上げられて、	The most sensitive part inside her pussy was rubbed hard,
+84690	+		アギレダは弓なりに背を反らした。	and Agireda arched her back like a bow.
 
-84691	-	ベッドに突っ張らせた四肢が腰の辺りを持ち上げ、	Her limbs braced against the bed lifted her hips,
-84692	+	まるで花弁をランスに捧げるようなポーズを取ってしまう。	taking a pose as if offering her petals to Rance.
+84691	-		ベッドに突っ張らせた四肢が腰の辺りを持ち上げ、	Her limbs braced against the bed lifted her hips,
+84692	+		まるで花弁をランスに捧げるようなポーズを取ってしまう。	taking a pose as if offering her petals to Rance.
 
-84693	Agireda Kosabusshi Zonna Abona~	（ああっ、こんな恥ずかしいポーズ取りたくないのに……！	（Aah, I don't want to take such an embarrassing pose...!」
-84694	+	　か、体が勝手にぃぃ……！）	　My body is moving on its own...!）
+84693	Agireda Kosabusshi Zonna Abona~		（ああっ、こんな恥ずかしいポーズ取りたくないのに……！	（Aah, I don't want to take such an embarrassing pose...!」
+84694	+		　か、体が勝手にぃぃ……！）	　My body is moving on its own...!）
 
-84695	Agireda Kosabusshi Zonna Abona	「駄目！　駄目！　駄目！　これ、いじょ、う、は！	「No! No! No! This is ab, nor, mal!
-84696	+	　それ、んあっ、本当に、んやぁああ、んにゃ、ああっ！」	　That, nha, really, nyaaaa, nnya, aah!」
+84695	Agireda Kosabusshi Zonna Abona		「駄目！　駄目！　駄目！　これ、いじょ、う、は！	「No! No! No! This is ab, nor, mal!
+84696	+		　それ、んあっ、本当に、んやぁああ、んにゃ、ああっ！」	　That, nha, really, nyaaaa, nnya, aah!」
 
-84697	Agireda Kosabusshi Zonna Abona	「し、神聖な道具で……い、イッたり、なんて……！」	「C-cumming with a sacred tool...!」
+84697	Agireda Kosabusshi Zonna Abona		「し、神聖な道具で……い、イッたり、なんて……！」	「C-cumming with a sacred tool...!」
 
-84698	Rance	「ほほう、さすが巫女様は考えることも立派だな」	「Hohou, as expected of the shrine maiden, you have noble thoughts.
+84698	Rance		「ほほう、さすが巫女様は考えることも立派だな」	「Hohou, as expected of the shrine maiden, you have noble thoughts.
 
-84699	Agireda Kosabusshi Zonna Abona	「そ、そう……わらひ、は、皆の手本となる、べき身、でぇ……	「Y-yes... I am supposed to be a role model for everyone...
-84700	+	　だから、んっ！　き、気持ち良くなったりなんかしちゃ……！」	　So, nnh! I can't feel good like this...!
+84699	Agireda Kosabusshi Zonna Abona		「そ、そう……わらひ、は、皆の手本となる、べき身、でぇ……	「Y-yes... I am supposed to be a role model for everyone...
+84700	+		　だから、んっ！　き、気持ち良くなったりなんかしちゃ……！」	　So, nnh! I can't feel good like this...!
 
-84701	Agireda Kosabusshi Zonna Abona~	（そ、そうよ、このまま無様に、い、イッたりなんて……	（That's right, cumming so shamelessly like this...
-84702	+	　ご先祖様達に申し訳が立たないわ……）	　I could never face my ancestors...）
+84701	Agireda Kosabusshi Zonna Abona~		（そ、そうよ、このまま無様に、い、イッたりなんて……	（That's right, cumming so shamelessly like this...
+84702	+		　ご先祖様達に申し訳が立たないわ……）	　I could never face my ancestors...）
 
-84703	Agireda Kosabusshi Zonna Abona~	（が、我慢……我慢、しないと……！）	（I have to... endure...!）
+84703	Agireda Kosabusshi Zonna Abona~		（が、我慢……我慢、しないと……！）	（I have to... endure...!）
 
-84704	Rance	「だが、遠慮せず激しくイッてしまうがいい！	「But don't hold back, cum hard!
-84705	+	　とーとー！」	　Tooo!」
+84704	Rance		「だが、遠慮せず激しくイッてしまうがいい！	「But don't hold back, cum hard!
+84705	+		　とーとー！」	　Tooo!」
 
-84706	-	アギレダの反応に気をよくしたランスが	Pleased by Agireda's reaction, Rance
-84707	+	フィニッシュとばかりに乱暴に瓶をねじ込んだ。	roughly twisted the bottle in for the finish.
+84706	-		アギレダの反応に気をよくしたランスが	Pleased by Agireda's reaction, Rance
+84707	+		フィニッシュとばかりに乱暴に瓶をねじ込んだ。	roughly twisted the bottle in for the finish.
 
-84708	Agireda Kosabusshi Zonna Abona	「ひやあっ！？　ああっ！？　あ、う、うそ！　ああああ！？」	「Hiyaa!? Aah!? N-no way! Aaaaaah!?」
+84708	Agireda Kosabusshi Zonna Abona		「ひやあっ！？　ああっ！？　あ、う、うそ！　ああああ！？」	「Hiyaa!? Aah!? N-no way! Aaaaaah!?」
 
-84709	-	瓶の口が膣内の最奥をグリグリといじくる刺激に、	The mouth of the bottle grinding against her deepest spot
-84710	+	アギレダが全身をビクビクと跳ねさせる。	made Agireda's whole body twitch violently.
+84709	-		瓶の口が膣内の最奥をグリグリといじくる刺激に、	The mouth of the bottle grinding against her deepest spot
+84710	+		アギレダが全身をビクビクと跳ねさせる。	made Agireda's whole body twitch violently.
 
-84711	-	脳が焼き切れそうな刺激に景色がチカチカと明滅していた。	The brain-melting stimulation made her vision flicker.
+84711	-		脳が焼き切れそうな刺激に景色がチカチカと明滅していた。	The brain-melting stimulation made her vision flicker.
 
-84712	Agireda Kosabusshi Zonna Abona~	（壊れる！　壊されちゃう！	（It's breaking! I'm being broken!
-84713	+	　ワタシ、ランスに、メチャクチャに、ああっ、される！）	　Rance is messing me up completely, aah!）
+84712	Agireda Kosabusshi Zonna Abona~		（壊れる！　壊されちゃう！	（It's breaking! I'm being broken!
+84713	+		　ワタシ、ランスに、メチャクチャに、ああっ、される！）	　Rance is messing me up completely, aah!）
 
-84714	Agireda Kosabusshi Zonna Abona	「ああ、だめっ！　この、まま、じゃあ……	「Aah, no! If it stays like this...
-84715	+	　ほ、本当に、イッ、イッちゃう……！　ああああ……！」	　I'll really, really cum...! Aaaaa...!」
+84714	Agireda Kosabusshi Zonna Abona		「ああ、だめっ！　この、まま、じゃあ……	「Aah, no! If it stays like this...
+84715	+		　ほ、本当に、イッ、イッちゃう……！　ああああ……！」	　I'll really, really cum...! Aaaaa...!」
 
-84716	-	膣内からこみ上げる波の感覚にアギレダが背筋を寒くした。	The rising wave from deep inside made Agireda shiver.
+84716	-		膣内からこみ上げる波の感覚にアギレダが背筋を寒くした。	The rising wave from deep inside made Agireda shiver.
 
-84717	Agireda Kosabusshi Zonna Abona~	（いや、イクなんて、駄目……！	（No, I can't cum...!
-84718	+	　先祖から受け継いできた神聖な道具を、こんな使い方で……！）	　Using the sacred tool inherited from my ancestors like this...!）
+84717	Agireda Kosabusshi Zonna Abona~		（いや、イクなんて、駄目……！	（No, I can't cum...!
+84718	+		　先祖から受け継いできた神聖な道具を、こんな使い方で……！）	　Using the sacred tool inherited from my ancestors like this...!）
 
-84719	Agireda Kosabusshi Zonna Abona~	（駄目、駄目なのに……ああ、気持ち、良すぎて……！	（No, I shouldn't... aah, it feels too good...!
-84720	+	　ランスに、弄られるの、気持ち良すぎて、駄目ぇ……！）	　Being toyed with by Rance feels too good, nooo...!）
+84719	Agireda Kosabusshi Zonna Abona~		（駄目、駄目なのに……ああ、気持ち、良すぎて……！	（No, I shouldn't... aah, it feels too good...!
+84720	+		　ランスに、弄られるの、気持ち良すぎて、駄目ぇ……！）	　Being toyed with by Rance feels too good, nooo...!）
 
-84721	Rance	「とーーーう！」	「Tooo!」
+84721	Rance		「とーーーう！」	「Tooo!」
 
-84722	Agireda Kosabusshi Zonna Abona	「……はっ、あっ！」	「...Ha, ah!」
+84722	Agireda Kosabusshi Zonna Abona		「……はっ、あっ！」	「...Ha, ah!」
 
-84723	-	アギレダの呼吸が止まる。	Agireda's breathing stopped.
+84723	-		アギレダの呼吸が止まる。	Agireda's breathing stopped.
 
-84724	-	自分では到底止めようのない大きな波が、	An unstoppable huge wave
-84725	+	下腹部から一斉に全身を駆け巡る気配がした。	rushed from her lower belly throughout her body.
+84724	-		自分では到底止めようのない大きな波が、	An unstoppable huge wave
+84725	+		下腹部から一斉に全身を駆け巡る気配がした。	rushed from her lower belly throughout her body.
 
-84726	Agireda Kosabusshi Zonna Abona	「あ、あ……」	「A, a...」
+84726	Agireda Kosabusshi Zonna Abona		「あ、あ……」	「A, a...」
 
-84727	Agireda Kosabusshi Zonna Abona~	（もう……）	（Already...）
+84727	Agireda Kosabusshi Zonna Abona~		（もう……）	（Already...）
 
-84728	Agireda Kosabusshi Zonna Abona~	（駄目ぇ……）	（Nooo...）
+84728	Agireda Kosabusshi Zonna Abona~		（駄目ぇ……）	（Nooo...）
 
-84729	Agireda Kosabusshi Zonna Abona	「んひうっ、んんんんんんんんんんんん！」	「Nhi u, nnnnnnnnnnn!」
+84729	Agireda Kosabusshi Zonna Abona		「んひうっ、んんんんんんんんんんんん！」	「Nhi u, nnnnnnnnnnn!」
 
-84730	-	最早何度目かになるかも分からない、	She didn't even know how many times it had been,
-84731	+	激しい絶頂がアギレダの体を襲う。	but a violent orgasm assaulted her body.
+84730	-		最早何度目かになるかも分からない、	She didn't even know how many times it had been,
+84731	+		激しい絶頂がアギレダの体を襲う。	but a violent orgasm assaulted her body.
 
-84732	-	それは今まで我慢していた分も重ねた、	It was an explosive orgasm
-84733	+	爆発のような絶頂だった。	that included all the pleasure she had held back.
+84732	-		それは今まで我慢していた分も重ねた、	It was an explosive orgasm
+84733	+		爆発のような絶頂だった。	that included all the pleasure she had held back.
 
-84734	-	膣内に瓶を入れたまま、瓶の底を振り回すように、	With the bottle still inside, Rance shook the bottom like stirring,
-84735	+	アギレダの腰がガクガクと動く。	making Agireda's hips jerk wildly.
+84734	-		膣内に瓶を入れたまま、瓶の底を振り回すように、	With the bottle still inside, Rance shook the bottom like stirring,
+84735	+		アギレダの腰がガクガクと動く。	making Agireda's hips jerk wildly.
 
-84736	Agireda Kosabusshi Zonna Abona~	（ああっ……私、こんないやらしいことに……	（Aah... I'm doing something so lewd...
-84737	+	　こんな神聖な道具を使って……ああっ……！）	　Using such a sacred tool... aah...!）
+84736	Agireda Kosabusshi Zonna Abona~		（ああっ……私、こんないやらしいことに……	（Aah... I'm doing something so lewd...
+84737	+		　こんな神聖な道具を使って……ああっ……！）	　Using such a sacred tool... aah...!）
 
-84738	Agireda Kosabusshi Zonna Abona~	（あ、あ……ご、ご先祖様……申し訳ありません……）	（A, aah... ancestors... I'm so sorry...）
+84738	Agireda Kosabusshi Zonna Abona~		（あ、あ……ご、ご先祖様……申し訳ありません……）	（A, aah... ancestors... I'm so sorry...）
 
-84739	-	羞恥と後悔と罪悪感で心を一杯にしつつ、	Her heart filled with shame, regret, and guilt,
-84740	+	それらが全て絶頂の快楽に塗りつぶされる。	but all of it was painted over by orgasmic pleasure.
+84739	-		羞恥と後悔と罪悪感で心を一杯にしつつ、	Her heart filled with shame, regret, and guilt,
+84740	+		それらが全て絶頂の快楽に塗りつぶされる。	but all of it was painted over by orgasmic pleasure.
 
-84741	Agireda Kosabusshi Zonna Abona~	（あっ、でも、今は……今だけは……！	（Ah, but right now... just for now...!
-84742	+	　このまま気持ちよさに……浸って……！　ああっ……！）	　I want to drown in this pleasure... aah...!）
+84741	Agireda Kosabusshi Zonna Abona~		（あっ、でも、今は……今だけは……！	（Ah, but right now... just for now...!
+84742	+		　このまま気持ちよさに……浸って……！　ああっ……！）	　I want to drown in this pleasure... aah...!）
 
-84743	-	そのままアギレダは、十数秒続く長い絶頂を味わい続けた。	Agireda continued to savor the long orgasm that lasted over ten seconds.
+84743	-		そのままアギレダは、十数秒続く長い絶頂を味わい続けた。	Agireda continued to savor the long orgasm that lasted over ten seconds.
 
-84744	Agireda Kosabusshi Zonna Abona	「んむ……はふ……んんんん、いいいいい……」	「Nmu... hafu... nnnnn, so goooood...」
+84744	Agireda Kosabusshi Zonna Abona		「んむ……はふ……んんんん、いいいいい……」	「Nmu... hafu... nnnnn, so goooood...」
 
-84745	-	　　＜ぴゅっ、ぴゅるっ……＞	　　＜Pyu, pyuru...＞
+84745	-		　　＜ぴゅっ、ぴゅるっ……＞	　　＜Pyu, pyuru...＞
 
-84746	-	絶頂によりアギレダの膣内が自然と収縮を繰り返し、	From the orgasm, Agireda's pussy contracted naturally,
-84747	+	ずっぽりと銜え込んでいた瓶を、精液と共に外へと押し出した。	pushing out the deeply swallowed bottle along with thick semen.
+84746	-		絶頂によりアギレダの膣内が自然と収縮を繰り返し、	From the orgasm, Agireda's pussy contracted naturally,
+84747	+		ずっぽりと銜え込んでいた瓶を、精液と共に外へと押し出した。	pushing out the deeply swallowed bottle along with thick semen.
 
-84748	Agireda Kosabusshi Zonna Abona	「あひう……はあ、ひ……あふ……」	「Ahiu... haa, hi... afu...」
+84748	Agireda Kosabusshi Zonna Abona		「あひう……はあ、ひ……あふ……」	「Ahiu... haa, hi... afu...」
 
-84749	-	全身はガクガクと痙攣し力が入らず、意識は朦朧。	Her whole body convulsed, strength gone, mind hazy.
-84750	+	アギレダは意味を持たない声を漏らしていた。	Agireda leaked meaningless sounds.
+84749	-		全身はガクガクと痙攣し力が入らず、意識は朦朧。	Her whole body convulsed, strength gone, mind hazy.
+84750	+		アギレダは意味を持たない声を漏らしていた。	Agireda leaked meaningless sounds.
 
-84751	Rance	「とろーんとした顔して気持ちよさそうだなー」	「That melted face looks like it felt amazing.」
+84751	Rance		「とろーんとした顔して気持ちよさそうだなー」	「That melted face looks like it felt amazing.」
 
-84752	Rance	「うむ！　やはり俺様はテクニックでも	「Yeah! As expected, even in technique
-84753	+	　最高の男ということが証明されたな！」	　I'm the greatest man!」
+84752	Rance		「うむ！　やはり俺様はテクニックでも	「Yeah! As expected, even in technique
+84753	+		　最高の男ということが証明されたな！」	　I'm the greatest man!」
 
-84754	Rance	「がはははははははははははは！」	「Gahahahahahahahahaha!」
+84754	Rance		「がはははははははははははは！」	「Gahahahahahahahahaha!」
 
-84755	Agireda Kosabusshi Zonna Abona~	（あ、う……やっぱり、この男……最低……だ）	（A, u... this man really is the worst...）
+84755	Agireda Kosabusshi Zonna Abona~		（あ、う……やっぱり、この男……最低……だ）	（A, u... this man really is the worst...）
 
-84756	-	朦朧とする意識の中、アギレダはなんとかそれだけを思った。	In her hazy consciousness, Agireda somehow managed to think only that.
+84756	-		朦朧とする意識の中、アギレダはなんとかそれだけを思った。	In her hazy consciousness, Agireda somehow managed to think only that.
 
-84757	-	…………	............
+84757	-		…………	............
 
-84758	-	……	......
+84758	-		……	......
 
-84759	-	セックスが終わってから、ランスは改めて	After the sex ended, Rance once again
-84760	+	コーラの瓶をしげしげと眺めた。	stared intently at the cola bottle.
+84759	-		セックスが終わってから、ランスは改めて	After the sex ended, Rance once again
+84760	+		コーラの瓶をしげしげと眺めた。	stared intently at the cola bottle.
 
-84761	Rance	「しかし、こんな瓶が大事なんて不思議だなぁ」	「Still, it's strange that such a bottle is so important.」
+84761	Rance	全裸／真剣	「しかし、こんな瓶が大事なんて不思議だなぁ」	「Still, it's strange that such a bottle is so important.」
 
-84762	Agireda Kosabusshi Zonna Abona	「この瓶自体に価値があるわけじゃないわ」	「The bottle itself has no value.」
+84762	Agireda Kosabusshi Zonna Abona	全裸	「この瓶自体に価値があるわけじゃないわ」	「The bottle itself has no value.」
 
-84763	Agireda Kosabusshi Zonna Abona	「ワタシの部族に伝わる大事な儀式に、	「It's an absolutely necessary tool
-84764	+	　どうしても必要な道具なんだ」	　for an important ritual passed down in my tribe.」
+84763	Agireda Kosabusshi Zonna Abona		「ワタシの部族に伝わる大事な儀式に、	「It's an absolutely necessary tool
+84764	+		　どうしても必要な道具なんだ」	　for an important ritual passed down in my tribe.」
 
-84765	Agireda Kosabusshi Zonna Abona	「一年に一回、	「Once a year,
-84766	+	　世界の果てからコーラの瓶を捨てる……	　we must discard a cola bottle at the end of the world...
-84767	+	　部族の巫女に課せられた大事な儀式……」	　It's an important ritual imposed on the tribe's shrine maiden...」
+84765	Agireda Kosabusshi Zonna Abona		「一年に一回、	「Once a year,
+84766	+		　世界の果てからコーラの瓶を捨てる……	　we must discard a cola bottle at the end of the world...
+84767	+		　部族の巫女に課せられた大事な儀式……」	　It's an important ritual imposed on the tribe's shrine maiden...」
 
-84768	-	コーラの瓶をランスから受け取ったアギレダは	Agireda took the cola bottle from Rance
-84769	+	瓶を決意を秘めた瞳で見つめた。	and gazed at it with eyes full of determination.
+84768	-		コーラの瓶をランスから受け取ったアギレダは	Agireda took the cola bottle from Rance
+84769	+		瓶を決意を秘めた瞳で見つめた。	and gazed at it with eyes full of determination.
 
-84770	Agireda Kosabusshi Zonna Abona	「ランス……	「Rance...
-84771	+	　ワタシは魔物界まで行きたいと思う」	　I want to go all the way to the Monster Realm.」
+84770	Agireda Kosabusshi Zonna Abona	コーラ瓶全裸	「ランス……	「Rance...
+84771	+		　ワタシは魔物界まで行きたいと思う」	　I want to go all the way to the Monster Realm.」
 
-84772	Agireda Kosabusshi Zonna Abona	「JAPANから最も遠い世界の果てで、	「At the farthest end of the world from JAPAN,
-84773	+	　今度こそこの瓶を捨てる……」	　this time I will discard this bottle...」
+84772	Agireda Kosabusshi Zonna Abona		「JAPANから最も遠い世界の果てで、	「At the farthest end of the world from JAPAN,
+84773	+		　今度こそこの瓶を捨てる……」	　this time I will discard this bottle...」
 
-84774	Agireda Kosabusshi Zonna Abona	「ただ、その……自分一人では……」	「But, um... by myself...
+84774	Agireda Kosabusshi Zonna Abona	コーラ瓶全裸／泣き	「ただ、その……自分一人では……」	「But, um... by myself...
 
-84775	Agireda Kosabusshi Zonna Abona	「…………」	「............」
+84775	Agireda Kosabusshi Zonna Abona		「…………」	「............」
 
-84776	Agireda Kosabusshi Zonna Abona	「あの、情けない話なんだけど……	「This is embarrassing but...
-84777	+	　その、出来れば……」	　If possible...」
+84776	Agireda Kosabusshi Zonna Abona		「あの、情けない話なんだけど……	「This is embarrassing but...
+84777	+		　その、出来れば……」	　If possible...」
 
-84778	Rance	「おう、なら手伝ってやろう」	「Sure, I'll help you.」
+84778	Rance	全裸	「おう、なら手伝ってやろう」	「Sure, I'll help you.」
 
-84779	Agireda Kosabusshi Zonna Abona	「あっ……！」	「Ah...!」
+84779	Agireda Kosabusshi Zonna Abona	コーラ瓶全裸／驚愕ツンデレ	「あっ……！」	「Ah...!」
 
-84780	Agireda Kosabusshi Zonna Abona	「ランス！」	「Rance!」
+84780	Agireda Kosabusshi Zonna Abona	コーラ瓶全裸／ツンデレ	「ランス！」	「Rance!」
 
-84781	-	ぎゅっとアギレダがランスに抱きついた。	Agireda hugged Rance tightly.
+84781	-		ぎゅっとアギレダがランスに抱きついた。	Agireda hugged Rance tightly.
 
-84782	Rance	「がははは、いい男とは女のワガママを	「Gahahaha, a real man listens
-84783	+	　聞いてやるものなのだ！」	　to a woman's selfish requests!」
+84782	Rance	全裸	「がははは、いい男とは女のワガママを	「Gahahaha, a real man listens
+84783	+		　聞いてやるものなのだ！」	　to a woman's selfish requests!」
 
-84784	Agireda Kosabusshi Zonna Abona	「魔物界に行くことがあったら、	「If you ever go to the Monster Realm,
-84785	+	　絶対にワタシも連れて行って欲しい」	　you must take me with you.」
+84784	Agireda Kosabusshi Zonna Abona	コーラ瓶全裸／ツンデレ	「魔物界に行くことがあったら、	「If you ever go to the Monster Realm,
+84785	+		　絶対にワタシも連れて行って欲しい」	　you must take me with you.」
 
-84786	Rance	「おうおう。	「Yeah yeah.
-84787	+	　安心しろ、俺様は約束は守る男だ」	　Don't worry, I'm a man who keeps his promises.」
+84786	Rance	全裸	「おうおう。	「Yeah yeah.
+84787	+		　安心しろ、俺様は約束は守る男だ」	　Don't worry, I'm a man who keeps his promises.」
 
-84788	Rance~	（魔物界の端でコーラの瓶を捨てる、ね……	（Discarding a cola bottle at the edge of the Monster Realm, huh...
-84789	+	　覚えていたら実行しないとな）	　I'll have to do it if I remember.）
+84788	Rance~	全裸／真剣	（魔物界の端でコーラの瓶を捨てる、ね……	（Discarding a cola bottle at the edge of the Monster Realm, huh...
+84789	+		　覚えていたら実行しないとな）	　I'll have to do it if I remember.）

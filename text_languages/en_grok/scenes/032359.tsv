@@ -4,108 +4,108 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Rance	ランス	Male
 
-144346	-	魔軍野営地――	Monster Army Camp――
+144346	-		魔軍野営地――	Monster Army Camp――
 
-144347	-	魔軍司令部内――	Inside Monster Army Headquarters――
+144347	-		魔軍司令部内――	Inside Monster Army Headquarters――
 
-144348	Monster Captain	「失礼します、将軍。	「Excuse me, General.
-144349	+	　大将軍ルメイ様より手紙が届いております」	　A letter has arrived from Great General LeMay-sama.」
+144348	Monster Captain	基本	「失礼します、将軍。	「Excuse me, General.
+144349	+		　大将軍ルメイ様より手紙が届いております」	　A letter has arrived from Great General LeMay-sama.」
 
-144350	Monster General	「おお、そうか。見せてみろ」	「Oh, is that so. Let me see it.」
+144350	Monster General		「おお、そうか。見せてみろ」	「Oh, is that so. Let me see it.」
 
-144351	Monster General	「ほほほ、ふむふむ……」	「Hohoho, hmm hmm...」
+144351	Monster General		「ほほほ、ふむふむ……」	「Hohoho, hmm hmm...」
 
-144352	-	手紙に目を通すと、	After reading the letter,
-144353	+	魔物将軍はすぐに上機嫌になった。	the Monster General became cheerful right away.
+144352	-		手紙に目を通すと、	After reading the letter,
+144353	+		魔物将軍はすぐに上機嫌になった。	the Monster General became cheerful right away.
 
-144354	Monster General	「都市部の焼却についてお褒めの言葉だ」	「It's praise for the incineration of urban areas.」
+144354	Monster General		「都市部の焼却についてお褒めの言葉だ」	「It's praise for the incineration of urban areas.」
 
-144355	Monster Captain	「おお、そうですか……」	「Oh, is that so...」
+144355	Monster Captain		「おお、そうですか……」	「Oh, is that so...」
 
-144356	Monster General	「うむ、それ以外にも指示が書かれている。	「Yes, there are other instructions as well.
-144357	+	　風下から火をつけよ、時刻は朝方が良し……	　Light the fires from downwind, early morning is best...
-144358	+	　うぅむ、的確なご指示だ」	　Umu, very precise orders.」
+144356	Monster General		「うむ、それ以外にも指示が書かれている。	「Yes, there are other instructions as well.
+144357	+		　風下から火をつけよ、時刻は朝方が良し……	　Light the fires from downwind, early morning is best...
+144358	+		　うぅむ、的確なご指示だ」	　Umu, very precise orders.」
 
-144359	-	魔物将軍は嬉しそうに、	The Monster General happily
-144360	+	文字を目で追いながら何度も頷いた。	nodded repeatedly while scanning the text.
+144359	-		魔物将軍は嬉しそうに、	The Monster General happily
+144360	+		文字を目で追いながら何度も頷いた。	nodded repeatedly while scanning the text.
 
-144361	Monster General	「うむうむ、作戦は今のところ成功だな」	「Yes yes, the operation is going well so far.」
+144361	Monster General		「うむうむ、作戦は今のところ成功だな」	「Yes yes, the operation is going well so far.」
 
-144362	Monster General	「お、そういえばＪＡＰＡＮの軍はどうしてる？」	「Oh, by the way, what about the JAPAN army?」
+144362	Monster General		「お、そういえばＪＡＰＡＮの軍はどうしてる？」	「Oh, by the way, what about the JAPAN army?」
 
-144363	Monster Captain	「今も我が陣地の正面に」	「Still positioned right in front of our camp.」
+144363	Monster Captain		「今も我が陣地の正面に」	「Still positioned right in front of our camp.」
 
-144364	Monster Captain	「どうされます？	「What should we do?
-144365	+	　今からでもこちらから攻め入りますか？」	　Shall we launch an attack now?」
+144364	Monster Captain		「どうされます？	「What should we do?
+144365	+		　今からでもこちらから攻め入りますか？」	　Shall we launch an attack now?」
 
-144366	Monster General	「いや、私は慎重な男。	「No, I am a cautious man.
-144367	+	　向こうが来るまでここで待つ」	　We'll wait here until they come.」
+144366	Monster General		「いや、私は慎重な男。	「No, I am a cautious man.
+144367	+		　向こうが来るまでここで待つ」	　We'll wait here until they come.」
 
-144368	Monster General	「今日会った将の女、あれは猪武者だ。	「That female general I met today is a reckless warrior.
-144369	+	　いずれは焦れてここに攻め入ってくるぞ」	　She'll get impatient and attack soon enough.」
+144368	Monster General		「今日会った将の女、あれは猪武者だ。	「That female general I met today is a reckless warrior.
+144369	+		　いずれは焦れてここに攻め入ってくるぞ」	　She'll get impatient and attack soon enough.」
 
-144370	Monster Captain	「その際はどうやって来るでしょうね」	「How do you think they'll come?」
+144370	Monster Captain		「その際はどうやって来るでしょうね」	「How do you think they'll come?」
 
-144371	Monster General	「ふっ、人間の考えなど浅はかなものよ」	「Heh, human thinking is so shallow.」
+144371	Monster General		「ふっ、人間の考えなど浅はかなものよ」	「Heh, human thinking is so shallow.」
 
-144372	Monster General	「兵の数と質で劣る奴らに出来ることは	「For those inferior in numbers and quality,
-144373	+	　闇討ち、つまり奇襲だ。	　the only option is a night raid, a surprise attack.
-144374	+	　早ければ、今夜中に来るかもな」	　It could even happen tonight.」
+144372	Monster General		「兵の数と質で劣る奴らに出来ることは	「For those inferior in numbers and quality,
+144373	+		　闇討ち、つまり奇襲だ。	　the only option is a night raid, a surprise attack.
+144374	+		　早ければ、今夜中に来るかもな」	　It could even happen tonight.」
 
-144375	Monster General	「ふふっ、見張りと罠の数は増やしておけよ。	「Fufu, increase the number of lookouts and traps.
-144376	+	　そして出来るだけ生け捕りにするのだ」	　And capture as many alive as possible.」
+144375	Monster General		「ふふっ、見張りと罠の数は増やしておけよ。	「Fufu, increase the number of lookouts and traps.
+144376	+		　そして出来るだけ生け捕りにするのだ」	　And capture as many alive as possible.」
 
-144377	Monster General	「くくく、あの軍はいい。	「Kukuku, that army is nice.
-144378	+	　なにしろ女だけで構成されているからな」	　After all, it's made up entirely of women.」
+144377	Monster General		「くくく、あの軍はいい。	「Kukuku, that army is nice.
+144378	+		　なにしろ女だけで構成されているからな」	　After all, it's made up entirely of women.」
 
-144379	Monster Captain	「生け捕りに出来た場合、女共はどうします？」	「What do we do with the captured women?」
+144379	Monster Captain		「生け捕りに出来た場合、女共はどうします？」	「What do we do with the captured women?」
 
-144380	Monster General	「決まってる。犯し殺すのだ。	「Obviously, rape and kill them.
-144381	+	　その際はお前らにも手伝ってもらうぞ」	　You guys will help with that too.」
+144380	Monster General		「決まってる。犯し殺すのだ。	「Obviously, rape and kill them.
+144381	+		　その際はお前らにも手伝ってもらうぞ」	　You guys will help with that too.」
 
-144382	Monster Captain	「おおっ、それは皆も喜びましょう……」	「Ohh, everyone will be delighted...」
+144382	Monster Captain		「おおっ、それは皆も喜びましょう……」	「Ohh, everyone will be delighted...」
 
-144383	Monster General	「はははははははっ！」	「Hahahahahaha!」
+144383	Monster General		「はははははははっ！」	「Hahahahahaha!」
 
-144384	-	そのとき、室内に兵が飛び込んできた。	At that moment, a soldier burst into the room.
+144384	-		そのとき、室内に兵が飛び込んできた。	At that moment, a soldier burst into the room.
 
-144385	Green Monster Soldier	「た、大変です将軍！	「T-terrible news, General!
-144386	+	　人間の部隊が強襲に来ました！」	　A human unit is launching a surprise attack!」
+144385	Green Monster Soldier		「た、大変です将軍！	「T-terrible news, General!
+144386	+		　人間の部隊が強襲に来ました！」	　A human unit is launching a surprise attack!」
 
-144387	Monster General	「ほう、もう来たか。	「Oh, they're here already.
-144388	+	　で、今どの辺りだ？　どれくらいで来る？」	　Where are they now? How soon will they arrive?」
+144387	Monster General		「ほう、もう来たか。	「Oh, they're here already.
+144388	+		　で、今どの辺りだ？　どれくらいで来る？」	　Where are they now? How soon will they arrive?」
 
-144389	Green Monster Soldier	「す、すぐに来ます！」	「They're coming right now!」
+144389	Green Monster Soldier		「す、すぐに来ます！」	「They're coming right now!」
 
-144390	Green Monster Soldier	「向こうは少数精鋭で来た模様！	「It seems they came with a small elite force!
-144391	+	　陣地の裏から回り込まれ、発見が遅れました！」	　They circled around from the back of the camp, so detection was delayed!」
+144390	Green Monster Soldier		「向こうは少数精鋭で来た模様！	「It seems they came with a small elite force!
+144391	+		　陣地の裏から回り込まれ、発見が遅れました！」	　They circled around from the back of the camp, so detection was delayed!」
 
-144392	Green Monster Soldier	「敵はもうこの砦内に――ッ！」	「The enemy is already inside the fort――!」
+144392	Green Monster Soldier		「敵はもうこの砦内に――ッ！」	「The enemy is already inside the fort――!」
 
-144393	Rance	「死ねーーーッ！」	「Dieeeeee!」
+144393	Rance	怒り	「死ねーーーッ！」	「Dieeeeee!」
 
-144394	-	扉を蹴破り室内に突撃したランスが	Rance kicked down the door and charged inside,
-144395	+	魔物兵を切り捨てた。	slashing down monster soldiers.
+144394	-		扉を蹴破り室内に突撃したランスが	Rance kicked down the door and charged inside,
+144395	+		魔物兵を切り捨てた。	slashing down monster soldiers.
 
-144396	Monster Captain	「なななっ！？　もうここまで来ただと！？」	「Wh-wh-what!? They're already here!?」
+144396	Monster Captain	基本	「なななっ！？　もうここまで来ただと！？」	「Wh-wh-what!? They're already here!?」
 
-144397	Monster Captain	「者共！　敵襲！　敵襲だー！」	「Everyone! Enemy attack! Enemy attack!」
+144397	Monster Captain		「者共！　敵襲！　敵襲だー！」	「Everyone! Enemy attack! Enemy attack!」
 
-144398	Rance	「がははは、魔物将軍発見！」	「Gahahaha, found the Monster General!」
+144398	Rance	笑顔	「がははは、魔物将軍発見！」	「Gahahaha, found the Monster General!」
 
-144399	Monster General	「…………」	「............」
+144399	Monster General	基本	「…………」	「............」
 
-144400	Monster General	「……貴様、正気か？	「...Are you sane?
-144401	+	　それだけの人数で敵陣ド真ん中に来るとは」	　Coming right into the middle of the enemy camp with so few people?」
+144400	Monster General		「……貴様、正気か？	「...Are you sane?
+144401	+		　それだけの人数で敵陣ド真ん中に来るとは」	　Coming right into the middle of the enemy camp with so few people?」
 
-144402	Rance	「大将を殺すにはこの手が一番早いからな」	「This is the fastest way to kill the commander.」
+144402	Rance	笑顔	「大将を殺すにはこの手が一番早いからな」	「This is the fastest way to kill the commander.」
 
-144403	Rance	「観念しろ、お前には罪がある」	「Give up, you have committed a crime.」
+144403	Rance	基本	「観念しろ、お前には罪がある」	「Give up, you have committed a crime.」
 
-144404	Monster General	「なんだと？」	「What did you say?」
+144404	Monster General		「なんだと？」	「What did you say?」
 
-144405	Rance	「お前の罪はただひとつ！」	「Your only crime is one thing!」
+144405	Rance		「お前の罪はただひとつ！」	「Your only crime is one thing!」
 
-144406	Monster General	「……一般人を殺したことか」	「...Killing civilians?」
+144406	Monster General		「……一般人を殺したことか」	「...Killing civilians?」
 
-144407	Rance	「俺様の女を苛めたことだ！」	「It's that you tormented my women!」
+144407	Rance	怒り	「俺様の女を苛めたことだ！」	「It's that you tormented my women!」

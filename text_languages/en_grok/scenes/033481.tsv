@@ -6,110 +6,110 @@
 * King	王様	Male
 * Needle	ニードル	Female
 
-245020	Apache	「ぐっ……！」	「Guh...!」
+245020	Apache	基本	「ぐっ……！」	「Guh...!」
 
-245021	-	戦闘の途中、アパッチが膝をついた。	In the middle of battle, Apache dropped to one knee.
+245021	-		戦闘の途中、アパッチが膝をついた。	In the middle of battle, Apache dropped to one knee.
 
-245022	Scholar	「限界です、マッスル！	「He's at his limit, Muscle!
-245023	+	　彼を！」	　Help him!」
+245022	Scholar		「限界です、マッスル！	「He's at his limit, Muscle!
+245023	+		　彼を！」	　Help him!」
 
-245024	Muscle	「分かってる！」	「I know!」
+245024	Muscle		「分かってる！」	「I know!」
 
-245025	Rance	「がははは、まずは一人目ーーー！」	「Gahahaha, first one down-----!」
+245025	Rance	笑顔	「がははは、まずは一人目ーーー！」	「Gahahaha, first one down-----!」
 
-245026	-	ランスが剣をアパッチに向け振りかざす。	Rance raised his sword towards Apache.
+245026	-		ランスが剣をアパッチに向け振りかざす。	Rance raised his sword towards Apache.
 
-245027	King	「オオッ！」	「Ooh!」
+245027	King	基本	「オオッ！」	「Ooh!」
 
-245028	-	ランスからアパッチを庇うように王様が前に出た。	The King stepped forward to shield Apache from Rance.
+245028	-		ランスからアパッチを庇うように王様が前に出た。	The King stepped forward to shield Apache from Rance.
 
-245029	Rance	「ぐっ、このデカブツが！　邪魔だー！」	「Guh, you big oaf! You're in the way!」
+245029	Rance		「ぐっ、このデカブツが！　邪魔だー！」	「Guh, you big oaf! You're in the way!」
 
-245030	-	その間にマッスルはアパッチを抱えた。	In that moment Muscle picked up Apache.
+245030	-		その間にマッスルはアパッチを抱えた。	In that moment Muscle picked up Apache.
 
-245031	Scholar	「撤退します！」	「We're retreating!」
+245031	Scholar		「撤退します！」	「We're retreating!」
 
-245032	-	…………	............
+245032	-		…………	............
 
-245033	-	……	......
+245033	-		……	......
 
-245034	-	ランス達から離れた場で、	In a place away from Rance and his group,
-245035	+	マエリータ隊が体を休めていた。	the Maelita Squad was resting their bodies.
+245034	-		ランス達から離れた場で、	In a place away from Rance and his group,
+245035	+		マエリータ隊が体を休めていた。	the Maelita Squad was resting their bodies.
 
-245036	Scholar	「マッスル、隊の負傷具合はどうですか？」	「Muscle, how are the squad's injuries?」
+245036	Scholar		「マッスル、隊の負傷具合はどうですか？」	「Muscle, how are the squad's injuries?」
 
-245037	Muscle	「おう、ほとんどの連中はもうぴんぴんしてる。	「Yeah, most of the guys are back to full strength.
-245038	+	　一人だけ死人が出るかも知れなかったが……	　We almost lost one guy but...
-245039	+	　そっちもどうにかなった」	　That worked out too.」
+245037	Muscle		「おう、ほとんどの連中はもうぴんぴんしてる。	「Yeah, most of the guys are back to full strength.
+245038	+		　一人だけ死人が出るかも知れなかったが……	　We almost lost one guy but...
+245039	+		　そっちもどうにかなった」	　That worked out too.」
 
-245040	Apache	「…………」	「............」
+245040	Apache		「…………」	「............」
 
-245041	Muscle	「お、来た来た。	「Oh, he's up.
-245042	+	　具合はどうだ、アパッチ」	　How you feeling, Apache?」
+245041	Muscle		「お、来た来た。	「Oh, he's up.
+245042	+		　具合はどうだ、アパッチ」	　How you feeling, Apache?」
 
-245043	Apache	「何故、助けた」	「Why did you save me?」
+245043	Apache		「何故、助けた」	「Why did you save me?」
 
-245044	-	起きたばかりのアパッチから出た言葉は、	The words that came from the newly awakened Apache,
-245045	+	感謝や謝罪ではなく、怒りの抗議だった。	were not thanks or apology, but an angry protest.
+245044	-		起きたばかりのアパッチから出た言葉は、	The words that came from the newly awakened Apache,
+245045	+		感謝や謝罪ではなく、怒りの抗議だった。	were not thanks or apology, but an angry protest.
 
-245046	Apache	「俺は誇り高き戦士だ！	「I am a proud warrior!
-245047	+	　死を恐れているとでも思ったか！」	　Did you think I was afraid of death!?」
+245046	Apache		「俺は誇り高き戦士だ！	「I am a proud warrior!
+245047	+		　死を恐れているとでも思ったか！」	　Did you think I was afraid of death!?」
 
-245048	Scholar	「……仲間は助ける、当然のことです」	「...Helping comrades is only natural.」
+245048	Scholar		「……仲間は助ける、当然のことです」	「...Helping comrades is only natural.」
 
-245049	Apache	「ふざけるな！　貴様らのような	「Don't fuck with me! Being saved by
-245050	+	　腰抜けに助けられるくらいなら俺は――！」	　cowards like you, I'd rather――!」
+245049	Apache		「ふざけるな！　貴様らのような	「Don't fuck with me! Being saved by
+245050	+		　腰抜けに助けられるくらいなら俺は――！」	　cowards like you, I'd rather――!」
 
-245051	Muscle	「おいおい。	「Hey hey.
-245052	+	　そこまでにしておこうぜ、アパッチ」	　That's enough, Apache.」
+245051	Muscle		「おいおい。	「Hey hey.
+245052	+		　そこまでにしておこうぜ、アパッチ」	　That's enough, Apache.」
 
-245053	Apache	「む……」	「Mu...」
+245053	Apache		「む……」	「Mu...」
 
-245054	Apache	「何故だ。俺は当然の話をしているだけだ」	「Why? I'm only saying what's obvious.」
+245054	Apache		「何故だ。俺は当然の話をしているだけだ」	「Why? I'm only saying what's obvious.」
 
-245055	-	マッスルが立ち上がり、	Muscle stood up,
-245056	+	アパッチの至近距離まで近づく。	and moved right up close to Apache.
+245055	-		マッスルが立ち上がり、	Muscle stood up,
+245056	+		アパッチの至近距離まで近づく。	and moved right up close to Apache.
 
-245057	Muscle	「……それ以上の隊長に対する暴言は、	「...Any more insults towards the captain,
-245058	+	　この俺が許さねぇと言ったんだ」	　I said I won't allow it.」
+245057	Muscle		「……それ以上の隊長に対する暴言は、	「...Any more insults towards the captain,
+245058	+		　この俺が許さねぇと言ったんだ」	　I said I won't allow it.」
 
-245059	Apache	「ほう？」	「Oh?」
+245059	Apache		「ほう？」	「Oh?」
 
-245060	Apache	「……許さないなら、どうするつもりだ？」	「...If you won't allow it, what are you gonna do?」
+245060	Apache		「……許さないなら、どうするつもりだ？」	「...If you won't allow it, what are you gonna do?」
 
-245061	Muscle	「知りたいなら……	「If you wanna know...
-245062	+	　体で教えてやろうか？」	　I'll teach you with my body?」
+245061	Muscle		「知りたいなら……	「If you wanna know...
+245062	+		　体で教えてやろうか？」	　I'll teach you with my body?」
 
-245063	Apache	「…………」	「............」
+245063	Apache		「…………」	「............」
 
-245064	-	二人の睨み合いで場の空気が重く沈み込む。	The heavy atmosphere settled over the place from their staring contest.
+245064	-		二人の睨み合いで場の空気が重く沈み込む。	The heavy atmosphere settled over the place from their staring contest.
 
-245065	Needle	「ちょ、ちょっとー、二人ともやめようよ……」	「H-hey, you two, stop it...」
+245065	Needle		「ちょ、ちょっとー、二人ともやめようよ……」	「H-hey, you two, stop it...」
 
-245066	Scholar	「ええ、その通りです。	「Yes, that's right.
-245067	+	　部隊員同士の私闘は私が許しません」	　I won't allow personal fights between squad members.」
+245066	Scholar		「ええ、その通りです。	「Yes, that's right.
+245067	+		　部隊員同士の私闘は私が許しません」	　I won't allow personal fights between squad members.」
 
-245068	Apache	「…………」	「............」
+245068	Apache		「…………」	「............」
 
-245069	Apache	「俺は……戦士として生まれた」	「I... was born a warrior.」
+245069	Apache		「俺は……戦士として生まれた」	「I... was born a warrior.」
 
-245070	Apache	「俺が俺の存在を確認出来るのは、	「The only time I can confirm my existence
-245071	+	　戦いの時だけ……」	　is during battle...」
+245070	Apache		「俺が俺の存在を確認出来るのは、	「The only time I can confirm my existence
+245071	+		　戦いの時だけ……」	　is during battle...」
 
-245072	Apache	「ただ……戦いをしたいだけだ」	「I just... want to fight.」
+245072	Apache		「ただ……戦いをしたいだけだ」	「I just... want to fight.」
 
-245073	Apache	「それだけ……忘れるな」	「Don't forget that...」
+245073	Apache		「それだけ……忘れるな」	「Don't forget that...」
 
-245074	Scholar	「留意しておきましょう」	「I'll keep that in mind.」
+245074	Scholar		「留意しておきましょう」	「I'll keep that in mind.」
 
-245075	-	自分の居場所を求めるように	As if searching for his place,
-245076	+	アパッチはその場からふらふらと離れた。	Apache staggered away from the spot.
+245075	-		自分の居場所を求めるように	As if searching for his place,
+245076	+		アパッチはその場からふらふらと離れた。	Apache staggered away from the spot.
 
-245077	Scholar	「…………」	「............」
+245077	Scholar		「…………」	「............」
 
-245078	Muscle	「お前は気にすることはないぞ」	「You don't need to worry about it.」
+245078	Muscle		「お前は気にすることはないぞ」	「You don't need to worry about it.」
 
-245079	Muscle	「あれは……純粋すぎるだけさ。	「He's just... too pure.
-245080	+	　時間が解決する」	　Time will fix it.」
+245079	Muscle		「あれは……純粋すぎるだけさ。	「He's just... too pure.
+245080	+		　時間が解決する」	　Time will fix it.」
 
-245081	Scholar	「そうかも知れませんね……」	「Maybe you're right...」
+245081	Scholar		「そうかも知れませんね……」	「Maybe you're right...」

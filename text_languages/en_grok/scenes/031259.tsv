@@ -5,788 +5,788 @@
 * Serachrolas	セラクロラス	Female
 * Katyusha Bosch	少女カチューシャ	Female
 
-62933	Rance	「よう……元気か」	「Yo... You doing alright?」
+62933	Rance	基本	「よう……元気か」	「Yo... You doing alright?」
 
-62934	Katyusha Bosch	「そう見えるのかしら？」	「Does it look that way?」
+62934	Katyusha Bosch		「そう見えるのかしら？」	「Does it look that way?」
 
-62935	-	牢の住人……闇組織DXの会の長、	The prisoner... leader of the dark organization DX Club,
-62936	+	カチューシャ・ボッシュは、軽く鼻を鳴らした。	Katyusha Bosch lightly snorted.
+62935	-		牢の住人……闇組織DXの会の長、	The prisoner... leader of the dark organization DX Club,
+62936	+		カチューシャ・ボッシュは、軽く鼻を鳴らした。	Katyusha Bosch lightly snorted.
 
-62937	Rance	「人は見かけによらんからな。	「People aren't always what they seem.
-62938	+	　けっこう元気なんじゃないのか」	　You seem pretty energetic.」
+62937	Rance		「人は見かけによらんからな。	「People aren't always what they seem.
+62938	+		　けっこう元気なんじゃないのか」	　You seem pretty energetic.」
 
-62939	Katyusha Bosch	「…………そんなわけがないでしょう」	「............No way.」
+62939	Katyusha Bosch		「…………そんなわけがないでしょう」	「............No way.」
 
-62940	-	カチューシャは、ぐっと握る手に力を込めた。	Katyusha clenched her fists tightly.
+62940	-		カチューシャは、ぐっと握る手に力を込めた。	Katyusha clenched her fists tightly.
 
-62941	-	スパルタの心得のあるカチューシャは	Katyusha, trained in Spartan ways,
-62942	+	手枷、足枷で縛められており、	was bound with handcuffs and leg irons,
-62943	+	ほとんど身動きはとれない状態だった。	barely able to move.
+62941	-		スパルタの心得のあるカチューシャは	Katyusha, trained in Spartan ways,
+62942	+		手枷、足枷で縛められており、	was bound with handcuffs and leg irons,
+62943	+		ほとんど身動きはとれない状態だった。	barely able to move.
 
-62944	Katyusha Bosch	「策を逆手に取られて、正体を看破されて……	「My plan was turned against me, my identity exposed...
-62945	+	　しかも、デラックスブックまで奪われて……」	　And even the Deluxe Book was taken...」
+62944	Katyusha Bosch	屈服	「策を逆手に取られて、正体を看破されて……	「My plan was turned against me, my identity exposed...
+62945	+		　しかも、デラックスブックまで奪われて……」	　And even the Deluxe Book was taken...」
 
-62946	Katyusha Bosch	「おまけに、こうやって……総統自らが、	「On top of that, like this... The Supreme Leader himself
-62947	+	　捕虜に暴行を働きに来るしね？」	comes to rape a prisoner?」
+62946	Katyusha Bosch	基本	「おまけに、こうやって……総統自らが、	「On top of that, like this... The Supreme Leader himself
+62947	+		　捕虜に暴行を働きに来るしね？」	comes to rape a prisoner?」
 
-62948	Rance	「がははは、お前は中々良い具合だぞカチューシャ。	「Gahahaha, you're in quite good shape, Katyusha.
-62949	+	　うはうはだ」	　Uha uha.」
+62948	Rance	笑顔	「がははは、お前は中々良い具合だぞカチューシャ。	「Gahahaha, you're in quite good shape, Katyusha.
+62949	+		　うはうはだ」	　Uha uha.」
 
-62950	Rance	「……だが、いつまで経っても外には出せんな。	「...But I still can't let you out.
-62951	+	　さっさと屈服してくれればいいのだが」	　It'd be nice if you submitted quickly.」
+62950	Rance	基本	「……だが、いつまで経っても外には出せんな。	「...But I still can't let you out.
+62951	+		　さっさと屈服してくれればいいのだが」	　It'd be nice if you submitted quickly.」
 
-62952	Katyusha Bosch	「絶対服従の魔法を掛ければ？	「Why not cast absolute obedience magic?
-62953	+	　私には抵抗する術はないもの」	　I have no way to resist.」
+62952	Katyusha Bosch		「絶対服従の魔法を掛ければ？	「Why not cast absolute obedience magic?
+62953	+		　私には抵抗する術はないもの」	　I have no way to resist.」
 
-62954	Rance	「その手に乗るか。すぐ切れてしまうではないか。	「As if I'd fall for that. It would break right away.
-62955	+	　しかも、いつ切れたか本人しか分からん」	　And only the person would know when it broke.」
+62954	Rance	真剣	「その手に乗るか。すぐ切れてしまうではないか。	「As if I'd fall for that. It would break right away.
+62955	+		　しかも、いつ切れたか本人しか分からん」	　And only the person would know when it broke.」
 
-62956	Katyusha Bosch	「ふ、その程度は貴方の容量の少ない脳味噌でも	「Fu, even your small-brained head
-62957	+	　理解できるのね」	can understand that much.」
+62956	Katyusha Bosch	基本	「ふ、その程度は貴方の容量の少ない脳味噌でも	「Fu, even your small-brained head
+62957	+		　理解できるのね」	can understand that much.」
 
-62958	Rance	「ほざけ。だから次善の策として、	「Keep talking. So as the next best plan,
-62959	+	　こうして俺様がこってり犯してやるわけだ」	I'm thoroughly fucking you like this.」
+62958	Rance		「ほざけ。だから次善の策として、	「Keep talking. So as the next best plan,
+62959	+		　こうして俺様がこってり犯してやるわけだ」	I'm thoroughly fucking you like this.」
 
-62960	Katyusha Bosch	「気にくわないなら殺せばいいじゃない。	「If you don't like it, just kill me.
-62961	+	　それとも本当に本気で、女は殺せないの？」	　Or do you really can't kill women?」
+62960	Katyusha Bosch		「気にくわないなら殺せばいいじゃない。	「If you don't like it, just kill me.
+62961	+		　それとも本当に本気で、女は殺せないの？」	　Or do you really can't kill women?」
 
-62962	Rance	「ふん。主義じゃない……し、	「Hmph. Not my principle... and,
-62963	+	　それもお前の思惑だろう」	that's probably what you want too.」
+62962	Rance	だる顔	「ふん。主義じゃない……し、	「Hmph. Not my principle... and,
+62963	+		　それもお前の思惑だろう」	that's probably what you want too.」
 
-62964	Katyusha Bosch	「聞かせて？」	「Tell me?」
+62964	Katyusha Bosch	笑み	「聞かせて？」	「Tell me?」
 
-62965	Rance	「お前が死ねば、DXの会は次のボスを立てる。	「If you die, the DX Club will appoint a new boss.
-62966	+	　そして俺達に楯突いてくる」	And they'll oppose us.」
+62965	Rance	基本	「お前が死ねば、DXの会は次のボスを立てる。	「If you die, the DX Club will appoint a new boss.
+62966	+		　そして俺達に楯突いてくる」	And they'll oppose us.」
 
-62967	Rance	「今はお前が生きてるから……	「Right now, because you're alive...
-62968	+	　次のボスが立てられんのだろう」	they can't appoint the next boss.」
+62967	Rance		「今はお前が生きてるから……	「Right now, because you're alive...
+62968	+		　次のボスが立てられんのだろう」	they can't appoint the next boss.」
 
-62969	Rance~	（……と、ウルザちゃんが言っていたな）	（...That's what Urza-chan said.）
+62969	Rance~		（……と、ウルザちゃんが言っていたな）	（...That's what Urza-chan said.）
 
-62970	Katyusha Bosch	「こっそり殺せば分からないわよ？	「If you kill me secretly, no one would know?
-62971	+	　隠しきれるかも」	You might be able to hide it.」
+62970	Katyusha Bosch		「こっそり殺せば分からないわよ？	「If you kill me secretly, no one would know?
+62971	+		　隠しきれるかも」	You might be able to hide it.」
 
-62972	Rance	「永遠に、か？　できるか、そんなこと。	「Forever? As if that's possible.
-62973	+	　大勢の人間が関わってる以上、どこかでばれる」	　With so many people involved, it'll leak somewhere.
+62972	Rance	だる顔	「永遠に、か？　できるか、そんなこと。	「Forever? As if that's possible.
+62973	+		　大勢の人間が関わってる以上、どこかでばれる」	　With so many people involved, it'll leak somewhere.
 
-62974	Katyusha Bosch	「そうね。食事を作る者、運ばせる者……	「True. The ones making food, delivering it...
-62975	+	　牢獄の割には、身綺麗にさせてもらってるしね」	　For a prison, they keep me quite clean.
+62974	Katyusha Bosch	基本	「そうね。食事を作る者、運ばせる者……	「True. The ones making food, delivering it...
+62975	+		　牢獄の割には、身綺麗にさせてもらってるしね」	　For a prison, they keep me quite clean.
 
-62976	Rance	「不潔な女を抱く気にはならんからな」	「I don't feel like fucking a dirty woman.」
+62976	Rance		「不潔な女を抱く気にはならんからな」	「I don't feel like fucking a dirty woman.」
 
-62977	-	ちらりと、ランスは空になっている食器トレイに	Rance glanced at the empty food tray.
-62978	+	目をやった。	
+62977	-		ちらりと、ランスは空になっている食器トレイに	Rance glanced at the empty food tray.
+62978	+		目をやった。	
 
-62979	Katyusha Bosch	「で……どうするの？　またするの？	「So... what now? Doing it again?
-62980	+	　総統っていうのも、ヒマなものね」	　Being Supreme Leader must be boring.」
+62979	Katyusha Bosch		「で……どうするの？　またするの？	「So... what now? Doing it again?
+62980	+		　総統っていうのも、ヒマなものね」	　Being Supreme Leader must be boring.」
 
-62981	Rance	「うむ、それではラチが開かんからな。	「Yeah, this isn't getting us anywhere.
-62982	+	　ひとつ、勝負といかんか？」	　How about a contest?」
+62981	Rance		「うむ、それではラチが開かんからな。	「Yeah, this isn't getting us anywhere.
+62982	+		　ひとつ、勝負といかんか？」	　How about a contest?」
 
-62983	Katyusha Bosch	「勝負？　なぁに、それ？」	「A contest? What kind?」
+62983	Katyusha Bosch		「勝負？　なぁに、それ？」	「A contest? What kind?」
 
-62984	Rance	「勝った方が、負けた方にひとつ、命令するんだ。	「The winner gives one order to the loser.
-62985	+	　そして一年経ったら、また勝負する」	　Then after a year, we do it again.」
+62984	Rance		「勝った方が、負けた方にひとつ、命令するんだ。	「The winner gives one order to the loser.
+62985	+		　そして一年経ったら、また勝負する」	　Then after a year, we do it again.」
 
-62986	Katyusha Bosch	「それを続けるの？　迂遠なこと考えるのね」	「Keep doing that? What a roundabout idea.」
+62986	Katyusha Bosch		「それを続けるの？　迂遠なこと考えるのね」	「Keep doing that? What a roundabout idea.」
 
-62987	Rance	「お前が勝てば、無かったことにしてもいいぞ。	「If you win, we can pretend it never happened.
-62988	+	　負けても、一年後にはまたチャンスがあるわけだ」	　Even if you lose, you'll have another chance in a year.」
+62987	Rance		「お前が勝てば、無かったことにしてもいいぞ。	「If you win, we can pretend it never happened.
+62988	+		　負けても、一年後にはまたチャンスがあるわけだ」	　Even if you lose, you'll have another chance in a year.」
 
-62989	Katyusha Bosch~	（ふぅん……チャンスを与えて、	（Hmm... Giving chances,
-62990	+	　リスクを軽く見せる……意外と考えるのね）	　making the risk seem light... He thinks more than expected.）
+62989	Katyusha Bosch~		（ふぅん……チャンスを与えて、	（Hmm... Giving chances,
+62990	+		　リスクを軽く見せる……意外と考えるのね）	　making the risk seem light... He thinks more than expected.）
 
-62991	Rance~	（なんか知らんが篠田の野郎、何か約束させるなら	（I don't know why, but Shinoda said if making a promise,
-62992	+	　このくらいの期間にしとけって言ってたしな）	　make it about this long.）
+62991	Rance~	真剣	（なんか知らんが篠田の野郎、何か約束させるなら	（I don't know why, but Shinoda said if making a promise,
+62992	+		　このくらいの期間にしとけって言ってたしな）	　make it about this long.）
 
-62993	Katyusha Bosch	「……そう聞くと、悪くなく聞こえるけど。	「...When you put it that way, it doesn't sound bad.
-62994	+	　何で勝負するの？」	　What will we compete in?」
+62993	Katyusha Bosch	基本	「……そう聞くと、悪くなく聞こえるけど。	「...When you put it that way, it doesn't sound bad.
+62994	+		　何で勝負するの？」	　What will we compete in?」
 
-62995	Rance	「もーーーっちろんセックス！	「Oooof course, sex!
-62996	+	　どっちかがバテバテになって動けなくなるまでだ」	　Until one of us is exhausted and can't move.」
+62995	Rance	エロ顔	「もーーーっちろんセックス！	「Oooof course, sex!
+62996	+		　どっちかがバテバテになって動けなくなるまでだ」	　Until one of us is exhausted and can't move.」
 
-62997	Katyusha Bosch	「ぷっ……ああそう、そういうこと……	「Pff... Ah, so that's it...
-62998	+	　勝っても負けても、やれれば満足ってわけ」	　Whether you win or lose, as long as you get to fuck, you're satisfied.」
+62997	Katyusha Bosch	基本	「ぷっ……ああそう、そういうこと……	「Pff... Ah, so that's it...
+62998	+		　勝っても負けても、やれれば満足ってわけ」	　Whether you win or lose, as long as you get to fuck, you're satisfied.」
 
-62999	Rance	「さあ、やるのかやらんのか。	「So, are we doing it or not.
-63000	+	　このままの生活がお好みか？」	　Do you prefer this current lifestyle?」
+62999	Rance		「さあ、やるのかやらんのか。	「So, are we doing it or not.
+63000	+		　このままの生活がお好みか？」	　Do you prefer this current lifestyle?」
 
-63001	Katyusha Bosch	「いいわよ。付き合ってあげる。	「Fine. I'll play along with you.
-63002	+	　くだらないけど……	　It's pointless but...
-63003	+	　まずは身の自由でももらっておこうかしら」	　First, I suppose I'll secure my freedom.」
+63001	Katyusha Bosch		「いいわよ。付き合ってあげる。	「Fine. I'll play along with you.
+63002	+		　くだらないけど……	　It's pointless but...
+63003	+		　まずは身の自由でももらっておこうかしら」	　First, I suppose I'll secure my freedom.」
 
-63004	Rance	「よし。ではこれにサインするのだ」	「Good. Then sign right here.」
+63004	Rance		「よし。ではこれにサインするのだ」	「Good. Then sign right here.」
 
-63005	Katyusha Bosch	「…………ッ……それは……」	「............Th, that's......」
+63005	Katyusha Bosch		「…………ッ……それは……」	「............Th, that's......」
 
-63006	-	ランスは一冊の古びたノートを開き、	Rance opened an old notebook,
-63007	+	カチューシャの目の前に出した。	and held it out in front of Katyusha.
+63006	-		ランスは一冊の古びたノートを開き、	Rance opened an old notebook,
+63007	+		カチューシャの目の前に出した。	and held it out in front of Katyusha.
 
-63008	Katyusha Bosch	「デラックスブック……！	「Deluxe Book...!
-63009	+	　無事だったのね……」	　It survived...」
+63008	Katyusha Bosch		「デラックスブック……！	「Deluxe Book...!
+63009	+		　無事だったのね……」	　It survived...」
 
-63010	-	――甲と乙は性行為のみで勝負をし、	――The two parties shall compete solely through sexual acts,
-63011	+	最後に立っていた者を勝者とする。	and the last one standing shall be the winner.
-63012	+	敗者は生命の与奪を除く、可能な限りの願いを聞く。	The loser shall grant any wish except for taking life.
+63010	-		――甲と乙は性行為のみで勝負をし、	――The two parties shall compete solely through sexual acts,
+63011	+		最後に立っていた者を勝者とする。	and the last one standing shall be the winner.
+63012	+		敗者は生命の与奪を除く、可能な限りの願いを聞く。	The loser shall grant any wish except for taking life.
 
-63013	-	なおこの効果は一年後の再戦をもって	This effect shall be renewed upon a rematch one year later――
-63014	+	更新されるものとする――	
+63013	-		なおこの効果は一年後の再戦をもって	This effect shall be renewed upon a rematch one year later――
+63014	+		更新されるものとする――	
 
-63015	Rance	「これで契約すれば、お互いフェアなんだろ？」	「With this contract, it's fair for both sides, right?」
+63015	Rance		「これで契約すれば、お互いフェアなんだろ？」	「With this contract, it's fair for both sides, right?」
 
-63016	Katyusha Bosch	「…………そうね。そうなる、わね……」	「............Yes. It will be, I suppose...」
+63016	Katyusha Bosch		「…………そうね。そうなる、わね……」	「............Yes. It will be, I suppose...」
 
-63017	-	カチューシャが、少し考える風になった。	Katyusha seemed to think for a moment.
+63017	-		カチューシャが、少し考える風になった。	Katyusha seemed to think for a moment.
 
-63018	Katyusha Bosch~	（所詮、体力任せのセックスでしかない男……	（In the end, he's just a man who relies on stamina for sex...」
-63019	+	　それに、万が一負けても、期限は一年……）	　Besides, even if I lose, it's only for one year...）
+63018	Katyusha Bosch~		（所詮、体力任せのセックスでしかない男……	（In the end, he's just a man who relies on stamina for sex...」
+63019	+		　それに、万が一負けても、期限は一年……）	　Besides, even if I lose, it's only for one year...）
 
-63020	Rance	「ほれほれどうした。怖じ気づいたか？」	「Hey hey, what's wrong? Getting scared?」
+63020	Rance		「ほれほれどうした。怖じ気づいたか？」	「Hey hey, what's wrong? Getting scared?」
 
-63021	Katyusha Bosch	「……待ちなさい。	「...Wait.
-63022	+	　甲と乙、それ以外の者は性行為に参加しない。	　Only the two parties shall participate in the sexual acts.
-63023	+	　……念のため、付け加えてくれる？」	　...Just in case, can you add that?」
+63021	Katyusha Bosch		「……待ちなさい。	「...Wait.
+63022	+		　甲と乙、それ以外の者は性行為に参加しない。	　Only the two parties shall participate in the sexual acts.
+63023	+		　……念のため、付け加えてくれる？」	　...Just in case, can you add that?」
 
-63024	Rance	「…………ほう」	「............Hmm.」
+63024	Rance		「…………ほう」	「............Hmm.」
 
-63025	Katyusha Bosch	「サインした途端、男どもがよってたかって、	「The moment I sign, a bunch of men could swarm me,
-63026	+	　貴方は見てるだけ……なんてのも、	　and you'd just watch... that could happen,
-63027	+	　あり得るでしょう？」	　right?」
+63025	Katyusha Bosch		「サインした途端、男どもがよってたかって、	「The moment I sign, a bunch of men could swarm me,
+63026	+		　貴方は見てるだけ……なんてのも、	　and you'd just watch... that could happen,
+63027	+		　あり得るでしょう？」	　right?」
 
-63028	Katyusha Bosch	「複数プレイくらいどうって事はないけど……	「Group play wouldn't be a problem but...
-63029	+	　体力には限界があるしね」	　My stamina has limits after all.」
+63028	Katyusha Bosch		「複数プレイくらいどうって事はないけど……	「Group play wouldn't be a problem but...
+63029	+		　体力には限界があるしね」	　My stamina has limits after all.」
 
-63030	Rance	「……ふん。いいだろう」	「...Hmph. Fine.」
+63030	Rance		「……ふん。いいだろう」	「...Hmph. Fine.」
 
-63031	-	ランスが、言われた通りの一文を付け加え、	Rance added the sentence as requested,
-63032	+	カチューシャに見せる。	and showed it to Katyusha.
+63031	-		ランスが、言われた通りの一文を付け加え、	Rance added the sentence as requested,
+63032	+		カチューシャに見せる。	and showed it to Katyusha.
 
-63033	Katyusha Bosch	「……いいわ。何を考えているか知らないけど……	「...Fine. I don't know what you're planning but...
-63034	+	　ペンを貸して」	　Give me the pen.」
+63033	Katyusha Bosch		「……いいわ。何を考えているか知らないけど……	「...Fine. I don't know what you're planning but...
+63034	+		　ペンを貸して」	　Give me the pen.」
 
-63035	-	鉄格子の隙間から腕を伸ばし、	She reached her arm through the bars,
-63036	+	ペンでデラックスブックの開かれたページに	and signed her name on the open page of the Deluxe Book.
-63037	+	自分の名前を入れる。	
+63035	-		鉄格子の隙間から腕を伸ばし、	She reached her arm through the bars,
+63036	+		ペンでデラックスブックの開かれたページに	and signed her name on the open page of the Deluxe Book.
+63037	+		自分の名前を入れる。	
 
-63038	Rance	「よーし、契約成立だな！　さあやるか！」	「Alright, contract complete! Let's get to it!」
+63038	Rance	笑顔	「よーし、契約成立だな！　さあやるか！」	「Alright, contract complete! Let's get to it!」
 
-63039	-	さっそく、ランスが服を脱ぐ。	Rance immediately stripped off his clothes.
+63039	-		さっそく、ランスが服を脱ぐ。	Rance immediately stripped off his clothes.
 
-63040	Rance	「ぐふふ、ところでカチューシャちゃんよ。	「Gufufu, by the way Katyusha-chan.
-63041	+	　さっきから身体が熱くなってたりせんか？」	　Your body feeling hot since earlier?」
+63040	Rance	全裸／エロ顔	「ぐふふ、ところでカチューシャちゃんよ。	「Gufufu, by the way Katyusha-chan.
+63041	+		　さっきから身体が熱くなってたりせんか？」	　Your body feeling hot since earlier?」
 
-63042	Katyusha Bosch	「何の事？」	「What are you talking about?」
+63042	Katyusha Bosch	基本	「何の事？」	「What are you talking about?」
 
-63043	Rance	「くっくっく。食事は腹一杯食べたようだな。	「Heh heh heh. Looks like you ate a full meal.
-63044	+	　サインさせる必要があるから、	　I used a slow-acting one so I could get your signature,
-63045	+	　遅効性にさせたが……」	　but...」
+63043	Rance	全裸	「くっくっく。食事は腹一杯食べたようだな。	「Heh heh heh. Looks like you ate a full meal.
+63044	+		　サインさせる必要があるから、	　I used a slow-acting one so I could get your signature,
+63045	+		　遅効性にさせたが……」	　but...」
 
-63046	Mill Yorks	「はっはーーーーー！	「Hah ha-----!
-63047	+	　その食事には無味無臭に調合した……！」	　I mixed it into your food tasteless and odorless...!」
+63046	Mill Yorks	基本	「はっはーーーーー！	「Hah ha-----!
+63047	+		　その食事には無味無臭に調合した……！」	　I mixed it into your food tasteless and odorless...!」
 
-63048	Katyusha Bosch	「ああ。媚薬のこと？」	「Ah. You mean the aphrodisiac?」
+63048	Katyusha Bosch		「ああ。媚薬のこと？」	「Ah. You mean the aphrodisiac?」
 
-63049	Mill Yorks	「へっ？」	「Eh?」
+63049	Mill Yorks	驚	「へっ？」	「Eh?」
 
-63050	Rance	「ぬっ？」	「Nu?」
+63050	Rance	全裸／真剣	「ぬっ？」	「Nu?」
 
-63051	-	颯爽と乱入したミルを気にも止めず、	Ignoring the sudden intrusion by Mill,
-63052	+	カチューシャは唇を吊り上げた。	Katyusha curled her lips into a smirk.
+63051	-		颯爽と乱入したミルを気にも止めず、	Ignoring the sudden intrusion by Mill,
+63052	+		カチューシャは唇を吊り上げた。	Katyusha curled her lips into a smirk.
 
-63053	Katyusha Bosch	「生憎だけど……効かないの、私。	「Too bad... but it doesn't work on me.
-63054	+	　そういうのは耐性ができてるからね」	　I've built up resistance to that sort of thing.」
+63053	Katyusha Bosch	基本	「生憎だけど……効かないの、私。	「Too bad... but it doesn't work on me.
+63054	+		　そういうのは耐性ができてるからね」	　I've built up resistance to that sort of thing.」
 
-63055	Mill Yorks	「う、うそっ！　つ、強がってるだけよ！	「N, no way! Y, you're just acting tough!
-63056	+	　あんなにてんこ盛りにしたのに……！」	　I packed so much in there...!」
+63055	Mill Yorks	怒	「う、うそっ！　つ、強がってるだけよ！	「N, no way! Y, you're just acting tough!
+63056	+		　あんなにてんこ盛りにしたのに……！」	　I packed so much in there...!」
 
-63057	Katyusha Bosch	「そうね。ヌメリ茸のエキスに、ビバアメリカ……	「That's right. Slimy mushroom extract, Viva America...
-63058	+	　この感じだとおかゆ毒も混ぜてるわね」	　Feels like you mixed in some porridge poison too.」
+63057	Katyusha Bosch	基本	「そうね。ヌメリ茸のエキスに、ビバアメリカ……	「That's right. Slimy mushroom extract, Viva America...
+63058	+		　この感じだとおかゆ毒も混ぜてるわね」	　Feels like you mixed in some porridge poison too.」
 
-63059	Mill Yorks	「え、あ、あ……」	「E, ah, a......」
+63059	Mill Yorks	驚	「え、あ、あ……」	「E, ah, a......」
 
-63060	Katyusha Bosch	「ひとつひとつの調合が丁寧すぎるわね、お嬢ちゃん。	「Your mixing is too careful, little lady.
-63061	+	　悪いけど、潜った地獄が違うわ」	　Too bad, but the hells I've been through are on another level.」
+63060	Katyusha Bosch	基本	「ひとつひとつの調合が丁寧すぎるわね、お嬢ちゃん。	「Your mixing is too careful, little lady.
+63061	+		　悪いけど、潜った地獄が違うわ」	　Too bad, but the hells I've been through are on another level.」
 
-63062	Rance	「……おい、ミル。	「...Hey, Mill.
-63063	+	　なんか風向きが怪しくなってきたぞ」	　The mood's turning weird.」
+63062	Rance	全裸／だる顔	「……おい、ミル。	「...Hey, Mill.
+63063	+		　なんか風向きが怪しくなってきたぞ」	　The mood's turning weird.」
 
-63064	Mill Yorks	「う、うう……発汗も、体温の上昇も無し……	「U, uu... No sweating, no rise in body temperature...
-63065	+	　ほ、ホントに効かないなんて……	　It really doesn't work on her...
-63066	+	　中和剤無しには投与できないレベルなのに……」	　It's at a level where you can't administer it without a neutralizer...」
+63064	Mill Yorks	泣	「う、うう……発汗も、体温の上昇も無し……	「U, uu... No sweating, no rise in body temperature...
+63065	+		　ほ、ホントに効かないなんて……	　It really doesn't work on her...
+63066	+		　中和剤無しには投与できないレベルなのに……」	　It's at a level where you can't administer it without a neutralizer...」
 
-63067	Katyusha Bosch	「DXの会の戦闘娼婦……	「A battle whore from the DX Society...
-63068	+	　ペットにされるってのは、そういうことよ」	　That's what it means to be made into a pet.」
+63067	Katyusha Bosch	基本	「DXの会の戦闘娼婦……	「A battle whore from the DX Society...
+63068	+		　ペットにされるってのは、そういうことよ」	　That's what it means to be made into a pet.」
 
-63069	Mill Yorks	「う、う、う、うわーーーーーーーん！	「U, u, u, uwaaaaaah!
-63070	+	　お、おぼえてろーーーー！」	　I'll remember this-----!」
+63069	Mill Yorks	怒	「う、う、う、うわーーーーーーーん！	「U, u, u, uwaaaaaah!
+63070	+		　お、おぼえてろーーーー！」	　I'll remember this-----!」
 
-63071	-	ミルは泣きながら逃げ出した。	Mill ran away crying.
+63071	-		ミルは泣きながら逃げ出した。	Mill ran away crying.
 
-63072	Rance	「口ほどにもないやつめ……」	「All talk and no bite...」
+63072	Rance	全裸	「口ほどにもないやつめ……」	「All talk and no bite...」
 
-63073	Katyusha Bosch	「それ、私の台詞だと思うけど。	「I think that's my line.
-63074	+	　さて……覚悟はいいかしら、総統さん？」	　Now then... Are you ready, Supreme Leader?」
+63073	Katyusha Bosch	基本	「それ、私の台詞だと思うけど。	「I think that's my line.
+63074	+		　さて……覚悟はいいかしら、総統さん？」	　Now then... Are you ready, Supreme Leader?」
 
-63075	Rance	「む……」	「Mu...」
+63075	Rance	全裸	「む……」	「Mu...」
 
-63076	Katyusha Bosch	「本当は、八つ裂きにしてわんわんにでも食わせたい	「Honestly, I'd love to tear you to pieces and feed you to the dogs,
-63077	+	　のだけれど……お望みなら天国にいかせてあげる。	　but... if you wish, I'll send you to heaven.
-63078	+	　…………強制的に、ね」	　............By force, of course.」
+63076	Katyusha Bosch		「本当は、八つ裂きにしてわんわんにでも食わせたい	「Honestly, I'd love to tear you to pieces and feed you to the dogs,
+63077	+		　のだけれど……お望みなら天国にいかせてあげる。	　but... if you wish, I'll send you to heaven.
+63078	+		　…………強制的に、ね」	　............By force, of course.」
 
-63079	Rance	「ふーむ。仕方ないな。秘密兵器を使うとするか」	「Hmm. Can't be helped. Time to use my secret weapon.」
+63079	Rance		「ふーむ。仕方ないな。秘密兵器を使うとするか」	「Hmm. Can't be helped. Time to use my secret weapon.」
 
-63080	Katyusha Bosch	「時間稼ぎでもしたいの？	「Stalling for time?
-63081	+	　何を…………」	　What are you......」
+63080	Katyusha Bosch		「時間稼ぎでもしたいの？	「Stalling for time?
+63081	+		　何を…………」	　What are you......」
 
-63082	Rance	「セラクロラスーーーーー！　かもーーーーん！」	「Serachrolas-----! Come ooooon!」
+63082	Rance		「セラクロラスーーーーー！　かもーーーーん！」	「Serachrolas-----! Come ooooon!」
 
-63083	Serachrolas	「あいあーい」	「Ai ai~」
+63083	Serachrolas	基本	「あいあーい」	「Ai ai~」
 
-63084	Katyusha Bosch	「……子供？」	「...A child?」
+63084	Katyusha Bosch	全裸	「……子供？」	「...A child?」
 
-63085	Rance	「俺は今から…………	「I am about to............
-63086	?	貴様の処女を奪う！」	steal your virginity!」
+63085	Rance		「俺は今から…………	「I am about to............
+63086	?		貴様の処女を奪う！」	steal your virginity!」
 
-63087	Katyusha Bosch	「…………………………はあ？」	「........................Haa?」
+63087	Katyusha Bosch		「…………………………はあ？」	「........................Haa?」
 
-63088	Rance	「やれセラクロラス！」	「Do it, Serachrolas!」
+63088	Rance		「やれセラクロラス！」	「Do it, Serachrolas!」
 
-63089	Serachrolas	「てやぷー」	「Teyapuu」
+63089	Serachrolas	基本	「てやぷー」	「Teyapuu」
 
-63090	Katyusha Bosch	「………………！？」	「............!?」
+63090	Katyusha Bosch	全裸	「………………！？」	「............!?」
 
-63091	Katyusha Bosch	「な、なに、この、かんじ……魔法……！？」	「Wh, what is this feeling... magic...!?」
+63091	Katyusha Bosch		「な、なに、この、かんじ……魔法……！？」	「Wh, what is this feeling... magic...!?」
 
-63092	Katyusha Bosch	「う、うあ、うあああああぁぁぁぁ……！」	「U, ua, uaaaaaaaah...!」
+63092	Katyusha Bosch		「う、うあ、うあああああぁぁぁぁ……！」	「U, ua, uaaaaaaaah...!」
 
-63093	Rance	「がはははは！　お前にも処女の頃はあっただろう！	「Gahahaha! You were a virgin once too!
-63094	+	　男に免疫なんぞ付いてない頃だ！	　Back when you had no immunity to men!
-63095	+	　その頃に身体の時間を、巻き、戻…………」	　I'm rewinding your body's time to that period......」
+63093	Rance	全裸／笑顔	「がはははは！　お前にも処女の頃はあっただろう！	「Gahahaha! You were a virgin once too!
+63094	+		　男に免疫なんぞ付いてない頃だ！	　Back when you had no immunity to men!
+63095	+		　その頃に身体の時間を、巻き、戻…………」	　I'm rewinding your body's time to that period......」
 
-63096	Katyusha Bosch	「ううっ…………こ、これは……いったい……」	「Uuu...... Wh, what is...... this......」
+63096	Katyusha Bosch	全裸／ぐぬぬ	「ううっ…………こ、これは……いったい……」	「Uuu...... Wh, what is...... this......」
 
-63097	Rance	「…………おお、髪の色まで。	「............Oh, even your hair color changed.
-63098	+	　これはまた……予想外の姿が出てきたな」	　This is... quite an unexpected form.」
+63097	Rance	全裸	「…………おお、髪の色まで。	「............Oh, even your hair color changed.
+63098	+		　これはまた……予想外の姿が出てきたな」	　This is... quite an unexpected form.」
 
-63099	Serachrolas	「ランス、もういい？　うにゅ……」	「Rance, is that enough? Unyu...」
+63099	Serachrolas	基本	「ランス、もういい？　うにゅ……」	「Rance, is that enough? Unyu...」
 
-63100	Rance	「おう、よしよし。戻っていいぞ」	「Yeah, good good. You can go back now.」
+63100	Rance	全裸	「おう、よしよし。戻っていいぞ」	「Yeah, good good. You can go back now.」
 
-63101	Serachrolas	「ん、うん……」	「Nn, yeah...」
+63101	Serachrolas	基本	「ん、うん……」	「Nn, yeah...」
 
-63102	-	セラクロラスは相変わらず眠そうな足取りで、	Serachrolas left the cell with her usual sleepy steps,
-63103	+	牢から出て行った。	still looking half-asleep.
+63102	-		セラクロラスは相変わらず眠そうな足取りで、	Serachrolas left the cell with her usual sleepy steps,
+63103	+		牢から出て行った。	still looking half-asleep.
 
-63104	Katyusha Bosch	「この、姿はぁ……まさか、若返って……！？」	「This, appearance... I actually got younger...!?」
+63104	Katyusha Bosch	全裸／ぐぬぬ	「この、姿はぁ……まさか、若返って……！？」	「This, appearance... I actually got younger...!?」
 
-63105	Rance	「そうだ。今は処女ってわけだ。ぐぅっふっふ……	「That's right. You're a virgin now. Guuuh hehehe...
-63106	+	　さあ、念願の一対一セックスの時間だな」	　Now it's time for our long-awaited one-on-one sex.」
+63105	Rance	全裸／エロ顔	「そうだ。今は処女ってわけだ。ぐぅっふっふ……	「That's right. You're a virgin now. Guuuh hehehe...
+63106	+		　さあ、念願の一対一セックスの時間だな」	　Now it's time for our long-awaited one-on-one sex.」
 
-63107	-	ランスが、ハイパー兵器を勃ち上がらせながら	Rance entered the cell, his massive Hyper Weapon already rock-hard,
-63108	+	牢の中に入っていく。	throbbing with dominance.
+63107	-		ランスが、ハイパー兵器を勃ち上がらせながら	Rance entered the cell, his massive Hyper Weapon already rock-hard,
+63108	+		牢の中に入っていく。	throbbing with dominance.
 
-63109	Katyusha Bosch	「ひっ……！　や、やめてぇっ……！	「Hii...! S, stop...!
-63110	+	　さわ、触らないでぇっ……！」	　D, don't touch me...!」
+63109	Katyusha Bosch	全裸／悔しい	「ひっ……！　や、やめてぇっ……！	「Hii...! S, stop...!
+63110	+		　さわ、触らないでぇっ……！」	　D, don't touch me...!」
 
-63111	-	カチューシャの身体が、勝手に竦む。	Katyusha's body shrank back on its own.
+63111	-		カチューシャの身体が、勝手に竦む。	Katyusha's body shrank back on its own.
 
-63112	Rance	「がははははははは！	「Gahahahahaha!
-63113	+	　いいぞ、泣き喚け！　とーーーーー！！」	　That's it, scream and cry! Tooooo!!」
+63112	Rance	全裸／笑顔	「がははははははは！	「Gahahahahaha!
+63113	+		　いいぞ、泣き喚け！　とーーーーー！！」	　That's it, scream and cry! Tooooo!!」
 
-63114	Katyusha Bosch	「ひっ！？」	「Hii!?」
+63114	Katyusha Bosch	全裸	「ひっ！？」	「Hii!?」
 
-63115	-	ランスは軽々とカチューシャを押し倒すと、	Rance easily pinned the young Katyusha down,
-63116	+	割り開いた両足の間に屹立したハイパー兵器を据えた。	spreading her legs wide and pressing his towering Hyper Weapon against her virgin slit.
+63115	-		ランスは軽々とカチューシャを押し倒すと、	Rance easily pinned the young Katyusha down,
+63116	+		割り開いた両足の間に屹立したハイパー兵器を据えた。	spreading her legs wide and pressing his towering Hyper Weapon against her virgin slit.
 
-63117	Rance	「くく、本当にただの女の子だな。	「Heh heh, you're really just a little girl now.
-63118	+	　柔らかくてぷにぷにだ」	　So soft and squishy.」
+63117	Rance		「くく、本当にただの女の子だな。	「Heh heh, you're really just a little girl now.
+63118	+		　柔らかくてぷにぷにだ」	　So soft and squishy.」
 
-63119	Katyusha Bosch	「っ……あ、やめ、やめな、さいっ……！	「Nnh... Ah, s, stop it...!
-63120	+	　どうして、こんなことが……っ……」	　Why is this happening...」
+63119	Katyusha Bosch		「っ……あ、やめ、やめな、さいっ……！	「Nnh... Ah, s, stop it...!
+63120	+		　どうして、こんなことが……っ……」	　Why is this happening...」
 
-63121	-	触れれば、柔らかさの奥に鍛え込まれたしなやかな筋肉を感じた	Beneath the soft flesh, he could feel the trained supple muscles,
-63122	+	元のカチューシャとは違い、ほとんど普通の少女の肉体だった。	but unlike the original Katyusha, it was almost that of a normal young girl.
+63121	-		触れれば、柔らかさの奥に鍛え込まれたしなやかな筋肉を感じた	Beneath the soft flesh, he could feel the trained supple muscles,
+63122	+		元のカチューシャとは違い、ほとんど普通の少女の肉体だった。	but unlike the original Katyusha, it was almost that of a normal young girl.
 
-63123	Rance	「しかもなかなかきめ細かくて綺麗な肌だ。	「And such smooth, beautiful skin too.
-63124	+	　お前、どっかのお嬢さんだったりしたのか？」	　Were you some rich young lady before?」
+63123	Rance		「しかもなかなかきめ細かくて綺麗な肌だ。	「And such smooth, beautiful skin too.
+63124	+		　お前、どっかのお嬢さんだったりしたのか？」	　Were you some rich young lady before?」
 
-63125	Katyusha Bosch	「…………関係ないでしょう、ッ……	「............None of your business...!
-63126	+	　そんな事、貴方に…………っ、ひあぁっ！」	　Why would I tell y-... Hiiyaah!」
+63125	Katyusha Bosch		「…………関係ないでしょう、ッ……	「............None of your business...!
+63126	+		　そんな事、貴方に…………っ、ひあぁっ！」	　Why would I tell y-... Hiiyaah!」
 
-63127	-	出し抜けに、ランスの指が内股を撫でる。	Suddenly, Rance's fingers stroked her inner thighs.
+63127	-		出し抜けに、ランスの指が内股を撫でる。	Suddenly, Rance's fingers stroked her inner thighs.
 
-63128	Rance	「くく、まあそうだな。大事なのは、お前がその身体で、	「Heh heh, true enough. What matters is that with this body,
-63129	+	　俺様とセックス勝負をするという事だ。小細工無しでな」	　you'll be having raw sex with me. No tricks.」
+63128	Rance		「くく、まあそうだな。大事なのは、お前がその身体で、	「Heh heh, true enough. What matters is that with this body,
+63129	+		　俺様とセックス勝負をするという事だ。小細工無しでな」	　you'll be having raw sex with me. No tricks.」
 
-63130	Katyusha Bosch	「………………っ……！」	「............!」
+63130	Katyusha Bosch		「………………っ……！」	「............!」
 
-63131	-	カチューシャは唇を噛んで、ランスを睨んだ。	Katyusha bit her lip and glared at Rance.
+63131	-		カチューシャは唇を噛んで、ランスを睨んだ。	Katyusha bit her lip and glared at Rance.
 
-63132	Rance	「ふふん。それとも泣きを入れるか？	「Heh. Or will you beg for mercy?
-63133	+	　今から全裸土下座で謝れば、不戦敗で勘弁してやるぞ」	　Get on your knees naked and apologize now, and I'll forgive you with a forfeit.」
+63132	Rance		「ふふん。それとも泣きを入れるか？	「Heh. Or will you beg for mercy?
+63133	+		　今から全裸土下座で謝れば、不戦敗で勘弁してやるぞ」	　Get on your knees naked and apologize now, and I'll forgive you with a forfeit.」
 
-63134	Katyusha Bosch	「……馬鹿馬鹿しい。知識も技術も、変わってないのよ？	「...Ridiculous. My knowledge and skills haven't changed.
-63135	+	　何が劣るものですか」	　What could possibly be inferior?」
+63134	Katyusha Bosch		「……馬鹿馬鹿しい。知識も技術も、変わってないのよ？	「...Ridiculous. My knowledge and skills haven't changed.
+63135	+		　何が劣るものですか」	　What could possibly be inferior?」
 
-63136	Katyusha Bosch	「むしろ、貴方がただ、身体に溺れやすくなっただけ……	「If anything, your body has just become easier to drown in pleasure...
-63137	+	　って、こ、こらっ……」	　H, hey...」
+63136	Katyusha Bosch		「むしろ、貴方がただ、身体に溺れやすくなっただけ……	「If anything, your body has just become easier to drown in pleasure...
+63137	+		　って、こ、こらっ……」	　H, hey...」
 
-63138	-	ランスがぐっと身体を近づけ、	Rance pressed his body closer,
-63139	+	ぎゅっと小ぶりになった胸を掴む。	and firmly grabbed her now smaller breasts.
+63138	-		ランスがぐっと身体を近づけ、	Rance pressed his body closer,
+63139	+		ぎゅっと小ぶりになった胸を掴む。	and firmly grabbed her now smaller breasts.
 
-63140	Katyusha Bosch	「っ、きゃっ……！？」	「Nnh, kyaa...!?」
+63140	Katyusha Bosch		「っ、きゃっ……！？」	「Nnh, kyaa...!?」
 
-63141	Rance	「ほーん。何も劣らんのだな？	「Hmm. Nothing inferior, you say?
-63142	+	　くく、おっぱい触っただけでビクッとしとったが」	　Heh heh, yet you twitched hard just from me grabbing your tits.」
+63141	Rance		「ほーん。何も劣らんのだな？	「Hmm. Nothing inferior, you say?
+63142	+		　くく、おっぱい触っただけでビクッとしとったが」	　Heh heh, yet you twitched hard just from me grabbing your tits.」
 
-63143	Katyusha Bosch	「きゅ、急に触るからに決まっているでしょう！	「O, of course I'd react if you suddenly grab them!
-63144	+	　そんな程度で、鬼の首でも取ったように……馬鹿馬鹿しい」	　Acting like you achieved something great from just that... ridiculous.」
+63143	Katyusha Bosch		「きゅ、急に触るからに決まっているでしょう！	「O, of course I'd react if you suddenly grab them!
+63144	+		　そんな程度で、鬼の首でも取ったように……馬鹿馬鹿しい」	　Acting like you achieved something great from just that... ridiculous.」
 
-63145	Rance	「ふーん、へー、ほー」	「Hmm, heh, ho.」
+63145	Rance		「ふーん、へー、ほー」	「Hmm, heh, ho.」
 
-63146	Katyusha Bosch	「んんッ！　あっ、きゃうっ！」	「Nnh! Ah, kyau!」
+63146	Katyusha Bosch		「んんッ！　あっ、きゃうっ！」	「Nnh! Ah, kyau!」
 
-63147	-	ランスがくにくにと手を開閉させると、	Rance kneaded her breasts, squeezing and releasing,
-63148	+	乳房は形をぐねぐねと変え、カチューシャの身体が跳ねる。	making them change shape lewdly as her body jolted.
+63147	-		ランスがくにくにと手を開閉させると、	Rance kneaded her breasts, squeezing and releasing,
+63148	+		乳房は形をぐねぐねと変え、カチューシャの身体が跳ねる。	making them change shape lewdly as her body jolted.
 
-63149	Katyusha Bosch	「や、やめっ……やめなさい……！」	「S, stop... stop it...!」
+63149	Katyusha Bosch		「や、やめっ……やめなさい……！」	「S, stop... stop it...!」
 
-63150	Katyusha Bosch~	（そんなッ……！　ただこれだけで、	（No way...! Just from this,
-63151	+	　こんなに、ッ……！　鼓動が、速くなるの……！？）	　my heart is racing so much...!?）
+63150	Katyusha Bosch~		（そんなッ……！　ただこれだけで、	（No way...! Just from this,
+63151	+		　こんなに、ッ……！　鼓動が、速くなるの……！？）	　my heart is racing so much...!?）
 
-63152	Rance	「なんでだ？　気持ちいいからか？	「Why? Does it feel good?
-63153	+	　それとも触られる度に心臓がバクバクになるからか？」	　Or does your heart pound every time I touch you?」
+63152	Rance		「なんでだ？　気持ちいいからか？	「Why? Does it feel good?
+63153	+		　それとも触られる度に心臓がバクバクになるからか？」	　Or does your heart pound every time I touch you?」
 
-63154	Katyusha Bosch	「そんなことがあるものですかっ！」	「Of course not!」
+63154	Katyusha Bosch		「そんなことがあるものですかっ！」	「Of course not!」
 
-63155	Rance~	（……こいつ、喋り方までちょっと上品になってるぞ。	（...Her way of speaking has become a bit more refined too.
-63156	+	　ずいぶん身体に引っ張られてるらしいな……）	　Her body is really affecting her...）
+63155	Rance~		（……こいつ、喋り方までちょっと上品になってるぞ。	（...Her way of speaking has become a bit more refined too.
+63156	+		　ずいぶん身体に引っ張られてるらしいな……）	　Her body is really affecting her...）
 
-63157	Rance	「ま、いいか。どうせだし楽しむぞ」	「Well, whatever. I'll just enjoy myself.」
+63157	Rance		「ま、いいか。どうせだし楽しむぞ」	「Well, whatever. I'll just enjoy myself.」
 
-63158	Katyusha Bosch	「っ、う、や、やめっ、そ、そんなところ、でっ……	「N, u, s, stop, n, not there...
-63159	+	　んぅっ、あ、はぁっ！」	　Nnu, ah, haa!」
+63158	Katyusha Bosch		「っ、う、や、やめっ、そ、そんなところ、でっ……	「N, u, s, stop, n, not there...
+63159	+		　んぅっ、あ、はぁっ！」	　Nnu, ah, haa!」
 
-63160	-	ランスの手が脇腹や鎖骨、うなじを這い回り、	Rance's hands crawled over her sides, collarbone, and nape,
-63161	+	カチューシャの身体から反応を引き出していく。	drawing out reactions from her sensitive young body.
+63160	-		ランスの手が脇腹や鎖骨、うなじを這い回り、	Rance's hands crawled over her sides, collarbone, and nape,
+63161	+		カチューシャの身体から反応を引き出していく。	drawing out reactions from her sensitive young body.
 
-63162	-	そして、そうやって動くたびに、	And with every movement,
-63163	+	密着したハイパー兵器の熱が、カチューシャの下腹に伝染する。	the scorching heat of his pressed Hyper Weapon burned into her lower belly.
+63162	-		そして、そうやって動くたびに、	And with every movement,
+63163	+		密着したハイパー兵器の熱が、カチューシャの下腹に伝染する。	the scorching heat of his pressed Hyper Weapon burned into her lower belly.
 
-63164	Katyusha Bosch~	（こんな、っ……！　	（This...!
-63165	+	　多少大きいくらいで、なんの変哲もない、ペニスッ……）	　It's just a slightly big, ordinary cock...）
+63164	Katyusha Bosch~		（こんな、っ……！　	（This...!
+63165	+		　多少大きいくらいで、なんの変哲もない、ペニスッ……）	　It's just a slightly big, ordinary cock...）
 
-63166	Katyusha Bosch	（大した事なんか、ない……！　そう、入ってきたところで……	（It's nothing special...! Even if it goes in...
-63167	+	　大丈夫。大丈夫……な、はずっ……）	　It'll be fine. It has to be...）
+63166	Katyusha Bosch		（大した事なんか、ない……！　そう、入ってきたところで……	（It's nothing special...! Even if it goes in...
+63167	+		　大丈夫。大丈夫……な、はずっ……）	　It'll be fine. It has to be...）
 
-63168	-	己に言い聞かせながら、カチューシャは主張するそれから	Trying to convince herself, Katyusha tried to ignore the insistent throbbing,
-63169	+	努めて意識を離そうとするが、結局、果たせてはいなかった。	but she couldn't tear her mind away from it.
+63168	-		己に言い聞かせながら、カチューシャは主張するそれから	Trying to convince herself, Katyusha tried to ignore the insistent throbbing,
+63169	+		努めて意識を離そうとするが、結局、果たせてはいなかった。	but she couldn't tear her mind away from it.
 
-63170	Rance	「ぐふふふ、そろそろいいか？　欲しいか？	「Gufufu, ready yet? Want it?
-63171	+	　処女だからなー、念入りにしないとなー」	　Since you're a virgin, I have to be thorough.」
+63170	Rance		「ぐふふふ、そろそろいいか？　欲しいか？	「Gufufu, ready yet? Want it?
+63171	+		　処女だからなー、念入りにしないとなー」	　Since you're a virgin, I have to be thorough.」
 
-63172	Katyusha Bosch	「っ………………」	「......」
+63172	Katyusha Bosch		「っ………………」	「......」
 
-63173	-	ぬるぬると、ハイパー兵器が割れ目をなぞってうごめく。	His Hyper Weapon slid slickly along her slit, teasing.
+63173	-		ぬるぬると、ハイパー兵器が割れ目をなぞってうごめく。	His Hyper Weapon slid slickly along her slit, teasing.
 
-63174	-	ちゅくちゅくと小さく音が立ち、	Wet little sounds echoed,
-63175	+	カチューシャの身体の奥からも僅かに蜜が零れる。	as a trickle of honey began leaking from deep inside her.
+63174	-		ちゅくちゅくと小さく音が立ち、	Wet little sounds echoed,
+63175	+		カチューシャの身体の奥からも僅かに蜜が零れる。	as a trickle of honey began leaking from deep inside her.
 
-63176	Rance	「さーて、頂くぞー。	「Alright, time to take it.
-63177	+	　カチューシャちゃんの処女にさよならだ」	　Goodbye to Katyusha-chan's virginity.」
+63176	Rance		「さーて、頂くぞー。	「Alright, time to take it.
+63177	+		　カチューシャちゃんの処女にさよならだ」	　Goodbye to Katyusha-chan's virginity.」
 
-63178	Katyusha Bosch	「どうでもいいわ。誰に向かって言ってるの。	「I don't care. Who are you talking to.
-63179	+	　こんなの、前の時の地獄に比べれば……」	　This is nothing compared to the hell I went through before...」
+63178	Katyusha Bosch		「どうでもいいわ。誰に向かって言ってるの。	「I don't care. Who are you talking to.
+63179	+		　こんなの、前の時の地獄に比べれば……」	　This is nothing compared to the hell I went through before...」
 
-63180	Rance	「じゃあ頂きだーーーー！」	「Then here I come-----!」
+63180	Rance		「じゃあ頂きだーーーー！」	「Then here I come-----!」
 
-63181	-	　　＜ずぶちゅぐちちちちちっ！　にゅぐ、ずぶううぅっ！＞	　　＜Zubuchuguchichichi! Nyugu, zubuuu!＞
+63181	-		　　＜ずぶちゅぐちちちちちっ！　にゅぐ、ずぶううぅっ！＞	　　＜Zubuchuguchichichi! Nyugu, zubuuu!＞
 
-63182	Katyusha Bosch	「あ、ッ――――く、あ、あ、あ……っ…………！？」	「A, hh----ku, a, a, a......!?」
+63182	Katyusha Bosch		「あ、ッ――――く、あ、あ、あ……っ…………！？」	「A, hh----ku, a, a, a......!?」
 
-63183	-	ランスは遠慮会釈無く、	Without any mercy,
-63184	+	ハイパー兵器をカチューシャの奥へと突き刺した。	Rance rammed his massive Hyper Weapon deep into her virgin depths.
+63183	-		ランスは遠慮会釈無く、	Without any mercy,
+63184	+		ハイパー兵器をカチューシャの奥へと突き刺した。	Rance rammed his massive Hyper Weapon deep into her virgin depths.
 
-63185	-	肉襞は、これまでまったく感じた事のない	Her inner walls, never having felt anything like this before,
-63186	+	異物感に驚き、強く収縮する。	tightened hard in shock at the invading foreign object.
+63185	-		肉襞は、これまでまったく感じた事のない	Her inner walls, never having felt anything like this before,
+63186	+		異物感に驚き、強く収縮する。	tightened hard in shock at the invading foreign object.
 
-63187	Katyusha Bosch	「んぐっ、く、ぁ……っ……？」	「Ngu, ku, a......?」
+63187	Katyusha Bosch		「んぐっ、く、ぁ……っ……？」	「Ngu, ku, a......?」
 
-63188	-	衝撃。	The impact.
+63188	-		衝撃。	The impact.
 
-63189	-	内臓が、まとめて押し上げられるような刺激。	A sensation like her guts were being pushed up all at once.
-63190	+	目が白黒しているのが、自分でも分かった。	She could tell her vision was going white.
+63189	-		内臓が、まとめて押し上げられるような刺激。	A sensation like her guts were being pushed up all at once.
+63190	+		目が白黒しているのが、自分でも分かった。	She could tell her vision was going white.
 
-63191	Katyusha Bosch	「い、いたっ……！　ほ、ホントに、処女に、ッ……	「I, it hurts...! R, really, taking my virginity...
-63192	+	　あ、あ、待って、っ……う、あ……！」	　A, ah, wait... u, a...!」
+63191	Katyusha Bosch		「い、いたっ……！　ほ、ホントに、処女に、ッ……	「I, it hurts...! R, really, taking my virginity...
+63192	+		　あ、あ、待って、っ……う、あ……！」	　A, ah, wait... u, a...!」
 
-63193	Rance	「待てないとも！　そーら、入っていくぞー」	「No waiting! Here it comes!」
+63193	Rance		「待てないとも！　そーら、入っていくぞー」	「No waiting! Here it comes!」
 
-63194	Katyusha Bosch	「んぐぅっ……！　あぐ、うぁああああ！」	「Nguu...! Agu, uaaaaah!」
+63194	Katyusha Bosch		「んぐぅっ……！　あぐ、うぁああああ！」	「Nguu...! Agu, uaaaaah!」
 
-63195	-	頭の中が燃えるような、喪失の痛み。	A burning pain of loss filled her head.
-63196	+	嫌がっても抗っても、頓着なく侵入してくる、男の欲望。	No matter how she resisted, the man's ruthless lust pushed deeper.
+63195	-		頭の中が燃えるような、喪失の痛み。	A burning pain of loss filled her head.
+63196	+		嫌がっても抗っても、頓着なく侵入してくる、男の欲望。	No matter how she resisted, the man's ruthless lust pushed deeper.
 
-63197	Katyusha Bosch~	（あぁ……そういえば。	（Ah... that's right.
-63198	+	　初めての時は……ただただ、辛いだけで……っ……）	　My first time... it was just painful...）
+63197	Katyusha Bosch~		（あぁ……そういえば。	（Ah... that's right.
+63198	+		　初めての時は……ただただ、辛いだけで……っ……）	　My first time... it was just painful...）
 
-63199	Katyusha Bosch	「ああぁっ、く、か、はっ……！」	「Aaaah, k, ka, ha...!」
+63199	Katyusha Bosch		「ああぁっ、く、か、はっ……！」	「Aaaah, k, ka, ha...!」
 
-63200	-	ねじ込むという形容が相応しく、	Twisting and screwing in,
-63201	+	カチューシャが身悶える中、ハイパー兵器は奥へと入っていく。	Rance forced his Hyper Weapon deeper as she writhed.
+63200	-		ねじ込むという形容が相応しく、	Twisting and screwing in,
+63201	+		カチューシャが身悶える中、ハイパー兵器は奥へと入っていく。	Rance forced his Hyper Weapon deeper as she writhed.
 
-63202	Rance	「ぐっふっふ、とりあえずこんなモンか。	「Gufufu, that's about it for now.
-63203	+	　びくびく震えて、可愛いぞカチューシャ」	　Trembling all over, so cute, Katyusha.」
+63202	Rance		「ぐっふっふ、とりあえずこんなモンか。	「Gufufu, that's about it for now.
+63203	+		　びくびく震えて、可愛いぞカチューシャ」	　Trembling all over, so cute, Katyusha.」
 
-63204	Katyusha Bosch	「ううぅぁ、っく……かは、っ……！」	「Uuuua, kku... kaha...!」
+63204	Katyusha Bosch		「ううぅぁ、っく……かは、っ……！」	「Uuuua, kku... kaha...!」
 
-63205	Rance	「さー、正々堂々真剣勝負だ！	「Now, a fair and serious sex battle!
-63206	+	　たーーーーーーー！」	　Taaaa!」
+63205	Rance		「さー、正々堂々真剣勝負だ！	「Now, a fair and serious sex battle!
+63206	+		　たーーーーーーー！」	　Taaaa!」
 
-63207	Katyusha Bosch	「あっ、んふ、はぁっ……！	「Ah, nfu, haa...!
-63208	+	　だ、だめっ…………！　待って……んんぐ、くぅぅぅっ！」	　N, no......! Wait... nngu, kuuu!」
+63207	Katyusha Bosch		「あっ、んふ、はぁっ……！	「Ah, nfu, haa...!
+63208	+		　だ、だめっ…………！　待って……んんぐ、くぅぅぅっ！」	　N, no......! Wait... nngu, kuuu!」
 
-63209	-	ランスは容赦なく、上下の動きまで加えて	Rance mercilessly added vertical thrusts,
-63210	+	腰を振り始めた。	and began pounding his hips.
+63209	-		ランスは容赦なく、上下の動きまで加えて	Rance mercilessly added vertical thrusts,
+63210	+		腰を振り始めた。	and began pounding his hips.
 
-63211	-	ぐぽぐぽと卑猥な水音が響き、	Lewd wet sounds echoed as
-63212	+	カチューシャの男を知らぬ花弁にハイパー兵器が出入りする。	his Hyper Weapon plunged in and out of her untouched petals.
+63211	-		ぐぽぐぽと卑猥な水音が響き、	Lewd wet sounds echoed as
+63212	+		カチューシャの男を知らぬ花弁にハイパー兵器が出入りする。	his Hyper Weapon plunged in and out of her untouched petals.
 
-63213	Katyusha Bosch	「あ、っ……！　はぁ、んっ……ひぅぅぅっ！	「A...! Haa, n... hiuuu!
-63214	+	　あんっ、あっ、ふぁっ、や、あ、くぁっ……！」	　Ann, ah, faa, ya, a, kuaa...!」
+63213	Katyusha Bosch		「あ、っ……！　はぁ、んっ……ひぅぅぅっ！	「A...! Haa, n... hiuuu!
+63214	+		　あんっ、あっ、ふぁっ、や、あ、くぁっ……！」	　Ann, ah, faa, ya, a, kuaa...!」
 
-63215	-	何の変哲もない挿入。大した技術もない腰振り。	A simple insertion with no special technique.
-63216	+	カチューシャにはあくびが出るようなもの、のはずなのに――	It should have been nothing to her, yet――
+63215	-		何の変哲もない挿入。大した技術もない腰振り。	A simple insertion with no special technique.
+63216	+		カチューシャにはあくびが出るようなもの、のはずなのに――	It should have been nothing to her, yet――
 
-63217	Katyusha Bosch	「っ、くぁっ、は、あッ、ん、痛、っ……！	「K, kuaa, ha, a, n, it hurts...!
-63218	+	　あっ、ああッ！　んぐ、き、つい、のよぉっ……！」	　Ah, aah! Ngu, it's so tight...!」
+63217	Katyusha Bosch		「っ、くぁっ、は、あッ、ん、痛、っ……！	「K, kuaa, ha, a, n, it hurts...!
+63218	+		　あっ、ああッ！　んぐ、き、つい、のよぉっ……！」	　Ah, aah! Ngu, it's so tight...!」
 
-63219	Rance	「おいおい、まだ全然始めたばかりだぞ！	「Hey hey, we've barely started!
-63220	+	　締まり具合といい反応といい、まさしく処女だな！」	　That tightness and those reactions, pure virgin!」
+63219	Rance		「おいおい、まだ全然始めたばかりだぞ！	「Hey hey, we've barely started!
+63220	+		　締まり具合といい反応といい、まさしく処女だな！」	　That tightness and those reactions, pure virgin!」
 
-63221	Katyusha Bosch	「っ、く……っ、図に、乗って……！」	「K, ku... Don't get cocky...!」
+63221	Katyusha Bosch		「っ、く……っ、図に、乗って……！」	「K, ku... Don't get cocky...!」
 
-63222	-	カチューシャは歯噛みして、下半身に力を込める。	Katyusha bit down and tensed her lower body.
+63222	-		カチューシャは歯噛みして、下半身に力を込める。	Katyusha bit down and tensed her lower body.
 
-63223	Katyusha Bosch~	（こ、こっちから絞り上げて……っ、	（I'll squeeze him from my side...
-63224	+	　そのまま、主導権を奪っ……）	　and take control...）
+63223	Katyusha Bosch~		（こ、こっちから絞り上げて……っ、	（I'll squeeze him from my side...
+63224	+		　そのまま、主導権を奪っ……）	　and take control...）
 
-63225	Rance	「おー！　良い締まりだ。がはははははは！」	「Oh! Great grip. Gahahahaha!」
+63225	Rance		「おー！　良い締まりだ。がはははははは！」	「Oh! Great grip. Gahahahaha!」
 
-63226	Katyusha Bosch	「ひぃぅっ！　んっんっんっんっ！　ああぅあっ！」	「Hiiu! Nn nn nn nn! Aaauaa!」
+63226	Katyusha Bosch		「ひぃぅっ！　んっんっんっんっ！　ああぅあっ！」	「Hiiu! Nn nn nn nn! Aaauaa!」
 
-63227	-	鍛えた身体が、身体感覚が、無い。	Her trained body and senses were gone.
+63227	-		鍛えた身体が、身体感覚が、無い。	Her trained body and senses were gone.
 
-63228	-	それは、ずぅっと……裏社会の一商品だったカチューシャを、	It was what had made Katyusha, once just a commodity in the underworld,
-63229	+	物を考える人間にしてくれた、拠り所で――	feel like a real human being――
+63228	-		それは、ずぅっと……裏社会の一商品だったカチューシャを、	It was what had made Katyusha, once just a commodity in the underworld,
+63229	+		物を考える人間にしてくれた、拠り所で――	feel like a real human being――
 
-63230	Rance	「がはははは、いい感じだ！　ではちょっぴり本格的にいくか！	「Gahahaha, nice! Time to get a bit more serious!
-63231	+	　とーーーーーーー！」	　Tooooo!」
+63230	Rance		「がはははは、いい感じだ！　ではちょっぴり本格的にいくか！	「Gahahaha, nice! Time to get a bit more serious!
+63231	+		　とーーーーーーー！」	　Tooooo!」
 
-63232	Katyusha Bosch	「あっ、ああぁぁあっ！　うあっ！」	「Ah, aaaaaah! Uah!」
+63232	Katyusha Bosch		「あっ、ああぁぁあっ！　うあっ！」	「Ah, aaaaaah! Uah!」
 
-63233	-	ランスのピストンが、激しさを増す。	Rance's pistoning grew fiercer.
+63233	-		ランスのピストンが、激しさを増す。	Rance's pistoning grew fiercer.
 
-63234	-	ハイパー兵器は未熟な秘裂に根元まで押し込まれ、	His Hyper Weapon slammed to the root into her immature slit,
-63235	+	その奥深くで前後する。	thrusting deep inside her.
+63234	-		ハイパー兵器は未熟な秘裂に根元まで押し込まれ、	His Hyper Weapon slammed to the root into her immature slit,
+63235	+		その奥深くで前後する。	thrusting deep inside her.
 
-63236	Katyusha Bosch~	（耐え、るっ……！　我慢するのっ……！	（Endure...! Hold on...!
-63237	+	　どうせ、こんな男……すぐに射精して、終わり……っ）	　This guy will cum soon anyway...）
+63236	Katyusha Bosch~		（耐え、るっ……！　我慢するのっ……！	（Endure...! Hold on...!
+63237	+		　どうせ、こんな男……すぐに射精して、終わり……っ）	　This guy will cum soon anyway...）
 
-63238	Rance	「くく。カチューシャの中がびくびく絡みついてくるぞ。	「Heh heh. Your insides are twitching and clinging so hard.
-63239	+	　気持ちいいのか？」	　Feels good?」
+63238	Rance		「くく。カチューシャの中がびくびく絡みついてくるぞ。	「Heh heh. Your insides are twitching and clinging so hard.
+63239	+		　気持ちいいのか？」	　Feels good?」
 
-63240	Katyusha Bosch	「そ……っ、んなわけ、ない、でしょぉっ……！	「Th... there's no way...!
-63241	+	　この、この、卑怯者っ……！　あっ、くぅっ、うああぁっ！」	　You, you coward...! Ah, kuu, uaaaa!」
+63240	Katyusha Bosch		「そ……っ、んなわけ、ない、でしょぉっ……！	「Th... there's no way...!
+63241	+		　この、この、卑怯者っ……！　あっ、くぅっ、うああぁっ！」	　You, you coward...! Ah, kuu, uaaaa!」
 
-63242	Rance	「くっ、くくくっ、がははははは！	「Kuh, kukuku, gahahahaha!
-63243	+	　卑怯者なんて言葉がお前の口から出るか！」	　Hearing you call someone a coward! Hilarious!」
+63242	Rance		「くっ、くくくっ、がははははは！	「Kuh, kukuku, gahahahaha!
+63243	+		　卑怯者なんて言葉がお前の口から出るか！」	　Hearing you call someone a coward! Hilarious!」
 
-63244	Katyusha Bosch	「っ、は…………！」	「K, ha......!」
+63244	Katyusha Bosch		「っ、は…………！」	「K, ha......!」
 
-63245	-	抽送に耐えながら、つい口から出てしまった言葉に動揺する。	While enduring the thrusts, she was shaken by her own words.
+63245	-		抽送に耐えながら、つい口から出てしまった言葉に動揺する。	While enduring the thrusts, she was shaken by her own words.
 
-63246	Rance	「散々、そう言われてきたんだろ？	「You've been called that many times, right?
-63247	+	　言われる側が言う側になったって事か！」	　Now the tables have turned!」
+63246	Rance		「散々、そう言われてきたんだろ？	「You've been called that many times, right?
+63247	+		　言われる側が言う側になったって事か！」	　Now the tables have turned!」
 
-63248	Katyusha Bosch	「う、うるさいっ……！　い、今のは……っ……！	「S, shut up...! That was just...!
-63249	+	　うあ、んっ、くぅぅぅっ！」	　Uaa, n, kuuu!」
+63248	Katyusha Bosch		「う、うるさいっ……！　い、今のは……っ……！	「S, shut up...! That was just...!
+63249	+		　うあ、んっ、くぅぅぅっ！」	　Uaa, n, kuuu!」
 
-63250	-	ハイパー兵器が、カチューシャの最奥をくすぐる。	The Hyper Weapon tickled her deepest parts.
+63250	-		ハイパー兵器が、カチューシャの最奥をくすぐる。	The Hyper Weapon tickled her deepest parts.
 
-63251	-	その弾けるような刺激と微かなもどかしさで、	The explosive pleasure and faint frustration
-63252	+	身体の奥が震えるようだった。	made her core tremble.
+63251	-		その弾けるような刺激と微かなもどかしさで、	The explosive pleasure and faint frustration
+63252	+		身体の奥が震えるようだった。	made her core tremble.
 
-63253	Katyusha Bosch	「んんっ、あっ、ふぅ、く、うううっ……	「Nnn, ah, fuu, k, uuuu...
-63254	+	　お、終われ、はやく、ぅっ……！」	　H, hurry up and finish...!」
+63253	Katyusha Bosch		「んんっ、あっ、ふぅ、く、うううっ……	「Nnn, ah, fuu, k, uuuu...
+63254	+		　お、終われ、はやく、ぅっ……！」	　H, hurry up and finish...!」
 
-63255	Rance	「くっくっく、おぼこい娘の中に突っ込むだけじゃ、	「Heh heh heh, just thrusting into a naive girl
-63256	+	　なーかなか出ないなぁ。これは長期戦かな？」	　doesn't make me cum easily. Looks like a long battle.」
+63255	Rance		「くっくっく、おぼこい娘の中に突っ込むだけじゃ、	「Heh heh heh, just thrusting into a naive girl
+63256	+		　なーかなか出ないなぁ。これは長期戦かな？」	　doesn't make me cum easily. Looks like a long battle.」
 
-63257	Katyusha Bosch	「んぐっ、か、はぁぁっ……！」	「Ngu, ka, haaa...!」
+63257	Katyusha Bosch		「んぐっ、か、はぁぁっ……！」	「Ngu, ka, haaa...!」
 
-63258	-	ハイパー兵器はランスの言葉とは裏腹に、膨張しきったまま、	Contrary to his words, his Hyper Weapon stayed fully swollen,
-63259	+	飽きることなくカチューシャの粘膜を擦り立てる。	rubbing her sensitive walls relentlessly.
+63258	-		ハイパー兵器はランスの言葉とは裏腹に、膨張しきったまま、	Contrary to his words, his Hyper Weapon stayed fully swollen,
+63259	+		飽きることなくカチューシャの粘膜を擦り立てる。	rubbing her sensitive walls relentlessly.
 
-63260	-	未使用だった膣肉は力任せにこじ開けられ、	Her unused pussy flesh was pried open by force,
-63261	+	腹の形が変わるほどのピストンが続く。	as he continued pistoning hard enough to bulge her belly.
+63260	-		未使用だった膣肉は力任せにこじ開けられ、	Her unused pussy flesh was pried open by force,
+63261	+		腹の形が変わるほどのピストンが続く。	as he continued pistoning hard enough to bulge her belly.
 
-63262	Katyusha Bosch	「んぐっ、うっ、く、ううぅぅっ……！	「Ngu, u, ku, uuuu...!
-63263	+	　あ、あぐ、くぅっ……い、痛っ……ん、ぁぅ、ぐっ！」	　A, agu, kuu... i, it hurts... n, au, gu!」
+63262	Katyusha Bosch		「んぐっ、うっ、く、ううぅぅっ……！	「Ngu, u, ku, uuuu...!
+63263	+		　あ、あぐ、くぅっ……い、痛っ……ん、ぁぅ、ぐっ！」	　A, agu, kuu... i, it hurts... n, au, gu!」
 
-63264	-	苦悶の声を上げかけて、カチューシャは慌てて唇を噛む。	She almost let out a moan of agony and quickly bit her lip.
-63265	+	この程度が呑み込めないなどと知られるのも、また屈辱だった。	Letting him know she couldn't handle even this was humiliating.
+63264	-		苦悶の声を上げかけて、カチューシャは慌てて唇を噛む。	She almost let out a moan of agony and quickly bit her lip.
+63265	+		この程度が呑み込めないなどと知られるのも、また屈辱だった。	Letting him know she couldn't handle even this was humiliating.
 
-63266	Rance	「っとっと。ふん、ならスピードダウンしてやる」	「Whoops. Hmph, then I'll slow down a bit.」
+63266	Rance		「っとっと。ふん、ならスピードダウンしてやる」	「Whoops. Hmph, then I'll slow down a bit.」
 
-63267	-	　　＜にゅぷうぅ、っ……＞	　　＜Nyupuuu...＞
+63267	-		　　＜にゅぷうぅ、っ……＞	　　＜Nyupuuu...＞
 
-63268	Katyusha Bosch	「んんぅ、っ……？」	「Nnu...?」
+63268	Katyusha Bosch		「んんぅ、っ……？」	「Nnu...?」
 
-63269	-	ランスの挿入が浅くなった。	Rance's thrusts became shallower.
+63269	-		ランスの挿入が浅くなった。	Rance's thrusts became shallower.
 
-63270	-	大きさと不慣れな身体のせいだった痛みは、	The pain from his size and her inexperienced body
-63271	+	前後運動の速度が遅くなったせいで和らいできた。	eased as he slowed his movements.
+63270	-		大きさと不慣れな身体のせいだった痛みは、	The pain from his size and her inexperienced body
+63271	+		前後運動の速度が遅くなったせいで和らいできた。	eased as he slowed his movements.
 
-63272	Katyusha Bosch	「んぐ、うっ……何を、考えているの……」	「Ngu, u... What are you thinking...」
+63272	Katyusha Bosch		「んぐ、うっ……何を、考えているの……」	「Ngu, u... What are you thinking...」
 
-63273	Rance	「処女の女の子にはきつかろう。	「It must be tough for a virgin girl.
-63274	+	　俺様のはちょっとハイパー過ぎるからな！」	　Mine is a bit too hyper after all!」
+63273	Rance		「処女の女の子にはきつかろう。	「It must be tough for a virgin girl.
+63274	+		　俺様のはちょっとハイパー過ぎるからな！」	　Mine is a bit too hyper after all!」
 
-63275	Katyusha Bosch	「世迷い言、をっ……！」	「Nonsense...!」
+63275	Katyusha Bosch		「世迷い言、をっ……！」	「Nonsense...!」
 
-63276	-	それでもランスが腰を引き、そして押すたびに、	Yet every time he pulled back and pushed in,
-63277	+	擦られる膣粘膜の感触がカチューシャの背筋を跳ねさせる。	the rubbing against her vaginal walls made her spine tingle.
+63276	-		それでもランスが腰を引き、そして押すたびに、	Yet every time he pulled back and pushed in,
+63277	+		擦られる膣粘膜の感触がカチューシャの背筋を跳ねさせる。	the rubbing against her vaginal walls made her spine tingle.
 
-63278	Rance	「ふん、どうだ。降参する気になったか？」	「Hmph, how about it? Ready to surrender?」
+63278	Rance		「ふん、どうだ。降参する気になったか？」	「Hmph, how about it? Ready to surrender?」
 
-63279	Katyusha Bosch	「っ、はっ、んっ……だ、誰が、っ……！	「N, ha, n... W, who would...!
-63280	+	　わ、私は、カチューシャ・ボッシュ、よっ……！」	　I am Katyusha Bosch...!」
+63279	Katyusha Bosch		「っ、はっ、んっ……だ、誰が、っ……！	「N, ha, n... W, who would...!
+63280	+		　わ、私は、カチューシャ・ボッシュ、よっ……！」	　I am Katyusha Bosch...!」
 
-63281	Katyusha Bosch	「地獄に放り込まれて……身ひとつ、頭の中身から	「Thrown into hell... with nothing but my body and mind,
-63282	+	　身体の全てを使って……ここまで、来たのっ……！」	　I fought my way here using everything...!」
+63281	Katyusha Bosch		「地獄に放り込まれて……身ひとつ、頭の中身から	「Thrown into hell... with nothing but my body and mind,
+63282	+		　身体の全てを使って……ここまで、来たのっ……！」	　I fought my way here using everything...!」
 
-63283	Katyusha Bosch	「なのに……なのにッ！	「And yet... and yet!
-63284	+	　いま、いまさら、こんな、事でッ……！」	　To be broken like this now...!」
+63283	Katyusha Bosch		「なのに……なのにッ！	「And yet... and yet!
+63284	+		　いま、いまさら、こんな、事でッ……！」	　To be broken like this now...!」
 
-63285	Rance	「ほっほーう？　もはや大勢は決したも同然だが……	「Hohoo? The outcome is basically decided already but...
-63286	+	　そういう事ならばたっぷり味わえ！」	　If that's how it is, I'll make you savor it thoroughly!」
+63285	Rance		「ほっほーう？　もはや大勢は決したも同然だが……	「Hohoo? The outcome is basically decided already but...
+63286	+		　そういう事ならばたっぷり味わえ！」	　If that's how it is, I'll make you savor it thoroughly!」
 
-63287	Katyusha Bosch	「んんッ……く、あ、ああぁぁあっ……！」	「Nnn... Ku, a, aaaaaah...!」
+63287	Katyusha Bosch		「んんッ……く、あ、ああぁぁあっ……！」	「Nnn... Ku, a, aaaaaah...!」
 
-63288	-	ランスのピストンの動きが、速くなる。	Rance's pistoning sped up.
+63288	-		ランスのピストンの動きが、速くなる。	Rance's pistoning sped up.
 
-63289	-	しかし初めの様に荒々しいものでもなく、	But not as violent as before,
-63290	+	膣の中ほどを小刻みに刺激していく。	instead stimulating the middle of her pussy with quick short thrusts.
+63289	-		しかし初めの様に荒々しいものでもなく、	But not as violent as before,
+63290	+		膣の中ほどを小刻みに刺激していく。	instead stimulating the middle of her pussy with quick short thrusts.
 
-63291	Katyusha Bosch	「く、っ……こんな、ものっ……で……！	「Ku... With something like this...!
-63292	+	　ふ、ふん、感じさせようとでも、っ……！」	　H, hmph, trying to make me feel it...!」
+63291	Katyusha Bosch		「く、っ……こんな、ものっ……で……！	「Ku... With something like this...!
+63292	+		　ふ、ふん、感じさせようとでも、っ……！」	　H, hmph, trying to make me feel it...!」
 
-63293	Rance	「くく、そのとーりっ……	「Heh heh, exactly...
-63294	+	　さっきからこの辺り、良い反応だぞ、っ……！」	　This spot has been reacting so nicely...!」
+63293	Rance		「くく、そのとーりっ……	「Heh heh, exactly...
+63294	+		　さっきからこの辺り、良い反応だぞ、っ……！」	　This spot has been reacting so nicely...!」
 
-63295	Katyusha Bosch	「ば、ばかな、事をっ……！	「D, don't be ridiculous...!
-63296	+	　せ、精々無駄な……っ、んっ、あぐ、ふぁっ……！」	　It's pointless... n, agu, faa...!」
+63295	Katyusha Bosch		「ば、ばかな、事をっ……！	「D, don't be ridiculous...!
+63296	+		　せ、精々無駄な……っ、んっ、あぐ、ふぁっ……！」	　It's pointless... n, agu, faa...!」
 
-63297	Katyusha Bosch~	（っ……良くなるわけ、ないでしょっ……！	（...There's no way it feels good...!
-63298	+	　そんな風になったのは、ずっとあと、っ……）	　That only happened much later...）
+63297	Katyusha Bosch~		（っ……良くなるわけ、ないでしょっ……！	（...There's no way it feels good...!
+63298	+		　そんな風になったのは、ずっとあと、っ……）	　That only happened much later...）
 
-63299	Katyusha Bosch	「っ、んっ、くぁっ……！？　あ、あぅ、んっ……！」	「N, n, kua...!? A, au, n...!」
+63299	Katyusha Bosch		「っ、んっ、くぁっ……！？　あ、あぅ、んっ……！」	「N, n, kua...!? A, au, n...!」
 
-63300	-	ぐっと、ハイパー兵器がカチューシャの奥に入り込む。	His Hyper Weapon pushed deep into her core.
+63300	-		ぐっと、ハイパー兵器がカチューシャの奥に入り込む。	His Hyper Weapon pushed deep into her core.
 
-63301	-	カチューシャの身体は、本人も気づかぬうちに、	Without even realizing it, Katyusha's body
-63302	+	奥に迎え入れる姿勢を取っていた。	had begun welcoming him deeper.
+63301	-		カチューシャの身体は、本人も気づかぬうちに、	Without even realizing it, Katyusha's body
+63302	+		奥に迎え入れる姿勢を取っていた。	had begun welcoming him deeper.
 
-63303	Katyusha Bosch	「んぐっ、く、なんで、っ……あっ、んっ、んんん！」	「Ngu, ku, why... ah, n, nnn!」
+63303	Katyusha Bosch		「んぐっ、く、なんで、っ……あっ、んっ、んんん！」	「Ngu, ku, why... ah, n, nnn!」
 
-63304	Rance	「がははは、処女だ処女だと言っても、	「Gahaha, even if you say you're a virgin,
-63305	+	　身体の使い方はちょっぴりでも覚えているようだな！」	　your body still remembers how to move a little!」
+63304	Rance		「がははは、処女だ処女だと言っても、	「Gahaha, even if you say you're a virgin,
+63305	+		　身体の使い方はちょっぴりでも覚えているようだな！」	　your body still remembers how to move a little!」
 
-63306	Katyusha Bosch	「っ、あ、うそっ……！　こ、こんなの、要らない、のにっ……！	「A, ah, no way...! I, I don't need this...!
-63307	+	　んんっ、は、あっ、ああっ……！」	　Nnn, ha, ah, aah...!」
+63306	Katyusha Bosch		「っ、あ、うそっ……！　こ、こんなの、要らない、のにっ……！	「A, ah, no way...! I, I don't need this...!
+63307	+		　んんっ、は、あっ、ああっ……！」	　Nnn, ha, ah, aah...!」
 
-63308	-	体が覚えているのは性交の感覚だけで、	Her body only remembered the sensations of sex,
-63309	+	刺激はただただ、カチューシャを痺れさせる。	and the stimulation numbed her completely.
+63308	-		体が覚えているのは性交の感覚だけで、	Her body only remembered the sensations of sex,
+63309	+		刺激はただただ、カチューシャを痺れさせる。	and the stimulation numbed her completely.
 
-63310	-	股間からにちゃにちゃと立つ淫靡な音までもが、	Even the lewd wet sounds from her crotch
-63311	+	カチューシャの胸を焦がしていく。	set her heart on fire.
+63310	-		股間からにちゃにちゃと立つ淫靡な音までもが、	Even the lewd wet sounds from her crotch
+63311	+		カチューシャの胸を焦がしていく。	set her heart on fire.
 
-63312	Katyusha Bosch	「んんんっ、あっ、ふ、ぁ……っ……！	「Nnnn, ah, f, a...!
-63313	+	　やだ、やだぁ、っ……！」	　No, nooo...!」
+63312	Katyusha Bosch		「んんんっ、あっ、ふ、ぁ……っ……！	「Nnnn, ah, f, a...!
+63313	+		　やだ、やだぁ、っ……！」	　No, nooo...!」
 
-63314	-	結合部は二人分の蜜で溢れかえり、	Their joining was overflowing with both their juices,
-63315	+	掻き出すごとに淫らな汁がカチューシャの股を濡らした。	and every thrust splattered lewd fluids across her thighs.
+63314	-		結合部は二人分の蜜で溢れかえり、	Their joining was overflowing with both their juices,
+63315	+		掻き出すごとに淫らな汁がカチューシャの股を濡らした。	and every thrust splattered lewd fluids across her thighs.
 
-63316	Rance	「んっ、むむっ……いい感じにお迎えしてくれるではないか。	「Nn, mumu... You're welcoming me so nicely.
-63317	+	　ならばそろそろ、本気でドーンだーーっ！」	　Then it's time for the real pounding-----!」
+63316	Rance		「んっ、むむっ……いい感じにお迎えしてくれるではないか。	「Nn, mumu... You're welcoming me so nicely.
+63317	+		　ならばそろそろ、本気でドーンだーーっ！」	　Then it's time for the real pounding-----!」
 
-63318	Katyusha Bosch	「んっ、ぐ、く、ああぁぁああっ！	「N, gu, ku, aaaaaah!
-63319	+	　ひぅっ、く、ふ、あ、ああぁあぁっ！」	　Hiu, ku, fu, a, aaaaaah!」
+63318	Katyusha Bosch		「んっ、ぐ、く、ああぁぁああっ！	「N, gu, ku, aaaaaah!
+63319	+		　ひぅっ、く、ふ、あ、ああぁあぁっ！」	　Hiu, ku, fu, a, aaaaaah!」
 
-63320	-	　　＜ずぶじゅぶっ、ぐちっ、ぎちゅっ、じゅぶぐぐぐっ！＞	　　＜Zubujubu, guchi, gichu, jubugugugu!＞
+63320	-		　　＜ずぶじゅぶっ、ぐちっ、ぎちゅっ、じゅぶぐぐぐっ！＞	　　＜Zubujubu, guchi, gichu, jubugugugu!＞
 
-63321	-	ランスの腰使いが、本気になった。	Rance went all out with his hips.
+63321	-		ランスの腰使いが、本気になった。	Rance went all out with his hips.
 
-63322	-	容赦のないピストンで、一気にカチューシャの	With merciless pistoning, he ravaged
-63323	+	未熟な秘洞を蹂躙してゆく。	her immature secret hole completely.
+63322	-		容赦のないピストンで、一気にカチューシャの	With merciless pistoning, he ravaged
+63323	+		未熟な秘洞を蹂躙してゆく。	her immature secret hole completely.
 
-63324	Katyusha Bosch	「んぐっ、ふあ、ああぁっ、たす、たすけ、てっ……！	「Ngu, fua, aaaaah, h, help...!
-63325	+	　やだあっ、もう、ッ……！　んんっ、はっ、ふぁっ！」	　No more...! Nn, ha, faa!」
+63324	Katyusha Bosch		「んぐっ、ふあ、ああぁっ、たす、たすけ、てっ……！	「Ngu, fua, aaaaah, h, help...!
+63325	+		　やだあっ、もう、ッ……！　んんっ、はっ、ふぁっ！」	　No more...! Nn, ha, faa!」
 
-63326	Katyusha Bosch~	（なんで、こんなっ……！　どんな状況でも、耐えて……	（Why like this...! I was supposed to endure any situation...
-63327	+	　コントロールするつもり、だったのに……！）	　and stay in control...!）
+63326	Katyusha Bosch~		（なんで、こんなっ……！　どんな状況でも、耐えて……	（Why like this...! I was supposed to endure any situation...
+63327	+		　コントロールするつもり、だったのに……！）	　and stay in control...!）
 
-63328	Katyusha Bosch	「ひどい、っ……ひどいよぉ、っ…………！」	「So mean... so mean...!」
+63328	Katyusha Bosch		「ひどい、っ……ひどいよぉ、っ…………！」	「So mean... so mean...!」
 
-63329	Katyusha Bosch	「わたし、あんなに頑張ったのに……耐えたのにっ……！	「I worked so hard... I endured so much...!
-63330	+	　平気になるように、鍛えたのにっ……！」	　I trained my body to stay calm...!」
+63329	Katyusha Bosch		「わたし、あんなに頑張ったのに……耐えたのにっ……！	「I worked so hard... I endured so much...!
+63330	+		　平気になるように、鍛えたのにっ……！」	　I trained my body to stay calm...!」
 
-63331	Katyusha Bosch	「なんで、ぜんぶ台無しにされて……	「Why is everything being ruined...
-63332	+	　また、あの苦しい目に、っ……！　あ、ひぁ、うああぁぁっ！」	　Back to that pain again...! A, hia, uaaaaah!」
+63331	Katyusha Bosch		「なんで、ぜんぶ台無しにされて……	「Why is everything being ruined...
+63332	+		　また、あの苦しい目に、っ……！　あ、ひぁ、うああぁぁっ！」	　Back to that pain again...! A, hia, uaaaaah!」
 
-63333	-	身体を押さえつけられていいように犯され、	Pinned down and fucked however he wanted,
-63334	+	その刺激に翻弄される事しかできない。	she could only be toyed with by the overwhelming pleasure.
+63333	-		身体を押さえつけられていいように犯され、	Pinned down and fucked however he wanted,
+63334	+		その刺激に翻弄される事しかできない。	she could only be toyed with by the overwhelming pleasure.
 
-63335	-	じゅぶじゅぶと突き回される結合部からは蜜が溢れ、	Juices overflowed from their violently thrusting union,
-63336	+	目いっぱいに拡がった膣口の隙間から掻き出されていく。	splashing out from her widely stretched entrance.
+63335	-		じゅぶじゅぶと突き回される結合部からは蜜が溢れ、	Juices overflowed from their violently thrusting union,
+63336	+		目いっぱいに拡がった膣口の隙間から掻き出されていく。	splashing out from her widely stretched entrance.
 
-63337	Rance	「くくくく！　いいぞカチューシャ！	「Kukuku! Good job Katyusha!
-63338	+	　どうだ、もう勘弁して欲しいか！　それとも一晩中欲しいか！」	　Want me to stop? Or do you want it all night?」
+63337	Rance		「くくくく！　いいぞカチューシャ！	「Kukuku! Good job Katyusha!
+63338	+		　どうだ、もう勘弁して欲しいか！　それとも一晩中欲しいか！」	　Want me to stop? Or do you want it all night?」
 
-63339	Katyusha Bosch	「あう、ひっく、っ……！　やだ、もう、もう、ッ……！」	「Au, hic...! No, no more...!」
+63339	Katyusha Bosch		「あう、ひっく、っ……！　やだ、もう、もう、ッ……！」	「Au, hic...! No, no more...!」
 
-63340	-	身体を嬲られるだけ嬲られて、	Her body was toyed with endlessly,
-63341	+	隅々まで蹂躙されて、カチューシャの声に涙が混じる。	ravaged to every corner, tears mixing into her voice.
+63340	-		身体を嬲られるだけ嬲られて、	Her body was toyed with endlessly,
+63341	+		隅々まで蹂躙されて、カチューシャの声に涙が混じる。	ravaged to every corner, tears mixing into her voice.
 
-63342	Rance	「ぐわーーーーはははははは！	「Gwaaaaahahahaha!
-63343	+	　よーーーし、ならたっぷりくれてやるぞ！」	　Alright, then I'll give you plenty!」
+63342	Rance		「ぐわーーーーはははははは！	「Gwaaaaahahahaha!
+63343	+		　よーーーし、ならたっぷりくれてやるぞ！」	　Alright, then I'll give you plenty!」
 
-63344	Katyusha Bosch	「あぅっ、く、うああぁぁっ、は、あっ、ひぐっ！」	「Auu, ku, uaaaaah, ha, ah, higu!」
+63344	Katyusha Bosch		「あぅっ、く、うああぁぁっ、は、あっ、ひぐっ！」	「Auu, ku, uaaaaah, ha, ah, higu!」
 
-63345	-	カチューシャの状態はお構いなしに、	Ignoring Katyusha's state,
-63346	+	ランスは射精の為の動きに入る。	Rance began moving for his climax.
+63345	-		カチューシャの状態はお構いなしに、	Ignoring Katyusha's state,
+63346	+		ランスは射精の為の動きに入る。	Rance began moving for his climax.
 
-63347	Katyusha Bosch	「あ、あ、だ、される、っ……！	「A, a, it's coming...!
-63348	+	　わたし、わたし、も、もう、っ……！」	　I, I'm, already...!」
+63347	Katyusha Bosch		「あ、あ、だ、される、っ……！	「A, a, it's coming...!
+63348	+		　わたし、わたし、も、もう、っ……！」	　I, I'm, already...!」
 
-63349	-	翻弄されるがままのカチューシャの身体の芯に、	Deep into her overwhelmed core,
-63350	+	熱いものが通り抜ける。	a hot torrent surged through.
+63349	-		翻弄されるがままのカチューシャの身体の芯に、	Deep into her overwhelmed core,
+63350	+		熱いものが通り抜ける。	a hot torrent surged through.
 
-63351	Rance	「がはははははは！　くーーーーーらえーーーーい！」	「Gahahahahaha! Take thiiiiis!」
+63351	Rance		「がはははははは！　くーーーーーらえーーーーい！」	「Gahahahahaha! Take thiiiiis!」
 
-63352	Katyusha Bosch	「は、あ、やだ、くる、っ……！	「Ha, a, no, it's coming...!
-63353	+	　んんっ、あっ、はっ、あっあっあっあぁぁああーーッ……！」	　Nnn, ah, ha, a a a aaaaaah...!」
+63352	Katyusha Bosch		「は、あ、やだ、くる、っ……！	「Ha, a, no, it's coming...!
+63353	+		　んんっ、あっ、はっ、あっあっあっあぁぁああーーッ……！」	　Nnn, ah, ha, a a a aaaaaah...!」
 
-63354	-	　　＜ぶびゅりゅりゅりゅっ！　どぐんっ、びゅぐぐぐっ！＞	　　＜Bubyuryuryu! Dogun, byugugugu!＞
+63354	-		　　＜ぶびゅりゅりゅりゅっ！　どぐんっ、びゅぐぐぐっ！＞	　　＜Bubyuryuryu! Dogun, byugugugu!＞
 
-63355	Katyusha Bosch	「ああああああぁぁっ！　んくっ、はっ、ああぁっ！」	「Aaaaaaaaah! Nku, ha, aaaaah!」
+63355	Katyusha Bosch		「ああああああぁぁっ！　んくっ、はっ、ああぁっ！」	「Aaaaaaaaah! Nku, ha, aaaaah!」
 
-63356	-	叩き込まれるように皇帝液がカチューシャの子宮に撃ち込まれ、	Emperor's fluid was pounded into her womb like hammer strikes,
-63357	+	勢い余った残りがカチューシャの身体に注がれる。	with the excess spilling all over her body.
+63356	-		叩き込まれるように皇帝液がカチューシャの子宮に撃ち込まれ、	Emperor's fluid was pounded into her womb like hammer strikes,
+63357	+		勢い余った残りがカチューシャの身体に注がれる。	with the excess spilling all over her body.
 
-63358	Katyusha Bosch	「あ…………ぁ、ああぁっ……ふ…………ぁ」	「A...... a, aaaaah... fu...... a」
+63358	Katyusha Bosch		「あ…………ぁ、ああぁっ……ふ…………ぁ」	「A...... a, aaaaah... fu...... a」
 
-63359	-	精液と愛液で濡れそぼつハイパー兵器が、	The Hyper Weapon, soaked in cum and love juices,
-63360	+	カチューシャの目の前で脈動する。	throbbed right in front of her face.
+63359	-		精液と愛液で濡れそぼつハイパー兵器が、	The Hyper Weapon, soaked in cum and love juices,
+63360	+		カチューシャの目の前で脈動する。	throbbed right in front of her face.
 
-63361	-	びくり、びくりと弾けるたび、	With every twitch,
-63362	+	白い欲望の液体がカチューシャを汚していく。	thick white seed splattered and defiled her.
+63361	-		びくり、びくりと弾けるたび、	With every twitch,
+63362	+		白い欲望の液体がカチューシャを汚していく。	thick white seed splattered and defiled her.
 
-63363	Katyusha Bosch	「わた、し……よご、された……壊された……	「I... was dirtied... broken...
-63364	+	　もう、壊れてたのに……また…………」	　I was already broken... and now again......」
+63363	Katyusha Bosch		「わた、し……よご、された……壊された……	「I... was dirtied... broken...
+63364	+		　もう、壊れてたのに……また…………」	　I was already broken... and now again......」
 
-63365	Rance	「んーーー、正直固いが、中々良かったぞ。	「Nnnn, honestly a bit tight, but pretty good.
-63366	+	　さあて…………もう一発いくか？」	　Now then... shall we go for another round?」
+63365	Rance		「んーーー、正直固いが、中々良かったぞ。	「Nnnn, honestly a bit tight, but pretty good.
+63366	+		　さあて…………もう一発いくか？」	　Now then... shall we go for another round?」
 
-63367	Katyusha Bosch	「っ……え、あ、そ、そん、な…………」	「...E, ah, s, such......」
+63367	Katyusha Bosch		「っ……え、あ、そ、そん、な…………」	「...E, ah, s, such......」
 
-63368	-	絶望の表情さえ、上手く出せない。	She couldn't even make a proper expression of despair.
+63368	-		絶望の表情さえ、上手く出せない。	She couldn't even make a proper expression of despair.
 
-63369	-	カチューシャは再び蹂躙してくる男の体温を、	Katyusha could only feel the heat of the man about to ravage her again,
-63370	+	虚ろな表情で感じていた。	with a vacant look on her face.
+63369	-		カチューシャは再び蹂躙してくる男の体温を、	Katyusha could only feel the heat of the man about to ravage her again,
+63370	+		虚ろな表情で感じていた。	with a vacant look on her face.
 
-63371	-	…………	............
+63371	-		…………	............
 
-63372	-	……	......
+63372	-		……	......
 
-63373	Rance	「おーい、そろそろ起きろ」	「Hey, time to wake up.」
+63373	Rance	基本	「おーい、そろそろ起きろ」	「Hey, time to wake up.」
 
-63374	Katyusha Bosch	「………………ぅ、ぁ……っ……」	「............U, a......」
+63374	Katyusha Bosch	全裸	「………………ぅ、ぁ……っ……」	「............U, a......」
 
-63375	-	ランスが軽く身体を揺すると、	When Rance gently shook her body,
-63376	+	カチューシャはうっすらと意識を取り戻した。	Katyusha faintly regained consciousness.
+63375	-		ランスが軽く身体を揺すると、	When Rance gently shook her body,
+63376	+		カチューシャはうっすらと意識を取り戻した。	Katyusha faintly regained consciousness.
 
-63377	Katyusha Bosch	「……っ、は、ッ……！」	「...H, ha...!」
+63377	Katyusha Bosch	全裸／ぐぬぬ	「……っ、は、ッ……！」	「...H, ha...!」
 
-63378	-	身体を跳ね起こす。	She jolted upright.
-63379	+	そしてランスが既に服を着直しているのを見て、	Seeing Rance already dressed,
-63380	+	カチューシャは自分の身に起こった事を思いだした。	she remembered what had been done to her.
+63378	-		身体を跳ね起こす。	She jolted upright.
+63379	+		そしてランスが既に服を着直しているのを見て、	Seeing Rance already dressed,
+63380	+		カチューシャは自分の身に起こった事を思いだした。	she remembered what had been done to her.
 
-63381	Katyusha Bosch	「あ、あ、あ、ッ…………！」	「A, a, a...!」
+63381	Katyusha Bosch	全裸／悔しい	「あ、あ、あ、ッ…………！」	「A, a, a...!」
 
-63382	Rance	「勝負は俺の勝ちだな。	「I win the match.
-63383	+	　いやー、気持ちよかったぞ。がははははははは！」	　Man, that felt great. Gahahahahaha!」
+63382	Rance	笑顔	「勝負は俺の勝ちだな。	「I win the match.
+63383	+		　いやー、気持ちよかったぞ。がははははははは！」	　Man, that felt great. Gahahahahaha!」
 
-63384	Katyusha Bosch	「あんな、あんな真似をッ……！	「Doing something like that...!
-63385	+	　この、外道っ…………！」	　You fiend...!」
+63384	Katyusha Bosch	全裸	「あんな、あんな真似をッ……！	「Doing something like that...!
+63385	+		　この、外道っ…………！」	　You fiend...!」
 
-63386	-	カチューシャは服をかき集めながら、	While gathering her clothes,
-63387	+	ぽろぽろと涙を流した。	tears rolled down her cheeks.
+63386	-		カチューシャは服をかき集めながら、	While gathering her clothes,
+63387	+		ぽろぽろと涙を流した。	tears rolled down her cheeks.
 
-63388	Rance	「げっ……おいおい、いきなり泣くんじゃない。	「Geh... Hey, don't start crying suddenly.
-63389	+	　性格まで変わったのか」	　Did your personality change too?」
+63388	Rance	だる顔	「げっ……おいおい、いきなり泣くんじゃない。	「Geh... Hey, don't start crying suddenly.
+63389	+		　性格まで変わったのか」	　Did your personality change too?」
 
-63390	Katyusha Bosch	「ちが、ちがう、わよぉっ……！	「I, it's not...!
-63391	+	　これは、身体に、引っ張られて、っ……！」	　It's this body pulling me...!」
+63390	Katyusha Bosch	悔しい	「ちが、ちがう、わよぉっ……！	「I, it's not...!
+63391	+		　これは、身体に、引っ張られて、っ……！」	　It's this body pulling me...!」
 
-63392	-	未熟な身体が、カチューシャの制御を聞かずに	Her immature body ignored her control
-63393	+	素直すぎる反応を返す。	and gave overly honest reactions.
+63392	-		未熟な身体が、カチューシャの制御を聞かずに	Her immature body ignored her control
+63393	+		素直すぎる反応を返す。	and gave overly honest reactions.
 
-63394	Rance	「くくく、そうなっちまうと可愛いもんだな。	「Kukuku, when you're like that you're pretty cute.
-63395	+	　大人しくしてれば、優しくしてやるぞ？」	　Behave and I'll be gentle with you.」
+63394	Rance	エロ顔	「くくく、そうなっちまうと可愛いもんだな。	「Kukuku, when you're like that you're pretty cute.
+63395	+		　大人しくしてれば、優しくしてやるぞ？」	　Behave and I'll be gentle with you.」
 
-63396	Katyusha Bosch	「誰が、ッ……こ、こんな、屈辱ッ……！	「Who would... this, this humiliation...!
-63397	+	　わた、私の……歩んできた道が……	　My... path I've walked...
-63398	+	　台無しに、っ……！」	　Ruined...!」
+63396	Katyusha Bosch	悔しい	「誰が、ッ……こ、こんな、屈辱ッ……！	「Who would... this, this humiliation...!
+63397	+		　わた、私の……歩んできた道が……	　My... path I've walked...
+63398	+		　台無しに、っ……！」	　Ruined...!」
 
-63399	Rance	「ま、これで一年間は俺のものだな」	「Well, you're mine for a whole year now.」
+63399	Rance	基本	「ま、これで一年間は俺のものだな」	「Well, you're mine for a whole year now.」
 
-63400	Katyusha Bosch	「ッ……それは……どう、する気」	「...What... are you going to do?」
+63400	Katyusha Bosch	素	「ッ……それは……どう、する気」	「...What... are you going to do?」
 
-63401	Rance	「命令はひとつ。DXの会を俺に従わせろ」	「One order. Make the DX Society obey me.」
+63401	Rance	基本	「命令はひとつ。DXの会を俺に従わせろ」	「One order. Make the DX Society obey me.」
 
-63402	Katyusha Bosch	「………………」	「............」
+63402	Katyusha Bosch	素	「………………」	「............」
 
-63403	-	DXの会の名を聞いて、	Hearing the name of the DX Society,
-63404	+	カチューシャは少し、冷静になった。	Katyusha calmed down a little.
+63403	-		DXの会の名を聞いて、	Hearing the name of the DX Society,
+63404	+		カチューシャは少し、冷静になった。	Katyusha calmed down a little.
 
-63405	Katyusha Bosch	「……それでいいの？	「...Is that all?
-63406	+	　何か、色欲を満たすたぐいではなくて？」	　Nothing to satisfy your lust?」
+63405	Katyusha Bosch		「……それでいいの？	「...Is that all?
+63406	+		　何か、色欲を満たすたぐいではなくて？」	　Nothing to satisfy your lust?」
 
-63407	Rance	「勝負とは関係なく、	「Separate from the match,
-63408	+	　気が向いたらまた抱きに来る。	　I'll fuck you again whenever I feel like it.
-63409	+	　今回はこれでいい」	　This is enough for now.」
+63407	Rance	基本	「勝負とは関係なく、	「Separate from the match,
+63408	+		　気が向いたらまた抱きに来る。	　I'll fuck you again whenever I feel like it.
+63409	+		　今回はこれでいい」	　This is enough for now.」
 
-63410	Katyusha Bosch	「そ。…………一年、ね……」	「I see. ...One year, huh...」
+63410	Katyusha Bosch	素	「そ。…………一年、ね……」	「I see. ...One year, huh...」
 
-63411	Rance	「うむ。……くく、次までにどうなるかな？」	「Yeah. ...Heh heh, I wonder what you'll be like by next time?」
+63411	Rance	エロ顔	「うむ。……くく、次までにどうなるかな？」	「Yeah. ...Heh heh, I wonder what you'll be like by next time?」
 
-63412	Katyusha Bosch	「………………！」	「............!」
+63412	Katyusha Bosch	ぐぬぬ	「………………！」	「............!」
 
-63413	-	ランスの舐め回すような視線に、	Under Rance's licking gaze,
-63414	+	反射的にカチューシャは身を捩らせた。	Katyusha twisted her body reflexively.
+63413	-		ランスの舐め回すような視線に、	Under Rance's licking gaze,
+63414	+		反射的にカチューシャは身を捩らせた。	Katyusha twisted her body reflexively.
 
-63415	Serachrolas	「ねぇねぇ、ランス」	「Hey hey, Rance.」
+63415	Serachrolas	基本	「ねぇねぇ、ランス」	「Hey hey, Rance.」
 
-63416	Rance	「む、セラクロラスいつの間に。	「Mu, Serachrolas, when did you get here.
-63417	+	　どうかしたか？」	　Something wrong?」
+63416	Rance		「む、セラクロラスいつの間に。	「Mu, Serachrolas, when did you get here.
+63417	+		　どうかしたか？」	　Something wrong?」
 
-63418	Serachrolas	「この人、どうするの？　戻す？」	「What about this person? Return her?」
+63418	Serachrolas		「この人、どうするの？　戻す？」	「What about this person? Return her?」
 
-63419	Rance	「む……戻さないとこのままか？」	「Mu... If I don't return her, she'll stay like this?」
+63419	Rance	真剣	「む……戻さないとこのままか？」	「Mu... If I don't return her, she'll stay like this?」
 
-63420	Serachrolas	「んーん……いつか戻るよ。	「Nnn... She'll return someday.
-63421	+	　いつかは、わかんない」	　But I don't know when.」
+63420	Serachrolas	基本	「んーん……いつか戻るよ。	「Nnn... She'll return someday.
+63421	+		　いつかは、わかんない」	　But I don't know when.」
 
-63422	Rance~	（どうするかな。どちらでも構わんが…………）	（What to do. Either is fine but......）
+63422	Rance~		（どうするかな。どちらでも構わんが…………）	（What to do. Either is fine but......）

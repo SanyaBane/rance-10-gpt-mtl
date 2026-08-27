@@ -7,154 +7,154 @@
 * Sill Plain	シィル	Female
 * Am Yisael	アム	Female
 
-188094	Rance	「ん？　行き止まりか？」	「Hm? Dead end?」
+188094	Rance	基本	「ん？　行き止まりか？」	「Hm? Dead end?」
 
-188095	Crook Mofus	「はい、一応到着です」	「Yes, we've arrived.」
+188095	Crook Mofus		「はい、一応到着です」	「Yes, we've arrived.」
 
-188096	Crook Mofus	「すみません、ここから先は	「I'm sorry, from here on only I can proceed,
-188097	+	　私だけしか行けないので、	　so everyone please wait here.」
-188098	+	　皆さんはここでお待ち下さい」	
+188096	Crook Mofus		「すみません、ここから先は	「I'm sorry, from here on only I can proceed,
+188097	+		　私だけしか行けないので、	　so everyone please wait here.」
+188098	+		　皆さんはここでお待ち下さい」	
 
-188099	Rance	「む、そうか……」	「Mu, I see...」
+188099	Rance		「む、そうか……」	「Mu, I see...」
 
-188100	-	クルックーが部屋の奥へ進むと、	As Crook advanced deeper into the room,
-188101	+	一瞬だけ室内が光に包まれた。	the room was briefly enveloped in light.
+188100	-		クルックーが部屋の奥へ進むと、	As Crook advanced deeper into the room,
+188101	+		一瞬だけ室内が光に包まれた。	the room was briefly enveloped in light.
 
-188102	-	そして、クルックーの姿が消えた。	Then Crook's figure vanished.
+188102	-		そして、クルックーの姿が消えた。	Then Crook's figure vanished.
 
-188103	Rance	「むお、消えた。	「Muo, she's gone.
-188104	+	　そういえば随分以前にも	　Come to think of it, I saw something similar
-188105	+	　似たような光景を見たな……」	　a long time ago...」
+188103	Rance		「むお、消えた。	「Muo, she's gone.
+188104	+		　そういえば随分以前にも	　Come to think of it, I saw something similar
+188105	+		　似たような光景を見たな……」	　a long time ago...」
 
-188106	Sachiko Centers	「それでは待っている間、	「While we wait,
-188107	+	　サンドイッチでも食べてましょうか」	　shall we eat some sandwiches?」
+188106	Sachiko Centers	笑顔	「それでは待っている間、	「While we wait,
+188107	+		　サンドイッチでも食べてましょうか」	　shall we eat some sandwiches?」
 
-188108	Rance	「ふむ、美味い美味い」	「Hm, tasty tasty.」
+188108	Rance	基本	「ふむ、美味い美味い」	「Hm, tasty tasty.」
 
-188109	Sachiko Centers	「あ、あ、クルックーさんのは	「Ah, ah, please leave Crook-san's share!」
-188110	+	　残しておいて下さいよー！」	
+188109	Sachiko Centers		「あ、あ、クルックーさんのは	「Ah, ah, please leave Crook-san's share!」
+188110	+		　残しておいて下さいよー！」	
 
-188111	Aurora	「あのぉ……ランスさん……	「Um... Rance-san...
-188112	+	　げへへへ、私、ここまで一生懸命働いたんだし、	　Hehe, I've worked so hard until now,
-188113	+	　そろそろジーク様を返してもらっても……」	　so can I have Sieg-sama back soon...?」
+188111	Aurora		「あのぉ……ランスさん……	「Um... Rance-san...
+188112	+		　げへへへ、私、ここまで一生懸命働いたんだし、	　Hehe, I've worked so hard until now,
+188113	+		　そろそろジーク様を返してもらっても……」	　so can I have Sieg-sama back soon...?」
 
-188114	Rance	「お前、まだ何もしとらんも同然だろうが。	「You've barely done anything yet.
-188115	+	　駄目ー」	　No.」
+188114	Rance		「お前、まだ何もしとらんも同然だろうが。	「You've barely done anything yet.
+188115	+		　駄目ー」	　No.」
 
-188116	Aurora	「うきーっ！」	「Uki!」
+188116	Aurora	あほー	「うきーっ！」	「Uki!」
 
-188117	Rance	「ところで、クルックーは	「By the way, what is Crook
-188118	+	　奥でいったい何をしてるんだ？」	　doing in the back?」
+188117	Rance	基本	「ところで、クルックーは	「By the way, what is Crook
+188118	+		　奥でいったい何をしてるんだ？」	　doing in the back?」
 
-188119	Sel Catchgolf	「AL教が崇める神、女神ALICEとの謁見ですよ」	「It's an audience with the goddess ALICE whom the AL Church worships.」
+188119	Sel Catchgolf		「AL教が崇める神、女神ALICEとの謁見ですよ」	「It's an audience with the goddess ALICE whom the AL Church worships.」
 
-188120	Sel Catchgolf	「法王ムーララルーはそうして、	「The Pope Mulalaloux does this to
-188121	+	　直接女神ALICEからのお言葉を聞き、	　directly receive words from goddess ALICE
-188122	+	　世界中の信徒に伝える」	　and pass them to believers around the world.」
+188120	Sel Catchgolf		「法王ムーララルーはそうして、	「The Pope Mulalaloux does this to
+188121	+		　直接女神ALICEからのお言葉を聞き、	　directly receive words from goddess ALICE
+188122	+		　世界中の信徒に伝える」	　and pass them to believers around the world.」
 
-188123	Sel Catchgolf	「それが法王としての職務。	「That is the duty of the Pope.
-188124	+	　とても尊いお仕事なんですよ」	　A very noble task.」
+188123	Sel Catchgolf		「それが法王としての職務。	「That is the duty of the Pope.
+188124	+		　とても尊いお仕事なんですよ」	　A very noble task.」
 
-188125	Rance	「ふーん」	「Hmm.」
+188125	Rance		「ふーん」	「Hmm.」
 
-188126	-	…………	............
+188126	-		…………	............
 
-188127	-	……	...
+188127	-		……	...
 
-188128	-	女神ALICEのいる部屋は、	The room where goddess ALICE resides
-188129	+	淫らな水音と鼻につく性臭が満ちていた。	was filled with obscene wet sounds and a thick scent of sex.
+188128	-		女神ALICEのいる部屋は、	The room where goddess ALICE resides
+188129	+		淫らな水音と鼻につく性臭が満ちていた。	was filled with obscene wet sounds and a thick scent of sex.
 
-188130	-	クルックーがモンスター達に犯されていた。	Crook was being violated by monsters.
+188130	-		クルックーがモンスター達に犯されていた。	Crook was being violated by monsters.
 
-188131	-	それはいつも通りの、	It was the usual punishment
-188132	+	女神ALICEから与えられる罰である。	given by goddess ALICE.
+188131	-		それはいつも通りの、	It was the usual punishment
+188132	+		女神ALICEから与えられる罰である。	given by goddess ALICE.
 
-188133	Crook Mofus	「あっ、がっ……ぐうううっ……！」	「Ah, gah... guuuuh...!」
+188133	Crook Mofus		「あっ、がっ……ぐうううっ……！」	「Ah, gah... guuuuh...!」
 
-188134	-	モンスターとの強制的な交尾。	Forced mating with monsters.
-188135	+	力が有り余っている魔物は何度か	The powerful monsters sometimes
-188136	+	勢い余ってクルックーを殺してしまう。	got too rough and killed Crook.
+188134	-		モンスターとの強制的な交尾。	Forced mating with monsters.
+188135	+		力が有り余っている魔物は何度か	The powerful monsters sometimes
+188136	+		勢い余ってクルックーを殺してしまう。	got too rough and killed Crook.
 
-188137	-	それでも女神ALICEの力により生き返る。	Yet she was revived again by goddess ALICE's power.
-188138	+	何度も何度も、繰り返し繰り返し。	Over and over, endlessly.
+188137	-		それでも女神ALICEの力により生き返る。	Yet she was revived again by goddess ALICE's power.
+188138	+		何度も何度も、繰り返し繰り返し。	Over and over, endlessly.
 
-188139	-	…………	............
+188139	-		…………	............
 
-188140	-	……	...
+188140	-		……	...
 
-188141	-	ランス達のいる室内が光る。	The room where Rance and the others were glowed.
+188141	-		ランス達のいる室内が光る。	The room where Rance and the others were glowed.
 
-188142	Rance	「まぶしっ！　なんだァ！？」	「Bright! What the!?」
+188142	Rance		「まぶしっ！　なんだァ！？」	「Bright! What the!?」
 
-188143	Sachiko Centers	「あ、クルックーさんが戻って来たんですよ」	「Ah, Crook-san has returned.」
+188143	Sachiko Centers		「あ、クルックーさんが戻って来たんですよ」	「Ah, Crook-san has returned.」
 
-188144	-	光が収まる頃、クルックーが立っていた。	When the light faded, Crook was standing there.
+188144	-		光が収まる頃、クルックーが立っていた。	When the light faded, Crook was standing there.
 
-188145	Crook Mofus	「…………」	「............」
+188145	Crook Mofus		「…………」	「............」
 
-188146	-	そして、すぐに倒れた。	And then she immediately collapsed.
+188146	-		そして、すぐに倒れた。	And then she immediately collapsed.
 
-188147	Sill Plain	「わっ、大丈夫ですか！？」	「Wah, are you okay!?」
+188147	Sill Plain	慌て	「わっ、大丈夫ですか！？」	「Wah, are you okay!?」
 
-188148	Rance	「なんでここまでヘロヘロなんだ……」	「Why is she so worn out...」
+188148	Rance	基本	「なんでここまでヘロヘロなんだ……」	「Why is she so worn out...」
 
-188149	Crook Mofus~	（何故……何故……）	（Why... why...）
+188149	Crook Mofus~		（何故……何故……）	（Why... why...）
 
-188150	Crook Mofus~	（確か……返事が一秒遅れた、だったか……	（I think... I was one second late in answering...
-188151	+	　目を逸らしたから……だったか……）	　Or was it because I looked away...?）
+188150	Crook Mofus~		（確か……返事が一秒遅れた、だったか……	（I think... I was one second late in answering...
+188151	+		　目を逸らしたから……だったか……）	　Or was it because I looked away...?）
 
-188152	-	クルックーは朦朧としている頭で考えるが	Crook's hazy mind tried to think,
-188153	+	責め苦を受けるのはいつものことすぎて、	but being tormented was so routine
-188154	+	今回の理由が思い出せない。	she couldn't recall the reason this time.
+188152	-		クルックーは朦朧としている頭で考えるが	Crook's hazy mind tried to think,
+188153	+		責め苦を受けるのはいつものことすぎて、	but being tormented was so routine
+188154	+		今回の理由が思い出せない。	she couldn't recall the reason this time.
 
-188155	Crook Mofus	「さあ……覚えて、ません……」	「I... don't remember...」
+188155	Crook Mofus		「さあ……覚えて、ません……」	「I... don't remember...」
 
-188156	Rance	「大丈夫か？」	「You okay?」
+188156	Rance	真剣	「大丈夫か？」	「You okay?」
 
-188157	Crook Mofus	「大丈、夫、です……	「I'm... fine...
-188158	+	　ランスは……負け、ない、と思います……」	　Rance... won't... lose... I think...」
+188157	Crook Mofus	基本	「大丈、夫、です……	「I'm... fine...
+188158	+		　ランスは……負け、ない、と思います……」	　Rance... won't... lose... I think...」
 
-188159	Rance	「はあ？　なんの話を……	「Haa? What are you talking about...
-188160	?	　お？」	　Oh?」
+188159	Rance	だる顔	「はあ？　なんの話を……	「Haa? What are you talking about...
+188160	?		　お？」	　Oh?」
 
-188161	-	クルックーが	Crook
-188162	+	ランスのマントをきゅっと握っていた。	was tightly gripping Rance's mantle.
+188161	-		クルックーが	Crook
+188162	+		ランスのマントをきゅっと握っていた。	was tightly gripping Rance's mantle.
 
-188163	Crook Mofus	「あの……出来れば、この、まま……」	「Um... if possible... stay like this...」
+188163	Crook Mofus	基本	「あの……出来れば、この、まま……」	「Um... if possible... stay like this...」
 
-188164	Rance	「……へ？」	「...Eh?」
+188164	Rance	真剣	「……へ？」	「...Eh?」
 
-188165	-	最初は面食らっていたランスの顔が、	Rance's initially surprised face
-188166	+	徐々にニヤケ顔に変わる。	slowly turned into a lewd grin.
+188165	-		最初は面食らっていたランスの顔が、	Rance's initially surprised face
+188166	+		徐々にニヤケ顔に変わる。	slowly turned into a lewd grin.
 
-188167	Rance	「ははーん、俺様に抱いて欲しいのか」	「Heh, so you want me to fuck you.」
+188167	Rance	エロ顔	「ははーん、俺様に抱いて欲しいのか」	「Heh, so you want me to fuck you.」
 
-188168	Crook Mofus	「は……いえ、そういう、わけで、は……」	「Y... no, that's not... exactly...」
+188168	Crook Mofus	基本	「は……いえ、そういう、わけで、は……」	「Y... no, that's not... exactly...」
 
-188169	Crook Mofus	「あ、う……いえ、そう、かも……」	「Ah, um... maybe... it is...」
+188169	Crook Mofus		「あ、う……いえ、そう、かも……」	「Ah, um... maybe... it is...」
 
-188170	Rance	「いや、オーケだ。	「Nah, it's fine.
-188171	+	　どういう心境の変化かは知らんが、	　I don't know what changed your mind,
-188172	+	　お前からの初めてのお誘いだからな！」	　but this is your first time inviting me!」
+188170	Rance	エロ顔	「いや、オーケだ。	「Nah, it's fine.
+188171	+		　どういう心境の変化かは知らんが、	　I don't know what changed your mind,
+188172	+		　お前からの初めてのお誘いだからな！」	　but this is your first time inviting me!」
 
-188173	Rance	「がははは、では隣の部屋でしっぽりと行くかー！」	「Gahahaha, then let's go fuck nice and slow in the next room!」
+188173	Rance	笑顔	「がははは、では隣の部屋でしっぽりと行くかー！」	「Gahahaha, then let's go fuck nice and slow in the next room!」
 
-188174	Crook Mofus	「ああっ……」	「Aah...」
+188174	Crook Mofus	基本	「ああっ……」	「Aah...」
 
-188175	-	ランスはクルックーの体を抱えて駆け出す。	Rance scooped up Crook's light body and dashed off.
+188175	-		ランスはクルックーの体を抱えて駆け出す。	Rance scooped up Crook's light body and dashed off.
 
-188176	Sel Catchgolf	「ああっ、そ、そんな法王ムーララルーに	「Aah, y-you can't do such improper things
-188177	+	　無体な真似は！」	　to the Pope Mulalaloux!」
+188176	Sel Catchgolf	驚き	「ああっ、そ、そんな法王ムーララルーに	「Aah, y-you can't do such improper things
+188177	+		　無体な真似は！」	　to the Pope Mulalaloux!」
 
-188178	-	セルの言葉を無視して、	Ignoring Sel's words,
-188179	+	ランスは隣の部屋に飛び込んだ。	Rance burst into the next room.
+188178	-		セルの言葉を無視して、	Ignoring Sel's words,
+188179	+		ランスは隣の部屋に飛び込んだ。	Rance burst into the next room.
 
-188180	Am Yisael	「ふふ……	「Fufu...
-188181	+	　いいんじゃないかしら……」	　Isn't it fine...?」
+188180	Am Yisael	基本	「ふふ……	「Fufu...
+188181	+		　いいんじゃないかしら……」	　Isn't it fine...?」
 
-188182	Am Yisael	「…………」	「............」
+188182	Am Yisael		「…………」	「............」
 
-188183	-	アムは無言で隣の部屋に続く扉を眺める。	Am silently gazed at the door leading to the next room.
+188183	-		アムは無言で隣の部屋に続く扉を眺める。	Am silently gazed at the door leading to the next room.
 
-188184	Am Yisael	「私にも、ああいう子がいたら、	「If I had a child like that,
-188185	+	　今とは違ったでしょうね……」	　things might have been different...」
+188184	Am Yisael		「私にも、ああいう子がいたら、	「If I had a child like that,
+188185	+		　今とは違ったでしょうね……」	　things might have been different...」

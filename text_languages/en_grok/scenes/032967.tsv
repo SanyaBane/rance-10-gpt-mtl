@@ -4,56 +4,56 @@
 * El Mofus	エール２	Player's choice
 * Nagi su Ragarl	ナギ２	Female
 
-191215	Nagata-kun	「お、見ろよ、＜エール＞！	「Hey, look ＜エール＞!
-191216	+	　なんか見世物があるみたいだぜ！	　There's some kind of show over there!
-191217	+	　行ってみようぜ！」	　Let's go check it out!」
+191215	Nagata-kun	基本	「お、見ろよ、＜エール＞！	「Hey, look ＜エール＞!
+191216	+		　なんか見世物があるみたいだぜ！	　There's some kind of show over there!
+191217	+		　行ってみようぜ！」	　Let's go check it out!」
 
-191218	-	往来には人だかりが出来、	A crowd had gathered on the street,
-191219	+	何かを――おそらく長田君の言う通り、	surrounding something 一 probably a street performance,
-191220	+	見世物を囲んでいるようだった。	just like Nagata said.
+191218	-		往来には人だかりが出来、	A crowd had gathered on the street,
+191219	+		何かを――おそらく長田君の言う通り、	surrounding something 一 probably a street performance,
+191220	+		見世物を囲んでいるようだった。	just like Nagata said.
 
-191221	Nagata-kun	「ほらほら、リセットさんも、	「Come on Reset-san,
-191222	+	　早く行きましょうよ！」	　let's go quickly!」
+191221	Nagata-kun		「ほらほら、リセットさんも、	「Come on Reset-san,
+191222	+		　早く行きましょうよ！」	　let's go quickly!」
 
-191223	Reset Kalar	「あ、二人だけで行ってきていいよ」	「Ah, you two can go ahead without me.」
+191223	Reset Kalar		「あ、二人だけで行ってきていいよ」	「Ah, you two can go ahead without me.」
 
-191224	Nagata-kun	「あれ？　リセットさん、行かないんすか？」	「Huh? Reset-san, you're not coming?」
+191224	Nagata-kun		「あれ？　リセットさん、行かないんすか？」	「Huh? Reset-san, you're not coming?」
 
-191225	Reset Kalar	「お……」	「Umm...」
+191225	Reset Kalar	困り	「お……」	「Umm...」
 
-191226	Reset Kalar	「お姉ちゃん、この身長だから見えないし……」	「With my height I won't be able to see anything...」
+191226	Reset Kalar	憂い	「お姉ちゃん、この身長だから見えないし……」	「With my height I won't be able to see anything...」
 
-191227	Reset Kalar	「だから、＜エール＞ちゃんだけで	「So ＜エール＞-chan can go
-191228	+	　見に行っていいからね」	　and watch by yourself.」
+191227	Reset Kalar	基本	「だから、＜エール＞ちゃんだけで	「So ＜エール＞-chan can go
+191228	+		　見に行っていいからね」	　and watch by yourself.」
 
-191229	El Mofus	「…………。」	「............」
+191229	El Mofus		「…………。」	「............」
 
-191230	Reset Kalar	「ひゃあああ！？」	「Hyaaaa!?」
+191230	Reset Kalar	驚き	「ひゃあああ！？」	「Hyaaaa!?」
 
-191231	-	あなたはリセットをひょいと担ぎ上げて、	You casually lifted Reset up
-191232	+	肩車をした。	and gave her a shoulder ride.
+191231	-		あなたはリセットをひょいと担ぎ上げて、	You casually lifted Reset up
+191232	+		肩車をした。	and gave her a shoulder ride.
 
-191233	Reset Kalar	「あ、あの……＜エール＞ちゃん……」	「U-um... ＜エール＞-chan...」
+191233	Reset Kalar	困り	「あ、あの……＜エール＞ちゃん……」	「U-um... ＜エール＞-chan...」
 
-191234	Reset Kalar	「お、お姉ちゃん……もう大人だから……	「B-big sis... I'm already an adult so...
-191235	+	　こういうのは……ちょっと……」	　this kind of thing is a bit...」
+191234	Reset Kalar	憂い	「お、お姉ちゃん……もう大人だから……	「B-big sis... I'm already an adult so...
+191235	+		　こういうのは……ちょっと……」	　this kind of thing is a bit...」
 
-191236	Reset Kalar	「あ、あううう……」	「A-auuu...」
+191236	Reset Kalar		「あ、あううう……」	「A-auuu...」
 
-191237	-	顔こそ見えないが、あなたは姉が	You couldn't see her face, but
-191238	+	自分の頭の上で顔を	you could tell your big sister
-191239	+	真っ赤にしているような気がした。	was blushing furiously above you.
+191237	-		顔こそ見えないが、あなたは姉が	You couldn't see her face, but
+191238	+		自分の頭の上で顔を	you could tell your big sister
+191239	+		真っ赤にしているような気がした。	was blushing furiously above you.
 
-191240	Nagi su Ragarl	「…………」	「............」
+191240	Nagi su Ragarl	基本	「…………」	「............」
 
-191241	Reset Kalar	「あ、ナギちゃん」	「Ah, Nagi-chan.」
+191241	Reset Kalar		「あ、ナギちゃん」	「Ah, Nagi-chan.」
 
-191242	Nagi su Ragarl	「…………」	「............」
+191242	Nagi su Ragarl	からかい	「…………」	「............」
 
-191243	Nagi su Ragarl	「アハハハハハハハハハハハハハハハハ！	「Ahahahahahahahahahahahaha!
-191244	+	　リセット可愛いー！　アハハハハハハ！」	　Reset is so cute! Ahahahahaha!」
+191243	Nagi su Ragarl	笑顔	「アハハハハハハハハハハハハハハハハ！	「Ahahahahahahahahahahahaha!
+191244	+		　リセット可愛いー！　アハハハハハハ！」	　Reset is so cute! Ahahahahaha!」
 
-191245	Nagi su Ragarl	「ひーーっ、げほっ、げほっ！	「Hiii, cough, cough!
-191246	+	　そ、それ、後で私にもやらせて！」	　L-later, let me do that too!」
+191245	Nagi su Ragarl	からかい	「ひーーっ、げほっ、げほっ！	「Hiii, cough, cough!
+191246	+		　そ、それ、後で私にもやらせて！」	　L-later, let me do that too!」
 
-191247	Reset Kalar	「もうっ！　ナギちゃん！」	「Geez! Nagi-chan!」
+191247	Reset Kalar	基本	「もうっ！　ナギちゃん！」	「Geez! Nagi-chan!」

@@ -6,139 +6,139 @@
 * Zeth Mage Soldier	汎用ゼス男魔法兵	Male
 * Kikkawa Kiku	きく	Female
 
-3840	Rance	「なんだと？　きくちゃんが行方不明？」	「What? Kiku-chan is missing?」
+3840	Rance	真剣	「なんだと？　きくちゃんが行方不明？」	「What? Kiku-chan is missing?」
 
-3841	Magic the Gandhi	「そう、なの……連絡が途絶えて……	「Yes...... Contact has been lost......
-3842	+	　配下の忍者たちも、見つけられないって……」	　Even her subordinate ninjas can't find her......」
+3841	Magic the Gandhi	思考	「そう、なの……連絡が途絶えて……	「Yes...... Contact has been lost......
+3842	+		　配下の忍者たちも、見つけられないって……」	　Even her subordinate ninjas can't find her......」
 
-3843	Rance	「……むう。そりゃいかん。	「......Muu. That's no good.
-3844	+	　もったいない。よし捜すぞ」	　What a waste. Alright, I'll go look for her.」
+3843	Rance	真剣	「……むう。そりゃいかん。	「......Muu. That's no good.
+3844	+		　もったいない。よし捜すぞ」	　What a waste. Alright, I'll go look for her.」
 
-3845	Magic the Gandhi	「そ、そう……ね。もしかしたら、	「Y-yes...... Maybe,
-3846	+	　どこかで生きてるかも知れないし……」	　she's still alive somewhere......」
+3845	Magic the Gandhi	目閉じ	「そ、そう……ね。もしかしたら、	「Y-yes...... Maybe,
+3846	+		　どこかで生きてるかも知れないし……」	　she's still alive somewhere......」
 
-3847	Magic the Gandhi	「…………っ、はぁ……」	「......Haa......」
+3847	Magic the Gandhi	思考	「…………っ、はぁ……」	「......Haa......」
 
-3848	Rance	「……お前がそこまでへこんでどうする」	「......Why are you so down?」
+3848	Rance	だる顔	「……お前がそこまでへこんでどうする」	「......Why are you so down?」
 
-3849	Magic the Gandhi	「だ、だって、わざわざ援軍で来てくれたのに、	「B-because she came all the way as reinforcements,
-3850	+	　こんな…………」	　and now this......」
+3849	Magic the Gandhi	思考	「だ、だって、わざわざ援軍で来てくれたのに、	「B-because she came all the way as reinforcements,
+3850	+		　こんな…………」	　and now this......」
 
-3851	Rance	「馬鹿者。きくちゃんがそう簡単にやられるか」	「Idiot. There's no way Kiku-chan would go down that easily.」
+3851	Rance	基本	「馬鹿者。きくちゃんがそう簡単にやられるか」	「Idiot. There's no way Kiku-chan would go down that easily.」
 
-3852	Kobayakawa Chinu	「ふーん……きくおねーたまがねー」	「Hmm...... Kiku onee-tama is goneー」
+3852	Kobayakawa Chinu		「ふーん……きくおねーたまがねー」	「Hmm...... Kiku onee-tama is goneー」
 
-3853	Mouri Teru	「行方不明、か」	「Missing, huh.」
+3853	Mouri Teru	妊婦／睨み	「行方不明、か」	「Missing, huh.」
 
-3854	Magic the Gandhi	「あ……そ、その……申し訳ないわ。	「Ah...... S-sorry.
-3855	+	　ずっと、吉川さんの忍軍には、頼り切りで……」	　We've been relying so much on Kikkawa-san's ninja troops......」
+3854	Magic the Gandhi	思考	「あ……そ、その……申し訳ないわ。	「Ah...... S-sorry.
+3855	+		　ずっと、吉川さんの忍軍には、頼り切りで……」	　We've been relying so much on Kikkawa-san's ninja troops......」
 
-3856	Mouri Teru	「ま、放っておけばよい」	「Just leave her be.」
+3856	Mouri Teru	妊婦／睨み	「ま、放っておけばよい」	「Just leave her be.」
 
-3857	Magic the Gandhi	「え…………」	「Eh......」
+3857	Magic the Gandhi	基本	「え…………」	「Eh......」
 
-3858	Kobayakawa Chinu	「飽きたら帰ってくるよね☆	「She'll come back when she gets bored☆
-3859	+	　何日で戻るか、賭けよっか？」	　Wanna bet how many days?」
+3858	Kobayakawa Chinu		「飽きたら帰ってくるよね☆	「She'll come back when she gets bored☆
+3859	+		　何日で戻るか、賭けよっか？」	　Wanna bet how many days?」
 
-3860	Mouri Teru	「アレも読みづらいからな……	「She's hard to read......
-3861	+	　三日というところか」	　Probably three days.」
+3860	Mouri Teru	妊婦	「アレも読みづらいからな……	「She's hard to read......
+3861	+		　三日というところか」	　Probably three days.」
 
-3862	Kobayakawa Chinu	「えー☆　ちぬは一週間くらい	「Ehh☆ Chinu thinks it'll be about a week
-3863	+	　満喫してくると思うけどー」	　of funー」
+3862	Kobayakawa Chinu	基本	「えー☆　ちぬは一週間くらい	「Ehh☆ Chinu thinks it'll be about a week
+3863	+		　満喫してくると思うけどー」	　of funー」
 
-3864	Mouri Teru	「アレは周囲の者や部下を気にするタチだ。	「She cares about those around her and her subordinates.
-3865	+	　そこまではかからん」	　It won't take that long.」
+3864	Mouri Teru	妊婦	「アレは周囲の者や部下を気にするタチだ。	「She cares about those around her and her subordinates.
+3865	+		　そこまではかからん」	　It won't take that long.」
 
-3866	Magic the Gandhi	「あ、あの…………」	「U-um......」
+3866	Magic the Gandhi	驚き	「あ、あの…………」	「U-um......」
 
-3867	Rance	「お前ら、知ってるのか？	「Do you guys know something?
-3868	+	　きくちゃんがどうなったか……」	　About what happened to Kiku-chan......」
+3867	Rance	真剣	「お前ら、知ってるのか？	「Do you guys know something?
+3868	+		　きくちゃんがどうなったか……」	　About what happened to Kiku-chan......」
 
-3869	Mouri Teru	「知らぬ」	「I don't.」
+3869	Mouri Teru	妊婦／睨み	「知らぬ」	「I don't.」
 
-3870	Kobayakawa Chinu	「ちぬもー。どこで戦ってたかも知らないしー☆」	「Chinu doesn't know eitherー. I don't even know where she was fighting☆」
+3870	Kobayakawa Chinu	基本	「ちぬもー。どこで戦ってたかも知らないしー☆」	「Chinu doesn't know eitherー. I don't even know where she was fighting☆」
 
-3871	Magic the Gandhi	「じゃあ……」	「Then......」
+3871	Magic the Gandhi		「じゃあ……」	「Then......」
 
-3872	Mouri Teru	「だがな。アレが大人しく死ぬだの拉致だの、	「But that one won't die quietly or get kidnapped.
-3873	+	　されるタマではない事は知っている」	　We know that much.」
+3872	Mouri Teru	妊婦	「だがな。アレが大人しく死ぬだの拉致だの、	「But that one won't die quietly or get kidnapped.
+3873	+		　されるタマではない事は知っている」	　We know that much.」
 
-3874	Kobayakawa Chinu	「うんうん。戦場で敵と一緒に爆死とか、	「Yeah yeah. If she died in an explosion with enemies,
-3875	+	　単騎突撃で殺しまくりながら殺されたとか、	　or died after charging alone and killing tons,
-3876	+	　そういうのならともかくねー」	　that'd make sense thoughー」
+3874	Kobayakawa Chinu	基本	「うんうん。戦場で敵と一緒に爆死とか、	「Yeah yeah. If she died in an explosion with enemies,
+3875	+		　単騎突撃で殺しまくりながら殺されたとか、	　or died after charging alone and killing tons,
+3876	+		　そういうのならともかくねー」	　that'd make sense thoughー」
 
-3877	Rance	「こいつら……」	「These people......」
+3877	Rance	だる顔	「こいつら……」	「These people......」
 
-3878	Zeth Mage Soldier	「失礼いたします！	「Excuse me!
-3879	+	　捜索部隊が、きく殿の痕跡らしきものを	　The search party found what seems to be traces of Kiku-dono!」
-3880	+	　発見したとのこと！」	
+3878	Zeth Mage Soldier	基本	「失礼いたします！	「Excuse me!
+3879	+		　捜索部隊が、きく殿の痕跡らしきものを	　The search party found what seems to be traces of Kiku-dono!」
+3880	+		　発見したとのこと！」	
 
-3881	Magic the Gandhi	「あ、ほ、本当！？　それじゃ……」	「Ah, really!? Then......」
+3881	Magic the Gandhi	孤軍奮闘	「あ、ほ、本当！？　それじゃ……」	「Ah, really!? Then......」
 
-3882	Mouri Teru	「意外と早かったな」	「That was quicker than expected.」
+3882	Mouri Teru	妊婦／睨み	「意外と早かったな」	「That was quicker than expected.」
 
-3883	Kobayakawa Chinu	「あーん、これは外れちゃいそう……☆」	「Aahn, looks like I lost the bet......☆」
+3883	Kobayakawa Chinu	基本	「あーん、これは外れちゃいそう……☆」	「Aahn, looks like I lost the bet......☆」
 
-3884	Mouri Teru	「さぁて。前線に戻る」	「Alright. Back to the front lines.」
+3884	Mouri Teru	妊婦	「さぁて。前線に戻る」	「Alright. Back to the front lines.」
 
-3885	Kobayakawa Chinu	「うん。それじゃねー、ランスたまー」	「Yep. See yaー, Rance-tamaー」
+3885	Kobayakawa Chinu	基本	「うん。それじゃねー、ランスたまー」	「Yep. See yaー, Rance-tamaー」
 
-3886	-	毛利の姉妹はそのまま去っていった。	The Mouri sisters left just like that.
+3886	-		毛利の姉妹はそのまま去っていった。	The Mouri sisters left just like that.
 
-3887	Magic the Gandhi	「ほ、本当に帰っちゃった……	「They really left......
-3888	+	　どうなってるの、あの人達……」	　What is with those people......」
+3887	Magic the Gandhi	驚き	「ほ、本当に帰っちゃった……	「They really left......
+3888	+		　どうなってるの、あの人達……」	　What is with those people......」
 
-3889	Rance	「毛利ってやつらは……」	「The Mouri bunch......」
+3889	Rance	だる顔	「毛利ってやつらは……」	「The Mouri bunch......」
 
-3890	Zeth Mage Soldier	「その……それで、いかがしますか。	「Um...... So what should we do?
-3891	+	　捜索を続行しますか？」	　Should we continue the search?」
+3890	Zeth Mage Soldier	基本	「その……それで、いかがしますか。	「Um...... So what should we do?
+3891	+		　捜索を続行しますか？」	　Should we continue the search?」
 
-3892	Magic the Gandhi	「ああ、そうね。	「Yes, that's right.
-3893	+	　ううん、人を増やすのも厳しいけど……」	　Increasing the number of people is difficult but......」
+3892	Magic the Gandhi		「ああ、そうね。	「Yes, that's right.
+3893	+		　ううん、人を増やすのも厳しいけど……」	　Increasing the number of people is difficult but......」
 
-3894	Rance	「だー、仕方ないな。	「Ugh, can't be helped.
-3895	+	　ちょっと行ってくるか……」	　I'll go check it out......」
+3894	Rance	だる顔	「だー、仕方ないな。	「Ugh, can't be helped.
+3895	+		　ちょっと行ってくるか……」	　I'll go check it out......」
 
-3896	Rance	「って……………」	「Wait............」
+3896	Rance	真剣	「って……………」	「Wait............」
 
-3897	Rance	「どこじゃーーーー、ここはーーーー！！」	「Where the hell am Iーーー!!」
+3897	Rance	怒り	「どこじゃーーーー、ここはーーーー！！」	「Where the hell am Iーーー!!」
 
-3898	Kikkawa Kiku	「おっ、なんだランス。	「Oh, it's Rance.
-3899	+	　お前も来たのかよ」	　You came too?」
+3898	Kikkawa Kiku	基本	「おっ、なんだランス。	「Oh, it's Rance.
+3899	+		　お前も来たのかよ」	　You came too?」
 
-3900	Rance	「君を捜しに来たんだ！	「I came looking for you!
-3901	+	　ていうか、ぜんっぜん元気だな！」	　And you're completely fine!」
+3900	Rance	怒り	「君を捜しに来たんだ！	「I came looking for you!
+3901	+		　ていうか、ぜんっぜん元気だな！」	　And you're completely fine!」
 
-3902	Kikkawa Kiku	「あぁん？　そりゃテンションも上がるってーの。	「Aahn? Of course I'm pumped up.
-3903	+	　超レアモンスター見つけちまってよ」	　I found an ultra rare monster.」
+3902	Kikkawa Kiku	基本	「あぁん？　そりゃテンションも上がるってーの。	「Aahn? Of course I'm pumped up.
+3903	+		　超レアモンスター見つけちまってよ」	　I found an ultra rare monster.」
 
-3904	Rance	「……なんだそりゃ。	「......What are you talking about.
-3905	+	　いい物でもドロップするのか」	　Does it drop good stuff?」
+3904	Rance	だる顔	「……なんだそりゃ。	「......What are you talking about.
+3905	+		　いい物でもドロップするのか」	　Does it drop good stuff?」
 
-3906	Kikkawa Kiku	「そりゃーもちろん…………	「Of course......
-3907	?	　食材よ！」	　It's ingredients!」
+3906	Kikkawa Kiku	基本	「そりゃーもちろん…………	「Of course......
+3907	?		　食材よ！」	　It's ingredients!」
 
-3908	Rance	「食材！？」	「Ingredients!?」
+3908	Rance	驚き	「食材！？」	「Ingredients!?」
 
-3909	Kikkawa Kiku	「おぉ。バラせば滋養強壮、味も最高……	「Yeah. It's great for stamina when butchered, and tastes amazing......
-3910	+	　煮ても焼いても食えるってヤツでな」	　You can boil it or grill it.」
+3909	Kikkawa Kiku	基本	「おぉ。バラせば滋養強壮、味も最高……	「Yeah. It's great for stamina when butchered, and tastes amazing......
+3910	+		　煮ても焼いても食えるってヤツでな」	　You can boil it or grill it.」
 
-3911	Kikkawa Kiku	「……特に、妊婦にゃ効くってよ」	「......Especially good for pregnant women.」
+3911	Kikkawa Kiku		「……特に、妊婦にゃ効くってよ」	「......Especially good for pregnant women.」
 
-3912	Rance	「あ、それで…………」	「Ah, so that's why......」
+3912	Rance		「あ、それで…………」	「Ah, so that's why......」
 
-3913	Kikkawa Kiku	「おっと……おいでなすったな！	「Oh...... Here it comes!
-3914	+	　どうせなら手伝ってけよ、ランス！」	　Since you're here, help me out, Rance!」
+3913	Kikkawa Kiku		「おっと……おいでなすったな！	「Oh...... Here it comes!
+3914	+		　どうせなら手伝ってけよ、ランス！」	　Since you're here, help me out, Rance!」
 
-3915	Rance	「くっ、でかいな……」	「Khh, it's huge......」
+3915	Rance	驚き	「くっ、でかいな……」	「Khh, it's huge......」
 
-3916	Kikkawa Kiku	「ああ……へへっ、	「Yeah...... Heh heh,
-3917	+	　食いでがあってありがたいじゃねーか」	　It's got plenty of meat, what a blessing.」
+3916	Kikkawa Kiku	基本	「ああ……へへっ、	「Yeah...... Heh heh,
+3917	+		　食いでがあってありがたいじゃねーか」	　It's got plenty of meat, what a blessing.」
 
-3918	Rance	「…………ああもう、仕方ないな！	「............Ugh, fine!
-3919	+	　ちゃちゃっと片付けて帰るぞ！」	　Let's finish this quick and go home!」
+3918	Rance	怒り	「…………ああもう、仕方ないな！	「............Ugh, fine!
+3919	+		　ちゃちゃっと片付けて帰るぞ！」	　Let's finish this quick and go home!」
 
-3920	Kikkawa Kiku	「あいよっと！　かッ捌いてやるぜ！」	「Alrighty! I'll carve this big guy up!」
+3920	Kikkawa Kiku	基本	「あいよっと！　かッ捌いてやるぜ！」	「Alrighty! I'll carve this big guy up!」
 
-3921	-	巨大モンスターを一昼夜掛けて仕留めてから、	After spending a full day and night taking down the giant monster,
-3922	+	ランスときくは帰還した。	Rance and Kiku returned.
+3921	-		巨大モンスターを一昼夜掛けて仕留めてから、	After spending a full day and night taking down the giant monster,
+3922	+		ランスときくは帰還した。	Rance and Kiku returned.

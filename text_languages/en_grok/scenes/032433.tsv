@@ -3,91 +3,91 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-149319	-	ラング・バウ――	Lang Bau――
+149319	-		ラング・バウ――	Lang Bau――
 
-149320	-	ランスの部屋――	Rance's Room――
+149320	-		ランスの部屋――	Rance's Room――
 
-149321	Chaos	「やってしもうたなー」	「You really did it.」
+149321	Chaos	ため息	「やってしもうたなー」	「You really did it.」
 
-149322	Rance	「ああ？　何がだ？」	「Ah? What did I do?」
+149322	Rance	基本	「ああ？　何がだ？」	「Ah? What did I do?」
 
-149323	Chaos	「女の子とちちくり合っておらず、	「Instead of quickly dealing with the girl,
-149324	+	　さっさとケッセルリンクを	　you were messing around with her
-149325	+	　儂で突き刺しとれば終わったのに」	　instead of letting me stab Kesselring right away.」
+149323	Chaos		「女の子とちちくり合っておらず、	「Instead of quickly dealing with the girl,
+149324	+		　さっさとケッセルリンクを	　you were messing around with her
+149325	+		　儂で突き刺しとれば終わったのに」	　instead of letting me stab Kesselring right away.」
 
-149326	Rance	「うるさい！	「Shut up!
-149327	+	　据え膳食わない俺じゃないのだ！」	　I'm not the kind of guy who ignores a meal set before him!」
+149326	Rance		「うるさい！	「Shut up!
+149327	+		　据え膳食わない俺じゃないのだ！」	　I'm not the kind of guy who ignores a meal set before him!」
 
-149328	Chaos	「……はぁ」	「...Sigh.」
+149328	Chaos	ため息	「……はぁ」	「...Sigh.」
 
-149329	Rance	「なんだ、その溜め息は！」	「What’s with that sigh!」
+149329	Rance	基本	「なんだ、その溜め息は！」	「What’s with that sigh!」
 
-149330	Chaos	「いつもいつも儂の助言を聞かないからこうなる。	「This is what happens when you never listen to my advice.
-149331	+	　たまにはいい薬よ」	　It's good medicine sometimes.」
+149330	Chaos	ため息	「いつもいつも儂の助言を聞かないからこうなる。	「This is what happens when you never listen to my advice.
+149331	+		　たまにはいい薬よ」	　It's good medicine sometimes.」
 
-149332	Rance	「なんだとー！？」	「What did you say!?」
+149332	Rance	基本	「なんだとー！？」	「What did you say!?」
 
-149333	Sill Plain	「ランス様、	「Rance-sama,
-149334	+	　ケッセルリンクの新情報が来ました……」	　new information about Kesselring has arrived...」
+149333	Sill Plain	考え中	「ランス様、	「Rance-sama,
+149334	+		　ケッセルリンクの新情報が来ました……」	　new information about Kesselring has arrived...」
 
-149335	Rance	「む、そうか、話せ」	「Hmm, I see. Speak.」
+149335	Rance	基本	「む、そうか、話せ」	「Hmm, I see. Speak.」
 
-149336	Sill Plain	「数時間前に大規模な魔軍の侵攻で都市が一つ	「A few hours ago, a major Monster Army invasion captured one city.」
-149337	+	　奪われたそうです」	
+149336	Sill Plain	真剣	「数時間前に大規模な魔軍の侵攻で都市が一つ	「A few hours ago, a major Monster Army invasion captured one city.」
+149337	+		　奪われたそうです」	
 
-149338	Sill Plain	「それと時間を同じくして、	「At the same time,
-149339	+	　ケッセルリンクも単身でヘルマン軍を襲撃、	　Kesselring single-handedly attacked the Helman army,
-149340	+	　こちらでも都市を一つ……」	　and captured another city...」
+149338	Sill Plain		「それと時間を同じくして、	「At the same time,
+149339	+		　ケッセルリンクも単身でヘルマン軍を襲撃、	　Kesselring single-handedly attacked the Helman army,
+149340	+		　こちらでも都市を一つ……」	　and captured another city...」
 
-149341	Rance	「落とされたか」	「So it fell.」
+149341	Rance		「落とされたか」	「So it fell.」
 
-149342	Rance	「あの魔人、こっちに来ないのか？	「Isn't that Fiend coming here?
-149343	+	　てっきり俺に会いに来るかと」	　I thought he'd come straight for me.」
+149342	Rance	基本	「あの魔人、こっちに来ないのか？	「Isn't that Fiend coming here?
+149343	+		　てっきり俺に会いに来るかと」	　I thought he'd come straight for me.」
 
-149344	Chaos	「……こりゃよっぽど怒っとるのかもね」	「...He must be really pissed.」
+149344	Chaos		「……こりゃよっぽど怒っとるのかもね」	「...He must be really pissed.」
 
-149345	Chaos	「ヘルマン軍を潰して、心の友を	「He'll crush the Helman army,
-149346	+	　丸裸にしてからじわじわと殺す気なんだろ」	　strip you bare, and then slowly kill you.」
+149345	Chaos		「ヘルマン軍を潰して、心の友を	「He'll crush the Helman army,
+149346	+		　丸裸にしてからじわじわと殺す気なんだろ」	　strip you bare, and then slowly kill you.」
 
-149347	Sill Plain	「ということは今後、どんどん都市が	「That means more and more cities
-149348	+	　攻められるということですよね……」	　will be attacked from now on...」
+149347	Sill Plain	泣き	「ということは今後、どんどん都市が	「That means more and more cities
+149348	+		　攻められるということですよね……」	　will be attacked from now on...」
 
-149349	Chaos	「まずいのう。	「This is bad.
-149350	+	　これじゃヘルマンが保たんぞ」	　Helman won't last like this.」
+149349	Chaos	基本	「まずいのう。	「This is bad.
+149350	+		　これじゃヘルマンが保たんぞ」	　Helman won't last like this.」
 
-149351	Chaos	「ヘルマンを救うには	「To save Helman,
-149352	+	　ケッセルリンクを殺すしかないが、	　we have to kill Kesselring,
-149353	+	　問題はこれからだな」	　but the real problem starts now.」
+149351	Chaos		「ヘルマンを救うには	「To save Helman,
+149352	+		　ケッセルリンクを殺すしかないが、	　we have to kill Kesselring,
+149353	+		　問題はこれからだな」	　but the real problem starts now.」
 
-149354	Chaos	「今後同じように侵入しても、	「Even if we sneak in again,
-149355	+	　今回のことで警戒されてる筈」	　they'll be on high alert after this.」
+149354	Chaos		「今後同じように侵入しても、	「Even if we sneak in again,
+149355	+		　今回のことで警戒されてる筈」	　they'll be on high alert after this.」
 
-149356	Rance	「ま、無理だろうな」	「Yeah, it'll be impossible.」
+149356	Rance		「ま、無理だろうな」	「Yeah, it'll be impossible.」
 
-149357	Sill Plain	「となると正攻法しかない……	「Then the only option is a frontal assault...
-149358	+	　ということでしょうか……」	　I suppose...」
+149357	Sill Plain	慌て	「となると正攻法しかない……	「Then the only option is a frontal assault...
+149358	+		　ということでしょうか……」	　I suppose...」
 
-149359	Rance	「いや……」	「No...」
+149359	Rance	基本	「いや……」	「No...」
 
-149360	Rance~	（正攻法は……やばいな……）	（A frontal attack... is dangerous...）
+149360	Rance~	だる顔	（正攻法は……やばいな……）	（A frontal attack... is dangerous...）
 
-149361	Rance~	（あれは本能的に分かった。	（I felt it instinctively.
-149362	+	　強い、強すぎる）	　He's strong. Way too strong.）
+149361	Rance~		（あれは本能的に分かった。	（I felt it instinctively.
+149362	+		　強い、強すぎる）	　He's strong. Way too strong.）
 
-149363	Rance~	（俺様は最強だが、あれは……）	（I'm the strongest, but that guy...）
+149363	Rance~		（俺様は最強だが、あれは……）	（I'm the strongest, but that guy...）
 
-149364	Rance	「うーーーーーむ……」	「Hmmmm...」
+149364	Rance		「うーーーーーむ……」	「Hmmmm...」
 
-149365	Chaos	「考えろ考えろ。	「Think hard.
-149366	+	　自分の失敗をたまにはよーく噛みしめるがいい」	　It's good to reflect on your failures sometimes.」
+149365	Chaos	基本	「考えろ考えろ。	「Think hard.
+149366	+		　自分の失敗をたまにはよーく噛みしめるがいい」	　It's good to reflect on your failures sometimes.」
 
-149367	Rance	「うがー！　うるせー！」	「Ugaa! Shut up!」
+149367	Rance		「うがー！　うるせー！」	「Ugaa! Shut up!」
 
-149368	-	　	　
-149369	+	　＜ぺちーん！＞	　＜Pachin!＞
+149368	-		　	　
+149369	+		　＜ぺちーん！＞	　＜Pachin!＞
 
-149370	Chaos	「ほげーっ！」	「Hogeー!」
+149370	Chaos	泣き	「ほげーっ！」	「Hogeー!」
 
-149371	-	…………	............
+149371	-		…………	............
 
-149372	-	……	......
+149372	-		……	......

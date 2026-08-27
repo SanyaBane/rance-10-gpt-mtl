@@ -5,113 +5,113 @@
 * Haurein Province	ハウレーン	Female
 * Kasumi K. Kasumi	カスミ	Female
 
-154201	Rance	「うーん、なんか周りの景色が変わってきたな」	「Hmm, the scenery around us has changed.」
+154201	Rance	真剣	「うーん、なんか周りの景色が変わってきたな」	「Hmm, the scenery around us has changed.」
 
-154202	Sill Plain	「紅葉が増えてきましたね。	「There are more autumn leaves.
-154203	+	　この辺りはこの時期、	　This area always looks like this
-154204	+	　いつもこうなるらしいですよ」	　around this time of year.」
+154202	Sill Plain	基本	「紅葉が増えてきましたね。	「There are more autumn leaves.
+154203	+		　この辺りはこの時期、	　This area always looks like this
+154204	+		　いつもこうなるらしいですよ」	　around this time of year.」
 
-154205	Sill Plain	「綺麗ですね、ランス様」	「It's beautiful, Rance-sama.」
+154205	Sill Plain		「綺麗ですね、ランス様」	「It's beautiful, Rance-sama.」
 
-154206	Rance	「ふん、紅葉ねぇ。	「Hmph, autumn leaves huh.
-154207	+	　そんなもんじゃ腹も膨れん」	　That won't fill my stomach.」
+154206	Rance	だる顔	「ふん、紅葉ねぇ。	「Hmph, autumn leaves huh.
+154207	+		　そんなもんじゃ腹も膨れん」	　That won't fill my stomach.」
 
-154208	-	ランス達が平野を進んでいると	As Rance's group advanced through the plains,
-154209	+	不思議なものが目についた。	something strange caught their eye.
+154208	-		ランス達が平野を進んでいると	As Rance's group advanced through the plains,
+154209	+		不思議なものが目についた。	something strange caught their eye.
 
-154210	Sill Plain	「あ、あら？　ランス様、あれはなんでしょう？	「Oh my? Rance-sama, what is that?
-154211	+	　塔のようなものが、ひのふの……	　There are tower-like things, one two...
-154212	+	　八本？」	　Eight of them?」
+154210	Sill Plain	考え中	「あ、あら？　ランス様、あれはなんでしょう？	「Oh my? Rance-sama, what is that?
+154211	+		　塔のようなものが、ひのふの……	　There are tower-like things, one two...
+154212	+		　八本？」	　Eight of them?」
 
-154213	Rance	「なーんか、見覚えあるような……」	「Hmm, it looks kinda familiar...」
+154213	Rance	真剣	「なーんか、見覚えあるような……」	「Hmm, it looks kinda familiar...」
 
-154214	Kentou Kanami	「あら？　あれ、マレスケじゃない？」	「Oh? Isn't that Maresuke?」
+154214	Kentou Kanami	基本	「あら？　あれ、マレスケじゃない？」	「Oh? Isn't that Maresuke?」
 
-154215	Rance	「…………誰？」	「............Who?」
+154215	Rance		「…………誰？」	「............Who?」
 
-154216	-	…………	............
+154216	-		…………	............
 
-154217	-	……	......
+154217	-		……	......
 
-154218	Rance	「ん、マレスケってこれか」	「Oh, so this is Maresuke.」
+154218	Rance		「ん、マレスケってこれか」	「Oh, so this is Maresuke.」
 
-154219	-	ランス達の前にあるのは、	What stood before Rance's group
-154220	+	巨大砲台チューリップ2号マレスケだった。	was the giant cannon Tulip No.2 Maresuke.
+154219	-		ランス達の前にあるのは、	What stood before Rance's group
+154220	+		巨大砲台チューリップ2号マレスケだった。	was the giant cannon Tulip No.2 Maresuke.
 
-154221	Rance	「確かマリアが作った奴だな」	「Pretty sure Maria made this one.」
+154221	Rance		「確かマリアが作った奴だな」	「Pretty sure Maria made this one.」
 
-154222	Sill Plain	「確か昔ラギシスとの戦いでも使いましたし、	「We used it in the battle against Lagisis before,
-154223	+	　ゼスにも持って行っていましたね」	　and even took it to Zeth.」
+154222	Sill Plain		「確か昔ラギシスとの戦いでも使いましたし、	「We used it in the battle against Lagisis before,
+154223	+		　ゼスにも持って行っていましたね」	　and even took it to Zeth.」
 
-154224	Sill Plain	「これって確か一台でもすごい威力だったのに……	「Even one of these had incredible power...
-154225	+	　それが八台も……」	　And there are eight of them...」
+154224	Sill Plain	考え中	「これって確か一台でもすごい威力だったのに……	「Even one of these had incredible power...
+154225	+		　それが八台も……」	　And there are eight of them...」
 
-154226	Rance	「だがこれはカスタムのものだろう？	「But these are Custom models, right?
-154227	+	　どうしてリーザスにあるんだ？」	　Why are they in Leazas?」
+154226	Rance	基本	「だがこれはカスタムのものだろう？	「But these are Custom models, right?
+154227	+		　どうしてリーザスにあるんだ？」	　Why are they in Leazas?」
 
-154228	Kentou Kanami	「ああ、ランスは知らないんだっけ？	「Oh, you didn't know Rance?
-154229	+	　リーザスはチューリップを輸入してるの。	　Leazas imports Tulips.
-154230	+	　それ以外にも色々とね」	　And a lot of other things too.」
+154228	Kentou Kanami		「ああ、ランスは知らないんだっけ？	「Oh, you didn't know Rance?
+154229	+		　リーザスはチューリップを輸入してるの。	　Leazas imports Tulips.
+154230	+		　それ以外にも色々とね」	　And a lot of other things too.」
 
-154231	Haurein Province	「ええ、生産国であるカスタム以外に	「Yes, besides the producing country Custom,
-154232	+	　この重砲を持つのはリーザスのみ」	　only Leazas possesses these heavy cannons.」
+154231	Haurein Province		「ええ、生産国であるカスタム以外に	「Yes, besides the producing country Custom,
+154232	+		　この重砲を持つのはリーザスのみ」	　only Leazas possesses these heavy cannons.」
 
-154233	Haurein Province	「リーザス砲兵部隊は	「The Leazas Artillery Unit
-154234	+	　我が軍の奥の手とも言える部隊です」	　is one of our army's trump cards.」
+154233	Haurein Province		「リーザス砲兵部隊は	「The Leazas Artillery Unit
+154234	+		　我が軍の奥の手とも言える部隊です」	　is one of our army's trump cards.」
 
-154235	Kasumi K. Kasumi	「皆さん！」	「Everyone!」
+154235	Kasumi K. Kasumi	非武装	「皆さん！」	「Everyone!」
 
-154236	Rance	「ん、確かマリアの弟子の子だったか。	「Hmm, you're Maria's disciple, right.
-154237	+	　なんでリーザスに？」	　Why are you in Leazas?」
+154236	Rance	基本	「ん、確かマリアの弟子の子だったか。	「Hmm, you're Maria's disciple, right.
+154237	+		　なんでリーザスに？」	　Why are you in Leazas?」
 
-154238	Kentou Kanami	「さっき色々と輸出してるって言ったでしょ？	「I just said we're exporting various things, right?
-154239	+	　それはチューリップだけじゃなくて技術もなの」	　Not just Tulips, but technology too.」
+154238	Kentou Kanami		「さっき色々と輸出してるって言ったでしょ？	「I just said we're exporting various things, right?
+154239	+		　それはチューリップだけじゃなくて技術もなの」	　Not just Tulips, but technology too.」
 
-154240	Kentou Kanami	「カスミさんは戦争前からリーザスに派遣されて、	「Kasumi was sent to Leazas before the war
-154241	+	　技術関係の指導をしてもらっていたとか……」	　to provide technical guidance...
+154240	Kentou Kanami	微笑み	「カスミさんは戦争前からリーザスに派遣されて、	「Kasumi was sent to Leazas before the war
+154241	+		　技術関係の指導をしてもらっていたとか……」	　to provide technical guidance...
 
-154242	Kentou Kanami	「リア様がリーザスにも砲兵部隊を作るって	　Lady Lia is eager to create an artillery unit in Leazas too.」
-154243	+	　息巻いているんですって」	
+154242	Kentou Kanami		「リア様がリーザスにも砲兵部隊を作るって	　Lady Lia is eager to create an artillery unit in Leazas too.」
+154243	+		　息巻いているんですって」	
 
-154244	Rance	「ほほー」	「Hmm~」
+154244	Rance	基本	「ほほー」	「Hmm~」
 
-154245	Kasumi K. Kasumi	「いわば私達は派遣社員ですね。	「We're basically dispatched employees.
-154246	+	　私を中心に何人かカスタムから来ていますよ」	　Several of us came from Custom, centered around me.」
+154245	Kasumi K. Kasumi	非武装	「いわば私達は派遣社員ですね。	「We're basically dispatched employees.
+154246	+		　私を中心に何人かカスタムから来ていますよ」	　Several of us came from Custom, centered around me.」
 
-154247	Rance	「で、今は戦争の協力をしていると」	「So you're cooperating in the war now.」
+154247	Rance	基本	「で、今は戦争の協力をしていると」	「So you're cooperating in the war now.」
 
-154248	Kasumi K. Kasumi	「はい、一応今の所属はリーザスですので」	「Yes, for now my affiliation is with Leazas.」
+154248	Kasumi K. Kasumi	非武装	「はい、一応今の所属はリーザスですので」	「Yes, for now my affiliation is with Leazas.」
 
-154249	Rance	「ん？　しかし、戦うには後方すぎんか？	「Hmm? But isn't this too far back to fight?
-154250	+	　こんな場所じゃ弾も届かんだろう」	　The shells won't reach from here.」
+154249	Rance	基本	「ん？　しかし、戦うには後方すぎんか？	「Hmm? But isn't this too far back to fight?
+154250	+		　こんな場所じゃ弾も届かんだろう」	　The shells won't reach from here.」
 
-154251	Kasumi K. Kasumi	「はあ、私達もそう進言したのですが、	「Yes, we suggested that too, but
-154252	+	　バレス将軍の指示でここで良い、と」	　General Barres ordered us to stay here.」
+154251	Kasumi K. Kasumi	非武装	「はあ、私達もそう進言したのですが、	「Yes, we suggested that too, but
+154252	+		　バレス将軍の指示でここで良い、と」	　General Barres ordered us to stay here.」
 
-154253	Kasumi K. Kasumi	「詳しいことは分かりませんが、	「I don't know the details, but
-154254	+	　どうやら本日中に戦線がかなり動くようで……」	　it seems the front line will move quite a bit today...」
+154253	Kasumi K. Kasumi		「詳しいことは分かりませんが、	「I don't know the details, but
+154254	+		　どうやら本日中に戦線がかなり動くようで……」	　it seems the front line will move quite a bit today...」
 
-154255	Rance	「ふーん？」	「Hmm?」
+154255	Rance	基本	「ふーん？」	「Hmm?」
 
-154256	Rance	「ふーん、リアの奴、色々とやっとるんだなぁ」	「Hmm, that Lia girl is doing all sorts of things.」
+154256	Rance		「ふーん、リアの奴、色々とやっとるんだなぁ」	「Hmm, that Lia girl is doing all sorts of things.」
 
-154257	-	辺りを見ればカスタムからの派遣兵か、	Looking around, there were dispatched soldiers from Custom
-154258	+	それとも兵器弄りを習得したリーザス兵か、	or Leazas soldiers who had learned to handle the weapons,
-154259	+	ともあれツナギの女の子達が忙しそうに働いていた。	but in any case, girls in overalls were working busily.
+154257	-		辺りを見ればカスタムからの派遣兵か、	Looking around, there were dispatched soldiers from Custom
+154258	+		それとも兵器弄りを習得したリーザス兵か、	or Leazas soldiers who had learned to handle the weapons,
+154259	+		ともあれツナギの女の子達が忙しそうに働いていた。	but in any case, girls in overalls were working busily.
 
-154260	Rance	「…………」	「............」
+154260	Rance	真剣	「…………」	「............」
 
-154261	Rance	「ふふふ、可愛い子もいるなあ。	「Hehehe, there are some cute girls here.
-154262	+	　ここらでちょっとつまみ食いしてくか……」	　Maybe I'll have a little snack here...」
+154261	Rance	エロ顔	「ふふふ、可愛い子もいるなあ。	「Hehehe, there are some cute girls here.
+154262	+		　ここらでちょっとつまみ食いしてくか……」	　Maybe I'll have a little snack here...」
 
-154263	Sill Plain	「ら、ランス様……」	「R-Rance-sama...」
+154263	Sill Plain	苦笑	「ら、ランス様……」	「R-Rance-sama...」
 
-154264	Haurein Province	「いいからとっとと行くぞ。	「Enough, let's hurry up and go.
-154265	+	　我が軍の陣地はすぐそこだ」	　Our army's camp is right there.」
+154264	Haurein Province	目閉じ	「いいからとっとと行くぞ。	「Enough, let's hurry up and go.
+154265	+		　我が軍の陣地はすぐそこだ」	　Our army's camp is right there.」
 
-154266	Rance	「あっ、こら、引っ張るな！	「Ah, hey, don't pull me!
-154267	+	　俺様は総統閣下様だぞー！」	　I'm the Supreme Leader!」
+154266	Rance	基本	「あっ、こら、引っ張るな！	「Ah, hey, don't pull me!
+154267	+		　俺様は総統閣下様だぞー！」	　I'm the Supreme Leader!」
 
-154268	-	ランス達はマレスケのある陣地を尻目に、	Leaving the Maresuke position behind,
-154269	+	すぐそばにあるという、	Rance's group headed for
-154270	+	リーザス軍の陣地を目指した。	the nearby Leazas army camp.
+154268	-		ランス達はマレスケのある陣地を尻目に、	Leaving the Maresuke position behind,
+154269	+		すぐそばにあるという、	Rance's group headed for
+154270	+		リーザス軍の陣地を目指した。	the nearby Leazas army camp.

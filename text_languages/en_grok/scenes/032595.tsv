@@ -3,61 +3,61 @@
 * Joseph	大将軍ヨシフ	Male
 * Silky Littleraisin	シルキィ	Female
 
-162385	-	リーザス西、マウネス――	West Leazas, Maunes--
-162386	+	魔軍司令部――	Monster Army Headquarters--
+162385	-		リーザス西、マウネス――	West Leazas, Maunes--
+162386	+		魔軍司令部――	Monster Army Headquarters--
 
-162387	Kaybwan	「ふーん、まあまあ真面目にやっているようね、	「Hmm, you're working pretty seriously,
-162388	+	　大将軍ヨシフ」	　General Joseph.」
+162387	Kaybwan	基本	「ふーん、まあまあ真面目にやっているようね、	「Hmm, you're working pretty seriously,
+162388	+		　大将軍ヨシフ」	　General Joseph.」
 
-162389	Joseph	「はっはっはっ、当然です」	「Hahaha, of course.」
+162389	Joseph		「はっはっはっ、当然です」	「Hahaha, of course.」
 
-162390	-	リーザス方面の魔軍司令部に、	At the Monster Army headquarters in the Leazas region,
-162391	+	ケイブワンが姿を見せていた。	Kaybwan had appeared.
+162390	-		リーザス方面の魔軍司令部に、	At the Monster Army headquarters in the Leazas region,
+162391	+		ケイブワンが姿を見せていた。	Kaybwan had appeared.
 
-162392	-	その場にはケイブワンとヨシフ以外に、	Besides Kaybwan and Joseph,
-162393	+	呼び出されたシルキィもいた。	the summoned Silky was also present.
+162392	-		その場にはケイブワンとヨシフ以外に、	Besides Kaybwan and Joseph,
+162393	+		呼び出されたシルキィもいた。	the summoned Silky was also present.
 
-162394	Joseph	「それで、ケイブワン様は一体どのようなご用で？	「So, what business does Lady Kaybwan have?
-162395	+	　リーザスの担当は儂に一任されておる筈」	　I was supposed to be in charge of Leazas.」
+162394	Joseph		「それで、ケイブワン様は一体どのようなご用で？	「So, what business does Lady Kaybwan have?
+162395	+		　リーザスの担当は儂に一任されておる筈」	　I was supposed to be in charge of Leazas.」
 
-162396	Kaybwan	「ハウゼルのことよ」	「It's about Hawzel.」
+162396	Kaybwan		「ハウゼルのことよ」	「It's about Hawzel.」
 
-162397	Silky Littleraisin	「……ッ」	「...!」
+162397	Silky Littleraisin	非武装	「……ッ」	「...!」
 
-162398	-	シルキィが小さく反応した。	Silky reacted slightly.
+162398	-		シルキィが小さく反応した。	Silky reacted slightly.
 
-162399	Kaybwan	「あいつ人間共に捕まったって話よね？」	「I heard he was captured by the humans?」
+162399	Kaybwan	基本	「あいつ人間共に捕まったって話よね？」	「I heard he was captured by the humans?」
 
-162400	Joseph	「ええ、少なくとも儂はそう報告を受けてます」	「Yes, at least that's what I was told.」
+162400	Joseph		「ええ、少なくとも儂はそう報告を受けてます」	「Yes, at least that's what I was told.」
 
-162401	Kaybwan	「でも、腐っても魔人の	「But even a fallen Fiend,
-162402	+	　ハウゼルが簡単に人間に捕まるかしら」	　Hawzel wouldn't be captured so easily by humans.
+162401	Kaybwan		「でも、腐っても魔人の	「But even a fallen Fiend,
+162402	+		　ハウゼルが簡単に人間に捕まるかしら」	　Hawzel wouldn't be captured so easily by humans.
 
-162403	Kaybwan	「ケイブリス様はとっても疑ってるわん」	　Lord Kayblis is very suspicious.」
+162403	Kaybwan		「ケイブリス様はとっても疑ってるわん」	　Lord Kayblis is very suspicious.」
 
-162404	Kaybwan	「もしかしたら……	「Perhaps...
-162405	+	　魔軍を裏切るつもりかも、と」	　he plans to betray the Monster Army.」
+162404	Kaybwan	講釈たれ	「もしかしたら……	「Perhaps...
+162405	+		　魔軍を裏切るつもりかも、と」	　he plans to betray the Monster Army.」
 
-162406	Silky Littleraisin	「そんなことはありえない……」	「That's impossible...」
+162406	Silky Littleraisin	非武装	「そんなことはありえない……」	「That's impossible...」
 
-162407	Silky Littleraisin	「ハウゼルはそんな短慮なことをする奴じゃない」	「Hawzel isn't the type to do something so rash.」
+162407	Silky Littleraisin		「ハウゼルはそんな短慮なことをする奴じゃない」	「Hawzel isn't the type to do something so rash.」
 
-162408	Silky Littleraisin	「何よりも、魔軍には人質が――」	「Above all, the Monster Army has hostages--」
+162408	Silky Littleraisin		「何よりも、魔軍には人質が――」	「Above all, the Monster Army has hostages--」
 
-162409	Kaybwan	「そのホーネットが、	「That Hornet,
-162410	+	　人質としての価値がなくなったのでは？	　has she lost her value as a hostage?
-162411	+	　と、疑われてるという話わん」	　That's what they're suspecting.」
+162409	Kaybwan	基本	「そのホーネットが、	「That Hornet,
+162410	+		　人質としての価値がなくなったのでは？	　has she lost her value as a hostage?
+162411	+		　と、疑われてるという話わん」	　That's what they're suspecting.」
 
-162412	Silky Littleraisin	「…………」	「............」
+162412	Silky Littleraisin	非武装	「…………」	「............」
 
-162413	Kaybwan	「ま、ワンは別にどっちでもいいけど……	「Well, I don't really care either way...
-162414	+	　ケイブリス様は落ち着かないと仰せわん」	　but Lord Kayblis is uneasy.」
+162413	Kaybwan	講釈たれ	「ま、ワンは別にどっちでもいいけど……	「Well, I don't really care either way...
+162414	+		　ケイブリス様は落ち着かないと仰せわん」	　but Lord Kayblis is uneasy.」
 
-162415	Kaybwan	「なんにしても人間界には置いておけないと」	「In any case, we can't leave you in the human world.」
+162415	Kaybwan		「なんにしても人間界には置いておけないと」	「In any case, we can't leave you in the human world.」
 
-162416	Kaybwan	「さ、表にうし車を待たせてあるわん。	「Now, there's an ox cart waiting outside.
-162417	+	　ワンと一緒に魔物界に帰るわよ」	　Come back to the Monster Realm with me.」
+162416	Kaybwan	基本	「さ、表にうし車を待たせてあるわん。	「Now, there's an ox cart waiting outside.
+162417	+		　ワンと一緒に魔物界に帰るわよ」	　Come back to the Monster Realm with me.」
 
-162418	Silky Littleraisin	「……分かり、ました」	「...Understood.」
+162418	Silky Littleraisin	非武装／目閉じ	「……分かり、ました」	「...Understood.」
 
-162419	-	こうして、シルキィはリーザスから姿を消した。	And so, Silky disappeared from Leazas.
+162419	-		こうして、シルキィはリーザスから姿を消した。	And so, Silky disappeared from Leazas.

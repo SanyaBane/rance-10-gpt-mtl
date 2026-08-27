@@ -3,92 +3,92 @@
 * Rance	ランス	Male
 * Free Cities Guard	汎用自由都市警備兵Ａ	Male
 
-58741	Biyonhou Osman	「……何か、お呼びでしょうか。	「...Did you call for me,
-58742	+	　総統閣下」	　Supreme Leader?」
+58741	Biyonhou Osman	基本	「……何か、お呼びでしょうか。	「...Did you call for me,
+58742	+		　総統閣下」	　Supreme Leader?」
 
-58743	-	ランスの呼びかけに応じて、	In response to Rance's call,
-58744	+	ジフテリアの都市長、ビヨンホウ・オスマンが	Biyonhou Osman, mayor of Diphteria,
-58745	+	姿を見せた。	appeared.
+58743	-		ランスの呼びかけに応じて、	In response to Rance's call,
+58744	+		ジフテリアの都市長、ビヨンホウ・オスマンが	Biyonhou Osman, mayor of Diphteria,
+58745	+		姿を見せた。	appeared.
 
-58746	Rance	「おう、来たか」	「Yeah, you're here.」
+58746	Rance		「おう、来たか」	「Yeah, you're here.」
 
-58747	Biyonhou Osman	「よほどの重要な用件なのでしょうな。	「It must be something very important.
-58748	+	　このような時に……」	　At a time like this...」
+58747	Biyonhou Osman		「よほどの重要な用件なのでしょうな。	「It must be something very important.
+58748	+		　このような時に……」	　At a time like this...」
 
-58749	Rance	「当たり前だ。好きこのんで	「Of course. I wouldn't call
-58750	+	　お前のようなおっさんを呼ぶか」	　an old man like you for fun.」
+58749	Rance	真剣	「当たり前だ。好きこのんで	「Of course. I wouldn't call
+58750	+		　お前のようなおっさんを呼ぶか」	　an old man like you for fun.」
 
-58751	Biyonhou Osman	「そう願いましょう。…………で？」	「I hope so. ......So?」
+58751	Biyonhou Osman	基本	「そう願いましょう。…………で？」	「I hope so. ......So?」
 
-58752	Rance	「魔軍との内通者を探してるんだ。	「I'm looking for a spy with the Monster Army.
-58753	+	　お前の所にも密偵が来たんだろう」	　A spy came to you too, right?」
+58752	Rance	真剣	「魔軍との内通者を探してるんだ。	「I'm looking for a spy with the Monster Army.
+58753	+		　お前の所にも密偵が来たんだろう」	　A spy came to you too, right?」
 
-58754	Biyonhou Osman	「なるほど、そういった事で……	「I see, so that's what this is about...
-58755	+	　来ましたがね、お引き取り願いましたよ」	　One did come, but I sent him away.」
+58754	Biyonhou Osman	基本	「なるほど、そういった事で……	「I see, so that's what this is about...
+58755	+		　来ましたがね、お引き取り願いましたよ」	　One did come, but I sent him away.」
 
-58756	Rance	「うさんくさいな。信用できん」	「Suspicious. I can't trust you.」
+58756	Rance	だる顔	「うさんくさいな。信用できん」	「Suspicious. I can't trust you.」
 
-58757	-	言葉を吟味もせずに切り捨てられて、	Dismissed without even thinking about his words,
-58758	+	ビヨンホウが眉根を寄せる。	Biyonhou furrowed his brows.
+58757	-		言葉を吟味もせずに切り捨てられて、	Dismissed without even thinking about his words,
+58758	+		ビヨンホウが眉根を寄せる。	Biyonhou furrowed his brows.
 
-58759	Biyonhou Osman	「……お言葉ですが。	「...With all due respect.
-58760	+	　ジフテリアはほぼ独力で、	　Diphteria has protected its city almost single-handedly
-58761	+	　開戦時から都市を守り続けているのですよ」	　since the start of the war.」
+58759	Biyonhou Osman	基本	「……お言葉ですが。	「...With all due respect.
+58760	+		　ジフテリアはほぼ独力で、	　Diphteria has protected its city almost single-handedly
+58761	+		　開戦時から都市を守り続けているのですよ」	　since the start of the war.」
 
-58762	Biyonhou Osman	「裏切るのであれば、もっと早いか、遅いか……	「If we were to betray, it would be earlier or later...
-58763	+	　今という事はないでしょう」	　not now.」
+58762	Biyonhou Osman		「裏切るのであれば、もっと早いか、遅いか……	「If we were to betray, it would be earlier or later...
+58763	+		　今という事はないでしょう」	　not now.」
 
-58764	Biyonhou Osman	「そうですね……ここには来ずに、	「Indeed... instead of coming here,
-58765	+	　パランチョ王国を攻略する魔軍に合流して	　join the Monster Army attacking Paranchu Kingdom
-58766	+	　そのまま押し切り、ポルトガルを蹂躙する、かな」	　and overrun Portugal.」
+58764	Biyonhou Osman		「そうですね……ここには来ずに、	「Indeed... instead of coming here,
+58765	+		　パランチョ王国を攻略する魔軍に合流して	　join the Monster Army attacking Paranchu Kingdom
+58766	+		　そのまま押し切り、ポルトガルを蹂躙する、かな」	　and overrun Portugal.」
 
-58767	Rance	「ふーん……」	「Hmm...」
+58767	Rance	真剣	「ふーん……」	「Hmm...」
 
-58768	Biyonhou Osman	「とはいえ、私がそんな真似をすれば教団からの	「That said, if I did such a thing, the church would
-58769	+	　破門は避けられますまい。破滅するだけですな」	　excommunicate me. It would only lead to my ruin.」
+58768	Biyonhou Osman	基本	「とはいえ、私がそんな真似をすれば教団からの	「That said, if I did such a thing, the church would
+58769	+		　破門は避けられますまい。破滅するだけですな」	　excommunicate me. It would only lead to my ruin.」
 
-58770	-	と、不意にドアが躊躇いがちにノックされた。	Suddenly, there was a hesitant knock on the door.
+58770	-		と、不意にドアが躊躇いがちにノックされた。	Suddenly, there was a hesitant knock on the door.
 
-58771	Rance	「なんだ？」	「What is it?」
+58771	Rance		「なんだ？」	「What is it?」
 
-58772	Free Cities Guard	「は！　失礼いたします。	「Yes! Excuse me.
-58773	+	　ジフテリアのオスマン様は	　Is Lord Osman from Diphteria
-58774	+	　こちらにおられますでしょうか！」	　here!?」
+58772	Free Cities Guard		「は！　失礼いたします。	「Yes! Excuse me.
+58773	+		　ジフテリアのオスマン様は	　Is Lord Osman from Diphteria
+58774	+		　こちらにおられますでしょうか！」	　here!?」
 
-58775	Biyonhou Osman	「……会議中だが」	「...We're in a meeting.」
+58775	Biyonhou Osman		「……会議中だが」	「...We're in a meeting.」
 
-58776	Free Cities Guard	「あ、し、失礼しました……	「Ah, s-sorry...
-58777	+	　ご家族の方から魔法電話が来ておりまして。	　There's a magic call from your family.
-58778	+	　それではそのように……」	　I'll inform them...」
+58776	Free Cities Guard		「あ、し、失礼しました……	「Ah, s-sorry...
+58777	+		　ご家族の方から魔法電話が来ておりまして。	　There's a magic call from your family.
+58778	+		　それではそのように……」	　I'll inform them...」
 
-58779	Biyonhou Osman	「何？　待て、今行く！	「What? Wait, I'm coming now!
-58780	?	　……総統閣下。では、そういう事で」	　...Supreme Leader. Well then.」
+58779	Biyonhou Osman	怒り	「何？　待て、今行く！	「What? Wait, I'm coming now!
+58780	?		　……総統閣下。では、そういう事で」	　...Supreme Leader. Well then.」
 
-58781	Rance	「おいこら貴様！　話は終わってないぞ！」	「Hey you! We're not done talking!」
+58781	Rance	基本	「おいこら貴様！　話は終わってないぞ！」	「Hey you! We're not done talking!」
 
-58782	Biyonhou Osman	「む……では、手短にお願いできますか」	「Mu... then please make it quick.」
+58782	Biyonhou Osman		「む……では、手短にお願いできますか」	「Mu... then please make it quick.」
 
-58783	Rance	「ちっ……じゃあ、臭いのは誰だと思う？」	「Tch... then, who do you think is the smelly one?」
+58783	Rance	だる顔	「ちっ……じゃあ、臭いのは誰だと思う？」	「Tch... then, who do you think is the smelly one?」
 
-58784	Biyonhou Osman	「……そうですな。味方を疑うというのは、	「...Well. Suspecting allies is
-58785	+	　あまり楽しくはないですが……」	　not pleasant, but...
+58784	Biyonhou Osman	基本	「……そうですな。味方を疑うというのは、	「...Well. Suspecting allies is
+58785	+		　あまり楽しくはないですが……」	　not pleasant, but...
 
-58786	-	ふむ、とビヨンホウは一呼吸置いた。	Hmm, Biyonhou took a breath.
+58786	-		ふむ、とビヨンホウは一呼吸置いた。	Hmm, Biyonhou took a breath.
 
-58787	Biyonhou Osman	「誰が裏切ったら致命的か、と考えると、	「Thinking about who would be fatal if they betrayed us,
-58788	+	　あの……篠田氏ですかな」	　that would be... Shinoda, I suppose.」
+58787	Biyonhou Osman		「誰が裏切ったら致命的か、と考えると、	「Thinking about who would be fatal if they betrayed us,
+58788	+		　あの……篠田氏ですかな」	　that would be... Shinoda, I suppose.」
 
-58789	Rance	「あのぽやーっとした冴えない野郎か」	「That dull, vague-looking guy?」
+58789	Rance	真剣	「あのぽやーっとした冴えない野郎か」	「That dull, vague-looking guy?」
 
-58790	Biyonhou Osman	「我々の陣営全てを差配できる立場にしては、	「For someone in a position to command our entire camp,
-58791	+	　得体が知れません。	　his background is unknown.
-58792	+	　一朝一夕で信用しろと言われても、なかなか……」	　It's hard to trust him right away...
+58790	Biyonhou Osman	基本	「我々の陣営全てを差配できる立場にしては、	「For someone in a position to command our entire camp,
+58791	+		　得体が知れません。	　his background is unknown.
+58792	+		　一朝一夕で信用しろと言われても、なかなか……」	　It's hard to trust him right away...
 
-58793	Biyonhou Osman	「……これでよろしいでしょうか？」	「...Is this enough?」
+58793	Biyonhou Osman		「……これでよろしいでしょうか？」	「...Is this enough?」
 
-58794	Rance	「ふん。まあいい、いけ」	「Hmph. Fine, go.」
+58794	Rance	だる顔	「ふん。まあいい、いけ」	「Hmph. Fine, go.」
 
-58795	Biyonhou Osman	「では失礼いたします。家族と話せるのも、	「Then excuse me. This might be the last time
-58796	+	　今夜限りかも知れませんので……」	　I can talk to my family...
+58795	Biyonhou Osman	基本	「では失礼いたします。家族と話せるのも、	「Then excuse me. This might be the last time
+58796	+		　今夜限りかも知れませんので……」	　I can talk to my family...
 
-58797	-	ビヨンホウは急ぎ足で、ランスの許を退出した。	Biyonhou left Rance's presence in a hurry.
+58797	-		ビヨンホウは急ぎ足で、ランスの許を退出した。	Biyonhou left Rance's presence in a hurry.

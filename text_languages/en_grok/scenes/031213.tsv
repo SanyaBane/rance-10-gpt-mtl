@@ -10,217 +10,217 @@
 * Sill Plain	シィル	Female
 * Kentou Kanami	かなみ	Female
 
-60516	Nagi su Ragarl	「だーーーー！　黒色破壊光線！」	「Daaaaah! Black Destruction Beam!」
+60516	Nagi su Ragarl	怒り	「だーーーー！　黒色破壊光線！」	「Daaaaah! Black Destruction Beam!」
 
-60517	Masou Shizuka	「粘着地面！」	「Sticky Ground!」
+60517	Masou Shizuka	基本	「粘着地面！」	「Sticky Ground!」
 
-60518	Lei	「ッ、チ……！」	「Tch...!」
+60518	Lei	戦闘時	「ッ、チ……！」	「Tch...!」
 
-60519	-	足下を絡め取られ、	His feet were entangled,
-60520	+	振り払う間もなく破壊光線が直撃する。	and before he could shake it off the destruction beam hit directly.
+60519	-		足下を絡め取られ、	His feet were entangled,
+60520	+		振り払う間もなく破壊光線が直撃する。	and before he could shake it off the destruction beam hit directly.
 
-60521	-	その爆煙を切り裂いて、ランスが飛んだ。	Rance flew through the explosion smoke.
+60521	-		その爆煙を切り裂いて、ランスが飛んだ。	Rance flew through the explosion smoke.
 
-60522	Rance	「がーははははは！	「Gaa hahahahaha!
-60523	+	　とどめのランスアッッターーーーーック！！」	　Finishing Rance Aaaaattaaaack!!」
+60522	Rance	笑顔	「がーははははは！	「Gaa hahahahaha!
+60523	+		　とどめのランスアッッターーーーーック！！」	　Finishing Rance Aaaaattaaaack!!」
 
-60524	Lei	「…………！」	「......!」
+60524	Lei	戦闘時	「…………！」	「......!」
 
-60525	Lei	「ご、ふ、がああぁぁ……っ……！」	「Go, fu, gaaaaah...!」
+60525	Lei		「ご、ふ、がああぁぁ……っ……！」	「Go, fu, gaaaaah...!」
 
-60526	-	上がる血飛沫が、放電で蒸発していく中、	Amid the blood spray evaporating from the discharge,
-60527	+	レイは力尽き、倒れ伏す。	Lei exhausted his strength and collapsed.
+60526	-		上がる血飛沫が、放電で蒸発していく中、	Amid the blood spray evaporating from the discharge,
+60527	+		レイは力尽き、倒れ伏す。	Lei exhausted his strength and collapsed.
 
-60528	Rance	「うーーーっしゃ！　このままくたばれー！」	「Yessss! Die just like that!」
+60528	Rance	怒り	「うーーーっしゃ！　このままくたばれー！」	「Yessss! Die just like that!」
 
-60529	Chaos	「よしもらった！	「Got him!
-60530	+	　奴の心臓を抉り出すんじゃ！　血を啜らせろ！」	　Gouge out his heart! Make him drink his own blood!」
+60529	Chaos	基本	「よしもらった！	「Got him!
+60530	+		　奴の心臓を抉り出すんじゃ！　血を啜らせろ！」	　Gouge out his heart! Make him drink his own blood!」
 
-60531	-	一瞬の間も置かず、追い撃ちをしようと	Without a moment's delay, Rance closed in
-60532	+	ランスが間合いを詰める。	to deliver the follow-up attack.
+60531	-		一瞬の間も置かず、追い撃ちをしようと	Without a moment's delay, Rance closed in
+60532	+		ランスが間合いを詰める。	to deliver the follow-up attack.
 
-60533	Lei~	（ここまで、かッ……！）	（This is it...!）
+60533	Lei~	戦闘時	（ここまで、かッ……！）	（This is it...!）
 
-60534	-	――その時。	――At that moment.
+60534	-		――その時。	――At that moment.
 
-60535	Mary Ann	「――――――待て！」	「――――――Wait!」
+60535	Mary Ann	基本	「――――――待て！」	「――――――Wait!」
 
-60536	Rance	「…………あん？」	「............Huh?」
+60536	Rance	真剣	「…………あん？」	「............Huh?」
 
-60537	-	メアリー・アンが両手を広げて、	Mary Ann spread both arms
-60538	+	ランスとレイの間に割って入った。	and stepped between Rance and Lei.
+60537	-		メアリー・アンが両手を広げて、	Mary Ann spread both arms
+60538	+		ランスとレイの間に割って入った。	and stepped between Rance and Lei.
 
-60539	Rance	「なんだ、ブサイクガキ。邪魔だからどけ」	「What, you ugly brat. Move, you're in the way.」
+60539	Rance	イライラ	「なんだ、ブサイクガキ。邪魔だからどけ」	「What, you ugly brat. Move, you're in the way.」
 
-60540	Mary Ann	「どかない。コイツを殺すのをやめてくれ」	「I won't. Stop trying to kill him.」
+60540	Mary Ann	強い	「どかない。コイツを殺すのをやめてくれ」	「I won't. Stop trying to kill him.」
 
-60541	Rance	「……………はぁ？」	「............Haa?」
+60541	Rance	イライラ	「……………はぁ？」	「............Haa?」
 
-60542	Mary Ann	「もういいだろ、ボロボロじゃないか。	「That's enough, he's all beat up.
-60543	+	　何も出来ない」	　He can't do anything anymore.」
+60542	Mary Ann	弱り	「もういいだろ、ボロボロじゃないか。	「That's enough, he's all beat up.
+60543	+		　何も出来ない」	　He can't do anything anymore.」
 
-60544	Rance	「……………………」	「........................」
+60544	Rance	だる顔	「……………………」	「........................」
 
-60545	Lei	「……………………」	「........................」
+60545	Lei	基本	「……………………」	「........................」
 
-60546	Crook Mofus	「魔人レイ……洗脳のたぐいの能力、	「Fiend Lei... Does he have brainwashing abilities
-60547	+	　持っていましたか？」	　of some kind?」
+60546	Crook Mofus		「魔人レイ……洗脳のたぐいの能力、	「Fiend Lei... Does he have brainwashing abilities
+60547	+		　持っていましたか？」	　of some kind?」
 
-60548	Satella	「…………無いはずだ。そんな器用な奴じゃない」	「............Shouldn't have any. He's not that clever.」
+60548	Satella	思考	「…………無いはずだ。そんな器用な奴じゃない」	「............Shouldn't have any. He's not that clever.」
 
-60549	Rance	「どけと言ってるだろクソガキが。叩き殺すぞ」	「I told you to move, you shitty brat. I'll smash you.」
+60549	Rance	怒り	「どけと言ってるだろクソガキが。叩き殺すぞ」	「I told you to move, you shitty brat. I'll smash you.」
 
-60550	Mary Ann	「いやだ！」	「No!」
+60550	Mary Ann	強い	「いやだ！」	「No!」
 
-60551	Sill Plain	「あ、あの、お嬢さん。	「U-um, young lady.
-60552	+	　その……その方は魔人といって、	　That person is a Fiend, a very
-60553	+	　すごく……危ない魔物なんです。だから……」	　dangerous monster... So...」
+60551	Sill Plain	泣き	「あ、あの、お嬢さん。	「U-um, young lady.
+60552	+		　その……その方は魔人といって、	　That person is a Fiend, a very
+60553	+		　すごく……危ない魔物なんです。だから……」	　dangerous monster... So...」
 
-60554	Mary Ann	「レイ、お前もう人間を殺すな。できるだろ」	「Lei, stop killing humans. You can do that, right?」
+60554	Mary Ann	強い	「レイ、お前もう人間を殺すな。できるだろ」	「Lei, stop killing humans. You can do that, right?」
 
-60555	Lei	「な……にを、言い出すかと、思えば……っ……」	「Wh... What are you saying...」
+60555	Lei	基本	「な……にを、言い出すかと、思えば……っ……」	「Wh... What are you saying...」
 
-60556	Mary Ann	「代わりに、魔物やっつければいいだろ」	「Instead, just beat up monsters.」
+60556	Mary Ann	強い	「代わりに、魔物やっつければいいだろ」	「Instead, just beat up monsters.」
 
-60557	Lei	「勝手に、ぽんぽんと……	「Saying whatever you want so casually...
-60558	+	　言ってくれる、じゃねェか……っ……」	　What the hell...」
+60557	Lei	基本	「勝手に、ぽんぽんと……	「Saying whatever you want so casually...
+60558	+		　言ってくれる、じゃねェか……っ……」	　What the hell...」
 
-60559	Mary Ann	「人間殺しても、全然楽しそうじゃないぞ、お前。	「You don't look like you're enjoying killing humans at all.
-60560	+	　好きでやってないんだろ」	　You're not doing it because you like it.」
+60559	Mary Ann	弱り	「人間殺しても、全然楽しそうじゃないぞ、お前。	「You don't look like you're enjoying killing humans at all.
+60560	+		　好きでやってないんだろ」	　You're not doing it because you like it.」
 
-60561	Lei	「……………………」	「........................」
+60561	Lei	基本	「……………………」	「........................」
 
-60562	Mary Ann	「大人しくかっこよく死にたい、なんて言うなよ。	「Don't say you want to die quietly and coolly.
-60563	+	　そんなの、クソダサイからな！」	　That's super lame!」
+60562	Mary Ann	強い	「大人しくかっこよく死にたい、なんて言うなよ。	「Don't say you want to die quietly and coolly.
+60563	+		　そんなの、クソダサイからな！」	　That's super lame!」
 
-60564	Mary Ann	「……探せばいいだろ。	「...Just search for it.
-60565	+	　好きな物とか……欲しい物とか」	　Things you like... things you want.」
+60564	Mary Ann	弱り	「……探せばいいだろ。	「...Just search for it.
+60565	+		　好きな物とか……欲しい物とか」	　Things you like... things you want.」
 
-60566	Lei	「っ………………」	「...」
+60566	Lei	基本	「っ………………」	「...」
 
-60567	-	レイは、何かを言おうとして……	Lei tried to say something...
-60568	?	結局、溜息をついた。	but in the end let out a sigh.
+60567	-		レイは、何かを言おうとして……	Lei tried to say something...
+60568	?		結局、溜息をついた。	but in the end let out a sigh.
 
-60569	-	深い深い、千年分の溜息だった。	A deep, deep sigh filled with a thousand years.
+60569	-		深い深い、千年分の溜息だった。	A deep, deep sigh filled with a thousand years.
 
-60570	Lei	「ふん、ああ、あぁ。わかったよ。わかった。	「Hmph, yeah, yeah. I got it. I got it.
-60571	+	　……………………俺の、負けでいい」	　........................My loss is fine.」
+60570	Lei		「ふん、ああ、あぁ。わかったよ。わかった。	「Hmph, yeah, yeah. I got it. I got it.
+60571	+		　……………………俺の、負けでいい」	　........................My loss is fine.」
 
-60572	Mary Ann	「よっしゃ！　こうなったぞ。	「Alright! That's how it is.
-60573	+	　もういいだろ」	　That's enough now.」
+60572	Mary Ann	笑い	「よっしゃ！　こうなったぞ。	「Alright! That's how it is.
+60573	+		　もういいだろ」	　That's enough now.」
 
-60574	Rance	「良くないわ、このクソガキが！」	「It's not enough, you shitty brat!」
+60574	Rance	怒り	「良くないわ、このクソガキが！」	「It's not enough, you shitty brat!」
 
-60575	Chaos	「そうそ。いい魔人は死んだ魔人だ・け。	「Exactly. A good Fiend is a dead Fiend.
-60576	+	　スッキリずんばらりんよ」	　Clean and refreshing.」
+60575	Chaos	基本	「そうそ。いい魔人は死んだ魔人だ・け。	「Exactly. A good Fiend is a dead Fiend.
+60576	+		　スッキリずんばらりんよ」	　Clean and refreshing.」
 
-60577	Mary Ann	「しっ、しかたない……これしかないか……」	「I-it can't be helped... This is the only way...」
+60577	Mary Ann	弱り	「しっ、しかたない……これしかないか……」	「I-it can't be helped... This is the only way...」
 
-60578	Rance	「ん？」	「Hm?」
+60578	Rance	真剣	「ん？」	「Hm?」
 
-60579	Mary Ann	「あんた、ランス総統だろ。	「You're Supreme Leader Rance, right.
-60580	+	　ずいぶんな女好き……らしいな。	　You're quite the womanizer... I hear.
-60581	+	　わ、わ、私が、相手……して、やるぜ」	　I-I'll... be your opponent...」
+60579	Mary Ann	強い	「あんた、ランス総統だろ。	「You're Supreme Leader Rance, right.
+60580	+		　ずいぶんな女好き……らしいな。	　You're quite the womanizer... I hear.
+60581	+		　わ、わ、私が、相手……して、やるぜ」	　I-I'll... be your opponent...」
 
-60582	Rance	「………………」	「............」
+60582	Rance	驚き	「………………」	「............」
 
-60583	-	ランスの目が、点になった。	Rance's eyes turned to dots.
+60583	-		ランスの目が、点になった。	Rance's eyes turned to dots.
 
-60584	Rance	「あほかーーーーーーーー！！	「You idiot-----!!
-60585	+	　ブスは抱かんのだ！」	　I don't fuck ugly girls!」
+60584	Rance	怒り	「あほかーーーーーーーー！！	「You idiot-----!!
+60585	+		　ブスは抱かんのだ！」	　I don't fuck ugly girls!」
 
-60586	Mary Ann	「4年後！　4年後まで待て！	「In 4 years! Wait 4 years!
-60587	+	　あたしはきっと美人になるぞ！」	　I'll definitely become a beauty!」
+60586	Mary Ann	弱り	「4年後！　4年後まで待て！	「In 4 years! Wait 4 years!
+60587	+		　あたしはきっと美人になるぞ！」	　I'll definitely become a beauty!」
 
-60588	Rance	「信用できんわ！	「I can't trust that!
-60589	+	　どうせブスのままだろうが」	　You'll stay ugly anyway.」
+60588	Rance	怒り	「信用できんわ！	「I can't trust that!
+60589	+		　どうせブスのままだろうが」	　You'll stay ugly anyway.」
 
-60590	Mary Ann	「あ、あたしのかーちゃんは美人だったぞ！	「M-my mom was a beauty!
-60591	+	　ホントだ！　だから……！」	　It's true! So...!」
+60590	Mary Ann	強い	「あ、あたしのかーちゃんは美人だったぞ！	「M-my mom was a beauty!
+60591	+		　ホントだ！　だから……！」	　It's true! So...!」
 
-60592	Rance	「…………母親似なのか、お前」	「............So you take after your mother?」
+60592	Rance	真剣	「…………母親似なのか、お前」	「............So you take after your mother?」
 
-60593	Mary Ann	「……かーちゃんにはまるで似てないって、	「...People always said I don't look like mom at all.」
-60594	+	　いっつも言われてた」	
+60593	Mary Ann	弱り	「……かーちゃんにはまるで似てないって、	「...People always said I don't look like mom at all.」
+60594	+		　いっつも言われてた」	
 
-60595	Rance	「よし殺そう」	「Alright, let's kill her.」
+60595	Rance	基本	「よし殺そう」	「Alright, let's kill her.」
 
-60596	Mary Ann	「待てって！」	「Wait!」
+60596	Mary Ann	強い	「待てって！」	「Wait!」
 
-60597	Rance	「あー、もういい。やかましい。	「Ah, whatever. Too noisy.
-60598	+	　俺の邪魔になるブスは死ね」	　Ugly girls who get in my way should die.」
+60597	Rance	イライラ	「あー、もういい。やかましい。	「Ah, whatever. Too noisy.
+60598	+		　俺の邪魔になるブスは死ね」	　Ugly girls who get in my way should die.」
 
-60599	Mary Ann	「っ……！」	「...!」
+60599	Mary Ann	弱り	「っ……！」	「...!」
 
-60600	-	無造作に、ランスの腕が動いた。	Casually, Rance's arm moved.
+60600	-		無造作に、ランスの腕が動いた。	Casually, Rance's arm moved.
 
-60601	-	一片の容赦もなく頭を叩き割ろうとしてくる軌道に、	A trajectory aimed mercilessly to smash her head,
-60602	+	メアリーはそれでも動かず、ただ、目をつむった。	yet Mary didn't move and simply closed her eyes.
+60601	-		一片の容赦もなく頭を叩き割ろうとしてくる軌道に、	A trajectory aimed mercilessly to smash her head,
+60602	+		メアリーはそれでも動かず、ただ、目をつむった。	yet Mary didn't move and simply closed her eyes.
 
-60603	Lei	「――待て、ランス」	「――Wait, Rance.」
+60603	Lei	基本	「――待て、ランス」	「――Wait, Rance.」
 
-60604	Rance	「ぬ」	「Nu.」
+60604	Rance	真剣	「ぬ」	「Nu.」
 
-60605	-	負傷と失血で蒼白な顔のまま、	With a pale face from injury and blood loss,
-60606	+	立ち上がったレイがそれを遮った。	Lei stood up and blocked it.
+60605	-		負傷と失血で蒼白な顔のまま、	With a pale face from injury and blood loss,
+60606	+		立ち上がったレイがそれを遮った。	Lei stood up and blocked it.
 
-60607	Rance	「なんだ。貴様から殺して欲しいのか」	「What. You want me to kill you first?」
+60607	Rance		「なんだ。貴様から殺して欲しいのか」	「What. You want me to kill you first?」
 
-60608	Lei	「あぁ。大人しく殺されるから……	「Yeah. I'll die obediently...
-60609	+	　そのガキは殺さないでくれ」	　So don't kill that brat.」
+60608	Lei	基本	「あぁ。大人しく殺されるから……	「Yeah. I'll die obediently...
+60609	+		　そのガキは殺さないでくれ」	　So don't kill that brat.」
 
-60610	Mary Ann	「えっ……」	「Eh...」
+60610	Mary Ann	弱り	「えっ……」	「Eh...」
 
-60611	Rance	「ふーん？　なんだ貴様。急に……	「Hmm? What's this, suddenly...
-60612	+	　ははーん、さてはブス専か？　がははははは！」	　Hah, so you're into ugly girls? Gahahahahaha!」
+60611	Rance	笑顔	「ふーん？　なんだ貴様。急に……	「Hmm? What's this, suddenly...
+60612	+		　ははーん、さてはブス専か？　がははははは！」	　Hah, so you're into ugly girls? Gahahahahaha!」
 
-60613	Lei	「……そうだな。コイツはいい女だよ。	「...Yeah. This girl is a good woman.
-60614	+	　お前にゴミみたいに殺されるくらいなら、	　Better than being killed like trash by you,
-60615	+	　俺の死にかけの命を使う程度の価値はある」	　she's worth using my dying life for.」
+60613	Lei	基本	「……そうだな。コイツはいい女だよ。	「...Yeah. This girl is a good woman.
+60614	+		　お前にゴミみたいに殺されるくらいなら、	　Better than being killed like trash by you,
+60615	+		　俺の死にかけの命を使う程度の価値はある」	　she's worth using my dying life for.」
 
-60616	Mary Ann	「……………………」	「........................」
+60616	Mary Ann	弱り	「……………………」	「........................」
 
-60617	Rance	「ふ〜〜〜ん……？　ほほーう」	「Huuuuh...? Hohou.」
+60617	Rance	エロ顔	「ふ〜〜〜ん……？　ほほーう」	「Huuuuh...? Hohou.」
 
-60618	-	ランスはニヤニヤしながら、	Rance grinned while
-60619	+	レイとメアリーを見比べた。	comparing Lei and Mary.
+60618	-		ランスはニヤニヤしながら、	Rance grinned while
+60619	+		レイとメアリーを見比べた。	comparing Lei and Mary.
 
-60620	Rance	「よし。ではこうしよう。	「Alright. Then here's the deal.
-60621	+	　このガキを殺されたくなければ、俺様に従え」	　If you don't want this brat killed, obey me.」
+60620	Rance	笑顔	「よし。ではこうしよう。	「Alright. Then here's the deal.
+60621	+		　このガキを殺されたくなければ、俺様に従え」	　If you don't want this brat killed, obey me.」
 
-60622	Lei	「あ？」	「Ah?」
+60622	Lei	基本	「あ？」	「Ah?」
 
-60623	Chaos	「えっ！」	「Eh!」
+60623	Chaos	驚き	「えっ！」	「Eh!」
 
-60624	Rance	「このやかましいガキを殺されたくないんだろう。	「You don't want this noisy brat killed, right.
-60625	+	　ならば魔軍を裏切って、俺様の下僕になれ」	　Then betray the Monster Army and become my servant.」
+60624	Rance	基本	「このやかましいガキを殺されたくないんだろう。	「You don't want this noisy brat killed, right.
+60625	+		　ならば魔軍を裏切って、俺様の下僕になれ」	　Then betray the Monster Army and become my servant.」
 
-60626	-	一瞬、レイの眉が動く。	Lei's brow twitched for a moment.
-60627	+	考慮したらしい反応は、ただそれだけだった。	That seemed to be his only reaction of consideration.
+60626	-		一瞬、レイの眉が動く。	Lei's brow twitched for a moment.
+60627	+		考慮したらしい反応は、ただそれだけだった。	That seemed to be his only reaction of consideration.
 
-60628	Lei	「いいぜ」	「Fine.」
+60628	Lei		「いいぜ」	「Fine.」
 
-60629	Mary Ann	「ばっ……い、いいのか、レイ……」	「Wha... Is that okay, Lei...」
+60629	Mary Ann	弱り	「ばっ……い、いいのか、レイ……」	「Wha... Is that okay, Lei...」
 
-60630	Lei	「妙な事を言うガキだ。	「What a strange thing to say, brat.
-60631	+	　お前がそうしろって言ったんだろうが、最初に」	　You were the one who said to do it first.」
+60630	Lei	基本	「妙な事を言うガキだ。	「What a strange thing to say, brat.
+60631	+		　お前がそうしろって言ったんだろうが、最初に」	　You were the one who said to do it first.」
 
-60632	Mary Ann	「あ、そ、そうだけど……」	「Y-yeah, but...」
+60632	Mary Ann	弱り	「あ、そ、そうだけど……」	「Y-yeah, but...」
 
-60633	Kentou Kanami	「い、いいの、ランス……」	「I-is this okay, Rance...」
+60633	Kentou Kanami	基本	「い、いいの、ランス……」	「I-is this okay, Rance...」
 
-60634	Satella	「そうだ、あんなのはきっと嘘っぱちだぞ。	「Yeah, that must be a lie.
-60635	+	　傷が治ったら……」	　Once his wounds heal...」
+60634	Satella	不安	「そうだ、あんなのはきっと嘘っぱちだぞ。	「Yeah, that must be a lie.
+60635	+		　傷が治ったら……」	　Once his wounds heal...」
 
-60636	Rance	「その時は今度こそ、俺が叩き殺す。楽勝だ」	「Then I'll smash him for real next time. Easy win.」
+60636	Rance	基本	「その時は今度こそ、俺が叩き殺す。楽勝だ」	「Then I'll smash him for real next time. Easy win.」
 
-60637	Chaos	「ブーブー！　いっけずー！	「Boo boo! Meanie!
-60638	+	　反対反対、儂はんたーい！」	　Oppose oppose, I'm against it!」
+60637	Chaos		「ブーブー！　いっけずー！	「Boo boo! Meanie!
+60638	+		　反対反対、儂はんたーい！」	　Oppose oppose, I'm against it!」
 
-60639	Rance	「やかましい。これは決定だ。	「Shut up. This is decided.
-60640	+	　その二人はとりあえず牢屋にでも入れておけ」	　Put those two in a cell for now.」
+60639	Rance	だる顔	「やかましい。これは決定だ。	「Shut up. This is decided.
+60640	+		　その二人はとりあえず牢屋にでも入れておけ」	　Put those two in a cell for now.」
 
-60641	-	魔人レイは捕縛され、メアリー・アンと共に	Fiend Lei was captured, and together with Mary Ann
-60642	+	投獄されていった。	was imprisoned.
+60641	-		魔人レイは捕縛され、メアリー・アンと共に	Fiend Lei was captured, and together with Mary Ann
+60642	+		投獄されていった。	was imprisoned.
 
-60643	-	雷の魔人との闘争は、こうして幕を閉じた。	Thus, the struggle with the Lightning Fiend came to an end.
+60643	-		雷の魔人との闘争は、こうして幕を閉じた。	Thus, the struggle with the Lightning Fiend came to an end.

@@ -5,54 +5,54 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Blue Monster Soldier	汎用魔物兵青	Male
 
-156693	Rance	「分かった……降伏、する……」	「Fine... I surrender...」
+156693	Rance	だる顔	「分かった……降伏、する……」	「Fine... I surrender...」
 
-156694	Lia Parapara Leazas	「ダーリン！」	「Darling!」
+156694	Lia Parapara Leazas	基本	「ダーリン！」	「Darling!」
 
-156695	Rance	「し、仕方ないだろう。	「I-it can't be helped.
-156696	+	　俺様の首には今も刃が	　There's still a blade pressed right against my neck.」
-156697	+	　ピッタリくっついてるんだぞ」	
+156695	Rance	真剣	「し、仕方ないだろう。	「I-it can't be helped.
+156696	+		　俺様の首には今も刃が	　There's still a blade pressed right against my neck.」
+156697	+		　ピッタリくっついてるんだぞ」	
 
-156698	Lia Parapara Leazas	「うう……ダーリンがそう言う、なら……」	「Uuu... if Darling says so, then...」
+156698	Lia Parapara Leazas	基本	「うう……ダーリンがそう言う、なら……」	「Uuu... if Darling says so, then...」
 
-156699	Silky Littleraisin	「よし、では……	「Good, then...
-156700	+	　お前は私の命令を聞いてもらうぞ」	　you will obey my orders.」
+156699	Silky Littleraisin		「よし、では……	「Good, then...
+156700	+		　お前は私の命令を聞いてもらうぞ」	　you will obey my orders.」
 
-156701	Rance	「うぐぐ……仕方ないな……」	「Ugh... no choice...」
+156701	Rance	だる顔	「うぐぐ……仕方ないな……」	「Ugh... no choice...」
 
-156702	-	…………	............
+156702	-		…………	............
 
-156703	-	……	......
+156703	-		……	......
 
-156704	-	そしてランスはシルキィに連れられて、	And so Rance was taken by Silky
-156705	+	魔軍の陣地までやってきた。	to the Monster Army's camp.
+156704	-		そしてランスはシルキィに連れられて、	And so Rance was taken by Silky
+156705	+		魔軍の陣地までやってきた。	to the Monster Army's camp.
 
-156706	Rance	「ん？」	「Hm?」
+156706	Rance		「ん？」	「Hm?」
 
-156707	-	そしてランスはギロチン台に固定された。	Then Rance was fixed to a guillotine platform.
+156707	-		そしてランスはギロチン台に固定された。	Then Rance was fixed to a guillotine platform.
 
-156708	Rance	「んんんんんんん！？」	「Nnnnnnnn!?」
+156708	Rance		「んんんんんんん！？」	「Nnnnnnnn!?」
 
-156709	Rance	「あれ？　俺、なんでこんなことに！？」	「Wait? Why am I in this situation!?」
+156709	Rance	驚き	「あれ？　俺、なんでこんなことに！？」	「Wait? Why am I in this situation!?」
 
-156710	Green Monster Soldier	「へー、あれが人類軍の王かー。	「Heh, so that's the king of the human army.
-156711	+	　頭悪そうな顔してるなー」	　He looks dumb.」
+156710	Green Monster Soldier	基本	「へー、あれが人類軍の王かー。	「Heh, so that's the king of the human army.
+156711	+		　頭悪そうな顔してるなー」	　He looks dumb.」
 
-156712	Blue Monster Soldier	「へへへ、今まで散々手間かけさせやがって。	「Hehehe, you caused us so much trouble.
-156713	+	　とっとと死ねってんだ」	　Just die already.」
+156712	Blue Monster Soldier		「へへへ、今まで散々手間かけさせやがって。	「Hehehe, you caused us so much trouble.
+156713	+		　とっとと死ねってんだ」	　Just die already.」
 
-156714	Rance	「がー！　ミスったー！」	「Gah! I messed up!」
+156714	Rance	怒り	「がー！　ミスったー！」	「Gah! I messed up!」
 
-156715	Rance	「やり直しだー！　やり直しを要求するー！」	「Redo! I demand a redo!」
+156715	Rance		「やり直しだー！　やり直しを要求するー！」	「Redo! I demand a redo!」
 
-156716	-	　	　
-156717	+	　　＜ざくーっ＞	　　＜Slice＞
+156716	-		　	　
+156717	+		　　＜ざくーっ＞	　　＜Slice＞
 
-156718	-	ランスの首がスポーンと体から離れて飛んでいった。	Rance's head flew clean off his body.
+156718	-		ランスの首がスポーンと体から離れて飛んでいった。	Rance's head flew clean off his body.
 
-156719	-	…………	............
+156719	-		…………	............
 
-156720	-	……	......
+156720	-		……	......
 
-156721	-	残念。	Too bad.
-156722	+	ランスの冒険は終わってしまった。	Rance's adventure has ended.
+156721	-		残念。	Too bad.
+156722	+		ランスの冒険は終わってしまった。	Rance's adventure has ended.

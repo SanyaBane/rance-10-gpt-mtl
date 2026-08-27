@@ -1,196 +1,196 @@
 # 33130	６１１／決戦前夜／レリコフ	
 * Lelikov Helman	レリコフ２	Female
 
-205883	Lelikov Helman	「あーっ、＜エール＞だー！」	「Aah, it's ＜エール＞!」
+205883	Lelikov Helman	基本	「あーっ、＜エール＞だー！」	「Aah, it's ＜エール＞!」
 
-205884	-	あなたの前に現れたのはレリコフだった。	The one who appeared before you was Lelikov Helman.
+205884	-		あなたの前に現れたのはレリコフだった。	The one who appeared before you was Lelikov Helman.
 
-205885	Lelikov Helman	「とーっ！」	「Toh!」
+205885	Lelikov Helman	きゃはは！	「とーっ！」	「Toh!」
 
-205886	-	どさーっとレリコフが	With a thud, Lelikov Helman
-205887	+	あなたの膝の上に飛び込んできた。	jumped onto your lap.
+205886	-		どさーっとレリコフが	With a thud, Lelikov Helman
+205887	+		あなたの膝の上に飛び込んできた。	jumped onto your lap.
 
-205888	Lelikov Helman	「えへへへ、みんな寝ちゃって暇だったんだー。	「Ehehehe, everyone was sleeping so I was bored.
-205889	+	　一緒にお喋りしよー」	　Let's chat together~」
+205888	Lelikov Helman		「えへへへ、みんな寝ちゃって暇だったんだー。	「Ehehehe, everyone was sleeping so I was bored.
+205889	+		　一緒にお喋りしよー」	　Let's chat together~」
 
-205890	-	ニコニコと笑いながら、	Smiling brightly,
-205891	+	レリコフはあなたの隣のソファーに	Lelikov Helman moved to sit
-205892	+	よいしょと座り直した。	on the sofa beside you.
+205890	-		ニコニコと笑いながら、	Smiling brightly,
+205891	+		レリコフはあなたの隣のソファーに	Lelikov Helman moved to sit
+205892	+		よいしょと座り直した。	on the sofa beside you.
 
-205893	Lelikov Helman	「温泉って来たの久し振りだけど……	「It's been a while since I went to a hot spring...
-205894	+	　結構退屈な場所なんだねぇ」	　It's pretty boring, huh.」
+205893	Lelikov Helman	基本	「温泉って来たの久し振りだけど……	「It's been a while since I went to a hot spring...
+205894	+		　結構退屈な場所なんだねぇ」	　It's pretty boring, huh.」
 
-205895	Lelikov Helman	「……あ、でも、みんながいるから、	「...Ah, but since everyone is here,
-205896	+	　ちっともつまらなくないよ」	　it's not boring at all.」
+205895	Lelikov Helman		「……あ、でも、みんながいるから、	「...Ah, but since everyone is here,
+205896	+		　ちっともつまらなくないよ」	　it's not boring at all.」
 
-205897	Lelikov Helman	「えへへ、＜エール＞もいるしね」	「Ehehe, and ＜エール＞ is here too.」
+205897	Lelikov Helman	きゃはは！	「えへへ、＜エール＞もいるしね」	「Ehehe, and ＜エール＞ is here too.」
 
-205898	-	ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
-205899	+	二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
+205898	-		ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
+205899	+		二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
 
-205900	-	しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
-205901	+	むしろ落ち着くとあなたは思った。	In fact, you feel calm.
+205900	-		しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
+205901	+		むしろ落ち着くとあなたは思った。	In fact, you feel calm.
 
-205902	-	なんとなく、	Somehow,
-205903	+	まったりとした時間が流れる。	a relaxed time flows gently.
+205902	-		なんとなく、	Somehow,
+205903	+		まったりとした時間が流れる。	a relaxed time flows gently.
 
-205904	Lelikov Helman	「もしかして、＜エール＞、怖い？」	「Maybe you're scared, ＜エール＞?」
+205904	Lelikov Helman	基本	「もしかして、＜エール＞、怖い？」	「Maybe you're scared, ＜エール＞?」
 
-205905	-	そうかも知れない。	It might be true.
-205906	+	自分は魔王との再戦を恐れているのかも知れない。	You might be afraid of fighting the Demon King again.
+205905	-		そうかも知れない。	It might be true.
+205906	+		自分は魔王との再戦を恐れているのかも知れない。	You might be afraid of fighting the Demon King again.
 
-205907	-	あなたはそう思った。	That's what you thought.
+205907	-		あなたはそう思った。	That's what you thought.
 
-205908	Lelikov Helman	「にひひひひ〜……」	「Nihihihihi~...」
+205908	Lelikov Helman	きゃはは！	「にひひひひ〜……」	「Nihihihihi~...」
 
-205909	-	むにぃ〜〜〜。	Muni~~~.
-205910	+	レリコフの手であなたの両頬が	Lelikov Helman grabbed both your cheeks
-205911	+	左右に引っ張られる。	and pulled them sideways.
+205909	-		むにぃ〜〜〜。	Muni~~~.
+205910	+		レリコフの手であなたの両頬が	Lelikov Helman grabbed both your cheeks
+205911	+		左右に引っ張られる。	and pulled them sideways.
 
-205912	Lelikov Helman	「そーゆーときはね、	「When that happens,
-205913	+	　無理してでも笑うんだよ？」	　force yourself to smile, okay?」
+205912	Lelikov Helman	基本	「そーゆーときはね、	「When that happens,
+205913	+		　無理してでも笑うんだよ？」	　force yourself to smile, okay?」
 
-205914	Lelikov Helman	「ヘルマン家、家訓。	「Helman family rule.
-205915	+	　その一、いつも笑顔で明るく楽しく」	　Number one, always smile brightly and happily.」
+205914	Lelikov Helman	きゃはは！	「ヘルマン家、家訓。	「Helman family rule.
+205915	+		　その一、いつも笑顔で明るく楽しく」	　Number one, always smile brightly and happily.」
 
-205916	Lelikov Helman	「ほら、にぃ〜〜〜って」	「See, like thiiis~」
+205916	Lelikov Helman		「ほら、にぃ〜〜〜って」	「See, like thiiis~」
 
-205917	Lelikov Helman	「えへへ……	「Ehehe...
-205918	+	　と言ってもボクもいつも	　Though even I can't always
-205919	+	　笑えてるわけじゃないけどね」	　smile either.」
+205917	Lelikov Helman	基本	「えへへ……	「Ehehe...
+205918	+		　と言ってもボクもいつも	　Though even I can't always
+205919	+		　笑えてるわけじゃないけどね」	　smile either.」
 
-205920	Lelikov Helman	「あのね、＜エール＞……」	「Hey, ＜エール＞...
+205920	Lelikov Helman		「あのね、＜エール＞……」	「Hey, ＜エール＞...
 
-205921	Lelikov Helman	「実はボクね、不治の病にかかってたんだ」	「Actually, I had an incurable disease.」
+205921	Lelikov Helman		「実はボクね、不治の病にかかってたんだ」	「Actually, I had an incurable disease.」
 
-205922	Lelikov Helman	「あ、と言っても小っちゃい頃ね、	「Ah, but it was when I was little,
-205923	+	　産まれてすぐに病気が見つかって、	　right after I was born they found it,
-205924	+	　せいぜい十年しか生きられないって診断されたの」	　and said I could only live about ten years.」
+205922	Lelikov Helman		「あ、と言っても小っちゃい頃ね、	「Ah, but it was when I was little,
+205923	+		　産まれてすぐに病気が見つかって、	　right after I was born they found it,
+205924	+		　せいぜい十年しか生きられないって診断されたの」	　and said I could only live about ten years.」
 
-205925	Lelikov Helman	「とってもとっても体が弱くてね、	「My body was extremely weak,
-205926	+	　小っちゃい頃は外にも出られなかったの」	　so I couldn't even go outside as a child.」
+205925	Lelikov Helman		「とってもとっても体が弱くてね、	「My body was extremely weak,
+205926	+		　小っちゃい頃は外にも出られなかったの」	　so I couldn't even go outside as a child.」
 
-205927	Lelikov Helman	「毎日退屈だったけど……	「Every day was boring but...
-205928	+	　つまらなくはなかったよ」	　it wasn't unfulfilling.」
+205927	Lelikov Helman		「毎日退屈だったけど……	「Every day was boring but...
+205928	+		　つまらなくはなかったよ」	　it wasn't unfulfilling.」
 
-205929	Lelikov Helman	「お母さんや、パットンおじさん、	「Mom, Uncle Patton,
-205930	+	　それにヘルマンの人たくさんいたから」	　and lots of people from the Helman family were there.」
+205929	Lelikov Helman		「お母さんや、パットンおじさん、	「Mom, Uncle Patton,
+205930	+		　それにヘルマンの人たくさんいたから」	　and lots of people from the Helman family were there.」
 
-205931	Lelikov Helman	「あのね、ボクが早くに死んじゃうのは	「They knew I would die young,
-205932	+	　分かっていたから、	　so
-205933	+	　笑っていて欲しかったんだって」	　they wanted me to smile.」
+205931	Lelikov Helman		「あのね、ボクが早くに死んじゃうのは	「They knew I would die young,
+205932	+		　分かっていたから、	　so
+205933	+		　笑っていて欲しかったんだって」	　they wanted me to smile.」
 
-205934	Lelikov Helman	「それも十年間で普通の人の一生分、	「In those ten years, they wanted me to live
-205935	+	　いっぱいいっぱい」	　a full lifetime's worth.」
+205934	Lelikov Helman		「それも十年間で普通の人の一生分、	「In those ten years, they wanted me to live
+205935	+		　いっぱいいっぱい」	　a full lifetime's worth.」
 
-205936	Lelikov Helman	「だから、ボク、辛いって思ったことは	「So I never once thought it was painful.
-205937	+	　ちっともなかったんだ。	　Instead,
-205938	+	　むしろ、毎日毎日笑って過ごしてたの」	　I smiled and laughed every single day.」
+205936	Lelikov Helman		「だから、ボク、辛いって思ったことは	「So I never once thought it was painful.
+205937	+		　ちっともなかったんだ。	　Instead,
+205938	+		　むしろ、毎日毎日笑って過ごしてたの」	　I smiled and laughed every single day.」
 
-205939	Lelikov Helman	「そしたらね、	「And then,
-205940	+	　気づいたら病気がパーッと治ってた」	　one day the disease suddenly disappeared.」
+205939	Lelikov Helman	きゃはは！	「そしたらね、	「And then,
+205940	+		　気づいたら病気がパーッと治ってた」	　one day the disease suddenly disappeared.」
 
-205941	Lelikov Helman	「きっとね、笑うってとってもすごいんだよ」	「Smiling must be really powerful.」
+205941	Lelikov Helman		「きっとね、笑うってとってもすごいんだよ」	「Smiling must be really powerful.」
 
-205942	-	少なくとも、レリコフはそう信じている。	At least, Lelikov Helman believes that.
-205943	+	その言葉には深い実感が伴っていた。	Those words carried deep conviction.
+205942	-		少なくとも、レリコフはそう信じている。	At least, Lelikov Helman believes that.
+205943	+		その言葉には深い実感が伴っていた。	Those words carried deep conviction.
 
-205944	Lelikov Helman	「あ、ちなみに病気自体は	「Ah, by the way, the disease itself
-205945	+	　今はもう治るものだから、	　is curable now,
-205946	+	　再発の心配もないんだよ」	　so no worry of recurrence.」
+205944	Lelikov Helman	基本	「あ、ちなみに病気自体は	「Ah, by the way, the disease itself
+205945	+		　今はもう治るものだから、	　is curable now,
+205946	+		　再発の心配もないんだよ」	　so no worry of recurrence.」
 
-205947	Lelikov Helman	「ミックスが薬を見つけてくれたんだって」	「Mix found the medicine.」
+205947	Lelikov Helman		「ミックスが薬を見つけてくれたんだって」	「Mix found the medicine.」
 
-205948	Lelikov Helman	「ありがとーって言ったら、	「When I thanked her,
-205949	+	　あっそ、だってさ」	　she just said 'oh, really.'」
+205948	Lelikov Helman		「ありがとーって言ったら、	「When I thanked her,
+205949	+		　あっそ、だってさ」	　she just said 'oh, really.'」
 
-205950	Lelikov Helman	「アハハ、ミックスらしいよねー」	「Ahaha, that's so like Mix~」
+205950	Lelikov Helman	きゃはは！	「アハハ、ミックスらしいよねー」	「Ahaha, that's so like Mix~」
 
-205951	Lelikov Helman	「えーと……あー、うー……	「Umm... ah, uh...
-205952	+	　なんの話がしたかったんだっけ？」	　What was I trying to say?」
+205951	Lelikov Helman	基本	「えーと……あー、うー……	「Umm... ah, uh...
+205952	+		　なんの話がしたかったんだっけ？」	　What was I trying to say?」
 
-205953	Lelikov Helman	「ああ、そうだ」	「Ah, right.」
+205953	Lelikov Helman		「ああ、そうだ」	「Ah, right.」
 
-205954	Lelikov Helman	「つまりね、笑ってれば大抵なんとかなるよ」	「Basically, if you smile, things usually work out.」
+205954	Lelikov Helman	きゃはは！	「つまりね、笑ってれば大抵なんとかなるよ」	「Basically, if you smile, things usually work out.」
 
-205955	Lelikov Helman	「明日、とーっても怖いけど、	「Tomorrow is really scary,
-205956	+	　でも、いっぱい笑おうね」	　but let's smile a lot.」
+205955	Lelikov Helman		「明日、とーっても怖いけど、	「Tomorrow is really scary,
+205956	+		　でも、いっぱい笑おうね」	　but let's smile a lot.」
 
-205957	Lelikov Helman	「きっと、そうしたら何が来ても勝てるよ」	「I'm sure we'll win no matter what comes.」
+205957	Lelikov Helman		「きっと、そうしたら何が来ても勝てるよ」	「I'm sure we'll win no matter what comes.」
 
-205958	Lelikov Helman	「だから、＜エール＞も笑っててね。	「So ＜エール＞, you smile too.
-205959	+	　ボクも笑うから」	　I'll smile too.」
-205960	+	「ほらほら、笑顔はこうだよー。	「Here, a smile is like this~.
-205961	+	　にーーっこり」	　Biiiig smile.」
+205958	Lelikov Helman	基本	「だから、＜エール＞も笑っててね。	「So ＜エール＞, you smile too.
+205959	+		　ボクも笑うから」	　I'll smile too.」
+205960	+		「ほらほら、笑顔はこうだよー。	「Here, a smile is like this~.
+205961	+		　にーーっこり」	　Biiiig smile.」
 
-205962	-	レリコフがあなたの両頬に触れて、	Lelikov Helman touched both your cheeks
-205963	+	顔をむにむにと動かす。	and squished your face around.
+205962	-		レリコフがあなたの両頬に触れて、	Lelikov Helman touched both your cheeks
+205963	+		顔をむにむにと動かす。	and squished your face around.
 
-205964	Lelikov Helman	「アハハハ！　変な顔になっちゃったー！	「Ahahaha! You look so weird now!
-205965	+	　キャハハハハハハハハハ！」	　Kyahahahahahahaha!」
+205964	Lelikov Helman	きゃはは！	「アハハハ！　変な顔になっちゃったー！	「Ahahaha! You look so weird now!
+205965	+		　キャハハハハハハハハハ！」	　Kyahahahahahahaha!」
 
-205966	-	まるで幼児のように、	Like a little child,
-205967	+	レリコフは無邪気に笑い転げた。	Lelikov Helman rolled around laughing innocently.
+205966	-		まるで幼児のように、	Like a little child,
+205967	+		レリコフは無邪気に笑い転げた。	Lelikov Helman rolled around laughing innocently.
 
-205968	-	あなたは少し傷ついた。	You felt a bit hurt.
+205968	-		あなたは少し傷ついた。	You felt a bit hurt.
 
-205969	Lelikov Helman	「アハハハハハハ！　そうそう！」	「Ahahahahaha! Yes, yes!」
+205969	Lelikov Helman		「アハハハハハハ！　そうそう！」	「Ahahahahaha! Yes, yes!」
 
-205970	Lelikov Helman	「キャハハハハハハハハハハハハハハ！」	「Kyahahahahahahahahahahaha!」
+205970	Lelikov Helman		「キャハハハハハハハハハハハハハハ！」	「Kyahahahahahahahahahahaha!」
 
-205971	-	よほど面白かったのか、	It must have been really funny,
-205972	+	レリコフはソファーの上で笑い転げた。	as Lelikov Helman rolled around laughing on the sofa.
+205971	-		よほど面白かったのか、	It must have been really funny,
+205972	+		レリコフはソファーの上で笑い転げた。	as Lelikov Helman rolled around laughing on the sofa.
 
-205973	-	あなたはちょっと傷ついた。	You felt a bit hurt.
+205973	-		あなたはちょっと傷ついた。	You felt a bit hurt.
 
-205974	Lelikov Helman	「あっ、あのねあのね、あともう一つね」	「Ah, um um, one more thing.」
+205974	Lelikov Helman	基本	「あっ、あのねあのね、あともう一つね」	「Ah, um um, one more thing.」
 
-205975	Lelikov Helman	「明日、魔王を倒したらさ、	「After we defeat the Demon King tomorrow,
-205976	+	　ボク達と冒険に出ようよ！」	　let's go on an adventure together!」
+205975	Lelikov Helman	きゃはは！	「明日、魔王を倒したらさ、	「After we defeat the Demon King tomorrow,
+205976	+		　ボク達と冒険に出ようよ！」	　let's go on an adventure together!」
 
-205977	Lelikov Helman	「ヒーローと長田君も一緒に！	「With Hero and Nagata-kun too!
-205978	+	　きっと、毎日いっぱいいっぱい楽しいよ！」	　It'll be so much fun every day!」
+205977	Lelikov Helman		「ヒーローと長田君も一緒に！	「With Hero and Nagata-kun too!
+205978	+		　きっと、毎日いっぱいいっぱい楽しいよ！」	　It'll be so much fun every day!」
 
-205979	Lelikov Helman	「んと、だからね、だからね……」	「Um, so, so...
+205979	Lelikov Helman	基本	「んと、だからね、だからね……」	「Um, so, so...
 
-205980	Lelikov Helman	「明日は死んじゃ、やだよ？」	「Don't die tomorrow, okay?」
+205980	Lelikov Helman		「明日は死んじゃ、やだよ？」	「Don't die tomorrow, okay?」
 
-205981	-	レリコフの瞳は真剣そのものだった。	Lelikov Helman's eyes were completely serious.
+205981	-		レリコフの瞳は真剣そのものだった。	Lelikov Helman's eyes were completely serious.
 
-205982	Lelikov Helman	「＜エール＞ってふらーっと	「＜エール＞ has this vibe like
-205983	+	　いなくなりそうな雰囲気があるでしょ？	　you might suddenly disappear, right?
-205984	+	　だからね、ちょっと不安なの」	　So I'm a bit anxious.」
+205982	Lelikov Helman		「＜エール＞ってふらーっと	「＜エール＞ has this vibe like
+205983	+		　いなくなりそうな雰囲気があるでしょ？	　you might suddenly disappear, right?
+205984	+		　だからね、ちょっと不安なの」	　So I'm a bit anxious.」
 
-205985	-	そう言われても	Even when told that,
-205986	+	あなたにはそんな自覚はなかった。	you had no such awareness.
-205987	+	そうなのだろうか？　とあなたは思った。	You wondered if that was true.
+205985	-		そう言われても	Even when told that,
+205986	+		あなたにはそんな自覚はなかった。	you had no such awareness.
+205987	+		そうなのだろうか？　とあなたは思った。	You wondered if that was true.
 
-205988	Lelikov Helman	「ホント？　ホントのホント？」	「Really? Really really?」
+205988	Lelikov Helman		「ホント？　ホントのホント？」	「Really? Really really?」
 
-205989	-	あなたは頷く。	You nodded.
+205989	-		あなたは頷く。	You nodded.
 
-205990	Lelikov Helman	「えっへへー、じゃあボクと約束ね！	「Ehehe~ Then promise me!
-205991	+	　絶対に死んだりいなくなったりしないって！」	　That you absolutely won't die or disappear!」
+205990	Lelikov Helman	きゃはは！	「えっへへー、じゃあボクと約束ね！	「Ehehe~ Then promise me!
+205991	+		　絶対に死んだりいなくなったりしないって！」	　That you absolutely won't die or disappear!」
 
-205992	Lelikov Helman	「ゆーびきーり、げーんまん♪」	「Pinky promise♪」
+205992	Lelikov Helman		「ゆーびきーり、げーんまん♪」	「Pinky promise♪」
 
-205993	-	小指と小指を絡ませて上下に振る。	You linked pinkies and shook them up and down.
-205994	+	そんなあどけない約束をあなたはレリコフとした。	You made such an innocent promise with Lelikov Helman.
+205993	-		小指と小指を絡ませて上下に振る。	You linked pinkies and shook them up and down.
+205994	+		そんなあどけない約束をあなたはレリコフとした。	You made such an innocent promise with Lelikov Helman.
 
-205995	Lelikov Helman	「ね、＜エール＞」	「Hey, ＜エール＞.」
+205995	Lelikov Helman	基本	「ね、＜エール＞」	「Hey, ＜エール＞.」
 
-205996	Lelikov Helman	「だいすき。	「I love you.
-205997	+	　明日は絶対に勝とうね」	　Let's definitely win tomorrow.」
+205996	Lelikov Helman	きゃはは！	「だいすき。	「I love you.
+205997	+		　明日は絶対に勝とうね」	　Let's definitely win tomorrow.」
 
-205998	-	あなたは力強く頷いた。	You nodded strongly.
+205998	-		あなたは力強く頷いた。	You nodded strongly.
 
-205999	-	…………	............
+205999	-		…………	............
 
-206000	-	……	......
+206000	-		……	......
 
-206001	-	あなたは『親友』との	You spent
-206002	+	かけがえのない時間を過ごした。	irreplaceable time with your 'best friend.'
+206001	-		あなたは『親友』との	You spent
+206002	+		かけがえのない時間を過ごした。	irreplaceable time with your 'best friend.'
 
-206003	-	そして……	And then......
+206003	-		そして……	And then......
 
-206004	-	運命の朝を迎える。	You greet the fated morning.
+206004	-		運命の朝を迎える。	You greet the fated morning.

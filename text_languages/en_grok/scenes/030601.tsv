@@ -4,124 +4,124 @@
 * Sill Plain	シィル	Female
 * Urza Pranaice	ウルザ	Female
 
-17749	Pitten Chao	「ま……そういうわけで、またよろしくだ」	「Well... as for that, I'm counting on you again.」
+17749	Pitten Chao	基本	「ま……そういうわけで、またよろしくだ」	「Well... as for that, I'm counting on you again.」
 
-17750	Rance	「ふん……まぁいい。	「Hmph... fine.
-17751	+	　一番危険な所に押し込んでやるからな」	I'll push you into the most dangerous place.」
+17750	Rance	だる顔	「ふん……まぁいい。	「Hmph... fine.
+17751	+		　一番危険な所に押し込んでやるからな」	I'll push you into the most dangerous place.」
 
-17752	-	パランチョ王国総大将、ピッテン・チャオが	The Commander-in-Chief of Parancho Kingdom, Pitten Chao,
-17753	+	ランスの許に、挨拶に来ていた。	had come to pay his respects to Rance.
+17752	-		パランチョ王国総大将、ピッテン・チャオが	The Commander-in-Chief of Parancho Kingdom, Pitten Chao,
+17753	+		ランスの許に、挨拶に来ていた。	had come to pay his respects to Rance.
 
-17754	Pitten Chao	「ふむ…………」	「Hmm............」
+17754	Pitten Chao	基本	「ふむ…………」	「Hmm............」
 
-17755	Rance	「なんだ金ぴか野郎。	「What is it, Goldie?
-17756	+	　人の顔をジロジロと」	Staring at my face like that.」
+17755	Rance	真剣	「なんだ金ぴか野郎。	「What is it, Goldie?
+17756	+		　人の顔をジロジロと」	Staring at my face like that.」
 
-17757	Pitten Chao	「ヘルマンの時よりも、ずいぶん安定しているな。	「You seem much more stable than during the Helman incident.
-17758	+	　隣にいる女性のせいか」	Is it because of the woman beside you?」
+17757	Pitten Chao	フッ	「ヘルマンの時よりも、ずいぶん安定しているな。	「You seem much more stable than during the Helman incident.
+17758	+		　隣にいる女性のせいか」	Is it because of the woman beside you?」
 
-17759	Sill Plain	「えっ……」	「Eh...」
+17759	Sill Plain	きょとん	「えっ……」	「Eh...」
 
-17760	Rance	「馬鹿か。	「Are you stupid?
-17761	+	　こんな奴隷が一匹いるからなんだというのだ」	What does it matter if I have one slave like this?」
+17760	Rance	真剣	「馬鹿か。	「Are you stupid?
+17761	+		　こんな奴隷が一匹いるからなんだというのだ」	What does it matter if I have one slave like this?」
 
-17762	Pitten Chao	「ふっ、そうかな」	「Heh, I wonder.」
+17762	Pitten Chao	基本	「ふっ、そうかな」	「Heh, I wonder.」
 
-17763	Sill Plain	「こ、こんにちは。	「H-Hello.
-17764	+	　シィル・プラインと言います」	My name is Sill Plain.」
+17763	Sill Plain		「こ、こんにちは。	「H-Hello.
+17764	+		　シィル・プラインと言います」	My name is Sill Plain.」
 
-17765	Pitten Chao	「初めて挨拶させて頂く。	「This is our first introduction.
-17766	+	　パランチョ王国のピッテン・チャオだ。	I am Pitten Chao of the Parancho Kingdom.
-17767	+	　一応、軍を預かっている」	I am currently in charge of the military.」
+17765	Pitten Chao		「初めて挨拶させて頂く。	「This is our first introduction.
+17766	+		　パランチョ王国のピッテン・チャオだ。	I am Pitten Chao of the Parancho Kingdom.
+17767	+		　一応、軍を預かっている」	I am currently in charge of the military.」
 
-17768	Sill Plain	「あ、将軍さん……は、はい。	「Ah, a general... y-yes.
-17769	+	　よろしくお願いします」	It's nice to meet you.」
+17768	Sill Plain	考え中	「あ、将軍さん……は、はい。	「Ah, a general... y-yes.
+17769	+		　よろしくお願いします」	It's nice to meet you.」
 
-17770	Sill Plain	（ランス様、すごく美形で……貫禄ある方ですね。	（Rance-sama, he's very handsome... and dignified.）
-17771	+	　王様か王子様かと思いました……）	（I thought he was a king or a prince...）
+17770	Sill Plain		（ランス様、すごく美形で……貫禄ある方ですね。	（Rance-sama, he's very handsome... and dignified.）
+17771	+		　王様か王子様かと思いました……）	（I thought he was a king or a prince...）
 
-17772	Rance	（馬鹿が、大したことないわ。	（You idiot, he's nothing special.）
-17773	+	　こいつな、ホモなんだぞ。がははは）	（By the way, this guy's gay. Gahaha.）
+17772	Rance	基本	（馬鹿が、大したことないわ。	（You idiot, he's nothing special.）
+17773	+		　こいつな、ホモなんだぞ。がははは）	（By the way, this guy's gay. Gahaha.）
 
-17774	Sill Plain	（えっ、えっ、そうなんですか！？）	（Eh, eh, is that true!?）
+17774	Sill Plain	慌て	（えっ、えっ、そうなんですか！？）	（Eh, eh, is that true!?）
 
-17775	Urza Pranaice	「しかし……驚きました。パランチョ王国とは……	「But... I was surprised. The Parancho Kingdom...
-17776	+	　ランスさんも相変わらず、	As always, Rance-san, we never know
-17777	+	　どこで誰と知り合っているか分かりませんね」	　who you'll meet or where.」
+17775	Urza Pranaice	基本	「しかし……驚きました。パランチョ王国とは……	「But... I was surprised. The Parancho Kingdom...
+17776	+		　ランスさんも相変わらず、	As always, Rance-san, we never know
+17777	+		　どこで誰と知り合っているか分かりませんね」	　who you'll meet or where.」
 
-17778	Rance	「こいつはパットンが勝手に連れてきたんだ。	「Patton brought this guy on his own.
-17779	+	　俺は関係ない」	I have nothing to do with it.」
+17778	Rance	だる顔	「こいつはパットンが勝手に連れてきたんだ。	「Patton brought this guy on his own.
+17779	+		　俺は関係ない」	I have nothing to do with it.」
 
-17780	Pitten Chao	「……それに、リーザスにヘルマン……どころか、	「...Besides, hearing that you've unified
-17781	+	　ゼスまで従えたと聞いた俺の方が、	　Leazas, Helman... and even Zeth...
-17782	+	　驚きは大きいかと思うぞ」	I think my surprise is far greater.」
+17780	Pitten Chao	基本	「……それに、リーザスにヘルマン……どころか、	「...Besides, hearing that you've unified
+17781	+		　ゼスまで従えたと聞いた俺の方が、	　Leazas, Helman... and even Zeth...
+17782	+		　驚きは大きいかと思うぞ」	I think my surprise is far greater.」
 
-17783	Urza Pranaice	「……そうですね。そうかもしれません」	「...Yes. You may be right.」
+17783	Urza Pranaice	感謝	「……そうですね。そうかもしれません」	「...Yes. You may be right.」
 
-17784	Pitten Chao	「うちの部下もいくらか連れてきた。	「I've brought some of my subordinates.
-17785	+	　適当に使ってくれ」	Use them as you see fit.」
+17784	Pitten Chao	基本	「うちの部下もいくらか連れてきた。	「I've brought some of my subordinates.
+17785	+		　適当に使ってくれ」	Use them as you see fit.」
 
-17786	Urza Pranaice	「噂のパランナイツですか……	「The famous Paran Knights...
-17787	+	　大切に使わせて頂きますね」	I will make good use of them.」
+17786	Urza Pranaice		「噂のパランナイツですか……	「The famous Paran Knights...
+17787	+		　大切に使わせて頂きますね」	I will make good use of them.」
 
-17788	Rance	「どのくらいだ？　１万くらいか」	「How many? About 10,000?」
+17788	Rance		「どのくらいだ？　１万くらいか」	「How many? About 10,000?」
 
-17789	Pitten Chao	「300くらいかな」	「About 300, I believe.」
+17789	Pitten Chao	フッ	「300くらいかな」	「About 300, I believe.」
 
-17790	Rance	「はーーーーー！？	「Haaah!?
-17791	+	　そんなもん、一日で全滅するぞ」	With that amount, they'll be wiped out in a day.」
+17790	Rance	驚き	「はーーーーー！？	「Haaah!?
+17791	+		　そんなもん、一日で全滅するぞ」	With that amount, they'll be wiped out in a day.」
 
-17792	Urza Pranaice	「パランナイツはヘルマンやリーザスにも負けない、	「I've heard the Paran Knights' training is superb,
-17793	+	　素晴らしい練度と聞きました。	　not losing even to Helman or Leazas.
-17794	+	　きちんと確認させて頂きます」	I will make sure to verify that.」
+17792	Urza Pranaice	基本	「パランナイツはヘルマンやリーザスにも負けない、	「I've heard the Paran Knights' training is superb,
+17793	+		　素晴らしい練度と聞きました。	　not losing even to Helman or Leazas.
+17794	+		　きちんと確認させて頂きます」	I will make sure to verify that.」
 
-17795	Pitten Chao	「どうぞ、存分に」	「Please, do as you like.」
+17795	Pitten Chao		「どうぞ、存分に」	「Please, do as you like.」
 
-17796	Sill Plain	「あのう……すみません。	「Um... excuse me.
-17797	+	　パランチョ王国って、どんな国なんですか？	What kind of country is Parancho?
-17798	+	　私、聞いたことなくて……」	I've never heard of it...」
+17796	Sill Plain	考え中	「あのう……すみません。	「Um... excuse me.
+17797	+		　パランチョ王国って、どんな国なんですか？	What kind of country is Parancho?
+17798	+		　私、聞いたことなくて……」	I've never heard of it...」
 
-17799	Rance	「なんだ、知らんのかお前。不勉強だな」	「What, you didn't know? You're so uneducated.」
+17799	Rance	基本	「なんだ、知らんのかお前。不勉強だな」	「What, you didn't know? You're so uneducated.」
 
-17800	Sill Plain	「うっ……ランス様はご存じなんですか？」	「Ugh... and do you know it, Rance-sama?」
+17800	Sill Plain	恥	「うっ……ランス様はご存じなんですか？」	「Ugh... and do you know it, Rance-sama?」
 
-17801	Rance	「俺が知るわけ無いだろう。	「How could I possibly know.
-17802	+	　どうせ豆粒みたいな国だ」	It's probably just some tiny country.」
+17801	Rance	基本	「俺が知るわけ無いだろう。	「How could I possibly know.
+17802	+		　どうせ豆粒みたいな国だ」	It's probably just some tiny country.」
 
-17803	Sill Plain	「ら、ランス様っ……！	「R-Rance-sama...!
-17804	+	　ピッテンさんがいるのに……」	Pitten-san is right here...」
+17803	Sill Plain	慌て	「ら、ランス様っ……！	「R-Rance-sama...!
+17804	+		　ピッテンさんがいるのに……」	Pitten-san is right here...」
 
-17805	Pitten Chao	「豆粒か。言い得て妙かもしれんな」	「Tiny, huh? That might be a fitting description.」
+17805	Pitten Chao	フッ	「豆粒か。言い得て妙かもしれんな」	「Tiny, huh? That might be a fitting description.」
 
-17806	Sill Plain	「あの、すみません……」	「Um, I'm sorry...」
+17806	Sill Plain	恥	「あの、すみません……」	「Um, I'm sorry...」
 
-17807	Pitten Chao	「パランチョは……そうだな。こんな国だ」	「Parancho is... well. It's this kind of country.」
+17807	Pitten Chao	基本	「パランチョは……そうだな。こんな国だ」	「Parancho is... well. It's this kind of country.」
 
-17808	-	ピッテンが手を拍つと、	When Pitten clapped his hands,
-17809	+	従者がひとつのザルを持ってきた。	an attendant brought over a basket.
+17808	-		ピッテンが手を拍つと、	When Pitten clapped his hands,
+17809	+		従者がひとつのザルを持ってきた。	an attendant brought over a basket.
 
-17810	Rance	「……なんだこりゃ？　豆か？」	「...What's this? Beans?」
+17810	Rance	真剣	「……なんだこりゃ？　豆か？」	「...What's this? Beans?」
 
-17811	Pitten Chao	「少し囓ってみろ」	「Try biting one.」
+17811	Pitten Chao	基本	「少し囓ってみろ」	「Try biting one.」
 
-17812	Rance	「ただの石とかだったら頭カチ割るからな……	「If it's just a rock, I'll crack your skull...
-17813	+	　ん、んん……っ、げほっ、辛っ！」	*Crunch*, *munch*... *cough*, it's spicy!」
+17812	Rance	イライラ	「ただの石とかだったら頭カチ割るからな……	「If it's just a rock, I'll crack your skull...
+17813	+		　ん、んん……っ、げほっ、辛っ！」	*Crunch*, *munch*... *cough*, it's spicy!」
 
-17814	Sill Plain	「あ、これ……香辛料のピリン豆、ですか？	「Ah, these are... Pirin beans, the spice?
-17815	+	　たまに、お店ですごい値段で売ってますけど……」	Sometimes they're sold for crazy prices in shops...」
+17814	Sill Plain	きょとん	「あ、これ……香辛料のピリン豆、ですか？	「Ah, these are... Pirin beans, the spice?
+17815	+		　たまに、お店ですごい値段で売ってますけど……」	Sometimes they're sold for crazy prices in shops...」
 
-17816	Pitten Chao	「うちの国の名産でな。	「They are a specialty of my country.
-17817	+	　価値はあるが採れるのは少量だ」	Valuable, but only harvested in small quantities.」
+17816	Pitten Chao	基本	「うちの国の名産でな。	「They are a specialty of my country.
+17817	+		　価値はあるが採れるのは少量だ」	Valuable, but only harvested in small quantities.」
 
-17818	Urza Pranaice	「……なるほど。	「...I see.
-17819	+	　確かに、パランチョはそんな国ですね」	Indeed, Parancho is that kind of country.」
+17818	Urza Pranaice	感謝	「……なるほど。	「...I see.
+17819	+		　確かに、パランチョはそんな国ですね」	Indeed, Parancho is that kind of country.」
 
-17820	Pitten Chao	「まぁ、そんなところだ。ではな」	「Well, that's about it. Farewell.」
+17820	Pitten Chao	フッ	「まぁ、そんなところだ。ではな」	「Well, that's about it. Farewell.」
 
-17821	-	口元に笑みを少しだけ浮かべると、	With a slight smile playing on his lips,
-17822	+	ピッテンはマントを翻して退出した。	Pitten flipped his cloak and left.
+17821	-		口元に笑みを少しだけ浮かべると、	With a slight smile playing on his lips,
+17822	+		ピッテンはマントを翻して退出した。	Pitten flipped his cloak and left.
 
-17823	Rance	「ちっ。雑魚なのを誤魔化す為に、	「Hmph. Using vague words to hide his weakness...
-17824	+	　訳の分からん事言いやがって……ぺぺっ」	*Spit*, *pui*.」
+17823	Rance	イライラ	「ちっ。雑魚なのを誤魔化す為に、	「Hmph. Using vague words to hide his weakness...
+17824	+		　訳の分からん事言いやがって……ぺぺっ」	*Spit*, *pui*.」
 
-17825	Sill Plain	「そ、そうではないと思いますけど……」	「I-I don't think that's it...」
+17825	Sill Plain	苦笑	「そ、そうではないと思いますけど……」	「I-I don't think that's it...」

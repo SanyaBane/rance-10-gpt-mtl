@@ -6,55 +6,55 @@
 * Sill Plain	シィル	Female
 * Sachiko Centers	サチコ	Female
 
-62550	-	案内役のロボットの後について、	Following the guide robot,
-62551	+	ランスたちは工場の内部を進んでいく。	Rance and the others advanced through the factory interior.
+62550	-		案内役のロボットの後について、	Following the guide robot,
+62551	+		ランスたちは工場の内部を進んでいく。	Rance and the others advanced through the factory interior.
 
-62552	PG	「あら……？」	「Ara...?」
+62552	PG	基本	「あら……？」	「Ara...?」
 
-62553	Rance	「お？」	「Oh?」
+62553	Rance		「お？」	「Oh?」
 
-62554	PG	「お客様かしら。ごきげんよう」	「Are you customers? Good day.」
+62554	PG		「お客様かしら。ごきげんよう」	「Are you customers? Good day.」
 
-62555	Rance	「うげっ、このロボットは……」	「Ugeh, this robot is...」
+62555	Rance	驚き	「うげっ、このロボットは……」	「Ugeh, this robot is...」
 
-62556	Satella	「……パイアールの戦闘人形か！　シーザー！」	「...Pi-R's combat doll! Caesar!」
+62556	Satella	怒り	「……パイアールの戦闘人形か！　シーザー！」	「...Pi-R's combat doll! Caesar!」
 
-62557	Caesar	「ハイ、シーザー、サテラ様ノテキ、破壊シマス！」	「Yes, Caesar will destroy Satella-sama's enemies!」
+62557	Caesar	基本	「ハイ、シーザー、サテラ様ノテキ、破壊シマス！」	「Yes, Caesar will destroy Satella-sama's enemies!」
 
-62558	PG	「殺風景でごめんなさいね。	「Sorry it's so plain.
-62559	+	　この施設、魔物界の第一工場からの	　This facility is in the middle of moving
-62560	+	　引っ越し中なの」	　from the Monster Realm's first factory.」
+62558	PG		「殺風景でごめんなさいね。	「Sorry it's so plain.
+62559	+		　この施設、魔物界の第一工場からの	　This facility is in the middle of moving
+62560	+		　引っ越し中なの」	　from the Monster Realm's first factory.」
 
-62561	Satella	「…………ん？」	「............Nn?」
+62561	Satella	思考	「…………ん？」	「............Nn?」
 
-62562	Sill Plain	「なんだか……襲ってきたりしないですね」	「Somehow... it doesn't seem like it's attacking us.」
+62562	Sill Plain	きょとん	「なんだか……襲ってきたりしないですね」	「Somehow... it doesn't seem like it's attacking us.」
 
-62563	Rance	「ふん……それなら用はないが……」	「Hmph... Then no need for it...」
+62563	Rance	真剣	「ふん……それなら用はないが……」	「Hmph... Then no need for it...」
 
-62564	Sachiko Centers	「流石のランスさんでも	「Even Rance-san
-62565	+	　ロボットはダメなんですね」	　can't do it with robots.」
+62564	Sachiko Centers	基本	「流石のランスさんでも	「Even Rance-san
+62565	+		　ロボットはダメなんですね」	　can't do it with robots.」
 
-62566	Rance	「ロボットっていうか、動く人形ではないか。	「It's more like moving dolls than robots.
-62567	+	　ヤれそうにない」	　Doesn't look fuckable.」
+62566	Rance	だる顔	「ロボットっていうか、動く人形ではないか。	「It's more like moving dolls than robots.
+62567	+		　ヤれそうにない」	　Doesn't look fuckable.」
 
-62568	PG	「あの子、人類制圧後はこっちに住むから、って。	「That child said he'll live here after conquering humanity.
-62569	+	　……でも、どう考えても急ぎ過ぎよね。	　...But no matter how you look at it, it's too rushed.
-62570	+	　何であんなせっかちな子に育ったのかしら」	　I wonder why he grew up so impatient.」
+62568	PG	基本	「あの子、人類制圧後はこっちに住むから、って。	「That child said he'll live here after conquering humanity.
+62569	+		　……でも、どう考えても急ぎ過ぎよね。	　...But no matter how you look at it, it's too rushed.
+62570	+		　何であんなせっかちな子に育ったのかしら」	　I wonder why he grew up so impatient.」
 
-62571	PG	「あなた……パイアールのお友達？」	「Are you... Pi-R's friends?」
+62571	PG		「あなた……パイアールのお友達？」	「Are you... Pi-R's friends?」
 
-62572	Rance	「あぁん？　違う違う、ぶっ殺しに来たんだ。	「Haa? No no, we came to kill him.
-62573	+	　奴はどこだ」	　Where is he?」
+62572	Rance	イライラ	「あぁん？　違う違う、ぶっ殺しに来たんだ。	「Haa? No no, we came to kill him.
+62573	+		　奴はどこだ」	　Where is he?」
 
-62574	PG	「あら……いけないわ……」	「Ara... That's bad...」
+62574	PG	基本	「あら……いけないわ……」	「Ara... That's bad...」
 
-62575	PG	「悪い子ね、わる、いこ」	「Bad child, bad boy.」
+62575	PG		「悪い子ね、わる、いこ」	「Bad child, bad boy.」
 
-62576	Rance	「げっ！？」	「Geh!?」
+62576	Rance	驚き	「げっ！？」	「Geh!?」
 
-62577	-	女性の姿を模した身体のあちこちから、	From various parts of the female-shaped body,
-62578	+	武器が迫り出してくる。	weapons protruded.
+62577	-		女性の姿を模した身体のあちこちから、	From various parts of the female-shaped body,
+62578	+		武器が迫り出してくる。	weapons protruded.
 
-62579	PG	「おしお、きしな、くちゃ」	「Punish, discipline, crunch.」
+62579	PG	基本	「おしお、きしな、くちゃ」	「Punish, discipline, crunch.」
 
-62580	Rance	「お、く、ぉ……結局やる気かこらーーー！」	「O-ugh... So you want to fight after all, you bastard!」
+62580	Rance	怒り	「お、く、ぉ……結局やる気かこらーーー！」	「O-ugh... So you want to fight after all, you bastard!」

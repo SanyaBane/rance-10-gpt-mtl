@@ -5,248 +5,248 @@
 * Saias Crown	サイアス	Male
 * Yamada Chizuko	千鶴子	Female
 
-9880	-	ある日。	One day.
+9880	-		ある日。	One day.
 
-9881	-	ランスとアニスは、とある自由都市の使者に呼ばれて	Rance and Anise were called by an envoy from a Free Cities
-9882	+	二人で座っていた。	and were sitting together.
+9881	-		ランスとアニスは、とある自由都市の使者に呼ばれて	Rance and Anise were called by an envoy from a Free Cities
+9882	+		二人で座っていた。	and were sitting together.
 
-9883	Anise Sawatari	「は…………引き抜き……？」	「Ha............ Recruitment......?」
+9883	Anise Sawatari	基本	「は…………引き抜き……？」	「Ha............ Recruitment......?」
 
-9884	Anise Sawatari	「ダイコンでも収穫するんですか？	「Are we harvesting daikon?
-9885	+	　アニスはしょっぱく煮込んだ	　Anise likes daikon stewed until it's falling apart
-9886	+	　溶けかけおでんダイコンが好きです！」	　and salty!」
+9884	Anise Sawatari		「ダイコンでも収穫するんですか？	「Are we harvesting daikon?
+9885	+		　アニスはしょっぱく煮込んだ	　Anise likes daikon stewed until it's falling apart
+9886	+		　溶けかけおでんダイコンが好きです！」	　and salty!」
 
-9887	Free Cities Guard	「いえ、そうではなく……	「No, not that......
-9888	+	　アニス殿に、我が都市の将軍として、	　We would like Lady Anise to become the general of our city,
-9889	+	　来て頂けないかと、都市長たっての願いで……」	　at the strong request of our mayor......」
+9887	Free Cities Guard		「いえ、そうではなく……	「No, not that......
+9888	+		　アニス殿に、我が都市の将軍として、	　We would like Lady Anise to become the general of our city,
+9889	+		　来て頂けないかと、都市長たっての願いで……」	　at the strong request of our mayor......」
 
-9890	Rance	「……正気か？	「......Are you sane?
-9891	+	　お前んとこの都市、更地にされるぞ」	　Your city will be flattened.」
+9890	Rance	真剣	「……正気か？	「......Are you sane?
+9891	+		　お前んとこの都市、更地にされるぞ」	　Your city will be flattened.」
 
-9892	Free Cities Guard	「その辺りの噂は存じております。	「We are aware of those rumors.
-9893	+	　……実を申せば、ハニーの傭兵団と、	　......To be honest, we succeeded in making a long-term contract
-9894	+	　長期契約を結ぶことに成功しまして」	　with a Hanny mercenary band,
+9892	Free Cities Guard	基本	「その辺りの噂は存じております。	「We are aware of those rumors.
+9893	+		　……実を申せば、ハニーの傭兵団と、	　......To be honest, we succeeded in making a long-term contract
+9894	+		　長期契約を結ぶことに成功しまして」	　with a Hanny mercenary band,
 
-9895	Free Cities Guard	「魔法の通じぬハニーの後ろから、	　so from behind the magic-immune Hannies,
-9896	+	　アニス殿には存分に魔法を撃ち込んで頂く……と」	　we would like Lady Anise to freely fire her magic......」
+9895	Free Cities Guard		「魔法の通じぬハニーの後ろから、	　so from behind the magic-immune Hannies,
+9896	+		　アニス殿には存分に魔法を撃ち込んで頂く……と」	　we would like Lady Anise to freely fire her magic......」
 
-9897	Rance	「ふーん、なるほどな。	「Hmm, I see.
-9898	+	　戦場に放り込む分には悪くない手だ」	　Not a bad plan for throwing her onto the battlefield.」
+9897	Rance		「ふーん、なるほどな。	「Hmm, I see.
+9898	+		　戦場に放り込む分には悪くない手だ」	　Not a bad plan for throwing her onto the battlefield.」
 
-9899	Free Cities Guard	「はい。聞けば、ゼスでは役職なしの徒弟扱いとか。	「Yes. I heard that in Zeth she is treated as an apprentice with no position.
-9900	+	　こちらではアニス様のお力を評価しておりまして、	　Here we highly value Lady Anise's power,
-9901	+	　出来うる限りの待遇を、と……」	　and will offer the best possible treatment......」
+9899	Free Cities Guard		「はい。聞けば、ゼスでは役職なしの徒弟扱いとか。	「Yes. I heard that in Zeth she is treated as an apprentice with no position.
+9900	+		　こちらではアニス様のお力を評価しておりまして、	　Here we highly value Lady Anise's power,
+9901	+		　出来うる限りの待遇を、と……」	　and will offer the best possible treatment......」
 
-9902	Rance	「……で、なんで俺様まで呼ばれるんだ」	「......So why was I called too?」
+9902	Rance	だる顔	「……で、なんで俺様まで呼ばれるんだ」	「......So why was I called too?」
 
-9903	Free Cities Guard	「総統閣下には、ゼスとの間を取りなして頂きたく。	「We would like the Supreme Leader to mediate with Zeth.
-9904	+	　誓って、無断で人材を掠め取るつもり	　We swear we have no intention of secretly stealing talent,
-9905	+	　ではありませんので、その旨を……」	　so please convey that......」
+9903	Free Cities Guard	基本	「総統閣下には、ゼスとの間を取りなして頂きたく。	「We would like the Supreme Leader to mediate with Zeth.
+9904	+		　誓って、無断で人材を掠め取るつもり	　We swear we have no intention of secretly stealing talent,
+9905	+		　ではありませんので、その旨を……」	　so please convey that......」
 
-9906	Rance	「まさかタダでやらせるつもりじゃなかろうな？」	「You don't plan on making me do this for free, right?」
+9906	Rance	真剣	「まさかタダでやらせるつもりじゃなかろうな？」	「You don't plan on making me do this for free, right?」
 
-9907	Free Cities Guard	「とんでもございません。	「Perish the thought.
-9908	+	　もちろん、しっかりとお礼を、お望みの形で……」	　Of course we will offer proper compensation, in any form you desire......」
+9907	Free Cities Guard	基本	「とんでもございません。	「Perish the thought.
+9908	+		　もちろん、しっかりとお礼を、お望みの形で……」	　Of course we will offer proper compensation, in any form you desire......」
 
-9909	Rance	「ほう……まあいいだろう。おいアニス、どうする？	「Hmm...... Fine. Hey Anise, what do you think?
-9910	+	　自由都市の将軍様だと」	　They want you as a general of a Free Cities.」
+9909	Rance		「ほう……まあいいだろう。おいアニス、どうする？	「Hmm...... Fine. Hey Anise, what do you think?
+9910	+		　自由都市の将軍様だと」	　They want you as a general of a Free Cities.」
 
-9911	Anise Sawatari	「は？　自由都市？　行きませんよ？	「Huh? Free Cities? I'm not going.
-9912	+	　アニスには千鶴子様のお手伝いをするという	　Anise has the important job
-9913	+	　大事な仕事がありますから」	　of helping Chizuko-sama.」
+9911	Anise Sawatari		「は？　自由都市？　行きませんよ？	「Huh? Free Cities? I'm not going.
+9912	+		　アニスには千鶴子様のお手伝いをするという	　Anise has the important job
+9913	+		　大事な仕事がありますから」	　of helping Chizuko-sama.」
 
-9914	Free Cities Guard	「うっ……そ、そこをなんとか！	「Ugh...... Please, anything!
-9915	+	　戦争後でも構いませんし、	　After the war is fine too,
-9916	+	　条件があれば検討させて頂きますゆえ……！」	　we'll consider any conditions......!」
+9914	Free Cities Guard		「うっ……そ、そこをなんとか！	「Ugh...... Please, anything!
+9915	+		　戦争後でも構いませんし、	　After the war is fine too,
+9916	+		　条件があれば検討させて頂きますゆえ……！」	　we'll consider any conditions......!」
 
-9917	Anise Sawatari	「ゼスじゃないとこには住めないです。	「I can't live anywhere except Zeth.
-9918	+	　ではー」	　Bye~」
+9917	Anise Sawatari		「ゼスじゃないとこには住めないです。	「I can't live anywhere except Zeth.
+9918	+		　ではー」	　Bye~」
 
-9919	-	壁を突き破って、アニスは空高く舞っていった。	Anise smashed through the wall and flew high into the sky.
+9919	-		壁を突き破って、アニスは空高く舞っていった。	Anise smashed through the wall and flew high into the sky.
 
-9920	Rance	「……物を壊さんと移動できんのか、あいつは」	「......Can't she move without breaking things?」
+9920	Rance	だる顔	「……物を壊さんと移動できんのか、あいつは」	「......Can't she move without breaking things?」
 
-9921	Free Cities Guard	「むう……残念です……	「Muu...... What a shame......
-9922	+	　とりつく島もありませんでしたな……」	　There was no room for negotiation......」
+9921	Free Cities Guard	基本	「むう……残念です……	「Muu...... What a shame......
+9922	+		　とりつく島もありませんでしたな……」	　There was no room for negotiation......」
 
-9923	Rance	「まあ、残念だったな。諦めろ」	「Well, too bad. Give up.」
+9923	Rance		「まあ、残念だったな。諦めろ」	「Well, too bad. Give up.」
 
-9924	Free Cities Guard	「しかし……我が都市にとっては死活問題。	「However...... This is a matter of life and death for our city.
-9925	+	　強大な防衛力を得られる好機なのです。	　It's a great chance to gain powerful defense.
-9926	+	　アニス様に、なんとか翻意を……」	　Please convince Lady Anise somehow......」
+9924	Free Cities Guard		「しかし……我が都市にとっては死活問題。	「However...... This is a matter of life and death for our city.
+9925	+		　強大な防衛力を得られる好機なのです。	　It's a great chance to gain powerful defense.
+9926	+		　アニス様に、なんとか翻意を……」	　Please convince Lady Anise somehow......」
 
-9927	-	と、使者の言葉を遮るように、	As if interrupting the envoy's words,
-9928	+	軽やかなノックの音が響いた。	a light knocking sound rang out.
+9927	-		と、使者の言葉を遮るように、	As if interrupting the envoy's words,
+9928	+		軽やかなノックの音が響いた。	a light knocking sound rang out.
 
-9929	Rance	「なんだ、誰だ」	「Who is it?」
+9929	Rance	真剣	「なんだ、誰だ」	「Who is it?」
 
-9930	Free Cities Guard	「はっ……ぜ、ゼスの……将軍殿……！」	「Yes...... I-it's Zeth's...... General......!」
+9930	Free Cities Guard	基本	「はっ……ぜ、ゼスの……将軍殿……！」	「Yes...... I-it's Zeth's...... General......!」
 
-9931	Saias Crown	「よ、っと……やぁ、失礼しますよ。	「Yo...... Excuse me.
-9932	+	　総統、うちの者が来てなかったかい？」	　Supreme Leader, has one of ours come by?」
+9931	Saias Crown		「よ、っと……やぁ、失礼しますよ。	「Yo...... Excuse me.
+9932	+		　総統、うちの者が来てなかったかい？」	　Supreme Leader, has one of ours come by?」
 
-9933	Rance	「なんだ、キザ野郎か。	「Oh, it's the flashy guy.
-9934	+	　アニスならさっき帰ったぞ。ほれ」	　Anise just went back. See」
+9933	Rance	真剣	「なんだ、キザ野郎か。	「Oh, it's the flashy guy.
+9934	+		　アニスならさっき帰ったぞ。ほれ」	　Anise just went back. See」
 
-9935	-	ランスが指を向けた先には、	Where Rance pointed
-9936	+	人間大の穴が開いた壁がある。	was a human-sized hole in the wall.
+9935	-		ランスが指を向けた先には、	Where Rance pointed
+9936	+		人間大の穴が開いた壁がある。	was a human-sized hole in the wall.
 
-9937	Saias Crown	「分かりやすい……」	「Very clear......」
+9937	Saias Crown	拙い	「分かりやすい……」	「Very clear......」
 
-9938	Saias Crown	「千鶴子様が動けないからって、	「Since Lady Chizuko can't move,
-9939	+	　わざわざ迎えに来たんだが……無駄だったか」	　I came to pick her up but...... it was pointless.」
+9938	Saias Crown	基本	「千鶴子様が動けないからって、	「Since Lady Chizuko can't move,
+9939	+		　わざわざ迎えに来たんだが……無駄だったか」	　I came to pick her up but...... it was pointless.」
 
-9940	Free Cities Guard	「将軍殿……炎軍のサイアス・クラウン殿ですな。	「General...... You are Saias Crown of the Flame Army.
-9941	+	　その……アニス様は…………」	　Um...... About Lady Anise......」
+9940	Free Cities Guard		「将軍殿……炎軍のサイアス・クラウン殿ですな。	「General...... You are Saias Crown of the Flame Army.
+9941	+		　その……アニス様は…………」	　Um...... About Lady Anise......」
 
-9942	Saias Crown	「ああ、引き抜き……無駄だったでしょう？」	「Ah, the recruitment...... It was pointless, right?」
+9942	Saias Crown	笑顔	「ああ、引き抜き……無駄だったでしょう？」	「Ah, the recruitment...... It was pointless, right?」
 
-9943	Free Cities Guard	「お、仰る通りで……聞く耳も持って頂けず……」	「E-exactly as you say...... She wouldn't even listen......」
+9943	Free Cities Guard	基本	「お、仰る通りで……聞く耳も持って頂けず……」	「E-exactly as you say...... She wouldn't even listen......」
 
-9944	Rance	「そもそも、アニスにまともなコミュニケーションを	「To begin with, trying to have normal communication
-9945	+	　取ろうという方が間違いなんじゃないのか？」	　with Anise is the real mistake, isn't it?」
+9944	Rance	だる顔	「そもそも、アニスにまともなコミュニケーションを	「To begin with, trying to have normal communication
+9945	+		　取ろうという方が間違いなんじゃないのか？」	　with Anise is the real mistake, isn't it?」
 
-9946	Saias Crown	「いや……あいつは、ゼスや千鶴子様から、	「No...... That girl will never leave Zeth or Lady Chizuko,
-9947	+	　何があっても離れることはないよ」	　no matter what happens.」
+9946	Saias Crown	基本	「いや……あいつは、ゼスや千鶴子様から、	「No...... That girl will never leave Zeth or Lady Chizuko,
+9947	+		　何があっても離れることはないよ」	　no matter what happens.」
 
-9948	Rance	「…………は？	「............Huh?
-9949	+	　国や千鶴子に忠誠でも誓ってるってのか？」	　You mean she's sworn loyalty to the country and Chizuko?」
+9948	Rance	真剣	「…………は？	「............Huh?
+9949	+		　国や千鶴子に忠誠でも誓ってるってのか？」	　You mean she's sworn loyalty to the country and Chizuko?」
 
-9950	Saias Crown	「そういうこと。…………たぶん、だけどね」	「Something like that. ......Probably.」
+9950	Saias Crown	基本	「そういうこと。…………たぶん、だけどね」	「Something like that. ......Probably.」
 
-9951	Free Cities Guard	「それは、いったい……」	「What exactly......」
+9951	Free Cities Guard		「それは、いったい……」	「What exactly......」
 
-9952	Saias Crown	「あーー……そうだな。	「Ah...... Well.
-9953	+	　まあ、話した方が納得して頂ける、か」	　It might be better if I explain.」
+9952	Saias Crown		「あーー……そうだな。	「Ah...... Well.
+9953	+		　まあ、話した方が納得して頂ける、か」	　It might be better if I explain.」
 
-9954	-	そもそも……アニスは、	To begin with...... Anise
-9955	+	ゼスでなければ生まれて来れなかった。	could only have been born in Zeth.
+9954	-		そもそも……アニスは、	To begin with...... Anise
+9955	+		ゼスでなければ生まれて来れなかった。	could only have been born in Zeth.
 
-9956	-	あの魔力は生まれつきでね。	That magic power was inborn.
-9957	+	魔力を制御するアイテムが普及してなかったら、	If items to control magic power weren't widespread,
-9958	+	産声を上げた時の暴走で自分ごと消し飛んでた。	she would have blown herself up the moment she cried at birth.
+9956	-		あの魔力は生まれつきでね。	That magic power was inborn.
+9957	+		魔力を制御するアイテムが普及してなかったら、	If items to control magic power weren't widespread,
+9958	+		産声を上げた時の暴走で自分ごと消し飛んでた。	she would have blown herself up the moment she cried at birth.
 
-9959	-	その時はそれで事なきを得たが、	Somehow they managed to prevent disaster then,
-9960	+	一事が万事そのノリだ。	but everything after that was the same.
-9961	+	しかも、成長するに従って魔力は増した。魔力だけ。	Moreover, her magic power only grew stronger as she aged.
+9959	-		その時はそれで事なきを得たが、	Somehow they managed to prevent disaster then,
+9960	+		一事が万事そのノリだ。	but everything after that was the same.
+9961	+		しかも、成長するに従って魔力は増した。魔力だけ。	Moreover, her magic power only grew stronger as she aged.
 
-9962	-	生まれは小さな村だったが……10才になる頃には、	She was born in a small village...... but by the time she was 10,
-9963	+	誰も近寄ろうとはしなかったそうだ。	no one would approach her.
-9964	+	親でさえ、近づきたくても近づけない。	Even her parents couldn't get close even if they wanted to.
+9962	-		生まれは小さな村だったが……10才になる頃には、	She was born in a small village...... but by the time she was 10,
+9963	+		誰も近寄ろうとはしなかったそうだ。	no one would approach her.
+9964	+		親でさえ、近づきたくても近づけない。	Even her parents couldn't get close even if they wanted to.
 
-9965	-	自分でも制御する手段を知らず……というか、	She didn't know how to control it...... or rather,
-9966	+	制御しようとせず。	she didn't even try.
-9967	+	市販のアイテムで押さえ込むのも、限界があった。	Commercial items could only suppress it so much.
+9965	-		自分でも制御する手段を知らず……というか、	She didn't know how to control it...... or rather,
+9966	+		制御しようとせず。	she didn't even try.
+9967	+		市販のアイテムで押さえ込むのも、限界があった。	Commercial items could only suppress it so much.
 
-9968	-	いくら魔法使い優遇のゼスって言ったって、	No matter how much Zeth favors mages,
-9969	+	いつ爆発するか分からんプチハニー爆弾を	they couldn't just let a tiny walking bomb
-9970	+	好き勝手させられるほどの度量はない。	that might explode at any time run wild.
+9968	-		いくら魔法使い優遇のゼスって言ったって、	No matter how much Zeth favors mages,
+9969	+		いつ爆発するか分からんプチハニー爆弾を	they couldn't just let a tiny walking bomb
+9970	+		好き勝手させられるほどの度量はない。	that might explode at any time run wild.
 
-9971	-	離れの納屋に住んで、飯だって怖々届けられるだけ。	She lived in a detached barn, and even meals were delivered in fear.
-9972	+	まともな会話もできやしない。	She couldn't even have a normal conversation.
-9973	+	虐待の意図はなくとも、そうせざるを得なかった。	It wasn't intentional abuse, but they had no choice.
+9971	-		離れの納屋に住んで、飯だって怖々届けられるだけ。	She lived in a detached barn, and even meals were delivered in fear.
+9972	+		まともな会話もできやしない。	She couldn't even have a normal conversation.
+9973	+		虐待の意図はなくとも、そうせざるを得なかった。	It wasn't intentional abuse, but they had no choice.
 
-9974	-	そうなると……子供の方だって、不安定になる。	Naturally...... the child became unstable too.
-9975	+	感情が揺れれば、魔法の制御は更に難しくなる……	When emotions fluctuated, controlling the magic became even harder......
+9974	-		そうなると……子供の方だって、不安定になる。	Naturally...... the child became unstable too.
+9975	+		感情が揺れれば、魔法の制御は更に難しくなる……	When emotions fluctuated, controlling the magic became even harder......
 
-9976	-	14歳の時に、ついにでかい暴走を引き起こした。	At 14 years old, she finally caused a major rampage.
-9977	+	魔法災害の報を受けて、軍と共に向かったのが……	The one who rushed there with the army upon receiving news of the magic disaster......
-9978	+	当時15歳、四天王になりたての千鶴子様だった。	was Lady Chizuko, who had just become one of the Four Lords at 15.
+9976	-		14歳の時に、ついにでかい暴走を引き起こした。	At 14 years old, she finally caused a major rampage.
+9977	+		魔法災害の報を受けて、軍と共に向かったのが……	The one who rushed there with the army upon receiving news of the magic disaster......
+9978	+		当時15歳、四天王になりたての千鶴子様だった。	was Lady Chizuko, who had just become one of the Four Lords at 15.
 
-9979	-	遠距離から本人を仕留めて沈静化させよう……	There were talks of sniping her from afar to calm it down......
-9980	+	て話もあったが、千鶴子様が却下。	but Lady Chizuko rejected it.
-9981	+	結局、魔力をねじ伏せて押さえ込むことになった。	In the end, they had to forcibly suppress her magic power.
+9979	-		遠距離から本人を仕留めて沈静化させよう……	There were talks of sniping her from afar to calm it down......
+9980	+		て話もあったが、千鶴子様が却下。	but Lady Chizuko rejected it.
+9981	+		結局、魔力をねじ伏せて押さえ込むことになった。	In the end, they had to forcibly suppress her magic power.
 
-9982	-	軍の部隊、千人がかりくらいだったかなぁ……	It took around a thousand soldiers......
-9983	+	えらく苦労したよ。	It was really tough.
-9984	+	ああ、その場にいたんだ、俺。	Yeah, I was there too.
+9982	-		軍の部隊、千人がかりくらいだったかなぁ……	It took around a thousand soldiers......
+9983	+		えらく苦労したよ。	It was really tough.
+9984	+		ああ、その場にいたんだ、俺。	Yeah, I was there too.
 
-9985	-	何日か、魔力の押し合いを続けて……	We pushed against her magic power for several days......
-9986	+	やっとこさ、向こうがぶっ倒れてくれた。	and finally she collapsed.
+9985	-		何日か、魔力の押し合いを続けて……	We pushed against her magic power for several days......
+9986	+		やっとこさ、向こうがぶっ倒れてくれた。	and finally she collapsed.
 
-9987	-	千鶴子様が持ってきた、超強力な魔力抑制服を着せて	They put her in the ultra-powerful magic suppression suit Chizuko brought
-9988	+	ようやく安全に話せるようになった。	and finally could talk to her safely.
+9987	-		千鶴子様が持ってきた、超強力な魔力抑制服を着せて	They put her in the ultra-powerful magic suppression suit Chizuko brought
+9988	+		ようやく安全に話せるようになった。	and finally could talk to her safely.
 
-9989	Yamada Chizuko	「はあ……やっと、大人しくしてくれたわね」	「Haa...... She finally calmed down.」
+9989	Yamada Chizuko		「はあ……やっと、大人しくしてくれたわね」	「Haa...... She finally calmed down.」
 
-9990	Anise Sawatari	「アニス……危ないですか」	「Is Anise...... dangerous?」
+9990	Anise Sawatari		「アニス……危ないですか」	「Is Anise...... dangerous?」
 
-9991	Anise Sawatari	「生きてるの…………だめ、ですか」	「Is it bad...... that I'm alive?」
+9991	Anise Sawatari		「生きてるの…………だめ、ですか」	「Is it bad...... that I'm alive?」
 
-9992	Yamada Chizuko	「まあ……危ないわね」	「Well...... yes, you are dangerous.」
+9992	Yamada Chizuko		「まあ……危ないわね」	「Well...... yes, you are dangerous.」
 
-9993	Anise Sawatari	「う…………」	「Ugh......」
+9993	Anise Sawatari		「う…………」	「Ugh......」
 
-9994	Yamada Chizuko	「……だから、私の所に来なさい。	「......So come with me.
-9995	+	　私が制御の仕方、教えてあげる」	　I'll teach you how to control it.」
+9994	Yamada Chizuko		「……だから、私の所に来なさい。	「......So come with me.
+9995	+		　私が制御の仕方、教えてあげる」	　I'll teach you how to control it.」
 
-9996	Anise Sawatari	「え…………」	「Eh......」
+9996	Anise Sawatari		「え…………」	「Eh......」
 
-9997	Yamada Chizuko	「すごいじゃない、あなた。	「You're amazing, you know.
-9998	+	　誰にもできない事ができるのよ」	　You can do things no one else can.」
+9997	Yamada Chizuko		「すごいじゃない、あなた。	「You're amazing, you know.
+9998	+		　誰にもできない事ができるのよ」	　You can do things no one else can.」
 
-9999	Anise Sawatari	「あ…………」	「Ah......」
+9999	Anise Sawatari		「あ…………」	「Ah......」
 
-10000	Anise Sawatari	「は、はいっ……！　あ、ありがとうございます！	「Y-yes......! Th-thank you!
-10001	+	　ええと……」	　Um......」
+10000	Anise Sawatari		「は、はいっ……！　あ、ありがとうございます！	「Y-yes......! Th-thank you!
+10001	+		　ええと……」	　Um......」
 
-10002	Yamada Chizuko	「名前？　千鶴子よ。山田千鶴子。	「My name? It's Chizuko. Yamada Chizuko.
-10003	+	　名前で呼んでちょうだい」	　Just call me by my name.」
+10002	Yamada Chizuko		「名前？　千鶴子よ。山田千鶴子。	「My name? It's Chizuko. Yamada Chizuko.
+10003	+		　名前で呼んでちょうだい」	　Just call me by my name.」
 
-10004	Anise Sawatari	「はいっ――――千鶴子様！」	「Yes! Chizuko-sama!」
+10004	Anise Sawatari		「はいっ――――千鶴子様！」	「Yes! Chizuko-sama!」
 
-10005	Saias Crown	「……大丈夫ですか？	「......Are you sure it's okay?
-10006	+	　正直、かなりヤバイと思いますが……」	　Honestly, it seems pretty risky......」
+10005	Saias Crown		「……大丈夫ですか？	「......Are you sure it's okay?
+10006	+		　正直、かなりヤバイと思いますが……」	　Honestly, it seems pretty risky......」
 
-10007	Yamada Chizuko	「常識を教え込めば、きっと平気よ。	「If we teach her common sense, she'll be fine.
-10008	+	　村でもそういう教育、してなかったみたいだし。	　It doesn't look like her village taught her any.
-10009	+	　きっとすごい魔法使いになるわ」	　She's going to become an amazing mage.」
+10007	Yamada Chizuko		「常識を教え込めば、きっと平気よ。	「If we teach her common sense, she'll be fine.
+10008	+		　村でもそういう教育、してなかったみたいだし。	　It doesn't look like her village taught her any.
+10009	+		　きっとすごい魔法使いになるわ」	　She's going to become an amazing mage.」
 
-10010	Saias Crown	「それは…………確かにそうかも知れませんが」	「Well...... That might be true, but......」
+10010	Saias Crown		「それは…………確かにそうかも知れませんが」	「Well...... That might be true, but......」
 
-10011	Yamada Chizuko	「それに……ガンジー様なら、同じ事をするはずよ」	「Besides...... Gandhi-sama would probably do the same thing.」
+10011	Yamada Chizuko		「それに……ガンジー様なら、同じ事をするはずよ」	「Besides...... Gandhi-sama would probably do the same thing.」
 
-10012	Saias Crown	「てな感じで……な」	「Something like that...... yeah.」
+10012	Saias Crown		「てな感じで……な」	「Something like that...... yeah.」
 
-10013	Free Cities Guard	「ふ、ふおおおおおお……！	「W-wow......!
-10014	+	　なんと感動的な……」	　How touching......」
+10013	Free Cities Guard		「ふ、ふおおおおおお……！	「W-wow......!
+10014	+		　なんと感動的な……」	　How touching......」
 
-10015	Rance	「千鶴子め……短絡的な真似を……」	「That Chizuko...... always so reckless......」
+10015	Rance	だる顔	「千鶴子め……短絡的な真似を……」	「That Chizuko...... always so reckless......」
 
-10016	Free Cities Guard	「は？」	「Huh?」
+10016	Free Cities Guard	基本	「は？」	「Huh?」
 
-10017	Saias Crown	「そーなんだよなあ……千鶴子様も、周りも……	「Yeah, that's how it is...... Chizuko-sama and everyone around her......
-10018	+	　一般常識なんてすぐに身につくと思ったんだよ。	　I thought she'd pick up basic common sense right away.
-10019	+	　初めは、な……」	　At the beginning, anyway......」
+10017	Saias Crown	拙い	「そーなんだよなあ……千鶴子様も、周りも……	「Yeah, that's how it is...... Chizuko-sama and everyone around her......
+10018	+		　一般常識なんてすぐに身につくと思ったんだよ。	　I thought she'd pick up basic common sense right away.
+10019	+		　初めは、な……」	　At the beginning, anyway......」
 
-10020	Rance	「それが今でも、味方殺しのへっぽこ最強魔女か」	「And yet she's still that clumsy strongest mage who kills her own allies.」
+10020	Rance	真剣	「それが今でも、味方殺しのへっぽこ最強魔女か」	「And yet she's still that clumsy strongest mage who kills her own allies.」
 
-10021	Saias Crown	「あぁ……千鶴子様かガンジー様辺りでないと、	「Yeah...... Only someone like Chizuko-sama or Gandhi-sama
-10022	+	　コントロールも効きやしない」	　could even control her.」
+10021	Saias Crown	拙い	「あぁ……千鶴子様かガンジー様辺りでないと、	「Yeah...... Only someone like Chizuko-sama or Gandhi-sama
+10022	+		　コントロールも効きやしない」	　could even control her.」
 
-10023	Saias Crown	「ぶっ壊れてたのは魔力の限界だけじゃなくて、	「It wasn't just her magic power that was broken,
-10024	+	　あいつの脳味噌もセットだったんだよなぁ……」	　her brain was messed up too......」
+10023	Saias Crown		「ぶっ壊れてたのは魔力の限界だけじゃなくて、	「It wasn't just her magic power that was broken,
+10024	+		　あいつの脳味噌もセットだったんだよなぁ……」	　her brain was messed up too......」
 
-10025	Free Cities Guard	「……………………」	「........................」
+10025	Free Cities Guard	基本	「……………………」	「........................」
 
-10026	Saias Crown	「それでも、千鶴子様の言うことだけは聞くから	「Still, she only listens to Chizuko-sama,
-10027	+	　マシにはなったんだろうが」	　so it's a bit better now.」
+10026	Saias Crown		「それでも、千鶴子様の言うことだけは聞くから	「Still, she only listens to Chizuko-sama,
+10027	+		　マシにはなったんだろうが」	　so it's a bit better now.」
 
-10028	Rance	「いいのか、それで……」	「Is that really okay......」
+10028	Rance	だる顔	「いいのか、それで……」	「Is that really okay......」
 
-10029	Saias Crown	「いい話にいい結果がついてくるとは	「Good intentions don't always bring good results......
-10030	+	　限らない……ってね。	　you know.
-10031	+	　まあ、アニスは幸せそうだし、いいんじゃないか」	　But Anise looks happy, so maybe it's fine.」
+10029	Saias Crown	基本	「いい話にいい結果がついてくるとは	「Good intentions don't always bring good results......
+10030	+		　限らない……ってね。	　you know.
+10031	+		　まあ、アニスは幸せそうだし、いいんじゃないか」	　But Anise looks happy, so maybe it's fine.」
 
-10032	Anise Sawatari	「ちーーーーーづこさまーーーーーーー！」	「Chiiiiizuko-samaaaa!」
+10032	Anise Sawatari		「ちーーーーーづこさまーーーーーーー！」	「Chiiiiizuko-samaaaa!」
 
-10033	Yamada Chizuko	「アニスーーーーーーー！！	「Aniseeeeeee!!
-10034	+	　ただのお使いで、	　It was just a simple errand,
-10035	+	　なんで道中の地形変えてんのよーーー！」	　why did you change the entire landscape on the way!!」
+10033	Yamada Chizuko		「アニスーーーーーーー！！	「Aniseeeeeee!!
+10034	+		　ただのお使いで、	　It was just a simple errand,
+10035	+		　なんで道中の地形変えてんのよーーー！」	　why did you change the entire landscape on the way!!」
 
-10036	Yamada Chizuko	「もおおおおおおおおおお！！	「Geeez!!
-10037	+	　いい加減にしなさいよーーーー！」	　Knock it off already!!」
+10036	Yamada Chizuko		「もおおおおおおおおおお！！	「Geeez!!
+10037	+		　いい加減にしなさいよーーーー！」	　Knock it off already!!」
 
-10038	Anise Sawatari	「はいっ！　アニス、もっと頑張りますよーー！」	「Yes! Anise will work even harder!!」
+10038	Anise Sawatari		「はいっ！　アニス、もっと頑張りますよーー！」	「Yes! Anise will work even harder!!」
 
-10039	-	今日もアニスは平和そうだった。	Today too, Anise seemed perfectly at peace.
+10039	-		今日もアニスは平和そうだった。	Today too, Anise seemed perfectly at peace.

@@ -3,88 +3,88 @@
 * Nagata-kun	長田君２	Male
 * Rocky Bank	ロッキー２	Male
 
-200163	-	あなたはゆっくりと目を覚ました。	You slowly opened your eyes.
+200163	-		あなたはゆっくりと目を覚ました。	You slowly opened your eyes.
 
-200164	-	パチパチと瞼を開きながら周囲を見渡す。	Blinking, you looked around.
-200165	+	どこかホテルの一室のような場所にあなたはいた。	You were in a place that looked like a hotel room.
+200164	-		パチパチと瞼を開きながら周囲を見渡す。	Blinking, you looked around.
+200165	+		どこかホテルの一室のような場所にあなたはいた。	You were in a place that looked like a hotel room.
 
-200166	El Mofus	「…………。」	「............」
+200166	El Mofus	基本	「…………。」	「............」
 
-200167	-	何か不思議な夢を見ていた気がする。	You felt like you had seen a strange dream.
+200167	-		何か不思議な夢を見ていた気がする。	You felt like you had seen a strange dream.
 
-200168	Nagata-kun	「おーっ、起きたか、＜エール＞！」	「Ohh, you're awake, ＜エール＞!」
+200168	Nagata-kun		「おーっ、起きたか、＜エール＞！」	「Ohh, you're awake, ＜エール＞!」
 
-200169	Rocky Bank	「ああ、良かった。	「Ah, thank goodness.
-200170	+	　これで一安心だすなあ」	　Now I can relax.」
+200169	Rocky Bank	楽	「ああ、良かった。	「Ah, thank goodness.
+200170	+		　これで一安心だすなあ」	　Now I can relax.」
 
-200171	Nagata-kun	「ちゃんと記憶はハッキリしてるか？	「Do you remember everything clearly?
-200172	+	　何があったか覚えてるか？」	　Do you remember what happened?」
+200171	Nagata-kun	基本	「ちゃんと記憶はハッキリしてるか？	「Do you remember everything clearly?
+200172	+		　何があったか覚えてるか？」	　Do you remember what happened?」
 
-200173	El Mofus	「…………。」	「............」
+200173	El Mofus		「…………。」	「............」
 
-200174	Rocky Bank	「記憶がおぼろげだすか？	「Memory's a bit fuzzy?
-200175	+	　半分気絶していたようなもんだし仕方ないだすな」	　You were half unconscious after all, so that's understandable.」
+200174	Rocky Bank		「記憶がおぼろげだすか？	「Memory's a bit fuzzy?
+200175	+		　半分気絶していたようなもんだし仕方ないだすな」	　You were half unconscious after all, so that's understandable.」
 
-200176	Nagata-kun	「まあ、思い出したくないだけかもな……	「Maybe you just don't want to remember...
-200177	+	　俺だって正直クエルプランの中は	　Even I feel chills remembering being inside Quelplan.」
-200178	+	　今、思い出してもゾッとするぜ」	
+200176	Nagata-kun		「まあ、思い出したくないだけかもな……	「Maybe you just don't want to remember...
+200177	+		　俺だって正直クエルプランの中は	　Even I feel chills remembering being inside Quelplan.」
+200178	+		　今、思い出してもゾッとするぜ」	
 
-200179	Nagata-kun	「人に魔物に天使まで、ぜーんぶあの中にいて……	「Humans, monsters, angels, everything was in there...
-200180	+	　おそらく今までに飲み込んだ全ての生き物が	　Probably every living thing she's ever swallowed
-200181	+	　あの中にいるんだぜ……」	　is still inside her...」
+200179	Nagata-kun		「人に魔物に天使まで、ぜーんぶあの中にいて……	「Humans, monsters, angels, everything was in there...
+200180	+		　おそらく今までに飲み込んだ全ての生き物が	　Probably every living thing she's ever swallowed
+200181	+		　あの中にいるんだぜ……」	　is still inside her...」
 
-200182	Rocky Bank	「そうだすな……	「That's true...
-200183	+	　おら達もあのまま二度と出られなかったかも……」	　We might never have gotten out if things stayed that way...」
+200182	Rocky Bank	とほほ	「そうだすな……	「That's true...
+200183	+		　おら達もあのまま二度と出られなかったかも……」	　We might never have gotten out if things stayed that way...」
 
-200184	Rocky Bank	「でも、そこをダークランス様に助けられただす」	「But Dark Rance-sama saved us there.」
+200184	Rocky Bank	楽	「でも、そこをダークランス様に助けられただす」	「But Dark Rance-sama saved us there.」
 
-200185	Rocky Bank	「うぅん、本当に立派に成長なされただすなぁ……」	「Sob, he's really grown into such a fine man...」
+200185	Rocky Bank	男泣き	「うぅん、本当に立派に成長なされただすなぁ……」	「Sob, he's really grown into such a fine man...」
 
-200186	Nagata-kun	「んで、クエルプランから出て来た俺達は、	「And after we got out of Quelplan,
-200187	+	　なんとびっくり皆の母ちゃん達に助けられたんだ」	　we were surprisingly rescued by everyone's moms.」
+200186	Nagata-kun	基本	「んで、クエルプランから出て来た俺達は、	「And after we got out of Quelplan,
+200187	+		　なんとびっくり皆の母ちゃん達に助けられたんだ」	　we were surprisingly rescued by everyone's moms.」
 
-200188	Rocky Bank	「はいだ。	「That's right.」
-200189	+	　どうやら心配で近くにいたようだすな」	　They seemed to have been nearby out of worry.」
+200188	Rocky Bank	楽	「はいだ。	「That's right.」
+200189	+		　どうやら心配で近くにいたようだすな」	　They seemed to have been nearby out of worry.」
 
-200190	Nagata-kun	「で、『ここ』に運び込まれたわけだが……」	「So we were brought here...」
+200190	Nagata-kun	基本	「で、『ここ』に運び込まれたわけだが……」	「So we were brought here...」
 
-200191	Nagata-kun	「『ここ』がどこかは実際に見た方が早いな。	「It's faster to just see where 'here' is.
-200192	+	　体起こせるか？　ちょっと外に出ようぜ」	　Can you get up? Let's head outside for a bit.」
+200191	Nagata-kun		「『ここ』がどこかは実際に見た方が早いな。	「It's faster to just see where 'here' is.
+200192	+		　体起こせるか？　ちょっと外に出ようぜ」	　Can you get up? Let's head outside for a bit.」
 
-200193	-	あなたは長田君とロッキーの案内で、	Guided by Nagata-kun and Rocky,
-200194	+	部屋を出て赤い絨毯が敷かれた廊下を歩く。	you left the room and walked down a corridor with red carpet.
+200193	-		あなたは長田君とロッキーの案内で、	Guided by Nagata-kun and Rocky,
+200194	+		部屋を出て赤い絨毯が敷かれた廊下を歩く。	you left the room and walked down a corridor with red carpet.
 
-200195	-	芸術品のことは分からないが、	You didn't know much about art,
-200196	+	廊下に飾られた調度品の一つ一つが	but you could tell that every piece of furniture
-200197	+	高そうなのはあなたにもなんとなく理解できた。	lining the corridor was expensive.
+200195	-		芸術品のことは分からないが、	You didn't know much about art,
+200196	+		廊下に飾られた調度品の一つ一つが	but you could tell that every piece of furniture
+200197	+		高そうなのはあなたにもなんとなく理解できた。	lining the corridor was expensive.
 
-200198	-	最初はホテルだろうかと思ったが、	At first you thought it was a hotel,
-200199	+	もしかしたらどこかのお城の中かも知れない。	but it might actually be inside some castle.
+200198	-		最初はホテルだろうかと思ったが、	At first you thought it was a hotel,
+200199	+		もしかしたらどこかのお城の中かも知れない。	but it might actually be inside some castle.
 
-200200	Nagata-kun	「よし、着いた。	「Alright, we're here.
-200201	+	　表に出ればここがどこか分かるぜ」	　Once we go outside you'll understand where we are.」
+200200	Nagata-kun		「よし、着いた。	「Alright, we're here.
+200201	+		　表に出ればここがどこか分かるぜ」	　Once we go outside you'll understand where we are.」
 
-200202	-	長田君が表へと通じる大きな扉を、	Nagata-kun pushed open the large door leading outside
-200203	+	体ごと押して開く。	with his whole body.
+200202	-		長田君が表へと通じる大きな扉を、	Nagata-kun pushed open the large door leading outside
+200203	+		体ごと押して開く。	with his whole body.
 
-200204	El Mofus	「…………。」	「............」
+200204	El Mofus		「…………。」	「............」
 
-200205	-	あなたは唖然としながら周囲を見渡す。	You looked around in shock.
+200205	-		あなたは唖然としながら周囲を見渡す。	You looked around in shock.
 
-200206	-	その場に立っているだけで、	Just standing there,
-200207	+	強い風に吹かれて体が自然と揺れてしまう。	the strong wind made your body sway naturally.
+200206	-		その場に立っているだけで、	Just standing there,
+200207	+		強い風に吹かれて体が自然と揺れてしまう。	the strong wind made your body sway naturally.
 
-200208	Nagata-kun	「へへへー、さすがに驚くよなー」	「Hehehe, of course you'd be surprised.」
+200208	Nagata-kun		「へへへー、さすがに驚くよなー」	「Hehehe, of course you'd be surprised.」
 
-200209	Rocky Bank	「前に空に浮かんでいるの見たの覚えてるだすか？」	「Do you remember seeing it floating in the sky before?」
+200209	Rocky Bank		「前に空に浮かんでいるの見たの覚えてるだすか？」	「Do you remember seeing it floating in the sky before?」
 
-200210	Rocky Bank	「ここは＜エール＞様のお父上、	「This is the residence from when ＜エール＞-sama's father,
-200211	+	　ランス様の人間時代の住居、	　Rance-sama, was still human,
-200212	+	　その名も無敵ランス城だす」	　known as the Invincible Rance Castle.」
+200210	Rocky Bank	楽	「ここは＜エール＞様のお父上、	「This is the residence from when ＜エール＞-sama's father,
+200211	+		　ランス様の人間時代の住居、	　Rance-sama, was still human,
+200212	+		　その名も無敵ランス城だす」	　known as the Invincible Rance Castle.」
 
-200213	-	今自分が出て来たところを振り返ると、	Looking back at where you just came from,
-200214	+	なんとも珍妙なデザインの城が空に浮かんでいた。	a castle with a very strange design was floating in the sky.
+200213	-		今自分が出て来たところを振り返ると、	Looking back at where you just came from,
+200214	+		なんとも珍妙なデザインの城が空に浮かんでいた。	a castle with a very strange design was floating in the sky.
 
-200215	-	幾多の冒険の末……	After many adventures...
+200215	-		幾多の冒険の末……	After many adventures...
 
-200216	-	あなたは空飛ぶ城にまで来ることとなった。	you ended up arriving at a flying castle.
+200216	-		あなたは空飛ぶ城にまで来ることとなった。	you ended up arriving at a flying castle.

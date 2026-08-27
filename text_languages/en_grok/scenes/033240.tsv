@@ -8,203 +8,203 @@
 * Kentou Uzume	ウズメ２	Female
 * Zance Leazas	ザンス２	Male
 
-216623	-	あなた達はリア女王との謁見の為、	You headed to Leazas Castle
-216624	+	リーザス城へと赴いていた。	for an audience with Queen Lia.
+216623	-		あなた達はリア女王との謁見の為、	You headed to Leazas Castle
+216624	+		リーザス城へと赴いていた。	for an audience with Queen Lia.
 
-216625	Nagata-kun	「うおー……女王との謁見かぁ……	「Whoa... an audience with the Queen...
-216626	+	　なんか緊張すんなぁ」	　I'm getting nervous.」
+216625	Nagata-kun	基本	「うおー……女王との謁見かぁ……	「Whoa... an audience with the Queen...
+216626	+		　なんか緊張すんなぁ」	　I'm getting nervous.」
 
-216627	Nagi su Ragarl	「パステル女王とも謁見したんでしょ？」	「You had an audience with Queen Pastel too, right?」
+216627	Nagi su Ragarl		「パステル女王とも謁見したんでしょ？」	「You had an audience with Queen Pastel too, right?」
 
-216628	Nagata-kun	「したっすけどー、あっちは女王様ってより、	「I did, but that felt more like
-216629	+	　都市長に会いに行くって感じだったんで……」	　meeting a city mayor than a queen...」
+216628	Nagata-kun		「したっすけどー、あっちは女王様ってより、	「I did, but that felt more like
+216629	+		　都市長に会いに行くって感じだったんで……」	　meeting a city mayor than a queen...」
 
-216630	Nagata-kun	「それに、リーザス女王って、	「Besides, I heard the Leazas Queen
-216631	+	　聞くところによれば結構	　is pretty
-216632	+	　怖い方らしいじゃないっすか」	　scary.」
+216630	Nagata-kun		「それに、リーザス女王って、	「Besides, I heard the Leazas Queen
+216631	+		　聞くところによれば結構	　is pretty
+216632	+		　怖い方らしいじゃないっすか」	　scary.」
 
-216633	Nagata-kun	「おい、＜エール＞。	「Hey, ＜エール＞.
-216634	+	　お前失礼なことすんなよ？」	　Don't be rude, okay?」
+216633	Nagata-kun		「おい、＜エール＞。	「Hey, ＜エール＞.
+216634	+		　お前失礼なことすんなよ？」	　Don't be rude, okay?」
 
-216635	El Mofus	「…………。」	「............」
-216636	Nagata-kun	「マジだかんな、マジで頼むぜ？」	「I'm serious, seriously please.」
+216635	El Mofus		「…………。」	「............」
+216636	Nagata-kun		「マジだかんな、マジで頼むぜ？」	「I'm serious, seriously please.」
 
-216637	Nagata-kun	「俺はしねぇよ！？」	「I won't!」
+216637	Nagata-kun		「俺はしねぇよ！？」	「I won't!」
 
-216638	Nagata-kun	「あ、いや、多分。	「Ah, well, probably.
-216639	+	　うん……」	　Yeah...」
+216638	Nagata-kun		「あ、いや、多分。	「Ah, well, probably.
+216639	+		　うん……」	　Yeah...」
 
-216640	Nagata-kun	「えっ、なんで何も答えないの！？」	「Eh, why aren't you saying anything!?」
+216640	Nagata-kun		「えっ、なんで何も答えないの！？」	「Eh, why aren't you saying anything!?」
 
-216641	Leazas Black Soldier	「リア女王のおなーりー！」	「Queen Lia has arrived!」
+216641	Leazas Black Soldier	非武装	「リア女王のおなーりー！」	「Queen Lia has arrived!」
 
-216642	Nagata-kun	「うおっ、来た来た」	「Whoa, here she comes.」
+216642	Nagata-kun	基本	「うおっ、来た来た」	「Whoa, here she comes.」
 
-216643	El Mofus	「…………。」	「............」
+216643	El Mofus		「…………。」	「............」
 
-216644	-	隣の長田君に習い、	Following Nagata-kun beside you,
-216645	+	あなたも共に背筋を伸ばして、	you straightened your back
-216646	+	リア女王の登場を待った。	and waited for Queen Lia's arrival.
+216644	-		隣の長田君に習い、	Following Nagata-kun beside you,
+216645	+		あなたも共に背筋を伸ばして、	you straightened your back
+216646	+		リア女王の登場を待った。	and waited for Queen Lia's arrival.
 
-216647	Lia Parapara Leazas	「…………」	「............」
+216647	Lia Parapara Leazas	怒り	「…………」	「............」
 
-216648	-	ジロリと、現れたリア女王が	Queen Lia who appeared glared
-216649	+	あなた達一行を見渡す。	sharply across your group.
+216648	-		ジロリと、現れたリア女王が	Queen Lia who appeared glared
+216649	+		あなた達一行を見渡す。	sharply across your group.
 
-216650	Lia Parapara Leazas	「ふーん……？」	「Hmm...?」
+216650	Lia Parapara Leazas		「ふーん……？」	「Hmm...?」
 
-216651	-	そして内心で何かを納得したのか、	Then, as if convinced of something inside,
-216652	+	部屋の中にある最も豪華な椅子に腰掛けた。	she sat on the most luxurious chair in the room.
+216651	-		そして内心で何かを納得したのか、	Then, as if convinced of something inside,
+216652	+		部屋の中にある最も豪華な椅子に腰掛けた。	she sat on the most luxurious chair in the room.
 
-216653	Lia Parapara Leazas	「ふう……」	「Fuu...」
+216653	Lia Parapara Leazas	基本	「ふう……」	「Fuu...」
 
-216654	-	一息だけ、溜め息をついてから、	After letting out a single sigh,
-216655	+	リセットに向き直る。	she turned to Reset.
+216654	-		一息だけ、溜め息をついてから、	After letting out a single sigh,
+216655	+		リセットに向き直る。	she turned to Reset.
 
-216656	Lia Parapara Leazas	「今回は公的な謁見じゃないのよね？」	「This isn't an official audience, right?」
+216656	Lia Parapara Leazas		「今回は公的な謁見じゃないのよね？」	「This isn't an official audience, right?」
 
-216657	Reset Kalar	「はい、そうです。	「Yes, that's right.
-216658	+	　至って個人的な理由で会いに来ました」	　We came for a very personal reason.」
+216657	Reset Kalar		「はい、そうです。	「Yes, that's right.
+216658	+		　至って個人的な理由で会いに来ました」	　We came for a very personal reason.」
 
-216659	Lia Parapara Leazas	「ああ、そう」	「Ah, I see.」
+216659	Lia Parapara Leazas		「ああ、そう」	「Ah, I see.」
 
-216660	Lia Parapara Leazas	「ふわぁ〜……	「Fwaa~...
-216661	+	　なら、疲れるでしょ？	　Then you must be tired?
-216662	+	　楽な体勢でいいわよ、今椅子持ってこさせるわ」	　Feel free to relax. I'll have chairs brought.」
+216660	Lia Parapara Leazas	ブーたれ	「ふわぁ〜……	「Fwaa~...
+216661	+		　なら、疲れるでしょ？	　Then you must be tired?
+216662	+		　楽な体勢でいいわよ、今椅子持ってこさせるわ」	　Feel free to relax. I'll have chairs brought.」
 
-216663	Nagata-kun	「……お？」	「...Oh?」
+216663	Nagata-kun	基本	「……お？」	「...Oh?」
 
-216664	Nagata-kun	「なあ、＜エール＞。	「Hey, ＜エール＞.
-216665	+	　リア女王って案外優しい人なのかもな。	　Queen Lia might actually be quite kind.
-216666	+	　なんてーの？　フランクっつーかさ」	　What do you call it? Casual or something.」
+216664	Nagata-kun		「なあ、＜エール＞。	「Hey, ＜エール＞.
+216665	+		　リア女王って案外優しい人なのかもな。	　Queen Lia might actually be quite kind.
+216666	+		　なんてーの？　フランクっつーかさ」	　What do you call it? Casual or something.」
 
-216667	Lia Parapara Leazas	「ふーん……」	「Hmm...」
+216667	Lia Parapara Leazas		「ふーん……」	「Hmm...」
 
-216668	-	細くなったリアの瞳が、一行の一人一人、	Lia's narrowed eyes glared at each member
-216669	+	心の奥まで覗くように睨みつける。	as if peering into their hearts.
+216668	-		細くなったリアの瞳が、一行の一人一人、	Lia's narrowed eyes glared at each member
+216669	+		心の奥まで覗くように睨みつける。	as if peering into their hearts.
 
-216670	Lia Parapara Leazas	「ふんふんふん……」	「Hmm hmm hmm...」
+216670	Lia Parapara Leazas		「ふんふんふん……」	「Hmm hmm hmm...」
 
-216671	-	そして、何かを納得するように頷いた。	Then she nodded as if convinced of something.
+216671	-		そして、何かを納得するように頷いた。	Then she nodded as if convinced of something.
 
-216672	-	それはまるで、蛇が獲物を見定めるような目だった。	It was like the eyes of a snake sizing up its prey.
+216672	-		それはまるで、蛇が獲物を見定めるような目だった。	It was like the eyes of a snake sizing up its prey.
 
-216673	Nagata-kun	「…………」	「............」
+216673	Nagata-kun		「…………」	「............」
 
-216674	Nagata-kun	「ぜ、前言撤回……	「R-Retracting previous statement...
-216675	+	　もしかしたら……怖い人かも……」	　She might actually be scary...」
+216674	Nagata-kun		「ぜ、前言撤回……	「R-Retracting previous statement...
+216675	+		　もしかしたら……怖い人かも……」	　She might actually be scary...」
 
-216676	Nagi su Ragarl	「お、結構鋭い」	「Oh, pretty sharp.」
+216676	Nagi su Ragarl		「お、結構鋭い」	「Oh, pretty sharp.」
 
-216677	Lia Parapara Leazas	「それにしても、	「Even so,
-216678	+	　ウズメが生きていたなんてねー」	　I can't believe Uzume was alive.」
+216677	Lia Parapara Leazas		「それにしても、	「Even so,
+216678	+		　ウズメが生きていたなんてねー」	　I can't believe Uzume was alive.」
 
-216679	Kentou Uzume	「不肖ウズメ！	「This unworthy Uzume!
-216680	+	　恥ずかしながら帰って参りましたでござる！」	　has returned in shame!」
+216679	Kentou Uzume		「不肖ウズメ！	「This unworthy Uzume!
+216680	+		　恥ずかしながら帰って参りましたでござる！」	　has returned in shame!」
 
-216681	Lia Parapara Leazas	「うんうん、かなみが喜ぶわー。	「Yes yes, Kanami will be happy~.
-216682	+	　こっちから連絡を入れておくからね」	　I'll contact her from here.」
+216681	Lia Parapara Leazas		「うんうん、かなみが喜ぶわー。	「Yes yes, Kanami will be happy~.
+216682	+		　こっちから連絡を入れておくからね」	　I'll contact her from here.」
 
-216683	Kentou Uzume	「はーい、ありがとうにござる」	「Yeees, thank you.」
+216683	Kentou Uzume	にょほほ	「はーい、ありがとうにござる」	「Yeees, thank you.」
 
-216684	Lia Parapara Leazas	「それで、リセットちゃん。	「So, Reset-chan.
-216685	+	　リアに話ってなにかしら？」	　What did you want to talk about with Lia?」
+216684	Lia Parapara Leazas	基本	「それで、リセットちゃん。	「So, Reset-chan.
+216685	+		　リアに話ってなにかしら？」	　What did you want to talk about with Lia?」
 
-216686	Reset Kalar	「はい」	「Yes.」
+216686	Reset Kalar		「はい」	「Yes.」
 
-216687	Reset Kalar	「それじゃあ、＜エール＞ちゃん、	「Then, ＜エール＞-chan,
-216688	+	　私が代わりに説明するね」	　I'll explain instead.」
+216687	Reset Kalar		「それじゃあ、＜エール＞ちゃん、	「Then, ＜エール＞-chan,
+216688	+		　私が代わりに説明するね」	　I'll explain instead.」
 
-216689	-	事前の打ち合わせ通り、	As discussed beforehand,
-216690	+	リセットが一行を代表して一行の目的、	Reset explained the group's purpose
-216691	+	これまでの経緯などを説明した。	and the events so far on behalf of the group.
+216689	-		事前の打ち合わせ通り、	As discussed beforehand,
+216690	+		リセットが一行を代表して一行の目的、	Reset explained the group's purpose
+216691	+		これまでの経緯などを説明した。	and the events so far on behalf of the group.
 
-216692	Reset Kalar	「私達の目的は魔王の子を集めること、	「Our goal is to gather the Demon King's children,
-216693	+	　世界に散らばる五つのオーブを集めること、	　collect the five Orbs scattered across the world,
-216694	+	　ひいては魔王ランスの退治です」	　and ultimately defeat Demon King Rance.」
+216692	Reset Kalar		「私達の目的は魔王の子を集めること、	「Our goal is to gather the Demon King's children,
+216693	+		　世界に散らばる五つのオーブを集めること、	　collect the five Orbs scattered across the world,
+216694	+		　ひいては魔王ランスの退治です」	　and ultimately defeat Demon King Rance.」
 
-216695	Reset Kalar	「リーザスの女王、リア様には	「We would like Queen Lia of Leazas
-216696	+	　息子のザンス様と共に、	　and her son Zance-sama
-216697	+	　協力をして頂きたいと考えております」	　to cooperate with us.」
+216695	Reset Kalar		「リーザスの女王、リア様には	「We would like Queen Lia of Leazas
+216696	+		　息子のザンス様と共に、	　and her son Zance-sama
+216697	+		　協力をして頂きたいと考えております」	　to cooperate with us.」
 
-216698	Nagata-kun	「なんか……」	「Somehow...
+216698	Nagata-kun		「なんか……」	「Somehow...
 
-216699	Nagata-kun	「なんかスゲーかっちりしてんな……	　She's speaking so properly...
-216700	+	　てか、お前のねーちゃん結構すごいな……」	　Your big sis is pretty impressive...」
+216699	Nagata-kun		「なんかスゲーかっちりしてんな……	　She's speaking so properly...
+216700	+		　てか、お前のねーちゃん結構すごいな……」	　Your big sis is pretty impressive...」
 
-216701	-	あなたの代わりに説明をするリセットは	Reset, explaining in your place,
-216702	+	ハキハキと喋り、リア女王にも臆することなく	spoke clearly and without fear
-216703	+	堂々とした振る舞いをしていた。	even toward Queen Lia.
+216701	-		あなたの代わりに説明をするリセットは	Reset, explaining in your place,
+216702	+		ハキハキと喋り、リア女王にも臆することなく	spoke clearly and without fear
+216703	+		堂々とした振る舞いをしていた。	even toward Queen Lia.
 
-216704	Reset Kalar	「これが法王からの紹介状です。	「This is the letter of introduction from the Pope.
-216705	+	　どうぞ、ご確認下さい」	　Please check it.」
+216704	Reset Kalar		「これが法王からの紹介状です。	「This is the letter of introduction from the Pope.
+216705	+		　どうぞ、ご確認下さい」	　Please check it.」
 
-216706	-	リセットがあなたから預かっていた	Reset handed over the letter
-216707	+	紹介状をリアに手渡した。	you had entrusted to her.
+216706	-		リセットがあなたから預かっていた	Reset handed over the letter
+216707	+		紹介状をリアに手渡した。	you had entrusted to her.
 
-216708	Lia Parapara Leazas	「確かに」	「Indeed.」
+216708	Lia Parapara Leazas		「確かに」	「Indeed.」
 
-216709	Lia Parapara Leazas	「…………」	「............」
+216709	Lia Parapara Leazas		「…………」	「............」
 
-216710	Lia Parapara Leazas	「ふーん……」	「Hmm...」
+216710	Lia Parapara Leazas		「ふーん……」	「Hmm...」
 
-216711	Lia Parapara Leazas	「あの法王、遂に計画を始めたのね」	「That Pope has finally begun the plan.」
+216711	Lia Parapara Leazas		「あの法王、遂に計画を始めたのね」	「That Pope has finally begun the plan.」
 
-216712	Reset Kalar	「計画？」	「Plan?」
+216712	Reset Kalar		「計画？」	「Plan?」
 
-216713	Lia Parapara Leazas	「んーん、なんでもない。	「Nnn, it's nothing.
-216714	+	　こっちの話よ」	　Just our side.」
+216713	Lia Parapara Leazas		「んーん、なんでもない。	「Nnn, it's nothing.
+216714	+		　こっちの話よ」	　Just our side.」
 
-216715	Lia Parapara Leazas	「＜エール＞、と言ったかしら？」	「＜エール＞, was it?」
+216715	Lia Parapara Leazas		「＜エール＞、と言ったかしら？」	「＜エール＞, was it?」
 
-216716	-	ジロジロと無遠慮に、	Without reserve, Lia stared
-216717	+	リア女王があなたの顔を見つめる。	at your face.
+216716	-		ジロジロと無遠慮に、	Without reserve, Lia stared
+216717	+		リア女王があなたの顔を見つめる。	at your face.
 
-216718	Lia Parapara Leazas	「ふむふむ、言われてみると、	「Hmm hmm, now that you mention it,
-216719	+	　法王の面影があるかな……」	　there is a resemblance to the Pope...」
+216718	Lia Parapara Leazas		「ふむふむ、言われてみると、	「Hmm hmm, now that you mention it,
+216719	+		　法王の面影があるかな……」	　there is a resemblance to the Pope...」
 
-216720	Lia Parapara Leazas	「ふふ」	「Fufu.」
+216720	Lia Parapara Leazas		「ふふ」	「Fufu.」
 
-216721	-	そして、にっこりと満面の笑みを浮かべた。	Then she broke into a full smile.
+216721	-		そして、にっこりと満面の笑みを浮かべた。	Then she broke into a full smile.
 
-216722	Lia Parapara Leazas	「可愛いわねー、	「How cute,
-216723	+	　やっぱりダーリンの子はみんな可愛いわ」	　as expected, all of Darling's children are cute.」
+216722	Lia Parapara Leazas		「可愛いわねー、	「How cute,
+216723	+		　やっぱりダーリンの子はみんな可愛いわ」	　as expected, all of Darling's children are cute.」
 
-216724	Lia Parapara Leazas	「リアのこと、おかーさんって呼んでいいのよ？	「You can call Lia 'Mom', okay?
-216725	+	　ダーリンの正妻として側室の子も	　As Darling's legal wife, I'll cherish
-216726	+	　みーんな大切にしてあげる」	　all the children from his concubines too.」
+216724	Lia Parapara Leazas		「リアのこと、おかーさんって呼んでいいのよ？	「You can call Lia 'Mom', okay?
+216725	+		　ダーリンの正妻として側室の子も	　As Darling's legal wife, I'll cherish
+216726	+		　みーんな大切にしてあげる」	　all the children from his concubines too.」
 
-216727	Lia Parapara Leazas	「で、魔王ランスを止める為の旅よね」	「So, a journey to stop Demon King Rance, right?」
+216727	Lia Parapara Leazas		「で、魔王ランスを止める為の旅よね」	「So, a journey to stop Demon King Rance, right?」
 
-216728	Lia Parapara Leazas	「うん、オッケー。	「Yeah, okay.
-216729	+	　みんなで協力して頑張って	　Work hard together
-216730	+	　魔王ランスに会いに行くといいわー」	　and go meet Demon King Rance~」
+216728	Lia Parapara Leazas		「うん、オッケー。	「Yeah, okay.
+216729	+		　みんなで協力して頑張って	　Work hard together
+216730	+		　魔王ランスに会いに行くといいわー」	　and go meet Demon King Rance~」
 
-216731	Lia Parapara Leazas	「もちろん、リアの息子である、	「Of course, I'll have my son,
-216732	+	　ザンスもちゃーんと参加させてあげる」	　Zance, properly participate too.」
+216731	Lia Parapara Leazas		「もちろん、リアの息子である、	「Of course, I'll have my son,
+216732	+		　ザンスもちゃーんと参加させてあげる」	　Zance, properly participate too.」
 
-216733	Lia Parapara Leazas	「それとオーブ？　っていうのが必要なのよね？	「And you need those Orbs, right?
-216734	+	　うん、それも情報収集してあげるから安心して」	　Yeah, I'll gather information on them too, so relax.」
+216733	Lia Parapara Leazas		「それとオーブ？　っていうのが必要なのよね？	「And you need those Orbs, right?
+216734	+		　うん、それも情報収集してあげるから安心して」	　Yeah, I'll gather information on them too, so relax.」
 
-216735	Reset Kalar	「わあっ、ありがとうございます」	「Waa, thank you very much!」
+216735	Reset Kalar	口開き	「わあっ、ありがとうございます」	「Waa, thank you very much!」
 
-216736	Reset Kalar	「ふふ、良かったね、＜エール＞ちゃん」	「Fufu, that's great, ＜エール＞-chan.」
+216736	Reset Kalar	笑顔	「ふふ、良かったね、＜エール＞ちゃん」	「Fufu, that's great, ＜エール＞-chan.」
 
-216737	Lia Parapara Leazas	「と……言いたいんだけど……」	「That's what I'd like to say, but...」
+216737	Lia Parapara Leazas	基本	「と……言いたいんだけど……」	「That's what I'd like to say, but...」
 
-216738	Nagata-kun	「え？」	「Eh?」
+216738	Nagata-kun		「え？」	「Eh?」
 
-216739	Lia Parapara Leazas	「実は今、赤の軍が遠征に出ていて、	「Actually, the Red Army is currently on expedition,
-216740	+	　将軍であるザンスが帰ってくるのは	　so General Zance will take some time
-216741	+	　時間がかかりそうなの」	　to return.」
+216739	Lia Parapara Leazas		「実は今、赤の軍が遠征に出ていて、	「Actually, the Red Army is currently on expedition,
+216740	+		　将軍であるザンスが帰ってくるのは	　so General Zance will take some time
+216741	+		　時間がかかりそうなの」	　to return.」
 
-216742	Lia Parapara Leazas	「みんなにはしばらくここで待っていて貰って――」	「I'd like everyone to wait here for a while--」
+216742	Lia Parapara Leazas		「みんなにはしばらくここで待っていて貰って――」	「I'd like everyone to wait here for a while--」
 
-216743	Zance Leazas	「その必要はねーぜ」	「No need for that.」
+216743	Zance Leazas		「その必要はねーぜ」	「No need for that.」
 
-216744	Lia Parapara Leazas	「あら？」	「Oh?」
+216744	Lia Parapara Leazas		「あら？」	「Oh?」
 
-216745	Zance Leazas	「仕事ならもう終わったところだ」	「Work's already done.」
+216745	Zance Leazas		「仕事ならもう終わったところだ」	「Work's already done.」
 
-216746	-	リアの一人息子、赤の軍の将軍、	Lia's only son, General of the Red Army,
-216747	+	ザンス・リーザスが現れた。	Zance Leazas appeared.
+216746	-		リアの一人息子、赤の軍の将軍、	Lia's only son, General of the Red Army,
+216747	+		ザンス・リーザスが現れた。	Zance Leazas appeared.

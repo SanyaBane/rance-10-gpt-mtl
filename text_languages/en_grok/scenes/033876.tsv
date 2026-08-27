@@ -1,11 +1,11 @@
 # 33876	t２２０／２／遠くのバボラ	
 
-253632	?	移動中の会話	Conversation during movement.
-253633	+	バボラが遠くに見える、だが・・近寄っても近寄っても遠くのまま	Babolat can be seen far away, but no matter how close we get, he still seems far off.
-253634	+	あー、まだかよ。	Ah, not yet, huh.
-253635	+	後数キロありますね。見えているけど遠い	There are still several kilometers left. We can see him but he's far away.
-253636	+	if (確認("サテラが居る")==1)	if (Confirm("Satella is here") == 1)
-253637	+	　サテラがバボラについて語ります	Satella talks about Babolat.
-253638	+	　ケイブリス側の魔人、巨人　身長５７メートル	A Fiend on the Kayblis side, a giant 57 meters tall.
-253639	+	　興味ないのであまり知らない、たぶんバカだと思う	Not very interested, so she doesn't know much; probably thinks he's an idiot.
-253640	+	　直接戦った事は無い、サテラは嫌い、下品	Never fought him directly. Satella dislikes him; thinks he's vulgar.
+253632	?		移動中の会話	Conversation during movement.
+253633	+		バボラが遠くに見える、だが・・近寄っても近寄っても遠くのまま	Babolat can be seen far away, but no matter how close we get, he still seems far off.
+253634	+		あー、まだかよ。	Ah, not yet, huh.
+253635	+		後数キロありますね。見えているけど遠い	There are still several kilometers left. We can see him but he's far away.
+253636	+		if (確認("サテラが居る")==1)	if (Confirm("Satella is here") == 1)
+253637	+		　サテラがバボラについて語ります	Satella talks about Babolat.
+253638	+		　ケイブリス側の魔人、巨人　身長５７メートル	A Fiend on the Kayblis side, a giant 57 meters tall.
+253639	+		　興味ないのであまり知らない、たぶんバカだと思う	Not very interested, so she doesn't know much; probably thinks he's an idiot.
+253640	+		　直接戦った事は無い、サテラは嫌い、下品	Never fought him directly. Satella dislikes him; thinks he's vulgar.

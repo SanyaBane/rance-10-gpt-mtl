@@ -3,105 +3,105 @@
 * El Mofus	エール２	Player's choice
 * Rocky Bank	ロッキー２	Male
 
-212007	Nagata-kun	「あっちぃ〜……暑い〜……」	「So hooot... It's hot...」
+212007	Nagata-kun	基本	「あっちぃ〜……暑い〜……」	「So hooot... It's hot...」
 
-212008	-	長田君が猫背になりながら、	Nagata-kun walked with a slouched back,
-212009	+	死にそうな顔でとぼとぼと歩いていた。	his face looking half-dead as he trudged along.
+212008	-		長田君が猫背になりながら、	Nagata-kun walked with a slouched back,
+212009	+		死にそうな顔でとぼとぼと歩いていた。	his face looking half-dead as he trudged along.
 
-212010	-	それを隣で聞きながら、	Listening to him beside him,
-212011	+	あなたは頬を流れる汗をぬぐった。	you wiped the sweat running down your cheek.
+212010	-		それを隣で聞きながら、	Listening to him beside him,
+212011	+		あなたは頬を流れる汗をぬぐった。	you wiped the sweat running down your cheek.
 
-212012	Nagata-kun	「ここって砂漠の外周っしょ？	「This is just the outer edge of the desert, right?
-212013	+	　本格的に中に入ったらどうなっちまうわけ？」	　What the hell will it be like once we go deeper in?」
+212012	Nagata-kun		「ここって砂漠の外周っしょ？	「This is just the outer edge of the desert, right?
+212013	+		　本格的に中に入ったらどうなっちまうわけ？」	　What the hell will it be like once we go deeper in?」
 
-212014	Nagata-kun	「…………あっちぃ〜」	「............So hooot...」
+212014	Nagata-kun		「…………あっちぃ〜」	「............So hooot...」
 
-212015	El Mofus	「…………。」	「............」
-212016	Nagata-kun	「それは分かってっけどさぁ〜……」	「I know that, but still...」
+212015	El Mofus		「…………。」	「............」
+212016	Nagata-kun		「それは分かってっけどさぁ〜……」	「I know that, but still...」
 
-212017	Nagata-kun	「なー？　だよなー？」	「Right? You agree, right?」
+212017	Nagata-kun		「なー？　だよなー？」	「Right? You agree, right?」
 
-212018	Nagata-kun	「…………」	「............」
+212018	Nagata-kun		「…………」	「............」
 
-212019	Nagata-kun	「あっちぃ〜……」	「So hooot...」
+212019	Nagata-kun		「あっちぃ〜……」	「So hooot...」
 
-212020	-	どこまでも続くと思われる	The desert path that seemed to stretch on forever
-212021	+	砂漠の道をとぼとぼと歩いていた。	was trudged along wearily.
+212020	-		どこまでも続くと思われる	The desert path that seemed to stretch on forever
+212021	+		砂漠の道をとぼとぼと歩いていた。	was trudged along wearily.
 
-212022	Rocky Bank	「お、二人とも、見えてきただすよ！」	「Oh, you two, I can see it now!」
+212022	Rocky Bank	楽	「お、二人とも、見えてきただすよ！」	「Oh, you two, I can see it now!」
 
-212023	Nagata-kun	「……お？」	「...Oh?」
+212023	Nagata-kun	基本	「……お？」	「...Oh?」
 
-212024	Nagata-kun	「うっは〜、すっげぇ〜……」	「Whoa~, it's huge...」
+212024	Nagata-kun		「うっは〜、すっげぇ〜……」	「Whoa~, it's huge...」
 
-212025	-	ロッキーの指さす先には、	Where Rocky was pointing,
-212026	+	砂漠のどこかへ向けて一直線に伸びる	a single straight road stretched out across the desert
-212027	+	一本の道があった。	toward some distant point.
+212025	-		ロッキーの指さす先には、	Where Rocky was pointing,
+212026	+		砂漠のどこかへ向けて一直線に伸びる	a single straight road stretched out across the desert
+212027	+		一本の道があった。	toward some distant point.
 
-212028	-	その長さは凄まじく、	Its length was incredible,
-212029	+	地平線の中に飲み込まれてしまっていた。	swallowed up by the horizon.
+212028	-		その長さは凄まじく、	Its length was incredible,
+212029	+		地平線の中に飲み込まれてしまっていた。	swallowed up by the horizon.
 
-212030	Nagata-kun	「すっご……なにこれ……」	「Amazing... What is this...」
+212030	Nagata-kun		「すっご……なにこれ……」	「Amazing... What is this...」
 
-212031	Rocky Bank	「聖女モンスターの	「Do you know about the Holy Gal Monster
-212032	+	　ハウセスナース様って知ってるだすか？」	　called Housesnurse-sama?」
+212031	Rocky Bank		「聖女モンスターの	「Do you know about the Holy Gal Monster
+212032	+		　ハウセスナース様って知ってるだすか？」	　called Housesnurse-sama?」
 
-212033	Rocky Bank	「15年前の戦争後に彼女が、	「After the war fifteen years ago, she
-212034	+	　こうしてシャングリラまでの道を、	　created these roads to Shangri-La
-212035	+	　各国に合わせて4つ作って下さっただす」	　in four different versions suited to each country.」
+212033	Rocky Bank		「15年前の戦争後に彼女が、	「After the war fifteen years ago, she
+212034	+		　こうしてシャングリラまでの道を、	　created these roads to Shangri-La
+212035	+		　各国に合わせて4つ作って下さっただす」	　in four different versions suited to each country.」
 
-212036	Rocky Bank	「この道のおかげで、今まで幻の都市だった、	「Thanks to these roads, the once-fabled city
-212037	+	　世界の中心にあるシャングリラは、	　of Shangri-La at the center of the world
-212038	+	　世界一の貿易都市としてとても栄えただ」	　has become the world's greatest trading city.」
+212036	Rocky Bank		「この道のおかげで、今まで幻の都市だった、	「Thanks to these roads, the once-fabled city
+212037	+		　世界の中心にあるシャングリラは、	　of Shangri-La at the center of the world
+212038	+		　世界一の貿易都市としてとても栄えただ」	　has become the world's greatest trading city.」
 
-212039	Nagata-kun	「は〜っ……	「Haa...
-212040	+	　歴史の勉強になるなあ」	　This is turning into a history lesson.」
+212039	Nagata-kun		「は〜っ……	「Haa...
+212040	+		　歴史の勉強になるなあ」	　This is turning into a history lesson.」
 
-212041	Rocky Bank	「この道の上は比較的安全だすが、	「It's relatively safe on this road,
-212042	+	　少しでも外れるとモンスターが出るわ、	　but if you step even a little off it, monsters appear,
-212043	+	　遭難もするかもだそうだす」	　and you might even get lost.」
+212041	Rocky Bank		「この道の上は比較的安全だすが、	「It's relatively safe on this road,
+212042	+		　少しでも外れるとモンスターが出るわ、	　but if you step even a little off it, monsters appear,
+212043	+		　遭難もするかもだそうだす」	　and you might even get lost.」
 
-212044	Rocky Bank	「過度に怯えなくていいだすが、	「No need to be too scared,
-212045	+	　一応気をつけて進みましょうだ」	　but let's stay alert as we go.」
+212044	Rocky Bank	楽	「過度に怯えなくていいだすが、	「No need to be too scared,
+212045	+		　一応気をつけて進みましょうだ」	　but let's stay alert as we go.」
 
-212046	Rocky Bank	「あ、リセット様がいるだすよ」	「Ah, there's Reset-sama.」
+212046	Rocky Bank	基本	「あ、リセット様がいるだすよ」	「Ah, there's Reset-sama.」
 
-212047	Nagata-kun	「え、嘘！？　こんな場所にいるんすか！？」	「Eh, for real!? She's in a place like this!?」
+212047	Nagata-kun		「え、嘘！？　こんな場所にいるんすか！？」	「Eh, for real!? She's in a place like this!?」
 
-212048	Rocky Bank	「あはは、違うだすよ。	「Ahaha, no, not really.
-212049	+	　あの看板のことだすよ」	　I meant that sign over there.」
+212048	Rocky Bank		「あはは、違うだすよ。	「Ahaha, no, not really.
+212049	+		　あの看板のことだすよ」	　I meant that sign over there.」
 
-212050	-	ロッキーが指し示したのは、	What Rocky pointed at
-212051	+	シャングリラへの案内板であった。	was a sign pointing the way to Shangri-La.
+212050	-		ロッキーが指し示したのは、	What Rocky pointed at
+212051	+		シャングリラへの案内板であった。	was a sign pointing the way to Shangri-La.
 
-212052	-	看板には元気いっぱいで、	On the sign was a vibrant,
-212053	+	満面の笑顔のカラーの少女が描かれていた。	full-smiling Kalar girl drawn on it.
+212052	-		看板には元気いっぱいで、	On the sign was a vibrant,
+212053	+		満面の笑顔のカラーの少女が描かれていた。	full-smiling Kalar girl drawn on it.
 
-212054	Nagata-kun	「おいでませ☆シャングリラ……か」	「Welcome☆ to Shangri-La... huh.」
+212054	Nagata-kun		「おいでませ☆シャングリラ……か」	「Welcome☆ to Shangri-La... huh.」
 
-212055	Nagata-kun	「この看板に描かれてる女の子が	「Is the girl drawn on this sign
-212056	+	　リセットさんなんすか？」	　Reset-san?」
+212055	Nagata-kun		「この看板に描かれてる女の子が	「Is the girl drawn on this sign
+212056	+		　リセットさんなんすか？」	　Reset-san?」
 
-212057	Rocky Bank	「ふふ、もう十数年前の姿だすけどね」	「Fufu, that's from more than ten years ago though.」
+212057	Rocky Bank		「ふふ、もう十数年前の姿だすけどね」	「Fufu, that's from more than ten years ago though.」
 
-212058	Rocky Bank	「懐かしいだすなぁ……」	「Brings back memories...」
+212058	Rocky Bank		「懐かしいだすなぁ……」	「Brings back memories...」
 
-212059	Rocky Bank	「カラーの一族の住処が森の中から、	「When the Kalar clan's home changed from deep forest
-212060	+	　砂漠に変わる時、この看板立てたのは、	　to desert, the one who helped set up this sign
-212061	+	　実は手伝いに来たおらだったんだすよ」	　was actually me.」
+212059	Rocky Bank		「カラーの一族の住処が森の中から、	「When the Kalar clan's home changed from deep forest
+212060	+		　砂漠に変わる時、この看板立てたのは、	　to desert, the one who helped set up this sign
+212061	+		　実は手伝いに来たおらだったんだすよ」	　was actually me.」
 
-212062	Nagata-kun	「はぁ〜……	「Haa...
-212063	+	　人に歴史ありっすねぇ」	　Everyone's got their own history.」
+212062	Nagata-kun		「はぁ〜……	「Haa...
+212063	+		　人に歴史ありっすねぇ」	　Everyone's got their own history.」
 
-212064	Rocky Bank	「リセット様に会うのは久し振りだから、	「It's been a long time since I last saw Reset-sama,
-212065	+	　おらもとても楽しみだすだよ」	　so I'm really looking forward to it.」
+212064	Rocky Bank		「リセット様に会うのは久し振りだから、	「It's been a long time since I last saw Reset-sama,
+212065	+		　おらもとても楽しみだすだよ」	　so I'm really looking forward to it.」
 
-212066	Rocky Bank	「さ、さ、＜エール＞様、長田君。	「Come on, come on, Lady ＜エール＞, Nagata-kun.
-212067	+	　急ぎましょうだ〜」	　Let's hurry~」
+212066	Rocky Bank	楽	「さ、さ、＜エール＞様、長田君。	「Come on, come on, Lady ＜エール＞, Nagata-kun.
+212067	+		　急ぎましょうだ〜」	　Let's hurry~」
 
-212068	Nagata-kun	「あ、ちょ、ロッキーさん！	「Ah, wait, Rocky-san!
-212069	+	　待って下さいよ〜！」	　Wait for us~!」
+212068	Nagata-kun	基本	「あ、ちょ、ロッキーさん！	「Ah, wait, Rocky-san!
+212069	+		　待って下さいよ〜！」	　Wait for us~!」
 
-212070	-	少し浮かれ気味のロッキーを追いかけ、	Chasing after the slightly excited Rocky,
-212071	+	あなたと長田君はシャングリラへの道、	you and Nagata-kun began walking
-212072	+	アウトバーンを進み始めた。	along the Outbahn road to Shangri-La.
+212070	-		少し浮かれ気味のロッキーを追いかけ、	Chasing after the slightly excited Rocky,
+212071	+		あなたと長田君はシャングリラへの道、	you and Nagata-kun began walking
+212072	+		アウトバーンを進み始めた。	along the Outbahn road to Shangri-La.

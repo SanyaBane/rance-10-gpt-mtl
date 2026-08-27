@@ -7,75 +7,75 @@
 * Arcy Julietta	アーシー	Female
 * Peruele Kalette	ペルエレ	Female
 
-7265	-	ランス達は雪中進軍をしていた。	Rance and the others were marching through the snow.
+7265	-		ランス達は雪中進軍をしていた。	Rance and the others were marching through the snow.
 
-7266	Rance	「ひぃっ、はぁっ……う、ぐおおお、寒いっ……！	「Hii, haa... U, guooo, it's cold...!
-7267	+	　なんでここはこう、くそ寒いのだっ……！	　Why the hell is it so fucking cold here...!
-7268	+	　滅べ、ヘルマンッ！」	　Die, Helman!」
+7266	Rance	怒り	「ひぃっ、はぁっ……う、ぐおおお、寒いっ……！	「Hii, haa... U, guooo, it's cold...!
+7267	+		　なんでここはこう、くそ寒いのだっ……！	　Why the hell is it so fucking cold here...!
+7268	+		　滅べ、ヘルマンッ！」	　Die, Helman!」
 
-7269	Hubert Lipton	「吹雪いてんのは	「The blizzard isn't
-7270	+	　ヘルマンのせいじゃねーだろッ！」	　Helman's fault!」
+7269	Hubert Lipton	基本	「吹雪いてんのは	「The blizzard isn't
+7270	+		　ヘルマンのせいじゃねーだろッ！」	　Helman's fault!」
 
-7271	Rance	「くそ、くそっ……！	「Damn it, damn it...!
-7272	+	　ええい、動かしてないと口が凍る……シィル！」	　If I stop moving my mouth will freeze... Sill!」
+7271	Rance	イライラ	「くそ、くそっ……！	「Damn it, damn it...!
+7272	+		　ええい、動かしてないと口が凍る……シィル！」	　If I stop moving my mouth will freeze... Sill!」
 
-7273	Sill Plain	「はひ、はい、やってます〜……	「Hahi, yes, I'm doing it~...
-7274	+	　ぬ、ぬくもれ〜ぬくもれ〜……」	　W-warmth~ warmth~...」
+7273	Sill Plain	慌て	「はひ、はい、やってます〜……	「Hahi, yes, I'm doing it~...
+7274	+		　ぬ、ぬくもれ〜ぬくもれ〜……」	　W-warmth~ warmth~...」
 
-7275	Rance	「くそ、全然効かん……！	「Damn, it's not working at all...!
-7276	+	　天め……俺様を見放すつもりかっ……！」	　Heaven... Are you abandoning me...!」
+7275	Rance	イライラ	「くそ、全然効かん……！	「Damn, it's not working at all...!
+7276	+		　天め……俺様を見放すつもりかっ……！」	　Heaven... Are you abandoning me...!」
 
-7277	Mercy Julietta	「…………はっ！　すとーーっぷ！」	「............Hah! Stoooop!」
+7277	Mercy Julietta	基本	「…………はっ！　すとーーっぷ！」	「............Hah! Stoooop!」
 
-7278	Rance	「あぁん！？　なんだアンモスのガキ！」	「Haaah!? What do you want, you Ammos brat!」
+7278	Rance	怒り	「あぁん！？　なんだアンモスのガキ！」	「Haaah!? What do you want, you Ammos brat!」
 
-7279	Mercy Julietta	「むむ、むむむむ！　インスピレーション！	「Mumu, mumumumu! Inspiration!
-7280	+	　占いの時間！　だよ！」	　It's fortune telling time!」
+7279	Mercy Julietta	基本	「むむ、むむむむ！　インスピレーション！	「Mumu, mumumumu! Inspiration!
+7280	+		　占いの時間！　だよ！」	　It's fortune telling time!」
 
-7281	Rance	「ええい、このクソ寒い中、そんな……！」	「Damn it, in this freezing cold...!」
+7281	Rance	イライラ	「ええい、このクソ寒い中、そんな……！」	「Damn it, in this freezing cold...!」
 
-7282	Patton Helman	「いやまて、例の占い姉妹なんだろ？	「Wait, it's those fortune teller sisters, right?
-7283	+	　何か重要な情報かもしれんぞ」	　It might be important info.」
+7282	Patton Helman	基本	「いやまて、例の占い姉妹なんだろ？	「Wait, it's those fortune teller sisters, right?
+7283	+		　何か重要な情報かもしれんぞ」	　It might be important info.」
 
-7284	Rance	「えぇい、そんなもんお前らが聞いとけ！	「Ugh, you guys listen to that crap!
-7285	+	　ぐお、さむさむさむ……！」	　Guoo, cold cold cold...!」
+7284	Rance	イライラ	「えぇい、そんなもんお前らが聞いとけ！	「Ugh, you guys listen to that crap!
+7285	+		　ぐお、さむさむさむ……！」	　Guoo, cold cold cold...!」
 
-7286	Patton Helman	「まあまあ、すぐ済むだろ」	「There there, it'll be quick.」
+7286	Patton Helman	基本	「まあまあ、すぐ済むだろ」	「There there, it'll be quick.」
 
-7287	Rance	「くっ……仕方ないな……	「Kuh... Can't be helped...
-7288	+	　さっさとやれーーー！」	　Hurry up and do it!」
+7287	Rance	怒り	「くっ……仕方ないな……	「Kuh... Can't be helped...
+7288	+		　さっさとやれーーー！」	　Hurry up and do it!」
 
-7289	Mercy Julietta	「ん〜〜〜〜！　ぱおぱおぱお！	「N~~~~! Pao pao pao!
-7290	+	　マーシーちゃんの、占いっ……！」	　Mercy-chan's fortune...!」
+7289	Mercy Julietta	基本	「ん〜〜〜〜！　ぱおぱおぱお！	「N~~~~! Pao pao pao!
+7290	+		　マーシーちゃんの、占いっ……！」	　Mercy-chan's fortune...!」
 
-7291	Rance	「おっ、始まるか！　なんだ？」	「Oh, it's starting! What is it?」
+7291	Rance	驚き	「おっ、始まるか！　なんだ？」	「Oh, it's starting! What is it?」
 
-7292	Mercy Julietta	「明日の〜〜〜〜ここの天気は〜〜〜〜〜！	「Tomorrow's~~~~ weather here~~~~~!
-7293	+	　吹雪だよ〜〜〜〜！　ぱおぱおぱお！」	　Is a blizzard~~~~! Pao pao pao!」
+7292	Mercy Julietta	基本	「明日の〜〜〜〜ここの天気は〜〜〜〜〜！	「Tomorrow's~~~~ weather here~~~~~!
+7293	+		　吹雪だよ〜〜〜〜！　ぱおぱおぱお！」	　Is a blizzard~~~~! Pao pao pao!」
 
-7294	Rance	「ンなモン見りゃわかるわっ！」	「Anyone can tell that just by looking!」
+7294	Rance	怒り	「ンなモン見りゃわかるわっ！」	「Anyone can tell that just by looking!」
 
-7295	Mercy Julietta	「いたぁっ！？」	「Ouch!?」
+7295	Mercy Julietta	基本	「いたぁっ！？」	「Ouch!?」
 
-7296	Mercy Julietta	「しくしくしく……ここで出会った人、	「Sniff sniff... Everyone I meet here
-7297	+	　みんなそう言うのね……	　says the same thing...
-7298	+	　マーシー、天の予言者なのに……」	　Even though Mercy is a prophet of the heavens...」
+7296	Mercy Julietta		「しくしくしく……ここで出会った人、	「Sniff sniff... Everyone I meet here
+7297	+		　みんなそう言うのね……	　says the same thing...
+7298	+		　マーシー、天の予言者なのに……」	　Even though Mercy is a prophet of the heavens...」
 
-7299	Arcy Julietta	「マーシーちゃん、	「Mercy-chan,
-7300	+	　ずっとここでやってたんだね……」	　you've been doing this here all along...」
+7299	Arcy Julietta		「マーシーちゃん、	「Mercy-chan,
+7300	+		　ずっとここでやってたんだね……」	　you've been doing this here all along...」
 
-7301	Patton Helman	「ずっとここで……	「All this time here...
-7302	+	　天気の占い…………？」	　Doing weather forecasts...?」
+7301	Patton Helman	真剣	「ずっとここで……	「All this time here...
+7302	+		　天気の占い…………？」	　Doing weather forecasts...?」
 
-7303	Patton Helman	「…………おぉっ！　ヘルマンの七不思議！	「............Ohh! One of Helman's Seven Wonders!
-7304	+	　シベリアのお天気ぞうさん……！	　The Siberian weather elephant...!
-7305	+	　もしかして、お前さんがそうなのか！」	　Could it be you!?」
+7303	Patton Helman	叫び	「…………おぉっ！　ヘルマンの七不思議！	「............Ohh! One of Helman's Seven Wonders!
+7304	+		　シベリアのお天気ぞうさん……！	　The Siberian weather elephant...!
+7305	+		　もしかして、お前さんがそうなのか！」	　Could it be you!?」
 
-7306	Hubert Lipton	「マジかっ！？	「For real!?」
-7307	+	　俺もガキの頃、本で読んだ事があるぞ……	　I read about it in a book when I was a kid...
-7308	+	　挿絵が完全にホラーでなぁ」	　The illustrations were pure horror.」
+7306	Hubert Lipton	困惑	「マジかっ！？	「For real!?」
+7307	+		　俺もガキの頃、本で読んだ事があるぞ……	　I read about it in a book when I was a kid...
+7308	+		　挿絵が完全にホラーでなぁ」	　The illustrations were pure horror.」
 
-7309	Peruele Kalette	「実在したのね……お天気ぞうさん……」	「It really existed... the weather elephant...」
+7309	Peruele Kalette	基本	「実在したのね……お天気ぞうさん……」	「It really existed... the weather elephant...」
 
-7310	Mercy Julietta	「ま、マーシーちゃん、	「M-Mercy-chan,
-7311	+	　都市伝説になってるっ！？」	　became an urban legend!?」
+7310	Mercy Julietta		「ま、マーシーちゃん、	「M-Mercy-chan,
+7311	+		　都市伝説になってるっ！？」	　became an urban legend!?」

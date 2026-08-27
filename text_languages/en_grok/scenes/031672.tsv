@@ -4,302 +4,302 @@
 * Cream Ganoblade	クリーム	Female
 * Hubert Lipton	ヒューバート	Male
 
-96109	-	ペルエレ・カレット。	Peruele Calette.
-96110	+	ヘルマン初代大統領の秘書。	Secretary to the first President of Helman.
+96109	-		ペルエレ・カレット。	Peruele Calette.
+96110	+		ヘルマン初代大統領の秘書。	Secretary to the first President of Helman.
 
-96111	-	彼女の秘書としての仕事は膨大である。	Her duties as secretary are enormous.
+96111	-		彼女の秘書としての仕事は膨大である。	Her duties as secretary are enormous.
 
-96112	-	まず、朝。	First, in the morning.
-96113	+	誰よりも早く起きて大統領の簡単な朝食の用意に、	She wakes up earlier than anyone to prepare the President's simple breakfast,
-96114	+	就業前に前日に溜まった書類の整理から始まる。	and starts by organizing the documents piled up from the previous day before work begins.
+96112	-		まず、朝。	First, in the morning.
+96113	+		誰よりも早く起きて大統領の簡単な朝食の用意に、	She wakes up earlier than anyone to prepare the President's simple breakfast,
+96114	+		就業前に前日に溜まった書類の整理から始まる。	and starts by organizing the documents piled up from the previous day before work begins.
 
-96115	Peruele Kalette	「ふわぁ〜、おはよー……」	「Fwaa~, good morning...」
+96115	Peruele Kalette	ジト目	「ふわぁ〜、おはよー……」	「Fwaa~, good morning...」
 
-96116	Sheila Helman	「あっ、おはよう、ペルエレ。	「Ah, good morning, Peruele.
-96117	+	　朝ご飯どうする？」	　What do you want for breakfast?」
+96116	Sheila Helman	基本	「あっ、おはよう、ペルエレ。	「Ah, good morning, Peruele.
+96117	+		　朝ご飯どうする？」	　What do you want for breakfast?」
 
-96118	Peruele Kalette	「うん、食べる……」	「Yeah, I'll eat...」
+96118	Peruele Kalette		「うん、食べる……」	「Yeah, I'll eat...」
 
-96119	Sheila Helman	「コーヒー？　紅茶？	「Coffee? Black tea?
-96120	+	　緑茶もあるけど……」	　We have green tea too...」
+96119	Sheila Helman		「コーヒー？　紅茶？	「Coffee? Black tea?
+96120	+		　緑茶もあるけど……」	　We have green tea too...」
 
-96121	Peruele Kalette	「んー、今朝はコーヒー、かな……」	「Mmm, coffee this morning, I guess...」
+96121	Peruele Kalette		「んー、今朝はコーヒー、かな……」	「Mmm, coffee this morning, I guess...」
 
-96122	Sheila Helman	「はーい」	「Okay~」
+96122	Sheila Helman	笑顔	「はーい」	「Okay~」
 
-96123	Peruele Kalette	「ん？　昨日の書類ってどこ行ったの？」	「Hm? Where did yesterday's documents go?」
+96123	Peruele Kalette	基本	「ん？　昨日の書類ってどこ行ったの？」	「Hm? Where did yesterday's documents go?」
 
-96124	Sheila Helman	「あ、さっき整理しておいた」	「Ah, I organized them earlier.」
+96124	Sheila Helman		「あ、さっき整理しておいた」	「Ah, I organized them earlier.」
 
-96125	Peruele Kalette	「んー、ご苦労。	「Mmm, good work.
-96126	+	　あ、砂糖は三つね」	　Ah, three sugars please.」
+96125	Peruele Kalette		「んー、ご苦労。	「Mmm, good work.
+96126	+		　あ、砂糖は三つね」	　Ah, three sugars please.」
 
-96127	Sheila Helman	「うん」	「Okay.」
+96127	Sheila Helman		「うん」	「Okay.」
 
-96128	-	仕事が始まると、大統領宛の書類が	Once work starts, documents addressed to the President
-96129	+	次から次へと送られて膨大になる。	keep coming in one after another, becoming a huge pile.
+96128	-		仕事が始まると、大統領宛の書類が	Once work starts, documents addressed to the President
+96129	+		次から次へと送られて膨大になる。	keep coming in one after another, becoming a huge pile.
 
-96130	-	大統領がまともな職務を送れているのは、	The reason the President can perform her duties properly
-96131	+	側に仕える優秀な秘書あってのことである。	is thanks to the excellent secretary by her side.
+96130	-		大統領がまともな職務を送れているのは、	The reason the President can perform her duties properly
+96131	+		側に仕える優秀な秘書あってのことである。	is thanks to the excellent secretary by her side.
 
-96132	Peruele Kalette	「ふわぁ〜〜〜……ねむ……」	「Fwaa~~~... sleepy...」
+96132	Peruele Kalette	ジト目	「ふわぁ〜〜〜……ねむ……」	「Fwaa~~~... sleepy...」
 
-96133	Sheila Helman	「少し眠る？」	「Want to sleep a bit?」
+96133	Sheila Helman	基本	「少し眠る？」	「Want to sleep a bit?」
 
-96134	Peruele Kalette	「そうする。	「Yeah, I will.
-96135	+	　あんたは仕事？」	　What about your work?」
+96134	Peruele Kalette	ジト目	「そうする。	「Yeah, I will.
+96135	+		　あんたは仕事？」	　What about your work?」
 
-96136	Sheila Helman	「うん、休んでる暇はもうちょっとなさそう」	「Yeah, I don't seem to have time to rest yet.」
+96136	Sheila Helman	基本	「うん、休んでる暇はもうちょっとなさそう」	「Yeah, I don't seem to have time to rest yet.」
 
-96137	Peruele Kalette	「そ、頑張ってね」	「Okay, good luck.」
+96137	Peruele Kalette	ジト目	「そ、頑張ってね」	「Okay, good luck.」
 
-96138	Sheila Helman	「うんっ」	「Yeah!」
+96138	Sheila Helman	笑顔	「うんっ」	「Yeah!」
 
-96139	Peruele Kalette	「さぁ〜て、私はもう一眠り……」	「Now then, time for another nap...」
+96139	Peruele Kalette	基本	「さぁ〜て、私はもう一眠り……」	「Now then, time for another nap...」
 
-96140	-	秘書といえど全ての仕事をこなすわけではない。	Even as a secretary, she doesn't handle every single task.
-96141	+	時には心を鬼として大統領に職務を渡し、	Sometimes she has to be strict and hand duties back to the President,
-96142	+	政治の現状をより深く伝えることも行う。	and deeply explain the current political situation.
+96140	-		秘書といえど全ての仕事をこなすわけではない。	Even as a secretary, she doesn't handle every single task.
+96141	+		時には心を鬼として大統領に職務を渡し、	Sometimes she has to be strict and hand duties back to the President,
+96142	+		政治の現状をより深く伝えることも行う。	and deeply explain the current political situation.
 
-96143	-	これは特に、大統領と深く通じ合った	This is a job that only an excellent secretary
-96144	+	優秀な秘書にしか出来ない仕事と言え――	who deeply understands the President can do――
+96143	-		これは特に、大統領と深く通じ合った	This is a job that only an excellent secretary
+96144	+		優秀な秘書にしか出来ない仕事と言え――	who deeply understands the President can do――
 
-96145	Cream Ganoblade	「…………」	「............」
+96145	Cream Ganoblade		「…………」	「............」
 
-96146	Peruele Kalette	「あ、と思ったけど私も	「Ah, but maybe I should
-96147	+	　仕事しよっかなー……と……」	　do some work too...」
+96146	Peruele Kalette		「あ、と思ったけど私も	「Ah, but maybe I should
+96147	+		　仕事しよっかなー……と……」	　do some work too...」
 
-96148	Cream Ganoblade	「はあ……」	「Haa...」
+96148	Cream Ganoblade	ため息	「はあ……」	「Haa...」
 
-96149	-	お昼を回ると、大統領の秘書として、	After noon, as the President's secretary,
-96150	+	最も重要な業務が始まる。	the most important duties begin.
+96149	-		お昼を回ると、大統領の秘書として、	After noon, as the President's secretary,
+96150	+		最も重要な業務が始まる。	the most important duties begin.
 
-96151	-	それは大統領のスケジュールを調節し、	That is adjusting the President's schedule
-96152	+	訪問者との面会を調整する仕事である。	and managing meetings with visitors.
+96151	-		それは大統領のスケジュールを調節し、	That is adjusting the President's schedule
+96152	+		訪問者との面会を調整する仕事である。	and managing meetings with visitors.
 
-96153	-	単純なスケジュール調整の能力はもちろん、	Of course it requires not just simple scheduling ability,
-96154	+	現在の大統領の政界での立ち位置、政治、	but also deep knowledge of the President's current political position,
-96155	+	そして人間関係にも明るくないと出来ない。	politics, and personal relationships.
+96153	-		単純なスケジュール調整の能力はもちろん、	Of course it requires not just simple scheduling ability,
+96154	+		現在の大統領の政界での立ち位置、政治、	but also deep knowledge of the President's current political position,
+96155	+		そして人間関係にも明るくないと出来ない。	politics, and personal relationships.
 
-96156	-	秘書の仕事の中でも、	Among secretarial duties,
-96157	+	最も多彩な能力が求められる業務と言って	it is one that demands the widest range of skills
-96158	+	差し支えないだろう。	and could be called the most demanding.
+96156	-		秘書の仕事の中でも、	Among secretarial duties,
+96157	+		最も多彩な能力が求められる業務と言って	it is one that demands the widest range of skills
+96158	+		差し支えないだろう。	and could be called the most demanding.
 
-96159	Peruele Kalette	「えーと、この人とこの人はこの時間で……	「Let's see, this person and this person at this time...
-96160	+	　で、それが終わっての隙間にこの人入れて……」	　Then squeeze this person into the gap after that...」
+96159	Peruele Kalette	基本	「えーと、この人とこの人はこの時間で……	「Let's see, this person and this person at this time...
+96160	+		　で、それが終わっての隙間にこの人入れて……」	　Then squeeze this person into the gap after that...」
 
-96161	Peruele Kalette	「あ、時間がなくなった……」	「Ah, time ran out...」
+96161	Peruele Kalette		「あ、時間がなくなった……」	「Ah, time ran out...」
 
-96162	Peruele Kalette	「…………」	「............」
+96162	Peruele Kalette		「…………」	「............」
 
-96163	Peruele Kalette	「じゃ、この人とこの人、	「Well, this person and this person
-96164	+	　一緒の時間に面会でいいや」	　can meet at the same time.」
+96163	Peruele Kalette		「じゃ、この人とこの人、	「Well, this person and this person
+96164	+		　一緒の時間に面会でいいや」	　can meet at the same time.」
 
-96165	Sheila Helman	「うわ……適当……」	「Wow... so sloppy...」
+96165	Sheila Helman		「うわ……適当……」	「Wow... so sloppy...」
 
-96166	Peruele Kalette	「いーのいーの。	「It's fine, it's fine.
-96167	+	　こういうのは適当にやっても	　These things often work out even if done casually.」
-96168	+	　案外上手くいくもんよ」	
+96166	Peruele Kalette		「いーのいーの。	「It's fine, it's fine.
+96167	+		　こういうのは適当にやっても	　These things often work out even if done casually.」
+96168	+		　案外上手くいくもんよ」	
 
-96169	Cream Ganoblade	「ご安心下さい、シーラ様。	「Please rest assured, Sheila-sama.
-96170	+	　私も後で確認いたしますから」	　I'll check them later.」
+96169	Cream Ganoblade		「ご安心下さい、シーラ様。	「Please rest assured, Sheila-sama.
+96170	+		　私も後で確認いたしますから」	　I'll check them later.」
 
-96171	Peruele Kalette	「む、なんか馬鹿にされた気がする」	「Muu, I feel like I'm being looked down on.」
+96171	Peruele Kalette		「む、なんか馬鹿にされた気がする」	「Muu, I feel like I'm being looked down on.」
 
-96172	Sheila Helman	「でもペルエレは器用だよね。	「But Peruele is really skilled.
-96173	+	　色んなことが出来て」	　You can do so many things.」
+96172	Sheila Helman		「でもペルエレは器用だよね。	「But Peruele is really skilled.
+96173	+		　色んなことが出来て」	　You can do so many things.」
 
-96174	Peruele Kalette	「色んなことしてきたからねー」	「I've done a lot of things after all~」
+96174	Peruele Kalette		「色んなことしてきたからねー」	「I've done a lot of things after all~」
 
-96175	Cream Ganoblade~	（一度仕事を始めると早いのになあ……	（She works fast once she starts though...
-96176	+	　はあ……）	　Haa...）
+96175	Cream Ganoblade~	ため息	（一度仕事を始めると早いのになあ……	（She works fast once she starts though...
+96176	+		　はあ……）	　Haa...）
 
-96177	Peruele Kalette	「ん、こいつ……」	「Hm, this guy...」
+96177	Peruele Kalette	基本	「ん、こいつ……」	「Hm, this guy...」
 
-96178	Peruele Kalette	「あ、いたいた、そこのおにーちゃん」	「Ah, there you are, big brother over there.」
+96178	Peruele Kalette		「あ、いたいた、そこのおにーちゃん」	「Ah, there you are, big brother over there.」
 
-96179	Hubert Lipton	「お兄ちゃん言うな。	「Don't call me big brother.
-96180	+	　お前の兄になった気はねぇぞ」	　I have no intention of being your brother.」
+96179	Hubert Lipton		「お兄ちゃん言うな。	「Don't call me big brother.
+96180	+		　お前の兄になった気はねぇぞ」	　I have no intention of being your brother.」
 
-96181	Peruele Kalette	「シーラの兄みたいなもんでしょ、あんた」	「You're like Sheila's brother anyway.」
+96181	Peruele Kalette		「シーラの兄みたいなもんでしょ、あんた」	「You're like Sheila's brother anyway.」
 
-96182	Peruele Kalette	「それよりこれ。	「Anyway, look at this.
-96183	+	　この政治家、なんか臭い。	　This politician smells fishy.
-96184	+	　裏で悪いことしてそうな気がする」	　I get the feeling he's doing shady stuff behind the scenes.」
+96182	Peruele Kalette		「それよりこれ。	「Anyway, look at this.
+96183	+		　この政治家、なんか臭い。	　This politician smells fishy.
+96184	+		　裏で悪いことしてそうな気がする」	　I get the feeling he's doing shady stuff behind the scenes.」
 
-96185	-	ペルエレがぴらぴらと写真を見せる。	Peruele waved a photo around.
+96185	-		ペルエレがぴらぴらと写真を見せる。	Peruele waved a photo around.
 
-96186	Peruele Kalette	「ちょっと探ってみてよ。	「Look into it a bit.
-96187	+	　あの女暗殺者？　使ってとかで」	　Use that female assassin or something.」
+96186	Peruele Kalette		「ちょっと探ってみてよ。	「Look into it a bit.
+96187	+		　あの女暗殺者？　使ってとかで」	　Use that female assassin or something.」
 
-96188	Hubert Lipton	「……なんか証拠あるのか？」	「...Do you have any evidence?」
+96188	Hubert Lipton		「……なんか証拠あるのか？」	「...Do you have any evidence?」
 
-96189	Peruele Kalette	「や、目つきが気にくわなくて」	「Nah, I just don't like his eyes.」
+96189	Peruele Kalette		「や、目つきが気にくわなくて」	「Nah, I just don't like his eyes.」
 
-96190	Hubert Lipton	「お前……」	「You...」
+96190	Hubert Lipton	困惑	「お前……」	「You...」
 
-96191	Hubert Lipton	「いや、だが調べてみっか。	「Well, I'll look into it anyway.
-96192	+	　お前の悪人を見抜く目は確かだからな」	　Your eye for spotting bad guys is pretty reliable.」
+96191	Hubert Lipton	基本	「いや、だが調べてみっか。	「Well, I'll look into it anyway.
+96192	+		　お前の悪人を見抜く目は確かだからな」	　Your eye for spotting bad guys is pretty reliable.」
 
-96193	Peruele Kalette	「や、ただの勘だから過度な期待はしないでよ」	「It's just a hunch so don't expect too much.」
+96193	Peruele Kalette		「や、ただの勘だから過度な期待はしないでよ」	「It's just a hunch so don't expect too much.」
 
-96194	Hubert Lipton	「はいはい、分かってる」	「Yeah yeah, I know.」
+96194	Hubert Lipton		「はいはい、分かってる」	「Yeah yeah, I know.」
 
-96195	Hubert Lipton	「しかし、ありがとうな」	「But thanks.」
+96195	Hubert Lipton		「しかし、ありがとうな」	「But thanks.」
 
-96196	Peruele Kalette	「は？」	「Ha?」
+96196	Peruele Kalette		「は？」	「Ha?」
 
-96197	Hubert Lipton	「最初はこいつが秘書で大丈夫かと思ったが……」	「At first I wondered if she was okay as a secretary but...
+96197	Hubert Lipton		「最初はこいつが秘書で大丈夫かと思ったが……」	「At first I wondered if she was okay as a secretary but...
 
-96198	Hubert Lipton	「俺の目だって節穴じゃない。	　My eyes aren't blind.
-96199	+	　お前がなんだかんだ、シーラの為に	　I can tell you're working for Sheila
-96200	+	　働いてることくらいは分かるぜ」	　in your own way.」
+96198	Hubert Lipton		「俺の目だって節穴じゃない。	　My eyes aren't blind.
+96199	+		　お前がなんだかんだ、シーラの為に	　I can tell you're working for Sheila
+96200	+		　働いてることくらいは分かるぜ」	　in your own way.」
 
-96201	Peruele Kalette	「まーね。	「Well yeah.
-96202	+	　あれが大統領辞めたら、	　If she quits as President,
-96203	+	　おまんま食い上げだし」	　I'd lose my meal ticket.」
+96201	Peruele Kalette		「まーね。	「Well yeah.
+96202	+		　あれが大統領辞めたら、	　If she quits as President,
+96203	+		　おまんま食い上げだし」	　I'd lose my meal ticket.」
 
-96204	Hubert Lipton	「ははっ……分かった。	「Haha... Got it.
-96205	+	　そういうことにしておこう」	　I'll take it that way.」
+96204	Hubert Lipton	笑顔	「ははっ……分かった。	「Haha... Got it.
+96205	+		　そういうことにしておこう」	　I'll take it that way.」
 
-96206	Peruele Kalette	「いやいやいや……」	「No no no...」
+96206	Peruele Kalette	ジト目	「いやいやいや……」	「No no no...」
 
-96207	Peruele Kalette	「あ、なんか分かってる分かってる	「Ah, don't make that 'I get it' face
-96208	+	　みたいな顔しながら行かないでよ」	　and walk away.」
+96207	Peruele Kalette		「あ、なんか分かってる分かってる	「Ah, don't make that 'I get it' face
+96208	+		　みたいな顔しながら行かないでよ」	　and walk away.」
 
-96209	Peruele Kalette	「……はあ」	「...Haa」
+96209	Peruele Kalette		「……はあ」	「...Haa」
 
-96210	-	こうして、大統領の秘書としての業務は終わる。	And so, the duties as the President's secretary come to an end.
+96210	-		こうして、大統領の秘書としての業務は終わる。	And so, the duties as the President's secretary come to an end.
 
-96211	-	ここまでに記したものだけでも	Even what has been written here
-96212	+	秘書の仕事としてはごく一部であり、	is only a small part of a secretary's job,
-96213	+	その内容は多岐に渡りかつ膨大である。	and the actual scope is vast and varied.
+96211	-		ここまでに記したものだけでも	Even what has been written here
+96212	+		秘書の仕事としてはごく一部であり、	is only a small part of a secretary's job,
+96213	+		その内容は多岐に渡りかつ膨大である。	and the actual scope is vast and varied.
 
-96214	-	それほど、国の舵取りとは生半可なことではなく、	Steering a country is no easy task,
-96215	+	誤解を怖れず言えば、大統領よりも秘書の業務の方が	and to be honest without fear of misunderstanding,
-96216	+	責任は重いと言っても決して過言ではあるまい。	the secretary's duties carry even heavier responsibility than the President's.
+96214	-		それほど、国の舵取りとは生半可なことではなく、	Steering a country is no easy task,
+96215	+		誤解を怖れず言えば、大統領よりも秘書の業務の方が	and to be honest without fear of misunderstanding,
+96216	+		責任は重いと言っても決して過言ではあるまい。	the secretary's duties carry even heavier responsibility than the President's.
 
-96217	-	手前味噌ながら、ヘルマン国家が今あるのも、	Though it may sound self-praising, the current Helman nation exists
-96218	+	わたくし、ペルエレ・カレットの活躍が	largely thanks to my, Peruele Calette's, efforts
-96219	+	大いに貢献していることは疑いようのない――	there is no doubt about that――
+96217	-		手前味噌ながら、ヘルマン国家が今あるのも、	Though it may sound self-praising, the current Helman nation exists
+96218	+		わたくし、ペルエレ・カレットの活躍が	largely thanks to my, Peruele Calette's, efforts
+96219	+		大いに貢献していることは疑いようのない――	there is no doubt about that――
 
-96220	Sheila Helman	「あのー……ペルエレ……」	「Um... Peruele...」
+96220	Sheila Helman	真剣	「あのー……ペルエレ……」	「Um... Peruele...」
 
-96221	Peruele Kalette	「ん？　なに？」	「Hm? What?」
+96221	Peruele Kalette	基本	「ん？　なに？」	「Hm? What?」
 
-96222	Sheila Helman	「今日一日……	「All day today...
-96223	+	　それ、なにを書いていたの？」	　What were you writing?」
+96222	Sheila Helman	真剣	「今日一日……	「All day today...
+96223	+		　それ、なにを書いていたの？」	　What were you writing?」
 
-96224	Peruele Kalette	「ん、ああ、これ？」	「Hm, oh this?」
+96224	Peruele Kalette	基本	「ん、ああ、これ？」	「Hm, oh this?」
 
-96225	Peruele Kalette	「私の自伝よ」	「My autobiography.」
+96225	Peruele Kalette		「私の自伝よ」	「My autobiography.」
 
-96226	Sheila Helman	「自伝！？」	「Autobiography!?」
+96226	Sheila Helman		「自伝！？」	「Autobiography!?」
 
-96227	Peruele Kalette	「初代大統領の秘書よ。	「I'm the secretary to the first President.
-96228	+	　そんな美味しい立場活かさない手はないわ」	　No way I'm not taking advantage of such a juicy position.」
+96227	Peruele Kalette	にやり	「初代大統領の秘書よ。	「I'm the secretary to the first President.
+96228	+		　そんな美味しい立場活かさない手はないわ」	　No way I'm not taking advantage of such a juicy position.」
 
-96229	Peruele Kalette	「こんな本出せば話題性は抜群。	「Releasing a book like this would be incredibly topical.
-96230	+	　下手すりゃ夢の印税生活よ」	　I might even live off royalties if it sells well.」
+96229	Peruele Kalette		「こんな本出せば話題性は抜群。	「Releasing a book like this would be incredibly topical.
+96230	+		　下手すりゃ夢の印税生活よ」	　I might even live off royalties if it sells well.」
 
-96231	Sheila Helman	「な、なるほど……」	「I-I see...」
+96231	Sheila Helman	真剣	「な、なるほど……」	「I-I see...」
 
-96232	Sheila Helman	「でも、内容が……その……」	「But the content... um...」
+96232	Sheila Helman	エロ顔	「でも、内容が……その……」	「But the content... um...」
 
-96233	Peruele Kalette	「ちょっとの脚色は演出」	「A little dramatization is just for effect.」
+96233	Peruele Kalette	基本	「ちょっとの脚色は演出」	「A little dramatization is just for effect.」
 
-96234	Sheila Helman	「そ、そうかなぁ……」	「I-Is that so...」
+96234	Sheila Helman		「そ、そうかなぁ……」	「I-Is that so...」
 
-96235	Cream Ganoblade	「その本が出て……	「Once that book comes out...
-96236	+	　もしもベストセラーになったら……」	　If it becomes a bestseller...
+96235	Cream Ganoblade		「その本が出て……	「Once that book comes out...
+96236	+		　もしもベストセラーになったら……」	　If it becomes a bestseller...
 
-96237	Cream Ganoblade	「一年後くらいに暴露本出すのは良さそうですね」	　Releasing an expose a year later sounds good.」
+96237	Cream Ganoblade		「一年後くらいに暴露本出すのは良さそうですね」	　Releasing an expose a year later sounds good.」
 
-96238	Cream Ganoblade	「ヘルマン政権の内情を明かす、	「Revealing the inner workings of the Helman regime,
-96239	+	　悪徳秘書の全て……等と銘打って」	　The full story of the corrupt secretary... or something.」
+96238	Cream Ganoblade		「ヘルマン政権の内情を明かす、	「Revealing the inner workings of the Helman regime,
+96239	+		　悪徳秘書の全て……等と銘打って」	　The full story of the corrupt secretary... or something.」
 
-96240	Peruele Kalette	「げっ！」	「Geh!」
+96240	Peruele Kalette		「げっ！」	「Geh!」
 
-96241	Hubert Lipton	「はははは、そりゃあいい。	「Hahaha, that sounds great.
-96242	+	　話題性が倍で更に売れそうだ」	　Double the buzz, it'll sell even more.」
+96241	Hubert Lipton	笑顔	「はははは、そりゃあいい。	「Hahaha, that sounds great.
+96242	+		　話題性が倍で更に売れそうだ」	　Double the buzz, it'll sell even more.」
 
-96243	Hubert Lipton	「俺も真似して国庫の足しにでもすっかね」	「Maybe I'll do something similar to help the national treasury.」
+96243	Hubert Lipton		「俺も真似して国庫の足しにでもすっかね」	「Maybe I'll do something similar to help the national treasury.」
 
-96244	Peruele Kalette	「だーっ、あんたら真似するんじゃないわよ！」	「Hey! Don't you dare copy me!」
+96244	Peruele Kalette	基本	「だーっ、あんたら真似するんじゃないわよ！」	「Hey! Don't you dare copy me!」
 
-96245	Peruele Kalette	「くそ、この作戦は駄目か……	「Damn, this plan is no good...
-96246	+	　いい手だと思ったのに」	　I thought it was a great idea.」
+96245	Peruele Kalette	ジト目	「くそ、この作戦は駄目か……	「Damn, this plan is no good...
+96246	+		　いい手だと思ったのに」	　I thought it was a great idea.」
 
-96247	Sheila Helman	「くすくす……」	「Hehe...」
+96247	Sheila Helman	笑顔	「くすくす……」	「Hehe...」
 
-96248	Peruele Kalette	「なーに、笑ってんのよ」	「What are you laughing at?」
+96248	Peruele Kalette	基本	「なーに、笑ってんのよ」	「What are you laughing at?」
 
-96249	Sheila Helman	「うぅん、なんとなく……」	「Nothing, just because...」
+96249	Sheila Helman		「うぅん、なんとなく……」	「Nothing, just because...」
 
-96250	Sheila Helman	「こういうの楽しいね」	「This kind of thing is fun.」
+96250	Sheila Helman	笑顔	「こういうの楽しいね」	「This kind of thing is fun.」
 
-96251	Peruele Kalette	「…………」	「............」
+96251	Peruele Kalette	基本	「…………」	「............」
 
-96252	Peruele Kalette	「……アホ」	「...Idiot.」
+96252	Peruele Kalette	ジト目	「……アホ」	「...Idiot.」
 
-96253	Sheila Helman	「あいたっ……えへへ……」	「Ouch... ehehe...」
+96253	Sheila Helman	笑顔	「あいたっ……えへへ……」	「Ouch... ehehe...」
 
-96254	-	今日も大統領の執務室は	Today too, the President's office was
-96255	+	どこか賑やかだった。	somewhat lively.
+96254	-		今日も大統領の執務室は	Today too, the President's office was
+96255	+		どこか賑やかだった。	somewhat lively.
 
-96256	-	…………	............
+96256	-		…………	............
 
-96257	-	……	...
+96257	-		……	...
 
-96258	Peruele Kalette~	（……やっぱ）	（...As I thought.）
+96258	Peruele Kalette~	基本	（……やっぱ）	（...As I thought.）
 
-96259	Peruele Kalette~	（ぬるま湯だわ、ここ……）	（This place is too lukewarm...）
+96259	Peruele Kalette~	ジト目	（ぬるま湯だわ、ここ……）	（This place is too lukewarm...）
 
-96260	-	ペルエレが冷めた目で周囲を見渡す。	Peruele looked around with cold eyes.
+96260	-		ペルエレが冷めた目で周囲を見渡す。	Peruele looked around with cold eyes.
 
-96261	Peruele Kalette~	（楽、だけど……	（It's comfortable, but...
-96262	+	　楽しくないわけでもないけど……）	　it's not exactly fun either...）
+96261	Peruele Kalette~		（楽、だけど……	（It's comfortable, but...
+96262	+		　楽しくないわけでもないけど……）	　it's not exactly fun either...）
 
-96263	Peruele Kalette~	（なんか……）	（Somehow...）
+96263	Peruele Kalette~		（なんか……）	（Somehow...）
 
-96264	Peruele Kalette~	（やっぱ……居心地悪い……）	（As I thought... it's uncomfortable...）
+96264	Peruele Kalette~		（やっぱ……居心地悪い……）	（As I thought... it's uncomfortable...）
 
-96265	Peruele Kalette~	（人によっては……	（For some people...
-96266	+	　気持ち良く過ごせるんでしょうけど……）	　it might feel nice...）
+96265	Peruele Kalette~		（人によっては……	（For some people...
+96266	+		　気持ち良く過ごせるんでしょうけど……）	　it might feel nice...）
 
-96267	Peruele Kalette~	（私はちょっとね……）	（But for me...）
+96267	Peruele Kalette~		（私はちょっとね……）	（But for me...）
 
-96268	Peruele Kalette~	（……やっぱりなんかパクって、	（...As expected, I should steal something
-96269	+	　ここをトンズラでも――）	　and make a run for it from here――）
+96268	Peruele Kalette~	にやり	（……やっぱりなんかパクって、	（...As expected, I should steal something
+96269	+		　ここをトンズラでも――）	　and make a run for it from here――）
 
-96270	Sheila Helman	「…………」	「............」
+96270	Sheila Helman	基本	「…………」	「............」
 
-96271	-	シーラがペルエレをジッと見つめていた。	Sheila was staring intently at Peruele.
+96271	-		シーラがペルエレをジッと見つめていた。	Sheila was staring intently at Peruele.
 
-96272	Peruele Kalette	「……なに？」	「...What?」
+96272	Peruele Kalette		「……なに？」	「...What?」
 
-96273	Sheila Helman	「来週、リーザスでリア女王と会談があるって」	「Next week there's a meeting with Queen Lia in Leazas.」
+96273	Sheila Helman		「来週、リーザスでリア女王と会談があるって」	「Next week there's a meeting with Queen Lia in Leazas.」
 
-96274	Peruele Kalette	「そーね」	「Yeah.」
+96274	Peruele Kalette		「そーね」	「Yeah.」
 
-96275	Sheila Helman	「美味しいご飯、楽しみだね」	「I'm looking forward to the delicious food.」
+96275	Sheila Helman	笑顔	「美味しいご飯、楽しみだね」	「I'm looking forward to the delicious food.」
 
-96276	-	ふにゃっとシーラが笑いかけていた。	Sheila smiled softly at her.
+96276	-		ふにゃっとシーラが笑いかけていた。	Sheila smiled softly at her.
 
-96277	Peruele Kalette	「……へえ」	「...Heh.」
+96277	Peruele Kalette	基本	「……へえ」	「...Heh.」
 
-96278	Peruele Kalette	「そりゃ楽しみ……」	「That does sound fun...」
+96278	Peruele Kalette		「そりゃ楽しみ……」	「That does sound fun...」
 
-96279	Sheila Helman	「ねっ」	「Right?」
+96279	Sheila Helman	笑顔	「ねっ」	「Right?」
 
-96280	-	それっきり、ニコニコしながら	After that, Sill went back to work
-96281	+	シーラは仕事に戻った。	with a big smile on her face.
+96280	-		それっきり、ニコニコしながら	After that, Sill went back to work
+96281	+		シーラは仕事に戻った。	with a big smile on her face.
 
-96282	Peruele Kalette	「…………」	「............」
+96282	Peruele Kalette	基本	「…………」	「............」
 
-96283	Peruele Kalette~	（……ま。	（...Well.
-96284	+	　リーザスのご飯は美味しいし）	　Leazas food is delicious after all.）
+96283	Peruele Kalette~		（……ま。	（...Well.
+96284	+		　リーザスのご飯は美味しいし）	　Leazas food is delicious after all.）
 
-96285	Peruele Kalette~	（来週までは、いるかね……）	（I guess I'll stay until next week...）
+96285	Peruele Kalette~		（来週までは、いるかね……）	（I guess I'll stay until next week...）
 
-96286	-	ペルエレは面倒臭そうに頭をポリポリと掻いた。	Peruele scratched her head lazily.
+96286	-		ペルエレは面倒臭そうに頭をポリポリと掻いた。	Peruele scratched her head lazily.

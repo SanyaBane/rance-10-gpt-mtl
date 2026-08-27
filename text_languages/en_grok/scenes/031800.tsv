@@ -3,75 +3,75 @@
 * Rance	ランス	Male
 * 3G	３Ｇ	Male
 
-102879	Haurein Province	「やぁーーーーっ！」	「Yaaaaah!」
+102879	Haurein Province	叫び	「やぁーーーーっ！」	「Yaaaaah!」
 
-102880	-	ハウレーンの剣が空気を斬り裂いて、	Haurein's sword sliced through the air
-102881	+	ランスの持つカオスに叩きつけられる。	and clashed against Rance's Chaos.
+102880	-		ハウレーンの剣が空気を斬り裂いて、	Haurein's sword sliced through the air
+102881	+		ランスの持つカオスに叩きつけられる。	and clashed against Rance's Chaos.
 
-102882	Rance	「おっ、とっ、よっ……！	「Oh, toh, yoh...!
-102883	+	　なあ、そろそろ休憩にしないか？」	　Hey, how about a break soon?」
+102882	Rance	真剣	「おっ、とっ、よっ……！	「Oh, toh, yoh...!
+102883	+		　なあ、そろそろ休憩にしないか？」	　Hey, how about a break soon?」
 
-102884	Haurein Province	「総統！　今は模擬戦の最中だぞ！	「Supreme Leader! We're in the middle of mock combat!
-102885	+	　もっと真面目に訓練できないのか！？」	　Can't you train more seriously!?」
+102884	Haurein Province	叫び	「総統！　今は模擬戦の最中だぞ！	「Supreme Leader! We're in the middle of mock combat!
+102885	+		　もっと真面目に訓練できないのか！？」	　Can't you train more seriously!?」
 
-102886	Rance	「と言ってもなぁ……	「Even if you say that...
-102887	+	　なんで俺が訓練なんぞ……」	　Why do I have to train...」
+102886	Rance	基本	「と言ってもなぁ……	「Even if you say that...
+102887	+		　なんで俺が訓練なんぞ……」	　Why do I have to train...」
 
-102888	Haurein Province	「はあ……では、五分休憩だ……」	「Haa... Then a five minute break...」
+102888	Haurein Province	目閉じ	「はあ……では、五分休憩だ……」	「Haa... Then a five minute break...」
 
-102889	Haurein Province	「まったく……そのたるんだ心を	「Honestly... I wanted to temper
-102890	+	　鍛え直したいと思ったが……	　that lazy spirit of yours but...
-102891	+	　これは骨が折れそうだ……」	　this seems like it'll be tough...」
+102889	Haurein Province	基本	「まったく……そのたるんだ心を	「Honestly... I wanted to temper
+102890	+		　鍛え直したいと思ったが……	　that lazy spirit of yours but...
+102891	+		　これは骨が折れそうだ……」	　this seems like it'll be tough...」
 
-102892	Rance	「失礼な」	「Rude.」
+102892	Rance	だる顔	「失礼な」	「Rude.」
 
-102893	3G	「ほほほ……お二人とも、精が出ますなあ」	「Hohoho... Both of you are working hard.」
+102893	3G	基本	「ほほほ……お二人とも、精が出ますなあ」	「Hohoho... Both of you are working hard.」
 
-102894	Haurein Province	「３Ｇ殿か……」	「3G-dono...」
+102894	Haurein Province		「３Ｇ殿か……」	「3G-dono...」
 
-102895	3G	「ささ、タオルと冷たい麦茶です。	「Here, towels and cold barley tea.
-102896	+	　良ければ……」	　If you'd like...」
+102895	3G		「ささ、タオルと冷たい麦茶です。	「Here, towels and cold barley tea.
+102896	+		　良ければ……」	　If you'd like...」
 
-102897	Rance	「お、気が利くな」	「Oh, thoughtful.」
+102897	Rance		「お、気が利くな」	「Oh, thoughtful.」
 
-102898	Haurein Province	「…………」	「............」
+102898	Haurein Province	目閉じ	「…………」	「............」
 
-102899	3G	「さ、ハウレーン殿も」	「Here, Haurein-dono too.」
+102899	3G	基本	「さ、ハウレーン殿も」	「Here, Haurein-dono too.」
 
-102900	Haurein Province	「む……」	「Mu...」
+102900	Haurein Province		「む……」	「Mu...」
 
-102901	3G	「ささ、ささささ……」	「Here here...」
+102901	3G		「ささ、ささささ……」	「Here here...」
 
-102902	Haurein Province	「あ……いや、せっかくだが私は結構だ。	「Ah... No, as much as I'd like, I'm fine.
-102903	+	　総統、私の分も飲んでくれ。	　Supreme Leader, please drink my share too.
-102904	+	　本当にすまない、では……」	　Sorry, well then...」
+102902	Haurein Province	目閉じ	「あ……いや、せっかくだが私は結構だ。	「Ah... No, as much as I'd like, I'm fine.
+102903	+		　総統、私の分も飲んでくれ。	　Supreme Leader, please drink my share too.
+102904	+		　本当にすまない、では……」	　Sorry, well then...」
 
-102905	-	ハウレーンは逃げるようにそそくさと去って行った。	Haurein quickly left as if escaping.
+102905	-		ハウレーンは逃げるようにそそくさと去って行った。	Haurein quickly left as if escaping.
 
-102906	Rance	「？　やけに慌ててたな。	「? She seemed awfully flustered.
-102907	+	　訓練の途中だってのに……」	　Even though we're in the middle of training...」
+102906	Rance	真剣	「？　やけに慌ててたな。	「? She seemed awfully flustered.
+102907	+		　訓練の途中だってのに……」	　Even though we're in the middle of training...」
 
-102908	3G	「うぅーむ、右の……」	「Uuum, the right one...」
+102908	3G	基本	「うぅーむ、右の……」	「Uuum, the right one...」
 
-102909	3G	「真ん中の……」	「The middle one...」
+102909	3G		「真ん中の……」	「The middle one...」
 
-102910	3G	「うむ……やはりそのようじゃな……」	「Yes... It seems so...」
+102910	3G		「うむ……やはりそのようじゃな……」	「Yes... It seems so...」
 
-102911	Rance	「なに？」	「What?」
+102911	Rance		「なに？」	「What?」
 
-102912	3G	「出来るだけ表に出さないようしておりますが……	「We try not to show it outwardly but...
-102913	+	　どうやら彼女……」	　it seems she...
+102912	3G		「出来るだけ表に出さないようしておりますが……	「We try not to show it outwardly but...
+102913	+		　どうやら彼女……」	　it seems she...
 
-102914	3G	「お化けや妖怪が苦手らしい×３」	「is apparently bad with ghosts and monsters x3」
+102914	3G		「お化けや妖怪が苦手らしい×３」	「is apparently bad with ghosts and monsters x3」
 
-102915	Rance	「……」	「......」
+102915	Rance	真剣	「……」	「......」
 
-102916	Rance	「可愛い弱点だな……」	「A cute weakness...」
+102916	Rance	だる顔	「可愛い弱点だな……」	「A cute weakness...」
 
-102917	3G	「からかったりしてはなりませんぞ。	「You mustn't tease her.
-102918	+	　人には一つや二つ怖い物があるもの」	　Everyone has one or two things they're afraid of.」
+102917	3G	基本	「からかったりしてはなりませんぞ。	「You mustn't tease her.
+102918	+		　人には一つや二つ怖い物があるもの」	　Everyone has one or two things they're afraid of.」
 
-102919	Rance	「おい３Ｇ、お前寝起きに彼女の枕元に立て。	「Hey 3G, stand by her pillow when she wakes up.
-102920	+	　ハウレーンちゃんの可愛い悲鳴を聞くチャンスだ」	　Chance to hear Haurein-chan's cute scream.」
+102919	Rance		「おい３Ｇ、お前寝起きに彼女の枕元に立て。	「Hey 3G, stand by her pillow when she wakes up.
+102920	+		　ハウレーンちゃんの可愛い悲鳴を聞くチャンスだ」	　Chance to hear Haurein-chan's cute scream.」
 
-102921	3G	「やめなさいっちゅーに！×３」	「Stop that! x3」
+102921	3G		「やめなさいっちゅーに！×３」	「Stop that! x3」

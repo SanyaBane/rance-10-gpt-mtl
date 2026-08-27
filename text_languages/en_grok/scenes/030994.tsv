@@ -5,65 +5,65 @@
 * Satella	サテラ	Female
 * Magic the Gandhi	マジック	Female
 
-44746	Rance	「よーし、このまま一気に行くぞ。	「Alright, let's go all out right now.
-44747	+	　まとめて叩き潰してくれるわ」	　I'll crush them all at once.」
+44746	Rance	基本	「よーし、このまま一気に行くぞ。	「Alright, let's go all out right now.
+44747	+		　まとめて叩き潰してくれるわ」	　I'll crush them all at once.」
 
-44748	Yamada Chizuko	「助かるわ。じゃあ……」	「That helps. Then...
+44748	Yamada Chizuko		「助かるわ。じゃあ……」	「That helps. Then...
 
-44749	Yamada Chizuko	「目的地はここ。王都、ラグナロックアーク。	「The destination is here. The royal capital, Ragnarok Arc.
-44750	+	　ここに、魔人メディウサはいるわ」	　That's where the Fiend Medusa is.」
+44749	Yamada Chizuko		「目的地はここ。王都、ラグナロックアーク。	「The destination is here. The royal capital, Ragnarok Arc.
+44750	+		　ここに、魔人メディウサはいるわ」	　That's where the Fiend Medusa is.」
 
-44751	Rance	「玉座にふんぞり返ってるってとこか」	「Sitting arrogantly on the throne, I bet.」
+44751	Rance	だる顔	「玉座にふんぞり返ってるってとこか」	「Sitting arrogantly on the throne, I bet.」
 
-44752	Yamada Chizuko	「そう、でしょうね…………	「Yes, probably............
-44753	+	　まったく、腹立たしい話だけれど……」	　What an infuriating situation...」
+44752	Yamada Chizuko	怒り	「そう、でしょうね…………	「Yes, probably............
+44753	+		　まったく、腹立たしい話だけれど……」	　What an infuriating situation...」
 
-44754	-	千鶴子の拳が、きゅっと握りしめられていた。	Chizuko's fist was tightly clenched.
+44754	-		千鶴子の拳が、きゅっと握りしめられていた。	Chizuko's fist was tightly clenched.
 
-44755	Rance	「む。怒ってるのか」	「Hm. You're angry?」
+44755	Rance	真剣	「む。怒ってるのか」	「Hm. You're angry?」
 
-44756	Yamada Chizuko	「…………立場上、良くないのだけどね」	「............It's not good for my position, but...」
+44756	Yamada Chizuko	基本	「…………立場上、良くないのだけどね」	「............It's not good for my position, but...」
 
-44757	-	抑えきれない感情を、	Unable to fully suppress her emotions,
-44758	+	千鶴子は溜息で受け流そうとして、失敗した。	Chizuko tried to let it out with a sigh but failed.
+44757	-		抑えきれない感情を、	Unable to fully suppress her emotions,
+44758	+		千鶴子は溜息で受け流そうとして、失敗した。	Chizuko tried to let it out with a sigh but failed.
 
-44759	Yamada Chizuko	「忠誠を誓った方の座が汚されている……というのは	「The throne of the one I swore loyalty to being defiled...
-44760	+	　自分が傷つく事なんかより、よほど屈辱よ。	　is far more humiliating than any injury to myself.
-44761	+	　親が……それ以上の方が、侮辱されてるのだもの」	　My parent... someone even greater... is being insulted.」
+44759	Yamada Chizuko		「忠誠を誓った方の座が汚されている……というのは	「The throne of the one I swore loyalty to being defiled...
+44760	+		　自分が傷つく事なんかより、よほど屈辱よ。	　is far more humiliating than any injury to myself.
+44761	+		　親が……それ以上の方が、侮辱されてるのだもの」	　My parent... someone even greater... is being insulted.」
 
-44762	Rance	「ふーん……あの暑苦しい放蕩親父をそんなに……」	「Hmm... You feel that strongly about that hot-blooded lecher father of yours...」
+44762	Rance	だる顔	「ふーん……あの暑苦しい放蕩親父をそんなに……」	「Hmm... You feel that strongly about that hot-blooded lecher father of yours...」
 
-44763	-	千鶴子の視線が鋭くなった。	Chizuko's gaze sharpened.
+44763	-		千鶴子の視線が鋭くなった。	Chizuko's gaze sharpened.
 
-44764	Yamada Chizuko	「ともかく。それは私情ですので、	「Anyway, that's my personal feelings,
-44765	+	　気にしないでください。	　so please ignore it.
-44766	+	　今は、国民を害し続けるメディウサを」	　Right now, we must deal with Medusa who continues to harm our citizens.」
+44764	Yamada Chizuko	基本	「ともかく。それは私情ですので、	「Anyway, that's my personal feelings,
+44765	+		　気にしないでください。	　so please ignore it.
+44766	+		　今は、国民を害し続けるメディウサを」	　Right now, we must deal with Medusa who continues to harm our citizens.」
 
-44767	Rance	「お、おぉ」	「O-oh.」
+44767	Rance	驚き	「お、おぉ」	「O-oh.」
 
-44768	Rance	（話を遮った上に流したぞ……	（She cut me off and brushed it aside...
-44769	+	　こりゃマジか？）	　Is she serious?）
+44768	Rance	だる顔	（話を遮った上に流したぞ……	（She cut me off and brushed it aside...
+44769	+		　こりゃマジか？）	　Is she serious?）
 
-44770	Sill Plain	（マジですよー。本気なのですから……	（She is serious. She's really angry...
-44771	+	　からかっちゃだめですよぅ）	　Don't tease her.）
+44770	Sill Plain	恥	（マジですよー。本気なのですから……	（She is serious. She's really angry...
+44771	+		　からかっちゃだめですよぅ）	　Don't tease her.）
 
-44772	Yamada Chizuko	「…………いいかしら？」	「............Is that clear?」
+44772	Yamada Chizuko	基本	「…………いいかしら？」	「............Is that clear?」
 
-44773	Rance	「ああ。他に何かあるか？」	「Yeah. Anything else?」
+44773	Rance		「ああ。他に何かあるか？」	「Yeah. Anything else?」
 
-44774	Yamada Chizuko	「今は、ガルティアが討ち取られた事で	「Right now, with Galtia's defeat,
-44775	+	　魔軍全体が動揺しているようです。	　the entire Monster Army is in disarray.
-44776	+	　潜り込みやすくは、なっていると思います」	　It should be easier to infiltrate.」
+44774	Yamada Chizuko		「今は、ガルティアが討ち取られた事で	「Right now, with Galtia's defeat,
+44775	+		　魔軍全体が動揺しているようです。	　the entire Monster Army is in disarray.
+44776	+		　潜り込みやすくは、なっていると思います」	　It should be easier to infiltrate.」
 
-44777	Satella	「本当なら、何かして動揺を収めるものだが……	「Normally she'd do something to calm them...
-44778	+	　メディウサの奴の事だ、	　But knowing Medusa,
-44779	+	　そんなめんどくさい事はしないだろうな」	　she probably won't bother.」
+44777	Satella		「本当なら、何かして動揺を収めるものだが……	「Normally she'd do something to calm them...
+44778	+		　メディウサの奴の事だ、	　But knowing Medusa,
+44779	+		　そんなめんどくさい事はしないだろうな」	　she probably won't bother.」
 
-44780	Magic the Gandhi	「こっちからも、できるだけのサポートはするわ。	「We'll provide as much support as we can from here.
-44781	+	　頼んだわよ」	　I'm counting on you.」
+44780	Magic the Gandhi		「こっちからも、できるだけのサポートはするわ。	「We'll provide as much support as we can from here.
+44781	+		　頼んだわよ」	　I'm counting on you.」
 
-44782	Rance	「よしよし。俺様がバーンと行ってやろう。	「Alright. I'll go smash them.
-44783	+	　出撃だ！」	　Move out!」
+44782	Rance		「よしよし。俺様がバーンと行ってやろう。	「Alright. I'll go smash them.
+44783	+		　出撃だ！」	　Move out!」
 
-44784	-	魔人討伐隊は、ラグナロックアークに向かって	The Fiend Extermination Squad set out
-44785	+	出発した。	toward Ragnarok Arc.
+44784	-		魔人討伐隊は、ラグナロックアークに向かって	The Fiend Extermination Squad set out
+44785	+		出発した。	toward Ragnarok Arc.

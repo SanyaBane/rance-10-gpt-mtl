@@ -3,66 +3,66 @@
 * Noah Hakobune	ノア	Female
 * Captain	船長	Male
 
-2767	-	――××月○日。	――XX Month ○ Day.
-2768	+	天候は曇り、やや風強し。	Weather cloudy, wind somewhat strong.
+2767	-		――××月○日。	――XX Month ○ Day.
+2768	+		天候は曇り、やや風強し。	Weather cloudy, wind somewhat strong.
 
-2769	-	船を途中で乗り変えるという数奇な体験も、	The strange experience of changing ships mid-journey
-2770	+	きっとこれから先の出来事で塗り潰されるのだろう。	will surely be overwritten by what comes next.
+2769	-		船を途中で乗り変えるという数奇な体験も、	The strange experience of changing ships mid-journey
+2770	+		きっとこれから先の出来事で塗り潰されるのだろう。	will surely be overwritten by what comes next.
 
-2771	-	けれど、大変に意味のある……	But it is extremely meaningful...
-2772	+	賭ける値打ちのある勝負だ。	A battle worth betting on.
+2771	-		けれど、大変に意味のある……	But it is extremely meaningful...
+2772	+		賭ける値打ちのある勝負だ。	A battle worth betting on.
 
-2773	-	世界の破滅から逃げるのではなく、	Not running from the world's destruction,
-2774	+	その破滅を食い止める、戦い。	but fighting to stop it.
-2775	+	どこまで私が役に立てるか分からないが――	I don't know how useful I can be, but――
+2773	-		世界の破滅から逃げるのではなく、	Not running from the world's destruction,
+2774	+		その破滅を食い止める、戦い。	but fighting to stop it.
+2775	+		どこまで私が役に立てるか分からないが――	I don't know how useful I can be, but――
 
-2776	Rance	「……あん？　何書いてるんだ、ノアさん」	「...Hm? What are you writing, Noah-san?」
+2776	Rance	基本	「……あん？　何書いてるんだ、ノアさん」	「...Hm? What are you writing, Noah-san?」
 
-2777	Noah Hakobune	「あ、ランスさん。航海日誌を少々」	「Ah, Rance-san. Just the ship's log a bit.」
+2777	Noah Hakobune		「あ、ランスさん。航海日誌を少々」	「Ah, Rance-san. Just the ship's log a bit.」
 
-2778	Rance	「航海日誌？」	「Ship's log?」
+2778	Rance		「航海日誌？」	「Ship's log?」
 
-2779	Captain	「海の者の不文律みたいなモンでな。	「It's like an unwritten rule for sailors.
-2780	+	　船長にはこうやって日誌を書く役目があるんだ」	　The captain has the duty to write the log like this.」
+2779	Captain		「海の者の不文律みたいなモンでな。	「It's like an unwritten rule for sailors.
+2780	+		　船長にはこうやって日誌を書く役目があるんだ」	　The captain has the duty to write the log like this.」
 
-2781	Captain	「俺もこないだまで書いてたんだが、	「I was writing it until recently,
-2782	+	　お嬢さんに変わった時点でストップだ。読むか？」	　but stopped when the young lady took over. Want to read?」
+2781	Captain		「俺もこないだまで書いてたんだが、	「I was writing it until recently,
+2782	+		　お嬢さんに変わった時点でストップだ。読むか？」	　but stopped when the young lady took over. Want to read?」
 
-2783	Rance	「何が哀しくておっさんの独り言なんぞ	「Why the hell would I read an old man's monologue!」
-2784	+	　読まねばならんのだ！」	
+2783	Rance	怒り	「何が哀しくておっさんの独り言なんぞ	「Why the hell would I read an old man's monologue!」
+2784	+		　読まねばならんのだ！」	
 
-2785	Captain	「んごふっ！」	「Ngofuh!」
+2785	Captain	ええ〜	「んごふっ！」	「Ngofuh!」
 
-2786	Rance	「てかお前、舵取りだろ。サボってるんじゃない」	「Hey, you're the helmsman. Stop slacking.」
+2786	Rance	イライラ	「てかお前、舵取りだろ。サボってるんじゃない」	「Hey, you're the helmsman. Stop slacking.」
 
-2787	Captain	「へいへいっと……」	「Aye aye...」
+2787	Captain	汗	「へいへいっと……」	「Aye aye...」
 
-2788	Rance	「あいつらのよくわからんルールなぞ、	「You can ignore their weird rules.」
-2789	+	　放っておいても良いぞ」	
+2788	Rance	基本	「あいつらのよくわからんルールなぞ、	「You can ignore their weird rules.」
+2789	+		　放っておいても良いぞ」	
 
-2790	Noah Hakobune	「いいえ。こうして書いていると、	「No. Writing like this
-2791	+	　色々自分を見つめ直せますから」	　lets me reflect on myself.」
+2790	Noah Hakobune		「いいえ。こうして書いていると、	「No. Writing like this
+2791	+		　色々自分を見つめ直せますから」	　lets me reflect on myself.」
 
-2792	Noah Hakobune	「振り返ってみると……	「Looking back...
-2793	+	　人生、いろいろありますね……」	　Life has all sorts of things...」
+2792	Noah Hakobune		「振り返ってみると……	「Looking back...
+2793	+		　人生、いろいろありますね……」	　Life has all sorts of things...」
 
-2794	Rance	「…………しかし、こういうのって、	「............But these things,
-2795	+	　だいたい難破して全滅した船から見つかるよな」	　usually get found on ships that wrecked and everyone died.」
+2794	Rance	だる顔	「…………しかし、こういうのって、	「............But these things,
+2795	+		　だいたい難破して全滅した船から見つかるよな」	　usually get found on ships that wrecked and everyone died.」
 
-2796	Noah Hakobune	「まあ……万が一の時に、もし誰かが見つけたら……	「Well... In case something happens and someone finds it...
-2797	+	　その時に教訓や参考になるように、	　It can serve as a lesson or reference,
-2798	+	　っていう意図で遺すものでもあるらしいですから」	　that's the idea behind leaving it.」
+2796	Noah Hakobune	基本	「まあ……万が一の時に、もし誰かが見つけたら……	「Well... In case something happens and someone finds it...
+2797	+		　その時に教訓や参考になるように、	　It can serve as a lesson or reference,
+2798	+		　っていう意図で遺すものでもあるらしいですから」	　that's the idea behind leaving it.」
 
-2799	Rance	「がははは、よし、	「Gahahaha, alright,
-2800	+	　適当に宝の地図っぽいのを残しておこう」	　I'll leave a random treasure map.」
+2799	Rance	笑顔	「がははは、よし、	「Gahahaha, alright,
+2800	+		　適当に宝の地図っぽいのを残しておこう」	　I'll leave a random treasure map.」
 
-2801	Noah Hakobune	「あっ！」	「Ah!」
+2801	Noah Hakobune	動揺	「あっ！」	「Ah!」
 
-2802	-	ランスが奪って、適当に落書きを書き込んでいく。	Rance snatched it and scribbled randomly.
+2802	-		ランスが奪って、適当に落書きを書き込んでいく。	Rance snatched it and scribbled randomly.
 
-2803	Noah Hakobune	「だっ、だめですよ、そんなでたらめ書いちゃ……」	「N-No, you can't write such nonsense...」
+2803	Noah Hakobune		「だっ、だめですよ、そんなでたらめ書いちゃ……」	「N-No, you can't write such nonsense...」
 
-2804	Rance	「ここにいる船長はランス様のハイパー兵器に	「The captain here is completely smitten with Rance-sama's hyper weapon,
-2805	+	　メロメロの欲しがりちゃんで……」	　a greedy girl who wants it all the time...」
+2804	Rance	エロ顔	「ここにいる船長はランス様のハイパー兵器に	「The captain here is completely smitten with Rance-sama's hyper weapon,
+2805	+		　メロメロの欲しがりちゃんで……」	　a greedy girl who wants it all the time...」
 
-2806	Noah Hakobune	「そ、そこに変な真実混ぜないでくださいっ！」	「D-Don't mix weird truths in there!」
+2806	Noah Hakobune	動揺	「そ、そこに変な真実混ぜないでくださいっ！」	「D-Don't mix weird truths in there!」

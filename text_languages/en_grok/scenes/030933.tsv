@@ -4,84 +4,84 @@
 * Bandit	山賊	Male
 * Kentou Kanami	かなみ	Female
 
-40649	Rance	「よし、エレナちゃん。	「Alright, Elena-chan.
-40650	+	　俺様は魔物どもから世界を救う戦いをしている。	　I'm fighting to save the world from monsters.
-40651	+	　君も手伝え」	　Help me.」
+40649	Rance	基本	「よし、エレナちゃん。	「Alright, Elena-chan.
+40650	+		　俺様は魔物どもから世界を救う戦いをしている。	　I'm fighting to save the world from monsters.
+40651	+		　君も手伝え」	　Help me.」
 
-40652	Elena Flower	「ああんッ！？　バッカくせェ。	「Aahn!? What the hell.
-40653	+	　そんなモンに興味はねーんだよッ！	　I'm not interested in that shit!
-40654	+	　俺は殺れればいいんだ！」	　I just wanna kill!」
+40652	Elena Flower	怒り	「ああんッ！？　バッカくせェ。	「Aahn!? What the hell.
+40653	+		　そんなモンに興味はねーんだよッ！	　I'm not interested in that shit!
+40654	+		　俺は殺れればいいんだ！」	　I just wanna kill!」
 
-40655	Rance	「ほう、同感だ。俺も犯れればいい」	「Oh, same here. I just wanna fuck.」
+40655	Rance	基本	「ほう、同感だ。俺も犯れればいい」	「Oh, same here. I just wanna fuck.」
 
-40656	Elena Flower	「あん？」	「Huh?」
+40656	Elena Flower	ときめき	「あん？」	「Huh?」
 
-40657	Rance	「ともかくだ。お前、毎日殺しがしたいんだろ」	「Anyway. You wanna kill every day, right?」
+40657	Rance	基本	「ともかくだ。お前、毎日殺しがしたいんだろ」	「Anyway. You wanna kill every day, right?」
 
-40658	Elena Flower	「おう。殺して殺して殺しまくるのが、	「Yeah. Killing and killing is
-40659	+	　俺の生き甲斐だからなぁ」	　my reason for living.」
+40658	Elena Flower		「おう。殺して殺して殺しまくるのが、	「Yeah. Killing and killing is
+40659	+		　俺の生き甲斐だからなぁ」	　my reason for living.」
 
-40660	Rance	「なら、こんな所でのんびり待ってないで、	「Then stop waiting around here,
-40661	+	　魔物相手の最前線に行けばいい」	　and go to the front lines against the monsters.」
+40660	Rance		「なら、こんな所でのんびり待ってないで、	「Then stop waiting around here,
+40661	+		　魔物相手の最前線に行けばいい」	　and go to the front lines against the monsters.」
 
-40662	Rance	「なんせやつらは数万、いや数百万といるからな。	「There are tens of thousands, no, millions of them.
-40663	+	　それをまとめてブッ殺してやれるぞ」	　You can slaughter them all.」
+40662	Rance		「なんせやつらは数万、いや数百万といるからな。	「There are tens of thousands, no, millions of them.
+40663	+		　それをまとめてブッ殺してやれるぞ」	　You can slaughter them all.」
 
-40664	Elena Flower	「ケッ。死にに行けってのか」	「Tch. Sending me to die?」
+40664	Elena Flower	怒り	「ケッ。死にに行けってのか」	「Tch. Sending me to die?」
 
-40665	Rance	「いいや。俺と一緒に来い。	「No. Come with me.
-40666	+	　殺して、しかも生きて帰れるぞ。	　You can kill and still come back alive.
-40667	+	　君が充分に強ければ、だがな」	　If you're strong enough, that is.」
+40665	Rance	基本	「いいや。俺と一緒に来い。	「No. Come with me.
+40666	+		　殺して、しかも生きて帰れるぞ。	　You can kill and still come back alive.
+40667	+		　君が充分に強ければ、だがな」	　If you're strong enough, that is.」
 
-40668	Elena Flower	「…………………………」	「........................」
+40668	Elena Flower		「…………………………」	「........................」
 
-40669	Rance~	（ま、断られたらチャキチャキ犯そう）	（Well, if she refuses I'll just fuck her anyway.）
+40669	Rance~	エロ顔	（ま、断られたらチャキチャキ犯そう）	（Well, if she refuses I'll just fuck her anyway.）
 
-40670	Elena Flower	「………………へっ。面白ぇじゃねぇか。	「............ Heh. Sounds fun.
-40671	+	　いいだろう、やってやるぜ！」	　Fine, I'll do it!」
+40670	Elena Flower	基本	「………………へっ。面白ぇじゃねぇか。	「............ Heh. Sounds fun.
+40671	+		　いいだろう、やってやるぜ！」	　Fine, I'll do it!」
 
-40672	Bandit	「あ、姐御！　そんなの危ないよー！」	「Ah, Boss! That's dangerous!」
+40672	Bandit		「あ、姐御！　そんなの危ないよー！」	「Ah, Boss! That's dangerous!」
 
-40673	Bandit	「そうだよそうだよ。	「Yeah yeah.
-40674	+	　俺たちと、今まで通りここで一緒に山賊しよう」	　Let's keep being bandits here together like before.」
+40673	Bandit	抜刀	「そうだよそうだよ。	「Yeah yeah.
+40674	+		　俺たちと、今まで通りここで一緒に山賊しよう」	　Let's keep being bandits here together like before.」
 
-40675	Elena Flower	「お前ら…………」	「You guys......」
+40675	Elena Flower	ときめき	「お前ら…………」	「You guys......」
 
-40676	-	生き残りの山賊達が、口々に哀れっぽい声を掛ける。	The surviving bandits called out pitifully.
+40676	-		生き残りの山賊達が、口々に哀れっぽい声を掛ける。	The surviving bandits called out pitifully.
 
-40677	Kentou Kanami~	（いや、もう捕まってるんだけど……）	（They're already captured though...）
+40677	Kentou Kanami~	ジト目	（いや、もう捕まってるんだけど……）	（They're already captured though...）
 
-40678	-	ぐっ、とエレナの唇が、決意に引き締められた。	Elena's lips tightened with resolve.
+40678	-		ぐっ、とエレナの唇が、決意に引き締められた。	Elena's lips tightened with resolve.
 
-40679	Elena Flower	「……ああ、そうだな。	「...Yeah, that's right.
-40680	+	　俺はこいつらを見捨てちゃおけない。	　I can't abandon them.
-40681	+	　俺一人だけ、ってんなら、この話は……」	　If it's just me, then this offer...」
+40679	Elena Flower	基本	「……ああ、そうだな。	「...Yeah, that's right.
+40680	+		　俺はこいつらを見捨てちゃおけない。	　I can't abandon them.
+40681	+		　俺一人だけ、ってんなら、この話は……」	　If it's just me, then this offer...」
 
-40682	Rance	「んー、雑魚の上に男か……まあいいだろう。	「Hmm, a bunch of weak guys... whatever.
-40683	+	　連中も一緒に来ればいい」	　They can come too.」
+40682	Rance	だる顔	「んー、雑魚の上に男か……まあいいだろう。	「Hmm, a bunch of weak guys... whatever.
+40683	+		　連中も一緒に来ればいい」	　They can come too.」
 
-40684	Elena Flower	「いいのか？	「You sure?
-40685	+	　言っちゃなんだが、規律もクソもねーぞ。	　They're not disciplined at all.
-40686	+	　俺の言う事しか聞かない奴らだ」	　They only listen to me.」
+40684	Elena Flower	基本	「いいのか？	「You sure?
+40685	+		　言っちゃなんだが、規律もクソもねーぞ。	　They're not disciplined at all.
+40686	+		　俺の言う事しか聞かない奴らだ」	　They only listen to me.」
 
-40687	Rance	「その程度、別に構わんぞ」	「That's fine with me.」
+40687	Rance		「その程度、別に構わんぞ」	「That's fine with me.」
 
-40688	Elena Flower~	（こいつ……意外と話せるじゃねーか）	（This guy... is surprisingly reasonable.）
+40688	Elena Flower~	ときめき	（こいつ……意外と話せるじゃねーか）	（This guy... is surprisingly reasonable.）
 
-40689	Rance~	（ま、毛利の連中に比べたら大したことないし、	（Well, they're better than Mouri's guys,
-40690	+	　邪魔なら殺せばいいな）	　if they cause trouble I can just kill them.）
+40689	Rance~	だる顔	（ま、毛利の連中に比べたら大したことないし、	（Well, they're better than Mouri's guys,
+40690	+		　邪魔なら殺せばいいな）	　if they cause trouble I can just kill them.）
 
-40691	Elena Flower	「……分かった。そこまで言われちゃ仕方ねえ。	「...Fine. If you say so.
-40692	+	　このエレナ・フラワーが、手ぇ貸してやる」	　Elena Flower will lend you a hand.」
+40691	Elena Flower	基本	「……分かった。そこまで言われちゃ仕方ねえ。	「...Fine. If you say so.
+40692	+		　このエレナ・フラワーが、手ぇ貸してやる」	　Elena Flower will lend you a hand.」
 
-40693	Rance	「おう。可愛くて強い子なら歓迎だ」	「Sure. Cute and strong girls are always welcome.」
+40693	Rance		「おう。可愛くて強い子なら歓迎だ」	「Sure. Cute and strong girls are always welcome.」
 
-40694	-	差し出された細い手と、	The slender hand offered
-40695	+	がっしりした手が互いを握り合った。	was firmly grasped by Rance's strong hand.
+40694	-		差し出された細い手と、	The slender hand offered
+40695	+		がっしりした手が互いを握り合った。	was firmly grasped by Rance's strong hand.
 
-40696	Elena Flower	「へっ……たまにゃ、こういうのも悪くねえな」	「Heh... this ain't so bad sometimes.」
+40696	Elena Flower		「へっ……たまにゃ、こういうのも悪くねえな」	「Heh... this ain't so bad sometimes.」
 
-40697	Rance~	（……犯りたくなったら呪いを解こう）	（...If I want to fuck her again, I'll just re-curse her.）
+40697	Rance~		（……犯りたくなったら呪いを解こう）	（...If I want to fuck her again, I'll just re-curse her.）
 
-40698	-	こうして、フラワー番地強盗団団長、	And so, the leader of the Flower District Robber Gang,
-40699	+	エレナ・フラワーが仲間になった。	Elena Flower, joined the party.
+40698	-		こうして、フラワー番地強盗団団長、	And so, the leader of the Flower District Robber Gang,
+40699	+		エレナ・フラワーが仲間になった。	Elena Flower, joined the party.

@@ -7,103 +7,103 @@
 * Sill Plain	シィル	Female
 * Leazas Black Soldier	汎用リーザス黒兵	Male
 
-28585	Rance	「兵が足りん」	「Not enough soldiers.」
+28585	Rance	だる顔	「兵が足りん」	「Not enough soldiers.」
 
-28586	Copandon Dott	「ほなお代わりしぃやー。	「Then just get more.
-28587	+	　……て感じで増やせりゃええねんけどな」	　......If only it was that easy.」
+28586	Copandon Dott	基本	「ほなお代わりしぃやー。	「Then just get more.
+28587	+		　……て感じで増やせりゃええねんけどな」	　......If only it was that easy.」
 
-28588	-	ランスは兵力不足をどうにかしようと、	Rance came to M Land
-28589	+	Mランドに来ていた。	to somehow fix the shortage of troops.
+28588	-		ランスは兵力不足をどうにかしようと、	Rance came to M Land
+28589	+		Mランドに来ていた。	to somehow fix the shortage of troops.
 
-28590	Rance	「どこかに傭兵団とか無いのか。	「Isn't there a mercenary group somewhere?
-28591	+	　ちょっとやばそうなのでもいいぞ」	　Even a sketchy one is fine.」
+28590	Rance		「どこかに傭兵団とか無いのか。	「Isn't there a mercenary group somewhere?
+28591	+		　ちょっとやばそうなのでもいいぞ」	　Even a sketchy one is fine.」
 
-28592	Copandon Dott	「んー、傭兵はもう、総ざらえしとるわ。	「Hmm, I've already scraped up all the mercenaries.
-28593	+	　金でどうにかするんは、限界かなー……」	　Money can only go so far......」
+28592	Copandon Dott	ため息	「んー、傭兵はもう、総ざらえしとるわ。	「Hmm, I've already scraped up all the mercenaries.
+28593	+		　金でどうにかするんは、限界かなー……」	　Money can only go so far......」
 
-28594	Eleanor Ran	「ふぅ……戻りました」	「Haa...... I'm back.」
+28594	Eleanor Ran	基本	「ふぅ……戻りました」	「Haa...... I'm back.」
 
-28595	Copandon Dott	「あ、お疲れはーん。助かりますわ」	「Ah, welcome back. Thanks for your hard work.」
+28595	Copandon Dott	笑い	「あ、お疲れはーん。助かりますわ」	「Ah, welcome back. Thanks for your hard work.」
 
-28596	Rance	「お、ランちゃんではないか。	「Oh, if it isn't Ran-chan.
-28597	+	　戦場帰りか？」	　Back from the battlefield?」
+28596	Rance	基本	「お、ランちゃんではないか。	「Oh, if it isn't Ran-chan.
+28597	+		　戦場帰りか？」	　Back from the battlefield?」
 
-28598	Eleanor Ran	「…………いえ。ただの護衛任務です。	「......No. Just an escort mission.
-28599	+	　JAPANに難民を送っていて」	　I was escorting refugees to JAPAN.」
+28598	Eleanor Ran	警戒	「…………いえ。ただの護衛任務です。	「......No. Just an escort mission.
+28599	+		　JAPANに難民を送っていて」	　I was escorting refugees to JAPAN.」
 
-28600	Rance	「そんなのをランちゃんが護衛か？	「You're escorting them, Ran-chan?
-28601	+	　大袈裟だな」	　That's overkill.」
+28600	Rance	だる顔	「そんなのをランちゃんが護衛か？	「You're escorting them, Ran-chan?
+28601	+		　大袈裟だな」	　That's overkill.」
 
-28602	Copandon Dott	「あー、そうでもないんよ。	「Ah, not really.
-28603	+	　襲ってくるの、魔軍だけとちゃうからなー」	　It's not just the Monster Army attacking.」
+28602	Copandon Dott	ため息	「あー、そうでもないんよ。	「Ah, not really.
+28603	+		　襲ってくるの、魔軍だけとちゃうからなー」	　It's not just the Monster Army attacking.」
 
-28604	Rance	「んん？」	「Hmm?」
+28604	Rance	真剣	「んん？」	「Hmm?」
 
-28605	Eleanor Ran	「こんな時でも、野盗は出ますから。	「Even now, bandits still appear.
-28606	+	　物資目当てに襲ってくるんです」	　They attack for supplies.」
+28605	Eleanor Ran	警戒	「こんな時でも、野盗は出ますから。	「Even now, bandits still appear.
+28606	+		　物資目当てに襲ってくるんです」	　They attack for supplies.」
 
-28607	Eleanor Ran	「世相の苦しさに、集団化することも多くて……	「Because of the hard times, they form large groups......
-28608	+	　一度、一万近い群れに襲われた事も……」	　We were once attacked by nearly ten thousand of them......」
+28607	Eleanor Ran	つらい	「世相の苦しさに、集団化することも多くて……	「Because of the hard times, they form large groups......
+28608	+		　一度、一万近い群れに襲われた事も……」	　We were once attacked by nearly ten thousand of them......」
 
-28609	Rance	「ふーん…………ん、んん……！」	「Hmm............ Oh, ohhh......!」
+28609	Rance	基本	「ふーん…………ん、んん……！」	「Hmm............ Oh, ohhh......!」
 
-28610	Rance	「それだ！　がはははは、ナイスランちゃん！」	「That's it! Gahahahaha, nice one Ran-chan!」
+28610	Rance	笑顔	「それだ！　がはははは、ナイスランちゃん！」	「That's it! Gahahahaha, nice one Ran-chan!」
 
-28611	Eleanor Ran	「きゃっ！？」	「Kyaa!?」
+28611	Eleanor Ran	基本	「きゃっ！？」	「Kyaa!?」
 
-28612	-	ランスは突然、ランの手を握った。	Rance suddenly grabbed Ran's hand.
+28612	-		ランスは突然、ランの手を握った。	Rance suddenly grabbed Ran's hand.
 
-28613	Rance	「がはははは、戦力補充の手段、見つかったぞ！」	「Gahahahaha, I found a way to reinforce our troops!」
+28613	Rance	笑顔	「がはははは、戦力補充の手段、見つかったぞ！」	「Gahahahaha, I found a way to reinforce our troops!」
 
-28614	Eleanor Ran	「え、は…………？」	「Eh, ha......?」
+28614	Eleanor Ran	基本	「え、は…………？」	「Eh, ha......?」
 
-28615	Copandon Dott	「戦力補充て、まさか……」	「Reinforcements... you don't mean......」
+28615	Copandon Dott	ジト目	「戦力補充て、まさか……」	「Reinforcements... you don't mean......」
 
-28616	Bandit	「がふ、ひゅ……！」	「Gah, hyu......!」
+28616	Bandit	抜刀	「がふ、ひゅ……！」	「Gah, hyu......!」
 
-28617	Free Cities Guard	「ひ……！　お、おかしらが一瞬で……！」	「Hi......! The boss in one hit......!」
+28617	Free Cities Guard	基本	「ひ……！　お、おかしらが一瞬で……！」	「Hi......! The boss in one hit......!」
 
-28618	Rance	「がはははははは！	「Gahahahahaha!
-28619	+	　貴様らのボスはくたばったぞ！　さあどうする！」	　Your boss is dead! Now what will you do!」
+28618	Rance	笑顔	「がはははははは！	「Gahahahahaha!
+28619	+		　貴様らのボスはくたばったぞ！　さあどうする！」	　Your boss is dead! Now what will you do!」
 
-28620	Rance	「どうすると言っても、ここでくたばるか、	「Your choices are die here,
-28621	+	　俺様の尖兵となって魔軍と戦うか、だがな！」	　or become my vanguard and fight the Monster Army!」
+28620	Rance	基本	「どうすると言っても、ここでくたばるか、	「Your choices are die here,
+28621	+		　俺様の尖兵となって魔軍と戦うか、だがな！」	　or become my vanguard and fight the Monster Army!」
 
-28622	Free Cities Guard	「い、いやだ！　魔軍なんかと戦いたくないから、	「N-no! We ran away because we didn't want
-28623	+	　こうして逃げてきたのに……！」	　to fight the Monster Army......!」
+28622	Free Cities Guard		「い、いやだ！　魔軍なんかと戦いたくないから、	「N-no! We ran away because we didn't want
+28623	+		　こうして逃げてきたのに……！」	　to fight the Monster Army......!」
 
-28624	Rance	「じゃあ死ね」	「Then die.」
+28624	Rance	イライラ	「じゃあ死ね」	「Then die.」
 
-28625	Free Cities Guard	「ぎゃああああああ！」	「Gyaaaaaaa!」
+28625	Free Cities Guard	基本	「ぎゃああああああ！」	「Gyaaaaaaa!」
 
-28626	-	抗弁した野盗を、ランスは無造作に切り捨てた。	Rance casually cut down the protesting bandit.
+28626	-		抗弁した野盗を、ランスは無造作に切り捨てた。	Rance casually cut down the protesting bandit.
 
-28627	Free Cities Guard	「ひっ……！　あ、あぁ……」	「Hii......! A-ah......」
+28627	Free Cities Guard		「ひっ……！　あ、あぁ……」	「Hii......! A-ah......」
 
-28628	Rance	「さあ、どうする……というか、さっさと従え！	「So, what will it be... Just obey me already!
-28629	+	　まだ生き残れるかもしれんぞ。がははは！」	　You might still survive. Gahaha!」
+28628	Rance	笑顔	「さあ、どうする……というか、さっさと従え！	「So, what will it be... Just obey me already!
+28629	+		　まだ生き残れるかもしれんぞ。がははは！」	　You might still survive. Gahaha!」
 
-28630	Free Cities Guard	「う、ぐぐ……っ……」	「U, guh......」
+28630	Free Cities Guard	基本	「う、ぐぐ……っ……」	「U, guh......」
 
-28631	-	ほとんどの野盗は屈服し、	Most of the bandits surrendered
-28632	+	自由都市連合の兵によって連行されていった。	and were taken away by Free Cities Alliance soldiers.
+28631	-		ほとんどの野盗は屈服し、	Most of the bandits surrendered
+28632	+		自由都市連合の兵によって連行されていった。	and were taken away by Free Cities Alliance soldiers.
 
-28633	Rance	「よーし、これで3つめか。いいペースだな」	「Alright, that's the third one. Good pace.」
+28633	Rance		「よーし、これで3つめか。いいペースだな」	「Alright, that's the third one. Good pace.」
 
-28634	Sill Plain	「パッキャマラード・デンの千津さんが、	「Chizu-san from Pakyamalard Den
-28635	+	　すごく詳しく教えてくれましたからね……」	　gave us very detailed information......」
+28634	Sill Plain		「パッキャマラード・デンの千津さんが、	「Chizu-san from Pakyamalard Den
+28635	+		　すごく詳しく教えてくれましたからね……」	　gave us very detailed information......」
 
-28636	Rance	「あそこは野盗と取引してる商人とか、	「That place has lots of merchants trading with bandits,
-28637	+	　ごっそりいるらしいからな……まあ、楽でいい」	　so it's pretty easy...... Works for me.」
+28636	Rance		「あそこは野盗と取引してる商人とか、	「That place has lots of merchants trading with bandits,
+28637	+		　ごっそりいるらしいからな……まあ、楽でいい」	　so it's pretty easy...... Works for me.」
 
-28638	Leazas Black Soldier	「総統閣下、野盗たちを確保しました」	「Supreme Leader, the bandits have been secured.」
+28638	Leazas Black Soldier		「総統閣下、野盗たちを確保しました」	「Supreme Leader, the bandits have been secured.」
 
-28639	Rance	「Mランドに持ってけ。最前線に送り込んで構わん。	「Take them to M Land. Send them straight to the front line.
-28640	+	　さあ、ガンガンいくぞ！」	　Let's keep going strong!」
+28639	Rance		「Mランドに持ってけ。最前線に送り込んで構わん。	「Take them to M Land. Send them straight to the front line.
+28640	+		　さあ、ガンガンいくぞ！」	　Let's keep going strong!」
 
-28641	-	後方の治安の向上と、	By improving security in the rear
-28642	+	野盗を新しい兵力として組み込んだ事により、	and incorporating the bandits as new troops,
-28643	+	前線に回せる兵の数が増加した。	the number of soldiers available for the front lines increased.
+28641	-		後方の治安の向上と、	By improving security in the rear
+28642	+		野盗を新しい兵力として組み込んだ事により、	and incorporating the bandits as new troops,
+28643	+		前線に回せる兵の数が増加した。	the number of soldiers available for the front lines increased.
 
-28644	-	こうして、ランスの行動により	Thus, thanks to Rance's actions,
-28645	+	7万ほどの兵力が前線に加わった。	around 70,000 troops were added to the front lines.
+28644	-		こうして、ランスの行動により	Thus, thanks to Rance's actions,
+28645	+		7万ほどの兵力が前線に加わった。	around 70,000 troops were added to the front lines.

@@ -7,122 +7,122 @@
 * Rance	ランス	Male
 * Captain	船長	Male
 
-36325	-	自由都市　ジフテリア――	Free Cities Diphteria――
+36325	-		自由都市　ジフテリア――	Free Cities Diphteria――
 
-36326	Man	「積み込み、急げーーーー！」	「Hurry with the loading-----!」
+36326	Man	基本	「積み込み、急げーーーー！」	「Hurry with the loading-----!」
 
-36327	-	潮風に乗って、声が響く。	The voice rang out on the sea breeze.
+36327	-		潮風に乗って、声が響く。	The voice rang out on the sea breeze.
 
-36328	Copandon Dott	「レモン80樽、干し肉80樽は、オーケーと。	「80 barrels of lemons and 80 of dried meat are okay.
-36329	+	　ヘルマンパン100樽はどないしたー！？」	　What about the 100 barrels of Helman bread!?」
+36328	Copandon Dott		「レモン80樽、干し肉80樽は、オーケーと。	「80 barrels of lemons and 80 of dried meat are okay.
+36329	+		　ヘルマンパン100樽はどないしたー！？」	　What about the 100 barrels of Helman bread!?」
 
-36330	Man	「すみません、運搬途中で隊商がやられたようです！	「Sorry, the caravan got attacked during transport!
-36331	+	　予定の半分少々しか……」	　We only have a bit over half...」
+36330	Man		「すみません、運搬途中で隊商がやられたようです！	「Sorry, the caravan got attacked during transport!
+36331	+		　予定の半分少々しか……」	　We only have a bit over half...」
 
-36332	Copandon Dott	「じゃあ普通のパンでもええわ！	「Then normal bread is fine!
-36333	+	　そこら駆けずり回って50樽、用意してきぃ！」	　Run around and get 50 barrels ready!」
+36332	Copandon Dott		「じゃあ普通のパンでもええわ！	「Then normal bread is fine!
+36333	+		　そこら駆けずり回って50樽、用意してきぃ！」	　Run around and get 50 barrels ready!」
 
-36334	Urza Pranaice	「真水の樽と飲料水の樽は目印をお願いします！	「Please mark the fresh water barrels and drinking water barrels!
-36335	+	　いざという時、すぐ判別できるように！」	　So we can tell them apart in an emergency!」
+36334	Urza Pranaice		「真水の樽と飲料水の樽は目印をお願いします！	「Please mark the fresh water barrels and drinking water barrels!
+36335	+		　いざという時、すぐ判別できるように！」	　So we can tell them apart in an emergency!」
 
-36336	Man	「医療品届きましたー！	「Medical supplies have arrived!
-36337	+	　どこに積み込みましょう！」	　Where should we load them?」
+36336	Man		「医療品届きましたー！	「Medical supplies have arrived!
+36337	+		　どこに積み込みましょう！」	　Where should we load them?」
 
-36338	Cream Ganoblade	「それは医務室です。中に入れば	「Those go to the medical room. Once inside
-36339	+	　見取り図が置いてあるので、それを参照してください」	　there's a floor plan, please refer to it.」
+36338	Cream Ganoblade		「それは医務室です。中に入れば	「Those go to the medical room. Once inside
+36339	+		　見取り図が置いてあるので、それを参照してください」	　there's a floor plan, please refer to it.」
 
-36340	Sill Plain	「わぁ……なんだか活気がありますね、ランス様。	「Wow... It's really lively, Rance-sama.
-36341	+	　お祭りの準備中みたいです」	　It feels like we're preparing for a festival.」
+36340	Sill Plain		「わぁ……なんだか活気がありますね、ランス様。	「Wow... It's really lively, Rance-sama.
+36341	+		　お祭りの準備中みたいです」	　It feels like we're preparing for a festival.」
 
-36342	Rance	「ふふん、雰囲気出てきたな。楽しくなってきたぞ」	「Heh, the mood is picking up. This is getting fun.」
+36342	Rance		「ふふん、雰囲気出てきたな。楽しくなってきたぞ」	「Heh, the mood is picking up. This is getting fun.」
 
-36343	Copandon Dott	「はー、後で防腐の魔法頼まな……あ、ランスーー！	「Haa, we'll need preservation magic later... Ah, Rance---!
-36344	+	　こっちこっち！」	　Over here!」
+36343	Copandon Dott	驚き	「はー、後で防腐の魔法頼まな……あ、ランスーー！	「Haa, we'll need preservation magic later... Ah, Rance---!
+36344	+		　こっちこっち！」	　Over here!」
 
-36345	Rance	「おう、コパンドン」	「Yo, Copandon.」
+36345	Rance	基本	「おう、コパンドン」	「Yo, Copandon.」
 
-36346	Copandon Dott	「今回、船の指揮を頼む船長を紹介するわ」	「I'll introduce you to the captain we'll rely on for commanding the ship this time.」
+36346	Copandon Dott		「今回、船の指揮を頼む船長を紹介するわ」	「I'll introduce you to the captain we'll rely on for commanding the ship this time.」
 
-36347	Rance	「なんだと？　船長は俺様に決まってるだろうが。	「What? I'm obviously the captain.
-36348	+	　そんな奴いらんわ」	　We don't need anyone else.」
+36347	Rance	真剣	「なんだと？　船長は俺様に決まってるだろうが。	「What? I'm obviously the captain.
+36348	+		　そんな奴いらんわ」	　We don't need anyone else.」
 
-36349	Copandon Dott	「……えーと、ランス。自分、船の指揮できるん？」	「...Um, Rance. Can you actually command a ship?」
+36349	Copandon Dott	ジト目	「……えーと、ランス。自分、船の指揮できるん？」	「...Um, Rance. Can you actually command a ship?」
 
-36350	Rance	「あっち行けこっち行け、っていうだけだろう。	「It's just telling them go there, come here, right?
-36351	+	　楽勝だ」	　Easy.」
+36350	Rance	基本	「あっち行けこっち行け、っていうだけだろう。	「It's just telling them go there, come here, right?
+36351	+		　楽勝だ」	　Easy.」
 
-36352	Copandon Dott	「う、うーん……そういうんやなしにな。	「U-umm... That's not how it works.
-36353	+	　海の知識とかけっこう要るんよ」	　You need quite a bit of knowledge about the sea.」
+36352	Copandon Dott	ため息	「う、うーん……そういうんやなしにな。	「U-umm... That's not how it works.
+36353	+		　海の知識とかけっこう要るんよ」	　You need quite a bit of knowledge about the sea.」
 
-36354	Rance	「要らんと言ったら要らん！　トップは俺様だぞ」	「If I say I don't need it, I don't! I'm the top!」
+36354	Rance	怒り	「要らんと言ったら要らん！　トップは俺様だぞ」	「If I say I don't need it, I don't! I'm the top!」
 
-36355	Copandon Dott	「あーー、えーと……	「Aaaah, um...
-36356	+	　今回雇ったんは、そうじゃなくて……	　The one we hired this time isn't that...
-36357	+	　どう言ったらええかな」	　How should I explain...」
+36355	Copandon Dott	ジト目	「あーー、えーと……	「Aaaah, um...
+36356	+		　今回雇ったんは、そうじゃなくて……	　The one we hired this time isn't that...
+36357	+		　どう言ったらええかな」	　How should I explain...」
 
-36358	Sill Plain	「ランス様。	「Rance-sama.
-36359	+	　うし車のようなものと考えたらどうですか？」	　Think of it like hiring a driver for an ox cart.」
+36358	Sill Plain	基本	「ランス様。	「Rance-sama.
+36359	+		　うし車のようなものと考えたらどうですか？」	　Think of it like hiring a driver for an ox cart.」
 
-36360	Rance	「ん？」	「Hm?」
+36360	Rance	真剣	「ん？」	「Hm?」
 
-36361	Sill Plain	「うし車の御者さんを請け負ってくださる方、	「Someone who will take charge of driving the cart,
-36362	+	　ということじゃないでしょうか」	　that's what a captain is.」
+36361	Sill Plain	基本	「うし車の御者さんを請け負ってくださる方、	「Someone who will take charge of driving the cart,
+36362	+		　ということじゃないでしょうか」	　that's what a captain is.」
 
-36363	Copandon Dott	「ああ、それやそれ。船長てそんなんや。	「Yeah, exactly. That's what a captain is.
-36364	+	　ゆっくりくつろいどってくれたら、	　Just relax comfortably,
-36365	+	　現地まで運ぶさかい」	　and we'll get you to the destination.」
+36363	Copandon Dott		「ああ、それやそれ。船長てそんなんや。	「Yeah, exactly. That's what a captain is.
+36364	+		　ゆっくりくつろいどってくれたら、	　Just relax comfortably,
+36365	+		　現地まで運ぶさかい」	　and we'll get you to the destination.」
 
-36366	Rance	「なーんだ、そんなことか。それなら好きにしろ」	「Oh, is that all? Then do as you like.」
+36366	Rance	真剣	「なーんだ、そんなことか。それなら好きにしろ」	「Oh, is that all? Then do as you like.」
 
-36367	Copandon Dott	「よっしゃ。ちうわけで、おーい」	「Alright. So, heyー」
+36367	Copandon Dott	基本	「よっしゃ。ちうわけで、おーい」	「Alright. So, heyー」
 
-36368	Captain	「おう、あんたがリーダーか。	「Yo, you're the leader huh.
-36369	+	　俺が船長やらせてもらう、	　I'm the captain,
-36370	+	　ジンギスカン・ダンダコスだ」	　Jingis Khan Dandakos.」
+36368	Captain		「おう、あんたがリーダーか。	「Yo, you're the leader huh.
+36369	+		　俺が船長やらせてもらう、	　I'm the captain,
+36370	+		　ジンギスカン・ダンダコスだ」	　Jingis Khan Dandakos.」
 
-36371	-	よく日に焼けた、少壮の男が姿を現した。	A well-tanned, vigorous man appeared.
+36371	-		よく日に焼けた、少壮の男が姿を現した。	A well-tanned, vigorous man appeared.
 
-36372	Copandon Dott	「海に関しちゃ、たぶん一番の冒険者や。	「He's probably the best adventurer when it comes to the sea.
-36373	+	　満ち潮にも、2回乗り出してる」	　He's ridden the high tide twice already.」
+36372	Copandon Dott		「海に関しちゃ、たぶん一番の冒険者や。	「He's probably the best adventurer when it comes to the sea.
+36373	+		　満ち潮にも、2回乗り出してる」	　He's ridden the high tide twice already.」
 
-36374	Sill Plain	「ということは20年以上、ですか……」	「That means over 20 years...」
+36374	Sill Plain	慌て	「ということは20年以上、ですか……」	「That means over 20 years...」
 
-36375	Copandon Dott	「キースはんとも相談してな。	「I talked with Keith too.
-36376	+	　方々探して、ようやく見つけたんや」	　We searched all over and finally found him.」
+36375	Copandon Dott	笑い	「キースはんとも相談してな。	「I talked with Keith too.
+36376	+		　方々探して、ようやく見つけたんや」	　We searched all over and finally found him.」
 
-36377	Rance	「おっさんかよ。まあ、良きに計らえ」	「He's an old man. Well, handle it.」
+36377	Rance	だる顔	「おっさんかよ。まあ、良きに計らえ」	「He's an old man. Well, handle it.」
 
-36378	Captain	「じゃあそうさせてもらおう。	「Then I'll do just that.
-36379	+	　噂通りの酔狂だな、こんな計画を立てるとは」	　Just as the rumors say, quite the madman to come up with a plan like this.」
+36378	Captain	基本	「じゃあそうさせてもらおう。	「Then I'll do just that.
+36379	+		　噂通りの酔狂だな、こんな計画を立てるとは」	　Just as the rumors say, quite the madman to come up with a plan like this.」
 
-36380	Rance	「あん？」	「Huh?」
+36380	Rance	真剣	「あん？」	「Huh?」
 
-36381	Captain	「確認しとくぞ。	「Just confirming.
-36382	+	　この満ち潮の海はいきなり現れ、いきなり消える。	　This high tide sea appears suddenly and disappears suddenly.
-36383	+	　いつまで航海できるか、わからん」	　We don't know how long we can sail.」
+36381	Captain	基本	「確認しとくぞ。	「Just confirming.
+36382	+		　この満ち潮の海はいきなり現れ、いきなり消える。	　This high tide sea appears suddenly and disappears suddenly.
+36383	+		　いつまで航海できるか、わからん」	　We don't know how long we can sail.」
 
-36384	Rance	「あっそ」	「I see.」
+36384	Rance	だる顔	「あっそ」	「I see.」
 
-36385	Captain	「そしてこの計画の、航海の距離だ。	「And the distance of this voyage.
-36386	+	　最低でも片道一週間。	　At least one week one way.
-36387	+	　こんな長い距離の航海は、前例がない」	　There is no precedent for such a long voyage.」
+36385	Captain	基本	「そしてこの計画の、航海の距離だ。	「And the distance of this voyage.
+36386	+		　最低でも片道一週間。	　At least one week one way.
+36387	+		　こんな長い距離の航海は、前例がない」	　There is no precedent for such a long voyage.」
 
-36388	Rance	「ふーん」	「Hmm.」
+36388	Rance		「ふーん」	「Hmm.」
 
-36389	Captain	「船で帰ってくる時間は、絶対に無い。	「There is absolutely no time to return by ship.
-36390	+	　魔物どもの住処の中に、置き去りになるぞ」	　We'll be left behind in the monsters' territory.」
+36389	Captain		「船で帰ってくる時間は、絶対に無い。	「There is absolutely no time to return by ship.
+36390	+		　魔物どもの住処の中に、置き去りになるぞ」	　We'll be left behind in the monsters' territory.」
 
-36391	Rance	「だからどうした」	「So what?」
+36391	Rance	真剣	「だからどうした」	「So what?」
 
-36392	Captain	「…………ほう。ビビらねぇんだな」	「............Hoh. You're not scared.」
+36392	Captain	基本	「…………ほう。ビビらねぇんだな」	「............Hoh. You're not scared.」
 
-36393	Rance	「ふん。そんな分かりきった話、散々聞いたわ。	「Hmph. I've heard that obvious stuff plenty of times.
-36394	+	　俺様には関係ないし、興味もない」	　It has nothing to do with me and I'm not interested.」
+36393	Rance	真剣	「ふん。そんな分かりきった話、散々聞いたわ。	「Hmph. I've heard that obvious stuff plenty of times.
+36394	+		　俺様には関係ないし、興味もない」	　It has nothing to do with me and I'm not interested.」
 
-36395	Captain	「腹は据わってるようだな。いいぜ。	「You've got guts. Good.
-36396	+	　海じゃ何があるか分からん。注意はするんだな」	　You never know what'll happen at sea. Stay alert.」
+36395	Captain	基本	「腹は据わってるようだな。いいぜ。	「You've got guts. Good.
+36396	+		　海じゃ何があるか分からん。注意はするんだな」	　You never know what'll happen at sea. Stay alert.」
 
-36397	Urza Pranaice	「コパンドンさん……あ、総統も。	「Copandon-san... Oh, Supreme Leader too.
-36398	+	　積み込み、終了しましたよ」	　Loading is complete.」
+36397	Urza Pranaice		「コパンドンさん……あ、総統も。	「Copandon-san... Oh, Supreme Leader too.
+36398	+		　積み込み、終了しましたよ」	　Loading is complete.」
 
-36399	Rance	「よーし、いいタイミングだな。乗り込むぞ！」	「Alright, perfect timing. Let's board!」
+36399	Rance		「よーし、いいタイミングだな。乗り込むぞ！」	「Alright, perfect timing. Let's board!」

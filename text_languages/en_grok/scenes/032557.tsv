@@ -3,85 +3,85 @@
 * Ex Banquet	エクス	Male
 * Leazas Red Soldier	汎用リーザス赤兵	Male
 
-159067	-	その頃――	Around that time――
+159067	-		その頃――	Around that time――
 
-159068	-	リーザス北部の戦場――	Northern Leazas battlefield――
+159068	-		リーザス北部の戦場――	Northern Leazas battlefield――
 
-159069	-	リーザス軍と魔軍の戦いは、	The battle between the Leazas army and the Monster Army
-159070	+	大規模ではないが、小競り合い程度の戦いが	wasn't on a large scale, but small skirmishes
-159071	+	今日も繰り広げられていた。	continued today as well.
+159069	-		リーザス軍と魔軍の戦いは、	The battle between the Leazas army and the Monster Army
+159070	+		大規模ではないが、小競り合い程度の戦いが	wasn't on a large scale, but small skirmishes
+159071	+		今日も繰り広げられていた。	continued today as well.
 
-159072	Leazas White Soldier	「魔人ハウゼル！	「Fiend Hawzel!
-159073	+	　左翼付近で戦闘を開始しました！」	　Combat has begun near the left wing!」
+159072	Leazas White Soldier	基本	「魔人ハウゼル！	「Fiend Hawzel!
+159073	+		　左翼付近で戦闘を開始しました！」	　Combat has begun near the left wing!」
 
-159074	Ex Banquet	「ん、了解。	「Got it.
-159075	+	　先日のような決闘が通じるならそれで。	　If a duel like last time works, fine.
-159076	+	　通じないようなら、普通に対応して」	　If not, respond normally.」
+159074	Ex Banquet		「ん、了解。	「Got it.
+159075	+		　先日のような決闘が通じるならそれで。	　If a duel like last time works, fine.
+159076	+		　通じないようなら、普通に対応して」	　If not, respond normally.」
 
-159077	Leazas White Soldier	「はっ！」	「Yes!」
+159077	Leazas White Soldier		「はっ！」	「Yes!」
 
-159078	Leazas White Soldier	「あ、あの……	「Um...
-159079	+	　魔人討伐隊に知らせなくても	　Should we not inform the Fiend Extermination Squad
-159080	+	　よろしいのでしょうか？」	　as well?」
+159078	Leazas White Soldier		「あ、あの……	「Um...
+159079	+		　魔人討伐隊に知らせなくても	　Should we not inform the Fiend Extermination Squad
+159080	+		　よろしいのでしょうか？」	　as well?」
 
-159081	Ex Banquet	「ああ、ランス総統率いる	「Ah, the Fiend Extermination Squad led by Supreme Leader Rance
-159082	+	　魔人討伐隊は今日はいないよ」	　isn't here today.」
+159081	Ex Banquet		「ああ、ランス総統率いる	「Ah, the Fiend Extermination Squad led by Supreme Leader Rance
+159082	+		　魔人討伐隊は今日はいないよ」	　isn't here today.」
 
-159083	Ex Banquet	「なんでもハイパービルに行くとか……」	「Apparently they went to the Hyperville...」
+159083	Ex Banquet		「なんでもハイパービルに行くとか……」	「Apparently they went to the Hyperville...」
 
-159084	Leazas White Soldier	「そ、そうでしたか。	「I-I see.
-159085	+	　ではこれで失礼を」	　Excuse me then.」
+159084	Leazas White Soldier		「そ、そうでしたか。	「I-I see.
+159085	+		　ではこれで失礼を」	　Excuse me then.」
 
-159086	Ex Banquet	「ああ」	「Yeah.」
+159086	Ex Banquet		「ああ」	「Yeah.」
 
-159087	Leazas Red Soldier	「一体奴ら、なんの為にここにいるのだ！」	「What the hell are those guys even here for!」
+159087	Leazas Red Soldier	非武装	「一体奴ら、なんの為にここにいるのだ！」	「What the hell are those guys even here for!」
 
-159088	-	そのとき、一人の士官が机を思い切り叩いた。	At that moment, one officer slammed the desk hard.
+159088	-		そのとき、一人の士官が机を思い切り叩いた。	At that moment, one officer slammed the desk hard.
 
-159089	Ex Banquet	「まあまあ」	「Now now.」
+159089	Ex Banquet	基本	「まあまあ」	「Now now.」
 
-159090	Leazas Red Soldier	「そもそも戦場でまで女を侍らす、	「Bringing women to the battlefield in the first place,
-159091	+	　あの不真面目な態度はなんなのだ！」	　that unserious attitude is unacceptable!」
+159090	Leazas Red Soldier	非武装	「そもそも戦場でまで女を侍らす、	「Bringing women to the battlefield in the first place,
+159091	+		　あの不真面目な態度はなんなのだ！」	　that unserious attitude is unacceptable!」
 
-159092	Ex Banquet	「あー……まあねえ……」	「Ah... well yeah...」
+159092	Ex Banquet	基本	「あー……まあねえ……」	「Ah... well yeah...」
 
-159093	-	当然のことではあるが――	It was only natural――
-159094	+	固い軍人の間で、ランスの評判は最悪だった。	Among the strict soldiers, Rance's reputation was the worst.
+159093	-		当然のことではあるが――	It was only natural――
+159094	+		固い軍人の間で、ランスの評判は最悪だった。	Among the strict soldiers, Rance's reputation was the worst.
 
-159095	Ex Banquet	「だが、功績だけは間違いなくあるんだ。	「But his achievements are undeniable.
-159096	+	　吉報を待つしかないでしょ」	　We can only wait for good news.」
+159095	Ex Banquet		「だが、功績だけは間違いなくあるんだ。	「But his achievements are undeniable.
+159096	+		　吉報を待つしかないでしょ」	　We can only wait for good news.」
 
-159097	Leazas White Soldier	「しかし、エクス殿……	「However, Lord Ex...
-159098	+	　あの男が真面目に戦っているように見えますか？」	　Does that man look like he's fighting seriously?」
+159097	Leazas White Soldier		「しかし、エクス殿……	「However, Lord Ex...
+159098	+		　あの男が真面目に戦っているように見えますか？」	　Does that man look like he's fighting seriously?」
 
-159099	Ex Banquet	「うーん、ちっとも見えないかな」	「Hmm, not at all.」
+159099	Ex Banquet		「うーん、ちっとも見えないかな」	「Hmm, not at all.」
 
-159100	Ex Banquet	「だが、何も物見遊山に行ったわけでもあるまい」	「But he didn't go there just for sightseeing either.」
+159100	Ex Banquet		「だが、何も物見遊山に行ったわけでもあるまい」	「But he didn't go there just for sightseeing either.」
 
-159101	Leazas Red Soldier	「あの者を信頼すると言うのですか？」	「You're saying we should trust that man?」
+159101	Leazas Red Soldier	非武装	「あの者を信頼すると言うのですか？」	「You're saying we should trust that man?」
 
-159102	Ex Banquet	「あの者は信頼できないよ」	「I can't trust that man.
+159102	Ex Banquet	基本	「あの者は信頼できないよ」	「I can't trust that man.
 
-159103	Ex Banquet	「ただ、赤の軍将軍は信頼している。	　But I trust the Red Army General.
-159104	+	　同じ戦場で背を預ける者がそうするなら……	　If someone who fights on the same battlefield trusts him...
-159105	+	　僕も信頼することにします」	　Then I will trust him too.」
+159103	Ex Banquet		「ただ、赤の軍将軍は信頼している。	　But I trust the Red Army General.
+159104	+		　同じ戦場で背を預ける者がそうするなら……	　If someone who fights on the same battlefield trusts him...
+159105	+		　僕も信頼することにします」	　Then I will trust him too.」
 
-159106	Ex Banquet	「それだけです」	「That's all.」
+159106	Ex Banquet		「それだけです」	「That's all.」
 
-159107	Ex Banquet	「貴方はどうですか？」	「What about you?」
+159107	Ex Banquet		「貴方はどうですか？」	「What about you?」
 
-159108	Leazas Red Soldier	「……私は」	「...I
+159108	Leazas Red Soldier	非武装	「……私は」	「...I
 
-159109	Leazas Red Soldier	「……失礼、口が過ぎたようで」	　...Excuse me, I spoke too much.」
+159109	Leazas Red Soldier		「……失礼、口が過ぎたようで」	　...Excuse me, I spoke too much.」
 
-159110	Ex Banquet	「いやいや」	「No no.」
+159110	Ex Banquet	笑顔	「いやいや」	「No no.」
 
-159111	Ex Banquet	「さっ、仕事はいくらでもある。	「Now then, there's plenty of work to do.
-159112	+	　君も君の仕事をまっとうしてくれ」	　Do your job properly too.」
+159111	Ex Banquet		「さっ、仕事はいくらでもある。	「Now then, there's plenty of work to do.
+159112	+		　君も君の仕事をまっとうしてくれ」	　Do your job properly too.」
 
-159113	Leazas Red Soldier	「……はっ！」	「...Yes!」
+159113	Leazas Red Soldier	非武装	「……はっ！」	「...Yes!」
 
-159114	Ex Banquet	「ふう……」	「Phew...」
+159114	Ex Banquet	基本	「ふう……」	「Phew...」
 
-159115	Ex Banquet	「とりあえず今は庇ったが……	「I protected him for now but...
-159116	+	　さてさて、どこで何をしておられるか」	　I wonder what he's doing and where.」
+159115	Ex Banquet		「とりあえず今は庇ったが……	「I protected him for now but...
+159116	+		　さてさて、どこで何をしておられるか」	　I wonder what he's doing and where.」

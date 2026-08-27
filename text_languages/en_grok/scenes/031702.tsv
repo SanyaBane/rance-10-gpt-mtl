@@ -5,95 +5,95 @@
 * Sill Plain	シィル	Female
 * Dark Heron	闇鷺	Female
 
-97484	Kentou Kanami	「ぐすっ……ぐすっ……」	「Sniff... sniff...」
+97484	Kentou Kanami	泣き	「ぐすっ……ぐすっ……」	「Sniff... sniff...」
 
-97485	Freya Idun	「…………」	「............」
+97485	Freya Idun	基本	「…………」	「............」
 
-97486	Rance	「あ〜〜〜……」	「Aaaah...」
+97486	Rance		「あ〜〜〜……」	「Aaaah...」
 
-97487	Rance	「おい、フレイア。	「Hey, Freya.
-97488	+	　お前にかなみに何をした」	　What did you do to Kanami?」
+97487	Rance		「おい、フレイア。	「Hey, Freya.
+97488	+		　お前にかなみに何をした」	　What did you do to Kanami?」
 
-97489	-	何故かかなみがぐすぐすと泣いていた。	For some reason Kanami was sobbing.
+97489	-		何故かかなみがぐすぐすと泣いていた。	For some reason Kanami was sobbing.
 
-97490	Freya Idun	「心外。	「How rude.
-97491	+	　そこでどうして私の名前が？」	　Why is my name coming up?」
+97490	Freya Idun		「心外。	「How rude.
+97491	+		　そこでどうして私の名前が？」	　Why is my name coming up?」
 
-97492	Rance	「お前以外に誰が	「Who else but you
-97493	+	　かなみをこんな状態にさせるんだ」	　could make Kanami like this?」
+97492	Rance		「お前以外に誰が	「Who else but you
+97493	+		　かなみをこんな状態にさせるんだ」	　could make Kanami like this?」
 
-97494	Kentou Kanami	「うえ〜〜〜……」	「Ueeeh~~~...」
+97494	Kentou Kanami	泣き	「うえ〜〜〜……」	「Ueeeh~~~...」
 
-97495	Sill Plain	「ああ、大丈夫ですか、かなみさん。	「There there, are you okay, Kanami-san.
-97496	+	　泣き止んでください、こしこし」	　Stop crying, there there.」
+97495	Sill Plain	苦笑	「ああ、大丈夫ですか、かなみさん。	「There there, are you okay, Kanami-san.
+97496	+		　泣き止んでください、こしこし」	　Stop crying, there there.」
 
-97497	-	今、かなみはシィルの胸を借りて泣き、	Right now Kanami was crying into Sill's chest,
-97498	+	目元を優しくハンカチで拭かれていた。	her eyes gently wiped with a handkerchief.
+97497	-		今、かなみはシィルの胸を借りて泣き、	Right now Kanami was crying into Sill's chest,
+97498	+		目元を優しくハンカチで拭かれていた。	her eyes gently wiped with a handkerchief.
 
-97499	Freya Idun	「別に？	「Not really?
-97500	+	　隊長が手裏剣術の訓練をしていたから、	　The captain was training with shuriken,
-97501	+	　色々あれこれとアドバイスしただけよ」	　so I just gave her various advice.」
+97499	Freya Idun	基本	「別に？	「Not really?
+97500	+		　隊長が手裏剣術の訓練をしていたから、	　The captain was training with shuriken,
+97501	+		　色々あれこれとアドバイスしただけよ」	　so I just gave her various advice.」
 
-97502	Rance	「……大体なにがあったか想像ついた」	「...I can imagine what happened.」
+97502	Rance		「……大体なにがあったか想像ついた」	「...I can imagine what happened.」
 
-97503	Kentou Kanami	「うう……	「Uuu...
-97504	+	　ふ、フレイアさん……	　F-Freya-san...
-97505	+	　私のこと嫌いなんですか？」	　Do you hate me?」
+97503	Kentou Kanami	泣き	「うう……	「Uuu...
+97504	+		　ふ、フレイアさん……	　F-Freya-san...
+97505	+		　私のこと嫌いなんですか？」	　Do you hate me?」
 
-97506	Freya Idun	「馬鹿ね、そんなわけないじゃない。	「Silly, of course not.
-97507	+	　尊敬している隊長よ」	　I respect you as captain.」
+97506	Freya Idun	基本	「馬鹿ね、そんなわけないじゃない。	「Silly, of course not.
+97507	+		　尊敬している隊長よ」	　I respect you as captain.」
 
-97508	Kentou Kanami	「ぐすっ……絶対嘘ですよね……	「Sniff... That's definitely a lie...
-97509	+	　特に尊敬の部分……」	　Especially the respect part...」
+97508	Kentou Kanami		「ぐすっ……絶対嘘ですよね……	「Sniff... That's definitely a lie...
+97509	+		　特に尊敬の部分……」	　Especially the respect part...」
 
-97510	Freya Idun	「…………」	「............」
+97510	Freya Idun		「…………」	「............」
 
-97511	Kentou Kanami	「うわーん！　何も答えないー！」	「Uwaaan! You're not answering!」
+97511	Kentou Kanami	混乱	「うわーん！　何も答えないー！」	「Uwaaan! You're not answering!」
 
-97512	Rance	「かなみで遊ぶんじゃない」	「Don't play with Kanami.」
+97512	Rance	基本	「かなみで遊ぶんじゃない」	「Don't play with Kanami.」
 
-97513	Freya Idun	「ふぅん……	「Hmm...
-97514	+	　それなら、総統ならいいのかしら……？」	　Then is it okay if it's the Supreme Leader...?」
+97513	Freya Idun		「ふぅん……	「Hmm...
+97514	+		　それなら、総統ならいいのかしら……？」	　Then is it okay if it's the Supreme Leader...?」
 
-97515	Freya Idun	「…………」	「............」
+97515	Freya Idun		「…………」	「............」
 
-97516	-	蛇のような目がじっとランスを見ていた。	Snake-like eyes stared fixedly at Rance.
+97516	-		蛇のような目がじっとランスを見ていた。	Snake-like eyes stared fixedly at Rance.
 
-97517	Rance	「――はっ！」	「――Hah!」
+97517	Rance	驚き	「――はっ！」	「――Hah!」
 
-97518	Rance	「ええい、俺に矛先を向けるんじゃない！」	「Hey, don't point that at me!」
+97518	Rance	怒り	「ええい、俺に矛先を向けるんじゃない！」	「Hey, don't point that at me!」
 
-97519	Freya Idun	「そんな怒ることないじゃない」	「No need to get so angry.」
+97519	Freya Idun	基本	「そんな怒ることないじゃない」	「No need to get so angry.」
 
-97520	Dark Heron	「すみません……」	「Sorry...」
+97520	Dark Heron		「すみません……」	「Sorry...」
 
-97521	Rance	「む、君はフレイアの部下の……」	「Hm, you're Freya's subordinate...」
+97521	Rance		「む、君はフレイアの部下の……」	「Hm, you're Freya's subordinate...」
 
-97522	Dark Heron	「頭領は少しこういうところがあって……」	「The boss has this side to her...
+97522	Dark Heron		「頭領は少しこういうところがあって……」	「The boss has this side to her...
 
-97523	Dark Heron	「嗜虐的というか……	　She's a bit sadistic...
-97524	+	　気に入ったものほど苛める癖が……」	　She tends to torment what she likes...」
+97523	Dark Heron		「嗜虐的というか……	　She's a bit sadistic...
+97524	+		　気に入ったものほど苛める癖が……」	　She tends to torment what she likes...」
 
-97525	Rance	「なんと」	「Really now.」
+97525	Rance		「なんと」	「Really now.」
 
-97526	Rance	「お前、俺に惚れたのか？　ん？」	「Hey, did you fall for me? Hm?」
+97526	Rance	エロ顔	「お前、俺に惚れたのか？　ん？」	「Hey, did you fall for me? Hm?」
 
-97527	Freya Idun	「とても尊敬させてもらっているわ」	「I hold you in very high respect.」
+97527	Freya Idun	基本	「とても尊敬させてもらっているわ」	「I hold you in very high respect.」
 
-97528	Rance	「……嘘くさ」	「...Sounds fake.」
+97528	Rance		「……嘘くさ」	「...Sounds fake.」
 
-97529	Freya Idun	「尊敬という言葉が胡散臭いなら、そうね……」	「If 'respect' sounds suspicious, then...
+97529	Freya Idun		「尊敬という言葉が胡散臭いなら、そうね……」	「If 'respect' sounds suspicious, then...
 
-97530	Freya Idun	「とても可愛いと思ってるわよ、	　I think you're very cute,
-97531	?	　とでも言い換えましょうか」	　how about that?」
+97530	Freya Idun		「とても可愛いと思ってるわよ、	　I think you're very cute,
+97531	?		　とでも言い換えましょうか」	　how about that?」
 
-97532	Rance	「……初めて言われたぞ、そんなこと」	「...First time anyone's said that to me.」
+97532	Rance		「……初めて言われたぞ、そんなこと」	「...First time anyone's said that to me.」
 
-97533	Freya Idun	「そう？　それは不思議ねぇ。	「Really? That's strange.
-97534	+	　まあ、なんでもいいんじゃない？　そんなこと」	　Well, it doesn't matter, does it?」
+97533	Freya Idun		「そう？　それは不思議ねぇ。	「Really? That's strange.
+97534	+		　まあ、なんでもいいんじゃない？　そんなこと」	　Well, it doesn't matter, does it?」
 
-97535	-	フレイアはどこまでも飄々としていた。	Freya remained completely aloof.
+97535	-		フレイアはどこまでも飄々としていた。	Freya remained completely aloof.
 
-97536	Rance	「……変な奴め」	「...What a weird woman.」
+97536	Rance		「……変な奴め」	「...What a weird woman.」
 
-97537	Freya Idun	「そう？」	「Is that so?」
+97537	Freya Idun		「そう？」	「Is that so?」

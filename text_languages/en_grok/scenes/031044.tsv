@@ -8,59 +8,59 @@
 * Satella	サテラ	Female
 * Oda Kouhime	香姫	Female
 
-47900	Magic the Gandhi	「……………………」	「........................」
+47900	Magic the Gandhi	目閉じ	「……………………」	「........................」
 
-47901	-	重苦しい空気が、司令部を押し包んでいた。	A heavy atmosphere pressed down on the headquarters.
+47901	-		重苦しい空気が、司令部を押し包んでいた。	A heavy atmosphere pressed down on the headquarters.
 
-47902	Reset Kalar	「おかーさん……」	「Mom...」
+47902	Reset Kalar	真剣	「おかーさん……」	「Mom...」
 
-47903	Pastel Kalar	「……………………」	「........................」
+47903	Pastel Kalar	落ち着き	「……………………」	「........................」
 
-47904	-	パステルは、娘の小さな身体を	Pastel tightly hugged
-47905	+	ぎゅっと抱きかかえる。	her daughter’s small body.
+47904	-		パステルは、娘の小さな身体を	Pastel tightly hugged
+47905	+		ぎゅっと抱きかかえる。	her daughter’s small body.
 
-47906	Kentou Kanami	「…………どう、しようか……」	「...What should we do...?」
+47906	Kentou Kanami	ジト目	「…………どう、しようか……」	「...What should we do...?」
 
-47907	-	魔人に対する最大の戦力である、ランスの不在。	The absence of Rance, their greatest fighting force against Fiends,
-47908	+	それ自体も、充分に危急存亡の時と言えた。	was itself a dire crisis.
+47907	-		魔人に対する最大の戦力である、ランスの不在。	The absence of Rance, their greatest fighting force against Fiends,
+47908	+		それ自体も、充分に危急存亡の時と言えた。	was itself a dire crisis.
 
-47909	-	しかしそれ以上に、救出されたリズナの惨状が、	But even more than that, the horrific state of the rescued Rizna
-47910	+	見た者の脳裏にこびりついて、離れない。	was burned into everyone’s minds and refused to leave.
+47909	-		しかしそれ以上に、救出されたリズナの惨状が、	But even more than that, the horrific state of the rescued Rizna
+47910	+		見た者の脳裏にこびりついて、離れない。	was burned into everyone’s minds and refused to leave.
 
-47911	Magic the Gandhi~	（倒すって……やられたりしないって	（You said you’d defeat her... that you wouldn’t lose...
-47912	+	　言ったじゃない、ランス……馬鹿っ……）	　Rance... you idiot...）
+47911	Magic the Gandhi~	思考	（倒すって……やられたりしないって	（You said you’d defeat her... that you wouldn’t lose...
+47912	+		　言ったじゃない、ランス……馬鹿っ……）	　Rance... you idiot...）
 
-47913	Sill Plain	「………………」	「........................」
+47913	Sill Plain	真剣	「………………」	「........................」
 
-47914	-	だしぬけに、シィルが一人、立ち上がった。	Suddenly, Sill stood up alone.
+47914	-		だしぬけに、シィルが一人、立ち上がった。	Suddenly, Sill stood up alone.
 
-47915	Kentou Kanami	「……シィルちゃん？」	「...Sill-chan?」
+47915	Kentou Kanami	基本	「……シィルちゃん？」	「...Sill-chan?」
 
-47916	Sill Plain	「私……行きます。行かないといけません」	「I... am going. I have to go.」
+47916	Sill Plain	真剣	「私……行きます。行かないといけません」	「I... am going. I have to go.」
 
-47917	Kentou Kanami	「行く、って……」	「Go... where?」
+47917	Kentou Kanami	基本	「行く、って……」	「Go... where?」
 
-47918	Sill Plain	「ランス様を、助けに。	「To save Rance-sama.
-47919	+	　もう、充分にお休みは頂きましたし、	　I’ve rested enough already,
-47920	+	　これ以上、ゆっくりできません」	　I can’t relax any longer.」
+47918	Sill Plain	真剣	「ランス様を、助けに。	「To save Rance-sama.
+47919	+		　もう、充分にお休みは頂きましたし、	　I’ve rested enough already,
+47920	+		　これ以上、ゆっくりできません」	　I can’t relax any longer.」
 
-47921	Kentou Kanami	「あ…………」	「Ah...」
+47921	Kentou Kanami	ジト目	「あ…………」	「Ah...」
 
-47922	Magic the Gandhi	「わ、私も行くわ！　行くに決まってる。	「I-I’m going too! Of course I’m going.
-47923	+	　アイツを助けなきゃ、未来はないもの！	　If we don’t save him, there is no future!
-47924	+	　……ゼスにも、私、にもっ……！」	　For Zeth... and for me...!」
+47922	Magic the Gandhi	孤軍奮闘	「わ、私も行くわ！　行くに決まってる。	「I-I’m going too! Of course I’m going.
+47923	+		　アイツを助けなきゃ、未来はないもの！	　If we don’t save him, there is no future!
+47924	+		　……ゼスにも、私、にもっ……！」	　For Zeth... and for me...!」
 
-47925	-	次いでマジックが、勇んで立ち上がる。	Magic stood up energetically.
-47926	+	他の面々も、つられるように腰を上げていく。	The others followed, standing up one after another.
+47925	-		次いでマジックが、勇んで立ち上がる。	Magic stood up energetically.
+47926	+		他の面々も、つられるように腰を上げていく。	The others followed, standing up one after another.
 
-47927	Crook Mofus	「はい。もちろん、行きますよ」	「Yes. Of course I’m going.」
+47927	Crook Mofus	基本	「はい。もちろん、行きますよ」	「Yes. Of course I’m going.」
 
-47928	Satella	「まったく……手間の掛かる奴だ。	「Honestly... What a troublesome guy.
-47929	+	　しょうがないからサテラが助けてやる」	　Can’t be helped, Satella will save him.」
+47928	Satella	魔人顔	「まったく……手間の掛かる奴だ。	「Honestly... What a troublesome guy.
+47929	+		　しょうがないからサテラが助けてやる」	　Can’t be helped, Satella will save him.」
 
-47930	Kentou Kanami	「わっ、私も！　私も行く！」	「M-Me too! I’m going too!」
+47930	Kentou Kanami	うがー	「わっ、私も！　私も行く！」	「M-Me too! I’m going too!」
 
-47931	Oda Kouhime	「はい。兄様を……みんなで、必ず助けましょう」	「Yes. Let’s all save big brother together.」
+47931	Oda Kouhime	基本	「はい。兄様を……みんなで、必ず助けましょう」	「Yes. Let’s all save big brother together.」
 
-47932	Sill Plain	「あ、っ……！　ありがとう……	「Ah...! Thank you...
-47933	+	　ありがとうございます、みなさん……」	　Thank you everyone...」
+47932	Sill Plain	嬉し泣き	「あ、っ……！　ありがとう……	「Ah...! Thank you...
+47933	+		　ありがとうございます、みなさん……」	　Thank you everyone...」

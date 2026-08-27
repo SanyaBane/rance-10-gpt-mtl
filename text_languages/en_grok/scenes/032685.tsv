@@ -5,188 +5,188 @@
 * Sill Plain	シィル	Female
 * Satella	サテラ	Female
 
-169010	Tilde Sharp	「ふう、ようやく一段落ですわね……」	「Fuu, it's finally settled for now...」
+169010	Tilde Sharp	基本	「ふう、ようやく一段落ですわね……」	「Fuu, it's finally settled for now...」
 
-169011	-	チルディがテントに入ってきた。	Tilde entered the tent.
+169011	-		チルディがテントに入ってきた。	Tilde entered the tent.
 
-169012	Rance	「なんだ、疲れてるな」	「What's wrong, you look tired.」
+169012	Rance	真剣	「なんだ、疲れてるな」	「What's wrong, you look tired.」
 
-169013	Tilde Sharp	「ええ……	「Yes...
-169014	+	　今の今まで絵本を読んで	　I was reading a picture book to Julia-senpai
-169015	+	　ジュリア先輩を寝かしつけてたところですの……」	　and just put her to sleep...」
+169013	Tilde Sharp	基本	「ええ……	「Yes...
+169014	+		　今の今まで絵本を読んで	　I was reading a picture book to Julia-senpai
+169015	+		　ジュリア先輩を寝かしつけてたところですの……」	　and just put her to sleep...」
 
-169016	Rance	「親衛隊副将のやる仕事じゃないな……」	「That's not the job of a Vice Captain of the Royal Guard...」
+169016	Rance	だる顔	「親衛隊副将のやる仕事じゃないな……」	「That's not the job of a Vice Captain of the Royal Guard...」
 
-169017	Tilde Sharp	「同感ですわ……」	「I agree...」
+169017	Tilde Sharp	基本	「同感ですわ……」	「I agree...」
 
-169018	-	チルディは疲れ切った笑みを浮かべた。	Tilde showed a completely exhausted smile.
+169018	-		チルディは疲れ切った笑みを浮かべた。	Tilde showed a completely exhausted smile.
 
-169019	Tilde Sharp	「さて、リッチは二日以内には着きそうですわね。	「Well then, it looks like we'll reach Rich within two days.
-169020	+	　ランスさま、向こうに着いたら	　Rance-sama, once we arrive
-169021	+	　どうされるおつもりですの？」	　what do you plan to do?」
+169019	Tilde Sharp	ニコリ	「さて、リッチは二日以内には着きそうですわね。	「Well then, it looks like we'll reach Rich within two days.
+169020	+		　ランスさま、向こうに着いたら	　Rance-sama, once we arrive
+169021	+		　どうされるおつもりですの？」	　what do you plan to do?」
 
-169022	Rance	「うむ、今その会議をしていたのだ」	「Yeah, we were just having that meeting.」
+169022	Rance	基本	「うむ、今その会議をしていたのだ」	「Yeah, we were just having that meeting.」
 
-169023	Rance	「かなみ、次のガールズショーはいつ行われる？」	「Kanami, when is the next Girls Show?」
+169023	Rance		「かなみ、次のガールズショーはいつ行われる？」	「Kanami, when is the next Girls Show?」
 
-169024	Kentou Kanami	「えーと、魔軍により強制的に開かされてる	「Um, the one the Monster Army forces them to hold
-169025	+	　ガールズショーは月に一度あるわ」	　happens once a month.」
+169024	Kentou Kanami		「えーと、魔軍により強制的に開かされてる	「Um, the one the Monster Army forces them to hold
+169025	+		　ガールズショーは月に一度あるわ」	　happens once a month.」
 
-169026	Kentou Kanami	「今度は5日後の15日に開かれるから、	「This time it's on the 15th, five days from now,
-169027	+	　数日前には問題なく着けそう」	　so we should arrive with plenty of time.」
+169026	Kentou Kanami	微笑み	「今度は5日後の15日に開かれるから、	「This time it's on the 15th, five days from now,
+169027	+		　数日前には問題なく着けそう」	　so we should arrive with plenty of time.」
 
-169028	Rance	「うむ、まずはガールズショーが見たいぞ」	「Yeah, first I want to see the Girls Show.」
+169028	Rance	基本	「うむ、まずはガールズショーが見たいぞ」	「Yeah, first I want to see the Girls Show.」
 
-169029	Rance	「んで、見に来た魔物大将軍を殺すと」	「Then kill the Great Monster General who comes to watch.」
+169029	Rance		「んで、見に来た魔物大将軍を殺すと」	「Then kill the Great Monster General who comes to watch.」
 
-169030	Kentou Kanami	「うーん、ランスの作戦は悪くないんだけど……	「Hmm, your plan isn't bad, but...
-169031	+	　ちょっと無理みたいなの」	　it seems a bit impossible.」
+169030	Kentou Kanami		「うーん、ランスの作戦は悪くないんだけど……	「Hmm, your plan isn't bad, but...
+169031	+		　ちょっと無理みたいなの」	　it seems a bit impossible.」
 
-169032	Rance	「なに？」	「What?」
+169032	Rance		「なに？」	「What?」
 
-169033	Kentou Kanami	「今は魔物の為に開催されてるから、	「Right now it's held for the monsters,
-169034	+	　観客として入れるのは魔物だけ。	　only monsters are allowed as audience.
-169035	+	　中には入れないわ……」	　We can't get inside...」
+169033	Kentou Kanami		「今は魔物の為に開催されてるから、	「Right now it's held for the monsters,
+169034	+		　観客として入れるのは魔物だけ。	　only monsters are allowed as audience.
+169035	+		　中には入れないわ……」	　We can't get inside...」
 
-169036	Kentou Kanami	「人間はそうね……	「Humans... well...
-169037	+	　舞台に上がる女性と調教師だけかな」	　Only the women performing on stage and their trainers.」
+169036	Kentou Kanami		「人間はそうね……	「Humans... well...
+169037	+		　舞台に上がる女性と調教師だけかな」	　Only the women performing on stage and their trainers.」
 
-169038	Tilde Sharp~	（はて？	（Hmm?
-169039	+	　調教師って、なにかしら？）	　Trainers... what could that mean?）
+169038	Tilde Sharp~		（はて？	（Hmm?
+169039	+		　調教師って、なにかしら？）	　Trainers... what could that mean?）
 
-169040	Rance	「おお、なら楽勝じゃないか」	「Oh, then it's easy.」
+169040	Rance		「おお、なら楽勝じゃないか」	「Oh, then it's easy.」
 
-169041	Rance	「俺様が調教師として参加すればいい」	「I can just participate as a trainer.」
+169041	Rance		「俺様が調教師として参加すればいい」	「I can just participate as a trainer.」
 
-169042	Sill Plain	「ええっ、大丈夫ですか！？」	「Ehh, is that okay!?」
+169042	Sill Plain	慌て	「ええっ、大丈夫ですか！？」	「Ehh, is that okay!?」
 
-169043	Rance	「ふふん、それが一番確実なんだ」	「Heh, that's the surest way.」
+169043	Rance	基本	「ふふん、それが一番確実なんだ」	「Heh, that's the surest way.」
 
-169044	Rance	「確か大将軍ヨシフだか言うのは、	「I heard that General Joseph or whatever
-169045	+	　ショーで優勝した女の子を自分の屋敷に呼んで	　calls the winning girl from the show to his mansion
-169046	+	　個別ショーなんぞさせてると聞いたぞ」	　and makes her do a private show.」
+169044	Rance		「確か大将軍ヨシフだか言うのは、	「I heard that General Joseph or whatever
+169045	+		　ショーで優勝した女の子を自分の屋敷に呼んで	　calls the winning girl from the show to his mansion
+169046	+		　個別ショーなんぞさせてると聞いたぞ」	　and makes her do a private show.」
 
-169047	Rance	「ならば、当然調教師も中に入れる筈」	「In that case, the trainer should naturally be allowed inside too.」
+169047	Rance		「ならば、当然調教師も中に入れる筈」	「In that case, the trainer should naturally be allowed inside too.」
 
-169048	Rance	「くくく、たやすい、たやすいぞ……	「Hehehe, so easy, so easy...
-169049	+	　俺様天才だな」	　I'm a genius.」
+169048	Rance	エロ顔	「くくく、たやすい、たやすいぞ……	「Hehehe, so easy, so easy...
+169049	+		　俺様天才だな」	　I'm a genius.」
 
-169050	Rance	「まずは調教師として参加して	「First participate as a trainer
-169051	+	　バシーッと大会で優勝！」	　and win the whole damn thing!」
+169050	Rance	怒り	「まずは調教師として参加して	「First participate as a trainer
+169051	+		　バシーッと大会で優勝！」	　and win the whole damn thing!」
 
-169052	Rance	「ヨシフの屋敷に呼ばれたら、	「Once we're called to Joseph's mansion,
-169053	+	　鼻の下が伸びた大将軍を	　we'll slaughter that horny General
-169054	+	　すぱーっとブッ殺す！」	　in one clean strike!」
+169052	Rance		「ヨシフの屋敷に呼ばれたら、	「Once we're called to Joseph's mansion,
+169053	+		　鼻の下が伸びた大将軍を	　we'll slaughter that horny General
+169054	+		　すぱーっとブッ殺す！」	　in one clean strike!」
 
-169055	Rance	「がははは！　これで一件落着だ！」	「Gahahaha! Case closed!」
+169055	Rance	笑顔	「がははは！　これで一件落着だ！」	「Gahahaha! Case closed!」
 
-169056	Satella	「それ、女はどうするんだ？」	「What about the woman then?」
+169056	Satella	基本	「それ、女はどうするんだ？」	「What about the woman then?」
 
-169057	Sill Plain	「あっ、そういえば……	「Ah, now that you mention it...
-169058	+	　調教師だけじゃ参加は出来ないですね」	　You can't participate with just a trainer.」
+169057	Sill Plain	考え中	「あっ、そういえば……	「Ah, now that you mention it...
+169058	+		　調教師だけじゃ参加は出来ないですね」	　You can't participate with just a trainer.」
 
-169059	Kentou Kanami	「リア様に相談すれば	「If we ask Lady Lia
-169060	+	　そういうのが得意な女性を	　she could probably prepare a skilled woman
-169061	+	　用意して下さるでしょうけど……」	　for this...」
+169059	Kentou Kanami	基本	「リア様に相談すれば	「If we ask Lady Lia
+169060	+		　そういうのが得意な女性を	　she could probably prepare a skilled woman
+169061	+		　用意して下さるでしょうけど……」	　for this...」
 
-169062	Rance	「いや、今から呼ぶと時間がかかる。	「No, calling someone now would take too much time.
-169063	+	　俺達の中から女を出せばいいのだ」	　We'll just use one of our own girls.」
+169062	Rance		「いや、今から呼ぶと時間がかかる。	「No, calling someone now would take too much time.
+169063	+		　俺達の中から女を出せばいいのだ」	　We'll just use one of our own girls.」
 
-169064	Sill Plain	「ええっ！」	「Ehh!」
+169064	Sill Plain	慌て	「ええっ！」	「Ehh!」
 
-169065	Satella	「ふーん、誰を出すんだ？」	「Hmm, who are you sending?」
+169065	Satella	基本	「ふーん、誰を出すんだ？」	「Hmm, who are you sending?」
 
-169066	Rance	「サテラ、出てみるか？」	「Satella, want to give it a try?」
+169066	Rance		「サテラ、出てみるか？」	「Satella, want to give it a try?」
 
-169067	Satella	「なっ、き、貴様、サテラを侮辱する気か！」	「Wha- Y-You bastard, are you trying to insult Satella!」
+169067	Satella	ツンデレ	「なっ、き、貴様、サテラを侮辱する気か！」	「Wha- Y-You bastard, are you trying to insult Satella!」
 
-169068	Rance	「がははは、冗談だ。	「Gahahaha, just kidding.
-169069	+	　出す奴はもう決めてる」	　I've already decided who.」
+169068	Rance	基本	「がははは、冗談だ。	「Gahahaha, just kidding.
+169069	+		　出す奴はもう決めてる」	　I've already decided who.」
 
-169070	Sill Plain	「そ、それって……びくびく……」	「D-Does that mean... *tremble*...」
+169070	Sill Plain	恥	「そ、それって……びくびく……」	「D-Does that mean... *tremble*...」
 
-169071	Rance	「それは……お前だー！」	「It's... youー!」
+169071	Rance	基本	「それは……お前だー！」	「It's... youー!」
 
-169072	-	ランスはビシーッとチルディを指さした。	Rance pointed straight at Tilde.
+169072	-		ランスはビシーッとチルディを指さした。	Rance pointed straight at Tilde.
 
-169073	Tilde Sharp	「へ、わたくし？」	「Eh, me?」
+169073	Tilde Sharp		「へ、わたくし？」	「Eh, me?」
 
-169074	Rance	「うむ、チルディならそういう大会に出ても	「Yeah, if it's you Tilde, you won't lose to anyone
-169075	+	　ちっとも他の連中に引けを取らないぞ」	　in a contest like that.」
+169074	Rance		「うむ、チルディならそういう大会に出ても	「Yeah, if it's you Tilde, you won't lose to anyone
+169075	+		　ちっとも他の連中に引けを取らないぞ」	　in a contest like that.」
 
-169076	Rance~	（なんたって、ヘルマンにいる間、	（After all, while we were in Helman,
-169077	+	　俺様がねちねちとエロ調教したんだ。	　I thoroughly trained her body with lewd lessons.
-169078	+	　もう穴奴隷として一級品の筈）	　She should already be top-class fuck meat.）
+169076	Rance~	エロ顔	（なんたって、ヘルマンにいる間、	（After all, while we were in Helman,
+169077	+		　俺様がねちねちとエロ調教したんだ。	　I thoroughly trained her body with lewd lessons.
+169078	+		　もう穴奴隷として一級品の筈）	　She should already be top-class fuck meat.）
 
-169079	Sill Plain	「で、でもそんな大会に出すなんて……」	「B-But sending her to that kind of show...」
+169079	Sill Plain	慌て	「で、でもそんな大会に出すなんて……」	「B-But sending her to that kind of show...」
 
-169080	Kentou Kanami	「そ、そうよ。チルディが可哀想だわ。	「Y-Yeah. Poor Tilde.
-169081	+	　あんな大会、女の子が出るようなものじゃ……」	　That kind of show isn't for proper girls...」
+169080	Kentou Kanami	基本	「そ、そうよ。チルディが可哀想だわ。	「Y-Yeah. Poor Tilde.
+169081	+		　あんな大会、女の子が出るようなものじゃ……」	　That kind of show isn't for proper girls...」
 
-169082	Tilde Sharp	「あのー、一つよろしいかしら……」	「Um, may I ask one thing...」
+169082	Tilde Sharp		「あのー、一つよろしいかしら……」	「Um, may I ask one thing...」
 
-169083	Tilde Sharp	「ガールズショーって……	「The Girls Show is...
-169084	+	　完璧で美しい淑女を決める大会ですわよね？	　a contest to decide the perfect beautiful lady, right?
-169085	+	　何故大会の参加自体に反対してますの？」	　Why are you all against me entering?」
+169083	Tilde Sharp		「ガールズショーって……	「The Girls Show is...
+169084	+		　完璧で美しい淑女を決める大会ですわよね？	　a contest to decide the perfect beautiful lady, right?
+169085	+		　何故大会の参加自体に反対してますの？」	　Why are you all against me entering?」
 
-169086	Sill Plain	「……へ？」	「...Eh?」
+169086	Sill Plain	ぽか〜ん	「……へ？」	「...Eh?」
 
-169087	Kentou Kanami~	（あ、そういえばガールズショーの説明のとき、	（Ah, now that I think about it, she wasn't there
-169088	+	　いなかった気が……）	　when we explained the Girls Show...）
+169087	Kentou Kanami~	ジト目	（あ、そういえばガールズショーの説明のとき、	（Ah, now that I think about it, she wasn't there
+169088	+		　いなかった気が……）	　when we explained the Girls Show...）
 
-169089	Tilde Sharp	「まあ、確かに危険なことに違いありませんが……」	「Well, it is certainly dangerous, but...」
+169089	Tilde Sharp	基本	「まあ、確かに危険なことに違いありませんが……」	「Well, it is certainly dangerous, but...」
 
-169090	Sill Plain	「あ、いえ、そうではなく……」	「Ah, no, that's not what I meant...」
+169090	Sill Plain	慌て	「あ、いえ、そうではなく……」	「Ah, no, that's not what I meant...」
 
-169091	Rance	「その通りだ、チルディ。	「Exactly, Tilde.
-169092	+	　俺達から出場させるならお前しかいない」	　If we're sending someone from our group, it has to be you.」
+169091	Rance	基本	「その通りだ、チルディ。	「Exactly, Tilde.
+169092	+		　俺達から出場させるならお前しかいない」	　If we're sending someone from our group, it has to be you.」
 
-169093	Sill Plain	「え、ランス様！？」	「Eh, Rance-sama!?」
+169093	Sill Plain		「え、ランス様！？」	「Eh, Rance-sama!?」
 
-169094	Rance~	（いい、黙ってろ。	（Good, stay quiet.
-169095	+	　面白そうだから秘密にする）	　This looks fun so keep it a secret.）
+169094	Rance~		（いい、黙ってろ。	（Good, stay quiet.
+169095	+		　面白そうだから秘密にする）	　This looks fun so keep it a secret.）
 
-169096	Tilde Sharp	「……………………」	「........................」
+169096	Tilde Sharp		「……………………」	「........................」
 
-169097	-	疑惑的な目をランスに向けるチルディ。	Tilde looked at Rance with suspicious eyes.
+169097	-		疑惑的な目をランスに向けるチルディ。	Tilde looked at Rance with suspicious eyes.
 
-169098	Tilde Sharp	「……………………」	「........................」
+169098	Tilde Sharp	ニコリ	「……………………」	「........................」
 
-169099	-	その表情が次第にニンマリとした	Her expression gradually turned into a broad grin.
-169100	+	笑顔に変わった。	smiling face.
+169099	-		その表情が次第にニンマリとした	Her expression gradually turned into a broad grin.
+169100	+		笑顔に変わった。	smiling face.
 
-169101	Tilde Sharp	「おほほほ、そう、そうですのー、	「Ohohoho, yes, that's right~,
-169102	+	　ランスさまがわたくしをそんな目でー」	　Rance-sama is looking at me with those eyes~」
+169101	Tilde Sharp	ですわー	「おほほほ、そう、そうですのー、	「Ohohoho, yes, that's right~,
+169102	+		　ランスさまがわたくしをそんな目でー」	　Rance-sama is looking at me with those eyes~」
 
-169103	Tilde Sharp	「ふーん、へーーー……」	「Hmm, heeeh...」
+169103	Tilde Sharp	ニコリ	「ふーん、へーーー……」	「Hmm, heeeh...」
 
-169104	Rance	「なんだよ？」	「What is it?」
+169104	Rance	基本	「なんだよ？」	「What is it?」
 
-169105	Tilde Sharp	「…………」	「............」
+169105	Tilde Sharp	ニコリ	「…………」	「............」
 
-169106	Tilde Sharp	「ふーーーーーん」	「Hmmmmmm~」
+169106	Tilde Sharp	ですわー	「ふーーーーーん」	「Hmmmmmm~」
 
-169107	Rance	「だから、なんだよ」	「So what is it already?」
+169107	Rance	基本	「だから、なんだよ」	「So what is it already?」
 
-169108	Tilde Sharp	「おほほほほ、	「Ohohohoho,
-169109	+	　べーーつにー、ですわー」	　it's nooothing~」
+169108	Tilde Sharp	ですわー	「おほほほほ、	「Ohohohoho,
+169109	+		　べーーつにー、ですわー」	　it's nooothing~」
 
-169110	Rance~	（めちゃくちゃご機嫌だ……）	（She's in an extremely good mood...）
+169110	Rance~	基本	（めちゃくちゃご機嫌だ……）	（She's in an extremely good mood...）
 
-169111	Tilde Sharp	「分かりましたわ！」	「Understood!」
+169111	Tilde Sharp	ニコリ	「分かりましたわ！」	「Understood!」
 
-169112	-	チルディが薄い胸をえへんと張った。	Tilde puffed out her modest chest proudly.
+169112	-		チルディが薄い胸をえへんと張った。	Tilde puffed out her modest chest proudly.
 
-169113	Tilde Sharp	「その大会、わたくしが出ますわ！」	「I'll enter that contest!」
+169113	Tilde Sharp		「その大会、わたくしが出ますわ！」	「I'll enter that contest!」
 
-169114	Rance	「おう、よく言った、チルディ！」	「Yeah, well said, Tilde!」
+169114	Rance	基本	「おう、よく言った、チルディ！」	「Yeah, well said, Tilde!」
 
-169115	Rance	「がはははー、出るなら当然優勝だぞ！」	「Gahahaha- If you're entering, of course you'll win!」
+169115	Rance	笑顔	「がはははー、出るなら当然優勝だぞ！」	「Gahahaha- If you're entering, of course you'll win!」
 
-169116	Tilde Sharp	「おほほほー、わたくしに任せて下さいまし！」	「Ohohoho- Leave it to me!」
+169116	Tilde Sharp	ですわー	「おほほほー、わたくしに任せて下さいまし！」	「Ohohoho- Leave it to me!」
 
-169117	Kentou Kanami	「あ、あーあー……」	「Ah, uhh...」
+169117	Kentou Kanami	ジト目	「あ、あーあー……」	「Ah, uhh...」
 
-169118	-	大喜びしているチルディが不憫で、	Seeing Tilde so happy was pitiful,
-169119	+	結局誰も真実を打ち明けられないまま、	and in the end no one could tell her the truth,
-169120	+	その日の会議は終わった。	so the meeting ended like that.
+169118	-		大喜びしているチルディが不憫で、	Seeing Tilde so happy was pitiful,
+169119	+		結局誰も真実を打ち明けられないまま、	and in the end no one could tell her the truth,
+169120	+		その日の会議は終わった。	so the meeting ended like that.

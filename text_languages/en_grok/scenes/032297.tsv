@@ -9,232 +9,232 @@
 * Monster Captain	汎用魔物隊長	Male
 * Satella	サテラ	Female
 
-140034	-	次の日――	The next day――
+140034	-		次の日――	The next day――
 
-140035	Urza Pranaice	「それではこれより、	「Now then, we will begin
-140036	+	　魔人ホーネット奪還作戦について話し合います」	　discussions on the Fiend Hornet Rescue Operation.」
+140035	Urza Pranaice	基本	「それではこれより、	「Now then, we will begin
+140036	+		　魔人ホーネット奪還作戦について話し合います」	　discussions on the Fiend Hornet Rescue Operation.」
 
-140037	-	総統司令部では、ランスの命令により	In the Supreme Leader's Headquarters, a strategy meeting
-140038	+	作戦会議が行われていた。	was being held on Rance's orders.
+140037	-		総統司令部では、ランスの命令により	In the Supreme Leader's Headquarters, a strategy meeting
+140038	+		作戦会議が行われていた。	was being held on Rance's orders.
 
-140039	Urza Pranaice	「まず、魔人ホーネットが魔王城にいる。	「First, Fiend Hornet is inside the Demon King Castle.
-140040	+	　これは確実なようです」	　This appears to be certain.」
+140039	Urza Pranaice		「まず、魔人ホーネットが魔王城にいる。	「First, Fiend Hornet is inside the Demon King Castle.
+140040	+		　これは確実なようです」	　This appears to be certain.」
 
-140041	Urza Pranaice	「と言っても私達の情報源はそう多くない。	「That said, we don't have many information sources.
-140042	+	　魔物界の現状含め、	　Including the current state of the Monster Realm,
-140043	+	　シルキィさんに聞いた話ですが」	　this is based on what we heard from Silky.」
+140041	Urza Pranaice		「と言っても私達の情報源はそう多くない。	「That said, we don't have many information sources.
+140042	+		　魔物界の現状含め、	　Including the current state of the Monster Realm,
+140043	+		　シルキィさんに聞いた話ですが」	　this is based on what we heard from Silky.」
 
-140044	Rance	「間違いないんだろうな？」	「It's reliable, right?」
+140044	Rance		「間違いないんだろうな？」	「It's reliable, right?」
 
-140045	Silky Littleraisin	「特に場所を動かす必要もない。	「There's no particular need to move her location.
-140046	+	　間違いないと思う」	　I believe it's accurate.」
+140045	Silky Littleraisin	非武装	「特に場所を動かす必要もない。	「There's no particular need to move her location.
+140046	+		　間違いないと思う」	　I believe it's accurate.」
 
-140047	Urza Pranaice	「と言っても私達の情報源はそう多くない。	「That said, we don't have many information sources.
-140048	+	　魔物界の現状含め、	　Including the current state of the Monster Realm,
-140049	+	　ハウゼルさんに聞いた話ですが」	　this is based on what we heard from Hawzel.」
+140047	Urza Pranaice	基本	「と言っても私達の情報源はそう多くない。	「That said, we don't have many information sources.
+140048	+		　魔物界の現状含め、	　Including the current state of the Monster Realm,
+140049	+		　ハウゼルさんに聞いた話ですが」	　this is based on what we heard from Hawzel.」
 
-140050	Rance	「間違いないんだろうな？」	「It's reliable, right?」
+140050	Rance		「間違いないんだろうな？」	「It's reliable, right?」
 
-140051	La Hawzel	「はい、火炎から得られる情報は確かです。	「Yes, the information obtained from Flame is reliable.
-140052	+	　間違いないかと」	　I believe it is certain.」
+140051	La Hawzel	武装なし	「はい、火炎から得られる情報は確かです。	「Yes, the information obtained from Flame is reliable.
+140052	+		　間違いないかと」	　I believe it is certain.」
 
-140053	Rance	「ふん、なら次は魔王城周りの説明を聞かせろ」	「Hmph, then next give me an explanation of the area around the Demon King Castle.」
+140053	Rance	基本	「ふん、なら次は魔王城周りの説明を聞かせろ」	「Hmph, then next give me an explanation of the area around the Demon King Castle.」
 
-140054	Arlcoate Marius	「は、はい、では地図をご覧下さい」	「Y-Yes, please look at the map.」
+140054	Arlcoate Marius		「は、はい、では地図をご覧下さい」	「Y-Yes, please look at the map.」
 
-140055	Arlcoate Marius	「こちらが魔王城周りの地図となります」	「This is the map of the area surrounding the Demon King Castle.」
+140055	Arlcoate Marius		「こちらが魔王城周りの地図となります」	「This is the map of the area surrounding the Demon King Castle.」
 
-140056	Arlcoate Marius	「ご覧のように、もしも魔物界に向かうなら	「As you can see, if heading into the Monster Realm
-140057	+	　ヘルマン側は万里の砦から入るのが最も安全かと思います」	　I believe entering from the Helman side through the Ten Thousand Li Fortress is the safest.」
+140056	Arlcoate Marius		「ご覧のように、もしも魔物界に向かうなら	「As you can see, if heading into the Monster Realm
+140057	+		　ヘルマン側は万里の砦から入るのが最も安全かと思います」	　I believe entering from the Helman side through the Ten Thousand Li Fortress is the safest.」
 
-140058	Sill Plain	「あのぉ……魔物が沢山いるように見えるのですが……」	「Umm...... It looks like there are a lot of monsters......」
+140058	Sill Plain		「あのぉ……魔物が沢山いるように見えるのですが……」	「Umm...... It looks like there are a lot of monsters......」
 
-140059	Arlcoate Marius	「残念ながら、これで最も安全なんです……」	「Unfortunately, this is the safest route......」
+140059	Arlcoate Marius		「残念ながら、これで最も安全なんです……」	「Unfortunately, this is the safest route......」
 
-140060	Sill Plain	「あう……」	「Auu......」
+140060	Sill Plain		「あう……」	「Auu......」
 
-140061	-	シィルが言葉を失う。	Sill was at a loss for words.
-140062	+	そして、それはその場にいる全員がそうだった。	And everyone present felt the same way.
+140061	-		シィルが言葉を失う。	Sill was at a loss for words.
+140062	+		そして、それはその場にいる全員がそうだった。	And everyone present felt the same way.
 
-140063	Arlcoate Marius	「魔王城付近にいる魔物の数は50万ほど。	「There are about 500,000 monsters around the Demon King Castle.
-140064	+	　それら全てが城の防衛についています」	　All of them are assigned to defend the castle.」
+140063	Arlcoate Marius		「魔王城付近にいる魔物の数は50万ほど。	「There are about 500,000 monsters around the Demon King Castle.
+140064	+		　それら全てが城の防衛についています」	　All of them are assigned to defend the castle.」
 
-140065	Cream Ganoblade	「今回の作戦、絶望的ですね」	「This operation seems hopeless.」
+140065	Cream Ganoblade		「今回の作戦、絶望的ですね」	「This operation seems hopeless.」
 
-140066	-	皆の思いを代弁するように、	As if speaking for everyone's thoughts,
-140067	+	クリームが素っ気なくまとめた。	Cream summed it up bluntly.
+140066	-		皆の思いを代弁するように、	As if speaking for everyone's thoughts,
+140067	+		クリームが素っ気なくまとめた。	Cream summed it up bluntly.
 
-140068	Rance	「そんな簡単に諦めるんじゃない」	「Don't give up so easily.」
+140068	Rance	真剣	「そんな簡単に諦めるんじゃない」	「Don't give up so easily.」
 
-140069	Cream Ganoblade	「……こちらの勢力圏内での戦いならいざ知らず、	「......If it were a battle inside our own territory it would be one thing,
-140070	+	　完全に敵の勢力圏内での作戦になります」	　but this is a full operation deep inside enemy territory.」
+140069	Cream Ganoblade	基本	「……こちらの勢力圏内での戦いならいざ知らず、	「......If it were a battle inside our own territory it would be one thing,
+140070	+		　完全に敵の勢力圏内での作戦になります」	　but this is a full operation deep inside enemy territory.」
 
-140071	Cream Ganoblade	「不可能です」	「It's impossible.」
+140071	Cream Ganoblade		「不可能です」	「It's impossible.」
 
-140072	Rance	「不可能だ、で諦めるならこんにゃく屋はいらん。	「If we give up just because it's impossible then we don't need a strategist.
-140073	+	　なにか策はないのか？」	　Don't you have any ideas?」
+140072	Rance	真剣	「不可能だ、で諦めるならこんにゃく屋はいらん。	「If we give up just because it's impossible then we don't need a strategist.
+140073	+		　なにか策はないのか？」	　Don't you have any ideas?」
 
-140074	Cream Ganoblade	「……私は正直、今回の作戦自体に	「......To be honest, I am opposed to this operation itself,
-140075	+	　反対の立場ですが……」	　but......」
+140074	Cream Ganoblade	ため息	「……私は正直、今回の作戦自体に	「......To be honest, I am opposed to this operation itself,
+140075	+		　反対の立場ですが……」	　but......」
 
-140076	Cream Ganoblade	「……仕方ありませんね」	「......It can't be helped.」
+140076	Cream Ganoblade		「……仕方ありませんね」	「......It can't be helped.」
 
-140077	-	クリームは一つ、大きな溜め息をつくと、	Cream let out a big sigh,
-140078	+	部屋の扉に顔を向けた。	then turned toward the room door.
+140077	-		クリームは一つ、大きな溜め息をつくと、	Cream let out a big sigh,
+140078	+		部屋の扉に顔を向けた。	then turned toward the room door.
 
-140079	Cream Ganoblade	「ラカン殿、どうぞお入り下さい」	「Lord Rakan, please come in.」
+140079	Cream Ganoblade	基本	「ラカン殿、どうぞお入り下さい」	「Lord Rakan, please come in.」
 
-140080	Monster Captain	「……失礼いたします」	「......Excuse me.」
+140080	Monster Captain		「……失礼いたします」	「......Excuse me.」
 
-140081	Rance	「なっ、魔物隊長！？」	「What, a monster captain!?」
+140081	Rance		「なっ、魔物隊長！？」	「What, a monster captain!?」
 
-140082	Satella	「ら、ラカンじゃないか！	「R-Rakan!?
-140083	+	　お前、生きていたのか！？」	　You're alive!?」
+140082	Satella		「ら、ラカンじゃないか！	「R-Rakan!?
+140083	+		　お前、生きていたのか！？」	　You're alive!?」
 
-140084	Rance	「あ？　なに？　知り合いか？」	「Ah? What? You know him?」
+140084	Rance		「あ？　なに？　知り合いか？」	「Ah? What? You know him?」
 
-140085	Satella	「……彼はホーネット派の一員、	「......He is a member of the Hornet faction,
-140086	+	　魔物隊長のラカン」	　the monster captain Rakan.」
+140085	Satella		「……彼はホーネット派の一員、	「......He is a member of the Hornet faction,
+140086	+		　魔物隊長のラカン」	　the monster captain Rakan.」
 
-140087	Satella	「今となっては数の少ない、	「Now one of the few remaining,
-140088	+	　ホーネット様に忠誠を誓う魔物の一人だ」	　monsters who swore loyalty to Lady Hornet.」
+140087	Satella		「今となっては数の少ない、	「Now one of the few remaining,
+140088	+		　ホーネット様に忠誠を誓う魔物の一人だ」	　monsters who swore loyalty to Lady Hornet.」
 
-140089	Satella	「しかし……	「However......
-140090	+	　戦争の決着がつくと共に、	　I thought he had fallen on the battlefield
-140091	+	　戦場に散ったと思っていたが……」	　once the war was decided......」
+140089	Satella		「しかし……	「However......
+140090	+		　戦争の決着がつくと共に、	　I thought he had fallen on the battlefield
+140091	+		　戦場に散ったと思っていたが……」	　once the war was decided......」
 
-140092	Monster Captain	「……ふふ、死に時を見失っておりました」	「......Fufu, I lost track of the right time to die.」
+140092	Monster Captain		「……ふふ、死に時を見失っておりました」	「......Fufu, I lost track of the right time to die.」
 
-140093	Monster Captain	「魔物界の北部にはまだ私のように	「In the northern part of the Monster Realm there are still about fifty thousand
-140094	+	　くすぶる火を胸に宿す、	　like me who carry smoldering flames in their hearts,
-140095	+	　ホーネット派の残党が五万ほど」	　remnants of the Hornet faction.」
+140093	Monster Captain		「魔物界の北部にはまだ私のように	「In the northern part of the Monster Realm there are still about fifty thousand
+140094	+		　くすぶる火を胸に宿す、	　like me who carry smoldering flames in their hearts,
+140095	+		　ホーネット派の残党が五万ほど」	　remnants of the Hornet faction.」
 
-140096	Satella	「五万……	「Fifty thousand......
-140097	+	　そ、そうか、まだそんなに生きていたか！」	　I-I see, so that many are still alive!」
+140096	Satella	笑顔	「五万……	「Fifty thousand......
+140097	+		　そ、そうか、まだそんなに生きていたか！」	　I-I see, so that many are still alive!」
 
-140098	Monster Captain	「一方、ケイブリスも残党狩りに	「On the other hand, Kayblis is also frantically hunting down remnants, but......
-140099	+	　血道を上げておりますが……	　we have our pride too.」
-140100	+	　私達にも意地があります」	「We endured so that we could move when the time came to rescue Lady Hornet.」
+140098	Monster Captain	基本	「一方、ケイブリスも残党狩りに	「On the other hand, Kayblis is also frantically hunting down remnants, but......
+140099	+		　血道を上げておりますが……	　we have our pride too.」
+140100	+		　私達にも意地があります」	「We endured so that we could move when the time came to rescue Lady Hornet.」
 
-140101	Monster Captain	「いつか、ホーネット様を奪還する際に、	
-140102	+	　動けるようにと耐え続けておりました」	
+140101	Monster Captain		「いつか、ホーネット様を奪還する際に、	
+140102	+		　動けるようにと耐え続けておりました」	
 
-140103	Cream Ganoblade	「今回、彼が人類軍に	「This time, he contacted the human army.」
-140104	+	　コンタクトを取ってきてくれました」	
+140103	Cream Ganoblade		「今回、彼が人類軍に	「This time, he contacted the human army.」
+140104	+		　コンタクトを取ってきてくれました」	
 
-140105	Monster Captain	「サテラ様がこちらにいることを知り、	「Upon learning that Lady Satella was here,
-140106	+	　馳せ参じました」	　I rushed over.」
+140105	Monster Captain		「サテラ様がこちらにいることを知り、	「Upon learning that Lady Satella was here,
+140106	+		　馳せ参じました」	　I rushed over.」
 
-140107	Monster Captain	「ホーネット派の方々が立ち上がるのなら、	「If the Hornet faction people are rising up,
-140108	+	　私達にも協力させて下さい！」	　please let us help too!」
+140107	Monster Captain		「ホーネット派の方々が立ち上がるのなら、	「If the Hornet faction people are rising up,
+140108	+		　私達にも協力させて下さい！」	　please let us help too!」
 
-140109	Monster Captain	「あの戦いで死ねなかった我らに、	「To us who couldn't die in that battle,
-140110	+	　どうか死に場所を！」	　please give us a place to die!」
+140109	Monster Captain		「あの戦いで死ねなかった我らに、	「To us who couldn't die in that battle,
+140110	+		　どうか死に場所を！」	　please give us a place to die!」
 
-140111	Satella	「し、死ぬなんて言うな……」	「D-Don't talk about dying......」
+140111	Satella	不安	「し、死ぬなんて言うな……」	「D-Don't talk about dying......」
 
-140112	Satella	「だが、ラカン達が味方してくれれば百人力だ。	「But if Rakan and his men join us it's worth a hundred men.
-140113	+	　これで作戦の立てようも……」	　Now we can actually plan the operation......」
+140112	Satella	笑顔	「だが、ラカン達が味方してくれれば百人力だ。	「But if Rakan and his men join us it's worth a hundred men.
+140113	+		　これで作戦の立てようも……」	　Now we can actually plan the operation......」
 
-140114	Silky Littleraisin	「サテラ……」	「Satella......」
+140114	Silky Littleraisin	非武装	「サテラ……」	「Satella......」
 
-140115	-	シルキィが毅然とした面持ちで首を振る。	Silky shook her head with a resolute expression.
+140115	-		シルキィが毅然とした面持ちで首を振る。	Silky shook her head with a resolute expression.
 
-140116	Silky Littleraisin	「お前も分かっているだろう。	「You understand too.
-140117	+	　相手は50万からなる魔軍の防衛だ。	　The opponent is a Monster Army defense force of 500,000.
-140118	+	　ラカンの部隊が増えただけでは……」	　Just adding Rakan's troops won't be enough......」
+140116	Silky Littleraisin		「お前も分かっているだろう。	「You understand too.
+140117	+		　相手は50万からなる魔軍の防衛だ。	　The opponent is a Monster Army defense force of 500,000.
+140118	+		　ラカンの部隊が増えただけでは……」	　Just adding Rakan's troops won't be enough......」
 
-140119	La Hawzel	「サテラ……」	「Satella......」
+140119	La Hawzel	武装なし	「サテラ……」	「Satella......」
 
-140120	-	ハウゼルが沈痛な面持ちで首を振る。	Hawzel shook her head with a pained expression.
+140120	-		ハウゼルが沈痛な面持ちで首を振る。	Hawzel shook her head with a pained expression.
 
-140121	La Hawzel	「残念だけど……	「Unfortunately......
-140122	+	　5万増えても50万の防備が相手では……」	　even with 50,000 more, facing 500,000 defenders......」
+140121	La Hawzel		「残念だけど……	「Unfortunately......
+140122	+		　5万増えても50万の防備が相手では……」	　even with 50,000 more, facing 500,000 defenders......」
 
-140123	Monster Captain	「…………」	「............」
+140123	Monster Captain	基本	「…………」	「............」
 
-140124	Monster Captain	「ふ、その通りです」	「Indeed, that is correct.」
+140124	Monster Captain		「ふ、その通りです」	「Indeed, that is correct.」
 
-140125	Monster Captain	「ですがその50万、	「However, there is a way
-140126	+	　力を弱める手立てはあります」	　to weaken those 500,000.」
+140125	Monster Captain		「ですがその50万、	「However, there is a way
+140126	+		　力を弱める手立てはあります」	　to weaken those 500,000.」
 
-140127	Satella	「ほ、本当か！？」	「R-Really!?」
+140127	Satella		「ほ、本当か！？」	「R-Really!?」
 
-140128	Monster Captain	「彼らが恐れているのは我々、	「What they fear is us,
-140129	+	　ホーネット派の残党」	　the remnants of the Hornet faction.」
+140128	Monster Captain		「彼らが恐れているのは我々、	「What they fear is us,
+140129	+		　ホーネット派の残党」	　the remnants of the Hornet faction.」
 
-140130	Monster Captain	「人類がホーネット様の奪還に出向くとは	「They probably haven't even considered
-140131	+	　まだ考えてもいない筈」	　that humanity would come to rescue Lady Hornet.」
+140130	Monster Captain		「人類がホーネット様の奪還に出向くとは	「They probably haven't even considered
+140131	+		　まだ考えてもいない筈」	　that humanity would come to rescue Lady Hornet.」
 
-140132	Monster Captain	「故に」	「Therefore」
+140132	Monster Captain		「故に」	「Therefore」
 
-140133	Monster Captain	「私達が全滅すれば良いのです」	「If we are completely annihilated, that will do.」
+140133	Monster Captain		「私達が全滅すれば良いのです」	「If we are completely annihilated, that will do.」
 
-140134	Satella	「な……」	「Wha......」
+140134	Satella		「な……」	「Wha......」
 
-140135	Monster Captain	「魔王城を守る防衛部隊に決起いたします。	「We will rise up against the defense forces guarding the Demon King Castle.
-140136	+	　5万に対するは50万。	　50,000 against 500,000.
-140137	+	　多勢に無勢、まず全滅することでしょう」	　Overwhelmingly outnumbered, we will most likely be annihilated.」
+140135	Monster Captain		「魔王城を守る防衛部隊に決起いたします。	「We will rise up against the defense forces guarding the Demon King Castle.
+140136	+		　5万に対するは50万。	　50,000 against 500,000.
+140137	+		　多勢に無勢、まず全滅することでしょう」	　Overwhelmingly outnumbered, we will most likely be annihilated.」
 
-140138	Monster Captain	「そして、我らホーネット派の残党が	「And once the remnants of the Hornet faction
-140139	+	　全滅したら奴らは安心することでしょう」	　are wiped out, they will let their guard down.」
+140138	Monster Captain		「そして、我らホーネット派の残党が	「And once the remnants of the Hornet faction
+140139	+		　全滅したら奴らは安心することでしょう」	　are wiped out, they will let their guard down.」
 
-140140	Monster Captain	「そこに勝機が」	「That is where our chance lies.」
+140140	Monster Captain		「そこに勝機が」	「That is where our chance lies.」
 
-140141	Monster Captain	「三日ほどの間を置いてから、	「After about three days,
-140142	+	　皆さん少数精鋭の部隊で魔王城に侵入し、	　you elite few will infiltrate the Demon King Castle
-140143	+	　ホーネット様をお救い下さい」	　and rescue Lady Hornet.」
+140141	Monster Captain		「三日ほどの間を置いてから、	「After about three days,
+140142	+		　皆さん少数精鋭の部隊で魔王城に侵入し、	　you elite few will infiltrate the Demon King Castle
+140143	+		　ホーネット様をお救い下さい」	　and rescue Lady Hornet.」
 
-140144	Monster Captain	「これが私の提案するホーネット様奪還作戦です」	「This is the Hornet Rescue Operation I propose.」
+140144	Monster Captain		「これが私の提案するホーネット様奪還作戦です」	「This is the Hornet Rescue Operation I propose.」
 
-140145	-	ラカン達は死ぬ気である。	Rakan and his men are prepared to die.
-140146	+	そして、死ぬことに迷いもない。	And they have no hesitation about dying.
+140145	-		ラカン達は死ぬ気である。	Rakan and his men are prepared to die.
+140146	+		そして、死ぬことに迷いもない。	And they have no hesitation about dying.
 
-140147	-	何があろうと揺るがぬであろう	Their resolve is unshakable no matter what.
-140148	+	その決意に、皆言葉を失う。	Everyone was speechless at that determination.
+140147	-		何があろうと揺るがぬであろう	Their resolve is unshakable no matter what.
+140148	+		その決意に、皆言葉を失う。	Everyone was speechless at that determination.
 
-140149	Cream Ganoblade	「……だから、私は嫌だと言ったんです」	「......That's why I said I didn't like it.」
+140149	Cream Ganoblade		「……だから、私は嫌だと言ったんです」	「......That's why I said I didn't like it.」
 
-140150	Monster Captain	「クリーム殿、申し訳ありませんな。	「Lady Cream, I am sorry.
-140151	+	　見苦しいところをお見せして」	　For showing you such an unsightly sight.」
+140150	Monster Captain		「クリーム殿、申し訳ありませんな。	「Lady Cream, I am sorry.
+140151	+		　見苦しいところをお見せして」	　For showing you such an unsightly sight.」
 
-140152	Cream Ganoblade	「自分が死ぬことで後に繋げようなんて、	「Sacrificing yourselves to pave the way for others
-140153	+	　……傲慢です」	　......is arrogant.」
+140152	Cream Ganoblade		「自分が死ぬことで後に繋げようなんて、	「Sacrificing yourselves to pave the way for others
+140153	+		　……傲慢です」	　......is arrogant.」
 
-140154	Monster Captain	「いやはや……	「Good grief......
-140155	+	　耳が痛いばかりです」	　Those words sting.」
+140154	Monster Captain		「いやはや……	「Good grief......
+140155	+		　耳が痛いばかりです」	　Those words sting.」
 
-140156	Satella	「お前ら……捨て石になるつもりか……」	「You guys...... plan to be sacrificial pawns......」
+140156	Satella		「お前ら……捨て石になるつもりか……」	「You guys...... plan to be sacrificial pawns......」
 
-140157	Monster Captain	「…………」	「............」
+140157	Monster Captain		「…………」	「............」
 
-140158	-	――ラカンは答えない。	――Rakan does not answer.
+140158	-		――ラカンは答えない。	――Rakan does not answer.
 
-140159	-	死を賭して行わなければ、	Because he believes this operation
-140160	+	今回の作戦は成功しないと考えているからだ。	will not succeed without staking their lives.
+140159	-		死を賭して行わなければ、	Because he believes this operation
+140160	+		今回の作戦は成功しないと考えているからだ。	will not succeed without staking their lives.
 
-140161	Satella	「そんな……	「Such a......
-140162	+	　そんな作戦……」	　Such an operation......」
+140161	Satella		「そんな……	「Such a......
+140162	+		　そんな作戦……」	　Such an operation......」
 
-140163	Monster Captain	「ご安心下さい、サテラ様」	「Please rest assured, Lady Satella.」
+140163	Monster Captain		「ご安心下さい、サテラ様」	「Please rest assured, Lady Satella.」
 
-140164	Monster Captain	「我々もホーネット様の	「We too will fight seriously
-140165	+	　奪還を目指して本気で戦うのです」	　to rescue Lady Hornet.」
+140164	Monster Captain		「我々もホーネット様の	「We too will fight seriously
+140165	+		　奪還を目指して本気で戦うのです」	　to rescue Lady Hornet.」
 
-140166	Monster Captain	「上手くいけば、皆様の手を煩わせることなく	「If things go well, we may accomplish it
-140167	+	　我々だけで成し遂げるかも知れませんよ」	　without troubling any of you.」
+140166	Monster Captain		「上手くいけば、皆様の手を煩わせることなく	「If things go well, we may accomplish it
+140167	+		　我々だけで成し遂げるかも知れませんよ」	　without troubling any of you.」
 
-140168	Satella	「お前……」	「You......」
+140168	Satella		「お前……」	「You......」
 
-140169	-	それが可能ならばここに彼は来ていないだろう。	If that were possible he wouldn't have come here.
-140170	+	その言葉が頭をよぎり、しかしサテラは	That thought crossed her mind, but Satella
-140171	+	何も言えずに顔をしかめた。	could only grimace without saying anything.
+140169	-		それが可能ならばここに彼は来ていないだろう。	If that were possible he wouldn't have come here.
+140170	+		その言葉が頭をよぎり、しかしサテラは	That thought crossed her mind, but Satella
+140171	+		何も言えずに顔をしかめた。	could only grimace without saying anything.
 
-140172	Monster Captain	「如何でしょう、人類軍総統閣下。	「What do you think, Supreme Leader of the Human Army.
-140173	+	　ご采配をお聞かせ下さい」	　Please give us your orders.」
+140172	Monster Captain		「如何でしょう、人類軍総統閣下。	「What do you think, Supreme Leader of the Human Army.
+140173	+		　ご采配をお聞かせ下さい」	　Please give us your orders.」
 
-140174	Rance	「ん、俺か」	「Hm, me?」
+140174	Rance	真剣	「ん、俺か」	「Hm, me?」
 
-140175	Satella	「ら、ランス……」	「R-Rance......」
+140175	Satella	基本	「ら、ランス……」	「R-Rance......」
 
-140176	Rance	「ふぅむ」	「Hmmm.」
+140176	Rance	真剣	「ふぅむ」	「Hmmm.」

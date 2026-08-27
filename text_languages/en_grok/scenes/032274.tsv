@@ -4,91 +4,91 @@
 * Kesselring	ケッセルリンク	Male→Female
 * Satella	サテラ	Female
 
-135561	-	ランス達が霧の濃い地帯を進む。	Rance's group advanced through a thick foggy area.
+135561	-		ランス達が霧の濃い地帯を進む。	Rance's group advanced through a thick foggy area.
 
-135562	Rance	「ふう……霧がいい感じに姿を隠してくれてるな。	「Phew... The fog is hiding us nicely.
-135563	+	　この辺は敵も少なそうだし、	　There seem to be few enemies around here,
-135564	+	　しばらくは楽が出来そうだ……」	　so we can take it easy for a while...」
+135562	Rance	基本	「ふう……霧がいい感じに姿を隠してくれてるな。	「Phew... The fog is hiding us nicely.
+135563	+		　この辺は敵も少なそうだし、	　There seem to be few enemies around here,
+135564	+		　しばらくは楽が出来そうだ……」	　so we can take it easy for a while...」
 
-135565	Hornet	「いいえ……」	「No...」
+135565	Hornet		「いいえ……」	「No...」
 
-135566	Rance	「ん？」	「Nn?」
+135566	Rance		「ん？」	「Nn?」
 
-135567	Hornet	「いくらなんでも……敵の数が少なすぎる……	「No matter what... the number of enemies is too low...
-135568	+	　罠の可能性もあるので慎重に進みましょう」	　There's a possibility of a trap, so let's proceed carefully.」
+135567	Hornet		「いくらなんでも……敵の数が少なすぎる……	「No matter what... the number of enemies is too low...
+135568	+		　罠の可能性もあるので慎重に進みましょう」	　There's a possibility of a trap, so let's proceed carefully.」
 
-135569	Kesselring	「ほう……罠を避けるのではなく、	「Oh... Instead of avoiding traps,
-135570	+	　仮にあったとしても踏み越える覚悟でしたか」	　you're prepared to step over them even if they exist.」
+135569	Kesselring		「ほう……罠を避けるのではなく、	「Oh... Instead of avoiding traps,
+135570	+		　仮にあったとしても踏み越える覚悟でしたか」	　you're prepared to step over them even if they exist.」
 
-135571	Kesselring	「しばらく会わない間に変わりましたな」	「You've changed since we last met.」
+135571	Kesselring		「しばらく会わない間に変わりましたな」	「You've changed since we last met.」
 
-135572	Rance	「な、なんだ！？」	「W-what!?」
+135572	Rance		「な、なんだ！？」	「W-what!?」
 
-135573	Hornet	「この声は……」	「This voice...」
+135573	Hornet	睨み	「この声は……」	「This voice...」
 
-135574	-	辺りに漂っていた霧が一点に集中し、	The fog drifting around concentrated at one point,
-135575	+	人の形を取る。	taking human shape.
+135574	-		辺りに漂っていた霧が一点に集中し、	The fog drifting around concentrated at one point,
+135575	+		人の形を取る。	taking human shape.
 
-135576	Kesselring	「…………」	「............」
+135576	Kesselring	基本	「…………」	「............」
 
-135577	Hornet	「け、ケッセルリンク……」	「K-Kesselring...」
+135577	Hornet		「け、ケッセルリンク……」	「K-Kesselring...」
 
-135578	Rance	「げっ、霧が人間になった！？」	「Ugh, the fog turned into a human!?」
+135578	Rance		「げっ、霧が人間になった！？」	「Ugh, the fog turned into a human!?」
 
-135579	Hornet	「彼はケッセルリンク、ケイブリス派のNO.2。	「He is Kesselring, No.2 of the Kayblis faction.
-135580	+	　魔人四天王の一角です」	　One of the Four Dread Fiends.」
+135579	Hornet		「彼はケッセルリンク、ケイブリス派のNO.2。	「He is Kesselring, No.2 of the Kayblis faction.
+135580	+		　魔人四天王の一角です」	　One of the Four Dread Fiends.」
 
-135581	Satella	「正直……強いぞ……」	「Honestly... he's strong...」
+135581	Satella		「正直……強いぞ……」	「Honestly... he's strong...」
 
-135582	Rance	「サテラがそう言うほどか。	「If Satella says so.
-135583	+	　面倒そうだな」	　Sounds troublesome.」
+135582	Rance		「サテラがそう言うほどか。	「If Satella says so.
+135583	+		　面倒そうだな」	　Sounds troublesome.」
 
-135584	Kesselring	「…………」	「............」
+135584	Kesselring		「…………」	「............」
 
-135585	-	ケッセルリンクの表情には、	On Kesselring's face
-135586	+	敵意は浮かんでいない。	there was no hostility.
-135587	+	あるのは憐憫の情だけである。	Only pity was present.
+135585	-		ケッセルリンクの表情には、	On Kesselring's face
+135586	+		敵意は浮かんでいない。	there was no hostility.
+135587	+		あるのは憐憫の情だけである。	Only pity was present.
 
-135588	Kesselring	「もうおやめなさい」	「Please stop already.」
+135588	Kesselring		「もうおやめなさい」	「Please stop already.」
 
-135589	Hornet	「…………」	「............」
+135589	Hornet		「…………」	「............」
 
-135590	Kesselring	「最早、ただの悪あがきでしかない。	「It's nothing more than pointless struggling now.
-135591	+	　これ以上は無為に傷を増やすだけ」	　Continuing will only add meaningless wounds.」
+135590	Kesselring		「最早、ただの悪あがきでしかない。	「It's nothing more than pointless struggling now.
+135591	+		　これ以上は無為に傷を増やすだけ」	　Continuing will only add meaningless wounds.」
 
-135592	Kesselring	「――と、言っても、	「--That said,
-135593	+	　言葉ではもう止まらないでしょうな」	　words probably won't stop you anymore.」
+135592	Kesselring	目閉じ	「――と、言っても、	「--That said,
+135593	+		　言葉ではもう止まらないでしょうな」	　words probably won't stop you anymore.」
 
-135594	Satella	「ふん、そんなこと分かってやってるんだ。	「Hmph, we know that.
-135595	+	　今更止まれるものか」	　We can't stop now.」
+135594	Satella	怒り	「ふん、そんなこと分かってやってるんだ。	「Hmph, we know that.
+135595	+		　今更止まれるものか」	　We can't stop now.」
 
-135596	Satella	「大体、最後に勝つのはサテラ達だ！」	「In the end, we will win!」
+135596	Satella		「大体、最後に勝つのはサテラ達だ！」	「In the end, we will win!」
 
-135597	Kesselring	「ふっ……」	「Fuh...」
+135597	Kesselring	目閉じ	「ふっ……」	「Fuh...」
 
-135598	Kesselring	「ケイブリスが言うには、	「According to Kayblis,
-135599	+	　貴方達を討伐したものには	　whoever defeats you
-135600	+	　褒美が出るとのことですが……」	　will receive a reward...」
+135598	Kesselring		「ケイブリスが言うには、	「According to Kayblis,
+135599	+		　貴方達を討伐したものには	　whoever defeats you
+135600	+		　褒美が出るとのことですが……」	　will receive a reward...」
 
-135601	Satella	「……ほう、欲すればなんでも手に入る	「...Heh, the one who can get anything he desires
-135602	+	　ケッセルリンクが何を願うんだ？」	　what does Kesselring wish for?」
+135601	Satella	基本	「……ほう、欲すればなんでも手に入る	「...Heh, the one who can get anything he desires
+135602	+		　ケッセルリンクが何を願うんだ？」	　what does Kesselring wish for?」
 
-135603	-	サテラの挑発的な笑みも、ものともせず、	Unfazed by Satella's provocative smile,
-135604	+	ケッセルリンクは答える。	Kesselring answered.
+135603	-		サテラの挑発的な笑みも、ものともせず、	Unfazed by Satella's provocative smile,
+135604	+		ケッセルリンクは答える。	Kesselring answered.
 
-135605	Kesselring	「なにも」	「Nothing.」
+135605	Kesselring	目閉じ	「なにも」	「Nothing.」
 
-135606	Kesselring	「私はただ、貴方達が	「I simply did not want to see you
-135607	+	　無惨に引き裂かれるのを良しとしなかった。	　miserably torn apart.
-135608	+	　それだけ」	　That's all.」
+135606	Kesselring		「私はただ、貴方達が	「I simply did not want to see you
+135607	+		　無惨に引き裂かれるのを良しとしなかった。	　miserably torn apart.
+135608	+		　それだけ」	　That's all.」
 
-135609	Kesselring	「特にホーネット様、美しい貴方はせめて、	「Especially you, Hornet-sama, so beautiful,
-135610	+	　その高潔なあり方に相応しい、	　you at least deserve
-135611	+	　静かな死で生を締めくくられるべきだ」	　a quiet death befitting your noble nature.」
+135609	Kesselring	基本	「特にホーネット様、美しい貴方はせめて、	「Especially you, Hornet-sama, so beautiful,
+135610	+		　その高潔なあり方に相応しい、	　you at least deserve
+135611	+		　静かな死で生を締めくくられるべきだ」	　a quiet death befitting your noble nature.」
 
-135612	Kesselring	「幕引の役目、不肖ながら、	「Though unworthy, I shall take the role
-135613	+	　このケッセルリンクが務めましょう」	　of drawing the curtain.」
+135612	Kesselring	睨み	「幕引の役目、不肖ながら、	「Though unworthy, I shall take the role
+135613	+		　このケッセルリンクが務めましょう」	　of drawing the curtain.」
 
-135614	Rance	「ムカムカ、なんだこのキザ男は……」	「So irritating, what the hell is this pretentious guy...」
+135614	Rance	イライラ	「ムカムカ、なんだこのキザ男は……」	「So irritating, what the hell is this pretentious guy...」
 
-135615	Rance	「嫌いなタイプだ、死ねーーーーッ！」	「I hate this type, dieeeee!」
+135615	Rance	怒り	「嫌いなタイプだ、死ねーーーーッ！」	「I hate this type, dieeeee!」

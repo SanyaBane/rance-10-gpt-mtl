@@ -3,76 +3,76 @@
 * Noir	ノワール	Female
 * Rance	ランス	Male
 
-126919	Sill Plain	「ふ〜んふふ〜♪」	「Hum hum~♪」
+126919	Sill Plain	基本	「ふ〜んふふ〜♪」	「Hum hum~♪」
 
-126920	-	シィルが台所で料理をしていた。	Sill was cooking in the kitchen.
+126920	-		シィルが台所で料理をしていた。	Sill was cooking in the kitchen.
 
-126921	Noir	「…………じぃ」	「............Stare.」
+126921	Noir		「…………じぃ」	「............Stare.」
 
-126922	-	そこにこっそりとノワールが現れた。	Noir quietly appeared there.
+126922	-		そこにこっそりとノワールが現れた。	Noir quietly appeared there.
 
-126923	Noir	「…………」	「............」
+126923	Noir		「…………」	「............」
 
-126924	Sill Plain	「あら？」	「Oh?」
+126924	Sill Plain		「あら？」	「Oh?」
 
-126925	Noir	「……っ」	「......!」
+126925	Noir	ツンデレ	「……っ」	「......!」
 
-126926	Sill Plain	「えっと……」	「Um......」
+126926	Sill Plain	基本	「えっと……」	「Um......」
 
-126927	Sill Plain	「良かったらつまみ食いしますか？」	「Would you like a taste?」
+126927	Sill Plain		「良かったらつまみ食いしますか？」	「Would you like a taste?」
 
-126928	-	シィルが筑前煮を差しだす。	Sill offered some Chikuzenni.
+126928	-		シィルが筑前煮を差しだす。	Sill offered some Chikuzenni.
 
-126929	Noir	「……い、いいのか？」	「......I-Is it okay?」
+126929	Noir		「……い、いいのか？」	「......I-Is it okay?」
 
-126930	Sill Plain	「はい、良ければどうぞ」	「Yes, help yourself.」
+126930	Sill Plain		「はい、良ければどうぞ」	「Yes, help yourself.」
 
-126931	-	シィルが箸でつまんでいるニンジンが	The carrot Sill held with chopsticks
-126932	+	ホカホカと湯気を立てていた。	was steaming hot.
+126931	-		シィルが箸でつまんでいるニンジンが	The carrot Sill held with chopsticks
+126932	+		ホカホカと湯気を立てていた。	was steaming hot.
 
-126933	Noir	「…………」	「............」
+126933	Noir		「…………」	「............」
 
-126934	Noir	「……ごくり」	「......Gulp.」
+126934	Noir	呆れた	「……ごくり」	「......Gulp.」
 
-126935	Noir	「…………」	「............」
+126935	Noir		「…………」	「............」
 
-126936	-	チラチラと何度かシィルの顔と	Noir glanced back and forth between Sill's face
-126937	+	ニンジンを見比べるノワール。	and the carrot several times.
+126936	-		チラチラと何度かシィルの顔と	Noir glanced back and forth between Sill's face
+126937	+		ニンジンを見比べるノワール。	and the carrot several times.
 
-126938	Noir	「…………」	「............」
+126938	Noir		「…………」	「............」
 
-126939	-	そして、シィルの手から直接、	Then she ate the carrot
-126940	+	ぱくっとニンジンを食べた。	straight from Sill's hand.
+126939	-		そして、シィルの手から直接、	Then she ate the carrot
+126940	+		ぱくっとニンジンを食べた。	straight from Sill's hand.
 
-126941	Sill Plain	「どうですか？　お味は……」	「How is it? The taste......」
+126941	Sill Plain	考え中	「どうですか？　お味は……」	「How is it? The taste......」
 
-126942	Noir	「……こくこくこくこく」	「......Munch munch munch.」
+126942	Noir	呆れた	「……こくこくこくこく」	「......Munch munch munch.」
 
-126943	Sill Plain	「良かった」	「I'm glad.」
+126943	Sill Plain	笑顔	「良かった」	「I'm glad.」
 
-126944	Noir	「…………」	「............」
+126944	Noir	呆れた	「…………」	「............」
 
-126945	Rance	「お、なんだ、お前もつまみ食いに来たのか？」	「Oh, what, you came for a snack too?」
+126945	Rance	基本	「お、なんだ、お前もつまみ食いに来たのか？」	「Oh, what, you came for a snack too?」
 
-126946	Noir	「ん、ランスか……もぐもぐ」	「Hm, Rance...... munch munch.」
+126946	Noir		「ん、ランスか……もぐもぐ」	「Hm, Rance...... munch munch.」
 
-126947	Rance	「口にものを入れながら喋るんじゃありません」	「Don't talk with food in your mouth.」
+126947	Rance		「口にものを入れながら喋るんじゃありません」	「Don't talk with food in your mouth.」
 
-126948	Noir	「シィルはいい奴……」	「Sill is a good person......」
+126948	Noir	呆れた	「シィルはいい奴……」	「Sill is a good person......」
 
-126949	Noir	「ランスも見習え」	「Rance should learn from her.」
+126949	Noir		「ランスも見習え」	「Rance should learn from her.」
 
-126950	Rance	「なんで俺が奴隷を見習わなければならんのだ」	「Why do I have to learn from a slave?」
+126950	Rance	だる顔	「なんで俺が奴隷を見習わなければならんのだ」	「Why do I have to learn from a slave?」
 
-126951	Rance	「あ、お前、さては食い物につられたな。	「Ah, so you got lured by food.
-126952	+	　やーい、食いしん坊めー」	　Yaaay, you glutton~」
+126951	Rance	笑顔	「あ、お前、さては食い物につられたな。	「Ah, so you got lured by food.
+126952	+		　やーい、食いしん坊めー」	　Yaaay, you glutton~」
 
-126953	Noir	「ノワールを馬鹿にするな、この馬鹿。	「Don't make fun of Noir, you idiot.
-126954	+	　口デカ、変態、粗チン」	　Big mouth, pervert, tiny dick.」
+126953	Noir	基本	「ノワールを馬鹿にするな、この馬鹿。	「Don't make fun of Noir, you idiot.
+126954	+		　口デカ、変態、粗チン」	　Big mouth, pervert, tiny dick.」
 
-126955	Rance	「ぐっ、口の悪い……	「Guh, such a foul mouth......
-126956	+	　お前こそシィルを見習え」	　You should learn from Sill.」
+126955	Rance	だる顔	「ぐっ、口の悪い……	「Guh, such a foul mouth......
+126956	+		　お前こそシィルを見習え」	　You should learn from Sill.」
 
-126957	Noir	「うるさい、お前が見習え」	「Shut up, you learn from her.」
+126957	Noir	基本	「うるさい、お前が見習え」	「Shut up, you learn from her.」
 
-126958	Sill Plain	「あ、あはは……」	「Ah, ahaha......」
+126958	Sill Plain	苦笑	「あ、あはは……」	「Ah, ahaha......」

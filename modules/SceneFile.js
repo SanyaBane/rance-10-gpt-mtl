@@ -1,16 +1,32 @@
 /**
- * The scene file format: four columns, one row per m[] line.
+ * The scene file format: five columns, one row per m[] line.
  *
  *     # 30324	サーナキア／キャライベントＡ	cg
  *     * Sanakia Drelshkaf	サーナキア	Female
  *
- *     10	Sanakia Drelshkaf	「ううむ……	「Hmm...
- *     11	+	　読んでおかないと……」	　I need to read it...」
+ *     10	Sanakia Drelshkaf	基本	「ううむ……	「Hmm...
+ *     11	+		　読んでおかないと……」	　I need to read it...」
  *
- * The m[] number, the speaker, the Japanese, the English. "+" in the speaker
- * column is the row above; "-" is narration; "?" is a message with no speaker
- * that is not narration either; a trailing "~" is a thought. A blank line
- * starts a new speech bubble.
+ * The m[] number, the speaker, the portrait's state, the Japanese, the
+ * English. "+" in the speaker column is the row above; "-" is narration; "?"
+ * is a message with no speaker that is not narration either; a trailing "~" is
+ * a thought. A blank line starts a new speech bubble.
+ *
+ * The state is what the portrait is doing while the line is said -- 怒り,
+ * 泣き, ため息, 全裸／笑顔 -- taken from the 立ち絵 the bytecode names and left
+ * in Japanese, because the column beside it is Japanese and whoever reads one
+ * reads the other. It is the one thing the player can see that a line of text
+ * cannot say, and 怒り over a flat sentence is the difference between a
+ * translation that keeps the speaker and one that files a report.
+ *
+ * **It is written only where it changes**, the way "+" is: an empty cell is
+ * the state of the row above, and 基本 is a value like any other, so a
+ * character going back to their default face says so rather than falling
+ * silent. Two thirds of the game's speech rows are 基本 and repeating that on
+ * each of them would bury the 37% that are not. Rows with no portrait at all
+ * -- narration, and a message with no speaker -- carry an empty cell and do
+ * not interrupt the run: the portrait stays on screen while the narrator
+ * talks.
  *
  * A line beginning "> " is not a row. It opens a run of lines the game plays on
  * only one of El's two routes, and closes with "> end":
@@ -71,12 +87,19 @@ export const unescapeCell = (text) => text.replaceAll(/\\(.)/g, (_, char) => cha
  *     rows: {
  *         lineNumber: number,
  *         speaker: string,
+ *         state: string,
  *         japanese: string,
  *         english: string,
  *         startsUtterance: boolean,
  *         route: "male" | "female" | null,
  *     }[],
  * }}
+ *
+ * The state comes back as it is written -- empty on every row that does not
+ * change it -- rather than carried forward, which is what the speaker column
+ * does with "+" and for the same reason: a reader that wants the running value
+ * can keep it, and one that only wants to know where something changed, which
+ * is both of the readers there are, would have to undo the carrying.
  */
 export const parseSceneFile = (text) => {
     let functionId = 0;
@@ -114,14 +137,15 @@ export const parseSceneFile = (text) => {
             continue;
         }
         const cells = line.split("\t");
-        if (cells.length !== 4) {
-            throw new Error(`scene ${functionId}: ${cells.length} columns, not 4, in ${JSON.stringify(line)}`);
+        if (cells.length !== 5) {
+            throw new Error(`scene ${functionId}: ${cells.length} columns, not 5, in ${JSON.stringify(line)}`);
         }
         rows.push({
             lineNumber: Number(cells[0]),
             speaker: cells[1],
-            japanese: unescapeCell(cells[2]),
-            english: unescapeCell(cells[3]),
+            state: unescapeCell(cells[2]),
+            japanese: unescapeCell(cells[3]),
+            english: unescapeCell(cells[4]),
             startsUtterance: blankBefore,
             route,
         });
@@ -151,9 +175,15 @@ export const parseSceneFile = (text) => {
  * back on whichever rows end up being continuations.
  *
  * @param {ReturnType<parseSceneFile>} scene
+ * A speech's state is the first its rows name, and almost always the only one:
+ * the portrait changes inside an utterance in 372 of the game's 166172
+ * speeches. So the state belongs to the speech, which is what the translation
+ * is asked for, and handing it over costs nothing beyond the word itself.
+ *
  * @return {{
  *     lineNumber: number,
  *     speaker: string,
+ *     state: string,
  *     route: "male" | "female" | null,
  *     rows: number[],
  *     japanese: string,
@@ -168,6 +198,7 @@ export const speechesOf = (scene) => {
             speeches.push({
                 lineNumber: row.lineNumber,
                 speaker: row.speaker,
+                state: "",
                 route: row.route ?? null,
                 rows: [],
                 japanese: "",
@@ -175,6 +206,7 @@ export const speechesOf = (scene) => {
             });
         }
         const speech = speeches[speeches.length - 1];
+        speech.state ||= row.state ?? "";
         speech.rows.push(row.lineNumber);
         speech.japanese += row.japanese.replace(/^　/, "");
         speech.english += (speech.english && row.english ? " " : "")
@@ -214,7 +246,8 @@ export const renderSceneFile = (scene, english) => {
             lines.push(`> ${route ?? "end"}`);
         }
         const text = english?.get(row.lineNumber) ?? row.english;
-        lines.push([row.lineNumber, row.speaker, escapeCell(row.japanese), escapeCell(text)].join("\t"));
+        lines.push([row.lineNumber, row.speaker, escapeCell(row.state ?? ""),
+            escapeCell(row.japanese), escapeCell(text)].join("\t"));
     }
     return lines.join("\n") + "\n";
 };

@@ -6,247 +6,247 @@
 * Yuki	ユキ	Female
 * Cola	コーラ	Male
 
-21453	-	――――その日。ランス城――	一一一一That day. Rance Castle一一
+21453	-		――――その日。ランス城――	一一一一That day. Rance Castle一一
 
-21454	La Hawzel	「ふむふむ……ん……うぅん……」	「Hmm, hmm... mm... hmm...」
+21454	La Hawzel	変装	「ふむふむ……ん……うぅん……」	「Hmm, hmm... mm... hmm...」
 
-21455	Flame Scrivener	「ハウゼル様ー。	「Hawzel...
-21456	+	　地べたに座り込んで読むなんて、	It's unbecoming to sit on the floor
-21457	+	　はしたない……」	and read...」
+21455	Flame Scrivener	基本	「ハウゼル様ー。	「Hawzel...
+21456	+		　地べたに座り込んで読むなんて、	It's unbecoming to sit on the floor
+21457	+		　はしたない……」	and read...」
 
-21458	La Hawzel	「あっ、火炎……ごめんなさい。新刊が……	「Ah, Flame... sorry. This new book...
-21459	+	　その、少し読むだけのつもりだったんだけど」	Well, I only intended to read it for a bit.」
+21458	La Hawzel	変装	「あっ、火炎……ごめんなさい。新刊が……	「Ah, Flame... sorry. This new book...
+21459	+		　その、少し読むだけのつもりだったんだけど」	Well, I only intended to read it for a bit.」
 
-21460	Flame Scrivener	「もー。きりを付けたら、	「Honestly. Please return to your room
-21461	+	　お部屋にお戻りくださいねー」	once you've reached a stopping point.」
+21460	Flame Scrivener	基本	「もー。きりを付けたら、	「Honestly. Please return to your room
+21461	+		　お部屋にお戻りくださいねー」	once you've reached a stopping point.」
 
-21462	La Hawzel	「ん……分かってる。ありがと」	「Mm... I know. Thanks.」
+21462	La Hawzel	変装	「ん……分かってる。ありがと」	「Mm... I know. Thanks.」
 
-21463	-	ハウゼルは視線を本に落としたまま返事をして、	Hawzel replied without looking up from her book.
-21464	+	火炎書士は仮面の奥で、	From behind her mask,
-21465	+	少し微笑んでから部屋を出た。	the Flame Scrivener smiled slightly and left the room.
+21463	-		ハウゼルは視線を本に落としたまま返事をして、	Hawzel replied without looking up from her book.
+21464	+		火炎書士は仮面の奥で、	From behind her mask,
+21465	+		少し微笑んでから部屋を出た。	the Flame Scrivener smiled slightly and left the room.
 
-21466	-	…………	............
+21466	-		…………	............
 
-21467	-	……	......
+21467	-		……	......
 
-21468	La Hawzel	「あ、あ、これ、どうなっちゃうんだろ……	「Ah, oh, I wonder what'll happen here...
-21469	+	　待って、それ勘違いなのに……あ……」	Wait, that's a misunderstanding... ah...」
+21468	La Hawzel		「あ、あ、これ、どうなっちゃうんだろ……	「Ah, oh, I wonder what'll happen here...
+21469	+		　待って、それ勘違いなのに……あ……」	Wait, that's a misunderstanding... ah...」
 
-21470	-	　　	 
-21471	+	　＜かつ、こつ……＞	<Clomp, clomp...>
+21470	-		　　	 
+21471	+		　＜かつ、こつ……＞	<Clomp, clomp...>
 
-21472	La Hawzel	「ん……あ、火炎？	「Mm... ah, Flame?
-21473	+	　ごめんなさい、この1Pできりが付くから、	Sorry, I'll be at a good stopping point
-21474	+	　それだけ待っ……」	after this page, so just wait...」
+21472	La Hawzel		「ん……あ、火炎？	「Mm... ah, Flame?
+21473	+		　ごめんなさい、この1Pできりが付くから、	Sorry, I'll be at a good stopping point
+21474	+		　それだけ待っ……」	after this page, so just wait...」
 
-21475	?	「……………………そうか」	「..................I see.」
+21475	?		「……………………そうか」	「..................I see.」
 
-21476	La Hawzel	「…………っ、え……」	「............Eh?」
+21476	La Hawzel		「…………っ、え……」	「............Eh?」
 
-21477	-	冷え冷えとした、気配。	A chilling presence.
-21478	+	いつも慕ってくる使徒ではありえない、	A heavy, oppressive air that couldn't possibly belong
-21479	+	重苦しい、何か。	to the disciples who always adored her.
+21477	-		冷え冷えとした、気配。	A chilling presence.
+21478	+		いつも慕ってくる使徒ではありえない、	A heavy, oppressive air that couldn't possibly belong
+21479	+		重苦しい、何か。	to the disciples who always adored her.
 
-21480	-	そこに、その男は立っていた。	The man stood there.
+21480	-		そこに、その男は立っていた。	The man stood there.
 
-21481	La Hawzel	「あなた、っ……あ、勇者、っ…………！？」	「You... ah, the Hero...?!」
+21481	La Hawzel		「あなた、っ……あ、勇者、っ…………！？」	「You... ah, the Hero...?!」
 
-21482	Arios Theoman	「読まないのか？」	「Aren't you going to read?」
+21482	Arios Theoman	基本	「読まないのか？」	「Aren't you going to read?」
 
-21483	La Hawzel	「――――――ッ！」	「一一一一一一!」
+21483	La Hawzel	変装	「――――――ッ！」	「一一一一一一!」
 
-21484	-	用件など、問うほどの余裕はなかった。	She had no room to spare to even ask his business.
+21484	-		用件など、問うほどの余裕はなかった。	She had no room to spare to even ask his business.
 
-21485	-	とっさに、タワーオブファイヤーを	Instinctively, she pulled out the Tower of Fire
-21486	+	取りだし、突きつける。	and pointed it at him.
+21485	-		とっさに、タワーオブファイヤーを	Instinctively, she pulled out the Tower of Fire
+21486	+		取りだし、突きつける。	and pointed it at him.
 
-21487	Arios Theoman	「――――そうか」	「一一一一I see.」
+21487	Arios Theoman	基本	「――――そうか」	「一一一一I see.」
 
-21488	La Hawzel	「ッ！」	「!」
+21488	La Hawzel		「ッ！」	「!」
 
-21489	-	躊躇なく、紅蓮の炎を噴き上がらせたハウゼルより	Just an instant before Hawzel unhesitatingly unleashed
-21490	+	一瞬早く、アリオスの剣がその噴射口を弾き上げる。	her crimson flames, Arios's sword knocked her wand aside.
+21489	-		躊躇なく、紅蓮の炎を噴き上がらせたハウゼルより	Just an instant before Hawzel unhesitatingly unleashed
+21490	+		一瞬早く、アリオスの剣がその噴射口を弾き上げる。	her crimson flames, Arios's sword knocked her wand aside.
 
-21491	La Hawzel	「くぅっ……！」	「Kugh...!」
+21491	La Hawzel		「くぅっ……！」	「Kugh...!」
 
-21492	-	近すぎる間合いを、飛翔して遠ざけるが、	She flew back to increase the distance, but the
-21493	+	エスクードソードの切っ先が胸元を裂く方が	Escudo Sword was faster, its tip tearing into her
-21494	+	早かった。	chest.
+21492	-		近すぎる間合いを、飛翔して遠ざけるが、	She flew back to increase the distance, but the
+21493	+		エスクードソードの切っ先が胸元を裂く方が	Escudo Sword was faster, its tip tearing into her
+21494	+		早かった。	chest.
 
-21495	La Hawzel	「ぐっ、この男、以前より…………！」	「Gugh, this man is... more than before...!」
+21495	La Hawzel		「ぐっ、この男、以前より…………！」	「Gugh, this man is... more than before...!」
 
-21496	Arios Theoman	「……そうだったな。	「...That's right.
-21497	+	　お前も……以前、仕留め損ねていた」	I failed to finish you... before.」
+21496	Arios Theoman	抜刀	「……そうだったな。	「...That's right.
+21497	+		　お前も……以前、仕留め損ねていた」	I failed to finish you... before.」
 
-21498	Arios Theoman	「僕の――――去ったはずの、過ちか」	「A mistake of mine... that should have been left behind.」
+21498	Arios Theoman		「僕の――――去ったはずの、過ちか」	「A mistake of mine... that should have been left behind.」
 
-21499	La Hawzel	「…………っ……！」	「............!」
+21499	La Hawzel	基本	「…………っ……！」	「............!」
 
-21500	-	上位の魔人もかくやという、	A murderous intent, rivaling even that of a high-ranking Fiend,
-21501	+	相手を押し潰すような殺意が、	enough to crush an opponent,
-21502	+	冷徹なアリオスの身体から噴き上がる。	erupts from Arios's cold body.
+21500	-		上位の魔人もかくやという、	A murderous intent, rivaling even that of a high-ranking Fiend,
+21501	+		相手を押し潰すような殺意が、	enough to crush an opponent,
+21502	+		冷徹なアリオスの身体から噴き上がる。	erupts from Arios's cold body.
 
-21503	Arios Theoman	「人類が生き延びるため……死んでもらう！」	「For humanity to survive... you must die!」
+21503	Arios Theoman	抜刀	「人類が生き延びるため……死んでもらう！」	「For humanity to survive... you must die!」
 
-21504	-	一足飛びに、アリオスが踏み込む。	In a single bound, Arios lunges forward.
-21505	+	その速度は魔人のハウゼルでさえ反応できる	His speed surpassed even what the Fiend Hawzel
-21506	+	速度を凌駕していた。	could react to.
+21504	-		一足飛びに、アリオスが踏み込む。	In a single bound, Arios lunges forward.
+21505	+		その速度は魔人のハウゼルでさえ反応できる	His speed surpassed even what the Fiend Hawzel
+21506	+		速度を凌駕していた。	could react to.
 
-21507	La Hawzel	「く、ううぅっ……！」	「Kh一 uugh...!」
+21507	La Hawzel	基本	「く、ううぅっ……！」	「Kh一 uugh...!」
 
-21508	Flame Scrivener	「うっ、うわあああああああっ！」	「Ugh, waaaaaaaaagh!」
+21508	Flame Scrivener		「うっ、うわあああああああっ！」	「Ugh, waaaaaaaaagh!」
 
-21509	La Hawzel	「えっ…………！？　あ、か、かえ、ん……っ！？」	「Eh...!? Ah, F-Fla... Flame...!?」
+21509	La Hawzel	驚き	「えっ…………！？　あ、か、かえ、ん……っ！？」	「Eh...!? Ah, F-Fla... Flame...!?」
 
-21510	-	眼前に割り込んできた人影が、	The figure that jumped in front of her
-21511	+	エスクードソードに深々と貫かれた。	was pierced deeply by the Escudo Sword.
+21510	-		眼前に割り込んできた人影が、	The figure that jumped in front of her
+21511	+		エスクードソードに深々と貫かれた。	was pierced deeply by the Escudo Sword.
 
-21512	La Hawzel	「う…………そ、っ……そんな……」	「N-no... way...」
+21512	La Hawzel		「う…………そ、っ……そんな……」	「N-no... way...」
 
-21513	-	そんなはずはなかった。	This wasn't supposed to happen.
-21514	+	あの使徒が、本当に恐がりで……	She knew that Apostle was truly a coward...
-21515	+	戦う事も好きではないと、知っていた。	and didn't like fighting at all.
+21513	-		そんなはずはなかった。	This wasn't supposed to happen.
+21514	+		あの使徒が、本当に恐がりで……	She knew that Apostle was truly a coward...
+21515	+		戦う事も好きではないと、知っていた。	and didn't like fighting at all.
 
-21516	-	なのに、自ら刃の前に身を晒すなんて。	And yet, to expose herself to the blade like that.
-21517	+	私を、庇って。そんな、こと――	To protect me... such a thing一
+21516	-		なのに、自ら刃の前に身を晒すなんて。	And yet, to expose herself to the blade like that.
+21517	+		私を、庇って。そんな、こと――	To protect me... such a thing一
 
-21518	Flame Scrivener	「――ハウ、ゼ……さま、っ……にげ、っ……」	「一Lady Hau... zel... please... run...」
+21518	Flame Scrivener	基本	「――ハウ、ゼ……さま、っ……にげ、っ……」	「一Lady Hau... zel... please... run...」
 
-21519	La Hawzel	「っ、あああああああああ！！」	「Aaaaaaaaaaaaah!!」
+21519	La Hawzel	怒り	「っ、あああああああああ！！」	「Aaaaaaaaaaaaah!!」
 
-21520	-	煮えたぎるような情動が、燃える塔を前に突き出す。	With boiling emotions, she thrusts her burning tower forward.
-21521	+	勇者の刃はまだ、ハウゼルの使徒を貫いたまま。	The Hero's blade was still piercing Hawzel's Apostle.
+21520	-		煮えたぎるような情動が、燃える塔を前に突き出す。	With boiling emotions, she thrusts her burning tower forward.
+21521	+		勇者の刃はまだ、ハウゼルの使徒を貫いたまま。	The Hero's blade was still piercing Hawzel's Apostle.
 
-21522	-	ここがランスの――人間の城であることも	Hardly caring that this was Rance's castle一a human castle,
-21523	+	ほとんど意識せず、ハウゼルは躊躇なく、	Hawzel, without hesitation,
-21524	+	最大の火力をそこに注ぎ込んだ。	poured her maximum firepower into that spot.
+21522	-		ここがランスの――人間の城であることも	Hardly caring that this was Rance's castle一a human castle,
+21523	+		ほとんど意識せず、ハウゼルは躊躇なく、	Hawzel, without hesitation,
+21524	+		最大の火力をそこに注ぎ込んだ。	poured her maximum firepower into that spot.
 
-21525	-	爆音。爆炎。	An explosive roar. Bursting flames.
+21525	-		爆音。爆炎。	An explosive roar. Bursting flames.
 
-21526	-	その中を切り裂き。	Slashing through the center of it.
-21527	+	魔人の肉体を、結界ごと切り裂き。	Slashing through the Fiend's flesh, barrier and all.
+21526	-		その中を切り裂き。	Slashing through the center of it.
+21527	+		魔人の肉体を、結界ごと切り裂き。	Slashing through the Fiend's flesh, barrier and all.
 
-21528	Arios Theoman	「弐式……ショウキ」	「Second Form... Shoki.」
+21528	Arios Theoman	抜刀	「弐式……ショウキ」	「Second Form... Shoki.」
 
-21529	La Hawzel	「あ…………ぁ、あ…………っ……	「Ah... a-ah... ugh...
-21530	+	　さいぜ、る……」	Seizel...」
+21529	La Hawzel	基本	「あ…………ぁ、あ…………っ……	「Ah... a-ah... ugh...
+21530	+		　さいぜ、る……」	Seizel...」
 
-21531	-	アリオスは、魔物二体分の血で濡れた剣を、	Arios gave the sword, drenched in the blood of two monsters,
-21532	+	短く振った。	a short flick.
+21531	-		アリオスは、魔物二体分の血で濡れた剣を、	Arios gave the sword, drenched in the blood of two monsters,
+21532	+		短く振った。	a short flick.
 
-21533	La Seizel	「ッ…………！　ハウゼル――――！？」	「...! Hawzel一!?」
+21533	La Seizel		「ッ…………！　ハウゼル――――！？」	「...! Hawzel一!?」
 
-21534	Yuki	「げっ、あいつ…………勇者？」	「Geh, that guy... the Hero?」
+21534	Yuki		「げっ、あいつ…………勇者？」	「Geh, that guy... the Hero?」
 
-21535	Arios Theoman	「――――魔人。まだいたか……」	「一Fiends. There were more of you...」
+21535	Arios Theoman		「――――魔人。まだいたか……」	「一Fiends. There were more of you...」
 
-21536	Cola	「あ。…………あ、あーーー。こいつら、そうか……	「Ah. ...Ah, I see. These ones, huh...
-21537	+	　アリオス、その青いのも片付けた方が良いです」	Arios, you should finish off that blue one too.」
+21536	Cola		「あ。…………あ、あーーー。こいつら、そうか……	「Ah. ...Ah, I see. These ones, huh...
+21537	+		　アリオス、その青いのも片付けた方が良いです」	Arios, you should finish off that blue one too.」
 
-21538	Arios Theoman	「………………」	「......」
+21538	Arios Theoman		「………………」	「......」
 
-21539	-	従者の助言の理由を尋ねることもなく、	Without even asking the reason for his servant's advice,
-21540	+	アリオスはその殺気諸共、サイゼルに殺到する。	Arios rushes toward Seizel, carrying his bloodlust with him.
+21539	-		従者の助言の理由を尋ねることもなく、	Without even asking the reason for his servant's advice,
+21540	+		アリオスはその殺気諸共、サイゼルに殺到する。	Arios rushes toward Seizel, carrying his bloodlust with him.
 
-21541	La Seizel	「っ！　あ、あいつ――――！	「! That- That guy一!
-21542	+	　あいつ、ハウゼルを、ハウゼル…………ッ……！」	He did that to Hawzel... Hawzel...!」
+21541	La Seizel	怒り	「っ！　あ、あいつ――――！	「! That- That guy一!
+21542	+		　あいつ、ハウゼルを、ハウゼル…………ッ……！」	He did that to Hawzel... Hawzel...!」
 
-21543	Yuki	「へいご主人！　ダーーーッシュー！	「Hey Master! Daaaaaaash!
-21544	+	　逃げ場湯治場わんわんレースで大穴ですよ☆」	It's a long shot in the runaway doggy race! ☆」
+21543	Yuki	基本	「へいご主人！　ダーーーッシュー！	「Hey Master! Daaaaaaash!
+21544	+		　逃げ場湯治場わんわんレースで大穴ですよ☆」	It's a long shot in the runaway doggy race! ☆」
 
-21545	La Seizel	「ぶっ！」	「Buh!」
+21545	La Seizel		「ぶっ！」	「Buh!」
 
-21546	-	ユキはサイゼルの足を引っかけて転ばせた。	Yuki tripped Seizel, making her fall.
+21546	-		ユキはサイゼルの足を引っかけて転ばせた。	Yuki tripped Seizel, making her fall.
 
-21547	Arios Theoman	「…………！」	「...!」
+21547	Arios Theoman		「…………！」	「...!」
 
-21548	Yuki	「おいこらてめえ、頭カチ割るぞ！	「Hey you, I'll crack your head open!
-21549	+	　かき氷にしてよーー！　うけけけけ！」	I'll turn you into shaved ice! Ukekekeke!」
+21548	Yuki		「おいこらてめえ、頭カチ割るぞ！	「Hey you, I'll crack your head open!
+21549	+		　かき氷にしてよーー！　うけけけけ！」	I'll turn you into shaved ice! Ukekekeke!」
 
-21550	-	巨大な拳がアリオスの頭に降りかかるが、	A giant fist comes down toward Arios's head,
-21551	+	勇者は剣すら抜かず、片手でそれを捌くと同時に、	but the Hero doesn't even draw his sword, parrying it with one hand while
-21552	+	ユキの胴を蹴り飛ばして、宙に高く舞わせる。	kicking Yuki's torso, sending her flying high into the air.
+21550	-		巨大な拳がアリオスの頭に降りかかるが、	A giant fist comes down toward Arios's head,
+21551	+		勇者は剣すら抜かず、片手でそれを捌くと同時に、	but the Hero doesn't even draw his sword, parrying it with one hand while
+21552	+		ユキの胴を蹴り飛ばして、宙に高く舞わせる。	kicking Yuki's torso, sending her flying high into the air.
 
-21553	Yuki	「おひょ――――」	「Ohyo一」
+21553	Yuki		「おひょ――――」	「Ohyo一」
 
-21554	-	逃げ場を失った中空に刃が一閃され、	A blade flashes through the air where she had no escape,
-21555	+	ユキの胴体は両断された。	bisecting Yuki's torso.
+21554	-		逃げ場を失った中空に刃が一閃され、	A blade flashes through the air where she had no escape,
+21555	+		ユキの胴体は両断された。	bisecting Yuki's torso.
 
-21556	Yuki	「ぐえーーー、やられたーーー」	「Gueee, ya got me一」
+21556	Yuki	首	「ぐえーーー、やられたーーー」	「Gueee, ya got me一」
 
-21557	Yuki~	（……………なーんて。	(...Just kidding.
-21558	+	　ユキちゃんヘッド、コロコロ回って向こうへー）	Yuki-chan's head is rolling away over there一)
+21557	Yuki~		（……………なーんて。	(...Just kidding.
+21558	+		　ユキちゃんヘッド、コロコロ回って向こうへー）	Yuki-chan's head is rolling away over there一)
 
-21559	Yuki~	（ハウゼル様の魔血魂、ゲットして逃げられりゃー	(If I can just grab Lady Hawzel's Demonic Blood Soul and escape,
-21560	+	　それでギリセーフ……ごめんね、火炎ちゃん）	that'll be a close save... Sorry, Flame-chan.)
+21559	Yuki~		（ハウゼル様の魔血魂、ゲットして逃げられりゃー	(If I can just grab Lady Hawzel's Demonic Blood Soul and escape,
+21560	+		　それでギリセーフ……ごめんね、火炎ちゃん）	that'll be a close save... Sorry, Flame-chan.)
 
-21561	Yuki	「あ」	「Ah.」
+21561	Yuki		「あ」	「Ah.」
 
-21562	-	目が合った。	Their eyes met.
+21562	-		目が合った。	Their eyes met.
 
-21563	Yuki	「ダメ？」	「No go?」
+21563	Yuki		「ダメ？」	「No go?」
 
-21564	Cola	「ダメですねぇ」	「That's a no.」
+21564	Cola	スマイル	「ダメですねぇ」	「That's a no.」
 
-21565	Cola	「勇者の戦いに手を出すのは御法度なんですけど。	「Interfering in a Hero's battle is forbidden, but...
-21566	+	　ま、これくらいは……」	Well, I suppose this much is...」
+21565	Cola	基本	「勇者の戦いに手を出すのは御法度なんですけど。	「Interfering in a Hero's battle is forbidden, but...
+21566	+		　ま、これくらいは……」	Well, I suppose this much is...」
 
-21567	-	コーラの手に、光が収束する。	Light converges in Cola's hand.
+21567	-		コーラの手に、光が収束する。	Light converges in Cola's hand.
 
-21568	Yuki	「あ、やっべばか、ザックリされて	「Ah, oh crap, idiot. Getting sliced up
-21569	+	　キチーのはガチだってーの。け、けけけ」	is seriously tough. Ke-kekeke.」
+21568	Yuki	首	「あ、やっべばか、ザックリされて	「Ah, oh crap, idiot. Getting sliced up
+21569	+		　キチーのはガチだってーの。け、けけけ」	is seriously tough. Ke-kekeke.」
 
-21570	La Seizel	「ッ……！　何してんのよそこのガキーーーー！！」	「...! What do you think you're doing, you brat!!」
+21570	La Seizel	怒り	「ッ……！　何してんのよそこのガキーーーー！！」	「...! What do you think you're doing, you brat!!」
 
-21571	Cola	「おっと」	「Oops.」
+21571	Cola	基本	「おっと」	「Oops.」
 
-21572	-	閃光が奔って、コーラはそこから素早く飛び退いた。	A flash of light streaks across, and Cola quickly leaps back.
-21573	+	周辺が一瞬で凍りつき、脆い物は粉砕される。	The surroundings freeze instantly, and fragile objects are shattered.
+21572	-		閃光が奔って、コーラはそこから素早く飛び退いた。	A flash of light streaks across, and Cola quickly leaps back.
+21573	+		周辺が一瞬で凍りつき、脆い物は粉砕される。	The surroundings freeze instantly, and fragile objects are shattered.
 
-21574	Cola	「さすがにこれ以上は手を出せないか。	「I guess I can't interfere any more than this.
-21575	+	　アリオスー」	Arios一」
+21574	Cola		「さすがにこれ以上は手を出せないか。	「I guess I can't interfere any more than this.
+21575	+		　アリオスー」	Arios一」
 
-21576	La Seizel	「あっ、こいつ、こっち来んなっ……！」	「Ah, you, don't come over here...!」
+21576	La Seizel		「あっ、こいつ、こっち来んなっ……！」	「Ah, you, don't come over here...!」
 
-21577	-	コーラへ撃ち込んだサイゼルには、	Having struck at Cola, Seizel
-21578	+	懐に入り込むアリオスを、阻むことは出来なかった。	could not stop Arios from getting inside her guard.
+21577	-		コーラへ撃ち込んだサイゼルには、	Having struck at Cola, Seizel
+21578	+		懐に入り込むアリオスを、阻むことは出来なかった。	could not stop Arios from getting inside her guard.
 
-21579	La Seizel	「あ、ぐ……………っ、かは……！」	「Ah, guh... kaph...!」
+21579	La Seizel	困り	「あ、ぐ……………っ、かは……！」	「Ah, guh... kaph...!」
 
-21580	-	まともに入った胴薙ぎの一閃が、	A direct horizontal slash
-21581	+	サイゼルを半ば両断した。	nearly bisected Seizel.
+21580	-		まともに入った胴薙ぎの一閃が、	A direct horizontal slash
+21581	+		サイゼルを半ば両断した。	nearly bisected Seizel.
 
-21582	Yuki	「…………おおーーーーう……なんてこった……	「...Oooooh... what a mess...
-21583	+	　うちの上司、そこまでアホとは……」	My boss is actually that much of an idiot...」
+21582	Yuki	首	「…………おおーーーーう……なんてこった……	「...Oooooh... what a mess...
+21583	+		　うちの上司、そこまでアホとは……」	My boss is actually that much of an idiot...」
 
-21584	Yuki	「ふつー逃げるか戦うか、逃げながら戦うかだろ……	「Usually you'd run or fight, or fight while running...
-21585	+	　なんで踏みとどまってんだよ☆	Why'd you stand your ground? ☆
-21586	+	　こっちに割り込んでんだよ☆」	Why'd you jump in here? ☆」
+21584	Yuki		「ふつー逃げるか戦うか、逃げながら戦うかだろ……	「Usually you'd run or fight, or fight while running...
+21585	+		　なんで踏みとどまってんだよ☆	Why'd you stand your ground? ☆
+21586	+		　こっちに割り込んでんだよ☆」	Why'd you jump in here? ☆」
 
-21587	La Seizel	「う、っさいわ、ねぇ……	「Sh-shut up...
-21588	+	　だって、あんた……やられそーだった、じゃない」	It's because... you looked like you were about to be killed...」
+21587	La Seizel	基本	「う、っさいわ、ねぇ……	「Sh-shut up...
+21588	+		　だって、あんた……やられそーだった、じゃない」	It's because... you looked like you were about to be killed...」
 
-21589	Yuki	「そっすねー。まあ、これからやられるんすけど」	「True that. Well, we're both about to be killed now.」
+21589	Yuki	首	「そっすねー。まあ、これからやられるんすけど」	「True that. Well, we're both about to be killed now.」
 
-21590	La Seizel	「っ……く、はぁ…………っ……	「...ugh, hah... ugh...
-21591	+	　ごめん、ハウ、ゼ――――」	Sorry, Hauze一」
+21590	La Seizel	基本	「っ……く、はぁ…………っ……	「...ugh, hah... ugh...
+21591	+		　ごめん、ハウ、ゼ――――」	Sorry, Hauze一」
 
-21592	-	結果的に同じような所に倒れ込んだ主従に、	Upon the master and servant who ended up collapsed in the same spot,
-21593	+	勇者の刃が落ちる。	the Hero's blade falls.
+21592	-		結果的に同じような所に倒れ込んだ主従に、	Upon the master and servant who ended up collapsed in the same spot,
+21593	+		勇者の刃が落ちる。	the Hero's blade falls.
 
-21594	Arios Theoman	「…………終わりか」	「...Is it over?」
+21594	Arios Theoman		「…………終わりか」	「...Is it over?」
 
-21595	Cola	「はーい。お疲れ様でした。	「Yep. Good work.
-21596	+	　まあ、派手にやったしすぐに邪魔が来そうですね」	Well, we made quite a scene, so interference will probably show up soon.」
+21595	Cola		「はーい。お疲れ様でした。	「Yep. Good work.
+21596	+		　まあ、派手にやったしすぐに邪魔が来そうですね」	Well, we made quite a scene, so interference will probably show up soon.」
 
-21597	-	ひょいと、コーラが魔血魂を回収する。	Cola nonchalantly collects the Demonic Blood Souls.
+21597	-		ひょいと、コーラが魔血魂を回収する。	Cola nonchalantly collects the Demonic Blood Souls.
 
-21598	Arios Theoman	「あぁ……用は済んだ。行くぞ」	「Yeah... we're done here. Let's go.」
+21598	Arios Theoman		「あぁ……用は済んだ。行くぞ」	「Yeah... we're done here. Let's go.」
 
-21599	Cola~	（まずかったかな、殺しちゃ……ま、いっか）	(Was it a bad idea to kill them... oh well.)
+21599	Cola~		（まずかったかな、殺しちゃ……ま、いっか）	(Was it a bad idea to kill them... oh well.)
 
-21600	Cola~	（片割れ生かしてて後で万が一アレに……	(If I let one half live and it somehow led to THAT later...
-21601	+	　ってなったら、それこそ大目玉だろうしなぁ）	I'd really get a scolding.)
+21600	Cola~	スマイル	（片割れ生かしてて後で万が一アレに……	(If I let one half live and it somehow led to THAT later...
+21601	+		　ってなったら、それこそ大目玉だろうしなぁ）	I'd really get a scolding.)
 
-21602	-	ランス城の魔人が、勇者の手によって殺された。	The Fiends of Rance Castle were killed by the Hero's hand.
+21602	-		ランス城の魔人が、勇者の手によって殺された。	The Fiends of Rance Castle were killed by the Hero's hand.

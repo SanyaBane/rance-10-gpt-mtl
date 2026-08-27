@@ -6,125 +6,125 @@
 * Cream Ganoblade	クリーム	Female
 * Chaos	カオス	Male
 
-33284	Zeth Mage Soldier	「あ……これは総統」	「Ah... It's the Supreme Leader.」
+33284	Zeth Mage Soldier	基本	「あ……これは総統」	「Ah... It's the Supreme Leader.」
 
-33285	-	見慣れないゼス兵が、	An unfamiliar Zeth soldier
-33286	+	ランスに会釈して通り過ぎていった。	bowed to Rance and walked past.
+33285	-		見慣れないゼス兵が、	An unfamiliar Zeth soldier
+33286	+		ランスに会釈して通り過ぎていった。	bowed to Rance and walked past.
 
-33287	Rance	「……なんか、今日はゼスの連中が多いな？」	「...There are a lot of Zeth people today, huh?」
+33287	Rance	真剣	「……なんか、今日はゼスの連中が多いな？」	「...There are a lot of Zeth people today, huh?」
 
-33288	Sill Plain	「あ、ゼスの千鶴子さんがいらしてるそうですから、	「Ah, I heard Chizuko-san from Zeth is here,
-33289	+	　そのせいかもしれませんね」	　that might be why.」
+33288	Sill Plain	基本	「あ、ゼスの千鶴子さんがいらしてるそうですから、	「Ah, I heard Chizuko-san from Zeth is here,
+33289	+		　そのせいかもしれませんね」	　that might be why.」
 
-33290	Rance	「ほう、千鶴子か。	「Oh, Chizuko huh.
-33291	+	　あれも脱がせてみれば美人だからな。	　She's quite the beauty once you strip her.
-33292	+	　今夜はひとつ、親睦を深めて……」	　Tonight I'll deepen our friendship...」
+33290	Rance	エロ顔	「ほう、千鶴子か。	「Oh, Chizuko huh.
+33291	+		　あれも脱がせてみれば美人だからな。	　She's quite the beauty once you strip her.
+33292	+		　今夜はひとつ、親睦を深めて……」	　Tonight I'll deepen our friendship...」
 
-33293	Yamada Chizuko	「ああもう……！」	「Aah, seriously...!」
+33293	Yamada Chizuko	コラー	「ああもう……！」	「Aah, seriously...!」
 
-33294	-	千鶴子は焦った様子で、	Chizuko hurried anxiously,
-33295	+	廊下を駆け足寸前の速さで歩いてきた。	walking down the hallway almost at a run.
+33294	-		千鶴子は焦った様子で、	Chizuko hurried anxiously,
+33295	+		廊下を駆け足寸前の速さで歩いてきた。	walking down the hallway almost at a run.
 
-33296	Rance	「おっ、千鶴子。来てたんだな。	「Oh, Chizuko. You were here.
-33297	+	　どうだ、今夜は……」	　How about tonight...」
+33296	Rance	基本	「おっ、千鶴子。来てたんだな。	「Oh, Chizuko. You were here.
+33297	+		　どうだ、今夜は……」	　How about tonight...」
 
-33298	Yamada Chizuko	「ああ、総統……悪いけど、予定変更で失礼します。	「Ah, Supreme Leader... Sorry, but I have to change plans.
-33299	+	　もう帰らないとならなくなったので……」	　I have to return immediately...」
+33298	Yamada Chizuko		「ああ、総統……悪いけど、予定変更で失礼します。	「Ah, Supreme Leader... Sorry, but I have to change plans.
+33299	+		　もう帰らないとならなくなったので……」	　I have to return immediately...」
 
-33300	Rance	「なんだと？　ゼスでトラブルか？」	「What? Trouble in Zeth?」
+33300	Rance	真剣	「なんだと？　ゼスでトラブルか？」	「What? Trouble in Zeth?」
 
-33301	Yamada Chizuko	「…………ゼスで、というか……」	「......Not exactly in Zeth, but......」
+33301	Yamada Chizuko	基本	「…………ゼスで、というか……」	「......Not exactly in Zeth, but......」
 
-33302	-	そのまま歩き去ろうとしていた千鶴子が、	Chizuko, who was about to walk away,
-33303	+	ひとつ溜息をついて足を止めた。	stopped with a sigh.
+33302	-		そのまま歩き去ろうとしていた千鶴子が、	Chizuko, who was about to walk away,
+33303	+		ひとつ溜息をついて足を止めた。	stopped with a sigh.
 
-33304	Yamada Chizuko	「その………………アニスが」	「It's...... Anise.」
+33304	Yamada Chizuko	困り	「その………………アニスが」	「It's...... Anise.」
 
-33305	Rance	「う……もう予想が付いた。またトチ狂ったのか」	「Ugh... I can already guess. Did she go crazy again?」
+33305	Rance	だる顔	「う……もう予想が付いた。またトチ狂ったのか」	「Ugh... I can already guess. Did she go crazy again?」
 
-33306	Yamada Chizuko	「逆立ちするわんわんに吠えられたらしくて……」	「Apparently she got barked at by a dog standing on its head...」
+33306	Yamada Chizuko	困り	「逆立ちするわんわんに吠えられたらしくて……」	「Apparently she got barked at by a dog standing on its head...」
 
-33307	Rance	「なんでそれで暴走するんだ」	「Why does that make her go berserk?」
+33307	Rance	真剣	「なんでそれで暴走するんだ」	「Why does that make her go berserk?」
 
-33308	Yamada Chizuko	「さぁ……とにかく、いつも通りというか……	「Who knows... Anyway, as usual...
-33309	+	　敵も味方も見境無しだそうで。	　She doesn't distinguish between friend or foe.
-33310	+	　誰も近づけないそうです」	　No one can approach her.」
+33308	Yamada Chizuko	困り	「さぁ……とにかく、いつも通りというか……	「Who knows... Anyway, as usual...
+33309	+		　敵も味方も見境無しだそうで。	　She doesn't distinguish between friend or foe.
+33310	+		　誰も近づけないそうです」	　No one can approach her.」
 
-33311	Rance	「…………それなら避難だけさせて、	「............Then just evacuate everyone
-33312	+	　放っておけばいいのと違うか？」	　and leave her alone?」
+33311	Rance	だる顔	「…………それなら避難だけさせて、	「............Then just evacuate everyone
+33312	+		　放っておけばいいのと違うか？」	　and leave her alone?」
 
-33313	Yamada Chizuko	「いくらなんでも、いつか力尽きます。	「Even so, she'll eventually run out of energy.
-33314	+	　あるいは、正気に戻る事も……	　Or regain her senses...
-33315	+	　その時、魔軍に襲われたら危険でしょう」	　If the Monster Army attacks then, it'll be dangerous.」
+33313	Yamada Chizuko	困り	「いくらなんでも、いつか力尽きます。	「Even so, she'll eventually run out of energy.
+33314	+		　あるいは、正気に戻る事も……	　Or regain her senses...
+33315	+		　その時、魔軍に襲われたら危険でしょう」	　If the Monster Army attacks then, it'll be dangerous.」
 
-33316	Yamada Chizuko	「実際、レッドアイの時も、	「Actually, it was similar during the RedEye incident...
-33317	+	　だいたいそんな形だったそうですし……」	　So they say...」
+33316	Yamada Chizuko		「実際、レッドアイの時も、	「Actually, it was similar during the RedEye incident...
+33317	+		　だいたいそんな形だったそうですし……」	　So they say...」
 
-33318	Rance	「あったな、そんな事……面倒見いいな」	「Yeah, that happened... You're a good caretaker.」
+33318	Rance	基本	「あったな、そんな事……面倒見いいな」	「Yeah, that happened... You're a good caretaker.」
 
-33319	Yamada Chizuko	「……それに、今回は補給物資を溜め込んでる町に	「...Plus, this time she's charging into a town
-33320	+	　突っ込んでいっているみたいで……」	　stockpiling supplies...」
+33319	Yamada Chizuko	困り	「……それに、今回は補給物資を溜め込んでる町に	「...Plus, this time she's charging into a town
+33320	+		　突っ込んでいっているみたいで……」	　stockpiling supplies...」
 
-33321	Yamada Chizuko	「くっ……！　あそこを吹き飛ばされたら、	「Kuh...! If that place gets blown up,
-33322	+	　被害総額がどれほどになるか……！」	　the total damage will be enormous...!」
+33321	Yamada Chizuko	怒り	「くっ……！　あそこを吹き飛ばされたら、	「Kuh...! If that place gets blown up,
+33322	+		　被害総額がどれほどになるか……！」	　the total damage will be enormous...!」
 
-33323	Yamada Chizuko	「ゼスだけならともかく、	「If it were just Zeth it would be one thing,
-33324	+	　リーザス資本のものが多い所に行くなんて……！	　but going to a place with lots of Leazas capital assets...!
-33325	+	　くうう、抗議が来たら……う、胃が……！」	　If complaints come... My stomach...!」
+33323	Yamada Chizuko	困り	「ゼスだけならともかく、	「If it were just Zeth it would be one thing,
+33324	+		　リーザス資本のものが多い所に行くなんて……！	　but going to a place with lots of Leazas capital assets...!
+33325	+		　くうう、抗議が来たら……う、胃が……！」	　If complaints come... My stomach...!」
 
-33326	Rance	「本音はそっちなのか……」	「So that's your real concern...」
+33326	Rance	真剣	「本音はそっちなのか……」	「So that's your real concern...」
 
-33327	Cream Ganoblade	「あ、総統。そちらに……あら」	「Ah, Supreme Leader. Over there... Oh.」
+33327	Cream Ganoblade	基本	「あ、総統。そちらに……あら」	「Ah, Supreme Leader. Over there... Oh.」
 
-33328	Yamada Chizuko	「どうも」	「Hello.」
+33328	Yamada Chizuko		「どうも」	「Hello.」
 
-33329	Cream Ganoblade	「これは山田四天王。すぐお帰りだとか……」	「This is one of Yamada's Four Lords. I heard you're leaving soon...」
+33329	Cream Ganoblade		「これは山田四天王。すぐお帰りだとか……」	「This is one of Yamada's Four Lords. I heard you're leaving soon...」
 
-33330	Yamada Chizuko	「千鶴子でけっこうですよ、クリームさん」	「Just Chizuko is fine, Cream-san.」
+33330	Yamada Chizuko		「千鶴子でけっこうですよ、クリームさん」	「Just Chizuko is fine, Cream-san.」
 
-33331	Cream Ganoblade	「あ……そうですか。ではそうさせて頂きます」	「Ah... I see. Then I'll do that.」
+33331	Cream Ganoblade		「あ……そうですか。ではそうさせて頂きます」	「Ah... I see. Then I'll do that.」
 
-33332	Cream Ganoblade~	（……見た目ほど固くないのかしら……？）	（...She's not as stiff as she looks...?）
+33332	Cream Ganoblade~		（……見た目ほど固くないのかしら……？）	（...She's not as stiff as she looks...?）
 
-33333	Rance	「で、どうかしたのかクリームちゃん」	「So, what's up, Cream-chan?」
+33333	Rance		「で、どうかしたのかクリームちゃん」	「So, what's up, Cream-chan?」
 
-33334	Cream Ganoblade	「ああ、はい。	「Ah, yes.
-33335	+	　その……実は、トッポスが現れて……」	　Actually... Toppos has appeared...」
+33334	Cream Ganoblade		「ああ、はい。	「Ah, yes.
+33335	+		　その……実は、トッポスが現れて……」	　Actually... Toppos has appeared...」
 
-33336	Rance	「トッポス？　トッポス……なんだったか」	「Toppos? Toppos... Who was that again?」
+33336	Rance	だる顔	「トッポス？　トッポス……なんだったか」	「Toppos? Toppos... Who was that again?」
 
-33337	Chaos	「心の友はホント、忘れるっていうか覚えんよね、	「You really forget your best friend, or rather never remember,
-33338	+	　そもそも……」	　in the first place...」
+33337	Chaos	基本	「心の友はホント、忘れるっていうか覚えんよね、	「You really forget your best friend, or rather never remember,
+33338	+		　そもそも……」	　in the first place...」
 
-33339	Rance	「なんだ。お前の知り合いか」	「What. You know him?」
+33339	Rance	真剣	「なんだ。お前の知り合いか」	「What. You know him?」
 
-33340	Chaos	「レッドアイが取り憑いたのがいたじゃろー！	「The one RedEye possessed!
-33341	+	　儂のプリティボディをへし折りやがった……	　That bastard broke my pretty body...
-33342	+	　心の友だってぶっ飛ばされたじゃろ！」	　Even my soul friend got sent flying!」
+33340	Chaos	基本	「レッドアイが取り憑いたのがいたじゃろー！	「The one RedEye possessed!
+33341	+		　儂のプリティボディをへし折りやがった……	　That bastard broke my pretty body...
+33342	+		　心の友だってぶっ飛ばされたじゃろ！」	　Even my soul friend got sent flying!」
 
-33343	Rance	「…………あー。あのめんどくさい奴か！」	「............Ah. That annoying one!」
+33343	Rance	驚き	「…………あー。あのめんどくさい奴か！」	「............Ah. That annoying one!」
 
-33344	Cream Ganoblade	「敵も味方も見境無しだそうで……	「No distinction between friend or foe...
-33345	+	　誰も近づけない状況だそうです」	　No one can get close.」
+33344	Cream Ganoblade	ため息	「敵も味方も見境無しだそうで……	「No distinction between friend or foe...
+33345	+		　誰も近づけない状況だそうです」	　No one can get close.」
 
-33346	Rance	「…………それは避難だけさせて、	「............Then just evacuate everyone
-33347	+	　放っておけばいいのと違うか？」	　and leave it alone?」
+33346	Rance	真剣	「…………それは避難だけさせて、	「............Then just evacuate everyone
+33347	+		　放っておけばいいのと違うか？」	　and leave it alone?」
 
-33348	Cream Ganoblade	「……それが、今回は補給物資を溜め込んでる町に	「...The problem is, this time it's charging into a town
-33349	+	　突っ込んでいっているみたいで……」	　stockpiling supplies...」
+33348	Cream Ganoblade	基本	「……それが、今回は補給物資を溜め込んでる町に	「...The problem is, this time it's charging into a town
+33349	+		　突っ込んでいっているみたいで……」	　stockpiling supplies...」
 
-33350	Cream Ganoblade	「くっ……ヘルマン軍の防衛当番の時に……	「Kuh... During Helman army's defense shift...
-33351	+	　リーザス資本の物資が大量にあるのに……	　There are huge amounts of Leazas capital goods...
-33352	+	　万一があったら、どう抗議が来るか……」	　If something happens, the complaints will be...」
+33350	Cream Ganoblade		「くっ……ヘルマン軍の防衛当番の時に……	「Kuh... During Helman army's defense shift...
+33351	+		　リーザス資本の物資が大量にあるのに……	　There are huge amounts of Leazas capital goods...
+33352	+		　万一があったら、どう抗議が来るか……」	　If something happens, the complaints will be...」
 
-33353	Rance	「どっかで聞いた話だな……」	「I've heard this story somewhere...」
+33353	Rance	だる顔	「どっかで聞いた話だな……」	「I've heard this story somewhere...」
 
-33354	Chaos	「どっちもレッドアイに操られてた時の方が、	「Both were more controllable when possessed by RedEye...
-33355	+	　まだ制御効いとったよーな……」	　At least then...」
+33354	Chaos	基本	「どっちもレッドアイに操られてた時の方が、	「Both were more controllable when possessed by RedEye...
+33355	+		　まだ制御効いとったよーな……」	　At least then...」
 
-33356	Sill Plain	「でも、困りましたね、ランス様……	「But this is troubling, Rance-sama...
-33357	+	　なんとかできればいいのですけど」	　If only we could do something...」
+33356	Sill Plain	真剣	「でも、困りましたね、ランス様……	「But this is troubling, Rance-sama...
+33357	+		　なんとかできればいいのですけど」	　If only we could do something...」
 
-33358	Rance	「あんな連中、両方まとめてなんて無理だぞ」	「Dealing with both at once is impossible.」
+33358	Rance	だる顔	「あんな連中、両方まとめてなんて無理だぞ」	「Dealing with both at once is impossible.」
 
-33359	Sill Plain	「それはそうですけど、どちらかだけでも……」	「That's true, but even if it's just one...」
+33359	Sill Plain	泣き	「それはそうですけど、どちらかだけでも……」	「That's true, but even if it's just one...」

@@ -4,82 +4,82 @@
 * Arlcoate Marius	アールコート	Female
 * Cream Ganoblade	クリーム	Female
 
-102207	Rance	「お、なんだ？　模擬戦闘ボードか？」	「Oh, what's this? A mock battle board game?」
+102207	Rance	基本	「お、なんだ？　模擬戦闘ボードか？」	「Oh, what's this? A mock battle board game?」
 
-102208	Sioux Province	「あら、ランスさん」	「Oh, Rance-san.」
+102208	Sioux Province		「あら、ランスさん」	「Oh, Rance-san.」
 
-102209	-	アールコートとスーの二人が	Arlcoate and Sioux were
-102210	+	ボードゲームをしていた。	playing a board game.
+102209	-		アールコートとスーの二人が	Arlcoate and Sioux were
+102210	+		ボードゲームをしていた。	playing a board game.
 
-102211	Arlcoate Marius	「わわわ、す、すみません、おじ様！	「W-Wah, s-sorry Uncle!
-102212	+	　私、こんな遊んでて……」	　I was just playing...」
+102211	Arlcoate Marius	弱気	「わわわ、す、すみません、おじ様！	「W-Wah, s-sorry Uncle!
+102212	+		　私、こんな遊んでて……」	　I was just playing...」
 
-102213	Rance	「なんだ、休憩時間なんだろ？	「It's break time right?
-102214	+	　別に構わん構わん」	　No problem at all.」
+102213	Rance	基本	「なんだ、休憩時間なんだろ？	「It's break time right?
+102214	+		　別に構わん構わん」	　No problem at all.」
 
-102215	Arlcoate Marius	「あ、はい……」	「Ah, yes...」
+102215	Arlcoate Marius	弱気	「あ、はい……」	「Ah, yes...」
 
-102216	Sioux Province	「良ければランスさんもやりますか？	「Would you like to join us, Rance-san?
-102217	+	　代わりますよ？」	　I can switch out.」
+102216	Sioux Province	基本	「良ければランスさんもやりますか？	「Would you like to join us, Rance-san?
+102217	+		　代わりますよ？」	　I can switch out.」
 
-102218	Rance	「ふっふっふっ……	「Heh heh heh...
-102219	+	　この天才軍師に勝負させるとは愚かな。	　Challenging this genius strategist is foolish.
-102220	+	　軽ーく揉んでやるか」	　I'll crush you lightly.」
+102218	Rance		「ふっふっふっ……	「Heh heh heh...
+102219	+		　この天才軍師に勝負させるとは愚かな。	　Challenging this genius strategist is foolish.
+102220	+		　軽ーく揉んでやるか」	　I'll crush you lightly.」
 
-102221	Arlcoate Marius	「お、お手柔らかにお願いします……おじ様……」	「P-Please go easy on me... Uncle...」
+102221	Arlcoate Marius		「お、お手柔らかにお願いします……おじ様……」	「P-Please go easy on me... Uncle...」
 
-102222	Rance	「がははははははははは！	「Gahahahahahaha!
-102223	+	　俺様の天才的な采配を見せてやろう！」	　Behold my genius command!」
+102222	Rance	笑顔	「がははははははははは！	「Gahahahahahaha!
+102223	+		　俺様の天才的な采配を見せてやろう！」	　Behold my genius command!」
 
-102224	-	…………	............
+102224	-		…………	............
 
-102225	-	……	......
+102225	-		……	......
 
-102226	Rance	「ぐっ！　ぐぬぬぬぬぬぬ！」	「Guh! Grnnnngh!」
+102226	Rance	だる顔	「ぐっ！　ぐぬぬぬぬぬぬ！」	「Guh! Grnnnngh!」
 
-102227	-	ランスは頭から煙を吹きそうなほど、	Rance's face turned bright red as if smoke was about to come out of his head,
-102228	+	顔を真っ赤にして唸っていた。	and he groaned in frustration.
+102227	-		ランスは頭から煙を吹きそうなほど、	Rance's face turned bright red as if smoke was about to come out of his head,
+102228	+		顔を真っ赤にして唸っていた。	and he groaned in frustration.
 
-102229	Rance	「何ァァァ故だァァァ……	「Whyyyy the hell...
-102230	+	　何故勝てなァァァい……」	　Why can't I wiiin...」
+102229	Rance		「何ァァァ故だァァァ……	「Whyyyy the hell...
+102230	+		　何故勝てなァァァい……」	　Why can't I wiiin...」
 
-102231	Arlcoate Marius	「あ、あわわわ……」	「A-Awawawa...」
+102231	Arlcoate Marius	弱気	「あ、あわわわ……」	「A-Awawawa...」
 
-102232	Sioux Province~	（そもそも何故、勝てると思ったんだろ……	（Why did he think he could win in the first place...
-102233	+	　ランスさんこういうの苦手そうなのに……）	　Rance-san seems bad at these kinds of games...）
+102232	Sioux Province~	基本	（そもそも何故、勝てると思ったんだろ……	（Why did he think he could win in the first place...
+102233	+		　ランスさんこういうの苦手そうなのに……）	　Rance-san seems bad at these kinds of games...）
 
-102234	Arlcoate Marius	「…………すっ」	「............」
+102234	Arlcoate Marius	弱気	「…………すっ」	「............」
 
-102235	Sioux Province	「あっ……！」	「Ah...!」
+102235	Sioux Province	基本	「あっ……！」	「Ah...!」
 
-102236	-	アールコートの采配を見たスーが声を上げる。	Sioux let out a surprised voice after seeing Arlcoate's move.
+102236	-		アールコートの采配を見たスーが声を上げる。	Sioux let out a surprised voice after seeing Arlcoate's move.
 
-102237	Rance	「お？　どうした？」	「Oh? What is it?」
+102237	Rance	真剣	「お？　どうした？」	「Oh? What is it?」
 
-102238	Sioux Province	「……いえ、なんでも」	「...Nothing.」
+102238	Sioux Province	基本	「……いえ、なんでも」	「...Nothing.」
 
-102239	Rance	「？？」	「??」
+102239	Rance	だる顔	「？？」	「??」
 
-102240	Arlcoate Marius	「どきどき……」	「My heart's pounding...」
+102240	Arlcoate Marius	基本	「どきどき……」	「My heart's pounding...」
 
-102241	Rance	「ん？　おや？　おやおやおや？」	「Hm? Oh? Ohh?」
+102241	Rance	真剣	「ん？　おや？　おやおやおや？」	「Hm? Oh? Ohh?」
 
-102242	Rance	「おおおおっ、見ろ見ろ！	「Ooooh, look look!
-102243	+	　アールコートちゃんのここ隙だらけだ！」	　Arlcoate-chan's position is full of openings!」
+102242	Rance	基本	「おおおおっ、見ろ見ろ！	「Ooooh, look look!
+102243	+		　アールコートちゃんのここ隙だらけだ！」	　Arlcoate-chan's position is full of openings!」
 
-102244	Arlcoate Marius	「わ、わあー、良かったですね、おじ様」	「W-Wow, good job Uncle.」
+102244	Arlcoate Marius		「わ、わあー、良かったですね、おじ様」	「W-Wow, good job Uncle.」
 
-102245	Rance	「これをこうして、トントントン……っと」	「Like this, and this, ton ton ton...」
+102245	Rance		「これをこうして、トントントン……っと」	「Like this, and this, ton ton ton...」
 
-102246	Rance	「がははははははは！	「Gahahahahaha!
-102247	+	　すごいぞ俺様、大逆転だ！　大逆転したぞ！	　I'm amazing! A huge comeback! I did it!
-102248	+	　どうだ、すごいだろう！　どうだ！？」	　See? Amazing right!?」
+102246	Rance	笑顔	「がははははははは！	「Gahahahahaha!
+102247	+		　すごいぞ俺様、大逆転だ！　大逆転したぞ！	　I'm amazing! A huge comeback! I did it!
+102248	+		　どうだ、すごいだろう！　どうだ！？」	　See? Amazing right!?」
 
-102249	Arlcoate Marius	「は、はいっ。すごいです、おじ様。	「Y-Yes. Amazing, Uncle.
-102250	+	　にこにこ」	　Smile smile.」
+102249	Arlcoate Marius	基本	「は、はいっ。すごいです、おじ様。	「Y-Yes. Amazing, Uncle.
+102250	+		　にこにこ」	　Smile smile.」
 
-102251	Rance	「がはははははは！　そうだろう、そうだろう！」	「Gahahahaha! That's right, that's right!」
+102251	Rance		「がはははははは！　そうだろう、そうだろう！」	「Gahahahaha! That's right, that's right!」
 
-102252	Sioux Province	「……もー」	「...Geez.」
+102252	Sioux Province	思考	「……もー」	「...Geez.」
 
-102253	Cream Ganoblade~	（またアールコートさんが総統を甘やかしてる……）	（Arlcoate is spoiling the Supreme Leader again...）
+102253	Cream Ganoblade~	基本	（またアールコートさんが総統を甘やかしてる……）	（Arlcoate is spoiling the Supreme Leader again...）

@@ -5,209 +5,209 @@
 * Leazas Red Soldier	汎用リーザス赤兵	Male
 * Rance	ランス	Male
 
-93724	-	乳久里の部屋の前に、	In front of Chikuri's room,
-93725	+	城内の兵士達が集まっていた。	soldiers from the castle had gathered.
+93724	-		乳久里の部屋の前に、	In front of Chikuri's room,
+93725	+		城内の兵士達が集まっていた。	soldiers from the castle had gathered.
 
-93726	Helman Knight	「うーむ、もう予約が一ヶ月先まで……」	「Hmm, reservations are already booked a month ahead...」
+93726	Helman Knight	基本	「うーむ、もう予約が一ヶ月先まで……」	「Hmm, reservations are already booked a month ahead...」
 
-93727	Zeth Mage Soldier	「さすが、人気の店……」	「As expected from such a popular place...」
+93727	Zeth Mage Soldier		「さすが、人気の店……」	「As expected from such a popular place...」
 
-93728	Chikuri	「すまないねぇ、	「Sorry about that,
-93729	+	　一日に一人の客しか取らないから、	　I only take one customer per day,
-93730	+	　いつまで経っても番が回ってこなくて」	　so it takes forever to get a turn.」
+93728	Chikuri	ウィンク	「すまないねぇ、	「Sorry about that,
+93729	+		　一日に一人の客しか取らないから、	　I only take one customer per day,
+93730	+		　いつまで経っても番が回ってこなくて」	　so it takes forever to get a turn.」
 
-93731	Zeth Mage Soldier	「いえいえ！　とんでもありません！」	「No no! Not at all!」
+93731	Zeth Mage Soldier	基本	「いえいえ！　とんでもありません！」	「No no! Not at all!」
 
-93732	Helman Knight	「このような辺鄙な地で女日照り！	「In such a remote place with no women!
-93733	+	　そこで乳久里様のような、き、綺麗な女性と、	　To be able to spend a night with a beautiful woman like Lady Chikuri
-93734	+	　一晩が共に出来るとは、光栄の極み！」	　is the greatest honor!」
+93732	Helman Knight		「このような辺鄙な地で女日照り！	「In such a remote place with no women!
+93733	+		　そこで乳久里様のような、き、綺麗な女性と、	　To be able to spend a night with a beautiful woman like Lady Chikuri
+93734	+		　一晩が共に出来るとは、光栄の極み！」	　is the greatest honor!」
 
-93735	Leazas Red Soldier	「そ、その通り！	「T-That's right!
-93736	+	　乳久里様には感謝の念しかありません！」	　I have nothing but gratitude for Lady Chikuri!」
+93735	Leazas Red Soldier	非武装／戦闘	「そ、その通り！	「T-That's right!
+93736	+		　乳久里様には感謝の念しかありません！」	　I have nothing but gratitude for Lady Chikuri!」
 
-93737	-	部屋のネームプレートにはこう書かれていた。	The nameplate on the room read:
+93737	-		部屋のネームプレートにはこう書かれていた。	The nameplate on the room read:
 
-93738	-	乳久里の出会い茶屋――	Chikuri's Meeting Teahouse――
+93738	-		乳久里の出会い茶屋――	Chikuri's Meeting Teahouse――
 
-93739	Chikuri	「取る客は一日に一人だけ」	「I only take one customer a day.」
+93739	Chikuri	ウィンク	「取る客は一日に一人だけ」	「I only take one customer a day.」
 
-93740	Chikuri	「その客とは一日、恋人としてデートしてもらう。	「That customer gets to date me as a lover for the whole day.
-93741	+	　その代わり夜はたっぷりサービス」	　In return, I give plenty of service at night.」
+93740	Chikuri		「その客とは一日、恋人としてデートしてもらう。	「That customer gets to date me as a lover for the whole day.
+93741	+		　その代わり夜はたっぷりサービス」	　In return, I give plenty of service at night.」
 
-93742	Chikuri	「好評のようだし開店して良かったかねえ」	「It's popular, so I'm glad I opened it.」
+93742	Chikuri		「好評のようだし開店して良かったかねえ」	「It's popular, so I'm glad I opened it.」
 
-93743	Leazas Red Soldier	「しかし……	「However...
-93744	+	　お店と言う割にお金を取らないのは、	　Not charging money for a shop like this,
-93745	+	　果たしていいのだろうか？」	　is that really okay?」
+93743	Leazas Red Soldier	非武装	「しかし……	「However...
+93744	+		　お店と言う割にお金を取らないのは、	　Not charging money for a shop like this,
+93745	+		　果たしていいのだろうか？」	　is that really okay?」
 
-93746	Helman Knight	「慈善事業……	「It's a charity...
-93747	+	　ということなのだろうな」	　I suppose.」
+93746	Helman Knight	基本	「慈善事業……	「It's a charity...
+93747	+		　ということなのだろうな」	　I suppose.」
 
-93748	Zeth Mage Soldier	「なんと素晴らしい女性なんだ……	「What an amazing woman...
-93749	+	　ああ、心より感謝しかない」	　Ah, I'm truly grateful from the bottom of my heart.」
+93748	Zeth Mage Soldier		「なんと素晴らしい女性なんだ……	「What an amazing woman...
+93749	+		　ああ、心より感謝しかない」	　Ah, I'm truly grateful from the bottom of my heart.」
 
-93750	Chikuri	「あんまり褒められるとむず痒いね。	「Too much praise makes me itchy.
-93751	+	　あたしはこういうのが好きな変人ってだけさね」	　I'm just a weirdo who likes doing this.」
+93750	Chikuri	ウィンク	「あんまり褒められるとむず痒いね。	「Too much praise makes me itchy.
+93751	+		　あたしはこういうのが好きな変人ってだけさね」	　I'm just a weirdo who likes doing this.」
 
-93752	Chikuri	「それに、代金代わりにデートには、	「Besides, instead of money I get dates,
-93753	+	　連れていってもらうからね」	　so I get taken out.」
+93752	Chikuri		「それに、代金代わりにデートには、	「Besides, instead of money I get dates,
+93753	+		　連れていってもらうからね」	　so I get taken out.」
 
-93754	Chikuri	「今日はそこのリーザスのお兄さんがお相手だ。	「Today the Leazas brother over there is my partner.
-93755	+	　こういう店は慣れてないようだけど……」	　He doesn't seem used to places like this...」
+93754	Chikuri		「今日はそこのリーザスのお兄さんがお相手だ。	「Today the Leazas brother over there is my partner.
+93755	+		　こういう店は慣れてないようだけど……」	　He doesn't seem used to places like this...」
 
-93756	Chikuri	「せいぜい楽しませてくれないと、	「If you don't entertain me well,
-93757	+	　あたしも途中で帰っちゃうかもよ」	　I might go home midway.」
+93756	Chikuri		「せいぜい楽しませてくれないと、	「If you don't entertain me well,
+93757	+		　あたしも途中で帰っちゃうかもよ」	　I might go home midway.」
 
-93758	Leazas Red Soldier	「は、はいっ！　心させて頂きます！」	「Y-Yes! I'll do my best to please you!」
+93758	Leazas Red Soldier	非武装	「は、はいっ！　心させて頂きます！」	「Y-Yes! I'll do my best to please you!」
 
-93759	Helman Knight	「と、うそぶくが実際に帰ったことなどないらしい」	「She says that, but apparently she's never actually left midway.」
+93759	Helman Knight	基本	「と、うそぶくが実際に帰ったことなどないらしい」	「She says that, but apparently she's never actually left midway.」
 
-93760	Zeth Mage Soldier	「はあ……素晴らしい……」	「Haa... Wonderful...」
+93760	Zeth Mage Soldier		「はあ……素晴らしい……」	「Haa... Wonderful...」
 
-93761	Helman Knight	「ああ、このようなこと……	「Ah, something like this...
-93762	+	　城の方々、特に軍師の皆さんには言えぬが……	　I can't tell the people in the castle, especially the strategists...
-93763	+	　ありがたい、その一語に尽きる」	　Grateful is the only word for it.」
+93761	Helman Knight		「ああ、このようなこと……	「Ah, something like this...
+93762	+		　城の方々、特に軍師の皆さんには言えぬが……	　I can't tell the people in the castle, especially the strategists...
+93763	+		　ありがたい、その一語に尽きる」	　Grateful is the only word for it.」
 
-93764	Chikuri	「くすくす、大袈裟だねえ。	「Hehe, you're exaggerating.
-93765	+	　じゃ、いい子にして待つんだよ」	　Now, be good boys and wait.」
+93764	Chikuri	ウィンク	「くすくす、大袈裟だねえ。	「Hehe, you're exaggerating.
+93765	+		　じゃ、いい子にして待つんだよ」	　Now, be good boys and wait.」
 
-93766	-	朗らかに笑う乳久里を前にして、	In front of the cheerfully smiling Chikuri,
-93767	+	筋骨隆々の厳めしい兵達は	the burly, stern soldiers
-93768	+	でれーっとしながら返事した。	answered with sloppy, lovestruck faces.
+93766	-		朗らかに笑う乳久里を前にして、	In front of the cheerfully smiling Chikuri,
+93767	+		筋骨隆々の厳めしい兵達は	the burly, stern soldiers
+93768	+		でれーっとしながら返事した。	answered with sloppy, lovestruck faces.
 
-93769	Rance	「――って」	「一Wait」
+93769	Rance	基本	「――って」	「一Wait」
 
-93770	Rance	「くぉらーーーー！　なんだこれはーッ！」	「Heyyyyy! What the hell is this!」
+93770	Rance	怒り	「くぉらーーーー！　なんだこれはーッ！」	「Heyyyyy! What the hell is this!」
 
-93771	Chikuri	「あら、総統のお兄さん」	「Oh, it's big brother Supreme Leader.」
+93771	Chikuri	基本	「あら、総統のお兄さん」	「Oh, it's big brother Supreme Leader.」
 
-93772	Rance	「風紀びん乱！　風紀びん乱ーーー！」	「Public morals violation! Public morals violation!」
+93772	Rance		「風紀びん乱！　風紀びん乱ーーー！」	「Public morals violation! Public morals violation!」
 
-93773	Chikuri	「見た目に似合わず	「For someone who looks like you,
-93774	+	　難しい言葉知ってるねえ」	　you know some difficult words.」
+93773	Chikuri		「見た目に似合わず	「For someone who looks like you,
+93774	+		　難しい言葉知ってるねえ」	　you know some difficult words.」
 
-93775	Rance	「ええい、誤魔化すな！」	「Hey, don't dodge the issue!」
+93775	Rance	怒り	「ええい、誤魔化すな！」	「Hey, don't dodge the issue!」
 
-93776	Rance	「俺様には抱かれないくせに、	「You won't let me fuck you,
-93777	+	　これは一体どういうことだ！？」	　so what the hell is this!?」
+93776	Rance	イライラ	「俺様には抱かれないくせに、	「You won't let me fuck you,
+93777	+		　これは一体どういうことだ！？」	　so what the hell is this!?」
 
-93778	Helman Knight	「ひえええ、まだ総統は	「Eeeeek, the Supreme Leader hasn't
-93779	+	　お抱きになられてなかったのか！？」	　been embraced by her yet!?」
+93778	Helman Knight	基本	「ひえええ、まだ総統は	「Eeeeek, the Supreme Leader hasn't
+93779	+		　お抱きになられてなかったのか！？」	　been embraced by her yet!?」
 
-93780	Zeth Mage Soldier	「ち、乳久里さん……」	「C-Chikuri-san...」
+93780	Zeth Mage Soldier	苦戦	「ち、乳久里さん……」	「C-Chikuri-san...」
 
-93781	Chikuri	「だぁーってねぇー」	「Well you see~」
+93781	Chikuri	基本	「だぁーってねぇー」	「Well you see~」
 
-93782	Chikuri	「この城の男共ったら、可哀想でならないよ」	「The men in this castle are just too pitiful.」
+93782	Chikuri		「この城の男共ったら、可哀想でならないよ」	「The men in this castle are just too pitiful.」
 
-93783	Chikuri	「こんだけ毎日休みもなく、	　Working every day without rest,
-93784	+	　誰に褒められるわけでもなく、	　without anyone praising them,
-93785	+	　くったくたになるまで働いて、ええ？」	　until they're completely exhausted, right?」
+93783	Chikuri		「こんだけ毎日休みもなく、	　Working every day without rest,
+93784	+		　誰に褒められるわけでもなく、	　without anyone praising them,
+93785	+		　くったくたになるまで働いて、ええ？」	　until they're completely exhausted, right?」
 
-93786	Chikuri	「しかも、兄さんのせいでそこらには	　Plus, thanks to you big brother,
-93787	+	　目に毒な可愛らしいお嬢さんがごろごろ」	　there are eye-candy cute girls everywhere
+93786	Chikuri		「しかも、兄さんのせいでそこらには	　Plus, thanks to you big brother,
+93787	+		　目に毒な可愛らしいお嬢さんがごろごろ」	　there are eye-candy cute girls everywhere
 
-93788	Chikuri	「これじゃああんまり甲斐がないってもんさ。	　so there's not much reward for them.
-93789	+	　そうだろう？」	　Don't you think?」
+93788	Chikuri		「これじゃああんまり甲斐がないってもんさ。	　so there's not much reward for them.
+93789	+		　そうだろう？」	　Don't you think?」
 
-93790	Chikuri	「特に、ここが前線じゃないたって、	　Especially since this isn't even the front line,
-93791	+	　まだ色を知らない奴だっているんだよ？」	　there are still guys who don't know women yet?」
+93790	Chikuri		「特に、ここが前線じゃないたって、	　Especially since this isn't even the front line,
+93791	+		　まだ色を知らない奴だっているんだよ？」	　there are still guys who don't know women yet?」
 
-93792	Chikuri	「だから、乳久里おねーさんが、	「So big sis Chikuri
-93793	+	　ちょいと一肌脱ごうってわけで、	　decided to roll up her sleeves a bit
-93794	+	　こうして出会い茶屋開いたのさ」	　and opened this meeting teahouse.」
+93792	Chikuri	ウィンク	「だから、乳久里おねーさんが、	「So big sis Chikuri
+93793	+		　ちょいと一肌脱ごうってわけで、	　decided to roll up her sleeves a bit
+93794	+		　こうして出会い茶屋開いたのさ」	　and opened this meeting teahouse.」
 
-93795	Rance	「駄目ーーーーーッ！」	「No way!」
+93795	Rance	基本	「駄目ーーーーーッ！」	「No way!」
 
-93796	Zeth Mage Soldier	「そ、そんなぁ！」	「N-No way!」
+93796	Zeth Mage Soldier	苦戦	「そ、そんなぁ！」	「N-No way!」
 
-93797	Helman Knight	「総統！　ど、どうか考え直しを！」	「Supreme Leader! P-Please reconsider!」
+93797	Helman Knight	基本	「総統！　ど、どうか考え直しを！」	「Supreme Leader! P-Please reconsider!」
 
-93798	Rance	「黙れ黙れ黙れ！　	「Shut up shut up shut up! 」
-93799	+	　この城にいる女は一人残らず俺のもの！」	　Every single woman in this castle is mine!」
+93798	Rance	怒り	「黙れ黙れ黙れ！　	「Shut up shut up shut up! 」
+93799	+		　この城にいる女は一人残らず俺のもの！」	　Every single woman in this castle is mine!」
 
-93800	Chikuri	「あんまり意地悪お言いでないよ」	「Don't be so mean.」
+93800	Chikuri	基本	「あんまり意地悪お言いでないよ」	「Don't be so mean.」
 
-93801	Rance	「んぎゅ」	「Ngyu」
+93801	Rance	だる顔	「んぎゅ」	「Ngyu」
 
-93802	-	ランスは乳久里に鼻をつままれた。	Chikuri pinched Rance's nose.
+93802	-		ランスは乳久里に鼻をつままれた。	Chikuri pinched Rance's nose.
 
-93803	Chikuri	「少しはここの人達が可哀想とは思わないのかい？」	「Don't you feel even a little sorry for the people here?」
+93803	Chikuri	基本	「少しはここの人達が可哀想とは思わないのかい？」	「Don't you feel even a little sorry for the people here?」
 
-93804	Rance	「いーや、駄目だ！	「No way, absolutely not!
-93805	+	　俺は手に入れたい女は力ずくで手に入れる男！」	　I'm the man who takes the women he wants by force!」
+93804	Rance	怒り	「いーや、駄目だ！	「No way, absolutely not!
+93805	+		　俺は手に入れたい女は力ずくで手に入れる男！」	　I'm the man who takes the women he wants by force!」
 
-93806	Rance	「だから！　乳久里も！　今！　すぐ！	「So! Chikuri too! Right now! Immediately!
-93807	+	　この場で無理矢理手に入れる！」	　I'll take you by force right here!」
+93806	Rance	基本	「だから！　乳久里も！　今！　すぐ！	「So! Chikuri too! Right now! Immediately!
+93807	+		　この場で無理矢理手に入れる！」	　I'll take you by force right here!」
 
-93808	Chikuri	「むっ、力ずくは好みじゃないんだけどねぇ」	「Mmm, I don't like force though~」
+93808	Chikuri		「むっ、力ずくは好みじゃないんだけどねぇ」	「Mmm, I don't like force though~」
 
-93809	Chikuri	「はあ……分かったよ……」	「Sigh... Fine...」
+93809	Chikuri		「はあ……分かったよ……」	「Sigh... Fine...」
 
-93810	Rance	「お」	「Oh」
+93810	Rance		「お」	「Oh」
 
-93811	Chikuri	「分かった分かった、観念したよ。	「Fine fine, I give up.
-93812	+	　お兄さんの言う通りにするさ」	　I'll do as you say, big brother.」
+93811	Chikuri		「分かった分かった、観念したよ。	「Fine fine, I give up.
+93812	+		　お兄さんの言う通りにするさ」	　I'll do as you say, big brother.」
 
-93813	Rance	「お、おーっ！	「O-Ohhh!
-93814	+	　がははは！　それでいいのだ！」	　Gahahaha! That's how it should be!」
+93813	Rance		「お、おーっ！	「O-Ohhh!
+93814	+		　がははは！　それでいいのだ！」	　Gahahaha! That's how it should be!」
 
-93815	Chikuri	「ちょいと待ってな。	「Wait a moment.
-93816	+	　身綺麗にしてくるから」	　I'll go freshen up.」
+93815	Chikuri		「ちょいと待ってな。	「Wait a moment.
+93816	+		　身綺麗にしてくるから」	　I'll go freshen up.」
 
-93817	Rance	「うむ、早くしろよ」	「Yeah, hurry up.」
+93817	Rance		「うむ、早くしろよ」	「Yeah, hurry up.」
 
-93818	Rance	「ってわけだ、お前らは諦めろ。	「So that's how it is, you guys give up.
-93819	+	　そうだな、今日中にこんなことは	　Yeah, I'll make her promise
-93820	+	　やめるように約束させるか」	　to stop this by the end of today.」
+93818	Rance	真剣	「ってわけだ、お前らは諦めろ。	「So that's how it is, you guys give up.
+93819	+		　そうだな、今日中にこんなことは	　Yeah, I'll make her promise
+93820	+		　やめるように約束させるか」	　to stop this by the end of today.」
 
-93821	Zeth Mage Soldier	「そ、そんなぁ……！」	「N-No way...!」
+93821	Zeth Mage Soldier	苦戦	「そ、そんなぁ……！」	「N-No way...!」
 
-93822	Helman Knight	「うう、いつかはこうなる気がしたんだ……」	「Ugh, I knew this would happen someday...」
+93822	Helman Knight	基本	「うう、いつかはこうなる気がしたんだ……」	「Ugh, I knew this would happen someday...」
 
-93823	Rance	「ふっふっふっ……」	「Heh heh heh...」
+93823	Rance	エロ顔	「ふっふっふっ……」	「Heh heh heh...」
 
-93824	Rance	「…………」	「............」
+93824	Rance	基本	「…………」	「............」
 
-93825	Rance	「出てこないな……」	「She's not coming out...」
+93825	Rance	だる顔	「出てこないな……」	「She's not coming out...」
 
-93826	Helman Knight	「どうしたんでしょう？」	「What's going on?」
+93826	Helman Knight	基本	「どうしたんでしょう？」	「What's going on?」
 
-93827	Rance	「はっ！？」	「Hah!?」
+93827	Rance	驚き	「はっ！？」	「Hah!?」
 
-93828	-	バーン！	Bam!
-93829	+	室内に飛び込むと中はもぬけの殻だった。	When he burst into the room, it was completely empty.
+93828	-		バーン！	Bam!
+93829	+		室内に飛び込むと中はもぬけの殻だった。	When he burst into the room, it was completely empty.
 
-93830	Rance	「あーーっ、逃げたーー！	「Aaaah, she escaped!
-93831	+	　くぉらー！　乳久里ー！」	　Hey! Chikuri!」
+93830	Rance	怒り	「あーーっ、逃げたーー！	「Aaaah, she escaped!
+93831	+		　くぉらー！　乳久里ー！」	　Hey! Chikuri!」
 
-93832	Chikuri	「あっはは、今頃泡食ってる頃かねぇ！」	「Ahaha, he must be panicking right about now!」
+93832	Chikuri	ウィンク	「あっはは、今頃泡食ってる頃かねぇ！」	「Ahaha, he must be panicking right about now!」
 
-93833	Leazas Red Soldier	「ち、乳久里さん、良かったんですか？」	「C-Chikuri-san, is this okay?」
+93833	Leazas Red Soldier	非武装	「ち、乳久里さん、良かったんですか？」	「C-Chikuri-san, is this okay?」
 
-93834	Chikuri	「なぁーに、別に誰はばかることでもないさ」	「What, it's nothing to worry about.」
+93834	Chikuri	ウィンク	「なぁーに、別に誰はばかることでもないさ」	「What, it's nothing to worry about.」
 
-93835	Chikuri	「楽しいデートの時間に野暮は言いっこなし。	　No being a buzzkill during a fun date.
-93836	+	　さぁさぁ、行こうじゃないの」	　Come on, let's go.」
+93835	Chikuri		「楽しいデートの時間に野暮は言いっこなし。	　No being a buzzkill during a fun date.
+93836	+		　さぁさぁ、行こうじゃないの」	　Come on, let's go.」
 
-93837	-	むぎゅっ。	Mugyu.
-93838	+	乳久里はリーザス兵の腕に抱きついた。	Chikuri hugged the Leazas soldier's arm.
+93837	-		むぎゅっ。	Mugyu.
+93838	+		乳久里はリーザス兵の腕に抱きついた。	Chikuri hugged the Leazas soldier's arm.
 
-93839	Leazas Red Soldier	「は、はいっ！	「Y-Yes!
-93840	+	　せ、精一杯、おもてなしさせて頂きます！」	　I'll entertain you with everything I've got!」
+93839	Leazas Red Soldier	非武装／戦闘	「は、はいっ！	「Y-Yes!
+93840	+		　せ、精一杯、おもてなしさせて頂きます！」	　I'll entertain you with everything I've got!」
 
-93841	Chikuri	「んふふ、そうそう。	「Nfufu, that's right.
-93842	+	　男は素直が一番」	　Men are best when they're honest.」
+93841	Chikuri	ウィンク	「んふふ、そうそう。	「Nfufu, that's right.
+93842	+		　男は素直が一番」	　Men are best when they're honest.」
 
-93843	Rance	「くきーっ！　お前ら全員皆殺しだー！」	「Kukiii! I'll kill all of you!」
+93843	Rance	怒り	「くきーっ！　お前ら全員皆殺しだー！」	「Kukiii! I'll kill all of you!」
 
-93844	Zeth Mage Soldier	「うわああああ！　総統が暴走をー！」	「Uwaaaaa! The Supreme Leader is going berserk!」
+93844	Zeth Mage Soldier	苦戦	「うわああああ！　総統が暴走をー！」	「Uwaaaaa! The Supreme Leader is going berserk!」
 
-93845	Helman Knight	「だ、誰か奥方様を呼んでこい！	「S-Someone call his wife!
-93846	+	　駄目ならご息女をー！」	　If not, call his daughter!」
+93845	Helman Knight	基本	「だ、誰か奥方様を呼んでこい！	「S-Someone call his wife!
+93846	+		　駄目ならご息女をー！」	　If not, call his daughter!」
 
-93847	Rance	「うがあああああああああああ！」	「Ugaaaaaaaaaaaaa!」
+93847	Rance	怒り	「うがあああああああああああ！」	「Ugaaaaaaaaaaaaa!」
 
-93848	Zeth Mage Soldier	「ぎゃー、殺されるー！」	「Gyaa, we're gonna die!」
+93848	Zeth Mage Soldier	基本	「ぎゃー、殺されるー！」	「Gyaa, we're gonna die!」
 
-93849	-	ランスはとってもプンプン怒っていた。	Rance was extremely pissed off.
+93849	-		ランスはとってもプンプン怒っていた。	Rance was extremely pissed off.

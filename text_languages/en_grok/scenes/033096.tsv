@@ -17,273 +17,273 @@
 * Nook 77	ヌーク７７２	Female
 * El Mofus	エール２	Player's choice
 
-201260	-	あなた達が修行を開始して瞬く間に時間が過ぎる。	Time passed in the blink of an eye after you began your training.
+201260	-		あなた達が修行を開始して瞬く間に時間が過ぎる。	Time passed in the blink of an eye after you began your training.
 
-201261	-	ランス城に、皆が集結する。	Everyone gathered at Rance Castle.
+201261	-		ランス城に、皆が集結する。	Everyone gathered at Rance Castle.
 
-201262	-	…………	............
+201262	-		…………	............
 
-201263	-	……	...
+201263	-		……	...
 
-201264	Hunty Kalar	「おっ……」	「Oh...」
+201264	Hunty Kalar	基本	「おっ……」	「Oh...」
 
-201265	Hunty Kalar	「へえ……ふぅん、ほお……」	「Heh... Hmm, ohh...」
+201265	Hunty Kalar		「へえ……ふぅん、ほお……」	「Heh... Hmm, ohh...」
 
-201266	Hunty Kalar	「みんな、随分とたくましくなったね。	「Everyone has become quite strong.
-201267	+	　見違えるようになったよ」	　You've all changed so much.」
+201266	Hunty Kalar		「みんな、随分とたくましくなったね。	「Everyone has become quite strong.
+201267	+		　見違えるようになったよ」	　You've all changed so much.」
 
-201268	Hero Helman	「えへへ、そうかなー」	「Ehehe, you think so?」
+201268	Hero Helman		「えへへ、そうかなー」	「Ehehe, you think so?」
 
-201269	Lelikov Helman	「へへへー！　でっしょー！」	「Hehehe! Right!」
+201269	Lelikov Helman	きゃはは！	「へへへー！　でっしょー！」	「Hehehe! Right!」
 
-201270	-	ランス城の司令部には、	In the command center of Rance Castle,
-201271	+	修行を終えた魔王の子達が勢揃いしていた。	the Demon King's children who finished training were all lined up.
+201270	-		ランス城の司令部には、	In the command center of Rance Castle,
+201271	+		修行を終えた魔王の子達が勢揃いしていた。	the Demon King's children who finished training were all lined up.
 
-201272	Zance Leazas	「ハッ……	「Hah...
-201273	+	　まあ、俺様の足を引っ張らない程度にはなったか」	　Well, at least they won't drag me down.」
+201272	Zance Leazas	微笑み	「ハッ……	「Hah...
+201273	+		　まあ、俺様の足を引っ張らない程度にはなったか」	　Well, at least they won't drag me down.」
 
-201274	Masou Shizuka	「まったく、偉そうね……」	「Honestly, so arrogant...」
+201274	Masou Shizuka	ため息	「まったく、偉そうね……」	「Honestly, so arrogant...」
 
-201275	Kentou Uzume	「ういうい、ウズメも強くなったでござるよー」	「Uiui, Uzume has become stronger too!」
+201275	Kentou Uzume	基本	「ういうい、ウズメも強くなったでござるよー」	「Uiui, Uzume has become stronger too!」
 
-201276	Nagi su Ragarl	「お、偉いぞー。頭ぐりぐりーってしてやる」	「Oh, good job. I'll pat your head.」
+201276	Nagi su Ragarl	笑顔	「お、偉いぞー。頭ぐりぐりーってしてやる」	「Oh, good job. I'll pat your head.」
 
-201277	Kentou Uzume	「にゃあー」	「Nyaa~」
+201277	Kentou Uzume	にょほほ	「にゃあー」	「Nyaa~」
 
-201278	Rocky Bank	「＜エール＞様もとても立派に	「＜エール＞-sama has also become very splendid
-201279	+	　強くなられましただすな」	　and strong.」
+201278	Rocky Bank	楽	「＜エール＞様もとても立派に	「＜エール＞-sama has also become very splendid
+201279	+		　強くなられましただすな」	　and strong.」
 
-201280	Rocky Bank	「うっ……」	「Ugh...」
+201280	Rocky Bank	基本	「うっ……」	「Ugh...」
 
-201281	-	ロッキーがあなたを見ながらぽろりと涙を流した。	Rocky shed a tear while looking at you.
+201281	-		ロッキーがあなたを見ながらぽろりと涙を流した。	Rocky shed a tear while looking at you.
 
-201282	Rocky Bank	「じ、実は最初にあったときは、	「T-to be honest, when we first met,
-201283	+	　正直な話、なんて危なっかしい子なのかと……	　I thought how reckless this child was...
-201284	+	　おら、失礼なことにそんな風に思ってただす……」	　I was rude enough to think that...」
+201282	Rocky Bank	とほほ	「じ、実は最初にあったときは、	「T-to be honest, when we first met,
+201283	+		　正直な話、なんて危なっかしい子なのかと……	　I thought how reckless this child was...
+201284	+		　おら、失礼なことにそんな風に思ってただす……」	　I was rude enough to think that...」
 
-201285	Rocky Bank	「で、でも……」	「B-but...」
+201285	Rocky Bank		「で、でも……」	「B-but...」
 
-201286	Rocky Bank	「そんな＜エール＞様が今ではこんな、こんな……	「That ＜エール＞-sama has now become so, so...
-201287	+	　おおおお、おら、おら……	　Oooooh, I, I...
-201288	+	　涙で前が見えませんだすだ……」	　can't see ahead from the tears...」
+201286	Rocky Bank	男泣き	「そんな＜エール＞様が今ではこんな、こんな……	「That ＜エール＞-sama has now become so, so...
+201287	+		　おおおお、おら、おら……	　Oooooh, I, I...
+201288	+		　涙で前が見えませんだすだ……」	　can't see ahead from the tears...」
 
-201289	Rocky Bank	「＜エール＞様……	「＜エール＞-sama...
-201290	+	　ご立派になられましただすなぁぁぁぁ……」	　You've become so splendid...」
+201289	Rocky Bank		「＜エール＞様……	「＜エール＞-sama...
+201290	+		　ご立派になられましただすなぁぁぁぁ……」	　You've become so splendid...」
 
-201291	-	ロッキーはおよよと泣いていた。	Rocky cried with big tears.
+201291	-		ロッキーはおよよと泣いていた。	Rocky cried with big tears.
 
-201292	Nagata-kun	「ロッキーさん、それみんなに言ってるっすね……」	「Rocky-san, you're saying that to everyone...」
+201292	Nagata-kun	基本	「ロッキーさん、それみんなに言ってるっすね……」	「Rocky-san, you're saying that to everyone...」
 
-201293	Zance Leazas	「そういえば、リセットはどこに行った？」	「By the way, where did Reset go?」
+201293	Zance Leazas		「そういえば、リセットはどこに行った？」	「By the way, where did Reset go?」
 
-201294	Reset Kalar	「たっだいまー」	「I'm baaack~」
+201294	Reset Kalar	口開き	「たっだいまー」	「I'm baaack~」
 
-201295	Sushinu the Gandhi	「あ、お姉ちゃん、お帰りー」	「Ah, big sis, welcome back~」
+201295	Sushinu the Gandhi	外套なし	「あ、お姉ちゃん、お帰りー」	「Ah, big sis, welcome back~」
 
-201296	Beast Tiger	「…………」	「............」
+201296	Beast Tiger	基本	「…………」	「............」
 
-201297	Sushinu the Gandhi	「ひゃあっ！？」	「Hyaa!?」
+201297	Sushinu the Gandhi	外套なし	「ひゃあっ！？」	「Hyaa!?」
 
-201298	Yamamoto Rangi	「結局、タイガー将軍は	「In the end, General Tiger
-201299	+	　リセットにくっついてるんだね」	　is sticking to Reset.」
+201298	Yamamoto Rangi	基本	「結局、タイガー将軍は	「In the end, General Tiger
+201299	+		　リセットにくっついてるんだね」	　is sticking to Reset.」
 
-201300	Sushinu the Gandhi	「た、タイガー将軍は……まだ、その……	「G-General Tiger... is still, um...
-201301	+	　ちょっと慣れないね……」	　a bit hard to get used to...」
+201300	Sushinu the Gandhi	外套なし	「た、タイガー将軍は……まだ、その……	「G-General Tiger... is still, um...
+201301	+		　ちょっと慣れないね……」	　a bit hard to get used to...」
 
-201302	Reset Kalar	「大丈夫、大丈夫。	「It's fine, it's fine.
-201303	+	　危険なことはしないよー」	　I won't do anything dangerous~」
+201302	Reset Kalar	笑顔	「大丈夫、大丈夫。	「It's fine, it's fine.
+201303	+		　危険なことはしないよー」	　I won't do anything dangerous~」
 
-201304	Nagi su Ragarl	「魔獣化に関しては以前に研究したことがあってね、	「I've researched demon beast transformation before,
-201305	+	　タイガーは安定しているから大丈夫だと思う」	　and Tiger seems stable so it should be okay.」
+201304	Nagi su Ragarl	基本	「魔獣化に関しては以前に研究したことがあってね、	「I've researched demon beast transformation before,
+201305	+		　タイガーは安定しているから大丈夫だと思う」	　and Tiger seems stable so it should be okay.」
 
-201306	Nagi su Ragarl	「頭撫でてみる？」	「Want to pet his head?」
+201306	Nagi su Ragarl		「頭撫でてみる？」	「Want to pet his head?」
 
-201307	Sushinu the Gandhi	「う……じゃあ、少しだけ……	「U... then just a little...
-201308	+	　よ、宜しくね、タイガー将軍？」	　N-nice to meet you, General Tiger?」
+201307	Sushinu the Gandhi	外套なし	「う……じゃあ、少しだけ……	「U... then just a little...
+201308	+		　よ、宜しくね、タイガー将軍？」	　N-nice to meet you, General Tiger?」
 
-201309	Beast Tiger	「…………」	「............」
+201309	Beast Tiger	基本	「…………」	「............」
 
-201310	-	なでなで。	Pat pat.
-201311	+	スシヌが頭を撫でるのを	Sushinu gently stroked his head
-201312	+	タイガー将軍は黙って受けていた。	and General Tiger silently accepted it.
+201310	-		なでなで。	Pat pat.
+201311	+		スシヌが頭を撫でるのを	Sushinu gently stroked his head
+201312	+		タイガー将軍は黙って受けていた。	and General Tiger silently accepted it.
 
-201313	Sushinu the Gandhi	「あ……ちょっと、可愛い……かも」	「Ah... he's a bit... cute maybe.」
+201313	Sushinu the Gandhi	外套なし	「あ……ちょっと、可愛い……かも」	「Ah... he's a bit... cute maybe.」
 
-201314	Zance Leazas	「ふーん、大人しいもんじゃねーか」	「Hmm, he's pretty docile.」
+201314	Zance Leazas	基本	「ふーん、大人しいもんじゃねーか」	「Hmm, he's pretty docile.」
 
-201315	Nagata-kun	「あっ、そんな楽しそうなこと	「Ah, hogging all the fun
-201316	+	　独り占めなんてずるい！　俺も俺も！」	　is unfair! Me too, me too!」
+201315	Nagata-kun		「あっ、そんな楽しそうなこと	「Ah, hogging all the fun
+201316	+		　独り占めなんてずるい！　俺も俺も！」	　is unfair! Me too, me too!」
 
-201317	Zance Leazas	「……悪くねーな」	「...Not bad.」
+201317	Zance Leazas		「……悪くねーな」	「...Not bad.」
 
-201318	Yamamoto Rangi	「君達……」	「You guys...」
+201318	Yamamoto Rangi		「君達……」	「You guys...」
 
-201319	Beast Tiger	「…………」	「............」
+201319	Beast Tiger		「…………」	「............」
 
 > male
-201320	-	　	　
-201321	+	　　＜ぷいっ＞	　　＜Pui＞
+201320	-		　	　
+201321	+		　　＜ぷいっ＞	　　＜Pui＞
 
-201322	-	タイガー将軍はそっぽ向いた。	General Tiger turned his head away.
+201322	-		タイガー将軍はそっぽ向いた。	General Tiger turned his head away.
 
-201323	Nagata-kun	「あれ？　リセットさん以外は	「Huh? He won't let anyone but Reset-san
-201324	+	　乗せてくれねぇのかな？」	　ride him?」
+201323	Nagata-kun		「あれ？　リセットさん以外は	「Huh? He won't let anyone but Reset-san
+201324	+		　乗せてくれねぇのかな？」	　ride him?」
 
-201325	Lelikov Helman	「えー、ボクも乗りたいのになー。	「Ehh, I wanted to ride too~.
-201326	+	　ねーねー、乗せて乗せてー」	　Hey hey, let me ride~」
+201325	Lelikov Helman		「えー、ボクも乗りたいのになー。	「Ehh, I wanted to ride too~.
+201326	+		　ねーねー、乗せて乗せてー」	　Hey hey, let me ride~」
 
-201327	Beast Tiger	「…………」	「............」
+201327	Beast Tiger		「…………」	「............」
 
-201328	-	スッ。	Shh.
-201329	+	タイガー将軍は体をかがめて、	General Tiger lowered his body,
-201330	+	レリコフが乗りやすいようにしてあげた。	making it easy for Lelikov Helman to get on.
+201328	-		スッ。	Shh.
+201329	+		タイガー将軍は体をかがめて、	General Tiger lowered his body,
+201330	+		レリコフが乗りやすいようにしてあげた。	making it easy for Lelikov Helman to get on.
 
-201331	Lelikov Helman	「わーい！」	「Yay!」
+201331	Lelikov Helman		「わーい！」	「Yay!」
 
-201332	Zance Leazas	「テメェ！　どうなってんだ！？	「You! What's with that!?
-201333	+	　ただの女好きか！」	　Are you just into girls!」
+201332	Zance Leazas		「テメェ！　どうなってんだ！？	「You! What's with that!?
+201333	+		　ただの女好きか！」	　Are you just into girls!」
 
 > female
-201334	-	スッ。	Shh.
-201335	+	タイガー将軍は体をかがめて、	General Tiger lowered his body,
-201336	+	あなたが乗りやすいようにしてくれた。	making it easy for you to get on.
+201334	-		スッ。	Shh.
+201335	+		タイガー将軍は体をかがめて、	General Tiger lowered his body,
+201336	+		あなたが乗りやすいようにしてくれた。	making it easy for you to get on.
 
-201337	Beast Tiger	「…………」	「............」
+201337	Beast Tiger		「…………」	「............」
 
-201338	-	背に乗った状態でタイガー将軍が立ち上がると、	When General Tiger stood up with you on his back,
-201339	+	あなたの視界はかなり高くなり、	your view became much higher,
-201340	+	バランスを取るのに少しだけ苦労した。	and you struggled a bit to keep balance.
+201338	-		背に乗った状態でタイガー将軍が立ち上がると、	When General Tiger stood up with you on his back,
+201339	+		あなたの視界はかなり高くなり、	your view became much higher,
+201340	+		バランスを取るのに少しだけ苦労した。	and you struggled a bit to keep balance.
 
-201341	Nagata-kun	「うっわ、いーな！　いーな！	「Whoa, so nice! So nice!
-201342	+	　すっげー、楽しそうじゃん！	　Super fun looking!
-201343	+	　俺も乗せて乗せてー！」	　Let me ride too!」
+201341	Nagata-kun		「うっわ、いーな！　いーな！	「Whoa, so nice! So nice!
+201342	+		　すっげー、楽しそうじゃん！	　Super fun looking!
+201343	+		　俺も乗せて乗せてー！」	　Let me ride too!」
 
-201344	Zance Leazas	「おい、とっとと降りろ。	「Hey, get off already.
-201345	+	　んで、俺に代われ」	　Then let me ride.」
+201344	Zance Leazas		「おい、とっとと降りろ。	「Hey, get off already.
+201345	+		　んで、俺に代われ」	　Then let me ride.」
 
-201346	Beast Tiger	「…………」	「............」
+201346	Beast Tiger		「…………」	「............」
 
-201347	Beast Tiger	「ぷいっ」	「Pui.」
+201347	Beast Tiger		「ぷいっ」	「Pui.」
 
-201348	Nagata-kun	「あれっ、そっぽ向かれた！？」	「Huh, he turned away!?」
+201348	Nagata-kun		「あれっ、そっぽ向かれた！？」	「Huh, he turned away!?」
 
-201349	Zance Leazas	「アアン、テメェ、どういう了見だ！？」	「Hey you, what's your problem!?」
+201349	Zance Leazas		「アアン、テメェ、どういう了見だ！？」	「Hey you, what's your problem!?」
 
-201350	Reset Kalar	「あのね、タイガー将軍、	「You see, General Tiger,
-201351	+	　どうやら女の子以外は乗せたくないみたいなの」	　seems to only want girls to ride him.」
+201350	Reset Kalar		「あのね、タイガー将軍、	「You see, General Tiger,
+201351	+		　どうやら女の子以外は乗せたくないみたいなの」	　seems to only want girls to ride him.」
 
-201352	Nagata-kun	「えーっ！？」	「Ehhh!?」
+201352	Nagata-kun		「えーっ！？」	「Ehhh!?」
 
 > end
-201353	Reset Kalar	「あはは……	「Ahaha...
-201354	+	　どうやら若い女の子の言うことしか	　He only seems to listen to young girls...」
-201355	+	　聞かないみたいで……」	
+201353	Reset Kalar	たははー	「あはは……	「Ahaha...
+201354	+		　どうやら若い女の子の言うことしか	　He only seems to listen to young girls...」
+201355	+		　聞かないみたいで……」	
 
-201356	Nagata-kun	「ロリコンかなんかなのかな……？」	「Is he a lolicon or something...?」
+201356	Nagata-kun	基本	「ロリコンかなんかなのかな……？」	「Is he a lolicon or something...?」
 
-201357	Reset Kalar	「あ、うぅん、そうじゃなくて……」	「Ah, no, it's not that...」
+201357	Reset Kalar		「あ、うぅん、そうじゃなくて……」	「Ah, no, it's not that...」
 
-201358	Reset Kalar	「タイガー将軍さんが亡くしたのは、	「What General Tiger lost was
-201359	+	　奥さんと娘さんだから……」	　his wife and daughter...」
+201358	Reset Kalar	真剣	「タイガー将軍さんが亡くしたのは、	「What General Tiger lost was
+201359	+		　奥さんと娘さんだから……」	　his wife and daughter...」
 
-201360	Reset Kalar	「うん……	「Yeah...
-201361	+	　きっとそういうこと、だと思う……」	　I think that's probably why...」
+201360	Reset Kalar		「うん……	「Yeah...
+201361	+		　きっとそういうこと、だと思う……」	　I think that's probably why...」
 
-201362	-	悲しげにまつげを伏せて、	With sad lowered lashes,
-201363	+	リセットがタイガー将軍の体を撫でる。	Reset stroked General Tiger's body.
+201362	-		悲しげにまつげを伏せて、	With sad lowered lashes,
+201363	+		リセットがタイガー将軍の体を撫でる。	Reset stroked General Tiger's body.
 
-201364	Zance Leazas	「いや、関係ねぇ。	「Nah, no relation.
-201365	+	　こいつただの女好きだ」	　He's just a girl lover.」
+201364	Zance Leazas	基本	「いや、関係ねぇ。	「Nah, no relation.
+201365	+		　こいつただの女好きだ」	　He's just a girl lover.」
 
-201366	Reset Kalar	「えー……」	「Ehh...」
+201366	Reset Kalar		「えー……」	「Ehh...」
 
-201367	Zance Leazas	「おう、お前どうなってんだ、ア？」	「Hey, what's with you, huh?」
+201367	Zance Leazas	怒り	「おう、お前どうなってんだ、ア？」	「Hey, what's with you, huh?」
 
-201368	-	げしげし。	Kick kick.
-201369	+	ザンスが蹴るとタイガー将軍は	When Zance kicked him, General Tiger
-201370	+	とても迷惑そうな顔をした。	made a very annoyed face.
+201368	-		げしげし。	Kick kick.
+201369	+		ザンスが蹴るとタイガー将軍は	When Zance kicked him, General Tiger
+201370	+		とても迷惑そうな顔をした。	made a very annoyed face.
 
-201371	Reset Kalar	「もー、ザンスちゃん、やめてったら」	「Geez, Zance-chan, stop that.」
+201371	Reset Kalar	困り	「もー、ザンスちゃん、やめてったら」	「Geez, Zance-chan, stop that.」
 
-201372	Dark Rance	「おっ、お前らはいつも賑やかだな」	「Oh, you guys are always so lively.」
+201372	Dark Rance	安心	「おっ、お前らはいつも賑やかだな」	「Oh, you guys are always so lively.」
 
-201373	Maria Custard	「いーなー、こっちのチームは大勢で」	「Nice, this team has so many people.」
+201373	Maria Custard	笑顔	「いーなー、こっちのチームは大勢で」	「Nice, this team has so many people.」
 
-201374	Reset Kalar	「あ、お兄ちゃん！　それにマリアさんも！」	「Ah, big brother! And Maria-san too!」
+201374	Reset Kalar	基本	「あ、お兄ちゃん！　それにマリアさんも！」	「Ah, big brother! And Maria-san too!」
 
-201375	Dark Rance	「おっ、お前らはいつも賑やかだな」	「Oh, you guys are always so lively.」
+201375	Dark Rance	安心	「おっ、お前らはいつも賑やかだな」	「Oh, you guys are always so lively.」
 
-201376	Nook 77	「廊下にまで声が響いてたわよ」	「Your voices echoed all the way down the hallway.」
+201376	Nook 77	基本	「廊下にまで声が響いてたわよ」	「Your voices echoed all the way down the hallway.」
 
-201377	Reset Kalar	「あ、お兄ちゃん！　それにヌークちゃんも！」	「Ah, big brother! And Nuke-chan too!」
+201377	Reset Kalar		「あ、お兄ちゃん！　それにヌークちゃんも！」	「Ah, big brother! And Nuke-chan too!」
 
-201378	Zance Leazas	「アア？　兄貴、今までどこ行ってたんだよ」	「Ah? Bro, where have you been?」
+201378	Zance Leazas		「アア？　兄貴、今までどこ行ってたんだよ」	「Ah? Bro, where have you been?」
 
-201379	Dark Rance	「野暮用だよ」	「Just some errands.」
+201379	Dark Rance		「野暮用だよ」	「Just some errands.」
 
-201380	Dark Rance	「魔王との決戦の時に	「In case Neplacus interferes during the battle with the Demon King,
-201381	+	　ネプラカスが邪魔しに来たら面倒だからな……	　it would be troublesome...
-201382	+	　あいつを探し出して決着を……と思ったが」	　I tried to find him and settle it, but」
+201380	Dark Rance		「魔王との決戦の時に	「In case Neplacus interferes during the battle with the Demon King,
+201381	+		　ネプラカスが邪魔しに来たら面倒だからな……	　it would be troublesome...
+201382	+		　あいつを探し出して決着を……と思ったが」	　I tried to find him and settle it, but」
 
-201383	Yamamoto Rangi	「見つからなかったですか」	「You couldn't find him?」
+201383	Yamamoto Rangi		「見つからなかったですか」	「You couldn't find him?」
 
-201384	Dark Rance	「ああ。	「Yeah.
-201385	+	　どうやら悪魔界に身を潜めているようだな……」	　Seems he's hiding in the Demon World...」
+201384	Dark Rance		「ああ。	「Yeah.
+201385	+		　どうやら悪魔界に身を潜めているようだな……」	　Seems he's hiding in the Demon World...」
 
-201386	Dark Rance	「ふん、まあいいさ」	「Hmph, whatever.」
+201386	Dark Rance		「ふん、まあいいさ」	「Hmph, whatever.」
 
-201387	Dark Rance	「それより＜エール＞、ちょっといいか」	「Anyway ＜エール＞, got a minute?」
+201387	Dark Rance		「それより＜エール＞、ちょっといいか」	「Anyway ＜エール＞, got a minute?」
 
-201388	Dark Rance	「最後に滑り込むことになっちまったし……	「I ended up joining at the last minute...
-201389	+	　改めて言うのも、ちとバツが悪いんだがな」	　It's a bit awkward to say it now, but」
+201388	Dark Rance		「最後に滑り込むことになっちまったし……	「I ended up joining at the last minute...
+201389	+		　改めて言うのも、ちとバツが悪いんだがな」	　It's a bit awkward to say it now, but」
 
-201390	Dark Rance	「俺も仲間に入れてもらって構わないか？」	「Can I join you as a comrade?」
+201390	Dark Rance		「俺も仲間に入れてもらって構わないか？」	「Can I join you as a comrade?」
 
-201391	Nagata-kun	「えっ、それって！？」	「Eh, you mean!?」
+201391	Nagata-kun		「えっ、それって！？」	「Eh, you mean!?」
 
-201392	Dark Rance	「ああ、魔王の子の一人として、	「Yes, as one of the Demon King's children,
-201393	+	　俺も親父と戦わせて欲しい」	　I want to fight my old man too.」
+201392	Dark Rance		「ああ、魔王の子の一人として、	「Yes, as one of the Demon King's children,
+201393	+		　俺も親父と戦わせて欲しい」	　I want to fight my old man too.」
 
-201394	Nagata-kun	「おっ、おおおおおお！」	「O-ohhhhh!」
+201394	Nagata-kun		「おっ、おおおおおお！」	「O-ohhhhh!」
 
-201395	El Mofus	「…………。」	「............」
-201396	Dark Rance	「ははっ、ああ、宜しく」	「Haha, yeah, nice to meet you.」
+201395	El Mofus		「…………。」	「............」
+201396	Dark Rance	安心	「ははっ、ああ、宜しく」	「Haha, yeah, nice to meet you.」
 
-201397	Dark Rance	「長男として、	「As the eldest son,
-201398	+	　足を引っ張らないように頑張らないとな」	　I have to make sure I don't drag you down.」
+201397	Dark Rance		「長男として、	「As the eldest son,
+201398	+		　足を引っ張らないように頑張らないとな」	　I have to make sure I don't drag you down.」
 
-201399	-	ぽんぽん。	Pat pat.
-201400	+	あなたの頭が、ダークランスに	Dark Rance gently patted
-201401	+	優しく撫でられた。	your head.
+201399	-		ぽんぽん。	Pat pat.
+201400	+		あなたの頭が、ダークランスに	Dark Rance gently patted
+201401	+		優しく撫でられた。	your head.
 
-201402	Dark Rance	「ええっ！？　だ、駄目なのか！？」	「Ehh!? I-is it no good!?」
+201402	Dark Rance	驚き	「ええっ！？　だ、駄目なのか！？」	「Ehh!? I-is it no good!?」
 
-201403	Nagata-kun	「アホーっ！	「Idiot!
-201404	+	　いいに決まってるでしょうが！」	　Of course it's fine!」
+201403	Nagata-kun	基本	「アホーっ！	「Idiot!
+201404	+		　いいに決まってるでしょうが！」	　Of course it's fine!」
 
-201405	-	あなたは長田君に怒られてしまった。	You got scolded by Nagata-kun.
+201405	-		あなたは長田君に怒られてしまった。	You got scolded by Nagata-kun.
 
-201406	Dark Rance	「びっくりした……」	「That surprised me...」
+201406	Dark Rance	驚き	「びっくりした……」	「That surprised me...」
 
-201407	-	こうして――	And so――
+201407	-		こうして――	And so――
 
-201408	-	魔王の子、最後の一人、	The last of the Demon King's children,
-201409	+	長男であるダークランスがあなた達の仲間になった。	the eldest son Dark Rance, joined your group.
+201408	-		魔王の子、最後の一人、	The last of the Demon King's children,
+201409	+		長男であるダークランスがあなた達の仲間になった。	the eldest son Dark Rance, joined your group.
 
-201410	Nagata-kun	「へへへ……」	「Hehehe...」
+201410	Nagata-kun	基本	「へへへ……」	「Hehehe...」
 
-201411	Nagata-kun	「俺達、ついにここまで来たんだな……」	「We've finally come this far...」
+201411	Nagata-kun		「俺達、ついにここまで来たんだな……」	「We've finally come this far...」
 
-201412	Nagata-kun	「よーし、＜エール＞！	「Alright, ＜エール＞!
-201413	+	　もう憂いは一つもない！	　No more worries!
-201414	+	　いっちょやってやろうぜ！」	　Let's do this!」
+201412	Nagata-kun		「よーし、＜エール＞！	「Alright, ＜エール＞!
+201413	+		　もう憂いは一つもない！	　No more worries!
+201414	+		　いっちょやってやろうぜ！」	　Let's do this!」
 
-201415	-	あなたは長田君の言葉に頷く。	You nodded at Nagata-kun's words.
+201415	-		あなたは長田君の言葉に頷く。	You nodded at Nagata-kun's words.
 
-201416	-	準備は整い、	Preparations were complete,
-201417	+	後はアメージング城に攻め込むだけだった。	all that remained was to attack Amazing Castle.
+201416	-		準備は整い、	Preparations were complete,
+201417	+		後はアメージング城に攻め込むだけだった。	all that remained was to attack Amazing Castle.
 
-201418	Zance Leazas	「って、こら。	「Hey, wait.
-201419	+	　なんでよりによってテメェが仕切る」	　Why the hell are you the one in charge?」
+201418	Zance Leazas	不満	「って、こら。	「Hey, wait.
+201419	+		　なんでよりによってテメェが仕切る」	　Why the hell are you the one in charge?」
 
-201420	Nagata-kun	「あんっ、踏むなよぉ……」	「Ouch, don't step on me...」
+201420	Nagata-kun	基本	「あんっ、踏むなよぉ……」	「Ouch, don't step on me...」

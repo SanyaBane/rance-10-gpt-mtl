@@ -6,53 +6,53 @@
 * Hubert Lipton	ヒューバート	Male
 * Chaos	カオス	Male
 
-150988	-	ランスが城内を進むと、	As Rance advanced through the castle,
-150989	+	不幸な娘の一人として	Dark Heron, who had infiltrated as one of the unhappy girls,
-150990	+	侵入させていた闇鷺が出迎えた。	came out to greet them.
+150988	-		ランスが城内を進むと、	As Rance advanced through the castle,
+150989	+		不幸な娘の一人として	Dark Heron, who had infiltrated as one of the unhappy girls,
+150990	+		侵入させていた闇鷺が出迎えた。	came out to greet them.
 
-150991	Dark Heron	「お待ちしておりました、皆様」	「We've been waiting, everyone.」
+150991	Dark Heron	基本	「お待ちしておりました、皆様」	「We've been waiting, everyone.」
 
-150992	-	ランスが答えるより前に、	Before Rance could answer,
-150993	+	フレイアが前に出て聞く。	Freya stepped forward and asked.
+150992	-		ランスが答えるより前に、	Before Rance could answer,
+150993	+		フレイアが前に出て聞く。	Freya stepped forward and asked.
 
-150994	Freya Idun	「――ご苦労様、闇鷺。首尾は？」	「--Good work, Dark Heron. How did it go?」
+150994	Freya Idun		「――ご苦労様、闇鷺。首尾は？」	「--Good work, Dark Heron. How did it go?」
 
-150995	Dark Heron	「城内を迷路にする結界、	「The barrier that turns the castle into a maze,
-150996	+	　ガーディアンの起動スイッチ、	　the guardian activation switches,
-150997	+	　城内に配置されたる壷、全て撤去済み」	　and all the jars placed in the castle have been removed.」
+150995	Dark Heron		「城内を迷路にする結界、	「The barrier that turns the castle into a maze,
+150996	+		　ガーディアンの起動スイッチ、	　the guardian activation switches,
+150997	+		　城内に配置されたる壷、全て撤去済み」	　and all the jars placed in the castle have been removed.」
 
-150998	Dark Heron	「もちろん、使徒も全員眠らせています」	「Of course, all the apostles are asleep too.」
+150998	Dark Heron		「もちろん、使徒も全員眠らせています」	「Of course, all the apostles are asleep too.」
 
-150999	Rance	「ほう、なら無駄に戦わんで済むってわけか」	「Oh, so we can avoid unnecessary fights.」
+150999	Rance		「ほう、なら無駄に戦わんで済むってわけか」	「Oh, so we can avoid unnecessary fights.」
 
-151000	Freya Idun	「ん、よくやってくれたわ。じゃあ次は、	「Mm, you did well. Now next,
-151001	+	　ケッセルリンクの部屋までの案内を」	　guide us to Kesselring's room.」
+151000	Freya Idun		「ん、よくやってくれたわ。じゃあ次は、	「Mm, you did well. Now next,
+151001	+		　ケッセルリンクの部屋までの案内を」	　guide us to Kesselring's room.」
 
-151002	Dark Heron	「はっ。	「Yes.
-151003	+	　さあ、どうぞこちらです」	　This way please.」
+151002	Dark Heron		「はっ。	「Yes.
+151003	+		　さあ、どうぞこちらです」	　This way please.」
 
-151004	Rance	「がははは、なんか気分がいいぞ」	「Gahahaha, I'm feeling pretty good.」
+151004	Rance		「がははは、なんか気分がいいぞ」	「Gahahaha, I'm feeling pretty good.」
 
-151005	Sill Plain	「それにしても……	「Even so...
-151006	+	　これだけ女の子がいると、壮観ですね……」	　Having this many girls around is quite a sight...」
+151005	Sill Plain	きょとん	「それにしても……	「Even so...
+151006	+		　これだけ女の子がいると、壮観ですね……」	　Having this many girls around is quite a sight...」
 
-151007	Rance	「うむ、全員でないにしろ、	「Yeah, not all of them, but
-151008	+	　この中の八割は不幸な身の上の娘らしいな」	　about eighty percent of them seem to be girls with unfortunate circumstances.」
+151007	Rance	基本	「うむ、全員でないにしろ、	「Yeah, not all of them, but
+151008	+		　この中の八割は不幸な身の上の娘らしいな」	　about eighty percent of them seem to be girls with unfortunate circumstances.」
 
-151009	Rance	「ひどい国だな、ヘルマン」	「What a terrible country, Helman.」
+151009	Rance		「ひどい国だな、ヘルマン」	「What a terrible country, Helman.」
 
-151010	Hubert Lipton	「……返す言葉もない」	「...I have no words to reply.」
+151010	Hubert Lipton		「……返す言葉もない」	「...I have no words to reply.」
 
-151011	Chaos	「さーて、心の友。	「Now now, my soul friend.
-151012	+	　冗談はそれくらいでよしこちゃん」	　That's enough joking around.」
+151011	Chaos		「さーて、心の友。	「Now now, my soul friend.
+151012	+		　冗談はそれくらいでよしこちゃん」	　That's enough joking around.」
 
-151013	Rance	「なんだと？	「What?
-151014	+	　後は寝てるケッセルリンクを殺すだけ。	　All that's left is to kill the sleeping Kesselring.
-151015	+	　ガキの使いにだって出来る仕事だろうが」	　Even a kid could do that job.」
+151013	Rance		「なんだと？	「What?
+151014	+		　後は寝てるケッセルリンクを殺すだけ。	　All that's left is to kill the sleeping Kesselring.
+151015	+		　ガキの使いにだって出来る仕事だろうが」	　Even a kid could do that job.」
 
-151016	Chaos	「いや、それがのう、	「Well, about that,
-151017	+	　儂は気配で感じるから分かる」	　I can tell from his presence.」
+151016	Chaos		「いや、それがのう、	「Well, about that,
+151017	+		　儂は気配で感じるから分かる」	　I can tell from his presence.」
 
-151018	Chaos	「あいつ――起きてるぞ」	「That guy―― he's awake.」
+151018	Chaos	真剣	「あいつ――起きてるぞ」	「That guy―― he's awake.」
 
-151019	Rance	「なに！？」	「What!?」
+151019	Rance	怒り	「なに！？」	「What!?」

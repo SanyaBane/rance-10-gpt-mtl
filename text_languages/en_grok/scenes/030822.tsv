@@ -4,76 +4,76 @@
 * Yamada Chizuko	千鶴子	Female
 * Rance	ランス	Male
 
-32921	Magic the Gandhi	「うん……よし。国土の回復は順調ね。	「Yes... good. National recovery is going well.
-32922	+	　国内の被害は長い目で見て復興しないと……」	　We need to take a long view for domestic recovery......
+32921	Magic the Gandhi	基本	「うん……よし。国土の回復は順調ね。	「Yes... good. National recovery is going well.
+32922	+		　国内の被害は長い目で見て復興しないと……」	　We need to take a long view for domestic recovery......
 
-32923	Zeth Mage Soldier	「お疲れ様です、陛下」	「Good work, Your Majesty.」
+32923	Zeth Mage Soldier		「お疲れ様です、陛下」	「Good work, Your Majesty.」
 
-32924	Magic the Gandhi	「あー、そうね。	「Ah, yes.
-32925	+	　ようやく、少し楽になってきたかな。	　Finally, things are getting a bit easier.
-32926	+	　もっとも…………」	　However......
+32924	Magic the Gandhi	目閉じ	「あー、そうね。	「Ah, yes.
+32925	+		　ようやく、少し楽になってきたかな。	　Finally, things are getting a bit easier.
+32926	+		　もっとも…………」	　However......
 
-32927	Yamada Chizuko	「ダム再建工事の計画書はこれ！？	「This is the dam reconstruction plan!?
-32928	+	　んー、石材の質、ちょっと再確認して！	　Hmm, recheck the quality of the stone materials!
-32929	+	　想定の数字が曖昧すぎるわ」	　The estimated numbers are too vague.
+32927	Yamada Chizuko	基本	「ダム再建工事の計画書はこれ！？	「This is the dam reconstruction plan!?
+32928	+		　んー、石材の質、ちょっと再確認して！	　Hmm, recheck the quality of the stone materials!
+32929	+		　想定の数字が曖昧すぎるわ」	　The estimated numbers are too vague.
 
-32930	Yamada Chizuko	「医療費の国家臨時負担の計画案は！？	「What about the national temporary medical expense burden plan!?
-32931	+	　…………ん、基本はこれで良し。	　......Nn, this is basically fine.
-32932	+	　順次、重傷者から優先する旨、足しといて！」	　Add that severely injured are prioritized first!
+32930	Yamada Chizuko		「医療費の国家臨時負担の計画案は！？	「What about the national temporary medical expense burden plan!?
+32931	+		　…………ん、基本はこれで良し。	　......Nn, this is basically fine.
+32932	+		　順次、重傷者から優先する旨、足しといて！」	　Add that severely injured are prioritized first!
 
-32933	Yamada Chizuko	「税制改革案と臨時登用…………って、何これ。	「Tax reform proposal and temporary appointments...... wait, what is this.
-32934	+	　提出者の身辺、ちょっと洗っといて。	　Check the submitter's background a bit.
-32935	+	　旧貴族派の人間とか居そうだわ」	　Looks like there might be old noble faction people.
+32933	Yamada Chizuko		「税制改革案と臨時登用…………って、何これ。	「Tax reform proposal and temporary appointments...... wait, what is this.
+32934	+		　提出者の身辺、ちょっと洗っといて。	　Check the submitter's background a bit.
+32935	+		　旧貴族派の人間とか居そうだわ」	　Looks like there might be old noble faction people.
 
-32936	Yamada Chizuko	「アニスがまたどっか行ったーーー！？	「Anise went somewhere againー!?
-32937	+	　後で私が行くから、何とか居場所だけ特定して！」	　I'll go later so just find out where she is!」
+32936	Yamada Chizuko	コラー	「アニスがまたどっか行ったーーー！？	「Anise went somewhere againー!?
+32937	+		　後で私が行くから、何とか居場所だけ特定して！」	　I'll go later so just find out where she is!」
 
-32938	Magic the Gandhi	「……戦況がやばい時より	「...It's busier than when the war situation was critical,
-32939	+	　忙しくなってる気がするわ、千鶴子……」	　Chizuko......」
+32938	Magic the Gandhi	思考	「……戦況がやばい時より	「...It's busier than when the war situation was critical,
+32939	+		　忙しくなってる気がするわ、千鶴子……」	　Chizuko......」
 
-32940	Zeth Mage Soldier	「内政関連は情報魔法が不可欠ですからね……」	「Information magic is essential for domestic affairs......」
+32940	Zeth Mage Soldier	基本	「内政関連は情報魔法が不可欠ですからね……」	「Information magic is essential for domestic affairs......」
 
-32941	Magic the Gandhi	「こっちに回せるものは回して貰ってるんだけど……	「We're getting what we can redirected here but......
-32942	+	　チョチョマンさんもフル回転中だし……」	　Chochoman-san is also working at full capacity......
+32941	Magic the Gandhi		「こっちに回せるものは回して貰ってるんだけど……	「We're getting what we can redirected here but......
+32942	+		　チョチョマンさんもフル回転中だし……」	　Chochoman-san is also working at full capacity......
 
-32943	Zeth Mage Soldier	「こっちは忙しいんですが……	「We're busy here too but......
-32944	+	　こういう状態だと、市民に不満が出るかもですね。	　In this state citizens might get dissatisfied.
-32945	+	　どうしても、手が回りきらなくて……」	　We just can't cover everything......
+32943	Zeth Mage Soldier		「こっちは忙しいんですが……	「We're busy here too but......
+32944	+		　こういう状態だと、市民に不満が出るかもですね。	　In this state citizens might get dissatisfied.
+32945	+		　どうしても、手が回りきらなくて……」	　We just can't cover everything......
 
-32946	Magic the Gandhi	「クレーム対応で何かの策を打つと、	「If we take measures for complaints,
-32947	+	　余計に諸々遅れちゃうんだけどなぁ……」	　it will delay everything else even more......
+32946	Magic the Gandhi	思考	「クレーム対応で何かの策を打つと、	「If we take measures for complaints,
+32947	+		　余計に諸々遅れちゃうんだけどなぁ……」	　it will delay everything else even more......
 
-32948	Rance	「ふーん、なんか大変だな」	「Hmm, sounds tough.」
+32948	Rance	基本	「ふーん、なんか大変だな」	「Hmm, sounds tough.」
 
-32949	Magic the Gandhi	「ひゃっ……きゃあぁぁっ！？」	「Hya... Kyaaaa!?」
+32949	Magic the Gandhi	驚き	「ひゃっ……きゃあぁぁっ！？」	「Hya... Kyaaaa!?」
 
-32950	Magic the Gandhi	「何っ……て、ランス！？	「What the... Rance!?
-32951	+	　いきなりどこ触ってんのよっ！」	　Where are you suddenly touching!」
+32950	Magic the Gandhi	うがー	「何っ……て、ランス！？	「What the... Rance!?
+32951	+		　いきなりどこ触ってんのよっ！」	　Where are you suddenly touching!」
 
-32952	Rance	「ちょっと尻を撫でたくらいだろうが。	「I just stroked your ass a bit.
-32953	+	　がははははは」	　Gahahahaha
+32952	Rance	笑顔	「ちょっと尻を撫でたくらいだろうが。	「I just stroked your ass a bit.
+32953	+		　がははははは」	　Gahahahaha
 
-32954	Magic the Gandhi	「…………何しに来たのよ。	「............What did you come for.
-32955	+	　今、見ての通り忙しいんだけど」	　As you can see, I'm busy right now.」
+32954	Magic the Gandhi	思考	「…………何しに来たのよ。	「............What did you come for.
+32955	+		　今、見ての通り忙しいんだけど」	　As you can see, I'm busy right now.」
 
-32956	Rance	「余裕のない奴め。	「No room to spare, huh.
-32957	+	　せっかく魔軍を蹴散らしに来てやったのに」	　I came all this way to scatter the Monster Army
+32956	Rance	基本	「余裕のない奴め。	「No room to spare, huh.
+32957	+		　せっかく魔軍を蹴散らしに来てやったのに」	　I came all this way to scatter the Monster Army
 
-32958	Magic the Gandhi	「魔軍を？　でももう、ゼスにはランスがいないと	「The Monster Army? But in Zeth there aren't any
-32959	+	　倒せないようなのはいないわよ。	　that can't be defeated without Rance.
-32960	+	　魔人も大将軍も……」	　Fiends and Great Generals are already gone......
+32958	Magic the Gandhi		「魔軍を？　でももう、ゼスにはランスがいないと	「The Monster Army? But in Zeth there aren't any
+32959	+		　倒せないようなのはいないわよ。	　that can't be defeated without Rance.
+32960	+		　魔人も大将軍も……」	　Fiends and Great Generals are already gone......
 
-32961	Rance	「逃げ遅れたヤツとかいるだろう。	「There should be some that escaped late.
-32962	+	　気分転換に経験値稼ぎだ」	　It's experience farming for a change of pace.」
+32961	Rance		「逃げ遅れたヤツとかいるだろう。	「There should be some that escaped late.
+32962	+		　気分転換に経験値稼ぎだ」	　It's experience farming for a change of pace.」
 
-32963	Magic the Gandhi	「それは……うん、助かる、けど……	「That... yeah, it helps, but......
-32964	+	　あ。待てよ……そっか。私も行くわ」	　Ah. Wait... right. I'll go too.」
+32963	Magic the Gandhi	思考	「それは……うん、助かる、けど……	「That... yeah, it helps, but......
+32964	+		　あ。待てよ……そっか。私も行くわ」	　Ah. Wait... right. I'll go too.」
 
-32965	Rance	「あん？　お前、仕事放り出してか？」	「Huh? You're abandoning your work?」
+32965	Rance	真剣	「あん？　お前、仕事放り出してか？」	「Huh? You're abandoning your work?」
 
-32966	Magic the Gandhi	「こっちの仕事の方がたぶん効果的だわ。	「This will probably be more effective.
-32967	+	　総統と一緒に、魔軍の撃退ってね。	　Repelling the Monster Army together with the Supreme Leader.
-32968	+	　国民への宣伝材料になるわ」	　It'll be good propaganda for the citizens.」
+32966	Magic the Gandhi	基本	「こっちの仕事の方がたぶん効果的だわ。	「This will probably be more effective.
+32967	+		　総統と一緒に、魔軍の撃退ってね。	　Repelling the Monster Army together with the Supreme Leader.
+32968	+		　国民への宣伝材料になるわ」	　It'll be good propaganda for the citizens.」
 
-32969	Rance	「ふーん、まあよかろう。	「Hmm, fine then.
-32970	+	　では派手にいくぞ。がははははは！」	　Let's do it flashy. Gahahahahaha!」
+32969	Rance	笑顔	「ふーん、まあよかろう。	「Hmm, fine then.
+32970	+		　では派手にいくぞ。がははははは！」	　Let's do it flashy. Gahahahahaha!」

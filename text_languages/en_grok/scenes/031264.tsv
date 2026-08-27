@@ -8,89 +8,89 @@
 * Nagi su Ragarl	子供ナギ	Female
 * Satella	サテラ	Female
 
-63602	Rance	「がふがふ、ずばば……んぐ、ごくん……」	「Gafu gafu, zubaba... ngu, gulp...」
+63602	Rance	怒り	「がふがふ、ずばば……んぐ、ごくん……」	「Gafu gafu, zubaba... ngu, gulp...」
 
-63603	Maria Custard	「はー……ん〜、おいし……♪」	「Haa... Mmm~, delicious...♪」
+63603	Maria Custard	笑顔	「はー……ん〜、おいし……♪」	「Haa... Mmm~, delicious...♪」
 
-63604	-	郊外のJAPAN風の茶店で、	At a Japanese-style teahouse in the suburbs,
-63605	+	ランス達はのんびりとくつろいでいた。	Rance and the others were relaxing leisurely.
+63604	-		郊外のJAPAN風の茶店で、	At a Japanese-style teahouse in the suburbs,
+63605	+		ランス達はのんびりとくつろいでいた。	Rance and the others were relaxing leisurely.
 
-63606	Rance	「うむ。団子はイマイチだが、	「Yeah. The dango is so-so,
-63607	+	　確かにぜんざいは美味いな」	　but the zenzai is pretty good.」
+63606	Rance	真剣	「うむ。団子はイマイチだが、	「Yeah. The dango is so-so,
+63607	+		　確かにぜんざいは美味いな」	　but the zenzai is pretty good.」
 
-63608	Copandon Dott	「団子もイケると思うで？	「I think the dango is good too?
-63609	+	　この値段でこれだけ食わす店はあんまないわ」	　You don't find shops serving this much for the price often.」
+63608	Copandon Dott	基本	「団子もイケると思うで？	「I think the dango is good too?
+63609	+		　この値段でこれだけ食わす店はあんまないわ」	　You don't find shops serving this much for the price often.」
 
-63610	Rance	「ふん。まぁまぁ70点てとこだ。	「Hmph. I'd give it a 70.
-63611	+	　俺様の舌は安っぽくないのだ」	　My tongue isn't cheap.」
+63610	Rance		「ふん。まぁまぁ70点てとこだ。	「Hmph. I'd give it a 70.
+63611	+		　俺様の舌は安っぽくないのだ」	　My tongue isn't cheap.」
 
-63612	Maria Custard	「美味しいと思うけどなー。	「I think it's delicious though.
-63613	+	　んー、食べ過ぎちゃう」	　Mmm, I'm eating too much.」
+63612	Maria Custard	笑顔	「美味しいと思うけどなー。	「I think it's delicious though.
+63613	+		　んー、食べ過ぎちゃう」	　Mmm, I'm eating too much.」
 
-63614	Masou Shizuka	「マリア……ダイエットしてなかったっけ」	「Maria... weren't you on a diet?」
+63614	Masou Shizuka	基本	「マリア……ダイエットしてなかったっけ」	「Maria... weren't you on a diet?」
 
-63615	Maria Custard	「だっておいしいんだもん。	「But it's so good.
-63616	+	　このところ、あんまりこういう時間、なかったし」	　We haven't had much time like this lately.」
+63615	Maria Custard	泣き	「だっておいしいんだもん。	「But it's so good.
+63616	+		　このところ、あんまりこういう時間、なかったし」	　We haven't had much time like this lately.」
 
-63617	Rance	「ガリガリになる必要もないが、	「No need to get super skinny,
-63618	+	　ブクブクにもなるなよ。俺が困る」	　but don't get chubby either. I'd be troubled.」
+63617	Rance	だる顔	「ガリガリになる必要もないが、	「No need to get super skinny,
+63618	+		　ブクブクにもなるなよ。俺が困る」	　but don't get chubby either. I'd be troubled.」
 
-63619	Maria Custard	「なんでランスが困るのよ。	「Why would you be troubled?
-63620	+	　大丈夫ですよーだ」	　I'll be fine.」
+63619	Maria Custard	あかんわ	「なんでランスが困るのよ。	「Why would you be troubled?
+63620	+		　大丈夫ですよーだ」	　I'll be fine.」
 
-63621	Rance	「しかし…………」	「However............
+63621	Rance	真剣	「しかし…………」	「However............
 
-63622	Rance	「なんで貴様らがいるのだ」	「Why are you guys here?」
+63622	Rance	だる顔	「なんで貴様らがいるのだ」	「Why are you guys here?」
 
-63623	Miracle Tor	「異な事を。	「What a strange thing to say.
-63624	+	　余が異星の者相手に見聞を広めている所に	　I was broadening my knowledge with aliens,
-63625	+	　お前達が乱入してきただけだ」	　and you all barged in.」
+63623	Miracle Tor	目閉じ	「異な事を。	「What a strange thing to say.
+63624	+		　余が異星の者相手に見聞を広めている所に	　I was broadening my knowledge with aliens,
+63625	+		　お前達が乱入してきただけだ」	　and you all barged in.」
 
-63626	Miracle Tor	「同席を許す余の寛大さを、光栄に思うがいい」	「You should be honored by my generosity in allowing you to sit with me.」
+63626	Miracle Tor		「同席を許す余の寛大さを、光栄に思うがいい」	「You should be honored by my generosity in allowing you to sit with me.」
 
-63627	Megawas Horus	「そうよう。お茶してたの。	「That's right. We were having tea.
-63628	+	　女の子はみんな、甘い物の虜なんだから！　ﾇﾇﾇ」	　All girls are slaves to sweets! Nunu.」
+63627	Megawas Horus	基本	「そうよう。お茶してたの。	「That's right. We were having tea.
+63628	+		　女の子はみんな、甘い物の虜なんだから！　ﾇﾇﾇ」	　All girls are slaves to sweets! Nunu.」
 
-63629	Rance	「……まあ、好きにしろ」	「...Do whatever you want.」
+63629	Rance	だる顔	「……まあ、好きにしろ」	「...Do whatever you want.」
 
-63630	Masou Shizuka	「ほら、口の周り、あんこ付いてる」	「Look, you've got red bean paste around your mouth.」
+63630	Masou Shizuka	基本	「ほら、口の周り、あんこ付いてる」	「Look, you've got red bean paste around your mouth.」
 
-63631	Nagi su Ragarl	「んぐ、はぐ……んん、ありがと、お姉様」	「Ngu, hagu... Nn, thanks, big sis.」
+63631	Nagi su Ragarl		「んぐ、はぐ……んん、ありがと、お姉様」	「Ngu, hagu... Nn, thanks, big sis.」
 
-63632	Rance	「相っ変わらず、仲のいい……」	「As close as ever...」
+63632	Rance	だる顔	「相っ変わらず、仲のいい……」	「As close as ever...」
 
-63633	Masou Shizuka	「何。なんか文句でも……って、ランス？	「What. Got a complaint... Wait, Rance?
-63634	+	　口元。あんたも何か付いてるわよ」	　Your mouth. You've got something too.」
+63633	Masou Shizuka	基本	「何。なんか文句でも……って、ランス？	「What. Got a complaint... Wait, Rance?
+63634	+		　口元。あんたも何か付いてるわよ」	　Your mouth. You've got something too.」
 
-63635	Rance	「あ？　そうなのか。	「Ah? Really.
-63636	+	　ほれ、俺のも拭ってくれ。	　Here, wipe mine too.
-63637	+	　舐めてもいいぞ」	　You can lick it if you want.」
+63635	Rance		「あ？　そうなのか。	「Ah? Really.
+63636	+		　ほれ、俺のも拭ってくれ。	　Here, wipe mine too.
+63637	+		　舐めてもいいぞ」	　You can lick it if you want.」
 
-63638	Masou Shizuka	「ぜっっっっっっっったい嫌。	「Absolutely not.
-63639	+	　子供じゃあるまいし……何よ、その赤いの」	　I'm not a kid... What's that red stuff?」
+63638	Masou Shizuka	怒り	「ぜっっっっっっっったい嫌。	「Absolutely not.
+63639	+		　子供じゃあるまいし……何よ、その赤いの」	　I'm not a kid... What's that red stuff?」
 
-63640	Rance	「ちっ……んむっ、っと……取れたか？」	「Tch... Nmu... Got it?」
+63640	Rance	真剣	「ちっ……んむっ、っと……取れたか？」	「Tch... Nmu... Got it?」
 
-63641	-	ランスは口元を手の甲で拭うが、	Rance wiped his mouth with the back of his hand,
-63642	+	そちらには何も付いていない。	but there was nothing there.
+63641	-		ランスは口元を手の甲で拭うが、	Rance wiped his mouth with the back of his hand,
+63642	+		そちらには何も付いていない。	but there was nothing there.
 
-63643	Masou Shizuka	「消えない……？　何、それ…………」	「It won't disappear...? What is that......」
+63643	Masou Shizuka	基本	「消えない……？　何、それ…………」	「It won't disappear...? What is that......」
 
-63644	Satella	「避けろ、バカ者！」	「Dodge, idiot!」
+63644	Satella	怒り	「避けろ、バカ者！」	「Dodge, idiot!」
 
-63645	Rance	「お、おおおぉぉっ！？」	「O, oooooh!?」
+63645	Rance		「お、おおおぉぉっ！？」	「O, oooooh!?」
 
-63646	-	飛び出してきたサテラに、ランスが突き飛ばされた。	Satella jumped out and shoved Rance aside.
-63647	+	次の瞬間、閃光がサテラを痛烈に打ちのめす。	The next instant, a flash of light struck Satella hard.
+63646	-		飛び出してきたサテラに、ランスが突き飛ばされた。	Satella jumped out and shoved Rance aside.
+63647	+		次の瞬間、閃光がサテラを痛烈に打ちのめす。	The next instant, a flash of light struck Satella hard.
 
-63648	Megawas Horus	「え、なに、なに！？　ﾇﾇﾇ」	「Eh, what, what!? Nunu.」
+63648	Megawas Horus	基本	「え、なに、なに！？　ﾇﾇﾇ」	「Eh, what, what!? Nunu.」
 
-63649	Miracle Tor	「……！　魔法ではないな……」	「...! It's not magic...」
+63649	Miracle Tor	真剣	「……！　魔法ではないな……」	「...! It's not magic...」
 
-63650	Satella	「建物に入れ！　すぐに！」	「Get inside the building! Now!」
+63650	Satella	怒り	「建物に入れ！　すぐに！」	「Get inside the building! Now!」
 
-63651	Rance	「う、お、とっと！」	「U, o, quick!」
+63651	Rance	驚き	「う、お、とっと！」	「U, o, quick!」
 
-63652	Nagi su Ragarl	「な、な、なになになにー！？」	「Wh, wh, what what what---!?」
+63652	Nagi su Ragarl	怒り	「な、な、なになになにー！？」	「Wh, wh, what what what---!?」
 
-63653	Satella	「パイアールの……衛星兵器だ！」	「It's Pi-R's... satellite weapon!」
+63653	Satella		「パイアールの……衛星兵器だ！」	「It's Pi-R's... satellite weapon!」

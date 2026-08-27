@@ -5,63 +5,63 @@
 * Rance	ランス	Male
 * Pastel Kalar	パステル	Female
 
-180641	-	一行はシャングリラ目指し進む。	The group advanced toward Shangri-La.
+180641	-		一行はシャングリラ目指し進む。	The group advanced toward Shangri-La.
 
-180642	Kentou Kanami	「はあ……水が飲みたい……」	「Haa... I want to drink water......」
+180642	Kentou Kanami	ジト目	「はあ……水が飲みたい……」	「Haa... I want to drink water......」
 
-180643	-	かなみが水筒を振る。既に中身は空である。	Kanami shook her canteen. It was already empty.
+180643	-		かなみが水筒を振る。既に中身は空である。	Kanami shook her canteen. It was already empty.
 
-180644	Sill Plain	「そ、そうですねぇ……	「Y-Yes......
-180645	+	　でも限りがありますから……」	　but we have limited supplies......」
+180644	Sill Plain	恥	「そ、そうですねぇ……	「Y-Yes......
+180645	+		　でも限りがありますから……」	　but we have limited supplies......」
 
-180646	Desert Guide	「駄目でちよ。	「No good.
-180647	+	　二本目の水筒に手をつけては」	　Don't touch the second canteen yet
+180646	Desert Guide	基本	「駄目でちよ。	「No good.
+180647	+		　二本目の水筒に手をつけては」	　Don't touch the second canteen yet
 
-180648	Kentou Kanami	「うっ、そうよね……	「Ugh, that's right......
-180649	+	　がぶがぶ飲むわけにはいかないもんね……	　I can't just gulp it down......
-180650	+	　我慢しないと……」	　I have to endure......」
+180648	Kentou Kanami	ジト目	「うっ、そうよね……	「Ugh, that's right......
+180649	+		　がぶがぶ飲むわけにはいかないもんね……	　I can't just gulp it down......
+180650	+		　我慢しないと……」	　I have to endure......」
 
-180651	Sill Plain	「ランス様は大丈夫ですか？」	「Is Rance-sama okay?」
+180651	Sill Plain	きょとん	「ランス様は大丈夫ですか？」	「Is Rance-sama okay?」
 
-180652	Rance	「お、おお……」	「O-Oh......」
+180652	Rance	驚き	「お、おお……」	「O-Oh......」
 
-180653	Sill Plain	「ランス様？」	「Rance-sama?」
+180653	Sill Plain	基本	「ランス様？」	「Rance-sama?」
 
-180654	Rance	「お前らあれを見ろ！」	「Everyone, look at that!」
+180654	Rance	真剣	「お前らあれを見ろ！」	「Everyone, look at that!」
 
-180655	Rance	「オアシスだ！」	「It's an oasis!」
+180655	Rance	怒り	「オアシスだ！」	「It's an oasis!」
 
-180656	-	ランスがビシーッと指さした先には	Where Rance pointed sharply
-180657	+	ただゆったりと広がる砂漠しかなかった。	there was only the vast empty desert.
+180656	-		ランスがビシーッと指さした先には	Where Rance pointed sharply
+180657	+		ただゆったりと広がる砂漠しかなかった。	there was only the vast empty desert.
 
-180658	Sill Plain	「あ、あのー……どこにあるのでしょう？」	「Um... where is it?」
+180658	Sill Plain	苦笑	「あ、あのー……どこにあるのでしょう？」	「Um... where is it?」
 
-180659	Rance	「がはははは！　水だ水だーーー！」	「Gahahahaha! Water, water---!」
+180659	Rance	笑顔	「がはははは！　水だ水だーーー！」	「Gahahahaha! Water, water---!」
 
-180660	Sill Plain	「ああっ、ランス様！？」	「Aah, Rance-sama!?」
+180660	Sill Plain	慌て	「ああっ、ランス様！？」	「Aah, Rance-sama!?」
 
-180661	-	ぴゃぴゃぴゃーとランスは走り出した。	Rance ran off with quick steps.
+180661	-		ぴゃぴゃぴゃーとランスは走り出した。	Rance ran off with quick steps.
 
-180662	Pastel Kalar	「よし、置いていこう」	「Alright, let's leave him.」
+180662	Pastel Kalar	基本	「よし、置いていこう」	「Alright, let's leave him.」
 
-180663	Kentou Kanami	「そんなわけにいきませんよ！？	「We can't do that!?
-180664	+	　って、ランス、ちょっと待ってー！」	　Hey Rance, wait---!」
+180663	Kentou Kanami	うがー	「そんなわけにいきませんよ！？	「We can't do that!?
+180664	+		　って、ランス、ちょっと待ってー！」	　Hey Rance, wait---!」
 
-180665	-	一行は一人走り出したランスを追いかけた。	The group chased after Rance who ran off alone.
+180665	-		一行は一人走り出したランスを追いかけた。	The group chased after Rance who ran off alone.
 
-180666	-	…………	............
+180666	-		…………	............
 
-180667	-	……	......
+180667	-		……	......
 
-180668	Rance	「うおーーー！　オアシスはどこだーーー！	「Uoooooh! Where's the oasis---!
-180669	+	　なんもねぇじゃねぇかーーーー！？」	　There's nothing here---!?」
+180668	Rance	怒り	「うおーーー！　オアシスはどこだーーー！	「Uoooooh! Where's the oasis---!
+180669	+		　なんもねぇじゃねぇかーーーー！？」	　There's nothing here---!?」
 
-180670	Desert Guide	「そんなものは最初からありまちぇん。	「There was never any such thing.
-180671	+	　蜃気楼による幻覚を見ていただけでち」	　You were just seeing a mirage.」
+180670	Desert Guide	基本	「そんなものは最初からありまちぇん。	「There was never any such thing.
+180671	+		　蜃気楼による幻覚を見ていただけでち」	　You were just seeing a mirage.」
 
-180672	Rance	「認めーーーん！」	「I refuse to accept it!」
+180672	Rance		「認めーーーん！」	「I refuse to accept it!」
 
-180673	Desert Guide	「はあ、無駄な時間を食ったでち。	「Haa, what a waste of time.
-180674	+	　戻りまちゅよ」	　Let's go back.」
+180673	Desert Guide		「はあ、無駄な時間を食ったでち。	「Haa, what a waste of time.
+180674	+		　戻りまちゅよ」	　Let's go back.」
 
-180675	Rance	「ぬおーーーー！　水ーーーー！」	「Nuoaaaaah! Water---!」
+180675	Rance		「ぬおーーーー！　水ーーーー！」	「Nuoaaaaah! Water---!」

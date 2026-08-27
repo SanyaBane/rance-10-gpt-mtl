@@ -1,14 +1,14 @@
 # 35348	t５６／カミーラ自動取得	
 
-263681	?	参謀本部	General Staff Headquarters
-263682	+	ランスがカミーラを連れて現れる。	Rance appears, bringing Camilla with him.
-263683	+	サテラが慌てる、カミーラ、どうして・・わわわわ	Satella panics, "Camilla, why... w-w-w-w!"
-263684	+	他の者は慌てる、リセットはもう懐いている	The others are flustered; Reset has already warmed up to her.
-263685	+	ランスは余裕綽々、いつまでも地下牢に閉じ込めておくのも連れてきたのだ	Rance is calm and confident, saying he brought her instead of leaving her locked in the dungeon forever.
-263686	+	カミーラは、仲間になるなどいっておらんぞ。	Camilla says she never agreed to become an ally.
-263687	+	なら、ケイブリスの元にいくか？とランスが聞くと	When Rance asks, "Then, will you go to Kaybliss?"
-263688	+	ぐぬぬぬ・・てな感じぐらいで	She makes a "grrgh" kind of expression.
-263689	+	　	
-263690	+	終盤となる１０ターンまで、メディウサは倒したが、カミーラを解放しなかった時	When Medusa is defeated by turn 10, but Camilla has not been released,
-263691	+	［永久牢のカミーラ]が実行されなかった時、強制的にカミーラを解放するイベントです	If the [Camilla of the Eternal Prison] event does not trigger, this event forcibly releases Camilla.
-263692	+	可能性が少ない状況の処理なので、簡易な物で良いです	Since this is a low-probability situation, a simple implementation is sufficient.
+263681	?		参謀本部	General Staff Headquarters
+263682	+		ランスがカミーラを連れて現れる。	Rance appears, bringing Camilla with him.
+263683	+		サテラが慌てる、カミーラ、どうして・・わわわわ	Satella panics, "Camilla, why... w-w-w-w!"
+263684	+		他の者は慌てる、リセットはもう懐いている	The others are flustered; Reset has already warmed up to her.
+263685	+		ランスは余裕綽々、いつまでも地下牢に閉じ込めておくのも連れてきたのだ	Rance is calm and confident, saying he brought her instead of leaving her locked in the dungeon forever.
+263686	+		カミーラは、仲間になるなどいっておらんぞ。	Camilla says she never agreed to become an ally.
+263687	+		なら、ケイブリスの元にいくか？とランスが聞くと	When Rance asks, "Then, will you go to Kaybliss?"
+263688	+		ぐぬぬぬ・・てな感じぐらいで	She makes a "grrgh" kind of expression.
+263689	+		　	
+263690	+		終盤となる１０ターンまで、メディウサは倒したが、カミーラを解放しなかった時	When Medusa is defeated by turn 10, but Camilla has not been released,
+263691	+		［永久牢のカミーラ]が実行されなかった時、強制的にカミーラを解放するイベントです	If the [Camilla of the Eternal Prison] event does not trigger, this event forcibly releases Camilla.
+263692	+		可能性が少ない状況の処理なので、簡易な物で良いです	Since this is a low-probability situation, a simple implementation is sufficient.

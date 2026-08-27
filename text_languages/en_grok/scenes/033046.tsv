@@ -3,137 +3,137 @@
 * Bandit	山賊	Male
 * Nagata-kun	長田君２	Male
 
-195745	Rocky Bank	「ささ、こっちだすー」	「This way.」
+195745	Rocky Bank	楽	「ささ、こっちだすー」	「This way.」
 
-195746	-	あなた達を案内する為、	To guide you,
-195747	+	ロッキーが先導して進んでいた。	Rocky led the way.
+195746	-		あなた達を案内する為、	To guide you,
+195747	+		ロッキーが先導して進んでいた。	Rocky led the way.
 
-195748	Rocky Bank	「あっちはトラップだらけのダミーの道だす。	「That way is a dummy path full of traps.
-195749	+	　ささ、こっちだすよー」	　This way.」
+195748	Rocky Bank		「あっちはトラップだらけのダミーの道だす。	「That way is a dummy path full of traps.
+195749	+		　ささ、こっちだすよー」	　This way.」
 
-195750	Rocky Bank	「その扉の先はスライムが大量だす。	「Beyond that door are tons of slimes.
-195751	+	　絶対に開けないで欲しいだ」	　Please don't open it.」
+195750	Rocky Bank		「その扉の先はスライムが大量だす。	「Beyond that door are tons of slimes.
+195751	+		　絶対に開けないで欲しいだ」	　Please don't open it.」
 
-195752	Rocky Bank	「行き止まりに見えるけど、ここに……	「It looks like a dead end, but here...
-195753	+	　よし、隠し扉が開いただす」	　There, the hidden door opened.」
+195752	Rocky Bank		「行き止まりに見えるけど、ここに……	「It looks like a dead end, but here...
+195753	+		　よし、隠し扉が開いただす」	　There, the hidden door opened.」
 
-195754	-	ロッキーのおかげで、	Thanks to Rocky,
-195755	+	あなた達の道のりは非常に順調だった。	your journey was very smooth.
+195754	-		ロッキーのおかげで、	Thanks to Rocky,
+195755	+		あなた達の道のりは非常に順調だった。	your journey was very smooth.
 
-195756	Bandit	「あれ？　戦闘隊長、そいつらは？」	「Huh? Combat captain, who are they?」
+195756	Bandit	基本	「あれ？　戦闘隊長、そいつらは？」	「Huh? Combat captain, who are they?」
 
-195757	Nagata-kun	「げっ、また山賊だ……」	「Ugh, more bandits...」
+195757	Nagata-kun		「げっ、また山賊だ……」	「Ugh, more bandits...」
 
 > female
-195758	Bandit	「女の子はランスJr.様への献上品？」	「Is the girl an offering for Rance Jr.-sama?」
+195758	Bandit		「女の子はランスJr.様への献上品？」	「Is the girl an offering for Rance Jr.-sama?」
 
-195759	Bandit	「でへへ、可愛い顔してんなあ……	「Hehe, what a cute face...
-195760	+	　おこぼれで俺のところに来たら、	　If I get leftovers,
-195761	+	　たっぷり可愛がってやるからな」	　I'll spoil her plenty.」
+195759	Bandit		「でへへ、可愛い顔してんなあ……	「Hehe, what a cute face...
+195760	+		　おこぼれで俺のところに来たら、	　If I get leftovers,
+195761	+		　たっぷり可愛がってやるからな」	　I'll spoil her plenty.」
 
-195762	Rocky Bank	「こ、こらこら、違うだすよ」	「H, hey, that's not it.」
+195762	Rocky Bank		「こ、こらこら、違うだすよ」	「H, hey, that's not it.」
 
 > end
-195763	Rocky Bank	「この方達はお客様だす。	「These people are guests.
-195764	+	　失礼があったらいかんだすよ」	　Don't be rude.」
+195763	Rocky Bank		「この方達はお客様だす。	「These people are guests.
+195764	+		　失礼があったらいかんだすよ」	　Don't be rude.」
 
-195765	Bandit	「へー」	「Hee.」
+195765	Bandit		「へー」	「Hee.」
 
-195766	Rocky Bank	「こんなところで油売ってると	「If you slack off here,
-195767	+	　また怒られちまうだすよ。	　you'll get scolded again.
-195768	+	　さ、持ち場に戻った戻っただす」	　Back to your posts.」
+195766	Rocky Bank	楽	「こんなところで油売ってると	「If you slack off here,
+195767	+		　また怒られちまうだすよ。	　you'll get scolded again.
+195768	+		　さ、持ち場に戻った戻っただす」	　Back to your posts.」
 
-195769	Bandit	「ういっすー」	「Yessir.」
+195769	Bandit	基本	「ういっすー」	「Yessir.」
 
-195770	Nagata-kun	「ほーっ、ドキドキした」	「Phew, that was tense.」
+195770	Nagata-kun		「ほーっ、ドキドキした」	「Phew, that was tense.」
 
-195771	Rocky Bank	「えへへ、おらここでは、	「Ehehe, I'm kinda important here,
-195772	+	　ちょっと偉いので安心して欲しいだ」	　so feel safe.」
+195771	Rocky Bank		「えへへ、おらここでは、	「Ehehe, I'm kinda important here,
+195772	+		　ちょっと偉いので安心して欲しいだ」	　so feel safe.」
 
-195773	Nagata-kun	「ロッキーさんやるー。	「Rocky, nice!
-195774	+	　へへへ、やっぱり仲間にして良かったな。	　Hehehe, good thing we recruited him.
-195775	+	　な？」	　Right?」
-195776	+	「なー？　だから俺は仲間にするべきだって、	「See? That's why I said we should recruit him
-195777	+	　最初から言ってたのさー」	　from the beginning.」
+195773	Nagata-kun		「ロッキーさんやるー。	「Rocky, nice!
+195774	+		　へへへ、やっぱり仲間にして良かったな。	　Hehehe, good thing we recruited him.
+195775	+		　な？」	　Right?」
+195776	+		「なー？　だから俺は仲間にするべきだって、	「See? That's why I said we should recruit him
+195777	+		　最初から言ってたのさー」	　from the beginning.」
 
-195778	-	長田君はえっへんと胸を張った。	Nagata-kun puffed out his chest proudly.
+195778	-		長田君はえっへんと胸を張った。	Nagata-kun puffed out his chest proudly.
 
-195779	Rocky Bank	「えへへ、そんな褒められたら、	「Ehehe, if you praise me like that,
-195780	+	　おら……照れちまうだ……」	　I'll get embarrassed...」
+195779	Rocky Bank	テレ	「えへへ、そんな褒められたら、	「Ehehe, if you praise me like that,
+195780	+		　おら……照れちまうだ……」	　I'll get embarrassed...」
 
-195781	-	ロッキーはもじもじと照れた。	Rocky fidgeted shyly.
+195781	-		ロッキーはもじもじと照れた。	Rocky fidgeted shyly.
 
-195782	Nagata-kun	「がーーーん！」	「Gahhh!」
+195782	Nagata-kun	基本	「がーーーん！」	「Gahhh!」
 
-195783	Nagata-kun	「もう！　なんでお前は	「Geez! Why do you
-195784	+	　そういうこと言うんだよー！」	　say things like that!」
+195783	Nagata-kun		「もう！　なんでお前は	「Geez! Why do you
+195784	+		　そういうこと言うんだよー！」	　say things like that!」
 
-195785	-	ぺしぺしぺし。	Pat pat pat.
-195786	+	あなたはショックを受けた長田君に何度も叩かれた。	You patted the shocked Nagata-kun repeatedly.
+195785	-		ぺしぺしぺし。	Pat pat pat.
+195786	+		あなたはショックを受けた長田君に何度も叩かれた。	You patted the shocked Nagata-kun repeatedly.
 
-195787	-	…………	............
+195787	-		…………	............
 
-195788	-	……	...
+195788	-		……	...
 
-195789	Nagata-kun	「そーいやさー、	「By the way,
-195790	+	　ランスJr.ってどんな奴なの？」	　what kind of guy is Rance Jr.?」
+195789	Nagata-kun		「そーいやさー、	「By the way,
+195790	+		　ランスJr.ってどんな奴なの？」	　what kind of guy is Rance Jr.?」
 
-195791	Rocky Bank	「む……」	「Mu...」
+195791	Rocky Bank		「む……」	「Mu...」
 
-195792	Nagata-kun	「いや、そいつが魔王の子で、	「Well, I heard he's the Demon King's kid
-195793	+	　めっちゃ強いのは聞いたけど、	　and super strong,
-195794	+	　それ以外は何も知らないからさ」	　but I don't know anything else.」
+195792	Nagata-kun		「いや、そいつが魔王の子で、	「Well, I heard he's the Demon King's kid
+195793	+		　めっちゃ強いのは聞いたけど、	　and super strong,
+195794	+		　それ以外は何も知らないからさ」	　but I don't know anything else.」
 
-195795	Rocky Bank	「ランスJr.様は……」	「Rance Jr.-sama is...
+195795	Rocky Bank		「ランスJr.様は……」	「Rance Jr.-sama is...
 
-195796	Rocky Bank	「わ、悪い方じゃないだすが……	「N, not a bad person, but...
-195797	+	　その、ちょっと乱暴者で……」	　he's a bit of a brute...」
+195796	Rocky Bank		「わ、悪い方じゃないだすが……	「N, not a bad person, but...
+195797	+		　その、ちょっと乱暴者で……」	　he's a bit of a brute...」
 
-195798	Rocky Bank	「気に入らないものは、	「Anything he doesn't like,
-195799	+	　絶対に潰さないと済まないお方だす……」	　he absolutely has to crush.」
+195798	Rocky Bank		「気に入らないものは、	「Anything he doesn't like,
+195799	+		　絶対に潰さないと済まないお方だす……」	　he absolutely has to crush.」
 
-195800	Nagata-kun	「ひえっ……	「Hiee...
-195801	+	　如何にも山賊って感じ……」	　Sounds exactly like a bandit...」
+195800	Nagata-kun		「ひえっ……	「Hiee...
+195801	+		　如何にも山賊って感じ……」	　Sounds exactly like a bandit...」
 
-195802	Rocky Bank	「怪力無双を自慢とされるお方で、	「He boasts unmatched superhuman strength,
-195803	+	　巨大な斧を振り回して戦いますだ」	　and fights swinging a huge axe.」
+195802	Rocky Bank		「怪力無双を自慢とされるお方で、	「He boasts unmatched superhuman strength,
+195803	+		　巨大な斧を振り回して戦いますだ」	　and fights swinging a huge axe.」
 
-195804	Rocky Bank	「国の軍隊が討伐に来たこともあっただすが……」	「The kingdom's army once came to subjugate him...
+195804	Rocky Bank		「国の軍隊が討伐に来たこともあっただすが……」	「The kingdom's army once came to subjugate him...
 
-195805	Rocky Bank	「あのときは……罠も活用したとはいえ……	「Even using traps...
-195806	+	　結局たった一人で五十人をあっという間に……」	　he still slaughtered fifty men alone in no time...」
+195805	Rocky Bank		「あのときは……罠も活用したとはいえ……	「Even using traps...
+195806	+		　結局たった一人で五十人をあっという間に……」	　he still slaughtered fifty men alone in no time...」
 
-195807	Nagata-kun	「うはぁぁ……」	「Uwaa...」
+195807	Nagata-kun		「うはぁぁ……」	「Uwaa...」
 
-195808	Rocky Bank	「可能なら説得で終わらせたいだすが……	「If possible I'd like to end it with persuasion...
-195809	+	　もしも戦うことになってしまったら、	　but if it comes to a fight,
-195810	+	　覚悟しておいて欲しいだ」	　please be prepared.」
+195808	Rocky Bank		「可能なら説得で終わらせたいだすが……	「If possible I'd like to end it with persuasion...
+195809	+		　もしも戦うことになってしまったら、	　but if it comes to a fight,
+195810	+		　覚悟しておいて欲しいだ」	　please be prepared.」
 
-195811	Rocky Bank	「その……親に似ただすか……	「He takes after his father...
-195812	+	　とても喧嘩っぱやくて怒りんぼなので……	　very quick to fight and has a short temper...
-195813	+	　多分戦闘にはなっちまうだす……」	　so it'll probably turn into a fight...」
+195811	Rocky Bank	とほほ	「その……親に似ただすか……	「He takes after his father...
+195812	+		　とても喧嘩っぱやくて怒りんぼなので……	　very quick to fight and has a short temper...
+195813	+		　多分戦闘にはなっちまうだす……」	　so it'll probably turn into a fight...」
 
-195814	Nagata-kun	「ええっ……！？」	「Ehh...!?」
+195814	Nagata-kun	基本	「ええっ……！？」	「Ehh...!?」
 
-195815	Rocky Bank	「あ、だ、大丈夫だ！	「Ah, i, it'll be fine!
-195816	+	　おらが盾になって絶対にお守りするだすから！」	　I'll be your shield and protect you!」
+195815	Rocky Bank	楽	「あ、だ、大丈夫だ！	「Ah, i, it'll be fine!
+195816	+		　おらが盾になって絶対にお守りするだすから！」	　I'll be your shield and protect you!」
 
-195817	Nagata-kun	「あは、あははは……」	「Aha, ahahaha...」
+195817	Nagata-kun	基本	「あは、あははは……」	「Aha, ahahaha...」
 
-195818	Nagata-kun	「……じょ、冗談じゃねぇよ」	「...This isn't a joke.」
+195818	Nagata-kun		「……じょ、冗談じゃねぇよ」	「...This isn't a joke.」
 
-195819	Rocky Bank	「？　長田君、どうしただすか？」	「? Nagata-kun, what's wrong?」
+195819	Rocky Bank		「？　長田君、どうしただすか？」	「? Nagata-kun, what's wrong?」
 
-195820	Nagata-kun	「んっ！？　い、いや、別に？」	「N!? N, no, nothing?」
+195820	Nagata-kun		「んっ！？　い、いや、別に？」	「N!? N, no, nothing?」
 
-195821	Rocky Bank	「そうだすか……？」	「Is that so...?」
+195821	Rocky Bank		「そうだすか……？」	「Is that so...?」
 
-195822	Nagata-kun	「な、なあ、＜エール＞……	「H, hey, ＜エール＞...
-195823	+	　本気でこのまま行くつもりか？」	　Are you seriously planning to keep going?」
-195824	+	「そ、そっかぁ……」	「I, I see...」
+195822	Nagata-kun		「な、なあ、＜エール＞……	「H, hey, ＜エール＞...
+195823	+		　本気でこのまま行くつもりか？」	　Are you seriously planning to keep going?」
+195824	+		「そ、そっかぁ……」	「I, I see...」
 
-195825	Nagata-kun	「…………」	「............」
+195825	Nagata-kun		「…………」	「............」
 
-195826	Nagata-kun~	（ここらが潮時、かなぁ……）	（This might be the time to bail...）
+195826	Nagata-kun~		（ここらが潮時、かなぁ……）	（This might be the time to bail...）
 
-195827	Nagata-kun~	（……いい加減、付き合ってらんねぇぜ）	（...I've had enough of this.）
+195827	Nagata-kun~		（……いい加減、付き合ってらんねぇぜ）	（...I've had enough of this.）

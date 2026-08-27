@@ -5,154 +5,154 @@
 * Kalar	汎用カラー	Female
 * Kentou Kanami	かなみ	Female
 
-133405	Sill Plain	「ふうふう、カラーの村は遠いですね、ランス様」	「Huff huff, the Kalar Village is so far, Rance-sama.」
+133405	Sill Plain	泣き	「ふうふう、カラーの村は遠いですね、ランス様」	「Huff huff, the Kalar Village is so far, Rance-sama.」
 
-133406	Rance	「こらー！　チンタラするなシィル！	「Hey! Don't dawdle, Sill!
-133407	+	　カラーの娘達が死んだらお前のせいだぞ！」	　If the Kalar girls die, it'll be your fault!」
+133406	Rance	怒り	「こらー！　チンタラするなシィル！	「Hey! Don't dawdle, Sill!
+133407	+		　カラーの娘達が死んだらお前のせいだぞ！」	　If the Kalar girls die, it'll be your fault!」
 
-133408	Sill Plain	「ひいひい、すみません、ランス様」	「Hii hii, I'm sorry, Rance-sama.」
+133408	Sill Plain	基本	「ひいひい、すみません、ランス様」	「Hii hii, I'm sorry, Rance-sama.」
 
-133409	Rance	「む？」	「Mu?」
+133409	Rance	だる顔	「む？」	「Mu?」
 
-133410	Aegis Kalar	「そこまでだ！」	「Stop right there!」
+133410	Aegis Kalar	基本	「そこまでだ！」	「Stop right there!」
 
-133411	-	　	　
-133412	+	　＜ザクッ！＞	　＜Thud!＞
+133411	-		　	　
+133412	+		　＜ザクッ！＞	　＜Thud!＞
 
-133413	Rance	「うおっ！？」	「Uoh!?」
+133413	Rance	驚き	「うおっ！？」	「Uoh!?」
 
-133414	-	ランスの足下に矢が突き刺さる。	An arrow stabbed into the ground at Rance's feet.
+133414	-		ランスの足下に矢が突き刺さる。	An arrow stabbed into the ground at Rance's feet.
 
-133415	Aegis Kalar	「止まれッ！」	「Halt!」
+133415	Aegis Kalar	基本	「止まれッ！」	「Halt!」
 
-133416	Aegis Kalar	「それより先に進むつもりならば、	「If you intend to proceed further,
-133417	+	　命を捨てるものと――」	　be prepared to throw away your life--」
+133416	Aegis Kalar		「それより先に進むつもりならば、	「If you intend to proceed further,
+133417	+		　命を捨てるものと――」	　be prepared to throw away your life--」
 
-133418	Rance	「その声はイージスか！」	「That voice is Aegis!」
+133418	Rance		「その声はイージスか！」	「That voice is Aegis!」
 
-133419	Aegis Kalar	「……む、お前は」	「...Mu, you are」
+133419	Aegis Kalar		「……む、お前は」	「...Mu, you are」
 
-133420	-	木々の枝の上にいたイージスと、	Aegis, who was on a tree branch,
-133421	+	イージスの部下であるカラーの兵が	and the Kalar soldiers under Aegis
-133422	+	上から降ってきた。	descended from above.
+133420	-		木々の枝の上にいたイージスと、	Aegis, who was on a tree branch,
+133421	+		イージスの部下であるカラーの兵が	and the Kalar soldiers under Aegis
+133422	+		上から降ってきた。	descended from above.
 
-133423	Aegis Kalar	「ランス、か……」	「Rance...」
+133423	Aegis Kalar		「ランス、か……」	「Rance...」
 
-133424	Kalar	「ねえねえ、あれってもしかして……」	「Hey hey, isn't that...」
+133424	Kalar		「ねえねえ、あれってもしかして……」	「Hey hey, isn't that...」
 
-133425	Kalar	「ほら、あれ、ランスさんよ。	「Look, it's Rance-san.
-133426	+	　リセット様のお父様の」	　Reset-sama's father.」
+133425	Kalar		「ほら、あれ、ランスさんよ。	「Look, it's Rance-san.
+133426	+		　リセット様のお父様の」	　Reset-sama's father.」
 
-133427	Kalar	「きゃーっ、私、この目で見るの初めて！」	「Kyaa, this is my first time seeing him!」
+133427	Kalar		「きゃーっ、私、この目で見るの初めて！」	「Kyaa, this is my first time seeing him!」
 
-133428	-	後ろの方ではしゃぐカラーの娘達を制して、	Calming the excited Kalar girls behind her,
-133429	+	イージスが一歩前に出る。	Aegis stepped forward.
+133428	-		後ろの方ではしゃぐカラーの娘達を制して、	Calming the excited Kalar girls behind her,
+133429	+		イージスが一歩前に出る。	Aegis stepped forward.
 
-133430	Aegis Kalar	「ランス、どうしてここに？」	「Rance, why are you here?」
+133430	Aegis Kalar		「ランス、どうしてここに？」	「Rance, why are you here?」
 
-133431	Rance	「カラーの村が魔軍に襲われてると聞いてな。	「I heard the Kalar Village was under attack by the Monster Army.
-133432	+	　助けに来てやったぞ」	　So I came to help.」
+133431	Rance		「カラーの村が魔軍に襲われてると聞いてな。	「I heard the Kalar Village was under attack by the Monster Army.
+133432	+		　助けに来てやったぞ」	　So I came to help.」
 
-133433	Aegis Kalar	「そうか……	「I see...
-133434	+	　正直、助かる……」	　Honestly, that helps...」
+133433	Aegis Kalar		「そうか……	「I see...
+133434	+		　正直、助かる……」	　Honestly, that helps...」
 
-133435	Rance	「がははははははははは！	「Gahahahahahahaha!
-133436	+	　恋人のピンチとあっては当然だ！」	　Of course I'd come when my lover is in danger!」
+133435	Rance		「がははははははははは！	「Gahahahahahahaha!
+133436	+		　恋人のピンチとあっては当然だ！」	　Of course I'd come when my lover is in danger!」
 
-133437	Sill Plain	「え？」	「Eh?」
+133437	Sill Plain	考え中	「え？」	「Eh?」
 
-133438	Sill Plain	「えーーーっ、恋人！？」	「Ehhhh, lover!?」
+133438	Sill Plain	慌て	「えーーーっ、恋人！？」	「Ehhhh, lover!?」
 
-133439	Aegis Kalar	「ん？　そちらのピンク色の女性は……」	「Hmm? That pink-haired woman is...」
+133439	Aegis Kalar	基本	「ん？　そちらのピンク色の女性は……」	「Hmm? That pink-haired woman is...」
 
-133440	Rance	「そうか、会うのは初めてか。	「Ah, first time meeting, huh.
-133441	+	　イージス、こいつはシィルだ」	　Aegis, this is Sill.」
+133440	Rance		「そうか、会うのは初めてか。	「Ah, first time meeting, huh.
+133441	+		　イージス、こいつはシィルだ」	　Aegis, this is Sill.」
 
-133442	Aegis Kalar	「ああ、ランス城の氷の中にいた、	「Ah, the one who was frozen in Rance Castle,
-133443	+	　ランスの奴隷だな。	　Rance's slave.
-133444	+	　見覚えはあったんだ……」	　I thought she looked familiar...」
+133442	Aegis Kalar		「ああ、ランス城の氷の中にいた、	「Ah, the one who was frozen in Rance Castle,
+133443	+		　ランスの奴隷だな。	　Rance's slave.
+133444	+		　見覚えはあったんだ……」	　I thought she looked familiar...」
 
-133445	Aegis Kalar	「イージス・カラーだ。	「I am Aegis Kalar.
-133446	+	　カラーの村、防衛隊長兼	　Defense Captain of Kalar Village and
-133447	+	　ランスの恋人をしている」	　Rance's lover.」
+133445	Aegis Kalar		「イージス・カラーだ。	「I am Aegis Kalar.
+133446	+		　カラーの村、防衛隊長兼	　Defense Captain of Kalar Village and
+133447	+		　ランスの恋人をしている」	　Rance's lover.」
 
-133448	Sill Plain	「こ、恋人って……本当ですか……？」	「L-lover... is that true...?」
+133448	Sill Plain	ぽか〜ん	「こ、恋人って……本当ですか……？」	「L-lover... is that true...?」
 
-133449	Rance	「くっくっくっ……」	「Heh heh heh...」
+133449	Rance	基本	「くっくっくっ……」	「Heh heh heh...」
 
-133450	Sill Plain~	（あ、そのお顔は、やっぱり嘘なんですね！？）	（Ah, that face means it's a lie, right!?）
+133450	Sill Plain~	慌て	（あ、そのお顔は、やっぱり嘘なんですね！？）	（Ah, that face means it's a lie, right!?）
 
-133451	-	シィルがパパパッと身振り手振りで聞く。	Sill asked frantically with gestures.
+133451	-		シィルがパパパッと身振り手振りで聞く。	Sill asked frantically with gestures.
 
-133452	Rance~	（当然だ、アホめ。	（Of course, idiot.
-133453	+	　以前こいつが記憶喪失になったときに、	　When she lost her memory before,
-133454	+	　恋人同士だったという嘘をついたのだ）	　I lied and said we were lovers.）
+133452	Rance~	基本	（当然だ、アホめ。	（Of course, idiot.
+133453	+		　以前こいつが記憶喪失になったときに、	　When she lost her memory before,
+133454	+		　恋人同士だったという嘘をついたのだ）	　I lied and said we were lovers.）
 
-133455	-	ランスもパパパッと身振り手振りで答える。	Rance answered back with quick gestures.
+133455	-		ランスもパパパッと身振り手振りで答える。	Rance answered back with quick gestures.
 
-133456	Rance~	（それまでバリバリの敵だったのに、	（Even though she was a fierce enemy before,
-133457	+	　アッサリと信じて可愛い奴なのだ、がははは！）	　she believed it so easily. How cute, gahahaha!）
+133456	Rance~		（それまでバリバリの敵だったのに、	（Even though she was a fierce enemy before,
+133457	+		　アッサリと信じて可愛い奴なのだ、がははは！）	　she believed it so easily. How cute, gahahaha!）
 
-133458	Sill Plain~	（えーーーっ、そんなぁ、可哀相ですよ。	（Ehhhh, that's so mean.
-133459	+	　誤解を解きましょうよぉ）	　Let's clear up the misunderstanding~）
+133458	Sill Plain~	慌て	（えーーーっ、そんなぁ、可哀相ですよ。	（Ehhhh, that's so mean.
+133459	+		　誤解を解きましょうよぉ）	　Let's clear up the misunderstanding~）
 
-133460	Rance~	（アホか、余計なことを言うなよ。	（Idiot, don't say unnecessary things.
-133461	+	　もしも言ったら、こんなことするぞ、	　If you do, I'll do this to you,
-133462	+	　それからあんなことまでするぞ）	　and then that too.）
+133460	Rance~	基本	（アホか、余計なことを言うなよ。	（Idiot, don't say unnecessary things.
+133461	+		　もしも言ったら、こんなことするぞ、	　If you do, I'll do this to you,
+133462	+		　それからあんなことまでするぞ）	　and then that too.）
 
-133463	Sill Plain~	（こんなことってなんですかぁ……	（What do you mean by 'this'...」
-133464	+	　うう、痛いの嫌ですよ……ひんひんっ……）	　Uuu, I hate pain... Hii hii...）
+133463	Sill Plain~	泣き	（こんなことってなんですかぁ……	（What do you mean by 'this'...」
+133464	+		　うう、痛いの嫌ですよ……ひんひんっ……）	　Uuu, I hate pain... Hii hii...）
 
-133465	Kentou Kanami	「……………………」	「........................」
+133465	Kentou Kanami	ジト目	「……………………」	「........................」
 
-133466	Kentou Kanami	「はぁ……差を実感してへこむなぁ……	「Haa... Realizing the difference makes me depressed...
-133467	+	　いいの、分かってたことだから……くすん……」	　It's fine, I already knew... Sniff...」
+133466	Kentou Kanami	泣き	「はぁ……差を実感してへこむなぁ……	「Haa... Realizing the difference makes me depressed...
+133467	+		　いいの、分かってたことだから……くすん……」	　It's fine, I already knew... Sniff...」
 
-133468	Aegis Kalar	「？　なんだ？」	「? What?」
+133468	Aegis Kalar	基本	「？　なんだ？」	「? What?」
 
-133469	Rance	「気にするな。	「Don't mind it.
-133470	+	　それよりここで何をしている？」	　More importantly, what are you doing here?」
+133469	Rance		「気にするな。	「Don't mind it.
+133470	+		　それよりここで何をしている？」	　More importantly, what are you doing here?」
 
-133471	Aegis Kalar	「私はペンシルカウの防衛隊長だからな。	「I'm the Defense Captain of Pencilcow.
-133472	+	　魔軍の迎撃だ」	　I'm intercepting the Monster Army.」
+133471	Aegis Kalar		「私はペンシルカウの防衛隊長だからな。	「I'm the Defense Captain of Pencilcow.
+133472	+		　魔軍の迎撃だ」	　I'm intercepting the Monster Army.」
 
-133473	Rance	「まだ魔軍には村は見つかってないだろうな？」	「The Monster Army hasn't found the village yet, right?」
+133473	Rance		「まだ魔軍には村は見つかってないだろうな？」	「The Monster Army hasn't found the village yet, right?」
 
-133474	Aegis Kalar	「時間の問題、だがな」	「It's only a matter of time though.」
+133474	Aegis Kalar		「時間の問題、だがな」	「It's only a matter of time though.」
 
-133475	Rance	「まだ平気なら上等だ」	「If it's still okay, that's good.」
+133475	Rance		「まだ平気なら上等だ」	「If it's still okay, that's good.」
 
-133476	Rance	「それよりパステルは村にいるな？」	「By the way, is Pastel still in the village?」
+133476	Rance		「それよりパステルは村にいるな？」	「By the way, is Pastel still in the village?」
 
-133477	Aegis Kalar	「ああ、私は魔軍妨害工作があるから	「Yes, I have to continue disrupting the Monster Army,
-133478	+	　同行は出来ないが、向かってくれると助かる」	　so I can't go with you, but I'd appreciate it if you head there.」
+133477	Aegis Kalar		「ああ、私は魔軍妨害工作があるから	「Yes, I have to continue disrupting the Monster Army,
+133478	+		　同行は出来ないが、向かってくれると助かる」	　so I can't go with you, but I'd appreciate it if you head there.」
 
-133479	Rance	「で、パステルはまたパニクってるか？	「So, is Pastel panicking again?
-133480	+	　それとも意固地になって役立たずモードか？」	　Or is she being stubborn and useless again?」
+133479	Rance		「で、パステルはまたパニクってるか？	「So, is Pastel panicking again?
+133480	+		　それとも意固地になって役立たずモードか？」	　Or is she being stubborn and useless again?」
 
-133481	Aegis Kalar	「私の口から言うのは憚られるが……」	「It's hard for me to say, but...
+133481	Aegis Kalar		「私の口から言うのは憚られるが……」	「It's hard for me to say, but...
 
-133482	Aegis Kalar	「今回は、その、後者だ……」	「This time, it's the latter...」
+133482	Aegis Kalar		「今回は、その、後者だ……」	「This time, it's the latter...」
 
-133483	Rance	「ふん、そんなとこだろうと思ったぜ」	「Hmph, just as I thought.」
+133483	Rance		「ふん、そんなとこだろうと思ったぜ」	「Hmph, just as I thought.」
 
-133484	Aegis Kalar	「すまないが、ランス、宜しく頼む」	「Sorry, but please take care of it, Rance.」
+133484	Aegis Kalar		「すまないが、ランス、宜しく頼む」	「Sorry, but please take care of it, Rance.」
 
-133485	Rance	「うむ、どばさーと任せろ。	「Yeah, leave it to me.
-133486	+	　恋人の俺にな」	　As her lover.」
+133485	Rance		「うむ、どばさーと任せろ。	「Yeah, leave it to me.
+133486	+		　恋人の俺にな」	　As her lover.」
 
-133487	Rance	「がははははははははは！」	「Gahahahahahahaha!」
+133487	Rance		「がははははははははは！」	「Gahahahahahahaha!」
 
-133488	Aegis Kalar	「…………恋人。	「............Lover.
-133489	+	　まあ、いいか」	　Well, whatever.」
+133488	Aegis Kalar		「…………恋人。	「............Lover.
+133489	+		　まあ、いいか」	　Well, whatever.」
 
-133490	-	イージスが少し柔らかく口元を緩める。	Aegis's lips softened slightly.
+133490	-		イージスが少し柔らかく口元を緩める。	Aegis's lips softened slightly.
 
-133491	Aegis Kalar	「お前に会ったら、少し肩が軽くなった気がするよ」	「Meeting you makes my shoulders feel a bit lighter.」
+133491	Aegis Kalar	笑顔	「お前に会ったら、少し肩が軽くなった気がするよ」	「Meeting you makes my shoulders feel a bit lighter.」
 
-133492	Aegis Kalar	「では、また後で合流しよう」	「Well then, let's meet up later.」
+133492	Aegis Kalar		「では、また後で合流しよう」	「Well then, let's meet up later.」
 
-133493	-	イージスは自分の率いていた部隊ごと姿を消した。	Aegis disappeared along with the unit she was leading.
+133493	-		イージスは自分の率いていた部隊ごと姿を消した。	Aegis disappeared along with the unit she was leading.
 
-133494	-	ランス達は改めて、	Rance and the others once again
-133495	+	ペンシルカウへ向けて出発した。	set off toward Pencilcow.
+133494	-		ランス達は改めて、	Rance and the others once again
+133495	+		ペンシルカウへ向けて出発した。	set off toward Pencilcow.

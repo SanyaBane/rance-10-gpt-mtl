@@ -8,253 +8,253 @@
 * Red Monster Soldier	汎用魔物兵赤	Male
 * Green Monster Soldier	汎用魔物兵緑	Male
 
-218907	Monster General	「ぐぬぬぬ……ッ！」	「Gnununu...!」
+218907	Monster General	基本	「ぐぬぬぬ……ッ！」	「Gnununu...!」
 
-218908	Monster General	「ま、まだだ！　まだ我らは負けん！」	「N-Not yet! We haven't lost yet!」
+218908	Monster General		「ま、まだだ！　まだ我らは負けん！」	「N-Not yet! We haven't lost yet!」
 
-218909	Zance Leazas	「な、なんちゅうしぶとさだ……	「What tenacity...
-218910	+	　まるで不死身だな」	Like he's immortal.」
+218909	Zance Leazas		「な、なんちゅうしぶとさだ……	「What tenacity...
+218910	+		　まるで不死身だな」	Like he's immortal.」
 
-218911	Monster General	「これ以上、私の目の前で	「I won't let you kill
-218912	+	　私の部下を殺させはせんぞー！」	　any more of my subordinates in front of me!」
+218911	Monster General		「これ以上、私の目の前で	「I won't let you kill
+218912	+		　私の部下を殺させはせんぞー！」	　any more of my subordinates in front of me!」
 
-218913	Monster General	「ぐうっ……！」	「Guuh...!」
+218913	Monster General		「ぐうっ……！」	「Guuh...!」
 
-218914	-	体を支えていた気力すら途絶えたのか、	His spirit finally gave out,
-218915	+	魔物将軍ダルソンはその場に膝をついた。	and Monster General Darson fell to his knees.
+218914	-		体を支えていた気力すら途絶えたのか、	His spirit finally gave out,
+218915	+		魔物将軍ダルソンはその場に膝をついた。	and Monster General Darson fell to his knees.
 
-218916	Monster Captain	「将軍！　大丈夫ですか、将軍！？」	「General! Are you alright, General!?」
+218916	Monster Captain		「将軍！　大丈夫ですか、将軍！？」	「General! Are you alright, General!?」
 
-218917	Monster General	「ふ、副官アレコズインよ……	「V-Vice Officer Arekozuin...
-218918	+	　心して聞くのだ……」	　Listen carefully...」
+218917	Monster General		「ふ、副官アレコズインよ……	「V-Vice Officer Arekozuin...
+218918	+		　心して聞くのだ……」	　Listen carefully...」
 
-218919	Monster General	「これが……私の最期の命令、となるだろう……」	「This will... probably be my final order...」
+218919	Monster General		「これが……私の最期の命令、となるだろう……」	「This will... probably be my final order...」
 
-218920	Monster General	「部隊を率いて引き続き、この地を死守せよ。	「Lead the unit and continue to defend this land to the death.
-218921	+	　敵の甘言に決して引っかかるではないぞ」	　Do not fall for the enemy's sweet words.」
+218920	Monster General		「部隊を率いて引き続き、この地を死守せよ。	「Lead the unit and continue to defend this land to the death.
+218921	+		　敵の甘言に決して引っかかるではないぞ」	　Do not fall for the enemy's sweet words.」
 
-218922	Monster Captain	「……将軍、しかし」	「...General, but」
+218922	Monster Captain		「……将軍、しかし」	「...General, but」
 
-218923	Monster Captain	「私は……」	「I...」
+218923	Monster Captain		「私は……」	「I...」
 
-218924	Monster Captain	「…………」	「............」
+218924	Monster Captain		「…………」	「............」
 
-218925	Monster Captain	「いえ、将軍がそう仰るのであれば、	「No, if that is your order, General,
-218926	+	　私は……私達はその命令を必ず……」	　I... we will definitely...」
+218925	Monster Captain		「いえ、将軍がそう仰るのであれば、	「No, if that is your order, General,
+218926	+		　私は……私達はその命令を必ず……」	　I... we will definitely...」
 
-218927	Reset Kalar	「…………」	「............」
+218927	Reset Kalar	真剣	「…………」	「............」
 
-218928	Zance Leazas	「あ、おい、リセット……」	「Hey, Reset...」
+218928	Zance Leazas	基本	「あ、おい、リセット……」	「Hey, Reset...」
 
-218929	Monster General	「……む、小娘、なにを」	「...Mu, little girl, what are you」
+218929	Monster General		「……む、小娘、なにを」	「...Mu, little girl, what are you」
 
-218930	Reset Kalar	「ごめんなさい！」	「I'm sorry!」
+218930	Reset Kalar	憂い	「ごめんなさい！」	「I'm sorry!」
 
-218931	Monster General	「……なに？」	「...What?」
+218931	Monster General	基本	「……なに？」	「...What?」
 
-218932	-	リセットが大きく手を振りかぶる。	Reset swung her hand back wide.
+218932	-		リセットが大きく手を振りかぶる。	Reset swung her hand back wide.
 
-218933	Reset Kalar	「目を覚ましてーーーーーーーッ！」	「Wake up-----!」
+218933	Reset Kalar		「目を覚ましてーーーーーーーッ！」	「Wake up-----!」
 
-218934	Monster General	「ふぐおおおおおおおっ！？」	「Fugoooooh!?」
+218934	Monster General		「ふぐおおおおおおおっ！？」	「Fugoooooh!?」
 
-218935	-	バチーーーーーン！	Slap------!
-218936	+	リセットのビンタが魔物将軍に炸裂！	Reset's slap exploded on the Monster General!
+218935	-		バチーーーーーン！	Slap------!
+218936	+		リセットのビンタが魔物将軍に炸裂！	Reset's slap exploded on the Monster General!
 
-218937	Monster Captain	「き、貴様！　なにを！」	「Y-You! What are you doing!」
+218937	Monster Captain		「き、貴様！　なにを！」	「Y-You! What are you doing!」
 
-218938	Monster General	「ま、待て！」	「W-Wait!」
+218938	Monster General		「ま、待て！」	「W-Wait!」
 
-218939	Monster General	「…………」	「............」
+218939	Monster General		「…………」	「............」
 
-218940	Monster Captain	「しょ、将軍……？」	「G-General...?」
+218940	Monster Captain		「しょ、将軍……？」	「G-General...?」
 
-218941	-	将軍の目の色が変わった。	The general's eyes changed.
+218941	-		将軍の目の色が変わった。	The general's eyes changed.
 
-218942	Monster General	「私は……いったい、今まで何を……」	「What... have I been doing all this time...」
+218942	Monster General		「私は……いったい、今まで何を……」	「What... have I been doing all this time...」
 
-218943	Monster General	「ああ、そうか……	「Ah, I see...
-218944	+	　私はいつしか目的を見失い……」	　I lost sight of my purpose at some point...
+218943	Monster General		「ああ、そうか……	「Ah, I see...
+218944	+		　私はいつしか目的を見失い……」	　I lost sight of my purpose at some point...
 
-218945	Monster General	「こ、このような……」	「This kind of...」
+218945	Monster General		「こ、このような……」	「This kind of...」
 
-218946	Monster Captain	「将軍……まさか……」	「General... could it be...」
+218946	Monster Captain		「将軍……まさか……」	「General... could it be...」
 
-218947	Monster General	「ああ、長い……長い夢を見ていたようだ……」	「Ah, it seems I was in a long... long dream...」
+218947	Monster General		「ああ、長い……長い夢を見ていたようだ……」	「Ah, it seems I was in a long... long dream...」
 
-218948	Monster General	「わたしは……わたしは、ようやく……	「I... I have finally...
-218949	+	　正気に返ることができた……」	　returned to sanity...」
+218948	Monster General		「わたしは……わたしは、ようやく……	「I... I have finally...
+218949	+		　正気に返ることができた……」	　returned to sanity...」
 
-218950	Nagata-kun	「あ、あれってまさか……」	「T-That was...」
+218950	Nagata-kun		「あ、あれってまさか……」	「T-That was...」
 
-218951	Rocky Bank	「はいだす、どんな狂った人でも正気に返す、	「Yes, the special ability to return even the craziest person
-218952	+	　リセット様の特殊能力、クラウゼンの手だす」	　to sanity, Lady Reset's Clausen Hand.」
+218951	Rocky Bank		「はいだす、どんな狂った人でも正気に返す、	「Yes, the special ability to return even the craziest person
+218952	+		　リセット様の特殊能力、クラウゼンの手だす」	　to sanity, Lady Reset's Clausen Hand.」
 
-218953	Rocky Bank	「ビンタしないと駄目なのが、	「The downside is that it requires a slap,
-218954	+	　色々とちょっとアレだすが……	　which is a bit much but...
-218955	+	　相変わらずすごい威力だす……」	　the power is still amazing...」
+218953	Rocky Bank		「ビンタしないと駄目なのが、	「The downside is that it requires a slap,
+218954	+		　色々とちょっとアレだすが……	　which is a bit much but...
+218955	+		　相変わらずすごい威力だす……」	　the power is still amazing...」
 
-218956	Monster General	「おおっ、うおおおお……」	「Ooh, uoooooh...」
+218956	Monster General		「おおっ、うおおおお……」	「Ooh, uoooooh...」
 
-218957	-	魔物将軍が総身をかすかに震わせて、	The Monster General trembled slightly
-218958	+	顔を覆った。	and covered his face.
+218957	-		魔物将軍が総身をかすかに震わせて、	The Monster General trembled slightly
+218958	+		顔を覆った。	and covered his face.
 
-218959	-	その顔から流れるものは、	What flowed from his face
-218960	+	紛れもなく涙だった。	was unmistakably tears.
+218959	-		その顔から流れるものは、	What flowed from his face
+218960	+		紛れもなく涙だった。	was unmistakably tears.
 
-218961	Monster General	「すまない……皆、すまない……	「I'm sorry... Everyone, I'm sorry...
-218962	+	　私はとんでもないことを……」	　I did something terrible...」
+218961	Monster General		「すまない……皆、すまない……	「I'm sorry... Everyone, I'm sorry...
+218962	+		　私はとんでもないことを……」	　I did something terrible...」
 
-218963	Monster General	「このような地に部下を15年も縛り付け……	「I kept my subordinates trapped in this land for 15 years...
-218964	+	　我々は負けていない、	　Believing we hadn't lost,
-218965	+	　戦いは終わってないと思い込み……」	　that the war wasn't over...
+218963	Monster General		「このような地に部下を15年も縛り付け……	「I kept my subordinates trapped in this land for 15 years...
+218964	+		　我々は負けていない、	　Believing we hadn't lost,
+218965	+		　戦いは終わってないと思い込み……」	　that the war wasn't over...
 
-218966	Monster General	「私は皆をずっと戦わせていたのだな……	　I kept everyone fighting...
-218967	+	　多くの者の命を無駄に失ってしまったのだな……」	　I wasted so many lives...」
+218966	Monster General		「私は皆をずっと戦わせていたのだな……	　I kept everyone fighting...
+218967	+		　多くの者の命を無駄に失ってしまったのだな……」	　I wasted so many lives...」
 
-218968	Monster General	「皆、皆……許してくれとも言えぬ……	「Everyone... I can't even ask for forgiveness...
-218969	+	　すまぬ……本当にすまない……」	　Sorry... I'm truly sorry...」
+218968	Monster General		「皆、皆……許してくれとも言えぬ……	「Everyone... I can't even ask for forgiveness...
+218969	+		　すまぬ……本当にすまない……」	　Sorry... I'm truly sorry...」
 
-218970	Monster Captain	「…………」	「............」
+218970	Monster Captain		「…………」	「............」
 
-218971	Monster Captain	「いえ……どうか顔をお上げ下さい……」	「No... Please raise your head...」
+218971	Monster Captain		「いえ……どうか顔をお上げ下さい……」	「No... Please raise your head...」
 
-218972	Monster Captain	「嫌々、将軍に付き添ったものなど……	「There is not a single person here
-218973	+	　我らの中にただの一人もおりませぬ……」	　who followed you unwillingly...」
+218972	Monster Captain		「嫌々、将軍に付き添ったものなど……	「There is not a single person here
+218973	+		　我らの中にただの一人もおりませぬ……」	　who followed you unwillingly...」
 
-218974	Monster Captain	「逃げようと思えばいつでも出来た……	「We could have run away anytime...
-218975	+	　ですがそれをしなかったのは、	　But we didn't because
-218976	+	　将軍がここにいたから……」	　you were here, General...
+218974	Monster Captain		「逃げようと思えばいつでも出来た……	「We could have run away anytime...
+218975	+		　ですがそれをしなかったのは、	　But we didn't because
+218976	+		　将軍がここにいたから……」	　you were here, General...
 
-218977	Monster Captain	「我々は皆、分かっていて……	「We all understood...
-218978	+	　それでも尚、将軍に感謝し、	　Yet we were grateful to you
-218979	+	　今までついてきたのです……」	　and followed you all this time...」
+218977	Monster Captain		「我々は皆、分かっていて……	「We all understood...
+218978	+		　それでも尚、将軍に感謝し、	　Yet we were grateful to you
+218979	+		　今までついてきたのです……」	　and followed you all this time...」
 
-218980	Monster Captain	「あなたの傍で共に戦えたこと、	「Fighting by your side
-218981	+	　私は、私達は嬉しく思います……」	　made us happy...」
+218980	Monster Captain		「あなたの傍で共に戦えたこと、	「Fighting by your side
+218981	+		　私は、私達は嬉しく思います……」	　made us happy...」
 
-218982	Monster Captain	「ですから……どうか、顔をお上げ下さい……」	「So... please raise your head...」
+218982	Monster Captain		「ですから……どうか、顔をお上げ下さい……」	「So... please raise your head...」
 
-218983	Monster General	「……アレコズイン」	「...Arekozuin.」
+218983	Monster General		「……アレコズイン」	「...Arekozuin.」
 
-218984	Monster General	「…………」	「............」
+218984	Monster General		「…………」	「............」
 
-218985	Monster General	「君達、先程言っていたな……	「You said earlier...
-218986	+	　我らが降伏すれば、我らを無事に	　If we surrender, you will safely
-218987	+	　魔物界まで送ってくれるというのは……」	　return us to the Monster Realm...」
+218985	Monster General		「君達、先程言っていたな……	「You said earlier...
+218986	+		　我らが降伏すれば、我らを無事に	　If we surrender, you will safely
+218987	+		　魔物界まで送ってくれるというのは……」	　return us to the Monster Realm...」
 
-218988	Zance Leazas	「アアン？　今更そんな都合のいい話が――」	「Haa? Such a convenient story now――」
+218988	Zance Leazas		「アアン？　今更そんな都合のいい話が――」	「Haa? Such a convenient story now――」
 
-218989	Reset Kalar	「はい！　はい！　もちろんです！」	「Yes! Yes! Of course!」
+218989	Reset Kalar		「はい！　はい！　もちろんです！」	「Yes! Yes! Of course!」
 
-218990	Zance Leazas	「おま……」	「You...」
+218990	Zance Leazas	不満	「おま……」	「You...」
 
-218991	Reset Kalar	「降伏していただければ、	「If you surrender,
-218992	+	　皆さんを必ず無事に送り返すと、	　I promise to return everyone safely,
-218993	+	　約束させて頂きます！」	　I swear it!」
+218991	Reset Kalar	基本	「降伏していただければ、	「If you surrender,
+218992	+		　皆さんを必ず無事に送り返すと、	　I promise to return everyone safely,
+218993	+		　約束させて頂きます！」	　I swear it!」
 
-218994	Reset Kalar	「で、いいでしょ？　ね？」	「That's fine, right? Okay?」
+218994	Reset Kalar	たははー	「で、いいでしょ？　ね？」	「That's fine, right? Okay?」
 
-218995	Zance Leazas	「ちっ、わあったよ……」	「Tch, fine...」
+218995	Zance Leazas	基本	「ちっ、わあったよ……」	「Tch, fine...」
 
-218996	Monster General	「……そうか」	「...I see.」
+218996	Monster General		「……そうか」	「...I see.」
 
-218997	Monster General	「手厚い待遇に、感謝を述べさせて頂く……」	「I must express my gratitude for the generous treatment...」
+218997	Monster General		「手厚い待遇に、感謝を述べさせて頂く……」	「I must express my gratitude for the generous treatment...」
 
-218998	Monster General	「副官アレコズインよ……	「Vice Officer Alekozuin...
-218999	+	　今度こそ、これが最期の命令だ」	　This is truly my final order.」
+218998	Monster General		「副官アレコズインよ……	「Vice Officer Alekozuin...
+218999	+		　今度こそ、これが最期の命令だ」	　This is truly my final order.」
 
-219000	Monster General	「残りの者を率いて、	「Lead the remaining troops,
-219001	+	　武装解除し、投降し……	　disarm yourselves and surrender...
-219002	+	　後はこの者達に委ねよ……」	　Leave the rest to these people...」
+219000	Monster General		「残りの者を率いて、	「Lead the remaining troops,
+219001	+		　武装解除し、投降し……	　disarm yourselves and surrender...
+219002	+		　後はこの者達に委ねよ……」	　Leave the rest to these people...」
 
-219003	Monster General	「皆に伝えてくれ」	「Tell everyone」
+219003	Monster General		「皆に伝えてくれ」	「Tell everyone」
 
-219004	Monster General	「我らの戦いはようやく終わったのだと……」	「that our war has finally come to an end...」
+219004	Monster General		「我らの戦いはようやく終わったのだと……」	「that our war has finally come to an end...」
 
-219005	Monster Captain	「はっ！」	「Yes sir!」
+219005	Monster Captain		「はっ！」	「Yes sir!」
 
-219006	Monster General	「ぐ、ぐぶっ……！」	「Guh... guh...!」
+219006	Monster General		「ぐ、ぐぶっ……！」	「Guh... guh...!」
 
-219007	-	ダルソンが口から血を吐く。	Darlson coughed up blood from his mouth.
+219007	-		ダルソンが口から血を吐く。	Darlson coughed up blood from his mouth.
 
-219008	-	それだけでなく、ダルソンの胸の斬り傷が	Not only that, the slash wound on Darlson's chest
-219009	+	独りでに開き血を噴き出した。	opened on its own and spurted blood.
+219008	-		それだけでなく、ダルソンの胸の斬り傷が	Not only that, the slash wound on Darlson's chest
+219009	+		独りでに開き血を噴き出した。	opened on its own and spurted blood.
 
-219010	Monster General	「傷が開いた……	「The wound has opened...
-219011	+	　いや、思い出したか」	　No, I must have remembered.」
+219010	Monster General		「傷が開いた……	「The wound has opened...
+219011	+		　いや、思い出したか」	　No, I must have remembered.」
 
-219012	Monster Captain	「しょ、将軍……」	「G-General...」
+219012	Monster Captain		「しょ、将軍……」	「G-General...」
 
-219013	Monster General	「いや、いい……	「No, it's fine...
-219014	+	　これもまた、思い出しただけ……	　I simply remembered, that's all...
-219015	+	　今までが異常だったのだ……」	　Everything until now was the abnormality...」
+219013	Monster General		「いや、いい……	「No, it's fine...
+219014	+		　これもまた、思い出しただけ……	　I simply remembered, that's all...
+219015	+		　今までが異常だったのだ……」	　Everything until now was the abnormality...」
 
-219016	Monster General	「皆に感謝を……」	「My thanks to everyone...」
+219016	Monster General		「皆に感謝を……」	「My thanks to everyone...」
 
-219017	Monster General	「副官アレコズイン……	「Vice Officer Alekozuin...
-219018	+	　後は、任せたぞ……」	　I'll leave the rest to you...」
+219017	Monster General		「副官アレコズイン……	「Vice Officer Alekozuin...
+219018	+		　後は、任せたぞ……」	　I'll leave the rest to you...」
 
-219019	Monster Captain	「はっ！」	「Yes sir!」
+219019	Monster Captain		「はっ！」	「Yes sir!」
 
-219020	Monster Captain	「必ずや！　必ずや命令を全うします！」	「Without fail! I will carry out your order to the end!」
+219020	Monster Captain		「必ずや！　必ずや命令を全うします！」	「Without fail! I will carry out your order to the end!」
 
-219021	Red Monster Soldier	「ぉ、ぉおおお……ダルソン様ぁ……」	「O-ooooh... Lord Darlson...」
+219021	Red Monster Soldier		「ぉ、ぉおおお……ダルソン様ぁ……」	「O-ooooh... Lord Darlson...」
 
-219022	Green Monster Soldier	「将軍！　将軍！　うわぁぁあ！」	「General! General! Uwaaaaah!」
+219022	Green Monster Soldier		「将軍！　将軍！　うわぁぁあ！」	「General! General! Uwaaaaah!」
 
-219023	-	周りにいた兵達が涙ながらに、	The surrounding soldiers, with tears in their eyes,
-219024	+	ダルソンに敬礼を送る。	saluted Darlson.
+219023	-		周りにいた兵達が涙ながらに、	The surrounding soldiers, with tears in their eyes,
+219024	+		ダルソンに敬礼を送る。	saluted Darlson.
 
-219025	Monster General	「皆……今まですまなかった……	「Everyone... I'm sorry for everything until now...
-219026	+	　ゆっくりと……休んでくれ……」	　Rest... slowly now...」
+219025	Monster General		「皆……今まですまなかった……	「Everyone... I'm sorry for everything until now...
+219026	+		　ゆっくりと……休んでくれ……」	　Rest... slowly now...」
 
-219027	Monster General	「さらばだ……」	「Farewell...」
+219027	Monster General		「さらばだ……」	「Farewell...」
 
-219028	-	魔物将軍ダルソンの体が、	Monster General Darlson's body
-219029	+	空気に溶けるようにかき消えた。	faded away as if dissolving into the air.
+219028	-		魔物将軍ダルソンの体が、	Monster General Darlson's body
+219029	+		空気に溶けるようにかき消えた。	faded away as if dissolving into the air.
 
-219030	Nagata-kun	「…………へ？　消え、た？」	「............Eh? He disappeared?」
+219030	Nagata-kun		「…………へ？　消え、た？」	「............Eh? He disappeared?」
 
-219031	Rocky Bank	「え……	「Eh...
-219032	+	　それじゃあ……まさか……	　Then... could it be...
-219033	+	　ダルソン将軍って……」	　General Darlson was...」
+219031	Rocky Bank	ガーン	「え……	「Eh...
+219032	+		　それじゃあ……まさか……	　Then... could it be...
+219033	+		　ダルソン将軍って……」	　General Darlson was...」
 
-219034	Zance Leazas	「ゆ、幽霊！？」	「A-a ghost!?」
+219034	Zance Leazas	呆れ	「ゆ、幽霊！？」	「A-a ghost!?」
 
-219035	Monster Captain	「…………」	「............」
+219035	Monster Captain	基本	「…………」	「............」
 
-219036	Monster Captain	「私達も最初は気づかなかったのだがな……」	「We didn't notice at first either...
+219036	Monster Captain		「私達も最初は気づかなかったのだがな……」	「We didn't notice at first either...
 
-219037	Monster Captain	「将軍は15年前、深手を負い、	「The General suffered a severe wound fifteen years ago,
-219038	+	　おそらくはその傷がもとで……」	　and most likely died from it...」
+219037	Monster Captain		「将軍は15年前、深手を負い、	「The General suffered a severe wound fifteen years ago,
+219038	+		　おそらくはその傷がもとで……」	　and most likely died from it...」
 
-219039	Monster Captain	「あの方が戦い続けたのは……	「He continued fighting...
-219040	+	　軍人として責務を果たす為、	　to fulfill his duty as a soldier,
-219041	+	　命を長らえる為でもあった……」	　and also to prolong his life...」
+219039	Monster Captain		「あの方が戦い続けたのは……	「He continued fighting...
+219040	+		　軍人として責務を果たす為、	　to fulfill his duty as a soldier,
+219041	+		　命を長らえる為でもあった……」	　and also to prolong his life...」
 
-219042	Monster Captain	「そして、そんな環境を作ったのは、	「And the ones who created that environment
-219043	+	　我々の方でもあるのだ……」	　were us as well...」
+219042	Monster Captain		「そして、そんな環境を作ったのは、	「And the ones who created that environment
+219043	+		　我々の方でもあるのだ……」	　were us as well...」
 
-219044	Monster Captain	「戦いはまだ終わっていない。	「The war was not over yet.
-219045	+	　だからここに残ってくれと」	　So he asked us to stay here.」
+219044	Monster Captain		「戦いはまだ終わっていない。	「The war was not over yet.
+219045	+		　だからここに残ってくれと」	　So he asked us to stay here.」
 
-219046	Monster Captain	「これでいいのかと……	「Was this really okay...
-219047	+	　皆、迷いながら、な……」	　We were all hesitating...」
+219046	Monster Captain		「これでいいのかと……	「Was this really okay...
+219047	+		　皆、迷いながら、な……」	　We were all hesitating...」
 
-219048	Monster Captain	「…………」	「............」
+219048	Monster Captain		「…………」	「............」
 
-219049	Monster Captain	「将軍、どうか……	「General, please...
-219050	+	　今はただ、ゆっくりとお休み下さい……」	　just rest slowly now...」
+219049	Monster Captain		「将軍、どうか……	「General, please...
+219050	+		　今はただ、ゆっくりとお休み下さい……」	　just rest slowly now...」
 
-219051	-	副官アレコズインが空に向かって、	Vice Officer Alekozuin faced the sky
-219052	+	最後の敬礼を行った。	and gave one final salute.
+219051	-		副官アレコズインが空に向かって、	Vice Officer Alekozuin faced the sky
+219052	+		最後の敬礼を行った。	and gave one final salute.
 
-219053	-	ふと、隣を見れば、	When she glanced to the side,
-219054	+	ザンスもリセットも敬礼を行っていた。	Zance and Reset were also saluting.
+219053	-		ふと、隣を見れば、	When she glanced to the side,
+219054	+		ザンスもリセットも敬礼を行っていた。	Zance and Reset were also saluting.
 
-219055	-	それを見て、あなたも真似をした。	Seeing that, you copied them.
+219055	-		それを見て、あなたも真似をした。	Seeing that, you copied them.
 
-219056	-	…………	............
+219056	-		…………	............
 
-219057	-	……	...
+219057	-		……	...

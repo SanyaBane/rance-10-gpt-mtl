@@ -4,185 +4,185 @@
 * El Mofus	エール２	Player's choice
 * Lelikov Helman	レリコフ２	Female
 
-235005	-	次の日――	The next day――
+235005	-		次の日――	The next day――
 
-235006	-	街は朝から遂に迎えた	The city was bustling from morning
-235007	+	闘神大会の幕開けに賑わっていた。	with the long-awaited opening of the Toushin Tournament.
+235006	-		街は朝から遂に迎えた	The city was bustling from morning
+235007	+		闘神大会の幕開けに賑わっていた。	with the long-awaited opening of the Toushin Tournament.
 
-235008	-	あなたはリセットと共にコロシアムに赴くと、	You headed to the colosseum with Reset,
-235009	+	控え室で第一戦の開始を待っていた。	and waited in the waiting room for the start of the first match.
+235008	-		あなたはリセットと共にコロシアムに赴くと、	You headed to the colosseum with Reset,
+235009	+		控え室で第一戦の開始を待っていた。	and waited in the waiting room for the start of the first match.
 
-235010	Reset Kalar	「うう……私の方がハラハラしてきた……」	「Uuu... I'm getting more nervous than you...」
+235010	Reset Kalar	憂い	「うう……私の方がハラハラしてきた……」	「Uuu... I'm getting more nervous than you...」
 
-235011	Shuri Seihajuu Nagasaki	「なんたって初戦ですしねー、	「It's the first match after all,
-235012	+	　仕方ないですよ」	　it can't be helped.」
+235011	Shuri Seihajuu Nagasaki	基本	「なんたって初戦ですしねー、	「It's the first match after all,
+235012	+		　仕方ないですよ」	　it can't be helped.」
 
-235013	-	ベンチに座って試合開始を待つあなたの前では、	In front of you as you sat on the bench waiting for the match to begin,
-235014	+	緊張をほぐそうとするように、	Reset and Shuri were having a casual chat
-235015	+	リセットとシュリが呑気な会話をしていた。	as if trying to ease the tension.
+235013	-		ベンチに座って試合開始を待つあなたの前では、	In front of you as you sat on the bench waiting for the match to begin,
+235014	+		緊張をほぐそうとするように、	Reset and Shuri were having a casual chat
+235015	+		リセットとシュリが呑気な会話をしていた。	as if trying to ease the tension.
 
-235016	Shuri Seihajuu Nagasaki	「さって、それではもうご存じだとは思いますが、	「Well then, I think you already know this, but
-235017	+	　改めて闘神大会のルール説明をしますね」	　I'll explain the rules of the Toushin Tournament once again.」
+235016	Shuri Seihajuu Nagasaki		「さって、それではもうご存じだとは思いますが、	「Well then, I think you already know this, but
+235017	+		　改めて闘神大会のルール説明をしますね」	　I'll explain the rules of the Toushin Tournament once again.」
 
-235018	Shuri Seihajuu Nagasaki	「闘神大会はトーナメント形式で	「The Toushin Tournament is a tournament format
-235019	+	　32名の戦士達が戦う大会です」	　where 32 warriors will fight.」
+235018	Shuri Seihajuu Nagasaki	真剣	「闘神大会はトーナメント形式で	「The Toushin Tournament is a tournament format
+235019	+		　32名の戦士達が戦う大会です」	　where 32 warriors will fight.」
 
-235020	Shuri Seihajuu Nagasaki	「優勝まではざっと五連勝すればいい計算ですね。	「To win the championship, you basically need five straight wins.
-235021	+	　まあ、その五連勝が難しいんですけど」	　Well, those five wins are the hard part.」
+235020	Shuri Seihajuu Nagasaki		「優勝まではざっと五連勝すればいい計算ですね。	「To win the championship, you basically need five straight wins.
+235021	+		　まあ、その五連勝が難しいんですけど」	　Well, those five wins are the hard part.」
 
-235022	Shuri Seihajuu Nagasaki	「対戦は一対一の戦闘。	「Matches are one-on-one battles.
-235023	+	　誰かの手助け禁止、回復アイテムの使用禁止。	　No assistance from others, no use of recovery items.
-235024	+	　携帯できない大きさの武器の禁止」	　Weapons too large to carry are prohibited.」
+235022	Shuri Seihajuu Nagasaki		「対戦は一対一の戦闘。	「Matches are one-on-one battles.
+235023	+		　誰かの手助け禁止、回復アイテムの使用禁止。	　No assistance from others, no use of recovery items.
+235024	+		　携帯できない大きさの武器の禁止」	　Weapons too large to carry are prohibited.」
 
-235025	Shuri Seihajuu Nagasaki	「決着はどちらかが戦闘不能になるか、	「A match ends when one side becomes unable to fight
-235026	+	　棄権を申し出た際に決定します。	　or when one side forfeits.
-235027	+	　時間制限はありませんので存分に戦って下さい」	　There is no time limit, so fight to your heart's content.」
+235025	Shuri Seihajuu Nagasaki		「決着はどちらかが戦闘不能になるか、	「A match ends when one side becomes unable to fight
+235026	+		　棄権を申し出た際に決定します。	　or when one side forfeits.
+235027	+		　時間制限はありませんので存分に戦って下さい」	　There is no time limit, so fight to your heart's content.」
 
-235028	Shuri Seihajuu Nagasaki	「こんなところですかね」	「That's about it.」
+235028	Shuri Seihajuu Nagasaki	笑み	「こんなところですかね」	「That's about it.」
 
-235029	Shuri Seihajuu Nagasaki	「本日の＜エール＞さんの相手は、	「Your opponent today, ＜エール＞-san, is
-235030	+	　魔王の子の一人、レリコフさん」	　one of the Demon King's children, Lelikov Helman-san.」
+235029	Shuri Seihajuu Nagasaki	基本	「本日の＜エール＞さんの相手は、	「Your opponent today, ＜エール＞-san, is
+235030	+		　魔王の子の一人、レリコフさん」	　one of the Demon King's children, Lelikov Helman-san.」
 
-235031	Shuri Seihajuu Nagasaki	「シンプルな格闘家さんだそうですので、	「She's a straightforward martial artist,
-235032	+	　＜エール＞さんもまっとうに	　so if you fight fairly,
-235033	+	　レベルが高ければ勝てる筈ですよ」	　you should be able to win with your level.」
+235031	Shuri Seihajuu Nagasaki		「シンプルな格闘家さんだそうですので、	「She's a straightforward martial artist,
+235032	+		　＜エール＞さんもまっとうに	　so if you fight fairly,
+235033	+		　レベルが高ければ勝てる筈ですよ」	　you should be able to win with your level.」
 
-235034	Shuri Seihajuu Nagasaki	「……って、この辺りは	「...Well, I guess
-235035	+	　私に言われるまでもないですよね、	　you don't need me telling you this,
-235036	+	　身内の方なんですから」	　since you're family and all.」
+235034	Shuri Seihajuu Nagasaki	困り	「……って、この辺りは	「...Well, I guess
+235035	+		　私に言われるまでもないですよね、	　you don't need me telling you this,
+235036	+		　身内の方なんですから」	　since you're family and all.」
 
-235037	Shuri Seihajuu Nagasaki	「私、普段はこうして、	「I usually do this kind of work,
-235038	+	　選手の情報を皆様に伝える仕事もしてるので、	　passing information about the contestants to everyone,
-235039	+	　何か聞きたいことがあれば受付へどうぞ」	　so if you have any questions, please go to the reception.」
+235037	Shuri Seihajuu Nagasaki	基本	「私、普段はこうして、	「I usually do this kind of work,
+235038	+		　選手の情報を皆様に伝える仕事もしてるので、	　passing information about the contestants to everyone,
+235039	+		　何か聞きたいことがあれば受付へどうぞ」	　so if you have any questions, please go to the reception.」
 
-235040	Shuri Seihajuu Nagasaki	「さて、そろそろ試合時間ですかね……」	「Well then, it's almost time for the match...」
+235040	Shuri Seihajuu Nagasaki		「さて、そろそろ試合時間ですかね……」	「Well then, it's almost time for the match...」
 
-235041	Shuri Seihajuu Nagasaki	「闘神大会の第一戦、	「The first match of the Toushin Tournament,
-235042	+	　それも魔王の子同士の戦いということで、	　and it's between two of the Demon King's children,
-235043	+	　コロシアムはとてつもなく盛り上がってますよ」	　so the colosseum is incredibly hyped up.」
+235041	Shuri Seihajuu Nagasaki		「闘神大会の第一戦、	「The first match of the Toushin Tournament,
+235042	+		　それも魔王の子同士の戦いということで、	　and it's between two of the Demon King's children,
+235043	+		　コロシアムはとてつもなく盛り上がってますよ」	　so the colosseum is incredibly hyped up.」
 
-235044	Shuri Seihajuu Nagasaki	「私もこっそりと応援してますから、	「I'll be secretly cheering for you too,
-235045	+	　頑張ってくださいね♪」	　so do your best♪」
+235044	Shuri Seihajuu Nagasaki	おめでとう	「私もこっそりと応援してますから、	「I'll be secretly cheering for you too,
+235045	+		　頑張ってくださいね♪」	　so do your best♪」
 
-235046	?	「選手、入場お願いします！」	「Contestants, please enter the arena!」
+235046	?		「選手、入場お願いします！」	「Contestants, please enter the arena!」
 
-235047	Reset Kalar	「あっ、来た来た！」	「Ah, it's time!」
+235047	Reset Kalar	基本	「あっ、来た来た！」	「Ah, it's time!」
 
-235048	Reset Kalar	「ここから応援してるね、＜エール＞ちゃん。	「I'll be cheering for you from here, ＜エール＞-chan.
-235049	+	　がんばってね」	　Do your best.」
+235048	Reset Kalar	口開き	「ここから応援してるね、＜エール＞ちゃん。	「I'll be cheering for you from here, ＜エール＞-chan.
+235049	+		　がんばってね」	　Do your best.」
 
-235050	El Mofus	「…………。」	「............」
-235051	Reset Kalar	「うんっ！　行ってらっしゃい！」	「Yeah! Go get 'em!」
+235050	El Mofus	基本	「…………。」	「............」
+235051	Reset Kalar	笑顔	「うんっ！　行ってらっしゃい！」	「Yeah! Go get 'em!」
 
-235052	-	あなたは姉に頷きを返してから、	You nodded back to your sister,
-235053	+	試合場へ足を踏み入れた。	then stepped into the arena.
+235052	-		あなたは姉に頷きを返してから、	You nodded back to your sister,
+235053	+		試合場へ足を踏み入れた。	then stepped into the arena.
 
-235054	Reset Kalar	「ふふ、平常心って感じだね！	「Fufu, you look so calm!
-235055	+	　いってらっしゃい！」	　Off you go!」
+235054	Reset Kalar		「ふふ、平常心って感じだね！	「Fufu, you look so calm!
+235055	+		　いってらっしゃい！」	　Off you go!」
 
-235056	-	あなたは姉に見送られて、	You stepped into the arena
-235057	+	試合場へ足を踏み入れた。	with your sister seeing you off.
+235056	-		あなたは姉に見送られて、	You stepped into the arena
+235057	+		試合場へ足を踏み入れた。	with your sister seeing you off.
 
-235058	Reset Kalar	「それはザンスちゃんが怒るから、	「Zance-chan would get mad if you didn't,
-235059	+	　少しくらいは頑張ろうね……」	　so let's try a little bit at least...」
+235058	Reset Kalar	たははー	「それはザンスちゃんが怒るから、	「Zance-chan would get mad if you didn't,
+235059	+		　少しくらいは頑張ろうね……」	　so let's try a little bit at least...」
 
-235060	-	あなたは姉に呆れられながら、	While your sister looked at you in exasperation,
-235061	+	試合場へ足を踏み入れた。	you stepped into the arena.
+235060	-		あなたは姉に呆れられながら、	While your sister looked at you in exasperation,
+235061	+		試合場へ足を踏み入れた。	you stepped into the arena.
 
-235062	-	外に出た途端、	The moment you stepped outside,
-235063	+	カッと、強い日差しが襲い、	a strong glare of sunlight hit you,
-235064	+	あなたはかすかに目を細めた。	and you squinted slightly.
+235062	-		外に出た途端、	The moment you stepped outside,
+235063	+		カッと、強い日差しが襲い、	a strong glare of sunlight hit you,
+235064	+		あなたはかすかに目を細めた。	and you squinted slightly.
 
-235065	-	その強い光に慣れた頃、	Once your eyes adjusted to the bright light,
-235066	+	あなたが薄く瞼を開くと――	and you slowly opened your eyelids――
+235065	-		その強い光に慣れた頃、	Once your eyes adjusted to the bright light,
+235066	+		あなたが薄く瞼を開くと――	and you slowly opened your eyelids――
 
-235067	-	　	　
-235068	+	　　＜わああああああああああああ！！＞	　　＜Waaaaaaaaaaaaahhh!!＞
+235067	-		　	　
+235068	+		　　＜わああああああああああああ！！＞	　　＜Waaaaaaaaaaaaahhh!!＞
 
-235069	-	あなたの体が揺れるほどの	A cheer so loud it shook your body
-235070	+	歓声が一拍遅れて試合場に轟いた。	echoed through the arena a beat later.
+235069	-		あなたの体が揺れるほどの	A cheer so loud it shook your body
+235070	+		歓声が一拍遅れて試合場に轟いた。	echoed through the arena a beat later.
 
-235071	-	場内はあなたの登場に沸き立ち、	The entire venue erupted at your entrance,
-235072	+	沢山の人間があなたを見、	with crowds of people watching you
-235073	+	あなたの行おうとする試合に熱中していた。	and focusing intently on the match you were about to fight.
+235071	-		場内はあなたの登場に沸き立ち、	The entire venue erupted at your entrance,
+235072	+		沢山の人間があなたを見、	with crowds of people watching you
+235073	+		あなたの行おうとする試合に熱中していた。	and focusing intently on the match you were about to fight.
 
-235074	-	この状況にあなたは――	Faced with this situation, you――
-235075	+	心臓が痛いほどにバクバクと鳴っていた。	Your heart was pounding so hard it hurt.
+235074	-		この状況にあなたは――	Faced with this situation, you――
+235075	+		心臓が痛いほどにバクバクと鳴っていた。	Your heart was pounding so hard it hurt.
 
-235076	-	これだけの大観衆を前に、	Standing before such a massive crowd,
-235077	+	あなたの足は自然とカクカクと震えた。	your legs trembled uncontrollably.
+235076	-		これだけの大観衆を前に、	Standing before such a massive crowd,
+235077	+		あなたの足は自然とカクカクと震えた。	your legs trembled uncontrollably.
 
-235078	-	ぞわりと体が震え、	A shiver ran through your body,
-235079	+	体の皮膚は熱いのに体内は冷えるような	your skin burning hot while inside felt freezing cold,
-235080	+	不思議な感覚をあなたは味わう。	a strange sensation washing over you.
+235078	-		ぞわりと体が震え、	A shiver ran through your body,
+235079	+		体の皮膚は熱いのに体内は冷えるような	your skin burning hot while inside felt freezing cold,
+235080	+		不思議な感覚をあなたは味わう。	a strange sensation washing over you.
 
-235081	-	心臓が高鳴る。	Your heart raced.
-235082	+	あなたはワクワクとしていた。	You felt excited.
+235081	-		心臓が高鳴る。	Your heart raced.
+235082	+		あなたはワクワクとしていた。	You felt excited.
 
-235083	-	歓声が遠くに聞こえる。	The cheers sounded distant.
+235083	-		歓声が遠くに聞こえる。	The cheers sounded distant.
 
-235084	-	あなたにとっては大観衆もまるで現実味がなかった。	The huge crowd didn't even feel real to you.
+235084	-		あなたにとっては大観衆もまるで現実味がなかった。	The huge crowd didn't even feel real to you.
 
-235085	Lelikov Helman	「おっ……」	「Oh...」
+235085	Lelikov Helman	基本	「おっ……」	「Oh...」
 
-235086	Lelikov Helman	「へへーっ」	「Hehe~」
+235086	Lelikov Helman	きゃはは！	「へへーっ」	「Hehe~」
 
-235087	-	向かいから現れたレリコフは、	Lelikov Helman appeared from the opposite side,
-235088	+	あなたと目が合うと、いつも通りの	and when your eyes met, she flashed her usual
-235089	+	元気いっぱいの笑顔を浮かべた。	bright and energetic smile.
+235087	-		向かいから現れたレリコフは、	Lelikov Helman appeared from the opposite side,
+235088	+		あなたと目が合うと、いつも通りの	and when your eyes met, she flashed her usual
+235089	+		元気いっぱいの笑顔を浮かべた。	bright and energetic smile.
 
-235090	Shuri Seihajuu Nagasaki	『さーって！　皆様お待たせいたしました！』	『Alright! Thank you for waiting, everyone!』
+235090	Shuri Seihajuu Nagasaki	基本	『さーって！　皆様お待たせいたしました！』	『Alright! Thank you for waiting, everyone!』
 
-235091	-	どこかから実況をするのだろう。	She must be commentating from somewhere.
-235092	+	シュリのマイクの声がコロシアムに響く。	Shuri's voice echoed through the colosseum via the microphone.
+235091	-		どこかから実況をするのだろう。	She must be commentating from somewhere.
+235092	+		シュリのマイクの声がコロシアムに響く。	Shuri's voice echoed through the colosseum via the microphone.
 
-235093	Shuri Seihajuu Nagasaki	『これから第22回闘神大会、	『We are about to begin the 22nd Toushin Tournament,
-235094	+	　その記念すべきAブロック第一戦を	　the very first match of Block A!
-235095	+	　開始したいと思いまーーっす！』	　Let's get this started!』
+235093	Shuri Seihajuu Nagasaki		『これから第22回闘神大会、	『We are about to begin the 22nd Toushin Tournament,
+235094	+		　その記念すべきAブロック第一戦を	　the very first match of Block A!
+235095	+		　開始したいと思いまーーっす！』	　Let's get this started!』
 
-235096	Shuri Seihajuu Nagasaki	『龍のコーナーより登場するは、	『Entering from the Dragon corner,
-235097	+	　AL教法王と魔王の実の子供！	　the real child of both the AL Pope and the Demon King!
-235098	+	　＜エール＞・モフス選手！』	　＜エール＞ Mofus!』
+235096	Shuri Seihajuu Nagasaki		『龍のコーナーより登場するは、	『Entering from the Dragon corner,
+235097	+		　AL教法王と魔王の実の子供！	　the real child of both the AL Pope and the Demon King!
+235098	+		　＜エール＞・モフス選手！』	　＜エール＞ Mofus!』
 
-235099	Shuri Seihajuu Nagasaki	『法王様のお子様にして魔王の子の一人！	『Child of the Pope and one of the Demon King's offspring!
-235100	+	　これまで表舞台には一切出て来ておらず、	　She has never appeared on the public stage before,
-235101	+	　存在自体が知られておりませんでしたが――』	　and her very existence was unknown until now――』
+235099	Shuri Seihajuu Nagasaki		『法王様のお子様にして魔王の子の一人！	『Child of the Pope and one of the Demon King's offspring!
+235100	+		　これまで表舞台には一切出て来ておらず、	　She has never appeared on the public stage before,
+235101	+		　存在自体が知られておりませんでしたが――』	　and her very existence was unknown until now――』
 
-235102	Shuri Seihajuu Nagasaki	『なんと、今では新たに習得できない神魔法を、	『And yet, she is one of the few in the world
-235103	+	　現在も習得していくことができる、	　who can still learn new divine magic
-235104	+	　おそらく世界ほぼ唯一の方とのこと！』	　that can no longer be acquired!』
+235102	Shuri Seihajuu Nagasaki		『なんと、今では新たに習得できない神魔法を、	『And yet, she is one of the few in the world
+235103	+		　現在も習得していくことができる、	　who can still learn new divine magic
+235104	+		　おそらく世界ほぼ唯一の方とのこと！』	　that can no longer be acquired!』
 
-235105	Shuri Seihajuu Nagasaki	「そして――ッ！」	「And now――!」
+235105	Shuri Seihajuu Nagasaki		「そして――ッ！」	「And now――!」
 
-235106	Shuri Seihajuu Nagasaki	『鬼のコーナーより現れしは、	『From the Oni corner comes
-235107	+	　北国の花丸元気っ娘！	　the energetic flower of the northern lands!
-235108	+	　レリコフ・ヘルマン選手！』	　Lelikov Helman!』
+235106	Shuri Seihajuu Nagasaki		『鬼のコーナーより現れしは、	『From the Oni corner comes
+235107	+		　北国の花丸元気っ娘！	　the energetic flower of the northern lands!
+235108	+		　レリコフ・ヘルマン選手！』	　Lelikov Helman!』
 
-235109	Lelikov Helman	「うん？」	「Hmm?」
+235109	Lelikov Helman		「うん？」	「Hmm?」
 
-235110	Shuri Seihajuu Nagasaki	『目立った経歴こそありませんが、	『She doesn't have any notable achievements yet,
-235111	+	　魔王の子である時点で、	　but as a child of the Demon King,
-235112	+	　彼女もただものでないのは明白！』	　it's clear she's no ordinary fighter!』
+235110	Shuri Seihajuu Nagasaki		『目立った経歴こそありませんが、	『She doesn't have any notable achievements yet,
+235111	+		　魔王の子である時点で、	　but as a child of the Demon King,
+235112	+		　彼女もただものでないのは明白！』	　it's clear she's no ordinary fighter!』
 
-235113	Shuri Seihajuu Nagasaki	『格闘技の師匠はあの、パットン・ヘルマンさん！	『Her martial arts master is the legendary Patton Helman!
-235114	+	　どんな戦いを見せてくれるか、	　We're all looking forward to what kind of fight
-235115	+	　こちらも要注目です！』	　she'll show us!』
+235113	Shuri Seihajuu Nagasaki		『格闘技の師匠はあの、パットン・ヘルマンさん！	『Her martial arts master is the legendary Patton Helman!
+235114	+		　どんな戦いを見せてくれるか、	　We're all looking forward to what kind of fight
+235115	+		　こちらも要注目です！』	　she'll show us!』
 
-235116	Lelikov Helman	「へへーっ、なんかすごい大袈裟に言われてるね」	「Hehe~, they're making me sound really exaggerated.」
+235116	Lelikov Helman	きゃはは！	「へへーっ、なんかすごい大袈裟に言われてるね」	「Hehe~, they're making me sound really exaggerated.」
 
-235117	-	レリコフの表情はいたっていつも通り、	Lelikov Helman's expression was completely normal as always,
-235118	+	どうやら緊張のたぐいはないらしい。	seemingly without a hint of nervousness.
+235117	-		レリコフの表情はいたっていつも通り、	Lelikov Helman's expression was completely normal as always,
+235118	+		どうやら緊張のたぐいはないらしい。	seemingly without a hint of nervousness.
 
-235119	Lelikov Helman	「＜エール＞、ちゃんと全力で戦ってよね？」	「＜エール＞, make sure you fight with everything you've got, okay?」
+235119	Lelikov Helman	基本	「＜エール＞、ちゃんと全力で戦ってよね？」	「＜エール＞, make sure you fight with everything you've got, okay?」
 
-235120	Lelikov Helman	「ボク、負けないから！」	「I won't lose!」
+235120	Lelikov Helman		「ボク、負けないから！」	「I won't lose!」
 
-235121	Shuri Seihajuu Nagasaki	『それでは――』	『And now――』
+235121	Shuri Seihajuu Nagasaki		『それでは――』	『And now――』
 
-235122	Lelikov Helman	「ヘルマン家、家訓！	「Helman family house rule!
-235123	+	　その一・いつも笑顔で明るく楽しく！」	　Number one: Always smile, stay bright and have fun!」
+235122	Lelikov Helman		「ヘルマン家、家訓！	「Helman family house rule!
+235123	+		　その一・いつも笑顔で明るく楽しく！」	　Number one: Always smile, stay bright and have fun!」
 
-235124	Lelikov Helman	「レリコフ・ヘルマン！	「Lelikov Helman!
-235125	+	　行っきまーーーーっす！！！！」	　Here I goooooooo!!!!」
+235124	Lelikov Helman	きゃはは！	「レリコフ・ヘルマン！	「Lelikov Helman!
+235125	+		　行っきまーーーーっす！！！！」	　Here I goooooooo!!!!」
 
-235126	Shuri Seihajuu Nagasaki	『試合開始ーーーーーッ！！』	『Match start-----!!』
+235126	Shuri Seihajuu Nagasaki	基本	『試合開始ーーーーーッ！！』	『Match start-----!!』

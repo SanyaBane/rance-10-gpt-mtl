@@ -4,64 +4,64 @@
 * Crook Mofus	クルックー２	Female
 * El Mofus	エール２	Player's choice
 
-195303	Nagata-kun	「えっ、行かないの！？」	「Eh, you're not going!?」
+195303	Nagata-kun	基本	「えっ、行かないの！？」	「Eh, you're not going!?」
 
-195304	-	あなたは力強く頷いた。	You nodded firmly.
+195304	-		あなたは力強く頷いた。	You nodded firmly.
 
-195305	Nagata-kun	「え、だってさっきまで……」	「Eh, but earlier you...」
+195305	Nagata-kun		「え、だってさっきまで……」	「Eh, but earlier you...」
 
-195306	Nagata-kun	「ま、まあお前がそう言うなら……」	「W, well if you say so...」
+195306	Nagata-kun		「ま、まあお前がそう言うなら……」	「W, well if you say so...」
 
-195307	Nagata-kun	「え、マジ行かねぇの？」	「Eh, you're seriously not going?」
+195307	Nagata-kun		「え、マジ行かねぇの？」	「Eh, you're seriously not going?」
 
-195308	-	あなたは再度、力強く頷いた。	You nodded firmly once more.
+195308	-		あなたは再度、力強く頷いた。	You nodded firmly once more.
 
-195309	Nagata-kun	「……そ、そっか」	「...I, I see.」
+195309	Nagata-kun		「……そ、そっか」	「...I, I see.」
 
-195310	Nagata-kun	「よーし！	「Alright!
-195311	+	　じゃあこんな村のことはスパッと忘れて！	　Let's forget about this village!
-195312	+	　冒険の続きと行こうぜー！」	　On to the next adventure!」
+195310	Nagata-kun		「よーし！	「Alright!
+195311	+		　じゃあこんな村のことはスパッと忘れて！	　Let's forget about this village!
+195312	+		　冒険の続きと行こうぜー！」	　On to the next adventure!」
 
-195313	Old Man	「えー……」	「Eh...」
+195313	Old Man		「えー……」	「Eh...」
 
-195314	-	あなたは魔王ランスも使命も忘れて、	Forgetting about Demon King Rance and your mission,
-195315	+	長田君と遊ぶように毎日冒険をした。	you adventured every day with Nagata-kun as if playing.
+195314	-		あなたは魔王ランスも使命も忘れて、	Forgetting about Demon King Rance and your mission,
+195315	+		長田君と遊ぶように毎日冒険をした。	you adventured every day with Nagata-kun as if playing.
 
-195316	-	時には無名の山賊を倒し、	Sometimes defeating nameless bandits,
-195317	+	ギルドで依頼を受けてこなし、観光も行う。	taking guild requests, and sightseeing.
+195316	-		時には無名の山賊を倒し、	Sometimes defeating nameless bandits,
+195317	+		ギルドで依頼を受けてこなし、観光も行う。	taking guild requests, and sightseeing.
 
-195318	-	楽しい日々が過ぎていく。	Fun days passed by.
+195318	-		楽しい日々が過ぎていく。	Fun days passed by.
 
-195319	-	…………	............
+195319	-		…………	............
 
-195320	-	……	...
+195320	-		……	...
 
-195321	-	一年後――	One year later――
+195321	-		一年後――	One year later――
 
-195322	Crook Mofus	「…………」	「............」
+195322	Crook Mofus	たしなめる	「…………」	「............」
 
-195323	El Mofus	「…………。」	「............」
-195324	Crook Mofus	「はい、お帰りなさい」	「Welcome back.」
+195323	El Mofus	基本	「…………。」	「............」
+195324	Crook Mofus	たしなめる	「はい、お帰りなさい」	「Welcome back.」
 
-195325	Crook Mofus	「とりあえず……」	「For now...」
+195325	Crook Mofus		「とりあえず……」	「For now...」
 
-195326	Crook Mofus	「晩ご飯でも食べましょうか」	「Shall we have dinner?」
+195326	Crook Mofus	基本	「晩ご飯でも食べましょうか」	「Shall we have dinner?」
 
-195327	Crook Mofus	「そのようですね」	「It seems so.」
+195327	Crook Mofus	たしなめる	「そのようですね」	「It seems so.」
 
-195328	Crook Mofus	「ま、仕方ありませんね」	「Well, it can't be helped.」
+195328	Crook Mofus		「ま、仕方ありませんね」	「Well, it can't be helped.」
 
-195329	Crook Mofus	「そうそう。	「That's right.
-195330	+	　冒険、楽しかったですか？」	　Did you enjoy your adventure?」
+195329	Crook Mofus	基本	「そうそう。	「That's right.
+195330	+		　冒険、楽しかったですか？」	　Did you enjoy your adventure?」
 
-195331	El Mofus	「…………。」	「............」
+195331	El Mofus		「…………。」	「............」
 
-195332	Crook Mofus	「……そうですか」	「...I see.」
+195332	Crook Mofus		「……そうですか」	「...I see.」
 
-195333	-	魔王ランスも魔王の子達も無視して――	Ignoring Demon King Rance and his children――
+195333	-		魔王ランスも魔王の子達も無視して――	Ignoring Demon King Rance and his children――
 
-195334	-	こうしてあなたの冒険は幕を閉じた。	your adventure came to an end like this.
+195334	-		こうしてあなたの冒険は幕を閉じた。	your adventure came to an end like this.
 
-195335	-	…………	............
+195335	-		…………	............
 
-195336	-	……	...
+195336	-		……	...

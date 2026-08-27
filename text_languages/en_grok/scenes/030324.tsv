@@ -3,126 +3,126 @@
 * Rance Castle Knight	汎用ランス城騎士	Female
 * Biscuitta Burns	ビスケッタ	Female
 
-10	Sanakia Drelshkaf	「ううむ……新しい兵法書が出ていたか。	「Hmm... A new military strategy book has come out.
-11	+	　読んでおかないと……」	　I need to read it...」
+10	Sanakia Drelshkaf	真剣	「ううむ……新しい兵法書が出ていたか。	「Hmm... A new military strategy book has come out.
+11	+		　読んでおかないと……」	　I need to read it...」
 
-12	Rance Castle Knight	「団長ー」	「Commanderー」
+12	Rance Castle Knight	盾なし	「団長ー」	「Commanderー」
 
-13	-	ランス城騎士団の女の子がやって来た。	A girl from the Rance Castle Knight Order came over.
+13	-		ランス城騎士団の女の子がやって来た。	A girl from the Rance Castle Knight Order came over.
 
-14	Sanakia Drelshkaf	「ん、どうかしたか？」	「Hm, what's wrong?」
+14	Sanakia Drelshkaf	基本	「ん、どうかしたか？」	「Hm, what's wrong?」
 
-15	Rance Castle Knight	「表に鎧職人さんが来てるって。	「The armor craftsman is here outside.
-16	+	　ビスケッタさんが探してましたよ」	　Biscuitta-san was looking for you.」
+15	Rance Castle Knight	盾なし	「表に鎧職人さんが来てるって。	「The armor craftsman is here outside.
+16	+		　ビスケッタさんが探してましたよ」	　Biscuitta-san was looking for you.」
 
-17	Sanakia Drelshkaf	「あっ、そうか。ありがとう」	「Ah, right. Thank you.」
+17	Sanakia Drelshkaf	基本	「あっ、そうか。ありがとう」	「Ah, right. Thank you.」
 
-18	Rance Castle Knight	「……それにしても、団長の鎧、古いですよね。	「...Still, your armor is really old, Commander.
-19	+	　直すにしても、	　Even if we repair it,
-20	+	　職人さんに頼まなきゃならないんでしょ？」	　we'd have to ask a craftsman, right?」
+18	Rance Castle Knight	盾なし	「……それにしても、団長の鎧、古いですよね。	「...Still, your armor is really old, Commander.
+19	+		　直すにしても、	　Even if we repair it,
+20	+		　職人さんに頼まなきゃならないんでしょ？」	　we'd have to ask a craftsman, right?」
 
-21	Sanakia Drelshkaf	「ああ…だが、これは栄誉ある鎧なんだ。	「Yeah... but this is an honorable armor.
-22	+	　認められて、騎士団に入った時の……」	　It's from when I was recognized and joined the knight order...」
+21	Sanakia Drelshkaf	真剣	「ああ…だが、これは栄誉ある鎧なんだ。	「Yeah... but this is an honorable armor.
+22	+		　認められて、騎士団に入った時の……」	　It's from when I was recognized and joined the knight order...」
 
-23	Rance Castle Knight	「え、騎士団って……	「Eh, the knight order...
-24	+	　うちって、団長が作ったんですよね」	　Ours was founded by you, right?」
+23	Rance Castle Knight	盾なし	「え、騎士団って……	「Eh, the knight order...
+24	+		　うちって、団長が作ったんですよね」	　Ours was founded by you, right?」
 
-25	Sanakia Drelshkaf	「ああ、今のランス城騎士団じゃない。	「Yeah, not the current Rance Castle Knight Order.
-26	+	　あれは…そう、ずいぶん古い話になるな……」	　That was... yes, quite an old story...」
+25	Sanakia Drelshkaf	基本	「ああ、今のランス城騎士団じゃない。	「Yeah, not the current Rance Castle Knight Order.
+26	+		　あれは…そう、ずいぶん古い話になるな……」	　That was... yes, quite an old story...」
 
-27	Rance Castle Knight~	（あっ、めんどくさいトコ踏んだかも）	（Ah, maybe I stepped on a troublesome topic.）
+27	Rance Castle Knight~	盾なし	（あっ、めんどくさいトコ踏んだかも）	（Ah, maybe I stepped on a troublesome topic.）
 
-28	Sanakia Drelshkaf	「ボクは、この時代の人間じゃない。	「I'm not a human from this era.
-29	+	　もう、存在しない……	　A kingdom that no longer exists...
-30	+	　ダラスという王国の、騎士だったんだ」	　I was a knight of the kingdom called Dallas.」
+28	Sanakia Drelshkaf	真剣	「ボクは、この時代の人間じゃない。	「I'm not a human from this era.
+29	+		　もう、存在しない……	　A kingdom that no longer exists...
+30	+		　ダラスという王国の、騎士だったんだ」	　I was a knight of the kingdom called Dallas.」
 
-31	Rance Castle Knight	「へっ？」	「Heh?」
+31	Rance Castle Knight	盾なし	「へっ？」	「Heh?」
 
-32	Sanakia Drelshkaf	「220年くらい昔……だったかな。	「About 220 years ago... I think.
-33	+	　天空に浮かぶ、イラーピュという都市の探索を、	　I was ordered by the king at the time to explore
-34	+	　当時の王に命じられたんだ」	　the floating sky city called Irapyu.」
+32	Sanakia Drelshkaf	真剣	「220年くらい昔……だったかな。	「About 220 years ago... I think.
+33	+		　天空に浮かぶ、イラーピュという都市の探索を、	　I was ordered by the king at the time to explore
+34	+		　当時の王に命じられたんだ」	　the floating sky city called Irapyu.」
 
-35	Sanakia Drelshkaf	「現代でさえ解明されていない技術で浮かぶ、	「A ancient city floating with technology even modern times haven't unraveled.
-36	+	　古の都市。そこでの探索任務は、過酷を極めた」	　The exploration mission there was extremely harsh.」
+35	Sanakia Drelshkaf		「現代でさえ解明されていない技術で浮かぶ、	「A ancient city floating with technology even modern times haven't unraveled.
+36	+		　古の都市。そこでの探索任務は、過酷を極めた」	　The exploration mission there was extremely harsh.」
 
-37	Sanakia Drelshkaf	「その探索の果てで……ボクは不覚を取った。	「At the end of that exploration... I let my guard down.
-38	+	　あの都市にいた、狂った男の奸計で、	　Tricked by a mad man living in that city,
-39	+	　石にさせられてしまったのだ」	　I was turned into stone.」
+37	Sanakia Drelshkaf		「その探索の果てで……ボクは不覚を取った。	「At the end of that exploration... I let my guard down.
+38	+		　あの都市にいた、狂った男の奸計で、	　Tricked by a mad man living in that city,
+39	+		　石にさせられてしまったのだ」	　I was turned into stone.」
 
-40	Rance Castle Knight	「はあ………」	「Haa.........」
+40	Rance Castle Knight	盾なし	「はあ………」	「Haa.........」
 
-41	Sanakia Drelshkaf	「それから……長い時間が経ったらしい。	「After that... a long time seems to have passed.
-42	+	　解凍されたときに出会ったのがランスだ」	　When I was thawed, the first person I met was Rance.」
+41	Sanakia Drelshkaf	真剣	「それから……長い時間が経ったらしい。	「After that... a long time seems to have passed.
+42	+		　解凍されたときに出会ったのがランスだ」	　When I was thawed, the first person I met was Rance.」
 
-43	Sanakia Drelshkaf	「……あの時から、ふざけた男だった。	「...Even back then he was such a ridiculous man.
-44	+	　イラーピュが墜ちて、	　I thought our connection was severed when Irapyu fell but...」
-45	+	　それで縁も切れたと思っていたんだが……」	
+43	Sanakia Drelshkaf		「……あの時から、ふざけた男だった。	「...Even back then he was such a ridiculous man.
+44	+		　イラーピュが墜ちて、	　I thought our connection was severed when Irapyu fell but...」
+45	+		　それで縁も切れたと思っていたんだが……」	
 
-46	Rance Castle Knight	「……………………」	「........................」
+46	Rance Castle Knight	盾なし	「……………………」	「........................」
 
-47	Sanakia Drelshkaf	「ゼスのマジノラインが崩壊した事件は知ってるか？	「Do you know about the collapse of Zeth's Maginot Line?
-48	+	　あの時も、ボクは奴と一緒に戦っててな」	　I fought alongside him back then too.」
+47	Sanakia Drelshkaf	真剣	「ゼスのマジノラインが崩壊した事件は知ってるか？	「Do you know about the collapse of Zeth's Maginot Line?
+48	+		　あの時も、ボクは奴と一緒に戦っててな」	　I fought alongside him back then too.」
 
-49	Rance Castle Knight	「それって……カミーラダーク、でしたっけ。	「That was... the Camilla Dark incident, right?
-50	+	　今みたいに、魔軍が攻めてきた、３年前の……」	　The one three years ago when the Monster Army attacked like now...」
+49	Rance Castle Knight	盾なし	「それって……カミーラダーク、でしたっけ。	「That was... the Camilla Dark incident, right?
+50	+		　今みたいに、魔軍が攻めてきた、３年前の……」	　The one three years ago when the Monster Army attacked like now...」
 
-51	Sanakia Drelshkaf	「ああ。	「Yeah.
-52	+	　あいつの無茶苦茶に、散々振り回されて……	　I got dragged around endlessly by his craziness...
-53	+	　まったく、昔から世話の焼ける奴だった」	　He's always been such a handful.」
+51	Sanakia Drelshkaf	真剣	「ああ。	「Yeah.
+52	+		　あいつの無茶苦茶に、散々振り回されて……	　I got dragged around endlessly by his craziness...
+53	+		　まったく、昔から世話の焼ける奴だった」	　He's always been such a handful.」
 
-54	Sanakia Drelshkaf	「ボクや大勢の人間が奴のサポートに回った。	「I and many others supported him.
-55	+	　ゼスを狙うテロリストと戦い……魔人と戦い……」	　We fought terrorists targeting Zeth... fought Fiends...」
+54	Sanakia Drelshkaf		「ボクや大勢の人間が奴のサポートに回った。	「I and many others supported him.
+55	+		　ゼスを狙うテロリストと戦い……魔人と戦い……」	　We fought terrorists targeting Zeth... fought Fiends...」
 
-56	Sanakia Drelshkaf	「……結果的に、ゼスは生まれ変わったんだ。	「...In the end, Zeth was reborn.
-57	+	　よしとするべき、なんだがな」	　I guess we should be glad about that.」
+56	Sanakia Drelshkaf		「……結果的に、ゼスは生まれ変わったんだ。	「...In the end, Zeth was reborn.
+57	+		　よしとするべき、なんだがな」	　I guess we should be glad about that.」
 
-58	Rance Castle Knight	「えーと……」	「Umm......」
+58	Rance Castle Knight	盾なし	「えーと……」	「Umm......」
 
-59	Sanakia Drelshkaf	「あ、話が逸れたな。	「Ah, I got sidetracked.
-60	+	　鎧が古いのは、そういう訳だ」	　That's why my armor is old.」
+59	Sanakia Drelshkaf	基本	「あ、話が逸れたな。	「Ah, I got sidetracked.
+60	+		　鎧が古いのは、そういう訳だ」	　That's why my armor is old.」
 
-61	Sanakia Drelshkaf	「ボク自身も、この時代に馴染むには	「It took me some time to get used to this era too,
-62	+	　少し時間が掛かったが、最近は慣れた」	　but I've gotten used to it lately.」
+61	Sanakia Drelshkaf		「ボク自身も、この時代に馴染むには	「It took me some time to get used to this era too,
+62	+		　少し時間が掛かったが、最近は慣れた」	　but I've gotten used to it lately.」
 
-63	Sanakia Drelshkaf	「……時々、聞き覚えのある名字を聞くと、	「...Sometimes when I hear a familiar surname,
-64	+	　もしかしたら当時の知り合いの子孫かも知れないと、	　I imagine it might be a descendant of an old acquaintance,
-65	+	　想像して、楽しんだりしてるよ」	　and that thought makes me happy.」
+63	Sanakia Drelshkaf		「……時々、聞き覚えのある名字を聞くと、	「...Sometimes when I hear a familiar surname,
+64	+		　もしかしたら当時の知り合いの子孫かも知れないと、	　I imagine it might be a descendant of an old acquaintance,
+65	+		　想像して、楽しんだりしてるよ」	　and that thought makes me happy.」
 
-66	Rance Castle Knight	「あの、団長？　団長……」	「Um, Commander? Commander...」
+66	Rance Castle Knight	盾なし	「あの、団長？　団長……」	「Um, Commander? Commander...」
 
-67	Sanakia Drelshkaf	「む、どうした？」	「Hm, what is it?」
+67	Sanakia Drelshkaf	基本	「む、どうした？」	「Hm, what is it?」
 
-68	Rance Castle Knight	「ええっと……その、大丈夫……ですよ？」	「Umm... are you... okay?」
+68	Rance Castle Knight	盾なし	「ええっと……その、大丈夫……ですよ？」	「Umm... are you... okay?」
 
-69	Sanakia Drelshkaf	「は？」	「Ha?」
+69	Sanakia Drelshkaf	基本	「は？」	「Ha?」
 
-70	Rance Castle Knight	「そんなトンデモな武勇伝を盛らなくっても……	「You don't have to exaggerate with such wild heroic tales...
-71	+	　私たち、ちゃんとついていきますから」	　We'll follow you properly.」
+70	Rance Castle Knight	盾なし	「そんなトンデモな武勇伝を盛らなくっても……	「You don't have to exaggerate with such wild heroic tales...
+71	+		　私たち、ちゃんとついていきますから」	　We'll follow you properly.」
 
-72	Sanakia Drelshkaf	「え……え？　どういうことだ」	「Eh... Eh? What do you mean?」
+72	Sanakia Drelshkaf	基本	「え……え？　どういうことだ」	「Eh... Eh? What do you mean?」
 
-73	Rance Castle Knight	「そりゃー、ちょっと頼りないというか、	「Well, you're a bit unreliable sometimes,
-74	+	　心配になるときもありますけど。	　and we do worry about you.
-75	+	　基本的には、私たち団長のこと好きですから」	　But basically, we all like you, Commander.」
+73	Rance Castle Knight	盾なし	「そりゃー、ちょっと頼りないというか、	「Well, you're a bit unreliable sometimes,
+74	+		　心配になるときもありますけど。	　and we do worry about you.
+75	+		　基本的には、私たち団長のこと好きですから」	　But basically, we all like you, Commander.」
 
-76	Rance Castle Knight	「だからそんな無理のあるホラ話で、	「So you don't need to tell such forced tall tales
-77	+	　威厳つけようとしなくても……」	　to look dignified...」
+76	Rance Castle Knight		「だからそんな無理のあるホラ話で、	「So you don't need to tell such forced tall tales
+77	+		　威厳つけようとしなくても……」	　to look dignified...」
 
-78	Sanakia Drelshkaf	「な、な、な……	「Wh, wh, wh...
-79	+	　なんだと、こらーーーーーーー！」	　What did you say, you---!!!」
+78	Sanakia Drelshkaf	怒り	「な、な、な……	「Wh, wh, wh...
+79	+		　なんだと、こらーーーーーーー！」	　What did you say, you---!!!」
 
-80	Rance Castle Knight	「きゃ、団長爆発」	「Kyaa, Commander exploded.」
+80	Rance Castle Knight	盾なし	「きゃ、団長爆発」	「Kyaa, Commander exploded.」
 
-81	Sanakia Drelshkaf	「おまっ、お前……！	「You... you...!
-82	+	　ボクがそんな事の為にホラ話をしてると	　You think I'm telling tall tales for that reason
-83	+	　思ってるのかーーーーー！」	　do you---!!!」
+81	Sanakia Drelshkaf	怒り	「おまっ、お前……！	「You... you...!
+82	+		　ボクがそんな事の為にホラ話をしてると	　You think I'm telling tall tales for that reason
+83	+		　思ってるのかーーーーー！」	　do you---!!!」
 
-84	Rance Castle Knight	「戦略的てったーい！」	「Strategic retreat!」
+84	Rance Castle Knight	盾なし	「戦略的てったーい！」	「Strategic retreat!」
 
-85	Sanakia Drelshkaf	「うがーーー、待て！」	「Ugaaaah, wait!」
+85	Sanakia Drelshkaf	怒り	「うがーーー、待て！」	「Ugaaaah, wait!」
 
-86	Biscuitta Burns~	（……本日も、ここだけは平和ですね）	（...Today as well, this place alone is peaceful.）
+86	Biscuitta Burns~	基本	（……本日も、ここだけは平和ですね）	（...Today as well, this place alone is peaceful.）
 
-87	-	眉も動かさずに心の中で呟くと、	Muttering in her heart without moving a brow,
-88	+	ビスケッタは待たせた来客をもてなす為に、	Biscuitta went to serve the waiting guest
-89	+	お茶を運んでいった。	by carrying tea over.
+87	-		眉も動かさずに心の中で呟くと、	Muttering in her heart without moving a brow,
+88	+		ビスケッタは待たせた来客をもてなす為に、	Biscuitta went to serve the waiting guest
+89	+		お茶を運んでいった。	by carrying tea over.

@@ -7,100 +7,100 @@
 * Copandon Dott	コパンドン	Female
 * Pigu Geliciam	ピグ	Female
 
-27501	-	地底を、一台の器兵が潜行していく。	A mechanical soldier burrowed through the underground.
+27501	-		地底を、一台の器兵が潜行していく。	A mechanical soldier burrowed through the underground.
 
-27502	-	　	　
-27503	+	　　＜カチッ……カチッ…………＞	　　<Click...... Click......>
+27502	-		　	　
+27503	+		　　＜カチッ……カチッ…………＞	　　<Click...... Click......>
 
-27504	-	深度を指し示すメーターが、	The depth meter
-27505	+	静かに数字を重ねていく。	quietly kept increasing the numbers.
+27504	-		深度を指し示すメーターが、	The depth meter
+27505	+		静かに数字を重ねていく。	quietly kept increasing the numbers.
 
-27506	Prince Toshiba	「ふう……やはり冒険は素晴らしいな。	「Haa...... Adventure really is wonderful.
-27507	+	　見た事無いものばかりだ」	　So many things I've never seen before.」
+27506	Prince Toshiba	基本	「ふう……やはり冒険は素晴らしいな。	「Haa...... Adventure really is wonderful.
+27507	+		　見た事無いものばかりだ」	　So many things I've never seen before.」
 
-27508	Rance	「しかし、道中がな。	「But the journey itself is boring.
-27509	+	　正面の窓から見ても土しかないしな。つまらん」	　All I see through the front window is dirt. Lame.」
+27508	Rance	だる顔	「しかし、道中がな。	「But the journey itself is boring.
+27509	+		　正面の窓から見ても土しかないしな。つまらん」	　All I see through the front window is dirt. Lame.」
 
-27510	Kentou Kanami	「横に付けても、	「Even if you look sideways,
-27511	+	　土とか岩しか見れないと思うけど……」	　I think you'd only see dirt and rocks......」
+27510	Kentou Kanami	基本	「横に付けても、	「Even if you look sideways,
+27511	+		　土とか岩しか見れないと思うけど……」	　I think you'd only see dirt and rocks......」
 
-27512	Rance	「ふん。深度を確認するくらいしか楽しみがない。	「Hmph. The only fun is checking the depth.
-27513	+	　今どのくらいだ？」	　How deep are we now?」
+27512	Rance	真剣	「ふん。深度を確認するくらいしか楽しみがない。	「Hmph. The only fun is checking the depth.
+27513	+		　今どのくらいだ？」	　How deep are we now?」
 
-27514	Maria Custard	「ええと、497……今、498メートルかな」	「Umm, 497...... We're at 498 meters now.」
+27514	Maria Custard	基本	「ええと、497……今、498メートルかな」	「Umm, 497...... We're at 498 meters now.」
 
-27515	Prince Toshiba	「ああ……もうそんなに来たのか」	「Oh...... We've already gone this deep.」
+27515	Prince Toshiba		「ああ……もうそんなに来たのか」	「Oh...... We've already gone this deep.」
 
-27516	Sill Plain	「わ、すごい……ずいぶん深く潜りましたね」	「W-wow...... We've gone really deep.」
+27516	Sill Plain	きょとん	「わ、すごい……ずいぶん深く潜りましたね」	「W-wow...... We've gone really deep.」
 
-27517	Rance	「このくらい大した事はない。	「This is nothing.
-27518	+	　マルグリッド迷宮とかで、	　In the Margrid Labyrinth,
-27519	+	　俺はもっと深くまで行ったぞ」	　I went much deeper than this.」
+27517	Rance	基本	「このくらい大した事はない。	「This is nothing.
+27518	+		　マルグリッド迷宮とかで、	　In the Margrid Labyrinth,
+27519	+		　俺はもっと深くまで行ったぞ」	　I went much deeper than this.」
 
-27520	Prince Toshiba	「…………そろそろ、500か……」	「............Almost 500......」
+27520	Prince Toshiba		「…………そろそろ、500か……」	「............Almost 500......」
 
-27521	Rance	「ん？」	「Hm?」
+27521	Rance	真剣	「ん？」	「Hm?」
 
-27522	-	不意に、ブレイブ号の動きが止まった。	Suddenly, the Brave stopped moving.
+27522	-		不意に、ブレイブ号の動きが止まった。	Suddenly, the Brave stopped moving.
 
-27523	Prince Toshiba	「……このくらいで切り上げようか。	「......Shall we turn back here.
-27524	+	　性能調査は充分だ」	　We've gathered enough performance data.」
+27523	Prince Toshiba	基本	「……このくらいで切り上げようか。	「......Shall we turn back here.
+27524	+		　性能調査は充分だ」	　We've gathered enough performance data.」
 
-27525	Rance	「なんだいきなり。もっとガンガン行け」	「What's with the sudden stop? Keep going full speed.」
+27525	Rance	真剣	「なんだいきなり。もっとガンガン行け」	「What's with the sudden stop? Keep going full speed.」
 
-27526	Prince Toshiba	「永遠に掘り進めるわけにもいかないだろう？	「We can't keep digging forever, right?
-27527	+	　どこかで潮時を決めないと」	　We have to decide when to stop eventually.」
+27526	Prince Toshiba	基本	「永遠に掘り進めるわけにもいかないだろう？	「We can't keep digging forever, right?
+27527	+		　どこかで潮時を決めないと」	　We have to decide when to stop eventually.」
 
-27528	Rance	「498なんてキリが悪いだろうが。せめて500だ」	「498 is such a lame number. At least go to 500.」
+27528	Rance	真剣	「498なんてキリが悪いだろうが。せめて500だ」	「498 is such a lame number. At least go to 500.」
 
-27529	Prince Toshiba	「いや……ポピンズの掟に、	「No...... There's a Poppins rule
-27530	+	　地下500メートルより深い場所に	　that says we must not go deeper
-27531	+	　踏み込んではならない、というものがあってね」	　than 500 meters underground.」
+27529	Prince Toshiba	基本	「いや……ポピンズの掟に、	「No...... There's a Poppins rule
+27530	+		　地下500メートルより深い場所に	　that says we must not go deeper
+27531	+		　踏み込んではならない、というものがあってね」	　than 500 meters underground.」
 
-27532	Rance	「……なんだそりゃ。なんでだ」	「......What the hell? Why?」
+27532	Rance	だる顔	「……なんだそりゃ。なんでだ」	「......What the hell? Why?」
 
-27533	Prince Toshiba	「理由は分からないが、	「I don't know the reason,
-27534	+	　これ以上は何か危険があるのかも知れない」	　but there might be some danger beyond this point.」
+27533	Prince Toshiba	基本	「理由は分からないが、	「I don't know the reason,
+27534	+		　これ以上は何か危険があるのかも知れない」	　but there might be some danger beyond this point.」
 
-27535	Rance	「ふん、そんなのカビの生えた適当な言い伝えに	「Hmph, that's obviously some old dusty superstition.
-27536	+	　決まってるだろうが。無視だ無視」	　Just ignore it.」
+27535	Rance		「ふん、そんなのカビの生えた適当な言い伝えに	「Hmph, that's obviously some old dusty superstition.
+27536	+		　決まってるだろうが。無視だ無視」	　Just ignore it.」
 
-27537	Prince Toshiba	「しかし…………」	「But......」
+27537	Prince Toshiba		「しかし…………」	「But......」
 
-27538	-	東芝はきっぱりと反論しようとしたが、	Toshiba tried to firmly object,
-27539	+	それができずに言い淀んだ。	but couldn't find the words.
+27538	-		東芝はきっぱりと反論しようとしたが、	Toshiba tried to firmly object,
+27539	+		それができずに言い淀んだ。	but couldn't find the words.
 
-27540	Rance	「本当に満足したのかー？	「You really satisfied already?
-27541	+	　この下には本当はもっと面白いものが	　There might be tons of interesting stuff
-27542	+	　いっぱいあるかもしれないぞ？」	　down there, you know?」
+27540	Rance	エロ顔	「本当に満足したのかー？	「You really satisfied already?
+27541	+		　この下には本当はもっと面白いものが	　There might be tons of interesting stuff
+27542	+		　いっぱいあるかもしれないぞ？」	　down there, you know?」
 
-27543	Prince Toshiba	「う…………」	「Ugh......」
+27543	Prince Toshiba	困り	「う…………」	「Ugh......」
 
-27544	-	ランスの甘言に、東芝がたじろぐ。	Toshiba faltered at Rance's tempting words.
+27544	-		ランスの甘言に、東芝がたじろぐ。	Toshiba faltered at Rance's tempting words.
 
-27545	Prince Toshiba	「し、しかし……言い伝えというのは……	「B-but...... These old stories......
-27546	+	　しばしば、経験則を伴っているもので……」	　often come from real experience......」
+27545	Prince Toshiba		「し、しかし……言い伝えというのは……	「B-but...... These old stories......
+27546	+		　しばしば、経験則を伴っているもので……」	　often come from real experience......」
 
-27547	Rance	「大丈夫だ。	「It's fine.
-27548	+	　俺はもっと深くまで潜った事があると言っただろ。	　I told you I've gone much deeper before.
-27549	+	　その時は何の問題もなかったぞ」	　There wasn't any problem then.」
+27547	Rance	基本	「大丈夫だ。	「It's fine.
+27548	+		　俺はもっと深くまで潜った事があると言っただろ。	　I told you I've gone much deeper before.
+27549	+		　その時は何の問題もなかったぞ」	　There wasn't any problem then.」
 
-27550	Prince Toshiba	「そ、そうか…………	「I-is that so......
-27551	+	　じゃあ……大丈夫か、もう少しくらいは！」	　Then...... it should be okay for a bit more!」
+27550	Prince Toshiba		「そ、そうか…………	「I-is that so......
+27551	+		　じゃあ……大丈夫か、もう少しくらいは！」	　Then...... it should be okay for a bit more!」
 
-27552	-	東芝王子の瞳は輝いていた。	Toshiba Prince's eyes were sparkling.
+27552	-		東芝王子の瞳は輝いていた。	Toshiba Prince's eyes were sparkling.
 
-27553	Prince Toshiba	「では再突入ーーー！」	「Then, dive againーーー!」
+27553	Prince Toshiba	きらきら	「では再突入ーーー！」	「Then, dive againーーー!」
 
-27554	Rance	「がははははは、いけいけー！」	「Gahahahaha, go go!」
+27554	Rance	笑顔	「がははははは、いけいけー！」	「Gahahahaha, go go!」
 
-27555	Copandon Dott	「はあ……男が時々子供みたいになるんは、	「Sigh...... Men sometimes act like kids,
-27556	+	　種族とか関係ないんかなぁ……なぁ？」	　no matter the race, huh......?」
+27555	Copandon Dott	ジト目	「はあ……男が時々子供みたいになるんは、	「Sigh...... Men sometimes act like kids,
+27556	+		　種族とか関係ないんかなぁ……なぁ？」	　no matter the race, huh......?」
 
-27557	Maria Custard	「えっ？　あ、う、うん、そうね。	「Eh? Ah, y-yeah, that's true.
-27558	+	　困るなー、忙しいのにー……」	　This is troublesome, we're so busy......」
+27557	Maria Custard	笑顔	「えっ？　あ、う、うん、そうね。	「Eh? Ah, y-yeah, that's true.
+27558	+		　困るなー、忙しいのにー……」	　This is troublesome, we're so busy......」
 
-27559	Pigu Geliciam	「マリア。目、キラキラだよ？」	「Maria. Your eyes are sparkling?」
+27559	Pigu Geliciam	分裂１	「マリア。目、キラキラだよ？」	「Maria. Your eyes are sparkling?」
 
-27560	-	ブレイブ号は再び始動し、	The Brave started moving again,
-27561	+	ゆっくりと、しかし着実に地底を進んでいった。	slowly but steadily digging deeper underground.
+27560	-		ブレイブ号は再び始動し、	The Brave started moving again,
+27561	+		ゆっくりと、しかし着実に地底を進んでいった。	slowly but steadily digging deeper underground.

@@ -4,50 +4,50 @@
 * Sill Plain	シィル	Female
 * Kentou Kanami	かなみ	Female
 
-32685	-	砂漠の道を、魔人討伐隊はまっすぐ進む。	The Fiend Extermination Squad advanced straight through the desert path.
+32685	-		砂漠の道を、魔人討伐隊はまっすぐ進む。	The Fiend Extermination Squad advanced straight through the desert path.
 
-32686	Desert Guide	「ん…………こっち、右に曲がるでち」	「Nn............ Turn right here, dechi.」
+32686	Desert Guide	基本	「ん…………こっち、右に曲がるでち」	「Nn............ Turn right here, dechi.」
 
-32687	Rance	「あん？　なんでだ？	「Huh? Why?
-32688	+	　道も何もないではないか」	　There's no path at all.」
+32687	Rance	真剣	「あん？　なんでだ？	「Huh? Why?
+32688	+		　道も何もないではないか」	　There's no path at all.」
 
-32689	Desert Guide	「道はあるでち。こっちに進まないと、	「There is a path, dechi. If you don't go this way,
-32690	+	　どうなるか保証しまちぇんよ」	　I can't guarantee what will happen.」
+32689	Desert Guide	基本	「道はあるでち。こっちに進まないと、	「There is a path, dechi. If you don't go this way,
+32690	+		　どうなるか保証しまちぇんよ」	　I can't guarantee what will happen.」
 
-32691	Sill Plain	「ランス様……案内人さんの言うことですから……」	「Rance-sama... the guide says so......」
+32691	Sill Plain	苦笑	「ランス様……案内人さんの言うことですから……」	「Rance-sama... the guide says so......」
 
-32692	Rance	「ちっ、仕方ない。最短距離で頼むぞ」	「Tch, can't be helped. Take the shortest route.」
+32692	Rance	真剣	「ちっ、仕方ない。最短距離で頼むぞ」	「Tch, can't be helped. Take the shortest route.」
 
-32693	-	顎からひっきりなしに流れる汗を拭って、	Wiping the sweat constantly flowing from his chin,
-32694	+	ランスは案内人の後ろに続く。	Rance followed behind the guide.
+32693	-		顎からひっきりなしに流れる汗を拭って、	Wiping the sweat constantly flowing from his chin,
+32694	+		ランスは案内人の後ろに続く。	Rance followed behind the guide.
 
-32695	Rance	「こんなルートを行き来するのが仕事とはな……	「Having to go back and forth on routes like this is your job......
-32696	+	　お前ら、よく生きてるな」	　You guys sure survive well.」
+32695	Rance		「こんなルートを行き来するのが仕事とはな……	「Having to go back and forth on routes like this is your job......
+32696	+		　お前ら、よく生きてるな」	　You guys sure survive well.」
 
-32697	Desert Guide	「仕事でちから」	「It's my job, dechi.」
+32697	Desert Guide	基本	「仕事でちから」	「It's my job, dechi.」
 
-32698	Rance	「仕事ってな……もっとマシなモンがあると思うが。	「Job, huh... I think there are better ones.
-32699	+	　それとも全然暑くないのか？」	　Or are you not hot at all?」
+32698	Rance	真剣	「仕事ってな……もっとマシなモンがあると思うが。	「Job, huh... I think there are better ones.
+32699	+		　それとも全然暑くないのか？」	　Or are you not hot at all?」
 
-32700	Desert Guide	「わたちも別に暑くないわけではありまちぇん。	「I'm not completely unaffected by the heat either, dechi.
-32701	+	　たまたま、こういうのが向いてたんでち」	　It just happens that this suits me, dechi.」
+32700	Desert Guide	基本	「わたちも別に暑くないわけではありまちぇん。	「I'm not completely unaffected by the heat either, dechi.
+32701	+		　たまたま、こういうのが向いてたんでち」	　It just happens that this suits me, dechi.」
 
-32702	Rance	「…………向き不向きってレベルの話か……？」	「............Is it just a matter of suitability......？」
+32702	Rance	だる顔	「…………向き不向きってレベルの話か……？」	「............Is it just a matter of suitability......？」
 
-32703	Desert Guide	「わたちには、目的があるのでち。	「I have a goal, dechi.
-32704	+	　その為にも、きちんと自活する必要があるのでち」	　For that, I need to support myself properly, dechi.」
+32703	Desert Guide	基本	「わたちには、目的があるのでち。	「I have a goal, dechi.
+32704	+		　その為にも、きちんと自活する必要があるのでち」	　For that, I need to support myself properly, dechi.」
 
-32705	Desert Guide	「これくらいの暑さなら我慢できまちゅから。	「I can endure this level of heat, dechi.
-32706	+	　他の人にはできない仕事は稼ぎやすいのでち」	　Jobs others can't do pay well, dechi.」
+32705	Desert Guide		「これくらいの暑さなら我慢できまちゅから。	「I can endure this level of heat, dechi.
+32706	+		　他の人にはできない仕事は稼ぎやすいのでち」	　Jobs others can't do pay well, dechi.」
 
-32707	Kentou Kanami	「け、けっこうしっかりしてるのね……	「Y-you're surprisingly reliable......
-32708	+	　子供っぽいのに……」	　Even though you look childish......」
+32707	Kentou Kanami		「け、けっこうしっかりしてるのね……	「Y-you're surprisingly reliable......
+32708	+		　子供っぽいのに……」	　Even though you look childish......」
 
-32709	Sill Plain	「でも、目的って…………？」	「But, what is your goal......？」
+32709	Sill Plain	考え中	「でも、目的って…………？」	「But, what is your goal......？」
 
-32710	Desert Guide	「…………………………」	「........................」
+32710	Desert Guide	基本	「…………………………」	「........................」
 
-32711	Desert Guide	「喋りすぎまちたわ。水分が惜しいでち」	「I talked too much. Water is precious, dechi.」
+32711	Desert Guide		「喋りすぎまちたわ。水分が惜しいでち」	「I talked too much. Water is precious, dechi.」
 
-32712	-	それきり口を噤んで、日立は黙々と	After that she closed her mouth and silently
-32713	+	一行を先導して歩き続けた。	continued leading the party.
+32712	-		それきり口を噤んで、日立は黙々と	After that she closed her mouth and silently
+32713	+		一行を先導して歩き続けた。	continued leading the party.

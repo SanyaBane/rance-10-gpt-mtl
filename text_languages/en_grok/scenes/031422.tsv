@@ -24,138 +24,138 @@
 * Am Yisael	アム	Female
 * Miko	汎用巫女	Female
 
-72124	Rance	「うわあ……なんだこりゃ……」	「Whoa... what the hell is this...」
+72124	Rance	基本	「うわあ……なんだこりゃ……」	「Whoa... what the hell is this...」
 
-72125	Zeth Mage Soldier	「うううう……痛ぇ、痛ぇよぉ……！」	「Uuuu... it hurts, it hurts...!」
+72125	Zeth Mage Soldier	苦戦	「うううう……痛ぇ、痛ぇよぉ……！」	「Uuuu... it hurts, it hurts...!」
 
-72126	Helman Knight	「うぐっ、また傷が開いたか……」	「Ugh, the wound opened again...」
+72126	Helman Knight	基本	「うぐっ、また傷が開いたか……」	「Ugh, the wound opened again...」
 
-72127	Free Cities Guard	「はあ、はあ……はあっ……」	「Haa, haa... haa...」
+72127	Free Cities Guard		「はあ、はあ……はあっ……」	「Haa, haa... haa...」
 
-72128	-	そこら中で怪我をした兵士達の呻き声が上がり、	Groans of injured soldiers rose everywhere,
-72129	+	ランス城の玉座の間は、	and the throne room of Rance Castle
-72130	+	さながら野戦病院のような様相を呈していた。	looked just like a field hospital.
+72128	-		そこら中で怪我をした兵士達の呻き声が上がり、	Groans of injured soldiers rose everywhere,
+72129	+		ランス城の玉座の間は、	and the throne room of Rance Castle
+72130	+		さながら野戦病院のような様相を呈していた。	looked just like a field hospital.
 
-72131	Rance	「ビスケッタさん、説明」	「Biscuitta-san, explain.」
+72131	Rance		「ビスケッタさん、説明」	「Biscuitta-san, explain.」
 
-72132	Biscuitta Burns	「彼らは各線戦から	「They are wounded soldiers
-72133	+	　搬送されてきた負傷兵の方々です」	　transported here from various front lines.」
+72132	Biscuitta Burns		「彼らは各線戦から	「They are wounded soldiers
+72133	+		　搬送されてきた負傷兵の方々です」	　transported here from various front lines.」
 
-72134	Rance	「はあああ？	「Haaaa?
-72135	+	　なんでそんな奴らがうちにいる？」	　Why are they in my place?」
+72134	Rance		「はあああ？	「Haaaa?
+72135	+		　なんでそんな奴らがうちにいる？」	　Why are they in my place?」
 
-72136	Biscuitta Burns	「どの戦線も医療施設が一杯ということで、	「Every front line's medical facilities are full,
-72137	+	　総統直属の魔人討伐隊の回復メンバーにも、	　so they requested assistance from the recovery members
-72138	+	　治療の協力をして欲しいという要請が……」	　of the Supreme Leader's personal Fiend Extermination Squad...」
+72136	Biscuitta Burns	目閉じ	「どの戦線も医療施設が一杯ということで、	「Every front line's medical facilities are full,
+72137	+		　総統直属の魔人討伐隊の回復メンバーにも、	　so they requested assistance from the recovery members
+72138	+		　治療の協力をして欲しいという要請が……」	　of the Supreme Leader's personal Fiend Extermination Squad...」
 
-72139	Rance	「…………」	「............」
+72139	Rance	だる顔	「…………」	「............」
 
-72140	Rance	「あっ」	「Ah.」
+72140	Rance	驚き	「あっ」	「Ah.」
 
-72141	Rance	「確かにそんな話を前に聞いたな……	「I think I vaguely remember hearing something like that before...
-72142	+	　適当に安請け合いしたんだった」	　I casually agreed without thinking.」
+72141	Rance	真剣	「確かにそんな話を前に聞いたな……	「I think I vaguely remember hearing something like that before...
+72142	+		　適当に安請け合いしたんだった」	　I casually agreed without thinking.」
 
-72143	Biscuitta Burns	「既に魔人討伐隊の回復の得意な方々には、	「The members of the Fiend Extermination Squad skilled in recovery
-72144	+	　ご協力頂いております」	　are already assisting.」
+72143	Biscuitta Burns	基本	「既に魔人討伐隊の回復の得意な方々には、	「The members of the Fiend Extermination Squad skilled in recovery
+72144	+		　ご協力頂いております」	　are already assisting.」
 
-72145	Rance	「なにぃ？」	「What?」
+72145	Rance		「なにぃ？」	「What?」
 
-72146	Sill Plain	「いたいのいたいの、とんでけー。	「Pain pain, fly away~.
-72147	+	　いたいのいたいの、とんでけー」	　Pain pain, fly away~」
+72146	Sill Plain		「いたいのいたいの、とんでけー。	「Pain pain, fly away~.
+72147	+		　いたいのいたいの、とんでけー」	　Pain pain, fly away~」
 
-72148	Free Cities Guard	「おお……傷が治る、傷が治る……」	「Ohh... the wound is healing, it's healing...」
+72148	Free Cities Guard		「おお……傷が治る、傷が治る……」	「Ohh... the wound is healing, it's healing...」
 
-72149	Crook Mofus	「では回復させます。	「Then I'll heal you.
-72150	+	　えいっ、回復の雨」	　Ei, rain of recovery.」
+72149	Crook Mofus		「では回復させます。	「Then I'll heal you.
+72150	+		　えいっ、回復の雨」	　Ei, rain of recovery.」
 
-72151	Temple Knight	「法王様のヒーリング……	「The Pope's healing...
-72152	+	　ありがたや、ありがたや……」	　Thank you, thank you...」
+72151	Temple Knight		「法王様のヒーリング……	「The Pope's healing...
+72152	+		　ありがたや、ありがたや……」	　Thank you, thank you...」
 
-72153	Sheila Helman	「大丈夫ですか？	「Are you okay?
-72154	+	　すぐに良くなりますからね？」	　You'll feel better soon, okay?」
+72153	Sheila Helman		「大丈夫ですか？	「Are you okay?
+72154	+		　すぐに良くなりますからね？」	　You'll feel better soon, okay?」
 
-72155	Helman Soldier	「シーラ様ぁ……ああ、なんとお優しい……」	「Lady Sheila... ah, how kind...」
+72155	Helman Soldier		「シーラ様ぁ……ああ、なんとお優しい……」	「Lady Sheila... ah, how kind...」
 
-72156	Maris Amaryllis	「さ、この程度すぐに治る傷ですよ。	「There, wounds like this heal right away.
-72157	+	　いたいのいたいの、とんでけー」	　Pain pain, fly away~」
+72156	Maris Amaryllis		「さ、この程度すぐに治る傷ですよ。	「There, wounds like this heal right away.
+72157	+		　いたいのいたいの、とんでけー」	　Pain pain, fly away~」
 
-72158	Leazas Blue Soldier	「おお、マリス様に癒して頂けるとは……	「Oh, to be healed by Lady Maris...
-72159	+	　もう、死んでもいい……」	　I can die happy now...」
+72158	Leazas Blue Soldier	非武装	「おお、マリス様に癒して頂けるとは……	「Oh, to be healed by Lady Maris...
+72159	+		　もう、死んでもいい……」	　I can die happy now...」
 
-72160	Sel Catchgolf	「ああっ、大丈夫ですか？	「Aah, are you okay?
-72161	+	　すぐに治しますからね！」	　I'll heal you right away!」
+72160	Sel Catchgolf	驚き	「ああっ、大丈夫ですか？	「Aah, are you okay?
+72161	+		　すぐに治しますからね！」	　I'll heal you right away!」
 
-72162	JAPAN Samurai	「異教徒のそれがしにも	「Even for a heathen like me
-72163	+	　そのように優しくしてくれるとは……	　to be treated so kindly...
-72164	+	　て、天使様……」	　Y-You're an angel...」
+72162	JAPAN Samurai	基本	「異教徒のそれがしにも	「Even for a heathen like me
+72163	+		　そのように優しくしてくれるとは……	　to be treated so kindly...
+72164	+		　て、天使様……」	　Y-You're an angel...」
 
-72165	Cafe Artful	「はーい、じゃんじゃん治すから、	「Okay~, I'll heal you one after another,
-72166	+	　じゃんじゃん私のとこ来てねー」	　so come to me quickly~」
+72165	Cafe Artful		「はーい、じゃんじゃん治すから、	「Okay~, I'll heal you one after another,
+72166	+		　じゃんじゃん私のとこ来てねー」	　so come to me quickly~」
 
-72167	Leazas White Soldier	「なんと凄まじいヒーリングの冴えだ……	「What incredible healing skill...
-72168	+	　このような方が在野にまだいたとは……」	　To think someone like this was still out there...」
+72167	Leazas White Soldier	非武装	「なんと凄まじいヒーリングの冴えだ……	「What incredible healing skill...
+72168	+		　このような方が在野にまだいたとは……」	　To think someone like this was still out there...」
 
-72169	Wenlina	「一気にいくよー。	「Here I go all at once~.
-72170	+	　とりゃー回復ー」	　Recoveryyy~」
+72169	Wenlina	基本	「一気にいくよー。	「Here I go all at once~.
+72170	+		　とりゃー回復ー」	　Recoveryyy~」
 
-72171	JAPAN Samurai	「さすが命の二つ名を冠する聖女モンスター様……	「As expected of the Holy Gal Monster bearing the title of Life...
-72172	+	　こ、このように簡単に……」	　Healing so easily...」
+72171	JAPAN Samurai		「さすが命の二つ名を冠する聖女モンスター様……	「As expected of the Holy Gal Monster bearing the title of Life...
+72172	+		　こ、このように簡単に……」	　Healing so easily...」
 
-72173	Mi Lordring	「大丈夫かーーー！？	「Are you okay---!?
-72174	+	　貴殿の傷！　必ず治してみせよう！	　Your wound! I shall heal it without fail!
-72175	+	　はーーーーーーーっ！」	　Haaaaaaa!」
+72173	Mi Lordring		「大丈夫かーーー！？	「Are you okay---!?
+72174	+		　貴殿の傷！　必ず治してみせよう！	　Your wound! I shall heal it without fail!
+72175	+		　はーーーーーーーっ！」	　Haaaaaaa!」
 
-72176	Helman Soldier	「贅沢は言えぬ、が……	「I can't be picky, but...
-72177	+	　うう、出来れば女性が良かった……」	　Uuu, I would have preferred a woman...」
+72176	Helman Soldier		「贅沢は言えぬ、が……	「I can't be picky, but...
+72177	+		　うう、出来れば女性が良かった……」	　Uuu, I would have preferred a woman...」
 
-72178	Terra Horus	「怪我人に異星もなにもありません。	「There is no alien or anything to the injured.
-72179	+	　さ、次の方、こちらに」	　Next person, over here.」
+72178	Terra Horus		「怪我人に異星もなにもありません。	「There is no alien or anything to the injured.
+72179	+		　さ、次の方、こちらに」	　Next person, over here.」
 
-72180	Monster Tamer	「異星の方なのに、なんと人の出来た……	「Even though you're from another world, what a kind person...
-72181	+	　このご恩、忘れません……」	　I won't forget this favor...」
+72180	Monster Tamer		「異星の方なのに、なんと人の出来た……	「Even though you're from another world, what a kind person...
+72181	+		　このご恩、忘れません……」	　I won't forget this favor...」
 
-72182	Am Yisael	「くすくすくす……さあ、いいのよ？	「Hehehe... There, it's okay?
-72183	+	　私の胸でゆっくりと深呼吸して……	　Take a slow deep breath against my breasts...
-72184	+	　そう、ゆっくりと……いい子ね……」	　Yes, slowly... good boy...」
+72182	Am Yisael	篭絡	「くすくすくす……さあ、いいのよ？	「Hehehe... There, it's okay?
+72183	+		　私の胸でゆっくりと深呼吸して……	　Take a slow deep breath against my breasts...
+72184	+		　そう、ゆっくりと……いい子ね……」	　Yes, slowly... good boy...」
 
-72185	Crook Mofus	「変なことしてないで、	「Stop doing weird things,
-72186	+	　治療して下さい」	　and just heal them.」
+72185	Crook Mofus	基本	「変なことしてないで、	「Stop doing weird things,
+72186	+		　治療して下さい」	　and just heal them.」
 
-72187	Am Yisael	「あら、とても痛いわ、法王様」	「My, it hurts so much, Your Holiness.」
+72187	Am Yisael		「あら、とても痛いわ、法王様」	「My, it hurts so much, Your Holiness.」
 
-72188	Temple Knight	「次の怪我人の方々をお連れしました！	「I brought the next group of injured!
-72189	+	　応急処置はこちらで簡単に行いましたが……」	　I gave them simple first aid here but...」
+72188	Temple Knight		「次の怪我人の方々をお連れしました！	「I brought the next group of injured!
+72189	+		　応急処置はこちらで簡単に行いましたが……」	　I gave them simple first aid here but...」
 
-72190	Miko	「分かりました、続きはこちらで。	「Understood, I'll take over here.
-72191	+	　皆様をそこにお寝かせ下さい、	　Please lay them down there,
-72192	+	　怪我の具合を確認致します」	　I'll check the extent of their injuries.」
+72190	Miko		「分かりました、続きはこちらで。	「Understood, I'll take over here.
+72191	+		　皆様をそこにお寝かせ下さい、	　Please lay them down there,
+72192	+		　怪我の具合を確認致します」	　I'll check the extent of their injuries.」
 
-72193	Temple Knight	「はっ！	「Yes!
-72194	+	　……さ、もう大丈夫ですよ」	　...There, you're good now.」
+72193	Temple Knight		「はっ！	「Yes!
+72194	+		　……さ、もう大丈夫ですよ」	　...There, you're good now.」
 
-72195	-	主義も出身も信仰も関係なく、	Regardless of ideology, origin, or faith,
-72196	+	今は皆が一致団結して	everyone was now united,
-72197	+	怪我人を治療すべく忙しそうに働いていた。	busily working to treat the injured.
+72195	-		主義も出身も信仰も関係なく、	Regardless of ideology, origin, or faith,
+72196	+		今は皆が一致団結して	everyone was now united,
+72197	+		怪我人を治療すべく忙しそうに働いていた。	busily working to treat the injured.
 
-72198	Rance	「…………」	「............」
+72198	Rance	だる顔	「…………」	「............」
 
-72199	Biscuitta Burns	「如何致しますか？	「What shall we do?
-72200	+	　やめさせることも可能かと思いますが」	　We could stop them if you wish.」
+72199	Biscuitta Burns	基本	「如何致しますか？	「What shall we do?
+72200	+		　やめさせることも可能かと思いますが」	　We could stop them if you wish.」
 
-72201	Rance	「いや、いい……	「No, it's fine...
-72202	+	　このままやらせとけ」	　Let them continue.」
+72201	Rance	真剣	「いや、いい……	「No, it's fine...
+72202	+		　このままやらせとけ」	　Let them continue.」
 
-72203	Biscuitta Burns	「これで多くの方の命が助かります。	「This will save many lives.
-72204	+	　御主人様は誇って良いことをしたかと」	　Master has done something to be proud of.」
+72203	Biscuitta Burns	基本	「これで多くの方の命が助かります。	「This will save many lives.
+72204	+		　御主人様は誇って良いことをしたかと」	　Master has done something to be proud of.」
 
-72205	Rance	「あー、うむ」	「Ah, yeah.」
+72205	Rance	だる顔	「あー、うむ」	「Ah, yeah.」
 
-72206	-	…………	............
+72206	-		…………	............
 
-72207	-	……	......
+72207	-		……	......
 
-72208	-	前線では日々多数の負傷兵が出ているが、	Although many wounded soldiers appear daily on the front lines,
-72209	+	各地の治療活動により、何割かの兵士は	thanks to treatment activities in various places,
-72210	+	戦線復帰していった。	a portion of the soldiers returned to the front.
+72208	-		前線では日々多数の負傷兵が出ているが、	Although many wounded soldiers appear daily on the front lines,
+72209	+		各地の治療活動により、何割かの兵士は	thanks to treatment activities in various places,
+72210	+		戦線復帰していった。	a portion of the soldiers returned to the front.
 
-72211	-	各地域、5万増兵しました。	Each region gained 50,000 additional troops.
+72211	-		各地域、5万増兵しました。	Each region gained 50,000 additional troops.

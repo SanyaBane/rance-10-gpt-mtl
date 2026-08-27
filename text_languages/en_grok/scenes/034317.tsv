@@ -1,28 +1,28 @@
 # 34317	t２１２／戦況	
 
-256323	?	地図：リーザス１／合戦３１　を使って戦況説明	Using Map: Leazas 1 / Battle 31 to explain the battle situation.
-256324	+	均衡状態と滅亡近いピンチ状態の２種類があります。	There are two types: a balanced state and a critical state near destruction.
-256325	+	状況が大きく変わるので条件確認して２種類テキストを入れて下さい	Since the situation changes significantly, please check conditions and insert two types of texts.
-256326	+	ナレーション、または、所々、キャラの台詞を入れるなどして説明して下さい。	Please explain by narration or by inserting character lines here and there.
-256327	+	ランスに説明しているというより、ユーザーに分かればいいです	It's more important that the user understands rather than it being an explanation to Rance.
-256328	+	コルドバを出す場合は条件付きで頼みます	If Cordoba appears, please make it conditional.
-256329	+	　	 
-256330	+	確認("リーザスピンチ")==1	Check("LeazasPinch")==1
-256331	+	　魔軍の方が圧倒的に多く滅亡の可能性がある状態	The Monster Army vastly outnumbers and the possibility of extinction is high.
-256332	+	　ランス達がこの方面に来た魔人を殲滅してくれはしたが、魔物大将軍ヨシフ率いる	Rance and the others have exterminated Fiends coming this way, but under the command of Great Monster General Joseph,
-256333	+	　S(Ｔ敵軍兵力());万にも及ぶ大軍はリーザス軍を徐々に追い詰めていた	A massive army numbering in the tens of thousands was gradually cornering the Leazas forces.
-256334	+	　リア、マリス　　ダーリンがかんばったのだからリア達もがんばらないと、まだ負けてない	Lia, Maris: Since darling did his best, we must also do our best. We're not defeated yet.
-256335	+	　バレス　　　　　やばいのお、いつまで持たせる事が出来る事やら	Barres: This is bad... I wonder how long we can hold out.
-256336	+	　リック　　　傷尽きならがも連日の出動	Rick: Despite being wounded, deploying day after day.
-256337	+	　	 
-256338	+	確認("リーザスピンチ")==0	Check("LeazasPinch")==0
-256339	+	　戦力的には均衡している、どちらかという少し押している	The forces are balanced, with a slight advantage on one side.
-256340	+	　リック、バレスなどの活躍　　魔軍を撃退し徐々に減らしている	Thanks to the efforts of Rick, Barres, and others, the Monster Army is being repelled and steadily reduced.
-256341	+	　リア、マリス　　前線からの勝利報告です。やったわね。	Lia, Maris: This is a victory report from the front lines. We did it.
-256342	+	　でも、まだまだ油断は出来ないわ	But we still can't let our guard down.
-256343	+	　バレス、魔人がいなくなり我々が対等に戦える相手のみになったのは助かるな	Barres: Without the Fiends, it's a relief that we're now facing only opponents we can fight equally.
-256344	+	　工夫し努力すれば勝ちは見えてくる	With ingenuity and effort, victory will come into view.
-256345	+	　プリティリア、スケールを一気に奪い返しましょうと誰かが言うが	Pretria: Someone said we should recapture the Scale at once,
-256346	+	　まだだ、敵を削り弱らせ、我が軍も十分に補給と準備をして作戦に挑まねばいけない	Not yet. We must wear down and weaken the enemy, and our forces must be properly supplied and prepared before challenging the operation.
-256347	+	　反撃のチャンスはそう多く無い１回で決めねばいけない	There aren't many chances for a counterattack; we must decide it in one shot.
-256348	+	　ただ、敵の総大将が後ろにひっこんでいるのが困った事だな、もう少し前に来て欲しいのだが	However, it's troublesome that the enemy's general is staying in the rear; I want him to come a bit forward.
+256323	?		地図：リーザス１／合戦３１　を使って戦況説明	Using Map: Leazas 1 / Battle 31 to explain the battle situation.
+256324	+		均衡状態と滅亡近いピンチ状態の２種類があります。	There are two types: a balanced state and a critical state near destruction.
+256325	+		状況が大きく変わるので条件確認して２種類テキストを入れて下さい	Since the situation changes significantly, please check conditions and insert two types of texts.
+256326	+		ナレーション、または、所々、キャラの台詞を入れるなどして説明して下さい。	Please explain by narration or by inserting character lines here and there.
+256327	+		ランスに説明しているというより、ユーザーに分かればいいです	It's more important that the user understands rather than it being an explanation to Rance.
+256328	+		コルドバを出す場合は条件付きで頼みます	If Cordoba appears, please make it conditional.
+256329	+		　	 
+256330	+		確認("リーザスピンチ")==1	Check("LeazasPinch")==1
+256331	+		　魔軍の方が圧倒的に多く滅亡の可能性がある状態	The Monster Army vastly outnumbers and the possibility of extinction is high.
+256332	+		　ランス達がこの方面に来た魔人を殲滅してくれはしたが、魔物大将軍ヨシフ率いる	Rance and the others have exterminated Fiends coming this way, but under the command of Great Monster General Joseph,
+256333	+		　S(Ｔ敵軍兵力());万にも及ぶ大軍はリーザス軍を徐々に追い詰めていた	A massive army numbering in the tens of thousands was gradually cornering the Leazas forces.
+256334	+		　リア、マリス　　ダーリンがかんばったのだからリア達もがんばらないと、まだ負けてない	Lia, Maris: Since darling did his best, we must also do our best. We're not defeated yet.
+256335	+		　バレス　　　　　やばいのお、いつまで持たせる事が出来る事やら	Barres: This is bad... I wonder how long we can hold out.
+256336	+		　リック　　　傷尽きならがも連日の出動	Rick: Despite being wounded, deploying day after day.
+256337	+		　	 
+256338	+		確認("リーザスピンチ")==0	Check("LeazasPinch")==0
+256339	+		　戦力的には均衡している、どちらかという少し押している	The forces are balanced, with a slight advantage on one side.
+256340	+		　リック、バレスなどの活躍　　魔軍を撃退し徐々に減らしている	Thanks to the efforts of Rick, Barres, and others, the Monster Army is being repelled and steadily reduced.
+256341	+		　リア、マリス　　前線からの勝利報告です。やったわね。	Lia, Maris: This is a victory report from the front lines. We did it.
+256342	+		　でも、まだまだ油断は出来ないわ	But we still can't let our guard down.
+256343	+		　バレス、魔人がいなくなり我々が対等に戦える相手のみになったのは助かるな	Barres: Without the Fiends, it's a relief that we're now facing only opponents we can fight equally.
+256344	+		　工夫し努力すれば勝ちは見えてくる	With ingenuity and effort, victory will come into view.
+256345	+		　プリティリア、スケールを一気に奪い返しましょうと誰かが言うが	Pretria: Someone said we should recapture the Scale at once,
+256346	+		　まだだ、敵を削り弱らせ、我が軍も十分に補給と準備をして作戦に挑まねばいけない	Not yet. We must wear down and weaken the enemy, and our forces must be properly supplied and prepared before challenging the operation.
+256347	+		　反撃のチャンスはそう多く無い１回で決めねばいけない	There aren't many chances for a counterattack; we must decide it in one shot.
+256348	+		　ただ、敵の総大将が後ろにひっこんでいるのが困った事だな、もう少し前に来て欲しいのだが	However, it's troublesome that the enemy's general is staying in the rear; I want him to come a bit forward.

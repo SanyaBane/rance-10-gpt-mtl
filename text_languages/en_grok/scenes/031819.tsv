@@ -6,175 +6,175 @@
 * Leazas Red Knight	汎用リーザス赤騎士	Male
 * Sachiko Centers	サチコ	Female
 
-104164	-	ランスが野営地を歩いていると、	As Rance walked through the camp,
-104165	+	リックが剣を振るっていた。	he saw Rick swinging his sword.
+104164	-		ランスが野営地を歩いていると、	As Rance walked through the camp,
+104165	+		リックが剣を振るっていた。	he saw Rick swinging his sword.
 
-104166	Rance	「よう、精が出るな。訓練か」	「Yo, working hard. Training?」
+104166	Rance	基本	「よう、精が出るな。訓練か」	「Yo, working hard. Training?」
 
-104167	Rick Addison	「ああ、ランス殿。	「Yes, Rance-dono.
-104168	+	　ええ、訓練は毎日しなければ	　Training every day is essential,
-104169	+	　意味がありませんからね」	　otherwise it has no meaning.」
+104167	Rick Addison	抜刀	「ああ、ランス殿。	「Yes, Rance-dono.
+104168	+		　ええ、訓練は毎日しなければ	　Training every day is essential,
+104169	+		　意味がありませんからね」	　otherwise it has no meaning.」
 
-104170	Rick Addison	「そうだ、良ければ稽古をつけてくれませんか？	「By the way, would you spar with me?
-104171	+	　模擬戦でも……」	　Even a mock battle...」
+104170	Rick Addison		「そうだ、良ければ稽古をつけてくれませんか？	「By the way, would you spar with me?
+104171	+		　模擬戦でも……」	　Even a mock battle...」
 
-104172	Rance	「断る。	「I refuse.
-104173	+	　面倒臭い」	　Too much hassle.」
+104172	Rance	真剣	「断る。	「I refuse.
+104173	+		　面倒臭い」	　Too much hassle.」
 
-104174	Rick Addison	「そうですか、残念です」	「I see, that's too bad.」
+104174	Rick Addison	基本	「そうですか、残念です」	「I see, that's too bad.」
 
-104175	Rance	「……と、毎度のこの会話もワンパターンだ」	「...And this same conversation every time.」
+104175	Rance		「……と、毎度のこの会話もワンパターンだ」	「...And this same conversation every time.」
 
-104176	Rance	「気まぐれを起こした。	「I feel like it today.
-104177	+	　たまには付き合ってやろう」	　I'll play along for once.」
+104176	Rance		「気まぐれを起こした。	「I feel like it today.
+104177	+		　たまには付き合ってやろう」	　I'll play along for once.」
 
-104178	Rick Addison	「えっ……！」	「Eh...!」
+104178	Rick Addison	真剣	「えっ……！」	「Eh...!」
 
-104179	Rick Addison	「よ、宜しいのですか！？」	「I-is that okay!?」
+104179	Rick Addison		「よ、宜しいのですか！？」	「I-is that okay!?」
 
-104180	Rance	「おう、よろしいぞ」	「Yeah, it's fine.」
+104180	Rance	基本	「おう、よろしいぞ」	「Yeah, it's fine.」
 
-104181	Rance	「一時間後に向こうの広場でやるか。	「We'll do it in the square over there in one hour.
-104182	+	　それまで体を温めておけよ」	　Warm up until then.」
+104181	Rance		「一時間後に向こうの広場でやるか。	「We'll do it in the square over there in one hour.
+104182	+		　それまで体を温めておけよ」	　Warm up until then.」
 
-104183	Rick Addison	「は、」	「Y-」
+104183	Rick Addison	真剣	「は、」	「Y-」
 
-104184	Rick Addison	「――はいっ！」	「――Yes!」
+104184	Rick Addison		「――はいっ！」	「――Yes!」
 
-104185	Rick Addison	「では、自分はそれまで訓練をしてきます！	「Then I'll train until then!
-104186	+	　また後で！」	　See you later!」
+104185	Rick Addison	基本	「では、自分はそれまで訓練をしてきます！	「Then I'll train until then!
+104186	+		　また後で！」	　See you later!」
 
-104187	-	矢も盾もたまらずと言った様子で、	Looking like he couldn't wait,
-104188	+	リックは走り去った。	Rick ran off.
+104187	-		矢も盾もたまらずと言った様子で、	Looking like he couldn't wait,
+104188	+		リックは走り去った。	Rick ran off.
 
-104189	Sill Plain	「リックさん、すごく嬉しそうでしたね」	「Rick-san looked really happy.」
+104189	Sill Plain		「リックさん、すごく嬉しそうでしたね」	「Rick-san looked really happy.」
 
-104190	Rance	「くくく……何も知らずにな……」	「Heh heh heh... without knowing anything...」
+104190	Rance		「くくく……何も知らずにな……」	「Heh heh heh... without knowing anything...」
 
-104191	Sill Plain	「？　ランス様？」	「? Rance-sama?」
+104191	Sill Plain	きょとん	「？　ランス様？」	「? Rance-sama?」
 
-104192	Rance	「よし、ついてこいシィル」	「Alright, come with me Sill.」
+104192	Rance	基本	「よし、ついてこいシィル」	「Alright, come with me Sill.」
 
-104193	Sill Plain	「あ、あのぉ……ランス様ぁ……	「U-um... Rance-sama...
-104194	+	　どうして私、はひ、はひ……	　Why am I, hah, hah...
-104195	+	　穴を掘らされてるのでしょう……」	　being made to dig a hole...?」
+104193	Sill Plain	恥	「あ、あのぉ……ランス様ぁ……	「U-um... Rance-sama...
+104194	+		　どうして私、はひ、はひ……	　Why am I, hah, hah...
+104195	+		　穴を掘らされてるのでしょう……」	　being made to dig a hole...?」
 
-104196	Rance	「なんだ、そんなことも分からんのか」	「What, you don't even get that?」
+104196	Rance	真剣	「なんだ、そんなことも分からんのか」	「What, you don't even get that?」
 
-104197	Rance	「リックと戦う時用の落とし穴ではないか」	「It's a pitfall for when I fight Rick.」
+104197	Rance	基本	「リックと戦う時用の落とし穴ではないか」	「It's a pitfall for when I fight Rick.」
 
-104198	Sill Plain	「ええっ！？」	「Ehh!?」
+104198	Sill Plain	慌て	「ええっ！？」	「Ehh!?」
 
-104199	Sill Plain	「お、落とし穴なんて使うんですか……？」	「Y-you're using a pitfall...?」
+104199	Sill Plain	恥	「お、落とし穴なんて使うんですか……？」	「Y-you're using a pitfall...?」
 
-104200	Rance	「がははは！　開始と共にリックがズボー！	「Gahahaha! As soon as it starts, Rick goes Zubo!
-104201	+	　そこを俺が上から石やらなんやら落とす！	　Then I drop rocks and stuff on him from above!
-104202	+	　その名も赤い死神足下お留守作戦だ！」	　The name is Red Death God's Careless Foot Operation!」
+104200	Rance	笑顔	「がははは！　開始と共にリックがズボー！	「Gahahaha! As soon as it starts, Rick goes Zubo!
+104201	+		　そこを俺が上から石やらなんやら落とす！	　Then I drop rocks and stuff on him from above!
+104202	+		　その名も赤い死神足下お留守作戦だ！」	　The name is Red Death God's Careless Foot Operation!」
 
-104203	Sill Plain	「うう……リックさん、ランス様と	「Uuu... Rick-san looked so happy
-104204	+	　戦えるってあんなに嬉しそうなのに、	　to fight Rance-sama...
-104205	+	　可哀想ですよぉ……」	　It's so pitiful...」
+104203	Sill Plain	恥	「うう……リックさん、ランス様と	「Uuu... Rick-san looked so happy
+104204	+		　戦えるってあんなに嬉しそうなのに、	　to fight Rance-sama...
+104205	+		　可哀想ですよぉ……」	　It's so pitiful...」
 
-104206	Rance	「馬鹿、戦いに可哀想もヘチマもあるか」	「Idiot, there's no pity in battle.
+104206	Rance	基本	「馬鹿、戦いに可哀想もヘチマもあるか」	「Idiot, there's no pity in battle.
 
-104207	Rance	「くくく、普通に戦って勝つのもいいが……」	　Heh heh, winning normally is fine but...
+104207	Rance		「くくく、普通に戦って勝つのもいいが……」	　Heh heh, winning normally is fine but...
 
-104208	Rance	「ここは赤の軍の奴が多いからな、	「There are lots of Red Army guys here,
-104209	+	　将軍が落とし穴に落ちて赤っ恥かくところ見せて、	　so I'll show them their general falling into a pit and getting embarrassed,
-104210	+	　俺様が一番すごいのだと教えてやる」	　and teach them I'm the greatest.」
+104208	Rance	エロ顔	「ここは赤の軍の奴が多いからな、	「There are lots of Red Army guys here,
+104209	+		　将軍が落とし穴に落ちて赤っ恥かくところ見せて、	　so I'll show them their general falling into a pit and getting embarrassed,
+104210	+		　俺様が一番すごいのだと教えてやる」	　and teach them I'm the greatest.」
 
-104211	Sill Plain	「うう〜、やめましょうよぉ……」	「Uuu~, let's not...」
+104211	Sill Plain	泣き	「うう〜、やめましょうよぉ……」	「Uuu~, let's not...」
 
-104212	Rance	「勝負の世界は非情なのだ。	「The world of battle is ruthless.
-104213	+	　いいから、俺が言ったところに掘っておけ」	　Just dig where I told you.」
+104212	Rance	基本	「勝負の世界は非情なのだ。	「The world of battle is ruthless.
+104213	+		　いいから、俺が言ったところに掘っておけ」	　Just dig where I told you.」
 
-104214	Rance	「くくく、あいつが何も気づかずに	「Heh heh heh, imagining him falling without noticing...
-104215	+	　落ちるところを想像したら、うぷぷぷ……」	　Uppupu...」
+104214	Rance	エロ顔	「くくく、あいつが何も気づかずに	「Heh heh heh, imagining him falling without noticing...
+104215	+		　落ちるところを想像したら、うぷぷぷ……」	　Uppupu...」
 
-104216	Rance	「がははははははは！	「Gahahahahahaha!
-104217	+	　これで俺様の勝利は間違いなしだ！」	　My victory is guaranteed now!」
+104216	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+104217	+		　これで俺様の勝利は間違いなしだ！」	　My victory is guaranteed now!」
 
-104218	Sill Plain	「うう……」	「Uuu...」
+104218	Sill Plain	基本	「うう……」	「Uuu...」
 
-104219	-	一時間後――	One hour later――
+104219	-		一時間後――	One hour later――
 
-104220	Rick Addison	「こうして、戦いを受けてくれるとは、	「To think you'd accept a fight with me,
-104221	+	　本当に嬉しいです」	　I'm truly happy.」
+104220	Rick Addison		「こうして、戦いを受けてくれるとは、	「To think you'd accept a fight with me,
+104221	+		　本当に嬉しいです」	　I'm truly happy.」
 
-104222	Rance	「ふん、前置きはいい。	「Hmph, enough talk.
-104223	+	　来るならいつでも来い」	　Come at me whenever.」
+104222	Rance		「ふん、前置きはいい。	「Hmph, enough talk.
+104223	+		　来るならいつでも来い」	　Come at me whenever.」
 
-104224	Rick Addison	「……では」	「...Then」
+104224	Rick Addison	抜刀／真剣	「……では」	「...Then」
 
-104225	-	ゆらりとリックが剣を抜くと、	Rick slowly drew his sword,
-104226	+	空気が一段階冷たくなるようだった。	and the air seemed to grow colder.
+104225	-		ゆらりとリックが剣を抜くと、	Rick slowly drew his sword,
+104226	+		空気が一段階冷たくなるようだった。	and the air seemed to grow colder.
 
-104227	Leazas Red Soldier	「総統とリック将軍……	「The Supreme Leader and General Rick...
-104228	+	　いったいどちらが強いんでしょう……」	　I wonder who is stronger...」
+104227	Leazas Red Soldier	非武装	「総統とリック将軍……	「The Supreme Leader and General Rick...
+104228	+		　いったいどちらが強いんでしょう……」	　I wonder who is stronger...」
 
-104229	Leazas Red Knight	「さあ、な……	「Who knows...
-104230	+	　だが、話に聞く限りは達人同士の……	　But from what I've heard, it's a clash between masters...
-104231	+	　壮絶な戦いになるのは間違いあるまい」	　It will surely be an intense battle.」
+104229	Leazas Red Knight		「さあ、な……	「Who knows...
+104230	+		　だが、話に聞く限りは達人同士の……	　But from what I've heard, it's a clash between masters...
+104231	+		　壮絶な戦いになるのは間違いあるまい」	　It will surely be an intense battle.」
 
-104232	Leazas Red Knight	「見逃さないようにしておけ……	「Don't miss it...
-104233	+	　どちらが勝つにせよ、	　No matter who wins,
-104234	+	　中々見られないものになるぞ」	　it's something you won't see often.」
+104232	Leazas Red Knight		「見逃さないようにしておけ……	「Don't miss it...
+104233	+		　どちらが勝つにせよ、	　No matter who wins,
+104234	+		　中々見られないものになるぞ」	　it's something you won't see often.」
 
-104235	Leazas Red Soldier	「…………ごくり」	「............Gulp.」
+104235	Leazas Red Soldier		「…………ごくり」	「............Gulp.」
 
-104236	-	赤い死神の戦いを一目見ようと、	The Red Army soldiers gathered
-104237	+	周囲に集まった赤軍の兵士達も、	to see the Red Death God's fight,
-104238	+	固唾を呑んで見守っていた。	watching with bated breath.
+104236	-		赤い死神の戦いを一目見ようと、	The Red Army soldiers gathered
+104237	+		周囲に集まった赤軍の兵士達も、	to see the Red Death God's fight,
+104238	+		固唾を呑んで見守っていた。	watching with bated breath.
 
-104239	Rick Addison	「参る！」	「Here I come!」
+104239	Rick Addison	抜刀／咆哮	「参る！」	「Here I come!」
 
-104240	-	空気すら斬り裂くような裂帛の気合い、	With a spirit that could cut the air itself,
-104241	+	リックが矢のような速度でランスに迫る。	Rick charged at Rance like an arrow.
+104240	-		空気すら斬り裂くような裂帛の気合い、	With a spirit that could cut the air itself,
+104241	+		リックが矢のような速度でランスに迫る。	Rick charged at Rance like an arrow.
 
-104242	-	　	　
-104243	+	　　＜ズボオォォーッ！＞	　　＜Zuboooooh!＞
+104242	-		　	　
+104243	+		　　＜ズボオォォーッ！＞	　　＜Zuboooooh!＞
 
-104244	Rick Addison	「ああっ！？」	「Aah!?」
+104244	Rick Addison	基本	「ああっ！？」	「Aah!?」
 
-104245	-	ランスに向かうことだけを考えていたリックは	Rick, who was only thinking of charging at Rance,
-104246	+	為す術もなく、穴に落ちていった。	fell helplessly into the pit.
+104245	-		ランスに向かうことだけを考えていたリックは	Rick, who was only thinking of charging at Rance,
+104246	+		為す術もなく、穴に落ちていった。	fell helplessly into the pit.
 
-104247	Rance	「がはははははは！	「Gahahahahaha!
-104248	+	　やーいやーい、引っかかったー！」	　Yay yay, you fell for it!」
+104247	Rance		「がはははははは！	「Gahahahahaha!
+104248	+		　やーいやーい、引っかかったー！」	　Yay yay, you fell for it!」
 
-104249	Sachiko Centers	「うわぁ、落とし穴だ！　ランスさん、最低！」	「Uwaa, a pitfall! Rance-san, that's the worst!」
+104249	Sachiko Centers		「うわぁ、落とし穴だ！　ランスさん、最低！」	「Uwaa, a pitfall! Rance-san, that's the worst!」
 
-104250	Rance	「やかましいぞ、サチコ！	「Shut up Sachiko!
-104251	+	　勝った奴が勝利者だ！」	　The winner is the victor!」
+104250	Rance	怒り	「やかましいぞ、サチコ！	「Shut up Sachiko!
+104251	+		　勝った奴が勝利者だ！」	　The winner is the victor!」
 
-104252	Rance	「がはははは！　というわけで死ねーーー！」	「Gahahaha! And so, die---!」
+104252	Rance	笑顔	「がはははは！　というわけで死ねーーー！」	「Gahahaha! And so, die---!」
 
-104253	-	　	　
-104254	+	　　＜ズボオォォーッ！＞	　　＜Zuboooooh!＞
+104253	-		　	　
+104254	+		　　＜ズボオォォーッ！＞	　　＜Zuboooooh!＞
 
-104255	Rance	「のわあぁぁあーーーー！」	「Nowaaaaah---!」
+104255	Rance	基本	「のわあぁぁあーーーー！」	「Nowaaaaah---!」
 
-104256	Sachiko Centers	「わあ……笑顔のまま落ちた……」	「Waa... He fell with a smile...」
+104256	Sachiko Centers		「わあ……笑顔のまま落ちた……」	「Waa... He fell with a smile...」
 
-104257	Rance	「く、くぉら、シィルーーー！」	「H-hey, Sill---!」
+104257	Rance		「く、くぉら、シィルーーー！」	「H-hey, Sill---!」
 
-104258	Sill Plain	「え、え？	「Eh, eh?
-104259	+	　ランス様の言う通りの場所に掘りましたけど……」	　I dug exactly where Rance-sama said...
+104258	Sill Plain	慌て	「え、え？	「Eh, eh?
+104259	+		　ランス様の言う通りの場所に掘りましたけど……」	　I dug exactly where Rance-sama said...
 
-104260	Rance	「え、あ……そうだったかも……」	「Eh, ah... maybe it was...」
+104260	Rance	基本	「え、あ……そうだったかも……」	「Eh, ah... maybe it was...」
 
-104261	Rance	「いや、主の行く先を見定めて、	「No, you should have adjusted
-104262	+	　お前の方で調整せんかー！」	　based on where your master was going!」
+104261	Rance		「いや、主の行く先を見定めて、	「No, you should have adjusted
+104262	+		　お前の方で調整せんかー！」	　based on where your master was going!」
 
-104263	Sill Plain	「む、無理ですよー……」	「Th-that's impossible...」
+104263	Sill Plain	慌て	「む、無理ですよー……」	「Th-that's impossible...」
 
-104264	Rance	「ぬおおおおー！	「Nuoohhh!
-104265	+	　こ、こうなったら先に上がった方が勝者だー！」	　In that case the one who climbs out first wins!」
+104264	Rance	基本	「ぬおおおおー！	「Nuoohhh!
+104265	+		　こ、こうなったら先に上がった方が勝者だー！」	　In that case the one who climbs out first wins!」
 
-104266	Leazas Red Soldier	「こ、この戦いはいったい……	「W-what kind of battle is this...
-104267	+	　我らは一体なにを見ているのでしょう……」	　What exactly are we watching...?」
+104266	Leazas Red Soldier	非武装	「こ、この戦いはいったい……	「W-what kind of battle is this...
+104267	+		　我らは一体なにを見ているのでしょう……」	　What exactly are we watching...?」
 
-104268	Leazas Red Knight	「わ、分からん……なにも分からん……」	「I-I don't know... I don't understand anything...」
+104268	Leazas Red Knight		「わ、分からん……なにも分からん……」	「I-I don't know... I don't understand anything...」
 
-104269	Sill Plain	「うう、ランス様……	「Uuu, Rance-sama...
-104270	+	　私、なんだか恥ずかしいです……」	　I feel so embarrassed...」
+104269	Sill Plain	泣き	「うう、ランス様……	「Uuu, Rance-sama...
+104270	+		　私、なんだか恥ずかしいです……」	　I feel so embarrassed...」

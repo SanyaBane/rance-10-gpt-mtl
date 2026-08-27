@@ -7,75 +7,75 @@
 * Yamamoto Rangi	乱義２	Male
 * Masou Shizuka	志津香２	Female
 
-229874	Nagata-kun	「そんじゃ、行くぜ！」	「Alright, let's go!」
+229874	Nagata-kun	基本	「そんじゃ、行くぜ！」	「Alright, let's go!」
 
-229875	Nagata-kun	「せーーーっの！」	「Ready, set!」
+229875	Nagata-kun		「せーーーっの！」	「Ready, set!」
 
-229876	-	あなたは手を繋いだ長田君と共に	Holding hands with Nagata-kun,
-229877	+	ぴょーんと跳んだ。	you jumped with a boing.
+229876	-		あなたは手を繋いだ長田君と共に	Holding hands with Nagata-kun,
+229877	+		ぴょーんと跳んだ。	you jumped with a boing.
 
-229878	Nagata-kun	「いえーい、遂に西ヘルマンの首都に到着ー！」	「Yay, we finally arrived at the capital of West Helman!」
+229878	Nagata-kun		「いえーい、遂に西ヘルマンの首都に到着ー！」	「Yay, we finally arrived at the capital of West Helman!」
 
-229879	Reset Kalar	「わーい、やったねー」	「Yay, we did it~」
+229879	Reset Kalar	笑顔	「わーい、やったねー」	「Yay, we did it~」
 
-229880	Nagi su Ragarl	「いえーい♪	「Yay♪
-229881	+	　ほらほら、スシヌも」	　Come on Sushinu too
+229880	Nagi su Ragarl		「いえーい♪	「Yay♪
+229881	+		　ほらほら、スシヌも」	　Come on Sushinu too
 
-229882	Sushinu the Gandhi	「わ、わーい……えへへ……」	「W-Waa... ehehe...」
+229882	Sushinu the Gandhi		「わ、わーい……えへへ……」	「W-Waa... ehehe...」
 
-229883	-	あなたは皆と西ヘルマン首都である	You and everyone celebrated
-229884	+	ラング・バウに入ったことを	entering Lang Bau, the capital of West Helman,
-229885	+	手をたたき合って喜び合った。	by high-fiving.
+229883	-		あなたは皆と西ヘルマン首都である	You and everyone celebrated
+229884	+		ラング・バウに入ったことを	entering Lang Bau, the capital of West Helman,
+229885	+		手をたたき合って喜び合った。	by high-fiving.
 
-229886	Zance Leazas	「ったく、くだらねぇ」	「Geez, how lame.」
+229886	Zance Leazas	不満	「ったく、くだらねぇ」	「Geez, how lame.」
 
-229887	Yamamoto Rangi	「まあ、そう言うな」	「Come on, don't say that.」
+229887	Yamamoto Rangi	説明するよ	「まあ、そう言うな」	「Come on, don't say that.」
 
-229888	Nagata-kun	「くーっ、ついに西ヘルマンの首都にも来たかー」	「Kuu, we finally reached the capital of West Helman.」
+229888	Nagata-kun	基本	「くーっ、ついに西ヘルマンの首都にも来たかー」	「Kuu, we finally reached the capital of West Helman.」
 
-229889	Nagata-kun	「なーなー、＜エール＞よぉ。	「Hey hey, ＜エール＞.
-229890	+	　俺らってもうすっかり	　We're already totally
-229891	+	　ベテラン冒険者って感じじゃね」	　veteran adventurers now, right?」
-229892	+	「お、おお、なにその笑い方、ベテランっぽい」	「O-Oh, what's with that laugh, it looks veteran.」
+229889	Nagata-kun		「なーなー、＜エール＞よぉ。	「Hey hey, ＜エール＞.
+229890	+		　俺らってもうすっかり	　We're already totally
+229891	+		　ベテラン冒険者って感じじゃね」	　veteran adventurers now, right?」
+229892	+		「お、おお、なにその笑い方、ベテランっぽい」	「O-Oh, what's with that laugh, it looks veteran.」
 
-229893	Nagata-kun	「俺もやってみよ」	「I'll try too.」
+229893	Nagata-kun		「俺もやってみよ」	「I'll try too.」
 
-229894	Nagata-kun	「ふっふっふっ……	「Fufufu...
-229895	+	　どう？　感じ出てる？」	　How's that? Does it feel veteran?」
+229894	Nagata-kun		「ふっふっふっ……	「Fufufu...
+229895	+		　どう？　感じ出てる？」	　How's that? Does it feel veteran?」
 
-229896	Nagata-kun	「ひっ、急に怒られた！？」	「Hie, suddenly got angry!?」
+229896	Nagata-kun		「ひっ、急に怒られた！？」	「Hie, suddenly got angry!?」
 
-229897	Zance Leazas	「くっだらねーこと言ってねぇで、	「Stop saying stupid shit
-229898	+	　とっとと城に行くぞ」	　and let's hurry to the castle.」
+229897	Zance Leazas	不満	「くっだらねーこと言ってねぇで、	「Stop saying stupid shit
+229898	+		　とっとと城に行くぞ」	　and let's hurry to the castle.」
 
-229899	Nagata-kun	「なんだよ、機嫌悪いなぁ」	「What's wrong, you're in a bad mood.」
+229899	Nagata-kun	基本	「なんだよ、機嫌悪いなぁ」	「What's wrong, you're in a bad mood.」
 
-229900	Zance Leazas	「ヘルマンは寒いから嫌いなんだよ……」	「I hate Helman because it's cold...」
+229900	Zance Leazas	不満	「ヘルマンは寒いから嫌いなんだよ……」	「I hate Helman because it's cold...」
 
-229901	Nagi su Ragarl	「でも、穏やかでいい国だよ。	「But it's a calm and nice country.
-229902	+	　ほら、あれ」	　Look at that.」
+229901	Nagi su Ragarl	基本	「でも、穏やかでいい国だよ。	「But it's a calm and nice country.
+229902	+		　ほら、あれ」	　Look at that.」
 
-229903	-	ナギが指さす先では、魔物達が街中を	Where Nagi pointed, monsters were
-229904	+	呑気にてくてくと歩いていた。	casually strolling through the streets.
+229903	-		ナギが指さす先では、魔物達が街中を	Where Nagi pointed, monsters were
+229904	+		呑気にてくてくと歩いていた。	casually strolling through the streets.
 
-229905	Masou Shizuka	「ヘルマンは魔物界と隣接してるからね」	「Helman borders the Monster Realm after all.」
+229905	Masou Shizuka		「ヘルマンは魔物界と隣接してるからね」	「Helman borders the Monster Realm after all.」
 
-229906	Nagi su Ragarl	「貧乏な国だけど、魔物と人間で共存してる	「It's a poor country, but monsters and humans coexist
-229907	+	　穏やかな国なのよ」	　peacefully here.」
+229906	Nagi su Ragarl		「貧乏な国だけど、魔物と人間で共存してる	「It's a poor country, but monsters and humans coexist
+229907	+		　穏やかな国なのよ」	　peacefully here.」
 
-229908	Nagi su Ragarl	「ご飯は美味しくないけどね……」	「The food isn't good though...」
+229908	Nagi su Ragarl	反省	「ご飯は美味しくないけどね……」	「The food isn't good though...」
 
-229909	Zance Leazas	「けっ、知ったことかよ」	「Tch, not my problem.」
+229909	Zance Leazas	不満	「けっ、知ったことかよ」	「Tch, not my problem.」
 
-229910	Zance Leazas	「こういうとこは、	「For places like this,
-229911	+	　とっとと用事を済ませて、	　it's best to finish our business quickly
-229912	+	　とっとと終わらせるのが一番だ」	　and get out fast.」
+229910	Zance Leazas	基本	「こういうとこは、	「For places like this,
+229911	+		　とっとと用事を済ませて、	　it's best to finish our business quickly
+229912	+		　とっとと終わらせるのが一番だ」	　and get out fast.」
 
-229913	Zance Leazas	「まずは……	「First...
-229914	+	　シーラ大統領に会うんだったな。	　we need to meet President Sheila.
-229915	+	　行くぞ」	　Let's go.」
+229913	Zance Leazas		「まずは……	「First...
+229914	+		　シーラ大統領に会うんだったな。	　we need to meet President Sheila.
+229915	+		　行くぞ」	　Let's go.」
 
-229916	Nagata-kun	「あ、ま、待てよー！」	「Ah, w-wait!」
+229916	Nagata-kun		「あ、ま、待てよー！」	「Ah, w-wait!」
 
-229917	-	あなた達はザンスに先導される形で、	Led by Zance,
-229918	+	ラング・バウの中に入っていった。	you entered Lang Bau.
+229917	-		あなた達はザンスに先導される形で、	Led by Zance,
+229918	+		ラング・バウの中に入っていった。	you entered Lang Bau.

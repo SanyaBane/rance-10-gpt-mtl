@@ -6,172 +6,172 @@
 * Helman Soldier	汎用ヘルマン兵	Male
 * Helman Knight	汎用ヘルマン騎士	Male
 
-141970	-	ランス達はどこか物々しい雰囲気の村に入った。	Rance and the others entered a village with a heavy atmosphere.
+141970	-		ランス達はどこか物々しい雰囲気の村に入った。	Rance and the others entered a village with a heavy atmosphere.
 
-141971	Rance	「お、ここは……？」	「Oh, this is...?」
+141971	Rance	基本	「お、ここは……？」	「Oh, this is...?」
 
-141972	-	ラング・バウへ向かう途中の村に入ると、	Upon entering a village on the way to Lang Bau,
-141973	+	ヘルマンの兵達がそこかしこで座り込み、	Helman soldiers were sitting everywhere,
-141974	+	下を向いていた。	looking down.
+141972	-		ラング・バウへ向かう途中の村に入ると、	Upon entering a village on the way to Lang Bau,
+141973	+		ヘルマンの兵達がそこかしこで座り込み、	Helman soldiers were sitting everywhere,
+141974	+		下を向いていた。	looking down.
 
-141975	Sill Plain	「ヘルマン軍の陣地のようですけど……	「It looks like a Helman army camp but...
-141976	+	　なんだか皆さん、とってもお疲れですね」	　Everyone looks extremely tired.」
+141975	Sill Plain	考え中	「ヘルマン軍の陣地のようですけど……	「It looks like a Helman army camp but...
+141976	+		　なんだか皆さん、とってもお疲れですね」	　Everyone looks extremely tired.」
 
-141977	Amitos Armitage	「む、お前は……」	「Mu, you are...」
+141977	Amitos Armitage	メットなし	「む、お前は……」	「Mu, you are...」
 
-141978	Rance	「おお、アミトスではないか！	「Oh, it's Amitos!
-141979	+	　久しぶりだな！」	　Long time no see!」
+141978	Rance	基本	「おお、アミトスではないか！	「Oh, it's Amitos!
+141979	+		　久しぶりだな！」	　Long time no see!」
 
-141980	Amitos Armitage	「ランス、来てくれたのか……」	「Rance, you came...」
+141980	Amitos Armitage	メットなし	「ランス、来てくれたのか……」	「Rance, you came...」
 
-141981	Rance	「ほう、俺様が恋しかったか。	「Oh, missed me?
-141982	+	　お前も可愛いことを言うように……」	　You're saying cute things too...」
+141981	Rance	基本	「ほう、俺様が恋しかったか。	「Oh, missed me?
+141982	+		　お前も可愛いことを言うように……」	　You're saying cute things too...」
 
-141983	Amitos Armitage	「魔人に対抗できる存在、	「An existence that can oppose Fiend,
-141984	+	　魔剣カオス、待ち焦がれたぞ」	　the demon sword Chaos, I've been waiting for you.」
+141983	Amitos Armitage	メットなし	「魔人に対抗できる存在、	「An existence that can oppose Fiend,
+141984	+		　魔剣カオス、待ち焦がれたぞ」	　the demon sword Chaos, I've been waiting for you.」
 
-141985	Chaos	「おほほ、そーそー、	「Ohoho, yes yes,
-141986	+	　後は儂にまっかせなさーい」	　leave the rest to me.」
+141985	Chaos	基本	「おほほ、そーそー、	「Ohoho, yes yes,
+141986	+		　後は儂にまっかせなさーい」	　leave the rest to me.」
 
-141987	-	　	　
-141988	+	　　＜ぺしーん！＞	　　＜Smack!＞
+141987	-		　	　
+141988	+		　　＜ぺしーん！＞	　　＜Smack!＞
 
-141989	Chaos	「あいたっ！」	「Ouch!」
+141989	Chaos	驚き	「あいたっ！」	「Ouch!」
 
-141990	Rance	「黙っとれ、ボケ魔剣」	「Shut up, you stupid demon sword.」
+141990	Rance	基本	「黙っとれ、ボケ魔剣」	「Shut up, you stupid demon sword.」
 
-141991	Chaos	「ひどっ」	「Mean!」
+141991	Chaos	泣き	「ひどっ」	「Mean!」
 
-141992	Amitos Armitage	「……………………」	「........................」
+141992	Amitos Armitage	メットなし	「……………………」	「........................」
 
-141993	-	アミトスが面食らったような顔をしていた。	Amitos had a bewildered look.
+141993	-		アミトスが面食らったような顔をしていた。	Amitos had a bewildered look.
 
-141994	Amitos Armitage	「……相変わらず、マイペースな男だな」	「...You're as laid-back as ever.」
+141994	Amitos Armitage		「……相変わらず、マイペースな男だな」	「...You're as laid-back as ever.」
 
-141995	Helman Soldier	「将軍、少々宜しいでしょうか。	「General, may I have a moment.
-141996	+	　魔軍の動きなのですが――」	　About the Monster Army's movements――」
+141995	Helman Soldier	基本	「将軍、少々宜しいでしょうか。	「General, may I have a moment.
+141996	+		　魔軍の動きなのですが――」	　About the Monster Army's movements――」
 
-141997	Amitos Armitage	「ん、そうか、やはりまだ動きはないか。	「Hm, I see, no movement yet.
-141998	+	　引き続き斥候を。	　Continue scouting.
-141999	+	　予定通り第15部隊も使い索敵範囲を広げろ」	　As planned, use the 15th unit to expand the search area.」
+141997	Amitos Armitage	メットなし	「ん、そうか、やはりまだ動きはないか。	「Hm, I see, no movement yet.
+141998	+		　引き続き斥候を。	　Continue scouting.
+141999	+		　予定通り第15部隊も使い索敵範囲を広げろ」	　As planned, use the 15th unit to expand the search area.」
 
-142000	Helman Knight	「将軍、新しい情報です――」	「General, new information――」
+142000	Helman Knight	基本	「将軍、新しい情報です――」	「General, new information――」
 
-142001	-	アミトスは次々と部下から入る情報を聞き、	Amitos listened to the incoming reports from his subordinates one after another,
-142002	+	指示を出している。	and gave out orders.
+142001	-		アミトスは次々と部下から入る情報を聞き、	Amitos listened to the incoming reports from his subordinates one after another,
+142002	+		指示を出している。	and gave out orders.
 
-142003	Amitos Armitage	「すまないな、見ての通り人手不足で	「Sorry about this. As you can see, we're short on manpower
-142004	+	　あまり相手をしてやれそうにない」	　so I can't really spend much time with you.」
+142003	Amitos Armitage	メットなし	「すまないな、見ての通り人手不足で	「Sorry about this. As you can see, we're short on manpower
+142004	+		　あまり相手をしてやれそうにない」	　so I can't really spend much time with you.」
 
-142005	Rance	「将軍……	「General...
-142006	+	　お前将軍になったのか」	　You became a general?」
+142005	Rance	基本	「将軍……	「General...
+142006	+		　お前将軍になったのか」	　You became a general?」
 
-142007	Amitos Armitage	「ああ、第1軍の将だ」	「Yes, I'm a commander of the First Army.」
+142007	Amitos Armitage	メットなし	「ああ、第1軍の将だ」	「Yes, I'm a commander of the First Army.」
 
-142008	Rance	「ふーん、で、どうしてこんなに疲弊してる」	「Hmm, so why do you look so worn out?」
+142008	Rance	基本	「ふーん、で、どうしてこんなに疲弊してる」	「Hmm, so why do you look so worn out?」
 
-142009	Amitos Armitage	「……魔軍の兵数がああ圧倒的ではな」	「...The Monster Army's numbers are overwhelmingly large.」
+142009	Amitos Armitage	メットなし	「……魔軍の兵数がああ圧倒的ではな」	「...The Monster Army's numbers are overwhelmingly large.」
 
-142010	Amitos Armitage	「特にこの方面には魔人バボラが攻め込んでいる」	「Especially here, the Fiend Babolat has launched an assault.」
+142010	Amitos Armitage		「特にこの方面には魔人バボラが攻め込んでいる」	「Especially here, the Fiend Babolat has launched an assault.」
 
-142011	Rance	「魔人バボラ。	「Fiend Babolat.
-142012	+	　そうか、お前ら魔人と戦ったのか」	　I see, so you've fought a Fiend.」
+142011	Rance	基本	「魔人バボラ。	「Fiend Babolat.
+142012	+		　そうか、お前ら魔人と戦ったのか」	　I see, so you've fought a Fiend.」
 
-142013	Amitos Armitage	「戦ったなどとは言えん。	「I wouldn't call it fighting.
-142014	+	　ただ魔人の来る所を予測し民を避難させただけだ」	　I only predicted where the Fiend would appear and evacuated the civilians.」
+142013	Amitos Armitage	メットなし	「戦ったなどとは言えん。	「I wouldn't call it fighting.
+142014	+		　ただ魔人の来る所を予測し民を避難させただけだ」	　I only predicted where the Fiend would appear and evacuated the civilians.」
 
-142015	Amitos Armitage	「魔人が相手となると、勝つ手段――	「When facing a Fiend, we have no means to win――
-142016	?	　いや……戦う手段がないからな……」	　No... we don't even have a way to fight them...」
+142015	Amitos Armitage		「魔人が相手となると、勝つ手段――	「When facing a Fiend, we have no means to win――
+142016	?		　いや……戦う手段がないからな……」	　No... we don't even have a way to fight them...」
 
-142017	Rance	「なら、こんなところ放棄したらどうだ？」	「Then why not just abandon a place like this?」
+142017	Rance	基本	「なら、こんなところ放棄したらどうだ？」	「Then why not just abandon a place like this?」
 
-142018	Amitos Armitage	「それでは町や陣地を奪われ、	「If we do that, the towns and positions will be taken,
-142019	+	　いずれはヘルマン全土が奪われる」	　and eventually all of Helman will fall.」
+142018	Amitos Armitage	メットなし	「それでは町や陣地を奪われ、	「If we do that, the towns and positions will be taken,
+142019	+		　いずれはヘルマン全土が奪われる」	　and eventually all of Helman will fall.」
 
-142020	Amitos Armitage	「だから魔人がいなくなると、	「So when the Fiend leaves,
-142021	+	　すぐに突撃で陣地を奪還しているのだ」	　we immediately charge in to retake the positions.」
+142020	Amitos Armitage		「だから魔人がいなくなると、	「So when the Fiend leaves,
+142021	+		　すぐに突撃で陣地を奪還しているのだ」	　we immediately charge in to retake the positions.」
 
-142022	Amitos Armitage	「それでどうにか一進一退を繰り返す。	「That's how we somehow manage to go back and forth.
-142023	+	　魔人が相手となれば、この手で戦うしかない」	　When it's a Fiend, this is the only way we can fight.」
+142022	Amitos Armitage		「それでどうにか一進一退を繰り返す。	「That's how we somehow manage to go back and forth.
+142023	+		　魔人が相手となれば、この手で戦うしかない」	　When it's a Fiend, this is the only way we can fight.」
 
-142024	Sill Plain	「それは……	「That's...
-142025	+	　その、とっても大変、ですよね……」	　um, it must be really tough...」
+142024	Sill Plain	慌て	「それは……	「That's...
+142025	+		　その、とっても大変、ですよね……」	　um, it must be really tough...」
 
-142026	Amitos Armitage	「ああ、陣地をいくら奪い返しても、	「Yes, no matter how many positions we retake,
-142027	+	　勝つことは出来ない……	　we can't actually win...
-142028	+	　精神的にも兵が疲弊していく」	　The soldiers are becoming exhausted both physically and mentally.」
+142026	Amitos Armitage	メットなし	「ああ、陣地をいくら奪い返しても、	「Yes, no matter how many positions we retake,
+142027	+		　勝つことは出来ない……	　we can't actually win...
+142028	+		　精神的にも兵が疲弊していく」	　The soldiers are becoming exhausted both physically and mentally.」
 
-142029	Amitos Armitage	「だが、負けるわけにはいかない」	「But we cannot afford to lose.」
+142029	Amitos Armitage		「だが、負けるわけにはいかない」	「But we cannot afford to lose.」
 
-142030	Amitos Armitage	「我々が引けば無防備な市民が	「If we retreat, the defenseless citizens
-142031	+	　魔軍の攻撃にさらされるのだ」	　will be exposed to the Monster Army's attacks.」
+142030	Amitos Armitage		「我々が引けば無防備な市民が	「If we retreat, the defenseless citizens
+142031	+		　魔軍の攻撃にさらされるのだ」	　will be exposed to the Monster Army's attacks.」
 
-142032	Rance	「相変わらず、典型的な固い軍人だな」	「Still the same rigid soldier as always.」
+142032	Rance	基本	「相変わらず、典型的な固い軍人だな」	「Still the same rigid soldier as always.」
 
-142033	Amitos Armitage	「ラング・バウはもう少しだ。	「Lang Bau is close now.
-142034	+	　魔軍が出るかも知れないので、	　The Monster Army might appear,
-142035	+	　我が軍から護衛をつけてやりたいが……」	　so I'd like to assign escorts from my army but...」
+142033	Amitos Armitage	メットなし	「ラング・バウはもう少しだ。	「Lang Bau is close now.
+142034	+		　魔軍が出るかも知れないので、	　The Monster Army might appear,
+142035	+		　我が軍から護衛をつけてやりたいが……」	　so I'd like to assign escorts from my army but...」
 
-142036	Rance	「ああ、いい、いい。	「Yeah, it's fine, it's fine.
-142037	+	　こっちで適当にやる」	　We'll handle it somehow.」
+142036	Rance	基本	「ああ、いい、いい。	「Yeah, it's fine, it's fine.
+142037	+		　こっちで適当にやる」	　We'll handle it somehow.」
 
-142038	Amitos Armitage	「すまない……」	「Sorry...」
+142038	Amitos Armitage	メットなし	「すまない……」	「Sorry...」
 
-142039	Rance	「俺様が来た以上、バボラとかいう魔人も	「Now that I've arrived, that Fiend called Babolat
-142040	+	　ちょちょいのちょいで倒してやる。	　will be taken down in no time.
-142041	+	　安心することだな。がははは」	　You can relax. Gahahaha.」
+142039	Rance	基本	「俺様が来た以上、バボラとかいう魔人も	「Now that I've arrived, that Fiend called Babolat
+142040	+		　ちょちょいのちょいで倒してやる。	　will be taken down in no time.
+142041	+		　安心することだな。がははは」	　You can relax. Gahahaha.」
 
-142042	Amitos Armitage	「…………そうか、あれと戦うか」	「............I see, so you're going to fight it.」
+142042	Amitos Armitage	メットなし	「…………そうか、あれと戦うか」	「............I see, so you're going to fight it.」
 
-142043	Amitos Armitage	「この村も一度	「This village was also attacked by Babolat once.」
-142044	+	　バボラに攻められたことがある」	
+142043	Amitos Armitage		「この村も一度	「This village was also attacked by Babolat once.」
+142044	+		　バボラに攻められたことがある」	
 
-142045	Rance	「あん？」	「Huh?」
+142045	Rance	基本	「あん？」	「Huh?」
 
-142046	Amitos Armitage	「敵を知り己を知れば百戦危うからず。	「Know your enemy and know yourself, and you will not be in danger in a hundred battles.
-142047	+	　よければ敵を見ておくか？」	　Would you like to see the enemy?」
+142046	Amitos Armitage	メットなし	「敵を知り己を知れば百戦危うからず。	「Know your enemy and know yourself, and you will not be in danger in a hundred battles.
+142047	+		　よければ敵を見ておくか？」	　Would you like to see the enemy?」
 
-142048	Sill Plain	「敵を見ておく？」	「See the enemy?」
+142048	Sill Plain	考え中	「敵を見ておく？」	「See the enemy?」
 
-142049	Rance	「？　捕虜かなんか捕まえたのか？」	「? Did you capture a prisoner or something?」
+142049	Rance	基本	「？　捕虜かなんか捕まえたのか？」	「? Did you capture a prisoner or something?」
 
-142050	Amitos Armitage	「見れば分かる」	「You'll understand when you see it.」
+142050	Amitos Armitage	メットなし	「見れば分かる」	「You'll understand when you see it.」
 
-142051	Amitos Armitage	「さあ、こっちに来てくれ」	「Come this way.」
+142051	Amitos Armitage		「さあ、こっちに来てくれ」	「Come this way.」
 
-142052	-	アミトスが歩き出したので、	Amitos started walking,
-142053	+	ランスとシィルはハテナマークを浮かべ	so Rance and Sill, with question marks above their heads,
-142054	+	顔を見合わせつつ、後をついていくことにした。	exchanged glances and decided to follow him.
+142052	-		アミトスが歩き出したので、	Amitos started walking,
+142053	+		ランスとシィルはハテナマークを浮かべ	so Rance and Sill, with question marks above their heads,
+142054	+		顔を見合わせつつ、後をついていくことにした。	exchanged glances and decided to follow him.
 
-142055	-	アミトスの案内で村の真ん中につくと	Guided by Amitos to the center of the village,
-142056	+	そこは閑散とした広場となっていた。	it was a deserted square.
+142055	-		アミトスの案内で村の真ん中につくと	Guided by Amitos to the center of the village,
+142056	+		そこは閑散とした広場となっていた。	it was a deserted square.
 
-142057	Sill Plain	「ひどい……家が沢山破壊されて……」	「How terrible... So many houses destroyed...」
+142057	Sill Plain	基本	「ひどい……家が沢山破壊されて……」	「How terrible... So many houses destroyed...」
 
-142058	Amitos Armitage	「これは全てバボラがやった破壊活動だ」	「All of this destruction was caused by Babolat.」
+142058	Amitos Armitage	メットなし	「これは全てバボラがやった破壊活動だ」	「All of this destruction was caused by Babolat.」
 
-142059	-	粉々に破壊されつくされた家々、	Houses smashed to pieces,
-142060	+	中には建物の真ん中にぽっかりと	some with huge holes blown right through the middle of the buildings.」
-142061	+	大穴を開けられている屋敷もあった。	
+142059	-		粉々に破壊されつくされた家々、	Houses smashed to pieces,
+142060	+		中には建物の真ん中にぽっかりと	some with huge holes blown right through the middle of the buildings.」
+142061	+		大穴を開けられている屋敷もあった。	
 
-142062	Rance	「随分と好き勝手やられたな」	「They really did whatever they wanted.」
+142062	Rance	基本	「随分と好き勝手やられたな」	「They really did whatever they wanted.」
 
-142063	Amitos Armitage	「ああ……	「Yes...
-142064	+	　それはもう遠慮なく、な……」	　Without holding back at all...」
+142063	Amitos Armitage	メットなし	「ああ……	「Yes...
+142064	+		　それはもう遠慮なく、な……」	　Without holding back at all...」
 
-142065	Amitos Armitage	「それを止めることの出来ない己に、	「I feel the most anger toward myself
-142066	+	　なによりも怒りを覚える」	　for being unable to stop it.」
+142065	Amitos Armitage		「それを止めることの出来ない己に、	「I feel the most anger toward myself
+142066	+		　なによりも怒りを覚える」	　for being unable to stop it.」
 
-142067	Amitos Armitage	「いや、怒りを通り越して、	「No, it went beyond anger,
-142068	+	　力が抜けるようだったよ」	　and I just felt drained.」
+142067	Amitos Armitage		「いや、怒りを通り越して、	「No, it went beyond anger,
+142068	+		　力が抜けるようだったよ」	　and I just felt drained.」
 
-142069	Sill Plain	「ひっ……」	「Hii...」
+142069	Sill Plain	基本	「ひっ……」	「Hii...」
 
-142070	-	そのときのことを思い出しているのか、	Perhaps remembering that time,
-142071	+	アミトスの声は至って冷静だが、	Amitos's voice was very calm,
-142072	+	その声には冷ややかな怒気が含まれていた。	but it carried a cold fury.
+142070	-		そのときのことを思い出しているのか、	Perhaps remembering that time,
+142071	+		アミトスの声は至って冷静だが、	Amitos's voice was very calm,
+142072	+		その声には冷ややかな怒気が含まれていた。	but it carried a cold fury.
 
-142073	Rance	「で、これが見せたかったものか？」	「So, is this what you wanted to show me?」
+142073	Rance		「で、これが見せたかったものか？」	「So, is this what you wanted to show me?」
 
-142074	Amitos Armitage	「いや、この先にあるものだ。	「No, it's what's up ahead.
-142075	+	　さあ、もう見えてきた」	　Come, you can already see it.」
+142074	Amitos Armitage	メットなし	「いや、この先にあるものだ。	「No, it's what's up ahead.
+142075	+		　さあ、もう見えてきた」	　Come, you can already see it.」

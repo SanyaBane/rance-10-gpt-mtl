@@ -5,83 +5,83 @@
 * Scholar	学者	Male
 * Muscle	マッスル	Male
 
-80526	-	土煙が舞い、怒号が飛び交う、	Dust swirled, angry roars flew,
-80527	+	大規模な合戦が行われていた。	as a large-scale battle unfolded.
+80526	-		土煙が舞い、怒号が飛び交う、	Dust swirled, angry roars flew,
+80527	+		大規模な合戦が行われていた。	as a large-scale battle unfolded.
 
-80528	Rance	「ぜえ、ぜえ……	「Zee, zee...
-80529	+	　戦闘と言えど雑魚ばかりではないか」	　Even in battle it's nothing but small fry.」
+80528	Rance	だる顔	「ぜえ、ぜえ……	「Zee, zee...
+80529	+		　戦闘と言えど雑魚ばかりではないか」	　Even in battle it's nothing but small fry.」
 
-80530	Rance	「くそっ！　随分奥まで来たが、	「Damn! We've come pretty deep,
-80531	+	　まだケイブリスは見えないのか！？」	　but Kayblis is still nowhere to be seen!?」
+80530	Rance	怒り	「くそっ！　随分奥まで来たが、	「Damn! We've come pretty deep,
+80531	+		　まだケイブリスは見えないのか！？」	　but Kayblis is still nowhere to be seen!?」
 
-80532	Rance	「あいつは臆病だって話だから、	「They say he's a coward,
-80533	+	　絶対に後ろの方にいると思ったのに……」	　so I thought he'd definitely be in the back...」
+80532	Rance	だる顔	「あいつは臆病だって話だから、	「They say he's a coward,
+80533	+		　絶対に後ろの方にいると思ったのに……」	　so I thought he'd definitely be in the back...」
 
-80534	Satella	「おい、見ろランス！	「Hey, look Rance!
-80535	+	　あの辺り、妙に兵が固まっている！」	　There's an unnatural concentration of soldiers over there!」
+80534	Satella	怒り	「おい、見ろランス！	「Hey, look Rance!
+80535	+		　あの辺り、妙に兵が固まっている！」	　There's an unnatural concentration of soldiers over there!」
 
-80536	Rance	「おお、怪しい！」	「Oh, suspicious!」
+80536	Rance	基本	「おお、怪しい！」	「Oh, suspicious!」
 
-80537	Rance	「総員、突撃ーーーーーーーッ！」	「All troops, chaaaaarge!」
+80537	Rance	怒り	「総員、突撃ーーーーーーーッ！」	「All troops, chaaaaarge!」
 
-80538	-	戦場、魔軍側後方――	Battlefield, Monster Army rear――
+80538	-		戦場、魔軍側後方――	Battlefield, Monster Army rear――
 
-80539	Stroganoff	「むっ……！」	「Mu...!」
+80539	Stroganoff	基本	「むっ……！」	「Mu...!」
 
-80540	-	ただならぬ気配を感じ、	Sensing an unusual presence,
-80541	+	ストロガノフの目が細くなる。	Stroganoff's eyes narrowed.
+80540	-		ただならぬ気配を感じ、	Sensing an unusual presence,
+80541	+		ストロガノフの目が細くなる。	Stroganoff's eyes narrowed.
 
-80542	Scholar	「？　どうかしましたか」	「? Did something happen?」
+80542	Scholar		「？　どうかしましたか」	「? Did something happen?」
 
-80543	-	部下がストロガノフに問う。	His subordinate asked Stroganoff.
+80543	-		部下がストロガノフに問う。	His subordinate asked Stroganoff.
 
-80544	Stroganoff	「……あちらから、	「...From over there,
-80545	+	　ここに向かってくる部隊がいるな」	　there's a unit heading this way.」
+80544	Stroganoff		「……あちらから、	「...From over there,
+80545	+		　ここに向かってくる部隊がいるな」	　there's a unit heading this way.」
 
-80546	Scholar	「……強そうですか？」	「...Do they seem strong?」
+80546	Scholar		「……強そうですか？」	「...Do they seem strong?」
 
-80547	Stroganoff	「さあな。	「Who knows.
-80548	+	　だが、ただ者ではなさそうだ」	　But they don't seem ordinary.」
+80547	Stroganoff		「さあな。	「Who knows.
+80548	+		　だが、ただ者ではなさそうだ」	　But they don't seem ordinary.」
 
-80549	Stroganoff	「儂は知っての通り戦えぬ身。	「As you know, I cannot fight.
-80550	+	　任せるぞ」	　I'll leave it to you.」
+80549	Stroganoff		「儂は知っての通り戦えぬ身。	「As you know, I cannot fight.
+80550	+		　任せるぞ」	　I'll leave it to you.」
 
-80551	Scholar	「……ええ、分かりました」	「...Yes, understood.」
+80551	Scholar		「……ええ、分かりました」	「...Yes, understood.」
 
-80552	Rance	「どけどけどけどけーーーッ！」	「Outta the way, outta the wayyyy!」
+80552	Rance	怒り	「どけどけどけどけーーーッ！」	「Outta the way, outta the wayyyy!」
 
-80553	-	近くの雑魚を切り捨てながら	While cutting down nearby small fry,
-80554	+	ランスがサテラの指さした方へ走る。	Rance ran toward where Satella pointed.
+80553	-		近くの雑魚を切り捨てながら	While cutting down nearby small fry,
+80554	+		ランスがサテラの指さした方へ走る。	Rance ran toward where Satella pointed.
 
-80555	-	その時――	At that moment――
+80555	-		その時――	At that moment――
 
-80556	Muscle	「死ね！」	「Die!」
+80556	Muscle	基本	「死ね！」	「Die!」
 
-80557	Rance	「うおおっ！　危なっ！」	「Uooh! Close one!」
+80557	Rance	驚き	「うおおっ！　危なっ！」	「Uooh! Close one!」
 
-80558	-	走り抜けるランスの首めがけて	A blade swung toward Rance's neck
-80559	+	振られた刃を、ランスがギリギリで避ける。	as he ran, which Rance barely dodged.
+80558	-		走り抜けるランスの首めがけて	A blade swung toward Rance's neck
+80559	+		振られた刃を、ランスがギリギリで避ける。	as he ran, which Rance barely dodged.
 
-80560	Rance	「誰だ！」	「Who the hell!」
+80560	Rance	怒り	「誰だ！」	「Who the hell!」
 
-80561	Muscle	「ははははは！	「Hahahaha!
-80562	+	　なるほど、こりゃあただ者じゃないぜ！」	　I see, this guy is no ordinary opponent!」
+80561	Muscle	基本	「ははははは！	「Hahahaha!
+80562	+		　なるほど、こりゃあただ者じゃないぜ！」	　I see, this guy is no ordinary opponent!」
 
-80563	Rance	「なっ、お前ら！」	「Wha, you guys!」
+80563	Rance		「なっ、お前ら！」	「Wha, you guys!」
 
-80564	Scholar	「ふっ、久しぶりですね。	「Heh, it's been a while.
-80565	+	　カオスマスター……」	　Chaos Master...」
+80564	Scholar		「ふっ、久しぶりですね。	「Heh, it's been a while.
+80565	+		　カオスマスター……」	　Chaos Master...」
 
-80566	Muscle	「こんな戦場で会うたぁ、	「Meeting on a battlefield like this,
-80567	+	　やーっぱ縁があるのかもな、俺達！」	　maybe we really are connected by fate!」
+80566	Muscle		「こんな戦場で会うたぁ、	「Meeting on a battlefield like this,
+80567	+		　やーっぱ縁があるのかもな、俺達！」	　maybe we really are connected by fate!」
 
-80568	Rance	「どけ！　今はお前らなんぞどうでもいいわ！」	「Move! I don't have time for you guys right now!」
+80568	Rance		「どけ！　今はお前らなんぞどうでもいいわ！」	「Move! I don't have time for you guys right now!」
 
-80569	Muscle	「おおっと、そうはいかねぇ！」	「Whoa, not so fast!」
+80569	Muscle		「おおっと、そうはいかねぇ！」	「Whoa, not so fast!」
 
-80570	Scholar	「いつぞやの決着、	「The conclusion from last time,
-80571	+	　今ここで――」	　let's settle it right here――」
+80570	Scholar		「いつぞやの決着、	「The conclusion from last time,
+80571	+		　今ここで――」	　let's settle it right here――」
 
-80572	Rance	「くっ……！」	「Kuh...!」
+80572	Rance	イライラ	「くっ……！」	「Kuh...!」
 
-80573	Rance	「そんな死にたきゃ殺してやる！」	「If you wanna die that badly I'll kill you!」
+80573	Rance	怒り	「そんな死にたきゃ殺してやる！」	「If you wanna die that badly I'll kill you!」

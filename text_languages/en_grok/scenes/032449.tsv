@@ -3,79 +3,79 @@
 * Hubert Lipton	ヒューバート	Male
 * Dark Heron	闇鷺	Female
 
-150407	-	ラング・バウ――	Lang Bau--
+150407	-		ラング・バウ――	Lang Bau--
 
-150408	-	今、首都から一台のうし車が	Now, one ox cart was about to depart from the capital.
-150409	+	出発しようとしていた。	　
+150408	-		今、首都から一台のうし車が	Now, one ox cart was about to depart from the capital.
+150409	+		出発しようとしていた。	　
 
-150410	Freya Idun	「なんだか奴隷商人になった気分だわ」	「I feel like I've become a slave trader.」
+150410	Freya Idun	基本	「なんだか奴隷商人になった気分だわ」	「I feel like I've become a slave trader.」
 
-150411	-	フレイアがうし車を見やりながら呟く。	Freya muttered while looking at the ox cart.
-150412	+	中には女の子が詰め込まれていた。	It was packed with girls inside.
+150411	-		フレイアがうし車を見やりながら呟く。	Freya muttered while looking at the ox cart.
+150412	+		中には女の子が詰め込まれていた。	It was packed with girls inside.
 
-150413	Hubert Lipton	「同感。	「Same here.
-150414	+	　ちょいと中の様子を見たが、	　I took a quick look inside,
-150415	+	　またうし車の中が暗くてなぁ……」	　but it's dark in there again...」
+150413	Hubert Lipton	困惑	「同感。	「Same here.
+150414	+		　ちょいと中の様子を見たが、	　I took a quick look inside,
+150415	+		　またうし車の中が暗くてなぁ……」	　but it's dark in there again...」
 
-150416	-	中にいる女の子達は	The girls inside
-150417	+	誰もがどこか陰気な雰囲気を漂わせていた。	all had somewhat gloomy atmospheres.
+150416	-		中にいる女の子達は	The girls inside
+150417	+		誰もがどこか陰気な雰囲気を漂わせていた。	all had somewhat gloomy atmospheres.
 
-150418	Freya Idun	「しかし、変わった命令ねぇ……」	「What a strange order though...
+150418	Freya Idun	基本	「しかし、変わった命令ねぇ……」	「What a strange order though...
 
-150419	Freya Idun	「ヘルマン中から女の子――	「Gather girls from all over Helman--
-150420	+	　出来れば不幸な子を集めろ、だなんて」	　preferably unhappy ones, he said.」
+150419	Freya Idun		「ヘルマン中から女の子――	「Gather girls from all over Helman--
+150420	+		　出来れば不幸な子を集めろ、だなんて」	　preferably unhappy ones, he said.」
 
-150421	Freya Idun	「まあ、不幸な女の子ならヘルマンは	「Well, there are so many unhappy girls in Helman
-150422	+	　輸出事業始められるくらい多いから	　we could start an export business with them,
-150423	+	　簡単な仕事だけど……」	　so it's an easy job...」
+150421	Freya Idun		「まあ、不幸な女の子ならヘルマンは	「Well, there are so many unhappy girls in Helman
+150422	+		　輸出事業始められるくらい多いから	　we could start an export business with them,
+150423	+		　簡単な仕事だけど……」	　so it's an easy job...」
 
-150424	Hubert Lipton	「ははは、ステッセル一派には感謝だな」	「Hahaha, we should thank the Stessel faction.」
+150424	Hubert Lipton	笑顔	「ははは、ステッセル一派には感謝だな」	「Hahaha, we should thank the Stessel faction.」
 
-150425	Hubert Lipton	「……なんて笑いごっちゃないな」	「...This is no laughing matter.」
+150425	Hubert Lipton	基本	「……なんて笑いごっちゃないな」	「...This is no laughing matter.」
 
-150426	Freya Idun	「顔に似合わず真面目ねぇ」	「You're more serious than you look.」
+150426	Freya Idun		「顔に似合わず真面目ねぇ」	「You're more serious than you look.」
 
-150427	Hubert Lipton	「顔は関係ねぇだろう……」	「My face has nothing to do with it...」
+150427	Hubert Lipton	困惑	「顔は関係ねぇだろう……」	「My face has nothing to do with it...」
 
-150428	Dark Heron	「フレイア様、うし車の準備整いました」	「Lady Freya, the ox cart is ready.」
+150428	Dark Heron	基本	「フレイア様、うし車の準備整いました」	「Lady Freya, the ox cart is ready.」
 
-150429	-	御者の席からフレイアの部下が声をかける。	Freya's subordinate called from the driver's seat.
+150429	-		御者の席からフレイアの部下が声をかける。	Freya's subordinate called from the driver's seat.
 
-150430	Freya Idun	「ええ、承知したわ。	「Yes, understood.
-150431	+	　闇鷺、安全運転よ」	　Dark Heron, drive safely.」
+150430	Freya Idun		「ええ、承知したわ。	「Yes, understood.
+150431	+		　闇鷺、安全運転よ」	　Dark Heron, drive safely.」
 
-150432	Dark Heron	「はい、必ずや無事に送り届けます。	「Yes, I will deliver them safely without fail.
-150433	?	　――ハッ！」	　--Hah!」
+150432	Dark Heron		「はい、必ずや無事に送り届けます。	「Yes, I will deliver them safely without fail.
+150433	?		　――ハッ！」	　--Hah!」
 
-150434	-	フレイアの部下、闇鷺が手綱をピシリと鳴らすと、	When Dark Heron snapped the reins sharply,
-150435	+	うし車が車輪の音を高らかに奏でながら、	the ox cart departed from the capital
-150436	+	首都から出発した。	with loud wheel sounds.
+150434	-		フレイアの部下、闇鷺が手綱をピシリと鳴らすと、	When Dark Heron snapped the reins sharply,
+150435	+		うし車が車輪の音を高らかに奏でながら、	the ox cart departed from the capital
+150436	+		首都から出発した。	with loud wheel sounds.
 
-150437	Freya Idun	「これで何台目になるかしら」	「I wonder how many carts this makes now.」
+150437	Freya Idun		「これで何台目になるかしら」	「I wonder how many carts this makes now.」
 
-150438	Hubert Lipton	「えーと、確か八台目だな」	「Let's see, this should be the eighth one.」
+150438	Hubert Lipton		「えーと、確か八台目だな」	「Let's see, this should be the eighth one.」
 
-150439	Freya Idun	「集めた不幸な女の子は	「The unhappy girls we gathered
-150440	+	　トランシルバニアの森に送れ、ね。	　are to be sent to the Transylvania Forest.
-150441	+	　この命令になんの意味があるのかしら」	　I wonder what this order means.」
+150439	Freya Idun		「集めた不幸な女の子は	「The unhappy girls we gathered
+150440	+		　トランシルバニアの森に送れ、ね。	　are to be sent to the Transylvania Forest.
+150441	+		　この命令になんの意味があるのかしら」	　I wonder what this order means.」
 
-150442	Hubert Lipton	「さて、ね。	「Who knows.
-150443	+	　とりあえず大将がこれで行くと言った。	　The boss said to do this,
-150444	+	　なら手足は何も考えずに動くだけだ」	　so we just move our hands and feet without thinking.」
+150442	Hubert Lipton		「さて、ね。	「Who knows.
+150443	+		　とりあえず大将がこれで行くと言った。	　The boss said to do this,
+150444	+		　なら手足は何も考えずに動くだけだ」	　so we just move our hands and feet without thinking.」
 
-150445	Hubert Lipton	「……とでも考えねぇとやってられん」	「...Otherwise I couldn't do it.」
+150445	Hubert Lipton	困惑	「……とでも考えねぇとやってられん」	「...Otherwise I couldn't do it.」
 
-150446	Freya Idun	「真面目ねぇ」	「So serious.」
+150446	Freya Idun	基本	「真面目ねぇ」	「So serious.」
 
-150447	Hubert Lipton	「顔に似合わず、ってか？」	「Unlike how I look?」
+150447	Hubert Lipton		「顔に似合わず、ってか？」	「Unlike how I look?」
 
-150448	Hubert Lipton	「ま、ランス総統閣下のお手並み拝見と行こうぜ」	「Well, let's see what Supreme Leader Rance has in mind.」
+150448	Hubert Lipton		「ま、ランス総統閣下のお手並み拝見と行こうぜ」	「Well, let's see what Supreme Leader Rance has in mind.」
 
-150449	Hubert Lipton	「この調子でどんどんトランシルバニアの森に	「Keep sending girls to the Transylvania Forest like this.」
-150450	+	　女の子を送っていってくれ」	　
+150449	Hubert Lipton		「この調子でどんどんトランシルバニアの森に	「Keep sending girls to the Transylvania Forest like this.」
+150450	+		　女の子を送っていってくれ」	　
 
-150451	Freya Idun	「承知」	「Understood.」
+150451	Freya Idun		「承知」	「Understood.」
 
-150452	-	ヒューバートは城内に、	Hubert returned inside the castle,
-150453	+	フレイアは姿を消して、	Freya vanished,
-150454	+	二人は各々のやるべきことに戻った。	and both went back to their respective tasks.
+150452	-		ヒューバートは城内に、	Hubert returned inside the castle,
+150453	+		フレイアは姿を消して、	Freya vanished,
+150454	+		二人は各々のやるべきことに戻った。	and both went back to their respective tasks.

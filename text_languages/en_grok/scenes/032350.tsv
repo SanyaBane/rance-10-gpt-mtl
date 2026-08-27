@@ -3,28 +3,28 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-143586	Kentou Kanami	「う、うう……」	「U-uuu...」
+143586	Kentou Kanami	泣き	「う、うう……」	「U-uuu...」
 
-143587	-	かなみがションボリしていた。	Kanami looked dejected.
+143587	-		かなみがションボリしていた。	Kanami looked dejected.
 
-143588	Rance	「かなみ」	「Kanami.」
+143588	Rance	基本	「かなみ」	「Kanami.」
 
-143589	Kentou Kanami	「うう、ご、ごめんなさい……」	「Uuu, I-I'm sorry...」
+143589	Kentou Kanami	泣き	「うう、ご、ごめんなさい……」	「Uuu, I-I'm sorry...」
 
-143590	Rance	「それじゃあ意味が分からん。	「That doesn’t explain anything.
-143591	+	　何があった。説明しろ」	　What happened? Explain.」
+143590	Rance	基本	「それじゃあ意味が分からん。	「That doesn’t explain anything.
+143591	+		　何があった。説明しろ」	　What happened? Explain.」
 
-143592	Kentou Kanami	「魔軍のド真ん中に	「I seem to have wandered right into
-143593	+	　紛れ込んでしまったみたい……」	　the middle of the Monster Army...」
+143592	Kentou Kanami	泣き	「魔軍のド真ん中に	「I seem to have wandered right into
+143593	+		　紛れ込んでしまったみたい……」	　the middle of the Monster Army...」
 
-143594	Rance	「…………」	「............」
+143594	Rance	基本	「…………」	「............」
 
-143595	Rance	「この馬鹿もん！　何をしとるか！」	「You idiot! What are you doing!」
+143595	Rance		「この馬鹿もん！　何をしとるか！」	「You idiot! What are you doing!」
 
-143596	Kentou Kanami	「ご、ごめんなさーい！」	「I-I'm sorryyy!」
+143596	Kentou Kanami	混乱	「ご、ごめんなさーい！」	「I-I'm sorryyy!」
 
-143597	Sill Plain	「ランス様、どうしましょう！」	「Rance-sama, what should we do!」
+143597	Sill Plain	慌て	「ランス様、どうしましょう！」	「Rance-sama, what should we do!」
 
-143598	Rance	「どうもこうもあるか。	「No time to think about that.
-143599	+	　まずは陣地から抜け出すぞ！	　First, let’s get out of this camp!
-143600	+	　遅れずについてこい！」	　Follow me without falling behind!」
+143598	Rance	基本	「どうもこうもあるか。	「No time to think about that.
+143599	+		　まずは陣地から抜け出すぞ！	　First, let’s get out of this camp!
+143600	+		　遅れずについてこい！」	　Follow me without falling behind!」

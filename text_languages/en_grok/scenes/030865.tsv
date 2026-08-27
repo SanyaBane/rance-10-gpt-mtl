@@ -6,55 +6,55 @@
 * Sill Plain	シィル	Female
 * Urza Pranaice	ウルザ	Female
 
-35756	Ogawa Kentarou	「うあああぁっ……！」	「Uaaaaah...!」
+35756	Ogawa Kentarou	基本	「うあああぁっ……！」	「Uaaaaah...!」
 
-35757	-	健太郎はケイブリスの猛攻に、	Kentarou couldn't withstand Kayblis's fierce attack
-35758	+	耐えきれず片膝を付いた。	and dropped to one knee.
+35757	-		健太郎はケイブリスの猛攻に、	Kentarou couldn't withstand Kayblis's fierce attack
+35758	+		耐えきれず片膝を付いた。	and dropped to one knee.
 
-35759	Rance	「バカ野郎、倒れるんじゃない！	「You idiot, don't fall!
-35760	+	　立て！　今すぐ立て！」	　Stand up! Stand right now!」
+35759	Rance	怒り	「バカ野郎、倒れるんじゃない！	「You idiot, don't fall!
+35760	+		　立て！　今すぐ立て！」	　Stand up! Stand right now!」
 
-35761	Ogawa Kentarou	「す、すみません……っ、	「S-sorry...」
-35762	+	　ちょっと、ちょっとだけ、タイム……」	　Just a little, just a little time out...」
+35761	Ogawa Kentarou	基本	「す、すみません……っ、	「S-sorry...」
+35762	+		　ちょっと、ちょっとだけ、タイム……」	　Just a little, just a little time out...」
 
-35763	-	押さえた脇腹から、血が止まらない。	Blood wouldn't stop flowing from his pressed side.
+35763	-		押さえた脇腹から、血が止まらない。	Blood wouldn't stop flowing from his pressed side.
 
-35764	Kurusu Miki	「――――――――っ、あ……」	「------... Ah...」
+35764	Kurusu Miki	流血／恐怖	「――――――――っ、あ……」	「------... Ah...」
 
-35765	Rance	「ちっ、ええい、シィル！	「Tch, damn it, Sill!
-35766	+	　ヒーリングだヒーリング！　この虚弱魔人を……」	　Healing! Healing! This frail Fiend...」
+35765	Rance	怒り	「ちっ、ええい、シィル！	「Tch, damn it, Sill!
+35766	+		　ヒーリングだヒーリング！　この虚弱魔人を……」	　Healing! Healing! This frail Fiend...」
 
-35767	Kurusu Miki	「やだ、もう、やだ、っ……健太郎くん……っ、	「No, no more... Kentarou-kun...」
-35768	+	　健太郎くん、健太郎くん、健太郎くん……！」	　Kentarou-kun, Kentarou-kun, Kentarou-kun...!」
+35767	Kurusu Miki	流血／オーラ	「やだ、もう、やだ、っ……健太郎くん……っ、	「No, no more... Kentarou-kun...」
+35768	+		　健太郎くん、健太郎くん、健太郎くん……！」	　Kentarou-kun, Kentarou-kun, Kentarou-kun...!」
 
-35769	Rance	「くたばれ、このリス野郎が！」	「Drop dead, you squirrel bastard!」
+35769	Rance	怒り	「くたばれ、このリス野郎が！」	「Drop dead, you squirrel bastard!」
 
-35770	Kayblis	「図に乗りやがって、人間があああああ！」	「Don't get cocky, you humans!」
+35770	Kayblis		「図に乗りやがって、人間があああああ！」	「Don't get cocky, you humans!」
 
-35771	-	切り込んだランスの剣が届くより一瞬早く、	Faster than Rance's slashing sword could reach,
-35772	+	ケイブリスの爪がランスの胴を貫いた。	Kayblis's claw pierced Rance's torso.
+35771	-		切り込んだランスの剣が届くより一瞬早く、	Faster than Rance's slashing sword could reach,
+35772	+		ケイブリスの爪がランスの胴を貫いた。	Kayblis's claw pierced Rance's torso.
 
-35773	Rance	「おごっ……！　が、ぼっ……」	「Ogoh...! Ga, bo...」
+35773	Rance	驚き	「おごっ……！　が、ぼっ……」	「Ogoh...! Ga, bo...」
 
-35774	Sill Plain	「ランス様！」	「Rance-sama!」
+35774	Sill Plain	慌て	「ランス様！」	「Rance-sama!」
 
-35775	Kurusu Miki	「ランスくーーーーーーーーん！」	「Rance-kuuuuuuuun!」
+35775	Kurusu Miki	基本	「ランスくーーーーーーーーん！」	「Rance-kuuuuuuuun!」
 
-35776	Rance~	（い、息、いきが、できん、っ……まずい……！）	（C-can't... breathe... bad...!）
+35776	Rance~	驚き	（い、息、いきが、できん、っ……まずい……！）	（C-can't... breathe... bad...!）
 
-35777	Kurusu Miki	「血……血が…………っ、あ、あ…………	「Blood... blood...... a, a......
-35778	+	　らん、す、くん…………」	　Ra-nce...kun......」
+35777	Kurusu Miki	流血／恐怖	「血……血が…………っ、あ、あ…………	「Blood... blood...... a, a......
+35778	+		　らん、す、くん…………」	　Ra-nce...kun......」
 
-35779	Kurusu Miki	「あ、っ…………あぁぁあぁぁ、っ……	「A... aaaaah......
-35780	+	　あああああああああああああああああ！！！」	　Aaaaaaaaaaaaaaaaaah!!!」
+35779	Kurusu Miki	流血／オーラ	「あ、っ…………あぁぁあぁぁ、っ……	「A... aaaaah......
+35780	+		　あああああああああああああああああ！！！」	　Aaaaaaaaaaaaaaaaaah!!!」
 
-35781	Urza Pranaice	「ランスさん！　美樹さんが！」	「Rance-san! Miki-san!」
+35781	Urza Pranaice	怒り	「ランスさん！　美樹さんが！」	「Rance-san! Miki-san!」
 
-35782	Rance	「なっ、なんだとっ……！」	「W-what...!」
+35782	Rance	驚き	「なっ、なんだとっ……！」	「W-what...!」
 
-35783	Kayblis	「げっ、しまった、ッ…………！」	「Geh, shit...!」
+35783	Kayblis	基本	「げっ、しまった、ッ…………！」	「Geh, shit...!」
 
-35784	-	瞬間…………世界は、真っ白に輝いた。	In an instant............ the world shone pure white.
+35784	-		瞬間…………世界は、真っ白に輝いた。	In an instant............ the world shone pure white.
 
-35785	-	その場にいる全ての生命を消滅させて……	Erasing all life present...
-35786	+	魔王、リトルプリンセスが誕生した。	The Demon King, Little Princess was born.
+35785	-		その場にいる全ての生命を消滅させて……	Erasing all life present...
+35786	+		魔王、リトルプリンセスが誕生した。	The Demon King, Little Princess was born.

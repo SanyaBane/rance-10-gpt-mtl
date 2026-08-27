@@ -5,50 +5,50 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-145250	-	皿の上昇が止まり、	The plate stopped rising,
-145251	+	ランスが食料の影から覗き見ると、	and when Rance peeked from the food's shadow,
-145252	+	バボラの巨大な口があった。	there was Babolat's enormous mouth.
+145250	-		皿の上昇が止まり、	The plate stopped rising,
+145251	+		ランスが食料の影から覗き見ると、	and when Rance peeked from the food's shadow,
+145252	+		バボラの巨大な口があった。	there was Babolat's enormous mouth.
 
-145253	Babolat	「うへ、うへ……ごは、ん……」	「Uhe, uhe... food...」
+145253	Babolat	基本	「うへ、うへ……ごは、ん……」	「Uhe, uhe... food...」
 
-145254	-	巨大な口からだらしなく涎がダラダラと溢れ、	Drool sloppily overflowed from the huge mouth,
-145255	+	黄ばんだキバがぬらぬらと光っていた。	and yellowed fangs glistened wetly.
+145254	-		巨大な口からだらしなく涎がダラダラと溢れ、	Drool sloppily overflowed from the huge mouth,
+145255	+		黄ばんだキバがぬらぬらと光っていた。	and yellowed fangs glistened wetly.
 
-145256	Babolat	「……………………ごは、ん」	「........................Food.」
+145256	Babolat		「……………………ごは、ん」	「........................Food.」
 
-145257	Babolat	「ぐへへ、へ……」	「Guhehe, he...」
+145257	Babolat		「ぐへへ、へ……」	「Guhehe, he...」
 
-145258	Sill Plain	「ひいっ……！」	「Hii...!」
+145258	Sill Plain		「ひいっ……！」	「Hii...!」
 
-145259	-	皿がゆっくりとバボラの方へと近づき、	The plate slowly approached Babolat,
-145260	+	シィルは思わず引きつった声を上げた。	and Sill let out a strained voice.
+145259	-		皿がゆっくりとバボラの方へと近づき、	The plate slowly approached Babolat,
+145260	+		シィルは思わず引きつった声を上げた。	and Sill let out a strained voice.
 
-145261	Kentou Kanami	「う、うううう……	「U, uuuu...
-145262	+	　食料としか思われないって……	　Being seen as nothing but food...
-145263	+	　なんかすごく……怖いわ……」	　It's really... scary...」
+145261	Kentou Kanami		「う、うううう……	「U, uuuu...
+145262	+		　食料としか思われないって……	　Being seen as nothing but food...
+145263	+		　なんかすごく……怖いわ……」	　It's really... scary...」
 
-145264	Rance	「ふん、どっちが食われる方か、	「Hmph, we'll show him who's really getting eaten,
-145265	+	　体で覚えさせてやればいいのだ」	　with our bodies.」
+145264	Rance		「ふん、どっちが食われる方か、	「Hmph, we'll show him who's really getting eaten,
+145265	+		　体で覚えさせてやればいいのだ」	　with our bodies.」
 
-145266	Satella	「ふん、よく言った、ランス。	「Hmph, well said, Rance.
-145267	+	　それでこそサテラの使徒だ」	　That's what I expect from my apostle.」
+145266	Satella	ふふん	「ふん、よく言った、ランス。	「Hmph, well said, Rance.
+145267	+		　それでこそサテラの使徒だ」	　That's what I expect from my apostle.」
 
-145268	Satella	「さあ、行くぞ！」	「Now, let's go!」
+145268	Satella	魔人顔	「さあ、行くぞ！」	「Now, let's go!」
 
-145269	Rance	「おお！　今だ出るぞ！」	「Yeah! Now's the time, let's go!」
+145269	Rance	怒り	「おお！　今だ出るぞ！」	「Yeah! Now's the time, let's go!」
 
-145270	-	ランス達が隠れていた料理の影から姿を現す。	Rance's group emerged from the shadow of the food.
+145270	-		ランス達が隠れていた料理の影から姿を現す。	Rance's group emerged from the shadow of the food.
 
-145271	Babolat	「うあーーーー……」	「Uaaaaa......」
+145271	Babolat	基本	「うあーーーー……」	「Uaaaaa......」
 
-145272	Rance	「って、でかーーーっ！」	「Wait, he's huuuuge!」
+145272	Rance		「って、でかーーーっ！」	「Wait, he's huuuuge!」
 
-145273	Sill Plain	「きゃああああ！　ら、ランス様！	「Kyaaaa! R, Rance-sama!
-145274	+	　見て下さい！　もう、食べられそうですよ！」	　Look! We're about to get eaten!」
+145273	Sill Plain		「きゃああああ！　ら、ランス様！	「Kyaaaa! R, Rance-sama!
+145274	+		　見て下さい！　もう、食べられそうですよ！」	　Look! We're about to get eaten!」
 
-145275	Rance	「こんなもんまじまじと見たくないわ！」	「I don't want to stare at this!」
+145275	Rance		「こんなもんまじまじと見たくないわ！」	「I don't want to stare at this!」
 
-145276	Rance	「なので殺す！	「So I'll kill him!
-145277	+	　死ねーーーーーーーーッ！」	　Dieeeeeee!」
+145276	Rance		「なので殺す！	「So I'll kill him!
+145277	+		　死ねーーーーーーーーッ！」	　Dieeeeeee!」
 
-145278	Babolat	「…………う？」	「............U?」
+145278	Babolat		「…………う？」	「............U?」

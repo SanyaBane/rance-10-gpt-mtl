@@ -6,49 +6,49 @@
 * Chaos	カオス	Male
 * Mary Ann	メアリー	Female
 
-60488	Rance	「いいだろう。掛かってこい」	「Fine. Come at me.」
+60488	Rance	基本	「いいだろう。掛かってこい」	「Fine. Come at me.」
 
-60489	-	ランスはひとつ頷くと、一歩前に出た。	Rance nodded once and stepped forward.
+60489	-		ランスはひとつ頷くと、一歩前に出た。	Rance nodded once and stepped forward.
 
-60490	Lei	「ほう……」	「Hou...」
+60490	Lei		「ほう……」	「Hou...」
 
-60491	Sill Plain	「ランス様！？」	「Rance-sama!?」
+60491	Sill Plain	慌て	「ランス様！？」	「Rance-sama!?」
 
-60492	Kentou Kanami	「え、ほ、本気！？　ランス！」	「Eh, for real!? Rance!」
+60492	Kentou Kanami	うがー	「え、ほ、本気！？　ランス！」	「Eh, for real!? Rance!」
 
-60493	Chaos	「ばかばかばかばか！　よせ！	「Idiot idiot idiot! Stop!
-60494	+	　魔人を舐めるなっちゅーんじゃ！	　Don't underestimate a Fiend!
-60495	+	　お前、負けたらぜーんぶ終わりじゃぞ！」	　If you lose it's all over!」
+60493	Chaos	驚き	「ばかばかばかばか！　よせ！	「Idiot idiot idiot! Stop!
+60494	+		　魔人を舐めるなっちゅーんじゃ！	　Don't underestimate a Fiend!
+60495	+		　お前、負けたらぜーんぶ終わりじゃぞ！」	　If you lose it's all over!」
 
-60496	Rance	「黙れカオス。	「Shut up Chaos.
-60497	+	　……ふん。たまにはこういうサシも悪くない」	　...Hmph. A one-on-one like this isn't bad sometimes.」
+60496	Rance	基本	「黙れカオス。	「Shut up Chaos.
+60497	+		　……ふん。たまにはこういうサシも悪くない」	　...Hmph. A one-on-one like this isn't bad sometimes.」
 
-60498	Lei	「言っといてなんだが、受けるとは思わなかったぜ」	「Gotta say, I didn't expect you to accept.」
+60498	Lei		「言っといてなんだが、受けるとは思わなかったぜ」	「Gotta say, I didn't expect you to accept.」
 
-60499	Rance	「お前みたいなのは、こういう形の方がいいだろう。	「For someone like you, this format is better.
-60500	+	　万が一、ちょろちょろ逃げられるのも面倒だ」	　Having you slip away would be annoying.」
+60499	Rance	真剣	「お前みたいなのは、こういう形の方がいいだろう。	「For someone like you, this format is better.
+60500	+		　万が一、ちょろちょろ逃げられるのも面倒だ」	　Having you slip away would be annoying.」
 
-60501	Rance	「そろそろ、魔人をタイマンで倒した男という	「It's about time I got the title of
-60502	+	　称号も欲しいところだしな、がははははは！」	　man who defeated a Fiend in one-on-one, gahahahaha!」
+60501	Rance	笑顔	「そろそろ、魔人をタイマンで倒した男という	「It's about time I got the title of
+60502	+		　称号も欲しいところだしな、がははははは！」	　man who defeated a Fiend in one-on-one, gahahahaha!」
 
-60503	Lei	「っ……へ、面白い野郎だ。	「...Heh, what an interesting bastard.
-60504	+	　それなら……それなら、それでいいか……	　In that case... yeah, that's fine...
-60505	+	　こっちも、残りを全部ぶち込むぜ……！」	　I'll throw everything I have left in too...!」
+60503	Lei	基本	「っ……へ、面白い野郎だ。	「...Heh, what an interesting bastard.
+60504	+		　それなら……それなら、それでいいか……	　In that case... yeah, that's fine...
+60505	+		　こっちも、残りを全部ぶち込むぜ……！」	　I'll throw everything I have left in too...!」
 
-60506	-	周辺の大気が、異常な電荷を帯びて弾け始める。	The surrounding air began crackling with abnormal electric charge.
+60506	-		周辺の大気が、異常な電荷を帯びて弾け始める。	The surrounding air began crackling with abnormal electric charge.
 
-60507	Mary Ann	「レイ……満足なのか、レイ」	「Lei... Are you satisfied, Lei?」
+60507	Mary Ann	弱り	「レイ……満足なのか、レイ」	「Lei... Are you satisfied, Lei?」
 
-60508	Lei	「ああ、この上はねェ」	「Yeah, nothing better.」
+60508	Lei	基本	「ああ、この上はねェ」	「Yeah, nothing better.」
 
-60509	Mary Ann	「………………」	「............」
+60509	Mary Ann	弱り	「………………」	「............」
 
-60510	-	短いやりとりのあと、少女は後ろに下がった。	After the short exchange, the girl stepped back.
+60510	-		短いやりとりのあと、少女は後ろに下がった。	After the short exchange, the girl stepped back.
 
-60511	Lei	「…………てめェは、殺すぜ……ランス！！」	「............I'll kill you... Rance!!」
+60511	Lei	戦闘時	「…………てめェは、殺すぜ……ランス！！」	「............I'll kill you... Rance!!」
 
-60512	Rance	「けっ……殺せるものなら殺してみやがれ、	「Heh... If you can kill me, then try it,
-60513	+	　雑魚が！！」	　you small fry!!」
+60512	Rance	怒り	「けっ……殺せるものなら殺してみやがれ、	「Heh... If you can kill me, then try it,
+60513	+		　雑魚が！！」	　you small fry!!」
 
-60514	-	小さな町の、うらぶれた路地の片隅で、	In a corner of a shabby alley in a small town,
-60515	+	魔人とランスの、最後の一騎討ちが始まった。	the final one-on-one between the Fiend and Rance began.
+60514	-		小さな町の、うらぶれた路地の片隅で、	In a corner of a shabby alley in a small town,
+60515	+		魔人とランスの、最後の一騎討ちが始まった。	the final one-on-one between the Fiend and Rance began.

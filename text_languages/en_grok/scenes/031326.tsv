@@ -8,64 +8,64 @@
 * Nagi su Ragarl	子供ナギ	Female
 * Chaos	カオス	Male
 
-67032	-	――その気配は、進んでいた魔人討伐隊の全員が、	――That presence was sensed almost simultaneously
-67033	+	ほぼ同時に感じ取った。	by every member of the advancing Fiend Extermination Squad.
+67032	-		――その気配は、進んでいた魔人討伐隊の全員が、	――That presence was sensed almost simultaneously
+67033	+		ほぼ同時に感じ取った。	by every member of the advancing Fiend Extermination Squad.
 
-67034	Rance	「……なんだ、この感じ……妙な気配が……」	「...What is this feeling... Some weird presence...」
+67034	Rance	だる顔	「……なんだ、この感じ……妙な気配が……」	「...What is this feeling... Some weird presence...」
 
-67035	Sill Plain	「は、はい……なんだか気分が悪くなるような……」	「Y-Yes... It feels nauseating somehow...」
+67035	Sill Plain	泣き	「は、はい……なんだか気分が悪くなるような……」	「Y-Yes... It feels nauseating somehow...」
 
-67036	Feliss	「っ、あ……あぁぁっ……やっぱり、鉢合った……！	「Ah... Aaaah... Just as I feared, we've run into him...!
-67037	+	　ネプラ、ッ……ネプラカスが、来る……！」	　Nepla... Neplacus is coming...!」
+67036	Feliss	基本	「っ、あ……あぁぁっ……やっぱり、鉢合った……！	「Ah... Aaaah... Just as I feared, we've run into him...!
+67037	+		　ネプラ、ッ……ネプラカスが、来る……！」	　Nepla... Neplacus is coming...!」
 
-67038	Miracle Tor	「くっくっく……2級魔神か……	「Heh heh heh... A level 2 Demon God...
-67039	+	　待ちかねたぞ、ふははははははは！」	　I've been waiting for this, fuhahahahaha!」
+67038	Miracle Tor	嘲笑	「くっくっく……2級魔神か……	「Heh heh heh... A level 2 Demon God...
+67039	+		　待ちかねたぞ、ふははははははは！」	　I've been waiting for this, fuhahahahaha!」
 
-67040	Pigu Geliciam	「サインとかくれるかなー。わくわく」	「I wonder if he'll give me an autograph. So exciting.」
+67040	Pigu Geliciam	基本	「サインとかくれるかなー。わくわく」	「I wonder if he'll give me an autograph. So exciting.」
 
-67041	Feliss	「そういうの、ダメだって……！	「You can't do that...!
-67042	+	　早く隠れて！」	　Hurry and hide!」
+67041	Feliss		「そういうの、ダメだって……！	「You can't do that...!
+67042	+		　早く隠れて！」	　Hurry and hide!」
 
-67043	-	言うや、フェリスはさっさと物陰に隠れた。	As she spoke, Feliss quickly hid in the shadows.
+67043	-		言うや、フェリスはさっさと物陰に隠れた。	As she spoke, Feliss quickly hid in the shadows.
 
-67044	Sill Plain	「ランス様、私たちも隠れましょう」	「Rance-sama, we should hide too.」
+67044	Sill Plain	恥	「ランス様、私たちも隠れましょう」	「Rance-sama, we should hide too.」
 
-67045	Rance	「まあよかろう。物陰から上位悪魔見物といくか」	「Fine. Let's watch the high-ranking demon from the shadows.」
+67045	Rance	基本	「まあよかろう。物陰から上位悪魔見物といくか」	「Fine. Let's watch the high-ranking demon from the shadows.」
 
-67046	-	ランス達は、岩場のひとつに隠れ潜んだ。	Rance and the others hid behind one of the rocks.
+67046	-		ランス達は、岩場のひとつに隠れ潜んだ。	Rance and the others hid behind one of the rocks.
 
-67047	-	悪魔回廊全体が、震える音が近づいてくる。	A trembling sound approached, shaking the entire Demon Corridor.
+67047	-		悪魔回廊全体が、震える音が近づいてくる。	A trembling sound approached, shaking the entire Demon Corridor.
 
-67048	Rance	「おおう……思ったよりでかいな……	「Whoa... It's bigger than I thought...
-67049	+	　これ、足音か……」	　These are footsteps...?」
+67048	Rance	驚き	「おおう……思ったよりでかいな……	「Whoa... It's bigger than I thought...
+67049	+		　これ、足音か……」	　These are footsteps...?」
 
-67050	Feliss	「喋らないで！　口を開かないで。息もしないで」	「Don't talk! Keep your mouth shut. Don't even breathe.」
+67050	Feliss	基本	「喋らないで！　口を開かないで。息もしないで」	「Don't talk! Keep your mouth shut. Don't even breathe.」
 
-67051	Rance	「無茶言うんじゃない」	「Don't ask for the impossible.」
+67051	Rance	だる顔	「無茶言うんじゃない」	「Don't ask for the impossible.」
 
-67052	Feliss	「とにかく！　見つかったら終わりだから！」	「Anyway! If he finds us, it's over!」
+67052	Feliss	基本	「とにかく！　見つかったら終わりだから！」	「Anyway! If he finds us, it's over!」
 
-67053	Rance	「……………………」	「........................」
+67053	Rance	真剣	「……………………」	「........................」
 
-67054	-	やがて、地響きが強く、大きくなってくる。	Soon the earth tremors grew stronger and louder.
+67054	-		やがて、地響きが強く、大きくなってくる。	Soon the earth tremors grew stronger and louder.
 
-67055	Kentou Kanami~	（う、わ……あれが、ネプラカス……！）	（Uwaa... So that's Neplacus...!）
+67055	Kentou Kanami~	混乱	（う、わ……あれが、ネプラカス……！）	（Uwaa... So that's Neplacus...!）
 
-67056	Nagi su Ragarl~	（でっかーーーーーい……！　山みたい）	（So huuuuge...! Like a mountain.）
+67056	Nagi su Ragarl~	基本	（でっかーーーーーい……！　山みたい）	（So huuuuge...! Like a mountain.）
 
-67057	Chaos~	（おうおう、マジか……魔人て感じはしないが、	（Whoa, for real... Doesn't feel like a normal Fiend God,
-67058	+	　とんでもなく強い……魔王並か……？）	　but insanely powerful... Maybe Demon King level...?）
+67057	Chaos~	真剣	（おうおう、マジか……魔人て感じはしないが、	（Whoa, for real... Doesn't feel like a normal Fiend God,
+67058	+		　とんでもなく強い……魔王並か……？）	　but insanely powerful... Maybe Demon King level...?）
 
-67059	-	だが――	But――
+67059	-		だが――	But――
 
-67060	Rance~	（……………………遅い）	（........................Slow.）
+67060	Rance~		（……………………遅い）	（........................Slow.）
 
-67061	-	一歩の間隔は大きいようなのだが、	Though each step covered a huge distance,
-67062	+	進みが遅い。	his advance was sluggish.
+67061	-		一歩の間隔は大きいようなのだが、	Though each step covered a huge distance,
+67062	+		進みが遅い。	his advance was sluggish.
 
-67063	Rance~	（い、いかん……）	（This is bad...）
+67063	Rance~	驚き	（い、いかん……）	（This is bad...）
 
-67064	Rance~	（黙っているのがしんどくなってきた……）	（Staying quiet is getting tough...）
+67064	Rance~	だる顔	（黙っているのがしんどくなってきた……）	（Staying quiet is getting tough...）
 
-67065	Rance~	（ああでも、どうするか……	（But what should I do...
-67066	+	　流石にやばそうな相手だが……）	　He does look insanely dangerous...）
+67065	Rance~		（ああでも、どうするか……	（But what should I do...
+67066	+		　流石にやばそうな相手だが……）	　He does look insanely dangerous...）

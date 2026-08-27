@@ -9,210 +9,210 @@
 * El Mofus	エール２	Player's choice
 * Green Monster Soldier	汎用魔物兵緑	Male
 
-218156	Kentou Uzume	「しゅくん！　しゅくーーーーん！」	「Master! Masteeeer!」
+218156	Kentou Uzume	基本	「しゅくん！　しゅくーーーーん！」	「Master! Masteeeer!」
 
-218157	Kentou Uzume	「よっと！」	「Yotto!」
+218157	Kentou Uzume		「よっと！」	「Yotto!」
 
-218158	-	辺りの探索に出ていたウズメが、	Uzume, who had been scouting the area,
-218159	+	屋根の上をピョンピョンと跳ねて戻ってきた。	hopped back bouncing on the roofs.
+218158	-		辺りの探索に出ていたウズメが、	Uzume, who had been scouting the area,
+218159	+		屋根の上をピョンピョンと跳ねて戻ってきた。	hopped back bouncing on the roofs.
 
-218160	Kentou Uzume	「どうやらこの辺りに魔物はいないようでござるよ。	「It seems there are no monsters around here.
-218161	+	　静かなもんでござる」	　It's very quiet.」
+218160	Kentou Uzume		「どうやらこの辺りに魔物はいないようでござるよ。	「It seems there are no monsters around here.
+218161	+		　静かなもんでござる」	　It's very quiet.」
 
-218162	Reset Kalar	「わー、さすがウズメちゃん」	「Wow, as expected of Uzume-chan.」
+218162	Reset Kalar		「わー、さすがウズメちゃん」	「Wow, as expected of Uzume-chan.」
 
-218163	Kentou Uzume	「ににんにん、探索偵察はウズメにおまかせ」	「Nin nin, leave scouting to Uzume.」
-218164	+	「にょほほほ、	「Nyohohoho,
-218165	+	　そんなに感謝されると	　if you thank me that much
-218166	+	　ウズメ照れちゃうでござるなぁ」	　Uzume gets embarrassed.」
+218163	Kentou Uzume		「ににんにん、探索偵察はウズメにおまかせ」	「Nin nin, leave scouting to Uzume.」
+218164	+	にょほほ	「にょほほほ、	「Nyohohoho,
+218165	+		　そんなに感謝されると	　if you thank me that much
+218166	+		　ウズメ照れちゃうでござるなぁ」	　Uzume gets embarrassed.」
 
-218167	Kentou Uzume	「おや？」	「Oh?」
+218167	Kentou Uzume	基本	「おや？」	「Oh?」
 
-218168	-	　	　
-218169	+	　　＜なでなで＞	　　<Pat pat>
+218168	-		　	　
+218169	+		　　＜なでなで＞	　　<Pat pat>
 
-218170	-	あなたはウズメのしっとりと柔らかい髪を	You slowly stroked Uzume's smooth, soft hair.
-218171	+	ゆっくりと撫でた。	
+218170	-		あなたはウズメのしっとりと柔らかい髪を	You slowly stroked Uzume's smooth, soft hair.
+218171	+		ゆっくりと撫でた。	
 
-218172	-	　	　
-218173	+	　　＜なでなで　なでなで＞	　　<Pat pat pat pat>
+218172	-		　	　
+218173	+		　　＜なでなで　なでなで＞	　　<Pat pat pat pat>
 
-218174	Kentou Uzume	「…………」	「............」
+218174	Kentou Uzume		「…………」	「............」
 
-218175	Kentou Uzume	「ウズメ、ちょっと照れる」	「Uzume is a bit embarrassed.」
+218175	Kentou Uzume	テレ	「ウズメ、ちょっと照れる」	「Uzume is a bit embarrassed.」
 
-218176	-	ウズメはほんのりと頬をあったかくしていた。	Uzume's cheeks were faintly warm.
+218176	-		ウズメはほんのりと頬をあったかくしていた。	Uzume's cheeks were faintly warm.
 
-218177	Kentou Uzume	「にゃっ！？」	「Nya!?」
+218177	Kentou Uzume	テレびっくり	「にゃっ！？」	「Nya!?」
 
-218178	Kentou Uzume	「みたらし団子を縦に乗せるとは！	「Stacking mitarashi dango vertically!
-218179	+	　主君殿も中々のいけず！」	　Master is quite the teaser!」
+218178	Kentou Uzume	基本	「みたらし団子を縦に乗せるとは！	「Stacking mitarashi dango vertically!
+218179	+		　主君殿も中々のいけず！」	　Master is quite the teaser!」
 
-218180	Kentou Uzume	「よっ、はっ、ほっ！」	「Yo, ha, ho!」
+218180	Kentou Uzume		「よっ、はっ、ほっ！」	「Yo, ha, ho!」
 
-218181	-	ウズメの頭の上で	On top of Uzume's head
-218182	+	何度もポンポンと串団子が跳ねた。	the skewered dango bounced repeatedly.
+218181	-		ウズメの頭の上で	On top of Uzume's head
+218182	+		何度もポンポンと串団子が跳ねた。	the skewered dango bounced repeatedly.
 
-218183	Nagata-kun	「うっわー！　すげー！」	「Whoaa! Amazing!」
+218183	Nagata-kun		「うっわー！　すげー！」	「Whoaa! Amazing!」
 
-218184	Kentou Uzume	「にょほほほ、ウズメこう見えても、	「Nyohohoho, even if I look like this,
-218185	+	　忍者でござるからこれくらい朝飯前」	　as a ninja this is a piece of cake.」
+218184	Kentou Uzume	にょほほ	「にょほほほ、ウズメこう見えても、	「Nyohohoho, even if I look like this,
+218185	+		　忍者でござるからこれくらい朝飯前」	　as a ninja this is a piece of cake.」
 
-218186	Reset Kalar	「もう、食べ物で遊ばないの」	「Geez, don't play with food.」
+218186	Reset Kalar	基本	「もう、食べ物で遊ばないの」	「Geez, don't play with food.」
 
-218187	Kentou Uzume	「はーいでござる」	「Yeees.」
+218187	Kentou Uzume		「はーいでござる」	「Yeees.」
 
-218188	-	最後にポーンと高く串団子を打ち上げ、	Finally she launched the skewered dango high,
-218189	+	落ちてきた団子をウズメががぶりとくわえた。	and Uzume caught the falling dango in her mouth with a big bite.
+218188	-		最後にポーンと高く串団子を打ち上げ、	Finally she launched the skewered dango high,
+218189	+		落ちてきた団子をウズメががぶりとくわえた。	and Uzume caught the falling dango in her mouth with a big bite.
 
-218190	Kentou Uzume	「はむはむ、これは褒賞として、	「Ham ham, this is my reward,
-218191	+	　ウズメが大事にいただくでござる。	Uzume will treasure it.
-218192	+	　ありがとうござる、主君どの」	　Thank you, Master.」
+218190	Kentou Uzume		「はむはむ、これは褒賞として、	「Ham ham, this is my reward,
+218191	+		　ウズメが大事にいただくでござる。	Uzume will treasure it.
+218192	+		　ありがとうござる、主君どの」	　Thank you, Master.」
 
-218193	Kentou Uzume	「にょほほほほ」	「Nyohohohoho」
+218193	Kentou Uzume	にょほほ	「にょほほほほ」	「Nyohohohoho」
 
-218194	-	あなたはウズメと少し仲良くなれた気がした。	You felt you had gotten a bit closer to Uzume.
+218194	-		あなたはウズメと少し仲良くなれた気がした。	You felt you had gotten a bit closer to Uzume.
 
-218195	Zance Leazas	「よーし！　この辺で飯にすんぞ！」	「Alright! Time to eat here!」
+218195	Zance Leazas	基本	「よーし！　この辺で飯にすんぞ！」	「Alright! Time to eat here!」
 
-218196	-	ザンスの鶴の一声で休憩を取ることとなった。	At Zance's command, the group took a break.
+218196	-		ザンスの鶴の一声で休憩を取ることとなった。	At Zance's command, the group took a break.
 
-218197	-	街の通路の真ん中にピクニック用の	They spread a picnic leisure sheet
-218198	+	レジャーシートを敷き、ロッキーがお弁当を広げた。	in the middle of the street and Rocky laid out the lunch.
+218197	-		街の通路の真ん中にピクニック用の	They spread a picnic leisure sheet
+218198	+		レジャーシートを敷き、ロッキーがお弁当を広げた。	in the middle of the street and Rocky laid out the lunch.
 
-218199	Rocky Bank	「沢山作ってきたのでおかわりもあるだすよ」	「I made plenty so there are seconds.」
+218199	Rocky Bank	楽	「沢山作ってきたのでおかわりもあるだすよ」	「I made plenty so there are seconds.」
 
-218200	Reset Kalar	「うわー、豪華だー！	「Wow, so fancy!
-218201	+	　ロッキーさん、すごい！」	　Rocky-san, amazing!」
+218200	Reset Kalar	口開き	「うわー、豪華だー！	「Wow, so fancy!
+218201	+		　ロッキーさん、すごい！」	　Rocky-san, amazing!」
 
-218202	Rocky Bank	「えへへ……おら照れちゃうだす。	「Ehehe... I'm getting shy.
-218203	+	　ちなみに自信作はこかとりすの唐揚げと、	　My specialty is fried cockatrice and
-218204	+	　ほららの照り焼きですだ」	　horara teriyaki.」
+218202	Rocky Bank	テレ	「えへへ……おら照れちゃうだす。	「Ehehe... I'm getting shy.
+218203	+		　ちなみに自信作はこかとりすの唐揚げと、	　My specialty is fried cockatrice and
+218204	+		　ほららの照り焼きですだ」	　horara teriyaki.」
 
-218205	Nagi su Ragarl	「……おや？」	「...Oh?」
+218205	Nagi su Ragarl	基本	「……おや？」	「...Oh?」
 
-218206	Nagi su Ragarl	「ザンスの姿が消えた？」	「Zance disappeared?」
+218206	Nagi su Ragarl		「ザンスの姿が消えた？」	「Zance disappeared?」
 
-218207	Masou Shizuka	「あの子なら一人で向こうに行ったわよ」	「That kid went off alone over there.」
+218207	Masou Shizuka		「あの子なら一人で向こうに行ったわよ」	「That kid went off alone over there.」
 
-218208	Masou Shizuka	「偉そうなことばかり言ったから、	「He said so many arrogant things,
-218209	+	　少しくらいは居づらいんじゃない？」	　so maybe he felt a bit awkward.」
+218208	Masou Shizuka		「偉そうなことばかり言ったから、	「He said so many arrogant things,
+218209	+		　少しくらいは居づらいんじゃない？」	　so maybe he felt a bit awkward.」
 
-218210	Nagi su Ragarl	「それなら最初から偉そうにしなきゃいいのに」	「Then he shouldn't act so arrogant from the start.」
+218210	Nagi su Ragarl		「それなら最初から偉そうにしなきゃいいのに」	「Then he shouldn't act so arrogant from the start.」
 
-218211	Masou Shizuka	「まったく、馬鹿なんだから」	「Geez, what an idiot.」
+218211	Masou Shizuka		「まったく、馬鹿なんだから」	「Geez, what an idiot.」
 
-218212	Reset Kalar	「う〜ん……」	「Hmm...」
+218212	Reset Kalar		「う〜ん……」	「Hmm...」
 
-218213	-	リセットが飲んでいた水筒のお茶から	Reset lowered the tea bottle she was drinking from
-218214	+	口を離して唸った。	and groaned.
+218213	-		リセットが飲んでいた水筒のお茶から	Reset lowered the tea bottle she was drinking from
+218214	+		口を離して唸った。	and groaned.
 
-218215	Reset Kalar	「ザンスちゃん、普段から偉そうだけど、	「Zance-chan is usually arrogant,
-218216	+	　今回は特別偉そうに徹してる、かな？」	　but this time he's especially acting the part, right?」
+218215	Reset Kalar		「ザンスちゃん、普段から偉そうだけど、	「Zance-chan is usually arrogant,
+218216	+		　今回は特別偉そうに徹してる、かな？」	　but this time he's especially acting the part, right?」
 
-218217	Reset Kalar	「初対面の＜エール＞ちゃんや長田君がいるから、	「Because ＜エール＞-chan and Nagata-kun are new faces,
-218218	+	　意識してるんじゃないかなー」	　he's probably conscious of that.」
+218217	Reset Kalar		「初対面の＜エール＞ちゃんや長田君がいるから、	「Because ＜エール＞-chan and Nagata-kun are new faces,
+218218	+		　意識してるんじゃないかなー」	　he's probably conscious of that.」
 
-218219	Reset Kalar	「立場を決めるのは最初の一発だ、	「Setting your position with the first move,
-218220	+	　ってよく言ってるから……」	　that's what he always says...」
+218219	Reset Kalar		「立場を決めるのは最初の一発だ、	「Setting your position with the first move,
+218220	+		　ってよく言ってるから……」	　that's what he always says...」
 
-218221	Nagi su Ragarl	「不良坊主の理論だ、不良坊主の」	「Delinquent monk logic, delinquent monk.」
+218221	Nagi su Ragarl	反省	「不良坊主の理論だ、不良坊主の」	「Delinquent monk logic, delinquent monk.」
 
-218222	Masou Shizuka	「猿山の猿よ」	「Monkey from monkey mountain.」
+218222	Masou Shizuka	基本	「猿山の猿よ」	「Monkey from monkey mountain.」
 
-218223	Reset Kalar	「もう、二人とも……」	「Geez, you two...」
+218223	Reset Kalar		「もう、二人とも……」	「Geez, you two...」
 
-218224	El Mofus	「…………。」	「............」
-218225	Nagi su Ragarl	「あの子に心配とか必要ないと思うけどねー」	「I don't think we need to worry about that kid~」
+218224	El Mofus		「…………。」	「............」
+218225	Nagi su Ragarl		「あの子に心配とか必要ないと思うけどねー」	「I don't think we need to worry about that kid~」
 
-218226	Masou Shizuka	「まあ、行きたいんなら行ってくれば？」	「Well, if you want to go, go ahead.」
+218226	Masou Shizuka		「まあ、行きたいんなら行ってくれば？」	「Well, if you want to go, go ahead.」
 
-218227	Reset Kalar	「あ、＜エール＞ちゃん」	「Ah, ＜エール＞-chan.」
+218227	Reset Kalar		「あ、＜エール＞ちゃん」	「Ah, ＜エール＞-chan.」
 
-218228	Reset Kalar	「えへへ……」	「Ehehe...」
+218228	Reset Kalar	笑顔	「えへへ……」	「Ehehe...」
 
-218229	Reset Kalar	「ザンスちゃん、ああいう子だけど、	「Zance-chan is that kind of boy,
-218230	+	　良かったら仲良くしてあげてね」	　but please get along with him if you can.」
+218229	Reset Kalar	基本	「ザンスちゃん、ああいう子だけど、	「Zance-chan is that kind of boy,
+218230	+		　良かったら仲良くしてあげてね」	　but please get along with him if you can.」
 
-218231	Reset Kalar	「そっか」	「I see.」
+218231	Reset Kalar		「そっか」	「I see.」
 
-218232	Reset Kalar	「えへへ……」	「Ehehe...」
+218232	Reset Kalar	笑顔	「えへへ……」	「Ehehe...」
 
-218233	-	なでなでと、リセットの小さな手が、	Reset's small hand gently
-218234	+	あなたの頭を撫でてきた。	stroked your head.
+218233	-		なでなでと、リセットの小さな手が、	Reset's small hand gently
+218234	+		あなたの頭を撫でてきた。	stroked your head.
 
-218235	Reset Kalar	「＜エール＞ちゃんは良い子だねぇ」	「＜エール＞-chan is such a good child.」
+218235	Reset Kalar	口開き	「＜エール＞ちゃんは良い子だねぇ」	「＜エール＞-chan is such a good child.」
 
-218236	Reset Kalar	「ザンスちゃん、ああいう子だけど、	「Zance-chan is that kind of boy,
-218237	+	　良かったら仲良くしてあげてね」	　but please get along with him if you can.」
+218236	Reset Kalar	基本	「ザンスちゃん、ああいう子だけど、	「Zance-chan is that kind of boy,
+218237	+		　良かったら仲良くしてあげてね」	　but please get along with him if you can.」
 
-218238	Reset Kalar	「そっか。	「I see.
-218239	+	　それじゃあ気をつけてね」	　Then take care.」
+218238	Reset Kalar		「そっか。	「I see.
+218239	+		　それじゃあ気をつけてね」	　Then take care.」
 
-218240	Reset Kalar	「……えへへ」	「...Ehehe」
+218240	Reset Kalar	笑顔	「……えへへ」	「...Ehehe」
 
-218241	Reset Kalar	「ザンスちゃん、ああいう子だけど、	「Zance-chan is that kind of boy,
-218242	+	　良かったら仲良くしてあげてね」	　but please get along with him if you can.」
+218241	Reset Kalar	口開き	「ザンスちゃん、ああいう子だけど、	「Zance-chan is that kind of boy,
+218242	+		　良かったら仲良くしてあげてね」	　but please get along with him if you can.」
 
-218243	Nagata-kun	「って、ちょ、待てよ！？	「Hey, wait a second!?
-218244	+	　お前一人で行かせらんねーよ！	　I can't let you go alone!
-218245	+	　俺も行くから待てってー！」	　I'll go too, so wait!」
+218243	Nagata-kun	基本	「って、ちょ、待てよ！？	「Hey, wait a second!?
+218244	+		　お前一人で行かせらんねーよ！	　I can't let you go alone!
+218245	+		　俺も行くから待てってー！」	　I'll go too, so wait!」
 
-218246	-	あなたは長田君と共に、	Together with Nagata-kun,
-218247	+	ザンスを捜して廃墟都市を歩いた。	you walked through the ruined city searching for Zance.
+218246	-		あなたは長田君と共に、	Together with Nagata-kun,
+218247	+		ザンスを捜して廃墟都市を歩いた。	you walked through the ruined city searching for Zance.
 
-218248	Nagata-kun	「お、いたいた。	「Oh, there he is.
-218249	+	　ザンスの奴、あんなとこにいんぜ」	　Zance is over there.」
+218248	Nagata-kun		「お、いたいた。	「Oh, there he is.
+218249	+		　ザンスの奴、あんなとこにいんぜ」	　Zance is over there.」
 
-218250	-	遠くの方にザンスの小さな姿が見えた。	Zance's small figure could be seen in the distance.
+218250	-		遠くの方にザンスの小さな姿が見えた。	Zance's small figure could be seen in the distance.
 
-218251	Nagata-kun	「って、うん？」	「Huh?」
+218251	Nagata-kun		「って、うん？」	「Huh?」
 
-218252	-	建物の影から魔物兵が姿を見せ、	A monster soldier emerged from the shadow of a building
-218253	+	ザンスの背後にゆっくりと近づいていた。	and slowly approached Zance from behind.
+218252	-		建物の影から魔物兵が姿を見せ、	A monster soldier emerged from the shadow of a building
+218253	+		ザンスの背後にゆっくりと近づいていた。	and slowly approached Zance from behind.
 
-218254	Nagata-kun	「お、おいおいおい……	「H-Hey hey...
-218255	+	　あいつ気づいてないんじゃねぇの？」	　Isn't he not noticing?」
+218254	Nagata-kun		「お、おいおいおい……	「H-Hey hey...
+218255	+		　あいつ気づいてないんじゃねぇの？」	　Isn't he not noticing?」
 
-218256	Green Monster Soldier	「死ねーーーーっ！！」	「Die-----!!」
+218256	Green Monster Soldier		「死ねーーーーっ！！」	「Die-----!!」
 
-218257	Nagata-kun	「あ、あぶなっ！」	「W-Watch out!」
+218257	Nagata-kun		「あ、あぶなっ！」	「W-Watch out!」
 
-218258	Zance Leazas	「ふんっ！」	「Hmph!」
+218258	Zance Leazas		「ふんっ！」	「Hmph!」
 
-218259	Green Monster Soldier	「えっ、なっ！？」	「Eh, wha!?」
+218259	Green Monster Soldier		「えっ、なっ！？」	「Eh, wha!?」
 
-218260	Zance Leazas	「どりゃああああ！」	「Doryaaaa!」
+218260	Zance Leazas		「どりゃああああ！」	「Doryaaaa!」
 
-218261	Green Monster Soldier	「きゃああああああああ！？」	「Kyaaaaaaaahhh!?」
+218261	Green Monster Soldier		「きゃああああああああ！？」	「Kyaaaaaaaahhh!?」
 
-218262	-	いつから気づいていたのか、	He must have noticed long ago,
-218263	+	魔物兵に襲われた瞬間、ザンスは鮮やかに避け、	because the moment the monster soldier attacked, Zance dodged beautifully
-218264	+	腕を取り背負い投げで地面に叩きつけた。	and threw him over his shoulder onto the ground.
+218262	-		いつから気づいていたのか、	He must have noticed long ago,
+218263	+		魔物兵に襲われた瞬間、ザンスは鮮やかに避け、	because the moment the monster soldier attacked, Zance dodged beautifully
+218264	+		腕を取り背負い投げで地面に叩きつけた。	and threw him over his shoulder onto the ground.
 
-218265	Zance Leazas	「へっ！　俺様に不意打ちなんぞ百年早いんだよ！」	「Heh! A surprise attack on me is a hundred years too early!」
+218265	Zance Leazas	微笑み	「へっ！　俺様に不意打ちなんぞ百年早いんだよ！」	「Heh! A surprise attack on me is a hundred years too early!」
 
-218266	Nagata-kun	「うわっ、つよぉ……」	「Whoa, so strong...」
+218266	Nagata-kun	基本	「うわっ、つよぉ……」	「Whoa, so strong...」
 
-218267	Nagata-kun	「うむむむ、ムカつく奴だけど……	「Mmm, he's annoying but...
-218268	+	　偉そうにするだけの実力はあるんだな……」	　he has the skills to back up his arrogance...」
+218267	Nagata-kun		「うむむむ、ムカつく奴だけど……	「Mmm, he's annoying but...
+218268	+		　偉そうにするだけの実力はあるんだな……」	　he has the skills to back up his arrogance...」
 
-218269	Green Monster Soldier	「うきゅう……」	「Ukyuu...」
+218269	Green Monster Soldier		「うきゅう……」	「Ukyuu...」
 
-218270	-	気絶した魔物兵はザンスの目の前で	The unconscious monster soldier lay
-218271	+	地面に転がっていた。	on the ground in front of Zance.
+218270	-		気絶した魔物兵はザンスの目の前で	The unconscious monster soldier lay
+218271	+		地面に転がっていた。	on the ground in front of Zance.
 
-218272	Zance Leazas	「…………」	「............」
+218272	Zance Leazas		「…………」	「............」
 
-218273	Zance Leazas	「……きゃあ、つったか？」	「...Kyaah, did I pull a muscle?」
+218273	Zance Leazas	不満	「……きゃあ、つったか？」	「...Kyaah, did I pull a muscle?」
 
-218274	Zance Leazas	「ってことは……」	「Which means...」
+218274	Zance Leazas	基本	「ってことは……」	「Which means...」
 
-218275	Zance Leazas	「……ごくり」	「...Gulp」
+218275	Zance Leazas		「……ごくり」	「...Gulp」
 
-218276	-	ザンスはキョロキョロと辺りを窺ってから、	Zance looked around nervously
-218277	+	魔物兵の魔物スーツを脱がしていった。	then started stripping the monster soldier's suit.
+218276	-		ザンスはキョロキョロと辺りを窺ってから、	Zance looked around nervously
+218277	+		魔物兵の魔物スーツを脱がしていった。	then started stripping the monster soldier's suit.
 
-218278	Nagata-kun	「ん？　あいつ、何してるんだ？」	「Hm? What's that guy doing?」
+218278	Nagata-kun		「ん？　あいつ、何してるんだ？」	「Hm? What's that guy doing?」
 
-218279	Zance Leazas	「ぐふふ……」	「Gufufu...」
+218279	Zance Leazas	微笑み	「ぐふふ……」	「Gufufu...」

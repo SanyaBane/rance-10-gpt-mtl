@@ -6,119 +6,119 @@
 * Saias Crown	サイアス	Male
 * Magic the Gandhi	マジック	Female
 
-12950	-	――ゼス城内――	――Inside Zeth Castle――
+12950	-		――ゼス城内――	――Inside Zeth Castle――
 
-12951	Zeth Mage Soldier	「はっ、これはカバッハーン将軍！	「Yes sir, it's General Kabachahn!
-12952	+	　ご機嫌麗しゅう！」	　Good day to you!」
+12951	Zeth Mage Soldier	基本	「はっ、これはカバッハーン将軍！	「Yes sir, it's General Kabachahn!
+12952	+		　ご機嫌麗しゅう！」	　Good day to you!」
 
-12953	Zeth Mage Soldier	「あ、お疲れ様です！　雷帝様！」	「Ah, thank you for your hard work! Thunder Emperor!」
+12953	Zeth Mage Soldier		「あ、お疲れ様です！　雷帝様！」	「Ah, thank you for your hard work! Thunder Emperor!」
 
-12954	Kabachahn the Lightning	「…………ふん」	「............Hmph.」
+12954	Kabachahn the Lightning		「…………ふん」	「............Hmph.」
 
-12955	-	道行くゼス兵たちが、	The Zeth soldiers passing by
-12956	+	歩く老人に最敬礼をして見送っていく。	gave the old man the highest salute as he walked by.
+12955	-		道行くゼス兵たちが、	The Zeth soldiers passing by
+12956	+		歩く老人に最敬礼をして見送っていく。	gave the old man the highest salute as he walked by.
 
-12957	Rance	「……えらく慕われてるな、ジジイ」	「......You're really well liked, old man.」
+12957	Rance	真剣	「……えらく慕われてるな、ジジイ」	「......You're really well liked, old man.」
 
-12958	Kabachahn the Lightning	「小僧か……大した事ではない。	「It's you, brat...... It's nothing special.
-12959	+	　カミナリ爺の機嫌を損ねたくない、その程度じゃ」	　They just don't want to get on the Thunder Gramps' bad side.」
+12958	Kabachahn the Lightning	基本	「小僧か……大した事ではない。	「It's you, brat...... It's nothing special.
+12959	+		　カミナリ爺の機嫌を損ねたくない、その程度じゃ」	　They just don't want to get on the Thunder Gramps' bad side.」
 
-12960	Rance	「ふーん。まあそうか。	「Hmm. I see.
-12961	+	　ちょっとしたことでビカビカ雷降らせる	　A geezer who rains lightning at the slightest thing
-12962	+	　ジジイなんぞ、好かれるわけないな」	　isn't exactly lovable.」
+12960	Rance		「ふーん。まあそうか。	「Hmm. I see.
+12961	+		　ちょっとしたことでビカビカ雷降らせる	　A geezer who rains lightning at the slightest thing
+12962	+		　ジジイなんぞ、好かれるわけないな」	　isn't exactly lovable.」
 
-12963	Kabachahn the Lightning	「ふん……お主もまた雷が欲しいのか？」	「Hmph...... You want some lightning too?」
+12963	Kabachahn the Lightning		「ふん……お主もまた雷が欲しいのか？」	「Hmph...... You want some lightning too?」
 
-12964	Rance	「要らんわ！」	「No thanks!」
+12964	Rance	怒り	「要らんわ！」	「No thanks!」
 
-12965	Saias Crown	「いやあ、そうでもないんだぜ」	「Well, not exactly.」
+12965	Saias Crown	基本	「いやあ、そうでもないんだぜ」	「Well, not exactly.」
 
-12966	Rance	「むっ、キザ野郎」	「Tch, you flashy bastard.」
+12966	Rance	真剣	「むっ、キザ野郎」	「Tch, you flashy bastard.」
 
-12967	Saias Crown	「どうも、雷帝。	「Hey there, Thunder Emperor.
-12968	+	　これから教導ですか？」	　Going to give lessons?」
+12967	Saias Crown	基本	「どうも、雷帝。	「Hey there, Thunder Emperor.
+12968	+		　これから教導ですか？」	　Going to give lessons?」
 
-12969	Kabachahn the Lightning	「うむ……向こうが時間を作れると言うからな」	「Yes...... They said they could make time.」
+12969	Kabachahn the Lightning		「うむ……向こうが時間を作れると言うからな」	「Yes...... They said they could make time.」
 
-12970	Rance	「で、何がそうでもないんだ、キザ野郎」	「So what did you mean, flashy bastard?」
+12970	Rance	真剣	「で、何がそうでもないんだ、キザ野郎」	「So what did you mean, flashy bastard?」
 
-12971	Saias Crown	「これでカバッハーン老は慕われてるのさ。	「That's why the old Thunder Emperor is so respected.
-12972	+	　厳しいが的確で公正な方だからな。	　He's strict but fair and precise.
-12973	+	　魔法学校の教師でもあるから、直接の弟子も多い」	　He's also a teacher at the magic school, so he has many direct disciples.」
+12971	Saias Crown	基本	「これでカバッハーン老は慕われてるのさ。	「That's why the old Thunder Emperor is so respected.
+12972	+		　厳しいが的確で公正な方だからな。	　He's strict but fair and precise.
+12973	+		　魔法学校の教師でもあるから、直接の弟子も多い」	　He's also a teacher at the magic school, so he has many direct disciples.」
 
-12974	Kabachahn the Lightning	「……サイアス。余計な事は言うな」	「......Saias. Don't say unnecessary things.」
+12974	Kabachahn the Lightning		「……サイアス。余計な事は言うな」	「......Saias. Don't say unnecessary things.」
 
-12975	Saias Crown	「おっと。総統閣下に実情を正しく把握して頂くのは	「Oops. I thought it would be beneficial
-12976	+	　有益だと思いまして」	　for the Supreme Leader to know the truth.」
+12975	Saias Crown		「おっと。総統閣下に実情を正しく把握して頂くのは	「Oops. I thought it would be beneficial
+12976	+		　有益だと思いまして」	　for the Supreme Leader to know the truth.」
 
-12977	Rance	「このジジイが教師だと？	「This old man is a teacher?
-12978	+	　生徒をばんばん黒コゲにしてそうだが……」	　He probably turns students into charcoal left and right......」
+12977	Rance	だる顔	「このジジイが教師だと？	「This old man is a teacher?
+12978	+		　生徒をばんばん黒コゲにしてそうだが……」	　He probably turns students into charcoal left and right......」
 
-12979	Saias Crown	「俺は教えを受けた訳じゃないがね。	「I never studied under him myself,
-12980	+	　なんでも生徒のレベルに合わせた教え方を	　but apparently he tailors his teaching perfectly
-12981	+	　徹底しているそうだ」	　to each student's level.」
+12979	Saias Crown	基本	「俺は教えを受けた訳じゃないがね。	「I never studied under him myself,
+12980	+		　なんでも生徒のレベルに合わせた教え方を	　but apparently he tailors his teaching perfectly
+12981	+		　徹底しているそうだ」	　to each student's level.」
 
-12982	Kabachahn the Lightning	「ふん……田舎で隠棲でもする方が、	「Hmph...... I'd rather retire quietly in the countryside,
-12983	+	　性に合うのだがな」	　that suits me better.」
+12982	Kabachahn the Lightning		「ふん……田舎で隠棲でもする方が、	「Hmph...... I'd rather retire quietly in the countryside,
+12983	+		　性に合うのだがな」	　that suits me better.」
 
-12984	-	なんとなく三人で歩いた先、	After walking together for a while,
-12985	+	一つの扉でカバッハーンは歩みを止めた。	Kabachahn stopped in front of a door.
+12984	-		なんとなく三人で歩いた先、	After walking together for a while,
+12985	+		一つの扉でカバッハーンは歩みを止めた。	Kabachahn stopped in front of a door.
 
-12986	Kabachahn the Lightning	「ここだ」	「Here.」
+12986	Kabachahn the Lightning		「ここだ」	「Here.」
 
-12987	Rance	「ん？　この部屋は……」	「Hm? This room is......」
+12987	Rance	真剣	「ん？　この部屋は……」	「Hm? This room is......」
 
-12988	Magic the Gandhi	「はぁ……来たわね、カバッハーン老。	「Sigh...... You're here, old Kabachahn.
-12989	+	　さあ……って、ランス？」	　Well then...... Wait, Rance?」
+12988	Magic the Gandhi	基本	「はぁ……来たわね、カバッハーン老。	「Sigh...... You're here, old Kabachahn.
+12989	+		　さあ……って、ランス？」	　Well then...... Wait, Rance?」
 
-12990	Rance	「おお。何だお前、ジジイの弟子なのか」	「Oh. So you're the old man's disciple?」
+12990	Rance		「おお。何だお前、ジジイの弟子なのか」	「Oh. So you're the old man's disciple?」
 
-12991	Magic the Gandhi	「そんな付きっきりで師弟やってる訳じゃないわ。	「It's not like we're master and disciple all the time.
-12992	+	　たまに教わってる、んだけど……」	　I just get occasional lessons......」
+12991	Magic the Gandhi		「そんな付きっきりで師弟やってる訳じゃないわ。	「It's not like we're master and disciple all the time.
+12992	+		　たまに教わってる、んだけど……」	　I just get occasional lessons......」
 
-12993	Magic the Gandhi	「まさか、見ていく気なの？	「You're not thinking of watching, are you?
-12994	+	　その……退屈だと思うわよ」	　It'll probably be boring......」
+12993	Magic the Gandhi	テレ	「まさか、見ていく気なの？	「You're not thinking of watching, are you?
+12994	+		　その……退屈だと思うわよ」	　It'll probably be boring......」
 
-12995	Rance	「ほう。俺を遠ざけたいって事は	「Heh. Trying to keep me away means
-12996	+	　恥ずかしい目に遭うって事か」	　you're going to look embarrassing, right?」
+12995	Rance	基本	「ほう。俺を遠ざけたいって事は	「Heh. Trying to keep me away means
+12996	+		　恥ずかしい目に遭うって事か」	　you're going to look embarrassing, right?」
 
-12997	Magic the Gandhi	「なっ……そ、そんなことないわよ！」	「N-no, that's not true!」
+12997	Magic the Gandhi	孤軍奮闘	「なっ……そ、そんなことないわよ！」	「N-no, that's not true!」
 
-12998	Rance	「おいクソジジイ。	「Hey you shitty old man.
-12999	+	　教師ヅラしてエロい事してるんじゃないだろうな。	　You better not be doing anything perverted while pretending to teach.
-13000	+	　マジックは俺のだぞ」	　Magic is mine.」
+12998	Rance	イライラ	「おいクソジジイ。	「Hey you shitty old man.
+12999	+		　教師ヅラしてエロい事してるんじゃないだろうな。	　You better not be doing anything perverted while pretending to teach.
+13000	+		　マジックは俺のだぞ」	　Magic is mine.」
 
-13001	Magic the Gandhi	「ば、馬鹿な事言ってないで！	「Stop saying stupid things!
-13002	+	　カバッハーン将軍がそんな事する訳ないでしょ！」	　General Kabachahn would never do that!」
+13001	Magic the Gandhi	うがー	「ば、馬鹿な事言ってないで！	「Stop saying stupid things!
+13002	+		　カバッハーン将軍がそんな事する訳ないでしょ！」	　General Kabachahn would never do that!」
 
-13003	Kabachahn the Lightning	「ギャラリーは放っておけ。やるぞ」	「Ignore the audience. Let's begin.」
+13003	Kabachahn the Lightning	基本	「ギャラリーは放っておけ。やるぞ」	「Ignore the audience. Let's begin.」
 
-13004	Magic the Gandhi	「う……うん……」	「U...... Yeah......」
+13004	Magic the Gandhi		「う……うん……」	「U...... Yeah......」
 
-13005	Rance	「おいこら、答えんかーーー！」	「Hey! Answer meーーー!」
+13005	Rance	怒り	「おいこら、答えんかーーー！」	「Hey! Answer meーーー!」
 
-13006	Kabachahn the Lightning	「まるで違う。なっておらん。	「Completely wrong. Not even close.
-13007	+	　もっと雷を練るのだ」	　Concentrate your lightning more.」
+13006	Kabachahn the Lightning	基本	「まるで違う。なっておらん。	「Completely wrong. Not even close.
+13007	+		　もっと雷を練るのだ」	　Concentrate your lightning more.」
 
-13008	Magic the Gandhi	「ね、練るって言われても……！」	「Even if you say concentrate......!」
+13008	Magic the Gandhi		「ね、練るって言われても……！」	「Even if you say concentrate......!」
 
-13009	Kabachahn the Lightning	「そして、奴らの気持ちを知れ。	「And understand the feelings of lightning.
-13010	+	　誼-ﾖｼﾐ-を通じて、行き先を導いてやるのだ！」	　Guide its path through bonds!」
+13009	Kabachahn the Lightning		「そして、奴らの気持ちを知れ。	「And understand the feelings of lightning.
+13010	+		　誼-ﾖｼﾐ-を通じて、行き先を導いてやるのだ！」	　Guide its path through bonds!」
 
-13011	Magic the Gandhi	「わ、分かるように言ってよぉ！	「Explain it so I can understand!
-13012	+	　魔法学の、どの方程式を参考にとか……！」	　Which magic equation should I reference......!」
+13011	Magic the Gandhi	孤軍奮闘	「わ、分かるように言ってよぉ！	「Explain it so I can understand!
+13012	+		　魔法学の、どの方程式を参考にとか……！」	　Which magic equation should I reference......!」
 
-13013	Kabachahn the Lightning	「あんなものは子供に教える初歩に過ぎん。	「Those are just basics for children.
-13014	+	　言語化した時点で真理は劣化する」	　Once put into words, the truth degrades.」
+13013	Kabachahn the Lightning	基本	「あんなものは子供に教える初歩に過ぎん。	「Those are just basics for children.
+13014	+		　言語化した時点で真理は劣化する」	　Once put into words, the truth degrades.」
 
-13015	Kabachahn the Lightning	「魔力では嬢ちゃんが上なのだぞ。	「In raw magic power, you are superior, young lady.
-13016	+	　なぜ押し込めぬか、肌で感じろ！」	　Feel why you cannot suppress it with your body!」
+13015	Kabachahn the Lightning		「魔力では嬢ちゃんが上なのだぞ。	「In raw magic power, you are superior, young lady.
+13016	+		　なぜ押し込めぬか、肌で感じろ！」	　Feel why you cannot suppress it with your body!」
 
-13017	Magic the Gandhi	「う、うわぁぁぁぁん！　言葉が通じない！」	「Uwaaaaaan! We can't communicate!」
+13017	Magic the Gandhi	泣き	「う、うわぁぁぁぁん！　言葉が通じない！」	「Uwaaaaaan! We can't communicate!」
 
-13018	Rance	「スパルタ……っつうか……」	「This is spartan...... or rather......」
+13018	Rance	真剣	「スパルタ……っつうか……」	「This is spartan...... or rather......」
 
-13019	Saias Crown	「感覚派だったのか、カバッハーン老……」	「So he's a sensory type, old Kabachahn......」
+13019	Saias Crown	拙い	「感覚派だったのか、カバッハーン老……」	「So he's a sensory type, old Kabachahn......」
 
-13020	-	驚くギャラリーの前で、	In front of the stunned audience,
-13021	+	カバッハーンはひたすらマジックをしごいていた。	Kabachahn relentlessly trained Magic.
+13020	-		驚くギャラリーの前で、	In front of the stunned audience,
+13021	+		カバッハーンはひたすらマジックをしごいていた。	Kabachahn relentlessly trained Magic.

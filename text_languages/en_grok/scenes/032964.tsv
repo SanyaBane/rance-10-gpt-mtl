@@ -4,191 +4,191 @@
 * El Mofus	エール２	Player's choice
 * Nagata-kun	長田君２	Male
 
-191048	-	あなたは志津香とナギのテントに遊びに来ていた。	You had come to visit Shizuka and Nagi's tent.
+191048	-		あなたは志津香とナギのテントに遊びに来ていた。	You had come to visit Shizuka and Nagi's tent.
 
-191049	-	二人のテント内は、	Inside their tent,
-191050	+	あなたと長田君のテントと違い、	unlike yours and Nagata's,
-191051	+	なんとなく甘い香りがした。	there was a faintly sweet scent.
+191049	-		二人のテント内は、	Inside their tent,
+191050	+		あなたと長田君のテントと違い、	unlike yours and Nagata's,
+191051	+		なんとなく甘い香りがした。	there was a faintly sweet scent.
 
-191052	-	ちなみにあなたのテントは	By the way, your tent
-191053	+	俗に言われるハニワ臭いテントだった。	was the typical smelly Haniwa tent.
+191052	-		ちなみにあなたのテントは	By the way, your tent
+191053	+		俗に言われるハニワ臭いテントだった。	was the typical smelly Haniwa tent.
 
-191054	Nagi su Ragarl	「あ、そーいえば……	「Oh, now that I think about it...
-191055	+	　私達とランスの関係って	　We never really talked about
-191056	+	　全然話してなかったっけ」	　our connection with Rance, did we?」
+191054	Nagi su Ragarl	帽子なし	「あ、そーいえば……	「Oh, now that I think about it...
+191055	+		　私達とランスの関係って	　We never really talked about
+191056	+		　全然話してなかったっけ」	　our connection with Rance, did we?」
 
-191057	Nagi su Ragarl	「前にも話したけどランスと一緒に冒険した仲でね」	「Like I mentioned before, we went on adventures with Rance.」
+191057	Nagi su Ragarl		「前にも話したけどランスと一緒に冒険した仲でね」	「Like I mentioned before, we went on adventures with Rance.」
 
-191058	Nagi su Ragarl	「私は人間時代のランスとは	「I didn't spend that much time with the human version of Rance, but...
-191059	+	　あまり付き合い長くないんだけど……	
-191060	+	　お姉様はそれこそ長いこと一緒にいたのよ？」	　Big sis here spent a really long time with him.」
+191058	Nagi su Ragarl		「私は人間時代のランスとは	「I didn't spend that much time with the human version of Rance, but...
+191059	+		　あまり付き合い長くないんだけど……	
+191060	+		　お姉様はそれこそ長いこと一緒にいたのよ？」	　Big sis here spent a really long time with him.」
 
-191061	Masou Shizuka	「今となってはあまり思い出したくないけどね」	「These days I don't really want to remember it.」
+191061	Masou Shizuka	帽子なし／ため息	「今となってはあまり思い出したくないけどね」	「These days I don't really want to remember it.」
 
-191062	Nagi su Ragarl	「んもー、またそういう憎まれ口するー」	「Mou, there you go saying mean things again.」
+191062	Nagi su Ragarl	帽子なし／不満	「んもー、またそういう憎まれ口するー」	「Mou, there you go saying mean things again.」
 
-191063	Nagi su Ragarl	「ね、ね、お姉様、あれの話してよ。	「Hey hey, big sis, tell that story.
-191064	+	　イラーピュの冒険の話」	　The one about the adventure in Irapyu.」
+191063	Nagi su Ragarl	帽子なし	「ね、ね、お姉様、あれの話してよ。	「Hey hey, big sis, tell that story.
+191064	+		　イラーピュの冒険の話」	　The one about the adventure in Irapyu.」
 
-191065	Masou Shizuka	「……はあ、そんなの聞いて楽しいの？」	「...Sigh, is that story really that fun to hear?」
+191065	Masou Shizuka	帽子なし／ため息	「……はあ、そんなの聞いて楽しいの？」	「...Sigh, is that story really that fun to hear?」
 
-191066	-	人間時代の父とどのような冒険をしたか、	The two of them told you all sorts of interesting stories
-191067	+	二人は興味深い話をあれこれ聞かせてくれた。	about the adventures they had with their father back when he was human.
+191066	-		人間時代の父とどのような冒険をしたか、	The two of them told you all sorts of interesting stories
+191067	+		二人は興味深い話をあれこれ聞かせてくれた。	about the adventures they had with their father back when he was human.
 
-191068	-	もう夜も遅いということでお開きになり、	It was getting late, so the gathering came to an end,
-191069	+	テントに戻ろうとしたら、ナギが追いかけてきた。	and as you were heading back to your tent, Nagi came running after you.
+191068	-		もう夜も遅いということでお開きになり、	It was getting late, so the gathering came to an end,
+191069	+		テントに戻ろうとしたら、ナギが追いかけてきた。	and as you were heading back to your tent, Nagi came running after you.
 
-191070	Nagi su Ragarl	「へっへっへー……	「Heh heh heh...
-191071	+	　大事なこと言ってなかったから、	　I forgot to say something important,
-191072	+	　それも言っておこうかなって」	　so I thought I should tell you.」
+191070	Nagi su Ragarl	帽子なし	「へっへっへー……	「Heh heh heh...
+191071	+		　大事なこと言ってなかったから、	　I forgot to say something important,
+191072	+		　それも言っておこうかなって」	　so I thought I should tell you.」
 
-191073	Nagi su Ragarl	「あのねー、お姉様、あんなこと言ったけど、	「You know, even though big sis said all that,
-191074	+	　実はランスのことが好きなんだよ。	　I actually really like Rance.
-191075	+	　人間だった頃から、今でも、ずっと」	　Ever since he was human, even now, always.」
+191073	Nagi su Ragarl		「あのねー、お姉様、あんなこと言ったけど、	「You know, even though big sis said all that,
+191074	+		　実はランスのことが好きなんだよ。	　I actually really like Rance.
+191075	+		　人間だった頃から、今でも、ずっと」	　Ever since he was human, even now, always.」
 
-191076	Nagi su Ragarl	「多分ね」	「Probably.」
+191076	Nagi su Ragarl		「多分ね」	「Probably.」
 
-191077	Nagi su Ragarl	「まあ、口では絶対に否定するけど……」	「Well, she'll absolutely deny it if you ask...」
+191077	Nagi su Ragarl		「まあ、口では絶対に否定するけど……」	「Well, she'll absolutely deny it if you ask...」
 
-191078	Nagi su Ragarl	「ふふ、魔王なんかを好きな人がいるのかって	「Fufu, were you a bit surprised
-191079	+	　少し意外だった？」	　that someone could like a Demon King?」
+191078	Nagi su Ragarl		「ふふ、魔王なんかを好きな人がいるのかって	「Fufu, were you a bit surprised
+191079	+		　少し意外だった？」	　that someone could like a Demon King?」
 
-191080	Nagi su Ragarl	「魔王ランスだって、	「Even Demon King Rance
-191081	+	　人間だった時代があるんだから、	　was once human,
-191082	+	　別に変なことじゃないでしょ？」	　so it's not that weird, right?」
+191080	Nagi su Ragarl		「魔王ランスだって、	「Even Demon King Rance
+191081	+		　人間だった時代があるんだから、	　was once human,
+191082	+		　別に変なことじゃないでしょ？」	　so it's not that weird, right?」
 
-191083	Nagi su Ragarl	「だからお姉様、本当はね……	「That's why big sis actually...
-191084	+	　魔王をやめさせて人間に戻したいと思ってるの」	　wants to stop the Demon King and turn him back into a human.」
+191083	Nagi su Ragarl		「だからお姉様、本当はね……	「That's why big sis actually...
+191084	+		　魔王をやめさせて人間に戻したいと思ってるの」	　wants to stop the Demon King and turn him back into a human.」
 
-191085	Nagi su Ragarl	「これでも色々なとこ行って、	「I've gone to all sorts of places,
-191086	+	　文献をあさったりしていたんだよ？」	　searched through old documents and everything.」
+191085	Nagi su Ragarl		「これでも色々なとこ行って、	「I've gone to all sorts of places,
+191086	+		　文献をあさったりしていたんだよ？」	　searched through old documents and everything.」
 
-191087	Nagi su Ragarl	「……方法、見つからなかったけどね」	「...But I couldn't find a way.」
+191087	Nagi su Ragarl		「……方法、見つからなかったけどね」	「...But I couldn't find a way.」
 
-191088	Nagi su Ragarl	「ああ、とにかく何が言いたいかっていうと……」	「Anyway, what I'm trying to say is...
+191088	Nagi su Ragarl		「ああ、とにかく何が言いたいかっていうと……」	「Anyway, what I'm trying to say is...
 
-191089	Nagi su Ragarl	「ありがとね、冒険始めてくれて。	「Thank you for starting this adventure.
-191090	+	　魔王ランス、絶対になんとかしようね」	　We'll definitely do something about Demon King Rance.」
+191089	Nagi su Ragarl		「ありがとね、冒険始めてくれて。	「Thank you for starting this adventure.
+191090	+		　魔王ランス、絶対になんとかしようね」	　We'll definitely do something about Demon King Rance.」
 
-191091	Nagi su Ragarl	「ふふっ」	「Fufu.」
+191091	Nagi su Ragarl		「ふふっ」	「Fufu.」
 
-191092	Masou Shizuka	「こら、ナギ！」	「Hey, Nagi!」
+191092	Masou Shizuka		「こら、ナギ！」	「Hey, Nagi!」
 
-191093	Nagi su Ragarl	「ひゃあ！？」	「Hyaa!?」
+191093	Nagi su Ragarl	帽子なし／驚き	「ひゃあ！？」	「Hyaa!?」
 
-191094	Masou Shizuka	「あんた、＜エール＞に何を変なこと	「What kind of weird stuff
-191095	+	　吹き込んでるの……」	　are you telling ＜エール＞...」
+191094	Masou Shizuka	帽子なし／睨み	「あんた、＜エール＞に何を変なこと	「What kind of weird stuff
+191095	+		　吹き込んでるの……」	　are you telling ＜エール＞...」
 
-191096	-	テントから出て来た志津香が、	Shizuka came out of the tent
-191097	+	ジロリとナギを睨んだ。	and glared sharply at Nagi.
+191096	-		テントから出て来た志津香が、	Shizuka came out of the tent
+191097	+		ジロリとナギを睨んだ。	and glared sharply at Nagi.
 
-191098	Nagi su Ragarl	「……や、吹き込むって言い方はどうなの？」	「...Hey, isn't 'blowing weird ideas' a bit harsh?」
+191098	Nagi su Ragarl	帽子なし	「……や、吹き込むって言い方はどうなの？」	「...Hey, isn't 'blowing weird ideas' a bit harsh?」
 
-191099	Masou Shizuka	「ああ、＜エール＞。	「Ah, ＜エール＞.
-191100	+	　ナギが今言ったことは気にしなくていいからね」	　Don't pay any attention to what Nagi just said.」
+191099	Masou Shizuka		「ああ、＜エール＞。	「Ah, ＜エール＞.
+191100	+		　ナギが今言ったことは気にしなくていいからね」	　Don't pay any attention to what Nagi just said.」
 
-191101	Masou Shizuka	「えっ、なっ……	「Eh, wha...
-191102	+	　なんで、そんな……！」	　Why would you say that...!」
+191101	Masou Shizuka	帽子なし／テレ	「えっ、なっ……	「Eh, wha...
+191102	+		　なんで、そんな……！」	　Why would you say that...!」
 
-191103	-	顔を赤くして志津香が驚いていた。	Shizuka's face turned red with surprise.
+191103	-		顔を赤くして志津香が驚いていた。	Shizuka's face turned red with surprise.
 
-191104	-	あなたは初めて志津香が	It felt like the first time
-191105	+	動揺するところを見た気がした。	you had ever seen Shizuka so flustered.
+191104	-		あなたは初めて志津香が	It felt like the first time
+191105	+		動揺するところを見た気がした。	you had ever seen Shizuka so flustered.
 
-191106	Masou Shizuka	「……っ」	「...!」
+191106	Masou Shizuka	帽子なし	「……っ」	「...!」
 
-191107	Masou Shizuka	「あんた、まさか……」	「You... don't tell me...」
+191107	Masou Shizuka	帽子なし／怒り	「あんた、まさか……」	「You... don't tell me...」
 
-191108	Masou Shizuka	「…………」	「............」
+191108	Masou Shizuka		「…………」	「............」
 
-191109	Masou Shizuka~	（いや……そんなまさかね……	（No... that can't be...
-191110	+	　もしかして、私のことを、なんて……	　Could she mean me...」
-191111	+	　自惚れだわ）	　I'm just overthinking it.）
+191109	Masou Shizuka~	帽子なし／ため息	（いや……そんなまさかね……	（No... that can't be...
+191110	+		　もしかして、私のことを、なんて……	　Could she mean me...」
+191111	+		　自惚れだわ）	　I'm just overthinking it.）
 
-191112	Masou Shizuka	「…………」	「............」
+191112	Masou Shizuka	帽子なし	「…………」	「............」
 
-191113	Masou Shizuka	「ランス、か……」	「Rance, huh...」
+191113	Masou Shizuka	帽子なし／微笑み	「ランス、か……」	「Rance, huh...」
 
-191114	-	少し落ち着きを取り戻したのか、	Having calmed down a little,
-191115	+	志津香はそっと魔王の名を呟いた。	Shizuka softly whispered the Demon King's name.
+191114	-		少し落ち着きを取り戻したのか、	Having calmed down a little,
+191115	+		志津香はそっと魔王の名を呟いた。	Shizuka softly whispered the Demon King's name.
 
-191116	-	少し照れがあるのか頬こそまだ赤いが、	Her cheeks were still slightly flushed with embarrassment,
-191117	+	その声色にはかすかな親しみが込められていた。	but her voice carried a faint trace of affection.
+191116	-		少し照れがあるのか頬こそまだ赤いが、	Her cheeks were still slightly flushed with embarrassment,
+191117	+		その声色にはかすかな親しみが込められていた。	but her voice carried a faint trace of affection.
 
-191118	Masou Shizuka	「うん……そうね……	「Yeah... that's right...
-191119	+	　今更、改めて言うのは、アレだけど……」	　It's a bit late to say it now, but...」
+191118	Masou Shizuka		「うん……そうね……	「Yeah... that's right...
+191119	+		　今更、改めて言うのは、アレだけど……」	　It's a bit late to say it now, but...」
 
-191120	Masou Shizuka	「好きよ」	「I like him.」
+191120	Masou Shizuka		「好きよ」	「I like him.」
 
-191121	Masou Shizuka	「あいつがもう、人間に戻れないから、	「Since that guy can't go back to being human anymore,
-191122	+	　言えること……	　this is something I can finally say...
-191123	+	　ようやく素直になれることだけどね……」	　I can finally be honest about it...」
+191121	Masou Shizuka		「あいつがもう、人間に戻れないから、	「Since that guy can't go back to being human anymore,
+191122	+		　言えること……	　this is something I can finally say...
+191123	+		　ようやく素直になれることだけどね……」	　I can finally be honest about it...」
 
-191124	Masou Shizuka	「きっと、好きだったのよ。	「I definitely liked him.
-191125	+	　私は……」	　I...」
+191124	Masou Shizuka		「きっと、好きだったのよ。	「I definitely liked him.
+191125	+		　私は……」	　I...」
 
-191126	Masou Shizuka	「あんな、どうしようもない馬鹿のことがね」	　That hopeless idiot.」
+191126	Masou Shizuka		「あんな、どうしようもない馬鹿のことがね」	　That hopeless idiot.」
 
-191127	Masou Shizuka	「…………」	「............」
+191127	Masou Shizuka	帽子なし	「…………」	「............」
 
-191128	Masou Shizuka	「はあ……」	「Haa...」
+191128	Masou Shizuka	帽子なし／ため息	「はあ……」	「Haa...」
 
-191129	Masou Shizuka	「これ、絶対、他の連中には	「Don't you dare tell anyone else
-191130	+	　言うんじゃないわよ？」	　about this, got it?」
+191129	Masou Shizuka	帽子なし	「これ、絶対、他の連中には	「Don't you dare tell anyone else
+191130	+		　言うんじゃないわよ？」	　about this, got it?」
 
-191131	Masou Shizuka	「はい、じゃあこの話は終わり。	「Alright, that's the end of this conversation.
-191132	+	　早く寝ちゃいなさい」	　Go to bed early.」
+191131	Masou Shizuka		「はい、じゃあこの話は終わり。	「Alright, that's the end of this conversation.
+191132	+		　早く寝ちゃいなさい」	　Go to bed early.」
 
-191133	Nagi su Ragarl	「じゃね、おやすみ、＜エール＞。	「See ya, good night, ＜エール＞.
-191134	+	　あったかくして寝るんだよ」	　Make sure to sleep nice and warm.」
+191133	Nagi su Ragarl		「じゃね、おやすみ、＜エール＞。	「See ya, good night, ＜エール＞.
+191134	+		　あったかくして寝るんだよ」	　Make sure to sleep nice and warm.」
 
-191135	-	パタパタとナギが手を振りながら	Nagi waved her hand energetically
-191136	+	自分のテントに戻っていく。	as she headed back to her own tent.
+191135	-		パタパタとナギが手を振りながら	Nagi waved her hand energetically
+191136	+		自分のテントに戻っていく。	as she headed back to her own tent.
 
-191137	-	あなたは志津香の知られざる過去を聞いた。	You had heard about Shizuka's hidden past.
+191137	-		あなたは志津香の知られざる過去を聞いた。	You had heard about Shizuka's hidden past.
 
-191138	-	この話を受けて、あなたは――	After hearing this story, you一一
+191138	-		この話を受けて、あなたは――	After hearing this story, you一一
 
-191139	El Mofus	「…………。」	「............」
-191140	-	好きだった人が魔王になり、	The person you loved had become a Demon King
-191141	+	世界を荒らし回っている。	and was rampaging across the world.
+191139	El Mofus	基本	「…………。」	「............」
+191140	-		好きだった人が魔王になり、	The person you loved had become a Demon King
+191141	+		世界を荒らし回っている。	and was rampaging across the world.
 
-191142	-	それはどのように悲しいことなのだろう。	How heartbreaking that must be.
+191142	-		それはどのように悲しいことなのだろう。	How heartbreaking that must be.
 
-191143	-	あなたには想像もつかないことだった。	You couldn't even begin to imagine it.
+191143	-		あなたには想像もつかないことだった。	You couldn't even begin to imagine it.
 
-191144	El Mofus	「…………。」	「............」
+191144	El Mofus		「…………。」	「............」
 
-191145	-	あなたは志津香やナギのことが好きだった。	You liked Shizuka and Nagi.
-191146	+	だから、救いたいと自然に思うようになった。	So naturally, you began to think about saving them.
+191145	-		あなたは志津香やナギのことが好きだった。	You liked Shizuka and Nagi.
+191146	+		だから、救いたいと自然に思うようになった。	So naturally, you began to think about saving them.
 
-191147	-	魔王救出の旅が、あなたにとって少しだけ、	The journey to save the Demon King became
-191148	+	より意味のある事柄に変わる。	just a little more meaningful to you.
+191147	-		魔王救出の旅が、あなたにとって少しだけ、	The journey to save the Demon King became
+191148	+		より意味のある事柄に変わる。	just a little more meaningful to you.
 
-191149	-	あなたは志津香達と深く仲良くなれた気がした。	You felt you had grown much closer to Shizuka and the others.
+191149	-		あなたは志津香達と深く仲良くなれた気がした。	You felt you had grown much closer to Shizuka and the others.
 
-191150	El Mofus	「…………。」	「............」
+191150	El Mofus		「…………。」	「............」
 
-191151	-	胸がズキリと痛む。	Your chest throbbed with pain.
+191151	-		胸がズキリと痛む。	Your chest throbbed with pain.
 
-191152	-	今まで考えたことがなかったが、	You had never thought about it before,
-191153	+	あなたは志津香が好きだったらしい。	but it seemed you really did like Shizuka.
+191152	-		今まで考えたことがなかったが、	You had never thought about it before,
+191153	+		あなたは志津香が好きだったらしい。	but it seemed you really did like Shizuka.
 
-191154	-	鼻がツンと痛み、視界が涙でにじんだ。	Your nose stung and your vision blurred with tears.
+191154	-		鼻がツンと痛み、視界が涙でにじんだ。	Your nose stung and your vision blurred with tears.
 
-191155	Nagata-kun	「おっ、＜エール＞、どしたん？	「Oh, ＜エール＞, what's wrong?
-191156	+	　こんなとこでボーッとして」	　Spacing out here like that.」
+191155	Nagata-kun		「おっ、＜エール＞、どしたん？	「Oh, ＜エール＞, what's wrong?
+191156	+		　こんなとこでボーッとして」	　Spacing out here like that.」
 
-191157	Nagata-kun	「……＜エール＞？」	「...＜エール＞？」
+191157	Nagata-kun		「……＜エール＞？」	「...＜エール＞？」
 
-191158	Nagata-kun	「…………」	「............」
+191158	Nagata-kun		「…………」	「............」
 
-191159	-	長田君があなたの顔をそっと覗き込んでいた。	Nagata gently peeked at your face.
+191159	-		長田君があなたの顔をそっと覗き込んでいた。	Nagata gently peeked at your face.
 
-191160	El Mofus	「…………。」	「............」
+191160	El Mofus		「…………。」	「............」
 
-191161	Nagata-kun	「なんか、あったかい物でも飲む？」	「Want something warm to drink?」
+191161	Nagata-kun		「なんか、あったかい物でも飲む？」	「Want something warm to drink?」
 
-191162	-	長田君の優しい言葉が胸に染みる。	Nagata's kind words sank deep into your heart.
+191162	-		長田君の優しい言葉が胸に染みる。	Nagata's kind words sank deep into your heart.
 
-191163	-	あなたは生まれて初めて失恋をした。	This was your first heartbreak.
+191163	-		あなたは生まれて初めて失恋をした。	This was your first heartbreak.

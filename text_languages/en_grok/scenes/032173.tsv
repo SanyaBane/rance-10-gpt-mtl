@@ -7,151 +7,151 @@
 * Orime	折女	Female
 * Nogiku	野菊	Female
 
-126959	Rance	「お、ノワール」	「Oh, Noir.」
+126959	Rance	基本	「お、ノワール」	「Oh, Noir.」
 
-126960	Noir	「…………」	「............」
+126960	Noir		「…………」	「............」
 
-126961	Noir	「なんだ、口デカか」	「What, big mouth?」
+126961	Noir		「なんだ、口デカか」	「What, big mouth?」
 
-126962	Rance	「なんだとは、なんだ」	「What do you mean 'what'?
+126962	Rance		「なんだとは、なんだ」	「What do you mean 'what'?
 
-126963	Rance	「ん？　会いたくない奴でもいるのか？」	　Hm? Don't want to see someone?」
+126963	Rance		「ん？　会いたくない奴でもいるのか？」	　Hm? Don't want to see someone?」
 
-126964	Noir	「……別に」	「......Not really.」
+126964	Noir	呆れた	「……別に」	「......Not really.」
 
-126965	-	ノワールはチラリと自分の蜘蛛の足に視線を向けた。	Noir glanced at her own spider legs.
+126965	-		ノワールはチラリと自分の蜘蛛の足に視線を向けた。	Noir glanced at her own spider legs.
 
-126966	Rance	「ん？　気になるのは自分の姿の方か？」	「Hm? Worried about your own appearance?」
+126966	Rance	基本	「ん？　気になるのは自分の姿の方か？」	「Hm? Worried about your own appearance?」
 
-126967	Noir	「…………ふんっ」	「............Hmph.」
+126967	Noir	呆れた	「…………ふんっ」	「............Hmph.」
 
-126968	Noir	「蜘蛛の足が生えていて、	「Having spider legs,
-126969	+	　目が八つある生き物は……	　eight eyes......
-126970	+	　普通、怖がられる」	　Normally people are scared.」
+126968	Noir		「蜘蛛の足が生えていて、	「Having spider legs,
+126969	+		　目が八つある生き物は……	　eight eyes......
+126970	+		　普通、怖がられる」	　Normally people are scared.」
 
-126971	Rance	「そんなことないと思うがな」	「I don't think so.」
+126971	Rance	基本	「そんなことないと思うがな」	「I don't think so.」
 
-126972	Noir	「……お前が特別鈍い。	「......You're just especially dense.
-126973	+	　鈍感だから分からないだけ」	　Too insensitive to notice.」
+126972	Noir		「……お前が特別鈍い。	「......You're just especially dense.
+126973	+		　鈍感だから分からないだけ」	　Too insensitive to notice.」
 
-126974	Rance	「リセットー」	「Reset~」
+126974	Rance		「リセットー」	「Reset~」
 
-126975	Reset Kalar	「よばれたー？」	「You called~?」
+126975	Reset Kalar		「よばれたー？」	「You called~?」
 
-126976	Rance	「呼んだ呼んだ。	「I called, I called.
-126977	+	　ノワール、どう思う？」	　Noir, what do you think?」
+126976	Rance		「呼んだ呼んだ。	「I called, I called.
+126977	+		　ノワール、どう思う？」	　Noir, what do you think?」
 
-126978	Reset Kalar	「かっこいいよ」	「It's cool.」
+126978	Reset Kalar		「かっこいいよ」	「It's cool.」
 
-126979	Noir	「……！？」	「......!?」
+126979	Noir	ツンデレ	「……！？」	「......!?」
 
-126980	Rance	「かっこいいってどこが？」	「What's cool about it?」
+126980	Rance	基本	「かっこいいってどこが？」	「What's cool about it?」
 
-126981	Reset Kalar	「蜘蛛の足」	「The spider legs.」
+126981	Reset Kalar		「蜘蛛の足」	「The spider legs.」
 
-126982	Noir	「！？！？！？」	「!? !? !?」
+126982	Noir	ツンデレ	「！？！？！？」	「!? !? !?」
 
-126983	Rance	「ナギ」	「Nagi.」
+126983	Rance	基本	「ナギ」	「Nagi.」
 
-126984	Nagi su Ragarl	「呼んだか！？　呼んだか！？	「You called!? You called!?
-126985	+	　呼んだのかーー！？」	　Did you call meee!?」
+126984	Nagi su Ragarl		「呼んだか！？　呼んだか！？	「You called!? You called!?
+126985	+		　呼んだのかーー！？」	　Did you call meee!?」
 
-126986	Rance	「なんだ、やめろ、腹を殴るな。	「Hey, stop punching my stomach.
-126987	+	　で、お前はノワールどう思う？」	　So, what do you think of Noir?」
+126986	Rance		「なんだ、やめろ、腹を殴るな。	「Hey, stop punching my stomach.
+126987	+		　で、お前はノワールどう思う？」	　So, what do you think of Noir?」
 
-126988	Nagi su Ragarl	「格好いいよ？	「She's cool?
-126989	+	　蜘蛛の足ジャキジャキ動くんだから」	　Her spider legs go clack clack.」
+126988	Nagi su Ragarl		「格好いいよ？	「She's cool?
+126989	+		　蜘蛛の足ジャキジャキ動くんだから」	　Her spider legs go clack clack.」
 
-126990	Rance	「二人の面倒見ていた香ちゃんはどうだ？」	「What about Kou who looks after these two?」
+126990	Rance		「二人の面倒見ていた香ちゃんはどうだ？」	「What about Kou who looks after these two?」
 
-126991	Oda Kouhime	「私は特に格好いいとは……	「I don't really think it's cool but......
-126992	+	　二人ともなんとなく嗜好が男の子ですね……」	　Both of you have somewhat boyish tastes......」
+126991	Oda Kouhime	苦笑	「私は特に格好いいとは……	「I don't really think it's cool but......
+126992	+		　二人ともなんとなく嗜好が男の子ですね……」	　Both of you have somewhat boyish tastes......」
 
-126993	Oda Kouhime	「でも、ノワールさんが	「But I know Noir-san
-126994	+	　悪い妖怪さんではないと知っているので、	　isn't a bad youkai,
-126995	+	　怖いとは思いませんよ」	　so I'm not scared.」
+126993	Oda Kouhime	基本	「でも、ノワールさんが	「But I know Noir-san
+126994	+		　悪い妖怪さんではないと知っているので、	　isn't a bad youkai,
+126995	+		　怖いとは思いませんよ」	　so I'm not scared.」
 
-126996	Rance	「うむ」	「Yeah.」
+126996	Rance		「うむ」	「Yeah.」
 
-126997	Rance	「リセットとナギは少し特殊な気もするが……」	「Reset and Nagi might be a bit special though......」
+126997	Rance	だる顔	「リセットとナギは少し特殊な気もするが……」	「Reset and Nagi might be a bit special though......」
 
-126998	Rance	「香ちゃんのこれが真っ当な意見だ。	「This is the right opinion from Kou-chan.
-126999	+	　お前が気にしすぎなだけ」	　You're just overthinking it.」
+126998	Rance	基本	「香ちゃんのこれが真っ当な意見だ。	「This is the right opinion from Kou-chan.
+126999	+		　お前が気にしすぎなだけ」	　You're just overthinking it.」
 
-127000	Rance	「変な奴多いしな、うち。	「We have a lot of weirdos here anyway.
-127001	+	　蜘蛛の足が生えてるくらいなら別に……」	　Spider legs growing out isn't that big a deal...」
+127000	Rance		「変な奴多いしな、うち。	「We have a lot of weirdos here anyway.
+127001	+		　蜘蛛の足が生えてるくらいなら別に……」	　Spider legs growing out isn't that big a deal...」
 
-127002	Noir	「…………」	「............」
+127002	Noir		「…………」	「............」
 
-127003	Noir	「……な、なら、全員、変な奴」	「...T-Then everyone here is a weirdo.」
+127003	Noir	呆れた	「……な、なら、全員、変な奴」	「...T-Then everyone here is a weirdo.」
 
-127004	Rance	「そんな照れるな」	「Don't get so embarrassed.」
+127004	Rance	基本	「そんな照れるな」	「Don't get so embarrassed.」
 
-127005	Noir	「……照れてない！」	「...I'm not embarrassed!」
+127005	Noir	ツンデレ	「……照れてない！」	「...I'm not embarrassed!」
 
-127006	Reset Kalar	「はいっ、さわらせてください！」	「Yes! Please let me touch them!」
+127006	Reset Kalar	基本	「はいっ、さわらせてください！」	「Yes! Please let me touch them!」
 
-127007	Nagi su Ragarl	「あ、私も私も！　触りたい！」	「Ah, me too me too! I want to touch!」
+127007	Nagi su Ragarl		「あ、私も私も！　触りたい！」	「Ah, me too me too! I want to touch!」
 
-127008	Noir	「なっ……！」	「Wha...!」
+127008	Noir	ツンデレ	「なっ……！」	「Wha...!」
 
-127009	Noir	「ん、くっ……」	「Ngh...」
+127009	Noir	呆れた	「ん、くっ……」	「Ngh...」
 
-127010	Noir	「馬鹿じゃないのか……」	「Are you all idiots...」
+127010	Noir		「馬鹿じゃないのか……」	「Are you all idiots...」
 
-127011	-	ノワールはサッと、逃げるように去って行った。	Noire quickly left as if running away.
+127011	-		ノワールはサッと、逃げるように去って行った。	Noire quickly left as if running away.
 
-127012	-	次の日――	The next day――
+127012	-		次の日――	The next day――
 
-127013	Reset Kalar	「はぁー……かっこういい……」	「Haa... So cool...」
+127013	Reset Kalar	基本	「はぁー……かっこういい……」	「Haa... So cool...」
 
-127014	Nagi su Ragarl	「ほら、リセット、見てみて。	「Look, Reset, check this out.
-127015	+	　ガキガキ動くよ！　固いー、すごーい！」	　They move all clack clack! So hard, amazing!」
+127014	Nagi su Ragarl	笑顔	「ほら、リセット、見てみて。	「Look, Reset, check this out.
+127015	+		　ガキガキ動くよ！　固いー、すごーい！」	　They move all clack clack! So hard, amazing!」
 
-127016	Oda Kouhime	「あ、ああ、二人とも……そんな遠慮なしに……」	「A-Ahh, you two... without any hesitation at all...」
+127016	Oda Kouhime	苦笑	「あ、ああ、二人とも……そんな遠慮なしに……」	「A-Ahh, you two... without any hesitation at all...」
 
-127017	Noir	「……〜〜〜〜〜〜〜〜っ！」	「...~~~~~~~!」
+127017	Noir	呆れた	「……〜〜〜〜〜〜〜〜っ！」	「...~~~~~~~!」
 
-127018	-	ノワールの蜘蛛の足を、	Reset and Nagi were excitedly touching
-127019	+	リセットとナギがさわさわと触りまくっていた。	Noire's spider legs all over.
+127018	-		ノワールの蜘蛛の足を、	Reset and Nagi were excitedly touching
+127019	+		リセットとナギがさわさわと触りまくっていた。	Noire's spider legs all over.
 
-127020	Noir	「も、もう満足した……？」	「H-Have you had enough yet...?」
+127020	Noir		「も、もう満足した……？」	「H-Have you had enough yet...?」
 
-127021	Reset Kalar	「あ、まだ……」	「Ah, not yet...」
+127021	Reset Kalar	基本	「あ、まだ……」	「Ah, not yet...」
 
-127022	Noir	「……も、もう終わり！」	「...T-That's enough already!」
+127022	Noir	呆れた	「……も、もう終わり！」	「...T-That's enough already!」
 
-127023	Reset Kalar	「あ、いっちゃった……」	「Ah, she ran away...」
+127023	Reset Kalar	基本	「あ、いっちゃった……」	「Ah, she ran away...」
 
-127024	Nagi su Ragarl	「追えー！」	「Chase her!」
+127024	Nagi su Ragarl		「追えー！」	「Chase her!」
 
-127025	Oda Kouhime	「ああっ、二人とも！」	「Aah, you two!」
+127025	Oda Kouhime	焦り	「ああっ、二人とも！」	「Aah, you two!」
 
-127026	-	更に次の日――	The day after that――
+127026	-		更に次の日――	The day after that――
 
-127027	Reset Kalar	「ひゃー！」	「Hyaa!」
+127027	Reset Kalar	うきゃー	「ひゃー！」	「Hyaa!」
 
-127028	Nagi su Ragarl	「きゃーきゃー！」	「Kyaa kyaa!」
+127028	Nagi su Ragarl	笑顔	「きゃーきゃー！」	「Kyaa kyaa!」
 
-127029	Noir	「…………」	「............」
+127029	Noir	基本	「…………」	「............」
 
-127030	-	ノワールの蜘蛛の足に	Reset and Nagi were being lifted up
-127031	+	リセットとナギが持ち上げられて、	by Noire's spider legs,
-127032	+	上下に揺さぶられていた。	and shaken up and down.
+127030	-		ノワールの蜘蛛の足に	Reset and Nagi were being lifted up
+127031	+		リセットとナギが持ち上げられて、	by Noire's spider legs,
+127032	+		上下に揺さぶられていた。	and shaken up and down.
 
-127033	Oda Kouhime	「あ、あの、ノワールさん……	「U-Um, Noire-san...
-127034	+	　その……すみません……」	　Sorry about this...」
+127033	Oda Kouhime		「あ、あの、ノワールさん……	「U-Um, Noire-san...
+127034	+		　その……すみません……」	　Sorry about this...」
 
-127035	Noir	「……別に」	「...It's fine.」
+127035	Noir		「……別に」	「...It's fine.」
 
-127036	Rance	「あ、三日で落とされてる」	「Oh, she's been tamed in just three days.」
+127036	Rance		「あ、三日で落とされてる」	「Oh, she's been tamed in just three days.」
 
-127037	Noir	「……うるさい、馬鹿」	「...Shut up, idiot.」
+127037	Noir	呆れた	「……うるさい、馬鹿」	「...Shut up, idiot.」
 
-127038	Orime	「あははー、仲良しだねー」	「Ahaha, you all get along so well~」
+127038	Orime	笑顔	「あははー、仲良しだねー」	「Ahaha, you all get along so well~」
 
-127039	Nogiku	「うふふ、良かったね、ノワール」	「Ufufu, that's great, Noire.」
+127039	Nogiku		「うふふ、良かったね、ノワール」	「Ufufu, that's great, Noire.」
 
-127040	Noir	「うっさい、馬鹿、馬鹿……」	「Shut up, idiot, idiot...」
+127040	Noir	呆れた	「うっさい、馬鹿、馬鹿……」	「Shut up, idiot, idiot...」
 
-127041	-	ノワールは三日で落とされた。	Noire was completely won over in three days.
+127041	-		ノワールは三日で落とされた。	Noire was completely won over in three days.

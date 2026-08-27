@@ -6,54 +6,54 @@
 * PG	ＰＧ	?
 * Maria Custard	マリア	Female
 
-61154	-	魔人討伐隊は、逃亡する戦闘兵器を追い、	The Fiend Extermination Squad chased the fleeing combat weapon
-61155	+	カスタムの南方まで達しようとしていた。	and headed toward the southern part of Custom.
+61154	-		魔人討伐隊は、逃亡する戦闘兵器を追い、	The Fiend Extermination Squad chased the fleeing combat weapon
+61155	+		カスタムの南方まで達しようとしていた。	and headed toward the southern part of Custom.
 
-61156	Rance	「どこまで行くんだ、いったい……」	「Just how far is it going...」
+61156	Rance	基本	「どこまで行くんだ、いったい……」	「Just how far is it going...」
 
-61157	Sill Plain	「魔軍の皆さんと遭遇しても、	「Even if we run into the Monster Army,
-61158	+	　あちらはお構いなしですし……大変です」	　they're ignoring us... This is bad.」
+61157	Sill Plain		「魔軍の皆さんと遭遇しても、	「Even if we run into the Monster Army,
+61158	+		　あちらはお構いなしですし……大変です」	　they're ignoring us... This is bad.」
 
-61159	Rance	「かなみ、フレイア！　絶対に見失うなよ！」	「Kanami, Freya! Don't lose sight of it!」
+61159	Rance		「かなみ、フレイア！　絶対に見失うなよ！」	「Kanami, Freya! Don't lose sight of it!」
 
-61160	Kentou Kanami	「う、うん！　大丈夫！」	「Y-yeah! It's fine!」
+61160	Kentou Kanami		「う、うん！　大丈夫！」	「Y-yeah! It's fine!」
 
-61161	Freya Idun	「問題ないわよ。動きは単純だから」	「No problem. Its movements are simple.」
+61161	Freya Idun		「問題ないわよ。動きは単純だから」	「No problem. Its movements are simple.」
 
-61162	PG	「………………」	「............」
+61162	PG	ダメージ	「………………」	「............」
 
-61163	Rance	「おっ、向こうに行ったぞ」	「Oh, it went that way.」
+61163	Rance	基本	「おっ、向こうに行ったぞ」	「Oh, it went that way.」
 
-61164	-	方向を修正して進んでいく戦闘兵器を、	The combat weapon corrected its direction and advanced,
-61165	+	ランス達は追いかけていった。	and Rance and the others chased after it.
+61164	-		方向を修正して進んでいく戦闘兵器を、	The combat weapon corrected its direction and advanced,
+61165	+		ランス達は追いかけていった。	and Rance and the others chased after it.
 
-61166	Rance	「……………なんじゃ、こりゃ……」	「............What the hell is this...」
+61166	Rance	だる顔	「……………なんじゃ、こりゃ……」	「............What the hell is this...」
 
-61167	-	到達したのは、一面の花畑だった。	What they reached was a vast flower field.
+61167	-		到達したのは、一面の花畑だった。	What they reached was a vast flower field.
 
-61168	-	鈴が鳴るように、風に揺れた花房から高い音が響く。	High-pitched sounds rang from the flower clusters swaying in the wind like bells.
+61168	-		鈴が鳴るように、風に揺れた花房から高い音が響く。	High-pitched sounds rang from the flower clusters swaying in the wind like bells.
 
-61169	Kentou Kanami	「綺麗…………	「Beautiful......
-61170	?	　って、あーーーーーー！　ロボット！　どこ！？」	　Wait, aaaaaaah! The robot! Where!?」
+61169	Kentou Kanami	基本	「綺麗…………	「Beautiful......
+61170	?		　って、あーーーーーー！　ロボット！　どこ！？」	　Wait, aaaaaaah! The robot! Where!?」
 
-61171	Rance	「言ってる傍から見失ったのか！　ええい！」	「You lost it right after saying that! Damn!」
+61171	Rance		「言ってる傍から見失ったのか！　ええい！」	「You lost it right after saying that! Damn!」
 
-61172	Freya Idun	「大丈夫よ。足跡は確認してるから」	「It's fine. I've confirmed the footprints.」
+61172	Freya Idun		「大丈夫よ。足跡は確認してるから」	「It's fine. I've confirmed the footprints.」
 
-61173	Kentou Kanami	「え？」	「Eh?」
+61173	Kentou Kanami		「え？」	「Eh?」
 
-61174	Freya Idun	「ほら、これ。花畑みたいな軟らかい土じゃ、	「Look, here. On soft soil like a flower field,
-61175	+	　見落としようがないわ」	　it's impossible to miss.」
+61174	Freya Idun		「ほら、これ。花畑みたいな軟らかい土じゃ、	「Look, here. On soft soil like a flower field,
+61175	+		　見落としようがないわ」	　it's impossible to miss.」
 
-61176	Kentou Kanami	「あ、よ、よかったぁ……」	「Ah, g-good...」
+61176	Kentou Kanami		「あ、よ、よかったぁ……」	「Ah, g-good...」
 
-61177	Rance	「ったくツメの甘いやつめ。	「Geez, you're so careless.
-61178	+	　まあいい、いくぞ」	　Whatever, let's go.」
+61177	Rance		「ったくツメの甘いやつめ。	「Geez, you're so careless.
+61178	+		　まあいい、いくぞ」	　Whatever, let's go.」
 
-61179	-	耳障りな音を無視して、	Ignoring the irritating sounds,
-61180	+	ランス達は花畑の中央へと進んでいった。	Rance and the others advanced toward the center of the flower field.
+61179	-		耳障りな音を無視して、	Ignoring the irritating sounds,
+61180	+		ランス達は花畑の中央へと進んでいった。	Rance and the others advanced toward the center of the flower field.
 
-61181	Maria Custard	「工場…………」	「Factory............」
+61181	Maria Custard		「工場…………」	「Factory............」
 
-61182	Rance	「くくく……それっぽい所が見つかったではないか！	「Hehehe... We found a suspicious place!
-61183	+	　よしいくぞ！　突撃だ！」	　Alright, let's go! Charge!」
+61182	Rance		「くくく……それっぽい所が見つかったではないか！	「Hehehe... We found a suspicious place!
+61183	+		　よしいくぞ！　突撃だ！」	　Alright, let's go! Charge!」

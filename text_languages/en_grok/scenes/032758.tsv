@@ -6,94 +6,94 @@
 * Scholar	学者	Male
 * Needle	ニードル	Female
 
-174282	-	地下水脈を抜けたランス達は、	After exiting the underground waterway, Rance and the others
-174283	+	大きな扉の前に来ていた。	arrived in front of a large door.
+174282	-		地下水脈を抜けたランス達は、	After exiting the underground waterway, Rance and the others
+174283	+		大きな扉の前に来ていた。	arrived in front of a large door.
 
-174284	Muscle	「さあ、こっからが本番だ。	「Alright, this is where it gets real.
-174285	+	　気合いを入れて行こうぜ」	　Let's go in pumped up.」
+174284	Muscle	基本	「さあ、こっからが本番だ。	「Alright, this is where it gets real.
+174285	+		　気合いを入れて行こうぜ」	　Let's go in pumped up.」
 
-174286	Rance	「ぐっ、またこれか……」	「Ugh, this again...」
+174286	Rance		「ぐっ、またこれか……」	「Ugh, this again...」
 
-174287	-	ケイブリスの部屋に近づいた途端、	The moment they approached Kayblis's room,
-174288	+	ねっとりとした恐瘴気が体にまとわりついた。	a sticky, terrifying miasma clung to their bodies.
+174287	-		ケイブリスの部屋に近づいた途端、	The moment they approached Kayblis's room,
+174288	+		ねっとりとした恐瘴気が体にまとわりついた。	a sticky, terrifying miasma clung to their bodies.
 
-174289	Nagi su Ragarl	「うげぇ……なにこれぇ……	「Ugh... what is this...
-174290	+	　ぎぼぢわるい……」	　feels gross...」
+174289	Nagi su Ragarl	不満	「うげぇ……なにこれぇ……	「Ugh... what is this...
+174290	+		　ぎぼぢわるい……」	　feels gross...」
 
-174291	Patton Helman	「噂には聞いたことがあるが……	「I've heard rumors about it...
-174292	+	　これがケイブリスの放つ瘴気って奴か……」	　So this is the miasma Kayblis emits...」
+174291	Patton Helman	真剣	「噂には聞いたことがあるが……	「I've heard rumors about it...
+174292	+		　これがケイブリスの放つ瘴気って奴か……」	　So this is the miasma Kayblis emits...」
 
-174293	Patton Helman	「確かにこりゃ……	「Yeah, this is...
-174294	+	　かなりキツいな……」	　pretty intense...」
+174293	Patton Helman	戸惑い	「確かにこりゃ……	「Yeah, this is...
+174294	+		　かなりキツいな……」	　pretty intense...」
 
-174295	Muscle	「おいおい、大丈夫か？」	「Hey, you guys okay?」
+174295	Muscle	基本	「おいおい、大丈夫か？」	「Hey, you guys okay?」
 
-174296	Patton Helman	「ああ、俺はなんとかな……	「Yeah, I'll manage...
-174297	+	　だが周りのお嬢さん達の方が心配だ」	　But I'm more worried about the ladies around us.」
+174296	Patton Helman		「ああ、俺はなんとかな……	「Yeah, I'll manage...
+174297	+		　だが周りのお嬢さん達の方が心配だ」	　But I'm more worried about the ladies around us.」
 
-174298	Rance	「……お前らが並ぶと死ぬほど暑苦しい。	「...When you guys stand together it's suffocatingly hot.
-174299	+	　あと、どっちが魔物か分からんな」	　Also, I can't tell who's the monster here.」
+174298	Rance		「……お前らが並ぶと死ぬほど暑苦しい。	「...When you guys stand together it's suffocatingly hot.
+174299	+		　あと、どっちが魔物か分からんな」	　Also, I can't tell who's the monster here.」
 
-174300	Patton Helman	「あのな……」	「Hey now...」
+174300	Patton Helman	戸惑い	「あのな……」	「Hey now...」
 
-174301	Patton Helman	「しかし、これに耐えられるとは、	「Still, being able to withstand this,
-174302	+	　魔物共は大したもんだな……」	　you monsters are pretty tough...」
+174301	Patton Helman	基本	「しかし、これに耐えられるとは、	「Still, being able to withstand this,
+174302	+		　魔物共は大したもんだな……」	　you monsters are pretty tough...」
 
-174303	Muscle	「んなこたぁない。	「Not really.
-174304	+	　恐瘴気は俺ら魔物も辛いぜ」	　This terrifying miasma is tough on us monsters too.」
+174303	Muscle		「んなこたぁない。	「Not really.
+174304	+		　恐瘴気は俺ら魔物も辛いぜ」	　This terrifying miasma is tough on us monsters too.」
 
-174305	Muscle	「ただ、瘴気の影響を弱める薬を飲んでるだけさ」	「We're just taking medicine that weakens its effects.」
+174305	Muscle		「ただ、瘴気の影響を弱める薬を飲んでるだけさ」	「We're just taking medicine that weakens its effects.」
 
-174306	Muscle	「一応、薬ならあるぜ。	「We've got some if you want.
-174307	+	　あんたも飲んだ方がいい」	　You should take some too.」
+174306	Muscle		「一応、薬ならあるぜ。	「We've got some if you want.
+174307	+		　あんたも飲んだ方がいい」	　You should take some too.」
 
-174308	Scholar	「さあ、皆さんどうぞ」	「Here you go, everyone.」
+174308	Scholar		「さあ、皆さんどうぞ」	「Here you go, everyone.」
 
-174309	Rance	「む、う……」	「Mmm...」
+174309	Rance		「む、う……」	「Mmm...」
 
-174310	-	学者が差しだす薬瓶を	Rance stared hard at the medicine bottle
-174311	+	ランスがジッと見つめる。	the Scholar offered.
+174310	-		学者が差しだす薬瓶を	Rance stared hard at the medicine bottle
+174311	+		ランスがジッと見つめる。	the Scholar offered.
 
-174312	Scholar	「毒と疑っているのですか？」	「Do you suspect it's poison?」
+174312	Scholar		「毒と疑っているのですか？」	「Do you suspect it's poison?」
 
-174313	Rance	「…………」	「............」
+174313	Rance		「…………」	「............」
 
-174314	Scholar	「あいたっ」	「Ouch!」
+174314	Scholar		「あいたっ」	「Ouch!」
 
-174315	-	ランスは学者の頭をポカリ。	Rance lightly bonked the Scholar on the head.
+174315	-		ランスは学者の頭をポカリ。	Rance lightly bonked the Scholar on the head.
 
-174316	Needle	「あーーー！　あーーー！	「Aaaah! Aaaah!
-174317	+	　あんた学者に何すんだー！」	　What are you doing to the Scholar!」
+174316	Needle		「あーーー！　あーーー！	「Aaaah! Aaaah!
+174317	+		　あんた学者に何すんだー！」	　What are you doing to the Scholar!」
 
-174318	Rance	「ふんっ、魔物風情が生意気抜かすから	「Hmph, just punishing a cheeky monster.」
-174319	+	　罰を与えただけだ」	
+174318	Rance	だる顔	「ふんっ、魔物風情が生意気抜かすから	「Hmph, just punishing a cheeky monster.」
+174319	+		　罰を与えただけだ」	
 
-174320	Rance	「よこせっ」	「Hand it over.」
+174320	Rance	真剣	「よこせっ」	「Hand it over.」
 
-174321	Scholar	「あっ」	「Ah.」
+174321	Scholar	基本	「あっ」	「Ah.」
 
-174322	-	　	　
-174323	+	　　＜グビグビグビグビグビグビ！＞	　　<Glug glug glug glug glug!>
+174322	-		　	　
+174323	+		　　＜グビグビグビグビグビグビ！＞	　　<Glug glug glug glug glug!>
 
-174324	Muscle	「お〜〜！」	「Ohhh!」
+174324	Muscle		「お〜〜！」	「Ohhh!」
 
-174325	Rance	「ぶはっ、毒だったらなます斬りにしてやる」	「Bwah, if it's poison I'll slice you into sashimi.」
+174325	Rance	だる顔	「ぶはっ、毒だったらなます斬りにしてやる」	「Bwah, if it's poison I'll slice you into sashimi.」
 
-174326	Rance	「ん？」	「Hm?」
+174326	Rance	真剣	「ん？」	「Hm?」
 
-174327	Rance	「お、おお……」	「O-ohhh...」
+174327	Rance	基本	「お、おお……」	「O-ohhh...」
 
-174328	Rance	「がははは、面白いくらい効いたぞ！	「Gahahaha, it works amazingly well!
-174329	+	　体がスーッキリとしたぞ」	　My body feels so refreshed.」
+174328	Rance	笑顔	「がははは、面白いくらい効いたぞ！	「Gahahaha, it works amazingly well!
+174329	+		　体がスーッキリとしたぞ」	　My body feels so refreshed.」
 
-174330	Rance	「おい、一つ目お化け。	「Hey, one-eyed monster.
-174331	+	　この薬、人数分あるだろうな？」	　You got enough of this medicine for everyone?」
+174330	Rance	基本	「おい、一つ目お化け。	「Hey, one-eyed monster.
+174331	+		　この薬、人数分あるだろうな？」	　You got enough of this medicine for everyone?」
 
-174332	Scholar	「一応……」	「More or less...」
+174332	Scholar		「一応……」	「More or less...」
 
-174333	Scholar	「ですが、この薬も完璧じゃありません。	「But this medicine isn't perfect.
-174334	+	　効果は一時間くらいです」	　It only lasts about an hour.」
+174333	Scholar		「ですが、この薬も完璧じゃありません。	「But this medicine isn't perfect.
+174334	+		　効果は一時間くらいです」	　It only lasts about an hour.」
 
-174335	Rance	「ふん」	「Hmph.」
+174335	Rance		「ふん」	「Hmph.」
 
-174336	Rance	「ケイブリスを殺すには充分じゃないか」	「That's more than enough time to kill Kayblis.」
+174336	Rance		「ケイブリスを殺すには充分じゃないか」	「That's more than enough time to kill Kayblis.」

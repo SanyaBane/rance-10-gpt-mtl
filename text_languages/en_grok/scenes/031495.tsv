@@ -4,63 +4,63 @@
 * Satella	サテラ	Female
 * Chaos	カオス	Male
 
-80574	Pizarro	「うーんうーん……うーんうーん……」	「Hmm hmm... hmm hmm...」
+80574	Pizarro	基本	「うーんうーん……うーんうーん……」	「Hmm hmm... hmm hmm...」
 
-80575	-	戦いが激化していく中、	While the battle intensified,
-80576	+	魔軍側の魔物大将軍ピサロは	the Great Monster General Pizarro on the Monster Army side
-80577	+	戦いを放棄して考え事に耽っていた。	had given up on fighting and was lost in thought.
+80575	-		戦いが激化していく中、	While the battle intensified,
+80576	+		魔軍側の魔物大将軍ピサロは	the Great Monster General Pizarro on the Monster Army side
+80577	+		戦いを放棄して考え事に耽っていた。	had given up on fighting and was lost in thought.
 
-80578	Pizarro~	（先ほどのケイブリス様……	（Kayblis-sama earlier...
-80579	+	　とんでもなく恐ろしかった……）	　was terrifying beyond words...）
+80578	Pizarro~		（先ほどのケイブリス様……	（Kayblis-sama earlier...
+80579	+		　とんでもなく恐ろしかった……）	　was terrifying beyond words...）
 
-80580	Pizarro~	（あの調子では本当に俺まで	（At that rate he might really
-80581	+	　殺されかねない……）	　kill even me...）
+80580	Pizarro~		（あの調子では本当に俺まで	（At that rate he might really
+80581	+		　殺されかねない……）	　kill even me...）
 
-80582	Pizarro~	（なんとかゴマをすって	（I need to flatter him somehow
-80583	+	　機嫌を良くしてもらわなければ……）	　and improve his mood...）
+80582	Pizarro~		（なんとかゴマをすって	（I need to flatter him somehow
+80583	+		　機嫌を良くしてもらわなければ……）	　and improve his mood...）
 
-80584	Pizarro~	（しかし……	（However...
-80585	+	　金銀を贈っても喜ばなさそうだぞ……	　even if I give him gold and silver he probably won't be happy...
-80586	+	　大体、それらは俺の宝物だ、あげたくない）	　Besides, those are my treasures, I don't want to give them away.）
+80584	Pizarro~		（しかし……	（However...
+80585	+		　金銀を贈っても喜ばなさそうだぞ……	　even if I give him gold and silver he probably won't be happy...
+80586	+		　大体、それらは俺の宝物だ、あげたくない）	　Besides, those are my treasures, I don't want to give them away.）
 
-80587	Pizarro~	（う、う〜む……	（U, u~mu...
-80588	+	　何か、何かないだろうか……）	　There must be something, anything...）
+80587	Pizarro~		（う、う〜む……	（U, u~mu...
+80588	+		　何か、何かないだろうか……）	　There must be something, anything...）
 
-80589	Rance	「ここかァーーーーーーッ！」	「Here it iiiiiis!」
+80589	Rance	怒り	「ここかァーーーーーーッ！」	「Here it iiiiiis!」
 
-80590	Pizarro	「なななな、なんだぁ！？」	「W-w-w-what!?」
+80590	Pizarro	基本	「なななな、なんだぁ！？」	「W-w-w-what!?」
 
-80591	Rance	「あ、ああ？　兵が沢山いるから、	「Ah, ah? There were so many soldiers,
-80592	+	　この辺にケイブリスがいるのかと思ったが……」	　I thought Kayblis would be around here...」
+80591	Rance		「あ、ああ？　兵が沢山いるから、	「Ah, ah? There were so many soldiers,
+80592	+		　この辺にケイブリスがいるのかと思ったが……」	　I thought Kayblis would be around here...」
 
-80593	Satella	「ランス、違ったようだ。	「Rance, it seems not.
-80594	+	　こいつは魔物大将軍ピサロ。	　This is the Great Monster General Pizarro.
-80595	+	　確かに偉い奴だが……」	　He's certainly important but...」
+80593	Satella	思考	「ランス、違ったようだ。	「Rance, it seems not.
+80594	+		　こいつは魔物大将軍ピサロ。	　This is the Great Monster General Pizarro.
+80595	+		　確かに偉い奴だが……」	　He's certainly important but...」
 
-80596	Rance	「ちっ、ケイブリス以外に用はない。	「Tch, I have no business with anyone but Kayblis.
-80597	+	　行くぞ」	　Let's go.」
+80596	Rance	基本	「ちっ、ケイブリス以外に用はない。	「Tch, I have no business with anyone but Kayblis.
+80597	+		　行くぞ」	　Let's go.」
 
-80598	Chaos	「そーしよ、そーしよ」	「Yeah, yeah.」
+80598	Chaos		「そーしよ、そーしよ」	「Yeah, yeah.」
 
-80599	Pizarro	「お……」	「O...」
+80599	Pizarro		「お……」	「O...」
 
-80600	Pizarro	「おーーーーーっ！	「Ooooooh!
-80601	+	　それは魔剣カオス！」	　That's the Demon Sword Chaos!」
+80600	Pizarro		「おーーーーーっ！	「Ooooooh!
+80601	+		　それは魔剣カオス！」	　That's the Demon Sword Chaos!」
 
-80602	Chaos	「んあっ？　儂のことか？」	「Nnah? You mean me?」
+80602	Chaos		「んあっ？　儂のことか？」	「Nnah? You mean me?」
 
-80603	Pizarro~	（これだこれだこれだ！）	（This is it, this is it!）
+80603	Pizarro~		（これだこれだこれだ！）	（This is it, this is it!）
 
-80604	Pizarro~	（魔人ですら攻撃することが出来る武器、	（A weapon that can even attack Fiend,
-80605	+	　魔剣カオス！）	　the Demon Sword Chaos!）
+80604	Pizarro~		（魔人ですら攻撃することが出来る武器、	（A weapon that can even attack Fiend,
+80605	+		　魔剣カオス！）	　the Demon Sword Chaos!）
 
-80606	Pizarro~	（ケイブリス様へのゴマすりに	（For flattering Kayblis-sama,
-80607	+	　これ以上相応しいものはない……）	　there is nothing more suitable...）
+80606	Pizarro~		（ケイブリス様へのゴマすりに	（For flattering Kayblis-sama,
+80607	+		　これ以上相応しいものはない……）	　there is nothing more suitable...）
 
-80608	Pizarro	「く……くっくっ……」	「Ku... kukk...」
+80608	Pizarro		「く……くっくっ……」	「Ku... kukk...」
 
-80609	Pizarro	「くくくくくくく！」	「Kukukukukuku!」
+80609	Pizarro		「くくくくくくく！」	「Kukukukukuku!」
 
-80610	Pizarro	「俺の出世の為に死ねー！」	「Die for my promotion!」
+80610	Pizarro		「俺の出世の為に死ねー！」	「Die for my promotion!」
 
-80611	Rance	「訳の分からないこと言ってんじゃねー！」	「Don't spout nonsense!」
+80611	Rance	怒り	「訳の分からないこと言ってんじゃねー！」	「Don't spout nonsense!」

@@ -5,149 +5,149 @@
 * Magic Monster Soldier	汎用魔法魔物兵	Male
 * Kalar	汎用カラー	Female
 
-133496	-	魔軍の兵が荒々しい歩みでカラーの森を進軍する。	Monster Army soldiers marched roughly through the Kalar Forest.
+133496	-		魔軍の兵が荒々しい歩みでカラーの森を進軍する。	Monster Army soldiers marched roughly through the Kalar Forest.
 
-133497	-	通常の規則だった列など作らない。	They didn't form orderly lines as usual.
-133498	+	数人単位の隊をなし、無軌道かつ闇雲に、	Forming groups of a few, they moved wildly and aimlessly,
-133499	+	カラーの村の入り口を探していた。	searching for the entrance to the Kalar Village.
+133497	-		通常の規則だった列など作らない。	They didn't form orderly lines as usual.
+133498	+		数人単位の隊をなし、無軌道かつ闇雲に、	Forming groups of a few, they moved wildly and aimlessly,
+133499	+		カラーの村の入り口を探していた。	searching for the entrance to the Kalar Village.
 
-133500	-	その乱雑な姿こそ、魔物達が『焦り』を	That chaotic appearance clearly showed
-133501	+	抱えていることを如実に表す。	the 'impatience' the monsters felt.
+133500	-		その乱雑な姿こそ、魔物達が『焦り』を	That chaotic appearance clearly showed
+133501	+		抱えていることを如実に表す。	the 'impatience' the monsters felt.
 
-133502	-	――その原因は、とある魔人の存在。	--The cause was the presence of a certain Fiend.
+133502	-		――その原因は、とある魔人の存在。	--The cause was the presence of a certain Fiend.
 
-133503	-	周りにいた魔物は誰もが、	The surrounding monsters all
-133504	+	気にしないようにしつつも、	tried not to look, yet
-133505	+	遠巻きにチラチラと何度も盗み見る。	kept stealing glances from afar.
+133503	-		周りにいた魔物は誰もが、	The surrounding monsters all
+133504	+		気にしないようにしつつも、	tried not to look, yet
+133505	+		遠巻きにチラチラと何度も盗み見る。	kept stealing glances from afar.
 
-133506	-	その視線に込められたもの、	What their gazes held
-133507	+	それは力を持つ者に対する敬意と――恐怖。	was respect for power--and terror.
+133506	-		その視線に込められたもの、	What their gazes held
+133507	+		それは力を持つ者に対する敬意と――恐怖。	was respect for power--and terror.
 
-133508	RedEye	「モンスター・ジェネラル。	「Monster General.
-133509	+	　ユー、あなた、	　You,
-133510	+	　カラーズ・ヴィレッジはまだか？」	　is the Kalars Village still not found?」
+133508	RedEye	基本	「モンスター・ジェネラル。	「Monster General.
+133509	+		　ユー、あなた、	　You,
+133510	+		　カラーズ・ヴィレッジはまだか？」	　is the Kalars Village still not found?」
 
-133511	-	二万もの大軍を一人で指揮する魔物将軍が	The Monster General commanding an army of 20,000
-133512	+	うやうやしく頭を下げる。	bowed his head respectfully.
+133511	-		二万もの大軍を一人で指揮する魔物将軍が	The Monster General commanding an army of 20,000
+133512	+		うやうやしく頭を下げる。	bowed his head respectfully.
 
-133513	Monster General	「はい、未だカラーの村は見つかりませんが、	「Yes, the Kalar Village has not been found yet,
-133514	+	　私の部下が全力で捜索しております。	　but my subordinates are searching with full effort.
-133515	+	　見つかるのも時間の問題かと」	　It should be only a matter of time.」
+133513	Monster General		「はい、未だカラーの村は見つかりませんが、	「Yes, the Kalar Village has not been found yet,
+133514	+		　私の部下が全力で捜索しております。	　but my subordinates are searching with full effort.
+133515	+		　見つかるのも時間の問題かと」	　It should be only a matter of time.」
 
-133516	Monster General	「もうしばしお待ち下さい。	「Please wait a little longer.
-133517	?	　――魔人、レッドアイ様」	　--Fiend, RedEye-sama.」
+133516	Monster General		「もうしばしお待ち下さい。	「Please wait a little longer.
+133517	?		　――魔人、レッドアイ様」	　--Fiend, RedEye-sama.」
 
-133518	-	レッドアイ、膨大な魔力を持つ魔人の一人が、	RedEye, one of the Fiends with immense magical power,
-133519	+	呵々-ｶｶ-と甲高く耳障りな笑い声を上げる。	let out a shrill, unpleasant laugh.
+133518	-		レッドアイ、膨大な魔力を持つ魔人の一人が、	RedEye, one of the Fiends with immense magical power,
+133519	+		呵々-ｶｶ-と甲高く耳障りな笑い声を上げる。	let out a shrill, unpleasant laugh.
 
-133520	RedEye	「けけけけけ！	「Kekekekeke!
-133521	+	　OK！　OKよ、モンスター・ジェネラル！	　OK! OK, Monster General!
-133522	+	　カラーの娘、全てキル・あなたね！」	　Kill all the Kalar girls, you!」
+133520	RedEye		「けけけけけ！	「Kekekekeke!
+133521	+		　OK！　OKよ、モンスター・ジェネラル！	　OK! OK, Monster General!
+133522	+		　カラーの娘、全てキル・あなたね！」	　Kill all the Kalar girls, you!」
 
-133523	-	彼が今、考えていることはたった一つ。	There was only one thing on his mind right now.
-133524	+	自分の気に食わない者を殺す。	Killing anyone he didn't like.
+133523	-		彼が今、考えていることはたった一つ。	There was only one thing on his mind right now.
+133524	+		自分の気に食わない者を殺す。	Killing anyone he didn't like.
 
-133525	-	それだけだった。	That was it.
+133525	-		それだけだった。	That was it.
 
-133526	Monster General	「そうそう、レッドアイ様、	「Yes yes, RedEye-sama,
-133527	+	　部下から面白いものが届きました」	　my subordinates brought something interesting.」
+133526	Monster General		「そうそう、レッドアイ様、	「Yes yes, RedEye-sama,
+133527	+		　部下から面白いものが届きました」	　my subordinates brought something interesting.」
 
-133528	RedEye	「お〜ぅ？」	「Oh~?」
+133528	RedEye		「お〜ぅ？」	「Oh~?」
 
-133529	-	魔物将軍が縄で繋がれたカラーの娘、	The Monster General brought ten Kalar girls
-133530	+	捕虜となった十人を連れてきた。	tied up with ropes as prisoners.
+133529	-		魔物将軍が縄で繋がれたカラーの娘、	The Monster General brought ten Kalar girls
+133530	+		捕虜となった十人を連れてきた。	tied up with ropes as prisoners.
 
-133531	Monster General	「レッドアイ様もご存知のように、	「As RedEye-sama knows,
-133532	+	　カラーの額のクリスタルは	　the crystals on the Kalar girls' foreheads
-133533	+	　強力な魔力の源です」	　are a powerful source of magic.」
+133531	Monster General		「レッドアイ様もご存知のように、	「As RedEye-sama knows,
+133532	+		　カラーの額のクリスタルは	　the crystals on the Kalar girls' foreheads
+133533	+		　強力な魔力の源です」	　are a powerful source of magic.」
 
-133534	Monster General	「犯して犯して犯しまくってから、	「After raping and raping them thoroughly,
-133535	+	　クリスタルを額から引き抜けば、	　pulling out the crystals from their foreheads
-133536	+	　有用なものになりますよ」	　will make them useful.」
+133534	Monster General		「犯して犯して犯しまくってから、	「After raping and raping them thoroughly,
+133535	+		　クリスタルを額から引き抜けば、	　pulling out the crystals from their foreheads
+133536	+		　有用なものになりますよ」	　will make them useful.」
 
-133537	Monster General	「ただ、この人数を犯すのも骨が折れるでしょうし、	「However, violating this many might be tiring,
-133538	+	　いかがでしょう？	　what do you think?
-133539	+	　もし良ければ、ひひ、私達がその大役を……」	　If you'd like, hehe, we can take on that big role...」
+133537	Monster General		「ただ、この人数を犯すのも骨が折れるでしょうし、	「However, violating this many might be tiring,
+133538	+		　いかがでしょう？	　what do you think?
+133539	+		　もし良ければ、ひひ、私達がその大役を……」	　If you'd like, hehe, we can take on that big role...」
 
-133540	RedEye	「……………………」	「........................」
+133540	RedEye		「……………………」	「........................」
 
-133541	RedEye	「お前なに勘違いしてるか？」	「What misunderstanding are you making?」
+133541	RedEye		「お前なに勘違いしてるか？」	「What misunderstanding are you making?」
 
-133542	Monster General	「は？」	「Huh?」
+133542	Monster General		「は？」	「Huh?」
 
-133543	RedEye	「そこのユー、ゴー」	「You there, go.」
+133543	RedEye		「そこのユー、ゴー」	「You there, go.」
 
-133544	Magic Monster Soldier	「は、ははっ！」	「Y-yes!」
+133544	Magic Monster Soldier		「は、ははっ！」	「Y-yes!」
 
-133545	Magic Monster Soldier	「火爆破ァ！」	「Fire Explosion!」
+133545	Magic Monster Soldier		「火爆破ァ！」	「Fire Explosion!」
 
-133546	Kalar	「ひっ、きゃああああああああ！」	「Hii, kyaaaaaaaah!」
+133546	Kalar		「ひっ、きゃああああああああ！」	「Hii, kyaaaaaaaah!」
 
-133547	Monster General	「なっ！？」	「Wha!?」
+133547	Monster General		「なっ！？」	「Wha!?」
 
-133548	-	レッドアイの魔法により、	By RedEye's magic,
-133549	+	カラーの娘達は業火にその身を焼かれた。	the Kalar girls were burned alive in hellfire.
+133548	-		レッドアイの魔法により、	By RedEye's magic,
+133549	+		カラーの娘達は業火にその身を焼かれた。	the Kalar girls were burned alive in hellfire.
 
-133550	Kalar	「あっ！　ぎあ゛あ゛ぁ゛あ゛あ！	「Ah! Gyaahhh!」
-133551	+	　だっ！　あがっ！　ああ゛あ゛ぁ゛あぁ゛あ！」	　Da! Aga! Aaaahhh!」
+133550	Kalar		「あっ！　ぎあ゛あ゛ぁ゛あ゛あ！	「Ah! Gyaahhh!」
+133551	+		　だっ！　あがっ！　ああ゛あ゛ぁ゛あぁ゛あ！」	　Da! Aga! Aaaahhh!」
 
-133552	-	森の中に濁ったような悲鳴が響き渡る。	Muffled screams echoed through the forest.
+133552	-		森の中に濁ったような悲鳴が響き渡る。	Muffled screams echoed through the forest.
 
-133553	RedEye	「ん〜、ビューティホォ〜……	「N~, beautiful...
-133554	+	　悲鳴はいつリスニングしても素晴らしい……	　Screams are always wonderful to listen to...
-133555	+	　これこそ命燃える、魂のサウンド……」	　This is the sound of burning life, the sound of souls...」
+133553	RedEye		「ん〜、ビューティホォ〜……	「N~, beautiful...
+133554	+		　悲鳴はいつリスニングしても素晴らしい……	　Screams are always wonderful to listen to...
+133555	+		　これこそ命燃える、魂のサウンド……」	　This is the sound of burning life, the sound of souls...」
 
-133556	RedEye	「けけけ！　けけ！	「Kekeke! Keke!
-133557	+	　命！　血！　体温！　これあるユー、	　Life! Blood! Body heat! You who have these,
-133558	+	　全て死、ダイ！　するグッドね！」	　all die, DIE! It's good!」
+133556	RedEye		「けけけ！　けけ！	「Kekeke! Keke!
+133557	+		　命！　血！　体温！　これあるユー、	　Life! Blood! Body heat! You who have these,
+133558	+		　全て死、ダイ！　するグッドね！」	　all die, DIE! It's good!」
 
-133559	-	宝石としてのさがか、	As a being who hates life itself,
-133560	+	命ある者を憎み、命ある者を殺すことに	RedEye felt supreme pleasure in hating and killing living beings,
-133561	+	至上の悦楽を感じるレッドアイは甲高い声で笑う。	and laughed in a shrill voice.
+133559	-		宝石としてのさがか、	As a being who hates life itself,
+133560	+		命ある者を憎み、命ある者を殺すことに	RedEye felt supreme pleasure in hating and killing living beings,
+133561	+		至上の悦楽を感じるレッドアイは甲高い声で笑う。	and laughed in a shrill voice.
 
-133562	-	十人もいた美しいカラーが	The ten beautiful Kalar girls
-133563	+	あっという間に消し炭に姿を変えていた。	were turned to charcoal in an instant.
+133562	-		十人もいた美しいカラーが	The ten beautiful Kalar girls
+133563	+		あっという間に消し炭に姿を変えていた。	were turned to charcoal in an instant.
 
-133564	Monster General	「あ、あ、あ、どうしてこのような……」	「A, a, a, why like this...」
+133564	Monster General		「あ、あ、あ、どうしてこのような……」	「A, a, a, why like this...」
 
-133565	RedEye	「んっんー？」	「Nnn?」
+133565	RedEye		「んっんー？」	「Nnn?」
 
-133566	Monster General	「……ひっ」	「...Hii」
+133566	Monster General		「……ひっ」	「...Hii」
 
-133567	-	レッドアイが冷たい瞳で声のした方を見る。	RedEye looked toward the voice with cold eyes.
-133568	+	それだけで魔物将軍は息が止まった。	Just that was enough to stop the Monster General's breath.
+133567	-		レッドアイが冷たい瞳で声のした方を見る。	RedEye looked toward the voice with cold eyes.
+133568	+		それだけで魔物将軍は息が止まった。	Just that was enough to stop the Monster General's breath.
 
-133569	RedEye	「ちっちっちっ……	「Tsk tsk tsk...
-133570	+	　ここに来る、した理由、	　The reason you came here,
-133571	+	　ユー、分かってないか？」	　you don't understand it?」
+133569	RedEye		「ちっちっちっ……	「Tsk tsk tsk...
+133570	+		　ここに来る、した理由、	　The reason you came here,
+133571	+		　ユー、分かってないか？」	　you don't understand it?」
 
-133572	RedEye	「ミーは既にフル・マックスの高い魔力ある。	「I already have full max high magic power.
-133573	+	　クリスタル、持つ意味ナッシン。	　No meaning in having crystals.
-133574	+	　むしろ他の奴に渡すなど馬鹿らしい」	　Giving them to others would be stupid.」
+133572	RedEye		「ミーは既にフル・マックスの高い魔力ある。	「I already have full max high magic power.
+133573	+		　クリスタル、持つ意味ナッシン。	　No meaning in having crystals.
+133574	+		　むしろ他の奴に渡すなど馬鹿らしい」	　Giving them to others would be stupid.」
 
-133575	RedEye	「だーかーらー、	「Theeerefore,
-133576	+	　全てのカラーにはダイ！	　all Kalars get DIE!
-133577	+	　死をプレゼント・フォーユー！」	　Death as a present for you!」
+133575	RedEye		「だーかーらー、	「Theeerefore,
+133576	+		　全てのカラーにはダイ！	　all Kalars get DIE!
+133577	+		　死をプレゼント・フォーユー！」	　Death as a present for you!」
 
-133578	RedEye	「ドゥー・ユー・アンダスタンか？」	「Do you understand?」
+133578	RedEye		「ドゥー・ユー・アンダスタンか？」	「Do you understand?」
 
-133579	Monster General	「は、は……り、理解できました……」	「Y-yes... I understand...」
+133579	Monster General		「は、は……り、理解できました……」	「Y-yes... I understand...」
 
-133580	RedEye	「カラーズ・ヴィレッジは	「Find the Kalars Village
-133581	+	　すぐ見つけるするいいか？」	　quickly, okay?」
+133580	RedEye		「カラーズ・ヴィレッジは	「Find the Kalars Village
+133581	+		　すぐ見つけるするいいか？」	　quickly, okay?」
 
-133582	Monster General	「はっ！　部下共に急がせます！	「Yes! I'll make my subordinates hurry!
-133583	+	　も、もうしばしお待ちを！」	　P-please wait a little longer!」
+133582	Monster General		「はっ！　部下共に急がせます！	「Yes! I'll make my subordinates hurry!
+133583	+		　も、もうしばしお待ちを！」	　P-please wait a little longer!」
 
-133584	RedEye	「けけけけ！　けけけけ！	「Kekekeke! Kekekeke!
-133585	+	　いけすかないカラーズ・ヴィレッジも！	　That annoying Kalars Village too!
-133586	+	　必ずこの消し炭のようにファイヤー！」	　Will definitely be burned to charcoal like this!」
+133584	RedEye		「けけけけ！　けけけけ！	「Kekekeke! Kekekeke!
+133585	+		　いけすかないカラーズ・ヴィレッジも！	　That annoying Kalars Village too!
+133586	+		　必ずこの消し炭のようにファイヤー！」	　Will definitely be burned to charcoal like this!」
 
-133587	RedEye	「オール・キル・ユー！　キル・ユー・あなた！」	「All kill you! Kill you you!」
+133587	RedEye		「オール・キル・ユー！　キル・ユー・あなた！」	「All kill you! Kill you you!」
 
-133588	RedEye	「けけけけけけけけけけけけけ！」	「Kekekekekekekekekekeke!」
+133588	RedEye		「けけけけけけけけけけけけけ！」	「Kekekekekekekekekekeke!」
 
-133589	-	機械的な甲高い笑い声を上げ、	Raising a mechanical shrill laugh,
-133590	+	狂気の魔人、レッドアイが進む。	the mad Fiend RedEye advanced.
+133589	-		機械的な甲高い笑い声を上げ、	Raising a mechanical shrill laugh,
+133590	+		狂気の魔人、レッドアイが進む。	the mad Fiend RedEye advanced.
 
-133591	-	魔軍がゆっくりとカラーの森に近づいていた。	The Monster Army slowly approached the Kalar Forest.
+133591	-		魔軍がゆっくりとカラーの森に近づいていた。	The Monster Army slowly approached the Kalar Forest.

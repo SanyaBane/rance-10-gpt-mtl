@@ -7,53 +7,53 @@
 * Pespo Tontone	ペスポ	Male
 * Maria Custard	マリア	Female
 
-59888	Rance	「ふー、休憩休憩。状況はどうだ？」	「Phew, break time. How's the situation?」
+59888	Rance	基本	「ふー、休憩休憩。状況はどうだ？」	「Phew, break time. How's the situation?」
 
-59889	-	一暴れした魔人討伐隊は、	After rampaging for a while, the Fiend Extermination Squad
-59890	+	ランスの指示で司令部へ、一時休息しに戻ってきた。	returned to headquarters for a temporary rest on Rance's orders.
+59889	-		一暴れした魔人討伐隊は、	After rampaging for a while, the Fiend Extermination Squad
+59890	+		ランスの指示で司令部へ、一時休息しに戻ってきた。	returned to headquarters for a temporary rest on Rance's orders.
 
-59891	Copandon Dott	「ええ感じやで。圧勝っちゅうやっちゃな」	「It's going great. Total victory so far.」
+59891	Copandon Dott	笑い	「ええ感じやで。圧勝っちゅうやっちゃな」	「It's going great. Total victory so far.」
 
-59892	Shinoda Gengorou	「選手とグラウンドコンディションがいいですから。	「The players and field conditions are excellent.
-59893	+	　ワンサイドゲームですねぇ」	　It's a one-sided game.」
+59892	Shinoda Gengorou	基本	「選手とグラウンドコンディションがいいですから。	「The players and field conditions are excellent.
+59893	+		　ワンサイドゲームですねぇ」	　It's a one-sided game.」
 
-59894	Rance	「ほう、よいぞよいぞ」	「Hmm, good good.」
+59894	Rance		「ほう、よいぞよいぞ」	「Hmm, good good.」
 
-59895	Rance	「そういえば、お前は裏切ってなかったんだな。	「By the way, you didn't betray us.
-59896	+	　まとめて殺してやろうと思ってたのに」	　I was planning to kill you all together.」
+59895	Rance	真剣	「そういえば、お前は裏切ってなかったんだな。	「By the way, you didn't betray us.
+59896	+		　まとめて殺してやろうと思ってたのに」	　I was planning to kill you all together.」
 
-59897	Papademas Shirusven	「なっ！　なんてことを仰いますか！	「What! How can you say such a thing!
-59898	+	　私は誠心誠意、人類のために尽くしておりますよ！	　I have been devoting myself sincerely for humanity!
-59899	+	　魔軍の誘いなんぞ、二秒で蹴りましたとも！」	　I rejected the Monster Army's offer in two seconds!」
+59897	Papademas Shirusven	基本	「なっ！　なんてことを仰いますか！	「What! How can you say such a thing!
+59898	+		　私は誠心誠意、人類のために尽くしておりますよ！	　I have been devoting myself sincerely for humanity!
+59899	+		　魔軍の誘いなんぞ、二秒で蹴りましたとも！」	　I rejected the Monster Army's offer in two seconds!」
 
-59900	Patricia Bacon	「シルサブンさんは、	「Mr. Shirusven isn't
-59901	+	　そういうタイプじゃないものねぇ」	　the type to do that.」
+59900	Patricia Bacon		「シルサブンさんは、	「Mr. Shirusven isn't
+59901	+		　そういうタイプじゃないものねぇ」	　the type to do that.」
 
-59902	Pespo Tontone	「自分の都市の利益だけを考えてるからなぁ。	「Because he only thinks about his city's interests.
-59903	+	　まあ、蹴ってると思ったよ」	　Well, I thought he'd reject it.」
+59902	Pespo Tontone		「自分の都市の利益だけを考えてるからなぁ。	「Because he only thinks about his city's interests.
+59903	+		　まあ、蹴ってると思ったよ」	　Well, I thought he'd reject it.」
 
-59904	Papademas Shirusven	「そうその通り！」	「Exactly!」
+59904	Papademas Shirusven	おべっか	「そうその通り！」	「Exactly!」
 
-59905	Papademas Shirusven~	（ふ〜、こ、こちらで正解だったか……	（Phew, was choosing this side correct...
-59906	+	　かなり揺れたが……それは黙っておこう）	　I wavered quite a bit... but I'll keep quiet about that.）
+59905	Papademas Shirusven~	基本	（ふ〜、こ、こちらで正解だったか……	（Phew, was choosing this side correct...
+59906	+		　かなり揺れたが……それは黙っておこう）	　I wavered quite a bit... but I'll keep quiet about that.）
 
-59907	Copandon Dott	「せやけどランス。	「But Rance.
-59908	+	　ビヨンホウの裏切り……どないして止めたん？」	　How did you stop Biyonhou's betrayal?」
+59907	Copandon Dott		「せやけどランス。	「But Rance.
+59908	+		　ビヨンホウの裏切り……どないして止めたん？」	　How did you stop Biyonhou's betrayal?」
 
-59909	Rance	「ふん。俺様に逆らうとどうなるか、	「Hmph. I just showed him what happens
-59910	+	　警告してやっただけだ」	　if you go against me.」
+59909	Rance		「ふん。俺様に逆らうとどうなるか、	「Hmph. I just showed him what happens
+59910	+		　警告してやっただけだ」	　if you go against me.」
 
-59911	Copandon Dott	「へぇ……？」	「Heh...?」
+59911	Copandon Dott		「へぇ……？」	「Heh...?」
 
-59912	Rance	「よーし、そろそろ再出撃といくか。	「Alright, time for another sortie.
-59913	+	　マリアはいるか？」	　Is Maria here?」
+59912	Rance		「よーし、そろそろ再出撃といくか。	「Alright, time for another sortie.
+59913	+		　マリアはいるか？」	　Is Maria here?」
 
-59914	Maria Custard	「戻ってるわよ。……本当にアレやるの？」	「I'm back. ...Are we really doing that?」
+59914	Maria Custard	あかんわ	「戻ってるわよ。……本当にアレやるの？」	「I'm back. ...Are we really doing that?」
 
-59915	Rance	「やるんだよ。準備できてるか？」	「We are. Are you ready?」
+59915	Rance	基本	「やるんだよ。準備できてるか？」	「We are. Are you ready?」
 
-59916	Maria Custard	「ん、大丈夫……だけど」	「Yeah, it's ready... but.」
+59916	Maria Custard	あかんわ	「ん、大丈夫……だけど」	「Yeah, it's ready... but.」
 
-59917	Rance	「よし。	「Good.
-59918	+	　さあ者ども、休憩、補給、トイレ諸々終わったな？	　Alright everyone, breaks, resupply, bathroom, all done?
-59919	+	　ターゲットは魔物大将軍と魔人野郎だ。いくぞ！」	　Targets are the Great Monster Generals and the Fiend bastard. Let's go!」
+59917	Rance	基本	「よし。	「Good.
+59918	+		　さあ者ども、休憩、補給、トイレ諸々終わったな？	　Alright everyone, breaks, resupply, bathroom, all done?
+59919	+		　ターゲットは魔物大将軍と魔人野郎だ。いくぞ！」	　Targets are the Great Monster Generals and the Fiend bastard. Let's go!」

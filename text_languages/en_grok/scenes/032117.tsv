@@ -2,62 +2,62 @@
 * Rance	ランス	Male
 * Uesugi Kenshin	謙信	Female
 
-123589	Rance	「おや、何を食ってるんだ？」	「Oh, what are you eating?」
+123589	Rance	基本	「おや、何を食ってるんだ？」	「Oh, what are you eating?」
 
-123590	Uesugi Kenshin	「ランス殿……」	「Lord Rance...」
+123590	Uesugi Kenshin		「ランス殿……」	「Lord Rance...」
 
-123591	-	謙信の前には巨大な鍋が	In front of Kenshin was a huge pot
-123592	+	グツグツと音を立てていた。	bubbling loudly.
+123591	-		謙信の前には巨大な鍋が	In front of Kenshin was a huge pot
+123592	+		グツグツと音を立てていた。	bubbling loudly.
 
-123593	Rance	「すごいもん食ってんな」	「You're eating a huge amount.」
+123593	Rance		「すごいもん食ってんな」	「You're eating a huge amount.」
 
-123594	Uesugi Kenshin	「小腹が空いたのでおやつにきりたんぽ鍋を……」	「I got a bit hungry so I made kiritanpo hot pot as a snack...」
+123594	Uesugi Kenshin		「小腹が空いたのでおやつにきりたんぽ鍋を……」	「I got a bit hungry so I made kiritanpo hot pot as a snack...」
 
-123595	Rance	「おやつ……」	「A snack...」
+123595	Rance		「おやつ……」	「A snack...」
 
-123596	Rance~	（この軽く十人前はありそうな量が……？）	（This looks like enough for ten people...?）
+123596	Rance~	真剣	（この軽く十人前はありそうな量が……？）	（This looks like enough for ten people...?）
 
-123597	Uesugi Kenshin	「あっ、これは気づかずすまない……」	「Ah, sorry I didn't notice you...」
+123597	Uesugi Kenshin	基本	「あっ、これは気づかずすまない……」	「Ah, sorry I didn't notice you...」
 
-123598	Uesugi Kenshin	「私の作ったものなので味の保証は出来ないが、	「I can't guarantee the taste since I made it,
-123599	+	　良ければランス殿も……」	　but if you'd like some, Lord Rance...」
+123598	Uesugi Kenshin		「私の作ったものなので味の保証は出来ないが、	「I can't guarantee the taste since I made it,
+123599	+		　良ければランス殿も……」	　but if you'd like some, Lord Rance...」
 
-123600	Rance	「食べたくて見てたわけじゃないが、	「I wasn't staring because I wanted some,
-123601	+	　くれるならくれ」	　but I'll take some if you're offering.」
+123600	Rance		「食べたくて見てたわけじゃないが、	「I wasn't staring because I wanted some,
+123601	+		　くれるならくれ」	　but I'll take some if you're offering.」
 
-123602	Rance	「あちあち、はふはふ……	「Hot hot, hafu hafu...
-123603	+	　うん、美味いな、こりゃ」	　Yeah, this is delicious.」
+123602	Rance		「あちあち、はふはふ……	「Hot hot, hafu hafu...
+123603	+		　うん、美味いな、こりゃ」	　Yeah, this is delicious.」
 
-123604	Uesugi Kenshin	「う、く……！」	「U, ku...!」
+123604	Uesugi Kenshin	困り	「う、く……！」	「U, ku...!」
 
-123605	Rance	「あん？　どした？」	「Hm? What's wrong?」
+123605	Rance	基本	「あん？　どした？」	「Hm? What's wrong?」
 
-123606	Uesugi Kenshin	「今……」	「Just now...
+123606	Uesugi Kenshin		「今……」	「Just now...
 
-123607	Uesugi Kenshin	「私の作ったものを笑顔で	「When I saw you eating what I made with a smile...
-123608	+	　食べてくれる貴方を見ていたら……」	
+123607	Uesugi Kenshin		「私の作ったものを笑顔で	「When I saw you eating what I made with a smile...
+123608	+		　食べてくれる貴方を見ていたら……」	
 
-123609	Uesugi Kenshin	「胸が強く……締め付けられて……」	「My chest tightened strongly...」
+123609	Uesugi Kenshin	恥じらい	「胸が強く……締め付けられて……」	「My chest tightened strongly...」
 
-123610	Uesugi Kenshin	「ああ、そうか……」	「Ah, I see...」
+123610	Uesugi Kenshin	基本	「ああ、そうか……」	「Ah, I see...」
 
-123611	Uesugi Kenshin	「これが、胸が詰まる、	「So this is what they mean
-123612	+	　と言われることなのだな……」	　by 'my chest feels full'...」
+123611	Uesugi Kenshin		「これが、胸が詰まる、	「So this is what they mean
+123612	+		　と言われることなのだな……」	　by 'my chest feels full'...」
 
-123613	Uesugi Kenshin	「ありがとう……」	「Thank you...」
+123613	Uesugi Kenshin		「ありがとう……」	「Thank you...」
 
-123614	Uesugi Kenshin	「私は、今、とても幸せだ」	「Right now, I am very happy.」
+123614	Uesugi Kenshin		「私は、今、とても幸せだ」	「Right now, I am very happy.」
 
-123615	Rance	「お、おお……」	「O-oh...」
+123615	Rance		「お、おお……」	「O-oh...」
 
-123616	-	　	　
-123617	+	　　＜くーー……＞	　　＜Gruuu...＞
+123616	-		　	　
+123617	+		　　＜くーー……＞	　　＜Gruuu...＞
 
-123618	-	謙信のお腹が鳴った。	Kenshin's stomach rumbled.
+123618	-		謙信のお腹が鳴った。	Kenshin's stomach rumbled.
 
-123619	Uesugi Kenshin	「す、すまない……」	「S-sorry...」
+123619	Uesugi Kenshin	恥じらい	「す、すまない……」	「S-sorry...」
 
-123620	Rance	「元々これは謙信のものだしな。	「This was yours to begin with.
-123621	+	　食べろ食べろ」	　Eat up.」
+123620	Rance	基本	「元々これは謙信のものだしな。	「This was yours to begin with.
+123621	+		　食べろ食べろ」	　Eat up.」
 
-123622	Uesugi Kenshin	「う、うむ……」	「Y-yes...」
+123622	Uesugi Kenshin		「う、うむ……」	「Y-yes...」

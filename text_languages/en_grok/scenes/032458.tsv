@@ -4,87 +4,87 @@
 * Chaos	カオス	Male
 * Satella	サテラ	Female
 
-151020	-	ランス達がケッセルリンクの棺のある	Rance and the others rushed into the underground room
-151021	+	地下室に飛び込んだ。	where Kesselring's coffin was kept.
+151020	-		ランス達がケッセルリンクの棺のある	Rance and the others rushed into the underground room
+151021	+		地下室に飛び込んだ。	where Kesselring's coffin was kept.
 
-151022	-	そこには開けられた棺と、	There was an opened coffin and
-151023	+	一人の男が立っていた。	a man standing there.
+151022	-		そこには開けられた棺と、	There was an opened coffin and
+151023	+		一人の男が立っていた。	a man standing there.
 
-151024	Kesselring	「ふっ、これはまた……	「Heh, what a surprise...
-151025	+	　千客万来だな」	　We have many guests today.」
+151024	Kesselring	基本	「ふっ、これはまた……	「Heh, what a surprise...
+151025	+		　千客万来だな」	　We have many guests today.」
 
-151026	Rance	「げっ、起きてやがるじゃねぇか！」	「Ugh, he's actually awake!」
+151026	Rance		「げっ、起きてやがるじゃねぇか！」	「Ugh, he's actually awake!」
 
-151027	Chaos	「落ち着け。	「Calm down.
-151028	+	　力はかなり弱まってる」	　His power is greatly weakened.」
+151027	Chaos		「落ち着け。	「Calm down.
+151028	+		　力はかなり弱まってる」	　His power is greatly weakened.」
 
-151029	Satella	「今なら、勝てる……か……？」	「Now we can win... right...?」
+151029	Satella	怒り	「今なら、勝てる……か……？」	「Now we can win... right...?」
 
-151030	-	サテラが獰猛に笑う。	Satella smiled ferociously.
-151031	+	しかし好戦的なその表情とは裏腹に	However, contrary to her aggressive expression,
-151032	+	頬には汗が一筋流れていた。	a single bead of sweat ran down her cheek.
+151030	-		サテラが獰猛に笑う。	Satella smiled ferociously.
+151031	+		しかし好戦的なその表情とは裏腹に	However, contrary to her aggressive expression,
+151032	+		頬には汗が一筋流れていた。	a single bead of sweat ran down her cheek.
 
-151033	Rance	「確かに……	「Indeed...
-151034	+	　以前よりは圧迫感も薄い……かな」	　The pressure is weaker than before... I think.」
+151033	Rance	真剣	「確かに……	「Indeed...
+151034	+		　以前よりは圧迫感も薄い……かな」	　The pressure is weaker than before... I think.」
 
-151035	Rance	「ふん！　おはようケッセルリンク君！	「Hmph! Good morning, Kesselring boy!
-151036	+	　今ごろ起きるとは寝坊助くんだなぁ」	　Waking up at this hour, what a sleepyhead.」
+151035	Rance	基本	「ふん！　おはようケッセルリンク君！	「Hmph! Good morning, Kesselring boy!
+151036	+		　今ごろ起きるとは寝坊助くんだなぁ」	　Waking up at this hour, what a sleepyhead.」
 
-151037	Kesselring	「こう外が騒がしくては眠れなくてね」	「It's hard to sleep with all that noise outside.」
+151037	Kesselring		「こう外が騒がしくては眠れなくてね」	「It's hard to sleep with all that noise outside.」
 
-151038	Rance	「最後の最後までキザな奴め」	「What a pretentious bastard until the very end.」
+151038	Rance	だる顔	「最後の最後までキザな奴め」	「What a pretentious bastard until the very end.」
 
-151039	Rance	「がははは、だが俺様の作戦勝ちだな！」	「Gahahaha, but my plan wins!」
+151039	Rance	笑顔	「がははは、だが俺様の作戦勝ちだな！」	「Gahahaha, but my plan wins!」
 
-151040	Rance	「女には甘いお前のこと！	「You're so soft on women!
-151041	+	　絶対にひっかかると思っていたわ！」	　I knew you'd fall for it!」
+151040	Rance	基本	「女には甘いお前のこと！	「You're so soft on women!
+151041	+		　絶対にひっかかると思っていたわ！」	　I knew you'd fall for it!」
 
-151042	Kesselring	「救いを求める女性は無下に出来ん。	「I cannot ignore a woman seeking help.
-151043	+	　ふっ、我ながら困ったものだと思うよ」	　Heh, I think I'm quite troublesome myself.」
+151042	Kesselring		「救いを求める女性は無下に出来ん。	「I cannot ignore a woman seeking help.
+151043	+		　ふっ、我ながら困ったものだと思うよ」	　Heh, I think I'm quite troublesome myself.」
 
-151044	Rance	「ふんっ、格好つけおって！」	「Hmph, acting all cool!」
+151044	Rance		「ふんっ、格好つけおって！」	「Hmph, acting all cool!」
 
-151045	Rance	「で、おいカオス、	「Hey Chaos,
-151046	+	　本当に弱体化してるんだろーな？」	　he's really weakened, right?」
+151045	Rance		「で、おいカオス、	「Hey Chaos,
+151046	+		　本当に弱体化してるんだろーな？」	　he's really weakened, right?」
 
-151047	Chaos	「それは間違いない……」	「That's certain...」
+151047	Chaos		「それは間違いない……」	「That's certain...」
 
-151048	Chaos	「弱体化しても尚、心の友より強い場合は知らんよ」	「Even weakened, I don't know if he's still stronger than my soul friend.」
+151048	Chaos	ため息	「弱体化しても尚、心の友より強い場合は知らんよ」	「Even weakened, I don't know if he's still stronger than my soul friend.」
 
-151049	Rance	「この無責任野郎が！」	「You irresponsible bastard!」
+151049	Rance	基本	「この無責任野郎が！」	「You irresponsible bastard!」
 
-151050	Kesselring	「ランスと言ったな」	「Your name is Rance, correct?」
+151050	Kesselring		「ランスと言ったな」	「Your name is Rance, correct?」
 
-151051	Rance	「あん？　初めて俺の名を呼んだな」	「Huh? First time calling my name.」
+151051	Rance		「あん？　初めて俺の名を呼んだな」	「Huh? First time calling my name.」
 
-151052	Kesselring	「君は君の望みを果たす為、	「To fulfill your own desires,
-151053	+	　沢山の者を犠牲にしている」	　you have sacrificed many people.」
+151052	Kesselring		「君は君の望みを果たす為、	「To fulfill your own desires,
+151053	+		　沢山の者を犠牲にしている」	　you have sacrificed many people.」
 
-151054	Kesselring	「この戦争にしろ、多くの死者が出る。	「This war will produce many deaths.
-151055	+	　君の指先一つで万という数が死ぬ。	　With a single flick of your finger, thousands die.
-151056	+	　そのことを君はどう思い、どう感じる」	　What do you think about that? How does it make you feel?」
+151054	Kesselring		「この戦争にしろ、多くの死者が出る。	「This war will produce many deaths.
+151055	+		　君の指先一つで万という数が死ぬ。	　With a single flick of your finger, thousands die.
+151056	+		　そのことを君はどう思い、どう感じる」	　What do you think about that? How does it make you feel?」
 
-151057	Rance	「はあっ？」	「Haa?」
+151057	Rance	だる顔	「はあっ？」	「Haa?」
 
-151058	Rance	「知るか、バーカ」	「Don't know, dumbass.」
+151058	Rance	基本	「知るか、バーカ」	「Don't know, dumbass.」
 
-151059	Kesselring	「……そうか」	「...I see.」
+151059	Kesselring	睨み	「……そうか」	「...I see.」
 
-151060	Rance	「ぐっ！？」	「Guh!?」
+151060	Rance	基本	「ぐっ！？」	「Guh!?」
 
-151061	-	ケッセルリンクから噴き出した殺気が	Killing intent erupted from Kesselring
-151062	+	ランス達に叩きつけられる。	and slammed into Rance and the others.
+151061	-		ケッセルリンクから噴き出した殺気が	Killing intent erupted from Kesselring
+151062	+		ランス達に叩きつけられる。	and slammed into Rance and the others.
 
-151063	Kesselring	「貴様のような、弱者――女性を踏みにじる者に	「I cannot lose to the likes of you―― a weakling who tramples on women.」
-151064	+	　私は負けるわけにはいかない」	
+151063	Kesselring	睨み	「貴様のような、弱者――女性を踏みにじる者に	「I cannot lose to the likes of you―― a weakling who tramples on women.」
+151064	+		　私は負けるわけにはいかない」	
 
-151065	Kesselring	「君にはファーレンの恨みもある……」	「I also have a grudge against you for Varen...」
+151065	Kesselring		「君にはファーレンの恨みもある……」	「I also have a grudge against you for Varen...」
 
-151066	Kesselring	「久しぶりに……	「It's been a while...
-151067	+	　怒りに身を任せて戦わせてもらおう」	　so I'll let myself fight with pure anger.」
+151066	Kesselring		「久しぶりに……	「It's been a while...
+151067	+		　怒りに身を任せて戦わせてもらおう」	　so I'll let myself fight with pure anger.」
 
-151068	Rance	「魔人の癖に生意気な」	「Acting cocky for a Fiend.」
+151068	Rance	だる顔	「魔人の癖に生意気な」	「Acting cocky for a Fiend.」
 
-151069	Rance	「世の女を救うのはこの俺様だーッ！」	「I'm the one who saves the women of this world!」
+151069	Rance	怒り	「世の女を救うのはこの俺様だーッ！」	「I'm the one who saves the women of this world!」
 
-151070	Kesselring	「……死ね」	「...Die.」
+151070	Kesselring	睨み	「……死ね」	「...Die.」

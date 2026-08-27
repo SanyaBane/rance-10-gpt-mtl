@@ -5,44 +5,44 @@
 * Crook Mofus	クルックー	Female
 * Oda Kouhime	香姫	Female
 
-39297	Rance	「……ん？　何だありゃ」	「...Hm? What's that?」
+39297	Rance	真剣	「……ん？　何だありゃ」	「...Hm? What's that?」
 
-39298	-	ふと、ランスの足が止まった。	Rance suddenly stopped.
+39298	-		ふと、ランスの足が止まった。	Rance suddenly stopped.
 
-39299	-	魔物兵だった。	They were monster soldiers.
-39300	+	それが、折り重なるようにして倒れている。	Piled up on top of each other, dead.
+39299	-		魔物兵だった。	They were monster soldiers.
+39300	+		それが、折り重なるようにして倒れている。	Piled up on top of each other, dead.
 
-39301	Kentou Kanami	「数は……だいたい、400くらい、だけど……」	「There are... about 400 of them, but...」
+39301	Kentou Kanami	基本	「数は……だいたい、400くらい、だけど……」	「There are... about 400 of them, but...」
 
-39302	Sill Plain	「お昼寝中……でしょうか？」	「Are they... taking a nap?」
+39302	Sill Plain	考え中	「お昼寝中……でしょうか？」	「Are they... taking a nap?」
 
-39303	Rance	「よーし……こっそり近寄って、	「Alright... let's sneak closer
-39304	+	　不意打ちでボスをぶっ殺すぞ」	　and ambush the boss.」
+39303	Rance	基本	「よーし……こっそり近寄って、	「Alright... let's sneak closer
+39304	+		　不意打ちでボスをぶっ殺すぞ」	　and ambush the boss.」
 
-39305	-	ランス達は手頃な草むら伝いに近寄ってみるが、	Rance and the others approached through the grass, but
-39306	+	魔軍に動きはない。	there was no movement from the Monster Army.
+39305	-		ランス達は手頃な草むら伝いに近寄ってみるが、	Rance and the others approached through the grass, but
+39306	+		魔軍に動きはない。	there was no movement from the Monster Army.
 
-39307	Rance	「…………なんか変だな？」	「............Something's off?」
+39307	Rance	だる顔	「…………なんか変だな？」	「............Something's off?」
 
-39308	Kentou Kanami	「……待ってランス。毒の臭いがする」	「...Wait, Rance. I smell poison.」
+39308	Kentou Kanami	基本	「……待ってランス。毒の臭いがする」	「...Wait, Rance. I smell poison.」
 
-39309	Rance	「はあ？　全然分からな……	「Huh? I don't smell anyth一
-39310	?	うぇっほ、げほがほ！」	Ugh, cough cough!」
+39309	Rance	真剣	「はあ？　全然分からな……	「Huh? I don't smell anyth一
+39310	?		うぇっほ、げほがほ！」	Ugh, cough cough!」
 
-39311	-	風に乗って、死臭と異臭がランスの鼻に直撃した。	The stench of death and a strange odor hit Rance on the wind.
+39311	-		風に乗って、死臭と異臭がランスの鼻に直撃した。	The stench of death and a strange odor hit Rance on the wind.
 
-39312	Rance	「げほっ、おぇっ……	「Cough, blegh...
-39313	+	　なんだ、あいつら死んでるのか」	　Are they all dead?」
+39312	Rance	驚き	「げほっ、おぇっ……	「Cough, blegh...
+39313	+		　なんだ、あいつら死んでるのか」	　Are they all dead?」
 
-39314	Crook Mofus	「そのようですね。死亡確認です」	「It appears so. Confirmed dead.」
+39314	Crook Mofus	基本	「そのようですね。死亡確認です」	「It appears so. Confirmed dead.」
 
-39315	Rance	「毒殺か……見ろ香ちゃん。	「Poisoned, huh... Look, Kou-chan.
-39316	+	　どいつもこいつも香ちゃんの団子食った時みたいに	　They're all foaming at the mouth just like when they ate your dumplings.
-39317	+	　口から泡吹いてるぞ。がははははは！」	　Gahahahaha！」
+39315	Rance	笑顔	「毒殺か……見ろ香ちゃん。	「Poisoned, huh... Look, Kou-chan.
+39316	+		　どいつもこいつも香ちゃんの団子食った時みたいに	　They're all foaming at the mouth just like when they ate your dumplings.
+39317	+		　口から泡吹いてるぞ。がははははは！」	　Gahahahaha！」
 
-39318	Oda Kouhime	「そっ、そんなにひどくないですー！」	「T-They're not that badー！」
+39318	Oda Kouhime	武装／うわーん	「そっ、そんなにひどくないですー！」	「T-They're not that badー！」
 
-39319	-	ランスは半泣きになった香姫にぺちぺち叩かれながら、	While getting lightly slapped by the teary-eyed Kou,
-39320	+	何事もなかったように進み始めた。	Rance continued forward as if nothing happened.
+39319	-		ランスは半泣きになった香姫にぺちぺち叩かれながら、	While getting lightly slapped by the teary-eyed Kou,
+39320	+		何事もなかったように進み始めた。	Rance continued forward as if nothing happened.
 
-39321	Sill Plain	「毒……誰がこんなに大勢、毒で倒したんでしょう」	「Poison... Who could have taken out so many with poison?」
+39321	Sill Plain	きょとん	「毒……誰がこんなに大勢、毒で倒したんでしょう」	「Poison... Who could have taken out so many with poison?」

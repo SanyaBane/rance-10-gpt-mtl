@@ -2,97 +2,97 @@
 * Satella	サテラ	Female
 * Monster Captain	汎用魔物隊長	Male
 
-101534	-	サテラが中庭に出て、	Satella came out to the courtyard,
-101535	+	ラカンの淹れた紅茶を飲んでいた。	drinking the black tea Rakan brewed.
+101534	-		サテラが中庭に出て、	Satella came out to the courtyard,
+101535	+		ラカンの淹れた紅茶を飲んでいた。	drinking the black tea Rakan brewed.
 
-101536	Satella	「んっ……」	「Nn...」
+101536	Satella	不安	「んっ……」	「Nn...」
 
-101537	Satella	「はあ……美味い……」	「Haa... Delicious...」
+101537	Satella	ふふん	「はあ……美味い……」	「Haa... Delicious...」
 
-101538	Monster Captain	「サテラ様、淑女として、	「Satella-sama, as a lady,
-101539	+	　美味い、ではなく、	　not 'delicious',
-101540	+	　美味しいと仰って下さい」	　please say 'tasty'.」
+101538	Monster Captain	基本	「サテラ様、淑女として、	「Satella-sama, as a lady,
+101539	+		　美味い、ではなく、	　not 'delicious',
+101540	+		　美味しいと仰って下さい」	　please say 'tasty'.」
 
-101541	Satella	「う、うるさいな……	「S-Shut up...
-101542	+	　お前とサテラとシーザーだけなんだ。	　It's just you, me, and Caesar here.
-101543	+	　別にいいだろ」	　It's fine.」
+101541	Satella	超テレ	「う、うるさいな……	「S-Shut up...
+101542	+		　お前とサテラとシーザーだけなんだ。	　It's just you, me, and Caesar here.
+101543	+		　別にいいだろ」	　It's fine.」
 
-101544	Satella	「ああ、しかし、本当に久しぶりに飲むな、	「Ah, but it's been so long since I drank your tea,
-101545	+	　お前の紅茶は……」	　this flavor...」
+101544	Satella	ふふん	「ああ、しかし、本当に久しぶりに飲むな、	「Ah, but it's been so long since I drank your tea,
+101545	+		　お前の紅茶は……」	　this flavor...」
 
-101546	Satella	「戦っている間、	「While fighting,
-101547	+	　この味がどれほど恋しかったか」	　how much I missed this taste.」
+101546	Satella		「戦っている間、	「While fighting,
+101547	+		　この味がどれほど恋しかったか」	　how much I missed this taste.」
 
-101548	Monster Captain	「それは光栄の極み」	「It is the greatest honor.」
+101548	Monster Captain	基本	「それは光栄の極み」	「It is the greatest honor.」
 
-101549	Satella	「ラカンほどではなくとも、	「Even if not as good as Rakan,
-101550	+	　紅茶を淹れられる部下が	　it would be nice to have a subordinate
-101551	+	　サテラにもいればいいんだがな」	　who can brew tea for me.」
+101549	Satella	思考	「ラカンほどではなくとも、	「Even if not as good as Rakan,
+101550	+		　紅茶を淹れられる部下が	　it would be nice to have a subordinate
+101551	+		　サテラにもいればいいんだがな」	　who can brew tea for me.」
 
-101552	Monster Captain	「そういう者を使徒にすれば宜しいのでは？」	「Wouldn't it be good to make such a person your apostle?」
+101552	Monster Captain	基本	「そういう者を使徒にすれば宜しいのでは？」	「Wouldn't it be good to make such a person your apostle?」
 
-101553	Satella	「ん、んーー……	「Nn, nnn...
-101554	+	　まあ、そうなんだが……」	　Well, yes, but...」
+101553	Satella	思考	「ん、んーー……	「Nn, nnn...
+101554	+		　まあ、そうなんだが……」	　Well, yes, but...」
 
-101555	Monster Captain	「……ああ、あの方でなくば意味ないのですか」	「...Ah, it has to be that person, doesn't it?」
+101555	Monster Captain	基本	「……ああ、あの方でなくば意味ないのですか」	「...Ah, it has to be that person, doesn't it?」
 
-101556	Satella	「ぶーーーっ！」	「Buuu!」
+101556	Satella	超テレ	「ぶーーーっ！」	「Buuu!」
 
-101557	-	サテラは紅茶を盛大に噴いた。	Satella spat out her tea spectacularly.
+101557	-		サテラは紅茶を盛大に噴いた。	Satella spat out her tea spectacularly.
 
-101558	Satella	「べべべ、別に今はあいつの話なんて……！」	「N-Not like I'm talking about him right now...!」
+101558	Satella	ツンデレ	「べべべ、別に今はあいつの話なんて……！」	「N-Not like I'm talking about him right now...!」
 
-101559	Monster Captain	「おや？　私は今、	「Oh? I only said 'that person' just now,
-101560	+	　あの方としか言っておりませんでしたが、	　yet you already thought of someone?」
-101561	+	　誰か思い当たる方でも？」	
+101559	Monster Captain	基本	「おや？　私は今、	「Oh? I only said 'that person' just now,
+101560	+		　あの方としか言っておりませんでしたが、	　yet you already thought of someone?」
+101561	+		　誰か思い当たる方でも？」	
 
-101562	Satella	「なっ、あっ……！」	「W-Wha...!」
+101562	Satella	超テレ	「なっ、あっ……！」	「W-Wha...!」
 
-101563	Satella	「くっ！　思い出した！	「Kuh! I remembered!
-101564	+	　お前はそういう奴だったな！」	　You're that kind of guy!」
+101563	Satella	ぐぬぬ	「くっ！　思い出した！	「Kuh! I remembered!
+101564	+		　お前はそういう奴だったな！」	　You're that kind of guy!」
 
-101565	Satella	「いつもいつもそうやって、	「You always do this,
-101566	+	　サテラを小馬鹿にする嫌な奴だ……！」	　mocking Satella like this...!」
+101565	Satella		「いつもいつもそうやって、	「You always do this,
+101566	+		　サテラを小馬鹿にする嫌な奴だ……！」	　mocking Satella like this...!」
 
-101567	Monster Captain	「ふふ……」	「Fufu...」
+101567	Monster Captain	基本	「ふふ……」	「Fufu...」
 
-101568	Monster Captain	「ああ、この城は……	「Ah, this castle...
-101569	+	　まるであの頃の魔王城のようですな」	　is just like the Demon King castle back then.」
+101568	Monster Captain		「ああ、この城は……	「Ah, this castle...
+101569	+		　まるであの頃の魔王城のようですな」	　is just like the Demon King castle back then.」
 
-101570	Monster Captain	「まだあの方がご存命だった頃の……」	「When that person was still alive...」
+101570	Monster Captain		「まだあの方がご存命だった頃の……」	「When that person was still alive...」
 
-101571	Satella	「…………」	「............」
+101571	Satella		「…………」	「............」
 
-101572	Satella	「ふんっ」	「Hmph.」
+101572	Satella		「ふんっ」	「Hmph.」
 
-101573	Monster Captain	「この場に……	「It is regrettable...
-101574	+	　ホーネット様がおられないのが、	　that Hornet-sama is not here
-101575	+	　残念でなりません……」	　at this moment...」
+101573	Monster Captain		「この場に……	「It is regrettable...
+101574	+		　ホーネット様がおられないのが、	　that Hornet-sama is not here
+101575	+		　残念でなりません……」	　at this moment...」
 
-101576	Satella	「なら、取り戻すまでだ」	「Then we just have to take it back.」
+101576	Satella		「なら、取り戻すまでだ」	「Then we just have to take it back.」
 
-101577	Monster Captain	「ええ、そうしたいものです」	「Yes, that is what I desire.」
+101577	Monster Captain		「ええ、そうしたいものです」	「Yes, that is what I desire.」
 
-101578	Satella	「したいではない。	「Not desire.
-101579	+	　絶対に、するんだ」	　We will definitely do it.」
+101578	Satella	怒り	「したいではない。	「Not desire.
+101579	+		　絶対に、するんだ」	　We will definitely do it.」
 
-101580	Satella	「ラカン、そのときはお前にも、	「Rakan, when that time comes,
-101581	+	　働いてもらうぞ」	　you will work too.」
+101580	Satella	思考	「ラカン、そのときはお前にも、	「Rakan, when that time comes,
+101581	+		　働いてもらうぞ」	　you will work too.」
 
-101582	Monster Captain	「はい」	「Yes.」
+101582	Monster Captain	基本	「はい」	「Yes.」
 
-101583	Monster Captain~	（もちろん……	（Of course...
-101584	+	　存分に働きますとも……）	　I will work to my fullest...）
+101583	Monster Captain~		（もちろん……	（Of course...
+101584	+		　存分に働きますとも……）	　I will work to my fullest...）
 
-101585	-	内心でラカンが思いを更に強める。	Rakan strengthened his resolve deep inside.
+101585	-		内心でラカンが思いを更に強める。	Rakan strengthened his resolve deep inside.
 
-101586	-	それはサテラが考えているよりも、	It was far stronger and more tragic
-101587	+	更に強く、そしてとても悲愴な覚悟だった。	than what Satella imagined.
+101586	-		それはサテラが考えているよりも、	It was far stronger and more tragic
+101587	+		更に強く、そしてとても悲愴な覚悟だった。	than what Satella imagined.
 
-101588	Monster Captain	「さあ、サテラ様。	「Now, Satella-sama.
-101589	+	　カップが空いておりますぞ。	　Your cup is empty.
-101590	+	　今日は今までの分飲んで下さい」	　Please drink today's share.」
+101588	Monster Captain		「さあ、サテラ様。	「Now, Satella-sama.
+101589	+		　カップが空いておりますぞ。	　Your cup is empty.
+101590	+		　今日は今までの分飲んで下さい」	　Please drink today's share.」
 
-101591	Satella	「そ、そんなに飲めないぞ……！」	「I-I can't drink that much...!」
+101591	Satella	超テレ	「そ、そんなに飲めないぞ……！」	「I-I can't drink that much...!」
 
-101592	Monster Captain	「ふふふ」	「Fufufu.」
+101592	Monster Captain	基本	「ふふふ」	「Fufufu.」

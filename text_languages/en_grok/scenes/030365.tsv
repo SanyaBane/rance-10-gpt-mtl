@@ -4,138 +4,138 @@
 * Miracle Tor	ミラクル	Female
 * Rance	ランス	Male
 
-3115	Pi-R	「まったく……仕組みの解析もせずに、	「Jeez...... Activating and operating it with magic
-3116	+	　魔法で強引に起動させて操作するとか……	　without even analyzing the mechanism......
-3117	+	　意味が分からないよ」	　I don't get it.」
+3115	Pi-R	基本	「まったく……仕組みの解析もせずに、	「Jeez...... Activating and operating it with magic
+3116	+		　魔法で強引に起動させて操作するとか……	　without even analyzing the mechanism......
+3117	+		　意味が分からないよ」	　I don't get it.」
 
-3118	Root Ari	「あら、パイアール。研究？」	「Oh, Pi-R. Researching?」
+3118	Root Ari		「あら、パイアール。研究？」	「Oh, Pi-R. Researching?」
 
-3119	Pi-R	「まぁね。あいつら馬鹿だから、	「Yeah. Those guys are idiots,
-3120	+	　PC用のガイド機能でも作ろうかと思って。	　so I thought I'd make a guide function for PCs.
-3121	+	　これでPCを使える奴が少しは増えるはず」	　This should let more people use them.」
+3119	Pi-R		「まぁね。あいつら馬鹿だから、	「Yeah. Those guys are idiots,
+3120	+		　PC用のガイド機能でも作ろうかと思って。	　so I thought I'd make a guide function for PCs.
+3121	+		　これでPCを使える奴が少しは増えるはず」	　This should let more people use them.」
 
-3122	Root Ari	「そう……いい子ね。	「I see...... Good boy.
-3123	+	　みんなのために頑張ってくれてるのね」	　You're working hard for everyone.」
+3122	Root Ari	笑顔	「そう……いい子ね。	「I see...... Good boy.
+3123	+		　みんなのために頑張ってくれてるのね」	　You're working hard for everyone.」
 
-3124	Pi-R	「え、えへへ……うん。頑張るよ。	「E-ehehe...... Yeah. I'll do my best.
-3125	+	　姉さんがそう言ってくれるなら」	　If sister says so.」
+3124	Pi-R	基本	「え、えへへ……うん。頑張るよ。	「E-ehehe...... Yeah. I'll do my best.
+3125	+		　姉さんがそう言ってくれるなら」	　If sister says so.」
 
-3126	Root Ari	「ふふ……じゃあ、お茶淹れましょうか。	「Fufu...... Then shall I make some tea?
-3127	+	　って……お茶、飲めるのかしら」	　Wait...... Can you even drink tea?」
+3126	Root Ari		「ふふ……じゃあ、お茶淹れましょうか。	「Fufu...... Then shall I make some tea?
+3127	+		　って……お茶、飲めるのかしら」	　Wait...... Can you even drink tea?」
 
-3128	Pi-R	「大丈夫だよ。味覚センサーは機能してるし、	「It's fine. My taste sensors work,
-3129	+	　摂取したら成分分解して動力に転換するから」	　and I convert the components into energy.」
+3128	Pi-R		「大丈夫だよ。味覚センサーは機能してるし、	「It's fine. My taste sensors work,
+3129	+		　摂取したら成分分解して動力に転換するから」	　and I convert the components into energy.」
 
-3130	Root Ari	「よく分からないけど……	「I don't really understand but......
-3131	+	　飲めるのなら淹れるわね。ええと……」	　if you can drink it, I'll make some. Um......」
+3130	Root Ari		「よく分からないけど……	「I don't really understand but......
+3131	+		　飲めるのなら淹れるわね。ええと……」	　if you can drink it, I'll make some. Um......」
 
-3132	-	ルートは立ち上がってお茶の支度をはじめ、	Root stood up and began preparing tea,
-3133	+	お茶請けを探して戸棚を開けて……	then opened the cupboard looking for snacks......
+3132	-		ルートは立ち上がってお茶の支度をはじめ、	Root stood up and began preparing tea,
+3133	+		お茶請けを探して戸棚を開けて……	then opened the cupboard looking for snacks......
 
-3134	?	「チュウチュウ！」	「Chuu chuu!」
+3134	?		「チュウチュウ！」	「Chuu chuu!」
 
-3135	Root Ari	「きゃっ！？」	「Kyaa!?」
+3135	Root Ari	驚き	「きゃっ！？」	「Kyaa!?」
 
-3136	-	突然飛び出したネズミに驚き、	Surprised by the mouse that suddenly jumped out,
-3137	+	飛び退いた拍子に壁に頭が激突した。	she jumped back and hit her head hard on the wall.
+3136	-		突然飛び出したネズミに驚き、	Surprised by the mouse that suddenly jumped out,
+3137	+		飛び退いた拍子に壁に頭が激突した。	she jumped back and hit her head hard on the wall.
 
-3138	Root Ari	「っ、ぁ……………」	「Nngh, ah............」
+3138	Root Ari	哀しい	「っ、ぁ……………」	「Nngh, ah............」
 
-3139	Pi-R	「わっ！　姉さん大丈夫？	「Wah! Sister, are you okay?
-3140	+	　………………姉さん！？」	　............Sister!?」
+3139	Pi-R	基本	「わっ！　姉さん大丈夫？	「Wah! Sister, are you okay?
+3140	+		　………………姉さん！？」	　............Sister!?」
 
-3141	-	ルートは……呼吸を、していなかった。	Root...... wasn't breathing.
+3141	-		ルートは……呼吸を、していなかった。	Root...... wasn't breathing.
 
-3142	Miracle Tor	「……………………」	「........................」
+3142	Miracle Tor	真剣	「……………………」	「........................」
 
-3143	Pi-R	「治せ！　早く、姉さんを！！」	「Fix her! Hurry, save my sister!!」
+3143	Pi-R	基本	「治せ！　早く、姉さんを！！」	「Fix her! Hurry, save my sister!!」
 
-3144	Rance	「ええい、やかましいな。	「So noisy.
-3145	+	　気絶してるだけじゃないのか」	　Isn't she just unconscious?」
+3144	Rance	だる顔	「ええい、やかましいな。	「So noisy.
+3145	+		　気絶してるだけじゃないのか」	　Isn't she just unconscious?」
 
-3146	Pi-R	「姉さんのバイタルは常にモニターしてるんだ！	「I constantly monitor my sister's vitals!
-3147	+	　一瞬で消失した！	　They vanished in an instant!
-3148	+	　普通の人間の生体反応じゃない！」	　This isn't a normal human reaction!」
+3146	Pi-R	基本	「姉さんのバイタルは常にモニターしてるんだ！	「I constantly monitor my sister's vitals!
+3147	+		　一瞬で消失した！	　They vanished in an instant!
+3148	+		　普通の人間の生体反応じゃない！」	　This isn't a normal human reaction!」
 
-3149	Miracle Tor	「魔人……ではなかったな。パイアール・アリ。	「Not a Fiend...... I see. Pi-R Ari.
-3150	+	　お前の危惧も対処も正しい。	　Your concern and response are correct.
-3151	+	　余を呼びつけた非礼はそれで許そう」	　I'll forgive the rudeness of summoning me for this.」
+3149	Miracle Tor	目閉じ	「魔人……ではなかったな。パイアール・アリ。	「Not a Fiend...... I see. Pi-R Ari.
+3150	+		　お前の危惧も対処も正しい。	　Your concern and response are correct.
+3151	+		　余を呼びつけた非礼はそれで許そう」	　I'll forgive the rudeness of summoning me for this.」
 
-3152	Rance	「まあ……戻せるならさっさと戻せ。	「Well...... if you can bring her back, do it quickly.
-3153	+	　こんないい身体の美人が死ぬなんてもったいない」	　It'd be a waste for a beauty with such a great body to die.」
+3152	Rance	真剣	「まあ……戻せるならさっさと戻せ。	「Well...... if you can bring her back, do it quickly.
+3153	+		　こんないい身体の美人が死ぬなんてもったいない」	　It'd be a waste for a beauty with such a great body to die.」
 
-3154	Miracle Tor	「死ぬ……とは少し違うが。	「It's not exactly death, but
-3155	+	　対処さえ正しければ危険な状況ではない」	　if handled correctly it's not dangerous.」
+3154	Miracle Tor	基本	「死ぬ……とは少し違うが。	「It's not exactly death, but
+3155	+		　対処さえ正しければ危険な状況ではない」	　if handled correctly it's not dangerous.」
 
-3156	-	ミラクルは何事か呟き、魔法を発動させた。	Miracle muttered something and cast a spell.
+3156	-		ミラクルは何事か呟き、魔法を発動させた。	Miracle muttered something and cast a spell.
 
-3157	Miracle Tor	「ふむ…………そこか」	「Hmm............ There it is.」
+3157	Miracle Tor		「ふむ…………そこか」	「Hmm............ There it is.」
 
-3158	-	そして、部屋の何もない空間に	Then she pointed at an empty space in the room
-3159	+	指を向け、くるりと円を描く。	and drew a circle with her finger.
+3158	-		そして、部屋の何もない空間に	Then she pointed at an empty space in the room
+3159	+		指を向け、くるりと円を描く。	and drew a circle with her finger.
 
-3160	Root Ari	「あら？　えぇと…………私は……」	「Oh? Um............ I......」
+3160	Root Ari	幽体離脱	「あら？　えぇと…………私は……」	「Oh? Um............ I......」
 
-3161	Pi-R	「姉さん！？」	「Sister!?」
+3161	Pi-R	基本	「姉さん！？」	「Sister!?」
 
-3162	Rance	「げげっ、幽霊！？」	「Geh, a ghost!?」
+3162	Rance	驚き	「げげっ、幽霊！？」	「Geh, a ghost!?」
 
-3163	Miracle Tor	「魂の視覚化だ。まあ、そう違いはないが……	「It's a visualization of the soul. Well, close enough......
-3164	+	　ルート・アリの身体にそれを押し込んでみろ」	　Push it back into Root Ari's body.」
+3163	Miracle Tor	目閉じ	「魂の視覚化だ。まあ、そう違いはないが……	「It's a visualization of the soul. Well, close enough......
+3164	+		　ルート・アリの身体にそれを押し込んでみろ」	　Push it back into Root Ari's body.」
 
-3165	Rance	「むう……やってみるか。	「Muu...... I'll give it a try.
-3166	+	　美人がもったいないしな」	　It'd be a waste to lose such a beauty.」
+3165	Rance	真剣	「むう……やってみるか。	「Muu...... I'll give it a try.
+3166	+		　美人がもったいないしな」	　It'd be a waste to lose such a beauty.」
 
-3167	Root Ari	「あら。あらあらあら」	「Oh. Oh my oh my.」
+3167	Root Ari	幽体離脱	「あら。あらあらあら」	「Oh. Oh my oh my.」
 
-3168	-	ぐいぐいとルートの魂は身体に押し込まれた。	Root's soul was firmly pushed back into her body.
+3168	-		ぐいぐいとルートの魂は身体に押し込まれた。	Root's soul was firmly pushed back into her body.
 
-3169	Root Ari	「あら？　ええと……私、何がどうなって……」	「Oh? Um...... What just happened to me......」
+3169	Root Ari	基本	「あら？　ええと……私、何がどうなって……」	「Oh? Um...... What just happened to me......」
 
-3170	Pi-R	「姉さん！！！　姉さん、よかった……！	「Sister!!! Sister, thank goodness......!
-3171	+	　無事で…………！」	　You're safe......!」
+3170	Pi-R		「姉さん！！！　姉さん、よかった……！	「Sister!!! Sister, thank goodness......!
+3171	+		　無事で…………！」	　You're safe......!」
 
-3172	Rance	「ふう。とりあえず蘇ったのはよかったが。	「Phew. Good that she's back, but
-3173	+	　なんなんだ、これは？」	　what the hell was that?」
+3172	Rance	真剣	「ふう。とりあえず蘇ったのはよかったが。	「Phew. Good that she's back, but
+3173	+		　なんなんだ、これは？」	　what the hell was that?」
 
-3174	Miracle Tor	「ルート・アリの肉体は、少々特殊でな」	「Root Ari's body is a bit special.」
+3174	Miracle Tor	目閉じ	「ルート・アリの肉体は、少々特殊でな」	「Root Ari's body is a bit special.」
 
-3175	Rance	「……ええと、なんかマジックアイテム	「......Um, she used some magic item
-3176	+	　使ってたな」	　I think.」
+3175	Rance	だる顔	「……ええと、なんかマジックアイテム	「......Um, she used some magic item
+3176	+		　使ってたな」	　I think.」
 
-3177	Miracle Tor	「ほう、珍しく覚えていたなカオスマスター。	「Oh, you actually remembered, Chaos Master.
-3178	+	　現在、ルート・アリはIPボディの身体に	　Right now Root Ari's soul is inside an IP body
-3179	+	　本人の魂が入り込んで機能している」	　and operating it.」
+3177	Miracle Tor	基本	「ほう、珍しく覚えていたなカオスマスター。	「Oh, you actually remembered, Chaos Master.
+3178	+		　現在、ルート・アリはIPボディの身体に	　Right now Root Ari's soul is inside an IP body
+3179	+		　本人の魂が入り込んで機能している」	　and operating it.」
 
-3180	Miracle Tor	「だが本来、魂は本人の肉体の中で定着するものだ。	「But normally a soul settles in its original body.
-3181	+	　同一に極めて近いとはいえ、異物には違いない」	　Even if extremely similar, it's still a foreign object.」
+3180	Miracle Tor		「だが本来、魂は本人の肉体の中で定着するものだ。	「But normally a soul settles in its original body.
+3181	+		　同一に極めて近いとはいえ、異物には違いない」	　Even if extremely similar, it's still a foreign object.」
 
-3182	Miracle Tor	「だから、何かの折に魂が抜けてしまう事がある。	「That's why the soul can sometimes slip out.
-3183	+	　時には、衝撃を強めに受けるとか、その程度でもな」	　Even from a relatively strong impact.」
+3182	Miracle Tor		「だから、何かの折に魂が抜けてしまう事がある。	「That's why the soul can sometimes slip out.
+3183	+		　時には、衝撃を強めに受けるとか、その程度でもな」	　Even from a relatively strong impact.」
 
-3184	Rance	「ふむう……壊れ物って感じだな」	「Hmmm...... She's like a fragile item.」
+3184	Rance	だる顔	「ふむう……壊れ物って感じだな」	「Hmmm...... She's like a fragile item.」
 
-3185	Pi-R	「注意するのは物理的な衝撃だけでいいのか？」	「So I only need to watch out for physical impacts?」
+3185	Pi-R	基本	「注意するのは物理的な衝撃だけでいいのか？」	「So I only need to watch out for physical impacts?」
 
-3186	Miracle Tor	「基本的にはそうだな。	「Basically yes.
-3187	+	　魂に関しては扱いが難しい。	　Souls are difficult to handle.
-3188	+	　数値化や定義に関しては、貴様の分野だな？」	　Quantifying and defining them is your area, right?」
+3186	Miracle Tor		「基本的にはそうだな。	「Basically yes.
+3187	+		　魂に関しては扱いが難しい。	　Souls are difficult to handle.
+3188	+		　数値化や定義に関しては、貴様の分野だな？」	　Quantifying and defining them is your area, right?」
 
-3189	Pi-R	「ふん、いいさ。	「Hmph, fine.
-3190	+	　とりあえずは生命の情報体……魂を探査して、	　First I'll make something that can detect
-3191	+	　抜けたときにキャッチできる物を作る所からだな」	　and catch the soul when it slips out.」
+3189	Pi-R		「ふん、いいさ。	「Hmph, fine.
+3190	+		　とりあえずは生命の情報体……魂を探査して、	　First I'll make something that can detect
+3191	+		　抜けたときにキャッチできる物を作る所からだな」	　and catch the soul when it slips out.」
 
-3192	Miracle Tor	「ほう……魔法に劣らず何でもアリか。	「Hmm...... You can do just about anything, rivaling magic.
-3193	+	　ははははは！　面白い」	　Hahahahaha! How amusing.」
+3192	Miracle Tor	嘲笑	「ほう……魔法に劣らず何でもアリか。	「Hmm...... You can do just about anything, rivaling magic.
+3193	+		　ははははは！　面白い」	　Hahahahaha! How amusing.」
 
-3194	Root Ari	「えぇと……何かあったのかしら……」	「Um...... Did something happen......」
+3194	Root Ari	驚き	「えぇと……何かあったのかしら……」	「Um...... Did something happen......」
 
-3195	Root Ari	「それで……パイアール？	「So...... Pi-R?
-3196	+	　その虫取り網みたいなのは……」	　What is that bug net thing......」
+3195	Root Ari	基本	「それで……パイアール？	「So...... Pi-R?
+3196	+		　その虫取り網みたいなのは……」	　What is that bug net thing......」
 
-3197	Pi-R	「これで姉さんを守れるんだ！　任せて！」	「This will protect you, sister! Leave it to me!」
+3197	Pi-R		「これで姉さんを守れるんだ！　任せて！」	「This will protect you, sister! Leave it to me!」
 
-3198	Root Ari	「…………？？？？」	「............????」
+3198	Root Ari	驚き	「…………？？？？」	「............????」
 
-3199	-	パイアールロボは当分、ルートから離れなかったが、	Pi-R Robot wouldn't leave Root's side for a while,
-3200	+	それはそれでいつもの事だった。	but that was pretty normal for him.
+3199	-		パイアールロボは当分、ルートから離れなかったが、	Pi-R Robot wouldn't leave Root's side for a while,
+3200	+		それはそれでいつもの事だった。	but that was pretty normal for him.

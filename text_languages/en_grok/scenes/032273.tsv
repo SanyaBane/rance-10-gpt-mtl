@@ -2,70 +2,70 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-135518	Rance	「よーし、魔軍の攻撃が止んだぞ。	「Alright, the Monster Army's attacks have stopped.
-135519	+	　休憩だー」	　Break time!」
+135518	Rance	基本	「よーし、魔軍の攻撃が止んだぞ。	「Alright, the Monster Army's attacks have stopped.
+135519	+		　休憩だー」	　Break time!」
 
-135520	-	ランスの号令と共に、	At Rance's command,
-135521	+	皆が思い思いの場所に腰を下ろす。	everyone sat down wherever they liked.
+135520	-		ランスの号令と共に、	At Rance's command,
+135521	+		皆が思い思いの場所に腰を下ろす。	everyone sat down wherever they liked.
 
-135522	Rance~	（うーん、分かっていたが、	（Hmm, I knew it,
-135523	+	　敵の攻撃がどんどん激しくなるな）	　the enemy's attacks are getting fiercer.）
+135522	Rance~	真剣	（うーん、分かっていたが、	（Hmm, I knew it,
+135523	+		　敵の攻撃がどんどん激しくなるな）	　the enemy's attacks are getting fiercer.）
 
-135524	-	ここまで来た仲間達、	The comrades who had come this far
-135525	+	その誰もが疲労困憊の表情を浮かべていた。	all had exhausted expressions.
-135526	+	中には気を失ったように眠る者までいる。	Some were even sleeping as if unconscious.
+135524	-		ここまで来た仲間達、	The comrades who had come this far
+135525	+		その誰もが疲労困憊の表情を浮かべていた。	all had exhausted expressions.
+135526	+		中には気を失ったように眠る者までいる。	Some were even sleeping as if unconscious.
 
-135527	Rance	「む？」	「Mu?」
+135527	Rance		「む？」	「Mu?」
 
-135528	Rance	「サテラ、なにしてるんだ？」	「Satella, what are you doing?」
+135528	Rance		「サテラ、なにしてるんだ？」	「Satella, what are you doing?」
 
-135529	Satella	「……見て分からないのか？	「...Can't you tell by looking?
-135530	+	　新しいガーディアンを作ってるんだ」	　I'm making a new Guardian.」
+135529	Satella	基本	「……見て分からないのか？	「...Can't you tell by looking?
+135530	+		　新しいガーディアンを作ってるんだ」	　I'm making a new Guardian.」
 
-135531	Rance	「それはいいが……	「That's fine but...
-135532	+	　休憩せんのか？」	　Aren't you going to rest?」
+135531	Rance		「それはいいが……	「That's fine but...
+135532	+		　休憩せんのか？」	　Aren't you going to rest?」
 
-135533	Satella	「お前も分かってるだろう。	「You know it too.
-135534	+	　今はピンチなんだ」	　We're in a pinch right now.」
+135533	Satella	不安	「お前も分かってるだろう。	「You know it too.
+135534	+		　今はピンチなんだ」	　We're in a pinch right now.」
 
-135535	Satella	「なら、その分サテラが頑張らないと……」	「So Satella has to work harder...」
+135535	Satella		「なら、その分サテラが頑張らないと……」	「So Satella has to work harder...」
 
-135536	Rance	「……ふーん、無理しおって」	「...Hmph, pushing yourself.」
+135536	Rance	真剣	「……ふーん、無理しおって」	「...Hmph, pushing yourself.」
 
-135537	Rance	「…………」	「............」
+135537	Rance	だる顔	「…………」	「............」
 
-135538	Rance	「なんか手伝ってやろうか？」	「Want me to help with something?」
+135538	Rance	真剣	「なんか手伝ってやろうか？」	「Want me to help with something?」
 
-135539	Satella	「いい。	「No.
-135540	+	　というか触るな、邪魔になる」	　Rather, don't touch, you'll get in the way.」
+135539	Satella	思考	「いい。	「No.
+135540	+		　というか触るな、邪魔になる」	　Rather, don't touch, you'll get in the way.」
 
-135541	Rance	「むむ」	「Mumu.」
+135541	Rance	基本	「むむ」	「Mumu.」
 
-135542	Satella	「それより……	「More importantly...
-135543	+	　ランス、お前も無理するなよ」	　Rance, don't push yourself either.」
+135542	Satella	不安	「それより……	「More importantly...
+135543	+		　ランス、お前も無理するなよ」	　Rance, don't push yourself either.」
 
-135544	Rance	「心配いらん。	「No need to worry.
-135545	+	　キツくなったら帰るわ」	　If it gets too tough I'll go back.」
+135544	Rance	基本	「心配いらん。	「No need to worry.
+135545	+		　キツくなったら帰るわ」	　If it gets too tough I'll go back.」
 
-135546	Satella	「ふん、そうかも知れんがな」	「Hmph, maybe.」
+135546	Satella		「ふん、そうかも知れんがな」	「Hmph, maybe.」
 
-135547	Satella	「お前はサテラの使徒なんだ。	「You are Satella's apostle.
-135548	+	　使徒になる前に死ぬような間抜けだけはするな」	　Don't die like an idiot before becoming one.」
+135547	Satella	思考	「お前はサテラの使徒なんだ。	「You are Satella's apostle.
+135548	+		　使徒になる前に死ぬような間抜けだけはするな」	　Don't die like an idiot before becoming one.」
 
-135549	Satella	「そうだ、なんなら今、使徒になるか？	「Right, how about becoming an apostle right now?
-135550	+	　使徒になれば今より強くなる。	　You'll get stronger than now.
-135551	+	　この戦いだってずっと楽に……」	　This battle would be much easier...」
+135549	Satella	魔人顔	「そうだ、なんなら今、使徒になるか？	「Right, how about becoming an apostle right now?
+135550	+		　使徒になれば今より強くなる。	　You'll get stronger than now.
+135551	+		　この戦いだってずっと楽に……」	　This battle would be much easier...」
 
-135552	Rance	「必要ない。	「Not necessary.
-135553	+	　俺様は今の時点で最強だからな」	　I'm already the strongest as I am.」
+135552	Rance	基本	「必要ない。	「Not necessary.
+135553	+		　俺様は今の時点で最強だからな」	　I'm already the strongest as I am.」
 
-135554	Satella	「…………」	「............」
+135554	Satella	思考	「…………」	「............」
 
-135555	Satella	「分かった……	「Understood...
-135556	+	　サテラは話の分かる主だからな、	　Satella is an understanding master,
-135557	+	　お前の意思を尊重してやる」	　so I'll respect your will.」
+135555	Satella	不安	「分かった……	「Understood...
+135556	+		　サテラは話の分かる主だからな、	　Satella is an understanding master,
+135557	+		　お前の意思を尊重してやる」	　so I'll respect your will.」
 
-135558	Satella	「ただし、死んだら絶対に許さないからな。	「However, I won't forgive you if you die.
-135559	+	　それだけは忘れるな」	　Don't forget that.」
+135558	Satella	怒り	「ただし、死んだら絶対に許さないからな。	「However, I won't forgive you if you die.
+135559	+		　それだけは忘れるな」	　Don't forget that.」
 
-135560	Rance	「ああ、はいはい」	「Yeah, yeah.」
+135560	Rance	基本	「ああ、はいはい」	「Yeah, yeah.」

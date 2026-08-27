@@ -2,202 +2,202 @@
 * Tokugawa Tone	深根２	Female
 * El Mofus	エール２	Player's choice
 
-205263	Tokugawa Tone	「あ……＜エール＞ちゃんだ」	「Ah... It's ＜エール＞-chan.」
+205263	Tokugawa Tone	基本	「あ……＜エール＞ちゃんだ」	「Ah... It's ＜エール＞-chan.」
 
-205264	-	あなたの前に現れたのは深根だった。	The one who appeared before you was Tone.
+205264	-		あなたの前に現れたのは深根だった。	The one who appeared before you was Tone.
 
-205265	Tokugawa Tone	「どーしたの？　こんな時間に」	「What's wrong? At this hour.」
-205266	+	「ふーん。	「Hmm.
-205267	+	　じゃあ、私と一緒だ」	　Then we're the same.」
+205265	Tokugawa Tone		「どーしたの？　こんな時間に」	「What's wrong? At this hour.」
+205266	+	笑顔	「ふーん。	「Hmm.
+205267	+		　じゃあ、私と一緒だ」	　Then we're the same.」
 
-205268	Tokugawa Tone	「昼間に寝すぎて、ちっとも眠れない」	「I slept too much during the day so I can't sleep at all.」
+205268	Tokugawa Tone	基本	「昼間に寝すぎて、ちっとも眠れない」	「I slept too much during the day so I can't sleep at all.」
 
-205269	Tokugawa Tone	「眠れるまで、私も一緒にいていい？」	「Can I stay with you until I can sleep?」
+205269	Tokugawa Tone		「眠れるまで、私も一緒にいていい？」	「Can I stay with you until I can sleep?」
 
-205270	Tokugawa Tone	「……むふー」	「...Mufu~」
+205270	Tokugawa Tone	笑顔	「……むふー」	「...Mufu~」
 
-205271	-	あなたが頷くと、深根は嬉しそうに	When you nod, Tone happily
-205272	+	向かいのソファーに腰を下ろした。	sat down on the sofa across from you.
+205271	-		あなたが頷くと、深根は嬉しそうに	When you nod, Tone happily
+205272	+		向かいのソファーに腰を下ろした。	sat down on the sofa across from you.
 
-205273	Tokugawa Tone	「……晩ご飯美味しかったね」	「...The dinner was delicious, wasn't it?」
+205273	Tokugawa Tone		「……晩ご飯美味しかったね」	「...The dinner was delicious, wasn't it?」
 
-205274	El Mofus	「…………。」	「............」
+205274	El Mofus	基本	「…………。」	「............」
 
-205275	Tokugawa Tone	「温泉も気持ち良かったねぇ……」	「The hot spring felt really good too...」
+205275	Tokugawa Tone	笑顔	「温泉も気持ち良かったねぇ……」	「The hot spring felt really good too...」
 
-205276	-	ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
-205277	+	二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
+205276	-		ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
+205277	+		二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
 
-205278	-	しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
-205279	+	むしろ落ち着くとあなたは思った。	In fact, you feel calm.
+205278	-		しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
+205279	+		むしろ落ち着くとあなたは思った。	In fact, you feel calm.
 
-205280	-	なんとなく、	Somehow,
-205281	+	まったりとした時間が流れる。	a relaxed time flows gently.
+205280	-		なんとなく、	Somehow,
+205281	+		まったりとした時間が流れる。	a relaxed time flows gently.
 
-205282	Tokugawa Tone	「あ、そーいえば」	「Ah, by the way.」
+205282	Tokugawa Tone	基本	「あ、そーいえば」	「Ah, by the way.」
 
-205283	Tokugawa Tone	「私、色々と考えて、	「After thinking about a lot of things,
-205284	+	　この旅の間に死なないことにした」	　I decided not to die during this trip.」
+205283	Tokugawa Tone		「私、色々と考えて、	「After thinking about a lot of things,
+205284	+		　この旅の間に死なないことにした」	　I decided not to die during this trip.」
 
-205285	-	深根は突然、突拍子もないことを言い出した。	Tone suddenly said something outrageous.
+205285	-		深根は突然、突拍子もないことを言い出した。	Tone suddenly said something outrageous.
 
-205286	Tokugawa Tone	「あのね、私の巫女としての力って、	「You know, my power as a shrine maiden
-205287	+	　相手を問答無用で正気に戻す力なの」	　forces anyone back to sanity without question.」
+205286	Tokugawa Tone		「あのね、私の巫女としての力って、	「You know, my power as a shrine maiden
+205287	+		　相手を問答無用で正気に戻す力なの」	　forces anyone back to sanity without question.」
 
-205288	Tokugawa Tone	「同じ力を持つ人は今まで、	「People with the same power before
-205289	+	　暴れる化け物を相手に抱かれることで鎮める、	　calmed rampaging monsters by being embraced by them,
-205290	+	　そういう使い方をしてきたって」	　that's how it was used.」
+205288	Tokugawa Tone		「同じ力を持つ人は今まで、	「People with the same power before
+205289	+		　暴れる化け物を相手に抱かれることで鎮める、	　calmed rampaging monsters by being embraced by them,
+205290	+		　そういう使い方をしてきたって」	　that's how it was used.」
 
-205291	Tokugawa Tone	「で、危険度はその相手の	「The danger depends on the opponent's
-205292	+	　狂気度や力の差によって違うんだけど……」	　level of madness and power difference...」
+205291	Tokugawa Tone		「で、危険度はその相手の	「The danger depends on the opponent's
+205292	+		　狂気度や力の差によって違うんだけど……」	　level of madness and power difference...」
 
-205293	Tokugawa Tone	「相手が魔王なら確実に、私は死ぬんだって」	「If the opponent is the Demon King, I will definitely die.」
+205293	Tokugawa Tone		「相手が魔王なら確実に、私は死ぬんだって」	「If the opponent is the Demon King, I will definitely die.」
 
-205294	Tokugawa Tone	「セックス自体、したことないから、	「I've never had sex before,
-205295	+	　実際にどうなるのかって私は知らないけど」	　so I don't know exactly what would happen.」
+205294	Tokugawa Tone		「セックス自体、したことないから、	「I've never had sex before,
+205295	+		　実際にどうなるのかって私は知らないけど」	　so I don't know exactly what would happen.」
 
-205296	-	深根は魔王に抱かれると、死ぬ。	Tone dies if embraced by the Demon King.
-205297	+	それはあなたもまったく知らなかったことだった。	You had no idea about that.
+205296	-		深根は魔王に抱かれると、死ぬ。	Tone dies if embraced by the Demon King.
+205297	+		それはあなたもまったく知らなかったことだった。	You had no idea about that.
 
-205298	-	今まで深根はそんなことを、	Until now Tone had said such things
-205299	+	何の気なしに言っていたことになる。	casually.
+205298	-		今まで深根はそんなことを、	Until now Tone had said such things
+205299	+		何の気なしに言っていたことになる。	casually.
 
-205300	Tokugawa Tone	「でも……」	「But...
+205300	Tokugawa Tone		「でも……」	「But...
 
-205301	Tokugawa Tone	「父様や母様、兄様や姉様……	「Father, mother, older brothers and sisters...
-205302	+	　それに私の弟や妹達に今まで会ってきた人達……」	　and all the people I've met, my younger brothers and sisters...」
+205301	Tokugawa Tone		「父様や母様、兄様や姉様……	「Father, mother, older brothers and sisters...
+205302	+		　それに私の弟や妹達に今まで会ってきた人達……」	　and all the people I've met, my younger brothers and sisters...」
 
-205303	Tokugawa Tone	「みんなを助ける為なら、それもいいかなぁって」	「I thought it would be okay if it was to save everyone.」
+205303	Tokugawa Tone		「みんなを助ける為なら、それもいいかなぁって」	「I thought it would be okay if it was to save everyone.」
 
-205304	Tokugawa Tone	「私は他の巫女さんとは違って、	「Unlike other shrine maidens,
-205305	+	　生け贄としての巫女なの」	　I am a shrine maiden meant to be a sacrifice.」
+205304	Tokugawa Tone		「私は他の巫女さんとは違って、	「Unlike other shrine maidens,
+205305	+		　生け贄としての巫女なの」	　I am a shrine maiden meant to be a sacrifice.」
 
-205306	Tokugawa Tone	「知ってる？　生け贄って	「You know? A sacrifice
-205307	+	　神に捧げられるまではいい生活できるんだよ？」	　can live well until offered to the god.」
+205306	Tokugawa Tone		「知ってる？　生け贄って	「You know? A sacrifice
+205307	+		　神に捧げられるまではいい生活できるんだよ？」	　can live well until offered to the god.」
 
-205308	Tokugawa Tone	「だから、私もその日が来るまでは、	「So until that day came,
-205309	+	　精一杯妹として甘やかされて自堕落に過ごそうって	　I planned to live spoiled as a little sister and be lazy,
-205310	+	　ずっとそう思っていて……」	　that's what I always thought...」
+205308	Tokugawa Tone		「だから、私もその日が来るまでは、	「So until that day came,
+205309	+		　精一杯妹として甘やかされて自堕落に過ごそうって	　I planned to live spoiled as a little sister and be lazy,
+205310	+		　ずっとそう思っていて……」	　that's what I always thought...」
 
-205311	Tokugawa Tone	「…………」	「............」
+205311	Tokugawa Tone		「…………」	「............」
 
-205312	Tokugawa Tone	「……あれ？　なんの話がしたかったんだっけ？」	「...Huh? What was I trying to say?」
+205312	Tokugawa Tone		「……あれ？　なんの話がしたかったんだっけ？」	「...Huh? What was I trying to say?」
 
-205313	Tokugawa Tone	「ああ、それでね、やっぱり死ぬのやめたの」	「Ah, that's right. I decided not to die after all.」
+205313	Tokugawa Tone		「ああ、それでね、やっぱり死ぬのやめたの」	「Ah, that's right. I decided not to die after all.」
 
-205314	Tokugawa Tone	「リセット姉様にはずっと反対されて、	「Big sister Reset always opposed it,
-205315	+	　乱義兄様もそんなことはさせないって、	　big brother Rangi said he wouldn't allow it,
-205316	+	　止める気満々でいても……」	　they were determined to stop me...」
+205314	Tokugawa Tone		「リセット姉様にはずっと反対されて、	「Big sister Reset always opposed it,
+205315	+		　乱義兄様もそんなことはさせないって、	　big brother Rangi said he wouldn't allow it,
+205316	+		　止める気満々でいても……」	　they were determined to stop me...」
 
-205317	Tokugawa Tone	「私の気持ち変わらなかったんだけど……	「My feelings didn't change but...
-205318	?	　なんとなく、やめておこうって」	　somehow I decided to stop.」
+205317	Tokugawa Tone		「私の気持ち変わらなかったんだけど……	「My feelings didn't change but...
+205318	?		　なんとなく、やめておこうって」	　somehow I decided to stop.」
 
-205319	Tokugawa Tone	「死ぬってさ……	「Dying means...
-205320	+	　もうみんなと会えないってことでしょ？」	　I won't be able to see everyone anymore, right?」
+205319	Tokugawa Tone		「死ぬってさ……	「Dying means...
+205320	+		　もうみんなと会えないってことでしょ？」	　I won't be able to see everyone anymore, right?」
 
-205321	Tokugawa Tone	「みんなと遊んだり、みんなでご飯食べたり、	「Playing with everyone, eating together,
-205322	+	　こういうことが出来なくなるんだよね」	　I won't be able to do any of that.」
+205321	Tokugawa Tone		「みんなと遊んだり、みんなでご飯食べたり、	「Playing with everyone, eating together,
+205322	+		　こういうことが出来なくなるんだよね」	　I won't be able to do any of that.」
 
-205323	Tokugawa Tone	「……死んだことないから知らないけどさ、	「...I've never died so I don't know,
-205324	+	　それでもいいよって思ってたの」	　but I thought it was okay.」
+205323	Tokugawa Tone		「……死んだことないから知らないけどさ、	「...I've never died so I don't know,
+205324	+		　それでもいいよって思ってたの」	　but I thought it was okay.」
 
-205325	Tokugawa Tone	「でも、でもね……」	「But, but...
+205325	Tokugawa Tone		「でも、でもね……」	「But, but...
 
-205326	Tokugawa Tone	「それは嫌だなって」	　I don't want that.」
+205326	Tokugawa Tone		「それは嫌だなって」	　I don't want that.」
 
-205327	Tokugawa Tone	「嫌だなぁ……って思うようになったの」	　I started thinking I really don't want that.」
+205327	Tokugawa Tone		「嫌だなぁ……って思うようになったの」	　I started thinking I really don't want that.」
 
-205328	-	深根は自分でも戸惑っているのか、	Tone seemed confused herself,
-205329	+	何度も指を組み合わせたり	repeatedly interlacing and
-205330	+	離したりを繰り返していた。	separating her fingers.
+205328	-		深根は自分でも戸惑っているのか、	Tone seemed confused herself,
+205329	+		何度も指を組み合わせたり	repeatedly interlacing and
+205330	+		離したりを繰り返していた。	separating her fingers.
 
-205331	Tokugawa Tone	「今回の旅の間に……	「During this trip...
-205332	+	　そんな気なくなっちゃった」	　those feelings disappeared.」
+205331	Tokugawa Tone		「今回の旅の間に……	「During this trip...
+205332	+		　そんな気なくなっちゃった」	　those feelings disappeared.」
 
-205333	Tokugawa Tone	「なんでだろうね……」	「I wonder why...」
+205333	Tokugawa Tone		「なんでだろうね……」	「I wonder why...」
 
-205334	-	ジーッと深根はあなたの瞳を見つめてきた。	Tone stared intently into your eyes.
+205334	-		ジーッと深根はあなたの瞳を見つめてきた。	Tone stared intently into your eyes.
 
-205335	-	まるで答えをそこに求めるように。	As if seeking the answer there.
+205335	-		まるで答えをそこに求めるように。	As if seeking the answer there.
 
-205336	Tokugawa Tone	「うーん……」	「Hmm......」
+205336	Tokugawa Tone		「うーん……」	「Hmm......」
 
-205337	Tokugawa Tone	「家族旅行、来なけりゃ良かったのかねぇ」	「Maybe I shouldn't have come on this family trip.」
+205337	Tokugawa Tone	笑顔	「家族旅行、来なけりゃ良かったのかねぇ」	「Maybe I shouldn't have come on this family trip.」
 
-205338	-	深根のその言葉に、	There was no regret
-205339	+	後悔しているような空気はない。	in Tone's words.
+205338	-		深根のその言葉に、	There was no regret
+205339	+		後悔しているような空気はない。	in Tone's words.
 
-205340	-	むしろ、さっぱりとした、	Instead, it was refreshing,
-205341	+	何が起きても後悔はしないという覚悟が窺えた。	with a resolve that she wouldn't regret anything.
+205340	-		むしろ、さっぱりとした、	Instead, it was refreshing,
+205341	+		何が起きても後悔はしないという覚悟が窺えた。	with a resolve that she wouldn't regret anything.
 
-205342	Tokugawa Tone	「…………」	「............」
+205342	Tokugawa Tone	基本	「…………」	「............」
 
-205343	Tokugawa Tone	「みんな、そんな感じのこと言う」	「Everyone says things like that.」
+205343	Tokugawa Tone		「みんな、そんな感じのこと言う」	「Everyone says things like that.」
 
-205344	Tokugawa Tone	「……ありがと」	「...Thank you.」
+205344	Tokugawa Tone	笑顔	「……ありがと」	「...Thank you.」
 
-205345	Tokugawa Tone	「照れるね……」	「It's embarrassing...」
+205345	Tokugawa Tone	基本	「照れるね……」	「It's embarrassing...」
 
-205346	Tokugawa Tone	「……ふふ」	「...Fufu.」
+205346	Tokugawa Tone	笑顔	「……ふふ」	「...Fufu.」
 
-205347	-	深根は珍しく、満面の笑みを浮かべた。	Tone showed a rare full-faced smile.
+205347	-		深根は珍しく、満面の笑みを浮かべた。	Tone showed a rare full-faced smile.
 
-205348	Tokugawa Tone	「私、死なないことにする……」	「I decided not to die...」
+205348	Tokugawa Tone	基本	「私、死なないことにする……」	「I decided not to die...」
 
-205349	Tokugawa Tone	「だから、＜エール＞ちゃんも死んじゃ駄目だよ？」	「So ＜エール＞-chan, you can't die either, okay?」
+205349	Tokugawa Tone		「だから、＜エール＞ちゃんも死んじゃ駄目だよ？」	「So ＜エール＞-chan, you can't die either, okay?」
 
-205350	Tokugawa Tone	「正直……	「Honestly...
-205351	+	　＜エール＞ちゃんはそんな感じで……	　＜エール＞-chan has that kind of vibe...
-205352	+	　ちょっと心配だよ」	　I'm a bit worried.」
+205350	Tokugawa Tone		「正直……	「Honestly...
+205351	+		　＜エール＞ちゃんはそんな感じで……	　＜エール＞-chan has that kind of vibe...
+205352	+		　ちょっと心配だよ」	　I'm a bit worried.」
 
-205353	-	あなたはおそらく初めて、	This was probably the first time
-205354	+	深根に心配されてしまった。	Tone worried about you.
+205353	-		あなたはおそらく初めて、	This was probably the first time
+205354	+		深根に心配されてしまった。	Tone worried about you.
 
 > male
-205355	Tokugawa Tone	「＜エール＞ちゃんは私の可愛い弟なんだし、	「＜エール＞-chan is my cute little brother,
-205356	+	　ちゃんと生きて帰るって約束してね」	　so promise me you'll come back alive.」
+205355	Tokugawa Tone		「＜エール＞ちゃんは私の可愛い弟なんだし、	「＜エール＞-chan is my cute little brother,
+205356	+		　ちゃんと生きて帰るって約束してね」	　so promise me you'll come back alive.」
 
 > female
-205357	Tokugawa Tone	「＜エール＞ちゃんは私の可愛い妹なんだし、	「＜エール＞-chan is my cute little sister,
-205358	+	　ちゃんと生きて帰るって約束してね」	　so promise me you'll come back alive.」
+205357	Tokugawa Tone		「＜エール＞ちゃんは私の可愛い妹なんだし、	「＜エール＞-chan is my cute little sister,
+205358	+		　ちゃんと生きて帰るって約束してね」	　so promise me you'll come back alive.」
 
 > end
-205359	Tokugawa Tone	「……約束は守らないと駄目だからね。	「...You have to keep promises.
-205360	+	　ゆーびきーり、げーんまん……」	　Pinky promise...」
+205359	Tokugawa Tone		「……約束は守らないと駄目だからね。	「...You have to keep promises.
+205360	+		　ゆーびきーり、げーんまん……」	　Pinky promise...」
 
-205361	-	半ば無理矢理、あなたは深根と	Almost forcefully, you were made to
-205362	+	指切りげんまんさせられた。	do a pinky promise with Tone.
+205361	-		半ば無理矢理、あなたは深根と	Almost forcefully, you were made to
+205362	+		指切りげんまんさせられた。	do a pinky promise with Tone.
 
-205363	Tokugawa Tone	「よし、これで大丈夫」	「Good, now it's okay.」
+205363	Tokugawa Tone	笑顔	「よし、これで大丈夫」	「Good, now it's okay.」
 
-205364	Tokugawa Tone	「あ、そうだ。	「Ah, that's right.
-205365	+	　私、妹は卒業するから」	　I'm graduating from being a little sister.」
+205364	Tokugawa Tone	基本	「あ、そうだ。	「Ah, that's right.
+205365	+		　私、妹は卒業するから」	　I'm graduating from being a little sister.」
 
-205366	Tokugawa Tone	「もう生け贄じゃないんだから、	「Since I'm no longer a sacrifice,
-205367	+	　べったり甘えん坊できない」	　I can't be super spoiled anymore.」
+205366	Tokugawa Tone		「もう生け贄じゃないんだから、	「Since I'm no longer a sacrifice,
+205367	+		　べったり甘えん坊できない」	　I can't be super spoiled anymore.」
 
-205368	Tokugawa Tone	「これからは姉だから、	「From now on I'm a big sister,
-205369	+	　＜エール＞ちゃんもそのつもりで接してね」	　so treat me that way, ＜エール＞-chan.」
+205368	Tokugawa Tone	ドヤァ	「これからは姉だから、	「From now on I'm a big sister,
+205369	+		　＜エール＞ちゃんもそのつもりで接してね」	　so treat me that way, ＜エール＞-chan.」
 
-205370	Tokugawa Tone	「ふわぁ……	「Fwaa...
-205371	+	　長話してたら疲れてきちゃった」	　Talking so much made me tired.」
+205370	Tokugawa Tone	基本	「ふわぁ……	「Fwaa...
+205371	+		　長話してたら疲れてきちゃった」	　Talking so much made me tired.」
 
-205372	Tokugawa Tone	「＜エール＞ちゃん、膝枕。	「＜エール＞-chan, lap pillow.
-205373	+	　そのまま、ちょっとお話しよ？」	　Let's chat a bit like this?」
+205372	Tokugawa Tone		「＜エール＞ちゃん、膝枕。	「＜エール＞-chan, lap pillow.
+205373	+		　そのまま、ちょっとお話しよ？」	　Let's chat a bit like this?」
 
-205374	-	ごろりと寝転がって、	She rolled over,
-205375	+	深根があなたの足を枕代わりにした。	using your lap as a pillow.
+205374	-		ごろりと寝転がって、	She rolled over,
+205375	+		深根があなたの足を枕代わりにした。	using your lap as a pillow.
 
-205376	-	うとうととしている深根と、	With the drowsy Tone,
-205377	+	あなたはとりとめのない話をして過ごした。	you spent time chatting about random things.
+205376	-		うとうととしている深根と、	With the drowsy Tone,
+205377	+		あなたはとりとめのない話をして過ごした。	you spent time chatting about random things.
 
-205378	-	…………	............
+205378	-		…………	............
 
-205379	-	……	......
+205379	-		……	......
 
-205380	-	あなたは『親友』との	You spent irreplaceable time
-205381	+	かけがえのない時間を過ごした。	with your 'best friend'.
+205380	-		あなたは『親友』との	You spent irreplaceable time
+205381	+		かけがえのない時間を過ごした。	with your 'best friend'.
 
-205382	-	そして……	And then...
+205382	-		そして……	And then...
 
-205383	-	運命の朝を迎える。	You greet the fated morning.
+205383	-		運命の朝を迎える。	You greet the fated morning.

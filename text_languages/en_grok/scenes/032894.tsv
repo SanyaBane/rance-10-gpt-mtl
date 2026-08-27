@@ -3,41 +3,41 @@
 * Sill Plain	シィル	Female
 * Desert Guide	砂漠案内人	Female
 
-186653	Rance	「おお、本当に凍えるなあ」	「Wow, it's really freezing.」
+186653	Rance	だる顔	「おお、本当に凍えるなあ」	「Wow, it's really freezing.」
 
-186654	-	横殴りの風が吹き荒れてない分、	At least there's no sideways wind,
-186655	+	かなりマシな筈なのだが、	so it should be better,
-186656	+	骨の随まで凍らすような寒気は依然猛威を振るう。	but the bone-chilling cold is still brutal.
+186654	-		横殴りの風が吹き荒れてない分、	At least there's no sideways wind,
+186655	+		かなりマシな筈なのだが、	so it should be better,
+186656	+		骨の随まで凍らすような寒気は依然猛威を振るう。	but the bone-chilling cold is still brutal.
 
-186657	Sill Plain	「防寒には気をつけてるんですが……	「I'm trying to stay warm...
-186658	+	　それでもかなり寒いですね……ぷるぷる……」	　but it's still really cold... brrr...」
+186657	Sill Plain	恥	「防寒には気をつけてるんですが……	「I'm trying to stay warm...
+186658	+		　それでもかなり寒いですね……ぷるぷる……」	　but it's still really cold... brrr...」
 
-186659	Rance	「やっぱりこんな場所、何度も来るもんじゃないな。	「This isn't a place you visit often.
-186660	+	　シィル、もっとぎゅっと近づけ」	　Sill, hug me tighter.」
+186659	Rance	基本	「やっぱりこんな場所、何度も来るもんじゃないな。	「This isn't a place you visit often.
+186660	+		　シィル、もっとぎゅっと近づけ」	　Sill, hug me tighter.」
 
-186661	Sill Plain	「む、むぎゅう……	「Mu, mugyuu...
-186662	+	　ランス様、嬉しいけど……苦しいですぅ……」	　I'm happy but... it's too tight...」
+186661	Sill Plain	恥	「む、むぎゅう……	「Mu, mugyuu...
+186662	+		　ランス様、嬉しいけど……苦しいですぅ……」	　I'm happy but... it's too tight...」
 
-186663	Rance	「しかし、このまま進んで大丈夫なんだろうな？	「But is it really safe to keep going?
-186664	+	　遭難するのは嫌だぞ」	　I don't want to get lost.」
+186663	Rance	だる顔	「しかし、このまま進んで大丈夫なんだろうな？	「But is it really safe to keep going?
+186664	+		　遭難するのは嫌だぞ」	　I don't want to get lost.」
 
-186665	Desert Guide	「それでしたらご安心を。	「No need to worry.
-186666	+	　あっしがしーっかり案内してやすから」	　I'll guide you properly.」
+186665	Desert Guide	基本	「それでしたらご安心を。	「No need to worry.
+186666	+		　あっしがしーっかり案内してやすから」	　I'll guide you properly.」
 
-186667	Rance	「誰お前……」	「Who are you...」
+186667	Rance		「誰お前……」	「Who are you...」
 
-186668	Desert Guide	「おっと、こりゃご挨拶が遅れましてどーも。	「Oops, sorry for the late introduction.
-186669	+	　あっし氷雪地帯の案内人でやんす」	　I'm the guide for this snowy region.」
+186668	Desert Guide		「おっと、こりゃご挨拶が遅れましてどーも。	「Oops, sorry for the late introduction.
+186669	+		　あっし氷雪地帯の案内人でやんす」	　I'm the guide for this snowy region.」
 
-186670	Rance	「案内人なんていたのか……」	「There was a guide...」
+186670	Rance		「案内人なんていたのか……」	「There was a guide...」
 
-186671	Desert Guide	「えーえー、素人が自力踏破は	「Yep yep, amateurs trying to cross alone
-186672	+	　それこそ自殺行為でやんすからねぇ」	　is basically suicide.」
+186671	Desert Guide		「えーえー、素人が自力踏破は	「Yep yep, amateurs trying to cross alone
+186672	+		　それこそ自殺行為でやんすからねぇ」	　is basically suicide.」
 
-186673	Desert Guide	「ささ、ペースを崩さないようにだけお気をつけを。	「Just keep a steady pace.
-186674	+	　あっしはもうちょい先行って先導しやすね」	　I'll go a bit ahead and lead.」
+186673	Desert Guide		「ささ、ペースを崩さないようにだけお気をつけを。	「Just keep a steady pace.
+186674	+		　あっしはもうちょい先行って先導しやすね」	　I'll go a bit ahead and lead.」
 
-186675	-	ランスの膝上まで雪の積もった中を	Through snow up to Rance's knees,
-186676	+	案内人はスイーッと滑るように進んで行く。	the guide glided forward smoothly.
+186675	-		ランスの膝上まで雪の積もった中を	Through snow up to Rance's knees,
+186676	+		案内人はスイーッと滑るように進んで行く。	the guide glided forward smoothly.
 
-186677	Rance	「な、なんであんなに軽々と移動できるんだ……」	「How can he move so lightly...」
+186677	Rance		「な、なんであんなに軽々と移動できるんだ……」	「How can he move so lightly...」

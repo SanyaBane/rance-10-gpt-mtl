@@ -5,91 +5,91 @@
 * Pastel Kalar	パステル	Female
 * Yamada Chizuko	千鶴子	Female
 
-50369	-	打てる手が無く、一行は一時的に休息を取っていた。	With no moves left, the group was taking a temporary rest.
+50369	-		打てる手が無く、一行は一時的に休息を取っていた。	With no moves left, the group was taking a temporary rest.
 
-50370	Rance	「……………………」	「........................」
+50370	Rance	イライラ	「……………………」	「........................」
 
-50371	-	ランスは、イライラと足を踏み鳴らし、	Rance irritably tapped his foot,
-50372	+	時折立ち上がっては周辺をのしのしと歩き、	sometimes stood up and paced heavily around the area,
-50373	+	また戻る。その繰り返しだった。	then came back. He repeated this over and over.
+50371	-		ランスは、イライラと足を踏み鳴らし、	Rance irritably tapped his foot,
+50372	+		時折立ち上がっては周辺をのしのしと歩き、	sometimes stood up and paced heavily around the area,
+50373	+		また戻る。その繰り返しだった。	then came back. He repeated this over and over.
 
-50374	Sill Plain	「ランス様、落ち着いてください……	「Rance-sama, please calm down...
-50375	+	　大丈夫ですよ、きっと……」	　It'll be okay, surely...」
+50374	Sill Plain	真剣	「ランス様、落ち着いてください……	「Rance-sama, please calm down...
+50375	+		　大丈夫ですよ、きっと……」	　It'll be okay, surely...」
 
-50376	Rance	「……………………」	「........................」
+50376	Rance		「……………………」	「........................」
 
-50377	Sill Plain	「町の方も、上級試験に合格したらツォトンさんに	「The townspeople said that those who pass the advanced test
-50378	+	　会わされるというお話でしたし……	　would be taken to meet Zedong...
-50379	+	　きっと、魔物将軍のお腹の中に入れられると……」	　They'll probably be put inside a Monster General's stomach...」
+50377	Sill Plain		「町の方も、上級試験に合格したらツォトンさんに	「The townspeople said that those who pass the advanced test
+50378	+		　会わされるというお話でしたし……	　would be taken to meet Zedong...
+50379	+		　きっと、魔物将軍のお腹の中に入れられると……」	　They'll probably be put inside a Monster General's stomach...」
 
-50380	Rance	「…………俺も、初めはそのくらいだと思ってた。	「............At first I thought it was something like that too.
-50381	+	　アールコートちゃんのように裸に剥かれて、	　Like Arlcoate, stripped naked
-50382	+	　カプセルに入れられるかもと」	　and put in a capsule maybe.
+50380	Rance	だる顔	「…………俺も、初めはそのくらいだと思ってた。	「............At first I thought it was something like that too.
+50381	+		　アールコートちゃんのように裸に剥かれて、	　Like Arlcoate, stripped naked
+50382	+		　カプセルに入れられるかもと」	　and put in a capsule maybe.
 
-50383	Rance	「だが、奴らの目的は頭の良い奴を殺す事だ。	「But their goal is to kill the smart ones.
-50384	+	　何をされるか、まったく分からん」	　I have no idea what they'll do.」
+50383	Rance	真剣	「だが、奴らの目的は頭の良い奴を殺す事だ。	「But their goal is to kill the smart ones.
+50384	+		　何をされるか、まったく分からん」	　I have no idea what they'll do.」
 
-50385	Sill Plain	「ランス様…………	「Rance-sama...
-50386	+	　今は、ウルザさんを信じましょう」	　For now, let's believe in Urza.」
+50385	Sill Plain		「ランス様…………	「Rance-sama...
+50386	+		　今は、ウルザさんを信じましょう」	　For now, let's believe in Urza.」
 
-50387	Rance	「分かっとるわ！　ええい！」	「I know that! Damn it!」
+50387	Rance	怒り	「分かっとるわ！　ええい！」	「I know that! Damn it!」
 
-50388	Sill Plain	「きゃああぁぁっ！」	「Kyaaaa!」
+50388	Sill Plain	慌て	「きゃああぁぁっ！」	「Kyaaaa!」
 
-50389	-	ランスは苛立ち混じりに、	Rance, filled with irritation,
-50390	+	シィルのぽわぽわ頭を両手で掻き回した。	messed up Sill's fluffy hair with both hands.
+50389	-		ランスは苛立ち混じりに、	Rance, filled with irritation,
+50390	+		シィルのぽわぽわ頭を両手で掻き回した。	messed up Sill's fluffy hair with both hands.
 
-50391	Sill Plain	「ひんひん、髪が……」	「Hin hin, my hair...」
+50391	Sill Plain	ひんひん	「ひんひん、髪が……」	「Hin hin, my hair...」
 
-50392	Rance	「ふん！　茶だ、茶を入れろ！　クッソ熱いやつだ」	「Hmph! Tea, make tea! Super hot!」
+50392	Rance	イライラ	「ふん！　茶だ、茶を入れろ！　クッソ熱いやつだ」	「Hmph! Tea, make tea! Super hot!」
 
-50393	Sill Plain	「は、はいすぐに……」	「Y-Yes, right away...」
+50393	Sill Plain	ひんひん	「は、はいすぐに……」	「Y-Yes, right away...」
 
-50394	Reset Kalar	「おとーさん、苦しそう……	「Daddy looks like he's suffering...
-50395	+	　私、ぱちーんってやった方がいいかな」	　Should I give him a 'pachin'?」
+50394	Reset Kalar	真剣	「おとーさん、苦しそう……	「Daddy looks like he's suffering...
+50395	+		　私、ぱちーんってやった方がいいかな」	　Should I give him a 'pachin'?」
 
-50396	Pastel Kalar	「…………まだ大丈夫じゃろ。	「............He's still fine.
-50397	+	　ストレス解消はしておるようだし」	　Looks like he's relieving stress.」
+50396	Pastel Kalar	片手間モルルン	「…………まだ大丈夫じゃろ。	「............He's still fine.
+50397	+		　ストレス解消はしておるようだし」	　Looks like he's relieving stress.」
 
-50398	Reset Kalar	「んん、そーかな……そうだね」	「Hmm, maybe... yeah.」
+50398	Reset Kalar	基本	「んん、そーかな……そうだね」	「Hmm, maybe... yeah.」
 
-50399	Pastel Kalar	「ふん、もっとどうしようもなく醜態を晒した時に、	「Hmph, when he shows even more hopeless disgrace,
-50400	+	　たっぷり恥をかかせてやるがよい」	　then we can thoroughly embarrass him.」
+50399	Pastel Kalar	ウハハハハ！	「ふん、もっとどうしようもなく醜態を晒した時に、	「Hmph, when he shows even more hopeless disgrace,
+50400	+		　たっぷり恥をかかせてやるがよい」	　then we can thoroughly embarrass him.」
 
-50401	-	　	　
-50402	+	　　＜ピリリリ　ピリリリ＞	　　＜Rinrinrin Rinrinrin＞
+50401	-		　	　
+50402	+		　　＜ピリリリ　ピリリリ＞	　　＜Rinrinrin Rinrinrin＞
 
-50403	Rance	「む？　なんだ？」	「Mu? What?」
+50403	Rance	真剣	「む？　なんだ？」	「Mu? What?」
 
-50404	Sill Plain	「あ、ランス様！　魔法電話ですよ！」	「Ah, Rance-sama! It's a magic phone!」
+50404	Sill Plain	考え中	「あ、ランス様！　魔法電話ですよ！」	「Ah, Rance-sama! It's a magic phone!」
 
-50405	Rance	「誰だ！」	「Who is it!」
+50405	Rance	真剣	「誰だ！」	「Who is it!」
 
-50406	Yamada Chizuko	『総統ですか！？　千鶴子です。	『Supreme Leader!? It's Chizuko.
-50407	+	　ウルザから連絡が来たわ！』	　We got a message from Urza!』
+50406	Yamada Chizuko	基本	『総統ですか！？　千鶴子です。	『Supreme Leader!? It's Chizuko.
+50407	+		　ウルザから連絡が来たわ！』	　We got a message from Urza!』
 
-50408	Rance	「なんだと！　本当か！」	「What!? Is that true!」
+50408	Rance	怒り	「なんだと！　本当か！」	「What!? Is that true!」
 
-50409	Yamada Chizuko	『ええ、計画通り、ツォトンの許に着いたそうです。	『Yes, she arrived at Zedong's place as planned.
-50410	+	　座標は353,252の辺りです！』	　The coordinates are around 353,252!』
+50409	Yamada Chizuko	基本	『ええ、計画通り、ツォトンの許に着いたそうです。	『Yes, she arrived at Zedong's place as planned.
+50410	+		　座標は353,252の辺りです！』	　The coordinates are around 353,252!』
 
-50411	Rance	「ええい、数字で言われてもわからんわ！」	「Damn it, I don't understand numbers!」
+50411	Rance	怒り	「ええい、数字で言われてもわからんわ！」	「Damn it, I don't understand numbers!」
 
-50412	Yamada Chizuko	『この辺りですね。	『It's around here.
-50413	+	　第101砦付近の、防衛ラインです』	　Near the 101st Fortress, on the defense line.』
+50412	Yamada Chizuko	基本	『この辺りですね。	『It's around here.
+50413	+		　第101砦付近の、防衛ラインです』	　Near the 101st Fortress, on the defense line.』
 
-50414	Rance	「よーーーしでかした！	「Yeees, well done!
-50415	+	　ここから近いな、すぐに行くぞ！」	　It's close from here, let's go right away!」
+50414	Rance		「よーーーしでかした！	「Yeees, well done!
+50415	+		　ここから近いな、すぐに行くぞ！」	　It's close from here, let's go right away!」
 
-50416	Yamada Chizuko	『はい、こちらもマジック達と、	『Yes, we'll head out with Magic and the others,
-50417	+	　すぐに主力軍を率いて向かいます。	　leading the main army immediately.
-50418	+	　……ウルザを、お願いします』	　...Please take care of Urza.』
+50416	Yamada Chizuko		『はい、こちらもマジック達と、	『Yes, we'll head out with Magic and the others,
+50417	+		　すぐに主力軍を率いて向かいます。	　leading the main army immediately.
+50418	+		　……ウルザを、お願いします』	　...Please take care of Urza.』
 
-50419	Rance	「言われるまでもないわ！」	「You don't even need to tell me!」
+50419	Rance		「言われるまでもないわ！」	「You don't even need to tell me!」
 
-50420	-	ランスは通話が切れた魔法電話をシィルに放って、	Rance tossed the ended magic phone to Sill
-50421	+	すぐさま立ち上がった。	and immediately stood up.
+50420	-		ランスは通話が切れた魔法電話をシィルに放って、	Rance tossed the ended magic phone to Sill
+50421	+		すぐさま立ち上がった。	and immediately stood up.
 
-50422	Sill Plain	「わっ、と……じゃあ、ランス様……」	「Wah... Then, Rance-sama...」
+50422	Sill Plain		「わっ、と……じゃあ、ランス様……」	「Wah... Then, Rance-sama...」
 
-50423	Rance	「行くぞ！　一直線でカタをつける！」	「Let's go! We'll settle this in one straight shot!」
+50423	Rance	怒り	「行くぞ！　一直線でカタをつける！」	「Let's go! We'll settle this in one straight shot!」

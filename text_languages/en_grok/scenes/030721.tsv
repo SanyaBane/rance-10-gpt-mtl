@@ -4,39 +4,39 @@
 * Prince Toshiba	東芝王子	Male
 * Maria Custard	マリア	Female
 
-27870	-	一行は再び出発し、地底世界を掘り進む。	The party set off again, digging deeper into the underground world.
+27870	-		一行は再び出発し、地底世界を掘り進む。	The party set off again, digging deeper into the underground world.
 
-27871	Kentou Kanami	「…………ねえ。何か聞こえない？」	「......Hey. Don't you hear something?」
+27871	Kentou Kanami	基本	「…………ねえ。何か聞こえない？」	「......Hey. Don't you hear something?」
 
-27872	Rance	「何か？　この機械がガリガリいう音の他にか？」	「What? Besides the grinding sound of this machine?」
+27872	Rance	だる顔	「何か？　この機械がガリガリいう音の他にか？」	「What? Besides the grinding sound of this machine?」
 
-27873	Kentou Kanami	「う、うん、何か聞こえるような……	「Y-yeah, I hear something like......
-27874	+	　こう、うおんうおんと……」	　a low rumbling......」
+27873	Kentou Kanami	基本	「う、うん、何か聞こえるような……	「Y-yeah, I hear something like......
+27874	+		　こう、うおんうおんと……」	　a low rumbling......」
 
-27875	Rance	「ようし、行ってみようではないか。	「Alright, let's go check it out.
-27876	+	　面白い物かもしれん」	　Might be something interesting.」
+27875	Rance		「ようし、行ってみようではないか。	「Alright, let's go check it out.
+27876	+		　面白い物かもしれん」	　Might be something interesting.」
 
-27877	Prince Toshiba	「了解だ。どっちに行けばいい？」	「Roger. Which way?」
+27877	Prince Toshiba		「了解だ。どっちに行けばいい？」	「Roger. Which way?」
 
-27878	Kentou Kanami	「ええと、ここからまっすぐ、少し右……かな」	「Umm, straight from here, then a bit to the right...... I think.」
+27878	Kentou Kanami		「ええと、ここからまっすぐ、少し右……かな」	「Umm, straight from here, then a bit to the right...... I think.」
 
-27879	Prince Toshiba	「…………そっちか……」	「............That way, huh......」
+27879	Prince Toshiba		「…………そっちか……」	「............That way, huh......」
 
-27880	-	大ざっぱな音源をかなみが指さすと、	When Kanami pointed in the rough direction of the sound,
-27881	+	東芝は少しだけ眉を寄せた。	Toshiba frowned slightly.
+27880	-		大ざっぱな音源をかなみが指さすと、	When Kanami pointed in the rough direction of the sound,
+27881	+		東芝は少しだけ眉を寄せた。	Toshiba frowned slightly.
 
-27882	Maria Custard	「どうかしたの？」	「Is something wrong?」
+27882	Maria Custard		「どうかしたの？」	「Is something wrong?」
 
-27883	Prince Toshiba	「うん……実は、さっきから地震計が、	「Yeah...... Actually, the seismometer has been
-27884	+	　微弱な揺れを検知してるんだけど……	　detecting weak tremors for a while......
-27885	+	　その震源と同じ方向なんだ」	　and it's coming from the same direction.」
+27883	Prince Toshiba		「うん……実は、さっきから地震計が、	「Yeah...... Actually, the seismometer has been
+27884	+		　微弱な揺れを検知してるんだけど……	　detecting weak tremors for a while......
+27885	+		　その震源と同じ方向なんだ」	　and it's coming from the same direction.」
 
-27886	Maria Custard	「それは……」	「That means......」
+27886	Maria Custard		「それは……」	「That means......」
 
-27887	Rance	「大丈夫だ大丈夫。軽い地震かなんかだろ。	「It's fine, it's fine. Probably just a small earthquake.
-27888	+	　そのまま突っ込め！」	　Keep going straight!」
+27887	Rance	笑顔	「大丈夫だ大丈夫。軽い地震かなんかだろ。	「It's fine, it's fine. Probably just a small earthquake.
+27888	+		　そのまま突っ込め！」	　Keep going straight!」
 
-27889	Prince Toshiba	「うん、じゃあ……！」	「Okay, then......!」
+27889	Prince Toshiba	基本	「うん、じゃあ……！」	「Okay, then......!」
 
-27890	-	ランスの声と好奇心に押されて、	Pushed by Rance's voice and his own curiosity,
-27891	+	東芝王子はレバーを倒した。	Toshiba Prince pushed the lever.
+27890	-		ランスの声と好奇心に押されて、	Pushed by Rance's voice and his own curiosity,
+27891	+		東芝王子はレバーを倒した。	Toshiba Prince pushed the lever.

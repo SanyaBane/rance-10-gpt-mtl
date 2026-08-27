@@ -12,264 +12,264 @@
 * Satella	サテラ	Female
 * Caesar	シーザー	Male
 
-57289	Lei	「……………………」	「........................」
+57289	Lei	基本	「……………………」	「........................」
 
-57290	-	机に脚を乗せて、魔人レイは	With his feet on the desk, the Fiend Lei
-57291	+	つまらなさそうに押し黙っていた。	sat silently, looking bored.
+57290	-		机に脚を乗せて、魔人レイは	With his feet on the desk, the Fiend Lei
+57291	+		つまらなさそうに押し黙っていた。	sat silently, looking bored.
 
-57292	Monster General	（お、おい……またご機嫌が宜しくないようだぞ……	（H-hey... He seems in a bad mood again...
-57293	+	　貴殿ら、何か知ってるか……？）	　Do you know anything...?）
+57292	Monster General		（お、おい……またご機嫌が宜しくないようだぞ……	（H-hey... He seems in a bad mood again...
+57293	+		　貴殿ら、何か知ってるか……？）	　Do you know anything...?）
 
-57294	Monster General	（分かるわけがないであろう……	（How would we know...
-57295	+	　あの方は、いつもああではないか……）	　He's always like that...）
+57294	Monster General		（分かるわけがないであろう……	（How would we know...
+57295	+		　あの方は、いつもああではないか……）	　He's always like that...）
 
-57296	Monster General	（いや……儂にはわかるぞい……	（No... I can tell...
-57297	+	　今日はとりわけ、ご機嫌が悪い……）	　Today he's especially upset...）
+57296	Monster General		（いや……儂にはわかるぞい……	（No... I can tell...
+57297	+		　今日はとりわけ、ご機嫌が悪い……）	　Today he's especially upset...）
 
-57298	Monster General	（で、ではどう宥めればいい……？）	（Then how do we calm him...?）
+57298	Monster General		（で、ではどう宥めればいい……？）	（Then how do we calm him...?）
 
-57299	Monster General	（それは分からん）	（No idea.）
+57299	Monster General		（それは分からん）	（No idea.）
 
-57300	Monster General	（役に立たんな貴殿……！）	（You're useless...!）
+57300	Monster General		（役に立たんな貴殿……！）	（You're useless...!）
 
-57301	-	同席しているのは、魔物将軍4名。	The four Monster Generals were present.
-57302	+	いずれも、不機嫌そうな魔人を前にして、	All of them were shrinking before the clearly displeased Fiend.
-57303	+	縮こまっていた。	
+57301	-		同席しているのは、魔物将軍4名。	The four Monster Generals were present.
+57302	+		いずれも、不機嫌そうな魔人を前にして、	All of them were shrinking before the clearly displeased Fiend.
+57303	+		縮こまっていた。	
 
-57304	Lei	「ふん……」	「Hmph...」
+57304	Lei		「ふん……」	「Hmph...」
 
-57305	-	魔物将軍達のそんな態度を見ながら、	Watching the Monster Generals' behavior,
-57306	+	レイは小さく鼻を鳴らす。	Lei snorted lightly.
+57305	-		魔物将軍達のそんな態度を見ながら、	Watching the Monster Generals' behavior,
+57306	+		レイは小さく鼻を鳴らす。	Lei snorted lightly.
 
-57307	Lei~	（出撃を止めて来やがったかと思えば、	（I stopped the attack thinking it was something important,
-57308	+	　和平だと？　くだらねェ……）	　and it's peace talks? What a waste...）
+57307	Lei~		（出撃を止めて来やがったかと思えば、	（I stopped the attack thinking it was something important,
+57308	+		　和平だと？　くだらねェ……）	　and it's peace talks? What a waste...）
 
-57309	Rance	「がははははは、ここか！」	「Gahahahaha, this it!」
+57309	Rance	笑顔	「がははははは、ここか！」	「Gahahahaha, this it!」
 
-57310	Convert Tax	「えぇ、えぇ！　こちらです。	「Yes, yes! Right this way.
-57311	+	　ぶひゃひゃひゃひゃ！」	　Buhyahyahya!」
+57310	Convert Tax	基本	「えぇ、えぇ！　こちらです。	「Yes, yes! Right this way.
+57311	+		　ぶひゃひゃひゃひゃ！」	　Buhyahyahya!」
 
-57312	-	廊下から、馬鹿笑いが二重奏で聞こえてくる。	Foolish laughter echoed from the hallway in duet.
-57313	+	どうやら、本当に来たらしい。	It seemed they had really arrived.
+57312	-		廊下から、馬鹿笑いが二重奏で聞こえてくる。	Foolish laughter echoed from the hallway in duet.
+57313	+		どうやら、本当に来たらしい。	It seemed they had really arrived.
 
-57314	Lei~	（……来やがった。ランスとか言ったか。	（...He came. Rance, was it.
-57315	+	　存外、つまらねェ野郎だ……）	　What a boring guy...）
+57314	Lei~		（……来やがった。ランスとか言ったか。	（...He came. Rance, was it.
+57315	+		　存外、つまらねェ野郎だ……）	　What a boring guy...）
 
-57316	Convert Tax	「ごめんやっしゃー！	「Sorry for the wait!
-57317	+	　ランス総統、お連れしましたでー！」	　I've brought Supreme Leader Rance!」
+57316	Convert Tax		「ごめんやっしゃー！	「Sorry for the wait!
+57317	+		　ランス総統、お連れしましたでー！」	　I've brought Supreme Leader Rance!」
 
-57318	Rance	「がははははは、偉大なる総統、ランス様だ！	「Gahahahaha, it is I, the great Supreme Leader Rance!
-57319	+	　ひれ伏せものども！」	　Bow down, you lot!」
+57318	Rance	笑顔	「がははははは、偉大なる総統、ランス様だ！	「Gahahahaha, it is I, the great Supreme Leader Rance!
+57319	+		　ひれ伏せものども！」	　Bow down, you lot!」
 
-57320	Katyusha Bosch	「さあ、これで揃ったわ。	「Now everyone is here.
-57321	+	　会談を始めましょう」	　Let's begin the meeting.」
+57320	Katyusha Bosch	基本	「さあ、これで揃ったわ。	「Now everyone is here.
+57321	+		　会談を始めましょう」	　Let's begin the meeting.」
 
-57322	Lei	「…………………………」	「........................」
+57322	Lei		「…………………………」	「........................」
 
-57323	Rance	「おう、レイ君ではないか。	「Oh, if it isn't Lei.
-57324	+	　仲良くやろう、がはははは！」	　Let's get along, gahahaha!」
+57323	Rance	笑顔	「おう、レイ君ではないか。	「Oh, if it isn't Lei.
+57324	+		　仲良くやろう、がはははは！」	　Let's get along, gahahaha!」
 
-57325	Lei	「……………………けっ」	「........................Tch.」
+57325	Lei	基本	「……………………けっ」	「........................Tch.」
 
-57326	-	吐き捨てるように短く反応して、	Lei gave a short, disgusted response,
-57327	+	レイはランスを一瞥した。	and glanced at Rance.
+57326	-		吐き捨てるように短く反応して、	Lei gave a short, disgusted response,
+57327	+		レイはランスを一瞥した。	and glanced at Rance.
 
-57328	Lei	「…………丸腰か……」	「............Unarmed, huh...」
+57328	Lei		「…………丸腰か……」	「............Unarmed, huh...」
 
-57329	Convert Tax	「へぇ、あの……カオスでしたやろか、	「Well... We took Chaos for safekeeping,
-57330	+	　魔剣だけは預からせてもらいましたんや」	　just the demon sword.」
+57329	Convert Tax		「へぇ、あの……カオスでしたやろか、	「Well... We took Chaos for safekeeping,
+57330	+		　魔剣だけは預からせてもらいましたんや」	　just the demon sword.」
 
-57331	Convert Tax	「嘘が無いっちゅう、	「The best proof there's no trick,
-57332	+	　何よりの証拠になりますやろ？」	　right?」
+57331	Convert Tax		「嘘が無いっちゅう、	「The best proof there's no trick,
+57332	+		　何よりの証拠になりますやろ？」	　right?」
 
-57333	Lei	「…………あぁ、そーだな」	「............Yeah, sure.」
+57333	Lei		「…………あぁ、そーだな」	「............Yeah, sure.」
 
-57334	-	レイはほとんど興味を失って、顔を背けた。	Lei lost almost all interest and turned away.
+57334	-		レイはほとんど興味を失って、顔を背けた。	Lei lost almost all interest and turned away.
 
-57335	Convert Tax	「しかし武装解除ついでに、	「But while disarming him,
-57336	+	　メイドはん襲うとは……	　attacking the maid...
-57337	+	　聞きしに勝る性豪ぶりでんなぁ……」	　You're even more of a sexual beast than rumored...」
+57335	Convert Tax		「しかし武装解除ついでに、	「But while disarming him,
+57336	+		　メイドはん襲うとは……	　attacking the maid...
+57337	+		　聞きしに勝る性豪ぶりでんなぁ……」	　You're even more of a sexual beast than rumored...」
 
-57338	Rance	「襲ってないぞ。時間がないから、	「I didn't attack her. No time,
-57339	+	　口で勘弁してやったのではないか」	　so I let her off with just a blowjob.」
+57338	Rance		「襲ってないぞ。時間がないから、	「I didn't attack her. No time,
+57339	+		　口で勘弁してやったのではないか」	　so I let her off with just a blowjob.」
 
-57340	Convert Tax	「はぁ……まぁ、ええですわ。	「Haa... Well, whatever.
-57341	+	　ささ、座って」	　Come, sit down.」
+57340	Convert Tax		「はぁ……まぁ、ええですわ。	「Haa... Well, whatever.
+57341	+		　ささ、座って」	　Come, sit down.」
 
-57342	-	コンバートは魔軍側に座り、	Convert sat on the Monster Army side,
-57343	+	ランスとカチューシャは勧められるまま、	while Rance and Katyusha sat opposite as invited.
-57344	+	対面に座った。	
+57342	-		コンバートは魔軍側に座り、	Convert sat on the Monster Army side,
+57343	+		ランスとカチューシャは勧められるまま、	while Rance and Katyusha sat opposite as invited.
+57344	+		対面に座った。	
 
-57345	Convert Tax	「こちら、責任者の魔人レイはん。	「This is the Fiend in charge, Lei.
-57346	+	　こっちが魔物将軍のコルテスはん、ソトはん、	　These are the Monster Generals Cortes, Soto,
-57347	+	　カサスはんにバルボアはんですわ」	　Casas, and Balboa.」
+57345	Convert Tax		「こちら、責任者の魔人レイはん。	「This is the Fiend in charge, Lei.
+57346	+		　こっちが魔物将軍のコルテスはん、ソトはん、	　These are the Monster Generals Cortes, Soto,
+57347	+		　カサスはんにバルボアはんですわ」	　Casas, and Balboa.」
 
-57348	Monster General	「……………………」	「........................」
+57348	Monster General		「……………………」	「........................」
 
-57349	-	魔物将軍達は、カオスを振るうという総統ランスに	The Monster Generals gave appraising looks
-57350	+	値踏みするような視線を向け、揃って一礼する。	to Supreme Leader Rance, the wielder of Chaos, and bowed together.
+57349	-		魔物将軍達は、カオスを振るうという総統ランスに	The Monster Generals gave appraising looks
+57350	+		値踏みするような視線を向け、揃って一礼する。	to Supreme Leader Rance, the wielder of Chaos, and bowed together.
 
-57351	Rance	「おう」	「Yo.」
+57351	Rance		「おう」	「Yo.」
 
-57352	Convert Tax	「ほな、ちょい繰り返しになりまっけど、	「Well, it's a bit repetitive, but
-57353	+	　秘密同盟の話、説明させてもらいまひょ」	　let me explain the secret alliance.」
+57352	Convert Tax		「ほな、ちょい繰り返しになりまっけど、	「Well, it's a bit repetitive, but
+57353	+		　秘密同盟の話、説明させてもらいまひょ」	　let me explain the secret alliance.」
 
-57354	-	…………	............
+57354	-		…………	............
 
-57355	-	……	......
+57355	-		……	......
 
-57356	Rance	「要するに、こういう事か。	「In short, you're saying this.
-57357	+	　人類の総統であるこの俺様に、魔軍に寝返れと」	　You want me, the Supreme Leader of Humanity, to betray to the Monster Army.」
+57356	Rance		「要するに、こういう事か。	「In short, you're saying this.
+57357	+		　人類の総統であるこの俺様に、魔軍に寝返れと」	　You want me, the Supreme Leader of Humanity, to betray to the Monster Army.」
 
-57358	Convert Tax	「ええ、せやけど残る人類は助けられまっせ。	「Yes, but the remaining humans will be spared.
-57359	+	　それに、今なら魔軍の大幹部の地位まで	　Plus, you can even get a top position
-57360	+	　保証されてまんねや！」	　in the Monster Army right now!」
+57358	Convert Tax		「ええ、せやけど残る人類は助けられまっせ。	「Yes, but the remaining humans will be spared.
+57359	+		　それに、今なら魔軍の大幹部の地位まで	　Plus, you can even get a top position
+57360	+		　保証されてまんねや！」	　in the Monster Army right now!」
 
-57361	Convert Tax	「無駄に殺し合いせんと、キチッと戦争終わらせる！	「End the war cleanly without pointless slaughter!
-57362	+	　それで人間をブワーッと助ける！	　Save a ton of humans!
-57363	+	　それでこそ人類を救う英雄ってもんでっせ！」	　That's what a true hero of humanity does!」
+57361	Convert Tax		「無駄に殺し合いせんと、キチッと戦争終わらせる！	「End the war cleanly without pointless slaughter!
+57362	+		　それで人間をブワーッと助ける！	　Save a ton of humans!
+57363	+		　それでこそ人類を救う英雄ってもんでっせ！」	　That's what a true hero of humanity does!」
 
-57364	Rance	「で、世界中の美女は俺の物と」	「And all the beautiful women in the world become mine.」
+57364	Rance		「で、世界中の美女は俺の物と」	「And all the beautiful women in the world become mine.」
 
-57365	Convert Tax	「へえ、そりゃもう！	「Of course!
-57366	+	　総統閣下がもう勃つモノ勃たへん言わはるまで、	　Until your dick stops getting hard, Supreme Leader,
-57367	+	　毎日お姫さんやら美女やらお送りしまっせ！」	　we'll send you princesses and beauties every day!」
+57365	Convert Tax		「へえ、そりゃもう！	「Of course!
+57366	+		　総統閣下がもう勃つモノ勃たへん言わはるまで、	　Until your dick stops getting hard, Supreme Leader,
+57367	+		　毎日お姫さんやら美女やらお送りしまっせ！」	　we'll send you princesses and beauties every day!」
 
-57368	Katyusha Bosch	「質の方も、しっかりと。	「The quality will be top notch too.
-57369	+	　先日から総統閣下のお世話をさせて頂いている	　Girls equal to or better than the ones
-57370	+	　娘たちと同等以上の者ばかりです」	　who have been serving you lately.」
+57368	Katyusha Bosch		「質の方も、しっかりと。	「The quality will be top notch too.
+57369	+		　先日から総統閣下のお世話をさせて頂いている	　Girls equal to or better than the ones
+57370	+		　娘たちと同等以上の者ばかりです」	　who have been serving you lately.」
 
-57371	Rance	「ほう、ほう、悪くないぞ。それはグッドだ」	「Hmm, hmm, not bad at all. That's good.」
+57371	Rance	エロ顔	「ほう、ほう、悪くないぞ。それはグッドだ」	「Hmm, hmm, not bad at all. That's good.」
 
-57372	Convert Tax	「は〜、総統はんにそう言って頂けたら安心ですわ！	「Haa~, glad to hear that from you, Supreme Leader!
-57373	+	　ほな、合意っちゅうことで宜しいでっしゃろか」	　So, we have an agreement?」
+57372	Convert Tax	基本	「は〜、総統はんにそう言って頂けたら安心ですわ！	「Haa~, glad to hear that from you, Supreme Leader!
+57373	+		　ほな、合意っちゅうことで宜しいでっしゃろか」	　So, we have an agreement?」
 
-57374	-	コンバートに目配せをされて、	At Convert's signal,
-57375	+	カチューシャが頷き、ランスに身を寄せた。	Katyusha nodded and leaned toward Rance.
+57374	-		コンバートに目配せをされて、	At Convert's signal,
+57375	+		カチューシャが頷き、ランスに身を寄せた。	Katyusha nodded and leaned toward Rance.
 
-57376	Katyusha Bosch	「ではこの契約書に、サインを頂けますか？	「Then, could you sign this contract?
-57377	+	　形式的なものですが、合意の証として……」	　It's just a formality, as proof of agreement...」
+57376	Katyusha Bosch		「ではこの契約書に、サインを頂けますか？	「Then, could you sign this contract?
+57377	+		　形式的なものですが、合意の証として……」	　It's just a formality, as proof of agreement...」
 
-57378	-	すっと、横からカチューシャが	Katyusha smoothly
-57379	+	古びた紙を差し出した。	offered an old-looking paper from the side.
+57378	-		すっと、横からカチューシャが	Katyusha smoothly
+57379	+		古びた紙を差し出した。	offered an old-looking paper from the side.
 
-57380	Rance	「うーむ、そうだな……」	「Hmm, I see...」
+57380	Rance		「うーむ、そうだな……」	「Hmm, I see...」
 
-57381	-	ランスは言われるままにペンを受け取るが、	Rance took the pen as told,
-57382	+	それを手の中で遊ばせたまま、	but played with it in his hand,
-57383	+	気のない様子で軽く唸った。	and gave a disinterested grunt.
+57381	-		ランスは言われるままにペンを受け取るが、	Rance took the pen as told,
+57382	+		それを手の中で遊ばせたまま、	but played with it in his hand,
+57383	+		気のない様子で軽く唸った。	and gave a disinterested grunt.
 
-57384	Katyusha Bosch~	（それはデラックスブック……	（That's the Deluxe Book...
-57385	+	　契約を絶対遵守させる、呪いの書……	　The cursed book that forces absolute compliance...
-57386	+	　さあ、書けっ……！）	　Now, sign it...!）
+57384	Katyusha Bosch~		（それはデラックスブック……	（That's the Deluxe Book...
+57385	+		　契約を絶対遵守させる、呪いの書……	　The cursed book that forces absolute compliance...
+57386	+		　さあ、書けっ……！）	　Now, sign it...!）
 
-57387	Rance	「ふーむ……」	「Hmm...」
+57387	Rance	真剣	「ふーむ……」	「Hmm...」
 
-57388	-	ランスの視線が、ちらっと窓の外へと向けられた。	Rance's gaze briefly turned toward the window outside.
+57388	-		ランスの視線が、ちらっと窓の外へと向けられた。	Rance's gaze briefly turned toward the window outside.
 
-57389	Rance	「ん、いいか。そろそろ……」	「Yeah, it's about time...」
+57389	Rance		「ん、いいか。そろそろ……」	「Yeah, it's about time...」
 
-57390	Katyusha Bosch	「……総統閣下？　なにか……」	「...Supreme Leader? Is something...」
+57390	Katyusha Bosch	基本	「……総統閣下？　なにか……」	「...Supreme Leader? Is something...」
 
-57391	Rance	「……まあ、そんな焦る事もないだろう。	「...Well, no need to rush.
-57392	+	　少し話でもしないか」	　Why don't we chat a bit?」
+57391	Rance		「……まあ、そんな焦る事もないだろう。	「...Well, no need to rush.
+57392	+		　少し話でもしないか」	　Why don't we chat a bit?」
 
-57393	-	だしぬけに、ランスはそんな事を言い出した。	Rance suddenly said that.
+57393	-		だしぬけに、ランスはそんな事を言い出した。	Rance suddenly said that.
 
-57394	Katyusha Bosch	「は……話、ですか……？」	「Talk... you say...?」
+57394	Katyusha Bosch		「は……話、ですか……？」	「Talk... you say...?」
 
-57395	Rance	「おう。魔物どもが何を考えてるか、	「Yeah. I rarely get to hear
-57396	+	　あまり聞く機会がないからな」	　what the monsters are thinking.」
+57395	Rance		「おう。魔物どもが何を考えてるか、	「Yeah. I rarely get to hear
+57396	+		　あまり聞く機会がないからな」	　what the monsters are thinking.」
 
-57397	Convert Tax	「え、ええと、そうでんなぁ……？」	「U-um, well... yeah...?」
+57397	Convert Tax	やってもうた	「え、ええと、そうでんなぁ……？」	「U-um, well... yeah...?」
 
-57398	Lei	「どうでもいい」	「Don't care.」
+57398	Lei	基本	「どうでもいい」	「Don't care.」
 
-57399	-	予想外の言葉に慌てたコンバートは指示を仰ぐように	Convert, panicked by the unexpected words, looked to Lei for instructions,
-57400	+	レイを見たが、興味を失った魔人は短く切り捨てた。	but the bored Fiend curtly dismissed it.
+57399	-		予想外の言葉に慌てたコンバートは指示を仰ぐように	Convert, panicked by the unexpected words, looked to Lei for instructions,
+57400	+		レイを見たが、興味を失った魔人は短く切り捨てた。	but the bored Fiend curtly dismissed it.
 
-57401	Convert Tax	「ほ、ほな、ちょいとお話しまひょか……」	「W-well, shall we talk a bit...?」
+57401	Convert Tax		「ほ、ほな、ちょいとお話しまひょか……」	「W-well, shall we talk a bit...?」
 
-57402	Rance	「茶ぐらい出せよ。	「At least serve some tea.
-57403	+	　わざわざ足を運んだせいで、喉が渇いた」	　My throat is dry after coming all this way.」
+57402	Rance	だる顔	「茶ぐらい出せよ。	「At least serve some tea.
+57403	+		　わざわざ足を運んだせいで、喉が渇いた」	　My throat is dry after coming all this way.」
 
-57404	Convert Tax	「あっ、ええ、それはもう。	「Ah, yes, of course.
-57405	+	　一番ええ奴用意させますよってん」	　I'll prepare the best one.」
+57404	Convert Tax	やってもうた	「あっ、ええ、それはもう。	「Ah, yes, of course.
+57405	+		　一番ええ奴用意させますよってん」	　I'll prepare the best one.」
 
-57406	-	コンバートが手を拍って、	Convert clapped his hands,
-57407	+	やって来たメイドに注文を出す。	and ordered the arriving maid.
+57406	-		コンバートが手を拍って、	Convert clapped his hands,
+57407	+		やって来たメイドに注文を出す。	and ordered the arriving maid.
 
-57408	-	ほどなくして、ワゴンの音が近づいてくる。	Soon, the sound of a wagon approached.
+57408	-		ほどなくして、ワゴンの音が近づいてくる。	Soon, the sound of a wagon approached.
 
-57409	Rance	「そうそう、どうにも気になってるようだから	「Oh right, since it seems you're curious,
-57410	+	　先に言っておくとするか」	　I'll tell you first.」
+57409	Rance	笑顔	「そうそう、どうにも気になってるようだから	「Oh right, since it seems you're curious,
+57410	+		　先に言っておくとするか」	　I'll tell you first.」
 
-57411	Convert Tax	「ひょえ？」	「Hyoe?」
+57411	Convert Tax	基本	「ひょえ？」	「Hyoe?」
 
-57412	-	だしぬけにそう呟くと、ランスは立ち上がった。	Rance suddenly muttered that and stood up.
+57412	-		だしぬけにそう呟くと、ランスは立ち上がった。	Rance suddenly muttered that and stood up.
 
-57413	Biscuitta Burns	「失礼いたします」	「Excuse me.」
+57413	Biscuitta Burns		「失礼いたします」	「Excuse me.」
 
-57414	-	メイドが、ワゴンと共に応接室へと入ってきた。	The maid Biscuitta entered the reception room with the wagon.
+57414	-		メイドが、ワゴンと共に応接室へと入ってきた。	The maid Biscuitta entered the reception room with the wagon.
 
-57415	Rance	「貴様らは…………	「You lot............
-57416	?	ここで皆殺しじゃーーーー！！」	All of you die here-----!!」
+57415	Rance	笑顔	「貴様らは…………	「You lot............
+57416	?		ここで皆殺しじゃーーーー！！」	All of you die here-----!!」
 
-57417	Katyusha Bosch	「なっ……！？」	「Wha...!?」
+57417	Katyusha Bosch	基本	「なっ……！？」	「Wha...!?」
 
-57418	-	ランスが、机の上に飛び乗り、	Rance leaped onto the desk
-57419	+	そのまま一直線にレイへ飛びかかる。	and charged straight at Lei.
+57418	-		ランスが、机の上に飛び乗り、	Rance leaped onto the desk
+57419	+		そのまま一直線にレイへ飛びかかる。	and charged straight at Lei.
 
-57420	Lei	「――――……！？」	「――――......!?」
+57420	Lei		「――――……！？」	「――――......!?」
 
-57421	Biscuitta Burns	「どうぞ、ご主人様」	「Here you are, Master.」
+57421	Biscuitta Burns		「どうぞ、ご主人様」	「Here you are, Master.」
 
-57422	Chaos	「にょほほほほほほほほ！！」	「Nyohohohohohohoho!!」
+57422	Chaos		「にょほほほほほほほほ！！」	「Nyohohohohohohoho!!」
 
-57423	Rance	「おう！」	「Yeah!」
+57423	Rance	怒り	「おう！」	「Yeah!」
 
-57424	-	完全にタイミングを合わせて、	Perfectly timed,
-57425	+	メイド……ビスケッタが、ワゴンの布の下から	the maid Biscuitta pulled Chaos from under the wagon cloth
-57426	+	カオスを取りだし、ランスへ放る。	and tossed it to Rance.
+57424	-		完全にタイミングを合わせて、	Perfectly timed,
+57425	+		メイド……ビスケッタが、ワゴンの布の下から	the maid Biscuitta pulled Chaos from under the wagon cloth
+57426	+		カオスを取りだし、ランスへ放る。	and tossed it to Rance.
 
-57427	Lei	「な、ッ……んだとッ……！？」	「Wh-what the...!?」
+57427	Lei	基本	「な、ッ……んだとッ……！？」	「Wh-what the...!?」
 
-57428	Rance	「がはははははは！！	「Gahahahahaha!!
-57429	+	　くたばれ、ラーーーンスアタタターーーック！！」	　Die, Raaaance Attack!!!!」
+57428	Rance	笑顔	「がはははははは！！	「Gahahahahaha!!
+57429	+		　くたばれ、ラーーーンスアタタターーーック！！」	　Die, Raaaance Attack!!!!」
 
-57430	Lei	「ご、が、はぁッ……！」	「Guh... gah...!」
+57430	Lei	基本	「ご、が、はぁッ……！」	「Guh... gah...!」
 
-57431	Monster General	「お、おおおおおぉぉっ！？	「O-ooooohhh!? 
-57432	+	　レ、レイ様ぁっ！？」	　L-Lord Lei!?」
+57431	Monster General		「お、おおおおおぉぉっ！？	「O-ooooohhh!? 
+57432	+		　レ、レイ様ぁっ！？」	　L-Lord Lei!?」
 
-57433	-	誰もが反応しようのないタイミングだった。	It was a timing no one could react to.
+57433	-		誰もが反応しようのないタイミングだった。	It was a timing no one could react to.
 
-57434	-	魔人であるレイでさえ、辛うじて身を捻って	Even the Fiend Lei barely twisted his body
-57435	+	即死を防いだに過ぎなかった。	to avoid instant death.
+57434	-		魔人であるレイでさえ、辛うじて身を捻って	Even the Fiend Lei barely twisted his body
+57435	+		即死を防いだに過ぎなかった。	to avoid instant death.
 
-57436	Kentou Kanami	「上手くいったみたいね……！」	「Looks like it worked...!」
+57436	Kentou Kanami		「上手くいったみたいね……！」	「Looks like it worked...!」
 
-57437	Freya Idun	「チャンスね。まとめて仕留めましょう」	「It's our chance. Let's finish them all.」
+57437	Freya Idun		「チャンスね。まとめて仕留めましょう」	「It's our chance. Let's finish them all.」
 
-57438	Sill Plain	「お怪我はないですか、ランス様！」	「Are you hurt, Rance-sama!」
+57438	Sill Plain	慌て	「お怪我はないですか、ランス様！」	「Are you hurt, Rance-sama!」
 
-57439	Rance	「おう！　いくぞ、皆殺しだ！」	「Yeah! Let's go, kill them all!」
+57439	Rance	怒り	「おう！　いくぞ、皆殺しだ！」	「Yeah! Let's go, kill them all!」
 
-57440	Satella	「レイは倒したか！　よくやった！	「Lei is down! Well done!
-57441	+	　こい、シーザー！」	　Come, Caesar!」
+57440	Satella		「レイは倒したか！　よくやった！	「Lei is down! Well done!
+57441	+		　こい、シーザー！」	　Come, Caesar!」
 
-57442	Caesar	「サテラサマノ敵、全部潰ス！」	「Crush all of Satella-sama's enemies!」
+57442	Caesar	基本	「サテラサマノ敵、全部潰ス！」	「Crush all of Satella-sama's enemies!」
 
-57443	Monster General	「ばっ、馬鹿なッ！　どういう事だ！	「I-impossible! What is this!
-57444	+	　人間の兵だとっ！？」	　Human soldiers!?」
+57443	Monster General		「ばっ、馬鹿なッ！　どういう事だ！	「I-impossible! What is this!
+57444	+		　人間の兵だとっ！？」	　Human soldiers!?」
 
-57445	Convert Tax	「な、ななな、なにがどないなっとんねーーん！！」	「Wh-wh-wh-what the hell is going on!!!」
+57445	Convert Tax	やってもうた	「な、ななな、なにがどないなっとんねーーん！！」	「Wh-wh-wh-what the hell is going on!!!」
 
-57446	Rance	「がーーーーははははははははは！！	「Gaaaaaahahahahahaha!!
-57447	+	　罠とも知らずに乗せられやがって！	　You fell right into the trap!
-57448	+	　この町は既に部下共がガッチリ囲んでるのだ！」	　My men have this town completely surrounded!」
+57446	Rance	笑顔	「がーーーーははははははははは！！	「Gaaaaaahahahahahaha!!
+57447	+		　罠とも知らずに乗せられやがって！	　You fell right into the trap!
+57448	+		　この町は既に部下共がガッチリ囲んでるのだ！」	　My men have this town completely surrounded!」
 
-57449	Monster General	「お、おおおお、おのれえええっ！　謀っただと！？	「Y-you bastard! You tricked us!?
-57450	+	　やってくれたな……ッ！　返り討ってくれるわ！」	　Well played...! I'll make you pay!」
+57449	Monster General	基本	「お、おおおお、おのれえええっ！　謀っただと！？	「Y-you bastard! You tricked us!?
+57450	+		　やってくれたな……ッ！　返り討ってくれるわ！」	　Well played...! I'll make you pay!」
 
-57451	Katyusha Bosch	「ランス、ッ……！！」	「Rance...!!
+57451	Katyusha Bosch	睨み	「ランス、ッ……！！」	「Rance...!!

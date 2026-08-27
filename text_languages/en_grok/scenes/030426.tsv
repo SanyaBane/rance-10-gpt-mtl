@@ -4,61 +4,61 @@
 * Sill Plain	シィル	Female
 * Crook Mofus	クルックー	Female
 
-6616	Hanny	「はーーーーにほーーーーーーーー！	「Haaaaniihoooooooo!
-6617	+	　やあやあ人間の王よ！　元気かな！」	　Hello hello, King of Humans! How are you!」
+6616	Hanny	基本	「はーーーーにほーーーーーーーー！	「Haaaaniihoooooooo!
+6617	+		　やあやあ人間の王よ！　元気かな！」	　Hello hello, King of Humans! How are you!」
 
-6618	Rance	「ぐっ……イベントCGみたいなナリしやがって！	「Guh... Acting like you're in an event CG!
-6619	+	　お前、ちょっと縮め！」	　You, shrink a bit!」
+6618	Rance	怒り	「ぐっ……イベントCGみたいなナリしやがって！	「Guh... Acting like you're in an event CG!
+6619	+		　お前、ちょっと縮め！」	　You, shrink a bit!」
 
-6620	Hanny	「ははは、それはできないかなあ。	「Hahaha, I can't do that.
-6621	+	　ま、私キングだからね」	　Well, I am the King after all.」
+6620	Hanny	基本	「ははは、それはできないかなあ。	「Hahaha, I can't do that.
+6621	+		　ま、私キングだからね」	　Well, I am the King after all.」
 
-6622	Rance	「むか。ハニワの王如きが、	「Tch. A mere Haniwa king
-6623	+	　態度がでかいんじゃないのか」	　acting all high and mighty.」
+6622	Rance	真剣	「むか。ハニワの王如きが、	「Tch. A mere Haniwa king
+6623	+		　態度がでかいんじゃないのか」	　acting all high and mighty.」
 
-6624	Hanny	「へへぇ。私、ちょっとすごいよ？	「Hehe. I'm pretty amazing, you know?
-6625	+	　やろうと思えば、	　If I wanted to,
-6626	+	　世界を終わらせちゃうことだってできるんだから」	　I could even end the world.」
+6624	Hanny	基本	「へへぇ。私、ちょっとすごいよ？	「Hehe. I'm pretty amazing, you know?
+6625	+		　やろうと思えば、	　If I wanted to,
+6626	+		　世界を終わらせちゃうことだってできるんだから」	　I could even end the world.」
 
-6627	Rance	「大口叩きやがって。	「Talking big.
-6628	+	　そんな真似ができるなら、	　If you can really do that,
-6629	+	　さっさとケイブリスをブチ殺してこい」	　go kill Kayblis right now.」
+6627	Rance	イライラ	「大口叩きやがって。	「Talking big.
+6628	+		　そんな真似ができるなら、	　If you can really do that,
+6629	+		　さっさとケイブリスをブチ殺してこい」	　go kill Kayblis right now.」
 
-6630	Hanny	「んーんー、それをやっちゃあおしまいだよ、	「Nuh-uh, if I did that it'd be over,
-6631	+	　っていうことだからねー。だめだめ。楽しくない」	　that's why I can't. No no. Not fun.」
+6630	Hanny	基本	「んーんー、それをやっちゃあおしまいだよ、	「Nuh-uh, if I did that it'd be over,
+6631	+		　っていうことだからねー。だめだめ。楽しくない」	　that's why I can't. No no. Not fun.」
 
-6632	Rance	「ははあ、できないんだな？	「Hah, so you can't?
-6633	+	　吹かしやがってこの白ハニワめ」	　All talk, you white Haniwa.」
+6632	Rance		「ははあ、できないんだな？	「Hah, so you can't?
+6633	+		　吹かしやがってこの白ハニワめ」	　All talk, you white Haniwa.」
 
-6634	Rance	「精々、そこら辺のハニーと大差ないんだろ？	「At best you're no different from the other Hannies, right?
-6635	+	　仰々しいだけで、実際はアホなだけと違うか」	　All show and actually just an idiot.」
+6634	Rance	エロ顔	「精々、そこら辺のハニーと大差ないんだろ？	「At best you're no different from the other Hannies, right?
+6635	+		　仰々しいだけで、実際はアホなだけと違うか」	　All show and actually just an idiot.」
 
-6636	Hanny	「んー、いいよ。わかった。	「Hmm, fine. I get it.
-6637	+	　じゃあ、ちょっとだけお試し……えいっ」	　Then just a little test... Ei!」
+6636	Hanny	基本	「んー、いいよ。わかった。	「Hmm, fine. I get it.
+6637	+		　じゃあ、ちょっとだけお試し……えいっ」	　Then just a little test... Ei!」
 
-6638	Hanny	　　　　　　　　　　　　　　　　　　　　	　　　　　　　　　　　　　　　　　　　　
-6639	+	　	　
-6640	+	　　　　　　　　　　　　　　　　　　　　　「ふ」	　　　　　　　　　　　　　　　　　　　　　「Fu」
+6638	Hanny		　　　　　　　　　　　　　　　　　　　　	　　　　　　　　　　　　　　　　　　　　
+6639	+		　	　
+6640	+		　　　　　　　　　　　　　　　　　　　　　「ふ」	　　　　　　　　　　　　　　　　　　　　　「Fu」
 
-6641	Hanny	「はっはーーー！　なーんちゃって！	「Hah haaa! Just kidding!
-6642	+	　あー疲れた。じゃねー」	　Aah, I'm tired. See ya.」
+6641	Hanny		「はっはーーー！　なーんちゃって！	「Hah haaa! Just kidding!
+6642	+		　あー疲れた。じゃねー」	　Aah, I'm tired. See ya.」
 
-6643	-	ハニーキングは去っていった。	The Hanny King left.
+6643	-		ハニーキングは去っていった。	The Hanny King left.
 
-6644	Rance	「……なんのこっちゃ。	「...What the hell was that.
-6645	+	　おい、何かあったか？」	　Hey, did something happen?」
+6644	Rance	だる顔	「……なんのこっちゃ。	「...What the hell was that.
+6645	+		　おい、何かあったか？」	　Hey, did something happen?」
 
-6646	Sill Plain	「いえ、さあ…………」	「No, well............」
+6646	Sill Plain	きょとん	「いえ、さあ…………」	「No, well............」
 
-6647	Crook Mofus	「ランス」	「Rance」
+6647	Crook Mofus	基本	「ランス」	「Rance」
 
-6648	-	クルックーがやってきた。	Crook came over.
+6648	-		クルックーがやってきた。	Crook came over.
 
-6649	Rance	「お……どうした」	「Oh... What's up.」
+6649	Rance		「お……どうした」	「Oh... What's up.」
 
-6650	Crook Mofus	「今のは、追求しないように。	「Don't pursue what just happened.
-6651	+	　深い意味はありません」	　It has no deep meaning.」
+6650	Crook Mofus		「今のは、追求しないように。	「Don't pursue what just happened.
+6651	+		　深い意味はありません」	　It has no deep meaning.」
 
-6652	Rance	「は？」	「Ha?」
+6652	Rance	だる顔	「は？」	「Ha?」
 
-6653	Crook Mofus	「そういうことで、お願いします」	「That's all, please.」
+6653	Crook Mofus	基本	「そういうことで、お願いします」	「That's all, please.」

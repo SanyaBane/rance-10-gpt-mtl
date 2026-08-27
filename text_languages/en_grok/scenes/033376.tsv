@@ -15,379 +15,379 @@
 * Nikkou	日光刀	Female
 * Hero Helman	ヒーロー２	Male
 
-232666	Lelikov Helman	「んぐんぐ、これ美味しーね♪」	「Munch munch, this is delicious♪」
+232666	Lelikov Helman	きゃはは！	「んぐんぐ、これ美味しーね♪」	「Munch munch, this is delicious♪」
 
-232667	El Mofus	「…………。」	「............」
+232667	El Mofus	基本	「…………。」	「............」
 
-232668	Reset Kalar	「あっ、こんな所にいたー」	「Ah, you were here.」
+232668	Reset Kalar		「あっ、こんな所にいたー」	「Ah, you were here.」
 
-232669	-	あなたがレリコフと共に食事を摂っていると、	While you were eating with Lelikov Helman,
-232670	+	示し合わせたわけでもないのに、	without any prior arrangement,
-232671	+	皆がぞろぞろと集まりだしてきた。	everyone started gathering one by one.
+232669	-		あなたがレリコフと共に食事を摂っていると、	While you were eating with Lelikov Helman,
+232670	+		示し合わせたわけでもないのに、	without any prior arrangement,
+232671	+		皆がぞろぞろと集まりだしてきた。	everyone started gathering one by one.
 
-232672	Yamamoto Rangi	「あと来てないのは……	「The ones not here yet are...
-232673	+	　利用してそうな連中くらいか」	　probably the ones using the services.」
+232672	Yamamoto Rangi		「あと来てないのは……	「The ones not here yet are...
+232673	+		　利用してそうな連中くらいか」	　probably the ones using the services.」
 
-232674	Sushinu the Gandhi	「あ、も、戻ってきたよ」	「Ah, they're back.」
+232674	Sushinu the Gandhi		「あ、も、戻ってきたよ」	「Ah, they're back.」
 
-232675	Nagata-kun	「…………」	「............」
+232675	Nagata-kun		「…………」	「............」
 
-232676	-	長田君は落ち込んでいた。	Nagata-kun was depressed.
+232676	-		長田君は落ち込んでいた。	Nagata-kun was depressed.
 
-232677	Nagata-kun	「……裸見た途端、俺、割れる。	「...The moment I saw her naked, I broke.
-232678	+	　ぱりんぱりん、俺、粉々」	　Crack crack, I'm in pieces.」
+232677	Nagata-kun		「……裸見た途端、俺、割れる。	「...The moment I saw her naked, I broke.
+232678	+		　ぱりんぱりん、俺、粉々」	　Crack crack, I'm in pieces.」
 
-232679	-	何故かカタコトになっている長田君が	For some reason speaking brokenly, Nagata-kun
-232680	+	その場に膝から崩れ落ちる。	collapsed onto his knees.
+232679	-		何故かカタコトになっている長田君が	For some reason speaking brokenly, Nagata-kun
+232680	+		その場に膝から崩れ落ちる。	collapsed onto his knees.
 
-232681	Nagata-kun	「なにも……」	「I couldn't do...
+232681	Nagata-kun		「なにも……」	「I couldn't do...
 
-232682	Nagata-kun	「……なにもできなかった！」	　anything!」
+232682	Nagata-kun		「……なにもできなかった！」	　anything!」
 
-232683	Nagata-kun	「うおおおおおおおおお！」	「Uwoooooooo!」
+232683	Nagata-kun		「うおおおおおおおおお！」	「Uwoooooooo!」
 
-232684	Kentou Uzume	「おー、よしよし。	「There there.
-232685	+	　大丈夫、大丈夫、次があるでござるよー」	　It's okay, there's next time.」
+232684	Kentou Uzume		「おー、よしよし。	「There there.
+232685	+		　大丈夫、大丈夫、次があるでござるよー」	　It's okay, there's next time.」
 
-232686	-	ウズメがよしよしと長田君の頭を撫でていた。	Uzume patted Nagata-kun's head comfortingly.
+232686	-		ウズメがよしよしと長田君の頭を撫でていた。	Uzume patted Nagata-kun's head comfortingly.
 
-232687	Mouri Motonari	「ふわぁぁぁぁ……	「Fwaaaa...
-232688	+	　なんだもう飯の時間か！」	　Is it already meal time!」
+232687	Mouri Motonari		「ふわぁぁぁぁ……	「Fwaaaa...
+232688	+		　なんだもう飯の時間か！」	　Is it already meal time!」
 
-232689	Nagi su Ragarl	「もっちゃん、どこ行ってたの？」	「Mocchan, where were you?」
+232689	Nagi su Ragarl		「もっちゃん、どこ行ってたの？」	「Mocchan, where were you?」
 
-232690	Mouri Motonari	「寝てた！！！！」	「I was sleeping!!!!」
+232690	Mouri Motonari		「寝てた！！！！」	「I was sleeping!!!!」
 
-232691	Mouri Motonari	「クカカ、それより飯だ飯だ！」	「Kukaka, more importantly food food!」
+232691	Mouri Motonari	笑顔	「クカカ、それより飯だ飯だ！」	「Kukaka, more importantly food food!」
 
-232692	Zance Leazas	「…………」	「............」
+232692	Zance Leazas	基本	「…………」	「............」
 
-232693	Reset Kalar	「ザンスちゃん……なにか不機嫌？」	「Zance-chan... are you in a bad mood?」
+232693	Reset Kalar		「ザンスちゃん……なにか不機嫌？」	「Zance-chan... are you in a bad mood?」
 
-232694	Zance Leazas	「人にもらったもんは性に合わねー。	「Stuff given by others doesn't suit me.
-232695	+	　途中で出てきちまったよ」	　I left halfway.」
+232694	Zance Leazas	不満	「人にもらったもんは性に合わねー。	「Stuff given by others doesn't suit me.
+232695	+		　途中で出てきちまったよ」	　I left halfway.」
 
-232696	Zance Leazas	「世界でも指折りの女……	「One of the best women in the world...
-232697	+	　そんな奴を自分の手で手に入れるしかねーな」	　I have to get such a woman with my own hands.」
+232696	Zance Leazas	基本	「世界でも指折りの女……	「One of the best women in the world...
+232697	+		　そんな奴を自分の手で手に入れるしかねーな」	　I have to get such a woman with my own hands.」
 
-232698	Masou Shizuka	「そういう上昇志向、よく似てるわ……	「That ambitious spirit is so similar...
-232699	+	　いや、でもあの馬鹿は、	　No, but that idiot,
-232700	+	　もらえるものはなんでももらってたか」	　took everything he could get.」
+232698	Masou Shizuka		「そういう上昇志向、よく似てるわ……	「That ambitious spirit is so similar...
+232699	+		　いや、でもあの馬鹿は、	　No, but that idiot,
+232700	+		　もらえるものはなんでももらってたか」	　took everything he could get.」
 
-232701	Zance Leazas	「アア？」	「Hah?」
+232701	Zance Leazas		「アア？」	「Hah?」
 
-232702	Arms Arc	「なんだ、結局利用したのは一人もいなかったのか」	「What, in the end no one used the services?」
+232702	Arms Arc		「なんだ、結局利用したのは一人もいなかったのか」	「What, in the end no one used the services?」
 
-232703	Arms Arc	「君達には少し早かったかな？」	「Was it still a bit early for you all?」
+232703	Arms Arc		「君達には少し早かったかな？」	「Was it still a bit early for you all?」
 
-232704	Arms Arc	「まあ、何事も経験。	「Well, everything is experience.
-232705	+	　なにもしない経験、という経験が積めたなら、	　If you gained the experience of not doing anything,
-232706	+	　それはそれでいいさ」	　that's fine too.」
+232704	Arms Arc		「まあ、何事も経験。	「Well, everything is experience.
+232705	+		　なにもしない経験、という経験が積めたなら、	　If you gained the experience of not doing anything,
+232706	+		　それはそれでいいさ」	　that's fine too.」
 
-232707	Brothel Boy	「アームズ様」	「Arms-sama」
+232707	Brothel Boy		「アームズ様」	「Arms-sama」
 
-232708	Arms Arc	「おや？」	「Oh?」
+232708	Arms Arc		「おや？」	「Oh?」
 
-232709	Brothel Boy	「日光様がお戻りになられました」	「Nikkou-sama has returned.」
+232709	Brothel Boy		「日光様がお戻りになられました」	「Nikkou-sama has returned.」
 
-232710	-	ボーイがうやうやしく日本刀を	The boy respectfully handed over the Japanese sword
-232711	+	アームズに手渡した。	to Arms.
+232710	-		ボーイがうやうやしく日本刀を	The boy respectfully handed over the Japanese sword
+232711	+		アームズに手渡した。	to Arms.
 
-232712	Arms Arc	「ああ、ありがとう」	「Ah, thank you.」
+232712	Arms Arc		「ああ、ありがとう」	「Ah, thank you.」
 
-232713	Arms Arc	「日光、どうだった？	「Nikkou, how was it?
-232714	+	　私がいなくなった後――」	　After I left--」
+232713	Arms Arc		「日光、どうだった？	「Nikkou, how was it?
+232714	+		　私がいなくなった後――」	　After I left--」
 
-232715	Nikkou	「…………」	「............」
+232715	Nikkou		「…………」	「............」
 
-232716	Arms Arc	「おや、機嫌が悪そうだな。	「Oh, you seem in a bad mood.
-232717	+	　サービスに不備でもあったのかい？」	　Was there a problem with the service?」
+232716	Arms Arc		「おや、機嫌が悪そうだな。	「Oh, you seem in a bad mood.
+232717	+		　サービスに不備でもあったのかい？」	　Was there a problem with the service?」
 
-232718	Brothel Boy	「出来うる限りのことはさせて頂きましたが……	「We did everything we could...
-232719	+	　お気に召して頂けなかったのなら残念です」	　If it didn't please you, I'm sorry.」
+232718	Brothel Boy	提案	「出来うる限りのことはさせて頂きましたが……	「We did everything we could...
+232719	+		　お気に召して頂けなかったのなら残念です」	　If it didn't please you, I'm sorry.」
 
-232720	Nikkou	「…………」	「............」
+232720	Nikkou	基本	「…………」	「............」
 
-232721	Nikkou	「貴女という人は……はあ……」	「You really are... haa...」
+232721	Nikkou		「貴女という人は……はあ……」	「You really are... haa...」
 
-232722	Arms Arc	「なんだ日光も同意してくれたと思っていたが」	「I thought you agreed too, Nikkou.」
+232722	Arms Arc		「なんだ日光も同意してくれたと思っていたが」	「I thought you agreed too, Nikkou.」
 
-232723	Nikkou	「万事において強引すぎます。	「You're too forceful in everything.
-232724	+	　少しは段階というものを……」	　There should be steps...」
+232723	Nikkou		「万事において強引すぎます。	「You're too forceful in everything.
+232724	+		　少しは段階というものを……」	　There should be steps...」
 
-232725	Nikkou	「…………」	「............」
+232725	Nikkou		「…………」	「............」
 
-232726	Nikkou	「いえ、もう結構です」	「No, that's enough.」
+232726	Nikkou		「いえ、もう結構です」	「No, that's enough.」
 
-232727	Arms Arc	「参ったね。	「You've got me there.
-232728	+	　今までで一番ご機嫌斜めだ」	　This is the worst mood yet.」
+232727	Arms Arc	ふっ	「参ったね。	「You've got me there.
+232728	+		　今までで一番ご機嫌斜めだ」	　This is the worst mood yet.」
 
-232729	Arms Arc	「まあ、力が戻ったのならなんでもいいさ」	「Well, as long as your power returned it's fine.」
+232729	Arms Arc		「まあ、力が戻ったのならなんでもいいさ」	「Well, as long as your power returned it's fine.」
 
-232730	Lelikov Helman	「はいはいはい！　それ、聖刀日光でしょ？	「Yes yes yes! That's the holy sword Nikkou, right?
-232731	+	　持ちたい持ちたい！」	　I wanna hold it I wanna hold it!」
+232730	Lelikov Helman	基本	「はいはいはい！　それ、聖刀日光でしょ？	「Yes yes yes! That's the holy sword Nikkou, right?
+232731	+		　持ちたい持ちたい！」	　I wanna hold it I wanna hold it!」
 
-232732	Arms Arc	「日光を？」	「Nikkou?」
+232732	Arms Arc		「日光を？」	「Nikkou?」
 
-232733	-	アームズは考えるような間を開けてから、	After a thoughtful pause,
-232734	+	少しだけイタズラっぽい笑みを浮かべて	Arms showed a slightly mischievous smile
-232735	+	レリコフに手渡した。	and handed it to Lelikov Helman.
+232733	-		アームズは考えるような間を開けてから、	After a thoughtful pause,
+232734	+		少しだけイタズラっぽい笑みを浮かべて	Arms showed a slightly mischievous smile
+232735	+		レリコフに手渡した。	and handed it to Lelikov Helman.
 
-232736	Arms Arc	「……構わないが、気をつけろ」	「...I don't mind, but be careful.」
+232736	Arms Arc		「……構わないが、気をつけろ」	「...I don't mind, but be careful.」
 
-232737	Lelikov Helman	「気をつけろ？」	「Be careful?」
+232737	Lelikov Helman		「気をつけろ？」	「Be careful?」
 
-232738	-	首を傾げながら、	Tilting her head,
-232739	+	レリコフが日光を鞘から抜いた途端――	the moment Lelikov Helman drew Nikkou from its sheath--
+232738	-		首を傾げながら、	Tilting her head,
+232739	+		レリコフが日光を鞘から抜いた途端――	the moment Lelikov Helman drew Nikkou from its sheath--
 
-232740	Lelikov Helman	「ぴぎゅん！？」	「Pigyuuun!?」
+232740	Lelikov Helman		「ぴぎゅん！？」	「Pigyuuun!?」
 
-232741	Lelikov Helman	「び、びりっとした！？	「I, it zapped me!?
-232742	+	　なにこれ！？　なにこれ！？」	　What is this!? What is this!?」
+232741	Lelikov Helman	しょんぼり	「び、びりっとした！？	「I, it zapped me!?
+232742	+		　なにこれ！？　なにこれ！？」	　What is this!? What is this!?」
 
-232743	Arms Arc	「はっはっはっ、そうだろうな」	「Hah hah hah, as expected.」
+232743	Arms Arc	笑い	「はっはっはっ、そうだろうな」	「Hah hah hah, as expected.」
 
-232744	Arms Arc	「日光を扱うには特別な儀式……	「To handle Nikkou requires a special ritual...
-232745	+	　ふっ、そうだな、修行が必要なんだ」	　Heh, yes, training is needed.」
+232744	Arms Arc	ふっ	「日光を扱うには特別な儀式……	「To handle Nikkou requires a special ritual...
+232745	+		　ふっ、そうだな、修行が必要なんだ」	　Heh, yes, training is needed.」
 
-232746	Arms Arc	「君にはまだ早い。	「It's still too early for you.
-232747	+	　特にここに来て何もしない人には、ね」	　Especially for those who came here and did nothing.」
+232746	Arms Arc	基本	「君にはまだ早い。	「It's still too early for you.
+232747	+		　特にここに来て何もしない人には、ね」	　Especially for those who came here and did nothing.」
 
-232748	Zance Leazas	「アア？　どういう意味だそれは」	「Hah? What do you mean by that?」
+232748	Zance Leazas		「アア？　どういう意味だそれは」	「Hah? What do you mean by that?」
 
-232749	Arms Arc	「言葉通りの意味だよ」	「Exactly what it sounds like.」
+232749	Arms Arc		「言葉通りの意味だよ」	「Exactly what it sounds like.」
 
-232750	Zance Leazas	「おもしれーじゃねーか！	「That's interesting!
-232751	+	　おい、それ俺にも持たせろ！」	　Hey, let me hold it too!」
+232750	Zance Leazas	不満	「おもしれーじゃねーか！	「That's interesting!
+232751	+		　おい、それ俺にも持たせろ！」	　Hey, let me hold it too!」
 
-232752	Zance Leazas	「あばばばばばばばば！？」	「Ababababababa!?」
+232752	Zance Leazas	呆れ	「あばばばばばばばば！？」	「Ababababababa!?」
 
-232753	-	即、ザンスはビリビリ状態になった。	Zance was instantly zapped.
+232753	-		即、ザンスはビリビリ状態になった。	Zance was instantly zapped.
 
-232754	Zance Leazas	「はっ！　がっ！　ぎっ！	「Hah! Gah! Gih!
-232755	+	　ど、どーーっだ！　持てたぞぞぞぞ！」	　H, how's that! I held it zozzo!」
+232754	Zance Leazas		「はっ！　がっ！　ぎっ！	「Hah! Gah! Gih!
+232755	+		　ど、どーーっだ！　持てたぞぞぞぞ！」	　H, how's that! I held it zozzo!」
 
-232756	Nagata-kun	「無理すんな！？	「Don't force it!?
-232757	+	　お前感電死すんぞ！？」	　You'll get electrocuted to death!」
+232756	Nagata-kun	基本	「無理すんな！？	「Don't force it!?
+232757	+		　お前感電死すんぞ！？」	　You'll get electrocuted to death!」
 
-232758	Arms Arc	「あっはっはっはっ！」	「Ah hah hah hah!」
+232758	Arms Arc	笑い	「あっはっはっはっ！」	「Ah hah hah hah!」
 
-232759	-	アームズが大口を開けて笑う。	Arms laughed with her mouth wide open.
-232760	+	どうやらかなり上機嫌らしい。	She seemed to be in a very good mood.
+232759	-		アームズが大口を開けて笑う。	Arms laughed with her mouth wide open.
+232760	+		どうやらかなり上機嫌らしい。	She seemed to be in a very good mood.
 
-232761	Arms Arc	「ふ、くく……面白いな、君達は……」	「Fufu, kukuku... You guys are interesting...」
+232761	Arms Arc	ふっ	「ふ、くく……面白いな、君達は……」	「Fufu, kukuku... You guys are interesting...」
 
-232762	Arms Arc	「そうだな……	「That's right...
-232763	+	　よし、ではこうしよう」	　Alright, then let's do this.」
+232762	Arms Arc		「そうだな……	「That's right...
+232763	+		　よし、ではこうしよう」	　Alright, then let's do this.」
 
-232764	Arms Arc	「もしも持つことが出来たら、	「If you can hold it,
-232765	+	　残念だが日光を譲ることにしよう」	　I'll sadly give Nikkou to you.」
+232764	Arms Arc	基本	「もしも持つことが出来たら、	「If you can hold it,
+232765	+		　残念だが日光を譲ることにしよう」	　I'll sadly give Nikkou to you.」
 
-232766	Yamamoto Rangi	「それは本当ですか？」	「Is that true?」
+232766	Yamamoto Rangi		「それは本当ですか？」	「Is that true?」
 
-232767	Arms Arc	「もちろん。	「Of course.
-232768	+	　私はこの手の冗談は得意じゃないんだ」	　I'm not one for jokes like this.」
+232767	Arms Arc		「もちろん。	「Of course.
+232768	+		　私はこの手の冗談は得意じゃないんだ」	　I'm not one for jokes like this.」
 
-232769	Yamamoto Rangi	「……そこまで言うからには、	「...Since you say that much,
-232770	+	　無理な理由があるのでしょうが、	　there must be a reason it's impossible,
-232771	+	　挑戦するだけしてみる価値はあるか」	　but it's worth trying.」
+232769	Yamamoto Rangi	説明するよ	「……そこまで言うからには、	「...Since you say that much,
+232770	+		　無理な理由があるのでしょうが、	　there must be a reason it's impossible,
+232771	+		　挑戦するだけしてみる価値はあるか」	　but it's worth trying.」
 
-232772	Zance Leazas	「おい、もう一回やらせろ！	「Hey, let me try again!
-232773	+	　次だ！　次こそ！」	　Next! This time for sure!」
+232772	Zance Leazas	怒り	「おい、もう一回やらせろ！	「Hey, let me try again!
+232773	+		　次だ！　次こそ！」	　Next! This time for sure!」
 
-232774	Yamamoto Rangi	「……お前は無理だっただろうが」	「...You couldn't do it though.」
+232774	Yamamoto Rangi	基本	「……お前は無理だっただろうが」	「...You couldn't do it though.」
 
-232775	Arms Arc	「ふふふ……」	「Fufufu...」
+232775	Arms Arc		「ふふふ……」	「Fufufu...」
 
-232776	Nikkou	「……はあ、貴女という人は」	「...Haa, you really are...」
+232776	Nikkou		「……はあ、貴女という人は」	「...Haa, you really are...」
 
-232777	-	アームズの挑発を受ける形で、	Provoked by Arms,
-232778	+	それぞれが挑戦してみるが……	each one tried but...
+232777	-		アームズの挑発を受ける形で、	Provoked by Arms,
+232778	+		それぞれが挑戦してみるが……	each one tried but...
 
-232779	Yamamoto Rangi	「……やはり無理か。	「...As expected it's impossible.
-232780	+	　鞘から抜こうとした途端、電撃が走る」	　The moment I try to draw it, electricity runs through.」
+232779	Yamamoto Rangi		「……やはり無理か。	「...As expected it's impossible.
+232780	+		　鞘から抜こうとした途端、電撃が走る」	　The moment I try to draw it, electricity runs through.」
 
-232781	Hero Helman	「ばばばばばば！？」	「Bababababa!?」
+232781	Hero Helman		「ばばばばばば！？」	「Bababababa!?」
 
-232782	Hero Helman	「む、無理だよぉ……これ……」	「I, it's impossible... this...」
+232782	Hero Helman		「む、無理だよぉ……これ……」	「I, it's impossible... this...」
 
-232783	Sushinu the Gandhi	「ひ、ひーーーっ！？　無理！　無理ー！」	「Hiiiii!? Impossible! Impossible!」
+232783	Sushinu the Gandhi	パニック	「ひ、ひーーーっ！？　無理！　無理ー！」	「Hiiiii!? Impossible! Impossible!」
 
-232784	Zance Leazas	「いいから持ちやがれ、このタコ！	「Just hold it, you octopus!
-232785	+	　まだ柄に触ってもいねぇぞ！」	　You haven't even touched the hilt yet!」
+232784	Zance Leazas	基本	「いいから持ちやがれ、このタコ！	「Just hold it, you octopus!
+232785	+		　まだ柄に触ってもいねぇぞ！」	　You haven't even touched the hilt yet!」
 
-232786	Sushinu the Gandhi	「きゃーーーーー！？」	「Kyaaaaaaa!?」
+232786	Sushinu the Gandhi	パニック	「きゃーーーーー！？」	「Kyaaaaaaa!?」
 
-232787	Nagi su Ragarl	「お姉様とリセットはやらないの？」	「Aren't big sister and Reset going to try?」
+232787	Nagi su Ragarl	基本	「お姉様とリセットはやらないの？」	「Aren't big sister and Reset going to try?」
 
-232788	Reset Kalar	「私達は無理だって知ってるから」	「We know it's impossible for us.」
+232788	Reset Kalar	たははー	「私達は無理だって知ってるから」	「We know it's impossible for us.」
 
-232789	Masou Shizuka	「まったく……	「Good grief...
-232790	+	　からかわれてんのよ、あんた達」	　You're all being teased.」
+232789	Masou Shizuka	ため息	「まったく……	「Good grief...
+232790	+		　からかわれてんのよ、あんた達」	　You're all being teased.」
 
-232791	-	日光は当然のように誰一人持てなかった。	As expected, no one could hold Nikkou.
+232791	-		日光は当然のように誰一人持てなかった。	As expected, no one could hold Nikkou.
 
-232792	Nagata-kun	「くそー、どうすりゃ持てるんだろうなぁ……」	「Damn, how can you hold it...」
+232792	Nagata-kun	基本	「くそー、どうすりゃ持てるんだろうなぁ……」	「Damn, how can you hold it...」
 
-232793	Nagata-kun	「おい、相棒。	「Hey, partner.
-232794	+	　お前が最後だぜ、スパーッと持っちゃえよ」	　You're the last one, grab it smoothly.」
+232793	Nagata-kun		「おい、相棒。	「Hey, partner.
+232794	+		　お前が最後だぜ、スパーッと持っちゃえよ」	　You're the last one, grab it smoothly.」
 
-232795	-	長田君に促されて、	Urged by Nagata-kun,
-232796	+	あなたも聖刀日光に手を伸ばす。	you also reached for the holy sword Nikkou.
+232795	-		長田君に促されて、	Urged by Nagata-kun,
+232796	+		あなたも聖刀日光に手を伸ばす。	you also reached for the holy sword Nikkou.
 
-232797	El Mofus	「…………。」	「............」
-232798	-	　	　
-232799	+	　　＜しゃりん……＞	　　＜Sharin...＞
+232797	El Mofus		「…………。」	「............」
+232798	-		　	　
+232799	+		　　＜しゃりん……＞	　　＜Sharin...＞
 
-232800	-	鞘走りの音も美しく、	The sound of drawing from the sheath was beautiful,
-232801	+	なんの抵抗もなく日光の抜刀が済む。	and Nikkou was drawn without any resistance.
+232800	-		鞘走りの音も美しく、	The sound of drawing from the sheath was beautiful,
+232801	+		なんの抵抗もなく日光の抜刀が済む。	and Nikkou was drawn without any resistance.
 
-232802	-	そのまま軽くぶんぶんと振ってみる。	You lightly swung it around.
-232803	+	刀身の残像は水のように美しく、	The afterimage of the blade was beautiful like water,
-232804	+	風のように軽い刀だった。	and the sword was light as the wind.
+232802	-		そのまま軽くぶんぶんと振ってみる。	You lightly swung it around.
+232803	+		刀身の残像は水のように美しく、	The afterimage of the blade was beautiful like water,
+232804	+		風のように軽い刀だった。	and the sword was light as the wind.
 
-232805	Nagata-kun	「って……」	「Wait...」
+232805	Nagata-kun		「って……」	「Wait...」
 
-232806	Nagata-kun	「えーーーっ！？　持ててるーーー！？」	「Ehhh!? You can hold it!?」
+232806	Nagata-kun		「えーーーっ！？　持ててるーーー！？」	「Ehhh!? You can hold it!?」
 
-232807	Zance Leazas	「アア！？　おい、＜エール＞！	「Hah!? Hey, ＜エール＞!
-232808	+	　お前、なにをやりやがった！？」	　What the hell did you do!?」
+232807	Zance Leazas	怒り	「アア！？　おい、＜エール＞！	「Hah!? Hey, ＜エール＞!
+232808	+		　お前、なにをやりやがった！？」	　What the hell did you do!?」
 
-232809	El Mofus	「…………。」	「............」
-232810	Nagata-kun	「ちゃった、って……」	「It just happened...」
+232809	El Mofus	基本	「…………。」	「............」
+232810	Nagata-kun		「ちゃった、って……」	「It just happened...」
 
-232811	Zance Leazas	「どうなってんだぁ？」	「What's going on?」
+232811	Zance Leazas		「どうなってんだぁ？」	「What's going on?」
 
-232812	Nagata-kun	「ごごごって……」	「I, I, I just...」
+232812	Nagata-kun		「ごごごって……」	「I, I, I just...」
 
-232813	Zance Leazas	「なんでこんなふざけた奴を、	「Why would Nikkou acknowledge
-232814	+	　日光は認めてやがんだ……」	　such a ridiculous guy...」
+232813	Zance Leazas		「なんでこんなふざけた奴を、	「Why would Nikkou acknowledge
+232814	+		　日光は認めてやがんだ……」	　such a ridiculous guy...」
 
-232815	Arms Arc	「…………」	「............」
+232815	Arms Arc		「…………」	「............」
 
-232816	-	この事態に誰よりも驚いているのは、	The ones most surprised by this situation
-232817	+	アームズ、日光、志津香、リセット、	were Arms, Nikkou, Shizuka, Reset,
-232818	+	オーナーとしての条件を知る者達だった。	and those who knew the conditions for ownership.
+232816	-		この事態に誰よりも驚いているのは、	The ones most surprised by this situation
+232817	+		アームズ、日光、志津香、リセット、	were Arms, Nikkou, Shizuka, Reset,
+232818	+		オーナーとしての条件を知る者達だった。	and those who knew the conditions for ownership.
 
-232819	Reset Kalar	「えっと、これは……」	「Umm, this is...」
+232819	Reset Kalar	驚き	「えっと、これは……」	「Umm, this is...」
 
-232820	Masou Shizuka	「どういうことなの？」	「What does this mean?」
+232820	Masou Shizuka	怒り	「どういうことなの？」	「What does this mean?」
 
-232821	Arms Arc	「日光？」	「Nikkou?」
+232821	Arms Arc	基本	「日光？」	「Nikkou?」
 
-232822	Nikkou	「…………」	「............」
+232822	Nikkou		「…………」	「............」
 
-232823	Nikkou	「……私にも分かりません。	「...I don't understand it either.
-232824	+	　儀式もなしに持てるなんて……」	　Holding it without the ritual...」
+232823	Nikkou		「……私にも分かりません。	「...I don't understand it either.
+232824	+		　儀式もなしに持てるなんて……」	　Holding it without the ritual...」
 
-232825	Nikkou	「こんなことは初めてのことです」	「This has never happened before.」
+232825	Nikkou		「こんなことは初めてのことです」	「This has never happened before.」
 
-232826	Arms Arc	「…………」	「............」
+232826	Arms Arc		「…………」	「............」
 
-232827	Arms Arc	「よっぽど……相性が良かったのかな……」	「The compatibility must have been exceptionally good...」
+232827	Arms Arc		「よっぽど……相性が良かったのかな……」	「The compatibility must have been exceptionally good...」
 
-232828	Arms Arc	「なんだ、日光め。	「What is this, Nikkou.
-232829	+	　私にはあれほど心を開かなかった癖に、	　You wouldn't open your heart to me that much,
-232830	+	　＜エール＞には簡単に心を開くのだな」	　yet you open it so easily to ＜エール＞.」
+232828	Arms Arc		「なんだ、日光め。	「What is this, Nikkou.
+232829	+		　私にはあれほど心を開かなかった癖に、	　You wouldn't open your heart to me that much,
+232830	+		　＜エール＞には簡単に心を開くのだな」	　yet you open it so easily to ＜エール＞.」
 
-232831	Nikkou	「……誤解です」	「...It's a misunderstanding.」
+232831	Nikkou		「……誤解です」	「...It's a misunderstanding.」
 
-232832	Nagata-kun	「あの、アームズさん？」	「Um, Arms-san?」
+232832	Nagata-kun		「あの、アームズさん？」	「Um, Arms-san?」
 
-232833	Arms Arc	「なーに、別に拗ねてなんかいないさ」	「What, I'm not sulking or anything.」
+232833	Arms Arc		「なーに、別に拗ねてなんかいないさ」	「What, I'm not sulking or anything.」
 
-232834	Nagata-kun~	（拗ねてるんだ……）	（She is sulking...）
+232834	Nagata-kun~		（拗ねてるんだ……）	（She is sulking...）
 
-232835	El Mofus	「…………。」	「............」
-232836	Arms Arc	「…………」	「............」
+232835	El Mofus		「…………。」	「............」
+232836	Arms Arc		「…………」	「............」
 
-232837	-	アームズは長々と溜め息を吐き出した。	Arms let out a long sigh.
+232837	-		アームズは長々と溜め息を吐き出した。	Arms let out a long sigh.
 
-232838	Arms Arc	「……仕方ない」	「...Can't be helped.」
+232838	Arms Arc		「……仕方ない」	「...Can't be helped.」
 
-232839	Arms Arc	「日光は物ではなく生命体。	「Nikkou is not an object but a living being.
-232840	+	　彼女が君の方がいいというなら……	　If she prefers you...
-232841	+	　残念だが、諦めざるを得ない」	　Sadly, I have no choice but to give up.」
+232839	Arms Arc		「日光は物ではなく生命体。	「Nikkou is not an object but a living being.
+232840	+		　彼女が君の方がいいというなら……	　If she prefers you...
+232841	+		　残念だが、諦めざるを得ない」	　Sadly, I have no choice but to give up.」
 
-232842	Arms Arc	「日光は君に譲るよ」	「I'll give Nikkou to you.」
+232842	Arms Arc		「日光は君に譲るよ」	「I'll give Nikkou to you.」
 
-232843	Nagata-kun	「お……」	「Oh...」
+232843	Nagata-kun		「お……」	「Oh...」
 
-232844	Nagata-kun	「おーーーっ！　やったじゃねぇか相棒！」	「Oooooh! You did it, partner!」
+232844	Nagata-kun		「おーーーっ！　やったじゃねぇか相棒！」	「Oooooh! You did it, partner!」
 
-232845	Nagata-kun	「完璧にただの偶然だけど、	「It's completely by chance,
-232846	+	　魔王に対抗する為の武器ゲーーット！」	　but we got the weapon to fight the Demon King!」
+232845	Nagata-kun		「完璧にただの偶然だけど、	「It's completely by chance,
+232846	+		　魔王に対抗する為の武器ゲーーット！」	　but we got the weapon to fight the Demon King!」
 
-232847	Nagata-kun	「うひょー、今回はもう完璧じゃない！？	「Whoa, this time it's perfect!?
-232848	+	　さっすが、俺の相棒だぜ！」	　As expected of my partner!」
+232847	Nagata-kun		「うひょー、今回はもう完璧じゃない！？	「Whoa, this time it's perfect!?
+232848	+		　さっすが、俺の相棒だぜ！」	　As expected of my partner!」
 
-232849	-	聖刀日光、魔人と魔王に対抗できる	The holy sword Nikkou, one of only two weapons
-232850	+	この世界に二振りしかない武具の内の一振り。	in this world capable of opposing Fiend and the Demon King.
+232849	-		聖刀日光、魔人と魔王に対抗できる	The holy sword Nikkou, one of only two weapons
+232850	+		この世界に二振りしかない武具の内の一振り。	in this world capable of opposing Fiend and the Demon King.
 
-232851	-	あなたは偶然ではあるが、	By coincidence,
-232852	+	その日光の正統なオーナーとして認められた。	you were recognized as Nikkou's rightful owner.
+232851	-		あなたは偶然ではあるが、	By coincidence,
+232852	+		その日光の正統なオーナーとして認められた。	you were recognized as Nikkou's rightful owner.
 
-232853	-	最後の魔王の子を仲間にし、	Having recruited the last Demon King's child,
-232854	+	オーブも四つ目を手に入れた。	you also obtained the fourth Orb.
+232853	-		最後の魔王の子を仲間にし、	Having recruited the last Demon King's child,
+232854	+		オーブも四つ目を手に入れた。	you also obtained the fourth Orb.
 
-232855	-	残すオーブは一つのみ。	Only one Orb remains.
+232855	-		残すオーブは一つのみ。	Only one Orb remains.
 
-232856	-	あなた達の旅の終わりが見えてきた。	The end of your journey is in sight.
+232856	-		あなた達の旅の終わりが見えてきた。	The end of your journey is in sight.
 
-232857	-	…………	............
+232857	-		…………	............
 
-232858	-	……	...
+232858	-		……	...
 
-232859	Arms Arc	「…………」	「............」
+232859	Arms Arc		「…………」	「............」
 
-232860	-	それまで押し黙っていたアームズが、	Arms, who had been silent until now,
-232861	+	不意に口を開く。	suddenly spoke.
+232860	-		それまで押し黙っていたアームズが、	Arms, who had been silent until now,
+232861	+		不意に口を開く。	suddenly spoke.
 
-232862	Arms Arc	「負けっ放しは趣味じゃないな」	「I don't like losing all the time.」
+232862	Arms Arc		「負けっ放しは趣味じゃないな」	「I don't like losing all the time.」
 
-232863	Nagata-kun	「え、なんの話っすか？」	「Eh, what are you talking about?」
+232863	Nagata-kun		「え、なんの話っすか？」	「Eh, what are you talking about?」
 
-232864	Arms Arc	「＜エール＞、これから自由都市の	「＜エール＞, soon in one of the Free Cities
-232865	+	　ある都市で武闘大会が開かれる」	　a martial arts tournament will be held.」
+232864	Arms Arc		「＜エール＞、これから自由都市の	「＜エール＞, soon in one of the Free Cities
+232865	+		　ある都市で武闘大会が開かれる」	　a martial arts tournament will be held.」
 
-232866	Arms Arc	「タイミングもばっちりだ」	「The timing is perfect.」
+232866	Arms Arc		「タイミングもばっちりだ」	「The timing is perfect.」
 
-232867	Arms Arc	「君もそれに出てみないか？」	「Why don't you enter too?」
+232867	Arms Arc		「君もそれに出てみないか？」	「Why don't you enter too?」
 
-232868	Nagata-kun	「へ？　武闘大会？」	「Heh? Martial arts tournament?」
+232868	Nagata-kun		「へ？　武闘大会？」	「Heh? Martial arts tournament?」
 
-232869	Zance Leazas	「面白そうな話だが……	「Sounds interesting but...
-232870	+	　俺らに、んな暇はねぇぞ」	　We don't have time for that.」
+232869	Zance Leazas		「面白そうな話だが……	「Sounds interesting but...
+232870	+		　俺らに、んな暇はねぇぞ」	　We don't have time for that.」
 
-232871	Arms Arc	「いや、＜エール＞に限らず、	「No, not just ＜エール＞,
-232872	+	　この場の全員それに参加するべきだ」	　everyone here should participate.」
+232871	Arms Arc		「いや、＜エール＞に限らず、	「No, not just ＜エール＞,
+232872	+		　この場の全員それに参加するべきだ」	　everyone here should participate.」
 
-232873	Arms Arc	「これから魔王と戦うにあたって	「When fighting the Demon King from now on,
-232874	+	　必要なものが手に入るかも知れないんだからね」	　we might obtain something necessary.」
+232873	Arms Arc		「これから魔王と戦うにあたって	「When fighting the Demon King from now on,
+232874	+		　必要なものが手に入るかも知れないんだからね」	　we might obtain something necessary.」
 
-232875	Zance Leazas	「アア？　なんだそりゃ」	「Hah? What is that?」
+232875	Zance Leazas		「アア？　なんだそりゃ」	「Hah? What is that?」
 
-232876	Yamamoto Rangi	「ああ……その大会なら、	「Ah... if it's that tournament,
-232877	+	　最初から出るつもりでしたよ」	　I was planning to enter from the start.」
+232876	Yamamoto Rangi		「ああ……その大会なら、	「Ah... if it's that tournament,
+232877	+		　最初から出るつもりでしたよ」	　I was planning to enter from the start.」
 
-232878	Reset Kalar	「その武闘大会って――」	「That martial arts tournament...」
+232878	Reset Kalar		「その武闘大会って――」	「That martial arts tournament...」
 
-232879	Arms Arc	「ふっ……名前くらいは知ってるかもな」	「Heh... you might know the name.」
+232879	Arms Arc		「ふっ……名前くらいは知ってるかもな」	「Heh... you might know the name.」
 
-232880	-	アームズはニッと頬を歪めて、	Arms grinned, twisting her cheek,
-232881	+	その名を伝えた。	and told the name.
+232880	-		アームズはニッと頬を歪めて、	Arms grinned, twisting her cheek,
+232881	+		その名を伝えた。	and told the name.
 
-232882	Arms Arc	「毎年、闘神都市で開かれる、	「Held every year in the Toushin City,
-232883	+	　世界一の強者を決める大会」	　the tournament to decide the world's strongest.」
+232882	Arms Arc		「毎年、闘神都市で開かれる、	「Held every year in the Toushin City,
+232883	+		　世界一の強者を決める大会」	　the tournament to decide the world's strongest.」
 
-232884	Arms Arc	「――その名も闘神大会」	「--It's called the Toushin Tournament.」
+232884	Arms Arc		「――その名も闘神大会」	「--It's called the Toushin Tournament.」
 
-232885	Arms Arc	「出場者には魔剣カオスを	「Participants are given a chance
-232886	+	　手に入れるチャンスが与えられる」	　to obtain the Demon Sword Chaos.」
+232885	Arms Arc		「出場者には魔剣カオスを	「Participants are given a chance
+232886	+		　手に入れるチャンスが与えられる」	　to obtain the Demon Sword Chaos.」
 
-232887	Arms Arc	「君達一行はできるだけ	「Your party should participate
-232888	+	　参加した方がいいだろうね」	　as much as possible.」
+232887	Arms Arc		「君達一行はできるだけ	「Your party should participate
+232888	+		　参加した方がいいだろうね」	　as much as possible.」
 
-232889	Nagata-kun	「…………」	「............」
+232889	Nagata-kun		「…………」	「............」
 
-232890	Nagata-kun	「トーナメント展開？」	「Tournament arc?」
+232890	Nagata-kun		「トーナメント展開？」	「Tournament arc?」

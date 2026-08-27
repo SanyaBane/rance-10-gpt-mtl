@@ -4,134 +4,134 @@
 * Ian Ruston	イアン	Male
 * Kentou Kanami	かなみ	Female
 
-122806	Rance	「お、ビスケッタさんだ」	「Oh, it's Biscuitta-san.」
+122806	Rance	基本	「お、ビスケッタさんだ」	「Oh, it's Biscuitta-san.」
 
-122807	Biscuitta Burns	「およはうございます、御主人様」	「Good morning, Master.」
+122807	Biscuitta Burns	目閉じ	「およはうございます、御主人様」	「Good morning, Master.」
 
-122808	Rance	「と……」	「And...」
+122808	Rance	基本	「と……」	「And...」
 
-122809	Ian Ruston	「おはようございます、御主人様」	「Good morning, Master.」
+122809	Ian Ruston		「おはようございます、御主人様」	「Good morning, Master.」
 
-122810	Rance	「誰だお前はーーーッ！！」	「Who the hell are you!!!」
+122810	Rance		「誰だお前はーーーッ！！」	「Who the hell are you!!!」
 
-122811	Ian Ruston	「ええっ！？」	「Eeh!?」
+122811	Ian Ruston		「ええっ！？」	「Eeh!?」
 
-122812	Rance	「……前にあったことあるか？	「...Have we met before?
-122813	+	　俺は男の顔は覚えんからな」	　I don't remember men's faces.」
+122812	Rance		「……前にあったことあるか？	「...Have we met before?
+122813	+		　俺は男の顔は覚えんからな」	　I don't remember men's faces.」
 
-122814	Biscuitta Burns	「こちらはイアン・ルストン。	「This is Ian Luston.
-122815	+	　最近、新しく執事見習いとして雇いました。	　We recently hired him as a new butler apprentice.
-122816	?	　ちなみに御主人様は初対面です」	　By the way, this is your first meeting with Master.」
+122814	Biscuitta Burns		「こちらはイアン・ルストン。	「This is Ian Luston.
+122815	+		　最近、新しく執事見習いとして雇いました。	　We recently hired him as a new butler apprentice.
+122816	?		　ちなみに御主人様は初対面です」	　By the way, this is your first meeting with Master.」
 
-122817	Rance	「む、本当に見たことない顔だったか」	「Mu, I really haven't seen that face before.」
+122817	Rance		「む、本当に見たことない顔だったか」	「Mu, I really haven't seen that face before.」
 
-122818	Rance	「って、執事だとぉー？」	「Wait, a butler?」
+122818	Rance		「って、執事だとぉー？」	「Wait, a butler?」
 
-122819	Biscuitta Burns	「ロナと同様に彼もまた、	「Like Rona, he too was
-122820	+	　魔人レッドアイに誘拐されていたようで……	　apparently kidnapped by the Fiend RedEye...
-122821	+	　それを見つけてこうして保護を」	　We found him and are protecting him.」
+122819	Biscuitta Burns		「ロナと同様に彼もまた、	「Like Rona, he too was
+122820	+		　魔人レッドアイに誘拐されていたようで……	　apparently kidnapped by the Fiend RedEye...
+122821	+		　それを見つけてこうして保護を」	　We found him and are protecting him.」
 
-122822	Rance	「むむむ……」	「Mumu...」
+122822	Rance	真剣	「むむむ……」	「Mumu...」
 
-122823	Rance	「執事ってのは男、ってことだよな？」	「A butler means a man, right?」
+122823	Rance	だる顔	「執事ってのは男、ってことだよな？」	「A butler means a man, right?」
 
-122824	Biscuitta Burns	「左様でございます」	「That is correct.」
+122824	Biscuitta Burns	基本	「左様でございます」	「That is correct.」
 
-122825	Rance	「うむうむ、そうだな。	「Yes yes, that's right.
-122826	+	　女の執事なんて聞いたことないもんな」	　I've never heard of a female butler.」
+122825	Rance	真剣	「うむうむ、そうだな。	「Yes yes, that's right.
+122826	+		　女の執事なんて聞いたことないもんな」	　I've never heard of a female butler.」
 
-122827	Rance	「男はいらーーーん！」	「I don't need a man!」
+122827	Rance	怒り	「男はいらーーーん！」	「I don't need a man!」
 
-122828	Ian Ruston	「ええっ！？」	「Eeh!?」
+122828	Ian Ruston	基本	「ええっ！？」	「Eeh!?」
 
-122829	Rance	「俺の世話をするのは奴隷か、	「The ones who take care of me are slaves,
-122830	+	　見目麗しいメイドと決まってるのだ。	　or beautiful maids.
-122831	+	　ガキとは言え男の執事なんていらん」	　I don't need a male butler even if he's a kid.」
+122829	Rance	イライラ	「俺の世話をするのは奴隷か、	「The ones who take care of me are slaves,
+122830	+		　見目麗しいメイドと決まってるのだ。	　or beautiful maids.
+122831	+		　ガキとは言え男の執事なんていらん」	　I don't need a male butler even if he's a kid.」
 
-122832	Biscuitta Burns	「はい、そう仰られると思い、	「Yes, as expected you would say that,
-122833	+	　彼に御主人様のお世話をさせる気はありません」	　so I have no intention of having him serve Master.」
+122832	Biscuitta Burns	基本	「はい、そう仰られると思い、	「Yes, as expected you would say that,
+122833	+		　彼に御主人様のお世話をさせる気はありません」	　so I have no intention of having him serve Master.」
 
-122834	Biscuitta Burns	「これは今まで御主人様には	「This is something I haven't told Master yet...
-122835	+	　お話していないことでしたが……」	
+122834	Biscuitta Burns	レンズピカー	「これは今まで御主人様には	「This is something I haven't told Master yet...
+122835	+		　お話していないことでしたが……」	
 
-122836	Biscuitta Burns	「城に来る各国の兵の中には、	「Among the soldiers from various countries coming to the castle,
-122837	+	　メイドに色目を使う者が時折……」	　there are some who make advances on the maids...」
+122836	Biscuitta Burns		「城に来る各国の兵の中には、	「Among the soldiers from various countries coming to the castle,
+122837	+		　メイドに色目を使う者が時折……」	　there are some who make advances on the maids...」
 
-122838	Rance	「なんだと！？	「What!?
-122839	+	　重大事件ではないか！」	　That's a serious incident!」
+122838	Rance	基本	「なんだと！？	「What!?
+122839	+		　重大事件ではないか！」	　That's a serious incident!」
 
-122840	Biscuitta Burns	「まだこれという行動に出る方はいませんが、	「No one has taken concrete action yet,
-122841	+	　今後はどうなるか分かりません」	　but we don't know what will happen in the future.」
+122840	Biscuitta Burns		「まだこれという行動に出る方はいませんが、	「No one has taken concrete action yet,
+122841	+		　今後はどうなるか分かりません」	　but we don't know what will happen in the future.」
 
-122842	Biscuitta Burns	「その為、彼にはそういう方の	「For that reason, I was thinking of having him
-122843	+	　お世話を頼もうかと考えております」	　take care of those kinds of people.」
+122842	Biscuitta Burns		「その為、彼にはそういう方の	「For that reason, I was thinking of having him
+122843	+		　お世話を頼もうかと考えております」	　take care of those kinds of people.」
 
-122844	Rance	「む……なる、ほど……」	「Mu... I see...」
+122844	Rance		「む……なる、ほど……」	「Mu... I see...」
 
-122845	Rance	「まあ……そういうことなら……」	「Well... if that's the case...」
+122845	Rance		「まあ……そういうことなら……」	「Well... if that's the case...」
 
-122846	Biscuitta Burns	「従者の全ては主の為に――	「All servants exist for their master――
-122847	+	　主の益に繋がらないのであれば、	　If it does not benefit the master,
-122848	+	　雇ったりは致しません」	　we will not employ them.」
+122846	Biscuitta Burns	目閉じ	「従者の全ては主の為に――	「All servants exist for their master――
+122847	+		　主の益に繋がらないのであれば、	　If it does not benefit the master,
+122848	+		　雇ったりは致しません」	　we will not employ them.」
 
-122849	Rance	「うーむ。	「Hmm.
-122850	+	　ビスケッタさんがそこまで言うならよかろう」	　If Biscuitta says so, then fine.」
+122849	Rance	真剣	「うーむ。	「Hmm.
+122850	+		　ビスケッタさんがそこまで言うならよかろう」	　If Biscuitta says so, then fine.」
 
-122851	Rance	「おい、粉骨砕身、身を粉にして働けよ」	「Hey, work with all your might, grind yourself to dust.」
+122851	Rance		「おい、粉骨砕身、身を粉にして働けよ」	「Hey, work with all your might, grind yourself to dust.」
 
-122852	Ian Ruston	「はい！」	「Yes!」
+122852	Ian Ruston	基本	「はい！」	「Yes!」
 
-122853	Rance	「それと、この城の女に手を出すな。	「Also, don't lay hands on the women in this castle.
-122854	+	　もし、出せば命はないものと思え」	　If you do, consider your life forfeit.」
+122853	Rance	真剣	「それと、この城の女に手を出すな。	「Also, don't lay hands on the women in this castle.
+122854	+		　もし、出せば命はないものと思え」	　If you do, consider your life forfeit.」
 
-122855	Ian Ruston	「い、いえ、滅相もありません。	「N-no, absolutely not.
-122856	+	　そんなことは絶対にしないです、はい」	　I would never do such a thing.」
+122855	Ian Ruston	基本	「い、いえ、滅相もありません。	「N-no, absolutely not.
+122856	+		　そんなことは絶対にしないです、はい」	　I would never do such a thing.」
 
-122857	Rance	「ふん、それならいいがな」	「Hmph, then it's fine.」
+122857	Rance		「ふん、それならいいがな」	「Hmph, then it's fine.」
 
-122858	Ian Ruston	「あ、あの……」	「U-um...」
+122858	Ian Ruston		「あ、あの……」	「U-um...」
 
-122859	Ian Ruston	「本当にありがとうございます！」	「Thank you so much!」
+122859	Ian Ruston		「本当にありがとうございます！」	「Thank you so much!」
 
-122860	Rance	「あん？」	「Huh?」
+122860	Rance		「あん？」	「Huh?」
 
-122861	Ian Ruston	「僕はあの魔人レッドアイに、	「The Fiend RedEye
-122862	+	　家族を皆殺しにされ、	　killed my entire family,
-122863	+	　暮らしていた街も滅ぼされ……」	　and destroyed the town I lived in...
+122861	Ian Ruston		「僕はあの魔人レッドアイに、	「The Fiend RedEye
+122862	+		　家族を皆殺しにされ、	　killed my entire family,
+122863	+		　暮らしていた街も滅ぼされ……」	　and destroyed the town I lived in...
 
-122864	Ian Ruston	「行くところがないところを	　With nowhere to go,
-122865	+	　引き取って頂いたご恩、	　you took me in,
-122866	+	　必ずやお返ししたいと思います！」	　I will definitely repay that kindness!」
+122864	Ian Ruston		「行くところがないところを	　With nowhere to go,
+122865	+		　引き取って頂いたご恩、	　you took me in,
+122866	+		　必ずやお返ししたいと思います！」	　I will definitely repay that kindness!」
 
-122867	Rance	「いらん」	「Not needed.」
+122867	Rance	真剣	「いらん」	「Not needed.」
 
-122868	Ian Ruston	「えっ」	「Eh.」
+122868	Ian Ruston	基本	「えっ」	「Eh.」
 
-122869	Rance	「これが女なら話は別だが、	「If it was a woman it would be different,
-122870	+	　男から恩返しされてもな……」	　but repayment from a man...」
+122869	Rance	だる顔	「これが女なら話は別だが、	「If it was a woman it would be different,
+122870	+		　男から恩返しされてもな……」	　but repayment from a man...」
 
-122871	Rance	「だからそんなこと考える必要は全くない。	「So you don't need to think about that at all.
-122872	+	　それより、せいぜい俺の為に働いてろ」	　Just work hard for me.」
+122871	Rance	真剣	「だからそんなこと考える必要は全くない。	「So you don't need to think about that at all.
+122872	+		　それより、せいぜい俺の為に働いてろ」	　Just work hard for me.」
 
-122873	Ian Ruston	「は、はいっ！」	「Y-yes!」
+122873	Ian Ruston	基本	「は、はいっ！」	「Y-yes!」
 
-122874	Ian Ruston~	（じ〜〜〜ん……）	（Tingle...）
+122874	Ian Ruston~		（じ〜〜〜ん……）	（Tingle...）
 
-122875	Ian Ruston~	（一見、ぶっきらぼうだけど……	（He seems rough at first...
-122876	+	　なんてお優しい方だろう）	　but what a kind person.）
+122875	Ian Ruston~		（一見、ぶっきらぼうだけど……	（He seems rough at first...
+122876	+		　なんてお優しい方だろう）	　but what a kind person.）
 
-122877	Ian Ruston~	（これが人の……	（This is what a person...
-122878	+	　いや、世界の上に立つお方なのか）	　No, the one who stands above the world is like.）
+122877	Ian Ruston~		（これが人の……	（This is what a person...
+122878	+		　いや、世界の上に立つお方なのか）	　No, the one who stands above the world is like.）
 
-122879	Ian Ruston~	（彼は僕にとって大恩あるお方……	（He is a person of great kindness to me...
-122880	+	　これからそのつもりで、	　From now on with that in mind,
-122881	+	　この方の為に生きていかなければ）	　I must live for this person.）
+122879	Ian Ruston~		（彼は僕にとって大恩あるお方……	（He is a person of great kindness to me...
+122880	+		　これからそのつもりで、	　From now on with that in mind,
+122881	+		　この方の為に生きていかなければ）	　I must live for this person.）
 
-122882	-	元々、上流階級社会で生きてきた割に、	Originally from the upper class society,
-122883	+	かなり義理堅いイアンは、	the quite dutiful Ian
-122884	+	ランスへの忠誠心をとても深くした。	deepened his loyalty to Rance greatly.
+122882	-		元々、上流階級社会で生きてきた割に、	Originally from the upper class society,
+122883	+		かなり義理堅いイアンは、	the quite dutiful Ian
+122884	+		ランスへの忠誠心をとても深くした。	deepened his loyalty to Rance greatly.
 
-122885	Kentou Kanami~	（なんで、ランスは	（Why does Rance
-122886	+	　ああ子供には好かれるんだろ……）	　get liked so much by kids...）
+122885	Kentou Kanami~	ジト目	（なんで、ランスは	（Why does Rance
+122886	+		　ああ子供には好かれるんだろ……）	　get liked so much by kids...）
 
-122887	-	ひっそりとかなみが呆れていた。	Kanami watched in quiet exasperation.
+122887	-		ひっそりとかなみが呆れていた。	Kanami watched in quiet exasperation.

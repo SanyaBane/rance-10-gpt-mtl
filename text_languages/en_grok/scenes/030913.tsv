@@ -6,45 +6,45 @@
 * Kentou Kanami	かなみ	Female
 * Maria Custard	マリア	Female
 
-38964	Noah Hakobune	「投錨！　ここで一時待機します！」	「Drop anchor! We'll wait here for now!」
+38964	Noah Hakobune	基本	「投錨！　ここで一時待機します！」	「Drop anchor! We'll wait here for now!」
 
-38965	-	錨が海に放り込まれ、船が止まった。	The anchor was dropped and the ship stopped.
+38965	-		錨が海に放り込まれ、船が止まった。	The anchor was dropped and the ship stopped.
 
-38966	Rance	「ん？　どうかしたのか」	「Hm? What's going on?」
+38966	Rance		「ん？　どうかしたのか」	「Hm? What's going on?」
 
-38967	Noah Hakobune	「到着です、ランスさん。	「We've arrived, Rance-san.
-38968	+	　ここが、予定地点……ですよね？」	　This is the planned point... right?」
+38967	Noah Hakobune		「到着です、ランスさん。	「We've arrived, Rance-san.
+38968	+		　ここが、予定地点……ですよね？」	　This is the planned point... right?」
 
-38969	Captain	「おお、そう聞いてるぜ」	「Yeah, that's what I heard.」
+38969	Captain		「おお、そう聞いてるぜ」	「Yeah, that's what I heard.」
 
-38970	Rance	「なんだと？　こんな所で止まってどうする」	「What? Why are we stopping in a place like this?」
+38970	Rance	真剣	「なんだと？　こんな所で止まってどうする」	「What? Why are we stopping in a place like this?」
 
-38971	Copandon Dott	「初めからそういうハナシやで。	「That's the plan from the beginning.
-38972	+	　ここから、忍者とか少数で行ってもろて、	　From here, a small group including ninjas will go
-38973	+	　情報収集するっちゅう計画や」	　to gather information.」
+38971	Copandon Dott	基本	「初めからそういうハナシやで。	「That's the plan from the beginning.
+38972	+		　ここから、忍者とか少数で行ってもろて、	　From here, a small group including ninjas will go
+38973	+		　情報収集するっちゅう計画や」	　to gather information.」
 
-38974	Kentou Kanami	「私もそう聞いてるわ。行く？」	「That's what I heard too. Shall we go?」
+38974	Kentou Kanami		「私もそう聞いてるわ。行く？」	「That's what I heard too. Shall we go?」
 
-38975	Rance	「……ちょっと待て。今、何日目だ？」	「...Wait a second. What day is it now?」
+38975	Rance	真剣	「……ちょっと待て。今、何日目だ？」	「...Wait a second. What day is it now?」
 
-38976	Noah Hakobune	「13日……ですね」	「The 13th...」
+38976	Noah Hakobune	基本	「13日……ですね」	「The 13th...」
 
-38977	Captain	「出航してからなら8日だが……」	「Eight days since we set sail, though...」
+38977	Captain		「出航してからなら8日だが……」	「Eight days since we set sail, though...」
 
-38978	Rance	「うむ、そんな時間はないな。すぐ上陸するぞ」	「Yeah, we don't have time. We'll land immediately.」
+38978	Rance	真剣	「うむ、そんな時間はないな。すぐ上陸するぞ」	「Yeah, we don't have time. We'll land immediately.」
 
-38979	Copandon Dott	「って、どこにや。	「Where though?
-38980	+	　タンザモンザツリーか、ベズドグ山か……	　Tanzamonzatree or Mount Bezdog...
-38981	+	　どっちかにヤマ張って上陸するんか？」	　We picking one to bet on for landing?」
+38979	Copandon Dott	基本	「って、どこにや。	「Where though?
+38980	+		　タンザモンザツリーか、ベズドグ山か……	　Tanzamonzatree or Mount Bezdog...
+38981	+		　どっちかにヤマ張って上陸するんか？」	　We picking one to bet on for landing?」
 
-38982	Rance	「いや。その真ん中くらいでいいだろう」	「No. Somewhere in the middle is fine.」
+38982	Rance		「いや。その真ん中くらいでいいだろう」	「No. Somewhere in the middle is fine.」
 
-38983	Maria Custard	「うえっ、適当…………」	「Ugh, so random...」
+38983	Maria Custard	あかんわ	「うえっ、適当…………」	「Ugh, so random...」
 
-38984	Rance	「いいんだ！　海はもう飽きた。	「It's fine! I'm sick of the sea.
-38985	+	　さあ上陸だ上陸。さっさと行くぞ」	　Time to land. Let's go!」
+38984	Rance	怒り	「いいんだ！　海はもう飽きた。	「It's fine! I'm sick of the sea.
+38985	+		　さあ上陸だ上陸。さっさと行くぞ」	　Time to land. Let's go!」
 
-38986	Noah Hakobune	「は、はいっ……」	「Y-yes...」
+38986	Noah Hakobune	動揺	「は、はいっ……」	「Y-yes...」
 
-38987	-	サンライズ号は再び抜錨し、	The Sunrise raised anchor once more,
-38988	+	上陸できそうな地点を探しながら進み始めた。	and began moving while searching for a suitable landing spot.
+38987	-		サンライズ号は再び抜錨し、	The Sunrise raised anchor once more,
+38988	+		上陸できそうな地点を探しながら進み始めた。	and began moving while searching for a suitable landing spot.

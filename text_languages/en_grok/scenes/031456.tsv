@@ -4,52 +4,52 @@
 * Cafe Artful	カフェ	Female
 * Arlcoate Marius	アールコート	Female
 
-76496	-	魔人討伐隊が城の前に集合する。	The Fiend Extermination Squad gathered in front of the castle.
-76497	+	今度こそレッドアイを殺す為。	This time to kill RedEye for good.
+76496	-		魔人討伐隊が城の前に集合する。	The Fiend Extermination Squad gathered in front of the castle.
+76497	+		今度こそレッドアイを殺す為。	This time to kill RedEye for good.
 
-76498	Rance	「しかし……」	「However...」
+76498	Rance	真剣	「しかし……」	「However...」
 
-76499	Chaos	「んあ？」	「Hm?」
+76499	Chaos	基本	「んあ？」	「Hm?」
 
-76500	Rance	「お前妙にツヤツヤてかてかしてないか？」	「You look suspiciously shiny and glossy, don't you?」
+76500	Rance	真剣	「お前妙にツヤツヤてかてかしてないか？」	「You look suspiciously shiny and glossy, don't you?」
 
-76501	Chaos	「そう？	「Do I?
-76502	+	　まあ、多少はパワーアップしたような気もするが」	　Well, I do feel a bit more powerful.」
+76501	Chaos	基本	「そう？	「Do I?
+76502	+		　まあ、多少はパワーアップしたような気もするが」	　Well, I do feel a bit more powerful.」
 
-76503	Rance	「なーんか、怪しい……」	「Something's fishy...」
+76503	Rance	だる顔	「なーんか、怪しい……」	「Something's fishy...」
 
-76504	Chaos	「あっ」	「Ah.」
+76504	Chaos	基本	「あっ」	「Ah.」
 
-76505	Rance	「ん？」	「Hm?」
+76505	Rance	真剣	「ん？」	「Hm?」
 
-76506	-	そのときカオスが	At that moment Chaos spotted
-76507	+	見送りにきたメイド達に混じるカフェを見つけた。	Cafe mixed in with the maids who came to see them off.
+76506	-		そのときカオスが	At that moment Chaos spotted
+76507	+		見送りにきたメイド達に混じるカフェを見つけた。	Cafe mixed in with the maids who came to see them off.
 
-76508	Cafe Artful	「……ん」	「...Nn.」
+76508	Cafe Artful	基本	「……ん」	「...Nn.」
 
-76509	Cafe Artful	「べーっ」	「Bleeeh.」
+76509	Cafe Artful	看破	「べーっ」	「Bleeeh.」
 
-76510	-	何故かあっかんべーして、	For some reason she stuck her tongue out,
-76511	+	メイド達の中に紛れてしまった。	then hid among the maids.
+76510	-		何故かあっかんべーして、	For some reason she stuck her tongue out,
+76511	+		メイド達の中に紛れてしまった。	then hid among the maids.
 
-76512	Rance	「……なんだ？」	「...What was that?」
+76512	Rance	真剣	「……なんだ？」	「...What was that?」
 
-76513	Rance	「なんだなんだ今のはー！	「What the hell was that!
-76514	+	　なんか怪しいぞー！」	　That was suspicious!」
+76513	Rance	怒り	「なんだなんだ今のはー！	「What the hell was that!
+76514	+		　なんか怪しいぞー！」	　That was suspicious!」
 
-76515	Chaos	「怪しくないっちゅーに！	「It's not suspicious!
-76516	+	　ほら、いいから行きましょ！」	　Come on, let's go!」
+76515	Chaos	驚き	「怪しくないっちゅーに！	「It's not suspicious!
+76516	+		　ほら、いいから行きましょ！」	　Come on, let's go!」
 
-76517	Rance	「……まあ、そうだな。	「...Well, yeah.
-76518	?	　アールコートちゃん」	　Arlcoate-chan.」
+76517	Rance	真剣	「……まあ、そうだな。	「...Well, yeah.
+76518	?		　アールコートちゃん」	　Arlcoate-chan.」
 
-76519	Arlcoate Marius	「はい、先ほど説明した通り、	「Yes, as I explained earlier,
-76520	+	　コパンドン様の活躍でレッドアイは	　thanks to Lady Copandon's efforts, RedEye
-76521	+	　一旦麓まで落ちていきました」	　was knocked back down to the base of the mountain.」
+76519	Arlcoate Marius	基本	「はい、先ほど説明した通り、	「Yes, as I explained earlier,
+76520	+		　コパンドン様の活躍でレッドアイは	　thanks to Lady Copandon's efforts, RedEye
+76521	+		　一旦麓まで落ちていきました」	　was knocked back down to the base of the mountain.」
 
-76522	Arlcoate Marius	「レッドアイは猛烈な勢いで山を駆け上り、	「RedEye is now charging back up the mountain at full speed,
-76523	+	　現在は城のすぐそばまで来ています」	　and is almost at the castle.」
+76522	Arlcoate Marius		「レッドアイは猛烈な勢いで山を駆け上り、	「RedEye is now charging back up the mountain at full speed,
+76523	+		　現在は城のすぐそばまで来ています」	　and is almost at the castle.」
 
-76524	Rance	「ふん、探す必要もないのはいいもんだ」	「Hmph, saves us the trouble of searching.」
+76524	Rance		「ふん、探す必要もないのはいいもんだ」	「Hmph, saves us the trouble of searching.」
 
-76525	Rance	「迎え撃つぞ！」	「Let's meet him head on!」
+76525	Rance	怒り	「迎え撃つぞ！」	「Let's meet him head on!」

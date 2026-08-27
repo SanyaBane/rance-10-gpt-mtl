@@ -5,163 +5,163 @@
 * Free Cities Guard	汎用自由都市警備兵Ａ	Male
 * Free Cities Guard	汎用自由都市警備兵Ｂ	Male
 
-16113	Rance	「さーて、何か面白いものは……」	「Alright, time to find something fun......」
+16113	Rance	基本	「さーて、何か面白いものは……」	「Alright, time to find something fun......」
 
-16114	?	「――――えい！」	「――――Ei!」
+16114	?		「――――えい！」	「――――Ei!」
 
-16115	?	「――――応！」	「――――Osu!」
+16115	?		「――――応！」	「――――Osu!」
 
-16116	Rance	「ん……？」	「Nn......?」
+16116	Rance	真剣	「ん……？」	「Nn......?」
 
-16117	-	見ると、傭兵の一団が、Mランドの一角で	He saw a group of mercenaries training
-16118	+	訓練を行っていた。	in one corner of M Land.
+16117	-		見ると、傭兵の一団が、Mランドの一角で	He saw a group of mercenaries training
+16118	+		訓練を行っていた。	in one corner of M Land.
 
-16119	Sill Plain	「わ……皆さん、頑張ってますねぇ」	「Wow...... Everyone's working really hard.」
+16119	Sill Plain	考え中	「わ……皆さん、頑張ってますねぇ」	「Wow...... Everyone's working really hard.」
 
-16120	Rance	「遊園地でむさ苦しい連中が武器を振ってる図は	「A bunch of rugged guys swinging weapons in an amusement park
-16121	+	　なかなかシュールだな……」	　is pretty surreal......」
+16120	Rance	真剣	「遊園地でむさ苦しい連中が武器を振ってる図は	「A bunch of rugged guys swinging weapons in an amusement park
+16121	+		　なかなかシュールだな……」	　is pretty surreal......」
 
-16122	Rance	「…………お。セシル発見！　おーい！」	「............Oh. Found Cecil! Heyy!」
+16122	Rance	基本	「…………お。セシル発見！　おーい！」	「............Oh. Found Cecil! Heyy!」
 
-16123	Cecil Carna	「む。総統か。視察お疲れ様だ」	「Hm. Supreme Leader. Thanks for the inspection.」
+16123	Cecil Carna		「む。総統か。視察お疲れ様だ」	「Hm. Supreme Leader. Thanks for the inspection.」
 
-16124	Rance	「適当に見て回ってるだけだがな。	「I'm just wandering around.
-16125	+	　これ、お前の部隊か？」	　This your unit?」
+16124	Rance		「適当に見て回ってるだけだがな。	「I'm just wandering around.
+16125	+		　これ、お前の部隊か？」	　This your unit?」
 
-16126	Cecil Carna	「ああ。紅の鉄槌……私が元々率いていた傭兵団だ。	「Yes. The Crimson Iron Hammer...... my original mercenary band.
-16127	+	　自由都市連合の中核だな」	　The core of the Free Cities Alliance.」
+16126	Cecil Carna		「ああ。紅の鉄槌……私が元々率いていた傭兵団だ。	「Yes. The Crimson Iron Hammer...... my original mercenary band.
+16127	+		　自由都市連合の中核だな」	　The core of the Free Cities Alliance.」
 
-16128	Rance	「傭兵団って割にはかなり多いな……	「That's a lot for a mercenary band......
-16129	+	　一万近いのじゃないか？」	　Close to ten thousand, isn't it?」
+16128	Rance		「傭兵団って割にはかなり多いな……	「That's a lot for a mercenary band......
+16129	+		　一万近いのじゃないか？」	　Close to ten thousand, isn't it?」
 
-16130	Cecil Carna	「そんなところか。	「About that.
-16131	+	　出入りも多いんだがな」	　Lots of people coming and going though.」
+16130	Cecil Carna		「そんなところか。	「About that.
+16131	+		　出入りも多いんだがな」	　Lots of people coming and going though.」
 
-16132	Sill Plain	「すごいですね……	「That's amazing......
-16133	+	　こんな沢山の人、管理するなんて……」	　Managing so many people......」
+16132	Sill Plain	考え中	「すごいですね……	「That's amazing......
+16133	+		　こんな沢山の人、管理するなんて……」	　Managing so many people......」
 
-16134	Rance	「キチッと訓練してるなんて軍隊みたいだな……	「Training so strictly, it's like a real army......
-16135	+	　傭兵なんて普通、もっとだらしないぞ」	　Mercenaries are usually way sloppier.」
+16134	Rance	基本	「キチッと訓練してるなんて軍隊みたいだな……	「Training so strictly, it's like a real army......
+16135	+		　傭兵なんて普通、もっとだらしないぞ」	　Mercenaries are usually way sloppier.」
 
-16136	Cecil Carna	「それでは簡単に死ぬ。	「That way you die easily.
-16137	+	　うちの連中には、それを教えてある」	　I've taught my people that.」
+16136	Cecil Carna		「それでは簡単に死ぬ。	「That way you die easily.
+16137	+		　うちの連中には、それを教えてある」	　I've taught my people that.」
 
-16138	Rance	「ふぅむ……セシルはけっこう、	「Hmm...... Cecil is pretty good
-16139	+	　大集団を率いるのがうまいのか……ん？」	　at leading large groups...... Hm?」
+16138	Rance	真剣	「ふぅむ……セシルはけっこう、	「Hmm...... Cecil is pretty good
+16139	+		　大集団を率いるのがうまいのか……ん？」	　at leading large groups...... Hm?」
 
-16140	Free Cities Guard	「おい、あれ……団長の所にいる奴……」	「Hey, look...... The guy with the commander......」
+16140	Free Cities Guard	基本	「おい、あれ……団長の所にいる奴……」	「Hey, look...... The guy with the commander......」
 
-16141	Free Cities Guard	「ああ……魔人狩りのランス総統だ……	「Yeah...... That's Supreme Leader Rance, the Fiend Hunter......
-16142	+	　元は冒険者で、かなり腕が立つって話だぜ」	　Former adventurer, supposedly really skilled.」
+16141	Free Cities Guard		「ああ……魔人狩りのランス総統だ……	「Yeah...... That's Supreme Leader Rance, the Fiend Hunter......
+16142	+		　元は冒険者で、かなり腕が立つって話だぜ」	　Former adventurer, supposedly really skilled.」
 
-16143	Free Cities Guard	「冒険者かよ……	「An adventurer, huh......
-16144	+	　俺たちと変わらねぇじゃねぇか」	　He's not that different from us.」
+16143	Free Cities Guard		「冒険者かよ……	「An adventurer, huh......
+16144	+		　俺たちと変わらねぇじゃねぇか」	　He's not that different from us.」
 
-16145	Cecil Carna	「どうした、手を休めるな」	「What's wrong? Don't stop moving.」
+16145	Cecil Carna	怒り	「どうした、手を休めるな」	「What's wrong? Don't stop moving.」
 
-16146	Free Cities Guard	「へ、了解っ！」	「Y-yes sir!」
+16146	Free Cities Guard	基本	「へ、了解っ！」	「Y-yes sir!」
 
-16147	Rance	「ふっふっふ。	「Fufufu.
-16148	+	　どうせなら手本でも見せてやろうか？」	　Want me to show you an example?」
+16147	Rance		「ふっふっふ。	「Fufufu.
+16148	+		　どうせなら手本でも見せてやろうか？」	　Want me to show you an example?」
 
-16149	Cecil Carna	「手本？」	「An example?」
+16149	Cecil Carna		「手本？」	「An example?」
 
-16150	Rance	「ああ。腕の立つ奴に一本、稽古でも付けてやる」	「Yeah. I'll spar with one of your skilled guys.」
+16150	Rance		「ああ。腕の立つ奴に一本、稽古でも付けてやる」	「Yeah. I'll spar with one of your skilled guys.」
 
-16151	Cecil Carna	「ほう……それは助かる」	「Oh...... That would be helpful.」
+16151	Cecil Carna	笑顔	「ほう……それは助かる」	「Oh...... That would be helpful.」
 
-16152	Rance~	（ふふふ。びしーっと決めて、	(Fufufu. I'll look cool and
-16153	+	　セシルに恩を売ってやるか）	　score some points with Cecil.)
+16152	Rance~	エロ顔	（ふふふ。びしーっと決めて、	(Fufufu. I'll look cool and
+16153	+		　セシルに恩を売ってやるか）	　score some points with Cecil.)
 
-16154	Sill Plain	「や、やりすぎちゃだめですよ、ランス様……」	「D-don't overdo it, Rance-sama......」
+16154	Sill Plain	苦笑	「や、やりすぎちゃだめですよ、ランス様……」	「D-don't overdo it, Rance-sama......」
 
-16155	Rance	「大丈夫だ、カオスは使わん」	「It's fine, I won't use Chaos.」
+16155	Rance	基本	「大丈夫だ、カオスは使わん」	「It's fine, I won't use Chaos.」
 
-16156	Cecil Carna	「全員、注目！	「Everyone, attention!
-16157	+	　総統閣下が戦いの手本として、	　The Supreme Leader will demonstrate
-16158	+	　訓練を付けてくださるそうだ。誰か！」	　a combat example. Someone step up!」
+16156	Cecil Carna		「全員、注目！	「Everyone, attention!
+16157	+		　総統閣下が戦いの手本として、	　The Supreme Leader will demonstrate
+16158	+		　訓練を付けてくださるそうだ。誰か！」	　a combat example. Someone step up!」
 
-16159	Free Cities Guard	「じゃ、じゃあ、いいんですかい？	「C-can I do it?
-16160	+	　あっしがお相手を……」	　I'll be his opponent......」
+16159	Free Cities Guard		「じゃ、じゃあ、いいんですかい？	「C-can I do it?
+16160	+		　あっしがお相手を……」	　I'll be his opponent......」
 
-16161	Rance	「いいぞ。全力で来い」	「Sure. Come at me with everything you've got.」
+16161	Rance		「いいぞ。全力で来い」	「Sure. Come at me with everything you've got.」
 
-16162	Free Cities Guard	「は、はぁ……」	「Y-yes......」
+16162	Free Cities Guard		「は、はぁ……」	「Y-yes......」
 
-16163	Cecil Carna	「もし勝ったらボーナスを出す。本気でやれ」	「If you win, you'll get a bonus. Go all out.」
+16163	Cecil Carna		「もし勝ったらボーナスを出す。本気でやれ」	「If you win, you'll get a bonus. Go all out.」
 
-16164	Free Cities Guard	「お、おおおぉぉっ！？　マジですかい！	「O-ohhh!? For real!?
-16165	+	　それなら悪いがやらせていただきやすぜ！」	　Then don't mind if I do!」
+16164	Free Cities Guard		「お、おおおぉぉっ！？　マジですかい！	「O-ohhh!? For real!?
+16165	+		　それなら悪いがやらせていただきやすぜ！」	　Then don't mind if I do!」
 
-16166	Rance	「ふん。そこら辺は傭兵らしいな。	「Hmph. That's very mercenary of you.
-16167	+	　さっさと掛かってこい」	　Hurry up and come at me.」
+16166	Rance		「ふん。そこら辺は傭兵らしいな。	「Hmph. That's very mercenary of you.
+16167	+		　さっさと掛かってこい」	　Hurry up and come at me.」
 
-16168	Free Cities Guard	「へえ。それじゃ……」	「Heh. Here I go......」
+16168	Free Cities Guard		「へえ。それじゃ……」	「Heh. Here I go......」
 
-16169	Cecil Carna	「では、はじ……」	「Then, begi一一」
+16169	Cecil Carna		「では、はじ……」	「Then, begi一一」
 
-16170	Rance	「がはははは！　ちぇすとーーーー！」	「Gahahahaha! Chestoooo!」
+16170	Rance	笑顔	「がはははは！　ちぇすとーーーー！」	「Gahahahaha! Chestoooo!」
 
-16171	Free Cities Guard	「お、うおおぉっ！？」	「Whoa, uoooh!?」
+16171	Free Cities Guard	基本	「お、うおおぉっ！？」	「Whoa, uoooh!?」
 
-16172	Rance	「おっ」	「Oh」
+16172	Rance		「おっ」	「Oh」
 
-16173	-	不意討ち気味の一撃を傭兵は防いだが、	The mercenary barely blocked the surprise attack,
-16174	+	体勢が崩れた。	but his stance broke.
+16173	-		不意討ち気味の一撃を傭兵は防いだが、	The mercenary barely blocked the surprise attack,
+16174	+		体勢が崩れた。	but his stance broke.
 
-16175	Rance	「お、ッりゃーーーーー！」	「Ooooryaaaa!」
+16175	Rance	怒り	「お、ッりゃーーーーー！」	「Ooooryaaaa!」
 
-16176	Free Cities Guard	「く、ぬぐくっ……！」	「Khh......!」
+16176	Free Cities Guard	基本	「く、ぬぐくっ……！」	「Khh......!」
 
-16177	-	重い一撃で翻弄し、虚を突いて胸板に蹴り込み……	With a heavy blow he knocked him off balance, then kicked him square in the chest......
+16177	-		重い一撃で翻弄し、虚を突いて胸板に蹴り込み……	With a heavy blow he knocked him off balance, then kicked him square in the chest......
 
-16178	Free Cities Guard	「ま……まいった……」	「I...... I give up......」
+16178	Free Cities Guard		「ま……まいった……」	「I...... I give up......」
 
-16179	Rance	「がはははは、しょーーーーーり！」	「Gahahahaha, victoreeeee!」
+16179	Rance	笑顔	「がはははは、しょーーーーーり！」	「Gahahahaha, victoreeeee!」
 
-16180	Sill Plain	「わ−、おめでとうございます、ランス様！	「Wah-, congratulations, Rance-sama!
-16181	+	　ぱちぱちぱちー」	Clap clap clap!」
+16180	Sill Plain		「わ−、おめでとうございます、ランス様！	「Wah-, congratulations, Rance-sama!
+16181	+		　ぱちぱちぱちー」	Clap clap clap!」
 
-16182	Cecil Carna	「……………………」	「........................」
+16182	Cecil Carna	悲しい	「……………………」	「........................」
 
-16183	Rance	「がははは、どうだセシル。	「Gahahaha, how about that Cecil.
-16184	+	　参考になったか？　惚れたか」	　Did you learn something? Fall for me?」
+16183	Rance	笑顔	「がははは、どうだセシル。	「Gahahaha, how about that Cecil.
+16184	+		　参考になったか？　惚れたか」	　Did you learn something? Fall for me?」
 
-16185	Cecil Carna	「…………一同。今のは……悪い見本だ」	「............Everyone. That was...... a bad example.」
+16185	Cecil Carna	基本	「…………一同。今のは……悪い見本だ」	「............Everyone. That was...... a bad example.」
 
-16186	Rance	「なっ、なんでじゃーーー！」	「Whaaat, whyyyy!」
+16186	Rance	怒り	「なっ、なんでじゃーーー！」	「Whaaat, whyyyy!」
 
-16187	Cecil Carna	「足の運びも適当、剣も力任せ。型もなにもない。	「Footwork was sloppy, sword swings were all brute force. No form at all.
-16188	+	　総統が強いのは……なんというか……」	The reason the Supreme Leader is strong is...... well......
+16187	Cecil Carna	基本	「足の運びも適当、剣も力任せ。型もなにもない。	「Footwork was sloppy, sword swings were all brute force. No form at all.
+16188	+		　総統が強いのは……なんというか……」	The reason the Supreme Leader is strong is...... well......
 
-16189	-	セシルは一度口を閉ざして、	Cecil closed her mouth for a moment,
-16190	+	次の言葉を探し…………	searching for the right words......
+16189	-		セシルは一度口を閉ざして、	Cecil closed her mouth for a moment,
+16190	+		次の言葉を探し…………	searching for the right words......
 
-16191	Cecil Carna	「……何かの間違いだ」	「......Probably just a fluke.」
+16191	Cecil Carna		「……何かの間違いだ」	「......Probably just a fluke.」
 
-16192	Rance	「な、なんだとこらーーーーー！」	「What the hell did you sayyyyy!」
+16192	Rance	怒り	「な、なんだとこらーーーーー！」	「What the hell did you sayyyyy!」
 
-16193	Cecil Carna	「いや、その戦い方で強いのはすごいが。	「No, it's impressive you can win with that style.
-16194	+	　そもそも、フライングだぞ。	　But first of all, that was a false start.
-16195	+	『はじめ』と言わないうちから始めただろう」	You started before I even said 'begin'.」
+16193	Cecil Carna	基本	「いや、その戦い方で強いのはすごいが。	「No, it's impressive you can win with that style.
+16194	+		　そもそも、フライングだぞ。	　But first of all, that was a false start.
+16195	+		『はじめ』と言わないうちから始めただろう」	You started before I even said 'begin'.」
 
-16196	Rance	「勝てばいいのだ、勝てば。	「Winning is what matters.
-16197	+	　死体は文句を言わない」	　Dead bodies don't complain.」
+16196	Rance		「勝てばいいのだ、勝てば。	「Winning is what matters.
+16197	+		　死体は文句を言わない」	　Dead bodies don't complain.」
 
-16198	Cecil Carna	「……一面では、正しいが。	「......In one sense that's correct.
-16199	+	　軍は、一番弱い人間を計算に入れなければならん。	　But an army must account for its weakest members.
-16200	+	　総統のようなタイプは……計算に入らないな」	　Someone like you...... can't be calculated.」
+16198	Cecil Carna		「……一面では、正しいが。	「......In one sense that's correct.
+16199	+		　軍は、一番弱い人間を計算に入れなければならん。	　But an army must account for its weakest members.
+16200	+		　総統のようなタイプは……計算に入らないな」	　Someone like you...... can't be calculated.」
 
-16201	Cecil Carna	「アリオスとは大違いだな。	「Very different from Arios.
-16202	+	　アリオスも我流だったが、もっと堅実で……」	　Arios had his own style too, but it was much more solid......」
+16201	Cecil Carna		「アリオスとは大違いだな。	「Very different from Arios.
+16202	+		　アリオスも我流だったが、もっと堅実で……」	　Arios had his own style too, but it was much more solid......」
 
-16203	Rance	「奴と比べるな！」	「Don't compare me to that guy!」
+16203	Rance	怒り	「奴と比べるな！」	「Don't compare me to that guy!」
 
-16204	Cecil Carna	「……そうだ。アリオスの剣技に、	「......That's right. There were things in Arios's swordsmanship
-16205	+	　兵たちに教えたいものがあったんだった」	　I wanted to teach the soldiers.」
+16204	Cecil Carna	基本	「……そうだ。アリオスの剣技に、	「......That's right. There were things in Arios's swordsmanship
+16205	+		　兵たちに教えたいものがあったんだった」	　I wanted to teach the soldiers.」
 
-16206	Cecil Carna	「うっかりしていた。礼を言う、総統」	「I got distracted. Thank you, Supreme Leader.」
+16206	Cecil Carna	笑顔	「うっかりしていた。礼を言う、総統」	「I got distracted. Thank you, Supreme Leader.」
 
-16207	Rance	「ええいくそ！　勝手にしろ！」	「Goddammit! Do whatever you want!」
+16207	Rance	怒り	「ええいくそ！　勝手にしろ！」	「Goddammit! Do whatever you want!」
 
-16208	-	ランスの作戦は失敗した。	Rance's plan failed.
+16208	-		ランスの作戦は失敗した。	Rance's plan failed.

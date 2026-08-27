@@ -10,131 +10,131 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Rocky Bank	ロッキー	Male
 
-50039	Monster Captain	「つっ、強ぇ………………」	「S-Strong......」
+50039	Monster Captain	基本	「つっ、強ぇ………………」	「S-Strong......」
 
-50040	Green Monster Soldier	「ひっ、ひぃっ……た、隊長がやられたーー！」	「Hii, hiii... The captain was beaten---!」
+50040	Green Monster Soldier		「ひっ、ひぃっ……た、隊長がやられたーー！」	「Hii, hiii... The captain was beaten---!」
 
-50041	Green Monster Soldier	「お、おおお、俺は逃げるぞ！	「O-Oooh, I'm getting out of here!
-50042	+	　あんな街守って死ぬなんて冗談じゃねぇ！」	　No way I'm dying defending some town!」
+50041	Green Monster Soldier		「お、おおお、俺は逃げるぞ！	「O-Oooh, I'm getting out of here!
+50042	+		　あんな街守って死ぬなんて冗談じゃねぇ！」	　No way I'm dying defending some town!」
 
-50043	Rance	「がはははははは、勝ーーーーー利！」	「Gahahahahaha, victory---!」
+50043	Rance	笑顔	「がはははははは、勝ーーーーー利！」	「Gahahahahaha, victory---!」
 
-50044	-	遭遇した小規模な魔軍を、ランス達は再び撃退した。	Rance and his group repelled another small Monster Army unit.
+50044	-		遭遇した小規模な魔軍を、ランス達は再び撃退した。	Rance and his group repelled another small Monster Army unit.
 
-50045	Rance	「さて。向こうに見える街がルールーハンデルか？」	「Alright. Is that town over there Rule Handel?」
+50045	Rance	基本	「さて。向こうに見える街がルールーハンデルか？」	「Alright. Is that town over there Rule Handel?」
 
-50046	Sill Plain	「えっと……そうですね。	「Um... yes.
-50047	+	　この辺り、他の街も全然ないですし……」	　There aren't really any other towns around here...」
+50046	Sill Plain	考え中	「えっと……そうですね。	「Um... yes.
+50047	+		　この辺り、他の街も全然ないですし……」	　There aren't really any other towns around here...」
 
-50048	Rance	「ようし、ゴーーーー！」	「Alright, let's goooo!」
+50048	Rance	笑顔	「ようし、ゴーーーー！」	「Alright, let's goooo!」
 
-50049	Kentou Kanami	「魔物兵は、もういないみたい。	「Looks like there aren't any more monster soldiers.
-50050	+	　手薄な感じね……」	　The defense seems pretty thin...」
+50049	Kentou Kanami	基本	「魔物兵は、もういないみたい。	「Looks like there aren't any more monster soldiers.
+50050	+		　手薄な感じね……」	　The defense seems pretty thin...」
 
-50051	Rance	「ふん、さぁて……」	「Hmph, well then...
+50051	Rance		「ふん、さぁて……」	「Hmph, well then...
 
-50052	Oda Kouhime	「あっ、ランス兄様。どちらに？」	「Ah, Rance big brother. Where are you going?」
+50052	Oda Kouhime	武装／焦り	「あっ、ランス兄様。どちらに？」	「Ah, Rance big brother. Where are you going?」
 
-50053	Rance	「情報収集だ。がはははは」	「Gathering information. Gahahahaha」
+50053	Rance	笑顔	「情報収集だ。がはははは」	「Gathering information. Gahahahaha」
 
-50054	Pastel Kalar	「…………汚らわしい魂胆が	「............Your filthy intentions
-50055	+	　背中から滲み出るようじゃな」	　are practically leaking from your back.」
+50054	Pastel Kalar	疲れた	「…………汚らわしい魂胆が	「............Your filthy intentions
+50055	+		　背中から滲み出るようじゃな」	　are practically leaking from your back.」
 
-50056	Sill Plain	「あ、あはは……	「A-Ahaha...
-50057	+	　私たちも、少し歩いてみましょう」	　Let's walk around a bit too.」
+50056	Sill Plain	苦笑	「あ、あはは……	「A-Ahaha...
+50057	+		　私たちも、少し歩いてみましょう」	　Let's walk around a bit too.」
 
-50058	-	ルールーハンデルの大通りに入ると、	When they entered the main street of Rule Handel,
-50059	+	住民達がカフェテラスで参考書を開いて	the residents were sitting at cafe terraces
-50060	+	勉強を続けていた。	studying with reference books open.
+50058	-		ルールーハンデルの大通りに入ると、	When they entered the main street of Rule Handel,
+50059	+		住民達がカフェテラスで参考書を開いて	the residents were sitting at cafe terraces
+50060	+		勉強を続けていた。	studying with reference books open.
 
-50061	Kentou Kanami	「わ……勉強してる……」	「Wow... they're studying...」
+50061	Kentou Kanami	基本	「わ……勉強してる……」	「Wow... they're studying...」
 
-50062	?	「ん、君たちは……新入りか？	「Hmm, are you guys... newcomers?
-50063	+	　いや、そういう風でもないか……？」	　No, you don't seem like it...?」
+50062	?		「ん、君たちは……新入りか？	「Hmm, are you guys... newcomers?
+50063	+		　いや、そういう風でもないか……？」	　No, you don't seem like it...?」
 
-50064	Sill Plain	「えと、旅人……みたいなものなんですが。	「Um, we're something like travelers.
-50065	+	　みなさん、何をされているんですか？」	　What are you all doing?」
+50064	Sill Plain	考え中	「えと、旅人……みたいなものなんですが。	「Um, we're something like travelers.
+50065	+		　みなさん、何をされているんですか？」	　What are you all doing?」
 
-50066	?	「勉強だよ。	「Studying.
-50067	+	　この町には、周辺から知能試験で優秀だった	　This town only gathers people who scored high
-50068	+	　人間だけが選別されて集められててね」	　on intelligence tests from the surrounding areas.」
+50066	?		「勉強だよ。	「Studying.
+50067	+		　この町には、周辺から知能試験で優秀だった	　This town only gathers people who scored high
+50068	+		　人間だけが選別されて集められててね」	　on intelligence tests from the surrounding areas.」
 
-50069	Sachiko Centers	「あの……それで、なんでまだ勉強してるんですか？	「Um... then why are you still studying?
-50070	+	　魔軍にやれって言われたとか？」	　Did the Monster Army order you to?」
+50069	Sachiko Centers	基本	「あの……それで、なんでまだ勉強してるんですか？	「Um... then why are you still studying?
+50070	+		　魔軍にやれって言われたとか？」	　Did the Monster Army order you to?」
 
-50071	?	「いや。更に上の上級試験があるんだ。	「No. There's an even higher advanced test.
-50072	+	　それに受かると、特別扱いって話だ。	　Passing it gets you special treatment.
-50073	+	　それで、みんなまた勉強してる」	　So everyone is studying again.」
+50071	?		「いや。更に上の上級試験があるんだ。	「No. There's an even higher advanced test.
+50072	+		　それに受かると、特別扱いって話だ。	　Passing it gets you special treatment.
+50073	+		　それで、みんなまた勉強してる」	　So everyone is studying again.」
 
-50074	Alkanese Rize	「……そんなに集めてどうすんの？」	「...What are they gathering so many for?」
+50074	Alkanese Rize	困り	「……そんなに集めてどうすんの？」	「...What are they gathering so many for?」
 
-50075	?	「分からないが……魔軍も、有能な人間が	「I don't know, but... the Monster Army probably needs capable humans too.」
-50076	+	　必要ってことなんじゃないかな」	
+50075	?		「分からないが……魔軍も、有能な人間が	「I don't know, but... the Monster Army probably needs capable humans too.」
+50076	+		　必要ってことなんじゃないかな」	
 
-50077	?	「……魔軍に手を貸すのはなんだが、	「...Helping the Monster Army feels wrong, but
-50078	+	　あいつらも話が分からない訳じゃないんだな。	　they're not completely unreasonable.
-50079	+	　もしかしたら、共存できるかもしれない」	　Maybe we can coexist.」
+50077	?		「……魔軍に手を貸すのはなんだが、	「...Helping the Monster Army feels wrong, but
+50078	+		　あいつらも話が分からない訳じゃないんだな。	　they're not completely unreasonable.
+50079	+		　もしかしたら、共存できるかもしれない」	　Maybe we can coexist.」
 
-50080	?	「いや！　これが魔軍の罠だ。	「No! This is a Monster Army trap.
-50081	+	　俺たちを懐柔しようとしてるんだ。	　They're trying to win us over.
-50082	+	　騙されんぞ」	　I won't be fooled.」
+50080	?		「いや！　これが魔軍の罠だ。	「No! This is a Monster Army trap.
+50081	+		　俺たちを懐柔しようとしてるんだ。	　They're trying to win us over.
+50082	+		　騙されんぞ」	　I won't be fooled.」
 
-50083	-	近くの席で勉強していた男が、不意に声を上げた。	A man studying at a nearby seat suddenly raised his voice.
+50083	-		近くの席で勉強していた男が、不意に声を上げた。	A man studying at a nearby seat suddenly raised his voice.
 
-50084	Rocky Bank	「あ、あれ……？　ベンティさん……だすか？」	「Ah, that...? Is that you, Benty...?」
+50084	Rocky Bank	基本	「あ、あれ……？　ベンティさん……だすか？」	「Ah, that...? Is that you, Benty...?」
 
-50085	?	「ん？　おお、ロッキー！？　ロッキー・バンクか！	「Hm? Oh, Rocky!? Rocky Bank!
-50086	+	　生きてたのか！」	　You're alive!」
+50085	?		「ん？　おお、ロッキー！？　ロッキー・バンクか！	「Hm? Oh, Rocky!? Rocky Bank!
+50086	+		　生きてたのか！」	　You're alive!」
 
-50087	Rocky Bank	「うわ、懐かしいだす……お久しぶりだす！」	「Wow, it's been so long... Nice to see you again!」
+50087	Rocky Bank	笑顔	「うわ、懐かしいだす……お久しぶりだす！」	「Wow, it's been so long... Nice to see you again!」
 
-50088	Kentou Kanami	「……知り合いなの？」	「...You know him?」
+50088	Kentou Kanami	基本	「……知り合いなの？」	「...You know him?」
 
-50089	Rocky Bank	「前におんなじ農園にいた、二級市民の先輩だす。	「He was my senior, a second-class citizen at the same farm before.
-50090	+	　でも、こんな所にいるなんて……」	　But to find him in a place like this...」
+50089	Rocky Bank		「前におんなじ農園にいた、二級市民の先輩だす。	「He was my senior, a second-class citizen at the same farm before.
+50090	+		　でも、こんな所にいるなんて……」	　But to find him in a place like this...」
 
-50091	?	「新しい職場の社長が、勉強させてくれてな。	「The boss at my new job lets me study.
-50092	+	　性に合ってたみたいで、今は資格持ちの設計士だ」	　It suits me, so now I'm a certified designer.」
+50091	?		「新しい職場の社長が、勉強させてくれてな。	「The boss at my new job lets me study.
+50092	+		　性に合ってたみたいで、今は資格持ちの設計士だ」	　It suits me, so now I'm a certified designer.」
 
-50093	?	「ま、世の中こんな事になっちまったが……	「Well, the world's gone crazy but...
-50094	+	　モンスター達なんぞに屈してどうする。	　No way I'm bowing to monsters.
-50095	+	　俺たちは人間なんだ」	　We're humans.」
+50093	?		「ま、世の中こんな事になっちまったが……	「Well, the world's gone crazy but...
+50094	+		　モンスター達なんぞに屈してどうする。	　No way I'm bowing to monsters.
+50095	+		　俺たちは人間なんだ」	　We're humans.」
 
-50096	Sachiko Centers	「じゃあ、なんで勉強してるんですか？」	「Then why are you studying?」
+50096	Sachiko Centers		「じゃあ、なんで勉強してるんですか？」	「Then why are you studying?」
 
-50097	?	「内部に潜り込んで、	「I'm infiltrating from the inside,
-50098	+	　奴らの隙を見つけてやろうと思ってな。	　looking for their weaknesses.
-50099	+	　それと、半分は趣味だ。楽しくってな」	　And half of it is just a hobby. It's fun.」
+50097	?		「内部に潜り込んで、	「I'm infiltrating from the inside,
+50098	+		　奴らの隙を見つけてやろうと思ってな。	　looking for their weaknesses.
+50099	+		　それと、半分は趣味だ。楽しくってな」	　And half of it is just a hobby. It's fun.」
 
-50100	Rocky Bank	「そんなことを……」	「Doing something like that...」
+50100	Rocky Bank		「そんなことを……」	「Doing something like that...」
 
-50101	?	「何人か、志を同じくする奴も集めた。	「I've gathered a few others who share the same goal.
-50102	+	　ロッキー、お前は……？」	　What about you, Rocky...?」
+50101	?		「何人か、志を同じくする奴も集めた。	「I've gathered a few others who share the same goal.
+50102	+		　ロッキー、お前は……？」	　What about you, Rocky...?」
 
-50103	Rocky Bank	「あ、あ、お、おらは……その、ランス様に……」	「Ah, um, I... well, with Lord Rance...」
+50103	Rocky Bank		「あ、あ、お、おらは……その、ランス様に……」	「Ah, um, I... well, with Lord Rance...」
 
-50104	?	「様……？　もう奴隷も二級市民も無いんだぞ」	「Lord...? There are no more slaves or second-class citizens.」
+50104	?		「様……？　もう奴隷も二級市民も無いんだぞ」	「Lord...? There are no more slaves or second-class citizens.」
 
-50105	Rocky Bank	「あ、そういうわけではないだすが……	「Ah, it's not exactly that but...
-50106	+	　その、こっちで頑張ってるだす」	　I'm doing my best here.」
+50105	Rocky Bank		「あ、そういうわけではないだすが……	「Ah, it's not exactly that but...
+50106	+		　その、こっちで頑張ってるだす」	　I'm doing my best here.」
 
-50107	?	「そうか、それならいいんだ。またな」	「I see. Then that's fine. See you later.」
+50107	?		「そうか、それならいいんだ。またな」	「I see. Then that's fine. See you later.」
 
-50108	Rocky Bank	「お、お気をつけてだす！」	「T-Take care!」
+50108	Rocky Bank	笑顔	「お、お気をつけてだす！」	「T-Take care!」
 
-50109	Sill Plain	「……なんだか、前の町とは大違いですね」	「...This town feels really different from the last one.」
+50109	Sill Plain	きょとん	「……なんだか、前の町とは大違いですね」	「...This town feels really different from the last one.」
 
-50110	Kentou Kanami	「他の人の様子も見てみたけど、	「I looked at other people too,
-50111	+	　けっこう自分の考えを持ってる人が多いわね。	　a lot of them have their own thoughts.
-50112	+	　表立って逆らおうって人はいないけど……」	　No one is openly rebelling though...」
+50110	Kentou Kanami	基本	「他の人の様子も見てみたけど、	「I looked at other people too,
+50111	+		　けっこう自分の考えを持ってる人が多いわね。	　a lot of them have their own thoughts.
+50112	+		　表立って逆らおうって人はいないけど……」	　No one is openly rebelling though...」
 
-50113	Alkanese Rize	「前に革命とか魔軍と戦争とかがあったらしいから、	「There was a revolution and war with the Monster Army before,
-50114	+	　そこら辺も関係してるのかね」	　so that might be related.」
+50113	Alkanese Rize		「前に革命とか魔軍と戦争とかがあったらしいから、	「There was a revolution and war with the Monster Army before,
+50114	+		　そこら辺も関係してるのかね」	　so that might be related.」
 
-50115	Kentou Kanami	「それに、まだ試験があるんだったら、	「Plus, if there are still tests,
-50116	+	　その間は無事……なのかな」	　they might be safe for now...」
+50115	Kentou Kanami		「それに、まだ試験があるんだったら、	「Plus, if there are still tests,
+50116	+		　その間は無事……なのかな」	　they might be safe for now...」
 
-50117	Sill Plain	「……しばらく様子を見ましょうか」	「...Let's observe for a while.」
+50117	Sill Plain	考え中	「……しばらく様子を見ましょうか」	「...Let's observe for a while.」
 
-50118	-	一行の視線の先では、人々が周囲を見回しながら、	In the direction the group was looking, people were glancing around
-50119	+	飽きることなく勉強を続けていた。	while continuing to study without getting tired.
+50118	-		一行の視線の先では、人々が周囲を見回しながら、	In the direction the group was looking, people were glancing around
+50119	+		飽きることなく勉強を続けていた。	while continuing to study without getting tired.

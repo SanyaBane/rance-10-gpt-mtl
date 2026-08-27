@@ -6,66 +6,66 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Oda Kouhime	香姫	Female
 
-56587	-	ジオ近郊、ハイパービル。	Near Geo, Hyperville.
+56587	-		ジオ近郊、ハイパービル。	Near Geo, Hyperville.
 
-56588	-	かつて幾度となく訪れたその地に、	To that land they had visited many times before,
-56589	+	ランス達はうし車を飛ばした。	Rance and the others rushed on their ox cart.
+56588	-		かつて幾度となく訪れたその地に、	To that land they had visited many times before,
+56589	+		ランス達はうし車を飛ばした。	Rance and the others rushed on their ox cart.
 
-56590	Sill Plain	「ランス様、現地には近くの防衛を担当していた	「Rance-sama, there are about 3000 soldiers
-56591	+	　3000人くらいの兵隊さん達がいるそうです」	　stationed nearby for defense.」
+56590	Sill Plain	基本	「ランス様、現地には近くの防衛を担当していた	「Rance-sama, there are about 3000 soldiers
+56591	+		　3000人くらいの兵隊さん達がいるそうです」	　stationed nearby for defense.」
 
-56592	Rance	「それっぱかしか」	「Only that many?」
+56592	Rance		「それっぱかしか」	「Only that many?」
 
-56593	Chaos	「そりゃあ、『いた』って過去形で表現した方がいい	「Probably better to say 'there were' in past tense.
-56594	+	　かものう。一万の敵と、レイが相手じゃあ……」	　Against ten thousand enemies and Lei...」
+56593	Chaos		「そりゃあ、『いた』って過去形で表現した方がいい	「Probably better to say 'there were' in past tense.
+56594	+		　かものう。一万の敵と、レイが相手じゃあ……」	　Against ten thousand enemies and Lei...」
 
-56595	Sill Plain	「ま、まだ分かりませんから……急ぎましょう」	「W-we don't know yet... Let's hurry.」
+56595	Sill Plain		「ま、まだ分かりませんから……急ぎましょう」	「W-we don't know yet... Let's hurry.」
 
-56596	Rance	「それはうしに言え」	「Tell that to the ox.」
+56596	Rance		「それはうしに言え」	「Tell that to the ox.」
 
-56597	-	ハイパービル――	Hyperville――
+56597	-		ハイパービル――	Hyperville――
 
-56598	Rance	「…………なんだこりゃあ」	「............What the hell is this」
+56598	Rance	驚き	「…………なんだこりゃあ」	「............What the hell is this」
 
-56599	-	自由都市連合軍3000と、魔軍1万は……	The 3000 Free Cities Alliance soldiers and 10,000 Monster Army troops...
-56600	+	戦端を開いてはいなかった。	had not yet begun fighting.
+56599	-		自由都市連合軍3000と、魔軍1万は……	The 3000 Free Cities Alliance soldiers and 10,000 Monster Army troops...
+56600	+		戦端を開いてはいなかった。	had not yet begun fighting.
 
-56601	-	草原いっぱいに開けられた穴が広がり、	Huge holes covered the entire plain,
-56602	+	両軍を隔てていた。	separating both armies.
+56601	-		草原いっぱいに開けられた穴が広がり、	Huge holes covered the entire plain,
+56602	+		両軍を隔てていた。	separating both armies.
 
-56603	Free Cities Guard	「こっ、これは総統閣下！」	「T-this is the Supreme Leader!」
+56603	Free Cities Guard	基本	「こっ、これは総統閣下！」	「T-this is the Supreme Leader!」
 
-56604	Rance	「お。俺を知ってる奴か。	「Oh. Someone who knows me.
-56605	+	　おい、何が起きた。ここ、こんな所だったか？」	　Hey, what happened? Was this place always like this?」
+56604	Rance		「お。俺を知ってる奴か。	「Oh. Someone who knows me.
+56605	+		　おい、何が起きた。ここ、こんな所だったか？」	　Hey, what happened? Was this place always like this?」
 
-56606	Free Cities Guard	「いえ、とんでもない……	「No, not at all...
-56607	+	　恐らくは、モグラミミズですね」	　It's probably mole earthworms.」
+56606	Free Cities Guard		「いえ、とんでもない……	「No, not at all...
+56607	+		　恐らくは、モグラミミズですね」	　It's probably mole earthworms.」
 
-56608	Rance	「モグラ？」	「Moles?」
+56608	Rance		「モグラ？」	「Moles?」
 
-56609	Free Cities Guard	「地中の、浅い所を徘徊する大型モンスターです。	「Large monsters that roam just under the surface.
-56610	+	　群れるので、暴れられると地表はこの通りで……」	　They move in groups, so when they rampage the surface ends up like this...」
+56609	Free Cities Guard		「地中の、浅い所を徘徊する大型モンスターです。	「Large monsters that roam just under the surface.
+56610	+		　群れるので、暴れられると地表はこの通りで……」	　They move in groups, so when they rampage the surface ends up like this...」
 
-56611	Alkanese Rize	「こりゃ、整地でもしないと	「We'd have to level the ground first
-56612	+	　まるで歩けそうにねーなぁ……」	　or we won't be able to walk at all...」
+56611	Alkanese Rize	困り	「こりゃ、整地でもしないと	「We'd have to level the ground first
+56612	+		　まるで歩けそうにねーなぁ……」	　or we won't be able to walk at all...」
 
-56613	Free Cities Guard	「地中は恐らく、洞窟だらけになっているでしょう。	「Underground is probably full of caves now.
-56614	+	　こうなるともう、戦いどころでは……」	　At this point fighting is out of the question...」
+56613	Free Cities Guard	基本	「地中は恐らく、洞窟だらけになっているでしょう。	「Underground is probably full of caves now.
+56614	+		　こうなるともう、戦いどころでは……」	　At this point fighting is out of the question...」
 
-56615	Rance	「…………向こうも、同じ事を思ってるよな」	「............They're probably thinking the same thing.」
+56615	Rance		「…………向こうも、同じ事を思ってるよな」	「............They're probably thinking the same thing.」
 
-56616	Free Cities Guard	「はい？」	「Yes?」
+56616	Free Cities Guard		「はい？」	「Yes?」
 
-56617	Oda Kouhime	「動きがないところを見ると、そうですけど……	「They aren't moving, so probably...
-56618	+	　もしかして、兄様……」	　Could it be, brother...」
+56617	Oda Kouhime	武装	「動きがないところを見ると、そうですけど……	「They aren't moving, so probably...
+56618	+		　もしかして、兄様……」	　Could it be, brother...」
 
-56619	Rance	「決定！　俺は突っ込む！　敢えて！」	「Decided! I'm charging in! On purpose!」
+56619	Rance	怒り	「決定！　俺は突っ込む！　敢えて！」	「Decided! I'm charging in! On purpose!」
 
-56620	Free Cities Guard	「なっ……き、危険ですよ！	「W-what... It's dangerous!
-56621	+	　一見大丈夫そうな所も、いつ崩れるか……」	　Even places that look safe might collapse at any moment...」
+56620	Free Cities Guard	基本	「なっ……き、危険ですよ！	「W-what... It's dangerous!
+56621	+		　一見大丈夫そうな所も、いつ崩れるか……」	　Even places that look safe might collapse at any moment...」
 
-56622	Rance	「がはははは、だいじょーぶだいじょうぶ！	「Gahahahaha, it'll be fiiine!
-56623	+	　俺様に任せておけ！　いくぞ！」	　Leave it to me! Let's go!」
+56622	Rance	笑顔	「がはははは、だいじょーぶだいじょうぶ！	「Gahahahaha, it'll be fiiine!
+56623	+		　俺様に任せておけ！　いくぞ！」	　Leave it to me! Let's go!」
 
-56624	-	ランスが先頭を切り、魔人討伐隊はやむをえず、	Rance took the lead, and the Fiend Extermination Squad reluctantly
-56625	+	その後に続いた。	followed after him.
+56624	-		ランスが先頭を切り、魔人討伐隊はやむをえず、	Rance took the lead, and the Fiend Extermination Squad reluctantly
+56625	+		その後に続いた。	followed after him.

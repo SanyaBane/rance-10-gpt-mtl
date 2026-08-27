@@ -4,85 +4,85 @@
 * Satella	サテラ	Female
 * Silky Littleraisin	シルキィ	Female
 
-155475	Rance	「えーい、どこだどこだ、シルキィちゃん！」	「Eei, where are you, Silky-chan!」
+155475	Rance	怒り	「えーい、どこだどこだ、シルキィちゃん！」	「Eei, where are you, Silky-chan!」
 
-155476	Rance	「さっきの兵の言ってる場所に来たのに、	「We came to where that soldier said,
-155477	+	　混戦状態で分からんな」	　but it's such a mess I can't tell.」
+155476	Rance	だる顔	「さっきの兵の言ってる場所に来たのに、	「We came to where that soldier said,
+155477	+		　混戦状態で分からんな」	　but it's such a mess I can't tell.」
 
-155478	Sill Plain	「もうどこかに移動したんでしょうか……」	「Maybe she moved somewhere else already...」
+155478	Sill Plain	考え中	「もうどこかに移動したんでしょうか……」	「Maybe she moved somewhere else already...」
 
-155479	Rance	「ちっ、これじゃあ、見つけることなんて……」	「Tch, at this rate we won't find her...」
+155479	Rance	基本	「ちっ、これじゃあ、見つけることなんて……」	「Tch, at this rate we won't find her...」
 
-155480	Satella	「シルキィ……」	「Silky...」
+155480	Satella	不安	「シルキィ……」	「Silky...」
 
-155481	Rance	「ん？　向こうが騒がしいな、	「Hm? It's noisy over there,
-155482	+	　ちょっと行ってみるか」	　let's go check it out.」
+155481	Rance	真剣	「ん？　向こうが騒がしいな、	「Hm? It's noisy over there,
+155482	+		　ちょっと行ってみるか」	　let's go check it out.」
 
-155483	-	――と、ランスが顔を向けた瞬間。	――The moment Rance turned his head.
+155483	-		――と、ランスが顔を向けた瞬間。	――The moment Rance turned his head.
 
-155484	-	土煙の中から甲冑の塊が現れた。	A massive armored figure emerged from the cloud of dust.
+155484	-		土煙の中から甲冑の塊が現れた。	A massive armored figure emerged from the cloud of dust.
 
-155485	Satella	「なっ……！」	「Wha...!」
+155485	Satella	基本	「なっ……！」	「Wha...!」
 
-155486	Silky Littleraisin	「え……？」	「Eh...?」
+155486	Silky Littleraisin	ファット	「え……？」	「Eh...?」
 
-155487	Rance	「先手必勝！　死ねェー！	「First strike wins! Dieee!
-155488	+	　ランスあたたたーっく！」	　Rance attack!」
+155487	Rance	怒り	「先手必勝！　死ねェー！	「First strike wins! Dieee!
+155488	+		　ランスあたたたーっく！」	　Rance attack!」
 
-155489	Silky Littleraisin	「くっ！」	「Kuh!」
+155489	Silky Littleraisin	ファット	「くっ！」	「Kuh!」
 
-155490	-	ランスの不意打ち気味の攻撃に	Sensing something dangerous in Rance's surprise attack,
-155491	+	なにか不穏なものを感じたシルキィは	Silky shifted her body sideways
-155492	+	受けずに半身をずらして避けた。	and dodged without blocking.
+155490	-		ランスの不意打ち気味の攻撃に	Sensing something dangerous in Rance's surprise attack,
+155491	+		なにか不穏なものを感じたシルキィは	Silky shifted her body sideways
+155492	+		受けずに半身をずらして避けた。	and dodged without blocking.
 
-155493	Rance	「おおっ！？　見た目の割に機敏だな！」	「Oh!? You're pretty agile for how you look!」
+155493	Rance	基本	「おおっ！？　見た目の割に機敏だな！」	「Oh!? You're pretty agile for how you look!」
 
-155494	Satella	「シルキィ！」	「Silky!」
+155494	Satella	怒り	「シルキィ！」	「Silky!」
 
-155495	Rance	「なに！？　こいつ新種の魔物じゃないのか！？」	「What!? Isn't this some new kind of monster!?」
+155495	Rance	基本	「なに！？　こいつ新種の魔物じゃないのか！？」	「What!? Isn't this some new kind of monster!?」
 
-155496	Satella	「シルキィ……どうして……」	「Silky... why...」
+155496	Satella	不安	「シルキィ……どうして……」	「Silky... why...」
 
-155497	Silky Littleraisin	「…………」	「............」
+155497	Silky Littleraisin	ファット	「…………」	「............」
 
-155498	Satella	「あっ、シルキィ！」	「Ah, Silky!」
+155498	Satella	基本	「あっ、シルキィ！」	「Ah, Silky!」
 
-155499	-	サテラが話しかけた途端、	The moment Satella called out to her,
-155500	+	シルキィは速度を上げ、土煙の中へ消えていった。	Silky sped up and vanished back into the cloud of dust.
+155499	-		サテラが話しかけた途端、	The moment Satella called out to her,
+155500	+		シルキィは速度を上げ、土煙の中へ消えていった。	Silky sped up and vanished back into the cloud of dust.
 
-155501	Satella	「い、行っちゃ……った……	「S-she left...
-155502	+	　シルキィ……なんで……」	　Silky... why...」
+155501	Satella	不安	「い、行っちゃ……った……	「S-she left...
+155502	+		　シルキィ……なんで……」	　Silky... why...」
 
-155503	Rance	「サテラぁぁぁー！」	「Satellaaaa!」
+155503	Rance	基本	「サテラぁぁぁー！」	「Satellaaaa!」
 
-155504	Satella	「にゃああああぁあああ！？」	「Nyaaaaaaaah!?」
+155504	Satella	あほー	「にゃああああぁあああ！？」	「Nyaaaaaaaah!?」
 
-155505	-	ランスが後ろからサテラの胸を	Rance grabbed Satella's breasts
-155506	+	両手で鷲掴みにした。	firmly from behind with both hands.
+155505	-		ランスが後ろからサテラの胸を	Rance grabbed Satella's breasts
+155506	+		両手で鷲掴みにした。	firmly from behind with both hands.
 
-155507	Rance	「なんだあれは！	「What the hell was that!
-155508	+	　話と全然違う化け物ではないか！」	　That's nothing like what I was told, it's a monster!」
+155507	Rance	基本	「なんだあれは！	「What the hell was that!
+155508	+		　話と全然違う化け物ではないか！」	　That's nothing like what I was told, it's a monster!」
 
-155509	Satella	「ち、ちがっ……ひうっ……！？	「I-it's not... Hiu...!?
-155510	+	　あれ、シルキィ、の……甲冑……！」	　That... is Silky's... armor...!」
+155509	Satella	ぐぬぬ	「ち、ちがっ……ひうっ……！？	「I-it's not... Hiu...!?
+155510	+		　あれ、シルキィ、の……甲冑……！」	　That... is Silky's... armor...!」
 
-155511	Rance	「甲冑？　じゃあ中身はちゃんと可愛いのか？」	「Armor? So the inside is still a cute girl?」
+155511	Rance	基本	「甲冑？　じゃあ中身はちゃんと可愛いのか？」	「Armor? So the inside is still a cute girl?」
 
-155512	Satella	「うっ、んっ……んんっ……！	「U, n... Nn...!
-155513	+	　だ、だから……はにゃ、離し、てぇぇぇ……！」	　T-that's why... let... goooo...!」
+155512	Satella	ぐぬぬ	「うっ、んっ……んんっ……！	「U, n... Nn...!
+155513	+		　だ、だから……はにゃ、離し、てぇぇぇ……！」	　T-that's why... let... goooo...!」
 
-155514	-	顔を真っ赤にしながらサテラが何度も頷くのを見て、	Seeing Satella nod repeatedly with a bright red face,
-155515	+	ランスはようやく手を離した。	Rance finally released her breasts.
+155514	-		顔を真っ赤にしながらサテラが何度も頷くのを見て、	Seeing Satella nod repeatedly with a bright red face,
+155515	+		ランスはようやく手を離した。	Rance finally released her breasts.
 
-155516	Rance	「なんだそういうことは早く言え」	「If that's the case you should have said so sooner.」
+155516	Rance	真剣	「なんだそういうことは早く言え」	「If that's the case you should have said so sooner.」
 
-155517	Rance	「二メートル以上は軽くありそうだが……	「She looks over two meters tall but...
-155518	+	　ぐふふ、まあたまにはそういうのも良しだ」	　Gufufu, well, that kind can be good sometimes too.」
+155517	Rance	エロ顔	「二メートル以上は軽くありそうだが……	「She looks over two meters tall but...
+155518	+		　ぐふふ、まあたまにはそういうのも良しだ」	　Gufufu, well, that kind can be good sometimes too.」
 
-155519	Rance	「がははは、シルキィを追うぞ！	「Gahahaha, let's chase Silky!
-155520	+	　行くぞお前ら！」	　Let's go everyone!」
+155519	Rance	笑顔	「がははは、シルキィを追うぞ！	「Gahahaha, let's chase Silky!
+155520	+		　行くぞお前ら！」	　Let's go everyone!」
 
-155521	Rance	「……って、サテラ。	「...Hey, Satella.
-155522	+	　へたり込んでいると置いていくぞ」	　If you stay collapsed there I'll leave you behind.」
+155521	Rance	基本	「……って、サテラ。	「...Hey, Satella.
+155522	+		　へたり込んでいると置いていくぞ」	　If you stay collapsed there I'll leave you behind.」
 
-155523	Satella	「貴様、本当に殺すぞ！」	「I'll really kill you!」
+155523	Satella	ツンデレ	「貴様、本当に殺すぞ！」	「I'll really kill you!」

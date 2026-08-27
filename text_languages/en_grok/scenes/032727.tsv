@@ -6,139 +6,139 @@
 * Kentou Kanami	かなみ	Female
 * Hornet	ホーネット	Female
 
-171897	Rance	「む、ここは……」	「Hm, this is...」
+171897	Rance	基本	「む、ここは……」	「Hm, this is...」
 
-171898	Sill Plain	「わ、とっても豪華な扉ですね……」	「Wow, such a luxurious door...」
+171898	Sill Plain	慌て	「わ、とっても豪華な扉ですね……」	「Wow, such a luxurious door...」
 
-171899	Satella	「……気をつけろ、中から、	「...Be careful, from inside
-171900	+	　ただものではない気配がするぞ」	　I sense an extraordinary presence.」
+171899	Satella	怒り	「……気をつけろ、中から、	「...Be careful, from inside
+171900	+		　ただものではない気配がするぞ」	　I sense an extraordinary presence.」
 
-171901	Rance	「言われんでも」	「I know.」
+171901	Rance	真剣	「言われんでも」	「I know.」
 
-171902	-	ゆっくりとランスが扉を開く。	Rance slowly opened the door.
+171902	-		ゆっくりとランスが扉を開く。	Rance slowly opened the door.
 
-171903	Rance	「む、なんだここ……」	「Hm, what is this place...」
+171903	Rance	基本	「む、なんだここ……」	「Hm, what is this place...」
 
-171904	-	そこは豪華な扉の奥とは思えないほど、	Beyond the luxurious door was
-171905	+	暗く、湿った牢屋が広がっていた。	a dark, damp prison that spread out.
+171904	-		そこは豪華な扉の奥とは思えないほど、	Beyond the luxurious door was
+171905	+		暗く、湿った牢屋が広がっていた。	a dark, damp prison that spread out.
 
-171906	Rance	「……どんな趣味しとるんだ、ケイブリスの奴は」	「...What kind of tastes does that Kayblis have?」
+171906	Rance		「……どんな趣味しとるんだ、ケイブリスの奴は」	「...What kind of tastes does that Kayblis have?」
 
-171907	Sill Plain	「ら、ランス様……この気配は……」	「R-Rance-sama... this presence...」
+171907	Sill Plain		「ら、ランス様……この気配は……」	「R-Rance-sama... this presence...」
 
-171908	-	牢屋の奥から漂う濃厚な気配、	A thick presence drifting from deep in the prison,
-171909	+	視線を巡らせるとそこにそれはいた。	and when they looked, there it was.
+171908	-		牢屋の奥から漂う濃厚な気配、	A thick presence drifting from deep in the prison,
+171909	+		視線を巡らせるとそこにそれはいた。	and when they looked, there it was.
 
-171910	Camilla	「…………」	「............」
+171910	Camilla	目閉じ	「…………」	「............」
 
-171911	Sill Plain	「う、嘘！　魔人カミーラ！？」	「N-No way! Fiend Camilla!?」
+171911	Sill Plain	慌て	「う、嘘！　魔人カミーラ！？」	「N-No way! Fiend Camilla!?」
 
-171912	Rance	「なんでこんな所に！」	「Why is she in a place like this!」
+171912	Rance	驚き	「なんでこんな所に！」	「Why is she in a place like this!」
 
-171913	-	室内にいたのは、ケイブリスの恋人として	Inside the room was Camilla,
-171914	+	丁重に扱われている、囚われの身のカミーラだった。	Kayblis's lover, treated courteously yet imprisoned.
+171913	-		室内にいたのは、ケイブリスの恋人として	Inside the room was Camilla,
+171914	+		丁重に扱われている、囚われの身のカミーラだった。	Kayblis's lover, treated courteously yet imprisoned.
 
-171915	-	こちらに気づいているのか、いないのか、	Whether she noticed them or not,
-171916	+	カミーラは顔色一つ変えない。	Camilla didn't change her expression at all.
+171915	-		こちらに気づいているのか、いないのか、	Whether she noticed them or not,
+171916	+		カミーラは顔色一つ変えない。	Camilla didn't change her expression at all.
 
-171917	-	その瞳が、不意に動き、サテラに視線が向けられた。	Her eyes suddenly moved and focused on Satella.
+171917	-		その瞳が、不意に動き、サテラに視線が向けられた。	Her eyes suddenly moved and focused on Satella.
 
-171918	Camilla	「……ホーネット派の奴ら、か」	「...So Hornet faction people, huh.」
+171918	Camilla	基本	「……ホーネット派の奴ら、か」	「...So Hornet faction people, huh.」
 
-171919	Camilla	「ケイブリスと戦いに来たか……」	「You came to fight Kayblis...」
+171919	Camilla		「ケイブリスと戦いに来たか……」	「You came to fight Kayblis...」
 
-171920	Rance	「おお、そうだ。	「Yeah, that's right.
-171921	+	　あいつが色々と邪魔だからな。	　That guy is in the way in many ways.
-171922	+	　ズバーッと殺してくるところだ」	　I'm here to kill him straight up.」
+171920	Rance		「おお、そうだ。	「Yeah, that's right.
+171921	+		　あいつが色々と邪魔だからな。	　That guy is in the way in many ways.
+171922	+		　ズバーッと殺してくるところだ」	　I'm here to kill him straight up.」
 
-171923	Camilla	「貴様……ランス……」	「You... Rance...」
+171923	Camilla		「貴様……ランス……」	「You... Rance...」
 
-171924	Rance	「久しぶりだな、カミーラ」	「It's been a while, Camilla.」
+171924	Rance		「久しぶりだな、カミーラ」	「It's been a while, Camilla.」
 
-171925	Camilla~	（ここにいるということは……	（Being here means...
-171926	+	　こいつもケイブリスと戦うつもり、か……）	　this one also intends to fight Kayblis...）
+171925	Camilla~		（ここにいるということは……	（Being here means...
+171926	+		　こいつもケイブリスと戦うつもり、か……）	　this one also intends to fight Kayblis...）
 
-171927	Camilla~	（人間の身で……	（As a mere human...
-171928	+	　大それたことを……）	　doing something so outrageous...）
+171927	Camilla~		（人間の身で……	（As a mere human...
+171928	+		　大それたことを……）	　doing something so outrageous...）
 
-171929	Camilla	「ふっ……」	「Fuh...」
+171929	Camilla	目閉じ	「ふっ……」	「Fuh...」
 
-171930	Rance	「わ、笑った……	「Whoa, she laughed...
-171931	+	　なんか好感触じゃないか、どう思う？」	　Feels pretty good, what do you think?」
+171930	Rance	基本	「わ、笑った……	「Whoa, she laughed...
+171931	+		　なんか好感触じゃないか、どう思う？」	　Feels pretty good, what do you think?」
 
-171932	Kentou Kanami	「絶対に違うから、お願いだから刺激しないで」	「You've got it completely wrong, so please, I beg you, don't provoke her.」
+171932	Kentou Kanami	混乱	「絶対に違うから、お願いだから刺激しないで」	「You've got it completely wrong, so please, I beg you, don't provoke her.」
 
-171933	Camilla~	（ケイブリスを倒す、か……）	（Defeat Kayblis, huh...）
+171933	Camilla~	薄目	（ケイブリスを倒す、か……）	（Defeat Kayblis, huh...）
 
-171934	Camilla~	（私には……そんな勇気も行動力も、ないな……）	（I certainly don't have... that kind of courage, nor the drive to act......）
+171934	Camilla~		（私には……そんな勇気も行動力も、ないな……）	（I certainly don't have... that kind of courage, nor the drive to act......）
 
-171935	Rance	「むう……」	「Muu...」
+171935	Rance	真剣	「むう……」	「Muu...」
 
-171936	Camilla	「…………」	「............」
+171936	Camilla	基本	「…………」	「............」
 
-171937	Rance~	（しかし……以前散々レイプしたからな、	（But... I raped her thoroughly before,
-171938	+	　正直、怒り狂って向かってくるかと思ったが、	　honestly I thought she'd come at me furiously angry,
-171939	+	　何かしてくる気配はないな……）	　but there's no sign of her doing anything...）
+171937	Rance~	だる顔	（しかし……以前散々レイプしたからな、	（But... I raped her thoroughly before,
+171938	+		　正直、怒り狂って向かってくるかと思ったが、	　honestly I thought she'd come at me furiously angry,
+171939	+		　何かしてくる気配はないな……）	　but there's no sign of her doing anything...）
 
-171940	Rance~	（まさか、本当に俺に惚れて……？）	（Could she actually be in love with me...?）
+171940	Rance~	真剣	（まさか、本当に俺に惚れて……？）	（Could she actually be in love with me...?）
 
-171941	Rance~	（……いや、違う。	（...No, that's not it.
-171942	+	　こいつ、ただ無気力なだけだ）	　She's just completely apathetic.）
+171941	Rance~		（……いや、違う。	（...No, that's not it.
+171942	+		　こいつ、ただ無気力なだけだ）	　She's just completely apathetic.）
 
-171943	Rance	「しかし、どうしてカミーラがここに……」	「But why is Camilla here...」
+171943	Rance		「しかし、どうしてカミーラがここに……」	「But why is Camilla here...」
 
-171944	Satella	「魔人ケイブリスのお気に入りなんだ、	「She's Kayblis the Fiend's favorite,
-171945	+	　カミーラはな」	　Camilla is.」
+171944	Satella	思考	「魔人ケイブリスのお気に入りなんだ、	「She's Kayblis the Fiend's favorite,
+171945	+		　カミーラはな」	　Camilla is.」
 
-171946	Rance	「ほほう、それなら人質に取れば……」	「Hohou, then we could take her hostage...」
+171946	Rance	エロ顔	「ほほう、それなら人質に取れば……」	「Hohou, then we could take her hostage...」
 
-171947	Kentou Kanami	「馬鹿言わないでよ！	「Don't say stupid things!
-171948	+	　そんなこと出来ると思ってるの！？」	　You think we can do that!?」
+171947	Kentou Kanami	混乱	「馬鹿言わないでよ！	「Don't say stupid things!
+171948	+		　そんなこと出来ると思ってるの！？」	　You think we can do that!?」
 
-171949	Rance	「……無理そうだな」	「...Doesn't seem possible.」
+171949	Rance	だる顔	「……無理そうだな」	「...Doesn't seem possible.」
 
-171950	Satella	「おい、カミーラ。	「Hey, Camilla.
-171951	+	　サテラ達は今からケイブリスを倒す。	　We are going to defeat Kayblis now.
-171952	+	　退くならここは無視しよう」	　If you step back we'll ignore you here.」
+171950	Satella	怒り	「おい、カミーラ。	「Hey, Camilla.
+171951	+		　サテラ達は今からケイブリスを倒す。	　We are going to defeat Kayblis now.
+171952	+		　退くならここは無視しよう」	　If you step back we'll ignore you here.」
 
-171953	Satella	「だが、もしも邪魔すると言うのなら……」	「But if you say you'll interfere...」
+171953	Satella		「だが、もしも邪魔すると言うのなら……」	「But if you say you'll interfere...」
 
-171954	Camilla	「…………」	「............」
+171954	Camilla	薄目	「…………」	「............」
 
-171955	-	殺気立つサテラにも興味なさそうに、	Seemingly uninterested in the killing intent from Satella,
-171956	+	スイッとカミーラは視線を逸らした。	Camilla smoothly shifted her gaze away.
+171955	-		殺気立つサテラにも興味なさそうに、	Seemingly uninterested in the killing intent from Satella,
+171956	+		スイッとカミーラは視線を逸らした。	Camilla smoothly shifted her gaze away.
 
-171957	-	その視線の先を見るようにと伝えるように。	As if telling them to look where her gaze went.
+171957	-		その視線の先を見るようにと伝えるように。	As if telling them to look where her gaze went.
 
-171958	Camilla	「行け」	「Go.」
+171958	Camilla		「行け」	「Go.」
 
-171959	Rance	「な、なんだと？」	「Wh-What?」
+171959	Rance	基本	「な、なんだと？」	「Wh-What?」
 
-171960	Camilla	「ケイブリスはこの部屋を出て左の方向にいる筈だ」	「Kayblis should be to the left after leaving this room.」
+171960	Camilla	薄目	「ケイブリスはこの部屋を出て左の方向にいる筈だ」	「Kayblis should be to the left after leaving this room.」
 
-171961	Satella	「……どういうつもりだ？」	「...What are you planning?」
+171961	Satella	基本	「……どういうつもりだ？」	「...What are you planning?」
 
-171962	Camilla	「…………」	「............」
+171962	Camilla	目閉じ	「…………」	「............」
 
-171963	-	言うべきはもうないということか、	Meaning there was nothing more to say,
-171964	+	カミーラは黙したまま何も語らない。	Camilla stayed silent.
+171963	-		言うべきはもうないということか、	Meaning there was nothing more to say,
+171964	+		カミーラは黙したまま何も語らない。	Camilla stayed silent.
 
-171965	Hornet	「私達と戦う気はない。	「She has no intention of fighting us.
-171966	+	　いいえ、戦う理由がないのでしょう」	　No, she has no reason to fight.」
+171965	Hornet	基本	「私達と戦う気はない。	「She has no intention of fighting us.
+171966	+		　いいえ、戦う理由がないのでしょう」	　No, she has no reason to fight.」
 
-171967	Camilla	「…………」	「............」
+171967	Camilla		「…………」	「............」
 
-171968	Hornet	「…………」	「............」
+171968	Hornet		「…………」	「............」
 
-171969	Hornet	「……行きましょう」	「...Let's go.」
+171969	Hornet		「……行きましょう」	「...Let's go.」
 
-171970	Rance	「ま、無理して戦う必要はないな」	「Well, no need to force a fight.」
+171970	Rance		「ま、無理して戦う必要はないな」	「Well, no need to force a fight.」
 
-171971	Rance	「行くぞ！」	「Let's go!」
+171971	Rance	怒り	「行くぞ！」	「Let's go!」
 
-171972	Camilla	「…………」	「............」
+171972	Camilla	目閉じ	「…………」	「............」
 
-171973	-	部屋からランス達が去って行く。	Rance and the others left the room.
+171973	-		部屋からランス達が去って行く。	Rance and the others left the room.
 
-171974	-	怠惰の魔人、カミーラは何を思っているのか、	The lazy Fiend Camilla, with what thoughts,
-171975	+	気だるげに一人の部屋で俯いていた。	lazily looked down alone in the room.
+171974	-		怠惰の魔人、カミーラは何を思っているのか、	The lazy Fiend Camilla, with what thoughts,
+171975	+		気だるげに一人の部屋で俯いていた。	lazily looked down alone in the room.

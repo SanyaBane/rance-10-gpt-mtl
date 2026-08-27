@@ -2,88 +2,88 @@
 * Shinoda Gengorou	篠田源五郎	Male
 * Rance	ランス	Male
 
-59056	Shinoda Gengorou	「こんにちはー」	「Hello~」
+59056	Shinoda Gengorou	基本	「こんにちはー」	「Hello~」
 
-59057	-	ポルトガル出身の軍師、篠田源五郎が	The strategist from Portugal, Shinoda Gengo,
-59058	+	ランスの呼びかけに応じてやって来た。	came in response to Rance's call.
+59057	-		ポルトガル出身の軍師、篠田源五郎が	The strategist from Portugal, Shinoda Gengo,
+59058	+		ランスの呼びかけに応じてやって来た。	came in response to Rance's call.
 
-59059	Rance	「見れば見るほど、なんの能もなさそうだな……」	「The more I look, the more useless he seems...」
+59059	Rance	だる顔	「見れば見るほど、なんの能もなさそうだな……」	「The more I look, the more useless he seems...」
 
-59060	Shinoda Gengorou	「ひどいよね。僕はサッカーが見れて、	「That's harsh. As long as I can watch soccer,
-59061	+	　その……優しくて綺麗な、あの人が居てくれれば	　and that... kind and beautiful person is there,
-59062	+	　それでいいのに。戦争なんてさぁ……」	　that's enough for me. War and all that...」
+59060	Shinoda Gengorou	不満	「ひどいよね。僕はサッカーが見れて、	「That's harsh. As long as I can watch soccer,
+59061	+		　その……優しくて綺麗な、あの人が居てくれれば	　and that... kind and beautiful person is there,
+59062	+		　それでいいのに。戦争なんてさぁ……」	　that's enough for me. War and all that...」
 
-59063	Rance	「なんだ。惚れてる女でもいるのか」	「What? Got a woman you're into?」
+59063	Rance	真剣	「なんだ。惚れてる女でもいるのか」	「What? Got a woman you're into?」
 
-59064	Shinoda Gengorou	「あっ、あっ、え、ええっと。うふふ」	「Ah, ah, u-um. Ehehe.」
+59064	Shinoda Gengorou	基本	「あっ、あっ、え、ええっと。うふふ」	「Ah, ah, u-um. Ehehe.」
 
-59065	Rance~	（しかし、こんなのに抱かれるアホな女もいるまい）	（But no idiot woman would let herself be embraced by a guy like this.）
+59065	Rance~	だる顔	（しかし、こんなのに抱かれるアホな女もいるまい）	（But no idiot woman would let herself be embraced by a guy like this.）
 
-59066	Rance	「まあそんな事はどうでもいい。	「Well, that doesn't matter.
-59067	+	　貴様！　スパイか！」	　You! Are you a spy!」
+59066	Rance	怒り	「まあそんな事はどうでもいい。	「Well, that doesn't matter.
+59067	+		　貴様！　スパイか！」	　You! Are you a spy!」
 
-59068	Shinoda Gengorou	「スパイ？　……あーあー、魔軍の。	「Spy? ...Ah, you mean from the Monster Army.
-59069	+	　違いますよー」	　No, I'm not~」
+59068	Shinoda Gengorou	基本	「スパイ？　……あーあー、魔軍の。	「Spy? ...Ah, you mean from the Monster Army.
+59069	+		　違いますよー」	　No, I'm not~」
 
-59070	Rance	「本当かぁ〜？　いきなりポッと出てきやがって。	「Really~? You suddenly popped up out of nowhere.
-59071	+	　どうやって信用しろというのだ」	　How am I supposed to trust you?」
+59070	Rance	だる顔	「本当かぁ〜？　いきなりポッと出てきやがって。	「Really~? You suddenly popped up out of nowhere.
+59071	+		　どうやって信用しろというのだ」	　How am I supposed to trust you?」
 
-59072	Shinoda Gengorou	「たぶん、実際に内通者はいるでしょうね。	「There probably is a real traitor.
-59073	+	　他の人に送った密偵は、そのカムフラージュ」	　The spies sent to others are just camouflage.」
+59072	Shinoda Gengorou	基本	「たぶん、実際に内通者はいるでしょうね。	「There probably is a real traitor.
+59073	+		　他の人に送った密偵は、そのカムフラージュ」	　The spies sent to others are just camouflage.」
 
-59074	Rance	「む？」	「Hm?」
+59074	Rance	真剣	「む？」	「Hm?」
 
-59075	Shinoda Gengorou	「密偵の姿を見せたのもわざとだろうなぁ。	「Showing the spies on purpose too, probably.
-59076	+	　こうやって、疑心暗鬼にさせたいんだね」	　They want to create paranoia like this.」
+59075	Shinoda Gengorou	基本	「密偵の姿を見せたのもわざとだろうなぁ。	「Showing the spies on purpose too, probably.
+59076	+		　こうやって、疑心暗鬼にさせたいんだね」	　They want to create paranoia like this.」
 
-59077	Rance	「……なんでそう思う」	「...Why do you think that?」
+59077	Rance	真剣	「……なんでそう思う」	「...Why do you think that?」
 
-59078	-	おっとりと、淡々とした断言口調に釣り込まれて、	Drawn in by his calm, matter-of-fact tone,
-59079	+	ランスは思わず座り直した。	Rance unconsciously sat up straighter.
+59078	-		おっとりと、淡々とした断言口調に釣り込まれて、	Drawn in by his calm, matter-of-fact tone,
+59079	+		ランスは思わず座り直した。	Rance unconsciously sat up straighter.
 
-59080	Shinoda Gengorou	「もし都市間の結束を破壊するのが主目的なら、	「If the main goal was to break the unity between cities,
-59081	+	　もうちょっと色々しなきゃ。	　they would need to do more.
-59082	+	　都市軍を装って、他の都市の陣に火を点けるとか」	　Like disguising as city troops and setting fire to other cities' camps.」
+59080	Shinoda Gengorou	基本	「もし都市間の結束を破壊するのが主目的なら、	「If the main goal was to break the unity between cities,
+59081	+		　もうちょっと色々しなきゃ。	　they would need to do more.
+59082	+		　都市軍を装って、他の都市の陣に火を点けるとか」	　Like disguising as city troops and setting fire to other cities' camps.」
 
-59083	Shinoda Gengorou	「僕ならそっちの方の策を取るけど、	「If it were me, I'd go with that kind of plan,
-59084	+	　特定のどこかを裏切らせる方を重視してるなら、	　but if they're focused on making a specific place betray,
-59085	+	　それは前もって仕込んでおいたんでしょうね」	　they probably set it up in advance.」
+59083	Shinoda Gengorou		「僕ならそっちの方の策を取るけど、	「If it were me, I'd go with that kind of plan,
+59084	+		　特定のどこかを裏切らせる方を重視してるなら、	　but if they're focused on making a specific place betray,
+59085	+		　それは前もって仕込んでおいたんでしょうね」	　they probably set it up in advance.」
 
-59086	Shinoda Gengorou	「仕込みのせいで視野が狭まってるのか、	「Either their is narrowed by the setup,
-59087	+	　単に思いつかなかったか。	　or they just didn't think of it.
-59088	+	　それで充分って自信があるのかもね」	　Or maybe they're confident this is enough.」
+59086	Shinoda Gengorou		「仕込みのせいで視野が狭まってるのか、	「Either their is narrowed by the setup,
+59087	+		　単に思いつかなかったか。	　or they just didn't think of it.
+59088	+		　それで充分って自信があるのかもね」	　Or maybe they're confident this is enough.」
 
-59089	Rance	「……つまり？」	「...In other words?」
+59089	Rance	真剣	「……つまり？」	「...In other words?」
 
-59090	Shinoda Gengorou	「内通者は実在する。	「The traitor exists.
-59091	+	　魔軍の策はそこが要所で、それを崩せば	　That's the key point of the Monster Army's plan.
-59092	+	　どうにかなるだろう、ということですね」	　If we break that, things should work out.」
+59090	Shinoda Gengorou	基本	「内通者は実在する。	「The traitor exists.
+59091	+		　魔軍の策はそこが要所で、それを崩せば	　That's the key point of the Monster Army's plan.
+59092	+		　どうにかなるだろう、ということですね」	　If we break that, things should work out.」
 
-59093	Rance	「で、誰なんだそれは。もったいぶるな」	「So, who is it? Don't drag it out.」
+59093	Rance	イライラ	「で、誰なんだそれは。もったいぶるな」	「So, who is it? Don't drag it out.」
 
-59094	Shinoda Gengorou	「それは知らないですよ。	「I don't know that.
-59095	+	　他の偉い人、僕詳しくないですし」	　I'm not familiar with the other big shots.」
+59094	Shinoda Gengorou	不満	「それは知らないですよ。	「I don't know that.
+59095	+		　他の偉い人、僕詳しくないですし」	　I'm not familiar with the other big shots.」
 
-59096	Shinoda Gengorou	「……でも、人間を裏切って魔物に付くんですから、	「...But betraying humans to side with monsters,
-59097	+	　普通の理由じゃないですよね」	　isn't something done for ordinary reasons.」
+59096	Shinoda Gengorou	基本	「……でも、人間を裏切って魔物に付くんですから、	「...But betraying humans to side with monsters,
+59097	+		　普通の理由じゃないですよね」	　isn't something done for ordinary reasons.」
 
-59098	Shinoda Gengorou	「魔物を信じられる理由があるか……	「Either they have a reason to trust monsters...
-59099	+	　あるいは、何か重要なもののために、	　or they're willing to do anything
-59100	+	　なりふり構わないつもりなのか」	　for something truly important.」
+59098	Shinoda Gengorou		「魔物を信じられる理由があるか……	「Either they have a reason to trust monsters...
+59099	+		　あるいは、何か重要なもののために、	　or they're willing to do anything
+59100	+		　なりふり構わないつもりなのか」	　for something truly important.」
 
-59101	-	淡々と、本に書いてある文を読むように、	In a calm, steady tone like reading from a book,
-59102	+	篠田は淀みなく解説した。	Shinoda explained without hesitation.
+59101	-		淡々と、本に書いてある文を読むように、	In a calm, steady tone like reading from a book,
+59102	+		篠田は淀みなく解説した。	Shinoda explained without hesitation.
 
-59103	Rance	「む、む、むむむ」	「Mu, mu, mumumu.」
+59103	Rance	真剣	「む、む、むむむ」	「Mu, mu, mumumu.」
 
-59104	Shinoda Gengorou	「あっ、じゃあこれで。	「Ah, well then.
-59105	+	　深夜サッカーの時間だから僕帰りますね」	　It's time for late-night soccer, so I'll head back.」
+59104	Shinoda Gengorou	基本	「あっ、じゃあこれで。	「Ah, well then.
+59105	+		　深夜サッカーの時間だから僕帰りますね」	　It's time for late-night soccer, so I'll head back.」
 
-59106	Rance	「なんだと？　おい、待てこら！」	「What? Hey, wait a second!」
+59106	Rance	怒り	「なんだと？　おい、待てこら！」	「What? Hey, wait a second!」
 
-59107	Shinoda Gengorou	「戦争キライだよ〜。	「I hate war~.
-59108	+	　試合の中継がめっきり減っちゃって、もう〜」	　The number of match broadcasts has dropped so much~」
+59107	Shinoda Gengorou	不満	「戦争キライだよ〜。	「I hate war~.
+59108	+		　試合の中継がめっきり減っちゃって、もう〜」	　The number of match broadcasts has dropped so much~」
 
-59109	Rance	「ちっ、変人め……	「Tch, what a weirdo...
-59110	+	　まぁ、男なんぞと長時間話し込むのは	　Well, I don't want to talk with a man for long either...」
-59111	+	　俺も御免被るが……」	
+59109	Rance	だる顔	「ちっ、変人め……	「Tch, what a weirdo...
+59110	+		　まぁ、男なんぞと長時間話し込むのは	　Well, I don't want to talk with a man for long either...」
+59111	+		　俺も御免被るが……」	

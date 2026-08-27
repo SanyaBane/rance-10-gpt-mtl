@@ -4,43 +4,43 @@
 * Rance	ランス	Male
 * Sachiko Centers	サチコ	Female
 
-60035	Lei	「ッ、お、らあああァァァァァァッ！！」	「Tch, o, raaaaaaaahhh!!」
+60035	Lei	戦闘時	「ッ、お、らあああァァァァァァッ！！」	「Tch, o, raaaaaaaahhh!!」
 
-60036	Maria Custard	「きゃーーーーーーっ！？	「Kyaaaaaaaahhh!?」
-60037	+	　チューリップがーーーーーっ！」	　Tulip is-----!」
+60036	Maria Custard	基本	「きゃーーーーーーっ！？	「Kyaaaaaaaahhh!?」
+60037	+		　チューリップがーーーーーっ！」	　Tulip is-----!」
 
-60038	-	苛烈極まる勢いと共に、レイの手刀が戦車を引き裂く。	With ferocious momentum, Lei's hand blade tore the tank apart.
-60039	+	前面装甲がひしゃげて、そのまま動かなくなる。	The front armor crumpled and it stopped moving completely.
+60038	-		苛烈極まる勢いと共に、レイの手刀が戦車を引き裂く。	With ferocious momentum, Lei's hand blade tore the tank apart.
+60039	+		前面装甲がひしゃげて、そのまま動かなくなる。	The front armor crumpled and it stopped moving completely.
 
-60040	Rance	「げっ……マジか」	「Ugh... For real.」
+60040	Rance	だる顔	「げっ……マジか」	「Ugh... For real.」
 
-60041	Maria Custard	「壊されたーーー！	「It got destroyed-----!
-60042	+	　チューリップ壊されちゃったよーー！」	　Tulip got wrecked-----!」
+60041	Maria Custard	泣き	「壊されたーーー！	「It got destroyed-----!
+60042	+		　チューリップ壊されちゃったよーー！」	　Tulip got wrecked-----!」
 
-60043	Sachiko Centers	「ままま、まずいですよランスさん！	「Th-th-this is bad, Rance-san!
-60044	+	　戦車が壊れると、雷が……あわわ」	　If the tank breaks, the lightning... Awa wa.」
+60043	Sachiko Centers	困り	「ままま、まずいですよランスさん！	「Th-th-this is bad, Rance-san!
+60044	+		　戦車が壊れると、雷が……あわわ」	　If the tank breaks, the lightning... Awa wa.」
 
-60045	Rance	「よーし……マリア、お代わりだ！」	「Alright... Maria, bring out the next one!」
+60045	Rance	基本	「よーし……マリア、お代わりだ！」	「Alright... Maria, bring out the next one!」
 
-60046	Maria Custard	「へ？」	「Eh?」
+60046	Maria Custard	泣き	「へ？」	「Eh?」
 
-60047	Rance	「あの避雷針、他の戦車にも付けてるだろ。	「You attached lightning rods to the other tanks too, right.
-60048	+	　さっさと次の戦車呼んでこい！」	　Hurry up and call the next tank!」
+60047	Rance	基本	「あの避雷針、他の戦車にも付けてるだろ。	「You attached lightning rods to the other tanks too, right.
+60048	+		　さっさと次の戦車呼んでこい！」	　Hurry up and call the next tank!」
 
-60049	Maria Custard	「え、えーーーーー！！	「Ehhhhhh!!
-60050	+	　い、いやよ！　また壊されちゃうじゃない！」	　N-no way! It'll get destroyed again!」
+60049	Maria Custard	あかんわ	「え、えーーーーー！！	「Ehhhhhh!!
+60050	+		　い、いやよ！　また壊されちゃうじゃない！」	　N-no way! It'll get destroyed again!」
 
-60051	Rance	「出さなきゃ代わりに俺たちが消し炭だろうが、アホ！	「If you don't bring it out we'll all get turned to charcoal, idiot!
-60052	+	　いいから出せ、命令だ！」	　Just bring it out, that's an order!」
+60051	Rance	怒り	「出さなきゃ代わりに俺たちが消し炭だろうが、アホ！	「If you don't bring it out we'll all get turned to charcoal, idiot!
+60052	+		　いいから出せ、命令だ！」	　Just bring it out, that's an order!」
 
-60053	Maria Custard	「ううっ……ごめんね、3号……しくしく……」	「Uuu... Sorry No.3... Sob sob...」
+60053	Maria Custard	泣き	「ううっ……ごめんね、3号……しくしく……」	「Uuu... Sorry No.3... Sob sob...」
 
-60054	Lei	「ケッ、邪魔者は黙ったか。後は……」	「Heh, the pests finally shut up. Now then...」
+60054	Lei	戦闘時	「ケッ、邪魔者は黙ったか。後は……」	「Heh, the pests finally shut up. Now then...」
 
-60055	-	遠方から、同じく避雷針を付けた戦車が、	From afar, another tank fitted with a lightning rod
-60056	+	レイの前に姿を現した。	appeared in front of Lei.
+60055	-		遠方から、同じく避雷針を付けた戦車が、	From afar, another tank fitted with a lightning rod
+60056	+		レイの前に姿を現した。	appeared in front of Lei.
 
-60057	Lei	「備えは充分、ってかよ……	「Fully prepared, huh...
-60058	+	　いいぜェ――――――全て砕く！」	　Fine then――――I'll crush everything!」
+60057	Lei		「備えは充分、ってかよ……	「Fully prepared, huh...
+60058	+		　いいぜェ――――――全て砕く！」	　Fine then――――I'll crush everything!」
 
-60059	Rance	「させるか！　いい加減くたばれ！」	「Like I'll let you! Just die already!」
+60059	Rance	怒り	「させるか！　いい加減くたばれ！」	「Like I'll let you! Just die already!」

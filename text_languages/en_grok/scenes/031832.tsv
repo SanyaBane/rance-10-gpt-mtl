@@ -4,105 +4,105 @@
 * Rick Addison	リック	Male
 * Tilde Sharp	チルディ	Female
 
-104967	Rance	「お」	「Oh.」
+104967	Rance	基本	「お」	「Oh.」
 
-104968	Leila Grecni	「あら、ランス君」	「Ara, Rance-kun.」
+104968	Leila Grecni	髪解き	「あら、ランス君」	「Ara, Rance-kun.」
 
-104969	Rance	「お、お、お……」	「O, o, o...」
+104969	Rance	真剣	「お、お、お……」	「O, o, o...」
 
-104970	Rance	「おおおお〜〜〜？」	「Ooooooh~?」
+104970	Rance	だる顔	「おおおお〜〜〜？」	「Ooooooh~?」
 
-104971	Leila Grecni	「な、なぁに？　ジロジロ見て……」	「W-what? Staring like that...」
+104971	Leila Grecni	髪解き	「な、なぁに？　ジロジロ見て……」	「W-what? Staring like that...」
 
-104972	Rance	「いや、髪の毛……」	「No, your hair...」
+104972	Rance	基本	「いや、髪の毛……」	「No, your hair...」
 
-104973	Rance	「昨日はこんな風に上げてたような……」	「Yesterday it was up like usual...」
+104973	Rance		「昨日はこんな風に上げてたような……」	「Yesterday it was up like usual...」
 
-104974	Leila Grecni	「ええ、たまには気分でも変えようかと思って」	「Yes, I felt like changing my mood sometimes.」
+104974	Leila Grecni	髪解き	「ええ、たまには気分でも変えようかと思って」	「Yes, I felt like changing my mood sometimes.」
 
-104975	-	レイラの普段まとめている髪が、	Leila's usual tied-up hair
-104976	+	今日は自然体のままとなっていた。	was down naturally today.
+104975	-		レイラの普段まとめている髪が、	Leila's usual tied-up hair
+104976	+		今日は自然体のままとなっていた。	was down naturally today.
 
-104977	Leila Grecni	「だらしなく見える？」	「Does it look sloppy?」
+104977	Leila Grecni		「だらしなく見える？」	「Does it look sloppy?」
 
-104978	Rance	「いや、いい、グッド。	「No, it's good. Great.
-104979	+	　いつものもいいが、	　The usual is good too,
-104980	+	　それもレイラさんの大人の魅力がよく出てる」	　but this shows your mature charm well.」
+104978	Rance	基本	「いや、いい、グッド。	「No, it's good. Great.
+104979	+		　いつものもいいが、	　The usual is good too,
+104980	+		　それもレイラさんの大人の魅力がよく出てる」	　but this shows your mature charm well.」
 
-104981	Leila Grecni	「あら、ランス君、	「Ara, Rance-kun,
-104982	+	　いつからそんな口が上手くなったのかしら」	　when did you get so smooth with words?」
+104981	Leila Grecni	髪解き	「あら、ランス君、	「Ara, Rance-kun,
+104982	+		　いつからそんな口が上手くなったのかしら」	　when did you get so smooth with words?」
 
-104983	Rance	「俺はお世辞は言わん」	「I don't give empty compliments.」
+104983	Rance	基本	「俺はお世辞は言わん」	「I don't give empty compliments.」
 
-104984	Leila Grecni	「ふふ、ありがと」	「Fufu, thanks.」
+104984	Leila Grecni	髪解き	「ふふ、ありがと」	「Fufu, thanks.」
 
-104985	Leila Grecni	「……あの人もそれくらい言ってくれたらいいのに」	「...I wish that person would say something like that too.」
+104985	Leila Grecni		「……あの人もそれくらい言ってくれたらいいのに」	「...I wish that person would say something like that too.」
 
-104986	Rance	「ん？　なんて？」	「Hm? What?」
+104986	Rance	基本	「ん？　なんて？」	「Hm? What?」
 
-104987	Leila Grecni	「ああ、別になんでも……」	「Ah, it's nothing...」
+104987	Leila Grecni	髪解き	「ああ、別になんでも……」	「Ah, it's nothing...」
 
-104988	Rick Addison	「おや、二人とも偶然ですね」	「Oh, what a coincidence.」
+104988	Rick Addison	基本	「おや、二人とも偶然ですね」	「Oh, what a coincidence.」
 
-104989	Rance	「おう、リック」	「Yo, Rick.」
+104989	Rance		「おう、リック」	「Yo, Rick.」
 
-104990	Leila Grecni	「…………」	「............」
+104990	Leila Grecni	髪解き	「…………」	「............」
 
-104991	Leila Grecni	「り、リック……	「R-Rick...
-104992	+	　その、どうかしら？」	　How do I look?」
+104991	Leila Grecni		「り、リック……	「R-Rick...
+104992	+		　その、どうかしら？」	　How do I look?」
 
-104993	Rick Addison	「ん？　どう？」	「Hm? What?」
+104993	Rick Addison	基本	「ん？　どう？」	「Hm? What?」
 
-104994	Leila Grecni	「えーと、その……」	「Um, well...」
+104994	Leila Grecni	髪解き	「えーと、その……」	「Um, well...」
 
-104995	-	レイラが何度か髪を指で流す。	Leila ran her fingers through her hair several times.
-104996	+	頬に朱色が差した顔は	Her cheeks flushed with expectation.
-104997	+	何かを期待する表情を浮かべていた。	
+104995	-		レイラが何度か髪を指で流す。	Leila ran her fingers through her hair several times.
+104996	+		頬に朱色が差した顔は	Her cheeks flushed with expectation.
+104997	+		何かを期待する表情を浮かべていた。	
 
-104998	Rick Addison	「…………」	「............」
+104998	Rick Addison	基本	「…………」	「............」
 
-104999	Rick Addison	「？？」	「??」
+104999	Rick Addison		「？？」	「??」
 
-105000	-	リックは曖昧な笑みを浮かべて、	Rick showed a vague smile,
-105001	+	困ったように小首を傾げた。	and tilted his head slightly in confusion.
+105000	-		リックは曖昧な笑みを浮かべて、	Rick showed a vague smile,
+105001	+		困ったように小首を傾げた。	and tilted his head slightly in confusion.
 
-105002	Leila Grecni	「…………」	「............」
+105002	Leila Grecni	髪解き／真剣	「…………」	「............」
 
-105003	Leila Grecni~	（ここでガッカリするようじゃ、	（If I get disappointed here,
-105004	+	　この人を好きになったりしちゃいけなかった……	　I shouldn't have fallen for this person...
-105005	?	　って、分かってはいるけど……）	　I know that, but...）
+105003	Leila Grecni~		（ここでガッカリするようじゃ、	（If I get disappointed here,
+105004	+		　この人を好きになったりしちゃいけなかった……	　I shouldn't have fallen for this person...
+105005	?		　って、分かってはいるけど……）	　I know that, but...）
 
-105006	Leila Grecni	「はあ……仕方ないわよね……」	「Haa... It can't be helped, I guess...」
+105006	Leila Grecni		「はあ……仕方ないわよね……」	「Haa... It can't be helped, I guess...」
 
-105007	Rance	「へ？」	「Eh?」
+105007	Rance	基本	「へ？」	「Eh?」
 
-105008	Leila Grecni	「それでは失礼します。	「Please excuse me then.
-105009	+	　ランス君、リック将軍」	　Rance-kun, General Rick.」
+105008	Leila Grecni	髪解き／真剣	「それでは失礼します。	「Please excuse me then.
+105009	+		　ランス君、リック将軍」	　Rance-kun, General Rick.」
 
-105010	Rick Addison	「あ、あれ……？」	「Ah, huh...?」
+105010	Rick Addison	真剣	「あ、あれ……？」	「Ah, huh...?」
 
-105011	-	レイラはピシャリと冷たい言葉を残して	Leila left behind those cold, sharp words
-105012	+	足早に去って行った。	and quickly walked away.
+105011	-		レイラはピシャリと冷たい言葉を残して	Leila left behind those cold, sharp words
+105012	+		足早に去って行った。	and quickly walked away.
 
-105013	Rance	「きゅ、急にどうしたんだろう……	「S-Suddenly what's wrong with her...
-105014	+	　怒っていた……？」	　Was she mad...?」
+105013	Rance	だる顔	「きゅ、急にどうしたんだろう……	「S-Suddenly what's wrong with her...
+105014	+		　怒っていた……？」	　Was she mad...?」
 
-105015	Rick Addison	「自分には……そう見えました……」	「It looked that way to me...」
+105015	Rick Addison	真剣	「自分には……そう見えました……」	「It looked that way to me...」
 
-105016	Rick Addison	「もしかして……	「Could it be...
-105017	+	　自分が何か失礼なことを……？」	　I did something rude...?」
+105016	Rick Addison		「もしかして……	「Could it be...
+105017	+		　自分が何か失礼なことを……？」	　I did something rude...?」
 
-105018	Rance	「うむ、多分そうだ」	「Yeah, probably.」
+105018	Rance		「うむ、多分そうだ」	「Yeah, probably.」
 
-105019	Rick Addison	「原因……	「The cause...
-105020	+	　分かりますか？」	　Do you know?」
+105019	Rick Addison		「原因……	「The cause...
+105020	+		　分かりますか？」	　Do you know?」
 
-105021	Rance	「お、俺に聞くんじゃない。知るか」	「D-Don't ask me. How should I know?」
+105021	Rance	だる顔	「お、俺に聞くんじゃない。知るか」	「D-Don't ask me. How should I know?」
 
-105022	Rance	「いいか、女心は複雑なんだ……	「Listen, a woman's heart is complicated...
-105023	+	　だからお前如きには分からん何かだ、何か」	　So it's something a guy like you wouldn't understand.」
+105022	Rance	真剣	「いいか、女心は複雑なんだ……	「Listen, a woman's heart is complicated...
+105023	+		　だからお前如きには分からん何かだ、何か」	　So it's something a guy like you wouldn't understand.」
 
-105024	Rick Addison	「なるほど……	「I see...
-105025	+	　女心は複雑、勉強になりますね……」	　A woman's heart is complicated. Very educational...」
+105024	Rick Addison		「なるほど……	「I see...
+105025	+		　女心は複雑、勉強になりますね……」	　A woman's heart is complicated. Very educational...」
 
-105026	Tilde Sharp~	（いえ、それめっちゃ単純ですわ……）	（No, that's extremely simple...）
+105026	Tilde Sharp~	基本	（いえ、それめっちゃ単純ですわ……）	（No, that's extremely simple...）

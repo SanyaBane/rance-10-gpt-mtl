@@ -18,355 +18,355 @@
 * Houjou Souun	早雲	Male
 * Zeth Mage Soldier	汎用ゼス男魔法兵	Male
 
-77791	-	数千からなる魔物兵達が	Thousands of monster soldiers
-77792	+	集まる魔軍の野営地で、	gathered in the Monster Army camp,
-77793	+	指揮する魔物将軍はほくそ笑んでいた。	and the commanding Monster General smirked.
+77791	-		数千からなる魔物兵達が	Thousands of monster soldiers
+77792	+		集まる魔軍の野営地で、	gathered in the Monster Army camp,
+77793	+		指揮する魔物将軍はほくそ笑んでいた。	and the commanding Monster General smirked.
 
-77794	Monster General	「ククク……	「Kukuku...
-77795	+	　連中、かなり余裕がなくなってきてるな」	　Those guys are running out of options.」
+77794	Monster General	基本	「ククク……	「Kukuku...
+77795	+		　連中、かなり余裕がなくなってきてるな」	　Those guys are running out of options.」
 
-77796	-	CITYは山の中腹に作られた都市。	CITY is a city built on a mountainside.
+77796	-		CITYは山の中腹に作られた都市。	CITY is a city built on a mountainside.
 
-77797	-	本丸であるランス城へと連なる道は三つ。	There are three paths leading to the main headquarters, Rance Castle.
+77797	-		本丸であるランス城へと連なる道は三つ。	There are three paths leading to the main headquarters, Rance Castle.
 
-77798	-	同時に戦える数には限りがあり、	The number that can fight at once is limited,
-77799	+	守りに適した天然の要塞となっている。	making it a natural fortress suited for defense.
+77798	-		同時に戦える数には限りがあり、	The number that can fight at once is limited,
+77799	+		守りに適した天然の要塞となっている。	making it a natural fortress suited for defense.
 
-77800	-	それも常識的な数の差であれば――	That is, if the difference in numbers is reasonable--
+77800	-		それも常識的な数の差であれば――	That is, if the difference in numbers is reasonable--
 
-77801	-	魔軍は膨大な数の利を活かし、	The Monster Army used their overwhelming numbers
-77802	+	雲霞の如く押し寄せる。	and swarmed like clouds.
+77801	-		魔軍は膨大な数の利を活かし、	The Monster Army used their overwhelming numbers
+77802	+		雲霞の如く押し寄せる。	and swarmed like clouds.
 
-77803	-	北登り口――	North climbing entrance--
+77803	-		北登り口――	North climbing entrance--
 
-77804	Green Monster Soldier	「邪魔だァァァァー！」	「Out of the wayyyy!」
+77804	Green Monster Soldier		「邪魔だァァァァー！」	「Out of the wayyyy!」
 
-77805	Leazas Black Soldier	「ぐぎゃあっ！」	「Gugyaa!」
+77805	Leazas Black Soldier		「ぐぎゃあっ！」	「Gugyaa!」
 
-77806	-	リーザス、ヘルマン、ゼス、自由都市、JAPAN、	Leazas, Helman, Zeth, Free Cities, JAPAN,
-77807	+	五つの国の即席の混合軍で固められた北登り口は、	the north climbing entrance fortified by an improvised mixed army of five countries
-77808	+	その数でもってしても魔軍を抑えきれない。	could not hold back the Monster Army despite their numbers.
+77806	-		リーザス、ヘルマン、ゼス、自由都市、JAPAN、	Leazas, Helman, Zeth, Free Cities, JAPAN,
+77807	+		五つの国の即席の混合軍で固められた北登り口は、	the north climbing entrance fortified by an improvised mixed army of five countries
+77808	+		その数でもってしても魔軍を抑えきれない。	could not hold back the Monster Army despite their numbers.
 
-77809	Green Monster Soldier	「ぎゃあはははははは！」	「Gyaa hahahahaha!」
+77809	Green Monster Soldier		「ぎゃあはははははは！」	「Gyaa hahahahaha!」
 
-77810	Blue Monster Soldier	「押せ押せ押せーッ！」	「Push push push---!」
+77810	Blue Monster Soldier		「押せ押せ押せーッ！」	「Push push push---!」
 
-77811	Monster Captain	「城に最初に辿り着くのは俺達だ！	「We'll be the first to reach the castle!
-77812	+	　貴様らァ！　気合いを入れろよ！」	　You bastards! Get fired up!」
+77811	Monster Captain		「城に最初に辿り着くのは俺達だ！	「We'll be the first to reach the castle!
+77812	+		　貴様らァ！　気合いを入れろよ！」	　You bastards! Get fired up!」
 
-77813	Oda Kouhime	「くっ……！」	「Kuh...!」
+77813	Oda Kouhime	武装／真剣	「くっ……！」	「Kuh...!」
 
-77814	-	魔軍の苛烈な勢いを目にし、	Seeing the fierce momentum of the Monster Army,
-77815	+	北登り口の指揮官である香姫が顔をしかめる。	Kouhime, the commander of the north entrance, frowned.
+77814	-		魔軍の苛烈な勢いを目にし、	Seeing the fierce momentum of the Monster Army,
+77815	+		北登り口の指揮官である香姫が顔をしかめる。	Kouhime, the commander of the north entrance, frowned.
 
-77816	Oda Kouhime~	（こまめに兵を交代させることで、	（By frequently rotating the soldiers,
-77817	+	　なんとか休息は取ってもらってるけど	　we've managed to let them rest a bit,
-77818	+	　もう、皆さん疲弊している……）	　but everyone is already exhausted...）
+77816	Oda Kouhime~		（こまめに兵を交代させることで、	（By frequently rotating the soldiers,
+77817	+		　なんとか休息は取ってもらってるけど	　we've managed to let them rest a bit,
+77818	+		　もう、皆さん疲弊している……）	　but everyone is already exhausted...）
 
-77819	Oda Kouhime~	（圧倒的に兵が足りない……	（We are overwhelmingly outnumbered...
-77820	+	　じわじわと削られていく……）	　We're being worn down little by little...）
+77819	Oda Kouhime~	武装／困り	（圧倒的に兵が足りない……	（We are overwhelmingly outnumbered...
+77820	+		　じわじわと削られていく……）	　We're being worn down little by little...）
 
-77821	Oda Kouhime~	（本来なら、退いて態勢を立て直したい……	（Normally I'd want to retreat and regroup...
-77822	+	　でも……）	　but...）
+77821	Oda Kouhime~		（本来なら、退いて態勢を立て直したい……	（Normally I'd want to retreat and regroup...
+77822	+		　でも……）	　but...）
 
-77823	-	一度退けば魔軍の兵が	Once they retreat, the Monster Army soldiers
-77824	+	津波のように押し寄せると分かっている以上、	would surge like a tsunami,
-77825	+	それだけはすることが出来ない。	so she couldn't allow that.
+77823	-		一度退けば魔軍の兵が	Once they retreat, the Monster Army soldiers
+77824	+		津波のように押し寄せると分かっている以上、	would surge like a tsunami,
+77825	+		それだけはすることが出来ない。	so she couldn't allow that.
 
-77826	Oda Kouhime~	（お願い、皆さん……	（Please everyone...
-77827	+	　どうかこのまま……耐えて下さい……）	　just endure like this...）
+77826	Oda Kouhime~	武装／真剣	（お願い、皆さん……	（Please everyone...
+77827	+		　どうかこのまま……耐えて下さい……）	　just endure like this...）
 
-77828	3G	「姫様……」	「Princess...」
+77828	3G	基本	「姫様……」	「Princess...」
 
-77829	Oda Kouhime	「…………」	「............」
+77829	Oda Kouhime	武装／真剣	「…………」	「............」
 
-77830	-	それが最も辛いことになると分かっていても、	Even knowing it was the hardest decision,
-77831	+	今の香姫は苦渋の決断を取らざるを得なかった。	Kouhime had no choice but to make that bitter decision.
+77830	-		それが最も辛いことになると分かっていても、	Even knowing it was the hardest decision,
+77831	+		今の香姫は苦渋の決断を取らざるを得なかった。	Kouhime had no choice but to make that bitter decision.
 
-77832	-	東登り口――	East climbing entrance--
+77832	-		東登り口――	East climbing entrance--
 
-77833	Monster General	「ぷぐえっ！？」	「Pugueh!?」
+77833	Monster General	基本	「ぷぐえっ！？」	「Pugueh!?」
 
-77834	-	ビスケッタが顔色一つ変えずに、	Without changing her expression at all,
-77835	+	魔物将軍の腹に突き刺さった手刀を引き抜く。	Biscuitta pulled her hand blade out of the Monster General's stomach.
+77834	-		ビスケッタが顔色一つ変えずに、	Without changing her expression at all,
+77835	+		魔物将軍の腹に突き刺さった手刀を引き抜く。	Biscuitta pulled her hand blade out of the Monster General's stomach.
 
-77836	Kalar	「きゃーっ！　やった、将軍格を倒したわ！」	「Kyaa! We did it, we defeated a general rank!」
+77836	Kalar		「きゃーっ！　やった、将軍格を倒したわ！」	「Kyaa! We did it, we defeated a general rank!」
 
-77837	Pastel Kalar	「なっ！　メイド、貴様どこから湧いた！	「What! Maid, where did you come from!
-77838	+	　ここは我らカラーの担当じゃぞ！」	　This area is our Kalar's responsibility!」
+77837	Pastel Kalar		「なっ！　メイド、貴様どこから湧いた！	「What! Maid, where did you come from!
+77838	+		　ここは我らカラーの担当じゃぞ！」	　This area is our Kalar's responsibility!」
 
-77839	Biscuitta Burns	「失礼を致しました、パステル様。	「Excuse me, Pastel-sama.
-77840	+	　ですが、これもご主人様の命でございます」	　But this is also Master's order.」
+77839	Biscuitta Burns		「失礼を致しました、パステル様。	「Excuse me, Pastel-sama.
+77840	+		　ですが、これもご主人様の命でございます」	　But this is also Master's order.」
 
-77841	Pastel Kalar	「なっ……あの馬鹿の差し金じゃと！	「What... that idiot's doing again!
-77842	+	　ならば尚更、貴様の助けなんぞいらんわ！	　Then I don't need your help even more!
-77843	+	　帰れェ！」	　Go back!」
+77841	Pastel Kalar		「なっ……あの馬鹿の差し金じゃと！	「What... that idiot's doing again!
+77842	+		　ならば尚更、貴様の助けなんぞいらんわ！	　Then I don't need your help even more!
+77843	+		　帰れェ！」	　Go back!」
 
-77844	Biscuitta Burns	「では、私のことはいない者としてお扱い下さい。	「Then please treat me as if I am not here.
-77845	+	　出ます」	　I'll leave.」
+77844	Biscuitta Burns		「では、私のことはいない者としてお扱い下さい。	「Then please treat me as if I am not here.
+77845	+		　出ます」	　I'll leave.」
 
-77846	Pastel Kalar	「あ、こら！」	「Ah, hey!」
+77846	Pastel Kalar		「あ、こら！」	「Ah, hey!」
 
-77847	Aegis Kalar	「総員、彼女の援護を！」	「All troops, support her!」
+77847	Aegis Kalar	戦闘	「総員、彼女の援護を！」	「All troops, support her!」
 
-77848	Green Monster Soldier	「うおっ！？　なんだ、メイドぉ！？	「Uoh!? What, a maid!?
-77849	+	　う、うわああああああ！」	　U-Uwaaaaaaaa!」
+77848	Green Monster Soldier	基本	「うおっ！？　なんだ、メイドぉ！？	「Uoh!? What, a maid!?
+77849	+		　う、うわああああああ！」	　U-Uwaaaaaaaa!」
 
-77850	-	戦場に弓矢が舞い、怒号が乱れ飛ぶ。	Arrows danced across the battlefield and angry roars flew wildly.
+77850	-		戦場に弓矢が舞い、怒号が乱れ飛ぶ。	Arrows danced across the battlefield and angry roars flew wildly.
 
-77851	-	三方から迫る魔軍の暴力、	The Monster Army's violence pressing from three sides,
-77852	+	それに対抗する人類軍。	and the human army resisting it.
+77851	-		三方から迫る魔軍の暴力、	The Monster Army's violence pressing from three sides,
+77852	+		それに対抗する人類軍。	and the human army resisting it.
 
-77853	-	どこの登り口も戦いが激化していくが、	The fighting intensified at every climbing entrance,
-77854	+	弱音を吐く者は一人としていない。	but not a single person uttered weakness.
+77853	-		どこの登り口も戦いが激化していくが、	The fighting intensified at every climbing entrance,
+77854	+		弱音を吐く者は一人としていない。	but not a single person uttered weakness.
 
-77855	-	誰もがここを最後の戦場と考え、	Everyone considered this their final battlefield
-77856	+	死力を尽くしていた。	and fought with all their might.
+77855	-		誰もがここを最後の戦場と考え、	Everyone considered this their final battlefield
+77856	+		死力を尽くしていた。	and fought with all their might.
 
-77857	-	ひとえに、魔人レッドアイの喉笛に食らいつく為。	All to sink their teeth into Fiend RedEye's throat.
+77857	-		ひとえに、魔人レッドアイの喉笛に食らいつく為。	All to sink their teeth into Fiend RedEye's throat.
 
-77858	-	その頃、ランスは――	At that time, Rance--
+77858	-		その頃、ランスは――	At that time, Rance--
 
-77859	Rance	「……ばりばり、ばりばり。	「...Crunch, crunch.
-77860	+	　うーむ、中村屋のせんべぇは美味しいなぁ」	　Mmm, Nakamura-ya's rice crackers are delicious.」
+77859	Rance		「……ばりばり、ばりばり。	「...Crunch, crunch.
+77860	+		　うーむ、中村屋のせんべぇは美味しいなぁ」	　Mmm, Nakamura-ya's rice crackers are delicious.」
 
-77861	-	自室でのんびり休憩をしていた。	He was relaxing and taking a break in his room.
+77861	-		自室でのんびり休憩をしていた。	He was relaxing and taking a break in his room.
 
-77862	Sill Plain	「ランス様……」	「Rance-sama...」
+77862	Sill Plain	真剣	「ランス様……」	「Rance-sama...」
 
-77863	-	ベッドに腰掛けたランスの足下には	At the feet of Rance sitting on the bed
-77864	+	床に腰を下ろしたシィルが、	Sill sat on the floor,
-77865	+	ランスを心配そうに見上げていた。	looking up at him worriedly.
+77863	-		ベッドに腰掛けたランスの足下には	At the feet of Rance sitting on the bed
+77864	+		床に腰を下ろしたシィルが、	Sill sat on the floor,
+77865	+		ランスを心配そうに見上げていた。	looking up at him worriedly.
 
-77866	Satella	「…………」	「............」
+77866	Satella	思考	「…………」	「............」
 
-77867	-	近くの壁に背を預けたサテラは	Satella leaning against the nearby wall
-77868	+	先ほどから苦い顔を崩さない。	kept a bitter expression on her face.
+77867	-		近くの壁に背を預けたサテラは	Satella leaning against the nearby wall
+77868	+		先ほどから苦い顔を崩さない。	kept a bitter expression on her face.
 
-77869	-	レッドアイが出るまでの間、	Until RedEye appeared,
-77870	+	何度も援軍として戦場と城を	Rance and the others went back and forth
-77871	+	往復し続けたランス達。	many times as reinforcements between the battlefield and the castle.
+77869	-		レッドアイが出るまでの間、	Until RedEye appeared,
+77870	+		何度も援軍として戦場と城を	Rance and the others went back and forth
+77871	+		往復し続けたランス達。	many times as reinforcements between the battlefield and the castle.
 
-77872	-	そして、果たしてレッドアイは現れ、	And finally RedEye appeared,
-77873	+	今は決戦前の最後の休憩だった。	and now was the final rest before the decisive battle.
+77872	-		そして、果たしてレッドアイは現れ、	And finally RedEye appeared,
+77873	+		今は決戦前の最後の休憩だった。	and now was the final rest before the decisive battle.
 
-77874	Sill Plain	「う……ランス様ぁ……」	「U... Rance-sama...」
+77874	Sill Plain	基本	「う……ランス様ぁ……」	「U... Rance-sama...」
 
-77875	Rance	「不景気な声を出すな。	「Don't make such gloomy sounds.
-77876	+	　せっかくの休憩中なのに気が滅入るだろが」	　It ruins the mood during our precious break.」
+77875	Rance	だる顔	「不景気な声を出すな。	「Don't make such gloomy sounds.
+77876	+		　せっかくの休憩中なのに気が滅入るだろが」	　It ruins the mood during our precious break.」
 
-77877	Sill Plain	「あいたっ」	「Ouch!」
+77877	Sill Plain	ひんひん	「あいたっ」	「Ouch!」
 
-77878	Sill Plain	「あう、すみません……」	「Auu, sorry...」
+77878	Sill Plain	泣き	「あう、すみません……」	「Auu, sorry...」
 
-77879	Rance	「せんべぇは美味いな。	「These crackers are good.
-77880	+	　ばりばり、ばりばり……」	　Crunch, crunch...」
+77879	Rance	基本	「せんべぇは美味いな。	「These crackers are good.
+77880	+		　ばりばり、ばりばり……」	　Crunch, crunch...」
 
-77881	Rance	「……ばりばり、ばりばり。	「...Crunch, crunch.
-77882	+	　うむ、美味い」	　Yes, delicious.」
+77881	Rance	真剣	「……ばりばり、ばりばり。	「...Crunch, crunch.
+77882	+		　うむ、美味い」	　Yes, delicious.」
 
-77883	Sill Plain	「で、でも、ランス様……」	「B-But Rance-sama...」
+77883	Sill Plain		「で、でも、ランス様……」	「B-But Rance-sama...」
 
-77884	Sill Plain	「あの……今、とってもピンチです……	「Um... right now it's a really big pinch...
-77885	+	　魔人レッドアイの勢いが止まらなくて……」	　Fiend RedEye's momentum won't stop...」
+77884	Sill Plain		「あの……今、とってもピンチです……	「Um... right now it's a really big pinch...
+77885	+		　魔人レッドアイの勢いが止まらなくて……」	　Fiend RedEye's momentum won't stop...」
 
-77886	Sill Plain	「こ、このままじゃ本当に……」	「If it keeps going like this, really...」
+77886	Sill Plain		「こ、このままじゃ本当に……」	「If it keeps going like this, really...」
 
-77887	Rance	「ばりばり……ばりばり……」	「Crunch... crunch...」
+77887	Rance	基本	「ばりばり……ばりばり……」	「Crunch... crunch...」
 
-77888	Sill Plain	「あ、あの……」	「U-Um...」
+77888	Sill Plain	真剣	「あ、あの……」	「U-Um...」
 
-77889	Rance	「あー、美味い美味い。	「Ah, so good, so good.
-77890	+	　ばりばり、ばりばり」	　Crunch, crunch.」
+77889	Rance	基本	「あー、美味い美味い。	「Ah, so good, so good.
+77890	+		　ばりばり、ばりばり」	　Crunch, crunch.」
 
-77891	Sill Plain	「…………」	「............」
+77891	Sill Plain	泣き	「…………」	「............」
 
-77892	Rance	「ばりばりばりばりばりばりばりばり	「Crunchcrunchcrunchcrunchcrunchcrunchcrunch
-77893	+	　ばりばりばりばりばりばりばりばり	　crunchcrunchcrunchcrunchcrunchcrunchcrunch
-77894	+	　ばりばりばりばりばりばりばりばり」	　crunchcrunchcrunchcrunchcrunchcrunchcrunch」
+77892	Rance	基本	「ばりばりばりばりばりばりばりばり	「Crunchcrunchcrunchcrunchcrunchcrunchcrunch
+77893	+		　ばりばりばりばりばりばりばりばり	　crunchcrunchcrunchcrunchcrunchcrunchcrunch
+77894	+		　ばりばりばりばりばりばりばりばり」	　crunchcrunchcrunchcrunchcrunchcrunchcrunch」
 
-77895	Sill Plain	「ランス様ぁ……！」	「Rance-sama...!」
+77895	Sill Plain	恥	「ランス様ぁ……！」	「Rance-sama...!」
 
-77896	Rance	「……ふん、うるさい奴隷だ」	「...Hmph, noisy slave.」
+77896	Rance	だる顔	「……ふん、うるさい奴隷だ」	「...Hmph, noisy slave.」
 
-77897	Rance	「あ、ぱんぱん」	「Ah, clap clap.」
+77897	Rance	真剣	「あ、ぱんぱん」	「Ah, clap clap.」
 
-77898	-	ランスが二度、手を叩くと、	When Rance clapped twice,
-77899	+	いつの間にか城に帰っていた	Biscuitta, who had returned to the castle at some point,
-77900	+	ビスケッタが音もなく現れた。	appeared silently.
+77898	-		ランスが二度、手を叩くと、	When Rance clapped twice,
+77899	+		いつの間にか城に帰っていた	Biscuitta, who had returned to the castle at some point,
+77900	+		ビスケッタが音もなく現れた。	appeared silently.
 
-77901	Biscuitta Burns	「お呼びですか？」	「You called?」
+77901	Biscuitta Burns	基本	「お呼びですか？」	「You called?」
 
-77902	Rance	「お呼びだ。	「I called.
-77903	+	　退去の用意をしろ」	　Prepare for evacuation.」
+77902	Rance		「お呼びだ。	「I called.
+77903	+		　退去の用意をしろ」	　Prepare for evacuation.」
 
-77904	Biscuitta Burns	「…………」	「............」
+77904	Biscuitta Burns		「…………」	「............」
 
-77905	Sill Plain	「え、ランス様、それって……」	「Eh, Rance-sama, does that mean...」
+77905	Sill Plain	慌て	「え、ランス様、それって……」	「Eh, Rance-sama, does that mean...」
 
-77906	Rance	「ふん、用意だけだ」	「Hmph, just prepare.」
+77906	Rance	真剣	「ふん、用意だけだ」	「Hmph, just prepare.」
 
-77907	Rance	「今からレッドアイの所に行く。	「I'm going to RedEye now.
-77908	+	　決着がつく」	　We'll settle this.」
+77907	Rance		「今からレッドアイの所に行く。	「I'm going to RedEye now.
+77908	+		　決着がつく」	　We'll settle this.」
 
-77909	Rance	「最強無敵な俺様は負けん。	「The strongest and invincible me won't lose.
-77910	+	　まず勝つ、間違いない」	　Victory is certain first.」
+77909	Rance	基本	「最強無敵な俺様は負けん。	「The strongest and invincible me won't lose.
+77910	+		　まず勝つ、間違いない」	　Victory is certain first.」
 
-77911	Rance	「……が、真の策士とは	「...But a true strategist
-77912	+	　二個、三個と次善の策を用意するのだ」	　prepares second and third best plans.」
+77911	Rance		「……が、真の策士とは	「...But a true strategist
+77912	+		　二個、三個と次善の策を用意するのだ」	　prepares second and third best plans.」
 
-77913	Rance	「ビスケッタさん。	「Biscuitta-san.
-77914	+	　まず、ないことだが、	　First, it's unlikely, but
-77915	+	　もしものときは分かってるな」	　in case of emergency you know what to do.」
+77913	Rance	真剣	「ビスケッタさん。	「Biscuitta-san.
+77914	+		　まず、ないことだが、	　First, it's unlikely, but
+77915	+		　もしものときは分かってるな」	　in case of emergency you know what to do.」
 
-77916	Biscuitta Burns	「…………」	「............」
+77916	Biscuitta Burns	基本	「…………」	「............」
 
-77917	Satella	「ま、待て！　勝手に決めるな！」	「W-Wait! Don't decide on your own!」
+77917	Satella	怒り	「ま、待て！　勝手に決めるな！」	「W-Wait! Don't decide on your own!」
 
-77918	Satella	「確かに今はピンチだし、	「It's true we're in a pinch now,
-77919	+	　魔人レッドアイだって強敵だ」	　and Fiend RedEye is a powerful enemy.」
+77918	Satella	思考	「確かに今はピンチだし、	「It's true we're in a pinch now,
+77919	+		　魔人レッドアイだって強敵だ」	　and Fiend RedEye is a powerful enemy.」
 
-77920	Satella	「……何より、報告によれば、	「...Most of all, according to reports,
-77921	+	　レッドアイは以前よりも強い者に	　RedEye has possessed an even stronger host
-77922	+	　寄生していると見て間違いない」	　than before.」
+77920	Satella		「……何より、報告によれば、	「...Most of all, according to reports,
+77921	+		　レッドアイは以前よりも強い者に	　RedEye has possessed an even stronger host
+77922	+		　寄生していると見て間違いない」	　than before.」
 
-77923	Satella	「お前が不安になるのは……	「It's understandable that you're anxious...
-77924	+	　正直、サテラにも分かる……」	　Honestly, even Satella understands...」
+77923	Satella	不安	「お前が不安になるのは……	「It's understandable that you're anxious...
+77924	+		　正直、サテラにも分かる……」	　Honestly, even Satella understands...」
 
-77925	Satella	「だが……	「But...
-77926	+	　お前がしんがりをすることはないだろう！	　there's no need for you to be the rear guard!
-77927	+	　ここは誰か別の奴に――」	　Let someone else--」
+77925	Satella	怒り	「だが……	「But...
+77926	+		　お前がしんがりをすることはないだろう！	　there's no need for you to be the rear guard!
+77927	+		　ここは誰か別の奴に――」	　Let someone else--」
 
-77928	Rance	「こら！　変な勘違いするな！」	「Hey! Don't get the wrong idea!」
+77928	Rance	だる顔	「こら！　変な勘違いするな！」	「Hey! Don't get the wrong idea!」
 
-77929	Rance	「俺様はなにもしんがりする為に	「I'm not fighting RedEye to be the rear guard.
-77930	+	　レッドアイと戦うわけじゃないぞ。	
-77931	+	　今度こそ倒す為に戦うのだ」	　I'm fighting to defeat him this time.」
+77929	Rance	基本	「俺様はなにもしんがりする為に	「I'm not fighting RedEye to be the rear guard.
+77930	+		　レッドアイと戦うわけじゃないぞ。	
+77931	+		　今度こそ倒す為に戦うのだ」	　I'm fighting to defeat him this time.」
 
-77932	Sill Plain	「ら、ランス様……」	「R-Rance-sama...」
+77932	Sill Plain		「ら、ランス様……」	「R-Rance-sama...」
 
-77933	-	シィルにもサテラにも、	Both Sill and Satella
-77934	+	それがとても現実的な言葉でないことは	knew very well that those words
-77935	+	重々伝わっていた。	were not very realistic.
+77933	-		シィルにもサテラにも、	Both Sill and Satella
+77934	+		それがとても現実的な言葉でないことは	knew very well that those words
+77935	+		重々伝わっていた。	were not very realistic.
 
-77936	Rance~	（ふん、俺様は最強だ。	（Hmph, I am the strongest.
-77937	+	　負けるわけがない）	　There's no way I'll lose.）
+77936	Rance~	真剣	（ふん、俺様は最強だ。	（Hmph, I am the strongest.
+77937	+		　負けるわけがない）	　There's no way I'll lose.）
 
-77938	Rance~	（だが……）	（But...）
+77938	Rance~		（だが……）	（But...）
 
-77939	Rance~	（なんだ、この嫌な感じは）	（What is this bad feeling?）
+77939	Rance~	だる顔	（なんだ、この嫌な感じは）	（What is this bad feeling?）
 
-77940	-	胸にべったりと張り付く、嫌な予感。	An unpleasant premonition stuck heavily to his chest.
-77941	+	ランスはその重たさをハッキリと自覚していた。	Rance clearly recognized that weight.
+77940	-		胸にべったりと張り付く、嫌な予感。	An unpleasant premonition stuck heavily to his chest.
+77941	+		ランスはその重たさをハッキリと自覚していた。	Rance clearly recognized that weight.
 
-77942	-	…………	............
+77942	-		…………	............
 
-77943	-	……	......
+77943	-		……	......
 
-77944	-	正面山道――	Main mountain path--
+77944	-		正面山道――	Main mountain path--
 
-77945	-	今、ここには暴風雨が吹き荒れていた。	Right now, a storm was raging here.
+77945	-		今、ここには暴風雨が吹き荒れていた。	Right now, a storm was raging here.
 
-77946	RedEye	「ケケケケケケケケケーーーッ！」	「Ke ke ke ke ke ke ke ke keeeeeh!」
+77946	RedEye	基本	「ケケケケケケケケケーーーッ！」	「Ke ke ke ke ke ke ke ke keeeeeh!」
 
-77947	-	レッドアイが戦場を走り抜ける。	RedEye ran across the battlefield.
-77948	+	それだけで大量の人間が吹き飛ばされる。	Just that sent large numbers of humans flying.
+77947	-		レッドアイが戦場を走り抜ける。	RedEye ran across the battlefield.
+77948	+		それだけで大量の人間が吹き飛ばされる。	Just that sent large numbers of humans flying.
 
-77949	-	今回、レッドアイがとりついた生物、	This time, the creature RedEye possessed
-77950	+	それは世界に一体しかいない生物、	was Toppos, a creature unique in the world,
-77951	+	トッポス。	
+77949	-		今回、レッドアイがとりついた生物、	This time, the creature RedEye possessed
+77950	+		それは世界に一体しかいない生物、	was Toppos, a creature unique in the world,
+77951	+		トッポス。	
 
-77952	-	それは普段魔物の森を徘徊し、	which normally roams the monster forest
-77953	+	魔物を狩ることに一生を費やす謎の生き物。	and spends its life hunting monsters.
+77952	-		それは普段魔物の森を徘徊し、	which normally roams the monster forest
+77953	+		魔物を狩ることに一生を費やす謎の生き物。	and spends its life hunting monsters.
 
-77954	-	魔人が戦えば、魔人の無敵結界と	When a Fiend fights, the Fiend's invincible barrier
-77955	+	トッポス自身の頑強さが合わさり、	combined with Toppos's own toughness
-77956	+	決着がつかず逃げ出すほどである。	makes it hard to finish the fight, often forcing retreat.
+77954	-		魔人が戦えば、魔人の無敵結界と	When a Fiend fights, the Fiend's invincible barrier
+77955	+		トッポス自身の頑強さが合わさり、	combined with Toppos's own toughness
+77956	+		決着がつかず逃げ出すほどである。	makes it hard to finish the fight, often forcing retreat.
 
-77957	-	おそらく、地上の生物としては最強の一角、	Probably one of the strongest creatures on the surface,
-77958	+	災厄の一つに数えられ恐れられる生き物である。	counted among the calamities and feared.
+77957	-		おそらく、地上の生物としては最強の一角、	Probably one of the strongest creatures on the surface,
+77958	+		災厄の一つに数えられ恐れられる生き物である。	counted among the calamities and feared.
 
-77959	Helman Soldier	「うおおおおおおお！	「Uooooooooh!
-77960	+	　負けてなるものかーー！」	　I won't lose---!」
+77959	Helman Soldier		「うおおおおおおお！	「Uooooooooh!
+77960	+		　負けてなるものかーー！」	　I won't lose---!」
 
-77961	Leazas Black Soldier	「死ぬ気でここを守れーーー！」	「Defend this place with your lives---!」
+77961	Leazas Black Soldier	戦闘	「死ぬ気でここを守れーーー！」	「Defend this place with your lives---!」
 
-77962	RedEye	「キシャーーーーーーッ！」	「Kishaaaaaaaah!」
+77962	RedEye	基本	「キシャーーーーーーッ！」	「Kishaaaaaaaah!」
 
-77963	Leazas Black Soldier	「ひっ！？」	「Hii!?」
+77963	Leazas Black Soldier	戦闘	「ひっ！？」	「Hii!?」
 
-77964	RedEye	「ケーーーーーーケケケケケケ！」	「Keeeeee ke ke ke ke ke!」
+77964	RedEye	基本	「ケーーーーーーケケケケケケ！」	「Keeeeee ke ke ke ke ke!」
 
-77965	-	暴力そのものの具現のようなレッドアイの突撃に、	With RedEye's charge like the embodiment of violence itself,
-77966	+	人間の手が、足が、千切れ飛び、辺りを舞う。	human arms and legs were torn off and flew through the air.
+77965	-		暴力そのものの具現のようなレッドアイの突撃に、	With RedEye's charge like the embodiment of violence itself,
+77966	+		人間の手が、足が、千切れ飛び、辺りを舞う。	human arms and legs were torn off and flew through the air.
 
-77967	-	人間なぞ、レッドアイにしてみれば	To RedEye, humans were
-77968	+	紙も同然の存在でしかなかった。	nothing more than paper.
+77967	-		人間なぞ、レッドアイにしてみれば	To RedEye, humans were
+77968	+		紙も同然の存在でしかなかった。	nothing more than paper.
 
-77969	RedEye	「ケケケケケケ！　たーのシーッ！	「Ke ke ke ke ke! Ta no shii!
-77970	+	　自分より弱い生き物をダイするは	　Killing creatures weaker than me
-77971	+	　ベリーベリーベリーグッドな気分よ！」	　feels very very very good!」
+77969	RedEye		「ケケケケケケ！　たーのシーッ！	「Ke ke ke ke ke! Ta no shii!
+77970	+		　自分より弱い生き物をダイするは	　Killing creatures weaker than me
+77971	+		　ベリーベリーベリーグッドな気分よ！」	　feels very very very good!」
 
-77972	RedEye	「さあ、ヒューマンズ！	「Now, humans!
-77973	+	　その死に様でもっともっとミーを	　Show me more and more of your dying moments
-77974	+	　エキサイティングさせろ！」	　to excite me!」
+77972	RedEye		「さあ、ヒューマンズ！	「Now, humans!
+77973	+		　その死に様でもっともっとミーを	　Show me more and more of your dying moments
+77974	+		　エキサイティングさせろ！」	　to excite me!」
 
-77975	RedEye	「血を！　命を！　なにもかもを！	「Blood! Lives! Everything!
-77976	+	　ミーのハンドでビュリホーに散らせぇえ！」	　Scatter beautifully in my hands!」
+77975	RedEye		「血を！　命を！　なにもかもを！	「Blood! Lives! Everything!
+77976	+		　ミーのハンドでビュリホーに散らせぇえ！」	　Scatter beautifully in my hands!」
 
-77977	Houjou Souun	「くっ……！」	「Kuh...!」
+77977	Houjou Souun		「くっ……！」	「Kuh...!」
 
-77978	-	レッドアイが通る、その道には	Wherever RedEye passed,
-77979	+	屍山血河-ｼｻﾞﾝｹﾂｶﾞ-が作られ、	mountains of corpses and rivers of blood formed,
-77980	+	血の雨が降り注ぐ。	and a rain of blood poured down.
+77978	-		レッドアイが通る、その道には	Wherever RedEye passed,
+77979	+		屍山血河-ｼｻﾞﾝｹﾂｶﾞ-が作られ、	mountains of corpses and rivers of blood formed,
+77980	+		血の雨が降り注ぐ。	and a rain of blood poured down.
 
-77981	-	普通の人間には、	To normal humans,
-77982	+	魔人は到底敵う筈もない存在であり、	Fiends were existences they could never hope to defeat,
-77983	+	自分達はただ踏み潰される存在でしかない。	and they were nothing but beings to be crushed.
+77981	-		普通の人間には、	To normal humans,
+77982	+		魔人は到底敵う筈もない存在であり、	Fiends were existences they could never hope to defeat,
+77983	+		自分達はただ踏み潰される存在でしかない。	and they were nothing but beings to be crushed.
 
-77984	-	そのことを、脆弱な人間は	The fragile humans
-77985	+	ひしひしと感じていた。	felt that reality keenly.
+77984	-		そのことを、脆弱な人間は	The fragile humans
+77985	+		ひしひしと感じていた。	felt that reality keenly.
 
-77986	RedEye	「お前らヒューマン！　ベリー弱い！	「You humans! Very weak!
-77987	+	　だから今こうやって、ウケケケ！	　That's why right now, uke ke ke!
-77988	+	　ミーにダイされる！　OKか！？」	　You get killed by me! OK!?」
+77986	RedEye		「お前らヒューマン！　ベリー弱い！	「You humans! Very weak!
+77987	+		　だから今こうやって、ウケケケ！	　That's why right now, uke ke ke!
+77988	+		　ミーにダイされる！　OKか！？」	　You get killed by me! OK!?」
 
-77989	Zeth Mage Soldier	「うあっ！　離せ！　離せェェェ！」	「Uah! Let go! Let goooo!」
+77989	Zeth Mage Soldier		「うあっ！　離せ！　離せェェェ！」	「Uah! Let go! Let goooo!」
 
-77990	-	レッドアイに頭を掴まれたゼス兵が叫ぶ。	The Zeth soldier whose head was grabbed by RedEye screamed.
+77990	-		レッドアイに頭を掴まれたゼス兵が叫ぶ。	The Zeth soldier whose head was grabbed by RedEye screamed.
 
-77991	-	　	　
-77992	+	　　＜ミチ、ミチミチミチ……＞	　　＜Michi, michi michi michi...＞
+77991	-		　	　
+77992	+		　　＜ミチ、ミチミチミチ……＞	　　＜Michi, michi michi michi...＞
 
-77993	-	ゼス兵の頭から血が滲み、	Blood seeped from the Zeth soldier's head,
-77994	+	徐々にトッポスの指が食い込んでいく。	as Toppos's fingers slowly dug in deeper.
+77993	-		ゼス兵の頭から血が滲み、	Blood seeped from the Zeth soldier's head,
+77994	+		徐々にトッポスの指が食い込んでいく。	as Toppos's fingers slowly dug in deeper.
 
-77995	Zeth Mage Soldier	「あああ゛あ゛ああ゛あ！	「Aaaaah aaaaah!
-77996	+	　痛い痛い痛い痛い痛い痛い！	　It hurts it hurts it hurts it hurts it hurts!
-77997	+	　離して！　離してくれ！　うああぁああ！」	　Let go! Please let me go! Uaaaaah!」
+77995	Zeth Mage Soldier		「あああ゛あ゛ああ゛あ！	「Aaaaah aaaaah!
+77996	+		　痛い痛い痛い痛い痛い痛い！	　It hurts it hurts it hurts it hurts it hurts!
+77997	+		　離して！　離してくれ！　うああぁああ！」	　Let go! Please let me go! Uaaaaah!」
 
-77998	RedEye	「よくルックするがOK！	「Good look but OK!
-77999	+	　これがお前らのフューチャーの姿！」	　This is your future!」
+77998	RedEye		「よくルックするがOK！	「Good look but OK!
+77999	+		　これがお前らのフューチャーの姿！」	　This is your future!」
 
-78000	Zeth Mage Soldier	「ああ゛ぎゃああぁ゛あぁ゛ああ゛あぁ！！！！」	「Aaaah gyaaaaah aaaaah!!!」
+78000	Zeth Mage Soldier		「ああ゛ぎゃああぁ゛あぁ゛ああ゛あぁ！！！！」	「Aaaah gyaaaaah aaaaah!!!」
 
-78001	RedEye	「ケーーーーケケケケケケケケケ！」	「Keeeee- kekekekekekeke!」
+78001	RedEye		「ケーーーーケケケケケケケケケ！」	「Keeeee- kekekekekekeke!」
 
-78002	Rance	「おー、やっとるやっとる」	「Oh, you're doing it, you're doing it.」
+78002	Rance		「おー、やっとるやっとる」	「Oh, you're doing it, you're doing it.」
 
-78003	RedEye	「ホワイ？」	「Why?」
+78003	RedEye		「ホワイ？」	「Why?」
 
-78004	-	その場に到底似つかわしくない呑気な声色に	The carefree tone that didn't fit the situation at all
-78005	+	レッドアイが視線を向ける。	made RedEye turn its gaze.
+78004	-		その場に到底似つかわしくない呑気な声色に	The carefree tone that didn't fit the situation at all
+78005	+		レッドアイが視線を向ける。	made RedEye turn its gaze.
 
-78006	Rance	「ふふん、好き勝手やってくれとるようだな」	「Heh, looks like you're having your way.」
+78006	Rance		「ふふん、好き勝手やってくれとるようだな」	「Heh, looks like you're having your way.」
 
-78007	RedEye	「…………オー」	「............Oh.」
+78007	RedEye		「…………オー」	「............Oh.」
 
-78008	-	最強の生物、トッポスに寄生した	The strongest creature, Toppos, possessed by
-78009	+	狂気の魔人レッドアイの瞳が、	the mad Fiend RedEye's pupils
-78010	+	確かにランスを捉えた。	definitely locked onto Rance.
+78008	-		最強の生物、トッポスに寄生した	The strongest creature, Toppos, possessed by
+78009	+		狂気の魔人レッドアイの瞳が、	the mad Fiend RedEye's pupils
+78010	+		確かにランスを捉えた。	definitely locked onto Rance.
 
-78011	-	…………	............
+78011	-		…………	............
 
-78012	-	……	......
+78012	-		……	......

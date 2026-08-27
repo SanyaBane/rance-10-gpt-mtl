@@ -3,86 +3,86 @@
 * Boy	汎用少年	Male
 * Rance	ランス	Male
 
-91054	-	立ち寄った村でセルが	In a village they stopped at, Sel
-91055	+	村の子供達に神の教えを説いていた。	was teaching the village children about God's teachings.
+91054	-		立ち寄った村でセルが	In a village they stopped at, Sel
+91055	+		村の子供達に神の教えを説いていた。	was teaching the village children about God's teachings.
 
-91056	Sel Catchgolf	「というわけで、	「And so,
-91057	+	　神様はいつも皆さんの近くにいます」	　God is always near all of you.」
+91056	Sel Catchgolf	基本	「というわけで、	「And so,
+91057	+		　神様はいつも皆さんの近くにいます」	　God is always near all of you.」
 
-91058	Boy	「今ここにもいるのー？」	「Is He here right now?」
+91058	Boy		「今ここにもいるのー？」	「Is He here right now?」
 
-91059	Sel Catchgolf	「ええ、もちろん」	「Yes, of course.」
+91059	Sel Catchgolf		「ええ、もちろん」	「Yes, of course.」
 
-91060	Sel Catchgolf	「だから、悪いことなんてしても、	「So even if you do something bad,
-91061	+	　神様には、ぜーんぶお見通しなのよ」	　God sees absolutely everything.」
+91060	Sel Catchgolf		「だから、悪いことなんてしても、	「So even if you do something bad,
+91061	+		　神様には、ぜーんぶお見通しなのよ」	　God sees absolutely everything.」
 
-91062	Sel Catchgolf	「それが怖い子は……	「Children who are scared of that...
-91063	+	　ちゃんとお父さんお母さんの	　should listen properly to your mom and dad
-91064	+	　言うことを聞きましょうね」	　okay?」
+91062	Sel Catchgolf		「それが怖い子は……	「Children who are scared of that...
+91063	+		　ちゃんとお父さんお母さんの	　should listen properly to your mom and dad
+91064	+		　言うことを聞きましょうね」	　okay?」
 
-91065	?	「はーーい」	「Yeees.」
+91065	?		「はーーい」	「Yeees.」
 
-91066	Sel Catchgolf~	（ふふ、みんな素直な子達ばかりね……）	（Fufu, such obedient children...）
+91066	Sel Catchgolf~		（ふふ、みんな素直な子達ばかりね……）	（Fufu, such obedient children...）
 
-91067	Sel Catchgolf	「さて、ここまでで質問のある子はいるかしら？」	「Now then, does anyone have any questions?」
+91067	Sel Catchgolf		「さて、ここまでで質問のある子はいるかしら？」	「Now then, does anyone have any questions?」
 
-91068	Boy	「はーい、はいはいはい！」	「Yeees, me me me!」
+91068	Boy		「はーい、はいはいはい！」	「Yeees, me me me!」
 
-91069	Sel Catchgolf	「ふふ、元気ね。	「Fufu, how energetic.
-91070	+	　なにかしら？」	　What is it?」
+91069	Sel Catchgolf		「ふふ、元気ね。	「Fufu, how energetic.
+91070	+		　なにかしら？」	　What is it?」
 
-91071	Boy	「お姉さん、恋人とかいるのー？」	「Miss, do you have a boyfriend?」
+91071	Boy		「お姉さん、恋人とかいるのー？」	「Miss, do you have a boyfriend?」
 
-91072	Sel Catchgolf	「えっ！？」	「Eh!?」
+91072	Sel Catchgolf	驚き	「えっ！？」	「Eh!?」
 
-91073	Sel Catchgolf	「ちょ、ちょっと待って……	「W-wait a moment......
-91074	+	　そういう質問は……」	　That kind of question......」
+91073	Sel Catchgolf		「ちょ、ちょっと待って……	「W-wait a moment......
+91074	+		　そういう質問は……」	　That kind of question......」
 
-91075	Boy	「あ、俺もそういうの聞きたーい！	「Ah, I wanna ask too!
-91076	+	　はいはい、バスト何センチー？」	　Hey hey, what's your bust size?」
+91075	Boy	基本	「あ、俺もそういうの聞きたーい！	「Ah, I wanna ask too!
+91076	+		　はいはい、バスト何センチー？」	　Hey hey, what's your bust size?」
 
-91077	Boy	「キスってしたことあるー？」	「Have you ever kissed someone?」
+91077	Boy		「キスってしたことあるー？」	「Have you ever kissed someone?」
 
-91078	-	悪ガキ達は次々に卑猥な質問を	The naughty kids bombarded Sel
-91079	+	セルに浴びせかける。	with one lewd question after another.
+91078	-		悪ガキ達は次々に卑猥な質問を	The naughty kids bombarded Sel
+91079	+		セルに浴びせかける。	with one lewd question after another.
 
-91080	Sel Catchgolf	「み、みんな待って……ね？	「E-everyone, wait... okay?
-91081	+	　そういう質問には答えられないから……」	　I can't answer those kinds of questions......」
+91080	Sel Catchgolf	驚き	「み、みんな待って……ね？	「E-everyone, wait... okay?
+91081	+		　そういう質問には答えられないから……」	　I can't answer those kinds of questions......」
 
-91082	Rance	「セルさんが初めてセックスした男って	「What kind of handsome guy was
-91083	+	　どんな美男子だったんだ？」	　the first man Sel had sex with?」
+91082	Rance	基本	「セルさんが初めてセックスした男って	「What kind of handsome guy was
+91083	+		　どんな美男子だったんだ？」	　the first man Sel had sex with?」
 
-91084	Sel Catchgolf	「ええっ！？」	「Ehhh!?」
+91084	Sel Catchgolf	驚き	「ええっ！？」	「Ehhh!?」
 
-91085	Sel Catchgolf	「せ、セック、なんて……な、なんということを」	「S-sex, what... h-how could you say such a thing」
+91085	Sel Catchgolf		「せ、セック、なんて……な、なんということを」	「S-sex, what... h-how could you say such a thing」
 
-91086	Rance	「それとセルさんが一番感じるところ教えてくれ。	「Also tell us where Sel feels it the most.
-91087	+	　やっぱりアナルか？　アナルがいいのか？」	　Is it your asshole? Do you like it in the ass?」
+91086	Rance	基本	「それとセルさんが一番感じるところ教えてくれ。	「Also tell us where Sel feels it the most.
+91087	+		　やっぱりアナルか？　アナルがいいのか？」	　Is it your asshole? Do you like it in the ass?」
 
-91088	Sel Catchgolf	「あ、あの、あの……」	「U-um, um......」
+91088	Sel Catchgolf	驚き	「あ、あの、あの……」	「U-um, um......」
 
-91089	Sel Catchgolf	「ああっ……！」	「Aah......!」
+91089	Sel Catchgolf		「ああっ……！」	「Aah......!」
 
-91090	-	最早、顔を真っ赤にしたまま、	Her face completely red,
-91091	+	セルは固まってしまった。	Sel froze in place.
+91090	-		最早、顔を真っ赤にしたまま、	Her face completely red,
+91091	+		セルは固まってしまった。	Sel froze in place.
 
-91092	Rance	「それから今穿いてるパンツの色は？	「What color are the panties you're wearing right now?
-91093	+	　オナニーは週に何回？」	　How many times a week do you masturbate?」
+91092	Rance	基本	「それから今穿いてるパンツの色は？	「What color are the panties you're wearing right now?
+91093	+		　オナニーは週に何回？」	　How many times a week do you masturbate?」
 
-91094	Rance	「げへへへへ……それからぁ……」	「Hehehehe... and then......」
+91094	Rance	エロ顔	「げへへへへ……それからぁ……」	「Hehehehe... and then......」
 
-91095	-	子供達の中からランスが姿を現していた。	Rance emerged from among the children.
+91095	-		子供達の中からランスが姿を現していた。	Rance emerged from among the children.
 
-91096	Rance	「…………」	「............」
+91096	Rance	真剣	「…………」	「............」
 
-91097	Rance	「あ……思わず前に出てしまった……」	「Ah... I stepped forward without thinking......」
+91097	Rance	驚き	「あ……思わず前に出てしまった……」	「Ah... I stepped forward without thinking......」
 
-91098	Sel Catchgolf	「あ、あ、あ……」	「A, a, a......」
+91098	Sel Catchgolf	基本	「あ、あ、あ……」	「A, a, a......」
 
-91099	Sel Catchgolf	「ランスさん！」	「Rance-san!」
+91099	Sel Catchgolf	説教	「ランスさん！」	「Rance-san!」
 
-91100	Rance	「うおっ、逃げろ！」	「Whoa, run!」
+91100	Rance	基本	「うおっ、逃げろ！」	「Whoa, run!」
 
-91101	Sel Catchgolf	「こら！　待ちなさい！」	「Hey! Wait right there!」
+91101	Sel Catchgolf		「こら！　待ちなさい！」	「Hey! Wait right there!」
 
-91102	-	ランスはこっぴどく叱られた。	Rance got a harsh scolding.
+91102	-		ランスはこっぴどく叱られた。	Rance got a harsh scolding.

@@ -9,205 +9,205 @@
 * El Mofus	エール２	Player's choice
 * Brothel Boy	汎用売春宿ボーイ	Male
 
-230161	-	　	　
-230162	+	　　＜ガヤガヤ、ざわざわ……＞	　　＜Chatter, murmur...＞
+230161	-		　	　
+230162	+		　　＜ガヤガヤ、ざわざわ……＞	　　＜Chatter, murmur...＞
 
-230163	-	氷雪地帯を目指す途中、	On the way to the ice and snow region,
-230164	+	あなた達は大量のテントを作る商隊とかち合った。	your group ran into a merchant caravan building lots of tents.
+230163	-		氷雪地帯を目指す途中、	On the way to the ice and snow region,
+230164	+		あなた達は大量のテントを作る商隊とかち合った。	your group ran into a merchant caravan building lots of tents.
 
-230165	-	沢山の人間が忙しそうに動き回り、	Many people were busily moving around,
-230166	+	雑多な荷物を運んでいる。	carrying various loads.
+230165	-		沢山の人間が忙しそうに動き回り、	Many people were busily moving around,
+230166	+		雑多な荷物を運んでいる。	carrying various loads.
 
-230167	-	これと言った特徴らしい特徴はない人達だが、	They didn't have any particularly standout features, but
-230168	+	一つだけ、不自然なほどに誰も彼もが	one thing was unnatural: every single one of them
-230169	+	妙に整った顔立ちをしていた。	had unusually well-proportioned faces.
+230167	-		これと言った特徴らしい特徴はない人達だが、	They didn't have any particularly standout features, but
+230168	+		一つだけ、不自然なほどに誰も彼もが	one thing was unnatural: every single one of them
+230169	+		妙に整った顔立ちをしていた。	had unusually well-proportioned faces.
 
-230170	Nagata-kun	「なんか……すごい沢山の人がいるな……	「There's... a ton of people here...
-230171	+	　こんな雪しかないような場所で」	　in a place that's nothing but snow.」
+230170	Nagata-kun	基本	「なんか……すごい沢山の人がいるな……	「There's... a ton of people here...
+230171	+		　こんな雪しかないような場所で」	　in a place that's nothing but snow.」
 
-230172	Sushinu the Gandhi	「わあ、賑やかぁ……	「Wow, it's so lively...
-230173	+	　みんな旅人さんなのかな？　商人さん？」	　Are they all travelers? Merchants?」
+230172	Sushinu the Gandhi		「わあ、賑やかぁ……	「Wow, it's so lively...
+230173	+		　みんな旅人さんなのかな？　商人さん？」	　Are they all travelers? Merchants?」
 
-230174	Reset Kalar	「ここは……」	「This is...」
+230174	Reset Kalar	真剣	「ここは……」	「This is...」
 
-230175	Reset Kalar	「ああっ、やっぱりシーウィード！？」	「Ahh, it's Seaweed after all!?」
+230175	Reset Kalar	驚き	「ああっ、やっぱりシーウィード！？」	「Ahh, it's Seaweed after all!?」
 
-230176	Nagata-kun	「えっ！？　シーウィードって、あの！？」	「Eh!? Seaweed as in that!?」
+230176	Nagata-kun	基本	「えっ！？　シーウィードって、あの！？」	「Eh!? Seaweed as in that!?」
 
-230177	Nagata-kun	「うひょー、マジっすか！」	「Whoaa, for real!?」
+230177	Nagata-kun		「うひょー、マジっすか！」	「Whoaa, for real!?」
 
-230178	Sushinu the Gandhi	「？　お姉ちゃん、なぁにそれ？」	「? Big sis, what's that?」
+230178	Sushinu the Gandhi		「？　お姉ちゃん、なぁにそれ？」	「? Big sis, what's that?」
 
-230179	Reset Kalar	「うっ！？」	「Ugh!?」
+230179	Reset Kalar	困り	「うっ！？」	「Ugh!?」
 
-230180	Reset Kalar	「う〜〜……そのぉ……えぇと……」	「Uuu... Um... Well...」
+230180	Reset Kalar	憂い	「う〜〜……そのぉ……えぇと……」	「Uuu... Um... Well...」
 
-230181	Yamamoto Rangi	「有名な移動型宿の名前だよ」	「It's the name of a famous mobile inn.」
+230181	Yamamoto Rangi	基本	「有名な移動型宿の名前だよ」	「It's the name of a famous mobile inn.」
 
-230182	Sushinu the Gandhi	「宿屋さんなの？」	「Is it an inn?」
+230182	Sushinu the Gandhi		「宿屋さんなの？」	「Is it an inn?」
 
-230183	Yamamoto Rangi	「……なんと言ったものかな」	「...How should I put it.」
+230183	Yamamoto Rangi	ため息	「……なんと言ったものかな」	「...How should I put it.」
 
-230184	Reset Kalar	「うう……」	「Uuu...」
+230184	Reset Kalar	憂い	「うう……」	「Uuu...」
 
-230185	Sushinu the Gandhi	「あ、あの、お兄ちゃん？　お姉ちゃん？」	「Um, big brother? Big sis?」
+230185	Sushinu the Gandhi	基本	「あ、あの、お兄ちゃん？　お姉ちゃん？」	「Um, big brother? Big sis?」
 
-230186	-	乱義は言いにくそうに押し黙り、	Rangi stayed silent, looking awkward,
-230187	+	リセットに至っては顔を赤くして俯いていた。	while Reset's face turned red as she looked down.
+230186	-		乱義は言いにくそうに押し黙り、	Rangi stayed silent, looking awkward,
+230187	+		リセットに至っては顔を赤くして俯いていた。	while Reset's face turned red as she looked down.
 
-230188	Zance Leazas	「馬ー鹿、宿は宿でもなぁ……」	「Idiot, it's an inn, but...」
+230188	Zance Leazas	微笑み	「馬ー鹿、宿は宿でもなぁ……」	「Idiot, it's an inn, but...」
 
-230189	Zance Leazas	「移動型売春宿だよ！」	「It's a mobile brothel!」
+230189	Zance Leazas	笑い	「移動型売春宿だよ！」	「It's a mobile brothel!」
 
-230190	Sushinu the Gandhi	「ばいしゅんやど？」	「Brothel?」
+230190	Sushinu the Gandhi	基本	「ばいしゅんやど？」	「Brothel?」
 
-230191	Kentou Uzume	「ああ、そういう……」	「Ah, that kind of...」
+230191	Kentou Uzume		「ああ、そういう……」	「Ah, that kind of...」
 
-230192	Tokugawa Tone	「ばいしゅんやどってなに？」	「What's a brothel?」
+230192	Tokugawa Tone		「ばいしゅんやどってなに？」	「What's a brothel?」
 
-230193	Zance Leazas	「くっくっくっ、世界一と言われる売春宿でなぁ、	「Heh heh heh, it's a brothel said to be the best in the world,
-230194	+	　世界中から客が集まるって幻の宿よ」	　a legendary inn where customers come from all over the world.」
+230193	Zance Leazas	微笑み	「くっくっくっ、世界一と言われる売春宿でなぁ、	「Heh heh heh, it's a brothel said to be the best in the world,
+230194	+		　世界中から客が集まるって幻の宿よ」	　a legendary inn where customers come from all over the world.」
 
-230195	Zance Leazas	「その癖して値段は馬鹿にたけーってんで、	「Despite that, the prices are ridiculously high,
-230196	+	　金持ち御用達だそうだが……ぐふふ……」	　so it's popular with the rich... Heh heh...」
+230195	Zance Leazas		「その癖して値段は馬鹿にたけーってんで、	「Despite that, the prices are ridiculously high,
+230196	+		　金持ち御用達だそうだが……ぐふふ……」	　so it's popular with the rich... Heh heh...」
 
-230197	Zance Leazas	「サービス満点、長時間OK！　複数プレイOK！	「Full service, long sessions OK! Group play OK!
-230198	+	　女も上玉ばかりってなぁ、噂よ！	　The girls are all top quality, or so they say!
-230199	+	　がはははははは！」	　Gahahahaha!」
+230197	Zance Leazas	笑い	「サービス満点、長時間OK！　複数プレイOK！	「Full service, long sessions OK! Group play OK!
+230198	+		　女も上玉ばかりってなぁ、噂よ！	　The girls are all top quality, or so they say!
+230199	+		　がはははははは！」	　Gahahahaha!」
 
-230200	Sushinu the Gandhi	「えっと……え……？」	「Um... Eh...?」
+230200	Sushinu the Gandhi	基本	「えっと……え……？」	「Um... Eh...?」
 
-230201	Zance Leazas	「ああ、話に聞くだけだが、	「Ah, from what I've heard,
-230202	+	　女向けにもやってるってよ」	　they cater to women too.」
+230201	Zance Leazas	微笑み	「ああ、話に聞くだけだが、	「Ah, from what I've heard,
+230202	+		　女向けにもやってるってよ」	　they cater to women too.」
 
-230203	Zance Leazas	「最高のサービスで優しく処女を	「With the best service, they gently
-230204	+	　捨てさせてくれるとかなんとか……	　help girls lose their virginity...
-230205	+	　お前もいい加減クリスタル青くしたらどうだ？」	　How about you finally turn that crystal blue?」
+230203	Zance Leazas		「最高のサービスで優しく処女を	「With the best service, they gently
+230204	+		　捨てさせてくれるとかなんとか……	　help girls lose their virginity...
+230205	+		　お前もいい加減クリスタル青くしたらどうだ？」	　How about you finally turn that crystal blue?」
 
-230206	Reset Kalar	「いいいい、行かないよぉ！」	「No no no, I'm not going!」
+230206	Reset Kalar	驚き	「いいいい、行かないよぉ！」	「No no no, I'm not going!」
 
-230207	Zance Leazas	「がはははははははははは！	「Gahahahahahaha!
-230208	+	　冗談だよ、馬ー鹿！」	　Just kidding, idiot!」
+230207	Zance Leazas	基本	「がはははははははははは！	「Gahahahahahaha!
+230208	+		　冗談だよ、馬ー鹿！」	　Just kidding, idiot!」
 
-230209	Sushinu the Gandhi	「えーと……」	「Um...」
+230209	Sushinu the Gandhi		「えーと……」	「Um...」
 
-230210	Sushinu the Gandhi	「あっ！？　そ、そういう意味、なの？」	「Ah!? S-so that's what it means?」
+230210	Sushinu the Gandhi		「あっ！？　そ、そういう意味、なの？」	「Ah!? S-so that's what it means?」
 
-230211	Tokugawa Tone	「さーびすまんてん？」	「Full service?」
+230211	Tokugawa Tone		「さーびすまんてん？」	「Full service?」
 
-230212	Tokugawa Tone	「スシヌちゃん、どういうこと？」	「Sushinu-chan, what does that mean?」
+230212	Tokugawa Tone		「スシヌちゃん、どういうこと？」	「Sushinu-chan, what does that mean?」
 
-230213	Sushinu the Gandhi	「ええっ！？　そそそそ、それは、その……！」	「Ehh!? T-t-t-that's, um...!」
+230213	Sushinu the Gandhi	パニック	「ええっ！？　そそそそ、それは、その……！」	「Ehh!? T-t-t-that's, um...!」
 
-230214	Tokugawa Tone	「？？」	「??」
+230214	Tokugawa Tone	基本	「？？」	「??」
 
-230215	-	スシヌに抱きつきながら、深根が首を傾げていた。	Mikan tilted her head while hugging Sushinu.
+230215	-		スシヌに抱きつきながら、深根が首を傾げていた。	Mikan tilted her head while hugging Sushinu.
 
 > male
-230216	Zance Leazas	「おい、＜エール＞！	「Hey, ＜エール＞!
-230217	+	　なーに澄ました顔してやがんだよ！」	　Why are you acting so calm!」
+230216	Zance Leazas	不満	「おい、＜エール＞！	「Hey, ＜エール＞!
+230217	+		　なーに澄ました顔してやがんだよ！」	　Why are you acting so calm!」
 
-230218	-	ザンスがあなたの首根っこを締め上げてきた。	Zance grabbed you by the collar.
+230218	-		ザンスがあなたの首根っこを締め上げてきた。	Zance grabbed you by the collar.
 
-230219	Zance Leazas	「俺ぁ、昔からここで	「I've been planning to lose my virginity here
-230220	+	　初めてを捧げようと思っていたんだ」	　for a long time.」
+230219	Zance Leazas	基本	「俺ぁ、昔からここで	「I've been planning to lose my virginity here
+230220	+		　初めてを捧げようと思っていたんだ」	　for a long time.」
 
-230221	Nagata-kun	「へへっ、＜エール＞。	「Hehe, ＜エール＞.
-230222	+	　俺達と一緒に行こうぜ！」	　Let's go together!」
+230221	Nagata-kun		「へへっ、＜エール＞。	「Hehe, ＜エール＞.
+230222	+		　俺達と一緒に行こうぜ！」	　Let's go together!」
 
-230223	El Mofus	「…………。」	「............」
-230224	Zance Leazas	「がはははははははははは！	「Gahahahahahaha!
-230225	+	　ぃよーっし！　よく言った！」	　Alright! Well said!」
+230223	El Mofus		「…………。」	「............」
+230224	Zance Leazas	笑い	「がはははははははははは！	「Gahahahahahaha!
+230225	+		　ぃよーっし！　よく言った！」	　Alright! Well said!」
 
-230226	Nagata-kun	「へっ！　さすが俺の相棒だぜ！」	「Heh! As expected of my partner!」
+230226	Nagata-kun	基本	「へっ！　さすが俺の相棒だぜ！」	「Heh! As expected of my partner!」
 
-230227	-	二人の中でのあなたの好感度が上がった。	Your favorability with the two increased.
+230227	-		二人の中でのあなたの好感度が上がった。	Your favorability with the two increased.
 
-230228	Zance Leazas	「馬ー鹿！　これが落ち着いていられるかよ！	「Idiot! How can anyone stay calm here!
-230229	+	　がははははははははははははは！」	　Gahahahahahahaha!」
+230228	Zance Leazas	笑い	「馬ー鹿！　これが落ち着いていられるかよ！	「Idiot! How can anyone stay calm here!
+230229	+		　がははははははははははははは！」	　Gahahahahahahaha!」
 
-230230	Nagata-kun	「くくく、大人ぶるなよー、＜エール＞！	「Hehe, don't act so mature, ＜エール＞!
-230231	+	　お前も一緒に楽しもうぜ！」	　Let's enjoy it together!」
+230230	Nagata-kun	基本	「くくく、大人ぶるなよー、＜エール＞！	「Hehe, don't act so mature, ＜エール＞!
+230231	+		　お前も一緒に楽しもうぜ！」	　Let's enjoy it together!」
 
-230232	-	二人はすっかり浮かれきっていた。	The two were completely hyped up.
+230232	-		二人はすっかり浮かれきっていた。	The two were completely hyped up.
 
-230233	Zance Leazas	「く、詳しいんだな……	「Hah, you sure know a lot...
-230234	+	　やるな、お前……」	　Not bad...」
+230233	Zance Leazas	呆れ	「く、詳しいんだな……	「Hah, you sure know a lot...
+230234	+		　やるな、お前……」	　Not bad...」
 
-230235	Nagata-kun	「ふ、ふっ……さすが俺の相棒だぜ……」	「H-heh... As expected of my partner...」
+230235	Nagata-kun	基本	「ふ、ふっ……さすが俺の相棒だぜ……」	「H-heh... As expected of my partner...」
 
-230236	-	二人はあなたに畏怖の念を抱いた。	The two looked at you with awe.
+230236	-		二人はあなたに畏怖の念を抱いた。	The two looked at you with awe.
 
 > female
-230237	Zance Leazas	「がははは、お前はどうだ、＜エール＞？	「Gahaha, what about you, ＜エール＞?
-230238	+	　ここでスパーッと処女捨てるってなぁ」	　Losing your virginity right here would be」
+230237	Zance Leazas	笑い	「がははは、お前はどうだ、＜エール＞？	「Gahaha, what about you, ＜エール＞?
+230238	+		　ここでスパーッと処女捨てるってなぁ」	　Losing your virginity right here would be」
 
-230239	El Mofus	「…………。」	............
-230240	Zance Leazas	「がはははははははは！	Gahahahahaha!
-230241	+	　なーに照れてやがんだか！」	　What are you getting shy for!
+230239	El Mofus	基本	「…………。」	............
+230240	Zance Leazas	笑い	「がはははははははは！	Gahahahahaha!
+230241	+		　なーに照れてやがんだか！」	　What are you getting shy for!
 
-230242	-	ザンスはとっても上機嫌だった。	Zance was in an extremely good mood.
+230242	-		ザンスはとっても上機嫌だった。	Zance was in an extremely good mood.
 
-230243	Zance Leazas	「馬鹿、冗談に決まってんだろ」	Idiot, it was obviously a joke
+230243	Zance Leazas	基本	「馬鹿、冗談に決まってんだろ」	Idiot, it was obviously a joke
 
-230244	-	あなたは理不尽にザンスに怒られた。	You were unreasonably scolded by Zance.
+230244	-		あなたは理不尽にザンスに怒られた。	You were unreasonably scolded by Zance.
 
-230245	Zance Leazas	「な、なんだと！？	W-what did you say!?
-230246	+	　お前、そっちの趣味だったのか！？」	　You into that kind of thing!?
+230245	Zance Leazas	怒り	「な、なんだと！？	W-what did you say!?
+230246	+		　お前、そっちの趣味だったのか！？」	　You into that kind of thing!?
 
-230247	Sushinu the Gandhi	「＜エール＞ちゃん！？	＜エール＞-chan!?
-230248	+	　そそそそ、そんな！　女性同士なんて、そんな！」	　N-n-n-no way! Girls with girls, that's...!
+230247	Sushinu the Gandhi	パニック	「＜エール＞ちゃん！？	＜エール＞-chan!?
+230248	+		　そそそそ、そんな！　女性同士なんて、そんな！」	　N-n-n-no way! Girls with girls, that's...!
 
-230249	Zance Leazas	「なんでお前の方が慌ててんだ」	Why are you the one panicking
+230249	Zance Leazas	基本	「なんでお前の方が慌ててんだ」	Why are you the one panicking
 
-230250	Nagata-kun	「＜エール＞のいつもの冗談じゃないかな……」	It's probably just ＜エール＞'s usual joke...
+230250	Nagata-kun		「＜エール＞のいつもの冗談じゃないかな……」	It's probably just ＜エール＞'s usual joke...
 
-230251	Sushinu the Gandhi	「あ、そ、そっか……」	Ah, r-right...
+230251	Sushinu the Gandhi		「あ、そ、そっか……」	Ah, r-right...
 
 > end
-230252	Reset Kalar	「は、はいはい！　氷雪地帯に行くよー！」	Y-yes yes! Let's head to the ice and snow region!
+230252	Reset Kalar	たははー	「は、はいはい！　氷雪地帯に行くよー！」	Y-yes yes! Let's head to the ice and snow region!
 
-230253	Zance Leazas	「アア！？　あんでだよ！	Haa!? Why!?
-230254	+	　こんだけ期待感煽られて途中で諦めろってのか！」	　After getting us all worked up, you're making us give up midway!?
+230253	Zance Leazas	基本	「アア！？　あんでだよ！	Haa!? Why!?
+230254	+		　こんだけ期待感煽られて途中で諦めろってのか！」	　After getting us all worked up, you're making us give up midway!?
 
-230255	Reset Kalar	「うう……ザンスちゃん、男の子だなぁ……」	Uuu... Zance-chan really is such a boy...
+230255	Reset Kalar	困り	「うう……ザンスちゃん、男の子だなぁ……」	Uuu... Zance-chan really is such a boy...
 
-230256	Yamamoto Rangi	「まったく……」	Good grief...
+230256	Yamamoto Rangi	ため息	「まったく……」	Good grief...
 
-230257	Yamamoto Rangi	「いいから行くぞ。	Anyway, let's go.
-230258	+	　レリコフが先に行っているんだ、	Lelikov Helman went ahead,
-230259	+	　ここで足を止めるわけにはいかない」	we can't stop here.
+230257	Yamamoto Rangi	基本	「いいから行くぞ。	Anyway, let's go.
+230258	+		　レリコフが先に行っているんだ、	Lelikov Helman went ahead,
+230259	+		　ここで足を止めるわけにはいかない」	we can't stop here.
 
-230260	Zance Leazas	「ぐっ……	Guh...
-230261	+	　まあ、それは……」	　Well, that's true...
+230260	Zance Leazas		「ぐっ……	Guh...
+230261	+		　まあ、それは……」	　Well, that's true...
 
-230262	Brothel Boy	「皆様、いらっしゃいませ」	Welcome, everyone.
+230262	Brothel Boy		「皆様、いらっしゃいませ」	Welcome, everyone.
 
-230263	Reset Kalar	「ひゃあ！　見つかった！」	Hyaa! We've been spotted!
+230263	Reset Kalar		「ひゃあ！　見つかった！」	Hyaa! We've been spotted!
 
-230264	Brothel Boy	「おや、貴女は……」	Oh, you are...
+230264	Brothel Boy		「おや、貴女は……」	Oh, you are...
 
-230265	Reset Kalar	「えへへへ、すみません、また今度ぉ」	Ehehehe, sorry, maybe next time~
+230265	Reset Kalar		「えへへへ、すみません、また今度ぉ」	Ehehehe, sorry, maybe next time~
 
-230266	-	ボーイはにこっと笑った。	The boy smiled brightly.
+230266	-		ボーイはにこっと笑った。	The boy smiled brightly.
 
-230267	Brothel Boy	「かしこまりました。	Understood.
-230268	+	　残念ですが先を急ぐ旅のご様子ですね」	　What a shame, but it seems you're in a hurry on your journey.
+230267	Brothel Boy	提案	「かしこまりました。	Understood.
+230268	+		　残念ですが先を急ぐ旅のご様子ですね」	　What a shame, but it seems you're in a hurry on your journey.
 
-230269	Zance Leazas	「帰り！　帰り絶対来るかんな！	On the way back! We'll definitely come back!
-230270	+	　いい女、用意しとけよー！」	Prepare some good women for us!
+230269	Zance Leazas	怒り	「帰り！　帰り絶対来るかんな！	On the way back! We'll definitely come back!
+230270	+		　いい女、用意しとけよー！」	Prepare some good women for us!
 
-230271	Sushinu the Gandhi	「も、もう、やめてよぉ、恥ずかしいなぁ」	S-stop it, this is so embarrassing...
+230271	Sushinu the Gandhi	基本	「も、もう、やめてよぉ、恥ずかしいなぁ」	S-stop it, this is so embarrassing...
 
-230272	Yamamoto Rangi	「……なにしてるんだか」	...What are they even doing.
+230272	Yamamoto Rangi	ため息	「……なにしてるんだか」	...What are they even doing.
 
-230273	Yamamoto Rangi	「お騒がせしてすみません、	Sorry for the commotion,
-230274	+	　私達はこれで」	　we'll be on our way.
+230273	Yamamoto Rangi	基本	「お騒がせしてすみません、	Sorry for the commotion,
+230274	+		　私達はこれで」	　we'll be on our way.
 
-230275	Brothel Boy	「皆様のまたのご来店、	We look forward to your next visit,
-230276	+	　心よりお待ち申し上げております」	　from the bottom of our hearts.
+230275	Brothel Boy	笑顔	「皆様のまたのご来店、	We look forward to your next visit,
+230276	+		　心よりお待ち申し上げております」	　from the bottom of our hearts.
 
-230277	-	ボーイが慇懃に深々と頭を下げた。	The boy bowed deeply and politely.
+230277	-		ボーイが慇懃に深々と頭を下げた。	The boy bowed deeply and politely.
 
-230278	-	あなた達はシーウィードを無視して、	You ignored Seaweed and
-230279	+	改めて氷雪地帯を目指して進むこととなった。	once again set off toward the ice and snow region.
+230278	-		あなた達はシーウィードを無視して、	You ignored Seaweed and
+230279	+		改めて氷雪地帯を目指して進むこととなった。	once again set off toward the ice and snow region.

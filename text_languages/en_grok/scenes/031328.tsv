@@ -7,104 +7,104 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Feliss	フェリス	Female
 
-67114	Rance	「……ッ……！　ぜぇぜぇ、はぁはぁ……ッ！	「...! Haa haa, huff huff...!
-67115	+	　中々やるではないか、バケモノが……！」	　Not bad at all, you monster...!」
+67114	Rance	だる顔	「……ッ……！　ぜぇぜぇ、はぁはぁ……ッ！	「...! Haa haa, huff huff...!
+67115	+		　中々やるではないか、バケモノが……！」	　Not bad at all, you monster...!」
 
-67116	Sill Plain	「ランス様、次が来ます！	「Rance-sama, the next one's coming!
-67117	+	　いたいのいたいのとんでけー！」	　Fly away pain pain~!」
+67116	Sill Plain	恥	「ランス様、次が来ます！	「Rance-sama, the next one's coming!
+67117	+		　いたいのいたいのとんでけー！」	　Fly away pain pain~!」
 
-67118	Rance	「おう、そろそろ野郎の心臓を抉って……」	「Yeah, time to rip out this bastard's heart...
+67118	Rance	怒り	「おう、そろそろ野郎の心臓を抉って……」	「Yeah, time to rip out this bastard's heart...
 
-67119	Neplacus	「………………」	「............」
+67119	Neplacus	基本	「………………」	「............」
 
-67120	Sill Plain	「…………あれ？」	「............Huh?」
+67120	Sill Plain	恥	「…………あれ？」	「............Huh?」
 
-67121	-	魔人討伐隊の熾烈な応酬は、	The fierce exchange from the Fiend Extermination Squad
-67122	+	悪魔が唐突に動きを止めたことで中断した。	was suddenly interrupted when the demon froze.
+67121	-		魔人討伐隊の熾烈な応酬は、	The fierce exchange from the Fiend Extermination Squad
+67122	+		悪魔が唐突に動きを止めたことで中断した。	was suddenly interrupted when the demon froze.
 
-67123	Rance	「…………なんだ、どうした？」	「............What? What's wrong?」
+67123	Rance	真剣	「…………なんだ、どうした？」	「............What? What's wrong?」
 
-67124	Neplacus	『ノ・ラ・ス・イ・ク・チ……』	『No... ra... su... i... ku... chi...』
+67124	Neplacus	基本	『ノ・ラ・ス・イ・ク・チ……』	『No... ra... su... i... ku... chi...』
 
-67125	Neplacus	『ラ・モ・ラ・ト・ニ・ス・ラ・ノ・ニ・	『Ra... mo... ra... to... ni... su... ra... no... ni...
-67126	+	　ク・チ・シ・ラ・ナ……	　Ku... chi... shi... ra... na...
-67127	+	　カ・イ・ミ・ト・ニ・ノ・チ……』	　Ka... i... mi... to... ni... no... chi...』
+67125	Neplacus		『ラ・モ・ラ・ト・ニ・ス・ラ・ノ・ニ・	『Ra... mo... ra... to... ni... su... ra... no... ni...
+67126	+		　ク・チ・シ・ラ・ナ……	　Ku... chi... shi... ra... na...
+67127	+		　カ・イ・ミ・ト・ニ・ノ・チ……』	　Ka... i... mi... to... ni... no... chi...』
 
-67128	-	ネプラカスは棒立ちになったまま、	Neplacus stood completely still,
-67129	+	天井の、その先を睨めつけていた。	staring at the ceiling and beyond.
+67128	-		ネプラカスは棒立ちになったまま、	Neplacus stood completely still,
+67129	+		天井の、その先を睨めつけていた。	staring at the ceiling and beyond.
 
-67130	Rance	「……隙だらけだな。殺すか？」	「...Full of openings. Should I kill him?」
+67130	Rance		「……隙だらけだな。殺すか？」	「...Full of openings. Should I kill him?」
 
-67131	Chaos	「ちぃっと待っとけって。	「Hold on a bit.
-67132	+	　周りが体勢立て直すチャンスじゃ」	　Gives everyone a chance to regroup.」
+67131	Chaos		「ちぃっと待っとけって。	「Hold on a bit.
+67132	+		　周りが体勢立て直すチャンスじゃ」	　Gives everyone a chance to regroup.」
 
-67133	Rance	「あっ……」	「Ah...」
+67133	Rance		「あっ……」	「Ah...」
 
-67134	-	その姿勢のまま、ネプラカスはどこかへと	In that same posture, Neplacus
-67135	+	消失していった。	vanished somewhere.
+67134	-		その姿勢のまま、ネプラカスはどこかへと	In that same posture, Neplacus
+67135	+		消失していった。	vanished somewhere.
 
-67136	Rance	「……ふん。逃げやがったか」	「...Hmph. He ran away.」
+67136	Rance	真剣	「……ふん。逃げやがったか」	「...Hmph. He ran away.」
 
-67137	Rance	「がーーーっはははははは！	「Gaaaaahahahaha!
-67138	+	　ならば俺様の勝ちだな……	　Then it's my victory...」
-67139	?	っ、おっとと」	Whoops.
+67137	Rance	笑顔	「がーーーっはははははは！	「Gaaaaahahahaha!
+67138	+		　ならば俺様の勝ちだな……	　Then it's my victory...」
+67139	?		っ、おっとと」	Whoops.
 
-67140	-	高笑いの最中に、ランスの足がふらつく。	In the middle of his loud laughter, Rance's legs wobbled.
+67140	-		高笑いの最中に、ランスの足がふらつく。	In the middle of his loud laughter, Rance's legs wobbled.
 
-67141	Sill Plain	「あ、あ、大丈夫ですか、ランス様！	「A-Are you okay, Rance-sama!
-67142	+	　いたいのいたいのとんでけー！」	　Fly away pain pain~!」
+67141	Sill Plain	慌て	「あ、あ、大丈夫ですか、ランス様！	「A-Are you okay, Rance-sama!
+67142	+		　いたいのいたいのとんでけー！」	　Fly away pain pain~!」
 
-67143	Rance	「く、む、ご苦労。	「Kuh... Good work.
-67144	+	　けっ……中々歯応えのある野郎だったな」	　Heh... That was a pretty tough bastard.」
+67143	Rance	だる顔	「く、む、ご苦労。	「Kuh... Good work.
+67144	+		　けっ……中々歯応えのある野郎だったな」	　Heh... That was a pretty tough bastard.」
 
-67145	Maria Custard	「そんな事言えるの、ランスくらいよ……	「Only you can say that after that fight, Rance...
-67146	+	　も、へとへと……」	　I'm completely exhausted...」
+67145	Maria Custard	あかんわ	「そんな事言えるの、ランスくらいよ……	「Only you can say that after that fight, Rance...
+67146	+		　も、へとへと……」	　I'm completely exhausted...」
 
-67147	Alkanese Rize	「あ……っ、ああ……	「Ah... Yeah...
-67148	+	　とんでもない強さだったぜ……」	　He was insanely strong...」
+67147	Alkanese Rize	困り	「あ……っ、ああ……	「Ah... Yeah...
+67148	+		　とんでもない強さだったぜ……」	　He was insanely strong...」
 
-67149	-	曲がりなりにも立ったままなのは	The only ones still standing, even if barely,
-67150	+	ランスを含むほんの数名で、他は悪魔が消えた瞬間に	were Rance and a handful of others. Everyone else collapsed
-67151	+	へたり込むか、そもそも意識を失っているかだった。	the moment the demon vanished, or had already passed out.
+67149	-		曲がりなりにも立ったままなのは	The only ones still standing, even if barely,
+67150	+		ランスを含むほんの数名で、他は悪魔が消えた瞬間に	were Rance and a handful of others. Everyone else collapsed
+67151	+		へたり込むか、そもそも意識を失っているかだった。	the moment the demon vanished, or had already passed out.
 
-67152	Feliss	「ネプラカス……を……え、退けた……？」	「We... drove off... Neplacus...?」
+67152	Feliss	基本	「ネプラカス……を……え、退けた……？」	「We... drove off... Neplacus...?」
 
-67153	-	目の前で事態が終わっても信じられず、	Even though it was over right in front of her, she couldn't believe it,
-67154	+	フェリスは何もない空間に向かって呆然と呟いた。	and Feliss stared blankly into empty space.
+67153	-		目の前で事態が終わっても信じられず、	Even though it was over right in front of her, she couldn't believe it,
+67154	+		フェリスは何もない空間に向かって呆然と呟いた。	and Feliss stared blankly into empty space.
 
-67155	Feliss	「倒した訳じゃないけど……でも……ううん……	「We didn't defeat him... but... still...
-67156	+	　わたし……たす、かった…………？」	　I... was saved...?」
+67155	Feliss		「倒した訳じゃないけど……でも……ううん……	「We didn't defeat him... but... still...
+67156	+		　わたし……たす、かった…………？」	　I... was saved...?」
 
-67157	Rance	「おうフェリス。とりあえず追っ払っといたぞ。	「Yeah Feliss. I drove him off for now.
-67158	+	　恩に着ろよ、がははははは」	　You owe me, gahahahaha.」
+67157	Rance		「おうフェリス。とりあえず追っ払っといたぞ。	「Yeah Feliss. I drove him off for now.
+67158	+		　恩に着ろよ、がははははは」	　You owe me, gahahahaha.」
 
-67159	Feliss	「あのね……危なすぎる相手だったでしょ？	「Listen... He was way too dangerous, right?
-67160	+	　だからやり過ごそうって言ったのに……！」	　That's why I said we should avoid him...!」
+67159	Feliss		「あのね……危なすぎる相手だったでしょ？	「Listen... He was way too dangerous, right?
+67160	+		　だからやり過ごそうって言ったのに……！」	　That's why I said we should avoid him...!」
 
-67161	Rance	「お前、あの野郎に何かされたんだろ」	「That bastard did something to you, didn't he?」
+67161	Rance	真剣	「お前、あの野郎に何かされたんだろ」	「That bastard did something to you, didn't he?」
 
-67162	Feliss	「え……」	「Eh...」
+67162	Feliss	基本	「え……」	「Eh...」
 
-67163	Rance	「そんな顔してたぞ。	「You had that look on your face.
-67164	+	　ぶん殴ってやったから少しはシャキッとしろ」	　I punched him for you, so pull yourself together.」
+67163	Rance		「そんな顔してたぞ。	「You had that look on your face.
+67164	+		　ぶん殴ってやったから少しはシャキッとしろ」	　I punched him for you, so pull yourself together.」
 
-67165	Feliss	「あ…………う、うん……」	「Ah............ Y-Yeah...」
+67165	Feliss		「あ…………う、うん……」	「Ah............ Y-Yeah...」
 
-67166	Feliss	「…………って言っても、	「............Though really,
-67167	+	　元はあんたのせいなんだけど……」	　this is all your fault to begin with...」
+67166	Feliss		「…………って言っても、	「............Though really,
+67167	+		　元はあんたのせいなんだけど……」	　this is all your fault to begin with...」
 
-67168	Rance	「ちっ、なんだ。大した意味はなかったか」	「Tch, what? So it wasn't that big a deal.」
+67168	Rance	だる顔	「ちっ、なんだ。大した意味はなかったか」	「Tch, what? So it wasn't that big a deal.」
 
-67169	Rance	「まあいい。休憩したら次行くぞー」	「Whatever. Rest up and then we move on.」
+67169	Rance	基本	「まあいい。休憩したら次行くぞー」	「Whatever. Rest up and then we move on.」
 
-67170	Feliss	「あっ……」	「Ah...」
+67170	Feliss		「あっ……」	「Ah...」
 
-67171	-	大して固執するでもなく、	Without dwelling on it much,
-67172	+	ランスは他のメンバーにちょっかいをかけに行った。	Rance went off to mess with the other members.
+67171	-		大して固執するでもなく、	Without dwelling on it much,
+67172	+		ランスは他のメンバーにちょっかいをかけに行った。	Rance went off to mess with the other members.
 
-67173	Feliss	「…………でも……えと…………」	「............But... um............」
+67173	Feliss		「…………でも……えと…………」	「............But... um............」
 
-67174	-	言葉は小さく、	Her words were quiet,
-67175	+	その背中に届くものではなかったけれど。	and never reached his back.
+67174	-		言葉は小さく、	Her words were quiet,
+67175	+		その背中に届くものではなかったけれど。	and never reached his back.
 
-67176	Feliss	「……あり、がと」	「...Thank you.」
+67176	Feliss	憂い微笑	「……あり、がと」	「...Thank you.」

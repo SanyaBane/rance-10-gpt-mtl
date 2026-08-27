@@ -3,70 +3,70 @@
 * Chaos	カオス	Male
 * Lei	レイ	Male
 
-61358	Rance	「はぁ、っ…………はぁ……っ……」	「Haa... Haa...」
+61358	Rance	だる顔	「はぁ、っ…………はぁ……っ……」	「Haa... Haa...」
 
-61359	-	どれくらい戦い、どれくらい逃げたか。	How long they fought, how long they ran.
+61359	-		どれくらい戦い、どれくらい逃げたか。	How long they fought, how long they ran.
 
-61360	-	頑丈なランスでさえ、	Even the sturdy Rance
-61361	+	身体の感覚をそろそろ失いつつあった。	was starting to lose feeling in his body.
+61360	-		頑丈なランスでさえ、	Even the sturdy Rance
+61361	+		身体の感覚をそろそろ失いつつあった。	was starting to lose feeling in his body.
 
-61362	Rance	「生きてるか、お前らー……」	「You guys still alive...?」
+61362	Rance		「生きてるか、お前らー……」	「You guys still alive...?」
 
-61363	Rance	「……いないのか……おい、どこだ……シィル！」	「...No one's here... Hey, where are you... Sill!」
+61363	Rance	怒り	「……いないのか……おい、どこだ……シィル！」	「...No one's here... Hey, where are you... Sill!」
 
-61364	-	混乱ではぐれた辺りに怒鳴ってみるが、返事はない。	He shouted toward where they got separated in the chaos, but no reply.
+61364	-		混乱ではぐれた辺りに怒鳴ってみるが、返事はない。	He shouted toward where they got separated in the chaos, but no reply.
 
-61365	Rance	「…………くそっ……俺様とはぐれるとは……	「...Damn... Getting separated from me...
-61366	+	　どんくさい連中め……」	　What a bunch of slowpokes...」
+61365	Rance	イライラ	「…………くそっ……俺様とはぐれるとは……	「...Damn... Getting separated from me...
+61366	+		　どんくさい連中め……」	　What a bunch of slowpokes...」
 
-61367	Chaos	「……………………」	「........................」
+61367	Chaos	基本	「……………………」	「........................」
 
-61368	-	足を引きずって、歩く。	He dragged his feet as he walked.
+61368	-		足を引きずって、歩く。	He dragged his feet as he walked.
 
-61369	Lei	「……お捜しかい、誰か」	「...Looking for someone?」
+61369	Lei		「……お捜しかい、誰か」	「...Looking for someone?」
 
-61370	-	――――そこに。	――――There.
-61371	+	濃厚な血の香りを漂わせて、	Carrying a thick scent of blood,
-61372	+	痩身の人影がゆらりと現れた。	a slender figure appeared unsteadily.
+61370	-		――――そこに。	――――There.
+61371	+		濃厚な血の香りを漂わせて、	Carrying a thick scent of blood,
+61372	+		痩身の人影がゆらりと現れた。	a slender figure appeared unsteadily.
 
-61373	Rance	「ぐ、ビリビリ野郎か……こんな所で……！」	「Gu, it's the zap guy... In a place like this...!」
+61373	Rance	だる顔	「ぐ、ビリビリ野郎か……こんな所で……！」	「Gu, it's the zap guy... In a place like this...!」
 
-61374	Lei	「さぁて、逃げ場はねェ。	「Well now, no escape.
-61375	+	　手持ちの札は全部吐き出して、	　Spit out all your cards,
-61376	+	　精々俺を楽しませるんだな」	　and entertain me as best you can.」
+61374	Lei	基本	「さぁて、逃げ場はねェ。	「Well now, no escape.
+61375	+		　手持ちの札は全部吐き出して、	　Spit out all your cards,
+61376	+		　精々俺を楽しませるんだな」	　and entertain me as best you can.」
 
-61377	Rance	「ま、待て！　今日は腹の調子が……」	「W-wait! My stomach isn't feeling good today...」
+61377	Rance	驚き	「ま、待て！　今日は腹の調子が……」	「W-wait! My stomach isn't feeling good today...」
 
-61378	Lei	「なら、クソ垂らしたまま死ね」	「Then die while shitting yourself.」
+61378	Lei	基本	「なら、クソ垂らしたまま死ね」	「Then die while shitting yourself.」
 
-61379	Rance	「ちっ……どうしようもないか」	「Tch... No choice then.」
+61379	Rance	だる顔	「ちっ……どうしようもないか」	「Tch... No choice then.」
 
-61380	-	血と汗でぬめる手元に、力を込め直す。	He tightened his grip on his slippery, blood-and-sweat-covered hands.
+61380	-		血と汗でぬめる手元に、力を込め直す。	He tightened his grip on his slippery, blood-and-sweat-covered hands.
 
-61381	Chaos	「ぬう……や、奴も万全じゃないはずじゃ！	「Nuu... He can't be in perfect condition either!
-61382	+	　なんとかこじ開けろ！」	　Force it open somehow!」
+61381	Chaos	基本	「ぬう……や、奴も万全じゃないはずじゃ！	「Nuu... He can't be in perfect condition either!
+61382	+		　なんとかこじ開けろ！」	　Force it open somehow!」
 
-61383	Rance	「い、言われんでも、やるしかなかろうが！	「I know that without you telling me!
-61384	+	　気合い入れろ、カオス！」	　Get fired up, Chaos!」
+61383	Rance	怒り	「い、言われんでも、やるしかなかろうが！	「I know that without you telling me!
+61384	+		　気合い入れろ、カオス！」	　Get fired up, Chaos!」
 
-61385	Lei	「ふん。やる気があるのはけっこうだが……」	「Hmph. Glad you're motivated, but...」
+61385	Lei	基本	「ふん。やる気があるのはけっこうだが……」	「Hmph. Glad you're motivated, but...」
 
-61386	Lei	「舐めてくれんなァ、ランス！！」	「Don't underestimate me, Rance!!」
+61386	Lei	戦闘時	「舐めてくれんなァ、ランス！！」	「Don't underestimate me, Rance!!」
 
-61387	Rance	「ぐっ……だあああぁぁぁーーーー！！」	「Guh... Daaaaaaaah!!」
+61387	Rance	怒り	「ぐっ……だあああぁぁぁーーーー！！」	「Guh... Daaaaaaaah!!」
 
-61388	-	魔人レイと、数万の魔物兵相手に、	Against Fiend Lei and tens of thousands of monster soldiers,
-61389	+	ランスは破れかぶれで突撃していった。	Rance charged in desperately.
+61388	-		魔人レイと、数万の魔物兵相手に、	Against Fiend Lei and tens of thousands of monster soldiers,
+61389	+		ランスは破れかぶれで突撃していった。	Rance charged in desperately.
 
-61390	-	…………	............
+61390	-		…………	............
 
-61391	-	……	......
+61391	-		……	......
 
-61392	-	――セキガハラの惨劇。	――The Tragedy of Sekigahara.
+61392	-		――セキガハラの惨劇。	――The Tragedy of Sekigahara.
 
-61393	-	人類の敗北のきっかけとなったこの戦いは、	This battle, which became the trigger for humanity's defeat,
-61394	+	後にそう呼ばれることとなった。	would later be called that.
+61393	-		人類の敗北のきっかけとなったこの戦いは、	This battle, which became the trigger for humanity's defeat,
+61394	+		後にそう呼ばれることとなった。	would later be called that.
 
-61395	-	…………	............
+61395	-		…………	............
 
-61396	-	……	......
+61396	-		……	......

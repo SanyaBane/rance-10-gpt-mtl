@@ -3,106 +3,106 @@
 * Satella	サテラ	Female
 * Sill Plain	シィル	Female
 
-140588	Rance	「ところで……」	「By the way......」
+140588	Rance	真剣	「ところで……」	「By the way......」
 
-140589	Satella	「ん？　なんだ？」	「Hm? What?」
+140589	Satella	基本	「ん？　なんだ？」	「Hm? What?」
 
-140590	Rance	「今更だが……	「It's a bit late but......
-140591	+	　ホーネットはいい女だろうな？」	　Hornet is a good woman, right?」
+140590	Rance		「今更だが……	「It's a bit late but......
+140591	+		　ホーネットはいい女だろうな？」	　Hornet is a good woman, right?」
 
-140592	Satella	「…………」	「............」
+140592	Satella	思考	「…………」	「............」
 
-140593	Satella	「ランス、頭を出せ」	「Rance, stick your head out.」
+140593	Satella	不安	「ランス、頭を出せ」	「Rance, stick your head out.」
 
-140594	Rance	「あん？　なんだよ？」	「Huh? What?」
+140594	Rance	真剣	「あん？　なんだよ？」	「Huh? What?」
 
-140595	Rance	「ぐあああああぁあぁっ！？」	「Guaaaaaaaaahhh!?」
+140595	Rance	怒り	「ぐあああああぁあぁっ！？」	「Guaaaaaaaaahhh!?」
 
-140596	Sill Plain	「ランス様、大丈夫ですか！？」	「Rance-sama, are you okay!?」
+140596	Sill Plain	慌て	「ランス様、大丈夫ですか！？」	「Rance-sama, are you okay!?」
 
-140597	Rance	「……だ、大丈夫じゃない。	「......Not okay.
-140598	+	　ぐおおお、頭が割れるかと……」	　Guooh, my head feels like it's splitting......」
+140597	Rance	基本	「……だ、大丈夫じゃない。	「......Not okay.
+140598	+		　ぐおおお、頭が割れるかと……」	　Guooh, my head feels like it's splitting......」
 
-140599	Satella	「今の内に言っておくが……	「Let me say this now......
-140600	+	　ホーネット様に変なことをしたら	　If you do anything weird to Lady Hornet
-140601	+	　サテラも本気で怒るからな！」	　Satella will get seriously angry!」
+140599	Satella	怒り	「今の内に言っておくが……	「Let me say this now......
+140600	+		　ホーネット様に変なことをしたら	　If you do anything weird to Lady Hornet
+140601	+		　サテラも本気で怒るからな！」	　Satella will get seriously angry!」
 
-140602	Rance	「だからって殴る奴があるか！」	「You don't have to hit me for that!」
+140602	Rance		「だからって殴る奴があるか！」	「You don't have to hit me for that!」
 
-140603	Rance	「ちっ、お前がそんな警戒するなら、	「Tch, if you're that wary,
-140604	+	　ホーネットってのはいい女なんだろうが……」	　then Hornet must be a good woman......」
+140603	Rance	だる顔	「ちっ、お前がそんな警戒するなら、	「Tch, if you're that wary,
+140604	+		　ホーネットってのはいい女なんだろうが……」	　then Hornet must be a good woman......」
 
-140605	Rance	「しかし一体どんな奴なんだ」	「But what kind of person is she anyway?」
+140605	Rance	真剣	「しかし一体どんな奴なんだ」	「But what kind of person is she anyway?」
 
-140606	Satella	「…………」	「............」
+140606	Satella	思考	「…………」	「............」
 
-140607	Satella	「……サテラの友達でもあり、	「......She is Satella's friend,
-140608	+	　先代魔王ガイ様の娘」	　and the daughter of the previous Demon King Gai-sama.」
+140607	Satella	基本	「……サテラの友達でもあり、	「......She is Satella's friend,
+140608	+		　先代魔王ガイ様の娘」	　and the daughter of the previous Demon King Gai-sama.」
 
-140609	Satella	「素晴らしい方だ」	「A wonderful person.」
+140609	Satella		「素晴らしい方だ」	「A wonderful person.」
 
-140610	Rance	「確か美樹ちゃんを	「If I remember right, there was a conflict with Kabelis
-140611	+	　次の魔王にするか否かで	　over whether to make Miki-chan the next Demon King
-140612	+	　ケイブリスと揉めてたんだったか」	　or not.」
+140610	Rance		「確か美樹ちゃんを	「If I remember right, there was a conflict with Kabelis
+140611	+		　次の魔王にするか否かで	　over whether to make Miki-chan the next Demon King
+140612	+		　ケイブリスと揉めてたんだったか」	　or not.」
 
-140613	Satella	「そうだ。	「That's right.
-140614	+	　魔人同士の戦争では、ホーネット様は	　In the war between Fiends, Lady Hornet
-140615	+	　ガイ様の意向を汲み、ケイブリスと戦った」	　fought against Kayblis following Gai-sama's wishes.」
+140613	Satella		「そうだ。	「That's right.
+140614	+		　魔人同士の戦争では、ホーネット様は	　In the war between Fiends, Lady Hornet
+140615	+		　ガイ様の意向を汲み、ケイブリスと戦った」	　fought against Kayblis following Gai-sama's wishes.」
 
-140616	Satella	「全ては魔物界の平和の為に、だ」	「All for the peace of the Monster Realm.」
+140616	Satella		「全ては魔物界の平和の為に、だ」	「All for the peace of the Monster Realm.」
 
-140617	Rance	「……平和〜？」	「......Peace~?」
+140617	Rance		「……平和〜？」	「......Peace~?」
 
-140618	Satella	「な、なんだ、ホーネット様を馬鹿にする気か！」	「W-What, are you trying to mock Lady Hornet!」
+140618	Satella	怒り	「な、なんだ、ホーネット様を馬鹿にする気か！」	「W-What, are you trying to mock Lady Hornet!」
 
-140619	Rance	「いや、そうじゃなくて……	「No, that's not it......
-140620	+	　それだとお前がホーネット派に	　then that wouldn't explain why you're in the Hornet faction.」
-140621	+	　いる理由にならんだろう」	
+140619	Rance	基本	「いや、そうじゃなくて……	「No, that's not it......
+140620	+		　それだとお前がホーネット派に	　then that wouldn't explain why you're in the Hornet faction.」
+140621	+		　いる理由にならんだろう」	
 
-140622	Rance	「お前、平和とかなんとか	「Were you fighting all this time thinking about peace and stuff?」
-140623	+	　そういうの考えて今まで戦ってたのか？」	
+140622	Rance		「お前、平和とかなんとか	「Were you fighting all this time thinking about peace and stuff?」
+140623	+		　そういうの考えて今まで戦ってたのか？」	
 
-140624	Satella	「うぐっ……	「Ugh......
-140625	+	　それは違うけど……」	　that's not exactly it but......」
+140624	Satella	超テレ	「うぐっ……	「Ugh......
+140625	+		　それは違うけど……」	　that's not exactly it but......」
 
-140626	Rance	「ほれ見ろ。	「See.
-140627	+	　なんでお前ホーネット派にいるんだ？」	　Why are you in the Hornet faction?」
+140626	Rance	基本	「ほれ見ろ。	「See.
+140627	+		　なんでお前ホーネット派にいるんだ？」	　Why are you in the Hornet faction?」
 
-140628	Satella	「…………」	「............」
+140628	Satella	思考	「…………」	「............」
 
-140629	Satella	「ホーネット様は……生まれてから、	「Lady Hornet...... has been lonely ever since she was born......」
-140630	+	　ずっと孤独な方であられた……」	
+140629	Satella	不安	「ホーネット様は……生まれてから、	「Lady Hornet...... has been lonely ever since she was born......」
+140630	+		　ずっと孤独な方であられた……」	
 
-140631	Satella	「母は出産時に亡くなり、父は魔王。	「Her mother died during childbirth, her father is the Demon King.
-140632	+	　自分は人間の身でありながら、	　Despite being human herself,
-140633	+	　周りには魔物と魔人しかいない……」	　there were only monsters and Fiend around her......」
+140631	Satella		「母は出産時に亡くなり、父は魔王。	「Her mother died during childbirth, her father is the Demon King.
+140632	+		　自分は人間の身でありながら、	　Despite being human herself,
+140633	+		　周りには魔物と魔人しかいない……」	　there were only monsters and Fiend around her......」
 
-140634	Satella	「そんなとき、ホーネット様の友人として	「At that time, the one assigned as Lady Hornet's friend
-140635	+	　あてがわれたのが人間のサテラだったんだ」	　was the human Satella.」
+140634	Satella		「そんなとき、ホーネット様の友人として	「At that time, the one assigned as Lady Hornet's friend
+140635	+		　あてがわれたのが人間のサテラだったんだ」	　was the human Satella.」
 
-140636	Satella	「あの方の為に生きて、あの方と一緒に笑って、	「I have lived for her sake, laughed together with her,
-140637	+	　あの方の世話をして、あの方に尽くしてきた……」	　taken care of her, and devoted myself to her......」
+140636	Satella		「あの方の為に生きて、あの方と一緒に笑って、	「I have lived for her sake, laughed together with her,
+140637	+		　あの方の世話をして、あの方に尽くしてきた……」	　taken care of her, and devoted myself to her......」
 
-140638	Satella	「だから、サテラにとってあの人は……」	「So to Satella, that person is......
+140638	Satella		「だから、サテラにとってあの人は……」	「So to Satella, that person is......
 
-140639	Satella	「大事な友達なんだ」	「a precious friend.」
+140639	Satella		「大事な友達なんだ」	「a precious friend.」
 
-140640	Satella	「だから、救いたい……	「That's why I want to save her......
-140641	+	　絶対に、なんとしても……」	　no matter what......」
+140640	Satella		「だから、救いたい……	「That's why I want to save her......
+140641	+		　絶対に、なんとしても……」	　no matter what......」
 
-140642	Satella	「ランス……頼むぞ……	「Rance...... I beg you......
-140643	+	　ホーネット様を一緒に……」	　save Lady Hornet together......」
+140642	Satella	基本	「ランス……頼むぞ……	「Rance...... I beg you......
+140643	+		　ホーネット様を一緒に……」	　save Lady Hornet together......」
 
-140644	Rance	「ああ、分かった分かった。	「Yeah yeah, I got it.
-140645	+	　分かったから、そうしおらしい顔すんな。	　I got it so stop making that pitiful face.
-140646	+	　ギョッとするだろうが」	　It's startling.」
+140644	Rance	だる顔	「ああ、分かった分かった。	「Yeah yeah, I got it.
+140645	+		　分かったから、そうしおらしい顔すんな。	　I got it so stop making that pitiful face.
+140646	+		　ギョッとするだろうが」	　It's startling.」
 
-140647	Rance	「ホーネットは救う。	「I'll save Hornet.
-140648	+	　当然だ」	　Obviously.」
+140647	Rance	基本	「ホーネットは救う。	「I'll save Hornet.
+140648	+		　当然だ」	　Obviously.」
 
-140649	Satella	「う、うんっ！」	「Y-Yeah!」
+140649	Satella	笑顔	「う、うんっ！」	「Y-Yeah!」
 
-140650	-	サテラはにっこりと笑うと、	Satella smiled brightly,
-140651	+	足取り軽く前を向いて進んで行く。	and walked forward with light steps.
+140650	-		サテラはにっこりと笑うと、	Satella smiled brightly,
+140651	+		足取り軽く前を向いて進んで行く。	and walked forward with light steps.
 
-140652	Rance	「まったく、これじゃどっちが主か分からんな」	「Man, I can't tell who's the master here.」
+140652	Rance	だる顔	「まったく、これじゃどっちが主か分からんな」	「Man, I can't tell who's the master here.」

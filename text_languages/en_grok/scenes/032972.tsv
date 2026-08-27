@@ -2,64 +2,64 @@
 * Kentou Uzume	ウズメ２	Female
 * El Mofus	エール２	Player's choice
 
-191446	-	あなたは夜、ウズメのテントに遊びに行った。	At night, you went to visit Uzume's tent.
+191446	-		あなたは夜、ウズメのテントに遊びに行った。	At night, you went to visit Uzume's tent.
 
-191447	Kentou Uzume	「お、いらっしゃいござる、主君どの」	「Oh, welcome, my lord.」
+191447	Kentou Uzume	基本	「お、いらっしゃいござる、主君どの」	「Oh, welcome, my lord.」
 
-191448	Kentou Uzume	「って、ウズメのとこに遊びに来ても、	「Though even if you come to Uzume's place to play,
-191449	+	　大したもんないでござるよ？」	　there's nothing much here.」
+191448	Kentou Uzume		「って、ウズメのとこに遊びに来ても、	「Though even if you come to Uzume's place to play,
+191449	+		　大したもんないでござるよ？」	　there's nothing much here.」
 
-191450	-	大したものはない、という割に、	Despite saying there wasn't much,
-191451	+	ウズメのテント内には忍者グッズが転がる、	Uzume's tent was filled with ninja goods
-191452	+	あなたにとっては新鮮な部屋だった。	that felt fresh and exciting to you.
+191450	-		大したものはない、という割に、	Despite saying there wasn't much,
+191451	+		ウズメのテント内には忍者グッズが転がる、	Uzume's tent was filled with ninja goods
+191452	+		あなたにとっては新鮮な部屋だった。	that felt fresh and exciting to you.
 
-191453	Kentou Uzume	「お、お、興味あるでござる？」	「O-oh, are you interested?」
+191453	Kentou Uzume		「お、お、興味あるでござる？」	「O-oh, are you interested?」
 
-191454	Kentou Uzume	「にょほほほ、ウズメこう見えても忍者マニア。	「Nyohohoho, Uzume may look like this but she's a ninja maniac.
-191455	+	　忍者グッズはいくらでも見せられるでござるよ」	　I can show you as many ninja goods as you want.」
+191454	Kentou Uzume	にょほほ	「にょほほほ、ウズメこう見えても忍者マニア。	「Nyohohoho, Uzume may look like this but she's a ninja maniac.
+191455	+		　忍者グッズはいくらでも見せられるでござるよ」	　I can show you as many ninja goods as you want.」
 
-191456	-	忍者マニアという言葉が引っかかり、	The term 'ninja maniac' caught your attention,
-191457	+	あなたはどういう意味か聞いてみた。	so you asked what she meant.
+191456	-		忍者マニアという言葉が引っかかり、	The term 'ninja maniac' caught your attention,
+191457	+		あなたはどういう意味か聞いてみた。	so you asked what she meant.
 
-191458	Kentou Uzume	「あ……」	「Ah...」
+191458	Kentou Uzume	基本	「あ……」	「Ah...」
 
-191459	Kentou Uzume	「……うう、実は」	「...Uuu, actually」
+191459	Kentou Uzume	テレ	「……うう、実は」	「...Uuu, actually」
 
-191460	Kentou Uzume	「JAPANには忍者学校とかあるでござるが、	「There are ninja schools in JAPAN,
-191461	+	　ウズメはそういう所に行ってないのでござる」	　but Uzume never went to one.」
+191460	Kentou Uzume		「JAPANには忍者学校とかあるでござるが、	「There are ninja schools in JAPAN,
+191461	+		　ウズメはそういう所に行ってないのでござる」	　but Uzume never went to one.」
 
-191462	Kentou Uzume	「忍者の母上殿の教えしか受けてないから、	「I only learned from my ninja mother,
-191463	+	　忍者というより、その……」	　so rather than a real ninja, I'm more like...
+191462	Kentou Uzume		「忍者の母上殿の教えしか受けてないから、	「I only learned from my ninja mother,
+191463	+		　忍者というより、その……」	　so rather than a real ninja, I'm more like...
 
-191464	Kentou Uzume	「ウズメ、ただの忍者マニアなんでござる」	　just a ninja maniac.」
+191464	Kentou Uzume		「ウズメ、ただの忍者マニアなんでござる」	　just a ninja maniac.」
 
-191465	-	あなたは思ってもいなかった衝撃の告白をされた。	You received a shocking confession you never expected.
+191465	-		あなたは思ってもいなかった衝撃の告白をされた。	You received a shocking confession you never expected.
 
-191466	Kentou Uzume	「あ、でも子供の頃から忍者に憧れて、	「Ah, but ever since I was a child I admired ninjas,
-191467	+	　母上殿の教えは守ってきたから、	　and I've followed my mother's teachings,
-191468	+	　忍者として一丁前程度には働けるでござるよ」	　so I can work decently as a ninja.」
+191466	Kentou Uzume	基本	「あ、でも子供の頃から忍者に憧れて、	「Ah, but ever since I was a child I admired ninjas,
+191467	+		　母上殿の教えは守ってきたから、	　and I've followed my mother's teachings,
+191468	+		　忍者として一丁前程度には働けるでござるよ」	　so I can work decently as a ninja.」
 
-191469	Kentou Uzume	「まあ、母上殿はウズメを忍者でなく、	「Well, my mother wanted to raise me
-191470	+	　普通の女の子に育てたかったみたいだけど」	　as a normal girl rather than a ninja.」
+191469	Kentou Uzume		「まあ、母上殿はウズメを忍者でなく、	「Well, my mother wanted to raise me
+191470	+		　普通の女の子に育てたかったみたいだけど」	　as a normal girl rather than a ninja.」
 
-191471	Kentou Uzume	「でも忍者って、ちょーかっけーでござる！	「But ninjas are so cool!
-191472	+	　しゅばばって動いて、しゃきーんと攻撃！」	　Shubaba movements and sharp attacks!」
+191471	Kentou Uzume	にょほほ	「でも忍者って、ちょーかっけーでござる！	「But ninjas are so cool!
+191472	+		　しゅばばって動いて、しゃきーんと攻撃！」	　Shubaba movements and sharp attacks!」
 
-191473	Kentou Uzume	「そして、クールで無口！	「And cool and silent!
-191474	+	　主君の言うことには絶対服従！	　Absolute obedience to one's lord!
-191475	+	　闇から闇へ蠢く影！」	　A shadow that moves from darkness to darkness!」
+191473	Kentou Uzume	基本	「そして、クールで無口！	「And cool and silent!
+191474	+		　主君の言うことには絶対服従！	　Absolute obedience to one's lord!
+191475	+		　闇から闇へ蠢く影！」	　A shadow that moves from darkness to darkness!」
 
-191476	Kentou Uzume	「ウズメ、子供の頃からずーっと、	「Uzume has admired ninjas
-191477	+	　忍者に憧れてきたのでござる」	　ever since she was little.」
+191476	Kentou Uzume		「ウズメ、子供の頃からずーっと、	「Uzume has admired ninjas
+191477	+		　忍者に憧れてきたのでござる」	　ever since she was little.」
 
-191478	El Mofus	「…………。」	「............」
+191478	El Mofus		「…………。」	「............」
 
-191479	Kentou Uzume	「おお、主君どのにも分かって頂けるでござる？」	「Oh, does my lord understand too?」
+191479	Kentou Uzume		「おお、主君どのにも分かって頂けるでござる？」	「Oh, does my lord understand too?」
 
-191480	Kentou Uzume	「よーし、今日はウズメの秘蔵の	「Alright, today I'll show off
-191481	+	　忍者グッズお披露目でござるよー！」	　Uzume's treasured ninja goods!」
+191480	Kentou Uzume	にょほほ	「よーし、今日はウズメの秘蔵の	「Alright, today I'll show off
+191481	+		　忍者グッズお披露目でござるよー！」	　Uzume's treasured ninja goods!」
 
-191482	-	ウズメはそれはもう嬉しそうに	Uzume happily began talking
-191483	+	忍者についてあれこれと語り出した。	about all sorts of ninja things.
+191482	-		ウズメはそれはもう嬉しそうに	Uzume happily began talking
+191483	+		忍者についてあれこれと語り出した。	about all sorts of ninja things.
 
-191484	-	あなたは夜通しウズメの忍者談義に付き合った。	You stayed up all night listening to Uzume's ninja stories.
+191484	-		あなたは夜通しウズメの忍者談義に付き合った。	You stayed up all night listening to Uzume's ninja stories.

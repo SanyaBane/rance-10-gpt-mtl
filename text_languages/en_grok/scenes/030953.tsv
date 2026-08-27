@@ -10,313 +10,313 @@
 * Caloria Cricket	カロリア	Female
 * Sill Plain	シィル	Female
 
-42015	-	――ゼス臨時首都、マーク。	--Zeth Temporary Capital, Mark.
+42015	-		――ゼス臨時首都、マーク。	--Zeth Temporary Capital, Mark.
 
-42016	-	千鶴子とマジックは、	Chizuko and Magic were,
-42017	+	今日も各地の指揮と状況分析に追われていた。	busy as always commanding various fronts and analyzing the situation.
+42016	-		千鶴子とマジックは、	Chizuko and Magic were,
+42017	+		今日も各地の指揮と状況分析に追われていた。	busy as always commanding various fronts and analyzing the situation.
 
-42018	Yamada Chizuko	「……と、西部はこんな所ね。	「...And that's the situation in the west.
-42019	+	　カバッハーン老も独力で、よく耐えてくれてる」	　Old Kabachahn is holding out well all by himself.」
+42018	Yamada Chizuko	基本	「……と、西部はこんな所ね。	「...And that's the situation in the west.
+42019	+		　カバッハーン老も独力で、よく耐えてくれてる」	　Old Kabachahn is holding out well all by himself.」
 
-42020	Magic the Gandhi	「……東部戦線は？　報告ないの？」	「...What about the eastern front? No reports?」
+42020	Magic the Gandhi		「……東部戦線は？　報告ないの？」	「...What about the eastern front? No reports?」
 
-42021	Yamada Chizuko	「ランス総統の話？	「About Supreme Leader Rance?
-42022	+	　それなら、相変わらず行方不明だけど……」	　He's still missing as usual...」
+42021	Yamada Chizuko		「ランス総統の話？	「About Supreme Leader Rance?
+42022	+		　それなら、相変わらず行方不明だけど……」	　He's still missing as usual...」
 
-42023	Magic the Gandhi	「そ、それだけじゃなくて！」	「Th-that's not all!」
+42023	Magic the Gandhi	孤軍奮闘	「そ、それだけじゃなくて！」	「Th-that's not all!」
 
-42024	Yamada Chizuko	「それ以外も相変わらず。被害は止まらないし、	「Everything else is the same too. The damage won't stop,
-42025	+	　戦線もどうにか膠着はさせられてるわ。	　and we've somehow managed to stall the front lines.
-42026	+	　……ただし消耗しながら、だけどね」	　...While steadily wearing ourselves down, of course.」
+42024	Yamada Chizuko	基本	「それ以外も相変わらず。被害は止まらないし、	「Everything else is the same too. The damage won't stop,
+42025	+		　戦線もどうにか膠着はさせられてるわ。	　and we've somehow managed to stall the front lines.
+42026	+		　……ただし消耗しながら、だけどね」	　...While steadily wearing ourselves down, of course.」
 
-42027	Magic the Gandhi	「……………………」	「........................」
+42027	Magic the Gandhi	思考	「……………………」	「........................」
 
-42028	-	状況は、悪化の一途を辿っていた。	The situation was steadily getting worse.
+42028	-		状況は、悪化の一途を辿っていた。	The situation was steadily getting worse.
 
-42029	-	決定的な破滅は、訪れていない。凌いでいる。	Total collapse hadn't come yet. They were holding on.
-42030	+	……しかし、戦っても戦っても良くなる兆しがない。	...But no matter how much they fought, there was no sign of improvement.
+42029	-		決定的な破滅は、訪れていない。凌いでいる。	Total collapse hadn't come yet. They were holding on.
+42030	+		……しかし、戦っても戦っても良くなる兆しがない。	...But no matter how much they fought, there was no sign of improvement.
 
-42031	-	じわじわと押し潰されるかのように、	Slowly but surely being crushed,
-42032	+	ゼスは滅びへと向かおうとしていた。	Zeth was heading toward ruin.
+42031	-		じわじわと押し潰されるかのように、	Slowly but surely being crushed,
+42032	+		ゼスは滅びへと向かおうとしていた。	Zeth was heading toward ruin.
 
-42033	Magic the Gandhi	「っ、もう……何してるの、ランス……	「...Come on... What are you doing, Rance...
-42034	+	　…………助けてよ……っ……」	　............Please help me...」
+42033	Magic the Gandhi		「っ、もう……何してるの、ランス……	「...Come on... What are you doing, Rance...
+42034	+		　…………助けてよ……っ……」	　............Please help me...」
 
-42035	Rance	「お、マジック」	「Oh, Magic.」
+42035	Rance	基本	「お、マジック」	「Oh, Magic.」
 
-42036	Yamada Chizuko	「え…………！？」	「Eh............!?」
+42036	Yamada Chizuko		「え…………！？」	「Eh............!?」
 
-42037	Magic the Gandhi	「きゃっ……」	「Kyaa...」
+42037	Magic the Gandhi	驚き	「きゃっ……」	「Kyaa...」
 
-42038	Magic the Gandhi	「きゃわあああぁぁぁぁっ！？」	「Kyaaaaaaaahhh!?」
+42038	Magic the Gandhi		「きゃわあああぁぁぁぁっ！？」	「Kyaaaaaaaahhh!?」
 
-42039	-	ランス一行が、前触れもなくゼス司令部に現れた。	Rance and his group suddenly appeared in Zeth's headquarters without warning.
+42039	-		ランス一行が、前触れもなくゼス司令部に現れた。	Rance and his group suddenly appeared in Zeth's headquarters without warning.
 
-42040	Kentou Kanami	「すご……ホントにマークの……	「Amazing... We're really in Mark...
-42041	+	　しかも、司令部に直接……」	　And straight into the headquarters...」
+42040	Kentou Kanami	基本	「すご……ホントにマークの……	「Amazing... We're really in Mark...
+42041	+		　しかも、司令部に直接……」	　And straight into the headquarters...」
 
-42042	Miracle Tor	「祖母様からヒントを頂きすぎているからな。	「I got too many hints from Grandmother.
-42043	+	　この程度、挑戦の内に入らん」	　This much isn't even a challenge.」
+42042	Miracle Tor	目閉じ	「祖母様からヒントを頂きすぎているからな。	「I got too many hints from Grandmother.
+42043	+		　この程度、挑戦の内に入らん」	　This much isn't even a challenge.」
 
-42044	Magic the Gandhi	「えっ、な、な、なに！？	「Eh, wh-wh-what!?
-42045	+	　あなたたち、どこから……！」	　Where did you all come from...!?」
+42044	Magic the Gandhi	驚き	「えっ、な、な、なに！？	「Eh, wh-wh-what!?
+42045	+		　あなたたち、どこから……！」	　Where did you all come from...!?」
 
-42046	-	ランス一行は、一人残らずゼスの司令部へと	Rance's entire group was
-42047	+	転移されていた。	transferred directly into Zeth's headquarters.
+42046	-		ランス一行は、一人残らずゼスの司令部へと	Rance's entire group was
+42047	+		転移されていた。	transferred directly into Zeth's headquarters.
 
-42048	Yamada Chizuko	「て、転移魔法……はっ！」	「T-teleportation magic...!」
+42048	Yamada Chizuko		「て、転移魔法……はっ！」	「T-teleportation magic...!」
 
-42049	Yamada Chizuko	「永久客人っ……ルーシー様！？」	「The Eternal Guest... Lady Lucy!?」
+42049	Yamada Chizuko	基本	「永久客人っ……ルーシー様！？」	「The Eternal Guest... Lady Lucy!?」
 
-42050	Magic the Gandhi	「え、あ…………！」	「Eh, ah......!」
+42050	Magic the Gandhi	驚き	「え、あ…………！」	「Eh, ah......!」
 
-42051	-	ルーシーの姿を見た途端、千鶴子が膝をついた。	The moment she saw Lucy, Chizuko dropped to her knees.
-42052	+	マジックも慌てて深く一礼する。	Magic hurriedly bowed deeply as well.
+42051	-		ルーシーの姿を見た途端、千鶴子が膝をついた。	The moment she saw Lucy, Chizuko dropped to her knees.
+42052	+		マジックも慌てて深く一礼する。	Magic hurriedly bowed deeply as well.
 
-42053	Yamada Chizuko	「経緯は計りかねますが……	「I don't know the full story but...
-42054	+	　ようこそお帰りくださいました、予言者ルーシー」	　Welcome back, Prophet Lucy.」
+42053	Yamada Chizuko	基本	「経緯は計りかねますが……	「I don't know the full story but...
+42054	+		　ようこそお帰りくださいました、予言者ルーシー」	　Welcome back, Prophet Lucy.」
 
-42055	Rance	「お。なんだこのちびっ子。有名人なのか？」	「Oh. Who's this little kid? Some celebrity?」
+42055	Rance		「お。なんだこのちびっ子。有名人なのか？」	「Oh. Who's this little kid? Some celebrity?」
 
-42056	Magic the Gandhi	「ゼス建国の恩人、予言者のルーシー様よ。	「She's the great benefactor of Zeth's founding, the Prophet Lucy.
-42057	+	　ゼスじゃ永久客人っていう、特別な人なの」	　In Zeth she's called the Eternal Guest, a very special person.」
+42056	Magic the Gandhi		「ゼス建国の恩人、予言者のルーシー様よ。	「She's the great benefactor of Zeth's founding, the Prophet Lucy.
+42057	+		　ゼスじゃ永久客人っていう、特別な人なの」	　In Zeth she's called the Eternal Guest, a very special person.」
 
-42058	Magic the Gandhi	「建国してからも、ゼスの行く末に関わる予言を	「Even after the founding, she has given many prophecies
-42059	+	　幾度もくださって……って一緒に来たんでしょ？」	　about Zeth's future... You came together, right?」
+42058	Magic the Gandhi		「建国してからも、ゼスの行く末に関わる予言を	「Even after the founding, she has given many prophecies
+42059	+		　幾度もくださって……って一緒に来たんでしょ？」	　about Zeth's future... You came together, right?」
 
-42060	Rance	「なんか知らんが向こうが会いに来ただけだ。	「I don't know the details, she just came to meet me.
-42061	+	　なんにも知らん」	　I don't know anything.」
+42060	Rance	だる顔	「なんか知らんが向こうが会いに来ただけだ。	「I don't know the details, she just came to meet me.
+42061	+		　なんにも知らん」	　I don't know anything.」
 
-42062	Magic the Gandhi	「ルーシー様が、ランスに……」	「Lady Lucy came to Rance...」
+42062	Magic the Gandhi	基本	「ルーシー様が、ランスに……」	「Lady Lucy came to Rance...」
 
-42063	Lucy Julietta	「ガルティア許せぬ。奴を滅するためにきた」	「I cannot forgive Galtia. I came to destroy him.」
+42063	Lucy Julietta		「ガルティア許せぬ。奴を滅するためにきた」	「I cannot forgive Galtia. I came to destroy him.」
 
-42064	Yamada Chizuko	「ガ、ガルティアを……」	「G-Galtia...」
+42064	Yamada Chizuko		「ガ、ガルティアを……」	「G-Galtia...」
 
-42065	-	ルーシーはこくりと頷いた。	Lucy nodded quietly.
+42065	-		ルーシーはこくりと頷いた。	Lucy nodded quietly.
 
-42066	Lucy Julietta	「はぴたん粉工場、	「The Hapitan Powder factory,
-42067	+	　材料ごと持っていかれたのであろ」	　they took the whole thing including the ingredients.」
+42066	Lucy Julietta		「はぴたん粉工場、	「The Hapitan Powder factory,
+42067	+		　材料ごと持っていかれたのであろ」	　they took the whole thing including the ingredients.」
 
-42068	-	千鶴子は、眼をぱちくりとさせた。	Chizuko blinked in surprise.
+42068	-		千鶴子は、眼をぱちくりとさせた。	Chizuko blinked in surprise.
 
-42069	Yamada Chizuko	「……ええと、お菓子のはぴたん粉ですか？」	「...Um, you mean the Hapitan Powder for sweets?」
+42069	Yamada Chizuko		「……ええと、お菓子のはぴたん粉ですか？」	「...Um, you mean the Hapitan Powder for sweets?」
 
-42070	-	ルーシーはこくりと頷いた。	Lucy nodded quietly.
+42070	-		ルーシーはこくりと頷いた。	Lucy nodded quietly.
 
-42071	Yamada Chizuko	「それは……工場がサバサバにありましたので、	「Yes... The factory was quite exposed,
-42072	+	　確かに開戦初期に襲撃されて……」	　so it was attacked right at the start of the war...」
+42071	Yamada Chizuko		「それは……工場がサバサバにありましたので、	「Yes... The factory was quite exposed,
+42072	+		　確かに開戦初期に襲撃されて……」	　so it was attacked right at the start of the war...」
 
-42073	Lucy Julietta	「ど許せぬ」	「Unforgivable.」
+42073	Lucy Julietta		「ど許せぬ」	「Unforgivable.」
 
-42074	Yamada Chizuko	「は、はぁ……あ、いえ、お力を貸して頂けるのは	「Y-yes... Well, having your help is
-42075	+	　助かります、切に……」	　truly appreciated...」
+42074	Yamada Chizuko		「は、はぁ……あ、いえ、お力を貸して頂けるのは	「Y-yes... Well, having your help is
+42075	+		　助かります、切に……」	　truly appreciated...」
 
-42076	Magic the Gandhi	「ゼスじゃ王の次……四天王や私より	「In Zeth she's next to the King... more important than the Four Lords or me.」
-42077	+	　重要人物なんだからね」	
+42076	Magic the Gandhi		「ゼスじゃ王の次……四天王や私より	「In Zeth she's next to the King... more important than the Four Lords or me.」
+42077	+		　重要人物なんだからね」	
 
-42078	Rance	「…………ただのガキの気もするが」	「............She just looks like a regular kid to me.」
+42078	Rance	だる顔	「…………ただのガキの気もするが」	「............She just looks like a regular kid to me.」
 
-42079	Mysteria Tor	「ヒッヒッヒ。	「Hee hee hee.
-42080	+	　どっちも正解さ、カオスマスター」	　Both are correct, Chaos Master.」
+42079	Mysteria Tor	基本	「ヒッヒッヒ。	「Hee hee hee.
+42080	+		　どっちも正解さ、カオスマスター」	　Both are correct, Chaos Master.」
 
-42081	Rance	「めんどくさそうな……というか、	「She looks like a pain... or rather,
-42082	+	　お前までその名で呼ぶなババア」	　don't call me that, you old hag.」
+42081	Rance	真剣	「めんどくさそうな……というか、	「She looks like a pain... or rather,
+42082	+		　お前までその名で呼ぶなババア」	　don't call me that, you old hag.」
 
-42083	Mysteria Tor	「孫に……あんたの主につけて貰った名だろ？	「My grandson... gave me that name because of you, his master, right?
-42084	+	　いいじゃないか、大事にしな」	　It's fine, treasure it.」
+42083	Mysteria Tor	基本	「孫に……あんたの主につけて貰った名だろ？	「My grandson... gave me that name because of you, his master, right?
+42084	+		　いいじゃないか、大事にしな」	　It's fine, treasure it.」
 
-42085	Rance	「主じゃない。それになんか、年とったミラクルに	「I'm not his master. And it feels depressing,
-42086	+	　呼ばれてるみたいで気が滅入る」	　like being called by an old version of Miracle.」
+42085	Rance	だる顔	「主じゃない。それになんか、年とったミラクルに	「I'm not his master. And it feels depressing,
+42086	+		　呼ばれてるみたいで気が滅入る」	　like being called by an old version of Miracle.」
 
-42087	Miracle Tor	「はっはっは！　なんだカオスマスター、愛い奴め。	「Hahaha! What's this, Chaos Master, you cute thing.
-42088	+	　急に世辞を覚えてどういうつもりだ！」	　Suddenly learning how to flatter people, what are you planning!」
+42087	Miracle Tor	笑顔	「はっはっは！　なんだカオスマスター、愛い奴め。	「Hahaha! What's this, Chaos Master, you cute thing.
+42088	+		　急に世辞を覚えてどういうつもりだ！」	　Suddenly learning how to flatter people, what are you planning!」
 
-42089	Rance	「あだっ！　なにしやがる」	「Ouch! What the hell!」
+42089	Rance	怒り	「あだっ！　なにしやがる」	「Ouch! What the hell!」
 
-42090	-	ミラクルが上機嫌でランスの肩を叩く。	Miracle cheerfully slapped Rance on the shoulder.
+42090	-		ミラクルが上機嫌でランスの肩を叩く。	Miracle cheerfully slapped Rance on the shoulder.
 
-42091	Kentou Kanami~	（ああ、おばあさんに似てるって言われるの、	（Ah, so being told she looks like her grandmother
-42092	+	　そんなに褒め言葉なんだ……）	　is such high praise...）
+42091	Kentou Kanami~	基本	（ああ、おばあさんに似てるって言われるの、	（Ah, so being told she looks like her grandmother
+42092	+		　そんなに褒め言葉なんだ……）	　is such high praise...）
 
-42093	Kabachahn the Lightning	「……なにやら騒がしいが……	「...It's quite noisy...
-42094	+	　入るぞ、千鶴子にマジック嬢ちゃん」	　I'm coming in, Chizuko, Magic girl.」
+42093	Kabachahn the Lightning		「……なにやら騒がしいが……	「...It's quite noisy...
+42094	+		　入るぞ、千鶴子にマジック嬢ちゃん」	　I'm coming in, Chizuko, Magic girl.」
 
-42095	-	司令室に雷軍の将、	The Lightning Army general,
-42096	+	カバッハーン・ザ・ライトニングがやって来た。	Kabachahn the Lightning entered the command room.
+42095	-		司令室に雷軍の将、	The Lightning Army general,
+42096	+		カバッハーン・ザ・ライトニングがやって来た。	Kabachahn the Lightning entered the command room.
 
-42097	Yamada Chizuko	「あ、カバッハーン将軍。ご苦労様です」	「Ah, General Kabachahn. Thank you for your hard work.」
+42097	Yamada Chizuko		「あ、カバッハーン将軍。ご苦労様です」	「Ah, General Kabachahn. Thank you for your hard work.」
 
-42098	Rance	「げっ、カミナリじじい！」	「Ugh, the lightning old man!」
+42098	Rance	驚き	「げっ、カミナリじじい！」	「Ugh, the lightning old man!」
 
-42099	Kabachahn the Lightning	「ほう、珍しい顔…………が……」	「Oh, a rare face...... but......」
+42099	Kabachahn the Lightning	基本	「ほう、珍しい顔…………が……」	「Oh, a rare face...... but......」
 
-42100	-	ランス達に目を留めたカバッハーンが、	Kabachahn, who had noticed Rance's group,
-42101	+	ぎょっとした表情で、その隣にいる老魔女を見た。	looked at the old witch beside them with a shocked expression.
+42100	-		ランス達に目を留めたカバッハーンが、	Kabachahn, who had noticed Rance's group,
+42101	+		ぎょっとした表情で、その隣にいる老魔女を見た。	looked at the old witch beside them with a shocked expression.
 
-42102	Magic the Gandhi~	（え……何、あの顔……	（Eh... What is that face...
-42103	+	　あのカバッハーン老が、驚いた……？）	　Old Kabachahn is surprised...?)
+42102	Magic the Gandhi~	驚き	（え……何、あの顔……	（Eh... What is that face...
+42103	+		　あのカバッハーン老が、驚いた……？）	　Old Kabachahn is surprised...?)
 
-42104	Kabachahn the Lightning	「…………ミステリア……トー、か……？」	「............Mysteria... Tor...?」
+42104	Kabachahn the Lightning	基本	「…………ミステリア……トー、か……？」	「............Mysteria... Tor...?」
 
-42105	Mysteria Tor	「おやカバッハーン。久方ぶりだねぇ。	「Oh, Kabachahn. It's been a long time.
-42106	+	　イーーーッヒッヒッッヒ！」	　Eeee hee hee hee!」
+42105	Mysteria Tor		「おやカバッハーン。久方ぶりだねぇ。	「Oh, Kabachahn. It's been a long time.
+42106	+		　イーーーッヒッヒッッヒ！」	　Eeee hee hee hee!」
 
-42107	Kabachahn the Lightning	「…………ふん。亡霊を見たかと思ったわい。	「...Hmph. I thought I was seeing a ghost.
-42108	+	　生きておったのか……また何か企んどるのか」	　So you were alive... Planning something again?」
+42107	Kabachahn the Lightning		「…………ふん。亡霊を見たかと思ったわい。	「...Hmph. I thought I was seeing a ghost.
+42108	+		　生きておったのか……また何か企んどるのか」	　So you were alive... Planning something again?」
 
-42109	Mysteria Tor	「おかげさんでねぇ。オタオタするんじゃないよ。	「Thanks to you. Don't get all flustered.
-42110	+	　雷帝なんていう大層な名が泣くよ」	　The great Lightning Emperor's name will cry.」
+42109	Mysteria Tor		「おかげさんでねぇ。オタオタするんじゃないよ。	「Thanks to you. Don't get all flustered.
+42110	+		　雷帝なんていう大層な名が泣くよ」	　The great Lightning Emperor's name will cry.」
 
-42111	Kabachahn the Lightning	「口の減らんババアじゃな……	「Still got that sharp tongue, you old hag...
-42112	+	　昔と変わったのは見た目だけか」	　The only thing that changed is your appearance.」
+42111	Kabachahn the Lightning		「口の減らんババアじゃな……	「Still got that sharp tongue, you old hag...
+42112	+		　昔と変わったのは見た目だけか」	　The only thing that changed is your appearance.」
 
-42113	Mysteria Tor	「……いいや、もうトシでね。隠居だよ。	「...No, I'm old now. Retired.
-42114	+	　いい後継者にも恵まれたことだしね」	　Luckily I got a fine successor.」
+42113	Mysteria Tor		「……いいや、もうトシでね。隠居だよ。	「...No, I'm old now. Retired.
+42114	+		　いい後継者にも恵まれたことだしね」	　Luckily I got a fine successor.」
 
-42115	-	脇に佇んでいたミラクルが、	Miracle, who had been standing beside her,
-42116	+	祖母に促されて一歩前に出る。	stepped forward at her grandmother's urging.
+42115	-		脇に佇んでいたミラクルが、	Miracle, who had been standing beside her,
+42116	+		祖母に促されて一歩前に出る。	stepped forward at her grandmother's urging.
 
-42117	Miracle Tor	「失礼、雷帝。ミラクル・トーである。	「Excuse me, Lightning Emperor. I am Miracle Tor.
-42118	+	　いずれ世界の王となる者だ」	　The one who will one day become the King of the World.」
+42117	Miracle Tor		「失礼、雷帝。ミラクル・トーである。	「Excuse me, Lightning Emperor. I am Miracle Tor.
+42118	+		　いずれ世界の王となる者だ」	　The one who will one day become the King of the World.」
 
-42119	Kabachahn the Lightning	「ミラクル・トー……その名は聞いていたが、	「Miracle Tor... I had heard the name,
-42120	+	　そうか、トーか……」	　so it's Tor...」
+42119	Kabachahn the Lightning	目閉じ	「ミラクル・トー……その名は聞いていたが、	「Miracle Tor... I had heard the name,
+42120	+		　そうか、トーか……」	　so it's Tor...」
 
-42121	-	なにやら頭痛を堪えるような表情で、	With an expression as if holding back a headache,
-42122	+	カバッハーンは僅かに目を伏せた。	Kabachahn slightly lowered his gaze.
+42121	-		なにやら頭痛を堪えるような表情で、	With an expression as if holding back a headache,
+42122	+		カバッハーンは僅かに目を伏せた。	Kabachahn slightly lowered his gaze.
 
-42123	Miracle Tor	「祖母様。ゼスの雷帝とお知り合いだったのですか」	「Grandmother. You know the Lightning Emperor of Zeth?」
+42123	Miracle Tor	基本	「祖母様。ゼスの雷帝とお知り合いだったのですか」	「Grandmother. You know the Lightning Emperor of Zeth?」
 
-42124	Mysteria Tor	「あんたの祖父さ」	「He's your grandfather.」
+42124	Mysteria Tor		「あんたの祖父さ」	「He's your grandfather.」
 
-42125	Miracle Tor	「……………………は？」	「........................Huh?」
+42125	Miracle Tor		「……………………は？」	「........................Huh?」
 
-42126	Yamada Chizuko	「え…………」	「Eh......」
+42126	Yamada Chizuko		「え…………」	「Eh......」
 
-42127	Magic the Gandhi	「………………！？」	「............!?」
+42127	Magic the Gandhi	驚き	「………………！？」	「............!?」
 
-42128	-	一瞬、場の空気が凍り付いた。	For a moment, the air in the room froze.
+42128	-		一瞬、場の空気が凍り付いた。	For a moment, the air in the room froze.
 
-42129	-	表情を変えなかったのは、	The only ones who didn't change expression
-42130	+	ミステリアとカバッハーンだけだった。	were Mysteria and Kabachahn.
+42129	-		表情を変えなかったのは、	The only ones who didn't change expression
+42130	+		ミステリアとカバッハーンだけだった。	were Mysteria and Kabachahn.
 
-42131	Mysteria Tor	「って言ったら、どうするね？	「What would you do if I said that?
-42132	+	　イッーーヒッヒッヒ！」	　Eeee hee hee hee!」
+42131	Mysteria Tor	基本	「って言ったら、どうするね？	「What would you do if I said that?
+42132	+		　イッーーヒッヒッヒ！」	　Eeee hee hee hee!」
 
-42133	Kabachahn the Lightning	「馬鹿を抜かせ、このクソ魔女が。	「Don't talk nonsense, you shitty witch.
-42134	+	　風評被害も甚だしい」	　That's terrible for my reputation.」
+42133	Kabachahn the Lightning		「馬鹿を抜かせ、このクソ魔女が。	「Don't talk nonsense, you shitty witch.
+42134	+		　風評被害も甚だしい」	　That's terrible for my reputation.」
 
-42135	Magic the Gandhi	「あ、あ、なんだ、冗談……」	「Ah, ah, it was a joke...」
+42135	Magic the Gandhi	驚き	「あ、あ、なんだ、冗談……」	「Ah, ah, it was a joke...」
 
-42136	Kabachahn the Lightning	「このババアの戯れ言に、いちいち付き合うな」	「Don't take this old hag's nonsense seriously.」
+42136	Kabachahn the Lightning	基本	「このババアの戯れ言に、いちいち付き合うな」	「Don't take this old hag's nonsense seriously.」
 
-42137	Miracle Tor	「…………祖母様。	「............Grandmother.
-42138	+	　その冗談は真偽が分かる者が少なすぎて、	　That joke has too few people who know if it's true or not,
-42139	+	　笑い所がありません」	　there's no punchline.」
+42137	Miracle Tor		「…………祖母様。	「............Grandmother.
+42138	+		　その冗談は真偽が分かる者が少なすぎて、	　That joke has too few people who know if it's true or not,
+42139	+		　笑い所がありません」	　there's no punchline.」
 
-42140	Mysteria Tor	「はは、まあちょっとした古馴染みさ」	「Haha, well, just an old acquaintance.」
+42140	Mysteria Tor		「はは、まあちょっとした古馴染みさ」	「Haha, well, just an old acquaintance.」
 
-42141	Kabachahn the Lightning	「ふん。来たからには働いていけ。	「Hmph. Since you're here, make yourself useful.
-42142	+	　わしの方が10は年上なんじゃぞ」	　I'm at least ten years older than you.」
+42141	Kabachahn the Lightning		「ふん。来たからには働いていけ。	「Hmph. Since you're here, make yourself useful.
+42142	+		　わしの方が10は年上なんじゃぞ」	　I'm at least ten years older than you.」
 
-42143	Mysteria Tor	「ま、そうしてやるかね。	「Well, I suppose I can do that.
-42144	+	　孫がいずれ統治する世界だ。	　It's the world my grandson will rule someday.
-42145	+	　少しは地均ししてやっても良かろうさ」	　I can do a little groundwork.」
+42143	Mysteria Tor		「ま、そうしてやるかね。	「Well, I suppose I can do that.
+42144	+		　孫がいずれ統治する世界だ。	　It's the world my grandson will rule someday.
+42145	+		　少しは地均ししてやっても良かろうさ」	　I can do a little groundwork.」
 
-42146	Kentou Kanami	「な、なんか……すごい人たちね……」	「Th-these are some amazing people...」
+42146	Kentou Kanami		「な、なんか……すごい人たちね……」	「Th-these are some amazing people...」
 
-42147	Rance	「ついてけん。	「I can't keep up.
-42148	+	　まああのカミナリじじいがオモチャにされてるのは	　But watching the lightning old man get toyed with
-42149	+	　面白いから、放っておこう」	　is pretty funny, so I'll just leave it.」
+42147	Rance		「ついてけん。	「I can't keep up.
+42148	+		　まああのカミナリじじいがオモチャにされてるのは	　But watching the lightning old man get toyed with
+42149	+		　面白いから、放っておこう」	　is pretty funny, so I'll just leave it.」
 
-42150	Yamada Chizuko	「あ、あの。えーと……こちらの話、	「U-um. Well... Shall we continue our discussion?」
-42151	+	　進めていいでしょうか」	
+42150	Yamada Chizuko		「あ、あの。えーと……こちらの話、	「U-um. Well... Shall we continue our discussion?」
+42151	+		　進めていいでしょうか」	
 
-42152	Kabachahn the Lightning	「無論」	「Of course.」
+42152	Kabachahn the Lightning		「無論」	「Of course.」
 
-42153	Mysteria Tor	「状況を聞こうかね、四天王」	「Let's hear the situation, my Lord.」
+42153	Mysteria Tor		「状況を聞こうかね、四天王」	「Let's hear the situation, my Lord.」
 
-42154	-	その場の、主にルーシーとミステリアに向けて、	Mainly addressing Lucy and Mysteria,
-42155	+	千鶴子が手早く説明を行った。	Chizuko quickly explained the current state.
+42154	-		その場の、主にルーシーとミステリアに向けて、	Mainly addressing Lucy and Mysteria,
+42155	+		千鶴子が手早く説明を行った。	Chizuko quickly explained the current state.
 
-42156	Yamada Chizuko	「……そういうわけで、東部戦線は	「...And so, on the eastern front
-42157	+	　魔人ガルティアが最大の障害となっています」	　the Fiend Galtia is the biggest obstacle.」
+42156	Yamada Chizuko		「……そういうわけで、東部戦線は	「...And so, on the eastern front
+42157	+		　魔人ガルティアが最大の障害となっています」	　the Fiend Galtia is the biggest obstacle.」
 
-42158	Magic the Gandhi	「ある意味、まだ粘れているのはガルティアの	「In a way, the fact that we're still holding on
-42159	+	　やり方のおかげと、言えなくもないけど……」	　is partly thanks to how Galtia does things...」
+42158	Magic the Gandhi		「ある意味、まだ粘れているのはガルティアの	「In a way, the fact that we're still holding on
+42159	+		　やり方のおかげと、言えなくもないけど……」	　is partly thanks to how Galtia does things...」
 
-42160	Kabachahn the Lightning	「雷軍と、アレックスぼうずが残した半分の光軍は、	「The Lightning Army and half the Light Army left by young Alex,
-42161	+	　わしが率いて西部の戦線を担当しとる。	　I'm leading them on the western front.
-42162	+	　状況は、まあ悪い」	　The situation is pretty bad.」
+42160	Kabachahn the Lightning		「雷軍と、アレックスぼうずが残した半分の光軍は、	「The Lightning Army and half the Light Army left by young Alex,
+42161	+		　わしが率いて西部の戦線を担当しとる。	　I'm leading them on the western front.
+42162	+		　状況は、まあ悪い」	　The situation is pretty bad.」
 
-42163	Mysteria Tor	「反攻戦に出るには、カオスマスターが必要……	「To launch a counterattack we need the Chaos Master...
-42164	+	　防戦一方かい」	　So we're purely on the defensive.」
+42163	Mysteria Tor		「反攻戦に出るには、カオスマスターが必要……	「To launch a counterattack we need the Chaos Master...
+42164	+		　防戦一方かい」	　So we're purely on the defensive.」
 
-42165	Kabachahn the Lightning	「首都を奪ってからこっち、やつらの動きは鈍い。	「Since they took the capital their movements have slowed.
-42166	+	　中小規模の部隊が、略奪気分で来る程度じゃ」	　Only small to medium units coming for plunder.」
+42165	Kabachahn the Lightning		「首都を奪ってからこっち、やつらの動きは鈍い。	「Since they took the capital their movements have slowed.
+42166	+		　中小規模の部隊が、略奪気分で来る程度じゃ」	　Only small to medium units coming for plunder.」
 
-42167	Kabachahn the Lightning	「だが、それでも散発的に動くのが数万規模。	「But even then, sporadic attacks in the tens of thousands.
-42168	+	　更にそれとは無関係に、ゲリラ戦力が厳しい。	　On top of that, unrelated guerrilla forces are a serious problem.
-42169	+	　対策がとれん」	　We can't deal with them properly.」
+42167	Kabachahn the Lightning		「だが、それでも散発的に動くのが数万規模。	「But even then, sporadic attacks in the tens of thousands.
+42168	+		　更にそれとは無関係に、ゲリラ戦力が厳しい。	　On top of that, unrelated guerrilla forces are a serious problem.
+42169	+		　対策がとれん」	　We can't deal with them properly.」
 
-42170	Kentou Kanami	「ゲリラですか？」	「Guerrillas?」
+42170	Kentou Kanami		「ゲリラですか？」	「Guerrillas?」
 
-42171	Kabachahn the Lightning	「こちらの士官を隠密裏に拉致する奴がおる。	「There are those secretly kidnapping our officers.
-42172	+	　どうにか手を打たねばならんのだがな……」	　We need to do something about it...」
+42171	Kabachahn the Lightning		「こちらの士官を隠密裏に拉致する奴がおる。	「There are those secretly kidnapping our officers.
+42172	+		　どうにか手を打たねばならんのだがな……」	　We need to do something about it...」
 
-42173	Yamada Chizuko	「根本的には、やはり魔人…………	「Fundamentally, it's still the Fiend...
-42174	+	　ランス総統、ガルティアは……」	　Supreme Leader Rance, about Galtia...」
+42173	Yamada Chizuko		「根本的には、やはり魔人…………	「Fundamentally, it's still the Fiend...
+42174	+		　ランス総統、ガルティアは……」	　Supreme Leader Rance, about Galtia...」
 
-42175	Rance	「今回はちょっとだけしくじった。	「I messed up a little this time.
-42176	+	　だが次は絶対に叩き殺す」	　But next time I'll definitely crush him.」
+42175	Rance		「今回はちょっとだけしくじった。	「I messed up a little this time.
+42176	+		　だが次は絶対に叩き殺す」	　But next time I'll definitely crush him.」
 
-42177	Yamada Chizuko	「そ、そう……それならいいけど……」	「I-I see... That's good then...」
+42177	Yamada Chizuko		「そ、そう……それならいいけど……」	「I-I see... That's good then...」
 
-42178	Magic the Gandhi	「その……大丈夫よね。	「Um... You'll be fine, right?
-42179	+	　負けて……その、死んだり……」	　Don't lose... or, you know, die...」
+42178	Magic the Gandhi	思考	「その……大丈夫よね。	「Um... You'll be fine, right?
+42179	+		　負けて……その、死んだり……」	　Don't lose... or, you know, die...」
 
-42180	Rance	「だーーー！　大食い競争で負けただけだ！	「Gahhh! I just lost an eating contest!
-42181	+	　俺様は心配無用だと言っただろう！」	　I told you there's nothing to worry about!」
+42180	Rance	怒り	「だーーー！　大食い競争で負けただけだ！	「Gahhh! I just lost an eating contest!
+42181	+		　俺様は心配無用だと言っただろう！」	　I told you there's nothing to worry about!」
 
-42182	Magic the Gandhi	「え……お、大食い……？」	「Eh... An eating... contest...?」
+42182	Magic the Gandhi	驚き	「え……お、大食い……？」	「Eh... An eating... contest...?」
 
-42183	Rance	「次は勝つ。そして叩き殺す。	「Next time I'll win. Then I'll crush him.
-42184	+	　なんなら、下剤でも仕込んで…………ん」	　Hell, I could even slip him some laxatives...... hm.」
+42183	Rance	真剣	「次は勝つ。そして叩き殺す。	「Next time I'll win. Then I'll crush him.
+42184	+		　なんなら、下剤でも仕込んで…………ん」	　Hell, I could even slip him some laxatives...... hm.」
 
-42185	-	ふと、ランスの表情が動いた。	Suddenly Rance's expression changed.
+42185	-		ふと、ランスの表情が動いた。	Suddenly Rance's expression changed.
 
-42186	Magic the Gandhi	「……ランス？」	「...Rance?」
+42186	Magic the Gandhi	基本	「……ランス？」	「...Rance?」
 
-42187	Rance	「ふふふ。ふーーーふふふふ」	「Hehehe. Fuuu hehehehe.」
+42187	Rance		「ふふふ。ふーーーふふふふ」	「Hehehe. Fuuu hehehehe.」
 
-42188	Rance	「がはははははは、やはり俺は天才だな！	「Gahahahaha, as expected I'm a genius!
-42189	+	　あのアホをブチ殺す手段を思いついたぞ！」	　I just thought of a way to smash that idiot!」
+42188	Rance	笑顔	「がはははははは、やはり俺は天才だな！	「Gahahahaha, as expected I'm a genius!
+42189	+		　あのアホをブチ殺す手段を思いついたぞ！」	　I just thought of a way to smash that idiot!」
 
-42190	Yamada Chizuko	「ほ、本当！？」	「R-Really!?」
+42190	Yamada Chizuko	基本	「ほ、本当！？」	「R-Really!?」
 
-42191	Rance	「おう。さっさと前線に戻るぞ」	「Yeah. Let's head back to the front right away.」
+42191	Rance		「おう。さっさと前線に戻るぞ」	「Yeah. Let's head back to the front right away.」
 
-42192	Kentou Kanami	「って、今から？　さ、流石に限界なんだけど……」	「Wait, right now? We've already reached our limit...」
+42192	Kentou Kanami	泣き	「って、今から？　さ、流石に限界なんだけど……」	「Wait, right now? We've already reached our limit...」
 
-42193	Caloria Cricket	「……お外、暗いよ？　夜みたい」	「...It's dark outside? Looks like night.」
+42193	Caloria Cricket	困り	「……お外、暗いよ？　夜みたい」	「...It's dark outside? Looks like night.」
 
-42194	Sill Plain	「ランス様。皆様、お疲れですし……」	「Rance-sama. Everyone is tired...」
+42194	Sill Plain	苦笑	「ランス様。皆様、お疲れですし……」	「Rance-sama. Everyone is tired...」
 
-42195	Rance	「む、そうだな……出発は明日にするか」	「Hm, you're right... We'll depart tomorrow.」
+42195	Rance	だる顔	「む、そうだな……出発は明日にするか」	「Hm, you're right... We'll depart tomorrow.」
 
-42196	Yamada Chizuko	「では、部屋を用意させます」	「Then I'll have rooms prepared.」
+42196	Yamada Chizuko	基本	「では、部屋を用意させます」	「Then I'll have rooms prepared.」
 
-42197	Kentou Kanami	「そ、それと、その……	「A-and also, um...
-42198	+	　服の新調をお願いしたいんだけど……」	　we'd like some new clothes...」
+42197	Kentou Kanami	泣き	「そ、それと、その……	「A-and also, um...
+42198	+		　服の新調をお願いしたいんだけど……」	　we'd like some new clothes...」
 
-42199	Sill Plain	「あ、私も……というか、	「Ah, me too... actually,
-42200	+	　みんなだと思いますけど……」	　I think everyone does...」
+42199	Sill Plain	恥	「あ、私も……というか、	「Ah, me too... actually,
+42200	+		　みんなだと思いますけど……」	　I think everyone does...」
 
-42201	Yamada Chizuko	「え、ええ……それはできると思うけど……服？」	「Eh, yes... I think we can do that... clothes?」
+42201	Yamada Chizuko	基本	「え、ええ……それはできると思うけど……服？」	「Eh, yes... I think we can do that... clothes?」
 
-42202	Rance	「なんだ、そのままでもエロくてグッドだったのに」	「What, you all looked plenty erotic as you were.」
+42202	Rance	エロ顔	「なんだ、そのままでもエロくてグッドだったのに」	「What, you all looked plenty erotic as you were.」
 
-42203	Kentou Kanami	「い、いやなの！」	「N-no way!」
+42203	Kentou Kanami	うがー	「い、いやなの！」	「N-no way!」
 
-42204	Magic the Gandhi	「……何があったか、聞かせて貰うからね」	「...I'll be hearing all about what happened.」
+42204	Magic the Gandhi	目閉じ	「……何があったか、聞かせて貰うからね」	「...I'll be hearing all about what happened.」

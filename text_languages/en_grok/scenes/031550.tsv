@@ -3,124 +3,124 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-87965	Athena 2.0	「ぷんぷん」	「Pout pout.」
+87965	Athena 2.0	ぷっぷー	「ぷんぷん」	「Pout pout.」
 
-87966	Rance	「…………」	「............」
+87966	Rance	基本	「…………」	「............」
 
-87967	Athena 2.0	「ぷんぷん、ぷんすかぷんすか」	「Pout pout, pun suka pun suka.」
+87967	Athena 2.0	ぷっぷー	「ぷんぷん、ぷんすかぷんすか」	「Pout pout, pun suka pun suka.」
 
-87968	Rance	「…………」	「............」
+87968	Rance	基本	「…………」	「............」
 
-87969	Athena 2.0	「ぷーん、ぷーん、ぷーん」	「Puuun, puuun, puuun.」
+87969	Athena 2.0	ぷっぷー	「ぷーん、ぷーん、ぷーん」	「Puuun, puuun, puuun.」
 
-87970	Rance	「おーい、シィルー。	「Hey, Siiill.
-87971	+	　あてながなんかうるさいぞー」	　Athena is being noisy again.」
+87970	Rance	だる顔	「おーい、シィルー。	「Hey, Siiill.
+87971	+		　あてながなんかうるさいぞー」	　Athena is being noisy again.」
 
-87972	Sill Plain	「あ、はいはい、はいはい」	「Ah, yes yes, yes yes.」
+87972	Sill Plain	慌て	「あ、はいはい、はいはい」	「Ah, yes yes, yes yes.」
 
-87973	Sill Plain	「あてなちゃん、どうかしたの？」	「Athena-chan, what's wrong?」
+87973	Sill Plain	基本	「あてなちゃん、どうかしたの？」	「Athena-chan, what's wrong?」
 
-87974	Athena 2.0	「ご主人様がエッチしてくれなくて、	「Master won't have sex with me,
-87975	+	　あてなは怒っているのれす」	　so Athena is angry desu.」
+87974	Athena 2.0	ぷっぷー	「ご主人様がエッチしてくれなくて、	「Master won't have sex with me,
+87975	+		　あてなは怒っているのれす」	　so Athena is angry desu.」
 
-87976	Athena 2.0	「毎日一緒にいるのに、	「Even though we're together every day,
-87977	+	　あてなだけ、のけものなのれす、	　only Athena gets left out desu,
-87978	+	　ひどいれす、ぐっすんれす」	　it's mean, sob sob desu.」
+87976	Athena 2.0		「毎日一緒にいるのに、	「Even though we're together every day,
+87977	+		　あてなだけ、のけものなのれす、	　only Athena gets left out desu,
+87978	+		　ひどいれす、ぐっすんれす」	　it's mean, sob sob desu.」
 
-87979	Athena 2.0	「シィルちゃんは毎日のようにしてるのに。	「Sill-chan does it every day.
-87980	+	　これはひいきれす、ずるいれす」	　This is favoritism, unfair desu.」
+87979	Athena 2.0		「シィルちゃんは毎日のようにしてるのに。	「Sill-chan does it every day.
+87980	+		　これはひいきれす、ずるいれす」	　This is favoritism, unfair desu.」
 
-87981	Sill Plain	「えっ、そ、そんなこと……」	「Eh, t-that's not...」
+87981	Sill Plain	恥	「えっ、そ、そんなこと……」	「Eh, t-that's not...」
 
-87982	Athena 2.0	「断固抗議れす、ストライキれす」	「Strong protest desu, strike desu.」
+87982	Athena 2.0	ぷっぷー	「断固抗議れす、ストライキれす」	「Strong protest desu, strike desu.」
 
-87983	Rance	「普段からぐうたら遊んでるお前が	「You who laze around playing every day
-87984	+	　何をストライキする気だ馬鹿者」	　want to go on strike? Idiot.」
+87983	Rance	だる顔	「普段からぐうたら遊んでるお前が	「You who laze around playing every day
+87984	+		　何をストライキする気だ馬鹿者」	　want to go on strike? Idiot.」
 
-87985	Athena 2.0	「どうしてもエッチしてくれないれすか？」	「You really won't have sex with me desu?」
+87985	Athena 2.0	基本	「どうしてもエッチしてくれないれすか？」	「You really won't have sex with me desu?」
 
-87986	Rance	「しない、気分じゃない、今度してやる」	「Not now, not in the mood, I'll do it next time.」
+87986	Rance	真剣	「しない、気分じゃない、今度してやる」	「Not now, not in the mood, I'll do it next time.」
 
-87987	Athena 2.0	「今度っていつれすか？	「When is next time desu?
-87988	+	　明日れすか？　明後日れすか？」	　Tomorrow desu? Day after tomorrow desu?」
+87987	Athena 2.0	基本	「今度っていつれすか？	「When is next time desu?
+87988	+		　明日れすか？　明後日れすか？」	　Tomorrow desu? Day after tomorrow desu?」
 
-87989	Rance	「今度は今度だ」	「Next time is next time.」
+87989	Rance		「今度は今度だ」	「Next time is next time.」
 
-87990	Athena 2.0	「今度じゃ分からないれす。	「I don't understand 'next time' desu.
-87991	+	　はっきりとした日時を書面にして	　Write a clear date and time on paper
-87992	+	　捺印つきで教えてくれるまで離さないれす」	　with a seal before I let go desu.」
+87990	Athena 2.0		「今度じゃ分からないれす。	「I don't understand 'next time' desu.
+87991	+		　はっきりとした日時を書面にして	　Write a clear date and time on paper
+87992	+		　捺印つきで教えてくれるまで離さないれす」	　with a seal before I let go desu.」
 
-87993	Rance	「えーい、うっとうしい！」	「Ei, annoying!」
+87993	Rance	怒り	「えーい、うっとうしい！」	「Ei, annoying!」
 
-87994	Rance	「俺様がいいと言うまで、お前セックス禁止！」	「Until I say so, you're banned from sex!」
+87994	Rance		「俺様がいいと言うまで、お前セックス禁止！」	「Until I say so, you're banned from sex!」
 
-87995	Athena 2.0	「がーーーん！」	「Gaaaan!」
+87995	Athena 2.0	ガーン	「がーーーん！」	「Gaaaan!」
 
-87996	Athena 2.0	「うわーん！　それはあんまりれすー！」	「Uwaaan! That's too mean desuー!」
+87996	Athena 2.0	涙目	「うわーん！　それはあんまりれすー！」	「Uwaaan! That's too mean desuー!」
 
-87997	Sill Plain	「ら、ランス様……	「R-Rance-sama...
-87998	+	　さすがにあてなちゃんが可哀想なような……」	　Even for you, this seems too pitiful for Athena-chan...」
+87997	Sill Plain	恥	「ら、ランス様……	「R-Rance-sama...
+87998	+		　さすがにあてなちゃんが可哀想なような……」	　Even for you, this seems too pitiful for Athena-chan...」
 
-87999	Athena 2.0	「びえーん！　びえーん！」	「Bieeen! Bieeen!」
+87999	Athena 2.0	基本	「びえーん！　びえーん！」	「Bieeen! Bieeen!」
 
-88000	Rance	「…………」	「............」
+88000	Rance		「…………」	「............」
 
-88001	Sill Plain	「あの……ランス様……」	「Um... Rance-sama...」
+88001	Sill Plain	考え中	「あの……ランス様……」	「Um... Rance-sama...」
 
-88002	Rance	「馬鹿、よく見ろ」	「Idiot, look carefully.」
+88002	Rance	基本	「馬鹿、よく見ろ」	「Idiot, look carefully.」
 
-88003	Athena 2.0	「…………」	「............」
+88003	Athena 2.0	涙目	「…………」	「............」
 
-88004	Athena 2.0	「ちらっ……ちらっ……」	「Glance... glance...」
+88004	Athena 2.0	ぷっぷー	「ちらっ……ちらっ……」	「Glance... glance...」
 
-88005	Athena 2.0	「びえーん！」	「Bwaaah!」
+88005	Athena 2.0	涙目	「びえーん！」	「Bwaaah!」
 
-88006	Rance	「ほれ、チラチラと様子を見てるぞ」	「See, she's sneaking peeks at us.」
+88006	Rance	だる顔	「ほれ、チラチラと様子を見てるぞ」	「See, she's sneaking peeks at us.」
 
-88007	Sill Plain	「あっ……」	「Ah...」
+88007	Sill Plain	基本	「あっ……」	「Ah...」
 
-88008	Rance	「お前が泣けばなんでも言うこと聞くから、	「Because you give in to anything when she cries,
-88009	+	　あてながこうなるんだぞ」	　that's why Athena ends up like this.」
+88008	Rance	真剣	「お前が泣けばなんでも言うこと聞くから、	「Because you give in to anything when she cries,
+88009	+		　あてながこうなるんだぞ」	　that's why Athena ends up like this.」
 
-88010	Sill Plain	「うう……でも……」	「Uuu... but...」
+88010	Sill Plain	恥	「うう……でも……」	「Uuu... but...」
 
-88011	Rance	「でももヘチマもない」	「No buts.」
+88011	Rance	真剣	「でももヘチマもない」	「No buts.」
 
-88012	Rance	「大体お前はあてなに限らず甘すぎるぞ。	「You're way too soft not just with Athena.
-88013	+	　リセットにしたって――」	　Even with Reset――」
+88012	Rance		「大体お前はあてなに限らず甘すぎるぞ。	「You're way too soft not just with Athena.
+88013	+		　リセットにしたって――」	　Even with Reset――」
 
-88014	Sill Plain	「うう……すみません……」	「Uuu... I'm sorry...」
+88014	Sill Plain	恥	「うう……すみません……」	「Uuu... I'm sorry...」
 
-88015	Rance	「ん……」	「Hmm...」
+88015	Rance	真剣	「ん……」	「Hmm...」
 
-88016	Rance	「なんか静かだな？」	「It's suddenly quiet?」
+88016	Rance		「なんか静かだな？」	「It's suddenly quiet?」
 
-88017	Athena 2.0	「すぴー……すぴー……」	「Snooze... snooze...」
+88017	Athena 2.0	基本	「すぴー……すぴー……」	「Snooze... snooze...」
 
-88018	Sill Plain	「あ……寝てます……」	「Ah... she's asleep...」
+88018	Sill Plain	慌て	「あ……寝てます……」	「Ah... she's asleep...」
 
-88019	Rance	「こいつは……」	「This girl...」
+88019	Rance	基本	「こいつは……」	「This girl...」
 
-88020	Sill Plain	「泣き疲れちゃったみたいですね」	「She must have cried herself to sleep.」
+88020	Sill Plain	きょとん	「泣き疲れちゃったみたいですね」	「She must have cried herself to sleep.」
 
-88021	Rance	「おい、邪魔だ。起きろー」	「Hey, you're in the way. Wake up.」
+88021	Rance	基本	「おい、邪魔だ。起きろー」	「Hey, you're in the way. Wake up.」
 
-88022	Athena 2.0	「すぴすぴ、すぴーるん……」	「Snooze snooze, snooze...」
+88022	Athena 2.0		「すぴすぴ、すぴーるん……」	「Snooze snooze, snooze...」
 
-88023	Sill Plain	「駄目ですね……」	「No good...」
+88023	Sill Plain	苦笑	「駄目ですね……」	「No good...」
 
-88024	Rance	「ちっ、しゃーないな」	「Tch, can't be helped.」
+88024	Rance	だる顔	「ちっ、しゃーないな」	「Tch, can't be helped.」
 
-88025	Rance	「おい、運ぶからシィル布団敷いとけ」	「Hey Sill, lay out a futon. I'll carry her.」
+88025	Rance	基本	「おい、運ぶからシィル布団敷いとけ」	「Hey Sill, lay out a futon. I'll carry her.」
 
-88026	Sill Plain	「はーい」	「Okay.」
+88026	Sill Plain		「はーい」	「Okay.」
 
-88027	Rance	「よっこいせ。	「Heave ho.
-88028	+	　まったく世話ばかりかける奴だ」	　What a handful this one is.」
+88027	Rance	だる顔	「よっこいせ。	「Heave ho.
+88028	+		　まったく世話ばかりかける奴だ」	　What a handful this one is.」
 
-88029	Athena 2.0	「すやすや、すやすや……」	「Sleepy sleepy...」
+88029	Athena 2.0	基本	「すやすや、すやすや……」	「Sleepy sleepy...」
 
-88030	-	ランスに抱えられながら、	While being carried by Rance,
-88031	+	あてなは幸せそうに笑っていた。	Athena smiled happily.
+88030	-		ランスに抱えられながら、	While being carried by Rance,
+88031	+		あてなは幸せそうに笑っていた。	Athena smiled happily.
 
-88032	Athena 2.0	「えへへ……明日はホームランれす……」	「Ehehe... Tomorrow is home run desu...」
+88032	Athena 2.0		「えへへ……明日はホームランれす……」	「Ehehe... Tomorrow is home run desu...」

@@ -4,41 +4,41 @@
 * Satella	サテラ	Female
 * Hornet	ホーネット	Female
 
-135947	Sill Plain	「…………」	「............」
+135947	Sill Plain	真剣	「…………」	「............」
 
-135948	Rance	「どうした、シィル。	「What's wrong, Sill.
-135949	+	　さっきから暗い顔をしおって」	　You've had a dark expression for a while.」
+135948	Rance	基本	「どうした、シィル。	「What's wrong, Sill.
+135949	+		　さっきから暗い顔をしおって」	　You've had a dark expression for a while.」
 
-135950	Sill Plain	「いえ、その……」	「No, um...」
+135950	Sill Plain	慌て	「いえ、その……」	「No, um...」
 
-135951	Sill Plain	「緊張のせいでしょうか……	「Maybe because of the tension...
-135952	+	　さっきから少し体調が優れなくて……」	　I've been feeling a bit unwell since earlier...」
+135951	Sill Plain	泣き	「緊張のせいでしょうか……	「Maybe because of the tension...
+135952	+		　さっきから少し体調が優れなくて……」	　I've been feeling a bit unwell since earlier...」
 
-135953	Rance	「なんだ、乗り物酔いみたいな顔しおって。	「What, you look like you have motion sickness.
-135954	+	　吐くならエチケット袋にしろよ」	　If you're gonna puke, use an airsick bag.」
+135953	Rance	基本	「なんだ、乗り物酔いみたいな顔しおって。	「What, you look like you have motion sickness.
+135954	+		　吐くならエチケット袋にしろよ」	　If you're gonna puke, use an airsick bag.」
 
-135955	Sill Plain	「うう……そういう感じではなく……」	「Uuu... It's not that kind of feeling...」
+135955	Sill Plain	泣き	「うう……そういう感じではなく……」	「Uuu... It's not that kind of feeling...」
 
-135956	Rance	「？　わけの分からんことを」	「? You're not making sense.」
+135956	Rance	だる顔	「？　わけの分からんことを」	「? You're not making sense.」
 
-135957	-	ランスが次の扉を開いた瞬間、	The moment Rance opened the next door,
-135958	+	一気に『それ』は溢れ出してきた。	『that』 came flooding out all at once.
+135957	-		ランスが次の扉を開いた瞬間、	The moment Rance opened the next door,
+135958	+		一気に『それ』は溢れ出してきた。	『that』 came flooding out all at once.
 
-135959	Rance	「ぐわっ！？　なんだ！？	「Guwah!? What!?
-135960	+	　このモヤモヤは！」	　This hazy feeling!」
+135959	Rance	基本	「ぐわっ！？　なんだ！？	「Guwah!? What!?
+135960	+		　このモヤモヤは！」	　This hazy feeling!」
 
-135961	Satella	「くっ……	「Kuh...
-135962	+	　ケイブリスの体から放たれるオーラ、恐瘴気だ」	　It's the dread miasma aura emitted from Kayblis's body.」
+135961	Satella	不安	「くっ……	「Kuh...
+135962	+		　ケイブリスの体から放たれるオーラ、恐瘴気だ」	　It's the dread miasma aura emitted from Kayblis's body.」
 
-135963	Satella	「瘴気に当てられると	「If exposed to the miasma,
-135964	+	　弱い者から倒れていくぞ、	　the weaker ones will collapse first,
-135965	+	　お前ら、気をしっかりと保て！」	　everyone stay focused!」
+135963	Satella	怒り	「瘴気に当てられると	「If exposed to the miasma,
+135964	+		　弱い者から倒れていくぞ、	　the weaker ones will collapse first,
+135965	+		　お前ら、気をしっかりと保て！」	　everyone stay focused!」
 
-135966	Sill Plain	「は、はいっ……！」	「Y-yes...!」
+135966	Sill Plain	慌て	「は、はいっ……！」	「Y-yes...!」
 
-135967	Rance	「ええい、面倒な奴だな、ケイブリスってのは！」	「Damn, what a troublesome guy, that Kayblis!」
+135967	Rance	だる顔	「ええい、面倒な奴だな、ケイブリスってのは！」	「Damn, what a troublesome guy, that Kayblis!」
 
-135968	Hornet	「ランス総統、編成に気を配って下さい。	「Supreme Leader Rance, please pay attention to the formation.
-135969	+	　倒れた者は戦闘から抜けますから」	　Those who fall will be out of combat.」
+135968	Hornet	基本	「ランス総統、編成に気を配って下さい。	「Supreme Leader Rance, please pay attention to the formation.
+135969	+		　倒れた者は戦闘から抜けますから」	　Those who fall will be out of combat.」
 
-135970	Rance	「ったく、仕方ないな」	「Tch, no choice.」
+135970	Rance		「ったく、仕方ないな」	「Tch, no choice.」

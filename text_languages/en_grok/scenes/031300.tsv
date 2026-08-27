@@ -6,84 +6,84 @@
 * Miracle Tor	ミラクル	Female
 * Kentou Kanami	かなみ	Female
 
-65265	Rance	「あのガキの情報を探せ！	「Search for that brat's information!
-65266	+	　片っ端からとっ捕まえて、通信を調べるのだ！」	　Catch every packet and check the communications!」
+65265	Rance	怒り	「あのガキの情報を探せ！	「Search for that brat's information!
+65266	+		　片っ端からとっ捕まえて、通信を調べるのだ！」	　Catch every packet and check the communications!」
 
-65267	-	ランス達は探索範囲を拡大し、	Rance and the others expanded their search area,
-65268	+	パイアールのパケットを探しては捕らえる。	hunting down and capturing Pi-R's packets.
+65267	-		ランス達は探索範囲を拡大し、	Rance and the others expanded their search area,
+65268	+		パイアールのパケットを探しては捕らえる。	hunting down and capturing Pi-R's packets.
 
-65269	Maria Custard	「んん、これもダメ、これは……関係ない。	「Hmm, this one's no good either, this is... unrelated.
-65270	+	　これは……え、何これ？　読めない文字……」	　This is... eh, what is this? Unreadable characters...」
+65269	Maria Custard	あかんわ	「んん、これもダメ、これは……関係ない。	「Hmm, this one's no good either, this is... unrelated.
+65270	+		　これは……え、何これ？　読めない文字……」	　This is... eh, what is this? Unreadable characters...」
 
-65271	Rance	「マリア、弱点が無理なら居場所でも構わん。	「Maria, if no weaknesses, his location is fine too.
-65272	+	　奴を叩き殺せばあの兵器なんか――」	　If we beat him to death, that weapon--」
+65271	Rance	真剣	「マリア、弱点が無理なら居場所でも構わん。	「Maria, if no weaknesses, his location is fine too.
+65272	+		　奴を叩き殺せばあの兵器なんか――」	　If we beat him to death, that weapon--」
 
-65273	Pi-R	「あぁーー……君たちか」	「Aaaah... It's you guys.」
+65273	Pi-R	基本	「あぁーー……君たちか」	「Aaaah... It's you guys.」
 
-65274	Rance	「ぬ？」	「Nu?」
+65274	Rance	真剣	「ぬ？」	「Nu?」
 
-65275	Pi-R	「なんか通信環境がおかしいし、	「The communication environment is weird,
-65276	+	　アンチウィルスも壊れてるのがあるし……	　and some antivirus is broken...
-65277	+	　何があったかと思ってみれば」	　I wondered what happened.」
+65275	Pi-R	基本	「なんか通信環境がおかしいし、	「The communication environment is weird,
+65276	+		　アンチウィルスも壊れてるのがあるし……	　and some antivirus is broken...
+65277	+		　何があったかと思ってみれば」	　I wondered what happened.」
 
-65278	Satella	「ッ、パイアール！」	「Pi-R!」
+65278	Satella	怒り	「ッ、パイアール！」	「Pi-R!」
 
-65279	Pi-R	「異界に入る事ができるのか……すごいな。	「You can enter other worlds... Amazing.
-65280	+	　そんな手段があるなんて考えもしなかった」	　I never thought of such a method.」
+65279	Pi-R	基本	「異界に入る事ができるのか……すごいな。	「You can enter other worlds... Amazing.
+65280	+		　そんな手段があるなんて考えもしなかった」	　I never thought of such a method.」
 
-65281	Miracle Tor	「魔人パイアール。	「Fiend Pi-R.
-65282	+	　数々の技術、ここに至るまでに見せてもらった。	　I've seen the many technologies up to this point.
-65283	+	　見事の一言に尽きる」	　Truly magnificent.」
+65281	Miracle Tor		「魔人パイアール。	「Fiend Pi-R.
+65282	+		　数々の技術、ここに至るまでに見せてもらった。	　I've seen the many technologies up to this point.
+65283	+		　見事の一言に尽きる」	　Truly magnificent.」
 
-65284	Miracle Tor	「その才、戦いで散らすべきものではあるまい。	「That talent should not be wasted in battle.
-65285	+	　このミラクル・トーの…………」	　This Miracle Tor............」
+65284	Miracle Tor	目閉じ	「その才、戦いで散らすべきものではあるまい。	「That talent should not be wasted in battle.
+65285	+		　このミラクル・トーの…………」	　This Miracle Tor............」
 
-65286	Pi-R	「お断りだよ。くだらない」	「I refuse. It's pointless.」
+65286	Pi-R	基本	「お断りだよ。くだらない」	「I refuse. It's pointless.」
 
-65287	Miracle Tor	「……………………」	「........................」
+65287	Miracle Tor	目閉じ	「……………………」	「........................」
 
-65288	Kentou Kanami~	（最後まで言う前に切り捨てた……）	（He cut her off before she could finish...）
+65288	Kentou Kanami~	基本	（最後まで言う前に切り捨てた……）	（He cut her off before she could finish...）
 
-65289	Pi-R	「昔から、たまにいるんだよね。	「There have always been some like that.
-65290	+	　なんとか懐柔しようとしてくる奴って。	　People who try to win me over somehow.
-65291	+	　人間も魔人も変わらないな」	　Humans and Fiends are the same.」
+65289	Pi-R		「昔から、たまにいるんだよね。	「There have always been some like that.
+65290	+		　なんとか懐柔しようとしてくる奴って。	　People who try to win me over somehow.
+65291	+		　人間も魔人も変わらないな」	　Humans and Fiends are the same.」
 
-65292	Miracle Tor	「聞け、魔人パイアール。	「Listen, Fiend Pi-R.
-65293	+	　目的があるなら余はその手助けを行う用意がある」	　If you have a goal, I am prepared to assist you.」
+65292	Miracle Tor		「聞け、魔人パイアール。	「Listen, Fiend Pi-R.
+65293	+		　目的があるなら余はその手助けを行う用意がある」	　If you have a goal, I am prepared to assist you.」
 
-65294	Miracle Tor	「古今の魔法を初めとしたあらゆる知識。	「All knowledge including ancient and modern magic.
-65295	+	　さらには、異界を巡り新たな可能性を探す事も	　Furthermore, traveling other worlds to seek new possibilities
-65296	+	　可能だ。姉を救うのであれば――」	　is possible. If it's to save your sister--」
+65294	Miracle Tor		「古今の魔法を初めとしたあらゆる知識。	「All knowledge including ancient and modern magic.
+65295	+		　さらには、異界を巡り新たな可能性を探す事も	　Furthermore, traveling other worlds to seek new possibilities
+65296	+		　可能だ。姉を救うのであれば――」	　is possible. If it's to save your sister--」
 
-65297	Pi-R	「黙れよ、猿」	「Shut up, ape.」
+65297	Pi-R	怒り	「黙れよ、猿」	「Shut up, ape.」
 
-65298	-	再び――今度は侮蔑も露わに、	Once again--this time with open contempt,
-65299	+	パイアールは言葉を遮った。	Pi-R cut off the words.
+65298	-		再び――今度は侮蔑も露わに、	Once again--this time with open contempt,
+65299	+		パイアールは言葉を遮った。	Pi-R cut off the words.
 
-65300	Pi-R	「姉さんは、僕が助けるんだ。	「I will save my sister.
-65301	+	　他のゴミどもの手なんか、要らない」	　I don't need help from trash like you.」
+65300	Pi-R		「姉さんは、僕が助けるんだ。	「I will save my sister.
+65301	+		　他のゴミどもの手なんか、要らない」	　I don't need help from trash like you.」
 
-65302	-	それまでとは、態度が一変していた。	His attitude had completely changed.
-65303	+	冷たい殺気に似た敵意が、周囲を音もなく威圧する。	A cold, killing-intent-like hostility silently pressured the surroundings.
+65302	-		それまでとは、態度が一変していた。	His attitude had completely changed.
+65303	+		冷たい殺気に似た敵意が、周囲を音もなく威圧する。	A cold, killing-intent-like hostility silently pressured the surroundings.
 
-65304	Miracle Tor	「くくくく、やはりそう来たか。面白い。	「Kukuku, so that's how it is. Interesting.
-65305	+	　ふふ、くふはははははは！」	　Fufu, kufuhahahahaha!」
+65304	Miracle Tor	笑顔	「くくくく、やはりそう来たか。面白い。	「Kukuku, so that's how it is. Interesting.
+65305	+		　ふふ、くふはははははは！」	　Fufu, kufuhahahahaha!」
 
-65306	Rance	「そして何故こいつは笑う……」	「And why is this guy laughing...」
+65306	Rance	だる顔	「そして何故こいつは笑う……」	「And why is this guy laughing...」
 
-65307	Pi-R	「人間も魔人も戦争も、一切興味はない。	「I have no interest in humans, Fiend, or war.
-65308	+	　僕は姉さんを救えれば、それでいい」	　As long as I can save my sister, that's enough.」
+65307	Pi-R	基本	「人間も魔人も戦争も、一切興味はない。	「I have no interest in humans, Fiend, or war.
+65308	+		　僕は姉さんを救えれば、それでいい」	　As long as I can save my sister, that's enough.」
 
-65309	Rance	「む」	「Mu.」
+65309	Rance	真剣	「む」	「Mu.」
 
-65310	Pi-R	「確実にいきたいし……見くびるのもなんだ。	「I want to be sure... and I won't underestimate you.
-65311	+	　全力で、排除させてもらうよ」	　I'll eliminate you with full power.」
+65310	Pi-R	基本	「確実にいきたいし……見くびるのもなんだ。	「I want to be sure... and I won't underestimate you.
+65311	+		　全力で、排除させてもらうよ」	　I'll eliminate you with full power.」
 
-65312	-	パイアールが手をかざすと、	Pi-R raised his hand,
-65313	+	大量の大型モンスターが現れる。	and a large number of big monsters appeared.
+65312	-		パイアールが手をかざすと、	Pi-R raised his hand,
+65313	+		大量の大型モンスターが現れる。	and a large number of big monsters appeared.
 
-65314	Pi-R	「ここのルームガ―ダーだよ。	「These are the room guards here.
-65315	+	　リミッター解除。全員殺せ」	　Limiter release. Kill them all.」
+65314	Pi-R		「ここのルームガ―ダーだよ。	「These are the room guards here.
+65315	+		　リミッター解除。全員殺せ」	　Limiter release. Kill them all.」
 
-65316	-	こともなげなパイアールの命令一下、	At Pi-R's casual command,
-65317	+	モンスターたちが襲い掛かってきた。	the monsters charged.
+65316	-		こともなげなパイアールの命令一下、	At Pi-R's casual command,
+65317	+		モンスターたちが襲い掛かってきた。	the monsters charged.

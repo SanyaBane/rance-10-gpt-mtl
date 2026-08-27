@@ -4,72 +4,72 @@
 * 3G	３Ｇ	Male
 * Oda Kouhime	香姫	Female
 
-71525	Rance	「暇だ」	「I'm bored.」
+71525	Rance	基本	「暇だ」	「I'm bored.」
 
-71526	Rance	「暇ー、暇ー、暇ー」	「Bored, bored, bored.」
+71526	Rance		「暇ー、暇ー、暇ー」	「Bored, bored, bored.」
 
-71527	Rance	「おい、シィル、暇だぞ」	「Hey Sill, I'm bored.」
+71527	Rance		「おい、シィル、暇だぞ」	「Hey Sill, I'm bored.」
 
-71528	Sill Plain	「う、そうですね……」	「Yes, that's true...」
+71528	Sill Plain	真剣	「う、そうですね……」	「Yes, that's true...」
 
-71529	Sill Plain	「大陸に渡る為の天満橋が、	「The Tenman Bridge needed to cross to the continent
-71530	+	　魔軍に押さえられているので、	　is occupied by the Monster Army,
-71531	+	　いつものように作戦行動が出来ませんから……」	　so we can't do our usual operations...」
+71529	Sill Plain	泣き	「大陸に渡る為の天満橋が、	「The Tenman Bridge needed to cross to the continent
+71530	+		　魔軍に押さえられているので、	　is occupied by the Monster Army,
+71531	+		　いつものように作戦行動が出来ませんから……」	　so we can't do our usual operations...」
 
-71532	Rance	「うむ、だから退屈だ」	「Yeah, that's why I'm bored.」
+71532	Rance	真剣	「うむ、だから退屈だ」	「Yeah, that's why I'm bored.」
 
-71533	Rance	「…………」	「............」
+71533	Rance		「…………」	「............」
 
-71534	Rance	「うちわでシィルのスカートでも	「Maybe I'll use a fan to blow up Sill's skirt
-71535	+	　仰いで楽しむか」	　and enjoy the view.」
+71534	Rance	基本	「うちわでシィルのスカートでも	「Maybe I'll use a fan to blow up Sill's skirt
+71535	+		　仰いで楽しむか」	　and enjoy the view.」
 
-71536	Sill Plain	「わっ、きゃっ、	「Wah, kyaa,
-71537	+	　ランス様、そ、そんなことしちゃ駄目です〜」	　Rance-sama, y, you can't do that~」
+71536	Sill Plain	恥	「わっ、きゃっ、	「Wah, kyaa,
+71537	+		　ランス様、そ、そんなことしちゃ駄目です〜」	　Rance-sama, y, you can't do that~」
 
-71538	Rance	「おほほほ、このヒラヒラしてチラチラと	「Ohohoho, this fluttering and flashing view
-71539	+	　見える感じが新鮮で中々……	　is fresh and quite nice...
-71540	+	　あっ、こら、スカートを手で押さえるな」	　Hey, don't hold your skirt down with your hands.」
+71538	Rance	基本	「おほほほ、このヒラヒラしてチラチラと	「Ohohoho, this fluttering and flashing view
+71539	+		　見える感じが新鮮で中々……	　is fresh and quite nice...
+71540	+		　あっ、こら、スカートを手で押さえるな」	　Hey, don't hold your skirt down with your hands.」
 
-71541	Sill Plain	「そ、そんなこと言われてもぉ……	「Even if you say that...
-71542	+	　いやぁ〜〜〜ん！」	　Nooo~~~!」
+71541	Sill Plain	恥	「そ、そんなこと言われてもぉ……	「Even if you say that...
+71542	+		　いやぁ〜〜〜ん！」	　Nooo~~~!」
 
-71543	Rance	「がはは、グッドだー！」	「Gahaha, good!」
+71543	Rance	基本	「がはは、グッドだー！」	「Gahaha, good!」
 
-71544	-	その会話を聞くともなしに聞いていた	While half-listening to that conversation,
-71545	+	隣の部屋では３Ｇがイライラしていた。	3G was getting irritated in the next room.
+71544	-		その会話を聞くともなしに聞いていた	While half-listening to that conversation,
+71545	+		隣の部屋では３Ｇがイライラしていた。	3G was getting irritated in the next room.
 
-71546	3G	「むむむ……	「Mumumu...
-71547	+	　あの男は大した活動もせずにだらだら……」	　That man is just lazing around without doing much...」
+71546	3G		「むむむ……	「Mumumu...
+71547	+		　あの男は大した活動もせずにだらだら……」	　That man is just lazing around without doing much...」
 
-71548	3G	「来る日も来る日も……」	「Day after day...」
+71548	3G		「来る日も来る日も……」	「Day after day...」
 
-71549	3G	「むっ！　こうなれば！」	「Hmph! If that's the case!」
+71549	3G		「むっ！　こうなれば！」	「Hmph! If that's the case!」
 
-71550	3G	「儂だけでも戦場にー！×３」	「Even if it's just us, to the battlefield! ×3」
+71550	3G		「儂だけでも戦場にー！×３」	「Even if it's just us, to the battlefield! ×3」
 
-71551	Oda Kouhime	「３Ｇ」	「3G.」
+71551	Oda Kouhime	真剣	「３Ｇ」	「3G.」
 
-71552	3G	「うぐっ……」	「Ugh...」
+71552	3G	基本	「うぐっ……」	「Ugh...」
 
-71553	3G	「…………はあ」	「............Haa」
+71553	3G		「…………はあ」	「............Haa」
 
-71554	3G	「分かっております。	「I understand.
-71555	+	　今は動こうと思っても動けぬ時期」	　This is a time when we cannot move even if we want to.」
+71554	3G		「分かっております。	「I understand.
+71555	+		　今は動こうと思っても動けぬ時期」	　This is a time when we cannot move even if we want to.」
 
-71556	Oda Kouhime	「はい、兄様もきっとそれを分かっています」	「Yes, brother surely understands that too.」
+71556	Oda Kouhime		「はい、兄様もきっとそれを分かっています」	「Yes, brother surely understands that too.」
 
-71557	Oda Kouhime	「兄様には兄様の考えがおありになる筈。	「Brother must have his own thoughts.
-71558	+	　私達はそれを信じて待ちましょう」	　Let's believe in him and wait.」
+71557	Oda Kouhime		「兄様には兄様の考えがおありになる筈。	「Brother must have his own thoughts.
+71558	+		　私達はそれを信じて待ちましょう」	　Let's believe in him and wait.」
 
-71559	3G	「そうですな。	「Indeed.」
-71560	+	　頭を疑っては組織は成り立ちませぬ」	　Doubting the head will prevent the organization from functioning.」
+71559	3G		「そうですな。	「Indeed.」
+71560	+		　頭を疑っては組織は成り立ちませぬ」	　Doubting the head will prevent the organization from functioning.」
 
-71561	3G	「ですが……」	「However...」
+71561	3G		「ですが……」	「However...」
 
-71562	3G	「やはり……」	「Still...」
+71562	3G		「やはり……」	「Still...」
 
-71563	3G	「焦れますな……×３」	「It's frustrating... ×3」
+71563	3G		「焦れますな……×３」	「It's frustrating... ×3」
 
-71564	Oda Kouhime	「今は……耐えましょう……」	「For now... we must endure...」
+71564	Oda Kouhime	真剣	「今は……耐えましょう……」	「For now... we must endure...」
 
-71565	-	ランスは暇を潰して遊んだ。	Rance killed time by playing around.
+71565	-		ランスは暇を潰して遊んだ。	Rance killed time by playing around.

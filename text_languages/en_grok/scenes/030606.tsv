@@ -10,141 +10,141 @@
 * Red Monster Soldier	汎用魔物兵赤	Male
 * Pitten Chao	ピッテン	Male
 
-18054	Monster Captain	「追え追え追え！　片っ端から人数突っ込め！	「After them! Chase them! Throw every man we have at them!
-18055	+	　ぶっ殺したら勲章もんだぞ！」	Kill them and you'll get a medal!」
+18054	Monster Captain	基本	「追え追え追え！　片っ端から人数突っ込め！	「After them! Chase them! Throw every man we have at them!
+18055	+		　ぶっ殺したら勲章もんだぞ！」	Kill them and you'll get a medal!」
 
-18056	Rance	「がーーーー！	「Gaaaaa!
-18057	+	　調子に乗りやがって雑魚どもがー―！」	Don't get cocky, you pieces of trash!」
+18056	Rance	怒り	「がーーーー！	「Gaaaaa!
+18057	+		　調子に乗りやがって雑魚どもがー―！」	Don't get cocky, you pieces of trash!」
 
-18058	-	作戦行動中、魔軍に見つかり、	Spotted by the Monster Army during an operation,
-18059	+	ランス達は多勢に無勢で逃げだした。	Rance and the others fled from the overwhelming numbers.
+18058	-		作戦行動中、魔軍に見つかり、	Spotted by the Monster Army during an operation,
+18059	+		ランス達は多勢に無勢で逃げだした。	Rance and the others fled from the overwhelming numbers.
 
-18060	Sill Plain	「はひ、はぁ、はぁっ……！」	「Hahi, haa, haa...!」
+18060	Sill Plain	慌て	「はひ、はぁ、はぁっ……！」	「Hahi, haa, haa...!」
 
-18061	Rance	「あっ、こら馬鹿シィル！	「Hey, you stupid Sill!
-18062	+	　お前体力切れたーとかほざくなよ！」	Don't you dare start whining about being out of stamina!」
+18061	Rance	怒り	「あっ、こら馬鹿シィル！	「Hey, you stupid Sill!
+18062	+		　お前体力切れたーとかほざくなよ！」	Don't you dare start whining about being out of stamina!」
 
-18063	Sill Plain	「はぁふぅ、だ、大丈夫、ですけど……っ、	「Haah, fuu, I-I'm okay, but...
-18064	+	　そろそろ、限界で……！」	I'm reaching my limit...!」
+18063	Sill Plain	慌て	「はぁふぅ、だ、大丈夫、ですけど……っ、	「Haah, fuu, I-I'm okay, but...
+18064	+		　そろそろ、限界で……！」	I'm reaching my limit...!」
 
-18065	Alkanese Rize	「くっそ、しつっこい奴らだな！	「Damn, these guys are persistent!
-18066	+	　アニキ、いっそやっちまうか！？」	Boss, should we just take them all out!?」
+18065	Alkanese Rize	怒り	「くっそ、しつっこい奴らだな！	「Damn, these guys are persistent!
+18066	+		　アニキ、いっそやっちまうか！？」	Boss, should we just take them all out!?」
 
-18067	Rance	「ぐぬぬぬぬぬ！」	「Gununununu!」
+18067	Rance	イライラ	「ぐぬぬぬぬぬ！」	「Gununununu!」
 
-18068	Poron Chao	「総統さん。しんがりを置いて、	「Supreme Leader. Let's leave a rearguard
-18069	+	　戦いながら逃げましょう」	and escape while fighting them off.」
+18068	Poron Chao	基本	「総統さん。しんがりを置いて、	「Supreme Leader. Let's leave a rearguard
+18069	+		　戦いながら逃げましょう」	and escape while fighting them off.」
 
-18070	Rance	「むっ、生意気なガキめ……	「Hmph, cheeky brat...
-18071	+	　よし、じゃあお前いけ。	Fine then, you go.
-18072	+	　死んでこい、がははははは！」	Go die for us, gahahahaha!」
+18070	Rance	笑顔	「むっ、生意気なガキめ……	「Hmph, cheeky brat...
+18071	+		　よし、じゃあお前いけ。	Fine then, you go.
+18072	+		　死んでこい、がははははは！」	Go die for us, gahahahaha!」
 
-18073	Poron Chao	「そのつもりでした。	「That was my intention.
-18074	+	　では行ってきますね」	I'll be going now.」
+18073	Poron Chao	基本	「そのつもりでした。	「That was my intention.
+18074	+		　では行ってきますね」	I'll be going now.」
 
-18075	Rance	「へっ……」	「Heh...」
+18075	Rance	驚き	「へっ……」	「Heh...」
 
-18076	Sill Plain	「い、行っちゃいましたよ、ランス様……」	「H-He really went, Master Rance...」
+18076	Sill Plain	慌て	「い、行っちゃいましたよ、ランス様……」	「H-He really went, Master Rance...」
 
-18077	Rance	「……まあ、好都合だ。	「...Well, it works out.
-18078	+	　奴が言い出したんだ。死んでも俺のせいじゃない」	He's the one who suggested it. If he dies, it's not my fault.」
+18077	Rance	だる顔	「……まあ、好都合だ。	「...Well, it works out.
+18078	+		　奴が言い出したんだ。死んでも俺のせいじゃない」	He's the one who suggested it. If he dies, it's not my fault.」
 
-18079	Rocky Bank	「わ、わひーーーーーー！	「Wa-Wahiiiiiiii!
-18080	+	　追いつかれるーーーー！」	They're gonna catch meeeee!」
+18079	Rocky Bank	基本	「わ、わひーーーーーー！	「Wa-Wahiiiiiiii!
+18080	+		　追いつかれるーーーー！」	They're gonna catch meeeee!」
 
-18081	Green Monster Soldier	「おおおおッ、くたばれ、このッ……！」	「Ooooh, drop dead, you...!」
+18081	Green Monster Soldier		「おおおおッ、くたばれ、このッ……！」	「Ooooh, drop dead, you...!」
 
-18082	Poron Chao	「はッ！」	「Ha!」
+18082	Poron Chao		「はッ！」	「Ha!」
 
-18083	Green Monster Soldier	「ぐへええっ！？」	「Guheee?!」
+18083	Green Monster Soldier		「ぐへええっ！？」	「Guheee?!」
 
-18084	-	割って入ったポロンの跳び蹴りが、	Poron intervened with a flying kick,
-18085	+	魔物兵の喉笛に突き刺さった。	striking the monster soldier square in the throat.
+18084	-		割って入ったポロンの跳び蹴りが、	Poron intervened with a flying kick,
+18085	+		魔物兵の喉笛に突き刺さった。	striking the monster soldier square in the throat.
 
-18086	Rocky Bank	「あ、あの……」	「Um... excuse me...」
+18086	Rocky Bank		「あ、あの……」	「Um... excuse me...」
 
-18087	Poron Chao	「まだ走れますか？　最後尾に付くので、どうぞ」	「Can you still run? I'll take the rear, so go ahead.」
+18087	Poron Chao		「まだ走れますか？　最後尾に付くので、どうぞ」	「Can you still run? I'll take the rear, so go ahead.」
 
-18088	Rocky Bank	「は、はいっ……！　ありがとうございますだ！	「Y-Yes...! Thank you so much!
-18089	+	　でっ、でも、王様にそんな……！」	B-But, I can't let a King do that for me...!」
+18088	Rocky Bank		「は、はいっ……！　ありがとうございますだ！	「Y-Yes...! Thank you so much!
+18089	+		　でっ、でも、王様にそんな……！」	B-But, I can't let a King do that for me...!」
 
-18090	Poron Chao	「……大丈夫ですよ、好きでやってますから」	「...It's okay, I'm doing this because I want to.」
+18090	Poron Chao		「……大丈夫ですよ、好きでやってますから」	「...It's okay, I'm doing this because I want to.」
 
-18091	Rocky Bank	「へ？」	「Huh?」
+18091	Rocky Bank		「へ？」	「Huh?」
 
-18092	Poron Chao	「さ、来ましたよ。早く早く」	「Look, they're coming. Hurry, hurry.」
+18092	Poron Chao		「さ、来ましたよ。早く早く」	「Look, they're coming. Hurry, hurry.」
 
-18093	Rocky Bank	「は、はいだすっ！」	「Y-Yes, sir!」
+18093	Rocky Bank		「は、はいだすっ！」	「Y-Yes, sir!」
 
-18094	Green Monster Soldier	「この、人間が…………！」	「You damn human...!」
+18094	Green Monster Soldier		「この、人間が…………！」	「You damn human...!」
 
-18095	Poron Chao	「ッ……！」	「...!」
+18095	Poron Chao		「ッ……！」	「...!」
 
-18096	Green Monster Soldier	「ごふっ！？」	「Gofuh?!」
+18096	Green Monster Soldier		「ごふっ！？」	「Gofuh?!」
 
-18097	-	殺到し、斧で頭を叩き割ろうとする魔物兵に対し、	As a monster soldier rushed in to split his head with an axe,
-18098	+	ポロンは素早く懐に飛び込み、胴体に拳を叩き込む。	Poron swiftly closed the distance and drove a fist into its torso.
+18097	-		殺到し、斧で頭を叩き割ろうとする魔物兵に対し、	As a monster soldier rushed in to split his head with an axe,
+18098	+		ポロンは素早く懐に飛び込み、胴体に拳を叩き込む。	Poron swiftly closed the distance and drove a fist into its torso.
 
-18099	Blue Monster Soldier	「貴さッ……！」	「You...!」
+18099	Blue Monster Soldier		「貴さッ……！」	「You...!」
 
-18100	Blue Monster Soldier	「ぐ、がふっ……！」	「Gu, gafuh...!」
+18100	Blue Monster Soldier		「ぐ、がふっ……！」	「Gu, gafuh...!」
 
-18101	-	更に突き上げた拳が、	A follow-up uppercut
-18102	+	二人目の魔物兵の顎を突き砕く。	shattered the second monster soldier's jaw.
+18101	-		更に突き上げた拳が、	A follow-up uppercut
+18102	+		二人目の魔物兵の顎を突き砕く。	shattered the second monster soldier's jaw.
 
-18103	Red Monster Soldier	「ぐっ、なんだこいつ！	「Gugh, what is this kid?!
-18104	+	　一人で我々を食い止める気か！」	Does he plan on holding us off all by himself?!」
+18103	Red Monster Soldier		「ぐっ、なんだこいつ！	「Gugh, what is this kid?!
+18104	+		　一人で我々を食い止める気か！」	Does he plan on holding us off all by himself?!」
 
-18105	Blue Monster Soldier	「殺せ！」	「Kill him!」
+18105	Blue Monster Soldier		「殺せ！」	「Kill him!」
 
-18106	Poron Chao	「―――――――ッ！」	「―――――――!」
+18106	Poron Chao		「―――――――ッ！」	「―――――――!」
 
-18107	Red Monster Soldier	「が、ぐふっ……！」	「Ga, gufuh...!」
+18107	Red Monster Soldier		「が、ぐふっ……！」	「Ga, gufuh...!」
 
-18108	Green Monster Soldier	「く、くそっ！　応援を呼べ！	「D-Damn it! Call for backup!
-18109	+	　こっちだ！」	Over here!」
+18108	Green Monster Soldier		「く、くそっ！　応援を呼べ！	「D-Damn it! Call for backup!
+18109	+		　こっちだ！」	Over here!」
 
-18110	Poron Chao	「わ……来た来た。そろそろだ、っと！」	「Whoa... here they come. It's about time, then!」
+18110	Poron Chao		「わ……来た来た。そろそろだ、っと！」	「Whoa... here they come. It's about time, then!」
 
-18111	-	不意に、ポロンは背中を向けて逃げ出した。	Suddenly, Poron turned his back and began running away.
+18111	-		不意に、ポロンは背中を向けて逃げ出した。	Suddenly, Poron turned his back and began running away.
 
-18112	Green Monster Soldier	「なっ、この…………！	「What, you...!
-18113	+	　今さら逃がすと思うか！　殺せ！」	You think we'll let you escape now?! Kill him!」
+18112	Green Monster Soldier		「なっ、この…………！	「What, you...!
+18113	+		　今さら逃がすと思うか！　殺せ！」	You think we'll let you escape now?! Kill him!」
 
-18114	Pitten Chao	「あいつは昔、少々特殊な冒険をしてな」	「He went on a rather unique adventure in the past.」
+18114	Pitten Chao		「あいつは昔、少々特殊な冒険をしてな」	「He went on a rather unique adventure in the past.」
 
-18115	Rance	「特殊？」	「Unique?」
+18115	Rance	真剣	「特殊？」	「Unique?」
 
-18116	-	追いついたピッテンは、	Pitten, who had caught up,
-18117	+	走りながら器用に頭を抱えた。	skillfully clasped his hands behind his head while running.
+18116	-		追いついたピッテンは、	Pitten, who had caught up,
+18117	+		走りながら器用に頭を抱えた。	skillfully clasped his hands behind his head while running.
 
-18118	Pitten Chao	「まあ……色々は省くが、	「Well... I'll skip the details,
-18119	+	　どうもずっと、冒険の最中に	but apparently, during his adventure,
-18120	+	　背後から追いかけられ続けていたらしい」	he was constantly being chased from behind.」
+18118	Pitten Chao	基本	「まあ……色々は省くが、	「Well... I'll skip the details,
+18119	+		　どうもずっと、冒険の最中に	but apparently, during his adventure,
+18120	+		　背後から追いかけられ続けていたらしい」	he was constantly being chased from behind.」
 
-18121	Rance	「なんだそりゃ。何にだ？」	「What's that supposed to mean? Chased by what?」
+18121	Rance	だる顔	「なんだそりゃ。何にだ？」	「What's that supposed to mean? Chased by what?」
 
-18122	Pitten Chao	「そこは俺にもよく分からん。	「I'm not entirely sure about that part.
-18123	+	　精神的なものかもしれん」	It might have been something psychological.」
+18122	Pitten Chao	フッ	「そこは俺にもよく分からん。	「I'm not entirely sure about that part.
+18123	+		　精神的なものかもしれん」	It might have been something psychological.」
 
-18124	Pitten Chao	「……が、今でも、ギリギリで追いかけられながら	「...But it seems that even now, running while being
-18125	+	　走るのが性に合うようになったらしい」	chased at the last second has become second nature to him.」
+18124	Pitten Chao	基本	「……が、今でも、ギリギリで追いかけられながら	「...But it seems that even now, running while being
+18125	+		　走るのが性に合うようになったらしい」	chased at the last second has become second nature to him.」
 
-18126	Rance	「……千姫みたいなもんか？」	「...Is he like Senhime or something?」
+18126	Rance	だる顔	「……千姫みたいなもんか？」	「...Is he like Senhime or something?」
 
-18127	Pitten Chao	「起きる事象はよく似ているが……	「The results are similar, but...
-18128	+	　ま、元々人助けを苦にしない性格だからな」	Well, he's always been the type who doesn't mind helping others.」
+18127	Pitten Chao	基本	「起きる事象はよく似ているが……	「The results are similar, but...
+18128	+		　ま、元々人助けを苦にしない性格だからな」	Well, he's always been the type who doesn't mind helping others.」
 
-18129	Alkanese Rize	「ほっといていいのかい？　王様だろ？」	「Is it really okay to leave him? He's a King, right?」
+18129	Alkanese Rize	困り	「ほっといていいのかい？　王様だろ？」	「Is it really okay to leave him? He's a King, right?」
 
-18130	Pitten Chao	「あいつなら大丈夫さ」	「He'll be fine.」
+18130	Pitten Chao	フッ	「あいつなら大丈夫さ」	「He'll be fine.」
 
-18131	Rance	「良くわからん兄弟だな、お前ら……」	「You brothers are hard to figure out...」
+18131	Rance	真剣	「良くわからん兄弟だな、お前ら……」	「You brothers are hard to figure out...」
 
-18132	Poron Chao	「は、ああぁっ……！	「Ha, aaah...!
-18133	+	　人間の足で走れるって、いいなぁ……！」	Running with human legs feels so good...!」
+18132	Poron Chao	基本	「は、ああぁっ……！	「Ha, aaah...!
+18133	+		　人間の足で走れるって、いいなぁ……！」	Running with human legs feels so good...!」
 
-18134	Green Monster Soldier	「追えーーーーー！」	「After him!」
+18134	Green Monster Soldier		「追えーーーーー！」	「After him!」
 
-18135	-	ポロンはしんがりを務めながら、	Serving as the rearguard,
-18136	+	風のように疾走していった。	Poron sprinted away like the wind.
+18135	-		ポロンはしんがりを務めながら、	Serving as the rearguard,
+18136	+		風のように疾走していった。	Poron sprinted away like the wind.

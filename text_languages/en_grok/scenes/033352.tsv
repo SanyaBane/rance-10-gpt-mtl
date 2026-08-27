@@ -10,205 +10,205 @@
 * Kentou Uzume	ウズメ２	Female
 * Zance Leazas	ザンス２	Male
 
-230036	-	朝――	Morning――
+230036	-		朝――	Morning――
 
-230037	-	あなたはいつものようにテントの中で目を覚ました。	You woke up inside the tent like usual.
+230037	-		あなたはいつものようにテントの中で目を覚ました。	You woke up inside the tent like usual.
 
-230038	El Mofus	「…………。」	「............」
+230038	El Mofus	基本	「…………。」	「............」
 
-230039	-	その直後、寝袋の中で普段との違いに気づく。	Right after that, you noticed something different while still in your sleeping bag.
+230039	-		その直後、寝袋の中で普段との違いに気づく。	Right after that, you noticed something different while still in your sleeping bag.
 
-230040	-	顔が冷たかった。	Your face felt cold.
+230040	-		顔が冷たかった。	Your face felt cold.
 
-230041	-	どうやらよほど気温が低いらしい。	The temperature must be extremely low.
-230042	+	試しに息を吐いてみるとテント内にも関わらず、	When you tried breathing out, even inside the tent,
-230043	+	息が白くなって宙に溶けていった。	your breath turned white and faded into the air.
+230041	-		どうやらよほど気温が低いらしい。	The temperature must be extremely low.
+230042	+		試しに息を吐いてみるとテント内にも関わらず、	When you tried breathing out, even inside the tent,
+230043	+		息が白くなって宙に溶けていった。	your breath turned white and faded into the air.
 
-230044	Nagata-kun	「おう、起きたか、＜エール＞。	「Yo, you're up, ＜エール＞.
-230045	+	　おはよーさん」	　Morning.」
+230044	Nagata-kun		「おう、起きたか、＜エール＞。	「Yo, you're up, ＜エール＞.
+230045	+		　おはよーさん」	　Morning.」
 
-230046	Nagata-kun	「どうよ、この髪のセット！　今日は会心の出来！	「How's this hairdo! Today's masterpiece!
-230047	+	　マジ神入ってね！？　イカしすぎじゃね！？」	　It's seriously divine, right!? Way too cool, yeah!?」
+230046	Nagata-kun		「どうよ、この髪のセット！　今日は会心の出来！	「How's this hairdo! Today's masterpiece!
+230047	+		　マジ神入ってね！？　イカしすぎじゃね！？」	　It's seriously divine, right!? Way too cool, yeah!?」
 
-230048	-	どの角度から眺めても、	No matter which angle you looked from,
-230049	+	あなたには昨日との違いが分からなかった。	you couldn't see any difference from yesterday.
+230048	-		どの角度から眺めても、	No matter which angle you looked from,
+230049	+		あなたには昨日との違いが分からなかった。	you couldn't see any difference from yesterday.
 
-230050	Nagata-kun	「ん？　寒いか？	「Hm? Cold?
-230051	+	　でもテント内はまだマシだぜ」	　But it's still better inside the tent.」
+230050	Nagata-kun		「ん？　寒いか？	「Hm? Cold?
+230051	+		　でもテント内はまだマシだぜ」	　But it's still better inside the tent.」
 
-230052	Nagata-kun	「うっし、そろそろ行くか！	「Alright, time to head out!
-230053	+	　あ、服は着込んでから行けよな」	　Oh, make sure you layer up before going out.」
+230052	Nagata-kun		「うっし、そろそろ行くか！	「Alright, time to head out!
+230053	+		　あ、服は着込んでから行けよな」	　Oh, make sure you layer up before going out.」
 
-230054	-	準備を済ませた長田君と共に	Together with Nagata-kun who had finished preparing,
-230055	+	あなたはテントの外に出た。	you stepped out of the tent.
+230054	-		準備を済ませた長田君と共に	Together with Nagata-kun who had finished preparing,
+230055	+		あなたはテントの外に出た。	you stepped out of the tent.
 
-230056	Nagata-kun	「うおっ、さぶっ！	「Whoa, it's freezing!
-230057	+	　朝は冷えるなぁ……！」	　Mornings are brutal out here...!」
+230056	Nagata-kun		「うおっ、さぶっ！	「Whoa, it's freezing!
+230057	+		　朝は冷えるなぁ……！」	　Mornings are brutal out here...!」
 
-230058	-	景色が今までとまったく変わっていた。	The scenery had completely changed from before.
+230058	-		景色が今までとまったく変わっていた。	The scenery had completely changed from before.
 
-230059	-	寝起きの体温の低い状態で	With your body still cold from just waking up,
-230060	+	一面の銀世界の中にいると、	being in this vast silver world made it feel
-230061	+	内臓まで凍り付くようだった。	like even your insides were freezing solid.
+230059	-		寝起きの体温の低い状態で	With your body still cold from just waking up,
+230060	+		一面の銀世界の中にいると、	being in this vast silver world made it feel
+230061	+		内臓まで凍り付くようだった。	like even your insides were freezing solid.
 
-230062	Nagata-kun	「う〜〜〜……	「Uuuu...
-230063	+	　鼻で呼吸すると鼻の中が痛いよぉ……」	　Breathing through my nose hurts...」
+230062	Nagata-kun		「う〜〜〜……	「Uuuu...
+230063	+		　鼻で呼吸すると鼻の中が痛いよぉ……」	　Breathing through my nose hurts...」
 
-230064	Nagata-kun	「おい、＜エール＞！　焚き火、焚き火！	「Hey, ＜エール＞! Campfire, campfire!
-230065	+	　火のところに行くぞ！」	　Let's get to the fire!」
+230064	Nagata-kun		「おい、＜エール＞！　焚き火、焚き火！	「Hey, ＜エール＞! Campfire, campfire!
+230065	+		　火のところに行くぞ！」	　Let's get to the fire!」
 
-230066	-	先を争うようにあなた達は	You both rushed
-230067	+	焚き火の前に陣取り手をかざした。	and warmed your hands in front of the campfire.
+230066	-		先を争うようにあなた達は	You both rushed
+230067	+		焚き火の前に陣取り手をかざした。	and warmed your hands in front of the campfire.
 
-230068	-	体が温まるのと同時に、	As your body warmed up,
-230069	+	じわじわと掌が痒くなるのを感じながら	you felt your palms slowly start to itch
-230070	+	あなた達は同時に溜め息を吐く。	and both let out a sigh at the same time.
+230068	-		体が温まるのと同時に、	As your body warmed up,
+230069	+		じわじわと掌が痒くなるのを感じながら	you felt your palms slowly start to itch
+230070	+		あなた達は同時に溜め息を吐く。	and both let out a sigh at the same time.
 
-230071	Nagata-kun	「ああ……しかしこうして雪の中にいると、	「Ahh... But being in all this snow really makes me feel
-230072	+	　マジ、ヘルマンに来たんだなーって気がするなあ」	　like we've actually arrived in Helman.」
+230071	Nagata-kun		「ああ……しかしこうして雪の中にいると、	「Ahh... But being in all this snow really makes me feel
+230072	+		　マジ、ヘルマンに来たんだなーって気がするなあ」	　like we've actually arrived in Helman.」
 
-230073	Reset Kalar	「あ、おはよー、二人とも。	「Ah, good morning you two.
-230074	+	　今朝は冷えるねー」	　It's really cold this morning.」
+230073	Reset Kalar		「あ、おはよー、二人とも。	「Ah, good morning you two.
+230074	+		　今朝は冷えるねー」	　It's really cold this morning.」
 
-230075	-	サクサクと雪を踏みながら、	Crunching through the snow,
-230076	+	大量のお皿を持ったリセットが笑いかけてきた。	Reset approached carrying a big stack of plates with a smile.
-230077	+	寒さ故か少しだけほっぺたが赤い。	Her cheeks were a bit red from the cold.
+230075	-		サクサクと雪を踏みながら、	Crunching through the snow,
+230076	+		大量のお皿を持ったリセットが笑いかけてきた。	Reset approached carrying a big stack of plates with a smile.
+230077	+		寒さ故か少しだけほっぺたが赤い。	Her cheeks were a bit red from the cold.
 
-230078	Nagata-kun	「はぁ……こないだまでいた	「Haa... The desert heat we were in just the other day
-230079	+	　砂漠の暑さが嘘みたいっすよ……」	　feels like a lie now...」
+230078	Nagata-kun		「はぁ……こないだまでいた	「Haa... The desert heat we were in just the other day
+230079	+		　砂漠の暑さが嘘みたいっすよ……」	　feels like a lie now...」
 
-230080	Reset Kalar	「朝ご飯は豚汁にしたよー」	「I made pork miso soup for breakfast~」
+230080	Reset Kalar	口開き	「朝ご飯は豚汁にしたよー」	「I made pork miso soup for breakfast~」
 
-230081	Nagata-kun	「うほー、あったまりそー」	「Whoa, that sounds warming.」
+230081	Nagata-kun	基本	「うほー、あったまりそー」	「Whoa, that sounds warming.」
 
-230082	Reset Kalar	「でも……」	「But...」
+230082	Reset Kalar		「でも……」	「But...」
 
-230083	-	少し、リセットがイタズラっぽい笑みを浮かべる。	Reset flashed a slightly mischievous smile.
+230083	-		少し、リセットがイタズラっぽい笑みを浮かべる。	Reset flashed a slightly mischievous smile.
 
-230084	Reset Kalar	「その前に手と顔を洗ってきてねー」	「Wash your hands and face first~」
+230084	Reset Kalar	笑顔	「その前に手と顔を洗ってきてねー」	「Wash your hands and face first~」
 
-230085	Nagata-kun	「ひえええ……ちめたそう……」	「Hieee... That's gonna be freezing...」
+230085	Nagata-kun	基本	「ひえええ……ちめたそう……」	「Hieee... That's gonna be freezing...」
 
-230086	-	…………	............
+230086	-		…………	............
 
-230087	-	……	......
+230087	-		……	......
 
-230088	Reset Kalar	「さーて、作戦会議しよっか」	「Alright, time for a strategy meeting.」
+230088	Reset Kalar		「さーて、作戦会議しよっか」	「Alright, time for a strategy meeting.」
 
-230089	Nagata-kun	「作戦会議……っすか？」	「Strategy meeting...?」
+230089	Nagata-kun		「作戦会議……っすか？」	「Strategy meeting...?」
 
-230090	-	がっつくように食べていた豚汁から顔を上げて	Nagata-kun looked up from his pork soup that he was devouring,
-230091	+	長田君が聞く。	and asked.
+230090	-		がっつくように食べていた豚汁から顔を上げて	Nagata-kun looked up from his pork soup that he was devouring,
+230091	+		長田君が聞く。	and asked.
 
-230092	Reset Kalar	「普段に比べてより、	「This time seems a bit tougher than usual,
-230093	+	　今回は少し大変そうだからねぇ……」	　so...」
+230092	Reset Kalar		「普段に比べてより、	「This time seems a bit tougher than usual,
+230093	+		　今回は少し大変そうだからねぇ……」	　so...」
 
-230094	Nagi su Ragarl	「あ、せんせー。	「Ah, teacher.
-230095	+	　作戦会議って言葉を聞いた途端、	　The moment she heard the words 'strategy meeting',
-230096	+	　深根ちゃんともっちゃんが寝ちゃいましたー」	　Mikan-chan and Mot-chan fell asleep.」
+230094	Nagi su Ragarl		「あ、せんせー。	「Ah, teacher.
+230095	+		　作戦会議って言葉を聞いた途端、	　The moment she heard the words 'strategy meeting',
+230096	+		　深根ちゃんともっちゃんが寝ちゃいましたー」	　Mikan-chan and Mot-chan fell asleep.」
 
-230097	Mouri Motonari	「ぐがー！　ぐがー！　ぐがー！」	「Gugaー! Gugaー! Gugaー!」
+230097	Mouri Motonari	笑顔	「ぐがー！　ぐがー！　ぐがー！」	「Gugaー! Gugaー! Gugaー!」
 
-230098	Tokugawa Tone	「すやすやー」	「Zzz...」
+230098	Tokugawa Tone	スヤァ	「すやすやー」	「Zzz...」
 
-230099	Masou Shizuka	「……そのままにしておきなさい」	「...Just leave them like that.」
+230099	Masou Shizuka	基本	「……そのままにしておきなさい」	「...Just leave them like that.」
 
-230100	Nagi su Ragarl	「ま、どうせ二人とも話聞かないしね……」	「Well, they probably wouldn't listen anyway...」
+230100	Nagi su Ragarl		「ま、どうせ二人とも話聞かないしね……」	「Well, they probably wouldn't listen anyway...」
 
-230101	Mouri Motonari	「ぐがーーーっ！！！！」	「Gugaaaa!!!」
+230101	Mouri Motonari	笑顔	「ぐがーーーっ！！！！」	「Gugaaaa!!!」
 
-230102	Tokugawa Tone	「すやすやー」	「Zzz...」
+230102	Tokugawa Tone	スヤァ	「すやすやー」	「Zzz...」
 
-230103	Nagata-kun	「で、えーと、話を戻すと……」	「So, um, getting back to the topic...」
+230103	Nagata-kun	基本	「で、えーと、話を戻すと……」	「So, um, getting back to the topic...」
 
-230104	Yamamoto Rangi	「まず僕達の目的の確認から」	「First, let's confirm our objectives.」
+230104	Yamamoto Rangi	説明するよ	「まず僕達の目的の確認から」	「First, let's confirm our objectives.」
 
-230105	Yamamoto Rangi	「これは当然、	「Naturally, that means
-230106	+	　魔王の子集めと、オーブ集めだ」	　gathering the Demon King's children and collecting the orbs.」
+230105	Yamamoto Rangi		「これは当然、	「Naturally, that means
+230106	+		　魔王の子集めと、オーブ集めだ」	　gathering the Demon King's children and collecting the orbs.」
 
-230107	Nagata-kun	「うむむ、目的が二つあるってややこしいなぁ」	「Hmm, having two goals makes it kinda complicated.」
+230107	Nagata-kun	基本	「うむむ、目的が二つあるってややこしいなぁ」	「Hmm, having two goals makes it kinda complicated.」
 
-230108	Kentou Uzume	「どうするでござる？	「What shall we do?
-230109	+	　片方は一旦無視してどっちかに集中する？」	　Should we ignore one for now and focus on the other?」
+230108	Kentou Uzume		「どうするでござる？	「What shall we do?
+230109	+		　片方は一旦無視してどっちかに集中する？」	　Should we ignore one for now and focus on the other?」
 
-230110	Yamamoto Rangi	「うん、そのつもりだよ」	「Yeah, that's the plan.」
+230110	Yamamoto Rangi		「うん、そのつもりだよ」	「Yeah, that's the plan.」
 
-230111	Reset Kalar	「レリコフちゃんがオーブを目指しているなら、	「If Lelikov Helman-chan is heading for the orb,
-230112	+	　私達もオーブを目指して進もうかなって」	　we should head for the orb too.」
+230111	Reset Kalar		「レリコフちゃんがオーブを目指しているなら、	「If Lelikov Helman-chan is heading for the orb,
+230112	+		　私達もオーブを目指して進もうかなって」	　we should head for the orb too.」
 
-230113	Yamamoto Rangi	「それなら運が良ければ会えるかも知れないし、	「That way we might run into them if we're lucky,
-230114	+	　すれ違いになっても巨大戦艦内にいる人から	　and even if we miss them, we might get information
-230115	+	　何か情報がもらえるかも知れないからね」	　from people inside the massive battleship.」
+230113	Yamamoto Rangi		「それなら運が良ければ会えるかも知れないし、	「That way we might run into them if we're lucky,
+230114	+		　すれ違いになっても巨大戦艦内にいる人から	　and even if we miss them, we might get information
+230115	+		　何か情報がもらえるかも知れないからね」	　from people inside the massive battleship.」
 
-230116	Yamamoto Rangi	「と、こういう風に考えているが……	「That's what I'm thinking...
-230117	+	　＜エール＞、どう思う？」	　What do you think, ＜エール＞?」
-230118	Nagata-kun	「お前、許可出すくらいしかしてないな……」	「You're basically just giving permission...」
+230116	Yamamoto Rangi		「と、こういう風に考えているが……	「That's what I'm thinking...
+230117	+		　＜エール＞、どう思う？」	　What do you think, ＜エール＞?」
+230118	Nagata-kun		「お前、許可出すくらいしかしてないな……」	「You're basically just giving permission...」
 
-230119	Yamamoto Rangi	「まあ、それもトップの大事な仕事だよ」	「Well, that's an important job for the leader too.」
+230119	Yamamoto Rangi	微笑み	「まあ、それもトップの大事な仕事だよ」	「Well, that's an important job for the leader too.」
 
-230120	Yamamoto Rangi	「…………」	「............」
+230120	Yamamoto Rangi	基本	「…………」	「............」
 
-230121	-	乱義の頭の上にある豚汁から、	Steam was rising gently from the pork soup
-230122	+	湯気がほかほかと立ち上っていた。	above Rangi's head.
+230121	-		乱義の頭の上にある豚汁から、	Steam was rising gently from the pork soup
+230122	+		湯気がほかほかと立ち上っていた。	above Rangi's head.
 
-230123	Nagata-kun	「す、すげぇ……	「A-amazing...
-230124	+	　さすが既に国主をやるだけある……	　As expected from someone who's already a lord...
-230125	+	　乱義の奴、微動だにしねぇ……」	　Rangi isn't moving an inch...」
+230123	Nagata-kun		「す、すげぇ……	「A-amazing...
+230124	+		　さすが既に国主をやるだけある……	　As expected from someone who's already a lord...
+230125	+		　乱義の奴、微動だにしねぇ……」	　Rangi isn't moving an inch...」
 
-230126	Yamamoto Rangi	「＜エール＞……」	「＜エール＞...」
+230126	Yamamoto Rangi		「＜エール＞……」	「＜エール＞...」
 
-230127	-	あなたは乱義に呆れられてしまったようだ。	It seemed Rangi was exasperated with you.
+230127	-		あなたは乱義に呆れられてしまったようだ。	It seemed Rangi was exasperated with you.
 
-230128	Reset Kalar	「それにしても、	「Even so,
-230129	+	　先にオーブに行っちゃうなんて……」	　going after the orb first...」
+230128	Reset Kalar		「それにしても、	「Even so,
+230129	+		　先にオーブに行っちゃうなんて……」	　going after the orb first...」
 
-230130	Reset Kalar	「ふふ、レリコフちゃんも	「Fufu, Lelikov Helman-chan and
-230131	+	　ヒーロー君も元気だなぁ」	　Hero-kun are both so energetic.」
+230130	Reset Kalar	笑顔	「ふふ、レリコフちゃんも	「Fufu, Lelikov Helman-chan and
+230131	+		　ヒーロー君も元気だなぁ」	　Hero-kun are both so energetic.」
 
-230132	Zance Leazas	「元気っつーか、馬鹿なんだよあの二人は」	「Energetic? More like idiots, those two.」
+230132	Zance Leazas	基本	「元気っつーか、馬鹿なんだよあの二人は」	「Energetic? More like idiots, those two.」
 
-230133	Nagata-kun	「あ、あれ？　ヒーローって誰すか？	「Oh, huh? Who's Hero?
-230134	+	　レリコフって二人組？」	　Is it a duo with Lelikov Helman?」
+230133	Nagata-kun		「あ、あれ？　ヒーローって誰すか？	「Oh, huh? Who's Hero?
+230134	+		　レリコフって二人組？」	　Is it a duo with Lelikov Helman?」
 
-230135	Reset Kalar	「あ、言ってなかったっけ。	「Ah, didn't I mention it?
-230136	+	　レリコフちゃんの友達の男の子だよ」	　He's Lelikov Helman-chan's boy friend.」
+230135	Reset Kalar		「あ、言ってなかったっけ。	「Ah, didn't I mention it?
+230136	+		　レリコフちゃんの友達の男の子だよ」	　He's Lelikov Helman-chan's boy friend.」
 
-230137	Reset Kalar	「レリコフちゃんのいとこでね、	「He's Lelikov Helman-chan's cousin,
-230138	+	　とっても強くて仲良しだから、	　really strong and they're super close,
-230139	+	　ヒーロー君も力を貸してくれるかも」	　so Hero-kun might help us too.」
+230137	Reset Kalar		「レリコフちゃんのいとこでね、	「He's Lelikov Helman-chan's cousin,
+230138	+		　とっても強くて仲良しだから、	　really strong and they're super close,
+230139	+		　ヒーロー君も力を貸してくれるかも」	　so Hero-kun might help us too.」
 
-230140	Nagata-kun	「ふーん」	「Hmm.」
+230140	Nagata-kun		「ふーん」	「Hmm.」
 
-230141	Reset Kalar	「今回は本当に大変だと思うので、	「I think this time will be really tough,
-230142	+	　みんなで協力しあって頑張ろーう」	　so let's all work together and do our best~」
+230141	Reset Kalar	口開き	「今回は本当に大変だと思うので、	「I think this time will be really tough,
+230142	+		　みんなで協力しあって頑張ろーう」	　so let's all work together and do our best~」
 
-230143	Reset Kalar	「じゃ、リーダーから何か一言」	「Then, a word from our leader.」
+230143	Reset Kalar	基本	「じゃ、リーダーから何か一言」	「Then, a word from our leader.」
 
-230144	El Mofus	「…………。」	「............」
-230145	Nagata-kun	「え、感想……？」	「Uh, your thoughts...?」
+230144	El Mofus		「…………。」	「............」
+230145	Nagata-kun		「え、感想……？」	「Uh, your thoughts...?」
 
-230146	Reset Kalar	「うふふ、元気いっぱいな良い子だから、	「Ufufu, she's a very energetic good girl,
-230147	+	　きっとすぐ仲良くなれるよ」	　so I'm sure you'll get along right away.」
+230146	Reset Kalar	笑顔	「うふふ、元気いっぱいな良い子だから、	「Ufufu, she's a very energetic good girl,
+230147	+		　きっとすぐ仲良くなれるよ」	　so I'm sure you'll get along right away.」
 
-230148	Nagata-kun	「テンション高いな……	「You're really hyped up...
-230149	+	　急にどうしたの？」	　What's gotten into you all of a sudden?」
+230148	Nagata-kun	基本	「テンション高いな……	「You're really hyped up...
+230149	+		　急にどうしたの？」	　What's gotten into you all of a sudden?」
 
-230150	Reset Kalar	「目覚めるリーダーとしてのししつ？」	「The duty of a leader waking up?」
+230150	Reset Kalar	たははー	「目覚めるリーダーとしてのししつ？」	「The duty of a leader waking up?」
 
-230151	Nagata-kun	「リセットさんと同じこと言った……」	「You said the same thing as Reset-san...」
+230151	Nagata-kun	基本	「リセットさんと同じこと言った……」	「You said the same thing as Reset-san...」
 
-230152	Reset Kalar	「あ、あれ？　言いたいの取っちゃった？」	「Ah, huh? Did I steal your line?」
+230152	Reset Kalar	たははー	「あ、あれ？　言いたいの取っちゃった？」	「Ah, huh? Did I steal your line?」
 
-230153	Mouri Motonari	「むおっ！」	「Muo!」
+230153	Mouri Motonari	な	「むおっ！」	「Muo!」
 
-230154	Mouri Motonari	「なんだ！　	「What! 
-230155	?	話は終わりか！？　	Is the talk over!? 
-230156	+	なら！」	Then!」
+230154	Mouri Motonari	基本	「なんだ！　	「What! 
+230155	?		話は終わりか！？　	Is the talk over!? 
+230156	+		なら！」	Then!」
 
-230157	Mouri Motonari	「戦うか！？！？！？」	「Shall we fight!?!?!?」
+230157	Mouri Motonari		「戦うか！？！？！？」	「Shall we fight!?!?!?」
 
-230158	Tokugawa Tone	「はっ、ここはどこ……」	「Hah, where are we...」
+230158	Tokugawa Tone		「はっ、ここはどこ……」	「Hah, where are we...」
 
-230159	-	寝ぼすけ二人は起きるなり騒がしかった。	The two sleepyheads were noisy the moment they woke up.
+230159	-		寝ぼすけ二人は起きるなり騒がしかった。	The two sleepyheads were noisy the moment they woke up.
 
-230160	Zance Leazas	「テメェらは……」	「You guys...」
+230160	Zance Leazas		「テメェらは……」	「You guys...」

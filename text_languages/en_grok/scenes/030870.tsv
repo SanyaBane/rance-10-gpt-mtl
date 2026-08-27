@@ -37,375 +37,375 @@
 * Tokugawa Sen	千姫	Male/Female
 * Pastel Kalar	パステル	Female
 
-36400	Rance	「さーて、乗り込むか」	「Alright, time to board.」
+36400	Rance	基本	「さーて、乗り込むか」	「Alright, time to board.」
 
-36401	Sill Plain	「ランス様、どっちの船に乗りますか？」	「Rance-sama, which ship will you board?」
+36401	Sill Plain		「ランス様、どっちの船に乗りますか？」	「Rance-sama, which ship will you board?」
 
-36402	Rance	「んー、そうだな。	「Hmm, let's see.
-36403	+	　こっちの船にしよう。船首像がエロい」	　This one. The figurehead is erotic.」
+36402	Rance		「んー、そうだな。	「Hmm, let's see.
+36403	+		　こっちの船にしよう。船首像がエロい」	　This one. The figurehead is erotic.」
 
-36404	Sill Plain	「あははは……はい。えと……サンライズ号ですね。	「Ahaha... Yes. Um... It's the Sunrise.」
-36405	+	　じゃあ私は……」	　Then I'll...」
+36404	Sill Plain	苦笑	「あははは……はい。えと……サンライズ号ですね。	「Ahaha... Yes. Um... It's the Sunrise.」
+36405	+		　じゃあ私は……」	　Then I'll...」
 
-36406	Rance	「お前もこっちに来るに決まってるだろう。	「You're obviously coming with me.
-36407	+	　奴隷のくせに御主人様から離れる気か」	　You're a slave, you can't leave your master.」
+36406	Rance	真剣	「お前もこっちに来るに決まってるだろう。	「You're obviously coming with me.
+36407	+		　奴隷のくせに御主人様から離れる気か」	　You're a slave, you can't leave your master.」
 
-36408	Sill Plain	「あ、はいっ」	「Ah, yes!」
+36408	Sill Plain	笑顔	「あ、はいっ」	「Ah, yes!」
 
-36409	Urza Pranaice	「総統。お二人はそれでいいとして、	「Supreme Leader. That's fine for you two,
-36410	+	　他のメンバーの振り分けもお願いします」	　but please decide the assignment for the other members too.」
+36409	Urza Pranaice	基本	「総統。お二人はそれでいいとして、	「Supreme Leader. That's fine for you two,
+36410	+		　他のメンバーの振り分けもお願いします」	　but please decide the assignment for the other members too.」
 
-36411	Rance	「んー？　そうだな。	「Hmm? Let's see.
-36412	+	　可愛い女の子は全部こっち。	　All the cute girls on this one.
-36413	+	　むさ苦しい男はあっちの汗臭号だ」	　The stinky sweaty men go on the other one.」
+36411	Rance		「んー？　そうだな。	「Hmm? Let's see.
+36412	+		　可愛い女の子は全部こっち。	　All the cute girls on this one.
+36413	+		　むさ苦しい男はあっちの汗臭号だ」	　The stinky sweaty men go on the other one.」
 
-36414	Sill Plain	「……サンセット号、ですね」	「...It's the Sunset.」
+36414	Sill Plain	苦笑	「……サンセット号、ですね」	「...It's the Sunset.」
 
-36415	Rance	「あっちの船はお前が面倒見ろ、パットン。	「You take care of the other ship, Patton.
-36416	+	　沈む時は俺たちの盾になって沈むんだぞ」	　If it sinks, become our shield and sink with it.」
+36415	Rance	基本	「あっちの船はお前が面倒見ろ、パットン。	「You take care of the other ship, Patton.
+36416	+		　沈む時は俺たちの盾になって沈むんだぞ」	　If it sinks, become our shield and sink with it.」
 
-36417	Patton Helman	「お、ご指名かい。	「Oh, I'm nominated.
-36418	+	　ああいいぜ、と言いたいところだが……」	　I'd like to say sure, but...」
+36417	Patton Helman		「お、ご指名かい。	「Oh, I'm nominated.
+36418	+		　ああいいぜ、と言いたいところだが……」	　I'd like to say sure, but...」
 
-36419	Rance	「なんだ。まさか断るとでも言うつもりか」	「What? You're not thinking of refusing, are you?」
+36419	Rance	真剣	「なんだ。まさか断るとでも言うつもりか」	「What? You're not thinking of refusing, are you?」
 
-36420	Patton Helman	「そうじゃない。人数が偏りすぎだ」	「That's not it. The numbers are too unbalanced.」
+36420	Patton Helman	戸惑い	「そうじゃない。人数が偏りすぎだ」	「That's not it. The numbers are too unbalanced.」
 
-36421	Rance	「なんだと？」	「What?」
+36421	Rance	真剣	「なんだと？」	「What?」
 
-36422	Patton Helman	「魔人討伐隊にゃ、女の子が多すぎる。	「There are way too many girls in the Fiend Extermination Squad.
-36423	+	　数がまるで合わないぜ」	　The numbers don't add up at all.」
+36422	Patton Helman		「魔人討伐隊にゃ、女の子が多すぎる。	「There are way too many girls in the Fiend Extermination Squad.
+36423	+		　数がまるで合わないぜ」	　The numbers don't add up at all.」
 
-36424	Rance	「別にいいだろう。	「It's fine.
-36425	+	　そっちがスカスカ、こっちはむちむちうはうはだ。	　Yours can be empty, mine will be full of soft bouncy girls.
-36426	+	　がはははは」	　Gahahahaha.」
+36424	Rance	笑顔	「別にいいだろう。	「It's fine.
+36425	+		　そっちがスカスカ、こっちはむちむちうはうはだ。	　Yours can be empty, mine will be full of soft bouncy girls.
+36426	+		　がはははは」	　Gahahahaha.」
 
-36427	Crook Mofus	「ランス。船を動かす人員を考えると、	「Rance. When considering the crew needed to operate the ship,
-36428	+	　サンライズ号が厳しい事になりそうです」	　the Sunrise is going to be tight.」
+36427	Crook Mofus	基本	「ランス。船を動かす人員を考えると、	「Rance. When considering the crew needed to operate the ship,
+36428	+		　サンライズ号が厳しい事になりそうです」	　the Sunrise is going to be tight.」
 
-36429	Rance	「無理なのか？」	「Is it impossible?」
+36429	Rance		「無理なのか？」	「Is it impossible?」
 
-36430	Urza Pranaice	「無理ですね。	「Yes, it's impossible.
-36431	+	　人が多すぎると居住性が悪くなるだけでなく、	　Too many people not only reduces livability,
-36432	+	　水や食料の消費も大きくなり、積載量は減ります」	　but also increases water and food consumption, reducing cargo capacity.」
+36430	Urza Pranaice		「無理ですね。	「Yes, it's impossible.
+36431	+		　人が多すぎると居住性が悪くなるだけでなく、	　Too many people not only reduces livability,
+36432	+		　水や食料の消費も大きくなり、積載量は減ります」	　but also increases water and food consumption, reducing cargo capacity.」
 
-36433	Rance	「ちっ、面倒な……まあいい、仕方ない。	「Tch, what a pain... Fine, can't be helped.
-36434	+	　適当に振り分けとけ」	　Just assign them appropriately.」
+36433	Rance	だる顔	「ちっ、面倒な……まあいい、仕方ない。	「Tch, what a pain... Fine, can't be helped.
+36434	+		　適当に振り分けとけ」	　Just assign them appropriately.」
 
-36435	Crook Mofus	「はい。では……」	「Yes. Then...」
+36435	Crook Mofus	基本	「はい。では……」	「Yes. Then...」
 
-36436	Patton Helman	「おう。ちょいと時間くれ」	「Got it. Give me a bit of time.」
+36436	Patton Helman		「おう。ちょいと時間くれ」	「Got it. Give me a bit of time.」
 
-36437	-	その場で短い打ち合わせが行われ、	A quick meeting was held on the spot,
-36438	+	サンセット号とサンライズ号の	and the personnel were assigned between the Sunset and Sunrise.
-36439	+	人員の振り分けが行われた。	
+36437	-		その場で短い打ち合わせが行われ、	A quick meeting was held on the spot,
+36438	+		サンセット号とサンライズ号の	and the personnel were assigned between the Sunset and Sunrise.
+36439	+		人員の振り分けが行われた。	
 
-36440	Patton Helman	「待たせたな、決まったぜ」	「Sorry for the wait, it's decided.」
+36440	Patton Helman		「待たせたな、決まったぜ」	「Sorry for the wait, it's decided.」
 
-36441	Crook Mofus	「これで大まかには振り分けられたと思います」	「This should cover the general assignment.」
+36441	Crook Mofus		「これで大まかには振り分けられたと思います」	「This should cover the general assignment.」
 
-36442	Maria Custard	「いつものメンバーは……まあ、こっちね」	「The usual members... are on this side.」
+36442	Maria Custard		「いつものメンバーは……まあ、こっちね」	「The usual members... are on this side.」
 
-36443	Kentou Kanami	「ちょっぴり、ほっ……」	「A little relieved...」
+36443	Kentou Kanami	微笑み	「ちょっぴり、ほっ……」	「A little relieved...」
 
-36444	Satella	「まあ、サテラはどっちでも良かったがな。	「Well, Satella didn't really care which ship,
-36445	+	　使徒にどうしてもとお願いされたら仕方ない」	　but her apostles begged so much I had no choice.」
+36444	Satella	ふふん	「まあ、サテラはどっちでも良かったがな。	「Well, Satella didn't really care which ship,
+36445	+		　使徒にどうしてもとお願いされたら仕方ない」	　but her apostles begged so much I had no choice.」
 
-36446	Pigu Geliciam	「すっごい嬉しそう」	「You look super happy.」
+36446	Pigu Geliciam	風船	「すっごい嬉しそう」	「You look super happy.」
 
-36447	Lia Parapara Leazas	「ふっふーん！　リアはもちろん、	「Fufuun! Of course Lia is
-36448	+	　ダーリンの隣だもんね！」	　next to Darling!」
+36447	Lia Parapara Leazas	笑顔	「ふっふーん！　リアはもちろん、	「Fufuun! Of course Lia is
+36448	+		　ダーリンの隣だもんね！」	　next to Darling!」
 
-36449	Rance	「なんだ、他のリーザスのメンツはあっちだろ」	「What? The other Leazas members are on the other ship.」
+36449	Rance	真剣	「なんだ、他のリーザスのメンツはあっちだろ」	「What? The other Leazas members are on the other ship.」
 
-36450	Lia Parapara Leazas	「うん！　マリス以外は	「Yeah! I left most of them except Maris
-36451	+	　だいたい向こうに任せちゃった」	　on the other ship.」
+36450	Lia Parapara Leazas	基本	「うん！　マリス以外は	「Yeah! I left most of them except Maris
+36451	+		　だいたい向こうに任せちゃった」	　on the other ship.」
 
-36452	Maris Amaryllis	「リア様のお世話は私の仕事ですので」	「Taking care of Lady Lia is my job.」
+36452	Maris Amaryllis		「リア様のお世話は私の仕事ですので」	「Taking care of Lady Lia is my job.」
 
-36453	Sioux Province	「私は志願して、こっちにしてもらいました」	「I volunteered to be on this ship.」
+36453	Sioux Province		「私は志願して、こっちにしてもらいました」	「I volunteered to be on this ship.」
 
-36454	Rance	「おっ、よしよし。	「Oh, good good.
-36455	+	　俺と離れるのがイヤだったんだな」	　You didn't want to be away from me.」
+36454	Rance		「おっ、よしよし。	「Oh, good good.
+36455	+		　俺と離れるのがイヤだったんだな」	　You didn't want to be away from me.」
 
-36456	Sioux Province	「ではなく。	「That's not it.
-36457	+	　真面目にやってもらうためです」	　It's to make sure you take this seriously.」
+36456	Sioux Province	思考	「ではなく。	「That's not it.
+36457	+		　真面目にやってもらうためです」	　It's to make sure you take this seriously.」
 
-36458	Rance	「がはははは、俺様は大真面目だぞ。	「Gahahahaha, I'm super serious.
-36459	+	　昼は程々なぶん、夜は大張り切りだ」	　Moderate teasing during the day, full power at night.」
+36458	Rance	基本	「がはははは、俺様は大真面目だぞ。	「Gahahahaha, I'm super serious.
+36459	+		　昼は程々なぶん、夜は大張り切りだ」	　Moderate teasing during the day, full power at night.」
 
-36460	Sioux Province	「そういう所ですよ！　もう！	「That's exactly the problem! Geez!
-36461	+	　大一番なのに……」	　This is the biggest battle...」
+36460	Sioux Province	思考	「そういう所ですよ！　もう！	「That's exactly the problem! Geez!
+36461	+		　大一番なのに……」	　This is the biggest battle...」
 
-36462	Rance	「しかし他は向こうか。	「But the others are on the other ship.
-36463	+	　ハウレーンに、メナドにメルフェイス……	　Howlane, Menad, Melfeis...
-36464	+	　むむ、離れるともったいなく感じるな」	　Hmm, it feels like a waste to be separated.」
+36462	Rance	真剣	「しかし他は向こうか。	「But the others are on the other ship.
+36463	+		　ハウレーンに、メナドにメルフェイス……	　Howlane, Menad, Melfeis...
+36464	+		　むむ、離れるともったいなく感じるな」	　Hmm, it feels like a waste to be separated.」
 
-36465	Lia Parapara Leazas	「やーーーー！	「Nooo---!
-36466	+	　リアがいーっぱいサービスするよ！　ね！」	　Lia will service you lots! Okay!」
+36465	Lia Parapara Leazas	拗ね	「やーーーー！	「Nooo---!
+36466	+		　リアがいーっぱいサービスするよ！　ね！」	　Lia will service you lots! Okay!」
 
-36467	Leila Grecni	「ま、親衛隊も付いてるんだけどね」	「Well, the imperial guards are with us too.」
+36467	Leila Grecni	基本	「ま、親衛隊も付いてるんだけどね」	「Well, the imperial guards are with us too.」
 
-36468	Rance	「お、それはいいな。チルディも来たのか」	「Oh, that's good. Tilde came too?」
+36468	Rance		「お、それはいいな。チルディも来たのか」	「Oh, that's good. Tilde came too?」
 
-36469	Tilde Sharp	「っ！　あ、頭に触れようとしないでくださいまし」	「Hya! P-please don't try to touch my head!」
+36469	Tilde Sharp		「っ！　あ、頭に触れようとしないでくださいまし」	「Hya! P-please don't try to touch my head!」
 
-36470	Leila Grecni~	（リック……向こうで、大丈夫かな……）	（Rick... I wonder if he's okay over there...）
+36470	Leila Grecni~		（リック……向こうで、大丈夫かな……）	（Rick... I wonder if he's okay over there...）
 
-36471	Sheila Helman	「私もそちらの船でお世話になります、ランス様」	「I'll be on that ship too, Rance-sama.」
+36471	Sheila Helman		「私もそちらの船でお世話になります、ランス様」	「I'll be on that ship too, Rance-sama.」
 
-36472	Rance	「遅いぞ、シーラ。	「You're late, Sheila.
-36473	+	　奴隷2号なのだからお前はこっちで当たり前だ。	　As slave number 2 you obviously belong on this ship.
-36474	+	　お世話はお前がするんだ」	　You're the one who takes care of me.」
+36472	Rance	真剣	「遅いぞ、シーラ。	「You're late, Sheila.
+36473	+		　奴隷2号なのだからお前はこっちで当たり前だ。	　As slave number 2 you obviously belong on this ship.
+36474	+		　お世話はお前がするんだ」	　You're the one who takes care of me.」
 
-36475	Sheila Helman	「っ、はいっ！」	「Y-yes!」
+36475	Sheila Helman	笑顔	「っ、はいっ！」	「Y-yes!」
 
-36476	Peruele Kalette	「まーったく、何が嬉しいのやら……」	「Good grief, what are you so happy about...」
+36476	Peruele Kalette	ジト目	「まーったく、何が嬉しいのやら……」	「Good grief, what are you so happy about...」
 
-36477	Sill Plain	「お二人とも、頑張りましょう！」	「Let's do our best, both of you!」
+36477	Sill Plain	笑顔	「お二人とも、頑張りましょう！」	「Let's do our best, both of you!」
 
-36478	Peruele Kalette	「あ……うん。…………って、ん……？」	「Ah... Yeah. ......Wait, hmm...?」
+36478	Peruele Kalette	基本	「あ……うん。…………って、ん……？」	「Ah... Yeah. ......Wait, hmm...?」
 
-36479	Peruele Kalette~	（あ、あれ…………？	（Huh, wait............?
-36480	+	　あたし、魔軍の大ボスへの殴り込み艦隊に、	　I'm naturally assigned to the fleet charging at the Monster Army's big boss...?)
-36481	+	　なんかナチュラルに選ばれてない……？）	
+36479	Peruele Kalette~		（あ、あれ…………？	（Huh, wait............?
+36480	+		　あたし、魔軍の大ボスへの殴り込み艦隊に、	　I'm naturally assigned to the fleet charging at the Monster Army's big boss...?)
+36481	+		　なんかナチュラルに選ばれてない……？）	
 
-36482	Sheila Helman	「頑張ろうね、ペルエレ」	「Let's do our best, Peruele.」
+36482	Sheila Helman	笑顔	「頑張ろうね、ペルエレ」	「Let's do our best, Peruele.」
 
-36483	Peruele Kalette	「ちょっ、待ってなんであたしが……！」	「Wait, why me...!」
+36483	Peruele Kalette	基本	「ちょっ、待ってなんであたしが……！」	「Wait, why me...!」
 
-36484	Peruele Kalette~	（いや……待った待った。	（No... Wait, wait.
-36485	+	　じゃああたし、どこ行くの……？）	　Then where am I supposed to go...?)
+36484	Peruele Kalette~	恐怖	（いや……待った待った。	（No... Wait, wait.
+36485	+		　じゃああたし、どこ行くの……？）	　Then where am I supposed to go...?)
 
-36486	Peruele Kalette~	（ヘルマンじゃ軍はあっても指揮官いないし、	（In Helman there's an army but no commander,
-36487	+	　そのうち魔軍がやってきたら…………	　and if the Monster Army comes soon......
-36488	+	　うっ、もしかして、今一番安全なのって……）	　Ugh, maybe the safest place right now is...）
+36486	Peruele Kalette~		（ヘルマンじゃ軍はあっても指揮官いないし、	（In Helman there's an army but no commander,
+36487	+		　そのうち魔軍がやってきたら…………	　and if the Monster Army comes soon......
+36488	+		　うっ、もしかして、今一番安全なのって……）	　Ugh, maybe the safest place right now is...）
 
-36489	Rance	「なんだ、お前も来たのかペルエレ。	「Oh, you came too, Peruele.
-36490	+	　がはははは、まあよかろう」	　Gahahahaha, well that's fine.」
+36489	Rance	笑顔	「なんだ、お前も来たのかペルエレ。	「Oh, you came too, Peruele.
+36490	+		　がはははは、まあよかろう」	　Gahahahaha, well that's fine.」
 
-36491	Peruele Kalette	「っ……！」	「...!」
+36491	Peruele Kalette	基本	「っ……！」	「...!」
 
-36492	-	ランスが挨拶代わりにぺろーんとお尻を撫でた。	Rance casually stroked her butt as a greeting.
+36492	-		ランスが挨拶代わりにぺろーんとお尻を撫でた。	Rance casually stroked her butt as a greeting.
 
-36493	Peruele Kalette	「……くっ……この馬鹿の所なの……」	「...Kuh... So this is that idiot's ship...」
+36493	Peruele Kalette	怒り	「……くっ……この馬鹿の所なの……」	「...Kuh... So this is that idiot's ship...」
 
-36494	Sheila Helman	「……ペルエレ？」	「...Peruele?」
+36494	Sheila Helman	基本	「……ペルエレ？」	「...Peruele?」
 
-36495	Peruele Kalette	「あー。あー。もう、しょうがない。	「Aah. Aah. Whatever, can't be helped.
-36496	+	　やれる事しかしないわよ」	　I'll just do what I can.」
+36495	Peruele Kalette		「あー。あー。もう、しょうがない。	「Aah. Aah. Whatever, can't be helped.
+36496	+		　やれる事しかしないわよ」	　I'll just do what I can.」
 
-36497	Sheila Helman	「うんっ」	「Yeah!」
+36497	Sheila Helman	笑顔	「うんっ」	「Yeah!」
 
-36498	Amitos Armitage	「で、護衛は私か。	「So I'm the escort, huh.
-36499	+	　本来なら、三軍……ヒューバート司令官の	　Normally this would be the job of the Third Army... Commander Hubert's
-36500	+	　職分の筈なのだがな」	　duty.」
+36498	Amitos Armitage	基本	「で、護衛は私か。	「So I'm the escort, huh.
+36499	+		　本来なら、三軍……ヒューバート司令官の	　Normally this would be the job of the Third Army... Commander Hubert's
+36500	+		　職分の筈なのだがな」	　duty.」
 
-36501	Rance	「人員がオーバーするから向こうに少し送ってやる、	「We had too many people so I sent some over there,
-36502	+	　というだけの話だ。男なんぞ要らんわ」	　that's all. I don't need men.」
+36501	Rance	真剣	「人員がオーバーするから向こうに少し送ってやる、	「We had too many people so I sent some over there,
+36502	+		　というだけの話だ。男なんぞ要らんわ」	　that's all. I don't need men.」
 
-36503	Amitos Armitage	「ま、いい。向こうの戦力に不安はない。	「Well, fine. The other side has enough fighting power.
-36504	+	　こちらはこちらで、波乱も多そうだ」	　This side will probably have plenty of chaos too.」
+36503	Amitos Armitage	基本	「ま、いい。向こうの戦力に不安はない。	「Well, fine. The other side has enough fighting power.
+36504	+		　こちらはこちらで、波乱も多そうだ」	　This side will probably have plenty of chaos too.」
 
-36505	Athena 2.0	「やーーーーー！	「Yaaay!
-36506	+	　水でいっぱいれす！　どぼーんしそうれす！」	　It's full of water! It looks like it'll go sploosh!」
+36505	Athena 2.0	能天気	「やーーーーー！	「Yaaay!
+36506	+		　水でいっぱいれす！　どぼーんしそうれす！」	　It's full of water! It looks like it'll go sploosh!」
 
-36507	Athena 2.0	「ご主人様ーーー。	「Master---.
-36508	+	　あれ、ご主人様、いないのれす……？」	　Huh, Master isn't here...?」
+36507	Athena 2.0	基本	「ご主人様ーーー。	「Master---.
+36508	+		　あれ、ご主人様、いないのれす……？」	　Huh, Master isn't here...?」
 
-36509	Sanada Tourin	「おや。あてな殿もサンセットでしたか」	「Oh. Athena-dono is on the Sunset too?」
+36509	Sanada Tourin		「おや。あてな殿もサンセットでしたか」	「Oh. Athena-dono is on the Sunset too?」
 
-36510	Athena 2.0	「はいなのれす！	「Yes desu!
-36511	+	　ここはあてなのなわばりに決めたのれす！」	　I've decided this is my territory desu!」
+36510	Athena 2.0		「はいなのれす！	「Yes desu!
+36511	+		　ここはあてなのなわばりに決めたのれす！」	　I've decided this is my territory desu!」
 
-36512	Magic the Gandhi	「……なんか、こっちはうちの人間少ないわね」	「...Somehow there are fewer of our people on this side.」
+36512	Magic the Gandhi		「……なんか、こっちはうちの人間少ないわね」	「...Somehow there are fewer of our people on this side.」
 
-36513	Caloria Cricket	「ねぇ？」	「Right?」
+36513	Caloria Cricket		「ねぇ？」	「Right?」
 
-36514	Patton Helman	「ランスの意向と本人の希望を色々照らし合わせたら	「After considering Rance's wishes and everyone's preferences,
-36515	+	　こうなってな」	　this is how it turned out.」
+36514	Patton Helman		「ランスの意向と本人の希望を色々照らし合わせたら	「After considering Rance's wishes and everyone's preferences,
+36515	+		　こうなってな」	　this is how it turned out.」
 
-36516	Anise Sawatari	「千鶴子さまーーーーーーー！！	「Chizuko-sama------!!
-36517	+	　この帆、魔法の風を受ける様になってるそうです！	　This sail is apparently designed to catch magic wind!
-36518	+	　撃ってみていいですか！？　白色……」	　Can I try shooting it!? White...」
+36516	Anise Sawatari		「千鶴子さまーーーーーーー！！	「Chizuko-sama------!!
+36517	+		　この帆、魔法の風を受ける様になってるそうです！	　This sail is apparently designed to catch magic wind!
+36518	+		　撃ってみていいですか！？　白色……」	　Can I try shooting it!? White...」
 
-36519	Yamada Chizuko	「お馬鹿！　あんたは変な事するんじゃないのー！」	「You idiot! Don't do weird stuff!」
+36519	Yamada Chizuko	コラー	「お馬鹿！　あんたは変な事するんじゃないのー！」	「You idiot! Don't do weird stuff!」
 
-36520	Patton Helman	「流石にアレをランスの近くにゃ置けんし。	「We couldn't put that near Rance.
-36521	+	　お目付役も一緒じゃないと……なぁ？」	　She needs a supervisor with her... right?」
+36520	Patton Helman	戸惑い	「流石にアレをランスの近くにゃ置けんし。	「We couldn't put that near Rance.
+36521	+		　お目付役も一緒じゃないと……なぁ？」	　She needs a supervisor with her... right?」
 
-36522	Magic the Gandhi	「ああ、うん……分かってた」	「Yeah, I knew that...」
+36522	Magic the Gandhi	目閉じ	「ああ、うん……分かってた」	「Yeah, I knew that...」
 
-36523	Rocky Bank	「がーん…………」	「Gaaan............」
+36523	Rocky Bank	ガーン	「がーん…………」	「Gaaan............」
 
-36524	-	ロッキーは一人、サンセット号の甲板で、	Rocky stood alone on the Sunset's deck,
-36525	+	呆然としていた。	looking stunned.
+36524	-		ロッキーは一人、サンセット号の甲板で、	Rocky stood alone on the Sunset's deck,
+36525	+		呆然としていた。	looking stunned.
 
-36526	Am Yisael	「あら……私も向こうなの？	「Oh... I'm on the other ship?
-36527	+	　ふふ、寂しいわね、離ればなれは……」	　Fufu, how lonely to be separated...」
+36526	Am Yisael	基本	「あら……私も向こうなの？	「Oh... I'm on the other ship?
+36527	+		　ふふ、寂しいわね、離ればなれは……」	　Fufu, how lonely to be separated...」
 
-36528	Crook Mofus	「……………………」	「........................」
+36528	Crook Mofus		「……………………」	「........................」
 
-36529	Crook Mofus	「ロードリング司教。ＢＳさん。	「Bishop Lordring. BS-san.
-36530	+	　彼女から目を離さないよう」	　Please keep an eye on her.」
+36529	Crook Mofus		「ロードリング司教。ＢＳさん。	「Bishop Lordring. BS-san.
+36530	+		　彼女から目を離さないよう」	　Please keep an eye on her.」
 
-36531	Battling Centers	「ははっ」	「Yes sir.」
+36531	Battling Centers		「ははっ」	「Yes sir.」
 
-36532	Mi Lordring	「承知仕った！　ALICE様の名にかけて！」	「Understood! In the name of Lady ALICE!」
+36532	Mi Lordring		「承知仕った！　ALICE様の名にかけて！」	「Understood! In the name of Lady ALICE!」
 
-36533	Nikkou	「私たちもこちらですか……	「We're on this side too...
-36534	+	　離ればなれになった場合を考えると、	　Considering the possibility of being separated,
-36535	+	　確かにカオスとは別の方がいいでしょうね」	　it's better to be separate from Chaos.」
+36533	Nikkou		「私たちもこちらですか……	「We're on this side too...
+36534	+		　離ればなれになった場合を考えると、	　Considering the possibility of being separated,
+36535	+		　確かにカオスとは別の方がいいでしょうね」	　it's better to be separate from Chaos.」
 
-36536	Ogawa Kentarou	「わあ、船だ……ホントに海に出るんだ」	「Wow, a ship... We're really going out to sea.」
+36536	Ogawa Kentarou		「わあ、船だ……ホントに海に出るんだ」	「Wow, a ship... We're really going out to sea.」
 
-36537	Ogawa Kentarou~	（……美樹ちゃん、海……好きだったかな。	（...I wonder if Miki-chan liked the sea.
-36538	+	　きっと喜んだだろうな）	　She probably would have been happy.）
+36537	Ogawa Kentarou~		（……美樹ちゃん、海……好きだったかな。	（...I wonder if Miki-chan liked the sea.
+36538	+		　きっと喜んだだろうな）	　She probably would have been happy.）
 
-36539	Rance	「……ん？　待て。なんか足りなくないか？」	「...Hm? Wait. Isn't something missing?」
+36539	Rance	真剣	「……ん？　待て。なんか足りなくないか？」	「...Hm? Wait. Isn't something missing?」
 
-36540	Sill Plain	「はい？	「Yes?
-36541	+	　どなたかいらっしゃらないって事ですか？」	　You mean someone isn't here?」
+36540	Sill Plain	基本	「はい？	「Yes?
+36541	+		　どなたかいらっしゃらないって事ですか？」	　You mean someone isn't here?」
 
-36542	Rance	「ああ、なんかちょこまかしてるのが……」	「Yeah, those sneaky little ones...」
+36542	Rance	真剣	「ああ、なんかちょこまかしてるのが……」	「Yeah, those sneaky little ones...」
 
-36543	-	と、ランスの視界の端で、緑と金色の髪の	At the edge of Rance's vision, two small silhouettes
-36544	+	小さなシルエットが、サンセット号に飛び込んだ。	with green and golden hair jumped onto the Sunset.
+36543	-		と、ランスの視界の端で、緑と金色の髪の	At the edge of Rance's vision, two small silhouettes
+36544	+		小さなシルエットが、サンセット号に飛び込んだ。	with green and golden hair jumped onto the Sunset.
 
-36545	Rance	「ッ、アレだ！　ゴラアアァァアァァァーーーーッ！	「That's them! Goraaaaaaaaah!
-36546	+	　志津香ぁぁぁぁぁぁぁ！！	　Shizukaaaaaaa!!
-36547	+	　何勝手してやがるかーーーーー！！」	　What the hell are you doing-----!!」
+36545	Rance	怒り	「ッ、アレだ！　ゴラアアァァアァァァーーーーッ！	「That's them! Goraaaaaaaaah!
+36546	+		　志津香ぁぁぁぁぁぁぁ！！	　Shizukaaaaaaa!!
+36547	+		　何勝手してやがるかーーーーー！！」	　What the hell are you doing-----!!」
 
-36548	Masou Shizuka	「……………………」	「........................」
+36548	Masou Shizuka	基本	「……………………」	「........................」
 
-36549	-	声を張り上げたランスにちらりと一度だけ振り返り、	Shizuka glanced back once at the shouting Rance,
-36550	+	志津香はそのままサンセット号に乗ってしまった。	then boarded the Sunset anyway.
+36549	-		声を張り上げたランスにちらりと一度だけ振り返り、	Shizuka glanced back once at the shouting Rance,
+36550	+		志津香はそのままサンセット号に乗ってしまった。	then boarded the Sunset anyway.
 
-36551	Patton Helman	「あーあー、あれな。本人がそうしたいってさ。	「Yeah, she really wanted to.
-36552	+	　通信用の魔法使いが必要だから、とか」	　Said we needed a communication mage or something.」
+36551	Patton Helman		「あーあー、あれな。本人がそうしたいってさ。	「Yeah, she really wanted to.
+36552	+		　通信用の魔法使いが必要だから、とか」	　Said we needed a communication mage or something.」
 
-36553	Rance	「魔法使いなんぞ一人や二人じゃないだろうが！	「We have plenty of mages!
-36554	+	　ええい、今すぐ……」	　Damn it, right now...」
+36553	Rance	イライラ	「魔法使いなんぞ一人や二人じゃないだろうが！	「We have plenty of mages!
+36554	+		　ええい、今すぐ……」	　Damn it, right now...」
 
-36555	Urza Pranaice	「総統、時間が」	「Supreme Leader, time is...」
+36555	Urza Pranaice	基本	「総統、時間が」	「Supreme Leader, time is...」
 
-36556	Rance	「…………やばいのか」	「............Is it bad?」
+36556	Rance	真剣	「…………やばいのか」	「............Is it bad?」
 
-36557	Urza Pranaice	「海に尋ねてみましょうか」	「Shall we ask the sea?」
+36557	Urza Pranaice	基本	「海に尋ねてみましょうか」	「Shall we ask the sea?」
 
-36558	Rance	「………………ちっ。	「............Tch.
-36559	+	　まあ、考えてみれば今の姿で船セックスできる	　Well, thinking about it, with her current form
-36560	+	　訳でもないか。ふん、ふん」	　we can't even have ship sex. Hmph, hmph.」
+36558	Rance	だる顔	「………………ちっ。	「............Tch.
+36559	+		　まあ、考えてみれば今の姿で船セックスできる	　Well, thinking about it, with her current form
+36560	+		　訳でもないか。ふん、ふん」	　we can't even have ship sex. Hmph, hmph.」
 
-36561	Eleanor Ran	「ん、志津香……向こうの船に行ったのね。	「Hmm, Shizuka... went to the other ship.
-36562	+	　その方が安全か…………あ」	　That might be safer............ Ah.」
+36561	Eleanor Ran	基本	「ん、志津香……向こうの船に行ったのね。	「Hmm, Shizuka... went to the other ship.
+36562	+		　その方が安全か…………あ」	　That might be safer............ Ah.」
 
-36563	Eleanor Ran~	（……あそこの影……ビヨンホウ市長……）	（...That shadow over there... Mayor Biyonhou...）
+36563	Eleanor Ran~		（……あそこの影……ビヨンホウ市長……）	（...That shadow over there... Mayor Biyonhou...）
 
-36564	Biyonhou Osman~	（裏切り者が、どの面下げて……	（A traitor showing his face...
-36565	+	　というところだが……）	　or so one would say...）
+36564	Biyonhou Osman~		（裏切り者が、どの面下げて……	（A traitor showing his face...
+36565	+		　というところだが……）	　or so one would say...）
 
-36566	-	人目を忍ぶようにしながら、	While avoiding attention,
-36567	+	ビヨンホウはランス達を見送っていた。	Biyonhou watched Rance and the others depart.
+36566	-		人目を忍ぶようにしながら、	While avoiding attention,
+36567	+		ビヨンホウはランス達を見送っていた。	Biyonhou watched Rance and the others depart.
 
-36568	Eleanor Ran	「……………………」	「........................」
+36568	Eleanor Ran		「……………………」	「........................」
 
-36569	-	ランは小さく、ビヨンホウに向かって会釈した。	Ran gave a small bow toward Biyonhou.
+36569	-		ランは小さく、ビヨンホウに向かって会釈した。	Ran gave a small bow toward Biyonhou.
 
-36570	Urza Pranaice	「総統。私たち参謀も、	「Supreme Leader. We staff officers will
-36571	+	　残ってランス城で指揮に務めます」	　stay behind and command from Rance Castle.」
+36570	Urza Pranaice		「総統。私たち参謀も、	「Supreme Leader. We staff officers will
+36571	+		　残ってランス城で指揮に務めます」	　stay behind and command from Rance Castle.」
 
-36572	Rance	「む……そうか、仕方ないな」	「Mu... I see, can't be helped.」
+36572	Rance	真剣	「む……そうか、仕方ないな」	「Mu... I see, can't be helped.」
 
-36573	Urza Pranaice	「今回は、人類の最後の賭けです。	「This is humanity's final gamble.
-36574	+	　あるだけの全てを投入したと言える作戦ですが……	　We've poured everything we have into this operation...
-36575	+	　その分、こちらは手薄です」	　Which means we're quite thin here.」
+36573	Urza Pranaice	基本	「今回は、人類の最後の賭けです。	「This is humanity's final gamble.
+36574	+		　あるだけの全てを投入したと言える作戦ですが……	　We've poured everything we have into this operation...
+36575	+		　その分、こちらは手薄です」	　Which means we're quite thin here.」
 
-36576	Arlcoate Marius	「が、頑張って……	「But we'll do our best...
-36577	+	　おじ様の帰る場所を、護ります……！」	　and protect the place for Uncle to return to...!」
+36576	Arlcoate Marius		「が、頑張って……	「But we'll do our best...
+36577	+		　おじ様の帰る場所を、護ります……！」	　and protect the place for Uncle to return to...!」
 
-36578	Cream Ganoblade	「各国の兵をまとめ、指揮を執る事になります。	「We'll be commanding and organizing soldiers from various countries.
-36579	+	　長期間は、厳しいものがありますが……」	　It will be tough for a long period, but...」
+36578	Cream Ganoblade		「各国の兵をまとめ、指揮を執る事になります。	「We'll be commanding and organizing soldiers from various countries.
+36579	+		　長期間は、厳しいものがありますが……」	　It will be tough for a long period, but...」
 
-36580	Rance	「分かってる。それまでに決めてやる」	「I know. I'll settle it before then.」
+36580	Rance		「分かってる。それまでに決めてやる」	「I know. I'll settle it before then.」
 
-36581	Reset Kalar	「やーーーーーーー！」	「Nooooooo!」
+36581	Reset Kalar		「やーーーーーーー！」	「Nooooooo!」
 
-36582	Rance	「…………ん？」	「............Hm?」
+36582	Rance	真剣	「…………ん？」	「............Hm?」
 
-36583	Reset Kalar	「私、なんでお留守番なのーーー！？」	「Why do I have to stay behind-----!?」
+36583	Reset Kalar	基本	「私、なんでお留守番なのーーー！？」	「Why do I have to stay behind-----!?」
 
-36584	Tokugawa Sen	「子供だからだ。	「Because you're a child.
-36585	+	　ここから先の戦は並のものではない」	　The battles from here on are not ordinary.」
+36584	Tokugawa Sen		「子供だからだ。	「Because you're a child.
+36585	+		　ここから先の戦は並のものではない」	　The battles from here on are not ordinary.」
 
-36586	Reset Kalar	「ででで、でも……	「B-b-but...
-36587	+	　おかーさんもおとーさんも行くのに……」	　Mom and Dad are going...」
+36586	Reset Kalar		「ででで、でも……	「B-b-but...
+36587	+		　おかーさんもおとーさんも行くのに……」	　Mom and Dad are going...」
 
-36588	Tokugawa Sen	「どうしてもというなら、私を負かしていくといい。	「If you insist, then defeat me first.
-36589	+	　それなら御母堂もランスも、文句は言うまい」	　Then neither your mother nor Rance can complain.」
+36588	Tokugawa Sen		「どうしてもというなら、私を負かしていくといい。	「If you insist, then defeat me first.
+36589	+		　それなら御母堂もランスも、文句は言うまい」	　Then neither your mother nor Rance can complain.」
 
-36590	Reset Kalar	「う……それは…………	「U... That's......
-36591	?	ごめんなさい」	Sorry.」
+36590	Reset Kalar	真剣	「う……それは…………	「U... That's......
+36591	?		ごめんなさい」	Sorry.」
 
-36592	-	がっくりと、リセットはうなだれた。	Reset drooped her shoulders dejectedly.
+36592	-		がっくりと、リセットはうなだれた。	Reset drooped her shoulders dejectedly.
 
-36593	Tokugawa Sen	「聞き分けたか、よい子だ。	「Good girl for listening.
-36594	+	　さ、見送ったら帰るぞ」	　Now, let's go home after seeing them off.」
+36593	Tokugawa Sen	基本	「聞き分けたか、よい子だ。	「Good girl for listening.
+36594	+		　さ、見送ったら帰るぞ」	　Now, let's go home after seeing them off.」
 
-36595	-	ふっと柔らかく微笑んで、千姫は踵を返した。	Senhime smiled gently and turned on her heel.
+36595	-		ふっと柔らかく微笑んで、千姫は踵を返した。	Senhime smiled gently and turned on her heel.
 
-36596	Reset Kalar	「今だ！　スリー……！」	「Now! Three...!」
+36596	Reset Kalar	怒り	「今だ！　スリー……！」	「Now! Three...!」
 
-36597	Tokugawa Sen	「甘い」	「Too naive.」
+36597	Tokugawa Sen	基本	「甘い」	「Too naive.」
 
-36598	Reset Kalar	「ふぇ！？」	「Fue!?」
+36598	Reset Kalar		「ふぇ！？」	「Fue!?」
 
-36599	-	千姫はするりとリセットの背後に回り、	Senhime smoothly moved behind Reset,
-36600	+	そのとんがった耳をつまみ上げた。	and pinched her pointed ear.
+36599	-		千姫はするりとリセットの背後に回り、	Senhime smoothly moved behind Reset,
+36600	+		そのとんがった耳をつまみ上げた。	and pinched her pointed ear.
 
-36601	Reset Kalar	「いたっ！　いた、いたたたた！」	「Ouch! It hurts, it hurts!」
+36601	Reset Kalar		「いたっ！　いた、いたたたた！」	「Ouch! It hurts, it hurts!」
 
-36602	Tokugawa Sen	「思い切りはいいが、相手の誘いに気付かぬようでは	「You have spirit, but if you can't notice the opponent's bait,
-36603	+	　話にならん」	　it's no good.」
+36602	Tokugawa Sen		「思い切りはいいが、相手の誘いに気付かぬようでは	「You have spirit, but if you can't notice the opponent's bait,
+36603	+		　話にならん」	　it's no good.」
 
-36604	-	言うだけ言うと、千姫はひょいとリセットを	After saying her piece, Senhime lightly picked up Reset
-36605	+	小脇に抱えた。	and tucked her under her arm.
+36604	-		言うだけ言うと、千姫はひょいとリセットを	After saying her piece, Senhime lightly picked up Reset
+36605	+		小脇に抱えた。	and tucked her under her arm.
 
-36606	Reset Kalar	「わーーーん！　おかーさん！　おかーさん！」	「Waaah! Mom! Mom!」
+36606	Reset Kalar		「わーーーん！　おかーさん！　おかーさん！」	「Waaah! Mom! Mom!」
 
-36607	Pastel Kalar	「う…………」	「Ugh......」
+36607	Pastel Kalar	ぐぬぬ	「う…………」	「Ugh......」
 
-36608	Tokugawa Sen	「これでよいのだな」	「This is fine, right?」
+36608	Tokugawa Sen	基本	「これでよいのだな」	「This is fine, right?」
 
-36609	Pastel Kalar	「う……うむ。リセットはカラーの唯一の姫。	「Y... Yeah. Reset is Kalar's only princess.
-36610	+	　妾にもしもの事があれば、	　If something happens to me,
-36611	+	　一族を背負わなければならぬ」	　she must carry the clan.」
+36609	Pastel Kalar	疲れた	「う……うむ。リセットはカラーの唯一の姫。	「Y... Yeah. Reset is Kalar's only princess.
+36610	+		　妾にもしもの事があれば、	　If something happens to me,
+36611	+		　一族を背負わなければならぬ」	　she must carry the clan.」
 
-36612	Reset Kalar	「おかーさん……」	「Mom...」
+36612	Reset Kalar	基本	「おかーさん……」	「Mom...」
 
-36613	Tokugawa Sen	「御子-ｵｺ-は確かに預かった。	「I have taken custody of your child.
-36614	+	　戻るまでの間、命に代えても私が護ろう。	　Until you return, I will protect her with my life.
-36615	+	　……ランスも、それでいいな？」	　...Rance, is that fine?」
+36613	Tokugawa Sen		「御子-ｵｺ-は確かに預かった。	「I have taken custody of your child.
+36614	+		　戻るまでの間、命に代えても私が護ろう。	　Until you return, I will protect her with my life.
+36615	+		　……ランスも、それでいいな？」	　...Rance, is that fine?」
 
-36616	Rance	「……ふん。そもそも、	「...Hmph. Honestly,
-36617	+	　今までついてくるのがおかしかったんだ。	　it was weird she came along until now.
-36618	+	　ガキは大人しく家で遊んでろ」	　Kids should stay home and play quietly.」
+36616	Rance	真剣	「……ふん。そもそも、	「...Hmph. Honestly,
+36617	+		　今までついてくるのがおかしかったんだ。	　it was weird she came along until now.
+36618	+		　ガキは大人しく家で遊んでろ」	　Kids should stay home and play quietly.」
 
-36619	Reset Kalar	「おとーさん……」	「Dad...」
+36619	Reset Kalar	基本	「おとーさん……」	「Dad...」
 
-36620	Sill Plain	「リセットちゃん、ランス様は	「Reset-chan, Rance-sama is
-36621	+	　危ない所に連れてくのが心配で……」	　worried about taking you to dangerous places...」
+36620	Sill Plain		「リセットちゃん、ランス様は	「Reset-chan, Rance-sama is
+36621	+		　危ない所に連れてくのが心配で……」	　worried about taking you to dangerous places...」
 
-36622	Sill Plain	「ひんっ！」	「Hin!」
+36622	Sill Plain	ひんひん	「ひんっ！」	「Hin!」
 
-36623	Rance	「余計な事を抜かすな」	「Don't say unnecessary things.」
+36623	Rance	イライラ	「余計な事を抜かすな」	「Don't say unnecessary things.」
 
-36624	Reset Kalar	「うん……おとーさん、おかーさん……	「Okay... Dad, Mom...
-36625	+	　すぐ、帰ってきてね」	　Come back soon, okay?」
+36624	Reset Kalar	基本	「うん……おとーさん、おかーさん……	「Okay... Dad, Mom...
+36625	+		　すぐ、帰ってきてね」	　Come back soon, okay?」
 
-36626	Rance	「楽勝だ。俺様は世界一の男だからな」	「It's a piece of cake. I'm the greatest man in the world.」
+36626	Rance		「楽勝だ。俺様は世界一の男だからな」	「It's a piece of cake. I'm the greatest man in the world.」
 
-36627	Pastel Kalar	「ま……この男がどうなるかは知らぬが。	「Well... I don't know what will happen to this man.
-36628	+	　よい子で待っておれ」	　Wait like a good girl.」
+36627	Pastel Kalar	片手間モルルン	「ま……この男がどうなるかは知らぬが。	「Well... I don't know what will happen to this man.
+36628	+		　よい子で待っておれ」	　Wait like a good girl.」
 
-36629	Patton Helman	「じゃ、そろそろいいかい。乗り込むぜ！」	「Alright, time to board!」
+36629	Patton Helman	基本	「じゃ、そろそろいいかい。乗り込むぜ！」	「Alright, time to board!」

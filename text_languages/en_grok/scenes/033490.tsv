@@ -7,163 +7,163 @@
 * Apache	アパッチ	Male
 * Swordmaster	剣豪	Male
 
-245839	-	マエリータ隊の面々が	The members of the Maelita Squad
-245840	+	ランス城の正門前に着地する。	landed in front of the main gate of Rance Castle.
+245839	-		マエリータ隊の面々が	The members of the Maelita Squad
+245840	+		ランス城の正門前に着地する。	landed in front of the main gate of Rance Castle.
 
-245841	Muscle	「くぅー、肩が凝っちまったぜ」	「Kuu, my shoulders are stiff.」
+245841	Muscle	基本	「くぅー、肩が凝っちまったぜ」	「Kuu, my shoulders are stiff.」
 
-245842	Muscle	「しかし、案外バレないもんだな」	「But surprisingly we weren't noticed.」
+245842	Muscle		「しかし、案外バレないもんだな」	「But surprisingly we weren't noticed.」
 
-245843	Needle	「馬ァー鹿」	「Idiiiot.」
+245843	Needle		「馬ァー鹿」	「Idiiiot.」
 
-245844	Muscle	「な、なんだとぉ！？」	「W-what did you say!?」
+245844	Muscle		「な、なんだとぉ！？」	「W-what did you say!?」
 
-245845	Needle	「バレなかったのは学者が頑張ってくれたからに	「We weren't spotted because the Scholar worked hard
-245846	+	　決まってんじゃん」	　that's why.」
+245845	Needle		「バレなかったのは学者が頑張ってくれたからに	「We weren't spotted because the Scholar worked hard
+245846	+		　決まってんじゃん」	　that's why.」
 
-245847	Scholar	「ふう……	「Phew...
-245848	+	　いえ、私は大したことは……」	　No, I didn't do much...」
+245847	Scholar		「ふう……	「Phew...
+245848	+		　いえ、私は大したことは……」	　No, I didn't do much...」
 
-245849	Muscle	「へ？　なにしてたんだ？」	「Eh? What did you do?」
+245849	Muscle		「へ？　なにしてたんだ？」	「Eh? What did you do?」
 
-245850	Scholar	「この城にかけられた侵入者用の探索魔法、	「I neutralized the intruder detection magic
-245851	+	　私の力で無効化しました……」	　cast on this castle...」
+245850	Scholar		「この城にかけられた侵入者用の探索魔法、	「I neutralized the intruder detection magic
+245851	+		　私の力で無効化しました……」	　cast on this castle...」
 
-245852	Scholar	「魔法なら私がどうにか出来ますが……	「I can handle magic but...
-245853	+	　問題は人力の方ですね」	　the problem is the human guards.」
+245852	Scholar		「魔法なら私がどうにか出来ますが……	「I can handle magic but...
+245853	+		　問題は人力の方ですね」	　the problem is the human guards.」
 
-245854	Muscle	「単純な見回りとかだな、	「Simple patrols and such,
-245855	+	　なーにそっちなら俺らで……」	　we can handle that...」
+245854	Muscle		「単純な見回りとかだな、	「Simple patrols and such,
+245855	+		　なーにそっちなら俺らで……」	　we can handle that...」
 
-245856	Needle	「シッ、マッスル、静かに」	「Shh, Muscle, be quiet.」
+245856	Needle		「シッ、マッスル、静かに」	「Shh, Muscle, be quiet.」
 
-245857	Muscle	「あれは……」	「That's...」
+245857	Muscle		「あれは……」	「That's...」
 
-245858	-	ニードルが指さす先には、	Where Needle pointed,
-245859	+	ランス城守備隊の娘が二人いた。	two girls from Rance Castle's defense force stood.
+245858	-		ニードルが指さす先には、	Where Needle pointed,
+245859	+		ランス城守備隊の娘が二人いた。	two girls from Rance Castle's defense force stood.
 
-245860	Scholar	「この城の守備兵、ですね……	「Guards of this castle...
-245861	+	　おそらく見回り中でしょう。	　Probably on patrol.
-245862	+	　見つかってはまずいです」	　We can't let them spot us.」
+245860	Scholar		「この城の守備兵、ですね……	「Guards of this castle...
+245861	+		　おそらく見回り中でしょう。	　Probably on patrol.
+245862	+		　見つかってはまずいです」	　We can't let them spot us.」
 
-245863	Muscle	「なら、倒しとけばいい」	「Then just take them out.」
+245863	Muscle		「なら、倒しとけばいい」	「Then just take them out.」
 
-245864	-	そっとマッスルが背後から二人に近づく。	Muscle quietly approached the two from behind.
+245864	-		そっとマッスルが背後から二人に近づく。	Muscle quietly approached the two from behind.
 
-245865	Muscle~	（悪ぃな、ちょいとおねんねしていてくれよ……）	（Sorry, just go to sleep for a bit...）
+245865	Muscle~		（悪ぃな、ちょいとおねんねしていてくれよ……）	（Sorry, just go to sleep for a bit...）
 
-245866	Muscle	「ふんっ！」	「Hmph!」
+245866	Muscle		「ふんっ！」	「Hmph!」
 
-245867	-	　	　
-245868	+	　　＜キイイイィィン！＞	　　＜Kiiiin!＞
+245867	-		　	　
+245868	+		　　＜キイイイィィン！＞	　　＜Kiiiin!＞
 
-245869	Muscle	「ええええ！？」	「Ehhhh!?」
+245869	Muscle		「ええええ！？」	「Ehhhh!?」
 
-245870	Krutche Muffin	「うはっ？」	「Uha?」
+245870	Krutche Muffin		「うはっ？」	「Uha?」
 
-245871	-	振り返りながら抜き放った	Krutche drew her sword while turning
-245872	+	クルーチェの剣の一撃が	and her strike
-245873	+	マッスルの攻撃を弾いた。	deflected Muscle's attack.
+245871	-		振り返りながら抜き放った	Krutche drew her sword while turning
+245872	+		クルーチェの剣の一撃が	and her strike
+245873	+		マッスルの攻撃を弾いた。	deflected Muscle's attack.
 
-245874	Krutche Muffin	「えーと、誰っすかねー？」	「Umm, who are you?」
+245874	Krutche Muffin		「えーと、誰っすかねー？」	「Umm, who are you?」
 
-245875	Muscle	「ぬ、わっ……ちょ、タンマ、タンマ……！	「Nu, wah... wait, wait...!
-245876	+	　てか、なんちゅう剣圧だ！」	　What the hell is with that sword pressure!」
+245875	Muscle		「ぬ、わっ……ちょ、タンマ、タンマ……！	「Nu, wah... wait, wait...!
+245876	+		　てか、なんちゅう剣圧だ！」	　What the hell is with that sword pressure!」
 
-245877	-	ヘラヘラと笑いながらも、	Even while laughing casually,
-245878	+	クルーチェの連続攻撃は	Krutche's continuous attacks
-245879	+	一瞬も緩む間もなくマッスルに迫る。	pressed Muscle without a moment's pause.
+245877	-		ヘラヘラと笑いながらも、	Even while laughing casually,
+245878	+		クルーチェの連続攻撃は	Krutche's continuous attacks
+245879	+		一瞬も緩む間もなくマッスルに迫る。	pressed Muscle without a moment's pause.
 
-245880	Rance Castle Knight	「て、敵襲！？	「E-enemy attack!?
-245881	+	　私！　皆を呼んできます！」	　I'll go call everyone!」
+245880	Rance Castle Knight		「て、敵襲！？	「E-enemy attack!?
+245881	+		　私！　皆を呼んできます！」	　I'll go call everyone!」
 
-245882	Krutche Muffin	「うーっす、お任せしまっす」	「Yessir, leave it to me.」
+245882	Krutche Muffin		「うーっす、お任せしまっす」	「Yessir, leave it to me.」
 
-245883	Muscle	「あ、こら待てや！」	「Ah, hey wait!」
+245883	Muscle		「あ、こら待てや！」	「Ah, hey wait!」
 
-245884	Krutche Muffin	「すんません、通行止めです。	「Sorry, road closed.
-245885	+	　止めとかないと、ウチが団長に怒られちゃうんで」	　If I don't stop you I'll get yelled at by the captain.」
+245884	Krutche Muffin		「すんません、通行止めです。	「Sorry, road closed.
+245885	+		　止めとかないと、ウチが団長に怒られちゃうんで」	　If I don't stop you I'll get yelled at by the captain.」
 
-245886	Muscle	「こ、この……ッ！」	「Y-you...!」
+245886	Muscle		「こ、この……ッ！」	「Y-you...!」
 
-245887	-	　	　
-245888	+	　　＜ドサッ！＞	　　＜Thud!＞
+245887	-		　	　
+245888	+		　　＜ドサッ！＞	　　＜Thud!＞
 
-245889	Krutche Muffin	「あり？」	「Eh?」
+245889	Krutche Muffin		「あり？」	「Eh?」
 
-245890	Rance Castle Knight	「うぐ……す、すみません……	「Ugu... s-sorry...
-245891	+	　クルーチェ、さん……」	　Krutche-san...」
+245890	Rance Castle Knight	泣き	「うぐ……す、すみません……	「Ugu... s-sorry...
+245891	+		　クルーチェ、さん……」	　Krutche-san...」
 
-245892	Needle	「ふんっ、これくらいなら、	「Hmph, this much is
-245893	+	　あたし一人で楽勝」	　easy for me alone.」
+245892	Needle	基本	「ふんっ、これくらいなら、	「Hmph, this much is
+245893	+		　あたし一人で楽勝」	　easy for me alone.」
 
-245894	-	最も身軽なニードルが騎士団の娘を倒していた。	The lightest Needle had taken down the knight girl.
+245894	-		最も身軽なニードルが騎士団の娘を倒していた。	The lightest Needle had taken down the knight girl.
 
-245895	Krutche Muffin	「ありゃりゃ。	「Oh dear.
-245896	+	　珍しく気張ったの失敗だったかなー」	　My rare serious effort failed huhー」
+245895	Krutche Muffin		「ありゃりゃ。	「Oh dear.
+245896	+		　珍しく気張ったの失敗だったかなー」	　My rare serious effort failed huhー」
 
-245897	Apache	「ふんっ！」	「Hmph!」
+245897	Apache		「ふんっ！」	「Hmph!」
 
-245898	Krutche Muffin	「ぐうっ……！」	「Guuh...!」
+245898	Krutche Muffin		「ぐうっ……！」	「Guuh...!」
 
-245899	-	クルーチェをアパッチが手刀で気絶させた。	Apache knocked Krutche unconscious with a chop.
+245899	-		クルーチェをアパッチが手刀で気絶させた。	Apache knocked Krutche unconscious with a chop.
 
-245900	Apache	「……見張りでこの強さとはな。	「...To have this strength as a guard.
-245901	+	　これは気を引き締めねば……」	　We must stay sharp...」
+245900	Apache		「……見張りでこの強さとはな。	「...To have this strength as a guard.
+245901	+		　これは気を引き締めねば……」	　We must stay sharp...」
 
-245902	Muscle	「って、こら！	「Hey!
-245903	+	　俺が華麗に倒すまでそこは待てよ！」	　Wait until I take her down stylishly!」
+245902	Muscle		「って、こら！	「Hey!
+245903	+		　俺が華麗に倒すまでそこは待てよ！」	　Wait until I take her down stylishly!」
 
-245904	Apache	「え、あ、な！？」	「Eh, ah, what!?」
+245904	Apache		「え、あ、な！？」	「Eh, ah, what!?」
 
-245905	?	「そうですよー、アパッチさん」	「That's rightー, Apache-san.」
+245905	?		「そうですよー、アパッチさん」	「That's rightー, Apache-san.」
 
-245906	?	「今のはマッスルさん可哀想ですよー」	「That was pitiful for Muscle-sanー」
+245906	?		「今のはマッスルさん可哀想ですよー」	「That was pitiful for Muscle-sanー」
 
-245907	Apache	「いや、しかし……なあ……？」	「No, but... right...?」
+245907	Apache		「いや、しかし……なあ……？」	「No, but... right...?」
 
-245908	Swordmaster	「…………」	「............」
+245908	Swordmaster		「…………」	「............」
 
-245909	-	アパッチが救いを求めるように	Apache looked at the Swordmaster
-245910	+	チラリと剣豪に目を向けた。	seeking help.
+245909	-		アパッチが救いを求めるように	Apache looked at the Swordmaster
+245910	+		チラリと剣豪に目を向けた。	seeking help.
 
-245911	Swordmaster	「つきはむらくもでかげった……」	「The moon is clouded...」
+245911	Swordmaster		「つきはむらくもでかげった……」	「The moon is clouded...」
 
-245912	-	ふいっと剣豪は目を逸らした。	The Swordmaster looked away.
+245912	-		ふいっと剣豪は目を逸らした。	The Swordmaster looked away.
 
-245913	Apache	「剣豪……お前まで……！？」	「Swordmaster... even you...!?」
+245913	Apache		「剣豪……お前まで……！？」	「Swordmaster... even you...!?」
 
-245914	Needle	「まーまー、あいつら馬鹿だから	「There there, those guys are idiots
-245915	+	　気にしなくっていいよー」	　so don't mind themー」
+245914	Needle		「まーまー、あいつら馬鹿だから	「There there, those guys are idiots
+245915	+		　気にしなくっていいよー」	　so don't mind themー」
 
-245916	Scholar	「…………」	「............」
+245916	Scholar		「…………」	「............」
 
-245917	-	敵地にあってはしゃぐマエリータ隊の仲間を	The Scholar watched meaningfully
-245918	+	学者は意味深に見つめる。	as the Maelita Squad members got excited in enemy territory.
+245917	-		敵地にあってはしゃぐマエリータ隊の仲間を	The Scholar watched meaningfully
+245918	+		学者は意味深に見つめる。	as the Maelita Squad members got excited in enemy territory.
 
-245919	-	今、この場ではしゃぐのは	The reason they are excited now
-245920	+	何も彼らが気楽だからではない。	is not because they are carefree.
+245919	-		今、この場ではしゃぐのは	The reason they are excited now
+245920	+		何も彼らが気楽だからではない。	is not because they are carefree.
 
-245921	-	誰も彼もがこの場での死を覚悟しているからである。	Everyone here has resolved themselves to die.
+245921	-		誰も彼もがこの場での死を覚悟しているからである。	Everyone here has resolved themselves to die.
 
-245922	Scholar~	（敵地への潜入、おそらく全員が無事に	（Infiltrating enemy territory, probably not everyone
-245923	+	　帰ることは出来ないでしょう。	　will return safely.
-245924	+	　もしかしたら全滅かも知れない）	　We might even be wiped out.）
+245922	Scholar~		（敵地への潜入、おそらく全員が無事に	（Infiltrating enemy territory, probably not everyone
+245923	+		　帰ることは出来ないでしょう。	　will return safely.
+245924	+		　もしかしたら全滅かも知れない）	　We might even be wiped out.）
 
-245925	Scholar~	（だからこそ……）	（That's exactly why...）
+245925	Scholar~		（だからこそ……）	（That's exactly why...）
 
-245926	Scholar~	（いえ……）	（No...）
+245926	Scholar~		（いえ……）	（No...）
 
-245927	Scholar~	（いけませんね……	（I can't think like that...
-245928	+	　隊長である私がそのような弱気では……）	　as the captain I can't be so weak...）
+245927	Scholar~		（いけませんね……	（I can't think like that...
+245928	+		　隊長である私がそのような弱気では……）	　as the captain I can't be so weak...）
 
-245929	Muscle	「さーさー、なーに暗い顔してやがんだ！	「Come on, why the long face!
-245930	+	　ズバーッとブチかましてやろうぜ！	　Let's smash right through!
-245931	+	　隊長殿！」	　Captain!」
+245929	Muscle		「さーさー、なーに暗い顔してやがんだ！	「Come on, why the long face!
+245930	+		　ズバーッとブチかましてやろうぜ！	　Let's smash right through!
+245931	+		　隊長殿！」	　Captain!」
 
-245932	Scholar	「……ふっ、そうですね」	「...Fufu, you're right.」
+245932	Scholar		「……ふっ、そうですね」	「...Fufu, you're right.」
 
-245933	Scholar	「皆さん、慎重に進みますよ……」	「Everyone, proceed carefully...」
+245933	Scholar		「皆さん、慎重に進みますよ……」	「Everyone, proceed carefully...」
 
-245934	-	マエリータ隊が辺りを気にしながら、	While staying alert to their surroundings,
-245935	+	静かにランス城の中に入り込んだ。	the Maelita Squad quietly entered Rance Castle.
+245934	-		マエリータ隊が辺りを気にしながら、	While staying alert to their surroundings,
+245935	+		静かにランス城の中に入り込んだ。	the Maelita Squad quietly entered Rance Castle.

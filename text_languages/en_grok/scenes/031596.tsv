@@ -2,85 +2,85 @@
 * Rance	ランス	Male
 * Atago McCart	アタゴ	Female
 
-90468	Rance	「おーう、飲みに来たぞー」	「Hey, I'm here to drink.」
+90468	Rance	基本	「おーう、飲みに来たぞー」	「Hey, I'm here to drink.」
 
-90469	Atago McCart	「はあ……」	「Haa...」
+90469	Atago McCart		「はあ……」	「Haa...」
 
-90470	Rance	「む、人が来た途端溜め息とは失礼な」	「Hey, sighing the moment a customer arrives is rude.」
+90470	Rance		「む、人が来た途端溜め息とは失礼な」	「Hey, sighing the moment a customer arrives is rude.」
 
-90471	Atago McCart	「ああ、別にあんたがどうってわけじゃなくてね」	「Ah, it's not about you specifically.
+90471	Atago McCart		「ああ、別にあんたがどうってわけじゃなくてね」	「Ah, it's not about you specifically.
 
-90472	Atago McCart	「もう、客なんてあんたくらいしか	　At this point you're basically the only customer
-90473	+	　来ないわねって……」	　left...」
+90472	Atago McCart		「もう、客なんてあんたくらいしか	　At this point you're basically the only customer
+90473	+		　来ないわねって……」	　left...」
 
-90474	Rance	「戦争でほとんどの奴が疎開したらしいからなぁ」	「Most people evacuated because of the war.」
+90474	Rance	だる顔	「戦争でほとんどの奴が疎開したらしいからなぁ」	「Most people evacuated because of the war.」
 
-90475	Atago McCart	「注文は？」	「What'll you have?」
+90475	Atago McCart	基本	「注文は？」	「What'll you have?」
 
-90476	Rance	「梅ビール」	「Plum beer.」
+90476	Rance		「梅ビール」	「Plum beer.」
 
-90477	Atago McCart	「…………」	「............」
+90477	Atago McCart		「…………」	「............」
 
-90478	Rance	「なんだ？」	「What?」
+90478	Rance		「なんだ？」	「What?」
 
-90479	Atago McCart	「シィルちゃんは？	「Where's Sill-chan?
-90480	+	　いっつも一緒にいるのに」	　She's always with you.」
+90479	Atago McCart		「シィルちゃんは？	「Where's Sill-chan?
+90480	+		　いっつも一緒にいるのに」	　She's always with you.」
 
-90481	Rance	「ああ、参謀連中に呼ばれて	「Ah, the strategists called her,
-90482	+	　あいつは今日秘書の仕事しとる」	　so she's doing secretary work today.」
+90481	Rance	だる顔	「ああ、参謀連中に呼ばれて	「Ah, the strategists called her,
+90482	+		　あいつは今日秘書の仕事しとる」	　so she's doing secretary work today.」
 
-90483	Rance	「まったく俺の世話より優先するとは	「Prioritizing that over taking care of me,
-90484	+	　なってない奴隷だ」	　what a useless slave.」
+90483	Rance		「まったく俺の世話より優先するとは	「Prioritizing that over taking care of me,
+90484	+		　なってない奴隷だ」	　what a useless slave.」
 
-90485	Rance	「だから……」	「So...
+90485	Rance	真剣	「だから……」	「So...
 
-90486	Rance	「今日はアタゴちゃんのケツを揉みに来たのだー。	「Today I came to grope Atago-chan's ass.
-90487	+	　がはははははははは！」	　Gahahahahahaha!」
+90486	Rance	笑顔	「今日はアタゴちゃんのケツを揉みに来たのだー。	「Today I came to grope Atago-chan's ass.
+90487	+		　がはははははははは！」	　Gahahahahahaha!」
 
-90488	Atago McCart	「…………」	「............」
+90488	Atago McCart	恥	「…………」	「............」
 
-90489	Atago McCart	「……触るな」	「...Don't touch.」
+90489	Atago McCart		「……触るな」	「...Don't touch.」
 
-90490	Rance	「はいはい、そう怖い顔するな」	「Yes yes, don't make such a scary face.」
+90490	Rance	基本	「はいはい、そう怖い顔するな」	「Yes yes, don't make such a scary face.」
 
-90491	Rance	「ふん、つまらん。	「Hmph, boring.
-90492	+	　とっとと酒持ってこい」	　Bring the drink already.」
+90491	Rance	真剣	「ふん、つまらん。	「Hmph, boring.
+90492	+		　とっとと酒持ってこい」	　Bring the drink already.」
 
-90493	Atago McCart	「あんた……」	「You...」
+90493	Atago McCart	基本	「あんた……」	「You...」
 
-90494	Rance	「ん？」	「Hm?」
+90494	Rance		「ん？」	「Hm?」
 
-90495	Atago McCart	「もしかして拗ねてんの？」	「Are you sulking?」
+90495	Atago McCart	微笑み	「もしかして拗ねてんの？」	「Are you sulking?」
 
-90496	Rance	「はあ？」	「Haa?」
+90496	Rance	だる顔	「はあ？」	「Haa?」
 
-90497	Rance	「なんで俺が？」	「Why would I?」
+90497	Rance	真剣	「なんで俺が？」	「Why would I?」
 
-90498	-	ランスの目の色が少し変わるのを見て、	Seeing a slight change in Rance's eyes,
-90499	+	アタゴが何かに気づく。	Atago noticed something.
+90498	-		ランスの目の色が少し変わるのを見て、	Seeing a slight change in Rance's eyes,
+90499	+		アタゴが何かに気づく。	Atago noticed something.
 
-90500	Atago McCart	「ぷっ……」	「Pff...」
+90500	Atago McCart	基本	「ぷっ……」	「Pff...」
 
-90501	Rance	「なんだ？」	「What?」
+90501	Rance		「なんだ？」	「What?」
 
-90502	Atago McCart	「ふーん、へー、ほー」	「Hmm, heh, ho.」
+90502	Atago McCart	微笑み	「ふーん、へー、ほー」	「Hmm, heh, ho.」
 
-90503	Rance	「なんだ！？」	「What!?」
+90503	Rance	基本	「なんだ！？」	「What!?」
 
-90504	Atago McCart	「初めてあんたに好感が持てた」	「This is the first time I feel any goodwill toward you.」
+90504	Atago McCart	微笑み	「初めてあんたに好感が持てた」	「This is the first time I feel any goodwill toward you.」
 
-90505	Atago McCart	「あの子、いい子なんだから、	「That girl is a good kid,
-90506	+	　絶対に手放したりしないようになさいよ」	　so don't ever let her go.」
+90505	Atago McCart		「あの子、いい子なんだから、	「That girl is a good kid,
+90506	+		　絶対に手放したりしないようになさいよ」	　so don't ever let her go.」
 
-90507	Atago McCart	「大事にしてあげな」	「Treasure her.」
+90507	Atago McCart		「大事にしてあげな」	「Treasure her.」
 
-90508	Rance	「む、むむむ……」	「Mu, mumumu...」
+90508	Rance	だる顔	「む、むむむ……」	「Mu, mumumu...」
 
-90509	Rance	「今日のアタゴちゃんはなんか嫌だ。	「Today's Atago-chan is annoying.
-90510	+	　帰る」	　I'm leaving.」
+90509	Rance		「今日のアタゴちゃんはなんか嫌だ。	「Today's Atago-chan is annoying.
+90510	+		　帰る」	　I'm leaving.」
 
-90511	Atago McCart	「ちょっとお代は？」	「Hey, what about the bill?」
+90511	Atago McCart	基本	「ちょっとお代は？」	「Hey, what about the bill?」
 
-90512	Rance	「ツケだー」	「Put it on my tab.」
+90512	Rance		「ツケだー」	「Put it on my tab.」
 
-90513	Atago McCart	「……まったく、ガキなんだから」	「...Seriously, such a kid.」
+90513	Atago McCart		「……まったく、ガキなんだから」	「...Seriously, such a kid.」

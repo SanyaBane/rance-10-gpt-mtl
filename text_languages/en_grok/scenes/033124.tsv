@@ -2,207 +2,207 @@
 * Zance Leazas	ザンス２	Male
 * El Mofus	エール２	Player's choice
 
-205141	Zance Leazas	「アア？　何してんだ、お前」	「Aa? What are you doing?」
+205141	Zance Leazas	基本	「アア？　何してんだ、お前」	「Aa? What are you doing?」
 
-205142	-	あなたの前に現れたのはザンスだった。	The one who appeared before you was Zance.
+205142	-		あなたの前に現れたのはザンスだった。	The one who appeared before you was Zance.
 
-205143	Zance Leazas	「ははーん、読めた。	「Heh, I get it.
-205144	+	　テメェ、緊張して眠れなくなったんだろ」	You can't sleep 'cause you're nervous, right?」
+205143	Zance Leazas	微笑み	「ははーん、読めた。	「Heh, I get it.
+205144	+		　テメェ、緊張して眠れなくなったんだろ」	You can't sleep 'cause you're nervous, right?」
 
-205145	Zance Leazas	「がははははははは、情けねぇ奴だな！」	「Gahahahahaha, what a pathetic guy!」
-205146	-	ぽかっ。	Bonk.
-205147	+	あなたは頭を小突かれてしまった。	You got lightly bonked on the head.
+205145	Zance Leazas	笑い	「がははははははは、情けねぇ奴だな！」	「Gahahahahaha, what a pathetic guy!」
+205146	-		ぽかっ。	Bonk.
+205147	+		あなたは頭を小突かれてしまった。	You got lightly bonked on the head.
 
-205148	Zance Leazas	「アホ。	「Idiot.
-205149	+	　俺のはただの散歩だ」	I'm just out for a walk.」
+205148	Zance Leazas	不満	「アホ。	「Idiot.
+205149	+		　俺のはただの散歩だ」	I'm just out for a walk.」
 
-205150	Zance Leazas	「おう、座んぞ」	「Yeah, sit down.」
+205150	Zance Leazas	基本	「おう、座んぞ」	「Yeah, sit down.」
 
-205151	-	あなたの返答を聞く気はないのだろう。	He doesn't seem to care about your answer.
-205152	+	ザンスはあなたの向かいのソファーに	Zance plopped down heavily
-205153	+	どっかりと乱暴に腰を下ろした。	on the sofa opposite you.
+205151	-		あなたの返答を聞く気はないのだろう。	He doesn't seem to care about your answer.
+205152	+		ザンスはあなたの向かいのソファーに	Zance plopped down heavily
+205153	+		どっかりと乱暴に腰を下ろした。	on the sofa opposite you.
 
-205154	Zance Leazas	「ふんっ……	「Hmph...
-205155	+	　静かすぎて落ち着かねぇ宿だな」	This inn is too quiet, it's unsettling.」
+205154	Zance Leazas		「ふんっ……	「Hmph...
+205155	+		　静かすぎて落ち着かねぇ宿だな」	This inn is too quiet, it's unsettling.」
 
-205156	Zance Leazas	「おう、お前もそう思うだろ？」	「Yeah, you think so too, right?」
+205156	Zance Leazas		「おう、お前もそう思うだろ？」	「Yeah, you think so too, right?」
 
-205157	-	ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
-205158	+	二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
+205157	-		ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
+205158	+		二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
 
-205159	-	しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
-205160	+	むしろ落ち着くとあなたは思った。	In fact, you feel calm.
+205159	-		しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
+205160	+		むしろ落ち着くとあなたは思った。	In fact, you feel calm.
 
-205161	-	なんとなく、	Somehow,
-205162	+	まったりとした時間が流れる。	a relaxed time flows gently.
+205161	-		なんとなく、	Somehow,
+205162	+		まったりとした時間が流れる。	a relaxed time flows gently.
 
-205163	Zance Leazas	「じーーーーーー……」	「Staaaaare......」
+205163	Zance Leazas		「じーーーーーー……」	「Staaaaare......」
 
-205164	-	向かいに座ったザンスは	Zance sitting across from you
-205165	+	あなたの顔を見つめていた。	was staring at your face.
-205166	?	むしろ、睨んでいた。	Actually, he was glaring.
-
-> male
-205167	Zance Leazas	「ハッ、しっかしお前がねぇ……」	「Hah, to think it's you...」
-
-205168	Zance Leazas	「や、最初に会ったときは自分の立ち位置すら	「When we first met I thought you didn't even know
-205169	+	　分かってねーような、とっぽい奴だと思ったが、	　your own place, just some clueless punk,
-205170	+	　それが今じゃ魔王の子のリーダーとはね、ってよ」	　but now you're the leader of the Demon King's children.」
-
-205171	Zance Leazas	「あ、勘違いすんじゃねーぞ。	「Ah, don't get the wrong idea.
-205172	+	　リーダーはあくまでも譲ってやっただけ。	　I only gave you the leader position.
-205173	+	　その辺、分かってんだろーな？」	　You get that, right?」
-
-205174	-	あなたはこくこくと頷いた。	You nodded repeatedly.
-
-205175	Zance Leazas	「ハンッ、そんならいいんだがよ」	「Hmph, good then.」
-
-> female
-205176	Zance Leazas	「アア？　なんでもねーよ、しばくぞ」	「Aa? It's nothing, I'll hit you.」
-
-205177	-	何故かあなたは恫喝されてしまった。	For some reason you got threatened.
-
-205178	El Mofus	「…………。」	「............」
-
-205179	Zance Leazas	「ンだァ？　テメェ……	「What? You...
-205180	+	　それはまさか、俺を睨んでんのか？」	　Are you glaring at me?」
-
-205181	El Mofus	「…………。」	「............」
-
-205182	-	じーーーっ。	Staaaaare.
-205183	+	あなたはザンスを睨み続けてみた。	You continued glaring at Zance.
-
-205184	Zance Leazas	「しばくぞ、テメェ……」	「I'll hit you...」
-
-205185	-	ぎゅいいいいいい	Squeezeeeeee
-205186	+	あなたは鼻を摘ままれてしまった。	Your nose got pinched.
-
-205187	Zance Leazas	「いや、間の抜けたツラした女だなってよ」	「Nah, you really have such a dumb-looking face.」
-
-205188	Zance Leazas	「見れば見るほど、	「The more I look,
-205189	+	　なんでそんな間抜けヅラなのか	　the more I wonder why you have such a dumb face.
-205190	+	　不思議になるってなもんだ」	　It's a real mystery.」
-
-205191	-	あなたはザンスに憎まれ口を叩かれてしまった。	Zance hurled insults at you.
-
-> end
-205192	Zance Leazas	「…………」	「............」
-
-205193	Zance Leazas	「ったく、よく分かんねー奴だよな、お前って」	「Seriously, you're such a hard to understand guy.」
-
-205194	-	その口ぶりとは裏腹に、ザンスの言葉に険はない。	Despite his tone, there was no real hostility in Zance's words.
-
-205195	-	ともすれば聞き流してしまいそうになるが、	It was easy to miss, but
-205196	+	ザンスの言葉には、	his words carried
-205197	+	親しみすら込められていた――	a sense of fondness--
-
-205198	-	……ような気があなたはした。	or so it felt to you.
+205164	-		向かいに座ったザンスは	Zance sitting across from you
+205165	+		あなたの顔を見つめていた。	was staring at your face.
+205166	?		むしろ、睨んでいた。	Actually, he was glaring.
 
 > male
-205199	Zance Leazas	「…………」	「............」
+205167	Zance Leazas	不満	「ハッ、しっかしお前がねぇ……」	「Hah, to think it's you...」
 
-205200	-	ザンスは喋ることなく、	Without speaking further,
-205201	+	ボーッと庭を眺めている。	Zance stared blankly at the garden.
+205168	Zance Leazas	基本	「や、最初に会ったときは自分の立ち位置すら	「When we first met I thought you didn't even know
+205169	+		　分かってねーような、とっぽい奴だと思ったが、	　your own place, just some clueless punk,
+205170	+		　それが今じゃ魔王の子のリーダーとはね、ってよ」	　but now you're the leader of the Demon King's children.」
 
-205202	Zance Leazas	「アン？　んだよ？」	「Hn? What is it?」
+205171	Zance Leazas		「あ、勘違いすんじゃねーぞ。	「Ah, don't get the wrong idea.
+205172	+		　リーダーはあくまでも譲ってやっただけ。	　I only gave you the leader position.
+205173	+		　その辺、分かってんだろーな？」	　You get that, right?」
 
-205203	El Mofus	「…………。」	「............」
-205204	Zance Leazas	「ハッ、男同士で仲良くお喋りなんて、	「Hah, guys chatting nicely together,
-205205	+	　そんな間の抜けた話もねーだろ」	　that's not my style anyway.」
+205174	-		あなたはこくこくと頷いた。	You nodded repeatedly.
 
-205206	-	どうやら……	It seems...
-205207	?	ザンスも会話のないこの時間を	Zance also likes
-205208	+	好ましく感じてくれていたようである。	this quiet time without conversation.
+205175	Zance Leazas	微笑み	「ハンッ、そんならいいんだがよ」	「Hmph, good then.」
 
-205209	Zance Leazas	「ふんっ……」	「Hmph...」
-
-205210	Zance Leazas	「ああ、そうだ。	「Ah, that's right.
-205211	+	　だがこれだけは言っとかねーとな」	　But there is one thing I have to say.」
-
-205212	Zance Leazas	「おう、＜エール＞」	「Hey, ＜エール＞.」
-
-205213	-	ザンスが向き直り、	Zance turned to face you directly,
-205214	+	あなたの顔を真正面から見返してきた。	looking straight into your eyes.
-
-205215	Zance Leazas	「お前、明日の戦いが終わったらリーザスに来い。	「After tomorrow's battle, come to Leazas.
-205216	+	　そんで俺様の部下になれ」	　And become my subordinate.」
-
-205217	-	それは突然の誘いだった。	It was a sudden invitation.
-
-205218	Zance Leazas	「お前も知ってんだろーが。	「You already know.
-205219	+	　俺様の目標は世界征服」	　My goal is world conquest.」
-
-205220	Zance Leazas	「使える駒は一人でも多い方がいい」	「The more useful pieces the better.」
-
-205221	-	あなたはなんと答えるべきだろう？	What should you answer?
-
-205222	El Mofus	「…………。」	「............」
-205223	Zance Leazas	「お前の返事なんざ聞いてねーよ」	「I don't care about your answer.」
-
-205224	-	あなたが喋る前にザンスに遮られた。	Zance cut you off before you could speak.
-
-205225	Zance Leazas	「ま、乱義の下につかなきゃなんでもいいがな」	「Well, as long as you don't serve under Rangi, anything's fine.」
-
-205226	-	ザンスは態度も悪く、	Zance acted rudely,
-205227	+	テーブルに足を投げ出し、窓の外の庭を眺めていた。	threw his legs on the table and stared out at the garden.
-
-205228	El Mofus	「…………。」	「............」
 > female
-205229	Zance Leazas	「お前……	「You...
-205230	+	　この戦いが終わったらどうすんだ？」	　What are you gonna do after this battle?」
+205176	Zance Leazas	不満	「アア？　なんでもねーよ、しばくぞ」	「Aa? It's nothing, I'll hit you.」
 
-205231	-	この戦いの後――	After this battle--
-205232	+	あなたは何も考えていなかったことに気づいた。	You realized you hadn't thought about it at all.
+205177	-		何故かあなたは恫喝されてしまった。	For some reason you got threatened.
 
-205233	Zance Leazas	「ハンッ、そんなとこだろうな。	「Hmph, thought so.
-205234	+	　お前ボーッとしてやがっから」	　You're always spacing out.」
+205178	El Mofus	基本	「…………。」	「............」
 
-205235	Zance Leazas	「…………」	「............」
+205179	Zance Leazas	不満	「ンだァ？　テメェ……	「What? You...
+205180	+		　それはまさか、俺を睨んでんのか？」	　Are you glaring at me?」
 
-205236	Zance Leazas	「なあ、行くとこねーなら……」	「Hey, if you got nowhere to go...」
+205181	El Mofus	基本	「…………。」	「............」
 
-205237	Zance Leazas	「…………」	「............」
+205182	-		じーーーっ。	Staaaaare.
+205183	+		あなたはザンスを睨み続けてみた。	You continued glaring at Zance.
 
-205238	Zance Leazas	「チッ……」	「Tch...」
+205184	Zance Leazas		「しばくぞ、テメェ……」	「I'll hit you...」
 
-205239	Zance Leazas	「いや、いい。	「Nah, forget it.
-205240	+	　やっぱなんでもねー」	　It's nothing.」
+205185	-		ぎゅいいいいいい	Squeezeeeeee
+205186	+		あなたは鼻を摘ままれてしまった。	Your nose got pinched.
 
-205241	-	ザンスは何か言いかけていたが、	Zance was about to say something,
-205242	+	苛立たしげに髪の毛をガシガシと掻いて	but scratched his head irritably
-205243	+	黙ってしまった。	and fell silent.
+205187	Zance Leazas		「いや、間の抜けたツラした女だなってよ」	「Nah, you really have such a dumb-looking face.」
 
-205244	Zance Leazas	「アアン？　なんて顔してんだ、テメェ。	「Aa? What's with that face?
-205245	+	　言おうと思ってたことがあったけど、	　I had something to say,
-205246	+	　やっぱ気が変わったんだよ」	　but I changed my mind.」
+205188	Zance Leazas		「見れば見るほど、	「The more I look,
+205189	+		　なんでそんな間抜けヅラなのか	　the more I wonder why you have such a dumb face.
+205190	+		　不思議になるってなもんだ」	　It's a real mystery.」
 
-205247	Zance Leazas	「どうでもいい話だ、ばーか」	「It's nothing important, idiot.」
+205191	-		あなたはザンスに憎まれ口を叩かれてしまった。	Zance hurled insults at you.
 
-205248	Zance Leazas	「ハッ、絶対言わねー」	「Hah, I definitely won't say it.」
-
-205249	Zance Leazas	「…………」	「............」
-
-205250	Zance Leazas	「だが……まあ、そうだな」	「But... well, yeah.
-
-205251	Zance Leazas	「明日、生きて帰ったら話してやるよ」	　If you come back alive tomorrow, I'll tell you.」
-
-205252	Zance Leazas	「だから、死なないって言え」	「So say you won't die.」
-
-205253	El Mofus	「…………。」	「............」
 > end
-205254	Zance Leazas	「…………」	「............」
+205192	Zance Leazas		「…………」	「............」
 
-205255	Zance Leazas	「おう」	「Yeah.」
+205193	Zance Leazas		「ったく、よく分かんねー奴だよな、お前って」	「Seriously, you're such a hard to understand guy.」
 
-205256	-	ザンスの返事はそれだけだった。	That was all Zance said.
+205194	-		その口ぶりとは裏腹に、ザンスの言葉に険はない。	Despite his tone, there was no real hostility in Zance's words.
 
-205257	-	…………	............
+205195	-		ともすれば聞き流してしまいそうになるが、	It was easy to miss, but
+205196	+		ザンスの言葉には、	his words carried
+205197	+		親しみすら込められていた――	a sense of fondness--
 
-205258	-	……	......
+205198	-		……ような気があなたはした。	or so it felt to you.
 
-205259	-	あなたは『親友』との	You spent irreplaceable time
-205260	+	かけがえのない時間を過ごした。	with your 'best friend'.
+> male
+205199	Zance Leazas		「…………」	「............」
 
-205261	-	そして……	And then...
+205200	-		ザンスは喋ることなく、	Without speaking further,
+205201	+		ボーッと庭を眺めている。	Zance stared blankly at the garden.
 
-205262	-	運命の朝を迎える。	You greet the fated morning.
+205202	Zance Leazas		「アン？　んだよ？」	「Hn? What is it?」
+
+205203	El Mofus		「…………。」	「............」
+205204	Zance Leazas		「ハッ、男同士で仲良くお喋りなんて、	「Hah, guys chatting nicely together,
+205205	+		　そんな間の抜けた話もねーだろ」	　that's not my style anyway.」
+
+205206	-		どうやら……	It seems...
+205207	?		ザンスも会話のないこの時間を	Zance also likes
+205208	+		好ましく感じてくれていたようである。	this quiet time without conversation.
+
+205209	Zance Leazas		「ふんっ……」	「Hmph...」
+
+205210	Zance Leazas		「ああ、そうだ。	「Ah, that's right.
+205211	+		　だがこれだけは言っとかねーとな」	　But there is one thing I have to say.」
+
+205212	Zance Leazas	不満	「おう、＜エール＞」	「Hey, ＜エール＞.」
+
+205213	-		ザンスが向き直り、	Zance turned to face you directly,
+205214	+		あなたの顔を真正面から見返してきた。	looking straight into your eyes.
+
+205215	Zance Leazas	基本	「お前、明日の戦いが終わったらリーザスに来い。	「After tomorrow's battle, come to Leazas.
+205216	+		　そんで俺様の部下になれ」	　And become my subordinate.」
+
+205217	-		それは突然の誘いだった。	It was a sudden invitation.
+
+205218	Zance Leazas		「お前も知ってんだろーが。	「You already know.
+205219	+		　俺様の目標は世界征服」	　My goal is world conquest.」
+
+205220	Zance Leazas		「使える駒は一人でも多い方がいい」	「The more useful pieces the better.」
+
+205221	-		あなたはなんと答えるべきだろう？	What should you answer?
+
+205222	El Mofus		「…………。」	「............」
+205223	Zance Leazas	不満	「お前の返事なんざ聞いてねーよ」	「I don't care about your answer.」
+
+205224	-		あなたが喋る前にザンスに遮られた。	Zance cut you off before you could speak.
+
+205225	Zance Leazas	基本	「ま、乱義の下につかなきゃなんでもいいがな」	「Well, as long as you don't serve under Rangi, anything's fine.」
+
+205226	-		ザンスは態度も悪く、	Zance acted rudely,
+205227	+		テーブルに足を投げ出し、窓の外の庭を眺めていた。	threw his legs on the table and stared out at the garden.
+
+205228	El Mofus		「…………。」	「............」
+> female
+205229	Zance Leazas		「お前……	「You...
+205230	+		　この戦いが終わったらどうすんだ？」	　What are you gonna do after this battle?」
+
+205231	-		この戦いの後――	After this battle--
+205232	+		あなたは何も考えていなかったことに気づいた。	You realized you hadn't thought about it at all.
+
+205233	Zance Leazas	微笑み	「ハンッ、そんなとこだろうな。	「Hmph, thought so.
+205234	+		　お前ボーッとしてやがっから」	　You're always spacing out.」
+
+205235	Zance Leazas	基本	「…………」	「............」
+
+205236	Zance Leazas		「なあ、行くとこねーなら……」	「Hey, if you got nowhere to go...」
+
+205237	Zance Leazas		「…………」	「............」
+
+205238	Zance Leazas	不満	「チッ……」	「Tch...」
+
+205239	Zance Leazas	基本	「いや、いい。	「Nah, forget it.
+205240	+		　やっぱなんでもねー」	　It's nothing.」
+
+205241	-		ザンスは何か言いかけていたが、	Zance was about to say something,
+205242	+		苛立たしげに髪の毛をガシガシと掻いて	but scratched his head irritably
+205243	+		黙ってしまった。	and fell silent.
+
+205244	Zance Leazas	不満	「アアン？　なんて顔してんだ、テメェ。	「Aa? What's with that face?
+205245	+		　言おうと思ってたことがあったけど、	　I had something to say,
+205246	+		　やっぱ気が変わったんだよ」	　but I changed my mind.」
+
+205247	Zance Leazas	基本	「どうでもいい話だ、ばーか」	「It's nothing important, idiot.」
+
+205248	Zance Leazas		「ハッ、絶対言わねー」	「Hah, I definitely won't say it.」
+
+205249	Zance Leazas		「…………」	「............」
+
+205250	Zance Leazas		「だが……まあ、そうだな」	「But... well, yeah.
+
+205251	Zance Leazas		「明日、生きて帰ったら話してやるよ」	　If you come back alive tomorrow, I'll tell you.」
+
+205252	Zance Leazas		「だから、死なないって言え」	「So say you won't die.」
+
+205253	El Mofus		「…………。」	「............」
+> end
+205254	Zance Leazas		「…………」	「............」
+
+205255	Zance Leazas	不満	「おう」	「Yeah.」
+
+205256	-		ザンスの返事はそれだけだった。	That was all Zance said.
+
+205257	-		…………	............
+
+205258	-		……	......
+
+205259	-		あなたは『親友』との	You spent irreplaceable time
+205260	+		かけがえのない時間を過ごした。	with your 'best friend'.
+
+205261	-		そして……	And then...
+
+205262	-		運命の朝を迎える。	You greet the fated morning.

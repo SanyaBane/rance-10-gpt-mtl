@@ -3,101 +3,101 @@
 * Yutin Fulz	ユーティン	Hermaphrodite
 * Rance	ランス	Male
 
-15491	-	――ある日。コパンドンの執務室。	――One day. In Copandon's office.
+15491	-		――ある日。コパンドンの執務室。	――One day. In Copandon's office.
 
-15492	Copandon Dott	「なんや、今日はえらい届けモン多いな。	「What's this, lots of deliveries today.
-15493	+	　なんかあったんか？」	　Did something happen?」
+15492	Copandon Dott	基本	「なんや、今日はえらい届けモン多いな。	「What's this, lots of deliveries today.
+15493	+		　なんかあったんか？」	　Did something happen?」
 
-15494	Yutin Fulz	「あ、コパンドン様！　おめでとうございます！」	「Ah, Lady Copandon! Congratulations!」
+15494	Yutin Fulz		「あ、コパンドン様！　おめでとうございます！」	「Ah, Lady Copandon! Congratulations!」
 
-15495	Copandon Dott	「あん？　どないしたんユーティン」	「Huh? What is it, Yutin?」
+15495	Copandon Dott		「あん？　どないしたんユーティン」	「Huh? What is it, Yutin?」
 
-15496	Yutin Fulz	「どない……って……あれですよ。	「What......? It's that thing.
-15497	+	　私がコパンドン様にお仕えして、	　It's been exactly one year
-15498	+	　ちょうど一年ということですよ！」	　since I started serving you!」
+15496	Yutin Fulz	驚き	「どない……って……あれですよ。	「What......? It's that thing.
+15497	+		　私がコパンドン様にお仕えして、	　It's been exactly one year
+15498	+		　ちょうど一年ということですよ！」	　since I started serving you!」
 
-15499	Copandon Dott	「はぁん？　だからなんやねん。	「Haa? So what?
-15500	+	　勤続一周年のボーナスでも………………	　Even the one-year work anniversary bonus............
-15501	?	あっ」	Ah
+15499	Copandon Dott	ジト目	「はぁん？　だからなんやねん。	「Haa? So what?
+15500	+		　勤続一周年のボーナスでも………………	　Even the one-year work anniversary bonus............
+15501	?		あっ」	Ah
 
-15502	-	それの意味する所に思い至り、	Realizing what that meant,
-15503	+	コパンドンは顔を青ざめさせた。	Copandon's face went pale.
+15502	-		それの意味する所に思い至り、	Realizing what that meant,
+15503	+		コパンドンは顔を青ざめさせた。	Copandon's face went pale.
 
-15504	Rance	「なんだ、また来たのかコパンドン。	「What, you came again, Copandon.
-15505	+	　フットワーク軽いな」	　You're pretty quick on your feet.」
+15504	Rance	基本	「なんだ、また来たのかコパンドン。	「What, you came again, Copandon.
+15505	+		　フットワーク軽いな」	　You're pretty quick on your feet.」
 
-15506	Copandon Dott	「ん……まぁな。あきんどには必須や。	「Yeah... well, it's essential for a merchant.
-15507	+	　……そんでな、ランス……」	　......So, Rance......」
+15506	Copandon Dott	ため息	「ん……まぁな。あきんどには必須や。	「Yeah... well, it's essential for a merchant.
+15507	+		　……そんでな、ランス……」	　......So, Rance......」
 
-15508	Rance	「ん？」	「Hm?」
+15508	Rance	基本	「ん？」	「Hm?」
 
-15509	Copandon Dott	「うち、今日……いつもと違わへん？」	「Do I look...... different from usual today?」
+15509	Copandon Dott		「うち、今日……いつもと違わへん？」	「Do I look...... different from usual today?」
 
-15510	-	コパンドンはそう言って、	Copandon said, then
-15511	+	ランスをじっと見た。	stared straight at Rance.
+15510	-		コパンドンはそう言って、	Copandon said, then
+15511	+		ランスをじっと見た。	stared straight at Rance.
 
-15512	Rance	「…………………………」	「........................」
+15512	Rance	真剣	「…………………………」	「........................」
 
-15513	Copandon Dott	「………………どきどき」	「............Thump thump」
+15513	Copandon Dott	ジト目	「………………どきどき」	「............Thump thump」
 
-15514	Rance~	（まためんどくさい質問を……	(Another annoying question......
-15515	+	　こういう時は……だいたい髪型か？）	　In times like this...... it's usually the hairstyle, right?)
+15514	Rance~	だる顔	（まためんどくさい質問を……	(Another annoying question......
+15515	+		　こういう時は……だいたい髪型か？）	　In times like this...... it's usually the hairstyle, right?)
 
-15516	Rance~	（いや、いつもと変わらんな……	(No, she looks the same as always......
-15517	+	　なんか小物でも増やしたか？	　Did she add some accessory?
-15518	+	　…………いや、わからん……）	　............No, I don't know......)
+15516	Rance~	真剣	（いや、いつもと変わらんな……	(No, she looks the same as always......
+15517	+		　なんか小物でも増やしたか？	　Did she add some accessory?
+15518	+		　…………いや、わからん……）	　............No, I don't know......)
 
-15519	Copandon Dott	「ど、どう…………？」	「H-how......?」
+15519	Copandon Dott	ジト目	「ど、どう…………？」	「H-how......?」
 
-15520	Rance	「あー、もうめんどくさい。	「Aah, this is such a pain.
-15521	+	　分からんわ。いつもとまったく同じに見えるぞ」	　I don't know. You look exactly the same as always.」
+15520	Rance	だる顔	「あー、もうめんどくさい。	「Aah, this is such a pain.
+15521	+		　分からんわ。いつもとまったく同じに見えるぞ」	　I don't know. You look exactly the same as always.」
 
-15522	Copandon Dott	「ほーーーーーーーっ……！　よかったぁ……！」	「Ooooooh......! Thank goodness......!」
+15522	Copandon Dott	笑い	「ほーーーーーーーっ……！　よかったぁ……！」	「Ooooooh......! Thank goodness......!」
 
-15523	Rance	「へ？」	「Eh?」
+15523	Rance	だる顔	「へ？」	「Eh?」
 
-15524	Copandon Dott	「実はな…………こないだ、誕生日やってん」	「Actually............ I had my birthday the other day.」
+15524	Copandon Dott	基本	「実はな…………こないだ、誕生日やってん」	「Actually............ I had my birthday the other day.」
 
-15525	Rance	「ほう。めでたいのか」	「Huh. Should I congratulate you?」
+15525	Rance		「ほう。めでたいのか」	「Huh. Should I congratulate you?」
 
-15526	Copandon Dott	「めでたないわ。31やで。	「No need. I'm 31 now.
-15527	+	　ランスが去年はオーケしてくれたけど……」	　You said it was okay last year but......」
+15526	Copandon Dott	ジト目	「めでたないわ。31やで。	「No need. I'm 31 now.
+15527	+		　ランスが去年はオーケしてくれたけど……」	　You said it was okay last year but......」
 
-15528	Rance	「あー。あーあー。そういうことか。	「Ahh. Yeah, I get it.
-15529	+	　30才以上は射程範囲外だからな」	　Anyone over 30 is outside my strike zone.」
+15528	Rance	基本	「あー。あーあー。そういうことか。	「Ahh. Yeah, I get it.
+15529	+		　30才以上は射程範囲外だからな」	　Anyone over 30 is outside my strike zone.」
 
-15530	Copandon Dott	「それや。毎年、死活問題やで……	「That's it. It's a life-or-death issue every year......
-15531	+	　一年経つのが恐ろしくてかなわんわ」	　I'm terrified of time passing.」
+15530	Copandon Dott	ため息	「それや。毎年、死活問題やで……	「That's it. It's a life-or-death issue every year......
+15531	+		　一年経つのが恐ろしくてかなわんわ」	　I'm terrified of time passing.」
 
-15532	Rance	「ふふん。そういう事は、コイツに聞くのだ。	「Heh. When it comes to that, you ask this guy.
-15533	+	　とーーーーーー！」	　Here we goーーー!」
+15532	Rance	基本	「ふふん。そういう事は、コイツに聞くのだ。	「Heh. When it comes to that, you ask this guy.
+15533	+		　とーーーーーー！」	　Here we goーーー!」
 
-15534	Copandon Dott	「ひゃぁっ！？」	「Hyaa!?」
+15534	Copandon Dott	驚き	「ひゃぁっ！？」	「Hyaa!?」
 
-15535	-	ランスが唐突に、コパンドンを抱き上げた。	Rance suddenly lifted Copandon up.
+15535	-		ランスが唐突に、コパンドンを抱き上げた。	Rance suddenly lifted Copandon up.
 
-15536	Rance	「おーおー。	「Whoa whoa.
-15537	+	　お前、ホントに見た目と年が一致せんな」	　You really don't look your age at all.」
+15536	Rance	基本	「おーおー。	「Whoa whoa.
+15537	+		　お前、ホントに見た目と年が一致せんな」	　You really don't look your age at all.」
 
-15538	Copandon Dott	「うあ、ら、ランス……の、固いモンが……っ」	「Uwa, R-Rance...... your hard thing...... is pressing against me......」
+15538	Copandon Dott	驚き	「うあ、ら、ランス……の、固いモンが……っ」	「Uwa, R-Rance...... your hard thing...... is pressing against me......」
 
-15539	Rance	「がはははは、ハイパー兵器もご満悦だ。	「Gahahaha, my hyper weapon is very pleased.
-15540	+	　むくむく来たぞ」	　It's getting all pumped up.」
+15539	Rance	笑顔	「がはははは、ハイパー兵器もご満悦だ。	「Gahahaha, my hyper weapon is very pleased.
+15540	+		　むくむく来たぞ」	　It's getting all pumped up.」
 
-15541	Rance	「というわけで合格だ。まだまだオーケだぞ」	「So you pass. You're still totally okay.」
+15541	Rance	基本	「というわけで合格だ。まだまだオーケだぞ」	「So you pass. You're still totally okay.」
 
-15542	Copandon Dott	「………………なぁ、ランス……	「............Hey, Rance......
-15543	+	　それだけで、その……分かるモンなん……？」	　You can really tell...... just from that......?」
+15542	Copandon Dott		「………………なぁ、ランス……	「............Hey, Rance......
+15543	+		　それだけで、その……分かるモンなん……？」	　You can really tell...... just from that......?」
 
-15544	Rance	「む………………」	「Mu............」
+15544	Rance		「む………………」	「Mu............」
 
-15545	-	ランスの腕の中で、コパンドンは	In Rance's arms, Copandon
-15546	+	もじもじと身を捩らせた。	squirmed shyly.
+15545	-		ランスの腕の中で、コパンドンは	In Rance's arms, Copandon
+15546	+		もじもじと身を捩らせた。	squirmed shyly.
 
-15547	Rance	「がははははは、そうだな！	「Gahahahaha, you're right!
-15548	+	　試してみないと分からんなあ！　とーーーー！」	　We won't know until we test it! Here we goーーー!」
+15547	Rance	笑顔	「がははははは、そうだな！	「Gahahahaha, you're right!
+15548	+		　試してみないと分からんなあ！　とーーーー！」	　We won't know until we test it! Here we goーーー!」
 
-15549	Copandon Dott	「えっ、あ、こ、ここで、ッ……！？	「Eh, ah, r-right here......!?
-15550	+	　あ、ちょ、ちょお、待ちぃっ……あっ……！」	　W-wait, hold on...... Ah......!」
+15549	Copandon Dott	驚き	「えっ、あ、こ、ここで、ッ……！？	「Eh, ah, r-right here......!?
+15550	+		　あ、ちょ、ちょお、待ちぃっ……あっ……！」	　W-wait, hold on...... Ah......!」
 
-15551	-	コパンドンは、ランスにその場で押し倒された。	Copandon was pushed down right there by Rance.
+15551	-		コパンドンは、ランスにその場で押し倒された。	Copandon was pushed down right there by Rance.

@@ -3,13 +3,13 @@
 * Rance	ランス	Male
 * Freya Idun	フレイア	Female
 
-171032	Red Monster Soldier	「ひーーーっ！　こんなの勝てねー！」	「Hiiii! We can't win against this!」
+171032	Red Monster Soldier	基本	「ひーーーっ！　こんなの勝てねー！」	「Hiiii! We can't win against this!」
 
-171033	-	敵の部隊が逃げ出した。	The enemy unit fled.
+171033	-		敵の部隊が逃げ出した。	The enemy unit fled.
 
-171034	Rance	「げっ、逃がしたか……」	「Tch, let them get away...」
+171034	Rance	驚き	「げっ、逃がしたか……」	「Tch, let them get away...」
 
-171035	Rance	「うーむ、まあ仕方ない。	「Hmm, well it can't be helped.
-171036	+	　次からは逃がさないようにするぞ」	　From now on we won't let any escape.」
+171035	Rance	真剣	「うーむ、まあ仕方ない。	「Hmm, well it can't be helped.
+171036	+		　次からは逃がさないようにするぞ」	　From now on we won't let any escape.」
 
-171037	Freya Idun	「……大丈夫かしら、ね」	「...I wonder if it'll be okay.」
+171037	Freya Idun	基本	「……大丈夫かしら、ね」	「...I wonder if it'll be okay.」

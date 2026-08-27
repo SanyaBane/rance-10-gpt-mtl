@@ -5,371 +5,371 @@
 * Warg	ワーグ	Female
 * Satella	サテラ	Female
 
-248850	Rance	「今日はワーグに会いに行くぞー」	「Today we're going to meet Wargー」
+248850	Rance	基本	「今日はワーグに会いに行くぞー」	「Today we're going to meet Wargー」
 
-248851	Sill Plain	「はい、ランス様」	「Yes, Rance-sama.」
+248851	Sill Plain		「はい、ランス様」	「Yes, Rance-sama.」
 
-248852	-	城から地上に降り、	Descending from the castle to the ground,
-248853	+	CITYの裏手から山道をしばらく進むと、	and walking along the mountain path behind CITY for a while,
-248854	+	一軒の小さな民家が見えてきた。	a small house came into view.
+248852	-		城から地上に降り、	Descending from the castle to the ground,
+248853	+		CITYの裏手から山道をしばらく進むと、	and walking along the mountain path behind CITY for a while,
+248854	+		一軒の小さな民家が見えてきた。	a small house came into view.
 
-248855	Rance	「ほほう……」	「Hmm...」
+248855	Rance		「ほほう……」	「Hmm...」
 
-248856	-	ランスが案内された家の中をグルリと見回した。	Rance looked around the inside of the guided house.
+248856	-		ランスが案内された家の中をグルリと見回した。	Rance looked around the inside of the guided house.
 
-248857	Rance	「ふむふむ……	「Hmm hmm...
-248858	+	　案外ちゃんとした家だな」	　It's surprisingly proper.」
+248857	Rance		「ふむふむ……	「Hmm hmm...
+248858	+		　案外ちゃんとした家だな」	　It's surprisingly proper.」
 
-248859	Rance	「しかし、一人で住んでて寂しくないのか？」	「But doesn't it get lonely living alone?」
+248859	Rance		「しかし、一人で住んでて寂しくないのか？」	「But doesn't it get lonely living alone?」
 
-248860	Lassie	「寂しいー！	「So lonelyー!
-248861	+	　だから遊びに来てくれて嬉しいー！」	　That's why I'm happy you came to playー!」
+248860	Lassie		「寂しいー！	「So lonelyー!
+248861	+		　だから遊びに来てくれて嬉しいー！」	　That's why I'm happy you came to playー!」
 
-248862	Rance	「イルカには聞いとらんわ……」	「I wasn't asking the dolphin...」
+248862	Rance		「イルカには聞いとらんわ……」	「I wasn't asking the dolphin...」
 
-248863	Warg	「……別に。	「...Not really.
-248864	+	　一人にはもう慣れたわ。	　I'm used to being alone.
-248865	+	　ラッシーもいるし」	　I have Lassie too.
+248863	Warg	ラッシーなし	「……別に。	「...Not really.
+248864	+		　一人にはもう慣れたわ。	　I'm used to being alone.
+248865	+		　ラッシーもいるし」	　I have Lassie too.
 
-248866	Warg	「人類軍に味方することになったと言っても、	「Even if I sided with the human army,
-248867	+	　私の能力じゃ城には暮らせないから仕方ないわ」	　with my ability I can't live in the castle anyway.」
+248866	Warg		「人類軍に味方することになったと言っても、	「Even if I sided with the human army,
+248867	+		　私の能力じゃ城には暮らせないから仕方ないわ」	　with my ability I can't live in the castle anyway.」
 
-248868	Warg	「予想よりも立派な家を作ってくれて、	「They built a much nicer house than I expected,
-248869	+	　むしろ感謝してる」	　so I'm actually grateful.」
+248868	Warg		「予想よりも立派な家を作ってくれて、	「They built a much nicer house than I expected,
+248869	+		　むしろ感謝してる」	　so I'm actually grateful.」
 
-248870	Rance	「うむ、その辺はちゃんとウルザちゃんに	「Yeah, I properly told Urza-chan
-248871	+	　言い聞かせておいたからな」	　about that.」
+248870	Rance	基本	「うむ、その辺はちゃんとウルザちゃんに	「Yeah, I properly told Urza-chan
+248871	+		　言い聞かせておいたからな」	　about that.」
 
-248872	Rance	「しかし……妙にぬいぐるみが多いな……」	「But... there are strangely many stuffed toys...」
+248872	Rance	真剣	「しかし……妙にぬいぐるみが多いな……」	「But... there are strangely many stuffed toys...」
 
-248873	-	ワーグの家の中には	Inside Warg's house
-248874	+	そこかしこにぬいぐるみが鎮座していた。	stuffed toys were placed everywhere.
+248873	-		ワーグの家の中には	Inside Warg's house
+248874	+		そこかしこにぬいぐるみが鎮座していた。	stuffed toys were placed everywhere.
 
-248875	Warg	「気にしないで」	「Don't mind them.」
+248875	Warg	ラッシーなし	「気にしないで」	「Don't mind them.」
 
-248876	Warg	「みぃーんな、ワーグの友達！	「All of them are Warg's friends!
-248877	+	　可愛いでしょう！」	　Cute, right!」
+248876	Warg	基本	「みぃーんな、ワーグの友達！	「All of them are Warg's friends!
+248877	+		　可愛いでしょう！」	　Cute, right!」
 
-248878	Rance	「お前、案外、可愛いとこがあるな」	「You have some surprisingly cute sides.」
+248878	Rance		「お前、案外、可愛いとこがあるな」	「You have some surprisingly cute sides.」
 
-248879	Warg	「黙りなさい、ラッシー」	「Be quiet, Lassie.」
+248879	Warg	ラッシーなし	「黙りなさい、ラッシー」	「Be quiet, Lassie.」
 
-248880	Warg	「それで？　今日はなんの用なの？	「So? What brings you here today?
-248881	+	　こんな何もない場所に来るなんて、	　Coming to such an empty place,
-248882	+	　総統閣下って案外、暇なの？」	　are you surprisingly free, Supreme Leader?」
+248880	Warg		「それで？　今日はなんの用なの？	「So? What brings you here today?
+248881	+		　こんな何もない場所に来るなんて、	　Coming to such an empty place,
+248882	+		　総統閣下って案外、暇なの？」	　are you surprisingly free, Supreme Leader?」
 
-248883	Rance	「嫌味ばかり言いおって、可愛くない奴め。	「Always so sarcastic, how unfriendly.
-248884	+	　来てくれて嬉しいわ、わーい、くらい	　You could at least say 'I'm happy you came, yay'
-248885	+	　言ってみたらどうだ？」	　or something.」
+248883	Rance	だる顔	「嫌味ばかり言いおって、可愛くない奴め。	「Always so sarcastic, how unfriendly.
+248884	+		　来てくれて嬉しいわ、わーい、くらい	　You could at least say 'I'm happy you came, yay'
+248885	+		　言ってみたらどうだ？」	　or something.」
 
-248886	Lassie	「ケケケ！　遊びに来てくれて嬉しいぜ！	「Kekeke! I'm happy you came to play!
-248887	+	　いつでも来てくれていいんだぜ！」	　You can come anytime!」
+248886	Lassie	基本	「ケケケ！　遊びに来てくれて嬉しいぜ！	「Kekeke! I'm happy you came to play!
+248887	+		　いつでも来てくれていいんだぜ！」	　You can come anytime!」
 
-248888	Rance	「だから、イルカには言っとらんわ！」	「Like I said, I'm not asking the dolphin!」
+248888	Rance		「だから、イルカには言っとらんわ！」	「Like I said, I'm not asking the dolphin!」
 
-248889	Warg	「それにしても、よく私のそばにいて平気ね。	「Still, it's impressive you can stay awake next to me.
-248890	+	　魔人クラスならともかく、人間で、	　For a human, not a Fiend,
-248891	+	　これだけ起きていられるなんて……」	　to endure this long...」
+248889	Warg	ラッシーなし	「それにしても、よく私のそばにいて平気ね。	「Still, it's impressive you can stay awake next to me.
+248890	+		　魔人クラスならともかく、人間で、	　For a human, not a Fiend,
+248891	+		　これだけ起きていられるなんて……」	　to endure this long...」
 
-248892	Rance	「がははは、俺は可愛い女の子のそばで	「Gahahaha, I would never waste time
-248893	+	　グースカ寝るなんてもったいなことはせんのだ！」	　sleeping next to a cute girl!」
+248892	Rance	笑顔	「がははは、俺は可愛い女の子のそばで	「Gahahaha, I would never waste time
+248893	+		　グースカ寝るなんてもったいなことはせんのだ！」	　sleeping next to a cute girl!」
 
-248894	Warg	「ああ、そう」	「Ah, I see.」
+248894	Warg	ラッシーなし	「ああ、そう」	「Ah, I see.」
 
-248895	Rance~	（と、言いつつ、太ももつねって	（Even while saying that, he was desperately
-248896	+	　必死に寝るのを我慢しているのだった。	　pinching his thighs to stay awake.
-248897	+	　むう、痛いが……我慢我慢……）	　Muu, it hurts... endure, endure...）
+248895	Rance~	だる顔	（と、言いつつ、太ももつねって	（Even while saying that, he was desperately
+248896	+		　必死に寝るのを我慢しているのだった。	　pinching his thighs to stay awake.
+248897	+		　むう、痛いが……我慢我慢……）	　Muu, it hurts... endure, endure...）
 
-248898	Warg	「……で、さっきから気になってたけど」	「...By the way, I've been wondering,
+248898	Warg	ラッシーなし	「……で、さっきから気になってたけど」	「...By the way, I've been wondering,
 
-248899	Warg	「サテラも私に用があるの？」	　does Satella also have business with me?」
+248899	Warg		「サテラも私に用があるの？」	　does Satella also have business with me?」
 
-248900	Satella	「ふん、サテラの使徒をお前みたいな	「Hmph, I can't leave my apostle
-248901	+	　危険な魔人と一緒にしておけないからな」	　with a dangerous Fiend like you.」
+248900	Satella	基本	「ふん、サテラの使徒をお前みたいな	「Hmph, I can't leave my apostle
+248901	+		　危険な魔人と一緒にしておけないからな」	　with a dangerous Fiend like you.」
 
-248902	Warg	「心外ね。	「How rude.
-248903	+	　サテラほど危険じゃないつもりよ、私」	　I don't think I'm as dangerous as Satella.」
+248902	Warg	ラッシーなし	「心外ね。	「How rude.
+248903	+		　サテラほど危険じゃないつもりよ、私」	　I don't think I'm as dangerous as Satella.」
 
-248904	Satella	「近くにいるだけで強制的に相手を	「Just being near you forces people
-248905	+	　眠らせるような奴が安全なわけあるか！」	　to sleep! How is that safe!」
+248904	Satella	怒り	「近くにいるだけで強制的に相手を	「Just being near you forces people
+248905	+		　眠らせるような奴が安全なわけあるか！」	　to sleep! How is that safe!」
 
-248906	Satella	「ランス、お前も心を許すんじゃないぞ」	「Rance, don't let your guard down around her.」
+248906	Satella		「ランス、お前も心を許すんじゃないぞ」	「Rance, don't let your guard down around her.」
 
-248907	Warg	「ま……好きに思えばいいわ」	「Well... think whatever you want.」
+248907	Warg	ラッシーなし	「ま……好きに思えばいいわ」	「Well... think whatever you want.」
 
-248908	Lassie	「サテラのバーカ」	「Satella you idiot.」
+248908	Lassie	基本	「サテラのバーカ」	「Satella you idiot.」
 
-248909	Satella	「アン？」	「Anh?」
+248909	Satella		「アン？」	「Anh?」
 
-248910	Lassie	「サテラのバーカ、バーカ。	「Satella you idiot, idiot.
-248911	+	　きらーい、あっかんべー」	　I hate you, bleh.」
+248910	Lassie		「サテラのバーカ、バーカ。	「Satella you idiot, idiot.
+248911	+		　きらーい、あっかんべー」	　I hate you, bleh.」
 
-248912	Satella	「この……イルカの分際で、サテラに……！」	「This... mere dolphin daring to mock Satella...!」
+248912	Satella	怒り	「この……イルカの分際で、サテラに……！」	「This... mere dolphin daring to mock Satella...!」
 
-248913	Warg	「やめて。	「Stop it.
-248914	+	　この子は受動的なの、悪意はないわ」	　This child is passive, there's no malice.」
+248913	Warg	ラッシーなし	「やめて。	「Stop it.
+248914	+		　この子は受動的なの、悪意はないわ」	　This child is passive, there's no malice.」
 
-248915	Satella	「悪意がないなら、黙らせろ！	「If no malice, then shut it up!
-248916	+	　それが出来ないなら、サテラが――」	　If you can't, then Satella will――」
+248915	Satella	怒り	「悪意がないなら、黙らせろ！	「If no malice, then shut it up!
+248916	+		　それが出来ないなら、サテラが――」	　If you can't, then Satella will――」
 
-248917	Warg	「ラッシーに乱暴するなら……」	「If you harm Lassie...」
+248917	Warg	ラッシーなし	「ラッシーに乱暴するなら……」	「If you harm Lassie...」
 
-248918	Warg	「永久に眠らせるわよ……」	「I'll put you to sleep forever...」
+248918	Warg		「永久に眠らせるわよ……」	「I'll put you to sleep forever...」
 
-248919	Satella	「ぬぐっ……」	「Nguh...」
+248919	Satella	不安	「ぬぐっ……」	「Nguh...」
 
-248920	Rance	「サテラ、ワーグは危険な奴じゃないぞ、	「Satella, Warg isn't dangerous,
-248921	+	　安心しろ」	　don't worry.」
+248920	Rance	基本	「サテラ、ワーグは危険な奴じゃないぞ、	「Satella, Warg isn't dangerous,
+248921	+		　安心しろ」	　don't worry.」
 
-248922	Rance	「ワーグも喧嘩するんじゃない」	「Warg, don't fight either.」
+248922	Rance		「ワーグも喧嘩するんじゃない」	「Warg, don't fight either.」
 
-248923	Warg	「……ふんっ」	「...Hmph.」
+248923	Warg	ラッシーなし	「……ふんっ」	「...Hmph.」
 
-248924	Satella	「サテラは忠告しに来たんだ」	「Satella came to warn you.」
+248924	Satella	思考	「サテラは忠告しに来たんだ」	「Satella came to warn you.」
 
-248925	Satella	「いいか、ワーグ。	「Listen, Warg.
-248926	+	　サテラの使徒に変なことをしてみろ。	　If you try anything weird to Satella's apostle,
-248927	+	　お前もタダでは済まさないぞ」	　I won't let you off easily.」
+248925	Satella	怒り	「いいか、ワーグ。	「Listen, Warg.
+248926	+		　サテラの使徒に変なことをしてみろ。	　If you try anything weird to Satella's apostle,
+248927	+		　お前もタダでは済まさないぞ」	　I won't let you off easily.」
 
-248928	Warg	「はいはい」	「Yes yes.」
+248928	Warg	ラッシーなし	「はいはい」	「Yes yes.」
 
-248929	Satella	「ランスも！　そいつに心を許すんじゃないぞ！」	「Rance too! Don't trust her!」
+248929	Satella	怒り	「ランスも！　そいつに心を許すんじゃないぞ！」	「Rance too! Don't trust her!」
 
-248930	-	捨て台詞のようなものを吐いて	After spitting those parting words,
-248931	+	家を出て行こうとするサテラを	Satella tried to leave the house
-248932	+	ワーグが呼び止めた。	but Warg stopped her.
+248930	-		捨て台詞のようなものを吐いて	After spitting those parting words,
+248931	+		家を出て行こうとするサテラを	Satella tried to leave the house
+248932	+		ワーグが呼び止めた。	but Warg stopped her.
 
-248933	Warg	「待ちなさい、サテラ。	「Wait, Satella.
-248934	+	　ラッシーが言いたいことあるって」	　Lassie has something to say.」
+248933	Warg	ラッシーなし	「待ちなさい、サテラ。	「Wait, Satella.
+248934	+		　ラッシーが言いたいことあるって」	　Lassie has something to say.」
 
-248935	Satella	「……なんだ？」	「...What?」
+248935	Satella	基本	「……なんだ？」	「...What?」
 
-248936	Lassie	「ケケケ、また遊びに来いよ！	「Kekeke, come play again!
-248937	+	　次は茶くらい用意してやるぜ！」	　Next time I'll prepare tea at least!」
+248936	Lassie		「ケケケ、また遊びに来いよ！	「Kekeke, come play again!
+248937	+		　次は茶くらい用意してやるぜ！」	　Next time I'll prepare tea at least!」
 
-248938	Satella	「ふっ……はははは、そーか……！」	「Fuh... hahaha, I see...!」
+248938	Satella	魔人顔	「ふっ……はははは、そーか……！」	「Fuh... hahaha, I see...!」
 
-248939	Satella	「……そのイルカは	「...Is that dolphin
-248940	+	　サテラを馬鹿にしてるのか？」	　mocking Satella?」
+248939	Satella	怒り	「……そのイルカは	「...Is that dolphin
+248940	+		　サテラを馬鹿にしてるのか？」	　mocking Satella?」
 
-248941	Warg	「さあ？」	「Who knows?」
+248941	Warg	ラッシーなし	「さあ？」	「Who knows?」
 
-248942	Satella	「ふんっ、二度と来るか！」	「Hmph, I won't come again!」
+248942	Satella	怒り	「ふんっ、二度と来るか！」	「Hmph, I won't come again!」
 
-248943	-	サテラはプリプリ怒りながら出て行った。	Satella left angrily.
+248943	-		サテラはプリプリ怒りながら出て行った。	Satella left angrily.
 
-248944	Rance	「で、実際、馬鹿にしていたのか？」	「So, was she actually mocking her?」
+248944	Rance	基本	「で、実際、馬鹿にしていたのか？」	「So, was she actually mocking her?」
 
-248945	Warg	「さあ？	「Who knows?
-248946	+	　でも、多分そんな意図はないわ」	　But I don't think there was any such intention.」
+248945	Warg	ラッシーなし	「さあ？	「Who knows?
+248946	+		　でも、多分そんな意図はないわ」	　But I don't think there was any such intention.」
 
-248947	Warg	「……ラッシーは他人が大好きなの。	「...Lassie loves other people.
-248948	+	　寂しい人生だったから」	　Because he had a lonely life.」
+248947	Warg		「……ラッシーは他人が大好きなの。	「...Lassie loves other people.
+248948	+		　寂しい人生だったから」	　Because he had a lonely life.」
 
-248949	Lassie	「ケケケケ、さびしかったよー。	「Kekekeke, I was lonelyー.
-248950	+	　だから優しくしろよなー」	　So be kind to meー」
+248949	Lassie	基本	「ケケケケ、さびしかったよー。	「Kekekeke, I was lonelyー.
+248950	+		　だから優しくしろよなー」	　So be kind to meー」
 
-248951	Rance	「あー、はいはい」	「Ah, yeah yeah.」
+248951	Rance	だる顔	「あー、はいはい」	「Ah, yeah yeah.」
 
-248952	Rance	「しかし、随分とサテラと仲が悪いな」	「Still, you two don't get along at all.」
+248952	Rance	基本	「しかし、随分とサテラと仲が悪いな」	「Still, you two don't get along at all.」
 
-248953	Warg	「あの人とは前からあんな感じね」	「We've always been like that with her.」
+248953	Warg	ラッシーなし	「あの人とは前からあんな感じね」	「We've always been like that with her.」
 
-248954	Warg	「まあ、あれが普通よ。	「Well, that's normal.
-248955	+	　私みたいな得体の知れない魔人が相手じゃね」	　For someone as suspicious as me.」
+248954	Warg		「まあ、あれが普通よ。	「Well, that's normal.
+248955	+		　私みたいな得体の知れない魔人が相手じゃね」	　For someone as suspicious as me.」
 
-248956	Warg	「以前、ホーネット派の	「Before, when Hornet's faction
-248957	+	　勧誘にサテラが来たけど、	　sent Satella to recruit me,
-248958	+	　その時ですら終始あんな感じだったわ」	　she was like that the whole time.」
+248956	Warg		「以前、ホーネット派の	「Before, when Hornet's faction
+248957	+		　勧誘にサテラが来たけど、	　sent Satella to recruit me,
+248958	+		　その時ですら終始あんな感じだったわ」	　she was like that the whole time.」
 
-248959	Warg	「ま、ワンニャンに比べれば、	「Well, compared to Wan-nyan,
-248960	+	　随分とマシだけどね」	　it's much better.」
+248959	Warg		「ま、ワンニャンに比べれば、	「Well, compared to Wan-nyan,
+248960	+		　随分とマシだけどね」	　it's much better.」
 
-248961	Rance	「ワンニャン？」	「Wan-nyan?」
+248961	Rance	基本	「ワンニャン？」	「Wan-nyan?」
 
-248962	Warg	「ケイブリス派の勧誘よ」	「Recruitment from Kayblis's faction.」
+248962	Warg	ラッシーなし	「ケイブリス派の勧誘よ」	「Recruitment from Kayblis's faction.」
 
-248963	Warg	「そっちは友達づらして近づいてきてね、	「They pretended to be friends to get close,
-248964	+	　私を利用しようって気持ちが見え見えだったわ」	　their intention to use me was obvious.」
+248963	Warg		「そっちは友達づらして近づいてきてね、	「They pretended to be friends to get close,
+248964	+		　私を利用しようって気持ちが見え見えだったわ」	　their intention to use me was obvious.」
 
-248965	Warg	「……私に近寄ろうなんて奴には、	「...People who approach me
-248966	+	　三通りの人種がいるわ」	　fall into three types.」
+248965	Warg		「……私に近寄ろうなんて奴には、	「...People who approach me
+248966	+		　三通りの人種がいるわ」	　fall into three types.」
 
-248967	Warg	「私の力を利用しようとする者、	「Those who want to use my power,
-248968	+	　私を排除しようとする者」	　those who want to eliminate me,
+248967	Warg		「私の力を利用しようとする者、	「Those who want to use my power,
+248968	+		　私を排除しようとする者」	　those who want to eliminate me,
 
-248969	Warg	「後は……変わり者」	　and... weirdos.」
+248969	Warg		「後は……変わり者」	　and... weirdos.」
 
-248970	Warg	「ランスのようなね」	「Like you, Rance.」
+248970	Warg		「ランスのようなね」	「Like you, Rance.」
 
-248971	Lassie	「ケケケケケ、そんな変わり者も、	「Kekekeke, even those weirdos
-248972	+	　最後には心変わりしていなくなるけどな！	　eventually change their minds and leave!
-248973	+	　ランスがそうならないのを祈るぜ！」	　I pray you don't do the same!」
+248971	Lassie	基本	「ケケケケケ、そんな変わり者も、	「Kekekeke, even those weirdos
+248972	+		　最後には心変わりしていなくなるけどな！	　eventually change their minds and leave!
+248973	+		　ランスがそうならないのを祈るぜ！」	　I pray you don't do the same!」
 
-248974	-	ワーグがポンとラッシーを叩く。	Warg lightly tapped Lassie.
+248974	-		ワーグがポンとラッシーを叩く。	Warg lightly tapped Lassie.
 
-248975	Warg	「黙りなさい、ラッシー」	「Be quiet, Lassie.」
+248975	Warg	ラッシーなし	「黙りなさい、ラッシー」	「Be quiet, Lassie.」
 
-248976	Rance	「しかし、今考えると	「Still, thinking about it now
-248977	+	　お前が仲間になったのは意外だな……」	　it's surprising you joined us...」
+248976	Rance	基本	「しかし、今考えると	「Still, thinking about it now
+248977	+		　お前が仲間になったのは意外だな……」	　it's surprising you joined us...」
 
-248978	Warg	「なに、今更？」	「What, now?」
+248978	Warg	ラッシーなし	「なに、今更？」	「What, now?」
 
-248979	Warg	「仲間になって欲しいと言ったのは嘘だったの？」	「Was it a lie when you said you wanted me as an ally?」
+248979	Warg		「仲間になって欲しいと言ったのは嘘だったの？」	「Was it a lie when you said you wanted me as an ally?」
 
-248980	Rance	「少し話をした感じ、	「From our talk,
-248981	+	　お前戦争とか興味なさそうだからな」	　you didn't seem interested in war.」
+248980	Rance	基本	「少し話をした感じ、	「From our talk,
+248981	+		　お前戦争とか興味なさそうだからな」	　you didn't seem interested in war.」
 
-248982	Warg	「ま、ね……」	「Well, yeah...」
+248982	Warg	ラッシーなし	「ま、ね……」	「Well, yeah...」
 
-248983	Rance	「ケイブリスと敵対することになるが平気か？」	「You'll be opposing Kayblis, is that okay?」
+248983	Rance	基本	「ケイブリスと敵対することになるが平気か？」	「You'll be opposing Kayblis, is that okay?」
 
-248984	Warg	「別に。	「Doesn't matter.
-248985	+	　気にしないわ」	　I don't care.」
+248984	Warg	ラッシーなし	「別に。	「Doesn't matter.
+248985	+		　気にしないわ」	　I don't care.」
 
-248986	Warg	「ケイブリスはね、ランスと同じ、	「Kayblis is like you, Rance,
-248987	+	　私に近づいても平気な奴なの」	　someone who can approach me without falling asleep.」
+248986	Warg		「ケイブリスはね、ランスと同じ、	「Kayblis is like you, Rance,
+248987	+		　私に近づいても平気な奴なの」	　someone who can approach me without falling asleep.」
 
-248988	Warg	「正直、嬉しかった」	「Honestly, I was happy.」
+248988	Warg		「正直、嬉しかった」	「Honestly, I was happy.」
 
-248989	Warg	「戦わなきゃ殺されるから従ったけど、	「I obeyed because I'd be killed if I didn't fight,
-248990	+	　あの男が私を敵として見てくれるなら……」	　but if that man sees me as an enemy...」
+248989	Warg		「戦わなきゃ殺されるから従ったけど、	「I obeyed because I'd be killed if I didn't fight,
+248990	+		　あの男が私を敵として見てくれるなら……」	　but if that man sees me as an enemy...」
 
-248991	Warg	「『関係』が作れるなら、それでもいいわ」	「If I can form some kind of 'relationship', that's fine too.」
+248991	Warg	ラッシーなし／憂い	「『関係』が作れるなら、それでもいいわ」	「If I can form some kind of 'relationship', that's fine too.」
 
-248992	Rance	「？　よく分からん」	「? I don't really get it.」
+248992	Rance	基本	「？　よく分からん」	「? I don't really get it.」
 
-248993	Warg	「仲間、家族、友人……それに、敵……	「Ally, family, friend... and even enemy...
-248994	+	　なんでもいいのよ」	　Anything is fine.」
+248993	Warg	ラッシーなし／憂い	「仲間、家族、友人……それに、敵……	「Ally, family, friend... and even enemy...
+248994	+		　なんでもいいのよ」	　Anything is fine.」
 
-248995	Warg	「誰にも見て貰えないのが……	「Being seen by no one...
-248996	+	　一番悲しいから」	　is the saddest thing.」
+248995	Warg		「誰にも見て貰えないのが……	「Being seen by no one...
+248996	+		　一番悲しいから」	　is the saddest thing.」
 
-248997	Warg	「…………」	「............」
+248997	Warg		「…………」	「............」
 
-248998	Warg	「ランス？」	「Rance?」
+248998	Warg	ラッシーなし	「ランス？」	「Rance?」
 
-248999	Rance	「ぐが〜……ぐが〜……」	「Guga~... guga~...」
+248999	Rance	基本	「ぐが〜……ぐが〜……」	「Guga~... guga~...」
 
-249000	Lassie	「なーんだ、寝ちゃったのか。	「Aww, she fell asleep.
-249001	+	　せっかく遊びに来てくれたのに、	　Even though she came all the way to play with me,
-249002	+	　寂しいな〜寂しいな〜……」	　how lonely, how lonely~...」
+249000	Lassie		「なーんだ、寝ちゃったのか。	「Aww, she fell asleep.
+249001	+		　せっかく遊びに来てくれたのに、	　Even though she came all the way to play with me,
+249002	+		　寂しいな〜寂しいな〜……」	　how lonely, how lonely~...」
 
-249003	Warg	「ま、よく頑張った方なんじゃない？」	「Well, she did pretty well, didn't she?」
+249003	Warg		「ま、よく頑張った方なんじゃない？」	「Well, she did pretty well, didn't she?」
 
-249004	Warg	「どうする？」	「What should we do?」
+249004	Warg		「どうする？」	「What should we do?」
 
-249005	Warg	「そう、ね……」	「Yeah, well...」
+249005	Warg		「そう、ね……」	「Yeah, well...」
 
-249006	Warg	「ま、このまま放っておくわ。	「I'll just leave her like this for now.
-249007	+	　適当な時間になったら起こしましょう」	　We'll wake her up when the time feels right.」
+249006	Warg		「ま、このまま放っておくわ。	「I'll just leave her like this for now.
+249007	+		　適当な時間になったら起こしましょう」	　We'll wake her up when the time feels right.」
 
-249008	Warg	「へへーっ、家の中に、	「Hehe, having
-249009	+	　自分以外の誰かの声がするって、いいね！」	　someone else's voice in the house feels nice!」
+249008	Warg		「へへーっ、家の中に、	「Hehe, having
+249009	+		　自分以外の誰かの声がするって、いいね！」	　someone else's voice in the house feels nice!」
 
-249010	Warg	「……別に」	「...Not really.」
+249010	Warg	憂い	「……別に」	「...Not really.」
 
-249011	-	…………	............
+249011	-		…………	............
 
-249012	-	……	......
+249012	-		……	......
 
-249013	-	その後、ランスが目覚めたのは	After that, Rance woke up
-249014	+	日が暮れようとしている頃だった。	around the time the sun was setting.
+249013	-		その後、ランスが目覚めたのは	After that, Rance woke up
+249014	+		日が暮れようとしている頃だった。	around the time the sun was setting.
 
-249015	Rance	「ふわぁ〜、お前のそばにいると、	「Fwaah~, being next to you
-249016	+	　どうしても寝てしまうな。	　always makes me fall asleep.
-249017	+	　う〜む、俺様は最強なのに……」	　Hmm, even though I'm the strongest...」
+249015	Rance	だる顔	「ふわぁ〜、お前のそばにいると、	「Fwaah~, being next to you
+249016	+		　どうしても寝てしまうな。	　always makes me fall asleep.
+249017	+		　う〜む、俺様は最強なのに……」	　Hmm, even though I'm the strongest...」
 
-249018	Warg	「多少起きていられるだけで、	「Just managing to stay awake a little
-249019	+	　充分すごいんだけどね……」	　is already impressive enough...」
+249018	Warg	基本	「多少起きていられるだけで、	「Just managing to stay awake a little
+249019	+		　充分すごいんだけどね……」	　is already impressive enough...」
 
-249020	Rance	「しかし……	「But...
-249021	+	　シィルの奴、ずっと寝ていたな……」	　That Sill girl stayed asleep the whole time...」
+249020	Rance	真剣	「しかし……	「But...
+249021	+		　シィルの奴、ずっと寝ていたな……」	　That Sill girl stayed asleep the whole time...」
 
-249022	-	ランスはしかめ面で肩に担いだ	Rance made a sour face as he looked at
-249023	+	自分の奴隷を見た。	his slave carried over his shoulder.
+249022	-		ランスはしかめ面で肩に担いだ	Rance made a sour face as he looked at
+249023	+		自分の奴隷を見た。	his slave carried over his shoulder.
 
-249024	Sill Plain	「うぅ〜ん、むにゃむにゃ……	「Mmm~... munyamunya...
-249025	+	　えへへ、ランス様ぁ……」	　Ehehe, Rance-sama...」
+249024	Sill Plain	基本	「うぅ〜ん、むにゃむにゃ……	「Mmm~... munyamunya...
+249025	+		　えへへ、ランス様ぁ……」	　Ehehe, Rance-sama...」
 
-249026	Rance	「捨ててったろか、この馬鹿者……」	「Maybe I should just dump her, this idiot...」
+249026	Rance	だる顔	「捨ててったろか、この馬鹿者……」	「Maybe I should just dump her, this idiot...」
 
-249027	Warg	「女の子を米袋みたいに	「Stop carrying a girl
-249028	+	　抱えるのやめなさいよ……」	　like a sack of rice...」
+249027	Warg	ラッシーなし	「女の子を米袋みたいに	「Stop carrying a girl
+249028	+		　抱えるのやめなさいよ……」	　like a sack of rice...」
 
-249029	Rance	「あ、そうだ。	「Oh, right.
-249030	+	　これ、シィルから」	　This is from Sill.」
+249029	Rance	基本	「あ、そうだ。	「Oh, right.
+249030	+		　これ、シィルから」	　This is from Sill.」
 
-249031	Warg	「なにこれ……手紙？」	「What's this... a letter?」
+249031	Warg		「なにこれ……手紙？」	「What's this... a letter?」
 
-249032	Rance	「うむ」	「Yeah.」
+249032	Rance		「うむ」	「Yeah.」
 
-249033	Rance	「もしかしたら途中で寝てしまうかも知れんから、	「She said I might fall asleep on the way,
-249034	+	　そのときは渡して欲しいと頼まれたのだ。	　so she asked me to give it to you if that happened.
-249035	+	　挨拶だけはちゃんとしたいからとか……」	　She wanted to say hello properly or something...」
+249033	Rance		「もしかしたら途中で寝てしまうかも知れんから、	「She said I might fall asleep on the way,
+249034	+		　そのときは渡して欲しいと頼まれたのだ。	　so she asked me to give it to you if that happened.
+249035	+		　挨拶だけはちゃんとしたいからとか……」	　She wanted to say hello properly or something...」
 
-249036	Warg	「律儀で……良い子ね……	「She's so dutiful... What a good girl...
-249037	+	　魔人なんかに義理通す必要ないのに」	　Even though she doesn't need to bother with a Fiend.」
+249036	Warg		「律儀で……良い子ね……	「She's so dutiful... What a good girl...
+249037	+		　魔人なんかに義理通す必要ないのに」	　Even though she doesn't need to bother with a Fiend.」
 
-249038	Rance	「がははは、シィルはこういうとこマメなのだ」	「Gahaha, Sill is always so diligent about these things.」
+249038	Rance		「がははは、シィルはこういうとこマメなのだ」	「Gahaha, Sill is always so diligent about these things.」
 
-249039	Warg	「ランスにはもったいない子ね。	「She's too good for you, Rance.
-249040	+	　せいぜい大事にしなさい。	　Treasure her while you can.
-249041	+	　失ってから気づいても遅いから」	　It's too late once you lose her.」
+249039	Warg		「ランスにはもったいない子ね。	「She's too good for you, Rance.
+249040	+		　せいぜい大事にしなさい。	　Treasure her while you can.
+249041	+		　失ってから気づいても遅いから」	　It's too late once you lose her.」
 
-249042	Rance	「……嫌味言わなきゃ気が済まんのかお前は」	「...Do you always have to make snide remarks?」
+249042	Rance	だる顔	「……嫌味言わなきゃ気が済まんのかお前は」	「...Do you always have to make snide remarks?」
 
-249043	Warg	「それは……」	「Well...
+249043	Warg	基本	「それは……」	「Well...
 
-249044	Warg	「……ランスに言われるのは	「...It's annoying when you say it,
-249045	+	　癪だけど、その通り、ね」	　but you're right.」
+249044	Warg		「……ランスに言われるのは	「...It's annoying when you say it,
+249045	+		　癪だけど、その通り、ね」	　but you're right.」
 
-249046	-	気を入れ直す必要があるのか、	As if pulling herself together,
-249047	+	ワーグは一度咳払いをした。	Warg cleared her throat once.
+249046	-		気を入れ直す必要があるのか、	As if pulling herself together,
+249047	+		ワーグは一度咳払いをした。	Warg cleared her throat once.
 
-249048	Warg	「彼女には……」	「To her...
+249048	Warg		「彼女には……」	「To her...
 
-249049	Warg	「ありがとうって……」	「Tell her thank you...
+249049	Warg	憂い	「ありがとうって……」	「Tell her thank you...
 
-249050	Warg	「嬉しいって、伝えておいて……	「That it made me happy...
-249051	+	　絶対、絶対に返事書くからって……」	　I'll definitely, definitely write back...」
+249050	Warg		「嬉しいって、伝えておいて……	「That it made me happy...
+249051	+		　絶対、絶対に返事書くからって……」	　I'll definitely, definitely write back...」
 
-249052	Rance	「んー」	「Mm.」
+249052	Rance	基本	「んー」	「Mm.」
 
-249053	Warg	「……ちゃんと伝えなさいよ？」	「...Make sure you tell her properly, okay?」
+249053	Warg		「……ちゃんと伝えなさいよ？」	「...Make sure you tell her properly, okay?」
 
-249054	Rance	「あー、分かった分かった」	「Yeah yeah, I got it.」
+249054	Rance		「あー、分かった分かった」	「Yeah yeah, I got it.」
 
-249055	Warg	「生返事やめなさい……」	「Don't just give half-hearted replies...」
+249055	Warg		「生返事やめなさい……」	「Don't just give half-hearted replies...」
 
-249056	Rance	「んじゃ、帰る。	「Well, I'm heading back.
-249057	+	　また来てやるから良い子にしてろよ」	　I'll come again, so be a good girl.」
+249056	Rance		「んじゃ、帰る。	「Well, I'm heading back.
+249057	+		　また来てやるから良い子にしてろよ」	　I'll come again, so be a good girl.」
 
-249058	Warg	「子供扱いしないで。	「Don't treat me like a child.
-249059	+	　これでも貴方より年上よ」	　I'm older than you, you know.」
+249058	Warg	ラッシーなし	「子供扱いしないで。	「Don't treat me like a child.
+249059	+		　これでも貴方より年上よ」	　I'm older than you, you know.」
 
-249060	Rance	「はいはい。	「Yeah yeah.
-249061	+	　じゃあな」	　See ya.」
+249060	Rance	基本	「はいはい。	「Yeah yeah.
+249061	+		　じゃあな」	　See ya.」
 
-249062	Warg	「…………」	「............」
+249062	Warg		「…………」	「............」
 
-249063	Rance	「あ？　どうした？」	「Hm? What's wrong?」
+249063	Rance		「あ？　どうした？」	「Hm? What's wrong?」
 
-249064	-	ポンと、ワーグがラッシーを叩く。	Warg lightly patted Lassy.
+249064	-		ポンと、ワーグがラッシーを叩く。	Warg lightly patted Lassy.
 
-249065	Warg	「喋りなさい、ラッシー」	「Speak, Lassy.」
+249065	Warg		「喋りなさい、ラッシー」	「Speak, Lassy.」
 
-249066	Warg	「ケケケ！　また遊びに来いよな！	「Kekeke! Come play again!
-249067	+	　今度はクッキー焼いて待ってるぜ！」	　I'll bake cookies and wait for you next time!」
+249066	Warg		「ケケケ！　また遊びに来いよな！	「Kekeke! Come play again!
+249067	+		　今度はクッキー焼いて待ってるぜ！」	　I'll bake cookies and wait for you next time!」
 
-249068	Warg	「……ですって」	「...She says.」
+249068	Warg		「……ですって」	「...She says.」
 
-249069	Warg	「私はどっちでもいいけどね」	「I don't mind either way though.」
+249069	Warg		「私はどっちでもいいけどね」	「I don't mind either way though.」
 
-249070	Rance	「顔赤いぞ」	「Your face is red.」
+249070	Rance		「顔赤いぞ」	「Your face is red.」
 
-249071	Warg	「……夕焼けでそう見えるのよ」	「...It's just the sunset making it look that way.」
+249071	Warg		「……夕焼けでそう見えるのよ」	「...It's just the sunset making it look that way.」
 
-249072	-	ワーグが家の中に姿を消した。	Warg disappeared back into the house.
+249072	-		ワーグが家の中に姿を消した。	Warg disappeared back into the house.
 
-249073	Rance	「まったく、可愛い奴め」	「Geez, what a cute one.」
+249073	Rance		「まったく、可愛い奴め」	「Geez, what a cute one.」

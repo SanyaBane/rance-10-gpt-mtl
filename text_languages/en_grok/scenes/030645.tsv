@@ -10,269 +10,269 @@
 * Blue Monster Soldier	汎用魔物兵青	Male
 * Red Monster Soldier	汎用魔物兵赤	Male
 
-20503	Old Man	「あ、あのう……	「A-Ah, excuse me...
-20504	+	　やはり、もう少し留まって頂くわけには……」	Is there really no way we could ask you to stay just a little longer...?」
+20503	Old Man	基本	「あ、あのう……	「A-Ah, excuse me...
+20504	+		　やはり、もう少し留まって頂くわけには……」	Is there really no way we could ask you to stay just a little longer...?」
 
-20505	Sill Plain	「ええと、その、すみません……	「Well, er, I'm sorry...
-20506	+	　私たちも、行き先がありまして……」	We also have a destination we must reach...」
+20505	Sill Plain	恥	「ええと、その、すみません……	「Well, er, I'm sorry...
+20506	+		　私たちも、行き先がありまして……」	We also have a destination we must reach...」
 
-20507	Rance	「あーくそ。なんか調子が悪い気がする……	「Ah, damn it. I feel like I'm in a bit of a slump...
-20508	+	　ん？　どうしたシィル」	Hm? What's wrong, Sill?」
+20507	Rance	だる顔	「あーくそ。なんか調子が悪い気がする……	「Ah, damn it. I feel like I'm in a bit of a slump...
+20508	+		　ん？　どうしたシィル」	Hm? What's wrong, Sill?」
 
-20509	Sill Plain	「あ……その、ランス様。	「Ah... well, Master Rance.
-20510	+	　村の方々が、魔軍の人たちが来るのが怖いから、	The villagers are afraid of the Monster Army coming,
-20511	+	　村に留まって欲しいと……」	So they're asking if we could stay in the village...」
+20509	Sill Plain	苦笑	「あ……その、ランス様。	「Ah... well, Master Rance.
+20510	+		　村の方々が、魔軍の人たちが来るのが怖いから、	The villagers are afraid of the Monster Army coming,
+20511	+		　村に留まって欲しいと……」	So they're asking if we could stay in the village...」
 
-20512	Old Man	「お、お願いしますじゃ……	「P-Please, I beg of you...
-20513	+	　この村には自衛するだけの力は……」	This village lacks the power to defend itself...」
+20512	Old Man	基本	「お、お願いしますじゃ……	「P-Please, I beg of you...
+20513	+		　この村には自衛するだけの力は……」	This village lacks the power to defend itself...」
 
-20514	Rance	「……この村、若い女はいるか？」	「...Are there any young women in this village?」
+20514	Rance		「……この村、若い女はいるか？」	「...Are there any young women in this village?」
 
-20515	Old Man	「い、いいえ……若いのは男も女も戦争に取られて、	「N-No... the young people, both men and women, have been taken for the war.
-20516	+	　残ってるのは子供と年寄りで……」	Only the children and the elderly remain...」
+20515	Old Man		「い、いいえ……若いのは男も女も戦争に取られて、	「N-No... the young people, both men and women, have been taken for the war.
+20516	+		　残ってるのは子供と年寄りで……」	Only the children and the elderly remain...」
 
-20517	Rance	「うむよし、滅べ。じゃあな」	「Alright then, perish. See ya.」
+20517	Rance	真剣	「うむよし、滅べ。じゃあな」	「Alright then, perish. See ya.」
 
-20518	Old Man	「そそそそ、そんな！」	「H-H-H-How could you!」
+20518	Old Man	基本	「そそそそ、そんな！」	「H-H-H-How could you!」
 
-20519	Sill Plain	「ああっ、酷いですよぅ、ランス様……」	「Aah, that's cruel, Master Rance...」
+20519	Sill Plain	恥	「ああっ、酷いですよぅ、ランス様……」	「Aah, that's cruel, Master Rance...」
 
-20520	Rance	「俺たちは忙しいのだ。	「We are busy men.
-20521	+	　だいたい、いつ来るかも分からん魔軍の為に	Besides, there's no reason to be held up for the sake of a Monster Army
-20522	+	　足止めを食う理由はない」	that we don't even know when will arrive.」
+20520	Rance	真剣	「俺たちは忙しいのだ。	「We are busy men.
+20521	+		　だいたい、いつ来るかも分からん魔軍の為に	Besides, there's no reason to be held up for the sake of a Monster Army
+20522	+		　足止めを食う理由はない」	that we don't even know when will arrive.」
 
-20523	Old Man	「お、お礼ならさせていただきます！	「W-We will reward you!
-20524	+	　干し芋まんじうとか……」	With dried sweet potato manju or something...」
+20523	Old Man	基本	「お、お礼ならさせていただきます！	「W-We will reward you!
+20524	+		　干し芋まんじうとか……」	With dried sweet potato manju or something...」
 
-20525	Rance	「えーい、要るかそんなもん！	「Bah, who wants that crap!
-20526	+	　…………ん、待てよ」	...Hm, wait a second.」
+20525	Rance	だる顔	「えーい、要るかそんなもん！	「Bah, who wants that crap!
+20526	+		　…………ん、待てよ」	...Hm, wait a second.」
 
-20527	Sill Plain	「……ランス様？」	「...Master Rance?」
+20527	Sill Plain	きょとん	「……ランス様？」	「...Master Rance?」
 
-20528	Rance	「おいシィル。	「Hey, Sill.
-20529	+	　ヤツは今、トイレに行ってるらしいな？」	I believe that person is currently in the bathroom?」
+20528	Rance	真剣	「おいシィル。	「Hey, Sill.
+20529	+		　ヤツは今、トイレに行ってるらしいな？」	I believe that person is currently in the bathroom?」
 
-20530	Sill Plain	「ヤツって……あっ、あの方ですか？	「That person... Oh, you mean her?
-20531	+	　……そう仰ってましたね」	...Yes, she did say that.」
+20530	Sill Plain	考え中	「ヤツって……あっ、あの方ですか？	「That person... Oh, you mean her?
+20531	+		　……そう仰ってましたね」	...Yes, she did say that.」
 
-20532	Rance	「よし、じじい！	「Alright, old man!
-20533	+	　そんなに言うならウチの精鋭を一人、	If you're going that far, I'll leave one of our elite
-20534	+	　置いていってやる！」	behind for you!」
+20532	Rance	笑顔	「よし、じじい！	「Alright, old man!
+20533	+		　そんなに言うならウチの精鋭を一人、	If you're going that far, I'll leave one of our elite
+20534	+		　置いていってやる！」	behind for you!」
 
-20535	Old Man	「なんと！　誠でございますか！」	「What! Is that the truth!」
+20535	Old Man	基本	「なんと！　誠でございますか！」	「What! Is that the truth!」
 
-20536	Rance	「おう、そうだ。そいつを全力で引き留めろ。	「Yeah, that's right. Do everything in your power to keep her here.
-20537	+	　そしたら村は助かるぞ」	If you do, the village will be saved.」
+20536	Rance		「おう、そうだ。そいつを全力で引き留めろ。	「Yeah, that's right. Do everything in your power to keep her here.
+20537	+		　そしたら村は助かるぞ」	If you do, the village will be saved.」
 
-20538	Old Man	「あ、ありがとうございますじゃ……！	「T-Thank you so much...!
-20539	+	　ありがとう……っ……！」	Thank you...!」
+20538	Old Man		「あ、ありがとうございますじゃ……！	「T-Thank you so much...!
+20539	+		　ありがとう……っ……！」	Thank you...!」
 
-20540	-	老人は感謝のあまり、ぼろぼろと涙を流した。	Overwhelmed with gratitude, the old man burst into tears.
+20540	-		老人は感謝のあまり、ぼろぼろと涙を流した。	Overwhelmed with gratitude, the old man burst into tears.
 
-20541	Rance	「だが俺たちは忙しい！	「But we're busy!
-20542	+	　さー、出撃だ！　人類を救うためにな！	Come on, let's move out! To save humanity!
-20543	+	　がはははははははは！」	Gahahaha!」
+20541	Rance	笑顔	「だが俺たちは忙しい！	「But we're busy!
+20542	+		　さー、出撃だ！　人類を救うためにな！	Come on, let's move out! To save humanity!
+20543	+		　がはははははははは！」	Gahahaha!」
 
-20544	Sill Plain	「あっ、あっ、待ってください、ランス様ー！」	「Ah, ah, please wait, Master Rance!」
+20544	Sill Plain	慌て	「あっ、あっ、待ってください、ランス様ー！」	「Ah, ah, please wait, Master Rance!」
 
-20545	-	慌ただしく、ランス達は出立した。	In a flurry of activity, Rance and his group departed.
+20545	-		慌ただしく、ランス達は出立した。	In a flurry of activity, Rance and his group departed.
 
-20546	Old Man	「さて……残った方というのは……」	「Now then... as for the person who was left behind...」
+20546	Old Man	基本	「さて……残った方というのは……」	「Now then... as for the person who was left behind...」
 
-20547	?	「…………ふー、カタいのがようやく流れたわ……	「...Phew, the stubborn one finally flushed...
-20548	+	　あら？」	Oh?」
+20547	?		「…………ふー、カタいのがようやく流れたわ……	「...Phew, the stubborn one finally flushed...
+20548	+		　あら？」	Oh?」
 
-20549	Old Man	「お、おお、あの方か……！」	「O-Oh, so it's her...!」
+20549	Old Man		「お、おお、あの方か……！」	「O-Oh, so it's her...!」
 
-20550	Silbarrel Silbarella	「なによ。他の連中、いないじゃない。	「What? The others aren't here.
-20551	+	　どこにいったの！」	Where did they go!」
+20550	Silbarrel Silbarella		「なによ。他の連中、いないじゃない。	「What? The others aren't here.
+20551	+		　どこにいったの！」	Where did they go!」
 
-20552	Old Man~	（なんとも……こう、ブサイク……	(How to put it... she's so... ugly...) 
-20553	+	　それしか感想の出てこない娘さんじゃ……）	(That's the only thought that comes to mind for this young lady...) 
+20552	Old Man~		（なんとも……こう、ブサイク……	(How to put it... she's so... ugly...) 
+20553	+		　それしか感想の出てこない娘さんじゃ……）	(That's the only thought that comes to mind for this young lady...) 
 
-20554	Silbarrel Silbarella	「ちょっと、そこのじーさん！	「Hey, you old man there!
-20555	+	　ここに来ていた連中、どこ行ったの！」	Where did the group that was here go!」
+20554	Silbarrel Silbarella		「ちょっと、そこのじーさん！	「Hey, you old man there!
+20555	+		　ここに来ていた連中、どこ行ったの！」	Where did the group that was here go!」
 
-20556	Old Man	「え？　え、ええと、先に…………い、いや。	「Eh? U-Um, they went ahead... no, wait.
-20557	+	　所用で少し、先行すると……」	They said they had some business and were going on ahead...」
+20556	Old Man		「え？　え、ええと、先に…………い、いや。	「Eh? U-Um, they went ahead... no, wait.
+20557	+		　所用で少し、先行すると……」	They said they had some business and were going on ahead...」
 
-20558	Silbarrel Silbarella	「はぁ？　まったく、勝手な連中ね！	「Huh? Seriously, what selfish people!
-20559	+	　人のトイレ休憩を待つくらい出来ないのかしら！」	Couldn't they at least wait for a person to finish their bathroom break!」
+20558	Silbarrel Silbarella	怒り	「はぁ？　まったく、勝手な連中ね！	「Huh? Seriously, what selfish people!
+20559	+		　人のトイレ休憩を待つくらい出来ないのかしら！」	Couldn't they at least wait for a person to finish their bathroom break!」
 
-20560	Old Man~	（おぉ……表情が変わるだけで、	(Oh... just her expression changing)
-20561	+	　周辺の土が朽ちていくような……）	(makes it feel like the surrounding earth is rotting away...)
+20560	Old Man~	基本	（おぉ……表情が変わるだけで、	(Oh... just her expression changing)
+20561	+		　周辺の土が朽ちていくような……）	(makes it feel like the surrounding earth is rotting away...)
 
-20562	-	憤然と、シルバレルは顔面を歪ませて怒り、	Indignant, Silbarrel's face contorted in anger as
-20563	+	ランス達の後を追おうとした。	she prepared to chase after Rance and the others.
+20562	-		憤然と、シルバレルは顔面を歪ませて怒り、	Indignant, Silbarrel's face contorted in anger as
+20563	+		ランス達の後を追おうとした。	she prepared to chase after Rance and the others.
 
-20564	Old Man	「ああいえ！　その内に戻ってくるので、	「A-Ah, no! They said they'll be back eventually,
-20565	+	　ここで待っていて欲しいと！　伝言を！」	and they wanted you to wait here! That was their message!」
+20564	Old Man		「ああいえ！　その内に戻ってくるので、	「A-Ah, no! They said they'll be back eventually,
+20565	+		　ここで待っていて欲しいと！　伝言を！」	and they wanted you to wait here! That was their message!」
 
-20566	Silbarrel Silbarella	「はぁ……？　まったくもう……	「Huh...? Honestly...
-20567	+	　面倒な連中ね……」	What a troublesome group...」
+20566	Silbarrel Silbarella		「はぁ……？　まったくもう……	「Huh...? Honestly...
+20567	+		　面倒な連中ね……」	What a troublesome group...」
 
-20568	Old Man	「し、しばらくお待ちを……ごふっごふっ！」	「P-Please wait for a while... *cough* *cough*!」
+20568	Old Man		「し、しばらくお待ちを……ごふっごふっ！」	「P-Please wait for a while... *cough* *cough*!」
 
-20569	-	老人は咳き込みながら、その場を離れた。	The old man left the scene while coughing.
+20569	-		老人は咳き込みながら、その場を離れた。	The old man left the scene while coughing.
 
-20570	Old Man~	（なんというブサイク……	(What an ugly woman...)
-20571	+	　近くに立ち、目で見るだけで……き、気分が……）	(Just standing near her and looking at her... I-I feel sick...) 
+20570	Old Man~		（なんというブサイク……	(What an ugly woman...)
+20571	+		　近くに立ち、目で見るだけで……き、気分が……）	(Just standing near her and looking at her... I-I feel sick...) 
 
-20572	Boy	「おじいちゃん……大丈夫？	「Grandpa... are you okay?
-20573	+	　村……どうなっちゃうの？」	What's going to happen to the village?」
+20572	Boy		「おじいちゃん……大丈夫？	「Grandpa... are you okay?
+20573	+		　村……どうなっちゃうの？」	What's going to happen to the village?」
 
-20574	Old Man	「……大丈夫じゃ。大丈夫……」	「...It's okay. It's okay...」
+20574	Old Man		「……大丈夫じゃ。大丈夫……」	「...It's okay. It's okay...」
 
-20575	Old Woman	「たいへんよ……！	「It's terrible...!
-20576	+	　向こうから、魔物の群れが……！」	A swarm of monsters is coming from over there...!」
+20575	Old Woman		「たいへんよ……！	「It's terrible...!
+20576	+		　向こうから、魔物の群れが……！」	A swarm of monsters is coming from over there...!」
 
-20577	Old Man	「な、なんじゃと……！」	「W-What did you say...!」
+20577	Old Man		「な、なんじゃと……！」	「W-What did you say...!」
 
-20578	-	村人が指を差す先には、	Where the villager pointed,
-20579	+	万に届こうかという魔軍の一団が、	a Monster Army nearly ten thousand strong was approaching,
-20580	+	邪魔者をそのまま粉砕する勢いで迫っていた。	with enough momentum to crush anything in its path.
+20578	-		村人が指を差す先には、	Where the villager pointed,
+20579	+		万に届こうかという魔軍の一団が、	a Monster Army nearly ten thousand strong was approaching,
+20580	+		邪魔者をそのまま粉砕する勢いで迫っていた。	with enough momentum to crush anything in its path.
 
-20581	Old Man	「あ、ああ、だめじゃ……！	「A-Ah, it's hopeless...!
-20582	+	　いくら腕の立つ御方でも、あんな数では……」	No matter how skilled she may be, against those numbers...」
+20581	Old Man		「あ、ああ、だめじゃ……！	「A-Ah, it's hopeless...!
+20582	+		　いくら腕の立つ御方でも、あんな数では……」	No matter how skilled she may be, against those numbers...」
 
-20583	Boy	「む、村はどうなっちゃうの……！」	「W-What's going to happen to the village...!」
+20583	Boy		「む、村はどうなっちゃうの……！」	「W-What's going to happen to the village...!」
 
-20584	Old Woman	「これまでかもしれないね……」	「This might be the end...」
+20584	Old Woman		「これまでかもしれないね……」	「This might be the end...」
 
-20585	Boy	「そんな……！」	「No way...!」
+20585	Boy		「そんな……！」	「No way...!」
 
-20586	Old Woman	「祈りましょう、神に…………」	「Let us pray to the gods...」
+20586	Old Woman		「祈りましょう、神に…………」	「Let us pray to the gods...」
 
-20587	-	各々が、手を組み合わせる。そして……	Everyone clasped their hands together. And then...
+20587	-		各々が、手を組み合わせる。そして……	Everyone clasped their hands together. And then...
 
-20588	Monster Captain	「こっちに人類軍の大将首がいるってなぁ	「Is it true that the head of the Human Army's general
-20589	+	　本当だろうな！」	is around here!」
+20588	Monster Captain		「こっちに人類軍の大将首がいるってなぁ	「Is it true that the head of the Human Army's general
+20589	+		　本当だろうな！」	is around here!」
 
-20590	Green Monster Soldier	「伝令によれば！	「According to the messenger!
-20591	+	　しかし、その前に村があるとか……」	But there's a village in the way first...」
+20590	Green Monster Soldier		「伝令によれば！	「According to the messenger!
+20591	+		　しかし、その前に村があるとか……」	But there's a village in the way first...」
 
-20592	Monster Captain	「ようし！　ひねり潰して進むぞ！	「Alright! Let's crush them and move on!
-20593	+	　略奪は程々にな。ただし皆殺しにしろ！」	Keep the looting moderate. But kill every last one of them!」
+20592	Monster Captain		「ようし！　ひねり潰して進むぞ！	「Alright! Let's crush them and move on!
+20593	+		　略奪は程々にな。ただし皆殺しにしろ！」	Keep the looting moderate. But kill every last one of them!」
 
-20594	Blue Monster Soldier	「へへっ、へい！」	「Heh, yes sir!」
+20594	Blue Monster Soldier		「へへっ、へい！」	「Heh, yes sir!」
 
-20595	Green Monster Soldier	「………………」	「............」
+20595	Green Monster Soldier		「………………」	「............」
 
-20596	Monster Captain	「そっちのお前も分かったな！	「You over there, did you get that!
-20597	+	　……おい、どうした？」	...Hey, what's wrong?」
+20596	Monster Captain		「そっちのお前も分かったな！	「You over there, did you get that!
+20597	+		　……おい、どうした？」	...Hey, what's wrong?」
 
-20598	-	先頭を行く魔物兵の様子がおかしかった。	Something was wrong with the monster soldier in the lead.
-20599	+	足は止めないものの鈍くなり、	He didn't stop, but his movements slowed,
-20600	+	衰弱しているようでもあった。	appearing as if he were weakened.
+20598	-		先頭を行く魔物兵の様子がおかしかった。	Something was wrong with the monster soldier in the lead.
+20599	+		足は止めないものの鈍くなり、	He didn't stop, but his movements slowed,
+20600	+		衰弱しているようでもあった。	appearing as if he were weakened.
 
-20601	Monster Captain	「おっ、おい……！？」	「H-Hey...!?」
+20601	Monster Captain		「おっ、おい……！？」	「H-Hey...!?」
 
-20602	Green Monster Soldier	「なんか、っ……気分が、悪く……っ……！」	「I feel... urgh... sick...!」
+20602	Green Monster Soldier		「なんか、っ……気分が、悪く……っ……！」	「I feel... urgh... sick...!」
 
-20603	-	先頭の魔物兵だけではなかった。	It wasn't just the soldier in the lead.
-20604	+	魔物兵たちは次々と体調の悪化を訴え、	Monster soldiers one after another complained of feeling ill,
-20605	+	突撃の速度が鈍る。	and the speed of the charge slowed.
+20603	-		先頭の魔物兵だけではなかった。	It wasn't just the soldier in the lead.
+20604	+		魔物兵たちは次々と体調の悪化を訴え、	Monster soldiers one after another complained of feeling ill,
+20605	+		突撃の速度が鈍る。	and the speed of the charge slowed.
 
-20606	Green Monster Soldier	「う、うぶっ……なんだっ……？	「Ugh... what is this...?
-20607	+	　どこからだ……！」	Where is it coming from...!」
+20606	Green Monster Soldier		「う、うぶっ……なんだっ……？	「Ugh... what is this...?
+20607	+		　どこからだ……！」	Where is it coming from...!」
 
-20608	Red Monster Soldier	「アレだ！　あの村だ！」	「It's that! It's that village!」
+20608	Red Monster Soldier		「アレだ！　あの村だ！」	「It's that! It's that village!」
 
-20609	Green Monster Soldier	「うっ、だ、ダメだっ……！	「Ugh... no, it's no good...!
-20610	+	　さ、避けて、行くしか…………！」	We... have no choice but to go around it...!」
+20609	Green Monster Soldier		「うっ、だ、ダメだっ……！	「Ugh... no, it's no good...!
+20610	+		　さ、避けて、行くしか…………！」	We... have no choice but to go around it...!」
 
-20611	-	魔軍の兵たちで出来た津波が、真っ二つに割れた。	The tidal wave of Monster Army soldiers split in two.
+20611	-		魔軍の兵たちで出来た津波が、真っ二つに割れた。	The tidal wave of Monster Army soldiers split in two.
 
-20612	Silbarrel Silbarella	「？　？？？	「? ???
-20613	+	　何よこれ！？　なんなのよーーーー！」	What is this!? What is going onnnnn!」
+20612	Silbarrel Silbarella		「？　？？？	「? ???
+20613	+		　何よこれ！？　なんなのよーーーー！」	What is this!? What is going onnnnn!」
 
-20614	Green Monster Soldier	「げばっ！」	「Gueh!」
+20614	Green Monster Soldier		「げばっ！」	「Gueh!」
 
-20615	-	脇を通り抜ける魔物兵の一人が、	One of the monster soldiers passing by
-20616	+	力尽きて地面に転がった。	collapsed on the ground, exhausted.
+20615	-		脇を通り抜ける魔物兵の一人が、	One of the monster soldiers passing by
+20616	+		力尽きて地面に転がった。	collapsed on the ground, exhausted.
 
-20617	Old Man	「お、おおぉぉ……！	「O-Ooh...!
-20618	+	　なんという…………！」	What a thing to behold...!」
+20617	Old Man		「お、おおぉぉ……！	「O-Ooh...!
+20618	+		　なんという…………！」	What a thing to behold...!」
 
-20619	Monster Captain	「なんてブスだ！	「How hideous!
-20620	+	　こんなブスがこんな片田舎にいるとは……ぐぶっ」	To think such an ugly woman would be in a backwater like this... urgh.」
+20619	Monster Captain		「なんてブスだ！	「How hideous!
+20620	+		　こんなブスがこんな片田舎にいるとは……ぐぶっ」	To think such an ugly woman would be in a backwater like this... urgh.」
 
-20621	Silbarrel Silbarella	「なんですってぇ、　もういっぺん言ってみなさい！	「What did you say? Say that again!
-20622	+	　こらーーーーー！」	Heyyyyyy!」
+20621	Silbarrel Silbarella	怒り	「なんですってぇ、　もういっぺん言ってみなさい！	「What did you say? Say that again!
+20622	+		　こらーーーーー！」	Heyyyyyy!」
 
-20623	Monster Captain	「わ、わあああああ！	「W-Waaaaah!
-20624	+	　ブスが追いかけてきた！」	The ugly one is chasing us!」
+20623	Monster Captain	基本	「わ、わあああああ！	「W-Waaaaah!
+20624	+		　ブスが追いかけてきた！」	The ugly one is chasing us!」
 
-20625	-	シルバレルは怒りながら、	While angry, Silbarrel began to run after
-20626	+	逃げ惑う魔軍を追いかけて走り始めた。	the scattering Monster Army.
+20625	-		シルバレルは怒りながら、	While angry, Silbarrel began to run after
+20626	+		逃げ惑う魔軍を追いかけて走り始めた。	the scattering Monster Army.
 
-20627	-	………………	..................
+20627	-		………………	..................
 
-20628	-	…………	............
+20628	-		…………	............
 
-20629	-	……	......
+20629	-		……	......
 
-20630	-	村に、静けさが戻ってきた。	Tranquility returned to the village.
+20630	-		村に、静けさが戻ってきた。	Tranquility returned to the village.
 
-20631	Boy	「い、行っちゃった……	「T-They went away...
-20632	+	　僕たち……助かった、の……？」	Are we... saved...?」
+20631	Boy		「い、行っちゃった……	「T-They went away...
+20632	+		　僕たち……助かった、の……？」	Are we... saved...?」
 
-20633	Old Man	「お…………おおぉぉおお……	「O... Ooooooh...
-20634	+	　き、奇跡、じゃ……」	It's... a miracle...」
+20633	Old Man		「お…………おおぉぉおお……	「O... Ooooooh...
+20634	+		　き、奇跡、じゃ……」	It's... a miracle...」
 
-20635	Old Woman	「本当だわ……！	「It's true...!
-20636	+	　こんな事が起こるなんてねぇ……	To think such a thing would happen...
-20637	+	　ありがたや……」	Heaven be praised...」
+20635	Old Woman		「本当だわ……！	「It's true...!
+20636	+		　こんな事が起こるなんてねぇ……	To think such a thing would happen...
+20637	+		　ありがたや……」	Heaven be praised...」
 
-20638	Boy	「でも……行っちゃったね、あの人……」	「But... she went away, that person...」
+20638	Boy		「でも……行っちゃったね、あの人……」	「But... she went away, that person...」
 
-20639	Old Man	「……うむ！	「...Yes!
-20640	+	　あのブサイクなお方の姿を、像にして残そう！	Let us make a statue of that ugly lady's figure!
-20641	+	　きっと村を守ってくれる！」	I'm sure she will protect the village!」
+20639	Old Man		「……うむ！	「...Yes!
+20640	+		　あのブサイクなお方の姿を、像にして残そう！	Let us make a statue of that ugly lady's figure!
+20641	+		　きっと村を守ってくれる！」	I'm sure she will protect the village!」
 
-20642	Old Man	「ブスの女神様……ブス観音様じゃ！」	「The Ugly Goddess... it is the Ugly Kannon!」
+20642	Old Man		「ブスの女神様……ブス観音様じゃ！」	「The Ugly Goddess... it is the Ugly Kannon!」
 
-20643	-	そして……子供と年寄りしか居ない村は、	And so... the village of only children and the elderly
-20644	+	一丸となって像の製作に没頭した。	united as one and devoted themselves to creating the statue.
+20643	-		そして……子供と年寄りしか居ない村は、	And so... the village of only children and the elderly
+20644	+		一丸となって像の製作に没頭した。	united as one and devoted themselves to creating the statue.
 
-20645	Boy	「ここは……こんな感じ？」	「Is this part... like this?」
+20645	Boy		「ここは……こんな感じ？」	「Is this part... like this?」
 
-20646	Old Man	「ダメダメ！　もっと奇妙なラインじゃった」	「No, no! The lines were much more strange than that.」
+20646	Old Man		「ダメダメ！　もっと奇妙なラインじゃった」	「No, no! The lines were much more strange than that.」
 
-20647	-	決して楽な道のりではなかったが、	It was by no means an easy road, but
-20648	+	彼らが見た奇跡が、行動力の源となっていた。	the miracle they had witnessed became the source of their motivation.
+20647	-		決して楽な道のりではなかったが、	It was by no means an easy road, but
+20648	+		彼らが見た奇跡が、行動力の源となっていた。	the miracle they had witnessed became the source of their motivation.
 
-20649	Boy	「な、なんだか彫っていく内に気分が……」	「F-For some reason, as I carve this, I'm starting to feel...」
+20649	Boy		「な、なんだか彫っていく内に気分が……」	「F-For some reason, as I carve this, I'm starting to feel...」
 
-20650	Old Man	「近づいてきた証拠だ！　いいぞ！」	「That's proof it's getting closer! Good!」
+20650	Old Man		「近づいてきた証拠だ！　いいぞ！」	「That's proof it's getting closer! Good!」
 
-20651	-	――そして――――	―― And then ――――
+20651	-		――そして――――	―― And then ――――
 
-20652	-	………………	..................
+20652	-		………………	..................
 
-20653	-	…………	............
+20653	-		…………	............
 
-20654	-	……	......
+20654	-		……	......
 
-20655	Boy	「ねえ、おじいちゃん。	「Hey, Grandpa.
-20656	+	　このブサイクな像、なんなの？	What is this ugly statue for?
-20657	+	　ずぅっと昔からあるよね」	It's been here for a long, long time.」
+20655	Boy		「ねえ、おじいちゃん。	「Hey, Grandpa.
+20656	+		　このブサイクな像、なんなの？	What is this ugly statue for?
+20657	+		　ずぅっと昔からあるよね」	It's been here for a long, long time.」
 
-20658	Old Man	「それはのう……村を救った女神様の像なんだよ」	「That is... a statue of the Goddess who saved the village.」
+20658	Old Man		「それはのう……村を救った女神様の像なんだよ」	「That is... a statue of the Goddess who saved the village.」
 
-20659	Old Man	「おじいちゃんが……まだお前くらいの頃の話だ。	「This is a story from when I was about your age.
-20660	+	　滅ぶしかなかった村に、	It's a statue of the person who brought a miracle
-20661	+	　奇跡をもたらして助けてくれた方の像なんだよ」	to save a village that was destined for ruin.」
+20659	Old Man		「おじいちゃんが……まだお前くらいの頃の話だ。	「This is a story from when I was about your age.
+20660	+		　滅ぶしかなかった村に、	It's a statue of the person who brought a miracle
+20661	+		　奇跡をもたらして助けてくれた方の像なんだよ」	to save a village that was destined for ruin.」
 
-20662	Boy	「えっ、ほんとう！？	「Eh, really!?
-20663	+	　ごめんなさい、ブサイクだなんて……」	I'm sorry for calling it ugly...」
+20662	Boy		「えっ、ほんとう！？	「Eh, really!?
+20663	+		　ごめんなさい、ブサイクだなんて……」	I'm sorry for calling it ugly...」
 
-20664	Old Man	「いいんじゃよ。	「It's quite alright.
-20665	+	　ブサイクな……まっことブサイクな女神じゃった。	She was an ugly... truly an ugly goddess.
-20666	+	　ブス観音さまじゃ」	The Ugly Kannon.」
+20664	Old Man		「いいんじゃよ。	「It's quite alright.
+20665	+		　ブサイクな……まっことブサイクな女神じゃった。	She was an ugly... truly an ugly goddess.
+20666	+		　ブス観音さまじゃ」	The Ugly Kannon.」
 
-20667	Boy	「そっか！	「I see!
-20668	+	　助けてくれてありがとう、ブス観音様！」	Thank you for saving us, Ugly Kannon!」
+20667	Boy		「そっか！	「I see!
+20668	+		　助けてくれてありがとう、ブス観音様！」	Thank you for saving us, Ugly Kannon!」
 
-20669	-	今日も平和な世界を……	Even today, over this peaceful world...
-20670	+	ブス観音は、ただ見守っていた。	the Ugly Kannon simply watched over it.
+20669	-		今日も平和な世界を……	Even today, over this peaceful world...
+20670	+		ブス観音は、ただ見守っていた。	the Ugly Kannon simply watched over it.

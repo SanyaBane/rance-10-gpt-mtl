@@ -9,90 +9,90 @@
 * Pizarro	大将軍ピサロ	Male
 * Monster General	汎用魔物将軍	Male
 
-61267	Free Cities Guard	「申し上げます！	「Reporting!
-61268	+	　ジフテリア軍、動き始めました！」	　The Diphteria Army has begun moving!」
+61267	Free Cities Guard	基本	「申し上げます！	「Reporting!
+61268	+		　ジフテリア軍、動き始めました！」	　The Diphteria Army has begun moving!」
 
-61269	Copandon Dott	「なんや、妙やて聞いたけど……大丈夫やな。	「I heard something strange... but it's fine.
-61270	+	　まったく、おっそいのは困るけど……」	　Seriously, being slow is a problem though...」
+61269	Copandon Dott	ため息	「なんや、妙やて聞いたけど……大丈夫やな。	「I heard something strange... but it's fine.
+61270	+		　まったく、おっそいのは困るけど……」	　Seriously, being slow is a problem though...」
 
-61271	Free Cities Guard	「い、いえ、違います！	「N-no, that's not it!
-61272	+	　ジフテリア軍は、我々を……	　The Diphteria Army is attacking us...
-61273	+	　自由都市連合軍を攻撃しています！」	　The Free Cities Alliance Army!」
+61271	Free Cities Guard	基本	「い、いえ、違います！	「N-no, that's not it!
+61272	+		　ジフテリア軍は、我々を……	　The Diphteria Army is attacking us...
+61273	+		　自由都市連合軍を攻撃しています！」	　The Free Cities Alliance Army!」
 
-61274	Copandon Dott	「な、なんやて！？」	「Wh-what!?」
+61274	Copandon Dott	驚き	「な、なんやて！？」	「Wh-what!?」
 
-61275	Shinoda Gengorou	「今、どこなの？　目的は……」	「Where are they now? Their objective...」
+61275	Shinoda Gengorou	基本	「今、どこなの？　目的は……」	「Where are they now? Their objective...」
 
-61276	Free Cities Guard	「セシル隊長殿の傭兵隊が食い止めておりますが……	「Captain Cecil's mercenary unit is holding them back but...
-61277	+	　魔軍本隊に合流しています！　早晩破られます！」	　They are joining the main Monster Army! They'll break through soon!」
+61276	Free Cities Guard		「セシル隊長殿の傭兵隊が食い止めておりますが……	「Captain Cecil's mercenary unit is holding them back but...
+61277	+		　魔軍本隊に合流しています！　早晩破られます！」	　They are joining the main Monster Army! They'll break through soon!」
 
-61278	Free Cities Guard	「目的地は、恐らく……ここです！　本部です！」	「Their destination is probably... here! The headquarters!」
+61278	Free Cities Guard		「目的地は、恐らく……ここです！　本部です！」	「Their destination is probably... here! The headquarters!」
 
-61279	Shinoda Gengorou	「……まぁ、そうだよねぇ」	「...Well, that makes sense.」
+61279	Shinoda Gengorou		「……まぁ、そうだよねぇ」	「...Well, that makes sense.」
 
-61280	Copandon Dott	「ビヨンホウ……アイツかい、内通者、ッ……！」	「Biyonhou... That guy is the traitor...!」
+61280	Copandon Dott	怒り	「ビヨンホウ……アイツかい、内通者、ッ……！」	「Biyonhou... That guy is the traitor...!」
 
-61281	Papademas Shirusven	「お、お、おおおぉぅっ……！？	「O, o, ooooh...!?
-61282	+	　い、今すぐここを引き払いましょう！」	　Let's evacuate right now!」
+61281	Papademas Shirusven	基本	「お、お、おおおぉぅっ……！？	「O, o, ooooh...!?
+61282	+		　い、今すぐここを引き払いましょう！」	　Let's evacuate right now!」
 
-61283	Pespo Tontone	「……撤退するなら、全軍撤退の算段付けてからだ。	「...If we're retreating, we need a plan for the whole army first.
-61284	+	　じゃないとグチャグチャになるぜ」	　Otherwise it'll be a mess.」
+61283	Pespo Tontone		「……撤退するなら、全軍撤退の算段付けてからだ。	「...If we're retreating, we need a plan for the whole army first.
+61284	+		　じゃないとグチャグチャになるぜ」	　Otherwise it'll be a mess.」
 
-61285	Papademas Shirusven	「ふむ、ぐっ……！	「Hmm, guh...!
-61286	+	　くうぅぅ……私の……私のジオ軍が……！」	　Kuuu... My... my Geo Army...!」
+61285	Papademas Shirusven		「ふむ、ぐっ……！	「Hmm, guh...!
+61286	+		　くうぅぅ……私の……私のジオ軍が……！」	　Kuuu... My... my Geo Army...!」
 
-61287	Pespo Tontone	「おい、軍師さん。	「Hey, strategist.
-61288	+	　この状況で、ひっくり返す手段はあるかい」	　Is there any way to turn this around?」
+61287	Pespo Tontone		「おい、軍師さん。	「Hey, strategist.
+61288	+		　この状況で、ひっくり返す手段はあるかい」	　Is there any way to turn this around?」
 
-61289	Shinoda Gengorou	「……………………」	「........................」
+61289	Shinoda Gengorou		「……………………」	「........................」
 
-61290	-	稀代の軍師、篠田源五郎は力なく首を振った。	The renowned strategist Shinoda Gengo weakly shook his head.
-61291	+	手が及ぶ範囲の外のことには、	Things outside his reach,
-61292	+	対処しようがなかった。	he could do nothing about.
+61290	-		稀代の軍師、篠田源五郎は力なく首を振った。	The renowned strategist Shinoda Gengo weakly shook his head.
+61291	+		手が及ぶ範囲の外のことには、	Things outside his reach,
+61292	+		対処しようがなかった。	he could do nothing about.
 
-61293	Pespo Tontone	「……そうかい。	「...I see.
-61294	+	　悪いなぁ、こんな所まで引っ張り出して」	　Sorry for dragging you all the way out here.」
+61293	Pespo Tontone		「……そうかい。	「...I see.
+61294	+		　悪いなぁ、こんな所まで引っ張り出して」	　Sorry for dragging you all the way out here.」
 
-61295	Asakura Yoshikage	「動いてる命令は全て撤回。全軍撤退だ。	「Revoke all active orders. Full army retreat.
-61296	+	　逃げる先は、各自で任せる。	　Escape routes are up to each unit.
-61297	+	　……運が良ければ、逃げられましょう」	　...If we're lucky, we might escape.」
+61295	Asakura Yoshikage		「動いてる命令は全て撤回。全軍撤退だ。	「Revoke all active orders. Full army retreat.
+61296	+		　逃げる先は、各自で任せる。	　Escape routes are up to each unit.
+61297	+		　……運が良ければ、逃げられましょう」	　...If we're lucky, we might escape.」
 
-61298	Free Cities Guard	「は、ははっ……！」	「Y-yes...!」
+61298	Free Cities Guard		「は、ははっ……！」	「Y-yes...!」
 
-61299	-	すぐさま伝えようと伝令兵が動こうとした瞬間、	The moment the messenger tried to move to relay it,
-61300	+	別の伝令兵が、同僚に劣らぬほど血相を変えて	another messenger burst in with an equally pale face,
-61301	+	飛び込んできた。	just as panicked as the first.
+61299	-		すぐさま伝えようと伝令兵が動こうとした瞬間、	The moment the messenger tried to move to relay it,
+61300	+		別の伝令兵が、同僚に劣らぬほど血相を変えて	another messenger burst in with an equally pale face,
+61301	+		飛び込んできた。	just as panicked as the first.
 
-61302	Free Cities Guard	「申し上げます！　魔軍が……	「Reporting! The Monster Army...
-61303	+	　予備兵力含め、魔軍全軍が、進撃してきました！	　Including reserves, the entire Monster Army has begun advancing!
-61304	+	　…………包囲されます！」	　............We are being surrounded!」
+61302	Free Cities Guard		「申し上げます！　魔軍が……	「Reporting! The Monster Army...
+61303	+		　予備兵力含め、魔軍全軍が、進撃してきました！	　Including reserves, the entire Monster Army has begun advancing!
+61304	+		　…………包囲されます！」	　............We are being surrounded!」
 
-61305	-	その場の空気が、凍りついた。	The air in the room froze.
+61305	-		その場の空気が、凍りついた。	The air in the room froze.
 
-61306	Copandon Dott	「ランス、ッ……！」	「Rance...!」
+61306	Copandon Dott	ジト目	「ランス、ッ……！」	「Rance...!」
 
-61307	Convert Tax	「ぶっひゃっひゃっひゃっひゃ！！	「Buhyahyahya!!
-61308	+	　動いた！　動きましたわ、ビヨンホウの奴！」	　It moved! Biyonhou's guy made his move!」
+61307	Convert Tax	基本	「ぶっひゃっひゃっひゃっひゃ！！	「Buhyahyahya!!
+61308	+		　動いた！　動きましたわ、ビヨンホウの奴！」	　It moved! Biyonhou's guy made his move!」
 
-61309	Pizarro	「ふっはははははは！　どうやらそのようだな。	「Fuhahahahaha! Seems so.
-61310	+	　人間が、保身に目が眩んだか！」	　The humans got blinded by self-preservation!」
+61309	Pizarro		「ふっはははははは！　どうやらそのようだな。	「Fuhahahahaha! Seems so.
+61310	+		　人間が、保身に目が眩んだか！」	　The humans got blinded by self-preservation!」
 
-61311	Convert Tax	「ワイらが働いたこと、忘れんといてくださいよ、	「Don't forget what we did,
-61312	+	　大将軍閣下！」	　Great General!」
+61311	Convert Tax		「ワイらが働いたこと、忘れんといてくださいよ、	「Don't forget what we did,
+61312	+		　大将軍閣下！」	　Great General!」
 
-61313	Pizarro	「分かっている。後ほど褒美を取らす。	「I know. I'll reward you later.
-61314	+	　これで勝った！　ふっはははははは！」	　We've won! Fuhahahahaha!」
+61313	Pizarro		「分かっている。後ほど褒美を取らす。	「I know. I'll reward you later.
+61314	+		　これで勝った！　ふっはははははは！」	　We've won! Fuhahahahaha!」
 
-61315	Monster General	「ピサロ閣下、ご下知を！」	「General Pizarro, your orders!」
+61315	Monster General		「ピサロ閣下、ご下知を！」	「General Pizarro, your orders!」
 
-61316	Pizarro	「全軍突撃！　人間どもを包囲して、	「All troops charge! Surround the humans,
-61317	+	　一人も逃がさず叩き殺せ！」	　and kill every last one!」
+61316	Pizarro		「全軍突撃！　人間どもを包囲して、	「All troops charge! Surround the humans,
+61317	+		　一人も逃がさず叩き殺せ！」	　and kill every last one!」
 
-61318	Monster General	「ははッ！　……して、あのジフテリアでしたか、	「Yes sir! ...What about the Diphteria humans,
-61319	+	　人間の軍はいかがいたしましょう」	　their army?」
+61318	Monster General		「ははッ！　……して、あのジフテリアでしたか、	「Yes sir! ...What about the Diphteria humans,
+61319	+		　人間の軍はいかがいたしましょう」	　their army?」
 
-61320	Pizarro	「ああ、アレは放っておけ、今は」	「Ah, leave them for now.」
+61320	Pizarro		「ああ、アレは放っておけ、今は」	「Ah, leave them for now.」
 
-61321	-	にぃっ、と、ピサロの口角が歪む。	Pizarro's mouth twisted into a grin.
+61321	-		にぃっ、と、ピサロの口角が歪む。	Pizarro's mouth twisted into a grin.
 
-61322	Pizarro	「最後にまとめて大掃除、だ。いいな」	「We'll do a big cleanup at the end. Got it?」
+61322	Pizarro		「最後にまとめて大掃除、だ。いいな」	「We'll do a big cleanup at the end. Got it?」

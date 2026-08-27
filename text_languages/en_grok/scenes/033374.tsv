@@ -4,74 +4,74 @@
 * Arms Arc	アームズ２	Female
 * Nikkou	日光	Female
 
-232453	-	あなたはレリコフとシーウィードを探険していた。	You were exploring Seaweed with Lelikov Helman.
+232453	-		あなたはレリコフとシーウィードを探険していた。	You were exploring Seaweed with Lelikov Helman.
 
-232454	-	レリコフは繋いだ手をわざと	Lelikov Helman deliberately swung
-232455	+	ぶらぶらしたりと楽しそうだった。	your joined hands happily.
+232454	-		レリコフは繋いだ手をわざと	Lelikov Helman deliberately swung
+232455	+		ぶらぶらしたりと楽しそうだった。	your joined hands happily.
 
-232456	Lelikov Helman	「それでね、ヒーローはご飯食べたら	「And then, Hero got sleepy after eating,
-232457	+	　眠くなっちゃったって言って、	　and is taking a nap now.」
-232458	+	　今はお昼寝中なんだよ」	
+232456	Lelikov Helman	基本	「それでね、ヒーローはご飯食べたら	「And then, Hero got sleepy after eating,
+232457	+		　眠くなっちゃったって言って、	　and is taking a nap now.」
+232458	+		　今はお昼寝中なんだよ」	
 
-232459	Lelikov Helman	「ふふーん、ボクに比べると	「Fufun, compared to me
-232460	+	　ヒーローはまだまだ子供なんだ」	　Hero is still a kid.」
+232459	Lelikov Helman	きゃはは！	「ふふーん、ボクに比べると	「Fufun, compared to me
+232460	+		　ヒーローはまだまだ子供なんだ」	　Hero is still a kid.」
 
-232461	Lelikov Helman	「ん？　ねえねえ、＜エール＞、あれ……」	「Hm? Hey hey, ＜エール＞, look over there...」
+232461	Lelikov Helman	基本	「ん？　ねえねえ、＜エール＞、あれ……」	「Hm? Hey hey, ＜エール＞, look over there...」
 
-232462	Brothel Boy	「かしこまりました。	「Understood.
-232463	+	　お客様はそちらの方だけでございますね」	　Only that person then.」
+232462	Brothel Boy		「かしこまりました。	「Understood.
+232463	+		　お客様はそちらの方だけでございますね」	　Only that person then.」
 
-232464	Arms Arc	「ああ、彼女はこういうことは不慣れでね。	「Yes, she's not used to this kind of thing.
-232465	+	　出来るだけ優しくしてくれるとありがたい」	　Please be as gentle as possible.」
+232464	Arms Arc		「ああ、彼女はこういうことは不慣れでね。	「Yes, she's not used to this kind of thing.
+232465	+		　出来るだけ優しくしてくれるとありがたい」	　Please be as gentle as possible.」
 
-232466	Nikkou	「あの……」	「Um...」
+232466	Nikkou		「あの……」	「Um...」
 
-232467	Arms Arc	「ん？　もう話し合いは済んだ筈だろう？	「Hm? We already finished the discussion, right?
-232468	+	　それとも何か注文があるのかな？」	　Or do you have an additional request?」
+232467	Arms Arc		「ん？　もう話し合いは済んだ筈だろう？	「Hm? We already finished the discussion, right?
+232468	+		　それとも何か注文があるのかな？」	　Or do you have an additional request?」
 
-232469	Brothel Boy	「色々とオプションはございます。	「There are various options.
-232470	+	　ご希望がおありでしたら、	　If you have any wishes,
-232471	+	　出来る限り善処させて頂きますが」	　we will accommodate as best we can.」
+232469	Brothel Boy		「色々とオプションはございます。	「There are various options.
+232470	+		　ご希望がおありでしたら、	　If you have any wishes,
+232471	+		　出来る限り善処させて頂きますが」	　we will accommodate as best we can.」
 
-232472	Nikkou	「…………」	「............」
+232472	Nikkou	怒り	「…………」	「............」
 
-232473	Nikkou	「はあ……」	「Haa...」
+232473	Nikkou		「はあ……」	「Haa...」
 
-232474	Arms Arc	「言いたいことがあるなら、	「If you have something to say,
-232475	+	　言ってくれて構わないんだぞ？」	　feel free to say it.」
+232474	Arms Arc	基本	「言いたいことがあるなら、	「If you have something to say,
+232475	+		　言ってくれて構わないんだぞ？」	　feel free to say it.」
 
-232476	Nikkou	「いえ……なんでもありません……」	「No... it's nothing...」
+232476	Nikkou		「いえ……なんでもありません……」	「No... it's nothing...」
 
-232477	-	言いたいことなら山とある。	There were mountains of things she wanted to say.
-232478	+	そんな顔をしながら日光はかぶりを振った。	With that expression Nikkou shook her head.
+232477	-		言いたいことなら山とある。	There were mountains of things she wanted to say.
+232478	+		そんな顔をしながら日光はかぶりを振った。	With that expression Nikkou shook her head.
 
-232479	Arms Arc	「ふむ、そうか。	「Hmm, I see.
-232480	+	　一人で行くのは少し勇気がいるか」	　Going alone takes some courage.」
+232479	Arms Arc		「ふむ、そうか。	「Hmm, I see.
+232480	+		　一人で行くのは少し勇気がいるか」	　Going alone takes some courage.」
 
-232481	Nikkou	「は、いえ……そんな話ではなく……」	「Y, yes... that's not what I meant...」
+232481	Nikkou		「は、いえ……そんな話ではなく……」	「Y, yes... that's not what I meant...」
 
-232482	Arms Arc	「君、すまないが二人同時で頼む。	「Sorry, but please prepare two at once.
-232483	+	　彼女は私もいないと不安だそうだ。	　She says she's anxious without me.
-232484	+	　私はサポートに入る」	　I'll provide support.」
+232482	Arms Arc		「君、すまないが二人同時で頼む。	「Sorry, but please prepare two at once.
+232483	+		　彼女は私もいないと不安だそうだ。	　She says she's anxious without me.
+232484	+		　私はサポートに入る」	　I'll provide support.」
 
-232485	Brothel Boy	「かしこまりました」	「Understood.」
+232485	Brothel Boy		「かしこまりました」	「Understood.」
 
-232486	Nikkou	「あ、貴女という人は……	「Ah, you really are...
-232487	+	　本当に人の話を聞かないばかりか、	　Not only do you not listen to people,
-232488	+	　全てにおいて無頓着な……」	　you're indifferent to everything...」
+232486	Nikkou	怒り	「あ、貴女という人は……	「Ah, you really are...
+232487	+		　本当に人の話を聞かないばかりか、	　Not only do you not listen to people,
+232488	+		　全てにおいて無頓着な……」	　you're indifferent to everything...」
 
-232489	Arms Arc	「はっはっはっ、いいじゃないか。	「Hah hah hah, it's fine.
-232490	+	　さあ、行こう」	　Now, let's go.」
+232489	Arms Arc	基本	「はっはっはっ、いいじゃないか。	「Hah hah hah, it's fine.
+232490	+		　さあ、行こう」	　Now, let's go.」
 
-232491	Nikkou	「あっ……」	「Ah...」
+232491	Nikkou		「あっ……」	「Ah...」
 
-232492	-	アームズは日光の背を押して、	Arms pushed Nikkou's back,
-232493	+	テントの中へと入っていった。	and they entered the tent.
+232492	-		アームズは日光の背を押して、	Arms pushed Nikkou's back,
+232493	+		テントの中へと入っていった。	and they entered the tent.
 
-232494	Lelikov Helman	「誰だろう？」	「Who was that?」
+232494	Lelikov Helman		「誰だろう？」	「Who was that?」
 
-232495	Lelikov Helman	「まあいいや、あっちの方に行ってみよー♪」	「Whatever, let's go that way♪」
+232495	Lelikov Helman	きゃはは！	「まあいいや、あっちの方に行ってみよー♪」	「Whatever, let's go that way♪」
 
-232496	-	レリコフの力は強く、	Lelikov Helman's strength was powerful,
-232497	+	あなたはレリコフに引っ張られるまま	and you were pulled along by Lelikov Helman
-232498	+	シーウィード内を歩く。	walking inside Seaweed.
+232496	-		レリコフの力は強く、	Lelikov Helman's strength was powerful,
+232497	+		あなたはレリコフに引っ張られるまま	and you were pulled along by Lelikov Helman
+232498	+		シーウィード内を歩く。	walking inside Seaweed.

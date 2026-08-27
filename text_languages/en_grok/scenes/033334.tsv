@@ -5,91 +5,91 @@
 * Mix Tou	ミックス２	Female
 * El Mofus	エール２	Player's choice
 
-228127	Zance Leazas	「うーしっ、ようやく裸エリアまで来たな」	「Alright, finally made it back to the naked area entrance.」
+228127	Zance Leazas	基本	「うーしっ、ようやく裸エリアまで来たな」	「Alright, finally made it back to the naked area entrance.」
 
-228128	-	あなた達は先程断念した、	You returned to the naked area entrance
-228129	+	裸エリアの入り口まで戻ってきた。	that you had given up on earlier.
+228128	-		あなた達は先程断念した、	You returned to the naked area entrance
+228129	+		裸エリアの入り口まで戻ってきた。	that you had given up on earlier.
 
-228130	Yamamoto Rangi	「スシヌ、いいのかい？	「Sushinu, are you really okay?
-228131	+	　今ならまだ引き返せるが……」	　You can still turn back now...」
+228130	Yamamoto Rangi		「スシヌ、いいのかい？	「Sushinu, are you really okay?
+228131	+		　今ならまだ引き返せるが……」	　You can still turn back now...」
 
-228132	Sushinu the Gandhi	「だだだ、大丈夫！	「I-I'm fine!
-228133	+	　わたし、ゼスの姫だから！」	　I'm the princess of Zeth after all!」
+228132	Sushinu the Gandhi	パニック	「だだだ、大丈夫！	「I-I'm fine!
+228133	+		　わたし、ゼスの姫だから！」	　I'm the princess of Zeth after all!」
 
-228134	Yamamoto Rangi	「…………」	「............」
+228134	Yamamoto Rangi	ため息	「…………」	「............」
 
-228135	Zance Leazas	「よし、早速入るぞー」	「Alright, let's head in right away!」
+228135	Zance Leazas	基本	「よし、早速入るぞー」	「Alright, let's head in right away!」
 
-228136	-	あなた達は、おそらく全裸になってしまう	You all stepped into the glowing light
-228137	+	魔法のかかった光の中に身を投じた。	that would likely strip you completely naked.
+228136	-		あなた達は、おそらく全裸になってしまう	You all stepped into the glowing light
+228137	+		魔法のかかった光の中に身を投じた。	that would likely strip you completely naked.
 
-228138	-	最前列をザンスと乱義が歩き、	Zance and Rangi led the front,
-228139	+	すぐ後ろをロッキー、長田君達が固め――	with Rocky and Nagata-kun right behind them――
+228138	-		最前列をザンスと乱義が歩き、	Zance and Rangi led the front,
+228139	+		すぐ後ろをロッキー、長田君達が固め――	with Rocky and Nagata-kun right behind them――
 
-228140	-	あなたがその後ろに配置され、	You were positioned right behind them,
-228141	+	最後尾を女性陣がついてきていた。	with the girls at the very back.
+228140	-		あなたがその後ろに配置され、	You were positioned right behind them,
+228141	+		最後尾を女性陣がついてきていた。	with the girls at the very back.
 
-228142	Mix Tou	「あんた、目くらい開いて歩きなさいよ」	「Open your eyes and walk properly.」
+228142	Mix Tou	全裸／呆れ	「あんた、目くらい開いて歩きなさいよ」	「Open your eyes and walk properly.」
 
-228143	Sushinu the Gandhi	「あうううう！？	「Auuuuh!?」
-228144	+	　そそそ、そうなんだけど、だってー！？」	　I-I know, but stillー!?」
+228143	Sushinu the Gandhi	裸光線／泣き	「あうううう！？	「Auuuuh!?」
+228144	+		　そそそ、そうなんだけど、だってー！？」	　I-I know, but stillー!?」
 
-228145	Sushinu the Gandhi~	（ああああああ……！）	（Aaaaaah...!）
+228145	Sushinu the Gandhi~	裸光線／パニック	（ああああああ……！）	（Aaaaaah...!）
 
-228146	-	自分の裸を見られることも、	Having her own naked body seen was bad enough for Sushinu,
-228147	+	スシヌにとって問題だったが、	but
-228148	+	前をみれば兄弟達の裸があるのも問題だった。	seeing her brothers' naked bodies ahead was also a huge problem.
+228146	-		自分の裸を見られることも、	Having her own naked body seen was bad enough for Sushinu,
+228147	+		スシヌにとって問題だったが、	but
+228148	+		前をみれば兄弟達の裸があるのも問題だった。	seeing her brothers' naked bodies ahead was also a huge problem.
 
-228149	-	結果、スシヌは体をもじもじと隠しつつ、	As a result, Sushinu tried to hide her body with her hands,
-228150	+	薄目を開けつつ俯き真下の地面だけを見つめていた。	squinting while looking down at the ground only.
+228149	-		結果、スシヌは体をもじもじと隠しつつ、	As a result, Sushinu tried to hide her body with her hands,
+228150	+		薄目を開けつつ俯き真下の地面だけを見つめていた。	squinting while looking down at the ground only.
 
-228151	Sushinu the Gandhi~	（ああああああああ……！	（Aaaaaaaaah...!
-228152	+	　私、なんてことを言い出しちゃったんだろう！）	What the heck did I volunteer for!）
+228151	Sushinu the Gandhi~		（ああああああああ……！	（Aaaaaaaaah...!
+228152	+		　私、なんてことを言い出しちゃったんだろう！）	What the heck did I volunteer for!）
 
-228153	Sushinu the Gandhi~	（は、恥ずかしい恥ずかしい恥ずかしい……！）	（S-So embarrassing, so embarrassing, so embarrassing...!）
+228153	Sushinu the Gandhi~		（は、恥ずかしい恥ずかしい恥ずかしい……！）	（S-So embarrassing, so embarrassing, so embarrassing...!）
 
-228154	-	スシヌは心臓は痛いほどに強く鼓動を打ち、	Her heart pounded so hard it hurt,
-228155	+	顔は真っ赤に染まっていた。	and her face was flushed bright red.
+228154	-		スシヌは心臓は痛いほどに強く鼓動を打ち、	Her heart pounded so hard it hurt,
+228155	+		顔は真っ赤に染まっていた。	and her face was flushed bright red.
 
-228156	-	裸のまま洞窟内を歩くだけで	Just walking through the cave completely naked
-228157	+	とてつもない羞恥にも関わらず、	was already incredibly humiliating,
-228158	+	周囲に異性がいる状況は耐えがたいものがあった。	but having the opposite sex around made it unbearable.
+228156	-		裸のまま洞窟内を歩くだけで	Just walking through the cave completely naked
+228157	+		とてつもない羞恥にも関わらず、	was already incredibly humiliating,
+228158	+		周囲に異性がいる状況は耐えがたいものがあった。	but having the opposite sex around made it unbearable.
 
-228159	Sushinu the Gandhi~	（うううう……私っていつもこうだ……	（Uuuu... This is always how I am...
-228160	+	　暴走して自分でもよく分からないこと言い出して、	I get carried away and say things I don't even understand,
-228161	+	　それでとんでもないことになって……）	and then it turns into something crazy...）
+228159	Sushinu the Gandhi~	裸光線／泣き	（うううう……私っていつもこうだ……	（Uuuu... This is always how I am...
+228160	+		　暴走して自分でもよく分からないこと言い出して、	I get carried away and say things I don't even understand,
+228161	+		　それでとんでもないことになって……）	and then it turns into something crazy...）
 
-228162	El Mofus	「…………。」	「............」
-228163	Sushinu the Gandhi	「あ……＜エール＞ちゃん……」	「Ah... ＜エール＞-chan...」
+228162	El Mofus	基本	「…………。」	「............」
+228163	Sushinu the Gandhi	裸光線	「あ……＜エール＞ちゃん……」	「Ah... ＜エール＞-chan...」
 
-228164	-	スシヌの前にいたあなたは、	You, who were right in front of Sushinu,
-228165	+	背後を見ないようにしながら、	careful not to look behind you,
-228166	+	スシヌに向けて手を差し伸べた。	reached your hand out to Sushinu.
+228164	-		スシヌの前にいたあなたは、	You, who were right in front of Sushinu,
+228165	+		背後を見ないようにしながら、	careful not to look behind you,
+228166	+		スシヌに向けて手を差し伸べた。	reached your hand out to Sushinu.
 
-228167	Sushinu the Gandhi	「あり……ありが、とう……」	「Th... Thank... you...」
+228167	Sushinu the Gandhi		「あり……ありが、とう……」	「Th... Thank... you...」
 
-228168	Sushinu the Gandhi~	（は、恥ずかしい……すっごく恥ずかしい……！）	（S-So embarrassing... incredibly embarrassing...!）
+228168	Sushinu the Gandhi~	裸光線／泣き	（は、恥ずかしい……すっごく恥ずかしい……！）	（S-So embarrassing... incredibly embarrassing...!）
 
-228169	Sushinu the Gandhi~	（恥ずかしい、けど……）	（Embarrassing, but...）
+228169	Sushinu the Gandhi~		（恥ずかしい、けど……）	（Embarrassing, but...）
 
-228170	Sushinu the Gandhi~	（なんでだろう……すごく安心する……）	（Why though... I feel so relieved...）
+228170	Sushinu the Gandhi~	裸光線	（なんでだろう……すごく安心する……）	（Why though... I feel so relieved...）
 
-228171	Sushinu the Gandhi~	（…………）	（............）
+228171	Sushinu the Gandhi~		（…………）	（............）
 
-228172	Sushinu the Gandhi~	（あ、あれ！？　私、全然安心してない！？	（W-Wait!? I'm not relieved at all!?
-228173	+	　むしろすっごく緊張してる！）	If anything I'm super nervous!）
+228172	Sushinu the Gandhi~	裸光線／唖然	（あ、あれ！？　私、全然安心してない！？	（W-Wait!? I'm not relieved at all!?
+228173	+		　むしろすっごく緊張してる！）	If anything I'm super nervous!）
 
-228174	Sushinu the Gandhi~	（なな、なんでなんで！？	（W-Why why!?」
-228175	+	　リセットお姉ちゃん達と手を繋ぐ時は	When I hold hands with Reset-neechan and the others
-228176	+	　あんなに安心してるのに！）	I feel so safe, but now!）
+228174	Sushinu the Gandhi~	裸光線／唖然汗	（なな、なんでなんで！？	（W-Why why!?」
+228175	+		　リセットお姉ちゃん達と手を繋ぐ時は	When I hold hands with Reset-neechan and the others
+228176	+		　あんなに安心してるのに！）	I feel so safe, but now!）
 
-228177	Sushinu the Gandhi~	（し、心臓がバクバク言って……	（M-My heart is pounding so hard...
-228178	+	　つ、辛いよお……）	I-It's too much...）
+228177	Sushinu the Gandhi~		（し、心臓がバクバク言って……	（M-My heart is pounding so hard...
+228178	+		　つ、辛いよお……）	I-It's too much...）
 
-228179	Sushinu the Gandhi	「……うふふ」	「...Ufufu」
+228179	Sushinu the Gandhi	基本	「……うふふ」	「...Ufufu」
 
-228180	Sushinu the Gandhi	「お婆ちゃん？　なんで笑ってるの？」	「Grandma? Why are you laughing?」
+228180	Sushinu the Gandhi	裸光線	「お婆ちゃん？　なんで笑ってるの？」	「Grandma? Why are you laughing?」
 
-228181	Sushinu the Gandhi	「なんでもないわよー」	「It's nothing~」
+228181	Sushinu the Gandhi	基本	「なんでもないわよー」	「It's nothing~」
 
-228182	Sushinu the Gandhi	「？？」	「??」
+228182	Sushinu the Gandhi	裸光線	「？？」	「??」

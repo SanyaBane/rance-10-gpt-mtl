@@ -2,106 +2,106 @@
 * Yutin Fulz	ユーティン	Hermaphrodite
 * Rance	ランス	Male
 
-121498	Yutin Fulz	「あ、ランス様、こんにちは」	「Ah, Rance-sama, hello.」
+121498	Yutin Fulz	基本	「あ、ランス様、こんにちは」	「Ah, Rance-sama, hello.」
 
-121499	Rance	「よう、ユーティン。	「Yo, Yutin.
-121500	+	　コパンドンのお使いか？」	　Running an errand for Copandon?」
+121499	Rance		「よう、ユーティン。	「Yo, Yutin.
+121500	+		　コパンドンのお使いか？」	　Running an errand for Copandon?」
 
-121501	Yutin Fulz	「はい、そうです。	「Yes, that's right.
-121502	+	　自由都市軍と総統司令部のパイプ役は	　The liaison between the Free Cities Army and the Supreme Leader's Headquarters
-121503	+	　コパンドン様なので自然と私も忙しくて……」	　is Copandon-sama, so naturally I'm busy too...」
+121501	Yutin Fulz		「はい、そうです。	「Yes, that's right.
+121502	+		　自由都市軍と総統司令部のパイプ役は	　The liaison between the Free Cities Army and the Supreme Leader's Headquarters
+121503	+		　コパンドン様なので自然と私も忙しくて……」	　is Copandon-sama, so naturally I'm busy too...」
 
-121504	Yutin Fulz	「おっと……」	「Whoops...」
+121504	Yutin Fulz	心配	「おっと……」	「Whoops...」
 
-121505	-	立ちくらみを起こしたのか、	She seemed dizzy,
-121506	+	ユーティンの小さな体がふらっと揺らいだ。	and her small body swayed unsteadily.
+121505	-		立ちくらみを起こしたのか、	She seemed dizzy,
+121506	+		ユーティンの小さな体がふらっと揺らいだ。	and her small body swayed unsteadily.
 
-121507	Rance	「おいおい、疲れてるんじゃないか？」	「Hey, aren't you tired?」
+121507	Rance	基本	「おいおい、疲れてるんじゃないか？」	「Hey, aren't you tired?」
 
-121508	Yutin Fulz	「ええ、そうですね。	「Yes, I am.
-121509	+	　だから早く帰りたくて……」	　So I want to go home soon...」
+121508	Yutin Fulz		「ええ、そうですね。	「Yes, I am.
+121509	+		　だから早く帰りたくて……」	　So I want to go home soon...」
 
-121510	Rance	「そうだな、とっとと家に帰って寝ろ」	「Yeah, go straight home and sleep.」
+121510	Rance		「そうだな、とっとと家に帰って寝ろ」	「Yeah, go straight home and sleep.」
 
-121511	Yutin Fulz	「あ、そっちではなくて……」	「Ah, not that...」
+121511	Yutin Fulz	驚き	「あ、そっちではなくて……」	「Ah, not that...」
 
-121512	Yutin Fulz	「あー……え、えへへ……	「Ah... Ehehe...
-121513	+	　その、溜まってしまって……」	　Um, it's built up...」
+121512	Yutin Fulz	基本	「あー……え、えへへ……	「Ah... Ehehe...
+121513	+		　その、溜まってしまって……」	　Um, it's built up...」
 
-121514	Rance	「溜まって？　何が？」	「Built up? What is?」
+121514	Rance		「溜まって？　何が？」	「Built up? What is?」
 
-121515	Yutin Fulz	「へっ？」	「Eh?」
+121515	Yutin Fulz	驚き	「へっ？」	「Eh?」
 
-121516	Yutin Fulz	「いえ、あの……	「No, um...
-121517	+	　あれが大変じゃないですか……」	　That thing gets really bad...」
+121516	Yutin Fulz		「いえ、あの……	「No, um...
+121517	+		　あれが大変じゃないですか……」	　That thing gets really bad...」
 
-121518	Rance	「あれ？」	「That thing?」
+121518	Rance	基本	「あれ？」	「That thing?」
 
-121519	Yutin Fulz	「その……疲れると、何故か元気になって……」	「Um... When I'm tired, for some reason it gets energetic...」
+121519	Yutin Fulz	驚き	「その……疲れると、何故か元気になって……」	「Um... When I'm tired, for some reason it gets energetic...」
 
-121520	Yutin Fulz	「私、量も回数も多いので、	「I have a lot of volume and frequency,
-121521	+	　一度そうなると大変、で……だから……	　so once it happens it's really tough... so...
-121522	+	　普段からあまり疲れないよう、してて……」	　I try not to get too tired normally...」
+121520	Yutin Fulz		「私、量も回数も多いので、	「I have a lot of volume and frequency,
+121521	+		　一度そうなると大変、で……だから……	　so once it happens it's really tough... so...
+121522	+		　普段からあまり疲れないよう、してて……」	　I try not to get too tired normally...」
 
-121523	Rance	「まったく分からん。	「I have no idea.
-121524	+	　なんの話をしてるんだ」	　What are you talking about?」
+121523	Rance	基本	「まったく分からん。	「I have no idea.
+121524	+		　なんの話をしてるんだ」	　What are you talking about?」
 
-121525	Yutin Fulz	「ぁ、ぅ、ぁ……」	「A, u, ah...」
+121525	Yutin Fulz	驚き	「ぁ、ぅ、ぁ……」	「A, u, ah...」
 
-121526	-	すっかりユーティンの顔はカーッと赤くなっていた。	Yutin's face was completely flushed red.
+121526	-		すっかりユーティンの顔はカーッと赤くなっていた。	Yutin's face was completely flushed red.
 
-121527	Yutin Fulz	「っ、あの……」	「Um...」
+121527	Yutin Fulz		「っ、あの……」	「Um...」
 
-121528	Yutin Fulz	「疲れると……	「When I'm tired...
-121529	+	　ちんちん、元気になるじゃないですか……」	　my dick gets hard...」
+121528	Yutin Fulz	心配	「疲れると……	「When I'm tired...
+121529	+		　ちんちん、元気になるじゃないですか……」	　my dick gets hard...」
 
-121530	Rance	「あ……あー」	「Ah... Aah.」
+121530	Rance	真剣	「あ……あー」	「Ah... Aah.」
 
-121531	Rance	「疲れマラのことか」	「You mean fatigue boner.」
+121531	Rance		「疲れマラのことか」	「You mean fatigue boner.」
 
-121532	Yutin Fulz	「大きな声で言わないでくださいー！」	「Don't say it so loudly!」
+121532	Yutin Fulz	心配	「大きな声で言わないでくださいー！」	「Don't say it so loudly!」
 
-121533	Rance	「そういや、お前はふたなり娘だから、	「Now that I think about it, you're a futa girl,
-121534	+	　ぞうさんもあるんだったな」	　so you've got an elephant trunk too.」
+121533	Rance	基本	「そういや、お前はふたなり娘だから、	「Now that I think about it, you're a futa girl,
+121534	+		　ぞうさんもあるんだったな」	　so you've got an elephant trunk too.」
 
-121535	Yutin Fulz	「そ、そうです……」	「Y-Yes...」
+121535	Yutin Fulz	心配	「そ、そうです……」	「Y-Yes...」
 
-121536	Rance	「で、とっとと家に帰って抜きたいと」	「So you want to go home quick and jerk off.」
+121536	Rance	基本	「で、とっとと家に帰って抜きたいと」	「So you want to go home quick and jerk off.」
 
-121537	Yutin Fulz	「ぃゃ、あ……」	「N-No, ah...」
+121537	Yutin Fulz	心配	「ぃゃ、あ……」	「N-No, ah...」
 
-121538	-	ユーティンは最早消え入りそうになっていた。	Yutin looked like she was about to disappear from embarrassment.
+121538	-		ユーティンは最早消え入りそうになっていた。	Yutin looked like she was about to disappear from embarrassment.
 
-121539	Rance	「ちんこあると色々と大変だな」	「Having a dick sure is tough.」
+121539	Rance	基本	「ちんこあると色々と大変だな」	「Having a dick sure is tough.」
 
-121540	Yutin Fulz	「ええ、まあ……」	「Yes, well...」
+121540	Yutin Fulz	心配	「ええ、まあ……」	「Yes, well...」
 
-121541	Rance	「商売女とか買わないのか？」	「Don't you buy prostitutes or something?」
+121541	Rance	基本	「商売女とか買わないのか？」	「Don't you buy prostitutes or something?」
 
-121542	Yutin Fulz	「か、買えません。	「I-I can't buy them.
-121543	+	　今でこそ秘書の職務についてますが、	　I'm a secretary now but,
-121544	+	　私はコパンドン様の為の奴隷なんですから」	　I'm Copandon-sama's slave.」
+121542	Yutin Fulz	驚き	「か、買えません。	「I-I can't buy them.
+121543	+		　今でこそ秘書の職務についてますが、	　I'm a secretary now but,
+121544	+		　私はコパンドン様の為の奴隷なんですから」	　I'm Copandon-sama's slave.」
 
-121545	Yutin Fulz	「別に禁止されてるわけではないですが、	「It's not forbidden but,
-121546	+	　コパンドン様以外の方とそんな簡単に……」	　doing it with anyone other than Copandon-sama so casually...」
+121545	Yutin Fulz		「別に禁止されてるわけではないですが、	「It's not forbidden but,
+121546	+		　コパンドン様以外の方とそんな簡単に……」	　doing it with anyone other than Copandon-sama so casually...」
 
-121547	Rance	「そうか……大変だな……」	「I see... Must be tough...」
+121547	Rance	基本	「そうか……大変だな……」	「I see... Must be tough...」
 
-121548	Yutin Fulz	「うっ、本気の憐れみの目……」	「Ugh, those genuine pitying eyes...」
+121548	Yutin Fulz	驚き	「うっ、本気の憐れみの目……」	「Ugh, those genuine pitying eyes...」
 
-121549	Yutin Fulz	「いえ、これもコパンドン様と	「No, if it's for being with Copandon-sama
-121550	+	　一緒にいる為と思えば……」	　then it's fine...」
+121549	Yutin Fulz		「いえ、これもコパンドン様と	「No, if it's for being with Copandon-sama
+121550	+		　一緒にいる為と思えば……」	　then it's fine...」
 
-121551	Yutin Fulz	「では、失礼します」	「Well then, excuse me.」
+121551	Yutin Fulz		「では、失礼します」	「Well then, excuse me.」
 
-121552	Rance	「おうおう」	「Yeah yeah.」
+121552	Rance	基本	「おうおう」	「Yeah yeah.」
 
-121553	Rance	「それにしても……」	「Even so...
+121553	Rance	真剣	「それにしても……」	「Even so...
 
-121554	Rance	「あいつ、いつの間にか羞恥心なんてもん	「That girl has somehow developed a sense of shame
-121555	+	　身につけてるな……」	　lately...」
+121554	Rance		「あいつ、いつの間にか羞恥心なんてもん	「That girl has somehow developed a sense of shame
+121555	+		　身につけてるな……」	　lately...」
 
-121556	Yutin Fulz	「うう……」	「Uuu...」
+121556	Yutin Fulz	基本	「うう……」	「Uuu...」
 
-121557	-	ユーティンはひょこひょこと、	Yutin walked away with small steps,
-121558	+	少し前屈みになりながら帰って行った。	slightly hunched over.
+121557	-		ユーティンはひょこひょこと、	Yutin walked away with small steps,
+121558	+		少し前屈みになりながら帰って行った。	slightly hunched over.

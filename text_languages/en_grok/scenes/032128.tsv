@@ -3,104 +3,104 @@
 * Uesugi Torako	虎子	Female
 * Rance	ランス	Male
 
-124206	Uesugi Katsuko	「もう、虎子、あんた書類どこに落としたのよ」	「Geez, Torako, where did you drop the documents?」
+124206	Uesugi Katsuko	不安	「もう、虎子、あんた書類どこに落としたのよ」	「Geez, Torako, where did you drop the documents?」
 
-124207	-	勝子と虎子が書類運びをしている間に、	While Katsuko and Torako were carrying documents,
-124208	+	行方不明になった書類を捜していた。	they were searching for the missing ones.
+124207	-		勝子と虎子が書類運びをしている間に、	While Katsuko and Torako were carrying documents,
+124208	+		行方不明になった書類を捜していた。	they were searching for the missing ones.
 
-124209	Uesugi Torako	「うう……ぐす、知らない……	「Uuu... sniff, I don't know...
-124210	+	　知らないもん……」	　I don't know...」
+124209	Uesugi Torako	泣き	「うう……ぐす、知らない……	「Uuu... sniff, I don't know...
+124210	+		　知らないもん……」	　I don't know...」
 
-124211	Uesugi Katsuko	「はあ……虎子に手伝ってもらおうと思ったのが	「Haa... Asking Torako for help
-124212	+	　間違いだったのかしら」	　might have been a mistake.」
+124211	Uesugi Katsuko	不安	「はあ……虎子に手伝ってもらおうと思ったのが	「Haa... Asking Torako for help
+124212	+		　間違いだったのかしら」	　might have been a mistake.」
 
-124213	Uesugi Torako	「うわーん！　勝子が嫌味ったらしいよー！」	「Waaah! Katsuko is being mean!」
+124213	Uesugi Torako	がおー	「うわーん！　勝子が嫌味ったらしいよー！」	「Waaah! Katsuko is being mean!」
 
-124214	Uesugi Katsuko	「もう、ピーピー泣いてないで捜してよ……」	「Stop crying and help search...」
+124214	Uesugi Katsuko	不安	「もう、ピーピー泣いてないで捜してよ……」	「Stop crying and help search...」
 
-124215	Uesugi Torako	「ね、ねえ、ねえねえ、勝子……」	「Hey, hey, Katsuko...
+124215	Uesugi Torako	泣き	「ね、ねえ、ねえねえ、勝子……」	「Hey, hey, Katsuko...
 
-124216	-	虎子が勝子にすがりつく。	Torako clung to Katsuko.
+124216	-		虎子が勝子にすがりつく。	Torako clung to Katsuko.
 
-124217	Uesugi Torako	「その書類ってそんなに大事なものなの？」	「Is that document really that important?」
+124217	Uesugi Torako		「その書類ってそんなに大事なものなの？」	「Is that document really that important?」
 
-124218	Uesugi Katsuko	「ええ？　別にそこまでは――」	「Eh? Not really that一一」
+124218	Uesugi Katsuko	不安	「ええ？　別にそこまでは――」	「Eh? Not really that一一」
 
-124219	Uesugi Katsuko	「…………」	「............」
+124219	Uesugi Katsuko	基本	「…………」	「............」
 
-124220	-	　	　
-124221	+	　　＜にやぁー＞	　　＜Nyaah＞
+124220	-		　	　
+124221	+		　　＜にやぁー＞	　　＜Nyaah＞
 
-124222	Uesugi Katsuko	「そーそー、すっごーーく大事な書類だって。	「Yeah yeah, it's suuuper important.
-124223	+	　今日の軍議で絶対に必要って言ってたかな？」	　They said it's absolutely needed for today's war council, right?」
+124222	Uesugi Katsuko	どやぁ	「そーそー、すっごーーく大事な書類だって。	「Yeah yeah, it's suuuper important.
+124223	+		　今日の軍議で絶対に必要って言ってたかな？」	　They said it's absolutely needed for today's war council, right?」
 
-124224	Uesugi Torako	「え、そ、そうなの！？」	「E-eh, really!?」
+124224	Uesugi Torako	泣き	「え、そ、そうなの！？」	「E-eh, really!?」
 
-124225	Uesugi Katsuko	「ああ……虎子のせいで作戦に支障が出て……	「Yeah... Because of Torako the operation will be hindered...
-124226	+	　沢山の人が死んじゃうかも……」	　Lots of people might die...」
+124225	Uesugi Katsuko	不安	「ああ……虎子のせいで作戦に支障が出て……	「Yeah... Because of Torako the operation will be hindered...
+124226	+		　沢山の人が死んじゃうかも……」	　Lots of people might die...」
 
-124227	Uesugi Torako	「う、うわーーーん！」	「U-uwahhh!」
+124227	Uesugi Torako	がおー	「う、うわーーーん！」	「U-uwahhh!」
 
-124228	Uesugi Katsuko	「さようなら、虎子……	「Farewell, Torako...
-124229	+	　軍法会議にかけられて死刑になっても、	　Even if you're court-martialed and executed,
-124230	+	　私、あんたのこと忘れない……」	　I won't forget you...」
+124228	Uesugi Katsuko	どやぁ	「さようなら、虎子……	「Farewell, Torako...
+124229	+		　軍法会議にかけられて死刑になっても、	　Even if you're court-martialed and executed,
+124230	+		　私、あんたのこと忘れない……」	　I won't forget you...」
 
-124231	Uesugi Katsuko	「虎子は思い出となって……	「Torako will live on as a memory...
-124232	+	　私の中で永遠に生きるからね……」	　forever inside me...」
+124231	Uesugi Katsuko		「虎子は思い出となって……	「Torako will live on as a memory...
+124232	+		　私の中で永遠に生きるからね……」	　forever inside me...」
 
-124233	Uesugi Torako	「うわわわーーーーん！	「Uwawawaaaah!
-124234	+	　優しくして！　虎子に優しくして！」	　Be nice! Be nice to Torako!」
+124233	Uesugi Torako	がおー	「うわわわーーーーん！	「Uwawawaaaah!
+124234	+		　優しくして！　虎子に優しくして！」	　Be nice! Be nice to Torako!」
 
-124235	Uesugi Katsuko	「優しくして欲しけりゃ、	「If you want me to be nice,
-124236	+	　とっとと見つけなさい」	　find it quickly.」
+124235	Uesugi Katsuko	不安	「優しくして欲しけりゃ、	「If you want me to be nice,
+124236	+		　とっとと見つけなさい」	　find it quickly.」
 
-124237	Uesugi Torako	「う、うん……」	「O-okay...」
+124237	Uesugi Torako	泣き	「う、うん……」	「O-okay...」
 
-124238	Uesugi Torako	「書類、書類どこー……」	「Documents, where are the documents...」
+124238	Uesugi Torako		「書類、書類どこー……」	「Documents, where are the documents...」
 
-124239	Rance	「なあ」	「Hey.」
+124239	Rance	基本	「なあ」	「Hey.」
 
-124240	Uesugi Katsuko	「え？」	「Eh?」
+124240	Uesugi Katsuko		「え？」	「Eh?」
 
-124241	Rance	「さっきから言ってるのって、	「The thing I've been talking about,
-124242	+	　これのことか？」	　is this it?」
+124241	Rance		「さっきから言ってるのって、	「The thing I've been talking about,
+124242	+		　これのことか？」	　is this it?」
 
-124243	Uesugi Katsuko	「えっ、そ、それ、どこに！？」	「Eh, w-where did you find it!?」
+124243	Uesugi Katsuko		「えっ、そ、それ、どこに！？」	「Eh, w-where did you find it!?」
 
-124244	Rance	「いや、さっき勝子が落としてたぞ」	「You dropped it earlier, Katsuko.」
+124244	Rance		「いや、さっき勝子が落としてたぞ」	「You dropped it earlier, Katsuko.」
 
-124245	Uesugi Katsuko	「えっ……」	「Eh...」
+124245	Uesugi Katsuko		「えっ……」	「Eh...」
 
-124246	-	勝子の顔から血の気がさっと引いた。	The color drained from Katsuko's face.
+124246	-		勝子の顔から血の気がさっと引いた。	The color drained from Katsuko's face.
 
-124247	Uesugi Katsuko	「あっ……えっと……」	「Ah... um...」
+124247	Uesugi Katsuko	不安	「あっ……えっと……」	「Ah... um...」
 
-124248	Uesugi Katsuko	「…………」	「............」
+124248	Uesugi Katsuko		「…………」	「............」
 
-124249	Uesugi Katsuko	「あ、あの、虎子……	「U-um, Torako...
-124250	+	　その、ごめんなさ――」	　Sorry一一」
+124249	Uesugi Katsuko		「あ、あの、虎子……	「U-um, Torako...
+124250	+		　その、ごめんなさ――」	　Sorry一一」
 
-124251	Uesugi Torako	「にやぁー」	「Nyaah.」
+124251	Uesugi Torako	どやぁ	「にやぁー」	「Nyaah.」
 
-124252	Uesugi Katsuko	「ひいっ！」	「Hii!」
+124252	Uesugi Katsuko	泣き	「ひいっ！」	「Hii!」
 
-124253	Uesugi Torako	「あれーーー？	「Ehhh?
-124254	+	　わたしのせいじゃなかったのかなー？	　It wasn't my fault after all?
-124255	+	　これってそーゆーことかなー？」	　Is that what this means?」
+124253	Uesugi Torako	どやぁ	「あれーーー？	「Ehhh?
+124254	+		　わたしのせいじゃなかったのかなー？	　It wasn't my fault after all?
+124255	+		　これってそーゆーことかなー？」	　Is that what this means?」
 
-124256	Uesugi Torako	「ねーねー、かつこー、	「Hey hey, Katsuko,
-124257	+	　これはどーゆーことかなー？」	　what does this mean?」
+124256	Uesugi Torako		「ねーねー、かつこー、	「Hey hey, Katsuko,
+124257	+		　これはどーゆーことかなー？」	　what does this mean?」
 
-124258	Uesugi Katsuko	「ち、ちが……」	「I-it's not...」
+124258	Uesugi Katsuko	泣き	「ち、ちが……」	「I-it's not...」
 
-124259	Uesugi Torako	「えー？　なになにー？	「Ehh? What what?
-124260	+	　なにがちがうのー？	　What's not?
-124261	+	　ねーねーおしえてよー？」	　Hey hey, tell me?」
+124259	Uesugi Torako	どやぁ	「えー？　なになにー？	「Ehh? What what?
+124260	+		　なにがちがうのー？	　What's not?
+124261	+		　ねーねーおしえてよー？」	　Hey hey, tell me?」
 
-124262	Uesugi Katsuko	「う……」	「Uuu...」
+124262	Uesugi Katsuko	泣き	「う……」	「Uuu...」
 
-124263	Uesugi Katsuko	「うわぁん……」	「Uwaaah...」
+124263	Uesugi Katsuko		「うわぁん……」	「Uwaaah...」
 
-124264	Rance	「…………」	「............」
+124264	Rance	基本	「…………」	「............」
 
-124265	Rance~	（こいつら本当は仲いいんじゃ……）	（These two are actually close, aren't they...）
+124265	Rance~		（こいつら本当は仲いいんじゃ……）	（These two are actually close, aren't they...）

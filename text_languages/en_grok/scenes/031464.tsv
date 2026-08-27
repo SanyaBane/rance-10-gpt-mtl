@@ -10,120 +10,120 @@
 * Patton Helman	パットン	Male
 * Sheila Helman	シーラ	Female
 
-77221	Rance	「なにい！？　魔軍が退いてないだとーー！？」	「What!? The Monster Army hasn't retreated---!?」
+77221	Rance	怒り	「なにい！？　魔軍が退いてないだとーー！？」	「What!? The Monster Army hasn't retreated---!?」
 
-77222	-	ランス城に戻り、	Upon returning to Rance Castle,
-77223	+	アールコートの報告を聞いたランスは	after hearing Arlcoate's report, Rance
-77224	+	城が揺れるような大声を上げた。	let out a roar that shook the castle.
+77222	-		ランス城に戻り、	Upon returning to Rance Castle,
+77223	+		アールコートの報告を聞いたランスは	after hearing Arlcoate's report, Rance
+77224	+		城が揺れるような大声を上げた。	let out a roar that shook the castle.
 
-77225	Arlcoate Marius	「ひうっ、す、すみません、おじ様……！」	「Hiu, s-sorry, Uncle...!」
+77225	Arlcoate Marius	南無	「ひうっ、す、すみません、おじ様……！」	「Hiu, s-sorry, Uncle...!」
 
-77226	Rance	「いや……アールコートちゃんに	「No... I'm not mad at you, Arlcoate-chan...」
-77227	+	　怒ったわけじゃないが……」	
+77226	Rance	だる顔	「いや……アールコートちゃんに	「No... I'm not mad at you, Arlcoate-chan...」
+77227	+		　怒ったわけじゃないが……」	
 
-77228	Satella	「一体どういうことだ！？	「What the hell is going on!?
-77229	+	　サテラ達は確かにレッドアイを倒したぞ！」	　We definitely defeated RedEye!」
+77228	Satella	怒り	「一体どういうことだ！？	「What the hell is going on!?
+77229	+		　サテラ達は確かにレッドアイを倒したぞ！」	　We definitely defeated RedEye!」
 
-77230	Arlcoate Marius	「は、はい、確かに魔人討伐隊は	「Y-Yes, the Fiend Extermination Squad did
-77231	+	　レッドアイ討伐に成功しました……	　succeed in defeating RedEye...
-77232	+	　事実、それで魔軍は崩れかけました……」	　In fact, the Monster Army nearly collapsed because of it...」
+77230	Arlcoate Marius	基本	「は、はい、確かに魔人討伐隊は	「Y-Yes, the Fiend Extermination Squad did
+77231	+		　レッドアイ討伐に成功しました……	　succeed in defeating RedEye...
+77232	+		　事実、それで魔軍は崩れかけました……」	　In fact, the Monster Army nearly collapsed because of it...」
 
-77233	Arlcoate Marius	「……ですが」	「...However」
+77233	Arlcoate Marius	弱気	「……ですが」	「...However」
 
-77234	Arlcoate Marius	「優秀な魔物将軍がいたようで……」	「There seems to have been an excellent Monster General...」
+77234	Arlcoate Marius		「優秀な魔物将軍がいたようで……」	「There seems to have been an excellent Monster General...」
 
-77235	Rance	「持ち直された、ってわけか……」	「So they recovered, huh...」
+77235	Rance	真剣	「持ち直された、ってわけか……」	「So they recovered, huh...」
 
-77236	Rance	「……ふん、なら、その魔物将軍を倒せば」	「...Hmph, then we'll just defeat that Monster General.」
+77236	Rance	基本	「……ふん、なら、その魔物将軍を倒せば」	「...Hmph, then we'll just defeat that Monster General.」
 
-77237	Arlcoate Marius	「うっ……」	「Ugh...」
+77237	Arlcoate Marius	南無	「うっ……」	「Ugh...」
 
-77238	-	ランスの新たな提案にも、	Even to Rance's new suggestion,
-77239	+	アールコートの顔は渋い。	Arlcoate's face remained grim.
+77238	-		ランスの新たな提案にも、	Even to Rance's new suggestion,
+77239	+		アールコートの顔は渋い。	Arlcoate's face remained grim.
 
-77240	Arlcoate Marius	「……残念ながら、	「...Unfortunately,
-77241	+	　それももう難しい、かと……」	　that also seems difficult now...」
+77240	Arlcoate Marius	弱気	「……残念ながら、	「...Unfortunately,
+77241	+		　それももう難しい、かと……」	　that also seems difficult now...」
 
-77242	Lia Parapara Leazas	「持ち直したのは魔物将軍の	「It wasn't just the Monster General's achievement
-77243	+	　手柄だけじゃないってことでしょ？」	　that let them recover, right?」
+77242	Lia Parapara Leazas	真剣	「持ち直したのは魔物将軍の	「It wasn't just the Monster General's achievement
+77243	+		　手柄だけじゃないってことでしょ？」	　that let them recover, right?」
 
-77244	Atago McCart	「え、えーと……	「Um, well...
-77245	+	　どういうことですか？」	　What do you mean?」
+77244	Atago McCart	基本	「え、えーと……	「Um, well...
+77245	+		　どういうことですか？」	　What do you mean?」
 
-77246	Lia Parapara Leazas	「魔軍全体の士気がとーーっても高いの。	「The entire Monster Army's morale is extremely high.
-77247	+	　もう何しても逃げ出したりしないの」	　They won't run away no matter what now.」
+77246	Lia Parapara Leazas	目閉じ	「魔軍全体の士気がとーーっても高いの。	「The entire Monster Army's morale is extremely high.
+77247	+		　もう何しても逃げ出したりしないの」	　They won't run away no matter what now.」
 
-77248	Crook Mofus	「あと少しでCITYとランス城――	「We're just a little away from taking CITY and Rance Castle一
-77249	+	　つまり人類軍の本丸が落とせる状況です」	　that is, the main headquarters of the human army.」
+77248	Crook Mofus	基本	「あと少しでCITYとランス城――	「We're just a little away from taking CITY and Rance Castle一
+77249	+		　つまり人類軍の本丸が落とせる状況です」	　that is, the main headquarters of the human army.」
 
-77250	Crook Mofus	「魔軍の士気の高さも仕方ないかと」	「So their high morale makes sense.」
+77250	Crook Mofus		「魔軍の士気の高さも仕方ないかと」	「So their high morale makes sense.」
 
-77251	Rance	「もう魔人だろうが将軍だろうが、	「Whether it's a Fiend or a general,
-77252	+	　誰が死んだところで止まらない、ってわけか」	　it won't stop no matter who dies.」
+77251	Rance		「もう魔人だろうが将軍だろうが、	「Whether it's a Fiend or a general,
+77252	+		　誰が死んだところで止まらない、ってわけか」	　it won't stop no matter who dies.」
 
-77253	Arlcoate Marius	「申し訳ありません！	「I'm so sorry!
-77254	+	　全ては私の責任です！」	　This is all my responsibility!」
+77253	Arlcoate Marius	南無	「申し訳ありません！	「I'm so sorry!
+77254	+		　全ては私の責任です！」	　This is all my responsibility!」
 
-77255	Miracle Tor	「落ち着け、アールコート・マリウス。	「Calm down, Arlcoate Marius.
-77256	+	　誰に、何ができるか。	　Right now what matters is
-77257	+	　今、大事なのはそれだけだ」	　who can do what.」
+77255	Miracle Tor	基本	「落ち着け、アールコート・マリウス。	「Calm down, Arlcoate Marius.
+77256	+		　誰に、何ができるか。	　Right now what matters is
+77257	+		　今、大事なのはそれだけだ」	　who can do what.」
 
-77258	Arlcoate Marius	「……はい」	「...Yes.」
+77258	Arlcoate Marius	弱気	「……はい」	「...Yes.」
 
-77259	Miracle Tor	「それで？	「So?
-77260	+	　どうする、カオスマスター？」	　What will you do, Chaos Master?」
+77259	Miracle Tor	目閉じ	「それで？	「So?
+77260	+		　どうする、カオスマスター？」	　What will you do, Chaos Master?」
 
-77261	Sill Plain	「ランス様……」	「Rance-sama...」
+77261	Sill Plain	真剣	「ランス様……」	「Rance-sama...」
 
-77262	Rance	「むむむ……」	「Mmm...」
+77262	Rance	基本	「むむむ……」	「Mmm...」
 
-77263	Arlcoate Marius	「――このまま戦っても、	「--Even if we continue fighting,
-77264	+	　もうイタズラに被害が増えるだけかと」	　it will only increase pointless casualties.」
+77263	Arlcoate Marius		「――このまま戦っても、	「--Even if we continue fighting,
+77264	+		　もうイタズラに被害が増えるだけかと」	　it will only increase pointless casualties.」
 
-77265	Arlcoate Marius	「士気が高いとは言え、	「Even though their morale is high,
-77266	+	　魔人レッドアイが討たれ、	　with Fiend RedEye defeated,
-77267	+	　魔軍も動揺し退いています」	　the Monster Army is shaken and retreating.」
+77265	Arlcoate Marius		「士気が高いとは言え、	「Even though their morale is high,
+77266	+		　魔人レッドアイが討たれ、	　with Fiend RedEye defeated,
+77267	+		　魔軍も動揺し退いています」	　the Monster Army is shaken and retreating.」
 
-77268	Arlcoate Marius	「今のうちに城を捨てて逃げることを進言します」	「I recommend abandoning the castle and escaping now.」
+77268	Arlcoate Marius		「今のうちに城を捨てて逃げることを進言します」	「I recommend abandoning the castle and escaping now.」
 
-77269	Crook Mofus	「そうですね、私もその方が良いかと」	「I agree, that seems better.」
+77269	Crook Mofus		「そうですね、私もその方が良いかと」	「I agree, that seems better.」
 
-77270	Rance	「う、む……」	「U-Umu...」
+77270	Rance		「う、む……」	「U-Umu...」
 
-77271	Lia Parapara Leazas	「リアもー、もう逃げ出しちゃってもいいと思うの」	「Lia also thinks it's fine to run away now.」
+77271	Lia Parapara Leazas		「リアもー、もう逃げ出しちゃってもいいと思うの」	「Lia also thinks it's fine to run away now.」
 
-77272	Lia Parapara Leazas	「だってー、レッドアイだって倒したんだもん。	「After all, we defeated RedEye.
-77273	+	　戦果としてはここで逃げても	　Even if we escape now,
-77274	+	　まだこっちの勝ちだもんね」	　it's still our victory.」
+77272	Lia Parapara Leazas		「だってー、レッドアイだって倒したんだもん。	「After all, we defeated RedEye.
+77273	+		　戦果としてはここで逃げても	　Even if we escape now,
+77274	+		　まだこっちの勝ちだもんね」	　it's still our victory.」
 
-77275	Lia Parapara Leazas	「ねねね、だからこのままリーザスまで	「So let's all escape together to Leazas, okay? Okay? Okay?」
-77276	+	　一緒に逃避行しましょ？　ねねね？」	
+77275	Lia Parapara Leazas	笑顔	「ねねね、だからこのままリーザスまで	「So let's all escape together to Leazas, okay? Okay? Okay?」
+77276	+		　一緒に逃避行しましょ？　ねねね？」	
 
-77277	Lia Parapara Leazas	「ダーリン？」	「Darling?」
+77277	Lia Parapara Leazas	基本	「ダーリン？」	「Darling?」
 
-77278	Rance	「うーーーーーーーーーーーん」	「Mmmmmm...」
+77278	Rance	真剣	「うーーーーーーーーーーーん」	「Mmmmmm...」
 
-77279	Rance	「うむ……では、ここは……」	「Umu... then here we...」
+77279	Rance	だる顔	「うむ……では、ここは……」	「Umu... then here we...」
 
-77280	Patton Helman	「ちょっと待った！」	「Wait a minute!」
+77280	Patton Helman	基本	「ちょっと待った！」	「Wait a minute!」
 
-77281	Rance	「あぁ、なんだ？」	「Ah, what?」
+77281	Rance	驚き	「あぁ、なんだ？」	「Ah, what?」
 
-77282	-	総統司令部に野太い声が響く。	A deep voice echoed in the Supreme Leader's Headquarters.
+77282	-		総統司令部に野太い声が響く。	A deep voice echoed in the Supreme Leader's Headquarters.
 
-77283	Patton Helman	「ハハハ、どうやらいいタイミングで	「Hahaha, looks like I came at the perfect time!」
-77284	+	　来られたようだな！」	
+77283	Patton Helman	笑い	「ハハハ、どうやらいいタイミングで	「Hahaha, looks like I came at the perfect time!」
+77284	+		　来られたようだな！」	
 
-77285	Rance	「パットン！？」	「Patton!?」
+77285	Rance	基本	「パットン！？」	「Patton!?」
 
-77286	Sheila Helman	「ランス様！」	「Rance-sama!」
+77286	Sheila Helman	笑顔	「ランス様！」	「Rance-sama!」
 
-77287	Rance	「シーラまで！」	「Even Sheila!」
+77287	Rance	驚き	「シーラまで！」	「Even Sheila!」
 
-77288	Lia Parapara Leazas	「うげぇ……」	「Ugee...」
+77288	Lia Parapara Leazas	困り	「うげぇ……」	「Ugee...」
 
-77289	Rance	「いったい、お前ら何しに……」	「What are you guys here for...」
+77289	Rance	基本	「いったい、お前ら何しに……」	「What are you guys here for...」
 
-77290	Patton Helman	「決まってるだろう」	「Isn't it obvious?」
+77290	Patton Helman		「決まってるだろう」	「Isn't it obvious?」
 
-77291	Patton Helman	「力になりに来たのさ」	「I came to help.」
+77291	Patton Helman	ウィンク	「力になりに来たのさ」	「I came to help.」

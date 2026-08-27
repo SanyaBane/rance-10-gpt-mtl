@@ -8,36 +8,36 @@
 * El Mofus	エール２	Player's choice
 * Reset Kalar	リセット２	Female
 
-203765	-	アームズから宝を受け取ると、	After receiving the treasures from Arms,
-203766	+	あなたの兄弟姉妹達は立ち上がり、	your brothers and sisters stood up,
-203767	+	にわかに活気づいた。	and the place suddenly became lively.
+203765	-		アームズから宝を受け取ると、	After receiving the treasures from Arms,
+203766	+		あなたの兄弟姉妹達は立ち上がり、	your brothers and sisters stood up,
+203767	+		にわかに活気づいた。	and the place suddenly became lively.
 
-203768	Zance Leazas	「うっし！　準備は整った！」	「Alright! We're ready!」
+203768	Zance Leazas	基本	「うっし！　準備は整った！」	「Alright! We're ready!」
 
-203769	Yamamoto Rangi	「そうだな……	「Yeah...
-203770	+	　もう、僕達に憂いはない」	　We no longer have any worries.」
+203769	Yamamoto Rangi		「そうだな……	「Yeah...
+203770	+		　もう、僕達に憂いはない」	　We no longer have any worries.」
 
-203771	Lelikov Helman	「ドカーン！　ってやっちゃお！」	「Let's go with a bang!」
+203771	Lelikov Helman	きゃはは！	「ドカーン！　ってやっちゃお！」	「Let's go with a bang!」
 
-203772	Mix Tou	「怪我はあたしが全部治すわ」	「I'll heal all the injuries.」
+203772	Mix Tou	基本	「怪我はあたしが全部治すわ」	「I'll heal all the injuries.」
 
-203773	Sushinu the Gandhi	「こ、今度は私も、頑張るよ！」	「T-this time I'll do my best too!」
+203773	Sushinu the Gandhi	決意	「こ、今度は私も、頑張るよ！」	「T-this time I'll do my best too!」
 
-203774	Nagata-kun	「よっしゃー！　そんじゃあ、相棒！」	「Alright! Let's go, partner!」
+203774	Nagata-kun	基本	「よっしゃー！　そんじゃあ、相棒！」	「Alright! Let's go, partner!」
 
-203775	-	長田君に促され、あなたは頷いた。	Prompted by Nagata-kun, you nodded.
+203775	-		長田君に促され、あなたは頷いた。	Prompted by Nagata-kun, you nodded.
 
-203776	El Mofus	「…………。」	「............」
-203777	Reset Kalar	「ストーーーップ！」	「Stooooop!」
+203776	El Mofus		「…………。」	「............」
+203777	Reset Kalar	怒り	「ストーーーップ！」	「Stooooop!」
 
-203778	Nagata-kun	「え……」	「Eh...」
+203778	Nagata-kun	基本	「え……」	「Eh...」
 
-203779	Nagata-kun	「ええ〜……なんすか、リセットさん……」	「Eeeh... what is it, Reset-san...」
+203779	Nagata-kun		「ええ〜……なんすか、リセットさん……」	「Eeeh... what is it, Reset-san...」
 
-203780	Reset Kalar	「えへへ、ごめんねぇ」	「Ehehe, sorry~」
+203780	Reset Kalar	たははー	「えへへ、ごめんねぇ」	「Ehehe, sorry~」
 
-203781	Reset Kalar	「いざ、戦う前に、明日ちょっといいかな？」	「Before we fight, is tomorrow okay for a bit?」
+203781	Reset Kalar	基本	「いざ、戦う前に、明日ちょっといいかな？」	「Before we fight, is tomorrow okay for a bit?」
 
-203782	Nagata-kun	「明日？」	「Tomorrow?」
+203782	Nagata-kun		「明日？」	「Tomorrow?」
 
-203783	-	リセットの謎の言葉にあなた達は顔を見合わせた。	You all looked at each other at Reset's mysterious words.
+203783	-		リセットの謎の言葉にあなた達は顔を見合わせた。	You all looked at each other at Reset's mysterious words.

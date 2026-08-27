@@ -6,55 +6,55 @@
 * Eleanor Ran	エレノア	Female
 * Cecil Carna	セシル	Female
 
-66466	Yutin Fulz	「あ、あの、コパンドン様！　大変ですー」	「U-um, Copandon-sama! It's terribleー」
+66466	Yutin Fulz	心配	「あ、あの、コパンドン様！　大変ですー」	「U-um, Copandon-sama! It's terribleー」
 
-66467	Copandon Dott	「どないしたん？　なんかあったんか？」	「What happened? Something wrong?」
+66467	Copandon Dott	基本	「どないしたん？　なんかあったんか？」	「What happened? Something wrong?」
 
-66468	Yutin Fulz	「それがその、表に…………きゃあ！」	「Well, outside............ kyaa!」
+66468	Yutin Fulz	心配	「それがその、表に…………きゃあ！」	「Well, outside............ kyaa!」
 
-66469	Rance	「がははははは！　俺様参上！」	「Gahahahahaha! Here comes the great me!」
+66469	Rance	笑顔	「がははははは！　俺様参上！」	「Gahahahahaha! Here comes the great me!」
 
-66470	Copandon Dott	「ランス！？　どないしてん急に」	「Rance!? Why so sudden?」
+66470	Copandon Dott	驚き	「ランス！？　どないしてん急に」	「Rance!? Why so sudden?」
 
-66471	Rance	「急にも何もあるか。	「No reason needed.
-66472	+	　ここの大将軍の頭をかち割りに	　I'm here to smash the head of the Great General here.」
-66473	+	　来てやったのではないか」	
+66471	Rance	基本	「急にも何もあるか。	「No reason needed.
+66472	+		　ここの大将軍の頭をかち割りに	　I'm here to smash the head of the Great General here.」
+66473	+		　来てやったのではないか」	
 
-66474	Papademas Shirusven	「おお、これはランス殿！	「Oh, it's Lord Rance!
-66475	+	　お久しゅう…………	　It's been a while............
-66476	?	むぶっ！」	Mubu!」
+66474	Papademas Shirusven	おべっか	「おお、これはランス殿！	「Oh, it's Lord Rance!
+66475	+		　お久しゅう…………	　It's been a while............
+66476	?		むぶっ！」	Mubu!」
 
-66477	Rance	「挨拶程度で話し掛けてくるな鬱陶しい」	「Don't talk to me with just greetings, it's annoying.」
+66477	Rance	真剣	「挨拶程度で話し掛けてくるな鬱陶しい」	「Don't talk to me with just greetings, it's annoying.」
 
-66478	Papademas Shirusven	「か、堅苦しい礼儀の必要ない仲ですからな、	「W-we're close enough that stiff formalities aren't needed,
-66479	+	　ふは、はははは……」	　fuha, hahaha...」
+66478	Papademas Shirusven	おべっか	「か、堅苦しい礼儀の必要ない仲ですからな、	「W-we're close enough that stiff formalities aren't needed,
+66479	+		　ふは、はははは……」	　fuha, hahaha...」
 
-66480	Rance	「お、ようランちゃん」	「Oh, hey Ran-chan.」
+66480	Rance	基本	「お、ようランちゃん」	「Oh, hey Ran-chan.」
 
-66481	Eleanor Ran	「……………………」	「........................」
+66481	Eleanor Ran	警戒	「……………………」	「........................」
 
-66482	Rance	「おーい、ランちゃーん。総統閣下だぞー」	「Hey, Ran-chan. It's the Supreme Leader.」
+66482	Rance	真剣	「おーい、ランちゃーん。総統閣下だぞー」	「Hey, Ran-chan. It's the Supreme Leader.」
 
-66483	Eleanor Ran	「…………どうも」	「............Hello.」
+66483	Eleanor Ran	つらい	「…………どうも」	「............Hello.」
 
-66484	-	視線を半分、逸らしたまま、	While averting her gaze halfway,
-66485	+	ランは小さく会釈をした。	Ran gave a small bow.
+66484	-		視線を半分、逸らしたまま、	While averting her gaze halfway,
+66485	+		ランは小さく会釈をした。	Ran gave a small bow.
 
-66486	Rance	「ちょっと痩せたか？	「Did you lose some weight?
-66487	+	　いかんぞ、ちゃんと食えよ」	　That's no good, eat properly.」
+66486	Rance	基本	「ちょっと痩せたか？	「Did you lose some weight?
+66487	+		　いかんぞ、ちゃんと食えよ」	　That's no good, eat properly.」
 
-66488	Eleanor Ran	「……忙しいので」	「...I've been busy.」
+66488	Eleanor Ran	つらい	「……忙しいので」	「...I've been busy.」
 
-66489	Rance	「そうかそうか大変そうだな。	「I see, I see, must be tough.
-66490	+	　だが俺様が来たからにはもう安心だぞ」	　But now that I'm here, you can relax.」
+66489	Rance	笑顔	「そうかそうか大変そうだな。	「I see, I see, must be tough.
+66490	+		　だが俺様が来たからにはもう安心だぞ」	　But now that I'm here, you can relax.」
 
-66491	Cecil Carna	「総統。すぐ行動に？」	「Supreme Leader. Immediate action?」
+66491	Cecil Carna	基本	「総統。すぐ行動に？」	「Supreme Leader. Immediate action?」
 
-66492	Rance	「ま、明日からだな。今日は俺様の歓迎会をしろ！	「Well, starting tomorrow. Today throw a welcome party for me!
-66493	+	　たっぷりもてなせよ！　がははははは！」	　Treat me well! Gahahahahaha!」
+66492	Rance	笑顔	「ま、明日からだな。今日は俺様の歓迎会をしろ！	「Well, starting tomorrow. Today throw a welcome party for me!
+66493	+		　たっぷりもてなせよ！　がははははは！」	　Treat me well! Gahahahahaha!」
 
-66494	Copandon Dott	「ユーティン、すぐ手配」	「Yutin, arrange it immediately.」
+66494	Copandon Dott	基本	「ユーティン、すぐ手配」	「Yutin, arrange it immediately.」
 
-66495	Yutin Fulz	「は、はいっ」	「Y-yes!」
+66495	Yutin Fulz	驚き	「は、はいっ」	「Y-yes!」
 
-66496	-	ランスと魔人討伐隊が、Mランドに到着した。	Rance and the Fiend Extermination Squad arrived at M Land.
+66496	-		ランスと魔人討伐隊が、Mランドに到着した。	Rance and the Fiend Extermination Squad arrived at M Land.

@@ -6,108 +6,108 @@
 * Monster Captain	汎用魔物隊長	Male
 * Chaos	カオス	Male
 
-153236	Rance	「がははははははは！	「Gahahahahahaha!
-153237	+	　魔物将軍はここかーー！」	　So the Monster General is here-----!」
+153236	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+153237	+		　魔物将軍はここかーー！」	　So the Monster General is here-----!」
 
-153238	-	ランスが扉を蹴破り、司令部内に突撃する。	Rance kicked the door open and charged into the command room.
+153238	-		ランスが扉を蹴破り、司令部内に突撃する。	Rance kicked the door open and charged into the command room.
 
-153239	LeMay	「ふんっ……ようやく来たか……」	「Hmph... So you've finally come...」
+153239	LeMay	基本	「ふんっ……ようやく来たか……」	「Hmph... So you've finally come...」
 
-153240	Rance	「む！？」	「Mu!?」
+153240	Rance		「む！？」	「Mu!?」
 
-153241	-	中には椅子に深く腰掛け、	Deeply seated in a chair,
-153242	+	パイプを吸う魔物大将軍ルメイの姿があった。	the Great Monster General LeMay was smoking a pipe.
+153241	-		中には椅子に深く腰掛け、	Deeply seated in a chair,
+153242	+		パイプを吸う魔物大将軍ルメイの姿があった。	the Great Monster General LeMay was smoking a pipe.
 
-153243	Rance	「がははは、魔物将軍発見！」	「Gahaha, Monster General found!」
+153243	Rance	笑顔	「がははは、魔物将軍発見！」	「Gahaha, Monster General found!」
 
-153244	Rance	「――って、なんか普通の奴よりデカい？」	「--Wait, isn't he bigger than normal?」
+153244	Rance	真剣	「――って、なんか普通の奴よりデカい？」	「--Wait, isn't he bigger than normal?」
 
-153245	Patton Helman	「お、おいおい！	「H-Hey!
-153246	+	　あれ、本物のルメイだぞ！」	　That's the real LeMay!」
+153245	Patton Helman	基本	「お、おいおい！	「H-Hey!
+153246	+		　あれ、本物のルメイだぞ！」	　That's the real LeMay!」
 
-153247	Rance	「なんだと！？」	「What!?」
+153247	Rance	驚き	「なんだと！？」	「What!?」
 
-153248	Rance	「がははは、さすが俺様、	「Gahaha, as expected of me,
-153249	+	　偽物を求めて本物を引き当てるとは！	　looking for a fake and hitting the real one!
-153250	+	　運に愛される男！」	　A man loved by luck!」
+153248	Rance	笑顔	「がははは、さすが俺様、	「Gahaha, as expected of me,
+153249	+		　偽物を求めて本物を引き当てるとは！	　looking for a fake and hitting the real one!
+153250	+		　運に愛される男！」	　A man loved by luck!」
 
-153251	Rance	「あ、いや、実は分かってた。	「Ah, no, I actually knew.
-153252	+	　全て計算通り。	　Everything went according to plan.
-153253	+	　さすが俺様だな、ふふん」	　As expected of me, heh.」
+153251	Rance	基本	「あ、いや、実は分かってた。	「Ah, no, I actually knew.
+153252	+		　全て計算通り。	　Everything went according to plan.
+153253	+		　さすが俺様だな、ふふん」	　As expected of me, heh.」
 
-153254	Patton Helman	「……あー。	「...Ah.
-153255	+	　今、ヒューが嘘つけやって	　I can just imagine Hugh yelling 'Liar!'
-153256	+	　キレてる姿が目に浮かんだ」	　right now.」
+153254	Patton Helman	戸惑い	「……あー。	「...Ah.
+153255	+		　今、ヒューが嘘つけやって	　I can just imagine Hugh yelling 'Liar!'
+153256	+		　キレてる姿が目に浮かんだ」	　right now.」
 
-153257	Hunty Kalar	「ここまで胸張って言えりゃ	「If he can say that with such confidence
-153258	+	　大したもんだよ、この男も……」	　this guy really is something...」
+153257	Hunty Kalar	呆れ	「ここまで胸張って言えりゃ	「If he can say that with such confidence
+153258	+		　大したもんだよ、この男も……」	　this guy really is something...」
 
-153259	Rance	「では、気を取り直して……」	「Well then, getting back on track...」
+153259	Rance	真剣	「では、気を取り直して……」	「Well then, getting back on track...」
 
-153260	Rance	「がははは！　ここまでだルメイ！	「Gahaha! This is the end, LeMay!
-153261	+	　もう逃げることは出来んぞ！」	　You can't escape anymore!」
+153260	Rance	笑顔	「がははは！　ここまでだルメイ！	「Gahaha! This is the end, LeMay!
+153261	+		　もう逃げることは出来んぞ！」	　You can't escape anymore!」
 
-153262	LeMay	「ふんっ、意味の分からんことばかりペラペラと……	「Hmph, spouting nothing but nonsense...
-153263	+	　ええい、苛つくな……」	　Damn it, how irritating...
+153262	LeMay	基本	「ふんっ、意味の分からんことばかりペラペラと……	「Hmph, spouting nothing but nonsense...
+153263	+		　ええい、苛つくな……」	　Damn it, how irritating...
 
-153264	LeMay	「骨すら残さんぞ……」	　I won't even leave your bones...」
+153264	LeMay		「骨すら残さんぞ……」	　I won't even leave your bones...」
 
-153265	Monster Captain	「る、ルメイ様！」	「L-Lord LeMay!」
+153265	Monster Captain		「る、ルメイ様！」	「L-Lord LeMay!」
 
-153266	-	ランスを追いかけて現れた魔物兵達が	The monster soldiers who chased after Rance
-153267	+	ルメイに声をかける。	called out to LeMay.
+153266	-		ランスを追いかけて現れた魔物兵達が	The monster soldiers who chased after Rance
+153267	+		ルメイに声をかける。	called out to LeMay.
 
-153268	LeMay	「お前ら手を出すな。	「Don't interfere.
-153269	+	　その代わり、火を放て」	　Instead, set the place on fire.」
+153268	LeMay		「お前ら手を出すな。	「Don't interfere.
+153269	+		　その代わり、火を放て」	　Instead, set the place on fire.」
 
-153270	Rance	「なに！？」	「What!?」
+153270	Rance		「なに！？」	「What!?」
 
-153271	Monster Captain	「はっ、了解しました！」	「Yes, understood!」
+153271	Monster Captain		「はっ、了解しました！」	「Yes, understood!」
 
-153272	-	冷静な命令に部下は驚くこともなく従い、	The subordinates calmly obeyed the order without surprise,
-153273	+	通路に火を放った。	and set fire to the corridor.
+153272	-		冷静な命令に部下は驚くこともなく従い、	The subordinates calmly obeyed the order without surprise,
+153273	+		通路に火を放った。	and set fire to the corridor.
 
-153274	-	それはランス達を狙ったものではないが、	It wasn't aimed directly at Rance and the others,
-153275	+	逆巻くような激しい炎が吐き出す	but the raging flames
-153276	+	強い熱がランス達を撫でる。	sent intense heat washing over them.
+153274	-		それはランス達を狙ったものではないが、	It wasn't aimed directly at Rance and the others,
+153275	+		逆巻くような激しい炎が吐き出す	but the raging flames
+153276	+		強い熱がランス達を撫でる。	sent intense heat washing over them.
 
-153277	Rance	「うわ、熱っ！	「Whoa, hot!
-153278	+	　自分の陣地に火を放つとは正気かこいつ！」	　Is this guy crazy, setting his own base on fire!」
+153277	Rance		「うわ、熱っ！	「Whoa, hot!
+153278	+		　自分の陣地に火を放つとは正気かこいつ！」	　Is this guy crazy, setting his own base on fire!」
 
-153279	LeMay	「勘違いするな、これは気が違ったわけでも、	「Don't misunderstand. This isn't because I've gone mad,
-153280	+	　貴様らを攻撃する為のものでもない」	　nor is it to attack you.」
+153279	LeMay		「勘違いするな、これは気が違ったわけでも、	「Don't misunderstand. This isn't because I've gone mad,
+153280	+		　貴様らを攻撃する為のものでもない」	　nor is it to attack you.」
 
-153281	LeMay	「貴様らを逃さないようにする牢獄だ」	「It's a prison to keep you from escaping.」
+153281	LeMay		「貴様らを逃さないようにする牢獄だ」	「It's a prison to keep you from escaping.」
 
-153282	Rance	「……頭おかしい奴め」	「...What a crazy bastard.」
+153282	Rance		「……頭おかしい奴め」	「...What a crazy bastard.」
 
-153283	LeMay	「ああ、ああ、ああ！」	「Aah, aah, aah!」
+153283	LeMay		「ああ、ああ、ああ！」	「Aah, aah, aah!」
 
-153284	LeMay	「なんと苛つくことだろうなぁ！	「How irritating!
-153285	+	　人間という生き物は！」	　These creatures called humans!」
+153284	LeMay		「なんと苛つくことだろうなぁ！	「How irritating!
+153285	+		　人間という生き物は！」	　These creatures called humans!」
 
-153286	LeMay	「私は人間が嫌いだ！	「I hate humans!
-153287	+	　貴様らが生きているというだけで鳥肌が立つ！」	　Just knowing you exist gives me goosebumps!
+153286	LeMay		「私は人間が嫌いだ！	「I hate humans!
+153287	+		　貴様らが生きているというだけで鳥肌が立つ！」	　Just knowing you exist gives me goosebumps!
 
-153288	-	気炎-ｷｴﾝ-を揚げるルメイ、	LeMay roared with fiery anger,
-153289	+	その炎のような怒りに呼応するように、	and in response to that flame-like rage,
-153290	+	体の節々から火を噴き出した。	flames burst from every joint in his body.
+153288	-		気炎-ｷｴﾝ-を揚げるルメイ、	LeMay roared with fiery anger,
+153289	+		その炎のような怒りに呼応するように、	and in response to that flame-like rage,
+153290	+		体の節々から火を噴き出した。	flames burst from every joint in his body.
 
-153291	-	口から炎を怒りの言葉と共に噴き出す。	He spewed flames from his mouth along with angry words.
+153291	-		口から炎を怒りの言葉と共に噴き出す。	He spewed flames from his mouth along with angry words.
 
-153292	LeMay	「人間如きが私の部屋に立ち入ったこと！	「For mere humans to enter my room!
-153293	+	　後悔するがいい！」	　You will regret it!」
+153292	LeMay		「人間如きが私の部屋に立ち入ったこと！	「For mere humans to enter my room!
+153293	+		　後悔するがいい！」	　You will regret it!」
 
-153294	Rance	「あちあち！　体中から火を噴きやがった！	「Hot hot! He's shooting fire from his whole body!
-153295	+	　なんちゅう迷惑な奴だ！」	　What a nuisance this guy is!」
+153294	Rance		「あちあち！　体中から火を噴きやがった！	「Hot hot! He's shooting fire from his whole body!
+153295	+		　なんちゅう迷惑な奴だ！」	　What a nuisance this guy is!」
 
-153296	Chaos	「ふーむ、魔人には及ばないが、	「Hmm, not as strong as a Fiend,
-153297	+	　心の友一人じゃちょっと敵わないほど強いぞ」	　but strong enough that even my best friend alone might struggle.」
+153296	Chaos		「ふーむ、魔人には及ばないが、	「Hmm, not as strong as a Fiend,
+153297	+		　心の友一人じゃちょっと敵わないほど強いぞ」	　but strong enough that even my best friend alone might struggle.」
 
-153298	Chaos	「大丈夫か？」	「You okay?」
+153298	Chaos		「大丈夫か？」	「You okay?」
 
-153299	Rance	「がははは、なら全員でタコ殴りだ！」	「Gahaha, then we'll all gang up and beat him senseless!」
+153299	Rance	笑顔	「がははは、なら全員でタコ殴りだ！」	「Gahaha, then we'll all gang up and beat him senseless!」
 
-153300	LeMay	「人間が笑うなァ！」	「Don't you dare laugh, humans!」
+153300	LeMay	基本	「人間が笑うなァ！」	「Don't you dare laugh, humans!」
 
-153301	LeMay	「貴様らは跡も残らぬほどに焼き尽くす！」	「I'll burn you until nothing remains!」
+153301	LeMay		「貴様らは跡も残らぬほどに焼き尽くす！」	「I'll burn you until nothing remains!」

@@ -4,81 +4,81 @@
 * Old Man	汎用爺	Male
 * Sorutoan	ソルトアン	Female
 
-15081	Rance	「道ゆくおっじょーさん、	「Hey there missy walking by,
-15082	+	　おっはいんなさい……っと。……ん？」	　come on in...... Hmm?」
+15081	Rance	基本	「道ゆくおっじょーさん、	「Hey there missy walking by,
+15082	+		　おっはいんなさい……っと。……ん？」	　come on in...... Hmm?」
 
-15083	Sill Plain	「ランス様？」	「Rance-sama?」
+15083	Sill Plain	考え中	「ランス様？」	「Rance-sama?」
 
-15084	-	ランス城の周辺を散歩していたランスが、	While strolling around Rance Castle,
-15085	+	ふと前方の光景に目を留めた。	Rance suddenly noticed a scene ahead.
+15084	-		ランス城の周辺を散歩していたランスが、	While strolling around Rance Castle,
+15085	+		ふと前方の光景に目を留めた。	Rance suddenly noticed a scene ahead.
 
-15086	Old Man	「……それで転属願いなどは、	「......So, about your transfer request,
-15087	+	　まだ……？」	　you still haven't......?」
+15086	Old Man	基本	「……それで転属願いなどは、	「......So, about your transfer request,
+15087	+		　まだ……？」	　you still haven't......?」
 
-15088	Sorutoan	「……出してない。	「......I haven't.
-15089	+	　そういう訳にはいかないの」	　I can't do that.」
+15088	Sorutoan		「……出してない。	「......I haven't.
+15089	+		　そういう訳にはいかないの」	　I can't do that.」
 
-15090	Old Man	「しかし……！　ソルトアン様が前線になど！	「But......! Lady Sorutoan on the front lines!
-15091	+	　危険ではございませんか！」	　Isn't that too dangerous!」
+15090	Old Man		「しかし……！　ソルトアン様が前線になど！	「But......! Lady Sorutoan on the front lines!
+15091	+		　危険ではございませんか！」	　Isn't that too dangerous!」
 
-15092	Old Man	「ソルトアン様は世が世なら……！」	「If the world were as it should be, Lady Sorutoan would......!」
+15092	Old Man		「ソルトアン様は世が世なら……！」	「If the world were as it should be, Lady Sorutoan would......!」
 
-15093	Sorutoan	「ああもう、いいから……	「Enough already......
-15094	+	　ほら、帰って」	　Go home.」
+15093	Sorutoan		「ああもう、いいから……	「Enough already......
+15094	+		　ほら、帰って」	　Go home.」
 
-15095	Old Man	「む、むおおおお……っ……！	「Mu, muoooo......!」
-15096	+	　か、身体を厭うてくだされ……」	　Please take care of your body......」
+15095	Old Man		「む、むおおおお……っ……！	「Mu, muoooo......!」
+15096	+		　か、身体を厭うてくだされ……」	　Please take care of your body......」
 
-15097	-	老人は名残惜しげにしながら、	The old man left reluctantly,
-15098	+	言われるままに去っていった。	following her order.
+15097	-		老人は名残惜しげにしながら、	The old man left reluctantly,
+15098	+		言われるままに去っていった。	following her order.
 
-15099	Sorutoan	「……………………」	「........................」
+15099	Sorutoan		「……………………」	「........................」
 
-15100	Rance	「ようソルトアン。	「Yo, Sorutoan.
-15101	+	　なんだ今のじじい。ストーカーか？」	　Who was that old man? A stalker?」
+15100	Rance		「ようソルトアン。	「Yo, Sorutoan.
+15101	+		　なんだ今のじじい。ストーカーか？」	　Who was that old man? A stalker?」
 
-15102	Sorutoan	「そうじゃなくて……臣下、かな」	「Not quite...... More like a retainer.」
+15102	Sorutoan		「そうじゃなくて……臣下、かな」	「Not quite...... More like a retainer.」
 
-15103	Rance	「臣下？　なんだお前、貴族か」	「Retainer? Wait, are you a noble?」
+15103	Rance	真剣	「臣下？　なんだお前、貴族か」	「Retainer? Wait, are you a noble?」
 
-15104	Sorutoan	「まぁね。サルモネラ王国って知ってる？」	「Something like that. Ever heard of the Kingdom of Salmonella?」
+15104	Sorutoan	基本	「まぁね。サルモネラ王国って知ってる？」	「Something like that. Ever heard of the Kingdom of Salmonella?」
 
-15105	Rance	「…………は？　知らん」	「............Huh? Nope.」
+15105	Rance	だる顔	「…………は？　知らん」	「............Huh? Nope.」
 
-15106	Sorutoan	「まあ普通はそうよね。	「Yeah, most people haven't.
-15107	+	　もう何百年も前にゼスに併合されて、	　It was annexed by Zeth hundreds of years ago
-15108	+	　無くなった国だし」	　and disappeared.」
+15106	Sorutoan	基本	「まあ普通はそうよね。	「Yeah, most people haven't.
+15107	+		　もう何百年も前にゼスに併合されて、	　It was annexed by Zeth hundreds of years ago
+15108	+		　無くなった国だし」	　and disappeared.」
 
-15109	Sill Plain	「あっ……歴史の教科書に、	「Ah...... I think it was mentioned in
-15110	+	　そういえば出てきたような……？」	　a history textbook......?」
+15109	Sill Plain	考え中	「あっ……歴史の教科書に、	「Ah...... I think it was mentioned in
+15110	+		　そういえば出てきたような……？」	　a history textbook......?」
 
-15111	Sorutoan	「ま、三下悪役みたいな書かれ方しかしてないけど」	「Yeah, only as a minor villain though.」
+15111	Sorutoan	基本	「ま、三下悪役みたいな書かれ方しかしてないけど」	「Yeah, only as a minor villain though.」
 
-15112	Rance	「ほー。それがどうした？」	「Hmm. So what?」
+15112	Rance		「ほー。それがどうした？」	「Hmm. So what?」
 
-15113	Sorutoan	「その国の王族は、	「The royal family of that country
-15114	+	　ゼスに貴族として仕えて永らえたの。	　survived by serving Zeth as nobles.
-15115	+	　その末裔があたし」	　I'm their descendant.」
+15113	Sorutoan		「その国の王族は、	「The royal family of that country
+15114	+		　ゼスに貴族として仕えて永らえたの。	　survived by serving Zeth as nobles.
+15115	+		　その末裔があたし」	　I'm their descendant.」
 
-15116	Rance	「……つまり、王女！？」	「......So you're a princess!?」
+15116	Rance	驚き	「……つまり、王女！？」	「......So you're a princess!?」
 
-15117	Sorutoan	「血統だけで言えば、そうなるかな。	「By bloodline, yes.
-15118	+	　だから、まだ何代もかけて仕えてる人とか、	　That's why there are still people
-15119	+	　一応いるの」	　serving after many generations.」
+15117	Sorutoan	基本	「血統だけで言えば、そうなるかな。	「By bloodline, yes.
+15118	+		　だから、まだ何代もかけて仕えてる人とか、	　That's why there are still people
+15119	+		　一応いるの」	　serving after many generations.」
 
-15120	Sorutoan	「もう他の誰も……ゼスの中枢も、多分覚えてない。	「No one else really remembers...... Even the core of Zeth has probably forgotten.
-15121	+	　一介の貴族以外の扱いはされてないけどね」	　I'm treated as nothing more than a regular noble.」
+15120	Sorutoan		「もう他の誰も……ゼスの中枢も、多分覚えてない。	「No one else really remembers...... Even the core of Zeth has probably forgotten.
+15121	+		　一介の貴族以外の扱いはされてないけどね」	　I'm treated as nothing more than a regular noble.」
 
-15122	Rance	「マジか……王女か…………ふむ、王女……」	「For real...... A princess, huh...... Hmmm, princess......」
+15122	Rance	真剣	「マジか……王女か…………ふむ、王女……」	「For real...... A princess, huh...... Hmmm, princess......」
 
-15123	Rance	「………………」	「............」
+15123	Rance	だる顔	「………………」	「............」
 
-15124	Sorutoan	「なに？　今さら見る目が……」	「What? Staring at me differently now?」
+15124	Sorutoan	基本	「なに？　今さら見る目が……」	「What? Staring at me differently now?」
 
-15125	Rance	「…………よく考えたらマジックみたいなもんか。	「............When you think about it, you're basically like Magic.
-15126	+	　大したことないな」	　Nothing special.」
+15125	Rance		「…………よく考えたらマジックみたいなもんか。	「............When you think about it, you're basically like Magic.
+15126	+		　大したことないな」	　Nothing special.」
 
-15127	Sorutoan	「あっそ」	「I see.」
+15127	Sorutoan		「あっそ」	「I see.」
 
-15128	Sill Plain	「いえ、ランス様……マジックさんは	「No, Rance-sama...... Magic is actually
-15129	+	　かなりすごい方なのですが……」	　quite an amazing person......」
+15128	Sill Plain	苦笑	「いえ、ランス様……マジックさんは	「No, Rance-sama...... Magic is actually
+15129	+		　かなりすごい方なのですが……」	　quite an amazing person......」

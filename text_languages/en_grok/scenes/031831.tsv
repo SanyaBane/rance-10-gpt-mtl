@@ -4,97 +4,97 @@
 * Leila Grecni	レイラ	Female
 * Tilde Sharp	チルディ	Female
 
-104913	Leazas Royal Guard	「あ、あの、総統閣下……？」	「U-um, Supreme Leader...?」
+104913	Leazas Royal Guard	メットなし／テレ	「あ、あの、総統閣下……？」	「U-um, Supreme Leader...?」
 
-104914	Rance	「いやー、さすがリーザスの金の軍、	「Wow, as expected of Leazas' Golden Army,
-104915	+	　大陸一華やかな部隊と言われるだけある。	　the most glamorous unit on the continent.
-104916	+	　一般隊員でもかなりレベル高いな」	　Even regular members are high level.」
+104914	Rance	基本	「いやー、さすがリーザスの金の軍、	「Wow, as expected of Leazas' Golden Army,
+104915	+		　大陸一華やかな部隊と言われるだけある。	　the most glamorous unit on the continent.
+104916	+		　一般隊員でもかなりレベル高いな」	　Even regular members are high level.」
 
-104917	Leazas Royal Guard	「そ、そんなことは……」	「N-not at all...」
+104917	Leazas Royal Guard	メットなし／テレ	「そ、そんなことは……」	「N-not at all...」
 
-104918	-	ランスがリーザス親衛隊の女の子を口説いていた。	Rance was hitting on a Leazas Royal Guard girl.
+104918	-		ランスがリーザス親衛隊の女の子を口説いていた。	Rance was hitting on a Leazas Royal Guard girl.
 
-104919	Leazas Royal Guard	「こういったことは、私、苦手で……	「I'm not good with this kind of thing...
-104920	+	　あの……困ります……」	　Um... this is troubling...」
+104919	Leazas Royal Guard		「こういったことは、私、苦手で……	「I'm not good with this kind of thing...
+104920	+		　あの……困ります……」	　Um... this is troubling...」
 
-104921	Rance	「ほほーう、総統閣下様の誘いを断ると」	「Hohou, refusing the Supreme Leader's invitation?」
+104921	Rance	基本	「ほほーう、総統閣下様の誘いを断ると」	「Hohou, refusing the Supreme Leader's invitation?」
 
-104922	Leazas Royal Guard	「えっ！　い、いえ、私、そんなつもりじゃ……」	「Eh! N-no, I didn't mean...」
+104922	Leazas Royal Guard	メットなし	「えっ！　い、いえ、私、そんなつもりじゃ……」	「Eh! N-no, I didn't mean...」
 
-104923	Rance	「なら問題ないってことだな。	「Then no problem.
-104924	+	　なに、一晩部屋で俺の世話をしてくれればいい」	　Just take care of me in my room for one night.」
+104923	Rance	基本	「なら問題ないってことだな。	「Then no problem.
+104924	+		　なに、一晩部屋で俺の世話をしてくれればいい」	　Just take care of me in my room for one night.」
 
-104925	Leazas Royal Guard	「あ、ああっ、総統閣下、どうかお待ちを……」	「A-ah, Supreme Leader, please wait...」
+104925	Leazas Royal Guard	メットなし	「あ、ああっ、総統閣下、どうかお待ちを……」	「A-ah, Supreme Leader, please wait...」
 
-104926	Rance	「がははははははは！」	「Gahahahahahaha!」
+104926	Rance	笑顔	「がははははははは！」	「Gahahahahahaha!」
 
-104927	Leila Grecni	「ランス君！」	「Rance-kun!」
+104927	Leila Grecni	真剣	「ランス君！」	「Rance-kun!」
 
-104928	Rance	「むっ……」	「Mu...」
+104928	Rance	基本	「むっ……」	「Mu...」
 
-104929	Leazas Royal Guard	「れ、レイラ隊長！」	「L-Leila captain!」
+104929	Leazas Royal Guard	メットなし／テレ	「れ、レイラ隊長！」	「L-Leila captain!」
 
-104930	Leila Grecni	「もう大丈夫よ、	「It's okay now,
-104931	+	　向こうに行っていなさい」	　go over there.」
+104930	Leila Grecni	基本	「もう大丈夫よ、	「It's okay now,
+104931	+		　向こうに行っていなさい」	　go over there.」
 
-104932	Leazas Royal Guard	「え、でも……」	「Eh, but...」
+104932	Leazas Royal Guard	メットなし	「え、でも……」	「Eh, but...」
 
-104933	Leila Grecni	「ランス君ならいいから。ね」	「It's fine if it's Rance-kun. Okay?」
+104933	Leila Grecni	基本	「ランス君ならいいから。ね」	「It's fine if it's Rance-kun. Okay?」
 
-104934	Leazas Royal Guard	「は、はいっ……」	「Y-yes...」
+104934	Leazas Royal Guard	メットなし／テレ	「は、はいっ……」	「Y-yes...」
 
-104935	Rance	「あ、こら、待て――」	「Ah, hey, wait――」
+104935	Rance	基本	「あ、こら、待て――」	「Ah, hey, wait――」
 
-104936	Leila Grecni	「ランス君！　これはどういうことかしら？」	「Rance-kun! What is the meaning of this?」
+104936	Leila Grecni	真剣	「ランス君！　これはどういうことかしら？」	「Rance-kun! What is the meaning of this?」
 
-104937	Rance	「う……どう、とは？」	「U... what do you mean?」
+104937	Rance	基本	「う……どう、とは？」	「U... what do you mean?」
 
-104938	Leila Grecni	「自分の立場を笠に着て、	「Using your position,
-104939	+	　立場の弱い子に無理矢理、	　forcing yourself on girls in weaker positions,
-104940	+	　変なことを強要するだなんて……」	　making them do weird things...」
+104938	Leila Grecni	真剣	「自分の立場を笠に着て、	「Using your position,
+104939	+		　立場の弱い子に無理矢理、	　forcing yourself on girls in weaker positions,
+104940	+		　変なことを強要するだなんて……」	　making them do weird things...」
 
-104941	Leila Grecni	「そういうことだけはしない子だと……	「I didn't think you were the type to do that...
-104942	?	　……あんまり思ってなかったけど」	　though I didn't think that strongly.」
+104941	Leila Grecni		「そういうことだけはしない子だと……	「I didn't think you were the type to do that...
+104942	?		　……あんまり思ってなかったけど」	　though I didn't think that strongly.」
 
-104943	Leila Grecni	「とにかく、親御さんから大事な娘さんを	「Anyway, as someone entrusted with precious daughters
-104944	+	　お預かりしてる立場としては、	　from their parents,
-104945	+	　こんなこと見過ごせません」	　I can't overlook this.」
+104943	Leila Grecni		「とにかく、親御さんから大事な娘さんを	「Anyway, as someone entrusted with precious daughters
+104944	+		　お預かりしてる立場としては、	　from their parents,
+104945	+		　こんなこと見過ごせません」	　I can't overlook this.」
 
-104946	Leila Grecni	「今後、絶対に閨の強要なんて	「From now on, absolutely no forcing yourself
-104947	+	　馬鹿なことはしないで頂戴ね」	　into beds.」
+104946	Leila Grecni		「今後、絶対に閨の強要なんて	「From now on, absolutely no forcing yourself
+104947	+		　馬鹿なことはしないで頂戴ね」	　into beds.」
 
-104948	Rance	「……同意があればいいんだな？」	「...It's fine if they consent, right?」
+104948	Rance	だる顔	「……同意があればいいんだな？」	「...It's fine if they consent, right?」
 
-104949	Leila Grecni	「駄目です！」	「No!」
+104949	Leila Grecni	真剣	「駄目です！」	「No!」
 
-104950	Rance	「う、だって、チルディは……」	「B-but, Tilde is...」
+104950	Rance	基本	「う、だって、チルディは……」	「B-but, Tilde is...」
 
-104951	Leila Grecni	「……え？」	「...Eh?」
+104951	Leila Grecni	真剣	「……え？」	「...Eh?」
 
-104952	Tilde Sharp	「あら、お二人とも、こんなところでなにを？」	「My, what are you two doing here?」
+104952	Tilde Sharp	ニコリ	「あら、お二人とも、こんなところでなにを？」	「My, what are you two doing here?」
 
-104953	Leila Grecni	「……チルディ」	「...Tilde.」
+104953	Leila Grecni	基本	「……チルディ」	「...Tilde.」
 
-104954	Tilde Sharp	「は、はい？」	「Y-yes?」
+104954	Tilde Sharp		「は、はい？」	「Y-yes?」
 
-104955	Leila Grecni	「貴方達には慎みというものが足りません。	「You two lack modesty.
-104956	+	　私もガミガミしたことは言いたくないけど――」	　I don't want to nag but――」
+104955	Leila Grecni	真剣	「貴方達には慎みというものが足りません。	「You two lack modesty.
+104956	+		　私もガミガミしたことは言いたくないけど――」	　I don't want to nag but――」
 
-104957	Leila Grecni	「聞いてる？」	「Are you listening?」
+104957	Leila Grecni		「聞いてる？」	「Are you listening?」
 
-104958	Tilde Sharp	「はぁい、聞いてますわぁ……」	「Yeees, I'm listening...」
+104958	Tilde Sharp	基本	「はぁい、聞いてますわぁ……」	「Yeees, I'm listening...」
 
-104959	Rance	「うむ、ホント……	「Yeah, really...
-104960	+	　レイラさんの言う通りだ……」	　Leila-san is right...」
+104959	Rance	だる顔	「うむ、ホント……	「Yeah, really...
+104960	+		　レイラさんの言う通りだ……」	　Leila-san is right...」
 
-104961	Tilde Sharp	（もう……どうして、私まで……）	（Geez... why me too...）
+104961	Tilde Sharp	ぷー	（もう……どうして、私まで……）	（Geez... why me too...）
 
-104962	Rance	（一蓮托生だ。俺だけ怒られてたまるか）	（We're in this together. No way I'll take the scolding alone.）
+104962	Rance	真剣	（一蓮托生だ。俺だけ怒られてたまるか）	（We're in this together. No way I'll take the scolding alone.）
 
-104963	Leila Grecni	「二人とも、聞いてるの！？」	「Are you two listening!?」
+104963	Leila Grecni		「二人とも、聞いてるの！？」	「Are you two listening!?」
 
-104964	Tilde Sharp	「は、はいっ！」	「Y-yes!」
+104964	Tilde Sharp	基本	「は、はいっ！」	「Y-yes!」
 
-104965	Rance	「とほほ……なんでこんなことに……」	「Tohoho... how did it come to this...」
+104965	Rance		「とほほ……なんでこんなことに……」	「Tohoho... how did it come to this...」
 
-104966	-	二人はレイラにたっぷりと叱られた。	The two were thoroughly scolded by Leila.
+104966	-		二人はレイラにたっぷりと叱られた。	The two were thoroughly scolded by Leila.

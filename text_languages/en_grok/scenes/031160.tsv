@@ -3,28 +3,28 @@
 * Sill Plain	シィル	Female
 * Megawas Horus	メガワス	Male
 
-56626	-	穴だらけの草原を、ランス達が突き進む。	Rance and the others pushed forward across the hole-filled plain.
+56626	-		穴だらけの草原を、ランス達が突き進む。	Rance and the others pushed forward across the hole-filled plain.
 
-56627	Rance	「くっ……けっこう危なっかしいな……」	「Ugh... It's pretty dangerous...」
+56627	Rance	だる顔	「くっ……けっこう危なっかしいな……」	「Ugh... It's pretty dangerous...」
 
-56628	-	穴の開いていない箇所も踏みしめると柔らかく、	Even the solid-looking spots felt soft when stepped on,
-56629	+	体重を乗せるのは躊躇われた。	making him hesitate to put full weight down.
+56628	-		穴の開いていない箇所も踏みしめると柔らかく、	Even the solid-looking spots felt soft when stepped on,
+56629	+		体重を乗せるのは躊躇われた。	making him hesitate to put full weight down.
 
-56630	Rance	「ええい、こんなのはびびるだけ無駄だ。	「Damn it, hesitating is pointless.
-56631	+	　さっさと突っ走って――――」	　Just charge forwardー」
+56630	Rance	怒り	「ええい、こんなのはびびるだけ無駄だ。	「Damn it, hesitating is pointless.
+56631	+		　さっさと突っ走って――――」	　Just charge forwardー」
 
-56632	Rance	「うっ……！」	「Ugh...!」
+56632	Rance	驚き	「うっ……！」	「Ugh...!」
 
-56633	-	ランスの足下が、ぐらりと揺らいだ。	The ground beneath Rance suddenly shook.
+56633	-		ランスの足下が、ぐらりと揺らいだ。	The ground beneath Rance suddenly shook.
 
-56634	Sill Plain	「ランス様！？」	「Rance-sama!?」
+56634	Sill Plain	慌て	「ランス様！？」	「Rance-sama!?」
 
-56635	Rance	「…………………………	「..............................
-56636	?	セーフだ」	Safe.」
+56635	Rance	驚き	「…………………………	「..............................
+56636	?		セーフだ」	Safe.」
 
-56637	Sill Plain	「ほっ……」	「Phew...」
+56637	Sill Plain	泣き	「ほっ……」	「Phew...」
 
-56638	Megawas Horus	「飛べない人は大変ねぇ……ﾇﾇﾇ」	「People who can't fly have it rough... Nunu.」
+56638	Megawas Horus	基本	「飛べない人は大変ねぇ……ﾇﾇﾇ」	「People who can't fly have it rough... Nunu.」
 
-56639	-	ランスが踏んだ地面はそれ以上崩れることなく、	The ground Rance stepped on didn't collapse further,
-56640	+	一行はそのまま前進した。	and the group continued forward.
+56639	-		ランスが踏んだ地面はそれ以上崩れることなく、	The ground Rance stepped on didn't collapse further,
+56640	+		一行はそのまま前進した。	and the group continued forward.

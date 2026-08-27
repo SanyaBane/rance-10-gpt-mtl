@@ -6,192 +6,192 @@
 * Sill Plain	シィル	Female
 * Captain	船長	Male
 
-36870	Kikkawa Kiku	「……………………」	「........................」
+36870	Kikkawa Kiku	基本	「……………………」	「........................」
 
-36871	-	吉川きくが、船縁に折りたたみ椅子を出して、	Yoshikawa Kiku set up a folding chair by the railing,
-36872	+	ぼんやりと座っていた。	and sat there absentmindedly.
+36871	-		吉川きくが、船縁に折りたたみ椅子を出して、	Yoshikawa Kiku set up a folding chair by the railing,
+36872	+		ぼんやりと座っていた。	and sat there absentmindedly.
 
-36873	Rance	「お、きくちゃん。何してるんだ、そんな所で」	「Oh, Kiku-chan. What are you doing over there?」
+36873	Rance		「お、きくちゃん。何してるんだ、そんな所で」	「Oh, Kiku-chan. What are you doing over there?」
 
-36874	Kikkawa Kiku	「ん？　おぉ。釣りだよ釣り。	「Hm? Oh. Fishing, fishing.
-36875	+	　なんか面白い食材が釣れねーかなと思ってな」	　Hoping to catch some interesting ingredients.」
+36874	Kikkawa Kiku		「ん？　おぉ。釣りだよ釣り。	「Hm? Oh. Fishing, fishing.
+36875	+		　なんか面白い食材が釣れねーかなと思ってな」	　Hoping to catch some interesting ingredients.」
 
-36876	Rance	「ほう、何か釣れたか？」	「Oh, catch anything?」
+36876	Rance		「ほう、何か釣れたか？」	「Oh, catch anything?」
 
-36877	Kikkawa Kiku	「見た事のねぇモンスターがちょいっと、程度だな。	「Just some weird monster I've never seen before.
-36878	+	　試しに捌いてみるつもりだけどよ」	　I'm planning to try butchering it.」
+36877	Kikkawa Kiku		「見た事のねぇモンスターがちょいっと、程度だな。	「Just some weird monster I've never seen before.
+36878	+		　試しに捌いてみるつもりだけどよ」	　I'm planning to try butchering it.」
 
-36879	Rance	「いいな。上手かったら食わせてくれ」	「Nice. If it's good, let me have some.」
+36879	Rance	笑顔	「いいな。上手かったら食わせてくれ」	「Nice. If it's good, let me have some.」
 
-36880	Kikkawa Kiku	「実験台にしてやるよ」	「You can be the test subject.」
+36880	Kikkawa Kiku	基本	「実験台にしてやるよ」	「You can be the test subject.」
 
-36881	Rance	「不味かったらいやだな…………ん？」	「I don't want it if it tastes bad............ Hm?」
+36881	Rance	だる顔	「不味かったらいやだな…………ん？」	「I don't want it if it tastes bad............ Hm?」
 
-36882	-	分裂したピグたちが、	The split Piglets,
-36883	+	竿を使わずに細い紙束のようなものを垂らしていた。	were dangling something like thin bundles of paper without using rods.
+36882	-		分裂したピグたちが、	The split Piglets,
+36883	+		竿を使わずに細い紙束のようなものを垂らしていた。	were dangling something like thin bundles of paper without using rods.
 
-36884	Rance	「…………何してんだ？　釣りごっこか？」	「............What are you doing? Playing pretend fishing?」
+36884	Rance	真剣	「…………何してんだ？　釣りごっこか？」	「............What are you doing? Playing pretend fishing?」
 
-36885	Pigu Geliciam	「ごっこじゃないよ、真剣勝負。	「It's not pretend, it's a real match.
-36886	+	　フグ釣りしてるの」	　We're fugu fishing.」
+36885	Pigu Geliciam	分裂１	「ごっこじゃないよ、真剣勝負。	「It's not pretend, it's a real match.
+36886	+		　フグ釣りしてるの」	　We're fugu fishing.」
 
-36887	Rance	「フグ？　なんだそりゃ」	「Fugu? What's that?」
+36887	Rance	だる顔	「フグ？　なんだそりゃ」	「Fugu? What's that?」
 
-36888	Crook Mofus	「満ち潮の海にだけいるとされている生き物ですね。	「Creatures said to only exist in the high tide sea.
-36889	+	　色々な物を飲み込む性質があって、	　They have the property of swallowing various things,
-36890	+	　体内からはレアアイテムが見つかるそうです」	　and rare items can apparently be found inside them.」
+36888	Crook Mofus	基本	「満ち潮の海にだけいるとされている生き物ですね。	「Creatures said to only exist in the high tide sea.
+36889	+		　色々な物を飲み込む性質があって、	　They have the property of swallowing various things,
+36890	+		　体内からはレアアイテムが見つかるそうです」	　and rare items can apparently be found inside them.」
 
-36891	Rance	「ほー、面白いな。俺もやってみるか」	「Hmm, interesting. I'll try too.」
+36891	Rance		「ほー、面白いな。俺もやってみるか」	「Hmm, interesting. I'll try too.」
 
-36892	Pigu Geliciam	「ほい」	「Here.」
+36892	Pigu Geliciam	分裂１／笑顔	「ほい」	「Here.」
 
-36893	Rance	「ん。……ってこれ、なんだ？」	「Nn. ...Wait, what is this?」
+36893	Rance	基本	「ん。……ってこれ、なんだ？」	「Nn. ...Wait, what is this?」
 
-36894	Pigu Geliciam	「高級巻き尺。フグ釣りにはこれだね」	「A high-class measuring tape. Perfect for fugu fishing.」
+36894	Pigu Geliciam	分裂１	「高級巻き尺。フグ釣りにはこれだね」	「A high-class measuring tape. Perfect for fugu fishing.」
 
-36895	Rance	「こんなもんで釣れるのか……」	「You can fish with this...?」
+36895	Rance	基本	「こんなもんで釣れるのか……」	「You can fish with this...?」
 
-36896	Pigu Geliciam	「JIS規格だよ」	「It's JIS standard.」
+36896	Pigu Geliciam	分裂１	「JIS規格だよ」	「It's JIS standard.」
 
-36897	Rance	「なんだか分からんが、やってみるか……」	「I don't really get it, but I'll try...」
+36897	Rance	基本	「なんだか分からんが、やってみるか……」	「I don't really get it, but I'll try...」
 
-36898	-	ランスは紙束のようなものを受け取って、	Rance took the paper-like bundle,
-36899	+	ピグの隣にどっかと座り込んだ。	and plopped down next to Pigu.
+36898	-		ランスは紙束のようなものを受け取って、	Rance took the paper-like bundle,
+36899	+		ピグの隣にどっかと座り込んだ。	and plopped down next to Pigu.
 
-36900	Crook Mofus	「稀に、バランスブレイカー級のアイテムも	「Rarely, balance-breaker class items
-36901	+	　見つかるそうです。お願いします」	　can be found. Please do your best.」
+36900	Crook Mofus		「稀に、バランスブレイカー級のアイテムも	「Rarely, balance-breaker class items
+36901	+		　見つかるそうです。お願いします」	　can be found. Please do your best.」
 
-36902	Rance	「がはははは、面白そうなアイテムだったら	「Gahahahaha, if I get an interesting item
-36903	+	　こっちで使わせてもらうとしよう」	　I'll use it myself.」
+36902	Rance	笑顔	「がはははは、面白そうなアイテムだったら	「Gahahahaha, if I get an interesting item
+36903	+		　こっちで使わせてもらうとしよう」	　I'll use it myself.」
 
-36904	-	風を受け、ゆっくりとした挙動で……	Receiving the wind, with slow movement...
-36905	+	実際にはけっこうな速度で進む船の上から、	In reality moving at considerable speed, from the ship,
-36906	+	高級巻き尺を垂らす。	he dangled the high-class measuring tape.
+36904	-		風を受け、ゆっくりとした挙動で……	Receiving the wind, with slow movement...
+36905	+		実際にはけっこうな速度で進む船の上から、	In reality moving at considerable speed, from the ship,
+36906	+		高級巻き尺を垂らす。	he dangled the high-class measuring tape.
 
-36907	-	ランスは小さくあくびをしながら、	Rance yawned lightly,
-36908	+	ぼんやりと水面を眺めた。	and stared blankly at the water surface.
+36907	-		ランスは小さくあくびをしながら、	Rance yawned lightly,
+36908	+		ぼんやりと水面を眺めた。	and stared blankly at the water surface.
 
-36909	Rance	「ふーむ……しかし、釣りという奴は	「Hmm... But fishing
-36910	+	　こうしている間が退屈だな……	　is boring while waiting like this...
-36911	+	　なんとかならんものか」	　Isn't there something we can do?」
+36909	Rance	だる顔	「ふーむ……しかし、釣りという奴は	「Hmm... But fishing
+36910	+		　こうしている間が退屈だな……	　is boring while waiting like this...
+36911	+		　なんとかならんものか」	　Isn't there something we can do?」
 
-36912	Rance	「そう……釣りとセックスを組み合わせるとか……	「That's right... Combining fishing with sex...
-36913	+	　そういう試みはできんものか」	　Can't we try something like that?」
+36912	Rance	エロ顔	「そう……釣りとセックスを組み合わせるとか……	「That's right... Combining fishing with sex...
+36913	+		　そういう試みはできんものか」	　Can't we try something like that?」
 
-36914	Sill Plain	「あ、ランス様。釣りですか？」	「Ah, Rance-sama. Are you fishing?」
+36914	Sill Plain	基本	「あ、ランス様。釣りですか？」	「Ah, Rance-sama. Are you fishing?」
 
-36915	Rance	「む、シィル。いいところに。ちょっと来い。	「Mu, Sill. Perfect timing. Come here.
-36916	+	　新たなプレイを試してやるぞ」	　I'll try a new play with you.」
+36915	Rance		「む、シィル。いいところに。ちょっと来い。	「Mu, Sill. Perfect timing. Come here.
+36916	+		　新たなプレイを試してやるぞ」	　I'll try a new play with you.」
 
-36917	Sill Plain	「それは、いいですけれど……	「That's fine, but...
-36918	+	　その、それ…………引いてませんか？」	　Um, that... isn't it biting?」
+36917	Sill Plain	きょとん	「それは、いいですけれど……	「That's fine, but...
+36918	+		　その、それ…………引いてませんか？」	　Um, that... isn't it biting?」
 
-36919	Rance	「馬鹿め。フグ釣りをしてるのだ。	「Idiot. I'm fugu fishing.
-36920	+	　だから…………」	　So............」
+36919	Rance	だる顔	「馬鹿め。フグ釣りをしてるのだ。	「Idiot. I'm fugu fishing.
+36920	+		　だから…………」	　So............」
 
-36921	Pigu Geliciam	「ランス！　引いてる引いてる。	「Rance! It's biting, it's biting.
-36922	+	　フグ来てるよ」	　The fugu is here!」
+36921	Pigu Geliciam	分裂１	「ランス！　引いてる引いてる。	「Rance! It's biting, it's biting.
+36922	+		　フグ来てるよ」	　The fugu is here!」
 
-36923	Rance	「な、なに！？　ええい！」	「W-what!? Damn!」
+36923	Rance	驚き	「な、なに！？　ええい！」	「W-what!? Damn!」
 
-36924	-	ランスは慌てて、巻き尺を力任せに引っ張る。	Rance hurriedly yanked the measuring tape with all his strength.
+36924	-		ランスは慌てて、巻き尺を力任せに引っ張る。	Rance hurriedly yanked the measuring tape with all his strength.
 
-36925	Crook Mofus	「ランス、もっとタイミングを見てください」	「Rance, watch the timing better.」
+36925	Crook Mofus	基本	「ランス、もっとタイミングを見てください」	「Rance, watch the timing better.」
 
-36926	Rance	「だーーー！　ひっひっふー！　ひっひっふーー！」	「Gah---! Hii hii fuu! Hii hii fuuu!」
+36926	Rance	怒り	「だーーー！　ひっひっふー！　ひっひっふーー！」	「Gah---! Hii hii fuu! Hii hii fuuu!」
 
-36927	-	　	　
-36928	+	　　＜すぽーーーーん＞	　　<Splooooosh>
+36927	-		　	　
+36928	+		　　＜すぽーーーーん＞	　　<Splooooosh>
 
-36929	-	ランスとフグの力比べは短く終わり、	The contest of strength between Rance and the fugu ended quickly,
-36930	+	投げ出されたフグが甲板に打ちつけられ、転がった。	and the thrown fugu slammed onto the deck and rolled.
+36929	-		ランスとフグの力比べは短く終わり、	The contest of strength between Rance and the fugu ended quickly,
+36930	+		投げ出されたフグが甲板に打ちつけられ、転がった。	and the thrown fugu slammed onto the deck and rolled.
 
-36931	Pigu Geliciam	「おおおおーーーーーー」	「Ooooooh------」
+36931	Pigu Geliciam	分裂１	「おおおおーーーーーー」	「Ooooooh------」
 
-36932	Pigu Geliciam	「フグだーーーーーー！」	「It's a fugu------!」
+36932	Pigu Geliciam	分裂１全裸	「フグだーーーーーー！」	「It's a fugu------!」
 
-36933	Rance	「…………これがフグ、か……」	「............So this is a fugu...」
+36933	Rance	真剣	「…………これがフグ、か……」	「............So this is a fugu...」
 
-36934	-	ランスが釣り上げた物体は、	The thing Rance reeled in
-36935	+	なんだか異常に長細い形をした奇妙な生き物だった。	was a strangely long and thin creature.
+36934	-		ランスが釣り上げた物体は、	The thing Rance reeled in
+36935	+		なんだか異常に長細い形をした奇妙な生き物だった。	was a strangely long and thin creature.
 
-36936	Kikkawa Kiku	「ほー。食えんのかね、これ」	「Hmm. Can we eat this?」
+36936	Kikkawa Kiku	基本	「ほー。食えんのかね、これ」	「Hmm. Can we eat this?」
 
-36937	Crook Mofus	「あまり美味しくないそうですが」	「Apparently it doesn't taste very good.」
+36937	Crook Mofus		「あまり美味しくないそうですが」	「Apparently it doesn't taste very good.」
 
-36938	Kikkawa Kiku	「ま、かっ捌くついでに調理してみっか。	「Well, I'll butcher it anyway and try cooking it.
-36939	+	　アイテムも腹ン中なんだろ？」	　The item is inside its stomach, right?」
+36938	Kikkawa Kiku		「ま、かっ捌くついでに調理してみっか。	「Well, I'll butcher it anyway and try cooking it.
+36939	+		　アイテムも腹ン中なんだろ？」	　The item is inside its stomach, right?」
 
-36940	Rance	「おう、じゃあきくちゃんに任せた」	「Yeah, I'll leave it to you, Kiku-chan.」
+36940	Rance		「おう、じゃあきくちゃんに任せた」	「Yeah, I'll leave it to you, Kiku-chan.」
 
-36941	Kikkawa Kiku	「うーっし、あらよっと……	「Alrighty, here we go...
-36942	+	　うわ、手応えねぇ……」	　Whoa, it's light...」
+36941	Kikkawa Kiku		「うーっし、あらよっと……	「Alrighty, here we go...
+36942	+		　うわ、手応えねぇ……」	　Whoa, it's light...」
 
-36943	Rance	「なんか幽霊みたいだな」	「It looks kinda like a ghost.」
+36943	Rance	だる顔	「なんか幽霊みたいだな」	「It looks kinda like a ghost.」
 
-36944	Kikkawa Kiku	「よしやがれ……ん？　おっ……」	「Alright... Hm? Oh...」
+36944	Kikkawa Kiku	基本	「よしやがれ……ん？　おっ……」	「Alright... Hm? Oh...」
 
-36945	-	きくは手際よくフグを捌き、腹から何かを発見した。	Kiku skillfully butchered the fugu and found something inside its stomach.
+36945	-		きくは手際よくフグを捌き、腹から何かを発見した。	Kiku skillfully butchered the fugu and found something inside its stomach.
 
-36946	Kikkawa Kiku	「これは……」	「This is...」
+36946	Kikkawa Kiku		「これは……」	「This is...」
 
-36947	Crook Mofus	「レアアイテムですね」	「A rare item.」
+36947	Crook Mofus		「レアアイテムですね」	「A rare item.」
 
-36948	Rance	「がはははははは、ゲーット！！	「Gahahahahahaha, got it!!
-36949	+	　ぐふふ、儲かったぜ」	　Gufufu, jackpot.」
+36948	Rance	笑顔	「がはははははは、ゲーット！！	「Gahahahahahaha, got it!!
+36949	+		　ぐふふ、儲かったぜ」	　Gufufu, jackpot.」
 
-36950	Sill Plain	「すごいですランス様！　ぱちぱちぱち！」	「Amazing, Rance-sama! Clap clap clap!」
+36950	Sill Plain		「すごいですランス様！　ぱちぱちぱち！」	「Amazing, Rance-sama! Clap clap clap!」
 
-36951	Pigu Geliciam	「ランスすごーい」	「Rance is amazing~」
+36951	Pigu Geliciam	分裂１全裸	「ランスすごーい」	「Rance is amazing~」
 
-36952	Rance	「がーーーはははは！　釣りなんぞ俺様にかかれば、	「Gaaaahahaha! Fishing is nothing for me,
-36953	+	　ちょろいちょろい」	　too easy.」
+36952	Rance	笑顔	「がーーーはははは！　釣りなんぞ俺様にかかれば、	「Gaaaahahaha! Fishing is nothing for me,
+36953	+		　ちょろいちょろい」	　too easy.」
 
-36954	Kikkawa Kiku	「ふーむ……ちょい水っぽくてタンパクそうだな。	「Hmm... A bit watery and seems high in protein.
-36955	+	　揚げりゃなんとかなるかな……？	　Maybe it'll be okay if I fry it...?
-36956	+	　おいランス、もっと釣ってくれよ」	　Hey Rance, catch more.」
+36954	Kikkawa Kiku	基本	「ふーむ……ちょい水っぽくてタンパクそうだな。	「Hmm... A bit watery and seems high in protein.
+36955	+		　揚げりゃなんとかなるかな……？	　Maybe it'll be okay if I fry it...?
+36956	+		　おいランス、もっと釣ってくれよ」	　Hey Rance, catch more.」
 
-36957	Rance	「がはははは、まっかせろー！」	「Gahahahaha, leave it to me!」
+36957	Rance	笑顔	「がはははは、まっかせろー！」	「Gahahahaha, leave it to me!」
 
-36958	-	ランスは勢い込んで、巻き尺を海に放り込んだ。	Rance enthusiastically threw the measuring tape into the sea.
+36958	-		ランスは勢い込んで、巻き尺を海に放り込んだ。	Rance enthusiastically threw the measuring tape into the sea.
 
-36959	-	…………	............
+36959	-		…………	............
 
-36960	-	……	...
+36960	-		……	...
 
-36961	Rance	「……………………」	「........................」
+36961	Rance	だる顔	「……………………」	「........................」
 
-36962	-	ランスの動きが固まったまま、	Rance remained frozen in place,
-36963	+	一時間ほどが経過した。	and about an hour passed.
+36962	-		ランスの動きが固まったまま、	Rance remained frozen in place,
+36963	+		一時間ほどが経過した。	and about an hour passed.
 
-36964	Rance	「がーーーーーーー！！　全然釣れんではないか！」	「Gaaaaah!! Not a single bite!」
+36964	Rance	イライラ	「がーーーーーーー！！　全然釣れんではないか！」	「Gaaaaah!! Not a single bite!」
 
-36965	Sill Plain	「じ、時間がかかるという事です……ね」	「I-it just takes time... right?」
+36965	Sill Plain	苦笑	「じ、時間がかかるという事です……ね」	「I-it just takes time... right?」
 
-36966	Rance	「ええい！　場所を変えるぞ！	「Damn it! Change the spot!
-36967	+	　クルックー！　フグってどこにいるんだ！」	　Crook! Where are the fugu!?」
+36966	Rance	怒り	「ええい！　場所を変えるぞ！	「Damn it! Change the spot!
+36967	+		　クルックー！　フグってどこにいるんだ！」	　Crook! Where are the fugu!?」
 
-36968	Kikkawa Kiku	「この海、いきなりできるもんなのに	「This sea appears suddenly,
-36969	+	　漁場なんてわかんねーだろ」	　how would anyone know the fishing spots?」
+36968	Kikkawa Kiku	基本	「この海、いきなりできるもんなのに	「This sea appears suddenly,
+36969	+		　漁場なんてわかんねーだろ」	　how would anyone know the fishing spots?」
 
-36970	Crook Mofus	「はい。ですが……	「Yes. However...
-36971	+	　沖合に行けば行くほど、レアなアイテムを呑んだ	　The farther out to sea, the more likely we are to find fugu
-36972	+	　フグが見つかる、そうです」	　that swallowed rare items.」
+36970	Crook Mofus		「はい。ですが……	「Yes. However...
+36971	+		　沖合に行けば行くほど、レアなアイテムを呑んだ	　The farther out to sea, the more likely we are to find fugu
+36972	+		　フグが見つかる、そうです」	　that swallowed rare items.」
 
-36973	Rance	「よっしゃーーーー！　沖合だな！	「Alright------! Out to sea it is!
-36974	+	　ギリギリを攻めるぞ！　おいおっさん！」	　We'll push it to the limit! Hey old man!」
+36973	Rance	怒り	「よっしゃーーーー！　沖合だな！	「Alright------! Out to sea it is!
+36974	+		　ギリギリを攻めるぞ！　おいおっさん！」	　We'll push it to the limit! Hey old man!」
 
-36975	-	ランスは起ち上がり、	Rance stood up,
-36976	+	舵輪の近くで海を見ている船長に詰め寄った。	and approached the captain who was looking at the sea near the helm.
+36975	-		ランスは起ち上がり、	Rance stood up,
+36976	+		舵輪の近くで海を見ている船長に詰め寄った。	and approached the captain who was looking at the sea near the helm.
 
-36977	Captain	「お、どうした、総統さん」	「Oh, what's up, Supreme Leader?」
+36977	Captain	基本	「お、どうした、総統さん」	「Oh, what's up, Supreme Leader?」
 
-36978	Rance	「沖だ！　沖に行くぞ！　フグ釣りだ！！」	「Out to sea! Let's go out! Fugu fishing!!」
+36978	Rance	怒り	「沖だ！　沖に行くぞ！　フグ釣りだ！！」	「Out to sea! Let's go out! Fugu fishing!!」
 
-36979	Captain	「な、なんだとーーーーー！？	「W-what the-----!?
-36980	+	　沖合って、海滝の方か！？　正気かよ！」	　Out to sea, toward the sea waterfall!? Are you crazy!?」
+36979	Captain	基本	「な、なんだとーーーーー！？	「W-what the-----!?
+36980	+		　沖合って、海滝の方か！？　正気かよ！」	　Out to sea, toward the sea waterfall!? Are you crazy!?」
 
-36981	Rance	「当たり前だろうが！　さっさと行け！」	「Of course! Hurry up!」
+36981	Rance	怒り	「当たり前だろうが！　さっさと行け！」	「Of course! Hurry up!」
 
-36982	Captain	「おいおいおい！　ただでさえ時間が迫ってんだぞ！	「Hey hey hey! Time is already tight!
-36983	+	　本来の目的を忘れたのか！？」	　Did you forget the real objective!?」
+36982	Captain	汗	「おいおいおい！　ただでさえ時間が迫ってんだぞ！	「Hey hey hey! Time is already tight!
+36983	+		　本来の目的を忘れたのか！？」	　Did you forget the real objective!?」

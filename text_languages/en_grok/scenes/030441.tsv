@@ -2,53 +2,53 @@
 * Rance	ランス	Male
 * Mercy Julietta	マーシー	Female
 
-7312	Rance	「しっかし…………」	「Still though......」
+7312	Rance	真剣	「しっかし…………」	「Still though......」
 
-7313	Mercy Julietta	「ぱお？」	「Pao?」
+7313	Mercy Julietta	基本	「ぱお？」	「Pao?」
 
-7314	Rance	「完ッ全に動物だな、コレ。	「This is completely an animal.
-7315	+	　あるいはモンスターか」	　Or maybe a monster.」
+7314	Rance	だる顔	「完ッ全に動物だな、コレ。	「This is completely an animal.
+7315	+		　あるいはモンスターか」	　Or maybe a monster.」
 
-7316	Mercy Julietta	「ひどーい！	「So mean!
-7317	+	　マーシーちゃんは立派な占い師なのね！	　Mercy-chan is a proper fortune teller!
-7318	+	　ぱおぱおぱお！」	　Pao pao pao!」
+7316	Mercy Julietta	基本	「ひどーい！	「So mean!
+7317	+		　マーシーちゃんは立派な占い師なのね！	　Mercy-chan is a proper fortune teller!
+7318	+		　ぱおぱおぱお！」	　Pao pao pao!」
 
-7319	Rance	「それだ！	「That's it!
-7320	+	　思いきり象バンバラの泣き声だぞ！」	　That's totally the cry of an elephant!」
+7319	Rance	怒り	「それだ！	「That's it!
+7320	+		　思いきり象バンバラの泣き声だぞ！」	　That's totally the cry of an elephant!」
 
-7321	Mercy Julietta	「気づいたらこうなってたのね」	「Before I knew it, I ended up like this.」
+7321	Mercy Julietta	基本	「気づいたらこうなってたのね」	「Before I knew it, I ended up like this.」
 
-7322	Rance	「妖怪め……」	「You damn youkai...」
+7322	Rance	イライラ	「妖怪め……」	「You damn youkai...」
 
-7323	Mercy Julietta	「というわけでマーシーちゃんにも	「So for Mercy-chan too,
-7324	+	　お菓子をお忘れ無く！　なのね！」	　don't forget the sweets! Okay!」
+7323	Mercy Julietta	基本	「というわけでマーシーちゃんにも	「So for Mercy-chan too,
+7324	+		　お菓子をお忘れ無く！　なのね！」	　don't forget the sweets! Okay!」
 
-7325	Rance	「ニンジンとかリンゴでいいか？」	「Carrots or apples fine?」
+7325	Rance	だる顔	「ニンジンとかリンゴでいいか？」	「Carrots or apples fine?」
 
-7326	Mercy Julietta	「それお菓子じゃなーい！」	「Those aren't sweets!」
+7326	Mercy Julietta	基本	「それお菓子じゃなーい！」	「Those aren't sweets!」
 
-7327	Rance	「そーら、球に乗ってみろ」	「Here, try riding the ball.」
+7327	Rance		「そーら、球に乗ってみろ」	「Here, try riding the ball.」
 
-7328	Mercy Julietta	「ぱおぱおぱお！」	「Pao pao pao!」
+7328	Mercy Julietta		「ぱおぱおぱお！」	「Pao pao pao!」
 
-7329	-	マーシーは自身の身の丈ほどもある	Mercy reflexively jumped onto
-7330	+	球を目の前に転がされて、反射的に飛び乗った。	the ball as tall as herself that was rolled in front of her.
+7329	-		マーシーは自身の身の丈ほどもある	Mercy reflexively jumped onto
+7330	+		球を目の前に転がされて、反射的に飛び乗った。	the ball as tall as herself that was rolled in front of her.
 
-7331	Mercy Julietta	「…………はっ！　か、身体が勝手に！	「............Hah! M-my body moved on its own!
-7332	+	　ぱおぱお！」	　Pao pao!」
+7331	Mercy Julietta		「…………はっ！　か、身体が勝手に！	「............Hah! M-my body moved on its own!
+7332	+		　ぱおぱお！」	　Pao pao!」
 
-7333	Rance	「ほーれリンゴだ！」	「Here, an apple!」
+7333	Rance	笑顔	「ほーれリンゴだ！」	「Here, an apple!」
 
-7334	Mercy Julietta	「ああっ、おのれーーー！」	「Aahh, damn you!」
+7334	Mercy Julietta	基本	「ああっ、おのれーーー！」	「Aahh, damn you!」
 
-7335	-	マーシーは放り投げられたリンゴを	Mercy caught the thrown apple
-7336	+	鼻でキャッチした。	with her trunk.
+7335	-		マーシーは放り投げられたリンゴを	Mercy caught the thrown apple
+7336	+		鼻でキャッチした。	with her trunk.
 
-7337	Rance	「よし、お前のメシはこれで良いな」	「There, that's your meal sorted.」
+7337	Rance		「よし、お前のメシはこれで良いな」	「There, that's your meal sorted.」
 
-7338	Mercy Julietta	「あーん！　謎の本能が憎いのねーー！」	「Aaan! I hate these mysterious instincts!」
+7338	Mercy Julietta		「あーん！　謎の本能が憎いのねーー！」	「Aaan! I hate these mysterious instincts!」
 
-7339	-	マーシーは鼻で器用にリンゴを口の中に押し込んで、	Mercy skillfully pushed the apple into her mouth with her trunk,
-7340	+	もしゃもしゃと食べ続けた。	and kept munching away.
+7339	-		マーシーは鼻で器用にリンゴを口の中に押し込んで、	Mercy skillfully pushed the apple into her mouth with her trunk,
+7340	+		もしゃもしゃと食べ続けた。	and kept munching away.
 
-7341	Mercy Julietta	「あ。でもリンゴおいしい……」	「Ah. But apples are tasty...」
+7341	Mercy Julietta		「あ。でもリンゴおいしい……」	「Ah. But apples are tasty...」

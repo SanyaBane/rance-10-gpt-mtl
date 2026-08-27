@@ -6,140 +6,140 @@
 * Satella	サテラ	Female
 * Sill Plain	シィル	Female
 
-250503	-	一週間後、戦局は大きく動く。	One week later, the war situation changed drastically.
+250503	-		一週間後、戦局は大きく動く。	One week later, the war situation changed drastically.
 
-250504	-	魔王の誕生により人類側はパニックに陥り、	With the birth of the Demon King, humanity fell into panic,
-250505	+	士気は底まで落ちまともな戦闘は行えなくなった。	morale hit rock bottom and proper battles became impossible.
+250504	-		魔王の誕生により人類側はパニックに陥り、	With the birth of the Demon King, humanity fell into panic,
+250505	+		士気は底まで落ちまともな戦闘は行えなくなった。	morale hit rock bottom and proper battles became impossible.
 
-250506	-	そしてそれを加速させたのは、	What accelerated it further
-250507	+	魔王ケイブリスの出陣である。	was the Demon King Kayblis taking the field.
+250506	-		そしてそれを加速させたのは、	What accelerated it further
+250507	+		魔王ケイブリスの出陣である。	was the Demon King Kayblis taking the field.
 
-250508	-	今までほとんど前線に出なかったケイブリスは、	Kayblis, who had rarely appeared on the front lines before,
-250509	+	魔王となった途端、積極的に最前線で暴れた。	began rampaging aggressively on the front lines the moment he became Demon King.
+250508	-		今までほとんど前線に出なかったケイブリスは、	Kayblis, who had rarely appeared on the front lines before,
+250509	+		魔王となった途端、積極的に最前線で暴れた。	began rampaging aggressively on the front lines the moment he became Demon King.
 
-250510	-	その圧倒的な力を前に、人類に出来ることは	Faced with that overwhelming power, all humanity could do
-250511	+	逃げること、そして命乞いをすることのみ。	was run or beg for their lives.
+250510	-		その圧倒的な力を前に、人類に出来ることは	Faced with that overwhelming power, all humanity could do
+250511	+		逃げること、そして命乞いをすることのみ。	was run or beg for their lives.
 
-250512	-	しかし、その両方は叶えられず、	But neither was granted,
-250513	+	ケイブリスは命乞いをしたものは残虐に殺す。	Kayblis brutally killed those who begged for mercy.
+250512	-		しかし、その両方は叶えられず、	But neither was granted,
+250513	+		ケイブリスは命乞いをしたものは残虐に殺す。	Kayblis brutally killed those who begged for mercy.
 
-250514	-	そして逃げ出した者は……	And those who tried to flee...
-250515	+	その力量からは考えられないほど	were chased with persistence far beyond what his power suggested
-250516	+	執拗に追いかけて殺した。	and killed.
+250514	-		そして逃げ出した者は……	And those who tried to flee...
+250515	+		その力量からは考えられないほど	were chased with persistence far beyond what his power suggested
+250516	+		執拗に追いかけて殺した。	and killed.
 
-250517	-	もはや、戦闘などという言葉は	The word 'battle' no longer applied
-250518	+	人類に残されていなかった。	to what was happening to humanity.
+250517	-		もはや、戦闘などという言葉は	The word 'battle' no longer applied
+250518	+		人類に残されていなかった。	to what was happening to humanity.
 
-250519	-	既にランス城も失い、ランス率いる部隊は、	Having already lost Rance Castle, Rance's forces
-250520	+	自由都市の端の僻地に難民のように居を構えていた。	were living like refugees in a remote corner of the Free Cities.
+250519	-		既にランス城も失い、ランス率いる部隊は、	Having already lost Rance Castle, Rance's forces
+250520	+		自由都市の端の僻地に難民のように居を構えていた。	were living like refugees in a remote corner of the Free Cities.
 
-250521	Kayblis	「ぐぁはぁはぁはぁ！	「Gwa haa haa haa!
-250522	+	　じーんるーい王ー！　あーそびーましょー！」	　Human kiiing! Let's plaaay!」
+250521	Kayblis	基本	「ぐぁはぁはぁはぁ！	「Gwa haa haa haa!
+250522	+		　じーんるーい王ー！　あーそびーましょー！」	　Human kiiing! Let's plaaay!」
 
-250523	Rance	「ちっ……もう逃げるのもここまでだな……」	「Tch... This is as far as we can run...」
+250523	Rance	だる顔	「ちっ……もう逃げるのもここまでだな……」	「Tch... This is as far as we can run...」
 
-250524	Kayblis	「くくく、勇者と、日光の使い手は殺した。	「Kukuku, I killed the hero and the user of Nikkou.
-250525	+	　後はお前だ、魔剣カオスの使い手」	　You're next, wielder of the Demon Sword Chaos.」
+250524	Kayblis	基本	「くくく、勇者と、日光の使い手は殺した。	「Kukuku, I killed the hero and the user of Nikkou.
+250525	+		　後はお前だ、魔剣カオスの使い手」	　You're next, wielder of the Demon Sword Chaos.」
 
-250526	Kayblis	「お前さえ殺せば人類で	「Once I kill you, there won't be any human
-250527	+	　俺様に逆らえる奴ァいなくなる！」	　left who can oppose me!」
+250526	Kayblis		「お前さえ殺せば人類で	「Once I kill you, there won't be any human
+250527	+		　俺様に逆らえる奴ァいなくなる！」	　left who can oppose me!」
 
-250528	Kayblis	「さあさあさあ！　どしたオラァ！？	「Come on come on! What's wrong!?」
-250529	+	　逃げずに俺様と戦いやがれ！	　Fight me without running!
-250530	+	　正々堂々とよぉぉぉお！　ぐぁはぁはぁ！」	　Fair and square! Gwa haa haa!」
+250528	Kayblis		「さあさあさあ！　どしたオラァ！？	「Come on come on! What's wrong!?」
+250529	+		　逃げずに俺様と戦いやがれ！	　Fight me without running!
+250530	+		　正々堂々とよぉぉぉお！　ぐぁはぁはぁ！」	　Fair and square! Gwa haa haa!」
 
-250531	Kaybnyan	「にゃーはっはっはっは！	「Nya ha ha ha ha!
-250532	+	　さっすがケイブリス様はいいこと言うにゃん！」	　As expected of Kayblis-sama, he says such great things nya!」
+250531	Kaybnyan	笑顔	「にゃーはっはっはっは！	「Nya ha ha ha ha!
+250532	+		　さっすがケイブリス様はいいこと言うにゃん！」	　As expected of Kayblis-sama, he says such great things nya!」
 
-250533	Kaybwan	「とても凜々しく格好いいお姿に	「Such a gallant and handsome appearance,
-250534	+	　ワンもうっとりですわん」	　I'm enchanted wan.」
+250533	Kaybwan	講釈たれ	「とても凜々しく格好いいお姿に	「Such a gallant and handsome appearance,
+250534	+		　ワンもうっとりですわん」	　I'm enchanted wan.」
 
-250535	Kayblis	「ぐぁはぁはぁはぁはぁ！	「Gwa haa haa haa haa!
-250536	+	　そうだろ！？　オオ！　そうだろ！？」	　Right!? Yeah! Right!?」
+250535	Kayblis	基本	「ぐぁはぁはぁはぁはぁ！	「Gwa haa haa haa haa!
+250536	+		　そうだろ！？　オオ！　そうだろ！？」	　Right!? Yeah! Right!?」
 
-250537	Rance	「今までコソコソ隠れてた臆病者が、	The coward who was hiding all this time
-250538	+	　調子に乗りおってぇ……」	　is getting full of himself...」
+250537	Rance		「今までコソコソ隠れてた臆病者が、	The coward who was hiding all this time
+250538	+		　調子に乗りおってぇ……」	　is getting full of himself...」
 
-250539	Kayblis	「くくくく……	「Kukukuku...
-250540	+	　よーし、たまには魔王っぽいこともするかあ」	　Alright, time to do something Demon King-like
+250539	Kayblis		「くくくく……	「Kukukuku...
+250540	+		　よーし、たまには魔王っぽいこともするかあ」	　Alright, time to do something Demon King-like
 
-250541	Kayblis	「おらっ！　アホのサテラ！	「Ora! You idiot Satella!
-250542	+	　『俺の前に出てきやがれ！』	　'Get out here in front of me!'
-250543	+	　今！　すぐ！　これは魔王様の命令だ！」	　Now! Immediately! This is the Demon King's order!」
+250541	Kayblis		「おらっ！　アホのサテラ！	「Ora! You idiot Satella!
+250542	+		　『俺の前に出てきやがれ！』	　'Get out here in front of me!'
+250543	+		　今！　すぐ！　これは魔王様の命令だ！」	　Now! Immediately! This is the Demon King's order!」
 
-250544	Rance	「はあ！？」	「Haa!?」
+250544	Rance		「はあ！？」	「Haa!?」
 
-250545	Rance	「あ、おい、サテラ！？」	「Hey, Satella!?」
+250545	Rance		「あ、おい、サテラ！？」	「Hey, Satella!?」
 
-250546	Satella	「くっ、うう……！」	「Kuh, uu...!」
+250546	Satella	不安	「くっ、うう……！」	「Kuh, uu...!」
 
-250547	Kayblis	「おーおーおー、出て来たなぁぁ。	「Ooo, you came out.
-250548	+	　くそたれホーネットに与する、	　You pathetic loser who sided with that shit Hornet,
-250549	+	　負け犬のアホたれサテラちゃんよぉ」	　you idiot Satella-chan.」
+250547	Kayblis	基本	「おーおーおー、出て来たなぁぁ。	「Ooo, you came out.
+250548	+		　くそたれホーネットに与する、	　You pathetic loser who sided with that shit Hornet,
+250549	+		　負け犬のアホたれサテラちゃんよぉ」	　you idiot Satella-chan.」
 
-250550	Satella	「ま……魔王……ケイブリス……」	「D... Demon King... Kayblis...」
+250550	Satella	不安	「ま……魔王……ケイブリス……」	「D... Demon King... Kayblis...」
 
-250551	-	魔王による絶対命令権。	The Demon King's absolute command authority.
-250552	+	これに、魔人も魔物も逆らうことは、	Neither Fiend nor monsters could disobey it.
-250553	+	決して出来ない。	Never.
+250551	-		魔王による絶対命令権。	The Demon King's absolute command authority.
+250552	+		これに、魔人も魔物も逆らうことは、	Neither Fiend nor monsters could disobey it.
+250553	+		決して出来ない。	Never.
 
-250554	-	魔人であるサテラは、	As a Fiend, Satella
-250555	+	ケイブリスの前に引きずり出されてしまった。	was dragged out in front of Kayblis.
+250554	-		魔人であるサテラは、	As a Fiend, Satella
+250555	+		ケイブリスの前に引きずり出されてしまった。	was dragged out in front of Kayblis.
 
-250556	Kayblis	「げへへへへへへぇぇぇぇ……	「Geheheheheheee...
-250557	+	　魔人ってのも惨めなもんだよなぁぁぁぁ？	　Being a Fiend sure is pathetic, huh?
-250558	+	　魔王の気まぐれな命令一つ逆らえねぇ」	　Can't even disobey a single whim of the Demon King.
+250556	Kayblis	基本	「げへへへへへへぇぇぇぇ……	「Geheheheheheee...
+250557	+		　魔人ってのも惨めなもんだよなぁぁぁぁ？	　Being a Fiend sure is pathetic, huh?
+250558	+		　魔王の気まぐれな命令一つ逆らえねぇ」	　Can't even disobey a single whim of the Demon King.
 
-250559	Kayblis	「だぁがぁなぁぁぁぁぁ！	「Buuut!
-250560	+	　俺様は自害しろなんて命じる気はねぇぜぇ！	　I have no intention of ordering you to kill yourself!
-250561	+	　抵抗するなとも命じねえ！」	　I won't order you not to resist either!
+250559	Kayblis		「だぁがぁなぁぁぁぁぁ！	「Buuut!
+250560	+		　俺様は自害しろなんて命じる気はねぇぜぇ！	　I have no intention of ordering you to kill yourself!
+250561	+		　抵抗するなとも命じねえ！」	　I won't order you not to resist either!
 
-250562	Kayblis	「俺様に敵対した！	「You opposed me!
-250563	+	　クソッタレ魔人はどいつもこいつも！	　You shitty Fiend bastards!
-250564	+	　地獄の苦しみと！　絶望を味わわせてやる！」	　I'll make you taste the suffering of hell and despair!」
+250562	Kayblis		「俺様に敵対した！	「You opposed me!
+250563	+		　クソッタレ魔人はどいつもこいつも！	　You shitty Fiend bastards!
+250564	+		　地獄の苦しみと！　絶望を味わわせてやる！」	　I'll make you taste the suffering of hell and despair!」
 
-250565	Kayblis	「さあさあさあさあ！	「Come on come on come on!
-250566	+	　せいぜい全力を出して俺様と戦いやがれ！	　Fight me with all you've got!
-250567	+	　奇跡が百回起きれば勝てっかもしれねえぜぇ！？」	　If a hundred miracles happen you might win!?」
+250565	Kayblis		「さあさあさあさあ！	「Come on come on come on!
+250566	+		　せいぜい全力を出して俺様と戦いやがれ！	　Fight me with all you've got!
+250567	+		　奇跡が百回起きれば勝てっかもしれねえぜぇ！？」	　If a hundred miracles happen you might win!?」
 
-250568	Kayblis	「ぐぁはぁはぁはぁはぁはぁはぁ！！！！」	「Gwa haa haa haa haa haa haa!!!!」
+250568	Kayblis		「ぐぁはぁはぁはぁはぁはぁはぁ！！！！」	「Gwa haa haa haa haa haa haa!!!!」
 
-250569	Kayblis	「オラオラオラオラ！　どうすんだカオスマスター！	「Ora ora ora ora! What will you do, Chaos Master!
-250570	+	　テメェのお仲間のサテラちゃんは今から、	　Your friend Satella-chan is about to
-250571	+	　この俺様にやっつけられちまうぜぇぇぇぇ！？」	　get wrecked by meeeeeee!?」
+250569	Kayblis		「オラオラオラオラ！　どうすんだカオスマスター！	「Ora ora ora ora! What will you do, Chaos Master!
+250570	+		　テメェのお仲間のサテラちゃんは今から、	　Your friend Satella-chan is about to
+250571	+		　この俺様にやっつけられちまうぜぇぇぇぇ！？」	　get wrecked by meeeeeee!?」
 
-250572	Kayblis	「殺しはしねぇ！　俺様が勝ったら！	「I won't kill her! If I win!
-250573	+	　せいぜいスーパーダイナマイツなちんちんで！	　I'll pamper her with my super dynamite cock!
-250574	+	　ずーっと可愛がってやる！　ぎゃはぁはぁはぁ！」	　I'll fuck her forever! Gyaha haa haa!」
+250572	Kayblis		「殺しはしねぇ！　俺様が勝ったら！	「I won't kill her! If I win!
+250573	+		　せいぜいスーパーダイナマイツなちんちんで！	　I'll pamper her with my super dynamite cock!
+250574	+		　ずーっと可愛がってやる！　ぎゃはぁはぁはぁ！」	　I'll fuck her forever! Gyaha haa haa!」
 
-250575	Satella	「あっ……ひ……」	「Ah... hi...
+250575	Satella		「あっ……ひ……」	「Ah... hi...
 
-250576	-	サテラの顔は、これから	Satella's face turned pale
-250577	+	自分の身に降りかかる地獄を想像し、	imagining the hell about to befall her.
-250578	+	青ざめていた。	
+250576	-		サテラの顔は、これから	Satella's face turned pale
+250577	+		自分の身に降りかかる地獄を想像し、	imagining the hell about to befall her.
+250578	+		青ざめていた。	
 
-250579	Rance	「だーっ！　いい加減にしろーーーー！」	「Daah! Enough already-----!」
+250579	Rance	怒り	「だーっ！　いい加減にしろーーーー！」	「Daah! Enough already-----!」
 
-250580	Rance	「サテラも！　そして世界中の女も！	「Satella too! And every woman in the world!
-250581	+	　ぜーーーんぶ俺様のもの！」	　They are all mine!」
+250580	Rance		「サテラも！　そして世界中の女も！	「Satella too! And every woman in the world!
+250581	+		　ぜーーーんぶ俺様のもの！」	　They are all mine!」
 
-250582	Rance	「貴様なんぞには！　指一本触れさせんわーーー！」	「I won't let a bastard like you touch even one finger on them-----!」
+250582	Rance		「貴様なんぞには！　指一本触れさせんわーーー！」	「I won't let a bastard like you touch even one finger on them-----!」
 
-250583	Kayblis	「ククク……そうかよぉぉぉ……」	「Kukuku... Is that so...」
+250583	Kayblis	基本	「ククク……そうかよぉぉぉ……」	「Kukuku... Is that so...」
 
-250584	-	遂に、ランスもケイブリスの前に	Finally, even Rance was dragged out
-250585	+	引きずり出される形となった。	in front of Kayblis.
+250584	-		遂に、ランスもケイブリスの前に	Finally, even Rance was dragged out
+250585	+		引きずり出される形となった。	in front of Kayblis.
 
-250586	Sill Plain	「ら、ランス様……」	「R-Rance-sama...」
+250586	Sill Plain	泣き	「ら、ランス様……」	「R-Rance-sama...」
 
-250587	-	瞳いっぱいに涙を溜めて、	With eyes full of tears,
-250588	+	シィルがランスのマントを引っ張る。	Sill pulled on Rance's cloak.
+250587	-		瞳いっぱいに涙を溜めて、	With eyes full of tears,
+250588	+		シィルがランスのマントを引っ張る。	Sill pulled on Rance's cloak.
 
-250589	Rance	「ふん、そんな目で見るな。	「Hmph, don't look at me with those eyes.
-250590	+	　俺様は最強だ、だから負けん」	　I am the strongest, so I won't lose.」
+250589	Rance	真剣	「ふん、そんな目で見るな。	「Hmph, don't look at me with those eyes.
+250590	+		　俺様は最強だ、だから負けん」	　I am the strongest, so I won't lose.」
 
-250591	Kayblis	「おほーっ！　やる気満々ってか！？」	「Oho! Full of fighting spirit!?」
+250591	Kayblis	基本	「おほーっ！　やる気満々ってか！？」	「Oho! Full of fighting spirit!?」
 
-250592	Rance	「死ねやァァァァアアアーーー！」	「Dieeeeee!」
+250592	Rance	怒り	「死ねやァァァァアアアーーー！」	「Dieeeeee!」
 
-250593	Kayblis	「テメェが死ねやぁぁぁああぁあああああ！！！！」	「You dieeeeee!!!」
+250593	Kayblis	基本	「テメェが死ねやぁぁぁああぁあああああ！！！！」	「You dieeeeee!!!」

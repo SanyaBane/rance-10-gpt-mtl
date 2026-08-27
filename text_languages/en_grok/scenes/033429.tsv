@@ -5,137 +5,137 @@
 * Crook Mofus	クルックー	Female
 * Chaos	カオス	Male
 
-240031	Rance	「あっち向いてホイ」	「Look that way, ho!」
+240031	Rance	基本	「あっち向いてホイ」	「Look that way, ho!」
 
-240032	Sill Plain	「あっ、負けちゃいました……」	「Ah, I lost...」
+240032	Sill Plain	ぽか〜ん	「あっ、負けちゃいました……」	「Ah, I lost...」
 
-240033	Rance	「よーし、罰ゲームとしてしっぺだ。	「Alright, time for the penalty. A spanking.
-240034	+	　腕を出すのだ、シィル」	　Stick your arm out, Sill.」
+240033	Rance	基本	「よーし、罰ゲームとしてしっぺだ。	「Alright, time for the penalty. A spanking.
+240034	+		　腕を出すのだ、シィル」	　Stick your arm out, Sill.」
 
-240035	Sill Plain	「あうあう、優しく、優しくして下さい……」	「Auu auu, please be gentle...」
+240035	Sill Plain	泣き	「あうあう、優しく、優しくして下さい……」	「Auu auu, please be gentle...」
 
-240036	Sill Plain	「きゃいんっ！」	「Kyain!」
+240036	Sill Plain	恥	「きゃいんっ！」	「Kyain!」
 
-240037	-	ランスとシィルの二人が遊んでいた。	Rance and Sill were playing around together.
+240037	-		ランスとシィルの二人が遊んでいた。	Rance and Sill were playing around together.
 
-240038	Satella	「……下らないことをしてるな」	「...What a pointless thing to do.」
+240038	Satella	思考	「……下らないことをしてるな」	「...What a pointless thing to do.」
 
-240039	Crook Mofus	「ランス、遊んでいる場合ではありませんよ」	「Rance, this is no time for playing around.」
+240039	Crook Mofus	基本	「ランス、遊んでいる場合ではありませんよ」	「Rance, this is no time for playing around.」
 
-240040	Rance	「ん、サテラとクルックーのコンビとは珍しい。	「Hmm, a combo of Satella and Crook is pretty rare.
-240041	+	　お前らもやるか？」	　You two want in?」
+240040	Rance		「ん、サテラとクルックーのコンビとは珍しい。	「Hmm, a combo of Satella and Crook is pretty rare.
+240041	+		　お前らもやるか？」	　You two want in?」
 
-240042	Crook Mofus	「……はい、後でお付き合いします」	「...Yes, I'll join you later.」
+240042	Crook Mofus		「……はい、後でお付き合いします」	「...Yes, I'll join you later.」
 
-240043	Satella	「そんなことしている場合か！	「This is no time for that!
-240044	+	　それより重大な情報が入ったぞ！」	　We have important information!」
+240043	Satella	怒り	「そんなことしている場合か！	「This is no time for that!
+240044	+		　それより重大な情報が入ったぞ！」	　We have important information!」
 
-240045	Crook Mofus	「はい、魔軍が魔王リトルプリンセスを	「Yes, the Monster Army is searching for the Demon King Little Princess.」
-240046	+	　捜しています」	
+240045	Crook Mofus	基本	「はい、魔軍が魔王リトルプリンセスを	「Yes, the Monster Army is searching for the Demon King Little Princess.」
+240046	+		　捜しています」	
 
-240047	Rance	「魔王……リトルプリンセス……」	「Demon King... Little Princess...」
+240047	Rance	真剣	「魔王……リトルプリンセス……」	「Demon King... Little Princess...」
 
-240048	Sill Plain	「それって美樹ちゃんのことですか！？」	「That's Miki-chan, right!?」
+240048	Sill Plain	慌て	「それって美樹ちゃんのことですか！？」	「That's Miki-chan, right!?」
 
-240049	Satella	「ん、知っているのか？」	「Hm, you know her?」
+240049	Satella	基本	「ん、知っているのか？」	「Hm, you know her?」
 
-240050	Rance	「まあな。しかし、魔軍が美樹ちゃんを	「Yeah. But why is the Monster Army searching for Miki-chan?」
-240051	+	　捜しているってなんの為に？」	
+240050	Rance		「まあな。しかし、魔軍が美樹ちゃんを	「Yeah. But why is the Monster Army searching for Miki-chan?」
+240051	+		　捜しているってなんの為に？」	
 
-240052	Rance	「ははーん、魔王を見つけ出して担ぎ上げる為か」	「Hah, they probably want to find the Demon King and use her as their figurehead.」
+240052	Rance		「ははーん、魔王を見つけ出して担ぎ上げる為か」	「Hah, they probably want to find the Demon King and use her as their figurehead.」
 
-240053	Satella	「それはない」	「That's not it.」
+240053	Satella	思考	「それはない」	「That's not it.」
 
-240054	Rance	「む、何故だ」	「Hm, why?」
+240054	Rance	基本	「む、何故だ」	「Hm, why?」
 
-240055	Satella	「ケイブリスは魔王リトルプリンセス、	「Kayblis intends to kill the Demon King Little Princess,
-240056	+	　来水美樹様を殺すつもりなんだ」	　Kurusu Miki-sama.」
+240055	Satella	不安	「ケイブリスは魔王リトルプリンセス、	「Kayblis intends to kill the Demon King Little Princess,
+240056	+		　来水美樹様を殺すつもりなんだ」	　Kurusu Miki-sama.」
 
-240057	Satella	「魔王を迎え入れ、担ぎ上げたかったのは	「The ones who wanted to welcome and raise up the Demon King
-240058	+	　ホーネット派のサテラ達だ」	　were us from the Hornet faction.」
+240057	Satella		「魔王を迎え入れ、担ぎ上げたかったのは	「The ones who wanted to welcome and raise up the Demon King
+240058	+		　ホーネット派のサテラ達だ」	　were us from the Hornet faction.」
 
-240059	Satella	「ケイブリス派……というよりケイブリスは、	「The Kayblis faction... or rather Kayblis himself
-240060	+	　リトルプリンセスを排除する気だ」	　wants to eliminate Little Princess.」
+240059	Satella	思考	「ケイブリス派……というよりケイブリスは、	「The Kayblis faction... or rather Kayblis himself
+240060	+		　リトルプリンセスを排除する気だ」	　wants to eliminate Little Princess.」
 
-240061	Satella	「目的は一つ。	「His goal is simple.
-240062	+	　未覚醒のリトルプリンセスを殺し、	　To kill the unawakened Little Princess
-240063	+	　自分が魔王となることだ」	　and become the Demon King himself.」
+240061	Satella		「目的は一つ。	「His goal is simple.
+240062	+		　未覚醒のリトルプリンセスを殺し、	　To kill the unawakened Little Princess
+240063	+		　自分が魔王となることだ」	　and become the Demon King himself.」
 
-240064	Rance	「むう、そんな奴らが美樹ちゃんを	「Muu, so those bastards are after Miki-chan...
-240065	+	　追っているのか……良くないな……」	　That's not good...」
+240064	Rance	基本	「むう、そんな奴らが美樹ちゃんを	「Muu, so those bastards are after Miki-chan...
+240065	+		　追っているのか……良くないな……」	　That's not good...」
 
-240066	Rance	「美樹ちゃんと出会ったのはJAPANだったか。	「I met Miki-chan back in JAPAN.
-240067	+	　懐かしいな」	　Brings back memories.」
+240066	Rance		「美樹ちゃんと出会ったのはJAPANだったか。	「I met Miki-chan back in JAPAN.
+240067	+		　懐かしいな」	　Brings back memories.」
 
-240068	Rance	「あそこで美樹ちゃんに	「That's where Sill got frozen by Miki-chan.」
-240069	+	　シィルが氷漬けにされたのだ」	
+240068	Rance		「あそこで美樹ちゃんに	「That's where Sill got frozen by Miki-chan.」
+240069	+		　シィルが氷漬けにされたのだ」	
 
-240070	Rance	「それで魔王に覚醒しかけるのを	「We somehow managed to stop her from fully awakening as the Demon King.」
-240071	+	　なんとか食い止めたり」	
+240070	Rance		「それで魔王に覚醒しかけるのを	「We somehow managed to stop her from fully awakening as the Demon King.」
+240071	+		　なんとか食い止めたり」	
 
-240072	Sill Plain	「健太郎さんは今も一緒にいるんでしょうか」	「I wonder if Kentarou-san is still with her.」
+240072	Sill Plain	考え中	「健太郎さんは今も一緒にいるんでしょうか」	「I wonder if Kentarou-san is still with her.」
 
-240073	Rance	「む、そうだ、美樹ちゃんにはお邪魔虫がいたな。	「Oh yeah, Miki-chan had that annoying bug with her.
-240074	+	　魔人になった健太郎とか言う奴だ」	　That guy Kentarou who became a Fiend.」
+240073	Rance	基本	「む、そうだ、美樹ちゃんにはお邪魔虫がいたな。	「Oh yeah, Miki-chan had that annoying bug with her.
+240074	+		　魔人になった健太郎とか言う奴だ」	　That guy Kentarou who became a Fiend.」
 
-240075	Rance	「二人はあの頃から変わらず	「Those two have been on the run together
-240076	+	　今も逃げ回っているのか」	　ever since back then.」
+240075	Rance		「二人はあの頃から変わらず	「Those two have been on the run together
+240076	+		　今も逃げ回っているのか」	　ever since back then.」
 
-240077	Sill Plain	「魔軍に追われているなんて可哀相です。	「Being chased by the Monster Army is so sad.
-240078	+	　なんとか見つかるといいですね」	　I hope we can find her soon.」
+240077	Sill Plain	泣き	「魔軍に追われているなんて可哀相です。	「Being chased by the Monster Army is so sad.
+240078	+		　なんとか見つかるといいですね」	　I hope we can find her soon.」
 
-240079	Rance	「うむ」	「Yeah.」
+240079	Rance	基本	「うむ」	「Yeah.」
 
-240080	Crook Mofus	「リトルプリンセスを捜しているのは	「It's not just the Monster Army searching for Little Princess.」
-240081	+	　魔軍だけではありません」	
+240080	Crook Mofus		「リトルプリンセスを捜しているのは	「It's not just the Monster Army searching for Little Princess.」
+240081	+		　魔軍だけではありません」	
 
-240082	Crook Mofus	「勇者テオマンも魔王を捜しています」	「The Hero Theoman is also looking for the Demon King.」
+240082	Crook Mofus		「勇者テオマンも魔王を捜しています」	「The Hero Theoman is also looking for the Demon King.」
 
-240083	Crook Mofus	「勇者の最終的な目標とは魔王殺し。	「The Hero's ultimate goal is to kill the Demon King.
-240084	+	　ケイブリスも魔王も殺す気でしょう」	　He'll probably try to kill both Kayblis and the Demon King.」
+240083	Crook Mofus		「勇者の最終的な目標とは魔王殺し。	「The Hero's ultimate goal is to kill the Demon King.
+240084	+		　ケイブリスも魔王も殺す気でしょう」	　He'll probably try to kill both Kayblis and the Demon King.」
 
-240085	Rance	「まったく、美樹ちゃんめ。	「Man, Miki-chan sure is popular.
-240086	+	　しばらく会わん間に大人気ではないか」	　Everyone's after her after not seeing her for a while.」
+240085	Rance		「まったく、美樹ちゃんめ。	「Man, Miki-chan sure is popular.
+240086	+		　しばらく会わん間に大人気ではないか」	　Everyone's after her after not seeing her for a while.」
 
-240087	Crook Mofus	「はい、世界中から追われています」	「Yes, she's being hunted from all over the world.」
+240087	Crook Mofus		「はい、世界中から追われています」	「Yes, she's being hunted from all over the world.」
 
-240088	Rance	「うむ、助けてやらなければな」	「Yeah, we have to save her.」
+240088	Rance	真剣	「うむ、助けてやらなければな」	「Yeah, we have to save her.」
 
-240089	Rance	「なんせ俺様はまだあの子とやってないのだ。	「After all, I still haven't fucked that girl yet.
-240090	+	　魔軍なんぞに渡してたまるか」	　No way I'm letting the Monster Army have her.」
+240089	Rance	基本	「なんせ俺様はまだあの子とやってないのだ。	「After all, I still haven't fucked that girl yet.
+240090	+		　魔軍なんぞに渡してたまるか」	　No way I'm letting the Monster Army have her.」
 
-240091	Rance	「ここで上手く救いだせば、	「If I rescue her nicely here,
-240092	+	　きっとお礼として……ぐふふ……」	　I'm sure she'll thank me with her body... Hehehe...」
+240091	Rance	エロ顔	「ここで上手く救いだせば、	「If I rescue her nicely here,
+240092	+		　きっとお礼として……ぐふふ……」	　I'm sure she'll thank me with her body... Hehehe...」
 
-240093	Satella	「もっと真面目に考えろ！」	「Think more seriously!」
+240093	Satella	怒り	「もっと真面目に考えろ！」	「Think more seriously!」
 
-240094	Rance	「クルックー、皆に美樹ちゃんを	「Crook, tell everyone to search for Miki-chan.」
-240095	+	　捜すように言っておけ」	
+240094	Rance	基本	「クルックー、皆に美樹ちゃんを	「Crook, tell everyone to search for Miki-chan.」
+240095	+		　捜すように言っておけ」	
 
-240096	Crook Mofus	「はい、分かりました。	「Yes, understood.
-240097	+	　見つけ次第、保護するようにと伝えておきます」	　I'll tell them to protect her as soon as they find her.」
+240096	Crook Mofus		「はい、分かりました。	「Yes, understood.
+240097	+		　見つけ次第、保護するようにと伝えておきます」	　I'll tell them to protect her as soon as they find her.」
 
-240098	Chaos	「そして、殺そう殺そう、殺そうー。	「And then kill kill killー.
-240099	+	　魔王退治じゃー」	　Demon King exterminationー」
+240098	Chaos		「そして、殺そう殺そう、殺そうー。	「And then kill kill killー.
+240099	+		　魔王退治じゃー」	　Demon King exterminationー」
 
-240100	Rance	「違う、退治ではなく魔王レイプだ」	「Wrong. Not extermination, it's Demon King rape.」
+240100	Rance		「違う、退治ではなく魔王レイプだ」	「Wrong. Not extermination, it's Demon King rape.」
 
-240101	Rance	「がはははは！　楽しみだぜ！」	「Gahahahaha! I'm looking forward to it!」
+240101	Rance	笑顔	「がはははは！　楽しみだぜ！」	「Gahahahaha! I'm looking forward to it!」
 
-240102	Chaos	「おう、それもいいな！	「Yeah, that sounds good too!
-240103	+	　レイプした後に殺せばいい」	　Rape her first then kill her.」
+240102	Chaos	基本	「おう、それもいいな！	「Yeah, that sounds good too!
+240103	+		　レイプした後に殺せばいい」	　Rape her first then kill her.」
 
-240104	Rance	「お前な」	「You idiot.」
+240104	Rance	真剣	「お前な」	「You idiot.」
 
-240105	Chaos	「なんにしろ、心の友よ。	「Anyway, my soul friend.
-240106	+	　魔王は生かしておけんぞ」	　We can't let the Demon King live.」
+240105	Chaos	基本	「なんにしろ、心の友よ。	「Anyway, my soul friend.
+240106	+		　魔王は生かしておけんぞ」	　We can't let the Demon King live.」
 
-240107	Chaos	「覚醒すればそれまでの人格など関係なく、	「Once she awakens, her previous personality won't matter,
-240108	+	　破壊と殺戮の権化になるんだからな」	　she'll become the embodiment of destruction and slaughter.」
+240107	Chaos		「覚醒すればそれまでの人格など関係なく、	「Once she awakens, her previous personality won't matter,
+240108	+		　破壊と殺戮の権化になるんだからな」	　she'll become the embodiment of destruction and slaughter.」
 
-240109	Chaos	「そうなれば世界は……	「If that happens, the world will...
-240110	+	　その時に後悔するのは心の友だぜ？」	　You'll be the one regretting it, my soul friend.」
+240109	Chaos		「そうなれば世界は……	「If that happens, the world will...
+240110	+		　その時に後悔するのは心の友だぜ？」	　You'll be the one regretting it, my soul friend.」
 
-240111	Rance	「やかましい。ぺちーん」	「Shut up. Pechin.」
+240111	Rance	真剣	「やかましい。ぺちーん」	「Shut up. Pechin.」
 
-240112	Chaos	「あいたぁっ！」	「Ouch!」
+240112	Chaos	驚き	「あいたぁっ！」	「Ouch!」

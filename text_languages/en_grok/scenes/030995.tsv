@@ -3,97 +3,97 @@
 * Magic the Gandhi	マジック	Female
 * Old Woman	汎用婆	Female
 
-44786	Yamada Chizuko	「と、こういう形。状況は飲み込めた？」	「That's the situation. Got it?」
+44786	Yamada Chizuko	基本	「と、こういう形。状況は飲み込めた？」	「That's the situation. Got it?」
 
-44787	Magic the Gandhi	「……リーザスからの食料援助の値段、	「...The price of food aid from Leazas
-44788	+	　地味に上がってるじゃない、あの女狐……」	　is quietly rising. That vixen...」
+44787	Magic the Gandhi	思考	「……リーザスからの食料援助の値段、	「...The price of food aid from Leazas
+44788	+		　地味に上がってるじゃない、あの女狐……」	　is quietly rising. That vixen...」
 
-44789	Yamada Chizuko	「戦時下だから今払う必要はない、って。	「They said we don't have to pay now because it's wartime.
-44790	+	　つまり、戦争が収まった後を考えてる訳ね」	　Meaning they're thinking about after the war ends.」
+44789	Yamada Chizuko	基本	「戦時下だから今払う必要はない、って。	「They said we don't have to pay now because it's wartime.
+44790	+		　つまり、戦争が収まった後を考えてる訳ね」	　Meaning they're thinking about after the war ends.」
 
-44791	Magic the Gandhi	「その時に、気がついたらゼスとヘルマンは	「By then, Zeth and Helman will suddenly be
-44792	+	　借金ダルマって訳？　何考えてんのよ！」	　drowning in debt? What is she thinking!」
+44791	Magic the Gandhi	孤軍奮闘	「その時に、気がついたらゼスとヘルマンは	「By then, Zeth and Helman will suddenly be
+44792	+		　借金ダルマって訳？　何考えてんのよ！」	　drowning in debt? What is she thinking!」
 
-44793	Yamada Chizuko	「色々やってくれるわね、あの女王も……	「That queen sure does a lot...
-44794	+	　自国を富ませる王としては、優れてるわ」	　She's excellent at enriching her own country.」
+44793	Yamada Chizuko	基本	「色々やってくれるわね、あの女王も……	「That queen sure does a lot...
+44794	+		　自国を富ませる王としては、優れてるわ」	　She's excellent at enriching her own country.」
 
-44795	Magic the Gandhi	「ウルザに伝えて。	「Tell Urza.
-44796	+	　向こうでねじ込んでご破算にしてもらいましょ」	　Have her sabotage it from her side.」
+44795	Magic the Gandhi		「ウルザに伝えて。	「Tell Urza.
+44796	+		　向こうでねじ込んでご破算にしてもらいましょ」	　Have her sabotage it from her side.」
 
-44797	Yamada Chizuko	「ま、そうね。こちらから提供している	「Yeah. We'll use the magic items
-44798	+	　マジックアイテムを引き合いに出して	　we provide as leverage
-44799	+	　交渉してもらうわ」	　in the negotiations.」
+44797	Yamada Chizuko		「ま、そうね。こちらから提供している	「Yeah. We'll use the magic items
+44798	+		　マジックアイテムを引き合いに出して	　we provide as leverage
+44799	+		　交渉してもらうわ」	　in the negotiations.」
 
-44800	Yamada Chizuko	「……たぶん、本気じゃないけどね」	「...Probably not serious though.」
+44800	Yamada Chizuko		「……たぶん、本気じゃないけどね」	「...Probably not serious though.」
 
-44801	Magic the Gandhi	「ひっかかったらラッキー、って事？	「If she falls for it, it's a bonus?
-44802	+	　まったく、腹の立つ……」	　How infuriating...」
+44801	Magic the Gandhi	思考	「ひっかかったらラッキー、って事？	「If she falls for it, it's a bonus?
+44802	+		　まったく、腹の立つ……」	　How infuriating...」
 
-44803	Yamada Chizuko	「さて、と。今日はこれくらいかな」	「Well then. That's enough for today.」
+44803	Yamada Chizuko	基本	「さて、と。今日はこれくらいかな」	「Well then. That's enough for today.」
 
-44804	Magic the Gandhi	「あ……そうなんだ」	「Ah... Okay.」
+44804	Magic the Gandhi		「あ……そうなんだ」	「Ah... Okay.」
 
-44805	Yamada Chizuko	「今日しなくちゃならないことは、ね」	「The things that had to be done today, that is.」
+44805	Yamada Chizuko		「今日しなくちゃならないことは、ね」	「The things that had to be done today, that is.」
 
-44806	Magic the Gandhi	「それは……うん、分かってる。	「Yeah... I know.
-44807	+	　じゃ、先に上がるわ」	　I'll head up first.」
+44806	Magic the Gandhi		「それは……うん、分かってる。	「Yeah... I know.
+44807	+		　じゃ、先に上がるわ」	　I'll head up first.」
 
-44808	Yamada Chizuko	「お疲れ様。	「Good work.
-44809	+	　明日まで、ゆっくり休んで」	　Rest well until tomorrow.」
+44808	Yamada Chizuko		「お疲れ様。	「Good work.
+44809	+		　明日まで、ゆっくり休んで」	　Rest well until tomorrow.」
 
-44810	Magic the Gandhi	「緊急事態が無いことを祈るわ。	「I pray there are no emergencies.
-44811	+	　……無駄かも知れないけど」	　...Though it might be in vain.」
+44810	Magic the Gandhi		「緊急事態が無いことを祈るわ。	「I pray there are no emergencies.
+44811	+		　……無駄かも知れないけど」	　...Though it might be in vain.」
 
-44812	-	苦笑する千鶴子に手を振って、	Waving to the bitterly smiling Chizuko,
-44813	+	マジックは司令部を出た。	Magic left the command center.
+44812	-		苦笑する千鶴子に手を振って、	Waving to the bitterly smiling Chizuko,
+44813	+		マジックは司令部を出た。	Magic left the command center.
 
-44814	Old Woman	「あ、これはマジック様。今日は……」	「Ah, Lady Magic. Today...」
+44814	Old Woman		「あ、これはマジック様。今日は……」	「Ah, Lady Magic. Today...」
 
-44815	Magic the Gandhi	「うん、後は私がやるわ。ご苦労さま」	「Yeah, I'll take it from here. Thanks for your work.」
+44815	Magic the Gandhi		「うん、後は私がやるわ。ご苦労さま」	「Yeah, I'll take it from here. Thanks for your work.」
 
-44816	Old Woman	「いえいえ。今日もスシヌちゃんはいい子でしたよ」	「Not at all. Sushinu was a good girl today too.」
+44816	Old Woman		「いえいえ。今日もスシヌちゃんはいい子でしたよ」	「Not at all. Sushinu was a good girl today too.」
 
-44817	Magic the Gandhi	「ん……ありがと」	「Mm... Thanks.」
+44817	Magic the Gandhi		「ん……ありがと」	「Mm... Thanks.」
 
-44818	Old Woman	「では……」	「Well then...」
+44818	Old Woman		「では……」	「Well then...」
 
-44819	-	一礼して、下働きの女性はマジックの前を辞した。	The maid bowed and left Magic's presence.
+44819	-		一礼して、下働きの女性はマジックの前を辞した。	The maid bowed and left Magic's presence.
 
-44820	Magic the Gandhi	「ただいまー、スシヌ……」	「I'm home, Sushinu...」
+44820	Magic the Gandhi	笑顔	「ただいまー、スシヌ……」	「I'm home, Sushinu...」
 
-44821	-	音を立てないように、慎重に扉を開けて、	Carefully opening the door without making noise,
-44822	+	マジックはベビーベッドに向かう。	Magic approached the baby crib.
+44821	-		音を立てないように、慎重に扉を開けて、	Carefully opening the door without making noise,
+44822	+		マジックはベビーベッドに向かう。	Magic approached the baby crib.
 
-44823	?	「だぁ、だぅ……」	「Daa, dau...」
+44823	?		「だぁ、だぅ……」	「Daa, dau...」
 
-44824	-	そこでは、ランスとの間に生まれた愛娘スシヌが、	There, her beloved daughter Sushinu, born with Rance,
-44825	+	小さな手を屈託なく母へと伸ばしていた。	innocently reached her tiny hands toward her mother.
+44824	-		そこでは、ランスとの間に生まれた愛娘スシヌが、	There, her beloved daughter Sushinu, born with Rance,
+44825	+		小さな手を屈託なく母へと伸ばしていた。	innocently reached her tiny hands toward her mother.
 
-44826	Magic the Gandhi	「ふふ、可愛い……	「Fufu, so cute...
-44827	+	　産む時は、ホント大変だったけど……」	　Giving birth was really tough, though...」
+44826	Magic the Gandhi		「ふふ、可愛い……	「Fufu, so cute...
+44827	+		　産む時は、ホント大変だったけど……」	　Giving birth was really tough, though...」
 
-44828	-	まだ毛もまばらな、柔らかい頭を撫でる。	She gently stroked the soft head with sparse hair.
+44828	-		まだ毛もまばらな、柔らかい頭を撫でる。	She gently stroked the soft head with sparse hair.
 
-44829	Magic the Gandhi	「ん……お母さん、頑張るからねー、スシヌ……」	「Mm... Mommy will do her best, Sushinu...」
+44829	Magic the Gandhi		「ん……お母さん、頑張るからねー、スシヌ……」	「Mm... Mommy will do her best, Sushinu...」
 
-44830	?	「だぁ〜……」	「Daa~...」
+44830	?		「だぁ〜……」	「Daa~...」
 
-44831	Magic the Gandhi~	（それにしても……産んだ後は、もっと大変かも。	（Still... Raising her might be even harder.
-44832	+	　……こんな時、父親が手助けしてくれれば……！）	　...If only the father would help at times like this...!）
+44831	Magic the Gandhi~	思考	（それにしても……産んだ後は、もっと大変かも。	（Still... Raising her might be even harder.
+44832	+		　……こんな時、父親が手助けしてくれれば……！）	　...If only the father would help at times like this...!）
 
-44833	-	頭の中に浮かんだ男の表情は、	The face of the man that appeared in her mind
-44834	+	エロく緩んでいた。	was lewdly relaxed.
+44833	-		頭の中に浮かんだ男の表情は、	The face of the man that appeared in her mind
+44834	+		エロく緩んでいた。	was lewdly relaxed.
 
-44835	Magic the Gandhi	「っ、まったく……もう、もうっ……！」	「Jeez... Really...!」
+44835	Magic the Gandhi	孤軍奮闘	「っ、まったく……もう、もうっ……！」	「Jeez... Really...!」
 
-44836	Magic the Gandhi	「……今は……怒らないであげる。	「...For now... I won't get angry.
-44837	+	　大変だもん…………	　It's hard enough............
-44838	?	でも…………」	But............」
+44836	Magic the Gandhi	目閉じ	「……今は……怒らないであげる。	「...For now... I won't get angry.
+44837	+		　大変だもん…………	　It's hard enough............
+44838	?		でも…………」	But............」
 
-44839	-	ちらりと、部屋の片隅に積み上げられた、	She glanced at the pile of books
-44840	+	本の山を見る。	stacked in the corner of the room.
+44839	-		ちらりと、部屋の片隅に積み上げられた、	She glanced at the pile of books
+44840	+		本の山を見る。	stacked in the corner of the room.
 
-44841	-	全て、父親向けの育児書だった。	All of them were parenting books for fathers.
+44841	-		全て、父親向けの育児書だった。	All of them were parenting books for fathers.
 
-44842	Magic the Gandhi	「終わったら……覚悟してなさいよ、ランス……！	「When this is over... prepare yourself, Rance...!
-44843	+	　ぜぇったい、逃がさないんだからっ……」	　I absolutely won't let you escape...」
+44842	Magic the Gandhi	うがー	「終わったら……覚悟してなさいよ、ランス……！	「When this is over... prepare yourself, Rance...!
+44843	+		　ぜぇったい、逃がさないんだからっ……」	　I absolutely won't let you escape...」

@@ -5,214 +5,214 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-122990	Ian Ruston	「あ、ロナ。	「Ah, Rona.
-122991	+	　まだ仕事の途中？」	　Still working?」
+122990	Ian Ruston	基本	「あ、ロナ。	「Ah, Rona.
+122991	+		　まだ仕事の途中？」	　Still working?」
 
-122992	Rona Kestina	「…………」	「............」
+122992	Rona Kestina		「…………」	「............」
 
-122993	-	ロナは大きな荷物を持ちながら、	While carrying a large load,
-122994	+	こくこくと縦に頷いた。	Rona nodded up and down.
+122993	-		ロナは大きな荷物を持ちながら、	While carrying a large load,
+122994	+		こくこくと縦に頷いた。	Rona nodded up and down.
 
-122995	Ian Ruston	「あ、僕も持つよ」	「Ah, I'll carry some too.」
+122995	Ian Ruston		「あ、僕も持つよ」	「Ah, I'll carry some too.」
 
-122996	Rona Kestina	「…………」	「............」
+122996	Rona Kestina		「…………」	「............」
 
-122997	Rona Kestina	「でも、これ私の仕事……」	「But this is my job...」
+122997	Rona Kestina		「でも、これ私の仕事……」	「But this is my job...」
 
-122998	Ian Ruston	「こないだ助けてもらったから、	「You helped me the other day,
-122999	+	　そのお礼ってことで、ね？」	　so this is thanks, okay?」
+122998	Ian Ruston		「こないだ助けてもらったから、	「You helped me the other day,
+122999	+		　そのお礼ってことで、ね？」	　so this is thanks, okay?」
 
-123000	Rona Kestina	「……うん」	「...Yeah.」
+123000	Rona Kestina		「……うん」	「...Yeah.」
 
-123001	-	二人で荷物を半分こにして、城内の廊下を歩く。	The two of them split the luggage in half and walked down the castle hallway.
+123001	-		二人で荷物を半分こにして、城内の廊下を歩く。	The two of them split the luggage in half and walked down the castle hallway.
 
-123002	Ian Ruston~	（なんだか嘘みたいだな……）	（It feels like a dream...）
+123002	Ian Ruston~		（なんだか嘘みたいだな……）	（It feels like a dream...）
 
-123003	Ian Ruston~	（ちょっと前までは	（Just a while ago
-123004	+	　魔人に誘拐されていつ死ぬかも分からなくて……）	　I was kidnapped by a Fiend and didn't know when I'd die...）
+123003	Ian Ruston~		（ちょっと前までは	（Just a while ago
+123004	+		　魔人に誘拐されていつ死ぬかも分からなくて……）	　I was kidnapped by a Fiend and didn't know when I'd die...）
 
-123005	Ian Ruston~	（それが、今じゃ、	（And now,
-123006	+	　こんな穏やかな生活を、なんて……）	　I'm living such a peaceful life...）
+123005	Ian Ruston~		（それが、今じゃ、	（And now,
+123006	+		　こんな穏やかな生活を、なんて……）	　I'm living such a peaceful life...）
 
-123007	Ian Ruston~	（…………）	（............）
+123007	Ian Ruston~		（…………）	（............）
 
-123008	Ian Ruston~	（それも、あの人が助けてくれたから、	（And it's all because that person saved me,
-123009	+	　なんだよね……本当、感謝しないと……）	　right... I really need to thank him...）
+123008	Ian Ruston~		（それも、あの人が助けてくれたから、	（And it's all because that person saved me,
+123009	+		　なんだよね……本当、感謝しないと……）	　right... I really need to thank him...）
 
-123010	Rona Kestina	「……？」	「...?」
+123010	Rona Kestina		「……？」	「...?」
 
-123011	Ian Ruston	「あ、うぅん、なんでもないんだ」	「Ah, no, it's nothing.」
+123011	Ian Ruston		「あ、うぅん、なんでもないんだ」	「Ah, no, it's nothing.」
 
-123012	Ian Ruston	「何か困ったことがあったら言ってね。	「If you ever have any trouble, tell me.
-123013	+	　いつでも助けに行くから」	　I'll come help you anytime.」
+123012	Ian Ruston		「何か困ったことがあったら言ってね。	「If you ever have any trouble, tell me.
+123013	+		　いつでも助けに行くから」	　I'll come help you anytime.」
 
-123014	Rona Kestina	「……なんで？」	「...Why?」
+123014	Rona Kestina		「……なんで？」	「...Why?」
 
-123015	Ian Ruston	「それは……」	「That's...」
+123015	Ian Ruston		「それは……」	「That's...」
 
-123016	Ian Ruston	「どれだけのことが出来るか分からないけど……」	「I don't know how much I can do, but...」
+123016	Ian Ruston		「どれだけのことが出来るか分からないけど……」	「I don't know how much I can do, but...」
 
-123017	Ian Ruston	「僕がなんとか、君を守るから……	「I'll protect you no matter what...
-123018	+	　だから、そんな顔をしないで……」	　So please don't make that face...」
+123017	Ian Ruston		「僕がなんとか、君を守るから……	「I'll protect you no matter what...
+123018	+		　だから、そんな顔をしないで……」	　So please don't make that face...」
 
-123019	Rona Kestina	「…………」	「............」
+123019	Rona Kestina		「…………」	「............」
 
-123020	Ian Ruston	「ルストン家の嫡子として、	「As the heir of the Ruston family,
-123021	+	　一度口にした言葉は違えない」	　I never go back on my word.」
+123020	Ian Ruston		「ルストン家の嫡子として、	「As the heir of the Ruston family,
+123021	+		　一度口にした言葉は違えない」	　I never go back on my word.」
 
-123022	Ian Ruston	「あの時、言った言葉は、	「The words I said back then,
-123023	+	　今も残ってると思ってるから」	　I still stand by them.」
+123022	Ian Ruston		「あの時、言った言葉は、	「The words I said back then,
+123023	+		　今も残ってると思ってるから」	　I still stand by them.」
 
-123024	Rona Kestina	「…………うん」	「............Yeah.」
+123024	Rona Kestina		「…………うん」	「............Yeah.」
 
-123025	-	イアンの言葉をじっくりと咀嚼するように、	As if carefully savoring Ian's words,
-123026	+	ロナは何度もうんうんと頷いた。	Rona nodded several times.
+123025	-		イアンの言葉をじっくりと咀嚼するように、	As if carefully savoring Ian's words,
+123026	+		ロナは何度もうんうんと頷いた。	Rona nodded several times.
 
-123027	Rona Kestina	「なんで？」	「Why?」
+123027	Rona Kestina		「なんで？」	「Why?」
 
-123028	Ian Ruston	「えっ？」	「Eh?」
+123028	Ian Ruston		「えっ？」	「Eh?」
 
-123029	Rona Kestina	「なんで、イアンは……	「Why does Ian...
-123030	+	　優しくしてくれるの？」	　treat me so kindly?」
+123029	Rona Kestina		「なんで、イアンは……	「Why does Ian...
+123030	+		　優しくしてくれるの？」	　treat me so kindly?」
 
-123031	Ian Ruston	「優しくって……」	「Kindly...」
+123031	Ian Ruston		「優しくって……」	「Kindly...」
 
-123032	Ian Ruston	「でも……	「But...
-123033	+	　そう言われると、なんでだろうね……」	　When you put it like that, why indeed...」
+123032	Ian Ruston		「でも……	「But...
+123033	+		　そう言われると、なんでだろうね……」	　When you put it like that, why indeed...」
 
-123034	Ian Ruston	「…………」	「............」
+123034	Ian Ruston		「…………」	「............」
 
-123035	Ian Ruston	「多分……」	「Probably...」
+123035	Ian Ruston		「多分……」	「Probably...」
 
-123036	Ian Ruston	「君がとても悲しそうな顔をしていたから……	「Because you always looked so sad...
-123037	+	　笑顔が見たいなって思った、んだと思う」	　I just wanted to see you smile.」
+123036	Ian Ruston		「君がとても悲しそうな顔をしていたから……	「Because you always looked so sad...
+123037	+		　笑顔が見たいなって思った、んだと思う」	　I just wanted to see you smile.」
 
-123038	Rona Kestina	「…………」	「............」
+123038	Rona Kestina		「…………」	「............」
 
-123039	Rona Kestina	「イアンは……	「Ian is...
-123040	+	　優しい、ね？」	　very kind, isn't he?」
+123039	Rona Kestina		「イアンは……	「Ian is...
+123040	+		　優しい、ね？」	　very kind, isn't he?」
 
-123041	Ian Ruston	「こんなの特別なことじゃないよ」	「This isn't anything special.」
+123041	Ian Ruston		「こんなの特別なことじゃないよ」	「This isn't anything special.」
 
-123042	Rona Kestina	「笑顔……」	「Smile...」
+123042	Rona Kestina		「笑顔……」	「Smile...」
 
-123043	Rona Kestina	「…………」	「............」
+123043	Rona Kestina		「…………」	「............」
 
-123044	-	数秒ジッと考えてから、	After thinking quietly for a few seconds,
-123045	+	ロナは自分の頬の筋肉を意識的に動かしてみた。	Rona consciously moved the muscles in her cheeks.
+123044	-		数秒ジッと考えてから、	After thinking quietly for a few seconds,
+123045	+		ロナは自分の頬の筋肉を意識的に動かしてみた。	Rona consciously moved the muscles in her cheeks.
 
-123046	Rona Kestina	「……こう？」	「...Like this?」
+123046	Rona Kestina	笑顔	「……こう？」	「...Like this?」
 
-123047	Ian Ruston	「あっ……」	「Ah...」
+123047	Ian Ruston	基本	「あっ……」	「Ah...」
 
-123048	Rona Kestina	「イアン、ありがとう。	「Thank you, Ian.
-123049	+	　ここまででいいよ」	　This is far enough.」
+123048	Rona Kestina	笑顔	「イアン、ありがとう。	「Thank you, Ian.
+123049	+		　ここまででいいよ」	　This is far enough.」
 
-123050	-	ロナはイアンから荷物を受け取ると、	Rona took the luggage from Ian,
-123051	+	背を向けてパタパタと行ってしまった。	turned her back, and pattered away.
+123050	-		ロナはイアンから荷物を受け取ると、	Rona took the luggage from Ian,
+123051	+		背を向けてパタパタと行ってしまった。	turned her back, and pattered away.
 
-123052	Ian Ruston	「あ……」	「Ah...」
+123052	Ian Ruston	基本	「あ……」	「Ah...」
 
-123053	Ian Ruston	「ああああああっ……」	「Aaaaaahhh...」
+123053	Ian Ruston	屈辱	「ああああああっ……」	「Aaaaaahhh...」
 
-123054	-	イアンは慌てて口元を手で覆った。	Ian hurriedly covered his mouth with his hand.
+123054	-		イアンは慌てて口元を手で覆った。	Ian hurriedly covered his mouth with his hand.
 
-123055	-	そうしなければ、バクバクと高鳴る心臓が、	Otherwise his pounding heart
-123056	+	今にも飛び出してしまいそうだった。	felt like it would burst out of his chest.
+123055	-		そうしなければ、バクバクと高鳴る心臓が、	Otherwise his pounding heart
+123056	+		今にも飛び出してしまいそうだった。	felt like it would burst out of his chest.
 
-123057	Ian Ruston~	（ぼ、僕は何を顔赤くして――！）	（W-why is my face turning red――!）
+123057	Ian Ruston~		（ぼ、僕は何を顔赤くして――！）	（W-why is my face turning red――!）
 
-123058	Ian Ruston~	（いや、これは、そういうことじゃ、	（No, this isn't like that,
-123059	+	　あ、いや、でも、ええっ――！？）	　Wait, but, ehh――!?）
+123058	Ian Ruston~		（いや、これは、そういうことじゃ、	（No, this isn't like that,
+123059	+		　あ、いや、でも、ええっ――！？）	　Wait, but, ehh――!?）
 
-123060	Ian Ruston~	（ぼ、僕ってまさか……	（D-don't tell me I...」
-123061	+	　そ、そうだったの――か！？）	　I really... like her――!?）
+123060	Ian Ruston~		（ぼ、僕ってまさか……	（D-don't tell me I...」
+123061	+		　そ、そうだったの――か！？）	　I really... like her――!?）
 
-123062	Ian Ruston	「あっ、でも、そうすると……」	「Ah, but if that's the case...」
+123062	Ian Ruston	基本	「あっ、でも、そうすると……」	「Ah, but if that's the case...」
 
-123063	-	イアンは初めてランスに会った時、	Ian recalled what Rance had told him
-123064	+	言われたことを思い出していた。	when they first met.
+123063	-		イアンは初めてランスに会った時、	Ian recalled what Rance had told him
+123064	+		言われたことを思い出していた。	when they first met.
 
-123065	Rance	「おい、粉骨砕身、身を粉にして働けよ」	「Hey, work yourself to the bone.」
+123065	Rance	真剣	「おい、粉骨砕身、身を粉にして働けよ」	「Hey, work yourself to the bone.」
 
-123066	Ian Ruston	「はい！」	「Yes!」
+123066	Ian Ruston	基本	「はい！」	「Yes!」
 
-123067	Rance	「それと、この城の女に手を出すな。	「Also, don't lay a hand on the women in this castle.
-123068	+	　もし、出せば命はないものと思え」	　If you do, consider your life forfeit.」
+123067	Rance	真剣	「それと、この城の女に手を出すな。	「Also, don't lay a hand on the women in this castle.
+123068	+		　もし、出せば命はないものと思え」	　If you do, consider your life forfeit.」
 
-123069	Ian Ruston	「い、いえ、滅相もありません。	「N-no, I would never!
-123070	+	　そんなことは絶対にしないです、はい」	　I absolutely won't do that! Yes!」
+123069	Ian Ruston	基本	「い、いえ、滅相もありません。	「N-no, I would never!
+123070	+		　そんなことは絶対にしないです、はい」	　I absolutely won't do that! Yes!」
 
-123071	Rance	「ふん、それならいいがな」	「Hmph, good.」
+123071	Rance	真剣	「ふん、それならいいがな」	「Hmph, good.」
 
-123072	Ian Ruston~	（御主人様は僕にとって大恩あるお方……	（My master is someone I owe a great debt to...
-123073	+	　その方との言葉を違えるわけには……）	　I cannot break my word to him...）
+123072	Ian Ruston~	基本	（御主人様は僕にとって大恩あるお方……	（My master is someone I owe a great debt to...
+123073	+		　その方との言葉を違えるわけには……）	　I cannot break my word to him...）
 
-123074	Ian Ruston	「う……ぼ、僕、僕……」	「Ugh... I, I...」
+123074	Ian Ruston	屈辱	「う……ぼ、僕、僕……」	「Ugh... I, I...」
 
-123075	Rance	「こんなとこで何してんだ？」	「What are you doing here?」
+123075	Rance	基本	「こんなとこで何してんだ？」	「What are you doing here?」
 
-123076	Ian Ruston	「うわわわわぁ〜〜〜〜！？！？！？」	「Uwaaaaaahhh!?」
+123076	Ian Ruston	屈辱	「うわわわわぁ〜〜〜〜！？！？！？」	「Uwaaaaaahhh!?」
 
-123077	Ian Ruston	「ももも、申し訳ありません〜！！！！」	「I-I'm terribly sorry~~~!!!!」
+123077	Ian Ruston		「ももも、申し訳ありません〜！！！！」	「I-I'm terribly sorry~~~!!!!」
 
-123078	Rance	「……なんで謝られてんだ？」	「...Why are you apologizing?」
+123078	Rance	基本	「……なんで謝られてんだ？」	「...Why are you apologizing?」
 
-123079	Ian Ruston	「はっ！　あ、いえ、なんでもありません！	「Hah! Ah, no, it's nothing!
-123080	+	　しししし、失礼します！」	　E-excuse me!」
+123079	Ian Ruston	屈辱	「はっ！　あ、いえ、なんでもありません！	「Hah! Ah, no, it's nothing!
+123080	+		　しししし、失礼します！」	　E-excuse me!」
 
-123081	Ian Ruston	「あいたぁっ！」	「Ouch!」
+123081	Ian Ruston	基本	「あいたぁっ！」	「Ouch!」
 
-123082	-	イアンは壁にゴチーン！	Ian slammed into the wall with a thud!
+123082	-		イアンは壁にゴチーン！	Ian slammed into the wall with a thud!
 
-123083	Rance	「何してんだお前？」	「What the hell are you doing?」
+123083	Rance		「何してんだお前？」	「What the hell are you doing?」
 
-123084	Ian Ruston	「すすす、すみません！	「S-s-sorry!
-123085	+	　な、なんでもありましぇ、ありません！	　N-nothing at all!
-123086	+	　失礼します！」	　Excuse me!」
+123084	Ian Ruston	屈辱	「すすす、すみません！	「S-s-sorry!
+123085	+		　な、なんでもありましぇ、ありません！	　N-nothing at all!
+123086	+		　失礼します！」	　Excuse me!」
 
-123087	Ian Ruston	「あいたぁっ！」	「Ouch!」
+123087	Ian Ruston	基本	「あいたぁっ！」	「Ouch!」
 
-123088	-	イアンは柱にゴツーン！	Ian crashed into a pillar!
+123088	-		イアンは柱にゴツーン！	Ian crashed into a pillar!
 
-123089	Rance	「あいつ……普段はやたら優秀な癖に、	「That guy... He's usually super competent,
-123090	+	　たまにすごいドジ踏むな……」	　but sometimes he pulls off huge blunders...」
+123089	Rance	だる顔	「あいつ……普段はやたら優秀な癖に、	「That guy... He's usually super competent,
+123090	+		　たまにすごいドジ踏むな……」	　but sometimes he pulls off huge blunders...」
 
-123091	Sill Plain	「どうしたんでしょうねぇ？」	「I wonder what's wrong with him?」
+123091	Sill Plain	きょとん	「どうしたんでしょうねぇ？」	「I wonder what's wrong with him?」
 
-123092	Rance	「知らん」	「No idea.」
+123092	Rance	真剣	「知らん」	「No idea.」
 
-123093	-	次の日――	The next day――
+123093	-		次の日――	The next day――
 
-123094	Rance	「ん？　あれは？」	「Hm? What's that?」
+123094	Rance		「ん？　あれは？」	「Hm? What's that?」
 
-123095	-	ランスが散歩していると、	While Rance was out for a walk,
-123096	+	二人の子供を見かけた。	he spotted two children.
+123095	-		ランスが散歩していると、	While Rance was out for a walk,
+123096	+		二人の子供を見かけた。	he spotted two children.
 
-123097	Ian Ruston	「はい、どうぞ」	「Here you go.」
+123097	Ian Ruston	基本	「はい、どうぞ」	「Here you go.」
 
-123098	-	中庭では、イアンがロナの頭に	In the courtyard, Ian was placing
-123099	+	花飾りを乗せてあげていた。	a flower crown on Rona's head.
+123098	-		中庭では、イアンがロナの頭に	In the courtyard, Ian was placing
+123099	+		花飾りを乗せてあげていた。	a flower crown on Rona's head.
 
-123100	Rona Kestina	「……うん」	「...Yeah.」
+123100	Rona Kestina		「……うん」	「...Yeah.」
 
-123101	Rona Kestina	「…………」	「............」
+123101	Rona Kestina		「…………」	「............」
 
-123102	Rona Kestina	「ありが、とう……」	「Th-thank you...」
+123102	Rona Kestina	笑顔	「ありが、とう……」	「Th-thank you...」
 
-123103	Ian Ruston	「うん」	「Yeah.」
+123103	Ian Ruston	基本	「うん」	「Yeah.」
 
-123104	Rance	「ふーん……」	「Hmm...」
+123104	Rance		「ふーん……」	「Hmm...」
 
-123105	Rance	「ガキ同士、仲良くやってるようではないか」	「The kids seem to be getting along well.」
+123105	Rance		「ガキ同士、仲良くやってるようではないか」	「The kids seem to be getting along well.」
 
-123106	Rona Kestina	「これ、大事にするね……	「I'll treasure this...
-123107	+	　イアン」	Ian.」
+123106	Rona Kestina	笑顔	「これ、大事にするね……	「I'll treasure this...
+123107	+		　イアン」	Ian.」
 
-123108	Ian Ruston	「いや、いずれ枯れちゃうから……	「It'll wither eventually though...
-123109	+	　そうなったらまた作るよ」	　I'll make you another one then.」
+123108	Ian Ruston	基本	「いや、いずれ枯れちゃうから……	「It'll wither eventually though...
+123109	+		　そうなったらまた作るよ」	　I'll make you another one then.」
 
-123110	Rona Kestina	「うん……」	「Yeah...」
+123110	Rona Kestina	笑顔	「うん……」	「Yeah...」
 
-123111	-	少しずつ、ロナは笑顔を浮かべることが	Little by little, Rona was smiling more often.
-123112	+	増えて来ていた。	
+123111	-		少しずつ、ロナは笑顔を浮かべることが	Little by little, Rona was smiling more often.
+123112	+		増えて来ていた。	

@@ -8,89 +8,89 @@
 * Copandon Dott	コパンドン	Female
 * Cream Ganoblade	クリーム	Female
 
-26600	Rance	「ふー……やれやれ。地底だの暑い所だの、	「Phew...... Good grief. Underground, hot places,
-26601	+	　あちこち行ったな」	　I've been all over the place.」
+26600	Rance	だる顔	「ふー……やれやれ。地底だの暑い所だの、	「Phew...... Good grief. Underground, hot places,
+26601	+		　あちこち行ったな」	　I've been all over the place.」
 
-26602	Sill Plain	「ランス様。	「Rance-sama.
-26603	+	　ビスケッタさんがピンクウニューンを	　Biscuitta prepared some Pink Unyoon
-26604	+	　用意してくださってましたよ」	　for you.」
+26602	Sill Plain	基本	「ランス様。	「Rance-sama.
+26603	+		　ビスケッタさんがピンクウニューンを	　Biscuitta prepared some Pink Unyoon
+26604	+		　用意してくださってましたよ」	　for you.」
 
-26605	Rance	「おっ、流石ビスケッタさん。	「Oh, as expected of Biscuitta.
-26606	+	　キンキンに冷えてるぞ。うまうま」	　It's ice cold. Delicious.」
+26605	Rance		「おっ、流石ビスケッタさん。	「Oh, as expected of Biscuitta.
+26606	+		　キンキンに冷えてるぞ。うまうま」	　It's ice cold. Delicious.」
 
-26607	Urza Pranaice	「あ、ランスさん。いかがでした？」	「Ah, Rance-san. How did it go?」
+26607	Urza Pranaice		「あ、ランスさん。いかがでした？」	「Ah, Rance-san. How did it go?」
 
-26608	Rance	「うーん……ぼちぼちだ。	「Hmm...... So-so.
-26609	+	　なんかめんどくさい事になってる」	　It's gotten kinda troublesome.」
+26608	Rance	だる顔	「うーん……ぼちぼちだ。	「Hmm...... So-so.
+26609	+		　なんかめんどくさい事になってる」	　It's gotten kinda troublesome.」
 
-26610	Sill Plain	「あの、協力はしてもいいとのことだったのですが、	「Um, they said they would cooperate, but
-26611	+	　王女様が家出されていて……」	　the princess has run away from home......」
+26610	Sill Plain	考え中	「あの、協力はしてもいいとのことだったのですが、	「Um, they said they would cooperate, but
+26611	+		　王女様が家出されていて……」	　the princess has run away from home......」
 
-26612	-	シィルはかくかくと事情を説明した。	Sill explained the situation in detail.
+26612	-		シィルはかくかくと事情を説明した。	Sill explained the situation in detail.
 
-26613	Arlcoate Marius	「はあ……ポピンズさんの、王子様と王女様が……	「Haa...... A Poppins prince and princess......
-26614	+	　そんな漫画みたいな話、あるんですね……」	　What a story straight out of a manga......」
+26613	Arlcoate Marius	基本	「はあ……ポピンズさんの、王子様と王女様が……	「Haa...... A Poppins prince and princess......
+26614	+		　そんな漫画みたいな話、あるんですね……」	　What a story straight out of a manga......」
 
-26615	Urza Pranaice	「では次はアニャガス王国……ですか？」	「Then next is Anyagas Kingdom......?」
+26615	Urza Pranaice		「では次はアニャガス王国……ですか？」	「Then next is Anyagas Kingdom......?」
 
-26616	Kentou Kanami	「そうね。王子様、軟禁されてるって話だし……	「Yeah. The prince is under house arrest, right......
-26617	+	　行って助けてあげましょうよ」	　Let's go rescue him.」
+26616	Kentou Kanami		「そうね。王子様、軟禁されてるって話だし……	「Yeah. The prince is under house arrest, right......
+26617	+		　行って助けてあげましょうよ」	　Let's go rescue him.」
 
-26618	Rance	「うーん……なんだか、今ひとつやる気が出んな……	「Hmm...... Not really feeling motivated......
-26619	+	　なぜ俺様が小人なんぞを……」	　Why should I bother with midgets......」
+26618	Rance	だる顔	「うーん……なんだか、今ひとつやる気が出んな……	「Hmm...... Not really feeling motivated......
+26619	+		　なぜ俺様が小人なんぞを……」	　Why should I bother with midgets......」
 
-26620	Maria Custard	「いいじゃない。	「Why not?
-26621	+	　今まで散々人の恋路を邪魔してきたんだし、	　You've ruined so many people's romances before,
-26622	+	　たまには助けたら？」	　so help them for once?」
+26620	Maria Custard	基本	「いいじゃない。	「Why not?
+26621	+		　今まで散々人の恋路を邪魔してきたんだし、	　You've ruined so many people's romances before,
+26622	+		　たまには助けたら？」	　so help them for once?」
 
-26623	Rance	「ふん、そんなちっちゃい事した覚えはない。	「Hmph, I don't remember doing any small stuff like that.
-26624	+	　ダサ男には不釣り合いな美少女が、	　There were times when hot girls who were too good for lame guys
-26625	+	　勝手に俺に惚れてしまったことはあったがな」	　fell for me instead.」
+26623	Rance		「ふん、そんなちっちゃい事した覚えはない。	「Hmph, I don't remember doing any small stuff like that.
+26624	+		　ダサ男には不釣り合いな美少女が、	　There were times when hot girls who were too good for lame guys
+26625	+		　勝手に俺に惚れてしまったことはあったがな」	　fell for me instead.」
 
-26626	Maria Custard	「大嘘つき……」	「Big liar......」
+26626	Maria Custard	あかんわ	「大嘘つき……」	「Big liar......」
 
-26627	Copandon Dott	「助けたったらええやん、ランス」	「Just help them, Rance」
+26627	Copandon Dott	基本	「助けたったらええやん、ランス」	「Just help them, Rance」
 
-26628	Rance	「なんだ。恩を着せて儲ける算段でも立てたのか？」	「What? Planning to make me owe you a favor?」
+26628	Rance	真剣	「なんだ。恩を着せて儲ける算段でも立てたのか？」	「What? Planning to make me owe you a favor?」
 
-26629	Copandon Dott	「あんなあ。うちが金稼いどるんは、	「Look. The reason I make money
-26630	+	　惚れた男を振り向かす為なんやけど」	　is to make the man I love turn around.」
+26629	Copandon Dott	ジト目	「あんなあ。うちが金稼いどるんは、	「Look. The reason I make money
+26630	+		　惚れた男を振り向かす為なんやけど」	　is to make the man I love turn around.」
 
-26631	Rance	「ふん」	「Hmph」
+26631	Rance	だる顔	「ふん」	「Hmph」
 
-26632	Copandon Dott	「男がいけずでままならんちゅう気持ちは分かるし、	「I know how it feels when the man you love won't listen,
-26633	+	　損せぇへん範囲なら助けたりたいやん」	　so if it doesn't cost us anything, we might as well help.」
+26632	Copandon Dott	基本	「男がいけずでままならんちゅう気持ちは分かるし、	「I know how it feels when the man you love won't listen,
+26633	+		　損せぇへん範囲なら助けたりたいやん」	　so if it doesn't cost us anything, we might as well help.」
 
-26634	Rance	「……お前も同じ意見か、シィル」	「......You agree too, Sill?」
+26634	Rance	真剣	「……お前も同じ意見か、シィル」	「......You agree too, Sill?」
 
-26635	Sill Plain	「は、はい……ごめんなさい。	「Y-yes...... Sorry.
-26636	+	　助けてあげたいです……」	　I want to help them......」
+26635	Sill Plain	恥	「は、はい……ごめんなさい。	「Y-yes...... Sorry.
+26636	+		　助けてあげたいです……」	　I want to help them......」
 
-26637	Rance	「ちっ、乗りかかった船か。	「Tch, we're already on the boat.
-26638	+	　まあいい、行くぞ」	　Fine, let's go.」
+26637	Rance	だる顔	「ちっ、乗りかかった船か。	「Tch, we're already on the boat.
+26638	+		　まあいい、行くぞ」	　Fine, let's go.」
 
-26639	Copandon Dott	「よっしゃ！　次はアニャガス王国やな」	「Alright! Next stop, Anyagas Kingdom.」
+26639	Copandon Dott	笑い	「よっしゃ！　次はアニャガス王国やな」	「Alright! Next stop, Anyagas Kingdom.」
 
-26640	Cream Ganoblade	「……………………」	「........................」
+26640	Cream Ganoblade	基本	「……………………」	「........................」
 
-26641	Cream Ganoblade	「あの……すみません。	「Um...... Excuse me.
-26642	+	　ウルザさん……ポピンズの交渉役、	　Urza-san...... Could you let someone else
-26643	+	　今回は交代してもらっていいですか？」	　handle the Poppins negotiations this time?」
+26641	Cream Ganoblade		「あの……すみません。	「Um...... Excuse me.
+26642	+		　ウルザさん……ポピンズの交渉役、	　Urza-san...... Could you let someone else
+26643	+		　今回は交代してもらっていいですか？」	　handle the Poppins negotiations this time?」
 
-26644	Urza Pranaice	「え？　ええ、構いませんよ」	「Eh? Sure, that's fine.」
+26644	Urza Pranaice		「え？　ええ、構いませんよ」	「Eh? Sure, that's fine.」
 
-26645	Urza Pranaice~	（……ランスさんのお守り、	(......Was babysitting Rance-san
-26646	+	　ちょっとハードすぎたのかしら？）	　a bit too tough?)
+26645	Urza Pranaice~	困惑	（……ランスさんのお守り、	(......Was babysitting Rance-san
+26646	+		　ちょっとハードすぎたのかしら？）	　a bit too tough?)
 
-26647	Cream Ganoblade~	（アニャガス王国もあの状況だったら……	(If Anyagas Kingdom is in that kind of state......
-26648	+	　ちょっと、耐えられないわ……）	　I don't think I can handle it......)
+26647	Cream Ganoblade~	ため息	（アニャガス王国もあの状況だったら……	(If Anyagas Kingdom is in that kind of state......
+26648	+		　ちょっと、耐えられないわ……）	　I don't think I can handle it......)
 
-26649	Urza Pranaice	「では、よろしくお願いしますね、ランスさん」	「Then please take care of things, Rance-san.」
+26649	Urza Pranaice	基本	「では、よろしくお願いしますね、ランスさん」	「Then please take care of things, Rance-san.」
 
-26650	Rance	「ウルザちゃんが来るのか。よしよし、いいぞ」	「Urza-chan is coming? Good, good.」
+26650	Rance		「ウルザちゃんが来るのか。よしよし、いいぞ」	「Urza-chan is coming? Good, good.」
 
-26651	Copandon Dott	「おーし。じゃあ出発やな。	「Alright. Time to depart.
-26652	+	　アニャガス王国は……	　For Anyagas Kingdom......
-26653	+	　マルグリッド迷宮から行くのがええな」	　going through the Margrid Labyrinth is best.」
+26651	Copandon Dott		「おーし。じゃあ出発やな。	「Alright. Time to depart.
+26652	+		　アニャガス王国は……	　For Anyagas Kingdom......
+26653	+		　マルグリッド迷宮から行くのがええな」	　going through the Margrid Labyrinth is best.」
 
-26654	Rance	「やるからにはちゃっちゃと行くぞ。出撃だ！」	「If we're doing this, let's make it quick. Move out!」
+26654	Rance		「やるからにはちゃっちゃと行くぞ。出撃だ！」	「If we're doing this, let's make it quick. Move out!」

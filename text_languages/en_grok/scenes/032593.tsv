@@ -6,62 +6,62 @@
 * La Hawzel	ハウゼル	Female
 * Arlcoate Marius	アールコート	Female
 
-162310	Rance	「よし、次はリーザスに行くぞ」	「Alright, next we're heading to Leazas.」
+162310	Rance	基本	「よし、次はリーザスに行くぞ」	「Alright, next we're heading to Leazas.」
 
-162311	Rance	「シィル、茶」	「Sill, tea.」
+162311	Rance	真剣	「シィル、茶」	「Sill, tea.」
 
-162312	Sill Plain	「はい、ランス様。	「Yes, Rance-sama.
-162313	+	　まだ魔人が二人もいますし、	　There are still two Fiends left,
-162314	+	　出来るだけ早く行きたいですね」	　so we should go as soon as possible.」
+162312	Sill Plain	基本	「はい、ランス様。	「Yes, Rance-sama.
+162313	+		　まだ魔人が二人もいますし、	　There are still two Fiends left,
+162314	+		　出来るだけ早く行きたいですね」	　so we should go as soon as possible.」
 
-162315	Rance	「うむ、狙いはズバリ！　ハウゼルちゃんだ！」	「Yes, my target is Hawzel-chan!」
+162315	Rance		「うむ、狙いはズバリ！　ハウゼルちゃんだ！」	「Yes, my target is Hawzel-chan!」
 
-162316	Silky Littleraisin	「ああ……」	「Aah...」
+162316	Silky Littleraisin	非武装	「ああ……」	「Aah...」
 
-162317	Silky Littleraisin	「あの子もきっと私の時のように、	「That girl is probably being forced to fight like I was.」
-162318	+	　無理矢理戦わされてる。	
-162319	+	　なんとかして救い出してあげて欲しい……」	　Please save her somehow...」
+162317	Silky Littleraisin		「あの子もきっと私の時のように、	「That girl is probably being forced to fight like I was.」
+162318	+		　無理矢理戦わされてる。	
+162319	+		　なんとかして救い出してあげて欲しい……」	　Please save her somehow...」
 
-162320	Satella	「無事でいてくれればいいが……」	「I hope they're safe...」
+162320	Satella	不安	「無事でいてくれればいいが……」	「I hope they're safe...」
 
-162321	Rance	「がははは、俺様に全て任せておけ」	「Gahahaha, leave everything to me.」
+162321	Rance	基本	「がははは、俺様に全て任せておけ」	「Gahahaha, leave everything to me.」
 
-162322	Rance	「うむ、狙いはズバリ！　シルキィちゃんだ！」	「Yes, my target is Silky-chan!」
+162322	Rance		「うむ、狙いはズバリ！　シルキィちゃんだ！」	「Yes, my target is Silky-chan!」
 
-162323	La Hawzel	「そうですか……	「I see...
-162324	+	　ようやく、シルキィも……」	　Finally, Silky too...
+162323	La Hawzel		「そうですか……	「I see...
+162324	+		　ようやく、シルキィも……」	　Finally, Silky too...
 
-162325	La Hawzel	「あの子には私と違って火炎書士のような	「Unlike me, that girl doesn't have allies like the Flame Scrivener...」
-162326	+	　味方が一人もおりません……」	
+162325	La Hawzel		「あの子には私と違って火炎書士のような	「Unlike me, that girl doesn't have allies like the Flame Scrivener...」
+162326	+		　味方が一人もおりません……」	
 
-162327	La Hawzel	「総統……お願いします……	「Supreme Leader... please...
-162328	+	　出来るだけ早く彼女を助けてあげて下さい……」	　Save her as soon as possible...」
+162327	La Hawzel		「総統……お願いします……	「Supreme Leader... please...
+162328	+		　出来るだけ早く彼女を助けてあげて下さい……」	　Save her as soon as possible...」
 
-162329	Rance	「うむうむ、任せておけ。	「Yes yes, leave it to me.
-162330	+	　ハウゼル」	　Hawzel.」
+162329	Rance		「うむうむ、任せておけ。	「Yes yes, leave it to me.
+162330	+		　ハウゼル」	　Hawzel.」
 
-162331	Arlcoate Marius	「あ、あの、少しよろしいでしょうか……」	「U-Um, may I have a moment...」
+162331	Arlcoate Marius		「あ、あの、少しよろしいでしょうか……」	「U-Um, may I have a moment...」
 
-162332	Rance	「む、どうしたアールコートちゃん」	「Hm, what's up Arlcoate-chan?」
+162332	Rance		「む、どうしたアールコートちゃん」	「Hm, what's up Arlcoate-chan?」
 
-162333	Arlcoate Marius	「魔人レキシントンが活動を開始しました」	「Fiend Lexington has begun to move.」
+162333	Arlcoate Marius		「魔人レキシントンが活動を開始しました」	「Fiend Lexington has begun to move.」
 
-162334	Rance	「レキシントンだと？」	「Lexington?」
+162334	Rance		「レキシントンだと？」	「Lexington?」
 
-162335	Arlcoate Marius	「魔人レキシントンは今まで、シルキィ、ハウゼルと違い、	「Unlike Silky and Hawzel, Fiend Lexington
-162336	+	　なんの活動もしていないリーザス三人目の魔人でした」	　had not taken any action until now as the third Fiend in Leazas.」
+162335	Arlcoate Marius		「魔人レキシントンは今まで、シルキィ、ハウゼルと違い、	「Unlike Silky and Hawzel, Fiend Lexington
+162336	+		　なんの活動もしていないリーザス三人目の魔人でした」	　had not taken any action until now as the third Fiend in Leazas.」
 
-162337	Arlcoate Marius	「ですが、以前に魔人の一人が倒れたからか、	「But perhaps because one Fiend was defeated before,
-162338	+	　ここ数日でレキシントンの部隊が前に出てきたそうです」	　his forces have started advancing in the last few days.」
+162337	Arlcoate Marius		「ですが、以前に魔人の一人が倒れたからか、	「But perhaps because one Fiend was defeated before,
+162338	+		　ここ数日でレキシントンの部隊が前に出てきたそうです」	　his forces have started advancing in the last few days.」
 
-162339	Arlcoate Marius	「魔人レキシントン自体はまだ戦場では姿を見せませんが……」	「Lexington himself has not yet appeared on the battlefield...」
+162339	Arlcoate Marius		「魔人レキシントン自体はまだ戦場では姿を見せませんが……」	「Lexington himself has not yet appeared on the battlefield...」
 
-162340	Rance	「そろそろ出て来そうってことか」	「So he's about to show up.」
+162340	Rance		「そろそろ出て来そうってことか」	「So he's about to show up.」
 
-162341	Arlcoate Marius	「はい、どうかお気をつけ下さい」	「Yes, please be careful.」
+162341	Arlcoate Marius		「はい、どうかお気をつけ下さい」	「Yes, please be careful.」
 
-162342	Rance	「まあいい、両方まとめてやっつけてやるだけだ」	「Whatever, I'll just beat them all at once.」
+162342	Rance		「まあいい、両方まとめてやっつけてやるだけだ」	「Whatever, I'll just beat them all at once.」
 
-162343	Rance	「よし、リーザスへ出発だ」	「Alright, we're heading to Leazas.」
+162343	Rance		「よし、リーザスへ出発だ」	「Alright, we're heading to Leazas.」
 
-162344	Sill Plain	「は、はい、頑張りましょう」	「Y-Yes, let's do our best.」
+162344	Sill Plain		「は、はい、頑張りましょう」	「Y-Yes, let's do our best.」

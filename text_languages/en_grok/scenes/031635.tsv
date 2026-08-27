@@ -2,48 +2,48 @@
 * Rance	ランス	Male
 * Arms Arc	アームズ	Female
 
-92883	Rance	「よう、アームズじゃないか」	「Yo, it's Arms.」
+92883	Rance	基本	「よう、アームズじゃないか」	「Yo, it's Arms.」
 
-92884	Arms Arc	「ん、ランスか」	「Hm, Rance.」
+92884	Arms Arc	アンギラスなし	「ん、ランスか」	「Hm, Rance.」
 
-92885	Arms Arc	「しかし……	「However...
-92886	+	　まさか、私が組織に属して戦う日が来るとはな」	　I never thought the day would come when I fight as part of an organization.」
+92885	Arms Arc	アンギラスなし／ふっ	「しかし……	「However...
+92886	+		　まさか、私が組織に属して戦う日が来るとはな」	　I never thought the day would come when I fight as part of an organization.」
 
-92887	Arms Arc	「まったく、強引な男だな、お前は」	「You're really a pushy man.」
+92887	Arms Arc	アンギラスなし	「まったく、強引な男だな、お前は」	「You're really a pushy man.」
 
-92888	Rance	「今は世界のピンチなんだ、	「The world is in crisis right now,
-92889	+	　お前にも沢山働いてもらうぞ」	　so I'm putting you to work too.」
+92888	Rance	基本	「今は世界のピンチなんだ、	「The world is in crisis right now,
+92889	+		　お前にも沢山働いてもらうぞ」	　so I'm putting you to work too.」
 
-92890	Arms Arc	「やれやれ……」	「Good grief...」
+92890	Arms Arc	アンギラスなし	「やれやれ……」	「Good grief...」
 
-92891	Rance	「で、こんな早朝からどこに行くつもりだ？」	「So where are you going this early in the morning?」
+92891	Rance	基本	「で、こんな早朝からどこに行くつもりだ？」	「So where are you going this early in the morning?」
 
-92892	Arms Arc	「ああ、付近に最近モンスターの巣が出来たようだ。	「Ah, seems a monster nest appeared nearby recently.
-92893	+	　狩りに行ってくる」	　I'm going hunting.」
+92892	Arms Arc	アンギラスなし	「ああ、付近に最近モンスターの巣が出来たようだ。	「Ah, seems a monster nest appeared nearby recently.
+92893	+		　狩りに行ってくる」	　I'm going hunting.」
 
-92894	Rance	「休みの日なのに？」	「On your day off?」
+92894	Rance	基本	「休みの日なのに？」	「On your day off?」
 
-92895	Arms Arc	「休みの日なのに」	「On my day off.」
+92895	Arms Arc	アンギラスなし	「休みの日なのに」	「On my day off.」
 
-92896	Rance	「一人で？」	「Alone?」
+92896	Rance	基本	「一人で？」	「Alone?」
 
-92897	Arms Arc	「一人で」	「Alone.」
+92897	Arms Arc	アンギラスなし	「一人で」	「Alone.」
 
-92898	Arms Arc	「休みの日はどう使おうと自由だろう？」	「I can use my day off however I want, right?」
+92898	Arms Arc		「休みの日はどう使おうと自由だろう？」	「I can use my day off however I want, right?」
 
-92899	Rance	「まあ、そうだが……」	「Well, yeah but...」
+92899	Rance	基本	「まあ、そうだが……」	「Well, yeah but...」
 
-92900	Arms Arc	「朝から晩までみっちりモンスター狩り、	「Hunting monsters from morning till night,
-92901	+	　中々楽しいぞ」	　it's pretty fun.」
+92900	Arms Arc	アンギラスなし	「朝から晩までみっちりモンスター狩り、	「Hunting monsters from morning till night,
+92901	+		　中々楽しいぞ」	　it's pretty fun.」
 
-92902	Rance	「なら、俺も……」	「Then I'll...」
+92902	Rance	基本	「なら、俺も……」	「Then I'll...」
 
-92903	Arms Arc	「忘れたのか？	「Did you forget?
-92904	+	　私はソロプレイヤー。	　I'm a solo player.
-92905	+	　一人で行かせてくれ」	　Let me go alone.」
+92903	Arms Arc	アンギラスなし／ふっ	「忘れたのか？	「Did you forget?
+92904	+		　私はソロプレイヤー。	　I'm a solo player.
+92905	+		　一人で行かせてくれ」	　Let me go alone.」
 
-92906	Arms Arc	「では行ってくる」	「I'll be off then.」
+92906	Arms Arc	アンギラスなし	「では行ってくる」	「I'll be off then.」
 
-92907	Rance	「相変わらずだなぁ、あいつは……」	「She's the same as always...」
+92907	Rance	真剣	「相変わらずだなぁ、あいつは……」	「She's the same as always...」
 
-92908	Rance	「美人なのに、もったいない奴」	「What a waste for such a beauty.」
+92908	Rance		「美人なのに、もったいない奴」	「What a waste for such a beauty.」

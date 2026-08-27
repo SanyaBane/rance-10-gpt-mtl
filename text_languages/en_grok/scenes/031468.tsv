@@ -10,164 +10,164 @@
 * Sheila Helman	シーラ	Female
 * Cantel	キャンテル	Male
 
-77529	Rance	「ふう、こんなもんか」	「Phew, is that all?」
+77529	Rance	基本	「ふう、こんなもんか」	「Phew, is that all?」
 
-77530	Sill Plain	「あまり数が多くなくて助かりましたね……」	「Good thing there weren't too many...」
+77530	Sill Plain		「あまり数が多くなくて助かりましたね……」	「Good thing there weren't too many...」
 
-77531	Patton Helman	「飛べる魔物は少ないからな。	「There aren't many flying monsters.
-77532	+	　少数で散発的に攻めることしか出来ないんだろう」	　They can only attack sporadically in small numbers.」
+77531	Patton Helman		「飛べる魔物は少ないからな。	「There aren't many flying monsters.
+77532	+		　少数で散発的に攻めることしか出来ないんだろう」	　They can only attack sporadically in small numbers.」
 
-77533	-	パットンが下をチラリと見る。	Patton glanced downward.
+77533	-		パットンが下をチラリと見る。	Patton glanced downward.
 
-77534	Patton Helman	「地表の数万はいる魔物、	「The tens of thousands of monsters on the ground,
-77535	+	　あいつらに攻められない限りここは大丈夫そうだ」	　as long as they can't reach us we're safe.」
+77534	Patton Helman		「地表の数万はいる魔物、	「The tens of thousands of monsters on the ground,
+77535	+		　あいつらに攻められない限りここは大丈夫そうだ」	　as long as they can't reach us we're safe.」
 
-77536	Rance	「ん？　あいつら何をしてるんだ？」	「Hm? What are those guys doing?」
+77536	Rance		「ん？　あいつら何をしてるんだ？」	「Hm? What are those guys doing?」
 
-77537	Hunty Kalar	「……石、積んでるね」	「...They're stacking stones.」
+77537	Hunty Kalar		「……石、積んでるね」	「...They're stacking stones.」
 
-77538	Monster Captain	「さあ〜、お前らどんどん石を運べー！」	「Come on, keep carrying stones!」
+77538	Monster Captain		「さあ〜、お前らどんどん石を運べー！」	「Come on, keep carrying stones!」
 
-77539	Monster Captain	「あの城に届くくらい高い階段を作るのだ！	「Build a staircase high enough to reach that castle!
-77540	+	　全員で攻めるぞー！」	　Everyone attack together!」
+77539	Monster Captain		「あの城に届くくらい高い階段を作るのだ！	「Build a staircase high enough to reach that castle!
+77540	+		　全員で攻めるぞー！」	　Everyone attack together!」
 
-77541	Monster Captain	「おら、早くしろー！」	「Hurry up!」
+77541	Monster Captain		「おら、早くしろー！」	「Hurry up!」
 
-77542	Rance	「むむ、こんな高さまで積み上げる気か……」	「Mmm, they plan to stack it this high...」
+77542	Rance	真剣	「むむ、こんな高さまで積み上げる気か……」	「Mmm, they plan to stack it this high...」
 
-77543	Hunty Kalar	「んなアホな……」	「That's ridiculous...」
+77543	Hunty Kalar	呆れ	「んなアホな……」	「That's ridiculous...」
 
-77544	Hunty Kalar	「何年がかりでやるつもりなんだか……	「How many years do they think it'll take...
-77545	+	　大体、あんな無計画に積んじゃ……」	　Stacking so haphazardly...」
+77544	Hunty Kalar		「何年がかりでやるつもりなんだか……	「How many years do they think it'll take...
+77545	+		　大体、あんな無計画に積んじゃ……」	　Stacking so haphazardly...」
 
-77546	-	　	　
-77547	+	　　＜ガラガラガラガラ〜！＞	　　＜Garagaragaragara~!＞
+77546	-		　	　
+77547	+		　　＜ガラガラガラガラ〜！＞	　　＜Garagaragaragara~!＞
 
-77548	Rance	「あ……」	「Ah...」
+77548	Rance	基本	「あ……」	「Ah...」
 
-77549	Green Monster Soldier	「ぎゃー、隊長が下敷きにー！」	「Gyaa, the captain is buried---!」
+77549	Green Monster Soldier		「ぎゃー、隊長が下敷きにー！」	「Gyaa, the captain is buried---!」
 
-77550	Red Monster Soldier	「は、早く掘り起こせー！」	「H-Hurry and dig him out!」
+77550	Red Monster Soldier		「は、早く掘り起こせー！」	「H-Hurry and dig him out!」
 
-77551	Hunty Kalar	「……ほら、崩れた」	「...See, it collapsed.」
+77551	Hunty Kalar	呆れ	「……ほら、崩れた」	「...See, it collapsed.」
 
-77552	Rance	「ふむ、とにかくこの高さにいる限り	「Hmm, as long as we're at this height
-77553	+	　安全なようだな」	　we seem safe.」
+77552	Rance	基本	「ふむ、とにかくこの高さにいる限り	「Hmm, as long as we're at this height
+77553	+		　安全なようだな」	　we seem safe.」
 
-77554	Rance	「がははは、パットンが今までサボっていたのは	「Gahahaha, I don't approve of Patton slacking until now,
-77555	+	　感心せんが、まあ俺様の城を	　but since he made my castle
-77556	+	　飛ばしたことに免じて許してやろう」	　fly I'll forgive him.」
+77554	Rance	笑顔	「がははは、パットンが今までサボっていたのは	「Gahahaha, I don't approve of Patton slacking until now,
+77555	+		　感心せんが、まあ俺様の城を	　but since he made my castle
+77556	+		　飛ばしたことに免じて許してやろう」	　fly I'll forgive him.」
 
-77557	Patton Helman	「そりゃ、ありがとうよ」	「Thanks for that.」
+77557	Patton Helman	基本	「そりゃ、ありがとうよ」	「Thanks for that.」
 
-77558	Rance	「それにこの闘神もいいぞ、うむ。	「Also this Toushin is nice, yes.
-77559	+	　とっても強そうだ。	　Looks really strong.
-77560	+	　どの戦いにも連れていこう」	　I'll take him to every battle.」
+77558	Rance		「それにこの闘神もいいぞ、うむ。	「Also this Toushin is nice, yes.
+77559	+		　とっても強そうだ。	　Looks really strong.
+77560	+		　どの戦いにも連れていこう」	　I'll take him to every battle.」
 
-77561	Toushin Zeta	「……それは出来ない」	「...That is impossible.」
+77561	Toushin Zeta		「……それは出来ない」	「...That is impossible.」
 
-77562	Rance	「なに？　なんでだ？」	「What? Why?」
+77562	Rance		「なに？　なんでだ？」	「What? Why?」
 
-77563	Toushin Zeta	「私は聖櫃から離れられない」	「I cannot leave the Sacred Ark.」
+77563	Toushin Zeta		「私は聖櫃から離れられない」	「I cannot leave the Sacred Ark.」
 
-77564	Rance	「せいひつ？」	「Sacred Ark?」
+77564	Rance		「せいひつ？」	「Sacred Ark?」
 
-77565	Toushin Zeta	「うむ、今は隣の塔の地下に安置されている、	「Yes, it is currently enshrined underground in the neighboring tower,
-77566	+	　私の本体とも言えるものだ」	　it is what can be called my true body.」
+77565	Toushin Zeta		「うむ、今は隣の塔の地下に安置されている、	「Yes, it is currently enshrined underground in the neighboring tower,
+77566	+		　私の本体とも言えるものだ」	　it is what can be called my true body.」
 
-77567	Toushin Zeta	「この体と聖櫃が長距離離れすぎると	「If this body and the Sacred Ark are too far apart,
-77568	+	　闘神のコントロールを失う」	　I will lose control of the Toushin.」
+77567	Toushin Zeta		「この体と聖櫃が長距離離れすぎると	「If this body and the Sacred Ark are too far apart,
+77568	+		　闘神のコントロールを失う」	　I will lose control of the Toushin.」
 
-77569	Rance	「じゃあ、その聖櫃を担いで来ればいいだろう」	「Then just carry the Sacred Ark over.」
+77569	Rance		「じゃあ、その聖櫃を担いで来ればいいだろう」	「Then just carry the Sacred Ark over.」
 
-77570	Patton Helman	「いや、それはちょっと難しいぜ。	「No, that's a bit difficult.
-77571	+	　聖櫃はこの城を飛ばす動力源でもあるんだ」	　The Sacred Ark is also the power source keeping this castle afloat.」
+77570	Patton Helman		「いや、それはちょっと難しいぜ。	「No, that's a bit difficult.
+77571	+		　聖櫃はこの城を飛ばす動力源でもあるんだ」	　The Sacred Ark is also the power source keeping this castle afloat.」
 
-77572	Patton Helman	「もちろん、ランス城を下ろすなら	「Of course, if we land the castle
-77573	+	　問題は解決するが……」	　the problem is solved, but...」
+77572	Patton Helman		「もちろん、ランス城を下ろすなら	「Of course, if we land the castle
+77573	+		　問題は解決するが……」	　the problem is solved, but...」
 
-77574	Rance	「それでは意味がない。	「That would be pointless.
-77575	+	　結局ランス城が滅茶苦茶にされるじゃないか」	　The castle would get wrecked anyway.」
+77574	Rance	真剣	「それでは意味がない。	「That would be pointless.
+77575	+		　結局ランス城が滅茶苦茶にされるじゃないか」	　The castle would get wrecked anyway.」
 
-77576	Rance	「つまり、このデカブツは	「So this big guy
-77577	+	　ランス城から離れられないってわけか……」	　can't leave Rance Castle...」
+77576	Rance	だる顔	「つまり、このデカブツは	「So this big guy
+77577	+		　ランス城から離れられないってわけか……」	　can't leave Rance Castle...」
 
-77578	Rance	「むむむ……」	「Mmm...」
+77578	Rance		「むむむ……」	「Mmm...」
 
-77579	Rance	「……って、なんだ、それなら	「...Wait, then there's an easy solution.」
-77580	+	　簡単な解決策があるではないか」	
+77579	Rance	基本	「……って、なんだ、それなら	「...Wait, then there's an easy solution.」
+77580	+		　簡単な解決策があるではないか」	
 
-77581	Patton Helman	「ほう、なんだ、それは？」	「Oh? What is it?」
+77581	Patton Helman		「ほう、なんだ、それは？」	「Oh? What is it?」
 
-77582	Rance	「簡単なこと！	「Simple!
-77583	+	　このランス城ごと一緒に来ればいいのだ！」	　Just come with the entire Rance Castle!」
+77582	Rance	笑顔	「簡単なこと！	「Simple!
+77583	+		　このランス城ごと一緒に来ればいいのだ！」	　Just come with the entire Rance Castle!」
 
-77584	Rance	「よーし、最終決戦だ！」	「Alright, final battle!」
+77584	Rance	基本	「よーし、最終決戦だ！」	「Alright, final battle!」
 
-77585	Rance	「ランス城！　魔物の支配地へゴーだ！	「Rance Castle! Go to the monster territory!
-77586	+	　敵の本拠地を叩く！」	　Strike the enemy's headquarters!」
+77585	Rance	怒り	「ランス城！　魔物の支配地へゴーだ！	「Rance Castle! Go to the monster territory!
+77586	+		　敵の本拠地を叩く！」	　Strike the enemy's headquarters!」
 
-77587	Rance	「がははははははははは！	「Gahahahahahaha!
-77588	+	　ケイブリスの驚く顔が目に浮かぶぜ！」	　I can already see Kayblis's shocked face!」
+77587	Rance	笑顔	「がははははははははは！	「Gahahahahahaha!
+77588	+		　ケイブリスの驚く顔が目に浮かぶぜ！」	　I can already see Kayblis's shocked face!」
 
-77589	Sheila Helman	「…………」	「............」
+77589	Sheila Helman	真剣	「…………」	「............」
 
-77590	Patton Helman	「…………」	「............」
+77590	Patton Helman		「…………」	「............」
 
-77591	-	ランスの命令に応える者は一人もいなかった。	No one responded to Rance's order.
+77591	-		ランスの命令に応える者は一人もいなかった。	No one responded to Rance's order.
 
-77592	Rance	「……おい、なにしてる、ゴーだ」	「...Hey, what are you doing? Go!」
+77592	Rance	基本	「……おい、なにしてる、ゴーだ」	「...Hey, what are you doing? Go!」
 
-77593	Sheila Helman	「え、えっと……	「Um, well...
-77594	+	　ゴォー……	　Gooo...
-77595	?	ですか？」	　is that it?」
+77593	Sheila Helman	エロ顔	「え、えっと……	「Um, well...
+77594	+		　ゴォー……	　Gooo...
+77595	?		ですか？」	　is that it?」
 
-77596	Rance	「ゴー、だ」	「Go.」
+77596	Rance	基本	「ゴー、だ」	「Go.」
 
-77597	Patton Helman	「ああ、悪いなランス。	「Ah, sorry Rance.
-77598	+	　実は、その……」	　Actually...」
+77597	Patton Helman	戸惑い	「ああ、悪いなランス。	「Ah, sorry Rance.
+77598	+		　実は、その……」	　Actually...」
 
-77599	Patton Helman	「この城、上下にしか移動できん……」	「This castle can only move up and down...」
+77599	Patton Helman		「この城、上下にしか移動できん……」	「This castle can only move up and down...」
 
-77600	Rance	「なにー！？」	「What---!?」
+77600	Rance	基本	「なにー！？」	「What---!?」
 
-77601	Hunty Kalar	「実は……飛行ユニットが一部壊れていてね……」	「Actually... part of the flight unit is broken...」
+77601	Hunty Kalar	困り	「実は……飛行ユニットが一部壊れていてね……」	「Actually... part of the flight unit is broken...」
 
-77602	Hunty Kalar	「残念ながら自力での水平移動はできないんだ」	「Unfortunately it can't move horizontally on its own.」
+77602	Hunty Kalar		「残念ながら自力での水平移動はできないんだ」	「Unfortunately it can't move horizontally on its own.」
 
-77603	Rance	「つまり、敵陣に攻め込む為には	「So to attack the enemy base,
-77604	+	　ここから降りて歩いて行くしかないのか……」	　we have to descend and walk there...」
+77603	Rance	だる顔	「つまり、敵陣に攻め込む為には	「So to attack the enemy base,
+77604	+		　ここから降りて歩いて行くしかないのか……」	　we have to descend and walk there...」
 
-77605	Rance	「ドラゴンに乗って全員で行ければいいが……」	「It'd be nice if we could all ride dragons but...」
+77605	Rance	真剣	「ドラゴンに乗って全員で行ければいいが……」	「It'd be nice if we could all ride dragons but...」
 
-77606	Cantel	「私はそこまで多くの者は運べんな。	「I can't carry that many people.
-77607	+	　それに私の姿は目立ちすぎる」	　Plus my appearance is too noticeable.」
+77606	Cantel	基本	「私はそこまで多くの者は運べんな。	「I can't carry that many people.
+77607	+		　それに私の姿は目立ちすぎる」	　Plus my appearance is too noticeable.」
 
-77608	Cantel	「ここから地表に降りるのを	「I can help you descend to the surface...」
-77609	+	　手伝うくらいは出来るが……」	
+77608	Cantel		「ここから地表に降りるのを	「I can help you descend to the surface...」
+77609	+		　手伝うくらいは出来るが……」	
 
-77610	Rance	「うむむ、手詰まりだな……」	「Mmm, we're stuck...」
+77610	Rance		「うむむ、手詰まりだな……」	「Mmm, we're stuck...」
 
-77611	Patton Helman	「そうだな……	「Yeah...
-77612	+	　ランス城は魔物から攻撃されず安全だが、	　Rance Castle is safe from monster attacks,
-77613	+	　ここにいるだけじゃ地表の人類は守れない」	　but we can't protect the humans on the ground from up here.」
+77611	Patton Helman	真剣	「そうだな……	「Yeah...
+77612	+		　ランス城は魔物から攻撃されず安全だが、	　Rance Castle is safe from monster attacks,
+77613	+		　ここにいるだけじゃ地表の人類は守れない」	　but we can't protect the humans on the ground from up here.」
 
-77614	Rance	「敵の頭を叩ければいいのだが……」	「If only we could strike the enemy's head...」
+77614	Rance		「敵の頭を叩ければいいのだが……」	「If only we could strike the enemy's head...」
 
-77615	Patton Helman	「魔人ケイブリスか……」	「Fiend Kayblis, huh...」
+77615	Patton Helman	基本	「魔人ケイブリスか……」	「Fiend Kayblis, huh...」
 
-77616	Rance	「うむ、おそらく魔物の世界の奥地にある	「Yes, he's probably in the depths of the monster world
-77617	+	　魔王城にいるかも、なんだそうだ」	　at the Demon King Castle.」
+77616	Rance	真剣	「うむ、おそらく魔物の世界の奥地にある	「Yes, he's probably in the depths of the monster world
+77617	+		　魔王城にいるかも、なんだそうだ」	　at the Demon King Castle.」
 
-77618	Sill Plain	「そこまで、歩いて行くしかない、ですか？」	「So we have to walk all the way there?」
+77618	Sill Plain	考え中	「そこまで、歩いて行くしかない、ですか？」	「So we have to walk all the way there?」
 
-77619	Hunty Kalar	「よした方がいいだろうね……」	「Better not...」
+77619	Hunty Kalar	呆れ	「よした方がいいだろうね……」	「Better not...」
 
-77620	Hunty Kalar	「敵の守りは本拠地に向かうにつれて厚くなる。	「The enemy's defenses get thicker the closer we get to their headquarters.
-77621	+	　なんの策もなしにただ歩いて行くんじゃあ……	　Just walking there without any plan...
-77622	+	　ちょいと無茶だよ」	　is a bit reckless.」
+77620	Hunty Kalar	困り	「敵の守りは本拠地に向かうにつれて厚くなる。	「The enemy's defenses get thicker the closer we get to their headquarters.
+77621	+		　なんの策もなしにただ歩いて行くんじゃあ……	　Just walking there without any plan...
+77622	+		　ちょいと無茶だよ」	　is a bit reckless.」
 
-77623	Rance	「むむむ……	「Mmm...
-77624	+	　なんか面倒なことになってきたなぁ……」	　This is getting complicated...」
+77623	Rance	真剣	「むむむ……	「Mmm...
+77624	+		　なんか面倒なことになってきたなぁ……」	　This is getting complicated...」
 
-77625	Rance	「こっからケイブリスの本拠地に行く方法、か……」	「A way to get from here to Kayblis's headquarters, huh...」
+77625	Rance		「こっからケイブリスの本拠地に行く方法、か……」	「A way to get from here to Kayblis's headquarters, huh...」

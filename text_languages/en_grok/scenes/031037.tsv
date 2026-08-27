@@ -10,69 +10,69 @@
 * Caesar	シーザー	Male
 * Pastel Kalar	パステル	Female
 
-47502	Green Monster Soldier	「ぐ、グスマン様！	「G-Gusman-sama!
-47503	+	　正面の防衛隊、突破されました！	　The front defense line has been breached!
-47504	+	　なおも一直線に突撃してきます！」	　They’re still charging straight at us!」
+47502	Green Monster Soldier	基本	「ぐ、グスマン様！	「G-Gusman-sama!
+47503	+		　正面の防衛隊、突破されました！	　The front defense line has been breached!
+47504	+		　なおも一直線に突撃してきます！」	　They’re still charging straight at us!」
 
-47505	Monster General	「な、なんだと！？　何をやっている！	「What!? What are they doing!
-47506	+	　……やつらめ、陽動の割には欲張る……	　...Those bastards, being too greedy for a mere diversion...
-47507	+	　別働隊は発見出来たのか？」	　Have we found the detached force?」
+47505	Monster General		「な、なんだと！？　何をやっている！	「What!? What are they doing!
+47506	+		　……やつらめ、陽動の割には欲張る……	　...Those bastards, being too greedy for a mere diversion...
+47507	+		　別働隊は発見出来たのか？」	　Have we found the detached force?」
 
-47508	Green Monster Soldier	「い、いいえ、それらしいものはまったく……	「N-No, we haven’t found anything like that...
-47509	+	　魔法で隠蔽されている可能性も考えましたが、	　We considered they might be concealed by magic, but
-47510	+	　それも……」	　even that...」
+47508	Green Monster Soldier		「い、いいえ、それらしいものはまったく……	「N-No, we haven’t found anything like that...
+47509	+		　魔法で隠蔽されている可能性も考えましたが、	　We considered they might be concealed by magic, but
+47510	+		　それも……」	　even that...」
 
-47511	Monster General	「なっ……ど、どういうことだ……！？	「Wha... What does this mean...!?
-47512	+	　まさか……あれで敵兵は全部なのか？」	　Don’t tell me... that was their entire force?」
+47511	Monster General		「なっ……ど、どういうことだ……！？	「Wha... What does this mean...!?
+47512	+		　まさか……あれで敵兵は全部なのか？」	　Don’t tell me... that was their entire force?」
 
-47513	Green Monster Soldier	「そ、そういうことに……なります……」	「It... appears so...」
+47513	Green Monster Soldier		「そ、そういうことに……なります……」	「It... appears so...」
 
-47514	Monster General	「馬鹿な！！　自殺でもしに来たとでもいうのか！」	「Impossible!! Are they here to commit suicide!?」
+47514	Monster General		「馬鹿な！！　自殺でもしに来たとでもいうのか！」	「Impossible!! Are they here to commit suicide!?」
 
-47515	Green Monster Soldier	「し、しかし、すごい勢いです！	「B-But they’re charging with insane momentum!
-47516	+	　人間とは思えないほどに強く……」	　Stronger than any normal human...」
+47515	Green Monster Soldier		「し、しかし、すごい勢いです！	「B-But they’re charging with insane momentum!
+47516	+		　人間とは思えないほどに強く……」	　Stronger than any normal human...」
 
-47517	Monster General	「く、狂ってる……	「They’re insane...
-47518	+	　ありえるか、こんな、事が……ッ！」	　How can something like this happen...!?」
+47517	Monster General		「く、狂ってる……	「They’re insane...
+47518	+		　ありえるか、こんな、事が……ッ！」	　How can something like this happen...!?」
 
-47519	Green Monster Soldier	「な、中には魔人の姿もあるとかで……	「There are even Fiends among them...
-47520	+	　到底、突入を食い止めることはできません！」	　We cannot stop their charge!」
+47519	Green Monster Soldier		「な、中には魔人の姿もあるとかで……	「There are even Fiends among them...
+47520	+		　到底、突入を食い止めることはできません！」	　We cannot stop their charge!」
 
-47521	Monster General~	（部隊をもう一度集結させる時間はない……	（There’s no time to regroup the units...
-47522	+	　う、嘘だ……こんな……っ……！）	　This can’t be real...!）
+47521	Monster General~		（部隊をもう一度集結させる時間はない……	（There’s no time to regroup the units...
+47522	+		　う、嘘だ……こんな……っ……！）	　This can’t be real...!）
 
-47523	Rance	「おりゃあああぁぁ！　退け退け退け！！」	「Oryaaaaah! Move, move, move!!!」
+47523	Rance	怒り	「おりゃあああぁぁ！　退け退け退け！！」	「Oryaaaaah! Move, move, move!!!」
 
-47524	Green Monster Soldier	「ぐふぁっ！」	「Gufah!」
+47524	Green Monster Soldier	基本	「ぐふぁっ！」	「Gufah!」
 
-47525	Sill Plain	「炎の、矢っ！	「Flame Arrow!」
-47526	?	　……なんだか、	　...Somehow,
-47527	+	　思ったより数が少ない気がしますね」	　there seem to be fewer enemies than expected.」
+47525	Sill Plain	慌て	「炎の、矢っ！	「Flame Arrow!」
+47526	?		　……なんだか、	　...Somehow,
+47527	+		　思ったより数が少ない気がしますね」	　there seem to be fewer enemies than expected.」
 
-47528	Kentou Kanami	「うん、もっと多かったと思うんだけど……」	「Yeah, I thought there would be way more...
+47528	Kentou Kanami	基本	「うん、もっと多かったと思うんだけど……」	「Yeah, I thought there would be way more...
 
-47529	Rance	「喋ってる暇があったら手を動かせ！	「If you have time to talk, use your hands!
-47530	+	　敵の事情なんぞ知らんわ！」	　I don’t care about the enemy’s situation!」
+47529	Rance	怒り	「喋ってる暇があったら手を動かせ！	「If you have time to talk, use your hands!
+47530	+		　敵の事情なんぞ知らんわ！」	　I don’t care about the enemy’s situation!」
 
-47531	Urza Pranaice	「カロリアちゃん、次は右！　火の子で！」	「Caloria-chan, next is right! Use Fire Child!」
+47531	Urza Pranaice	基本	「カロリアちゃん、次は右！　火の子で！」	「Caloria-chan, next is right! Use Fire Child!」
 
-47532	Caloria Cricket	「うん！　えーーーいっ！」	「Okay! Eeeeii!」
+47532	Caloria Cricket	叫び	「うん！　えーーーいっ！」	「Okay! Eeeeii!」
 
-47533	Satella	「叩き潰せ、シーザー！」	「Crush them, Caesar!」
+47533	Satella	怒り	「叩き潰せ、シーザー！」	「Crush them, Caesar!」
 
-47534	Caesar	「オオオオオゥオオォォッ！」	「OOOOOOH!」
+47534	Caesar	基本	「オオオオオゥオオォォッ！」	「OOOOOOH!」
 
-47535	Urza Pranaice	「パステルさん！」	「Pastel-san!」
+47535	Urza Pranaice	真剣	「パステルさん！」	「Pastel-san!」
 
-47536	Pastel Kalar	「うむっ……！	「Yes...!
-47537	+	　黒、色、ッ――――破壊光線ッ！」	　Black Destruction Beam!」
+47536	Pastel Kalar	基本	「うむっ……！	「Yes...!
+47537	+		　黒、色、ッ――――破壊光線ッ！」	　Black Destruction Beam!」
 
-47538	Urza Pranaice	「ランスさん、前！　空きました！	「Rance-san, front! Path is clear!
-47539	+	　向こうに…………」	　Over there...」
+47538	Urza Pranaice	真剣	「ランスさん、前！　空きました！	「Rance-san, front! Path is clear!
+47539	+		　向こうに…………」	　Over there...」
 
-47540	Monster General	「おっ、お、おおおおっ！」	「O-Oh, ooooooh!」
+47540	Monster General	基本	「おっ、お、おおおおっ！」	「O-Oh, ooooooh!」
 
-47541	-	パステルの大規模魔法で敵陣が吹き飛ばされ、	Pastel’s large-scale magic blew away the enemy formation,
-47542	+	その向こうで狼狽する、魔物将軍の姿が現れた。	revealing the panicked Monster General behind it.
+47541	-		パステルの大規模魔法で敵陣が吹き飛ばされ、	Pastel’s large-scale magic blew away the enemy formation,
+47542	+		その向こうで狼狽する、魔物将軍の姿が現れた。	revealing the panicked Monster General behind it.
 
-47543	Rance	「魔物将軍か！　二秒で死ね！！」	「A Monster General! Die in two seconds!!」
+47543	Rance	怒り	「魔物将軍か！　二秒で死ね！！」	「A Monster General! Die in two seconds!!」

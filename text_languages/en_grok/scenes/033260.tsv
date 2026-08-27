@@ -6,177 +6,177 @@
 * Masou Shizuka	志津香２	Female
 * Nagata-kun	長田君２	Male
 
-219428	-	リーザスから出発し、	Departing from Leazas,
-219429	+	あなた達は相談の結果、	after discussion, you all
-219430	+	現在JAPANを目指していた。	were currently heading toward JAPAN.
+219428	-		リーザスから出発し、	Departing from Leazas,
+219429	+		あなた達は相談の結果、	after discussion, you all
+219430	+		現在JAPANを目指していた。	were currently heading toward JAPAN.
 
-219431	-	…………	............
+219431	-		…………	............
 
-219432	-	……	...
+219432	-		……	...
 
-219433	-	あなたは今日も一日の終わりに	As always, at the end of the day
-219434	+	日課である日記を書き上げて、ペンを置く。	you finished writing your daily journal and put down the pen.
+219433	-		あなたは今日も一日の終わりに	As always, at the end of the day
+219434	+		日課である日記を書き上げて、ペンを置く。	you finished writing your daily journal and put down the pen.
 
-219435	Reset Kalar	「もうご飯が出来るから待っててねー」	「Dinner's almost ready, so wait a bit~」
+219435	Reset Kalar	基本	「もうご飯が出来るから待っててねー」	「Dinner's almost ready, so wait a bit~」
 
-219436	-	この一行の食事係は、	The cooking duty for this group
-219437	+	誰かが言い出したわけでもないのに、	somehow became
-219438	+	ロッキーとリセットの二人の担当となっていた。	Rocky and Reset's responsibility.
+219436	-		この一行の食事係は、	The cooking duty for this group
+219437	+		誰かが言い出したわけでもないのに、	somehow became
+219438	+		ロッキーとリセットの二人の担当となっていた。	Rocky and Reset's responsibility.
 
-219439	-	慣れているのか、中々の手際の良さで	Quite skilled, they prepared
-219440	+	二人は次々に人数分の料理をこしらえていく。	meals for everyone one after another.
+219439	-		慣れているのか、中々の手際の良さで	Quite skilled, they prepared
+219440	+		二人は次々に人数分の料理をこしらえていく。	meals for everyone one after another.
 
-219441	-	最近、子供用の手製の台を	Recently Rocky made a custom step stool for kids,
-219442	+	ロッキーが作ってくれたらしく、	and Reset was very happy about it.
-219443	+	リセットはこのことを非常に喜んでいた。	
+219441	-		最近、子供用の手製の台を	Recently Rocky made a custom step stool for kids,
+219442	+		ロッキーが作ってくれたらしく、	and Reset was very happy about it.
+219443	+		リセットはこのことを非常に喜んでいた。	
 
-219444	-	今日も小さな皆の姉は、	Today too, the little big sister
-219445	+	嬉しそうに皆の為の料理を作る。	happily cooked for everyone.
+219444	-		今日も小さな皆の姉は、	Today too, the little big sister
+219445	+		嬉しそうに皆の為の料理を作る。	happily cooked for everyone.
 
-219446	Nagi su Ragarl	「お、いただき」	「Oh, thanks for the food.」
+219446	Nagi su Ragarl	帽子なし	「お、いただき」	「Oh, thanks for the food.」
 
-219447	Reset Kalar	「って、こらー！」	「Hey, stop that!」
+219447	Reset Kalar	怒り	「って、こらー！」	「Hey, stop that!」
 
-219448	-	たまにナギがつまみ食いして怒られるのも、	Nagi occasionally sneaking tastes and getting scolded
-219449	+	お馴染みの光景と化していた。	had become a familiar sight.
+219448	-		たまにナギがつまみ食いして怒られるのも、	Nagi occasionally sneaking tastes and getting scolded
+219449	+		お馴染みの光景と化していた。	had become a familiar sight.
 
-219450	-	○○月××日――	○○ Month ×× Day――
+219450	-		○○月××日――	○○ Month ×× Day――
 
-219451	Kentou Uzume	「しゅくん、しゅくーん！」	「My lord, my looord!」
+219451	Kentou Uzume	基本	「しゅくん、しゅくーん！」	「My lord, my looord!」
 
-219452	-	どこかに行っていたウズメが	Uzume, who had gone somewhere,
-219453	+	ぴょんぴょんと跳ねるように、	hopped back
-219454	+	あなた達の前に現れた。	and appeared before you all.
+219452	-		どこかに行っていたウズメが	Uzume, who had gone somewhere,
+219453	+		ぴょんぴょんと跳ねるように、	hopped back
+219454	+		あなた達の前に現れた。	and appeared before you all.
 
-219455	Zance Leazas	「おう、どうした」	「Yo, what's up?」
+219455	Zance Leazas		「おう、どうした」	「Yo, what's up?」
 
-219456	Reset Kalar	「うん？　なーにー？」	「Hm? What is it?」
+219456	Reset Kalar		「うん？　なーにー？」	「Hm? What is it?」
 
-219457	-	主君と呼ばれ、あなたも振り返る。	Called lord, you also turned around.
+219457	-		主君と呼ばれ、あなたも振り返る。	Called lord, you also turned around.
 
-219458	Kentou Uzume	「さすがに主君が三人もいると、	「Having three lords is quite confusing.」
-219459	+	　ややこしいでござるな」	
+219458	Kentou Uzume		「さすがに主君が三人もいると、	「Having three lords is quite confusing.」
+219459	+		　ややこしいでござるな」	
 
-219460	Zance Leazas	「アホみたいにポンポン増やすからだ」	「It's because we keep adding them like idiots.」
+219460	Zance Leazas		「アホみたいにポンポン増やすからだ」	「It's because we keep adding them like idiots.」
 
-219461	Kentou Uzume	「うへぇ。怒られた」	「Uhee. I got scolded.」
+219461	Kentou Uzume	テレ	「うへぇ。怒られた」	「Uhee. I got scolded.」
 
-219462	Zance Leazas	「うへぇ言うな」	「Don't say uhee.」
+219462	Zance Leazas	基本	「うへぇ言うな」	「Don't say uhee.」
 
-219463	Kentou Uzume	「あ、それより魔物の大群が	「Ah, more importantly, a huge swarm of monsters
-219464	+	　こっちに迫ってるでござるよ」	　is approaching this way.」
+219463	Kentou Uzume		「あ、それより魔物の大群が	「Ah, more importantly, a huge swarm of monsters
+219464	+		　こっちに迫ってるでござるよ」	　is approaching this way.」
 
-219465	Zance Leazas	「それを先に言え！」	「Say that first!」
+219465	Zance Leazas	怒り	「それを先に言え！」	「Say that first!」
 
-219466	-	○○月××日――	○○ Month ×× Day――
+219466	-		○○月××日――	○○ Month ×× Day――
 
-219467	Masou Shizuka	「…………」	「............」
+219467	Masou Shizuka	帽子なし／怒り	「…………」	「............」
 
-219468	Nagata-kun	「なに？　なんか志津香さん、	「What? Shizuka-san,
-219469	+	　機嫌悪くねっすか？」	　seems in a bad mood?」
+219468	Nagata-kun	基本	「なに？　なんか志津香さん、	「What? Shizuka-san,
+219469	+		　機嫌悪くねっすか？」	　seems in a bad mood?」
 
-219470	-	常日頃から機嫌のいいタチではなかったが、	She wasn't usually in a good mood,
-219471	+	今朝は特別、機嫌が悪かった。	but this morning she was especially grumpy.
+219470	-		常日頃から機嫌のいいタチではなかったが、	She wasn't usually in a good mood,
+219471	+		今朝は特別、機嫌が悪かった。	but this morning she was especially grumpy.
 
-219472	Nagi su Ragarl	「あー……実はねぇ……」	「Ah... actually...
+219472	Nagi su Ragarl		「あー……実はねぇ……」	「Ah... actually...
 
-219473	-	ナギの言うことによると、	According to Nagi,
-219474	+	なんでも昨夜の内に魔王ランスが	Demon King Rance had apparently
-219475	+	このキャンプに来ていたらしい。	come to this camp last night.
+219473	-		ナギの言うことによると、	According to Nagi,
+219474	+		なんでも昨夜の内に魔王ランスが	Demon King Rance had apparently
+219475	+		このキャンプに来ていたらしい。	come to this camp last night.
 
-219476	Zance Leazas	「ああ？　なんで俺ら気づかなかったんだ？」	「Huh? Why didn't we notice?」
+219476	Zance Leazas		「ああ？　なんで俺ら気づかなかったんだ？」	「Huh? Why didn't we notice?」
 
-219477	-	魔王ランスは本来、	Normally when Demon King Rance attacks Shizuka,
-219478	+	志津香を襲う時には魔人ワーグを引き連れるらしい。	he brings the Fiend Warg along.
-219479	+	そのせいで誰も起きられなかったとのことだった。	That's why no one woke up.
+219477	-		魔王ランスは本来、	Normally when Demon King Rance attacks Shizuka,
+219478	+		志津香を襲う時には魔人ワーグを引き連れるらしい。	he brings the Fiend Warg along.
+219479	+		そのせいで誰も起きられなかったとのことだった。	That's why no one woke up.
 
-219480	Masou Shizuka	「……なに？」	「...What?」
+219480	Masou Shizuka	帽子なし／怒り	「……なに？」	「...What?」
 
-219481	Nagata-kun	「ぶるぶるぶる！	「Brrrr!
-219482	+	　なんでもないっす！」	　It's nothing!」
+219481	Nagata-kun	基本	「ぶるぶるぶる！	「Brrrr!
+219482	+		　なんでもないっす！」	　It's nothing!」
 
-219483	Masou Shizuka	「…………」	「............」
+219483	Masou Shizuka	帽子なし／怒り	「…………」	「............」
 
-219484	Masou Shizuka	「ふんっ……」	「Hmph...」
+219484	Masou Shizuka	帽子なし	「ふんっ……」	「Hmph...」
 
-219485	-	志津香の機嫌が悪いことで、	Because of Shizuka's bad mood,
-219486	+	本日の朝食はどこかピリピリと	today's breakfast felt somewhat tense
-219487	+	緊張感のあるものとなってしまった。	and awkward.
+219485	-		志津香の機嫌が悪いことで、	Because of Shizuka's bad mood,
+219486	+		本日の朝食はどこかピリピリと	today's breakfast felt somewhat tense
+219487	+		緊張感のあるものとなってしまった。	and awkward.
 
-219488	-	○○月××日――	○○ Month ×× Day――
+219488	-		○○月××日――	○○ Month ×× Day――
 
-219489	Zance Leazas	「…………」	「............」
+219489	Zance Leazas	基本	「…………」	「............」
 
-219490	-	あなたと長田君はテントから離れて	You and Nagata-kun saw Zance
-219491	+	コソコソと森の中へ消えていくザンスを見つけた。	sneak away from the tent into the forest.
+219490	-		あなたと長田君はテントから離れて	You and Nagata-kun saw Zance
+219491	+		コソコソと森の中へ消えていくザンスを見つけた。	sneak away from the tent into the forest.
 
-219492	Nagata-kun	「ふふふ、俺には分かる。	「Hehehe, I get it.
-219493	+	　男なら誰もが一度はやる秘密の特訓だな？	　It's that secret training every guy does once, right?
-219494	+	　ちょっと覗きに行こうぜ」	　Let's go peek.」
+219492	Nagata-kun		「ふふふ、俺には分かる。	「Hehehe, I get it.
+219493	+		　男なら誰もが一度はやる秘密の特訓だな？	　It's that secret training every guy does once, right?
+219494	+		　ちょっと覗きに行こうぜ」	　Let's go peek.」
 
-219495	-	ザンスの後を追って森の奥深くに入ると	Following Zance deep into the forest,
-219496	+	なんと、大量に捨てられたエロ本が見つかった。	you found a huge pile of discarded erotic books.
+219495	-		ザンスの後を追って森の奥深くに入ると	Following Zance deep into the forest,
+219496	+		なんと、大量に捨てられたエロ本が見つかった。	you found a huge pile of discarded erotic books.
 
-219497	Zance Leazas	「お、お前ら、なんでここに！？」	「Y-you guys, why are you here!?」
+219497	Zance Leazas	不満	「お、お前ら、なんでここに！？」	「Y-you guys, why are you here!?」
 
-219498	Zance Leazas	「あ、いや！　こ、これは……！」	「Ah, no! T-this is...!」
+219498	Zance Leazas	基本	「あ、いや！　こ、これは……！」	「Ah, no! T-this is...!」
 
-219499	Zance Leazas	「くっ……！」	「Kuh...!」
+219499	Zance Leazas		「くっ……！」	「Kuh...!」
 
 > male
-219500	Zance Leazas	「いいか、これで共犯だからな。	「Listen, we're accomplices now.
-219501	+	　絶対に誰も言うんじゃねーぞ」	　Don't tell anyone.」
+219500	Zance Leazas		「いいか、これで共犯だからな。	「Listen, we're accomplices now.
+219501	+		　絶対に誰も言うんじゃねーぞ」	　Don't tell anyone.」
 
-219502	-	何故かあなた達は	For some reason you all
-219503	+	ザンスと共にエロ本を読むことになっていた。	ended up reading erotic books together with Zance.
+219502	-		何故かあなた達は	For some reason you all
+219503	+		ザンスと共にエロ本を読むことになっていた。	ended up reading erotic books together with Zance.
 
-219504	Nagata-kun	「うひひひ、ザンス、これ見ろよ。	「Uhehehe, Zance, look at this.
-219505	+	　この子すんげー可愛くね？」	　This girl is super cute, right?」
+219504	Nagata-kun		「うひひひ、ザンス、これ見ろよ。	「Uhehehe, Zance, look at this.
+219505	+		　この子すんげー可愛くね？」	　This girl is super cute, right?」
 
-219506	Zance Leazas	「おーっ、たまんねーなー！	「Whoa, awesome!
-219507	+	　結構美乳じゃねーか！」	　Nice big tits!」
+219506	Zance Leazas	笑い	「おーっ、たまんねーなー！	「Whoa, awesome!
+219507	+		　結構美乳じゃねーか！」	　Nice big tits!」
 
-219508	Zance Leazas	「ぐふふふ……」	「Gufufu...」
+219508	Zance Leazas	微笑み	「ぐふふふ……」	「Gufufu...」
 
-219509	-	あなた達は男だけの楽しい（？）一時を過ごした。	You spent a fun (?) moment as guys only.
+219509	-		あなた達は男だけの楽しい（？）一時を過ごした。	You spent a fun (?) moment as guys only.
 
 > female
-219510	-	　	　
-219511	+	　　＜メラメラ、メラメラ……＞	　　＜Flicker flicker...＞
+219510	-		　	　
+219511	+		　　＜メラメラ、メラメラ……＞	　　＜Flicker flicker...＞
 
-219512	-	森の中で本の束が真っ赤に燃えていた。	A pile of books was burning bright red in the forest.
+219512	-		森の中で本の束が真っ赤に燃えていた。	A pile of books was burning bright red in the forest.
 
-219513	Nagata-kun	「あ、あーあー……もったいねー……」	「Ah, awww... what a waste...」
+219513	Nagata-kun	基本	「あ、あーあー……もったいねー……」	「Ah, awww... what a waste...」
 
-219514	Zance Leazas	「まったく、こんな場所に不法投棄とは、	「Seriously, illegally dumping here,
-219515	+	　ふてぇ野郎がいたもんだぜ！」	　what a bold bastard!」
+219514	Zance Leazas		「まったく、こんな場所に不法投棄とは、	「Seriously, illegally dumping here,
+219515	+		　ふてぇ野郎がいたもんだぜ！」	　what a bold bastard!」
 
-219516	Zance Leazas	「がはははははは！	「Gahahahaha!
-219517	+	　俺様は元々これを処分する気だったんだ！」	　I was planning to dispose of these anyway!」
+219516	Zance Leazas	笑い	「がはははははは！	「Gahahahaha!
+219517	+		　俺様は元々これを処分する気だったんだ！」	　I was planning to dispose of these anyway!」
 
-219518	Zance Leazas	「いいか、処分しに来ただけだからな？	「Listen, I only came to dispose of them, okay?
-219519	+	　変な勘違いするんじゃねーぞ？	　Don't get any weird ideas.
-219520	+	　分かったな？」	　Got it?」
+219518	Zance Leazas	基本	「いいか、処分しに来ただけだからな？	「Listen, I only came to dispose of them, okay?
+219519	+		　変な勘違いするんじゃねーぞ？	　Don't get any weird ideas.
+219520	+		　分かったな？」	　Got it?」
 
-219521	-	あなたは半ば無理矢理納得させられた。	You were half-forced to agree.
+219521	-		あなたは半ば無理矢理納得させられた。	You were half-forced to agree.
 
-219522	Zance Leazas	「ははははは……	「Hahahaha...
-219523	?	　…………はあ」	　............Sigh」
+219522	Zance Leazas	呆れ	「ははははは……	「Hahahaha...
+219523	?		　…………はあ」	　............Sigh」
 
-219524	-	ザンスの瞼の端にはうっすらと光るものがあった。	There was a faint glint at the corner of Zance's eyes.
+219524	-		ザンスの瞼の端にはうっすらと光るものがあった。	There was a faint glint at the corner of Zance's eyes.
 
 > end
-219525	-	○○月××日――	○○ Month ×× Day――
+219525	-		○○月××日――	○○ Month ×× Day――
 
-219526	-	△△月□□日――	△△ Month □□ Day――
+219526	-		△△月□□日――	△△ Month □□ Day――
 
-219527	-	××月△△日――	×× Month △△ Day――
+219527	-		××月△△日――	×× Month △△ Day――
 
-219528	-	…………	............
+219528	-		…………	............
 
-219529	-	……	...
+219529	-		……	...
 
-219530	-	リーザスを飛び出して二週間――	Two weeks after leaving Leazas一一
+219530	-		リーザスを飛び出して二週間――	Two weeks after leaving Leazas一一
 
-219531	-	あなたはいくつもの冒険を経て、	After many adventures,
-219532	+	極東の島国、JAPANへ遂に足を踏み入れた。	you finally set foot in the far eastern island nation, JAPAN.
+219531	-		あなたはいくつもの冒険を経て、	After many adventures,
+219532	+		極東の島国、JAPANへ遂に足を踏み入れた。	you finally set foot in the far eastern island nation, JAPAN.

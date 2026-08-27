@@ -11,188 +11,188 @@
 * Arms Arc	アームズ２	Female
 * Shuri Seihajuu Nagasaki	シュリ２	Female
 
-234150	Nagata-kun	「で、試練迷宮ってなんなん、乱義？」	「So, what's the Trial Labyrinth, Rangi?」
+234150	Nagata-kun	基本	「で、試練迷宮ってなんなん、乱義？」	「So, what's the Trial Labyrinth, Rangi?」
 
-234151	-	乱義の言う試練迷宮を目指している間、	While heading to the Trial Labyrinth Rangi mentioned,
-234152	+	長田君が聞いた。	Nagata-kun asked.
+234151	-		乱義の言う試練迷宮を目指している間、	While heading to the Trial Labyrinth Rangi mentioned,
+234152	+		長田君が聞いた。	Nagata-kun asked.
 
-234153	Yamamoto Rangi	「この闘神都市にある迷宮でね、	「It's a labyrinth in this Toushin City,
-234154	+	　闘神大会の開催中には開放して、	　opened during the Toushin Tournament
-234155	+	　選手達の修行場として使用しているらしいよ」	　as a training ground for the contestants.」
+234153	Yamamoto Rangi		「この闘神都市にある迷宮でね、	「It's a labyrinth in this Toushin City,
+234154	+		　闘神大会の開催中には開放して、	　opened during the Toushin Tournament
+234155	+		　選手達の修行場として使用しているらしいよ」	　as a training ground for the contestants.」
 
-234156	Yamamoto Rangi	「かなり階層が深く、最奥まで行けた者は	「It's quite deep, and no one has reached the deepest part yet...」
-234157	+	　未だに一人もいないとか……」	
+234156	Yamamoto Rangi		「かなり階層が深く、最奥まで行けた者は	「It's quite deep, and no one has reached the deepest part yet...」
+234157	+		　未だに一人もいないとか……」	
 
-234158	Yamamoto Rangi	「ああ、この先だね」	「Ah, it's up ahead.」
+234158	Yamamoto Rangi		「ああ、この先だね」	「Ah, it's up ahead.」
 
-234159	Nagata-kun	「って、なんだこりゃ！？」	「Wait, what the heck is this!?」
+234159	Nagata-kun		「って、なんだこりゃ！？」	「Wait, what the heck is this!?」
 
-234160	-	試練迷宮の入り口の前には大量の	In front of the Trial Labyrinth entrance,
-234161	+	見目麗しい女性達がたむろしていた。	a large crowd of beautiful women had gathered.
+234160	-		試練迷宮の入り口の前には大量の	In front of the Trial Labyrinth entrance,
+234161	+		見目麗しい女性達がたむろしていた。	a large crowd of beautiful women had gathered.
 
-234162	Masou Shizuka	「……おそらく、	「...Probably,
-234163	+	　みんなパートナーなんでしょうね」	　they're all partners.」
+234162	Masou Shizuka		「……おそらく、	「...Probably,
+234163	+		　みんなパートナーなんでしょうね」	　they're all partners.」
 
-234164	Nagata-kun	「ってことは中にはこれと同じ数以上の	「That means there are at least as many contestants
-234165	+	　選手達がいるってことかぁ……	　inside...
-234166	+	　ひえええ……」	　Hieee...」
+234164	Nagata-kun		「ってことは中にはこれと同じ数以上の	「That means there are at least as many contestants
+234165	+		　選手達がいるってことかぁ……	　inside...
+234166	+		　ひえええ……」	　Hieee...」
 
-234167	Zance Leazas	「がははははははは、行くぞ！」	「Gahahahahaha, let's go!」
+234167	Zance Leazas	笑い	「がははははははは、行くぞ！」	「Gahahahahaha, let's go!」
 
-234168	Lelikov Helman	「わーーい！　なんか楽しそう！」	「Waaai! Looks fun!」
+234168	Lelikov Helman	きゃはは！	「わーーい！　なんか楽しそう！」	「Waaai! Looks fun!」
 
-234169	Hero Helman	「うう、怖いのは嫌だなぁ……」	「Uuu, I don't like scary things...」
+234169	Hero Helman	基本	「うう、怖いのは嫌だなぁ……」	「Uuu, I don't like scary things...」
 
-234170	Nagata-kun	「う、うっしゃーーー！　行くぜぇ！」	「A-alright! Let's go!」
+234170	Nagata-kun		「う、うっしゃーーー！　行くぜぇ！」	「A-alright! Let's go!」
 
-234171	Nagi su Ragarl	「それじゃあ、乱義、頑張ってね」	「Well then, Rangi, do your best.」
+234171	Nagi su Ragarl		「それじゃあ、乱義、頑張ってね」	「Well then, Rangi, do your best.」
 
-234172	Sushinu the Gandhi	「い、行ってらっしゃい。	「T-take care.
-234173	+	　ザンスちゃん」	　Zance-chan.」
+234172	Sushinu the Gandhi		「い、行ってらっしゃい。	「T-take care.
+234173	+		　ザンスちゃん」	　Zance-chan.」
 
-234174	Reset Kalar	「＜エール＞ちゃん！」	「＜エール＞-chan!」
+234174	Reset Kalar	口開き	「＜エール＞ちゃん！」	「＜エール＞-chan!」
 
-234175	-	リセットに呼ばれ、あなたは振り返る。	Called by Reset, you turn around.
+234175	-		リセットに呼ばれ、あなたは振り返る。	Called by Reset, you turn around.
 
-234176	Reset Kalar	「がんばってね！」	「Do your best!」
+234176	Reset Kalar	笑顔	「がんばってね！」	「Do your best!」
 
-234177	-	にっこりと笑う姉に、	To your smiling big sister,
-234178	+	あなたは頷きを返してから	you nodded back
-234179	+	迷宮の中へ足を踏み入れた。	before stepping into the labyrinth.
+234177	-		にっこりと笑う姉に、	To your smiling big sister,
+234178	+		あなたは頷きを返してから	you nodded back
+234179	+		迷宮の中へ足を踏み入れた。	before stepping into the labyrinth.
 
-234180	-	試練迷宮――	Trial Labyrinth――
+234180	-		試練迷宮――	Trial Labyrinth――
 
-234181	Nagata-kun	「うおっ、中もすごいな」	「Whoa, the inside is amazing too.」
+234181	Nagata-kun	基本	「うおっ、中もすごいな」	「Whoa, the inside is amazing too.」
 
-234182	-	試練迷宮内では腕に自信のありそうな	Inside the Trial Labyrinth, confident fighters
-234183	+	荒くれ者がひしめき合っていた。	were packed tightly together.
+234182	-		試練迷宮内では腕に自信のありそうな	Inside the Trial Labyrinth, confident fighters
+234183	+		荒くれ者がひしめき合っていた。	were packed tightly together.
 
-234184	-	入り口付近にいた参加者に、	The participants near the entrance
-234185	+	あなた達はギロリと睨まれてしまった。	glared sharply at your group.
+234184	-		入り口付近にいた参加者に、	The participants near the entrance
+234185	+		あなた達はギロリと睨まれてしまった。	glared sharply at your group.
 
-234186	Zance Leazas	「くっくっくっ、どいつもこいつも	「Heh heh heh, everyone here
-234187	+	　敵意むき出しって感じだな」	　is full of hostility.」
+234186	Zance Leazas	微笑み	「くっくっくっ、どいつもこいつも	「Heh heh heh, everyone here
+234187	+		　敵意むき出しって感じだな」	　is full of hostility.」
 
-234188	Zance Leazas	「いいねー、こういう空気は嫌いじゃねーぜ」	「Nice, I don't hate this kind of atmosphere.」
+234188	Zance Leazas	笑い	「いいねー、こういう空気は嫌いじゃねーぜ」	「Nice, I don't hate this kind of atmosphere.」
 
-234189	Yamamoto Rangi	「参加者同士の私闘は即失格になるからな、	「Fighting between participants will get you disqualified immediately,
-234190	+	　せいぜい気をつけろよ」	　so be careful.」
+234189	Yamamoto Rangi	説明するよ	「参加者同士の私闘は即失格になるからな、	「Fighting between participants will get you disqualified immediately,
+234190	+		　せいぜい気をつけろよ」	　so be careful.」
 
-234191	Zance Leazas	「……そりゃ俺様に言ってんのか？」	「...You talking to me?」
+234191	Zance Leazas	基本	「……そりゃ俺様に言ってんのか？」	「...You talking to me?」
 
-234192	Yamamoto Rangi	「お前以外に誰がいる」	「Who else would I be talking to?」
+234192	Yamamoto Rangi		「お前以外に誰がいる」	「Who else would I be talking to?」
 
-234193	Zance Leazas	「アアン？　やるか！？」	「Haaah? Wanna go!?」
+234193	Zance Leazas	不満	「アアン？　やるか！？」	「Haaah? Wanna go!?」
 
-234194	Nagata-kun	「二人が即失格になりそうになってる……」	「These two are about to get disqualified immediately...」
+234194	Nagata-kun	基本	「二人が即失格になりそうになってる……」	「These two are about to get disqualified immediately...」
 
-234195	Arms Arc	「ふふふふ……	「Fufufu...
-234196	+	　お前達はいつも賑やかだな」	　You guys are always so lively.」
+234195	Arms Arc		「ふふふふ……	「Fufufu...
+234196	+		　お前達はいつも賑やかだな」	　You guys are always so lively.」
 
-234197	Nagata-kun	「へ？　この声は……」	「Eh? This voice...
+234197	Nagata-kun		「へ？　この声は……」	「Eh? This voice...
 
-234198	Nagata-kun	「あ、アームズさん！」	「Ah, Arms-san!」
+234198	Nagata-kun		「あ、アームズさん！」	「Ah, Arms-san!」
 
-234199	Arms Arc	「ふっ、間に合わないのではないかと	「Fuh, I was worried you wouldn't make it.」
-234200	+	　気を揉んでいたぞ」	
+234199	Arms Arc		「ふっ、間に合わないのではないかと	「Fuh, I was worried you wouldn't make it.」
+234200	+		　気を揉んでいたぞ」	
 
-234201	Arms Arc	「君達もちゃんと参加するようだな。	「Looks like you all properly entered.
-234202	+	　うん、楽しみだな」	　Yeah, I'm looking forward to it.」
+234201	Arms Arc		「君達もちゃんと参加するようだな。	「Looks like you all properly entered.
+234202	+		　うん、楽しみだな」	　Yeah, I'm looking forward to it.」
 
-234203	?	「お、おい、あれ見ろよ……」	「H-hey, look at that...
+234203	?		「お、おい、あれ見ろよ……」	「H-hey, look at that...
 
-234204	?	「ああ……まさかあんな大物まで……」	「Yeah... even someone that big...
+234204	?		「ああ……まさかあんな大物まで……」	「Yeah... even someone that big...
 
-234205	-	周りの参加者達は誰も彼もが	All the surrounding participants
-234206	+	世界的なレアハンターである	were staring at the world-famous rare hunter
-234207	+	アームズ・アークに注目していた。	Arms Arc.
+234205	-		周りの参加者達は誰も彼もが	All the surrounding participants
+234206	+		世界的なレアハンターである	were staring at the world-famous rare hunter
+234207	+		アームズ・アークに注目していた。	Arms Arc.
 
-234208	-	それに気づいているだろうに、	Even though he must have noticed,
-234209	+	アームズの表情は至って平静だった。	Arms remained completely calm.
+234208	-		それに気づいているだろうに、	Even though he must have noticed,
+234209	+		アームズの表情は至って平静だった。	Arms remained completely calm.
 
-234210	Nagata-kun	「うへー、さすがアームズさん。	「Whoa, as expected of Arms-san.
-234211	+	　めっちゃ目立ってるのにあの態度、	　Standing out so much yet acting like that,
-234212	+	　貫禄あるなぁ」	　what presence.」
+234210	Nagata-kun		「うへー、さすがアームズさん。	「Whoa, as expected of Arms-san.
+234211	+		　めっちゃ目立ってるのにあの態度、	　Standing out so much yet acting like that,
+234212	+		　貫禄あるなぁ」	　what presence.」
 
-234213	Arms Arc	「ふっ……	「Fuh...
-234214	+	　お互い、せいぜい全力を尽くすとしよう」	　Let's both give it our all.」
+234213	Arms Arc	ふっ	「ふっ……	「Fuh...
+234214	+		　お互い、せいぜい全力を尽くすとしよう」	　Let's both give it our all.」
 
-234215	Shuri Seihajuu Nagasaki	「あーあー、マイクテス、マイクテス……」	「Testing, testing, mic test...」
+234215	Shuri Seihajuu Nagasaki	基本	「あーあー、マイクテス、マイクテス……」	「Testing, testing, mic test...」
 
-234216	-	そのとき、迷宮内に先程受付で会った	At that moment, Shuri's voice from the reception earlier
-234217	+	シュリの声が響き渡った。	echoed throughout the labyrinth.
+234216	-		そのとき、迷宮内に先程受付で会った	At that moment, Shuri's voice from the reception earlier
+234217	+		シュリの声が響き渡った。	echoed throughout the labyrinth.
 
-234218	Arms Arc	「おっ、始まるようだぞ」	「Oh, it looks like it's starting.」
+234218	Arms Arc		「おっ、始まるようだぞ」	「Oh, it looks like it's starting.」
 
-234219	Shuri Seihajuu Nagasaki	「…………あー、こほんこほん」	「......Ahem, ahem.」
+234219	Shuri Seihajuu Nagasaki	笑み	「…………あー、こほんこほん」	「......Ahem, ahem.」
 
-234220	Shuri Seihajuu Nagasaki	「はーーーーい、それでは、	「Yeees, now then,
-234221	+	　全員が揃ったようですので、	　it seems everyone is here,
-234222	+	　予選を開始したいと思いまーーす！」	　so let's begin the preliminaries!」
+234220	Shuri Seihajuu Nagasaki	おめでとう	「はーーーーい、それでは、	「Yeees, now then,
+234221	+		　全員が揃ったようですので、	　it seems everyone is here,
+234222	+		　予選を開始したいと思いまーーす！」	　so let's begin the preliminaries!」
 
-234223	Shuri Seihajuu Nagasaki	「今、この場にはなんとなんと、	「Right now, in this very place,
-234224	+	　闘神大会に出ようという勇気ある方が、	　there are a courageous 92 people
-234225	+	　92名もいらっしゃいます！」	　who want to enter the Toushin Tournament!」
+234223	Shuri Seihajuu Nagasaki	笑み	「今、この場にはなんとなんと、	「Right now, in this very place,
+234224	+		　闘神大会に出ようという勇気ある方が、	　there are a courageous 92 people
+234225	+		　92名もいらっしゃいます！」	　who want to enter the Toushin Tournament!」
 
-234226	Shuri Seihajuu Nagasaki	「ですが、全員が参加出来るわけではありません。	「However, not everyone can participate.
-234227	+	　92名の内、本戦出場できるのはたったの32名」	　Out of 92, only 32 can advance to the main tournament.」
+234226	Shuri Seihajuu Nagasaki		「ですが、全員が参加出来るわけではありません。	「However, not everyone can participate.
+234227	+		　92名の内、本戦出場できるのはたったの32名」	　Out of 92, only 32 can advance to the main tournament.」
 
-234228	Shuri Seihajuu Nagasaki	「皆様には今から予選を受けて頂きます」	「You will now take the preliminaries.」
+234228	Shuri Seihajuu Nagasaki		「皆様には今から予選を受けて頂きます」	「You will now take the preliminaries.」
 
-234229	Shuri Seihajuu Nagasaki	「予選の内容は簡単！	「The preliminaries are simple!
-234230	+	　この試練迷宮1階の奥にある、	　Go to the back of the first floor of this Trial Labyrinth
-234231	+	　勇者の紋章を取ってくることです！」	　and retrieve the Hero's Emblem!」
+234229	Shuri Seihajuu Nagasaki	笑顔	「予選の内容は簡単！	「The preliminaries are simple!
+234230	+		　この試練迷宮1階の奥にある、	　Go to the back of the first floor of this Trial Labyrinth
+234231	+		　勇者の紋章を取ってくることです！」	　and retrieve the Hero's Emblem!」
 
-234232	Shuri Seihajuu Nagasaki	「32名に到達したらそこで打ち切りの	「It's first come first served until 32 people succeed,
-234233	+	　早い者勝ちですので、急いだ方が良いですよ」	　so you'd better hurry.」
+234232	Shuri Seihajuu Nagasaki		「32名に到達したらそこで打ち切りの	「It's first come first served until 32 people succeed,
+234233	+		　早い者勝ちですので、急いだ方が良いですよ」	　so you'd better hurry.」
 
-234234	Shuri Seihajuu Nagasaki	「ただーーし！	「However!
-234235	+	　当然、この迷宮内には多数の危険な魔物が	　Of course, many dangerous monsters
-234236	+	　いたる所に潜んでいます！」	　are lurking all over this labyrinth!」
+234234	Shuri Seihajuu Nagasaki	笑み	「ただーーし！	「However!
+234235	+		　当然、この迷宮内には多数の危険な魔物が	　Of course, many dangerous monsters
+234236	+		　いたる所に潜んでいます！」	　are lurking all over this labyrinth!」
 
-234237	Shuri Seihajuu Nagasaki	「命の危機を感じたら	「If you feel your life is in danger,
-234238	+	　すぐに逃げるのがお勧めです」	　I recommend running away immediately.」
+234237	Shuri Seihajuu Nagasaki		「命の危機を感じたら	「If you feel your life is in danger,
+234238	+		　すぐに逃げるのがお勧めです」	　I recommend running away immediately.」
 
-234239	Shuri Seihajuu Nagasaki	「ああ、それとこの中でも、	「Also, fighting between participants
-234240	+	　選手同士の私闘は厳禁。	　is strictly forbidden.
-234241	+	　発覚しますと失格ですのでお気をつけを」	　If caught, you'll be disqualified, so beware.」
+234239	Shuri Seihajuu Nagasaki		「ああ、それとこの中でも、	「Also, fighting between participants
+234240	+		　選手同士の私闘は厳禁。	　is strictly forbidden.
+234241	+		　発覚しますと失格ですのでお気をつけを」	　If caught, you'll be disqualified, so beware.」
 
-234242	-	そこでシュリはにっこりと笑った。	Shuri smiled brightly there.
+234242	-		そこでシュリはにっこりと笑った。	Shuri smiled brightly there.
 
-234243	Shuri Seihajuu Nagasaki	「さてさて、それでは……	「Now then...
-234244	+	　そろそろ我慢が出来ない方も	　Some of you seem unable to wait any longer,
-234245	+	　いらっしゃるようですので始めましょっか」	　so shall we begin?」
+234243	Shuri Seihajuu Nagasaki	笑顔	「さてさて、それでは……	「Now then...
+234244	+		　そろそろ我慢が出来ない方も	　Some of you seem unable to wait any longer,
+234245	+		　いらっしゃるようですので始めましょっか」	　so shall we begin?」
 
-234246	Shuri Seihajuu Nagasaki	「皆様、位置について、位置について……	「Everyone, get ready, get ready...
-234247	+	　フライングはなしですよー」	　No false starts, okay?」
+234246	Shuri Seihajuu Nagasaki		「皆様、位置について、位置について……	「Everyone, get ready, get ready...
+234247	+		　フライングはなしですよー」	　No false starts, okay?」
 
-234248	Lelikov Helman	「わくわく、わくわく……」	「So excited, so excited...」
+234248	Lelikov Helman	きゃはは！	「わくわく、わくわく……」	「So excited, so excited...」
 
-234249	Hero Helman	「つまりかけっこってことだよね。	「So it's basically a race.
-234250	+	　へへ、こういうのならオイラ、大好きだよ」	　Hehe, I love this kind of thing.」
+234249	Hero Helman	基本	「つまりかけっこってことだよね。	「So it's basically a race.
+234250	+		　へへ、こういうのならオイラ、大好きだよ」	　Hehe, I love this kind of thing.」
 
-234251	Zance Leazas	「んだよ、ここで32人になるまで	「What the hell, why not just kill each other
-234252	+	　殺し合えばいいだろうに」	　until only 32 remain?」
+234251	Zance Leazas		「んだよ、ここで32人になるまで	「What the hell, why not just kill each other
+234252	+		　殺し合えばいいだろうに」	　until only 32 remain?」
 
-234253	Arms Arc	「ふっ、そう逸るな。	「Fuh, don't be so impatient.
-234254	+	　戦う機会はこれからいくらでも来る」	　There will be plenty of chances to fight later.」
+234253	Arms Arc		「ふっ、そう逸るな。	「Fuh, don't be so impatient.
+234254	+		　戦う機会はこれからいくらでも来る」	　There will be plenty of chances to fight later.」
 
-234255	Arms Arc	「＜エール＞、お前の実力、	「＜エール＞, I'll get to see
-234256	+	　わずかだろうが見せてもらうぞ」	　a little of your true strength.」
+234255	Arms Arc		「＜エール＞、お前の実力、	「＜エール＞, I'll get to see
+234256	+		　わずかだろうが見せてもらうぞ」	　a little of your true strength.」
 
-234257	-	アームズはあなたの顔をジッと見つめてから、	Arms stared intently at your face,
-234258	+	ふっと笑った。	then smiled faintly.
+234257	-		アームズはあなたの顔をジッと見つめてから、	Arms stared intently at your face,
+234258	+		ふっと笑った。	then smiled faintly.
 
-234259	Arms Arc	「では、また後でな」	「See you later.」
+234259	Arms Arc	ふっ	「では、また後でな」	「See you later.」
 
-234260	-	アームズは選手達の群れの中に消えていった。	Arms disappeared into the crowd of contestants.
+234260	-		アームズは選手達の群れの中に消えていった。	Arms disappeared into the crowd of contestants.
 
-234261	Shuri Seihajuu Nagasaki	「それでは……」	「Now then...」
+234261	Shuri Seihajuu Nagasaki	真剣	「それでは……」	「Now then...」
 
-234262	Shuri Seihajuu Nagasaki	「よーーーーーーーーーい……」	「Reaaaady......」
+234262	Shuri Seihajuu Nagasaki		「よーーーーーーーーーい……」	「Reaaaady......」
 
-234263	Nagata-kun	「よっしゃーっ！　やってやろうぜ、＜エール＞！」	「Alright! Let's do this, ＜エール＞!」
+234263	Nagata-kun	基本	「よっしゃーっ！　やってやろうぜ、＜エール＞！」	「Alright! Let's do this, ＜エール＞!」
 
-234264	Shuri Seihajuu Nagasaki	「どんっっっっ！」	「Go!」
+234264	Shuri Seihajuu Nagasaki	笑顔	「どんっっっっ！」	「Go!」
 
-234265	-	あなたは迷宮の奥へ向けて駆けだした。	You dashed deep into the labyrinth.
+234265	-		あなたは迷宮の奥へ向けて駆けだした。	You dashed deep into the labyrinth.

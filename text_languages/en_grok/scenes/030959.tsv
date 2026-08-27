@@ -6,87 +6,87 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Galtia	ガルティア	Male
 
-43052	Rance	「そうだな、今は時間が欲しい。	「Yeah, we need more time right now.
-43053	+	　奴らに食い物を恵んでやって時間を稼ぐぞ」	　Let's buy time by giving those guys some food.」
+43052	Rance	真剣	「そうだな、今は時間が欲しい。	「Yeah, we need more time right now.
+43053	+		　奴らに食い物を恵んでやって時間を稼ぐぞ」	　Let's buy time by giving those guys some food.」
 
-43054	Uspira Shintou	「それは……でも、今は…………」	「But... right now...」
+43054	Uspira Shintou	基本	「それは……でも、今は…………」	「But... right now...」
 
-43055	Saias Crown	「………………	「............
-43056	?	ま、いいんじゃないか。	Well, it's not a bad idea.
-43057	+	　それでいこう」	　Let's go with that.」
+43055	Saias Crown		「………………	「............
+43056	?		ま、いいんじゃないか。	Well, it's not a bad idea.
+43057	+		　それでいこう」	　Let's go with that.」
 
-43058	Uspira Shintou	「サイアス……！」	「Saias...!」
+43058	Uspira Shintou		「サイアス……！」	「Saias...!」
 
-43059	Saias Crown	「どのみち、ランスに賭けるしかない。	「Either way, we have no choice but to bet on Rance.
-43060	+	　価値のあるやせ我慢なら、悪くはないさ」	　A little stubbornness with value isn't bad.」
+43059	Saias Crown		「どのみち、ランスに賭けるしかない。	「Either way, we have no choice but to bet on Rance.
+43060	+		　価値のあるやせ我慢なら、悪くはないさ」	　A little stubbornness with value isn't bad.」
 
-43061	Uspira Shintou	「………………っ」	「............!」
+43061	Uspira Shintou	怒り	「………………っ」	「............!」
 
-43062	Rance	「よし決まりだ。	「Alright, it's decided.
-43063	+	　おい、魔物に伝えろ、食い物持ってけとな」	　Hey, tell the monsters they can take the food.」
+43062	Rance	基本	「よし決まりだ。	「Alright, it's decided.
+43063	+		　おい、魔物に伝えろ、食い物持ってけとな」	　Hey, tell the monsters they can take the food.」
 
-43064	Zeth Mage Soldier	「は、はいっ……」	「Y-Yes...」
+43064	Zeth Mage Soldier		「は、はいっ……」	「Y-Yes...」
 
-43065	-	食料の明け渡しが始まった。	The handover of food supplies began.
+43065	-		食料の明け渡しが始まった。	The handover of food supplies began.
 
-43066	-	軍隊の糧食はもちろん、兵士が個人で持っている	Not only the army's rations, but even the small personal snacks
-43067	+	ささいな食べ物まで、全て徹底的に没収された。	the soldiers carried were thoroughly confiscated.
+43066	-		軍隊の糧食はもちろん、兵士が個人で持っている	Not only the army's rations, but even the small personal snacks
+43067	+		ささいな食べ物まで、全て徹底的に没収された。	the soldiers carried were thoroughly confiscated.
 
-43068	-	既に食糧不足に陥っているゼス兵が	Zeth soldiers, already suffering from food shortages,
-43069	+	煮えたぎるような視線を送る中、	watched with burning glares
-43070	+	魔物兵たちは淡々と食料を運び込んでいく。	as the monster soldiers calmly carried the food away.
+43068	-		既に食糧不足に陥っているゼス兵が	Zeth soldiers, already suffering from food shortages,
+43069	+		煮えたぎるような視線を送る中、	watched with burning glares
+43070	+		魔物兵たちは淡々と食料を運び込んでいく。	as the monster soldiers calmly carried the food away.
 
-43071	Green Monster Soldier	「あっ、こいつ！」	「Ah, this guy!」
+43071	Green Monster Soldier		「あっ、こいつ！」	「Ah, this guy!」
 
-43072	?	「………………！」	「............!」
+43072	?		「………………！」	「............!」
 
-43073	-	そのうちの一箇所で、騒ぎが起きた。	A commotion broke out in one spot.
-43074	+	没収されていく食料を、	A young boy soldier had eaten some of the food
-43075	+	ある少年兵が奪われる前にと食べてしまったのだ。	before it could be taken away.
+43073	-		そのうちの一箇所で、騒ぎが起きた。	A commotion broke out in one spot.
+43074	+		没収されていく食料を、	A young boy soldier had eaten some of the food
+43075	+		ある少年兵が奪われる前にと食べてしまったのだ。	before it could be taken away.
 
-43076	Green Monster Soldier	「貴様！　それはガルティア様への献上品だぞ！」	「You bastard! That's an offering for Lord Galtia!」
+43076	Green Monster Soldier		「貴様！　それはガルティア様への献上品だぞ！」	「You bastard! That's an offering for Lord Galtia!」
 
-43077	?	「くそっ……むぐもぐ、もぐっ……！	「Damn it... munch munch...!」
-43078	+	　こ、これは、妹が作ってくれた干しプリンなんだ！	　T-This is dried pudding my little sister made for me!
-43079	+	　魔人なんかに…………！」	　I won't let a Fiend have it...!」
+43077	?		「くそっ……むぐもぐ、もぐっ……！	「Damn it... munch munch...!」
+43078	+		　こ、これは、妹が作ってくれた干しプリンなんだ！	　T-This is dried pudding my little sister made for me!
+43079	+		　魔人なんかに…………！」	　I won't let a Fiend have it...!」
 
-43080	Green Monster Soldier	「ならばその腸-ﾊﾗﾜﾀ-、引きずり出して……！」	「Then we'll rip those guts out...!」
+43080	Green Monster Soldier		「ならばその腸-ﾊﾗﾜﾀ-、引きずり出して……！」	「Then we'll rip those guts out...!」
 
-43081	Galtia	「やめとけ」	「Stop it.」
+43081	Galtia	基本使徒なし	「やめとけ」	「Stop it.」
 
-43082	Green Monster Soldier	「はっ……ガ、ガルティア様……」	「Y-Yes... L-Lord Galtia...」
+43082	Green Monster Soldier	基本	「はっ……ガ、ガルティア様……」	「Y-Yes... L-Lord Galtia...」
 
-43083	Galtia	「………………」	「............」
+43083	Galtia	基本使徒なし	「………………」	「............」
 
-43084	?	「………………」	「............」
+43084	?		「………………」	「............」
 
-43085	-	ガルティアが、少年兵を見る。	Galtia looked at the boy soldier.
-43086	+	少年兵はきつくにらみ返すが……	The boy glared back fiercely, but...
-43087	+	手足の震えは、隠しようもなかった。	his trembling arms and legs were impossible to hide.
+43085	-		ガルティアが、少年兵を見る。	Galtia looked at the boy soldier.
+43086	+		少年兵はきつくにらみ返すが……	The boy glared back fiercely, but...
+43087	+		手足の震えは、隠しようもなかった。	his trembling arms and legs were impossible to hide.
 
-43088	Galtia	「おい小僧。飯が食いたきゃ魔軍に来るか？」	「Hey kid. If you want to eat, want to join the Monster Army?」
+43088	Galtia		「おい小僧。飯が食いたきゃ魔軍に来るか？」	「Hey kid. If you want to eat, want to join the Monster Army?」
 
-43089	?	「い……いら、要らない……！」	「N-No... I don't want to...!」
+43089	?		「い……いら、要らない……！」	「N-No... I don't want to...!」
 
-43090	Galtia	「へっ。そうか」	「Heh. I see.」
+43090	Galtia		「へっ。そうか」	「Heh. I see.」
 
-43091	-	軽く言って、ガルティアは踵を返した。	Galtia said lightly and turned on his heel.
+43091	-		軽く言って、ガルティアは踵を返した。	Galtia said lightly and turned on his heel.
 
-43092	Green Monster Soldier	「その……よろしいのですか」	「Is... that alright?」
+43092	Green Monster Soldier	基本	「その……よろしいのですか」	「Is... that alright?」
 
-43093	Galtia	「いいんだよ。生を取ったんだから、殺しはナシだ。	「It's fine. Since he took the food, no killing.
-43094	+	　どっちみち、食料が残らなきゃ目的は果たしてる」	　Either way, our goal is achieved if they have no food left.」
+43093	Galtia	基本使徒なし	「いいんだよ。生を取ったんだから、殺しはナシだ。	「It's fine. Since he took the food, no killing.
+43094	+		　どっちみち、食料が残らなきゃ目的は果たしてる」	　Either way, our goal is achieved if they have no food left.」
 
-43095	Green Monster Soldier	「はあ…………そうですか」	「I see...」
+43095	Green Monster Soldier	基本	「はあ…………そうですか」	「I see...」
 
-43096	Galtia	「……それに、その干しプリンは	「...Besides, that dried pudding
-43097	+	　美味しく食えなさそうだしな」	　didn't look very tasty anyway.」
+43096	Galtia	基本使徒なし	「……それに、その干しプリンは	「...Besides, that dried pudding
+43097	+		　美味しく食えなさそうだしな」	　didn't look very tasty anyway.」
 
-43098	-	そのまま、振り返るでもなく	Without even looking back,
-43099	+	ガルティアは去っていく。	Galtia walked away.
+43098	-		そのまま、振り返るでもなく	Without even looking back,
+43099	+		ガルティアは去っていく。	Galtia walked away.
 
-43100	Green Monster Soldier	「……ガルティア様、嫌いな物あったのか……」	「...Did Lord Galtia dislike something...?」
+43100	Green Monster Soldier	基本	「……ガルティア様、嫌いな物あったのか……」	「...Did Lord Galtia dislike something...?」
 
-43101	-	そのようなことがありつつも、	Despite that incident,
-43102	+	ゼス軍への食料の接収は終わり、	the food requisition from the Zeth army ended,
-43103	+	魔軍は巨大ホフホフへと引き上げていった。	and the Monster Army withdrew to the giant Hoffhoff.
+43101	-		そのようなことがありつつも、	Despite that incident,
+43102	+		ゼス軍への食料の接収は終わり、	the food requisition from the Zeth army ended,
+43103	+		魔軍は巨大ホフホフへと引き上げていった。	and the Monster Army withdrew to the giant Hoffhoff.

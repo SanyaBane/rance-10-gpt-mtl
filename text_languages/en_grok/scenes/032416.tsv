@@ -7,121 +7,121 @@
 * Pastel Kalar	パステル	Female
 * Reset Kalar	リセット	Female
 
-148019	Rance	「あれ？」	「Huh?」
+148019	Rance	基本	「あれ？」	「Huh?」
 
-148020	Sill Plain	「？　ランス様、どうかしましたか？」	「？ Rance-sama, is something wrong?」
+148020	Sill Plain	きょとん	「？　ランス様、どうかしましたか？」	「？ Rance-sama, is something wrong?」
 
-148021	Satella	「……ランスも気づいたか。	「...You noticed it too, Rance.
-148022	+	　サテラもずっと違和感があった」	　I've felt something off the whole time.」
+148021	Satella	不安	「……ランスも気づいたか。	「...You noticed it too, Rance.
+148022	+		　サテラもずっと違和感があった」	　I've felt something off the whole time.」
 
-148023	Satella	「さっきから同じ所をグルグル回ってる気が……」	「It feels like we've been looping around the same area...」
+148023	Satella		「さっきから同じ所をグルグル回ってる気が……」	「It feels like we've been looping around the same area...」
 
-148024	Sill Plain	「あっ、そういえば……」	「Ah, now that you mention it...
+148024	Sill Plain	慌て	「あっ、そういえば……」	「Ah, now that you mention it...
 
-148025	Rance	「城全体の大きさから考えても	「Considering the size of the whole castle,
-148026	+	　露骨に長すぎるしな……	　this corridor is obviously way too long...
-148027	+	　なーんか妙だぞ……」	　Something's definitely weird...」
+148025	Rance	だる顔	「城全体の大きさから考えても	「Considering the size of the whole castle,
+148026	+		　露骨に長すぎるしな……	　this corridor is obviously way too long...
+148027	+		　なーんか妙だぞ……」	　Something's definitely weird...」
 
-148028	Rance	「ミラクル！　クルックー！	「Miracle! Crook!
-148029	+	　お前ら、なんか分からないのか？」	　Don't you two know anything?」
+148028	Rance	怒り	「ミラクル！　クルックー！	「Miracle! Crook!
+148029	+		　お前ら、なんか分からないのか？」	　Don't you two know anything?」
 
-148030	Crook Mofus	「……私にはなんとも。	「...Nothing on my end.
-148031	+	　神魔法のたぐいではないようです」	　It doesn't seem like divine magic.」
+148030	Crook Mofus	基本	「……私にはなんとも。	「...Nothing on my end.
+148031	+		　神魔法のたぐいではないようです」	　It doesn't seem like divine magic.」
 
-148032	Rance	「なら魔法か。	「Then it's magic.
-148033	+	　おい、ミラクル」	　Hey, Miracle.」
+148032	Rance		「なら魔法か。	「Then it's magic.
+148033	+		　おい、ミラクル」	　Hey, Miracle.」
 
-148034	Miracle Tor	「ふっふっふっ……	「Fufufu...
-148035	+	　聞いて驚け、なんと余にも分からん」	　Prepare to be amazed, even I don't know.」
+148034	Miracle Tor	嘲笑	「ふっふっふっ……	「Fufufu...
+148035	+		　聞いて驚け、なんと余にも分からん」	　Prepare to be amazed, even I don't know.」
 
-148036	Rance	「なら偉そうにすんな！	「Then don't act so high and mighty!
-148037	+	　くそ、じゃあ誰にも分からんってことか！」	　Damn, so no one knows!」
+148036	Rance	基本	「なら偉そうにすんな！	「Then don't act so high and mighty!
+148037	+		　くそ、じゃあ誰にも分からんってことか！」	　Damn, so no one knows!」
 
-148038	Miracle Tor	「余にも分からん、が……	「Even I don't know, but...
-148039	+	　それが分かる者なら分かる」	　There is someone who would know.」
+148038	Miracle Tor		「余にも分からん、が……	「Even I don't know, but...
+148039	+		　それが分かる者なら分かる」	　There is someone who would know.」
 
-148040	Miracle Tor	「パステル・カラー、こちらに」	「Pastel Kalar, come here.」
+148040	Miracle Tor		「パステル・カラー、こちらに」	「Pastel Kalar, come here.」
 
-148041	Pastel Kalar	「くっくっくっ……」	「Hehehe...」
+148041	Pastel Kalar	ウハハハハ！	「くっくっくっ……」	「Hehehe...」
 
-148042	Rance	「む……」	「Hm...」
+148042	Rance	基本	「む……」	「Hm...」
 
-148043	Pastel Kalar	「はぁーっはっはっ！	「Haaah hah hah!
-148044	+	　どうにかして欲しそうじゃのう？　んん？」	　You look like you desperately need my help, don't you? Hmm?」
+148043	Pastel Kalar	おほほほほ	「はぁーっはっはっ！	「Haaah hah hah!
+148044	+		　どうにかして欲しそうじゃのう？　んん？」	　You look like you desperately need my help, don't you? Hmm?」
 
-148045	Rance	「お前がそんだけ偉そうにしてるってことは……」	「The fact you're acting so smug means...
+148045	Rance	基本	「お前がそんだけ偉そうにしてるってことは……」	「The fact you're acting so smug means...
 
-148046	Pastel Kalar	「うむ、これは呪いのたぐい。	「Indeed, this is a type of curse.
-148047	+	　カラーの森と同じように人を迷わせる	　Just like the Kalar Forest, it's a trap that makes people lose their way.
-148048	+	　仕掛けが施されておるわ」	　That's what's been set up here.」
+148046	Pastel Kalar	ウハハハハ！	「うむ、これは呪いのたぐい。	「Indeed, this is a type of curse.
+148047	+		　カラーの森と同じように人を迷わせる	　Just like the Kalar Forest, it's a trap that makes people lose their way.
+148048	+		　仕掛けが施されておるわ」	　That's what's been set up here.」
 
-148049	Pastel Kalar	「今この中でこれをどうにか出来るのは……	「The only one here who can deal with this right now...
-148050	+	　くくく、呪いのエキスパートである	　Kukuku, is the curse expert,
-148051	+	　妾だけのようじゃのう」	　which happens to be me.」
+148049	Pastel Kalar		「今この中でこれをどうにか出来るのは……	「The only one here who can deal with this right now...
+148050	+		　くくく、呪いのエキスパートである	　Kukuku, is the curse expert,
+148051	+		　妾だけのようじゃのう」	　which happens to be me.」
 
-148052	Rance	「おう、なら早くどうにかしろ」	「Yeah, then hurry up and fix it.」
+148052	Rance	基本	「おう、なら早くどうにかしろ」	「Yeah, then hurry up and fix it.」
 
-148053	Pastel Kalar	「三べん回ってワンと鳴け！」	「Spin around three times and bark like a dog!」
+148053	Pastel Kalar		「三べん回ってワンと鳴け！」	「Spin around three times and bark like a dog!」
 
-148054	Rance	「は？」	「Huh?」
+148054	Rance		「は？」	「Huh?」
 
-148055	Pastel Kalar	「そうしたら、言うことを聞いてやっても良いが……	「If you do that, I might listen to you...
-148056	+	　くくく、さあどうする？　ん？」	　Kukuku, so what will you do? Hmm?」
+148055	Pastel Kalar	ウハハハハ！	「そうしたら、言うことを聞いてやっても良いが……	「If you do that, I might listen to you...
+148056	+		　くくく、さあどうする？　ん？」	　Kukuku, so what will you do? Hmm?」
 
-148057	Rance	「ならいいや」	「Then forget it.」
+148057	Rance	基本	「ならいいや」	「Then forget it.」
 
-148058	Pastel Kalar	「はっ！？」	「Ha!?」
+148058	Pastel Kalar		「はっ！？」	「Ha!?」
 
-148059	Rance	「俺達だけでどうにかするぞー。	「We'll handle it ourselves.
-148060	+	　とにかく前に進んでみるか」	　Let's just keep moving forward.」
+148059	Rance		「俺達だけでどうにかするぞー。	「We'll handle it ourselves.
+148060	+		　とにかく前に進んでみるか」	　Let's just keep moving forward.」
 
-148061	Pastel Kalar	「ぐぬぬぬ……！」	「Gnunu...!」
+148061	Pastel Kalar	ぐぬぬ	「ぐぬぬぬ……！」	「Gnunu...!」
 
-148062	Reset Kalar	「おかーさん……」	「Mommy...」
+148062	Reset Kalar	真剣	「おかーさん……」	「Mommy...」
 
-148063	Pastel Kalar	「む……」	「Mu...」
+148063	Pastel Kalar	疲れた	「む……」	「Mu...」
 
-148064	-	リセットがパステルの手を	Reset tugged on Pastel's hand,
-148065	+	クイクイと引っ張っていた。	pulling it insistently.
+148064	-		リセットがパステルの手を	Reset tugged on Pastel's hand,
+148065	+		クイクイと引っ張っていた。	pulling it insistently.
 
-148066	Reset Kalar	「みんな……こまってる……」	「Everyone... is in trouble...」
+148066	Reset Kalar	真剣	「みんな……こまってる……」	「Everyone... is in trouble...」
 
-148067	Pastel Kalar	「むむむむむ……」	「Mumumumu...」
+148067	Pastel Kalar	ぐぬぬ	「むむむむむ……」	「Mumumumu...」
 
-148068	-	パステルが手を振るった途端、	The moment Pastel waved her hand,
-148069	+	一瞬だけ景色がブレた。	the scenery blurred for a moment.
+148068	-		パステルが手を振るった途端、	The moment Pastel waved her hand,
+148069	+		一瞬だけ景色がブレた。	the scenery blurred for a moment.
 
-148070	Rance	「お？」	「Oh?」
+148070	Rance	基本	「お？」	「Oh?」
 
-148071	Pastel Kalar	「ふん、これは貸しにしておくからの」	「Hmph, consider this a favor.」
+148071	Pastel Kalar	片手間モルルン	「ふん、これは貸しにしておくからの」	「Hmph, consider this a favor.」
 
-148072	Rance	「おっ。	「Oh.
-148073	+	　ってことは」	　So that means」
+148072	Rance	基本	「おっ。	「Oh.
+148073	+		　ってことは」	　So that means」
 
-148074	Pastel Kalar	「勘違いするなよ。	「Don't get the wrong idea.
-148075	+	　まだ完全に呪いを解除したわけではない」	　I haven't fully dispelled the curse yet.」
+148074	Pastel Kalar		「勘違いするなよ。	「Don't get the wrong idea.
+148075	+		　まだ完全に呪いを解除したわけではない」	　I haven't fully dispelled the curse yet.」
 
-148076	Pastel Kalar	「かなり高度な仕掛けじゃ。	「It's a rather advanced setup.
-148077	+	　複数ある仕掛けを破壊せねば、	　We need to destroy multiple devices
-148078	+	　完全には呪いは解かれん」	　before the curse is completely lifted.」
+148076	Pastel Kalar		「かなり高度な仕掛けじゃ。	「It's a rather advanced setup.
+148077	+		　複数ある仕掛けを破壊せねば、	　We need to destroy multiple devices
+148078	+		　完全には呪いは解かれん」	　before the curse is completely lifted.」
 
-148079	Rance	「とにかく移動して仕掛けを探せってわけか。	「So we just need to move around and find the devices.
-148080	+	　ふん、まあいいだろう」	　Hmph, fine.」
+148079	Rance		「とにかく移動して仕掛けを探せってわけか。	「So we just need to move around and find the devices.
+148080	+		　ふん、まあいいだろう」	　Hmph, fine.」
 
-148081	Pastel Kalar	「ふんっ」	「Hmph!」
+148081	Pastel Kalar		「ふんっ」	「Hmph!」
 
-148082	Rance	「しかし、途端に素直になるとは……	「But you suddenly became so obedient...
-148083	+	　ふふふ、やはりパステルは俺様に惚れてるようだ」	　Fufufu, as I thought, Pastel is totally in love with me.」
+148082	Rance	エロ顔	「しかし、途端に素直になるとは……	「But you suddenly became so obedient...
+148083	+		　ふふふ、やはりパステルは俺様に惚れてるようだ」	　Fufufu, as I thought, Pastel is totally in love with me.」
 
-148084	Pastel Kalar	「はっはっはっ。	「Hah hah hah.
-148085	+	　笑えん冗談じゃな、ええ、色情狂いが」	　What a laughable joke, you perverted sex maniac.」
+148084	Pastel Kalar	基本	「はっはっはっ。	「Hah hah hah.
+148085	+		　笑えん冗談じゃな、ええ、色情狂いが」	　What a laughable joke, you perverted sex maniac.」
 
-148086	Rance	「なんだ、蹴ろうとすんな。	「Hey, don't try to kick me.
-148087	+	　パンツ見えるぞ」	　I can see your panties.」
+148086	Rance		「なんだ、蹴ろうとすんな。	「Hey, don't try to kick me.
+148087	+		　パンツ見えるぞ」	　I can see your panties.」
 
-148088	Pastel Kalar	「死ね！」	「Die!」
+148088	Pastel Kalar		「死ね！」	「Die!」
 
-148089	Reset Kalar	「んふふ、おとーさんとおかーさん、	「Nfufu, Daddy and Mommy
-148090	+	　とってもなかよし」	　are getting along so well.」
+148089	Reset Kalar	笑顔	「んふふ、おとーさんとおかーさん、	「Nfufu, Daddy and Mommy
+148090	+		　とってもなかよし」	　are getting along so well.」
 
-148091	Sill Plain	「そうかなぁ？」	「Are they?」
+148091	Sill Plain	苦笑	「そうかなぁ？」	「Are they?」

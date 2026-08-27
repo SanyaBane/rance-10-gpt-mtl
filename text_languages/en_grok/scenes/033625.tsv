@@ -2,22 +2,22 @@
 * Alice	アリス	Female
 * Hanny	汎用ハニー	Male
 
-251255	Alice	「今回の冒険はクエスト単位でひと区切りとなっていて 	「This adventure is divided into quest units 
-251256	+	　このようなフローチャートで作られています。」	　and structured like this flowchart.」
+251255	Alice	基本	「今回の冒険はクエスト単位でひと区切りとなっていて 	「This adventure is divided into quest units 
+251256	+		　このようなフローチャートで作られています。」	　and structured like this flowchart.」
 
-251257	Alice	「位置が繋がっている地図という訳で無く、	「It's not a connected map,
-251258	+	　イベントの時系列図なのです」	　but a timeline of events.」
+251257	Alice		「位置が繋がっている地図という訳で無く、	「It's not a connected map,
+251258	+		　イベントの時系列図なのです」	　but a timeline of events.」
 
-251259	Alice	「箱のように表示されているのは、＜次の出来事＞です。	「The box-like displays are <Next Event>.
-251260	+	　何歩先、何メートル先、何分後、何日後、かは分かりませんが、	　We don't know how many steps, meters, minutes, or days ahead,
-251261	+	　進んだ先にある＜次の出来事＞となっています。」	　but it's the next event ahead.」
+251259	Alice		「箱のように表示されているのは、＜次の出来事＞です。	「The box-like displays are <Next Event>.
+251260	+		　何歩先、何メートル先、何分後、何日後、かは分かりませんが、	　We don't know how many steps, meters, minutes, or days ahead,
+251261	+		　進んだ先にある＜次の出来事＞となっています。」	　but it's the next event ahead.」
 
-251262	Alice	「こういう＜次の出来事＞の連続して集まりが	「Chains of these <Next Events>
-251263	+	　大きな物語＜クエスト＞となります。」	　form a large story <Quest>.」
+251262	Alice		「こういう＜次の出来事＞の連続して集まりが	「Chains of these <Next Events>
+251263	+		　大きな物語＜クエスト＞となります。」	　form a large story <Quest>.」
 
-251264	Alice	「＜次の出来事＞では、いろいろなイベントが発生します。	「Various events happen in <Next Event>.
-251265	+	　戦闘の場合もあります、何かいい物を拾う時や、	　Battles, finding good items,
-251266	+	　回復出来る場所とかもあります。」	　or healing spots.」
+251264	Alice		「＜次の出来事＞では、いろいろなイベントが発生します。	「Various events happen in <Next Event>.
+251265	+		　戦闘の場合もあります、何かいい物を拾う時や、	　Battles, finding good items,
+251266	+		　回復出来る場所とかもあります。」	　or healing spots.」
 
-251267	Hanny	「はにほー	「Hanihoo
-251268	+	　説明おわり」	　Explanation end.」
+251267	Hanny		「はにほー	「Hanihoo
+251268	+		　説明おわり」	　Explanation end.」

@@ -6,116 +6,116 @@
 * Crane	クレイン	Female
 * Alkanese Rize	アルカネーゼ	Female
 
-158999	Sill Plain	「あのぅ、ランス様、	「Um, Rance-sama,
-159000	+	　そろそろどうしてこちらに来たのか、	　it's about time you told me why we came here,
-159001	+	　教えて頂いてもいいでしょうか？」	　could you please explain?」
+158999	Sill Plain	考え中	「あのぅ、ランス様、	「Um, Rance-sama,
+159000	+		　そろそろどうしてこちらに来たのか、	　it's about time you told me why we came here,
+159001	+		　教えて頂いてもいいでしょうか？」	　could you please explain?」
 
-159002	Rance	「ふふん、まあ良かろう……」	「Heh, very well...」
+159002	Rance	基本	「ふふん、まあ良かろう……」	「Heh, very well...」
 
-159003	-	…………	............
+159003	-		…………	............
 
-159004	-	……	......
+159004	-		……	......
 
-159005	-	昨晩――	Last night――
+159005	-		昨晩――	Last night――
 
-159006	-	スケールの街、ランスの部屋――	In the city of Scale, Rance's room――
+159006	-		スケールの街、ランスの部屋――	In the city of Scale, Rance's room――
 
-159007	Rance	「お、来たな、サチコ」	「Oh, you came, Sachiko.」
+159007	Rance		「お、来たな、サチコ」	「Oh, you came, Sachiko.」
 
-159008	Sachiko Centers	「はーい、来ましたよ」	「Yeees, I'm here.」
+159008	Sachiko Centers		「はーい、来ましたよ」	「Yeees, I'm here.」
 
-159009	Rance	「って、なんだその本は？」	「Wait, what are those books?」
+159009	Rance		「って、なんだその本は？」	「Wait, what are those books?」
 
-159010	Sachiko Centers	「え？　ランスさんがドラゴンパッチについて	「Eh? You said you wanted to know about Dragon Patch
-159011	+	　聞きたいというので全巻持ってきたんですが」	　so I brought the entire series.」
+159010	Sachiko Centers		「え？　ランスさんがドラゴンパッチについて	「Eh? You said you wanted to know about Dragon Patch
+159011	+		　聞きたいというので全巻持ってきたんですが」	　so I brought the entire series.」
 
-159012	Sachiko Centers	「個人的には四巻がとってもお勧めですよ！	「Personally I really recommend volume four!
-159013	+	　政治的な駆け引きが生まれて、	　The political maneuvering starts,
-159014	+	　作品に深みが――」	　and it adds so much depth to the story――」
+159012	Sachiko Centers	笑顔	「個人的には四巻がとってもお勧めですよ！	「Personally I really recommend volume four!
+159013	+		　政治的な駆け引きが生まれて、	　The political maneuvering starts,
+159014	+		　作品に深みが――」	　and it adds so much depth to the story――」
 
-159015	Rance	「そういう説明はいらん」	「I don't need explanations like that.」
+159015	Rance	基本	「そういう説明はいらん」	「I don't need explanations like that.」
 
-159016	Sachiko Centers	「え？　読まないんですか？」	「Eh? You're not going to read them?」
+159016	Sachiko Centers		「え？　読まないんですか？」	「Eh? You're not going to read them?」
 
-159017	Rance	「読まん。	「Nope.
-159018	+	　こんな文字だけの本、面白いわけがない」	　Books with nothing but text can't possibly be interesting.」
+159017	Rance		「読まん。	「Nope.
+159018	+		　こんな文字だけの本、面白いわけがない」	　Books with nothing but text can't possibly be interesting.」
 
-159019	Sachiko Centers	「えー……とっても面白いのに……	「Ehh... but they're really really good...
-159020	+	　全巻お勧めなのに……」	　I recommend the whole series...」
+159019	Sachiko Centers		「えー……とっても面白いのに……	「Ehh... but they're really really good...
+159020	+		　全巻お勧めなのに……」	　I recommend the whole series...」
 
-159021	Rance	「こんなのどこがいいんだか……」	「I don't see what's so great about them...」
+159021	Rance		「こんなのどこがいいんだか……」	「I don't see what's so great about them...」
 
-159022	Sachiko Centers	「すっごくいいんです。	「They're super good.
-159023	+	　とても面白いんです」	　They're so much fun.」
+159022	Sachiko Centers		「すっごくいいんです。	「They're super good.
+159023	+		　とても面白いんです」	　They're so much fun.」
 
-159024	Sachiko Centers	「本当にもう、	「Seriously,
-159025	+	　最終巻が出ないのが辛くて辛くて……」	　not having the final volume is just too painful...」
+159024	Sachiko Centers	ドン引き	「本当にもう、	「Seriously,
+159025	+		　最終巻が出ないのが辛くて辛くて……」	　not having the final volume is just too painful...」
 
-159026	Rance	「ふむ……」	「Hmm...」
+159026	Rance	真剣	「ふむ……」	「Hmm...」
 
-159027	Rance	「その最終巻、ハウゼルも欲しがるだろうか？」	「Do you think Hawzel would want that final volume too?」
+159027	Rance		「その最終巻、ハウゼルも欲しがるだろうか？」	「Do you think Hawzel would want that final volume too?」
 
-159028	Sachiko Centers	「もちろんですよ！	「Of course!
-159029	+	　ファンなら誰でも、命を差し出しても	　Any fan would give their life
-159030	+	　欲しくなるに決まってます！」	　to get it!」
+159028	Sachiko Centers	アホ顔	「もちろんですよ！	「Of course!
+159029	+		　ファンなら誰でも、命を差し出しても	　Any fan would give their life
+159030	+		　欲しくなるに決まってます！」	　to get it!」
 
-159031	Rance	「ほう、命を差し出しても……	「Hmm, even their life...
-159032	?	ね」	huh.」
+159031	Rance	基本	「ほう、命を差し出しても……	「Hmm, even their life...
+159032	?		ね」	huh.」
 
-159033	-	…………	............
+159033	-		…………	............
 
-159034	-	……	......
+159034	-		……	......
 
-159035	Rance	「というわけでここに来たのだ」	「And that's why we're here.」
+159035	Rance		「というわけでここに来たのだ」	「And that's why we're here.」
 
-159036	Haurein Province	「……すまんが、分からん」	「...Sorry, I don't get it.」
+159036	Haurein Province		「……すまんが、分からん」	「...Sorry, I don't get it.」
 
-159037	Sill Plain	「どういうことでしょう？」	「What do you mean?」
+159037	Sill Plain	きょとん	「どういうことでしょう？」	「What do you mean?」
 
-159038	Rance	「クレインちゃん、説明」	「Crane-chan, explain.」
+159038	Rance	基本	「クレインちゃん、説明」	「Crane-chan, explain.」
 
-159039	Crane	「ドラゴンパッチを書いたという作者が、	「The author who wrote Dragon Patch
-159040	+	　執筆活動の為に、今ここにい、る」	　is right here for writing activities.」
+159039	Crane		「ドラゴンパッチを書いたという作者が、	「The author who wrote Dragon Patch
+159040	+		　執筆活動の為に、今ここにい、る」	　is right here for writing activities.」
 
-159041	Crane	「という情報が……」	「That's the information...」
+159041	Crane		「という情報が……」	「That's the information...」
 
-159042	Rance	「その通り。	「Exactly.
-159043	+	　作者は今ハイパービル内で	　The author is currently missing inside the Hyperville
-159044	+	　行方知れずとかなんとか……」	　or something like that...」
+159042	Rance		「その通り。	「Exactly.
+159043	+		　作者は今ハイパービル内で	　The author is currently missing inside the Hyperville
+159044	+		　行方知れずとかなんとか……」	　or something like that...」
 
-159045	Rance	「なんとしてもそいつを見つけ出して、	「We need to find him no matter what
-159046	+	　続きを書かせる」	　and make him write the continuation.」
+159045	Rance		「なんとしてもそいつを見つけ出して、	「We need to find him no matter what
+159046	+		　続きを書かせる」	　and make him write the continuation.」
 
-159047	Rance	「そして、読みたければ降伏しろと	「And then threaten Fiend Hawzel that if he wants to read it
-159048	+	　魔人ハウゼルを脅すのだ」	　he has to surrender.」
+159047	Rance	エロ顔	「そして、読みたければ降伏しろと	「And then threaten Fiend Hawzel that if he wants to read it
+159048	+		　魔人ハウゼルを脅すのだ」	　he has to surrender.」
 
-159049	Haurein Province	「……正気か？」	「...Are you sane?」
+159049	Haurein Province	基本	「……正気か？」	「...Are you sane?」
 
-159050	Sill Plain	「う、上手くいくでしょうか……」	「W-will this really work...?」
+159050	Sill Plain	ぽか〜ん	「う、上手くいくでしょうか……」	「W-will this really work...?」
 
-159051	Rance	「行くに決まってる」	「Of course it'll work.」
+159051	Rance	エロ顔	「行くに決まってる」	「Of course it'll work.」
 
-159052	Rance	「がははは、とりあえず上の方に向かうぞー」	「Gahahaha, let's head upstairs for nowー」
+159052	Rance	笑顔	「がははは、とりあえず上の方に向かうぞー」	「Gahahaha, let's head upstairs for nowー」
 
-159053	Haurein Province	「……お前達、いつもこうやって	「...Do you guys always overcome crises
-159054	+	　危機を乗り越えてきたのか？」	　like this?」
+159053	Haurein Province	基本	「……お前達、いつもこうやって	「...Do you guys always overcome crises
+159054	+		　危機を乗り越えてきたのか？」	　like this?」
 
-159055	Sill Plain	「え、ええ、まあ……そうです……」	「Y-yes, well... pretty much...」
+159055	Sill Plain	苦笑	「え、ええ、まあ……そうです……」	「Y-yes, well... pretty much...」
 
-159056	Haurein Province	「……なんとも、ああ、くそ。	「...What the hell. Damn it.
-159057	+	　仕方ないな……」	　No choice then...」
+159056	Haurein Province	目閉じ	「……なんとも、ああ、くそ。	「...What the hell. Damn it.
+159057	+		　仕方ないな……」	　No choice then...」
 
-159058	Sill Plain	「あう……なんだか、すみません……」	「Auu... sorry about this somehow...」
+159058	Sill Plain	恥	「あう……なんだか、すみません……」	「Auu... sorry about this somehow...」
 
-159059	-	皆が呆れる中、一人だけ	While everyone stood stunned, one person
-159060	+	体をガタガタと震わせる者がいた。	was trembling all over.
+159059	-		皆が呆れる中、一人だけ	While everyone stood stunned, one person
+159060	+		体をガタガタと震わせる者がいた。	was trembling all over.
 
-159061	Sachiko Centers	「あわわ、恐ろしい……	「Awa wa, how scary...
-159062	+	　まさに悪魔の発想ですよ……	　Truly a demonic idea...
-159063	+	　そんなことをされたら従う以外ないですよ……」	　If someone did that, you'd have no choice but to obey...」
+159061	Sachiko Centers	アホ顔	「あわわ、恐ろしい……	「Awa wa, how scary...
+159062	+		　まさに悪魔の発想ですよ……	　Truly a demonic idea...
+159063	+		　そんなことをされたら従う以外ないですよ……」	　If someone did that, you'd have no choice but to obey...」
 
-159064	Alkanese Rize	「…………」	「............」
+159064	Alkanese Rize	困り	「…………」	「............」
 
-159065	Sachiko Centers	「え？　なんですか？」	「Eh? What is it?」
+159065	Sachiko Centers	基本	「え？　なんですか？」	「Eh? What is it?」
 
-159066	Alkanese Rize	「いんや、別に……」	「Nah, nothing...」
+159066	Alkanese Rize	困り	「いんや、別に……」	「Nah, nothing...」

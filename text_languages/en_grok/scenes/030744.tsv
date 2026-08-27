@@ -12,54 +12,54 @@
 * Sill Plain	シィル	Female
 * Monster Captain	汎用魔物隊長	Male
 
-29021	Monster General	「押せぇい、押せ押せええぇぇぇぇい！	「Push them! Push push push them down!!!
-29022	+	　数に物を言わせて叩き潰すのである！！」	　Overwhelm them with sheer numbers and crush them!!」
+29021	Monster General	基本	「押せぇい、押せ押せええぇぇぇぇい！	「Push them! Push push push them down!!!
+29022	+		　数に物を言わせて叩き潰すのである！！」	　Overwhelm them with sheer numbers and crush them!!」
 
-29023	Green Monster Soldier	「うおっしゃ殺せーーーーーーー！」	「Uossha, kill them allーーーーー!」
+29023	Green Monster Soldier		「うおっしゃ殺せーーーーーーー！」	「Uossha, kill them allーーーーー!」
 
-29024	Blue Monster Soldier	「ひひひ、血だ、血をしゃぶりたくてたまらねえ！」	「Hehehe, blood, I can't wait to suck their blood!」
+29024	Blue Monster Soldier		「ひひひ、血だ、血をしゃぶりたくてたまらねえ！」	「Hehehe, blood, I can't wait to suck their blood!」
 
-29025	-	ただただ、芸も何もない突撃が、	A completely crude, artless charge,
-29026	+	圧倒的な物量と勢いをもってリーザス軍を襲う。	attacked the Leazas army with overwhelming numbers and momentum.
+29025	-		ただただ、芸も何もない突撃が、	A completely crude, artless charge,
+29026	+		圧倒的な物量と勢いをもってリーザス軍を襲う。	attacked the Leazas army with overwhelming numbers and momentum.
 
-29027	Sioux Province	「く……この、物量は……！」	「Khh...... This sheer number......!」
+29027	Sioux Province	思考	「く……この、物量は……！」	「Khh...... This sheer number......!」
 
-29028	Barres Province	「突進の勢いを削ぐのじゃ！	「Blunt their charge!
-29029	+	　……力押しが一番、堪えるわい……！」	　......A head-on power struggle is the hardest to endure......!」
+29028	Barres Province	テンション上げ	「突進の勢いを削ぐのじゃ！	「Blunt their charge!
+29029	+		　……力押しが一番、堪えるわい……！」	　......A head-on power struggle is the hardest to endure......!」
 
-29030	Leazas Black Soldier	「くっ、食い止め……！」	「Khh, hold them back......!」
+29030	Leazas Black Soldier	基本	「くっ、食い止め……！」	「Khh, hold them back......!」
 
-29031	Green Monster Soldier	「へへ、あの赤い連中は北の方にいるそうだからな！	「Hehe, those red guys are up north apparently!
-29032	+	　怖いものなんかねえ！　さっさと――」	　There's nothing to fear! Hurry up and――」
+29031	Green Monster Soldier		「へへ、あの赤い連中は北の方にいるそうだからな！	「Hehe, those red guys are up north apparently!
+29032	+		　怖いものなんかねえ！　さっさと――」	　There's nothing to fear! Hurry up and――」
 
-29033	Rance	「ランッス、アッターーーーーーーッック！！」	「Rance Attackーーーーー!!」
+29033	Rance	怒り	「ランッス、アッターーーーーーーッック！！」	「Rance Attackーーーーー!!」
 
-29034	Green Monster Soldier	「ぐっ、ぐぎゃああああーーー！？」	「Guh, gyaaaaahhh!?」
+29034	Green Monster Soldier	基本	「ぐっ、ぐぎゃああああーーー！？」	「Guh, gyaaaaahhh!?」
 
-29035	-	魔物兵の数人が、いきなり横合いからの	Several monster soldiers were suddenly
-29036	+	衝撃波で叩き潰される。	smashed by a shockwave from the side.
+29035	-		魔物兵の数人が、いきなり横合いからの	Several monster soldiers were suddenly
+29036	+		衝撃波で叩き潰される。	smashed by a shockwave from the side.
 
-29037	Rance	「ランス総統のお出ましだ！	「Supreme Leader Rance has arrived!
-29038	+	　雑魚は引っ込んでろ！」	　Small fry, get lost!」
+29037	Rance		「ランス総統のお出ましだ！	「Supreme Leader Rance has arrived!
+29038	+		　雑魚は引っ込んでろ！」	　Small fry, get lost!」
 
-29039	Blue Monster Soldier	「あっ、こ、こいつら……！	「Ah, t-these guys......!
-29040	+	　魔人様を殺して回ってるとかいう……！」	　The ones going around killing Fiends......!」
+29039	Blue Monster Soldier		「あっ、こ、こいつら……！	「Ah, t-these guys......!
+29040	+		　魔人様を殺して回ってるとかいう……！」	　The ones going around killing Fiends......!」
 
-29041	Rance	「今日は派手に行くぞ！	「Today we're going all out!
-29042	+	　魔物将軍が見つかるまで、他は皆殺しじゃー！」	　Until we find the Monster General, kill everyone else!」
+29041	Rance	笑顔	「今日は派手に行くぞ！	「Today we're going all out!
+29042	+		　魔物将軍が見つかるまで、他は皆殺しじゃー！」	　Until we find the Monster General, kill everyone else!」
 
-29043	Satella	「叩き潰せ、シーザー！」	「Crush them, Caesar!」
+29043	Satella	怒り	「叩き潰せ、シーザー！」	「Crush them, Caesar!」
 
-29044	Caesar	「サテラサマノ敵、潰ス！」	「Crush Satella-sama's enemies!」
+29044	Caesar	基本	「サテラサマノ敵、潰ス！」	「Crush Satella-sama's enemies!」
 
-29045	Miracle Tor	「派手にか。	「Going flashy, huh.
-29046	+	　さて、あれがいいか、それがいいか……」	　Now then, should I use that or this......」
+29045	Miracle Tor	目閉じ	「派手にか。	「Going flashy, huh.
+29046	+		　さて、あれがいいか、それがいいか……」	　Now then, should I use that or this......」
 
-29047	Sill Plain	「……いつも通りで充分かも知れませんね」	「......The usual might be enough.」
+29047	Sill Plain	苦笑	「……いつも通りで充分かも知れませんね」	「......The usual might be enough.」
 
-29048	Miracle Tor	「ならばデスプロ―ジョン！」	「Then Death Projection!」
+29048	Miracle Tor	嘲笑	「ならばデスプロ―ジョン！」	「Then Death Projection!」
 
-29049	Monster Captain	「なんだ、何事だ！」	「What, what's going on!」
+29049	Monster Captain	基本	「なんだ、何事だ！」	「What, what's going on!」
 
-29050	Rance	「おっ、隊長か。まあいい。	「Oh, a captain. Whatever.
-29051	+	　人類総統ランス様じゃ！　死ねーーーーー！！」	　It's Supreme Leader Rance! Dieーーーーー!!」
+29050	Rance		「おっ、隊長か。まあいい。	「Oh, a captain. Whatever.
+29051	+		　人類総統ランス様じゃ！　死ねーーーーー！！」	　It's Supreme Leader Rance! Dieーーーーー!!」

@@ -4,74 +4,74 @@
 * Sill Plain	シィル	Female
 * Satella	サテラ	Female
 
-99584	Bezeleye	「はい、それじゃあ皆で手を合わせて」	「Okay everyone, put your hands together.
+99584	Bezeleye	基本	「はい、それじゃあ皆で手を合わせて」	「Okay everyone, put your hands together.
 
-99585	Bezeleye	「いただきます」	　Itadakimasu.」
+99585	Bezeleye		「いただきます」	　Itadakimasu.」
 
-99586	?	「いただきまーす」	「Itadakima~su.」
+99586	?		「いただきまーす」	「Itadakima~su.」
 
-99587	-	ベゼルアイ号令のもと、	Under Bezeleye's command,
-99588	+	魔人討伐隊の皆が食事を始める。	the Fiend Extermination Squad began their meal.
+99587	-		ベゼルアイ号令のもと、	Under Bezeleye's command,
+99588	+		魔人討伐隊の皆が食事を始める。	the Fiend Extermination Squad began their meal.
 
-99589	Rance	「うーん……」	「Hmm...」
+99589	Rance	真剣	「うーん……」	「Hmm...」
 
-99590	Bezeleye	「どうしたの、食事中に唸ったりして」	「What's wrong, groaning during dinner?」
+99590	Bezeleye	基本	「どうしたの、食事中に唸ったりして」	「What's wrong, groaning during dinner?」
 
-99591	Rance	「世話焼きで面倒見が良くて……」	「You're such a busybody and good at taking care of others...
+99591	Rance	真剣	「世話焼きで面倒見が良くて……」	「You're such a busybody and good at taking care of others...
 
-99592	Rance	「返す返すもベゼルアイって変な神様だなぁと。	「Bezeleye really is a weird god.
-99593	+	　あんまり神様っぽくないというか」	　You don't feel very god-like.」
+99592	Rance	だる顔	「返す返すもベゼルアイって変な神様だなぁと。	「Bezeleye really is a weird god.
+99593	+		　あんまり神様っぽくないというか」	　You don't feel very god-like.」
 
-99594	Bezeleye	「私達は活動の主な場所がここだから、	「Our main area of activity is here,
-99595	+	　他の神様達とは違って、	　so unlike other gods,
-99596	+	　お節介になりがちかも知れないわね」	　we tend to be meddlesome.」
+99594	Bezeleye	基本	「私達は活動の主な場所がここだから、	「Our main area of activity is here,
+99595	+		　他の神様達とは違って、	　so unlike other gods,
+99596	+		　お節介になりがちかも知れないわね」	　we tend to be meddlesome.」
 
-99597	Bezeleye	「それに、なんたって長生きだから。	「Plus, we've lived so long.
-99598	+	　ついつい世話を焼いてしまうのよね」	　We end up taking care of others.」
+99597	Bezeleye		「それに、なんたって長生きだから。	「Plus, we've lived so long.
+99598	+		　ついつい世話を焼いてしまうのよね」	　We end up taking care of others.」
 
-99599	Rance	「何歳？」	「How old are you?」
+99599	Rance		「何歳？」	「How old are you?」
 
-99600	Bezeleye	「……さあ」	「...Who knows.」
+99600	Bezeleye		「……さあ」	「...Who knows.」
 
-99601	Bezeleye	「もう長いこと数えてないから……	「I stopped counting long ago...
-99602	+	　数千年は生きてたと思うけど」	　but I think it's been thousands of years.」
+99601	Bezeleye		「もう長いこと数えてないから……	「I stopped counting long ago...
+99602	+		　数千年は生きてたと思うけど」	　but I think it's been thousands of years.」
 
-99603	Sill Plain	「すうせっ……」	「Th, thousands...」
+99603	Sill Plain	慌て	「すうせっ……」	「Th, thousands...」
 
-99604	Rance	「そりゃ、それだけ生きてれば	「Living that long,
-99605	+	　アホみたいに落ち着いた奴にもなるか」	　no wonder you're so ridiculously calm.」
+99604	Rance	基本	「そりゃ、それだけ生きてれば	「Living that long,
+99605	+		　アホみたいに落ち着いた奴にもなるか」	　no wonder you're so ridiculously calm.」
 
-99606	Bezeleye	「そうねぇ……」	「I suppose...」
+99606	Bezeleye		「そうねぇ……」	「I suppose...」
 
-99607	Bezeleye	「五百年生きてるサテラちゃんも、	「Even Satella-chan who's lived five hundred years
-99608	+	　私からしたら子供にしか見えないもの。	　looks like a child to me.
-99609	+	　普通の人間なんて尚更、ね」	　Normal humans even more so.」
+99607	Bezeleye		「五百年生きてるサテラちゃんも、	「Even Satella-chan who's lived five hundred years
+99608	+		　私からしたら子供にしか見えないもの。	　looks like a child to me.
+99609	+		　普通の人間なんて尚更、ね」	　Normal humans even more so.」
 
-99610	Satella	「誰か今、サテラを馬鹿にしなかったかー！？」	「Did someone just mock Satella!?」
+99610	Satella		「誰か今、サテラを馬鹿にしなかったかー！？」	「Did someone just mock Satella!?」
 
-99611	Sill Plain	「あ、あはは……」	「A, ahaha...」
+99611	Sill Plain	苦笑	「あ、あはは……」	「A, ahaha...」
 
-99612	Sill Plain	「でも、確かにベゼルアイ様が	「But it's true, I can't imagine
-99613	+	　困ったりするお姿は想像出来ないですねぇ」	　Bezeleye-sama ever being troubled.」
+99612	Sill Plain	基本	「でも、確かにベゼルアイ様が	「But it's true, I can't imagine
+99613	+		　困ったりするお姿は想像出来ないですねぇ」	　Bezeleye-sama ever being troubled.」
 
-99614	Rance	「困ったりなんてしないんじゃないか、こいつ」	「This one never gets troubled.」
+99614	Rance		「困ったりなんてしないんじゃないか、こいつ」	「This one never gets troubled.」
 
-99615	Bezeleye	「そんなことないわ」	「That's not true.
+99615	Bezeleye		「そんなことないわ」	「That's not true.
 
-99616	Bezeleye	「現に今とても困ってるもの」	　Right now I'm very troubled.」
+99616	Bezeleye		「現に今とても困ってるもの」	　Right now I'm very troubled.」
 
-99617	Sill Plain	「へ？」	「Eh?」
+99617	Sill Plain		「へ？」	「Eh?」
 
-99618	-	沈痛な面持ちでベゼルアイがスプーンを置いた。	With a grave expression, Bezeleye put down her spoon.
+99618	-		沈痛な面持ちでベゼルアイがスプーンを置いた。	With a grave expression, Bezeleye put down her spoon.
 
-99619	Bezeleye	「このカレー、辛くて食べられないの」	「This curry is too spicy to eat.」
+99619	Bezeleye		「このカレー、辛くて食べられないの」	「This curry is too spicy to eat.」
 
-99620	Rance	「辛いの駄目なのか……」	「You can't handle spicy food...」
+99620	Rance		「辛いの駄目なのか……」	「You can't handle spicy food...」
 
-99621	Bezeleye	「舌がとてもヒリヒリするわ」	「My tongue is burning.」
+99621	Bezeleye		「舌がとてもヒリヒリするわ」	「My tongue is burning.」
 
-99622	Sill Plain	「お水持ってきますね」	「I'll get some water.」
+99622	Sill Plain	苦笑	「お水持ってきますね」	「I'll get some water.」
 
-99623	Rance	「卵でも落としとけ」	「Drop an egg in it or something.」
+99623	Rance	基本	「卵でも落としとけ」	「Drop an egg in it or something.」
 
-99624	Bezeleye	「そうね、二個入れましょう」	「Good idea, let's add two.」
+99624	Bezeleye		「そうね、二個入れましょう」	「Good idea, let's add two.」

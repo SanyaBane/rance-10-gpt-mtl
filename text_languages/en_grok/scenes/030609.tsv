@@ -7,131 +7,131 @@
 * Lei	レイ	Male
 * Rocky Bank	ロッキー	Male
 
-18233	Rance	「ああもうガキども！　騒がしい！」	「Oh, for crying out loud, you brats! You're so noisy!」
+18233	Rance	怒り	「ああもうガキども！　騒がしい！」	「Oh, for crying out loud, you brats! You're so noisy!」
 
-18234	Nagi su Ragarl	「へっへへへー！　いつまでも寝てるなよー！」	「Heh heh heh! Don't sleep all day!」
+18234	Nagi su Ragarl	笑顔	「へっへへへー！　いつまでも寝てるなよー！」	「Heh heh heh! Don't sleep all day!」
 
-18235	Reset Kalar	「じゃあおとーさん！　早く起きてきてね」	「Okay, Daddy! Wake up soon!」
+18235	Reset Kalar	基本	「じゃあおとーさん！　早く起きてきてね」	「Okay, Daddy! Wake up soon!」
 
-18236	Rance	「……まったく」	「...Honestly.」
+18236	Rance	だる顔	「……まったく」	「...Honestly.」
 
-18237	Sill Plain	「あはは、今日も元気いっぱいですね、	「Ahaha, Reset-chan and the others are so full of energy today too,
-18238	+	　リセットちゃん達」	aren't they?」
+18237	Sill Plain	基本	「あはは、今日も元気いっぱいですね、	「Ahaha, Reset-chan and the others are so full of energy today too,
+18238	+		　リセットちゃん達」	aren't they?」
 
-18239	Rance	「ガキは体力が無限大だからな。	「Brats have infinite stamina.
-18240	+	　こっちの身体が保たん」	My body won't hold up.」
+18239	Rance	だる顔	「ガキは体力が無限大だからな。	「Brats have infinite stamina.
+18240	+		　こっちの身体が保たん」	My body won't hold up.」
 
-18241	Sill Plain	「はい？」	「Yes?」
+18241	Sill Plain	考え中	「はい？」	「Yes?」
 
-18242	Mary Ann	「うぃーす」	「'Sup.」
+18242	Mary Ann	基本	「うぃーす」	「'Sup.」
 
-18243	Rance	「ん？　なんだブサイクガキ。	「Hmm? What is it, you ugly brat?
-18244	+	　お前まで絡みに来たのか！」	Are you here to mess with me too?!」
+18243	Rance	真剣	「ん？　なんだブサイクガキ。	「Hmm? What is it, you ugly brat?
+18244	+		　お前まで絡みに来たのか！」	Are you here to mess with me too?!」
 
-18245	Mary Ann	「は？　違うよ。洗い物よこせ、洗い物」	「Huh? No. Hand over the laundry.」
+18245	Mary Ann	基本	「は？　違うよ。洗い物よこせ、洗い物」	「Huh? No. Hand over the laundry.」
 
-18246	Rance	「なんだと？　何してるんだお前」	「What? What are you doing?」
+18246	Rance	真剣	「なんだと？　何してるんだお前」	「What? What are you doing?」
 
-18247	Mary Ann	「暇だと困るし。お手伝いの仕事を貰った。	「I hate being idle. I got a job helping out.
-18248	+	　というわけで……おりゃーーー！	So... hyah!
-18249	+	　よこさないなら無理矢理持ってくぜーー！」	If you won't give it to me, I'll take it by force!」
+18247	Mary Ann	基本	「暇だと困るし。お手伝いの仕事を貰った。	「I hate being idle. I got a job helping out.
+18248	+		　というわけで……おりゃーーー！	So... hyah!
+18249	+		　よこさないなら無理矢理持ってくぜーー！」	If you won't give it to me, I'll take it by force!」
 
-18250	Rance	「ぐわ、おま、今着てる物まで剥ぐな！」	「Gwah! Hey, don't strip off what I'm wearing right now!」
+18250	Rance	全裸／驚き	「ぐわ、おま、今着てる物まで剥ぐな！」	「Gwah! Hey, don't strip off what I'm wearing right now!」
 
-18251	Mary Ann	「わっはっは！　ピカピカにして返してやる！	「Wah-hah-hah! I'll give them back to you sparkling clean!
-18252	+	　そりゃそりゃ！」	Heave-ho, heave-ho!」
+18251	Mary Ann	うわっはっは	「わっはっは！　ピカピカにして返してやる！	「Wah-hah-hah! I'll give them back to you sparkling clean!
+18252	+		　そりゃそりゃ！」	Heave-ho, heave-ho!」
 
-18253	-	メアリーはランスの服と、他に溜まっていた洗濯物を	Mary picked up Rance's clothes along with the rest of the laundry,
-18254	+	まとめて両手にひとつずつの籠に入れて持ち上げた。	carrying a basket in each hand.
+18253	-		メアリーはランスの服と、他に溜まっていた洗濯物を	Mary picked up Rance's clothes along with the rest of the laundry,
+18254	+		まとめて両手にひとつずつの籠に入れて持ち上げた。	carrying a basket in each hand.
 
-18255	Mary Ann	「お、っとととと……うん、よし平気」	「Whoa, easy does it... yeah, I'm good.」
+18255	Mary Ann	基本	「お、っとととと……うん、よし平気」	「Whoa, easy does it... yeah, I'm good.」
 
-18256	Rance	「お前みたいなガキ、別に働く必要ないぞ。	「A brat like you doesn't need to work.
-18257	+	　なんだってこんな事する」	Why the hell are you doing this?」
+18256	Rance	全裸／真剣	「お前みたいなガキ、別に働く必要ないぞ。	「A brat like you doesn't need to work.
+18257	+		　なんだってこんな事する」	Why the hell are you doing this?」
 
-18258	Mary Ann	「できる事無いからな。	「'Cause there's nothing else I can do.
-18259	+	　あと、パンツ履けよ！」	And put some underwear on!」
+18258	Mary Ann	基本	「できる事無いからな。	「'Cause there's nothing else I can do.
+18259	+		　あと、パンツ履けよ！」	And put some underwear on!」
 
-18260	Rance	「やかましい。剥がしといてほざくな」	「Shut up. Don't strip me and then complain.」
+18260	Rance	全裸／イライラ	「やかましい。剥がしといてほざくな」	「Shut up. Don't strip me and then complain.」
 
-18261	Mary Ann	「ふん。じゃあな」	「Hmph. See ya.」
+18261	Mary Ann	基本	「ふん。じゃあな」	「Hmph. See ya.」
 
-18262	Sill Plain	「なんだか、様子が……	「Something seems...
-18263	+	　見に行っていいですか、ランス様……」	May I go check on her, Master Rance......?」
+18262	Sill Plain	真剣	「なんだか、様子が……	「Something seems...
+18263	+		　見に行っていいですか、ランス様……」	May I go check on her, Master Rance......?」
 
-18264	Rance	「んー……まあいいだろ」	「Hmm... fine.」
+18264	Rance	全裸／だる顔	「んー……まあいいだろ」	「Hmm... fine.」
 
-18265	Mary Ann	「よいしょ、うんしょっ……」	「Heave-ho, heave-ho...」
+18265	Mary Ann	強い	「よいしょ、うんしょっ……」	「Heave-ho, heave-ho...」
 
-18266	Sill Plain	「籠、ひとつ持っていい？　メアリーちゃん」	「Can I carry one of the baskets for you, Mary-chan?」
+18266	Sill Plain	基本	「籠、ひとつ持っていい？　メアリーちゃん」	「Can I carry one of the baskets for you, Mary-chan?」
 
-18267	Mary Ann	「あ、えっと……」	「Oh, um...」
+18267	Mary Ann		「あ、えっと……」	「Oh, um...」
 
-18268	Sill Plain	「私、シィル。	「I'm Sill.
-18269	+	　なんだか大変そうだな、って」	I thought it looked like you were having a hard time.」
+18268	Sill Plain		「私、シィル。	「I'm Sill.
+18269	+		　なんだか大変そうだな、って」	I thought it looked like you were having a hard time.」
 
-18270	Mary Ann	「別に？　大変じゃねーよ。	「Not really. It's not a big deal.
-18271	+	　このくらい普通だよ」	This is normal.」
+18270	Mary Ann		「別に？　大変じゃねーよ。	「Not really. It's not a big deal.
+18271	+		　このくらい普通だよ」	This is normal.」
 
-18272	-	言いながら、メアリーは素直に籠を渡した。	As she spoke, Mary obediently handed over one of the baskets.
+18272	-		言いながら、メアリーは素直に籠を渡した。	As she spoke, Mary obediently handed over one of the baskets.
 
-18273	Sill Plain	「でも……本当に無理してないの？	「But... are you sure you're not pushing yourself?
-18274	+	　お手伝いせずに遊んでも、ランス様は……」	Even if you just played instead of helping out, Master Rance would...」
+18273	Sill Plain	考え中	「でも……本当に無理してないの？	「But... are you sure you're not pushing yourself?
+18274	+		　お手伝いせずに遊んでも、ランス様は……」	Even if you just played instead of helping out, Master Rance would...」
 
-18275	Mary Ann	「うん、ホントに。	「Yeah, really.
-18276	+	　家の手伝いとか、色々やらされてたし」	I was always made to do chores at home and stuff.」
+18275	Mary Ann	基本	「うん、ホントに。	「Yeah, really.
+18276	+		　家の手伝いとか、色々やらされてたし」	I was always made to do chores at home and stuff.」
 
-18277	Mary Ann	「あはは。あたしブサイクだからさー。	「Ahahaha. I'm ugly, after all.
-18278	+	　男子とかも、助けてくんねーし」	Even the boys won't help me.」
+18277	Mary Ann	うわっはっは	「あはは。あたしブサイクだからさー。	「Ahahaha. I'm ugly, after all.
+18278	+		　男子とかも、助けてくんねーし」	Even the boys won't help me.」
 
-18279	Sill Plain	「そんな事は……」	「That's not...」
+18279	Sill Plain	苦笑	「そんな事は……」	「That's not...」
 
-18280	Mary Ann	「…………レイの奴がさー」	「...Lei, you see...」
+18280	Mary Ann	基本	「…………レイの奴がさー」	「...Lei, you see...」
 
-18281	Sill Plain	「レイ……魔人のレイさん？」	「Lei... the Fiend Lei?」
+18281	Sill Plain	きょとん	「レイ……魔人のレイさん？」	「Lei... the Fiend Lei?」
 
-18282	Mary Ann	「ああ。なんか……迷惑掛けそーだからさ。	「Yeah. He's always... like he's going to cause trouble.
-18283	+	　何かあった時に、謝って許して貰えるように、	So I thought I'd do some things now, so that if anything happens, I can apologize and be forgiven.
-18284	+	　今のうちに、色々しとこー、って思って」	"I thought I better do lots of things now."
+18282	Mary Ann	基本	「ああ。なんか……迷惑掛けそーだからさ。	「Yeah. He's always... like he's going to cause trouble.
+18283	+		　何かあった時に、謝って許して貰えるように、	So I thought I'd do some things now, so that if anything happens, I can apologize and be forgiven.
+18284	+		　今のうちに、色々しとこー、って思って」	"I thought I better do lots of things now."
 
-18285	Mary Ann	「恩を売る、って奴？	「It's like building up favors, I guess?
-18286	+	　あはは、すっげーちょぴっとずつだけど！」	Ahahaha, even if it's only bit by bit!」
+18285	Mary Ann	うわっはっは	「恩を売る、って奴？	「It's like building up favors, I guess?
+18286	+		　あはは、すっげーちょぴっとずつだけど！」	Ahahaha, even if it's only bit by bit!」
 
-18287	Sill Plain	「はぁ……しっかりしてるのね……」	「Sigh... you're so reliable...」
+18287	Sill Plain	慌て	「はぁ……しっかりしてるのね……」	「Sigh... you're so reliable...」
 
-18288	Mary Ann	「あたし、なんにもできねーから。	「I can't do much.
-18289	+	　友達、ちょっとでも助けられるように	So I have to do what I can to help my friend, even just a little.
-18290	+	　してやんねーと、って」	"I have to, or else..."
+18288	Mary Ann	基本	「あたし、なんにもできねーから。	「I can't do much.
+18289	+		　友達、ちょっとでも助けられるように	So I have to do what I can to help my friend, even just a little.
+18290	+		　してやんねーと、って」	"I have to, or else..."
 
-18291	Mary Ann	「遊んだりも、したいけど。	「I want to play too, though.
-18292	+	　まあ……それはやる事やってからでいいや」	But... that can wait until I've done what needs doing.」
+18291	Mary Ann		「遊んだりも、したいけど。	「I want to play too, though.
+18292	+		　まあ……それはやる事やってからでいいや」	But... that can wait until I've done what needs doing.」
 
-18293	Sill Plain	「…………くすっ」	「...Chuckle.」
+18293	Sill Plain		「…………くすっ」	「...Chuckle.」
 
-18294	Mary Ann	「あ、笑われた」	「Ah, you're laughing at me.」
+18294	Mary Ann		「あ、笑われた」	「Ah, you're laughing at me.」
 
-18295	Sill Plain	「ううん、違うの。ごめんね。	「No, that's not it. I'm sorry.
-18296	+	　私も……少し似たことしてきたのかも、って」	I was just thinking... I might have done something similar.」
+18295	Sill Plain		「ううん、違うの。ごめんね。	「No, that's not it. I'm sorry.
+18296	+		　私も……少し似たことしてきたのかも、って」	I was just thinking... I might have done something similar.」
 
-18297	Mary Ann	「え。あ。あーーー。あの総統？」	「Eh. Oh. Aaah. That Supreme Leader?」
+18297	Mary Ann		「え。あ。あーーー。あの総統？」	「Eh. Oh. Aaah. That Supreme Leader?」
 
-18298	Sill Plain	「あっ、あのね、いい所はね？　あるんだけど……」	「Ah, well, you see, he does have some good points... but...」
+18298	Sill Plain	苦笑	「あっ、あのね、いい所はね？　あるんだけど……」	「Ah, well, you see, he does have some good points... but...」
 
-18299	Mary Ann	「あっ、分かる！	「Oh, I get it!
-18300	+	　すーぐ誤解されるような事するんだよなー。	He does things that get misunderstood instantly, right?
-18301	+	　しかもそれを解こうとしないからさー！」	And he doesn't even try to clear it up!」
+18299	Mary Ann	うわっはっは	「あっ、分かる！	「Oh, I get it!
+18300	+		　すーぐ誤解されるような事するんだよなー。	He does things that get misunderstood instantly, right?
+18301	+		　しかもそれを解こうとしないからさー！」	And he doesn't even try to clear it up!」
 
-18302	Sill Plain	「くすくす。そうだね。それで……」	「Giggle. You're right. And then...」
+18302	Sill Plain	笑顔	「くすくす。そうだね。それで……」	「Giggle. You're right. And then...」
 
-18303	-	シィルとメアリーは、仲良く籠を抱えて、	Sill and Mary walked along together,
-18304	+	談笑しながら歩いていった。	carrying their baskets and chatting cheerfully.
+18303	-		シィルとメアリーは、仲良く籠を抱えて、	Sill and Mary walked along together,
+18304	+		談笑しながら歩いていった。	carrying their baskets and chatting cheerfully.
 
-18305	Rance	「遅い…………	「She's late............
-18306	?	っ、ぶえっくし！	Ah-choo!
-18307	+	　……くそ、風邪か？」	...Damn, did I catch a cold?」
+18305	Rance	真剣	「遅い…………	「She's late............
+18306	?		っ、ぶえっくし！	Ah-choo!
+18307	+		　……くそ、風邪か？」	...Damn, did I catch a cold?」
 
-18308	Lei	「えっくしっ！」	「A-choo!」
+18308	Lei	基本	「えっくしっ！」	「A-choo!」
 
-18309	Rocky Bank	「か、風邪だか？」	「D-Did you catch a cold?」
+18309	Rocky Bank		「か、風邪だか？」	「D-Did you catch a cold?」
 
-18310	Lei	「さあ……」	「Who knows...」
+18310	Lei		「さあ……」	「Who knows...」

@@ -2,36 +2,36 @@
 * Desert Guide	日立姫砂漠案内人	Female
 * Rance	ランス	Male
 
-180713	Desert Guide	「さて……」	「Now then......」
+180713	Desert Guide	基本	「さて……」	「Now then......」
 
-180714	Rance	「あん？」	「Ah?」
+180714	Rance		「あん？」	「Ah?」
 
-180715	-	案内人が足を止めた。	The guide stopped walking.
+180715	-		案内人が足を止めた。	The guide stopped walking.
 
-180716	Desert Guide	「わたちが案内できるのはここまででち」	「This is as far as I can guide you.」
+180716	Desert Guide		「わたちが案内できるのはここまででち」	「This is as far as I can guide you.」
 
-180717	Desert Guide	「ここを真っ直ぐ進めばシャングリラでち」	「Go straight from here and you'll reach Shangri-La.」
+180717	Desert Guide		「ここを真っ直ぐ進めばシャングリラでち」	「Go straight from here and you'll reach Shangri-La.」
 
-180718	Rance	「そこまで案内せんのか？」	「You're not going further?」
+180718	Rance		「そこまで案内せんのか？」	「You're not going further?」
 
-180719	Desert Guide	「命あっての物種でちから」	「Life is precious.」
+180719	Desert Guide		「命あっての物種でちから」	「Life is precious.」
 
-180720	Rance	「ふん、ま、良かろう。	「Hmph, well, fine.
-180721	+	　道さえ分かれば充分だ」	　As long as we know the way it's enough.」
+180720	Rance		「ふん、ま、良かろう。	「Hmph, well, fine.
+180721	+		　道さえ分かれば充分だ」	　As long as we know the way it's enough.」
 
-180722	Desert Guide	「悪いでちね。	「Sorry about that.
-180723	+	　わたちは、まだこんなとこでは死ねないでち」	　I still can't die in a place like this
+180722	Desert Guide		「悪いでちね。	「Sorry about that.
+180723	+		　わたちは、まだこんなとこでは死ねないでち」	　I still can't die in a place like this
 
-180724	Desert Guide	「……そう、悲願を達成するまでは」	　...not until I fulfill my long-cherished wish.」
+180724	Desert Guide		「……そう、悲願を達成するまでは」	　...not until I fulfill my long-cherished wish.」
 
-180725	Rance	「悲願を達成？」	「Fulfill your wish?」
+180725	Rance		「悲願を達成？」	「Fulfill your wish?」
 
-180726	Desert Guide	「それでは。	「Well then.
-180727	+	　皆の無事、一応祈っておくでち」	　I'll pray for your safety, just in case.」
+180726	Desert Guide		「それでは。	「Well then.
+180727	+		　皆の無事、一応祈っておくでち」	　I'll pray for your safety, just in case.」
 
-180728	-	ずるずるとローブをひきずり、	Dragging her robe,
-180729	+	案内人は去って行った。	the guide left.
+180728	-		ずるずるとローブをひきずり、	Dragging her robe,
+180729	+		案内人は去って行った。	the guide left.
 
-180730	Rance	「……最後まで不気味な奴だったなぁ」	「...She was creepy until the very end.」
+180730	Rance	真剣	「……最後まで不気味な奴だったなぁ」	「...She was creepy until the very end.」
 
-180731	Rance	「まあいい、シャングリラに入るぞー」	「Whatever, let's enter Shangri-La.」
+180731	Rance	基本	「まあいい、シャングリラに入るぞー」	「Whatever, let's enter Shangri-La.」

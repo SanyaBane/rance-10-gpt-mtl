@@ -3,60 +3,60 @@
 * Rance	ランス	Male
 * Kayblis	ケイブリス	Male
 
-31094	Prince Toshiba	「ブレイブ号で地中から行くってのはどうかな」	「How about going underground with the Brave using the Brave?」
+31094	Prince Toshiba	基本	「ブレイブ号で地中から行くってのはどうかな」	「How about going underground with the Brave using the Brave?」
 
-31095	Rance	「おぉ！　あの時地底探検した奴か。	「Oh! That thing we used for the underground exploration before.
-31096	+	　あれは面白かったな」	　That was fun.」
+31095	Rance		「おぉ！　あの時地底探検した奴か。	「Oh! That thing we used for the underground exploration before.
+31096	+		　あれは面白かったな」	　That was fun.」
 
-31097	Rance	「……お前らが乗っかってきた、	「...That weird vehicle you guys got on,
-31098	+	　この変てこな乗り物か？	　this strange contraption?
-31099	+	　途中で止まったりしないだろうな……」	　It won't break down midway... right?」
+31097	Rance	だる顔	「……お前らが乗っかってきた、	「...That weird vehicle you guys got on,
+31098	+		　この変てこな乗り物か？	　this strange contraption?
+31099	+		　途中で止まったりしないだろうな……」	　It won't break down midway... right?」
 
-31100	Prince Toshiba	「大丈夫だよ。メンテナンスはそろそろ完了だ」	「It'll be fine. Maintenance is almost done.」
+31100	Prince Toshiba	基本	「大丈夫だよ。メンテナンスはそろそろ完了だ」	「It'll be fine. Maintenance is almost done.」
 
-31101	Rance	「……待てよ。魔物の森に繋がる地中のルートは、	「...Wait. I heard the underground routes to the monster forest
-31102	+	　魔軍にはほぼ潰されてるって聞いたぞ。	　have mostly been destroyed by the Monster Army.
-31103	+	　無駄じゃないのか？」	　Wouldn't it be pointless?」
+31101	Rance	真剣	「……待てよ。魔物の森に繋がる地中のルートは、	「...Wait. I heard the underground routes to the monster forest
+31102	+		　魔軍にはほぼ潰されてるって聞いたぞ。	　have mostly been destroyed by the Monster Army.
+31103	+		　無駄じゃないのか？」	　Wouldn't it be pointless?」
 
-31104	Prince Toshiba	「うん、そうだね。	「Yeah, that's true.
-31105	+	　既にあるルートは使えない」	　We can't use the existing routes.」
+31104	Prince Toshiba	基本	「うん、そうだね。	「Yeah, that's true.
+31105	+		　既にあるルートは使えない」	　We can't use the existing routes.」
 
-31106	Prince Toshiba	「でも、無い物は作ればいい。	「But if it doesn't exist, we just make one.
-31107	+	　ブレイブ号で掘り進んでいけばいい」	　We'll dig forward with the Brave.」
+31106	Prince Toshiba		「でも、無い物は作ればいい。	「But if it doesn't exist, we just make one.
+31107	+		　ブレイブ号で掘り進んでいけばいい」	　We'll dig forward with the Brave.」
 
-31108	Rance	「…………おお！」	「............Oh!」
+31108	Rance	驚き	「…………おお！」	「............Oh!」
 
-31109	Kayblis	「がっはっはー。あー楽ちんだぜ。	「Gahahaー. Ah, so easy.
-31110	+	　人間共はここまで来れないからなー」	　Humans can't reach here.」
+31109	Kayblis	基本	「がっはっはー。あー楽ちんだぜ。	「Gahahaー. Ah, so easy.
+31110	+		　人間共はここまで来れないからなー」	　Humans can't reach here.」
 
-31111	Kayblis	「…………ん？　なんだ？」	「............Hm? What?」
+31111	Kayblis		「…………ん？　なんだ？」	「............Hm? What?」
 
-31112	Rance	「がはははははは！　ランス様見参！」	「Gahahahaha! Rance-sama has arrived!」
+31112	Rance	笑顔	「がはははははは！　ランス様見参！」	「Gahahahaha! Rance-sama has arrived!」
 
-31113	Kayblis	「なっ、なんだってーーー！	「Wha, what the-----!
-31114	+	　足元から現れやがったー」	　You appeared from under my feetー！」
+31113	Kayblis	基本	「なっ、なんだってーーー！	「Wha, what the-----!
+31114	+		　足元から現れやがったー」	　You appeared from under my feetー！」
 
-31115	Rance	「ランス斬り！」	「Rance Slash!」
+31115	Rance	怒り	「ランス斬り！」	「Rance Slash!」
 
-31116	Kayblis	「ぎゃあーーーーー！」	「Gyaaaaaaa!」
+31116	Kayblis		「ぎゃあーーーーー！」	「Gyaaaaaaa!」
 
-31117	Rance	「がはははは！　しょーーーーーり！」	「Gahahaha! Victory!」
+31117	Rance	笑顔	「がはははは！　しょーーーーーり！」	「Gahahaha! Victory!」
 
-31118	Rance	「…………とやるのか！	「............That's how it's done!
-31119	+	　いいぞ！　かっこいいではないか！」	　Nice! That's pretty cool!」
+31118	Rance	基本	「…………とやるのか！	「............That's how it's done!
+31119	+		　いいぞ！　かっこいいではないか！」	　Nice! That's pretty cool!」
 
-31120	Prince Toshiba	「ロマンでしょ？	「It's romantic, right?
-31121	+	　魔物にこの手の技術はないし。有効だと思うよ」	　Monsters don't have this kind of technology. I think it'll work.」
+31120	Prince Toshiba		「ロマンでしょ？	「It's romantic, right?
+31121	+		　魔物にこの手の技術はないし。有効だと思うよ」	　Monsters don't have this kind of technology. I think it'll work.」
 
-31122	Rance	「よし、決まりだ。では行くぞ！」	「Alright, decided. Let's go!」
+31122	Rance		「よし、決まりだ。では行くぞ！」	「Alright, decided. Let's go!」
 
-31123	Prince Toshiba	「あっ、待って待って。	「Ah, wait wait.
-31124	+	　遠征のための準備は要るよ。長旅になるからね」	　We need preparations for the expedition. It's going to be a long trip.」
+31123	Prince Toshiba		「あっ、待って待って。	「Ah, wait wait.
+31124	+		　遠征のための準備は要るよ。長旅になるからね」	　We need preparations for the expedition. It's going to be a long trip.」
 
-31125	Rance	「むう……仕方がないな。じゃあ大急ぎだ。	「Muu... Can't be helped. Then let's hurry.
-31126	+	　地中から突撃作戦、準備開始だ！」	　Underground assault operation, preparations start!」
+31125	Rance		「むう……仕方がないな。じゃあ大急ぎだ。	「Muu... Can't be helped. Then let's hurry.
+31126	+		　地中から突撃作戦、準備開始だ！」	　Underground assault operation, preparations start!」
 
-31127	Prince Toshiba	「おーーーーっ！」	「Ooooo!」
+31127	Prince Toshiba		「おーーーーっ！」	「Ooooo!」
 
-31128	-	ランスと東芝は、さっそくブレイブ号の調整に	Rance and Toshiba immediately started adjusting the Brave.
-31129	+	着手し始めた。	
+31128	-		ランスと東芝は、さっそくブレイブ号の調整に	Rance and Toshiba immediately started adjusting the Brave.
+31129	+		着手し始めた。	

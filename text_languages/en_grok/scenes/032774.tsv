@@ -6,86 +6,86 @@
 * Crook Mofus	クルックー	Female
 * Sill Plain	シィル	Female
 
-175083	Monster General	「な、なんだこれは！？」	「W-what is this!?」
+175083	Monster General	基本	「な、なんだこれは！？」	「W-what is this!?」
 
-175084	Rance	「あん？　なんだ？」	「Huh? What?」
+175084	Rance		「あん？　なんだ？」	「Huh? What?」
 
-175085	-	そのとき、騒ぎを聞きつけた	At that moment, a Monster General who heard the commotion
-175086	+	魔物将軍が二体の魔物兵を連れて現れた。	appeared with two monster soldiers.
+175085	-		そのとき、騒ぎを聞きつけた	At that moment, a Monster General who heard the commotion
+175086	+		魔物将軍が二体の魔物兵を連れて現れた。	appeared with two monster soldiers.
 
-175087	Green Monster Soldier	「ま、まさか！　ケイブリス様が死んだのか！？	「N-no way! Kayblis-sama is dead!?」
-175088	+	　あ、あ、あ、あのケイブリス様が！？」	　T-t-t-that Kayblis-sama!?"
+175087	Green Monster Soldier		「ま、まさか！　ケイブリス様が死んだのか！？	「N-no way! Kayblis-sama is dead!?」
+175088	+		　あ、あ、あ、あのケイブリス様が！？」	　T-t-t-that Kayblis-sama!?"
 
-175089	Satella	「ふんっ」	「Hmph.」
+175089	Satella		「ふんっ」	「Hmph.」
 
-175090	Satella	「お前達のボスは死んだ。	「Your boss is dead.
-175091	+	　我々の勝ちだ。	　We won.
-175092	+	　さっさと降参しろ」	　Surrender already.」
+175090	Satella	怒り	「お前達のボスは死んだ。	「Your boss is dead.
+175091	+		　我々の勝ちだ。	　We won.
+175092	+		　さっさと降参しろ」	　Surrender already.」
 
-175093	-	戦いでボロボロとなったサテラが	Satella, battered from battle,
-175094	+	できる限り威圧的に命じる。	ordered as intimidatingly as she could.
+175093	-		戦いでボロボロとなったサテラが	Satella, battered from battle,
+175094	+		できる限り威圧的に命じる。	ordered as intimidatingly as she could.
 
-175095	Monster General	「ひえっ、魔人サテラ……	「Hiee, Fiend Satella...
-175096	+	　こ、降伏しろったって……	　S-surrender, you say...
-175097	+	　そんな権限、俺には……」	　I don't have the authority for that...」
+175095	Monster General	基本	「ひえっ、魔人サテラ……	「Hiee, Fiend Satella...
+175096	+		　こ、降伏しろったって……	　S-surrender, you say...
+175097	+		　そんな権限、俺には……」	　I don't have the authority for that...」
 
-175098	Satella	「では、分かりやすく言ってやる」	「Then I'll make it clear.」
+175098	Satella	思考	「では、分かりやすく言ってやる」	「Then I'll make it clear.」
 
-175099	Satella	「今すぐお前ら全員人間界から退かないなら……」	「If you don't withdraw from the human realm right now...」
+175099	Satella		「今すぐお前ら全員人間界から退かないなら……」	「If you don't withdraw from the human realm right now...」
 
-175100	Satella	「貴様を――殺すぞ！」	「I'll kill you!」
+175100	Satella	魔人顔	「貴様を――殺すぞ！」	「I'll kill you!」
 
-175101	Monster General	「ひえっ……！？」	「Hiee...!?」
+175101	Monster General	基本	「ひえっ……！？」	「Hiee...!?」
 
-175102	-	魔物将軍が周りを見渡す。	The Monster General looked around.
+175102	-		魔物将軍が周りを見渡す。	The Monster General looked around.
 
-175103	-	その場にいるのは、	Those present were
-175104	+	戦いに疲弊し、フラフラの人類軍。	the exhausted and staggering human army.
+175103	-		その場にいるのは、	Those present were
+175104	+		戦いに疲弊し、フラフラの人類軍。	the exhausted and staggering human army.
 
-175105	-	しかし、百戦錬磨の人類軍の精鋭。	However, they were the battle-hardened elite of humanity.
+175105	-		しかし、百戦錬磨の人類軍の精鋭。	However, they were the battle-hardened elite of humanity.
 
-175106	-	魔物界のエリート、マエリータ隊。	The Maelita squad, elites of the Monster Realm.
+175106	-		魔物界のエリート、マエリータ隊。	The Maelita squad, elites of the Monster Realm.
 
-175107	-	そして、絶対に敵うことのない魔人。	And an unbeatable Fiend.
+175107	-		そして、絶対に敵うことのない魔人。	And an unbeatable Fiend.
 
-175108	Monster General	「う……	「U...
-175109	+	　ううううううう……！」	　Uuuuuuuu...!」
+175108	Monster General		「う……	「U...
+175109	+		　ううううううう……！」	　Uuuuuuuu...!」
 
-175110	-	選択肢はなかった。	There was no choice.
+175110	-		選択肢はなかった。	There was no choice.
 
-175111	Monster General	「うわぁぁあ！　誰か助けてくれーーー！	「Uwaaaaah! Someone help me---!
-175112	+	　ケイブリス様が殺されたぞーーーーー！」	　Kayblis-sama has been killed---!」
+175111	Monster General		「うわぁぁあ！　誰か助けてくれーーー！	「Uwaaaaah! Someone help me---!
+175112	+		　ケイブリス様が殺されたぞーーーーー！」	　Kayblis-sama has been killed---!」
 
-175113	-	魔物将軍はまさに脱兎の如く駆けだした。	The Monster General ran away like a frightened rabbit.
+175113	-		魔物将軍はまさに脱兎の如く駆けだした。	The Monster General ran away like a frightened rabbit.
 
-175114	Rance	「大丈夫か？　逃げられたぞ」	「You okay? He got away.」
+175114	Rance		「大丈夫か？　逃げられたぞ」	「You okay? He got away.」
 
-175115	Crook Mofus	「魔物は強いボスの下でのみ団結できる種です」	「Monsters are a species that can only unite under a strong boss.」
+175115	Crook Mofus		「魔物は強いボスの下でのみ団結できる種です」	「Monsters are a species that can only unite under a strong boss.」
 
-175116	Crook Mofus	「ケイブリスが死に、	「With Kayblis dead,
-175117	+	　後を継ぐ者がいない時点で、	　and no successor,
-175118	+	　総崩れするだけです」	　they will completely fall apart.」
+175116	Crook Mofus		「ケイブリスが死に、	「With Kayblis dead,
+175117	+		　後を継ぐ者がいない時点で、	　and no successor,
+175118	+		　総崩れするだけです」	　they will completely fall apart.」
 
-175119	Crook Mofus	「トップであるケイブリスの死は、	「The death of the top leader Kayblis
-175120	+	　すぐに伝わり魔軍は人類圏から退くかと」	　will spread quickly, and the Monster Army should withdraw from the human realm.」
+175119	Crook Mofus		「トップであるケイブリスの死は、	「The death of the top leader Kayblis
+175120	+		　すぐに伝わり魔軍は人類圏から退くかと」	　will spread quickly, and the Monster Army should withdraw from the human realm.」
 
-175121	Rance	「そか、それなら……」	「I see, in that case...」
+175121	Rance		「そか、それなら……」	「I see, in that case...」
 
-175122	Sill Plain	「あ、あの……じゃあ、その……」	「U-um... then, well...」
+175122	Sill Plain	慌て	「あ、あの……じゃあ、その……」	「U-um... then, well...」
 
-175123	Rance	「おお、そうだ……」	「Oh yeah, that's right...」
+175123	Rance	基本	「おお、そうだ……」	「Oh yeah, that's right...」
 
-175124	Rance	「がははは！　ようやく終わったぞー！」	「Gahahaha! It's finally over!」
+175124	Rance	笑顔	「がははは！　ようやく終わったぞー！」	「Gahahaha! It's finally over!」
 
-175125	-	…………	............
+175125	-		…………	............
 
-175126	-	……	......
+175126	-		……	......
 
-175127	-	魔軍総大将であるケイブリスの死は	The death of the Monster Army Supreme Commander, Kayblis,
-175128	+	瞬く間に世界中に報じられる。	was reported across the entire world in the blink of an eye.
+175127	-		魔軍総大将であるケイブリスの死は	The death of the Monster Army Supreme Commander, Kayblis,
+175128	+		瞬く間に世界中に報じられる。	was reported across the entire world in the blink of an eye.
 
-175129	-	頭を失った魔物に組織だった行動は取れず、	The monsters, now without their leader, could no longer act in an organized way,
-175130	+	魔軍という組織は自然と瓦解する。	and the Monster Army organization naturally collapsed.
+175129	-		頭を失った魔物に組織だった行動は取れず、	The monsters, now without their leader, could no longer act in an organized way,
+175130	+		魔軍という組織は自然と瓦解する。	and the Monster Army organization naturally collapsed.
 
-175131	-	戦意喪失した魔物兵は人間界から引き上げ、	The demoralized monster soldiers withdrew from the human world,
-175132	+	こうして、この長い戦いはようやく終わった。	and thus, this long war finally came to an end.
+175131	-		戦意喪失した魔物兵は人間界から引き上げ、	The demoralized monster soldiers withdrew from the human world,
+175132	+		こうして、この長い戦いはようやく終わった。	and thus, this long war finally came to an end.

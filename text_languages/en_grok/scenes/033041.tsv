@@ -3,59 +3,59 @@
 * El Mofus	エール２	Player's choice
 * Slave Merchant	奴隷商人	Male
 
-195337	-	あなた達はメススライム迷宮があるという	You were advancing through the forest
-195338	+	森の中を進んでいた。	where the Female Slime Labyrinth was said to be.
+195337	-		あなた達はメススライム迷宮があるという	You were advancing through the forest
+195338	+		森の中を進んでいた。	where the Female Slime Labyrinth was said to be.
 
-195339	Nagata-kun	「ほい、＜エール＞」	「Here, ＜エール＞.」
+195339	Nagata-kun	基本	「ほい、＜エール＞」	「Here, ＜エール＞.」
 
-195340	-	長田君に手渡された飲みさしの、	You drank from the water bag
-195341	+	革袋の中に入っている水であなたは喉を潤す。	that Nagata-kun handed you.
+195340	-		長田君に手渡された飲みさしの、	You drank from the water bag
+195341	+		革袋の中に入っている水であなたは喉を潤す。	that Nagata-kun handed you.
 
-195342	Nagata-kun	「あんまり飲み過ぎるなよ、	「Don't drink too much,
-195343	+	　俺も後で飲むんだから」	　I need some later too.」
+195342	Nagata-kun		「あんまり飲み過ぎるなよ、	「Don't drink too much,
+195343	+		　俺も後で飲むんだから」	　I need some later too.」
 
-195344	-	と、不意に長田君が立ち止まった。	Suddenly, Nagata-kun stopped.
+195344	-		と、不意に長田君が立ち止まった。	Suddenly, Nagata-kun stopped.
 
-195345	Nagata-kun	「あ、見ろ見ろ。	「Ah, look look.
-195346	+	　あれだぜ……」	　That's it...」
+195345	Nagata-kun		「あ、見ろ見ろ。	「Ah, look look.
+195346	+		　あれだぜ……」	　That's it...」
 
-195347	-	木々の隙間の先にかすかに洞窟、	Beyond the gaps in the trees, a faint cave
-195348	+	そしてその洞窟の前に立つ山賊達が見えた。	and bandits standing in front of it could be seen.
+195347	-		木々の隙間の先にかすかに洞窟、	Beyond the gaps in the trees, a faint cave
+195348	+		そしてその洞窟の前に立つ山賊達が見えた。	and bandits standing in front of it could be seen.
 
-195349	Nagata-kun	「見張りがいるな……」	「There are lookouts...」
+195349	Nagata-kun		「見張りがいるな……」	「There are lookouts...」
 
-195350	Nagata-kun	「うーん、ボスにだけ会わせてもらえれば、	「Hmm, if we could just meet the boss,
-195351	+	　それが一番いいんだけどなぁ……」	　that would be best...」
+195350	Nagata-kun		「うーん、ボスにだけ会わせてもらえれば、	「Hmm, if we could just meet the boss,
+195351	+		　それが一番いいんだけどなぁ……」	　that would be best...」
 
-195352	Nagata-kun	「あいつらに接触して、	「Contact them,
-195353	+	　話を通してボスに会わせてもらう。	　talk it out, and get an audience with the boss.
-195354	+	　＜エール＞ちゃんそんなことできる？」	　Can you do that, ＜エール＞-chan?」
+195352	Nagata-kun		「あいつらに接触して、	「Contact them,
+195353	+		　話を通してボスに会わせてもらう。	　talk it out, and get an audience with the boss.
+195354	+		　＜エール＞ちゃんそんなことできる？」	　Can you do that, ＜エール＞-chan?」
 
-195355	El Mofus	「…………。」	「............」
-195356	Nagata-kun	「あ、ちょ！？　待てよ！？」	「Ah, hey!? Wait!」
+195355	El Mofus		「…………。」	「............」
+195356	Nagata-kun		「あ、ちょ！？　待てよ！？」	「Ah, hey!? Wait!」
 
-195357	Slave Merchant	「アァン？　なんだ、テメェは！？」	「Haaah? Who the hell are you!?」
+195357	Slave Merchant		「アァン？　なんだ、テメェは！？」	「Haaah? Who the hell are you!?」
 
-195358	-	誰もが突如現れたあなたを	Everyone glared sharply
-195359	+	鋭い眼光で睨みつけてきた。	at the suddenly appearing you.
+195358	-		誰もが突如現れたあなたを	Everyone glared sharply
+195359	+		鋭い眼光で睨みつけてきた。	at the suddenly appearing you.
 
-195360	-	山賊達はかなり怒りっぽい性格をしているようだ。	The bandits seemed to have quite short tempers.
-195361	+	不用意な発言をすればすぐさま襲われるだろう。	One careless word and they would attack immediately.
+195360	-		山賊達はかなり怒りっぽい性格をしているようだ。	The bandits seemed to have quite short tempers.
+195361	+		不用意な発言をすればすぐさま襲われるだろう。	One careless word and they would attack immediately.
 
-195362	-	ここは慎重に発言を選ぼう。	Choose your words carefully here.
+195362	-		ここは慎重に発言を選ぼう。	Choose your words carefully here.
 
-195363	El Mofus	「…………。」	「............」
-195364	Slave Merchant	「はあ……？」	「Haa...?」
+195363	El Mofus		「…………。」	「............」
+195364	Slave Merchant		「はあ……？」	「Haa...?」
 
-195365	Slave Merchant	「アーーッハッハッハッハッ！」	「Aaaah hahaha!」
+195365	Slave Merchant		「アーーッハッハッハッハッ！」	「Aaaah hahaha!」
 
-195366	-	山賊達がゲタゲタと笑い出す。	The bandits burst into vulgar laughter.
+195366	-		山賊達がゲタゲタと笑い出す。	The bandits burst into vulgar laughter.
 
-195367	Slave Merchant	「ヒーッ！　こいつぁ傑作だー！	「Hiee! This is hilarious!
-195368	+	　おーい、みんな集まれー！」	　Hey everyone, gather round!」
+195367	Slave Merchant		「ヒーッ！　こいつぁ傑作だー！	「Hiee! This is hilarious!
+195368	+		　おーい、みんな集まれー！」	　Hey everyone, gather round!」
 
-195369	Slave Merchant	「殴り込みだ、ブッ殺せ！！！！」	「It's a raid, kill them!!!!」
+195369	Slave Merchant		「殴り込みだ、ブッ殺せ！！！！」	「It's a raid, kill them!!!!」
 
-195370	-	山賊達は手に手に武器を持ちあなたに襲いかかる。	The bandits charged at you with weapons in hand.
+195370	-		山賊達は手に手に武器を持ちあなたに襲いかかる。	The bandits charged at you with weapons in hand.
 
-195371	-	どうやら発言を選んでも意味はなかったようだ。	It seemed choosing words carefully didn't matter.
+195371	-		どうやら発言を選んでも意味はなかったようだ。	It seemed choosing words carefully didn't matter.

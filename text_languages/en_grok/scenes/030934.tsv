@@ -7,94 +7,94 @@
 * Oda Kouhime	香姫	Female
 * Miracle Tor	ミラクル	Female
 
-40700	-	山賊達を撃退して、うし車の旅は続く。	After repelling the bandits, the ox cart journey continued.
+40700	-		山賊達を撃退して、うし車の旅は続く。	After repelling the bandits, the ox cart journey continued.
 
-40701	-	行列になったうし車は、時折鳴き声を上げながら、	The line of ox carts moved slowly along the mountain path,
-40702	+	のろのろと山道を進んでゆく。	occasionally letting out calls.
+40701	-		行列になったうし車は、時折鳴き声を上げながら、	The line of ox carts moved slowly along the mountain path,
+40702	+		のろのろと山道を進んでゆく。	occasionally letting out calls.
 
-40703	Rance	「ふーむ、ちょいと小腹が空いたな。	「Hmm, I'm a bit hungry.
-40704	+	　栄養補給しとくか」	　Time for a snack.」
+40703	Rance	真剣	「ふーむ、ちょいと小腹が空いたな。	「Hmm, I'm a bit hungry.
+40704	+		　栄養補給しとくか」	　Time for a snack.」
 
-40705	Free Cities Guard	「あー！　ちょっと、程々にしてくれよな！」	「Hey! Go easy on the food!」
+40705	Free Cities Guard	基本	「あー！　ちょっと、程々にしてくれよな！」	「Hey! Go easy on the food!」
 
-40706	-	ランスの乗るうし車の御者が、	The driver of Rance's cart
-40707	+	つまみ食いに耐えかねて声を上げた。	couldn't hold back anymore.
+40706	-		ランスの乗るうし車の御者が、	The driver of Rance's cart
+40707	+		つまみ食いに耐えかねて声を上げた。	couldn't hold back anymore.
 
-40708	Rance	「なんだ、やかましい」	「What, so noisy.」
+40708	Rance	だる顔	「なんだ、やかましい」	「What, so noisy.」
 
-40709	Free Cities Guard	「し、仕方ねーだろ。	「I can't help it.
-40710	+	　それ一個食われたら、現地で一人、	　If you eat one, that means one more person
-40711	+	　余分に死ぬかもしれねーんだぞ」	　might starve at the front.」
+40709	Free Cities Guard	基本	「し、仕方ねーだろ。	「I can't help it.
+40710	+		　それ一個食われたら、現地で一人、	　If you eat one, that means one more person
+40711	+		　余分に死ぬかもしれねーんだぞ」	　might starve at the front.」
 
-40712	Rance	「ふん、弱い奴が餓死しようが知ったことか」	「Hmph, not my problem if the weak starve.」
+40712	Rance		「ふん、弱い奴が餓死しようが知ったことか」	「Hmph, not my problem if the weak starve.」
 
-40713	Free Cities Guard	「うぐ……」	「Ugh...」
+40713	Free Cities Guard		「うぐ……」	「Ugh...」
 
-40714	Caloria Cricket	「でも倒れちゃうの、	「But the one who collapses
-40715	+	　ランスの好きな、可愛い女の子かもしれないよ」	　might be a cute girl Rance likes.」
+40714	Caloria Cricket		「でも倒れちゃうの、	「But the one who collapses
+40715	+		　ランスの好きな、可愛い女の子かもしれないよ」	　might be a cute girl Rance likes.」
 
-40716	Rance	「むっ……そう言われると食いにくい」	「Muu... now it's harder to eat.」
+40716	Rance	だる顔	「むっ……そう言われると食いにくい」	「Muu... now it's harder to eat.」
 
-40717	Kentou Kanami~	（カロリアちゃんも成長したというか……	（Caloria-chan has grown up...
-40718	+	　ランスと上手く話せるようになったのねー）	　She can talk to Rance so well now.）
+40717	Kentou Kanami~	基本	（カロリアちゃんも成長したというか……	（Caloria-chan has grown up...
+40718	+		　ランスと上手く話せるようになったのねー）	　She can talk to Rance so well now.）
 
-40719	Rance	「ああ、しかし食えんと思うと食いたくなるな。	「Yeah, but now that I can't eat I want to.
-40720	+	　ううー、腹減った、腹減ったぞシィルー」	　Uuu, I'm hungry, I'm hungry, Sill!」
+40719	Rance	イライラ	「ああ、しかし食えんと思うと食いたくなるな。	「Yeah, but now that I can't eat I want to.
+40720	+		　ううー、腹減った、腹減ったぞシィルー」	　Uuu, I'm hungry, I'm hungry, Sill!」
 
-40721	Sill Plain	「あ……でも、お食事はもうさっき摂られましたし、	「Ah... but you just ate...
-40722	+	　余分な物は…………」	　There's nothing extra...」
+40721	Sill Plain	恥	「あ……でも、お食事はもうさっき摂られましたし、	「Ah... but you just ate...
+40722	+		　余分な物は…………」	　There's nothing extra...」
 
-40723	Caloria Cricket	「かろのおべんと、食べる……？」	「Want some of Caloria's bento...?」
+40723	Caloria Cricket	基本	「かろのおべんと、食べる……？」	「Want some of Caloria's bento...?」
 
-40724	Rance	「……要らん。お前、大量に食わんとダメなんだろ」	「...No. You need to eat a lot, right?」
+40724	Rance	だる顔	「……要らん。お前、大量に食わんとダメなんだろ」	「...No. You need to eat a lot, right?」
 
-40725	Caloria Cricket	「ん、そうだけど……」	「Yeah, but...」
+40725	Caloria Cricket	困り	「ん、そうだけど……」	「Yeah, but...」
 
-40726	Rance	「あー、あー、なんか食いたいぞ……	「Aah, aah, I want something to eat...
-40727	+	　むむむむ……」	　Muuu...」
+40726	Rance	イライラ	「あー、あー、なんか食いたいぞ……	「Aah, aah, I want something to eat...
+40727	+		　むむむむ……」	　Muuu...」
 
-40728	-	イライラした様子で、	Irritated,
-40729	+	ランスがうし車の横腹を蹴りつける。	Rance kicked the side of the ox cart.
+40728	-		イライラした様子で、	Irritated,
+40729	+		ランスがうし車の横腹を蹴りつける。	Rance kicked the side of the ox cart.
 
-40730	Free Cities Guard	「お、おーい……静かにしてくれい……	「H-hey... please calm down...
-40731	+	　うしが怯えるんだが……」	　You're scaring the oxen...」
+40730	Free Cities Guard	基本	「お、おーい……静かにしてくれい……	「H-hey... please calm down...
+40731	+		　うしが怯えるんだが……」	　You're scaring the oxen...」
 
-40732	Rance	「うるさい。気になるものは仕方ない」	「Shut up. I can't help it if I'm hungry.」
+40732	Rance	イライラ	「うるさい。気になるものは仕方ない」	「Shut up. I can't help it if I'm hungry.」
 
-40733	Oda Kouhime	「お腹に何か入れば、静かになりますか？	「Will something in your stomach calm you down?
-40734	+	　では……どうぞ、兄様」	　Then... here, brother.」
+40733	Oda Kouhime	武装	「お腹に何か入れば、静かになりますか？	「Will something in your stomach calm you down?
+40734	+		　では……どうぞ、兄様」	　Then... here, brother.」
 
-40735	Rance	「おっ、なんかあるのか。サンキュー」	「Oh, you have something? Thanks.」
+40735	Rance	笑顔	「おっ、なんかあるのか。サンキュー」	「Oh, you have something? Thanks.」
 
-40736	-	ランスはひょいと差し出された皿を受け取り、	Rance casually took the offered plate
-40737	+	ほとんど確認もせずに口に入れた。	and popped the contents into his mouth without looking.
+40736	-		ランスはひょいと差し出された皿を受け取り、	Rance casually took the offered plate
+40737	+		ほとんど確認もせずに口に入れた。	and popped the contents into his mouth without looking.
 
-40738	Rance	「げぶふぉぉぉぉおぉぉっ！！」	「Gebufooooooh!!」
+40738	Rance	怒り	「げぶふぉぉぉぉおぉぉっ！！」	「Gebufooooooh!!」
 
-40739	-	ランスは胸を掻きむしって、	Rance clutched his chest
-40740	+	面白い顔で悶絶して意識を失った。	and passed out with a funny expression.
+40739	-		ランスは胸を掻きむしって、	Rance clutched his chest
+40740	+		面白い顔で悶絶して意識を失った。	and passed out with a funny expression.
 
-40741	Oda Kouhime	「あ、あ……に、兄様ー！？」	「A-ah... B-brother!?」
+40741	Oda Kouhime	武装／焦り	「あ、あ……に、兄様ー！？」	「A-ah... B-brother!?」
 
-40742	-	団子の皿を差し出した格好のまま、	Still holding out the plate of dumplings,
-40743	+	香姫は目をぱちくりさせた。	Kou blinked in shock.
+40742	-		団子の皿を差し出した格好のまま、	Still holding out the plate of dumplings,
+40743	+		香姫は目をぱちくりさせた。	Kou blinked in shock.
 
-40744	Sill Plain	「あ、ああ、ランス様の顔色が	「Ah, Rance-sama's face
-40745	+	　土気色から緑色に……」	　went from pale to green...」
+40744	Sill Plain	慌て	「あ、ああ、ランス様の顔色が	「Ah, Rance-sama's face
+40745	+		　土気色から緑色に……」	　went from pale to green...」
 
-40746	Caloria Cricket	「確かに……静かになったね、ランス……」	「Yeah... he got quiet, Rance...」
+40746	Caloria Cricket	驚き	「確かに……静かになったね、ランス……」	「Yeah... he got quiet, Rance...」
 
-40747	Oda Kouhime	「ち、ちがいますー！　あの、その、わざとじゃ……	「I-it's not what you think! That was my new recipe...
-40748	+	　今日は頑張った新作だったんですけど……」	　I worked hard on it today...」
+40747	Oda Kouhime	武装／うわーん	「ち、ちがいますー！　あの、その、わざとじゃ……	「I-it's not what you think! That was my new recipe...
+40748	+		　今日は頑張った新作だったんですけど……」	　I worked hard on it today...」
 
-40749	Kentou Kanami	「破壊力、増してる気はするわね……	「It feels even more destructive now...
-40750	+	　香姫様の、お団子……」	　Kou-sama's dumplings...」
+40749	Kentou Kanami	ジト目	「破壊力、増してる気はするわね……	「It feels even more destructive now...
+40750	+		　香姫様の、お団子……」	　Kou-sama's dumplings...」
 
-40751	Miracle Tor	「これも才、か」	「This is talent too, I suppose.」
+40751	Miracle Tor	目閉じ	「これも才、か」	「This is talent too, I suppose.」
 
-40752	Oda Kouhime	「わ、わーーーーん！」	「Waaaaah!」
+40752	Oda Kouhime	武装／うわーん	「わ、わーーーーん！」	「Waaaaah!」
 
-40753	-	山道は下りにさしかかっていく。	The mountain path began descending.
+40753	-		山道は下りにさしかかっていく。	The mountain path began descending.
 
-40754	-	平和な旅路を象徴するように、	As if symbolizing the peaceful journey,
-40755	+	のんびりとうしが鳴いた。	the oxen mooed lazily.
+40754	-		平和な旅路を象徴するように、	As if symbolizing the peaceful journey,
+40755	+		のんびりとうしが鳴いた。	the oxen mooed lazily.

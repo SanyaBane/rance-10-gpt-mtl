@@ -10,127 +10,127 @@
 * Reset Kalar	リセット	Female
 * Willis Fujisaki	ウィリス	Female
 
-55980	Rance	「なんだ？　この街は…………」	「What? This town is............」
+55980	Rance	基本	「なんだ？　この街は…………」	「What? This town is............」
 
-55981	Sill Plain	「火星というそうですよ、ランス様……」	「It's called Mars, Rance-sama...」
+55981	Sill Plain	きょとん	「火星というそうですよ、ランス様……」	「It's called Mars, Rance-sama...」
 
-55982	Man	「おっと旅するそこの方。	「Hey there, traveler.
-55983	+	　ここは火星じゃないぜ」	　This isn't Mars.」
+55982	Man	楽	「おっと旅するそこの方。	「Hey there, traveler.
+55983	+		　ここは火星じゃないぜ」	　This isn't Mars.」
 
-55984	Sill Plain	「えっ？」	「Eh?」
+55984	Sill Plain	基本	「えっ？」	「Eh?」
 
-55985	Man	「王であらせられる火星大王様が、	「The Great King Mars who rules here
-55986	+	　神になられたからな。	　became a god.
-55987	+	　それで今は、火星スターって名前なんだ」	　So now it's called Mars Star.」
+55985	Man	楽	「王であらせられる火星大王様が、	「The Great King Mars who rules here
+55986	+		　神になられたからな。	　became a god.
+55987	+		　それで今は、火星スターって名前なんだ」	　So now it's called Mars Star.」
 
-55988	Sill Plain	「はぁ……ご丁寧にどうも……」	「I see... Thank you for the explanation...」
+55988	Sill Plain	基本	「はぁ……ご丁寧にどうも……」	「I see... Thank you for the explanation...」
 
-55989	Man	「はっはっは〜。ま〜べら〜〜す」	「Hahaha~. Marveeeelous.」
+55989	Man	楽	「はっはっは〜。ま〜べら〜〜す」	「Hahaha~. Marveeeelous.」
 
-55990	-	男は去っていった。	The man walked away.
+55990	-		男は去っていった。	The man walked away.
 
-55991	Rance	「…………なんだか分からんが、	「............I don't get it,
-55992	+	　変な街っぽいのはわかった」	　but it's definitely a weird town.」
+55991	Rance	だる顔	「…………なんだか分からんが、	「............I don't get it,
+55992	+		　変な街っぽいのはわかった」	　but it's definitely a weird town.」
 
-55993	Copandon Dott	「うちもこの辺全然来ぉへんからなぁ……	「I don't come around here much either...
-55994	+	　よーわからんわ」	　No clue.」
+55993	Copandon Dott	ため息	「うちもこの辺全然来ぉへんからなぁ……	「I don't come around here much either...
+55994	+		　よーわからんわ」	　No clue.」
 
-55995	Woman	「お兄さん、お兄さん。	「Hey mister, mister.
-55996	+	　上限レベル低そうな顔してるね」	　You look like you have a low level cap.」
+55995	Woman	基本	「お兄さん、お兄さん。	「Hey mister, mister.
+55996	+		　上限レベル低そうな顔してるね」	　You look like you have a low level cap.」
 
-55997	Rocky Bank	「なな、なんだすか！？」	「W-What is it!?」
+55997	Rocky Bank		「なな、なんだすか！？」	「W-What is it!?」
 
-55998	Woman	「うちの宿、スターアンテナあるの。	「Our inn has a Star Antenna.
-55999	+	　スターレベル様のお墨付き。上限上がるよ」	　It's approved by Star Level-sama. Raises your level cap.」
+55998	Woman		「うちの宿、スターアンテナあるの。	「Our inn has a Star Antenna.
+55999	+		　スターレベル様のお墨付き。上限上がるよ」	　It's approved by Star Level-sama. Raises your level cap.」
 
-56000	Rocky Bank	「え、あ、上がるんだすか？」	「Eh, ah, it goes up?」
+56000	Rocky Bank		「え、あ、上がるんだすか？」	「Eh, ah, it goes up?」
 
-56001	Woman	「そりゃもう。	「Of course.
-56002	+	　ついでに色々、サービスしちゃうよ？」	　And while you're at it, I'll give you all kinds of special service?」
+56001	Woman		「そりゃもう。	「Of course.
+56002	+		　ついでに色々、サービスしちゃうよ？」	　And while you're at it, I'll give you all kinds of special service?」
 
-56003	-	客引きの女性は色っぽく、ロッキーに囁いた。	The soliciting woman whispered seductively to Rocky.
+56003	-		客引きの女性は色っぽく、ロッキーに囁いた。	The soliciting woman whispered seductively to Rocky.
 
-56004	Rocky Bank	「う、ううう、そ、それは……ええと……」	「U-uuuh, t-that's... um...」
+56004	Rocky Bank		「う、ううう、そ、それは……ええと……」	「U-uuuh, t-that's... um...」
 
-56005	Old Man	「おっと！　うちの宿も由緒正しいぞい！	「Whoa there! Our inn is a historic place too!
-56006	+	　スターレベル様が直接浸かったスターの湯！	　The Star Bath where Star Level-sama bathed in person!
-56007	+	　運が良ければレベルがぽーんと！」	　If you're lucky your level might shoot right up!」
+56005	Old Man		「おっと！　うちの宿も由緒正しいぞい！	「Whoa there! Our inn is a historic place too!
+56006	+		　スターレベル様が直接浸かったスターの湯！	　The Star Bath where Star Level-sama bathed in person!
+56007	+		　運が良ければレベルがぽーんと！」	　If you're lucky your level might shoot right up!」
 
-56008	Rocky Bank	「え、え、え？」	「E-eh, eh?」
+56008	Rocky Bank		「え、え、え？」	「E-eh, eh?」
 
-56009	Muscle Man	「待ちな！　そっちの兄さん、	「Hold on! Hey buddy over there,
-56010	+	　本当に足りてないのは技能じゃないのかい！	　What you really lack isn't skills!
-56011	+	　そんなツラだ！」	　Look at that face of yours!」
+56009	Muscle Man		「待ちな！　そっちの兄さん、	「Hold on! Hey buddy over there,
+56010	+		　本当に足りてないのは技能じゃないのかい！	　What you really lack isn't skills!
+56011	+		　そんなツラだ！」	　Look at that face of yours!」
 
-56012	Rocky Bank	「ううっ、初対面の人たちに……！」	「Uuu, from people I just met...!」
+56012	Rocky Bank	ガーン	「ううっ、初対面の人たちに……！」	「Uuu, from people I just met...!」
 
-56013	Reset Kalar	「ロッキーさん、もてもて……」	「Rocky-san is so popular...」
+56013	Reset Kalar	基本	「ロッキーさん、もてもて……」	「Rocky-san is so popular...」
 
-56014	Rocky Bank	「う、嬉しくないだすーー！」	「I-I'm not happy abouuut it!」
+56014	Rocky Bank	悲しい	「う、嬉しくないだすーー！」	「I-I'm not happy abouuut it!」
 
-56015	Rance	「……なんだなんだ。ここは…………」	「...What the hell is this place...」
+56015	Rance	驚き	「……なんだなんだ。ここは…………」	「...What the hell is this place...」
 
-56016	Woman	「体験してみれば分かりますよ。	「You'll understand once you try it.
-56017	+	　ここだけの話、他のレベル神には内緒で……」	　Just between us, don't tell the other Level Gods...」
+56016	Woman	基本	「体験してみれば分かりますよ。	「You'll understand once you try it.
+56017	+		　ここだけの話、他のレベル神には内緒で……」	　Just between us, don't tell the other Level Gods...」
 
-56018	Willis Fujisaki	「…………内緒で、なんですか……？」	「...Secretly doing what...?」
+56018	Willis Fujisaki		「…………内緒で、なんですか……？」	「...Secretly doing what...?」
 
-56019	-	顔を引きつらせて、ウィリスが顕現していた。	Willis appeared with a stiff face.
+56019	-		顔を引きつらせて、ウィリスが顕現していた。	Willis appeared with a stiff face.
 
-56020	Rance	「おっ、ウィリス」	「Oh, Willis.」
+56020	Rance		「おっ、ウィリス」	「Oh, Willis.」
 
-56021	Woman	「ひっ、レベル神！？」	「Hii, a Level God!?」
+56021	Woman		「ひっ、レベル神！？」	「Hii, a Level God!?」
 
-56022	Willis Fujisaki	「あなた方……それは客引きの為の	「You people... That's just a sales pitch,
-56023	+	　でまかせ……ですよね？　まさか、本当に……」	　right? Surely you aren't actually...」
+56022	Willis Fujisaki		「あなた方……それは客引きの為の	「You people... That's just a sales pitch,
+56023	+		　でまかせ……ですよね？　まさか、本当に……」	　right? Surely you aren't actually...」
 
-56024	Woman	「えっ、ええと、その、私たちは……」	「E-eh, um, well, we are...」
+56024	Woman		「えっ、ええと、その、私たちは……」	「E-eh, um, well, we are...」
 
-56025	Old Man	「う、うむ、火星スターを	「Y-yes, we wanted to make Mars Star
-56026	+	　宮島にも負けぬ名所として……その……」	　a famous spot that rivals Miyajima... um...」
+56025	Old Man		「う、うむ、火星スターを	「Y-yes, we wanted to make Mars Star
+56026	+		　宮島にも負けぬ名所として……その……」	　a famous spot that rivals Miyajima... um...」
 
-56027	Willis Fujisaki	「なるほど、真っ黒ですね！」	「I see, it's completely black!」
+56027	Willis Fujisaki		「なるほど、真っ黒ですね！」	「I see, it's completely black!」
 
-56028	Woman	「ひっ、ひい！」	「Hii, hiii!」
+56028	Woman		「ひっ、ひい！」	「Hii, hiii!」
 
-56029	Willis Fujisaki	「こんな街全体でモグリ行為をしている所が	「I can't overlook an entire town doing illegal activities like this!
-56030	+	　あったなんて！	　As a Level God,
-56031	+	　レベル神として看過できません！」	　I cannot allow it!」
+56029	Willis Fujisaki		「こんな街全体でモグリ行為をしている所が	「I can't overlook an entire town doing illegal activities like this!
+56030	+		　あったなんて！	　As a Level God,
+56031	+		　レベル神として看過できません！」	　I cannot allow it!」
 
-56032	Woman	「きゃ、きゃあああっ！？」	「Kyaa, kyaaaaah!?」
+56032	Woman		「きゃ、きゃあああっ！？」	「Kyaa, kyaaaaah!?」
 
-56033	Willis Fujisaki	「首謀者を出しなさい！	「Bring out the mastermind!
-56034	+	　その人に…………！」	　To that person......!」
+56033	Willis Fujisaki		「首謀者を出しなさい！	「Bring out the mastermind!
+56034	+		　その人に…………！」	　To that person......!」
 
-56035	-	ウィリスから後光が発した、その瞬間。	The moment a holy light shone from Willis.
+56035	-		ウィリスから後光が発した、その瞬間。	The moment a holy light shone from Willis.
 
-56036	?	『んっん〜〜〜〜〜〜。せ〜〜しぼ〜〜〜ん』	『Nnn~~~... Se~~~shibo~~~n』
+56036	?		『んっん〜〜〜〜〜〜。せ〜〜しぼ〜〜〜ん』	『Nnn~~~... Se~~~shibo~~~n』
 
-56037	Willis Fujisaki	「…………！？」	「............!?」
+56037	Willis Fujisaki	ええ〜	「…………！？」	「............!?」
 
-56038	Old Man	「はっ……大王様！　スターレベル様じゃ！」	「Hah... Great King! It's Star Level-sama!」
+56038	Old Man	基本	「はっ……大王様！　スターレベル様じゃ！」	「Hah... Great King! It's Star Level-sama!」
 
-56039	Woman	「スターレベル様！　お助けを！」	「Star Level-sama! Save us!」
+56039	Woman		「スターレベル様！　お助けを！」	「Star Level-sama! Save us!」
 
-56040	?	『これはいけませ〜〜〜ん。とれびあ〜〜〜ん』	『That's no good~~~. Trebian~~~』
+56040	?		『これはいけませ〜〜〜ん。とれびあ〜〜〜ん』	『That's no good~~~. Trebian~~~』
 
-56041	Willis Fujisaki	「あ、あなた！　何者で……！」	「Y-you! Who are you...!」
+56041	Willis Fujisaki	ええ〜	「あ、あなた！　何者で……！」	「Y-you! Who are you...!」
 
-56042	Rance	「ど、どわっ…………！？」	「D-dowa......!?」
+56042	Rance	驚き	「ど、どわっ…………！？」	「D-dowa......!?」
 
-56043	-	周囲は、強い光に包まれた。	The surroundings were enveloped in a powerful light.
+56043	-		周囲は、強い光に包まれた。	The surroundings were enveloped in a powerful light.
 
-56044	Rance	「……………………」	「........................」
+56044	Rance	真剣	「……………………」	「........................」
 
-56045	Sill Plain	「う、ううん、何が…………わっ！	「U-uuuh, what is...... wah!
-56046	+	　ラ、ランス様、街が……！」	　R-Rance-sama, the town is...!」
+56045	Sill Plain	慌て	「う、ううん、何が…………わっ！	「U-uuuh, what is...... wah!
+56046	+		　ラ、ランス様、街が……！」	　R-Rance-sama, the town is...!」
 
-56047	Rance	「…………消えた……？	「............It disappeared...?
-56048	+	　妖怪にでも化かされてたのか……？」	　Was I tricked by some monster...?」
+56047	Rance	だる顔	「…………消えた……？	「............It disappeared...?
+56048	+		　妖怪にでも化かされてたのか……？」	　Was I tricked by some monster...?」
 
-56049	-	周辺には、街があった痕跡さえなかった。	There was no trace left of the town around them.
-56050	+	ウィリスの姿もない。	Willis was gone too.
+56049	-		周辺には、街があった痕跡さえなかった。	There was no trace left of the town around them.
+56050	+		ウィリスの姿もない。	Willis was gone too.
 
-56051	Rance	「………………進むか」	「............Shall we move on.」
+56051	Rance	真剣	「………………進むか」	「............Shall we move on.」
 
-56052	-	真相は謎のままだった。	The truth remained a mystery.
+56052	-		真相は謎のままだった。	The truth remained a mystery.

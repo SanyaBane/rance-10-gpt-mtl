@@ -8,137 +8,137 @@
 * El Mofus	エール２	Player's choice
 * Masou Shizuka	志津香２	Female
 
-225563	-	翌朝――	The next morning――
+225563	-		翌朝――	The next morning――
 
-225564	-	宮廷で食べるのは肩が凝るだろうという理由で、	Because eating in the court would be stiff,
-225565	+	部屋に運ばれた朝食を、	you all freely enjoyed the breakfast
-225566	+	あなた達は遠慮なく頂いていた。	brought to the room.
+225564	-		宮廷で食べるのは肩が凝るだろうという理由で、	Because eating in the court would be stiff,
+225565	+		部屋に運ばれた朝食を、	you all freely enjoyed the breakfast
+225566	+		あなた達は遠慮なく頂いていた。	brought to the room.
 
-225567	Nagata-kun	「んーーー、これがゼス料理かー。	「Mmmー, so this is Zeth cuisineー.
-225568	+	　うめー、うめー」	　Delicious, delicious.」
+225567	Nagata-kun	基本	「んーーー、これがゼス料理かー。	「Mmmー, so this is Zeth cuisineー.
+225568	+		　うめー、うめー」	　Delicious, delicious.」
 
-225569	Zance Leazas	「ま、リーザスの飯には劣るが悪かねぇ」	「Well, it's not as good as Leazas food but not bad.」
+225569	Zance Leazas		「ま、リーザスの飯には劣るが悪かねぇ」	「Well, it's not as good as Leazas food but not bad.」
 
-225570	Nagi su Ragarl	「素直に美味いと言ってもいいと思うよ？」	「You can just honestly say it's delicious, you know?」
+225570	Nagi su Ragarl		「素直に美味いと言ってもいいと思うよ？」	「You can just honestly say it's delicious, you know?」
 
-225571	Zance Leazas	「アア？　うるせぇな」	「Hah? Shut up.」
+225571	Zance Leazas	不満	「アア？　うるせぇな」	「Hah? Shut up.」
 
-225572	Magic the Gandhi	「ちょっといいかしら」	「Excuse me for a moment.」
+225572	Magic the Gandhi	基本	「ちょっといいかしら」	「Excuse me for a moment.」
 
-225573	-	と、マジック女王が顔を出した。	Queen Magic appeared.
+225573	-		と、マジック女王が顔を出した。	Queen Magic appeared.
 
-225574	Reset Kalar	「あ、はーい。	「Ah, yeees.
-225575	+	　どうかしましたか？」	　Is something wrong?」
+225574	Reset Kalar		「あ、はーい。	「Ah, yeees.
+225575	+		　どうかしましたか？」	　Is something wrong?」
 
-225576	Magic the Gandhi	「…………」	「............」
+225576	Magic the Gandhi	目閉じ	「…………」	「............」
 
-225577	Reset Kalar	「ま、マジックさん……」	「M-Magic-san...」
+225577	Reset Kalar	基本	「ま、マジックさん……」	「M-Magic-san...」
 
-225578	Zance Leazas	「まさか、あの女……」	「Don't tell me that woman...」
+225578	Zance Leazas		「まさか、あの女……」	「Don't tell me that woman...」
 
-225579	Magic the Gandhi	「ごめん、スシヌが家出した」	「Sorry, Sushinu ran away from home.」
+225579	Magic the Gandhi	目閉じ	「ごめん、スシヌが家出した」	「Sorry, Sushinu ran away from home.」
 
-225580	Reset Kalar	「ええっ！？」	「Ehhh!?」
+225580	Reset Kalar	驚き	「ええっ！？」	「Ehhh!?」
 
-225581	Magic the Gandhi	「今朝、部屋に行ったら	「This morning when I went to her room
-225582	+	　こんな書き置きがあってね……」	　there was this note...」
+225581	Magic the Gandhi	基本	「今朝、部屋に行ったら	「This morning when I went to her room
+225582	+		　こんな書き置きがあってね……」	　there was this note...」
 
-225583	-	『ちょっと時間を下さい　スシヌ』	『Please give me some time. Sushinu』
+225583	-		『ちょっと時間を下さい　スシヌ』	『Please give me some time. Sushinu』
 
-225584	Nagata-kun	「おお……なんてこったい……」	「Oh no... what the heck...」
+225584	Nagata-kun		「おお……なんてこったい……」	「Oh no... what the heck...」
 
-225585	Magic the Gandhi	「なんというか……	「How should I say it...
-225586	+	　本当にごめんなさい」	　I'm really sorry.」
+225585	Magic the Gandhi	目閉じ	「なんというか……	「How should I say it...
+225586	+		　本当にごめんなさい」	　I'm really sorry.」
 
-225587	Magic the Gandhi	「ああ、それとオーブのある場所が見つかったわ」	「Ah, and we found the location of the Orb.」
+225587	Magic the Gandhi	基本	「ああ、それとオーブのある場所が見つかったわ」	「Ah, and we found the location of the Orb.」
 
-225588	Magic the Gandhi	「スシヌはこっちでなんとかするから、	「We'll handle Sushinu here,
-225589	+	　みんなはその間、	　so in the meantime,
-225590	+	　オーブを探しに行くというのはどうかしら？」	　how about you all go search for the Orb?」
+225588	Magic the Gandhi		「スシヌはこっちでなんとかするから、	「We'll handle Sushinu here,
+225589	+		　みんなはその間、	　so in the meantime,
+225590	+		　オーブを探しに行くというのはどうかしら？」	　how about you all go search for the Orb?」
 
-225591	Yamamoto Rangi	「……まあ、その方が無駄がないですね」	「...Well, that would be more efficient.」
+225591	Yamamoto Rangi		「……まあ、その方が無駄がないですね」	「...Well, that would be more efficient.」
 
-225592	Yamamoto Rangi	「＜エール＞、どうする？」	「＜エール＞, what do you want to do?」
+225592	Yamamoto Rangi		「＜エール＞、どうする？」	「＜エール＞, what do you want to do?」
 
-225593	El Mofus	「…………。」	「............」
-225594	Reset Kalar	「そうだね、スシヌちゃんが心配だもんねー」	「Yeah, we're worried about Sushinu-chan after allー」
+225593	El Mofus		「…………。」	「............」
+225594	Reset Kalar	笑顔	「そうだね、スシヌちゃんが心配だもんねー」	「Yeah, we're worried about Sushinu-chan after allー」
 
-225595	Zance Leazas	「あの馬鹿女……	「That idiot woman...
-225596	+	　俺様から逃げようったってそうはいかねぇぞ……」	　She won't get away from me...」
+225595	Zance Leazas	基本	「あの馬鹿女……	「That idiot woman...
+225596	+		　俺様から逃げようったってそうはいかねぇぞ……」	　She won't get away from me...」
 
-225597	Nagi su Ragarl	「あーあー、ザンスが燃えてる……」	「Ahh, Zance is fired up...」
+225597	Nagi su Ragarl	反省	「あーあー、ザンスが燃えてる……」	「Ahh, Zance is fired up...」
 
-225598	Masou Shizuka	「心配ね……色々な意味で……」	「Worrying... in many ways...」
+225598	Masou Shizuka	ため息	「心配ね……色々な意味で……」	「Worrying... in many ways...」
 
-225599	Reset Kalar	「んふふ、ザンスちゃんはスシヌちゃんが	「Nfufu, Zance-chan is just worried
-225600	+	　心配なだけだよねー？」	　about Sushinu-chan, rightー?」
+225599	Reset Kalar	笑顔	「んふふ、ザンスちゃんはスシヌちゃんが	「Nfufu, Zance-chan is just worried
+225600	+		　心配なだけだよねー？」	　about Sushinu-chan, rightー?」
 
-225601	Reset Kalar	「あいたっ！」	「Ouch!」
+225601	Reset Kalar	憂い	「あいたっ！」	「Ouch!」
 
-225602	Nagata-kun	「へへっ！　女の子が一人で	「Hehe! A girl wandering alone
-225603	+	　ふらふらしてるってのも心配だしな！	　is worrying too!
-225604	+	　さすが俺の相棒だぜ！」	　As expected of my partner!」
+225602	Nagata-kun	基本	「へへっ！　女の子が一人で	「Hehe! A girl wandering alone
+225603	+		　ふらふらしてるってのも心配だしな！	　is worrying too!
+225604	+		　さすが俺の相棒だぜ！」	　As expected of my partner!」
 
-225605	Magic the Gandhi	「はあ……」	「Haa...」
+225605	Magic the Gandhi	目閉じ	「はあ……」	「Haa...」
 
 > male
-225606	Magic the Gandhi	「＜エール＞……君、だっけ？	「＜エール＞... was it?
-225607	+	　ありがとうね……」	　Thank you...」
+225606	Magic the Gandhi	基本	「＜エール＞……君、だっけ？	「＜エール＞... was it?
+225607	+		　ありがとうね……」	　Thank you...」
 
 > female
-225608	Magic the Gandhi	「＜エール＞……ちゃん、だっけ？	「＜エール＞...-chan, right?
-225609	+	　ありがとうね……」	　Thank you...」
+225608	Magic the Gandhi		「＜エール＞……ちゃん、だっけ？	「＜エール＞...-chan, right?
+225609	+		　ありがとうね……」	　Thank you...」
 
 > end
-225610	Magic the Gandhi	「不出来な娘だけど、宜しくお願いします」	「She's an imperfect daughter, but please take care of her.」
+225610	Magic the Gandhi		「不出来な娘だけど、宜しくお願いします」	「She's an imperfect daughter, but please take care of her.」
 
-225611	-	あなたは女王であるマジックに	Queen Magic bowed her head
-225612	+	頭を下げられてしまった。	to you.
+225611	-		あなたは女王であるマジックに	Queen Magic bowed her head
+225612	+		頭を下げられてしまった。	to you.
 
-225613	Zance Leazas	「ちょっと待てや！」	「Wait a minute!」
+225613	Zance Leazas	怒り	「ちょっと待てや！」	「Wait a minute!」
 
-225614	Zance Leazas	「この俺様から逃げようってなぁ、	「Trying to run from me,
-225615	+	　許せるもんじゃねーぞ！」	　I won't allow it!」
+225614	Zance Leazas	基本	「この俺様から逃げようってなぁ、	「Trying to run from me,
+225615	+		　許せるもんじゃねーぞ！」	　I won't allow it!」
 
-225616	Zance Leazas	「どこに逃げようが絶対に捕まえてやる！」	「No matter where she runs, I'll catch her!」
+225616	Zance Leazas		「どこに逃げようが絶対に捕まえてやる！」	「No matter where she runs, I'll catch her!」
 
-225617	Magic the Gandhi	「こらこら！	「Hey hey!
-225618	+	　スシヌが犯罪者みたいな言い方はやめなさい！」	　Stop talking about Sushinu like she's a criminal!」
+225617	Magic the Gandhi	怒り	「こらこら！	「Hey hey!
+225618	+		　スシヌが犯罪者みたいな言い方はやめなさい！」	　Stop talking about Sushinu like she's a criminal!」
 
-225619	Zance Leazas	「おい、＜エール＞。	「Hey, ＜エール＞.
-225620	+	　お前らはオーブを探しに行け。	　You guys go search for the Orb.
-225621	+	　俺は一人でもスシヌを探しに行く」	　I'll go look for Sushinu alone.」
+225619	Zance Leazas	基本	「おい、＜エール＞。	「Hey, ＜エール＞.
+225620	+		　お前らはオーブを探しに行け。	　You guys go search for the Orb.
+225621	+		　俺は一人でもスシヌを探しに行く」	　I'll go look for Sushinu alone.」
 
-225622	Reset Kalar	「ちょ、ちょっとちょっとザンスちゃん。	「W-wait, Zance-chan.
-225623	+	　単独行動は駄目だよ……」	　Solo action is not allowed...」
+225622	Reset Kalar		「ちょ、ちょっとちょっとザンスちゃん。	「W-wait, Zance-chan.
+225623	+		　単独行動は駄目だよ……」	　Solo action is not allowed...」
 
-225624	Zance Leazas	「アアン？　俺のやることに文句あるのか？」	「Haan? Got a problem with what I do?」
+225624	Zance Leazas	不満	「アアン？　俺のやることに文句あるのか？」	「Haan? Got a problem with what I do?」
 
-225625	Reset Kalar	「あぶぶぶ……」	「Abububu...
+225625	Reset Kalar	憂い	「あぶぶぶ……」	「Abububu...
 
-225626	-	ザンスはリセットの両頬をぐにーっと押し潰した。	Zance squished both of Reset's cheeks.
+225626	-		ザンスはリセットの両頬をぐにーっと押し潰した。	Zance squished both of Reset's cheeks.
 
-225627	Reset Kalar	「もう、心配だから探しに行くって、	「Geez, if you're worried then just say
-225628	+	　素直に言えばいいのに……」	　you're going to search for her...」
+225627	Reset Kalar	不満	「もう、心配だから探しに行くって、	「Geez, if you're worried then just say
+225628	+		　素直に言えばいいのに……」	　you're going to search for her...」
 
-225629	Zance Leazas	「誰がそんなこと言った！？　アア！？」	「Who said that!? Hah!?」
+225629	Zance Leazas	怒り	「誰がそんなこと言った！？　アア！？」	「Who said that!? Hah!?」
 
-225630	Reset Kalar	「んぶぶぶぶー！？」	「Nbuuubuuu!?」
+225630	Reset Kalar	憂い涙	「んぶぶぶぶー！？」	「Nbuuubuuu!?」
 
-225631	Yamamoto Rangi	「はあ、仕方ない……	「Haa, can't be helped...
-225632	+	　ザンスとスシヌを二人だけにするのも心配だ。	　Leaving Zance and Sushinu alone is worrying too.
-225633	+	　僕達も追いかけよう」	　We'll chase after them.」
+225631	Yamamoto Rangi	ため息	「はあ、仕方ない……	「Haa, can't be helped...
+225632	+		　ザンスとスシヌを二人だけにするのも心配だ。	　Leaving Zance and Sushinu alone is worrying too.
+225633	+		　僕達も追いかけよう」	　We'll chase after them.」
 
-225634	Magic the Gandhi	「リセットちゃんと乱義君には、	「I'm causing trouble for Reset-chan and Rangi-kun...
-225635	+	　迷惑をかけるわ……本当に……」	　Really...」
+225634	Magic the Gandhi	基本	「リセットちゃんと乱義君には、	「I'm causing trouble for Reset-chan and Rangi-kun...
+225635	+		　迷惑をかけるわ……本当に……」	　Really...」
 
-225636	Yamamoto Rangi	「スシヌは僕達の妹です。	「Sushinu is our little sister.
-225637	+	　こういうのは迷惑と言いませんよ」	　This isn't trouble at all.」
+225636	Yamamoto Rangi	微笑み	「スシヌは僕達の妹です。	「Sushinu is our little sister.
+225637	+		　こういうのは迷惑と言いませんよ」	　This isn't trouble at all.」
 
-225638	Nagata-kun	「ま、女の子が一人で	「Well, a girl wandering alone
-225639	+	　ふらふらしてるってのも心配だしな！	　is worrying too!
-225640	+	　行こうぜ！　相棒！」	　Let's go, partner!」
+225638	Nagata-kun	基本	「ま、女の子が一人で	「Well, a girl wandering alone
+225639	+		　ふらふらしてるってのも心配だしな！	　is worrying too!
+225640	+		　行こうぜ！　相棒！」	　Let's go, partner!」
 
-225641	-	こうしてあなた達はオーブ探しの前に	And so, before searching for the Orb,
-225642	+	行方不明となってしまったスシヌを	you decided to search for the missing Sushinu.
-225643	+	探すこととなった。	
+225641	-		こうしてあなた達はオーブ探しの前に	And so, before searching for the Orb,
+225642	+		行方不明となってしまったスシヌを	you decided to search for the missing Sushinu.
+225643	+		探すこととなった。	

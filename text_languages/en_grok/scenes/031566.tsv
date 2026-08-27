@@ -4,91 +4,91 @@
 * Klean Bew	クリン	Female
 * Crane	クレイン	Female
 
-88845	Rance	「おっ、クレインちゃんじゃないか」	「Oh, it's Crane-chan.」
+88845	Rance	基本	「おっ、クレインちゃんじゃないか」	「Oh, it's Crane-chan.」
 
-88846	?	「…………」	「............」
+88846	?		「…………」	「............」
 
-88847	Rance	「まったく、君はまたそうやって	「Geez, you're hiding again
-88848	+	　姿を隠しているのか？」	　like that?」
+88847	Rance	真剣	「まったく、君はまたそうやって	「Geez, you're hiding again
+88848	+		　姿を隠しているのか？」	　like that?」
 
-88849	Rance	「さあさあ、出て来なさい」	「Come on out.」
+88849	Rance	基本	「さあさあ、出て来なさい」	「Come on out.」
 
-88850	?	「…………」	「............」
+88850	?		「…………」	「............」
 
-88851	Heidi Pankrau	「ひいっ……壁と喋ってる！」	「Hii... talking to the wall!」
+88851	Heidi Pankrau	ビクゥ！	「ひいっ……壁と喋ってる！」	「Hii... talking to the wall!」
 
-88852	Klean Bew	「ああ、ご主人様が……	「Ah, Master is...
-88853	+	　可哀想な人に〜……」	　talking to a pitiful person〜...」
+88852	Klean Bew	考え中	「ああ、ご主人様が……	「Ah, Master is...
+88853	+		　可哀想な人に〜……」	　talking to a pitiful person〜...」
 
-88854	Heidi Pankrau	「総統閣下の重責は	「The heavy responsibility of the Supreme Leader
-88855	+	　それほどまでに重いということねー」	　must be really heavyー」
+88854	Heidi Pankrau	知らんし	「総統閣下の重責は	「The heavy responsibility of the Supreme Leader
+88855	+		　それほどまでに重いということねー」	　must be really heavyー」
 
-88856	Rance	「失礼なこと言うな！」	「Don't be rude!」
+88856	Rance	怒り	「失礼なこと言うな！」	「Don't be rude!」
 
-88857	Rance	「ふん、俺ほどの達人ともなると、	「Hmph, for a master like me,
-88858	+	　気配を読むなど簡単。	　reading presence is easy.
-88859	+	　そして気配だけで誰かを読むのも容易い」	　And identifying someone from presence alone is simple.」
+88857	Rance	基本	「ふん、俺ほどの達人ともなると、	「Hmph, for a master like me,
+88858	+		　気配を読むなど簡単。	　reading presence is easy.
+88859	+		　そして気配だけで誰かを読むのも容易い」	　And identifying someone from presence alone is simple.」
 
-88860	Rance	「ここにクレインちゃんがいるのだ」	「Crane-chan is right here.」
+88860	Rance		「ここにクレインちゃんがいるのだ」	「Crane-chan is right here.」
 
-88861	Heidi Pankrau	「えー、本当ですかー？」	「Ehh, really?」
+88861	Heidi Pankrau		「えー、本当ですかー？」	「Ehh, really?」
 
-88862	Rance	「本当だっての」	「It's true.」
+88862	Rance	だる顔	「本当だっての」	「It's true.」
 
-88863	Rance	「さあ、クレインちゃん、姿を見せなさい」	「Come on, Crane-chan, show yourself.」
+88863	Rance	基本	「さあ、クレインちゃん、姿を見せなさい」	「Come on, Crane-chan, show yourself.」
 
-88864	Crane	「…………」	「............」
+88864	Crane	メットあり	「…………」	「............」
 
-88865	-	スーツの力で体を透明にしていたクレインは	Crane, who had made her body transparent with her suit,
-88866	+	少し困っていた。	was a bit troubled.
+88865	-		スーツの力で体を透明にしていたクレインは	Crane, who had made her body transparent with her suit,
+88866	+		少し困っていた。	was a bit troubled.
 
-88867	Crane	「…………」	「............」
+88867	Crane		「…………」	「............」
 
-88868	Crane~	（…………	（............
-88869	+	　私……そこにいない……）	　I'm... not there...）
+88868	Crane~		（…………	（............
+88869	+		　私……そこにいない……）	　I'm... not there...）
 
-88870	-	今来たばかりのクレインは	Crane who had just arrived
-88871	+	なんだか少し困った場面に出くわした。	had stumbled into a slightly awkward situation.
+88870	-		今来たばかりのクレインは	Crane who had just arrived
+88871	+		なんだか少し困った場面に出くわした。	had stumbled into a slightly awkward situation.
 
-88872	Crane	「…………」	「............」
+88872	Crane		「…………」	「............」
 
-88873	Rance	「おーい、クレインちゃん、どうしたー？」	「Hey, Crane-chan, what's wrongー?」
+88873	Rance	だる顔	「おーい、クレインちゃん、どうしたー？」	「Hey, Crane-chan, what's wrongー?」
 
-88874	Crane	「…………よいしょ。	「............ Heave.
-88875	+	　そろーり、そろーり……」	　Slowly, slowly...」
+88874	Crane	メットあり	「…………よいしょ。	「............ Heave.
+88875	+		　そろーり、そろーり……」	　Slowly, slowly...」
 
-88876	Crane	「…………んっ」	「............Nn.」
+88876	Crane		「…………んっ」	「............Nn.」
 
-88877	Crane	「ふう……」	「Phew...」
+88877	Crane		「ふう……」	「Phew...」
 
-88878	Heidi Pankrau	「わっ、本当にいた！」	「Wa, she really was there!」
+88878	Heidi Pankrau	基本	「わっ、本当にいた！」	「Wa, she really was there!」
 
-88879	Crane	「えっと……	「Um...
-88880	+	　…………さすが、ね……」	　...As expected...」
+88879	Crane	メットあり	「えっと……	「Um...
+88880	+		　…………さすが、ね……」	　...As expected...」
 
-88881	-	クレインはこーっそりと移動してから	Crane secretly moved
-88882	+	透明化を解除した。	and then canceled her transparency.
+88881	-		クレインはこーっそりと移動してから	Crane secretly moved
+88882	+		透明化を解除した。	and then canceled her transparency.
 
-88883	Rance	「がははは！　どうだ、どうだ！	「Gahahaha! See, see!
-88884	+	　本当にいただろう！？　な、な！」	　She really was there!? Right, right!」
+88883	Rance	笑顔	「がははは！　どうだ、どうだ！	「Gahahaha! See, see!
+88884	+		　本当にいただろう！？　な、な！」	　She really was there!? Right, right!」
 
-88885	Heidi Pankrau	「むう、確かにこれはすごい……」	「Muu, that really is impressive...」
+88885	Heidi Pankrau	基本	「むう、確かにこれはすごい……」	「Muu, that really is impressive...」
 
-88886	Klean Bew	「ぱちぱちぱちー。	「Clap clap clapー.
-88887	+	　さすがです、ご主人様」	　As expected, Master.」
+88886	Klean Bew		「ぱちぱちぱちー。	「Clap clap clapー.
+88887	+		　さすがです、ご主人様」	　As expected, Master.」
 
-88888	Rance	「がははは、そうだろ、そうだろ！」	「Gahahaha, right, right!」
+88888	Rance	笑顔	「がははは、そうだろ、そうだろ！」	「Gahahaha, right, right!」
 
-88889	Rance	「どうだ、クレインちゃん。	「How about that, Crane-chan.
-88890	+	　俺はすごいだろう」	　I'm amazing, right?」
+88889	Rance	基本	「どうだ、クレインちゃん。	「How about that, Crane-chan.
+88890	+		　俺はすごいだろう」	　I'm amazing, right?」
 
-88891	Crane	「…………」	「............」
+88891	Crane	メットあり	「…………」	「............」
 
-88892	Crane	「………………え、ええ」	「............Y-yes.」
+88892	Crane		「………………え、ええ」	「............Y-yes.」
 
-88893	Crane	「とてもすごいと私は思いました」	「I think you are very amazing.」
+88893	Crane		「とてもすごいと私は思いました」	「I think you are very amazing.」
 
-88894	Rance	「……作文？」	「...Like a composition?」
+88894	Rance	基本	「……作文？」	「...Like a composition?」
 
-88895	-	盗み聞きの魔女、クレインは	The eavesdropping witch Crane
-88896	+	体質とは裏腹にとても優しい子だった。	was actually a very kind girl despite her ability.
+88895	-		盗み聞きの魔女、クレインは	The eavesdropping witch Crane
+88896	+		体質とは裏腹にとても優しい子だった。	was actually a very kind girl despite her ability.

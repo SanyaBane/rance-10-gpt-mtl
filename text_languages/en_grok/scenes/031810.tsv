@@ -3,64 +3,64 @@
 * Cordoba Burn	コルドバ	Male
 * Sill Plain	シィル	Female
 
-103634	Rance	「む？」	「Mu?」
+103634	Rance	真剣	「む？」	「Mu?」
 
-103635	Cordoba Burn	「お……」	「Oh...」
+103635	Cordoba Burn	基本	「お……」	「Oh...」
 
-103636	Cordoba Burn	「おおっ！　ランス総統！	「Ooh! Supreme Leader Rance!
-103637	+	　これは偶然ですな！	　What a coincidence!
-103638	+	　がっはっはっはっ！」	　Gah hah hah hah!」
+103636	Cordoba Burn	笑顔	「おおっ！　ランス総統！	「Ooh! Supreme Leader Rance!
+103637	+		　これは偶然ですな！	　What a coincidence!
+103638	+		　がっはっはっはっ！」	　Gah hah hah hah!」
 
-103639	Rance	「ぐ、わっ……」	「Gu, wah...」
+103639	Rance	だる顔	「ぐ、わっ……」	「Gu, wah...」
 
-103640	Rance	「やかましい！　もう少し小さな声で喋れ！	「Too loud! Speak quieter!
-103641	+	　俺様の繊細な鼓膜が破れたらどうする！」	　What if you break my delicate eardrums!」
+103640	Rance	怒り	「やかましい！　もう少し小さな声で喋れ！	「Too loud! Speak quieter!
+103641	+		　俺様の繊細な鼓膜が破れたらどうする！」	　What if you break my delicate eardrums!」
 
-103642	Cordoba Burn	「がはははは！　失礼しました！	「Gahahahaha! My apologies!
-103643	+	　地声がデカイのは生まれつきでして！	　My natural voice is loud by birth!
-103644	+	　よくうるさいと周りに怒られます！」	　People often get mad at me for being noisy!」
+103642	Cordoba Burn	笑顔	「がはははは！　失礼しました！	「Gahahahaha! My apologies!
+103643	+		　地声がデカイのは生まれつきでして！	　My natural voice is loud by birth!
+103644	+		　よくうるさいと周りに怒られます！」	　People often get mad at me for being noisy!」
 
-103645	Rance	「ふん、俺は忙しいんだ。	「Hmph, I'm busy.
-103646	+	　とっとと向こうへ行け」	　Go away quickly.」
+103645	Rance	基本	「ふん、俺は忙しいんだ。	「Hmph, I'm busy.
+103646	+		　とっとと向こうへ行け」	　Go away quickly.」
 
-103647	Cordoba Burn	「おおっと、俺も時間がないんでした！」	「Oh right, I'm short on time too!」
+103647	Cordoba Burn		「おおっと、俺も時間がないんでした！」	「Oh right, I'm short on time too!」
 
-103648	Cordoba Burn	「これから青の軍の懇親会として、	「Next is the Blue Army's friendship event,
-103649	+	　相撲大会を開く予定でしてな。	　a sumo tournament.
-103650	+	　優勝候補が遅れるわけにはいきませんな」	　The favorite to win can't be late.」
+103648	Cordoba Burn		「これから青の軍の懇親会として、	「Next is the Blue Army's friendship event,
+103649	+		　相撲大会を開く予定でしてな。	　a sumo tournament.
+103650	+		　優勝候補が遅れるわけにはいきませんな」	　The favorite to win can't be late.」
 
-103651	Rance	「相撲大会？」	「Sumo tournament?」
+103651	Rance		「相撲大会？」	「Sumo tournament?」
 
-103652	Cordoba Burn	「……あっ、そうだ」	「...Ah, that's right.」
+103652	Cordoba Burn		「……あっ、そうだ」	「...Ah, that's right.」
 
-103653	Cordoba Burn	「良ければ総統も参加致しませんか？	「Would you like to join, Supreme Leader?
-103654	+	　皆もきっと喜びます」	　Everyone would be delighted.」
+103653	Cordoba Burn		「良ければ総統も参加致しませんか？	「Would you like to join, Supreme Leader?
+103654	+		　皆もきっと喜びます」	　Everyone would be delighted.」
 
-103655	Rance	「むさい軍人共と俺が……相撲？」	「Me... sumo with stinky soldiers?」
+103655	Rance		「むさい軍人共と俺が……相撲？」	「Me... sumo with stinky soldiers?」
 
-103656	Cordoba Burn	「その通り！　上官も部下もなく皆が平等に、	「Exactly! Officers and subordinates alike, all equal,
-103657	+	　一位を目指し争いあうのです！	　competing for first place!
-103658	+	　親交が深まりますぞ！　さあ総統も是非！」	　It deepens bonds! Come join us, Supreme Leader!」
+103656	Cordoba Burn	笑顔	「その通り！　上官も部下もなく皆が平等に、	「Exactly! Officers and subordinates alike, all equal,
+103657	+		　一位を目指し争いあうのです！	　competing for first place!
+103658	+		　親交が深まりますぞ！　さあ総統も是非！」	　It deepens bonds! Come join us, Supreme Leader!」
 
-103659	Rance	「誰が行くか！	「Who would go!
-103660	+	　相撲でも釣り大会でも勝手にやってろ！」	　Do your sumo or fishing tournament yourselves!」
+103659	Rance	怒り	「誰が行くか！	「Who would go!
+103660	+		　相撲でも釣り大会でも勝手にやってろ！」	　Do your sumo or fishing tournament yourselves!」
 
-103661	Cordoba Burn	「そうですか……残念です」	「I see... too bad.」
+103661	Cordoba Burn	基本	「そうですか……残念です」	「I see... too bad.」
 
-103662	-	コルドバは大きな体を	Cordoba shrank his massive body
-103663	+	しょんぼりと小さくして俯いた。	and hung his head dejectedly.
+103662	-		コルドバは大きな体を	Cordoba shrank his massive body
+103663	+		しょんぼりと小さくして俯いた。	and hung his head dejectedly.
 
-103664	Cordoba Burn	「では、また次の機会にお誘いします！	「Then I'll invite you next time!
-103665	+	　次こそ参加して頂きますぞ！　では！」	　You must join next time! Farewell!」
+103664	Cordoba Burn	笑顔	「では、また次の機会にお誘いします！	「Then I'll invite you next time!
+103665	+		　次こそ参加して頂きますぞ！　では！」	　You must join next time! Farewell!」
 
-103666	Rance	「次の機会なんてないわー！」	「There won't be a next timeー!」
+103666	Rance	怒り	「次の機会なんてないわー！」	「There won't be a next timeー!」
 
-103667	-	ドッスドッスと床を鳴らしながら	With heavy footsteps shaking the floor,
-103668	+	コルドバは意気揚々と去って行った。	Cordoba left in high spirits.
+103667	-		ドッスドッスと床を鳴らしながら	With heavy footsteps shaking the floor,
+103668	+		コルドバは意気揚々と去って行った。	Cordoba left in high spirits.
 
-103669	Sill Plain	「コルドバさんは、いつもお元気ですねぇ」	「Cordoba-san is always so energetic.」
+103669	Sill Plain	基本	「コルドバさんは、いつもお元気ですねぇ」	「Cordoba-san is always so energetic.」
 
-103670	Rance	「うむ、だからうっとうしい。	「Yeah, that's why he's annoying.
-103671	+	　激戦地に送って早死にさせるか」	　Should I send him to a deadly battlefield to die young?」
+103670	Rance	真剣	「うむ、だからうっとうしい。	「Yeah, that's why he's annoying.
+103671	+		　激戦地に送って早死にさせるか」	　Should I send him to a deadly battlefield to die young?」
 
-103672	Sill Plain	「や、やめましょうよぉ……」	「P-please don't...」
+103672	Sill Plain	泣き	「や、やめましょうよぉ……」	「P-please don't...」

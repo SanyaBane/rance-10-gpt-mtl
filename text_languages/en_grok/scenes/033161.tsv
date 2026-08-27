@@ -9,93 +9,93 @@
 * Reset Kalar	リセット２	Female
 * Masou Shizuka	志津香２	Female
 
-209047	Dark Rance	「……た、倒したのか？」	「...D-Did you beat it?」
+209047	Dark Rance	基本	「……た、倒したのか？」	「...D-Did you beat it?」
 
-209048	Demon King Rance	「いや、もう少しってところだな」	「Nah, I was just about to finish it.」
+209048	Demon King Rance	破壊衝動無し	「いや、もう少しってところだな」	「Nah, I was just about to finish it.」
 
-209049	-	　	　
-209050	+	　　＜ズオオオオオオオオオ……！＞	　　＜ZUUUUUUUUUUUUUU...!＞
+209049	-		　	　
+209050	+		　　＜ズオオオオオオオオオ……！＞	　　＜ZUUUUUUUUUUUUUU...!＞
 
-209051	Dark Rance	「まずい！　いつもの吸収攻撃だ！」	「This is bad! It's the usual absorption attack!」
+209051	Dark Rance	基本	「まずい！　いつもの吸収攻撃だ！」	「This is bad! It's the usual absorption attack!」
 
-209052	-	ランス達の体がクエルプランに引き寄せられる。	Rance and the others' bodies were pulled toward Quelplan.
+209052	-		ランス達の体がクエルプランに引き寄せられる。	Rance and the others' bodies were pulled toward Quelplan.
 
-209053	-	その力は凄まじく、	The force was overwhelming,
-209054	+	強くその場で踏ん張っても、	and even if they braced hard,
-209055	+	自然と足がズズズと地面を擦っていた。	their feet still slid across the ground.
+209053	-		その力は凄まじく、	The force was overwhelming,
+209054	+		強くその場で踏ん張っても、	and even if they braced hard,
+209055	+		自然と足がズズズと地面を擦っていた。	their feet still slid across the ground.
 
-209056	Nagata-kun	「ひえええ！？	「Hieee!?」
-209057	+	　も、もうクエルプランの中は嫌だぜ！」	　I don't wanna go inside Quelplan again!」
+209056	Nagata-kun		「ひえええ！？	「Hieee!?」
+209057	+		　も、もうクエルプランの中は嫌だぜ！」	　I don't wanna go inside Quelplan again!」
 
-209058	Demon King Rance	「吸い込まれるとどうなる？」	「What happens if we get sucked in?」
+209058	Demon King Rance	破壊衝動無し	「吸い込まれるとどうなる？」	「What happens if we get sucked in?」
 
-209059	Dark Rance	「二度と出ることは出来ねぇよ！」	「You can never come out again!」
+209059	Dark Rance	怒り	「二度と出ることは出来ねぇよ！」	「You can never come out again!」
 
-209060	Dark Rance	「それだけじゃない。	「That's not all.
-209061	+	　中では何もかもを吸い取られる」	　Everything inside gets completely drained.」
+209060	Dark Rance	基本	「それだけじゃない。	「That's not all.
+209061	+		　中では何もかもを吸い取られる」	　Everything inside gets completely drained.」
 
-209062	Dark Rance	「以前は宝剣グラムを囮にして、	「Last time I used the holy sword Gram as bait
-209063	+	　なんとか脱出することに成功したが……」	　and barely managed to escape...」
+209062	Dark Rance		「以前は宝剣グラムを囮にして、	「Last time I used the holy sword Gram as bait
+209063	+		　なんとか脱出することに成功したが……」	　and barely managed to escape...」
 
-209064	Demon King Rance	「ふん、吸い込まれても	「Hmph, even if I get sucked in
-209065	+	　カオスを使えばオーケってことか」	　I can just use Chaos and it'll be fine.」
+209064	Demon King Rance	破壊衝動無し	「ふん、吸い込まれても	「Hmph, even if I get sucked in
+209065	+		　カオスを使えばオーケってことか」	　I can just use Chaos and it'll be fine.」
 
-209066	Chaos	「って、こらーー！」	「Hey, wait a minute!」
+209066	Chaos	驚き	「って、こらーー！」	「Hey, wait a minute!」
 
-209067	Dark Rance	「いや、駄目駄目。	「No no, that won't work.
-209068	+	　カオスじゃパワー不足」	　Chaos doesn't have enough power.」
+209067	Dark Rance	基本	「いや、駄目駄目。	「No no, that won't work.
+209068	+		　カオスじゃパワー不足」	　Chaos doesn't have enough power.」
 
-209069	Chaos	「そうなんだろうけど！　言い方！」	「Maybe so! But watch how you say it!」
+209069	Chaos	驚き	「そうなんだろうけど！　言い方！」	「Maybe so! But watch how you say it!」
 
-209070	Dark Rance	「他に使えそうなもんもない！	「There's nothing else we can use!
-209071	+	　次に引き込まれたら本当に最後だぞ！」	　If we get pulled in again, it's really over!」
+209070	Dark Rance	怒り	「他に使えそうなもんもない！	「There's nothing else we can use!
+209071	+		　次に引き込まれたら本当に最後だぞ！」	　If we get pulled in again, it's really over!」
 
-209072	Zance Leazas	「チッ！　ここは一旦退くしかねぇってことかよ！」	「Tch! So we have no choice but to retreat for now!」
+209072	Zance Leazas	不満	「チッ！　ここは一旦退くしかねぇってことかよ！」	「Tch! So we have no choice but to retreat for now!」
 
-209073	Yamamoto Rangi	「中のロッキーさんが気になりますが……	「I'm worried about Rocky inside but...
-209074	+	　今は仕方ないですね」	　We have no choice right now.」
+209073	Yamamoto Rangi	基本	「中のロッキーさんが気になりますが……	「I'm worried about Rocky inside but...
+209074	+		　今は仕方ないですね」	　We have no choice right now.」
 
-209075	Demon King Rance	「がははははははは！	「Gahahahahahaha!
-209076	+	　へなちょこなお前らはもう休んでていいぞ！」	　You weaklings can rest now!」
+209075	Demon King Rance	破壊衝動無し／笑顔	「がははははははは！	「Gahahahahahaha!
+209076	+		　へなちょこなお前らはもう休んでていいぞ！」	　You weaklings can rest now!」
 
-209077	Zance Leazas	「アア！？」	「Aah!?」
+209077	Zance Leazas	基本	「アア！？」	「Aah!?」
 
-209078	-	ランスがダークランスから奪った	Rance snatched the demonic sword Chaos from Dark Rance,
-209079	+	魔剣カオスを手に持ち、	held it firmly,
-209080	+	クエルプランの前に立ちはだかる。	and stood defiantly in front of Quelplan.
+209078	-		ランスがダークランスから奪った	Rance snatched the demonic sword Chaos from Dark Rance,
+209079	+		魔剣カオスを手に持ち、	held it firmly,
+209080	+		クエルプランの前に立ちはだかる。	and stood defiantly in front of Quelplan.
 
-209081	Demon King Rance	「トドメはこの俺様のものだ！」	「The finishing blow belongs to me!」
+209081	Demon King Rance	破壊衝動無し／怒り	「トドメはこの俺様のものだ！」	「The finishing blow belongs to me!」
 
-209082	Sill Plain	「ランス様！？」	「Rance-sama!?」
+209082	Sill Plain	基本	「ランス様！？」	「Rance-sama!?」
 
-209083	Chaos	「ふんっ、力を貸してやんのは、	「Hmph, lending you power
-209084	+	　これが最後だからな」	　is the last time I'll do it.」
+209083	Chaos		「ふんっ、力を貸してやんのは、	「Hmph, lending you power
+209084	+		　これが最後だからな」	　is the last time I'll do it.」
 
-209085	Demon King Rance	「お前ら見てろ！	「Watch me, everyone!
-209086	+	　俺様の最高に格好いい、最強に無敵な勇姿をー！」	　Behold my coolest, strongest, most invincible form!」
+209085	Demon King Rance	破壊衝動無し／笑顔	「お前ら見てろ！	「Watch me, everyone!
+209086	+		　俺様の最高に格好いい、最強に無敵な勇姿をー！」	　Behold my coolest, strongest, most invincible form!」
 
-209087	Demon King Rance	「とーーーーーーう！」	「Toooraaaaa!」
+209087	Demon King Rance	破壊衝動無し	「とーーーーーーう！」	「Toooraaaaa!」
 
-209088	-	魔王ランスが高く、どこまでも高く飛び上がる。	Demon King Rance leaped high, soaring endlessly upward.
+209088	-		魔王ランスが高く、どこまでも高く飛び上がる。	Demon King Rance leaped high, soaring endlessly upward.
 
-209089	Nagata-kun	「うおっ！　すっげぇー！」	「Whoa! Amazing!」
+209089	Nagata-kun	基本	「うおっ！　すっげぇー！」	「Whoa! Amazing!」
 
-209090	Demon King Rance	「がははははははははははは！	「Gahahahahahahahahaha!
-209091	+	　これで終わりだ！　クエルプラン！」	　This is the end! Quelplan!」
+209090	Demon King Rance	破壊衝動無し／笑顔	「がははははははははははは！	「Gahahahahahahahahaha!
+209091	+		　これで終わりだ！　クエルプラン！」	　This is the end! Quelplan!」
 
-209092	Demon King Rance	「魔王あたたたたたーーーーー！」	「Demon King Ratatatata-----!」
+209092	Demon King Rance	破壊衝動無し／怒り	「魔王あたたたたたーーーーー！」	「Demon King Ratatatata-----!」
 
-209093	-	　	　
-209094	+	　　＜スポッ＞	　　＜Splat＞
+209093	-		　	　
+209094	+		　　＜スポッ＞	　　＜Splat＞
 
-209095	Zance Leazas	「あっ」	「Ah.」
+209095	Zance Leazas	基本	「あっ」	「Ah.」
 
-209096	Yamamoto Rangi	「あっ」	「Ah.」
+209096	Yamamoto Rangi		「あっ」	「Ah.」
 
-209097	Reset Kalar	「あっ」	「Ah.」
+209097	Reset Kalar		「あっ」	「Ah.」
 
-209098	Sill Plain	「ランス様！？」	「Rance-sama!?」
+209098	Sill Plain	慌て	「ランス様！？」	「Rance-sama!?」
 
-209099	Masou Shizuka	「あの、馬鹿……」	「That idiot...」
+209099	Masou Shizuka	怒り	「あの、馬鹿……」	「That idiot...」
 
-209100	Nagata-kun	「魔王が吸い込まれたーーーー！？」	「The Demon King got sucked in-----!?」
+209100	Nagata-kun	基本	「魔王が吸い込まれたーーーー！？」	「The Demon King got sucked in-----!?」

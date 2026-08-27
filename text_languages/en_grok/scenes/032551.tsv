@@ -6,122 +6,122 @@
 * La Seizel	サイゼル	Female
 * Yuki	ユキ	Female
 
-158744	Rance	「来た来た来た！」	「She's coming coming coming!」
+158744	Rance	基本	「来た来た来た！」	「She's coming coming coming!」
 
-158745	-	ハウゼルが通り過ぎかける。	Hawzel was about to fly past.
+158745	-		ハウゼルが通り過ぎかける。	Hawzel was about to fly past.
 
-158746	Rance	「待ーーーーった！	「Waaaaait!
-158747	+	　お前の本ならここにあるぞーーー！」	　Your book is right hereーーー!」
+158746	Rance	怒り	「待ーーーーった！	「Waaaaait!
+158747	+		　お前の本ならここにあるぞーーー！」	　Your book is right hereーーー!」
 
-158748	La Hawzel	「え！　本！？」	「Eh! Book!?」
+158748	La Hawzel	基本	「え！　本！？」	「Eh! Book!?」
 
-158749	-	ピタッと止まってハウゼルが振り返った。	Hawzel stopped abruptly and turned around.
+158749	-		ピタッと止まってハウゼルが振り返った。	Hawzel stopped abruptly and turned around.
 
-158750	Chaos	「おお、反応したよ！」	「Oh, she reacted!」
+158750	Chaos	驚き	「おお、反応したよ！」	「Oh, she reacted!」
 
-158751	Rance	「がははは！　狙い通りだ！」	「Gahahaha! Just as planned!」
+158751	Rance	基本	「がははは！　狙い通りだ！」	「Gahahaha! Just as planned!」
 
-158752	La Hawzel	「あ、あの！　本って、その、もしかして――！」	「U, um! The book, is it perhaps――!」
+158752	La Hawzel		「あ、あの！　本って、その、もしかして――！」	「U, um! The book, is it perhaps――!」
 
-158753	Sachiko Centers	「ドラゴンパッチの六巻ですよね？	「It's Dragon Patch volume six, right?
-158754	+	　昨日、落とされたのを拾っておいたんです」	　I picked it up after you dropped it yesterday.」
+158753	Sachiko Centers		「ドラゴンパッチの六巻ですよね？	「It's Dragon Patch volume six, right?
+158754	+		　昨日、落とされたのを拾っておいたんです」	　I picked it up after you dropped it yesterday.」
 
-158755	La Hawzel	「あーーーっ！　それです！」	「Aaaaaah! That's it!」
+158755	La Hawzel	驚き	「あーーーっ！　それです！」	「Aaaaaah! That's it!」
 
-158756	Sachiko Centers	「良かった、落として困っていたんですね。	「Good, you were worried about losing it.
-158757	+	　はい、どうぞ」	　Here you go.」
+158756	Sachiko Centers	笑顔	「良かった、落として困っていたんですね。	「Good, you were worried about losing it.
+158757	+		　はい、どうぞ」	　Here you go.」
 
-158758	La Hawzel	「ああ……良かった……」	「Ah...... thank goodness......」
+158758	La Hawzel		「ああ……良かった……」	「Ah...... thank goodness......」
 
-158759	-	ハウゼルは受け取った本を胸元で抱きしめ、	Hawzel hugged the received book to her chest,
-158760	+	ほうっと息を漏らした。	and let out a relieved breath.
+158759	-		ハウゼルは受け取った本を胸元で抱きしめ、	Hawzel hugged the received book to her chest,
+158760	+		ほうっと息を漏らした。	and let out a relieved breath.
 
-158761	Sachiko Centers	「あ、あのぅ……」	「U, um......」
+158761	Sachiko Centers	基本	「あ、あのぅ……」	「U, um......」
 
-158762	Sachiko Centers	「ハウゼルさんもお好きなんですか？	「Do you like it too, Hawzel-san?
-158763	+	　ドラゴンパッチ」	　Dragon Patch.」
+158762	Sachiko Centers		「ハウゼルさんもお好きなんですか？	「Do you like it too, Hawzel-san?
+158763	+		　ドラゴンパッチ」	　Dragon Patch.」
 
-158764	La Hawzel	「え、ええ」	「Y, yes.」
+158764	La Hawzel		「え、ええ」	「Y, yes.」
 
-158765	Sachiko Centers	「えへへ、面白いですよねー。	「Ehehe, it's really fun, rightー.
-158766	+	　主人公のロットンがいつでも	　The protagonist Lotton is always
-158767	+	　ひたむきで一生懸命で……」	　so earnest and hardworking......」
+158765	Sachiko Centers	笑顔	「えへへ、面白いですよねー。	「Ehehe, it's really fun, rightー.
+158766	+		　主人公のロットンがいつでも	　The protagonist Lotton is always
+158767	+		　ひたむきで一生懸命で……」	　so earnest and hardworking......」
 
-158768	La Hawzel	「わあ、私、この本のファンの方、	「Wow, this is the first time
-158769	+	　初めてお会いしました。	　I've met another fan of this book.
-158770	+	　そうそう、ロットン君いいですよね」	　Yeah, Lotton is great, right.」
+158768	La Hawzel		「わあ、私、この本のファンの方、	「Wow, this is the first time
+158769	+		　初めてお会いしました。	　I've met another fan of this book.
+158770	+		　そうそう、ロットン君いいですよね」	　Yeah, Lotton is great, right.」
 
-158771	Sachiko Centers	「クー君は怠け者で臆病ですけど、	「Kuu is lazy and cowardly, but
-158772	+	　いざとなったらそんなロットン君が	　when it counts he can't abandon
-158773	+	　見捨てられなくて……」	　such a Lotton......」
+158771	Sachiko Centers	基本	「クー君は怠け者で臆病ですけど、	「Kuu is lazy and cowardly, but
+158772	+		　いざとなったらそんなロットン君が	　when it counts he can't abandon
+158773	+		　見捨てられなくて……」	　such a Lotton......」
 
-158774	La Hawzel	「あ、わたし、恥ずかしいんですけど、	「Ah, this is embarrassing but,
-158775	+	　竜姫アボガドとの恋愛模様が大好きで……」	　I love the romance between Dragon Princess Avogado and......」
+158774	La Hawzel	笑顔	「あ、わたし、恥ずかしいんですけど、	「Ah, this is embarrassing but,
+158775	+		　竜姫アボガドとの恋愛模様が大好きで……」	　I love the romance between Dragon Princess Avogado and......」
 
-158776	Sachiko Centers	「アボガド姫！　いいですよね！	「Princess Avogado! She's great!
-158777	+	　三巻の夜のテラスでの会話が	　The conversation on the terrace at night in volume three
-158778	+	　私とっても大好きなんです！」	　is one of my absolute favorites!」
+158776	Sachiko Centers		「アボガド姫！　いいですよね！	「Princess Avogado! She's great!
+158777	+		　三巻の夜のテラスでの会話が	　The conversation on the terrace at night in volume three
+158778	+		　私とっても大好きなんです！」	　is one of my absolute favorites!」
 
-158779	La Hawzel	「二人の会話がすっごく可愛いんですよね！	「Their conversations are so cute!
-158780	+	　本当はお互いが大好きなのに	　They really love each other but
-158781	+	　照れてどっちも誤魔化そうとしていて！」	　both get shy and try to hide it!」
+158779	La Hawzel		「二人の会話がすっごく可愛いんですよね！	「Their conversations are so cute!
+158780	+		　本当はお互いが大好きなのに	　They really love each other but
+158781	+		　照れてどっちも誤魔化そうとしていて！」	　both get shy and try to hide it!」
 
-158782	Sachiko Centers	「そうそう！　そうなんですよね！」	「Yes yes! Exactly!」
+158782	Sachiko Centers		「そうそう！　そうなんですよね！」	「Yes yes! Exactly!」
 
-158783	Rance	「こらーーー！」	「Heyyyy!」
+158783	Rance	基本	「こらーーー！」	「Heyyyy!」
 
-158784	Sachiko Centers	「ひゃうう！？　なななな、なんですか！？」	「Hyauu!? W w w what is it!?」
+158784	Sachiko Centers	アホ顔	「ひゃうう！？　なななな、なんですか！？」	「Hyauu!? W w w what is it!?」
 
-158785	Rance	「なーにを盛り上がっとるか」	「What are you two getting excited about.」
+158785	Rance	だる顔	「なーにを盛り上がっとるか」	「What are you two getting excited about.」
 
-158786	Rance	「大体、あっさりと渡してどうする。	「Anyway, why did you just hand it over so easily.
-158787	+	　俺様はそれをうまく使って	　I was going to use it cleverly
-158788	+	　エッチなことをしようとだな――」	　to do lewd things――」
+158786	Rance	真剣	「大体、あっさりと渡してどうする。	「Anyway, why did you just hand it over so easily.
+158787	+		　俺様はそれをうまく使って	　I was going to use it cleverly
+158788	+		　エッチなことをしようとだな――」	　to do lewd things――」
 
-158789	La Hawzel	「えっち？」	「Lewd?」
+158789	La Hawzel	基本	「えっち？」	「Lewd?」
 
-158790	La Hawzel	「あっ、すみません、私急いで本を返さないと！」	「Ah, sorry, I have to return the book quickly!」
+158790	La Hawzel	驚き	「あっ、すみません、私急いで本を返さないと！」	「Ah, sorry, I have to return the book quickly!」
 
-158791	La Hawzel	「今日のお礼はまた日を改めて……	「I'll thank you properly another day......
-158792	+	　すみません、これで失礼をさせて頂きます」	　Sorry, please excuse me.」
+158791	La Hawzel	基本	「今日のお礼はまた日を改めて……	「I'll thank you properly another day......
+158792	+		　すみません、これで失礼をさせて頂きます」	　Sorry, please excuse me.」
 
-158793	Rance	「え、あっ――！」	「Eh, ah――!」
+158793	Rance		「え、あっ――！」	「Eh, ah――!」
 
-158794	-	　	　
-158795	+	　　＜ぴゅーーーーん＞	　　＜Pewwwwwwn＞
+158794	-		　	　
+158795	+		　　＜ぴゅーーーーん＞	　　＜Pewwwwwwn＞
 
-158796	-	ハウゼルはあっという間に	In the blink of an eye
-158797	+	飛んで去って行った。	Hawzel flew away.
+158796	-		ハウゼルはあっという間に	In the blink of an eye
+158797	+		飛んで去って行った。	Hawzel flew away.
 
-158798	Rance	「こ、こら待てーーーーー！！！！」	「H, hey waitーーーーー!!!!」
+158798	Rance	怒り	「こ、こら待てーーーーー！！！！」	「H, hey waitーーーーー!!!!」
 
-158799	Rance	「…………逃げられた」	「............She got away.」
+158799	Rance	真剣	「…………逃げられた」	「............She got away.」
 
-158800	Sachiko Centers	「逃げられちゃいましたねぇ……」	「She got away, huh......」
+158800	Sachiko Centers	基本	「逃げられちゃいましたねぇ……」	「She got away, huh......」
 
-158801	Rance	「……サチコ……後で……お仕置き」	「......Sachiko...... later...... punishment.」
+158801	Rance		「……サチコ……後で……お仕置き」	「......Sachiko...... later...... punishment.」
 
-158802	Sachiko Centers	「なんでですかーーー！？」	「Whyyyy!?」
+158802	Sachiko Centers	叫び	「なんでですかーーー！？」	「Whyyyy!?」
 
-158803	-	…………	............
+158803	-		…………	............
 
-158804	-	……	...
+158804	-		……	...
 
-158805	La Seizel	「きょ、今日こそ仲直りしようと思っていたのに、	「I, I was planning to make up with her today,
-158806	+	　な、なんで……なんで……」	　w, why...... why......
+158805	La Seizel	基本	「きょ、今日こそ仲直りしようと思っていたのに、	「I, I was planning to make up with her today,
+158806	+		　な、なんで……なんで……」	　w, why...... why......
 
-158807	La Seizel	「なんであの男がいるのよ……！」	「Why is that man here......!」
+158807	La Seizel	ビビリ	「なんであの男がいるのよ……！」	「Why is that man here......!」
 
-158808	Yuki	「そりゃ、魔人退治が	「Well, because hunting Fiend
-158809	+	　あの男の目的だからでは？　ははーん♪」	　is that man's goal? Hahaan♪」
+158808	Yuki	基本	「そりゃ、魔人退治が	「Well, because hunting Fiend
+158809	+		　あの男の目的だからでは？　ははーん♪」	　is that man's goal? Hahaan♪」
 
-158810	La Seizel	「う、うう……	「U, uu......
-158811	+	　次に俺の邪魔をしたら、あそこに	　If he interferes again, I'll shove
-158812	+	　カオスぶち込むとか言ってたわよね……」	　Chaos up his ass or something......」
+158810	La Seizel	泣き	「う、うう……	「U, uu......
+158811	+		　次に俺の邪魔をしたら、あそこに	　If he interferes again, I'll shove
+158812	+		　カオスぶち込むとか言ってたわよね……」	　Chaos up his ass or something......」
 
-158813	-	ぶるぶるっとサイゼルが体を震わせた。	Seizel trembled all over.
+158813	-		ぶるぶるっとサイゼルが体を震わせた。	Seizel trembled all over.
 
-158814	La Seizel	「た、退却！　退却ー！」	「R, retreat! Retreatー!」
+158814	La Seizel	ビビリ	「た、退却！　退却ー！」	「R, retreat! Retreatー!」
 
-158815	Yuki	「あー！　サイゼル様ー！	「Ahー! Seizel-samaー!
-158816	+	　待ってくださいよー！」	　Wait for meー!」
+158815	Yuki	基本	「あー！　サイゼル様ー！	「Ahー! Seizel-samaー!
+158816	+		　待ってくださいよー！」	　Wait for meー!」

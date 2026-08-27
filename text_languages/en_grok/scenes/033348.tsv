@@ -13,440 +13,440 @@
 * Rocky Bank	ロッキー２	Male
 * Mouri Motonari	元就２	Male
 
-229530	-	ゼスを出発したあなた達は、	After leaving Zeth,
-229531	+	現在西ヘルマンを目指していた。	you are currently heading to West Helman.
+229530	-		ゼスを出発したあなた達は、	After leaving Zeth,
+229531	+		現在西ヘルマンを目指していた。	you are currently heading to West Helman.
 
-229532	-	…………	............
+229532	-		…………	............
 
-229533	-	……	...
+229533	-		……	...
 
-229534	-	あなたは今日も一日の終わりに	As always at the end of the day,
-229535	+	日課である日記を書き上げて、ペンを置く。	you finished writing your daily journal and put down the pen.
+229534	-		あなたは今日も一日の終わりに	As always at the end of the day,
+229535	+		日課である日記を書き上げて、ペンを置く。	you finished writing your daily journal and put down the pen.
 
-229536	-	ゼスの村の入り口に沢山の人が、	Many people were gathered
-229537	+	たむろしていた。	at the entrance of Zeth village.
+229536	-		ゼスの村の入り口に沢山の人が、	Many people were gathered
+229537	+		たむろしていた。	at the entrance of Zeth village.
 
-229538	-	その場には巨大なクレーターが出来上がっており、	A huge crater had formed there,
-229539	+	ザワザワと集まった村人達が相談している。	and the villagers were buzzing and discussing.
+229538	-		その場には巨大なクレーターが出来上がっており、	A huge crater had formed there,
+229539	+		ザワザワと集まった村人達が相談している。	and the villagers were buzzing and discussing.
 
-229540	Man	「おいおい、こりゃあいったい何だい？」	「Hey hey, what the heck is this?」
+229540	Man	基本	「おいおい、こりゃあいったい何だい？」	「Hey hey, what the heck is this?」
 
-229541	Woman	「なんでも昨夜、この辺りに山賊が現れたのを、	「Apparently last night a bandit appeared around here,
-229542	+	　旅人の魔法使いが撃退してくれたんですって」	　and a traveling mage repelled them.」
+229541	Woman	楽	「なんでも昨夜、この辺りに山賊が現れたのを、	「Apparently last night a bandit appeared around here,
+229542	+		　旅人の魔法使いが撃退してくれたんですって」	　and a traveling mage repelled them.」
 
-229543	Man	「そ、それで、こんなものが……	「A-And that caused this...
-229544	+	　大した魔法使いが来たんだなぁ」	　Must have been an amazing mage.」
+229543	Man	基本	「そ、それで、こんなものが……	「A-And that caused this...
+229544	+		　大した魔法使いが来たんだなぁ」	　Must have been an amazing mage.」
 
-229545	Dark Rance	「本当にすごいなぁ、こりゃ」	「This is really amazing.」
+229545	Dark Rance		「本当にすごいなぁ、こりゃ」	「This is really amazing.」
 
-229546	Dark Rance	「なんでも、たった一発の魔法で	「Apparently with just one spell
-229547	+	　こんなことになったとか」	　it turned out like this.」
+229546	Dark Rance		「なんでも、たった一発の魔法で	「Apparently with just one spell
+229547	+		　こんなことになったとか」	　it turned out like this.」
 
-229548	Man	「へー、そうなのかい」	「Heh, is that so.」
+229548	Man		「へー、そうなのかい」	「Heh, is that so.」
 
-229549	Dark Rance	「それは凄まじい魔法の威力に、	「The bandits were so shocked by the tremendous power
-229550	+	　山賊達も泡を食って逃げ出したとか」	　that they ran away in a panic.」
+229549	Dark Rance		「それは凄まじい魔法の威力に、	「The bandits were so shocked by the tremendous power
+229550	+		　山賊達も泡を食って逃げ出したとか」	　that they ran away in a panic.」
 
-229551	Dark Rance	「え、なんでそんな詳しいのかって？」	「Eh, why do I know so much?」
+229551	Dark Rance		「え、なんでそんな詳しいのかって？」	「Eh, why do I know so much?」
 
-229552	Dark Rance	「へへっ、実はこれやったの……」	「Hehe, actually the one who did it was...」
+229552	Dark Rance	安心	「へへっ、実はこれやったの……」	「Hehe, actually the one who did it was...」
 
-229553	Dark Rance	「うちの妹でさあ……」	「My little sister...」
+229553	Dark Rance	笑い	「うちの妹でさあ……」	「My little sister...」
 
-229554	Dark Rance	「あいっっってぇ！」	「Ouch!」
+229554	Dark Rance	怒り	「あいっっってぇ！」	「Ouch!」
 
-229555	Dark Rance	「お、おいおい、兄ちゃんの頭、	「H-Hey, hitting your big brother's head
-229556	+	　杖で思い切り殴るとか、	　with a staff so hard,
-229557	+	　何をするんだよ、スシヌ」	　what are you doing, Sushinu?」
+229555	Dark Rance	驚き	「お、おいおい、兄ちゃんの頭、	「H-Hey, hitting your big brother's head
+229556	+		　杖で思い切り殴るとか、	　with a staff so hard,
+229557	+		　何をするんだよ、スシヌ」	　what are you doing, Sushinu?」
 
-229558	Sushinu the Gandhi	「もうお兄ちゃん！	「Geez big brother!
-229559	+	　恥ずかしいからやめてよ！」	　Stop it, it's embarrassing!」
+229558	Sushinu the Gandhi	決意泣き	「もうお兄ちゃん！	「Geez big brother!
+229559	+		　恥ずかしいからやめてよ！」	　Stop it, it's embarrassing!」
 
-229560	Dark Rance	「ははは、なんだ照れてるのか？	「Hahaha, are you embarrassed?
-229561	+	　もっと自信を持っていいんだぞぉ」	　You should be more confident.」
+229560	Dark Rance	笑い	「ははは、なんだ照れてるのか？	「Hahaha, are you embarrassed?
+229561	+		　もっと自信を持っていいんだぞぉ」	　You should be more confident.」
 
-229562	Sushinu the Gandhi	「うわーん！　お兄ちゃんの馬鹿ー！」	「Uwaaan! Big brother you idiot!」
+229562	Sushinu the Gandhi	パニック	「うわーん！　お兄ちゃんの馬鹿ー！」	「Uwaaan! Big brother you idiot!」
 
-229563	-	ダークランスがスシヌに怒られていた。	Dark Rance was being scolded by Sushinu.
+229563	-		ダークランスがスシヌに怒られていた。	Dark Rance was being scolded by Sushinu.
 
-229564	-	○○月××日――	○○ Month ×× Day――
+229564	-		○○月××日――	○○ Month ×× Day――
 
-229565	-	あなた達は周囲で幽霊が出るとして	You all came to the mansion
-229566	+	有名な館に来ていた。	famous for being haunted by ghosts.
+229565	-		あなた達は周囲で幽霊が出るとして	You all came to the mansion
+229566	+		有名な館に来ていた。	famous for being haunted by ghosts.
 
-229567	Nagi su Ragarl	「うひぃ〜、さすがに雰囲気があるねぇ……」	「Uhee~, it really has the atmosphere...」
+229567	Nagi su Ragarl	基本	「うひぃ〜、さすがに雰囲気があるねぇ……」	「Uhee~, it really has the atmosphere...」
 
-229568	Zance Leazas	「幽霊館、ねぇ……	「Ghost mansion, huh...
-229569	+	　ったく、なんで俺らがこんな所に」	　Geez, why are we in a place like this
+229568	Zance Leazas		「幽霊館、ねぇ……	「Ghost mansion, huh...
+229569	+		　ったく、なんで俺らがこんな所に」	　Geez, why are we in a place like this
 
-229570	Reset Kalar	「この付近で行方不明者が何人も出たんだって。	「Apparently many people have gone missing around here.
-229571	+	　調査してみないと」	　We have to investigate.」
+229570	Reset Kalar		「この付近で行方不明者が何人も出たんだって。	「Apparently many people have gone missing around here.
+229571	+		　調査してみないと」	　We have to investigate.」
 
-229572	Zance Leazas	「幽霊のたぐいは嫌いなんだよなあ……」	「I hate ghosts and stuff...」
+229572	Zance Leazas		「幽霊のたぐいは嫌いなんだよなあ……」	「I hate ghosts and stuff...」
 
-229573	Masou Shizuka	「怖いの？」	「Scared?」
+229573	Masou Shizuka		「怖いの？」	「Scared?」
 
-229574	Zance Leazas	「剣で斬れない奴が嫌いなだけだ」	「I just hate things I can't cut with a sword.」
+229574	Zance Leazas		「剣で斬れない奴が嫌いなだけだ」	「I just hate things I can't cut with a sword.」
 
-229575	-	その時――	At that moment――
+229575	-		その時――	At that moment――
 
-229576	-	廊下に面した沢山ある窓が	Many windows facing the hallway
-229577	+	一斉にガタガタと音を立てた。	rattled all at once.
+229576	-		廊下に面した沢山ある窓が	Many windows facing the hallway
+229577	+		一斉にガタガタと音を立てた。	rattled all at once.
 
-229578	Nagata-kun	「きゃあああああああああ！	「Kyaaaaaaa!
-229579	+	　出たあああああああああ！」	　It's out!」
+229578	Nagata-kun		「きゃあああああああああ！	「Kyaaaaaaa!
+229579	+		　出たあああああああああ！」	　It's out!」
 
-229580	Nagata-kun	「あんっ！」	「Ahn!」
+229580	Nagata-kun		「あんっ！」	「Ahn!」
 
-229581	-	長田君が恐怖で割れた。	Nagata-kun shattered from terror.
+229581	-		長田君が恐怖で割れた。	Nagata-kun shattered from terror.
 
-229582	Zance Leazas	「なんも出てねぇよ、風で窓が揺れただけだ」	「Nothing came out, it was just the wind shaking the windows.」
+229582	Zance Leazas		「なんも出てねぇよ、風で窓が揺れただけだ」	「Nothing came out, it was just the wind shaking the windows.」
 
-229583	Nagi su Ragarl	「あ、あははは、みんな子供だなぁ……」	「A-Ahaha, everyone is such kids...」
+229583	Nagi su Ragarl	反省	「あ、あははは、みんな子供だなぁ……」	「A-Ahaha, everyone is such kids...」
 
-229584	Yamamoto Rangi	「ナギさん、そういうこと言うなら、	「Nagi-san, if you're going to say that,
-229585	+	　抱きつくのやめて下さい。	　please stop clinging to me.
-229586	+	　歩きにくいです」	　It's hard to walk.」
+229584	Yamamoto Rangi	基本	「ナギさん、そういうこと言うなら、	「Nagi-san, if you're going to say that,
+229585	+		　抱きつくのやめて下さい。	　please stop clinging to me.
+229586	+		　歩きにくいです」	　It's hard to walk.」
 
-229587	Nagi su Ragarl	「いや、違うから。	「No, that's not it.
-229588	+	　乱義が怖いんじゃないかと思っただけだから」	　I just thought you might be scared, Rangi.」
+229587	Nagi su Ragarl		「いや、違うから。	「No, that's not it.
+229588	+		　乱義が怖いんじゃないかと思っただけだから」	　I just thought you might be scared, Rangi.」
 
-229589	Yamamoto Rangi	「……震えてますよ」	「...You're trembling.」
+229589	Yamamoto Rangi		「……震えてますよ」	「...You're trembling.」
 
-229590	Masou Shizuka	「ナギってそういう話、	「Nagi likes those kinds of stories
-229591	+	　好む割に怖いのは苦手なのよね」	　but is actually bad with scary things.」
+229590	Masou Shizuka		「ナギってそういう話、	「Nagi likes those kinds of stories
+229591	+		　好む割に怖いのは苦手なのよね」	　but is actually bad with scary things.」
 
-229592	Masou Shizuka	「しかし……	「However...
-229593	+	　意外とスシヌが平気なのね」	　Sushinu is surprisingly fine with it.」
+229592	Masou Shizuka		「しかし……	「However...
+229593	+		　意外とスシヌが平気なのね」	　Sushinu is surprisingly fine with it.」
 
-229594	Sushinu the Gandhi	「あ、うん、怖い話は苦手だけど、	「Ah, yeah, I'm bad with scary stories,
-229595	+	　おばけは平気なの」	　but ghosts are fine.」
+229594	Sushinu the Gandhi		「あ、うん、怖い話は苦手だけど、	「Ah, yeah, I'm bad with scary stories,
+229595	+		　おばけは平気なの」	　but ghosts are fine.」
 
-229596	Sushinu the Gandhi	「むしろ、こういう場所、	「In fact, places like this
-229597	+	　ちょっと落ち着くかも、えへへ」	　might even calm me down, ehehe.」
+229596	Sushinu the Gandhi	笑顔	「むしろ、こういう場所、	「In fact, places like this
+229597	+		　ちょっと落ち着くかも、えへへ」	　might even calm me down, ehehe.」
 
-229598	Sushinu the Gandhi	「ほらほら、みんなドンドン行こーう」	「Come on everyone, let's keep going~」
+229598	Sushinu the Gandhi		「ほらほら、みんなドンドン行こーう」	「Come on everyone, let's keep going~」
 
-229599	Nagata-kun	「おお……意外……」	「Oh... surprising...」
+229599	Nagata-kun	基本	「おお……意外……」	「Oh... surprising...」
 
-229600	-	スシヌは水を得た魚のように	Sushinu was like a fish in water,
-229601	+	元気いっぱいだった。	full of energy.
+229600	-		スシヌは水を得た魚のように	Sushinu was like a fish in water,
+229601	+		元気いっぱいだった。	full of energy.
 
-229602	Parsley Rig Zeth	「お婆ちゃんはこういうとこ、	「Grandma is a bit bad with places like this...」
-229603	+	　ちょーっと苦手かなぁ……」	
+229602	Parsley Rig Zeth		「お婆ちゃんはこういうとこ、	「Grandma is a bit bad with places like this...」
+229603	+		　ちょーっと苦手かなぁ……」	
 
-229604	Zance Leazas	「おい、幽霊」	「Hey, ghost.」
+229604	Zance Leazas		「おい、幽霊」	「Hey, ghost.」
 
-229605	-	その後、スシヌの活躍によって、	After that, thanks to Sushinu's efforts,
-229606	+	館に巣くっていた悪霊達は成仏した。	the evil spirits haunting the mansion were sent to the afterlife.
+229605	-		その後、スシヌの活躍によって、	After that, thanks to Sushinu's efforts,
+229606	+		館に巣くっていた悪霊達は成仏した。	the evil spirits haunting the mansion were sent to the afterlife.
 
-229607	-	○○月××日――	○○ Month ×× Day――
+229607	-		○○月××日――	○○ Month ×× Day――
 
 > female
-229608	Nagi su Ragarl	「おお、この宿屋すごい！	「Whoa, this inn is amazing!
-229609	+	　ラレラレ石と再生機置いてあるよ！」	　They have Larerare Stones and regenerators!」
+229608	Nagi su Ragarl	帽子なし／驚き	「おお、この宿屋すごい！	「Whoa, this inn is amazing!
+229609	+		　ラレラレ石と再生機置いてあるよ！」	　They have Larerare Stones and regenerators!」
 
-229610	Reset Kalar	「全部の部屋にあるのかな？	「Are they in every room?
-229611	+	　さすが高級ホテルだねぇ」	　As expected of a luxury hotel.」
+229610	Reset Kalar	基本	「全部の部屋にあるのかな？	「Are they in every room?
+229611	+		　さすが高級ホテルだねぇ」	　As expected of a luxury hotel.」
 
-229612	Nagi su Ragarl	「ん〜……」	「N~...」
+229612	Nagi su Ragarl	帽子なし	「ん〜……」	「N~...」
 
-229613	Nagi su Ragarl	「怪奇物とえっちなの、どっち見る？」	「Want to watch horror or erotic stuff?」
+229613	Nagi su Ragarl	帽子なし／からかい	「怪奇物とえっちなの、どっち見る？」	「Want to watch horror or erotic stuff?」
 
-229614	Reset Kalar	「え、見るのは決定なの！？」	「Eh, we're definitely watching!?」
+229614	Reset Kalar	基本	「え、見るのは決定なの！？」	「Eh, we're definitely watching!?」
 
-229615	?	『これよりお見せするのは……	『What we will show you now...
-229616	+	　十数年前に本当に起きたことであり、	　is something that really happened over ten years ago,
-229617	+	　私自身が経験した歴-ﾚｯｷ-とした事実であります』	　a verified fact that I myself experienced.』
+229615	?		『これよりお見せするのは……	『What we will show you now...
+229616	+		　十数年前に本当に起きたことであり、	　is something that really happened over ten years ago,
+229617	+		　私自身が経験した歴-ﾚｯｷ-とした事実であります』	　a verified fact that I myself experienced.』
 
-229618	?	『今から皆さんを、恐怖と惨劇で彩られた、	『Now we invite you all to a world
-229619	+	　怪奇の世界へご招待いたしましょう……』	　colored by terror and tragedy...』
+229618	?		『今から皆さんを、恐怖と惨劇で彩られた、	『Now we invite you all to a world
+229619	+		　怪奇の世界へご招待いたしましょう……』	　colored by terror and tragedy...』
 
-229620	Nagi su Ragarl	「こういうのって言うこといつも同じだよねー」	「These always say the same thing.」
+229620	Nagi su Ragarl	帽子なし	「こういうのって言うこといつも同じだよねー」	「These always say the same thing.」
 
-229621	Sushinu the Gandhi	「うう……私、こういうの苦手なのにぃ……」	「Uuu... I'm bad with this kind of thing...」
+229621	Sushinu the Gandhi	外套杖なし	「うう……私、こういうの苦手なのにぃ……」	「Uuu... I'm bad with this kind of thing...」
 
-229622	-	あなた達はピッタリとくっつきながら	You all sat tightly huddled together
-229623	+	ソファに座って怪奇ラレラレ石を楽しんだ。	on the sofa enjoying the horror Larerare Stone.
+229622	-		あなた達はピッタリとくっつきながら	You all sat tightly huddled together
+229623	+		ソファに座って怪奇ラレラレ石を楽しんだ。	on the sofa enjoying the horror Larerare Stone.
 
-229624	-	…………	............
+229624	-		…………	............
 
-229625	-	……	...
+229625	-		……	...
 
 > male
-229626	Nagata-kun	「おお、この宿屋すごい！	「Whoa, this inn is amazing!
-229627	+	　ラレラレ石と再生機置いてあるぞ！」	　They have Larerare Stones and regenerators!」
+229626	Nagata-kun	基本	「おお、この宿屋すごい！	「Whoa, this inn is amazing!
+229627	+		　ラレラレ石と再生機置いてあるぞ！」	　They have Larerare Stones and regenerators!」
 
-229628	Zance Leazas	「ほう、結構高級な宿屋だけあんな」	「Hmm, it's quite a high-class inn.」
+229628	Zance Leazas		「ほう、結構高級な宿屋だけあんな」	「Hmm, it's quite a high-class inn.」
 
-229629	Nagata-kun	「色々とあんなぁ。	「They have all sorts of things.
-229630	+	　怪奇ものとか見てみる？」	　Want to watch some horror stuff?」
+229629	Nagata-kun		「色々とあんなぁ。	「They have all sorts of things.
+229630	+		　怪奇ものとか見てみる？」	　Want to watch some horror stuff?」
 
-229631	-	あなた達は並んで、	You all lined up
-229632	+	部屋に最初からあったラレラレ石を確認する。	to check the Larerare Stone that was already in the room.
+229631	-		あなた達は並んで、	You all lined up
+229632	+		部屋に最初からあったラレラレ石を確認する。	to check the Larerare Stone that was already in the room.
 
-229633	Zance Leazas	「アァン！？」	「Aaan!?」
+229633	Zance Leazas	怒り	「アァン！？」	「Aaan!?」
 
-229634	-	ババッ！	Whoosh!
-229635	+	ザンスがあなた達の首根っこ捕まえて、	Zance grabbed you all by the scruff of the neck
-229636	+	その場に座り込んだ。	and sat you down.
+229634	-		ババッ！	Whoosh!
+229635	+		ザンスがあなた達の首根っこ捕まえて、	Zance grabbed you all by the scruff of the neck
+229636	+		その場に座り込んだ。	and sat you down.
 
-229637	Nagata-kun	「ぐえっ。	「Gueh.
-229638	+	　ななな、何すんだよぉ」	　W-What are you doing」
+229637	Nagata-kun	基本	「ぐえっ。	「Gueh.
+229638	+		　ななな、何すんだよぉ」	　W-What are you doing」
 
-229639	Zance Leazas	「おいおいおいおい……	「Hey hey hey...
-229640	+	　これ、見てみろ」	　Look at this.」
+229639	Zance Leazas		「おいおいおいおい……	「Hey hey hey...
+229640	+		　これ、見てみろ」	　Look at this.」
 
-229641	Nagata-kun	「『かおり14歳　乱れて、夏』」	「『Kou 14 Years Old - Disordered Summer』」
+229641	Nagata-kun		「『かおり14歳　乱れて、夏』」	「『Kou 14 Years Old - Disordered Summer』」
 
-229642	Nagata-kun	「エロい奴！？　ねえ、これエロい奴！？」	「An erotic one!? Hey, this is erotic, right!?」
+229642	Nagata-kun		「エロい奴！？　ねえ、これエロい奴！？」	「An erotic one!? Hey, this is erotic, right!?」
 
-229643	Zance Leazas	「いや、どうだろな……	「Well, I don't know...
-229644	+	　タイトルだけじゃなんとも……	　Just from the title it's hard to tell...
-229645	+	　だが、かなりそれっぽいよな？」	　But it sounds pretty erotic, right?」
+229643	Zance Leazas		「いや、どうだろな……	「Well, I don't know...
+229644	+		　タイトルだけじゃなんとも……	　Just from the title it's hard to tell...
+229645	+		　だが、かなりそれっぽいよな？」	　But it sounds pretty erotic, right?」
 
-229646	Nagata-kun	「みみみ、見てみる？　見てみちゃう？	「W-W-Want to watch? Shall we watch?
-229647	+	　見よ見よ？　見てみよう？」	　Let's see, let's watch?」
+229646	Nagata-kun		「みみみ、見てみる？　見てみちゃう？	「W-W-Want to watch? Shall we watch?
+229647	+		　見よ見よ？　見てみよう？」	　Let's see, let's watch?」
 
-229648	Zance Leazas	「駄目だ」	「No way.
+229648	Zance Leazas		「駄目だ」	「No way.
 
-229649	Zance Leazas	「今、同じ部屋に乱義がいる」	　Rangi is in the same room right now.」
+229649	Zance Leazas		「今、同じ部屋に乱義がいる」	　Rangi is in the same room right now.」
 
-229650	Nagata-kun	「え〜……いいじゃん、それくらい」	「Ehh~... it's fine, just a little.」
+229650	Nagata-kun		「え〜……いいじゃん、それくらい」	「Ehh~... it's fine, just a little.」
 
-229651	Zance Leazas	「ふざけろ、あいつの前で	「Don't mess around, in front of her
-229652	+	　エロラレラレ石なんぞ見られるか」	　I can't watch erotic Larerare Stones.」
+229651	Zance Leazas	不満	「ふざけろ、あいつの前で	「Don't mess around, in front of her
+229652	+		　エロラレラレ石なんぞ見られるか」	　I can't watch erotic Larerare Stones.」
 
-229653	Zance Leazas	「だから、いいか？	「So listen,
-229654	+	　まずロッキー辺りに言って、	　first tell Rocky or someone
-229655	+	　あいつをなんとか退室させてだなぁ――」	　to get her out of the room somehow――
+229653	Zance Leazas	基本	「だから、いいか？	「So listen,
+229654	+		　まずロッキー辺りに言って、	　first tell Rocky or someone
+229655	+		　あいつをなんとか退室させてだなぁ――」	　to get her out of the room somehow――
 
-229656	Yamamoto Rangi~	（丸聞こえだ、馬鹿……）	（I can hear everything, idiots...）
+229656	Yamamoto Rangi~	ため息	（丸聞こえだ、馬鹿……）	（I can hear everything, idiots...）
 
-229657	-	　	　
-229658	+	　　＜コンコン＞	　　＜Knock knock＞
+229657	-		　	　
+229658	+		　　＜コンコン＞	　　＜Knock knock＞
 
-229659	Yamamoto Rangi	「ん？	「Nn?
-229660	+	　こんな時間に誰だろう……」	　Who could it be at this hour...」
+229659	Yamamoto Rangi	基本	「ん？	「Nn?
+229660	+		　こんな時間に誰だろう……」	　Who could it be at this hour...」
 
 > end
-229661	Nagi su Ragarl	「怪奇ラレラレ石見てたら	「Watching the horror Larerare Stone
-229662	+	　怖くなったので今日だけ	　made me scared, so just for today
-229663	+	　男部屋で一緒に寝かせて下さい」	　please let us sleep in the boys' room.」
+229661	Nagi su Ragarl	帽子なし／反省	「怪奇ラレラレ石見てたら	「Watching the horror Larerare Stone
+229662	+		　怖くなったので今日だけ	　made me scared, so just for today
+229663	+		　男部屋で一緒に寝かせて下さい」	　please let us sleep in the boys' room.」
 
-229664	Sushinu the Gandhi	「く、下さい……」	「P-Please...」
+229664	Sushinu the Gandhi	外套杖なし	「く、下さい……」	「P-Please...」
 
-229665	Zance Leazas	「何してんだテメェら！」	「What the hell are you guys doing!」
+229665	Zance Leazas	基本	「何してんだテメェら！」	「What the hell are you guys doing!」
 
-229666	Nagi su Ragarl	「もー、一晩くらい、いいでしょー」	「Come on, just for one night.」
+229666	Nagi su Ragarl	帽子なし／不満	「もー、一晩くらい、いいでしょー」	「Come on, just for one night.」
 
-229667	Sushinu the Gandhi	「うう……ごめんね、ザンスちゃん……	「Uuu... sorry, Zance-chan...
-229668	+	　本物の幽霊は平気なんだけど、	　Real ghosts are fine, but
-229669	+	　作り物はちょっと駄目で……」	　made-up ones are a bit much...」
+229667	Sushinu the Gandhi	外套杖なし	「うう……ごめんね、ザンスちゃん……	「Uuu... sorry, Zance-chan...
+229668	+		　本物の幽霊は平気なんだけど、	　Real ghosts are fine, but
+229669	+		　作り物はちょっと駄目で……」	　made-up ones are a bit much...」
 
-229670	Reset Kalar	「えへへ、こうやって皆同じ部屋で寝るなんて、	「Ehehe, sleeping all together in one room like this
-229671	+	　小さかった頃を思い出すねー」	　reminds me of when we were little~
+229670	Reset Kalar	笑顔	「えへへ、こうやって皆同じ部屋で寝るなんて、	「Ehehe, sleeping all together in one room like this
+229671	+		　小さかった頃を思い出すねー」	　reminds me of when we were little~
 
-229672	-	リセットはニコニコ笑顔で、	Reset was smiling brightly
-229673	+	いそいそと布団を敷いていた。	as she cheerfully laid out the futons.
+229672	-		リセットはニコニコ笑顔で、	Reset was smiling brightly
+229673	+		いそいそと布団を敷いていた。	as she cheerfully laid out the futons.
 
-229674	Parsley Rig Zeth	「あっ、あれする？　あれする？	「Ah, want to do that? That thing?
-229675	+	　好きな人言いあいっこ」	　Saying who you like the most.」
+229674	Parsley Rig Zeth	基本	「あっ、あれする？　あれする？	「Ah, want to do that? That thing?
+229675	+		　好きな人言いあいっこ」	　Saying who you like the most.」
 
-229676	Nagi su Ragarl	「おっ、それなら私、	「Oh, in that case I'll
-229677	+	　部屋からお菓子取ってこよっか」	　go get some snacks from the room.」
+229676	Nagi su Ragarl	帽子なし／笑顔	「おっ、それなら私、	「Oh, in that case I'll
+229677	+		　部屋からお菓子取ってこよっか」	　go get some snacks from the room.」
 
-229678	Zance Leazas	「出てけや！！！！」	「Get out!!!!」
+229678	Zance Leazas	怒り	「出てけや！！！！」	「Get out!!!!」
 
-229679	Yamamoto Rangi	「はあ……」	「Haa...」
+229679	Yamamoto Rangi	ため息	「はあ……」	「Haa...」
 
-229680	Masou Shizuka	「というか、なんで私達まで……」	「More like, why are we also...」
+229680	Masou Shizuka	帽子なし	「というか、なんで私達まで……」	「More like, why are we also...」
 
-229681	-	結局――	In the end――
-229682	?	あなた達は仲良く同じ部屋で就寝した。	you all slept together peacefully in the same room.
+229681	-		結局――	In the end――
+229682	?		あなた達は仲良く同じ部屋で就寝した。	you all slept together peacefully in the same room.
 
-229683	-	○○月××日――	○○ Month ×× Day――
+229683	-		○○月××日――	○○ Month ×× Day――
 
-229684	Reset Kalar	「雨がやまない……ですか？」	「The rain isn't stopping...?」
+229684	Reset Kalar	真剣	「雨がやまない……ですか？」	「The rain isn't stopping...?」
 
-229685	Man	「はい、左様で」	「Yes, that's right.
+229685	Man	楽	「はい、左様で」	「Yes, that's right.
 
-229686	-	村長は忌々しげにカーテンの隙間から	The village chief looked up at the cloudy sky
-229687	+	曇天の空を仰ぎ見た。	through a gap in the curtain with annoyance.
+229686	-		村長は忌々しげにカーテンの隙間から	The village chief looked up at the cloudy sky
+229687	+		曇天の空を仰ぎ見た。	through a gap in the curtain with annoyance.
 
-229688	Man	「この豪雨が降り出してから……	「Ever since this heavy rain started...
-229689	+	　かれこれ一ヶ月になりますか」	　it's been about a month now.」
+229688	Man		「この豪雨が降り出してから……	「Ever since this heavy rain started...
+229689	+		　かれこれ一ヶ月になりますか」	　it's been about a month now.」
 
-229690	Nagata-kun	「一ヶ月！？	「A whole month!?
-229691	+	　その間、ずっと降り続けてんすか！？」	　Has it been raining nonstop this whole time!?」
+229690	Nagata-kun	基本	「一ヶ月！？	「A whole month!?
+229691	+		　その間、ずっと降り続けてんすか！？」	　Has it been raining nonstop this whole time!?」
 
-229692	Man	「はい。その原因は……	「Yes. The cause is...
-229693	+	　この近くにアーマーガエルが	　an Armor Gaeul has built a nest
-229694	+	　巣を作ってしまったからなのです」	　nearby.」
+229692	Man	楽	「はい。その原因は……	「Yes. The cause is...
+229693	+		　この近くにアーマーガエルが	　an Armor Gaeul has built a nest
+229694	+		　巣を作ってしまったからなのです」	　nearby.」
 
-229695	Man	「旅人の皆さんにお願いするのは心苦しいのですが！	「It's hard to ask travelers, but!
-229696	+	　どうか退治しては頂けないでしょうか！」	　could you please exterminate it!」
+229695	Man	基本	「旅人の皆さんにお願いするのは心苦しいのですが！	「It's hard to ask travelers, but!
+229696	+		　どうか退治しては頂けないでしょうか！」	　could you please exterminate it!」
 
-229697	-	というわけで、	And so,
-229698	+	あなた達はアーマーガエルの	you all went to check on the Armor Gaeul.
-229699	+	様子を見にいくこととなった。	
+229697	-		というわけで、	And so,
+229698	+		あなた達はアーマーガエルの	you all went to check on the Armor Gaeul.
+229699	+		様子を見にいくこととなった。	
 
-229700	Zance Leazas	「ったく、すぐにこういうことになんだからよぉ」	「Geez, things always turn out like this right away.」
+229700	Zance Leazas	不満	「ったく、すぐにこういうことになんだからよぉ」	「Geez, things always turn out like this right away.」
 
-229701	Yamamoto Rangi	「嫌なら、村に残っても良かったんだぞ」	「If you didn't want to, you could have stayed in the village.」
+229701	Yamamoto Rangi	説明するよ	「嫌なら、村に残っても良かったんだぞ」	「If you didn't want to, you could have stayed in the village.」
 
-229702	Zance Leazas	「っせーよ。	「Shut up.
-229703	+	　一人で待ってても暇だから行ってやんだろーが。	　Waiting alone would be boring, so I came along.
-229704	+	　感謝しろ」	　Be grateful.」
+229702	Zance Leazas	基本	「っせーよ。	「Shut up.
+229703	+		　一人で待ってても暇だから行ってやんだろーが。	　Waiting alone would be boring, so I came along.
+229704	+		　感謝しろ」	　Be grateful.」
 
-229705	Yamamoto Rangi	「まったく……」	「Good grief...」
+229705	Yamamoto Rangi		「まったく……」	「Good grief...」
 
-229706	Nagata-kun	「うひーっ、しかし本当にすごい雨……」	「Uhee, but this rain is really intense...」
+229706	Nagata-kun		「うひーっ、しかし本当にすごい雨……」	「Uhee, but this rain is really intense...」
 
-229707	Nagata-kun	「で、そのアーマーガエル？	「So, what is that Armor Gaeul?」
-229708	+	　ってのはなんなん？」	
+229707	Nagata-kun		「で、そのアーマーガエル？	「So, what is that Armor Gaeul?」
+229708	+		　ってのはなんなん？」	
 
-229709	Sushinu the Gandhi	「とーっても珍しい生き物で、	「It's a very rare creature,
-229710	+	　とーっても大きくて、	　very big,
-229711	+	　とーっても硬い鎧で守られたカエルさん」	　and protected by very hard armor, a frog.」
+229709	Sushinu the Gandhi		「とーっても珍しい生き物で、	「It's a very rare creature,
+229710	+		　とーっても大きくて、	　very big,
+229711	+		　とーっても硬い鎧で守られたカエルさん」	　and protected by very hard armor, a frog.」
 
-229712	Sushinu the Gandhi	「そのカエルがいるだけで、	「Just having that frog around
-229713	+	　付近は豪雨になるんだって」	　causes heavy rain in the area.」
+229712	Sushinu the Gandhi		「そのカエルがいるだけで、	「Just having that frog around
+229713	+		　付近は豪雨になるんだって」	　causes heavy rain in the area.」
 
-229714	Sushinu the Gandhi	「でも、移動し続ける生き物で、	「But it's a creature that keeps moving,
-229715	+	　巣を作るなんて話はなかったような……」	　I don't recall it making nests...」
+229714	Sushinu the Gandhi		「でも、移動し続ける生き物で、	「But it's a creature that keeps moving,
+229715	+		　巣を作るなんて話はなかったような……」	　I don't recall it making nests...」
 
-229716	Nagata-kun	「ふーん」	「Hmm.」
+229716	Nagata-kun		「ふーん」	「Hmm.」
 
-229717	Nagata-kun	「あれ？　そういや……	「Huh? Now that you mention it...
-229718	+	　ウズメの姿が見えないような……」	　I don't see Uzume...」
+229717	Nagata-kun		「あれ？　そういや……	「Huh? Now that you mention it...
+229718	+		　ウズメの姿が見えないような……」	　I don't see Uzume...」
 
-229719	Reset Kalar	「ウズメちゃんは、ほら……	「Uzume-chan, well...
-229720	+	　カエル苦手だから宿屋で寝込んでる」	　hates frogs so she's resting at the inn.」
+229719	Reset Kalar	たははー	「ウズメちゃんは、ほら……	「Uzume-chan, well...
+229720	+		　カエル苦手だから宿屋で寝込んでる」	　hates frogs so she's resting at the inn.」
 
-229721	Nagata-kun	「ああ……」	「Ah...」
+229721	Nagata-kun	基本	「ああ……」	「Ah...」
 
-229722	Zance Leazas	「あのポンコツ忍者は……」	「That useless ninja...」
+229722	Zance Leazas		「あのポンコツ忍者は……」	「That useless ninja...」
 
-229723	Rocky Bank	「あ、見えてきただすよ！」	「Ah, I can see it!」
+229723	Rocky Bank		「あ、見えてきただすよ！」	「Ah, I can see it!」
 
-229724	Nagata-kun	「って、本当にデカッ！」	「Whoa, it's huge!」
+229724	Nagata-kun		「って、本当にデカッ！」	「Whoa, it's huge!」
 
-229725	-	平原の真ん中に陣取るアーマーガエルは、	The Armor Gaeul stationed in the middle of the plain
-229726	+	あなた達全員を背に乗せられそうな程に	was so massive you could probably ride on its back.
-229727	+	巨体だった。	
+229725	-		平原の真ん中に陣取るアーマーガエルは、	The Armor Gaeul stationed in the middle of the plain
+229726	+		あなた達全員を背に乗せられそうな程に	was so massive you could probably ride on its back.
+229727	+		巨体だった。	
 
-229728	-	　	　
-229729	+	　　＜ゲコゲコーーーーッ！＞	　　＜Gekogeekoooo!＞
+229728	-		　	　
+229729	+		　　＜ゲコゲコーーーーッ！＞	　　＜Gekogeekoooo!＞
 
-229730	Nagata-kun	「ひーーーーーっ！？」	「Hiiiiii!?」
+229730	Nagata-kun		「ひーーーーーっ！？」	「Hiiiiii!?」
 
-229731	-	あなた達が近づいてきた途端に、	The moment you approached,
-229732	+	口を大きく開けて威嚇してきた。	it opened its mouth wide and threatened you.
+229731	-		あなた達が近づいてきた途端に、	The moment you approached,
+229732	+		口を大きく開けて威嚇してきた。	it opened its mouth wide and threatened you.
 
-229733	Zance Leazas	「おーおー、やる気満々じゃねーか。	「Ohhh, it's full of fighting spirit.
-229734	+	　軽ーくやっつけるか」	　Let's take it down easily.」
+229733	Zance Leazas	笑い	「おーおー、やる気満々じゃねーか。	「Ohhh, it's full of fighting spirit.
+229734	+		　軽ーくやっつけるか」	　Let's take it down easily.」
 
-229735	Yamamoto Rangi	「まったく、好戦的な……」	「Good grief, so aggressive...」
+229735	Yamamoto Rangi	基本	「まったく、好戦的な……」	「Good grief, so aggressive...」
 
-229736	Reset Kalar	「ちょ、ちょっと待って、ザンスちゃん！」	「W-Wait a second, Zance-chan!」
+229736	Reset Kalar		「ちょ、ちょっと待って、ザンスちゃん！」	「W-Wait a second, Zance-chan!」
 
-229737	-	　	　
-229738	+	　　＜ズドン！！！！＞	　　＜Zudon!!!!＞
+229737	-		　	　
+229738	+		　　＜ズドン！！！！＞	　　＜Zudon!!!!＞
 
-229739	Zance Leazas	「あ、アア？」	「A-Aah?」
+229739	Zance Leazas		「あ、アア？」	「A-Aah?」
 
-229740	Mouri Motonari	「…………」	「............」
+229740	Mouri Motonari		「…………」	「............」
 
-229741	-	身の丈以上もある刀を地面に叩きつけて、	Motonari slammed a sword taller than himself into the ground,
-229742	+	元就が辺りを揺らした。	shaking the surroundings.
+229741	-		身の丈以上もある刀を地面に叩きつけて、	Motonari slammed a sword taller than himself into the ground,
+229742	+		元就が辺りを揺らした。	shaking the surroundings.
 
-229743	Mouri Motonari	「ザンス、こいつを殺すのか？	「Zance, are you going to kill it?
-229744	+	　オレは反対だ」	　I'm against it.」
+229743	Mouri Motonari		「ザンス、こいつを殺すのか？	「Zance, are you going to kill it?
+229744	+		　オレは反対だ」	　I'm against it.」
 
-229745	Zance Leazas	「……理由は？」	「...Reason?」
+229745	Zance Leazas		「……理由は？」	「...Reason?」
 
-229746	Mouri Motonari	「敵意のない相手と戦うのは好かん。	「I don't like fighting opponents without hostility.
-229747	+	　オレは暴れたいだけで	　I just want to rampage,
-229748	+	　苛めたいわけじゃあないんだからな」	　not bully.」
+229746	Mouri Motonari		「敵意のない相手と戦うのは好かん。	「I don't like fighting opponents without hostility.
+229747	+		　オレは暴れたいだけで	　I just want to rampage,
+229748	+		　苛めたいわけじゃあないんだからな」	　not bully.」
 
-229749	Nagata-kun	「て、敵意がないって……	「N-No hostility...
-229750	+	　どう見ても威嚇してきてるけど」	　It looks like it's threatening us though.」
+229749	Nagata-kun		「て、敵意がないって……	「N-No hostility...
+229750	+		　どう見ても威嚇してきてるけど」	　It looks like it's threatening us though.」
 
-229751	Mouri Motonari	「威嚇？	「Threatening?
-229752	+	　オレには怯えてるようにしか見えんぞ」	　To me it only looks scared.」
+229751	Mouri Motonari		「威嚇？	「Threatening?
+229752	+		　オレには怯えてるようにしか見えんぞ」	　To me it only looks scared.」
 
-229753	Yamamoto Rangi	「怯えてる？」	「Scared?」
+229753	Yamamoto Rangi		「怯えてる？」	「Scared?」
 
-229754	Mouri Motonari	「見ろ」	「Look.」
+229754	Mouri Motonari		「見ろ」	「Look.」
 
-229755	-	元就が指さす先を見れば、	Where Motonari pointed,
-229756	+	アーマーガエルは大きな卵を抱えていた。	the Armor Gaeul was holding a large egg.
+229755	-		元就が指さす先を見れば、	Where Motonari pointed,
+229756	+		アーマーガエルは大きな卵を抱えていた。	the Armor Gaeul was holding a large egg.
 
-229757	Reset Kalar	「そうか……出産……	「I see... it's giving birth...
-229758	+	　それで動けなかったんだ……」	　that's why it couldn't move...」
+229757	Reset Kalar	真剣	「そうか……出産……	「I see... it's giving birth...
+229758	+		　それで動けなかったんだ……」	　that's why it couldn't move...」
 
-229759	Nagata-kun	「よ、よく分かったな……」	「You noticed that well...」
+229759	Nagata-kun	基本	「よ、よく分かったな……」	「You noticed that well...」
 
-229760	Yamamoto Rangi	「元就は相手の言葉はほぼ聞かない代わりに、	「Motonari barely listens to what others say,
-229761	+	　敵意の有無には敏感なところがあるからね……」	　but is very sensitive to hostility...」
+229760	Yamamoto Rangi		「元就は相手の言葉はほぼ聞かない代わりに、	「Motonari barely listens to what others say,
+229761	+		　敵意の有無には敏感なところがあるからね……」	　but is very sensitive to hostility...」
 
-229762	Mouri Motonari	「子を守ろうとするただの親！	「Just a parent trying to protect its child!
-229763	+	　そう見れば可愛いものよ！」	　When you look at it that way, it's cute!」
+229762	Mouri Motonari		「子を守ろうとするただの親！	「Just a parent trying to protect its child!
+229763	+		　そう見れば可愛いものよ！」	　When you look at it that way, it's cute!」
 
-229764	Mouri Motonari	「ぐわっはははははははは！」	「Gwahahahahahaha!」
+229764	Mouri Motonari	笑顔	「ぐわっはははははははは！」	「Gwahahahahahaha!」
 
-229765	-	　	　
-229766	+	　　＜バックン！＞	　　＜Gulp!＞
+229765	-		　	　
+229766	+		　　＜バックン！＞	　　＜Gulp!＞
 
-229767	-	元就がアーマーガエルに食べられた。	Motonari was eaten by the Armor Gaeul.
+229767	-		元就がアーマーガエルに食べられた。	Motonari was eaten by the Armor Gaeul.
 
-229768	Nagata-kun	「って、食べられたーーーー！？」	「Wait, he got eaten!?」
+229768	Nagata-kun	基本	「って、食べられたーーーー！？」	「Wait, he got eaten!?」
 
-229769	Mouri Motonari	「おらーーーーーっ！」	「Oraaaaa!」
+229769	Mouri Motonari	笑顔	「おらーーーーーっ！」	「Oraaaaa!」
 
-229770	-	と、思えばすぐに出て来た。	And just as quickly he came back out.
+229770	-		と、思えばすぐに出て来た。	And just as quickly he came back out.
 
-229771	Mouri Motonari	「ぐわっははははははははは！	「Gwahahahahahaha!
-229772	+	　食べた食べた！　見てたか！？	　It ate me! Did you see!?
-229773	+	　この巨大蛙、オレを食べたぞ！」	　This giant frog ate me!」
+229771	Mouri Motonari		「ぐわっははははははははは！	「Gwahahahahahaha!
+229772	+		　食べた食べた！　見てたか！？	　It ate me! Did you see!?
+229773	+		　この巨大蛙、オレを食べたぞ！」	　This giant frog ate me!」
 
-229774	Mouri Motonari	「死ねぇッ！！！！」	「Die!!!!」
+229774	Mouri Motonari	ガルル	「死ねぇッ！！！！」	「Die!!!!」
 
-229775	Nagata-kun	「思い切り殴ったーーー！？」	「He punched it with all his might!?」
+229775	Nagata-kun	基本	「思い切り殴ったーーー！？」	「He punched it with all his might!?」
 
-229776	Mouri Motonari	「オレを食おうとする奴は！	「Anyone who tries to eat me!
-229777	+	　オレの敵だ！」	　is my enemy!」
+229776	Mouri Motonari	ガルル	「オレを食おうとする奴は！	「Anyone who tries to eat me!
+229777	+		　オレの敵だ！」	　is my enemy!」
 
-229778	Mouri Motonari	「晩飯は！　	「For dinner!
-229779	?	蛙の！　	　Frog!
-229780	+	唐揚げだ！」	　Karaage!」
+229778	Mouri Motonari	笑顔	「晩飯は！　	「For dinner!
+229779	?		蛙の！　	　Frog!
+229780	+		唐揚げだ！」	　Karaage!」
 
-229781	Reset Kalar	「わー！　元就ちゃん、ストップストーップ！」	「Wah! Motonari-chan, stop stop!」
+229781	Reset Kalar	基本	「わー！　元就ちゃん、ストップストーップ！」	「Wah! Motonari-chan, stop stop!」
 
-229782	-	あなた達は元就を総出でなんとか止めると、	You all worked together to stop Motonari,
-229783	+	卵を移動させることで、	and by moving the egg,
-229784	+	アーマーガエルの巣の移動を成功させた。	successfully relocated the Armor Gaeul's nest.
+229782	-		あなた達は元就を総出でなんとか止めると、	You all worked together to stop Motonari,
+229783	+		卵を移動させることで、	and by moving the egg,
+229784	+		アーマーガエルの巣の移動を成功させた。	successfully relocated the Armor Gaeul's nest.
 
-229785	Mouri Motonari	「お、晴れた晴れた」	「Oh, it's cleared up.」
+229785	Mouri Motonari		「お、晴れた晴れた」	「Oh, it's cleared up.」
 
-229786	Mouri Motonari	「雨も好きだが！	「I like rain too!
-229787	+	　オレは晴れの方が好きだ！	　But I prefer sunny days!
-229788	+	　ぐわっははははは！」	　Gwahahahaha!」
+229786	Mouri Motonari	笑顔	「雨も好きだが！	「I like rain too!
+229787	+		　オレは晴れの方が好きだ！	　But I prefer sunny days!
+229788	+		　ぐわっははははは！」	　Gwahahahaha!」
 
-229789	Nagata-kun	「はあ……元就止める方が苦労した……」	「Haa... stopping Motonari was harder...」
+229789	Nagata-kun	基本	「はあ……元就止める方が苦労した……」	「Haa... stopping Motonari was harder...」
 
-229790	-	○○月××日――	○○ Month ×× Day――
+229790	-		○○月××日――	○○ Month ×× Day――
 
-229791	-	△△月□□日――	△△ Month □□ Day――
+229791	-		△△月□□日――	△△ Month □□ Day――
 
-229792	-	××月△△日――	×× Month △△ Day――
+229792	-		××月△△日――	×× Month △△ Day――
 
-229793	-	…………	............
+229793	-		…………	............
 
-229794	-	……	...
+229794	-		……	...
 
-229795	-	ゼスを飛び出して二週間――	Two weeks after leaving Zeth――
+229795	-		ゼスを飛び出して二週間――	Two weeks after leaving Zeth――
 
-229796	-	あなたはいくつもの冒険を経て、	After many adventures,
-229797	+	西ヘルマンに辿り着いた。	you arrived in West Helman.
+229796	-		あなたはいくつもの冒険を経て、	After many adventures,
+229797	+		西ヘルマンに辿り着いた。	you arrived in West Helman.

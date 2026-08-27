@@ -5,71 +5,71 @@
 * Zeth Mage Soldier	汎用ゼス男魔法兵	Male
 * Alkanese Rize	アルカネーゼ	Female
 
-45765	-	幾度かの追っ手を倒しつつ撤退した先で、	After defeating several pursuers during retreat,
-45766	+	ランス達は戦場から離れた建物を発見した。	they found a building away from the battlefield.
+45765	-		幾度かの追っ手を倒しつつ撤退した先で、	After defeating several pursuers during retreat,
+45766	+		ランス達は戦場から離れた建物を発見した。	they found a building away from the battlefield.
 
-45767	Rance	「ぜぃぜぃ、雑魚どもめが……ちょっと休憩だ。	「Haa haa, those small fries... Let's take a short break.
-45768	+	　魔物将軍を見つける前に、こっちがバテるわ」	　We'll get tired before finding the Monster General.」
+45767	Rance	だる顔	「ぜぃぜぃ、雑魚どもめが……ちょっと休憩だ。	「Haa haa, those small fries... Let's take a short break.
+45768	+		　魔物将軍を見つける前に、こっちがバテるわ」	　We'll get tired before finding the Monster General.」
 
-45769	Sill Plain	「……なんでしょう、ここ……」	「...What is this place...?」
+45769	Sill Plain	考え中	「……なんでしょう、ここ……」	「...What is this place...?」
 
-45770	Kentou Kanami	「砦……みたいね。もう放棄されてる……のかな？」	「Looks like... a fort. Already abandoned...?」
+45770	Kentou Kanami	基本	「砦……みたいね。もう放棄されてる……のかな？」	「Looks like... a fort. Already abandoned...?」
 
-45771	Rance	「入ってみりゃわかるだろ。とーーー！」	「We'll know once we go in. Tooo!」
+45771	Rance		「入ってみりゃわかるだろ。とーーー！」	「We'll know once we go in. Tooo!」
 
-45772	-	炸裂したランスキックにも、表門はびくともしない。	Even Rance's powerful kick didn't budge the main gate.
+45772	-		炸裂したランスキックにも、表門はびくともしない。	Even Rance's powerful kick didn't budge the main gate.
 
-45773	Rance	「ちっ、さすがに開かないか。おい、かなみ……」	「Tch, won't open after all. Hey, Kanami...」
+45773	Rance	だる顔	「ちっ、さすがに開かないか。おい、かなみ……」	「Tch, won't open after all. Hey, Kanami...」
 
-45774	-	ランスが言い切るより早く、	Before Rance could finish,
-45775	+	軋んだ音がして表門が開き始めた。	the gate creaked open.
+45774	-		ランスが言い切るより早く、	Before Rance could finish,
+45775	+		軋んだ音がして表門が開き始めた。	the gate creaked open.
 
-45776	Zeth Mage Soldier	「あっ……そ、総統閣下！？」	「Ah... P-Supreme Leader!?」
+45776	Zeth Mage Soldier	基本	「あっ……そ、総統閣下！？」	「Ah... P-Supreme Leader!?」
 
-45777	Kentou Kanami	「人、いたんだ……」	「There are people here...」
+45777	Kentou Kanami		「人、いたんだ……」	「There are people here...」
 
-45778	Rance	「俺様の顔を知ってるようだな。	「You know my face.
-45779	+	　ちょっと中に入れろ」	　Let us in for a bit.」
+45778	Rance		「俺様の顔を知ってるようだな。	「You know my face.
+45779	+		　ちょっと中に入れろ」	　Let us in for a bit.」
 
-45780	Zeth Mage Soldier	「は、はいっ……」	「Y-yes...」
+45780	Zeth Mage Soldier		「は、はいっ……」	「Y-yes...」
 
-45781	-	ランス達は、ゼス兵に案内されて	Guided by the Zeth soldiers,
-45782	+	砦の中へと入った。	Rance's group entered the fort.
+45781	-		ランス達は、ゼス兵に案内されて	Guided by the Zeth soldiers,
+45782	+		砦の中へと入った。	Rance's group entered the fort.
 
-45783	Rance	「こんな所に、まだゼスの部隊がいたのか。	「There were still Zeth troops here.
-45784	+	　街の近くで何をやってる」	　What are you doing so close to the town?」
+45783	Rance	真剣	「こんな所に、まだゼスの部隊がいたのか。	「There were still Zeth troops here.
+45784	+		　街の近くで何をやってる」	　What are you doing so close to the town?」
 
-45785	Zeth Mage Soldier	「す、すんまっせん……私ら、8人っしかいなくて。	「S-sorry... There are only 8 of us.
-45786	+	　あんな大軍に向かってくなんて、とても……」	　We couldn't possibly face such a huge army...」
+45785	Zeth Mage Soldier	基本	「す、すんまっせん……私ら、8人っしかいなくて。	「S-sorry... There are only 8 of us.
+45786	+		　あんな大軍に向かってくなんて、とても……」	　We couldn't possibly face such a huge army...」
 
-45787	Alkanese Rize	「8人……そりゃ無理だ」	「Only 8... Yeah, impossible.」
+45787	Alkanese Rize	困り	「8人……そりゃ無理だ」	「Only 8... Yeah, impossible.」
 
-45788	Zeth Mage Soldier	「はい……そんだもんで、	「Yes... So,
-45789	+	　機を見てマークに戻るつもりだったんですが」	　we were planning to return to Mark when we saw a chance.」
+45788	Zeth Mage Soldier	基本	「はい……そんだもんで、	「Yes... So,
+45789	+		　機を見てマークに戻るつもりだったんですが」	　we were planning to return to Mark when we saw a chance.」
 
-45790	-	言いながら、案内のゼス兵は広間への扉を開ける。	While speaking, the guiding Zeth soldier opened the door to the hall.
+45790	-		言いながら、案内のゼス兵は広間への扉を開ける。	While speaking, the guiding Zeth soldier opened the door to the hall.
 
-45791	Zeth Mage Soldier	「すんまっせん。	「Sorry.
-45792	+	　休憩なら、とりあえんずこっちで……」	　If you want to rest, this way for now...」
+45791	Zeth Mage Soldier		「すんまっせん。	「Sorry.
+45792	+		　休憩なら、とりあえんずこっちで……」	　If you want to rest, this way for now...」
 
-45793	Rance	「…………ん？」	「......Hm?」
+45793	Rance	真剣	「…………ん？」	「......Hm?」
 
-45794	-	ランスが広間へと入っていくと、	When Rance entered the hall,
-45795	+	その一角を埋め尽くすほどの人影が出迎えた。	he was greeted by so many figures they filled one side of the room.
+45794	-		ランスが広間へと入っていくと、	When Rance entered the hall,
+45795	+		その一角を埋め尽くすほどの人影が出迎えた。	he was greeted by so many figures they filled one side of the room.
 
-45796	Rance	「おいこら。どこが8人だけだ。	「Hey. Where are there only 8?
-45797	+	　うじゃうじゃいるではないか！」	　There are tons of them!」
+45796	Rance	怒り	「おいこら。どこが8人だけだ。	「Hey. Where are there only 8?
+45797	+		　うじゃうじゃいるではないか！」	　There are tons of them!」
 
-45798	Zeth Mage Soldier	「ふぇっ！？　あ、あの、そいつは……」	「Fue!? T-that's...」
+45798	Zeth Mage Soldier	苦戦	「ふぇっ！？　あ、あの、そいつは……」	「Fue!? T-that's...」
 
-45799	Sill Plain	「ラ、ランス様。違います、これ……」	「R-Rance-sama. That's not...」
+45799	Sill Plain	慌て	「ラ、ランス様。違います、これ……」	「R-Rance-sama. That's not...」
 
-45800	Rance	「あん？」	「Huh?」
+45800	Rance	だる顔	「あん？」	「Huh?」
 
-45801	Sill Plain	「この、人たち……………	「These people......」
-45802	?	　みんな石、です……」	　are all stone...」
+45801	Sill Plain	慌て	「この、人たち……………	「These people......」
+45802	?		　みんな石、です……」	　are all stone...」
 
-45803	-	広間に立ち尽くした、数十の人影。	Dozens of figures standing motionless in the hall.
+45803	-		広間に立ち尽くした、数十の人影。	Dozens of figures standing motionless in the hall.
 
-45804	-	それは、例外なく彫像と化しており……	Without exception, they had all been turned into statues...
-45805	+	表情のない顔がランス達を見つめていた。	Their expressionless faces stared at Rance's group.
+45804	-		それは、例外なく彫像と化しており……	Without exception, they had all been turned into statues...
+45805	+		表情のない顔がランス達を見つめていた。	Their expressionless faces stared at Rance's group.

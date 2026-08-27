@@ -3,126 +3,126 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-97367	Tolstoy Bato	「はあ……」	「Haa...」
+97367	Tolstoy Bato	基本	「はあ……」	「Haa...」
 
-97368	-	トルストイが中庭で溜め息をついていた。	Tolstoy sighed in the courtyard.
+97368	-		トルストイが中庭で溜め息をついていた。	Tolstoy sighed in the courtyard.
 
-97369	Rance	「おう」	「Yo.」
+97369	Rance		「おう」	「Yo.」
 
-97370	Sill Plain	「こんにちは、トルストイさん」	「Hello, Tolstoy-san.」
+97370	Sill Plain		「こんにちは、トルストイさん」	「Hello, Tolstoy-san.」
 
-97371	Tolstoy Bato	「総統、シィルさん」	「Supreme Leader, Sill-san.」
+97371	Tolstoy Bato		「総統、シィルさん」	「Supreme Leader, Sill-san.」
 
-97372	Rance	「まったく、何度見ても暗い顔だな。	「Man, no matter how many times I see you, that gloomy face.
-97373	+	　また貧乏くじがどうのと言っとったのか」	　Complaining about drawing the short straw again?」
+97372	Rance	真剣	「まったく、何度見ても暗い顔だな。	「Man, no matter how many times I see you, that gloomy face.
+97373	+		　また貧乏くじがどうのと言っとったのか」	　Complaining about drawing the short straw again?」
 
-97374	Rance	「男の癖にグチグチとうっとうしい奴」	「What a whiny guy for a man.」
+97374	Rance	だる顔	「男の癖にグチグチとうっとうしい奴」	「What a whiny guy for a man.」
 
-97375	Sill Plain	「ら、ランス様……」	「R-Rance-sama...」
+97375	Sill Plain	基本	「ら、ランス様……」	「R-Rance-sama...」
 
-97376	Tolstoy Bato	「はあ……これは失礼を。	「Haa... my apologies.
-97377	+	　本当に気にしてるわけではありませんが、	　I don't actually mind it,
-97378	+	　いつからか口癖になってましたね」	　but it somehow became a habit.」
+97376	Tolstoy Bato		「はあ……これは失礼を。	「Haa... my apologies.
+97377	+		　本当に気にしてるわけではありませんが、	　I don't actually mind it,
+97378	+		　いつからか口癖になってましたね」	　but it somehow became a habit.」
 
-97379	Tolstoy Bato	「自分で選んだ癖に文句垂れるな、と……	「My friends often scolded me for complaining
-97380	+	　友人にはよく叱られたものです」	　even though I chose it myself.」
+97379	Tolstoy Bato		「自分で選んだ癖に文句垂れるな、と……	「My friends often scolded me for complaining
+97380	+		　友人にはよく叱られたものです」	　even though I chose it myself.」
 
-97381	Rance	「ふん、まあいい。	「Hmph, whatever.
-97382	+	　今日は別の話で来たのだ」	　I came today for a different matter.」
+97381	Rance	真剣	「ふん、まあいい。	「Hmph, whatever.
+97382	+		　今日は別の話で来たのだ」	　I came today for a different matter.」
 
-97383	Tolstoy Bato	「別の話ですか」	「A different matter?」
+97383	Tolstoy Bato	基本	「別の話ですか」	「A different matter?」
 
-97384	Rance	「お前、俺の女達に色目を使ってるだろう！」	「You're making eyes at my women, aren't you!」
+97384	Rance	怒り	「お前、俺の女達に色目を使ってるだろう！」	「You're making eyes at my women, aren't you!」
 
-97385	Tolstoy Bato	「…………」	「............」
+97385	Tolstoy Bato	基本	「…………」	「............」
 
-97386	Tolstoy Bato	「ひどい誤解です」	「That's a terrible misunderstanding.」
+97386	Tolstoy Bato		「ひどい誤解です」	「That's a terrible misunderstanding.」
 
-97387	Sill Plain	「ら、ランス様……	「R-Rance-sama...
-97388	+	　トルストイさん、そんなことしてませんよ」	　Tolstoy-san isn't doing that.」
+97387	Sill Plain	慌て	「ら、ランス様……	「R-Rance-sama...
+97388	+		　トルストイさん、そんなことしてませんよ」	　Tolstoy-san isn't doing that.」
 
-97389	Rance	「む、本当か？　本当だろうな？」	「Hm, really? It better be true.」
+97389	Rance	基本	「む、本当か？　本当だろうな？」	「Hm, really? It better be true.」
 
-97390	Sill Plain	「ほ、本当です」	「I-It's true.」
+97390	Sill Plain	恥	「ほ、本当です」	「I-It's true.」
 
-97391	Tolstoy Bato	「ええ。	「Yes.
-97392	+	　総統の懇意の女性に色目を使うなど……	　Making eyes at women close to the Supreme Leader...
-97393	+	　考えるだに震えてしまいますね」	　Just thinking about it makes me shiver.」
+97391	Tolstoy Bato	基本	「ええ。	「Yes.
+97392	+		　総統の懇意の女性に色目を使うなど……	　Making eyes at women close to the Supreme Leader...
+97393	+		　考えるだに震えてしまいますね」	　Just thinking about it makes me shiver.」
 
-97394	-	トルストイはボーッとした表情のまま答えた。	Tolstoy answered with a blank expression.
+97394	-		トルストイはボーッとした表情のまま答えた。	Tolstoy answered with a blank expression.
 
-97395	Rance	「ふん、大体俺は部隊に俺以外の男が	「Hmph, I can't stand having any man
-97396	+	　いるってこと自体、我慢ならんのだ」	　other than me in my unit anyway.」
+97395	Rance	だる顔	「ふん、大体俺は部隊に俺以外の男が	「Hmph, I can't stand having any man
+97396	+		　いるってこと自体、我慢ならんのだ」	　other than me in my unit anyway.」
 
-97397	Tolstoy Bato	「確かに総統の部隊の女性は、	「It's true that the women in your unit
-97398	+	　皆、素敵な方ばかりと思いますが……」	　are all wonderful, but...
+97397	Tolstoy Bato	基本	「確かに総統の部隊の女性は、	「It's true that the women in your unit
+97398	+		　皆、素敵な方ばかりと思いますが……」	　are all wonderful, but...
 
-97399	Tolstoy Bato	「ご安心下さい。	「Please rest assured.
-97400	+	　私は妻子持ちです」	　I have a wife and children.」
+97399	Tolstoy Bato		「ご安心下さい。	「Please rest assured.
+97400	+		　私は妻子持ちです」	　I have a wife and children.」
 
-97401	Rance	「……？　だからなんだ？」	「...? So what?」
+97401	Rance		「……？　だからなんだ？」	「...? So what?」
 
-97402	Tolstoy Bato	「…………」	「............」
+97402	Tolstoy Bato		「…………」	「............」
 
-97403	Sill Plain	「奥さんがいらっしゃるので、	「Since he has a wife,
-97404	+	　浮気する気はない、という意味では？」	　he means he has no intention of cheating?」
+97403	Sill Plain	苦笑	「奥さんがいらっしゃるので、	「Since he has a wife,
+97404	+		　浮気する気はない、という意味では？」	　he means he has no intention of cheating?」
 
-97405	Tolstoy Bato	「ええ……	「Yes...
-97406	+	　そういうことになります」	　That's what it means.」
+97405	Tolstoy Bato	基本	「ええ……	「Yes...
+97406	+		　そういうことになります」	　That's what it means.」
 
-97407	Rance	「……ふぅ〜ん？」	「...Hmm?」
+97407	Rance		「……ふぅ〜ん？」	「...Hmm?」
 
-97408	Tolstoy Bato	「…………」	「............」
+97408	Tolstoy Bato		「…………」	「............」
 
-97409	Rance	「まあいい。一応納得してやる。	「Fine. I'll accept it for now.
-97410	+	　それよりお前、奥さんがいたのか……」	　By the way, you have a wife...?」
+97409	Rance	真剣	「まあいい。一応納得してやる。	「Fine. I'll accept it for now.
+97410	+		　それよりお前、奥さんがいたのか……」	　By the way, you have a wife...?」
 
-97411	Rance	「ふふん、それ聞いて面白いこと思いついたぞ」	「Heh heh, hearing that gave me a fun idea.」
+97411	Rance	エロ顔	「ふふん、それ聞いて面白いこと思いついたぞ」	「Heh heh, hearing that gave me a fun idea.」
 
-97412	Rance	「部下の女は俺の女！	「My subordinates' women are my women!
-97413	+	　お前の嫁さん、抱かせてもらおうか！」	　Let me fuck your wife!」
+97412	Rance		「部下の女は俺の女！	「My subordinates' women are my women!
+97413	+		　お前の嫁さん、抱かせてもらおうか！」	　Let me fuck your wife!」
 
-97414	Sill Plain	「ら、ランス様……！」	「R-Rance-sama...!」
+97414	Sill Plain	基本	「ら、ランス様……！」	「R-Rance-sama...!」
 
-97415	Tolstoy Bato	「…………」	「............」
+97415	Tolstoy Bato		「…………」	「............」
 
-97416	-	さすがに虚を突かれたのか、	Even Tolstoy was caught off guard,
-97417	+	トルストイも黙りこくってしまう。	and fell silent for a moment.
+97416	-		さすがに虚を突かれたのか、	Even Tolstoy was caught off guard,
+97417	+		トルストイも黙りこくってしまう。	and fell silent for a moment.
 
-97418	-	――が、すぐに頷いた。	――But he soon nodded.
+97418	-		――が、すぐに頷いた。	――But he soon nodded.
 
-97419	Tolstoy Bato	「構いませんよ」	「I don't mind.」
+97419	Tolstoy Bato		「構いませんよ」	「I don't mind.」
 
-97420	Tolstoy Bato	「――と、言いたいのですが、	「――is what I'd like to say,
-97421	+	　総統のお眼鏡にかなわないかと……」	　but I'm not sure if she'd meet your standards...」
+97420	Tolstoy Bato		「――と、言いたいのですが、	「――is what I'd like to say,
+97421	+		　総統のお眼鏡にかなわないかと……」	　but I'm not sure if she'd meet your standards...」
 
-97422	Rance	「なにゴチャゴチャと」	「What are you muttering about?」
+97422	Rance		「なにゴチャゴチャと」	「What are you muttering about?」
 
-97423	Tolstoy Bato	「写真があります。	「I have a photo.
-97424	+	　どうぞ、ご覧ください」	　Please take a look.」
+97423	Tolstoy Bato		「写真があります。	「I have a photo.
+97424	+		　どうぞ、ご覧ください」	　Please take a look.」
 
-97425	Rance	「……普通だな」	「...She's average.」
+97425	Rance	真剣	「……普通だな」	「...She's average.」
 
-97426	Rance	「いや、ちょっと、ぶちゃいく？」	「Wait, she's a bit plain?」
+97426	Rance	だる顔	「いや、ちょっと、ぶちゃいく？」	「Wait, she's a bit plain?」
 
-97427	Tolstoy Bato	「そこまで正直に仰る方は、	「You're the first person
-97428	+	　総統閣下が初めてです」	　to be so honest about it.」
+97427	Tolstoy Bato	基本	「そこまで正直に仰る方は、	「You're the first person
+97428	+		　総統閣下が初めてです」	　to be so honest about it.」
 
-97429	Tolstoy Bato	「スープ一つ満足に作れない愚妻です。	「She's a foolish wife who can't even make decent soup.
-97430	+	　総統の閨の役には荷が重いかと」	　She might be too much of a burden for your bed.」
+97429	Tolstoy Bato		「スープ一つ満足に作れない愚妻です。	「She's a foolish wife who can't even make decent soup.
+97430	+		　総統の閨の役には荷が重いかと」	　She might be too much of a burden for your bed.」
 
-97431	Rance	「ふん、普段からそうやってグチグチしとるから、	「Hmph, that's why you always complain,
-97432	+	　嫁さんまで貧乏くじを引いてしまうのだ」	　and even your wife draws the short straw.」
+97431	Rance		「ふん、普段からそうやってグチグチしとるから、	「Hmph, that's why you always complain,
+97432	+		　嫁さんまで貧乏くじを引いてしまうのだ」	　and even your wife draws the short straw.」
 
-97433	Tolstoy Bato	「とんでもありません」	「Not at all.」
+97433	Tolstoy Bato		「とんでもありません」	「Not at all.」
 
-97434	Tolstoy Bato	「良い妻に、良い友に、と……」	「A good wife, a good friend...
+97434	Tolstoy Bato		「良い妻に、良い友に、と……」	「A good wife, a good friend...
 
-97435	Tolstoy Bato	「常の貧乏くじですが……	　I always draw the short straw, but...
-97436	+	　良縁にだけは恵まれているのが自慢です」	　I'm proud to have been blessed with good relationships.」
+97435	Tolstoy Bato		「常の貧乏くじですが……	　I always draw the short straw, but...
+97436	+		　良縁にだけは恵まれているのが自慢です」	　I'm proud to have been blessed with good relationships.」
 
-97437	Rance	「お前、この嫁さんで満足なのか……」	「You're satisfied with that wife...?」
+97437	Rance		「お前、この嫁さんで満足なのか……」	「You're satisfied with that wife...?」
 
-97438	Rance	「ブス専？」	「You into ugly women?」
+97438	Rance		「ブス専？」	「You into ugly women?」
 
-97439	Tolstoy Bato	「……違うかと」	「...I don't think so.」
+97439	Tolstoy Bato		「……違うかと」	「...I don't think so.」

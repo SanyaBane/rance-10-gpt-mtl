@@ -15,88 +15,88 @@
 * Oda Kouhime	香姫	Female
 * Mill Yorks	ミル	Female
 
-62393	Rance	「…………………………」	「........................」
+62393	Rance	イライラ	「…………………………」	「........................」
 
-62394	Rance	「がーーーーー、くそやかましいな、この音！	「Gahhhhh, this sound is so damn annoying!
-62395	+	　イライラするぞ！」	　It's pissing me off!」
+62394	Rance	怒り	「がーーーーー、くそやかましいな、この音！	「Gahhhhh, this sound is so damn annoying!
+62395	+		　イライラするぞ！」	　It's pissing me off!」
 
-62396	Sill Plain	「そ、そう、ですね……	「Y-yes...
-62397	+	　集中力を削がれるというか……」	　It feels like it drains your focus...」
+62396	Sill Plain	泣き	「そ、そう、ですね……	「Y-yes...
+62397	+		　集中力を削がれるというか……」	　It feels like it drains your focus...」
 
-62398	Maria Custard	「時々、身体が痺れるのよね……	「Sometimes my body goes numb...
-62399	+	　やっぱり、この音のせいなのかしら……」	　It must be because of this sound...」
+62398	Maria Custard	あかんわ	「時々、身体が痺れるのよね……	「Sometimes my body goes numb...
+62399	+		　やっぱり、この音のせいなのかしら……」	　It must be because of this sound...」
 
-62400	Reset Kalar	「りんりんりん♪　りんりんりん♪」	「Ring ring ring♪ Ring ring ring♪」
+62400	Reset Kalar	うきゃー	「りんりんりん♪　りんりんりん♪」	「Ring ring ring♪ Ring ring ring♪」
 
-62401	-	軽い足取りで、リセットは花が密生している辺りを	With light steps, Reset walked around the densest part of the flowers.
-62402	+	歩き回っていた。	
+62401	-		軽い足取りで、リセットは花が密生している辺りを	With light steps, Reset walked around the densest part of the flowers.
+62402	+		歩き回っていた。	
 
-62403	Pastel Kalar	「うう、リセット……その音は害になりそうじゃ。	「Uuu, Reset... That sound seems harmful.
-62404	+	　近寄るでない」	　Don't get too close.」
+62403	Pastel Kalar	ぐぬぬ	「うう、リセット……その音は害になりそうじゃ。	「Uuu, Reset... That sound seems harmful.
+62404	+		　近寄るでない」	　Don't get too close.」
 
-62405	Reset Kalar	「？　おかーさん、そうなの？　大丈夫……？」	「? Mommy, is that so? Are you okay...?」
+62405	Reset Kalar	基本	「？　おかーさん、そうなの？　大丈夫……？」	「? Mommy, is that so? Are you okay...?」
 
-62406	Pastel Kalar	「ううむ、快くはない……リセットは大丈夫か」	「Uumu, not pleasant... Are you okay, Reset?」
+62406	Pastel Kalar	ぐぬぬ	「ううむ、快くはない……リセットは大丈夫か」	「Uumu, not pleasant... Are you okay, Reset?」
 
-62407	Reset Kalar	「私は、全然」	「I'm perfectly fine.」
+62407	Reset Kalar	基本	「私は、全然」	「I'm perfectly fine.」
 
-62408	Nagi su Ragarl	「やる気出るよね。ぼんばーーーーっ！」	「It gets me pumped. Bombaaa!」
+62408	Nagi su Ragarl	笑顔	「やる気出るよね。ぼんばーーーーっ！」	「It gets me pumped. Bombaaa!」
 
-62409	Masou Shizuka	「まあ……そうよね。	「Well... yeah.
-62410	+	　聞いていると気分が高揚する感じ」	　It feels uplifting when you listen to it.」
+62409	Masou Shizuka	基本	「まあ……そうよね。	「Well... yeah.
+62410	+		　聞いていると気分が高揚する感じ」	　It feels uplifting when you listen to it.」
 
-62411	Maria Custard	「え？　そ、そうなの……？」	「Eh? R-really...?」
+62411	Maria Custard		「え？　そ、そうなの……？」	「Eh? R-really...?」
 
-62412	Rance	「むう…………？」	「Muu............?」
+62412	Rance	真剣	「むう…………？」	「Muu............?」
 
-62413	Sill Plain	「なんだか……感想がバラバラですね」	「The reactions are all over the place...」
+62413	Sill Plain	泣き	「なんだか……感想がバラバラですね」	「The reactions are all over the place...」
 
-62414	Rance	「全員、気をつけーーー！」	「Everyone, pay attention---!」
+62414	Rance	怒り	「全員、気をつけーーー！」	「Everyone, pay attention---!」
 
-62415	-	ランスの大声に、一行は動きを止めた。	At Rance's loud voice, the group stopped moving.
+62415	-		ランスの大声に、一行は動きを止めた。	At Rance's loud voice, the group stopped moving.
 
-62416	Rance	「この音がウザいと思う奴、挙手！」	「Anyone who finds this sound annoying, raise your hand!」
+62416	Rance	イライラ	「この音がウザいと思う奴、挙手！」	「Anyone who finds this sound annoying, raise your hand!」
 
-62417	Sill Plain	「は、はい……」	「Y-yes...」
+62417	Sill Plain	泣き	「は、はい……」	「Y-yes...」
 
-62418	Maria Custard	「二徹目の昼時って感じかな……	「It feels like midday after an all-nighter...
-62419	+	　あんま、立ち止まりたくないなぁ」	　I don't want to stop for long.」
+62418	Maria Custard	あかんわ	「二徹目の昼時って感じかな……	「It feels like midday after an all-nighter...
+62419	+		　あんま、立ち止まりたくないなぁ」	　I don't want to stop for long.」
 
-62420	Kentou Kanami	「わ、私もちょっと……」	「M-me too a bit...」
+62420	Kentou Kanami	ジト目	「わ、私もちょっと……」	「M-me too a bit...」
 
-62421	Satella	「ぐう……無敵結界が効かない……ぐむう……」	「Guu... My invincible barrier isn't working... Gmuu...」
+62421	Satella	ぐぬぬ	「ぐう……無敵結界が効かない……ぐむう……」	「Guu... My invincible barrier isn't working... Gmuu...」
 
-62422	Sachiko Centers	「う、うーん……大した事はないですけど、	「U-umm... It's not that bad,
-62423	+	　どちらかというと、嫌です……」	　but I don't like it...」
+62422	Sachiko Centers	基本	「う、うーん……大した事はないですけど、	「U-umm... It's not that bad,
+62423	+		　どちらかというと、嫌です……」	　but I don't like it...」
 
-62424	Pigu Geliciam	「ねーー」	「Neeー」
+62424	Pigu Geliciam		「ねーー」	「Neeー」
 
-62425	Rance	「むう……こいつらはただ頑丈なだけの	「Muu... These guys might just be tough,
-62426	+	　可能性があるからよく分からんな……」	　so it's hard to tell...」
+62425	Rance	だる顔	「むう……こいつらはただ頑丈なだけの	「Muu... These guys might just be tough,
+62426	+		　可能性があるからよく分からんな……」	　so it's hard to tell...」
 
-62427	Rance	「次、気持ちいいと思う奴！」	「Next, anyone who finds it pleasant!」
+62427	Rance	怒り	「次、気持ちいいと思う奴！」	「Next, anyone who finds it pleasant!」
 
-62428	Nagi su Ragarl	「全然平気ーーー！」	「Perfectly fine!」
+62428	Nagi su Ragarl	基本	「全然平気ーーー！」	「Perfectly fine!」
 
-62429	Reset Kalar	「ねーー♪　いい音」	「Neeー♪ Nice sound.」
+62429	Reset Kalar	ガハハー	「ねーー♪　いい音」	「Neeー♪ Nice sound.」
 
-62430	Athena 2.0	「まったく平気なのれす！」	「Perfectly fine desu!」
+62430	Athena 2.0	基本	「まったく平気なのれす！」	「Perfectly fine desu!」
 
-62431	Masou Shizuka	「私も。こうなると……肉体の年齢……かな」	「Me too. In this case... it might be related to physical age.」
+62431	Masou Shizuka		「私も。こうなると……肉体の年齢……かな」	「Me too. In this case... it might be related to physical age.」
 
-62432	Rance	「ガキなら平気って事か」	「So kids are fine with it.」
+62432	Rance	真剣	「ガキなら平気って事か」	「So kids are fine with it.」
 
-62433	Copandon Dott	「そういう事かもしれんなぁ。	「That might be it.
-62434	+	　けっ、感じの悪い花やで」	　What an unpleasant flower.」
+62433	Copandon Dott	ジト目	「そういう事かもしれんなぁ。	「That might be it.
+62434	+		　けっ、感じの悪い花やで」	　What an unpleasant flower.」
 
-62435	Oda Kouhime~	（ああ……私、まだ気持ちいい……	（Ahh... I still feel good...
-62436	+	　こ、子供……なのかな……）	　Am I still... a child...?）
+62435	Oda Kouhime~	武装／困り	（ああ……私、まだ気持ちいい……	（Ahh... I still feel good...
+62436	+		　こ、子供……なのかな……）	　Am I still... a child...?）
 
-62437	Mill Yorks	「あちゃ、私もまだ平気だ……	「Acha, I'm still fine...
-62438	+	　ま、気持ち悪いよりはいいか」	　Well, better than feeling bad.」
+62437	Mill Yorks	怒	「あちゃ、私もまだ平気だ……	「Acha, I'm still fine...
+62438	+		　ま、気持ち悪いよりはいいか」	　Well, better than feeling bad.」
 
-62439	Sill Plain	「もしかしたら、この辺りは小さい子たちを	「Maybe we should have the smaller children
-62440	+	　中心にした方がいいかもしれませんね」	　take the lead here.」
+62439	Sill Plain	泣き	「もしかしたら、この辺りは小さい子たちを	「Maybe we should have the smaller children
+62440	+		　中心にした方がいいかもしれませんね」	　take the lead here.」
 
-62441	Rance	「ふん、どうするかな……	「Hmph, what to do...
-62442	+	　まあいい、進むぞ」	　Whatever, let's move on.」
+62441	Rance	真剣	「ふん、どうするかな……	「Hmph, what to do...
+62442	+		　まあいい、進むぞ」	　Whatever, let's move on.」

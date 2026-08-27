@@ -5,354 +5,354 @@
 * Nagata-kun	長田君２	Male
 * El Mofus	エール２	Player's choice
 
-195962	-	あなた達は長田君がいないまま、	Without Nagata-kun,
-195963	+	アジトを進んでいた。	you advanced through the hideout.
+195962	-		あなた達は長田君がいないまま、	Without Nagata-kun,
+195963	+		アジトを進んでいた。	you advanced through the hideout.
 
-195964	Rocky Bank	「うーん……」	「Hmm...」
+195964	Rocky Bank	基本	「うーん……」	「Hmm...」
 
-195965	-	歩きながら、ロッキーはきょろきょろと	While walking, Rocky looked around
-195966	+	辺りを窺っていた。	restlessly.
-195967	+	どうやら長田君を捜しているようだ。	He seemed to be searching for Nagata-kun.
+195965	-		歩きながら、ロッキーはきょろきょろと	While walking, Rocky looked around
+195966	+		辺りを窺っていた。	restlessly.
+195967	+		どうやら長田君を捜しているようだ。	He seemed to be searching for Nagata-kun.
 
-195968	Rocky Bank	「はあ、どこに行っただすかなぁ、	「Haa, where could Nagata-kun have gone,
-195969	+	　長田君は……」	　I wonder...」
+195968	Rocky Bank		「はあ、どこに行っただすかなぁ、	「Haa, where could Nagata-kun have gone,
+195969	+		　長田君は……」	　I wonder...」
 
-195970	Bandit	「あっ！　いたぞ、裏切り者だ！」	「Ah! There he is, the traitor!」
+195970	Bandit		「あっ！　いたぞ、裏切り者だ！」	「Ah! There he is, the traitor!」
 
-195971	Rocky Bank	「へ、へっ！？」	「H, heh!?」
+195971	Rocky Bank		「へ、へっ！？」	「H, heh!?」
 
-195972	-	そのとき、ドタドタと荒っぽい音を立てて、	At that moment, with loud stomping,
-195973	+	山賊が三人現れた。	three bandits appeared.
+195972	-		そのとき、ドタドタと荒っぽい音を立てて、	At that moment, with loud stomping,
+195973	+		山賊が三人現れた。	three bandits appeared.
 
-195974	Rocky Bank	「こ、こら！	「H, hey!
-195975	+	　客人の前だすよ、失礼はいかんだす！」	　We have guests, don't be rude!」
+195974	Rocky Bank		「こ、こら！	「H, hey!
+195975	+		　客人の前だすよ、失礼はいかんだす！」	　We have guests, don't be rude!」
 
-195976	Slave Merchant	「けーっ！　何偉そうにしてやがる！」	「Tch! Acting all high and mighty!」
+195976	Slave Merchant		「けーっ！　何偉そうにしてやがる！」	「Tch! Acting all high and mighty!」
 
-195977	Bandit	「てめぇが裏切り者だってことは、	「We already know
-195978	+	　もう調べがついてんだ！」	　you're the traitor!」
+195977	Bandit	抜刀	「てめぇが裏切り者だってことは、	「We already know
+195978	+		　もう調べがついてんだ！」	　you're the traitor!」
 
-195979	Rocky Bank	「へ？　ど、どういうことだす？」	「Eh? W, what do you mean?」
+195979	Rocky Bank	ガーン	「へ？　ど、どういうことだす？」	「Eh? W, what do you mean?」
 
-195980	Slave Merchant	「こいつが、ぜーんぶ吐いてくれたのよ」	「This guy spilled everything.」
+195980	Slave Merchant	基本	「こいつが、ぜーんぶ吐いてくれたのよ」	「This guy spilled everything.」
 
-195981	Nagata-kun	「ひぃ、ひぃ……ぐすん……」	「Hii, hii... sniff...」
+195981	Nagata-kun		「ひぃ、ひぃ……ぐすん……」	「Hii, hii... sniff...」
 
-195982	-	山賊が手に持っていた縄を力任せに引っ張ると、	The bandit yanked the rope hard,
-195983	+	縛られている長田君が引きずられて現れた。	dragging out the bound Nagata-kun.
+195982	-		山賊が手に持っていた縄を力任せに引っ張ると、	The bandit yanked the rope hard,
+195983	+		縛られている長田君が引きずられて現れた。	dragging out the bound Nagata-kun.
 
-195984	Rocky Bank	「長田君！？」	「Nagata-kun!?」
+195984	Rocky Bank		「長田君！？」	「Nagata-kun!?」
 
-195985	El Mofus	「…………。」	「............」
+195985	El Mofus		「…………。」	「............」
 
-195986	Slave Merchant	「アジト内を一匹でうろうろして怪しいし、	「He was wandering alone inside the hideout, suspicious,
-195987	+	　なーんか見覚えがあったから、	　and looked familiar,
-195988	+	　捕まえておいたんだ」	　so we caught him.」
+195986	Slave Merchant		「アジト内を一匹でうろうろして怪しいし、	「He was wandering alone inside the hideout, suspicious,
+195987	+		　なーんか見覚えがあったから、	　and looked familiar,
+195988	+		　捕まえておいたんだ」	　so we caught him.」
 
-195989	Slave Merchant	「そうしたらペラペラと話してくれたぜ！	「Then he sang like a bird!
-195990	+	　村から俺達の討伐依頼を受けて	　Said he came from the village
-195991	+	　ここに来たってな！」	　on a request to exterminate us!」
+195989	Slave Merchant		「そうしたらペラペラと話してくれたぜ！	「Then he sang like a bird!
+195990	+		　村から俺達の討伐依頼を受けて	　Said he came from the village
+195991	+		　ここに来たってな！」	　on a request to exterminate us!」
 
-195992	Rocky Bank	「そ、そんな……」	「N, no way...」
+195992	Rocky Bank		「そ、そんな……」	「N, no way...」
 
-195993	Nagata-kun	「ひいっ……ご、ごめ……	「Hii... s, sorry...
-195994	+	　だって痛くするって言うから……」	　they said they'd hurt me...」
+195993	Nagata-kun		「ひいっ……ご、ごめ……	「Hii... s, sorry...
+195994	+		　だって痛くするって言うから……」	　they said they'd hurt me...」
 
-195995	Rocky Bank	「あ、あわわ……	「A, awawa...
-195996	+	　みんな落ち着くだ……これは誤解で……」	　Everyone calm down... this is a misunderstanding...」
+195995	Rocky Bank	ガーン	「あ、あわわ……	「A, awawa...
+195996	+		　みんな落ち着くだ……これは誤解で……」	　Everyone calm down... this is a misunderstanding...」
 
-195997	Bandit	「誤解も六階もあるかあ！	「No misunderstanding here!
-195998	+	　これはランスJr.様に報告させてもらう！」	　We'll report this to Rance Jr.-sama!」
+195997	Bandit	基本	「誤解も六階もあるかあ！	「No misunderstanding here!
+195998	+		　これはランスJr.様に報告させてもらう！」	　We'll report this to Rance Jr.-sama!」
 
-195999	Bandit	「馬ー鹿、そんな手間かけるこたぁねぇ」	「Idiot, no need for that hassle.」
+195999	Bandit	抜刀	「馬ー鹿、そんな手間かけるこたぁねぇ」	「Idiot, no need for that hassle.」
 
-196000	Bandit	「てめぇら、これを見ろ！」	「You guys, look at this!」
+196000	Bandit		「てめぇら、これを見ろ！」	「You guys, look at this!」
 
-196001	Nagata-kun	「ひっ！？」	「Hii!?」
+196001	Nagata-kun	基本	「ひっ！？」	「Hii!?」
 
-196002	-	長田君の首筋にナイフが押し当てられた。	A knife was pressed against Nagata-kun's neck.
+196002	-		長田君の首筋にナイフが押し当てられた。	A knife was pressed against Nagata-kun's neck.
 
-196003	Bandit	「このハニーが殺されたくなかったら、	「If you don't want this Hanny to get killed,
-196004	+	　武器を捨てな！　今ここで殺してやる！」	　drop your weapons! I'll kill him right here!」
+196003	Bandit	抜刀	「このハニーが殺されたくなかったら、	「If you don't want this Hanny to get killed,
+196004	+		　武器を捨てな！　今ここで殺してやる！」	　drop your weapons! I'll kill him right here!」
 
-196005	Nagata-kun	「ええっ！？」	「Ehh!?」
+196005	Nagata-kun	基本	「ええっ！？」	「Ehh!?」
 
-196006	Rocky Bank	「な、長田君……」	「N-Nagata-kun...」
+196006	Rocky Bank		「な、長田君……」	「N-Nagata-kun...」
 
-196007	El Mofus	「…………。」	「............」
+196007	El Mofus		「…………。」	「............」
 
-196008	Slave Merchant	「お前、こいつとベストフレンドなんだって？	「You're best friends with this guy, right?
-196009	+	　へへへ、ならこれで何も出来ねぇだろ？」	　Hehehe, then you can't do shit now, can you?」
+196008	Slave Merchant		「お前、こいつとベストフレンドなんだって？	「You're best friends with this guy, right?
+196009	+		　へへへ、ならこれで何も出来ねぇだろ？」	　Hehehe, then you can't do shit now, can you?」
 
-196010	Slave Merchant	「あぁん？　それとも仲間見捨てっか？」	「Well? Or are you gonna abandon your buddy?」
+196010	Slave Merchant		「あぁん？　それとも仲間見捨てっか？」	「Well? Or are you gonna abandon your buddy?」
 
-196011	Rocky Bank	「こ、こんなこと、やめるだ！」	「S-Stop this!」
+196011	Rocky Bank		「こ、こんなこと、やめるだ！」	「S-Stop this!」
 
-196012	Bandit	「うるせぇぞ、裏切り者が！」	「Shut up, traitor!」
+196012	Bandit	抜刀	「うるせぇぞ、裏切り者が！」	「Shut up, traitor!」
 
-196013	Bandit	「てめぇらが素直に殺されたら、	「If you bastards obediently die,
-196014	+	　このハニーだけは見逃してやるよ」	　I'll spare just this Hanny.」
+196013	Bandit		「てめぇらが素直に殺されたら、	「If you bastards obediently die,
+196014	+		　このハニーだけは見逃してやるよ」	　I'll spare just this Hanny.」
 
-196015	Rocky Bank	「うううう……」	「Uuuu...」
+196015	Rocky Bank	とほほ	「うううう……」	「Uuuu...」
 
-196016	Rocky Bank	「ど、どうするだすか、＜エール＞様……」	「W-What should we do, Lady ＜エール＞...」
+196016	Rocky Bank		「ど、どうするだすか、＜エール＞様……」	「W-What should we do, Lady ＜エール＞...」
 
-196017	El Mofus	「…………。」	「............」
+196017	El Mofus	基本	「…………。」	「............」
 
-196018	Nagata-kun	「こ……」	「Y-You...」
+196018	Nagata-kun		「こ……」	「Y-You...」
 
-196019	Nagata-kun	「殺すなら殺せー！」	「If you're gonna kill me, just do it!」
+196019	Nagata-kun		「殺すなら殺せー！」	「If you're gonna kill me, just do it!」
 
-196020	Bandit	「あぁん？」	「Haa?」
+196020	Bandit	抜刀	「あぁん？」	「Haa?」
 
-196021	Nagata-kun	「本当の友達ってのはなぁ、	「Real friends,
-196022	+	　お互いに対等でなけりゃいけねえ！」	　have to be equals with each other!」
+196021	Nagata-kun	基本	「本当の友達ってのはなぁ、	「Real friends,
+196022	+		　お互いに対等でなけりゃいけねえ！」	　have to be equals with each other!」
 
-196023	Nagata-kun	「本当の友達ってのはなぁ、	「Real friends,
-196024	+	　遠慮なんかしあう関係じゃいけねぇ！」	　aren't supposed to hold back with each other!」
+196023	Nagata-kun		「本当の友達ってのはなぁ、	「Real friends,
+196024	+		　遠慮なんかしあう関係じゃいけねぇ！」	　aren't supposed to hold back with each other!」
 
-196025	Nagata-kun	「俺ぁ、死ぬその一瞬まで、	「I'm ＜エール＞'s friend
-196026	+	　＜エール＞の友達なんだ！」	　until the very moment I die!」
+196025	Nagata-kun		「俺ぁ、死ぬその一瞬まで、	「I'm ＜エール＞'s friend
+196026	+		　＜エール＞の友達なんだ！」	　until the very moment I die!」
 
-196027	Nagata-kun	「＜エール＞！　遠慮はいらねぇ！	「＜エール＞! Don't hold back!
-196028	+	　こいつらをぶっ飛ばしちまえ！」	　Blow these guys away!」
+196027	Nagata-kun		「＜エール＞！　遠慮はいらねぇ！	「＜エール＞! Don't hold back!
+196028	+		　こいつらをぶっ飛ばしちまえ！」	　Blow these guys away!」
 
-196029	Slave Merchant	「でも、お前びびって	「But you were scared shitless
-196030	+	　ひとりで逃げてたんだろ？」	　and ran away by yourself, weren't you?」
+196029	Slave Merchant		「でも、お前びびって	「But you were scared shitless
+196030	+		　ひとりで逃げてたんだろ？」	　and ran away by yourself, weren't you?」
 
-196031	Nagata-kun	「あんっ、そ、それは……」	「Ugh, t-that's...」
+196031	Nagata-kun		「あんっ、そ、それは……」	「Ugh, t-that's...」
 
-196032	Nagata-kun	「……ああ、その通りだ」	「...Yeah, that's right.」
+196032	Nagata-kun		「……ああ、その通りだ」	「...Yeah, that's right.」
 
-196033	Nagata-kun	「確かにその通りだよ。	「It's exactly right.
-196034	+	　俺は一度、友達を裏切ったんだ。	　I betrayed my friend once before.
-196035	+	　助けを求める義理は最初からないんだ……」	　I have no right to ask for help...」
+196033	Nagata-kun		「確かにその通りだよ。	「It's exactly right.
+196034	+		　俺は一度、友達を裏切ったんだ。	　I betrayed my friend once before.
+196035	+		　助けを求める義理は最初からないんだ……」	　I have no right to ask for help...」
 
-196036	Nagata-kun	「これが俺に出来る唯一のスジの通し方だ！」	「This is the only way I can make things right!」
+196036	Nagata-kun		「これが俺に出来る唯一のスジの通し方だ！」	「This is the only way I can make things right!」
 
-196037	Nagata-kun	「さあ、分かっただろ！　＜エール＞！	「So you get it, right! ＜エール＞!
-196038	+	　スパッとやってくれ！」	　Do it clean!」
+196037	Nagata-kun		「さあ、分かっただろ！　＜エール＞！	「So you get it, right! ＜エール＞!
+196038	+		　スパッとやってくれ！」	　Do it clean!」
 
-196039	Bandit	「だーーーーっ！　うるせぇーーーー！」	「Shuuuut up!」
+196039	Bandit	抜刀	「だーーーーっ！　うるせぇーーーー！」	「Shuuuut up!」
 
-196040	Bandit	「俺は馬鹿だから	「I'm an idiot
-196041	+	　ややこしいことが嫌いなんだ！」	　so I hate complicated shit!」
+196040	Bandit		「俺は馬鹿だから	「I'm an idiot
+196041	+		　ややこしいことが嫌いなんだ！」	　so I hate complicated shit!」
 
-196042	Bandit	「とにかく！　こいつの命が惜しけりゃ、	「Anyway! If you value this guy's life,
-196043	+	　言われた通り武器を捨てやがれ！」	　drop your weapons like I said!」
+196042	Bandit		「とにかく！　こいつの命が惜しけりゃ、	「Anyway! If you value this guy's life,
+196043	+		　言われた通り武器を捨てやがれ！」	　drop your weapons like I said!」
 
-196044	Bandit	「さあ！　どうすんだ！？」	「Well!? What'll it be!?」
+196044	Bandit		「さあ！　どうすんだ！？」	「Well!? What'll it be!?」
 
-196045	Nagata-kun	「うぐぐ……」	「Ughhh...」
+196045	Nagata-kun	基本	「うぐぐ……」	「Ughhh...」
 
-196046	El Mofus	「…………。」	「............」
+196046	El Mofus		「…………。」	「............」
 
-196047	Nagata-kun	「＜エール＞……」	「＜エール＞...」
+196047	Nagata-kun		「＜エール＞……」	「＜エール＞...」
 
-196048	-	あなたは武器を手放し床に捨てた。	You let go of your weapon and dropped it to the floor.
+196048	-		あなたは武器を手放し床に捨てた。	You let go of your weapon and dropped it to the floor.
 
-196049	Rocky Bank	「＜エール＞様……」	「Lady ＜エール＞...」
+196049	Rocky Bank		「＜エール＞様……」	「Lady ＜エール＞...」
 
-196050	Nagata-kun	「＜エール＞……この、馬鹿……！」	「＜エール＞... You idiot...!」
+196050	Nagata-kun		「＜エール＞……この、馬鹿……！」	「＜エール＞... You idiot...!」
 
-196051	Bandit	「ははははははは！	「Hahahahaha!
-196052	+	　ハニー如きの命がそんなに大事かよ！	　You value a Hanny's life that much!?
-196053	+	　頭のおかしい奴だ！」	　What a crazy bastard!」
+196051	Bandit	抜刀	「ははははははは！	「Hahahahaha!
+196052	+		　ハニー如きの命がそんなに大事かよ！	　You value a Hanny's life that much!?
+196053	+		　頭のおかしい奴だ！」	　What a crazy bastard!」
 
-196054	Bandit	「ひーっ！	「Hii!
-196055	+	　こんな頭のおかしい奴初めて見たぜ！」	　Never seen such a lunatic before!」
+196054	Bandit		「ひーっ！	「Hii!
+196055	+		　こんな頭のおかしい奴初めて見たぜ！」	　Never seen such a lunatic before!」
 
-196056	Bandit	「よーし、約束通りこいつは離してやる！」	「Alright, I'll let him go as promised!」
+196056	Bandit		「よーし、約束通りこいつは離してやる！」	「Alright, I'll let him go as promised!」
 
-196057	Slave Merchant	「あっ、この馬鹿！」	「Ah, you idiot!」
+196057	Slave Merchant	基本	「あっ、この馬鹿！」	「Ah, you idiot!」
 
-196058	Nagata-kun	「ひーっ！　＜エール＞ーーーーッ！」	「Hii! ＜エール＞-----!」
+196058	Nagata-kun		「ひーっ！　＜エール＞ーーーーッ！」	「Hii! ＜エール＞-----!」
 
-196059	-	山賊が手放したことで、	The bandit let go,
-196060	+	長田君はあなたのもとへ戻ってきた。	and Nagata-kun ran back to you.
+196059	-		山賊が手放したことで、	The bandit let go,
+196060	+		長田君はあなたのもとへ戻ってきた。	and Nagata-kun ran back to you.
 
-196061	Slave Merchant	「本当に手放してどうすんだ、このタコ！」	「You really let him go, you moron!」
+196061	Slave Merchant		「本当に手放してどうすんだ、このタコ！」	「You really let him go, you moron!」
 
-196062	Bandit	「え、だって……約束……」	「Eh, but... the promise...」
+196062	Bandit	抜刀	「え、だって……約束……」	「Eh, but... the promise...」
 
-196063	Bandit	「ぎゃははは！	「Gyahaha!
-196064	+	　今更なにを言ったところでやめるかよ！」	　Like I'd stop now!」
+196063	Bandit		「ぎゃははは！	「Gyahaha!
+196064	+		　今更なにを言ったところでやめるかよ！」	　Like I'd stop now!」
 
-196065	El Mofus	「…………。」	「............」
+196065	El Mofus	基本	「…………。」	「............」
 
-196066	-	それでもなんとかあなたは説得を試みる。	Even so, you tried to persuade them somehow.
+196066	-		それでもなんとかあなたは説得を試みる。	Even so, you tried to persuade them somehow.
 
-196067	Nagata-kun	「＜エール＞……」	「＜エール＞...」
+196067	Nagata-kun		「＜エール＞……」	「＜エール＞...」
 
-196068	Slave Merchant	「けっ、今更説得なんてするとは、	「Tch, trying to persuade us now,
-196069	+	　お前頭のネジが飛んでんじゃねぇのか！？」	　you must have a screw loose!」
+196068	Slave Merchant		「けっ、今更説得なんてするとは、	「Tch, trying to persuade us now,
+196069	+		　お前頭のネジが飛んでんじゃねぇのか！？」	　you must have a screw loose!」
 
-196070	Slave Merchant	「そんなにこのハニーが大事なのかよ！？	「You care that much about this Hanny!?
-196071	+	　ぎゃははは！　こんなのが友達とはみじめな奴！」	　Gyahaha! What a pathetic friend you are!」
+196070	Slave Merchant		「そんなにこのハニーが大事なのかよ！？	「You care that much about this Hanny!?
+196071	+		　ぎゃははは！　こんなのが友達とはみじめな奴！」	　Gyahaha! What a pathetic friend you are!」
 
-196072	-	怒られ、笑われ、馬鹿にされ、	They yelled at you, laughed at you, and mocked you,
-196073	+	それでもあなたは説得を続ける。	yet you kept trying to persuade them.
+196072	-		怒られ、笑われ、馬鹿にされ、	They yelled at you, laughed at you, and mocked you,
+196073	+		それでもあなたは説得を続ける。	yet you kept trying to persuade them.
 
-196074	Bandit	「だーっ！　ぐだぐだとうるせぇ野郎だ！	「Argh! What a noisy annoying bastard!
-196075	+	　今すぐブッ殺してやる！」	　I'll kill you right now!」
+196074	Bandit	抜刀	「だーっ！　ぐだぐだとうるせぇ野郎だ！	「Argh! What a noisy annoying bastard!
+196075	+		　今すぐブッ殺してやる！」	　I'll kill you right now!」
 
-196076	-	山賊は長田君を放り投げて、	The bandit threw Nagata-kun aside,
-196077	+	得物であるナイフをあなたに突きつける。	and thrust his knife at you.
+196076	-		山賊は長田君を放り投げて、	The bandit threw Nagata-kun aside,
+196077	+		得物であるナイフをあなたに突きつける。	and thrust his knife at you.
 
-196078	Slave Merchant	「あっ、この馬鹿！」	「Ah, you idiot!」
+196078	Slave Merchant	基本	「あっ、この馬鹿！」	「Ah, you idiot!」
 
-196079	Bandit	「は？」	「Huh?」
+196079	Bandit	抜刀	「は？」	「Huh?」
 
-196080	Nagata-kun	「ひーっ！　＜エール＞ーーーーッ！」	「Hii! ＜エール＞-----!」
+196080	Nagata-kun	基本	「ひーっ！　＜エール＞ーーーーッ！」	「Hii! ＜エール＞-----!」
 
-196081	Bandit	「ああっ！？」	「Aah!?」
+196081	Bandit	抜刀	「ああっ！？」	「Aah!?」
 
-196082	-	山賊が手を離したことで、	The bandit let go,
-196083	+	長田君があなたのもとへ戻ってきた。	and Nagata-kun returned to you.
+196082	-		山賊が手を離したことで、	The bandit let go,
+196083	+		長田君があなたのもとへ戻ってきた。	and Nagata-kun returned to you.
 
-196084	Slave Merchant	「なに逃してんだ、このタコ！」	「Why'd you let him go, you moron!」
+196084	Slave Merchant	基本	「なに逃してんだ、このタコ！」	「Why'd you let him go, you moron!」
 
-196085	Bandit	「あう、あうあうあう……」	「Auu, auu auu...」
+196085	Bandit	抜刀	「あう、あうあうあう……」	「Auu, auu auu...」
 
-196086	Nagata-kun	「あんっ！」	「Anh!」
+196086	Nagata-kun	基本	「あんっ！」	「Anh!」
 
-196087	Rocky Bank	「えーーーーーーーーっ！？！？！？」	「Ehhhhhhhhhh!?」
+196087	Rocky Bank	ガーン	「えーーーーーーーーっ！？！？！？」	「Ehhhhhhhhhh!?」
 
-196088	-	あなたの投石攻撃がクリーンヒット。	Your thrown stone attack scored a direct hit.
-196089	+	長田君は粉々になった。	Nagata-kun was smashed to pieces.
+196088	-		あなたの投石攻撃がクリーンヒット。	Your thrown stone attack scored a direct hit.
+196089	+		長田君は粉々になった。	Nagata-kun was smashed to pieces.
 
-196090	Rocky Bank	「ちょちょちょ、何をしてるだすかー！？」	「W-What are you doing!?」
+196090	Rocky Bank		「ちょちょちょ、何をしてるだすかー！？」	「W-What are you doing!?」
 
-196091	Slave Merchant	「お前ー！　人の心ってもんがないのか！	「You! Don't you have a heart!?
-196092	+	　あんだけ健気なこと言った奴に	　After he said all those brave things,
-196093	+	　自らとどめ刺すとか人間じゃねぇ！」	　you finished him off yourself? You're not human!」
+196091	Slave Merchant	基本	「お前ー！　人の心ってもんがないのか！	「You! Don't you have a heart!?
+196092	+		　あんだけ健気なこと言った奴に	　After he said all those brave things,
+196093	+		　自らとどめ刺すとか人間じゃねぇ！」	　you finished him off yourself? You're not human!」
 
-196094	Bandit	「恥を知れ！　恥を！」	「Have some shame! Shame!」
+196094	Bandit	抜刀	「恥を知れ！　恥を！」	「Have some shame! Shame!」
 
-196095	Bandit	「友達を大事にしない奴はなぁ……	「Anyone who doesn't value their friends...
-196096	+	　最低なんだぞ！」	　is the lowest scum!」
+196095	Bandit	基本	「友達を大事にしない奴はなぁ……	「Anyone who doesn't value their friends...
+196096	+		　最低なんだぞ！」	　is the lowest scum!」
 
-196097	El Mofus	「…………。」	「............」
+196097	El Mofus		「…………。」	「............」
 
-196098	-	あなたはその場の全員に言われたい放題言われた。	Everyone there said whatever they wanted to you.
+196098	-		あなたはその場の全員に言われたい放題言われた。	Everyone there said whatever they wanted to you.
 
-196099	El Mofus	「…………。」	「............」
+196099	El Mofus		「…………。」	「............」
 
-196100	-	あなたは長田君の残骸をセロテープで	You used cellophane tape on Nagata-kun's remains
-196101	+	ペタペタと元通りに戻していく。	and carefully pieced him back together.
+196100	-		あなたは長田君の残骸をセロテープで	You used cellophane tape on Nagata-kun's remains
+196101	+		ペタペタと元通りに戻していく。	and carefully pieced him back together.
 
-196102	-	ぱぱーん。	Pop!
-196103	+	元通りに復元した。	He was restored to normal.
+196102	-		ぱぱーん。	Pop!
+196103	+		元通りに復元した。	He was restored to normal.
 
-196104	Nagata-kun	「ひーっ！　＜エール＞ーーーーッ！」	「Hii! ＜エール＞-----!」
+196104	Nagata-kun		「ひーっ！　＜エール＞ーーーーッ！」	「Hii! ＜エール＞-----!」
 
-196105	Slave Merchant	「ええっ！？　治るのかよ！？」	「Ehh!? He can be fixed!?」
+196105	Slave Merchant		「ええっ！？　治るのかよ！？」	「Ehh!? He can be fixed!?」
 
-196106	Nagata-kun	「うわーーーーん！　＜エール＞ー！	「Uwaaaaaan! ＜エール＞!
-196107	+	　怖かったよー！　怖かったよー！」	　I was so scared! So scared!」
+196106	Nagata-kun		「うわーーーーん！　＜エール＞ー！	「Uwaaaaaan! ＜エール＞!
+196107	+		　怖かったよー！　怖かったよー！」	　I was so scared! So scared!」
 
-196108	-	長田君があなたの胸に飛び込んできた。	Nagata-kun jumped into your chest.
+196108	-		長田君があなたの胸に飛び込んできた。	Nagata-kun jumped into your chest.
 
-196109	Nagata-kun	「お、お前……俺を助ける為に……」	「Y-You... for my sake...」
+196109	Nagata-kun		「お、お前……俺を助ける為に……」	「Y-You... for my sake...」
 
-196110	Nagata-kun	「うわーーーーん!　＜エール＞ー！	「Uwaaaaaan! ＜エール＞!
-196111	+	　ごめんよー！」	　I'm sorry!」
+196110	Nagata-kun		「うわーーーーん!　＜エール＞ー！	「Uwaaaaaan! ＜エール＞!
+196111	+		　ごめんよー！」	　I'm sorry!」
 
-196112	Slave Merchant	「だーーーーっ！　面倒臭ぇ！	「Argh! So annoying!
-196113	+	　お前ら、直接ボコボコにすんぞ！」	　I'll beat the shit out of you directly!」
+196112	Slave Merchant		「だーーーーっ！　面倒臭ぇ！	「Argh! So annoying!
+196113	+		　お前ら、直接ボコボコにすんぞ！」	　I'll beat the shit out of you directly!」
 
-196114	-	…………	............
+196114	-		…………	............
 
-196115	-	……	...
+196115	-		……	...
 
-196116	Slave Merchant	「う、きゅう……」	「U... gyuu...」
+196116	Slave Merchant		「う、きゅう……」	「U... gyuu...」
 
-196117	-	たった三人では到底敵う筈もなく、	With just three of them, there was no way they could win,
-196118	+	あっという間に山賊は倒された。	and the bandits were defeated in an instant.
+196117	-		たった三人では到底敵う筈もなく、	With just three of them, there was no way they could win,
+196118	+		あっという間に山賊は倒された。	and the bandits were defeated in an instant.
 
-196119	Nagata-kun	「…………」	「............」
+196119	Nagata-kun		「…………」	「............」
 
-196120	-	長田君はあなたをチラチラと窺っている。	Nagata-kun kept glancing at you.
+196120	-		長田君はあなたをチラチラと窺っている。	Nagata-kun kept glancing at you.
 
-196121	Nagata-kun	「あ、あのよぉ……＜エール＞……」	「U-Um... ＜エール＞...」
+196121	Nagata-kun		「あ、あのよぉ……＜エール＞……」	「U-Um... ＜エール＞...」
 
-196122	El Mofus	「…………。」	「............」
-196123	Nagata-kun	「あっ……」	「Ah...」
+196122	El Mofus		「…………。」	「............」
+196123	Nagata-kun		「あっ……」	「Ah...」
 
-196124	Nagata-kun	「……うっ」	「...Ugh」
+196124	Nagata-kun		「……うっ」	「...Ugh」
 
-196125	Nagata-kun	「…………」	「............」
+196125	Nagata-kun		「…………」	「............」
 
-196126	-	長田君は瞼をぐしぐしとぬぐった。	Nagata-kun rubbed his eyes roughly.
+196126	-		長田君は瞼をぐしぐしとぬぐった。	Nagata-kun rubbed his eyes roughly.
 
-196127	Nagata-kun	「＜エール＞……ごめんな……」	「＜エール＞... I'm sorry...」
+196127	Nagata-kun		「＜エール＞……ごめんな……」	「＜エール＞... I'm sorry...」
 
-196128	-	長田君がボソリと何か呟いた。	Nagata-kun muttered something under his breath.
+196128	-		長田君がボソリと何か呟いた。	Nagata-kun muttered something under his breath.
 
-196129	Nagata-kun	「へへっ！　さあ、冒険の続きだな！」	「Hehe! Alright, let's continue the adventure!」
+196129	Nagata-kun		「へへっ！　さあ、冒険の続きだな！」	「Hehe! Alright, let's continue the adventure!」
 
-196130	-	あなたの出した手を、	You held out your hand,
-196131	+	長田君がぎゅっと握った。	and Nagata-kun gripped it tightly.
+196130	-		あなたの出した手を、	You held out your hand,
+196131	+		長田君がぎゅっと握った。	and Nagata-kun gripped it tightly.
 
-196132	Nagata-kun	「うっ、わ、悪かったよぉ！	「Ugh, s-sorry!
-196133	+	　マジ、反省してるって！」	　I'm seriously reflecting!」
+196132	Nagata-kun		「うっ、わ、悪かったよぉ！	「Ugh, s-sorry!
+196133	+		　マジ、反省してるって！」	　I'm seriously reflecting!」
 
-196134	Nagata-kun	「…………」	「............」
+196134	Nagata-kun		「…………」	「............」
 
-196135	Nagata-kun	「いや、俺は何も言う資格はねぇな……	「Nah, I don't have the right to say anything...
-196136	+	　気の済むまで俺を罵倒してくれ！」	　Insult me as much as you want!」
+196135	Nagata-kun		「いや、俺は何も言う資格はねぇな……	「Nah, I don't have the right to say anything...
+196136	+		　気の済むまで俺を罵倒してくれ！」	　Insult me as much as you want!」
 
-196137	-	あなたは長田君を罵倒した。	You insulted Nagata-kun.
+196137	-		あなたは長田君を罵倒した。	You insulted Nagata-kun.
 
-196138	Nagata-kun	「ああ……」	「Ahh...」
+196138	Nagata-kun		「ああ……」	「Ahh...」
 
-196139	-	まだまだ罵倒した。	You kept insulting him more.
+196139	-		まだまだ罵倒した。	You kept insulting him more.
 
-196140	Nagata-kun	「…………」	「............」
+196140	Nagata-kun		「…………」	「............」
 
-196141	-	思いつく限りのありとあらゆる言葉で	Using every word you could think of,
-196142	+	長田君を罵った。	you cursed Nagata-kun thoroughly.
+196141	-		思いつく限りのありとあらゆる言葉で	Using every word you could think of,
+196142	+		長田君を罵った。	you cursed Nagata-kun thoroughly.
 
-196143	Nagata-kun	「ウキーーーッ！」	「Ukyaaa!」
+196143	Nagata-kun		「ウキーーーッ！」	「Ukyaaa!」
 
-196144	-	長田君は顔を真っ赤にしながら、	Nagata-kun's face turned bright red,
-196145	+	あなたに体当たり、体当たり。	and he body-slammed into you again and again.
+196144	-		長田君は顔を真っ赤にしながら、	Nagata-kun's face turned bright red,
+196145	+		あなたに体当たり、体当たり。	and he body-slammed into you again and again.
 
-196146	Nagata-kun	「そこまで言うこたーねぇじゃねぇか！	「You don't have to go that far!
-196147	+	　このすっとこどっこい！」	　You idiot!」
+196146	Nagata-kun		「そこまで言うこたーねぇじゃねぇか！	「You don't have to go that far!
+196147	+		　このすっとこどっこい！」	　You idiot!」
 
-196148	Nagata-kun	「この、このこのこの！」	「You, you, you, you!」
+196148	Nagata-kun		「この、このこのこの！」	「You, you, you, you!」
 
-196149	Nagata-kun	「へ、へへっ……」	「He, hehe...」
+196149	Nagata-kun		「へ、へへっ……」	「He, hehe...」
 
-196150	Nagata-kun	「＜エール＞……ごめんな……」	「＜エール＞... I'm sorry...」
+196150	Nagata-kun		「＜エール＞……ごめんな……」	「＜エール＞... I'm sorry...」
 
-196151	-	長田君がボソリと何か呟いた。	Nagata-kun muttered something under his breath.
+196151	-		長田君がボソリと何か呟いた。	Nagata-kun muttered something under his breath.
 
-196152	Nagata-kun	「さあ、早くここのボスに会いに行こうぜ！」	「Come on, let's go meet the boss here!」
+196152	Nagata-kun		「さあ、早くここのボスに会いに行こうぜ！」	「Come on, let's go meet the boss here!」
 
-196153	Nagata-kun	「あいてっ……」	「Ouch...」
+196153	Nagata-kun		「あいてっ……」	「Ouch...」
 
-196154	Nagata-kun	「＜エール＞……？」	「＜エール＞...?」
+196154	Nagata-kun		「＜エール＞……？」	「＜エール＞...?」
 
-196155	Nagata-kun	「…………」	「............」
+196155	Nagata-kun		「…………」	「............」
 
-196156	Nagata-kun	「へっ……」	「Heh...」
+196156	Nagata-kun		「へっ……」	「Heh...」
 
-196157	Nagata-kun	「＜エール＞……ごめんな……」	「＜エール＞... I'm sorry...」
+196157	Nagata-kun		「＜エール＞……ごめんな……」	「＜エール＞... I'm sorry...」
 
-196158	-	長田君がボソリと何か呟いた。	Nagata-kun muttered something under his breath.
+196158	-		長田君がボソリと何か呟いた。	Nagata-kun muttered something under his breath.
 
-196159	Nagata-kun	「へへっ、じゃあとっとと	「Hehe, then let's hurry
-196160	+	　このアジトでやること済ませちまおうぜ！」	　and finish what we need to do in this hideout!」
+196159	Nagata-kun		「へへっ、じゃあとっとと	「Hehe, then let's hurry
+196160	+		　このアジトでやること済ませちまおうぜ！」	　and finish what we need to do in this hideout!」
 
-196161	Rocky Bank	「うるうる……	「Sniffle...
-196162	+	　感動的だすなぁ……」	　So touching...」
+196161	Rocky Bank	男泣き	「うるうる……	「Sniffle...
+196162	+		　感動的だすなぁ……」	　So touching...」
 
-196163	-	ロッキーは勝手に感動して泣いていた。	Rocky was crying from being moved on his own.
+196163	-		ロッキーは勝手に感動して泣いていた。	Rocky was crying from being moved on his own.
 
-196164	-	あなたは友達と初めての仲直りをした。	You had your first reconciliation with a friend.
+196164	-		あなたは友達と初めての仲直りをした。	You had your first reconciliation with a friend.
 
-196165	Nagata-kun	「よーし、目指すはランスJr.のいる部屋だ！」	「Alright, our target is the room where Rance Jr. is!」
+196165	Nagata-kun	基本	「よーし、目指すはランスJr.のいる部屋だ！」	「Alright, our target is the room where Rance Jr. is!」
 
-196166	Nagata-kun	「＜エール＞の兄貴の顔を見に行こうぜ！」	「Let's go see ＜エール＞'s big brother's face!」
+196166	Nagata-kun		「＜エール＞の兄貴の顔を見に行こうぜ！」	「Let's go see ＜エール＞'s big brother's face!」

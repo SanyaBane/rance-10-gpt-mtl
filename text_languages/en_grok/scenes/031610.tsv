@@ -2,206 +2,206 @@
 * Sel Catchgolf	セル	Female
 * Rance	ランス	Male
 
-91103	Sel Catchgolf	「こんにちは〜……」	「Hello~......」
+91103	Sel Catchgolf	基本	「こんにちは〜……」	「Hello~......」
 
-91104	Rance	「おや、セルさんどうした？」	「Oh, Sel-san, what's up?」
+91104	Rance		「おや、セルさんどうした？」	「Oh, Sel-san, what's up?」
 
-91105	Sel Catchgolf	「今日はランスさんにお話があって来ました」	「I came today because I wanted to talk to you, Rance-san.」
+91105	Sel Catchgolf		「今日はランスさんにお話があって来ました」	「I came today because I wanted to talk to you, Rance-san.」
 
-91106	Sel Catchgolf	「まずは総統閣下就任、おめでとうございます」	「First, congratulations on becoming Supreme Leader.」
+91106	Sel Catchgolf		「まずは総統閣下就任、おめでとうございます」	「First, congratulations on becoming Supreme Leader.」
 
-91107	Rance	「おう、そんなことか。	「Oh, that? 
-91108	+	　うむうむ」	　Yeah yeah.」
+91107	Rance		「おう、そんなことか。	「Oh, that? 
+91108	+		　うむうむ」	　Yeah yeah.」
 
-91109	Sel Catchgolf	「あの……あのランスさんが、	「Um... that Rance-san,
-91110	+	　世界中から認められるなんて……	　being recognized by the whole world......
-91111	+	　他人事ながら本当に感動しました」	　Even as an outsider, I was truly moved.」
+91109	Sel Catchgolf		「あの……あのランスさんが、	「Um... that Rance-san,
+91110	+		　世界中から認められるなんて……	　being recognized by the whole world......
+91111	+		　他人事ながら本当に感動しました」	　Even as an outsider, I was truly moved.」
 
-91112	Rance	「あの……ってのが気になるが、	「The 'that' part bothers me, but
-91113	+	　ここは素直に受け取っておこう」	　I'll just accept it graciously.」
+91112	Rance	だる顔	「あの……ってのが気になるが、	「The 'that' part bothers me, but
+91113	+		　ここは素直に受け取っておこう」	　I'll just accept it graciously.」
 
-91114	Rance	「がははは、俺様はすごいだろう」	「Gahahaha, I'm pretty amazing, right?」
+91114	Rance	笑顔	「がははは、俺様はすごいだろう」	「Gahahaha, I'm pretty amazing, right?」
 
-91115	Sel Catchgolf	「ですが……」	「However......」
+91115	Sel Catchgolf	基本	「ですが……」	「However......」
 
-91116	Sel Catchgolf	「その分、ランスさんに課せられた責任も	「That means the responsibility placed on you, Rance-san,
-91117	+	　とても重いものになります……」	　is also very heavy......」
+91116	Sel Catchgolf		「その分、ランスさんに課せられた責任も	「That means the responsibility placed on you, Rance-san,
+91117	+		　とても重いものになります……」	　is also very heavy......」
 
-91118	Sel Catchgolf	「どうか、その重責に負けず頑張って下さい」	「Please do your best without being crushed by that heavy burden.」
+91118	Sel Catchgolf		「どうか、その重責に負けず頑張って下さい」	「Please do your best without being crushed by that heavy burden.」
 
-91119	Rance	「うむうむ、任せたまえ」	「Yeah yeah, leave it to me.」
+91119	Rance		「うむうむ、任せたまえ」	「Yeah yeah, leave it to me.」
 
-91120	Sel Catchgolf	「はい」	「Yes.」
+91120	Sel Catchgolf		「はい」	「Yes.」
 
-91121	Sel Catchgolf	「では本題です。	「Now, the main topic.
-91122	+	　まずはこれを見て下さい」	　First, please look at this.」
+91121	Sel Catchgolf		「では本題です。	「Now, the main topic.
+91122	+		　まずはこれを見て下さい」	　First, please look at this.」
 
-91123	Rance	「なにこれ？　プリント？」	「What's this? A handout?」
+91123	Rance		「なにこれ？　プリント？」	「What's this? A handout?」
 
-91124	Sel Catchgolf	「はい、ランスさんが	「Yes, I summarized
-91125	+	　真人間になる為に必要なことを	　the things you need to become a decent human being
-91126	+	　簡単にまとめてみました」	　in a simple list.」
+91124	Sel Catchgolf		「はい、ランスさんが	「Yes, I summarized
+91125	+		　真人間になる為に必要なことを	　the things you need to become a decent human being
+91126	+		　簡単にまとめてみました」	　in a simple list.」
 
-91127	Rance	「お、おお……」	「O-oh......」
+91127	Rance	だる顔	「お、おお……」	「O-oh......」
 
-91128	Rance	「い、いや、そういうのはいい。	「N-no, I'm good on that.
-91129	+	　俺には必要ない」	　I don't need it.」
+91128	Rance		「い、いや、そういうのはいい。	「N-no, I'm good on that.
+91129	+		　俺には必要ない」	　I don't need it.」
 
-91130	Sel Catchgolf	「いけません！」	「That's not acceptable!」
+91130	Sel Catchgolf	説教	「いけません！」	「That's not acceptable!」
 
-91131	Rance	「うおっ……」	「Whoa......」
+91131	Rance	基本	「うおっ……」	「Whoa......」
 
-91132	Sel Catchgolf	「こちらでどのような生活をされてるか、	「I asked various people about your lifestyle here,
-91133	+	　私色々な方に伺いましたが……」	　and......」
+91132	Sel Catchgolf	説教	「こちらでどのような生活をされてるか、	「I asked various people about your lifestyle here,
+91133	+		　私色々な方に伺いましたが……」	　and......」
 
-91134	Sel Catchgolf	「もう……っ」	「Honestly......」
+91134	Sel Catchgolf		「もう……っ」	「Honestly......」
 
-91135	Sel Catchgolf	「本当に何も変わっていないんですから！」	「Nothing has changed at all!」
+91135	Sel Catchgolf		「本当に何も変わっていないんですから！」	「Nothing has changed at all!」
 
-91136	Rance	「伺ったって、誰に？」	「Who did you ask?」
+91136	Rance	基本	「伺ったって、誰に？」	「Who did you ask?」
 
-91137	Sel Catchgolf	「志津香さんに、クリームさんに、マジック様……」	「Shizuka-san, Cream-san, Lady Magic......」
+91137	Sel Catchgolf		「志津香さんに、クリームさんに、マジック様……」	「Shizuka-san, Cream-san, Lady Magic......」
 
-91138	Rance	「……セルさんはわざと俺を	「...Sel-san, did you deliberately ask
-91139	+	　悪く言いそうな子に聞いとらんか？」	　people who would speak badly of me?」
+91138	Rance	だる顔	「……セルさんはわざと俺を	「...Sel-san, did you deliberately ask
+91139	+		　悪く言いそうな子に聞いとらんか？」	　people who would speak badly of me?」
 
-91140	Rance	「それならナギやアールコートちゃんや	「If so, you should also ask Nagi, Arlcoate-chan,
-91141	+	　シーラやリアにも聞かなきゃ不公平だ」	　Sheila, and Lia to be fair.」
+91140	Rance		「それならナギやアールコートちゃんや	「If so, you should also ask Nagi, Arlcoate-chan,
+91141	+		　シーラやリアにも聞かなきゃ不公平だ」	　Sheila, and Lia to be fair.」
 
-91142	Sel Catchgolf	「もちろん、話をそのまま鵜呑みになんてしません。	「Of course I don't take everything at face value.
-91143	+	　しませんが……」	　But even so......」
+91142	Sel Catchgolf	基本	「もちろん、話をそのまま鵜呑みになんてしません。	「Of course I don't take everything at face value.
+91143	+		　しませんが……」	　But even so......」
 
-91144	Sel Catchgolf	「それを差し引いても……	「Even after accounting for that......
-91145	+	　あまり人々の模範的な生活をしているとは	　you don't seem to be living as a model for others,
-91146	+	　言えないようですが？」	　do you?」
+91144	Sel Catchgolf		「それを差し引いても……	「Even after accounting for that......
+91145	+		　あまり人々の模範的な生活をしているとは	　you don't seem to be living as a model for others,
+91146	+		　言えないようですが？」	　do you?」
 
-91147	Rance	「うっ……まあ、それはそうかも……」	「Ugh... well, maybe that's true......」
+91147	Rance		「うっ……まあ、それはそうかも……」	「Ugh... well, maybe that's true......」
 
-91148	Sel Catchgolf	「ランスさんを真人間に戻すのは私の使命です。	「Turning you back into a decent human is my mission.
-91149	+	　それが終わるまでは離れませんからね」	　I won't leave your side until it's done.」
+91148	Sel Catchgolf		「ランスさんを真人間に戻すのは私の使命です。	「Turning you back into a decent human is my mission.
+91149	+		　それが終わるまでは離れませんからね」	　I won't leave your side until it's done.」
 
-91150	Sel Catchgolf	「さあ、先ほど渡した	「Now, please read the handout
-91151	+	　プリントを読んでみて下さい」	　I gave you earlier.」
+91150	Sel Catchgolf		「さあ、先ほど渡した	「Now, please read the handout
+91151	+		　プリントを読んでみて下さい」	　I gave you earlier.」
 
-91152	Rance	「うー、仕方ないな……	「Ugh, guess I have no choice......
-91153	+	　なになに？」	　Let's see, what's this?」
+91152	Rance	真剣	「うー、仕方ないな……	「Ugh, guess I have no choice......
+91153	+		　なになに？」	　Let's see, what's this?」
 
-91154	Rance	「人に思いやりを持って過ごしましょう。	「Live with compassion for others.
-91155	+	　困っている人は助けましょう。	　Help those in need.
-91156	+	　欲望に流されず自制しましょう」	　Control your desires and practice self-restraint.」
+91154	Rance		「人に思いやりを持って過ごしましょう。	「Live with compassion for others.
+91155	+		　困っている人は助けましょう。	　Help those in need.
+91156	+		　欲望に流されず自制しましょう」	　Control your desires and practice self-restraint.」
 
-91157	Rance	「お祈りの項。	「Prayer section.
-91158	+	　お祈りを難しいものだとは思っていませんか？	　Do you think prayer is difficult?
-91159	+	　でも本当はそんなことはありません」	　But it's really not.」
+91157	Rance		「お祈りの項。	「Prayer section.
+91158	+		　お祈りを難しいものだとは思っていませんか？	　Do you think prayer is difficult?
+91159	+		　でも本当はそんなことはありません」	　But it's really not.」
 
-91160	Rance	「一日一回ずつ、	「Once a day,
-91161	+	　少しずつ慣れていきましょう」	　let's get used to it little by little.」
+91160	Rance		「一日一回ずつ、	「Once a day,
+91161	+		　少しずつ慣れていきましょう」	　let's get used to it little by little.」
 
-91162	Rance	「いい、読むの疲れた」	「Alright, I'm tired of reading.」
+91162	Rance	だる顔	「いい、読むの疲れた」	「Alright, I'm tired of reading.」
 
-91163	Sel Catchgolf	「ああっ！」	「Aah!」
+91163	Sel Catchgolf	驚き	「ああっ！」	「Aah!」
 
-91164	Sel Catchgolf	「う……どうしても分かって頂けませんか……」	「Ugh... you really don't understand......」
+91164	Sel Catchgolf	基本	「う……どうしても分かって頂けませんか……」	「Ugh... you really don't understand......」
 
-91165	Sel Catchgolf	「…………」	「............」
+91165	Sel Catchgolf		「…………」	「............」
 
-91166	Rance	「ん？」	「Hm?」
+91166	Rance		「ん？」	「Hm?」
 
-91167	-	セルは真剣な顔つきで座りだした。	Sel sat down with a serious expression.
-91168	+	その目は真っ直ぐランスを見つめている。	Her eyes stared straight at Rance.
+91167	-		セルは真剣な顔つきで座りだした。	Sel sat down with a serious expression.
+91168	+		その目は真っ直ぐランスを見つめている。	Her eyes stared straight at Rance.
 
-91169	Sel Catchgolf	「ランスさん」	「Rance-san.」
+91169	Sel Catchgolf		「ランスさん」	「Rance-san.」
 
-91170	Rance	「な、なんだ、真面目な顔して……」	「W-what, with that serious face......」
+91170	Rance		「な、なんだ、真面目な顔して……」	「W-what, with that serious face......」
 
-91171	Sel Catchgolf	「私はランスさんは本当は悪い子ではなく、	「I know you're not truly a bad person, Rance-san,
-91172	+	　優しいところもあるのは知っています……」	　and that you have a kind side......」
+91171	Sel Catchgolf		「私はランスさんは本当は悪い子ではなく、	「I know you're not truly a bad person, Rance-san,
+91172	+		　優しいところもあるのは知っています……」	　and that you have a kind side......」
 
-91173	Sel Catchgolf	「ですが、このままでは	「But if you continue like this,
-91174	+	　地獄に落ちるでしょう……」	　you will fall into hell......」
+91173	Sel Catchgolf		「ですが、このままでは	「But if you continue like this,
+91174	+		　地獄に落ちるでしょう……」	　you will fall into hell......」
 
-91175	Sel Catchgolf	「そんなこと……」	「I cannot......」
+91175	Sel Catchgolf		「そんなこと……」	「I cannot......」
 
-91176	Sel Catchgolf	「見過ごせません……」	　overlook that......」
+91176	Sel Catchgolf		「見過ごせません……」	　overlook that......」
 
-91177	Sel Catchgolf	「生き方を変えるのは、	「Changing your way of life
-91178	+	　とても辛く険しい道になるのは分かっています」	　will be a very painful and difficult path, I know.」
+91177	Sel Catchgolf		「生き方を変えるのは、	「Changing your way of life
+91178	+		　とても辛く険しい道になるのは分かっています」	　will be a very painful and difficult path, I know.」
 
-91179	Sel Catchgolf	「でも……」	「But......」
+91179	Sel Catchgolf		「でも……」	「But......」
 
-91180	-	セルはランスの手をそっと引き寄せ、	Sel gently pulled Rance's hand closer,
-91181	+	両手で包み込んだ。	and wrapped it in both of hers.
+91180	-		セルはランスの手をそっと引き寄せ、	Sel gently pulled Rance's hand closer,
+91181	+		両手で包み込んだ。	and wrapped it in both of hers.
 
-91182	Sel Catchgolf	「私も手伝います……」	「I will help you too......」
+91182	Sel Catchgolf		「私も手伝います……」	「I will help you too......」
 
-91183	Sel Catchgolf	「ランスさんが真人間になる為なら、	「If it's to make you a decent human being,
-91184	+	　私、どんなことでもするつもりです」	　I am willing to do anything.」
+91183	Sel Catchgolf		「ランスさんが真人間になる為なら、	「If it's to make you a decent human being,
+91184	+		　私、どんなことでもするつもりです」	　I am willing to do anything.」
 
-91185	Sel Catchgolf	「少しずつ……少しずつでいいんです……	「Little by little... it's fine if it's slow......
-91186	+	　私と一緒に頑張ってみませんか？」	　Won't you try working hard together with me?」
+91185	Sel Catchgolf		「少しずつ……少しずつでいいんです……	「Little by little... it's fine if it's slow......
+91186	+		　私と一緒に頑張ってみませんか？」	　Won't you try working hard together with me?」
 
-91187	Sel Catchgolf	「ね？」	「Okay?」
+91187	Sel Catchgolf		「ね？」	「Okay?」
 
-91188	Rance	「う、うむ……」	「Y-yeah......」
+91188	Rance		「う、うむ……」	「Y-yeah......」
 
-91189	Sel Catchgolf	「…………」	「............」
+91189	Sel Catchgolf		「…………」	「............」
 
-91190	Rance~	（うーむ、こういう空気は苦手だ……）	（Ugh, I'm bad with this kind of atmosphere......）
+91190	Rance~	だる顔	（うーむ、こういう空気は苦手だ……）	（Ugh, I'm bad with this kind of atmosphere......）
 
-91191	Rance~	（この場にクルックーがいたら、	（If Crook were here,
-91192	+	　俺の味方になってくれた気もするが……	　she might take my side......
-91193	+	　それは期待できそうにないか……）	　but that's probably not happening......）
+91191	Rance~	真剣	（この場にクルックーがいたら、	（If Crook were here,
+91192	+		　俺の味方になってくれた気もするが……	　she might take my side......
+91193	+		　それは期待できそうにないか……）	　but that's probably not happening......）
 
-91194	Rance	「そだ、ご褒美くれよ」	「Oh yeah, give me a reward.」
+91194	Rance	基本	「そだ、ご褒美くれよ」	「Oh yeah, give me a reward.」
 
-91195	Sel Catchgolf	「ご、ご褒美、ですか？」	「A reward?」
+91195	Sel Catchgolf		「ご、ご褒美、ですか？」	「A reward?」
 
-91196	Rance	「ただ褒美もなしに良い子になるなんて面倒だが、	「Becoming a good boy without a reward is too much trouble,
-91197	+	　俺はそういうのがあると張り切るタイプだぞ」	　but I get motivated when there's one.」
+91196	Rance		「ただ褒美もなしに良い子になるなんて面倒だが、	「Becoming a good boy without a reward is too much trouble,
+91197	+		　俺はそういうのがあると張り切るタイプだぞ」	　but I get motivated when there's one.」
 
-91198	Sel Catchgolf	「ランスさん……」	「Rance-san......」
+91198	Sel Catchgolf		「ランスさん……」	「Rance-san......」
 
-91199	Sel Catchgolf	「いいですか、こういうのは褒美があるから	「Listen, this isn't something you do
-91200	+	　頑張るというものではなくてですね……」	　because of a reward......」
+91199	Sel Catchgolf	説教	「いいですか、こういうのは褒美があるから	「Listen, this isn't something you do
+91200	+		　頑張るというものではなくてですね……」	　because of a reward......」
 
-91201	Sel Catchgolf	「自分が心からそう変わりたいと願い、努力し、	「You must truly wish to change from the heart, make the effort,
-91202	+	　その思いで頑張るものなのです。	　and work hard with that feeling.
-91203	+	　それを褒美目当てに頑張るのでは本末転倒」	　Doing it just for a reward defeats the purpose.」
+91201	Sel Catchgolf		「自分が心からそう変わりたいと願い、努力し、	「You must truly wish to change from the heart, make the effort,
+91202	+		　その思いで頑張るものなのです。	　and work hard with that feeling.
+91203	+		　それを褒美目当てに頑張るのでは本末転倒」	　Doing it just for a reward defeats the purpose.」
 
-91204	Rance	「うげ、言わなきゃ良かった……」	「Ugh, I shouldn't have said that......」
+91204	Rance	基本	「うげ、言わなきゃ良かった……」	「Ugh, I shouldn't have said that......」
 
-91205	Sel Catchgolf	「……と、言うのは簡単ですが」	「...That's easy to say, but」
+91205	Sel Catchgolf		「……と、言うのは簡単ですが」	「...That's easy to say, but」
 
-91206	Rance	「お……？」	「Oh...?」
+91206	Rance		「お……？」	「Oh...?」
 
-91207	Sel Catchgolf~	（どう、なの、かしら……）	（What should I do...）
+91207	Sel Catchgolf~		（どう、なの、かしら……）	（What should I do...）
 
-91208	Sel Catchgolf~	（せっかくランスさんがやる気になってるのだから、	（Since Rance-san is finally motivated,
-91209	+	　やる気を削ぐようなことを言うのは……）	　it would be wrong to discourage him......）
+91208	Sel Catchgolf~		（せっかくランスさんがやる気になってるのだから、	（Since Rance-san is finally motivated,
+91209	+		　やる気を削ぐようなことを言うのは……）	　it would be wrong to discourage him......）
 
-91210	Sel Catchgolf	「…………」	「............」
+91210	Sel Catchgolf		「…………」	「............」
 
-91211	Rance	「せ、セルさん？」	「C-Sel-san?」
+91211	Rance		「せ、セルさん？」	「C-Sel-san?」
 
-91212	Sel Catchgolf	「もう、仕方ないですね……」	「Honestly, it can't be helped......」
+91212	Sel Catchgolf	説教	「もう、仕方ないですね……」	「Honestly, it can't be helped......」
 
-91213	Sel Catchgolf	「分かりました」	「I understand.」
+91213	Sel Catchgolf	基本	「分かりました」	「I understand.」
 
-91214	Rance	「お？」	「Oh?」
+91214	Rance		「お？」	「Oh?」
 
-91215	Sel Catchgolf	「私に出来る範囲で、何かご用意します」	「I'll prepare something within my ability.」
+91215	Sel Catchgolf		「私に出来る範囲で、何かご用意します」	「I'll prepare something within my ability.」
 
-91216	Rance	「おお、マジか！」	「Oh, for real!」
+91216	Rance		「おお、マジか！」	「Oh, for real!」
 
-91217	Sel Catchgolf	「もう、現金なんですから」	「You're so straightforward.」
+91217	Sel Catchgolf		「もう、現金なんですから」	「You're so straightforward.」
 
-91218	Sel Catchgolf	「それで、どのようなものがいいですか？」	「So, what would you like?」
+91218	Sel Catchgolf		「それで、どのようなものがいいですか？」	「So, what would you like?」
 
-91219	Sel Catchgolf	「あ、ただし、分かってると思いますが、	「Ah, but as you know,
-91220	+	　淫らなことは駄目ですからね？」	　lewd things are not allowed, okay?」
+91219	Sel Catchgolf		「あ、ただし、分かってると思いますが、	「Ah, but as you know,
+91220	+		　淫らなことは駄目ですからね？」	　lewd things are not allowed, okay?」
 
-91221	Rance	「…………」	「............」
+91221	Rance	真剣	「…………」	「............」
 
-91222	Rance	「じゃ、いいや……」	「Then never mind......」
+91222	Rance	だる顔	「じゃ、いいや……」	「Then never mind......」
 
-91223	Sel Catchgolf	「何を言うつもりだったんですか！」	「What were you about to say!」
+91223	Sel Catchgolf	説教	「何を言うつもりだったんですか！」	「What were you about to say!」

@@ -5,216 +5,216 @@
 * Uesugi Torako	虎子	Female
 * Uesugi Katsuko	勝子	Female
 
-124002	Rance	「よう、見舞いに来たぞー」	「Yo, I came to visit you.」
+124002	Rance	基本	「よう、見舞いに来たぞー」	「Yo, I came to visit you.」
 
-124003	Naoe Ai	「あ、来たんですか？」	「Ah, you came?」
+124003	Naoe Ai		「あ、来たんですか？」	「Ah, you came?」
 
-124004	Rance	「なんだ、その言い方は。	「What's with that reaction.
-124005	+	　愛ちゃんが心配になって来たのに」	　I got worried about Ai-chan and came over.」
+124004	Rance	だる顔	「なんだ、その言い方は。	「What's with that reaction.
+124005	+		　愛ちゃんが心配になって来たのに」	　I got worried about Ai-chan and came over.」
 
-124006	Naoe Ai	「これは失礼を。	「That was rude of me.
-124007	+	　いえ、ありがとうございます」	　No, thank you.」
+124006	Naoe Ai	基本	「これは失礼を。	「That was rude of me.
+124007	+		　いえ、ありがとうございます」	　No, thank you.」
 
-124008	Rance	「……しかし、意外と元気そうだな。	「...But you look surprisingly energetic.
-124009	+	　過労でブッ倒れたと聞いたぞ」	　I heard you collapsed from overwork.」
+124008	Rance		「……しかし、意外と元気そうだな。	「...But you look surprisingly energetic.
+124009	+		　過労でブッ倒れたと聞いたぞ」	　I heard you collapsed from overwork.」
 
-124010	Naoe Ai	「大袈裟なんですよ」	「It's exaggerated.」
+124010	Naoe Ai	心配	「大袈裟なんですよ」	「It's exaggerated.」
 
-124011	Naoe Ai	「過労で医者に診てもらったのは本当ですが、	「It's true I saw a doctor for overwork, but
-124012	+	　別に倒れてません。	　I didn't actually collapse.
-124013	+	　立ちくらみがしただけです」	　I just felt a bit dizzy.」
+124011	Naoe Ai	怒り	「過労で医者に診てもらったのは本当ですが、	「It's true I saw a doctor for overwork, but
+124012	+		　別に倒れてません。	　I didn't actually collapse.
+124013	+		　立ちくらみがしただけです」	　I just felt a bit dizzy.」
 
-124014	Rance	「ふーん」	「Hmm.」
+124014	Rance	基本	「ふーん」	「Hmm.」
 
-124015	Rance	「しかし、それで謙信達が張り切っているのか」	「But because of that, Kenshin and the others are really fired up.」
+124015	Rance		「しかし、それで謙信達が張り切っているのか」	「But because of that, Kenshin and the others are really fired up.」
 
-124016	Uesugi Kenshin	「どうぞ、ランス殿。	「Here you go, Lord Rance.
-124017	+	　粗茶ですが」	　It's just some plain tea.」
+124016	Uesugi Kenshin		「どうぞ、ランス殿。	「Here you go, Lord Rance.
+124017	+		　粗茶ですが」	　It's just some plain tea.」
 
-124018	-	謙信がランスの前に緑茶をそっと置く。	Kenshin gently placed green tea in front of Rance.
+124018	-		謙信がランスの前に緑茶をそっと置く。	Kenshin gently placed green tea in front of Rance.
 
-124019	Naoe Ai	「ああ、お茶くらい私が――」	「Ah, I can at least handle the tea一一」
+124019	Naoe Ai		「ああ、お茶くらい私が――」	「Ah, I can at least handle the tea一一」
 
-124020	Uesugi Kenshin	「愛は今日、働いては駄目だ」	「Ai, you are not allowed to work today.」
+124020	Uesugi Kenshin		「愛は今日、働いては駄目だ」	「Ai, you are not allowed to work today.」
 
-124021	-	ピシャリと謙信からストップが入る。	Kenshin sharply stopped her.
-124022	+	その言い方は至って普段通りだが、	Her tone was completely normal,
-124023	+	有無を言わさぬ迫力があった。	but it carried undeniable force.
+124021	-		ピシャリと謙信からストップが入る。	Kenshin sharply stopped her.
+124022	+		その言い方は至って普段通りだが、	Her tone was completely normal,
+124023	+		有無を言わさぬ迫力があった。	but it carried undeniable force.
 
-124024	Uesugi Kenshin	「愛をそんな風にしてしまったのは、	「The one who made Ai like this
-124025	+	　ひとえに私に責がある」	　is entirely my fault.」
+124024	Uesugi Kenshin		「愛をそんな風にしてしまったのは、	「The one who made Ai like this
+124025	+		　ひとえに私に責がある」	　is entirely my fault.」
 
-124026	Uesugi Kenshin	「だから……」	「So......」
+124026	Uesugi Kenshin		「だから……」	「So......」
 
-124027	Uesugi Kenshin	「せめて今日一日だけはしっかりと	「At least for today,
-124028	+	　体を休めてくれ」	　rest your body properly.」
+124027	Uesugi Kenshin		「せめて今日一日だけはしっかりと	「At least for today,
+124028	+		　体を休めてくれ」	　rest your body properly.」
 
-124029	Uesugi Kenshin	「では、ランス殿はゆっくりしていってくれ。	「Well then, Lord Rance, please take your time.
-124030	+	　私は家事があるのでこれで」	　I have housework to do, so excuse me.」
+124029	Uesugi Kenshin		「では、ランス殿はゆっくりしていってくれ。	「Well then, Lord Rance, please take your time.
+124030	+		　私は家事があるのでこれで」	　I have housework to do, so excuse me.」
 
-124031	Naoe Ai	「はあ……」	「Haa......」
+124031	Naoe Ai	心配	「はあ……」	「Haa......」
 
-124032	Naoe Ai	「こうなるって分かってたから、	「I knew this would happen,
-124033	+	　絶対に休むわけにいかなかったのに」	　that's why I couldn't afford to rest.」
+124032	Naoe Ai		「こうなるって分かってたから、	「I knew this would happen,
+124033	+		　絶対に休むわけにいかなかったのに」	　that's why I couldn't afford to rest.」
 
-124034	Rance	「健康の管理も仕事の内。	「Managing your health is part of the job.
-124035	+	　それをミスった愛ちゃんの責任だ。	　It's Ai-chan's fault for messing that up.
-124036	+	　観念することだな」	　Just accept it.」
+124034	Rance	基本	「健康の管理も仕事の内。	「Managing your health is part of the job.
+124035	+		　それをミスった愛ちゃんの責任だ。	　It's Ai-chan's fault for messing that up.
+124036	+		　観念することだな」	　Just accept it.」
 
-124037	Naoe Ai	「あなたに言われるのは非常に遺憾ですが、	「It's very regrettable to hear that from you, but
-124038	+	　ええ……その通りですね……」	　yes... you're right...」
+124037	Naoe Ai	怒り	「あなたに言われるのは非常に遺憾ですが、	「It's very regrettable to hear that from you, but
+124038	+		　ええ……その通りですね……」	　yes... you're right...」
 
-124039	Rance	「しかし、アレは大丈夫なのか？」	「But is that thing okay?」
+124039	Rance	基本	「しかし、アレは大丈夫なのか？」	「But is that thing okay?」
 
-124040	Naoe Ai	「本当に全くただの一つも家事が出来ない、	「It's not like I can't do any housework at all,
-124041	+	　ってわけではないので……」	　so...」
+124040	Naoe Ai		「本当に全くただの一つも家事が出来ない、	「It's not like I can't do any housework at all,
+124041	+		　ってわけではないので……」	　so...」
 
-124042	Naoe Ai	「まあ、多分、大丈夫かと……」	「Well, probably fine...」
+124042	Naoe Ai	心配	「まあ、多分、大丈夫かと……」	「Well, probably fine...」
 
-124043	Rance	「不安そうな言い方だな」	「You sound uneasy.」
+124043	Rance	基本	「不安そうな言い方だな」	「You sound uneasy.」
 
-124044	Naoe Ai	「正直、私のことを思うなら、	「Honestly, if you're thinking about me,
-124045	+	　何もせず大人しくしていて欲しいです。	　I want you to stay quiet and do nothing.
-124046	+	　気になって休むどころじゃなくなるので」	　Otherwise I won't be able to rest at all.」
+124044	Naoe Ai		「正直、私のことを思うなら、	「Honestly, if you're thinking about me,
+124045	+		　何もせず大人しくしていて欲しいです。	　I want you to stay quiet and do nothing.
+124046	+		　気になって休むどころじゃなくなるので」	　Otherwise I won't be able to rest at all.」
 
-124047	Rance	「辛辣だな……」	「That's harsh...」
+124047	Rance		「辛辣だな……」	「That's harsh...」
 
-124048	Naoe Ai	「もちろん感謝はしてますよ」	「Of course I'm grateful.」
+124048	Naoe Ai		「もちろん感謝はしてますよ」	「Of course I'm grateful.」
 
-124049	Uesugi Kenshin	「勝子、虎子、味を見てくれないか」	「Katsuko, Torako, can you taste this?」
+124049	Uesugi Kenshin		「勝子、虎子、味を見てくれないか」	「Katsuko, Torako, can you taste this?」
 
-124050	Uesugi Torako	「うん！　おいしー！	「Yeah! Delicious!
-124051	+	　さすが謙信様です！」	　As expected of Lady Kenshin!」
+124050	Uesugi Torako		「うん！　おいしー！	「Yeah! Delicious!
+124051	+		　さすが謙信様です！」	　As expected of Lady Kenshin!」
 
-124052	Uesugi Katsuko	「あ、あのぉ……	「U-um...
-124053	+	　ですが、この量はさすがに、その……」	　But this amount is a bit much...」
+124052	Uesugi Katsuko		「あ、あのぉ……	「U-um...
+124053	+		　ですが、この量はさすがに、その……」	　But this amount is a bit much...」
 
-124054	Uesugi Kenshin	「むっ……」	「Mu......」
+124054	Uesugi Kenshin		「むっ……」	「Mu......」
 
-124055	Uesugi Kenshin	「またやってしまったか……」	「I did it again...」
+124055	Uesugi Kenshin		「またやってしまったか……」	「I did it again...」
 
-124056	Uesugi Katsuko	「あっ、少し減らせば大丈夫な筈です！」	「Ah, if we reduce it a little it should be fine!」
+124056	Uesugi Katsuko		「あっ、少し減らせば大丈夫な筈です！」	「Ah, if we reduce it a little it should be fine!」
 
-124057	Naoe Ai	「…………」	「............」
+124057	Naoe Ai		「…………」	「............」
 
-124058	Rance	「そわそわしとるぞ」	「You're fidgeting.」
+124058	Rance		「そわそわしとるぞ」	「You're fidgeting.」
 
-124059	Naoe Ai	「……っ」	「...!」
+124059	Naoe Ai	心配	「……っ」	「...!」
 
-124060	Naoe Ai	「はあ……」	「Haa...」
+124060	Naoe Ai		「はあ……」	「Haa...」
 
-124061	Rance	「あんな美少女に世話してもらえるなんて、	「Being taken care of by such a beautiful girl,
-124062	+	　世の男なら泣いて喜ぶぞ」	　any man in the world would cry with joy.」
+124061	Rance	基本	「あんな美少女に世話してもらえるなんて、	「Being taken care of by such a beautiful girl,
+124062	+		　世の男なら泣いて喜ぶぞ」	　any man in the world would cry with joy.」
 
-124063	Naoe Ai	「私は女ですから」	「I'm a woman though.」
+124063	Naoe Ai	心配	「私は女ですから」	「I'm a woman though.」
 
-124064	Rance	「そんなに嫌なのか？」	「Do you hate it that much?」
+124064	Rance	基本	「そんなに嫌なのか？」	「Do you hate it that much?」
 
-124065	Naoe Ai	「…………」	「............」
+124065	Naoe Ai		「…………」	「............」
 
-124066	Naoe Ai	「そうですね……」	「Well...」
+124066	Naoe Ai		「そうですね……」	「Well...」
 
-124067	Naoe Ai	「私の為にしてくれているんです」	「They're doing it for me.」
+124067	Naoe Ai		「私の為にしてくれているんです」	「They're doing it for me.」
 
-124068	Naoe Ai	「嬉しくないわけはありませんね」	「There's no way I'm not happy about it.」
+124068	Naoe Ai	笑顔	「嬉しくないわけはありませんね」	「There's no way I'm not happy about it.」
 
-124069	Rance	「お、素直」	「Oh, honest.」
+124069	Rance	基本	「お、素直」	「Oh, honest.」
 
-124070	Rance	「こんなレアな愛ちゃんも戦争のおかげか。	「Getting to see this rare side of Ai-chan is thanks to the war.
-124071	+	　そう考えるとあながち悪いことばかりでもないな」	　When you think about it, war isn't all bad.」
+124070	Rance		「こんなレアな愛ちゃんも戦争のおかげか。	「Getting to see this rare side of Ai-chan is thanks to the war.
+124071	+		　そう考えるとあながち悪いことばかりでもないな」	　When you think about it, war isn't all bad.」
 
-124072	Naoe Ai	「不謹慎ですよ」	「That's inappropriate.」
+124072	Naoe Ai		「不謹慎ですよ」	「That's inappropriate.」
 
-124073	Uesugi Kenshin	「愛、昼餉-ﾋﾙｹﾞ-が出来た」	「Ai, lunch is ready.」
+124073	Uesugi Kenshin		「愛、昼餉-ﾋﾙｹﾞ-が出来た」	「Ai, lunch is ready.」
 
-124074	Uesugi Kenshin	「お医者様も言っていた。	「The doctor said so too.
-124075	+	　とにかく栄養をつけることだと」	　You need to get plenty of nutrition.」
+124074	Uesugi Kenshin		「お医者様も言っていた。	「The doctor said so too.
+124075	+		　とにかく栄養をつけることだと」	　You need to get plenty of nutrition.」
 
-124076	Uesugi Kenshin	「食べるものを食べなければ、	「If you don't eat properly,
-124077	+	　元気も出ない……筈。	　you won't regain your strength... probably.
-124078	+	　食べてくれ、愛」	　Eat up, Ai.」
+124076	Uesugi Kenshin		「食べるものを食べなければ、	「If you don't eat properly,
+124077	+		　元気も出ない……筈。	　you won't regain your strength... probably.
+124078	+		　食べてくれ、愛」	　Eat up, Ai.」
 
-124079	-	ほかほかと湯気を立てる料理が	Steaming hot dishes
-124080	+	愛の前に並べられる。	were lined up in front of Ai.
+124079	-		ほかほかと湯気を立てる料理が	Steaming hot dishes
+124080	+		愛の前に並べられる。	were lined up in front of Ai.
 
-124081	Naoe Ai	「え、ええ、美味しそうですね。	「Y-yes, it looks delicious.
-124082	+	　では早速……」	　Well then...」
+124081	Naoe Ai	笑顔	「え、ええ、美味しそうですね。	「Y-yes, it looks delicious.
+124082	+		　では早速……」	　Well then...」
 
-124083	Uesugi Kenshin	「あ、待った」	「Ah, wait.」
+124083	Uesugi Kenshin	基本	「あ、待った」	「Ah, wait.」
 
-124084	Uesugi Kenshin	「あーん」	「Say ahh.」
+124084	Uesugi Kenshin		「あーん」	「Say ahh.」
 
-124085	Naoe Ai	「…………」	「............」
+124085	Naoe Ai	心配	「…………」	「............」
 
-124086	Naoe Ai	「あの、これは、どういう……」	「Um, what is this...」
+124086	Naoe Ai		「あの、これは、どういう……」	「Um, what is this...」
 
-124087	Uesugi Kenshin	「お医者様は言っていた。	「The doctor said.
-124088	+	　とにかく体を休めることだと」	　You need to rest your body above all.」
+124087	Uesugi Kenshin	基本	「お医者様は言っていた。	「The doctor said.
+124088	+		　とにかく体を休めることだと」	　You need to rest your body above all.」
 
-124089	Uesugi Kenshin	「愛は病人なんだ。	「Ai is a patient.
-124090	+	　世話は私がする」	　I will take care of her.」
+124089	Uesugi Kenshin		「愛は病人なんだ。	「Ai is a patient.
+124090	+		　世話は私がする」	　I will take care of her.」
 
-124091	Naoe Ai	「それは……」	「That's...
+124091	Naoe Ai	心配	「それは……」	「That's...
 
-124092	Naoe Ai	「その……」	「Um...
+124092	Naoe Ai		「その……」	「Um...
 
-124093	Naoe Ai	「その通りですが……」	「You're right, but...」
+124093	Naoe Ai		「その通りですが……」	「You're right, but...」
 
-124094	Rance	「すごい……	「Amazing...
-124095	+	　こんなに困ってる愛ちゃん初めて見る」	　First time seeing Ai-chan this troubled.」
+124094	Rance	驚き	「すごい……	「Amazing...
+124095	+		　こんなに困ってる愛ちゃん初めて見る」	　First time seeing Ai-chan this troubled.」
 
-124096	Uesugi Torako	「私もぉ……」	「Me too...」
+124096	Uesugi Torako	基本	「私もぉ……」	「Me too...」
 
-124097	Uesugi Katsuko	「わ、私だって……」	「M-me too...」
+124097	Uesugi Katsuko		「わ、私だって……」	「M-me too...」
 
-124098	Rance	「さて、愛ちゃんはこれをどうする？」	「So, what will Ai-chan do?」
+124098	Rance		「さて、愛ちゃんはこれをどうする？」	「So, what will Ai-chan do?」
 
-124099	Naoe Ai	「あ……」	「Ah...」
+124099	Naoe Ai	心配	「あ……」	「Ah...」
 
-124100	Naoe Ai	「あーん」	「Ahh.」
+124100	Naoe Ai	怒り	「あーん」	「Ahh.」
 
-124101	-	ランス達に見守られた中、	Under the watchful eyes of Rance and the others,
-124102	+	意を決して愛は口を開けて食べた。	Ai resolved herself and opened her mouth to eat.
+124101	-		ランス達に見守られた中、	Under the watchful eyes of Rance and the others,
+124102	+		意を決して愛は口を開けて食べた。	Ai resolved herself and opened her mouth to eat.
 
-124103	Rance	「おお、食べた……」	「Ohh, she ate it...」
+124103	Rance	基本	「おお、食べた……」	「Ohh, she ate it...」
 
-124104	Uesugi Kenshin	「味はどうだろう？	「How does it taste?
-124105	+	　愛ほどは上手くできないが……」	　I can't make it as well as Ai...」
+124104	Uesugi Kenshin		「味はどうだろう？	「How does it taste?
+124105	+		　愛ほどは上手くできないが……」	　I can't make it as well as Ai...」
 
-124106	Naoe Ai	「と、とても……美味しい、です」	「I-it's... very delicious.」
+124106	Naoe Ai	心配	「と、とても……美味しい、です」	「I-it's... very delicious.」
 
-124107	Uesugi Kenshin	「そっか……」	「I see...」
+124107	Uesugi Kenshin	基本	「そっか……」	「I see...」
 
-124108	Uesugi Kenshin	「良かった」	「That's good.」
+124108	Uesugi Kenshin		「良かった」	「That's good.」
 
-124109	-	心から安堵の息を漏らして、	Kenshin let out a sigh of genuine relief
-124110	+	謙信はほのかに微笑んだ。	and smiled faintly.
+124109	-		心から安堵の息を漏らして、	Kenshin let out a sigh of genuine relief
+124110	+		謙信はほのかに微笑んだ。	and smiled faintly.
 
-124111	Naoe Ai	「…………」	「............」
+124111	Naoe Ai		「…………」	「............」
 
-124112	Naoe Ai	「はあ……」	「Haa...」
+124112	Naoe Ai	笑顔	「はあ……」	「Haa...」
 
-124113	Naoe Ai	「ところで……」	「By the way...」
+124113	Naoe Ai	怒り	「ところで……」	「By the way...」
 
-124114	Rance	「ん？」	「Hm?」
+124114	Rance	基本	「ん？」	「Hm?」
 
-124115	Naoe Ai	「あなたはいつまでいる気ですか？」	「How long do you plan to stay?」
+124115	Naoe Ai	怒り	「あなたはいつまでいる気ですか？」	「How long do you plan to stay?」
 
-124116	Rance	「面白いから見てく」	「It's fun so I'm staying to watch.」
+124116	Rance	基本	「面白いから見てく」	「It's fun so I'm staying to watch.」
 
-124117	Naoe Ai	「くっ……！」	「Kuh...!」
+124117	Naoe Ai	心配	「くっ……！」	「Kuh...!」
 
-124118	Naoe Ai	「…………」	「............」
+124118	Naoe Ai		「…………」	「............」
 
-124119	Naoe Ai	「いいでしょう、	「Fine then,
-124120	+	　これも全て私の不徳の致すところ……	　this is all due to my own shortcomings...
-124121	+	　甘んじて受けましょう」	　I'll accept it.」
+124119	Naoe Ai		「いいでしょう、	「Fine then,
+124120	+		　これも全て私の不徳の致すところ……	　this is all due to my own shortcomings...
+124121	+		　甘んじて受けましょう」	　I'll accept it.」
 
-124122	Uesugi Kenshin	「さあ、愛。	「Come on, Ai.
-124123	+	　あーん」	　Say ahh.」
+124122	Uesugi Kenshin	基本	「さあ、愛。	「Come on, Ai.
+124123	+		　あーん」	　Say ahh.」
 
-124124	Naoe Ai	「…………」	「............」
+124124	Naoe Ai	心配	「…………」	「............」
 
-124125	Naoe Ai	「あーん……」	「Ahh...」
+124125	Naoe Ai		「あーん……」	「Ahh...」
 
-124126	-	愛は一日、謙信達のお世話を受けた。	Ai received care from Kenshin and the others for the whole day.
+124126	-		愛は一日、謙信達のお世話を受けた。	Ai received care from Kenshin and the others for the whole day.

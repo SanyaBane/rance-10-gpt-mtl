@@ -4,134 +4,134 @@
 * Sill Plain	シィル	Female
 * Feliss	フェリス	Female
 
-46837	Rance	「ええい、けっこう来たはずだが……	「Damn, we should have come far enough...
-46838	+	　おいちびっ子。まだ先は長いのか」	　Hey shorty. Is it still far?」
+46837	Rance	イライラ	「ええい、けっこう来たはずだが……	「Damn, we should have come far enough...
+46838	+		　おいちびっ子。まだ先は長いのか」	　Hey shorty. Is it still far?」
 
-46839	Lucy Julietta	「……そろそろ着く。準備しておくがよい」	「...We're almost there. Prepare yourselves.」
+46839	Lucy Julietta	基本	「……そろそろ着く。準備しておくがよい」	「...We're almost there. Prepare yourselves.」
 
-46840	Rance	「準備？」	「Prepare?」
+46840	Rance	真剣	「準備？」	「Prepare?」
 
-46841	Sill Plain	「あ……ランス様。	「Ah... Rance-sama.
-46842	+	　マジックさんの契約って、	　How do we break Magic-san's contract?」
-46843	+	　どうやって破棄すればいいんでしょう？」	
+46841	Sill Plain	考え中	「あ……ランス様。	「Ah... Rance-sama.
+46842	+		　マジックさんの契約って、	　How do we break Magic-san's contract?」
+46843	+		　どうやって破棄すればいいんでしょう？」	
 
-46844	Rance	「むっ。そんな事も分からんのか。	「Mu. You don't even know that?
-46845	+	　それはだな……」	　Well, it's...」
+46844	Rance	真剣	「むっ。そんな事も分からんのか。	「Mu. You don't even know that?
+46845	+		　それはだな……」	　Well, it's...」
 
-46846	Sill Plain	「……………………」	「........................」
+46846	Sill Plain	きょとん	「……………………」	「........................」
 
-46847	Rance	「……………………」	「........................」
+46847	Rance	だる顔	「……………………」	「........................」
 
-46848	Sill Plain	「……知らないんですね」	「...You don't know, do you.」
+46848	Sill Plain	苦笑	「……知らないんですね」	「...You don't know, do you.」
 
-46849	Rance	「やかましい！	「Shut up!
-46850	+	　フェリス！　カモンフェリスーーーー！」	　Feliss! Come on Feliss-----!」
+46849	Rance	怒り	「やかましい！	「Shut up!
+46850	+		　フェリス！　カモンフェリスーーーー！」	　Feliss! Come on Feliss-----!」
 
-46851	Feliss	「どうしたの、っとと……」	「What is it...」
+46851	Feliss	基本	「どうしたの、っとと……」	「What is it...」
 
-46852	Rance	「出番だ、着いてこい！」	「Your turn, follow me!」
+46852	Rance	真剣	「出番だ、着いてこい！」	「Your turn, follow me!」
 
-46853	-	フェリスは低い天井すれすれを飛んで、	Feliss flew close to the low ceiling,
-46854	+	ランスに追随してきた。	following after Rance.
+46853	-		フェリスは低い天井すれすれを飛んで、	Feliss flew close to the low ceiling,
+46854	+		ランスに追随してきた。	following after Rance.
 
-46855	Feliss	「急いでるみたいだけど……	「You seem in a hurry...
-46856	+	　昨日の悪魔の話？」	　Is this about yesterday's demon?」
+46855	Feliss	基本	「急いでるみたいだけど……	「You seem in a hurry...
+46856	+		　昨日の悪魔の話？」	　Is this about yesterday's demon?」
 
-46857	Rance	「そうだ。ハグレ悪魔とか言ってたな。	「Yeah. You called it a stray demon.
-46858	+	　普通の悪魔とどう違うんだ」	　How is it different from normal demons?」
+46857	Rance	真剣	「そうだ。ハグレ悪魔とか言ってたな。	「Yeah. You called it a stray demon.
+46858	+		　普通の悪魔とどう違うんだ」	　How is it different from normal demons?」
 
-46859	Feliss	「……大きい所では、変わらないわ。	「...In big ways, not much different.
-46860	+	　普通の悪魔は、刈り取った魂を悪魔界の上司に	　Normal demons submit harvested souls to their superiors in the demon world
-46861	+	　提出して、階級を上げて力を増すんだけど……」	　to rise in rank and gain power...」
+46859	Feliss	基本	「……大きい所では、変わらないわ。	「...In big ways, not much different.
+46860	+		　普通の悪魔は、刈り取った魂を悪魔界の上司に	　Normal demons submit harvested souls to their superiors in the demon world
+46861	+		　提出して、階級を上げて力を増すんだけど……」	　to rise in rank and gain power...」
 
-46862	Rance	「ふんふん」	「Hmm hmm.」
+46862	Rance	真剣	「ふんふん」	「Hmm hmm.」
 
-46863	Feliss	「ハグレ悪魔は、契約して取った魂を、	「Stray demons take the souls from contracts
-46864	+	　そのまま吸い取って自分の力にするの。	　and absorb them directly to increase their own power.
-46865	+	　独立採算で、勝手にやってるって事」	　They operate independently.」
+46863	Feliss	基本	「ハグレ悪魔は、契約して取った魂を、	「Stray demons take the souls from contracts
+46864	+		　そのまま吸い取って自分の力にするの。	　and absorb them directly to increase their own power.
+46865	+		　独立採算で、勝手にやってるって事」	　They operate independently.」
 
-46866	Rance	「……なんか、その方が簡単そうだな」	「...Sounds easier that way.」
+46866	Rance	だる顔	「……なんか、その方が簡単そうだな」	「...Sounds easier that way.」
 
-46867	Feliss	「魂を力に変換する事自体、	「Converting souls into power itself
-46868	+	　誰でもできる訳じゃないの。	　isn't something anyone can do.
-46869	+	　上級悪魔じゃないと、ハグレにはなれないわ」	　You need to be a high-ranking demon to become a stray.」
+46867	Feliss	基本	「魂を力に変換する事自体、	「Converting souls into power itself
+46868	+		　誰でもできる訳じゃないの。	　isn't something anyone can do.
+46869	+		　上級悪魔じゃないと、ハグレにはなれないわ」	　You need to be a high-ranking demon to become a stray.」
 
-46870	Rance	「ふーん……お前は？」	「Hmm... What about you?」
+46870	Rance		「ふーん……お前は？」	「Hmm... What about you?」
 
-46871	Feliss	「無理よ。そんな力はないし……	「Impossible. I don't have that power...
-46872	+	　階級も、もうすっかり……だもの」	　and my rank has already dropped completely...」
+46871	Feliss	不機嫌	「無理よ。そんな力はないし……	「Impossible. I don't have that power...
+46872	+		　階級も、もうすっかり……だもの」	　and my rank has already dropped completely...」
 
-46873	Rance	「あっそう。ま、役立たずでも良いぞ。	「I see. Well, even if you're useless it's fine.
-46874	+	　俺様がしっかり可愛がってやる」	　I'll pamper you plenty.」
+46873	Rance	基本	「あっそう。ま、役立たずでも良いぞ。	「I see. Well, even if you're useless it's fine.
+46874	+		　俺様がしっかり可愛がってやる」	　I'll pamper you plenty.」
 
-46875	Feliss	「階級が落ちたことからして、	「The fact that my rank dropped
-46876	+	　あんたのせいだけどね……」	　is because of you...」
+46875	Feliss		「階級が落ちたことからして、	「The fact that my rank dropped
+46876	+		　あんたのせいだけどね……」	　is because of you...」
 
-46877	Rance	「過去に拘っても仕方あるまい」	「No use dwelling on the past.」
+46877	Rance		「過去に拘っても仕方あるまい」	「No use dwelling on the past.」
 
-46878	Feliss	「……あのね。人がせっかく諦めてるんだから、	「...Hey. I'm trying to give up here,
-46879	+	　殺意がぶり返すようなこと言わないでくれる？」	　so don't say things that make me want to kill you again?」
+46878	Feliss	不機嫌	「……あのね。人がせっかく諦めてるんだから、	「...Hey. I'm trying to give up here,
+46879	+		　殺意がぶり返すようなこと言わないでくれる？」	　so don't say things that make me want to kill you again?」
 
-46880	Rance	「しょぼくれてるよりはその方が俺に良しだ。	「That's better than you moping around.
-46881	+	　がははははは」	　Gahahahaha」
+46880	Rance	笑顔	「しょぼくれてるよりはその方が俺に良しだ。	「That's better than you moping around.
+46881	+		　がははははは」	　Gahahahaha」
 
-46882	Feliss	「ったくもう……それだけ？」	「Geez... Is that all?」
+46882	Feliss	基本	「ったくもう……それだけ？」	「Geez... Is that all?」
 
-46883	Sill Plain	「あ、あ、ランス様。契約の話を……」	「Ah, Rance-sama. About the contract...」
+46883	Sill Plain	慌て	「あ、あ、ランス様。契約の話を……」	「Ah, Rance-sama. About the contract...」
 
-46884	Rance	「そうだそれだ。	「Right, that.
-46885	+	　契約を破棄する時はどうすれば良いんだ？」	　How do we nullify a contract?」
+46884	Rance	基本	「そうだそれだ。	「Right, that.
+46885	+		　契約を破棄する時はどうすれば良いんだ？」	　How do we nullify a contract?」
 
-46886	Feliss	「えっ、破棄？　私と？　ホントに？」	「Eh, nullify? Mine? Really?」
+46886	Feliss	憂い微笑	「えっ、破棄？　私と？　ホントに？」	「Eh, nullify? Mine? Really?」
 
-46887	Rance	「誰が俺とお前の契約と言った。	「Who said anything about ours.
-46888	+	　例のザカリテとかいうハグレ悪魔だ」	　It's that stray demon Xacalite.」
+46887	Rance	真剣	「誰が俺とお前の契約と言った。	「Who said anything about ours.
+46888	+		　例のザカリテとかいうハグレ悪魔だ」	　It's that stray demon Xacalite.」
 
-46889	Feliss	「ああ……そうよね…………」	「Ah... Right...」
+46889	Feliss	不機嫌	「ああ……そうよね…………」	「Ah... Right...」
 
-46890	Feliss~	（はぁ……自由が恋しい…………	（Sigh... I miss freedom...
-46891	+	　あの子、ちゃんとごはん食べてるかな……）	　I wonder if that child is eating properly...）
+46890	Feliss~	基本	（はぁ……自由が恋しい…………	（Sigh... I miss freedom...
+46891	+		　あの子、ちゃんとごはん食べてるかな……）	　I wonder if that child is eating properly...）
 
-46892	Sill Plain	「あの、マジックさんが騙されて	「Um, Magic-san might have been tricked
-46893	+	　契約を結ばされてるのかもしれないんです。	　into making the contract.
-46894	+	　助けてあげたいのですけど……」	　We want to help her...」
+46892	Sill Plain	真剣	「あの、マジックさんが騙されて	「Um, Magic-san might have been tricked
+46893	+		　契約を結ばされてるのかもしれないんです。	　into making the contract.
+46894	+		　助けてあげたいのですけど……」	　We want to help her...」
 
-46895	Feliss	「うっ、それは……うぅん、でも……	「Ugh, that's... Well, but...
-46896	+	　悪魔の企業秘密なんだけどな……」	　It's a demon trade secret...」
+46895	Feliss	基本	「うっ、それは……うぅん、でも……	「Ugh, that's... Well, but...
+46896	+		　悪魔の企業秘密なんだけどな……」	　It's a demon trade secret...」
 
-46897	Rance	「言え、使い魔。命令だぞ」	「Speak, familiar. That's an order.」
+46897	Rance	真剣	「言え、使い魔。命令だぞ」	「Speak, familiar. That's an order.」
 
-46898	Feliss	「うー、分かったわよ」	「Ugh, fine.」
+46898	Feliss	不機嫌	「うー、分かったわよ」	「Ugh, fine.」
 
-46899	-	はあ、とひとつ溜息はついたものの、	Though she sighed,
-46900	+	さして躊躇するでもなくフェリスは話し始めた。	Feliss began speaking without much hesitation.
+46899	-		はあ、とひとつ溜息はついたものの、	Though she sighed,
+46900	+		さして躊躇するでもなくフェリスは話し始めた。	Feliss began speaking without much hesitation.
 
-46901	Feliss	「……悪魔の契約は、	「...Demon contracts are formed
-46902	+	　魂を願いで汚すことで成立するの」	　by staining the soul with desire.」
+46901	Feliss	基本	「……悪魔の契約は、	「...Demon contracts are formed
+46902	+		　魂を願いで汚すことで成立するの」	　by staining the soul with desire.」
 
-46903	Rance	「汚す？」	「Staining?」
+46903	Rance	だる顔	「汚す？」	「Staining?」
 
-46904	Feliss	「そう。欲望、後ろめたさ、代償への恐怖……	「Yes. Desire, guilt, fear of the price...
-46905	+	　そういうものね」	　Things like that.」
+46904	Feliss	基本	「そう。欲望、後ろめたさ、代償への恐怖……	「Yes. Desire, guilt, fear of the price...
+46905	+		　そういうものね」	　Things like that.」
 
-46906	Feliss	「悪魔は汚染された魂が核だから、	「Demons are made from polluted souls,
-46907	+	　同じく汚れた魂は干渉がしやすい。	　so similarly polluted souls are easy to interfere with.
-46908	+	　そうなると刈り取る準備OKってわけ」	　That's when they're ready to be harvested.」
+46906	Feliss		「悪魔は汚染された魂が核だから、	「Demons are made from polluted souls,
+46907	+		　同じく汚れた魂は干渉がしやすい。	　so similarly polluted souls are easy to interfere with.
+46908	+		　そうなると刈り取る準備OKってわけ」	　That's when they're ready to be harvested.」
 
-46909	Rance	「で？　結局、どうすればいい？」	「So? How do we nullify it?」
+46909	Rance	真剣	「で？　結局、どうすればいい？」	「So? How do we nullify it?」
 
-46910	Feliss	「ものすごく簡単に言うと……拒めばいいの。	「To put it extremely simply... just refuse it.
-46911	+	　その契約を求める事を完全に捨てれば、	　If you completely abandon the desire for that contract,
-46912	+	　契約は続行できなくなる」	　the contract can't continue.」
+46910	Feliss	基本	「ものすごく簡単に言うと……拒めばいいの。	「To put it extremely simply... just refuse it.
+46911	+		　その契約を求める事を完全に捨てれば、	　If you completely abandon the desire for that contract,
+46912	+		　契約は続行できなくなる」	　the contract can't continue.」
 
-46913	Feliss	「魂が汚れなければ、悪魔は干渉できないの。	「If the soul isn't stained, the demon can't interfere.
-46914	+	　あんまりおおっぴらにしてないけど」	　It's not something they advertise.」
+46913	Feliss		「魂が汚れなければ、悪魔は干渉できないの。	「If the soul isn't stained, the demon can't interfere.
+46914	+		　あんまりおおっぴらにしてないけど」	　It's not something they advertise.」
 
-46915	Rance	「なんだ、そんな事で良いのか」	「That's it? Seems simple.」
+46915	Rance		「なんだ、そんな事で良いのか」	「That's it? Seems simple.」
 
-46916	Feliss	「けっこう難しいと思うけど。	「It's actually pretty hard.
-46917	+	　死んででも果たしたい願いを	　It's like abandoning a wish you'd die for.」
-46918	+	　捨てるようなものだし」	
+46916	Feliss		「けっこう難しいと思うけど。	「It's actually pretty hard.
+46917	+		　死んででも果たしたい願いを	　It's like abandoning a wish you'd die for.」
+46918	+		　捨てるようなものだし」	
 
-46919	Rance	「ふん、まあだいたい分かった。	「Hmph, I get the gist.
-46920	+	　さっさとマジックを助けるぞ」	　Let's go save Magic quickly.」
+46919	Rance		「ふん、まあだいたい分かった。	「Hmph, I get the gist.
+46920	+		　さっさとマジックを助けるぞ」	　Let's go save Magic quickly.」

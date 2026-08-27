@@ -8,93 +8,93 @@
 * Monster Captain	汎用魔物隊長	Male
 * Blue Monster Soldier	汎用魔物兵青	Male
 
-163164	Melfeis Promenade	「はっ、はっ……はア……」	「Ha, ha...... haa......」
+163164	Melfeis Promenade	基本	「はっ、はっ……はア……」	「Ha, ha...... haa......」
 
-163165	-	アペムンタ村までの道のりを	On the way to Apemunta Village
-163166	+	一人早歩きで目指すメルフェイス。	Melfeis walked ahead quickly by herself.
-163167	+	その頬にはうっすらと汗が浮かんでいる。	A light sweat glistened on her cheeks.
+163165	-		アペムンタ村までの道のりを	On the way to Apemunta Village
+163166	+		一人早歩きで目指すメルフェイス。	Melfeis walked ahead quickly by herself.
+163167	+		その頬にはうっすらと汗が浮かんでいる。	A light sweat glistened on her cheeks.
 
-163168	Jaro Jaslak	「おーい、メルフェイス、少し落ち着けよ。	「Hey, Melfeis, calm down a bit.
-163169	+	　んな焦んなくても大して変わらねぇよ」	　No need to rush so much, it won't change much.」
+163168	Jaro Jaslak		「おーい、メルフェイス、少し落ち着けよ。	「Hey, Melfeis, calm down a bit.
+163169	+		　んな焦んなくても大して変わらねぇよ」	　No need to rush so much, it won't change much.」
 
-163170	Melfeis Promenade	「あっ……	「Ah......
-163171	+	　ご、ごめんな、さい……」	　S, sorry......」
+163170	Melfeis Promenade		「あっ……	「Ah......
+163171	+		　ご、ごめんな、さい……」	　S, sorry......」
 
-163172	Jaro Jaslak	「ったく、馬鹿な女だな、お前は」	「Jeez, what a stupid woman you are.」
+163172	Jaro Jaslak		「ったく、馬鹿な女だな、お前は」	「Jeez, what a stupid woman you are.」
 
-163173	Melfeis Promenade	「…………」	「............」
+163173	Melfeis Promenade		「…………」	「............」
 
-163174	Chaka Cadmium	「いや、メルフェイスの判断は間違いではない。	「No, Melfeis's judgment isn't wrong.
-163175	+	　我々だけならまだしも、総統殿の時間を	　If it were just us it would be fine, but we can't waste
-163176	+	　無駄にするわけにはいかぬからな……」	　the Supreme Leader's time......」
+163174	Chaka Cadmium		「いや、メルフェイスの判断は間違いではない。	「No, Melfeis's judgment isn't wrong.
+163175	+		　我々だけならまだしも、総統殿の時間を	　If it were just us it would be fine, but we can't waste
+163176	+		　無駄にするわけにはいかぬからな……」	　the Supreme Leader's time......」
 
-163177	Jaro Jaslak	「……ちっ、へいへい、分かりましたよ」	「...Tch, fine fine, I got it.」
+163177	Jaro Jaslak		「……ちっ、へいへい、分かりましたよ」	「...Tch, fine fine, I got it.」
 
-163178	-	小言に気分を害したジャロは一人で	Annoyed by the scolding, Jaro walked ahead alone
-163179	+	スタスタと前の方に行ってしまった。	with quick steps.
+163178	-		小言に気分を害したジャロは一人で	Annoyed by the scolding, Jaro walked ahead alone
+163179	+		スタスタと前の方に行ってしまった。	with quick steps.
 
-163180	Melfeis Promenade	「……あの、すみません。	「......Um, thank you.
-163181	+	　ありがとうございます、チャカさん」	　Thank you, Chaka-san.」
+163180	Melfeis Promenade		「……あの、すみません。	「......Um, thank you.
+163181	+		　ありがとうございます、チャカさん」	　Thank you, Chaka-san.」
 
-163182	Chaka Cadmium	「……よいよ。	「......It's fine.
-163183	+	　メルフェイスが悪いわけではないんじゃから」	　You did nothing wrong.」
+163182	Chaka Cadmium		「……よいよ。	「......It's fine.
+163183	+		　メルフェイスが悪いわけではないんじゃから」	　You did nothing wrong.」
 
-163184	Rance	「疑問なんだが……」	「I have a question......」
+163184	Rance	真剣	「疑問なんだが……」	「I have a question......」
 
-163185	Rance	「なんであんな男の言うこと聞いてるんだ？	「Why do you listen to a guy like that?
-163186	+	　恋人にしたって、趣味悪すぎるぞ」	　Even as a lover, your taste is terrible.」
+163185	Rance		「なんであんな男の言うこと聞いてるんだ？	「Why do you listen to a guy like that?
+163186	+		　恋人にしたって、趣味悪すぎるぞ」	　Even as a lover, your taste is terrible.」
 
-163187	Melfeis Promenade	「そ、それは……」	「T, that is......」
+163187	Melfeis Promenade	基本	「そ、それは……」	「T, that is......」
 
-163188	Rance	「ん？　なんだ？」	「Hm? What?」
+163188	Rance		「ん？　なんだ？」	「Hm? What?」
 
-163189	Kentou Kanami	「あ！　みんな見て！　村が！」	「Ah! Everyone look! The village!」
+163189	Kentou Kanami		「あ！　みんな見て！　村が！」	「Ah! Everyone look! The village!」
 
-163190	-	うっすらと姿が見えてきた村は	The village that faintly came into view
-163191	+	魔物に囲まれている様子だった。	was surrounded by monsters.
+163190	-		うっすらと姿が見えてきた村は	The village that faintly came into view
+163191	+		魔物に囲まれている様子だった。	was surrounded by monsters.
 
-163192	Rance	「ふむ、襲われる直前だったようだな。	「Hmm, it looks like we arrived right before the attack.
-163193	+	　ギリギリセーフというやつだ」	　A perfect last-second save.」
+163192	Rance		「ふむ、襲われる直前だったようだな。	「Hmm, it looks like we arrived right before the attack.
+163193	+		　ギリギリセーフというやつだ」	　A perfect last-second save.」
 
-163194	Melfeis Promenade	「くっ……！」	「Kuh......!」
+163194	Melfeis Promenade		「くっ……！」	「Kuh......!」
 
-163195	Rance	「あ、こら、メルフェイスちゃん！」	「Ah, hey, Melfeis-chan!」
+163195	Rance		「あ、こら、メルフェイスちゃん！」	「Ah, hey, Melfeis-chan!」
 
-163196	-	アペムンタ村を魔物達が囲んでいた。	Monsters had surrounded Apemunta Village.
+163196	-		アペムンタ村を魔物達が囲んでいた。	Monsters had surrounded Apemunta Village.
 
-163197	-	夜盗対策に作られた柵などは	The fences built against night thieves
-163198	+	小さな村にしては立派なものであり、	were quite sturdy for a small village,
-163199	+	少数の魔物達も手を焼いていた。	and even the small number of monsters were struggling.
+163197	-		夜盗対策に作られた柵などは	The fences built against night thieves
+163198	+		小さな村にしては立派なものであり、	were quite sturdy for a small village,
+163199	+		少数の魔物達も手を焼いていた。	and even the small number of monsters were struggling.
 
-163200	Green Monster Soldier	「おらぁーっ！　出てきたら	「Come on! If you come out
-163201	+	　殺さないでいてやるから素直に出てこいやー！」	　I won't kill you, so come out obediently!」
+163200	Green Monster Soldier		「おらぁーっ！　出てきたら	「Come on! If you come out
+163201	+		　殺さないでいてやるから素直に出てこいやー！」	　I won't kill you, so come out obediently!」
 
-163202	Green Monster Soldier	「ひゃひゃひゃ、嘘ばっかり！	「Hyahaha, all lies!
-163203	+	　そもそも出てくるわけねえじゃん！」	　There's no way they'd come out!」
+163202	Green Monster Soldier		「ひゃひゃひゃ、嘘ばっかり！	「Hyahaha, all lies!
+163203	+		　そもそも出てくるわけねえじゃん！」	　There's no way they'd come out!」
 
-163204	Monster Captain	「ちっ、しゃーねー。	「Tch, can't be helped.
-163205	+	　ちょっと怪我するの承知で攻め込むか」	　We'll attack even if some get hurt.」
+163204	Monster Captain		「ちっ、しゃーねー。	「Tch, can't be helped.
+163205	+		　ちょっと怪我するの承知で攻め込むか」	　We'll attack even if some get hurt.」
 
-163206	Monster Captain	「あん？　なんだ、あの女……」	「Hm? What's with that woman......」
+163206	Monster Captain		「あん？　なんだ、あの女……」	「Hm? What's with that woman......」
 
-163207	Green Monster Soldier	「え、女！？　女！？　どこっすか？」	「Eh, woman!? Woman!? Where?」
+163207	Green Monster Soldier		「え、女！？　女！？　どこっすか？」	「Eh, woman!? Woman!? Where?」
 
-163208	Melfeis Promenade	「はァァァァァァーーーーッ……」	「Haaaaaaaah......」
+163208	Melfeis Promenade		「はァァァァァァーーーーッ……」	「Haaaaaaaah......」
 
-163209	Melfeis Promenade	「火爆破！」	「Fire Explosion!」
+163209	Melfeis Promenade		「火爆破！」	「Fire Explosion!」
 
-163210	Green Monster Soldier	「ぎゃあああ！　あ、熱いーーッ！」	「Gyaaaa! Hot---!」
+163210	Green Monster Soldier		「ぎゃあああ！　あ、熱いーーッ！」	「Gyaaaa! Hot---!」
 
-163211	-	魔力により発生した	A high-temperature explosion created by magic power
-163212	+	高温の爆発が魔物兵を巻き込む。	engulfed the monster soldiers.
+163211	-		魔力により発生した	A high-temperature explosion created by magic power
+163212	+		高温の爆発が魔物兵を巻き込む。	engulfed the monster soldiers.
 
-163213	Green Monster Soldier	「お、おい、あれ人類軍だぞ！」	「H, hey, that's the human army!」
+163213	Green Monster Soldier		「お、おい、あれ人類軍だぞ！」	「H, hey, that's the human army!」
 
-163214	Blue Monster Soldier	「なんでこんなとこに軍が来てんだよ！？」	「Why the hell is the army here!?」
+163214	Blue Monster Soldier		「なんでこんなとこに軍が来てんだよ！？」	「Why the hell is the army here!?」
 
-163215	Rance	「おほー、案外苛烈なところがあるな、	「Whoa, Melfeis-chan has quite the fierce side,
-163216	+	　メルフェイスちゃん」	　huh.」
+163215	Rance		「おほー、案外苛烈なところがあるな、	「Whoa, Melfeis-chan has quite the fierce side,
+163216	+		　メルフェイスちゃん」	　huh.」
 
-163217	Rance	「よーし、こっちも負けずに蹴散らせー！」	「Alright, let's rout them too without losing!」
+163217	Rance	笑顔	「よーし、こっちも負けずに蹴散らせー！」	「Alright, let's rout them too without losing!」
 
-163218	Monster Captain	「くっ！　押し返せー！」	「Kuh! Push them back!」
+163218	Monster Captain	基本	「くっ！　押し返せー！」	「Kuh! Push them back!」

@@ -7,397 +7,397 @@
 * El Mofus	エール２	Player's choice
 * Rocky Bank	ロッキー２	Male
 
-216227	Kentou Uzume	「う、くっ……ここまでか……」	「Ugh... this is it...」
+216227	Kentou Uzume	基本	「う、くっ……ここまでか……」	「Ugh... this is it...」
 
-216228	Kentou Uzume	「だが、ふっ……	「But... heh...
-216229	+	　私の……私達の勝利だ……」	　This is... our victory...」
+216228	Kentou Uzume		「だが、ふっ……	「But... heh...
+216229	+		　私の……私達の勝利だ……」	　This is... our victory...」
 
-216230	-	戦闘によって倒されはしたが、	Though defeated in battle,
-216231	+	それでもウズメは勝ち誇りながら気絶した。	Uzume fainted with a proud expression.
+216230	-		戦闘によって倒されはしたが、	Though defeated in battle,
+216231	+		それでもウズメは勝ち誇りながら気絶した。	Uzume fainted with a proud expression.
 
-216232	Masou Shizuka	「やれやれ、ね……	「Good grief...
-216233	+	　本隊には逃げられたわね……」	　The main force got away...」
+216232	Masou Shizuka		「やれやれ、ね……	「Good grief...
+216233	+		　本隊には逃げられたわね……」	　The main force got away...」
 
-216234	Nagi su Ragarl	「たった一人で私達の足止めするとは、	「Stopping all of us alone,
-216235	+	　敵ながら天晴れな子だねー。	　what a splendid enemy.
-216236	?	なむなむ」	　Namu namu.」
+216234	Nagi su Ragarl	反省	「たった一人で私達の足止めするとは、	「Stopping all of us alone,
+216235	+		　敵ながら天晴れな子だねー。	　what a splendid enemy.
+216236	?		なむなむ」	　Namu namu.」
 
-216237	Reset Kalar	「まだ死んでないよ！？」	「She's not dead yet!?」
+216237	Reset Kalar	驚き	「まだ死んでないよ！？」	「She's not dead yet!?」
 
-216238	Reset Kalar	「あ、うん、良かった……	「Ah, yeah, good...
-216239	+	　気絶しているだけみたい」	　She just fainted.」
+216238	Reset Kalar	基本	「あ、うん、良かった……	「Ah, yeah, good...
+216239	+		　気絶しているだけみたい」	　She just fainted.」
 
-216240	Reset Kalar	「それより、この子ってもしかして……」	「More importantly, this girl might be...」
+216240	Reset Kalar	真剣	「それより、この子ってもしかして……」	「More importantly, this girl might be...」
 
-216241	-	リセットが副官の顔を確認する。	Reset checked the adjutant's face.
+216241	-		リセットが副官の顔を確認する。	Reset checked the adjutant's face.
 
-216242	Nagi su Ragarl	「って、あーーっ！」	「Wait, aaaaah!」
+216242	Nagi su Ragarl	驚き	「って、あーーっ！」	「Wait, aaaaah!」
 
-216243	Masou Shizuka	「この子、ウズメ……よね？」	「This girl is Uzume... right?」
+216243	Masou Shizuka	怒り	「この子、ウズメ……よね？」	「This girl is Uzume... right?」
 
-216244	Nagata-kun	「？　誰っすか？　ウズメって」	「? Who is Uzume?」
+216244	Nagata-kun	基本	「？　誰っすか？　ウズメって」	「? Who is Uzume?」
 
-216245	Masou Shizuka	「魔王の子の一人よ」	「One of the Demon King's children.」
+216245	Masou Shizuka		「魔王の子の一人よ」	「One of the Demon King's children.」
 
-216246	Nagata-kun	「マジすか！？」	「For real!?」
+216246	Nagata-kun		「マジすか！？」	「For real!?」
 
-216247	Nagata-kun	「＜エール＞、＜エール＞！	「＜エール＞, ＜エール＞!
-216248	+	　例の手鏡、手鏡！」	　The hand mirror, the hand mirror!」
+216247	Nagata-kun		「＜エール＞、＜エール＞！	「＜エール＞, ＜エール＞!
+216248	+		　例の手鏡、手鏡！」	　The hand mirror, the hand mirror!」
 
-216249	-	あなたは長田君に促されて、	Prompted by Nagata-kun,
-216250	+	Rの手鏡を取り出し、ウズメにかざした。	you took out R's hand mirror and held it over Uzume.
+216249	-		あなたは長田君に促されて、	Prompted by Nagata-kun,
+216250	+		Rの手鏡を取り出し、ウズメにかざした。	you took out R's hand mirror and held it over Uzume.
 
-216251	-	　	　
-216252	+	　　＜ピンポーーーン＞	　　<Ding-dong>
+216251	-		　	　
+216252	+		　　＜ピンポーーーン＞	　　<Ding-dong>
 
-216253	Nagata-kun	「うおっ、マジか！	「Whoa, for real!
-216254	+	　こいつも魔王の子かよ！」	　She's also one of the Demon King's kids!」
+216253	Nagata-kun		「うおっ、マジか！	「Whoa, for real!
+216254	+		　こいつも魔王の子かよ！」	　She's also one of the Demon King's kids!」
 
-216255	Reset Kalar	「うん、ウズメちゃんはね、	「Yes, Uzume-chan is
-216256	+	　魔王ランスの専属忍者のかなみさんの子」	　the child of Kanami, the Demon King's personal ninja.」
+216255	Reset Kalar		「うん、ウズメちゃんはね、	「Yes, Uzume-chan is
+216256	+		　魔王ランスの専属忍者のかなみさんの子」	　the child of Kanami, the Demon King's personal ninja.」
 
-216257	Reset Kalar	「二年前に行方不明になっていたんだけど……	「She went missing two years ago...
-216258	+	　まさか、こんなところで会うなんて」	　I never thought we'd meet her here.」
+216257	Reset Kalar		「二年前に行方不明になっていたんだけど……	「She went missing two years ago...
+216258	+		　まさか、こんなところで会うなんて」	　I never thought we'd meet her here.」
 
-216259	Nagi su Ragarl	「で、どうする？」	「So, what now?」
+216259	Nagi su Ragarl		「で、どうする？」	「So, what now?」
 
-216260	Masou Shizuka	「完全に私達のことは忘れてたわよね」	「She had completely forgotten about us.」
+216260	Masou Shizuka		「完全に私達のことは忘れてたわよね」	「She had completely forgotten about us.」
 
-216261	Reset Kalar	「うーん、記憶喪失なのかなぁ……	「Hmm, maybe amnesia...
-216262	+	　それとも記憶操作されたのかなぁ……」	　Or perhaps her memories were tampered with...」
+216261	Reset Kalar	憂い	「うーん、記憶喪失なのかなぁ……	「Hmm, maybe amnesia...
+216262	+		　それとも記憶操作されたのかなぁ……」	　Or perhaps her memories were tampered with...」
 
-216263	Reset Kalar	「私は正気に戻すことは出来るけど、	「I can restore her sanity,
-216264	+	　記憶を戻すことは出来ないし……」	　but I can't restore memories...」
+216263	Reset Kalar		「私は正気に戻すことは出来るけど、	「I can restore her sanity,
+216264	+		　記憶を戻すことは出来ないし……」	　but I can't restore memories...」
 
-216265	Masou Shizuka	「そんな神魔法があったわね……	「There was that Divine Magic for memories...
-216266	+	　＜エール＞、貴方使えないの？」	　＜エール＞, can't you use it?」
+216265	Masou Shizuka	基本	「そんな神魔法があったわね……	「There was that Divine Magic for memories...
+216266	+		　＜エール＞、貴方使えないの？」	　＜エール＞, can't you use it?」
 
-216267	-	あなたは記憶に関する神魔法は使えない。	You cannot use Divine Magic related to memories.
-216268	+	首を横に振った。	You shook your head.
+216267	-		あなたは記憶に関する神魔法は使えない。	You cannot use Divine Magic related to memories.
+216268	+		首を横に振った。	You shook your head.
 
-216269	Masou Shizuka	「そっか、じゃあどうしたものかしらね……」	「I see, then what should we do...」
+216269	Masou Shizuka		「そっか、じゃあどうしたものかしらね……」	「I see, then what should we do...」
 
-216270	Nagata-kun	「なあなあ、相棒。	「Hey hey, partner.
-216271	+	　それならさ、あれをしたらどうよ？」	　Why don't we do that then?」
+216270	Nagata-kun		「なあなあ、相棒。	「Hey hey, partner.
+216271	+		　それならさ、あれをしたらどうよ？」	　Why don't we do that then?」
 
-216272	Masou Shizuka	「あれ？」	「That?」
+216272	Masou Shizuka		「あれ？」	「That?」
 
-216273	El Mofus	「…………。」	「............」
-216274	Masou Shizuka	「えっ……」	「Eh...」
+216273	El Mofus		「…………。」	「............」
+216274	Masou Shizuka		「えっ……」	「Eh...」
 
-216275	Masou Shizuka	「……本気で言ってるなら怒るわよ？」	「...If you're serious, I'll get mad?」
+216275	Masou Shizuka	睨み	「……本気で言ってるなら怒るわよ？」	「...If you're serious, I'll get mad?」
 
-216276	-	あなたはジロリと睨まれてしまった。	You were glared at sharply.
+216276	-		あなたはジロリと睨まれてしまった。	You were glared at sharply.
 
-216277	Nagata-kun	「そうじゃなくて、アレのことだって！」	「Not that, I mean that other thing!」
+216277	Nagata-kun	基本	「そうじゃなくて、アレのことだって！」	「Not that, I mean that other thing!」
 
-216278	Masou Shizuka	「＜エール＞……本気で言ってないわよね？」	「＜エール＞... You're not serious, right?」
+216278	Masou Shizuka	睨み	「＜エール＞……本気で言ってないわよね？」	「＜エール＞... You're not serious, right?」
 
-216279	-	あなたは志津香にジロリと睨まれてしまった。	You were glared at sharply by Shizuka.
+216279	-		あなたは志津香にジロリと睨まれてしまった。	You were glared at sharply by Shizuka.
 
-216280	Nagata-kun	「てか、なんでお前、	「Hey, why do you
-216281	+	　サラッと俺を割ろうとするの……」	　casually try to cut me...」
+216280	Nagata-kun	基本	「てか、なんでお前、	「Hey, why do you
+216281	+		　サラッと俺を割ろうとするの……」	　casually try to cut me...」
 
-216282	Nagata-kun	「そうじゃなくてー！」	「That's not what I meant!」
+216282	Nagata-kun		「そうじゃなくてー！」	「That's not what I meant!」
 
-216283	El Mofus	「…………。」	「............」
+216283	El Mofus		「…………。」	「............」
 
-216284	-	あなたは母に渡された神魔法図鑑を元に、	Using the Divine Magic encyclopedia given by your mother,
-216285	+	新たに記憶に関する神魔法を覚え、	you learned a new Divine Magic concerning memories
-216286	+	それをウズメにかけていた。	and cast it on Uzume.
+216284	-		あなたは母に渡された神魔法図鑑を元に、	Using the Divine Magic encyclopedia given by your mother,
+216285	+		新たに記憶に関する神魔法を覚え、	you learned a new Divine Magic concerning memories
+216286	+		それをウズメにかけていた。	and cast it on Uzume.
 
-216287	Nagi su Ragarl	「うわ、本当に即覚えて即使ってる……」	「Wow, you really learned it instantly and used it right away...」
+216287	Nagi su Ragarl	驚き	「うわ、本当に即覚えて即使ってる……」	「Wow, you really learned it instantly and used it right away...」
 
-216288	Masou Shizuka	「新たに覚えられるとは聞いていたけど……	「I heard you could learn new ones, but...
-216289	+	　それに簡単なものならともかく、	　Even so, not just simple ones,
-216290	+	　結構高等な神魔法な筈なのに……」	　this should be quite advanced Divine Magic...」
+216288	Masou Shizuka	怒り	「新たに覚えられるとは聞いていたけど……	「I heard you could learn new ones, but...
+216289	+		　それに簡単なものならともかく、	　Even so, not just simple ones,
+216290	+		　結構高等な神魔法な筈なのに……」	　this should be quite advanced Divine Magic...」
 
-216291	Masou Shizuka	「＜エール＞ったら、何気にすごかったのね……」	「＜エール＞ is surprisingly amazing...」
+216291	Masou Shizuka		「＜エール＞ったら、何気にすごかったのね……」	「＜エール＞ is surprisingly amazing...」
 
-216292	Rocky Bank	「さすが、＜エール＞様だ！	「As expected of ＜エール＞-sama!
-216293	+	　おら、感動しましただ！」	　I'm moved!」
+216292	Rocky Bank	男泣き	「さすが、＜エール＞様だ！	「As expected of ＜エール＞-sama!
+216293	+		　おら、感動しましただ！」	　I'm moved!」
 
-216294	Nagata-kun	「ふふん、ま、俺の相棒なら	「Heh, well, if it's my partner
-216295	+	　これくらい当然ってもんすよ！」	　this much is only natural!」
+216294	Nagata-kun	基本	「ふふん、ま、俺の相棒なら	「Heh, well, if it's my partner
+216295	+		　これくらい当然ってもんすよ！」	　this much is only natural!」
 
-216296	Masou Shizuka	「あんたは何もしてないでしょ」	「You didn't do anything.」
+216296	Masou Shizuka		「あんたは何もしてないでしょ」	「You didn't do anything.」
 
-216297	Reset Kalar	「あはは……」	「Ahaha...」
+216297	Reset Kalar	たははー	「あはは……」	「Ahaha...」
 
-216298	Reset Kalar	「うん、でも本当にすごいんだ、	「Yeah, but El-chan is really amazing,」
-216299	+	　＜エール＞ちゃん……」	
+216298	Reset Kalar	口開き	「うん、でも本当にすごいんだ、	「Yeah, but El-chan is really amazing,」
+216299	+		　＜エール＞ちゃん……」	
 
-216300	Reset Kalar	「＜エール＞ちゃんの力を正しいことに使えたら、	「If ＜エール＞-chan uses her power for good,
-216301	+	　きっと沢山の人が喜ぶね」	　I'm sure many people will be happy.」
+216300	Reset Kalar	笑顔	「＜エール＞ちゃんの力を正しいことに使えたら、	「If ＜エール＞-chan uses her power for good,
+216301	+		　きっと沢山の人が喜ぶね」	　I'm sure many people will be happy.」
 
-216302	-	リセットの言葉は、	Reset's words
-216303	+	何故かとても嬉しそうで、	were somehow very joyful
-216304	+	とても温かみに溢れた言葉だった。	and filled with warmth.
+216302	-		リセットの言葉は、	Reset's words
+216303	+		何故かとても嬉しそうで、	were somehow very joyful
+216304	+		とても温かみに溢れた言葉だった。	and filled with warmth.
 
-216305	Reset Kalar	「あ、＜エール＞ちゃん、終わった？」	「Ah, ＜エール＞-chan, are you done?」
+216305	Reset Kalar	基本	「あ、＜エール＞ちゃん、終わった？」	「Ah, ＜エール＞-chan, are you done?」
 
-216306	Reset Kalar	「そっか。	「I see.
-216307	+	　なら、これで元に戻ったらいいけど……」	　Then I hope she returns to normal...」
+216306	Reset Kalar		「そっか。	「I see.
+216307	+		　なら、これで元に戻ったらいいけど……」	　Then I hope she returns to normal...」
 
-216308	Kentou Uzume	「…………」	「............」
+216308	Kentou Uzume		「…………」	「............」
 
-216309	-	ウズメの瞼がピクピクと動く。	Uzume's eyelids twitched.
+216309	-		ウズメの瞼がピクピクと動く。	Uzume's eyelids twitched.
 
-216310	Kentou Uzume	「んっ……」	「Nn...」
+216310	Kentou Uzume		「んっ……」	「Nn...」
 
-216311	Kentou Uzume	「ふわぁ〜〜〜……」	「Fwaaa~~~...」
+216311	Kentou Uzume	テレ	「ふわぁ〜〜〜……」	「Fwaaa~~~...」
 
-216312	Kentou Uzume	「ん？　ここはどこにござるか？」	「Nn? Where is this?」
+216312	Kentou Uzume	基本	「ん？　ここはどこにござるか？」	「Nn? Where is this?」
 
-216313	Reset Kalar	「わっ、元に戻ったー！」	「Wah, she's back!」
+216313	Reset Kalar		「わっ、元に戻ったー！」	「Wah, she's back!」
 
-216314	Kentou Uzume	「あれれ？　姉上？」	「Huh? Big sis?」
+216314	Kentou Uzume		「あれれ？　姉上？」	「Huh? Big sis?」
 
-216315	Kentou Uzume	「…………」	「............」
+216315	Kentou Uzume		「…………」	「............」
 
-216316	Kentou Uzume	「はっ！　ウズメは今まで一体なにを！？」	「Hah! What has Uzume been doing all this time!?」
+216316	Kentou Uzume		「はっ！　ウズメは今まで一体なにを！？」	「Hah! What has Uzume been doing all this time!?」
 
-216317	-	…………	............
+216317	-		…………	............
 
-216318	-	……	...
+216318	-		……	...
 
-216319	Kentou Uzume	「ウズメ、ぜーんぶ思い出したでござる」	「Uzume has remembered everything.」
+216319	Kentou Uzume		「ウズメ、ぜーんぶ思い出したでござる」	「Uzume has remembered everything.」
 
-216320	Kentou Uzume	「あれはもう二年前のこと、	「That was two years ago,
-216321	+	　母上殿と共に忍者実習として	　during ninja training with Mother,
-216322	+	　ハイキングに出ていた時のこと……」	　while we were hiking...」
+216320	Kentou Uzume		「あれはもう二年前のこと、	「That was two years ago,
+216321	+		　母上殿と共に忍者実習として	　during ninja training with Mother,
+216322	+		　ハイキングに出ていた時のこと……」	　while we were hiking...」
 
-216323	Kentou Uzume	「幻の金色に輝く蝶々を発見したでござる」	「We found a legendary golden glowing butterfly.」
+216323	Kentou Uzume		「幻の金色に輝く蝶々を発見したでござる」	「We found a legendary golden glowing butterfly.」
 
-216324	Kentou Uzume	「それをふら〜っと追いかけてる内に……」	「While chasing after it absentmindedly...」
+216324	Kentou Uzume		「それをふら〜っと追いかけてる内に……」	「While chasing after it absentmindedly...」
 
-216325	Reset Kalar	「迷子になっちゃったのね……」	「You got lost...」
+216325	Reset Kalar		「迷子になっちゃったのね……」	「You got lost...」
 
-216326	Kentou Uzume	「ういうい」	「Uiuui.」
+216326	Kentou Uzume		「ういうい」	「Uiuui.」
 
-216327	Kentou Uzume	「その挙げ句、奴隷商に捕まっちまって、	「In the end, I was caught by slave traders,
-216328	+	　ウズメは記憶操作を……」	　and my memories were tampered with...」
+216327	Kentou Uzume		「その挙げ句、奴隷商に捕まっちまって、	「In the end, I was caught by slave traders,
+216328	+		　ウズメは記憶操作を……」	　and my memories were tampered with...」
 
-216329	Kentou Uzume	「その後は暗殺者としての教育を受けたでござる」	「After that I received training as an assassin.」
+216329	Kentou Uzume		「その後は暗殺者としての教育を受けたでござる」	「After that I received training as an assassin.」
 
-216330	Kentou Uzume	「そしてタイガー将軍に拾われて……	「Then I was picked up by Tiger General...
-216331	+	　気づけば姉上達と戦ってたでござる」	　Before I knew it, I was fighting against my sisters.」
+216330	Kentou Uzume		「そしてタイガー将軍に拾われて……	「Then I was picked up by Tiger General...
+216331	+		　気づけば姉上達と戦ってたでござる」	　Before I knew it, I was fighting against my sisters.」
 
-216332	Nagi su Ragarl	「魔王の子って知ってたのかなぁ？」	「Did you know you were a Demon King's child?」
+216332	Nagi su Ragarl		「魔王の子って知ってたのかなぁ？」	「Did you know you were a Demon King's child?」
 
-216333	Kentou Uzume	「うんにゃ、多分知らなかったと思う、かな？	「Nope, I probably didn't know.
-216334	+	　ウズメ、魔王の子の中じゃ地味でござるしね」	　Uzume is the plain one among the Demon King's children.」
+216333	Kentou Uzume		「うんにゃ、多分知らなかったと思う、かな？	「Nope, I probably didn't know.
+216334	+		　ウズメ、魔王の子の中じゃ地味でござるしね」	　Uzume is the plain one among the Demon King's children.」
 
-216335	Kentou Uzume	「いやはや、記憶を消されていたとは言え、	「Even though my memories were erased,
-216336	+	　兄弟姉妹に手をかけようとしていたとは……	　to think I tried to attack my own siblings...
-216337	+	　ちょっとウズメ、ぞっ」	　Uzume is a bit horrified.」
+216335	Kentou Uzume		「いやはや、記憶を消されていたとは言え、	「Even though my memories were erased,
+216336	+		　兄弟姉妹に手をかけようとしていたとは……	　to think I tried to attack my own siblings...
+216337	+		　ちょっとウズメ、ぞっ」	　Uzume is a bit horrified.」
 
-216338	Kentou Uzume	「…………」	「............」
+216338	Kentou Uzume		「…………」	「............」
 
-216339	Kentou Uzume	「ま、いっかでござる」	「Well, whatever.」
+216339	Kentou Uzume	にょほほ	「ま、いっかでござる」	「Well, whatever.」
 
-216340	Nagata-kun	「かるっ！」	「So light!」
+216340	Nagata-kun	基本	「かるっ！」	「So light!」
 
-216341	Kentou Uzume	「ウズメ、悩んで仕方ないことは	「Uzume decided not to worry
-216342	+	　悩まないことにしてるでござる。	　about things that can't be helped.
-216343	+	　ににんにん」	　Nin nin.」
+216341	Kentou Uzume	にょほほ	「ウズメ、悩んで仕方ないことは	「Uzume decided not to worry
+216342	+		　悩まないことにしてるでござる。	　about things that can't be helped.
+216343	+		　ににんにん」	　Nin nin.」
 
-216344	Reset Kalar	「なんにしても、久し振りに会えて……	「Anyway, I'm really glad
-216345	+	　本当に良かった……」	　we could meet again...」
+216344	Reset Kalar	基本	「なんにしても、久し振りに会えて……	「Anyway, I'm really glad
+216345	+		　本当に良かった……」	　we could meet again...」
 
-216346	Kentou Uzume	「おお、姉上……	「Ohh, Big Sis...
-216347	?	とっ！？」	Tott!?」
+216346	Kentou Uzume	にょほほ	「おお、姉上……	「Ohh, Big Sis...
+216347	?		とっ！？」	Tott!?」
 
-216348	-	リセットがウズメにギュッと抱きつく。	Reset hugged Uzume tightly.
+216348	-		リセットがウズメにギュッと抱きつく。	Reset hugged Uzume tightly.
 
-216349	Reset Kalar	「……もう離れたら駄目だよ？」	「...You can't leave anymore, okay?」
+216349	Reset Kalar	基本	「……もう離れたら駄目だよ？」	「...You can't leave anymore, okay?」
 
-216350	-	ウズメを見上げるリセットの表情は、	Reset looked up at Uzume with an expression
-216351	+	今にも泣きそうな笑顔だった。	that looked like she might cry from happiness.
+216350	-		ウズメを見上げるリセットの表情は、	Reset looked up at Uzume with an expression
+216351	+		今にも泣きそうな笑顔だった。	that looked like she might cry from happiness.
 
-216352	Kentou Uzume	「あ、あうあう……ごめんねでござる……	「A-Au au... I'm sorry...
-216353	+	　肝に銘じるでござる……」	　I'll engrave it in my heart...」
+216352	Kentou Uzume	テレ	「あ、あうあう……ごめんねでござる……	「A-Au au... I'm sorry...
+216353	+		　肝に銘じるでござる……」	　I'll engrave it in my heart...」
 
-216354	Masou Shizuka~	（あのウズメが困ってる……珍しい……）	（Uzume looking troubled... how rare...）
+216354	Masou Shizuka~	基本	（あのウズメが困ってる……珍しい……）	（Uzume looking troubled... how rare...）
 
-216355	Masou Shizuka~	（まあこの子にはいい薬ね）	（Well, it's good medicine for her.）
+216355	Masou Shizuka~		（まあこの子にはいい薬ね）	（Well, it's good medicine for her.）
 
-216356	Kentou Uzume	「しかし、姉上達は、	「However, Big Sisters,
-216357	+	　魔王の子を集めて魔王退治の旅、	　are gathering the Demon King's children
-216358	+	　でござるか……」	　to defeat the Demon King...?」
+216356	Kentou Uzume		「しかし、姉上達は、	「However, Big Sisters,
+216357	+		　魔王の子を集めて魔王退治の旅、	　are gathering the Demon King's children
+216358	+		　でござるか……」	　to defeat the Demon King...?」
 
-216359	Kentou Uzume	「さすが姉上殿、すっげーでござる！」	「As expected of Big Sis, amazing!」
+216359	Kentou Uzume		「さすが姉上殿、すっげーでござる！」	「As expected of Big Sis, amazing!」
 
-216360	Reset Kalar	「違う違う。	「No no.
-216361	+	　そうしようって言い出したのは、	　The one who suggested it wasn't me,」
-216362	+	　私じゃなくて……」	
+216360	Reset Kalar		「違う違う。	「No no.
+216361	+		　そうしようって言い出したのは、	　The one who suggested it wasn't me,」
+216362	+		　私じゃなくて……」	
 
-216363	El Mofus	「…………。」	「............」
+216363	El Mofus		「…………。」	「............」
 
-216364	Reset Kalar	「こっち。	「This one.
-216365	+	　こっちの＜エール＞ちゃん」	　＜エール＞-chan here.」
+216364	Reset Kalar		「こっち。	「This one.
+216365	+		　こっちの＜エール＞ちゃん」	　＜エール＞-chan here.」
 
-216366	Kentou Uzume	「おおっ！　まことにござるか！」	「Ohh! Is that true!」
+216366	Kentou Uzume		「おおっ！　まことにござるか！」	「Ohh! Is that true!」
 
-216367	Kentou Uzume	「＜エール＞殿はウズメの命の恩人の上、	「＜エール＞-dono is not only my lifesaver,
-216368	+	　そんなことまで考えて実行するなんて……」	　but also thinks of and does such things...」
+216367	Kentou Uzume		「＜エール＞殿はウズメの命の恩人の上、	「＜エール＞-dono is not only my lifesaver,
+216368	+		　そんなことまで考えて実行するなんて……」	　but also thinks of and does such things...」
 
-216369	Kentou Uzume	「…………」	「............」
+216369	Kentou Uzume		「…………」	「............」
 
-216370	Kentou Uzume	「うん！　決めた！」	「Yes! I've decided!」
+216370	Kentou Uzume		「うん！　決めた！」	「Yes! I've decided!」
 
-216371	Kentou Uzume	「ウズメ、忍びとして、	「As a ninja, Uzume
-216372	+	　＜エール＞殿を主君とするでござる！」	　shall serve ＜エール＞-dono as my lord!」
+216371	Kentou Uzume		「ウズメ、忍びとして、	「As a ninja, Uzume
+216372	+		　＜エール＞殿を主君とするでござる！」	　shall serve ＜エール＞-dono as my lord!」
 
-216373	Nagata-kun	「ええっ！？」	「Ehh!?」
+216373	Nagata-kun		「ええっ！？」	「Ehh!?」
 
-216374	Kentou Uzume	「ウズメ、今まで理想の主君を	「Uzume has been searching for the ideal lord
-216375	+	　ずーっと探していたでござるが……」	　for a long time...
+216374	Kentou Uzume		「ウズメ、今まで理想の主君を	「Uzume has been searching for the ideal lord
+216375	+		　ずーっと探していたでござるが……」	　for a long time...
 
-216376	Kentou Uzume	「これからは＜エール＞殿がウズメの主君！」	　From now on ＜エール＞-dono is Uzume's lord!」
+216376	Kentou Uzume		「これからは＜エール＞殿がウズメの主君！」	　From now on ＜エール＞-dono is Uzume's lord!」
 
-216377	Nagata-kun	「お、おお……	「O-Oh...
-216378	+	　なんかよく分からんが、	　I don't really get it,
-216379	+	　こりゃすごいことなんじゃないか？」	　but isn't this something amazing?」
+216377	Nagata-kun		「お、おお……	「O-Oh...
+216378	+		　なんかよく分からんが、	　I don't really get it,
+216379	+		　こりゃすごいことなんじゃないか？」	　but isn't this something amazing?」
 
-216380	Masou Shizuka	「ああ……	「Ahh...
-216381	+	　また始まった……」	　It's starting again...」
+216380	Masou Shizuka	ため息	「ああ……	「Ahh...
+216381	+		　また始まった……」	　It's starting again...」
 
-216382	Nagata-kun	「へ？　また？」	「Eh? Again?」
+216382	Nagata-kun	基本	「へ？　また？」	「Eh? Again?」
 
-216383	Masou Shizuka	「ウズメの遊びみたいなものよ……	「It's like Uzume's little game...
-216384	+	　これだと思った人を勝手に主君にして	　She picks someone she likes and declares them her lord
-216385	+	　仕えちゃうの……」	　on her own...」
+216383	Masou Shizuka		「ウズメの遊びみたいなものよ……	「It's like Uzume's little game...
+216384	+		　これだと思った人を勝手に主君にして	　She picks someone she likes and declares them her lord
+216385	+		　仕えちゃうの……」	　on her own...」
 
-216386	Kentou Uzume	「失礼な、遊びなんかじゃないでござるよ」	「How rude, it's not a game.」
+216386	Kentou Uzume		「失礼な、遊びなんかじゃないでござるよ」	「How rude, it's not a game.」
 
-216387	Reset Kalar	「あ、ちなみに私も主君だよー。	「Ah, by the way I'm also a lord~.
-216388	+	　お揃いお揃い」	　Matching lords.」
+216387	Reset Kalar		「あ、ちなみに私も主君だよー。	「Ah, by the way I'm also a lord~.
+216388	+		　お揃いお揃い」	　Matching lords.」
 
-216389	Nagi su Ragarl	「あと、ザンスに乱義……	「Also Zance and Rangi...
-216390	+	　兄弟だと他に誰だっけ？」	　Who else among the siblings?」
+216389	Nagi su Ragarl		「あと、ザンスに乱義……	「Also Zance and Rangi...
+216390	+		　兄弟だと他に誰だっけ？」	　Who else among the siblings?」
 
-216391	Nagata-kun	「って何人いんの！？」	「How many are there!?」
+216391	Nagata-kun		「って何人いんの！？」	「How many are there!?」
 
-216392	Kentou Uzume	「ういうい、ウズメはみんなの	「Uiuui, Uzume is everyone's
-216393	+	　下っ端でござるからして」	　underling.」
+216392	Kentou Uzume		「ういうい、ウズメはみんなの	「Uiuui, Uzume is everyone's
+216393	+		　下っ端でござるからして」	　underling.」
 
-216394	Kentou Uzume	「理想の主君を見つける為には、	「To find the ideal lord,
-216395	+	　有望そうな人にツバつけるのが	　marking promising people
-216396	+	　手っ取り早いでござる」	　is the fastest way.」
+216394	Kentou Uzume		「理想の主君を見つける為には、	「To find the ideal lord,
+216395	+		　有望そうな人にツバつけるのが	　marking promising people
+216396	+		　手っ取り早いでござる」	　is the fastest way.」
 
-216397	Nagi su Ragarl	「えー、私はー？	「Eh-, what about me-?
-216398	+	　主君任命されたことないよー？」	　I've never been appointed lord-?」
+216397	Nagi su Ragarl		「えー、私はー？	「Eh-, what about me-?
+216398	+		　主君任命されたことないよー？」	　I've never been appointed lord-?」
 
-216399	Kentou Uzume	「ナギちゃんは、なんてゆーか、	「Nagi-chan is, how to say,
-216400	+	　そーゆーんじゃねーでござるからして」	　not that type.」
+216399	Kentou Uzume		「ナギちゃんは、なんてゆーか、	「Nagi-chan is, how to say,
+216400	+		　そーゆーんじゃねーでござるからして」	　not that type.」
 
-216401	Kentou Uzume	「同じ理由でスシヌちゃん達も	「For the same reason Sushinu-chan and others
-216402	+	　ちょい違うでござる」	　are a bit different.」
+216401	Kentou Uzume		「同じ理由でスシヌちゃん達も	「For the same reason Sushinu-chan and others
+216402	+		　ちょい違うでござる」	　are a bit different.」
 
-216403	Kentou Uzume	「とにかく、忠実な忍びとして、	「Anyway, as a loyal ninja,
-216404	+	　これからよろしくでござる」	　please treat me well from now on.」
+216403	Kentou Uzume		「とにかく、忠実な忍びとして、	「Anyway, as a loyal ninja,
+216404	+		　これからよろしくでござる」	　please treat me well from now on.」
 
-216405	Kentou Uzume	「試用期間？　みたいな？」	「Probation period? Like that?」
+216405	Kentou Uzume		「試用期間？　みたいな？」	「Probation period? Like that?」
 
-216406	Kentou Uzume	「情報取ってこいとか、どっかに潜入してこいとか、	「Gather information, infiltrate somewhere,
-216407	+	　誰かを倒してこいとか、この鍵開けろとか――」	　defeat someone, open this lock--」
+216406	Kentou Uzume		「情報取ってこいとか、どっかに潜入してこいとか、	「Gather information, infiltrate somewhere,
+216407	+		　誰かを倒してこいとか、この鍵開けろとか――」	　defeat someone, open this lock--」
 
-216408	Kentou Uzume	「あとジュース買ってこいとか	「Also buy juice
-216409	+	　気軽に命令して欲しいでござる」	　and give me casual orders.」
+216408	Kentou Uzume		「あとジュース買ってこいとか	「Also buy juice
+216409	+		　気軽に命令して欲しいでござる」	　and give me casual orders.」
 
-216410	Nagata-kun	「……ぱしり？」	「...Errand runner?」
+216410	Nagata-kun		「……ぱしり？」	「...Errand runner?」
 
-216411	Kentou Uzume	「そうとも言うでござるな」	「That's one way to put it.」
+216411	Kentou Uzume		「そうとも言うでござるな」	「That's one way to put it.」
 
-216412	El Mofus	「…………。」	「............」
-216413	Kentou Uzume	「ういうい、ウズメにおまかせ！」	「Uiuui, leave it to Uzume!」
+216412	El Mofus		「…………。」	「............」
+216413	Kentou Uzume		「ういうい、ウズメにおまかせ！」	「Uiuui, leave it to Uzume!」
 
-216414	-	矢のようにウズメが森の中を駆け抜けていった。	Like an arrow, Uzume dashed through the forest.
+216414	-		矢のようにウズメが森の中を駆け抜けていった。	Like an arrow, Uzume dashed through the forest.
 
-216415	El Mofus	「…………。」	「............」
+216415	El Mofus		「…………。」	「............」
 
-216416	Reset Kalar	「…………」	「............」
+216416	Reset Kalar		「…………」	「............」
 
-216417	Nagata-kun	「…………」	「............」
+216417	Nagata-kun		「…………」	「............」
 
-216418	Kentou Uzume	「ただいまー。	「I'm back~.
-216419	+	　冷やし飴でオーケでござる？」	　Chilled candy is okay?」
+216418	Kentou Uzume		「ただいまー。	「I'm back~.
+216419	+		　冷やし飴でオーケでござる？」	　Chilled candy is okay?」
 
-216420	Nagata-kun	「はやっ！」	「So fast!」
+216420	Nagata-kun		「はやっ！」	「So fast!」
 
-216421	Kentou Uzume	「にょほほほほほ。	「Nyohohohoho.
-216422	+	　ウズメは有能なぱしりでござるからして」	　Uzume is a capable errand runner
+216421	Kentou Uzume	にょほほ	「にょほほほほほ。	「Nyohohohoho.
+216422	+		　ウズメは有能なぱしりでござるからして」	　Uzume is a capable errand runner
 
-216423	Kentou Uzume	「あ、そういうのは試用期間が終わったらでござる」	「Ah, that kind of thing is after the probation period.」
+216423	Kentou Uzume	基本	「あ、そういうのは試用期間が終わったらでござる」	「Ah, that kind of thing is after the probation period.」
 
-216424	Kentou Uzume	「さすがに真の主君以外にそーゆーのは……	「After all, doing that for anyone but the true lord...
-216425	+	　ウズメ照れちゃう」	　makes Uzume shy
+216424	Kentou Uzume		「さすがに真の主君以外にそーゆーのは……	「After all, doing that for anyone but the true lord...
+216425	+		　ウズメ照れちゃう」	　makes Uzume shy
 
-216426	Kentou Uzume	「それと、ウズメが殺したくない人の	「Also, assassination requests for people
-216427	+	　暗殺依頼もごめんねで」	　Uzume doesn't want to kill are no good
+216426	Kentou Uzume		「それと、ウズメが殺したくない人の	「Also, assassination requests for people
+216427	+		　暗殺依頼もごめんねで」	　Uzume doesn't want to kill are no good
 
-216428	Kentou Uzume	「それ以外はなんでもドンと来いでござる」	　Anything else, bring it on.」
+216428	Kentou Uzume		「それ以外はなんでもドンと来いでござる」	　Anything else, bring it on.」
 
 > male
-216429	Kentou Uzume	「それにしても最初にエッチなことを聞く辺り、	「By the way, asking about erotic things right away,
-216430	+	　我が主君はかなりエッチさんみたいでござるな」	　my lord seems quite perverted.」
+216429	Kentou Uzume		「それにしても最初にエッチなことを聞く辺り、	「By the way, asking about erotic things right away,
+216430	+		　我が主君はかなりエッチさんみたいでござるな」	　my lord seems quite perverted.」
 
-216431	Kentou Uzume	「うーーん……	「Uuuu...
-216432	+	　ウズメ、そういうの得意と違うから、	　Uzume isn't good at that kind of thing,
-216433	+	　ちょっと困っちゃうかもでござる」	　so it might be a bit troubling.」
+216431	Kentou Uzume	テレ	「うーーん……	「Uuuu...
+216432	+		　ウズメ、そういうの得意と違うから、	　Uzume isn't good at that kind of thing,
+216433	+		　ちょっと困っちゃうかもでござる」	　so it might be a bit troubling.」
 
-216434	Reset Kalar	「姉弟でそういう会話しないの！」	「Don't have those kinds of conversations between siblings!」
+216434	Reset Kalar	困り	「姉弟でそういう会話しないの！」	「Don't have those kinds of conversations between siblings!」
 
 > female
-216435	Kentou Uzume	「って、＜エール＞殿、	「By the way, ＜エール＞-dono,
-216436	+	　女の子同士がいいタイプ？」	　do you prefer girls?」
+216435	Kentou Uzume	基本	「って、＜エール＞殿、	「By the way, ＜エール＞-dono,
+216436	+		　女の子同士がいいタイプ？」	　do you prefer girls?」
 
-216437	Kentou Uzume	「ウズメ、経験はないけど、	「Uzume has no experience, but
-216438	+	　主君がどうしてもって言うなら……」	　if my lord really insists...」
+216437	Kentou Uzume	テレ	「ウズメ、経験はないけど、	「Uzume has no experience, but
+216438	+		　主君がどうしてもって言うなら……」	　if my lord really insists...」
 
-216439	Reset Kalar	「し、姉妹でえっちな会話しないの！」	「D-Don't have erotic conversations between sisters!」
+216439	Reset Kalar	憂い	「し、姉妹でえっちな会話しないの！」	「D-Don't have erotic conversations between sisters!」
 
 > end
-216440	Kentou Uzume	「よっ！　はっ！　ほっ！」	「Yo! Hah! Hoh!」
+216440	Kentou Uzume	基本	「よっ！　はっ！　ほっ！」	「Yo! Hah! Hoh!」
 
-216441	Nagata-kun	「ぎゃーーーす！？」	「Gyaaa!?」
+216441	Nagata-kun		「ぎゃーーーす！？」	「Gyaaa!?」
 
-216442	Nagata-kun	「ちょっ！？　	「Wait!?　
-216443	?	やめ！？　	Stop!?　
-216444	+	いやっ！？」	No!?」
+216442	Nagata-kun		「ちょっ！？　	「Wait!?　
+216443	?		やめ！？　	Stop!?　
+216444	+		いやっ！？」	No!?」
 
-216445	-	長田君の体がまるでお手玉のように	Nagata-kun's body was tossed
-216446	+	ポンポンと空中を舞う。	up and down in the air like a beanbag.
+216445	-		長田君の体がまるでお手玉のように	Nagata-kun's body was tossed
+216446	+		ポンポンと空中を舞う。	up and down in the air like a beanbag.
 
-216447	Kentou Uzume	「にょほほほ、	「Nyohohoho,
-216448	+	　新しい主君は面白い人でござるなー」	　my new lord is such an interesting person~
+216447	Kentou Uzume	にょほほ	「にょほほほ、	「Nyohohoho,
+216448	+		　新しい主君は面白い人でござるなー」	　my new lord is such an interesting person~
 
-216449	Reset Kalar	「下ろしてあげようよぉ……」	「Let's put him down...」
+216449	Reset Kalar	基本	「下ろしてあげようよぉ……」	「Let's put him down...」
 
-216450	Masou Shizuka	「ロッキーさんといい、長田君といい……	「Rocky-san and Nagata-kun...
-216451	+	　＜エール＞って、こう……	　＜エール＞ really attracts
-216452	+	　ああいうのに好かれるのかしら」	　that kind of people.」
+216450	Masou Shizuka	ため息	「ロッキーさんといい、長田君といい……	「Rocky-san and Nagata-kun...
+216451	+		　＜エール＞って、こう……	　＜エール＞ really attracts
+216452	+		　ああいうのに好かれるのかしら」	　that kind of people.」
 
-216453	Nagi su Ragarl	「ああいうの？」	「That kind?」
+216453	Nagi su Ragarl	基本	「ああいうの？」	「That kind?」
 
-216454	Masou Shizuka	「感激屋さん？」	「The easily moved type?」
+216454	Masou Shizuka		「感激屋さん？」	「The easily moved type?」
 
-216455	Nagi su Ragarl	「あ〜……」	「Ah~...」
+216455	Nagi su Ragarl	反省	「あ〜……」	「Ah~...」
 
-216456	Kentou Uzume	「とにもかくにも、便利な魔王の子のぱしり、	「Anyway, the convenient Demon King's child errand runner,
-216457	+	　カエルが苦手なウズメをよろしくでござる」	　Uzume who is bad with frogs, please treat me well.」
-216458	+	「ういういー」	「Uiuui~」
+216456	Kentou Uzume	基本	「とにもかくにも、便利な魔王の子のぱしり、	「Anyway, the convenient Demon King's child errand runner,
+216457	+		　カエルが苦手なウズメをよろしくでござる」	　Uzume who is bad with frogs, please treat me well.」
+216458	+		「ういういー」	「Uiuui~」
 
-216459	Kentou Uzume	「ぴえっ！？」	「Pyeh!?」
+216459	Kentou Uzume	泣き	「ぴえっ！？」	「Pyeh!?」
 
-216460	Kentou Uzume	「うにゃー！　カエルは駄目でござるー！」	「Unya~! Frogs are no good!」
+216460	Kentou Uzume	基本	「うにゃー！　カエルは駄目でござるー！」	「Unya~! Frogs are no good!」
 
-216461	Nagata-kun	「うわ、はやーっ！？	「Whoa, so fast!?
-216462	+	　鳴き真似だけでこれって	　Just imitating the cry causes this
-216463	+	　どんだけカエル苦手なの！？」	　how bad are you with frogs!?」
+216461	Nagata-kun		「うわ、はやーっ！？	「Whoa, so fast!?
+216462	+		　鳴き真似だけでこれって	　Just imitating the cry causes this
+216463	+		　どんだけカエル苦手なの！？」	　how bad are you with frogs!?」
 
-216464	Reset Kalar	「＜エール＞ちゃん、	「＜エール＞-chan,
-216465	+	　ウズメちゃんをいじめないの」	　don't bully Uzume-chan.」
+216464	Reset Kalar	不満	「＜エール＞ちゃん、	「＜エール＞-chan,
+216465	+		　ウズメちゃんをいじめないの」	　don't bully Uzume-chan.」
 
-216466	-	あなたに部下（仮）が出来た。	You gained a subordinate (provisional).
+216466	-		あなたに部下（仮）が出来た。	You gained a subordinate (provisional).

@@ -2,66 +2,66 @@
 * Copandon Dott	コパンドン	Female
 * Rance	ランス	Male
 
-58702	Copandon Dott	「どしたん？　ランス」	「What's up? Rance.」
+58702	Copandon Dott	基本	「どしたん？　ランス」	「What's up? Rance.」
 
-58703	-	ランスの呼び出しで、	Called by Rance,
-58704	+	コパ帝国都市長、コパンドン・ドットが現れた。	Copandon Dot, mayor of the Cop Empire, appeared.
+58703	-		ランスの呼び出しで、	Called by Rance,
+58704	+		コパ帝国都市長、コパンドン・ドットが現れた。	Copandon Dot, mayor of the Cop Empire, appeared.
 
-58705	Rance	「オホン。この軍には内通者がいる！	「Ahem. There is a spy in this army!
-58706	+	　愚かにも、このランス総統に逆らおう	　Foolishly trying to oppose Supreme Leader Rance,
-58707	+	　という手合いだ！」	　that's the kind of person!」
+58705	Rance	真剣	「オホン。この軍には内通者がいる！	「Ahem. There is a spy in this army!
+58706	+		　愚かにも、このランス総統に逆らおう	　Foolishly trying to oppose Supreme Leader Rance,
+58707	+		　という手合いだ！」	　that's the kind of person!」
 
-58708	Copandon Dott	「まさかっ……まさか、それがウチや言うんかっ！」	「No way... you're saying it's me!?」
+58708	Copandon Dott	驚き	「まさかっ……まさか、それがウチや言うんかっ！」	「No way... you're saying it's me!?」
 
-58709	Rance	「そうだ、ネタは挙がっている！	「Yes, the evidence is there!
-58710	+	　さっさと吐いた方が身のためだぞ！」	　Better confess quickly for your own good!」
+58709	Rance	怒り	「そうだ、ネタは挙がっている！	「Yes, the evidence is there!
+58710	+		　さっさと吐いた方が身のためだぞ！」	　Better confess quickly for your own good!」
 
-58711	Copandon Dott	「だって……あいつが……あいつが悪いねん！	「Because... that guy... that guy is bad!
-58712	+	　たこやき焼きのたこやきだけ	　He ate all the takoyaki from the takoyaki stall
-58713	+	　全部つまみ食いしよって……許せんかったんや！」	　by himself... I couldn't forgive him!」
+58711	Copandon Dott	ジト目	「だって……あいつが……あいつが悪いねん！	「Because... that guy... that guy is bad!
+58712	+		　たこやき焼きのたこやきだけ	　He ate all the takoyaki from the takoyaki stall
+58713	+		　全部つまみ食いしよって……許せんかったんや！」	　by himself... I couldn't forgive him!」
 
-58714	Rance	「それでこんな事をしたのか……	「So that's why you did this...
-58715	+	　哀しい事件だった……」	　What a sad incident...」
+58714	Rance	真剣	「それでこんな事をしたのか……	「So that's why you did this...
+58715	+		　哀しい事件だった……」	　What a sad incident...」
 
-58716	Copandon Dott	「うっ、うっ、刑事はん……うち……うち……」	「Uhh, uhh, detective... I... I...」
+58716	Copandon Dott	ため息	「うっ、うっ、刑事はん……うち……うち……」	「Uhh, uhh, detective... I... I...」
 
-58717	Rance	「……………って、何をやらせるか！」	「............ What the hell am I making you do!」
+58717	Rance	怒り	「……………って、何をやらせるか！」	「............ What the hell am I making you do!」
 
-58718	Copandon Dott	「なんや暇で遊びたいんかと思って」	「I thought you were bored and wanted to play.」
+58718	Copandon Dott	基本	「なんや暇で遊びたいんかと思って」	「I thought you were bored and wanted to play.」
 
-58719	Rance	「内通者がいるって話だっただろーが。	「We were talking about a spy, weren't we.
-58720	+	　それを俺様が見つけてやろうというのだ」	　I'm trying to find them for you.」
+58719	Rance	真剣	「内通者がいるって話だっただろーが。	「We were talking about a spy, weren't we.
+58720	+		　それを俺様が見つけてやろうというのだ」	　I'm trying to find them for you.」
 
-58721	Copandon Dott	「へ？　それ、ウチを疑ってるん？」	「Eh? Are you suspecting me?」
+58721	Copandon Dott	基本	「へ？　それ、ウチを疑ってるん？」	「Eh? Are you suspecting me?」
 
-58722	Rance	「…………考えてみたら、無いか」	「............ Now that I think about it, no.」
+58722	Rance		「…………考えてみたら、無いか」	「............ Now that I think about it, no.」
 
-58723	Copandon Dott	「自分で言うのも何やけど……	「Even if I say it myself...
-58724	+	　ウチだったら、もうちょっと手の込んだ仕掛けを	　If it was me, I'd make a more elaborate trap
-58725	+	　できると思うで？」	　I think.」
+58723	Copandon Dott	ため息	「自分で言うのも何やけど……	「Even if I say it myself...
+58724	+		　ウチだったら、もうちょっと手の込んだ仕掛けを	　If it was me, I'd make a more elaborate trap
+58725	+		　できると思うで？」	　I think.」
 
-58726	Rance	「うーん……それもそうだな……」	「Hmm... that's true...」
+58726	Rance	だる顔	「うーん……それもそうだな……」	「Hmm... that's true...」
 
-58727	Copandon Dott	「魔軍の密偵は来よったけどな。	「The Monster Army spy did come though.
-58728	+	　忙しいし、ちゃっちゃとしばいて追い払ったで」	　I was busy so I quickly beat them up and chased them off.」
+58727	Copandon Dott	基本	「魔軍の密偵は来よったけどな。	「The Monster Army spy did come though.
+58728	+		　忙しいし、ちゃっちゃとしばいて追い払ったで」	　I was busy so I quickly beat them up and chased them off.」
 
-58729	Rance	「……………………」	「........................」
+58729	Rance	真剣	「……………………」	「........................」
 
-58730	Copandon Dott	「どないしたん？」	「What's wrong?」
+58730	Copandon Dott	基本	「どないしたん？」	「What's wrong?」
 
-58731	Rance	「なんか、怪しい所がなさ過ぎて	「You're so not suspicious that
-58732	+	　逆に怪しく思えてきた」	　it makes you seem suspicious instead.」
+58731	Rance	だる顔	「なんか、怪しい所がなさ過ぎて	「You're so not suspicious that
+58732	+		　逆に怪しく思えてきた」	　it makes you seem suspicious instead.」
 
-58733	Copandon Dott	「なんでやねん」	「Why?」
+58733	Copandon Dott	ジト目	「なんでやねん」	「Why?」
 
-58734	Rance	「まあいい。じゃあ、誰が怪しいと思う？」	「Whatever. So, who do you think is suspicious?」
+58734	Rance	基本	「まあいい。じゃあ、誰が怪しいと思う？」	「Whatever. So, who do you think is suspicious?」
 
-58735	Copandon Dott	「うーーーーーーん…………難しいなぁ。	「Uuuuuum... it's hard.
-58736	+	　どいつもこいつも、やりかねんとは思うけど」	　I think any of them could do it.」
+58735	Copandon Dott	ため息	「うーーーーーーん…………難しいなぁ。	「Uuuuuum... it's hard.
+58736	+		　どいつもこいつも、やりかねんとは思うけど」	　I think any of them could do it.」
 
-58737	Rance	「そうだな……もう、美人以外はまとめて殺すか」	「Yeah... maybe just kill everyone except the beauties.」
+58737	Rance	真剣	「そうだな……もう、美人以外はまとめて殺すか」	「Yeah... maybe just kill everyone except the beauties.」
 
-58738	Copandon Dott	「けどまあ、強いて言うなら、	「But if I had to say,
-58739	+	　一番やりそうなのはジオのパパデマスちゃうか？」	　the most likely is Papademas from Geo.」
+58738	Copandon Dott	ため息	「けどまあ、強いて言うなら、	「But if I had to say,
+58739	+		　一番やりそうなのはジオのパパデマスちゃうか？」	　the most likely is Papademas from Geo.」
 
-58740	Rance	「あのおっさんか……」	「That old man...」
+58740	Rance	だる顔	「あのおっさんか……」	「That old man...」

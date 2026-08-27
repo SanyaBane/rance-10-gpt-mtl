@@ -3,41 +3,41 @@
 * Satella	サテラ	Female
 * Sill Plain	シィル	Female
 
-248304	Rance	「ワーグの所に行くぞ」	「We're going to meet Warg.」
+248304	Rance	基本	「ワーグの所に行くぞ」	「We're going to meet Warg.」
 
-248305	Satella	「ふふん、とーぜんだな」	「Hmph, of course.」
+248305	Satella	ふふん	「ふふん、とーぜんだな」	「Hmph, of course.」
 
-248306	Rance	「が、シィルの言うように	「But like Sill said,
-248307	+	　なんも準備なしってのもな……」	　going with no preparation at all...」
+248306	Rance	真剣	「が、シィルの言うように	「But like Sill said,
+248307	+		　なんも準備なしってのもな……」	　going with no preparation at all...」
 
-248308	Rance	「なんかワーグに対しての対策はないのか？」	「Is there any countermeasure against Warg?」
+248308	Rance		「なんかワーグに対しての対策はないのか？」	「Is there any countermeasure against Warg?」
 
-248309	Satella	「フェロモンだからな……	「It's pheromones so...
-248310	+	　出来るだけ呼吸しないようにするとか……」	　try to breathe as little as possible...」
+248309	Satella	基本	「フェロモンだからな……	「It's pheromones so...
+248310	+		　出来るだけ呼吸しないようにするとか……」	　try to breathe as little as possible...」
 
-248311	Satella	「いや、だがこれも気休めだな……」	「No, that's just a temporary measure...」
+248311	Satella	思考	「いや、だがこれも気休めだな……」	「No, that's just a temporary measure...」
 
-248312	Satella	「あとは……」	「Other than that...」
+248312	Satella		「あとは……」	「Other than that...」
 
-248313	Rance	「あとは？」	「Other than that?」
+248313	Rance	基本	「あとは？」	「Other than that?」
 
-248314	Satella	「こ、根性だ！	「I-it's guts!
-248315	+	　根性さえあれば眠ったりなんてしない！」	　If you have guts you won't fall asleep!」
+248314	Satella	ツンデレ	「こ、根性だ！	「I-it's guts!
+248315	+		　根性さえあれば眠ったりなんてしない！」	　If you have guts you won't fall asleep!」
 
-248316	Rance	「……そーな」	「...I see.」
+248316	Rance	だる顔	「……そーな」	「...I see.」
 
-248317	Satella	「な、サテラを馬鹿にしてるのか！？」	「Hey, are you making fun of Satella!?」
+248317	Satella	ツンデレ	「な、サテラを馬鹿にしてるのか！？」	「Hey, are you making fun of Satella!?」
 
-248318	Satella	「根性は大事なんだぞ！	「Guts are important!
-248319	+	　そうだろう、シィル！」	　Right, Sill!」
+248318	Satella		「根性は大事なんだぞ！	「Guts are important!
+248319	+		　そうだろう、シィル！」	　Right, Sill!」
 
-248320	Sill Plain	「は、はい！」	「Y-yes!」
+248320	Sill Plain	慌て	「は、はい！」	「Y-yes!」
 
-248321	Sill Plain	「こ、こんじょー！」	「G-guts!」
+248321	Sill Plain	苦笑	「こ、こんじょー！」	「G-guts!」
 
-248322	Satella	「ふふん、そうだ。	「Hmph, that's right.
-248323	+	　分かってるじゃないか」	　You get it.」
+248322	Satella	ふふん	「ふふん、そうだ。	「Hmph, that's right.
+248323	+		　分かってるじゃないか」	　You get it.」
 
-248324	Rance	「行くぞー」	「Let's goー」
+248324	Rance	基本	「行くぞー」	「Let's goー」
 
-248325	Satella	「あ、こら待て！　置いてくなー！」	「Ah, hey wait! Don't leave meー!」
+248325	Satella	あほー	「あ、こら待て！　置いてくなー！」	「Ah, hey wait! Don't leave meー!」

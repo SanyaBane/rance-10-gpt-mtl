@@ -5,70 +5,70 @@
 * Lilim	リリム	Female
 * Alcarria	アルカリア	Female
 
-120099	Rance	「おや？」	「Oh?」
+120099	Rance	基本	「おや？」	「Oh?」
 
-120100	Sill Plain	「あ、ランス様」	「Ah, Rance-sama.」
+120100	Sill Plain		「あ、ランス様」	「Ah, Rance-sama.」
 
-120101	Kanayo	「こんにちは、ランスさん」	「Hello, Rance-san.」
+120101	Kanayo		「こんにちは、ランスさん」	「Hello, Rance-san.」
 
-120102	-	ランスが加奈代の部屋に遊びに行くと、	When Rance visited Kanade's room,
-120103	+	先にシィルがいた。	Sill was already there.
+120102	-		ランスが加奈代の部屋に遊びに行くと、	When Rance visited Kanade's room,
+120103	+		先にシィルがいた。	Sill was already there.
 
-120104	Rance	「なんだ、いつの間に仲良くなったんだ？」	「What, when did you two get so close?」
+120104	Rance		「なんだ、いつの間に仲良くなったんだ？」	「What, when did you two get so close?」
 
-120105	Kanayo	「ちょっと前からですね〜。	「A while ago~.
-120106	+	　この城に来るにあたって、	　When I came to this castle,
-120107	+	　シィルちゃんには色々とよくして頂いてたので〜」	　Sill-chan helped me with a lot of things~」
+120105	Kanayo		「ちょっと前からですね〜。	「A while ago~.
+120106	+		　この城に来るにあたって、	　When I came to this castle,
+120107	+		　シィルちゃんには色々とよくして頂いてたので〜」	　Sill-chan helped me with a lot of things~」
 
-120108	Kanayo	「それに……」	「Besides...
+120108	Kanayo		「それに……」	「Besides...
 
-120109	Kanayo	「シィルちゃん、可愛いから、	　Sill-chan is so cute,
-120110	+	　私がすっかり気に入ってしまって」	　I completely fell for her.」
+120109	Kanayo		「シィルちゃん、可愛いから、	　Sill-chan is so cute,
+120110	+		　私がすっかり気に入ってしまって」	　I completely fell for her.」
 
-120111	Rance	「はあ？」	「Ha?」
+120111	Rance	真剣	「はあ？」	「Ha?」
 
-120112	Rance	「そうかぁ？」	「Is that so?」
+120112	Rance		「そうかぁ？」	「Is that so?」
 
-120113	Sill Plain	「くすん……ひどい……」	「Sob... that's mean...」
+120113	Sill Plain	恥	「くすん……ひどい……」	「Sob... that's mean...」
 
-120114	Kanayo	「うふふ、可愛いですよ〜」	「Ufufu, you're adorable~」
+120114	Kanayo	笑顔	「うふふ、可愛いですよ〜」	「Ufufu, you're adorable~」
 
-120115	Kanayo	「性格も見た目もとっても可愛い」	「Both your personality and appearance are so cute.」
+120115	Kanayo		「性格も見た目もとっても可愛い」	「Both your personality and appearance are so cute.」
 
-120116	Sill Plain	「あう……	「Auu...
-120117	+	　て、照れちゃいます……」	　I-I'm getting embarrassed...」
+120116	Sill Plain	基本	「あう……	「Auu...
+120117	+		　て、照れちゃいます……」	　I-I'm getting embarrassed...」
 
-120118	Rance	「ふーん、よく分からん」	「Hmm, I don't really get it.」
+120118	Rance		「ふーん、よく分からん」	「Hmm, I don't really get it.」
 
-120119	Lilim	「少し……	「A little...
-120120	+	　気をつけた方がいいかも」	　You should be careful.」
+120119	Lilim		「少し……	「A little...
+120120	+		　気をつけた方がいいかも」	　You should be careful.」
 
-120121	Rance	「お、なんだ、ちびメイドコンビ。	「Oh, it's the short maid duo.
-120122	+	　気をつけた方が、ってのは」	　What do you mean by careful?」
+120121	Rance		「お、なんだ、ちびメイドコンビ。	「Oh, it's the short maid duo.
+120122	+		　気をつけた方が、ってのは」	　What do you mean by careful?」
 
-120123	Alcarria	「うーん、加奈代さんは、なんていうかぁ」	「Umm, Kanade-san is, how should I say...」
+120123	Alcarria		「うーん、加奈代さんは、なんていうかぁ」	「Umm, Kanade-san is, how should I say...」
 
-120124	Lilim	「女性の方が好きなんです」	「She prefers women.」
+120124	Lilim		「女性の方が好きなんです」	「She prefers women.」
 
-120125	Rance	「ん？　なんのこっちゃ？」	「Hm? What does that mean?」
+120125	Rance		「ん？　なんのこっちゃ？」	「Hm? What does that mean?」
 
-120126	Alcarria	「言葉通りですよー。	「Exactly as it sounds.
-120127	+	　男性よりも女性の方が好き、なんです」	　She likes women more than men.」
+120126	Alcarria		「言葉通りですよー。	「Exactly as it sounds.
+120127	+		　男性よりも女性の方が好き、なんです」	　She likes women more than men.」
 
-120128	Rance	「…………」	「............」
+120128	Rance		「…………」	「............」
 
-120129	Rance	「え、レズ？」	「Eh, lesbian?」
+120129	Rance		「え、レズ？」	「Eh, lesbian?」
 
-120130	-	リリムはそっと頷いた。	Lilim nodded quietly.
+120130	-		リリムはそっと頷いた。	Lilim nodded quietly.
 
-120131	Sill Plain	「ええっ！？」	「Eeeh!?」
+120131	Sill Plain	慌て	「ええっ！？」	「Eeeh!?」
 
-120132	Kanayo	「うふふ〜、だって女の子の方が、	「Ufufu~, girls are so soft and fluffy,
-120133	+	　ふわふわ柔らかくていいじゃないですか〜♪」	　it's wonderful, isn't it~♪」
+120132	Kanayo	笑顔	「うふふ〜、だって女の子の方が、	「Ufufu~, girls are so soft and fluffy,
+120133	+		　ふわふわ柔らかくていいじゃないですか〜♪」	　it's wonderful, isn't it~♪」
 
-120134	Kanayo	「ま、相手の許可なく襲うようなことは、	「Well, I would never assault someone without permission,
-120135	+	　ぜーったいにしないので安心して下さい」	　so please rest assured.」
+120134	Kanayo	基本	「ま、相手の許可なく襲うようなことは、	「Well, I would never assault someone without permission,
+120135	+		　ぜーったいにしないので安心して下さい」	　so please rest assured.」
 
-120136	Rance	「君、シィルに近づくの禁止」	「You are forbidden from approaching Sill.」
+120136	Rance		「君、シィルに近づくの禁止」	「You are forbidden from approaching Sill.」
 
-120137	Kanayo	「ええーっ……ひどいです……」	「Eeeh... that's so mean...」
+120137	Kanayo		「ええーっ……ひどいです……」	「Eeeh... that's so mean...」

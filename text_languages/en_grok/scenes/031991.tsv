@@ -3,156 +3,156 @@
 * Silky Littleraisin	シルキィ	Female
 * Satella	サテラ	Female
 
-115509	-	ランスとシルキィが連れ立ってCITYを歩いていた。	Rance and Silky walked together through the city.
+115509	-		ランスとシルキィが連れ立ってCITYを歩いていた。	Rance and Silky walked together through the city.
 
-115510	Rance	「で、あっちが酒場。	「So, that's the tavern over there.
-115511	+	　あの大吉って書いてあるのがコパの商会。	　The one with Daikichi written on it is Copandon's shop.
-115512	+	　迷ったらあれを目印にしたらいい」	　If you get lost, use that as a landmark.」
+115510	Rance	基本	「で、あっちが酒場。	「So, that's the tavern over there.
+115511	+		　あの大吉って書いてあるのがコパの商会。	　The one with Daikichi written on it is Copandon's shop.
+115512	+		　迷ったらあれを目印にしたらいい」	　If you get lost, use that as a landmark.」
 
-115513	Silky Littleraisin	「ふんふん。	「Hmm hmm.
-115514	+	　うん、大まかには分かったわ」	　Yeah, I roughly understand.」
+115513	Silky Littleraisin	非武装	「ふんふん。	「Hmm hmm.
+115514	+		　うん、大まかには分かったわ」	　Yeah, I roughly understand.」
 
-115515	Silky Littleraisin	「それにしても……	「Still though......
-115516	+	　まさか総統閣下御自らに、	　I never thought the Supreme Leader himself
-115517	+	　街の案内をしてもらえるなんて思わなかったわ」	　would personally show me around the city.」
+115515	Silky Littleraisin		「それにしても……	「Still though......
+115516	+		　まさか総統閣下御自らに、	　I never thought the Supreme Leader himself
+115517	+		　街の案内をしてもらえるなんて思わなかったわ」	　would personally show me around the city.」
 
-115518	Silky Littleraisin	「私はありがたいけど……	「I'm grateful but......
-115519	+	　仕事は良かったの？」	　was it okay to leave your work?」
+115518	Silky Littleraisin		「私はありがたいけど……	「I'm grateful but......
+115519	+		　仕事は良かったの？」	　was it okay to leave your work?」
 
-115520	Rance	「がははは、オーケオーケ！	「Gahahaha, okay okay!
-115521	+	　美女の頼みは断れないのだ！」	　I can't refuse a beauty's request!」
+115520	Rance	笑顔	「がははは、オーケオーケ！	「Gahahaha, okay okay!
+115521	+		　美女の頼みは断れないのだ！」	　I can't refuse a beauty's request!」
 
-115522	Silky Littleraisin	「いや、貴方が勝手に案内をするって	「No, I think you just decided to guide me
-115523	+	　言い出しただけだったと思うけど……」	　on your own......」
+115522	Silky Littleraisin	非武装	「いや、貴方が勝手に案内をするって	「No, I think you just decided to guide me
+115523	+		　言い出しただけだったと思うけど……」	　on your own......」
 
-115524	Silky Littleraisin	「まあ、なんにしても嬉しいわ。	「Well, either way I'm happy.
-115525	+	　ありがとう」	　Thank you.」
+115524	Silky Littleraisin		「まあ、なんにしても嬉しいわ。	「Well, either way I'm happy.
+115525	+		　ありがとう」	　Thank you.」
 
-115526	Silky Littleraisin	「それにしても……」	「Still though......
+115526	Silky Littleraisin		「それにしても……」	「Still though......
 
-115527	Silky Littleraisin	「貴方はどうしたの？」	「What about you?」
+115527	Silky Littleraisin		「貴方はどうしたの？」	「What about you?」
 
-115528	Satella	「ふえっ！？」	「Fueh!?」
+115528	Satella	超テレ	「ふえっ！？」	「Fueh!?」
 
-115529	Silky Littleraisin	「そんなに私と総統が	「Are you that bothered
-115530	+	　デートに行くの気になったの？」	　that the Supreme Leader and I are going on a date?」
+115529	Silky Littleraisin	非武装	「そんなに私と総統が	「Are you that bothered
+115530	+		　デートに行くの気になったの？」	　that the Supreme Leader and I are going on a date?」
 
-115531	Satella	「でっ！？」	「Deh!?」
+115531	Satella	超テレ	「でっ！？」	「Deh!?」
 
-115532	Satella	「ちちち、ちがっ！　そんなわけあるか！」	「N-n-no! Of course not!」
+115532	Satella	ツンデレ	「ちちち、ちがっ！　そんなわけあるか！」	「N-n-no! Of course not!」
 
-115533	Satella	「さ、サテラは監視に来たんだ！」	「S-Satella came to monitor!」
+115533	Satella		「さ、サテラは監視に来たんだ！」	「S-Satella came to monitor!」
 
-115534	Satella	「ランスのことだからな！	「Because it's Rance!
-115535	+	　何か変なことをシルキィに企むに決まってる！	　He's definitely plotting something weird with Silky!
-115536	+	　そんなことをさせない為に来たんだ！」	　I came to stop that!」
+115534	Satella	ふふん	「ランスのことだからな！	「Because it's Rance!
+115535	+		　何か変なことをシルキィに企むに決まってる！	　He's definitely plotting something weird with Silky!
+115536	+		　そんなことをさせない為に来たんだ！」	　I came to stop that!」
 
-115537	Silky Littleraisin	「ふーん？」	「Hmm~?」
+115537	Silky Littleraisin	非武装／笑顔	「ふーん？」	「Hmm~?」
 
-115538	Satella	「…………」	「............」
+115538	Satella	基本	「…………」	「............」
 
-115539	Silky Littleraisin	「へー……」	「Hee......」
+115539	Silky Littleraisin	非武装／笑顔	「へー……」	「Hee......」
 
-115540	Satella	「な、なんだ」	「W-what?」
+115540	Satella	基本	「な、なんだ」	「W-what?」
 
-115541	Silky Littleraisin	「ふふっ……」	「Fufu......」
+115541	Silky Littleraisin	非武装／笑顔	「ふふっ……」	「Fufu......」
 
-115542	Satella	「だから、なんだ！？」	「So what is it!?」
+115542	Satella	ツンデレ	「だから、なんだ！？」	「So what is it!?」
 
-115543	Silky Littleraisin	「ううん、なんでもないわ」	「Nothing at all.」
+115543	Silky Littleraisin	非武装	「ううん、なんでもないわ」	「Nothing at all.」
 
-115544	Satella	「なら、そのニヤニヤ顔をやめろ！」	「Then stop smirking like that!」
+115544	Satella	超テレ	「なら、そのニヤニヤ顔をやめろ！」	「Then stop smirking like that!」
 
-115545	Rance	「仲がいいなあ」	「You two are close.」
+115545	Rance	基本	「仲がいいなあ」	「You two are close.」
 
-115546	Silky Littleraisin	「ええ、まあ付き合いも長いからね」	「Yes, we've known each other for a long time.」
+115546	Silky Littleraisin	非武装	「ええ、まあ付き合いも長いからね」	「Yes, we've known each other for a long time.」
 
-115547	Silky Littleraisin	「それに……」	「Besides......
+115547	Silky Littleraisin	非武装／目閉じ	「それに……」	「Besides......
 
-115548	-	シルキィが背伸びして、そっと耳打ちした。	Silky stood on her toes and whispered softly.
+115548	-		シルキィが背伸びして、そっと耳打ちした。	Silky stood on her toes and whispered softly.
 
-115549	Silky Littleraisin	「サテラって、	「Satella,
-115550	+	　放っておけないとこあるでしょ？」	　has parts that make you want to look after her, right?」
+115549	Silky Littleraisin	非武装	「サテラって、	「Satella,
+115550	+		　放っておけないとこあるでしょ？」	　has parts that make you want to look after her, right?」
 
-115551	Rance	「まあ……分からなくはない」	「Well... I can see that.」
+115551	Rance	基本	「まあ……分からなくはない」	「Well... I can see that.」
 
-115552	Satella	「……なんの話だ？」	「...What are you talking about?」
+115552	Satella	不安	「……なんの話だ？」	「...What are you talking about?」
 
-115553	Silky Littleraisin	「ふふ、別にー」	「Fufu, nothing~」
+115553	Silky Littleraisin	非武装／笑顔	「ふふ、別にー」	「Fufu, nothing~」
 
-115554	Silky Littleraisin	「あ、ごめんなさい、ちょっと……」	「Ah, excuse me for a moment......」
+115554	Silky Littleraisin	非武装	「あ、ごめんなさい、ちょっと……」	「Ah, excuse me for a moment......」
 
-115555	-	シルキィが小走りでどこかへ駆けていく。	Silky trotted off somewhere.
+115555	-		シルキィが小走りでどこかへ駆けていく。	Silky trotted off somewhere.
 
-115556	Rance	「ああ、迷子を見つけたのか……」	「Ah, she found a lost child......」
+115556	Rance	基本	「ああ、迷子を見つけたのか……」	「Ah, she found a lost child......」
 
-115557	-	シルキィは子供に視線を合わせて、	Silky made eye contact with the child,
-115558	+	何かを頷きながら聞いていた。	and nodded while listening.
+115557	-		シルキィは子供に視線を合わせて、	Silky made eye contact with the child,
+115558	+		何かを頷きながら聞いていた。	and nodded while listening.
 
-115559	Rance	「ふーん、優しいなぁ、シルキィちゃん」	「Hmm, how kind, Silky-chan.」
+115559	Rance		「ふーん、優しいなぁ、シルキィちゃん」	「Hmm, how kind, Silky-chan.」
 
-115560	Satella	「当然だ」	「Of course.」
+115560	Satella		「当然だ」	「Of course.」
 
-115561	Satella	「シルキィが無茶な戦いを続けてきたのも、	「The reason Silky kept fighting recklessly
-115562	+	　その優しさ故……」	　was because of that kindness......」
+115561	Satella	思考	「シルキィが無茶な戦いを続けてきたのも、	「The reason Silky kept fighting recklessly
+115562	+		　その優しさ故……」	　was because of that kindness......」
 
-115563	Satella	「本来なら、魔人として人間に嫌われるんじゃなく、	「Originally, instead of being hated by humans as a Fiend,
-115564	+	　歴史の英雄として銅像でも建ってないと	　she should have a statue built as a hero of history
-115565	+	　おかしいような奴だぞ」	　or something like that.」
+115563	Satella	不安	「本来なら、魔人として人間に嫌われるんじゃなく、	「Originally, instead of being hated by humans as a Fiend,
+115564	+		　歴史の英雄として銅像でも建ってないと	　she should have a statue built as a hero of history
+115565	+		　おかしいような奴だぞ」	　or something like that.」
 
-115566	Satella	「……馬鹿なんだよ、あいつは」	「...She's an idiot.」
+115566	Satella		「……馬鹿なんだよ、あいつは」	「...She's an idiot.」
 
-115567	Silky Littleraisin	「いやぁ……銅像はいらないわね……」	「No... I don't need a statue......」
+115567	Silky Littleraisin	非武装	「いやぁ……銅像はいらないわね……」	「No... I don't need a statue......」
 
-115568	Silky Littleraisin	「それよりも、	「Rather than that,
-115569	+	　笑っていてくれた方が嬉しいわ」	　I'd rather see everyone smiling.」
+115568	Silky Littleraisin		「それよりも、	「Rather than that,
+115569	+		　笑っていてくれた方が嬉しいわ」	　I'd rather see everyone smiling.」
 
-115570	Silky Littleraisin	「その為に戦ってたんですもの」	「That's why I fought.」
+115570	Silky Littleraisin		「その為に戦ってたんですもの」	「That's why I fought.」
 
-115571	Satella	「ふんっ、わけの分からないことばかり。	「Hmph, always saying incomprehensible things.
-115572	+	　シルキィのそういうとこ嫌いだ」	　I hate that part of Silky.」
+115571	Satella	思考	「ふんっ、わけの分からないことばかり。	「Hmph, always saying incomprehensible things.
+115572	+		　シルキィのそういうとこ嫌いだ」	　I hate that part of Silky.」
 
-115573	Silky Littleraisin	「ふふ、そう？」	「Fufu, really?」
+115573	Silky Littleraisin	非武装／笑顔	「ふふ、そう？」	「Fufu, really?」
 
-115574	Silky Littleraisin	「本当に分からないのかしら、ね？」	「Do you really not understand?」
+115574	Silky Littleraisin		「本当に分からないのかしら、ね？」	「Do you really not understand?」
 
-115575	Satella	「なんのこっちゃ？」	「What are you on about?」
+115575	Satella	基本	「なんのこっちゃ？」	「What are you on about?」
 
-115576	Silky Littleraisin	「別にー、なんでもないわ」	「Nothing at all.」
+115576	Silky Littleraisin	非武装	「別にー、なんでもないわ」	「Nothing at all.」
 
-115577	Rance	「しかし、俺も意外だったな」	「Still, I was surprised too.」
+115577	Rance	基本	「しかし、俺も意外だったな」	「Still, I was surprised too.」
 
-115578	Rance	「戦場で会っていたあのデカブツが、	「That huge figure I met on the battlefield
-115579	+	　実物はこんな小っこいとは……」	　is actually this small......」
+115578	Rance		「戦場で会っていたあのデカブツが、	「That huge figure I met on the battlefield
+115579	+		　実物はこんな小っこいとは……」	　is actually this small......」
 
-115580	Rance	「口調なんかも全然違うしな」	「Even her way of speaking is completely different.」
+115580	Rance		「口調なんかも全然違うしな」	「Even her way of speaking is completely different.」
 
-115581	Silky Littleraisin	「ああ、あれは意識的に切り替えてるのよ。	「Yes, I switch that on purpose.
-115582	+	　武人としての私、平常時の私、って……」	　The warrior me and the normal me......
+115581	Silky Littleraisin	非武装	「ああ、あれは意識的に切り替えてるのよ。	「Yes, I switch that on purpose.
+115582	+		　武人としての私、平常時の私、って……」	　The warrior me and the normal me......
 
-115583	Silky Littleraisin	「戦場は……辛い場所だから……」	「The battlefield... is a painful place......」
+115583	Silky Littleraisin		「戦場は……辛い場所だから……」	「The battlefield... is a painful place......」
 
-115584	Rance	「ふーん、なんか色々とあるようだ」	「Hmm, seems like there's a lot going on.」
+115584	Rance	基本	「ふーん、なんか色々とあるようだ」	「Hmm, seems like there's a lot going on.」
 
-115585	Rance	「サテラに対してちょっと	「It's surprising how you act a bit
-115586	+	　姉っぽい雰囲気なのも意外だった」	　like an older sister toward Satella too.」
+115585	Rance		「サテラに対してちょっと	「It's surprising how you act a bit
+115586	+		　姉っぽい雰囲気なのも意外だった」	　like an older sister toward Satella too.」
 
-115587	Silky Littleraisin	「それは私がというより……	「It's less about me and more...
-115588	+	　ほら、サテラが、ね……	　Well, because Satella is...
-115589	+	　こういう子だから周りも自然と……」	　that kind of girl, so people naturally......」
+115587	Silky Littleraisin	非武装	「それは私がというより……	「It's less about me and more...
+115588	+		　ほら、サテラが、ね……	　Well, because Satella is...
+115589	+		　こういう子だから周りも自然と……」	　that kind of girl, so people naturally......」
 
-115590	Rance	「なるほど……」	「I see......」
+115590	Rance	基本	「なるほど……」	「I see......」
 
-115591	Satella	「なんか失礼なこと言ってないかー！？」	「Aren't you saying something rude!?」
+115591	Satella	ツンデレ	「なんか失礼なこと言ってないかー！？」	「Aren't you saying something rude!?」
 
-115592	Silky Littleraisin	「はいはい、怒らないの。	「Yes yes, don't get mad.
-115593	+	　アイスクリームおごってあげるから」	　I'll treat you to ice cream.」
+115592	Silky Littleraisin	非武装	「はいはい、怒らないの。	「Yes yes, don't get mad.
+115593	+		　アイスクリームおごってあげるから」	　I'll treat you to ice cream.」
 
-115594	Satella	「子供扱いするなー！」	「Don't treat me like a child!」
+115594	Satella	ツンデレ	「子供扱いするなー！」	「Don't treat me like a child!」
 
-115595	Satella	「ふんっ、シルキィのそういうとこ嫌いだ！」	「Hmph, I hate that part of Silky!」
+115595	Satella	不安	「ふんっ、シルキィのそういうとこ嫌いだ！」	「Hmph, I hate that part of Silky!」
 
-115596	Silky Littleraisin	「ふふ、はいはい」	「Fufu, yes yes.」
+115596	Silky Littleraisin	非武装／笑顔	「ふふ、はいはい」	「Fufu, yes yes.」
 
-115597	-	平和の中にあって、	In the midst of peace,
-115598	+	シルキィは朗らかに笑っていた。	Silky laughed brightly.
+115597	-		平和の中にあって、	In the midst of peace,
+115598	+		シルキィは朗らかに笑っていた。	Silky laughed brightly.

@@ -4,214 +4,214 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-141070	Kaybwan	「は、はーーーーっ！？	「Ha, haaaaah!?」
-141071	+	　もういっぺん言ってみろわん！」	　Say that again!」
+141070	Kaybwan	基本	「は、はーーーーっ！？	「Ha, haaaaah!?」
+141071	+		　もういっぺん言ってみろわん！」	　Say that again!」
 
-141072	-	この辺り一帯の魔物兵を指揮していた	Kaybwan, who commanded the monster soldiers in this area,
-141073	+	ケイブワンが魔物兵と何ごとか揉めていた。	was arguing with them.
+141072	-		この辺り一帯の魔物兵を指揮していた	Kaybwan, who commanded the monster soldiers in this area,
+141073	+		ケイブワンが魔物兵と何ごとか揉めていた。	was arguing with them.
 
-141074	Green Monster Soldier	「で、ですから、人間が攻めてきたんです！	「That's why, humans have attacked!
-141075	+	　この魔王城に！」	　This Demon King Castle!」
+141074	Green Monster Soldier		「で、ですから、人間が攻めてきたんです！	「That's why, humans have attacked!
+141075	+		　この魔王城に！」	　This Demon King Castle!」
 
-141076	Kaybwan	「そんなことあるわけないわん！	「That's impossible!
-141077	+	　なんだって人間がこんな場所まで……」	　Why would humans come to a place like this...」
+141076	Kaybwan		「そんなことあるわけないわん！	「That's impossible!
+141077	+		　なんだって人間がこんな場所まで……」	　Why would humans come to a place like this...」
 
-141078	Kaybwan	「ワンは宴会用のご飯を食べるのに忙しいわん、	「I'm busy eating food for the banquet,
-141079	+	　人間なんぞお前らだけでどうにかなさい」	　Handle humans yourselves.」
+141078	Kaybwan		「ワンは宴会用のご飯を食べるのに忙しいわん、	「I'm busy eating food for the banquet,
+141079	+		　人間なんぞお前らだけでどうにかなさい」	　Handle humans yourselves.」
 
-141080	Green Monster Soldier	「そ、その宴会のせいで戦闘に出られない	「B-because of that banquet, many soldiers
-141081	+	　兵が沢山おりまして、その……」	　can't join the fight...」
+141080	Green Monster Soldier		「そ、その宴会のせいで戦闘に出られない	「B-because of that banquet, many soldiers
+141081	+		　兵が沢山おりまして、その……」	　can't join the fight...」
 
-141082	Kaybwan	「人間の強さなんてたかが知れてるわ。	「Humans aren't that strong.
-141083	+	　少ない兵でも充分でしょ？	　Even with few soldiers it should be enough, right?
-141084	+	　なに？　敵の数は？」	　What? How many enemies?」
+141082	Kaybwan		「人間の強さなんてたかが知れてるわ。	「Humans aren't that strong.
+141083	+		　少ない兵でも充分でしょ？	　Even with few soldiers it should be enough, right?
+141084	+		　なに？　敵の数は？」	　What? How many enemies?」
 
-141085	Green Monster Soldier	「は、はあ……百人足らずですが……」	「U-um... Less than a hundred...」
+141085	Green Monster Soldier		「は、はあ……百人足らずですが……」	「U-um... Less than a hundred...」
 
-141086	Kaybwan	「ほら、やっぱり充分じゃないの。	「See, it's more than enough.
-141087	+	　馬鹿なことで手を煩わせないでちょうだい。	　Don't bother me with stupid things.
-141088	+	　もぐもぐ……」	　Munch munch...」
+141086	Kaybwan	講釈たれ	「ほら、やっぱり充分じゃないの。	「See, it's more than enough.
+141087	+		　馬鹿なことで手を煩わせないでちょうだい。	　Don't bother me with stupid things.
+141088	+		　もぐもぐ……」	　Munch munch...」
 
-141089	Green Monster Soldier	「い、いえ、それがとんでもない強さで……	「N-no, they are incredibly strong...
-141090	+	　それに連中、どうもホーネット派まで	　And they seem to be calling themselves the Hornet faction,
-141091	+	　名乗っているようでもう何が何やら……」	　I don't know what's going on anymore...」
+141089	Green Monster Soldier	基本	「い、いえ、それがとんでもない強さで……	「N-no, they are incredibly strong...
+141090	+		　それに連中、どうもホーネット派まで	　And they seem to be calling themselves the Hornet faction,
+141091	+		　名乗っているようでもう何が何やら……」	　I don't know what's going on anymore...」
 
-141092	Kaybwan	「はあ？　ホーネット派ァ？」	「Haa? Hornet faction?」
+141092	Kaybwan		「はあ？　ホーネット派ァ？」	「Haa? Hornet faction?」
 
-141093	Kaybwan	「ふん、それこそありえないわん」	「Hmph, that's impossible.」
+141093	Kaybwan	ニヤリ	「ふん、それこそありえないわん」	「Hmph, that's impossible.」
 
-141094	Kaybwan	「ホーネット派の残党は	「We just wiped out the Hornet faction remnants
-141095	+	　こないだ全滅させたばかりじゃないの」	　the other day.」
+141094	Kaybwan		「ホーネット派の残党は	「We just wiped out the Hornet faction remnants
+141095	+		　こないだ全滅させたばかりじゃないの」	　the other day.」
 
-141096	Kaybwan	「ホーネットを救出に来たなら、	「If they came to rescue Hornet,
-141097	+	　戦力を結集させて攻め込むのが常套手段。	　the standard tactic would be to gather forces and attack.
-141098	+	　わざわざ分断して攻める意味なんて――」	　There's no point in splitting up to attack――」
+141096	Kaybwan	講釈たれ	「ホーネットを救出に来たなら、	「If they came to rescue Hornet,
+141097	+		　戦力を結集させて攻め込むのが常套手段。	　the standard tactic would be to gather forces and attack.
+141098	+		　わざわざ分断して攻める意味なんて――」	　There's no point in splitting up to attack――」
 
-141099	Kaybwan	「…………」	「............」
+141099	Kaybwan		「…………」	「............」
 
-141100	Green Monster Soldier	「……？　ケイブワン様？」	「...？ Kaybwan-sama?」
+141100	Green Monster Soldier	基本	「……？　ケイブワン様？」	「...？ Kaybwan-sama?」
 
-141101	-	ケイブワンの口内で骨が噛み砕かれた。	A bone was crushed in Kaybwan's mouth.
+141101	-		ケイブワンの口内で骨が噛み砕かれた。	A bone was crushed in Kaybwan's mouth.
 
-141102	Green Monster Soldier	「ヒッ！？」	「Hii!?」
+141102	Green Monster Soldier		「ヒッ！？」	「Hii!?」
 
-141103	Kaybwan	「や、やられた――ッ！」	「W-we've been had――!」
+141103	Kaybwan		「や、やられた――ッ！」	「W-we've been had――!」
 
-141104	Kaybwan	「あの5万のホーネット派残党……	「That 50,000 Hornet faction remnant...
-141105	+	　あれは大規模な囮わん……！」	　was a massive diversion...!」
+141104	Kaybwan		「あの5万のホーネット派残党……	「That 50,000 Hornet faction remnant...
+141105	+		　あれは大規模な囮わん……！」	　was a massive diversion...!」
 
-141106	Kaybwan	「残党が死んだと油断したワン達に	「While we let our guard down thinking the remnants were dead,
-141107	+	　主力部隊がドカーン！」	　the main force struck!」
+141106	Kaybwan		「残党が死んだと油断したワン達に	「While we let our guard down thinking the remnants were dead,
+141107	+		　主力部隊がドカーン！」	　the main force struck!」
 
-141108	Kaybwan	「うげっ……見事に引っかかってるわんこれ……」	「Ugh... We fell for it completely...」
+141108	Kaybwan		「うげっ……見事に引っかかってるわんこれ……」	「Ugh... We fell for it completely...」
 
-141109	Green Monster Soldier	「あ、あわわ……どういたしますか……」	「U-um... What should we do...」
+141109	Green Monster Soldier		「あ、あわわ……どういたしますか……」	「U-um... What should we do...」
 
-141110	Kaybwan	「と、とにかくすぐにホーネットを	「A-anyway, we need to transport Hornet right now!
-141111	+	　移送するべきわん！	　Otherwise it'll be too late!」
-141112	+	　じゃないと間に合わなくなるわん！」	
+141110	Kaybwan		「と、とにかくすぐにホーネットを	「A-anyway, we need to transport Hornet right now!
+141111	+		　移送するべきわん！	　Otherwise it'll be too late!」
+141112	+		　じゃないと間に合わなくなるわん！」	
 
-141113	Kaybwan	「えーとえーと、それから沢山兵も呼んで……」	「Um um, and call lots of soldiers too...」
+141113	Kaybwan	講釈たれ	「えーとえーと、それから沢山兵も呼んで……」	「Um um, and call lots of soldiers too...」
 
-141114	Kaybwan	「そして……」	「And then...」
+141114	Kaybwan		「そして……」	「And then...」
 
-141115	Green Monster Soldier	「そして？」	「And then?」
+141115	Green Monster Soldier	基本	「そして？」	「And then?」
 
-141116	Kaybwan	「…………ワンは帰るわん」	「............I'm going home.」
+141116	Kaybwan		「…………ワンは帰るわん」	「............I'm going home.」
 
-141117	Green Monster Soldier	「ええっ！？　一人だけ逃げる気ですか！？」	「Eeeh!? You're running away alone!?」
+141117	Green Monster Soldier		「ええっ！？　一人だけ逃げる気ですか！？」	「Eeeh!? You're running away alone!?」
 
-141118	Kaybwan	「し、失礼なこと言うんじゃないわん！	「D-don't say such rude things!
-141119	+	　ワンは逃げるんじゃなくて……えーと……	　I'm not running away... um...
-141120	+	　この一大事をケイブリス様に報告を……」	　I need to report this emergency to Kayblis-sama...」
+141118	Kaybwan		「し、失礼なこと言うんじゃないわん！	「D-don't say such rude things!
+141119	+		　ワンは逃げるんじゃなくて……えーと……	　I'm not running away... um...
+141120	+		　この一大事をケイブリス様に報告を……」	　I need to report this emergency to Kayblis-sama...」
 
-141121	Green Monster Soldier	「つまり逃げるってことじゃないですか！	「That's just running away!
-141122	+	　ずるい！　ケイブリス様に言いつけてやる！」	　Cheater! I'm telling Kayblis-sama!」
+141121	Green Monster Soldier		「つまり逃げるってことじゃないですか！	「That's just running away!
+141122	+		　ずるい！　ケイブリス様に言いつけてやる！」	　Cheater! I'm telling Kayblis-sama!」
 
-141123	Kaybwan	「うぬ、ぐぬぬぬ……！」	「Ugh, grr...!」
+141123	Kaybwan		「うぬ、ぐぬぬぬ……！」	「Ugh, grr...!」
 
-141124	Kaybwan	「えーい！　そこまで言うならやったるわん！」	「Fine! If you insist, I'll do it!」
+141124	Kaybwan	ニヤリ	「えーい！　そこまで言うならやったるわん！」	「Fine! If you insist, I'll do it!」
 
-141125	Green Monster Soldier	「ひ、ひっ！」	「H-hii!」
+141125	Green Monster Soldier	基本	「ひ、ひっ！」	「H-hii!」
 
-141126	Kaybwan	「ホーネット派の残党なんて、	「Hornet faction remnants or whatever,
-141127	+	　そりゃもうケチョンケチョンに……	　I'll crush them completely...
-141128	?	　ん？　って聞いてるわん？」	　Hm? Are you listening?」
+141126	Kaybwan	ニヤリ	「ホーネット派の残党なんて、	「Hornet faction remnants or whatever,
+141127	+		　そりゃもうケチョンケチョンに……	　I'll crush them completely...
+141128	?		　ん？　って聞いてるわん？」	　Hm? Are you listening?」
 
-141129	Green Monster Soldier	「わ、わーーーーーっ！」	「Waaaaah!」
+141129	Green Monster Soldier	基本	「わ、わーーーーーっ！」	「Waaaaah!」
 
-141130	Kaybwan	「あ、こら！　どこに行くわんー！」	「Hey! Where are you going!」
+141130	Kaybwan		「あ、こら！　どこに行くわんー！」	「Hey! Where are you going!」
 
-141131	Kaybwan	「……なんなのよ、あいつ。	「...What is with that guy.
-141132	+	　後でケイブリス様に言いつけてやるわん」	　I'll tell Kayblis-sama later.」
+141131	Kaybwan		「……なんなのよ、あいつ。	「...What is with that guy.
+141132	+		　後でケイブリス様に言いつけてやるわん」	　I'll tell Kayblis-sama later.」
 
-141133	Rance	「お前、まだ気づかんのか？」	「You still haven't noticed?」
+141133	Rance		「お前、まだ気づかんのか？」	「You still haven't noticed?」
 
-141134	Kaybwan	「…………ん？」	「............Hm?」
+141134	Kaybwan		「…………ん？」	「............Hm?」
 
-141135	Rance	「……」	「......」
+141135	Rance	真剣	「……」	「......」
 
-141136	-	ケイブワンが後ろからランスに首根っこ掴まれて	Rance grabbed Kaybwan by the scruff of the neck from behind
-141137	+	ぷらーんと浮かされていた。	and lifted her up.
+141136	-		ケイブワンが後ろからランスに首根っこ掴まれて	Rance grabbed Kaybwan by the scruff of the neck from behind
+141137	+		ぷらーんと浮かされていた。	and lifted her up.
 
-141138	Kaybwan	「ふぎゃーーーーーー！？」	「Fugyaaaaah!?」
+141138	Kaybwan	基本	「ふぎゃーーーーーー！？」	「Fugyaaaaah!?」
 
-141139	-	ケイブワンがジタバタと暴れるが、	Kaybwan flailed wildly,
-141140	+	ランスにしてみれば子供が暴れているのと	but to Rance it was no different from a child throwing a tantrum.
-141141	+	大して変わらなかった。	
+141139	-		ケイブワンがジタバタと暴れるが、	Kaybwan flailed wildly,
+141140	+		ランスにしてみれば子供が暴れているのと	but to Rance it was no different from a child throwing a tantrum.
+141141	+		大して変わらなかった。	
 
-141142	Rance	「弱っちい奴……」	「What a weakling...」
+141142	Rance		「弱っちい奴……」	「What a weakling...」
 
-141143	Kaybwan	「がるるる！　離すわんー！」	「Grrrr! Let me go!」
+141143	Kaybwan		「がるるる！　離すわんー！」	「Grrrr! Let me go!」
 
-141144	Rance	「おーっと、活きのいい駄犬だぜ」	「Whoa, what a lively mutt.」
+141144	Rance		「おーっと、活きのいい駄犬だぜ」	「Whoa, what a lively mutt.」
 
-141145	Kaybwan	「ぐあー！　ワンを誰だと思ってるわん！	「Guaah! Who do you think I am!
-141146	+	　離さないとひどいわん！　離せー！」	　Let go or else! Let go!」
+141145	Kaybwan		「ぐあー！　ワンを誰だと思ってるわん！	「Guaah! Who do you think I am!
+141146	+		　離さないとひどいわん！　離せー！」	　Let go or else! Let go!」
 
-141147	Rance	「がははは、うねうねしてるぞ！	「Gahahaha, she's squirming all over!
-141148	+	　面白い奴め！」	　What a fun one!」
+141147	Rance		「がははは、うねうねしてるぞ！	「Gahahaha, she's squirming all over!
+141148	+		　面白い奴め！」	　What a fun one!」
 
-141149	Kaybwan	「こ、この……んにゃ、くっ……う……」	「Y-you... Nya, ugh...」
+141149	Kaybwan		「こ、この……んにゃ、くっ……う……」	「Y-you... Nya, ugh...」
 
-141150	Rance	「……お？」	「...Oh?」
+141150	Rance		「……お？」	「...Oh?」
 
-141151	Kaybwan	「…………はなしてぇ」	「............Let go...」
+141151	Kaybwan	ぐぬぬ	「…………はなしてぇ」	「............Let go...」
 
-141152	-	ランスの手に掴まれたケイブワンは	Kaybwan, held in Rance's grip,
-141153	+	ぐったりとしてしまった。	went limp.
+141152	-		ランスの手に掴まれたケイブワンは	Kaybwan, held in Rance's grip,
+141153	+		ぐったりとしてしまった。	went limp.
 
-141154	Rance	「ふふーん、どうしよっかなー。	「Hmm, what should I do with you.
-141155	+	　そういえば犬の丸焼きってのは	　Come to think of it, I've always wanted to try roasted dog.」
-141156	+	　一度食ってみたかったんだった」	
+141154	Rance	エロ顔	「ふふーん、どうしよっかなー。	「Hmm, what should I do with you.
+141155	+		　そういえば犬の丸焼きってのは	　Come to think of it, I've always wanted to try roasted dog.」
+141156	+		　一度食ってみたかったんだった」	
 
-141157	Kaybwan	「ひっ……！」	「Hii...!」
+141157	Kaybwan	基本	「ひっ……！」	「Hii...!」
 
-141158	Satella	「ランス、今は冗談に付き合う気になれない」	「Rance, I'm not in the mood for jokes right now.」
+141158	Satella		「ランス、今は冗談に付き合う気になれない」	「Rance, I'm not in the mood for jokes right now.」
 
-141159	-	サテラがランスからケイブワンをひったくる。	Satella snatched Kaybwan from Rance.
+141159	-		サテラがランスからケイブワンをひったくる。	Satella snatched Kaybwan from Rance.
 
-141160	Kaybwan	「げっ、サテラ！」	「Geh, Satella!」
+141160	Kaybwan		「げっ、サテラ！」	「Geh, Satella!」
 
-141161	Satella	「久しぶりだな、ケイブワン。	「It's been a while, Kaybwan.
-141162	+	　早速だが聞かせろ」	　Tell me right now.」
+141161	Satella		「久しぶりだな、ケイブワン。	「It's been a while, Kaybwan.
+141162	+		　早速だが聞かせろ」	　Tell me right now.」
 
-141163	Satella	「ホーネット様はご無事だろうな？	「Hornet-sama is safe, right?
-141164	+	　もし、傷の一つでもあってみろ」	　If there's even a single scratch on her...」
+141163	Satella		「ホーネット様はご無事だろうな？	「Hornet-sama is safe, right?
+141164	+		　もし、傷の一つでもあってみろ」	　If there's even a single scratch on her...」
 
-141165	Kaybwan	「あ、あったら……どうなるわん……？」	「I-if there is... what will you do...?」
+141165	Kaybwan		「あ、あったら……どうなるわん……？」	「I-if there is... what will you do...?」
 
-141166	Satella	「塵も残らず殺してやる！」	「I'll kill you until not even dust remains!」
+141166	Satella	怒り	「塵も残らず殺してやる！」	「I'll kill you until not even dust remains!」
 
-141167	Kaybwan	「ひいいいいいーーーっ！」	「Hiiiiiii!」
+141167	Kaybwan	ぐぬぬ	「ひいいいいいーーーっ！」	「Hiiiiiii!」
 
-141168	Satella	「ホーネット様は返してもらうぞ」	「I'll be taking Hornet-sama back.」
+141168	Satella	基本	「ホーネット様は返してもらうぞ」	「I'll be taking Hornet-sama back.」
 
-141169	Satella	「向こうの扉の鍵をよこせ。	「Hand over the key to that door over there.
-141170	+	　ブチ破ってもいいが……これ以上、	　I could smash it but... I don't want to
-141171	+	　ホーネット様のお城を破壊したくないからな」	　destroy any more of Hornet-sama's castle.」
+141169	Satella		「向こうの扉の鍵をよこせ。	「Hand over the key to that door over there.
+141170	+		　ブチ破ってもいいが……これ以上、	　I could smash it but... I don't want to
+141171	+		　ホーネット様のお城を破壊したくないからな」	　destroy any more of Hornet-sama's castle.」
 
-141172	Kaybwan	「えと……えと……」	「Um... um...」
+141172	Kaybwan		「えと……えと……」	「Um... um...」
 
-141173	Satella	「持っているんだろう？	「You have it, right?
-141174	+	　それとも、抵抗する気か？」	　Or do you want to resist?」
+141173	Satella		「持っているんだろう？	「You have it, right?
+141174	+		　それとも、抵抗する気か？」	　Or do you want to resist?」
 
-141175	Kaybwan	「え、えーと……えーと……」	「E-erm... um...」
+141175	Kaybwan		「え、えーと……えーと……」	「E-erm... um...」
 
-141176	Satella	「どうなんだ！？」	「Well!?」
+141176	Satella	怒り	「どうなんだ！？」	「Well!?」
 
-141177	Kaybwan	「…………」	「............」
+141177	Kaybwan	基本	「…………」	「............」
 
-141178	Kaybwan	「はいどうぞ」	「Here you go.」
+141178	Kaybwan		「はいどうぞ」	「Here you go.」
 
-141179	Satella	「ご苦労」	「Good work.」
+141179	Satella		「ご苦労」	「Good work.」
 
-141180	-	鍵を受け取ったサテラは、	Satella took the key
-141181	+	ケイブワンをぽーいと放り投げた。	and tossed Kaybwan aside.
+141180	-		鍵を受け取ったサテラは、	Satella took the key
+141181	+		ケイブワンをぽーいと放り投げた。	and tossed Kaybwan aside.
 
-141182	Kaybwan	「はべっ……！」	「Habeh...!」
+141182	Kaybwan		「はべっ……！」	「Habeh...!」
 
-141183	Kaybwan	「う、う、う……」	「U-uu...」
+141183	Kaybwan	ぐぬぬ	「う、う、う……」	「U-uu...」
 
-141184	Kaybwan	「ば、バカバカバカ！　バーカ！	「I-idiot idiot idiot! You idiot!
-141185	+	　このすっとこどっこいの馬鹿！	　You stupid long-faced idiot!
-141186	+	　みんな死んじゃえ！」	　Die everyone!」
+141184	Kaybwan		「ば、バカバカバカ！　バーカ！	「I-idiot idiot idiot! You idiot!
+141185	+		　このすっとこどっこいの馬鹿！	　You stupid long-faced idiot!
+141186	+		　みんな死んじゃえ！」	　Die everyone!」
 
-141187	Kaybwan	「ふーん、お前らなんて	「Hmph, you guys aren't scary at all!
-141188	+	　本当はちっとも怖くないわん！	
-141189	+	　馬鹿馬鹿馬鹿！　バーカ！」	　Idiot idiot idiot! Idiot!」
+141187	Kaybwan		「ふーん、お前らなんて	「Hmph, you guys aren't scary at all!
+141188	+		　本当はちっとも怖くないわん！	
+141189	+		　馬鹿馬鹿馬鹿！　バーカ！」	　Idiot idiot idiot! Idiot!」
 
-141190	Kaybwan	「あ、あとあと、えーと……」	「A-and also, um...」
+141190	Kaybwan		「あ、あとあと、えーと……」	「A-and also, um...」
 
-141191	Kaybwan	「ばーーーーーーーーーーーか！」	「Idiooooooot!」
+141191	Kaybwan		「ばーーーーーーーーーーーか！」	「Idiooooooot!」
 
-141192	Kaybwan	「ケイブリス様に言いつけてやるー！」	「I'm telling Kayblis-sama!」
+141192	Kaybwan		「ケイブリス様に言いつけてやるー！」	「I'm telling Kayblis-sama!」
 
-141193	-	ずだだだーとケイブワンが逃げていった。	Kaybwan ran away with a patter of feet.
+141193	-		ずだだだーとケイブワンが逃げていった。	Kaybwan ran away with a patter of feet.
 
-141194	Rance	「負け犬の遠吠え……」	「The howl of a loser...」
+141194	Rance	だる顔	「負け犬の遠吠え……」	「The howl of a loser...」
 
-141195	Satella	「あんな雑魚放っておけ。	「Ignore that small fry.
-141196	+	　それより今は――」	　Right now――」
+141195	Satella	基本	「あんな雑魚放っておけ。	「Ignore that small fry.
+141196	+		　それより今は――」	　Right now――」
 
-141197	Satella	「ホーネット様……」	「Hornet-sama...」
+141197	Satella		「ホーネット様……」	「Hornet-sama...」

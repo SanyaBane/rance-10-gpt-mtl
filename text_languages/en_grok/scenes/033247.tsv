@@ -6,105 +6,105 @@
 * Reset Kalar	リセット２	Female
 * Masou Shizuka	志津香２	Female
 
-217664	-	放棄された都市、スケール――	The abandoned city, Scale――
+217664	-		放棄された都市、スケール――	The abandoned city, Scale――
 
-217665	-	リーザスの北東に位置する中堅都市であり、	A medium-sized city located northeast of Leazas,
-217666	+	近くの鉱山から良質な鋼が取れることから	it prospered due to high-quality steel from nearby mines.
-217667	+	栄えるようになった土地である。	However, the land you stepped into now
+217665	-		リーザスの北東に位置する中堅都市であり、	A medium-sized city located northeast of Leazas,
+217666	+		近くの鉱山から良質な鋼が取れることから	it prospered due to high-quality steel from nearby mines.
+217667	+		栄えるようになった土地である。	However, the land you stepped into now
 
-217668	-	しかし、今あなたが足を踏み入れた土地は、	looked nothing like that.
-217669	+	決してそんな風には見えなかった。	
+217668	-		しかし、今あなたが足を踏み入れた土地は、	looked nothing like that.
+217669	+		決してそんな風には見えなかった。	
 
-217670	Nagata-kun	「うわっ……なんだこりゃ……」	「Whoa... what is this...」
+217670	Nagata-kun	基本	「うわっ……なんだこりゃ……」	「Whoa... what is this...」
 
-217671	Rocky Bank	「うう、なんとも不気味な都市だすな……」	「Ugh, what a creepy city...」
+217671	Rocky Bank	とほほ	「うう、なんとも不気味な都市だすな……」	「Ugh, what a creepy city...」
 
-217672	-	街全体は眠りについたように静まりかえり、	The whole town was deathly silent as if asleep,
-217673	+	木々がかすかにさわさわと揺れていた。	with trees rustling faintly.
+217672	-		街全体は眠りについたように静まりかえり、	The whole town was deathly silent as if asleep,
+217673	+		木々がかすかにさわさわと揺れていた。	with trees rustling faintly.
 
-217674	Rocky Bank	「人っ子一人見当たらないだす……	「Not a single person in sight...
-217675	+	　ゴーストタウンって奴だすか……」	　It's a ghost town...」
+217674	Rocky Bank		「人っ子一人見当たらないだす……	「Not a single person in sight...
+217675	+		　ゴーストタウンって奴だすか……」	　It's a ghost town...」
 
-217676	Zance Leazas	「いや、まだ暮らしてる奴はいんぜ」	「No, there are still people living here.」
+217676	Zance Leazas	基本	「いや、まだ暮らしてる奴はいんぜ」	「No, there are still people living here.」
 
-217677	Rocky Bank	「人間がこんなとこで暮らしてるだすか！？」	「Humans live in a place like this!?」
+217677	Rocky Bank		「人間がこんなとこで暮らしてるだすか！？」	「Humans live in a place like this!?」
 
-217678	Zance Leazas	「いるのは人間じゃねーよ」	「They're not humans.」
+217678	Zance Leazas		「いるのは人間じゃねーよ」	「They're not humans.」
 
-217679	Zance Leazas	「魔軍だ」	「It's the Monster Army.」
+217679	Zance Leazas		「魔軍だ」	「It's the Monster Army.」
 
-217680	Nagata-kun	「え、魔物が暮らしてるのか！？」	「Eh, monsters live here!?」
+217680	Nagata-kun		「え、魔物が暮らしてるのか！？」	「Eh, monsters live here!?」
 
-217681	Zance Leazas	「第二次魔人戦争……	「The Second Fiend War...
-217682	+	　俺らの親父が魔王になるきっかけの戦争だな」	　The war that led to our dad becoming the Demon King.」
+217681	Zance Leazas		「第二次魔人戦争……	「The Second Fiend War...
+217682	+		　俺らの親父が魔王になるきっかけの戦争だな」	　The war that led to our dad becoming the Demon King.」
 
-217683	Zance Leazas	「その戦争中、魔軍の魔物は世界中に	「During that war, the Monster Army's monsters
-217684	+	　攻め込んできて領地を奪っていたんだが……」	　invaded the world and seized territory...」
+217683	Zance Leazas		「その戦争中、魔軍の魔物は世界中に	「During that war, the Monster Army's monsters
+217684	+		　攻め込んできて領地を奪っていたんだが……」	　invaded the world and seized territory...」
 
-217685	Zance Leazas	「このスケールはリーザス方面にいた魔軍が、	「The Monster Army forces in the Leazas region
-217686	+	　戦争終結時に集まり立てこもった都市だ」	　gathered here and barricaded themselves when the war ended.」
+217685	Zance Leazas		「このスケールはリーザス方面にいた魔軍が、	「The Monster Army forces in the Leazas region
+217686	+		　戦争終結時に集まり立てこもった都市だ」	　gathered here and barricaded themselves when the war ended.」
 
-217687	Zance Leazas	「連中、戦争はもう終わったと	「No matter how many times we tell them the war is over,
-217688	+	　こっちが何度言っても認めようとしねぇで、	　they refuse to accept it
-217689	+	　ずーっとここを領地として占領し続けてんだ」	　and continue occupying this city as their territory.」
+217687	Zance Leazas		「連中、戦争はもう終わったと	「No matter how many times we tell them the war is over,
+217688	+		　こっちが何度言っても認めようとしねぇで、	　they refuse to accept it
+217689	+		　ずーっとここを領地として占領し続けてんだ」	　and continue occupying this city as their territory.」
 
-217690	Nagata-kun	「占領し続けてるって……	「Still occupying it...
-217691	+	　え、だって第二次魔人戦争ってもう――」	　But the Second Fiend War ended――」
+217690	Nagata-kun		「占領し続けてるって……	「Still occupying it...
+217691	+		　え、だって第二次魔人戦争ってもう――」	　But the Second Fiend War ended――」
 
-217692	Zance Leazas	「ああ、そうだ。	「Yeah.
-217693	+	　もう十五年も連中はここを根城にしてんだ」	　They've been based here for fifteen years.」
+217692	Zance Leazas		「ああ、そうだ。	「Yeah.
+217693	+		　もう十五年も連中はここを根城にしてんだ」	　They've been based here for fifteen years.」
 
-217694	Nagata-kun	「うひーっ！？　十五年！？」	「Uhee!? Fifteen years!?」
+217694	Nagata-kun		「うひーっ！？　十五年！？」	「Uhee!? Fifteen years!?」
 
-217695	Zance Leazas	「うちの国としても放置はできねぇ。	「We can't just ignore it either.
-217696	+	　何度か攻め込んだらしいんだが……	　We've attacked several times but...
-217697	+	　奴らは都市内のゲリラ戦法で抵抗しやがる」	　They resist with guerrilla tactics inside the city.」
+217695	Zance Leazas		「うちの国としても放置はできねぇ。	「We can't just ignore it either.
+217696	+		　何度か攻め込んだらしいんだが……	　We've attacked several times but...
+217697	+		　奴らは都市内のゲリラ戦法で抵抗しやがる」	　They resist with guerrilla tactics inside the city.」
 
-217698	Zance Leazas	「埒が明かねぇ、被害も無駄に出るってんで、	「It wasn't getting anywhere and casualties were pointless,
-217699	+	　この都市の周囲に見張りを置いて、	　so we placed guards around the city
-217700	+	　奴らを十五年も閉じ込めてんのが現状だ」	　and have kept them trapped for fifteen years.」
+217698	Zance Leazas		「埒が明かねぇ、被害も無駄に出るってんで、	「It wasn't getting anywhere and casualties were pointless,
+217699	+		　この都市の周囲に見張りを置いて、	　so we placed guards around the city
+217700	+		　奴らを十五年も閉じ込めてんのが現状だ」	　and have kept them trapped for fifteen years.」
 
-217701	Nagi su Ragarl	「魔軍の規模はー？」	「How big is the Monster Army?」
+217701	Nagi su Ragarl		「魔軍の規模はー？」	「How big is the Monster Army?」
 
-217702	Zance Leazas	「ざっと1000名ってところだな」	「Around 1000.」
+217702	Zance Leazas		「ざっと1000名ってところだな」	「Around 1000.」
 
-217703	Nagi su Ragarl	「うむむー、結構いるねー」	「Hmm, that's quite a lot.」
+217703	Nagi su Ragarl	不満	「うむむー、結構いるねー」	「Hmm, that's quite a lot.」
 
-217704	Zance Leazas	「しっかし、面倒臭ぇところにオーブがあるもんだ」	「Still, what a pain in the ass place for an Orb to be.」
+217704	Zance Leazas	基本	「しっかし、面倒臭ぇところにオーブがあるもんだ」	「Still, what a pain in the ass place for an Orb to be.」
 
-217705	Nagata-kun	「つまり、ゲリラとして都市に立てこもっている	「So we have to search the vast city
-217706	+	　魔軍から逃げたり戦ったりしながら、	　while avoiding or fighting the Monster Army guerrillas.」
-217707	+	　この広い都市のどこかからオーブを見つける、と」	
+217705	Nagata-kun		「つまり、ゲリラとして都市に立てこもっている	「So we have to search the vast city
+217706	+		　魔軍から逃げたり戦ったりしながら、	　while avoiding or fighting the Monster Army guerrillas.」
+217707	+		　この広い都市のどこかからオーブを見つける、と」	
 
-217708	Nagata-kun	「…………」	「............」
+217708	Nagata-kun		「…………」	「............」
 
-217709	Nagata-kun	「無理じゃね？」	「Isn't that impossible?」
+217709	Nagata-kun		「無理じゃね？」	「Isn't that impossible?」
 
-217710	Zance Leazas	「はんっ、立ち塞がる敵は殺す！	「Hah, kill any enemy that stands in our way!
-217711	?	　邪魔をする奴は殺す！	　Kill anyone who gets in the way!
-217712	+	　魔物は全てブッ殺す！」	　Kill every single monster!」
+217710	Zance Leazas	不満	「はんっ、立ち塞がる敵は殺す！	「Hah, kill any enemy that stands in our way!
+217711	?		　邪魔をする奴は殺す！	　Kill anyone who gets in the way!
+217712	+		　魔物は全てブッ殺す！」	　Kill every single monster!」
 
-217713	Zance Leazas	「そうすりゃオーブ探しも	「Then we'll have all the time
-217714	+	　ゆーっくり出来るってもんじゃねぇか！」	　in the world to search for the Orb!」
+217713	Zance Leazas	微笑み	「そうすりゃオーブ探しも	「Then we'll have all the time
+217714	+		　ゆーっくり出来るってもんじゃねぇか！」	　in the world to search for the Orb!」
 
-217715	Zance Leazas	「がはははははははははは！」	「Gahahahahahahaha!」
+217715	Zance Leazas	笑い	「がはははははははははは！」	「Gahahahahahahaha!」
 
-217716	Nagata-kun	「な、なんか……」	「H-he seems...
+217716	Nagata-kun	基本	「な、なんか……」	「H-he seems...
 
-217717	Nagata-kun	「もしかして、上機嫌？」	in a good mood?」
+217717	Nagata-kun		「もしかして、上機嫌？」	in a good mood?」
 
-217718	Reset Kalar	「うん、とっても」	「Yeah, very.」
+217718	Reset Kalar		「うん、とっても」	「Yeah, very.」
 
-217719	Reset Kalar	「ザンスちゃん、こういう状況大好きだから……」	「Zance-chan loves situations like this...」
+217719	Reset Kalar		「ザンスちゃん、こういう状況大好きだから……」	「Zance-chan loves situations like this...」
 
-217720	Nagi su Ragarl	「俗に言う戦闘狂、みたいな？」	「Like a battle maniac?」
+217720	Nagi su Ragarl		「俗に言う戦闘狂、みたいな？」	「Like a battle maniac?」
 
-217721	Masou Shizuka	「ただの馬鹿よ」	「Just an idiot.」
+217721	Masou Shizuka		「ただの馬鹿よ」	「Just an idiot.」
 
-217722	Nagata-kun	「お、俺は帰るぞ！？	「I-I'm going home!?
-217723	+	　こんな奴がいたんじゃ、	　With a guy like this around,
-217724	+	　命がいくらあっても足りやしねえ！」	　I won't have enough lives!」
+217722	Nagata-kun		「お、俺は帰るぞ！？	「I-I'm going home!?
+217723	+		　こんな奴がいたんじゃ、	　With a guy like this around,
+217724	+		　命がいくらあっても足りやしねえ！」	　I won't have enough lives!」
 
-217725	Zance Leazas	「うっし！　オーブ探し、始めるぞ！」	「Alright! Let's start searching for the Orb!」
+217725	Zance Leazas		「うっし！　オーブ探し、始めるぞ！」	「Alright! Let's start searching for the Orb!」
 
-217726	Nagata-kun	「ひーーーーっ！？」	「Hiiii!?」
+217726	Nagata-kun		「ひーーーーっ！？」	「Hiiii!?」

@@ -4,29 +4,29 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Sill Plain	シィル	Female
 
-62599	Rance	「………………む」	「............Mu.」
+62599	Rance	真剣	「………………む」	「............Mu.」
 
-62600	-	ランス達の行方を、壁が遮断していた。	A wall blocked Rance and the others' path.
+62600	-		ランス達の行方を、壁が遮断していた。	A wall blocked Rance and the others' path.
 
-62601	Rance	「行き止まりか……？	「Dead end...?」
-62602	+	　しかし、この壁ちょっと扉っぽいな」	　But this wall looks a bit like a door.」
+62601	Rance		「行き止まりか……？	「Dead end...?」
+62602	+		　しかし、この壁ちょっと扉っぽいな」	　But this wall looks a bit like a door.」
 
-62603	Rance	「かなみ、ゴー」	「Kanami, go.」
+62603	Rance	基本	「かなみ、ゴー」	「Kanami, go.」
 
-62604	Kentou Kanami	「分かったわ、見てみる……けど、	「Got it, I'll check... but
-62605	+	　この工場の中、普通と違うのよね……」	　this factory is really unusual...」
+62604	Kentou Kanami		「分かったわ、見てみる……けど、	「Got it, I'll check... but
+62605	+		　この工場の中、普通と違うのよね……」	　this factory is really unusual...」
 
-62606	-	しばらくの間、かなみが壁を細部まで調べ回る。	For a while, Kanami inspected every detail of the wall.
+62606	-		しばらくの間、かなみが壁を細部まで調べ回る。	For a while, Kanami inspected every detail of the wall.
 
-62607	Kentou Kanami	「……ダメだわ。鍵穴も何もないし、	「...No good. No keyhole or anything,
-62608	+	　仕掛けの類も見当たらない」	　no mechanisms either.」
+62607	Kentou Kanami	ジト目	「……ダメだわ。鍵穴も何もないし、	「...No good. No keyhole or anything,
+62608	+		　仕掛けの類も見当たらない」	　no mechanisms either.」
 
-62609	Alkanese Rize	「ただの派手な壁かもよ？」	「Maybe it's just a fancy wall?」
+62609	Alkanese Rize	基本	「ただの派手な壁かもよ？」	「Maybe it's just a fancy wall?」
 
-62610	Rance	「うーん、そうか。	「Hmm, maybe.
-62611	+	　……力ずくでぶっ壊すしかないか？」	　...Guess we have to smash it by force?」
+62610	Rance	真剣	「うーん、そうか。	「Hmm, maybe.
+62611	+		　……力ずくでぶっ壊すしかないか？」	　...Guess we have to smash it by force?」
 
-62612	Sill Plain	「ランス様。向こうに道がありますよ。	「Rance-sama. There's a path over there.
-62613	+	　まずはあちらでも……」	　Shall we try there first...?」
+62612	Sill Plain	基本	「ランス様。向こうに道がありますよ。	「Rance-sama. There's a path over there.
+62613	+		　まずはあちらでも……」	　Shall we try there first...?」
 
-62614	Rance	「まあいいだろう。先にそっちに行ってみるか」	「Fine. Let's check there first.」
+62614	Rance		「まあいいだろう。先にそっちに行ってみるか」	「Fine. Let's check there first.」

@@ -10,163 +10,163 @@
 * Hunty Kalar	ハンティ	Female
 * Copandon Dott	コパンドン	Female
 
-26817	King Mitsubishi	「余がアニャガス王国の長、三菱である」	「I am Mitsubishi, ruler of Anyagas Kingdom.」
+26817	King Mitsubishi	基本	「余がアニャガス王国の長、三菱である」	「I am Mitsubishi, ruler of Anyagas Kingdom.」
 
-26818	Rance	「こっちも偉そうなじじいだな……」	「Another stuck-up old man......」
+26818	Rance	だる顔	「こっちも偉そうなじじいだな……」	「Another stuck-up old man......」
 
-26819	King Mitsubishi	「…………」	「............」
+26819	King Mitsubishi	基本	「…………」	「............」
 
-26820	-	いかめしい眉をぴくりと動かし、	He twitched his stern eyebrows
-26821	+	三菱はランスに視線を向けた。	and turned his gaze toward Rance.
+26820	-		いかめしい眉をぴくりと動かし、	He twitched his stern eyebrows
+26821	+		三菱はランスに視線を向けた。	and turned his gaze toward Rance.
 
-26822	Sill Plain	「わ、わ、ランス様。	「R-Rance-sama.
-26823	+	　そんな事言うから、こっち見てますよ」	　He heard you and is looking this way.」
+26822	Sill Plain	慌て	「わ、わ、ランス様。	「R-Rance-sama.
+26823	+		　そんな事言うから、こっち見てますよ」	　He heard you and is looking this way.」
 
-26824	Rance	「ふん、放っておけ」	「Hmph, ignore him.」
+26824	Rance	だる顔	「ふん、放っておけ」	「Hmph, ignore him.」
 
-26825	Urza Pranaice	「お初にお目に掛かります。	「It's a pleasure to meet you.
-26826	+	　こちらが地上の人類の代表、ランス総統です。	　This is Rance, Supreme Leader and representative of surface humanity.
-26827	+	　私は交渉役を仰せつかりました、ウルザと申します」	　I am Urza, tasked with handling negotiations.」
+26825	Urza Pranaice	感謝	「お初にお目に掛かります。	「It's a pleasure to meet you.
+26826	+		　こちらが地上の人類の代表、ランス総統です。	　This is Rance, Supreme Leader and representative of surface humanity.
+26827	+		　私は交渉役を仰せつかりました、ウルザと申します」	　I am Urza, tasked with handling negotiations.」
 
-26828	King Mitsubishi	「うむ。地上の様子はだいたい聞いておる。	「Indeed. I have heard the general situation on the surface.
-26829	+	　話を聞かせて頂こう」	　Let me hear what you have to say.」
+26828	King Mitsubishi	基本	「うむ。地上の様子はだいたい聞いておる。	「Indeed. I have heard the general situation on the surface.
+26829	+		　話を聞かせて頂こう」	　Let me hear what you have to say.」
 
-26830	Urza Pranaice	「はい。地上の現状から説明させて頂きますね」	「Yes. I'll start with the current state of the surface.」
+26830	Urza Pranaice		「はい。地上の現状から説明させて頂きますね」	「Yes. I'll start with the current state of the surface.」
 
-26831	-	ウルザは現在の状況を子細に伝えた。	Urza explained the situation in detail.
+26831	-		ウルザは現在の状況を子細に伝えた。	Urza explained the situation in detail.
 
-26832	King Mitsubishi	「ふぅむ……魔物がそこまで来ておるか。	「Hmm...... The monsters have reached that far.
-26833	+	　厄介な話よ」	　This is troublesome.」
+26832	King Mitsubishi	ため息	「ふぅむ……魔物がそこまで来ておるか。	「Hmm...... The monsters have reached that far.
+26833	+		　厄介な話よ」	　This is troublesome.」
 
-26834	Urza Pranaice	「ポピンズの方々とは、かつて聖魔戦争でも	「I have heard that the Poppins fought alongside us
-26835	+	　手を取り合った歴史があると伺っております。	　during the Holy-Demonic War.
-26836	+	　我々も、過去の先達に倣う時ではないかと」	　Perhaps it is time for us to follow in our predecessors' footsteps.」
+26834	Urza Pranaice	真剣	「ポピンズの方々とは、かつて聖魔戦争でも	「I have heard that the Poppins fought alongside us
+26835	+		　手を取り合った歴史があると伺っております。	　during the Holy-Demonic War.
+26836	+		　我々も、過去の先達に倣う時ではないかと」	　Perhaps it is time for us to follow in our predecessors' footsteps.」
 
-26837	Patton Helman	「……なるほどね。	「......I see.
-26838	+	　もしかして、懐かしいか？」	　Feeling nostalgic?」
+26837	Patton Helman	基本	「……なるほどね。	「......I see.
+26838	+		　もしかして、懐かしいか？」	　Feeling nostalgic?」
 
-26839	Toushin Sigma	「実はそれほどでも。	「Not really.
-26840	+	　ずっと父ちゃんやじっちゃんと研究三昧だったし、	　I was always doing research with dad and grandpa,
-26841	+	　あの頃は地上との行き来も普通だったし」	　and travel between surface and here was normal back then.」
+26839	Toushin Sigma		「実はそれほどでも。	「Not really.
+26840	+		　ずっと父ちゃんやじっちゃんと研究三昧だったし、	　I was always doing research with dad and grandpa,
+26841	+		　あの頃は地上との行き来も普通だったし」	　and travel between surface and here was normal back then.」
 
-26842	King Mitsubishi	「そこな巨人の方は……？」	「And this giant gentleman......?」
+26842	King Mitsubishi		「そこな巨人の方は……？」	「And this giant gentleman......?」
 
-26843	Toushin Sigma	「おいら、一応四百年前のポピンズなんだ。	「I'm a Poppins from about 400 years ago.
-26844	+	　この身体は、人間と一緒に作ったんだ」	　This body was made together with humans.」
+26843	Toushin Sigma		「おいら、一応四百年前のポピンズなんだ。	「I'm a Poppins from about 400 years ago.
+26844	+		　この身体は、人間と一緒に作ったんだ」	　This body was made together with humans.」
 
-26845	King Mitsubishi	「なんと…………！」	「What......!」
+26845	King Mitsubishi		「なんと…………！」	「What......!」
 
-26846	-	流石に三菱は言葉を失ったが、	Even Mitsubishi was momentarily speechless,
-26847	+	その直後にはシグマの身体をしげしげと眺めていた。	but soon began carefully examining Sigma's body.
+26846	-		流石に三菱は言葉を失ったが、	Even Mitsubishi was momentarily speechless,
+26847	+		その直後にはシグマの身体をしげしげと眺めていた。	but soon began carefully examining Sigma's body.
 
-26848	King Mitsubishi	「…………確かに……	「......Indeed......
-26849	+	　このバネと関節の作りは、ポピンズの技……	　These springs and joints are Poppins craftsmanship......
-26850	+	　これほどのモノを扱えるのは、ポピンズのみ……」	　Only Poppins could create something of this level......」
+26848	King Mitsubishi		「…………確かに……	「......Indeed......
+26849	+		　このバネと関節の作りは、ポピンズの技……	　These springs and joints are Poppins craftsmanship......
+26850	+		　これほどのモノを扱えるのは、ポピンズのみ……」	　Only Poppins could create something of this level......」
 
-26851	Toushin Sigma	「もしかして、来ちゃまずかったかな。	「Maybe it was bad for me to come.
-26852	+	　ポピンズとしちゃ、	　It was apparently quite an unusual
-26853	+	　かなり妙な研究だったらしいし……」	　research even for Poppins......」
+26851	Toushin Sigma		「もしかして、来ちゃまずかったかな。	「Maybe it was bad for me to come.
+26852	+		　ポピンズとしちゃ、	　It was apparently quite an unusual
+26853	+		　かなり妙な研究だったらしいし……」	　research even for Poppins......」
 
-26854	King Mitsubishi	「何を言われる。創意工夫の業がポピンズの価値。	「What are you saying? Creativity and ingenuity are the pride of Poppins.
-26855	+	　恨みもない先達に石を投げるほど、	　We are not so foolish as to throw stones at
-26856	+	　ポピンズは物覚えが良くはありませぬ」	　our predecessors who bore us no grudge.」
+26854	King Mitsubishi	ため息	「何を言われる。創意工夫の業がポピンズの価値。	「What are you saying? Creativity and ingenuity are the pride of Poppins.
+26855	+		　恨みもない先達に石を投げるほど、	　We are not so foolish as to throw stones at
+26856	+		　ポピンズは物覚えが良くはありませぬ」	　our predecessors who bore us no grudge.」
 
-26857	Toushin Sigma	「そっか。…………へへ」	「I see. ......Hehe」
+26857	Toushin Sigma	基本	「そっか。…………へへ」	「I see. ......Hehe」
 
-26858	Kentou Kanami	「…………そんなことあったの？」	「............That really happened?」
+26858	Kentou Kanami		「…………そんなことあったの？」	「............That really happened?」
 
-26859	Maria Custard	「……そういえばフリークさんの資料にあったかも。	「......Come to think of it, it might have been in Freak's documents.
-26860	+	　闘将とか闘神のボディの作成に、	　That Poppins master craftsmen helped with the creation
-26861	+	　ポピンズの名工がアイデアをくれたとか……」	　of the Tousho and Toushin bodies......」
+26859	Maria Custard		「……そういえばフリークさんの資料にあったかも。	「......Come to think of it, it might have been in Freak's documents.
+26860	+		　闘将とか闘神のボディの作成に、	　That Poppins master craftsmen helped with the creation
+26861	+		　ポピンズの名工がアイデアをくれたとか……」	　of the Tousho and Toushin bodies......」
 
-26862	Patton Helman	「……もしかして、知り合いだったりするか？」	「......Maybe you knew them?」
+26862	Patton Helman		「……もしかして、知り合いだったりするか？」	「......Maybe you knew them?」
 
-26863	Hunty Kalar	「あたしは聖魔教団にいたわけじゃないからね。	「I wasn't part of the Holy Magic Sect.
-26864	+	　心当たりは、無いでもないけど」	　Though I might have some idea.」
+26863	Hunty Kalar		「あたしは聖魔教団にいたわけじゃないからね。	「I wasn't part of the Holy Magic Sect.
+26864	+		　心当たりは、無いでもないけど」	　Though I might have some idea.」
 
-26865	Patton Helman	「そういや、爺さんの方が裏切ったんだったな……」	「Now that I think about it, grandpa was the one who betrayed us......」
+26865	Patton Helman		「そういや、爺さんの方が裏切ったんだったな……」	「Now that I think about it, grandpa was the one who betrayed us......」
 
-26866	King Mitsubishi	「…………ふむ。確かに……	「......Hmm. Indeed......
-26867	+	　手を貸すのも、不可能ではなかろう」	　Lending a hand may not be impossible.」
+26866	King Mitsubishi		「…………ふむ。確かに……	「......Hmm. Indeed......
+26867	+		　手を貸すのも、不可能ではなかろう」	　Lending a hand may not be impossible.」
 
-26868	Urza Pranaice	「……………………」	「........................」
+26868	Urza Pranaice		「……………………」	「........................」
 
-26869	Sill Plain	「ほっ……よかったですね、ランス様」	「Phew...... That's great, Rance-sama.」
+26869	Sill Plain		「ほっ……よかったですね、ランス様」	「Phew...... That's great, Rance-sama.」
 
-26870	Rance	「ふん。俺が来るまでもなかったじゃないか」	「Hmph. Looks like I didn't even need to come.」
+26870	Rance	だる顔	「ふん。俺が来るまでもなかったじゃないか」	「Hmph. Looks like I didn't even need to come.」
 
-26871	King Mitsubishi	「だが、条件がある。	「However, there is a condition.
-26872	+	　アレルギー超大国と同じ旗を仰ぐことはできん」	　We cannot stand under the same banner as the Allergy Superpower.」
+26871	King Mitsubishi	基本	「だが、条件がある。	「However, there is a condition.
+26872	+		　アレルギー超大国と同じ旗を仰ぐことはできん」	　We cannot stand under the same banner as the Allergy Superpower.」
 
-26873	Kentou Kanami	「えーーーーっ！？　また…………」	「Ehhhh!? Again......」
+26873	Kentou Kanami	泣き	「えーーーーっ！？　また…………」	「Ehhhh!? Again......」
 
-26874	Urza Pranaice	「……ご子息の話、ですか？」	「......This is about your son?」
+26874	Urza Pranaice	基本	「……ご子息の話、ですか？」	「......This is about your son?」
 
-26875	King Mitsubishi	「存じておったか。身内の恥になるが……	「You knew? It is a family shame but......
-26876	+	　よりによって、満鉄王の娘と通じるとは」	　Of all people, he got involved with the daughter of King Mantetsu.」
+26875	King Mitsubishi	ため息	「存じておったか。身内の恥になるが……	「You knew? It is a family shame but......
+26876	+		　よりによって、満鉄王の娘と通じるとは」	　Of all people, he got involved with the daughter of King Mantetsu.」
 
-26877	Kentou Kanami	「あの、やっぱり……仲が悪いんですか？」	「So...... the countries really don't get along?」
+26877	Kentou Kanami	ジト目	「あの、やっぱり……仲が悪いんですか？」	「So...... the countries really don't get along?」
 
-26878	King Mitsubishi	「元々、満鉄王とは反りが合わぬ。	「I've never gotten along with King Mantetsu.
-26879	+	　……だが、直接的には、例の話が発覚した直後の	　......But the direct cause was right after that incident
-26880	+	　カラクリカップよ。奴め、やらかしおった」	　at the Karakuri Cup. That bastard really did it.」
+26878	King Mitsubishi	基本	「元々、満鉄王とは反りが合わぬ。	「I've never gotten along with King Mantetsu.
+26879	+		　……だが、直接的には、例の話が発覚した直後の	　......But the direct cause was right after that incident
+26880	+		　カラクリカップよ。奴め、やらかしおった」	　at the Karakuri Cup. That bastard really did it.」
 
-26881	Maria Custard	「やらかし、って……」	「Did it......?」
+26881	Maria Custard		「やらかし、って……」	「Did it......?」
 
-26882	King Mitsubishi	「我がアニャガス王国を公然と侮辱するような事を	「He publicly insulted our Anyagas Kingdom.
-26883	+	　言いおってな。	　Thanks to that, the people's feelings are at their worst.」
-26884	+	　おかげで、国民感情は最悪よ」	
+26882	King Mitsubishi	ため息	「我がアニャガス王国を公然と侮辱するような事を	「He publicly insulted our Anyagas Kingdom.
+26883	+		　言いおってな。	　Thanks to that, the people's feelings are at their worst.」
+26884	+		　おかげで、国民感情は最悪よ」	
 
-26885	Copandon Dott	「あちゃー……」	「Ouch......」
+26885	Copandon Dott	ジト目	「あちゃー……」	「Ouch......」
 
-26886	King Mitsubishi	「それから、両国の仲はどんどん悪化した。	「After that, relations between our countries worsened rapidly.
-26887	+	　カラクリカップを取りやめてこそおらぬが、	　We haven't canceled the Karakuri Cup,
-26888	+	　競技も応援も敵意剥き出しだ」	　but the competition and cheering are full of hostility.」
+26886	King Mitsubishi	基本	「それから、両国の仲はどんどん悪化した。	「After that, relations between our countries worsened rapidly.
+26887	+		　カラクリカップを取りやめてこそおらぬが、	　We haven't canceled the Karakuri Cup,
+26888	+		　競技も応援も敵意剥き出しだ」	　but the competition and cheering are full of hostility.」
 
-26889	Urza Pranaice	「では、両王家の軋轢だけではなく……」	「So it's not just friction between the royal families......」
+26889	Urza Pranaice	真剣	「では、両王家の軋轢だけではなく……」	「So it's not just friction between the royal families......」
 
-26890	King Mitsubishi	「両国がこのまま加わっても、不和は避けられまい。	「Even if both countries join, discord is inevitable.
-26891	+	　無用な混乱を招くだけじゃ」	　It would only cause needless chaos.」
+26890	King Mitsubishi	基本	「両国がこのまま加わっても、不和は避けられまい。	「Even if both countries join, discord is inevitable.
+26891	+		　無用な混乱を招くだけじゃ」	　It would only cause needless chaos.」
 
-26892	Sill Plain	「あのう……その、王子様は今、どこに？」	「Um...... Where is the prince right now?」
+26892	Sill Plain	真剣	「あのう……その、王子様は今、どこに？」	「Um...... Where is the prince right now?」
 
-26893	King Mitsubishi	「どこぞへ飛び出そうとしたのでな。	「He tried to run away.
-26894	+	　離れで謹慎させておる」	　He is currently confined in a separate building.」
+26893	King Mitsubishi	基本	「どこぞへ飛び出そうとしたのでな。	「He tried to run away.
+26894	+		　離れで謹慎させておる」	　He is currently confined in a separate building.」
 
-26895	King Mitsubishi	「まったく、あの放蕩者め…………	「That good-for-nothing son of mine......
-26896	+	　女に興味が無いのかと思っておったのに、	　I thought he had no interest in women,
-26897	+	　まさか、こんな事に…………」	　and yet something like this......」
+26895	King Mitsubishi	ため息	「まったく、あの放蕩者め…………	「That good-for-nothing son of mine......
+26896	+		　女に興味が無いのかと思っておったのに、	　I thought he had no interest in women,
+26897	+		　まさか、こんな事に…………」	　and yet something like this......」
 
-26898	-	三菱は重苦しく溜息をついた。	Mitsubishi let out a heavy sigh.
+26898	-		三菱は重苦しく溜息をついた。	Mitsubishi let out a heavy sigh.
 
-26899	-	ランス達は三菱王との会見を終え、外に出た。	After finishing their meeting with King Mitsubishi, Rance's group went outside.
+26899	-		ランス達は三菱王との会見を終え、外に出た。	After finishing their meeting with King Mitsubishi, Rance's group went outside.
 
-26900	Sill Plain	「三菱の王様も、大変そうでしたね」	「King Mitsubishi seemed to have it rough too.」
+26900	Sill Plain	真剣	「三菱の王様も、大変そうでしたね」	「King Mitsubishi seemed to have it rough too.」
 
-26901	Urza Pranaice	「どうしますか？	「What should we do?
-26902	+	　両国とも、良くない関係のようですが」	　Both countries seem to have a bad relationship.」
+26901	Urza Pranaice		「どうしますか？	「What should we do?
+26902	+		　両国とも、良くない関係のようですが」	　Both countries seem to have a bad relationship.」
 
-26903	Rance	「うーん……」	「Hmm......」
+26903	Rance	だる顔	「うーん……」	「Hmm......」
 
-26904	Kentou Kanami	「東芝王子を助けてあげましょ！	「Let's rescue Prince Toshiba!
-26905	+	　国に引き裂かれた二人なんて、かわいそうよ」	　It's so sad for lovers to be torn apart by their countries.」
+26904	Kentou Kanami	泣き	「東芝王子を助けてあげましょ！	「Let's rescue Prince Toshiba!
+26905	+		　国に引き裂かれた二人なんて、かわいそうよ」	　It's so sad for lovers to be torn apart by their countries.」
 
-26906	Rance	「めんどくさいなぁ……	「What a pain......
-26907	+	　どっちかだけでもいいんじゃないか？」	　Can't we just help one side?」
+26906	Rance	だる顔	「めんどくさいなぁ……	「What a pain......
+26907	+		　どっちかだけでもいいんじゃないか？」	　Can't we just help one side?」
 
-26908	Maria Custard	「まだそんな事言ってる」	「You're still saying that?」
+26908	Maria Custard	泣き	「まだそんな事言ってる」	「You're still saying that?」
 
-26909	Urza Pranaice	「両国間のトラブルを解決しておけば、	「If we resolve the conflict between the two countries,
-26910	+	　得られる戦力はより大きいですよ」	　the military strength we gain will be much greater.」
+26909	Urza Pranaice	基本	「両国間のトラブルを解決しておけば、	「If we resolve the conflict between the two countries,
+26910	+		　得られる戦力はより大きいですよ」	　the military strength we gain will be much greater.」
 
-26911	Sill Plain	「そうですよ。助けてあげましょう、ランス様」	「That's right. Let's help them, Rance-sama.」
+26911	Sill Plain	恥	「そうですよ。助けてあげましょう、ランス様」	「That's right. Let's help them, Rance-sama.」
 
-26912	Rance	「ええい、うるさいな。行けばいいんだろう」	「Argh, so noisy. Fine, we'll go.」
+26912	Rance	イライラ	「ええい、うるさいな。行けばいいんだろう」	「Argh, so noisy. Fine, we'll go.」
 
-26913	Sill Plain	「ありがとうございます！　ランス様！」	「Thank you! Rance-sama!」
+26913	Sill Plain	笑顔	「ありがとうございます！　ランス様！」	「Thank you! Rance-sama!」
 
-26914	Kentou Kanami	「軟禁場所、すぐに調べてくるわね！」	「I'll go find where the prince is being held right away!」
+26914	Kentou Kanami	微笑み	「軟禁場所、すぐに調べてくるわね！」	「I'll go find where the prince is being held right away!」
 
-26915	Copandon Dott	「うちもちょちょいっと知り合いに当たってみるわ」	「I'll ask around my contacts too.」
+26915	Copandon Dott	強気	「うちもちょちょいっと知り合いに当たってみるわ」	「I'll ask around my contacts too.」
 
-26916	Rance	「やる気出しやがって、まったく……」	「Look at them getting all motivated......」
+26916	Rance	だる顔	「やる気出しやがって、まったく……」	「Look at them getting all motivated......」

@@ -8,245 +8,245 @@
 * Sill Plain	シィル	Female
 * Pastel Kalar	パステル	Female
 
-244736	-	マエリータ隊が道なき道を進んでいた。	The Maelita Squad advanced through untrodden paths.
+244736	-		マエリータ隊が道なき道を進んでいた。	The Maelita Squad advanced through untrodden paths.
 
-244737	Muscle	「んん？　学者、なに読んでんだい？」	「Hmm? Scholar, what are you reading?」
+244737	Muscle	基本	「んん？　学者、なに読んでんだい？」	「Hmm? Scholar, what are you reading?」
 
-244738	-	学者が普段読んでいる本とは	Noticing it wasn't the usual book the Scholar reads,
-244739	+	違う書類を読んでいることにマッスルが気づく。	Muscle asked.
+244738	-		学者が普段読んでいる本とは	Noticing it wasn't the usual book the Scholar reads,
+244739	+		違う書類を読んでいることにマッスルが気づく。	Muscle asked.
 
-244740	Muscle	「ほう、それもしかして	「Oh, is that perhaps
-244741	+	　マエリータ隊の隊員皆のデータか？」	　the data on all Maelita Squad members?」
+244740	Muscle		「ほう、それもしかして	「Oh, is that perhaps
+244741	+		　マエリータ隊の隊員皆のデータか？」	　the data on all Maelita Squad members?」
 
-244742	Muscle	「さっすが俺らのリーダー様、	「As expected of our leader,
-244743	+	　そういうとこ、芸が細かいね」	　you're really detail-oriented.」
+244742	Muscle		「さっすが俺らのリーダー様、	「As expected of our leader,
+244743	+		　そういうとこ、芸が細かいね」	　you're really detail-oriented.」
 
-244744	Scholar	「個性的なメンバーの多い隊ですからね。	「We have so many unique members.
-244745	+	　逐一見ておかないといけません」	　I have to check them carefully.」
+244744	Scholar		「個性的なメンバーの多い隊ですからね。	「We have so many unique members.
+244745	+		　逐一見ておかないといけません」	　I have to check them carefully.」
 
-244746	Scholar	「ニードル、少しお話が」	「Needle, can I have a word?」
+244746	Scholar		「ニードル、少しお話が」	「Needle, can I have a word?」
 
-244747	Needle	「んっ、なにさ」	「Nn, what is it?」
+244747	Needle		「んっ、なにさ」	「Nn, what is it?」
 
-244748	Scholar	「最近、少々動きが鈍いですね」	「Your movements have been a bit slow lately.」
+244748	Scholar		「最近、少々動きが鈍いですね」	「Your movements have been a bit slow lately.」
 
-244749	Needle	「え、そうかい？	「Eh, really?
-244750	+	　あたしは何も変わってないけど」	　I haven't changed at all though.」
+244749	Needle		「え、そうかい？	「Eh, really?
+244750	+		　あたしは何も変わってないけど」	　I haven't changed at all though.」
 
-244751	Scholar	「鈍い、というより……	「Not so much slow as...
-244752	+	　遅くなった、の方が正しいでしょうか」	　delayed, I suppose.」
+244751	Scholar		「鈍い、というより……	「Not so much slow as...
+244752	+		　遅くなった、の方が正しいでしょうか」	　delayed, I suppose.」
 
-244753	Scholar	「最近体重が増えましたか？」	「Have you gained weight recently?」
+244753	Scholar		「最近体重が増えましたか？」	「Have you gained weight recently?」
 
-244754	Needle	「なっ！？」	「Wha!?」
+244754	Needle		「なっ！？」	「Wha!?」
 
-244755	Scholar	「体調管理も戦士の仕事。	「Managing your condition is part of a warrior's job.
-244756	+	　あまり感心は出来ませんが……」	　I'm not very impressed...」
+244755	Scholar		「体調管理も戦士の仕事。	「Managing your condition is part of a warrior's job.
+244756	+		　あまり感心は出来ませんが……」	　I'm not very impressed...」
 
-244757	Muscle	「あわわ……お、おいおい……」	「Awawa... H-Hey...」
+244757	Muscle		「あわわ……お、おいおい……」	「Awawa... H-Hey...」
 
-244758	Swordmaster	「つきはむらくもでかげった……」	「The moon is hidden by layered clouds...」
+244758	Swordmaster		「つきはむらくもでかげった……」	「The moon is hidden by layered clouds...」
 
-244759	Needle	「ち、ちがっ……」	「T-That's not...」
+244759	Needle		「ち、ちがっ……」	「T-That's not...」
 
-244760	Needle	「だ、だって……学者、肉付きいい方が、	「B-Because... Scholar, I thought you liked girls with more meat on them,
-244761	+	　す、好きかなって、あたし……あたし……」	　so I... I...」
+244760	Needle		「だ、だって……学者、肉付きいい方が、	「B-Because... Scholar, I thought you liked girls with more meat on them,
+244761	+		　す、好きかなって、あたし……あたし……」	　so I... I...」
 
-244762	Scholar	「？　ニードル？」	「? Needle?」
+244762	Scholar		「？　ニードル？」	「? Needle?」
 
-244763	Needle	「うわぁ〜〜〜〜〜ん！	「Uwaaaaaah!
-244764	+	　学者の馬鹿ーーーーー！」	　Scholar you idiot!」
+244763	Needle		「うわぁ〜〜〜〜〜ん！	「Uwaaaaaah!
+244764	+		　学者の馬鹿ーーーーー！」	　Scholar you idiot!」
 
-244765	-	ぴゅーっとニードルは消えていった。	Needle vanished with a pew.
+244765	-		ぴゅーっとニードルは消えていった。	Needle vanished with a pew.
 
-244766	Muscle	「……あーあー」	「...Aah aah.」
+244766	Muscle		「……あーあー」	「...Aah aah.」
 
-244767	Swordmaster	「つきはむらくもでかげった……」	「The moon is hidden by layered clouds...」
+244767	Swordmaster		「つきはむらくもでかげった……」	「The moon is hidden by layered clouds...」
 
-244768	Scholar	「……怒らせてしまったでしょうか」	「...Did I make her angry?」
+244768	Scholar		「……怒らせてしまったでしょうか」	「...Did I make her angry?」
 
-244769	-	　	　
-244770	+	　＜ドスドスドスドス＞	　＜Dosu dosu dosu dosu＞
+244769	-		　	　
+244770	+		　＜ドスドスドスドス＞	　＜Dosu dosu dosu dosu＞
 
-244771	King	「猛省を……で、ある」	「Deep reflection... indeed.」
+244771	King		「猛省を……で、ある」	「Deep reflection... indeed.」
 
-244772	-	　	　
-244773	+	　＜ドスドスドスドス＞	　＜Dosu dosu dosu dosu＞
+244772	-		　	　
+244773	+		　＜ドスドスドスドス＞	　＜Dosu dosu dosu dosu＞
 
-244774	-	足音を立てて王様はニードルを追いかけた。	With heavy footsteps, the King chased after Needle.
+244774	-		足音を立てて王様はニードルを追いかけた。	With heavy footsteps, the King chased after Needle.
 
-244775	Scholar	「むう……」	「Muu...」
+244775	Scholar		「むう……」	「Muu...」
 
-244776	Muscle	「権謀術数を得手とする軍師殿、	「Even the master tactician and schemer,
-244777	+	　唯一読めぬは女心なり、か？	　cannot read a woman's heart, huh?
-244778	+	　剣豪、なんか言ってやれ」	　Say something, Swordmaster.」
+244776	Muscle		「権謀術数を得手とする軍師殿、	「Even the master tactician and schemer,
+244777	+		　唯一読めぬは女心なり、か？	　cannot read a woman's heart, huh?
+244778	+		　剣豪、なんか言ってやれ」	　Say something, Swordmaster.」
 
-244779	Swordmaster	「月は群雲で陰った」	「The moon is hidden by layered clouds.」
+244779	Swordmaster		「月は群雲で陰った」	「The moon is hidden by layered clouds.」
 
-244780	Scholar	「…………」	「............」
+244780	Scholar		「…………」	「............」
 
-244781	Muscle	「あれあれ？　怒っちまったか？」	「Oh? Did I make you mad?」
+244781	Muscle		「あれあれ？　怒っちまったか？」	「Oh? Did I make you mad?」
 
-244782	Scholar	「……怒ってませんよ。	「...I'm not angry.
-244783	+	　反省してるんです」	　I'm reflecting.」
+244782	Scholar		「……怒ってませんよ。	「...I'm not angry.
+244783	+		　反省してるんです」	　I'm reflecting.」
 
-244784	Scholar	「さすがに言うべきではないことまで、	「I may have said things I shouldn't have...
-244785	+	　言ってしまったかも知れません……	
-244786	+	　どう思います、剣豪」	　What do you think, Swordmaster?」
+244784	Scholar		「さすがに言うべきではないことまで、	「I may have said things I shouldn't have...
+244785	+		　言ってしまったかも知れません……	
+244786	+		　どう思います、剣豪」	　What do you think, Swordmaster?」
 
-244787	Swordmaster	「今宵、死ぬには良い月夜だ」	「Tonight is a good moonlit night to die.」
+244787	Swordmaster		「今宵、死ぬには良い月夜だ」	「Tonight is a good moonlit night to die.」
 
-244788	Scholar	「むう……」	「Muu...」
+244788	Scholar		「むう……」	「Muu...」
 
-244789	Muscle	「ひひひ、まあ俺らの長やるなら、	「Hehehe, well if you're going to be our leader,
-244790	+	　そんくらい抜けてる方がらしいさ」	　being a bit dense suits you.」
+244789	Muscle		「ひひひ、まあ俺らの長やるなら、	「Hehehe, well if you're going to be our leader,
+244790	+		　そんくらい抜けてる方がらしいさ」	　being a bit dense suits you.」
 
-244791	Scholar	「……後で謝っておきます」	「...I'll apologize later.」
+244791	Scholar		「……後で謝っておきます」	「...I'll apologize later.」
 
-244792	Muscle	「そうしとけ。	「Do that.
-244793	+	　今頃は王様がフォロー入れてるだろうから……」	　The King is probably comforting her right now...」
+244792	Muscle		「そうしとけ。	「Do that.
+244793	+		　今頃は王様がフォロー入れてるだろうから……」	　The King is probably comforting her right now...」
 
-244794	Needle	「きゃあああああああ！」	「Kyaaaaaaa!」
+244794	Needle		「きゃあああああああ！」	「Kyaaaaaaa!」
 
-244795	Muscle	「この声は？」	「That voice?」
+244795	Muscle		「この声は？」	「That voice?」
 
-244796	Scholar	「ニードルの悲鳴です！　行きますよ！」	「It's Needle's scream! Let's go!」
+244796	Scholar		「ニードルの悲鳴です！　行きますよ！」	「It's Needle's scream! Let's go!」
 
-244797	-	誰よりも速く学者が飛び出した。	The Scholar dashed out faster than anyone.
+244797	-		誰よりも速く学者が飛び出した。	The Scholar dashed out faster than anyone.
 
-244798	Needle	「は、離せ！　離せよぉ！　	「L-Let go! Let me go!
-244799	+	　この変態！　ド畜生！　糞人間！」	　You pervert! You beast! You fucking human!」
+244798	Needle		「は、離せ！　離せよぉ！　	「L-Let go! Let me go!
+244799	+		　この変態！　ド畜生！　糞人間！」	　You pervert! You beast! You fucking human!」
 
-244800	Rance	「ふん、見た目は可愛い癖に	「Hmph, you look cute but
-244801	+	　なんちゅう口の悪い奴だ、このチビ」	　what a foul-mouthed little brat.」
+244800	Rance	だる顔	「ふん、見た目は可愛い癖に	「Hmph, you look cute but
+244801	+		　なんちゅう口の悪い奴だ、このチビ」	　what a foul-mouthed little brat.」
 
-244802	Needle	「ひー！　犯されるー！	「Hii! I'm gonna get raped!
-244803	+	　誰か助けてー！」	　Someone help me!」
+244802	Needle	基本	「ひー！　犯されるー！	「Hii! I'm gonna get raped!
+244803	+		　誰か助けてー！」	　Someone help me!」
 
-244804	Rance	「するか！	「As if I would!
-244805	+	　人並みのサイズになってから出直してこい！」	　Come back when you're normal sized!」
+244804	Rance	怒り	「するか！	「As if I would!
+244805	+		　人並みのサイズになってから出直してこい！」	　Come back when you're normal sized!」
 
-244806	-	学者達がニードル達のもとに辿り着いた時、	When the Scholar and others arrived,
-244807	+	ニードルはランスに捕まっていた。	Needle was caught by Rance.
+244806	-		学者達がニードル達のもとに辿り着いた時、	When the Scholar and others arrived,
+244807	+		ニードルはランスに捕まっていた。	Needle was caught by Rance.
 
-244808	Scholar	「貴方は……」	「You are...」
+244808	Scholar	基本	「貴方は……」	「You are...」
 
-244809	Rance	「む、お前らは――」	「Mu, you guys are--」
+244809	Rance	真剣	「む、お前らは――」	「Mu, you guys are--」
 
-244810	Rance	「……前借り隊」	「...The advance loan squad.」
+244810	Rance		「……前借り隊」	「...The advance loan squad.」
 
-244811	Muscle	「……マエリータ隊だよ」	「...It's Maelita Squad.」
+244811	Muscle	基本	「……マエリータ隊だよ」	「...It's Maelita Squad.」
 
-244812	Rance	「ふん、なんでもいい。	「Hmph, whatever.
-244813	+	　で、今日も敵わないと知りながら	　So, knowing you can't win again today,
-244814	+	　俺様に挑戦しに来たのか」	　you still came to challenge me?」
+244812	Rance		「ふん、なんでもいい。	「Hmph, whatever.
+244813	+		　で、今日も敵わないと知りながら	　So, knowing you can't win again today,
+244814	+		　俺様に挑戦しに来たのか」	　you still came to challenge me?」
 
-244815	Muscle	「へっ、今日会ったのは偶然だよ。	「Heh, we just happened to meet today.
-244816	+	　というわけでここはお互い見て見ぬフリ、	　So how about we pretend we didn't see each other,
-244817	+	　挨拶して通り過ぎるってのはどうだい？」	　say hello and keep walking?」
+244815	Muscle		「へっ、今日会ったのは偶然だよ。	「Heh, we just happened to meet today.
+244816	+		　というわけでここはお互い見て見ぬフリ、	　So how about we pretend we didn't see each other,
+244817	+		　挨拶して通り過ぎるってのはどうだい？」	　say hello and keep walking?」
 
-244818	Rance	「がははは！　馬鹿抜かせ！」	「Gahahaha! Don't be stupid!」
+244818	Rance	笑顔	「がははは！　馬鹿抜かせ！」	「Gahahaha! Don't be stupid!」
 
-244819	Rance	「敵は殺す！	「Enemies get killed!
-244820	+	　魔物は大人しく人間様の経験値になりやがれ！」	　Monsters should obediently become human experience points!」
+244819	Rance	基本	「敵は殺す！	「Enemies get killed!
+244820	+		　魔物は大人しく人間様の経験値になりやがれ！」	　Monsters should obediently become human experience points!」
 
-244821	Muscle	「くくく、好戦的な野郎だ……」	「Kukuku, what a belligerent guy...」
+244821	Muscle		「くくく、好戦的な野郎だ……」	「Kukuku, what a belligerent guy...」
 
-244822	Muscle	「だが、俺もそっちの方が好きだぜ！」	「But I like that kind of attitude!」
+244822	Muscle		「だが、俺もそっちの方が好きだぜ！」	「But I like that kind of attitude!」
 
-244823	Scholar	「待ちなさい、マッスル」	「Wait, Muscle.」
+244823	Scholar		「待ちなさい、マッスル」	「Wait, Muscle.」
 
-244824	Rance	「がははは、確かそのアカメがリーダーだったか？	「Gahahaha, so the red-eyed one is the leader?
-244825	+	　そいつは状況がよく分かってるようだ」	　She seems to understand the situation well.」
+244824	Rance	笑顔	「がははは、確かそのアカメがリーダーだったか？	「Gahahaha, so the red-eyed one is the leader?
+244825	+		　そいつは状況がよく分かってるようだ」	　She seems to understand the situation well.」
 
-244826	-	ランスは掴んでいるニードルを	Rance held up the captured Needle
-244827	+	ババーンとつきだした。	and thrust her forward dramatically.
+244826	-		ランスは掴んでいるニードルを	Rance held up the captured Needle
+244827	+		ババーンとつきだした。	and thrust her forward dramatically.
 
-244828	Rance	「こいつを殺されたくなきゃあ	「If you don't want this one killed,
-244829	+	　大人しくしてもらおーーーか！」	　you'd better behave!」
+244828	Rance	基本	「こいつを殺されたくなきゃあ	「If you don't want this one killed,
+244829	+		　大人しくしてもらおーーーか！」	　you'd better behave!」
 
-244830	Needle	「な、ええっ！？」	「W-What!?」
+244830	Needle		「な、ええっ！？」	「W-What!?」
 
-244831	Muscle	「モンスター相手に人質作戦とは……	「Taking a monster hostage...
-244832	+	　いい根性してやがる」	　You've got guts.」
+244831	Muscle		「モンスター相手に人質作戦とは……	「Taking a monster hostage...
+244832	+		　いい根性してやがる」	　You've got guts.」
 
-244833	Sill Plain	「ランス様、それはさすがに……」	「Rance-sama, that's going too far...」
+244833	Sill Plain	恥	「ランス様、それはさすがに……」	「Rance-sama, that's going too far...」
 
-244834	Pastel Kalar	「どっちが魔物か分からんな」	「I can't tell who's the real monster here.」
+244834	Pastel Kalar	基本	「どっちが魔物か分からんな」	「I can't tell who's the real monster here.」
 
-244835	Rance	「ごちゃごちゃやかましい！	「Shut up with the noise!
-244836	+	　勝てばいいのだ！」	　Winning is all that matters!」
+244835	Rance	怒り	「ごちゃごちゃやかましい！	「Shut up with the noise!
+244836	+		　勝てばいいのだ！」	　Winning is all that matters!」
 
-244837	Rance	「さぁー！　何をボサッとしている！	「Come on! What are you standing around for!
-244838	+	　お前らのリーダーはこっちに来て、	　Your leader should come over here
-244839	+	　俺様に首を差し出せ！」	　and offer me her neck!」
+244837	Rance	基本	「さぁー！　何をボサッとしている！	「Come on! What are you standing around for!
+244838	+		　お前らのリーダーはこっちに来て、	　Your leader should come over here
+244839	+		　俺様に首を差し出せ！」	　and offer me her neck!」
 
-244840	Scholar	「……仕方ありませんね」	「...It can't be helped.」
+244840	Scholar		「……仕方ありませんね」	「...It can't be helped.」
 
-244841	Muscle	「お、おい、学者！」	「H-Hey, Scholar!」
+244841	Muscle		「お、おい、学者！」	「H-Hey, Scholar!」
 
-244842	-	学者がランスに向けて歩を進める。	The Scholar walked toward Rance.
+244842	-		学者がランスに向けて歩を進める。	The Scholar walked toward Rance.
 
-244843	Needle	「駄目！　あたしなんて放って戦ってよ！」	「No! Leave me and fight!」
+244843	Needle		「駄目！　あたしなんて放って戦ってよ！」	「No! Leave me and fight!」
 
-244844	Scholar	「……それが出来るのなら	「...If I could do that,
-244845	+	　私はマエリータ隊の隊長にはなってませんよ」	　I wouldn't be the captain of the Maelita Squad.」
+244844	Scholar		「……それが出来るのなら	「...If I could do that,
+244845	+		　私はマエリータ隊の隊長にはなってませんよ」	　I wouldn't be the captain of the Maelita Squad.」
 
-244846	Scholar	「安心なさい、ニードル。	「Don't worry, Needle.
-244847	+	　貴方の命だけは必ず助けます」	　I will definitely save your life.」
+244846	Scholar		「安心なさい、ニードル。	「Don't worry, Needle.
+244847	+		　貴方の命だけは必ず助けます」	　I will definitely save your life.」
 
-244848	-	珍しく、学者が笑みを浮かべた。	Rarely, the Scholar smiled.
-244849	+	それはニードルを安心させる為の物だった。	It was to reassure Needle.
+244848	-		珍しく、学者が笑みを浮かべた。	Rarely, the Scholar smiled.
+244849	+		それはニードルを安心させる為の物だった。	It was to reassure Needle.
 
-244850	Needle	「…………学者」	「............Scholar」
+244850	Needle		「…………学者」	「............Scholar」
 
-244851	Rance	「けっ！　モンスター風情が格好つけるな！」	「Tch! Don't act cool, you monster!」
+244851	Rance	怒り	「けっ！　モンスター風情が格好つけるな！」	「Tch! Don't act cool, you monster!」
 
-244852	Sill Plain	「ランス様、危ない！」	「Rance-sama, danger!」
+244852	Sill Plain	基本	「ランス様、危ない！」	「Rance-sama, danger!」
 
-244853	Rance	「あ？」	「Ah?」
+244853	Rance	だる顔	「あ？」	「Ah?」
 
-244854	King	「オォオォォォオォオオオォオオ！！！！」	「OOOOOOOOOOOOO!!!!」
+244854	King	基本	「オォオォォォオォオオオォオオ！！！！」	「OOOOOOOOOOOOO!!!!」
 
-244855	Rance	「な、なんだァ！？」	「W-What the!?」
+244855	Rance		「な、なんだァ！？」	「W-What the!?」
 
-244856	Needle	「王様！？」	「King!?」
+244856	Needle		「王様！？」	「King!?」
 
-244857	-	今までどこにいたのか、	From who knows where,
-244858	+	姿を隠していた王様がランスに突撃した。	the hidden King charged at Rance.
+244857	-		今までどこにいたのか、	From who knows where,
+244858	+		姿を隠していた王様がランスに突撃した。	the hidden King charged at Rance.
 
-244859	Rance	「どわぁぁぁぁああ！」	「Dwoaaaaah!」
+244859	Rance		「どわぁぁぁぁああ！」	「Dwoaaaaah!」
 
-244860	-	巨大なモンスターの突進に、	Against the giant monster's charge,
-244861	+	ランスは為す術なく横っ飛びに回避した。	Rance had no choice but to leap sideways to dodge.
+244860	-		巨大なモンスターの突進に、	Against the giant monster's charge,
+244861	+		ランスは為す術なく横っ飛びに回避した。	Rance had no choice but to leap sideways to dodge.
 
-244862	Needle	「やっ！」	「Yah!」
+244862	Needle		「やっ！」	「Yah!」
 
-244863	Rance	「あ、しまった！」	「Ah, shit!」
+244863	Rance	怒り	「あ、しまった！」	「Ah, shit!」
 
-244864	-	ランスが思わずニードルを手放してしまう。	Rance accidentally let go of Needle.
+244864	-		ランスが思わずニードルを手放してしまう。	Rance accidentally let go of Needle.
 
-244865	King	「無事でなにより……で、ある」	「I'm glad you're safe... indeed.」
+244865	King	基本	「無事でなにより……で、ある」	「I'm glad you're safe... indeed.」
 
-244866	Needle	「あ〜ん、王様ー！　怖かったよー！」	「Aaan, King! I was so scared!」
+244866	Needle		「あ〜ん、王様ー！　怖かったよー！」	「Aaan, King! I was so scared!」
 
-244867	Muscle	「さっすが王様！　頼りになるぜ！」	「As expected of the King! So reliable!」
+244867	Muscle		「さっすが王様！　頼りになるぜ！」	「As expected of the King! So reliable!」
 
-244868	Scholar	「ふう……助かりました……」	「Phew... Thank you...」
+244868	Scholar		「ふう……助かりました……」	「Phew... Thank you...」
 
-244869	Swordmaster	「今宵、死ぬには良い月夜だ！」	「Tonight is a good moonlit night to die!」
+244869	Swordmaster		「今宵、死ぬには良い月夜だ！」	「Tonight is a good moonlit night to die!」
 
-244870	Rance	「ぐぬぬぬ、モンスター風情のくせに	「Gnnn, damn monsters acting all caring for comrades...
-244871	+	　生意気に仲間思いなところなんぞ見せおって……」	　How arrogant.」
+244870	Rance	イライラ	「ぐぬぬぬ、モンスター風情のくせに	「Gnnn, damn monsters acting all caring for comrades...
+244871	+		　生意気に仲間思いなところなんぞ見せおって……」	　How arrogant.」
 
-244872	Rance	「こうなりゃ実力行使で直接ブッ殺ーーす！」	「Then I'll just kill you all directly with brute force!」
+244872	Rance	怒り	「こうなりゃ実力行使で直接ブッ殺ーーす！」	「Then I'll just kill you all directly with brute force!」
 
-244873	Sill Plain	「ランス様、それじゃ悪役の台詞です」	「Rance-sama, that sounds like the villain's line.」
+244873	Sill Plain	ぽか〜ん	「ランス様、それじゃ悪役の台詞です」	「Rance-sama, that sounds like the villain's line.」
 
-244874	Pastel Kalar	「本当にどっちが魔物か分からんな」	「I really can't tell who's the monster anymore.」
+244874	Pastel Kalar	疲れた	「本当にどっちが魔物か分からんな」	「I really can't tell who's the monster anymore.」
 
-244875	Rance	「やかましい！！！！」	「Shut up!!!!」
+244875	Rance	イライラ	「やかましい！！！！」	「Shut up!!!!」
 
-244876	Rance	「とにかくくたばれーーーーーー！」	「Anyway, just die already!」
+244876	Rance	怒り	「とにかくくたばれーーーーーー！」	「Anyway, just die already!」
 
-244877	Scholar	「むっ！」	「Mu!」
+244877	Scholar	基本	「むっ！」	「Mu!」

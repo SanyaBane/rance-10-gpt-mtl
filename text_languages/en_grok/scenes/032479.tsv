@@ -3,23 +3,23 @@
 * Rolex Gadras	ロレックス	Male
 * Patton Helman	パットン	Male
 
-153009	Rance	「む、この音は？」	「Hm? What's that sound?」
+153009	Rance	基本	「む、この音は？」	「Hm? What's that sound?」
 
-153010	-	　	　
-153011	+	　＜ブォォォォ……＞	　＜Bwoooooooo......＞
+153010	-		　	　
+153011	+		　＜ブォォォォ……＞	　＜Bwoooooooo......＞
 
-153012	-	ランスが空を見上げると	When Rance looked up at the sky,
-153013	+	曇り空の中にいる50体ほどの飛行魔物兵が見えた。	he saw around fifty flying monster soldiers in the cloudy sky.
+153012	-		ランスが空を見上げると	When Rance looked up at the sky,
+153013	+		曇り空の中にいる50体ほどの飛行魔物兵が見えた。	he saw around fifty flying monster soldiers in the cloudy sky.
 
-153014	Rance	「またか……	「Again, huh...
-153015	+	　ヘルマンはいつもこんななのか？」	　Is Helman always like this?」
+153014	Rance	だる顔	「またか……	「Again, huh...
+153015	+		　ヘルマンはいつもこんななのか？」	　Is Helman always like this?」
 
-153016	Rolex Gadras	「いや、今日はやけに多いな……」	「No, there are way more than usual today...」
+153016	Rolex Gadras	基本	「いや、今日はやけに多いな……」	「No, there are way more than usual today...」
 
-153017	Rolex Gadras	「ええと、あの方角となると……	「Let's see, that direction means...
-153018	+	　奴ら、今度はバース村を襲うつもりのようだ」	　Looks like they're planning to attack Bath Village this time.」
+153017	Rolex Gadras		「ええと、あの方角となると……	「Let's see, that direction means...
+153018	+		　奴ら、今度はバース村を襲うつもりのようだ」	　Looks like they're planning to attack Bath Village this time.」
 
-153019	Patton Helman	「大将、すまねぇがまた選択してくれ。	「Boss, sorry but you gotta choose again.
-153020	+	　引き返して救うか、このまま進むか」	　Turn back and save them, or keep pushing forward?」
+153019	Patton Helman	真剣	「大将、すまねぇがまた選択してくれ。	「Boss, sorry but you gotta choose again.
+153020	+		　引き返して救うか、このまま進むか」	　Turn back and save them, or keep pushing forward?」
 
-153021	Rance	「ふむ……」	「Hmm...」
+153021	Rance		「ふむ……」	「Hmm...」

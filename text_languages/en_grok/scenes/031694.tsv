@@ -2,104 +2,104 @@
 * Rance	ランス	Male
 * Amitos Armitage	アミトス	Female
 
-97137	Rance	「よう暇だから遊びに来たぞ」	「Yo, I was free so I came to hang out.」
+97137	Rance	基本	「よう暇だから遊びに来たぞ」	「Yo, I was free so I came to hang out.」
 
-97138	-	ランスがアミトスの部屋を訪ねた。	Rance visited Amitos's room.
+97138	-		ランスがアミトスの部屋を訪ねた。	Rance visited Amitos's room.
 
-97139	Amitos Armitage	「…………」	「............」
+97139	Amitos Armitage	メットなし	「…………」	「............」
 
-97140	Amitos Armitage	「別に構わないが……	「I don't mind, but...
-97141	+	　私の部屋に暇を潰せるものはないぞ」	　there's nothing in my room to kill time with.」
+97140	Amitos Armitage		「別に構わないが……	「I don't mind, but...
+97141	+		　私の部屋に暇を潰せるものはないぞ」	　there's nothing in my room to kill time with.」
 
-97142	Rance	「見て面白いかどうかは俺様が決める」	「I'll decide if it's interesting or not.」
+97142	Rance	基本	「見て面白いかどうかは俺様が決める」	「I'll decide if it's interesting or not.」
 
-97143	Rance	「ふむ……この辺はお前の私物か……	「Hmm... these are your personal items...
-97144	+	　筋トレ用の道具が多いな」	　Lots of training equipment.」
+97143	Rance		「ふむ……この辺はお前の私物か……	「Hmm... these are your personal items...
+97144	+		　筋トレ用の道具が多いな」	　Lots of training equipment.」
 
-97145	Amitos Armitage	「体は常に鍛えていないと不安でな」	「I feel uneasy if I don't keep training my body.」
+97145	Amitos Armitage	メットなし	「体は常に鍛えていないと不安でな」	「I feel uneasy if I don't keep training my body.」
 
-97146	Rance	「これ以上、鍛えるつもりか」	「You plan to train even more?」
+97146	Rance	だる顔	「これ以上、鍛えるつもりか」	「You plan to train even more?」
 
-97147	Rance	「って……	「Wait...
-97148	+	　ほう、こういうのもあるのか」	　Oh, you have these too.」
+97147	Rance	基本	「って……	「Wait...
+97148	+		　ほう、こういうのもあるのか」	　Oh, you have these too.」
 
-97149	-	壁には数枚の油絵が飾られていた。	Several oil paintings hung on the wall.
+97149	-		壁には数枚の油絵が飾られていた。	Several oil paintings hung on the wall.
 
-97150	-	それらはどれも柔らかいタッチで描かれ、	They were all painted with soft strokes,
-97151	+	どこか温かみを感じるものだった。	giving off a warm feeling.
+97150	-		それらはどれも柔らかいタッチで描かれ、	They were all painted with soft strokes,
+97151	+		どこか温かみを感じるものだった。	giving off a warm feeling.
 
-97152	Rance	「うむ、芸術はよく分からんが、	「Hmm, I don't know much about art,
-97153	+	　心が穏やかになりそうな絵だな」	　but these paintings seem calming.」
+97152	Rance		「うむ、芸術はよく分からんが、	「Hmm, I don't know much about art,
+97153	+		　心が穏やかになりそうな絵だな」	　but these paintings seem calming.」
 
-97154	Amitos Armitage	「それは私の描いた絵だ」	「I painted those.」
+97154	Amitos Armitage	メットなし	「それは私の描いた絵だ」	「I painted those.」
 
-97155	Rance	「なんと！？」	「What!?」
+97155	Rance	基本	「なんと！？」	「What!?」
 
-97156	Amitos Armitage	「似合わないのは自覚している」	「I know it doesn't suit me.」
+97156	Amitos Armitage	メットなし	「似合わないのは自覚している」	「I know it doesn't suit me.」
 
-97157	Rance	「似合う、似合わないというか……」	「Suit or not...
+97157	Rance	真剣	「似合う、似合わないというか……」	「Suit or not...
 
-97158	Rance	「う、上手いな……」	　They're really good...」
+97158	Rance		「う、上手いな……」	　They're really good...」
 
-97159	Amitos Armitage	「ありがとう」	「Thank you.」
+97159	Amitos Armitage	メットなし	「ありがとう」	「Thank you.」
 
-97160	Amitos Armitage	「意外に思うだろうが絵画が趣味でな。	「You might be surprised, but painting is my hobby.
-97161	+	　見るのも、描くのも」	　Both viewing and creating.」
+97160	Amitos Armitage		「意外に思うだろうが絵画が趣味でな。	「You might be surprised, but painting is my hobby.
+97161	+		　見るのも、描くのも」	　Both viewing and creating.」
 
-97162	Rance	「意外だ……」	「Surprising...」
+97162	Rance	基本	「意外だ……」	「Surprising...」
 
-97163	Rance	「ちなみにどれがお気に入りなんだ？」	「By the way, which one is your favorite?」
+97163	Rance		「ちなみにどれがお気に入りなんだ？」	「By the way, which one is your favorite?」
 
-97164	Amitos Armitage	「そうだな、飾っているくらいだから、	「Well, since I displayed them,
-97165	+	　ここにあるのはどれも気に入っているが……	　I like all of them, but...
-97166	+	　強いて上げればこれか」	　if I had to pick, this one.」
+97164	Amitos Armitage	メットなし	「そうだな、飾っているくらいだから、	「Well, since I displayed them,
+97165	+		　ここにあるのはどれも気に入っているが……	　I like all of them, but...
+97166	+		　強いて上げればこれか」	　if I had to pick, this one.」
 
-97167	-	アミトスが指さした絵は、	The painting Amitos pointed to
-97168	+	子供達が森の中で遊んでいるという	showed children playing in a forest,
-97169	+	緑が目にも優しいほのぼのとした絵だった。	a gentle, heartwarming scene with soft green tones.
+97167	-		アミトスが指さした絵は、	The painting Amitos pointed to
+97168	+		子供達が森の中で遊んでいるという	showed children playing in a forest,
+97169	+		緑が目にも優しいほのぼのとした絵だった。	a gentle, heartwarming scene with soft green tones.
 
-97170	Rance	「……随分、こう、優しい絵だな」	「...It's quite a gentle painting.」
+97170	Rance	真剣	「……随分、こう、優しい絵だな」	「...It's quite a gentle painting.」
 
-97171	Amitos Armitage	「そうだろうか？」	「Is it?」
+97171	Amitos Armitage	メットなし	「そうだろうか？」	「Is it?」
 
-97172	Rance	「アミトスには似合わない絵だ」	「It doesn't really match you.」
+97172	Rance	真剣	「アミトスには似合わない絵だ」	「It doesn't really match you.」
 
-97173	Amitos Armitage	「似合わないだろうな」	「I suppose not.」
+97173	Amitos Armitage	基本	「似合わないだろうな」	「I suppose not.」
 
-97174	Rance	「お前……」	「You...」
+97174	Rance	真剣	「お前……」	「You...」
 
-97175	Rance	「もしかして、軍人やってなければ、	「If you weren't a soldier,
-97176	+	　今とかなり性格違ったんじゃないか？」	　would your personality be quite different?」
+97175	Rance	だる顔	「もしかして、軍人やってなければ、	「If you weren't a soldier,
+97176	+		　今とかなり性格違ったんじゃないか？」	　would your personality be quite different?」
 
-97177	Rance	「穏やかで、優しくて、世話焼きな……	「Calm, kind, caring...
-97178	+	　そんな女性になってた……ような気がする」	　You might have become that kind of woman.」
+97177	Rance		「穏やかで、優しくて、世話焼きな……	「Calm, kind, caring...
+97178	+		　そんな女性になってた……ような気がする」	　You might have become that kind of woman.」
 
-97179	Amitos Armitage	「ふっ、そうかも知れないな」	「Heh, maybe so.」
+97179	Amitos Armitage	メットなし	「ふっ、そうかも知れないな」	「Heh, maybe so.」
 
-97180	Amitos Armitage	「子供の頃の夢は学校の先生だった」	「When I was a child, I dreamed of becoming a school teacher.」
+97180	Amitos Armitage		「子供の頃の夢は学校の先生だった」	「When I was a child, I dreamed of becoming a school teacher.」
 
-97181	Amitos Armitage	「その夢を叶え……誰かと結婚をして……	「Fulfilling that dream... marrying someone...
-97182	+	　子供をもうけて……穏やかな生活を……」	　having children... living a peaceful life...
+97181	Amitos Armitage		「その夢を叶え……誰かと結婚をして……	「Fulfilling that dream... marrying someone...
+97182	+		　子供をもうけて……穏やかな生活を……」	　having children... living a peaceful life...
 
-97183	Amitos Armitage	「そんな私もいたかも知れない。	　That version of me might have existed.
-97184	+	　意味のない空想だが興味はある」	　It's a meaningless fantasy, but interesting.」
+97183	Amitos Armitage		「そんな私もいたかも知れない。	　That version of me might have existed.
+97184	+		　意味のない空想だが興味はある」	　It's a meaningless fantasy, but interesting.」
 
-97185	Rance	「もったいないような……	「What a waste...
-97186	+	　このままでもいいような……」	　Though the current you is fine too...」
+97185	Rance	だる顔	「もったいないような……	「What a waste...
+97186	+		　このままでもいいような……」	　Though the current you is fine too...」
 
-97187	Amitos Armitage	「いいに決まってる」	「Of course this is good.」
+97187	Amitos Armitage	メットなし	「いいに決まってる」	「Of course this is good.」
 
-97188	Amitos Armitage	「ここに至るまでの道のりに、	「On the path that led me here,
-97189	+	　選択の余地がない局面は多々あったが……	　there were many moments with no choice...
-97190	+	　それを歩むと決めたのは私の意思だ」	　but I chose to walk it of my own will.」
+97188	Amitos Armitage		「ここに至るまでの道のりに、	「On the path that led me here,
+97189	+		　選択の余地がない局面は多々あったが……	　there were many moments with no choice...
+97190	+		　それを歩むと決めたのは私の意思だ」	　but I chose to walk it of my own will.」
 
-97191	Amitos Armitage	「そこに後悔などあってたまるか」	「I won't allow any regret there.」
+97191	Amitos Armitage		「そこに後悔などあってたまるか」	「I won't allow any regret there.」
 
-97192	Rance	「……そんなもんか」	「...I see.」
+97192	Rance	基本	「……そんなもんか」	「...I see.」
 
-97193	Amitos Armitage	「実際、戦いばかりの生活だが……」	「My life is full of battles, but...
+97193	Amitos Armitage	メットなし	「実際、戦いばかりの生活だが……」	「My life is full of battles, but...
 
-97194	Amitos Armitage	「誰かを守る為の今の生活は、満足してるよ」	　I'm satisfied with this life of protecting others.」
+97194	Amitos Armitage		「誰かを守る為の今の生活は、満足してるよ」	　I'm satisfied with this life of protecting others.」
 
-97195	-	そう呟くアミトスの顔は、	As she murmured that, Amitos's face
-97196	+	どこか優しい表情をしていた。	showed a gentle expression.
+97195	-		そう呟くアミトスの顔は、	As she murmured that, Amitos's face
+97196	+		どこか優しい表情をしていた。	showed a gentle expression.

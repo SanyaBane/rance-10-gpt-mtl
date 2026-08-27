@@ -6,83 +6,83 @@
 * Satella	サテラ	Female
 * Jaro Jaslak	ジャロ	Male
 
-163048	-	道中、偵察に出ていたかなみが	On the way, Kanami who had been out scouting
-163049	+	報告に帰ってきた。	came back with a report.
+163048	-		道中、偵察に出ていたかなみが	On the way, Kanami who had been out scouting
+163049	+		報告に帰ってきた。	came back with a report.
 
-163050	Kentou Kanami	「兵数、400の偵察部隊を発見したわ」	「I found an enemy scouting unit of about 400 soldiers.」
+163050	Kentou Kanami	基本	「兵数、400の偵察部隊を発見したわ」	「I found an enemy scouting unit of about 400 soldiers.」
 
-163051	Kentou Kanami	「と言っても私達を	「That said, they don't seem to be
-163052	+	　攻撃しに来たわけじゃないみたい」	　coming to attack us.」
+163051	Kentou Kanami		「と言っても私達を	「That said, they don't seem to be
+163052	+		　攻撃しに来たわけじゃないみたい」	　coming to attack us.」
 
-163053	Kentou Kanami	「彼らの狙いは近くにあるアペムンタ村よ」	「Their target is the nearby Apemunta Village.」
+163053	Kentou Kanami		「彼らの狙いは近くにあるアペムンタ村よ」	「Their target is the nearby Apemunta Village.」
 
-163054	Melfeis Promenade	「アペムンタ村……」	「Apemunta Village......」
+163054	Melfeis Promenade		「アペムンタ村……」	「Apemunta Village......」
 
-163055	Kentou Kanami	「あら、メルフェイスさんご存じなんですか？」	「Oh, Melfeis-san, do you know it?」
+163055	Kentou Kanami		「あら、メルフェイスさんご存じなんですか？」	「Oh, Melfeis-san, do you know it?」
 
-163056	Melfeis Promenade	「え、あ、いえ……」	「Eh, ah, no......」
+163056	Melfeis Promenade		「え、あ、いえ……」	「Eh, ah, no......」
 
-163057	Melfeis Promenade	「………………なんでもありません」	「..............It's nothing.」
+163057	Melfeis Promenade		「………………なんでもありません」	「..............It's nothing.」
 
-163058	Rance	「？　なんだあ？」	「? What's up?」
+163058	Rance		「？　なんだあ？」	「? What's up?」
 
-163059	Chaka Cadmium	「おお、アペムンタ村、確かにありますな」	「Oh, Apemunta Village, yes it exists.」
+163059	Chaka Cadmium		「おお、アペムンタ村、確かにありますな」	「Oh, Apemunta Village, yes it exists.」
 
-163060	-	チャカが広げた地図の上を指さす。	Chaka pointed at the map he spread out.
+163060	-		チャカが広げた地図の上を指さす。	Chaka pointed at the map he spread out.
 
-163061	Chaka Cadmium	「う〜、ここ……」	「U~, here......」
+163061	Chaka Cadmium		「う〜、ここ……」	「U~, here......」
 
-163062	Chaka Cadmium	「人口2000ほどの村です。	「It's a village with about 2000 people.
-163063	+	　魔軍の勢力範囲に飲み込まれたものの、	　It was swallowed by the Monster Army's territory,
-163064	+	　逃げずにいたようですな……」	　but it seems they didn't flee......」
+163062	Chaka Cadmium		「人口2000ほどの村です。	「It's a village with about 2000 people.
+163063	+		　魔軍の勢力範囲に飲み込まれたものの、	　It was swallowed by the Monster Army's territory,
+163064	+		　逃げずにいたようですな……」	　but it seems they didn't flee......」
 
-163065	Chaka Cadmium	「むう、助けに行きたいところじゃが……」	「Muu, I'd like to go help them but......」
+163065	Chaka Cadmium		「むう、助けに行きたいところじゃが……」	「Muu, I'd like to go help them but......」
 
-163066	Satella	「ふん、そんなの放っておけ。	「Hmph, just leave them.
-163067	+	　サテラ達は魔人を倒さなければいけないんだから」	　We have to defeat the Fiend first.」
+163066	Satella		「ふん、そんなの放っておけ。	「Hmph, just leave them.
+163067	+		　サテラ達は魔人を倒さなければいけないんだから」	　We have to defeat the Fiend first.」
 
-163068	Melfeis Promenade	「……そう、ですね。	「......That's right.
-163069	+	　総統のもっとも大事な任務は、	　The Supreme Leader's most important duty is
-163070	+	　魔人の撃退、ですから……」	　repelling the Fiend, after all......」
+163068	Melfeis Promenade		「……そう、ですね。	「......That's right.
+163069	+		　総統のもっとも大事な任務は、	　The Supreme Leader's most important duty is
+163070	+		　魔人の撃退、ですから……」	　repelling the Fiend, after all......」
 
-163071	-	メルフェイスは何度も何か別のことを	Melfeis kept hesitating as if she wanted to say something else
-163072	+	言おうとしてやめたように、	multiple times,
-163073	+	つっかえつっかえに喋っていた。	and spoke haltingly.
+163071	-		メルフェイスは何度も何か別のことを	Melfeis kept hesitating as if she wanted to say something else
+163072	+		言おうとしてやめたように、	multiple times,
+163073	+		つっかえつっかえに喋っていた。	and spoke haltingly.
 
-163074	Melfeis Promenade	「幸福きゃんきゃんが湧くカクテル迷宮に寄って、	「We should stop by the Cocktail Labyrinth where happy kyan kyan spring forth,
-163075	+	　皆さんの戦力を増強する。	　to strengthen everyone's power.
-163076	+	　その方が2000よりも多くの人が救えます、ね」	　That way we can save far more than 2000 people, right.」
+163074	Melfeis Promenade		「幸福きゃんきゃんが湧くカクテル迷宮に寄って、	「We should stop by the Cocktail Labyrinth where happy kyan kyan spring forth,
+163075	+		　皆さんの戦力を増強する。	　to strengthen everyone's power.
+163076	+		　その方が2000よりも多くの人が救えます、ね」	　That way we can save far more than 2000 people, right.」
 
-163077	Rance	「む、そうか。	「Hm, I see.
-163078	+	　ここに行くと幸福きゃんきゃんの	　If we go there we might miss the time when happy kyan kyan
-163079	+	　湧く時間に間に合わなくなるのか」	　appear.」
+163077	Rance		「む、そうか。	「Hm, I see.
+163078	+		　ここに行くと幸福きゃんきゃんの	　If we go there we might miss the time when happy kyan kyan
+163079	+		　湧く時間に間に合わなくなるのか」	　appear.」
 
-163080	Jaro Jaslak	「アペムンタ……アペムンタ……」	「Apemunta...... Apemunta......」
+163080	Jaro Jaslak		「アペムンタ……アペムンタ……」	「Apemunta...... Apemunta......」
 
-163081	Jaro Jaslak	「ああ、聞き覚えがあると思ったら、	「Ah, now that you mention it, I remember,
-163082	+	　それ、メルフェイスの故郷じゃないか！」	　that's Melfeis's hometown!」
+163081	Jaro Jaslak		「ああ、聞き覚えがあると思ったら、	「Ah, now that you mention it, I remember,
+163082	+		　それ、メルフェイスの故郷じゃないか！」	　that's Melfeis's hometown!」
 
-163083	Melfeis Promenade	「ッ……」	「......!」
+163083	Melfeis Promenade		「ッ……」	「......!」
 
-163084	Chaka Cadmium	「なんと、それはまことか」	「What, is that true?」
+163084	Chaka Cadmium		「なんと、それはまことか」	「What, is that true?」
 
-163085	Melfeis Promenade	「……は、はい」	「......Y, yes.」
+163085	Melfeis Promenade		「……は、はい」	「......Y, yes.」
 
-163086	Jaro Jaslak	「ははは、自分の故郷の名前を忘れるなんて、	「Hahaha, forgetting the name of your own hometown,
-163087	+	　お前も案外薄情な女だな！」	　you're quite the cold woman!」
+163086	Jaro Jaslak		「ははは、自分の故郷の名前を忘れるなんて、	「Hahaha, forgetting the name of your own hometown,
+163087	+		　お前も案外薄情な女だな！」	　you're quite the cold woman!」
 
-163088	Melfeis Promenade	「…………」	「............」
+163088	Melfeis Promenade		「…………」	「............」
 
-163089	-	メルフェイスは辛そうに自分の腕を	Melfeis painfully gripped her own arm
-163090	+	キュッと掴んでいた。	tightly.
+163089	-		メルフェイスは辛そうに自分の腕を	Melfeis painfully gripped her own arm
+163090	+		キュッと掴んでいた。	tightly.
 
-163091	Melfeis Promenade	「……確かに私の故郷では、あります。	「......It is indeed my hometown.
-163092	+	　ですが、それと任務は無関係……」	　But that has nothing to do with the mission......」
+163091	Melfeis Promenade		「……確かに私の故郷では、あります。	「......It is indeed my hometown.
+163092	+		　ですが、それと任務は無関係……」	　But that has nothing to do with the mission......」
 
-163093	Melfeis Promenade	「ランス総統……	「Supreme Leader Rance......
-163094	+	　どうか私のことはお気になさらず……」	　Please don't mind me......」
+163093	Melfeis Promenade		「ランス総統……	「Supreme Leader Rance......
+163094	+		　どうか私のことはお気になさらず……」	　Please don't mind me......」
 
-163095	Chaka Cadmium	「む、むう……」	「Muu, muu......」
+163095	Chaka Cadmium		「む、むう……」	「Muu, muu......」
 
-163096	Rance~	（ほほう、メルフェイスちゃんの故郷か。	（Hmm, so it's Melfeis-chan's hometown.
-163097	+	　助けて恩を売るチャンスだな）	　This is a perfect chance to save them and earn her gratitude.）
+163096	Rance~	真剣	（ほほう、メルフェイスちゃんの故郷か。	（Hmm, so it's Melfeis-chan's hometown.
+163097	+		　助けて恩を売るチャンスだな）	　This is a perfect chance to save them and earn her gratitude.）

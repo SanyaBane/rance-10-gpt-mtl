@@ -4,102 +4,102 @@
 * Kaybwan	ケイブワン	Female
 * Sill Plain	シィル	Female
 
-172046	Rance	「む、お前ら、止まれ……」	「Hm, you two, stop...」
+172046	Rance	真剣	「む、お前ら、止まれ……」	「Hm, you two, stop...」
 
-172047	-	気配を感じて、ランスが廊下の角で止まる。	Sensing a presence, Rance stopped at the corner of the hallway.
+172047	-		気配を感じて、ランスが廊下の角で止まる。	Sensing a presence, Rance stopped at the corner of the hallway.
 
-172048	Kaybnyan	「にゃーっ、にゃ、にゃにゃにゃー♪	「Nyaah, nya, nyanyanya♪
-172049	+	　にゃにゃにゃ、にゃんにゃんにゃーん♪」	　Nyanyanya, nyannyan nyaan♪」
+172048	Kaybnyan	笑顔	「にゃーっ、にゃ、にゃにゃにゃー♪	「Nyaah, nya, nyanyanya♪
+172049	+		　にゃにゃにゃ、にゃんにゃんにゃーん♪」	　Nyanyanya, nyannyan nyaan♪」
 
-172050	Kaybwan	「わん♪　わん♪　わん♪」	「Wan♪ Wan♪ Wan♪」
+172050	Kaybwan	講釈たれ	「わん♪　わん♪　わん♪」	「Wan♪ Wan♪ Wan♪」
 
-172051	Kaybnyan	「にゃっ！？　にゃにゃにゃにゃ！	「Nya!? Nyanyanyanya!
-172052	+	　にゃーーーーーーーーーーーー！」	　Nyaaaaaaaaaaaaaaaa!」
+172051	Kaybnyan	怒り	「にゃっ！？　にゃにゃにゃにゃ！	「Nya!? Nyanyanyanya!
+172052	+		　にゃーーーーーーーーーーーー！」	　Nyaaaaaaaaaaaaaaaa!」
 
-172053	Kaybwan	「あ、わわわのわん♪　わん♪」	「Ah, wawawa wan♪ Wan♪」
+172053	Kaybwan	講釈たれ	「あ、わわわのわん♪　わん♪」	「Ah, wawawa wan♪ Wan♪」
 
-172054	Kaybnyan	「…………」	「............」
+172054	Kaybnyan	基本	「…………」	「............」
 
-172055	Kaybwan	「…………」	「............」
+172055	Kaybwan		「…………」	「............」
 
-172056	Kaybnyan	「いえーい、ニャンとワンのテーマ、	「Yay, the Nyan and Wan theme,
-172057	+	　順調に出来上がっているにゃん。	　is coming along nicely, nyan.
-172058	+	　ケイブリス様にお披露目の時が楽しみにゃん」	　I'm looking forward to showing it to Kayblis-sama, nyan.」
+172056	Kaybnyan	笑顔	「いえーい、ニャンとワンのテーマ、	「Yay, the Nyan and Wan theme,
+172057	+		　順調に出来上がっているにゃん。	　is coming along nicely, nyan.
+172058	+		　ケイブリス様にお披露目の時が楽しみにゃん」	　I'm looking forward to showing it to Kayblis-sama, nyan.」
 
-172059	Kaybwan	「そうね。	「That's right.
-172060	+	　魔王就任のお祝いに聞かせるわん。	　We'll play it at the Demon King inauguration celebration, wan.
-172061	+	　でも、ワンとニャンのテーマ、よ」	　But it's the Wan and Nyan theme.」
+172059	Kaybwan	ニヤリ	「そうね。	「That's right.
+172060	+		　魔王就任のお祝いに聞かせるわん。	　We'll play it at the Demon King inauguration celebration, wan.
+172061	+		　でも、ワンとニャンのテーマ、よ」	　But it's the Wan and Nyan theme.」
 
-172062	Kaybwan	「最近はケイブリス様、	「Lately Kayblis-sama
-172063	+	　シャリエラとのお喋りに夢中だから	　has been so absorbed talking with Shariela
-172064	+	　秘密の練習がしやすくなったわね」	　that our secret practice has become easier.」
+172062	Kaybwan	基本	「最近はケイブリス様、	「Lately Kayblis-sama
+172063	+		　シャリエラとのお喋りに夢中だから	　has been so absorbed talking with Shariela
+172064	+		　秘密の練習がしやすくなったわね」	　that our secret practice has become easier.」
 
-172065	Kaybnyan	「そうにゃんな、シャリエラの奴、	「That's right nyan, that Shariela
-172066	+	　まーたいつもの話聞かされているにゃん」	　is stuck listening to the usual stories again nyan.」
+172065	Kaybnyan		「そうにゃんな、シャリエラの奴、	「That's right nyan, that Shariela
+172066	+		　まーたいつもの話聞かされているにゃん」	　is stuck listening to the usual stories again nyan.」
 
-172067	Kaybwan	「ケイブリス様、	「Kayblis-sama
-172068	+	　あの話が大好きだから仕方ないわん」	　loves those stories so it can't be helped, wan.」
+172067	Kaybwan		「ケイブリス様、	「Kayblis-sama
+172068	+		　あの話が大好きだから仕方ないわん」	　loves those stories so it can't be helped, wan.」
 
-172069	Kaybnyan	「もうニャンは耳に猫、	「Nyan's ears are already cat ears,
-172070	+	　ならぬ耳にタコにゃん」	　no, octopus ears nyan.」
+172069	Kaybnyan	ブーたれ	「もうニャンは耳に猫、	「Nyan's ears are already cat ears,
+172070	+		　ならぬ耳にタコにゃん」	　no, octopus ears nyan.」
 
-172071	Kaybnyan	「シャリエラに押しつけられてホクホクにゃん」	「Being forced onto Shariela makes me so happy nyan.」
+172071	Kaybnyan	笑顔	「シャリエラに押しつけられてホクホクにゃん」	「Being forced onto Shariela makes me so happy nyan.」
 
-172072	Kaybwan	「そうかしら……	「Is that so...
-172073	+	　正直、ワンは何度聞いてもいいけど……	　Honestly Wan doesn't mind hearing it any number of times...
-172074	+	　話はさっぱりだけどケイブリス様嬉しそうだし」	　The story is boring but Kayblis-sama looks so happy.」
+172072	Kaybwan	基本	「そうかしら……	「Is that so...
+172073	+		　正直、ワンは何度聞いてもいいけど……	　Honestly Wan doesn't mind hearing it any number of times...
+172074	+		　話はさっぱりだけどケイブリス様嬉しそうだし」	　The story is boring but Kayblis-sama looks so happy.」
 
-172075	Rance	「どーーーーーーーーーーん！」	「Doooooon!」
+172075	Rance	怒り	「どーーーーーーーーーーん！」	「Doooooon!」
 
-172076	Kaybwan	「わふー！？」	「Wafu!?」
+172076	Kaybwan	ぐぬぬ	「わふー！？」	「Wafu!?」
 
-172077	Kaybnyan	「にぎゃー！？	「Nigyaa!?」
-172078	+	　にゃんか出たーーー！」	　Something came out---!」
+172077	Kaybnyan	怒り	「にぎゃー！？	「Nigyaa!?」
+172078	+		　にゃんか出たーーー！」	　Something came out---!」
 
-172079	Kaybnyan	「おおおお、お前らがにゃんでここにー！？」	「Oooooh, why are you guys here---!?」
+172079	Kaybnyan		「おおおお、お前らがにゃんでここにー！？」	「Oooooh, why are you guys here---!?」
 
-172080	Rance	「にゃんでも何もケイブリスを	「No reason, I'm here to fucking kill Kayblis
-172081	+	　ブッ殺しに来たに決まってるだろうが！	　of course!
-172082	+	　がはははははは！」	　Gahahahahaha!」
+172080	Rance	笑顔	「にゃんでも何もケイブリスを	「No reason, I'm here to fucking kill Kayblis
+172081	+		　ブッ殺しに来たに決まってるだろうが！	　of course!
+172082	+		　がはははははは！」	　Gahahahahaha!」
 
-172083	Kaybnyan	「にゃにゃにゃー！？」	「Nyanyanyaa!?」
+172083	Kaybnyan	怒り	「にゃにゃにゃー！？」	「Nyanyanyaa!?」
 
-172084	Kaybnyan	「ややや、やばいにゃん。	「Yaya, this is bad nyan.
-172085	+	　こいつらには今まで散々ひどい目に……	　These guys have made us suffer so much before...
-172086	+	　正直、最強将軍のニャンでもちょっと……」	　Honestly even the strongest general Nyan is a bit...」
+172084	Kaybnyan		「ややや、やばいにゃん。	「Yaya, this is bad nyan.
+172085	+		　こいつらには今まで散々ひどい目に……	　These guys have made us suffer so much before...
+172086	+		　正直、最強将軍のニャンでもちょっと……」	　Honestly even the strongest general Nyan is a bit...」
 
-172087	Kaybwan	「おおお、落ち着きなさい！	「Ooooh, calm down!
-172088	+	　ワンは無敵軍師わん……	　Wan is the invincible strategist wan...
-172089	+	　こここ、こんな状況でも最高の策で……」	　E-even in this situation, with the best plan...」
+172087	Kaybwan	講釈たれ	「おおお、落ち着きなさい！	「Ooooh, calm down!
+172088	+		　ワンは無敵軍師わん……	　Wan is the invincible strategist wan...
+172089	+		　こここ、こんな状況でも最高の策で……」	　E-even in this situation, with the best plan...」
 
-172090	Rance	「ほほーう？	「Hohou?
-172091	+	　では、どうするのか見せてもらおうか？」	　Then show me what you'll do?」
+172090	Rance	基本	「ほほーう？	「Hohou?
+172091	+		　では、どうするのか見せてもらおうか？」	　Then show me what you'll do?」
 
-172092	Kaybwan	「ぽ！」	「Po!」
+172092	Kaybwan		「ぽ！」	「Po!」
 
-172093	Rance	「……ぽ？」	「...Po?」
+172093	Rance		「……ぽ？」	「...Po?」
 
-172094	Kaybwan	「ぽんぽん、いたーーーーい！」	「Pon pon, it huuurts!」
+172094	Kaybwan	ぐぬぬ	「ぽんぽん、いたーーーーい！」	「Pon pon, it huuurts!」
 
-172095	Rance	「はあ？」	「Haa?」
+172095	Rance	基本	「はあ？」	「Haa?」
 
-172096	Kaybnyan	「…………はっ」	「............Hah」
+172096	Kaybnyan		「…………はっ」	「............Hah」
 
-172097	Kaybnyan	「ぐあーっ、ニャンもぽんぽん痛いにゃん！	「Guaah, Nyan also got pon pon hurt nyan!
-172098	+	　こんなに痛くちゃ最強のニャンも	　With this much pain even the strongest Nyan
-172099	+	　戦うことが出来ないにゃんー！」	　can't fight nyan---!」
+172097	Kaybnyan	ぶわわ	「ぐあーっ、ニャンもぽんぽん痛いにゃん！	「Guaah, Nyan also got pon pon hurt nyan!
+172098	+		　こんなに痛くちゃ最強のニャンも	　With this much pain even the strongest Nyan
+172099	+		　戦うことが出来ないにゃんー！」	　can't fight nyan---!」
 
-172100	Kaybnyan	「と、いうわけで……」	「And so......」
+172100	Kaybnyan	基本	「と、いうわけで……」	「And so......」
 
-172101	Kaybwan	「さらば！」	「Farewell!」
+172101	Kaybwan		「さらば！」	「Farewell!」
 
-172102	Kaybnyan	「すたこらさっさー！」	「Stakora sassa!」
+172102	Kaybnyan		「すたこらさっさー！」	「Stakora sassa!」
 
-172103	Kaybwan	「あ、ちょ、そっち！？	「Ah, wait, that way!?」
-172104	+	　待つわんー！」	　Wait for me wan---!」
+172103	Kaybwan	ぐぬぬ	「あ、ちょ、そっち！？	「Ah, wait, that way!?」
+172104	+		　待つわんー！」	　Wait for me wan---!」
 
-172105	-	ぴゅぴゅぴゅーと二人は逃げ出した。	The two of them fled with a pew pew pew.
+172105	-		ぴゅぴゅぴゅーと二人は逃げ出した。	The two of them fled with a pew pew pew.
 
-172106	Rance	「あいつらだけは相変わらずだな……」	「Those two are the same as always...」
+172106	Rance	だる顔	「あいつらだけは相変わらずだな……」	「Those two are the same as always...」
 
-172107	Sill Plain	「そうですね……」	「They really are...」
+172107	Sill Plain	苦笑	「そうですね……」	「They really are...」

@@ -6,173 +6,173 @@
 * Sill Plain	シィル	Female
 * Rona Kestina	メイドロナ	Female
 
-122888	Ian Ruston	「これは御主人様」	「This is for you, Master.」
+122888	Ian Ruston	基本	「これは御主人様」	「This is for you, Master.」
 
-122889	-	イアンはランスを見つけると、	When Ian found Rance,
-122890	+	執事らしく落ち着いた様子で、	he calmly performed a perfect bow
-122891	+	堂に入ったお辞儀をした。	like a proper butler.
+122889	-		イアンはランスを見つけると、	When Ian found Rance,
+122890	+		執事らしく落ち着いた様子で、	he calmly performed a perfect bow
+122891	+		堂に入ったお辞儀をした。	like a proper butler.
 
-122892	Ian Ruston	「丁度、お茶が入ったところです。	「The tea has just been prepared.
-122893	+	　もし宜しければ如何でしょう？」	　Would you like some?」
+122892	Ian Ruston		「丁度、お茶が入ったところです。	「The tea has just been prepared.
+122893	+		　もし宜しければ如何でしょう？」	　Would you like some?」
 
-122894	Rance	「男の茶なんぞ飲めるか。	「As if I could drink tea made by a man.
-122895	?	　と言うところだが気まぐれを起こした。	　But I feel like it today.
-122896	+	　俺様が飲んでやるから気合い入れてつげ」	　Make it with spirit.」
+122894	Rance	真剣	「男の茶なんぞ飲めるか。	「As if I could drink tea made by a man.
+122895	?		　と言うところだが気まぐれを起こした。	　But I feel like it today.
+122896	+		　俺様が飲んでやるから気合い入れてつげ」	　Make it with spirit.」
 
-122897	Ian Ruston	「はい、ありがとうございます」	「Yes, thank you.」
+122897	Ian Ruston	基本	「はい、ありがとうございます」	「Yes, thank you.」
 
-122898	Rance	「むっ、これは！」	「Mu, this is!」
+122898	Rance		「むっ、これは！」	「Mu, this is!」
 
-122899	Ian Ruston	「す、すみません、何か不手際が！？」	「S-sorry, is there something wrong!?」
+122899	Ian Ruston		「す、すみません、何か不手際が！？」	「S-sorry, is there something wrong!?」
 
-122900	Rance	「い……意外にも美味い……」	「I... it's surprisingly delicious...」
+122900	Rance		「い……意外にも美味い……」	「I... it's surprisingly delicious...」
 
-122901	Rance	「むう、なんか癪だな。	「Muu, that's annoying.
-122902	+	　しかし、美味いな、やるではないか」	　But it's good, not bad.」
+122901	Rance		「むう、なんか癪だな。	「Muu, that's annoying.
+122902	+		　しかし、美味いな、やるではないか」	　But it's good, not bad.」
 
-122903	Ian Ruston	「は、はい。	「Y-yes.
-122904	+	　ありがとうございます……」	　Thank you...」
+122903	Ian Ruston		「は、はい。	「Y-yes.
+122904	+		　ありがとうございます……」	　Thank you...」
 
-122905	-	イアンが肩の力を抜いてホッと息を吐いた。	Ian relaxed his shoulders and breathed a sigh of relief.
-122906	+	心底から安心し、喜んでいるのが表情に出ていた。	His expression showed deep relief and joy.
+122905	-		イアンが肩の力を抜いてホッと息を吐いた。	Ian relaxed his shoulders and breathed a sigh of relief.
+122906	+		心底から安心し、喜んでいるのが表情に出ていた。	His expression showed deep relief and joy.
 
-122907	Rance	「本当に癪だ。	「It's really annoying.
-122908	+	　次から不味く淹れろ。	　Make it bad next time.
-122909	+	　俺は飲まんがな」	　I won't drink it.」
+122907	Rance		「本当に癪だ。	「It's really annoying.
+122908	+		　次から不味く淹れろ。	　Make it bad next time.
+122909	+		　俺は飲まんがな」	　I won't drink it.」
 
-122910	Ian Ruston	「い、いえ、一応見習いとは言え、	「N-no, even as an apprentice,
-122911	+	　執事でございますので」	　I am a butler.」
+122910	Ian Ruston		「い、いえ、一応見習いとは言え、	「N-no, even as an apprentice,
+122911	+		　執事でございますので」	　I am a butler.」
 
-122912	-	ぺっこりとイアンは頭を下げた。	Ian bowed his head politely.
+122912	-		ぺっこりとイアンは頭を下げた。	Ian bowed his head politely.
 
-122913	Ian Ruston	「では、僕はこれで。	「Well then, I'll take my leave.
-122914	+	　御用があればいつでもお呼び下さい」	　Please call me anytime if you need anything.」
+122913	Ian Ruston		「では、僕はこれで。	「Well then, I'll take my leave.
+122914	+		　御用があればいつでもお呼び下さい」	　Please call me anytime if you need anything.」
 
-122915	Rance	「……ガキとは思えんくらい、	「...He's so reliable
-122916	+	　しっかりしてる奴だな」	　you wouldn't think he's a kid.」
+122915	Rance		「……ガキとは思えんくらい、	「...He's so reliable
+122916	+		　しっかりしてる奴だな」	　you wouldn't think he's a kid.」
 
-122917	Biscuitta Burns	「はい、執事見習いとして、	「Yes, as a butler apprentice,
-122918	+	　よく働いてくれています」	　he works very hard.」
+122917	Biscuitta Burns		「はい、執事見習いとして、	「Yes, as a butler apprentice,
+122918	+		　よく働いてくれています」	　he works very hard.」
 
-122919	Biscuitta Burns	「手際は良いですし、地頭も良いです。	「His work is skilled and he's smart.
-122920	+	　元は上流階級の人間ですから、	　He was originally from the upper class,
-122921	+	　マナーに関しては教えるまでもなく」	　so no need to teach manners.」
+122919	Biscuitta Burns	目閉じ	「手際は良いですし、地頭も良いです。	「His work is skilled and he's smart.
+122920	+		　元は上流階級の人間ですから、	　He was originally from the upper class,
+122921	+		　マナーに関しては教えるまでもなく」	　so no need to teach manners.」
 
-122922	Biscuitta Burns	「何より本人にやる気がありますので、	「Above all he is motivated,
-122923	+	　この調子で教育すれば一人前の執事になるかと」	　so with this pace he should become a full butler.」
+122922	Biscuitta Burns		「何より本人にやる気がありますので、	「Above all he is motivated,
+122923	+		　この調子で教育すれば一人前の執事になるかと」	　so with this pace he should become a full butler.」
 
-122924	Kentou Kanami	「ふーん、すごいんだ……」	「Hmm, impressive...」
+122924	Kentou Kanami	基本	「ふーん、すごいんだ……」	「Hmm, impressive...」
 
-122925	Biscuitta Burns	「はい、本当にすごい……	「Yes, he really is...
-122926	+	　そして、とても強い子です」	　And a very strong child.」
+122925	Biscuitta Burns		「はい、本当にすごい……	「Yes, he really is...
+122926	+		　そして、とても強い子です」	　And a very strong child.」
 
-122927	Rance	「ビスケッタさんがそんな褒めるとは珍しいな」	「It's rare for Biscuitta to praise someone so much.」
+122927	Rance		「ビスケッタさんがそんな褒めるとは珍しいな」	「It's rare for Biscuitta to praise someone so much.」
 
-122928	Biscuitta Burns	「…………」	「............」
+122928	Biscuitta Burns	目閉じ	「…………」	「............」
 
-122929	Biscuitta Burns	「一族が全員、	「His entire clan was
-122930	+	　魔人レッドアイに殺されたのだと」	　killed by the Fiend RedEye.」
+122929	Biscuitta Burns		「一族が全員、	「His entire clan was
+122930	+		　魔人レッドアイに殺されたのだと」	　killed by the Fiend RedEye.」
 
-122931	Kentou Kanami	「えっ……」	「Eh...」
+122931	Kentou Kanami	基本	「えっ……」	「Eh...」
 
-122932	Biscuitta Burns	「魔人レッドアイ率いる魔軍に、	「The Monster Army led by Fiend RedEye
-122933	+	　街が襲われ、その領主である一族が、	　attacked the town, and the ruling clan,
-122934	+	　そのまま……と」	　were...」
+122932	Biscuitta Burns		「魔人レッドアイ率いる魔軍に、	「The Monster Army led by Fiend RedEye
+122933	+		　街が襲われ、その領主である一族が、	　attacked the town, and the ruling clan,
+122934	+		　そのまま……と」	　were...」
 
-122935	Biscuitta Burns	「その時の恐怖や悔しさは……	「The terror and regret from that time...
-122936	+	　そう簡単に払拭できるものではないかと」	　cannot be easily erased.」
+122935	Biscuitta Burns		「その時の恐怖や悔しさは……	「The terror and regret from that time...
+122936	+		　そう簡単に払拭できるものではないかと」	　cannot be easily erased.」
 
-122937	Biscuitta Burns	「それでも、今はああして笑みを浮かべている。	「Even so, he smiles like that now.
-122938	+	　とても、賢く……強い子と思います」	　I think he's a very wise... and strong child.」
+122937	Biscuitta Burns		「それでも、今はああして笑みを浮かべている。	「Even so, he smiles like that now.
+122938	+		　とても、賢く……強い子と思います」	　I think he's a very wise... and strong child.」
 
-122939	Kentou Kanami	「そうだったんだ……」	「So that's what happened...」
+122939	Kentou Kanami		「そうだったんだ……」	「So that's what happened...」
 
-122940	Sill Plain	「幸せになって欲しい、ですね……」	「I hope he finds happiness...」
+122940	Sill Plain		「幸せになって欲しい、ですね……」	「I hope he finds happiness...」
 
-122941	Biscuitta Burns	「その辺りは心配ないかと」	「I don't think we need to worry about that.」
+122941	Biscuitta Burns		「その辺りは心配ないかと」	「I don't think we need to worry about that.」
 
-122942	Kentou Kanami	「へ？」	「Eh?」
+122942	Kentou Kanami		「へ？」	「Eh?」
 
-122943	Biscuitta Burns	「ああ、それと……	「Ah, and also...
-122944	+	　そういえば、唯一欠点がありました」	　By the way, there is one flaw.」
+122943	Biscuitta Burns		「ああ、それと……	「Ah, and also...
+122944	+		　そういえば、唯一欠点がありました」	　By the way, there is one flaw.」
 
-122945	Sill Plain	「欠点、ですか？」	「A flaw?」
+122945	Sill Plain		「欠点、ですか？」	「A flaw?」
 
-122946	Rona Kestina	「メイド長、こちらの作業は終わりました。	「Head Maid, this task is complete.
-122947	+	　次は何を――」	　What next――」
+122946	Rona Kestina		「メイド長、こちらの作業は終わりました。	「Head Maid, this task is complete.
+122947	+		　次は何を――」	　What next――」
 
-122948	-	　	
-122949	+	　　＜ガシャ〜〜〜〜ン！＞	　　＜Crash~~~~~!＞
+122948	-		　	
+122949	+		　　＜ガシャ〜〜〜〜ン！＞	　　＜Crash~~~~~!＞
 
-122950	-	イアンが盛大にスッ転んだ。	Ian took a spectacular fall.
+122950	-		イアンが盛大にスッ転んだ。	Ian took a spectacular fall.
 
-122951	Rona Kestina	「…………？」	「............?」
+122951	Rona Kestina		「…………？」	「............?」
 
-122952	Rona Kestina	「大丈夫……？	「Are you okay...?
-122953	+	　カップ落としたの、拾うね」	　I'll pick up the cup.」
+122952	Rona Kestina		「大丈夫……？	「Are you okay...?
+122953	+		　カップ落としたの、拾うね」	　I'll pick up the cup.」
 
-122954	Ian Ruston	「あ、ご、ごめん……！」	「Ah, s-sorry...!」
+122954	Ian Ruston	屈辱	「あ、ご、ごめん……！」	「Ah, s-sorry...!」
 
-122955	Ian Ruston	「……それと、ありがとう」	「...And thank you.」
+122955	Ian Ruston	基本	「……それと、ありがとう」	「...And thank you.」
 
-122956	Rona Kestina	「うぅん」	「No problem.」
+122956	Rona Kestina		「うぅん」	「No problem.」
 
-122957	Ian Ruston	「うっ……」	「Ugh...」
+122957	Ian Ruston	屈辱	「うっ……」	「Ugh...」
 
-122958	Ian Ruston	「…………」	「............」
+122958	Ian Ruston		「…………」	「............」
 
-122959	-	イアンはカーッと顔を赤くした。	Ian's face turned bright red.
+122959	-		イアンはカーッと顔を赤くした。	Ian's face turned bright red.
 
-122960	Ian Ruston	「あ、ありがとう、もう大丈夫だから」	「Th-thank you, I'm fine now.」
+122960	Ian Ruston		「あ、ありがとう、もう大丈夫だから」	「Th-thank you, I'm fine now.」
 
-122961	Rona Kestina	「あっ……」	「Ah...」
+122961	Rona Kestina	基本	「あっ……」	「Ah...」
 
-122962	Ian Ruston	「あいたぁっ！」	「Ouch!」
+122962	Ian Ruston		「あいたぁっ！」	「Ouch!」
 
-122963	-	イアンは柱にゴチーン！	Ian banged into a pillar!
+122963	-		イアンは柱にゴチーン！	Ian banged into a pillar!
 
-122964	Rona Kestina	「ぶつかる……って、言おうと……」	「I was trying to say... watch out for the pillar...」
+122964	Rona Kestina		「ぶつかる……って、言おうと……」	「I was trying to say... watch out for the pillar...」
 
-122965	Ian Ruston	「ああ、大丈夫、大丈夫だから。	「Ah, I'm fine, really fine.
-122966	+	　なんでもないから、そ、それじゃ」	　It's nothing, s-so...」
+122965	Ian Ruston	屈辱	「ああ、大丈夫、大丈夫だから。	「Ah, I'm fine, really fine.
+122966	+		　なんでもないから、そ、それじゃ」	　It's nothing, s-so...」
 
-122967	Rona Kestina	「あっ……」	「Ah...」
+122967	Rona Kestina	基本	「あっ……」	「Ah...」
 
-122968	Ian Ruston	「あいたぁっ！」	「Ouch!」
+122968	Ian Ruston		「あいたぁっ！」	「Ouch!」
 
-122969	-	イアンは窓にゴチーン！	Ian banged into the window!
+122969	-		イアンは窓にゴチーン！	Ian banged into the window!
 
-122970	Rona Kestina	「…………」	「............」
+122970	Rona Kestina		「…………」	「............」
 
-122971	Rona Kestina	「？？」	「??」
+122971	Rona Kestina		「？？」	「??」
 
-122972	-	ロナは可愛らしく小首を傾げた。	Rona tilted her head cutely.
+122972	-		ロナは可愛らしく小首を傾げた。	Rona tilted her head cutely.
 
-122973	Biscuitta Burns	「…………」	「............」
+122973	Biscuitta Burns		「…………」	「............」
 
-122974	Biscuitta Burns	「大抵のことはこなせる優秀な子ですが……	「He's an excellent boy who can handle most things...
-122975	+	　ロナの近くにいる時だけ、ああですね」	　But when he's near Rona, he's like that.」
+122974	Biscuitta Burns		「大抵のことはこなせる優秀な子ですが……	「He's an excellent boy who can handle most things...
+122975	+		　ロナの近くにいる時だけ、ああですね」	　But when he's near Rona, he's like that.」
 
-122976	Kentou Kanami	「あ、ああというか、あれは……」	「Ah, yeah, that's...」
+122976	Kentou Kanami	ジト目	「あ、ああというか、あれは……」	「Ah, yeah, that's...」
 
-122977	Sill Plain	「あはは……」	「Ahaha...」
+122977	Sill Plain	苦笑	「あはは……」	「Ahaha...」
 
-122978	Rance	「ん？　なんだなんだ？	「Hm? What what?
-122979	+	　なんの話をしとる？」	　What are you talking about?」
+122978	Rance	だる顔	「ん？　なんだなんだ？	「Hm? What what?
+122979	+		　なんの話をしとる？」	　What are you talking about?」
 
-122980	Biscuitta Burns	「本人に自覚がないようですので、	「He doesn't seem aware of it himself,
-122981	+	　まだ触れておりません」	　so I haven't mentioned it yet.」
+122980	Biscuitta Burns	基本	「本人に自覚がないようですので、	「He doesn't seem aware of it himself,
+122981	+		　まだ触れておりません」	　so I haven't mentioned it yet.」
 
-122982	Kentou Kanami	「ま、微笑ましいからいいけど……」	「Well, it's cute so it's fine...」
+122982	Kentou Kanami		「ま、微笑ましいからいいけど……」	「Well, it's cute so it's fine...」
 
-122983	Rance	「だから、なんなんだー！？」	「So what is it!?」
+122983	Rance	怒り	「だから、なんなんだー！？」	「So what is it!?」
 
-122984	Rona Kestina	「……鼻血、出てるよ？」	「...Your nose is bleeding?」
+122984	Rona Kestina	基本	「……鼻血、出てるよ？」	「...Your nose is bleeding?」
 
-122985	Rona Kestina	「はい、ティッシュ」	「Here, tissue.」
+122985	Rona Kestina		「はい、ティッシュ」	「Here, tissue.」
 
-122986	Ian Ruston	「うぐ……	「Ugh...
-122987	+	　あ、ありが、とう……」	　Th-thank... you...」
+122986	Ian Ruston	屈辱	「うぐ……	「Ugh...
+122987	+		　あ、ありが、とう……」	　Th-thank... you...」
 
-122988	-	ロナとイアンの二人も	Rona and Ian too
-122989	+	ランス城の生活に馴染んできていた。	were getting used to life in Rance Castle.
+122988	-		ロナとイアンの二人も	Rona and Ian too
+122989	+		ランス城の生活に馴染んできていた。	were getting used to life in Rance Castle.

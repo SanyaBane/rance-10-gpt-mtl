@@ -3,47 +3,47 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Convert Tax	コンバート	Male
 
-61237	Pizarro	「なっ……なんだとおおおおぉぉぉぉ！？」	「Wha... What the hell is thiiiiis!?」
+61237	Pizarro	基本	「なっ……なんだとおおおおぉぉぉぉ！？」	「Wha... What the hell is thiiiiis!?」
 
-61238	Green Monster Soldier	「は、はい、間違いございません……	「Y-yes, there is no mistake...
-61239	+	　レイ様、パイアール様、お二方とも、人間に……」	　Both Lord Lei and Lord Pi-R... by humans...」
+61238	Green Monster Soldier		「は、はい、間違いございません……	「Y-yes, there is no mistake...
+61239	+		　レイ様、パイアール様、お二方とも、人間に……」	　Both Lord Lei and Lord Pi-R... by humans...」
 
-61240	Pizarro	「ばっ、ば、馬鹿なッ！	「I, im- impossible!
-61241	+	　魔剣を持っているとはいえ、人間だろうが！」	　Even if they have a Demon Sword, they're just humans!」
+61240	Pizarro		「ばっ、ば、馬鹿なッ！	「I, im- impossible!
+61241	+		　魔剣を持っているとはいえ、人間だろうが！」	　Even if they have a Demon Sword, they're just humans!」
 
-61242	Green Monster Soldier	「は……そ、そう、なのですが……	「Y... yes, that's right, but...
-61243	+	　報告では、魔血魂化された所まで	　The report confirms they even turned into Demonic Blood Souls...」
-61244	+	　確認されておりまして……」	
+61242	Green Monster Soldier		「は……そ、そう、なのですが……	「Y... yes, that's right, but...
+61243	+		　報告では、魔血魂化された所まで	　The report confirms they even turned into Demonic Blood Souls...」
+61244	+		　確認されておりまして……」	
 
-61245	Pizarro	「………………！」	「............！」
+61245	Pizarro		「………………！」	「............！」
 
-61246	-	天地が逆転したかのように驚き、ふためき、	Shocked as if the world had turned upside down, he panicked,
-61247	+	最後にピサロは放心して膝から崩れ落ちた。	and finally Pizarro collapsed to his knees in a daze.
+61246	-		天地が逆転したかのように驚き、ふためき、	Shocked as if the world had turned upside down, he panicked,
+61247	+		最後にピサロは放心して膝から崩れ落ちた。	and finally Pizarro collapsed to his knees in a daze.
 
-61248	Pizarro	「だ…………大失態、だ……	「Th... this is a huge blunder...
-61249	+	　このままでは、俺が、ケイブリス様に殺される……	　At this rate, Lord Kayblis will kill me...
-61250	+	　俺が……俺の、財宝が……全てパアだ……」	　My... my treasures... everything is ruined...」
+61248	Pizarro		「だ…………大失態、だ……	「Th... this is a huge blunder...
+61249	+		　このままでは、俺が、ケイブリス様に殺される……	　At this rate, Lord Kayblis will kill me...
+61250	+		　俺が……俺の、財宝が……全てパアだ……」	　My... my treasures... everything is ruined...」
 
-61251	Convert Tax~	（…………こらあかんわ）	（............This is bad.）
+61251	Convert Tax~		（…………こらあかんわ）	（............This is bad.）
 
-61252	Convert Tax	「だ、大丈夫でんがな！　大将軍閣下！	「I-it's fine! Great General!
-61253	+	　最終的に戦争に勝ったらよろしいんやろ！？」	　As long as we win the war in the end, right!?」
+61252	Convert Tax	やってもうた	「だ、大丈夫でんがな！　大将軍閣下！	「I-it's fine! Great General!
+61253	+		　最終的に戦争に勝ったらよろしいんやろ！？」	　As long as we win the war in the end, right!?」
 
-61254	Convert Tax	「ワイがきっちり人間ども調略して、	「I'll properly manipulate the humans from inside,
-61255	+	　内側からガタガタにしますさかい！	　and shake them apart!
-61256	+	　つきましては閣下の財宝、ちっとお借りして……」	　So, about borrowing a bit of your treasure, General...」
+61254	Convert Tax		「ワイがきっちり人間ども調略して、	「I'll properly manipulate the humans from inside,
+61255	+		　内側からガタガタにしますさかい！	　and shake them apart!
+61256	+		　つきましては閣下の財宝、ちっとお借りして……」	　So, about borrowing a bit of your treasure, General...」
 
-61257	Pizarro	「やっ……かましいわ！	「Sh... shut up!
-61258	+	　そんな状況ではないのだ！」	　This is no time for that!」
+61257	Pizarro	基本	「やっ……かましいわ！	「Sh... shut up!
+61258	+		　そんな状況ではないのだ！」	　This is no time for that!」
 
-61259	Convert Tax	「げぴ」	「Gepi」
+61259	Convert Tax	お、おかしいでんな〜	「げぴ」	「Gepi」
 
-61260	-	薄汚い企みを見抜かれることもなく、	Without his dirty scheme being seen through,
-61261	+	コンバートは壁まで吹き飛ばされて頭を強打し、	Convert was blasted into the wall, hit his head hard,
-61262	+	そのまま動かなくなった。	and stopped moving.
+61260	-		薄汚い企みを見抜かれることもなく、	Without his dirty scheme being seen through,
+61261	+		コンバートは壁まで吹き飛ばされて頭を強打し、	Convert was blasted into the wall, hit his head hard,
+61262	+		そのまま動かなくなった。	and stopped moving.
 
-61263	Pizarro	「失態だ……おぉおぉぉ、大失態だ……	「A blunder... Ooooooh, a huge blunder...
-61264	+	　どうすればいい、どうすれば…………！」	　What do I do, what do I do...!」
+61263	Pizarro	基本	「失態だ……おぉおぉぉ、大失態だ……	「A blunder... Ooooooh, a huge blunder...
+61264	+		　どうすればいい、どうすれば…………！」	　What do I do, what do I do...!」
 
-61265	-	突き飛ばした人間を気にする余裕など到底なく、	With no room to care about the human he had thrown,
-61266	+	ピサロは答えも出ない自問を繰り返し続けた。	Pizarro kept repeating questions with no answers.
+61265	-		突き飛ばした人間を気にする余裕など到底なく、	With no room to care about the human he had thrown,
+61266	+		ピサロは答えも出ない自問を繰り返し続けた。	Pizarro kept repeating questions with no answers.

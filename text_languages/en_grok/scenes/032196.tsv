@@ -2,24 +2,24 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-129021	Rance	「ん、なんか妙だぞ……」	「Hmm, something feels off...」
+129021	Rance	だる顔	「ん、なんか妙だぞ……」	「Hmm, something feels off...」
 
-129022	Rance	「あーっ！」	「Ah!」
+129022	Rance	怒り	「あーっ！」	「Ah!」
 
-129023	Rance	「攻撃する際に必要なAPが	「The AP needed to attack
-129024	+	　前より増えているではないか！」	　has increased from before!」
+129023	Rance	驚き	「攻撃する際に必要なAPが	「The AP needed to attack
+129024	+		　前より増えているではないか！」	　has increased from before!」
 
-129025	Rance	「おい、シィル！　なんだこれは！？」	「Hey Sill! What the hell is this!?」
+129025	Rance	真剣	「おい、シィル！　なんだこれは！？」	「Hey Sill! What the hell is this!?」
 
-129026	Sill Plain	「どうやら同じ行動を連続で使用すると、	「It seems using the same action repeatedly
-129027	+	　必要APが増えてしまうようですねぇ……」	　increases the required AP...」
+129026	Sill Plain	考え中	「どうやら同じ行動を連続で使用すると、	「It seems using the same action repeatedly
+129027	+		　必要APが増えてしまうようですねぇ……」	　increases the required AP...」
 
-129028	Rance	「むむ、そうなのか？」	「Hmm, is that so?」
+129028	Rance	真剣	「むむ、そうなのか？」	「Hmm, is that so?」
 
-129029	Rance	「つまり、上手くローテーションを組んで、	「So it means rotating actions properly
-129030	+	　モンスターを攻撃した方がお得ってことだな」	　to attack monsters is more efficient.」
+129029	Rance	だる顔	「つまり、上手くローテーションを組んで、	「So it means rotating actions properly
+129030	+		　モンスターを攻撃した方がお得ってことだな」	　to attack monsters is more efficient.」
 
-129031	Sill Plain	「はい、一度使った行動は1ターン休憩すると	「Yes, actions used once recover
-129032	+	　元に戻るみたいですよ」	　after one turn of rest.」
+129031	Sill Plain	基本	「はい、一度使った行動は1ターン休憩すると	「Yes, actions used once recover
+129032	+		　元に戻るみたいですよ」	　after one turn of rest.」
 
-129033	Sill Plain	「私も上手く使って下さいね」	「Please use me effectively too.」
+129033	Sill Plain		「私も上手く使って下さいね」	「Please use me effectively too.」

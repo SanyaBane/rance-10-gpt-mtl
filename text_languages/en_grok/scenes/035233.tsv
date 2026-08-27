@@ -1,11 +1,11 @@
 # 35233	t２４１／３／レッドドラゴン／戦闘前	
 
-262586	?	標高８０００メートル	At 8,000 meters altitude.
-262587	+	ドラゴンを発見する	Discover a dragon.
-262588	+	よし、また戦闘するか・・	Alright, another battle it is...
-262589	+	if (確認("デッキにリア有り")==1){	if (check("Lia is in the deck") == 1) {
-262590	+	　リアのカードが実装されている時のみ、はるまき関係の設定説明	Only when Lia's card is implemented, explanation related to Harumaki.
-262591	+	　　はるまき（ライトニングドラゴンの子供）	    Harumaki (child of the Lightning Dragon)
-262592	+	　　　大きなドラゴンが小さくて可愛いボディになっている	    A big dragon turned into a small and cute body.
-262593	+	　　　多分誰か高位の魔法使いか何者かに呪いをかけられたのでしょう。	    Probably cursed by some high-level magician or someone.
-262594	+	＞戦闘	＞Battle
+262586	?		標高８０００メートル	At 8,000 meters altitude.
+262587	+		ドラゴンを発見する	Discover a dragon.
+262588	+		よし、また戦闘するか・・	Alright, another battle it is...
+262589	+		if (確認("デッキにリア有り")==1){	if (check("Lia is in the deck") == 1) {
+262590	+		　リアのカードが実装されている時のみ、はるまき関係の設定説明	Only when Lia's card is implemented, explanation related to Harumaki.
+262591	+		　　はるまき（ライトニングドラゴンの子供）	    Harumaki (child of the Lightning Dragon)
+262592	+		　　　大きなドラゴンが小さくて可愛いボディになっている	    A big dragon turned into a small and cute body.
+262593	+		　　　多分誰か高位の魔法使いか何者かに呪いをかけられたのでしょう。	    Probably cursed by some high-level magician or someone.
+262594	+		＞戦闘	＞Battle

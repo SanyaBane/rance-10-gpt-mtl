@@ -24,508 +24,508 @@
 * Leazas Red Soldier	汎用リーザス赤兵	Male
 * Leazas Black Knight	汎用リーザス黒騎士	Male
 
-25057	-	リーザス軍の作戦が、成功した。	The Leazas army's strategy was a success.
+25057	-		リーザス軍の作戦が、成功した。	The Leazas army's strategy was a success.
 
-25058	-	ヨシフ率いる魔軍リーザス方面軍は包囲され、	The Monster Army's Leazas expeditionary force led by Joseph was surrounded,
-25059	+	徹底的に叩かれ、削られた。	thoroughly beaten, and whittled down.
+25058	-		ヨシフ率いる魔軍リーザス方面軍は包囲され、	The Monster Army's Leazas expeditionary force led by Joseph was surrounded,
+25059	+		徹底的に叩かれ、削られた。	thoroughly beaten, and whittled down.
 
-25060	-	大軍を扱いながらも、総大将バレスの采配は細部まで行き届き、	Even while commanding a large army, Supreme Commander Barres' orders reached every detail,
-25061	+	実際よりも兵は少なく、質さえ劣る事を相手に悟らせなかった。	preventing the enemy from realizing their forces were fewer and weaker than they appeared.
+25060	-		大軍を扱いながらも、総大将バレスの采配は細部まで行き届き、	Even while commanding a large army, Supreme Commander Barres' orders reached every detail,
+25061	+		実際よりも兵は少なく、質さえ劣る事を相手に悟らせなかった。	preventing the enemy from realizing their forces were fewer and weaker than they appeared.
 
-25062	-	ヨシフの軍は半ばから切り取られた形で、	Joseph's army was cut in half,
-25063	+	後続も分断され、押しとどめられていた。	with reinforcements cut off and pinned down.
+25062	-		ヨシフの軍は半ばから切り取られた形で、	Joseph's army was cut in half,
+25063	+		後続も分断され、押しとどめられていた。	with reinforcements cut off and pinned down.
 
-25064	-	その夜。リーザス軍仮本陣、プリティリア――	That night. At the Leazas army's temporary headquarters in Pretty Lia――
+25064	-		その夜。リーザス軍仮本陣、プリティリア――	That night. At the Leazas army's temporary headquarters in Pretty Lia――
 
-25065	Lia Parapara Leazas	「はー。ご苦労様、バレス」	「Haa. Good work, Barres.」
+25065	Lia Parapara Leazas	基本	「はー。ご苦労様、バレス」	「Haa. Good work, Barres.」
 
-25066	Barres Province	「もったいなきお言葉。	「Such kind words are wasted on me.
-25067	+	　配下の者どもが気張ってくれたおかげです」	　It is all thanks to my subordinates working so hard.」
+25066	Barres Province		「もったいなきお言葉。	「Such kind words are wasted on me.
+25067	+		　配下の者どもが気張ってくれたおかげです」	　It is all thanks to my subordinates working so hard.」
 
-25068	Lia Parapara Leazas	「伏兵の方は、スーがやってたんですって？	「I heard Sioux was in charge of the ambush?
-25069	+	　ずいぶん大人しくなったけど……	　She's become quite well-behaved lately......
-25070	+	　そういうの、まだ出来たのね」	　She can still do that sort of thing.」
+25068	Lia Parapara Leazas		「伏兵の方は、スーがやってたんですって？	「I heard Sioux was in charge of the ambush?
+25069	+		　ずいぶん大人しくなったけど……	　She's become quite well-behaved lately......
+25070	+		　そういうの、まだ出来たのね」	　She can still do that sort of thing.」
 
-25071	Sioux Province	「あ……は、はい。	「Ah...... Y-yes.
-25072	+	　普段は少数の兵の方々に物音だけ立ててもらって、	　We had a small number of soldiers make noise to make it seem
-25073	+	　大勢潜んでるように見せかけて……」	　like a large force was hiding......」
+25071	Sioux Province		「あ……は、はい。	「Ah...... Y-yes.
+25072	+		　普段は少数の兵の方々に物音だけ立ててもらって、	　We had a small number of soldiers make noise to make it seem
+25073	+		　大勢潜んでるように見せかけて……」	　like a large force was hiding......」
 
-25074	Barres Province	「スーと兵士たちが頃合いを見てそちらに回り、	「Sioux and the soldiers would move at the right moment,
-25075	+	　見せかけ通りの働きを一瞬して、同じような	perform their fake role for a moment, then move
-25076	+	　別の場所に、また移る。そういう小細工ですな」	to another similar location. A simple trick like that.」
+25074	Barres Province		「スーと兵士たちが頃合いを見てそちらに回り、	「Sioux and the soldiers would move at the right moment,
+25075	+		　見せかけ通りの働きを一瞬して、同じような	perform their fake role for a moment, then move
+25076	+		　別の場所に、また移る。そういう小細工ですな」	to another similar location. A simple trick like that.」
 
-25077	Cordoba Burn	「いやいや。大軍を使った野戦で……	「No no. In a field battle with such a large army......
-25078	+	　しかも攻めて、守って、伏兵を仕込んで。	　Attacking, defending, and setting up ambushes.
-25079	+	　戦術の教科書に載せたいくらいでしたぞ」	　It was so perfect I'd want to put it in a tactics textbook.」
+25077	Cordoba Burn		「いやいや。大軍を使った野戦で……	「No no. In a field battle with such a large army......
+25078	+		　しかも攻めて、守って、伏兵を仕込んで。	　Attacking, defending, and setting up ambushes.
+25079	+		　戦術の教科書に載せたいくらいでしたぞ」	　It was so perfect I'd want to put it in a tactics textbook.」
 
-25080	Barres Province	「お主もよくやってくれた。	「You did well too.
-25081	+	　カーソンを固めてくれたおかげで楽ができたわ」	　Thanks to you holding the line, things went much smoother.」
+25080	Barres Province		「お主もよくやってくれた。	「You did well too.
+25081	+		　カーソンを固めてくれたおかげで楽ができたわ」	　Thanks to you holding the line, things went much smoother.」
 
-25082	Cordoba Burn	「持ち場を固めるくらいしか能がありませんからな。	「All I can do is hold my position firmly.
-25083	+	　そう言って頂けると光栄です」	　I'm honored to hear you say that.」
+25082	Cordoba Burn		「持ち場を固めるくらいしか能がありませんからな。	「All I can do is hold my position firmly.
+25083	+		　そう言って頂けると光栄です」	　I'm honored to hear you say that.」
 
-25084	Lia Parapara Leazas	「でも、青の軍の護衛はちょっと暑苦しいのよね。	「But the Blue army's escort feels a bit overbearing.
-25085	+	　親衛隊がいないから、仕方ないけど」	　Can't be helped since my personal guards aren't here.」
+25084	Lia Parapara Leazas	拗ね	「でも、青の軍の護衛はちょっと暑苦しいのよね。	「But the Blue army's escort feels a bit overbearing.
+25085	+		　親衛隊がいないから、仕方ないけど」	　Can't be helped since my personal guards aren't here.」
 
-25086	Cordoba Burn	「わぁっはっは！　すみませんな、リア様！	「Wahaha! My apologies, Queen Lia!
-25087	+	　ですが部下どもは喜んでおりましたぞ」	　But my men were thrilled to be of service!」
+25086	Cordoba Burn	笑顔	「わぁっはっは！　すみませんな、リア様！	「Wahaha! My apologies, Queen Lia!
+25087	+		　ですが部下どもは喜んでおりましたぞ」	　But my men were thrilled to be of service!」
 
-25088	Maris Amaryllis	「しかし、リア様。今日は前に出すぎです。	「However, Queen Lia. You were too far forward today.
-25089	+	　影武者を置いて、居場所を特定されないように	　We placed body doubles so your location wouldn't be pinpointed,
-25090	+	　してはいましたが……」	　but still......」
+25088	Maris Amaryllis	真剣	「しかし、リア様。今日は前に出すぎです。	「However, Queen Lia. You were too far forward today.
+25089	+		　影武者を置いて、居場所を特定されないように	　We placed body doubles so your location wouldn't be pinpointed,
+25090	+		　してはいましたが……」	　but still......」
 
-25091	Lia Parapara Leazas	「士気が重要な局面でしょ。	「It was a critical moment for morale.
-25092	+	　そのくらいのリスクは構わないわ」	　That much risk was acceptable.」
+25091	Lia Parapara Leazas	目閉じ	「士気が重要な局面でしょ。	「It was a critical moment for morale.
+25092	+		　そのくらいのリスクは構わないわ」	　That much risk was acceptable.」
 
-25093	-	やや苦い声色のマリスに、	To Maris, who spoke with a slightly bitter tone,
-25094	+	リアは気にせずそう返した。	Lia replied without concern.
+25093	-		やや苦い声色のマリスに、	To Maris, who spoke with a slightly bitter tone,
+25094	+		リアは気にせずそう返した。	Lia replied without concern.
 
-25095	Lia Parapara Leazas	「それに……せっかくダーリンが、	「Besides...... Darling went through all the trouble
-25096	+	　魔人を片付けてくれたんだもん。	　of dealing with the Fiends for us.
-25097	+	　最後の仕上げは、妻の務めよ」	　Finishing the job is a wife's duty.」
+25095	Lia Parapara Leazas	基本	「それに……せっかくダーリンが、	「Besides...... Darling went through all the trouble
+25096	+		　魔人を片付けてくれたんだもん。	　of dealing with the Fiends for us.
+25097	+		　最後の仕上げは、妻の務めよ」	　Finishing the job is a wife's duty.」
 
-25098	Maris Amaryllis	「……仕方ありませんね」	「......I suppose it can't be helped.」
+25098	Maris Amaryllis		「……仕方ありませんね」	「......I suppose it can't be helped.」
 
-25099	-	少しだけ頬を緩めて、マリスは引き下がった。	Maris relaxed her expression slightly and backed down.
+25099	-		少しだけ頬を緩めて、マリスは引き下がった。	Maris relaxed her expression slightly and backed down.
 
-25100	Lia Parapara Leazas	「で、バレス？　まだ終わりじゃないんでしょう」	「So, Barres? It's not over yet, right?」
+25100	Lia Parapara Leazas		「で、バレス？　まだ終わりじゃないんでしょう」	「So, Barres? It's not over yet, right?」
 
-25101	Barres Province	「は……むしろ本番はここから、ですな。	「Yes...... The real battle starts now.
-25102	+	　数の上でもようやく互角といったところ。	　We're finally even in numbers.
-25103	+	　戦い方ひとつで、どう転ぶか……」	　The outcome depends on how we fight......」
+25101	Barres Province	テンション下げ	「は……むしろ本番はここから、ですな。	「Yes...... The real battle starts now.
+25102	+		　数の上でもようやく互角といったところ。	　We're finally even in numbers.
+25103	+		　戦い方ひとつで、どう転ぶか……」	　The outcome depends on how we fight......」
 
-25104	-	と、バレスの言葉を遮るようにして、	As if cutting off Barres' words,
-25105	+	控えめにノックの音が響いた。	a modest knock sounded at the door.
+25104	-		と、バレスの言葉を遮るようにして、	As if cutting off Barres' words,
+25105	+		控えめにノックの音が響いた。	a modest knock sounded at the door.
 
-25106	Sioux Province	「お父様、私が」	「Father, allow me.」
+25106	Sioux Province	基本	「お父様、私が」	「Father, allow me.」
 
-25107	-	スーが扉へ向かって応対し、	Sioux went to the door,
-25108	+	兵士から一封の手紙を受け取ってきた。	received a letter from a soldier,
+25107	-		スーが扉へ向かって応対し、	Sioux went to the door,
+25108	+		兵士から一封の手紙を受け取ってきた。	received a letter from a soldier,
 
-25109	-	戻ってきて、その手紙をそのまま義父に手渡す。	and handed it directly to her father-in-law.
+25109	-		戻ってきて、その手紙をそのまま義父に手渡す。	and handed it directly to her father-in-law.
 
-25110	Barres Province	「儂にか。…………ふむ、白の軍……エクスか」	「For me? ......Hmm, the White army...... Ex, huh.」
+25110	Barres Province		「儂にか。…………ふむ、白の軍……エクスか」	「For me? ......Hmm, the White army...... Ex, huh.」
 
-25111	Barres Province	「……………………」	「........................」
+25111	Barres Province	テンション上げ	「……………………」	「........................」
 
-25112	-	目でリアに許可を取り、手紙を開けて中身を確認し。	He sought permission from Lia with his eyes, then opened the letter and read it.
-25113	+	黒の老将は、わずかに片眉を持ち上げた。	The old general of the Black army slightly raised one eyebrow.
+25112	-		目でリアに許可を取り、手紙を開けて中身を確認し。	He sought permission from Lia with his eyes, then opened the letter and read it.
+25113	+		黒の老将は、わずかに片眉を持ち上げた。	The old general of the Black army slightly raised one eyebrow.
 
-25114	-	魔軍、リーザス方面軍司令部――	Monster Army, Leazas Expeditionary Force Headquarters――
+25114	-		魔軍、リーザス方面軍司令部――	Monster Army, Leazas Expeditionary Force Headquarters――
 
-25115	Joseph	「人間めが…………小賢しい。	「Damn humans............ How cunning.
-25116	+	　儂らを、嵌めてくれたというわけか……」	　So they managed to trap us......」
+25115	Joseph	基本	「人間めが…………小賢しい。	「Damn humans............ How cunning.
+25116	+		　儂らを、嵌めてくれたというわけか……」	　So they managed to trap us......」
 
-25117	-	苦々しく、ヨシフは呼気を吐きだした。	Joseph exhaled bitterly.
-25118	+	周囲に居並ぶ魔物将軍達は、	The Monster Generals standing around him
-25119	+	直立不動の構えで立っている。	stood at perfect attention.
+25117	-		苦々しく、ヨシフは呼気を吐きだした。	Joseph exhaled bitterly.
+25118	+		周囲に居並ぶ魔物将軍達は、	The Monster Generals standing around him
+25119	+		直立不動の構えで立っている。	stood at perfect attention.
 
-25120	-	絶対的な主であるヨシフが来た時点で、	The moment their absolute master Joseph arrived,
-25121	+	魔物将軍達は自ら判断する事を放棄した、	the Monster Generals abandoned any independent thought,
-25122	+	思考する奴隷と化している。	becoming nothing more than thinking slaves.
+25120	-		絶対的な主であるヨシフが来た時点で、	The moment their absolute master Joseph arrived,
+25121	+		魔物将軍達は自ら判断する事を放棄した、	the Monster Generals abandoned any independent thought,
+25122	+		思考する奴隷と化している。	becoming nothing more than thinking slaves.
 
-25123	Joseph	「さぁて……どうしたものか。	「Now then...... What should we do.
-25124	+	　未だ、叩き潰す事も不可能ではないが……	　It's not impossible to crush them yet but......
-25125	+	　おい、考えを述べてみろ」	　Hey, give me your opinion.」
+25123	Joseph		「さぁて……どうしたものか。	「Now then...... What should we do.
+25124	+		　未だ、叩き潰す事も不可能ではないが……	　It's not impossible to crush them yet but......
+25125	+		　おい、考えを述べてみろ」	　Hey, give me your opinion.」
 
-25126	-	気まぐれを起こした風に、	As if on a whim,
-25127	+	ヨシフは傍らの一人に声を掛けた。	Joseph called out to one of those beside him.
+25126	-		気まぐれを起こした風に、	As if on a whim,
+25127	+		ヨシフは傍らの一人に声を掛けた。	Joseph called out to one of those beside him.
 
-25128	Monster General	「は、ははっ。包囲され、他の部隊は遠く……	「Y-yes. We are surrounded, other units are far away......
-25129	+	　糧秣にまで被害が及んでおります。	　Our supplies have also taken damage.
-25130	+	　ここは、撤退かと…………」	　I believe we should retreat......」
+25128	Monster General		「は、ははっ。包囲され、他の部隊は遠く……	「Y-yes. We are surrounded, other units are far away......
+25129	+		　糧秣にまで被害が及んでおります。	　Our supplies have also taken damage.
+25130	+		　ここは、撤退かと…………」	　I believe we should retreat......」
 
-25131	Joseph	「………………撤退か」	「............Retreat, huh.」
+25131	Joseph		「………………撤退か」	「............Retreat, huh.」
 
-25132	-	苦々しく、ヨシフが反芻した。	Joseph repeated the word bitterly.
+25132	-		苦々しく、ヨシフが反芻した。	Joseph repeated the word bitterly.
 
-25133	Monster General	「は、はい！　包囲を突破し撤退、態勢を立て直し、	「Y-yes! Break through the encirclement, retreat, regroup,
-25134	+	　後日に復讐戦とすべきです」	　and seek revenge another day.」
+25133	Monster General		「は、はい！　包囲を突破し撤退、態勢を立て直し、	「Y-yes! Break through the encirclement, retreat, regroup,
+25134	+		　後日に復讐戦とすべきです」	　and seek revenge another day.」
 
-25135	Joseph	「……………………」	「........................」
+25135	Joseph		「……………………」	「........................」
 
-25136	-	将軍が言い終えても、ヨシフはしばらく、	Even after the general finished speaking, Joseph remained
-25137	+	考え込む表情で微動だにしなかった。	motionless with a thoughtful expression for a while.
+25136	-		将軍が言い終えても、ヨシフはしばらく、	Even after the general finished speaking, Joseph remained
+25137	+		考え込む表情で微動だにしなかった。	motionless with a thoughtful expression for a while.
 
-25138	Joseph	「……いや、撤退はせぬ」	「......No, we will not retreat.」
+25138	Joseph		「……いや、撤退はせぬ」	「......No, we will not retreat.」
 
-25139	Monster General	「は……！？」	「Eh......!?」
+25139	Monster General		「は……！？」	「Eh......!?」
 
-25140	-	おもむろに呟くと、ヨシフはやおら立ち上がった。	Muttering quietly, Joseph slowly rose to his feet.
+25140	-		おもむろに呟くと、ヨシフはやおら立ち上がった。	Muttering quietly, Joseph slowly rose to his feet.
 
-25141	Joseph	「貴様らは何をしにここに来たのだ？	「Why did you all come here?
-25142	+	　人間どもに功を成さしめ、増長させるためか？	　To let the humans achieve a victory and grow arrogant?
-25143	+	　それとも臆病風に吹かれた己の無様を晒すためか」	　Or to show everyone your pathetic selves after being struck by cowardice?」
+25141	Joseph		「貴様らは何をしにここに来たのだ？	「Why did you all come here?
+25142	+		　人間どもに功を成さしめ、増長させるためか？	　To let the humans achieve a victory and grow arrogant?
+25143	+		　それとも臆病風に吹かれた己の無様を晒すためか」	　Or to show everyone your pathetic selves after being struck by cowardice?」
 
-25144	Joseph	「どちらも違う。違うであろう。	「Neither. That is not it.
-25145	+	　多少の不利な局面で腰が引けるような者は、	　Those who flinch at a little disadvantage
-25146	+	　儂の軍には居らぬ。そうであろう」	　have no place in my army. Correct?」
+25144	Joseph		「どちらも違う。違うであろう。	「Neither. That is not it.
+25145	+		　多少の不利な局面で腰が引けるような者は、	　Those who flinch at a little disadvantage
+25146	+		　儂の軍には居らぬ。そうであろう」	　have no place in my army. Correct?」
 
-25147	Joseph	「史上にあって、無敗の軍は存在しない。	「There has never been an undefeated army in history.
-25148	+	　最強である我々も、苦境に立つ事はあろう。	　Even we, the strongest, will face hardship.
-25149	+	　だが、敗北に屈する事は許さぬ」	　But we will never yield to defeat.」
+25147	Joseph		「史上にあって、無敗の軍は存在しない。	「There has never been an undefeated army in history.
+25148	+		　最強である我々も、苦境に立つ事はあろう。	　Even we, the strongest, will face hardship.
+25149	+		　だが、敗北に屈する事は許さぬ」	　But we will never yield to defeat.」
 
-25150	-	静まりかえった司令部の中に、	In the silent headquarters,
-25151	+	ヨシフの声が朗々と響く。	Joseph's voice rang out clearly.
+25150	-		静まりかえった司令部の中に、	In the silent headquarters,
+25151	+		ヨシフの声が朗々と響く。	Joseph's voice rang out clearly.
 
-25152	Joseph	「問題から逃げても意味はない。	「Running from a problem means nothing.
-25153	+	　死だ。死が全ての問題を解決させるのだ！」	　Death. Only death solves all problems!」
+25152	Joseph		「問題から逃げても意味はない。	「Running from a problem means nothing.
+25153	+		　死だ。死が全ての問題を解決させるのだ！」	　Death. Only death solves all problems!」
 
-25154	-	断固たる決意の籠もった声が、	His voice, filled with absolute resolve,
-25155	+	テントを圧して震わせる。	shook the entire tent.
+25154	-		断固たる決意の籠もった声が、	His voice, filled with absolute resolve,
+25155	+		テントを圧して震わせる。	shook the entire tent.
 
-25156	Monster General	「か、閣下……その、死とは…………」	「Y-Your Excellency...... By death, you mean......」
+25156	Monster General		「か、閣下……その、死とは…………」	「Y-Your Excellency...... By death, you mean......」
 
-25157	-	恐る恐る、将軍が尋ねる。	The general asked fearfully.
+25157	-		恐る恐る、将軍が尋ねる。	The general asked fearfully.
 
-25158	Joseph	「女王に決まっている。リーザスの女王を殺すのだ。	「The queen, of course. We will kill the Queen of Leazas.
-25159	+	　それで、我々の帰投は逃亡ではなく凱旋となる」	　That way, our return will be a triumphant homecoming, not a retreat.」
+25158	Joseph		「女王に決まっている。リーザスの女王を殺すのだ。	「The queen, of course. We will kill the Queen of Leazas.
+25159	+		　それで、我々の帰投は逃亡ではなく凱旋となる」	　That way, our return will be a triumphant homecoming, not a retreat.」
 
-25160	Monster General	「は……そ、それは仰る通りな……」	「Ah... Th-That is indeed as you say......」
+25160	Monster General		「は……そ、それは仰る通りな……」	「Ah... Th-That is indeed as you say......」
 
-25161	-	思いも掛けぬ、勇猛な決断だった。	It was an unexpectedly bold and courageous decision.
-25162	+	ヨシフの言葉でなければ、無謀と言われただろう。	Had it not come from Joseph himself, it surely would have been called reckless.
+25161	-		思いも掛けぬ、勇猛な決断だった。	It was an unexpectedly bold and courageous decision.
+25162	+		ヨシフの言葉でなければ、無謀と言われただろう。	Had it not come from Joseph himself, it surely would have been called reckless.
 
-25163	Monster General	「しかし女王は影武者を用いているようでス。	「However, the queen seems to be using body doubles.
-25164	+	　所在が絞りきれておりませんガ……」	　We have not pinpointed her exact location yet......」
+25163	Monster General		「しかし女王は影武者を用いているようでス。	「However, the queen seems to be using body doubles.
+25164	+		　所在が絞りきれておりませんガ……」	　We have not pinpointed her exact location yet......」
 
-25165	Joseph	「ならば捜せ。どのような手を使ってでもだ！」	「Then search for her. Use any means necessary!」
+25165	Joseph		「ならば捜せ。どのような手を使ってでもだ！」	「Then search for her. Use any means necessary!」
 
-25166	-	ヨシフの大号令と共に、魔軍は動き出した。	With Joseph's great command, the Monster Army began to move.
+25166	-		ヨシフの大号令と共に、魔軍は動き出した。	With Joseph's great command, the Monster Army began to move.
 
-25167	-	夜が明け、翌日。	Dawn broke the next day.
-25168	+	払暁と共に、リーザス軍の攻勢が始まった。	At daybreak, the Leazas army's offensive began.
+25167	-		夜が明け、翌日。	Dawn broke the next day.
+25168	+		払暁と共に、リーザス軍の攻勢が始まった。	At daybreak, the Leazas army's offensive began.
 
-25169	-	包囲されている状態のヨシフ軍は防戦になるが、	The surrounded Joseph army was forced into a defensive battle,
-25170	+	守勢の苦手な魔軍としては異例なほど、よく耐える。	but they held remarkably well for a Monster Army that hated defending.
+25169	-		包囲されている状態のヨシフ軍は防戦になるが、	The surrounded Joseph army was forced into a defensive battle,
+25170	+		守勢の苦手な魔軍としては異例なほど、よく耐える。	but they held remarkably well for a Monster Army that hated defending.
 
-25171	-	リーザス軍は故意に包囲網の一角を手薄にし、	The Leazas army deliberately thinned one part of the encirclement
-25172	+	そこから逃亡を誘発しようとしたが、	to induce a breakout,
-25173	+	魔軍は誘われる味方を殺し、頑なに現状を維持した。	but the Monster Army killed their own comrades who tried to flee and stubbornly held their ground.
+25171	-		リーザス軍は故意に包囲網の一角を手薄にし、	The Leazas army deliberately thinned one part of the encirclement
+25172	+		そこから逃亡を誘発しようとしたが、	to induce a breakout,
+25173	+		魔軍は誘われる味方を殺し、頑なに現状を維持した。	but the Monster Army killed their own comrades who tried to flee and stubbornly held their ground.
 
-25174	-	リーザス軍も無理な全面衝突よりも	Rather than forcing a full collision,
-25175	+	徐々に魔軍を削る戦術を選び、	the Leazas army chose to slowly wear them down,
-25176	+	手薄な箇所を探して攻撃を仕掛けては、引いていく。	attacking weak points then pulling back.
+25174	-		リーザス軍も無理な全面衝突よりも	Rather than forcing a full collision,
+25175	+		徐々に魔軍を削る戦術を選び、	the Leazas army chose to slowly wear them down,
+25176	+		手薄な箇所を探して攻撃を仕掛けては、引いていく。	attacking weak points then pulling back.
 
-25177	-	太陽が中天からやや傾きかけてきた、	As the sun began to tilt from its zenith,
-25178	+	その頃合いで――	at that moment――
+25177	-		太陽が中天からやや傾きかけてきた、	As the sun began to tilt from its zenith,
+25178	+		その頃合いで――	at that moment――
 
-25179	Monster Captain	「も、申し上げます！	「R-report!
-25180	+	　お捜しの女王を見つけました！　北東の陣です！」	　We have located the queen you sought! She is in the northeast camp!」
+25179	Monster Captain		「も、申し上げます！	「R-report!
+25180	+		　お捜しの女王を見つけました！　北東の陣です！」	　We have located the queen you sought! She is in the northeast camp!」
 
-25181	Monster General	「見つけたか！　間違いないな！？」	「You found her!? Are you certain!?」
+25181	Monster General		「見つけたか！　間違いないな！？」	「You found her!? Are you certain!?」
 
-25182	Monster Captain	「影武者の一人を見つけ、聞き出しました！	「We captured one of her body doubles and interrogated her!
-25183	+	　その付近で捕らえた間者にも、	　A spy we caught nearby also had
-25184	+	　王族からの手紙を持つ者が！」	　a letter from the royal family!」
+25182	Monster Captain		「影武者の一人を見つけ、聞き出しました！	「We captured one of her body doubles and interrogated her!
+25183	+		　その付近で捕らえた間者にも、	　A spy we caught nearby also had
+25184	+		　王族からの手紙を持つ者が！」	　a letter from the royal family!」
 
-25185	Monster General	「よシ！　全軍、北東の陣へ突撃！！	「Good! All forces, charge the northeast camp!!
-25186	+	　守る必要などなイ！　……よろしいですネ？」	　No need to defend anything! ......Is that acceptable?」
+25185	Monster General		「よシ！　全軍、北東の陣へ突撃！！	「Good! All forces, charge the northeast camp!!
+25186	+		　守る必要などなイ！　……よろしいですネ？」	　No need to defend anything! ......Is that acceptable?」
 
-25187	Joseph	「無論だ。全軍、前線へ駆けよ。お前達もだ。	「Of course. All forces, rush to the front line. You too.
-25188	+	　乾坤一擲の一撃を以て、我らに勝利を！」	　With one decisive strike, bring us victory!」
+25187	Joseph		「無論だ。全軍、前線へ駆けよ。お前達もだ。	「Of course. All forces, rush to the front line. You too.
+25188	+		　乾坤一擲の一撃を以て、我らに勝利を！」	　With one decisive strike, bring us victory!」
 
-25189	Monster General	「ははぁっ！」	「Yes sir!」
+25189	Monster General		「ははぁっ！」	「Yes sir!」
 
-25190	-	戦況が動いた。	The battle situation shifted.
+25190	-		戦況が動いた。	The battle situation shifted.
 
-25191	-	魔軍は半分ほどが崩れたと見せかけ、	The Monster Army pretended half their forces had collapsed,
-25192	+	包囲の穴に雪崩れ込む動きを見せた後、	acted as if rushing into a gap in the encirclement,
-25193	+	猛然と、その逆……北東の囲みへと突撃した。	then ferociously charged the opposite direction...... toward the northeast encirclement.
+25191	-		魔軍は半分ほどが崩れたと見せかけ、	The Monster Army pretended half their forces had collapsed,
+25192	+		包囲の穴に雪崩れ込む動きを見せた後、	acted as if rushing into a gap in the encirclement,
+25193	+		猛然と、その逆……北東の囲みへと突撃した。	then ferociously charged the opposite direction...... toward the northeast encirclement.
 
-25194	Leazas Black Soldier	「魔軍、来ます！　す、すごい数で……！」	「The Monster Army is coming! T-there's so many......!」
+25194	Leazas Black Soldier		「魔軍、来ます！　す、すごい数で……！」	「The Monster Army is coming! T-there's so many......!」
 
-25195	Maris Amaryllis	「お下がりください、リア様！	「Please fall back, Queen Lia!
-25196	+	　はるまきをお忘れなきよう」	　Don't forget your stomach band!」
+25195	Maris Amaryllis	叫び	「お下がりください、リア様！	「Please fall back, Queen Lia!
+25196	+		　はるまきをお忘れなきよう」	　Don't forget your stomach band!」
 
-25197	Lia Parapara Leazas	「ん、分かったわ」	「Got it.」
+25197	Lia Parapara Leazas	真剣	「ん、分かったわ」	「Got it.」
 
-25198	-	リアは素直に頷き、後方へと下がる。	Lia nodded obediently and retreated to the rear.
+25198	-		リアは素直に頷き、後方へと下がる。	Lia nodded obediently and retreated to the rear.
 
-25199	Cordoba Burn	「ふん。俺の守る場所にわざわざ突っ込んでくるとは	「Hmph. They came charging straight into my defensive zone.
-25200	+	　暇な連中だ！　青の軍！　全軍防戦用意！」	　What an idle bunch! Blue army! Prepare to defend with all forces!」
+25199	Cordoba Burn	雄叫び	「ふん。俺の守る場所にわざわざ突っ込んでくるとは	「Hmph. They came charging straight into my defensive zone.
+25200	+		　暇な連中だ！　青の軍！　全軍防戦用意！」	　What an idle bunch! Blue army! Prepare to defend with all forces!」
 
-25201	-	怒号に等しい大きさの、将軍の声に従って、	Following the general's roar-like command,
-25202	+	青の軍が素早く防御の陣を敷き始めた。	the Blue army quickly formed their defensive formation.
+25201	-		怒号に等しい大きさの、将軍の声に従って、	Following the general's roar-like command,
+25202	+		青の軍が素早く防御の陣を敷き始めた。	the Blue army quickly formed their defensive formation.
 
-25203	Leazas Blue Knight	「防げッ！　弓放てッ、槍兵隊、前に！」	「Hold the line! Archers, fire! Spearmen, forward!」
+25203	Leazas Blue Knight	基本	「防げッ！　弓放てッ、槍兵隊、前に！」	「Hold the line! Archers, fire! Spearmen, forward!」
 
-25204	Green Monster Soldier	「うおあらららららら！！	「Uwoaaaaaaaah!!
-25205	+	　つっこめええええええええ！！」	　Chargeeeeeeee!!」
+25204	Green Monster Soldier		「うおあらららららら！！	「Uwoaaaaaaaah!!
+25205	+		　つっこめええええええええ！！」	　Chargeeeeeeee!!」
 
-25206	Blue Monster Soldier	「殺せ！　殺せ！　殺せ！！」	「Kill! Kill! Kill!!」
+25206	Blue Monster Soldier		「殺せ！　殺せ！　殺せ！！」	「Kill! Kill! Kill!!」
 
-25207	Monster Captain	「アタマを潰した奴には報奨は思いのままだ！	「Crush their heads and the rewards will be yours!
-25208	+	　突っ走れ！！」	　Rush forward!!」
+25207	Monster Captain		「アタマを潰した奴には報奨は思いのままだ！	「Crush their heads and the rewards will be yours!
+25208	+		　突っ走れ！！」	　Rush forward!!」
 
-25209	Leazas Blue Knight	「くっ……なんだ、この勢いは！？」	「Khh...... What is this momentum!?」
+25209	Leazas Blue Knight		「くっ……なんだ、この勢いは！？」	「Khh...... What is this momentum!?」
 
-25210	-	魔軍の突撃が始まった。	The Monster Army's charge began.
+25210	-		魔軍の突撃が始まった。	The Monster Army's charge began.
 
-25211	-	リアの防衛に置かれている部隊は、	The unit guarding Lia consisted of
-25212	+	守りの要である、青の軍の精鋭達。	the elite of the Blue army, the cornerstone of their defense.
+25211	-		リアの防衛に置かれている部隊は、	The unit guarding Lia consisted of
+25212	+		守りの要である、青の軍の精鋭達。	the elite of the Blue army, the cornerstone of their defense.
 
-25213	-	両者は正面から激突し、	Both sides clashed head-on,
-25214	+	あっという間に死者が量産されていく。	and casualties mounted in the blink of an eye.
+25213	-		両者は正面から激突し、	Both sides clashed head-on,
+25214	+		あっという間に死者が量産されていく。	and casualties mounted in the blink of an eye.
 
-25215	Maris Amaryllis~	（いくら魔物とはいえ、なりふりを構わなすぎる……	(Even for monsters, they're being far too reckless......
-25216	+	　リア様を狙って……？	　Are they targeting Queen Lia......?
-25217	+	　いや、複数の影武者を置いているのに……）	　No, we placed multiple body doubles......)
+25215	Maris Amaryllis~	真剣	（いくら魔物とはいえ、なりふりを構わなすぎる……	(Even for monsters, they're being far too reckless......
+25216	+		　リア様を狙って……？	　Are they targeting Queen Lia......?
+25217	+		　いや、複数の影武者を置いているのに……）	　No, we placed multiple body doubles......)
 
-25218	-	戦場は、泥沼と化した。	The battlefield turned into a quagmire.
+25218	-		戦場は、泥沼と化した。	The battlefield turned into a quagmire.
 
-25219	-	逃亡せず、リアを狙って一点突破をかける魔軍に、	The Monster Army ignored escape and focused on breaking through to Lia,
-25220	+	青の軍をはじめとした部隊がその防御に回る。	forcing the Blue army and others into pure defense.
+25219	-		逃亡せず、リアを狙って一点突破をかける魔軍に、	The Monster Army ignored escape and focused on breaking through to Lia,
+25220	+		青の軍をはじめとした部隊がその防御に回る。	forcing the Blue army and others into pure defense.
 
-25221	Kinkaid Brambla	「くっ……！　こちらが包囲しているのだぞ！？	「Khh......! We're the ones surrounding them!?
-25222	+	　なぜ私たちがこんなに働かねばならん！？」	　Why do we have to work this hard!?」
+25221	Kinkaid Brambla	基本	「くっ……！　こちらが包囲しているのだぞ！？	「Khh......! We're the ones surrounding them!?
+25222	+		　なぜ私たちがこんなに働かねばならん！？」	　Why do we have to work this hard!?」
 
-25223	-	これまでの防戦が嘘のように、	As if their previous defense was a lie,
-25224	+	魔軍は闇雲な突撃を繰り返し、	the Monster Army launched reckless charge after reckless charge,
-25225	+	リアを守るリーザス軍は防戦を強いられた。	forcing the Leazas army protecting Lia into a desperate defense.
+25223	-		これまでの防戦が嘘のように、	As if their previous defense was a lie,
+25224	+		魔軍は闇雲な突撃を繰り返し、	the Monster Army launched reckless charge after reckless charge,
+25225	+		リアを守るリーザス軍は防戦を強いられた。	forcing the Leazas army protecting Lia into a desperate defense.
 
-25226	Leazas Blue Soldier	「キンケード様……！」	「Lord Kinkaid......!」
+25226	Leazas Blue Soldier		「キンケード様……！」	「Lord Kinkaid......!」
 
-25227	Kinkaid Brambla	「死守せよ！　女王陛下をお守り奉れ！	「Hold to the death! Protect Her Majesty the Queen!
-25228	+	　リーザスの誇りとは、青き盾だと教えてやれ！」	　Show them that Leazas' pride is the Blue Shield!」
+25227	Kinkaid Brambla		「死守せよ！　女王陛下をお守り奉れ！	「Hold to the death! Protect Her Majesty the Queen!
+25228	+		　リーザスの誇りとは、青き盾だと教えてやれ！」	　Show them that Leazas' pride is the Blue Shield!」
 
-25229	Leazas Blue Soldier	「おお……！　は、ははっ！」	「Ooh......! Y-yes sir!」
+25229	Leazas Blue Soldier		「おお……！　は、ははっ！」	「Ooh......! Y-yes sir!」
 
-25230	Kinkaid Brambla~	（じょ、女王陛下の陣を担当するなどと、	(I shouldn't have said I'd take charge of the Queen's position......!)
-25231	+	　言うのではなかった……！）	
+25230	Kinkaid Brambla~	疑念	（じょ、女王陛下の陣を担当するなどと、	(I shouldn't have said I'd take charge of the Queen's position......!)
+25231	+		　言うのではなかった……！）	
 
-25232	-	無論の事、他の軍は包囲を縮め、	Naturally, the other armies tightened the encirclement
-25233	+	ひたすらに叩くが、	and continued hammering them,
-25234	+	魔軍の物量は中々減ろうとしない。	but the Monster Army's numbers showed little sign of decreasing.
+25232	-		無論の事、他の軍は包囲を縮め、	Naturally, the other armies tightened the encirclement
+25233	+		ひたすらに叩くが、	and continued hammering them,
+25234	+		魔軍の物量は中々減ろうとしない。	but the Monster Army's numbers showed little sign of decreasing.
 
-25235	-	日が傾き、夜になろうとしても、	Even as the sun set and night fell,
-25236	+	その騒乱は容易に幕を閉じようとはしなかった。	the chaos showed no sign of ending.
+25235	-		日が傾き、夜になろうとしても、	Even as the sun set and night fell,
+25236	+		その騒乱は容易に幕を閉じようとはしなかった。	the chaos showed no sign of ending.
 
-25237	-	そして――――	And――――
+25237	-		そして――――	And――――
 
-25238	Joseph	「さぁて…………そろそろよいか」	「Now then............ Is it about time?」
+25238	Joseph	基本	「さぁて…………そろそろよいか」	「Now then............ Is it about time?」
 
-25239	Green Monster Soldier	「は……？」	「Huh......?」
+25239	Green Monster Soldier		「は……？」	「Huh......?」
 
-25240	-	魔物将軍達も残らず出陣していったテントで、	In the tent where all the Monster Generals had left for battle,
-25241	+	ヨシフは重い腰を上げた。	Joseph slowly rose.
+25240	-		魔物将軍達も残らず出陣していったテントで、	In the tent where all the Monster Generals had left for battle,
+25241	+		ヨシフは重い腰を上げた。	Joseph slowly rose.
 
-25242	Green Monster Soldier	「あ、御出陣ですか、閣下！	「Ah, are you heading out, Your Excellency!
-25243	+	　人間どももまだ抵抗しているようですが、	　The humans are still resisting, but
-25244	+	　閣下が加わってくだされば……！」	　if you join the fight......!」
+25242	Green Monster Soldier		「あ、御出陣ですか、閣下！	「Ah, are you heading out, Your Excellency!
+25243	+		　人間どももまだ抵抗しているようですが、	　The humans are still resisting, but
+25244	+		　閣下が加わってくだされば……！」	　if you join the fight......!」
 
-25245	Joseph	「あほうか、貴様は。儂は退く」	「Fool. I am retreating.」
+25245	Joseph		「あほうか、貴様は。儂は退く」	「Fool. I am retreating.」
 
-25246	Green Monster Soldier	「――――――は？」	「――――――Huh?」
+25246	Green Monster Soldier		「――――――は？」	「――――――Huh?」
 
-25247	-	平然と言い捨てられた大将軍の台詞に、	At the Great General's calm statement,
-25248	+	魔物兵は思わず、礼節も何も忘れて	the monster soldier forgot all etiquette
-25249	+	間の抜けた声を返してしまった。	and let out a dumbfounded reply.
+25247	-		平然と言い捨てられた大将軍の台詞に、	At the Great General's calm statement,
+25248	+		魔物兵は思わず、礼節も何も忘れて	the monster soldier forgot all etiquette
+25249	+		間の抜けた声を返してしまった。	and let out a dumbfounded reply.
 
-25250	Joseph	「こんな状況で勝ちを拾えるか、馬鹿が。	「You think we can win in this situation? Idiot.
-25251	+	　儂が死んだら、この軍は終わりだろうが」	　If I die, this army is finished.」
+25250	Joseph		「こんな状況で勝ちを拾えるか、馬鹿が。	「You think we can win in this situation? Idiot.
+25251	+		　儂が死んだら、この軍は終わりだろうが」	　If I die, this army is finished.」
 
-25252	Green Monster Soldier	「え、あ、そ、そう……ですが……	「Eh, ah, y-yes...... but......
-25253	+	　し、しかし、女王を捜して……！」	　B-but we were searching for the queen......!」
+25252	Green Monster Soldier		「え、あ、そ、そう……ですが……	「Eh, ah, y-yes...... but......
+25253	+		　し、しかし、女王を捜して……！」	　B-but we were searching for the queen......!」
 
-25254	Joseph	「そうだな。本物が見つかったのは僥倖だ。	「True. Finding the real one was lucky.
-25255	+	　向こうの精鋭が全力で守っているところを見ると、	　Seeing their elites defending with everything they have,
-25256	+	　どうやら本当だったか」	　it seems it really was her.」
+25254	Joseph		「そうだな。本物が見つかったのは僥倖だ。	「True. Finding the real one was lucky.
+25255	+		　向こうの精鋭が全力で守っているところを見ると、	　Seeing their elites defending with everything they have,
+25256	+		　どうやら本当だったか」	　it seems it really was her.」
 
-25257	-	ヨシフの頭脳部とボディとが、	Both Joseph's head and body
-25258	+	同時に唇を半月形に吊り上げた。	curled their lips into a crescent smile at the same time.
+25257	-		ヨシフの頭脳部とボディとが、	Both Joseph's head and body
+25258	+		同時に唇を半月形に吊り上げた。	curled their lips into a crescent smile at the same time.
 
-25259	Joseph	「奴らめ、必死で守っておる。当然だな。	「They're desperately protecting her. As expected.
-25260	+	　……今は大層、他の警戒線は緩んでいるだろう」	　......Which means their other defensive lines must be quite thin right now.」
+25259	Joseph		「奴らめ、必死で守っておる。当然だな。	「They're desperately protecting her. As expected.
+25260	+		　……今は大層、他の警戒線は緩んでいるだろう」	　......Which means their other defensive lines must be quite thin right now.」
 
-25261	Joseph	「もし負けた時の為、儂は脱出する。	「Just in case we lose, I will escape.
-25262	+	　ま……もっとも、倒せればそれで良し。	　Well...... if they can defeat her, all the better.
-25263	+	　軍の勝利は儂の功だからな」	　The army's victory is my achievement after all.」
+25261	Joseph		「もし負けた時の為、儂は脱出する。	「Just in case we lose, I will escape.
+25262	+		　ま……もっとも、倒せればそれで良し。	　Well...... if they can defeat her, all the better.
+25263	+		　軍の勝利は儂の功だからな」	　The army's victory is my achievement after all.」
 
-25264	-	巨体を揺らして、せせら笑う。	He shook his massive body and sneered.
+25264	-		巨体を揺らして、せせら笑う。	He shook his massive body and sneered.
 
-25265	Green Monster Soldier	「あ、あ、ああああ、っ……そ、そんな、ッ……」	「A-ah, aaaaaah...... N-no way......」
+25265	Green Monster Soldier		「あ、あ、ああああ、っ……そ、そんな、ッ……」	「A-ah, aaaaaah...... N-no way......」
 
-25266	Joseph	「さて――そんな儂が、なぜこんな事を話すか……	「Now then―― why am I telling you all this......
-25267	+	　理解出来るか？」	　Can you figure it out?」
+25266	Joseph		「さて――そんな儂が、なぜこんな事を話すか……	「Now then―― why am I telling you all this......
+25267	+		　理解出来るか？」	　Can you figure it out?」
 
-25268	Green Monster Soldier	「は？」	「Huh?」
+25268	Green Monster Soldier		「は？」	「Huh?」
 
-25269	Joseph	「儂が逃げたと、貴様に言いふらされては面倒だ」	「It would be troublesome if you went around saying I ran away.」
+25269	Joseph		「儂が逃げたと、貴様に言いふらされては面倒だ」	「It would be troublesome if you went around saying I ran away.」
 
-25270	Green Monster Soldier	「あ……………！」	「Ah......!」
+25270	Green Monster Soldier		「あ……………！」	「Ah......!」
 
-25271	-	魔物兵の頭部が、ぐちゃりとヨシフに握り潰された。	The monster soldier's head was crushed in Joseph's grip with a sickening squelch.
+25271	-		魔物兵の頭部が、ぐちゃりとヨシフに握り潰された。	The monster soldier's head was crushed in Joseph's grip with a sickening squelch.
 
-25272	Joseph	「ふん、人間どもが……！	「Hmph, those humans......!
-25273	+	　精々、今は勝ち戦に酔うがいいわ。	　Go ahead and get drunk on your victory for now.
-25274	+	　そして、儂を取り逃がした事を悔やむがいい」	　And later regret letting me escape.」
+25272	Joseph		「ふん、人間どもが……！	「Hmph, those humans......!
+25273	+		　精々、今は勝ち戦に酔うがいいわ。	　Go ahead and get drunk on your victory for now.
+25274	+		　そして、儂を取り逃がした事を悔やむがいい」	　And later regret letting me escape.」
 
-25275	-	吐き捨て、ヨシフは周辺を守る部下達を無視して、	Spitting those words, Joseph ignored his guards
-25276	+	手薄な警戒線へと移動し始めた。	and began moving toward the thinned defensive line.
+25275	-		吐き捨て、ヨシフは周辺を守る部下達を無視して、	Spitting those words, Joseph ignored his guards
+25276	+		手薄な警戒線へと移動し始めた。	and began moving toward the thinned defensive line.
 
-25277	-	戦場から遠く離れた、はずれの森。	A remote forest far from the battlefield.
-25278	+	ヨシフは戦線を突破し、逃亡に成功していた。	Joseph had broken through the lines and successfully escaped.
+25277	-		戦場から遠く離れた、はずれの森。	A remote forest far from the battlefield.
+25278	+		ヨシフは戦線を突破し、逃亡に成功していた。	Joseph had broken through the lines and successfully escaped.
 
-25279	-	途中、いくつかの人間の部隊と遭遇したが、	He encountered several human units along the way,
-25280	+	一瞬で蹴散らした。	but scattered them in an instant.
-25281	+	逃げて上官に報告したとしても、間に合いはしない。	Even if they fled and reported it, it would be too late.
+25279	-		途中、いくつかの人間の部隊と遭遇したが、	He encountered several human units along the way,
+25280	+		一瞬で蹴散らした。	but scattered them in an instant.
+25281	+		逃げて上官に報告したとしても、間に合いはしない。	Even if they fled and reported it, it would be too late.
 
-25282	Joseph	「クク、馬鹿どもが。	「Kuku, what fools.
-25283	+	　小利口に嵌めたつもりが――――」	　They thought they had me trapped with their little scheme――――」
+25282	Joseph		「クク、馬鹿どもが。	「Kuku, what fools.
+25283	+		　小利口に嵌めたつもりが――――」	　They thought they had me trapped with their little scheme――――」
 
-25284	-	ヨシフの台詞が、不意に止まる。	Joseph's words suddenly stopped.
-25285	+	同時に、足が止まった。	At the same time, his feet stopped.
+25284	-		ヨシフの台詞が、不意に止まる。	Joseph's words suddenly stopped.
+25285	+		同時に、足が止まった。	At the same time, his feet stopped.
 
-25286	Joseph	「な…………あ、う、お…………！？」	「Wha............ A, u, o............!?」
+25286	Joseph		「な…………あ、う、お…………！？」	「Wha............ A, u, o............!?」
 
-25287	-	人間達が、立ちはだかっていた。	Humans were blocking his path.
+25287	-		人間達が、立ちはだかっていた。	Humans were blocking his path.
 
-25288	-	足音に振り向けば、背後にも。	When he turned at the sound of footsteps, more were behind him.
+25288	-		足音に振り向けば、背後にも。	When he turned at the sound of footsteps, more were behind him.
 
-25289	Joseph	「な……ばかな、ありえん……！？	「Wha...... Impossible......!?
-25290	+	　こんな所に、伏兵だと……？」	　An ambush in a place like this......?」
+25289	Joseph		「な……ばかな、ありえん……！？	「Wha...... Impossible......!?
+25290	+		　こんな所に、伏兵だと……？」	　An ambush in a place like this......?」
 
-25291	Haurein Province	「配下を囮に、逃げようとしたか。	「You used your subordinates as decoys to try and escape.
-25292	+	　貴様の思考は、全て我が将の掌中だったという事」	　All of your thoughts were within our general's grasp.」
+25291	Haurein Province		「配下を囮に、逃げようとしたか。	「You used your subordinates as decoys to try and escape.
+25292	+		　貴様の思考は、全て我が将の掌中だったという事」	　All of your thoughts were within our general's grasp.」
 
-25293	Tilde Sharp	「お一人で来られたのは、少し意外でしたけれど。	「It was a bit surprising you came alone.
-25294	+	　貴方を討ち取らねば勝ちではない事、	　We knew that defeating you was necessary for true victory.」
-25295	+	　こちらも重々承知の上ですわ」	
+25293	Tilde Sharp	ですわー	「お一人で来られたのは、少し意外でしたけれど。	「It was a bit surprising you came alone.
+25294	+		　貴方を討ち取らねば勝ちではない事、	　We knew that defeating you was necessary for true victory.」
+25295	+		　こちらも重々承知の上ですわ」	
 
-25296	Menad Shisei~	（その辺の話は、エクス将軍から聞いたんだけどね）	(I heard about that from General Ex, though.)
+25296	Menad Shisei~	基本	（その辺の話は、エクス将軍から聞いたんだけどね）	(I heard about that from General Ex, though.)
 
-25297	-	将らしき者達だけではない。	It wasn't just the commanders.
-25298	+	赤の軍を主体にした、百人近い精兵たちが、	Nearly a hundred elite soldiers, mainly from the Red army,
-25299	+	周囲には揃っていた。	were positioned all around.
+25297	-		将らしき者達だけではない。	It wasn't just the commanders.
+25298	+		赤の軍を主体にした、百人近い精兵たちが、	Nearly a hundred elite soldiers, mainly from the Red army,
+25299	+		周囲には揃っていた。	were positioned all around.
 
-25300	Leila Grecni	「ここまでよ、魔物大将軍。	「This is the end, Great Monster General.
-25301	+	　貴方の策は空振り。私たちの勝ちよ」	　Your plan has failed. This is our victory.」
+25300	Leila Grecni	抜刀／真剣	「ここまでよ、魔物大将軍。	「This is the end, Great Monster General.
+25301	+		　貴方の策は空振り。私たちの勝ちよ」	　Your plan has failed. This is our victory.」
 
-25302	Joseph	「……………………………………っ、く、っ……」	「................................Khh......」
+25302	Joseph	基本	「……………………………………っ、く、っ……」	「................................Khh......」
 
-25303	Joseph	「ふ、ふふふふふ…………！	「F, fufufufu......!
-25304	?	　ふふはははははははははは！！」	　Fuhahahahahahahahaha!!」
+25303	Joseph		「ふ、ふふふふふ…………！	「F, fufufufu......!
+25304	?		　ふふはははははははははは！！」	　Fuhahahahahahahahaha!!」
 
-25305	Joseph	「はーーーーーーーーーーははははははははは！！」	「Haaaaaaaaaaaaaaaaaahahahahahahaha!!」
+25305	Joseph		「はーーーーーーーーーーははははははははは！！」	「Haaaaaaaaaaaaaaaaaahahahahahahaha!!」
 
-25306	Joseph	「舐めるなああああぁぁぁッ！！	「Don't you dare underestimate meeeeeee!!
-25307	+	　人間があああああああぁァァァ！！」	　You mere humansaaaaaaaaaah!!!」
+25306	Joseph		「舐めるなああああぁぁぁッ！！	「Don't you dare underestimate meeeeeee!!
+25307	+		　人間があああああああぁァァァ！！」	　You mere humansaaaaaaaaaah!!!」
 
-25308	-	ヨシフの咆哮が、夜の森を震わせる。	Joseph's roar shook the night forest.
+25308	-		ヨシフの咆哮が、夜の森を震わせる。	Joseph's roar shook the night forest.
 
-25309	Joseph	「儂の策がどうだと！？　この程度の人間ごとき、	「What about my plan!? I can crush worthless humans like you
-25310	+	　踏み砕いて悠々帰り着いてくれるわ！」	　and return home with ease!」
+25309	Joseph		「儂の策がどうだと！？　この程度の人間ごとき、	「What about my plan!? I can crush worthless humans like you
+25310	+		　踏み砕いて悠々帰り着いてくれるわ！」	　and return home with ease!」
 
-25311	Tilde Sharp	「うわっ、う、うるさい方ですわね……	「Uwa, what a loud one......
-25312	+	　往生際の悪い……！」	　So bad at accepting defeat......!」
+25311	Tilde Sharp		「うわっ、う、うるさい方ですわね……	「Uwa, what a loud one......
+25312	+		　往生際の悪い……！」	　So bad at accepting defeat......!」
 
-25313	Leila Grecni	「気を抜かないの。	「Don't let your guard down.
-25314	+	　エクス将軍も、ここに全てがかかっていると	　General Ex said everything depends on this.」
-25315	+	　言っていたでしょう」	
+25313	Leila Grecni	抜刀／真剣	「気を抜かないの。	「Don't let your guard down.
+25314	+		　エクス将軍も、ここに全てがかかっていると	　General Ex said everything depends on this.」
+25315	+		　言っていたでしょう」	
 
-25316	Tilde Sharp	「分かっておりますわ。このチルディ・シャープ、	「I understand. I, Chilchilly Sharp,
-25317	+	　獲物を前に舌なめずりするほど	　am not so vulgar as to drool
-25318	+	　下品ではありません」	　over my prey.」
+25316	Tilde Sharp	ぷー	「分かっておりますわ。このチルディ・シャープ、	「I understand. I, Chilchilly Sharp,
+25317	+		　獲物を前に舌なめずりするほど	　am not so vulgar as to drool
+25318	+		　下品ではありません」	　over my prey.」
 
-25319	Menad Shisei	「強い……ですね、たぶん……」	「He's strong...... probably......」
+25319	Menad Shisei	基本	「強い……ですね、たぶん……」	「He's strong...... probably......」
 
-25320	Rick Addison	「ああ。油断はしないよう。	「Yeah. Don't let your guard down.
-25321	+	　一軍を相手にするつもりで」	　Fight him like you're facing an entire army.」
+25320	Rick Addison	真剣	「ああ。油断はしないよう。	「Yeah. Don't let your guard down.
+25321	+		　一軍を相手にするつもりで」	　Fight him like you're facing an entire army.」
 
-25322	-	油断などという言葉から無縁な男が、	The man who had no connection to the word 'carelessness'
-25323	+	前に踏み出る。	stepped forward.
+25322	-		油断などという言葉から無縁な男が、	The man who had no connection to the word 'carelessness'
+25323	+		前に踏み出る。	stepped forward.
 
-25324	Melfeis Promenade	「援護に回ります。お気を付けて……！」	「I'll provide support. Please be careful......!」
+25324	Melfeis Promenade	基本	「援護に回ります。お気を付けて……！」	「I'll provide support. Please be careful......!」
 
-25325	Joseph	「貴様らを全て粛正する！	「I will purge every last one of you!
-25326	+	　さすれば儂が完璧である事、何ひとつ揺るがぬ！」	　Then my perfection will remain unshaken!」
+25325	Joseph		「貴様らを全て粛正する！	「I will purge every last one of you!
+25326	+		　さすれば儂が完璧である事、何ひとつ揺るがぬ！」	　Then my perfection will remain unshaken!」
 
-25327	Rick Addison	「ラアアアアァァァァァァッッ――……！」	「Raaaaaaaahhh――……!」
+25327	Rick Addison	抜刀／咆哮	「ラアアアアァァァァァァッッ――……！」	「Raaaaaaaahhh――……!」
 
-25328	Barres Province	「左翼、第3陣を退かせよ！	「Pull back the 3rd unit on the left wing!
-25329	+	　変わって第4陣へ！」	　Replace them with the 4th unit!」
+25328	Barres Province	基本	「左翼、第3陣を退かせよ！	「Pull back the 3rd unit on the left wing!
+25329	+		　変わって第4陣へ！」	　Replace them with the 4th unit!」
 
-25330	Agireda Kosabusshi Zonna Abona	「まったく、キリがないぞ……！	「There's no end to them......!
-25331	+	　いつになったら終わるんだ、これは……！」	　When is this going to end......!」
+25330	Agireda Kosabusshi Zonna Abona	驚愕	「まったく、キリがないぞ……！	「There's no end to them......!
+25331	+		　いつになったら終わるんだ、これは……！」	　When is this going to end......!」
 
-25332	-	引いては押し、押しては引き。	Push and pull, pull and push.
-25333	+	それは、夜が更けても変わらない。	It continued even as the night grew deeper.
+25332	-		引いては押し、押しては引き。	Push and pull, pull and push.
+25333	+		それは、夜が更けても変わらない。	It continued even as the night grew deeper.
 
-25334	-	幾度とない攻勢を、リーザス軍は凌ぎ続けていた。	The Leazas army continued to endure countless assaults.
-25335	+	兵たちも交代で休ませてはいるが、疲労の色が濃い。	The soldiers rotated rest, but exhaustion was clear on their faces.
+25334	-		幾度とない攻勢を、リーザス軍は凌ぎ続けていた。	The Leazas army continued to endure countless assaults.
+25335	+		兵たちも交代で休ませてはいるが、疲労の色が濃い。	The soldiers rotated rest, but exhaustion was clear on their faces.
 
-25336	Maris Amaryllis	「ここで引いてはなりません！	「We cannot retreat here!
-25337	+	　リア様をお守りし……！」	　We must protect Queen Lia......!」
+25336	Maris Amaryllis	叫び	「ここで引いてはなりません！	「We cannot retreat here!
+25337	+		　リア様をお守りし……！」	　We must protect Queen Lia......!」
 
-25338	Ex Banquet	「マリス殿、ご無事で」	「Lady Maris, I see you are safe.」
+25338	Ex Banquet	基本	「マリス殿、ご無事で」	「Lady Maris, I see you are safe.」
 
-25339	Maris Amaryllis	「エクス将軍！　白の軍が、ここまで……！」	「General Ex! The White army came all the way here......!」
+25339	Maris Amaryllis	真剣	「エクス将軍！　白の軍が、ここまで……！」	「General Ex! The White army came all the way here......!」
 
-25340	Ex Banquet	「いくらか部隊を割いて、ですが。	「I split off some units.
-25341	+	　ま、白の軍は分割行動が多いので」	　Well, the White army often operates in separate groups anyway.」
+25340	Ex Banquet	基本	「いくらか部隊を割いて、ですが。	「I split off some units.
+25341	+		　ま、白の軍は分割行動が多いので」	　Well, the White army often operates in separate groups anyway.」
 
-25342	Maris Amaryllis	「………………」	「............」
+25342	Maris Amaryllis	真剣	「………………」	「............」
 
-25343	Ex Banquet	「さて、上手くいけば、そろそろ……」	「Now then, if things went well, it should be about time......」
+25343	Ex Banquet	基本	「さて、上手くいけば、そろそろ……」	「Now then, if things went well, it should be about time......」
 
-25344	-	その時。	At that moment.
-25345	+	戦場の最前線でわっと声が上がった。	A loud cheer erupted from the front lines.
+25344	-		その時。	At that moment.
+25345	+		戦場の最前線でわっと声が上がった。	A loud cheer erupted from the front lines.
 
-25346	Ex Banquet	「来たか！」	「It's here!」
+25346	Ex Banquet	怒り	「来たか！」	「It's here!」
 
-25347	Maris Amaryllis	「……何がです？」	「......What is?」
+25347	Maris Amaryllis	真剣	「……何がです？」	「......What is?」
 
-25348	-	騒ぎの中心になったのは、	At the center of the commotion was
-25349	+	一人の赤の軍の兵士だった。	a single Red army soldier.
+25348	-		騒ぎの中心になったのは、	At the center of the commotion was
+25349	+		一人の赤の軍の兵士だった。	a single Red army soldier.
 
-25350	-	正確には、その男が抱えていた……異形の首ひとつ。	More precisely, the grotesque head he was carrying.
+25350	-		正確には、その男が抱えていた……異形の首ひとつ。	More precisely, the grotesque head he was carrying.
 
-25351	Leazas Red Soldier	「だ、っ……大将軍！　魔物大将軍ヨシフ、	「G-General! The Great Monster General Joseph,
-25352	+	　赤き死神が討ち取ったああああアアァァァァ！！！」	　was slain by the Red Death Goddddddd!!!」
+25351	Leazas Red Soldier	基本	「だ、っ……大将軍！　魔物大将軍ヨシフ、	「G-General! The Great Monster General Joseph,
+25352	+		　赤き死神が討ち取ったああああアアァァァァ！！！」	　was slain by the Red Death Goddddddd!!!」
 
-25353	-	戦の渦中に放り込まれたヨシフの首級が、	Joseph's severed head, thrown into the middle of the battlefield,
-25354	+	まるでプチハニー爆弾のように	scattered the surrounding humans
-25355	+	周囲の人間を追い散らした。	like a mini Hanny bomb.
+25353	-		戦の渦中に放り込まれたヨシフの首級が、	Joseph's severed head, thrown into the middle of the battlefield,
+25354	+		まるでプチハニー爆弾のように	scattered the surrounding humans
+25355	+		周囲の人間を追い散らした。	like a mini Hanny bomb.
 
-25356	Leazas Black Soldier	「え、っ…………？	「Eh......?
-25357	+	　勝った、のか……？　俺たち……」	　Did we...... win? Us......」
+25356	Leazas Black Soldier		「え、っ…………？	「Eh......?
+25357	+		　勝った、のか……？　俺たち……」	　Did we...... win? Us......」
 
-25358	Green Monster Soldier	「へ……？　あ、よ、ヨシフ様、が…………？」	「Eh......? L-Lord Joseph......?」
+25358	Green Monster Soldier		「へ……？　あ、よ、ヨシフ様、が…………？」	「Eh......? L-Lord Joseph......?」
 
-25359	-	両軍とも、どう反応すればいいか分からず、	Both armies froze, unsure how to react.
-25360	+	動きが止まる。	
+25359	-		両軍とも、どう反応すればいいか分からず、	Both armies froze, unsure how to react.
+25360	+		動きが止まる。	
 
-25361	Barres Province	「敵首魁は潰えた！　この戦、儂らの勝ちじゃ！	「The enemy commander is dead! This battle is ours!
-25362	+	　鬨をあげぇぇぇぇぇぃ！！」	　Raise the victory cryyyyy!!!」
+25361	Barres Province	テンション上げ	「敵首魁は潰えた！　この戦、儂らの勝ちじゃ！	「The enemy commander is dead! This battle is ours!
+25362	+		　鬨をあげぇぇぇぇぇぃ！！」	　Raise the victory cryyyyy!!!」
 
-25363	-	その周辺の者の頭が真っ白になったところに	While those nearby were still stunned,
-25364	+	バレスの一喝が走って、	Barres' roar cut through,
-25365	+	半ば反射的に、戦いの趨勢は反転した。	and the tide of battle reversed almost on reflex.
+25363	-		その周辺の者の頭が真っ白になったところに	While those nearby were still stunned,
+25364	+		バレスの一喝が走って、	Barres' roar cut through,
+25365	+		半ば反射的に、戦いの趨勢は反転した。	and the tide of battle reversed almost on reflex.
 
-25366	Green Monster Soldier	「ひっ……ま、負けた！　負けちまった……！」	「Hii...... W-we lost! We're finished......!」
+25366	Green Monster Soldier	基本	「ひっ……ま、負けた！　負けちまった……！」	「Hii...... W-we lost! We're finished......!」
 
-25367	Monster General	「ヨ、ヨシフ様が！？　馬鹿な、何故……！？」	「L-Lord Joseph!? Impossible, why......!?」
+25367	Monster General		「ヨ、ヨシフ様が！？　馬鹿な、何故……！？」	「L-Lord Joseph!? Impossible, why......!?」
 
-25368	Monster General	「や、やはりもう、決着はついていたのです！	「J-just as I said, it was already decided!
-25369	+	　進言した通りに撤退すれば……！」	　If only we had retreated like I suggested......!」
+25368	Monster General		「や、やはりもう、決着はついていたのです！	「J-just as I said, it was already decided!
+25369	+		　進言した通りに撤退すれば……！」	　If only we had retreated like I suggested......!」
 
-25370	Monster General	「も、も、もうだめなんだヨ！	「I-it's over!
-25371	+	　このままでは皆殺しだヨ！」	　We'll all be slaughtered at this rate!」
+25370	Monster General		「も、も、もうだめなんだヨ！	「I-it's over!
+25371	+		　このままでは皆殺しだヨ！」	　We'll all be slaughtered at this rate!」
 
-25372	-	限界を超えても強引に維持していた魔軍の士気が、	The Monster Army's morale, which had been forcibly maintained beyond its limits,
-25373	+	この時、完全に崩壊した。	completely collapsed at this moment.
+25372	-		限界を超えても強引に維持していた魔軍の士気が、	The Monster Army's morale, which had been forcibly maintained beyond its limits,
+25373	+		この時、完全に崩壊した。	completely collapsed at this moment.
 
-25374	Leazas Black Knight	「お、おおおおおおおおお！！！	「Ooooooooooh!!!
-25375	+	　突撃！　攻め落とせ！」	　Charge! Break through!」
+25374	Leazas Black Knight		「お、おおおおおおおおお！！！	「Ooooooooooh!!!
+25375	+		　突撃！　攻め落とせ！」	　Charge! Break through!」
 
-25376	Agireda Kosabusshi Zonna Abona	「動ける奴、私と来い！　南国軍の恐ろしさ、	「Anyone who can still move, follow me! I'll show them
-25377	+	　地獄の底まで叩き込んでやる！」	　the terror of the southern army all the way to hell!」
+25376	Agireda Kosabusshi Zonna Abona		「動ける奴、私と来い！　南国軍の恐ろしさ、	「Anyone who can still move, follow me! I'll show them
+25377	+		　地獄の底まで叩き込んでやる！」	　the terror of the southern army all the way to hell!」
 
-25378	-	そこから先は、既に戦ではなかった。	From that point on, it was no longer a battle.
+25378	-		そこから先は、既に戦ではなかった。	From that point on, it was no longer a battle.
 
-25379	-	背中を見せて逃走する魔軍を、	The Leazas army mercilessly crushed
-25380	+	混乱して立ち尽くす魔軍を、	the Monster Army as they fled in panic
-25381	+	リーザス軍は散々に打ちのめした。	or stood frozen in confusion.
+25379	-		背中を見せて逃走する魔軍を、	The Leazas army mercilessly crushed
+25380	+		混乱して立ち尽くす魔軍を、	the Monster Army as they fled in panic
+25381	+		リーザス軍は散々に打ちのめした。	or stood frozen in confusion.
 
-25382	-	リーザス軍の、勝利だった。	It was a victory for the Leazas army.
+25382	-		リーザス軍の、勝利だった。	It was a victory for the Leazas army.

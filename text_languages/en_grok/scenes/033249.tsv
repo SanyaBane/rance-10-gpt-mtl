@@ -4,213 +4,213 @@
 * Monster Captain	汎用魔物隊長	Male
 * Blue Monster Soldier	汎用魔物兵青	Male
 
-217920	-	スケールの中心地――	The center of Scale――
+217920	-		スケールの中心地――	The center of Scale――
 
-217921	Monster General	「ふう……」	「Sigh...」
+217921	Monster General	基本	「ふう……」	「Sigh...」
 
-217922	-	この街を占領する魔軍を	Monster Army General Darson, who commands
-217923	+	統率する魔物将軍ダルソンが、	the Monster Army occupying this city,
-217924	+	大きな身を震わせる溜め息を吐いた。	let out a deep sigh that shook his large body.
+217922	-		この街を占領する魔軍を	Monster Army General Darson, who commands
+217923	+		統率する魔物将軍ダルソンが、	the Monster Army occupying this city,
+217924	+		大きな身を震わせる溜め息を吐いた。	let out a deep sigh that shook his large body.
 
-217925	Monster General	「…………」	「............」
+217925	Monster General		「…………」	「............」
 
-217926	-	ボウ……と、窓の外の青空を眺める。	He gazed blankly at the blue sky outside the window.
+217926	-		ボウ……と、窓の外の青空を眺める。	He gazed blankly at the blue sky outside the window.
 
-217927	-	戦争が終わって15年、することのない彼は、	Fifteen years since the war ended, with nothing to do,
-217928	+	日がな一日空を眺めるのが日課となっていた。	staring at the sky all day had become his daily routine.
+217927	-		戦争が終わって15年、することのない彼は、	Fifteen years since the war ended, with nothing to do,
+217928	+		日がな一日空を眺めるのが日課となっていた。	staring at the sky all day had become his daily routine.
 
-217929	-	…………	............
+217929	-		…………	............
 
-217930	-	……	...
+217930	-		……	...
 
-217931	-	15年前――	Fifteen years ago――
+217931	-		15年前――	Fifteen years ago――
 
-217932	Green Monster Soldier	「だから、何度も言っているだろう！」	「I've told you many times already!」
+217932	Green Monster Soldier		「だから、何度も言っているだろう！」	「I've told you many times already!」
 
-217933	Green Monster Soldier	「ケイブリス様は敗れたんだ！	「Lord Kayblis has been defeated!
-217934	+	　魔軍と人類軍の戦争は終わったんだよ！」	　The war between the Monster Army and human army is over!」
+217933	Green Monster Soldier		「ケイブリス様は敗れたんだ！	「Lord Kayblis has been defeated!
+217934	+		　魔軍と人類軍の戦争は終わったんだよ！」	　The war between the Monster Army and human army is over!」
 
-217935	Monster General	「ええい、黙れ黙れ黙れ！	「Silence silence silence!
-217936	+	　貴様、さては人類軍のスパイだな！」	　You must be a human army spy!」
+217935	Monster General		「ええい、黙れ黙れ黙れ！	「Silence silence silence!
+217936	+		　貴様、さては人類軍のスパイだな！」	　You must be a human army spy!」
 
-217937	Green Monster Soldier	「もう、目を覚ましてくれ！	「Please wake up already!
-217938	+	　戦う必要なんてどこにも――」	　There's no need to fight anymore――」
+217937	Green Monster Soldier		「もう、目を覚ましてくれ！	「Please wake up already!
+217938	+		　戦う必要なんてどこにも――」	　There's no need to fight anymore――」
 
-217939	Monster General	「戦いは終わらぬ！	「The war never ends!
-217940	+	　ケイブリス様が生きている限り！	　As long as Lord Kayblis lives!
-217941	+	　人類が生きている限り！」	　As long as humans exist!」
+217939	Monster General		「戦いは終わらぬ！	「The war never ends!
+217940	+		　ケイブリス様が生きている限り！	　As long as Lord Kayblis lives!
+217941	+		　人類が生きている限り！」	　As long as humans exist!」
 
-217942	Monster General	「永遠に戦いは終わりはしないのだ！」	「The war will never end!」
+217942	Monster General		「永遠に戦いは終わりはしないのだ！」	「The war will never end!」
 
-217943	Monster General	「集められるだけ兵を集めろ！	「Gather as many soldiers as possible!
-217944	+	　軍を立て直す！」	　Rebuild the army!」
+217943	Monster General		「集められるだけ兵を集めろ！	「Gather as many soldiers as possible!
+217944	+		　軍を立て直す！」	　Rebuild the army!」
 
-217945	Monster General	「撤退だ！　撤退し、態勢を整えるのだ！」	「Retreat! Retreat and regroup!」
+217945	Monster General		「撤退だ！　撤退し、態勢を整えるのだ！」	「Retreat! Retreat and regroup!」
 
-217946	Monster General	「がっ！　ぐ、ぐふっ！」	「Gah! Guh...!」
+217946	Monster General		「がっ！　ぐ、ぐふっ！」	「Gah! Guh...!」
 
-217947	Monster Captain	「止まって下さい、ダルソン様！	「Please stop, Lord Darson!
-217948	+	　まだ敵に受けた傷が癒えてません！	　Your wounds from the enemy haven't healed yet!
-217949	+	　そのままでは本当に死んでしまいます！」	　You'll really die if you keep going!」
+217947	Monster Captain		「止まって下さい、ダルソン様！	「Please stop, Lord Darson!
+217948	+		　まだ敵に受けた傷が癒えてません！	　Your wounds from the enemy haven't healed yet!
+217949	+		　そのままでは本当に死んでしまいます！」	　You'll really die if you keep going!」
 
-217950	Monster General	「ええい、馬鹿を言うな！	「Don't talk nonsense!
-217951	+	　歩みを止めてなるものか！」	　I won't stop moving forward!」
+217950	Monster General		「ええい、馬鹿を言うな！	「Don't talk nonsense!
+217951	+		　歩みを止めてなるものか！」	　I won't stop moving forward!」
 
-217952	Monster General	「こんなところで死なぬ！	「I won't die here!
-217953	+	　死んでなるものか！」	　I refuse to die!」
+217952	Monster General		「こんなところで死なぬ！	「I won't die here!
+217953	+		　死んでなるものか！」	　I refuse to die!」
 
-217954	Monster General	「もうこれ以上、私の前で	「I won't let anyone else
-217955	+	　誰一人殺させはせんぞ！」	　die in front of me!」
+217954	Monster General		「もうこれ以上、私の前で	「I won't let anyone else
+217955	+		　誰一人殺させはせんぞ！」	　die in front of me!」
 
-217956	Monster General	「後わずかな時を耐え抜けば！	「If we endure just a little longer!
-217957	+	　必ず増援は来る！」	　Reinforcements will surely come!」
+217956	Monster General		「後わずかな時を耐え抜けば！	「If we endure just a little longer!
+217957	+		　必ず増援は来る！」	　Reinforcements will surely come!」
 
-217958	Monster General	「必ずやケイブリス様が！	「Lord Kayblis will definitely!
-217959	+	　助けに来て下さるのだーーー！」	　Come save us!」
+217958	Monster General		「必ずやケイブリス様が！	「Lord Kayblis will definitely!
+217959	+		　助けに来て下さるのだーーー！」	　Come save us!」
 
-217960	-	…………	............
+217960	-		…………	............
 
-217961	-	……	...
+217961	-		……	...
 
-217962	Monster General	「…………」	「............」
+217962	Monster General		「…………」	「............」
 
-217963	Monster General	「早いものだな……	「How time flies...
-217964	+	　あれからもう15年か……」	　It's already been 15 years since then...」
+217963	Monster General		「早いものだな……	「How time flies...
+217964	+		　あれからもう15年か……」	　It's already been 15 years since then...」
 
-217965	-	八千の部隊を率いてスケールの都市を占領。	Leading eight thousand troops, he occupied the city of Scale.
+217965	-		八千の部隊を率いてスケールの都市を占領。	Leading eight thousand troops, he occupied the city of Scale.
 
-217966	-	長い年月が経ち、その八千も	After many long years, those eight thousand
-217967	+	今やたったの千までに数を減らしていた。	had been reduced to only one thousand.
+217966	-		長い年月が経ち、その八千も	After many long years, those eight thousand
+217967	+		今やたったの千までに数を減らしていた。	had been reduced to only one thousand.
 
-217968	Monster General	「副官アレコズインよ、	「Adjutant Arekozuin,
-217969	+	　昨日は何か変わったことはあったか？」	　was there anything unusual yesterday?」
+217968	Monster General		「副官アレコズインよ、	「Adjutant Arekozuin,
+217969	+		　昨日は何か変わったことはあったか？」	　was there anything unusual yesterday?」
 
-217970	Monster Captain	「はっ。	「Yes.
-217971	+	　いえ、取り立てて報告すべきようなことはなにも」	　No, there was nothing in particular to report.
+217970	Monster Captain		「はっ。	「Yes.
+217971	+		　いえ、取り立てて報告すべきようなことはなにも」	　No, there was nothing in particular to report.
 
-217972	Monster Captain	「昨日も至って平和でございました」	　Yesterday was also very peaceful.」
+217972	Monster Captain		「昨日も至って平和でございました」	　Yesterday was also very peaceful.」
 
-217973	Monster General	「平和？」	「Peaceful?」
+217973	Monster General		「平和？」	「Peaceful?」
 
-217974	Monster Captain	「っ！」	「!」
+217974	Monster Captain		「っ！」	「!」
 
-217975	-	しまった、と思ったときにはもう遅い。	By the time he realized his mistake, it was too late.
+217975	-		しまった、と思ったときにはもう遅い。	By the time he realized his mistake, it was too late.
 
-217976	Monster General	「平和な筈があるまい！	「How can it be peaceful!?
-217977	+	　今は戦時中なのだぞぉぉおおおお！」	　We are at war!!!」
+217976	Monster General		「平和な筈があるまい！	「How can it be peaceful!?
+217977	+		　今は戦時中なのだぞぉぉおおおお！」	　We are at war!!!」
 
-217978	Monster General	「貴様らには！　その意識が！	「You all! Lack!
-217979	+	　決定的に！　欠如している！」	　That awareness decisively!」
+217978	Monster General		「貴様らには！　その意識が！	「You all! Lack!
+217979	+		　決定的に！　欠如している！」	　That awareness decisively!」
 
-217980	Monster Captain	「は、はっ！　申し訳ありません！」	「Y-yes! I'm sorry!」
+217980	Monster Captain		「は、はっ！　申し訳ありません！」	「Y-yes! I'm sorry!」
 
-217981	Monster General	「良いか！　戦争が終わったなどと妄言を	「Listen! Humans may spout nonsense
-217982	+	　人間が言うこともあるだろう！」	　that the war is over!」
+217981	Monster General		「良いか！　戦争が終わったなどと妄言を	「Listen! Humans may spout nonsense
+217982	+		　人間が言うこともあるだろう！」	　that the war is over!」
 
-217983	Monster General	「しかし！　奴らは敵なのだ！	「But! They are the enemy!
-217984	+	　敵の情報は絶対に信じるな！	　Never believe enemy information!
-217985	+	　魔物が人間に負けるわけなどがないのだ！」	　Monsters cannot lose to humans!」
+217983	Monster General		「しかし！　奴らは敵なのだ！	「But! They are the enemy!
+217984	+		　敵の情報は絶対に信じるな！	　Never believe enemy information!
+217985	+		　魔物が人間に負けるわけなどがないのだ！」	　Monsters cannot lose to humans!」
 
-217986	Monster General	「そうだな……もしかすれば……	「That's right... perhaps...
-217987	+	　我が魔軍は本当に劣勢にあるのかも知れない」	　our Monster Army may truly be at a disadvantage.」
+217986	Monster General		「そうだな……もしかすれば……	「That's right... perhaps...
+217987	+		　我が魔軍は本当に劣勢にあるのかも知れない」	　our Monster Army may truly be at a disadvantage.」
 
-217988	Monster General	「だが！　我らがこの都市を占拠し続ければ、	「However! If we continue occupying this city,
-217989	+	　我が軍が有利になることに違いはない！」	　our army will surely gain the advantage!」
+217988	Monster General		「だが！　我らがこの都市を占拠し続ければ、	「However! If we continue occupying this city,
+217989	+		　我が軍が有利になることに違いはない！」	　our army will surely gain the advantage!」
 
-217990	Monster General	「ここまで15年待ったのだ！	「We've waited fifteen years already!
-217991	+	　20年だろうが30年だろうが耐え抜いてみせる！」	　Whether twenty or thirty years, we will endure!」
+217990	Monster General		「ここまで15年待ったのだ！	「We've waited fifteen years already!
+217991	+		　20年だろうが30年だろうが耐え抜いてみせる！」	　Whether twenty or thirty years, we will endure!」
 
-217992	Monster General	「ああ！　ですから！　ですからどうか！」	「Ah! So please! Please!」
+217992	Monster General		「ああ！　ですから！　ですからどうか！」	「Ah! So please! Please!」
 
-217993	Monster General	「ケイブリス様よ！	「Lord Kayblis!
-217994	+	　どうか早く来て下さいませ！	　Please come quickly!
-217995	+	　我らはそれを待ち続けます！　ですから！」	　We will continue waiting! So please!」
+217993	Monster General		「ケイブリス様よ！	「Lord Kayblis!
+217994	+		　どうか早く来て下さいませ！	　Please come quickly!
+217995	+		　我らはそれを待ち続けます！　ですから！」	　We will continue waiting! So please!」
 
-217996	Monster General	「どうかぁぅうぁぁうあぁああ！！！！」	「Pleaseeeee!!!」
+217996	Monster General		「どうかぁぅうぁぁうあぁああ！！！！」	「Pleaseeeee!!!」
 
-217997	Monster Captain	「…………ダルソン将軍」	「............General Darson.」
+217997	Monster Captain		「…………ダルソン将軍」	「............General Darson.」
 
-217998	Monster Captain~	（私は彼ほど立派な軍人を見たことがない……）	（I have never seen a soldier as magnificent as him...）
+217998	Monster Captain~		（私は彼ほど立派な軍人を見たことがない……）	（I have never seen a soldier as magnificent as him...）
 
-217999	Monster Captain~	（15年前のあのとき、	（Fifteen years ago at that time,
-218000	+	　散り散りになった兵達をまとめ上げ、	　he gathered the scattered soldiers,
-218001	+	　この都市を占領した手腕、まさしく見事）	　and occupied this city with truly brilliant skill.）
+217999	Monster Captain~		（15年前のあのとき、	（Fifteen years ago at that time,
+218000	+		　散り散りになった兵達をまとめ上げ、	　he gathered the scattered soldiers,
+218001	+		　この都市を占領した手腕、まさしく見事）	　and occupied this city with truly brilliant skill.）
 
-218002	Monster Captain~	（自軍に対する、	（His spirit of selfless devotion and
-218003	+	　滅私奉公、粉骨砕身の精神は、	　crushing dedication to his own army
-218004	+	　彼に仕えていることを誇らしくさせてくれた……）	　made me proud to serve under him...）
+218002	Monster Captain~		（自軍に対する、	（His spirit of selfless devotion and
+218003	+		　滅私奉公、粉骨砕身の精神は、	　crushing dedication to his own army
+218004	+		　彼に仕えていることを誇らしくさせてくれた……）	　made me proud to serve under him...）
 
-218005	Monster Captain~	（…………しかし）	（............However）
+218005	Monster Captain~		（…………しかし）	（............However）
 
-218006	-	最早、皆にも分かっていた。	Everyone already understood.
+218006	-		最早、皆にも分かっていた。	Everyone already understood.
 
-218007	-	こんな地方にある地でも、	Even in this remote region,
-218008	+	魔王が代わったのは皆が知っている。	everyone knows the Demon King has changed.
+218007	-		こんな地方にある地でも、	Even in this remote region,
+218008	+		魔王が代わったのは皆が知っている。	everyone knows the Demon King has changed.
 
-218009	-	それでも尚、魔人ケイブリスが	Even so, there is no way
-218010	+	魔物を統率して人間と戦っているわけがない。	that the Demon General Kayblis is still leading monsters against humans.
+218009	-		それでも尚、魔人ケイブリスが	Even so, there is no way
+218010	+		魔物を統率して人間と戦っているわけがない。	that the Demon General Kayblis is still leading monsters against humans.
 
-218011	-	魔軍は人間に敗れた。	The Monster Army has been defeated by humanity.
-218012	+	そして、おそらくケイブリスは殺されたのだろう。	And Kayblis has most likely been killed.
+218011	-		魔軍は人間に敗れた。	The Monster Army has been defeated by humanity.
+218012	+		そして、おそらくケイブリスは殺されたのだろう。	And Kayblis has most likely been killed.
 
-218013	-	皆がそう思っていた。	That was what everyone thought.
+218013	-		皆がそう思っていた。	That was what everyone thought.
 
-218014	-	唯一、それを認めないのは――	The only one who refused to accept it was――
+218014	-		唯一、それを認めないのは――	The only one who refused to accept it was――
 
-218015	Monster General	「逃げたいなどという根性のない奴は、	「Any spineless coward who wants to run away,
-218016	+	　この私自らがこの精神棒で	　I myself will beat that rotten spirit
-218017	+	　その腐った性根ごと叩き直してくれるわ！」	　straight with this spirit rod!」
+218015	Monster General		「逃げたいなどという根性のない奴は、	「Any spineless coward who wants to run away,
+218016	+		　この私自らがこの精神棒で	　I myself will beat that rotten spirit
+218017	+		　その腐った性根ごと叩き直してくれるわ！」	　straight with this spirit rod!」
 
-218018	-	未だ戦争が続いていると思っているのは、	The only one who still believed the war continued
-218019	+	この皆を率いるダルソンだけだった。	was Darson, the leader of these troops.
+218018	-		未だ戦争が続いていると思っているのは、	The only one who still believed the war continued
+218019	+		この皆を率いるダルソンだけだった。	was Darson, the leader of these troops.
 
-218020	Monster General	「おい、反乱分子がいたら、	「Hey, if you find any rebels,
-218021	+	　真っ先に私に知らせよ！　いいな！	　report it to me first! Got it!
-218022	+	　今は皆の一致団結が必要な時なのだ！」	　Now is the time for all of us to unite as one!」
+218020	Monster General		「おい、反乱分子がいたら、	「Hey, if you find any rebels,
+218021	+		　真っ先に私に知らせよ！　いいな！	　report it to me first! Got it!
+218022	+		　今は皆の一致団結が必要な時なのだ！」	　Now is the time for all of us to unite as one!」
 
-218023	Monster Captain	「はっ……かしこまりました……」	「Yes... Understood...」
+218023	Monster Captain		「はっ……かしこまりました……」	「Yes... Understood...」
 
-218024	-	しかし、それを口にするものはいない。	However, no one spoke those words.
+218024	-		しかし、それを口にするものはいない。	However, no one spoke those words.
 
-218025	-	怖いからでは断じて――ない。	It was definitely not out of fear.
-218026	+	ただ一重に彼を尊敬しているから。	It was purely because they respected him.
+218025	-		怖いからでは断じて――ない。	It was definitely not out of fear.
+218026	+		ただ一重に彼を尊敬しているから。	It was purely because they respected him.
 
-218027	-	彼の死ぬときまで共をすると決めているからだった。	They had decided to stay with him until the day he died.
+218027	-		彼の死ぬときまで共をすると決めているからだった。	They had decided to stay with him until the day he died.
 
-218028	Blue Monster Soldier	「だ、ダルソン将軍！　大変であります！」	「G-General Darson! It's an emergency!」
+218028	Blue Monster Soldier		「だ、ダルソン将軍！　大変であります！」	「G-General Darson! It's an emergency!」
 
-218029	Monster General	「むっ！　敵襲か！？」	「Hm! Enemy attack!?」
+218029	Monster General		「むっ！　敵襲か！？」	「Hm! Enemy attack!?」
 
-218030	Blue Monster Soldier	「そ、その通りであります！」	「Y-Yes, exactly!」
+218030	Blue Monster Soldier		「そ、その通りであります！」	「Y-Yes, exactly!」
 
-218031	Blue Monster Soldier	「姿が見えているのは未だ数名でありますが、	「Only a few are visible so far,
-218032	+	　リーザス赤の軍の鎧を着けておる者が！」	　but they are wearing the armor of the Leazas Red Army!」
+218031	Blue Monster Soldier		「姿が見えているのは未だ数名でありますが、	「Only a few are visible so far,
+218032	+		　リーザス赤の軍の鎧を着けておる者が！」	　but they are wearing the armor of the Leazas Red Army!」
 
-218033	Blue Monster Soldier	「おそらく奴らは先遣隊ではないかと！」	「They are probably the advance party!」
+218033	Blue Monster Soldier		「おそらく奴らは先遣隊ではないかと！」	「They are probably the advance party!」
 
-218034	Monster General	「ふぅむ……」	「Hmmm...」
+218034	Monster General		「ふぅむ……」	「Hmmm...」
 
-218035	Monster General	「ならば、すぐに本隊が攻め込んでくるか……」	「Then the main force will attack soon...」
+218035	Monster General		「ならば、すぐに本隊が攻め込んでくるか……」	「Then the main force will attack soon...」
 
-218036	Monster Captain	「…………」	「............」
+218036	Monster Captain		「…………」	「............」
 
-218037	-	このときが来たか――	So the time has finally come――
-218038	+	そう、この聡明な魔物隊長は覚悟を決めた。	Yes, this wise monster captain had resolved herself.
+218037	-		このときが来たか――	So the time has finally come――
+218038	+		そう、この聡明な魔物隊長は覚悟を決めた。	Yes, this wise monster captain had resolved herself.
 
-218039	-	都市を占拠し続ける魔軍を討伐せんと、	The Kingdom of Leazas had finally moved
-218040	+	リーザス国が遂に重い腰を上げたのだ。	to subjugate the Monster Army still occupying the city.
-218041	+	魔物隊長は嘆息と共にそう思った。	The monster captain thought so with a sigh.
+218039	-		都市を占拠し続ける魔軍を討伐せんと、	The Kingdom of Leazas had finally moved
+218040	+		リーザス国が遂に重い腰を上げたのだ。	to subjugate the Monster Army still occupying the city.
+218041	+		魔物隊長は嘆息と共にそう思った。	The monster captain thought so with a sigh.
 
-218042	Monster Captain~	（ならば、やることは一つ――）	（Then there is only one thing to do――）
+218042	Monster Captain~		（ならば、やることは一つ――）	（Then there is only one thing to do――）
 
-218043	Monster Captain	「参りましょう！」	「Let us go!」
+218043	Monster Captain		「参りましょう！」	「Let us go!」
 
-218044	Monster General	「うむ」	「Yes.」
+218044	Monster General		「うむ」	「Yes.」
 
-218045	-	死期はこの狂気の将軍も悟ったのだろう。	Even this mad general seemed to sense his end was near.
-218046	+	その瞳には在りし日の気高さが戻っていた。	A noble light had returned to his eyes.
+218045	-		死期はこの狂気の将軍も悟ったのだろう。	Even this mad general seemed to sense his end was near.
+218046	+		その瞳には在りし日の気高さが戻っていた。	A noble light had returned to his eyes.
 
-218047	Monster General	「皆に伝えよ。	「Tell everyone.
-218048	+	　これより……」	　From now on...」
+218047	Monster General		「皆に伝えよ。	「Tell everyone.
+218048	+		　これより……」	　From now on...」
 
-218049	Monster General	「――防衛戦を展開する」	「――We will engage in a defensive battle.」
+218049	Monster General		「――防衛戦を展開する」	「――We will engage in a defensive battle.」

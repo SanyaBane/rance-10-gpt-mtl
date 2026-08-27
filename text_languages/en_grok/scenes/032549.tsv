@@ -7,149 +7,149 @@
 * Red Monster Soldier	汎用魔物兵赤	Male
 * Green Monster Soldier	汎用魔物兵緑	Male
 
-158620	-	戦場、リーザス陣地――	Battlefield, Leazas Position――
+158620	-		戦場、リーザス陣地――	Battlefield, Leazas Position――
 
-158621	Ex Banquet	「あれは一体……」	「What on earth is that......」
+158621	Ex Banquet	怒り	「あれは一体……」	「What on earth is that......」
 
-158622	-	部下からの報告を受け、外に出たエクスが	Ex, who had gone outside after a subordinate's report,
-158623	+	見たのは戦場を飛び回る魔人ハウゼルの奇行だった。	saw Fiend Hawzel's strange behavior of flying around the battlefield.
+158622	-		部下からの報告を受け、外に出たエクスが	Ex, who had gone outside after a subordinate's report,
+158623	+		見たのは戦場を飛び回る魔人ハウゼルの奇行だった。	saw Fiend Hawzel's strange behavior of flying around the battlefield.
 
-158624	Leazas Red Soldier	「わ、分かりません、	「I, I don't know,
-158625	+	　今日の魔人ハウゼルはずっとあの調子でして……」	　Fiend Hawzel has been like that all day......」
+158624	Leazas Red Soldier	基本	「わ、分かりません、	「I, I don't know,
+158625	+		　今日の魔人ハウゼルはずっとあの調子でして……」	　Fiend Hawzel has been like that all day......」
 
-158626	Leazas White Soldier	「何か狙いがあるとは思うのですが……	「I think she must have some goal but......
-158627	+	　ずっと飛び回るだけで」	　she's just flying around.」
+158626	Leazas White Soldier		「何か狙いがあるとは思うのですが……	「I think she must have some goal but......
+158627	+		　ずっと飛び回るだけで」	　she's just flying around.」
 
-158628	Ex Banquet	「…………」	「............」
+158628	Ex Banquet	怒り	「…………」	「............」
 
-158629	Ex Banquet	「とにかく……今は警戒するしかないですね」	「Anyway...... we can only stay on guard for now.」
+158629	Ex Banquet		「とにかく……今は警戒するしかないですね」	「Anyway...... we can only stay on guard for now.」
 
-158630	Ex Banquet~	（あの行動になんの意味があるか分からない……	（I don't understand the meaning behind that behavior......
-158631	+	　だが、無意味なことをするとも思えない）	　But I don't think she'd do something meaningless.）
+158630	Ex Banquet~		（あの行動になんの意味があるか分からない……	（I don't understand the meaning behind that behavior......
+158631	+		　だが、無意味なことをするとも思えない）	　But I don't think she'd do something meaningless.）
 
-158632	Ex Banquet~	（一体、何が狙いだ……）	（What is her aim......）
+158632	Ex Banquet~		（一体、何が狙いだ……）	（What is her aim......）
 
-158633	-	分からない以上、ハウゼルの行動に	Since it was unclear, the only order he could give
-158634	+	注視せよとしか命令は下せなかった。	was to watch Hawzel's actions closely.
+158633	-		分からない以上、ハウゼルの行動に	Since it was unclear, the only order he could give
+158634	+		注視せよとしか命令は下せなかった。	was to watch Hawzel's actions closely.
 
-158635	-	無論、そんな動揺を表に出す愚は犯さない。	Of course he didn't show such unease outwardly.
+158635	-		無論、そんな動揺を表に出す愚は犯さない。	Of course he didn't show such unease outwardly.
 
-158636	Ex Banquet	「さあ、すぐ兵達に指示を。	「Now, give the soldiers instructions immediately.
-158637	+	　戦闘を一時中断してでも	　Even if we have to pause the battle,
-158638	+	　ハウゼルの行動に身構えよと、ね」	　stay ready for Hawzel's actions.」
+158636	Ex Banquet	基本	「さあ、すぐ兵達に指示を。	「Now, give the soldiers instructions immediately.
+158637	+		　戦闘を一時中断してでも	　Even if we have to pause the battle,
+158638	+		　ハウゼルの行動に身構えよと、ね」	　stay ready for Hawzel's actions.」
 
-158639	Leazas White Soldier	「は、はっ！」	「Y, yes!」
+158639	Leazas White Soldier		「は、はっ！」	「Y, yes!」
 
-158640	-	…………	............
+158640	-		…………	............
 
-158641	-	……	...
+158641	-		……	...
 
-158642	-	戦場、魔軍陣地――	Battlefield, Monster Army Position――
+158642	-		戦場、魔軍陣地――	Battlefield, Monster Army Position――
 
-158643	Monster General	「な、なんだあれは――ッ！」	「W, what the hell is that――!」
+158643	Monster General		「な、なんだあれは――ッ！」	「W, what the hell is that――!」
 
-158644	-	一方、魔軍側の陣地では、	Meanwhile, at the Monster Army position,
-158645	+	飛び回るハウゼルを目にして、	upon seeing Hawzel flying around,
-158646	+	魔物将軍は驚愕の表情を浮かべていた。	the Monster General had a look of shock.
+158644	-		一方、魔軍側の陣地では、	Meanwhile, at the Monster Army position,
+158645	+		飛び回るハウゼルを目にして、	upon seeing Hawzel flying around,
+158646	+		魔物将軍は驚愕の表情を浮かべていた。	the Monster General had a look of shock.
 
-158647	Monster General~	（い、意味が分からん……）	（I, I don't understand the meaning......）
+158647	Monster General~		（い、意味が分からん……）	（I, I don't understand the meaning......）
 
-158648	Monster General~	（何がしたければあんな行動をして、	（What does she want to achieve with that action,
-158649	+	　何を伝えたければあんなことになる……）	　what message is she trying to send......）
+158648	Monster General~		（何がしたければあんな行動をして、	（What does she want to achieve with that action,
+158649	+		　何を伝えたければあんなことになる……）	　what message is she trying to send......）
 
-158650	Monster General	「…………」	「............」
+158650	Monster General		「…………」	「............」
 
-158651	Monster General~	（はっ、まさか……	（Hah, no way......
-158652	+	　私達を裏切る気では……！？）	　is she planning to betray us......!?）
+158651	Monster General~		（はっ、まさか……	（Hah, no way......
+158652	+		　私達を裏切る気では……！？）	　is she planning to betray us......!?）
 
-158653	Monster General~	（意味は分からんが……	（I don't understand but......
-158654	+	　分からんが故に警戒するべきだ！）	　precisely because I don't understand I must stay alert!）
+158653	Monster General~		（意味は分からんが……	（I don't understand but......
+158654	+		　分からんが故に警戒するべきだ！）	　precisely because I don't understand I must stay alert!）
 
-158655	Monster Captain	「い、如何なさいますか？」	「W, what should we do?」
+158655	Monster Captain		「い、如何なさいますか？」	「W, what should we do?」
 
-158656	Monster General	「馬鹿もん！　何をしている！」	「Idiot! What are you doing!」
+158656	Monster General		「馬鹿もん！　何をしている！」	「Idiot! What are you doing!」
 
-158657	Monster General	「ハウゼルの行動に気をつけろと、	「Alert the whole army to watch Hawzel's actions
-158658	+	　今すぐ全軍に通達せよ！」	　immediately!」
+158657	Monster General		「ハウゼルの行動に気をつけろと、	「Alert the whole army to watch Hawzel's actions
+158658	+		　今すぐ全軍に通達せよ！」	　immediately!」
 
-158659	Monster General	「奴め……	「That bastard......
-158660	+	　何か全軍に対し攻撃を仕掛ける腹かも知れん……」	　might be planning to attack the whole army......」
+158659	Monster General		「奴め……	「That bastard......
+158660	+		　何か全軍に対し攻撃を仕掛ける腹かも知れん……」	　might be planning to attack the whole army......」
 
-158661	Monster General	「な、なにが狙いか分からんが、	「I don't know what her aim is,
-158662	+	　無意味なことをするとは思えん！	　but she wouldn't do something meaningless!
-158663	+	　急げよ！」	　Hurry!」
+158661	Monster General		「な、なにが狙いか分からんが、	「I don't know what her aim is,
+158662	+		　無意味なことをするとは思えん！	　but she wouldn't do something meaningless!
+158663	+		　急げよ！」	　Hurry!」
 
-158664	Monster Captain	「了解！」	「Understood!」
+158664	Monster Captain		「了解！」	「Understood!」
 
-158665	-	戦場、最前線――	Battlefield, Front Lines――
+158665	-		戦場、最前線――	Battlefield, Front Lines――
 
-158666	Leazas Red Soldier	「ハウゼルの動きに異常アリ。	「Abnormal movement from Hawzel.
-158667	+	　全軍は動きに備えよ！」	　All forces prepare for action!」
+158666	Leazas Red Soldier		「ハウゼルの動きに異常アリ。	「Abnormal movement from Hawzel.
+158667	+		　全軍は動きに備えよ！」	　All forces prepare for action!」
 
-158668	Leazas White Soldier	「動き？	「Movement?
-158669	+	　あの状態から攻撃してくるということですか？」	　You mean she'll attack from that state?」
+158668	Leazas White Soldier		「動き？	「Movement?
+158669	+		　あの状態から攻撃してくるということですか？」	　You mean she'll attack from that state?」
 
-158670	Leazas Red Soldier	「分からん。	「I don't know.
-158671	+	　とにかくハウゼルの動向に注意せよとお達しだ！」	　Anyway, orders are to watch Hawzel's movements closely!」
+158670	Leazas Red Soldier		「分からん。	「I don't know.
+158671	+		　とにかくハウゼルの動向に注意せよとお達しだ！」	　Anyway, orders are to watch Hawzel's movements closely!」
 
-158672	Leazas Red Soldier	「攻撃か、それ以外の何かか……	「Whether it's an attack or something else......
-158673	+	　作戦の前兆ではないかとのこと。	　it might be the prelude to an operation.
-158674	+	　注意せよ」	　Stay alert.」
+158672	Leazas Red Soldier		「攻撃か、それ以外の何かか……	「Whether it's an attack or something else......
+158673	+		　作戦の前兆ではないかとのこと。	　it might be the prelude to an operation.
+158674	+		　注意せよ」	　Stay alert.」
 
-158675	Leazas White Soldier	「注意せよって言われてもな……」	「They say stay alert but......」
+158675	Leazas White Soldier		「注意せよって言われてもな……」	「They say stay alert but......」
 
-158676	Leazas White Soldier	「……具体的に俺らどうしたらいいんだ？」	「......What exactly should we do?」
+158676	Leazas White Soldier		「……具体的に俺らどうしたらいいんだ？」	「......What exactly should we do?」
 
-158677	-	…………	............
+158677	-		…………	............
 
-158678	-	……	...
+158678	-		……	...
 
-158679	-	数十分後――	Several dozen minutes later――
+158679	-		数十分後――	Several dozen minutes later――
 
-158680	-	両軍は不可解な行動をする魔人により、	Because of the Fiend's incomprehensible actions,
-158681	+	ほとんどの兵は戦いをせずに	most soldiers stopped fighting
-158682	+	ただぼんやりと空を眺めていた。	and just stared blankly at the sky.
+158680	-		両軍は不可解な行動をする魔人により、	Because of the Fiend's incomprehensible actions,
+158681	+		ほとんどの兵は戦いをせずに	most soldiers stopped fighting
+158682	+		ただぼんやりと空を眺めていた。	and just stared blankly at the sky.
 
-158683	-	最前線で敵同士――またはランスの部隊が	Only sporadic fighting occurred when enemies一or Rance's unit一
-158684	+	魔軍に近づいたときのみの	approached the Monster Army at the front lines.
-158685	+	散発的な戦闘があるのみだった。	That was all.
+158683	-		最前線で敵同士――またはランスの部隊が	Only sporadic fighting occurred when enemies一or Rance's unit一
+158684	+		魔軍に近づいたときのみの	approached the Monster Army at the front lines.
+158685	+		散発的な戦闘があるのみだった。	That was all.
 
-158686	-	その遠くで行われている	While watching the small-scale battles
-158687	+	小規模な戦闘を眺めながら	happening far away,
-158688	+	魔物兵が鎧の中であくびをした。	a monster soldier yawned inside his armor.
+158686	-		その遠くで行われている	While watching the small-scale battles
+158687	+		小規模な戦闘を眺めながら	happening far away,
+158688	+		魔物兵が鎧の中であくびをした。	a monster soldier yawned inside his armor.
 
-158689	Red Monster Soldier	「ふわぁ……なんも起きないなぁ〜」	「Fwaa...... nothing's happening〜」
+158689	Red Monster Soldier		「ふわぁ……なんも起きないなぁ〜」	「Fwaa...... nothing's happening〜」
 
-158690	Green Monster Soldier	「本当になんかする気あるのかねぇ……」	「Does she really plan to do something......」
+158690	Green Monster Soldier		「本当になんかする気あるのかねぇ……」	「Does she really plan to do something......」
 
-158691	Red Monster Soldier	「分かんね……」	「No idea......」
+158691	Red Monster Soldier		「分かんね……」	「No idea......」
 
-158692	Green Monster Soldier	「はあ……今日はぽかぽか暖かいな……」	「Haa...... it's nice and warm today......」
+158692	Green Monster Soldier		「はあ……今日はぽかぽか暖かいな……」	「Haa...... it's nice and warm today......」
 
-158693	-	一方、リーザス陣地では、	Meanwhile at the Leazas position,
-158694	+	白軍の兵があくびを噛み殺し、	White Army soldiers suppressed yawns,
-158695	+	目尻に涙が浮かばせていた。	tears forming at the corners of their eyes.
+158693	-		一方、リーザス陣地では、	Meanwhile at the Leazas position,
+158694	+		白軍の兵があくびを噛み殺し、	White Army soldiers suppressed yawns,
+158695	+		目尻に涙が浮かばせていた。	tears forming at the corners of their eyes.
 
-158696	Leazas White Soldier	「ふわぁぁああ……」	「Fwaaaaa......」
+158696	Leazas White Soldier		「ふわぁぁああ……」	「Fwaaaaa......」
 
-158697	Leazas White Soldier	「………………暇だ」	「..............Bored.」
+158697	Leazas White Soldier		「………………暇だ」	「..............Bored.」
 
-158698	Leazas Red Soldier	「たった一人に両軍がここまで	「Just one person has both armies
-158699	+	　振り回されるってんだから……」	　this messed up......」
+158698	Leazas Red Soldier		「たった一人に両軍がここまで	「Just one person has both armies
+158699	+		　振り回されるってんだから……」	　this messed up......」
 
-158700	Leazas Red Soldier	「いやはや、魔人ってのは大したもんだ……」	「Wow, Fiend really are something......」
+158700	Leazas Red Soldier		「いやはや、魔人ってのは大したもんだ……」	「Wow, Fiend really are something......」
 
-158701	Leazas White Soldier	「しかし……	「However......
-158702	+	　なんとも呑気な戦争だなぁ……」	　what a carefree war this is......」
+158701	Leazas White Soldier		「しかし……	「However......
+158702	+		　なんとも呑気な戦争だなぁ……」	　what a carefree war this is......」
 
-158703	Leazas Red Soldier	「だなぁ……」	「Yeah......」
+158703	Leazas Red Soldier		「だなぁ……」	「Yeah......」
 
-158704	Leazas White Soldier	「んん……風が暖かくて……	「Nnn...... the wind is warm......
-158705	+	　ふわぁぁぁぁ……気持ちいいなぁ……」	　fwaaaaa...... feels nice......」
+158704	Leazas White Soldier		「んん……風が暖かくて……	「Nnn...... the wind is warm......
+158705	+		　ふわぁぁぁぁ……気持ちいいなぁ……」	　fwaaaaa...... feels nice......」
 
-158706	-	両軍の間に穏やかな空気が流れ、	A peaceful atmosphere flowed between both armies,
-158707	+	まるで皆でひなたぼっこを	as if everyone was sunbathing together.
-158708	+	しているかのような状況になっていた。	
+158706	-		両軍の間に穏やかな空気が流れ、	A peaceful atmosphere flowed between both armies,
+158707	+		まるで皆でひなたぼっこを	as if everyone was sunbathing together.
+158708	+		しているかのような状況になっていた。	
 
-158709	-	空では雲が風に運ばれ、	Clouds in the sky were carried by the wind,
-158710	+	東の方角へゆっくりと流されていた。	slowly drifting eastward.
+158709	-		空では雲が風に運ばれ、	Clouds in the sky were carried by the wind,
+158710	+		東の方角へゆっくりと流されていた。	slowly drifting eastward.

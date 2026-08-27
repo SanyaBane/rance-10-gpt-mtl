@@ -4,33 +4,33 @@
 * Zeth Mage Soldier	汎用ゼス男魔法兵	Male
 * Free Cities Guard	汎用自由都市警備兵Ａ	Male
 
-72306	-	…………	............
+72306	-		…………	............
 
-72307	-	……	......
+72307	-		……	......
 
-72308	-	司令部に悪いニュースが舞い込む。	Bad news arrives at headquarters.
-72309	+	本日も、また――	Today again――
+72308	-		司令部に悪いニュースが舞い込む。	Bad news arrives at headquarters.
+72309	+		本日も、また――	Today again――
 
-72310	Leazas Black Soldier	「ご報告申し上げます。	「Reporting.
-72311	+	　リーザスに約5万の敵が	　Approximately 50,000 enemy troops
-72312	+	　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to Leazas.」
+72310	Leazas Black Soldier	非武装	「ご報告申し上げます。	「Reporting.
+72311	+		　リーザスに約5万の敵が	　Approximately 50,000 enemy troops
+72312	+		　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to Leazas.」
 
-72313	Helman Soldier	「報告です。	「Report.
-72314	+	　ヘルマンに約5万の敵が	　Approximately 50,000 enemy troops
-72315	+	　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to Helman.」
+72313	Helman Soldier	基本	「報告です。	「Report.
+72314	+		　ヘルマンに約5万の敵が	　Approximately 50,000 enemy troops
+72315	+		　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to Helman.」
 
-72316	Zeth Mage Soldier	「報告。	「Report.
-72317	+	　ゼスに約5万の敵が	　Approximately 50,000 enemy troops
-72318	+	　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to Zeth.」
+72316	Zeth Mage Soldier		「報告。	「Report.
+72317	+		　ゼスに約5万の敵が	　Approximately 50,000 enemy troops
+72318	+		　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to Zeth.」
 
-72319	Free Cities Guard	「報告、報告です。	「Report, report.
-72320	+	　自由都市に約5万の敵が	　Approximately 50,000 enemy troops
-72321	+	　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to the Free Cities.」
+72319	Free Cities Guard		「報告、報告です。	「Report, report.
+72320	+		　自由都市に約5万の敵が	　Approximately 50,000 enemy troops
+72321	+		　魔軍の増援として送り込まれてきました」	　have been sent as reinforcements to the Free Cities.」
 
-72322	-	魔軍の増援がどこから来るのか、	The source of the Monster Army reinforcements
-72323	+	未だ分かっていないところにこの報告は、	was still unknown, and this report
-72324	+	司令部で働く皆の表情を大いに歪ませた。	greatly distorted the faces of everyone working at headquarters.
+72322	-		魔軍の増援がどこから来るのか、	The source of the Monster Army reinforcements
+72323	+		未だ分かっていないところにこの報告は、	was still unknown, and this report
+72324	+		司令部で働く皆の表情を大いに歪ませた。	greatly distorted the faces of everyone working at headquarters.
 
-72325	-	…………	............
+72325	-		…………	............
 
-72326	-	……	......
+72326	-		……	......

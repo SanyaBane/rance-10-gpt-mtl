@@ -10,192 +10,192 @@
 * Medusa	メディウサ	Female
 * Alefgard	アレフガルド	Male
 
-47189	-	臨時首都、マーク――	Temporary capital, Mark――
+47189	-		臨時首都、マーク――	Temporary capital, Mark――
 
-47190	-	ランス達が帰投すると、司令部は大騒ぎだった。	When Rance’s group returned, the headquarters was in an uproar.
+47190	-		ランス達が帰投すると、司令部は大騒ぎだった。	When Rance’s group returned, the headquarters was in an uproar.
 
-47191	Zeth Mage Soldier	「こ、こちら、スワンカラ防衛隊！	「This is the Swankara Defense Force!
-47192	+	　魔軍が三個大隊規模で侵攻中！	　The Monster Army is invading with three battalions!
-47193	+	　援軍を求めます！」	　Requesting reinforcements!」
+47191	Zeth Mage Soldier	基本	「こ、こちら、スワンカラ防衛隊！	「This is the Swankara Defense Force!
+47192	+		　魔軍が三個大隊規模で侵攻中！	　The Monster Army is invading with three battalions!
+47193	+		　援軍を求めます！」	　Requesting reinforcements!」
 
-47194	Yamada Chizuko	「すぐに現場を放棄！	「Abandon the position immediately!
-47195	+	　街道を使ってメポカの防衛隊と合流、	　Link up with the Mepoka Defense Force using the highway,
-47196	+	　そこで防衛線を張って！」	　and establish a new defense line there!」
+47194	Yamada Chizuko		「すぐに現場を放棄！	「Abandon the position immediately!
+47195	+		　街道を使ってメポカの防衛隊と合流、	　Link up with the Mepoka Defense Force using the highway,
+47196	+		　そこで防衛線を張って！」	　and establish a new defense line there!」
 
-47197	Zeth Mage Soldier	「千鶴子様、モハデの補給線付近に魔軍の発見アリ！	「Lady Chizuko, Monster Army spotted near Mohade supply line!
-47198	+	　このままですと、輸送隊が……！」	　At this rate the transport unit will...!」
+47197	Zeth Mage Soldier		「千鶴子様、モハデの補給線付近に魔軍の発見アリ！	「Lady Chizuko, Monster Army spotted near Mohade supply line!
+47198	+		　このままですと、輸送隊が……！」	　At this rate the transport unit will...!」
 
-47199	-	情報魔法で映像を展開させ、	She deployed visual information magic,
-47200	+	周辺の状況をすぐさま計算し、判断を済ませる。	instantly analyzed the surrounding situation and made decisions.
+47199	-		情報魔法で映像を展開させ、	She deployed visual information magic,
+47200	+		周辺の状況をすぐさま計算し、判断を済ませる。	instantly analyzed the surrounding situation and made decisions.
 
-47201	Yamada Chizuko	「そこは第21輸送隊ね？　一時進軍停止。	「That’s the 21st Transport Unit? Temporarily halt advance.
-47202	+	　首都防衛隊の援軍が近づいてるから合流させて。	　Capital Defense Force reinforcements are approaching, link up with them.
-47203	+	　護衛の合流ポイントはこっちで指定します」	　I’ll designate the escort rendezvous point.」
+47201	Yamada Chizuko		「そこは第21輸送隊ね？　一時進軍停止。	「That’s the 21st Transport Unit? Temporarily halt advance.
+47202	+		　首都防衛隊の援軍が近づいてるから合流させて。	　Capital Defense Force reinforcements are approaching, link up with them.
+47203	+		　護衛の合流ポイントはこっちで指定します」	　I’ll designate the escort rendezvous point.」
 
-47204	Yamada Chizuko	「それからさっきのスワンカラの撤退だけど、	「Also, for the Swankara retreat earlier,
-47205	+	　第11遊撃隊に支援させて！	　send the 11th Skirmish Unit for support!
-47206	+	　作戦後、帰り木の使用を許可します！」	　After the operation, permission to use return wood is granted!」
+47204	Yamada Chizuko		「それからさっきのスワンカラの撤退だけど、	「Also, for the Swankara retreat earlier,
+47205	+		　第11遊撃隊に支援させて！	　send the 11th Skirmish Unit for support!
+47206	+		　作戦後、帰り木の使用を許可します！」	　After the operation, permission to use return wood is granted!」
 
-47207	Zeth Mage Soldier	「は、ははっ！」	「Y-Yes!」
+47207	Zeth Mage Soldier		「は、ははっ！」	「Y-Yes!」
 
-47208	Rance	「おー……こっちも動き始めたか」	「Oh... Things are moving here too.」
+47208	Rance		「おー……こっちも動き始めたか」	「Oh... Things are moving here too.」
 
-47209	Yamada Chizuko	「マジック！　よかった、無事！？」	「Magic! Thank goodness, you’re safe!?」
+47209	Yamada Chizuko		「マジック！　よかった、無事！？」	「Magic! Thank goodness, you’re safe!?」
 
-47210	Magic the Gandhi	「千鶴子……ええ、なんとか。	「Chizuko... Yeah, somehow.
-47211	+	　その、そっちは……」	　How about over there...?」
+47210	Magic the Gandhi	思考	「千鶴子……ええ、なんとか。	「Chizuko... Yeah, somehow.
+47211	+		　その、そっちは……」	　How about over there...?」
 
-47212	Yamada Chizuko	「ん……平気……じゃ、ないけどね。	「Mm... I’m... not exactly fine.
-47213	+	　もう、仕事が次から次に、だから……	　Work keeps coming one after another, so...
-47214	+	　それどころじゃなくて」	　I don’t have time to worry.」
+47212	Yamada Chizuko	基本	「ん……平気……じゃ、ないけどね。	「Mm... I’m... not exactly fine.
+47213	+		　もう、仕事が次から次に、だから……	　Work keeps coming one after another, so...
+47214	+		　それどころじゃなくて」	　I don’t have time to worry.」
 
-47215	Magic the Gandhi	「……そっか」	「...I see.」
+47215	Magic the Gandhi	目閉じ	「……そっか」	「...I see.」
 
-47216	-	陰はあったが、千鶴子が見せたのは	There was fatigue, but what Chizuko showed
-47217	+	笑顔に違いなかった。	was definitely a smile.
+47216	-		陰はあったが、千鶴子が見せたのは	There was fatigue, but what Chizuko showed
+47217	+		笑顔に違いなかった。	was definitely a smile.
 
-47218	Yamada Chizuko	「それより、悪魔の件は……」	「More importantly, about the demon...」
+47218	Yamada Chizuko	基本	「それより、悪魔の件は……」	「More importantly, about the demon...」
 
-47219	Magic the Gandhi	「あ……それは、平気。	「Ah... That’s fine.
-47220	+	　悪魔は、いなくなっちゃったけど……」	　The demon is gone now...」
+47219	Magic the Gandhi		「あ……それは、平気。	「Ah... That’s fine.
+47220	+		　悪魔は、いなくなっちゃったけど……」	　The demon is gone now...」
 
-47221	Rance	「あの詐欺悪魔は俺様が叩き潰してやった。	「I crushed that fraudulent demon myself.
-47222	+	　万事解決だ」	　Everything’s settled.」
+47221	Rance		「あの詐欺悪魔は俺様が叩き潰してやった。	「I crushed that fraudulent demon myself.
+47222	+		　万事解決だ」	　Everything’s settled.」
 
-47223	Urza Pranaice	「悪質な……と、悪魔に言うのも、変ですけど。	「It’s strange to call a demon ‘crooked’, but...
-47224	+	　危うい所でした」	　It was a close call.」
+47223	Urza Pranaice		「悪質な……と、悪魔に言うのも、変ですけど。	「It’s strange to call a demon ‘crooked’, but...
+47224	+		　危うい所でした」	　It was a close call.」
 
-47225	Yamada Chizuko	「そう。よかったわ、マジック……本当に」	「I see. I’m so glad, Magic... really.」
+47225	Yamada Chizuko		「そう。よかったわ、マジック……本当に」	「I see. I’m so glad, Magic... really.」
 
-47226	Magic the Gandhi	「…………うん。忙しい時に、ごめん」	「...Yeah. Sorry for bothering you when you’re so busy.」
+47226	Magic the Gandhi	思考	「…………うん。忙しい時に、ごめん」	「...Yeah. Sorry for bothering you when you’re so busy.」
 
-47227	Yamada Chizuko	「忙しいのはいつものこと。	「Being busy is normal.
-47228	+	　では改めて指揮をお願いするわ、陛下」	　Then I’ll ask you to take command again, Your Majesty.」
+47227	Yamada Chizuko	基本	「忙しいのはいつものこと。	「Being busy is normal.
+47228	+		　では改めて指揮をお願いするわ、陛下」	　Then I’ll ask you to take command again, Your Majesty.」
 
-47229	Magic the Gandhi	「…………うん！」	「...Yeah!」
+47229	Magic the Gandhi		「…………うん！」	「...Yeah!」
 
-47230	Sill Plain	「……何とかなりそうですね、ランス様」	「...Looks like things will work out, Rance-sama.」
+47230	Sill Plain		「……何とかなりそうですね、ランス様」	「...Looks like things will work out, Rance-sama.」
 
-47231	Rance	「アホ。そんな簡単にいったら苦労せんわ」	「Idiot. If it were that easy I wouldn’t have to struggle.」
+47231	Rance	真剣	「アホ。そんな簡単にいったら苦労せんわ」	「Idiot. If it were that easy I wouldn’t have to struggle.」
 
-47232	Magic the Gandhi	「でも、メディウサは倒してくれるんでしょ？	「But you will defeat Medusa, right?
-47233	+	　あんなに威勢良く啖呵を切ったんだから」	　After talking so big.」
+47232	Magic the Gandhi	基本	「でも、メディウサは倒してくれるんでしょ？	「But you will defeat Medusa, right?
+47233	+		　あんなに威勢良く啖呵を切ったんだから」	　After talking so big.」
 
-47234	Rance	「おお、任せろ。	「Yeah, leave it to me.
-47235	+	　あんな外道、俺様が叩っ斬ってくれるわ！」	　I’ll chop that monster bitch to pieces!」
+47234	Rance		「おお、任せろ。	「Yeah, leave it to me.
+47235	+		　あんな外道、俺様が叩っ斬ってくれるわ！」	　I’ll chop that monster bitch to pieces!」
 
-47236	Chaos	「うひょひょ、そうそう。	「Uhyohyo, yep yep.
-47237	+	　ずばーっと残虐返しで寸刻みじゃい」	　Slice her up brutally into tiny pieces.」
+47236	Chaos		「うひょひょ、そうそう。	「Uhyohyo, yep yep.
+47237	+		　ずばーっと残虐返しで寸刻みじゃい」	　Slice her up brutally into tiny pieces.」
 
-47238	Zeth Mage Soldier	「おお……メディウサを倒せる……のか」	「Oh... We can really defeat Medusa...?」
+47238	Zeth Mage Soldier		「おお……メディウサを倒せる……のか」	「Oh... We can really defeat Medusa...?」
 
-47239	Zeth Mage Soldier	「それなら、まだ、光明は……」	「Then there’s still hope...」
+47239	Zeth Mage Soldier		「それなら、まだ、光明は……」	「Then there’s still hope...」
 
-47240	-	　	　
-47241	+	　　＜ぴんぽんぱんぽーん＞	　　＜Pinpon Panpon＞
+47240	-		　	　
+47241	+		　　＜ぴんぽんぱんぽーん＞	　　＜Pinpon Panpon＞
 
-47242	Zeth Mage Soldier	「う、っぐ……！」	「Ugh...!」
+47242	Zeth Mage Soldier	苦戦	「う、っぐ……！」	「Ugh...!」
 
-47243	Medusa	『はーぁーーい。ちょっと待たせちゃったかしら。	『Haaai. Sorry to keep you waiting.
-47244	+	　今日もお姉さんのヒミツの時間、始まりよー』	　Big sister’s secret time begins again today~』
+47243	Medusa	基本	『はーぁーーい。ちょっと待たせちゃったかしら。	『Haaai. Sorry to keep you waiting.
+47244	+		　今日もお姉さんのヒミツの時間、始まりよー』	　Big sister’s secret time begins again today~』
 
-47245	-	ほのかに前向きになろうとした空気に	Just as the atmosphere was turning slightly hopeful,
-47246	+	水を差すように、メディウサの放送が始まった。	Medusa’s broadcast began, pouring cold water on it.
+47245	-		ほのかに前向きになろうとした空気に	Just as the atmosphere was turning slightly hopeful,
+47246	+		水を差すように、メディウサの放送が始まった。	Medusa’s broadcast began, pouring cold water on it.
 
-47247	メディウサの犠牲者２／基本	『ああィやあああぁぁぁぁッ！！	『Aaaahhhhh!!!
-47248	+	　たすっ、助け、ふぇぇぶ、ぐぼぇぇっ……！』	　Help... save me... gueeeh...!』
+47247	メディウサの犠牲者２／基本		『ああィやあああぁぁぁぁッ！！	『Aaaahhhhh!!!
+47248	+		　たすっ、助け、ふぇぇぶ、ぐぼぇぇっ……！』	　Help... save me... gueeeh...!』
 
-47249	-	女性士官が、じわじわと壊されていく。	The female officer was slowly being broken.
-47250	+	毎日流されているにしろ、	Even though it was broadcast every day,
-47251	+	その直視に耐えない凄惨さに、司令部も揺れ動く。	the horrific sight was too much, shaking the entire headquarters.
+47249	-		女性士官が、じわじわと壊されていく。	The female officer was slowly being broken.
+47250	+		毎日流されているにしろ、	Even though it was broadcast every day,
+47251	+		その直視に耐えない凄惨さに、司令部も揺れ動く。	the horrific sight was too much, shaking the entire headquarters.
 
-47252	Rance	「…………ちっ。相変わらず、胸糞の悪い……」	「...Tch. As disgusting as ever...」
+47252	Rance	イライラ	「…………ちっ。相変わらず、胸糞の悪い……」	「...Tch. As disgusting as ever...」
 
-47253	Magic the Gandhi	「緊急の指示が終わったら、	「Once the emergency orders are done,
-47254	+	　すぐに討伐の作戦を立てましょ。	　we’ll immediately plan the subjugation.
-47255	+	　こっちも動かせるだけの……」	　We’ll mobilize everything we can...」
+47253	Magic the Gandhi	基本	「緊急の指示が終わったら、	「Once the emergency orders are done,
+47254	+		　すぐに討伐の作戦を立てましょ。	　we’ll immediately plan the subjugation.
+47255	+		　こっちも動かせるだけの……」	　We’ll mobilize everything we can...」
 
-47256	メディウサの犠牲者２／基本	『や、やめ、ッ……	『S-Stop...!
-47257	+	　ご、ごめんなさい、ッ……ゆる、許し、ッ……！	　I-I'm sorry... Please forgive me...!
-47258	+	　あぐぇッ……ぎゃああああぁぁぁッ！！』	　Agueh... Gyaaaaah!!!』
+47256	メディウサの犠牲者２／基本		『や、やめ、ッ……	『S-Stop...!
+47257	+		　ご、ごめんなさい、ッ……ゆる、許し、ッ……！	　I-I'm sorry... Please forgive me...!
+47258	+		　あぐぇッ……ぎゃああああぁぁぁッ！！』	　Agueh... Gyaaaaah!!!』
 
-47259	-	どうにか背筋を張るマジックに	Just as Magic tried to straighten her back,
-47260	+	水を差すように、女性士官の断末魔が響いた。	the female officer’s death scream rang out.
+47259	-		どうにか背筋を張るマジックに	Just as Magic tried to straighten her back,
+47260	+		水を差すように、女性士官の断末魔が響いた。	the female officer’s death scream rang out.
 
-47261	Medusa	「はーぁぁあ……壊れちゃっ、た♪」	「Haaaa... She broke♪」
+47261	Medusa	舌なめずり	「はーぁぁあ……壊れちゃっ、た♪」	「Haaaa... She broke♪」
 
-47262	-	ぽいっと、蛇が貫いていた女体を放り捨てる。	The snake casually tossed aside the woman’s body it had impaled.
+47262	-		ぽいっと、蛇が貫いていた女体を放り捨てる。	The snake casually tossed aside the woman’s body it had impaled.
 
-47263	Medusa	「アレフガルドー」	「Alefgard~」
+47263	Medusa	基本	「アレフガルドー」	「Alefgard~」
 
-47264	Alefgard	「はいお嬢様。	「Yes, young mistress.
-47265	+	　サンドウィッチでよろしゅうございますか？」	　Would a sandwich be acceptable?」
+47264	Alefgard		「はいお嬢様。	「Yes, young mistress.
+47265	+		　サンドウィッチでよろしゅうございますか？」	　Would a sandwich be acceptable?」
 
-47266	Medusa	「んー」	「Mmm.」
+47266	Medusa		「んー」	「Mmm.」
 
-47267	-	ひょいひょいと、メディウサの手が	Medusa casually picked up
-47268	+	サンドウィッチを摘んで口の中へ放り込んでいく。	the sandwich and tossed it into her mouth.
+47267	-		ひょいひょいと、メディウサの手が	Medusa casually picked up
+47268	+		サンドウィッチを摘んで口の中へ放り込んでいく。	the sandwich and tossed it into her mouth.
 
-47269	Medusa	「むぐもぐ……はー。ダメだわ」	「Munch munch... Haa. No good.」
+47269	Medusa		「むぐもぐ……はー。ダメだわ」	「Munch munch... Haa. No good.」
 
-47270	Alefgard	「ああ、お嬢様、食べながら喋るとこぼしますぞ。	「Oh dear, young mistress, you’ll drop crumbs if you talk while eating.
-47271	+	　ふきふき……」	　There, there...」
+47270	Alefgard		「ああ、お嬢様、食べながら喋るとこぼしますぞ。	「Oh dear, young mistress, you’ll drop crumbs if you talk while eating.
+47271	+		　ふきふき……」	　There, there...」
 
-47272	Medusa	「ん」	「Nn.」
+47272	Medusa		「ん」	「Nn.」
 
-47273	Alefgard	「これでよろしゅうございます。	「All clean now.
-47274	+	　それで、どうなさいましたか」	　So, what is the matter?」
+47273	Alefgard		「これでよろしゅうございます。	「All clean now.
+47274	+		　それで、どうなさいましたか」	　So, what is the matter?」
 
-47275	Medusa	「人間、脆すぎ。	「Humans are too fragile.
-47276	+	　こっちが盛り上がってきた頃には、	　Just when I start getting into it,
-47277	+	　もう勝手に壊れちゃうんだもん」	　they break on their own.」
+47275	Medusa	ジト目	「人間、脆すぎ。	「Humans are too fragile.
+47276	+		　こっちが盛り上がってきた頃には、	　Just when I start getting into it,
+47277	+		　もう勝手に壊れちゃうんだもん」	　they break on their own.」
 
-47278	Medusa	「ちょろーっと臓物引き出したら、	「Just a little tug on their organs
-47279	+	　もう反応もしなくなっちゃうしさー。つまんない」	　and they stop reacting. So boring.」
+47278	Medusa		「ちょろーっと臓物引き出したら、	「Just a little tug on their organs
+47279	+		　もう反応もしなくなっちゃうしさー。つまんない」	　and they stop reacting. So boring.」
 
-47280	Alefgard	「もう少し丁寧に使って頂きたいですがなあ……	「I wish you would handle them a bit more carefully...
-47281	+	　次はどういたしますか？」	　What would you like next?」
+47280	Alefgard	基本	「もう少し丁寧に使って頂きたいですがなあ……	「I wish you would handle them a bit more carefully...
+47281	+		　次はどういたしますか？」	　What would you like next?」
 
-47282	Medusa	「んー…………」	「Hmm......」
+47282	Medusa		「んー…………」	「Hmm......」
 
-47283	-	メディウサは、爪を口元に当てて、	Medusa placed a claw to her lips,
-47284	+	少しだけ思案した。	thinking for a moment.
+47283	-		メディウサは、爪を口元に当てて、	Medusa placed a claw to her lips,
+47284	+		少しだけ思案した。	thinking for a moment.
 
-47285	Medusa	『――金髪。グラマーなのがいいな。	『――Blonde. I want someone glamorous.
-47286	+	　簡単に壊れないコ、探してきて』	　Find me one who won’t break so easily.』
+47285	Medusa		『――金髪。グラマーなのがいいな。	『――Blonde. I want someone glamorous.
+47286	+		　簡単に壊れないコ、探してきて』	　Find me one who won’t break so easily.』
 
-47287	Alefgard	『かしこまりました』	『Understood.』
+47287	Alefgard		『かしこまりました』	『Understood.』
 
-47288	-	そして、通信が切れる。	And the communication ended.
+47288	-		そして、通信が切れる。	And the communication ended.
 
-47289	Magic the Gandhi	「っ、また……」	「Again...」
+47289	Magic the Gandhi	思考	「っ、また……」	「Again...」
 
-47290	Rance	「――――――――リズナだ」	「――――――――It’s Rizna.」
+47290	Rance	真剣	「――――――――リズナだ」	「――――――――It’s Rizna.」
 
-47291	Magic the Gandhi	「えっ？」	「Eh?」
+47291	Magic the Gandhi	基本	「えっ？」	「Eh?」
 
-47292	Rance	「おい、リズナは今、どこにいる！	「Hey, where is Rizna right now!
-47293	+	　ここにすぐに連れてこい！！」	　Bring her here immediately!!」
+47292	Rance	怒り	「おい、リズナは今、どこにいる！	「Hey, where is Rizna right now!
+47293	+		　ここにすぐに連れてこい！！」	　Bring her here immediately!!」
 
-47294	Sill Plain	「あっ……はっ、はい…………！」	「Ah... Y-Yes...!」
+47294	Sill Plain	慌て	「あっ……はっ、はい…………！」	「Ah... Y-Yes...!」
 
-47295	Urza Pranaice	「そう、ですね……手配してください！	「Yes... Please arrange it!
-47296	+	　リズナさんを、すぐに保護し……！」	　Protect Rizna-san immediately...!」
+47295	Urza Pranaice	真剣	「そう、ですね……手配してください！	「Yes... Please arrange it!
+47296	+		　リズナさんを、すぐに保護し……！」	　Protect Rizna-san immediately...!」
 
-47297	-	ウルザが指示し、周りの人間全員が動こうとした、	As Urza gave orders and everyone began to move,
-47298	+	その瞬間。	at that very moment.
+47297	-		ウルザが指示し、周りの人間全員が動こうとした、	As Urza gave orders and everyone began to move,
+47298	+		その瞬間。	at that very moment.
 
-47299	Zeth Mage Soldier	「た、っ……たた、大変です！	「I-It's terrible!
-47300	+	　あ、総統閣下！　お聞きください！」	　Supreme Leader! Please listen!」
+47299	Zeth Mage Soldier	基本	「た、っ……たた、大変です！	「I-It's terrible!
+47300	+		　あ、総統閣下！　お聞きください！」	　Supreme Leader! Please listen!」
 
-47301	-	一人の兵士が息せき切って、駆け込んできた。	A soldier rushed in, out of breath.
+47301	-		一人の兵士が息せき切って、駆け込んできた。	A soldier rushed in, out of breath.
 
-47302	Rance	「がー、退け！	「Gah, move!
-47303	+	　っていうか、報告なら千鶴子にしろ！」	　If it's a report, tell it to Chizuko!」
+47302	Rance	イライラ	「がー、退け！	「Gah, move!
+47303	+		　っていうか、報告なら千鶴子にしろ！」	　If it's a report, tell it to Chizuko!」
 
-47304	Zeth Mage Soldier	「それが……リズナ殿が、今しがた！	「It's... Lady Rizna has just now!
-47305	+	　魔人の使徒を、名乗る者に……拉致されました！」	　Been kidnapped by someone claiming to be a Fiend's apostle!」
+47304	Zeth Mage Soldier	基本	「それが……リズナ殿が、今しがた！	「It's... Lady Rizna has just now!
+47305	+		　魔人の使徒を、名乗る者に……拉致されました！」	　Been kidnapped by someone claiming to be a Fiend's apostle!」
 
-47306	Rance	「な…………！」	「What...!」
+47306	Rance	驚き	「な…………！」	「What...!」
 
-47307	-	――――ゼス軍司令部は、再び凍りついた。	――――The Zeth Army Headquarters froze once again.
+47307	-		――――ゼス軍司令部は、再び凍りついた。	――――The Zeth Army Headquarters froze once again.

@@ -12,205 +12,205 @@
 * Kentou Kanami	かなみ	Female
 * Mercy Julietta	マーシー	Female
 
-32090	Rance	「ぐ、うううぅぅぅ……！	「Guh, uuuuuh......!
-32091	+	　また吹雪いてきやがったか……」	　It's snowing heavily again......」
+32090	Rance	イライラ	「ぐ、うううぅぅぅ……！	「Guh, uuuuuh......!
+32091	+		　また吹雪いてきやがったか……」	　It's snowing heavily again......」
 
-32092	-	歯の根をガチガチと合わせながら、	Teeth chattering loudly,
-32093	+	ランスはシベリアを進んでいた。	Rance advanced through Siberia.
+32092	-		歯の根をガチガチと合わせながら、	Teeth chattering loudly,
+32093	+		ランスはシベリアを進んでいた。	Rance advanced through Siberia.
 
-32094	Rance	「シィルー！」	「Sillー！」
+32094	Rance	怒り	「シィルー！」	「Sillー！」
 
-32095	Sill Plain	「は、はい……！　ぬくもれー、ぬくもれー……」	「Y-yes......! Warmth, warmth......」
+32095	Sill Plain	慌て	「は、はい……！　ぬくもれー、ぬくもれー……」	「Y-yes......! Warmth, warmth......」
 
-32096	Rance	「くそ、魔法なしで進める場所じゃないな……	「Damn, this isn't a place you can go without magic......
-32097	+	　俺様に断りも無しにビュウビュウ吹きやがって」	　Blowing like crazy without asking me.」
+32096	Rance	イライラ	「くそ、魔法なしで進める場所じゃないな……	「Damn, this isn't a place you can go without magic......
+32097	+		　俺様に断りも無しにビュウビュウ吹きやがって」	　Blowing like crazy without asking me.」
 
-32098	Arcy Julietta	「お菓子、お菓子……	「Snacks, snacks......
-32099	+	　あーっ、ネコパンこおっちゃってるよー」	　Ahh, the cat bread is frozenー」
+32098	Arcy Julietta	基本	「お菓子、お菓子……	「Snacks, snacks......
+32099	+		　あーっ、ネコパンこおっちゃってるよー」	　Ahh, the cat bread is frozenー」
 
-32100	Lucy Julietta	「ど許せぬ」	「Unforgivable.」
+32100	Lucy Julietta		「ど許せぬ」	「Unforgivable.」
 
-32101	Sill Plain	「あ、すみません。	「Ah, sorry.
-32102	+	　このお天気だと、だいたい凍っちゃって……」	　With this weather everything freezes......」
+32101	Sill Plain	苦笑	「あ、すみません。	「Ah, sorry.
+32102	+		　このお天気だと、だいたい凍っちゃって……」	　With this weather everything freezes......」
 
-32103	Lucy Julietta	「何かくれ、何かくれ」	「Give me something, give me something.」
+32103	Lucy Julietta	基本	「何かくれ、何かくれ」	「Give me something, give me something.」
 
-32104	Arcy Julietta	「なにかくれ♪　なにかくれ♪」	「Give me something♪ Give me something♪」
+32104	Arcy Julietta		「なにかくれ♪　なにかくれ♪」	「Give me something♪ Give me something♪」
 
-32105	Sill Plain	「あ、あああ、ええと、なにか……」	「Ah, aah, um, something......」
+32105	Sill Plain	慌て	「あ、あああ、ええと、なにか……」	「Ah, aah, um, something......」
 
-32106	-	アーシー達はお菓子を要求して、	Arcy and the others demanded snacks,
-32107	+	シィルの周りをぐるぐる回る。	circling around Sill.
+32106	-		アーシー達はお菓子を要求して、	Arcy and the others demanded snacks,
+32107	+		シィルの周りをぐるぐる回る。	circling around Sill.
 
-32108	Rance	「……まるっきり、躾の悪いガキだな」	「......They're completely badly behaved brats.」
+32108	Rance	だる顔	「……まるっきり、躾の悪いガキだな」	「......They're completely badly behaved brats.」
 
-32109	Magic the Gandhi~	（スシヌの育て方、ちょっと気をつけよ……）	（I should be careful how I raise Sushinu......）
+32109	Magic the Gandhi~	思考	（スシヌの育て方、ちょっと気をつけよ……）	（I should be careful how I raise Sushinu......）
 
-32110	Sill Plain	「うーん、すみません……	「Umm, sorry......
-32111	+	　凍ってないお菓子というとアイスくらいしか……」	　The only non-frozen snacks I have are ice cream......」
+32110	Sill Plain	苦笑	「うーん、すみません……	「Umm, sorry......
+32111	+		　凍ってないお菓子というとアイスくらいしか……」	　The only non-frozen snacks I have are ice cream......」
 
-32112	Lucy Julietta	「アイス」	「Ice cream.」
+32112	Lucy Julietta	基本	「アイス」	「Ice cream.」
 
-32113	Sill Plain	「あはは、元々凍ってますもんね。	「Ahaha, it's already frozen anyway.
-32114	+	　だから……」	　So......」
+32113	Sill Plain	苦笑	「あはは、元々凍ってますもんね。	「Ahaha, it's already frozen anyway.
+32114	+		　だから……」	　So......」
 
-32115	Arcy Julietta	「いいよ。アイスいいよ。ちょーらい、ちょーらい」	「It's fine. Ice cream is fine. Gimme gimme.」
+32115	Arcy Julietta	基本	「いいよ。アイスいいよ。ちょーらい、ちょーらい」	「It's fine. Ice cream is fine. Gimme gimme.」
 
-32116	Lucy Julietta	「アイス　アイス」	「Ice cream ice cream.」
+32116	Lucy Julietta		「アイス　アイス」	「Ice cream ice cream.」
 
-32117	Sill Plain	「わ、わわ、は、はい……」	「O-okay, y-yes......」
+32117	Sill Plain	ぽか〜ん	「わ、わわ、は、はい……」	「O-okay, y-yes......」
 
-32118	-	精一杯手を伸ばして要求する二人に、	To the two who were reaching out desperately,
-32119	+	シィルはアイスを取りだして握らせた。	Sill took out ice cream and let them hold it.
+32118	-		精一杯手を伸ばして要求する二人に、	To the two who were reaching out desperately,
+32119	+		シィルはアイスを取りだして握らせた。	Sill took out ice cream and let them hold it.
 
-32120	Arcy Julietta	「おいちいね、おいちいね。がりごり」	「So tasty, so tasty. Crunch crunch.」
+32120	Arcy Julietta	むぐむぐ	「おいちいね、おいちいね。がりごり」	「So tasty, so tasty. Crunch crunch.」
 
-32121	Lucy Julietta	「うむうむ。うむ。ごりがり」	「Mhm mhm. Mhm. Crunch crunch.」
+32121	Lucy Julietta		「うむうむ。うむ。ごりがり」	「Mhm mhm. Mhm. Crunch crunch.」
 
-32122	Sill Plain	「…………冷たくないんでしょうか……」	「............Isn't it cold......」
+32122	Sill Plain	苦笑	「…………冷たくないんでしょうか……」	「............Isn't it cold......」
 
-32123	Rance	「ほっとけ。なんか知らんが、	「Leave them be. I don't know how,
-32124	+	　百年も二百年も生きてる不死身なんだろ」	　but they're immortal and have lived for hundreds of years.」
+32123	Rance	だる顔	「ほっとけ。なんか知らんが、	「Leave them be. I don't know how,
+32124	+		　百年も二百年も生きてる不死身なんだろ」	　but they're immortal and have lived for hundreds of years.」
 
-32125	Lucy Julietta	「死なぬわけではない。ごりごり」	「We can die. Crunch crunch.」
+32125	Lucy Julietta	むぐむぐ	「死なぬわけではない。ごりごり」	「We can die. Crunch crunch.」
 
-32126	Arcy Julietta	「そうそう。使徒のからだは	「That's right. Apostle bodies
-32127	+	　とちをとらないだけだものね」	　just don't age.」
+32126	Arcy Julietta		「そうそう。使徒のからだは	「That's right. Apostle bodies
+32127	+		　とちをとらないだけだものね」	　just don't age.」
 
-32128	Lucy Julietta	「…………」	「............」
+32128	Lucy Julietta		「…………」	「............」
 
-32129	Magic the Gandhi	「………………え？　あの、今……なんて？」	「............Eh? Wait, what did you just say?」
+32129	Magic the Gandhi	驚き	「………………え？　あの、今……なんて？」	「............Eh? Wait, what did you just say?」
 
-32130	-	ぽろっと出てきた、聞き逃せない単語に、	At the word that slipped out, impossible to ignore,
-32131	+	マジックの表情が変わった。	Magic's expression changed.
+32130	-		ぽろっと出てきた、聞き逃せない単語に、	At the word that slipped out, impossible to ignore,
+32131	+		マジックの表情が変わった。	Magic's expression changed.
 
-32132	Chaos	「あーーーーー！	「Aaaaaaah!
-32133	+	　なんかずっとちょぴっと匂うと思ったら！	　I thought I smelled something faintly!
-32134	+	　お前ら、使徒かい！」	　You guys are apostles!」
+32132	Chaos		「あーーーーー！	「Aaaaaaah!
+32133	+		　なんかずっとちょぴっと匂うと思ったら！	　I thought I smelled something faintly!
+32134	+		　お前ら、使徒かい！」	　You guys are apostles!」
 
-32135	Arcy Julietta	「んみゅ？　そーだけど？　しらなかった？」	「Nmyu? Yeah? You didn't know?」
+32135	Arcy Julietta	基本	「んみゅ？　そーだけど？　しらなかった？」	「Nmyu? Yeah? You didn't know?」
 
-32136	Lucy Julietta	「……………………うむ」	「........................Yes.」
+32136	Lucy Julietta		「……………………うむ」	「........................Yes.」
 
-32137	Chaos	「くっそーーー！	「Damn itー!
-32138	+	　ずっと魔人がおるから匂いが紛れとったわい」	　The smell of Fiends was masking it.」
+32137	Chaos		「くっそーーー！	「Damn itー!
+32138	+		　ずっと魔人がおるから匂いが紛れとったわい」	　The smell of Fiends was masking it.」
 
-32139	Magic the Gandhi	「ま、魔人、の……？　え、で、でも……	「F-Fiend...? Eh, b-but......
-32140	+	　ルーシー様は、ずっとゼス王室を、助けて……」	　Lady Lucy has been helping the Zeth royal family all this time......」
+32139	Magic the Gandhi	驚き	「ま、魔人、の……？　え、で、でも……	「F-Fiend...? Eh, b-but......
+32140	+		　ルーシー様は、ずっとゼス王室を、助けて……」	　Lady Lucy has been helping the Zeth royal family all this time......」
 
-32141	Lucy Julietta	「……………………」	「........................」
+32141	Lucy Julietta	基本	「……………………」	「........................」
 
-32142	-	ふぅ、とルーシーは一度、アイスを食べる手を止めて	Lucy paused eating her ice cream and sighed.
-32143	+	ため息をついた。	
+32142	-		ふぅ、とルーシーは一度、アイスを食べる手を止めて	Lucy paused eating her ice cream and sighed.
+32143	+		ため息をついた。	
 
-32144	Lucy Julietta	「…………主、バークスハムの命で、	「............By the order of my lord, Burksham,
-32145	+	　ガイ様の後継者を見つけよと言われ、	　I was told to find Gai-sama's successor,
-32146	+	　我らは各地に放たれた」	　and we were sent to various places.」
+32144	Lucy Julietta		「…………主、バークスハムの命で、	「............By the order of my lord, Burksham,
+32145	+		　ガイ様の後継者を見つけよと言われ、	　I was told to find Gai-sama's successor,
+32146	+		　我らは各地に放たれた」	　and we were sent to various places.」
 
-32147	Lucy Julietta	「だが、それ以外の事は何も言われておらぬ。	「But nothing else was ordered.
-32148	+	　好きに振る舞えとの命であった」	　We were told to act freely.」
+32147	Lucy Julietta		「だが、それ以外の事は何も言われておらぬ。	「But nothing else was ordered.
+32148	+		　好きに振る舞えとの命であった」	　We were told to act freely.」
 
-32149	Lucy Julietta	「…………それだけだ」	「............That's all.」
+32149	Lucy Julietta		「…………それだけだ」	「............That's all.」
 
-32150	Magic the Gandhi	「そう……なの、ですか……」	「Is that... so......」
+32150	Magic the Gandhi	思考	「そう……なの、ですか……」	「Is that... so......」
 
-32151	Parsley Rig Zeth	「……大丈夫ですよ。ルーシーは素直な子ですから」	「...It's fine. Lucy is an honest child.」
+32151	Parsley Rig Zeth	基本	「……大丈夫ですよ。ルーシーは素直な子ですから」	「...It's fine. Lucy is an honest child.」
 
-32152	Miracle Tor	「魔人バークスハム……前魔王ガイの近衛隊長か。	「Fiend Burksham... the former Demon King Gai's guard captain.
-32153	+	　確か、前魔王の死に前後して消滅したと聞くが」	　I heard he disappeared around the time of the previous Demon King's death.」
+32152	Miracle Tor	ライドオン／真剣	「魔人バークスハム……前魔王ガイの近衛隊長か。	「Fiend Burksham... the former Demon King Gai's guard captain.
+32153	+		　確か、前魔王の死に前後して消滅したと聞くが」	　I heard he disappeared around the time of the previous Demon King's death.」
 
-32154	Ogawa Kentarou	「バー、クス……ああ、もしかしたら……」	「Bar, kshum... Ah, maybe......」
+32154	Ogawa Kentarou	基本	「バー、クス……ああ、もしかしたら……」	「Bar, kshum... Ah, maybe......」
 
-32155	Nikkou	「はい。魔王の城で、健太郎君が撃退した魔人です。	「Yes. The Fiend that Kentarou repelled at the Demon King's castle.
-32156	+	　しかし……死んでいたのですね」	　But... he was already dead.」
+32155	Nikkou		「はい。魔王の城で、健太郎君が撃退した魔人です。	「Yes. The Fiend that Kentarou repelled at the Demon King's castle.
+32156	+		　しかし……死んでいたのですね」	　But... he was already dead.」
 
-32157	Ogawa Kentarou	「あの白いおじさんかー……なむなむ」	「That white old man... Namu namu.」
+32157	Ogawa Kentarou		「あの白いおじさんかー……なむなむ」	「That white old man... Namu namu.」
 
-32158	Rance	「ま……使徒だろうと今さらか。	「Well... doesn't matter if they're apostles now.
-32159	+	　魔人もいるんだ。どうってことない」	　We already have Fiends. No big deal.」
+32158	Rance		「ま……使徒だろうと今さらか。	「Well... doesn't matter if they're apostles now.
+32159	+		　魔人もいるんだ。どうってことない」	　We already have Fiends. No big deal.」
 
-32160	Chaos	「ううん……殺したいのう、殺したいのう……」	「Uuu... I want to kill them, I want to kill them......」
+32160	Chaos		「ううん……殺したいのう、殺したいのう……」	「Uuu... I want to kill them, I want to kill them......」
 
-32161	Rance	「お前は黙ってろ」	「You shut up.」
+32161	Rance	だる顔	「お前は黙ってろ」	「You shut up.」
 
-32162	Arcy Julietta	「それにあたちたちのおちごと、	「Besides, our mission is already
-32163	+	　もうおわっちゃったものね。ごりがり」	　finished. Crunch crunch.」
+32162	Arcy Julietta	むぐむぐ	「それにあたちたちのおちごと、	「Besides, our mission is already
+32163	+		　もうおわっちゃったものね。ごりがり」	　finished. Crunch crunch.」
 
-32164	Lucy Julietta	「む。マーの字もどうしたのか。ごりごり」	「Mhm. I wonder what happened to Marcy. Crunch crunch.」
+32164	Lucy Julietta		「む。マーの字もどうしたのか。ごりごり」	「Mhm. I wonder what happened to Marcy. Crunch crunch.」
 
-32165	Kentou Kanami	「ああ……えっと、もう一人いるんだっけ」	「Ah... right, there's one more.」
+32165	Kentou Kanami	基本	「ああ……えっと、もう一人いるんだっけ」	「Ah... right, there's one more.」
 
-32166	Arcy Julietta	「うん。マーシーちゃんは、	「Yeah. Mercy Julietta-chan was
-32167	+	　ヘルマンにおつかいにだされたの」	　sent on a mission to Helman.」
+32166	Arcy Julietta	むぐむぐ	「うん。マーシーちゃんは、	「Yeah. Mercy Julietta-chan was
+32167	+		　ヘルマンにおつかいにだされたの」	　sent on a mission to Helman.」
 
-32168	Arcy Julietta	「でもそこで、そうなんしたってきいたよ。	「But I heard something happened there.
-32169	+	　しんじゃったかもね。がりがり」	　She might have died. Crunch crunch.」
+32168	Arcy Julietta		「でもそこで、そうなんしたってきいたよ。	「But I heard something happened there.
+32169	+		　しんじゃったかもね。がりがり」	　She might have died. Crunch crunch.」
 
-32170	Lucy Julietta	「そうか。がりごり」	「I see. Crunch crunch.」
+32170	Lucy Julietta		「そうか。がりごり」	「I see. Crunch crunch.」
 
-32171	Kentou Kanami	「……あれ？　今、なにか……」	「......Huh? Just now, something......」
+32171	Kentou Kanami	基本	「……あれ？　今、なにか……」	「......Huh? Just now, something......」
 
-32172	Arcy Julietta	「はあーっ。アイスおいちい。ごりごり」	「Haaah. Ice cream is tasty. Crunch crunch.」
+32172	Arcy Julietta	むぐむぐ	「はあーっ。アイスおいちい。ごりごり」	「Haaah. Ice cream is tasty. Crunch crunch.」
 
-32173	Lucy Julietta	「なぜ食べると無くなってしまうのか……ごりごり」	「Why does it disappear when you eat it...... Crunch crunch.」
+32173	Lucy Julietta		「なぜ食べると無くなってしまうのか……ごりごり」	「Why does it disappear when you eat it...... Crunch crunch.」
 
-32174	Kentou Kanami	「き、気のせいじゃない……！	「I-I'm not imagining it......!
-32175	+	　何か……地中から近づいてるよ！」	　Something... is approaching from underground!」
+32174	Kentou Kanami	うがー	「き、気のせいじゃない……！	「I-I'm not imagining it......!
+32175	+		　何か……地中から近づいてるよ！」	　Something... is approaching from underground!」
 
-32176	Rance	「ち、モンスターか？　構えろ！」	「Tch, a monster? Get ready!」
+32176	Rance	怒り	「ち、モンスターか？　構えろ！」	「Tch, a monster? Get ready!」
 
-32177	Mercy Julietta	「お菓子、を……………………」	「Snacks......」
+32177	Mercy Julietta	基本	「お菓子、を……………………」	「Snacks......」
 
-32178	Mercy Julietta	「よこ〜〜〜〜〜せぇぇ〜〜〜〜〜〜〜〜！！」	「Gimmeeeeeee theeeeem！！」
+32178	Mercy Julietta		「よこ〜〜〜〜〜せぇぇ〜〜〜〜〜〜〜〜！！」	「Gimmeeeeeee theeeeem！！」
 
-32179	Sill Plain	「わっ！　わ、わわわっ！？」	「Wah! W-wawawah!?」
+32179	Sill Plain	慌て	「わっ！　わ、わわわっ！？」	「Wah! W-wawawah!?」
 
-32180	Rance	「チビども下がれ！　今すぐ叩き斬って……！」	「Brats get back! I'll cut them down right now......！」
+32180	Rance	怒り	「チビども下がれ！　今すぐ叩き斬って……！」	「Brats get back! I'll cut them down right now......！」
 
-32181	Lucy Julietta	「む。マーの字」	「Mhm. It's Mercy.」
+32181	Lucy Julietta	基本	「む。マーの字」	「Mhm. It's Mercy.」
 
-32182	Arcy Julietta	「あ。ほんとだ〜。マーシーちゃんだあ」	「Ah. It's true~. It's Mercy Julietta-chan.」
+32182	Arcy Julietta		「あ。ほんとだ〜。マーシーちゃんだあ」	「Ah. It's true~. It's Mercy Julietta-chan.」
 
-32183	Mercy Julietta	「ぱおぱおぱお！　いい匂いさせやがって！	「Pao pao pao! What a nice smell!
-32184	+	　この鼻でくすぐり地獄に落とされたくなければ……	　If you don't want to be sent to tickle hell with this nose......
-32185	+	　って、あー！　アーシーにルーシー！」	　Wait, aah! It's Arcy and Lucy!」
+32183	Mercy Julietta		「ぱおぱおぱお！　いい匂いさせやがって！	「Pao pao pao! What a nice smell!
+32184	+		　この鼻でくすぐり地獄に落とされたくなければ……	　If you don't want to be sent to tickle hell with this nose......
+32185	+		　って、あー！　アーシーにルーシー！」	　Wait, aah! It's Arcy and Lucy!」
 
-32186	Rance	「…………おい。待て。待て待て待て。	「............Hey. Wait. Wait wait wait.
-32187	+	　そいつ、まさか……？」	　That one, no way......？」
+32186	Rance	驚き	「…………おい。待て。待て待て待て。	「............Hey. Wait. Wait wait wait.
+32187	+		　そいつ、まさか……？」	　That one, no way......？」
 
-32188	Arcy Julietta	「うん！　マーシーちゃんだよぉ」	「Yeah! It's Mercy Julietta-chan.」
+32188	Arcy Julietta	基本	「うん！　マーシーちゃんだよぉ」	「Yeah! It's Mercy Julietta-chan.」
 
-32189	Lucy Julietta	「これで三人。揃うてしまったな」	「Now we have all three. They're all together.」
+32189	Lucy Julietta		「これで三人。揃うてしまったな」	「Now we have all three. They're all together.」
 
-32190	Kentou Kanami	「三人…………三姉妹…………？」	「Three............ Triplet sisters............？」
+32190	Kentou Kanami		「三人…………三姉妹…………？」	「Three............ Triplet sisters............？」
 
-32191	Rance	「一匹だけ完全に人間じゃないぞ！」	「One of them isn't even human at all!」
+32191	Rance	怒り	「一匹だけ完全に人間じゃないぞ！」	「One of them isn't even human at all!」
 
-32192	Lucy Julietta	「寒い場所で進化したのであろ」	「She must have evolved in a cold place.」
+32192	Lucy Julietta	基本	「寒い場所で進化したのであろ」	「She must have evolved in a cold place.」
 
-32193	Rance	「進、化…………？」	「E-evolved............？」
+32193	Rance	驚き	「進、化…………？」	「E-evolved............？」
 
-32194	Mercy Julietta	「ぱおぱお。ここ、すっごく寒くて。	「Pao pao. It's super cold here.
-32195	+	　震えてたら、毛が生えてきたの」	　I was shivering and then fur grew.」
+32194	Mercy Julietta	基本	「ぱおぱお。ここ、すっごく寒くて。	「Pao pao. It's super cold here.
+32195	+		　震えてたら、毛が生えてきたの」	　I was shivering and then fur grew.」
 
-32196	Lucy Julietta	「その内、元に戻るであろ」	「It will return to normal eventually.」
+32196	Lucy Julietta		「その内、元に戻るであろ」	「It will return to normal eventually.」
 
-32197	Mercy Julietta	「ぱおぱお。アイスいいな、いいな。	「Pao pao. Ice cream is nice, so nice.
-32198	+	　マーシーが派遣された所、お菓子とか全然ないの」	　Where Mercy Julietta was sent there were no snacks at all.」
+32197	Mercy Julietta		「ぱおぱお。アイスいいな、いいな。	「Pao pao. Ice cream is nice, so nice.
+32198	+		　マーシーが派遣された所、お菓子とか全然ないの」	　Where Mercy Julietta was sent there were no snacks at all.」
 
-32199	Arcy Julietta	「じゃあたべる？　はい」	「Then eat this? Here.」
+32199	Arcy Julietta		「じゃあたべる？　はい」	「Then eat this? Here.」
 
-32200	Mercy Julietta	「ぱお！　ありがとー！　……でもいいの？」	「Pao! Thank youー! ...Is it really okay?」
+32200	Mercy Julietta		「ぱお！　ありがとー！　……でもいいの？」	「Pao! Thank youー! ...Is it really okay?」
 
-32201	Arcy Julietta	「いいの！　このおにいちゃんやおねえちゃんたち、	「It's fine! This big brother and big sisters
-32202	+	　おかしいっぱいくれるの」	　give us tons of snacks.」
+32201	Arcy Julietta		「いいの！　このおにいちゃんやおねえちゃんたち、	「It's fine! This big brother and big sisters
+32202	+		　おかしいっぱいくれるの」	　give us tons of snacks.」
 
-32203	Mercy Julietta	「ぱお！？　じゃあマーシーもほしい！」	「Pao!? Then Mercy Julietta wants some too!」
+32203	Mercy Julietta		「ぱお！？　じゃあマーシーもほしい！」	「Pao!? Then Mercy Julietta wants some too!」
 
-32204	Lucy Julietta	「ならば共に来るか」	「Then come with us.」
+32204	Lucy Julietta		「ならば共に来るか」	「Then come with us.」
 
-32205	Mercy Julietta	「うん、いく！　ぱおぱおぱお！」	「Yeah, I'll go! Pao pao pao!」
+32205	Mercy Julietta		「うん、いく！　ぱおぱおぱお！」	「Yeah, I'll go! Pao pao pao!」
 
-32206	Rance	「…………またガキが増えるのか……」	「............Another brat added......」
+32206	Rance	だる顔	「…………またガキが増えるのか……」	「............Another brat added......」
 
-32207	-	魔人討伐隊に、マーシー・ジュリエッタが加わった。	Mercy Julietta joined the Fiend Extermination Squad.
+32207	-		魔人討伐隊に、マーシー・ジュリエッタが加わった。	Mercy Julietta joined the Fiend Extermination Squad.

@@ -8,87 +8,87 @@
 * Sill Plain	シィル	Female
 * Kentou Kanami	かなみ	Female
 
-60060	Rance	「だ、あ、りゃああぁぁぁぁぁぁ！！」	「D, o, ryaaaaaaaahhh!!」
+60060	Rance	怒り	「だ、あ、りゃああぁぁぁぁぁぁ！！」	「D, o, ryaaaaaaaahhh!!」
 
-60061	Lei	「ぐっ……！　お、ぐおおおおおぉぉぁぁっ！」	「Guh...! O, guoooooooohhh!!」
+60061	Lei	戦闘時	「ぐっ……！　お、ぐおおおおおぉぉぁぁっ！」	「Guh...! O, guoooooooohhh!!」
 
-60062	-	ランスの渾身の一撃を叩きつけられ、	Struck by Rance's full-powered blow,
-60063	+	レイが膝をつく。	Lei dropped to one knee.
+60062	-		ランスの渾身の一撃を叩きつけられ、	Struck by Rance's full-powered blow,
+60063	+		レイが膝をつく。	Lei dropped to one knee.
 
-60064	-	全身を巡る雷も途絶え衰え、	The lightning circulating through his body weakened and stopped,
-60065	+	既に行動不能であるかに見えた。	and he looked completely unable to move.
+60064	-		全身を巡る雷も途絶え衰え、	The lightning circulating through his body weakened and stopped,
+60065	+		既に行動不能であるかに見えた。	and he looked completely unable to move.
 
-60066	Lei	「が、はあぁぁっ……！	「Ga, haaaah...!
-60067	+	　はぁっ！　はぁっ！　はぁっ……！」	　Hah! Hah! Hah...!」
+60066	Lei		「が、はあぁぁっ……！	「Ga, haaaah...!
+60067	+		　はぁっ！　はぁっ！　はぁっ……！」	　Hah! Hah! Hah...!」
 
-60068	Rance	「うふわははははははは！	「Ufuwa hahahahahaha!
-60069	+	　俺様大勝ーーーーー利！！」	　My great victory-----!!!」
+60068	Rance	笑顔	「うふわははははははは！	「Ufuwa hahahahahaha!
+60069	+		　俺様大勝ーーーーー利！！」	　My great victory-----!!!」
 
-60070	Free Cities Guard	「お、っ……お、おおおおおっ……！	「O, oh... O, ooooooh...!
-60071	+	　ま、まさか、あの怪物が……！」	　N-no way, that monster...!」
+60070	Free Cities Guard	基本	「お、っ……お、おおおおおっ……！	「O, oh... O, ooooooh...!
+60071	+		　ま、まさか、あの怪物が……！」	　N-no way, that monster...!」
 
-60072	Cecil Carna~	（凄まじいな……あれが、魔人と渡り合うという、	（Incredible... So this is what it means to fight a Fiend,
-60073	+	　魔人討伐隊……）	　the Fiend Extermination Squad...）
+60072	Cecil Carna~		（凄まじいな……あれが、魔人と渡り合うという、	（Incredible... So this is what it means to fight a Fiend,
+60073	+		　魔人討伐隊……）	　the Fiend Extermination Squad...）
 
-60074	Chaos	「ぐひょひょひょ！	「Guhyohyohyo!
-60075	+	　さあ心の友！　とどめ！　とどめ！」	　Now my soul friend! The finishing blow! Finish him!」
+60074	Chaos		「ぐひょひょひょ！	「Guhyohyohyo!
+60075	+		　さあ心の友！　とどめ！　とどめ！」	　Now my soul friend! The finishing blow! Finish him!」
 
-60076	Rance	「ふん、もはや何もできまい。	「Hmph, you can't do anything anymore.
-60077	+	　今すぐラクに……」	　Die easily right now...」
+60076	Rance		「ふん、もはや何もできまい。	「Hmph, you can't do anything anymore.
+60077	+		　今すぐラクに……」	　Die easily right now...」
 
-60078	Lei	「………………へっ……！」	「............Heh...!」
+60078	Lei		「………………へっ……！」	「............Heh...!」
 
-60079	Rance	「あん？」	「Huh?」
+60079	Rance	真剣	「あん？」	「Huh?」
 
-60080	Lei	「まだ、生きてるぜ、俺ァ……！」	「I'm still alive...!」
+60080	Lei	戦闘時	「まだ、生きてるぜ、俺ァ……！」	「I'm still alive...!」
 
-60081	Rance	「うおっ……！」	「Uoh...!」
+60081	Rance	驚き	「うおっ……！」	「Uoh...!」
 
-60082	-	突如として、レイが身体を跳ね起こす。	Suddenly, Lei sprang up.
-60083	+	ランスに血の目潰しを浴びせかけ、	He threw blood into Rance's eyes,
-60084	+	マリアの戦車へと走る。	and ran toward Maria's tank.
+60082	-		突如として、レイが身体を跳ね起こす。	Suddenly, Lei sprang up.
+60083	+		ランスに血の目潰しを浴びせかけ、	He threw blood into Rance's eyes,
+60084	+		マリアの戦車へと走る。	and ran toward Maria's tank.
 
-60085	Maria Custard	「あっ、きゃぁっ！？」	「Ah, kyaa!?」
+60085	Maria Custard	基本	「あっ、きゃぁっ！？」	「Ah, kyaa!?」
 
-60086	-	マリアがそれに反応するより速く	Faster than Maria could react,
-60087	+	駈けのぼり、手刀で避雷針を切断する。	Lei climbed up and sliced the lightning rod with a hand blade.
+60086	-		マリアがそれに反応するより速く	Faster than Maria could react,
+60087	+		駈けのぼり、手刀で避雷針を切断する。	Lei climbed up and sliced the lightning rod with a hand blade.
 
-60088	Maria Custard	「あーーーーーー！」	「Aaaaaah!」
+60088	Maria Custard		「あーーーーーー！」	「Aaaaaah!」
 
-60089	Lei	「ッ、消し飛べ、ゴミどもッ……！」	「Tch, blow away, you trash...!」
+60089	Lei	戦闘時	「ッ、消し飛べ、ゴミどもッ……！」	「Tch, blow away, you trash...!」
 
-60090	Cecil Carna	「ッ、総員！　逃げッ…………！」	「Everyone! Run...!」
+60090	Cecil Carna	基本	「ッ、総員！　逃げッ…………！」	「Everyone! Run...!」
 
-60091	-	周辺全域に、特大の雷の雨が迸った。	A massive rain of lightning poured over the entire area.
-60092	+	地を抉り、空を貫き、直撃した者を消し炭にし、	It gouged the earth, pierced the sky, carbonizing those hit directly,
-60093	+	そうでない者の耳を轟音が貫く。	and the roar pierced the ears of everyone else.
+60091	-		周辺全域に、特大の雷の雨が迸った。	A massive rain of lightning poured over the entire area.
+60092	+		地を抉り、空を貫き、直撃した者を消し炭にし、	It gouged the earth, pierced the sky, carbonizing those hit directly,
+60093	+		そうでない者の耳を轟音が貫く。	and the roar pierced the ears of everyone else.
 
-60094	Rance	「お、ッ……！」	「O, hh...!」
+60094	Rance	驚き	「お、ッ……！」	「O, hh...!」
 
-60095	Lei	「ッ……………！」	「Tch............!」
+60095	Lei	戦闘時	「ッ……………！」	「Tch............!」
 
-60096	-	そして躊躇いもなく身を翻し、	Then without hesitation he turned,
-60097	+	レイはその場から遁走した。	and Lei fled from the spot.
+60096	-		そして躊躇いもなく身を翻し、	Then without hesitation he turned,
+60097	+		レイはその場から遁走した。	and Lei fled from the spot.
 
-60098	Rance	「げほごほっ……あ、あの野郎……！	「Cough cough... That bastard...!
-60099	+	　ええい、追え追え追えーーーー！！」	　Damn it, chase him chase him chase him-----!!」
+60098	Rance	怒り	「げほごほっ……あ、あの野郎……！	「Cough cough... That bastard...!
+60099	+		　ええい、追え追え追えーーーー！！」	　Damn it, chase him chase him chase him-----!!」
 
-60100	Sill Plain	「ラ、ランス様、大丈夫ですかっ……！	「R-Rance-sama, are you okay...!
-60101	+	　いたいのいたいの飛んでけー！」	　Pain pain fly awayー!」
+60100	Sill Plain	慌て	「ラ、ランス様、大丈夫ですかっ……！	「R-Rance-sama, are you okay...!
+60101	+		　いたいのいたいの飛んでけー！」	　Pain pain fly awayー!」
 
-60102	Rance	「ちっ、ヒーリングよりタオル寄越せ！	「Tch, give me a towel instead of healing!
-60103	+	　野郎の血糊で目が開かん！」	　I can't open my eyes from that guy's blood!」
+60102	Rance	イライラ	「ちっ、ヒーリングよりタオル寄越せ！	「Tch, give me a towel instead of healing!
+60103	+		　野郎の血糊で目が開かん！」	　I can't open my eyes from that guy's blood!」
 
-60104	Sill Plain	「は、はい！　動かないでくださいね、ごしごし……」	「Y-yes! Please stay still, scrub scrub...」
+60104	Sill Plain	泣き	「は、はい！　動かないでくださいね、ごしごし……」	「Y-yes! Please stay still, scrub scrub...」
 
-60105	Chaos	「レイの野郎、逃げおっただと！	「That Lei bastard ran away!
-60106	+	　あれだけボロボロの身体で、まだ……！」	　Even with that battered body, he still...!」
+60105	Chaos	基本	「レイの野郎、逃げおっただと！	「That Lei bastard ran away!
+60106	+		　あれだけボロボロの身体で、まだ……！」	　Even with that battered body, he still...!」
 
-60107	Rance	「全軍に伝えろ、魔人を探して捕まえろとな！	「Tell the whole army to search for and capture the Fiend!
-60108	+	　俺にしか殺せんにしても……絶対に逃がすな！」	　Even if only I can kill him... Don't let him escape!」
+60107	Rance	怒り	「全軍に伝えろ、魔人を探して捕まえろとな！	「Tell the whole army to search for and capture the Fiend!
+60108	+		　俺にしか殺せんにしても……絶対に逃がすな！」	　Even if only I can kill him... Don't let him escape!」
 
-60109	Kentou Kanami	「っ、分かったわ！」	「Got it!」
+60109	Kentou Kanami	基本	「っ、分かったわ！」	「Got it!」
 
-60110	-	魔人の敗北と共に通達されたその命は	The order issued alongside the Fiend's defeat
-60111	+	最優先で自由都市連合軍中に伝わり、	was spread throughout the Free Cities Alliance Army as top priority,
-60112	+	全軍はただちに追跡戦に入った。	and the entire army immediately began pursuit.
+60110	-		魔人の敗北と共に通達されたその命は	The order issued alongside the Fiend's defeat
+60111	+		最優先で自由都市連合軍中に伝わり、	was spread throughout the Free Cities Alliance Army as top priority,
+60112	+		全軍はただちに追跡戦に入った。	and the entire army immediately began pursuit.

@@ -6,125 +6,125 @@
 * Veteran Soldier	老兵	Male
 * Asakura Yoshikage	朝倉義景	Male
 
-100270	Rance	「あれ？」	「Huh?」
+100270	Rance	基本	「あれ？」	「Huh?」
 
-100271	Wenlina	「あ、おにいちゃん、いらっしゃーい♪」	「Ah, big brother, welcome♪」
+100271	Wenlina		「あ、おにいちゃん、いらっしゃーい♪」	「Ah, big brother, welcome♪」
 
-100272	Barres Province	「おや、ランス殿」	「Oh, Lord Rance.」
+100272	Barres Province		「おや、ランス殿」	「Oh, Lord Rance.」
 
-100273	Rance	「何故ウェンリーナーの部屋にバレスが？」	「Why is Barres in Wenlina's room?」
+100273	Rance	真剣	「何故ウェンリーナーの部屋にバレスが？」	「Why is Barres in Wenlina's room?」
 
-100274	Rance	「……何か変なことしとらんだろうな？」	「...You didn't do anything weird, did you?」
+100274	Rance	だる顔	「……何か変なことしとらんだろうな？」	「...You didn't do anything weird, did you?」
 
-100275	Barres Province	「変なこと？」	「Weird?」
+100275	Barres Province	基本	「変なこと？」	「Weird?」
 
-100276	Barres Province	「儂はただウェンリーナー様に頼み事があって	「I just came to ask Lady Wenlina for a favor
-100277	+	　来ただけですぞ」	　that's all.」
+100276	Barres Province		「儂はただウェンリーナー様に頼み事があって	「I just came to ask Lady Wenlina for a favor
+100277	+		　来ただけですぞ」	　that's all.」
 
-100278	Wenlina	「はーい、おじいちゃん、横になってくださーい♪」	「Okaaay, grandpa, please lie down♪」
+100278	Wenlina		「はーい、おじいちゃん、横になってくださーい♪」	「Okaaay, grandpa, please lie down♪」
 
-100279	Barres Province	「おお、宜しくお願いいたしますぞ」	「Oh, thank you very much.」
+100279	Barres Province		「おお、宜しくお願いいたしますぞ」	「Oh, thank you very much.」
 
-100280	-	バレスがごろりとベッドの上にうつぶせで寝転がる。	Barres flopped face-down onto the bed.
+100280	-		バレスがごろりとベッドの上にうつぶせで寝転がる。	Barres flopped face-down onto the bed.
 
-100281	Rance	「何しとんだ？」	「What are you doing?」
+100281	Rance	だる顔	「何しとんだ？」	「What are you doing?」
 
-100282	Barres Province	「うむむ、少し情けない話なのですが……」	「Well, it's a bit embarrassing, but...」
+100282	Barres Province	基本	「うむむ、少し情けない話なのですが……」	「Well, it's a bit embarrassing, but...」
 
-100283	Wenlina	「はーい、ではいきまーす」	「Okaaay, here we go」
+100283	Wenlina		「はーい、ではいきまーす」	「Okaaay, here we go」
 
-100284	-	　	　
-100285	+	　　＜もみもみ、もみもみ＞	　　＜Knead knead, knead knead＞
+100284	-		　	　
+100285	+		　　＜もみもみ、もみもみ＞	　　＜Knead knead, knead knead＞
 
-100286	-	ウェンリーナーがバレスに乗り、	Wenlina climbed onto Barres
-100287	+	腰をぐりぐりと揉みほぐす。	and started kneading his lower back firmly.
+100286	-		ウェンリーナーがバレスに乗り、	Wenlina climbed onto Barres
+100287	+		腰をぐりぐりと揉みほぐす。	and started kneading his lower back firmly.
 
-100288	Rance	「マッサージ？」	「A massage?」
+100288	Rance		「マッサージ？」	「A massage?」
 
-100289	Barres Province	「ええ、そうです。	「Yes, that's right.
-100290	+	　ウェンリーナー様のマッサージは	　Lady Wenlina's massages
-100291	+	　それはもうすごい効果だと聞き及びまして――」	　are said to have incredible effects――」
+100289	Barres Province		「ええ、そうです。	「Yes, that's right.
+100290	+		　ウェンリーナー様のマッサージは	　Lady Wenlina's massages
+100291	+		　それはもうすごい効果だと聞き及びまして――」	　are said to have incredible effects――」
 
-100292	Wenlina	「よいしょ、よいしょ♪」	「Heave ho, heave ho♪」
+100292	Wenlina		「よいしょ、よいしょ♪」	「Heave ho, heave ho♪」
 
-100293	Wenlina	「とーーう♪」	「Tooou♪」
+100293	Wenlina		「とーーう♪」	「Tooou♪」
 
-100294	Barres Province	「フォォォォォオオオオオーーー！！！！」	「Foooooooohhhhh!!!!」
+100294	Barres Province		「フォォォォォオオオオオーーー！！！！」	「Foooooooohhhhh!!!!」
 
-100295	Barres Province	「十数年悩まされ続けた腰痛が治りましたぞー！」	「My chronic back pain of over ten years is cured!」
+100295	Barres Province		「十数年悩まされ続けた腰痛が治りましたぞー！」	「My chronic back pain of over ten years is cured!」
 
-100296	Rance	「お、おおおお……？」	「O, ooooooh...?」
+100296	Rance	驚き	「お、おおおお……？」	「O, ooooooh...?」
 
-100297	-	バレスの体がピカーッと光った！	Barres's body shone brightly!
-100298	?	……ような気がランスはした。	Or at least it seemed that way to Rance.
+100297	-		バレスの体がピカーッと光った！	Barres's body shone brightly!
+100298	?		……ような気がランスはした。	Or at least it seemed that way to Rance.
 
-100299	Barres Province	「おお！　これはなんと素晴らしい！」	「Oh! This is truly wonderful!」
+100299	Barres Province	テンション上げ	「おお！　これはなんと素晴らしい！」	「Oh! This is truly wonderful!」
 
-100300	Barres Province	「まるで体が二十年前に戻ったようじゃ！	「It's like my body went back twenty years!
-100301	+	　若いもんにはまだまだ負けませんぞい！」	　I can still keep up with the young ones!」
+100300	Barres Province		「まるで体が二十年前に戻ったようじゃ！	「It's like my body went back twenty years!
+100301	+		　若いもんにはまだまだ負けませんぞい！」	　I can still keep up with the young ones!」
 
-100302	Wenlina	「はーい、お疲れ様でしたー♪」	「Okaaay, good work♪」
+100302	Wenlina	基本	「はーい、お疲れ様でしたー♪」	「Okaaay, good work♪」
 
-100303	Barres Province	「と、このようにどんな頑固な腰痛も	「And that's how even the most stubborn back pain
-100304	+	　あっという間に治してしまうわけでして」	　gets fixed in no time.」
+100303	Barres Province	笑顔	「と、このようにどんな頑固な腰痛も	「And that's how even the most stubborn back pain
+100304	+		　あっという間に治してしまうわけでして」	　gets fixed in no time.」
 
-100305	Barres Province	「儂の作った老人ネットワークでは	「In the old folks network I created
-100306	+	　最近ちょっと有名でしてな」	　it's become quite famous lately.」
+100305	Barres Province	基本	「儂の作った老人ネットワークでは	「In the old folks network I created
+100306	+		　最近ちょっと有名でしてな」	　it's become quite famous lately.」
 
-100307	Rance	「変なもん作るんじゃない」	「Don't make weird networks.」
+100307	Rance		「変なもん作るんじゃない」	「Don't make weird networks.」
 
-100308	Barres Province	「その人気は凄まじく、	「The demand is huge,
-100309	+	　ウェンリーナー様の部屋には連日行列が出来、	　there's a line outside Lady Wenlina's room every day,
-100310	+	　予約は数日先まで埋まっとる状況ですぞ」	　and reservations are booked days in advance.」
+100308	Barres Province		「その人気は凄まじく、	「The demand is huge,
+100309	+		　ウェンリーナー様の部屋には連日行列が出来、	　there's a line outside Lady Wenlina's room every day,
+100310	+		　予約は数日先まで埋まっとる状況ですぞ」	　and reservations are booked days in advance.」
 
-100311	Frostbyne	「うむ、終わったら早くしてくれんかのう」	「Yes, please hurry when you're done.」
+100311	Frostbyne		「うむ、終わったら早くしてくれんかのう」	「Yes, please hurry when you're done.」
 
-100312	Veteran Soldier	「あたた、腰が……」	「Ouch, my back...」
+100312	Veteran Soldier		「あたた、腰が……」	「Ouch, my back...」
 
-100313	Asakura Yoshikage	「…………」	「............」
+100313	Asakura Yoshikage		「…………」	「............」
 
-100314	Rance	「うお、行列が！？」	「Whoa, there's a whole line!?」
+100314	Rance	驚き	「うお、行列が！？」	「Whoa, there's a whole line!?」
 
-100315	Rance	「えーい！　駄目だ駄目だ！	「Hey! No no!
-100316	+	　こんな小っこい子を働かせて	　You can't make such a tiny girl work
-100317	+	　違和感を覚えんのかお前ら！」	　like this, you guys!」
+100315	Rance	怒り	「えーい！　駄目だ駄目だ！	「Hey! No no!
+100316	+		　こんな小っこい子を働かせて	　You can't make such a tiny girl work
+100317	+		　違和感を覚えんのかお前ら！」	　like this, you guys!」
 
-100318	Rance	「ウェンリーナーは俺のなんだぞ！	「Wenlina is mine!
-100319	+	　なんかいかがわしいから駄目だー！」	　This is too suspicious, no way!」
+100318	Rance		「ウェンリーナーは俺のなんだぞ！	「Wenlina is mine!
+100319	+		　なんかいかがわしいから駄目だー！」	　This is too suspicious, no way!」
 
-100320	Frostbyne	「ぶーぶー！　横暴じゃー！」	「Boo boo! Tyrant!」
+100320	Frostbyne	基本	「ぶーぶー！　横暴じゃー！」	「Boo boo! Tyrant!」
 
-100321	Rance	「うるさい！　金取るぞ！	「Shut up! I'll charge you!
-100322	+	　一回、1000GOLDだ！」	　1000 GOLD per session!」
+100321	Rance		「うるさい！　金取るぞ！	「Shut up! I'll charge you!
+100322	+		　一回、1000GOLDだ！」	　1000 GOLD per session!」
 
-100323	Frostbyne	「払った！」	「Paid!」
+100323	Frostbyne		「払った！」	「Paid!」
 
-100324	Veteran Soldier	「安いものよ！」	「Cheap!」
+100324	Veteran Soldier		「安いものよ！」	「Cheap!」
 
-100325	Asakura Yoshikage	「これで良いかな？」	「Is this enough?」
+100325	Asakura Yoshikage		「これで良いかな？」	「Is this enough?」
 
-100326	Rance	「うお、即決！？」	「Whoa, instant payment!?」
+100326	Rance	驚き	「うお、即決！？」	「Whoa, instant payment!?」
 
-100327	Rance	「……いいのか、ウェンリーナー」	「...Is this okay, Wenlina?」
+100327	Rance	だる顔	「……いいのか、ウェンリーナー」	「...Is this okay, Wenlina?」
 
-100328	Wenlina	「みんなが喜んでくれるなら嬉しいのー♪」	「If everyone is happy, then I'm happy♪」
+100328	Wenlina	基本	「みんなが喜んでくれるなら嬉しいのー♪」	「If everyone is happy, then I'm happy♪」
 
-100329	Wenlina	「はーい、それじゃあ次の人どうぞー♪」	「Okaaay, next person please♪」
+100329	Wenlina		「はーい、それじゃあ次の人どうぞー♪」	「Okaaay, next person please♪」
 
-100330	Frostbyne	「さあさあ、次は儂の番じゃぞーい！」	「Come come, it's my turn!」
+100330	Frostbyne		「さあさあ、次は儂の番じゃぞーい！」	「Come come, it's my turn!」
 
-100331	Asakura Yoshikage	「儂はリウマチがひどくて……」	「My rheumatism is really bad...」
+100331	Asakura Yoshikage		「儂はリウマチがひどくて……」	「My rheumatism is really bad...」
 
-100332	Veteran Soldier	「おおおおー、ウェンリーナー様、	「Ooooooh, Lady Wenlina,
-100333	+	　儂にも加護をー、加護をー」	　please bless me too, bless me!」
+100332	Veteran Soldier		「おおおおー、ウェンリーナー様、	「Ooooooh, Lady Wenlina,
+100333	+		　儂にも加護をー、加護をー」	　please bless me too, bless me!」
 
-100334	Rance	「うーむ……老人パワー恐るべし……	「Hmm... The power of old men is terrifying...
-100335	+	　若い奴よりパワフルなんじゃねぇか？」	　They're more energetic than the young ones?」
+100334	Rance	だる顔	「うーむ……老人パワー恐るべし……	「Hmm... The power of old men is terrifying...
+100335	+		　若い奴よりパワフルなんじゃねぇか？」	　They're more energetic than the young ones?」
 
-100336	Rance	「しかし、ウェンリーナーめ……	「But damn, Wenlina...
-100337	+	　すごい人気だなぁ……」	　She's incredibly popular...」
+100336	Rance	真剣	「しかし、ウェンリーナーめ……	「But damn, Wenlina...
+100337	+		　すごい人気だなぁ……」	　She's incredibly popular...」
 
-100338	-	こうしてウェンリーナーは	And so Wenlina
-100339	+	あっという間に老人達のアイドルになった。	quickly became the idol of the elderly.
+100338	-		こうしてウェンリーナーは	And so Wenlina
+100339	+		あっという間に老人達のアイドルになった。	quickly became the idol of the elderly.
 
-100340	Wenlina	「えへへ、みんな元気になっていってねー♪」	「Ehehe, everyone get better♪」
+100340	Wenlina	笑顔	「えへへ、みんな元気になっていってねー♪」	「Ehehe, everyone get better♪」

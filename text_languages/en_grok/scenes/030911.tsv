@@ -7,85 +7,85 @@
 * Maris Amaryllis	マリス	Female
 * Lia Parapara Leazas	リア	Female
 
-38868	-	嵐が過ぎ去った後は好天が続き、	After the storm passed, good weather continued,
-38869	+	サンライズ号は波に揺られながら快調に進んでいた。	and the Sunrise sailed smoothly over the waves.
+38868	-		嵐が過ぎ去った後は好天が続き、	After the storm passed, good weather continued,
+38869	+		サンライズ号は波に揺られながら快調に進んでいた。	and the Sunrise sailed smoothly over the waves.
 
-38870	Alkanese Rize	「……………………」	「........................」
+38870	Alkanese Rize	困り	「……………………」	「........................」
 
-38871	Copandon Dott	「……………………」	「........................」
+38871	Copandon Dott	ため息	「……………………」	「........................」
 
-38872	Rance	「……………………」	「........................」
+38872	Rance	だる顔	「……………………」	「........................」
 
-38873	Sill Plain	「釣れませんね、ランス様……」	「They're not biting, Rance-sama...」
+38873	Sill Plain	苦笑	「釣れませんね、ランス様……」	「They're not biting, Rance-sama...」
 
-38874	Rance	「だーーーー、くそ！	「Gaaaah, damn!
-38875	+	　なんで釣りなんぞしなくちゃならんのだ！」	　Why do I have to fish!」
+38874	Rance	怒り	「だーーーー、くそ！	「Gaaaah, damn!
+38875	+		　なんで釣りなんぞしなくちゃならんのだ！」	　Why do I have to fish!」
 
-38876	Copandon Dott	「しゃーないやん。食料の余裕がないねん」	「Can't be helped. We don't have food to spare.」
+38876	Copandon Dott	基本	「しゃーないやん。食料の余裕がないねん」	「Can't be helped. We don't have food to spare.」
 
-38877	Rance	「余裕を見て積んでおかんか」	「Why didn't you stock extra?」
+38877	Rance	イライラ	「余裕を見て積んでおかんか」	「Why didn't you stock extra?」
 
-38878	Copandon Dott	「その余裕分、嵐の時にポイしたやん。	「We threw the extra during the storm.
-38879	+	　こらもうどうしようもないわ」	　Nothing we can do now.」
+38878	Copandon Dott	基本	「その余裕分、嵐の時にポイしたやん。	「We threw the extra during the storm.
+38879	+		　こらもうどうしようもないわ」	　Nothing we can do now.」
 
-38880	Copandon Dott	「……向こうで動き回るだけの食料は、	「...We'll have to procure enough food
-38881	+	　なんとか調達せんとな……」	　to move around over there...」
+38880	Copandon Dott	ため息	「……向こうで動き回るだけの食料は、	「...We'll have to procure enough food
+38881	+		　なんとか調達せんとな……」	　to move around over there...」
 
-38882	Rance	「ちっ、暑い…………シィル、水寄越せ」	「Tch, it's hot... Sill, give me water.」
+38882	Rance	だる顔	「ちっ、暑い…………シィル、水寄越せ」	「Tch, it's hot... Sill, give me water.」
 
-38883	Sill Plain	「はい……今日の分は、これで終わりです」	「Yes... This is today's ration.」
+38883	Sill Plain	基本	「はい……今日の分は、これで終わりです」	「Yes... This is today's ration.」
 
-38884	Rance	「……今日の分？　おいちょっと待て。	「...Today's ration? Hey wait a minute.
-38885	+	　水が…………？」	　Water...?」
+38884	Rance	真剣	「……今日の分？　おいちょっと待て。	「...Today's ration? Hey wait a minute.
+38885	+		　水が…………？」	　Water...?」
 
-38886	Copandon Dott	「足りてないねん」	「We're short.」
+38886	Copandon Dott	ため息	「足りてないねん」	「We're short.」
 
-38887	Rance	「ぐっ……大丈夫か、この船……」	「Guh... Is this ship going to be okay...?」
+38887	Rance	だる顔	「ぐっ……大丈夫か、この船……」	「Guh... Is this ship going to be okay...?」
 
-38888	Copandon Dott	「節約すればまだいけるはずやけどな……	「If we ration it should last a bit longer...
-38889	+	　雨でも降ってくれるとええんやけど」	　It'd be nice if it rained.」
+38888	Copandon Dott	ため息	「節約すればまだいけるはずやけどな……	「If we ration it should last a bit longer...
+38889	+		　雨でも降ってくれるとええんやけど」	　It'd be nice if it rained.」
 
-38890	Rance	「ぬう……足下にはこんなに水があるのに……	「Nuu... There's so much water under us...
-38891	+	　なんで全部、あんなにしょっぱいんだ」	　Why is it all so salty?」
+38890	Rance	だる顔	「ぬう……足下にはこんなに水があるのに……	「Nuu... There's so much water under us...
+38891	+		　なんで全部、あんなにしょっぱいんだ」	　Why is it all so salty?」
 
-38892	Crook Mofus	「海の中に、石臼があるそうですよ」	「They say there's a stone mill in the sea.」
+38892	Crook Mofus	基本	「海の中に、石臼があるそうですよ」	「They say there's a stone mill in the sea.」
 
-38893	Rance	「…………石臼？」	「............A stone mill?」
+38893	Rance	真剣	「…………石臼？」	「............A stone mill?」
 
-38894	Crook Mofus	「はい。ひとりでに回る石臼で、	「Yes. A self-turning stone mill
-38895	+	　そこから塩が無尽蔵に溢れるのだとか」	　that endlessly produces salt.」
+38894	Crook Mofus	基本	「はい。ひとりでに回る石臼で、	「Yes. A self-turning stone mill
+38895	+		　そこから塩が無尽蔵に溢れるのだとか」	　that endlessly produces salt.」
 
-38896	Rance	「むう……ちょっと見てみたい……」	「Muu... I'd like to see that...」
+38896	Rance	真剣	「むう……ちょっと見てみたい……」	「Muu... I'd like to see that...」
 
-38897	Copandon Dott	「手に入ったら、めちゃくちゃ儲かるな……	「If we got it, we'd make insane profit...
-38898	+	　リーザスに経済戦争仕掛けられるで」	　We could start an economic war on Leazas.」
+38897	Copandon Dott	笑い	「手に入ったら、めちゃくちゃ儲かるな……	「If we got it, we'd make insane profit...
+38898	+		　リーザスに経済戦争仕掛けられるで」	　We could start an economic war on Leazas.」
 
-38899	Maris Amaryllis	「……………………」	「........................」
+38899	Maris Amaryllis	基本	「……………………」	「........................」
 
-38900	Lia Parapara Leazas	「あら。やってみる？」	「Oh? Want to try?」
+38900	Lia Parapara Leazas		「あら。やってみる？」	「Oh? Want to try?」
 
-38901	Copandon Dott	「まさか。ホンマに手に入ったら、	「No way. If we really got it,
-38902	+	　リーザスにレンタルするわ」	　I'd rent it to Leazas.」
+38901	Copandon Dott		「まさか。ホンマに手に入ったら、	「No way. If we really got it,
+38902	+		　リーザスにレンタルするわ」	　I'd rent it to Leazas.」
 
-38903	Lia Parapara Leazas	「塩の専売権でも条件につけて？」	「With monopoly rights on salt as a condition?」
+38903	Lia Parapara Leazas		「塩の専売権でも条件につけて？」	「With monopoly rights on salt as a condition?」
 
-38904	Copandon Dott	「専売までは欲張らんけどな。	「I won't be that greedy.
-38905	+	　まあ、くれるんやったらもらうなあ」	　But if they give it, I'll take it.」
+38904	Copandon Dott		「専売までは欲張らんけどな。	「I won't be that greedy.
+38905	+		　まあ、くれるんやったらもらうなあ」	　But if they give it, I'll take it.」
 
-38906	Lia Parapara Leazas	「ふーん……」	「Hmm...」
+38906	Lia Parapara Leazas		「ふーん……」	「Hmm...」
 
-38907	Rance	「こら、空気悪いぞ。	「Hey, the mood is bad.
-38908	+	　仮定の話で勝手にやりあうな」	　Don't fight over hypotheticals.」
+38907	Rance	だる顔	「こら、空気悪いぞ。	「Hey, the mood is bad.
+38908	+		　仮定の話で勝手にやりあうな」	　Don't fight over hypotheticals.」
 
-38909	Lia Parapara Leazas	「ああん、冗談よダーリン☆	「Aahn, just joking darling☆
-38910	+	　ただのコミュニケーションよ」	　Just communication.」
+38909	Lia Parapara Leazas	笑顔	「ああん、冗談よダーリン☆	「Aahn, just joking darling☆
+38910	+		　ただのコミュニケーションよ」	　Just communication.」
 
-38911	Sill Plain	「どちらにしても、また今度、ですね」	「Either way, another time.」
+38911	Sill Plain	苦笑	「どちらにしても、また今度、ですね」	「Either way, another time.」
 
-38912	Rance	「ぐぬう……今はただの水が欲しいぞ……」	「Gnuu... Right now I just want plain water...」
+38912	Rance	だる顔	「ぐぬう……今はただの水が欲しいぞ……」	「Gnuu... Right now I just want plain water...」
 
-38913	-	何人かが、元気の良すぎる太陽を	Several people glared resentfully
-38914	+	恨めしげに睨みつけた。	at the overly energetic sun.
+38913	-		何人かが、元気の良すぎる太陽を	Several people glared resentfully
+38914	+		恨めしげに睨みつけた。	at the overly energetic sun.
 
-38915	-	太陽はそんな事は当然お構いなく、	The sun, of course, paid no attention
-38916	+	地上を照らし続けていた。	and continued shining on the earth.
+38915	-		太陽はそんな事は当然お構いなく、	The sun, of course, paid no attention
+38916	+		地上を照らし続けていた。	and continued shining on the earth.

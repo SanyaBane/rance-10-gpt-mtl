@@ -10,427 +10,427 @@
 * Sill Plain	シィル	Female
 * Miracle Tor	ミラクル	Female
 
-183456	Satella	「おい、ランス。	「Hey, Rance.
-183457	+	　サテラと話したこと忘れてはいないだろうな」	　You haven't forgotten what you talked about with Satella, right?」
+183456	Satella	ぐぬぬ	「おい、ランス。	「Hey, Rance.
+183457	+		　サテラと話したこと忘れてはいないだろうな」	　You haven't forgotten what you talked about with Satella, right?」
 
-183458	Rance	「サテラと話したこと？」	「Talked with Satella?」
+183458	Rance	基本	「サテラと話したこと？」	「Talked with Satella?」
 
-183459	Satella	「お、お前が、サテラの使徒になったことだ！」	「Y-you becoming Satella's apostle!」
+183459	Satella	ツンデレ	「お、お前が、サテラの使徒になったことだ！」	「Y-you becoming Satella's apostle!」
 
-183460	Alkanese Rize	「ええっ！？　アニキ、人間やめたの！？」	「Ehh!? Aniki, you quit being human!?」
+183460	Alkanese Rize	怒り	「ええっ！？　アニキ、人間やめたの！？」	「Ehh!? Aniki, you quit being human!?」
 
-183461	Rance	「ん、そういうわけでもないんだが……」	「Well, it's not exactly that...」
+183461	Rance	基本	「ん、そういうわけでもないんだが……」	「Well, it's not exactly that...」
 
-183462	Sachiko Centers	「は……」	「Ha...」
+183462	Sachiko Centers		「は……」	「Ha...」
 
-183463	Sachiko Centers	「ははー」	「Haaー」
+183463	Sachiko Centers	アホ顔	「ははー」	「Haaー」
 
-183464	Rance	「馬鹿、平伏すんな」	「Idiot, don't prostrate.」
+183464	Rance	だる顔	「馬鹿、平伏すんな」	「Idiot, don't prostrate.」
 
-183465	Rance	「んー……一応、使徒にはなった。	「Hmm... I did become an apostle for now.
-183466	+	　なったが、まだ人間のままだ」	　But I'm still human.」
+183465	Rance	真剣	「んー……一応、使徒にはなった。	「Hmm... I did become an apostle for now.
+183466	+		　なったが、まだ人間のままだ」	　But I'm still human.」
 
-183467	Sachiko Centers	「ほへー？」	「Hohee?」
+183467	Sachiko Centers	基本	「ほへー？」	「Hohee?」
 
-183468	-	…………	............
+183468	-		…………	............
 
-183469	-	……	...
+183469	-		……	...
 
-183470	-	それはホーネットの行方不明で	It was when Hornet went missing
-183471	+	サテラがパニックでランス城に来たときのこと。	and Satella came to Rance Castle in a panic.
+183470	-		それはホーネットの行方不明で	It was when Hornet went missing
+183471	+		サテラがパニックでランス城に来たときのこと。	and Satella came to Rance Castle in a panic.
 
-183472	-	すっかり冷静さを取り戻したサテラは、	Satella, having completely regained her composure,
-183473	+	連日、難しい顔をしていた。	had a serious expression every day.
+183472	-		すっかり冷静さを取り戻したサテラは、	Satella, having completely regained her composure,
+183473	+		連日、難しい顔をしていた。	had a serious expression every day.
 
-183474	Rance	「……大体、お前の状況は分かった。	「...I mostly understand your situation.
-183475	+	　で、これからどうする気だ？」	　So, what are you going to do now?」
+183474	Rance		「……大体、お前の状況は分かった。	「...I mostly understand your situation.
+183475	+		　で、これからどうする気だ？」	　So, what are you going to do now?」
 
-183476	Satella	「決まってる……」	「It's decided...」
+183476	Satella	思考	「決まってる……」	「It's decided...」
 
-183477	Satella	「ケイブリスを殺す」	「I'll kill Kayblis.」
+183477	Satella	怒り	「ケイブリスを殺す」	「I'll kill Kayblis.」
 
-183478	Rance	「ほほーう、魔軍総大将の首を取る、か。	「Hmm, going for the head of the Monster Army's Supreme Commander, huh.
-183479	+	　なかなか言うではないか」	　You've got guts.」
+183478	Rance	基本	「ほほーう、魔軍総大将の首を取る、か。	「Hmm, going for the head of the Monster Army's Supreme Commander, huh.
+183479	+		　なかなか言うではないか」	　You've got guts.」
 
-183480	Satella	「ホーネット様がどこにいるかは分からないが、	「I don't know where Lady Hornet is,
-183481	+	　きっとその居場所もケイブリスが知っている」	　but Kayblis definitely knows.」
+183480	Satella	怒り	「ホーネット様がどこにいるかは分からないが、	「I don't know where Lady Hornet is,
+183481	+		　きっとその居場所もケイブリスが知っている」	　but Kayblis definitely knows.」
 
-183482	Satella	「サテラがこの手で必ず……」	「Satella will definitely... with these hands...」
+183482	Satella	思考	「サテラがこの手で必ず……」	「Satella will definitely... with these hands...」
 
-183483	-	自分の手を握りしめ、	She clenched her fists,
-183484	+	サテラの瞳に薄暗い火が宿る。	a dark flame burning in her eyes.
+183483	-		自分の手を握りしめ、	She clenched her fists,
+183484	+		サテラの瞳に薄暗い火が宿る。	a dark flame burning in her eyes.
 
-183485	Rance	「一人で勝てるのか？」	「Can you win alone?」
+183485	Rance	基本	「一人で勝てるのか？」	「Can you win alone?」
 
-183486	Satella	「……っ」	「...!」
+183486	Satella	不安	「……っ」	「...!」
 
-183487	-	痛いところを突かれ、サテラが口ごもる。	Hit where it hurt, Satella faltered.
+183487	-		痛いところを突かれ、サテラが口ごもる。	Hit where it hurt, Satella faltered.
 
-183488	Satella	「……か、勝てる。	「...O-of course I can win.
-183489	+	　勝てるに決まってる」	　I have to win.」
+183488	Satella		「……か、勝てる。	「...O-of course I can win.
+183489	+		　勝てるに決まってる」	　I have to win.」
 
-183490	Satella	「いや、たとえ勝てなくても……	「No, even if I can't win...
-183491	+	　サテラは……」	　Satella will...」
+183490	Satella	思考	「いや、たとえ勝てなくても……	「No, even if I can't win...
+183491	+		　サテラは……」	　Satella will...」
 
-183492	Rance	「がはははははははは！	「Gahahahahahaha!
-183493	+	　無理をするな！」	　Don't push yourself!」
+183492	Rance	笑顔	「がはははははははは！	「Gahahahahahaha!
+183493	+		　無理をするな！」	　Don't push yourself!」
 
-183494	Rance	「お前の目の前に	「Right in front of you
-183495	+	　こーんなに頼り甲斐のある男がいるではないか！」	　is such a reliable man!」
+183494	Rance	基本	「お前の目の前に	「Right in front of you
+183495	+		　こーんなに頼り甲斐のある男がいるではないか！」	　is such a reliable man!」
 
-183496	Satella	「……はあ？　なにを……」	「...Haa? What are you...」
+183496	Satella		「……はあ？　なにを……」	「...Haa? What are you...」
 
-183497	Rance	「俺様と俺様の率いる人類軍が	「Me and the human army I lead
-183498	+	　サテラに協力してやる」	　will help you, Satella.」
+183497	Rance		「俺様と俺様の率いる人類軍が	「Me and the human army I lead
+183498	+		　サテラに協力してやる」	　will help you, Satella.」
 
-183499	Satella	「…………」	「............」
+183499	Satella		「…………」	「............」
 
-183500	Satella	「いらない」	「I don't need it.」
+183500	Satella	不安	「いらない」	「I don't need it.」
 
-183501	-	ぷいっとサテラは顔を逸らした。	Satella turned her face away with a huff.
+183501	-		ぷいっとサテラは顔を逸らした。	Satella turned her face away with a huff.
 
-183502	Rance	「なんだと？	「What?
-183503	+	　だが、一人じゃ勝ち目ないだろう」	　But you have no chance alone.」
+183502	Rance	基本	「なんだと？	「What?
+183503	+		　だが、一人じゃ勝ち目ないだろう」	　But you have no chance alone.」
 
-183504	Satella	「誇り高き魔人であるサテラが	「Proud Fiend Satella
-183505	+	　人間の手なんか借りられるか！」	　can't borrow human help!」
+183504	Satella	怒り	「誇り高き魔人であるサテラが	「Proud Fiend Satella
+183505	+		　人間の手なんか借りられるか！」	　can't borrow human help!」
 
-183506	Satella	「大体、足手まといを増やすくらいなら	「Besides, adding dead weight
-183507	+	　サテラとシーザーだけの方がよほどマシだ。	　is worse than just me and Caesar.
-183508	+	　ふんっ」	　Hmph.」
+183506	Satella		「大体、足手まといを増やすくらいなら	「Besides, adding dead weight
+183507	+		　サテラとシーザーだけの方がよほどマシだ。	　is worse than just me and Caesar.
+183508	+		　ふんっ」	　Hmph.」
 
-183509	Rance	「むむ、相変わらず生意気な……」	「Mum, still as arrogant as ever...」
+183509	Rance	基本	「むむ、相変わらず生意気な……」	「Mum, still as arrogant as ever...」
 
-183510	-	ランスの言葉に、サテラが大袈裟な溜め息を吐いた。	At Rance's words, Satella let out an exaggerated sigh.
+183510	-		ランスの言葉に、サテラが大袈裟な溜め息を吐いた。	At Rance's words, Satella let out an exaggerated sigh.
 
-183511	Satella	「……はあっ、馬鹿馬鹿しい。	「...Haa, ridiculous.
-183512	+	　ランス、本音を言え」	　Rance, tell the truth.」
+183511	Satella	思考	「……はあっ、馬鹿馬鹿しい。	「...Haa, ridiculous.
+183512	+		　ランス、本音を言え」	　Rance, tell the truth.」
 
-183513	Rance	「なに？」	「What?」
+183513	Rance	基本	「なに？」	「What?」
 
-183514	Satella	「本当は魔人であるサテラの力が	「You actually just want the power of Fiend Satella,
-183515	+	　欲しいだけなんだろう」	　don't you?」
+183514	Satella	不安	「本当は魔人であるサテラの力が	「You actually just want the power of Fiend Satella,
+183515	+		　欲しいだけなんだろう」	　don't you?」
 
-183516	Satella	「人間からしてみればサテラの力、情報は、	「For humans, Satella's power and information
-183517	+	　喉から手が出るほど欲しいだろうからな」	　must be desperately wanted.」
+183516	Satella		「人間からしてみればサテラの力、情報は、	「For humans, Satella's power and information
+183517	+		　喉から手が出るほど欲しいだろうからな」	　must be desperately wanted.」
 
-183518	Rance	「む……」	「Mu...」
+183518	Rance	基本	「む……」	「Mu...」
 
-183519	Rance~	（本音を言えばヤリ足りないだけだが……）	（Truth is I just haven't fucked her enough yet...）
+183519	Rance~		（本音を言えばヤリ足りないだけだが……）	（Truth is I just haven't fucked her enough yet...）
 
-183520	Satella~	（でも……	（But...
-183521	+	　人類が持つ情報網などが	　the human intelligence network
-183522	+	　サテラも欲しいのは事実……）	　is also something Satella wants...）
+183520	Satella~	不安	（でも……	（But...
+183521	+		　人類が持つ情報網などが	　the human intelligence network
+183522	+		　サテラも欲しいのは事実……）	　is also something Satella wants...）
 
-183523	Satella	「よし……」	「Alright...」
+183523	Satella	思考	「よし……」	「Alright...」
 
-183524	Satella	「……お前、サテラの使徒になれ」	「...Become Satella's apostle.」
+183524	Satella	魔人顔	「……お前、サテラの使徒になれ」	「...Become Satella's apostle.」
 
-183525	Rance	「なんだと？」	「What?」
+183525	Rance	基本	「なんだと？」	「What?」
 
-183526	Satella	「さっきも言ったが、	「As I said earlier,
-183527	+	　誇り高き魔人であるサテラは	　proud Fiend Satella
-183528	+	　人間の手なんぞ借りられない」	　cannot borrow human hands.」
+183526	Satella		「さっきも言ったが、	「As I said earlier,
+183527	+		　誇り高き魔人であるサテラは	　proud Fiend Satella
+183528	+		　人間の手なんぞ借りられない」	　cannot borrow human hands.」
 
-183529	Satella	「だが、ランスがサテラの使徒なら話は別だ」	「But if Rance becomes Satella's apostle, it's different.」
+183529	Satella		「だが、ランスがサテラの使徒なら話は別だ」	「But if Rance becomes Satella's apostle, it's different.」
 
-183530	Satella	「人類軍を率いるサテラだけの使徒……	「The only apostle of Satella who leads the human army...
-183531	+	　ふんっ、それなら、まあ……悪くないな」	　Hmph, that might not be bad.」
+183530	Satella	魔人顔	「人類軍を率いるサテラだけの使徒……	「The only apostle of Satella who leads the human army...
+183531	+		　ふんっ、それなら、まあ……悪くないな」	　Hmph, that might not be bad.」
 
-183532	-	ジッと――睨みつけるようにサテラは	Satella stared intensely
-183533	+	ランスの返答を待っている。	waiting for Rance's answer.
+183532	-		ジッと――睨みつけるようにサテラは	Satella stared intensely
+183533	+		ランスの返答を待っている。	waiting for Rance's answer.
 
-183534	Rance~	（むう……	（Muu...
-183535	+	　よく分からんが、サテラにとっては	　I don't really get it, but it seems important
-183536	+	　大事なことなようだ）	　to Satella.）
+183534	Rance~	だる顔	（むう……	（Muu...
+183535	+		　よく分からんが、サテラにとっては	　I don't really get it, but it seems important
+183536	+		　大事なことなようだ）	　to Satella.）
 
-183537	Rance~	（俺が……サテラの使徒、奴隷になる、か……）	（Me... becoming Satella's apostle, her slave, huh...）
+183537	Rance~	真剣	（俺が……サテラの使徒、奴隷になる、か……）	（Me... becoming Satella's apostle, her slave, huh...）
 
-183538	Rance~	（ま、別にいっか）	（Well, whatever.）
+183538	Rance~	基本	（ま、別にいっか）	（Well, whatever.）
 
-183539	Rance	「おー、使徒になる、使徒になる。	「Sure, I'll become your apostle.
-183540	+	　だから一緒に行動するぞ、サテラ」	　So we'll act together, Satella.」
+183539	Rance	笑顔	「おー、使徒になる、使徒になる。	「Sure, I'll become your apostle.
+183540	+		　だから一緒に行動するぞ、サテラ」	　So we'll act together, Satella.」
 
-183541	Rance~	（と、適当に調子を合わせておこう）	（I'll just go along with it for now.）
+183541	Rance~	基本	（と、適当に調子を合わせておこう）	（I'll just go along with it for now.）
 
-183542	Satella	「……」	「...」
+183542	Satella	不安	「……」	「...」
 
-183543	Satella	「ほ、本当か……？」	「R-really...?」
+183543	Satella		「ほ、本当か……？」	「R-really...?」
 
-183544	Satella	「本当の本当に本当か！？	「Really really really!?」
-183545	+	　本当にランスがサテラの使徒になるのか！？」	　Rance will really become Satella's apostle!?」
+183544	Satella	怒り	「本当の本当に本当か！？	「Really really really!?」
+183545	+		　本当にランスがサテラの使徒になるのか！？」	　Rance will really become Satella's apostle!?」
 
-183546	Rance	「ん、あーーー……	「Yeah, ahhh...
-183547	+	　うむ、なるなる、使徒になる」	　Sure, I'll become your apostle.」
+183546	Rance	基本	「ん、あーーー……	「Yeah, ahhh...
+183547	+		　うむ、なるなる、使徒になる」	　Sure, I'll become your apostle.」
 
-183548	Satella	「使徒ってのは魔人の忠実なしもべだぞ！	「An apostle is a loyal servant of a Fiend!
-183549	+	　分かってるのか！？」	　Do you understand!?」
+183548	Satella	怒り	「使徒ってのは魔人の忠実なしもべだぞ！	「An apostle is a loyal servant of a Fiend!
+183549	+		　分かってるのか！？」	　Do you understand!?」
 
-183550	Rance	「ああ、分かってる分かってる」	「Yeah, I get it, I get it.」
+183550	Rance	基本	「ああ、分かってる分かってる」	「Yeah, I get it, I get it.」
 
-183551	Satella	「サテラに絶対服従だぞ！？」	「Absolute obedience to Satella!?」
+183551	Satella	怒り	「サテラに絶対服従だぞ！？」	「Absolute obedience to Satella!?」
 
-183552	Rance	「おー、絶対の服従を誓うぞー」	「Sure, I swear absolute obedience.」
+183552	Rance	基本	「おー、絶対の服従を誓うぞー」	「Sure, I swear absolute obedience.」
 
-183553	Satella	「あ、う……」	「A, u...」
+183553	Satella	ぐぬぬ	「あ、う……」	「A, u...」
 
-183554	-	サテラが慌てて顔を両手で覆った。	Satella hurriedly covered her face with both hands.
+183554	-		サテラが慌てて顔を両手で覆った。	Satella hurriedly covered her face with both hands.
 
-183555	Rance	「あん？　どした？　顔を隠して……」	「Hm? What's wrong? Hiding your face...」
+183555	Rance	基本	「あん？　どした？　顔を隠して……」	「Hm? What's wrong? Hiding your face...」
 
-183556	Satella	「し……」	「Sh...」
+183556	Satella	ぐぬぬ	「し……」	「Sh...」
 
-183557	Satella	「シーザー！	「Caesar!
-183558	+	　サテラの前に来い！」	　Come in front of Satella!」
+183557	Satella	超テレ	「シーザー！	「Caesar!
+183558	+		　サテラの前に来い！」	　Come in front of Satella!」
 
-183559	Caesar	「ハイ」	「Yes.」
+183559	Caesar	基本	「ハイ」	「Yes.」
 
-183560	Rance	「あ、おい、なんだサテラ。	「Hey, what is it Satella.
-183561	+	　なんで隠れる」	　Why are you hiding?」
+183560	Rance		「あ、おい、なんだサテラ。	「Hey, what is it Satella.
+183561	+		　なんで隠れる」	　Why are you hiding?」
 
-183562	Satella	「し、シーザー、ランスをこっちに近づけるな。	「C-Caesar, don't let Rance come closer.
-183563	+	　そのままサテラを隠せ」	　Hide Satella like that.」
+183562	Satella		「し、シーザー、ランスをこっちに近づけるな。	「C-Caesar, don't let Rance come closer.
+183563	+		　そのままサテラを隠せ」	　Hide Satella like that.」
 
-183564	Rance	「こら、サテラ、何故隠れて――」	「Hey Satella, why are you hiding一一」
+183564	Rance		「こら、サテラ、何故隠れて――」	「Hey Satella, why are you hiding一一」
 
-183565	Caesar	「ランス、近ヅクナ！	「Rance, stay away!
-183566	+	　サテラ様ノ命令、守ル！」	　Obey Satella-sama's order!」
+183565	Caesar		「ランス、近ヅクナ！	「Rance, stay away!
+183566	+		　サテラ様ノ命令、守ル！」	　Obey Satella-sama's order!」
 
-183567	Rance	「こらー！　サテラー！」	「Hey! Satella!」
+183567	Rance		「こらー！　サテラー！」	「Hey! Satella!」
 
-183568	Satella	「…………」	「............」
+183568	Satella		「…………」	「............」
 
-183569	Satella	「……んゆぅ」	「...Nyu」
+183569	Satella		「……んゆぅ」	「...Nyu」
 
-183570	-	…………	............
+183570	-		…………	............
 
-183571	-	……	...
+183571	-		……	...
 
-183572	Satella	「ん、んんっ！」	「N, nnh!」
+183572	Satella	思考	「ん、んんっ！」	「N, nnh!」
 
-183573	-	サテラはたっぷり三分経った頃、	After a full three minutes,
-183574	+	わざとらしく咳払いをしながら	Satella cleared her throat exaggeratedly
-183575	+	ようやく姿を現した。	and finally showed herself.
+183573	-		サテラはたっぷり三分経った頃、	After a full three minutes,
+183574	+		わざとらしく咳払いをしながら	Satella cleared her throat exaggeratedly
+183575	+		ようやく姿を現した。	and finally showed herself.
 
-183576	Satella	「…………」	「............」
+183576	Satella	ぐぬぬ	「…………」	「............」
 
-183577	Satella	「分かった……	「I understand...
-183578	+	　ランスがサテラに服従を誓うことで、	　By Rance swearing obedience to Satella,
-183579	+	　イシスとのことは水に流してやる……」	　I'll let the Isis matter slide...」
+183577	Satella	思考	「分かった……	「I understand...
+183578	+		　ランスがサテラに服従を誓うことで、	　By Rance swearing obedience to Satella,
+183579	+		　イシスとのことは水に流してやる……」	　I'll let the Isis matter slide...」
 
-183580	Satella	「では、早速血の契約を交わし、	「Then, let's quickly make a blood contract,
-183581	+	　ランスをサテラの使徒に……」	　and make Rance Satella's apostle...」
+183580	Satella	ぐぬぬ	「では、早速血の契約を交わし、	「Then, let's quickly make a blood contract,
+183581	+		　ランスをサテラの使徒に……」	　and make Rance Satella's apostle...」
 
-183582	Rance	「あ、待て。	「Ah, wait.
-183583	+	　まだ使徒にはなるのは駄目だ」	　I can't become your apostle yet.」
+183582	Rance	基本	「あ、待て。	「Ah, wait.
+183583	+		　まだ使徒にはなるのは駄目だ」	　I can't become your apostle yet.」
 
-183584	Satella	「な、なんだと？」	「W-what!?」
+183584	Satella	超テレ	「な、なんだと？」	「W-what!?」
 
-183585	Rance	「当たり前だろう。	「Obviously.
-183586	+	　俺様は人類軍の長だ」	　I'm the leader of the human army.」
+183585	Rance	基本	「当たり前だろう。	「Obviously.
+183586	+		　俺様は人類軍の長だ」	　I'm the leader of the human army.」
 
-183587	Rance	「それが魔人の使徒ではカッコつかんだろ」	　It wouldn't look good if I was a Fiend's apostle.」
+183587	Rance		「それが魔人の使徒ではカッコつかんだろ」	　It wouldn't look good if I was a Fiend's apostle.」
 
-183588	Satella	「ん……」	「Nn...」
+183588	Satella	不安	「ん……」	「Nn...」
 
-183589	Satella	「……人類軍の総大将が、	「...If the Supreme Commander of the human army
-183590	+	　魔人の使徒ではついてくる人間がいなくなる、	　becomes a Fiend's apostle, people won't follow,
-183591	+	　ということか」	　is that it?」
+183589	Satella	思考	「……人類軍の総大将が、	「...If the Supreme Commander of the human army
+183590	+		　魔人の使徒ではついてくる人間がいなくなる、	　becomes a Fiend's apostle, people won't follow,
+183591	+		　ということか」	　is that it?」
 
-183592	Rance	「おー、そんなとこだ、そんなとこ」	「Yeah, something like that.」
+183592	Rance	基本	「おー、そんなとこだ、そんなとこ」	「Yeah, something like that.」
 
-183593	Satella	「まあ……一理ある、な……」	「Well... you have a point...」
+183593	Satella	思考	「まあ……一理ある、な……」	「Well... you have a point...」
 
-183594	Rance~	（などと適当に言ってみたが、	（I just said that randomly,
-183595	+	　なんか勝手に納得してくれたようだ）	　but she seems convinced.）
+183594	Rance~	基本	（などと適当に言ってみたが、	（I just said that randomly,
+183595	+		　なんか勝手に納得してくれたようだ）	　but she seems convinced.）
 
-183596	Rance	「そうだろう？	「Right?
-183597	+	　だから俺様が使徒になるのは、	　So I'll become your apostle
-183598	+	　戦争がぜーんぶ終わってからだ」	　after the entire war is over.」
+183596	Rance		「そうだろう？	「Right?
+183597	+		　だから俺様が使徒になるのは、	　So I'll become your apostle
+183598	+		　戦争がぜーんぶ終わってからだ」	　after the entire war is over.」
 
-183599	Rance~	（その間に俺がサテラを落として、	（In the meantime I'll seduce Satella,
-183600	+	　そんな約束反故にすればオーケだな。	　break that promise, and it's all good.
-183601	+	　うむ、我ながら完璧な作戦だ）	　Yep, a perfect plan if I say so myself.）
+183599	Rance~	エロ顔	（その間に俺がサテラを落として、	（In the meantime I'll seduce Satella,
+183600	+		　そんな約束反故にすればオーケだな。	　break that promise, and it's all good.
+183601	+		　うむ、我ながら完璧な作戦だ）	　Yep, a perfect plan if I say so myself.）
 
-183602	Satella	「……仕方ないな。	「...Can't be helped.
-183603	+	　そういう事情なら……」	　If that's the case...」
+183602	Satella	不安	「……仕方ないな。	「...Can't be helped.
+183603	+		　そういう事情なら……」	　If that's the case...」
 
-183604	Rance	「おお、分かってくれるか」	「Oh, you understand?」
+183604	Rance	基本	「おお、分かってくれるか」	「Oh, you understand?」
 
-183605	Satella	「ふふん、なんたってサテラはもう	「Fufun, after all Satella is already
-183606	+	　ランスの主だからな」	　Rance's master.」
+183605	Satella	ふふん	「ふふん、なんたってサテラはもう	「Fufun, after all Satella is already
+183606	+		　ランスの主だからな」	　Rance's master.」
 
-183607	Satella	「ランスも、主がサテラで良かったな」	「Rance is lucky to have Satella as master too.」
+183607	Satella	笑顔	「ランスも、主がサテラで良かったな」	「Rance is lucky to have Satella as master too.」
 
-183608	Satella	「サテラは他の一部の魔人のように	「Unlike some other Fiends,
-183609	+	　使徒を奴隷扱いせず、	　Satella won't treat apostles as slaves,
-183610	+	　部下、忠臣としてある程度は大事にしてやるぞ」	　I'll treat you as a subordinate and loyal subject.」
+183608	Satella		「サテラは他の一部の魔人のように	「Unlike some other Fiends,
+183609	+		　使徒を奴隷扱いせず、	　Satella won't treat apostles as slaves,
+183610	+		　部下、忠臣としてある程度は大事にしてやるぞ」	　I'll treat you as a subordinate and loyal subject.」
 
-183611	Rance	「あー、うむ。	「Ah, yeah.
-183612	+	　嬉しい嬉しい」	　So happy.」
+183611	Rance	基本	「あー、うむ。	「Ah, yeah.
+183612	+		　嬉しい嬉しい」	　So happy.」
 
-183613	Satella	「……棒読みだったような」	「...That sounded forced.」
+183613	Satella	不安	「……棒読みだったような」	「...That sounded forced.」
 
-183614	Rance	「そんなことないぞー、	「No way,
-183615	+	　本当に心から嬉しい、わーい」	　I'm truly happy from the bottom of my heart, yay.」
+183614	Rance	基本	「そんなことないぞー、	「No way,
+183615	+		　本当に心から嬉しい、わーい」	　I'm truly happy from the bottom of my heart, yay.」
 
-183616	Satella	「ふ、ふふん、そーか。	「F-fufun, I see.
-183617	+	　そうだろう」	　Of course.」
+183616	Satella	ふふん	「ふ、ふふん、そーか。	「F-fufun, I see.
+183617	+		　そうだろう」	　Of course.」
 
-183618	Satella	「よし、なら早速行くぞ」	「Alright, then let's go right away.」
+183618	Satella	笑顔	「よし、なら早速行くぞ」	「Alright, then let's go right away.」
 
-183619	Rance	「なんだと？　行くってどこにだ？」	「What? Go where?」
+183619	Rance	基本	「なんだと？　行くってどこにだ？」	「What? Go where?」
 
-183620	Satella	「うーん……」	「Hmm...」
+183620	Satella	思考	「うーん……」	「Hmm...」
 
-183621	Satella	「人類軍司令部？」	「Human Army Headquarters?」
+183621	Satella	基本	「人類軍司令部？」	「Human Army Headquarters?」
 
-183622	-	…………	............
+183622	-		…………	............
 
-183623	-	……	...
+183623	-		……	...
 
-183624	Satella	「たのもー！」	「Help meee!」
+183624	Satella	笑顔	「たのもー！」	「Help meee!」
 
-183625	Arlcoate Marius	「ひゃあ！？」	「Hyaa!?」
+183625	Arlcoate Marius	基本	「ひゃあ！？」	「Hyaa!?」
 
-183626	Cream Ganoblade	「えっ、ま、魔人のサテラ……？」	「Eh, M-Fiend Satella...?」
+183626	Cream Ganoblade		「えっ、ま、魔人のサテラ……？」	「Eh, M-Fiend Satella...?」
 
-183627	Satella	「ふん、揃ってるようだな」	「Hmph, everyone's here.」
+183627	Satella	ふふん	「ふん、揃ってるようだな」	「Hmph, everyone's here.」
 
-183628	Satella	「お前らにも説明をしておかなければ	「I came to explain something to you all
-183629	+	　いけないことがあって来た」	　that you need to know.」
+183628	Satella	魔人顔	「お前らにも説明をしておかなければ	「I came to explain something to you all
+183629	+		　いけないことがあって来た」	　that you need to know.」
 
-183630	Satella	「お前らの主であるランスは、	「Your master Rance
-183631	+	　今日からサテラの使徒となった！」	　has become Satella's apostle starting today!」
+183630	Satella		「お前らの主であるランスは、	「Your master Rance
+183631	+		　今日からサテラの使徒となった！」	　has become Satella's apostle starting today!」
 
-183632	Cream Ganoblade	「は……」	「Ha...」
+183632	Cream Ganoblade	基本	「は……」	「Ha...」
 
-183633	Arlcoate Marius	「ええええええええええええ！？」	「Eeeeeeeeeeeeeeeeeh!?」
+183633	Arlcoate Marius	テレビックリ	「ええええええええええええ！？」	「Eeeeeeeeeeeeeeeeeh!?」
 
-183634	Satella	「お前らの主であるランスの、	「Rance, your master,
-183635	+	　その更に主はこのサテラだ」	　his master is this Satella.」
+183634	Satella	ふふん	「お前らの主であるランスの、	「Rance, your master,
+183635	+		　その更に主はこのサテラだ」	　his master is this Satella.」
 
-183636	Satella	「人間はすぐに勘違いするからな。	「Humans misunderstand easily.
-183637	+	　立場の違い、ちゃんとわきまえておけよ」	　Know your place.」
+183636	Satella		「人間はすぐに勘違いするからな。	「Humans misunderstand easily.
+183637	+		　立場の違い、ちゃんとわきまえておけよ」	　Know your place.」
 
-183638	Satella	「これもサテラの使徒であるランスの為だ」	「This is also for Rance, Satella's apostle.」
+183638	Satella		「これもサテラの使徒であるランスの為だ」	「This is also for Rance, Satella's apostle.」
 
-183639	-	くるっ！　と音が鳴りそうなほど	With a sharp turn that almost made a sound,
-183640	+	強くサテラがランスに振り返る。	Satella turned to Rance.
+183639	-		くるっ！　と音が鳴りそうなほど	With a sharp turn that almost made a sound,
+183640	+		強くサテラがランスに振り返る。	Satella turned to Rance.
 
-183641	Satella	「ふふん、サテラが主で良かっただろう。	「Fufun, you should be glad Satella is your master.
-183642	+	　ランス」	　Rance.」
+183641	Satella	笑顔	「ふふん、サテラが主で良かっただろう。	「Fufun, you should be glad Satella is your master.
+183642	+		　ランス」	　Rance.」
 
-183643	Rance	「ん、んーーーーー……	「Nn, nnnnn...
-183644	+	　まあ、そうだな」	　Well, yeah.」
+183643	Rance	真剣	「ん、んーーーーー……	「Nn, nnnnn...
+183644	+		　まあ、そうだな」	　Well, yeah.」
 
-183645	Urza Pranaice	「ランスさん、一体彼女と	「Rance-san, what exactly
-183646	+	　どんな話をしたんですか？」	　did you talk about with her?」
+183645	Urza Pranaice		「ランスさん、一体彼女と	「Rance-san, what exactly
+183646	+		　どんな話をしたんですか？」	　did you talk about with her?」
 
-183647	Rance	「んー、まあまあ楽しい話だ」	「Hmm, just some fun talk.」
+183647	Rance	基本	「んー、まあまあ楽しい話だ」	「Hmm, just some fun talk.」
 
-183648	Cream Ganoblade	「楽しい話、で済まさないで下さい！」	「Don't brush it off as 'fun talk'!」
+183648	Cream Ganoblade	コラー！！	「楽しい話、で済まさないで下さい！」	「Don't brush it off as 'fun talk'!」
 
-183649	Arlcoate Marius	「お、おじ様……もう人間では……	「U-Uncle... no longer human...
-183650	+	　あ、あうう……し、使徒に……」	　A-auu... an apostle...」
+183649	Arlcoate Marius	駄目状況	「お、おじ様……もう人間では……	「U-Uncle... no longer human...
+183650	+		　あ、あうう……し、使徒に……」	　A-auu... an apostle...」
 
-183651	Cream Ganoblade	「人類軍の総大将が使徒であると知られたら、	「If it's known that the Supreme Commander of the human army is an apostle,
-183652	+	　人類を解放する為という	　the whole justification for the war to liberate humanity
-183653	+	　戦いの大義名分自体が揺らいで……」	　will be shaken...」
+183651	Cream Ganoblade	ため息	「人類軍の総大将が使徒であると知られたら、	「If it's known that the Supreme Commander of the human army is an apostle,
+183652	+		　人類を解放する為という	　the whole justification for the war to liberate humanity
+183653	+		　戦いの大義名分自体が揺らいで……」	　will be shaken...」
 
-183654	Rance	「あー、二人とも安心しろ。	「Ah, both of you relax.
-183655	+	　使徒になることを約束しただけで、	　I only promised to become an apostle,
-183656	+	　使徒になる気はサラサラないからな」	　I have zero intention of actually doing it.」
+183654	Rance	基本	「あー、二人とも安心しろ。	「Ah, both of you relax.
+183655	+		　使徒になることを約束しただけで、	　I only promised to become an apostle,
+183656	+		　使徒になる気はサラサラないからな」	　I have zero intention of actually doing it.」
 
-183657	Arlcoate Marius	「え？」	「Eh?」
+183657	Arlcoate Marius		「え？」	「Eh?」
 
-183658	Cream Ganoblade	「ええ……？」	「Ehh...?」
+183658	Cream Ganoblade		「ええ……？」	「Ehh...?」
 
-183659	Urza Pranaice	「適当に調子を合わせただけ、	「You were just going along with it,
-183660	+	　といったところですか……」	　weren't you...」
+183659	Urza Pranaice	真剣	「適当に調子を合わせただけ、	「You were just going along with it,
+183660	+		　といったところですか……」	　weren't you...」
 
-183661	Rance	「そういうこと。	「Exactly.
-183662	+	　さすがウルザちゃん察しがいいな」	　As expected of Urza-chan, sharp as always.」
+183661	Rance	基本	「そういうこと。	「Exactly.
+183662	+		　さすがウルザちゃん察しがいいな」	　As expected of Urza-chan, sharp as always.」
 
-183663	Urza Pranaice	「結果的に魔人に協力を仰げたのは	「In the end, getting help from a Fiend
-183664	+	　とても心強いですね」	　is very reassuring.」
+183663	Urza Pranaice		「結果的に魔人に協力を仰げたのは	「In the end, getting help from a Fiend
+183664	+		　とても心強いですね」	　is very reassuring.」
 
-183665	Rance	「そうそう。	「Yeah yeah.
-183666	+	　そういうことだ、いいこと言うな」	　That's right, good point.」
+183665	Rance		「そうそう。	「Yeah yeah.
+183666	+		　そういうことだ、いいこと言うな」	　That's right, good point.」
 
-183667	Cream Ganoblade	「…………」	「............」
+183667	Cream Ganoblade	コラー！！	「…………」	「............」
 
-183668	Urza Pranaice	「まあまあ、今あるカードだけで	「Well well, we have to fight with the cards we have now.
-183669	+	　戦わなければいけないのは事実。	　That's the truth.
-183670	+	　前向きに考えましょう」	　Let's think positively.」
+183668	Urza Pranaice	基本	「まあまあ、今あるカードだけで	「Well well, we have to fight with the cards we have now.
+183669	+		　戦わなければいけないのは事実。	　That's the truth.
+183670	+		　前向きに考えましょう」	　Let's think positively.」
 
-183671	Cream Ganoblade	「……ウルザさんは総統に甘すぎる」	「...Urza-san is too soft on the Supreme Leader.」
+183671	Cream Ganoblade	ため息	「……ウルザさんは総統に甘すぎる」	「...Urza-san is too soft on the Supreme Leader.」
 
-183672	Urza Pranaice	「前向きであろうとしているだけですよ」	「I'm just trying to be positive.」
+183672	Urza Pranaice	基本	「前向きであろうとしているだけですよ」	「I'm just trying to be positive.」
 
-183673	Satella	「おい、そこ！　何をこそこそ話してる！」	「Hey, you there! What are you whispering about!」
+183673	Satella	怒り	「おい、そこ！　何をこそこそ話してる！」	「Hey, you there! What are you whispering about!」
 
-183674	Rance	「む、なんでもないぞ。	「Mu, nothing at all.
-183675	+	　俺様も総統だからな、色々あるのだ」	　I'm the Supreme Leader too, so there are things.」
+183674	Rance	基本	「む、なんでもないぞ。	「Mu, nothing at all.
+183675	+		　俺様も総統だからな、色々あるのだ」	　I'm the Supreme Leader too, so there are things.」
 
-183676	Satella	「……ふんっ。	「...Hmph.
-183677	+	　お前はサテラだけを見ていればいいんだ。	　You just need to look at Satella.
-183678	+	　そのことを忘れるなよ」	　Don't forget that.」
+183676	Satella	不安	「……ふんっ。	「...Hmph.
+183677	+		　お前はサテラだけを見ていればいいんだ。	　You just need to look at Satella.
+183678	+		　そのことを忘れるなよ」	　Don't forget that.」
 
-183679	Rance	「あー、うむ、はいはい」	「Ah, yeah, sure sure.」
+183679	Rance	基本	「あー、うむ、はいはい」	「Ah, yeah, sure sure.」
 
-183680	-	…………	............
+183680	-		…………	............
 
-183681	-	……	...
+183681	-		……	...
 
-183682	Rance	「――というようなことが」	「――that's what happened.」
+183682	Rance		「――というようなことが」	「――that's what happened.」
 
-183683	Alkanese Rize	「はー……」	「Haa...」
+183683	Alkanese Rize		「はー……」	「Haa...」
 
-183684	Sachiko Centers	「初耳でした……」	「First time hearing this...」
+183684	Sachiko Centers	困り	「初耳でした……」	「First time hearing this...」
 
-183685	Sill Plain	「でも……いいんですか？	「But... is that okay?
-183686	+	　戦争が終わったら使徒になるなんて、	　Promising to become an apostle after the war...
-183687	+	　そんな約束してしまって……」	　is that really fine...?」
+183685	Sill Plain	慌て	「でも……いいんですか？	「But... is that okay?
+183686	+		　戦争が終わったら使徒になるなんて、	　Promising to become an apostle after the war...
+183687	+		　そんな約束してしまって……」	　is that really fine...?」
 
-183688	Rance	「がははは、適当に無視すればいいのだ」	「Gahahaha, I'll just ignore it later.」
+183688	Rance	基本	「がははは、適当に無視すればいいのだ」	「Gahahaha, I'll just ignore it later.」
 
-183689	Sill Plain	「う……でもぉ……」	「U... but...」
+183689	Sill Plain	泣き	「う……でもぉ……」	「U... but...」
 
-183690	Miracle Tor	「馬鹿なことをしたな、カオスマスター」	「You did something stupid, Chaos Master.」
+183690	Miracle Tor	ライドオン	「馬鹿なことをしたな、カオスマスター」	「You did something stupid, Chaos Master.」
 
-183691	Rance	「なんだと？」	「What?」
+183691	Rance	基本	「なんだと？」	「What?」
 
-183692	Miracle Tor	「……これは余の勘だが」	「...This is just my intuition,
+183692	Miracle Tor	ライドオン／目閉じ	「……これは余の勘だが」	「...This is just my intuition,
 
-183693	Miracle Tor	「彼女、相当独占欲が強いぞ。	　she has quite strong possessiveness.
-183694	+	　特に、一度手に入れたものに対する	　Especially her attachment to things she obtains
-183695	+	　執着心はかなりのものと思う」	　once is very strong.」
+183693	Miracle Tor	ライドオン	「彼女、相当独占欲が強いぞ。	　she has quite strong possessiveness.
+183694	+		　特に、一度手に入れたものに対する	　Especially her attachment to things she obtains
+183695	+		　執着心はかなりのものと思う」	　once is very strong.」
 
-183696	Miracle Tor	「カオスマスターが彼女のものである限り、	「As long as Chaos Master belongs to her,
-183697	+	　色々と苦労をさせられると思うが……」	　you'll have quite a lot of trouble...」
+183696	Miracle Tor		「カオスマスターが彼女のものである限り、	「As long as Chaos Master belongs to her,
+183697	+		　色々と苦労をさせられると思うが……」	　you'll have quite a lot of trouble...」
 
-183698	Rance	「ばーか、変な勘違いをするな。	「Idiot, don't misunderstand.
-183699	+	　俺があいつの物になったんじゃない」	　I didn't become hers.」
+183698	Rance	だる顔	「ばーか、変な勘違いをするな。	「Idiot, don't misunderstand.
+183699	+		　俺があいつの物になったんじゃない」	　I didn't become hers.」
 
-183700	Rance	「あいつが今から俺のものになるんだ」	「She's the one who's going to become mine now.」
+183700	Rance	基本	「あいつが今から俺のものになるんだ」	「She's the one who's going to become mine now.」
 
-183701	Miracle Tor	「……ん」	「...Nn.」
+183701	Miracle Tor	ライドオン／真剣	「……ん」	「...Nn.」
 
-183702	Miracle Tor	「はっはっはっはっはっはっ！	「Hahaha haha haha!
-183703	+	　ああ、うむ、それならそれでいい！」	　Ah, yes, then that's fine!」
+183702	Miracle Tor	ライドオン／笑顔	「はっはっはっはっはっはっ！	「Hahaha haha haha!
+183703	+		　ああ、うむ、それならそれでいい！」	　Ah, yes, then that's fine!」
 
-183704	Miracle Tor	「まあ、せいぜい癇癪だけは	「Well, at least try not to make her throw tantrums.
-183705	+	　起こさせないよう気をつけておけ。	　I'm not good with healing magic either.」
-183706	+	　余も回復魔法のたぐいは不得手だからな」	
+183704	Miracle Tor		「まあ、せいぜい癇癪だけは	「Well, at least try not to make her throw tantrums.
+183705	+		　起こさせないよう気をつけておけ。	　I'm not good with healing magic either.」
+183706	+		　余も回復魔法のたぐいは不得手だからな」	
 
-183707	Rance	「物騒なこと言いおって」	「Saying dangerous things.」
+183707	Rance	だる顔	「物騒なこと言いおって」	「Saying dangerous things.」
 
-183708	Satella	「〜♪」	「〜♪」
+183708	Satella	笑顔	「〜♪」	「〜♪」
 
-183709	Caesar	「サテラ様、ゴ機嫌デスネ」	「Satella-sama, you seem in good spirits.」
+183709	Caesar	基本	「サテラ様、ゴ機嫌デスネ」	「Satella-sama, you seem in good spirits.」
 
-183710	Satella	「ふふん、そんなことはない。	「Fufun, not at all.
-183711	+	　いつも通りだ」	　This is normal.」
+183710	Satella	ふふん	「ふふん、そんなことはない。	「Fufun, not at all.
+183711	+		　いつも通りだ」	　This is normal.」
 
-183712	-	サテラは上機嫌でシーザーの肩に乗っていた。	Satella was riding on Caesar's shoulder in a great mood.
+183712	-		サテラは上機嫌でシーザーの肩に乗っていた。	Satella was riding on Caesar's shoulder in a great mood.

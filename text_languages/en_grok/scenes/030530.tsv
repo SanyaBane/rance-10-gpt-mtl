@@ -9,160 +9,160 @@
 * Cream Ganoblade	クリーム	Female
 * Helman Knight	汎用ヘルマン騎士	Male
 
-13248	Rance	「ネルソンが？」	「Nelson?」
+13248	Rance	真剣	「ネルソンが？」	「Nelson?」
 
-13249	Kentou Kanami	「そうなの。最近、いろんな部署の人たちと	「That's right. Lately he's been holding
-13250	+	　夜な夜な、集会を開いてるみたいなの……」	　meetings with people from various departments at night......」
+13249	Kentou Kanami	基本	「そうなの。最近、いろんな部署の人たちと	「That's right. Lately he's been holding
+13250	+		　夜な夜な、集会を開いてるみたいなの……」	　meetings with people from various departments at night......」
 
-13251	Sill Plain	「集会……ですか？	「Meetings......?
-13252	+	　でも、ネルソンさん……城に来た時は、	　But when Nelson-san first came to the castle,
-13253	+	　みんな良い顔してなかったような……」	　everyone didn't look happy to see him......」
+13251	Sill Plain	きょとん	「集会……ですか？	「Meetings......?
+13252	+		　でも、ネルソンさん……城に来た時は、	　But when Nelson-san first came to the castle,
+13253	+		　みんな良い顔してなかったような……」	　everyone didn't look happy to see him......」
 
-13254	Kentou Kanami	「言いくるめちゃったみたい。	「He seems to have talked them around.
-13255	+	　もう、だいぶいろんな人と打ち解けてて、	　He's gotten close with a lot of people already,
-13256	+	　集会もけっこうな数の人が集まってるみたいよ」	　and quite a few attend his meetings.」
+13254	Kentou Kanami	基本	「言いくるめちゃったみたい。	「He seems to have talked them around.
+13255	+		　もう、だいぶいろんな人と打ち解けてて、	　He's gotten close with a lot of people already,
+13256	+		　集会もけっこうな数の人が集まってるみたいよ」	　and quite a few attend his meetings.」
 
-13257	Rance	「言いくるめ……ってなぁ。	「Talked them around, huh.
-13258	+	　魔法じゃあるまいし」	　It's not like he's using magic.」
+13257	Rance	だる顔	「言いくるめ……ってなぁ。	「Talked them around, huh.
+13258	+		　魔法じゃあるまいし」	　It's not like he's using magic.」
 
-13259	Crook Mofus	「いえ。話術……コミュニケーションの力は	「No. The power of speech and communication
-13260	+	　侮れませんよ。特に、あのネルソンさんは	　should not be underestimated. Especially Nelson-san
-13261	+	　高いレベルで持ってるようですし」	　seems to possess it at a high level.」
+13259	Crook Mofus	基本	「いえ。話術……コミュニケーションの力は	「No. The power of speech and communication
+13260	+		　侮れませんよ。特に、あのネルソンさんは	　should not be underestimated. Especially Nelson-san
+13261	+		　高いレベルで持ってるようですし」	　seems to possess it at a high level.」
 
-13262	Sill Plain	「でも……ネルソンさん、	「But...... Nelson-san
-13263	+	　悪いことを考えてるようには見えませんでしたよ。	　didn't look like he was planning anything bad.
-13264	+	　すごく改心されたというか……」	　He seemed really reformed......」
+13262	Sill Plain	考え中	「でも……ネルソンさん、	「But...... Nelson-san
+13263	+		　悪いことを考えてるようには見えませんでしたよ。	　didn't look like he was planning anything bad.
+13264	+		　すごく改心されたというか……」	　He seemed really reformed......」
 
-13265	Rance	「確かにしょぼくれてたな……	「He did look pretty down......
-13266	+	　まあ、ほっとけほっとけ。俺の敵には回らんだろ」	　Well, just leave him be. He won't turn against me.」
+13265	Rance	だる顔	「確かにしょぼくれてたな……	「He did look pretty down......
+13266	+		　まあ、ほっとけほっとけ。俺の敵には回らんだろ」	　Well, just leave him be. He won't turn against me.」
 
-13267	Kentou Kanami	「ランス……調べるのがめんどくさいんじゃ……」	「Rance...... You're just too lazy to investigate......」
+13267	Kentou Kanami	ジト目	「ランス……調べるのがめんどくさいんじゃ……」	「Rance...... You're just too lazy to investigate......」
 
-13268	Rance	「まぁな」	「Pretty much.」
+13268	Rance	真剣	「まぁな」	「Pretty much.」
 
-13269	Sill Plain	「ランス様、それは……」	「Rance-sama, that's......」
+13269	Sill Plain	苦笑	「ランス様、それは……」	「Rance-sama, that's......」
 
-13270	Rance	「だいじょーぶだ。奴も正義の心に目覚めたのだ。	「It's fine. He's awakened to justice too.
-13271	+	　集会も、実は士気を上げてるとかそんなオチだろ」	　The meetings are probably just boosting morale or something.」
+13270	Rance	基本	「だいじょーぶだ。奴も正義の心に目覚めたのだ。	「It's fine. He's awakened to justice too.
+13271	+		　集会も、実は士気を上げてるとかそんなオチだろ」	　The meetings are probably just boosting morale or something.」
 
-13272	Nelson Server	「従って！	「Therefore!
-13273	?	　現状を打破するためには！	　To break the current situation!
-13274	+	　現体制の転覆しかない！」	　We must overthrow the current regime!」
+13272	Nelson Server	暴走	「従って！	「Therefore!
+13273	?		　現状を打破するためには！	　To break the current situation!
+13274	+		　現体制の転覆しかない！」	　We must overthrow the current regime!」
 
-13275	Leazas Black Soldier	「そうだ！　上層部は分かってくれない！	「That's right! The higher-ups don't understand!
-13276	+	　俺たちが理想の組織を作るんだ！」	　We will create the ideal organization!」
+13275	Leazas Black Soldier	基本	「そうだ！　上層部は分かってくれない！	「That's right! The higher-ups don't understand!
+13276	+		　俺たちが理想の組織を作るんだ！」	　We will create the ideal organization!」
 
-13277	Nelson Server	「よりよい人民の暮らしの為に！	「For a better life for the people!
-13278	+	　人類のために！」	　For humanity!」
+13277	Nelson Server	暴走	「よりよい人民の暮らしの為に！	「For a better life for the people!
+13278	+		　人類のために！」	　For humanity!」
 
-13279	Zeth Mage Soldier	「はぁああっ……！　ネルソン様……！	「Haaaah......! Nelson-sama......!
-13280	+	　ネルソン様と、どこまでも闘い続けるわ！」	　I will fight alongside Nelson-sama to the end!」
+13279	Zeth Mage Soldier	基本	「はぁああっ……！　ネルソン様……！	「Haaaah......! Nelson-sama......!
+13280	+		　ネルソン様と、どこまでも闘い続けるわ！」	　I will fight alongside Nelson-sama to the end!」
 
-13281	Nelson Server	「僭越ながら私が宣言させて頂く！	「Though presumptuous, I declare!
-13282	+	　組織の名はそう、ゲル・ペンタゴ――――」	　The name of the organization is Ger-Pentago――――」
+13281	Nelson Server	暴走	「僭越ながら私が宣言させて頂く！	「Though presumptuous, I declare!
+13282	+		　組織の名はそう、ゲル・ペンタゴ――――」	　The name of the organization is Ger-Pentago――――」
 
-13283	Rance	「って…………	「Wait............
-13284	+	　普通に反逆起こそうとしてんじゃねーーーー！！」	　You're seriously trying to start a rebellion!!」
+13283	Rance	怒り	「って…………	「Wait............
+13284	+		　普通に反逆起こそうとしてんじゃねーーーー！！」	　You're seriously trying to start a rebellion!!」
 
-13285	Nelson Server	「むむむっ、権力の犬！	「Mumumu, you dog of the regime!
-13286	+	　いや、歪んだ現体制の象徴が……」	　No, the symbol of this twisted regime......」
+13285	Nelson Server	暴走	「むむむっ、権力の犬！	「Mumumu, you dog of the regime!
+13286	+		　いや、歪んだ現体制の象徴が……」	　No, the symbol of this twisted regime......」
 
-13287	Rance	「やかましいわ！」	「Shut up!」
+13287	Rance	怒り	「やかましいわ！」	「Shut up!」
 
-13288	Nelson Server	「おぶぅ！」	「Obu!」
+13288	Nelson Server	暴走	「おぶぅ！」	「Obu!」
 
-13289	Nelson Server	「ね、ネルソン死すとも自由は…………	「Even if Nelson dies, freedom will............
-13290	?	へぶぅっ！」	Hebu!」
+13289	Nelson Server		「ね、ネルソン死すとも自由は…………	「Even if Nelson dies, freedom will............
+13290	?		へぶぅっ！」	Hebu!」
 
-13291	Leazas Black Soldier	「お、おおおぉぉっ！	「O-oooooh!
-13292	+	　ネルソン様が！　暴漢の襲撃に！」	　Nelson-sama! Attacked by a thug!」
+13291	Leazas Black Soldier	基本	「お、おおおぉぉっ！	「O-oooooh!
+13292	+		　ネルソン様が！　暴漢の襲撃に！」	　Nelson-sama! Attacked by a thug!」
 
-13293	Zeth Mage Soldier	「ネルソン様ぁっ！」	「Nelson-sama!」
+13293	Zeth Mage Soldier		「ネルソン様ぁっ！」	「Nelson-sama!」
 
-13294	Rance	「やかましいわ、この狂信者共が！	「Shut up, you fanatics!
-13295	+	　余の顔、見忘れたか！」	　Have you forgotten my face!」
+13294	Rance	怒り	「やかましいわ、この狂信者共が！	「Shut up, you fanatics!
+13295	+		　余の顔、見忘れたか！」	　Have you forgotten my face!」
 
-13296	Cream Ganoblade	「確保します！　取り押さえて！」	「We'll secure them! Take them down!」
+13296	Cream Ganoblade	基本	「確保します！　取り押さえて！」	「We'll secure them! Take them down!」
 
-13297	Helman Knight	「ははっ！」	「Yes!」
+13297	Helman Knight		「ははっ！」	「Yes!」
 
-13298	Zeth Mage Soldier	「離してっ！　私はネルソン様に……！」	「Let go! I am with Nelson-sama......!」
+13298	Zeth Mage Soldier		「離してっ！　私はネルソン様に……！」	「Let go! I am with Nelson-sama......!」
 
-13299	-	短い捕り物が行われて、	A short scuffle took place,
-13300	+	ネルソンの信者達は無力化された。	and Nelson's followers were subdued.
+13299	-		短い捕り物が行われて、	A short scuffle took place,
+13300	+		ネルソンの信者達は無力化された。	and Nelson's followers were subdued.
 
-13301	Rance	「……やれやれだ。ったく、マジだとはな……」	「......Good grief. Seriously, he was actually doing it......」
+13301	Rance	だる顔	「……やれやれだ。ったく、マジだとはな……」	「......Good grief. Seriously, he was actually doing it......」
 
-13302	Cream Ganoblade	「とんだ危険人物でしたね……	「What a dangerous person......
-13303	+	　どうしますか？」	　What should we do?」
+13302	Cream Ganoblade	基本	「とんだ危険人物でしたね……	「What a dangerous person......
+13303	+		　どうしますか？」	　What should we do?」
 
-13304	Rance	「男だからな。殺すか」	「He's a man. Kill him?」
+13304	Rance	真剣	「男だからな。殺すか」	「He's a man. Kill him?」
 
-13305	Nelson Server	「う、うーむ……」	「U-uum......」
+13305	Nelson Server	基本	「う、うーむ……」	「U-uum......」
 
-13306	Nelson Server	「……はっ！　おお、ランス殿……	「......Hah! Oh, Lord Rance......
-13307	+	　しまった、また私は……！」	　Oh no, I did it again......!」
+13306	Nelson Server		「……はっ！　おお、ランス殿……	「......Hah! Oh, Lord Rance......
+13307	+		　しまった、また私は……！」	　Oh no, I did it again......!」
 
-13308	Rance	「おうオッサン。	「Hey old man.
-13309	+	　俺に逆らった以上、分かってるんだろうな」	　Since you went against me, you know what that means, right?」
+13308	Rance	イライラ	「おうオッサン。	「Hey old man.
+13309	+		　俺に逆らった以上、分かってるんだろうな」	　Since you went against me, you know what that means, right?」
 
-13310	Nelson Server	「ま、待ってくれ……！	「W-wait......!
-13311	+	　そんなつもりはなかったのだ」	　I didn't mean for this to happen.」
+13310	Nelson Server	基本	「ま、待ってくれ……！	「W-wait......!
+13311	+		　そんなつもりはなかったのだ」	　I didn't mean for this to happen.」
 
-13312	Rance	「あん？」	「Huh?」
+13312	Rance	真剣	「あん？」	「Huh?」
 
-13313	Nelson Server	「初めは……兵士達と話し合い、	「At first...... I was just talking with the soldiers,
-13314	+	　不満や問題点を聞いて解決して、	　listening to their complaints and problems to solve them,
-13315	+	　士気を高めようと思っていたのだ」	　and raise morale.」
+13313	Nelson Server	基本	「初めは……兵士達と話し合い、	「At first...... I was just talking with the soldiers,
+13314	+		　不満や問題点を聞いて解決して、	　listening to their complaints and problems to solve them,
+13315	+		　士気を高めようと思っていたのだ」	　and raise morale.」
 
-13316	Nelson Server	「しかしその、話している内に	「But while talking,
-13317	+	　話が別方向に転がって……いつの間にか……」	　the conversation rolled in a different direction...... before I knew it......」
+13316	Nelson Server		「しかしその、話している内に	「But while talking,
+13317	+		　話が別方向に転がって……いつの間にか……」	　the conversation rolled in a different direction...... before I knew it......」
 
-13318	Rance	「いつの間にかで国家転覆の決起集会までいくか！」	「How the hell do you end up at a rebellion meeting by accident!」
+13318	Rance	怒り	「いつの間にかで国家転覆の決起集会までいくか！」	「How the hell do you end up at a rebellion meeting by accident!」
 
-13319	Nelson Server	「ほ、本当なのだ……！	「It's true......!
-13320	+	　話の流れで、そうしなければ	　The flow of the conversation made it feel like
-13321	+	　いけないような気になって……」	　we had to do it......」
+13319	Nelson Server	基本	「ほ、本当なのだ……！	「It's true......!
+13320	+		　話の流れで、そうしなければ	　The flow of the conversation made it feel like
+13321	+		　いけないような気になって……」	　we had to do it......」
 
-13322	Nelson Server	「どうも、説得のための言葉を誇張させたりすると、	「When I exaggerate words to persuade others,
-13323	+	　私自身も最初からそうだったかのように……」	　I start to believe it myself from the beginning......」
+13322	Nelson Server		「どうも、説得のための言葉を誇張させたりすると、	「When I exaggerate words to persuade others,
+13323	+		　私自身も最初からそうだったかのように……」	　I start to believe it myself from the beginning......」
 
-13324	Cream Ganoblade	「……自分自身をも説得してしまう、	「......You end up convincing even yourself,
-13325	+	　と言うんですか？」	　is that what you're saying?」
+13324	Cream Ganoblade		「……自分自身をも説得してしまう、	「......You end up convincing even yourself,
+13325	+		　と言うんですか？」	　is that what you're saying?」
 
-13326	Nelson Server	「うむ……気づいたのは最近なのだが……」	「Yes...... I only realized it recently......」
+13326	Nelson Server		「うむ……気づいたのは最近なのだが……」	「Yes...... I only realized it recently......」
 
-13327	Crook Mofus	「……どうやら自分の技能に少し、	「......It seems you're being a bit
-13328	+	　振り回されているようですね」	　overwhelmed by your own skill.」
+13327	Crook Mofus		「……どうやら自分の技能に少し、	「......It seems you're being a bit
+13328	+		　振り回されているようですね」	　overwhelmed by your own skill.」
 
-13329	Nelson Server	「面目次第もない……」	「How embarrassing......」
+13329	Nelson Server		「面目次第もない……」	「How embarrassing......」
 
-13330	Cream Ganoblade	「……どうしますか？　総統……」	「......What should we do, Supreme Leader......?」
+13330	Cream Ganoblade		「……どうしますか？　総統……」	「......What should we do, Supreme Leader......?」
 
-13331	Rance	「とりあえず、おかしくなった奴を戻せ。	「First, fix this crazy guy.
-13332	+	　それから…………ん、そうだな」	　Then............ Yeah, I got it.」
+13331	Rance	だる顔	「とりあえず、おかしくなった奴を戻せ。	「First, fix this crazy guy.
+13332	+		　それから…………ん、そうだな」	　Then............ Yeah, I got it.」
 
-13333	Rance	「回りくどいことをするからいかんのだ。	「That's what happens when you do things in a roundabout way.
-13334	+	　ストレートに俺様を崇める集団を作れ」	　Just make a group that straight-up worships me.」
+13333	Rance	基本	「回りくどいことをするからいかんのだ。	「That's what happens when you do things in a roundabout way.
+13334	+		　ストレートに俺様を崇める集団を作れ」	　Just make a group that straight-up worships me.」
 
-13335	Nelson Server	「は…………」	「Ha............」
+13335	Nelson Server		「は…………」	「Ha............」
 
-13336	Rance	「目的が一直線なら歪みもしないだろ。	「If the goal is straightforward there won't be any distortion.
-13337	+	　あ、美人はこっちによこせよ」	　Oh, and send the beautiful women my way.」
+13336	Rance		「目的が一直線なら歪みもしないだろ。	「If the goal is straightforward there won't be any distortion.
+13337	+		　あ、美人はこっちによこせよ」	　Oh, and send the beautiful women my way.」
 
-13338	Cream Ganoblade~	（総統を崇めるというだけで、	(Just worshipping the Supreme Leader
-13339	+	　歪んでいる気がしないでもないですが……）	　already feels pretty distorted though......)
+13338	Cream Ganoblade~		（総統を崇めるというだけで、	(Just worshipping the Supreme Leader
+13339	+		　歪んでいる気がしないでもないですが……）	　already feels pretty distorted though......)
 
-13340	Nelson Server	「ふむ……そうだな、そうしてみよう……	「Hmm...... You're right, let's try that......
-13341	+	　穏健で、士気を支えられるような……」	　Something moderate that can support morale......」
+13340	Nelson Server		「ふむ……そうだな、そうしてみよう……	「Hmm...... You're right, let's try that......
+13341	+		　穏健で、士気を支えられるような……」	　Something moderate that can support morale......」
 
-13342	Rance	「おう。どうせやるなら俺の役に立て。	「Yeah. If you're gonna do it, make it useful to me.
-13343	+	　がははは、楽しみだ」	　Gahahaha, I'm looking forward to it.」
+13342	Rance	笑顔	「おう。どうせやるなら俺の役に立て。	「Yeah. If you're gonna do it, make it useful to me.
+13343	+		　がははは、楽しみだ」	　Gahahaha, I'm looking forward to it.」
 
-13344	-	後日…………	Later......
+13344	-		後日…………	Later......
 
-13345	Nelson Server	「事ここに至っては！	「At this point!
-13346	?	　現政権を打倒し！	　We must overthrow the current regime!
-13347	+	　総統ランス閣下を暗殺するしか――――」	　The only way is to assassinate Supreme Leader Rance――――」
+13345	Nelson Server	暴走	「事ここに至っては！	「At this point!
+13346	?		　現政権を打倒し！	　We must overthrow the current regime!
+13347	+		　総統ランス閣下を暗殺するしか――――」	　The only way is to assassinate Supreme Leader Rance――――」
 
-13348	Rance	「って、なんでじゃーーーーーー！！」	「Wait, why the hell are you doing that again!!」
+13348	Rance	怒り	「って、なんでじゃーーーーーー！！」	「Wait, why the hell are you doing that again!!」

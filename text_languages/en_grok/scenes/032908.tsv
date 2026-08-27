@@ -6,158 +6,158 @@
 * Sachiko Centers	サチコ	Female
 * Temple Knight	汎用テンプルナイト	Male
 
-187524	Rance	「む、こんな場所にテントだと？	「Mu, a tent in a place like this?
-187525	+	　いったい誰が……」	　Who the hell......」
+187524	Rance	真剣	「む、こんな場所にテントだと？	「Mu, a tent in a place like this?
+187525	+		　いったい誰が……」	　Who the hell......」
 
-187526	Man	「おや……こんな場所にお客とは珍しい……」	「Oh...... Rare to have visitors in a place like this......」
+187526	Man	基本	「おや……こんな場所にお客とは珍しい……」	「Oh...... Rare to have visitors in a place like this......」
 
-187527	Rance	「む、神父がなんでここに？」	「Mu, why is a priest here?」
+187527	Rance	真剣	「む、神父がなんでここに？」	「Mu, why is a priest here?」
 
-187528	Man	「我々は聖地奪還の為に、	「We are volunteers fighting
-187529	+	　魔軍と戦う有志の者です」	　the Monster Army to reclaim the holy land.」
+187528	Man	基本	「我々は聖地奪還の為に、	「We are volunteers fighting
+187529	+		　魔軍と戦う有志の者です」	　the Monster Army to reclaim the holy land.」
 
-187530	-	辺りを見渡せば、	Looking around,
-187531	+	他にも幾人かのテンプルナイツ、	there were several Temple Knights
-187532	+	冒険者などがいた。	and adventurers.
+187530	-		辺りを見渡せば、	Looking around,
+187531	+		他にも幾人かのテンプルナイツ、	there were several Temple Knights
+187532	+		冒険者などがいた。	and adventurers.
 
-187533	Rance	「魔軍に支配されて、カイズには	「I thought no one was left in Kaiz
-187534	+	　もう人は残ってないと思ってたぞ」	　since it was taken by the Monster Army.」
+187533	Rance	真剣	「魔軍に支配されて、カイズには	「I thought no one was left in Kaiz
+187534	+		　もう人は残ってないと思ってたぞ」	　since it was taken by the Monster Army.」
 
-187535	Crook Mofus	「皆さんの強い熱意に折れて……	「I gave in to their strong enthusiasm......
-187536	?	　というより、放っておいても行きそうでしたので	　Or rather, they seemed like they would go anyway,
-187537	+	　仕方なく許可しました」	　so I reluctantly allowed it.」
+187535	Crook Mofus	基本	「皆さんの強い熱意に折れて……	「I gave in to their strong enthusiasm......
+187536	?		　というより、放っておいても行きそうでしたので	　Or rather, they seemed like they would go anyway,
+187537	+		　仕方なく許可しました」	　so I reluctantly allowed it.」
 
-187538	Rance	「ふーん」	「Hmm.」
+187538	Rance	真剣	「ふーん」	「Hmm.」
 
-187539	?	「……はーーーっ」	「......Haaah.」
+187539	?		「……はーーーっ」	「......Haaah.」
 
-187540	Rance	「あん？　遠くから響く、	「Hn? That loud stupid voice
-187541	+	　この馬鹿にやかましい声は……」	　echoing from far away......」
+187540	Rance	だる顔	「あん？　遠くから響く、	「Hn? That loud stupid voice
+187541	+		　この馬鹿にやかましい声は……」	　echoing from far away......」
 
-187542	Mi Lordring	「はーーーーーーーーっ！」	「Haaaaaaaah!」
+187542	Mi Lordring	基本	「はーーーーーーーーっ！」	「Haaaaaaaah!」
 
-187543	Rance	「死ねー！」	「Die!」
+187543	Rance		「死ねー！」	「Die!」
 
-187544	Mi Lordring	「ぎゃあああああ！」	「Gyaaaaaaa!」
+187544	Mi Lordring		「ぎゃあああああ！」	「Gyaaaaaaa!」
 
-187545	Mi Lordring	「いたいのいたいの、とんでけー！」	「Pain pain, fly away!」
+187545	Mi Lordring		「いたいのいたいの、とんでけー！」	「Pain pain, fly away!」
 
-187546	Mi Lordring	「驚かせてすまぬ！！！！」	「Sorry for startling you!!!!」
+187546	Mi Lordring		「驚かせてすまぬ！！！！」	「Sorry for startling you!!!!」
 
-187547	-	突如現れた男は、	The man who suddenly appeared
-187548	+	斬られて尚、ヒーリングを自分にかけて	healed himself even after being slashed
-187549	+	まるでバネ仕掛けのように立ち上がった。	and sprang back up like a spring toy.
+187547	-		突如現れた男は、	The man who suddenly appeared
+187548	+		斬られて尚、ヒーリングを自分にかけて	healed himself even after being slashed
+187549	+		まるでバネ仕掛けのように立ち上がった。	and sprang back up like a spring toy.
 
-187550	Rance	「……なんだ、このやかましい男は」	「......Who is this noisy guy?」
+187550	Rance		「……なんだ、このやかましい男は」	「......Who is this noisy guy?」
 
-187551	Mi Lordring	「落ち着かれよ御仁！	「Calm yourself, sir!
-187552	+	　魔物と見間違えたのだろうが！	　I must have mistaken you for a monster!
-187553	+	　私は人間である！」	　I am human!」
+187551	Mi Lordring	目閉じ	「落ち着かれよ御仁！	「Calm yourself, sir!
+187552	+		　魔物と見間違えたのだろうが！	　I must have mistaken you for a monster!
+187553	+		　私は人間である！」	　I am human!」
 
-187554	Rance	「あ、うむ……」	「Ah, yes......」
+187554	Rance	真剣	「あ、うむ……」	「Ah, yes......」
 
-187555	Rance	「いや、人間なのは分かってて斬った……」	「No, I knew you were human and slashed you anyway......」
+187555	Rance	だる顔	「いや、人間なのは分かってて斬った……」	「No, I knew you were human and slashed you anyway......」
 
-187556	Sachiko Centers	「本当に信じられないことしますね！」	「You really do unbelievable things!」
+187556	Sachiko Centers	叫び	「本当に信じられないことしますね！」	「You really do unbelievable things!」
 
-187557	Sachiko Centers	「だ、大丈夫ですか、ロードリング司教」	「A-Are you okay, Bishop Lordring?」
+187557	Sachiko Centers	基本	「だ、大丈夫ですか、ロードリング司教」	「A-Are you okay, Bishop Lordring?」
 
-187558	Mi Lordring	「むっ、そなたは盾の少女」	「Mu, you are the shield girl.」
+187558	Mi Lordring		「むっ、そなたは盾の少女」	「Mu, you are the shield girl.」
 
-187559	Sachiko Centers	「……あ、いえ、サチコです、	「......Ah, no, I'm Sachiko,
-187560	+	　そろそろ覚えて下さい」	　please remember that soon.」
+187559	Sachiko Centers		「……あ、いえ、サチコです、	「......Ah, no, I'm Sachiko,
+187560	+		　そろそろ覚えて下さい」	　please remember that soon.」
 
-187561	Mi Lordring	「あいや、承知した！	「Ah, understood!
-187562	+	　盾の少女よ！」	　Shield girl!」
+187561	Mi Lordring		「あいや、承知した！	「Ah, understood!
+187562	+		　盾の少女よ！」	　Shield girl!」
 
-187563	Sachiko Centers	「……ぐすん」	「......Sob.」
+187563	Sachiko Centers	困り	「……ぐすん」	「......Sob.」
 
-187564	Temple Knight	「そ、それよりもロードリング司教、	「M-More importantly Bishop Lordring,
-187565	+	　今までどこにおられたのです！？	　where have you been!?
-187566	+	　突然いなくなるので捜してたのですよ！」	　We were looking for you after you suddenly disappeared!」
+187564	Temple Knight	基本	「そ、それよりもロードリング司教、	「M-More importantly Bishop Lordring,
+187565	+		　今までどこにおられたのです！？	　where have you been!?
+187566	+		　突然いなくなるので捜してたのですよ！」	　We were looking for you after you suddenly disappeared!」
 
-187567	Mi Lordring	「おお、そうだったのか。	「Oh, was that so?
-187568	+	　これはすまない」	　My apologies.」
+187567	Mi Lordring		「おお、そうだったのか。	「Oh, was that so?
+187568	+		　これはすまない」	　My apologies.」
 
-187569	Mi Lordring	「なに、敵の姿を確認するために	「I was just doing some scouting
-187570	+	　斥候の真似事をしてきたのだ。	　to check the enemy's positions.
-187571	+	　敵の配置は把握したぞ」	　I have grasped their layout.」
+187569	Mi Lordring		「なに、敵の姿を確認するために	「I was just doing some scouting
+187570	+		　斥候の真似事をしてきたのだ。	　to check the enemy's positions.
+187571	+		　敵の配置は把握したぞ」	　I have grasped their layout.」
 
-187572	Temple Knight	「……そういうのはこちらでやります。	「......We will handle that.
-187573	+	　司教自らが危険地帯に飛び込まないで下さい」	　Please don't jump into dangerous areas yourself, Bishop.」
+187572	Temple Knight		「……そういうのはこちらでやります。	「......We will handle that.
+187573	+		　司教自らが危険地帯に飛び込まないで下さい」	　Please don't jump into dangerous areas yourself, Bishop.」
 
-187574	Mi Lordring	「危険などない。	「There is no danger.
-187575	+	　あるのはただ試練のみ」	　Only trials.」
+187574	Mi Lordring	目閉じ	「危険などない。	「There is no danger.
+187575	+		　あるのはただ試練のみ」	　Only trials.」
 
-187576	Mi Lordring	「ならば、一体なにを恐れる必要があるというのか」	「Then what is there to fear at all?」
+187576	Mi Lordring	基本	「ならば、一体なにを恐れる必要があるというのか」	「Then what is there to fear at all?」
 
-187577	Mi Lordring	「そうですね、ALICE様！」	「Isn't that right, Lady ALICE!」
+187577	Mi Lordring		「そうですね、ALICE様！」	「Isn't that right, Lady ALICE!」
 
-187578	Mi Lordring	『うん、そうだそうだ☆	『Yes, that's right☆
-187579	+	　偉いぞ偉いぞ、頑張れ、ミー君♪』	　Good boy, good boy. Do your best, Mii-kun♪』
+187578	Mi Lordring		『うん、そうだそうだ☆	『Yes, that's right☆
+187579	+		　偉いぞ偉いぞ、頑張れ、ミー君♪』	　Good boy, good boy. Do your best, Mii-kun♪』
 
-187580	Mi Lordring	「うおおおおおおおおおおお！	「Uooooooooh!
-187581	+	　ありがとうございます、ALICE様ぁぁぁぁぁぁ！」	　Thank you, Lady ALICE!」
+187580	Mi Lordring		「うおおおおおおおおおおお！	「Uooooooooh!
+187581	+		　ありがとうございます、ALICE様ぁぁぁぁぁぁ！」	　Thank you, Lady ALICE!」
 
-187582	Temple Knight	「……もう、いいです」	「......That's enough.」
+187582	Temple Knight		「……もう、いいです」	「......That's enough.」
 
-187583	Crook Mofus	「ロードリング司教、	「Bishop Lordring,
-187584	+	　相変わらずですね」	　you're the same as always.」
+187583	Crook Mofus		「ロードリング司教、	「Bishop Lordring,
+187584	+		　相変わらずですね」	　you're the same as always.」
 
-187585	Mi Lordring	「む、これはモフス殿」	「Mu, it's Lady Mofus.」
+187585	Mi Lordring		「む、これはモフス殿」	「Mu, it's Lady Mofus.」
 
-187586	Mi Lordring	「申し訳ない……	「I'm sorry......
-187587	+	　川中島奪還の任務は私が希望したのに、	　I was the one who requested the mission to reclaim Kawanakajima,
-187588	+	　未だ魔軍との決着がつかぬこの体たらく……」	　yet we still haven't settled things with the Monster Army......
+187586	Mi Lordring		「申し訳ない……	「I'm sorry......
+187587	+		　川中島奪還の任務は私が希望したのに、	　I was the one who requested the mission to reclaim Kawanakajima,
+187588	+		　未だ魔軍との決着がつかぬこの体たらく……」	　yet we still haven't settled things with the Monster Army......
 
-187589	Mi Lordring	「おおっ！　私は己が恥ずかしい！」	「Ooh! I am ashamed of myself!」
+187589	Mi Lordring	目閉じ	「おおっ！　私は己が恥ずかしい！」	「Ooh! I am ashamed of myself!」
 
-187590	Crook Mofus	「いえ、構いません」	「No, it's fine.
+187590	Crook Mofus	基本	「いえ、構いません」	「No, it's fine.
 
-187591	Crook Mofus	「完全に奪われた、よりも、	　Rather than it being completely taken,
-187592	+	　今も奪還すべく戦っている、の方が	　the fact that you are still fighting to reclaim it
-187593	+	　人類は希望を失わずにいられます」	　gives humanity hope.」
+187591	Crook Mofus		「完全に奪われた、よりも、	　Rather than it being completely taken,
+187592	+		　今も奪還すべく戦っている、の方が	　the fact that you are still fighting to reclaim it
+187593	+		　人類は希望を失わずにいられます」	　gives humanity hope.」
 
-187594	Crook Mofus	「皆さんの戦いはちゃんと価値のあるもの。	「Your battles have real value.
-187595	+	　これからも頑張って下さい」	　Please continue your efforts.」
+187594	Crook Mofus		「皆さんの戦いはちゃんと価値のあるもの。	「Your battles have real value.
+187595	+		　これからも頑張って下さい」	　Please continue your efforts.」
 
-187596	Crook Mofus	「ただし、死なないように。	「However, do not die.
-187597	+	　無理だと思えば退いて下さい」	　If you think it's impossible, retreat.」
+187596	Crook Mofus		「ただし、死なないように。	「However, do not die.
+187597	+		　無理だと思えば退いて下さい」	　If you think it's impossible, retreat.」
 
-187598	Crook Mofus	「皆さんは信仰篤い方々です。	「You are all devout believers.
-187599	+	　たとえ皆さんが聖地を見捨てても……」	　Even if you abandon the holy land......」
+187598	Crook Mofus		「皆さんは信仰篤い方々です。	「You are all devout believers.
+187599	+		　たとえ皆さんが聖地を見捨てても……」	　Even if you abandon the holy land......」
 
-187600	Crook Mofus	「……えーと」	「......Umm.」
+187600	Crook Mofus		「……えーと」	「......Umm.」
 
-187601	Crook Mofus	「……神は皆さんをお見捨てにはなりません」	「......God will not abandon you.」
+187601	Crook Mofus		「……神は皆さんをお見捨てにはなりません」	「......God will not abandon you.」
 
-187602	Man	「お、おお……	「O, oh......
-187603	+	　法王ムーララルー……」	　Pope Mulalaloux......」
+187602	Man		「お、おお……	「O, oh......
+187603	+		　法王ムーララルー……」	　Pope Mulalaloux......」
 
-187604	-	クルックーの言葉に、	At Crook's words,
-187605	+	信者達から嘆息が漏れる。	sighs of relief came from the believers.
+187604	-		クルックーの言葉に、	At Crook's words,
+187605	+		信者達から嘆息が漏れる。	sighs of relief came from the believers.
 
-187606	Rance~	（もしかして、今クルックー、	（Did Crook just
-187607	+	　少し気を遣った？）	　show some consideration?）
+187606	Rance~		（もしかして、今クルックー、	（Did Crook just
+187607	+		　少し気を遣った？）	　show some consideration?）
 
-187608	Mi Lordring	「ありがたいお言葉と心遣い……	「Thank you for your kind words and consideration......
-187609	+	　痛み入ります」	　I'm grateful.」
+187608	Mi Lordring	目閉じ	「ありがたいお言葉と心遣い……	「Thank you for your kind words and consideration......
+187609	+		　痛み入ります」	　I'm grateful.」
 
-187610	Mi Lordring	「うむ、戦いに出る活力が湧いてきた！	「Yes, I'm filled with energy for battle!
-187611	+	　なれば、もはやここに用はなし！」	　Then I have no more business here!」
+187610	Mi Lordring	基本	「うむ、戦いに出る活力が湧いてきた！	「Yes, I'm filled with energy for battle!
+187611	+		　なれば、もはやここに用はなし！」	　Then I have no more business here!」
 
-187612	Mi Lordring	「いざ参らん！　聖戦へ！」	「Let us go! To the holy war!」
+187612	Mi Lordring		「いざ参らん！　聖戦へ！」	「Let us go! To the holy war!」
 
-187613	Mi Lordring	「はーーーーーーーーっ！」	「Haaaaaaaah!」
+187613	Mi Lordring		「はーーーーーーーーっ！」	「Haaaaaaaah!」
 
-187614	Temple Knight	「ああ、また勝手に！	「Ah, there he goes again!
-187615	+	　待って下さい、ロードリング司教ー！」	　Wait, Bishop Lordring!」
+187614	Temple Knight		「ああ、また勝手に！	「Ah, there he goes again!
+187615	+		　待って下さい、ロードリング司教ー！」	　Wait, Bishop Lordring!」
 
-187616	-	教会を飛び出したロードリングを	The Temple Knights frantically chased
-187617	+	周りのテンプルナイツが慌てて追いかけていった。	after Lordring who dashed out of the church.
+187616	-		教会を飛び出したロードリングを	The Temple Knights frantically chased
+187617	+		周りのテンプルナイツが慌てて追いかけていった。	after Lordring who dashed out of the church.
 
-187618	Rance	「で……」	「So......」
+187618	Rance	真剣	「で……」	「So......」
 
-187619	Rance	「誰だ？　あのやかましい奴」	「Who was that noisy guy?」
+187619	Rance		「誰だ？　あのやかましい奴」	「Who was that noisy guy?」
 
-187620	Sachiko Centers	「ランスさん、前に会ったことありますからね……」	「Rance-san, we've met him before......」
+187620	Sachiko Centers	困り	「ランスさん、前に会ったことありますからね……」	「Rance-san, we've met him before......」

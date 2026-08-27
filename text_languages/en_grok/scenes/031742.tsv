@@ -3,140 +3,140 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-99876	Bezeleye	「ふう……こんなものかしらね……」	「Sigh... I guess this is it...」
+99876	Bezeleye	基本	「ふう……こんなものかしらね……」	「Sigh... I guess this is it...」
 
-99877	-	ランス城の正門でベゼルアイが	At the main gate of Rance Castle,
-99878	+	大量の荷物の前で溜め息をついた。	Bezeleye sighed in front of a large pile of luggage.
+99877	-		ランス城の正門でベゼルアイが	At the main gate of Rance Castle,
+99878	+		大量の荷物の前で溜め息をついた。	Bezeleye sighed in front of a large pile of luggage.
 
-99879	Rance	「なんだ、その大量の荷物は？」	「What's with all that luggage?」
+99879	Rance	真剣	「なんだ、その大量の荷物は？」	「What's with all that luggage?」
 
-99880	Sill Plain	「旅支度……ですか？	「Travel preparations...?
-99881	+	　どこか行かれるんですか？」	　Are you going somewhere?」
+99880	Sill Plain	きょとん	「旅支度……ですか？	「Travel preparations...?
+99881	+		　どこか行かれるんですか？」	　Are you going somewhere?」
 
-99882	Bezeleye	「ええ、ここを出て行こうかと」	「Yes, I was thinking of leaving.」
+99882	Bezeleye	基本	「ええ、ここを出て行こうかと」	「Yes, I was thinking of leaving.」
 
-99883	Rance	「ふーん」	「Hmm.」
+99883	Rance	真剣	「ふーん」	「Hmm.」
 
-99884	Rance	「…………」	「............」
+99884	Rance	だる顔	「…………」	「............」
 
-99885	Rance	「は！？」	「Ha!?」
+99885	Rance	怒り	「は！？」	「Ha!?」
 
-99886	Sill Plain	「べ、ベゼルアイ様、	「B, Bezeleye-sama,
-99887	+	　出て行ってしまうんですか！？」	　you're leaving!?」
+99886	Sill Plain	慌て	「べ、ベゼルアイ様、	「B, Bezeleye-sama,
+99887	+		　出て行ってしまうんですか！？」	　you're leaving!?」
 
-99888	Bezeleye	「うん」	「Yes.」
+99888	Bezeleye	基本	「うん」	「Yes.」
 
-99889	Bezeleye	「元々、他の聖女モンスターに会う為に	「I was only with you to meet other holy girl monsters,
-99890	+	　ランス君達と一緒にいたわけだし、	　and now that I have,
-99891	+	　他の子に会った以上はもうね」	　there's no more reason to stay.」
+99889	Bezeleye		「元々、他の聖女モンスターに会う為に	「I was only with you to meet other holy girl monsters,
+99890	+		　ランス君達と一緒にいたわけだし、	　and now that I have,
+99891	+		　他の子に会った以上はもうね」	　there's no more reason to stay.」
 
-99892	Rance	「な、なんだそりゃ？」	「W, what do you mean?」
+99892	Rance		「な、なんだそりゃ？」	「W, what do you mean?」
 
-99893	Bezeleye	「そもそも今までがおかしかったのよ。	「It was strange from the beginning.
-99894	+	　聖女モンスターである私が	　A holy girl monster like me
-99895	+	　人類に協力するなんて」	　cooperating with humanity.」
+99893	Bezeleye		「そもそも今までがおかしかったのよ。	「It was strange from the beginning.
+99894	+		　聖女モンスターである私が	　A holy girl monster like me
+99895	+		　人類に協力するなんて」	　cooperating with humanity.」
 
-99896	Bezeleye	「人類軍の戦いも軌道に乗ってきたし、	「The human army's fight is on track now,
-99897	+	　そろそろ私はいらないかなって」	　so I think you don't need me anymore.」
+99896	Bezeleye		「人類軍の戦いも軌道に乗ってきたし、	「The human army's fight is on track now,
+99897	+		　そろそろ私はいらないかなって」	　so I think you don't need me anymore.」
 
-99898	Rance	「う、それは……」	「U, that's...」
+99898	Rance	だる顔	「う、それは……」	「U, that's...」
 
-99899	Sill Plain	「あ、あれ？　そう言われてみると……	「A, ah? Now that you mention it...
-99900	+	　どうして今まで協力を……」	　why have you been helping us...?」
+99899	Sill Plain	きょとん	「あ、あれ？　そう言われてみると……	「A, ah? Now that you mention it...
+99900	+		　どうして今まで協力を……」	　why have you been helping us...?」
 
-99901	Bezeleye	「暇潰し……というのもあるけど」	「Killing time... is part of it,
+99901	Bezeleye	基本	「暇潰し……というのもあるけど」	「Killing time... is part of it,
 
-99902	Bezeleye	「モンスターの進化の為よ」	　but it's for monster evolution.」
+99902	Bezeleye		「モンスターの進化の為よ」	　but it's for monster evolution.」
 
-99903	Bezeleye	「魔物の進化には人間が敵である方が	「For monster evolution, having humans as enemies
-99904	+	　色々と都合が良かったから……	　was more convenient...
-99905	+	　人類には勝って欲しかったの」	　so I wanted humanity to win.」
+99903	Bezeleye		「魔物の進化には人間が敵である方が	「For monster evolution, having humans as enemies
+99904	+		　色々と都合が良かったから……	　was more convenient...
+99905	+		　人類には勝って欲しかったの」	　so I wanted humanity to win.」
 
-99906	Bezeleye	「ただ、これ以上は過干渉だわ」	「But any more would be overstepping.」
+99906	Bezeleye		「ただ、これ以上は過干渉だわ」	「But any more would be overstepping.」
 
-99907	Rance	「むむ、よく分からんが	「Mmm, I don't really get it
-99908	+	　そんなことどうでもいいではないか……」	　but does that even matter...?」
+99907	Rance	だる顔	「むむ、よく分からんが	「Mmm, I don't really get it
+99908	+		　そんなことどうでもいいではないか……」	　but does that even matter...?」
 
-99909	Bezeleye	「後は人類が、	「From now on, humanity
-99910	+	　人類の力だけで戦うべきよ」	　should fight with its own power.」
+99909	Bezeleye	基本	「後は人類が、	「From now on, humanity
+99910	+		　人類の力だけで戦うべきよ」	　should fight with its own power.」
 
-99911	Bezeleye	「これから先がどうなるか分からないけど、	「I don't know what will happen from here,
-99912	+	　少なくとも私の力なんてもう必要ないし……」	　but you no longer need my power...」
+99911	Bezeleye		「これから先がどうなるか分からないけど、	「I don't know what will happen from here,
+99912	+		　少なくとも私の力なんてもう必要ないし……」	　but you no longer need my power...」
 
-99913	Sill Plain	「う……」	「Uu...」
+99913	Sill Plain	泣き	「う……」	「Uu...」
 
-99914	Sill Plain	「でも寂しいです……」	「But I'll be lonely...」
+99914	Sill Plain		「でも寂しいです……」	「But I'll be lonely...」
 
-99915	Sill Plain	「ベゼルアイ様とは、	「I've been with Bezeleye-sama
-99916	+	　今回ずっと最初から一緒だったので……	　from the very beginning this time...
-99917	+	　出来れば最後まで……」	　I wanted to stay until the end...」
+99915	Sill Plain		「ベゼルアイ様とは、	「I've been with Bezeleye-sama
+99916	+		　今回ずっと最初から一緒だったので……	　from the very beginning this time...
+99917	+		　出来れば最後まで……」	　I wanted to stay until the end...」
 
-99918	Bezeleye	「…………」	「............」
+99918	Bezeleye	基本	「…………」	「............」
 
-99919	Bezeleye	「馬鹿ね、泣くことないでしょう？」	「Silly girl, no need to cry.」
+99919	Bezeleye		「馬鹿ね、泣くことないでしょう？」	「Silly girl, no need to cry.」
 
-99920	Bezeleye	「今生の別れというわけでもあるまいし、	「It's not like this is goodbye forever,
-99921	+	　落ち着いたらまた遊びに来るわ」	　I'll come visit again when things calm down.」
+99920	Bezeleye		「今生の別れというわけでもあるまいし、	「It's not like this is goodbye forever,
+99921	+		　落ち着いたらまた遊びに来るわ」	　I'll come visit again when things calm down.」
 
-99922	Rance	「駄目だーーーー！」	「No way-----!」
+99922	Rance	怒り	「駄目だーーーー！」	「No way-----!」
 
-99923	Bezeleye	「ランス君？」	「Rance-kun?」
+99923	Bezeleye	基本	「ランス君？」	「Rance-kun?」
 
-99924	Rance	「お前は俺がゲットした	「You're a girl monster I obtained,
-99925	+	　女の子モンスターなんだから	　so
-99926	+	　出て行くのは駄目だ！」	　you can't leave!」
+99924	Rance	怒り	「お前は俺がゲットした	「You're a girl monster I obtained,
+99925	+		　女の子モンスターなんだから	　so
+99926	+		　出て行くのは駄目だ！」	　you can't leave!」
 
-99927	Rance	「大体、帰ってきたときには	「Besides, when you come back
-99928	+	　またガキの姿に戻ってるんだろうが！」	　you'll be a kid again!」
+99927	Rance	だる顔	「大体、帰ってきたときには	「Besides, when you come back
+99928	+		　またガキの姿に戻ってるんだろうが！」	　you'll be a kid again!」
 
-99929	Rance	「俺は大人姿のベゼルアイと	「I want to have sex with
-99930	+	　セックスせんと気が済まんのだ！」	　the adult Bezeleye!」
+99929	Rance	怒り	「俺は大人姿のベゼルアイと	「I want to have sex with
+99930	+		　セックスせんと気が済まんのだ！」	　the adult Bezeleye!」
 
-99931	Bezeleye	「そんな勝手な……」	「That's so selfish...」
+99931	Bezeleye	基本	「そんな勝手な……」	「That's so selfish...」
 
-99932	Sill Plain	「うう……でも……」	「Uu... but...」
+99932	Sill Plain	泣き	「うう……でも……」	「Uu... but...」
 
-99933	Rance	「むむむ……」	「Mmm...」
+99933	Rance	真剣	「むむむ……」	「Mmm...」
 
-99934	Rance	「おお、そうだ！　チルディを呼ぼう！	「Oh, that's right! Let's call Tilde!
-99935	+	　あいつに巨大ケーキ作らせるのだ！」	　Have her make a huge cake!」
+99934	Rance	基本	「おお、そうだ！　チルディを呼ぼう！	「Oh, that's right! Let's call Tilde!
+99935	+		　あいつに巨大ケーキ作らせるのだ！」	　Have her make a huge cake!」
 
-99936	Bezeleye	「え……私、それで残っちゃうイメージ？」	「Eh... is that how you see me staying?」
+99936	Bezeleye		「え……私、それで残っちゃうイメージ？」	「Eh... is that how you see me staying?」
 
-99937	Bezeleye	「…………」	「............」
+99937	Bezeleye		「…………」	「............」
 
-99938	Bezeleye	「はあ……」	「Haa...」
+99938	Bezeleye		「はあ……」	「Haa...」
 
-99939	Bezeleye	「泣く子と権力者には勝てないわね」	「I can't win against crying children and people in power.」
+99939	Bezeleye		「泣く子と権力者には勝てないわね」	「I can't win against crying children and people in power.」
 
-99940	Sill Plain	「え……」	「Eh...」
+99940	Sill Plain		「え……」	「Eh...」
 
-99941	Bezeleye	「いいわ、残るわ」	「Fine, I'll stay.」
+99941	Bezeleye		「いいわ、残るわ」	「Fine, I'll stay.」
 
-99942	Sill Plain	「わっ！」	「Wah!」
+99942	Sill Plain		「わっ！」	「Wah!」
 
-99943	Rance	「がははは、偉いぞ、よく考え直したな！」	「Gahahaha, good girl, you thought it over well!」
+99943	Rance	笑顔	「がははは、偉いぞ、よく考え直したな！」	「Gahahaha, good girl, you thought it over well!」
 
-99944	Rance	「よし、今日はビスケッタさんに言って、	「Alright, today I'll ask Biscuitta
-99945	+	　なんか甘いの作ってもらうか」	　to make something sweet.」
+99944	Rance	基本	「よし、今日はビスケッタさんに言って、	「Alright, today I'll ask Biscuitta
+99945	+		　なんか甘いの作ってもらうか」	　to make something sweet.」
 
-99946	Bezeleye	「……本当は止められると思っていたから	「...I thought you would stop me,
-99947	+	　会いたくなかったのよね」	　that's why I didn't want to meet you.」
+99946	Bezeleye		「……本当は止められると思っていたから	「...I thought you would stop me,
+99947	+		　会いたくなかったのよね」	　that's why I didn't want to meet you.」
 
-99948	Sill Plain	「あう……す、すみません……」	「Au... s, sorry...」
+99948	Sill Plain		「あう……す、すみません……」	「Au... s, sorry...」
 
-99949	Bezeleye	「いいのよ」	「It's fine.」
+99949	Bezeleye		「いいのよ」	「It's fine.」
 
-99950	Bezeleye	「……貴方達のことは気に入っていたから、	「...I liked you all,
-99951	+	　本当は私も名残惜しかったの」	　so I was reluctant to leave too.」
+99950	Bezeleye	笑顔	「……貴方達のことは気に入っていたから、	「...I liked you all,
+99951	+		　本当は私も名残惜しかったの」	　so I was reluctant to leave too.」
 
-99952	Sill Plain	「あっ、それって……」	「Ah, that means...」
+99952	Sill Plain	基本	「あっ、それって……」	「Ah, that means...」
 
-99953	Bezeleye	「今の、ランス君には内緒よ？	「Keep it a secret from Rance-kun okay?
-99954	+	　うるさそうだから」	　He'd be noisy about it.」
+99953	Bezeleye	笑顔	「今の、ランス君には内緒よ？	「Keep it a secret from Rance-kun okay?
+99954	+		　うるさそうだから」	　He'd be noisy about it.」
 
-99955	Sill Plain	「ふふ、分かりました」	「Fufu, understood.」
+99955	Sill Plain	基本	「ふふ、分かりました」	「Fufu, understood.」
 
-99956	Rance	「んー？　なんだー？」	「Hmm? What?」
+99956	Rance		「んー？　なんだー？」	「Hmm? What?」
 
-99957	Bezeleye	「なんでもないわよ」	「Nothing at all.」
+99957	Bezeleye	笑顔	「なんでもないわよ」	「Nothing at all.」

@@ -5,260 +5,260 @@
 * Flame Scrivener	火炎書士	Female
 * Crook Mofus	クルックー	Female
 
-159759	-	ランス達はハウゼルを連れて、ランス城に戻っていた。	Rance's group returned to Rance Castle with Hawzel.
+159759	-		ランス達はハウゼルを連れて、ランス城に戻っていた。	Rance's group returned to Rance Castle with Hawzel.
 
-159760	-	ランス城――	Rance Castle――
+159760	-		ランス城――	Rance Castle――
 
-159761	-	図書室――	Library――
+159761	-		図書室――	Library――
 
-159762	La Hawzel	「わあ、すごい！」	「Waa, amazing!」
+159762	La Hawzel	笑顔	「わあ、すごい！」	「Waa, amazing!」
 
-159763	-	ランス城の蔵書量を前に、	Faced with the sheer number of books in Rance Castle,
-159764	+	ハウゼルが歓喜の声を上げた。	Hawzel let out a cry of joy.
+159763	-		ランス城の蔵書量を前に、	Faced with the sheer number of books in Rance Castle,
+159764	+		ハウゼルが歓喜の声を上げた。	Hawzel let out a cry of joy.
 
-159765	Rance	「がははは、そうかそうか気に入ったか。	「Gahahaha, good good, you like it huh.
-159766	+	　いくらでも読んでくれて構わんからな」	　Read as many as you want.」
+159765	Rance		「がははは、そうかそうか気に入ったか。	「Gahahaha, good good, you like it huh.
+159766	+		　いくらでも読んでくれて構わんからな」	　Read as many as you want.」
 
-159767	La Hawzel	「ほ、本当ですか！？」	「R-really!?」
+159767	La Hawzel		「ほ、本当ですか！？」	「R-really!?」
 
-159768	La Hawzel	「――はっ」	「――Hah」
+159768	La Hawzel	基本	「――はっ」	「――Hah」
 
-159769	-	ハウゼルが慌てて武器を構えた。	Hawzel hurriedly readied her weapon.
+159769	-		ハウゼルが慌てて武器を構えた。	Hawzel hurriedly readied her weapon.
 
-159770	La Hawzel	「こ、こほん……	「A-hem...
-159771	+	　か、火炎に言われているんです。	　Flame told me.
-159772	+	　甘い言葉を吐く者は最も気をつけるようにと」	　To be extra careful with anyone who speaks sweet words.」
+159770	La Hawzel	目閉じ	「こ、こほん……	「A-hem...
+159771	+		　か、火炎に言われているんです。	　Flame told me.
+159772	+		　甘い言葉を吐く者は最も気をつけるようにと」	　To be extra careful with anyone who speaks sweet words.」
 
-159773	La Hawzel	「……貴方の狙いはなんです？」	「...What is your goal?」
+159773	La Hawzel	基本	「……貴方の狙いはなんです？」	「...What is your goal?」
 
-159774	Satella	「狙いも何もない」	「I have no goal.」
+159774	Satella	不安	「狙いも何もない」	「I have no goal.」
 
-159775	La Hawzel	「……サテラ」	「...Satella」
+159775	La Hawzel	基本	「……サテラ」	「...Satella」
 
-159776	Satella	「サテラ達はケイブリスを倒す為に戦っている。	「We are fighting to defeat Kayblis.
-159777	+	　ハウゼルも一緒に戦って欲しい。	　We want you to fight with us too Hawzel.
-159778	+	　それだけだ」	　That's all.」
+159776	Satella		「サテラ達はケイブリスを倒す為に戦っている。	「We are fighting to defeat Kayblis.
+159777	+		　ハウゼルも一緒に戦って欲しい。	　We want you to fight with us too Hawzel.
+159778	+		　それだけだ」	　That's all.」
 
-159779	La Hawzel	「…………」	「............」
+159779	La Hawzel		「…………」	「............」
 
-159780	-	ハウゼルが武器を下ろす。	Hawzel lowered her weapon.
+159780	-		ハウゼルが武器を下ろす。	Hawzel lowered her weapon.
 
-159781	La Hawzel	「申し出は嬉しいし……	「I'm happy about the offer...
-159782	+	　確かに貴方達の側につくのが正しいと思う」	　and I do think joining your side is the right thing.
+159781	La Hawzel	武装なし／目閉じ	「申し出は嬉しいし……	「I'm happy about the offer...
+159782	+		　確かに貴方達の側につくのが正しいと思う」	　and I do think joining your side is the right thing.
 
-159783	La Hawzel	「でも……	「But...
-159784	+	　今の私はホーネット様を人質に取られている」	　right now Hornet-sama is being held hostage.」
+159783	La Hawzel		「でも……	「But...
+159784	+		　今の私はホーネット様を人質に取られている」	　right now Hornet-sama is being held hostage.」
 
-159785	La Hawzel	「だから……そんなことしたら……」	「So... if I do that...」
+159785	La Hawzel		「だから……そんなことしたら……」	「So... if I do that...」
 
-159786	Flame Scrivener	「ハウゼル様ー！」	「Hawzel-samaー!」
+159786	Flame Scrivener	基本	「ハウゼル様ー！」	「Hawzel-samaー!」
 
-159787	La Hawzel	「きゃああああああ！？」	「Kyaaaaaaa!?」
+159787	La Hawzel	武装なし／驚き	「きゃああああああ！？」	「Kyaaaaaaa!?」
 
-159788	-	突然現れた火炎書士に抱きつかれ、	Suddenly embraced by the Flame Scrivener,
-159789	+	ハウゼルが珍しく素っ頓狂な悲鳴を上げた。	Hawzel let out a rare shrill scream.
+159788	-		突然現れた火炎書士に抱きつかれ、	Suddenly embraced by the Flame Scrivener,
+159789	+		ハウゼルが珍しく素っ頓狂な悲鳴を上げた。	Hawzel let out a rare shrill scream.
 
-159790	La Hawzel	「か……火炎書士……	「F... Flame Scrivener...
-159791	+	　驚いた……」	　You surprised me...」
+159790	La Hawzel	武装なし	「か……火炎書士……	「F... Flame Scrivener...
+159791	+		　驚いた……」	　You surprised me...」
 
-159792	Flame Scrivener	「良かった、まだ生きてらしたんですね……」	「Thank goodness, you're still alive...」
+159792	Flame Scrivener	基本	「良かった、まだ生きてらしたんですね……」	「Thank goodness, you're still alive...」
 
-159793	La Hawzel	「火炎……」	「Flame...」
+159793	La Hawzel	武装なし	「火炎……」	「Flame...」
 
-159794	Rance	「お前はいつかの仮面少女……」	「You're that masked girl from before...」
+159794	Rance	基本	「お前はいつかの仮面少女……」	「You're that masked girl from before...」
 
-159795	Flame Scrivener	「あ、サテラ様、ランスさん、お久しぶりです」	「Ah, Satella-sama, Rance-san, long time no see.」
+159795	Flame Scrivener		「あ、サテラ様、ランスさん、お久しぶりです」	「Ah, Satella-sama, Rance-san, long time no see.」
 
-159796	Flame Scrivener	「さあさあ、ハウゼル様。	「Now now, Hawzel-sama.
-159797	+	　帰りましょう。いつまでも敵陣にいると、	　Let's go home. Staying in enemy territory too long
-159798	+	　ケイブリスさんにいらぬ誤解を受けますよ」	　will cause unnecessary misunderstandings with Kayblis.」
+159796	Flame Scrivener		「さあさあ、ハウゼル様。	「Now now, Hawzel-sama.
+159797	+		　帰りましょう。いつまでも敵陣にいると、	　Let's go home. Staying in enemy territory too long
+159798	+		　ケイブリスさんにいらぬ誤解を受けますよ」	　will cause unnecessary misunderstandings with Kayblis.」
 
-159799	Rance	「こ、こらこら……」	「H-hey hey...」
+159799	Rance		「こ、こらこら……」	「H-hey hey...」
 
-159800	La Hawzel	「ま、待って、待ちなさい火炎書士……」	「W-wait, wait Flame Scrivener...」
+159800	La Hawzel	武装なし	「ま、待って、待ちなさい火炎書士……」	「W-wait, wait Flame Scrivener...」
 
-159801	Flame Scrivener	「へ？　どうかされましたか？」	「Eh? Is something wrong?」
+159801	Flame Scrivener	基本	「へ？　どうかされましたか？」	「Eh? Is something wrong?」
 
-159802	La Hawzel	「実はその、今……」	「Actually right now...
+159802	La Hawzel	武装なし	「実はその、今……」	「Actually right now...
 
-159803	La Hawzel	「ケイブリス派を抜けて、	　I'm being invited to leave the Kayblis faction
-159804	+	　人類軍側に来ないかと誘われているの……」	　and join the human army side...」
+159803	La Hawzel		「ケイブリス派を抜けて、	　I'm being invited to leave the Kayblis faction
+159804	+		　人類軍側に来ないかと誘われているの……」	　and join the human army side...」
 
-159805	La Hawzel	「火炎は……どうしたらいいと思う？」	「Flame... what do you think I should do?」
+159805	La Hawzel	武装なし／目閉じ	「火炎は……どうしたらいいと思う？」	「Flame... what do you think I should do?」
 
-159806	-	自分の使徒に対して、	To her own apostle,
-159807	+	ハウゼルはどこか上目遣いで聞いた。	Hawzel asked somewhat shyly with upturned eyes.
+159806	-		自分の使徒に対して、	To her own apostle,
+159807	+		ハウゼルはどこか上目遣いで聞いた。	Hawzel asked somewhat shyly with upturned eyes.
 
-159808	Flame Scrivener	「…………」	「............」
+159808	Flame Scrivener	基本	「…………」	「............」
 
-159809	Flame Scrivener	「火炎は……」	「Flame is...
+159809	Flame Scrivener		「火炎は……」	「Flame is...
 
-159810	Flame Scrivener	「火炎は使徒界一臆病な使徒です。	　the most cowardly apostle in the apostle world.
-159811	+	　大して強くもありません」	　I'm not very strong either.」
+159810	Flame Scrivener		「火炎は使徒界一臆病な使徒です。	　the most cowardly apostle in the apostle world.
+159811	+		　大して強くもありません」	　I'm not very strong either.」
 
-159812	Flame Scrivener	「ただ、臆病である分、	「But because I'm cowardly,
-159813	+	　世渡りは上手い方と自負してます」	　I'm pretty good at getting by in the world.」
+159812	Flame Scrivener		「ただ、臆病である分、	「But because I'm cowardly,
+159813	+		　世渡りは上手い方と自負してます」	　I'm pretty good at getting by in the world.」
 
-159814	Flame Scrivener	「その火炎の目から見ると……	「From my perspective...
-159815	+	　ケイブリスさんを裏切り、人間につくのは、	　betraying Kayblis-san and joining the humans
-159816	+	　とても最善手とは思えません」	　doesn't seem like the best move.」
+159814	Flame Scrivener		「その火炎の目から見ると……	「From my perspective...
+159815	+		　ケイブリスさんを裏切り、人間につくのは、	　betraying Kayblis-san and joining the humans
+159816	+		　とても最善手とは思えません」	　doesn't seem like the best move.」
 
-159817	La Hawzel	「…………」	「............」
+159817	La Hawzel		「…………」	「............」
 
-159818	Flame Scrivener	「……ですが」	「...However」
+159818	Flame Scrivener		「……ですが」	「...However」
 
-159819	Flame Scrivener~	（ハウゼル様の考えが決まってるなら……）	（If Hawzel-sama has already decided...）
+159819	Flame Scrivener~		（ハウゼル様の考えが決まってるなら……）	（If Hawzel-sama has already decided...）
 
-159820	Rance	「その仮面……」	「That mask...」
+159820	Rance	真剣	「その仮面……」	「That mask...」
 
-159821	Flame Scrivener	「はい？　火炎の仮面がなにか？」	「Yes? What about Flame's mask?」
+159821	Flame Scrivener	基本	「はい？　火炎の仮面がなにか？」	「Yes? What about Flame's mask?」
 
-159822	Rance	「クルックーーーーー！」	「Crookuu!」
+159822	Rance	怒り	「クルックーーーーー！」	「Crookuu!」
 
-159823	Crook Mofus	「はい、ずっとここにいました」	「Yes, I've been here the whole time.」
+159823	Crook Mofus	わくわく	「はい、ずっとここにいました」	「Yes, I've been here the whole time.」
 
-159824	Crook Mofus	「あと、ランスの言いたいことも分かってます。	「Also, I know what Rance wants to say.
-159825	+	　これですね」	　It's this right.」
+159824	Crook Mofus		「あと、ランスの言いたいことも分かってます。	「Also, I know what Rance wants to say.
+159825	+		　これですね」	　It's this right.」
 
-159826	-	クルックーがズバッと貝図鑑を開いた。	Crook flipped open the seashell encyclopedia.
+159826	-		クルックーがズバッと貝図鑑を開いた。	Crook flipped open the seashell encyclopedia.
 
-159827	-	開いたページにあったのは、	On the opened page was
-159828	+	火炎書士の仮面とそっくりの貝だった。	a seashell that looked exactly like the Flame Scrivener's mask.
+159827	-		開いたページにあったのは、	On the opened page was
+159828	+		火炎書士の仮面とそっくりの貝だった。	a seashell that looked exactly like the Flame Scrivener's mask.
 
-159829	Rance	「おお、やはりこの仮面、	「Oh, so this mask really is
-159830	+	　あの伝説のほんだら貝！」	　that legendary Hondara shell!」
+159829	Rance	基本	「おお、やはりこの仮面、	「Oh, so this mask really is
+159830	+		　あの伝説のほんだら貝！」	　that legendary Hondara shell!」
 
-159831	Crook Mofus	「ええ……瓜二つ、です……」	「Yes... identical...」
+159831	Crook Mofus	わくわく	「ええ……瓜二つ、です……」	「Yes... identical...」
 
-159832	Flame Scrivener	「……貝？」	「...Seashell?」
+159832	Flame Scrivener	基本	「……貝？」	「...Seashell?」
 
-159833	Crook Mofus	「ハイセンスです……	「Very stylish...
-159834	+	　素晴らしい造形技術です……」	　Wonderful craftsmanship...」
+159833	Crook Mofus	わくわく	「ハイセンスです……	「Very stylish...
+159834	+		　素晴らしい造形技術です……」	　Wonderful craftsmanship...」
 
-159835	Rance	「うむ、格好いい仮面だ……」	「Yeah, it's a cool mask...」
+159835	Rance	基本	「うむ、格好いい仮面だ……」	「Yeah, it's a cool mask...」
 
-159836	Crook Mofus	「はい、可愛いですね……」	「Yes, it's cute...」
+159836	Crook Mofus	わくわく	「はい、可愛いですね……」	「Yes, it's cute...」
 
-159837	Flame Scrivener	「…………ポッ」	「............Poof」
+159837	Flame Scrivener	うふふ	「…………ポッ」	「............Poof」
 
-159838	Satella	「ぽ？」	「Po?」
+159838	Satella	基本	「ぽ？」	「Po?」
 
-159839	Flame Scrivener	「か、火炎……	「F-Flame...
-159840	+	　仮面が褒められたの初めて、で……」	　This is the first time my mask has been praised, so...
+159839	Flame Scrivener	うふふ	「か、火炎……	「F-Flame...
+159840	+		　仮面が褒められたの初めて、で……」	　This is the first time my mask has been praised, so...
 
-159841	Flame Scrivener	「もじもじ、てれてれ……	　Fidget fidget, shy shy...
-159842	+	　やんっ、やんっ……」	　Kyaa, kyaa...」
+159841	Flame Scrivener		「もじもじ、てれてれ……	　Fidget fidget, shy shy...
+159842	+		　やんっ、やんっ……」	　Kyaa, kyaa...」
 
-159843	-	火炎書士は両手で頬を包み、	The Flame Scrivener held her cheeks with both hands
-159844	+	くねくねと体を揺らした。	and twisted her body bashfully.
+159843	-		火炎書士は両手で頬を包み、	The Flame Scrivener held her cheeks with both hands
+159844	+		くねくねと体を揺らした。	and twisted her body bashfully.
 
-159845	Flame Scrivener	「えへへ……可愛いですよね……」	「Ehehe... it's cute right...」
+159845	Flame Scrivener		「えへへ……可愛いですよね……」	「Ehehe... it's cute right...」
 
-159846	Satella~	（あの仮面……	（That mask...
-159847	+	　可愛いつもりでつけてたのか……）	　She wore it thinking it was cute...?）
+159846	Satella~	基本	（あの仮面……	（That mask...
+159847	+		　可愛いつもりでつけてたのか……）	　She wore it thinking it was cute...?）
 
-159848	Flame Scrivener	「はい、火炎ちゃんも人類軍の仲間になるのに、	「Yes, Flame-chan also agrees to joining the human army,
-159849	+	　賛成、賛成、大賛成です」	　approve, approve, super approve.」
+159848	Flame Scrivener		「はい、火炎ちゃんも人類軍の仲間になるのに、	「Yes, Flame-chan also agrees to joining the human army,
+159849	+		　賛成、賛成、大賛成です」	　approve, approve, super approve.」
 
-159850	Flame Scrivener	「火炎の仮面の良さが分かる者が	「A place where no one appreciated the beauty of Flame's mask
-159851	+	　一人もいなかった魔軍なんてポイしましょ」	　like the Monster Army can be thrown away.」
+159850	Flame Scrivener		「火炎の仮面の良さが分かる者が	「A place where no one appreciated the beauty of Flame's mask
+159851	+		　一人もいなかった魔軍なんてポイしましょ」	　like the Monster Army can be thrown away.」
 
-159852	Satella~	（……仮面、褒められたのそんな嬉しかったのか）	（...She was that happy about her mask being praised?）
+159852	Satella~	思考	（……仮面、褒められたのそんな嬉しかったのか）	（...She was that happy about her mask being praised?）
 
-159853	Satella~	（まあ、ハウゼルの知恵袋兼軍師の	（Well, if Hawzel's strategist and advisor Flame Scrivener
-159854	+	　火炎書士が味方になるならそれでいいか……）	　joins us, that's fine...）
+159853	Satella~	基本	（まあ、ハウゼルの知恵袋兼軍師の	（Well, if Hawzel's strategist and advisor Flame Scrivener
+159854	+		　火炎書士が味方になるならそれでいいか……）	　joins us, that's fine...）
 
-159855	Rance	「ところで、お前その仮面は取らんのか？」	「By the way, aren't you going to take that mask off?」
+159855	Rance		「ところで、お前その仮面は取らんのか？」	「By the way, aren't you going to take that mask off?」
 
-159856	Flame Scrivener	「え……？」	「Eh...?」
+159856	Flame Scrivener		「え……？」	「Eh...?」
 
-159857	Rance	「声は可愛いからな、	「Your voice is cute,
-159858	+	　中身次第によっちゃ俺様が可愛がって……」	　depending on what's underneath I might pamper you...」
+159857	Rance		「声は可愛いからな、	「Your voice is cute,
+159858	+		　中身次第によっちゃ俺様が可愛がって……」	　depending on what's underneath I might pamper you...」
 
-159859	Flame Scrivener	「…………やめた方がいいかと」	「............Better not.」
+159859	Flame Scrivener		「…………やめた方がいいかと」	「............Better not.」
 
-159860	Flame Scrivener	「火炎ちゃんの顔は……	「Flame-chan's face is...
-159861	+	　二目と見られないほど、むごたらしく、	　so horribly disfigured
-159862	+	　みじめで、醜く、グロテスクですよ？」	　pitiful, ugly, and grotesque.」
+159860	Flame Scrivener		「火炎ちゃんの顔は……	「Flame-chan's face is...
+159861	+		　二目と見られないほど、むごたらしく、	　so horribly disfigured
+159862	+		　みじめで、醜く、グロテスクですよ？」	　pitiful, ugly, and grotesque.」
 
-159863	Rance	「…………」	「............」
+159863	Rance	真剣	「…………」	「............」
 
-159864	Rance	「……じゃ、いいや」	「...Then never mind.」
+159864	Rance	だる顔	「……じゃ、いいや」	「...Then never mind.」
 
-159865	Flame Scrivener	「はい、その方がいいです」	「Yes, that's better.」
+159865	Flame Scrivener	基本	「はい、その方がいいです」	「Yes, that's better.」
 
-159866	Flame Scrivener	「では、これにてハウゼル様と	「Then, with this Hawzel-sama and
-159867	+	　その使徒火炎書士はめでたく	　her apostle Flame Scrivener have joyfully
-159868	+	　人類軍の仲間入りでーす」	　joined the human armyー」
+159866	Flame Scrivener		「では、これにてハウゼル様と	「Then, with this Hawzel-sama and
+159867	+		　その使徒火炎書士はめでたく	　her apostle Flame Scrivener have joyfully
+159868	+		　人類軍の仲間入りでーす」	　joined the human armyー」
 
-159869	Flame Scrivener	「これから、よろしくお願いします。	「Please take care of us from now on.
-159870	+	　ランスさん」	　Rance-san.」
+159869	Flame Scrivener		「これから、よろしくお願いします。	「Please take care of us from now on.
+159870	+		　ランスさん」	　Rance-san.」
 
-159871	La Hawzel	「ああ……良かった、本当に……」	「Aah... I'm so glad, really...」
+159871	La Hawzel	武装なし／笑顔	「ああ……良かった、本当に……」	「Aah... I'm so glad, really...」
 
-159872	Flame Scrivener	「それでは早速、	「Well then right away,
-159873	+	　火炎ちゃんはちょっと出て行きますね」	　Flame-chan will step out for a bit.」
+159872	Flame Scrivener	基本	「それでは早速、	「Well then right away,
+159873	+		　火炎ちゃんはちょっと出て行きますね」	　Flame-chan will step out for a bit.」
 
-159874	Rance	「ん？　ここにハウゼルと一緒に	「Hm? You're not staying here with Hawzel
-159875	+	　残らないのか？　どこに何しに……」	　where are you going...?」
+159874	Rance		「ん？　ここにハウゼルと一緒に	「Hm? You're not staying here with Hawzel
+159875	+		　残らないのか？　どこに何しに……」	　where are you going...?」
 
-159876	Flame Scrivener	「情報収集です」	「Intelligence gathering.」
+159876	Flame Scrivener		「情報収集です」	「Intelligence gathering.」
 
-159877	Flame Scrivener	「火炎はハウゼル様のように強くないし、	「Flame isn't as strong as Hawzel-sama,
-159878	+	　ユキちゃんみたいにキチガイでもないので、	　nor as crazy as Yuki-chan,
-159879	+	　そういうのが必要なんです……」	　so this kind of work is necessary...」
+159877	Flame Scrivener		「火炎はハウゼル様のように強くないし、	「Flame isn't as strong as Hawzel-sama,
+159878	+		　ユキちゃんみたいにキチガイでもないので、	　nor as crazy as Yuki-chan,
+159879	+		　そういうのが必要なんです……」	　so this kind of work is necessary...」
 
-159880	Flame Scrivener	「あ、ランス総統、ハウゼル様を	「Ah, Supreme Leader Rance, please don't
-159881	+	　魔人退治には連れてかないで下さいね」	　take Hawzel-sama to fight Fiends.」
+159880	Flame Scrivener		「あ、ランス総統、ハウゼル様を	「Ah, Supreme Leader Rance, please don't
+159881	+		　魔人退治には連れてかないで下さいね」	　take Hawzel-sama to fight Fiends.」
 
-159882	Flame Scrivener	「火炎達がケイブリスさんの言うことを	「The reason Flame and the others obeyed Kayblis-san
-159883	+	　素直に聞いていたのは、	　was because
-159884	+	　ホーネット様が人質に取られていたから」	　Hornet-sama was taken hostage.」
+159882	Flame Scrivener		「火炎達がケイブリスさんの言うことを	「The reason Flame and the others obeyed Kayblis-san
+159883	+		　素直に聞いていたのは、	　was because
+159884	+		　ホーネット様が人質に取られていたから」	　Hornet-sama was taken hostage.」
 
-159885	Flame Scrivener	「もし、火炎達が魔軍に弓引いたと	「If Kayblis-san finds out that Flame and the others
-159886	+	　ケイブリスさんにバレたら、ホーネット様が	　betrayed the Monster Army, Hornet-sama
-159887	+	　どうなってしまうか分からないのです」	　might suffer unknown consequences
+159885	Flame Scrivener		「もし、火炎達が魔軍に弓引いたと	「If Kayblis-san finds out that Flame and the others
+159886	+		　ケイブリスさんにバレたら、ホーネット様が	　betrayed the Monster Army, Hornet-sama
+159887	+		　どうなってしまうか分からないのです」	　might suffer unknown consequences
 
-159888	Flame Scrivener	「それはハウゼル様の本意ではありませんし、	「That's not what Hawzel-sama wants,
-159889	+	　サテラ様にとってもそうですよね？」	　and I'm sure it's the same for you Satella-sama?」
+159888	Flame Scrivener		「それはハウゼル様の本意ではありませんし、	「That's not what Hawzel-sama wants,
+159889	+		　サテラ様にとってもそうですよね？」	　and I'm sure it's the same for you Satella-sama?」
 
-159890	Satella	「うん、分かってる。	「Yeah, I understand.
-159891	+	　仲間になっても残念だが、	　It's unfortunate but even as allies,
-159892	+	　ハウゼルは城に残す」	　Hawzel will stay in the castle.」
+159890	Satella		「うん、分かってる。	「Yeah, I understand.
+159891	+		　仲間になっても残念だが、	　It's unfortunate but even as allies,
+159892	+		　ハウゼルは城に残す」	　Hawzel will stay in the castle.」
 
-159893	Rance	「ま、俺様もそれで構わんぞ」	「Well, that's fine with me too.」
+159893	Rance		「ま、俺様もそれで構わんぞ」	「Well, that's fine with me too.」
 
-159894	Rance~	（ハウゼルには戦力としてより、	（More than as a fighting force,
-159895	+	　もーっと大事な仕事があるからな。	　Hawzel has a much more important job.
-159896	+	　ぐふふふ……）	　Gufufufu...）
+159894	Rance~	エロ顔	（ハウゼルには戦力としてより、	（More than as a fighting force,
+159895	+		　もーっと大事な仕事があるからな。	　Hawzel has a much more important job.
+159896	+		　ぐふふふ……）	　Gufufufu...）
 
-159897	Flame Scrivener~	（ん〜……）	（Hmm...）
+159897	Flame Scrivener~	基本	（ん〜……）	（Hmm...）
 
-159898	Flame Scrivener~	（ま、いっか……）	（Well, whatever...）
+159898	Flame Scrivener~		（ま、いっか……）	（Well, whatever...）
 
-159899	Flame Scrivener	「それではハウゼル様、	「Well then Hawzel-sama,
-159900	+	　火炎がいないからって本読むのに夢中で	　even if Flame isn't here, don't stay up all night
-159901	+	　夜更かしなんてしちゃ駄目ですよ？」	　reading books okay?」
+159899	Flame Scrivener		「それではハウゼル様、	「Well then Hawzel-sama,
+159900	+		　火炎がいないからって本読むのに夢中で	　even if Flame isn't here, don't stay up all night
+159901	+		　夜更かしなんてしちゃ駄目ですよ？」	　reading books okay?」
 
-159902	La Hawzel	「ええ、いつもありがとう、火炎」	「Yes, thank you always, Flame.」
+159902	La Hawzel		「ええ、いつもありがとう、火炎」	「Yes, thank you always, Flame.」
 
-159903	Flame Scrivener	「はーい、それでは行ってきまーす」	「Yeees, see you laterー」
+159903	Flame Scrivener		「はーい、それでは行ってきまーす」	「Yeees, see you laterー」
 
-159904	La Hawzel	「ふう、行っちゃった」	「Phew, she's gone.」
+159904	La Hawzel	武装なし	「ふう、行っちゃった」	「Phew, she's gone.」
 
-159905	Satella	「すまないな、ハウゼル。	「Sorry Hawzel.
-159906	+	　しばらくは退屈な日々を過ごしてもらうぞ」	　You'll have to spend some boring days for a while.」
+159905	Satella	基本	「すまないな、ハウゼル。	「Sorry Hawzel.
+159906	+		　しばらくは退屈な日々を過ごしてもらうぞ」	　You'll have to spend some boring days for a while.」
 
-159907	La Hawzel	「あ、それは……	「Ah, about that...
-159908	+	　大丈夫、かも……」	　It should be fine...」
+159907	La Hawzel	武装なし／笑顔	「あ、それは……	「Ah, about that...
+159908	+		　大丈夫、かも……」	　It should be fine...」
 
-159909	-	チラチラそわそわと、	Glancing around restlessly,
-159910	+	ハウゼルは本に視線を送った。	Hawzel kept sending glances toward the books.
+159909	-		チラチラそわそわと、	Glancing around restlessly,
+159910	+		ハウゼルは本に視線を送った。	Hawzel kept sending glances toward the books.
 
-159911	Satella	「ハウゼル、いつかそれで身を滅ぼすぞ……」	「Hawzel, one day that will be your downfall...」
+159911	Satella	思考	「ハウゼル、いつかそれで身を滅ぼすぞ……」	「Hawzel, one day that will be your downfall...」
 
-159912	Rance	「がははは、それではこれからよろしくな！	「Gahahaha, looking forward to working with you from now on!
-159913	+	　ハウゼルちゃん！」	　Hawzel-chan!」
+159912	Rance	基本	「がははは、それではこれからよろしくな！	「Gahahaha, looking forward to working with you from now on!
+159913	+		　ハウゼルちゃん！」	　Hawzel-chan!」
 
-159914	La Hawzel	「はい、人類軍総統、	「Yes, Supreme Leader of the Human Army,
-159915	+	　よろしくお願いします」	　please take care of me.」
+159914	La Hawzel	武装なし／笑顔	「はい、人類軍総統、	「Yes, Supreme Leader of the Human Army,
+159915	+		　よろしくお願いします」	　please take care of me.」

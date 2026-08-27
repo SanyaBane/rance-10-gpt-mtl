@@ -7,182 +7,182 @@
 * Muscle	マッスル	Male
 * Scholar	学者	Male
 
-245664	-	魔物界――	Monster Realm――
-245665	+	ケイブリス城――	Kayblis Castle――
+245664	-		魔物界――	Monster Realm――
+245665	+		ケイブリス城――	Kayblis Castle――
 
-245666	-	ケイブリスの部屋――	Kayblis's Room――
+245666	-		ケイブリスの部屋――	Kayblis's Room――
 
-245667	Stroganoff	「ケイブリス様……」	「Lord Kayblis...」
+245667	Stroganoff	基本	「ケイブリス様……」	「Lord Kayblis...」
 
-245668	Kayblis	「んあ、どした？	「Nnah, what's up?
-245669	+	　お前にしちゃ、随分と慌ててんな」	　You're panicking more than usual.」
+245668	Kayblis		「んあ、どした？	「Nnah, what's up?
+245669	+		　お前にしちゃ、随分と慌ててんな」	　You're panicking more than usual.」
 
-245670	Stroganoff	「魔王の居場所がようやく分かりました」	「We have finally located the Demon King's whereabouts.」
+245670	Stroganoff		「魔王の居場所がようやく分かりました」	「We have finally located the Demon King's whereabouts.」
 
-245671	Stroganoff	「……カオスマスターがいる城です」	「...It's in the castle where the Chaos Master is.」
+245671	Stroganoff		「……カオスマスターがいる城です」	「...It's in the castle where the Chaos Master is.」
 
-245672	Kayblis	「チッ……	「Tch...
-245673	+	　やはり、あそこか……」	　So it really is there...」
+245672	Kayblis		「チッ……	「Tch...
+245673	+		　やはり、あそこか……」	　So it really is there...」
 
-245674	Kayblis	「聖魔教団、つったか？	「The Holy Magic Sect, huh?
-245675	+	　あいつらの遺物を使って、	　They used their relics
-245676	+	　連中城を飛ばしやがったらしいな」	　to make that castle fly.」
+245674	Kayblis		「聖魔教団、つったか？	「The Holy Magic Sect, huh?
+245675	+		　あいつらの遺物を使って、	　They used their relics
+245676	+		　連中城を飛ばしやがったらしいな」	　to make that castle fly.」
 
-245677	Stroganoff	「ええ、どうやら移動は出来ないようですが」	「Yes, but it seems it cannot move.」
+245677	Stroganoff		「ええ、どうやら移動は出来ないようですが」	「Yes, but it seems it cannot move.」
 
-245678	Kayblis	「それがもっけの幸いって奴だぜ。	「That's actually lucky for us.
-245679	+	　動けたらちっとはビビったかもな」	　If it could move I might have been a bit scared.」
+245678	Kayblis		「それがもっけの幸いって奴だぜ。	「That's actually lucky for us.
+245679	+		　動けたらちっとはビビったかもな」	　If it could move I might have been a bit scared.」
 
-245680	Stroganoff	「居場所こそ分かりましたが……	「We know the location but...
-245681	+	　部下に行かせるにはちと苦しい場所ですな」	　it's a harsh place to send subordinates.」
+245680	Stroganoff		「居場所こそ分かりましたが……	「We know the location but...
+245681	+		　部下に行かせるにはちと苦しい場所ですな」	　it's a harsh place to send subordinates.」
 
-245682	Kaybnyan	「んじゃ、どうするにゃん？	「So what will we do-nyan?
-245683	+	　手出し出来ぬにゃんか？」	　Can't we intervene-nyan?」
+245682	Kaybnyan		「んじゃ、どうするにゃん？	「So what will we do-nyan?
+245683	+		　手出し出来ぬにゃんか？」	　Can't we intervene-nyan?」
 
-245684	Kaybwan	「馬鹿ね、方法はまだあるわん。	「Idiot, there is still a way-wan.
-245685	+	　ここはケイブリス様が行けばいいわん」	　Kayblis-sama should just go-wan.」
+245684	Kaybwan		「馬鹿ね、方法はまだあるわん。	「Idiot, there is still a way-wan.
+245685	+		　ここはケイブリス様が行けばいいわん」	　Kayblis-sama should just go-wan.」
 
-245686	Kaybnyan	「おおっ、それはいい案にゃん！	「Ooh, that's a good idea-nyan!
-245687	+	　ケイブリス様が戦えばイチコロにゃん！」	　If Kayblis-sama fights it'll be instant-nyan!」
+245686	Kaybnyan	笑顔	「おおっ、それはいい案にゃん！	「Ooh, that's a good idea-nyan!
+245687	+		　ケイブリス様が戦えばイチコロにゃん！」	　If Kayblis-sama fights it'll be instant-nyan!」
 
-245688	Kayblis	「ヴァァ〜〜〜カ！」	「Idiooooot!」
+245688	Kayblis	基本	「ヴァァ〜〜〜カ！」	「Idiooooot!」
 
-245689	Kayblis	「だぁれが行くかそんな危険な場所」	「Who the hell would go to such a dangerous place.」
+245689	Kayblis		「だぁれが行くかそんな危険な場所」	「Who the hell would go to such a dangerous place.」
 
-245690	Kaybwan	「え、でも……このような状況だと、	「Eh, but... in this situation,
-245691	+	　ケイブリス様が行かないと……」	　if Kayblis-sama doesn't go...」
+245690	Kaybwan		「え、でも……このような状況だと、	「Eh, but... in this situation,
+245691	+		　ケイブリス様が行かないと……」	　if Kayblis-sama doesn't go...」
 
-245692	Kayblis	「このようなも、そのようなもねーよ」	「No 'this situation' or 'that situation'.
+245692	Kayblis		「このようなも、そのようなもねーよ」	「No 'this situation' or 'that situation'.
 
-245693	Kayblis	「確かに連中は俺様からすりゃゴミ同然だ」	「Sure, they're trash to me.
+245693	Kayblis		「確かに連中は俺様からすりゃゴミ同然だ」	「Sure, they're trash to me.
 
-245694	Kayblis	「だが、何度も言ってるだろう」	「But I've said it many times.
+245694	Kayblis		「だが、何度も言ってるだろう」	「But I've said it many times.
 
-245695	Kayblis	「負ける可能性が一ミリでもあれば戦わねぇ」	　I won't fight if there's even a 1mm chance of losing.」
+245695	Kayblis		「負ける可能性が一ミリでもあれば戦わねぇ」	　I won't fight if there's even a 1mm chance of losing.」
 
-245696	Kayblis	「魔人殺しの剣を持ち、魔王を確保している。	「They have the Fiend-slaying sword and the Demon King.
-245697	+	　更に今じゃ昔の魔法使い共みたいに	　And now they even have a flying castle
-245698	+	　空飛ぶ城まで得やがった」	　like the old mages.」
+245696	Kayblis		「魔人殺しの剣を持ち、魔王を確保している。	「They have the Fiend-slaying sword and the Demon King.
+245697	+		　更に今じゃ昔の魔法使い共みたいに	　And now they even have a flying castle
+245698	+		　空飛ぶ城まで得やがった」	　like the old mages.」
 
-245699	Kayblis	「……今なら殺すのは簡単だが、	「...Killing them now would be easy,
-245700	+	　奴ら次は何をしでかすか分かったもんじゃねえ」	　but who knows what they'll do next.」
+245699	Kayblis		「……今なら殺すのは簡単だが、	「...Killing them now would be easy,
+245700	+		　奴ら次は何をしでかすか分かったもんじゃねえ」	　but who knows what they'll do next.」
 
-245701	Kayblis	「奴らの城は動けねぇそうじゃねーか」	「Their castle can't move, right?」
+245701	Kayblis		「奴らの城は動けねぇそうじゃねーか」	「Their castle can't move, right?」
 
-245702	Kayblis	「なら……放っておくのが得策ってもんだぜ」	「Then... ignoring them is the best move.」
+245702	Kayblis		「なら……放っておくのが得策ってもんだぜ」	「Then... ignoring them is the best move.」
 
-245703	Kayblis	「発想を逆転させりゃ、	「If you reverse your thinking,
-245704	+	　奴らは空に閉じ込められてるようなもんだしな」	　they're basically trapped in the sky.」
+245703	Kayblis		「発想を逆転させりゃ、	「If you reverse your thinking,
+245704	+		　奴らは空に閉じ込められてるようなもんだしな」	　they're basically trapped in the sky.」
 
-245705	Kaybnyan	「えー、でもでも、なんだか格好悪いにゃん」	「Ehh, but but, that feels uncool-nyan.」
+245705	Kaybnyan	ブーたれ	「えー、でもでも、なんだか格好悪いにゃん」	「Ehh, but but, that feels uncool-nyan.」
 
-245706	Kaybwan	「ぷー……	「Puu...
-245707	+	　ケイブリス様が格好良く	　I want to see Kayblis-sama
-245708	+	　人間蹴散らすとこ見たいわん……」	　coolly kicking around humans...」
+245706	Kaybwan	講釈たれ	「ぷー……	「Puu...
+245707	+		　ケイブリス様が格好良く	　I want to see Kayblis-sama
+245708	+		　人間蹴散らすとこ見たいわん……」	　coolly kicking around humans...」
 
-245709	Kayblis	「馬ー鹿、戦いに格好いいも悪いもあるか」	「Idiiiot, there's no cool or uncool in war.
+245709	Kayblis	基本	「馬ー鹿、戦いに格好いいも悪いもあるか」	「Idiiiot, there's no cool or uncool in war.
 
-245710	Kayblis	「国をぜーんぶ滅ぼして奴らに力がなくなった後、	　After destroying all their countries and stripping their power,
-245711	+	　ゆーっくり魔王を回収する。	　we'll slowly retrieve the Demon King.
-245712	+	　これっきゃねー」	　That's the only way.」
+245710	Kayblis		「国をぜーんぶ滅ぼして奴らに力がなくなった後、	　After destroying all their countries and stripping their power,
+245711	+		　ゆーっくり魔王を回収する。	　we'll slowly retrieve the Demon King.
+245712	+		　これっきゃねー」	　That's the only way.」
 
-245713	Stroganoff	「ですが、ケイブリス様。	「However, Lord Kayblis.
-245714	+	　今回に限り一つの懸念が……」	　There is one concern this time...」
+245713	Stroganoff		「ですが、ケイブリス様。	「However, Lord Kayblis.
+245714	+		　今回に限り一つの懸念が……」	　There is one concern this time...」
 
-245715	Kayblis	「あー！　うっせうっせ！	「Ah! Shut up shut up!
-245716	+	　話はこれで終わりだ！」	　Conversation over!」
+245715	Kayblis		「あー！　うっせうっせ！	「Ah! Shut up shut up!
+245716	+		　話はこれで終わりだ！」	　Conversation over!」
 
-245717	Kayblis	「おう、シャリエラ、飯だ飯！	「Oi, Shariela, food! Food!
-245718	+	　飯の用意しろ！」	　Prepare the meal!」
+245717	Kayblis		「おう、シャリエラ、飯だ飯！	「Oi, Shariela, food! Food!
+245718	+		　飯の用意しろ！」	　Prepare the meal!」
 
-245719	Shariela	「はい、シャリエラ、飯の用意します」	「Yes, Shariela will prepare the meal.」
+245719	Shariela		「はい、シャリエラ、飯の用意します」	「Yes, Shariela will prepare the meal.」
 
-245720	-	のっしのっしと、ケイブリスは	Thump thump, Kayblis
-245721	+	ストロガノフを置いて行ってしまった。	left Stroganoff behind.
+245720	-		のっしのっしと、ケイブリスは	Thump thump, Kayblis
+245721	+		ストロガノフを置いて行ってしまった。	left Stroganoff behind.
 
-245722	Stroganoff	「むう……」	「Muu...」
+245722	Stroganoff		「むう……」	「Muu...」
 
-245723	-	…………	............
+245723	-		…………	............
 
-245724	-	……	......
+245724	-		……	......
 
-245725	Muscle	「なぁ〜るほど、	「I see,
-245726	+	　それで俺らに話が来たわけか」	　so that's why the talk came to us.」
+245725	Muscle		「なぁ〜るほど、	「I see,
+245726	+		　それで俺らに話が来たわけか」	　so that's why the talk came to us.」
 
-245727	-	ストロガノフはマエリータ隊を	Stroganoff had called the Maelita Squad
-245728	+	自室に呼んでいた。	to his own room.
+245727	-		ストロガノフはマエリータ隊を	Stroganoff had called the Maelita Squad
+245728	+		自室に呼んでいた。	to his own room.
 
-245729	Stroganoff	「うむ、マエリータ隊の皆には、	「Yes, for the Maelita Squad,
-245730	+	　今回の任務、非常に危険なものとなるだろう」	　this mission will be extremely dangerous.」
+245729	Stroganoff		「うむ、マエリータ隊の皆には、	「Yes, for the Maelita Squad,
+245730	+		　今回の任務、非常に危険なものとなるだろう」	　this mission will be extremely dangerous.」
 
-245731	Muscle	「はっ、構わねぇよ！	「Hah, I don't mind!
-245732	+	　なんたって――」	　After all――」
+245731	Muscle		「はっ、構わねぇよ！	「Hah, I don't mind!
+245732	+		　なんたって――」	　After all――」
 
-245733	Muscle	「空飛ぶランス城に侵入！	「Invade the flying Rance Castle!
-245734	+	　――そして、魔王の奪還！」	　――And retrieve the Demon King!」
+245733	Muscle		「空飛ぶランス城に侵入！	「Invade the flying Rance Castle!
+245734	+		　――そして、魔王の奪還！」	　――And retrieve the Demon King!」
 
-245735	Muscle	「はははは、こんな面白い任務そうはない！	「Hahahaha, there aren't many missions this fun!
-245736	+	　なかなか滾るじゃねぇか！」	　I'm getting fired up!」
+245735	Muscle		「はははは、こんな面白い任務そうはない！	「Hahahaha, there aren't many missions this fun!
+245736	+		　なかなか滾るじゃねぇか！」	　I'm getting fired up!」
 
-245737	Stroganoff	「…………」	「............」
+245737	Stroganoff		「…………」	「............」
 
-245738	-	ストロガノフは重たげに口を開いた。	Stroganoff opened his mouth heavily.
+245738	-		ストロガノフは重たげに口を開いた。	Stroganoff opened his mouth heavily.
 
-245739	Stroganoff	「ケイブリス様は問題なしと仰るが……	「Lord Kayblis says there's no problem but...
-245740	+	　魔王が覚醒しないこの状況、	　In this situation where the Demon King hasn't awakened,
-245741	+	　儂にはいつまでも続くとは思えん」	　I don't think it will last forever.」
+245739	Stroganoff		「ケイブリス様は問題なしと仰るが……	「Lord Kayblis says there's no problem but...
+245740	+		　魔王が覚醒しないこの状況、	　In this situation where the Demon King hasn't awakened,
+245741	+		　儂にはいつまでも続くとは思えん」	　I don't think it will last forever.」
 
-245742	Stroganoff	「どんな損害を出してでも、	「No matter the damage,
-245743	+	　魔王を見つけたら奪還するべき、である」	　we should retrieve the Demon King when found.」
+245742	Stroganoff		「どんな損害を出してでも、	「No matter the damage,
+245743	+		　魔王を見つけたら奪還するべき、である」	　we should retrieve the Demon King when found.」
 
-245744	Muscle	「ま、そこに関しちゃその通りだろうな」	「Well, that's true on that point.」
+245744	Muscle		「ま、そこに関しちゃその通りだろうな」	「Well, that's true on that point.」
 
-245745	Scholar	「ええ……	「Yes...
-245746	+	　それよりも気になるのは、	　More concerning is
-245747	+	　ストロガノフ様の立場です」	　your position, Lord Stroganoff.」
+245745	Scholar		「ええ……	「Yes...
+245746	+		　それよりも気になるのは、	　More concerning is
+245747	+		　ストロガノフ様の立場です」	　your position, Lord Stroganoff.」
 
-245748	Muscle	「だな。ケイブリスの意に反する独断だ。	「Yeah. It's going against Kayblis's will.
-245749	+	　奴の為とは言え後で仕置きを受けかねねぇ」	　Even for his sake, you might get punished later.
+245748	Muscle		「だな。ケイブリスの意に反する独断だ。	「Yeah. It's going against Kayblis's will.
+245749	+		　奴の為とは言え後で仕置きを受けかねねぇ」	　Even for his sake, you might get punished later.
 
-245750	Stroganoff	「全て承知の上」	「I'm fully aware.」
+245750	Stroganoff		「全て承知の上」	「I'm fully aware.」
 
-245751	Muscle	「……そこまで奴に忠誠を誓う必要あるのかね」	「...Do you really need to swear that much loyalty to him?」
+245751	Muscle		「……そこまで奴に忠誠を誓う必要あるのかね」	「...Do you really need to swear that much loyalty to him?」
 
-245752	Stroganoff	「なに？」	「What?」
+245752	Stroganoff		「なに？」	「What?」
 
-245753	Muscle	「あんたにだって分かってるんじゃないのか？	「Don't you already know?
-245754	+	　奴はあんたが忠を誓うような器じゃ……」	　He's not a vessel worthy of your loyalty...
+245753	Muscle		「あんたにだって分かってるんじゃないのか？	「Don't you already know?
+245754	+		　奴はあんたが忠を誓うような器じゃ……」	　He's not a vessel worthy of your loyalty...
 
-245755	Stroganoff	「マッスル！」	「Muscle!」
+245755	Stroganoff		「マッスル！」	「Muscle!」
 
-245756	Muscle	「……っ！？」	「...!?」
+245756	Muscle		「……っ！？」	「...!?」
 
-245757	-	雷鳴のようにストロガノフの怒声が轟く。	Stroganoff's angry voice thundered like lightning.
+245757	-		雷鳴のようにストロガノフの怒声が轟く。	Stroganoff's angry voice thundered like lightning.
 
-245758	Stroganoff	「それ以上の暴言は……儂が許さん」	「Any more insults... I will not allow.」
+245758	Stroganoff		「それ以上の暴言は……儂が許さん」	「Any more insults... I will not allow.」
 
-245759	Muscle	「……あ……ああ」	「...A... ah.」
+245759	Muscle		「……あ……ああ」	「...A... ah.」
 
-245760	-	マッスルが思わず唾を呑む。	Muscle swallowed hard.
+245760	-		マッスルが思わず唾を呑む。	Muscle swallowed hard.
 
-245761	-	その低い声には、	That low voice held
-245762	+	彼が魔物最強と呼ばれた時代を	the dignity from when he was called the strongest monster.
-245763	+	思い出させるに十分な威厳があった。	It was enough to remind them of that era.
+245761	-		その低い声には、	That low voice held
+245762	+		彼が魔物最強と呼ばれた時代を	the dignity from when he was called the strongest monster.
+245763	+		思い出させるに十分な威厳があった。	It was enough to remind them of that era.
 
-245764	Stroganoff	「ふっ、まだ青いな」	「Fuh, you're still young.」
+245764	Stroganoff		「ふっ、まだ青いな」	「Fuh, you're still young.」
 
-245765	Muscle	「な、なに？　なんだって？」	「W-what? What do you mean?」
+245765	Muscle		「な、なに？　なんだって？」	「W-what? What do you mean?」
 
-245766	Stroganoff	「お前はあの方の真の器を	「You are doubting
-245767	+	　計りかねていると言ったのだ」	　his true caliber.」
+245766	Stroganoff		「お前はあの方の真の器を	「You are doubting
+245767	+		　計りかねていると言ったのだ」	　his true caliber.」
 
-245768	Muscle	「……そんなもんかね」	「...Is that so.」
+245768	Muscle		「……そんなもんかね」	「...Is that so.」
 
-245769	Scholar	「とにかく、話は分かりました」	「Anyway, we understand the situation.」
+245769	Scholar		「とにかく、話は分かりました」	「Anyway, we understand the situation.」
 
-245770	Scholar	「後は私達にお任せ下さい」	「Leave the rest to us.」
+245770	Scholar		「後は私達にお任せ下さい」	「Leave the rest to us.」
 
-245771	-	ケイブリスの居城から、	From Kayblis's castle,
-245772	+	マエリータ隊が出動する。	the Maelita Squad set out.
+245771	-		ケイブリスの居城から、	From Kayblis's castle,
+245772	+		マエリータ隊が出動する。	the Maelita Squad set out.
 
-245773	-	人間界のランス城を目指して。	Heading for Rance Castle in the human world.
+245773	-		人間界のランス城を目指して。	Heading for Rance Castle in the human world.

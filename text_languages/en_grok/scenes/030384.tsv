@@ -3,91 +3,91 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Kobayakawa Chinu	ちぬ	Female
 
-4193	-	――ランス達は、逃亡していた。	――Rance and the others were fleeing.
+4193	-		――ランス達は、逃亡していた。	――Rance and the others were fleeing.
 
-4194	Rance	「くっそ、がっ！　数が多すぎるぞっ……！」	「Damn it! There are too many of them......!」
+4194	Rance	怒り	「くっそ、がっ！　数が多すぎるぞっ……！」	「Damn it! There are too many of them......!」
 
-4195	-	全員が散り散りになっての逃走劇。	Everyone was scattered in the escape.
-4196	+	気づけば、周囲に人の気配は無かった。	Before he knew it, there was no sign of anyone around.
+4195	-		全員が散り散りになっての逃走劇。	Everyone was scattered in the escape.
+4196	+		気づけば、周囲に人の気配は無かった。	Before he knew it, there was no sign of anyone around.
 
-4197	Rance	「くそっ、シィル！　かなみ！　サテラ！	「Shit, Sill! Kanami! Satella!
-4198	+	　ええい、どいつもこいつもはぐれやがって……！」	　Damn it, everyone got separated......!」
+4197	Rance		「くそっ、シィル！　かなみ！　サテラ！	「Shit, Sill! Kanami! Satella!
+4198	+		　ええい、どいつもこいつもはぐれやがって……！」	　Damn it, everyone got separated......!」
 
-4199	Green Monster Soldier	「んん？　今、何か…………」	「Nn? Did I just hear something......」
+4199	Green Monster Soldier	基本	「んん？　今、何か…………」	「Nn? Did I just hear something......」
 
-4200	Rance	「ぐっ……！」	「Guh......!」
+4200	Rance	イライラ	「ぐっ……！」	「Guh......!」
 
-4201	-	疲労困憊の身体をおして、草むらに転がり込む。	Forcing his exhausted body, he rolled into the bushes.
+4201	-		疲労困憊の身体をおして、草むらに転がり込む。	Forcing his exhausted body, he rolled into the bushes.
 
-4202	Green Monster Soldier	「…………気のせいか……」	「............Must have been my imagination......」
+4202	Green Monster Soldier	基本	「…………気のせいか……」	「............Must have been my imagination......」
 
-4203	Rance	「ちっ、雑魚が……」	「Tch, weaklings......」
+4203	Rance	イライラ	「ちっ、雑魚が……」	「Tch, weaklings......」
 
-4204	Kobayakawa Chinu	「ばあ」	「Boo.」
+4204	Kobayakawa Chinu	でろ	「ばあ」	「Boo.」
 
-4205	Rance	「うっ、うおおおおおっ！？」	「Uwah, uoooooh!?」
+4205	Rance	驚き	「うっ、うおおおおおっ！？」	「Uwah, uoooooh!?」
 
-4206	Green Monster Soldier	「んん……？」	「Nn......?」
+4206	Green Monster Soldier	基本	「んん……？」	「Nn......?」
 
-4207	-	いきなり出てきたちぬをとっさに草むらに	Rance quickly pulled the suddenly appearing Chinu
-4208	+	引きずり込んで、ランスは息を殺した。	into the bushes and held his breath.
+4207	-		いきなり出てきたちぬをとっさに草むらに	Rance quickly pulled the suddenly appearing Chinu
+4208	+		引きずり込んで、ランスは息を殺した。	into the bushes and held his breath.
 
-4209	Green Monster Soldier	「いないなあ……ううーん、疲れてるかなー」	「Not here...... Hmm, maybe I'm tired.」
+4209	Green Monster Soldier		「いないなあ……ううーん、疲れてるかなー」	「Not here...... Hmm, maybe I'm tired.」
 
-4210	Rance	「ふぅ……敵がアホで助かった」	「Phew...... Lucky the enemy is stupid.」
+4210	Rance	だる顔	「ふぅ……敵がアホで助かった」	「Phew...... Lucky the enemy is stupid.」
 
-4211	Kobayakawa Chinu	「ドキドキだねっ……♪」	「That was exciting......♪」
+4211	Kobayakawa Chinu	基本	「ドキドキだねっ……♪」	「That was exciting......♪」
 
-4212	Rance	「こういう時に悪い冗談はよせ。	「Don't make bad jokes at a time like this.
-4213	+	　ちっとヤバイ状況だからな」	　This is a pretty dangerous situation.」
+4212	Rance	真剣	「こういう時に悪い冗談はよせ。	「Don't make bad jokes at a time like this.
+4213	+		　ちっとヤバイ状況だからな」	　This is a pretty dangerous situation.」
 
-4214	Kobayakawa Chinu	「うんうん。楽しいね……♪」	「Yeah yeah. It's fun......♪」
+4214	Kobayakawa Chinu	基本	「うんうん。楽しいね……♪」	「Yeah yeah. It's fun......♪」
 
-4215	Rance	「…………あのなあ」	「......Hey now.」
+4215	Rance	だる顔	「…………あのなあ」	「......Hey now.」
 
-4216	Kobayakawa Chinu	「ランスたまは、楽しくない？」	「Rance-tama, aren't you having fun?」
+4216	Kobayakawa Chinu	基本	「ランスたまは、楽しくない？」	「Rance-tama, aren't you having fun?」
 
-4217	Rance	「楽しくない。	「I'm not.
-4218	+	　はぐれた愚か者どもも捜さにゃならんし、	　I have to find the idiots who got separated,
-4219	+	　魔物どもの数は多すぎる」	　and there are way too many monsters.」
+4217	Rance	真剣	「楽しくない。	「I'm not.
+4218	+		　はぐれた愚か者どもも捜さにゃならんし、	　I have to find the idiots who got separated,
+4219	+		　魔物どもの数は多すぎる」	　and there are way too many monsters.」
 
-4220	Kobayakawa Chinu	「いいね。生きてる感じするね」	「That's nice. It feels like being alive.」
+4220	Kobayakawa Chinu	基本	「いいね。生きてる感じするね」	「That's nice. It feels like being alive.」
 
-4221	Rance	「……ったく、毛利の連中は…………」	「......Good grief, these Mouri people......」
+4221	Rance	だる顔	「……ったく、毛利の連中は…………」	「......Good grief, these Mouri people......」
 
-4222	Kobayakawa Chinu	「だって、死んでたら分かんないよ？　ぜんぶ」	「Because if you're dead, you can't feel anything at all.」
+4222	Kobayakawa Chinu	基本	「だって、死んでたら分かんないよ？　ぜんぶ」	「Because if you're dead, you can't feel anything at all.」
 
-4223	Rance	「ぬ…………」	「Nu............」
+4223	Rance	真剣	「ぬ…………」	「Nu............」
 
-4224	Kobayakawa Chinu	「ちぬ、死んじゃったときは、ふわーっとして……	「When Chinu died, it was all floaty......
-4225	+	　痛くも苦しくもなかったけど……」	　It didn't hurt or feel bad but......」
+4224	Kobayakawa Chinu	基本	「ちぬ、死んじゃったときは、ふわーっとして……	「When Chinu died, it was all floaty......
+4225	+		　痛くも苦しくもなかったけど……」	　It didn't hurt or feel bad but......」
 
-4226	Kobayakawa Chinu	「でも、ちっとも楽しくなかったよ。	「But it wasn't fun at all.
-4227	+	　嬉しくもなかった」	　I wasn't happy.」
+4226	Kobayakawa Chinu		「でも、ちっとも楽しくなかったよ。	「But it wasn't fun at all.
+4227	+		　嬉しくもなかった」	　I wasn't happy.」
 
-4228	Kobayakawa Chinu	「ちぬは、今の方がいいな……って☆」	「Chinu likes now much better......☆」
+4228	Kobayakawa Chinu		「ちぬは、今の方がいいな……って☆」	「Chinu likes now much better......☆」
 
-4229	Rance	「……………………」	「........................」
+4229	Rance	真剣	「……………………」	「........................」
 
-4230	Rance	「まったく仕方がないな。	「What a pain.
-4231	+	　ちぬちゃんがそう言うならそれでいいか」	　If Chinu-chan says so, then fine.」
+4230	Rance	基本	「まったく仕方がないな。	「What a pain.
+4231	+		　ちぬちゃんがそう言うならそれでいいか」	　If Chinu-chan says so, then fine.」
 
-4232	Kobayakawa Chinu	「ちぬ、ランスたまはいつものランスたまが	「Chinu likes the usual Rance-tama
-4233	+	　一番好きかな☆」	　the best☆」
+4232	Kobayakawa Chinu		「ちぬ、ランスたまはいつものランスたまが	「Chinu likes the usual Rance-tama
+4233	+		　一番好きかな☆」	　the best☆」
 
-4234	Rance	「ふんっ……がははははははは！	「Hmph...... Gahahahahahaha!
-4235	+	　まったく、世話の焼ける奴らの分まで	　Looks like I have to take care of
-4236	+	　俺様がやらなきゃならんということか！」	　all these troublesome people!」
+4234	Rance	笑顔	「ふんっ……がははははははは！	「Hmph...... Gahahahahahaha!
+4235	+		　まったく、世話の焼ける奴らの分まで	　Looks like I have to take care of
+4236	+		　俺様がやらなきゃならんということか！」	　all these troublesome people!」
 
-4237	Green Monster Soldier	「あっ…………！？　人間……」	「Ah......!? Humans......」
+4237	Green Monster Soldier	基本	「あっ…………！？　人間……」	「Ah......!? Humans......」
 
-4238	Rance	「やかましいわ！	「Shut up!
-4239	+	　ラーーーンスアッタタターーーック！」	　Raaaaance Attack!」
+4238	Rance	怒り	「やかましいわ！	「Shut up!
+4239	+		　ラーーーンスアッタタターーーック！」	　Raaaaance Attack!」
 
-4240	Rance	「さっさと合流するぞ！	「Let's regroup quickly!
-4241	+	　邪魔する奴は皆殺しだ！」	　Kill anyone who gets in the way!」
+4240	Rance	基本	「さっさと合流するぞ！	「Let's regroup quickly!
+4241	+		　邪魔する奴は皆殺しだ！」	　Kill anyone who gets in the way!」
 
-4242	Kobayakawa Chinu	「きゃーーーっ。	「Kyaaaー.
-4243	+	　ちぬも紅茶、たっくさん飲ませちゃう……☆」	　Chinu will serve lots of tea too......☆」
+4242	Kobayakawa Chinu		「きゃーーーっ。	「Kyaaaー.
+4243	+		　ちぬも紅茶、たっくさん飲ませちゃう……☆」	　Chinu will serve lots of tea too......☆」
 
-4244	-	二人は包囲網を、強行突破していった。	The two broke through the encirclement by force.
+4244	-		二人は包囲網を、強行突破していった。	The two broke through the encirclement by force.

@@ -15,327 +15,327 @@
 * Leazas Black Soldier	汎用リーザス黒兵	Male
 * Chaka Cadmium	チャカ	?
 
-168005	-	朝、軍司令部で、	In the morning at the military headquarters,
-168006	+	ランスが主要メンバーを呼んでいた。	Rance had called the main members together.
+168005	-		朝、軍司令部で、	In the morning at the military headquarters,
+168006	+		ランスが主要メンバーを呼んでいた。	Rance had called the main members together.
 
-168007	Rance	「よしよし、ちゃんと集まってるな」	「Good good, everyone's here properly.」
+168007	Rance	基本	「よしよし、ちゃんと集まってるな」	「Good good, everyone's here properly.」
 
-168008	Sill Plain	「あのー、ランス様。	「Um, Rance-sama.
-168009	+	　今日はなんで皆さんを集めたのでしょう？」	　Why did you gather everyone today?」
+168008	Sill Plain	考え中	「あのー、ランス様。	「Um, Rance-sama.
+168009	+		　今日はなんで皆さんを集めたのでしょう？」	　Why did you gather everyone today?」
 
-168010	Rance	「うむ、頼りになる仲間を紹介する為だ」	「Yes, to introduce a reliable new comrade.」
+168010	Rance	基本	「うむ、頼りになる仲間を紹介する為だ」	「Yes, to introduce a reliable new comrade.」
 
-168011	Barres Province	「仲間……ですかな？」	「A comrade... you say?」
+168011	Barres Province		「仲間……ですかな？」	「A comrade... you say?」
 
-168012	Rance	「その名も、魔人レキシントンだ」	「Her name is the Fiend Lexington.」
+168012	Rance		「その名も、魔人レキシントンだ」	「Her name is the Fiend Lexington.」
 
-168013	Barres Province	「な、なんですと！？」	「Wh-what did you say!?」
+168013	Barres Province	テンション上げ	「な、なんですと！？」	「Wh-what did you say!?」
 
-168014	Sill Plain	「魔人さんが仲間になるんですか！？」	「A Fiend is joining us as a comrade!?」
+168014	Sill Plain	慌て	「魔人さんが仲間になるんですか！？」	「A Fiend is joining us as a comrade!?」
 
-168015	Rance	「入ってこい、レキシントン！」	「Come in, Lexington!」
+168015	Rance	基本	「入ってこい、レキシントン！」	「Come in, Lexington!」
 
-168016	Nimitz Leak	「は、はぁぁい……」	「Y-yes......」
+168016	Nimitz Leak	ノーマル	「は、はぁぁい……」	「Y-yes......」
 
-168017	Barres Province	「ほ……？」	「Ho...?」
+168017	Barres Province	基本	「ほ……？」	「Ho...?」
 
-168018	-	ニミッツが室内に入る。	Nimitz entered the room.
+168018	-		ニミッツが室内に入る。	Nimitz entered the room.
 
-168019	Rance	「こいつがレキシントンこと、	「This is Lexington, also known as
-168020	+	　ニミッツちゃんだ」	　Nimitz-chan.」
+168019	Rance		「こいつがレキシントンこと、	「This is Lexington, also known as
+168020	+		　ニミッツちゃんだ」	　Nimitz-chan.」
 
-168021	Barres Province	「こ、この……娘さんが、ですかな……？」	「Th-this... young lady...?」
+168021	Barres Province		「こ、この……娘さんが、ですかな……？」	「Th-this... young lady...?」
 
-168022	-	その場にいた者達の視線が一斉に自身に集まり、	All eyes in the room focused on her at once,
-168023	+	ニミッツは縮み上がった。	and Nimitz shrank back in fear.
+168022	-		その場にいた者達の視線が一斉に自身に集まり、	All eyes in the room focused on her at once,
+168023	+		ニミッツは縮み上がった。	and Nimitz shrank back in fear.
 
-168024	Nimitz Leak	「あ、う……あう……」	「A, u... au...」
+168024	Nimitz Leak	ノーマル／照れ	「あ、う……あう……」	「A, u... au...」
 
-168025	-	スススとニミッツがランスの背に隠れた。	Nimitz quietly slipped behind Rance's back.
+168025	-		スススとニミッツがランスの背に隠れた。	Nimitz quietly slipped behind Rance's back.
 
-168026	Rick Addison	「ランス殿……これは一体……？」	「Rance-dono... what exactly is this...?」
+168026	Rick Addison	真剣	「ランス殿……これは一体……？」	「Rance-dono... what exactly is this...?」
 
-168027	Nimitz Leak	「ひっ――！　あのときの――！」	「Hii一! It's that time一!」
+168027	Nimitz Leak	ノーマル／照れ	「ひっ――！　あのときの――！」	「Hii一! It's that time一!」
 
-168028	-	ニミッツが完全にランスの背に隠れてしまった。	Nimitz completely hid behind Rance's back.
+168028	-		ニミッツが完全にランスの背に隠れてしまった。	Nimitz completely hid behind Rance's back.
 
-168029	Rance	「馬鹿者！　ニミッツを怖がらせるんじゃない！	「You idiots! Don't scare Nimitz!
-168030	+	　お前はただでさえ威圧的な	　Your appearance is already intimidating enough
-168031	+	　格好なんだから気をつけろ！」	　so be careful!」
+168029	Rance	怒り	「馬鹿者！　ニミッツを怖がらせるんじゃない！	「You idiots! Don't scare Nimitz!
+168030	+		　お前はただでさえ威圧的な	　Your appearance is already intimidating enough
+168031	+		　格好なんだから気をつけろ！」	　so be careful!」
 
-168032	Rick Addison	「あ、も、申し訳ありません……！」	「Ah, s-sorry...!」
+168032	Rick Addison	真剣	「あ、も、申し訳ありません……！」	「Ah, s-sorry...!」
 
-168033	Rance	「ほーれ、出てこい、ニミッツ。	「There there, come out Nimitz.
-168034	+	　皆に挨拶するのだ」	　Greet everyone.」
+168033	Rance	基本	「ほーれ、出てこい、ニミッツ。	「There there, come out Nimitz.
+168034	+		　皆に挨拶するのだ」	　Greet everyone.」
 
-168035	Nimitz Leak	「う……は、はい……」	「U... y-yes...」
+168035	Nimitz Leak	ノーマル／照れ	「う……は、はい……」	「U... y-yes...」
 
-168036	Nimitz Leak~	（こ、怖いけど……ランスさんの為……	（I-I'm scared... but for Rance-san's sake...
-168037	+	　ががが、頑張らないと……）	　I-I have to do my best...）
+168036	Nimitz Leak~		（こ、怖いけど……ランスさんの為……	（I-I'm scared... but for Rance-san's sake...
+168037	+		　ががが、頑張らないと……）	　I-I have to do my best...）
 
-168038	Melfeis Promenade	「ニミッツ、大丈夫。怖がらないで」	「Nimitz, it's okay. Don't be scared.」
+168038	Melfeis Promenade	基本	「ニミッツ、大丈夫。怖がらないで」	「Nimitz, it's okay. Don't be scared.」
 
-168039	Melfeis Promenade	「見ているから」	「I'll be watching.」
+168039	Melfeis Promenade		「見ているから」	「I'll be watching.」
 
-168040	Nimitz Leak	「あ……先生……」	「Ah... Teacher...」
+168040	Nimitz Leak	ノーマル	「あ……先生……」	「Ah... Teacher...」
 
-168041	-	ホッと安堵の息を漏らしてから、	After letting out a relieved breath,
-168042	+	ニミッツは喋り始めた。	Nimitz began to speak.
+168041	-		ホッと安堵の息を漏らしてから、	After letting out a relieved breath,
+168042	+		ニミッツは喋り始めた。	Nimitz began to speak.
 
-168043	Nimitz Leak	「は、初め、まして……」	「N-nice to meet you...」
+168043	Nimitz Leak		「は、初め、まして……」	「N-nice to meet you...」
 
-168044	Nimitz Leak	「魔人の、れ、レキシントン……です」	「I-I'm the Fiend, L-Lexington...」
+168044	Nimitz Leak		「魔人の、れ、レキシントン……です」	「I-I'm the Fiend, L-Lexington...」
 
-168045	-	つっかえつっかえでなんとか喋り、	Stuttering and struggling, she somehow spoke,
-168046	+	ニミッツはぺこりと頭を下げた。	and Nimitz gave a small bow.
+168045	-		つっかえつっかえでなんとか喋り、	Stuttering and struggling, she somehow spoke,
+168046	+		ニミッツはぺこりと頭を下げた。	and Nimitz gave a small bow.
 
-168047	Rance	「と、いうわけだ。	「And that's how it is.
-168048	+	　お前ら仲良くしろよ」	　Get along with her, you guys.」
+168047	Rance	基本	「と、いうわけだ。	「And that's how it is.
+168048	+		　お前ら仲良くしろよ」	　Get along with her, you guys.」
 
-168049	Barres Province	「そのぅ……	「Um...
-168050	+	　仰る意味が飲み込めませぬ……	　I don't quite understand what you mean...
-168051	+	　これはいったい……」	　What exactly is...」
+168049	Barres Province		「そのぅ……	「Um...
+168050	+		　仰る意味が飲み込めませぬ……	　I don't quite understand what you mean...
+168051	+		　これはいったい……」	　What exactly is...」
 
-168052	Satella	「いや……確かに魔人だ、そいつ」	「No... she really is a Fiend.」
+168052	Satella	不安	「いや……確かに魔人だ、そいつ」	「No... she really is a Fiend.」
 
-168053	Barres Province	「なんですと？」	「What did you say?」
+168053	Barres Province	基本	「なんですと？」	「What did you say?」
 
-168054	Satella	「サテラの目にもただの人間にしか見えないが……	「Even to my eyes she looks like a normal human but...
-168055	+	　よぉーく意識して見ると……」	　if I focus really hard...」
+168054	Satella	不安	「サテラの目にもただの人間にしか見えないが……	「Even to my eyes she looks like a normal human but...
+168055	+		　よぉーく意識して見ると……」	　if I focus really hard...」
 
-168056	Chaos	「微弱だが……魔人の気配は感じるのう……	「It's faint but... I can sense the presence of a Fiend...
-168057	+	　こんなの儂も初めて見た」	　This is the first time I've seen something like this.」
+168056	Chaos	基本	「微弱だが……魔人の気配は感じるのう……	「It's faint but... I can sense the presence of a Fiend...
+168057	+		　こんなの儂も初めて見た」	　This is the first time I've seen something like this.」
 
-168058	Rance	「うむ、彼女はレキシントンの魔血魂を飲んだ	「Yes, she is a normal girl who drank Lexington's Demonic Blood Soul.」
-168059	+	　普通の女の子だ」	
+168058	Rance		「うむ、彼女はレキシントンの魔血魂を飲んだ	「Yes, she is a normal girl who drank Lexington's Demonic Blood Soul.」
+168059	+		　普通の女の子だ」	
 
-168060	Rance	「ちなみに人間状態と魔人状態、	「By the way she can switch between human form and Fiend form,
-168061	+	　どっちにもなれるぞ、すごいだろう」	　it's amazing right.」
+168060	Rance		「ちなみに人間状態と魔人状態、	「By the way she can switch between human form and Fiend form,
+168061	+		　どっちにもなれるぞ、すごいだろう」	　it's amazing right.」
 
-168062	Barres Province	「なんと……」	「Incredible...」
+168062	Barres Province		「なんと……」	「Incredible...」
 
-168063	Chaos	「それは多分……	「That probably means...
-168064	+	　魔血魂が完全に定着しとらんのやね」	　the Demonic Blood Soul hasn't fully settled in her yet.」
+168063	Chaos		「それは多分……	「That probably means...
+168064	+		　魔血魂が完全に定着しとらんのやね」	　the Demonic Blood Soul hasn't fully settled in her yet.」
 
-168065	Barres Province	「しかし、その……	「However...
-168066	+	　どうして魔人が我らの味方に……」	　why would a Fiend be on our side...」
+168065	Barres Province		「しかし、その……	「However...
+168066	+		　どうして魔人が我らの味方に……」	　why would a Fiend be on our side...」
 
-168067	Rance	「まあ、その辺の説明は長くなるから	「Well, that explanation will take a while
-168068	+	　後でするとして、だ」	　so I'll explain later.」
+168067	Rance	真剣	「まあ、その辺の説明は長くなるから	「Well, that explanation will take a while
+168068	+		　後でするとして、だ」	　so I'll explain later.」
 
-168069	Rance	「もう魔軍は戦場に集まっているか」	「Has the Monster Army already gathered on the battlefield?」
+168069	Rance	基本	「もう魔軍は戦場に集まっているか」	「Has the Monster Army already gathered on the battlefield?」
 
-168070	Barres Province	「え、ええ、そうですな。	「Y-yes, that's correct.
-168071	+	　今日もいつものようにズラリと	　As usual today they are lined up neatly
-168072	+	　戦線に並んで開戦を待っております」	　on the front lines waiting for the battle to start.」
+168070	Barres Province		「え、ええ、そうですな。	「Y-yes, that's correct.
+168071	+		　今日もいつものようにズラリと	　As usual today they are lined up neatly
+168072	+		　戦線に並んで開戦を待っております」	　on the front lines waiting for the battle to start.」
 
-168073	Rance	「くくく、それでは早速、	「Hehehe, then right away,
-168074	+	　お前の出番だ、ニミッツ」	　it's your turn, Nimitz.」
+168073	Rance	エロ顔	「くくく、それでは早速、	「Hehehe, then right away,
+168074	+		　お前の出番だ、ニミッツ」	　it's your turn, Nimitz.」
 
-168075	Nimitz Leak	「え？」	「Eh?」
+168075	Nimitz Leak	ノーマル	「え？」	「Eh?」
 
-168076	-	…………	............
+168076	-		…………	............
 
-168077	-	……	......
+168077	-		……	......
 
-168078	-	戦場――	The battlefield一
+168078	-		戦場――	The battlefield一
 
-168079	-	リーザス軍と魔軍が立ち並ぶ平原で、	On the plain where the Leazas army and Monster Army stood facing each other,
-168080	+	ランスが拡声器を手にしていた。	Rance held a megaphone in his hand.
+168079	-		リーザス軍と魔軍が立ち並ぶ平原で、	On the plain where the Leazas army and Monster Army stood facing each other,
+168080	+		ランスが拡声器を手にしていた。	Rance held a megaphone in his hand.
 
-168081	Rance	「あーあー、マイクテスト、マイクテスト。	「Test test, mic test, mic test.
-168082	+	　あんまん、肉まん、女のまんまん」	　Steamed bun, meat bun, woman's pussy.」
+168081	Rance	真剣	「あーあー、マイクテスト、マイクテスト。	「Test test, mic test, mic test.
+168082	+		　あんまん、肉まん、女のまんまん」	　Steamed bun, meat bun, woman's pussy.」
 
-168083	Rance	「よし、オーケ」	「Good, okay.」
+168083	Rance	基本	「よし、オーケ」	「Good, okay.」
 
-168084	Rance	「魔軍のすっとこどっこい共ー！	「You pathetic Monster Army fools一!
-168085	+	　オラ、聞こえてるかー！」	　Hey, can you hear me一!」
+168084	Rance	怒り	「魔軍のすっとこどっこい共ー！	「You pathetic Monster Army fools一!
+168085	+		　オラ、聞こえてるかー！」	　Hey, can you hear me一!」
 
-168086	Rance	「がははは！　我らの勝負はもう決した！	「Gahahaha! Our victory is already decided!
-168087	+	　逃げるのなら今のうちだぞー！」	　If you're gonna run, now's your chance一!」
+168086	Rance	笑顔	「がははは！　我らの勝負はもう決した！	「Gahahaha! Our victory is already decided!
+168087	+		　逃げるのなら今のうちだぞー！」	　If you're gonna run, now's your chance一!」
 
-168088	Joseph	「……なんだ、あれは？」	「...What is that?」
+168088	Joseph	基本	「……なんだ、あれは？」	「...What is that?」
 
-168089	Monster Captain	「わ、分かりません……	「I-I don't know...
-168090	+	　何かするつもりでしょうか……」	　What is he planning...?」
+168089	Monster Captain		「わ、分かりません……	「I-I don't know...
+168090	+		　何かするつもりでしょうか……」	　What is he planning...?」
 
-168091	Joseph	「無視させろ。	「Ignore him.
-168092	+	　どうせほざくのは下らん戯言だ」	　It's just worthless nonsense anyway.」
+168091	Joseph		「無視させろ。	「Ignore him.
+168092	+		　どうせほざくのは下らん戯言だ」	　It's just worthless nonsense anyway.」
 
-168093	Monster Captain	「はっ」	「Yes sir.」
+168093	Monster Captain		「はっ」	「Yes sir.」
 
-168094	Rance	「やあやあ、遠からん者は音にも聞け！	「Hear ye hear ye, those far away listen with your ears!
-168095	+	　近くば寄って目にも見よ！	　Those nearby come closer and see with your eyes!
-168096	+	　我らには超々頼もしい味方がいる！」	　We have an extremely reliable ally!」
+168094	Rance		「やあやあ、遠からん者は音にも聞け！	「Hear ye hear ye, those far away listen with your ears!
+168095	+		　近くば寄って目にも見よ！	　Those nearby come closer and see with your eyes!
+168096	+		　我らには超々頼もしい味方がいる！」	　We have an extremely reliable ally!」
 
-168097	Rance	「来い！」	「Come forth!」
+168097	Rance	怒り	「来い！」	「Come forth!」
 
-168098	-	ランスの呼びかけに応え、	In response to Rance's call,
-168099	+	レキシントンが前に出た。	Lexington stepped forward.
+168098	-		ランスの呼びかけに応え、	In response to Rance's call,
+168099	+		レキシントンが前に出た。	Lexington stepped forward.
 
-168100	Nimitz Leak	「…………が」	「............Ga」
+168100	Nimitz Leak	基本	「…………が」	「............Ga」
 
-168101	Nimitz Leak	「がおー……」	「Gao...」
+168101	Nimitz Leak	恥ずかしい	「がおー……」	「Gao...」
 
-168102	Joseph	「なっ……」	「Wha...」
+168102	Joseph	基本	「なっ……」	「Wha...」
 
-168103	Joseph	「あ、あれは――レキシントン！？	「Th-that's一Lexington!?」
-168104	+	　いったい何故！？」	　Why on earth!?」
+168103	Joseph		「あ、あれは――レキシントン！？	「Th-that's一Lexington!?」
+168104	+		　いったい何故！？」	　Why on earth!?」
 
-168105	Rance	「がははははははははははは！	「Gahahahahahahahaha!
-168106	+	　どぉーーーっだ！　ビビったかぁー！？」	　How about that! Scared yet一!?」
+168105	Rance	笑顔	「がははははははははははは！	「Gahahahahahahahaha!
+168106	+		　どぉーーーっだ！　ビビったかぁー！？」	　How about that! Scared yet一!?」
 
-168107	Rance	「魔人レキシントンは総統閣下である俺様に	「The Fiend Lexington is completely head over heels for me, the Supreme Leader!
-168108	+	　とってもメロメロらぶりんキュー！	　Super lovey-dovey with me!
-168109	+	　俺様の部下となったー！」	　She's become my subordinate一!」
+168107	Rance	基本	「魔人レキシントンは総統閣下である俺様に	「The Fiend Lexington is completely head over heels for me, the Supreme Leader!
+168108	+		　とってもメロメロらぶりんキュー！	　Super lovey-dovey with me!
+168109	+		　俺様の部下となったー！」	　She's become my subordinate一!」
 
-168110	Rance	「勝負が決したとはこのことだー！	「This is what it means when the battle is already decided一!
-168111	+	　どーーっだ、まだやるかー！」	　How about it, still wanna fight一!」
+168110	Rance	怒り	「勝負が決したとはこのことだー！	「This is what it means when the battle is already decided一!
+168111	+		　どーーっだ、まだやるかー！」	　How about it, still wanna fight一!」
 
-168112	Nimitz Leak	「あ、あの……ランスさん……」	「U-um... Rance-san...」
+168112	Nimitz Leak	恥ずかしい	「あ、あの……ランスさん……」	「U-um... Rance-san...」
 
-168113	Rance	「しーっ、静かにしてろニミッツ。	「Shh, stay quiet Nimitz.
-168114	+	　お前は突っ立ってるだけでいいからな」	　Just stand there looking imposing.」
+168113	Rance	基本	「しーっ、静かにしてろニミッツ。	「Shh, stay quiet Nimitz.
+168114	+		　お前は突っ立ってるだけでいいからな」	　Just stand there looking imposing.」
 
-168115	Nimitz Leak	「い、いえ……	「N-no...
-168116	+	　め、メロメロ、なんちゃら……や、やめて……」	　M-melomelo whatever... p-please stop...」
+168115	Nimitz Leak	恥ずかしい	「い、いえ……	「N-no...
+168116	+		　め、メロメロ、なんちゃら……や、やめて……」	　M-melomelo whatever... p-please stop...」
 
-168117	Rance	「さぁー！　どうするへっぽこ魔物兵ども！	「Now then! What will you do you pathetic monster soldiers!
-168118	+	　これでもまだ戦うかー！？」	　Still wanna fight even after seeing this一!?」
+168117	Rance	怒り	「さぁー！　どうするへっぽこ魔物兵ども！	「Now then! What will you do you pathetic monster soldiers!
+168118	+		　これでもまだ戦うかー！？」	　Still wanna fight even after seeing this一!?」
 
-168119	Green Monster Soldier	「ま、間違いねぇ！	「N-no doubt!
-168120	+	　あれ、本当に魔人レキシントン様だ！」	　That's really Lady Fiend Lexington!」
+168119	Green Monster Soldier	基本	「ま、間違いねぇ！	「N-no doubt!
+168120	+		　あれ、本当に魔人レキシントン様だ！」	　That's really Lady Fiend Lexington!」
 
-168121	Green Monster Soldier	「そ、そんな……裏切ったってのか……？」	「N-no way... she betrayed us...?」
+168121	Green Monster Soldier		「そ、そんな……裏切ったってのか……？」	「N-no way... she betrayed us...?」
 
-168122	Blue Monster Soldier	「どうすんだよ！？	「What do we do!?」
-168123	+	　魔人相手に勝ち目なんて……！」	　We can't win against a Fiend...!」
+168122	Blue Monster Soldier		「どうすんだよ！？	「What do we do!?」
+168123	+		　魔人相手に勝ち目なんて……！」	　We can't win against a Fiend...!」
 
-168124	Rance	「がははは！　今なら逃げても追撃せん！	「Gahahaha! If you run now I won't chase you!
-168125	+	　見逃してやるが、さーどうするどうする！？」	　I'll let you go, so what will you do, what will you do!?」
+168124	Rance		「がははは！　今なら逃げても追撃せん！	「Gahahaha! If you run now I won't chase you!
+168125	+		　見逃してやるが、さーどうするどうする！？」	　I'll let you go, so what will you do, what will you do!?」
 
-168126	Monster Captain	「よ、ヨシフ様……」	「G-General Joseph...」
+168126	Monster Captain		「よ、ヨシフ様……」	「G-General Joseph...」
 
-168127	Joseph	「くっ……関係ない……」	「Kuh... irrelevant...」
+168127	Joseph		「くっ……関係ない……」	「Kuh... irrelevant...」
 
-168128	Joseph	「今すぐ突撃させろ！	「Charge immediately!
-168129	+	　奴らの下らん戯言など踏み潰させろ！」	　Trample their worthless nonsense!」
+168128	Joseph		「今すぐ突撃させろ！	「Charge immediately!
+168129	+		　奴らの下らん戯言など踏み潰させろ！」	　Trample their worthless nonsense!」
 
-168130	Green Monster Soldier	「冗談じゃねぇ！	「No way in hell!
-168131	+	　魔人相手に戦えるかァァ！」	　We can't fight a Fiend aaa!」
+168130	Green Monster Soldier		「冗談じゃねぇ！	「No way in hell!
+168131	+		　魔人相手に戦えるかァァ！」	　We can't fight a Fiend aaa!」
 
-168132	Joseph	「あ、逃げるな！　逃げた者は処刑だ！	「Hey, don't run! Anyone who runs will be executed!
-168133	+	　殺すぞ！」	　I'll kill you!」
+168132	Joseph		「あ、逃げるな！　逃げた者は処刑だ！	「Hey, don't run! Anyone who runs will be executed!
+168133	+		　殺すぞ！」	　I'll kill you!」
 
-168134	Joseph	「逃げるなと言っているーー！」	「I said don't run一!」
+168134	Joseph		「逃げるなと言っているーー！」	「I said don't run一!」
 
-168135	-	一人が逃げ出せば、	Once one started running,
-168136	+	後は堰を切ったように誰も彼もが逃げだし、	the rest followed like a broken dam, everyone fleeing,
-168137	+	魔軍は総崩れとなった。	and the Monster Army completely collapsed.
+168135	-		一人が逃げ出せば、	Once one started running,
+168136	+		後は堰を切ったように誰も彼もが逃げだし、	the rest followed like a broken dam, everyone fleeing,
+168137	+		魔軍は総崩れとなった。	and the Monster Army completely collapsed.
 
-168138	Rance	「おーおー、泡を食って逃げだし始めたな」	「Ohh, they're running away in a panic.」
+168138	Rance		「おーおー、泡を食って逃げだし始めたな」	「Ohh, they're running away in a panic.」
 
-168139	Rance	「がーっはっはっはっはっは！	「Gah hah hah hah hah!
-168140	+	　誰が見逃してやるものか！」	　Who said I'd let you escape!」
+168139	Rance	笑顔	「がーっはっはっはっはっは！	「Gah hah hah hah hah!
+168140	+		　誰が見逃してやるものか！」	　Who said I'd let you escape!」
 
-168141	Rance	「バレーーーース！」	「Bares一!」
+168141	Rance	怒り	「バレーーーース！」	「Bares一!」
 
-168142	Barres Province	「はっ！　全軍総突撃！	「Yes! All forces, full charge!
-168143	+	　リーザスの領地を取り戻すぞ！」	　We'll take back Leazas territory!」
+168142	Barres Province	基本	「はっ！　全軍総突撃！	「Yes! All forces, full charge!
+168143	+		　リーザスの領地を取り戻すぞ！」	　We'll take back Leazas territory!」
 
-168144	Leazas Black Soldier	「うおおおおおおおおおおおお！！！！」	「Uoooooooohhhhh!!!!」
+168144	Leazas Black Soldier		「うおおおおおおおおおおおお！！！！」	「Uoooooooohhhhh!!!!」
 
-168145	Green Monster Soldier	「うわぁああーーーー！？	「Uwaaaaah一!?
-168146	+	　追撃しないっつったじゃねぇかよーーー！？」	　You said you wouldn't chase us一!」
+168145	Green Monster Soldier		「うわぁああーーーー！？	「Uwaaaaah一!?
+168146	+		　追撃しないっつったじゃねぇかよーーー！？」	　You said you wouldn't chase us一!」
 
-168147	-	リーザス軍の突撃は、	The Leazas army's charge
-168148	+	浮き足だった魔軍に痛烈な一撃を食らわせ、	delivered a devastating blow to the panicked Monster Army,
-168149	+	リーザスは領地を大きく取り戻した。	and Leazas greatly reclaimed its territory.
+168147	-		リーザス軍の突撃は、	The Leazas army's charge
+168148	+		浮き足だった魔軍に痛烈な一撃を食らわせ、	delivered a devastating blow to the panicked Monster Army,
+168149	+		リーザスは領地を大きく取り戻した。	and Leazas greatly reclaimed its territory.
 
-168150	-	…………	............
+168150	-		…………	............
 
-168151	-	……	......
+168151	-		……	......
 
-168152	Rance	「がははは！　愉快愉快！	「Gahahaha! How delightful!
-168153	+	　こうも上手くハマると痛快だな！」	　It feels great when things go this smoothly!」
+168152	Rance	笑顔	「がははは！　愉快愉快！	「Gahahaha! How delightful!
+168153	+		　こうも上手くハマると痛快だな！」	　It feels great when things go this smoothly!」
 
-168154	Sill Plain	「お疲れ様でした、ランス様」	「Good work, Rance-sama.」
+168154	Sill Plain	基本	「お疲れ様でした、ランス様」	「Good work, Rance-sama.」
 
-168155	Rance	「さて、魔人もどうにかなったし、	「Well, we've dealt with the Fiend,
-168156	+	　魔軍も追い返した。	　and drove back the Monster Army.
-168157	+	　そろそろ俺様は戻るとするか」	　Time for me to head back.」
+168155	Rance		「さて、魔人もどうにかなったし、	「Well, we've dealt with the Fiend,
+168156	+		　魔軍も追い返した。	　and drove back the Monster Army.
+168157	+		　そろそろ俺様は戻るとするか」	　Time for me to head back.」
 
-168158	Rance	「ニミッツ、お前ももう俺様の女だ。	「Nimitz, you're my woman now too.
-168159	+	　ついてこい」	　Follow me.」
+168158	Rance		「ニミッツ、お前ももう俺様の女だ。	「Nimitz, you're my woman now too.
+168159	+		　ついてこい」	　Follow me.」
 
-168160	Nimitz Leak	「えっ……？」	「Eh...?」
+168160	Nimitz Leak	ノーマル	「えっ……？」	「Eh...?」
 
-168161	Rance	「なんだ来ないつもりか？	「What, you planning not to come?
-168162	+	　俺のことが好きなら近くにいない道理はなかろう」	　If you like me there's no reason not to stay close.」
+168161	Rance	基本	「なんだ来ないつもりか？	「What, you planning not to come?
+168162	+		　俺のことが好きなら近くにいない道理はなかろう」	　If you like me there's no reason not to stay close.」
 
-168163	Nimitz Leak	「あ、う……！」	「A, u...!」
+168163	Nimitz Leak	ノーマル／照れ	「あ、う……！」	「A, u...!」
 
-168164	-	ニミッツがカーッと耳まで赤く染める。	Nimitz's face turned bright red all the way to her ears.
+168164	-		ニミッツがカーッと耳まで赤く染める。	Nimitz's face turned bright red all the way to her ears.
 
-168165	Nimitz Leak	「でも……あの、先生……	「But... um, Teacher...
-168166	+	　わたし、どう、したら……」	　What should I...」
+168165	Nimitz Leak	ノーマル	「でも……あの、先生……	「But... um, Teacher...
+168166	+		　わたし、どう、したら……」	　What should I...」
 
-168167	Melfeis Promenade	「そう、ね……」	「Yes, well...
+168167	Melfeis Promenade	基本	「そう、ね……」	「Yes, well...
 
-168168	Melfeis Promenade	「それは貴方が決めなさい。	「That's for you to decide.
-168169	+	　ニミッツ自身で答えを出さなければいけないわ」	　You have to find the answer yourself, Nimitz.」
+168168	Melfeis Promenade		「それは貴方が決めなさい。	「That's for you to decide.
+168169	+		　ニミッツ自身で答えを出さなければいけないわ」	　You have to find the answer yourself, Nimitz.」
 
-168170	Nimitz Leak	「あう……！」	「Auu...!」
+168170	Nimitz Leak	ノーマル	「あう……！」	「Auu...!」
 
-168171	-	あえて、突き放すようにメルフェイスは言った。	Melfeis deliberately spoke as if pushing her away.
+168171	-		あえて、突き放すようにメルフェイスは言った。	Melfeis deliberately spoke as if pushing her away.
 
-168172	Chaka Cadmium~	（ほほう……）	（Hmm...）
+168172	Chaka Cadmium~	基本	（ほほう……）	（Hmm...）
 
-168173	Melfeis Promenade	「……大丈夫。	「...It's okay.
-168174	+	　それで何か失敗しても、	　Even if you fail at something,
-168175	+	　先生は貴方の味方だから」	　Teacher will always be on your side.」
+168173	Melfeis Promenade	笑み	「……大丈夫。	「...It's okay.
+168174	+		　それで何か失敗しても、	　Even if you fail at something,
+168175	+		　先生は貴方の味方だから」	　Teacher will always be on your side.」
 
-168176	Nimitz Leak	「う、うん……」	「Y-yes...」
+168176	Nimitz Leak	ノーマル	「う、うん……」	「Y-yes...」
 
-168177	-	一度大きく頷き、	After nodding firmly once,
-168178	+	ニミッツはランスに向き直る。	Nimitz turned to face Rance.
+168177	-		一度大きく頷き、	After nodding firmly once,
+168178	+		ニミッツはランスに向き直る。	Nimitz turned to face Rance.
 
-168179	Nimitz Leak	「ら、ランスさんに、ついて、いき、ます……」	「I-I will... follow Rance-san...」
+168179	Nimitz Leak		「ら、ランスさんに、ついて、いき、ます……」	「I-I will... follow Rance-san...」
 
-168180	Nimitz Leak	「よ……」	「P-please...」
+168180	Nimitz Leak		「よ……」	「P-please...」
 
-168181	Nimitz Leak	「よろしくおねがいします！」	「Please take care of me!」
+168181	Nimitz Leak	ノーマル／照れ	「よろしくおねがいします！」	「Please take care of me!」
 
-168182	Rance	「うむ、これから沢山よろしくしてやろう」	「Yes, I'll take good care of you from now on.」
+168182	Rance	基本	「うむ、これから沢山よろしくしてやろう」	「Yes, I'll take good care of you from now on.」
 
-168183	Rance	「特に夜の方でな。	「Especially at night.
-168184	+	　ぐふふふ……」	　Gufufu...」
+168183	Rance	エロ顔	「特に夜の方でな。	「Especially at night.
+168184	+		　ぐふふふ……」	　Gufufu...」
 
-168185	Nimitz Leak	「あ、あ……」	「A, ah...」
+168185	Nimitz Leak	ノーマル／照れ	「あ、あ……」	「A, ah...」
 
-168186	Nimitz Leak	「が、がんばるの、は……	「W-what I'll work hard at is...
-168187	+	　その、戦闘、とかの、で……」	　um, in battle and such...」
+168186	Nimitz Leak		「が、がんばるの、は……	「W-what I'll work hard at is...
+168187	+		　その、戦闘、とかの、で……」	　um, in battle and such...」
 
-168188	Melfeis Promenade~	（先生としては……	（As her teacher...
-168189	+	　ランス総統に好意を抱くのは……	　developing feelings for Supreme Leader Rance is...
-168190	+	　その……すごく心配だけれど……）	　well... I'm really worried but...）
+168188	Melfeis Promenade~	基本	（先生としては……	（As her teacher...
+168189	+		　ランス総統に好意を抱くのは……	　developing feelings for Supreme Leader Rance is...
+168190	+		　その……すごく心配だけれど……）	　well... I'm really worried but...）
 
-168191	Melfeis Promenade	「大丈夫、ニミッツ？	「Are you okay, Nimitz?
-168192	+	　辛くなったら、先生に教えてね……」	　If it gets hard, tell Teacher...」
+168191	Melfeis Promenade		「大丈夫、ニミッツ？	「Are you okay, Nimitz?
+168192	+		　辛くなったら、先生に教えてね……」	　If it gets hard, tell Teacher...」
 
-168193	Nimitz Leak	「あ……」	「Ah...」
+168193	Nimitz Leak	ノーマル	「あ……」	「Ah...」
 
-168194	-	メルフェイスがニミッツの両肩に触れると、	When Melfeis touched both of Nimitz's shoulders,
-168195	+	ニミッツはかすかに安心したように微笑んだ。	Nimitz smiled faintly as if relieved.
+168194	-		メルフェイスがニミッツの両肩に触れると、	When Melfeis touched both of Nimitz's shoulders,
+168195	+		ニミッツはかすかに安心したように微笑んだ。	Nimitz smiled faintly as if relieved.
 
-168196	Nimitz Leak	「はい……」	「Yes...」
+168196	Nimitz Leak		「はい……」	「Yes...」
 
-168197	Nimitz Leak	「……もう、大丈夫です」	「...I'm okay now.」
+168197	Nimitz Leak	ノーマル／笑顔	「……もう、大丈夫です」	「...I'm okay now.」
 
-168198	-	にっこりとニミッツが笑った。	Nimitz smiled brightly.
+168198	-		にっこりとニミッツが笑った。	Nimitz smiled brightly.
 
-168199	-	…………	............
+168199	-		…………	............
 
-168200	-	……	......
+168200	-		……	......
 
-168201	-	レキシントンとの戦いが終わった。	The battle with Lexington was over.
+168201	-		レキシントンとの戦いが終わった。	The battle with Lexington was over.

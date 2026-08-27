@@ -9,227 +9,227 @@
 * Nagi su Ragarl	子供ナギ	Female
 * Masou Shizuka	子供志津香	Female
 
-62615	Rance	「む……こっちに部屋があるぞ。	「Mu... There's a room this way.
-62616	+	　入ってみるか」	　Shall we go in?」
+62615	Rance	基本	「む……こっちに部屋があるぞ。	「Mu... There's a room this way.
+62616	+		　入ってみるか」	　Shall we go in?」
 
-62617	Maria Custard	「コンピュータルーム……ね」	「Computer room... huh.」
+62617	Maria Custard		「コンピュータルーム……ね」	「Computer room... huh.」
 
-62618	Sill Plain	「お、おっきいですね……	「It's so big...
-62619	+	　壁一面、コンピュータって感じです」	　The whole wall is computers.」
+62618	Sill Plain	きょとん	「お、おっきいですね……	「It's so big...
+62619	+		　壁一面、コンピュータって感じです」	　The whole wall is computers.」
 
-62620	Rance	「ハイパービルみたいだな……」	「Looks like Hyperville...」
+62620	Rance	基本	「ハイパービルみたいだな……」	「Looks like Hyperville...」
 
-62621	PG	「あら、いらっしゃい」	「Ara, welcome.」
+62621	PG		「あら、いらっしゃい」	「Ara, welcome.」
 
-62622	Rance	「げっ、またロボットか！」	「Geh, another robot!」
+62622	Rance	驚き	「げっ、またロボットか！」	「Geh, another robot!」
 
-62623	PG	「私はルート。……どうしたの？　お姉ちゃんよ」	「I'm Root. ...What's wrong? Big sis here.」
+62623	PG	基本	「私はルート。……どうしたの？　お姉ちゃんよ」	「I'm Root. ...What's wrong? Big sis here.」
 
-62624	Rance	「……襲ってこない、か？」	「...Not attacking, huh?」
+62624	Rance	真剣	「……襲ってこない、か？」	「...Not attacking, huh?」
 
-62625	Maria Custard	「さっきのと、作りとしては同じっぽいけど……」	「It looks similar in make to the previous one...」
+62625	Maria Custard	基本	「さっきのと、作りとしては同じっぽいけど……」	「It looks similar in make to the previous one...」
 
-62626	PG	「ほら、帰ってきたら手を洗わなきゃ。	「Come on, you have to wash your hands when you get home.
-62627	+	　一緒に洗面所までいきましょ？」	　Let's go to the washroom together?」
+62626	PG		「ほら、帰ってきたら手を洗わなきゃ。	「Come on, you have to wash your hands when you get home.
+62627	+		　一緒に洗面所までいきましょ？」	　Let's go to the washroom together?」
 
-62628	Rance	「……なんか頭がおかしいだけっぽいな。	「...Seems like it's just weird in the head.
-62629	+	　ほっとくか」	　Leave it.」
+62628	Rance	だる顔	「……なんか頭がおかしいだけっぽいな。	「...Seems like it's just weird in the head.
+62629	+		　ほっとくか」	　Leave it.」
 
-62630	-	ランス達はいったん人形を放置し、	Rance and the others left the doll for now,
-62631	+	室内に入り込んで物色し始めた。	and began searching the room.
+62630	-		ランス達はいったん人形を放置し、	Rance and the others left the doll for now,
+62631	+		室内に入り込んで物色し始めた。	and began searching the room.
 
-62632	Sill Plain	「コンピュータ、大きいですね……」	「The computer is huge...」
+62632	Sill Plain	考え中	「コンピュータ、大きいですね……」	「The computer is huge...」
 
-62633	Rance	「よし、何か情報が入ってるかもしれん。	「Alright, there might be some information.
-62634	+	　誰か、調べてみろ」	　Someone check it.」
+62633	Rance	真剣	「よし、何か情報が入ってるかもしれん。	「Alright, there might be some information.
+62634	+		　誰か、調べてみろ」	　Someone check it.」
 
-62635	Yamada Chizuko	「では私が。コンピュータなら、	「Then I'll do it. For computers,
-62636	+	　情報魔法で動かせるでしょう」	　I can operate them with information magic.」
+62635	Yamada Chizuko	基本	「では私が。コンピュータなら、	「Then I'll do it. For computers,
+62636	+		　情報魔法で動かせるでしょう」	　I can operate them with information magic.」
 
-62637	Rance	「お、そうか。千鶴子がいたな。	「Oh, right. We have Chizuko.
-62638	+	　やれやれ」	　Good grief.」
+62637	Rance		「お、そうか。千鶴子がいたな。	「Oh, right. We have Chizuko.
+62638	+		　やれやれ」	　Good grief.」
 
-62639	Yamada Chizuko	「はい……」	「Yes...」
+62639	Yamada Chizuko		「はい……」	「Yes...」
 
-62640	-	やや緊張の面持ちで魔力の光を小さく灯し、	With a slightly tense expression, she lit a small magical light
-62641	+	千鶴子がコンピュータを操作し始める。	and began operating the computer.
+62640	-		やや緊張の面持ちで魔力の光を小さく灯し、	With a slightly tense expression, she lit a small magical light
+62641	+		千鶴子がコンピュータを操作し始める。	and began operating the computer.
 
-62642	Yamada Chizuko	「パスワードは……ないか、よかった……	「No password... Good...
-62643	+	　念のため、ダミーを流して……」	　Just in case, I'll run a dummy...」
+62642	Yamada Chizuko		「パスワードは……ないか、よかった……	「No password... Good...
+62643	+		　念のため、ダミーを流して……」	　Just in case, I'll run a dummy...」
 
-62644	Rance	「ふむ……なんか難しそうな事始めたな……	「Hmm... She's doing something complicated...
-62645	+	　シィル、何やってるか分かるか？」	　Sill, do you understand what she's doing?」
+62644	Rance	真剣	「ふむ……なんか難しそうな事始めたな……	「Hmm... She's doing something complicated...
+62645	+		　シィル、何やってるか分かるか？」	　Sill, do you understand what she's doing?」
 
-62646	Sill Plain	「い、いえ、全然……情報魔法は、	「N-no, not at all... Information magic
-62647	+	　他の魔法と違って、使い手以外には全然分からない	　is completely incomprehensible to anyone but the user,
-62648	+	　特殊な魔法なので……」	　unlike other magic...」
+62646	Sill Plain	慌て	「い、いえ、全然……情報魔法は、	「N-no, not at all... Information magic
+62647	+		　他の魔法と違って、使い手以外には全然分からない	　is completely incomprehensible to anyone but the user,
+62648	+		　特殊な魔法なので……」	　unlike other magic...」
 
-62649	Copandon Dott	「使える人間、少ないんよ。	「There aren't many people who can use it.
-62650	+	　求人かけても、なっかなか集まらへん」	　Even if we post a job, it's hard to find any.」
+62649	Copandon Dott	ため息	「使える人間、少ないんよ。	「There aren't many people who can use it.
+62650	+		　求人かけても、なっかなか集まらへん」	　Even if we post a job, it's hard to find any.」
 
-62651	Rance	「……ふーん？」	「...Hmm?」
+62651	Rance	真剣	「……ふーん？」	「...Hmm?」
 
-62652	-	あれこれと作業していた千鶴子の手が、	Chizuko's hands, which had been working busily,
-62653	+	いったん止まった。	suddenly stopped.
+62652	-		あれこれと作業していた千鶴子の手が、	Chizuko's hands, which had been working busily,
+62653	+		いったん止まった。	suddenly stopped.
 
-62654	Yamada Chizuko	「ふう……とりあえず、起動はしたわ」	「Fuu... For now, I've started it up.」
+62654	Yamada Chizuko	基本	「ふう……とりあえず、起動はしたわ」	「Fuu... For now, I've started it up.」
 
-62655	Rance	「お、よしよし。	「Oh, good good.
-62656	+	　パイアールがどこにいるかは分かるか？」	　Can you tell where Pi-R is?」
+62655	Rance		「お、よしよし。	「Oh, good good.
+62656	+		　パイアールがどこにいるかは分かるか？」	　Can you tell where Pi-R is?」
 
-62657	Yamada Chizuko	「やってみましょう」	「I'll try.」
+62657	Yamada Chizuko		「やってみましょう」	「I'll try.」
 
-62658	Rance	「あと、ここが何なのかも知っておきたいな。	「Also, I want to know what this place is.
-62659	+	　必要ならぶっ壊す」	　If needed, we'll smash it.」
+62658	Rance		「あと、ここが何なのかも知っておきたいな。	「Also, I want to know what this place is.
+62659	+		　必要ならぶっ壊す」	　If needed, we'll smash it.」
 
-62660	Yamada Chizuko	「そっちは、分かりそうだけど……」	「That seems doable but...」
+62660	Yamada Chizuko		「そっちは、分かりそうだけど……」	「That seems doable but...」
 
-62661	-	千鶴子は正面のモニタに画像を映し、	Chizuko displayed an image on the front monitor
-62662	+	あれこれと操作し始める。	and began operating various things.
+62661	-		千鶴子は正面のモニタに画像を映し、	Chizuko displayed an image on the front monitor
+62662	+		あれこれと操作し始める。	and began operating various things.
 
-62663	Yamada Chizuko	「ん、んんん…………」	「Nn, nnn......」
+62663	Yamada Chizuko		「ん、んんん…………」	「Nn, nnn......」
 
-62664	Rance	「どうだ？　わかりそうか？」	「How's it? Can you figure it out?」
+62664	Rance		「どうだ？　わかりそうか？」	「How's it? Can you figure it out?」
 
-62665	Yamada Chizuko	「ちょっと待ってくださいね……」	「Please wait a moment...」
+62665	Yamada Chizuko		「ちょっと待ってくださいね……」	「Please wait a moment...」
 
-62666	Yamada Chizuko	「……何かを製造している、工場のようですね。	「...It seems to be a factory manufacturing something.
-62667	+	　PIとか、PGとかあるけど……」	　There are things like PI and PG...」
+62666	Yamada Chizuko		「……何かを製造している、工場のようですね。	「...It seems to be a factory manufacturing something.
+62667	+		　PIとか、PGとかあるけど……」	　There are things like PI and PG...」
 
-62668	Rance	「なんだそりゃ？」	「What the hell is that?」
+62668	Rance		「なんだそりゃ？」	「What the hell is that?」
 
-62669	Yamada Chizuko	「…………………………」	「........................」
+62669	Yamada Chizuko		「…………………………」	「........................」
 
-62670	-	眉間に一筋の皺を寄らせて、	With a wrinkle between her brows,
-62671	+	千鶴子はコンソールを操作し続ける。	Chizuko continued operating the console.
+62670	-		眉間に一筋の皺を寄らせて、	With a wrinkle between her brows,
+62671	+		千鶴子はコンソールを操作し続ける。	Chizuko continued operating the console.
 
-62672	Rance	「……おい。まだか？」	「...Hey. Still not done?」
+62672	Rance	真剣	「……おい。まだか？」	「...Hey. Still not done?」
 
-62673	Yamada Chizuko	「うーん……っ、厳しいわ」	「Umm... It's tough.」
+62673	Yamada Chizuko	基本	「うーん……っ、厳しいわ」	「Umm... It's tough.」
 
-62674	-	お手上げとばかりに、千鶴子は天井を仰いだ。	Chizuko looked up at the ceiling as if giving up.
+62674	-		お手上げとばかりに、千鶴子は天井を仰いだ。	Chizuko looked up at the ceiling as if giving up.
 
-62675	Rance	「おい、どうした。操作できるんじゃないのか」	「Hey, what's wrong. Weren't you able to operate it?」
+62675	Rance	真剣	「おい、どうした。操作できるんじゃないのか」	「Hey, what's wrong. Weren't you able to operate it?」
 
-62676	Yamada Chizuko	「できるけれど……コンピュータって、	「I can, but... Computers,
-62677	+	　なんで動くかって、分かってないのよ」	　I don't actually understand why they work.」
+62676	Yamada Chizuko	基本	「できるけれど……コンピュータって、	「I can, but... Computers,
+62677	+		　なんで動くかって、分かってないのよ」	　I don't actually understand why they work.」
 
-62678	Rance	「はあ？　どういうことだ」	「Haa? What do you mean?」
+62678	Rance	だる顔	「はあ？　どういうことだ」	「Haa? What do you mean?」
 
-62679	Yamada Chizuko	「さっき誰かが、使い手しか分からないって	「Someone said earlier that only the user understands it,
-62680	+	　言ってたけど、使い手も原理は分かってないの」	　but even the user doesn't understand the principles.」
+62679	Yamada Chizuko	基本	「さっき誰かが、使い手しか分からないって	「Someone said earlier that only the user understands it,
+62680	+		　言ってたけど、使い手も原理は分かってないの」	　but even the user doesn't understand the principles.」
 
-62681	Yamada Chizuko	「こう情報魔法を使ったらこういう結果を起こせる。	「If you use information magic like this, this result happens.
-62682	+	　その積み重ねでしかないのよ」	　It's just an accumulation of that.」
+62681	Yamada Chizuko		「こう情報魔法を使ったらこういう結果を起こせる。	「If you use information magic like this, this result happens.
+62682	+		　その積み重ねでしかないのよ」	　It's just an accumulation of that.」
 
-62683	Sill Plain	「…………そうだったんですか……」	「............So that's how it is...」
+62683	Sill Plain	慌て	「…………そうだったんですか……」	「............So that's how it is...」
 
-62684	Rance	「思ったより適当だな……	「More sloppy than I thought...
-62685	+	　でも、そのコンピュータは使えるんだろ？」	　But you can still use the computer, right?」
+62684	Rance	だる顔	「思ったより適当だな……	「More sloppy than I thought...
+62685	+		　でも、そのコンピュータは使えるんだろ？」	　But you can still use the computer, right?」
 
-62686	Yamada Chizuko	「操作はできるわ。でも、見た事がないタイプなの。	「I can operate it. But it's a type I've never seen.
-62687	+	　思い通りに動かすには、	　To make it do what I want,
-62688	+	　ひとつずつ魔法で試していかないと……」	　I have to test it with magic one by one...」
+62686	Yamada Chizuko	基本	「操作はできるわ。でも、見た事がないタイプなの。	「I can operate it. But it's a type I've never seen.
+62687	+		　思い通りに動かすには、	　To make it do what I want,
+62688	+		　ひとつずつ魔法で試していかないと……」	　I have to test it with magic one by one...」
 
-62689	Rance	「……時間が掛かるのか？」	「...Will it take time?」
+62689	Rance	真剣	「……時間が掛かるのか？」	「...Will it take time?」
 
-62690	Yamada Chizuko	「数時間か……ううん、下手をすれば、数日……」	「Several hours... No, in the worst case, days...」
+62690	Yamada Chizuko	基本	「数時間か……ううん、下手をすれば、数日……」	「Several hours... No, in the worst case, days...」
 
-62691	Rance	「ああ、もういい。そんなに待ってられん」	「Ah, forget it. We can't wait that long.」
+62691	Rance	だる顔	「ああ、もういい。そんなに待ってられん」	「Ah, forget it. We can't wait that long.」
 
-62692	Maria Custard	「パイアールも、情報魔法の使い手……なのかしら。	「Maybe Pi-R is also an information magic user...
-62693	+	　あり得ない話じゃないけど……」	　It's not impossible...」
+62692	Maria Custard	基本	「パイアールも、情報魔法の使い手……なのかしら。	「Maybe Pi-R is also an information magic user...
+62693	+		　あり得ない話じゃないけど……」	　It's not impossible...」
 
-62694	Rance	「………………って、誰もいないのか？	「............ Wait, is no one here?
-62695	+	　コンピュータを使える奴……」	　Someone who can use computers...」
+62694	Rance	だる顔	「………………って、誰もいないのか？	「............ Wait, is no one here?
+62695	+		　コンピュータを使える奴……」	　Someone who can use computers...」
 
-62696	Sill Plain	「情報魔法が必要ですから……」	「Because information magic is needed...」
+62696	Sill Plain	泣き	「情報魔法が必要ですから……」	「Because information magic is needed...」
 
-62697	Copandon Dott	「情報魔法って、使い手少ないねん。	「Information magic users are rare.
-62698	+	　世界に三十人もおれへんのと違うかな」	　There might not even be thirty in the whole world.」
+62697	Copandon Dott	ため息	「情報魔法って、使い手少ないねん。	「Information magic users are rare.
+62698	+		　世界に三十人もおれへんのと違うかな」	　There might not even be thirty in the whole world.」
 
-62699	Rance	「ちっ、やむをえんな。ここは……」	「Tch, can't be helped. Here...」
+62699	Rance	だる顔	「ちっ、やむをえんな。ここは……」	「Tch, can't be helped. Here...」
 
-62700	Athena 2.0	「はいはーい！　あてながやるれすよ！」	「Yes yes! Athena will do it desu!」
+62700	Athena 2.0	基本	「はいはーい！　あてながやるれすよ！」	「Yes yes! Athena will do it desu!」
 
-62701	-	あてな2号が飛び出して、勝手にコンピュータを	Athena 2.0 jumped out and started messing with the computer
-62702	+	いじり始めた。	on her own.
+62701	-		あてな2号が飛び出して、勝手にコンピュータを	Athena 2.0 jumped out and started messing with the computer
+62702	+		いじり始めた。	on her own.
 
-62703	Rance	「あ、こら。壊すんじゃないぞ」	「Ah, hey. Don't break it.」
+62703	Rance	だる顔	「あ、こら。壊すんじゃないぞ」	「Ah, hey. Don't break it.」
 
-62704	Athena 2.0	「ふーんふふーん♪　ららったったー。	「Fuu~n fufuu~n♪ Lalattattaa.
-62705	+	　ビーマンのポップダンスれっすよー♪」	　It's Beeman's pop dance desu~♪」
+62704	Athena 2.0	能天気	「ふーんふふーん♪　ららったったー。	「Fuu~n fufuu~n♪ Lalattattaa.
+62705	+		　ビーマンのポップダンスれっすよー♪」	　It's Beeman's pop dance desu~♪」
 
-62706	-	がちゃがちゃと適当にしか見えない手さばきで	With seemingly random hand movements
-62707	+	コンソールを叩く。	she banged on the console.
+62706	-		がちゃがちゃと適当にしか見えない手さばきで	With seemingly random hand movements
+62707	+		コンソールを叩く。	she banged on the console.
 
-62708	-	――――F――――	――――F――――
+62708	-		――――F――――	――――F――――
 
-62709	Athena 2.0	「およ」	「Oyo.」
+62709	Athena 2.0	基本	「およ」	「Oyo.」
 
-62710	-	画面に、文字が浮かび上がった。	Text appeared on the screen.
+62710	-		画面に、文字が浮かび上がった。	Text appeared on the screen.
 
-62711	Athena 2.0	「なんか文字が出たれす！	「Some letters came out desu!
-62712	+	　色々押してみるのれす」	　I'll press more desu.」
+62711	Athena 2.0		「なんか文字が出たれす！	「Some letters came out desu!
+62712	+		　色々押してみるのれす」	　I'll press more desu.」
 
-62713	-	――――FORMA――	――――FORMA――
+62713	-		――――FORMA――	――――FORMA――
 
-62714	Athena 2.0	「てやーーーーー♪」	「Teyaaaa♪」
+62714	Athena 2.0	強気	「てやーーーーー♪」	「Teyaaaa♪」
 
-62715	-	――――FORMAT――――	――――FORMAT――――
+62715	-		――――FORMAT――――	――――FORMAT――――
 
-62716	-	WARNING	WARNING
-62717	+	ALL　DATA　ELIMINATE――	ALL DATA ELIMINATE――
+62716	-		WARNING	WARNING
+62717	+		ALL　DATA　ELIMINATE――	ALL DATA ELIMINATE――
 
-62718	Athena 2.0	「おっ、なんか動いたれす！	「Oh, something moved desu!
-62719	+	　ご主人さま、動いたれすよーー！」	　Master, it moved desu!」
+62718	Athena 2.0	基本	「おっ、なんか動いたれす！	「Oh, something moved desu!
+62719	+		　ご主人さま、動いたれすよーー！」	　Master, it moved desu!」
 
-62720	Rance	「お？」	「Oh?」
+62720	Rance		「お？」	「Oh?」
 
-62721	-	画面にその文字を吐き出し、何かしらの挙動を	After displaying the text, the computer showed some activity
-62722	+	見せた後、コンピュータは動かなくなった。	and then stopped completely.
+62721	-		画面にその文字を吐き出し、何かしらの挙動を	After displaying the text, the computer showed some activity
+62722	+		見せた後、コンピュータは動かなくなった。	and then stopped completely.
 
-62723	Athena 2.0	「あっ、真っ暗になった。えいえい。ぽちぽち」	「Ah, it went all dark. Ei ei. Tap tap.」
+62723	Athena 2.0	能天気	「あっ、真っ暗になった。えいえい。ぽちぽち」	「Ah, it went all dark. Ei ei. Tap tap.」
 
-62724	Rance	「…………だめか。ちっ、もういい」	「............No good. Tch, whatever.」
+62724	Rance	だる顔	「…………だめか。ちっ、もういい」	「............No good. Tch, whatever.」
 
-62725	Rance	「さて、となると他に役に立ちそうなのは……」	「Now, what else might be useful...」
+62725	Rance	基本	「さて、となると他に役に立ちそうなのは……」	「Now, what else might be useful...」
 
-62726	Rance	「……こいつか……」	「...This thing...」
+62726	Rance	だる顔	「……こいつか……」	「...This thing...」
 
-62727	PG	「ふふふふふふ……おいで、パイアール。	「Fufufufufu... Come here, Pi-R.
-62728	+	　いい子、いい子ね……」	　Good boy, good boy...」
+62727	PG	基本	「ふふふふふふ……おいで、パイアール。	「Fufufufufu... Come here, Pi-R.
+62728	+		　いい子、いい子ね……」	　Good boy, good boy...」
 
-62729	Rance	「うーむ……ちょっとおかしい感じはするが……」	「Umu... It feels a bit off but...」
+62729	Rance	真剣	「うーむ……ちょっとおかしい感じはするが……」	「Umu... It feels a bit off but...」
 
-62730	Nagi su Ragarl	「ねえねえお姉ちゃん！	「Hey hey big sis!
-62731	+	　この奥ってどう行ったらいいの？」	　How do we get further in?」
+62730	Nagi su Ragarl	基本	「ねえねえお姉ちゃん！	「Hey hey big sis!
+62731	+		　この奥ってどう行ったらいいの？」	　How do we get further in?」
 
-62732	PG	「あらあら、奥に御用なの？」	「Ara ara, you have business deeper in?」
+62732	PG		「あらあら、奥に御用なの？」	「Ara ara, you have business deeper in?」
 
-62733	Nagi su Ragarl	「うん！　パイアールが作った物、	「Yeah! I want to see what Pi-R made!」
-62734	+	　見てみたいんだ！」	
+62733	Nagi su Ragarl		「うん！　パイアールが作った物、	「Yeah! I want to see what Pi-R made!」
+62734	+		　見てみたいんだ！」	
 
-62735	PG	「まあ……パイアールの……お友達なのかしら……	「Well... Are you Pi-R's... friends...?
-62736	+	　まあまあ、大変だわ。よかった……はい、どうぞ」	　My my, how nice. Here you go.」
+62735	PG		「まあ……パイアールの……お友達なのかしら……	「Well... Are you Pi-R's... friends...?
+62736	+		　まあまあ、大変だわ。よかった……はい、どうぞ」	　My my, how nice. Here you go.」
 
-62737	-	小さな音がしたかと思うと、	There was a small sound,
-62738	+	部屋の外で何か重い音が響き渡った。	and then a heavy sound echoed outside the room.
+62737	-		小さな音がしたかと思うと、	There was a small sound,
+62738	+		部屋の外で何か重い音が響き渡った。	and then a heavy sound echoed outside the room.
 
-62739	PG	「工場長さんの邪魔をしないであげてね」	「Don't disturb the factory manager, okay?」
+62739	PG		「工場長さんの邪魔をしないであげてね」	「Don't disturb the factory manager, okay?」
 
-62740	Nagi su Ragarl	「うん！　ありがとー！」	「Yeah! Thanks!」
+62740	Nagi su Ragarl		「うん！　ありがとー！」	「Yeah! Thanks!」
 
-62741	Nagi su Ragarl	「へへー、ぶい！」	「Hehe, peace!」
+62741	Nagi su Ragarl	笑顔	「へへー、ぶい！」	「Hehe, peace!」
 
-62742	Maria Custard	「いともあっさり……」	「So easily...」
+62742	Maria Custard	あかんわ	「いともあっさり……」	「So easily...」
 
-62743	Masou Shizuka	「物怖じしないというか、なんと言うか……」	「She's fearless, or rather...」
+62743	Masou Shizuka	呆れ	「物怖じしないというか、なんと言うか……」	「She's fearless, or rather...」
 
-62744	Nagi su Ragarl	「どう？　ランス、どうだ！」	「How's that? Rance, how about it!」
+62744	Nagi su Ragarl	基本	「どう？　ランス、どうだ！」	「How's that? Rance, how about it!」
 
-62745	Rance	「あー、偉い偉い」	「Ah, good job good job.」
+62745	Rance	だる顔	「あー、偉い偉い」	「Ah, good job good job.」
 
-62746	Nagi su Ragarl	「ちょ、雑に頭撫でるなよー！」	「Hey, don't pat my head so roughly!」
+62746	Nagi su Ragarl	不満	「ちょ、雑に頭撫でるなよー！」	「Hey, don't pat my head so roughly!」
 
-62747	Rance	「よーし、先に進むぞ！」	「Alright, let's move forward!」
+62747	Rance	基本	「よーし、先に進むぞ！」	「Alright, let's move forward!」

@@ -4,615 +4,615 @@
 * Sanakia Drelshkaf	サーナキア	Female
 * Sill Plain	シィル	Female
 
-74113	Rance	「おーう、サーナキアちゃん、いるかー？」	「Heyy, Sanakia-chan, you there?」
+74113	Rance	基本	「おーう、サーナキアちゃん、いるかー？」	「Heyy, Sanakia-chan, you there?」
 
-74114	Krutche Muffin	「あ、閣下。	「Ah, Your Excellency.
-74115	+	　いらっしゃいっす」	　Welcome.」
+74114	Krutche Muffin		「あ、閣下。	「Ah, Your Excellency.
+74115	+		　いらっしゃいっす」	　Welcome.」
 
-74116	Rance	「む、クルーチェ。	「Hm, Krutche.
-74117	+	　お前もサーナキアちゃんの見舞いか」	　You're visiting Sanakia-chan too?」
+74116	Rance		「む、クルーチェ。	「Hm, Krutche.
+74117	+		　お前もサーナキアちゃんの見舞いか」	　You're visiting Sanakia-chan too?」
 
-74118	Krutche Muffin	「見舞いっつか、看病っすね。	「More like nursing her.
-74119	+	　お前も、ってことは閣下……」	　You too, so that means Your Excellency...」
+74118	Krutche Muffin		「見舞いっつか、看病っすね。	「More like nursing her.
+74119	+		　お前も、ってことは閣下……」	　You too, so that means Your Excellency...」
 
-74120	Rance	「おう、ぼろぼろにやられたと聞いたのでな」	「Yeah, I heard she got wrecked pretty bad.」
+74120	Rance	真剣	「おう、ぼろぼろにやられたと聞いたのでな」	「Yeah, I heard she got wrecked pretty bad.」
 
-74121	Rance	「ふむ、サーナキアちゃんは寝てるのか」	「Hmm, is Sanakia-chan asleep?」
+74121	Rance		「ふむ、サーナキアちゃんは寝てるのか」	「Hmm, is Sanakia-chan asleep?」
 
-74122	-	ベッドにはすーすーと規則正しい寝息を立てる	On the bed, Sanakia was sleeping with steady, quiet breaths.
-74123	+	サーナキアが眠っていた。	
+74122	-		ベッドにはすーすーと規則正しい寝息を立てる	On the bed, Sanakia was sleeping with steady, quiet breaths.
+74123	+		サーナキアが眠っていた。	
 
-74124	-	ぱっと見ではあるが命に別状はなさそうだった。	At first glance, she didn't seem to be in mortal danger.
+74124	-		ぱっと見ではあるが命に別状はなさそうだった。	At first glance, she didn't seem to be in mortal danger.
 
-74125	Rance	「少し心配したのだが……	「I was a bit worried, but...
-74126	+	　大丈夫そうだな」	　she looks alright.」
+74125	Rance	基本	「少し心配したのだが……	「I was a bit worried, but...
+74126	+		　大丈夫そうだな」	　she looks alright.」
 
-74127	Krutche Muffin	「うははは……	「Uahaha...
-74128	+	　この人自分から魔軍に突っ込んでいったんすよ」	　She charged straight into the Monster Army herself.」
+74127	Krutche Muffin		「うははは……	「Uahaha...
+74128	+		　この人自分から魔軍に突っ込んでいったんすよ」	　She charged straight into the Monster Army herself.」
 
-74129	Rance	「あほか、この子は」	「What an idiot, this girl.」
+74129	Rance		「あほか、この子は」	「What an idiot, this girl.」
 
-74130	Rance	「クルーチェ。	「Krutche.
-74131	+	　お前、ちゃんと止めないと駄目だろう」	　You should have stopped her properly.」
+74130	Rance		「クルーチェ。	「Krutche.
+74131	+		　お前、ちゃんと止めないと駄目だろう」	　You should have stopped her properly.」
 
-74132	Krutche Muffin	「うち、ああいう無茶する団長を見るのが	「I love watching our reckless Captain do crazy stuff
-74133	+	　好きなんで、それはちょっと無理っすね〜」	　so that's a bit impossible for me~」
+74132	Krutche Muffin		「うち、ああいう無茶する団長を見るのが	「I love watching our reckless Captain do crazy stuff
+74133	+		　好きなんで、それはちょっと無理っすね〜」	　so that's a bit impossible for me~」
 
-74134	Rance	「こいつは……」	「This one...
+74134	Rance		「こいつは……」	「This one...
 
-74135	Krutche Muffin	「や、割とマジで」	「No, seriously though.
+74135	Krutche Muffin		「や、割とマジで」	「No, seriously though.
 
-74136	Krutche Muffin	「弱っちいくせに大軍相手にも	　Even though she's weak, she charged a huge army
-74137	+	　一切怯むことなく突撃して、	　without any fear at all,
-74138	+	　格好良かったっすよ〜」	　and it was really cool~」
+74136	Krutche Muffin		「弱っちいくせに大軍相手にも	　Even though she's weak, she charged a huge army
+74137	+		　一切怯むことなく突撃して、	　without any fear at all,
+74138	+		　格好良かったっすよ〜」	　and it was really cool~」
 
-74139	Krutche Muffin	「うちは強い分、勝てない相手とは	「Since I'm strong, I never fight opponents I can't beat...
-74140	+	　絶対に戦わないので……	
-74141	+	　正直そういうところ、尊敬してます」	　To be honest, I respect that about her.」
+74139	Krutche Muffin		「うちは強い分、勝てない相手とは	「Since I'm strong, I never fight opponents I can't beat...
+74140	+		　絶対に戦わないので……	
+74141	+		　正直そういうところ、尊敬してます」	　To be honest, I respect that about her.」
 
-74142	-	普段通りのふにゃふにゃとした喋り方ではあるが、	Though she spoke in her usual soft, fluffy way,
-74143	+	どこか本当のことを言っているような気が、	Rance felt like she was speaking from the heart
-74144	+	少しだけランスはした。	just a little.
+74142	-		普段通りのふにゃふにゃとした喋り方ではあるが、	Though she spoke in her usual soft, fluffy way,
+74143	+		どこか本当のことを言っているような気が、	Rance felt like she was speaking from the heart
+74144	+		少しだけランスはした。	just a little.
 
-74145	Rance	「だが、それで負けては、	「But losing because of that
-74146	+	　なんにもならん」	　would be pointless.」
+74145	Rance		「だが、それで負けては、	「But losing because of that
+74146	+		　なんにもならん」	　would be pointless.」
 
-74147	Krutche Muffin	「うへぇ、それはそうなんすけどね」	「Uhee, that's true though.」
+74147	Krutche Muffin		「うへぇ、それはそうなんすけどね」	「Uhee, that's true though.」
 
-74148	Rance	「とにかく大怪我はないんだな？」	「Anyway, no serious injuries, right?」
+74148	Rance		「とにかく大怪我はないんだな？」	「Anyway, no serious injuries, right?」
 
-74149	Krutche Muffin	「はいっす。	「Yes.
-74150	+	　目が覚めればまた戦えるかと」	　Once she wakes up she should be able to fight again.」
+74149	Krutche Muffin		「はいっす。	「Yes.
+74150	+		　目が覚めればまた戦えるかと」	　Once she wakes up she should be able to fight again.」
 
-74151	Rance	「ふーーーん」	「Hmmm.」
+74151	Rance	真剣	「ふーーーん」	「Hmmm.」
 
-74152	Rance	「…………」	「............」
+74152	Rance		「…………」	「............」
 
-74153	Rance	「なら、安心してお仕置きしてやろう」	「Then I can punish her without worry.」
+74153	Rance	エロ顔	「なら、安心してお仕置きしてやろう」	「Then I can punish her without worry.」
 
-74154	Krutche Muffin	「はいっす？」	「Yes?」
+74154	Krutche Muffin	基本	「はいっす？」	「Yes?」
 
-74155	-	…………	............
+74155	-		…………	............
 
-74156	-	……	...
+74156	-		……	...
 
-74157	Sanakia Drelshkaf	「な、な、な……なななな……」	「Wh-Wh-Wh... Wha...」
+74157	Sanakia Drelshkaf		「な、な、な……なななな……」	「Wh-Wh-Wh... Wha...」
 
-74158	Sanakia Drelshkaf	「なんっっっだ、これはぁぁぁーーーーー！？！？！？」	「What the hell is thiiiiis!?」
+74158	Sanakia Drelshkaf		「なんっっっだ、これはぁぁぁーーーーー！？！？！？」	「What the hell is thiiiiis!?」
 
-74159	Krutche Muffin	「あっ、おはようございま〜す」	「Ah, good morning~」
+74159	Krutche Muffin		「あっ、おはようございま〜す」	「Ah, good morning~」
 
-74160	Sanakia Drelshkaf	「あ、うむ、おはよう」	「Ah, um, good morning.」
+74160	Sanakia Drelshkaf		「あ、うむ、おはよう」	「Ah, um, good morning.」
 
-74161	Sanakia Drelshkaf	「――じゃない！！！！」	「--Not that!!!!」
+74161	Sanakia Drelshkaf		「――じゃない！！！！」	「--Not that!!!!」
 
-74162	-	目を覚ました時、何故かサーナキアはすっぽんぽんにされ、	When she woke up, Sanakia was somehow completely stripped naked
-74163	+	ランスに恥ずかしい格好で固定されていた。	and bound in an embarrassing position by Rance.
+74162	-		目を覚ました時、何故かサーナキアはすっぽんぽんにされ、	When she woke up, Sanakia was somehow completely stripped naked
+74163	+		ランスに恥ずかしい格好で固定されていた。	and bound in an embarrassing position by Rance.
 
-74164	Sanakia Drelshkaf	「おおおお、おい、クルーチェ！	「Oooooi, Krutche!
-74165	+	　これは一体どういうこと――というかなんだこれは！？」	　What the hell is this!?"
+74164	Sanakia Drelshkaf		「おおおお、おい、クルーチェ！	「Oooooi, Krutche!
+74165	+		　これは一体どういうこと――というかなんだこれは！？」	　What the hell is this!?"
 
-74166	Krutche Muffin	「いや〜、それが見舞いに来てくれた閣下さんが、	「Well~, His Excellency who came to visit
-74167	+	　突然こうするって言って聞かなくて〜」	　suddenly said he'd do this and wouldn't listen~」
+74166	Krutche Muffin		「いや〜、それが見舞いに来てくれた閣下さんが、	「Well~, His Excellency who came to visit
+74167	+		　突然こうするって言って聞かなくて〜」	　suddenly said he'd do this and wouldn't listen~」
 
-74168	Sanakia Drelshkaf	「ランスーーーーーーッ！　やっぱりお前の差し金かー！？」	「Rance-----! So it was your doing after all!?」
+74168	Sanakia Drelshkaf		「ランスーーーーーーッ！　やっぱりお前の差し金かー！？」	「Rance-----! So it was your doing after all!?」
 
-74169	Rance	「がははははははは！　そのとぉーーり！」	「Gahahahahaha! Exactly!」
+74169	Rance		「がははははははは！　そのとぉーーり！」	「Gahahahahaha! Exactly!」
 
-74170	Rance	「この城を守るべき騎士団の団長が！	「The captain of the knight order that should protect this castle!
-74171	+	　魔軍に秒殺されたそうではないか！」	　Got instantly crushed by the Monster Army!」
+74170	Rance		「この城を守るべき騎士団の団長が！	「The captain of the knight order that should protect this castle!
+74171	+		　魔軍に秒殺されたそうではないか！」	　Got instantly crushed by the Monster Army!」
 
-74172	Sanakia Drelshkaf	「う、うぐっ！？」	「U-Ugh!?」
+74172	Sanakia Drelshkaf		「う、うぐっ！？」	「U-Ugh!?」
 
-74173	Rance	「やー、情けないなー、みっともないなー、かーーっこ悪いなー。	「Man, how pathetic, how unsightly, how uncool.
-74174	+	　それでも騎士団の団長さんなのかなー？」	　Are you really the knight captain?」
+74173	Rance		「やー、情けないなー、みっともないなー、かーーっこ悪いなー。	「Man, how pathetic, how unsightly, how uncool.
+74174	+		　それでも騎士団の団長さんなのかなー？」	　Are you really the knight captain?」
 
-74175	Sanakia Drelshkaf	「うぐぐぐっ！」	「Ugggh!」
+74175	Sanakia Drelshkaf		「うぐぐぐっ！」	「Ugggh!」
 
-74176	Krutche Muffin	「や、格好良かったっすよ？」	「No, she looked really cool though?」
+74176	Krutche Muffin		「や、格好良かったっすよ？」	「No, she looked really cool though?」
 
-74177	Rance	「ややこしくなるから黙ってなさい、クルーチェ君」	「It'll get complicated so stay quiet, Krutche.」
+74177	Rance		「ややこしくなるから黙ってなさい、クルーチェ君」	「It'll get complicated so stay quiet, Krutche.」
 
-74178	Krutche Muffin	「あ、は〜〜い」	「Ah, yeees~」
+74178	Krutche Muffin		「あ、は〜〜い」	「Ah, yeees~」
 
-74179	Rance	「というわけで！	「And so!
-74180	+	　団長である君にはこれより罰を与えーーる！」	　As captain, you shall now receive your punishment!」
+74179	Rance		「というわけで！	「And so!
+74180	+		　団長である君にはこれより罰を与えーーる！」	　As captain, you shall now receive your punishment!」
 
-74181	Sanakia Drelshkaf	「くっ、そ、そう、だな……」	「Kuh, y-yes, that's right...」
+74181	Sanakia Drelshkaf		「くっ、そ、そう、だな……」	「Kuh, y-yes, that's right...」
 
-74182	Sanakia Drelshkaf	「騎士団を預けられてこの失態……	「After being entrusted with the knight order, this failure...
-74183	+	　いかような罰もボクは甘んじて受けよう」	　I will humbly accept any punishment.」
+74182	Sanakia Drelshkaf		「騎士団を預けられてこの失態……	「After being entrusted with the knight order, this failure...
+74183	+		　いかような罰もボクは甘んじて受けよう」	　I will humbly accept any punishment.」
 
-74184	Sanakia Drelshkaf	「――と、言いたいが……」	「--Or so I'd like to say...」
+74184	Sanakia Drelshkaf		「――と、言いたいが……」	「--Or so I'd like to say...」
 
-74185	Sanakia Drelshkaf	「それがなんでこれなんだァーーーッ！」	「Why does it have to be this!?」
+74185	Sanakia Drelshkaf		「それがなんでこれなんだァーーーッ！」	「Why does it have to be this!?」
 
-74186	Rance	「がははははははは！	「Gahahahahaha!
-74187	+	　罰を与えるなら俺だって気持ちいい方がいいからな！」	　If I'm giving punishment, I want to feel good too!」
+74186	Rance		「がははははははは！	「Gahahahahaha!
+74187	+		　罰を与えるなら俺だって気持ちいい方がいいからな！」	　If I'm giving punishment, I want to feel good too!」
 
-74188	Rance	「罰と言えばセックス！	「Punishment means sex!
-74189	+	　ばりっばりに犯してやるぜ！」	　I'm gonna ravish you hard!」
+74188	Rance		「罰と言えばセックス！	「Punishment means sex!
+74189	+		　ばりっばりに犯してやるぜ！」	　I'm gonna ravish you hard!」
 
-74190	Rance	「今回は特別ゲストに副団長のクルーチェ君もいるぞ！」	「And this time we have special guest Vice-Captain Krutche!」
+74190	Rance		「今回は特別ゲストに副団長のクルーチェ君もいるぞ！」	「And this time we have special guest Vice-Captain Krutche!」
 
-74191	Krutche Muffin	「どうも特別ゲストっす〜。や〜、閣下がそれはもう、	「Special guest at your service~. Well, His Excellency said
-74192	+	　ごりっごりに犯すって言うんで、うちも無理言って参加を〜」	　he'd fuck her senseless, so I begged to join~」
+74191	Krutche Muffin		「どうも特別ゲストっす〜。や〜、閣下がそれはもう、	「Special guest at your service~. Well, His Excellency said
+74192	+		　ごりっごりに犯すって言うんで、うちも無理言って参加を〜」	　he'd fuck her senseless, so I begged to join~」
 
-74193	Sanakia Drelshkaf	「何を考えてるんだ、馬鹿者ーーー！」	「What the hell are you thinking, you idiots!」
+74193	Sanakia Drelshkaf		「何を考えてるんだ、馬鹿者ーーー！」	「What the hell are you thinking, you idiots!」
 
-74194	Krutche Muffin	「うぇっへへへへ、なんでしょうかね〜。	「Uhehehe, who knows~.
-74195	+	　ま、それはそれとして……」	　Anyway...」
+74194	Krutche Muffin		「うぇっへへへへ、なんでしょうかね〜。	「Uhehehe, who knows~.
+74195	+		　ま、それはそれとして……」	　Anyway...」
 
-74196	Krutche Muffin	「うはぁ〜、こりゃまた可愛らしい……	「Whoaa~, this is so cute...
-74197	+	　ぜーんぜん使ってないっすね」	　Completely unused, huh.」
+74196	Krutche Muffin		「うはぁ〜、こりゃまた可愛らしい……	「Whoaa~, this is so cute...
+74197	+		　ぜーんぜん使ってないっすね」	　Completely unused, huh.」
 
-74198	-	クルーチェの視線はサーモンピンク色した	Krutche's gaze was fixed on Sanakia's
-74199	+	サーナキアの花弁へ注がれていた。	salmon-pink petals.
+74198	-		クルーチェの視線はサーモンピンク色した	Krutche's gaze was fixed on Sanakia's
+74199	+		サーナキアの花弁へ注がれていた。	salmon-pink petals.
 
-74200	Sanakia Drelshkaf	「うわわわぁ！　そ、そんなとこマジマジと見るなぁ！」	「Uwaaah! D-Don't stare at that place like that!」
+74200	Sanakia Drelshkaf		「うわわわぁ！　そ、そんなとこマジマジと見るなぁ！」	「Uwaaah! D-Don't stare at that place like that!」
 
-74201	Krutche Muffin	「…………」	「............」
+74201	Krutche Muffin		「…………」	「............」
 
-74202	Krutche Muffin	「くぱぁ」	「Spread.」
+74202	Krutche Muffin		「くぱぁ」	「Spread.」
 
-74203	Sanakia Drelshkaf	「クルーチェーーーー！」	「Krutche-----!」
+74203	Sanakia Drelshkaf		「クルーチェーーーー！」	「Krutche-----!」
 
-74204	Krutche Muffin	「あ、さすがに怒られた」	「Ah, she got mad.」
+74204	Krutche Muffin		「あ、さすがに怒られた」	「Ah, she got mad.」
 
-74205	Sanakia Drelshkaf	「あぐっ、うっ……」	「Agh, uuh...」
+74205	Sanakia Drelshkaf		「あぐっ、うっ……」	「Agh, uuh...」
 
-74206	-	ボロリと、サーナキアの瞳から涙が溢れる。	Tears spilled from Sanakia's eyes.
+74206	-		ボロリと、サーナキアの瞳から涙が溢れる。	Tears spilled from Sanakia's eyes.
 
-74207	Sanakia Drelshkaf	「くっ、クルーチェ……	「Kuh, Krutche...
-74208	+	　お前、そんなにボクのことが嫌いだったのか……」	　Did you hate me that much...?」
+74207	Sanakia Drelshkaf		「くっ、クルーチェ……	「Kuh, Krutche...
+74208	+		　お前、そんなにボクのことが嫌いだったのか……」	　Did you hate me that much...?」
 
-74209	Sanakia Drelshkaf	「そ、そりゃ好かれてはいないかと思っていたが……	「I knew you didn't like me, but...
-74210	+	　こ、こんなことまでするとは……」	　To do something like this...」
+74209	Sanakia Drelshkaf		「そ、そりゃ好かれてはいないかと思っていたが……	「I knew you didn't like me, but...
+74210	+		　こ、こんなことまでするとは……」	　To do something like this...」
 
-74211	Krutche Muffin	「やーだなー。	「No way.
-74212	+	　うちは団長、大好きっすよ」	　I love our Captain.」
+74211	Krutche Muffin		「やーだなー。	「No way.
+74212	+		　うちは団長、大好きっすよ」	　I love our Captain.」
 
-74213	Krutche Muffin	「うちは今から団長を	「I'm just going to make
-74214	+	　気持ち良くしてあげよーってだけっすよ〜」	　the Captain feel really good~」
+74213	Krutche Muffin		「うちは今から団長を	「I'm just going to make
+74214	+		　気持ち良くしてあげよーってだけっすよ〜」	　the Captain feel really good~」
 
-74215	Sanakia Drelshkaf	「……く、クルーチェ？」	「...C-Krutche?」
+74215	Sanakia Drelshkaf		「……く、クルーチェ？」	「...C-Krutche?」
 
-74216	Krutche Muffin	「ってわけで、失礼しま〜す」	「So, excuse me~」
+74216	Krutche Muffin		「ってわけで、失礼しま〜す」	「So, excuse me~」
 
-74217	Sanakia Drelshkaf	「あ、な、なあああ！？」	「Ah, w-what!?」
+74217	Sanakia Drelshkaf		「あ、な、なあああ！？」	「Ah, w-what!?」
 
-74218	-	スリスリ、スリスリと……	Rub rub, rub rub...
-74219	+	クルーチェの指が優しく花弁の周りを撫でていく。	Krutche's fingers gently caressed around Sanakia's delicate petals.
+74218	-		スリスリ、スリスリと……	Rub rub, rub rub...
+74219	+		クルーチェの指が優しく花弁の周りを撫でていく。	Krutche's fingers gently caressed around Sanakia's delicate petals.
 
-74220	Rance	「がははは、いいぞ、クルーチェ！	「Gahahaha, good job, Krutche!
-74221	+	　俺がずっぽりと入れられるように準備を進めるのだ！」	　Get her nice and ready so I can thrust deep inside!」
+74220	Rance		「がははは、いいぞ、クルーチェ！	「Gahahaha, good job, Krutche!
+74221	+		　俺がずっぽりと入れられるように準備を進めるのだ！」	　Get her nice and ready so I can thrust deep inside!」
 
-74222	Krutche Muffin	「ふぁーーい」	「Yeees~」
+74222	Krutche Muffin		「ふぁーーい」	「Yeees~」
 
-74223	Sanakia Drelshkaf	「ひゃっ！　あ、あわっ、わっ！？	「Hya! A-Awa, wah!?」
-74224	+	　く、クルーチェ、馬鹿、やめっ！　あっ！」	　C-Krutche, idiot, stop! Ah!」
+74223	Sanakia Drelshkaf		「ひゃっ！　あ、あわっ、わっ！？	「Hya! A-Awa, wah!?」
+74224	+		　く、クルーチェ、馬鹿、やめっ！　あっ！」	　C-Krutche, idiot, stop! Ah!」
 
-74225	-	部下に花弁を弄られる感覚に、	The sensation of her subordinate teasing her most intimate petals
-74226	+	サーナキアはひたすら戸惑いの声を上げる。	made Sanakia cry out in pure embarrassment.
+74225	-		部下に花弁を弄られる感覚に、	The sensation of her subordinate teasing her most intimate petals
+74226	+		サーナキアはひたすら戸惑いの声を上げる。	made Sanakia cry out in pure embarrassment.
 
-74227	Sanakia Drelshkaf	「バカバカバカ！　な、何を、して！	「Idiot idiot idiot! What are you doing!
-74228	+	　今すぐやめろ、クルーチェ！」	　Stop it right now, Krutche!」
+74227	Sanakia Drelshkaf		「バカバカバカ！　な、何を、して！	「Idiot idiot idiot! What are you doing!
+74228	+		　今すぐやめろ、クルーチェ！」	　Stop it right now, Krutche!」
 
-74229	Krutche Muffin	「あ、だいじょぶ、だいじょぶ。	「It's fine, it's fine.
-74230	+	　うち、何気にこういう経験もあるんで」	　I actually have some experience with this.」
+74229	Krutche Muffin		「あ、だいじょぶ、だいじょぶ。	「It's fine, it's fine.
+74230	+		　うち、何気にこういう経験もあるんで」	　I actually have some experience with this.」
 
-74231	Rance	「……お前、うちに来る前は何やってたんだ？」	「...What exactly were you doing before you came here?」
+74231	Rance		「……お前、うちに来る前は何やってたんだ？」	「...What exactly were you doing before you came here?」
 
-74232	Krutche Muffin	「うへへぇ、内緒っす」	「Uhehe, it's a secret.」
+74232	Krutche Muffin		「うへへぇ、内緒っす」	「Uhehe, it's a secret.」
 
-74233	Krutche Muffin	「お、濡れてきたっすよ〜」	「Oh, she's getting wet~」
+74233	Krutche Muffin		「お、濡れてきたっすよ〜」	「Oh, she's getting wet~」
 
-74234	-	愛撫によるものか、それとも体を守る為の防衛か、	Whether from the caresses or her body's natural defense,
-74235	+	とにかくサーナキアの花弁から蜜が外へと溢れ出してきた。	sweet nectar began flowing from Sanakia's petals.
+74234	-		愛撫によるものか、それとも体を守る為の防衛か、	Whether from the caresses or her body's natural defense,
+74235	+		とにかくサーナキアの花弁から蜜が外へと溢れ出してきた。	sweet nectar began flowing from Sanakia's petals.
 
-74236	Krutche Muffin	「んふふ〜、普段は騎士っぽく振る舞っていても、	「Nfufu~, even though you act all knightly normally,
-74237	+	　やっぱり体は女の子っすね〜、可愛いっすよ」	　your body is still a girl's~, so cute.」
+74236	Krutche Muffin		「んふふ〜、普段は騎士っぽく振る舞っていても、	「Nfufu~, even though you act all knightly normally,
+74237	+		　やっぱり体は女の子っすね〜、可愛いっすよ」	　your body is still a girl's~, so cute.」
 
-74238	Sanakia Drelshkaf	「ひっ！？　い、いや、やだ、やだやだやだ！	「Hii!? N-No, no, no no no!
-74239	+	　見るな！　見るなぁぁぁぁ！」	　Don't look! Don't loooook!」
+74238	Sanakia Drelshkaf		「ひっ！？　い、いや、やだ、やだやだやだ！	「Hii!? N-No, no, no no no!
+74239	+		　見るな！　見るなぁぁぁぁ！」	　Don't look! Don't loooook!」
 
-74240	-	蜜壷の奥から、とろりと珠になって現れた蜜は、	A thick droplet of honey emerged from her depths
-74241	+	つつつと下腹の方へ向けて、ゆっくりと移動していた。	and slowly trickled down toward her lower belly.
+74240	-		蜜壷の奥から、とろりと珠になって現れた蜜は、	A thick droplet of honey emerged from her depths
+74241	+		つつつと下腹の方へ向けて、ゆっくりと移動していた。	and slowly trickled down toward her lower belly.
 
-74242	Krutche Muffin	「お〜、垂れてく垂れてく」	「Ooh, it's dripping, it's dripping.」
+74242	Krutche Muffin		「お〜、垂れてく垂れてく」	「Ooh, it's dripping, it's dripping.」
 
-74243	Sanakia Drelshkaf	「あっ、うぐう……やだぁ、ああ……見る、なぁぁ……」	「Ah, ugh... Nooo, aah... Don't look...」
+74243	Sanakia Drelshkaf		「あっ、うぐう……やだぁ、ああ……見る、なぁぁ……」	「Ah, ugh... Nooo, aah... Don't look...」
 
-74244	-	部下を相手に恥部を見られる羞恥に、	The shame of having her most private parts exposed to her subordinate
-74245	+	サーナキアは全身がボッと火に包まれたような錯覚がした。	made Sanakia feel as if her entire body was burning.
+74244	-		部下を相手に恥部を見られる羞恥に、	The shame of having her most private parts exposed to her subordinate
+74245	+		サーナキアは全身がボッと火に包まれたような錯覚がした。	made Sanakia feel as if her entire body was burning.
 
-74246	Krutche Muffin	「あ、恥ずかしがるのはグッドっすよ〜。	「Ah, getting embarrassed is great~.
-74247	+	　さささ、もっともっと素直になって」	　Come on, be more honest.」
+74246	Krutche Muffin		「あ、恥ずかしがるのはグッドっすよ〜。	「Ah, getting embarrassed is great~.
+74247	+		　さささ、もっともっと素直になって」	　Come on, be more honest.」
 
-74248	-	クルーチェの指が、サーナキアの花弁を中指で、	Krutche's middle finger gently tapped
-74249	+	トントン、トントンと優しく叩く。	Sanakia's sensitive petals.
+74248	-		クルーチェの指が、サーナキアの花弁を中指で、	Krutche's middle finger gently tapped
+74249	+		トントン、トントンと優しく叩く。	Sanakia's sensitive petals.
 
-74250	Sanakia Drelshkaf	「あひっ、ひうっ！？　やっ、やあっ！　あ、あ、あ！	「Ahi, hiu!? No, yaaah! A, a, ah!
-74251	+	　ば、馬鹿、クルー、チェ！　あっ！　そんなとこ！」	　Idiot, Cru-che! Ah! Not there!」
+74250	Sanakia Drelshkaf		「あひっ、ひうっ！？　やっ、やあっ！　あ、あ、あ！	「Ahi, hiu!? No, yaaah! A, a, ah!
+74251	+		　ば、馬鹿、クルー、チェ！　あっ！　そんなとこ！」	　Idiot, Cru-che! Ah! Not there!」
 
-74252	-	花弁をトントンと優しく叩かれる度、	Every gentle tap on her petals
-74253	+	サーナキアが声を上げて、腰をくねくねと揺らして悶える。	made Sanakia moan and writhe, hips twisting lewdly.
+74252	-		花弁をトントンと優しく叩かれる度、	Every gentle tap on her petals
+74253	+		サーナキアが声を上げて、腰をくねくねと揺らして悶える。	made Sanakia moan and writhe, hips twisting lewdly.
 
-74254	-	　　＜ぬるんっ＞	　　＜Squelch＞
+74254	-		　　＜ぬるんっ＞	　　＜Squelch＞
 
-74255	Sanakia Drelshkaf	「――あひっ！？」	「--Ahi!?」
+74255	Sanakia Drelshkaf		「――あひっ！？」	「--Ahi!?」
 
-74256	-	頃合いを見計らい、クルーチェが中指を中に差し入れると、	Timing it perfectly, Krutche slid her middle finger inside,
-74257	+	サーナキアはビクンと体を跳ねさせて反応した。	and Sanakia's body jerked violently.
+74256	-		頃合いを見計らい、クルーチェが中指を中に差し入れると、	Timing it perfectly, Krutche slid her middle finger inside,
+74257	+		サーナキアはビクンと体を跳ねさせて反応した。	and Sanakia's body jerked violently.
 
-74258	Krutche Muffin	「動いちゃ駄目っすよ〜、団長、傷つくかも知れないんで」	「Don't move~, Captain, you might get hurt.」
+74258	Krutche Muffin		「動いちゃ駄目っすよ〜、団長、傷つくかも知れないんで」	「Don't move~, Captain, you might get hurt.」
 
-74259	Sanakia Drelshkaf	「あっ、ひう！　ひっ、や、やぁぁぁ……！」	「Ah, hiu! Hii, n-nooo...!」
+74259	Sanakia Drelshkaf		「あっ、ひう！　ひっ、や、やぁぁぁ……！」	「Ah, hiu! Hii, n-nooo...!」
 
-74260	-	クルーチェの言葉に恐怖を覚え、	Terrified by Krutche's words,
-74261	+	足を大きく広げた恥ずかしい格好でサーナキアは固まった。	Sanakia froze in a humiliating spread-legged pose.
+74260	-		クルーチェの言葉に恐怖を覚え、	Terrified by Krutche's words,
+74261	+		足を大きく広げた恥ずかしい格好でサーナキアは固まった。	Sanakia froze in a humiliating spread-legged pose.
 
-74262	-	部下に最も恥ずかしい部分を好きに弄られる。	Her subordinate freely toying with her most shameful place.
-74263	+	情けなさと恥ずかしさが津波のようにサーナキアの心に溢れる。	Shame and humiliation flooded Sanakia's heart like a tidal wave.
+74262	-		部下に最も恥ずかしい部分を好きに弄られる。	Her subordinate freely toying with her most shameful place.
+74263	+		情けなさと恥ずかしさが津波のようにサーナキアの心に溢れる。	Shame and humiliation flooded Sanakia's heart like a tidal wave.
 
-74264	Rance	「がははは、サーナキアちゃん、いい格好だなぁ！」	「Gahahaha, Sanakia-chan, what a great pose!」
+74264	Rance		「がははは、サーナキアちゃん、いい格好だなぁ！」	「Gahahaha, Sanakia-chan, what a great pose!」
 
-74265	Sanakia Drelshkaf	「う、うるさっ！　馬鹿、馬鹿ァァァ、お前ら、二人ともぉぉ！	「S-Shut up! Idiots, idiots! Both of you!
-74266	+	　く、クルーチェぇ！　あ、後で覚えてろよぉぉ！」	　C-Krutche! I'll remember this!」
+74265	Sanakia Drelshkaf		「う、うるさっ！　馬鹿、馬鹿ァァァ、お前ら、二人ともぉぉ！	「S-Shut up! Idiots, idiots! Both of you!
+74266	+		　く、クルーチェぇ！　あ、後で覚えてろよぉぉ！」	　C-Krutche! I'll remember this!」
 
-74267	Krutche Muffin	「んっ、そろそろ、いっすかね」	「Nn, about time, huh.」
+74267	Krutche Muffin		「んっ、そろそろ、いっすかね」	「Nn, about time, huh.」
 
-74268	Sanakia Drelshkaf	「ふああっ！？　な、あ、ああああ！？」	「Fuaah!? W-What, aaaah!?」
+74268	Sanakia Drelshkaf		「ふああっ！？　な、あ、ああああ！？」	「Fuaah!? W-What, aaaah!?」
 
-74269	-	にゅるり――	Slither--
-74270	+	と、クルーチェの生温かい舌がサーナキアの膣内に入り込んだ。	Krutche's warm, wet tongue slid deep into Sanakia's pussy.
+74269	-		にゅるり――	Slither--
+74270	+		と、クルーチェの生温かい舌がサーナキアの膣内に入り込んだ。	Krutche's warm, wet tongue slid deep into Sanakia's pussy.
 
-74271	Sanakia Drelshkaf	「ばばば、バカバカバカ！　そんなとこ、汚い、あっ、やめろ！」	「Idiot idiot idiot! That's dirty, ah, stop!」
+74271	Sanakia Drelshkaf		「ばばば、バカバカバカ！　そんなとこ、汚い、あっ、やめろ！」	「Idiot idiot idiot! That's dirty, ah, stop!」
 
-74272	Krutche Muffin	「んやぁ〜……じぇんじぇん、汚ふないっふよ〜……	「Nyaah~... It's not dirty at all~...
-74273	+	　きれいなもんっす」	　It's beautiful.」
+74272	Krutche Muffin		「んやぁ〜……じぇんじぇん、汚ふないっふよ〜……	「Nyaah~... It's not dirty at all~...
+74273	+		　きれいなもんっす」	　It's beautiful.」
 
-74274	Sanakia Drelshkaf	「舌を入れたまま喋るなーーー！」	「Don't talk with your tongue inside meee!」
+74274	Sanakia Drelshkaf		「舌を入れたまま喋るなーーー！」	「Don't talk with your tongue inside meee!」
 
-74275	Sanakia Drelshkaf	「――あ、あひっ！？」	「--A, ahi!?」
+74275	Sanakia Drelshkaf		「――あ、あひっ！？」	「--A, ahi!?」
 
-74276	-	ビクン！　サーナキアの腰が大きく跳ねる。	Jerk! Sanakia's hips bucked hard.
-74277	+	それは今までと違い、はっきりとした快感の為に。	This time it was from clear, undeniable pleasure.
+74276	-		ビクン！　サーナキアの腰が大きく跳ねる。	Jerk! Sanakia's hips bucked hard.
+74277	+		それは今までと違い、はっきりとした快感の為に。	This time it was from clear, undeniable pleasure.
 
-74278	Sanakia Drelshkaf	「え、あ、うそ！？　な、なんで、こんな、ふわああ……！」	「Eh, a, no way!? W-Why does it feel so good, fuaaah...!」
+74278	Sanakia Drelshkaf		「え、あ、うそ！？　な、なんで、こんな、ふわああ……！」	「Eh, a, no way!? W-Why does it feel so good, fuaaah...!」
 
-74279	Krutche Muffin	「うんうん、ちゃんと準備した甲斐があるっすね」	「Yeah yeah, all that prep was worth it.」
+74279	Krutche Muffin		「うんうん、ちゃんと準備した甲斐があるっすね」	「Yeah yeah, all that prep was worth it.」
 
-74280	-	クルーチェの舌が膣内をぬるぬると這い回る。	Krutche's tongue slithered wetly inside her tight walls.
-74281	+	それだけで背筋がゾワゾワと震えた。	Just that made Sanakia's spine tingle with pleasure.
+74280	-		クルーチェの舌が膣内をぬるぬると這い回る。	Krutche's tongue slithered wetly inside her tight walls.
+74281	+		それだけで背筋がゾワゾワと震えた。	Just that made Sanakia's spine tingle with pleasure.
 
-74282	Sanakia Drelshkaf	「やっ！　やだ、やめ、あ、あ、クルーチェ！	「No! Stop, ah, ah, Krutche!
-74283	+	　あっ、ほ、本当に、これ駄目、やああああ……！」	　Ah, really, this is bad, nooo...!」
+74282	Sanakia Drelshkaf		「やっ！　やだ、やめ、あ、あ、クルーチェ！	「No! Stop, ah, ah, Krutche!
+74283	+		　あっ、ほ、本当に、これ駄目、やああああ……！」	　Ah, really, this is bad, nooo...!」
 
-74284	Sanakia Drelshkaf	「ん、れるっ……はぷっ、んむ、んれるる……」	「N, leru... Hapu, nmu, nreruru...」
+74284	Sanakia Drelshkaf		「ん、れるっ……はぷっ、んむ、んれるる……」	「N, leru... Hapu, nmu, nreruru...」
 
-74285	-	クルーチェの舌が這い回る度に、花弁がピチャピチャと、	Every time Krutche's tongue moved, wet lewd sounds echoed
-74286	+	聞いているだけで恥ずかしくなる水音を立てていた。	from her soaked petals.
+74285	-		クルーチェの舌が這い回る度に、花弁がピチャピチャと、	Every time Krutche's tongue moved, wet lewd sounds echoed
+74286	+		聞いているだけで恥ずかしくなる水音を立てていた。	from her soaked petals.
 
-74287	Rance	「おお……なんか、一気にエロい雰囲気になってきたな……」	「Ooh... The mood's gotten really erotic all of a sudden...」
+74287	Rance		「おお……なんか、一気にエロい雰囲気になってきたな……」	「Ooh... The mood's gotten really erotic all of a sudden...」
 
-74288	Krutche Muffin	「へへぇ〜、舌の動きにはちょいと自信があったりして。	「Hehe~, I'm pretty confident with my tongue work.
-74289	+	　んふふ、どっすか、団長、こういうのは……」	　Nfufu, how is it, Captain...?」
+74288	Krutche Muffin		「へへぇ〜、舌の動きにはちょいと自信があったりして。	「Hehe~, I'm pretty confident with my tongue work.
+74289	+		　んふふ、どっすか、団長、こういうのは……」	　Nfufu, how is it, Captain...?」
 
-74290	-	れるるぅぅぅー……と、	Lerrrruuu...
-74291	+	上から下へ向かって花弁の外の部分をクルーチェが舐めていく。	Krutche licked slowly from top to bottom along her outer petals.
+74290	-		れるるぅぅぅー……と、	Lerrrruuu...
+74291	+		上から下へ向かって花弁の外の部分をクルーチェが舐めていく。	Krutche licked slowly from top to bottom along her outer petals.
 
-74292	Sanakia Drelshkaf	「ん、んんんんっ……あ、はぁぁ……あ、やめ……」	「N, nnn... Ah, haa... Ah, stop...」
+74292	Sanakia Drelshkaf		「ん、んんんんっ……あ、はぁぁ……あ、やめ……」	「N, nnn... Ah, haa... Ah, stop...」
 
-74293	-	舌の焦らすような動きでは快楽が得られず快感だけが溜まる。	The teasing tongue built up pleasure without letting her cum.
-74294	+	下腹部がきゅううと熱を溜めていくのがサーナキアにも自覚できた。	Sanakia could feel the hot pressure building deep in her belly.
+74293	-		舌の焦らすような動きでは快楽が得られず快感だけが溜まる。	The teasing tongue built up pleasure without letting her cum.
+74294	+		下腹部がきゅううと熱を溜めていくのがサーナキアにも自覚できた。	Sanakia could feel the hot pressure building deep in her belly.
 
-74295	-	　　＜ちゅるんっ！＞	　　＜Chyurun!＞
+74295	-		　　＜ちゅるんっ！＞	　　＜Chyurun!＞
 
-74296	Sanakia Drelshkaf	「あひっ！」	「Ahi!」
+74296	Sanakia Drelshkaf		「あひっ！」	「Ahi!」
 
-74297	-	最後は弾くように少し強めに舐め上げると、	Finally, Krutche licked upward firmly,
-74298	+	溜められた快感が弾け、サーナキアは鼻にかかった声を上げた。	and the built-up pleasure exploded, making Sanakia moan nasally.
+74297	-		最後は弾くように少し強めに舐め上げると、	Finally, Krutche licked upward firmly,
+74298	+		溜められた快感が弾け、サーナキアは鼻にかかった声を上げた。	and the built-up pleasure exploded, making Sanakia moan nasally.
 
-74299	-	　　＜とろぉぉ……＞	　　＜Drip...＞
+74299	-		　　＜とろぉぉ……＞	　　＜Drip...＞
 
-74300	Rance	「お、また愛液が溢れてきた！	「Oh, more love juice overflowing!
-74301	+	　がははは、やるなぁ、クルーチェは！」	　Gahahaha, nice work, Krutche!」
+74300	Rance		「お、また愛液が溢れてきた！	「Oh, more love juice overflowing!
+74301	+		　がははは、やるなぁ、クルーチェは！」	　Gahahaha, nice work, Krutche!」
 
-74302	Sanakia Drelshkaf	「ああああ……	「Aaaaa...
-74303	+	　も、もう、やだぁぁ……」	　No more...」
+74302	Sanakia Drelshkaf		「ああああ……	「Aaaaa...
+74303	+		　も、もう、やだぁぁ……」	　No more...」
 
-74304	-	それまでただ嫌々と首を振るだけだったサーナキアは、	Sanakia, who had only been shaking her head in refusal,
-74305	+	叩きつけられる快楽に、心臓をバクバクと高鳴らせていた。	now had her heart pounding wildly from the crashing waves of pleasure.
+74304	-		それまでただ嫌々と首を振るだけだったサーナキアは、	Sanakia, who had only been shaking her head in refusal,
+74305	+		叩きつけられる快楽に、心臓をバクバクと高鳴らせていた。	now had her heart pounding wildly from the crashing waves of pleasure.
 
-74306	Krutche Muffin	「次はお待ちかねのここ、弄りますね」	「Next is the long-awaited spot.」
+74306	Krutche Muffin		「次はお待ちかねのここ、弄りますね」	「Next is the long-awaited spot.」
 
-74307	-	クルーチェの視線がクリトリスに注がれていることを理解し、	Realizing Krutche was staring at her clit,
-74308	+	愛撫される想像だけで、サーナキアの背筋はゾクリと震えた。	Sanakia's spine tingled just from the anticipation.
+74307	-		クルーチェの視線がクリトリスに注がれていることを理解し、	Realizing Krutche was staring at her clit,
+74308	+		愛撫される想像だけで、サーナキアの背筋はゾクリと震えた。	Sanakia's spine tingled just from the anticipation.
 
-74309	Sanakia Drelshkaf	「そ、そこは本当に、駄目、だ！　バカバカバカ、やめ！」	「N-Not there! Really, no! Idiot idiot idiot, stop!」
+74309	Sanakia Drelshkaf		「そ、そこは本当に、駄目、だ！　バカバカバカ、やめ！」	「N-Not there! Really, no! Idiot idiot idiot, stop!」
 
-74310	Krutche Muffin	「だいじょぶ、だいじょぶ、痛くしないっすよ〜。	「It's fine, it's fine, it won't hurt~.
-74311	+	　んむっ、んふっ……んれるぅ〜〜……」	　Nmu, nfu... Nreruuu~...」
+74310	Krutche Muffin		「だいじょぶ、だいじょぶ、痛くしないっすよ〜。	「It's fine, it's fine, it won't hurt~.
+74311	+		　んむっ、んふっ……んれるぅ〜〜……」	　Nmu, nfu... Nreruuu~...」
 
-74312	Sanakia Drelshkaf	「んあああ、やぁぁぁぁぁぁ……！」	「Naaaaah, yaaaaah...!」
+74312	Sanakia Drelshkaf		「んあああ、やぁぁぁぁぁぁ……！」	「Naaaaah, yaaaaah...!」
 
-74313	-	周囲から、くるくると弄ぶようにクリトリスの周りを舐めてから、	Krutche circled her tongue teasingly around the swollen clit
-74314	+	尖らせた舌先でツンツンと優しくクルーチェがつつく。	before gently poking the tip with her pointed tongue.
+74313	-		周囲から、くるくると弄ぶようにクリトリスの周りを舐めてから、	Krutche circled her tongue teasingly around the swollen clit
+74314	+		尖らせた舌先でツンツンと優しくクルーチェがつつく。	before gently poking the tip with her pointed tongue.
 
-74315	Sanakia Drelshkaf	「あひっ、ひんっ！　や、あああああ、ふあっ！	「Ahi, hin! No, aaaaaah, fuaah!
-74316	+	　やめ、て、許して、クルー、チェ……！　やっ、やん！」	　Stop, please, Cru-che...! No, yaaan!」
+74315	Sanakia Drelshkaf		「あひっ、ひんっ！　や、あああああ、ふあっ！	「Ahi, hin! No, aaaaaah, fuaah!
+74316	+		　やめ、て、許して、クルー、チェ……！　やっ、やん！」	　Stop, please, Cru-che...! No, yaaan!」
 
-74317	-	クリトリスをつつかれると、サーナキアの腰に甘い電流が流れ、	Every poke sent sweet electric jolts through Sanakia's hips,
-74318	+	どれだけ抑えようとしても、勝手に甘い声が溢れた。	forcing sweet moans from her throat no matter how hard she tried to hold back.
+74317	-		クリトリスをつつかれると、サーナキアの腰に甘い電流が流れ、	Every poke sent sweet electric jolts through Sanakia's hips,
+74318	+		どれだけ抑えようとしても、勝手に甘い声が溢れた。	forcing sweet moans from her throat no matter how hard she tried to hold back.
 
-74319	Krutche Muffin	「んふふ♪　腰がずっとぴくぴくしっぱなし♪	「Nfufu♪ Your hips won't stop twitching♪
-74320	+	　気持ち良くなってくれてるみたいで嬉しいっす」	　I'm glad you're feeling good.」
+74319	Krutche Muffin		「んふふ♪　腰がずっとぴくぴくしっぱなし♪	「Nfufu♪ Your hips won't stop twitching♪
+74320	+		　気持ち良くなってくれてるみたいで嬉しいっす」	　I'm glad you're feeling good.」
 
-74321	Sanakia Drelshkaf	「やあああ、ち、ちが、き、気持ち良く、なんて、な、ない……！	「Yaaaa, n-no, it doesn't feel good...!
-74322	+	　ひんっ、い、いいから、ふぁ……は、離して、ぇぇ……！」	　Hin, s-stop, fua... L-Let go...!」
+74321	Sanakia Drelshkaf		「やあああ、ち、ちが、き、気持ち良く、なんて、な、ない……！	「Yaaaa, n-no, it doesn't feel good...!
+74322	+		　ひんっ、い、いいから、ふぁ……は、離して、ぇぇ……！」	　Hin, s-stop, fua... L-Let go...!」
 
-74323	Krutche Muffin	「もう、そんな強がってばかりいると後が辛いっすよ」	「If you keep acting tough it'll only get harder later.」
+74323	Krutche Muffin		「もう、そんな強がってばかりいると後が辛いっすよ」	「If you keep acting tough it'll only get harder later.」
 
-74324	Krutche Muffin	「……いいんすよ、今だけ素直になっても。	「...It's okay to be honest right now.
-74325	+	　ほら、気持ちいいんすよね？　ここ、こんな風に舐められると」	　See? It feels good when I lick you like this, right?」
+74324	Krutche Muffin		「……いいんすよ、今だけ素直になっても。	「...It's okay to be honest right now.
+74325	+		　ほら、気持ちいいんすよね？　ここ、こんな風に舐められると」	　See? It feels good when I lick you like this, right?」
 
-74326	Sanakia Drelshkaf	「ああっ、あ……！　あんっ、やっ、やぁぁぁ……！	「Aah, ah...! Ahn, ya, yaaaa...!
-74327	+	　も、もう、中、やめ、舐め、ないでぇ……！」	　No more, stop licking inside...!」
+74326	Sanakia Drelshkaf		「ああっ、あ……！　あんっ、やっ、やぁぁぁ……！	「Aah, ah...! Ahn, ya, yaaaa...!
+74327	+		　も、もう、中、やめ、舐め、ないでぇ……！」	　No more, stop licking inside...!」
 
-74328	-	クルーチェの舌がまた膣内に入り込み、ぐるぐると中をかき混ぜられ、	Krutche's tongue plunged back inside, stirring her walls in circles,
-74329	+	サーナキアは、とろけきった甘い声を無理矢理上げさせられる。	forcing melted, sweet moans from Sanakia.
+74328	-		クルーチェの舌がまた膣内に入り込み、ぐるぐると中をかき混ぜられ、	Krutche's tongue plunged back inside, stirring her walls in circles,
+74329	+		サーナキアは、とろけきった甘い声を無理矢理上げさせられる。	forcing melted, sweet moans from Sanakia.
 
-74330	-	柔らかな舌に粘膜を擦られると、まるで自分の体ではないように、	Her soft tongue rubbing against her sensitive membranes
-74331	+	サーナキアの体は快感に対してどこまでも素直な反応を返していた。	made Sanakia's body respond with shameless honesty.
+74330	-		柔らかな舌に粘膜を擦られると、まるで自分の体ではないように、	Her soft tongue rubbing against her sensitive membranes
+74331	+		サーナキアの体は快感に対してどこまでも素直な反応を返していた。	made Sanakia's body respond with shameless honesty.
 
-74332	Sanakia Drelshkaf	「ん、くゆぅ〜〜〜……！　ぷはっ、はあ、はあ……！	「N, kuyuuu...! Puha, haa, haa...!
-74333	+	　あ、あ、やだ、クルーチェ、もう許して……！」	　Ah, ah, no, Krutche, please forgive me...!」
+74332	Sanakia Drelshkaf		「ん、くゆぅ〜〜〜……！　ぷはっ、はあ、はあ……！	「N, kuyuuu...! Puha, haa, haa...!
+74333	+		　あ、あ、やだ、クルーチェ、もう許して……！」	　Ah, ah, no, Krutche, please forgive me...!」
 
-74334	Krutche Muffin	「声、すっかり鼻にかかったいやらしいものになりましたね……	「Your voice has become completely nasal and lewd...
-74335	+	　可愛らしい女の子の声っすよ、自分で分かります？」	　Such a cute girl's voice. Do you realize it?」
+74334	Krutche Muffin		「声、すっかり鼻にかかったいやらしいものになりましたね……	「Your voice has become completely nasal and lewd...
+74335	+		　可愛らしい女の子の声っすよ、自分で分かります？」	　Such a cute girl's voice. Do you realize it?」
 
-74336	Sanakia Drelshkaf	「ち、ちが、ひゃん、ボクは、男とか女の前に、騎士、でぇぇ……！	「N-No, hyan, before being man or woman, I'm a knight...!
-74337	+	　これは……これは、違くって、えぇぇ……！」	　This... this is wrong, eee...!」
+74336	Sanakia Drelshkaf		「ち、ちが、ひゃん、ボクは、男とか女の前に、騎士、でぇぇ……！	「N-No, hyan, before being man or woman, I'm a knight...!
+74337	+		　これは……これは、違くって、えぇぇ……！」	　This... this is wrong, eee...!」
 
-74338	Krutche Muffin	「こんなにだらだら愛液を垂れ流して、騎士なんて……	「Dripping so much love juice and still calling yourself a knight...
-74339	+	　ふふ、よく言えたもんっすね♪」　	　Fufu, you say that so well♪」
+74338	Krutche Muffin		「こんなにだらだら愛液を垂れ流して、騎士なんて……	「Dripping so much love juice and still calling yourself a knight...
+74339	+		　ふふ、よく言えたもんっすね♪」　	　Fufu, you say that so well♪」
 
-74340	Sanakia Drelshkaf	「あっ、ああああ……」	「Ah, aaaaa...」
+74340	Sanakia Drelshkaf		「あっ、ああああ……」	「Ah, aaaaa...」
 
-74341	Krutche Muffin	「たとえ部下の女の子に舐められようが、	「Even if a subordinate girl is licking you,
-74342	+	　気持ちいいもんは仕方ないです、我慢なんて必要ないんすよ……」	　it feels good so there's no need to hold back...」
+74341	Krutche Muffin		「たとえ部下の女の子に舐められようが、	「Even if a subordinate girl is licking you,
+74342	+		　気持ちいいもんは仕方ないです、我慢なんて必要ないんすよ……」	　it feels good so there's no need to hold back...」
 
-74343	Krutche Muffin	「……いつ、誰が死ぬか分からない状況です。	「...We don't know who will die when in this war.
-74344	+	　サーナキア団長、今くらいは素直になって下さい」	　Captain Sanakia, be honest at least now.」
+74343	Krutche Muffin		「……いつ、誰が死ぬか分からない状況です。	「...We don't know who will die when in this war.
+74344	+		　サーナキア団長、今くらいは素直になって下さい」	　Captain Sanakia, be honest at least now.」
 
-74345	Sanakia Drelshkaf	「え、へ……？」	「Eh, he...?」
+74345	Sanakia Drelshkaf		「え、へ……？」	「Eh, he...?」
 
-74346	-	少し沈んだ、クルーチェの真剣な声に、	Krutche's suddenly serious tone
-74347	+	サーナキアの意識がいったん正気に返る。	brought Sanakia back to her senses for a moment.
+74346	-		少し沈んだ、クルーチェの真剣な声に、	Krutche's suddenly serious tone
+74347	+		サーナキアの意識がいったん正気に返る。	brought Sanakia back to her senses for a moment.
 
-74348	-	　　＜ぐちゅっ、ぷちゅ、じゅるる！＞	　　＜Guchu, puchu, jururu!＞
+74348	-		　　＜ぐちゅっ、ぷちゅ、じゅるる！＞	　　＜Guchu, puchu, jururu!＞
 
-74349	-	一気にクルーチェの舌の動きが乱暴なものになり、	Krutche's tongue suddenly moved more aggressively,
-74350	+	サーナキアの膣内の粘膜を激しく擦りたてた。	roughly scraping against her inner walls.
+74349	-		一気にクルーチェの舌の動きが乱暴なものになり、	Krutche's tongue suddenly moved more aggressively,
+74350	+		サーナキアの膣内の粘膜を激しく擦りたてた。	roughly scraping against her inner walls.
 
-74351	Sanakia Drelshkaf	「んやあああっ！　あっ、あっ、わ、分かった！	「Nyaah! Ah, ah, I get it!
-74352	+	　んひんっ！　す、素直になる、なるから！　あんっ、やあああ！」	　Nhin! I'll be honest, I will! Ahn, yaaaa!」
+74351	Sanakia Drelshkaf		「んやあああっ！　あっ、あっ、わ、分かった！	「Nyaah! Ah, ah, I get it!
+74352	+		　んひんっ！　す、素直になる、なるから！　あんっ、やあああ！」	　Nhin! I'll be honest, I will! Ahn, yaaaa!」
 
-74353	Krutche Muffin	「じゃあ、ほら、今はどっすか？	「Then, how does it feel right now?
-74354	+	　素直な気持ちで言って下さいっす」	　Say it honestly.」
+74353	Krutche Muffin		「じゃあ、ほら、今はどっすか？	「Then, how does it feel right now?
+74354	+		　素直な気持ちで言って下さいっす」	　Say it honestly.」
 
-74355	Sanakia Drelshkaf	「あ、ぐっ……！　う、ううう、うう……！」	「A, guh...! U, uuu, uu...!」
+74355	Sanakia Drelshkaf		「あ、ぐっ……！　う、ううう、うう……！」	「A, guh...! U, uuu, uu...!」
 
-74356	Sanakia Drelshkaf	「き、気持ちいい！　気持ちいい、からぁ！	「It feels good! It feels so good!
-74357	+	　やっ、あっ、も、もう、許してくれぇ！　あ、あ、あ、ああ！」	　Ya, ah, please forgive meee! A, a, a, aaah!」
+74356	Sanakia Drelshkaf		「き、気持ちいい！　気持ちいい、からぁ！	「It feels good! It feels so good!
+74357	+		　やっ、あっ、も、もう、許してくれぇ！　あ、あ、あ、ああ！」	　Ya, ah, please forgive meee! A, a, a, aaah!」
 
-74358	Krutche Muffin	「えへへぇ〜、ちゃんと言えたっすね〜。	「Ehehe~, you said it properly~.
-74359	+	　んじゃ、これはご褒美っす」	　Then this is your reward.」
+74358	Krutche Muffin		「えへへぇ〜、ちゃんと言えたっすね〜。	「Ehehe~, you said it properly~.
+74359	+		　んじゃ、これはご褒美っす」	　Then this is your reward.」
 
-74360	-	クルーチェがクリトリスを舌先でクリクリと転がすと、	Krutche rolled her tongue around the clit,
-74361	+	サーナキアは引きつったような甘い声を上げた。	forcing Sanakia to let out sweet, twitching moans.
+74360	-		クルーチェがクリトリスを舌先でクリクリと転がすと、	Krutche rolled her tongue around the clit,
+74361	+		サーナキアは引きつったような甘い声を上げた。	forcing Sanakia to let out sweet, twitching moans.
 
-74362	Sanakia Drelshkaf	「やっ、ああああっ！　き、気持ちいいって、言ったのに！	「Ya, aaaaah! I already said it feels good!
-74363	+	　ボク、ちゃんと言ったのにぃ！　やっ、やあっ、ああんっ！」	　I said it properly! Ya, yaaah, aahn!」
+74362	Sanakia Drelshkaf		「やっ、ああああっ！　き、気持ちいいって、言ったのに！	「Ya, aaaaah! I already said it feels good!
+74363	+		　ボク、ちゃんと言ったのにぃ！　やっ、やあっ、ああんっ！」	　I said it properly! Ya, yaaah, aahn!」
 
-74364	Krutche Muffin	「もーっともーっと、素直になってもらう為っすよ〜。	「To make you even more honest~.
-74365	+	　さあ、素直に快楽に身を委ねて下さい。んれるるる……」	　Now surrender honestly to the pleasure. Nreruru...」
+74364	Krutche Muffin		「もーっともーっと、素直になってもらう為っすよ〜。	「To make you even more honest~.
+74365	+		　さあ、素直に快楽に身を委ねて下さい。んれるるる……」	　Now surrender honestly to the pleasure. Nreruru...」
 
-74366	Sanakia Drelshkaf	「あっ、ひうああああっ！　やめ、い、イッちゃう！	「Ah, hiuaaaaah! Stop, I'm cumming!
-74367	+	　あ、あ、あ、やだやだやだ！　やめてぇ！　ひゃん！」	　A, a, a, no no no! Stop! Hyan!」
+74366	Sanakia Drelshkaf		「あっ、ひうああああっ！　やめ、い、イッちゃう！	「Ah, hiuaaaaah! Stop, I'm cumming!
+74367	+		　あ、あ、あ、やだやだやだ！　やめてぇ！　ひゃん！」	　A, a, a, no no no! Stop! Hyan!」
 
-74368	-	ピクピクと腰が跳ねる、なんて可愛いものではない。	Her hips weren't just twitching cutely anymore.
-74369	+	サーナキアの下半身はガクガクと上下に揺れていた。	Sanakia's lower body was shaking violently up and down.
+74368	-		ピクピクと腰が跳ねる、なんて可愛いものではない。	Her hips weren't just twitching cutely anymore.
+74369	+		サーナキアの下半身はガクガクと上下に揺れていた。	Sanakia's lower body was shaking violently up and down.
 
-74370	Rance	「ごくっ……すんごい、光景……」	「Gulp... What an amazing sight...」
+74370	Rance		「ごくっ……すんごい、光景……」	「Gulp... What an amazing sight...」
 
-74371	Sanakia Drelshkaf	「やああああ……！　やだやだやだ！　見ないでぇ……！	「Yaaaaah...! No no no! Don't look...!
-74372	+	　ランス、お願い、だからぁ、やあああっ、あん、っ、んああ！」	　Rance, please, yaaaaah, ahn, nnaaah!」
+74371	Sanakia Drelshkaf		「やああああ……！　やだやだやだ！　見ないでぇ……！	「Yaaaaah...! No no no! Don't look...!
+74372	+		　ランス、お願い、だからぁ、やあああっ、あん、っ、んああ！」	　Rance, please, yaaaaah, ahn, nnaaah!」
 
-74373	-	かろうじてあった、騎士としての誇りは粉々に砕かれ、	What little knightly pride remained was shattered to pieces,
-74374	+	サーナキアは涙を浮かべて懇願していた。	and Sanakia begged with tears in her eyes.
+74373	-		かろうじてあった、騎士としての誇りは粉々に砕かれ、	What little knightly pride remained was shattered to pieces,
+74374	+		サーナキアは涙を浮かべて懇願していた。	and Sanakia begged with tears in her eyes.
 
-74375	Krutche Muffin	「腰をガクガク言わせて、えっちなおつゆピュッピュッ出して、	「Shaking your hips wildly and squirting lewd honey,
-74376	+	　これのどこが騎士様なんすか？」	　what part of this is knightly?」
+74375	Krutche Muffin		「腰をガクガク言わせて、えっちなおつゆピュッピュッ出して、	「Shaking your hips wildly and squirting lewd honey,
+74376	+		　これのどこが騎士様なんすか？」	　what part of this is knightly?」
 
-74377	Sanakia Drelshkaf	「ああっ、グスッ、うえええ……言うなぁ、言うなぁぁぁ……！	「Aah, sob, ueee... Don't say it, don't say iiiiit...!
-74378	+	　ひんっ、も、もう、ボクの体、気持ち良く、するなぁぁぁ……！」	　Hin, no more, don't make my body feel good...!」
+74377	Sanakia Drelshkaf		「ああっ、グスッ、うえええ……言うなぁ、言うなぁぁぁ……！	「Aah, sob, ueee... Don't say it, don't say iiiiit...!
+74378	+		　ひんっ、も、もう、ボクの体、気持ち良く、するなぁぁぁ……！」	　Hin, no more, don't make my body feel good...!」
 
-74379	Krutche Muffin	「でも……いいんすよ？	「But... it's fine, you know?
-74380	+	　普段は騎士でも、ベッドの中では可愛い女の子で」	　Even if you're a knight normally, in bed you're a cute girl
+74379	Krutche Muffin		「でも……いいんすよ？	「But... it's fine, you know?
+74380	+		　普段は騎士でも、ベッドの中では可愛い女の子で」	　Even if you're a knight normally, in bed you're a cute girl
 
-74381	Krutche Muffin	「快楽にとろとろにとろけて……だーい好きな男の人に、	　melting from pleasure... and happily getting embraced
-74382	+	　優しく抱かれると喜んじゃう、可愛い女の子になって下さいっす」	　by the man you love the most.」
+74381	Krutche Muffin		「快楽にとろとろにとろけて……だーい好きな男の人に、	　melting from pleasure... and happily getting embraced
+74382	+		　優しく抱かれると喜んじゃう、可愛い女の子になって下さいっす」	　by the man you love the most.」
 
-74383	Krutche Muffin	「これで最後っす、気持ち良くなって下さい、団長♪」	「This is the final one, feel good, Captain♪」
+74383	Krutche Muffin		「これで最後っす、気持ち良くなって下さい、団長♪」	「This is the final one, feel good, Captain♪」
 
-74384	-	チュッと、優しくサーナキアのクリトリスが、	Chuu, Krutche gently kissed Sanakia's clit,
-74385	+	クルーチェの柔らかい唇にキスをされる。そして――	with her soft lips. And then--
+74384	-		チュッと、優しくサーナキアのクリトリスが、	Chuu, Krutche gently kissed Sanakia's clit,
+74385	+		クルーチェの柔らかい唇にキスをされる。そして――	with her soft lips. And then--
 
-74386	-	　　＜じゅるっ、ちゅるるるる！＞	　　＜Jyuru, chyurururu!＞
+74386	-		　　＜じゅるっ、ちゅるるるる！＞	　　＜Jyuru, chyurururu!＞
 
-74387	Sanakia Drelshkaf	「あああああああああっ！」	「Aaaaaaaaaaaaaaaaaah!」
+74387	Sanakia Drelshkaf		「あああああああああっ！」	「Aaaaaaaaaaaaaaaaaah!」
 
-74388	-	クリトリスを口内に含んで、一気にクルーチェは吸い上げた。	Krutche sucked the clit hard into her mouth.
+74388	-		クリトリスを口内に含んで、一気にクルーチェは吸い上げた。	Krutche sucked the clit hard into her mouth.
 
-74389	Sanakia Drelshkaf	「あっ！　あっ！　やだ、ああっ！　い、イッちゃう！	「Ah! Ah! No, aah! I'm cumming!
-74390	+	　やだやだやだやだぁぁぁあ！」	　No no no nooo!」
+74389	Sanakia Drelshkaf		「あっ！　あっ！　やだ、ああっ！　い、イッちゃう！	「Ah! Ah! No, aah! I'm cumming!
+74390	+		　やだやだやだやだぁぁぁあ！」	　No no no nooo!」
 
-74391	-	サーナキアの背筋をゾクゾクゾクゾクと快感が走り抜け、	Intense pleasure raced up Sanakia's spine,
-74392	+	下腹の辺りにきゅーっと甘い締め付けられる感覚がともった。	with a sweet tightening deep in her belly.
+74391	-		サーナキアの背筋をゾクゾクゾクゾクと快感が走り抜け、	Intense pleasure raced up Sanakia's spine,
+74392	+		下腹の辺りにきゅーっと甘い締め付けられる感覚がともった。	with a sweet tightening deep in her belly.
 
-74393	Sanakia Drelshkaf	「――あっ！」	「--Ah!」
+74393	Sanakia Drelshkaf		「――あっ！」	「--Ah!」
 
-74394	Sanakia Drelshkaf	「あぁぅあ゛あぁ゛ぁあぁぁ゛ぁあああ！」	「Aaaauuuaaaahhh!」
+74394	Sanakia Drelshkaf		「あぁぅあ゛あぁ゛ぁあぁぁ゛ぁあああ！」	「Aaaauuuaaaahhh!」
 
-74395	-	　　＜ぷしゃっ……！＞	　　＜Psssh...!＞
+74395	-		　　＜ぷしゃっ……！＞	　　＜Psssh...!＞
 
-74396	Rance	「お〜〜〜、潮を吹いてる。	「Oooooh, she's squirting.
-74397	+	　しかも、あのサーナキアちゃんが」	　And it's Sanakia-chan of all people.」
+74396	Rance		「お〜〜〜、潮を吹いてる。	「Oooooh, she's squirting.
+74397	+		　しかも、あのサーナキアちゃんが」	　And it's Sanakia-chan of all people.」
 
-74398	Sanakia Drelshkaf	「やあっ！　ああ、み、見ないで、やぁ……！	「Yaaah! Aah, don't look, yaa...!
-74399	+	　あんっ、んあああ、ふあっ、あああっ！」	　Ahn, naaah, fuaah, aaaah!」
+74398	Sanakia Drelshkaf		「やあっ！　ああ、み、見ないで、やぁ……！	「Yaaah! Aah, don't look, yaa...!
+74399	+		　あんっ、んあああ、ふあっ、あああっ！」	　Ahn, naaah, fuaah, aaaah!」
 
-74400	-	視界がチカチカと明滅する中、サーナキアは臀部を	With her vision flickering, Sanakia's ass
-74401	+	ビクビクと震わせたまま、なんとかそれだけ言った。	twitched violently as she barely managed those words.
+74400	-		視界がチカチカと明滅する中、サーナキアは臀部を	With her vision flickering, Sanakia's ass
+74401	+		ビクビクと震わせたまま、なんとかそれだけ言った。	twitched violently as she barely managed those words.
 
-74402	Sanakia Drelshkaf	「ふあああ……あっ、あっ……	「Fuaaaah... Ah, ah...
-74403	+	　あ、ひう……」	　A, hiu...」
+74402	Sanakia Drelshkaf		「ふあああ……あっ、あっ……	「Fuaaaah... Ah, ah...
+74403	+		　あ、ひう……」	　A, hiu...」
 
-74404	-	ややあって、絶頂がようやく終わる頃には、	After a while, when her orgasm finally subsided,
-74405	+	サーナキアはもう力ない声を漏らすことしか出来なくなっていた。	Sanakia could only let out weak, exhausted moans.
+74404	-		ややあって、絶頂がようやく終わる頃には、	After a while, when her orgasm finally subsided,
+74405	+		サーナキアはもう力ない声を漏らすことしか出来なくなっていた。	Sanakia could only let out weak, exhausted moans.
 
-74406	Rance	「おおおおお！　ここまでサーナキアちゃんが	「Ooooooh! To think Sanakia-chan
-74407	+	　とろっとろになるとは珍しい！　よくやったぞ、クルーチェ！」	　would melt this much! Great job, Krutche!」
+74406	Rance		「おおおおお！　ここまでサーナキアちゃんが	「Ooooooh! To think Sanakia-chan
+74407	+		　とろっとろになるとは珍しい！　よくやったぞ、クルーチェ！」	　would melt this much! Great job, Krutche!」
 
-74408	Krutche Muffin	「うへへへぇ、どーもどーも」	「Uhehehe, thanks thanks.」
+74408	Krutche Muffin		「うへへへぇ、どーもどーも」	「Uhehehe, thanks thanks.」
 
-74409	Rance	「あ、というわけで！」	「Alright then!」
+74409	Rance		「あ、というわけで！」	「Alright then!」
 
-74410	Rance	「がははは！　こっからが本番だー！」	「Gahahaha! Now the real fun begins!」
+74410	Rance		「がははは！　こっからが本番だー！」	「Gahahaha! Now the real fun begins!」
 
-74411	Sanakia Drelshkaf	「あ……ふぁぁぁ……」	「Ah... Fuaaa...」
+74411	Sanakia Drelshkaf		「あ……ふぁぁぁ……」	「Ah... Fuaaa...」
 
-74412	-	クルーチェの愛撫ですっかり放心状態にされたサーナキアは、	Completely dazed from Krutche's caresses,
-74413	+	状況が分かっていないような声を漏らす。	Sanakia let out confused moans.
+74412	-		クルーチェの愛撫ですっかり放心状態にされたサーナキアは、	Completely dazed from Krutche's caresses,
+74413	+		状況が分かっていないような声を漏らす。	Sanakia let out confused moans.
 
-74414	-	しかし、さすがに花弁に熱く張り詰めたペニスを押し当てられ、	But when she felt Rance's hot, rock-hard cock pressed against her petals,
-74415	+	これから何をされるのか理解する。	she finally understood what was coming.
+74414	-		しかし、さすがに花弁に熱く張り詰めたペニスを押し当てられ、	But when she felt Rance's hot, rock-hard cock pressed against her petals,
+74415	+		これから何をされるのか理解する。	she finally understood what was coming.
 
-74416	Sanakia Drelshkaf	「ひううう……うっ、うっ、うううう……！」	「Hiuuuu... U, u, uuuu...!」
+74416	Sanakia Drelshkaf		「ひううう……うっ、うっ、うううう……！」	「Hiuuuu... U, u, uuuu...!」
 
-74417	-	最早、言葉を喋る力すらないのか、	She no longer had the strength to speak,
-74418	+	サーナキアはぶるぶると首を横に振っていた。	and could only shake her head weakly.
+74417	-		最早、言葉を喋る力すらないのか、	She no longer had the strength to speak,
+74418	+		サーナキアはぶるぶると首を横に振っていた。	and could only shake her head weakly.
 
-74419	Krutche Muffin	「あはは、団長、幼女みたいで可愛いっすよ♪」	「Ahaha, Captain, you look like a little girl, so cute♪」
+74419	Krutche Muffin		「あはは、団長、幼女みたいで可愛いっすよ♪」	「Ahaha, Captain, you look like a little girl, so cute♪」
 
-74420	Krutche Muffin	「さ、閣下殿、どーぞどーぞ」	「Here you go, Your Excellency.」
+74420	Krutche Muffin		「さ、閣下殿、どーぞどーぞ」	「Here you go, Your Excellency.」
 
-74421	Rance	「がははははは！　行くぜ！	「Gahahahahaha! Here I come!
-74422	+	　とおおおおおおおおおおおおおおお！」	　Toooraaaaaaaa!」
+74421	Rance		「がははははは！　行くぜ！	「Gahahahahaha! Here I come!
+74422	+		　とおおおおおおおおおおおおおおお！」	　Toooraaaaaaaa!」
 
-74423	Sanakia Drelshkaf	「ふにゃぁああぁぁああああああ！」	「Funyaaaaaaaah!」
+74423	Sanakia Drelshkaf		「ふにゃぁああぁぁああああああ！」	「Funyaaaaaaaah!」
 
-74424	Rance	「お、おお！　これは中々！」	「O, ooh! This is pretty good!」
+74424	Rance		「お、おお！　これは中々！」	「O, ooh! This is pretty good!」
 
-74425	-	すっかりとろけたサーナキアの膣内は、	Sanakia's completely melted pussy
-74426	+	ランスのペニスを歓迎するように、キュッキュッと強く締め付ける。	squeezed Rance's cock tightly in welcome.
+74425	-		すっかりとろけたサーナキアの膣内は、	Sanakia's completely melted pussy
+74426	+		ランスのペニスを歓迎するように、キュッキュッと強く締め付ける。	squeezed Rance's cock tightly in welcome.
 
-74427	Rance	「ぐふふふ、クルーチェめ、中々やるではないか……	「Gufufu, Krutche, you did a fine job...
-74428	+	　よーし、こっからはバリッバリにサーナキアちゃんを犯して――」	　Alright, now I'm gonna ravish Sanakia-chan hard--
+74427	Rance		「ぐふふふ、クルーチェめ、中々やるではないか……	「Gufufu, Krutche, you did a fine job...
+74428	+		　よーし、こっからはバリッバリにサーナキアちゃんを犯して――」	　Alright, now I'm gonna ravish Sanakia-chan hard--
 
-74429	Sanakia Drelshkaf	「……やだ」	「...No.」
+74429	Sanakia Drelshkaf		「……やだ」	「...No.」
 
-74430	Rance	「へ？」	「Heh?」
+74430	Rance		「へ？」	「Heh?」
 
-74431	Sanakia Drelshkaf	「やぁ、優しく、してくれないとぉ……やだぁぁ……	「No, if you don't do it gently... I don't want it...
-74432	+	　ねえ、ランスぅ……せ、せめて、優しくしてよぉ……」	　Hey, Rance... At least be gentle...」
+74431	Sanakia Drelshkaf		「やぁ、優しく、してくれないとぉ……やだぁぁ……	「No, if you don't do it gently... I don't want it...
+74432	+		　ねえ、ランスぅ……せ、せめて、優しくしてよぉ……」	　Hey, Rance... At least be gentle...」
 
-74433	Rance	「お、おお……！？	「O, ooh...!?
-74434	+	　サーナキアちゃんがこんなことを！？」	　Sanakia-chan saying something like that!?」
+74433	Rance		「お、おお……！？	「O, ooh...!?
+74434	+		　サーナキアちゃんがこんなことを！？」	　Sanakia-chan saying something like that!?」
 
-74435	-	とろんと目をぼやけさせるサーナキアは、	With glazed, hazy eyes,
-74436	+	どこまで正気でいるのか、ランスに自らおねだりしていた。	Sanakia begged Rance herself, barely conscious.
+74435	-		とろんと目をぼやけさせるサーナキアは、	With glazed, hazy eyes,
+74436	+		どこまで正気でいるのか、ランスに自らおねだりしていた。	Sanakia begged Rance herself, barely conscious.
 
-74437	Rance	「こ、こんなエッチなサーナキアちゃん、初めて見た……	「This is the first time I've seen such a lewd Sanakia-chan...
-74438	+	　めっちゃ新鮮、驚いた……」	　It's so fresh, I'm shocked...」
+74437	Rance		「こ、こんなエッチなサーナキアちゃん、初めて見た……	「This is the first time I've seen such a lewd Sanakia-chan...
+74438	+		　めっちゃ新鮮、驚いた……」	　It's so fresh, I'm shocked...」
 
-74439	Krutche Muffin	「そういう風に仕上げたっすから。	「That's how I prepared her.
-74440	+	　ささ、閣下、どうします？」	　So, Your Excellency, what will you do?」
+74439	Krutche Muffin		「そういう風に仕上げたっすから。	「That's how I prepared her.
+74440	+		　ささ、閣下、どうします？」	　So, Your Excellency, what will you do?」
 
-74441	Sanakia Drelshkaf	「ら、ランス、ぅ……ランスぅ……」	「R-Rance... Rance...」
+74441	Sanakia Drelshkaf		「ら、ランス、ぅ……ランスぅ……」	「R-Rance... Rance...」
 
-74442	-	まるでおねだりするように、	As if begging,
-74443	+	サーナキアの腰がゆらゆらと揺れていた。	Sanakia's hips swayed seductively.
+74442	-		まるでおねだりするように、	As if begging,
+74443	+		サーナキアの腰がゆらゆらと揺れていた。	Sanakia's hips swayed seductively.
 
-74444	Rance	「む、むおおおおお……！」	「Mu, muoooooh...!」
+74444	Rance		「む、むおおおおお……！」	「Mu, muoooooh...!」
 
-74445	Rance	「がははは、これはこれでグーッド！	「Gahahaha, this is good too!
-74446	+	　路線変更！　たーっぷり可愛がってやるぜ！」	　Route change! I'll pamper you plenty!」
+74445	Rance		「がははは、これはこれでグーッド！	「Gahahaha, this is good too!
+74446	+		　路線変更！　たーっぷり可愛がってやるぜ！」	　Route change! I'll pamper you plenty!」
 
-74447	Sanakia Drelshkaf	「ふあっ、ふああああ……」	「Fuaah, fuaaaaa...」
+74447	Sanakia Drelshkaf		「ふあっ、ふああああ……」	「Fuaah, fuaaaaa...」
 
-74448	-	サーナキアは喜んでいるとも、呆けているとも取れない、	Sanakia let out a voice that could be joy or pure daze,
-74449	+	力のない声を上げた。	completely drained of strength.
+74448	-		サーナキアは喜んでいるとも、呆けているとも取れない、	Sanakia let out a voice that could be joy or pure daze,
+74449	+		力のない声を上げた。	completely drained of strength.
 
-74450	Krutche Muffin	「んふふ♪　優しくしてくれるらしいっすよ♪」	「Nfufu♪ He's going to be gentle♪」
+74450	Krutche Muffin		「んふふ♪　優しくしてくれるらしいっすよ♪」	「Nfufu♪ He's going to be gentle♪」
 
-74451	Krutche Muffin	「やっぱり、素直が一番っすね、団長♪」	「Being honest really is best, Captain♪」
+74451	Krutche Muffin		「やっぱり、素直が一番っすね、団長♪」	「Being honest really is best, Captain♪」
 
-74452	Sanakia Drelshkaf	「ああっ！　あひっ、ひんっ！　やあああっ！」	「Aah! Ahi, hin! Yaaaaah!」
+74452	Sanakia Drelshkaf		「ああっ！　あひっ、ひんっ！　やあああっ！」	「Aah! Ahi, hin! Yaaaaah!」
 
-74453	-	ランスに貫かれて甘い声を上げるサーナキアには、	Impaled on Rance's cock and moaning sweetly,
-74454	+	既に言葉は届いていないが、クルーチェはとっても満足そうだった。	Sanakia no longer heard the words, but Krutche looked very satisfied.
+74453	-		ランスに貫かれて甘い声を上げるサーナキアには、	Impaled on Rance's cock and moaning sweetly,
+74454	+		既に言葉は届いていないが、クルーチェはとっても満足そうだった。	Sanakia no longer heard the words, but Krutche looked very satisfied.
 
-74455	-	…………	............
+74455	-		…………	............
 
-74456	-	……	...
+74456	-		……	...
 
-74457	-	部屋の扉が控えめにノックされた。	There was a polite knock on the door.
+74457	-		部屋の扉が控えめにノックされた。	There was a polite knock on the door.
 
-74458	Sill Plain	「あ、あのぉ……ランス様？	「Um... Rance-sama?
-74459	+	　そろそろ出発しないとまずいような……」	　We really should leave soon...」
+74458	Sill Plain	きょとん	「あ、あのぉ……ランス様？	「Um... Rance-sama?
+74459	+		　そろそろ出発しないとまずいような……」	　We really should leave soon...」
 
-74460	Sill Plain	「って、ひゃあ！？	「Wait, hyaa!?」
-74461	+	　さ、サーナキアさん！？」	　S-Sanakia-san!?」
+74460	Sill Plain	恥	「って、ひゃあ！？	「Wait, hyaa!?」
+74461	+		　さ、サーナキアさん！？」	　S-Sanakia-san!?」
 
-74462	-	ベッドには散々犯されて、	On the bed lay Sanakia,
-74463	+	ぐったりしているサーナキアがいた。	thoroughly fucked and limp.
+74462	-		ベッドには散々犯されて、	On the bed lay Sanakia,
+74463	+		ぐったりしているサーナキアがいた。	thoroughly fucked and limp.
 
-74464	Rance	「おっと、もう結構いい時間か」	「Oops, it's already that time.」
+74464	Rance	全裸	「おっと、もう結構いい時間か」	「Oops, it's already that time.」
 
-74465	Sill Plain	「うう、も、もしかして……	「Uuu, d-don't tell me...
-74466	+	　ランス様、今まで……」	　Rance-sama, all this time...」
+74465	Sill Plain	基本	「うう、も、もしかして……	「Uuu, d-don't tell me...
+74466	+		　ランス様、今まで……」	　Rance-sama, all this time...」
 
-74467	Rance	「おう、二人とセックスしてた」	「Yeah, I was fucking the two of them.」
+74467	Rance	全裸	「おう、二人とセックスしてた」	「Yeah, I was fucking the two of them.」
 
-74468	Sill Plain	「うう……ら、ランス様、こんなときにまで……」	「Uuu... Rance-sama, even at a time like this...」
+74468	Sill Plain	泣き	「うう……ら、ランス様、こんなときにまで……」	「Uuu... Rance-sama, even at a time like this...」
 
-74469	Sill Plain	「でも、大丈夫ですか？	「But are you okay?
-74470	+	　また戦闘などあると思いますが……」	　There's more fighting ahead...」
+74469	Sill Plain	恥	「でも、大丈夫ですか？	「But are you okay?
+74470	+		　また戦闘などあると思いますが……」	　There's more fighting ahead...」
 
-74471	Rance	「がはははははははははは！	「Gahahahahahahaha!
-74472	+	　むしろセックスしてパワーアップ！	　Sex actually powers me up!
-74473	+	　全開ばりばりだー！」	　I'm at full power now!」
+74471	Rance	全裸／笑顔	「がはははははははははは！	「Gahahahahahahaha!
+74472	+		　むしろセックスしてパワーアップ！	　Sex actually powers me up!
+74473	+		　全開ばりばりだー！」	　I'm at full power now!」
 
-74474	Rance	「というわけで俺様は行く！	「So I'm heading out!
-74475	+	　お前らもとっとと戦線に復帰しろよ！」	　You two get back to the front lines quickly too!」
+74474	Rance	全裸	「というわけで俺様は行く！	「So I'm heading out!
+74475	+		　お前らもとっとと戦線に復帰しろよ！」	　You two get back to the front lines quickly too!」
 
-74476	Sanakia Drelshkaf	「ぅぅ、ぅぁぁぁ……」	「Uuu, uaaah...」
+74476	Sanakia Drelshkaf		「ぅぅ、ぅぁぁぁ……」	「Uuu, uaaah...」
 
-74477	Krutche Muffin	「は〜い、団長が目を覚ましたら行くっす」	「Yeees, we'll go once the Captain wakes up.」
+74477	Krutche Muffin		「は〜い、団長が目を覚ましたら行くっす」	「Yeees, we'll go once the Captain wakes up.」
 
-74478	Rance	「……クルーチェは強いんだから、	「...Krutche, you're strong,
-74479	+	　お前だけ戦線復帰するでもいいんだぞ？」	　you can return to the front by yourself if you want.」
+74478	Rance		「……クルーチェは強いんだから、	「...Krutche, you're strong,
+74479	+		　お前だけ戦線復帰するでもいいんだぞ？」	　you can return to the front by yourself if you want.」
 
-74480	Krutche Muffin	「いやぁ〜……	「Noo~...
-74481	+	　うち、団長以外の言うこと聞く気ないんで……」	　I only listen to the Captain...」
+74480	Krutche Muffin		「いやぁ〜……	「Noo~...
+74481	+		　うち、団長以外の言うこと聞く気ないんで……」	　I only listen to the Captain...」
 
-74482	Rance	「お前は……」	「You...」
+74482	Rance	全裸／だる顔	「お前は……」	「You...」
 
-74483	Rance	「と、構ってる時間ももったいない！	「Anyway, no time to waste!
-74484	+	　行くぞシィル！　ちんたらするなよ！」	　Let's go, Sill! Don't dawdle!」
+74483	Rance	全裸	「と、構ってる時間ももったいない！	「Anyway, no time to waste!
+74484	+		　行くぞシィル！　ちんたらするなよ！」	　Let's go, Sill! Don't dawdle!」
 
-74485	Sill Plain	「わーっ、ら、ランス様！	「Waaah, Rance-sama!
-74486	+	　お洋服着て下さいー！」	　Put your clothes on!」
+74485	Sill Plain	慌て	「わーっ、ら、ランス様！	「Waaah, Rance-sama!
+74486	+		　お洋服着て下さいー！」	　Put your clothes on!」

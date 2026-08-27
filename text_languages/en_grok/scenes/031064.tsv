@@ -5,106 +5,106 @@
 * Chaos	カオス	Male
 * Crook Mofus	クルックー	Female
 
-48747	Rance	「だーーーーーーー！！」	「Daaaaaaa!!」
+48747	Rance	怒り	「だーーーーーーー！！」	「Daaaaaaa!!」
 
-48748	Medusa	「ちぃっ、こいつ、っ……！」	「Tch, this guy...!」
+48748	Medusa	基本	「ちぃっ、こいつ、っ……！」	「Tch, this guy...!」
 
-48749	-	烈しさを増すランスの剣に、	Rance's increasingly fierce sword
-48750	+	メディウサの長身が揺らぐ。	shook Medusa's tall frame.
+48749	-		烈しさを増すランスの剣に、	Rance's increasingly fierce sword
+48750	+		メディウサの長身が揺らぐ。	shook Medusa's tall frame.
 
-48751	Alefgard	「むぅっ、い、いけません……！	「Muu, n-no...!
-48752	+	　お嬢様！」	　Mistress!」
+48751	Alefgard		「むぅっ、い、いけません……！	「Muu, n-no...!
+48752	+		　お嬢様！」	　Mistress!」
 
-48753	Rance	「もらったぞ、蛇女！」	「Got you, snake woman!」
+48753	Rance	怒り	「もらったぞ、蛇女！」	「Got you, snake woman!」
 
-48754	Medusa	「やっかましい、よッ……！」	「Shut up, damn it...!」
+48754	Medusa	基本	「やっかましい、よッ……！」	「Shut up, damn it...!」
 
-48755	-	メディウサの両眼が光る。	Both of Medusa's eyes glowed.
-48756	+	ひと睨みでまとめて数人を彫像へと変える	Her petrifying gaze that could turn multiple people to stone with one look
-48757	+	石化の視線が、ランスを直視する。	locked directly onto Rance.
+48755	-		メディウサの両眼が光る。	Both of Medusa's eyes glowed.
+48756	+		ひと睨みでまとめて数人を彫像へと変える	Her petrifying gaze that could turn multiple people to stone with one look
+48757	+		石化の視線が、ランスを直視する。	locked directly onto Rance.
 
-48758	Rance	「おおっと！」	「Whoops!」
+48758	Rance		「おおっと！」	「Whoops!」
 
-48759	Chaos	「へっ？」	「Heh?」
+48759	Chaos	驚き	「へっ？」	「Heh?」
 
-48760	-	だが、ランスは咄嗟に剣の腹をメディウサに向け、	But Rance quickly turned the flat of Chaos toward Medusa
-48761	+	その両目めがけて一閃する。	and slashed at both her eyes.
+48760	-		だが、ランスは咄嗟に剣の腹をメディウサに向け、	But Rance quickly turned the flat of Chaos toward Medusa
+48761	+		その両目めがけて一閃する。	and slashed at both her eyes.
 
-48762	Medusa	「…………っ！」	「......!」
+48762	Medusa	基本	「…………っ！」	「......!」
 
-48763	-	メディウサの視界を、カオスの刀身が遮る。	Chaos's blade blocked Medusa's view.
+48763	-		メディウサの視界を、カオスの刀身が遮る。	Chaos's blade blocked Medusa's view.
 
-48764	-	その、何体もの魔人を屠りながら曇ることのない	The blade that had slain many Fiends without ever clouding
-48765	+	刀身に、メディウサ自身の姿が映った。	reflected Medusa's own image.
+48764	-		その、何体もの魔人を屠りながら曇ることのない	The blade that had slain many Fiends without ever clouding
+48765	+		刀身に、メディウサ自身の姿が映った。	reflected Medusa's own image.
 
-48766	Medusa	「ちぃっ……！」	「Tch...!」
+48766	Medusa		「ちぃっ……！」	「Tch...!」
 
-48767	-	メディウサは反射的に視線を逸らし、	Medusa reflexively looked away,
-48768	+	そのまま振り抜かれたランスの一撃を避ける。	and dodged Rance's swinging strike.
+48767	-		メディウサは反射的に視線を逸らし、	Medusa reflexively looked away,
+48768	+		そのまま振り抜かれたランスの一撃を避ける。	and dodged Rance's swinging strike.
 
-48769	-	だが意に沿わぬ強引な動きは、	But the forced, unnatural movement
-48770	+	自身の体勢を崩させた。	threw off her own balance.
+48769	-		だが意に沿わぬ強引な動きは、	But the forced, unnatural movement
+48770	+		自身の体勢を崩させた。	threw off her own balance.
 
-48771	Rance	「くっ……たばれーーーーー！！」	「Kuh... Dieeeeeee!!」
+48771	Rance	怒り	「くっ……たばれーーーーー！！」	「Kuh... Dieeeeeee!!」
 
-48772	Medusa	「……………………！！」	「........................!!」
+48772	Medusa	基本	「……………………！！」	「........................!!」
 
-48773	-	素早く追いすがったランス会心の一撃が、	Rance's perfectly timed strike that quickly closed in
-48774	+	魔人の胴に直撃した。	landed squarely on the Fiend's torso.
+48773	-		素早く追いすがったランス会心の一撃が、	Rance's perfectly timed strike that quickly closed in
+48774	+		魔人の胴に直撃した。	landed squarely on the Fiend's torso.
 
-48775	Medusa	「が、はぁっ……！	「Ga, haa...!
-48776	+	　うぐっ、く……！　まさか、ッ……！」	　Ugu, kuh...! No way...!」
+48775	Medusa	敗北	「が、はぁっ……！	「Ga, haa...!
+48776	+		　うぐっ、く……！　まさか、ッ……！」	　Ugu, kuh...! No way...!」
 
-48777	Rance	「とどめ、っ……！」	「Finishing blow...!」
+48777	Rance	真剣	「とどめ、っ……！」	「Finishing blow...!」
 
-48778	Alefgard	「むぅっ……！　ここは私が……！」	「Muu...! Here, I will...!」
+48778	Alefgard	うむむ	「むぅっ……！　ここは私が……！」	「Muu...! Here, I will...!」
 
-48779	Rance	「邪魔するんじゃない、このぬいぐるみ野郎が！」	「Don't interfere, you stuffed toy bastard!」
+48779	Rance	怒り	「邪魔するんじゃない、このぬいぐるみ野郎が！」	「Don't interfere, you stuffed toy bastard!」
 
-48780	Alefgard	「む、ぅ……っ……！　なんと……！	「Mu, u...! What...!
-48781	+	　お、じょうさま、申し訳、っ……」	　M-mistress, forgive me...」
+48780	Alefgard	うむむ	「む、ぅ……っ……！　なんと……！	「Mu, u...! What...!
+48781	+		　お、じょうさま、申し訳、っ……」	　M-mistress, forgive me...」
 
-48782	Medusa	「アレフガルドっ……！」	「Alefgard...!」
+48782	Medusa	基本	「アレフガルドっ……！」	「Alefgard...!」
 
-48783	-	電光の勢いで割って入ったアレフガルドも、	Even Alefgard who charged in like lightning
-48784	+	ランスの刃の前に倒れ伏す。	fell before Rance's blade.
+48783	-		電光の勢いで割って入ったアレフガルドも、	Even Alefgard who charged in like lightning
+48784	+		ランスの刃の前に倒れ伏す。	fell before Rance's blade.
 
-48785	Rance	「……クルックー。どうだ」	「...Crook. How is she?」
+48785	Rance	真剣	「……クルックー。どうだ」	「...Crook. How is she?」
 
-48786	Crook Mofus	「…………だめです。すみません。	「...No good. I'm sorry.
-48787	+	　命を繋ぐので精一杯です」	　Keeping her alive is all I can manage.」
+48786	Crook Mofus	基本	「…………だめです。すみません。	「...No good. I'm sorry.
+48787	+		　命を繋ぐので精一杯です」	　Keeping her alive is all I can manage.」
 
-48788	-	リズナの介抱をしていたクルックーが、	Crook, who had been tending to Rizna,
-48789	+	力なく首を振る。	shook her head weakly.
+48788	-		リズナの介抱をしていたクルックーが、	Crook, who had been tending to Rizna,
+48789	+		力なく首を振る。	shook her head weakly.
 
-48790	Rance	「ちっ……そうか」	「Tch... I see.」
+48790	Rance	真剣	「ちっ……そうか」	「Tch... I see.」
 
-48791	-	倒れたメディウサにカオスの切っ先を向けたまま、	Keeping Chaos pointed at the fallen Medusa,
-48792	+	ランスは小さく、重く呟いた。	Rance muttered quietly and heavily.
+48791	-		倒れたメディウサにカオスの切っ先を向けたまま、	Keeping Chaos pointed at the fallen Medusa,
+48792	+		ランスは小さく、重く呟いた。	Rance muttered quietly and heavily.
 
-48793	Medusa~	（くっ……！　なんて化け物っ……！	（Kuh...! What a monster...!
-48794	+	　こんなやつが……！）	　How can someone like this exist...!）
+48793	Medusa~	敗北	（くっ……！　なんて化け物っ……！	（Kuh...! What a monster...!
+48794	+		　こんなやつが……！）	　How can someone like this exist...!）
 
-48795	Rance	「――――おい」	「一一Hey.」
+48795	Rance	真剣	「――――おい」	「一一Hey.」
 
-48796	Medusa	「ぐっ……！」	「Guh...!」
+48796	Medusa	敗北	「ぐっ……！」	「Guh...!」
 
-48797	-	表情を消したランスが長い蛇頭を踏みにじり、	With an expressionless face, Rance stepped on her long snake head,
-48798	+	音もなく退こうとしたメディウサの動きを止めた。	stopping Medusa who was trying to retreat silently.
+48797	-		表情を消したランスが長い蛇頭を踏みにじり、	With an expressionless face, Rance stepped on her long snake head,
+48798	+		音もなく退こうとしたメディウサの動きを止めた。	stopping Medusa who was trying to retreat silently.
 
-48799	Rance	「おっさんやブスやばばあを	「I don't care how many old men, ugly women, or hags
-48800	+	　いくら殺そうが構わんが……」	　you kill...
+48799	Rance	真剣	「おっさんやブスやばばあを	「I don't care how many old men, ugly women, or hags
+48800	+		　いくら殺そうが構わんが……」	　you kill...
 
-48801	Rance	「………………貴様は許さん！！」	「............But I won't forgive you!!」
+48801	Rance	怒り	「………………貴様は許さん！！」	「............But I won't forgive you!!」
 
-48802	Medusa	「あ、っ…………」	「A...」
+48802	Medusa	敗北	「あ、っ…………」	「A...」
 
-48803	-	魔剣の先端が、ケーキに入れたナイフのように、	The tip of the demon sword sank smoothly and deeply
-48804	+	あっさりと、深々と魔人の胸元を貫いた。	into the Fiend's chest like a knife into cake.
+48803	-		魔剣の先端が、ケーキに入れたナイフのように、	The tip of the demon sword sank smoothly and deeply
+48804	+		あっさりと、深々と魔人の胸元を貫いた。	into the Fiend's chest like a knife into cake.
 
-48805	Medusa	「あ……あ、あぁ、っ…………！」	「A... A, aaah...!」
+48805	Medusa		「あ……あ、あぁ、っ…………！」	「A... A, aaah...!」
 
-48806	-	信じられないものを見るように、	As if seeing something unbelievable,
-48807	+	メディウサの両眼が見開かれて…………	Medusa's eyes widened...
+48806	-		信じられないものを見るように、	As if seeing something unbelievable,
+48807	+		メディウサの両眼が見開かれて…………	Medusa's eyes widened...
 
-48808	-	そのまま、魔人は崩れ落ちた。	and the Fiend collapsed.
+48808	-		そのまま、魔人は崩れ落ちた。	and the Fiend collapsed.

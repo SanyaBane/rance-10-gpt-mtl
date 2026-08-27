@@ -7,102 +7,102 @@
 * Pigu Geliciam	ピグ	Female
 * Miracle Tor	ミラクル	Female
 
-144536	-	ランスが平原を歩く途中、	While walking across the plains,
-144537	+	バボラを望遠鏡でのぞき込んだ。	Rance peered at Babolat through a telescope.
+144536	-		ランスが平原を歩く途中、	While walking across the plains,
+144537	+		バボラを望遠鏡でのぞき込んだ。	Rance peered at Babolat through a telescope.
 
-144538	Rance	「うーむ……相変わらずのデカブツめ……」	「Hmm... Still such a massive thing...」
+144538	Rance	基本	「うーむ……相変わらずのデカブツめ……」	「Hmm... Still such a massive thing...」
 
-144539	-	その姿は先程までよりも巨大に見えていた。	It looked even bigger than before.
+144539	-		その姿は先程までよりも巨大に見えていた。	It looked even bigger than before.
 
-144540	Sill Plain	「大分、近づいて来ましたね、ランス様」	「We've gotten quite close, Rance-sama.」
+144540	Sill Plain		「大分、近づいて来ましたね、ランス様」	「We've gotten quite close, Rance-sama.」
 
-144541	Rance	「……近づきたくないってのが最大の問題だな」	「...The biggest problem is that I don't want to get close.」
+144541	Rance		「……近づきたくないってのが最大の問題だな」	「...The biggest problem is that I don't want to get close.」
 
-144542	Kentou Kanami	「ん？　前方に人影発見。	「Hm? I see a figure ahead.
-144543	?	　……って、どうしたのかしら？	　...Wait, what's going on?
-144544	+	　随分慌ててこっちに来るけど」	　They're running this way in a panic.」
+144542	Kentou Kanami		「ん？　前方に人影発見。	「Hm? I see a figure ahead.
+144543	?		　……って、どうしたのかしら？	　...Wait, what's going on?
+144544	+		　随分慌ててこっちに来るけど」	　They're running this way in a panic.」
 
-144545	Rance	「なに？」	「What?」
+144545	Rance		「なに？」	「What?」
 
-144546	Man	「はあっ、はあっ……！	「Haa, haa...!
-144547	+	　あ、ひ、人！？　どうしてこんな場所に！？」	　A, h-human!? Why are you in a place like this!?」
+144546	Man		「はあっ、はあっ……！	「Haa, haa...!
+144547	+		　あ、ひ、人！？　どうしてこんな場所に！？」	　A, h-human!? Why are you in a place like this!?」
 
-144548	-	長時間走り続けていたのか、	After running for a long time,
-144549	+	息せき切った中年男性が現れた。	a breathless middle-aged man appeared.
+144548	-		長時間走り続けていたのか、	After running for a long time,
+144549	+		息せき切った中年男性が現れた。	a breathless middle-aged man appeared.
 
-144550	Rance	「そりゃ、こっちの台詞だ」	「That's my line.」
+144550	Rance	真剣	「そりゃ、こっちの台詞だ」	「That's my line.」
 
-144551	Sill Plain	「あのぉ、どうして、こんな場所に？」	「Um, why are you in a place like this?」
+144551	Sill Plain	きょとん	「あのぉ、どうして、こんな場所に？」	「Um, why are you in a place like this?」
 
-144552	Man	「ま、魔軍から逃げてきたんだよ！	「I escaped from the Monster Army!
-144553	+	　もう、あんな奴隷生活まっぴらだ！」	　I'm sick of that slave life!」
+144552	Man	基本	「ま、魔軍から逃げてきたんだよ！	「I escaped from the Monster Army!
+144553	+		　もう、あんな奴隷生活まっぴらだ！」	　I'm sick of that slave life!」
 
-144554	Rance	「奴隷だと？」	「Slaves?」
+144554	Rance		「奴隷だと？」	「Slaves?」
 
-144555	Man	「あ、ああ。奴ら、村や町の人間を奴隷にして、	「Y-yeah. They turn people from villages and towns into slaves,
-144556	+	　バボラの世話係として働かせるんだ……」	　and make them work as caretakers for Babolat...」
+144555	Man		「あ、ああ。奴ら、村や町の人間を奴隷にして、	「Y-yeah. They turn people from villages and towns into slaves,
+144556	+		　バボラの世話係として働かせるんだ……」	　and make them work as caretakers for Babolat...」
 
-144557	Rance	「ふーん、世話係が必要になる	「Hmm, I wouldn't think something that big
-144558	+	　繊細な奴には見えんがな……」	　would need delicate caretakers...」
+144557	Rance		「ふーん、世話係が必要になる	「Hmm, I wouldn't think something that big
+144558	+		　繊細な奴には見えんがな……」	　would need delicate caretakers...」
 
-144559	Satella	「正確には食事係だろうな」	「More accurately, food handlers.」
+144559	Satella		「正確には食事係だろうな」	「More accurately, food handlers.」
 
-144560	Satella	「あのサイズ相手じゃ、	「Against something that size,
-144561	+	　食材集めも料理も大量の人手が必要で大変だ」	　gathering ingredients and cooking requires huge numbers of people.」
+144560	Satella		「あのサイズ相手じゃ、	「Against something that size,
+144561	+		　食材集めも料理も大量の人手が必要で大変だ」	　gathering ingredients and cooking requires huge numbers of people.」
 
-144562	Satella	「だから人間にやらせることにしたんだろうさ」	「So they decided to use humans.」
+144562	Satella		「だから人間にやらせることにしたんだろうさ」	「So they decided to use humans.」
 
-144563	Man	「あ、ああ、その通りだ……	「Y-yeah, that's right...
-144564	+	　俺達奴隷にされた奴らは朝も夜も働き通しで	　We slaves work from morning till night without rest,
-144565	+	　休憩と食事はほんの少し……」	　with barely any breaks or food...
+144563	Man		「あ、ああ、その通りだ……	「Y-yeah, that's right...
+144564	+		　俺達奴隷にされた奴らは朝も夜も働き通しで	　We slaves work from morning till night without rest,
+144565	+		　休憩と食事はほんの少し……」	　with barely any breaks or food...
 
-144566	Man	「毎日のように、	「Every day,
-144567	+	　過労と餓死でバタバタ人が死んでるよ……」	　people are dropping dead from overwork and starvation...」
+144566	Man		「毎日のように、	「Every day,
+144567	+		　過労と餓死でバタバタ人が死んでるよ……」	　people are dropping dead from overwork and starvation...」
 
-144568	-	その光景を思い出したのか、	Recalling the scene,
-144569	+	男は憎々しげに顔を歪めた。	the man twisted his face in hatred.
+144568	-		その光景を思い出したのか、	Recalling the scene,
+144569	+		男は憎々しげに顔を歪めた。	the man twisted his face in hatred.
 
-144570	Man	「俺は食材運搬係だったんだがな……	「I was in charge of transporting ingredients...
-144571	+	　見張りの目を盗んでここまで逃げてきたんだ」	　I snuck past the guards and escaped this far.」
+144570	Man		「俺は食材運搬係だったんだがな……	「I was in charge of transporting ingredients...
+144571	+		　見張りの目を盗んでここまで逃げてきたんだ」	　I snuck past the guards and escaped this far.」
 
-144572	Rance	「ふーん……」	「Hmm...」
+144572	Rance	真剣	「ふーん……」	「Hmm...」
 
-144573	Rance	「……奴隷の中に可愛い女の子はいるか？」	「...Are there any cute girls among the slaves?」
+144573	Rance	基本	「……奴隷の中に可愛い女の子はいるか？」	「...Are there any cute girls among the slaves?」
 
-144574	Man	「へっ？」	「Heh?」
+144574	Man		「へっ？」	「Heh?」
 
-144575	Kentou Kanami	「あ、いつもの悪い癖」	「Ah, there it is, his usual bad habit.」
+144575	Kentou Kanami	ジト目	「あ、いつもの悪い癖」	「Ah, there it is, his usual bad habit.」
 
-144576	Sill Plain	「ランス様……」	「Rance-sama...」
+144576	Sill Plain	恥	「ランス様……」	「Rance-sama...」
 
-144577	Man	「可愛い子、ねえ……	「Cute girls, huh...
-144578	+	　まあ何人かいたけどそれがどうした？」	　There were a few, but so what?」
+144577	Man	基本	「可愛い子、ねえ……	「Cute girls, huh...
+144578	+		　まあ何人かいたけどそれがどうした？」	　There were a few, but so what?」
 
-144579	Rance	「よし、助けに行くぞ！」	「Alright, we're going to rescue them!」
+144579	Rance	笑顔	「よし、助けに行くぞ！」	「Alright, we're going to rescue them!」
 
-144580	Rance~	（そしてお礼に……ぐふふ……）	（And then for thanks... hehehe...）
+144580	Rance~	エロ顔	（そしてお礼に……ぐふふ……）	（And then for thanks... hehehe...）
 
-144581	Man	「ほ、本気か！？	「Are you serious!?
-144582	+	　奴隷の傍じゃ魔軍部隊の見張りがいるんだ、	　There are Monster Army guards near the slaves,
-144583	+	　こんな少人数じゃ殺されちまうぞ！」	　with this small group we'll be killed!」
+144581	Man	基本	「ほ、本気か！？	「Are you serious!?
+144582	+		　奴隷の傍じゃ魔軍部隊の見張りがいるんだ、	　There are Monster Army guards near the slaves,
+144583	+		　こんな少人数じゃ殺されちまうぞ！」	　with this small group we'll be killed!」
 
-144584	Rance	「俺様はいつだって本気なのだ」	「I'm always serious.」
+144584	Rance		「俺様はいつだって本気なのだ」	「I'm always serious.」
 
-144585	Rance	「というわけでお前、回れ右しろ」	「So turn around.」
+144585	Rance		「というわけでお前、回れ右しろ」	「So turn around.」
 
-144586	Man	「ま、まさか……」	「N-no way...」
+144586	Man		「ま、まさか……」	「N-no way...」
 
-144587	Rance	「さぁー、キリキリと魔軍のいるところまで	「Now then, lead us quickly back to where the Monster Army is!
-144588	+	　案内してもらおうか！　がはははは！」	　Gahahahaha!」
+144587	Rance	笑顔	「さぁー、キリキリと魔軍のいるところまで	「Now then, lead us quickly back to where the Monster Army is!
+144588	+		　案内してもらおうか！　がはははは！」	　Gahahahaha!」
 
-144589	Man	「えーっ！？	「Ehhh!?
-144590	+	　せっかくここまで逃げてきたってのにー！？」	　I finally escaped this far!」
+144589	Man	基本	「えーっ！？	「Ehhh!?
+144590	+		　せっかくここまで逃げてきたってのにー！？」	　I finally escaped this far!」
 
-144591	Rance	「グダグダ抜かすとしばき回しの刑だぞ！	「If you keep complaining I'll beat you senseless!
-144592	+	　がははははははは！」	　Gahahahahahaha!」
+144591	Rance		「グダグダ抜かすとしばき回しの刑だぞ！	「If you keep complaining I'll beat you senseless!
+144592	+		　がははははははは！」	　Gahahahahahaha!」
 
-144593	Man	「ひえーーーーっ！？」	「Hieeeeh!?」
+144593	Man		「ひえーーーーっ！？」	「Hieeeeh!?」
 
-144594	Pigu Geliciam	「お約束だね」	「As expected.」
+144594	Pigu Geliciam		「お約束だね」	「As expected.」
 
-144595	Miracle Tor	「まあよかろう」	「Well, fine.」
+144595	Miracle Tor	ライドオン	「まあよかろう」	「Well, fine.」

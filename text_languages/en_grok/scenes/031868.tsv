@@ -3,64 +3,64 @@
 * Heidi Pankrau	ハイジ	Female
 * Biscuitta Burns	ビスケッタ	Female
 
-107231	-	ランス城の廊下を、	In the hallway of Rance Castle,
-107232	+	大量のシーツを抱えたメイドのクリンが	the maid Klean was happily running around
-107233	+	パタパタとなんだか楽しそうに走り回っていた。	carrying a large pile of sheets.
+107231	-		ランス城の廊下を、	In the hallway of Rance Castle,
+107232	+		大量のシーツを抱えたメイドのクリンが	the maid Klean was happily running around
+107233	+		パタパタとなんだか楽しそうに走り回っていた。	carrying a large pile of sheets.
 
-107234	Klean Bew	「はー、忙しい忙しい」	「Haa, so busy, so busy.」
+107234	Klean Bew	基本	「はー、忙しい忙しい」	「Haa, so busy, so busy.」
 
-107235	Klean Bew	「あ、先輩、こんなところで何してるんですか？	「Ah, senpai, what are you doing here?
-107236	+	　サボり？」	　Slacking off?」
+107235	Klean Bew	心ここにあらず	「あ、先輩、こんなところで何してるんですか？	「Ah, senpai, what are you doing here?
+107236	+		　サボり？」	　Slacking off?」
 
-107237	Heidi Pankrau	「なんだ、あんたか……」	「Oh, it's you...」
+107237	Heidi Pankrau	基本	「なんだ、あんたか……」	「Oh, it's you...」
 
-107238	Heidi Pankrau	「自主的な休憩よ、	「It's a voluntary break.
-107239	+	　作業は続けすぎると効率が悪いのよ」	　Working too long lowers efficiency.」
+107238	Heidi Pankrau		「自主的な休憩よ、	「It's a voluntary break.
+107239	+		　作業は続けすぎると効率が悪いのよ」	　Working too long lowers efficiency.」
 
-107240	Klean Bew	「そんな屁理屈を……	「Such excuses...
-107241	+	　メイド長にまた叱られますよー？」	　The head maid will scold you again.」
+107240	Klean Bew	心ここにあらず	「そんな屁理屈を……	「Such excuses...
+107241	+		　メイド長にまた叱られますよー？」	　The head maid will scold you again.」
 
-107242	Heidi Pankrau	「だーいじょうぶよ。	「It's fiiine.
-107243	+	　ほら、今は正門のところで仕事してる」	　See, I'm working at the main gate right now.」
+107242	Heidi Pankrau	基本	「だーいじょうぶよ。	「It's fiiine.
+107243	+		　ほら、今は正門のところで仕事してる」	　See, I'm working at the main gate right now.」
 
-107244	-	窓の外から見えるビスケッタは、	Through the window, Biscuitta could be seen
-107245	+	城から出て行く兵達の	seeing off the soldiers leaving the castle.
-107246	+	見送りをしているところだった。	
+107244	-		窓の外から見えるビスケッタは、	Through the window, Biscuitta could be seen
+107245	+		城から出て行く兵達の	seeing off the soldiers leaving the castle.
+107246	+		見送りをしているところだった。	
 
-107247	Heidi Pankrau	「大体、今日は少し忙しすぎるのよ、	「Anyway, today is a bit too busy,
-107248	+	　力を抜くところは抜いて、	　so I need to relax where I can
-107249	+	　効率的に動かないと潰れちゃうわ」	　and work efficiently or I'll collapse.」
+107247	Heidi Pankrau		「大体、今日は少し忙しすぎるのよ、	「Anyway, today is a bit too busy,
+107248	+		　力を抜くところは抜いて、	　so I need to relax where I can
+107249	+		　効率的に動かないと潰れちゃうわ」	　and work efficiently or I'll collapse.」
 
-107250	Klean Bew	「もー……」	「Mou...」
+107250	Klean Bew		「もー……」	「Mou...」
 
-107251	Biscuitta Burns	「どうかしましたか？」	「Is something the matter?」
+107251	Biscuitta Burns		「どうかしましたか？」	「Is something the matter?」
 
-107252	Heidi Pankrau	「ひうううっ！？」	「Hyuuu!?」
+107252	Heidi Pankrau	ビクゥ！	「ひうううっ！？」	「Hyuuu!?」
 
-107253	Heidi Pankrau	「あ、いえいえいえ、なんでもありません！」	「Ah, no no no, nothing at all!」
+107253	Heidi Pankrau	脂汗	「あ、いえいえいえ、なんでもありません！」	「Ah, no no no, nothing at all!」
 
-107254	Biscuitta Burns	「……そうですか」	「...I see.」
+107254	Biscuitta Burns	レンズピカー	「……そうですか」	「...I see.」
 
-107255	Biscuitta Burns	「今日は午後から新たな兵、	「New soldiers, thirty of them,
-107256	+	　三十名がお越しになるので忙しくなります。	　will arrive this afternoon so it will get busy.
-107257	+	　それまでに持ち場の仕事は終わらせて下さい」	　Please finish your assigned tasks before then.」
+107255	Biscuitta Burns	基本	「今日は午後から新たな兵、	「New soldiers, thirty of them,
+107256	+		　三十名がお越しになるので忙しくなります。	　will arrive this afternoon so it will get busy.
+107257	+		　それまでに持ち場の仕事は終わらせて下さい」	　Please finish your assigned tasks before then.」
 
-107258	Heidi Pankrau	「は、はーい……」	「Y, yes...」
+107258	Heidi Pankrau		「は、はーい……」	「Y, yes...」
 
-107259	Klean Bew	「はーい」	「Yes.」
+107259	Klean Bew		「はーい」	「Yes.」
 
-107260	-	ビスケッタが去ってから、	After Biscuitta left,
-107261	+	ハイジは胸をなで下ろした。	Heidi breathed a sigh of relief.
+107260	-		ビスケッタが去ってから、	After Biscuitta left,
+107261	+		ハイジは胸をなで下ろした。	Heidi breathed a sigh of relief.
 
-107262	Heidi Pankrau	「あ、あのさ……」	「U-um...」
+107262	Heidi Pankrau	脂汗	「あ、あのさ……」	「U-um...」
 
-107263	Heidi Pankrau	「メイド長……今、瞬間移動しなかった？」	「Head maid... Did she just teleport?」
+107263	Heidi Pankrau		「メイド長……今、瞬間移動しなかった？」	「Head maid... Did she just teleport?」
 
-107264	Klean Bew	「今日は忙しいですからねぇ……	「Today is really busy...
-107265	+	　それくらいしないと、	　If she doesn't do at least that,
-107266	+	　お仕事終わらないんですよ、きっと……」	　the work won't get done... probably.」
+107264	Klean Bew	心ここにあらず	「今日は忙しいですからねぇ……	「Today is really busy...
+107265	+		　それくらいしないと、	　If she doesn't do at least that,
+107266	+		　お仕事終わらないんですよ、きっと……」	　the work won't get done... probably.」
 
-107267	Heidi Pankrau	「いやいやいや……」	「No no no...」
+107267	Heidi Pankrau	脂汗	「いやいやいや……」	「No no no...」
 
-107268	Heidi Pankrau	「本当にしてるかもと思わせる辺りが、	「The way she makes you think she might actually do it
-107269	+	　こう……最高にメイド長って感じだわ」	　is just... the ultimate head maid vibe.」
+107268	Heidi Pankrau		「本当にしてるかもと思わせる辺りが、	「The way she makes you think she might actually do it
+107269	+		　こう……最高にメイド長って感じだわ」	　is just... the ultimate head maid vibe.」

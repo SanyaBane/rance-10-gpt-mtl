@@ -2,85 +2,85 @@
 * Asakura Yoshikage	朝倉義景	Male
 * Rance	ランス	Male
 
-59112	Asakura Yoshikage	「さて……厄介な事になりましたな」	「Well... this has become quite troublesome.」
+59112	Asakura Yoshikage	基本	「さて……厄介な事になりましたな」	「Well... this has become quite troublesome.」
 
-59113	-	JAPAN浅井朝倉家の当主、朝倉義景が	The head of the Asai-Asakura family of JAPAN, Asakura Yoshikage,
-59114	+	ランスの呼びかけに応じてやって来た。	came in response to Rance's call.
+59113	-		JAPAN浅井朝倉家の当主、朝倉義景が	The head of the Asai-Asakura family of JAPAN, Asakura Yoshikage,
+59114	+		ランスの呼びかけに応じてやって来た。	came in response to Rance's call.
 
-59115	Rance	「おい爺さん。お前が内通者じゃあるまいな」	「Hey old man. You're not the traitor, are you?」
+59115	Rance	真剣	「おい爺さん。お前が内通者じゃあるまいな」	「Hey old man. You're not the traitor, are you?」
 
-59116	Asakura Yoshikage	「私が、ですか……」	「Me...?」
+59116	Asakura Yoshikage	基本	「私が、ですか……」	「Me...?」
 
-59117	Rance	「おう。悪人ヅラだし、裏切ってもおかしくない」	「Yeah. You have the face of a villain, so it wouldn't be strange if you betrayed us.」
+59117	Rance	真剣	「おう。悪人ヅラだし、裏切ってもおかしくない」	「Yeah. You have the face of a villain, so it wouldn't be strange if you betrayed us.」
 
-59118	Asakura Yoshikage	「私、JAPANではこの顔で貴方に仕え、	「With this face I served you in JAPAN,
-59119	+	　魔人ザビエル率いる魔軍と戦ったのですがな……」	　and fought against the Monster Army led by Fiend Xavier...」
+59118	Asakura Yoshikage	基本	「私、JAPANではこの顔で貴方に仕え、	「With this face I served you in JAPAN,
+59119	+		　魔人ザビエル率いる魔軍と戦ったのですがな……」	　and fought against the Monster Army led by Fiend Xavier...」
 
-59120	Rance	「んー、そんな事もあったか」	「Hmm, yeah that did happen.」
+59120	Rance	真剣	「んー、そんな事もあったか」	「Hmm, yeah that did happen.」
 
-59121	Asakura Yoshikage	「しかし、内通者を捜すというのは、	「However, searching for a traitor normally requires
-59122	+	　本来、綿密な調査が必要なもの……	　thorough investigation...
-59123	+	　そのような時間、今はありませんからな」	　We don't have that kind of time now.」
+59121	Asakura Yoshikage	基本	「しかし、内通者を捜すというのは、	「However, searching for a traitor normally requires
+59122	+		　本来、綿密な調査が必要なもの……	　thorough investigation...
+59123	+		　そのような時間、今はありませんからな」	　We don't have that kind of time now.」
 
-59124	Rance	「誰か一人くらい、	「Haven't you got at least one suspicious person
-59125	+	　怪しい奴の目星とか付けてないのか」	　in mind?」
+59124	Rance	真剣	「誰か一人くらい、	「Haven't you got at least one suspicious person
+59125	+		　怪しい奴の目星とか付けてないのか」	　in mind?」
 
-59126	Asakura Yoshikage	「ふむ……私も多少、要人達と接してみましたが、	「Hmm... I've interacted with some important people,
-59127	+	　巧妙に隠しているようですな」	　but they seem to be hiding it skillfully.」
+59126	Asakura Yoshikage	基本	「ふむ……私も多少、要人達と接してみましたが、	「Hmm... I've interacted with some important people,
+59127	+		　巧妙に隠しているようですな」	　but they seem to be hiding it skillfully.」
 
-59128	Rance	「分からんのか。けっ、役に立たん」	「You don't know? Tch, useless.」
+59128	Rance	だる顔	「分からんのか。けっ、役に立たん」	「You don't know? Tch, useless.」
 
-59129	Asakura Yoshikage	「人間が魔軍に付く……というと、	「When humans side with the Monster Army...
-59130	+	　私としてはあの時の戦を思い出しますな」	　It reminds me of that battle back then.」
+59129	Asakura Yoshikage	基本	「人間が魔軍に付く……というと、	「When humans side with the Monster Army...
+59130	+		　私としてはあの時の戦を思い出しますな」	　It reminds me of that battle back then.」
 
-59131	Rance	「…………む？　ザビエルの時か」	「............Hm? You mean during Xavier's time?」
+59131	Rance	真剣	「…………む？　ザビエルの時か」	「............Hm? You mean during Xavier's time?」
 
-59132	Asakura Yoshikage	「さよう……あの時は九州の雄、島津家が敵でした。	「Indeed... At that time, the powerful Shimazu clan of Kyushu was the enemy.
-59133	+	　彼らは……確か魔人に、	　They... I believe had their
-59134	+	　親代わりの女性を人質に取られたのでしたか」	　surrogate mother taken hostage by a Fiend.」
+59132	Asakura Yoshikage	基本	「さよう……あの時は九州の雄、島津家が敵でした。	「Indeed... At that time, the powerful Shimazu clan of Kyushu was the enemy.
+59133	+		　彼らは……確か魔人に、	　They... I believe had their
+59134	+		　親代わりの女性を人質に取られたのでしたか」	　surrogate mother taken hostage by a Fiend.」
 
-59135	Rance	「おう、そうだ。黒姫だ」	「Yeah, that's right. Kurohime.」
+59135	Rance		「おう、そうだ。黒姫だ」	「Yeah, that's right. Kurohime.」
 
-59136	Asakura Yoshikage	「家族の為ならば鬼になる……	「Becoming a demon for the sake of family...
-59137	+	　その心持ちは、妙に身に染みいったものです。	　That feeling really hit home for me.
-59138	+	　……同じ事が起こっている訳ではないでしょうが」	　...Though it's probably not the same situation.」
+59136	Asakura Yoshikage		「家族の為ならば鬼になる……	「Becoming a demon for the sake of family...
+59137	+		　その心持ちは、妙に身に染みいったものです。	　That feeling really hit home for me.
+59138	+		　……同じ事が起こっている訳ではないでしょうが」	　...Though it's probably not the same situation.」
 
-59139	Rance	「……何が言いたい」	「...What are you trying to say?」
+59139	Rance	真剣	「……何が言いたい」	「...What are you trying to say?」
 
-59140	Asakura Yoshikage	「やむにやまれぬ事情がある……	「There are unavoidable circumstances...
-59141	+	　魔物に寝返る者がいるとすれば、	　If someone is turning to the monsters,
-59142	+	　そういう者ではないか……という事です」	　it would likely be for such reasons.」
+59140	Asakura Yoshikage	基本	「やむにやまれぬ事情がある……	「There are unavoidable circumstances...
+59141	+		　魔物に寝返る者がいるとすれば、	　If someone is turning to the monsters,
+59142	+		　そういう者ではないか……という事です」	　it would likely be for such reasons.」
 
-59143	Rance	「ふん。内通者の事情なんぞ知るか。	「Hmph. I don't care about the traitor's reasons.
-59144	+	　とりあえず誰か一人、犯人としてぶっ殺すか。	　For now, I'll just pick someone and kill them as the culprit.
-59145	+	　それで雑兵どもがガタガタうるさいのはやむだろ」	　That should shut up the noisy grunts.」
+59143	Rance	真剣	「ふん。内通者の事情なんぞ知るか。	「Hmph. I don't care about the traitor's reasons.
+59144	+		　とりあえず誰か一人、犯人としてぶっ殺すか。	　For now, I'll just pick someone and kill them as the culprit.
+59145	+		　それで雑兵どもがガタガタうるさいのはやむだろ」	　That should shut up the noisy grunts.」
 
-59146	Asakura Yoshikage	「…………なるほど……	「............I see...
-59147	+	　そういう考え方もありますか……」	　That's one way to think about it...」
+59146	Asakura Yoshikage	基本	「…………なるほど……	「............I see...
+59147	+		　そういう考え方もありますか……」	　That's one way to think about it...」
 
-59148	Rance	「がはははは、爺さんでも別にいいぞ。	「Gahahahaha, even you are fine, old man.
-59149	+	　一撃で送ってやろう」	　I'll send you off with one blow.」
+59148	Rance	笑顔	「がはははは、爺さんでも別にいいぞ。	「Gahahahaha, even you are fine, old man.
+59149	+		　一撃で送ってやろう」	　I'll send you off with one blow.」
 
-59150	Asakura Yoshikage	「遠慮しておきましょう。	「I'll pass on that.
-59151	+	　貴方が私を殺したと聞けば、	　If Yuki hears that you killed me,
-59152	+	　どうも雪が哀しみそうだ」	　she would probably be very sad.」
+59150	Asakura Yoshikage	基本	「遠慮しておきましょう。	「I'll pass on that.
+59151	+		　貴方が私を殺したと聞けば、	　If Yuki hears that you killed me,
+59152	+		　どうも雪が哀しみそうだ」	　she would probably be very sad.」
 
-59153	Rance	「ん？　雪ちゃんか。	「Hm? Yuki-chan.
-59154	+	　…………むう。そういややたら親孝行だったか。	　............Muu. Come to think of it, she was really filial.
-59155	+	　また狙われてしまうかな」	　She might get targeted again.」
+59153	Rance	真剣	「ん？　雪ちゃんか。	「Hm? Yuki-chan.
+59154	+		　…………むう。そういややたら親孝行だったか。	　............Muu. Come to think of it, she was really filial.
+59155	+		　また狙われてしまうかな」	　She might get targeted again.」
 
-59156	Asakura Yoshikage	「さて、どうでしょうか……	「Well, who knows...
-59157	?	ともあれ、	Anyway,
-59158	+	　疑心暗鬼の方は、私が説得してみましょう」	　I'll try to persuade them regarding the paranoia.」
+59156	Asakura Yoshikage	基本	「さて、どうでしょうか……	「Well, who knows...
+59157	?		ともあれ、	Anyway,
+59158	+		　疑心暗鬼の方は、私が説得してみましょう」	　I'll try to persuade them regarding the paranoia.」
 
-59159	Rance	「む、そうか」	「Hm, I see.」
+59159	Rance	真剣	「む、そうか」	「Hm, I see.」
 
-59160	Asakura Yoshikage	「元々があやふやなもの。とっくり話せば、	「It's originally vague. If we talk properly,
-59161	+	　戦までに激発する事は避けられるでしょう」	　we should be able to avoid any outbursts before the battle.」
+59160	Asakura Yoshikage	基本	「元々があやふやなもの。とっくり話せば、	「It's originally vague. If we talk properly,
+59161	+		　戦までに激発する事は避けられるでしょう」	　we should be able to avoid any outbursts before the battle.」
 
-59162	Rance	「ふーん、まぁいいだろう。	「Hmm, well alright.
-59163	+	　よきに計らえ」	　Handle it as you see fit.」
+59162	Rance		「ふーん、まぁいいだろう。	「Hmm, well alright.
+59163	+		　よきに計らえ」	　Handle it as you see fit.」
 
-59164	Asakura Yoshikage	「それでは…………」	「Then............」
+59164	Asakura Yoshikage		「それでは…………」	「Then............」
 
-59165	-	朝倉義景は一礼して出て行った。	Asakura Yoshikage bowed and left.
+59165	-		朝倉義景は一礼して出て行った。	Asakura Yoshikage bowed and left.

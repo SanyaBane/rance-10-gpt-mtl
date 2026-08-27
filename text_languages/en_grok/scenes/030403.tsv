@@ -2,57 +2,57 @@
 * Rance	ランス	Male
 * Cantel	キャンテル	Male
 
-5333	Rance	「があーーーーっ……ふごーーーっ……」	「Gaaa...... fugooo......」
+5333	Rance	笑顔	「があーーーーっ……ふごーーーっ……」	「Gaaa...... fugooo......」
 
-5334	-	ランスが、中庭で昼寝していた。	Rance was taking a nap in the courtyard.
+5334	-		ランスが、中庭で昼寝していた。	Rance was taking a nap in the courtyard.
 
-5335	Rance	「ぬぐふふふ……そんなに言うなら仕方あるまい……	「Nugufufu...... if you insist that much, I guess I have no choice......
-5336	+	　バッチリすっきり抱いて……すぴょぴょぴょ……」	　I'll hold you tight and clean...... supyopyopyo......」
+5335	Rance		「ぬぐふふふ……そんなに言うなら仕方あるまい……	「Nugufufu...... if you insist that much, I guess I have no choice......
+5336	+		　バッチリすっきり抱いて……すぴょぴょぴょ……」	　I'll hold you tight and clean...... supyopyopyo......」
 
-5337	Rance	「……ううっ、ぶるぶるっ……寒っ……」	「......Uuh, shiver...... cold......」
+5337	Rance	驚き	「……ううっ、ぶるぶるっ……寒っ……」	「......Uuh, shiver...... cold......」
 
-5338	-	風が、少し強く吹く。	The wind blew a bit stronger.
+5338	-		風が、少し強く吹く。	The wind blew a bit stronger.
 
-5339	?	「……………………」	「........................」
+5339	?		「……………………」	「........................」
 
-5340	Rance	「お……ぬくぬく……ぐうぐう……」	「Oh...... warm...... zzz......」
+5340	Rance	笑顔	「お……ぬくぬく……ぐうぐう……」	「Oh...... warm...... zzz......」
 
-5341	-	………………	..............
+5341	-		………………	..............
 
-5342	-	…………	............
+5342	-		…………	............
 
-5343	Rance	「んん……おお、寝てたか……	「Nnn...... Oh, I was sleeping......
-5344	+	　そろそろ、起き……」	　Time to wake......」
+5343	Rance	基本	「んん……おお、寝てたか……	「Nnn...... Oh, I was sleeping......
+5344	+		　そろそろ、起き……」	　Time to wake......」
 
-5345	Rance	「うぉっ！？　なんじゃ、真っ白っ……！？」	「Whoa!? What the, it's all white......!?」
+5345	Rance	驚き	「うぉっ！？　なんじゃ、真っ白っ……！？」	「Whoa!? What the, it's all white......!?」
 
-5346	?	「ああ……起きたか…………」	「Ah...... you're awake............」
+5346	?		「ああ……起きたか…………」	「Ah...... you're awake............」
 
-5347	Cantel	「よくないぞ……外で寝過ぎると、風邪を引く……」	「Not good...... sleeping outside too much will make you catch a cold......」
+5347	Cantel	基本	「よくないぞ……外で寝過ぎると、風邪を引く……」	「Not good...... sleeping outside too much will make you catch a cold......」
 
-5348	Rance	「って、お前か、キャンテル！	「So it was you, Cantel!
-5349	+	　むさいわ、このトカゲが！」	　Stinky lizard!」
+5348	Rance	怒り	「って、お前か、キャンテル！	「So it was you, Cantel!
+5349	+		　むさいわ、このトカゲが！」	　Stinky lizard!」
 
-5350	Cantel	「いたた……乱暴だな、相変わらず……」	「Ouch...... as violent as ever......」
+5350	Cantel	基本	「いたた……乱暴だな、相変わらず……」	「Ouch...... as violent as ever......」
 
-5351	-	小揺るぎもせずに、ドラゴンは蹴られた場所を	Without flinching, the dragon lightly scratched
-5352	+	軽く爪で掻いた。	the kicked spot with its claw.
+5351	-		小揺るぎもせずに、ドラゴンは蹴られた場所を	Without flinching, the dragon lightly scratched
+5352	+		軽く爪で掻いた。	the kicked spot with its claw.
 
-5353	Rance	「というか、お前デカすぎ！	「More importantly, you're too big!
-5354	+	　中庭が狭いではないか！　縮め！」	　The courtyard is too cramped! Shrink!」
+5353	Rance	イライラ	「というか、お前デカすぎ！	「More importantly, you're too big!
+5354	+		　中庭が狭いではないか！　縮め！」	　The courtyard is too cramped! Shrink!」
 
-5355	Cantel	「無茶を言うなあ……まあ、起きたならいい……」	「Don't ask the impossible...... Well, as long as you're awake......」
+5355	Cantel	基本	「無茶を言うなあ……まあ、起きたならいい……」	「Don't ask the impossible...... Well, as long as you're awake......」
 
-5356	-	音も立てず、ふわりと宙を舞うと、	Without a sound, Cantel floated gracefully into the air
-5357	+	キャンテルはどこかへ飛んでいった。	and flew off somewhere.
+5356	-		音も立てず、ふわりと宙を舞うと、	Without a sound, Cantel floated gracefully into the air
+5357	+		キャンテルはどこかへ飛んでいった。	and flew off somewhere.
 
-5358	Rance	「まったく……」	「Good grief......」
+5358	Rance	イライラ	「まったく……」	「Good grief......」
 
-5359	Rance	「うお、寒っ！　風、強っ……へくしょん！」	「Whoa, cold! Strong wind...... achoo!」
+5359	Rance	驚き	「うお、寒っ！　風、強っ……へくしょん！」	「Whoa, cold! Strong wind...... achoo!」
 
-5360	Rance	「……あいつ、風除けになってたのか……？」	「......Was that guy acting as a windbreak......?」
+5360	Rance	だる顔	「……あいつ、風除けになってたのか……？」	「......Was that guy acting as a windbreak......?」
 
-5361	Cantel	「ブエックショオオン……！」	「Bueckshoooon......!」
+5361	Cantel	基本	「ブエックショオオン……！」	「Bueckshoooon......!」
 
-5362	Cantel	「うう、高山の近くは冷えるな……	「Uuh, it's cold near high mountains......
-5363	+	　風邪引きそうだ……」	　I might catch a cold......」
+5362	Cantel		「うう、高山の近くは冷えるな……	「Uuh, it's cold near high mountains......
+5363	+		　風邪引きそうだ……」	　I might catch a cold......」

@@ -7,78 +7,78 @@
 * Kobayakawa Chinu	ちぬ	Female
 * Skeleton King Modokata	骸骨王モドカタ	Male
 
-172308	-	門を守るように巨大なモンスターが立ちはだかる。	A giant monster stood blocking the gate.
+172308	-		門を守るように巨大なモンスターが立ちはだかる。	A giant monster stood blocking the gate.
 
-172309	Sill Plain	「ひっ……！」	「Hii...!」
+172309	Sill Plain	基本	「ひっ……！」	「Hii...!」
 
-172310	Satella	「ちっ……厄介な奴が……」	「Tch... What a troublesome bastard...」
+172310	Satella	怒り	「ちっ……厄介な奴が……」	「Tch... What a troublesome bastard...」
 
-172311	Rance	「誰だ？」	「Who is it?」
+172311	Rance	基本	「誰だ？」	「Who is it?」
 
-172312	Satella	「骸骨王モドカタ……	「Skeleton King Modokata...
-172313	+	　ケイブリス派で戦っていた魔物だ」	　A monster who fought for Kayblis's faction.」
+172312	Satella	怒り	「骸骨王モドカタ……	「Skeleton King Modokata...
+172313	+		　ケイブリス派で戦っていた魔物だ」	　A monster who fought for Kayblis's faction.」
 
-172314	Satella	「奴は魔人でも使徒でもないが、	「He's neither Fiend nor apostle,
-172315	+	　それらに匹敵するくらいに強いぞ」	　but strong enough to rival them.」
+172314	Satella		「奴は魔人でも使徒でもないが、	「He's neither Fiend nor apostle,
+172315	+		　それらに匹敵するくらいに強いぞ」	　but strong enough to rival them.」
 
-172316	-	その姿、まさしく異形。	His form was truly grotesque.
+172316	-		その姿、まさしく異形。	His form was truly grotesque.
 
-172317	-	骸骨を全身に浮き上がらせた武者の上半身、	Upper body of a warrior with bones floating all over,
-172318	+	そして海老のような姿の多脚型の下半身。	and a multi-legged lower body like a shrimp.
+172317	-		骸骨を全身に浮き上がらせた武者の上半身、	Upper body of a warrior with bones floating all over,
+172318	+		そして海老のような姿の多脚型の下半身。	and a multi-legged lower body like a shrimp.
 
-172319	-	上半身だけで三メートル近くある巨体、	The upper body alone was nearly three meters tall,
-172320	+	下半身まで含めればどれほどの全長になるかも	so the full length including the lower body
-172321	+	分からなかった。	was unknown.
+172319	-		上半身だけで三メートル近くある巨体、	The upper body alone was nearly three meters tall,
+172320	+		下半身まで含めればどれほどの全長になるかも	so the full length including the lower body
+172321	+		分からなかった。	was unknown.
 
-172322	Mouri Teru	「まさか、こんな場所で	「To think we'd meet Modokata again
-172323	+	　モドカタにまた相まみえようとはな」	　in a place like this.」
+172322	Mouri Teru	妊婦	「まさか、こんな場所で	「To think we'd meet Modokata again
+172323	+		　モドカタにまた相まみえようとはな」	　in a place like this.」
 
-172324	Rance	「知り合いなのか？」	「You know him?」
+172324	Rance	基本	「知り合いなのか？」	「You know him?」
 
-172325	Kikkawa Kiku	「うちの実家の近くに	「Near my family home
-172326	+	　あの世と繋がっていると言われる、	　there's a labyrinth called Yomotsu Hirasaka
-172327	+	　黄泉平坂って迷宮があるんだが……」	　said to connect to the underworld...」
+172325	Kikkawa Kiku		「うちの実家の近くに	「Near my family home
+172326	+		　あの世と繋がっていると言われる、	　there's a labyrinth called Yomotsu Hirasaka
+172327	+		　黄泉平坂って迷宮があるんだが……」	　said to connect to the underworld...」
 
-172328	Kikkawa Kiku	「奴はそこから生まれたって言われてる奴だよ」	「He's said to have been born from there.」
+172328	Kikkawa Kiku		「奴はそこから生まれたって言われてる奴だよ」	「He's said to have been born from there.」
 
-172329	Kikkawa Kiku	「一代限りのレアモンスター、つったかな……」	「A one-generation-only rare monster, I think...」
+172329	Kikkawa Kiku		「一代限りのレアモンスター、つったかな……」	「A one-generation-only rare monster, I think...」
 
-172330	Kobayakawa Chinu	「その強さをおとーたまが気に入って、	「Father liked his strength,
-172331	+	　一時期、毛利家の食客さんだったのよ？」	　and he was a guest of the Mouri family for a while.」
+172330	Kobayakawa Chinu		「その強さをおとーたまが気に入って、	「Father liked his strength,
+172331	+		　一時期、毛利家の食客さんだったのよ？」	　and he was a guest of the Mouri family for a while.」
 
-172332	Rance	「知り合いならどくように言え。	「If you know him, tell him to step aside.
-172333	+	　無駄な戦いは疲れるだけだ」	　Useless fights are just tiring.」
+172332	Rance		「知り合いならどくように言え。	「If you know him, tell him to step aside.
+172333	+		　無駄な戦いは疲れるだけだ」	　Useless fights are just tiring.」
 
-172334	Kobayakawa Chinu	「ごめんね、ランスたま、それ無理なの☆」	「Sorry Rance-tama, that's impossible☆」
+172334	Kobayakawa Chinu		「ごめんね、ランスたま、それ無理なの☆」	「Sorry Rance-tama, that's impossible☆」
 
-172335	Kikkawa Kiku	「ていうか無駄、かな」	「Actually, it might be pointless.」
+172335	Kikkawa Kiku		「ていうか無駄、かな」	「Actually, it might be pointless.」
 
-172336	Mouri Teru	「親しい、それが我が刃を納める理由にはならんな」	「Being close doesn't mean I'll sheathe my blade.
+172336	Mouri Teru	妊婦	「親しい、それが我が刃を納める理由にはならんな」	「Being close doesn't mean I'll sheathe my blade.
 
-172337	Mouri Teru	「とでも言うであろうな……」	　That's probably what he'd say...」
+172337	Mouri Teru		「とでも言うであろうな……」	　That's probably what he'd say...」
 
-172338	Rance	「どういう意味だ？」	「What do you mean?」
+172338	Rance	基本	「どういう意味だ？」	「What do you mean?」
 
-172339	Mouri Teru	「奴は、修羅の國から産まれし、	「He was born in the land of carnage,
-172340	+	　死を纏う人骨の王」	　the king of human bones cloaked in death.」
+172339	Mouri Teru	妊婦	「奴は、修羅の國から産まれし、	「He was born in the land of carnage,
+172340	+		　死を纏う人骨の王」	　the king of human bones cloaked in death.」
 
-172341	Mouri Teru	「常にその身が本能的に死を欲する」	「His body instinctively craves death at all times.」
+172341	Mouri Teru		「常にその身が本能的に死を欲する」	「His body instinctively craves death at all times.」
 
-172342	Kikkawa Kiku	「親しい間柄であればあるほど、	「The closer the relationship,
-172343	+	　その相手を発作的に殺したいと願う、	　the more he suddenly wants to kill them,
-172344	+	　そういう因果な業を持ってるんだ」	　that's the cursed karma he carries.」
+172342	Kikkawa Kiku	基本	「親しい間柄であればあるほど、	「The closer the relationship,
+172343	+		　その相手を発作的に殺したいと願う、	　the more he suddenly wants to kill them,
+172344	+		　そういう因果な業を持ってるんだ」	　that's the cursed karma he carries.」
 
-172345	Mouri Teru	「最初は歓迎しておった我が毛利も、	「Even our Mouri family who welcomed him at first
-172346	+	　最後には元就の手によって	　was eventually forced by Motonari
-172347	+	　放逐せざるを得なかったほどにな」	　to drive him out.」
+172345	Mouri Teru	妊婦	「最初は歓迎しておった我が毛利も、	「Even our Mouri family who welcomed him at first
+172346	+		　最後には元就の手によって	　was eventually forced by Motonari
+172347	+		　放逐せざるを得なかったほどにな」	　to drive him out.」
 
-172348	Mouri Teru	「ふんっ、ケイブリスに使われるとは……	「Hmph, to think you'd serve Kayblis...
-172349	+	　貴様はもっと誇り高きもののふだと思っていたぞ」	　I thought you were a more proud warrior.」
+172348	Mouri Teru		「ふんっ、ケイブリスに使われるとは……	「Hmph, to think you'd serve Kayblis...
+172349	+		　貴様はもっと誇り高きもののふだと思っていたぞ」	　I thought you were a more proud warrior.」
 
-172350	Skeleton King Modokata	「…………」	「............」
+172350	Skeleton King Modokata	基本	「…………」	「............」
 
-172351	Rance	「おい、なんとか言ったらどうだ！？」	「Hey, say something!」
+172351	Rance		「おい、なんとか言ったらどうだ！？」	「Hey, say something!」
 
-172352	Skeleton King Modokata	「……語るべき言葉は持たん」	「...I have no words to speak.」
+172352	Skeleton King Modokata		「……語るべき言葉は持たん」	「...I have no words to speak.」
 
-172353	Skeleton King Modokata	「死に呑まれよ！」	「Be swallowed by death!」
+172353	Skeleton King Modokata		「死に呑まれよ！」	「Be swallowed by death!」

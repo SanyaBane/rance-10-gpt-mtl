@@ -3,99 +3,99 @@
 * Sheila Helman	シーラ	Female
 * Toushin Zeta	闘神ゼータ	Male
 
-5645	Rance	「ふーんふーん、どんがららった〜……ん」	「Hum hum, dongararatta~...... Hm」
+5645	Rance	笑顔	「ふーんふーん、どんがららった〜……ん」	「Hum hum, dongararatta~...... Hm」
 
-5646	-	昼下がりに散歩していたランスは、	While taking an afternoon stroll, Rance
-5647	+	なにやら話し合っているシーラとゼータを見つけた。	spotted Sheila and Zeta talking.
+5646	-		昼下がりに散歩していたランスは、	While taking an afternoon stroll, Rance
+5647	+		なにやら話し合っているシーラとゼータを見つけた。	spotted Sheila and Zeta talking.
 
-5648	Sheila Helman	「あっ、ランス様……」	「Ah, Rance-sama......」
+5648	Sheila Helman	基本	「あっ、ランス様……」	「Ah, Rance-sama......」
 
-5649	Toushin Zeta	「これは城主殿」	「Greetings, Lord of the Castle.」
+5649	Toushin Zeta		「これは城主殿」	「Greetings, Lord of the Castle.」
 
-5650	Rance	「……何してんだ、お前ら？」	「......What are you two doing?」
+5650	Rance	真剣	「……何してんだ、お前ら？」	「......What are you two doing?」
 
-5651	Toushin Zeta	「シーラ様に魔鉄匠の基礎を、少しな」	「Teaching Sheila-sama the basics of magic blacksmithing.」
+5651	Toushin Zeta	基本	「シーラ様に魔鉄匠の基礎を、少しな」	「Teaching Sheila-sama the basics of magic blacksmithing.」
 
-5652	Rance	「そんな心得あったのか」	「You knew that stuff?」
+5652	Rance	真剣	「そんな心得あったのか」	「You knew that stuff?」
 
-5653	Toushin Zeta	「それはまあ……私も元々は聖魔法使いだからな。	「Well...... I was originally a holy magic user.
-5654	+	　フリーク殿ほどというわけにはいかないが」	　Not as skilled as Lord Freak though.」
+5653	Toushin Zeta	基本	「それはまあ……私も元々は聖魔法使いだからな。	「Well...... I was originally a holy magic user.
+5654	+		　フリーク殿ほどというわけにはいかないが」	　Not as skilled as Lord Freak though.」
 
-5655	Toushin Zeta	「……もっとも、あまり深く教えるのも	「......However, teaching too deeply
-5656	+	　良くなかろうがな」	　might not be wise.」
+5655	Toushin Zeta		「……もっとも、あまり深く教えるのも	「......However, teaching too deeply
+5656	+		　良くなかろうがな」	　might not be wise.」
 
-5657	Sheila Helman	「……そうですね」	「......That's true.」
+5657	Sheila Helman		「……そうですね」	「......That's true.」
 
-5658	Rance	「あん？　出し惜しみする気か。	「Huh? Planning to hold back?
-5659	+	　キッチリ残らず吐け」	　Spill everything.」
+5658	Rance	真剣	「あん？　出し惜しみする気か。	「Huh? Planning to hold back?
+5659	+		　キッチリ残らず吐け」	　Spill everything.」
 
-5660	Sheila Helman	「あ、その、ランス様。	「Ah, um, Rance-sama.
-5661	+	　私が言ったんです。	　I was the one who asked.
-5662	+	　あくまで、今必要な分だけ……って」	　Just the amount needed right now......」
+5660	Sheila Helman	基本	「あ、その、ランス様。	「Ah, um, Rance-sama.
+5661	+		　私が言ったんです。	　I was the one who asked.
+5662	+		　あくまで、今必要な分だけ……って」	　Just the amount needed right now......」
 
-5663	Rance	「……どういうこった」	「......What's going on.」
+5663	Rance	だる顔	「……どういうこった」	「......What's going on.」
 
-5664	Toushin Zeta	「闘将技術は、現代においては少々強すぎる。	「Tousho techniques are a bit too powerful for the modern era.
-5665	+	　そして扱えるのは、世界にシーラ様ひとり」	　And only Sheila-sama in the whole world can wield them.」
+5664	Toushin Zeta	基本	「闘将技術は、現代においては少々強すぎる。	「Tousho techniques are a bit too powerful for the modern era.
+5665	+		　そして扱えるのは、世界にシーラ様ひとり」	　And only Sheila-sama in the whole world can wield them.」
 
-5666	Toushin Zeta	「世界に関わっていく上で、	「When getting involved with the world,
-5667	+	　一国を代表する立場の人間が持つには、	　it could be problematic for someone representing a nation
-5668	+	　問題があるだろう」	　to possess such power.」
+5666	Toushin Zeta		「世界に関わっていく上で、	「When getting involved with the world,
+5667	+		　一国を代表する立場の人間が持つには、	　it could be problematic for someone representing a nation
+5668	+		　問題があるだろう」	　to possess such power.」
 
-5669	Rance	「そうか？　別にいいだろ。気にするな」	「Really? I think it's fine. Don't worry about it.」
+5669	Rance		「そうか？　別にいいだろ。気にするな」	「Really? I think it's fine. Don't worry about it.」
 
-5670	Toushin Zeta	「そういう訳にはいかぬ。	「I cannot do that.
-5671	+	　過ぎた力は争いを生む。	　Excessive power breeds conflict.
-5672	+	　そうなれば、修正される危険があるのはシーラ様」	　If that happens, Sheila-sama would be the one at risk of being 'corrected'.」
+5670	Toushin Zeta		「そういう訳にはいかぬ。	「I cannot do that.
+5671	+		　過ぎた力は争いを生む。	　Excessive power breeds conflict.
+5672	+		　そうなれば、修正される危険があるのはシーラ様」	　If that happens, Sheila-sama would be the one at risk of being 'corrected'.」
 
-5673	Rance	「修正……ああ、殺されるって事か」	「Corrected...... You mean killed.」
+5673	Rance	だる顔	「修正……ああ、殺されるって事か」	「Corrected...... You mean killed.」
 
-5674	Sheila Helman	「そうでなくとも……闘神を扱えるだけでも、	「Even without that...... just being able to wield a Toushin
-5675	+	　充分に危ないですから……」	　is dangerous enough......」
+5674	Sheila Helman	基本	「そうでなくとも……闘神を扱えるだけでも、	「Even without that...... just being able to wield a Toushin
+5675	+		　充分に危ないですから……」	　is dangerous enough......」
 
-5676	Sheila Helman	「だから、この戦争が終わったら主従関係は終わり。	「That's why, once this war ends, our master-servant relationship ends.
-5677	+	　自由にしてください……って、	　Please set me free...... is what
-5678	+	　ゼータさんには言ってるんです」	　I told Zeta-san.」
+5676	Sheila Helman	笑顔	「だから、この戦争が終わったら主従関係は終わり。	「That's why, once this war ends, our master-servant relationship ends.
+5677	+		　自由にしてください……って、	　Please set me free...... is what
+5678	+		　ゼータさんには言ってるんです」	　I told Zeta-san.」
 
-5679	Rance	「おいおい待て。こんな危険物、	「Hey wait. Releasing something this dangerous
-5680	+	　野放しになってる方が問題だろうが」	　into the wild would be even more of a problem.」
+5679	Rance	驚き	「おいおい待て。こんな危険物、	「Hey wait. Releasing something this dangerous
+5680	+		　野放しになってる方が問題だろうが」	　into the wild would be even more of a problem.」
 
-5681	Sheila Helman	「……危ないこと、しませんよね？」	「......You won't do anything dangerous, right?」
+5681	Sheila Helman	基本	「……危ないこと、しませんよね？」	「......You won't do anything dangerous, right?」
 
-5682	Toushin Zeta	「しない」	「I won't.」
+5682	Toushin Zeta		「しない」	「I won't.」
 
-5683	Sheila Helman	「ほら」	「See?」
+5683	Sheila Helman	笑顔	「ほら」	「See?」
 
-5684	Rance	「万事解決、みたいなツラするんじゃない！」	「Don't act like everything's solved!」
+5684	Rance	怒り	「万事解決、みたいなツラするんじゃない！」	「Don't act like everything's solved!」
 
-5685	Sheila Helman	「あうっ」	「Auu!」
+5685	Sheila Helman	エロ顔	「あうっ」	「Auu!」
 
-5686	Toushin Zeta	「心配しなくても城主殿。	「No need to worry, Lord of the Castle.
-5687	+	　私はどこでも好きな所にいけるわけではない。	　I cannot go wherever I please.
-5688	+	　この城に魂を引かれているからな」	　My soul is bound to this castle.」
+5686	Toushin Zeta	基本	「心配しなくても城主殿。	「No need to worry, Lord of the Castle.
+5687	+		　私はどこでも好きな所にいけるわけではない。	　I cannot go wherever I please.
+5688	+		　この城に魂を引かれているからな」	　My soul is bound to this castle.」
 
-5689	Rance	「あん？」	「Huh?」
+5689	Rance	だる顔	「あん？」	「Huh?」
 
-5690	Sheila Helman	「マナバッテリーや聖櫃の問題で、	「Due to issues with the mana battery and the holy ark,
-5691	+	　この城から大きくは離れられませんから」	　I cannot stray far from this castle.」
+5690	Sheila Helman	基本	「マナバッテリーや聖櫃の問題で、	「Due to issues with the mana battery and the holy ark,
+5691	+		　この城から大きくは離れられませんから」	　I cannot stray far from this castle.」
 
-5692	Toushin Zeta	「そういうことだ」	「That's how it is.」
+5692	Toushin Zeta		「そういうことだ」	「That's how it is.」
 
-5693	Rance	「……………………」	「........................」
+5693	Rance	驚き	「……………………」	「........................」
 
-5694	Rance	「っつー事はお前、戦争が終わっても	「So you're saying even after the war ends
-5695	+	　うちの城に居座るつもりっつー事か！」	　you plan to stay in my castle!」
+5694	Rance	怒り	「っつー事はお前、戦争が終わっても	「So you're saying even after the war ends
+5695	+		　うちの城に居座るつもりっつー事か！」	　you plan to stay in my castle!」
 
-5696	Toushin Zeta	「私はけっこう、この城は気に入っている。	「I quite like this castle.
-5697	+	　周囲の環境も含めてだが……	　Including the surrounding environment......
-5698	+	　よろしく頼むぞ、城主殿」	　I look forward to working with you, Lord of the Castle.」
+5696	Toushin Zeta	基本	「私はけっこう、この城は気に入っている。	「I quite like this castle.
+5697	+		　周囲の環境も含めてだが……	　Including the surrounding environment......
+5698	+		　よろしく頼むぞ、城主殿」	　I look forward to working with you, Lord of the Castle.」
 
-5699	Rance	「けっ、ぺっ、美人ならともかく、	「Tch, whatever. If it was a beauty it'd be one thing,
-5700	+	　デカブツロボットとミイラのセットなんて、	　but a giant robot and a mummy set
-5701	+	　嬉しくも何ともない」	　doesn't make me happy at all.」
+5699	Rance	イライラ	「けっ、ぺっ、美人ならともかく、	「Tch, whatever. If it was a beauty it'd be one thing,
+5700	+		　デカブツロボットとミイラのセットなんて、	　but a giant robot and a mummy set
+5701	+		　嬉しくも何ともない」	　doesn't make me happy at all.」
 
-5702	Toushin Zeta	「留守番は任せろ。言ってはなんだが、	「Leave the house-sitting to me. As rude as it sounds,
-5703	+	　これほど優秀な番犬はいないぞ」	　there is no better watchdog than me.」
+5702	Toushin Zeta	基本	「留守番は任せろ。言ってはなんだが、	「Leave the house-sitting to me. As rude as it sounds,
+5703	+		　これほど優秀な番犬はいないぞ」	　there is no better watchdog than me.」
 
-5704	Rance	「………………	「..............
-5705	?	嬉しくない」	Not happy.」
+5704	Rance	だる顔	「………………	「..............
+5705	?		嬉しくない」	Not happy.」

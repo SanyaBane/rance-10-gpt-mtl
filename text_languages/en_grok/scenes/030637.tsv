@@ -4,152 +4,152 @@
 * Sill Plain	シィル	Female
 * Maris Amaryllis	マリス	Female
 
-20120	Rance	「…………ん？」	「...Hmm?」
+20120	Rance	真剣	「…………ん？」	「...Hmm?」
 
-20121	Pespo Tontone	「おっと、こいつは総統さん」	「Oh, if it isn't the Supreme Leader.」
+20121	Pespo Tontone	笑顔	「おっと、こいつは総統さん」	「Oh, if it isn't the Supreme Leader.」
 
-20122	Sill Plain	「こんにちは、ペスポさん」	「Hello, Mr. Pespo.」
+20122	Sill Plain	基本	「こんにちは、ペスポさん」	「Hello, Mr. Pespo.」
 
-20123	Rance	「なんだ、おっさん。用もないのに話しかけるな」	「What is it, old man? Don't talk to me unless you have business.」
+20123	Rance	真剣	「なんだ、おっさん。用もないのに話しかけるな」	「What is it, old man? Don't talk to me unless you have business.」
 
-20124	Pespo Tontone	「あらそう？　それじゃ隣の奴隷ちゃんと話そうか。	「Oh, is that so? Then how about I talk to the slave girl next to you?
-20125	+	　な、おじさんと結婚しない？」	Hey, wanna marry your uncle?」
+20124	Pespo Tontone	笑顔	「あらそう？　それじゃ隣の奴隷ちゃんと話そうか。	「Oh, is that so? Then how about I talk to the slave girl next to you?
+20125	+		　な、おじさんと結婚しない？」	Hey, wanna marry your uncle?」
 
-20126	Rance	「がーーー！　何を抜かすか！」	「Gaaaah! What the hell are you saying!」
+20126	Rance	怒り	「がーーー！　何を抜かすか！」	「Gaaaah! What the hell are you saying!」
 
-20127	Pespo Tontone	「おいおい、総統さんとじゃないぜ？	「Whoa, whoa, it's not like I'm asking you, Supreme Leader.
-20128	+	　さすがの俺も同性婚はちょっと」	Even I'm a bit hesitant about same-sex marriage.」
+20127	Pespo Tontone	驚き	「おいおい、総統さんとじゃないぜ？	「Whoa, whoa, it's not like I'm asking you, Supreme Leader.
+20128	+		　さすがの俺も同性婚はちょっと」	Even I'm a bit hesitant about same-sex marriage.」
 
-20129	Rance	「ブッ殺すぞ！」	「I'll kill you!」
+20129	Rance	怒り	「ブッ殺すぞ！」	「I'll kill you!」
 
-20130	Sill Plain	「えぇと……すみません、	「Um... I'm sorry,
-20131	+	　お断りさせてください……」	but I must decline...」
+20130	Sill Plain	苦笑	「えぇと……すみません、	「Um... I'm sorry,
+20131	+		　お断りさせてください……」	but I must decline...」
 
-20132	Pespo Tontone	「なはは。二人とも反応が良いねぇ」	「Nah-ha-ha. You both have great reactions.」
+20132	Pespo Tontone	笑顔	「なはは。二人とも反応が良いねぇ」	「Nah-ha-ha. You both have great reactions.」
 
-20133	Rance	「ていうか、俺の城で何してんだ。	「In the first place, what are you doing in my castle?
-20134	+	　Mランドに帰れ」	Go back to M-Land.」
+20133	Rance	イライラ	「ていうか、俺の城で何してんだ。	「In the first place, what are you doing in my castle?
+20134	+		　Mランドに帰れ」	Go back to M-Land.」
 
-20135	Pespo Tontone	「あぁ、ちょーっと美人と約束があってね。	「Ah, I have a bit of an appointment with a beauty.
-20136	+	　ちょうど良いからここで合流って事で」	I figured it'd be convenient to meet up here.」
+20135	Pespo Tontone	笑顔	「あぁ、ちょーっと美人と約束があってね。	「Ah, I have a bit of an appointment with a beauty.
+20136	+		　ちょうど良いからここで合流って事で」	I figured it'd be convenient to meet up here.」
 
-20137	Rance	「はあ？　なんだ貴様。	「Hah? What are you talking about?
-20138	+	　誰か引っかけたのか」	Did you hook up with someone?」
+20137	Rance	真剣	「はあ？　なんだ貴様。	「Hah? What are you talking about?
+20138	+		　誰か引っかけたのか」	Did you hook up with someone?」
 
-20139	Pespo Tontone	「引っかけたのか引っかけるのか、	「Whether I hooked up or will hook up,
-20140	+	　引っかけられたのか引っかけられるのか……	or whether I was hooked or will be hooked...
-20141	+	　まあ、どうかな」	Well, who knows?」
+20139	Pespo Tontone	基本	「引っかけたのか引っかけるのか、	「Whether I hooked up or will hook up,
+20140	+		　引っかけられたのか引っかけられるのか……	or whether I was hooked or will be hooked...
+20141	+		　まあ、どうかな」	Well, who knows?」
 
-20142	Rance	「……何言ってんのか分からん。	「...I have no idea what you're talking about.
-20143	+	　どうせ戯言だな……」	It's probably just nonsense anyway...」
+20142	Rance	だる顔	「……何言ってんのか分からん。	「...I have no idea what you're talking about.
+20143	+		　どうせ戯言だな……」	It's probably just nonsense anyway...」
 
-20144	Pespo Tontone	「あれ、バレた？	「Oh, you caught me?
-20145	+	　こういう顔しとくと市民のウケが良いの」	Putting on this kind of face goes down well with the citizens.」
+20144	Pespo Tontone	笑顔	「あれ、バレた？	「Oh, you caught me?
+20145	+		　こういう顔しとくと市民のウケが良いの」	Putting on this kind of face goes down well with the citizens.」
 
-20146	Rance	「ふにゃふにゃしたおっさんだな……	「What a flimsy old man...
-20147	+	　もういい、時間の無駄をしたわ」	Enough, I've wasted my time.」
+20146	Rance	だる顔	「ふにゃふにゃしたおっさんだな……	「What a flimsy old man...
+20147	+		　もういい、時間の無駄をしたわ」	Enough, I've wasted my time.」
 
-20148	Pespo Tontone	「あっはっは。じゃあなぁ」	「Ah-ha-ha. See ya later.」
+20148	Pespo Tontone	笑顔	「あっはっは。じゃあなぁ」	「Ah-ha-ha. See ya later.」
 
-20149	-	千鳥足のような歩みで、	With a staggering gait,
-20150	+	ペスポは何処かへ去っていった。	Pespo departed for somewhere.
+20149	-		千鳥足のような歩みで、	With a staggering gait,
+20150	+		ペスポは何処かへ去っていった。	Pespo departed for somewhere.
 
-20151	Sill Plain	「変わった都市長さんですね、	「He's a strange Mayor, isn't he?
-20152	+	　ペスポさんって……」	Mr. Pespo...」
+20151	Sill Plain	きょとん	「変わった都市長さんですね、	「He's a strange Mayor, isn't he?
+20152	+		　ペスポさんって……」	Mr. Pespo...」
 
-20153	Rance	「ふん。殺す気も失せる」	「Humph. I even lose the desire to kill him.」
+20153	Rance	だる顔	「ふん。殺す気も失せる」	「Humph. I even lose the desire to kill him.」
 
-20154	Pespo Tontone	「やあ、失礼しますよ、っと。	「Hello, pardon me.
-20155	+	　ちょっと遅れたかな？」	Am I a bit late?」
+20154	Pespo Tontone	驚き	「やあ、失礼しますよ、っと。	「Hello, pardon me.
+20155	+		　ちょっと遅れたかな？」	Am I a bit late?」
 
-20156	Maris Amaryllis	「いいえ――――時間通りですよ。	「No一you're right on time.
-20157	+	　ペスポ都市長」	Mayor Pespo.」
+20156	Maris Amaryllis	基本	「いいえ――――時間通りですよ。	「No一you're right on time.
+20157	+		　ペスポ都市長」	Mayor Pespo.」
 
-20158	Pespo Tontone	「そりゃあよかった。	「Well, that's good.
-20159	+	　マリス殿も相変わらず、美人さんだねぇ」	Lady Maris is as beautiful as ever.」
+20158	Pespo Tontone	笑顔	「そりゃあよかった。	「Well, that's good.
+20159	+		　マリス殿も相変わらず、美人さんだねぇ」	Lady Maris is as beautiful as ever.」
 
-20160	Maris Amaryllis	「都市長もお変わりなく」	「The Mayor hasn't changed either.」
+20160	Maris Amaryllis	基本	「都市長もお変わりなく」	「The Mayor hasn't changed either.」
 
-20161	Pespo Tontone	「いやあ、変わる変わる。	「Oh, I change, I change.
-20162	+	　大変だよ。白髪増えちゃってもう。	It's tough. I've got more gray hair now.
-20163	+	　モテなくなっちゃいそう」	I might stop being popular.」
+20161	Pespo Tontone	笑顔	「いやあ、変わる変わる。	「Oh, I change, I change.
+20162	+		　大変だよ。白髪増えちゃってもう。	It's tough. I've got more gray hair now.
+20163	+		　モテなくなっちゃいそう」	I might stop being popular.」
 
-20164	Maris Amaryllis	「ちょうど良いのでは。	「Isn't that for the best?
-20165	+	　離婚歴の更新をしないで済むでしょう」	You won't have to update your divorce record anymore.」
+20164	Maris Amaryllis	基本	「ちょうど良いのでは。	「Isn't that for the best?
+20165	+		　離婚歴の更新をしないで済むでしょう」	You won't have to update your divorce record anymore.」
 
-20166	Pespo Tontone	「なはは、きついね。	「Nah-ha-ha, harsh.
-20167	+	　リーザスさんは跡継ぎもできて、順調かい」	Is everything going well for Leazas now that you have an heir?」
+20166	Pespo Tontone	笑顔	「なはは、きついね。	「Nah-ha-ha, harsh.
+20167	+		　リーザスさんは跡継ぎもできて、順調かい」	Is everything going well for Leazas now that you have an heir?」
 
-20168	Maris Amaryllis	「その点は問題ありません」	「There are no problems on that front.」
+20168	Maris Amaryllis	基本	「その点は問題ありません」	「There are no problems on that front.」
 
-20169	Pespo Tontone	「それが非嫡出子ってのは……	「But the fact that they're illegitimate...
-20170	+	　まあ、氷で出来た橋って感じだけどな」	Well, it feels like a bridge made of ice.」
+20169	Pespo Tontone		「それが非嫡出子ってのは……	「But the fact that they're illegitimate...
+20170	+		　まあ、氷で出来た橋って感じだけどな」	Well, it feels like a bridge made of ice.」
 
-20171	Maris Amaryllis	「問題ありませんと、申しました。	「I said there are no problems.
-20172	+	　それとも、問題にするつもりという事ですか？」	Or do you intend to make it a problem?」
+20171	Maris Amaryllis	目閉じ	「問題ありませんと、申しました。	「I said there are no problems.
+20172	+		　それとも、問題にするつもりという事ですか？」	Or do you intend to make it a problem?」
 
-20173	-	マリスの瞳が、針のように細まる。	Maris's eyes narrowed like needles.
+20173	-		マリスの瞳が、針のように細まる。	Maris's eyes narrowed like needles.
 
-20174	Pespo Tontone	「いやいや。ウチみたいなちっちゃい所が騒いで、	「No, no. What could a small place like mine do
-20175	+	　何ができるんだっての。	by making a fuss?
-20176	+	　リーザスさんに頼らないとボン、だよ」	If we don't rely on Leazas, we're toast.」
+20174	Pespo Tontone	驚き	「いやいや。ウチみたいなちっちゃい所が騒いで、	「No, no. What could a small place like mine do
+20175	+		　何ができるんだっての。	by making a fuss?
+20176	+		　リーザスさんに頼らないとボン、だよ」	If we don't rely on Leazas, we're toast.」
 
-20177	Maris Amaryllis	「外交力だけでリーザス相手に独立と対等の交渉を	「Maintaining independence and equal negotiations with Leazas
-20178	+	　維持するのは、ハンナ……いえ、貴方くらいです」	through diplomatic skill alone is something only Hanna... no, you can do.」
+20177	Maris Amaryllis	基本	「外交力だけでリーザス相手に独立と対等の交渉を	「Maintaining independence and equal negotiations with Leazas
+20178	+		　維持するのは、ハンナ……いえ、貴方くらいです」	through diplomatic skill alone is something only Hanna... no, you can do.」
 
-20179	Pespo Tontone	「おや。褒められちゃった？」	「Oh. Was that a compliment?」
+20179	Pespo Tontone	驚き	「おや。褒められちゃった？」	「Oh. Was that a compliment?」
 
-20180	Maris Amaryllis	「どちらかと言えば呆れています」	「I'm exasperated, if anything.」
+20180	Maris Amaryllis	基本	「どちらかと言えば呆れています」	「I'm exasperated, if anything.」
 
-20181	Pespo Tontone	「光栄には違いないさね。	「It's an honor nonetheless.
-20182	+	　マリス・アマリリスに評価されたんなら」	To be evaluated by Maris Amaryllis.」
+20181	Pespo Tontone	笑顔	「光栄には違いないさね。	「It's an honor nonetheless.
+20182	+		　マリス・アマリリスに評価されたんなら」	To be evaluated by Maris Amaryllis.」
 
-20183	Maris Amaryllis	「そういえば、私には求婚はしないのですか？」	「Come to think of it, won't you propose to me?」
+20183	Maris Amaryllis	基本	「そういえば、私には求婚はしないのですか？」	「Come to think of it, won't you propose to me?」
 
-20184	Pespo Tontone	「万が一承諾されちゃったら困る」	「I'd be in trouble if you actually accepted.」
+20184	Pespo Tontone	驚き	「万が一承諾されちゃったら困る」	「I'd be in trouble if you actually accepted.」
 
-20185	Maris Amaryllis	「賢明です。では……始めましょうか？」	「Wise. Now... shall we begin?」
+20185	Maris Amaryllis	目閉じ	「賢明です。では……始めましょうか？」	「Wise. Now... shall we begin?」
 
-20186	-	じわりと、殺意にも似た、冷えた気配が	A cold presence, almost like bloodlust,
-20187	+	マリスから漂う。	gradually emanated from Maris.
+20186	-		じわりと、殺意にも似た、冷えた気配が	A cold presence, almost like bloodlust,
+20187	+		マリスから漂う。	gradually emanated from Maris.
 
-20188	Pespo Tontone	「ああ。お互いが損をしないように、有意義に、な」	「Yeah. Let's make it productive, so neither side loses out.」
+20188	Pespo Tontone	基本	「ああ。お互いが損をしないように、有意義に、な」	「Yeah. Let's make it productive, so neither side loses out.」
 
-20189	-	笑みを口元に押し込めて、	Suppressing his smile,
-20190	+	ペスポは臆する素振りもなく頷いた。	Pespo nodded without a hint of fear.
+20189	-		笑みを口元に押し込めて、	Suppressing his smile,
+20190	+		ペスポは臆する素振りもなく頷いた。	Pespo nodded without a hint of fear.
 
-20191	-	――翌日。	一The next day.
+20191	-		――翌日。	一The next day.
 
-20192	Rance	「ふわあぁ…………ん」	「Hwaaa... hmm.」
+20192	Rance		「ふわあぁ…………ん」	「Hwaaa... hmm.」
 
-20193	Maris Amaryllis	「ランス殿。おはようございます」	「Master Rance. Good morning.」
+20193	Maris Amaryllis		「ランス殿。おはようございます」	「Master Rance. Good morning.」
 
-20194	Rance	「よう、マリス。相変わらず早いな」	「Yo, Maris. You're early as usual.」
+20194	Rance		「よう、マリス。相変わらず早いな」	「Yo, Maris. You're early as usual.」
 
-20195	Maris Amaryllis	「いえ……今日は眠り損ねました」	「No... I missed out on sleep today.」
+20195	Maris Amaryllis		「いえ……今日は眠り損ねました」	「No... I missed out on sleep today.」
 
-20196	Rance	「お前も忙しいな。徹夜はいかんぞ。肌が荒れる」	「You're busy too. No all-nighters. It's bad for your skin.」
+20196	Rance		「お前も忙しいな。徹夜はいかんぞ。肌が荒れる」	「You're busy too. No all-nighters. It's bad for your skin.」
 
-20197	Maris Amaryllis	「ええ、大丈夫で……」	「Yes, I'll be fine...」
+20197	Maris Amaryllis		「ええ、大丈夫で……」	「Yes, I'll be fine...」
 
-20198	Maris Amaryllis	「……っ」	...!
+20198	Maris Amaryllis	真剣	「……っ」	...!
 
-20199	Rance	「……お前、今ふらついたぞ。	「...You just stumbled.
-20200	+	　もしかして、疲れてる？」	Could it be you're tired?」
+20199	Rance		「……お前、今ふらついたぞ。	「...You just stumbled.
+20200	+		　もしかして、疲れてる？」	Could it be you're tired?」
 
-20201	Maris Amaryllis	「いえ。問題ありません。	「No. It's not a problem.
-20202	+	　少し……打ち合わせが長引いただけです」	It's just that... the meeting ran a bit long.」
+20201	Maris Amaryllis	基本	「いえ。問題ありません。	「No. It's not a problem.
+20202	+		　少し……打ち合わせが長引いただけです」	It's just that... the meeting ran a bit long.」
 
-20203	Rance	「まさか俺以外の男に	「You didn't go and get held by some guy
-20204	+	　抱かれでもしたんじゃなかろうな」	other than me, did you?」
+20203	Rance	真剣	「まさか俺以外の男に	「You didn't go and get held by some guy
+20204	+		　抱かれでもしたんじゃなかろうな」	other than me, did you?」
 
-20205	Maris Amaryllis	「…………そんな程度で籠絡できれば、	「...If I could be captivated to that extent,
-20206	+	　話は簡単なのですが……」	things would be much simpler...」
+20205	Maris Amaryllis		「…………そんな程度で籠絡できれば、	「...If I could be captivated to that extent,
+20206	+		　話は簡単なのですが……」	things would be much simpler...」
 
-20207	Rance	「あん？」	「Huh?」
+20207	Rance	だる顔	「あん？」	「Huh?」
 
-20208	Maris Amaryllis	「リア様のお側に参らなければなりません。	「I must attend to Lady Lia.
-20209	+	　では……」	Now then...」
+20208	Maris Amaryllis	目閉じ	「リア様のお側に参らなければなりません。	「I must attend to Lady Lia.
+20209	+		　では……」	Now then...」
 
-20210	Rance	「マリスが疲れてるとは……	「For Maris to be tired...
-20211	+	　雪でも降るのか？」	Is it going to snow?」
+20210	Rance	だる顔	「マリスが疲れてるとは……	「For Maris to be tired...
+20211	+		　雪でも降るのか？」	Is it going to snow?」

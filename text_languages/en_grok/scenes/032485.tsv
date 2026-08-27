@@ -10,162 +10,162 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Patton Helman	パットン	Male
 
-153302	LeMay	「ぐっ！？　ぐぅぅうぅぅ……ッ！」	「Guh!? Guuuu...!」
+153302	LeMay	基本	「ぐっ！？　ぐぅぅうぅぅ……ッ！」	「Guh!? Guuuu...!」
 
-153303	-	ランスの手により、	With Rance's strike,
-153304	+	ルメイの胸に大きな傷がつけられる。	a large wound was carved into LeMay's chest.
+153303	-		ランスの手により、	With Rance's strike,
+153304	+		ルメイの胸に大きな傷がつけられる。	a large wound was carved into LeMay's chest.
 
-153305	-	その傷口からは血の代わりに	Instead of blood,
-153306	+	真っ赤な炎が噴き出していた。	bright red flames gushed out.
+153305	-		その傷口からは血の代わりに	Instead of blood,
+153306	+		真っ赤な炎が噴き出していた。	bright red flames gushed out.
 
-153307	Rance	「がははは！　勝負あり！	「Gahaha! Game over!
-153308	+	　もう終わりだな！」	　It's over!」
+153307	Rance		「がははは！　勝負あり！	「Gahaha! Game over!
+153308	+		　もう終わりだな！」	　It's over!」
 
-153309	LeMay	「ぐぶっ……ぐ……あ、が……」	「Gubu... Gu... A, Ga...」
+153309	LeMay		「ぐぶっ……ぐ……あ、が……」	「Gubu... Gu... A, Ga...」
 
-153310	-	ランスの言葉を肯定するように、	As if confirming Rance's words,
-153311	+	ルメイは立つ力さえ失い、その場に膝をついた。	LeMay lost even the strength to stand and dropped to his knees.
+153310	-		ランスの言葉を肯定するように、	As if confirming Rance's words,
+153311	+		ルメイは立つ力さえ失い、その場に膝をついた。	LeMay lost even the strength to stand and dropped to his knees.
 
-153312	LeMay	「もっと……」	「More...」
+153312	LeMay		「もっと……」	「More...」
 
-153313	LeMay	「ああ、もっと、もっと、もっと……	「Aah, more, more, more...
-153314	+	　人が殺したかった……」	　I wanted to kill more humans...」
+153313	LeMay		「ああ、もっと、もっと、もっと……	「Aah, more, more, more...
+153314	+		　人が殺したかった……」	　I wanted to kill more humans...」
 
-153315	LeMay	「人の悲鳴が……私を待ってる……	「The screams of humans... are waiting for me...
-153316	+	　より多くの泣き声を、苦痛を……	　More cries, more suffering...
-153317	+	　人間に与えるのが私の……し、使命なのに……」	　Giving that to humans is my... m-mission...」
+153315	LeMay		「人の悲鳴が……私を待ってる……	「The screams of humans... are waiting for me...
+153316	+		　より多くの泣き声を、苦痛を……	　More cries, more suffering...
+153317	+		　人間に与えるのが私の……し、使命なのに……」	　Giving that to humans is my... m-mission...」
 
-153318	Rance	「最後の最後に考えることがそれか。	「That's what you're thinking at the very end.
-153319	+	　気合い入った奴だなぁ」	　You're really dedicated.」
+153318	Rance	だる顔	「最後の最後に考えることがそれか。	「That's what you're thinking at the very end.
+153319	+		　気合い入った奴だなぁ」	　You're really dedicated.」
 
-153320	Rance	「そうだな……」	「Yeah...」
+153320	Rance	基本	「そうだな……」	「Yeah...」
 
-153321	Rance	「人間様を殺してすみませーん、	「Sorry for killing humans~,
-153322	+	　僕が間違ってましたー、	　I was wrong~,
-153323	+	　と言えたら許してやるかも知れんぞ？」	　if you say that I might forgive you?」
+153321	Rance	笑顔	「人間様を殺してすみませーん、	「Sorry for killing humans~,
+153322	+		　僕が間違ってましたー、	　I was wrong~,
+153323	+		　と言えたら許してやるかも知れんぞ？」	　if you say that I might forgive you?」
 
-153324	LeMay	「ふっ……」	「Heh...」
+153324	LeMay	基本	「ふっ……」	「Heh...」
 
-153325	-	ランスの言葉にルメイはニヤリと笑みを浮かべた。	LeMay smirked at Rance's words.
+153325	-		ランスの言葉にルメイはニヤリと笑みを浮かべた。	LeMay smirked at Rance's words.
 
-153326	LeMay	「人間に頭-ｺｳﾍﾞ-を垂れるくらいなら、	「I'd rather fall into hell
-153327	+	　地獄に落ちた方がマシだ」	　than bow my head to humans.」
+153326	LeMay		「人間に頭-ｺｳﾍﾞ-を垂れるくらいなら、	「I'd rather fall into hell
+153327	+		　地獄に落ちた方がマシだ」	　than bow my head to humans.」
 
-153328	Rance	「なら死ね」	「Then die.」
+153328	Rance	真剣	「なら死ね」	「Then die.」
 
-153329	LeMay	「死ぬのは貴様だ！」	「You're the one who'll die!」
+153329	LeMay	基本	「死ぬのは貴様だ！」	「You're the one who'll die!」
 
-153330	Rance	「うおおお！？」	「Uoooo!?」
+153330	Rance	驚き	「うおおお！？」	「Uoooo!?」
 
-153331	-	ルメイの口から吐き出された大量の炎が	A massive amount of flames spewed from LeMay's mouth
-153332	+	辺りを焼き尽くす。	and burned everything around.
+153331	-		ルメイの口から吐き出された大量の炎が	A massive amount of flames spewed from LeMay's mouth
+153332	+		辺りを焼き尽くす。	and burned everything around.
 
-153333	Rance	「あち！　あちあち！」	「Hot! So hot!」
+153333	Rance		「あち！　あちあち！」	「Hot! So hot!」
 
-153334	Chaos	「む、いかん、逃げられるぞ！」	「Oh no, he's getting away!」
+153334	Chaos	基本	「む、いかん、逃げられるぞ！」	「Oh no, he's getting away!」
 
-153335	LeMay	「ぐぼぼっ、がはっ、はははっ！	「Gubobo, gaha, hahaha!
-153336	+	　残念だったな！　おれにはするべきことが！	　Too bad! I still have things to do!
-153337	+	　ある、んだ！　ぐばばばっ……！」	　I have to... gubababa...!」
+153335	LeMay		「ぐぼぼっ、がはっ、はははっ！	「Gubobo, gaha, hahaha!
+153336	+		　残念だったな！　おれにはするべきことが！	　Too bad! I still have things to do!
+153337	+		　ある、んだ！　ぐばばばっ……！」	　I have to... gubababa...!」
 
-153338	Rance	「あ、こら待てー！」	「Hey, wait!」
+153338	Rance		「あ、こら待てー！」	「Hey, wait!」
 
-153339	LeMay	「もっともっともっと、	「More more more,
-153340	+	　より多くの人間を殺すまで――！」	　until I kill even more humans――!」
+153339	LeMay		「もっともっともっと、	「More more more,
+153340	+		　より多くの人間を殺すまで――！」	　until I kill even more humans――!」
 
-153341	LeMay	「人間の悲鳴を聞くまで俺は死ねんのだァァァァ！」	「I can't die until I hear the screams of humans!」
+153341	LeMay		「人間の悲鳴を聞くまで俺は死ねんのだァァァァ！」	「I can't die until I hear the screams of humans!」
 
-153342	Rolex Gadras	「そりゃ、残念だったな……」	「Too bad for you...」
+153342	Rolex Gadras		「そりゃ、残念だったな……」	「Too bad for you...」
 
-153343	Rolex Gadras	「……お前が最後に聞くのは自分の悲鳴だよ」	「...The last scream you'll hear is your own.」
+153343	Rolex Gadras	真剣	「……お前が最後に聞くのは自分の悲鳴だよ」	「...The last scream you'll hear is your own.」
 
-153344	LeMay	「は？」	「Ha?」
+153344	LeMay	基本	「は？」	「Ha?」
 
-153345	-	ロレックスがルメイの体を深々と斬り裂く。	Rolex slashed deep into LeMay's body.
+153345	-		ロレックスがルメイの体を深々と斬り裂く。	Rolex slashed deep into LeMay's body.
 
-153346	LeMay	「ぴぎゃあぁぁぁぁああぁああぁああ！！」	「Pigyaaaaaaaahhh!!」
+153346	LeMay		「ぴぎゃあぁぁぁぁああぁああぁああ！！」	「Pigyaaaaaaaahhh!!」
 
-153347	-	炎のように激しい声を上げ、	With a scream as fierce as flames,
-153348	+	ルメイはすぐに事切れた。	LeMay breathed his last.
+153347	-		炎のように激しい声を上げ、	With a scream as fierce as flames,
+153348	+		ルメイはすぐに事切れた。	LeMay breathed his last.
 
-153349	Rolex Gadras	「まったく、悪党ってのは断末魔まで汚いな」	「Damn, even their death cries are ugly.」
+153349	Rolex Gadras		「まったく、悪党ってのは断末魔まで汚いな」	「Damn, even their death cries are ugly.」
 
-153350	Rance	「よーし、よくやったロレックス！」	「Alright, nice work Rolex!」
+153350	Rance		「よーし、よくやったロレックス！」	「Alright, nice work Rolex!」
 
-153351	Rolex Gadras	「ランス……」	「Rance...」
+153351	Rolex Gadras	真剣	「ランス……」	「Rance...」
 
-153352	Rance	「うむ、作戦通り」	「Yes, just as planned.」
+153352	Rance	基本	「うむ、作戦通り」	「Yes, just as planned.」
 
-153353	Rolex Gadras	「作戦通りだと？」	「As planned?」
+153353	Rolex Gadras	真剣	「作戦通りだと？」	「As planned?」
 
-153354	Rance	「うむ、ああいう風に言えば、	「Yes, if I said it like that,
-153355	+	　お前がきっとこのタイミングで	　I knew you'd come at exactly this moment,
-153356	+	　来ると思っていたのだ、さすが俺」	　as expected of me.
+153354	Rance		「うむ、ああいう風に言えば、	「Yes, if I said it like that,
+153355	+		　お前がきっとこのタイミングで	　I knew you'd come at exactly this moment,
+153356	+		　来ると思っていたのだ、さすが俺」	　as expected of me.
 
-153357	Rolex Gadras	「なっ……全ては計算だったのか……」	「Wha... It was all calculated...」
+153357	Rolex Gadras	基本	「なっ……全ては計算だったのか……」	「Wha... It was all calculated...」
 
-153358	Rance	「うむ、ルメイがここにいるのも、	「Yes, that LeMay was here,
-153359	+	　ここが飛行兵達の本拠地なのも、	　that this was the flying soldiers' base,
-153360	+	　ぜーんぶ俺様は見抜いていたのだ」	　I saw through all of it.」
+153358	Rance	真剣	「うむ、ルメイがここにいるのも、	「Yes, that LeMay was here,
+153359	+		　ここが飛行兵達の本拠地なのも、	　that this was the flying soldiers' base,
+153360	+		　ぜーんぶ俺様は見抜いていたのだ」	　I saw through all of it.」
 
-153361	Rance	「がははは、さすがは俺様だな」	「Gahaha, as expected of me.」
+153361	Rance	笑顔	「がははは、さすがは俺様だな」	「Gahaha, as expected of me.」
 
-153362	Rolex Gadras	「そ、そうだったのか……」	「S-So that's how it was...」
+153362	Rolex Gadras	あせり	「そ、そうだったのか……」	「S-So that's how it was...」
 
-153363	Rolex Gadras	「それだってのに、	「Even though that's true,
-153364	+	　俺はなんにも気づかず……」	　I didn't notice anything...」
+153363	Rolex Gadras		「それだってのに、	「Even though that's true,
+153364	+		　俺はなんにも気づかず……」	　I didn't notice anything...」
 
-153365	Rolex Gadras	「俺は自分が恥ずかしいぜ！	「I'm so ashamed of myself!
-153366	+	　ぜーんぶお前の	　I should have just done
-153367	+	　言う通りにしてれば良かったんだ！」	　everything you said!」
+153365	Rolex Gadras		「俺は自分が恥ずかしいぜ！	「I'm so ashamed of myself!
+153366	+		　ぜーんぶお前の	　I should have just done
+153367	+		　言う通りにしてれば良かったんだ！」	　everything you said!」
 
-153368	Rance	「ふふん、分かればいいのだ」	「Heh, good that you understand.」
+153368	Rance	基本	「ふふん、分かればいいのだ」	「Heh, good that you understand.」
 
-153369	Rolex Gadras	「おおっ、俺のことを許してくれるのか！？」	「Ohh, you'll forgive me!?」
+153369	Rolex Gadras		「おおっ、俺のことを許してくれるのか！？」	「Ohh, you'll forgive me!?」
 
-153370	Rance	「がははは、当然だ！	「Gahaha, of course!
-153371	+	　俺様は心が広いからな！」	　I'm a generous man!」
+153370	Rance	笑顔	「がははは、当然だ！	「Gahaha, of course!
+153371	+		　俺様は心が広いからな！」	　I'm a generous man!」
 
-153372	Rolex Gadras	「はははは！　ありがとうよ！」	「Hahaha! Thanks!」
+153372	Rolex Gadras		「はははは！　ありがとうよ！」	「Hahaha! Thanks!」
 
-153373	Rolex Gadras	「――とでも言うと思ったかァ！」	「--As if I'd say that!」
+153373	Rolex Gadras	真剣	「――とでも言うと思ったかァ！」	「--As if I'd say that!」
 
-153374	Rance	「うおおお！？」	「Uoooo!?」
+153374	Rance	驚き	「うおおお！？」	「Uoooo!?」
 
-153375	-	ロレックスの攻撃をすんででランスが防ぐ。	Rance barely blocked Rolex's attack.
+153375	-		ロレックスの攻撃をすんででランスが防ぐ。	Rance barely blocked Rolex's attack.
 
-153376	Rance	「何しやがるてめぇ！」	「What the hell are you doing!?」
+153376	Rance	怒り	「何しやがるてめぇ！」	「What the hell are you doing!?」
 
-153377	Rolex Gadras	「何しやがるはこっちの台詞だ馬鹿野郎！	「That's my line, you idiot!
-153378	+	　黙って聞いてりゃ調子いいことベラベラと！」	　Spouting whatever you want while I stay quiet!」
+153377	Rolex Gadras	真剣	「何しやがるはこっちの台詞だ馬鹿野郎！	「That's my line, you idiot!
+153378	+		　黙って聞いてりゃ調子いいことベラベラと！」	　Spouting whatever you want while I stay quiet!」
 
-153379	Rolex Gadras	「やっぱりテメェとは一度決着を――」	「Like I said, we need to settle this once and for all――」
+153379	Rolex Gadras		「やっぱりテメェとは一度決着を――」	「Like I said, we need to settle this once and for all――」
 
-153380	Rance	「返り討ちにしてやるわ！	「I'll counter and kill you!
-153381	+	　死ねェェーーー！」	　Dieeeee!」
+153380	Rance	怒り	「返り討ちにしてやるわ！	「I'll counter and kill you!
+153381	+		　死ねェェーーー！」	　Dieeeee!」
 
-153382	Sill Plain	「あ、あわわわわ……」	「A-Awawawawa...」
+153382	Sill Plain	慌て	「あ、あわわわわ……」	「A-Awawawawa...」
 
-153383	Oruore the 3rd	「あーあー……	「Aah aah...
-153384	+	　とことん馬が合わないっすねー」	　You two really don't get along.」
+153383	Oruore the 3rd	基本	「あーあー……	「Aah aah...
+153384	+		　とことん馬が合わないっすねー」	　You two really don't get along.」
 
-153385	Bezeleye	「さて、元気いっぱいな二人は置いといて……」	「Anyway, leaving those two energetic guys aside...」
+153385	Bezeleye		「さて、元気いっぱいな二人は置いといて……」	「Anyway, leaving those two energetic guys aside...」
 
-153386	Bezeleye	「貴方達、まだやる？」	「Are you guys still going to fight?」
+153386	Bezeleye		「貴方達、まだやる？」	「Are you guys still going to fight?」
 
-153387	Monster Captain	「ひっ！　る、ルメイ様がこんな……！	「Hii! L-Lord LeMay like this...!
-153388	+	　人間如きに、ま、負け……！」	　Lost to mere humans...!」
+153387	Monster Captain		「ひっ！　る、ルメイ様がこんな……！	「Hii! L-Lord LeMay like this...!
+153388	+		　人間如きに、ま、負け……！」	　Lost to mere humans...!」
 
-153389	Green Monster Soldier	「うわぁあ！　もう駄目だぁあああ！	「Uwaaa! It's over!
-153390	+	　に、逃げろぉぉぉ！」	　R-Run!」
+153389	Green Monster Soldier		「うわぁあ！　もう駄目だぁあああ！	「Uwaaa! It's over!
+153390	+		　に、逃げろぉぉぉ！」	　R-Run!」
 
-153391	-	周りにいた魔物隊長、魔物兵は	The nearby monster captains and soldiers
-153392	+	ルメイの死を確認するとすぐ散り散りに逃亡した。	fled in all directions the moment they confirmed LeMay's death.
+153391	-		周りにいた魔物隊長、魔物兵は	The nearby monster captains and soldiers
+153392	+		ルメイの死を確認するとすぐ散り散りに逃亡した。	fled in all directions the moment they confirmed LeMay's death.
 
-153393	Patton Helman	「ふう、いつものごとく、	「Phew, as usual,
-153394	+	　頭が死ねば逃げ出す、か……」	　once the head dies they all scatter...」
+153393	Patton Helman	真剣	「ふう、いつものごとく、	「Phew, as usual,
+153394	+		　頭が死ねば逃げ出す、か……」	　once the head dies they all scatter...」
 
-153395	Patton Helman	「俺達の仕事はここまで。	「Our job ends here.
-153396	+	　後はヘルマン軍だけでも戦える筈だ」	　The Helman army should be able to handle the rest.」
+153395	Patton Helman	基本	「俺達の仕事はここまで。	「Our job ends here.
+153396	+		　後はヘルマン軍だけでも戦える筈だ」	　The Helman army should be able to handle the rest.」
 
-153397	Patton Helman	「さあ、帰るとしよう！」	「Alright, let's head home!」
+153397	Patton Helman	笑い	「さあ、帰るとしよう！」	「Alright, let's head home!」

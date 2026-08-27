@@ -7,41 +7,41 @@
 * Captain	船長	Male
 * Maria Custard	マリア	Female
 
-38989	-	大陸に向かって、サンライズ号は	The Sunrise headed straight
-38990	+	まっすぐ進んでいく。	toward the continent.
+38989	-		大陸に向かって、サンライズ号は	The Sunrise headed straight
+38990	+		まっすぐ進んでいく。	toward the continent.
 
-38991	Rance	「おー、見えてきた見えてきた。	「Oh, I see it, I see it.
-38992	+	　よーし、上陸用意しろ！」	　Alright, prepare to land!」
+38991	Rance	基本	「おー、見えてきた見えてきた。	「Oh, I see it, I see it.
+38992	+		　よーし、上陸用意しろ！」	　Alright, prepare to land!」
 
-38993	Oda Kouhime	「向こうの様子はどうでしょう？」	「How does the other side look?」
+38993	Oda Kouhime	真剣	「向こうの様子はどうでしょう？」	「How does the other side look?」
 
-38994	Kentou Kanami	「ん……大丈夫、みたい……	「Hm... Looks okay...
-38995	+	　少なくとも、待ち構えてたりはしないわね」	　At least they're not waiting in ambush.」
+38994	Kentou Kanami	基本	「ん……大丈夫、みたい……	「Hm... Looks okay...
+38995	+		　少なくとも、待ち構えてたりはしないわね」	　At least they're not waiting in ambush.」
 
-38996	-	と、突如として足下が揺れ始めた。	Suddenly, the ground began to shake.
+38996	-		と、突如として足下が揺れ始めた。	Suddenly, the ground began to shake.
 
-38997	Sill Plain	「わ、わわわ！　地震ですよ、ランス様！」	「W-wawawa! It's an earthquake, Rance-sama!」
+38997	Sill Plain	慌て	「わ、わわわ！　地震ですよ、ランス様！」	「W-wawawa! It's an earthquake, Rance-sama!」
 
-38998	Rance	「海の上なのに地震が来るか、アホ！」	「An earthquake at sea? Idiot!」
+38998	Rance	怒り	「海の上なのに地震が来るか、アホ！」	「An earthquake at sea? Idiot!」
 
-38999	Noah Hakobune	「……いけない！　海が……！」	「...Oh no! The sea...!」
+38999	Noah Hakobune	動揺	「……いけない！　海が……！」	「...Oh no! The sea...!」
 
-39000	?	「せーんちょーーーーーー！	「Captainーーーーー！」
-39001	+	　海が、海が無くなってってますぜえええ！」	「The sea! The sea is disappearingー！」
+39000	?		「せーんちょーーーーーー！	「Captainーーーーー！」
+39001	+		　海が、海が無くなってってますぜえええ！」	「The sea! The sea is disappearingー！」
 
-39002	?	「来ます！	「It's coming！」
-39003	+	　海滝が、近づいてきてますぜ！！」	「The sea waterfall is getting closer！！」
+39002	?		「来ます！	「It's coming！」
+39003	+		　海滝が、近づいてきてますぜ！！」	「The sea waterfall is getting closer！！」
 
-39004	Captain	「やっべ……！　急げ！　満ち潮が終わるぞ！」	「Oh shit...! Hurry! The high tide is ending！」
+39004	Captain	基本	「やっべ……！　急げ！　満ち潮が終わるぞ！」	「Oh shit...! Hurry! The high tide is ending！」
 
-39005	Noah Hakobune	「そ、総帆開いて！	「F-Full sails！」
-39006	+	　マリアさん、ヒララエンジンを……！」	「Maria, the Hirara engine...!」
+39005	Noah Hakobune	動揺	「そ、総帆開いて！	「F-Full sails！」
+39006	+		　マリアさん、ヒララエンジンを……！」	「Maria, the Hirara engine...!」
 
-39007	Maria Custard	「わ、分かったわ！　ま、間に合うかなぁ……！」	「O-Okay! I-I wonder if we'll make it...!」
+39007	Maria Custard	基本	「わ、分かったわ！　ま、間に合うかなぁ……！」	「O-Okay! I-I wonder if we'll make it...!」
 
-39008	Captain	「俺の記憶より、海が消えるのが速い……！	「The sea is disappearing faster than I remembered...!」
-39009	+	　間に合うか……！？」	「Will we make it...!?」
+39008	Captain	汗	「俺の記憶より、海が消えるのが速い……！	「The sea is disappearing faster than I remembered...!」
+39009	+		　間に合うか……！？」	「Will we make it...!?」
 
-39010	-	地響きのような揺れと、徐々に無くなっていく海に	With the ground-shaking tremors and the sea gradually vanishing,
-39011	+	急きたてられながら、サンライズ号は陸をめがけて	the Sunrise rushed straight toward land,
-39012	+	直進していった。	driven forward desperately.
+39010	-		地響きのような揺れと、徐々に無くなっていく海に	With the ground-shaking tremors and the sea gradually vanishing,
+39011	+		急きたてられながら、サンライズ号は陸をめがけて	the Sunrise rushed straight toward land,
+39012	+		直進していった。	driven forward desperately.

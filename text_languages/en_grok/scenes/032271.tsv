@@ -6,127 +6,127 @@
 * Alefgard	アレフガルド	Male
 * Hornet	ホーネット	Female
 
-135370	-	ランス達が森の中を順調に進んでいた。	Rance's group was advancing smoothly through the forest.
+135370	-		ランス達が森の中を順調に進んでいた。	Rance's group was advancing smoothly through the forest.
 
-135371	Rance	「うーん、なんかさっきからスルスルと進めるな。	「Hmm, we've been advancing smoothly for a while now.
-135372	+	　敵にもちっとも会わなくなったぞ」	　We haven't encountered any enemies at all.」
+135371	Rance	真剣	「うーん、なんかさっきからスルスルと進めるな。	「Hmm, we've been advancing smoothly for a while now.
+135372	+		　敵にもちっとも会わなくなったぞ」	　We haven't encountered any enemies at all.」
 
-135373	Sill Plain	「そうですねぇ……	「That's true...
-135374	+	　配置の隙間のような所を進めているんでしょうか」	　Maybe we're moving through gaps in their formation.」
+135373	Sill Plain	考え中	「そうですねぇ……	「That's true...
+135374	+		　配置の隙間のような所を進めているんでしょうか」	　Maybe we're moving through gaps in their formation.」
 
-135375	Rance	「そんなら、それは俺様の運のおかげだな。	「If so, it's thanks to my luck.
-135376	+	　がははは、シィル、拍手しろ」	　Gahahaha, Sill, clap.」
+135375	Rance	笑顔	「そんなら、それは俺様の運のおかげだな。	「If so, it's thanks to my luck.
+135376	+		　がははは、シィル、拍手しろ」	　Gahahaha, Sill, clap.」
 
-135377	Sill Plain	「は、はい、ランス様、すごいです。	「Y-yes, Rance-sama, amazing.
-135378	+	　ぱちぱち」	　Clap clap.」
+135377	Sill Plain	基本	「は、はい、ランス様、すごいです。	「Y-yes, Rance-sama, amazing.
+135378	+		　ぱちぱち」	　Clap clap.」
 
-135379	Satella	「どうしてそう、	「How can you guys
-135380	+	　お前らは楽天的に考えられるのか……」	　be so optimistic...」
+135379	Satella	思考	「どうしてそう、	「How can you guys
+135380	+		　お前らは楽天的に考えられるのか……」	　be so optimistic...」
 
-135381	Satella	「注意しろ、これが敵の罠とも限らんからな」	「Stay alert. This could be an enemy trap.」
+135381	Satella	基本	「注意しろ、これが敵の罠とも限らんからな」	「Stay alert. This could be an enemy trap.」
 
-135382	Rance	「がははは、心配性だな、サテラは」	「Gahahaha, you're such a worrywart, Satella.」
+135382	Rance	笑顔	「がははは、心配性だな、サテラは」	「Gahahaha, you're such a worrywart, Satella.」
 
-135383	Rance	「――って、うえっ！？」	「--Ueh!?」
+135383	Rance	驚き	「――って、うえっ！？」	「--Ueh!?」
 
-135384	Medusa	「おっ、来たわねぇ……」	「Oh, there you are...」
+135384	Medusa	基本	「おっ、来たわねぇ……」	「Oh, there you are...」
 
-135385	-	森が開けた途端、目の前に現れたのは、	The moment the forest opened, before them appeared
-135386	+	テーブルで優雅にコーヒーを啜る長身の女性と	a tall woman elegantly sipping coffee at a table
-135387	+	それに寄り添う執事服を着たネコムシだった。	and a cat-worm in butler attire beside her.
+135385	-		森が開けた途端、目の前に現れたのは、	The moment the forest opened, before them appeared
+135386	+		テーブルで優雅にコーヒーを啜る長身の女性と	a tall woman elegantly sipping coffee at a table
+135387	+		それに寄り添う執事服を着たネコムシだった。	and a cat-worm in butler attire beside her.
 
-135388	-	女性――魔人メディウサは	The woman -- Fiend Medusa --
-135389	+	切れ長の瞳をとろんととろかせて	had her long narrow eyes half-lidded
-135390	+	ランス達を見つめる。	as she gazed at Rance's group.
+135388	-		女性――魔人メディウサは	The woman -- Fiend Medusa --
+135389	+		切れ長の瞳をとろんととろかせて	had her long narrow eyes half-lidded
+135390	+		ランス達を見つめる。	as she gazed at Rance's group.
 
-135391	Medusa	「…………」	「............」
+135391	Medusa	ジト目	「…………」	「............」
 
-135392	Medusa	「んぐっ！	「Nguh!
-135393	+	　頭いたぁぁぁぁい……！」	　My head huuurts...!」
+135392	Medusa		「んぐっ！	「Nguh!
+135393	+		　頭いたぁぁぁぁい……！」	　My head huuurts...!」
 
-135394	Rance	「は？」	「Ha?」
+135394	Rance	基本	「は？」	「Ha?」
 
-135395	-	メディウサはすぐテーブルに突っ伏した。	Medusa immediately collapsed onto the table.
+135395	-		メディウサはすぐテーブルに突っ伏した。	Medusa immediately collapsed onto the table.
 
-135396	Medusa	「こ、このうわばみと呼ばれた私が、	「M-me, the one called the heavy drinker,
-135397	+	　飲み過ぎて二日酔いだなんてぇぇぇ……」	　having a hangover from drinking too much...」
+135396	Medusa	ジト目	「こ、このうわばみと呼ばれた私が、	「M-me, the one called the heavy drinker,
+135397	+		　飲み過ぎて二日酔いだなんてぇぇぇ……」	　having a hangover from drinking too much...」
 
-135398	Medusa	「うう、昨日はしゃぎすぎたぁ……	「Uuu, I partied too hard yesterday...
-135399	+	　せっかく大チャンスなのにぃぃ、アレフガルドぉ、	　Even though it's such a big chance, Alefgard,
-135400	+	　二日酔いバチッと治る薬とか出しなさいよぉ……」	　give me some medicine to fix this hangover right away...」
+135398	Medusa		「うう、昨日はしゃぎすぎたぁ……	「Uuu, I partied too hard yesterday...
+135399	+		　せっかく大チャンスなのにぃぃ、アレフガルドぉ、	　Even though it's such a big chance, Alefgard,
+135400	+		　二日酔いバチッと治る薬とか出しなさいよぉ……」	　give me some medicine to fix this hangover right away...」
 
-135401	Alefgard	「はあ、ですからあれほど	「Haa, that's why I told you so many times
-135402	+	　飲み過ぎてはいけませんぞと仰いましたのに。	　not to drink too much.
-135403	+	　たまには良い薬ですぞ」	　It's good medicine sometimes.」
+135401	Alefgard	基本	「はあ、ですからあれほど	「Haa, that's why I told you so many times
+135402	+		　飲み過ぎてはいけませんぞと仰いましたのに。	　not to drink too much.
+135403	+		　たまには良い薬ですぞ」	　It's good medicine sometimes.」
 
-135404	Medusa	「んぐっ……このいけずぅ……」	「Nguh... You tease...」
+135404	Medusa		「んぐっ……このいけずぅ……」	「Nguh... You tease...」
 
-135405	Rance	「なんだ……あの素っ頓狂な奴らは？」	「What... are those weirdos?」
+135405	Rance		「なんだ……あの素っ頓狂な奴らは？」	「What... are those weirdos?」
 
-135406	Satella	「魔人メディウサ……	「Fiend Medusa...
-135407	+	　ふざけているように見えるが、強いぞ」	　She looks like she's fooling around, but she's strong.」
+135406	Satella	不安	「魔人メディウサ……	「Fiend Medusa...
+135407	+		　ふざけているように見えるが、強いぞ」	　She looks like she's fooling around, but she's strong.」
 
-135408	Hornet	「私達はどうやら、	「It seems we've
-135409	+	　彼女達の罠にかかったようですね」	　fallen into their trap.」
+135408	Hornet	基本	「私達はどうやら、	「It seems we've
+135409	+		　彼女達の罠にかかったようですね」	　fallen into their trap.」
 
-135410	Alefgard	「左様でございます。	「Indeed.
-135411	+	　皆様の侵攻ルートを予測し、	　We predicted your invasion route
-135412	+	　待ち伏せさせて頂きました」	　and set up an ambush.」
+135410	Alefgard		「左様でございます。	「Indeed.
+135411	+		　皆様の侵攻ルートを予測し、	　We predicted your invasion route
+135412	+		　待ち伏せさせて頂きました」	　and set up an ambush.」
 
-135413	Rance	「ぬぬ、なんか厄介そうな奴だな」	「Hmm, they look troublesome.」
+135413	Rance		「ぬぬ、なんか厄介そうな奴だな」	「Hmm, they look troublesome.」
 
-135414	Alefgard	「ささ、お嬢様。ホーネットまでいて、	「Now now, young lady. With Hornet here too,
-135415	+	　そのままではお辛いでしょう。	　it must be hard for you.
-135416	+	　今二日酔い治しのツボを押しますぞ、えいっ」	　I'll press the hangover relief point now, ei!」
+135414	Alefgard		「ささ、お嬢様。ホーネットまでいて、	「Now now, young lady. With Hornet here too,
+135415	+		　そのままではお辛いでしょう。	　it must be hard for you.
+135416	+		　今二日酔い治しのツボを押しますぞ、えいっ」	　I'll press the hangover relief point now, ei!」
 
-135417	Medusa	「しゃきーん」	「Shakin!」
+135417	Medusa		「しゃきーん」	「Shakin!」
 
-135418	Medusa	「アハハハ、さっすがアレフガルド、	「Ahahaha, as expected of Alefgard,
-135419	+	　私に仕えてるだけあるわ！	　that's why you serve me!
-135420	+	　面白いくらい治ったわ！」	　It healed so perfectly it's funny!」
+135418	Medusa		「アハハハ、さっすがアレフガルド、	「Ahahaha, as expected of Alefgard,
+135419	+		　私に仕えてるだけあるわ！	　that's why you serve me!
+135420	+		　面白いくらい治ったわ！」	　It healed so perfectly it's funny!」
 
-135421	Medusa	「でも……」	「But...」
+135421	Medusa	ジト目	「でも……」	「But...」
 
-135422	Alefgard	「ぐえっ！？」	「Gueh!?」
+135422	Alefgard	基本	「ぐえっ！？」	「Gueh!?」
 
-135423	Medusa	「こういうことは……	「Things like this...
-135424	+	　は・や・く・や・り・な・さ・い、よぉぉ！」	　should be done quickly, you know~!」
+135423	Medusa		「こういうことは……	「Things like this...
+135424	+		　は・や・く・や・り・な・さ・い、よぉぉ！」	　should be done quickly, you know~!」
 
-135425	Alefgard	「ぐえ、ぐえええええ……！	「Gue, gueeeeh...!
-135426	+	　い、いえ、お嬢様の為を想って……	　N-no, thinking of young lady's best interest...
-135427	+	　おごごごご……」	　Ogo gogo...」
+135425	Alefgard	うむむ	「ぐえ、ぐえええええ……！	「Gue, gueeeeh...!
+135426	+		　い、いえ、お嬢様の為を想って……	　N-no, thinking of young lady's best interest...
+135427	+		　おごごごご……」	　Ogo gogo...」
 
-135428	-	アレフガルドの首をギリギリと絞め上げながら、	While choking Alefgard's neck tightly,
-135429	+	メディウサはランス達を見て指を動かす。	Medusa moved her fingers while looking at Rance's group.
+135428	-		アレフガルドの首をギリギリと絞め上げながら、	While choking Alefgard's neck tightly,
+135429	+		メディウサはランス達を見て指を動かす。	Medusa moved her fingers while looking at Rance's group.
 
-135430	Medusa	「さてさて、ひのふのみのよの……	「Now now, one two three four five...
-135431	+	　んふふ、美味しそ〜うな子がよりどりみどりね」	　Nfu fu, so many delicious-looking girls to choose from.」
+135430	Medusa	基本	「さてさて、ひのふのみのよの……	「Now now, one two three four five...
+135431	+		　んふふ、美味しそ〜うな子がよりどりみどりね」	　Nfu fu, so many delicious-looking girls to choose from.」
 
-135432	Medusa	「ん〜っ、他に邪魔はなさそうだし。	「N~, and no other annoyances in sight.
-135433	+	　ってことは、褒美も独り占めってねー」	　Which means I get all the rewards to myself~」
+135432	Medusa		「ん〜っ、他に邪魔はなさそうだし。	「N~, and no other annoyances in sight.
+135433	+		　ってことは、褒美も独り占めってねー」	　Which means I get all the rewards to myself~」
 
-135434	Rance	「うーん、あれはいじめっ子だな。	「Hmm, she's a bully type.
-135435	+	　目の感じがそんな印象だ」	　That look in her eyes gives that impression.」
+135434	Rance		「うーん、あれはいじめっ子だな。	「Hmm, she's a bully type.
+135435	+		　目の感じがそんな印象だ」	　That look in her eyes gives that impression.」
 
-135436	Satella	「そんな言葉で言い表せるもんじゃない。	「That's not something you can describe so lightly.
-135437	+	　あれは病的なサディズムだ」	　That's pathological sadism.」
+135436	Satella	不安	「そんな言葉で言い表せるもんじゃない。	「That's not something you can describe so lightly.
+135437	+		　あれは病的なサディズムだ」	　That's pathological sadism.」
 
-135438	Satella	「あれに捕らえられた女は、	「Women captured by her
-135439	+	　死ぬまでこの世の地獄のような	　are said to suffer hellish
-135440	+	　激痛を叩きつけられると聞く」	　intense pain until they die.」
+135438	Satella		「あれに捕らえられた女は、	「Women captured by her
+135439	+		　死ぬまでこの世の地獄のような	　are said to suffer hellish
+135440	+		　激痛を叩きつけられると聞く」	　intense pain until they die.」
 
-135441	Medusa	「ケーちゃんの開く誕生パーティーに来たら	「Coming to the birthday party hosted by Kei-chan
-135442	+	　んっふふ、こんなお楽しみがあるなんてね〜」	　and getting such fun, nfu fu~」
+135441	Medusa	基本	「ケーちゃんの開く誕生パーティーに来たら	「Coming to the birthday party hosted by Kei-chan
+135442	+		　んっふふ、こんなお楽しみがあるなんてね〜」	　and getting such fun, nfu fu~」
 
-135443	Medusa	「あんたらを殺せば、	「If I kill you all,
-135444	+	　なんでも褒美がもらえることになってるの。	　I can get any reward I want.
-135445	+	　あんた達の中の女全員、もらおっかなー」	　Maybe I'll take all the women among you~」
+135443	Medusa		「あんたらを殺せば、	「If I kill you all,
+135444	+		　なんでも褒美がもらえることになってるの。	　I can get any reward I want.
+135445	+		　あんた達の中の女全員、もらおっかなー」	　Maybe I'll take all the women among you~」
 
-135446	Medusa	「恍惚なめくるめく世界、教えてあげる」	「I'll teach you a world of dizzying ecstasy.」
+135446	Medusa	舌なめずり	「恍惚なめくるめく世界、教えてあげる」	「I'll teach you a world of dizzying ecstasy.」
 
-135447	-	メディウサの長い舌がチロリと動いた直後――	Right after Medusa's long tongue flicked out--
+135447	-		メディウサの長い舌がチロリと動いた直後――	Right after Medusa's long tongue flicked out--
 
-135448	Medusa	「ジャッッッ――！」	「Jaah---!」
+135448	Medusa	基本	「ジャッッッ――！」	「Jaah---!」
 
-135449	-	蛇の捕食の如く、	Like a snake striking its prey,
-135450	+	一瞬でメディウサが襲いかかってきた。	Medusa attacked in an instant.
+135449	-		蛇の捕食の如く、	Like a snake striking its prey,
+135450	+		一瞬でメディウサが襲いかかってきた。	Medusa attacked in an instant.

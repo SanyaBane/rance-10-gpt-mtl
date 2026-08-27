@@ -2,56 +2,56 @@
 * Monster Captain	汎用魔物隊長	Male
 * Rance	ランス	Male
 
-101502	Monster Captain	「おや、これはランス殿」	「Oh, if it isn't Rance-dono.」
+101502	Monster Captain	基本	「おや、これはランス殿」	「Oh, if it isn't Rance-dono.」
 
-101503	Rance	「魔物隊長だ！　死ねー！」	「A monster captain! Die!」
+101503	Rance		「魔物隊長だ！　死ねー！」	「A monster captain! Die!」
 
-101504	Monster Captain	「おっと、危ない」	「Whoops, close one.」
+101504	Monster Captain		「おっと、危ない」	「Whoops, close one.」
 
-101505	-	ランスの攻撃をラカンは紙一重で避けた。	Rakan dodged Rance's attack by a hair.
+101505	-		ランスの攻撃をラカンは紙一重で避けた。	Rakan dodged Rance's attack by a hair.
 
-101506	Rance	「むっ、やるな……」	「Hm, not bad...」
+101506	Rance	真剣	「むっ、やるな……」	「Hm, not bad...」
 
-101507	Monster Captain	「ふっふっふっ……	「Fufufu...
-101508	+	　相変わらず、愉快な御仁です」	　As always, such an amusing man.」
+101507	Monster Captain	基本	「ふっふっふっ……	「Fufufu...
+101508	+		　相変わらず、愉快な御仁です」	　As always, such an amusing man.」
 
-101509	Rance	「あん？　何を運んでるんだ？」	「Huh? What are you carrying?」
+101509	Rance		「あん？　何を運んでるんだ？」	「Huh? What are you carrying?」
 
-101510	Monster Captain	「サテラ様に紅茶を。	「Black tea for Satella-sama.
-101511	+	　久しぶりにお飲みになりたいと仰るので」	　She said she wants to drink it after a long time.」
+101510	Monster Captain		「サテラ様に紅茶を。	「Black tea for Satella-sama.
+101511	+		　久しぶりにお飲みになりたいと仰るので」	　She said she wants to drink it after a long time.」
 
-101512	Rance	「魔物の癖に紅茶なんて淹れるのか……」	「A monster brewing black tea...」
+101512	Rance		「魔物の癖に紅茶なんて淹れるのか……」	「A monster brewing black tea...」
 
-101513	Monster Captain	「おや、心外ですね。	「Oh, how rude.
-101514	+	　紅茶を淹れるのは得意ですよ」	　I'm quite good at brewing tea.」
+101513	Monster Captain		「おや、心外ですね。	「Oh, how rude.
+101514	+		　紅茶を淹れるのは得意ですよ」	　I'm quite good at brewing tea.」
 
-101515	Monster Captain	「私、こう見えても、	「Though I may not look it,
-101516	+	　元々は魔王ガイ様に仕えていた	　I was originally a butler serving Demon King Gai-sama.」
-101517	+	　執事の一人でして」	
+101515	Monster Captain		「私、こう見えても、	「Though I may not look it,
+101516	+		　元々は魔王ガイ様に仕えていた	　I was originally a butler serving Demon King Gai-sama.」
+101517	+		　執事の一人でして」	
 
-101518	Rance	「なんと」	「Really.」
+101518	Rance		「なんと」	「Really.」
 
-101519	Monster Captain	「現在はホーネット様にお仕えし、	「Now I serve Hornet-sama,
-101520	+	　そのご縁でサテラ様とも……」	　and through that connection with Satella-sama...」
+101519	Monster Captain		「現在はホーネット様にお仕えし、	「Now I serve Hornet-sama,
+101520	+		　そのご縁でサテラ様とも……」	　and through that connection with Satella-sama...」
 
-101521	Rance	「あいつに執事として仕えるって……	「Serving that girl as a butler...
-101522	+	　大変そうだな」	　Sounds tough.」
+101521	Rance		「あいつに執事として仕えるって……	「Serving that girl as a butler...
+101522	+		　大変そうだな」	　Sounds tough.」
 
-101523	Monster Captain	「ふっ、これは異なことを」	「Fufu, how strange.
+101523	Monster Captain		「ふっ、これは異なことを」	「Fufu, how strange.
 
-101524	Monster Captain	「誰あろうランス殿は、	　Rance-dono himself is
-101525	+	　サテラ様の使徒ではありませんか」	　Satella-sama's apostle.」
+101524	Monster Captain		「誰あろうランス殿は、	　Rance-dono himself is
+101525	+		　サテラ様の使徒ではありませんか」	　Satella-sama's apostle.」
 
-101526	Rance	「んっ……？」	「Nn...?」
+101526	Rance	真剣	「んっ……？」	「Nn...?」
 
-101527	Rance	「あ、あー、そうそう。	「A-Ah, yeah yeah.
-101528	+	　そういや俺もサテラに	　Now that you mention it, I'm kind of
-101529	+	　仕えてるみたいなもんだったな」	　serving Satella too.」
+101527	Rance	だる顔	「あ、あー、そうそう。	「A-Ah, yeah yeah.
+101528	+		　そういや俺もサテラに	　Now that you mention it, I'm kind of
+101529	+		　仕えてるみたいなもんだったな」	　serving Satella too.」
 
-101530	Monster Captain	「ふふ……」	「Fufu...」
+101530	Monster Captain	基本	「ふふ……」	「Fufu...」
 
-101531	Monster Captain	「では、紅茶が冷めてしまいますので、私はこれで」	「Well then, the tea will get cold, so I'll take my leave.」
+101531	Monster Captain		「では、紅茶が冷めてしまいますので、私はこれで」	「Well then, the tea will get cold, so I'll take my leave.」
 
-101532	-	ラカンは丁寧に頭を下げて去って行った。	Rakan bowed politely and left.
+101532	-		ラカンは丁寧に頭を下げて去って行った。	Rakan bowed politely and left.
 
-101533	Rance	「うーん、魔物に歴史ありだな……」	「Hmm, even monsters have history...」
+101533	Rance	真剣	「うーん、魔物に歴史ありだな……」	「Hmm, even monsters have history...」

@@ -5,278 +5,278 @@
 * Nikkou	日光	Female
 * Arms Arc	アームズ２	Female
 
-232499	Lelikov Helman	「うーーん……」	「Hmmm...」
+232499	Lelikov Helman	基本	「うーーん……」	「Hmmm...」
 
-232500	Lelikov Helman	「あんまり面白そうなところないね、ここ」	「There aren't many interesting places here.」
+232500	Lelikov Helman	きゃはは！	「あんまり面白そうなところないね、ここ」	「There aren't many interesting places here.」
 
-232501	-	レリコフはあっけらかんと言った。	Lelikov Helman said casually.
+232501	-		レリコフはあっけらかんと言った。	Lelikov Helman said casually.
 
-232502	Lelikov Helman	「うーん、うーん、これからどうしよっか」	「Hmm, hmm, what should we do now?」
+232502	Lelikov Helman	基本	「うーん、うーん、これからどうしよっか」	「Hmm, hmm, what should we do now?」
 
-232503	Brothel Boy	「おや、何かお困りでしょうか？」	「Oh, is something troubling you?」
+232503	Brothel Boy		「おや、何かお困りでしょうか？」	「Oh, is something troubling you?」
 
-232504	Lelikov Helman	「どこ行ったら楽しめるか分からなくて」	「I don't know where to go to have fun.」
+232504	Lelikov Helman		「どこ行ったら楽しめるか分からなくて」	「I don't know where to go to have fun.」
 
-232505	Brothel Boy	「そうでしたか」	「I see.」
+232505	Brothel Boy		「そうでしたか」	「I see.」
 
-232506	-	本来ならうっとうしがってもおかしくないが、	Normally it would be annoying,
-232507	+	ボーイはむしろあなた達を	but the boy looked at you both
-232508	+	微笑ましいような表情で見ていた。	with a fond expression.
+232506	-		本来ならうっとうしがってもおかしくないが、	Normally it would be annoying,
+232507	+		ボーイはむしろあなた達を	but the boy looked at you both
+232508	+		微笑ましいような表情で見ていた。	with a fond expression.
 
-232509	Brothel Boy	「あまり経験のないカップルには、	「For inexperienced couples,
-232510	+	　サポートサービスも	　we also offer support services.
-232511	+	　行っておりますが如何でしょう？」	　Would you like that?」
+232509	Brothel Boy		「あまり経験のないカップルには、	「For inexperienced couples,
+232510	+		　サポートサービスも	　we also offer support services.
+232511	+		　行っておりますが如何でしょう？」	　Would you like that?」
 
-232512	Lelikov Helman	「サポート？」	「Support?」
+232512	Lelikov Helman		「サポート？」	「Support?」
 
-232513	Brothel Boy	「本来は未経験の二人の	「It is to help inexperienced pairs
-232514	+	　初体験がより良いものになるよう	　have a better first experience.」
-232515	+	　お手伝いさせて頂くものでございます」	
+232513	Brothel Boy		「本来は未経験の二人の	「It is to help inexperienced pairs
+232514	+		　初体験がより良いものになるよう	　have a better first experience.」
+232515	+		　お手伝いさせて頂くものでございます」	
 
-232516	Lelikov Helman	「初体験……」	「First experience...」
+232516	Lelikov Helman		「初体験……」	「First experience...」
 
-232517	Lelikov Helman	「あっ！」	「Ah!」
+232517	Lelikov Helman		「あっ！」	「Ah!」
 
-232518	Lelikov Helman	「ど、どう、しよう……」	「W, what should we do...」
+232518	Lelikov Helman	テレ	「ど、どう、しよう……」	「W, what should we do...」
 
-232519	El Mofus	「…………。」	「............」
-232520	Lelikov Helman	「＜エール＞！？」	「＜エール＞!?」
+232519	El Mofus	基本	「…………。」	「............」
+232520	Lelikov Helman	テレ	「＜エール＞！？」	「＜エール＞!?」
 
-232521	Lelikov Helman	「い、行かないよ！」	「I, I'm not going!」
+232521	Lelikov Helman		「い、行かないよ！」	「I, I'm not going!」
 
-232522	Lelikov Helman	「失礼しまーーーっす！」	「Excuse us!」
+232522	Lelikov Helman		「失礼しまーーーっす！」	「Excuse us!」
 
-232523	Lelikov Helman	「ど、どうもしない！　しないしない！」	「N, nothing! No no!」
+232523	Lelikov Helman		「ど、どうもしない！　しないしない！」	「N, nothing! No no!」
 
-232524	Lelikov Helman	「い、行こうっ！」	「L, let's go!」
+232524	Lelikov Helman		「い、行こうっ！」	「L, let's go!」
 
-232525	Lelikov Helman	「あ、えと……えとえと……」	「Ah, um... um um...」
+232525	Lelikov Helman		「あ、えと……えとえと……」	「Ah, um... um um...」
 
-232526	Lelikov Helman	「し、失礼します！」	「E, excuse us!」
+232526	Lelikov Helman		「し、失礼します！」	「E, excuse us!」
 
-232527	Brothel Boy	「あ、お客様！？」	「Ah, customers!?」
+232527	Brothel Boy	提案	「あ、お客様！？」	「Ah, customers!?」
 
-232528	Lelikov Helman	「はあ、はあ……」	「Haa, haa...」
+232528	Lelikov Helman	基本	「はあ、はあ……」	「Haa, haa...」
 
-232529	Lelikov Helman	「うーーん……」	「Hmm...」
+232529	Lelikov Helman		「うーーん……」	「Hmm...」
 
-232530	-	少し居心地が悪そうにはにかみ、	Looking a bit awkward and shy,
-232531	+	それでもレリコフはあなたに笑いかけてきた。	Lelikov Helman still smiled at you.
+232530	-		少し居心地が悪そうにはにかみ、	Looking a bit awkward and shy,
+232531	+		それでもレリコフはあなたに笑いかけてきた。	Lelikov Helman still smiled at you.
 
-232532	Lelikov Helman	「ふふ、退屈潰せるとこはないけど、	「Fufu, there's no place to kill boredom,
-232533	+	　ちょっと面白いね、ここ」	　but it's a bit interesting here.」
+232532	Lelikov Helman	きゃはは！	「ふふ、退屈潰せるとこはないけど、	「Fufu, there's no place to kill boredom,
+232533	+		　ちょっと面白いね、ここ」	　but it's a bit interesting here.」
 
-232534	-	レリコフの瞳は好奇心で爛々と輝いていた。	Lelikov Helman's eyes sparkled with curiosity.
+232534	-		レリコフの瞳は好奇心で爛々と輝いていた。	Lelikov Helman's eyes sparkled with curiosity.
 
-232535	Nikkou	「…………ぁっ……ま……っ、ん……」	「......Ah... wa... n...」
+232535	Nikkou	基本	「…………ぁっ……ま……っ、ん……」	「......Ah... wa... n...」
 
-232536	Lelikov Helman	「ん？　なんだろう？」	「Hm? What is that?」
+232536	Lelikov Helman		「ん？　なんだろう？」	「Hm? What is that?」
 
-232537	-	聞き覚えがあるような声に、	Hearing a familiar voice,
-232538	+	あなた達は耳をそばだてる。	you both perked up your ears.
+232537	-		聞き覚えがあるような声に、	Hearing a familiar voice,
+232538	+		あなた達は耳をそばだてる。	you both perked up your ears.
 
-232539	Brothel Boy	「さ、日光様、嫌がらないで下さい……	「Now, Nikkou-sama, please don't resist...
-232540	+	　もっと体をリラックスさせて……」	　Relax your body more...」
+232539	Brothel Boy		「さ、日光様、嫌がらないで下さい……	「Now, Nikkou-sama, please don't resist...
+232540	+		　もっと体をリラックスさせて……」	　Relax your body more...」
 
-232541	Nikkou	「んっ……ですが……」	「Nnh... but...」
+232541	Nikkou		「んっ……ですが……」	「Nnh... but...」
 
-232542	Brothel Boy	「ただのマッサージと思って下さい……	「Think of it as just a massage...
-232543	+	　さあ、自分の体の変化だけに集中して……」	　Now, focus only on the changes in your body...」
+232542	Brothel Boy		「ただのマッサージと思って下さい……	「Think of it as just a massage...
+232543	+		　さあ、自分の体の変化だけに集中して……」	　Now, focus only on the changes in your body...」
 
-232544	Arms Arc	「聖刀を直す為に快楽を得る。	「To repair the holy sword, we obtain pleasure.
-232545	+	　それは日光も同意済みのことだろう？」	　You agreed to this too, right Nikkou?」
+232544	Arms Arc		「聖刀を直す為に快楽を得る。	「To repair the holy sword, we obtain pleasure.
+232545	+		　それは日光も同意済みのことだろう？」	　You agreed to this too, right Nikkou?」
 
-232546	Nikkou	「そ、それは……あっ……」	「T, that... ah...」
+232546	Nikkou		「そ、それは……あっ……」	「T, that... ah...」
 
-232547	Lelikov Helman	「なんだろ、聞き覚えのある声だね」	「What is it? It sounds familiar.」
+232547	Lelikov Helman		「なんだろ、聞き覚えのある声だね」	「What is it? It sounds familiar.」
 
-232548	Lelikov Helman	「あっちの方だよ、行ってみよー！」	「It's that way, let's go!」
+232548	Lelikov Helman	きゃはは！	「あっちの方だよ、行ってみよー！」	「It's that way, let's go!」
 
-232549	-	あなたはまた、レリコフに手を引かれて、	You were pulled by Lelikov Helman again,
-232550	+	声のする方へ引っ張られていった。	and dragged toward the voice.
+232549	-		あなたはまた、レリコフに手を引かれて、	You were pulled by Lelikov Helman again,
+232550	+		声のする方へ引っ張られていった。	and dragged toward the voice.
 
-232551	-	テントとテントに挟まれた場所で、	In a spot between tents,
-232552	+	二人でこそこそと入り込み、耳をそばだてる。	the two of you sneaked in and listened.
+232551	-		テントとテントに挟まれた場所で、	In a spot between tents,
+232552	+		二人でこそこそと入り込み、耳をそばだてる。	the two of you sneaked in and listened.
 
-232553	-	すると――	Then--
+232553	-		すると――	Then--
 
-232554	-	…………	............
+232554	-		…………	............
 
-232555	-	……	...
+232555	-		……	...
 
-232556	Arms Arc	「日光、まだ体が強ばっているぞ。	「Nikkou, your body is still tense.
-232557	+	　まったく、前のときもそうだったが固い奴だ」	　Really, you're so stiff just like last time.」
+232556	Arms Arc	基本	「日光、まだ体が強ばっているぞ。	「Nikkou, your body is still tense.
+232557	+		　まったく、前のときもそうだったが固い奴だ」	　Really, you're so stiff just like last time.」
 
-232558	Nikkou	「あ、ま、待って……ちょっ、んっ……待ちなさい……」	「Ah, w, wait... just a, nnh... wait...」
+232558	Nikkou	全裸	「あ、ま、待って……ちょっ、んっ……待ちなさい……」	「Ah, w, wait... just a, nnh... wait...」
 
-232559	Arms Arc	「待たない。	「I won't wait.
-232560	+	　待っていたら日が暮れても待てと言うだろう」	　If I wait you'll say to wait until sunset.」
+232559	Arms Arc	基本	「待たない。	「I won't wait.
+232560	+		　待っていたら日が暮れても待てと言うだろう」	　If I wait you'll say to wait until sunset.」
 
-232561	Arms Arc	「君達も、気にせずにサービスを始めてあげてくれ。	「You all, start the service without worry.
-232562	+	　なに、少しくらい強引でも日光なら怒らない」	　Nikkou won't get angry even if it's a bit forceful.」
+232561	Arms Arc		「君達も、気にせずにサービスを始めてあげてくれ。	「You all, start the service without worry.
+232562	+		　なに、少しくらい強引でも日光なら怒らない」	　Nikkou won't get angry even if it's a bit forceful.」
 
-232563	Nikkou	「んっ……ま、待ちなさ……ぁ……」	「Nnh... w, wait... aah...」
+232563	Nikkou	全裸	「んっ……ま、待ちなさ……ぁ……」	「Nnh... w, wait... aah...」
 
-232564	Nikkou	「くっ……	「Kuh...
-232565	+	　………………っ」	　............」
+232564	Nikkou		「くっ……	「Kuh...
+232565	+		　………………っ」	　............」
 
-232566	Arms Arc	「……ふう、やれやれ」	「...Haa, good grief.」
+232566	Arms Arc	基本	「……ふう、やれやれ」	「...Haa, good grief.」
 
-232567	Arms Arc	「まったく……	「Really...
-232568	+	　何年も生きているくせに、	　Despite living for so many years,
-232569	+	　ウブというか頑なというか……」	　you're so innocent and stubborn...」
+232567	Arms Arc		「まったく……	「Really...
+232568	+		　何年も生きているくせに、	　Despite living for so many years,
+232569	+		　ウブというか頑なというか……」	　you're so innocent and stubborn...」
 
-232570	Arms Arc	「仕方ないな……」	「Can't be helped...」
+232570	Arms Arc		「仕方ないな……」	「Can't be helped...」
 
-232571	Arms Arc	「よいしょ……」	「There...」
+232571	Arms Arc	全裸	「よいしょ……」	「There...」
 
-232572	Nikkou	「あ、な、なにを……」	「Ah, w, what are you...」
+232572	Nikkou	基本	「あ、な、なにを……」	「Ah, w, what are you...」
 
-232573	Arms Arc	「まあ、互いの肌の温度を知らぬ仲じゃない……」	「Well, we're not strangers who don't know each other's skin temperature...」
+232573	Arms Arc	全裸	「まあ、互いの肌の温度を知らぬ仲じゃない……」	「Well, we're not strangers who don't know each other's skin temperature...」
 
-232574	Arms Arc	「本当は傍にいてやるだけのつもりだったが、	「I only planned to stay by your side,
-232575	+	　お前には気持ち良くなってもらわないと	　but you need to feel good
-232576	+	　いけないからな」	　so...」
+232574	Arms Arc		「本当は傍にいてやるだけのつもりだったが、	「I only planned to stay by your side,
+232575	+		　お前には気持ち良くなってもらわないと	　but you need to feel good
+232576	+		　いけないからな」	　so...」
 
-232577	Nikkou	「ま、待ちなさい。	「W, wait.」
-232578	+	　それなら、ちゃんと――」	　If so, properly--」
+232577	Nikkou		「ま、待ちなさい。	「W, wait.」
+232578	+		　それなら、ちゃんと――」	　If so, properly--」
 
-232579	Arms Arc	「駄目だ。	「No.
-232580	+	　私は気は長いが、	　I have patience,
-232581	+	　積み上げるもののない無駄な時間は大嫌いだ」	　but I hate pointless time with no progress.」
+232579	Arms Arc		「駄目だ。	「No.
+232580	+		　私は気は長いが、	　I have patience,
+232581	+		　積み上げるもののない無駄な時間は大嫌いだ」	　but I hate pointless time with no progress.」
 
-232582	Nikkou	「――あ、ああっ」	「--Ah, aah!」
+232582	Nikkou		「――あ、ああっ」	「--Ah, aah!」
 
-232583	Arms Arc	「ふっ、女の私でも可愛いと思うよ、日光……	「Heh, even as a woman I think you're cute, Nikkou...
-232584	+	　男ならきっともっとたまらない」	　A man would find you irresistible.」
+232583	Arms Arc		「ふっ、女の私でも可愛いと思うよ、日光……	「Heh, even as a woman I think you're cute, Nikkou...
+232584	+		　男ならきっともっとたまらない」	　A man would find you irresistible.」
 
-232585	Nikkou	「そ……そんなこと言わないで下さい……」	「D... don't say such things...」
+232585	Nikkou		「そ……そんなこと言わないで下さい……」	「D... don't say such things...」
 
-232586	Arms Arc	「なんだ、照れているのか？　ん？	「What, are you embarrassed? Hm?
-232587	+	　ふふ、だからウブだと言うんだ」	　Fufu, that's why I call you innocent.」
+232586	Arms Arc		「なんだ、照れているのか？　ん？	「What, are you embarrassed? Hm?
+232587	+		　ふふ、だからウブだと言うんだ」	　Fufu, that's why I call you innocent.」
 
-232588	Nikkou	「あ、なにを、ま、待ちなさい……」	「Ah, what are you, w, wait...」
+232588	Nikkou		「あ、なにを、ま、待ちなさい……」	「Ah, what are you, w, wait...」
 
-232589	Arms Arc	「そら、体の力を抜いて、	「There, relax your body,
-232590	+	　後は私に任せてればいいから……」	　and leave the rest to me...」
+232589	Arms Arc		「そら、体の力を抜いて、	「There, relax your body,
+232590	+		　後は私に任せてればいいから……」	　and leave the rest to me...」
 
-232591	Nikkou	「ああっ……」	「Aah...」
+232591	Nikkou		「ああっ……」	「Aah...」
 
-232592	-	テント内に、ひそひそとした囁き声が漂う。	Soft whispering voices drifted inside the tent.
+232592	-		テント内に、ひそひそとした囁き声が漂う。	Soft whispering voices drifted inside the tent.
 
-232593	-	あなた達はそれをテントの外から	You two listened secretly
-232594	+	こっそりと聞いていた。	from outside the tent.
+232593	-		あなた達はそれをテントの外から	You two listened secretly
+232594	+		こっそりと聞いていた。	from outside the tent.
 
-232595	Lelikov Helman	「…………」	「............」
+232595	Lelikov Helman	基本	「…………」	「............」
 
-232596	-	レリコフは何も言わず、ただジッと黙っている。	Lelikov Helman said nothing and stayed silent.
+232596	-		レリコフは何も言わず、ただジッと黙っている。	Lelikov Helman said nothing and stayed silent.
 
-232597	-	　　＜にちゅ……ちゅ……＞	　　＜Slurp... chu...＞
+232597	-		　　＜にちゅ……ちゅ……＞	　　＜Slurp... chu...＞
 
-232598	-	今まではただの女性同士の会話だったのが、	What was just conversation between women
-232599	+	そこにもう一つ、水音が加わった。	now added wet sounds.
+232598	-		今まではただの女性同士の会話だったのが、	What was just conversation between women
+232599	+		そこにもう一つ、水音が加わった。	now added wet sounds.
 
-232600	Nikkou	「あ、アームズ……そこ、は……はぁっ……」	「Ah, Arms... there, is... haa...」
+232600	Nikkou		「あ、アームズ……そこ、は……はぁっ……」	「Ah, Arms... there, is... haa...」
 
-232601	Arms Arc	「前も思ったが……ふふ……まるで生娘だな」	「I thought so before too... fufu... you're like a virgin.」
+232601	Arms Arc		「前も思ったが……ふふ……まるで生娘だな」	「I thought so before too... fufu... you're like a virgin.」
 
-232602	-	テントの中からは、	From inside the tent,
-232603	+	妙齢の女性二人の甘く色づいた声が届いていた。	the sweet, aroused voices of two mature women could be heard.
+232602	-		テントの中からは、	From inside the tent,
+232603	+		妙齢の女性二人の甘く色づいた声が届いていた。	the sweet, aroused voices of two mature women could be heard.
 
-232604	-	その声を聞いていると、あなたの心臓は自然と跳ね、	Listening to those voices, your heart naturally raced,
-232605	+	顔が熱くなるのを感じた。	and your face grew hot.
+232604	-		その声を聞いていると、あなたの心臓は自然と跳ね、	Listening to those voices, your heart naturally raced,
+232605	+		顔が熱くなるのを感じた。	and your face grew hot.
 
-232606	-	このままここにいたらいけないのではないか？	Shouldn't you leave right now?
-232607	+	ようやく、あなたはその考えに至った。	Finally that thought reached you.
+232606	-		このままここにいたらいけないのではないか？	Shouldn't you leave right now?
+232607	+		ようやく、あなたはその考えに至った。	Finally that thought reached you.
 
-232608	-	ここを出ようと言う為に、	To suggest leaving,
-232609	+	あなたはレリコフに目を向けた。	you turned to Lelikov Helman.
+232608	-		ここを出ようと言う為に、	To suggest leaving,
+232609	+		あなたはレリコフに目を向けた。	you turned to Lelikov Helman.
 
-232610	Lelikov Helman	「あ……＜エール＞……」	「Ah... ＜エール＞...」
+232610	Lelikov Helman	テレ	「あ……＜エール＞……」	「Ah... ＜エール＞...」
 
-232611	-	とろんと――	Her eyes were melting--
-232612	+	レリコフは瞳を蕩かせていた。	Lelikov Helman had a melted, entranced look.
+232611	-		とろんと――	Her eyes were melting--
+232612	+		レリコフは瞳を蕩かせていた。	Lelikov Helman had a melted, entranced look.
 
-232613	-	淫蕩と呼ぶに相応しい、淫らな表情。	A lewd expression fitting to call lascivious.
-232614	+	今までの子供っぽいレリコフとは	Completely different from her usual childish self.
-232615	+	まったく違う顔だった。	
+232613	-		淫蕩と呼ぶに相応しい、淫らな表情。	A lewd expression fitting to call lascivious.
+232614	+		今までの子供っぽいレリコフとは	Completely different from her usual childish self.
+232615	+		まったく違う顔だった。	
 
-232616	Lelikov Helman	「な、なんだろう……」	「W, what is this...」
+232616	Lelikov Helman		「な、なんだろう……」	「W, what is this...」
 
-232617	Lelikov Helman	「からだが熱いよ、うずうずして……	「My body feels hot, it's throbbing...
-232618	+	　く、くすぐったいような感じで……	　It feels ticklish and...
-232619	+	　へ、変、かも……」	　S, strange...」
+232617	Lelikov Helman		「からだが熱いよ、うずうずして……	「My body feels hot, it's throbbing...
+232618	+		　く、くすぐったいような感じで……	　It feels ticklish and...
+232619	+		　へ、変、かも……」	　S, strange...」
 
-232620	-	レリコフの頬が赤く染まり、瞳は潤んでいた。	Lelikov Helman's cheeks were flushed red, her eyes moist.
+232620	-		レリコフの頬が赤く染まり、瞳は潤んでいた。	Lelikov Helman's cheeks were flushed red, her eyes moist.
 
-232621	-	初めての経験なのかも知れない。	This might be her first time experiencing it.
-232622	+	レリコフは体を襲う、性的興奮に戸惑っていた。	Lelikov Helman was confused by the sexual arousal attacking her body.
+232621	-		初めての経験なのかも知れない。	This might be her first time experiencing it.
+232622	+		レリコフは体を襲う、性的興奮に戸惑っていた。	Lelikov Helman was confused by the sexual arousal attacking her body.
 
-232623	Lelikov Helman	「お、お腹のとこ、がね？	「Down in my belly,
-232624	+	　ずくんずくん、ってしてるの……」	　it's throbbing...」
+232623	Lelikov Helman		「お、お腹のとこ、がね？	「Down in my belly,
+232624	+		　ずくんずくん、ってしてるの……」	　it's throbbing...」
 
-232625	Lelikov Helman	「ほら、ね……そこからでも音、分かる……？	「See... can you hear the sound from there...?
-232626	+	　心臓、どきんどきん……どきんどきん……って」	　My heart is pounding... pounding...」
+232625	Lelikov Helman		「ほら、ね……そこからでも音、分かる……？	「See... can you hear the sound from there...?
+232626	+		　心臓、どきんどきん……どきんどきん……って」	　My heart is pounding... pounding...」
 
-232627	Lelikov Helman	「んっ……んんっ……	「Nnh... nnh...
-232628	+	　ボク、どうしちゃったんだろう……」	　What is happening to me...」
+232627	Lelikov Helman		「んっ……んんっ……	「Nnh... nnh...
+232628	+		　ボク、どうしちゃったんだろう……」	　What is happening to me...」
 
-232629	-	混乱すらしているレリコフに、あなたは……	To the confused Lelikov Helman, you...
-232630	Lelikov Helman	「あっ……」	「Ah...」
+232629	-		混乱すらしているレリコフに、あなたは……	To the confused Lelikov Helman, you...
+232630	Lelikov Helman		「あっ……」	「Ah...」
 
-232631	-	あなたの手がゆっくりと、	Your hand slowly,
-232632	+	まるで焦らすようにゆっくり、	as if teasing,
-232633	+	レリコフの体へと伸びていく。	reached toward Lelikov Helman's body.
+232631	-		あなたの手がゆっくりと、	Your hand slowly,
+232632	+		まるで焦らすようにゆっくり、	as if teasing,
+232633	+		レリコフの体へと伸びていく。	reached toward Lelikov Helman's body.
 
-232634	Lelikov Helman	「…………」	「............」
+232634	Lelikov Helman		「…………」	「............」
 
-232635	-	その手の動きだけをジッと、	Lelikov Helman stared intently at the movement of your hand
-232636	+	レリコフは熱っぽい瞳で見ていた。	with feverish eyes.
+232635	-		その手の動きだけをジッと、	Lelikov Helman stared intently at the movement of your hand
+232636	+		レリコフは熱っぽい瞳で見ていた。	with feverish eyes.
 
-232637	-	その瞳は、期待に潤んでいる――	Those eyes were wet with expectation--
-232638	+	そう、あなたの目には映った。	or so it appeared to you.
+232637	-		その瞳は、期待に潤んでいる――	Those eyes were wet with expectation--
+232638	+		そう、あなたの目には映った。	or so it appeared to you.
 
-232639	Arms Arc	「そこに誰かいるのか？」	「Is someone there?」
+232639	Arms Arc	基本	「そこに誰かいるのか？」	「Is someone there?」
 
-232640	Lelikov Helman	「――ッ！？！？！？」	「--!?!!??」
+232640	Lelikov Helman	テレ	「――ッ！？！？！？」	「--!?!!??」
 
-232641	-	ビクンとレリコフが跳ねた。	Lelikov Helman jolted.
+232641	-		ビクンとレリコフが跳ねた。	Lelikov Helman jolted.
 
-232642	Lelikov Helman	「いっ……！」	「L...!」
+232642	Lelikov Helman		「いっ……！」	「L...!」
 
-232643	Lelikov Helman	「行こう！　行こう行こう行こう！」	「Let's go! Go go go!」
+232643	Lelikov Helman	基本	「行こう！　行こう行こう行こう！」	「Let's go! Go go go!」
 
-232644	-	あなた達はアームズの声で正気に返ると、	Brought back to your senses by Arms's voice,
-232645	+	慌ててその場を離れた。	you hurriedly left the spot.
+232644	-		あなた達はアームズの声で正気に返ると、	Brought back to your senses by Arms's voice,
+232645	+		慌ててその場を離れた。	you hurriedly left the spot.
 
-232646	-	…………	............
+232646	-		…………	............
 
-232647	-	……	...
+232647	-		……	...
 
-232648	Lelikov Helman	「…………」	「............」
+232648	Lelikov Helman		「…………」	「............」
 
-232649	Lelikov Helman	「あ、あはは、なんか変な感じ……」	「A, ahaha, that felt weird...」
+232649	Lelikov Helman		「あ、あはは、なんか変な感じ……」	「A, ahaha, that felt weird...」
 
-232650	-	テントの影から表に出ると世界が一変し、	Coming out from the shadow of the tent the world changed,
-232651	+	なんだか今までのことが	and everything that happened
-232652	+	白昼夢のように感じられた。	felt like a daydream.
+232650	-		テントの影から表に出ると世界が一変し、	Coming out from the shadow of the tent the world changed,
+232651	+		なんだか今までのことが	and everything that happened
+232652	+		白昼夢のように感じられた。	felt like a daydream.
 
-232653	Lelikov Helman	「うーん……ボク、今日……	「Hmm... today I...
-232654	+	　すごく大人になった気がする……」	　feel like I became really adult...」
+232653	Lelikov Helman	テレ	「うーん……ボク、今日……	「Hmm... today I...
+232654	+		　すごく大人になった気がする……」	　feel like I became really adult...」
 
-232655	Lelikov Helman	「＜エール＞……	「＜エール＞...
-232656	+	　今日のことはみんなに秘密……ね？」	　Today's events are a secret from everyone... okay?」
+232655	Lelikov Helman	基本	「＜エール＞……	「＜エール＞...
+232656	+		　今日のことはみんなに秘密……ね？」	　Today's events are a secret from everyone... okay?」
 
-232657	-	あなたは頷いた。	You nodded.
+232657	-		あなたは頷いた。	You nodded.
 
-232658	-	レリコフは顔を赤くしていた。	Lelikov Helman's face was red.
-232659	+	もしかしたら、自分も同じかも知れない。	Maybe you were the same.
-232660	+	あなたはそんなことを思った。	You thought so.
+232658	-		レリコフは顔を赤くしていた。	Lelikov Helman's face was red.
+232659	+		もしかしたら、自分も同じかも知れない。	Maybe you were the same.
+232660	+		あなたはそんなことを思った。	You thought so.
 
-232661	Lelikov Helman	「ふふ、二人だけの秘密だってー♪	「Fufu, it's our secret♪
-232662	+	　ふふふふ♪」	　Fufufu♪」
+232661	Lelikov Helman	きゃはは！	「ふふ、二人だけの秘密だってー♪	「Fufu, it's our secret♪
+232662	+		　ふふふふ♪」	　Fufufu♪」
 
-232663	-	ほんの少し――	Just a little--
-232664	+	本当にほんの少しだが――	really just a little--
+232663	-		ほんの少し――	Just a little--
+232664	+		本当にほんの少しだが――	really just a little--
 
-232665	-	あなたは今日、少し大人になったような気がした。	you felt like you became a little more adult today.
+232665	-		あなたは今日、少し大人になったような気がした。	you felt like you became a little more adult today.

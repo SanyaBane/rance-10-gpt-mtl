@@ -6,82 +6,82 @@
 * Megawas Horus	メガワス	Male
 * Miracle Tor	ミラクル	Female
 
-63706	Maria Custard	「ランス！　あそこ、岩陰があるわよ！」	「Rance! There's rock cover over there!」
+63706	Maria Custard	基本	「ランス！　あそこ、岩陰があるわよ！」	「Rance! There's rock cover over there!」
 
-63707	Rance	「くっ……！」	「Kuh...!」
+63707	Rance	イライラ	「くっ……！」	「Kuh...!」
 
-63708	Copandon Dott	「走って！　またレーザー、照準来てるで！」	「Run! Another laser is aiming!」
+63708	Copandon Dott	怒り	「走って！　またレーザー、照準来てるで！」	「Run! Another laser is aiming!」
 
-63709	Rance	「ええい、こなくそーーー！」	「Damn it, you bastard!」
+63709	Rance		「ええい、こなくそーーー！」	「Damn it, you bastard!」
 
-63710	-	ランスは疾走し、辛くも岩陰に滑り込んだ。	Rance sprinted and barely slid into the rock cover.
+63710	-		ランスは疾走し、辛くも岩陰に滑り込んだ。	Rance sprinted and barely slid into the rock cover.
 
-63711	Rance	「ぜいぜい……こんなチマチマと、	「Haa haa... Having to sneak around like this,
-63712	+	　隠れながら進まねばならんとは……面倒な……」	　what a pain...」
+63711	Rance	だる顔	「ぜいぜい……こんなチマチマと、	「Haa haa... Having to sneak around like this,
+63712	+		　隠れながら進まねばならんとは……面倒な……」	　what a pain...」
 
-63713	Satella	「でなければ狙い撃ちだ。どうしようもないぞ」	「Otherwise we'd be sniped. No other way.」
+63713	Satella	不安	「でなければ狙い撃ちだ。どうしようもないぞ」	「Otherwise we'd be sniped. No other way.」
 
-63714	Megawas Horus	「サテラちゃんには効かないのよねぇ？	「It doesn't work on Satella-chan, right?
-63715	+	　じゃあ、ランスをサテラちゃんが	　Then Satella-chan can carry Rance
-63716	+	　抱きかかえていけば？　ﾇﾇﾇ」	　in her arms? Nunu.」
+63714	Megawas Horus	基本	「サテラちゃんには効かないのよねぇ？	「It doesn't work on Satella-chan, right?
+63715	+		　じゃあ、ランスをサテラちゃんが	　Then Satella-chan can carry Rance
+63716	+		　抱きかかえていけば？　ﾇﾇﾇ」	　in her arms? Nunu.」
 
-63717	Satella	「なっ……サ、サテラが、	「Wha... M, me,
-63718	+	　こいつを抱きかかえて……！？」	　carrying this guy...!?」
+63717	Satella	超テレ	「なっ……サ、サテラが、	「Wha... M, me,
+63718	+		　こいつを抱きかかえて……！？」	　carrying this guy...!?」
 
-63719	Megawas Horus	「安全でしょ？	「It's safe, right?
-63720	+	　守ってあげればいいじゃない。ﾇﾇﾇ」	　Just protect him. Nunu.」
+63719	Megawas Horus	基本	「安全でしょ？	「It's safe, right?
+63720	+		　守ってあげればいいじゃない。ﾇﾇﾇ」	　Just protect him. Nunu.」
 
-63721	Satella	「……………………」	「........................」
+63721	Satella	思考	「……………………」	「........................」
 
-63722	-	ごくん、とサテラの喉が鳴る。	Satella's throat made a gulp.
+63722	-		ごくん、とサテラの喉が鳴る。	Satella's throat made a gulp.
 
-63723	Satella	「…………ま、まったく、しょうがないな！	「...I, it can't be helped!
-63724	+	　使徒を主が守るなんてあべこべだが……」	　A master protecting her apostle is backwards but...」
+63723	Satella	ツンデレ	「…………ま、まったく、しょうがないな！	「...I, it can't be helped!
+63724	+		　使徒を主が守るなんてあべこべだが……」	　A master protecting her apostle is backwards but...」
 
-63725	Rance	「アホ。そんなみっともない真似ができるか。	「Idiot. I can't do something so pathetic.
-63726	+	　却下だ却下」	　Rejected.」
+63725	Rance	だる顔	「アホ。そんなみっともない真似ができるか。	「Idiot. I can't do something so pathetic.
+63726	+		　却下だ却下」	　Rejected.」
 
-63727	Satella	「…………！」	「............!」
+63727	Satella	あほー	「…………！」	「............!」
 
-63728	Rance	「それより、その衛星だったか？	「More importantly, that satellite?
-63729	+	　一度ぶち壊したんだろう。どうやったんだ」	　You destroyed it once. How did you do it?」
+63728	Rance	真剣	「それより、その衛星だったか？	「More importantly, that satellite?
+63729	+		　一度ぶち壊したんだろう。どうやったんだ」	　You destroyed it once. How did you do it?」
 
-63730	Satella	「…………んんー……バグだ。バグを使った」	「............Nnn... A bug. I used a bug.」
+63730	Satella	思考	「…………んんー……バグだ。バグを使った」	「............Nnn... A bug. I used a bug.」
 
-63731	Rance	「バグ？」	「Bug?」
+63731	Rance	真剣	「バグ？」	「Bug?」
 
-63732	Satella	「ああ。バグをぶつけると、	「Yeah. When you hit Pi-R's machines with a bug,
-63733	+	　パイアールの機械は変になる。	　they go haywire.
-63734	+	　メガラスがそれを運んで、衛星にぶつけたんだ」	　Megalas carried it and slammed it into the satellite.」
+63732	Satella	不安	「ああ。バグをぶつけると、	「Yeah. When you hit Pi-R's machines with a bug,
+63733	+		　パイアールの機械は変になる。	　they go haywire.
+63734	+		　メガラスがそれを運んで、衛星にぶつけたんだ」	　Megalas carried it and slammed it into the satellite.」
 
-63735	Megawas Horus	「あら、そう……メガラス…………ﾇﾇﾇ」	「Oh, I see... Megalas...... Nunu.」
+63735	Megawas Horus	基本	「あら、そう……メガラス…………ﾇﾇﾇ」	「Oh, I see... Megalas...... Nunu.」
 
-63736	Rance	「なんだっけ。ホルスだったか、そいつ。	「What was his name. Horus, right.
-63737	+	　なるほど、ホルスなら飛べるか」	　I see, Horus can fly.」
+63736	Rance		「なんだっけ。ホルスだったか、そいつ。	「What was his name. Horus, right.
+63737	+		　なるほど、ホルスなら飛べるか」	　I see, Horus can fly.」
 
-63738	Megawas Horus	「無理よ。ホルスでも、	「Impossible. Even Horus
-63739	+	　普通はあんな高さまでは飛べないわ。ﾇﾇﾇ」	　can't normally fly that high. Nunu.」
+63738	Megawas Horus		「無理よ。ホルスでも、	「Impossible. Even Horus
+63739	+		　普通はあんな高さまでは飛べないわ。ﾇﾇﾇ」	　can't normally fly that high. Nunu.」
 
-63740	Rance	「なんだと？」	「What?」
+63740	Rance	真剣	「なんだと？」	「What?」
 
-63741	Megawas Horus	「この星の生き物もそうみたいだけど、	「It seems creatures on this planet too,
-63742	+	　飛行時の限界高度ってものがあるの。	　have a limit to flight altitude.
-63743	+	　この高さまでは飛べます、ってね。ﾇﾇﾇ」	　They can't go this high. Nunu.」
+63741	Megawas Horus	基本	「この星の生き物もそうみたいだけど、	「It seems creatures on this planet too,
+63742	+		　飛行時の限界高度ってものがあるの。	　have a limit to flight altitude.
+63743	+		　この高さまでは飛べます、ってね。ﾇﾇﾇ」	　They can't go this high. Nunu.」
 
-63744	Megawas Horus	「メガラスもそこまでは飛べなかったはずだけど……	「Megalas shouldn't have been able to fly that high either...
-63745	+	　魔人というのになって、強くなったのね……ﾇﾇﾇ」	　Becoming a Fiend made him stronger... Nunu.」
+63744	Megawas Horus		「メガラスもそこまでは飛べなかったはずだけど……	「Megalas shouldn't have been able to fly that high either...
+63745	+		　魔人というのになって、強くなったのね……ﾇﾇﾇ」	　Becoming a Fiend made him stronger... Nunu.」
 
-63746	Satella	「……そのメガラスも、もういない。	「...That Megalas is gone now.
-63747	+	　ケイブリスにやられたと、そう聞いた」	　I heard Kayblis got him.」
+63746	Satella	不安	「……そのメガラスも、もういない。	「...That Megalas is gone now.
+63747	+		　ケイブリスにやられたと、そう聞いた」	　I heard Kayblis got him.」
 
-63748	Rance	「ちっ……八方塞がりではないか」	「Tch... We're completely stuck.」
+63748	Rance	だる顔	「ちっ……八方塞がりではないか」	「Tch... We're completely stuck.」
 
-63749	Miracle Tor	「アウトレンジ攻撃の、究極といったところか。	「The ultimate in out-of-range attacks.
-63750	+	　手の届かない距離からの一方的な攻撃。	　One-sided attacks from an unreachable distance.
-63751	+	　なるほど、これは戦争の枠から逸脱しかねんな」	　This could go beyond the bounds of war.」
+63749	Miracle Tor	目閉じ	「アウトレンジ攻撃の、究極といったところか。	「The ultimate in out-of-range attacks.
+63750	+		　手の届かない距離からの一方的な攻撃。	　One-sided attacks from an unreachable distance.
+63751	+		　なるほど、これは戦争の枠から逸脱しかねんな」	　This could go beyond the bounds of war.」
 
-63752	Rance	「言ってる場合か！	「No time to chat!
-63753	+	　ええい、休憩終わり！　行くぞ！」	　Break's over! Let's move!」
+63752	Rance	怒り	「言ってる場合か！	「No time to chat!
+63753	+		　ええい、休憩終わり！　行くぞ！」	　Break's over! Let's move!」
 
-63754	-	飛び出したランスに一行は続き、	The group followed Rance as he dashed out,
-63755	+	死のマラソンが再開された。	and the deadly marathon resumed.
+63754	-		飛び出したランスに一行は続き、	The group followed Rance as he dashed out,
+63755	+		死のマラソンが再開された。	and the deadly marathon resumed.

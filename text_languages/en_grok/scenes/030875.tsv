@@ -4,42 +4,42 @@
 * Caloria Cricket	カロリア	Female
 * Pastel Kalar	パステル	Female
 
-36845	-	一面の海原にも、夜は来る。	Night falls even on the vast ocean.
+36845	-		一面の海原にも、夜は来る。	Night falls even on the vast ocean.
 
-36846	-	日が落ち、サンライズ号の甲板から人が消える。	As the sun set, people disappeared from the Sunrise's deck.
-36847	+	わずかな見張りと、そのための小さな灯りを残して、	Leaving only a few lookouts and small lights for them,
-36848	+	船は眠りに就く。	the ship went to sleep.
+36846	-		日が落ち、サンライズ号の甲板から人が消える。	As the sun set, people disappeared from the Sunrise's deck.
+36847	+		わずかな見張りと、そのための小さな灯りを残して、	Leaving only a few lookouts and small lights for them,
+36848	+		船は眠りに就く。	the ship went to sleep.
 
-36849	-	寄せては返す波の音が、静かに響く。	The sound of waves lapping gently echoed.
+36849	-		寄せては返す波の音が、静かに響く。	The sound of waves lapping gently echoed.
 
-36850	-	出航一日目が、何事もなく終わった。	The first day of the voyage ended without incident.
+36850	-		出航一日目が、何事もなく終わった。	The first day of the voyage ended without incident.
 
-36851	Rance	「おー、今日もいい天気ではないか。	「Oh, another nice day.
-36852	+	　朝を船の上で迎えるというのも、中々面白いな！	　Waking up on a ship is pretty interesting!
-36853	+	　がっはっは」	　Gahaha.」
+36851	Rance	笑顔	「おー、今日もいい天気ではないか。	「Oh, another nice day.
+36852	+		　朝を船の上で迎えるというのも、中々面白いな！	　Waking up on a ship is pretty interesting!
+36853	+		　がっはっは」	　Gahaha.」
 
-36854	-	朝。	Morning.
+36854	-		朝。	Morning.
 
-36855	-	ランス一行は甲板にシートを広げ、	Rance's group spread a sheet on the deck,
-36856	+	軽いピクニック気分で朝食を摂っていた。	and were having breakfast in a light picnic mood.
+36855	-		ランス一行は甲板にシートを広げ、	Rance's group spread a sheet on the deck,
+36856	+		軽いピクニック気分で朝食を摂っていた。	and were having breakfast in a light picnic mood.
 
-36857	Sill Plain	「はい、ランス様。ドーナツです。	「Here, Rance-sama. Donuts.
-36858	+	　昨晩は……その、お部屋に戻られません	　Last night... um, you didn't return to the room...」
-36859	+	　でしたけど……」	
+36857	Sill Plain	基本	「はい、ランス様。ドーナツです。	「Here, Rance-sama. Donuts.
+36858	+		　昨晩は……その、お部屋に戻られません	　Last night... um, you didn't return to the room...」
+36859	+		　でしたけど……」	
 
-36860	Rance	「がはははは、俺様には色々と行く所があるのだ。	「Gahahahaha, I have many places to go.
-36861	+	　総統様だからな、多忙なのだ」	　Being the Supreme Leader means I'm very busy.」
+36860	Rance	笑顔	「がはははは、俺様には色々と行く所があるのだ。	「Gahahahaha, I have many places to go.
+36861	+		　総統様だからな、多忙なのだ」	　Being the Supreme Leader means I'm very busy.」
 
-36862	Sill Plain	「あ、そうですか……」	「Ah, I see...」
+36862	Sill Plain	苦笑	「あ、そうですか……」	「Ah, I see...」
 
-36863	Caloria Cricket	「ランス、元気になったの？」	「Rance, are you feeling better?」
+36863	Caloria Cricket	基本	「ランス、元気になったの？」	「Rance, are you feeling better?」
 
-36864	Rance	「ああ、身体を動かしてたら慣れてきた」	「Yeah, I got used to it after moving around.」
+36864	Rance		「ああ、身体を動かしてたら慣れてきた」	「Yeah, I got used to it after moving around.」
 
-36865	Rance	「船の揺れも、なかなか乙なものだぞ。	「The rocking of the ship is quite nice too.
-36866	+	　ちょっと変わった振動が加わって……ぬふふ」	　With that special vibration added... Nufufu.」
+36865	Rance	エロ顔	「船の揺れも、なかなか乙なものだぞ。	「The rocking of the ship is quite nice too.
+36866	+		　ちょっと変わった振動が加わって……ぬふふ」	　With that special vibration added... Nufufu.」
 
-36867	Pastel Kalar	「まったく……朝っぱらの飯時にする話か、それが」	「Geez... Talking about that at breakfast time.」
+36867	Pastel Kalar	基本	「まったく……朝っぱらの飯時にする話か、それが」	「Geez... Talking about that at breakfast time.」
 
-36868	-	波高くして、空晴朗なり。	The waves were high and the sky was clear.
-36869	+	航海二日目が、始まった。	The second day of the voyage began.
+36868	-		波高くして、空晴朗なり。	The waves were high and the sky was clear.
+36869	+		航海二日目が、始まった。	The second day of the voyage began.

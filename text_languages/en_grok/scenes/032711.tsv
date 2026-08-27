@@ -4,67 +4,67 @@
 * Stroganoff	ストロガノフ	Male
 * Monster General	汎用魔物将軍	Male
 
-171038	-	魔物界の平原を進み、	Advancing through the Monster Realm's plains,
-171039	+	ランス達がベズドグ山に到着する。	Rance and the others arrived at Mount Bezdog.
+171038	-		魔物界の平原を進み、	Advancing through the Monster Realm's plains,
+171039	+		ランス達がベズドグ山に到着する。	Rance and the others arrived at Mount Bezdog.
 
-171040	Rance	「うーむ、結構遠いところにいるな、ケイブリス」	「Hmm, Kayblis is pretty far in, huh.」
+171040	Rance	真剣	「うーむ、結構遠いところにいるな、ケイブリス」	「Hmm, Kayblis is pretty far in, huh.」
 
-171041	Kentou Kanami	「ランス、ここの小山を登ったら	「Rance, once we climb this small hill
-171042	+	　見えてくる筈だから頑張って」	　it should come into view, so hang in there.」
+171041	Kentou Kanami	基本	「ランス、ここの小山を登ったら	「Rance, once we climb this small hill
+171042	+		　見えてくる筈だから頑張って」	　it should come into view, so hang in there.」
 
-171043	Rance	「お、おお……これが……」	「O-Oh... This is...」
+171043	Rance	驚き	「お、おお……これが……」	「O-Oh... This is...」
 
-171044	-	ランス達の眼前に巨大な山が鎮座していた。	A massive mountain sat imposingly before Rance and the others.
+171044	-		ランス達の眼前に巨大な山が鎮座していた。	A massive mountain sat imposingly before Rance and the others.
 
-171045	Rance	「すごい……すごいが、それよりも……」	「Amazing... but more than that...」
+171045	Rance	真剣	「すごい……すごいが、それよりも……」	「Amazing... but more than that...」
 
-171046	Rance	「なんで魔物がこんなにいるんだ！？」	「Why the hell are there so many monsters!?」
+171046	Rance	怒り	「なんで魔物がこんなにいるんだ！？」	「Why the hell are there so many monsters!?」
 
-171047	-	山の麓には無数の魔軍が待ち構えていた。	Countless Monster Army forces waited at the mountain's base.
+171047	-		山の麓には無数の魔軍が待ち構えていた。	Countless Monster Army forces waited at the mountain's base.
 
-171048	-	数万はいる部隊を統括するのは	Commanding the tens of thousands strong unit was
-171049	+	魔物大元帥ストロガノフだった。	the Monster Grand Marshal Stroganoff.
+171048	-		数万はいる部隊を統括するのは	Commanding the tens of thousands strong unit was
+171049	+		魔物大元帥ストロガノフだった。	the Monster Grand Marshal Stroganoff.
 
-171050	Stroganoff	「…………」	「............」
+171050	Stroganoff	基本	「…………」	「............」
 
-171051	-	兵数には多大な差があるのを見るも、	Despite seeing the massive difference in troop numbers,
-171052	+	その表情は一瞬も緩むことはない。	his expression never softened for even a moment.
+171051	-		兵数には多大な差があるのを見るも、	Despite seeing the massive difference in troop numbers,
+171052	+		その表情は一瞬も緩むことはない。	his expression never softened for even a moment.
 
-171053	Monster General	「ストロガノフ様！	「Lord Stroganoff!
-171054	+	　人間共が現れました！」	　The humans have appeared!」
+171053	Monster General		「ストロガノフ様！	「Lord Stroganoff!
+171054	+		　人間共が現れました！」	　The humans have appeared!」
 
-171055	Monster General	「数は100名足らずと少ないようです」	「Their numbers seem to be less than 100.」
+171055	Monster General		「数は100名足らずと少ないようです」	「Their numbers seem to be less than 100.」
 
-171056	Stroganoff	「うむ」	「Yes.」
+171056	Stroganoff		「うむ」	「Yes.」
 
-171057	Stroganoff	「奴らと戦闘した者の話を聞き兵を集めたが、	「I gathered troops after hearing reports from those who fought them,
-171058	+	　奴ら、やはり狙いはベズドグ山だったか」	　so their target really was Mount Bezdog.」
+171057	Stroganoff		「奴らと戦闘した者の話を聞き兵を集めたが、	「I gathered troops after hearing reports from those who fought them,
+171058	+		　奴ら、やはり狙いはベズドグ山だったか」	　so their target really was Mount Bezdog.」
 
-171059	Monster General	「慌てて周囲の部隊を集めましたが、	「We hurriedly gathered nearby units,
-171060	+	　少し勇み足すぎましたかね……	　perhaps a bit too hasty...
-171061	+	　もう戻しますか？」	　Should we send them back?」
+171059	Monster General		「慌てて周囲の部隊を集めましたが、	「We hurriedly gathered nearby units,
+171060	+		　少し勇み足すぎましたかね……	　perhaps a bit too hasty...
+171061	+		　もう戻しますか？」	　Should we send them back?」
 
-171062	Stroganoff	「いや」	「No.」
+171062	Stroganoff		「いや」	「No.」
 
-171063	Stroganoff	「奴らはここを奇襲する為に集められた	「They are humanity's elite gathered to surprise attack here.
-171064	+	　人類側の精鋭、油断は禁物だ」	　We cannot let our guard down.」
+171063	Stroganoff		「奴らはここを奇襲する為に集められた	「They are humanity's elite gathered to surprise attack here.
+171064	+		　人類側の精鋭、油断は禁物だ」	　We cannot let our guard down.」
 
-171065	Monster General	「はっ！」	「Yes!」
+171065	Monster General		「はっ！」	「Yes!」
 
-171066	Stroganoff	「む、奴ら逃げることなく突撃してきたぞ」	「Hm, they're charging without running away.」
+171066	Stroganoff		「む、奴ら逃げることなく突撃してきたぞ」	「Hm, they're charging without running away.」
 
-171067	Monster General	「既に周囲はグルリと魔物兵で囲っています。	「The surroundings are already completely surrounded by monster soldiers.
-171068	+	　逃げるのは無理と悟りましたかね」	　They must have realized escape is impossible.」
+171067	Monster General		「既に周囲はグルリと魔物兵で囲っています。	「The surroundings are already completely surrounded by monster soldiers.
+171068	+		　逃げるのは無理と悟りましたかね」	　They must have realized escape is impossible.」
 
-171069	Stroganoff	「さて、な。	「Well then.
-171070	+	　なんにしろやることは変わらん」	　No matter what, what we do doesn't change.」
+171069	Stroganoff		「さて、な。	「Well then.
+171070	+		　なんにしろやることは変わらん」	　No matter what, what we do doesn't change.」
 
-171071	Stroganoff	「皆の者！　一切の油断なくこれを討て！」	「Everyone! Eliminate them without any carelessness!」
+171071	Stroganoff		「皆の者！　一切の油断なくこれを討て！」	「Everyone! Eliminate them without any carelessness!」
 
-171072	-	ランス達が魔軍に激突――	Rance and the others clashed violently with the Monster Army――
-171073	+	そして、すぐに魔物の群れに飲み込まれた。	and were quickly swallowed by the swarm of monsters.
+171072	-		ランス達が魔軍に激突――	Rance and the others clashed violently with the Monster Army――
+171073	+		そして、すぐに魔物の群れに飲み込まれた。	and were quickly swallowed by the swarm of monsters.
 
-171074	-	最初は多数を撃破することに成功したが、	At first they succeeded in defeating many,
-171075	+	その苛烈な勢いもすぐに弱まり……	but that fierce momentum quickly weakened...
+171074	-		最初は多数を撃破することに成功したが、	At first they succeeded in defeating many,
+171075	+		その苛烈な勢いもすぐに弱まり……	but that fierce momentum quickly weakened...
 
-171076	-	そして一時間が経った頃――	And after about an hour――
+171076	-		そして一時間が経った頃――	And after about an hour――

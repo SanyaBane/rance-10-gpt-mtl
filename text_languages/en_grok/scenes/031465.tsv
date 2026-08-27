@@ -6,106 +6,106 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-77292	-	総統司令部では、その場にいる面々が	In the Supreme Leader's Headquarters, everyone present
-77293	+	パットンの話を聞いていた。	was listening to Patton's story.
+77292	-		総統司令部では、その場にいる面々が	In the Supreme Leader's Headquarters, everyone present
+77293	+		パットンの話を聞いていた。	was listening to Patton's story.
 
-77294	Patton Helman	「――というわけだ」	「--And that's the situation.」
+77294	Patton Helman	基本	「――というわけだ」	「--And that's the situation.」
 
-77295	Miracle Tor	「なるほどな」	「I see.」
+77295	Miracle Tor		「なるほどな」	「I see.」
 
-77296	Crook Mofus	「聖魔教団の遺産で逃げる、	「Escaping using the legacy of the Holy Magic Sect,
-77297	+	　ですか……」	　huh...」
+77296	Crook Mofus		「聖魔教団の遺産で逃げる、	「Escaping using the legacy of the Holy Magic Sect,
+77297	+		　ですか……」	　huh...」
 
-77298	Miracle Tor	「ククク、面白いではないか。	「Kukuku, how amusing.
-77299	+	　余はそういう派手な手が好きだぞ」	　I like those flashy methods.」
+77298	Miracle Tor	嘲笑	「ククク、面白いではないか。	「Kukuku, how amusing.
+77299	+		　余はそういう派手な手が好きだぞ」	　I like those flashy methods.」
 
-77300	Crook Mofus	「しかし、一つ問題がある筈です」	「However, there should be one problem.」
+77300	Crook Mofus	基本	「しかし、一つ問題がある筈です」	「However, there should be one problem.」
 
-77301	Miracle Tor	「うむ、それは新しく作られたものではなく、	「Yes, it's not something newly made,
-77302	+	　過去の遺産の再利用、という点だな」	　but the reuse of a past legacy.」
+77301	Miracle Tor		「うむ、それは新しく作られたものではなく、	「Yes, it's not something newly made,
+77302	+		　過去の遺産の再利用、という点だな」	　but the reuse of a past legacy.」
 
-77303	Miracle Tor	「おそらく動かすには、	「To operate it,
-77304	+	　いくつかの条件がある筈……」	　there are probably several conditions...」
+77303	Miracle Tor		「おそらく動かすには、	「To operate it,
+77304	+		　いくつかの条件がある筈……」	　there are probably several conditions...」
 
-77305	Patton Helman	「そのために、シーラがここにいる」	「That's why Sheila is here.」
+77305	Patton Helman		「そのために、シーラがここにいる」	「That's why Sheila is here.」
 
-77306	Sheila Helman	「はい、私なら……	「Yes, according to my brother...
-77307	+	　それらを動かすことが出来るそうです」	　I should be able to operate them.」
+77306	Sheila Helman		「はい、私なら……	「Yes, according to my brother...
+77307	+		　それらを動かすことが出来るそうです」	　I should be able to operate them.」
 
-77308	Miracle Tor	「……ふむ。	「...Hmm.
-77309	+	　ふーん、そうか」	　I see.」
+77308	Miracle Tor	真剣	「……ふむ。	「...Hmm.
+77309	+		　ふーん、そうか」	　I see.」
 
-77310	Miracle Tor	「なるほどな」	「I see.」
+77310	Miracle Tor	目閉じ	「なるほどな」	「I see.」
 
-77311	Rance	「なるほどな……」	「I see...」
+77311	Rance	真剣	「なるほどな……」	「I see...」
 
-77312	Rance	「ではない！」	「No it isn't!」
+77312	Rance	怒り	「ではない！」	「No it isn't!」
 
-77313	Rance	「さっぱり分からんぞ！	「I don't get it at all!
-77314	+	　パットン、俺様にも分かるように言え！」	　Patton, explain it so I can understand!」
+77313	Rance		「さっぱり分からんぞ！	「I don't get it at all!
+77314	+		　パットン、俺様にも分かるように言え！」	　Patton, explain it so I can understand!」
 
-77315	Miracle Tor	「どうして先ほどの説明で分からないのか	「I struggle to understand why you couldn't follow the previous explanation,
-77316	+	　理解に苦しむが……	　but...
-77317	+	　法王、噛み砕いて説明してやれ」	　Pope, explain it in simpler terms.」
+77315	Miracle Tor	目閉じ	「どうして先ほどの説明で分からないのか	「I struggle to understand why you couldn't follow the previous explanation,
+77316	+		　理解に苦しむが……	　but...
+77317	+		　法王、噛み砕いて説明してやれ」	　Pope, explain it in simpler terms.」
 
-77318	Crook Mofus	「ランス、簡単に言えば、	「Rance, to put it simply,
-77319	+	　聖魔教団の遺産で、	　using the legacy of the Holy Magic Sect,
-77320	+	　ランス城を空に飛ばして逃げるそうです」	　we will make Rance Castle fly into the sky and escape.」
+77318	Crook Mofus	基本	「ランス、簡単に言えば、	「Rance, to put it simply,
+77319	+		　聖魔教団の遺産で、	　using the legacy of the Holy Magic Sect,
+77320	+		　ランス城を空に飛ばして逃げるそうです」	　we will make Rance Castle fly into the sky and escape.」
 
-77321	Rance	「なんと！？」	「What!?」
+77321	Rance	驚き	「なんと！？」	「What!?」
 
-77322	Rance	「この、ランス城を……飛ばすのか？」	「We're going to... fly this Rance Castle?」
+77322	Rance	真剣	「この、ランス城を……飛ばすのか？」	「We're going to... fly this Rance Castle?」
 
-77323	Sill Plain	「そんなこと出来るんですか？」	「Can we really do that?」
+77323	Sill Plain	慌て	「そんなこと出来るんですか？」	「Can we really do that?」
 
-77324	Patton Helman	「聖魔教団の遺産を再利用する為、	「To reuse the legacy of the Holy Magic Sect,
-77325	+	　俺らはここまで戦いに参加せず	　we didn't join the fighting until now
-77326	+	　世界各地を回り続けたんだ」	　and traveled around the world.」
+77324	Patton Helman	基本	「聖魔教団の遺産を再利用する為、	「To reuse the legacy of the Holy Magic Sect,
+77325	+		　俺らはここまで戦いに参加せず	　we didn't join the fighting until now
+77326	+		　世界各地を回り続けたんだ」	　and traveled around the world.」
 
-77327	Patton Helman	「出来る。	「We can do it.
-77328	+	　やってみせるぜ」	　I'll show you.」
+77327	Patton Helman		「出来る。	「We can do it.
+77328	+		　やってみせるぜ」	　I'll show you.」
 
-77329	Rance	「ランス城が……」	「Rance Castle...」
+77329	Rance	真剣	「ランス城が……」	「Rance Castle...」
 
-77330	Rance	「………………飛ぶ」	「............will fly.」
+77330	Rance		「………………飛ぶ」	「............will fly.」
 
-77331	Rance	「…………おお」	「............Ohh」
+77331	Rance	エロ顔	「…………おお」	「............Ohh」
 
-77332	Rance	「うむ、いいぞ、	「Yes, that's good,
-77333	+	　それはとてもかっこいいぞ。	　that's really cool.
-77334	+	　さすが俺様の城だ……」	　As expected of my castle...」
+77332	Rance		「うむ、いいぞ、	「Yes, that's good,
+77333	+		　それはとてもかっこいいぞ。	　that's really cool.
+77334	+		　さすが俺様の城だ……」	　As expected of my castle...」
 
-77335	Rance	「シーラ、本当に出来るんだな？」	「Sheila, you can really do it?」
+77335	Rance	基本	「シーラ、本当に出来るんだな？」	「Sheila, you can really do it?」
 
-77336	Sheila Helman	「は、はい、兄様が言うには……	「Y-Yes, according to my brother...
-77337	+	　出来る、らしいです」	　it should be possible.」
+77336	Sheila Helman	真剣	「は、はい、兄様が言うには……	「Y-Yes, according to my brother...
+77337	+		　出来る、らしいです」	　it should be possible.」
 
-77338	Patton Helman	「ただ、どうしても準備の為に時間が必要だ」	「However, we need time to prepare no matter what.」
+77338	Patton Helman		「ただ、どうしても準備の為に時間が必要だ」	「However, we need time to prepare no matter what.」
 
-77339	Rance	「どれくらいだ？」	「How long?」
+77339	Rance	基本	「どれくらいだ？」	「How long?」
 
-77340	Patton Helman	「三十分。	「Thirty minutes.
-77341	+	　その間、魔軍を城に近づけないで欲しい」	　During that time, keep the Monster Army away from the castle.」
+77340	Patton Helman	真剣	「三十分。	「Thirty minutes.
+77341	+		　その間、魔軍を城に近づけないで欲しい」	　During that time, keep the Monster Army away from the castle.」
 
-77342	Rance	「ふん、いいだろう。	「Hmph, fine.
-77343	+	　俺様がやってやる」	　I'll do it.」
+77342	Rance	基本	「ふん、いいだろう。	「Hmph, fine.
+77343	+		　俺様がやってやる」	　I'll do it.」
 
-77344	Rance	「ただーーーし！」	「However---!」
+77344	Rance		「ただーーーし！」	「However---!」
 
-77345	Rance	「城が本当に飛ばなかったら、	「If the castle doesn't actually fly,
-77346	+	　死ぬまでしばくぞ」	　I'll beat you until you die.」
+77345	Rance	真剣	「城が本当に飛ばなかったら、	「If the castle doesn't actually fly,
+77346	+		　死ぬまでしばくぞ」	　I'll beat you until you die.」
 
-77347	Patton Helman	「おう、そんときはドンと来いだ」	「Sure, bring it on then.」
+77347	Patton Helman	基本	「おう、そんときはドンと来いだ」	「Sure, bring it on then.」
 
-77348	Patton Helman	「あんたが俺を信じるなんざ	「You trusting me is already
-77349	+	　奇跡みたいなもんだからな。	　a miracle in itself.」
-77350	+	　できるだけ期待に応えよう」	　I'll try to live up to your expectations.」
+77348	Patton Helman		「あんたが俺を信じるなんざ	「You trusting me is already
+77349	+		　奇跡みたいなもんだからな。	　a miracle in itself.」
+77350	+		　できるだけ期待に応えよう」	　I'll try to live up to your expectations.」
 
-77351	Rance	「ばーか、俺様は俺様の奴隷のシーラを信じたんだ」	「Idiot, I believed in my slave Sheila.」
+77351	Rance		「ばーか、俺様は俺様の奴隷のシーラを信じたんだ」	「Idiot, I believed in my slave Sheila.」
 
-77352	Patton Helman	「カッカッカッ、まあそれでもいいさ」	「Kak kak kak, well that's fine too.」
+77352	Patton Helman	笑い	「カッカッカッ、まあそれでもいいさ」	「Kak kak kak, well that's fine too.」
 
-77353	Rance	「ケッ」	「Tch.」
+77353	Rance	だる顔	「ケッ」	「Tch.」
 
-77354	Rance	「よし、行くぞお前ら！	「Alright, let's go everyone!
-77355	+	　俺様の城に触れようなんて奴はブッ殺す！」	　Anyone who tries to touch my castle gets killed!」
+77354	Rance	基本	「よし、行くぞお前ら！	「Alright, let's go everyone!
+77355	+		　俺様の城に触れようなんて奴はブッ殺す！」	　Anyone who tries to touch my castle gets killed!」

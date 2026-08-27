@@ -6,197 +6,197 @@
 * Noir	ノワール	Female
 * Orime	折女	Female
 
-127216	Biscuitta Burns	「……はい？」	「...Yes?」
+127216	Biscuitta Burns	基本	「……はい？」	「...Yes?」
 
-127217	Biscuitta Burns	「……申し訳ありません。	「...I'm very sorry.
-127218	+	　もう一度仰って頂けますでしょうか？」	　Could you please repeat that?」
+127217	Biscuitta Burns		「……申し訳ありません。	「...I'm very sorry.
+127218	+		　もう一度仰って頂けますでしょうか？」	　Could you please repeat that?」
 
-127219	Nogiku	「野菊をビスケッタさんの弟子にして下さい！」	「Please make Nogiku your apprentice, Biscuitta-san!」
+127219	Nogiku		「野菊をビスケッタさんの弟子にして下さい！」	「Please make Nogiku your apprentice, Biscuitta-san!」
 
-127220	Biscuitta Burns	「…………」	「............」
+127220	Biscuitta Burns		「…………」	「............」
 
-127221	Biscuitta Burns	「申し訳ありません。	「I'm very sorry.
-127222	+	　お客様のご要望には出来るだけ応えたいのですが、	　I want to fulfill our guests' requests as much as possible, but
-127223	+	　残念ながら私は弟子は取っておりません」	　unfortunately I do not take apprentices.」
+127221	Biscuitta Burns	目閉じ	「申し訳ありません。	「I'm very sorry.
+127222	+		　お客様のご要望には出来るだけ応えたいのですが、	　I want to fulfill our guests' requests as much as possible, but
+127223	+		　残念ながら私は弟子は取っておりません」	　unfortunately I do not take apprentices.」
 
-127224	Biscuitta Burns	「どうか、ご容赦下さい」	「Please forgive me.」
+127224	Biscuitta Burns		「どうか、ご容赦下さい」	「Please forgive me.」
 
-127225	Nogiku	「うう、でも、その……」	「Uuu, but, um......」
+127225	Nogiku	基本	「うう、でも、その……」	「Uuu, but, um......」
 
-127226	Biscuitta Burns	「……もし、宜しければ、	「...If you don't mind,
-127227	+	　理由を伺っても」	　may I ask the reason?」
+127226	Biscuitta Burns		「……もし、宜しければ、	「...If you don't mind,
+127227	+		　理由を伺っても」	　may I ask the reason?」
 
-127228	Nogiku	「野菊……昔からお料理や洗濯の家事が駄目で……」	「Nogiku... has always been terrible at cooking and laundry...」
+127228	Nogiku	泣き	「野菊……昔からお料理や洗濯の家事が駄目で……」	「Nogiku... has always been terrible at cooking and laundry...」
 
-127229	Nogiku	「で、でも……」	「B-but......」
+127229	Nogiku		「で、でも……」	「B-but......」
 
-127230	Nogiku	「す、好きな人の為に……	「For the sake of the person I like...
-127231	+	　頑張りたいんです！」	　I want to work hard!」
+127230	Nogiku	基本	「す、好きな人の為に……	「For the sake of the person I like...
+127231	+		　頑張りたいんです！」	　I want to work hard!」
 
-127232	Biscuitta Burns	「…………」	「............」
+127232	Biscuitta Burns	レンズピカー	「…………」	「............」
 
-127233	-	ビスケッタの眼鏡が光った。	Biscuitta's glasses flashed.
+127233	-		ビスケッタの眼鏡が光った。	Biscuitta's glasses flashed.
 
-127234	Biscuitta Burns	「……分かりました」	「...Understood.」
+127234	Biscuitta Burns	目閉じ	「……分かりました」	「...Understood.」
 
-127235	Biscuitta Burns	「私で良ければ、	「If I'm acceptable,
-127236	+	　できる限りのことをさせて頂きます」	　I will do everything in my power.」
+127235	Biscuitta Burns	基本	「私で良ければ、	「If I'm acceptable,
+127236	+		　できる限りのことをさせて頂きます」	　I will do everything in my power.」
 
-127237	Nogiku	「わあっ、ありがとうございます！	「Waa, thank you so much!
-127238	+	　野菊、がんばります！」	　Nogiku will do her best!」
+127237	Nogiku		「わあっ、ありがとうございます！	「Waa, thank you so much!
+127238	+		　野菊、がんばります！」	　Nogiku will do her best!」
 
-127239	Nogiku	「あ、ただ、その……	「Ah, but um...
-127240	+	　野菊、本当に覚えが悪いので……」	　Nogiku has really bad memory...」
+127239	Nogiku		「あ、ただ、その……	「Ah, but um...
+127240	+		　野菊、本当に覚えが悪いので……」	　Nogiku has really bad memory...」
 
-127241	Nogiku	「もう手加減抜きで、	「No holding back at all,
-127242	+	　出来るだけ厳しくお願いします！」	　please be as strict as possible!」
+127241	Nogiku	笑顔	「もう手加減抜きで、	「No holding back at all,
+127242	+		　出来るだけ厳しくお願いします！」	　please be as strict as possible!」
 
-127243	Biscuitta Burns	「もう手加減抜きで、	「No holding back at all,
-127244	?	　出来るだけ、	　as much as possible,
-127245	+	厳しく	strictly
-127246	+	……ですか」	...you say.」
+127243	Biscuitta Burns	レンズピカー	「もう手加減抜きで、	「No holding back at all,
+127244	?		　出来るだけ、	　as much as possible,
+127245	+		厳しく	strictly
+127246	+		……ですか」	...you say.」
 
-127247	Nogiku	「はいっ！」	「Yes!」
+127247	Nogiku	基本	「はいっ！」	「Yes!」
 
-127248	Biscuitta Burns	「かしこまりました」	「Understood.」
+127248	Biscuitta Burns	目閉じ	「かしこまりました」	「Understood.」
 
-127249	Biscuitta Burns	「出来るだけ、厳しく、	「I will educate you
-127250	+	　教育させて頂きます」	　as strictly as possible.」
+127249	Biscuitta Burns	レンズピカー	「出来るだけ、厳しく、	「I will educate you
+127250	+		　教育させて頂きます」	　as strictly as possible.」
 
-127251	Rance	「ふわぁ〜、暇だなぁ〜。	「Fwaa~, I'm so bored~.
-127252	+	　ザリガニでも釣りに行こうかな」	　Maybe I'll go catch some crayfish.」
+127251	Rance	基本	「ふわぁ〜、暇だなぁ〜。	「Fwaa~, I'm so bored~.
+127252	+		　ザリガニでも釣りに行こうかな」	　Maybe I'll go catch some crayfish.」
 
-127253	Sill Plain	「そうですねぇ、	「That's true,
-127254	+	　今日はポカポカいい天気なので、	　today is nice and warm,
-127255	+	　それもいいですねぇ」	　that sounds good too.」
+127253	Sill Plain		「そうですねぇ、	「That's true,
+127254	+		　今日はポカポカいい天気なので、	　today is nice and warm,
+127255	+		　それもいいですねぇ」	　that sounds good too.」
 
-127256	-	　	　
-127257	+	　　＜ドゴォォォォン！＞	　　＜DOGOOOOOON!＞
+127256	-		　	　
+127257	+		　　＜ドゴォォォォン！＞	　　＜DOGOOOOOON!＞
 
-127258	Sill Plain	「きゃああああ！？」	「Kyaaaaah!?」
+127258	Sill Plain	慌て	「きゃああああ！？」	「Kyaaaaah!?」
 
-127259	Rance	「……なんだぁ？　敵襲か？」	「...What was that? Enemy attack?」
+127259	Rance	だる顔	「……なんだぁ？　敵襲か？」	「...What was that? Enemy attack?」
 
-127260	Biscuitta Burns	「いえ、違います。	「No, it's not that.
-127261	+	　お騒がせして申し訳ありません、御主人様」	　Sorry for the disturbance, Master.」
+127260	Biscuitta Burns	基本	「いえ、違います。	「No, it's not that.
+127261	+		　お騒がせして申し訳ありません、御主人様」	　Sorry for the disturbance, Master.」
 
-127262	Biscuitta Burns	「野菊様がランス城の	「Lady Nogiku fell while cleaning
-127263	+	　最上階の窓掃除の最中に落ちました」	　the windows on the top floor of Rance Castle.」
+127262	Biscuitta Burns		「野菊様がランス城の	「Lady Nogiku fell while cleaning
+127263	+		　最上階の窓掃除の最中に落ちました」	　the windows on the top floor of Rance Castle.」
 
-127264	Rance	「うお、ビスケッタさん！？	「Whoa, Biscuitta-san!?
-127265	+	　って、野菊が落ちたのか？」	　Wait, Nogiku fell?」
+127264	Rance		「うお、ビスケッタさん！？	「Whoa, Biscuitta-san!?
+127265	+		　って、野菊が落ちたのか？」	　Wait, Nogiku fell?」
 
-127266	Biscuitta Burns	「野菊様、大丈夫ですか？」	「Lady Nogiku, are you alright?」
+127266	Biscuitta Burns		「野菊様、大丈夫ですか？」	「Lady Nogiku, are you alright?」
 
-127267	Nogiku	「うきゅう……痛いですぅ……」	「Ukyuu... It hurts...」
+127267	Nogiku		「うきゅう……痛いですぅ……」	「Ukyuu... It hurts...」
 
-127268	Rance	「生きてるぞ……	「She's alive...
-127269	+	　なんと頑丈な……」	　What a tough girl...」
+127268	Rance	だる顔	「生きてるぞ……	「She's alive...
+127269	+		　なんと頑丈な……」	　What a tough girl...」
 
-127270	Noir	「なんの音かと思ったら……」	「I wondered what that sound was...
+127270	Noir	基本	「なんの音かと思ったら……」	「I wondered what that sound was...
 
-127271	Orime	「窓掃除って……	「Window cleaning...
-127272	+	　野菊は超絶ドジなんだから、	　Nogiku is an extreme klutz,
-127273	+	　絶対にやっちゃいけない奴だねー」	　that's definitely something she shouldn't doー」
+127271	Orime		「窓掃除って……	「Window cleaning...
+127272	+		　野菊は超絶ドジなんだから、	　Nogiku is an extreme klutz,
+127273	+		　絶対にやっちゃいけない奴だねー」	　that's definitely something she shouldn't doー」
 
-127274	Orime	「ま、頑丈だから	「Well, she's sturdy so
-127275	+	　その点だけは向いてるかもだけどー」	　maybe that's the one thing she's suited forー」
+127274	Orime		「ま、頑丈だから	「Well, she's sturdy so
+127275	+		　その点だけは向いてるかもだけどー」	　maybe that's the one thing she's suited forー」
 
-127276	Rance	「ドジっ子なのか」	「So she's a clumsy girl.」
+127276	Rance		「ドジっ子なのか」	「So she's a clumsy girl.」
 
-127277	Orime	「そーそー、ドジっ子」	「Yep yep, total klutz.」
+127277	Orime	笑顔	「そーそー、ドジっ子」	「Yep yep, total klutz.」
 
-127278	Noir	「もうひどいドジっ子」	「An incredibly clumsy one.」
+127278	Noir	呆れた	「もうひどいドジっ子」	「An incredibly clumsy one.」
 
-127279	Nogiku	「ドジっ子ドジっ子言わないでー！」	「Stop calling me a klutzー!」
+127279	Nogiku	ご立腹	「ドジっ子ドジっ子言わないでー！」	「Stop calling me a klutzー!」
 
-127280	Nogiku	「あっ、くらぁーん……」	「Ah, dizzy...」
+127280	Nogiku	泣き	「あっ、くらぁーん……」	「Ah, dizzy...」
 
-127281	Nogiku	「ばたん」	「Thud.」
+127281	Nogiku	基本	「ばたん」	「Thud.」
 
-127282	Rance	「あ、気絶した」	「Ah, she fainted.」
+127282	Rance		「あ、気絶した」	「Ah, she fainted.」
 
-127283	Biscuitta Burns	「このまま診療所へ連れて行きます」	「I'll take her to the infirmary right away.」
+127283	Biscuitta Burns		「このまま診療所へ連れて行きます」	「I'll take her to the infirmary right away.」
 
-127284	Rance	「それはいいが、	「That's fine, but
-127285	+	　なんで野菊が窓掃除なんて……」	　why was Nogiku cleaning windows...?」
+127284	Rance		「それはいいが、	「That's fine, but
+127285	+		　なんで野菊が窓掃除なんて……」	　why was Nogiku cleaning windows...?」
 
-127286	Biscuitta Burns	「家事の仕方を教えて欲しいと……」	「She asked me to teach her how to do housework...」
+127286	Biscuitta Burns		「家事の仕方を教えて欲しいと……」	「She asked me to teach her how to do housework...」
 
-127287	Biscuitta Burns	「ご安心下さい、御主人様」	「Please rest assured, Master.」
+127287	Biscuitta Burns		「ご安心下さい、御主人様」	「Please rest assured, Master.」
 
-127288	Biscuitta Burns	「メイド、ビスケッタ・ベルンズとして、	「As the maid Biscuitta Belns,
-127289	+	　必ずや、彼女を完璧なメイドにしてみせます」	　I will definitely turn her into a perfect maid.」
+127288	Biscuitta Burns	レンズピカー	「メイド、ビスケッタ・ベルンズとして、	「As the maid Biscuitta Belns,
+127289	+		　必ずや、彼女を完璧なメイドにしてみせます」	　I will definitely turn her into a perfect maid.」
 
-127290	Nogiku	「ひっ……」	「Hii...」
+127290	Nogiku	基本	「ひっ……」	「Hii...」
 
-127291	Rance	「ビスケッタさんが燃えてる……	「Biscuitta is fired up...
-127292	+	　こんな姿、初めて見たかも……」	　I might be seeing this side of her for the first time...」
+127291	Rance	だる顔	「ビスケッタさんが燃えてる……	「Biscuitta is fired up...
+127292	+		　こんな姿、初めて見たかも……」	　I might be seeing this side of her for the first time...」
 
-127293	Nogiku	「あ、あ、ランスさん！	「A-ah, Rance-san!
-127294	+	　助けて！　野菊、教え殺されちゃう！」	　Help! Nogiku is going to be taught to death!」
+127293	Nogiku	泣き	「あ、あ、ランスさん！	「A-ah, Rance-san!
+127294	+		　助けて！　野菊、教え殺されちゃう！」	　Help! Nogiku is going to be taught to death!」
 
-127295	Nogiku	「その……メイドの仕事を、	「Um... I asked her to teach me maid work
-127296	+	　スパルタ教育で教えて下さいって	　with Spartan training and
-127297	+	　お願いしたら、こんなことに……」	　this is what happened...」
+127295	Nogiku		「その……メイドの仕事を、	「Um... I asked her to teach me maid work
+127296	+		　スパルタ教育で教えて下さいって	　with Spartan training and
+127297	+		　お願いしたら、こんなことに……」	　this is what happened...」
 
-127298	Rance	「げっ、ビスケッタさんにそんなことを！？」	「Geh, you asked Biscuitta for that!?」
+127298	Rance	驚き	「げっ、ビスケッタさんにそんなことを！？」	「Geh, you asked Biscuitta for that!?」
 
-127299	Rance	「……そりゃこうなるわ」	「...Of course it turned out like this.」
+127299	Rance	だる顔	「……そりゃこうなるわ」	「...Of course it turned out like this.」
 
-127300	Nogiku	「ええっ、そんな反応ですか！？」	「Ehh, is that your reaction!?」
+127300	Nogiku	泣き	「ええっ、そんな反応ですか！？」	「Ehh, is that your reaction!?」
 
-127301	Nogiku	「の、野菊、殺されちゃうんじゃ……」	「N-Nogiku is going to get killed...」
+127301	Nogiku		「の、野菊、殺されちゃうんじゃ……」	「N-Nogiku is going to get killed...」
 
-127302	Rance	「いや、大丈夫。	「No, it'll be fine.
-127303	+	　ビスケッタさんはその手の加減は完璧。	　Biscuitta is perfect at controlling that kind of thing.
-127304	+	　見誤ったりしない」	　She won't make mistakes.」
+127302	Rance	真剣	「いや、大丈夫。	「No, it'll be fine.
+127303	+		　ビスケッタさんはその手の加減は完璧。	　Biscuitta is perfect at controlling that kind of thing.
+127304	+		　見誤ったりしない」	　She won't make mistakes.」
 
-127305	Rance	「だが……完璧だから……	「But... because she's perfect...
-127306	+	　こう、死なない範囲で……」	　she'll do it right up to the edge of death...」
+127305	Rance		「だが……完璧だから……	「But... because she's perfect...
+127306	+		　こう、死なない範囲で……」	　she'll do it right up to the edge of death...」
 
-127307	Rance	「……ちょっと死ぬ？」	「...She'll die a little?」
+127307	Rance	だる顔	「……ちょっと死ぬ？」	「...She'll die a little?」
 
-127308	Nogiku	「いやーーーーっ！」	「Noooooー!」
+127308	Nogiku	泣き	「いやーーーーっ！」	「Noooooー!」
 
-127309	Biscuitta Burns	「野菊様、まだお仕事は残っております」	「Lady Nogiku, there is still work remaining.」
+127309	Biscuitta Burns	基本	「野菊様、まだお仕事は残っております」	「Lady Nogiku, there is still work remaining.」
 
-127310	Nogiku	「ひっ！」	「Hii!」
+127310	Nogiku	泣き	「ひっ！」	「Hii!」
 
-127311	Nogiku	「あ、あのぉ、野菊、	「U-um, Nogiku,
-127312	+	　別にメイドになりたいわけじゃ……」	　didn't actually want to become a maid...」
+127311	Nogiku		「あ、あのぉ、野菊、	「U-um, Nogiku,
+127312	+		　別にメイドになりたいわけじゃ……」	　didn't actually want to become a maid...」
 
-127313	Biscuitta Burns	「では、運びます」	「Then I will carry you.」
+127313	Biscuitta Burns	基本	「では、運びます」	「Then I will carry you.」
 
-127314	Nogiku	「ああっ、助けてー！」	「Aahh, help meー!」
+127314	Nogiku	泣き	「ああっ、助けてー！」	「Aahh, help meー!」
 
-127315	-	　	　
-127316	+	　　＜ぴーぽーぴーぽー……＞	　　＜Piipoo piipoo...＞
+127315	-		　	　
+127316	+		　　＜ぴーぽーぴーぽー……＞	　　＜Piipoo piipoo...＞
 
-127317	Sill Plain	「……いいのかな」	「...Is this okay?」
+127317	Sill Plain	苦笑	「……いいのかな」	「...Is this okay?」
 
-127318	-	後日――	A few days later――
+127318	-		後日――	A few days later――
 
-127319	Rance	「よう、ビスケッタさん。	「Yo, Biscuitta-san.
-127320	+	　その後野菊はどうだ？」	　How's Nogiku doing after that?」
+127319	Rance	基本	「よう、ビスケッタさん。	「Yo, Biscuitta-san.
+127320	+		　その後野菊はどうだ？」	　How's Nogiku doing after that?」
 
-127321	Biscuitta Burns	「申し訳ありません。	「I'm sorry.
-127322	+	　教育は遅々として進んでおりません。	　Her education is progressing very slowly.
-127323	+	　迂闊なところがどうしても……」	　Her carelessness is just too much...」
+127321	Biscuitta Burns		「申し訳ありません。	「I'm sorry.
+127322	+		　教育は遅々として進んでおりません。	　Her education is progressing very slowly.
+127323	+		　迂闊なところがどうしても……」	　Her carelessness is just too much...」
 
-127324	Rance	「なんと……	「Wow...
-127325	+	　ビスケッタさんの教育でも、	　Even with Biscuitta's teaching,
-127326	+	　ドジが直らんのか……」	　her clumsiness won't be fixed...」
+127324	Rance	真剣	「なんと……	「Wow...
+127325	+		　ビスケッタさんの教育でも、	　Even with Biscuitta's teaching,
+127326	+		　ドジが直らんのか……」	　her clumsiness won't be fixed...」
 
-127327	Rance	「それは……頑固なドジっ子だな」	「That's... one stubborn klutz.」
+127327	Rance	だる顔	「それは……頑固なドジっ子だな」	「That's... one stubborn klutz.」
 
-127328	Nogiku	「ドジっ子って言わないで下さいー！」	「Stop calling me a klutzー!」
+127328	Nogiku	ご立腹	「ドジっ子って言わないで下さいー！」	「Stop calling me a klutzー!」
 
-127329	Biscuitta Burns	「野菊様、手が止まっております」	「Lady Nogiku, your hands have stopped.」
+127329	Biscuitta Burns	基本	「野菊様、手が止まっております」	「Lady Nogiku, your hands have stopped.」
 
-127330	Nogiku	「さ、サーイエッサーでありますー！」	「Y-Yes sir!」
+127330	Nogiku	泣き	「さ、サーイエッサーでありますー！」	「Y-Yes sir!」
 
-127331	Nogiku	「うわーーーん！」	「Uwaaaan!」
+127331	Nogiku		「うわーーーん！」	「Uwaaaan!」
 
-127332	-	野菊は日々、ビスケッタに	Day after day, Nogiku received
-127333	+	メイドとしての教育を受けていた。	maid training from Biscuitta.
+127332	-		野菊は日々、ビスケッタに	Day after day, Nogiku received
+127333	+		メイドとしての教育を受けていた。	maid training from Biscuitta.

@@ -4,177 +4,177 @@
 * Nagata-kun	長田君２	Male
 * Arms Arc	アームズ２	Female
 
-237408	-	朝になり、あなたは	Morning came, and you
-237409	+	ちゅんちゅんという鳥のさえずりで目を覚ます。	woke up to the chirping of birds.
+237408	-		朝になり、あなたは	Morning came, and you
+237409	+		ちゅんちゅんという鳥のさえずりで目を覚ます。	woke up to the chirping of birds.
 
-237410	-	目覚めの調子は良い。	You woke up feeling great.
-237411	+	たっぷり寝た後のように体も頭もスッキリしていた。	Your body and mind felt completely refreshed as if you'd slept deeply.
+237410	-		目覚めの調子は良い。	You woke up feeling great.
+237411	+		たっぷり寝た後のように体も頭もスッキリしていた。	Your body and mind felt completely refreshed as if you'd slept deeply.
 
-237412	-	開け放たれた窓からそよそよと	A pleasant breeze blew in
-237413	+	気持ちのいい風が吹き込んでいた。	through the open window.
+237412	-		開け放たれた窓からそよそよと	A pleasant breeze blew in
+237413	+		気持ちのいい風が吹き込んでいた。	through the open window.
 
-237414	Reset Kalar	「おはよ、＜エール＞ちゃん」	「Good morning, ＜エール＞-chan.」
+237414	Reset Kalar	基本	「おはよ、＜エール＞ちゃん」	「Good morning, ＜エール＞-chan.」
 
-237415	Reset Kalar	「体調はどうかな？　順調？　絶好調？」	「How's your condition? Good? Perfect?」
+237415	Reset Kalar		「体調はどうかな？　順調？　絶好調？」	「How's your condition? Good? Perfect?」
 
-237416	Reset Kalar	「……そっか」	「...I see.」
+237416	Reset Kalar		「……そっか」	「...I see.」
 
-237417	Reset Kalar	「よーし、朝ご飯食べたら行こっか」	「Alright, let's go after breakfast.」
+237417	Reset Kalar	笑顔	「よーし、朝ご飯食べたら行こっか」	「Alright, let's go after breakfast.」
 
-237418	-	今日はアームズとの試合の日だった。	Today was the day of the match against Arms.
+237418	-		今日はアームズとの試合の日だった。	Today was the day of the match against Arms.
 
-237419	Shuri Seihajuu Nagasaki	「おはようございます、＜エール＞さん」	「Good morning, ＜エール＞-san.」
+237419	Shuri Seihajuu Nagasaki	困り	「おはようございます、＜エール＞さん」	「Good morning, ＜エール＞-san.」
 
-237420	Shuri Seihajuu Nagasaki	「はあ……今日は残念でしたね……」	「Haa... It's unfortunate today...」
-237421	+	「なにって……	「What do you mean...
-237422	+	　相手は、あの、アームズ選手ですよ？」	　Your opponent is that Arms player, you know?」
+237420	Shuri Seihajuu Nagasaki		「はあ……今日は残念でしたね……」	「Haa... It's unfortunate today...」
+237421	+	基本	「なにって……	「What do you mean...
+237422	+		　相手は、あの、アームズ選手ですよ？」	　Your opponent is that Arms player, you know?」
 
-237423	Shuri Seihajuu Nagasaki	「私、こう見えても＜エール＞さんのこと、	「Even though it may not look like it, I was rooting for you, ＜エール＞-san,
-237424	+	　応援していたんですが……こればかりは……」	　but this time...」
+237423	Shuri Seihajuu Nagasaki		「私、こう見えても＜エール＞さんのこと、	「Even though it may not look like it, I was rooting for you, ＜エール＞-san,
+237424	+		　応援していたんですが……こればかりは……」	　but this time...」
 
-237425	Shuri Seihajuu Nagasaki	「そうですよねぇ……」	「Yeah...」
+237425	Shuri Seihajuu Nagasaki	困り	「そうですよねぇ……」	「Yeah...」
 
-237426	Shuri Seihajuu Nagasaki	「よりにもよって相手があのアームズさんなんて、	「Of all people, your opponent is that Arms-san,
-237427	+	　もう本当に残念です……」	　it's truly unfortunate...」
+237426	Shuri Seihajuu Nagasaki		「よりにもよって相手があのアームズさんなんて、	「Of all people, your opponent is that Arms-san,
+237427	+		　もう本当に残念です……」	　it's truly unfortunate...」
 
-237428	Shuri Seihajuu Nagasaki	「まあ、でもいい思い出が出来たと思えば……」	「Well, at least you'll have good memories...」
+237428	Shuri Seihajuu Nagasaki	基本	「まあ、でもいい思い出が出来たと思えば……」	「Well, at least you'll have good memories...」
 
-237429	Nagata-kun	「って、ちょっと待った待ったーーーーッ！	「Wait wait waaaait-----!
-237430	+	　なんでもう＜エール＞が負けんの前提なんすか！」	　Why are you already assuming ＜エール＞ is going to lose!?」
+237429	Nagata-kun		「って、ちょっと待った待ったーーーーッ！	「Wait wait waaaait-----!
+237430	+		　なんでもう＜エール＞が負けんの前提なんすか！」	　Why are you already assuming ＜エール＞ is going to lose!?」
 
-237431	Shuri Seihajuu Nagasaki	「だってー、相手はあのアームズさんですよ？」	「Because your opponent is that Arms player?」
+237431	Shuri Seihajuu Nagasaki		「だってー、相手はあのアームズさんですよ？」	「Because your opponent is that Arms player?」
 
-237432	Shuri Seihajuu Nagasaki	「押しも押されもせぬ、	「She's the undisputed
-237433	+	　今大会優勝候補の筆頭なんですから」	　top favorite to win the tournament.」
+237432	Shuri Seihajuu Nagasaki		「押しも押されもせぬ、	「She's the undisputed
+237433	+		　今大会優勝候補の筆頭なんですから」	　top favorite to win the tournament.」
 
-237434	Shuri Seihajuu Nagasaki	「まあでも確かに、	「Well that's true, but
-237435	+	　だからって諦めるのは良くないですよね。	　giving up just because of that isn't good.
-237436	+	　頑張れば万に一つ、億に一つは勝ち目も……」	　If you try hard, there's a one in ten thousand, one in a billion chance...」
+237434	Shuri Seihajuu Nagasaki	笑顔	「まあでも確かに、	「Well that's true, but
+237435	+		　だからって諦めるのは良くないですよね。	　giving up just because of that isn't good.
+237436	+		　頑張れば万に一つ、億に一つは勝ち目も……」	　If you try hard, there's a one in ten thousand, one in a billion chance...」
 
-237437	Nagata-kun	「じ〜〜〜……」	「Staaaaare......」
+237437	Nagata-kun	基本	「じ〜〜〜……」	「Staaaaare......」
 
-237438	Shuri Seihajuu Nagasaki	「ま、まあとにかく頑張って下さいね。	「A-anyway, please do your best.
-237439	+	　私は引き続き応援させて頂きますから。	　I'll keep cheering for you.
-237440	+	　あは、あははは〜……」	　Aha, ahahah~...」
+237438	Shuri Seihajuu Nagasaki	困り	「ま、まあとにかく頑張って下さいね。	「A-anyway, please do your best.
+237439	+		　私は引き続き応援させて頂きますから。	　I'll keep cheering for you.
+237440	+		　あは、あははは〜……」	　Aha, ahahah~...」
 
-237441	-	長田君に睨まれているのに気づき、	Noticing Nagata-kun glaring at her,
-237442	+	シュリはそそくそと行ってしまった。	Shuri quickly left.
+237441	-		長田君に睨まれているのに気づき、	Noticing Nagata-kun glaring at her,
+237442	+		シュリはそそくそと行ってしまった。	Shuri quickly left.
 
-237443	Nagata-kun	「くきーっ！　もう、なんだよなんだよ！」	「Kukii! Jeez, what the heck!」
+237443	Nagata-kun	基本	「くきーっ！　もう、なんだよなんだよ！」	「Kukii! Jeez, what the heck!」
 
-237444	Nagata-kun	「よーーっし！	「Alright!
-237445	+	　こうなったら絶対勝ってやろうぜ！	　Now we've gotta win for sure!
-237446	+	　いいな、＜エール＞！」	　Got it, ＜エール＞!」
+237444	Nagata-kun		「よーーっし！	「Alright!
+237445	+		　こうなったら絶対勝ってやろうぜ！	　Now we've gotta win for sure!
+237446	+		　いいな、＜エール＞！」	　Got it, ＜エール＞!」
 
-237447	Reset Kalar	「相手はアームズさんだから胸を借りるつもりで……	「Since your opponent is Arms-san, think of it as borrowing her strength...
-237448	+	　負けたって恥ずかしくないんだから、	　Even if you lose it's nothing to be ashamed of,
-237449	+	　一生懸命頑張ってきてね」	　so just do your best.」
+237447	Reset Kalar		「相手はアームズさんだから胸を借りるつもりで……	「Since your opponent is Arms-san, think of it as borrowing her strength...
+237448	+		　負けたって恥ずかしくないんだから、	　Even if you lose it's nothing to be ashamed of,
+237449	+		　一生懸命頑張ってきてね」	　so just do your best.」
 
-237450	Nagata-kun	「んもー、なに甘いこと言ってんすか。	「Man, what are you saying so sweetly.
-237451	+	　男なら！　ズガンと！　狙うは勝利だけっすよ！」	　If you're a man! Go for it! Aim only for victory!」
+237450	Nagata-kun		「んもー、なに甘いこと言ってんすか。	「Man, what are you saying so sweetly.
+237451	+		　男なら！　ズガンと！　狙うは勝利だけっすよ！」	　If you're a man! Go for it! Aim only for victory!」
 
 > female
-237452	Reset Kalar	「＜エール＞ちゃん、女の子だよぉ」	「＜エール＞-chan is a girl.」
+237452	Reset Kalar	たははー	「＜エール＞ちゃん、女の子だよぉ」	「＜エール＞-chan is a girl.」
 
 > end
-237453	Nagata-kun	「絶対、勝てよな！　＜エール＞！」	「You have to win! ＜エール＞!」
+237453	Nagata-kun	基本	「絶対、勝てよな！　＜エール＞！」	「You have to win! ＜エール＞!」
 
-237454	-	長田君はあなたよりも燃えていた。	Nagata-kun was even more fired up than you.
+237454	-		長田君はあなたよりも燃えていた。	Nagata-kun was even more fired up than you.
 
-237455	?	「＜エール＞選手！　入場を願います！」	「＜エール＞ player! Please enter the arena!」
+237455	?		「＜エール＞選手！　入場を願います！」	「＜エール＞ player! Please enter the arena!」
 
-237456	-	あなたは呼ばれて、椅子から立ち上がった。	You stood up from your chair when called.
+237456	-		あなたは呼ばれて、椅子から立ち上がった。	You stood up from your chair when called.
 
-237457	Nagata-kun	「よっしゃー！　やったれ、＜エール＞！」	「Alright! Go for it, ＜エール＞!」
+237457	Nagata-kun		「よっしゃー！　やったれ、＜エール＞！」	「Alright! Go for it, ＜エール＞!」
 
-237458	Reset Kalar	「頑張ってね」	「Do your best.」
+237458	Reset Kalar	笑顔	「頑張ってね」	「Do your best.」
 
-237459	-	　	　
-237460	+	　　＜わあああああああああ！＞	　　＜Waaaaaaaah!＞
+237459	-		　	　
+237460	+		　　＜わあああああああああ！＞	　　＜Waaaaaaaah!＞
 
-237461	-	あなたが試合場へ訪れると、	When you entered the arena,
-237462	+	いつものように歓声が出迎えてくれた。	the usual cheers welcomed you.
+237461	-		あなたが試合場へ訪れると、	When you entered the arena,
+237462	+		いつものように歓声が出迎えてくれた。	the usual cheers welcomed you.
 
-237463	Shuri Seihajuu Nagasaki	『龍の方角より現れしは、	『From the dragon direction appears
-237464	+	　法王と魔王の血を引く天才！	　the genius bearing the blood of the Pope and Demon King!
-237465	+	　＜エール＞・モフス選手！』	　＜エール＞ Mofus player!』
+237463	Shuri Seihajuu Nagasaki	基本	『龍の方角より現れしは、	『From the dragon direction appears
+237464	+		　法王と魔王の血を引く天才！	　the genius bearing the blood of the Pope and Demon King!
+237465	+		　＜エール＞・モフス選手！』	　＜エール＞ Mofus player!』
 
-237466	Shuri Seihajuu Nagasaki	『続いて……	『Next...
-237467	+	　皆様お待ちかねでしょう……』	　The one you've all been waiting for...』
+237466	Shuri Seihajuu Nagasaki		『続いて……	『Next...
+237467	+		　皆様お待ちかねでしょう……』	　The one you've all been waiting for...』
 
-237468	Shuri Seihajuu Nagasaki	『鬼の方角より現れました！	『From the oni direction appears!
-237469	+	　取った武具は数知れず、古今無双のレアハンター！	　The unparalleled rare hunter who has obtained countless weapons!
-237470	+	　今日は一体どんな試合を見せてくれるのか！？』	　What kind of match will she show us today!?』
+237468	Shuri Seihajuu Nagasaki		『鬼の方角より現れました！	『From the oni direction appears!
+237469	+		　取った武具は数知れず、古今無双のレアハンター！	　The unparalleled rare hunter who has obtained countless weapons!
+237470	+		　今日は一体どんな試合を見せてくれるのか！？』	　What kind of match will she show us today!?』
 
-237471	Shuri Seihajuu Nagasaki	『アームズ・アーク選手の入場でーーっす！』	『Arms Arc player's entrance-----!』
+237471	Shuri Seihajuu Nagasaki		『アームズ・アーク選手の入場でーーっす！』	『Arms Arc player's entrance-----!』
 
-237472	-	　	　
-237473	+	　　＜わああああああああああああああ！！！！＞	　　＜Waaaaaaaaaaaaaaaah!!!!＞
+237472	-		　	　
+237473	+		　　＜わああああああああああああああ！！！！＞	　　＜Waaaaaaaaaaaaaaaah!!!!＞
 
-237474	-	あなたが現れた時よりも、	Even louder than when you appeared,
-237475	+	更に大きな歓声が響き渡り、	a massive cheer rang out,
-237476	+	コロシアム全体が揺れた。	shaking the entire coliseum.
+237474	-		あなたが現れた時よりも、	Even louder than when you appeared,
+237475	+		更に大きな歓声が響き渡り、	a massive cheer rang out,
+237476	+		コロシアム全体が揺れた。	shaking the entire coliseum.
 
-237477	Arms Arc	「…………」	「............」
+237477	Arms Arc		「…………」	「............」
 
-237478	Arms Arc	「＜エール＞」	「＜エール＞.」
+237478	Arms Arc		「＜エール＞」	「＜エール＞.」
 
-237479	-	つかつかとアームズがあなたに近づいてきた。	Arms walked straight up to you.
+237479	-		つかつかとアームズがあなたに近づいてきた。	Arms walked straight up to you.
 
-237480	Arms Arc	「今日はいい試合にしよう」	「Let's have a good match today.」
+237480	Arms Arc		「今日はいい試合にしよう」	「Let's have a good match today.」
 
-237481	Arms Arc	「それと、昨日も言ったが、	「Also, like I said yesterday,
-237482	+	　全力でやってきてくれよ」	　give it everything you've got.」
+237481	Arms Arc		「それと、昨日も言ったが、	「Also, like I said yesterday,
+237482	+		　全力でやってきてくれよ」	　give it everything you've got.」
 
-237483	Arms Arc	「ふっ」	「Heh.」
+237483	Arms Arc	ふっ	「ふっ」	「Heh.」
 
-237484	Shuri Seihajuu Nagasaki	『ここでアームズ選手、	『Here Arms player
-237485	+	　＜エール＞選手と握手を交わし、	　shakes hands with ＜エール＞ player,
-237486	+	　元の場所へ戻っていきます！』	　and returns to her position!』
+237484	Shuri Seihajuu Nagasaki	基本	『ここでアームズ選手、	『Here Arms player
+237485	+		　＜エール＞選手と握手を交わし、	　shakes hands with ＜エール＞ player,
+237486	+		　元の場所へ戻っていきます！』	　and returns to her position!』
 
-237487	-	アームズが所定の位置に戻る。	Arms returned to her designated spot.
-237488	+	彼女の目はあなただけを見つめていた。	Her eyes were fixed only on you.
+237487	-		アームズが所定の位置に戻る。	Arms returned to her designated spot.
+237488	+		彼女の目はあなただけを見つめていた。	Her eyes were fixed only on you.
 
-237489	Arms Arc~	（本当に……）	（Really...）
+237489	Arms Arc~		（本当に……）	（Really...）
 
-237490	Arms Arc~	（本当に強くなったな……）	（You've really become strong...）
+237490	Arms Arc~		（本当に強くなったな……）	（You've really become strong...）
 
-237491	Arms Arc~	（最初に会った頃は弱っちい無謀な子としか	（When I first met you, I only saw you as a weak and reckless kid.）
-237492	+	　思えなかった）	
+237491	Arms Arc~		（最初に会った頃は弱っちい無謀な子としか	（When I first met you, I only saw you as a weak and reckless kid.）
+237492	+		　思えなかった）	
 
-237493	Arms Arc~	（強さもそこそこ、装備も貧弱、仲間はハニーと……	（Your strength was mediocre, equipment poor, companions were just Hannies...）
-237494	+	　それで魔王に挑むというのだから……	　And you were challenging the Demon King...）
-237495	+	　今考えてみても笑ってしまうほど危うい……）	　Looking back now, it was laughably dangerous...）
+237493	Arms Arc~		（強さもそこそこ、装備も貧弱、仲間はハニーと……	（Your strength was mediocre, equipment poor, companions were just Hannies...）
+237494	+		　それで魔王に挑むというのだから……	　And you were challenging the Demon King...）
+237495	+		　今考えてみても笑ってしまうほど危うい……）	　Looking back now, it was laughably dangerous...）
 
-237496	Arms Arc~	（だから、ガラにもなく、	（So, unlike me,)
-237497	+	　自分が手伝ってやらねば、と……	　I thought I had to help you...）
-237498	+	　まだまだひよっこなのだと、そう思った）	　You were still just a fledgling.）
+237496	Arms Arc~		（だから、ガラにもなく、	（So, unlike me,)
+237497	+		　自分が手伝ってやらねば、と……	　I thought I had to help you...）
+237498	+		　まだまだひよっこなのだと、そう思った）	　You were still just a fledgling.）
 
-237499	Arms Arc~	（それが今やどうだ）	（And now look at you.）
+237499	Arms Arc~		（それが今やどうだ）	（And now look at you.）
 
-237500	Arms Arc~	（わずか短期間の間に、	（In such a short time,）
-237501	+	　見違えるほどに強くなった）	　you've become unrecognizably strong.）
+237500	Arms Arc~		（わずか短期間の間に、	（In such a short time,）
+237501	+		　見違えるほどに強くなった）	　you've become unrecognizably strong.）
 
-237502	Arms Arc~	（私が苦労して手に入れた日光に至っては、	（Even Nikkou, which I struggled so hard to obtain,）
-237503	+	　本当になんなく手に入れて見せた）	　you obtained it effortlessly.）
+237502	Arms Arc~		（私が苦労して手に入れた日光に至っては、	（Even Nikkou, which I struggled so hard to obtain,）
+237503	+		　本当になんなく手に入れて見せた）	　you obtained it effortlessly.）
 
-237504	Arms Arc~	（まったくもって、本当に情けない話だが……）	（It's truly pathetic but...）
+237504	Arms Arc~		（まったくもって、本当に情けない話だが……）	（It's truly pathetic but...）
 
-237505	Arms Arc~	（私は嫉妬している）	（I'm jealous.）
+237505	Arms Arc~	ふっ	（私は嫉妬している）	（I'm jealous.）
 
-237506	Arms Arc~	（確かに努力したのだろう。	（You probably worked hard.）
-237507	+	　危険な試練を越えてきたのも想像に難くない）	　It's easy to imagine the dangerous trials you overcame.）
+237506	Arms Arc~		（確かに努力したのだろう。	（You probably worked hard.）
+237507	+		　危険な試練を越えてきたのも想像に難くない）	　It's easy to imagine the dangerous trials you overcame.）
 
-237508	Arms Arc~	（しかし、努力というのなら、	（But if we're talking effort,）
-237509	+	　私は＜エール＞の十倍以上の冒険を続けた）	　I've had more than ten times the adventures you have.）
+237508	Arms Arc~		（しかし、努力というのなら、	（But if we're talking effort,）
+237509	+		　私は＜エール＞の十倍以上の冒険を続けた）	　I've had more than ten times the adventures you have.）
 
-237510	Arms Arc~	（才能にあれこれ言うほど子供ではないが……	（I'm not childish enough to complain about talent but...）
-237511	+	　しかし負けるわけにはいかない）	　I can't afford to lose.）
+237510	Arms Arc~		（才能にあれこれ言うほど子供ではないが……	（I'm not childish enough to complain about talent but...）
+237511	+		　しかし負けるわけにはいかない）	　I can't afford to lose.）
 
-237512	Arms Arc	「＜エール＞……」	「＜エール＞...」
+237512	Arms Arc	基本	「＜エール＞……」	「＜エール＞...」
 
-237513	Arms Arc	「私は負けるのが大嫌いでな……」	「I really hate losing...」
+237513	Arms Arc		「私は負けるのが大嫌いでな……」	「I really hate losing...」
 
-237514	Arms Arc	「大人げなく本気で戦うぞ！」	「I'll fight you seriously, even if it's childish!」
+237514	Arms Arc		「大人げなく本気で戦うぞ！」	「I'll fight you seriously, even if it's childish!」
 
-237515	Shuri Seihajuu Nagasaki	『試合開始ですーーーーッ！』	『The match begins-----!』
+237515	Shuri Seihajuu Nagasaki		『試合開始ですーーーーッ！』	『The match begins-----!』

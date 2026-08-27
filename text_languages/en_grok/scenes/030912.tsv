@@ -3,79 +3,79 @@
 * Feliss	フェリス	Female
 * Sill Plain	シィル	Female
 
-38917	Rance	「……………………」	「........................」
+38917	Rance	真剣	「……………………」	「........................」
 
-38918	-	ランスは一人、ぼんやりと釣り糸を垂れていた。	Rance sat alone, absentmindedly dangling a fishing line.
+38918	-		ランスは一人、ぼんやりと釣り糸を垂れていた。	Rance sat alone, absentmindedly dangling a fishing line.
 
-38919	Feliss	「ただいまー、偵察終わったわ……って、	「I'm back, reconnaissance done... Wait,
-38920	+	　どうしたの？」	　what's wrong?」
+38919	Feliss	基本	「ただいまー、偵察終わったわ……って、	「I'm back, reconnaissance done... Wait,
+38920	+		　どうしたの？」	　what's wrong?」
 
-38921	Rance	「ん？　なにがだ」	「Hm? What do you mean?」
+38921	Rance	真剣	「ん？　なにがだ」	「Hm? What do you mean?」
 
-38922	Feliss	「なんか、ぼーっとしちゃって……	「You're spacing out...
-38923	+	　熱でもあるの？」	　Do you have a fever?」
+38922	Feliss	基本	「なんか、ぼーっとしちゃって……	「You're spacing out...
+38923	+		　熱でもあるの？」	　Do you have a fever?」
 
-38924	Rance	「ギャーギャー騒ぎながら釣りができるか。	「I can't fish while everyone's making noise.
-38925	+	　報告ならノアさんにでもしておけ」	　Give the report to Noah.」
+38924	Rance	真剣	「ギャーギャー騒ぎながら釣りができるか。	「I can't fish while everyone's making noise.
+38925	+		　報告ならノアさんにでもしておけ」	　Give the report to Noah.」
 
-38926	Feliss	「変なの……調子狂うわ」	「Weird... You're acting strange.」
+38926	Feliss	基本	「変なの……調子狂うわ」	「Weird... You're acting strange.」
 
-38927	Sill Plain	「ランス様、心配なんですよ。	「Rance-sama is worried.
-38928	+	　お城の中の様子が、分かりませんから……」	　We don't know what's happening in the castle...」
+38927	Sill Plain	真剣	「ランス様、心配なんですよ。	「Rance-sama is worried.
+38928	+		　お城の中の様子が、分かりませんから……」	　We don't know what's happening in the castle...」
 
-38929	Feliss	「城の？」	「The castle's?」
+38929	Feliss	基本	「城の？」	「The castle's?」
 
-38930	Sill Plain	「はい……もう、魔法電話が届かなくて。	「Yes... The magic phone doesn't reach anymore.
-38931	+	　リセットちゃん達が、元気かどうか……」	　I wonder if Reset-chan and the others are okay...」
+38930	Sill Plain	真剣	「はい……もう、魔法電話が届かなくて。	「Yes... The magic phone doesn't reach anymore.
+38931	+		　リセットちゃん達が、元気かどうか……」	　I wonder if Reset-chan and the others are okay...」
 
-38932	Rance	「うるさいぞシィル。適当な事を言うな」	「Be quiet, Sill. Don't say things like that.」
+38932	Rance		「うるさいぞシィル。適当な事を言うな」	「Be quiet, Sill. Don't say things like that.」
 
-38933	Sill Plain	「……………………」	「........................」
+38933	Sill Plain		「……………………」	「........................」
 
-38934	-	海の方を向いたままのランスの声には、	Rance's voice as he faced the sea
-38935	+	やはりどこかいつもの勢いがなかった。	lacked its usual energy.
+38934	-		海の方を向いたままのランスの声には、	Rance's voice as he faced the sea
+38935	+		やはりどこかいつもの勢いがなかった。	lacked its usual energy.
 
-38936	Feliss	「……………………」	「........................」
+38936	Feliss	基本	「……………………」	「........................」
 
-38937	Feliss	「リセット？　いつも通りだったけど。	「Reset? She was the same as always.
-38938	+	　城も、別に大きく変わった雰囲気は……」	　The castle didn't seem very different...」
+38937	Feliss		「リセット？　いつも通りだったけど。	「Reset? She was the same as always.
+38938	+		　城も、別に大きく変わった雰囲気は……」	　The castle didn't seem very different...」
 
-38939	Rance	「………………あ？」	「............Eh?」
+38939	Rance	真剣	「………………あ？」	「............Eh?」
 
-38940	Sill Plain	「えっ？」	「Eh?」
+38940	Sill Plain	きょとん	「えっ？」	「Eh?」
 
-38941	Feliss	「あのね。	「Listen.
-38942	+	　いつも私がどこに帰ってると思ってるわけ？」	　Where do you think I always go back to?」
+38941	Feliss	不機嫌	「あのね。	「Listen.
+38942	+		　いつも私がどこに帰ってると思ってるわけ？」	　Where do you think I always go back to?」
 
-38943	Sill Plain	「…………あっ、そうか……！	「............Ah, right...!
-38944	+	　フェリスさん、普段はランス城に……」	　Feliss usually stays at Rance Castle...」
+38943	Sill Plain	慌て	「…………あっ、そうか……！	「............Ah, right...!
+38944	+		　フェリスさん、普段はランス城に……」	　Feliss usually stays at Rance Castle...」
 
-38945	Rance	「………………！」	「............!」
+38945	Rance	真剣	「………………！」	「............!」
 
-38946	Feliss	「他の国も別に、異常ないわよ。	「The other countries are fine too.
-38947	+	　防衛に徹してるからしばらく平気だって」	　They're focused on defense so they should be okay for a while.」
+38946	Feliss	基本	「他の国も別に、異常ないわよ。	「The other countries are fine too.
+38947	+		　防衛に徹してるからしばらく平気だって」	　They're focused on defense so they should be okay for a while.」
 
-38948	Rance	「がははははは、なーんだ！　他愛ない。	「Gahahahahaha, I see! No big deal.
-38949	+	　別に初めっから心配なんぞしとらんかったがな！」	　I wasn't worried from the start anyway!」
+38948	Rance	笑顔	「がははははは、なーんだ！　他愛ない。	「Gahahahahaha, I see! No big deal.
+38949	+		　別に初めっから心配なんぞしとらんかったがな！」	　I wasn't worried from the start anyway!」
 
-38950	Rance	「釣りは飽きた。終わりだ。	「I'm bored of fishing. Done.
-38951	+	　さー、誰か暇そうな子はいないかなっと」	　Now, anyone free and looking bored?」
+38950	Rance	基本	「釣りは飽きた。終わりだ。	「I'm bored of fishing. Done.
+38951	+		　さー、誰か暇そうな子はいないかなっと」	　Now, anyone free and looking bored?」
 
-38952	Sill Plain	「あ、ランス様……！」	「Ah, Rance-sama...!」
+38952	Sill Plain	慌て	「あ、ランス様……！」	「Ah, Rance-sama...!」
 
-38953	Feliss	「はあ。現金ね……じゃあ私、報告してくるから」	「Haa. So straightforward... I'll go give the report then.」
+38953	Feliss	不機嫌	「はあ。現金ね……じゃあ私、報告してくるから」	「Haa. So straightforward... I'll go give the report then.」
 
-38954	-	ランスは意気揚々と船室へ向かい、	Rance headed energetically to the cabin,
-38955	+	シィルもフェリスに一度頭を下げてから、	and Sill bowed once to Feliss
-38956	+	その後を追った。	before following him.
+38954	-		ランスは意気揚々と船室へ向かい、	Rance headed energetically to the cabin,
+38955	+		シィルもフェリスに一度頭を下げてから、	and Sill bowed once to Feliss
+38956	+		その後を追った。	before following him.
 
-38957	Feliss~	（本当は、昨日の大攻勢でかなり	（Actually, they took heavy damage in yesterday's major offensive...
-38958	+	　やられたんだけど……言わないほうが、いいよね）	　but... it's better not to say, right?）
+38957	Feliss~	基本	（本当は、昨日の大攻勢でかなり	（Actually, they took heavy damage in yesterday's major offensive...
+38958	+		　やられたんだけど……言わないほうが、いいよね）	　but... it's better not to say, right?）
 
-38959	Feliss~	（各戦線も、防衛線が突破されつつある……	（On every front, the defensive lines are close to breaking...
-38960	+	　長くはもたないそうだし……）	　They won't hold much longer...）
+38959	Feliss~		（各戦線も、防衛線が突破されつつある……	（On every front, the defensive lines are close to breaking...
+38960	+		　長くはもたないそうだし……）	　They won't hold much longer...）
 
-38961	Feliss	「………………」	「............」
+38961	Feliss	不機嫌	「………………」	「............」
 
-38962	-	フェリスは小さく頭を振ってから、	Feliss shook her head slightly,
-38963	+	ノアを探して歩き始めた。	then walked off to find Noah.
+38962	-		フェリスは小さく頭を振ってから、	Feliss shook her head slightly,
+38963	+		ノアを探して歩き始めた。	then walked off to find Noah.

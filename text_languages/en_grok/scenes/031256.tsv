@@ -2,62 +2,62 @@
 * Rance	ランス	Male
 * Maria Custard	マリア	Female
 
-62780	Rance	「…………ん……この音……」	「............Nn... This sound...」
+62780	Rance	真剣	「…………ん……この音……」	「............Nn... This sound...」
 
-62781	-	重い何かを運ぶ軋んだ音が、	A creaking sound of something heavy being moved
-62782	+	部屋の外まで響いてきた。	echoed outside the room.
+62781	-		重い何かを運ぶ軋んだ音が、	A creaking sound of something heavy being moved
+62782	+		部屋の外まで響いてきた。	echoed outside the room.
 
-62783	Rance	「なーにがあるのかなっと！」	「I wonder what's there!」
+62783	Rance	笑顔	「なーにがあるのかなっと！」	「I wonder what's there!」
 
-62784	-	ランスは躊躇なく、扉を押し開けた。	Rance pushed the door open without hesitation.
+62784	-		ランスは躊躇なく、扉を押し開けた。	Rance pushed the door open without hesitation.
 
-62785	Rance	「…………ん……？」	「............Nn...?」
+62785	Rance	真剣	「…………ん……？」	「............Nn...?」
 
-62786	-	ランス城の体育館程度の広さをした部屋だった。	It was a room about the size of Rance Castle's gymnasium.
+62786	-		ランス城の体育館程度の広さをした部屋だった。	It was a room about the size of Rance Castle's gymnasium.
 
-62787	-	そこに、兵器のパーツが天井から釣り下げられ、	Weapon parts hung from the ceiling,
-62788	+	動いては別のパーツと組み合わされている。	moving and assembling with other parts.
+62787	-		そこに、兵器のパーツが天井から釣り下げられ、	Weapon parts hung from the ceiling,
+62788	+		動いては別のパーツと組み合わされている。	moving and assembling with other parts.
 
-62789	Rance	「……なんだ、こりゃ……？」	「...What the hell is this...?」
+62789	Rance	だる顔	「……なんだ、こりゃ……？」	「...What the hell is this...?」
 
-62790	Maria Custard	「つ、作ってる、っ……	「I-it's making them...
-62791	+	　あれだけの物を、機械に量産させてるなんて……」	　Mass producing things like that with machines...」
+62790	Maria Custard	あかんわ	「つ、作ってる、っ……	「I-it's making them...
+62791	+		　あれだけの物を、機械に量産させてるなんて……」	　Mass producing things like that with machines...」
 
-62792	-	愕然とした表情で、マリアが呟いた。	Maria muttered with a stunned expression.
+62792	-		愕然とした表情で、マリアが呟いた。	Maria muttered with a stunned expression.
 
-62793	Maria Custard	「うう、製造工程を見ても、作り方わかんない……	「Uuu, even looking at the manufacturing process, I don't understand how...
-62794	+	　どんな精密な計算をすれば、	　What kind of precise calculations
-62795	+	　あんな自動的に動く機械を……	　would make such automatically moving machines...
-62796	?	いたっ」	Ouch.」
+62793	Maria Custard	泣き	「うう、製造工程を見ても、作り方わかんない……	「Uuu, even looking at the manufacturing process, I don't understand how...
+62794	+		　どんな精密な計算をすれば、	　What kind of precise calculations
+62795	+		　あんな自動的に動く機械を……	　would make such automatically moving machines...
+62796	?		いたっ」	Ouch.」
 
-62797	Rance	「こら。考えるのは止めたんだろーが」	「Hey. I told you to stop thinking about it.」
+62797	Rance	真剣	「こら。考えるのは止めたんだろーが」	「Hey. I told you to stop thinking about it.」
 
-62798	Maria Custard	「あ、う、うん。大丈夫。	「Ah, y-yeah. I'm fine.
-62799	+	　あれを動かしてる人が、いるはずよ。	　There must be someone operating those.
-62800	+	　機械が操作してるにしても……」	　Even if machines are doing it...」
+62798	Maria Custard	基本	「あ、う、うん。大丈夫。	「Ah, y-yeah. I'm fine.
+62799	+		　あれを動かしてる人が、いるはずよ。	　There must be someone operating those.
+62800	+		　機械が操作してるにしても……」	　Even if machines are doing it...」
 
-62801	ファナック／基本	「えーいやっとっと、えいやっとと……」	「Ei yatto tto, ei yatto to...」
+62801	ファナック／基本		「えーいやっとっと、えいやっとと……」	「Ei yatto tto, ei yatto to...」
 
-62802	-	蜘蛛のように複数の腕を持つロボットが、	A robot with multiple arms like a spider
-62803	+	いくつもの機械のレバーを同時に操っていた。	was operating multiple machine levers at once.
+62802	-		蜘蛛のように複数の腕を持つロボットが、	A robot with multiple arms like a spider
+62803	+		いくつもの機械のレバーを同時に操っていた。	was operating multiple machine levers at once.
 
-62804	Rance	「おっ……なんかいるぞ」	「Oh... There's something there.」
+62804	Rance	真剣	「おっ……なんかいるぞ」	「Oh... There's something there.」
 
-62805	ファナック／基本	「あーーーー！？　なんじゃい、お前らぁ」	「Aaaaaa!? What are you guys!」
+62805	ファナック／基本	基本	「あーーーー！？　なんじゃい、お前らぁ」	「Aaaaaa!? What are you guys!」
 
-62806	Rance	「パイアールからの伝令だ！	「Message from Pi-R!
-62807	+	　すぐに機械を停止して、パイアールに合流しろ！」	　Stop the machines immediately and join Pi-R!」
+62806	Rance	怒り	「パイアールからの伝令だ！	「Message from Pi-R!
+62807	+		　すぐに機械を停止して、パイアールに合流しろ！」	　Stop the machines immediately and join Pi-R!」
 
-62808	ファナック／基本	「あーーー！？　知ったことかい、そんなもん！	「Aaaah!? I don't care about that!
-62809	+	　ワシはここでPI-3作るんじゃい！	　I'm making PI-3 here!
-62810	+	　それ以外の事はせんのじゃい」	　I won't do anything else!」
+62808	ファナック／基本	基本	「あーーー！？　知ったことかい、そんなもん！	「Aaaah!? I don't care about that!
+62809	+		　ワシはここでPI-3作るんじゃい！	　I'm making PI-3 here!
+62810	+		　それ以外の事はせんのじゃい」	　I won't do anything else!」
 
-62811	ファナック／基本	「えーいやっとっと、えいやっとと……」	「Ei yatto tto, ei yatto to...」
+62811	ファナック／基本		「えーいやっとっと、えいやっとと……」	「Ei yatto tto, ei yatto to...」
 
-62812	-	すげなく吐き捨てて、	It spat out dismissively
-62813	+	ロボットは戦車作成を続ける。	and continued making the tank.
+62812	-		すげなく吐き捨てて、	It spat out dismissively
+62813	+		ロボットは戦車作成を続ける。	and continued making the tank.
 
-62814	Rance	「……話にならんな。よし、殺す」	「...No use talking. Alright, kill it.」
+62814	Rance	真剣	「……話にならんな。よし、殺す」	「...No use talking. Alright, kill it.」
 
-62815	ファナック／基本	「なんじゃい！　まだ邪魔するんかい！	「What! Still interfering!
-62816	+	　かーーーーッ、出てかんかい！」	　Gahhh, get out!」
+62815	ファナック／基本	基本	「なんじゃい！　まだ邪魔するんかい！	「What! Still interfering!
+62816	+		　かーーーーッ、出てかんかい！」	　Gahhh, get out!」

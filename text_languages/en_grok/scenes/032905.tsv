@@ -4,136 +4,136 @@
 * Man	汎用男性	?
 * Mi Lordring	ロードリング	Male
 
-187388	-	川中島――	Kawanakajima一一
+187388	-		川中島――	Kawanakajima一一
 
-187389	-	世界最大の宗教であるAL教本部のある	The headquarters of AL Church, the world's largest religion,
-187390	+	人類にとっての聖地である。	a holy land for humanity.
+187389	-		世界最大の宗教であるAL教本部のある	The headquarters of AL Church, the world's largest religion,
+187390	+		人類にとっての聖地である。	a holy land for humanity.
 
-187391	-	国家同士の戦争の折も、何があろうと、	Even during wars between nations, no matter what,
-187392	+	この地は不可侵の聖域として扱われている。	this land is treated as an inviolable sanctuary.
+187391	-		国家同士の戦争の折も、何があろうと、	Even during wars between nations, no matter what,
+187392	+		この地は不可侵の聖域として扱われている。	this land is treated as an inviolable sanctuary.
 
-187393	-	しかし、それは――	However, that一一
-187394	+	魔物にはなんら関係がない。	has nothing to do with monsters.
+187393	-		しかし、それは――	However, that一一
+187394	+		魔物にはなんら関係がない。	has nothing to do with monsters.
 
-187395	-	AL教本部――	AL Church Headquarters一一
-187396	+	カイズ――	Kaiz一一
+187395	-		AL教本部――	AL Church Headquarters一一
+187396	+		カイズ――	Kaiz一一
 
-187397	Temple Knight	「BS殿！	「Lord BS!
-187398	+	　魔軍がついに島に上陸！	　The Monster Army has finally landed on the island!
-187399	+	　その数は50000！」	　Their numbers are 50,000!」
+187397	Temple Knight	基本	「BS殿！	「Lord BS!
+187398	+		　魔軍がついに島に上陸！	　The Monster Army has finally landed on the island!
+187399	+		　その数は50000！」	　Their numbers are 50,000!」
 
-187400	Temple Knight	「まっすぐカイズに向かってきています！	「They're heading straight for Kaiz!
-187401	+	　ご指示を！」	　Your orders!」
+187400	Temple Knight		「まっすぐカイズに向かってきています！	「They're heading straight for Kaiz!
+187401	+		　ご指示を！」	　Your orders!」
 
-187402	Battling Centers	「うむ、法王のご指示通り、すぐに避難を」	「Understood. Evacuate immediately as per the Pope's orders.」
+187402	Battling Centers		「うむ、法王のご指示通り、すぐに避難を」	「Understood. Evacuate immediately as per the Pope's orders.」
 
-187403	Temple Knight	「……やはり、聖地を護る、	「......So we really aren't
-187404	+	　という選択はないのですね」	　going to protect the holy land.」
+187403	Temple Knight		「……やはり、聖地を護る、	「......So we really aren't
+187404	+		　という選択はないのですね」	　going to protect the holy land.」
 
-187405	Battling Centers	「うむ、それが神の御心……	「Yes, that is God's will......
-187406	+	　さあ、急げよ！」	　Now hurry!」
+187405	Battling Centers		「うむ、それが神の御心……	「Yes, that is God's will......
+187406	+		　さあ、急げよ！」	　Now hurry!」
 
-187407	Temple Knight	「はっ！」	「Yes!」
+187407	Temple Knight		「はっ！」	「Yes!」
 
-187408	-	早々に聖地の放棄を決めていた	The evacuation was carried out efficiently
-187409	+	クルックーの指示により避難は的確に済み、	under Crook's orders,
-187410	+	多数の信者は既に他国へ逃れていた。	and most believers had already fled to other countries.
+187408	-		早々に聖地の放棄を決めていた	The evacuation was carried out efficiently
+187409	+		クルックーの指示により避難は的確に済み、	under Crook's orders,
+187410	+		多数の信者は既に他国へ逃れていた。	and most believers had already fled to other countries.
 
-187411	-	しかし、中には最後まで残ろうという者もいる。	However, some still wished to remain until the end.
+187411	-		しかし、中には最後まで残ろうという者もいる。	However, some still wished to remain until the end.
 
-187412	-	そのほとんどは特別信仰心の強い、	Most of them were particularly devout
-187413	+	司祭、司教達である。	priests and bishops.
+187412	-		そのほとんどは特別信仰心の強い、	Most of them were particularly devout
+187413	+		司祭、司教達である。	priests and bishops.
 
-187414	Man	「法王ムーララルーはいったい何をお考えなのだ！	「What is Pope Mulalaloux thinking!
-187415	+	　この聖地カイズを放棄するなんて！」	　Abandoning this holy land Kaiz!」
+187414	Man		「法王ムーララルーはいったい何をお考えなのだ！	「What is Pope Mulalaloux thinking!
+187415	+		　この聖地カイズを放棄するなんて！」	　Abandoning this holy land Kaiz!」
 
-187416	Man	「今は戦力を出来るだけ	「Right now she probably wants
-187417	+	　各主要国に集中させたいのだろう……」	　to concentrate forces in the major countries......」
+187416	Man		「今は戦力を出来るだけ	「Right now she probably wants
+187417	+		　各主要国に集中させたいのだろう……」	　to concentrate forces in the major countries......」
 
-187418	Man	「それが問題なのだ！	「That's the problem!
-187419	+	　聖地より各国の方が優先されたということが！」	　Prioritizing other countries over the holy land!」
+187418	Man		「それが問題なのだ！	「That's the problem!
+187419	+		　聖地より各国の方が優先されたということが！」	　Prioritizing other countries over the holy land!」
 
-187420	Man	「世界中にいるAL教の信者を結集し、	「If we gather all AL Church believers worldwide
-187421	+	　聖地を護るように命令を出せば……」	　and order them to protect the holy land......」
+187420	Man		「世界中にいるAL教の信者を結集し、	「If we gather all AL Church believers worldwide
+187421	+		　聖地を護るように命令を出せば……」	　and order them to protect the holy land......」
 
-187422	Man	「うむ、必ずや神は見ていて下さる……	「Yes, God is surely watching over us......
-187423	+	　我らの願いは必ずや成就される筈！」	　Our wishes will surely be granted!」
+187422	Man		「うむ、必ずや神は見ていて下さる……	「Yes, God is surely watching over us......
+187423	+		　我らの願いは必ずや成就される筈！」	　Our wishes will surely be granted!」
 
-187424	Man	「こうなれば、せめて我らだけでも……」	「If that's the case, at least we......」
+187424	Man		「こうなれば、せめて我らだけでも……」	「If that's the case, at least we......」
 
-187425	Mi Lordring	「皆の者、待たれよ」	「Everyone, wait.」
+187425	Mi Lordring		「皆の者、待たれよ」	「Everyone, wait.」
 
-187426	Man	「こ、これは、ロードリング司教！」	「T-This is Bishop Lordring!」
+187426	Man		「こ、これは、ロードリング司教！」	「T-This is Bishop Lordring!」
 
-187427	Mi Lordring	「聖地の放棄は、法王ムーララルーである	「The abandonment of the holy land is the will
-187428	+	　モフス殿のお言葉」	　of Pope Mulalaloux, Lady Mofus.」
+187427	Mi Lordring		「聖地の放棄は、法王ムーララルーである	「The abandonment of the holy land is the will
+187428	+		　モフス殿のお言葉」	　of Pope Mulalaloux, Lady Mofus.」
 
-187429	Mi Lordring	「法王ムーララルーのお言葉は神のお言葉。	「The words of Pope Mulalaloux are God's words.
-187430	+	　それを疑うなど、あってはならぬこと」	　Doubting them is unacceptable.」
+187429	Mi Lordring		「法王ムーララルーのお言葉は神のお言葉。	「The words of Pope Mulalaloux are God's words.
+187430	+		　それを疑うなど、あってはならぬこと」	　Doubting them is unacceptable.」
 
-187431	Man	「そ、それは分かっております……	「W-We understand that......
-187432	+	　しかし、そうすると神は聖地を放棄せよ、と……」	　But that would mean God is ordering us to abandon the holy land......」
+187431	Man		「そ、それは分かっております……	「W-We understand that......
+187432	+		　しかし、そうすると神は聖地を放棄せよ、と……」	　But that would mean God is ordering us to abandon the holy land......」
 
-187433	Man	「そ、それは、神が我らを	「D-Does that not mean God has
-187434	+	　見放しになったということではないのですか！？」	　abandoned us!?」
+187433	Man		「そ、それは、神が我らを	「D-Does that not mean God has
+187434	+		　見放しになったということではないのですか！？」	　abandoned us!?」
 
-187435	Mi Lordring	「否！」	「No!」
+187435	Mi Lordring		「否！」	「No!」
 
-187436	Mi Lordring	「断じて否！！！！」	「Absolutely not!!!!」
+187436	Mi Lordring		「断じて否！！！！」	「Absolutely not!!!!」
 
-187437	Mi Lordring	「神は我らを見放しにならない！」	「God has not abandoned us!」
+187437	Mi Lordring		「神は我らを見放しにならない！」	「God has not abandoned us!」
 
-187438	Mi Lordring	「……絶対にだ」	「......Absolutely.」
+187438	Mi Lordring	目閉じ	「……絶対にだ」	「......Absolutely.」
 
-187439	Man	「む、うう……」	「Muu......」
+187439	Man	基本	「む、うう……」	「Muu......」
 
-187440	Man	「その……根拠は……」	「The...... basis for that......」
+187440	Man		「その……根拠は……」	「The...... basis for that......」
 
-187441	Mi Lordring	「神を疑ってはならぬ。	「We must not doubt God.
-187442	+	　理由などそれだけで充分」	　That alone is reason enough.」
+187441	Mi Lordring	目閉じ	「神を疑ってはならぬ。	「We must not doubt God.
+187442	+		　理由などそれだけで充分」	　That alone is reason enough.」
 
-187443	Man	「そう……そうですな……」	「Yes...... That's right......」
+187443	Man	基本	「そう……そうですな……」	「Yes...... That's right......」
 
-187444	Man	「……申し訳ない、我らが間違っていた」	「......Forgive us, we were wrong.」
+187444	Man		「……申し訳ない、我らが間違っていた」	「......Forgive us, we were wrong.」
 
-187445	-	ロードリングは首を静かに横に振った。	Lordring quietly shook his head.
+187445	-		ロードリングは首を静かに横に振った。	Lordring quietly shook his head.
 
-187446	Mi Lordring	「苦しいのは私も同じ。	「I feel the pain too.
-187447	+	　しかし、ここは耐えましょう」	　But let us endure it.」
+187446	Mi Lordring		「苦しいのは私も同じ。	「I feel the pain too.
+187447	+		　しかし、ここは耐えましょう」	　But let us endure it.」
 
-187448	Temple Knight	「おお、ロードリング司教！	「Oh, Bishop Lordring!
-187449	+	　こちらにおられたのですか！」	　You were here!」
+187448	Temple Knight		「おお、ロードリング司教！	「Oh, Bishop Lordring!
+187449	+		　こちらにおられたのですか！」	　You were here!」
 
-187450	Temple Knight	「勝手な行動は控えて下さいとあれほど……」	「We told you so many times not to act on your own......」
+187450	Temple Knight		「勝手な行動は控えて下さいとあれほど……」	「We told you so many times not to act on your own......」
 
-187451	Mi Lordring	「うむ、アリス様の聖像を一つでも多く	「Yes, I was going around collecting
-187452	+	　回収しなければとあちこちを回っていた最中」	　as many Alice statues as possible.」
+187451	Mi Lordring		「うむ、アリス様の聖像を一つでも多く	「Yes, I was going around collecting
+187452	+		　回収しなければとあちこちを回っていた最中」	　as many Alice statues as possible.」
 
-187453	Temple Knight	「そう仰ると思って、	「I thought you'd say that,
-187454	+	　こちらで出来るだけ回収しておきましたよ！」	　so I collected as many as I could here!」
+187453	Temple Knight		「そう仰ると思って、	「I thought you'd say that,
+187454	+		　こちらで出来るだけ回収しておきましたよ！」	　so I collected as many as I could here!」
 
-187455	Mi Lordring	「おお！　素晴らしい！」	「Oh! Wonderful!」
+187455	Mi Lordring		「おお！　素晴らしい！」	「Oh! Wonderful!」
 
-187456	Mi Lordring	「さあ、皆さんも早く避難を！」	「Now everyone, evacuate quickly!」
+187456	Mi Lordring		「さあ、皆さんも早く避難を！」	「Now everyone, evacuate quickly!」
 
-187457	-	…………	............
+187457	-		…………	............
 
-187458	-	……	......
+187458	-		……	......
 
-187459	-	避難用の船の上でロードリング司教が	On the evacuation ship, Bishop Lordring
-187460	+	カイズの方向を眺める。	gazed toward Kaiz.
+187459	-		避難用の船の上でロードリング司教が	On the evacuation ship, Bishop Lordring
+187460	+		カイズの方向を眺める。	gazed toward Kaiz.
 
-187461	-	常に厳かで静謐な空気漂うカイズから	From Kaiz, which always carried a solemn and serene air,
-187462	+	風に乗って聞こえてくるは、	the wind carried
-187463	+	魔物達の下卑た笑い声。	the vulgar laughter of monsters.
+187461	-		常に厳かで静謐な空気漂うカイズから	From Kaiz, which always carried a solemn and serene air,
+187462	+		風に乗って聞こえてくるは、	the wind carried
+187463	+		魔物達の下卑た笑い声。	the vulgar laughter of monsters.
 
-187464	Mi Lordring	「…………」	「............」
+187464	Mi Lordring	目閉じ	「…………」	「............」
 
-187465	-	その声を心に刻むように、	As if etching that sound into his heart,
-187466	+	ロードリングは深く目をつぶる。	Lordring closed his eyes deeply.
+187465	-		その声を心に刻むように、	As if etching that sound into his heart,
+187466	+		ロードリングは深く目をつぶる。	Lordring closed his eyes deeply.
 
-187467	Mi Lordring	「アリス様……これで宜しいのですね……」	「Lady Alice...... Is this acceptable......」
+187467	Mi Lordring		「アリス様……これで宜しいのですね……」	「Lady Alice...... Is this acceptable......」
 
-187468	-	女神ALICEが宿るとロードリングが考える	The ALICE doll that Lordring believes houses Goddess ALICE
-187469	+	ALICE人形に語り掛けても、	remained silent
-187470	+	人形は何も語らない。	even when spoken to.
+187468	-		女神ALICEが宿るとロードリングが考える	The ALICE doll that Lordring believes houses Goddess ALICE
+187469	+		ALICE人形に語り掛けても、	remained silent
+187470	+		人形は何も語らない。	even when spoken to.

@@ -6,68 +6,68 @@
 * Nagi su Ragarl	子供ナギ	Female
 * Reset Kalar	リセット	Female
 
-111844	Rance	「よう、ミラクル」	「Yo, Miracle.」
+111844	Rance	基本	「よう、ミラクル」	「Yo, Miracle.」
 
-111845	Miracle Tor	「ん、カオスマスターか」	「Hm, Chaos Master.」
+111845	Miracle Tor	ライドオン	「ん、カオスマスターか」	「Hm, Chaos Master.」
 
-111846	Rance	「……って、なにしてるんだ？」	「...Wait, what are you doing?」
+111846	Rance	基本	「……って、なにしてるんだ？」	「...Wait, what are you doing?」
 
-111847	-	ミラクルの膝の上には、	On Miracle's lap,
-111848	+	キバ子が体を丸めて寝転がり、	Kibako was curled up sleeping,
-111849	+	カロリアも椅子の隅にちょこんと座っていた。	and Caloria was sitting neatly in the corner of the chair.
+111847	-		ミラクルの膝の上には、	On Miracle's lap,
+111848	+		キバ子が体を丸めて寝転がり、	Kibako was curled up sleeping,
+111849	+		カロリアも椅子の隅にちょこんと座っていた。	and Caloria was sitting neatly in the corner of the chair.
 
-111850	Caloria Cricket	「えへへー、乗せてもらってるの。	「Ehehe~, I'm getting a ride.
-111851	+	　楽しそうだから」	　It looks fun.」
+111850	Caloria Cricket		「えへへー、乗せてもらってるの。	「Ehehe~, I'm getting a ride.
+111851	+		　楽しそうだから」	　It looks fun.」
 
-111852	Kibako	「ぐぅー……ぐぅー……」	「Guu~... Guu~...」
+111852	Kibako		「ぐぅー……ぐぅー……」	「Guu~... Guu~...」
 
-111853	-	キバ子はミラクルに撫で撫でされて	Kibako was being gently stroked by Miracle
-111854	+	穏やかに眠っていた。	and sleeping peacefully.
+111853	-		キバ子はミラクルに撫で撫でされて	Kibako was being gently stroked by Miracle
+111854	+		穏やかに眠っていた。	and sleeping peacefully.
 
-111855	Rance	「いいのか？　玉座に座らせて」	「Is that okay? Letting them sit on the throne.」
+111855	Rance		「いいのか？　玉座に座らせて」	「Is that okay? Letting them sit on the throne.」
 
-111856	Miracle Tor	「まったく良くはないが……	「It's not good at all but...
-111857	+	　まあ、良かろう」	　Well, it's fine.」
+111856	Miracle Tor	ライドオン	「まったく良くはないが……	「It's not good at all but...
+111857	+		　まあ、良かろう」	　Well, it's fine.」
 
-111858	Miracle Tor	「覚えておけ、カオスマスター」	「Remember this, Chaos Master.」
+111858	Miracle Tor		「覚えておけ、カオスマスター」	「Remember this, Chaos Master.」
 
-111859	Miracle Tor	「王とは奪う者ではなく、	「A king is not one who takes,
-111860	+	　分け与える者のことを指す」	　but one who gives.」
+111859	Miracle Tor	ライドオン／目閉じ	「王とは奪う者ではなく、	「A king is not one who takes,
+111860	+		　分け与える者のことを指す」	　but one who gives.」
 
-111861	Miracle Tor	「そして、余にとって民草とは……」	「And to me, the common people are...」
+111861	Miracle Tor		「そして、余にとって民草とは……」	「And to me, the common people are...」
 
-111862	Nagi su Ragarl	「あーっ！　なにしてるのかろおねーちゃん！	「Ah! What are you doing, big sis!
-111863	+	　私も私も！」	　Me too, me too!」
+111862	Nagi su Ragarl	基本	「あーっ！　なにしてるのかろおねーちゃん！	「Ah! What are you doing, big sis!
+111863	+		　私も私も！」	　Me too, me too!」
 
-111864	Reset Kalar	「いーなー！　いーなー！」	「So nice! So nice!」
+111864	Reset Kalar		「いーなー！　いーなー！」	「So nice! So nice!」
 
-111865	Caloria Cricket	「もー、仕方ないなー。	「Geez, can't be helped.
-111866	+	　かろ、お姉ちゃんだから譲ってあげるー」	　Caloria will give it up since she's the big sis~」
+111865	Caloria Cricket		「もー、仕方ないなー。	「Geez, can't be helped.
+111866	+		　かろ、お姉ちゃんだから譲ってあげるー」	　Caloria will give it up since she's the big sis~」
 
-111867	Reset Kalar	「わーい！」	「Yay!」
+111867	Reset Kalar	うきゃー	「わーい！」	「Yay!」
 
-111868	Miracle Tor	「はっはっはっ、まったく失礼なわらべ達だ」	「Hahaha, what rude little children.」
+111868	Miracle Tor	ライドオン／笑顔	「はっはっはっ、まったく失礼なわらべ達だ」	「Hahaha, what rude little children.」
 
-111869	Miracle Tor	「まったく、余は王として	「Honestly, as a king
-111870	+	　世界に君臨せし神にも等しき存在だというのに」	　I am a god-like being who rules the world.」
+111869	Miracle Tor	ライドオン／目閉じ	「まったく、余は王として	「Honestly, as a king
+111870	+		　世界に君臨せし神にも等しき存在だというのに」	　I am a god-like being who rules the world.」
 
-111871	Rance	「ちびっこいのによじ登られながら	「Getting climbed on by little kids
-111872	+	　なんか格好つけてる」	　and still acting cool.」
+111871	Rance	だる顔	「ちびっこいのによじ登られながら	「Getting climbed on by little kids
+111872	+		　なんか格好つけてる」	　and still acting cool.」
 
-111873	Rance	「怒ってもいいんだぞ」	「You can get mad, you know.」
+111873	Rance	基本	「怒ってもいいんだぞ」	「You can get mad, you know.」
 
-111874	Miracle Tor	「はっはっはっ、わらべを相手に怒るなど、	「Hahaha, getting angry at children
-111875	+	　王としての器が知れるわ」	　shows the capacity of a king.」
+111874	Miracle Tor	ライドオン／笑顔	「はっはっはっ、わらべを相手に怒るなど、	「Hahaha, getting angry at children
+111875	+		　王としての器が知れるわ」	　shows the capacity of a king.」
 
-111876	Miracle Tor	「それに……	「Besides...
-111877	+	　王が怒るのはただ一度でいい。	　A king should only get angry once.
-111878	+	　いや、ただ一度であるべきだ」	　No, it should only be once.」
+111876	Miracle Tor	ライドオン	「それに……	「Besides...
+111877	+		　王が怒るのはただ一度でいい。	　A king should only get angry once.
+111878	+		　いや、ただ一度であるべきだ」	　No, it should only be once.」
 
-111879	Miracle Tor	「ではな」	「Farewell.」
+111879	Miracle Tor	ライドオン／目閉じ	「ではな」	「Farewell.」
 
-111880	Nagi su Ragarl	「おーっ、うごくうごくー！」	「Whoa, it's moving, moving!」
+111880	Nagi su Ragarl	基本	「おーっ、うごくうごくー！」	「Whoa, it's moving, moving!」
 
-111881	Reset Kalar	「がははー！」	「Gahaha!」
+111881	Reset Kalar		「がははー！」	「Gahaha!」
 
-111882	Rance	「大量のちびを連れてのっしのっしと去ってく……	「Walking off heavily with a bunch of kids...
-111883	+	　シュールな王様だな、あいつも」	　What a surreal king she is.」
+111882	Rance	真剣	「大量のちびを連れてのっしのっしと去ってく……	「Walking off heavily with a bunch of kids...
+111883	+		　シュールな王様だな、あいつも」	　What a surreal king she is.」

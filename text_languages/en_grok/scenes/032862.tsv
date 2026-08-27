@@ -4,245 +4,245 @@
 * Sill Plain	シィル	Female
 * Bezeleye	ベゼルアイ	Female
 
-183116	Rance	「え……あれ……？」	「Eh... what the...?」
+183116	Rance	基本	「え……あれ……？」	「Eh... what the...?」
 
-183117	-	ランスの目の前に真っ白な景色が広がっていた。	A pure white scenery spread out before Rance's eyes.
+183117	-		ランスの目の前に真っ白な景色が広がっていた。	A pure white scenery spread out before Rance's eyes.
 
-183118	Rance	「な……なんじゃこりゃーーーー！？」	「Wh... what the hell is this-----!?」
+183118	Rance	怒り	「な……なんじゃこりゃーーーー！？」	「Wh... what the hell is this-----!?」
 
-183119	Rance	「ここは一体どこだ！？	「Where the hell am I!?」
-183120	+	　なんで俺様こんな所にいるんだ！？」	　Why am I in a place like this!?」
+183119	Rance	驚き	「ここは一体どこだ！？	「Where the hell am I!?」
+183120	+		　なんで俺様こんな所にいるんだ！？」	　Why am I in a place like this!?」
 
-183121	-	一瞬の出来事だった。	It happened in an instant.
+183121	-		一瞬の出来事だった。	It happened in an instant.
 
-183122	-	ランスがたった一度瞬きをしただけで、	The moment Rance blinked once,
-183123	+	景色が一変していた。	the scenery completely changed.
+183122	-		ランスがたった一度瞬きをしただけで、	The moment Rance blinked once,
+183123	+		景色が一変していた。	the scenery completely changed.
 
-183124	Quelplan	「お待ちしておりました」	「I've been waiting for you.」
+183124	Quelplan	魂管理局	「お待ちしておりました」	「I've been waiting for you.」
 
-183125	Rance	「へ？　その無駄に神々しい声は……」	「Huh? That overly divine voice...」
+183125	Rance	だる顔	「へ？　その無駄に神々しい声は……」	「Huh? That overly divine voice...」
 
-183126	Quelplan	「我が名は魂管理局クエルプラン」	「My name is Soul Management Bureau Quelplan.」
+183126	Quelplan	逆光	「我が名は魂管理局クエルプラン」	「My name is Soul Management Bureau Quelplan.」
 
-183127	Rance	「お、お前はいつかの神様の女の子ちゃん！」	「O-oh, you're that goddess girl from before!」
+183127	Rance	基本	「お、お前はいつかの神様の女の子ちゃん！」	「O-oh, you're that goddess girl from before!」
 
-183128	Quelplan	「貴方をここにお呼びしたのは私です」	「I was the one who called you here.」
+183128	Quelplan	逆光	「貴方をここにお呼びしたのは私です」	「I was the one who called you here.」
 
-183129	Rance	「なんだと？　なんでまた……」	「What? Why again...」
+183129	Rance	基本	「なんだと？　なんでまた……」	「What? Why again...」
 
-183130	Quelplan	「…………」	「............」
+183130	Quelplan	逆光	「…………」	「............」
 
-183131	-	言いにくいことなのか、	As if it was hard to say,
-183132	+	クエルプランはまるで言い淀むように、	Quelplan fell completely silent,
-183133	+	黙ってしまった。	as if hesitating.
+183131	-		言いにくいことなのか、	As if it was hard to say,
+183132	+		クエルプランはまるで言い淀むように、	Quelplan fell completely silent,
+183133	+		黙ってしまった。	as if hesitating.
 
-183134	Rance	「お、おお？　どした？」	「O-oh? What's wrong?」
+183134	Rance	基本	「お、おお？　どした？」	「O-oh? What's wrong?」
 
-183135	Quelplan	「私は……」	「I...」
+183135	Quelplan	逆光	「私は……」	「I...」
 
-183136	Quelplan	「私は一級神、魂管理局クエルプランです」	「I am a first-rank god, Soul Management Bureau Quelplan.」
+183136	Quelplan		「私は一級神、魂管理局クエルプランです」	「I am a first-rank god, Soul Management Bureau Quelplan.」
 
-183137	Rance	「……は？」	「...Ha?」
+183137	Rance	基本	「……は？」	「...Ha?」
 
-183138	Quelplan	「私は常に完璧であり、常に過不足なく、	「I must always be perfect, always flawless,
-183139	+	　常に正常なければならない」	　always in normal condition.」
+183138	Quelplan	逆光	「私は常に完璧であり、常に過不足なく、	「I must always be perfect, always flawless,
+183139	+		　常に正常なければならない」	　always in normal condition.」
 
-183140	Quelplan	「魂の管理という責務はそれだけ、	「The duty of soul administration is that important,
-183141	+	　重要な仕事であるからです」	　which is why.」
+183140	Quelplan		「魂の管理という責務はそれだけ、	「The duty of soul administration is that important,
+183141	+		　重要な仕事であるからです」	　which is why.」
 
-183142	Quelplan	「故に……」	「Therefore...」
+183142	Quelplan		「故に……」	「Therefore...」
 
-183143	Quelplan	「記憶のデリート一つ出来ない状況は……	「A situation where I cannot even delete one memory...
-183144	+	　大した問題がないとは言え、	　while not a major issue,
-183145	+	　到底看過できるものではありません」	　cannot be overlooked.」
+183143	Quelplan		「記憶のデリート一つ出来ない状況は……	「A situation where I cannot even delete one memory...
+183144	+		　大した問題がないとは言え、	　while not a major issue,
+183145	+		　到底看過できるものではありません」	　cannot be overlooked.」
 
-183146	Rance	「き、記憶のデリートってなに？」	「D-delete memory? What?」
+183146	Rance	基本	「き、記憶のデリートってなに？」	「D-delete memory? What?」
 
-183147	Quelplan	「あ、あの時の……性交の光景、	「Th-that time... the scene of us having sex,
-183148	+	　互いの体温、心臓の鼓動、息づかい……	　our body heat, the pounding of our hearts, our breathing...
-183149	+	　それに、神経が擦れる快感……」	　and the pleasure of our nerves rubbing together...」
+183147	Quelplan	逆光	「あ、あの時の……性交の光景、	「Th-that time... the scene of us having sex,
+183148	+		　互いの体温、心臓の鼓動、息づかい……	　our body heat, the pounding of our hearts, our breathing...
+183149	+		　それに、神経が擦れる快感……」	　and the pleasure of our nerves rubbing together...」
 
-183150	Quelplan	「そ、その一つ一つ……	「E-every single one...
-183151	+	　私は何一つ忘れることができない……」	　I cannot forget any of it...」
+183150	Quelplan		「そ、その一つ一つ……	「E-every single one...
+183151	+		　私は何一つ忘れることができない……」	　I cannot forget any of it...」
 
-183152	Quelplan	「こんなこと、私が生まれて初めてのこと」	「This has never happened to me since I was born.」
+183152	Quelplan		「こんなこと、私が生まれて初めてのこと」	「This has never happened to me since I was born.」
 
-183153	Quelplan	「み、認めましょう。	「I... I admit it.
-183154	+	　これがエラーなの、だと……」	　This is an error...」
+183153	Quelplan		「み、認めましょう。	「I... I admit it.
+183154	+		　これがエラーなの、だと……」	　This is an error...」
 
-183155	Quelplan	「な、なら、解決策は、一つ……」	「Th-then, there's only one solution...」
+183155	Quelplan		「な、なら、解決策は、一つ……」	「Th-then, there's only one solution...」
 
-183156	Quelplan	「問題の発生原因である、	「The cause of the problem,
-183157	+	　貴方そのものをこの世から消すこと……	　is you yourself. So I must erase you from this world...
-183158	+	　そうすれば、きっと私のエラーも……」	　then surely my error will...」
+183156	Quelplan		「問題の発生原因である、	「The cause of the problem,
+183157	+		　貴方そのものをこの世から消すこと……	　is you yourself. So I must erase you from this world...
+183158	+		　そうすれば、きっと私のエラーも……」	　then surely my error will...」
 
-183159	Quelplan	「そう……	「Yes...
-183160	+	　貴方さえ、消してしまえば……」	　If I just erase you...」
+183159	Quelplan		「そう……	「Yes...
+183160	+		　貴方さえ、消してしまえば……」	　If I just erase you...」
 
-183161	Rance	「話がよく分からん……	「I don't really get what you're saying...
-183162	+	　分からんが……」	　but...」
+183161	Rance	だる顔	「話がよく分からん……	「I don't really get what you're saying...
+183162	+		　分からんが……」	　but...」
 
-183163	Rance	「一つ分かったことがある。	「There's one thing I understood.
-183164	+	　それは――」	　That is――」
+183163	Rance	基本	「一つ分かったことがある。	「There's one thing I understood.
+183164	+		　それは――」	　That is――」
 
-183165	Rance	「君が俺様とのセックスに夢中なことだ！」	「You're completely addicted to my cock!」
+183165	Rance	エロ顔	「君が俺様とのセックスに夢中なことだ！」	「You're completely addicted to my cock!」
 
-183166	Quelplan	「……え？」	「...Eh?」
+183166	Quelplan	逆光	「……え？」	「...Eh?」
 
-183167	Rance	「がははは、そういうことなら	「Gahahaha, if that's the case
-183168	+	　こんな回りくどいことせんでも、	　you didn't need to do all this roundabout stuff,
-183169	+	　俺様の部屋にでも来ればいいものを！」	　you could've just come to my room!」
+183167	Rance	笑顔	「がははは、そういうことなら	「Gahahaha, if that's the case
+183168	+		　こんな回りくどいことせんでも、	　you didn't need to do all this roundabout stuff,
+183169	+		　俺様の部屋にでも来ればいいものを！」	　you could've just come to my room!」
 
-183170	Quelplan	「貴方には、その……	「You... have a solution
-183171	+	　このエラーの解決法が分かるのですか？」	　to fix this error?」
+183170	Quelplan	逆光	「貴方には、その……	「You... have a solution
+183171	+		　このエラーの解決法が分かるのですか？」	　to fix this error?」
 
-183172	Rance	「とーーーっぜん！」	「Of coooourse!」
+183172	Rance	基本	「とーーーっぜん！」	「Of coooourse!」
 
-183173	Rance	「ふふん、簡単なことではないか」	「Heh, it's simple.」
+183173	Rance		「ふふん、簡単なことではないか」	「Heh, it's simple.」
 
-183174	Rance	「それは――」	「It is――」
+183174	Rance	真剣	「それは――」	「It is――」
 
-183175	Quelplan	「そ、それは……？」	「Wh-what is it...?」
+183175	Quelplan	逆光	「そ、それは……？」	「Wh-what is it...?」
 
-183176	Rance	「もう一度俺とセックスすることだーーー！」	「Fucking me again, hard and deep-----!」
+183176	Rance	全裸／怒り	「もう一度俺とセックスすることだーーー！」	「Fucking me again, hard and deep-----!」
 
-183177	Quelplan	「え、ええっ！？」	「E-ehh!?」
+183177	Quelplan	逆光	「え、ええっ！？」	「E-ehh!?」
 
-183178	-	ランスはすぽぽーんと裸に。	Rance stripped completely naked in an instant.
+183178	-		ランスはすぽぽーんと裸に。	Rance stripped completely naked in an instant.
 
-183179	Rance	「というわけで、いただきまーーーす！	「And with that, time to devour you-----!
-183180	+	　がははははははははは！」	　Gahahahahahahaha!」
+183179	Rance	全裸／笑顔	「というわけで、いただきまーーーす！	「And with that, time to devour you-----!
+183180	+		　がははははははははは！」	　Gahahahahahahaha!」
 
-183181	Quelplan	「あっ、ああっ！　ま、また、こんな！　ああっ！？」	「Ah, aahh! A-again, like this! Aahh!?」
+183181	Quelplan	基本	「あっ、ああっ！　ま、また、こんな！　ああっ！？」	「Ah, aahh! A-again, like this! Aahh!?」
 
-183182	Rance	「がはははははははははははは！	「Gahahahahahahahahaha!
-183183	+	　相変わらずクエルプランちゃんはいい声で鳴くなー！」	　Quelplan-chan still moans with such a sexy voice!」
+183182	Rance		「がはははははははははははは！	「Gahahahahahahahahaha!
+183183	+		　相変わらずクエルプランちゃんはいい声で鳴くなー！」	　Quelplan-chan still moans with such a sexy voice!」
 
-183184	Quelplan	「ほ、本当に……その……あっ……	「R-really... um... ahh...
-183185	+	　こんなことで、私のエラーは修復されるのですか……」	　will this really fix my error...」
+183184	Quelplan		「ほ、本当に……その……あっ……	「R-really... um... ahh...
+183185	+		　こんなことで、私のエラーは修復されるのですか……」	　will this really fix my error...」
 
-183186	Rance	「うーん、知らん」	「Hmm, dunno.」
+183186	Rance		「うーん、知らん」	「Hmm, dunno.」
 
-183187	Quelplan	「そ、そんな……！」	「N-no way...!」
+183187	Quelplan		「そ、そんな……！」	「N-no way...!」
 
-183188	Rance	「いいではないか！　俺は君とセックスしたい！	「It's fine! I want to fuck you!
-183189	+	　そして、君も俺とセックスしたい！」	　And you want my cock too!」
+183188	Rance		「いいではないか！　俺は君とセックスしたい！	「It's fine! I want to fuck you!
+183189	+		　そして、君も俺とセックスしたい！」	　And you want my cock too!」
 
-183190	Rance	「それならやることは一つなのだー！　がははは！」	「Then there's only one thing to do! Gahahaha!」
+183190	Rance		「それならやることは一つなのだー！　がははは！」	「Then there's only one thing to do! Gahahaha!」
 
-183191	Quelplan	「な、何故……」	「W-why...」
+183191	Quelplan		「な、何故……」	「W-why...」
 
-183192	Rance	「あん？」	「Huh?」
+183192	Rance		「あん？」	「Huh?」
 
-183193	Quelplan	「何故、貴方はそれほど私に執着を……	「Why are you so obsessed with me...
-183194	+	　こ、こんなこと、おかしいこと、です……」	　Th-this is wrong...」
+183193	Quelplan		「何故、貴方はそれほど私に執着を……	「Why are you so obsessed with me...
+183194	+		　こ、こんなこと、おかしいこと、です……」	　Th-this is wrong...」
 
-183195	Rance	「なーんもおかしいことないぞ！」	「There's nothing wrong with it!」
+183195	Rance		「なーんもおかしいことないぞ！」	「There's nothing wrong with it!」
 
-183196	Rance	「可愛い女はぜーんぶ俺様のもの！	「All cute girls belong to me!
-183197	+	　もちろん、クエルプランちゃん！　君もだ！」	　Of course that includes you, Quelplan-chan!」
+183196	Rance		「可愛い女はぜーんぶ俺様のもの！	「All cute girls belong to me!
+183197	+		　もちろん、クエルプランちゃん！　君もだ！」	　Of course that includes you, Quelplan-chan!」
 
-183198	Quelplan	「あ、あなた、んっ、い、いったい……なに、を……！	「Y-you, nnh, w-what are you... doing...!
-183199	+	　ああっ、だ、駄目です、そこ、擦っては……！」	　Aahh, n-no, not there, don't rub so hard...!」
+183198	Quelplan		「あ、あなた、んっ、い、いったい……なに、を……！	「Y-you, nnh, w-what are you... doing...!
+183199	+		　ああっ、だ、駄目です、そこ、擦っては……！」	　Aahh, n-no, not there, don't rub so hard...!」
 
-183200	Rance	「がーーーっはっはっはっはっ！	「Gaaaahahahaha!
-183201	+	　よーし、それではそろそろイクぞー！」	　Alright, time to cum hard!」
+183200	Rance		「がーーーっはっはっはっはっ！	「Gaaaahahahaha!
+183201	+		　よーし、それではそろそろイクぞー！」	　Alright, time to cum hard!」
 
-183202	Quelplan	「あっ、やあっ！　あっあっあっあっあっ！」	「Ahh, yaaah! Aah aah aah aah!」
+183202	Quelplan		「あっ、やあっ！　あっあっあっあっあっ！」	「Ahh, yaaah! Aah aah aah aah!」
 
-183203	Rance	「とーーーっ！」	「Here it coooomes!」
+183203	Rance		「とーーーっ！」	「Here it coooomes!」
 
-183204	Quelplan	「ああああああああああああああ！」	「Aaaaaaaaaaaaaaaaaah!」
+183204	Quelplan		「ああああああああああああああ！」	「Aaaaaaaaaaaaaaaaaah!」
 
-183205	-	クエルプランが甲高い声を上げて、背を弓なりに反らし、	Quelplan let out a high-pitched scream, arching her back like a bow,
-183206	+	何度もビクンビクンと震えて絶頂する。	shaking violently again and again as she climaxed hard.
+183205	-		クエルプランが甲高い声を上げて、背を弓なりに反らし、	Quelplan let out a high-pitched scream, arching her back like a bow,
+183206	+		何度もビクンビクンと震えて絶頂する。	shaking violently again and again as she climaxed hard.
 
-183207	-	　　＜どびゅっ、びゅる、びゅるるるる……！＞	　　＜Thick spurts, splurt, splurting hard...!＞
+183207	-		　　＜どびゅっ、びゅる、びゅるるるる……！＞	　　＜Thick spurts, splurt, splurting hard...!＞
 
-183208	Quelplan	「あっ、ああ……ああああああ……	「Ah, aah... aaaaaah...
-183209	+	　熱い……熱いの、たくさん……ああ……」	　So hot... so much hot cum inside me... aah...」
+183208	Quelplan		「あっ、ああ……ああああああ……	「Ah, aah... aaaaaah...
+183209	+		　熱い……熱いの、たくさん……ああ……」	　So hot... so much hot cum inside me... aah...」
 
-183210	Rance	「がははは、気持ち良かっただろう！」	「Gahahaha, felt amazing, didn't it!」
+183210	Rance		「がははは、気持ち良かっただろう！」	「Gahahaha, felt amazing, didn't it!」
 
-183211	Quelplan	「う、うーーー……」	「U-uuu...」
+183211	Quelplan		「う、うーーー……」	「U-uuu...」
 
-183212	Quelplan	「………………はい」	「............Yes.」
+183212	Quelplan		「………………はい」	「............Yes.」
 
-183213	-	クエルプランはこっくりと力なく頷いた。	Quelplan nodded weakly.
+183213	-		クエルプランはこっくりと力なく頷いた。	Quelplan nodded weakly.
 
-183214	-	こうして、今回もまた、クエルプランはランスの手によって、	And so, once again, Rance easily made Quelplan cum hard
-183215	+	あっさりとイカされてしまうのだった。	with his dominating cock.
+183214	-		こうして、今回もまた、クエルプランはランスの手によって、	And so, once again, Rance easily made Quelplan cum hard
+183215	+		あっさりとイカされてしまうのだった。	with his dominating cock.
 
-183216	-	…………	............
+183216	-		…………	............
 
-183217	-	……	...
+183217	-		……	...
 
-183218	Rance	「ぷはーっ、すっきりすっきりー」	「Pwaah, so refreshing!」
+183218	Rance	全裸／笑顔	「ぷはーっ、すっきりすっきりー」	「Pwaah, so refreshing!」
 
-183219	Rance	「おう、クエルプランちゃんも良かっただろ？」	「Hey, felt good for you too, right Quelplan-chan?」
+183219	Rance	全裸	「おう、クエルプランちゃんも良かっただろ？」	「Hey, felt good for you too, right Quelplan-chan?」
 
-183220	Quelplan	「…………」	「............」
+183220	Quelplan	逆光	「…………」	「............」
 
-183221	Rance	「？　おーい、話聞いてるかー？」	「? Hey, you listening?」
+183221	Rance	基本	「？　おーい、話聞いてるかー？」	「? Hey, you listening?」
 
-183222	Quelplan	「では……では……」	「Then... then...」
+183222	Quelplan	逆光	「では……では……」	「Then... then...」
 
-183223	Quelplan	「これが、本当に……」	「This is really...」
+183223	Quelplan		「これが、本当に……」	「This is really...」
 
-183224	Quelplan	「……恋？」	「...Love?」
+183224	Quelplan		「……恋？」	「...Love?」
 
-183225	Quelplan	「………………」	「............」
+183225	Quelplan		「………………」	「............」
 
-183226	Rance	「クエルプラン？」	「Quelplan?」
+183226	Rance	基本	「クエルプラン？」	「Quelplan?」
 
-183227	-	ランスが近づくと、発光が止まった。	When Rance approached, her glow stopped.
+183227	-		ランスが近づくと、発光が止まった。	When Rance approached, her glow stopped.
 
-183228	Quelplan	「あっ……」	「Ah...」
+183228	Quelplan		「あっ……」	「Ah...」
 
-183229	Quelplan	「あ、あ、あ」	「A, a, a」
+183229	Quelplan		「あ、あ、あ」	「A, a, a」
 
-183230	Rance	「どどど、どうした？」	「W-w-what's wrong?」
+183230	Rance		「どどど、どうした？」	「W-w-what's wrong?」
 
-183231	Quelplan	「………………あ」	「............Ah」
+183231	Quelplan		「………………あ」	「............Ah」
 
-183232	Quelplan	「こ、れ、で……失礼、しま、す……」	「W-with this... excuse me...」
+183232	Quelplan		「こ、れ、で……失礼、しま、す……」	「W-with this... excuse me...」
 
-183233	Rance	「あっ！　おい！」	「Ah! Hey!」
+183233	Rance		「あっ！　おい！」	「Ah! Hey!」
 
-183234	-	スーッとクエルプランは姿を消した。	Quelplan vanished smoothly.
+183234	-		スーッとクエルプランは姿を消した。	Quelplan vanished smoothly.
 
-183235	Rance	「…………」	「............」
+183235	Rance	全裸／真剣	「…………」	「............」
 
-183236	Rance	「くくく、アレは俺に惚れてるな」	「Heh heh heh, she's totally fallen for me.」
+183236	Rance	全裸／エロ顔	「くくく、アレは俺に惚れてるな」	「Heh heh heh, she's totally fallen for me.」
 
-183237	Sill Plain	「きゃーーーー！？	「Kyaaaa!?」
-183238	+	　ららら、ランス様！？」	　R-Rance-sama!?」
+183237	Sill Plain	基本	「きゃーーーー！？	「Kyaaaa!?」
+183238	+		　ららら、ランス様！？」	　R-Rance-sama!?」
 
-183239	Rance	「……ん？」	「...Nn?」
+183239	Rance	全裸／だる顔	「……ん？」	「...Nn?」
 
-183240	Rance	「おおっ、戻ってきたのか」	「Oh, I'm back.」
+183240	Rance	全裸	「おおっ、戻ってきたのか」	「Oh, I'm back.」
 
-183241	Sill Plain	「どどど、どうして裸なんですか！？」	「W-why are you naked!?」
+183241	Sill Plain	基本	「どどど、どうして裸なんですか！？」	「W-why are you naked!?」
 
-183242	Bezeleye	「私が瞬きした一瞬の間に、	「In the time it took me to blink,
-183243	+	　気づけば裸になっていたわ……	　you were already naked...
-183244	+	　早脱ぎの腕を上げたのね、ランス君」	　You've improved your instant stripping, Rance-kun.」
+183242	Bezeleye		「私が瞬きした一瞬の間に、	「In the time it took me to blink,
+183243	+		　気づけば裸になっていたわ……	　you were already naked...
+183244	+		　早脱ぎの腕を上げたのね、ランス君」	　You've improved your instant stripping, Rance-kun.」
 
-183245	Rance	「なんだ、大して時間経ってないのか。	「Huh, not much time passed.
-183246	+	　やー、神様ってのは不思議だなぁ」	　Man, gods are weird.」
+183245	Rance	全裸	「なんだ、大して時間経ってないのか。	「Huh, not much time passed.
+183246	+		　やー、神様ってのは不思議だなぁ」	　Man, gods are weird.」
 
-183247	Sill Plain	「……へ？」	「...Eh?」
+183247	Sill Plain	基本	「……へ？」	「...Eh?」
 
-183248	Rance	「がはははははははは！	「Gahahahahaha!
-183249	+	　クエルプランちゃんか！	　It's Quelplan-chan!
-183250	+	　また今度会ったら可愛がってやるか！」	　Next time I see her I'll spoil her good!」
+183248	Rance	全裸／笑顔	「がはははははははは！	「Gahahahahaha!
+183249	+		　クエルプランちゃんか！	　It's Quelplan-chan!
+183250	+		　また今度会ったら可愛がってやるか！」	　Next time I see her I'll spoil her good!」
 
-183251	Sill Plain	「ら、ランス様……？」	「R-Rance-sama...?」
+183251	Sill Plain	ぽか〜ん	「ら、ランス様……？」	「R-Rance-sama...?」
 
-183252	Bezeleye	「ランス君……	「Rance-kun...
-183253	+	　総統閣下をやるストレスで遂に……」	　The stress of being Supreme Leader finally got to you...」
+183252	Bezeleye	基本	「ランス君……	「Rance-kun...
+183253	+		　総統閣下をやるストレスで遂に……」	　The stress of being Supreme Leader finally got to you...」
 
-183254	Rance	「失礼なことを言うな。	「Don't say rude things.
-183255	+	　さ、冒険に戻るぞー」	　Alright, back to adventuring!」
+183254	Rance	全裸／だる顔	「失礼なことを言うな。	「Don't say rude things.
+183255	+		　さ、冒険に戻るぞー」	　Alright, back to adventuring!」
 
-183256	Bezeleye	「先に服着なさいって」	「Put your clothes on first.」
+183256	Bezeleye	基本	「先に服着なさいって」	「Put your clothes on first.」

@@ -3,162 +3,162 @@
 * Heidi Pankrau	ハイジ	Female
 * Mill Yorks	ミル	Female
 
-15793	Eleanor Ran	「ミルの部屋、確かこの辺り…………あら」	「Mill's room should be around here............ oh.」
+15793	Eleanor Ran	基本	「ミルの部屋、確かこの辺り…………あら」	「Mill's room should be around here............ oh.」
 
-15794	Heidi Pankrau	「よいしょ、よいしょ……」	「Heave ho, heave ho......」
+15794	Heidi Pankrau		「よいしょ、よいしょ……」	「Heave ho, heave ho......」
 
-15795	-	ミルの部屋から、大量の洗濯物を抱えた	A maid carrying a huge pile of laundry
-15796	+	メイドが出てきた。	came out of Mill's room.
+15795	-		ミルの部屋から、大量の洗濯物を抱えた	A maid carrying a huge pile of laundry
+15796	+		メイドが出てきた。	came out of Mill's room.
 
-15797	Eleanor Ran	「こんにちは、お疲れ様です。お洗濯ですか？」	「Hello, good work. Doing laundry?」
+15797	Eleanor Ran		「こんにちは、お疲れ様です。お洗濯ですか？」	「Hello, good work. Doing laundry?」
 
-15798	Heidi Pankrau	「あっ、ええと、都市長の……ラン様」	「Ah, um, Mayor...... Ran-sama.」
+15798	Heidi Pankrau		「あっ、ええと、都市長の……ラン様」	「Ah, um, Mayor...... Ran-sama.」
 
-15799	Eleanor Ran	「ああ、畏まらないでください。	「Ah, no need to be so formal.
-15800	+	　ミルは中に？」	　Is Mill inside?」
+15799	Eleanor Ran		「ああ、畏まらないでください。	「Ah, no need to be so formal.
+15800	+		　ミルは中に？」	　Is Mill inside?」
 
-15801	Heidi Pankrau	「ええ、ぐったりというかぐっすりというか」	「Yes, she's either exhausted or sound asleep.」
+15801	Heidi Pankrau		「ええ、ぐったりというかぐっすりというか」	「Yes, she's either exhausted or sound asleep.」
 
-15802	Eleanor Ran	「また夜更かししたのかしら……あら？」	「Stayed up late again...... oh?」
+15802	Eleanor Ran		「また夜更かししたのかしら……あら？」	「Stayed up late again...... oh?」
 
-15803	-	ふと、ランの目に、ひとつの下着が留まった。	Suddenly, one piece of underwear caught Ran's eye.
+15803	-		ふと、ランの目に、ひとつの下着が留まった。	Suddenly, one piece of underwear caught Ran's eye.
 
-15804	Eleanor Ran	「これ……男物……？」	「This...... is men's......?」
+15804	Eleanor Ran		「これ……男物……？」	「This...... is men's......?」
 
-15805	Heidi Pankrau	「ああ、ご主人様のですねー。	「Ah, that's Master's.
-15806	+	　それ、こっち貰います。ぺいっと」	I'll take that. Whoosh.」
+15805	Heidi Pankrau		「ああ、ご主人様のですねー。	「Ah, that's Master's.
+15806	+		　それ、こっち貰います。ぺいっと」	I'll take that. Whoosh.」
 
-15807	-	別添えの小さめの篭にランスの下着が放り込まれた。	Rance's underwear was tossed into a smaller basket.
+15807	-		別添えの小さめの篭にランスの下着が放り込まれた。	Rance's underwear was tossed into a smaller basket.
 
-15808	Eleanor Ran~	（なんでこんなものがミルの部屋に……	(Why is something like this in Mill's room......
-15809	+	　いえ、なんで、なんて考える必要は……っ……）	No, I don't need to think about why......)
+15808	Eleanor Ran~	警戒	（なんでこんなものがミルの部屋に……	(Why is something like this in Mill's room......
+15809	+		　いえ、なんで、なんて考える必要は……っ……）	No, I don't need to think about why......)
 
-15810	Heidi Pankrau	「やー、最近の若い子はすごいですねー。	「Wow, young people these days are amazing.
-15811	+	　あのご主人様をムリヤリ	They drag Master into their room by force
-15812	+	　連れ込んじゃうんですから」	and all.」
+15810	Heidi Pankrau	基本	「やー、最近の若い子はすごいですねー。	「Wow, young people these days are amazing.
+15811	+		　あのご主人様をムリヤリ	They drag Master into their room by force
+15812	+		　連れ込んじゃうんですから」	and all.」
 
-15813	Eleanor Ran	「……………………えっ」	「........................ Eh?」
+15813	Eleanor Ran		「……………………えっ」	「........................ Eh?」
 
-15814	Heidi Pankrau	「昨夜は廊下で大騒ぎでしたよ、ホント。	「There was a huge commotion in the hallway last night.
-15815	+	　聞きつけた人がうろつくから、	People came to check what was going on,
-15816	+	　パンも……っと、おとと」	so the bread...... whoops.」
+15814	Heidi Pankrau	知らんし	「昨夜は廊下で大騒ぎでしたよ、ホント。	「There was a huge commotion in the hallway last night.
+15815	+		　聞きつけた人がうろつくから、	People came to check what was going on,
+15816	+		　パンも……っと、おとと」	so the bread...... whoops.」
 
-15817	Eleanor Ran	「あの……逆ではなく？」	「Um...... wasn't it the other way around?」
+15817	Eleanor Ran	つらい	「あの……逆ではなく？」	「Um...... wasn't it the other way around?」
 
-15818	Heidi Pankrau	「はい？　ええ、ご主人様は	「Hm? Yes, Master was
-15819	+	　別の部屋行こうとしてたみたいですから……」	trying to go to another room......」
+15818	Heidi Pankrau	基本	「はい？　ええ、ご主人様は	「Hm? Yes, Master was
+15819	+		　別の部屋行こうとしてたみたいですから……」	trying to go to another room......」
 
-15820	Eleanor Ran	「……………………っ……」	「........................」
+15820	Eleanor Ran	警戒	「……………………っ……」	「........................」
 
-15821	Heidi Pankrau	「ひっ！？　な、なにかまずい事言いました？」	「Hii!? D-did I say something wrong?」
+15821	Heidi Pankrau	ビクゥ！	「ひっ！？　な、なにかまずい事言いました？」	「Hii!? D-did I say something wrong?」
 
-15822	Eleanor Ran	「いえ……失礼します」	「No...... excuse me.」
+15822	Eleanor Ran	警戒	「いえ……失礼します」	「No...... excuse me.」
 
-15823	-	そのまま、ランはミルの部屋に入っていった。	With that, Ran entered Mill's room.
+15823	-		そのまま、ランはミルの部屋に入っていった。	With that, Ran entered Mill's room.
 
-15824	Heidi Pankrau	「はーー……こ、怖かった……」	「Haa...... t-that was scary......」
+15824	Heidi Pankrau	脂汗	「はーー……こ、怖かった……」	「Haa...... t-that was scary......」
 
-15825	Mill Yorks	「んー、はあぁぁ……腰、いったぁ……」	「Nngh, haaa...... my hips are killing me......」
+15825	Mill Yorks	泣	「んー、はあぁぁ……腰、いったぁ……」	「Nngh, haaa...... my hips are killing me......」
 
-15826	Eleanor Ran	「ミル！」	「Mill!」
+15826	Eleanor Ran	警戒	「ミル！」	「Mill!」
 
-15827	Mill Yorks	「あれ？　ランねーちゃん。	「Huh? Ran-neechan.
-15828	+	　どーしたの？」	What's up?」
+15827	Mill Yorks	基本	「あれ？　ランねーちゃん。	「Huh? Ran-neechan.
+15828	+		　どーしたの？」	What's up?」
 
-15829	-	ミルは気怠げに、ベッドに寝転がっていた。	Mill was lying lazily on the bed.
+15829	-		ミルは気怠げに、ベッドに寝転がっていた。	Mill was lying lazily on the bed.
 
-15830	Eleanor Ran	「どうした、って、あなた、ランスさんと……！」	「What's up? You and Rance......!」
+15830	Eleanor Ran	警戒	「どうした、って、あなた、ランスさんと……！」	「What's up? You and Rance......!」
 
-15831	Mill Yorks	「ああ、セックス？」	「Ah, you mean the sex?」
+15831	Mill Yorks	基本	「ああ、セックス？」	「Ah, you mean the sex?」
 
-15832	Eleanor Ran	「っ……ま、まだ早いでしょう！	「......It's still too early!
-15833	+	　何してるの！」	What are you doing!」
+15832	Eleanor Ran	警戒	「っ……ま、まだ早いでしょう！	「......It's still too early!
+15833	+		　何してるの！」	What are you doing!」
 
-15834	Mill Yorks	「えー、早くないよー。	「Ehh, it's not too early.
-15835	+	　これ自由恋愛だよ、自由恋愛。	This is free love, free love.
-15836	+	　自分のことは自分で決めるって」	You decide your own stuff.」
+15834	Mill Yorks	基本	「えー、早くないよー。	「Ehh, it's not too early.
+15835	+		　これ自由恋愛だよ、自由恋愛。	This is free love, free love.
+15836	+		　自分のことは自分で決めるって」	You decide your own stuff.」
 
-15837	Eleanor Ran	「っ……だとしても……ランスは、止めなさい。	「......Even so...... stop with Rance.
-15838	+	　だって……だって、あの男は……！」	Because...... that man is......!」
+15837	Eleanor Ran	つらい	「っ……だとしても……ランスは、止めなさい。	「......Even so...... stop with Rance.
+15838	+		　だって……だって、あの男は……！」	Because...... that man is......!」
 
-15839	Mill Yorks	「あー……あの話かあ…………」	「Ah...... that story......」
+15839	Mill Yorks	怒	「あー……あの話かあ…………」	「Ah...... that story......」
 
-15840	-	ミルはベッドの上で座り直して、	Mill sat up on the bed
-15841	+	思案する表情で頭を掻いた。	and scratched her head thoughtfully.
+15840	-		ミルはベッドの上で座り直して、	Mill sat up on the bed
+15841	+		思案する表情で頭を掻いた。	and scratched her head thoughtfully.
 
-15842	Mill Yorks	「…………んー。もう言っちゃっていいか。	「......Mm. I guess I can say it now.
-15843	+	　その話、嘘だよ」	　That story is a lie.」
+15842	Mill Yorks	基本	「…………んー。もう言っちゃっていいか。	「......Mm. I guess I can say it now.
+15843	+		　その話、嘘だよ」	　That story is a lie.」
 
-15844	Eleanor Ran	「………………は？　何を、言って……」	「............Huh? What are you......」
+15844	Eleanor Ran		「………………は？　何を、言って……」	「............Huh? What are you......」
 
-15845	Mill Yorks	「ランスがランに言うなりにならないと、	「Rance told you that if you don't obey him,
-15846	+	　私とかを殺すー、とか言ってる奴でしょ？」	　he'll kill me and the others, right?」
+15845	Mill Yorks		「ランスがランに言うなりにならないと、	「Rance told you that if you don't obey him,
+15846	+		　私とかを殺すー、とか言ってる奴でしょ？」	　he'll kill me and the others, right?」
 
-15847	Mill Yorks	「おかしくない？　ランスが女の子殺すー、とか。	「Isn't that weird? Rance killing girls?
-15848	+	　やるわけないじゃん」	　No way he'd do that.」
+15847	Mill Yorks		「おかしくない？　ランスが女の子殺すー、とか。	「Isn't that weird? Rance killing girls?
+15848	+		　やるわけないじゃん」	　No way he'd do that.」
 
-15849	Eleanor Ran	「っ……それ、は……	「......But......
-15850	+	　でも、飽きたからもう、って……」	　he said once he got bored......」
+15849	Eleanor Ran	つらい	「っ……それ、は……	「......But......
+15850	+		　でも、飽きたからもう、って……」	　he said once he got bored......」
 
-15851	Mill Yorks	「志津香……はともかく、	「Shizuka aside,
-15852	+	　マリアとか襲いまくってるよ？	　he's still assaulting Maria all the time?
-15853	+	　すぐ分かると思うけど」	　You'd notice right away.」
+15851	Mill Yorks	基本	「志津香……はともかく、	「Shizuka aside,
+15852	+		　マリアとか襲いまくってるよ？	　he's still assaulting Maria all the time?
+15853	+		　すぐ分かると思うけど」	　You'd notice right away.」
 
-15854	Eleanor Ran	「あ……………っ、え、そんな……」	「Ah............ ehh, no way......」
+15854	Eleanor Ran		「あ……………っ、え、そんな……」	「Ah............ ehh, no way......」
 
-15855	Mill Yorks	「ランねーちゃんとセックスする為の方便だって。	「It was just an excuse to have sex with you, Ran-neechan.
-15856	+	　ランスならそのくらいの嘘、幾らでも吐くじゃん」	　Rance can lie like that easily.」
+15855	Mill Yorks		「ランねーちゃんとセックスする為の方便だって。	「It was just an excuse to have sex with you, Ran-neechan.
+15856	+		　ランスならそのくらいの嘘、幾らでも吐くじゃん」	　Rance can lie like that easily.」
 
-15857	Eleanor Ran	「あ……………あ、あ……」	「Ah............ a, ah......」
+15857	Eleanor Ran	つらい	「あ……………あ、あ……」	「Ah............ a, ah......」
 
-15858	-	がらがらと、何かが崩壊していく音がした……	It felt like something was crumbling down......
-15859	+	ような気がした。	
+15858	-		がらがらと、何かが崩壊していく音がした……	It felt like something was crumbling down......
+15859	+		ような気がした。	
 
-15860	Eleanor Ran	「え、じゃ、じゃあ、本当に……？	「Ehh, then, it really was......?
-15861	+	　わ、私……わた、し…………」	　I...... I......」
+15860	Eleanor Ran	泣き	「え、じゃ、じゃあ、本当に……？	「Ehh, then, it really was......?
+15861	+		　わ、私……わた、し…………」	　I...... I......」
 
-15862	Mill Yorks	「あの時のラン、おかしかったもん。	「You were acting really weird back then.
-15863	+	　フラッと自殺とかしちゃいそうだった」	　Like you might suddenly commit suicide.」
+15862	Mill Yorks	基本	「あの時のラン、おかしかったもん。	「You were acting really weird back then.
+15863	+		　フラッと自殺とかしちゃいそうだった」	　Like you might suddenly commit suicide.」
 
-15864	Eleanor Ran	「そ、そんな事は……！」	「N-no way......!」
+15864	Eleanor Ran		「そ、そんな事は……！」	「N-no way......!」
 
-15865	Mill Yorks	「ない、って言い切れる？　する事が無くなって……	「Can you really say that? With nothing left to do......
-15866	+	　元気までなくなっちゃって。	　you lost all your energy.
-15867	+	　私たち、心配したんだよ？」	　We were really worried.」
+15865	Mill Yorks	怒	「ない、って言い切れる？　する事が無くなって……	「Can you really say that? With nothing left to do......
+15866	+		　元気までなくなっちゃって。	　you lost all your energy.
+15867	+		　私たち、心配したんだよ？」	　We were really worried.」
 
-15868	Eleanor Ran	「っ…………それ、は」	「......That is......」
+15868	Eleanor Ran	つらい	「っ…………それ、は」	「......That is......」
 
-15869	Mill Yorks	「ランスがランねーちゃんを困らせるの、	「Rance wasn't happy about troubling you,
-15870	+	　喜んでた訳じゃないけど」	　but......」
+15869	Mill Yorks	基本	「ランスがランねーちゃんを困らせるの、	「Rance wasn't happy about troubling you,
+15870	+		　喜んでた訳じゃないけど」	　but......」
 
-15871	Mill Yorks	「でも……あんな様子よりは、いいかって……	「But...... it seemed better than how you were......
-15872	+	　いつか他の目標が見つかるまでは、って……」	　until you found another purpose......」
+15871	Mill Yorks		「でも……あんな様子よりは、いいかって……	「But...... it seemed better than how you were......
+15872	+		　いつか他の目標が見つかるまでは、って……」	　until you found another purpose......」
 
-15873	Eleanor Ran~	（私……私、そんなに……そこまで……？）	(Was I...... really that...... broken......?)
+15873	Eleanor Ran~	つらい	（私……私、そんなに……そこまで……？）	(Was I...... really that...... broken......?)
 
-15874	Mill Yorks	「けど、今とかそれどころじゃないし。	「But now's not the time for that.
-15875	+	　だからねーちゃんも、もう気にする必要ないよ」	　So you don't need to worry anymore.」
+15874	Mill Yorks	基本	「けど、今とかそれどころじゃないし。	「But now's not the time for that.
+15875	+		　だからねーちゃんも、もう気にする必要ないよ」	　So you don't need to worry anymore.」
 
-15876	Eleanor Ran	「そっか…………そう、なんだ……」	「I see............ so that's how it is......」
+15876	Eleanor Ran	泣き	「そっか…………そう、なんだ……」	「I see............ so that's how it is......」
 
-15877	Mill Yorks	「その……ショックだった？」	「Um...... are you shocked?」
+15877	Mill Yorks	基本	「その……ショックだった？」	「Um...... are you shocked?」
 
-15878	Eleanor Ran	「そう……ね、驚いてる……	「Yeah...... I'm surprised......
-15879	+	　少し……落ち着いて、考えてみる……」	　I'll calm down...... and think about it......」
+15878	Eleanor Ran	つらい	「そう……ね、驚いてる……	「Yeah...... I'm surprised......
+15879	+		　少し……落ち着いて、考えてみる……」	　I'll calm down...... and think about it......」
 
-15880	Mill Yorks	「うん。私たちは大丈夫だから。ね」	「Yeah. We're fine. Okay?」
+15880	Mill Yorks	基本	「うん。私たちは大丈夫だから。ね」	「Yeah. We're fine. Okay?」
 
-15881	Eleanor Ran	「…………ん」	「............Mm.」
+15881	Eleanor Ran		「…………ん」	「............Mm.」
 
-15882	-	ランは表情を作れないまま、	Unable to form a proper expression,
-15883	+	頷いて踵を返した。	Ran nodded and turned away.
+15882	-		ランは表情を作れないまま、	Unable to form a proper expression,
+15883	+		頷いて踵を返した。	Ran nodded and turned away.
 
-15884	Mill Yorks	「ちょっと休んだ方が良いよ」	「You should rest a bit.」
+15884	Mill Yorks		「ちょっと休んだ方が良いよ」	「You should rest a bit.」
 
-15885	Eleanor Ran	「…………うん」	「............Yeah.」
+15885	Eleanor Ran		「…………うん」	「............Yeah.」
 
-15886	Eleanor Ran	「…………あ。それはそれとして。	「............Oh. That aside.
-15887	+	　貞操観念はしっかり持ちなさい。	　You should have proper chastity values.
-15888	+	　手当たり次第にいやらしいのはダメ」	　Sleeping around randomly is not okay.」
+15886	Eleanor Ran	警戒	「…………あ。それはそれとして。	「............Oh. That aside.
+15887	+		　貞操観念はしっかり持ちなさい。	　You should have proper chastity values.
+15888	+		　手当たり次第にいやらしいのはダメ」	　Sleeping around randomly is not okay.」
 
-15889	Mill Yorks	「うっ、誤魔化せたと思ったのにー！」	「Ugh, I thought I fooled you!」
+15889	Mill Yorks	驚	「うっ、誤魔化せたと思ったのにー！」	「Ugh, I thought I fooled you!」

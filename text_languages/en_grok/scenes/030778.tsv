@@ -4,81 +4,81 @@
 * King Mitsubishi	三菱王	Male
 * Sill Plain	シィル	Female
 
-30909	-	その日も、ランス砦はひっそりと、	That day too, Rance Fortress stood quietly,
-30910	+	外部の者に気づかれることなく佇んでいた。	unnoticed by the outside world.
+30909	-		その日も、ランス砦はひっそりと、	That day too, Rance Fortress stood quietly,
+30910	+		外部の者に気づかれることなく佇んでいた。	unnoticed by the outside world.
 
-30911	Rance	「さーて、今日は何を…………お？」	「Now then, what to do today... oh?」
+30911	Rance	基本	「さーて、今日は何を…………お？」	「Now then, what to do today... oh?」
 
-30912	Urza Pranaice	「ではこちらのルートは？」	「Then what about this route?」
+30912	Urza Pranaice	真剣	「ではこちらのルートは？」	「Then what about this route?」
 
-30913	King Mitsubishi	「……難しいな。そちらのルートは一度、	「...Difficult. That route was once
-30914	+	　モグラミミズに荒らされたことがあってな。	　ravaged by mole earthworms.
-30915	+	　安全ではない」	　It's not safe.」
+30913	King Mitsubishi	ため息	「……難しいな。そちらのルートは一度、	「...Difficult. That route was once
+30914	+		　モグラミミズに荒らされたことがあってな。	　ravaged by mole earthworms.
+30915	+		　安全ではない」	　It's not safe.」
 
-30916	Urza Pranaice	「それは……では使えませんね。	「I see... then we can't use it.
-30917	+	　だとすると…………」	　In that case...」
+30916	Urza Pranaice	真剣	「それは……では使えませんね。	「I see... then we can't use it.
+30917	+		　だとすると…………」	　In that case...」
 
-30918	Rance	「ウルザちゃんがなんか小人ジジイと話してるな」	「Urza is talking to some short old man.」
+30918	Rance		「ウルザちゃんがなんか小人ジジイと話してるな」	「Urza is talking to some short old man.」
 
-30919	Sill Plain	「三菱王様ですね。ポピンズの……	「That's King Mitsubishi. The Poppins'...
-30920	+	　アニャガス王国の王様、でしたっけ」	　King of Anyagas Kingdom, right?」
+30919	Sill Plain	考え中	「三菱王様ですね。ポピンズの……	「That's King Mitsubishi. The Poppins'...
+30920	+		　アニャガス王国の王様、でしたっけ」	　King of Anyagas Kingdom, right?」
 
-30921	Sill Plain	「東芝王子様のお父様だそうですよ」	「He's Toshiba Prince's father.」
+30921	Sill Plain		「東芝王子様のお父様だそうですよ」	「He's Toshiba Prince's father.」
 
-30922	Urza Pranaice	「あ、総統。お疲れ様です」	「Ah, Supreme Leader. Good work.」
+30922	Urza Pranaice	基本	「あ、総統。お疲れ様です」	「Ah, Supreme Leader. Good work.」
 
-30923	Rance	「なんか作戦か？」	「Some kind of strategy?」
+30923	Rance		「なんか作戦か？」	「Some kind of strategy?」
 
-30924	Urza Pranaice	「作戦というか……そうですね、	「More like a problem...
-30925	+	　少し、困り事が」	　We have a bit of an issue.」
+30924	Urza Pranaice	真剣	「作戦というか……そうですね、	「More like a problem...
+30925	+		　少し、困り事が」	　We have a bit of an issue.」
 
-30926	Sill Plain	「何かあったんですか？」	「Did something happen?」
+30926	Sill Plain	きょとん	「何かあったんですか？」	「Did something happen?」
 
-30927	Urza Pranaice	「この地は堅牢、隠匿性にも長けています。	「This place is sturdy and highly concealable.
-30928	+	　ですが……逆に人が出入りする分には	　However... it's quite difficult
-30929	+	　かなり難しい場所でして」	　for people to enter and exit.」
+30927	Urza Pranaice	真剣	「この地は堅牢、隠匿性にも長けています。	「This place is sturdy and highly concealable.
+30928	+		　ですが……逆に人が出入りする分には	　However... it's quite difficult
+30929	+		　かなり難しい場所でして」	　for people to enter and exit.」
 
-30930	Rance	「そりゃそうだ。	「Of course.
-30931	+	　こんな崖、出入りなんかできんだろ」	　With a cliff like this, it's impossible to come and go.」
+30930	Rance		「そりゃそうだ。	「Of course.
+30931	+		　こんな崖、出入りなんかできんだろ」	　With a cliff like this, it's impossible to come and go.」
 
-30932	Urza Pranaice	「となると、補給ができません。	「That means we can't get supplies.
-30933	+	　決して少なくない量の物資を確保するための、	　We need a way to secure a large amount of supplies.」
-30934	+	　手段が必要なんです」	
+30932	Urza Pranaice		「となると、補給ができません。	「That means we can't get supplies.
+30933	+		　決して少なくない量の物資を確保するための、	　We need a way to secure a large amount of supplies.」
+30934	+		　手段が必要なんです」	
 
-30935	Rance	「…………ふむ。	「............Hmm.
-30936	+	　確かにメシ抜きはやってられん」	　We can't go without food.」
+30935	Rance	だる顔	「…………ふむ。	「............Hmm.
+30936	+		　確かにメシ抜きはやってられん」	　We can't go without food.」
 
-30937	King Mitsubishi	「そこで我らの地下洞窟を使えぬかと打診されてな。	「So they asked if we could use our underground tunnels.
-30938	+	　確かに、我らは大陸中に	　Indeed, we have tunnels spread across the continent.」
-30939	+	　地下洞窟を張り巡らせている」	
+30937	King Mitsubishi	基本	「そこで我らの地下洞窟を使えぬかと打診されてな。	「So they asked if we could use our underground tunnels.
+30938	+		　確かに、我らは大陸中に	　Indeed, we have tunnels spread across the continent.」
+30939	+		　地下洞窟を張り巡らせている」	
 
-30940	Rance	「ほう。なら使わせろ。ケチケチするな」	「Oh. Then let us use them. Don't be stingy.」
+30940	Rance		「ほう。なら使わせろ。ケチケチするな」	「Oh. Then let us use them. Don't be stingy.」
 
-30941	King Mitsubishi	「……だが、こことは繋がっておらぬのだ。	「...But they are not connected to here.
-30942	+	　近い出入り口でも、かなり距離がある」	　Even the nearest entrance is quite far.」
+30941	King Mitsubishi		「……だが、こことは繋がっておらぬのだ。	「...But they are not connected to here.
+30942	+		　近い出入り口でも、かなり距離がある」	　Even the nearest entrance is quite far.」
 
-30943	Urza Pranaice	「隠匿性の優位を考えると、	「Considering the advantage of concealment,
-30944	+	　目に見える形で兵士の大移動などは、	　we want to avoid large visible movements of soldiers.」
-30945	+	　避けたいところです」	
+30943	Urza Pranaice	真剣	「隠匿性の優位を考えると、	「Considering the advantage of concealment,
+30944	+		　目に見える形で兵士の大移動などは、	　we want to avoid large visible movements of soldiers.」
+30945	+		　避けたいところです」	
 
-30946	Rance	「……ふん。掘れるんじゃないのか？	「...Hmph. Can't you just dig?
-30947	+	　お前んとこの息子もそんな事してただろう」	　Your son was doing exactly that.」
+30946	Rance		「……ふん。掘れるんじゃないのか？	「...Hmph. Can't you just dig?
+30947	+		　お前んとこの息子もそんな事してただろう」	　Your son was doing exactly that.」
 
-30948	King Mitsubishi	「む…………まったく東芝め、困った真似を……」	「Mu............ That Toshiba, always causing trouble...」
+30948	King Mitsubishi	ため息	「む…………まったく東芝め、困った真似を……」	「Mu............ That Toshiba, always causing trouble...」
 
-30949	King Mitsubishi	「確かに、地底を掘るのは我らの本領。	「Indeed, digging underground is our specialty.
-30950	+	　無論出来ると言いたいところだが……」	　Of course I'd like to say we can, but...」
+30949	King Mitsubishi	基本	「確かに、地底を掘るのは我らの本領。	「Indeed, digging underground is our specialty.
+30950	+		　無論出来ると言いたいところだが……」	　Of course I'd like to say we can, but...」
 
-30951	Urza Pranaice	「掘れそうなルートを探すのは……	「Finding a route we can dig...
-30952	+	　難しいのですか？」	　is difficult?」
+30951	Urza Pranaice	真剣	「掘れそうなルートを探すのは……	「Finding a route we can dig...
+30952	+		　難しいのですか？」	　is difficult?」
 
-30953	King Mitsubishi	「ひとつ、心当たりがあるにはある。	「There is one possibility I can think of.
-30954	+	　が、岩盤が固くてな。ロクに掘れそうにない」	　But the bedrock is very hard. It won't be easy to dig.
+30953	King Mitsubishi	基本	「ひとつ、心当たりがあるにはある。	「There is one possibility I can think of.
+30954	+		　が、岩盤が固くてな。ロクに掘れそうにない」	　But the bedrock is very hard. It won't be easy to dig.
 
-30955	King Mitsubishi	「不安定な場所でな。東芝のマシンなど、	　It's an unstable area. Toshiba's machines are
-30956	+	　入れるには大きすぎる」	　too big to fit.
+30955	King Mitsubishi		「不安定な場所でな。東芝のマシンなど、	　It's an unstable area. Toshiba's machines are
+30956	+		　入れるには大きすぎる」	　too big to fit.
 
-30957	King Mitsubishi	「岩盤さえクリアできれば、	　If we can clear the bedrock,
-30958	+	　あとはこことそこを繋げるだけなのだが……」	　we just need to connect here to there...」
+30957	King Mitsubishi		「岩盤さえクリアできれば、	　If we can clear the bedrock,
+30958	+		　あとはこことそこを繋げるだけなのだが……」	　we just need to connect here to there...」
 
-30959	Rance	「ふーむ…………」	「Hmmm............」
+30959	Rance	真剣	「ふーむ…………」	「Hmmm............」

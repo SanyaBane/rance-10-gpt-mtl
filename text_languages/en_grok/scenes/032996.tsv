@@ -3,79 +3,79 @@
 * Reset Kalar	リセット２	Female
 * Nagata-kun	長田君２	Male
 
-192382	Mix Tou	「あ、なに勝手に入ってきてんのよ？」	「Ah, what are you doing barging in?」
+192382	Mix Tou	基本	「あ、なに勝手に入ってきてんのよ？」	「Ah, what are you doing barging in?」
 
-192383	Reset Kalar	「あれ？　＜エール＞ちゃんと長田君、いらっしゃい」	「Oh? ＜エール＞-chan and Nagata, welcome.」
+192383	Reset Kalar	口開き	「あれ？　＜エール＞ちゃんと長田君、いらっしゃい」	「Oh? ＜エール＞-chan and Nagata, welcome.」
 
-192384	-	ミックスのテントに入ると、	When you entered Mix's tent,
-192385	+	中にはミックスとリセットがいた。	Mix and Reset were inside.
+192384	-		ミックスのテントに入ると、	When you entered Mix's tent,
+192385	+		中にはミックスとリセットがいた。	Mix and Reset were inside.
 
-192386	Nagata-kun	「って、ぷわっ！　薬品くちゃい！」	「Whoa, pwaah! It smells like chemicals!」
+192386	Nagata-kun	基本	「って、ぷわっ！　薬品くちゃい！」	「Whoa, pwaah! It smells like chemicals!」
 
-192387	Mix Tou	「っさいわね。	「Shut it.
-192388	+	　そう思うなら出て行きなさいよ」	　If you don't like it, leave.」
+192387	Mix Tou	呆れ	「っさいわね。	「Shut it.
+192388	+		　そう思うなら出て行きなさいよ」	　If you don't like it, leave.」
 
-192389	-	あなた達の来訪を、	Mix looked quite annoyed
-192390	+	ミックスはなんとも面倒そうにしていた。	at your visit.
+192389	-		あなた達の来訪を、	Mix looked quite annoyed
+192390	+		ミックスはなんとも面倒そうにしていた。	at your visit.
 
-192391	Nagata-kun	「って、何してるん？」	「So, what are you doing?」
+192391	Nagata-kun	基本	「って、何してるん？」	「So, what are you doing?」
 
-192392	Mix Tou	「……学会に提出する論文の制作」	「...Writing a paper for a conference.」
+192392	Mix Tou	呆れ	「……学会に提出する論文の制作」	「...Writing a paper for a conference.」
 
-192393	Nagata-kun	「学会？　魔法の？」	「Conference? Magic one?」
+192393	Nagata-kun	基本	「学会？　魔法の？」	「Conference? Magic one?」
 
-192394	Mix Tou	「……あたし、魔法は使わないわよ」	「...I don't use magic.」
+192394	Mix Tou		「……あたし、魔法は使わないわよ」	「...I don't use magic.」
 
-192395	Mix Tou	「あたしの属している医学会よ。	「It's the medical society I belong to.
-192396	+	　研究の徒達が知識を共有し発表しあう場」	　A place where researchers share and present knowledge.」
+192395	Mix Tou	我関せず	「あたしの属している医学会よ。	「It's the medical society I belong to.
+192396	+		　研究の徒達が知識を共有し発表しあう場」	　A place where researchers share and present knowledge.」
 
-192397	Nagata-kun	「へー、そんなのあるんだ、	「Heh, there's something like that,
-192398	+	　ちっとも知らなかった」	　I had no idea.」
+192397	Nagata-kun	基本	「へー、そんなのあるんだ、	「Heh, there's something like that,
+192398	+		　ちっとも知らなかった」	　I had no idea.」
 
-192399	Mix Tou	「数年前にあたしが作ったんだからそりゃそうよ。	「I made it a few years ago, so of course.
-192400	+	　学会員、参加人数もまだ数百人にも満たないしね」	　We still only have a few hundred members.」
+192399	Mix Tou	我関せず	「数年前にあたしが作ったんだからそりゃそうよ。	「I made it a few years ago, so of course.
+192400	+		　学会員、参加人数もまだ数百人にも満たないしね」	　We still only have a few hundred members.」
 
-192401	Nagata-kun	「学会を作った！？」	「You created a whole society!?」
+192401	Nagata-kun	基本	「学会を作った！？」	「You created a whole society!?」
 
-192402	Mix Tou	「……この世の中にはね、	「...In this world,
-192403	+	　知識を独占しよーって下らない奴らもいるのよ」	　there are pathetic people who try to monopolize knowledge.」
+192402	Mix Tou		「……この世の中にはね、	「...In this world,
+192403	+		　知識を独占しよーって下らない奴らもいるのよ」	　there are pathetic people who try to monopolize knowledge.」
 
-192404	Mix Tou	「医療の知識を独占できれば、	「If you monopolize medical knowledge,
-192405	+	　今後その権威は留まることなく膨れ上がるからね」	　that authority will keep growing endlessly.」
+192404	Mix Tou		「医療の知識を独占できれば、	「If you monopolize medical knowledge,
+192405	+		　今後その権威は留まることなく膨れ上がるからね」	　that authority will keep growing endlessly.」
 
-192406	Mix Tou	「で、そういう奴らとは無関係に	「So, to operate independently from them,
-192407	+	　活動する為の場所が求められていてね、	　we needed a place,
-192408	+	　それで作っただけ」	　that's why I made it.」
+192406	Mix Tou	呆れ	「で、そういう奴らとは無関係に	「So, to operate independently from them,
+192407	+		　活動する為の場所が求められていてね、	　we needed a place,
+192408	+		　それで作っただけ」	　that's why I made it.」
 
-192409	Nagata-kun	「学会って作れるものなんだ……」	「You can just make a society...」
+192409	Nagata-kun	基本	「学会って作れるものなんだ……」	「You can just make a society...」
 
-192410	Mix Tou	「有志が集まってあーだこーだ研究成果を	「It's just volunteers gathering to present research results.
-192411	+	　発表するだけの場だもの、そりゃ作れるわよ」	　Of course you can make one.」
+192410	Mix Tou	呆れ	「有志が集まってあーだこーだ研究成果を	「It's just volunteers gathering to present research results.
+192411	+		　発表するだけの場だもの、そりゃ作れるわよ」	　Of course you can make one.」
 
-192412	Mix Tou	「ま、作ったと言っても、	「Well, even if I say I made it,
-192413	+	　ほとんど姉さんに任せたみたいなもんだけどね」	　I mostly left it to my sister.」
+192412	Mix Tou	基本	「ま、作ったと言っても、	「Well, even if I say I made it,
+192413	+		　ほとんど姉さんに任せたみたいなもんだけどね」	　I mostly left it to my sister.」
 
-192414	Reset Kalar	「えへへ、そんなこともあったねー」	「Ehehe, that did happen~」
+192414	Reset Kalar		「えへへ、そんなこともあったねー」	「Ehehe, that did happen~」
 
-192415	Mix Tou	「前にチラッと話した姉さん、志津香さん、ナギと	「The sister I mentioned before, with Shizuka and Nagi,
-192416	+	　一緒に冒険したときの見返りとしてね、	　as thanks for adventuring together,
-192417	+	　学会設立の手伝いを姉さんに頼んだの」	　I asked my sister to help set up the society.」
+192415	Mix Tou	我関せず	「前にチラッと話した姉さん、志津香さん、ナギと	「The sister I mentioned before, with Shizuka and Nagi,
+192416	+		　一緒に冒険したときの見返りとしてね、	　as thanks for adventuring together,
+192417	+		　学会設立の手伝いを姉さんに頼んだの」	　I asked my sister to help set up the society.」
 
-192418	Mix Tou	「姉さん、アホみたいに顔広いやら、	「My sister has ridiculous connections,
-192419	+	　適材適所を任せる目はあるやらで、	　and an eye for placing people perfectly,
-192420	+	　沢山の有力な医者とのパイプ作ってくれたわ」	　so she built pipes with many influential doctors.」
+192418	Mix Tou		「姉さん、アホみたいに顔広いやら、	「My sister has ridiculous connections,
+192419	+		　適材適所を任せる目はあるやらで、	　and an eye for placing people perfectly,
+192420	+		　沢山の有力な医者とのパイプ作ってくれたわ」	　so she built pipes with many influential doctors.」
 
-192421	Reset Kalar	「私は人を紹介しただけだよ。	「I only introduced people.
-192422	+	　みんなは、ミックスちゃんがやるって言うから	　Everyone just came because Mix said she'd do it.」
-192423	+	　ついてきてくれただけで」	
+192421	Reset Kalar	基本	「私は人を紹介しただけだよ。	「I only introduced people.
+192422	+		　みんなは、ミックスちゃんがやるって言うから	　Everyone just came because Mix said she'd do it.」
+192423	+		　ついてきてくれただけで」	
 
-192424	Mix Tou	「ま、学会の運営自体は	「Well, I left the actual operation
-192425	+	　もう他の人に任せてるんだけどね」	　to others now.」
+192424	Mix Tou	我関せず	「ま、学会の運営自体は	「Well, I left the actual operation
+192425	+		　もう他の人に任せてるんだけどね」	　to others now.」
 
-192426	Nagata-kun	「…………」	「............」
+192426	Nagata-kun	基本	「…………」	「............」
 
-192427	Mix Tou	「……あによ？」	「...What?」
+192427	Mix Tou		「……あによ？」	「...What?」
 
-192428	Nagata-kun	「ミックスは小っこいのに立派だなぁ」	「Mix is tiny but really impressive.」
+192428	Nagata-kun		「ミックスは小っこいのに立派だなぁ」	「Mix is tiny but really impressive.」
 
-192429	Mix Tou	「……あ？」	「...Huh?」
+192429	Mix Tou	イラッ	「……あ？」	「...Huh?」

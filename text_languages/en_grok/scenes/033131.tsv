@@ -2,169 +2,169 @@
 * Dark Rance	ダークランス２	Male
 * El Mofus	エール２	Player's choice
 
-206005	Dark Rance	「ん？　＜エール＞か？」	「Hm? Is that you, ＜エール＞?」
+206005	Dark Rance	基本	「ん？　＜エール＞か？」	「Hm? Is that you, ＜エール＞?」
 
-206006	-	あなたの前に現れたのはダークランスだった。	The one who appeared before you was Dark Rance.
+206006	-		あなたの前に現れたのはダークランスだった。	The one who appeared before you was Dark Rance.
 
-206007	Dark Rance	「どうした？　眠れないか？」	「What's wrong? Can't sleep?」
+206007	Dark Rance		「どうした？　眠れないか？」	「What's wrong? Can't sleep?」
 
-206008	-	ダークランスは笑いながら自販機から	Dark Rance laughed as he bought drinks from the vending machine
-206009	+	飲み物を買うと二本持って近づいてきた。	and approached you holding two bottles.
+206008	-		ダークランスは笑いながら自販機から	Dark Rance laughed as he bought drinks from the vending machine
+206009	+		飲み物を買うと二本持って近づいてきた。	and approached you holding two bottles.
 
-206010	Dark Rance	「爆爆茶とレモン谷村どっち飲む？」	「Explosive Tea or Lemon Tanimura, which one do you want?」
-206011	+	「ほいっ。	「Here.
-206012	+	　明日に引きずるなよ？」	　Don't drag it into tomorrow, okay?」
+206010	Dark Rance		「爆爆茶とレモン谷村どっち飲む？」	「Explosive Tea or Lemon Tanimura, which one do you want?」
+206011	+	安心	「ほいっ。	「Here.
+206012	+		　明日に引きずるなよ？」	　Don't drag it into tomorrow, okay?」
 
-206013	-	あなたは放り投げられた爆爆茶を受け取る。	You catch the Explosive Tea he tossed over.
-206014	+	一口飲むと、ノスタルジーな味がした。	One sip brought a nostalgic flavor.
+206013	-		あなたは放り投げられた爆爆茶を受け取る。	You catch the Explosive Tea he tossed over.
+206014	+		一口飲むと、ノスタルジーな味がした。	One sip brought a nostalgic flavor.
 
-206015	Dark Rance	「ほいっ。	「Here.
-206016	+	　＜エール＞は案外大人だな」	　＜エール＞ is surprisingly mature.」
+206015	Dark Rance		「ほいっ。	「Here.
+206016	+		　＜エール＞は案外大人だな」	　＜エール＞ is surprisingly mature.」
 
-206017	-	あなたは放り投げられたレモン谷村を受け取る。	You catch the Lemon Tanimura he tossed over.
-206018	+	一口飲むと、センチメンタルな味がした。	One sip brought a sentimental flavor.
+206017	-		あなたは放り投げられたレモン谷村を受け取る。	You catch the Lemon Tanimura he tossed over.
+206018	+		一口飲むと、センチメンタルな味がした。	One sip brought a sentimental flavor.
 
-206019	Dark Rance	「ふう……」	「Phew......」
+206019	Dark Rance	基本	「ふう……」	「Phew......」
 
-206020	-	ダークランスもあなたと同じように	Dark Rance moistened his throat with his drink
-206021	+	手に持っている飲み物で喉を潤していた。	just like you.
-206022	+	目線は窓の外に注がれている。	His gaze was fixed outside the window.
+206020	-		ダークランスもあなたと同じように	Dark Rance moistened his throat with his drink
+206021	+		手に持っている飲み物で喉を潤していた。	just like you.
+206022	+		目線は窓の外に注がれている。	His gaze was fixed outside the window.
 
-206023	Dark Rance	「どうだ、今日は楽しかったか？」	「How was it? Did you have fun today?」
+206023	Dark Rance	安心	「どうだ、今日は楽しかったか？」	「How was it? Did you have fun today?」
 
-206024	-	視線は変えないまま、あなたは聞かれた。	He asked without shifting his gaze.
+206024	-		視線は変えないまま、あなたは聞かれた。	He asked without shifting his gaze.
 
-206025	El Mofus	「…………。」	「............」
+206025	El Mofus	基本	「…………。」	「............」
 
-206026	-	あなたが答えると、	When you answered,
-206027	+	ダークランスは――	Dark Rance――
+206026	-		あなたが答えると、	When you answered,
+206027	+		ダークランスは――	Dark Rance――
 
-206028	Dark Rance	「そっか！」	「I see!」
+206028	Dark Rance	笑い	「そっか！」	「I see!」
 
-206029	-	嬉しそうに満面の笑みを浮かべた。	He broke into a wide, joyful smile.
+206029	-		嬉しそうに満面の笑みを浮かべた。	He broke into a wide, joyful smile.
 
-206030	Dark Rance	「お前達はいつもこんな感じだったんだろう？」	「You guys were always like this, right?」
+206030	Dark Rance	安心	「お前達はいつもこんな感じだったんだろう？」	「You guys were always like this, right?」
 
-206031	Dark Rance	「はあ、羨ましいな……	「Haa, I'm so jealous......
-206032	+	　俺も出来ればこっちに参加したかったが……	　If possible I wanted to join you guys......
-206033	+	　まあ、仕方ないな」	　Well, can't be helped.」
+206031	Dark Rance	基本	「はあ、羨ましいな……	「Haa, I'm so jealous......
+206032	+		　俺も出来ればこっちに参加したかったが……	　If possible I wanted to join you guys......
+206033	+		　まあ、仕方ないな」	　Well, can't be helped.」
 
-206034	Dark Rance	「ほら、遠慮せずジュース飲んでいいぞ」	「Go on, drink your juice without holding back.」
+206034	Dark Rance	安心	「ほら、遠慮せずジュース飲んでいいぞ」	「Go on, drink your juice without holding back.」
 
-206035	-	ロビーにはあなた達以外、誰もいない。	There was no one else in the lobby besides the two of you.
-206036	+	二人の会話もどこか途切れ途切れ。	Your conversation was somewhat intermittent.
+206035	-		ロビーにはあなた達以外、誰もいない。	There was no one else in the lobby besides the two of you.
+206036	+		二人の会話もどこか途切れ途切れ。	Your conversation was somewhat intermittent.
 
-206037	-	しかし、居心地の悪さはまったく感じない。	Yet it didn't feel awkward at all.
-206038	+	むしろ落ち着くとあなたは思った。	In fact, you felt calm.
+206037	-		しかし、居心地の悪さはまったく感じない。	Yet it didn't feel awkward at all.
+206038	+		むしろ落ち着くとあなたは思った。	In fact, you felt calm.
 
-206039	-	なんとなく、	Somehow,
-206040	+	まったりとした時間が流れる。	a relaxed time flowed gently.
+206039	-		なんとなく、	Somehow,
+206040	+		まったりとした時間が流れる。	a relaxed time flowed gently.
 
-206041	Dark Rance	「そういえば、＜エール＞。	「By the way, ＜エール＞.
-206042	+	　遂に明日が決戦だが、心の準備は出来てるか？」	　Tomorrow is finally the decisive battle. Are you mentally prepared?」
-206043	+	「ふふ、そうか？」	「Fufu, is that so?」
+206041	Dark Rance	基本	「そういえば、＜エール＞。	「By the way, ＜エール＞.
+206042	+		　遂に明日が決戦だが、心の準備は出来てるか？」	　Tomorrow is finally the decisive battle. Are you mentally prepared?」
+206043	+	安心	「ふふ、そうか？」	「Fufu, is that so?」
 
-206044	Dark Rance	「お、頼もしいじゃないか」	「Oh, how reliable.」
+206044	Dark Rance		「お、頼もしいじゃないか」	「Oh, how reliable.」
 
-206045	Dark Rance	「そうか……ふっ……	「I see...... Heh......
-206046	+	　＜エール＞は立派だな」	　＜エール＞ has grown up nicely.」
+206045	Dark Rance		「そうか……ふっ……	「I see...... Heh......
+206046	+		　＜エール＞は立派だな」	　＜エール＞ has grown up nicely.」
 
-206047	Dark Rance	「しかし、お前が冒険を始めて……	「Still, since you started your adventure......
-206048	+	　リセットの助けもあったとは言え、	　Even with Reset's help,
-206049	+	　ここまでやるなんてなぁ」	　you've come this far.」
+206047	Dark Rance	基本	「しかし、お前が冒険を始めて……	「Still, since you started your adventure......
+206048	+		　リセットの助けもあったとは言え、	　Even with Reset's help,
+206049	+		　ここまでやるなんてなぁ」	　you've come this far.」
 
-206050	Dark Rance	「ははっ、魔王の子は	「Haha, the Demon King's children
-206051	+	　変な奴ばかりだから苦労したろう」	　are all weirdos, so it must've been tough.」
+206050	Dark Rance	安心	「ははっ、魔王の子は	「Haha, the Demon King's children
+206051	+		　変な奴ばかりだから苦労したろう」	　are all weirdos, so it must've been tough.」
 
-206052	Dark Rance	「しかも、リーダーだもんなあ。	「And you're the leader too.
-206053	+	　俺には無理だな」	　That's impossible for me.」
+206052	Dark Rance	基本	「しかも、リーダーだもんなあ。	「And you're the leader too.
+206053	+		　俺には無理だな」	　That's impossible for me.」
 
-206054	El Mofus	「…………。」	「............」
+206054	El Mofus		「…………。」	「............」
 
-206055	Dark Rance	「ん、謙遜とかじゃないぜ？	「Hey, I'm not being humble, okay?
-206056	+	　俺はリーダーにゃ向いてないんだ」	　I'm just not suited to be a leader.」
+206055	Dark Rance		「ん、謙遜とかじゃないぜ？	「Hey, I'm not being humble, okay?
+206056	+		　俺はリーダーにゃ向いてないんだ」	　I'm just not suited to be a leader.」
 
-206057	Dark Rance	「一人で突っ走りすぎちまうし、	「I tend to charge ahead alone,
-206058	+	　人に任せるってのが苦手でな……」	　and I'm bad at leaving things to others......」
+206057	Dark Rance		「一人で突っ走りすぎちまうし、	「I tend to charge ahead alone,
+206058	+		　人に任せるってのが苦手でな……」	　and I'm bad at leaving things to others......」
 
-206059	Dark Rance	「魔王の子の中には王の器が三人いる。	「Among the Demon King's children, there are three with the makings of a king.
-206060	+	　乱義とザンス、それとリセット。	　Rangi, Zance, and Reset.
-206061	+	　それぞれタイプは違うがな」	　Each with a different style though.」
+206059	Dark Rance		「魔王の子の中には王の器が三人いる。	「Among the Demon King's children, there are three with the makings of a king.
+206060	+		　乱義とザンス、それとリセット。	　Rangi, Zance, and Reset.
+206061	+		　それぞれタイプは違うがな」	　Each with a different style though.」
 
-206062	Dark Rance	「で、俺はあいつらみたいに王の器じゃないんだ。	「So I'm not like them with the makings of a king.
-206063	+	　昔、真似事はしたがね」	　I tried imitating them once though.」
+206062	Dark Rance	安心	「で、俺はあいつらみたいに王の器じゃないんだ。	「So I'm not like them with the makings of a king.
+206063	+		　昔、真似事はしたがね」	　I tried imitating them once though.」
 
-206064	Dark Rance	「あんま難しいこと考えずに、	「I don't think too hard about complicated stuff,
-206065	+	　暴れている方が向いてんだな」	　I'm better off just rampaging around.」
+206064	Dark Rance		「あんま難しいこと考えずに、	「I don't think too hard about complicated stuff,
+206065	+		　暴れている方が向いてんだな」	　I'm better off just rampaging around.」
 
-206066	Dark Rance	「今は世界で困ったこと起こす奴を始末してる。	「Right now I'm taking out people causing trouble around the world.
-206067	+	　どこの国にも縛られずにな」	　Without being tied to any country.」
+206066	Dark Rance	基本	「今は世界で困ったこと起こす奴を始末してる。	「Right now I'm taking out people causing trouble around the world.
+206067	+		　どこの国にも縛られずにな」	　Without being tied to any country.」
 
-206068	Dark Rance	「そっちの方がよーーっぽど	「That suits my nature wayyyy
-206069	+	　自分の性に合ってるって気づいてな」	　better.」
+206068	Dark Rance	笑い	「そっちの方がよーーっぽど	「That suits my nature wayyyy
+206069	+		　自分の性に合ってるって気づいてな」	　better.」
 
-206070	Dark Rance	「それ以来、決めてんだ。	「Since then I've decided.
-206071	+	　大きな力も地位もいらないから、	　I don't need great power or status,
-206072	+	　その代わり目に映る奴くらいは助けるって」	　but in exchange I'll help anyone I see who needs it.」
+206070	Dark Rance	基本	「それ以来、決めてんだ。	「Since then I've decided.
+206071	+		　大きな力も地位もいらないから、	　I don't need great power or status,
+206072	+		　その代わり目に映る奴くらいは助けるって」	　but in exchange I'll help anyone I see who needs it.」
 
-206073	-	ジッとダークランスはあなたの顔を見つめていた。	Dark Rance stared intently at your face.
+206073	-		ジッとダークランスはあなたの顔を見つめていた。	Dark Rance stared intently at your face.
 
-206074	Dark Rance	「へへ……」	「Hehe......」
+206074	Dark Rance	安心	「へへ……」	「Hehe......」
 
-206075	Dark Rance	「もう、お前も入ってんだぜ？」	「You're already one of them too, you know?」
+206075	Dark Rance		「もう、お前も入ってんだぜ？」	「You're already one of them too, you know?」
 
-206076	Dark Rance	「だが……」	「But......」
+206076	Dark Rance	基本	「だが……」	「But......」
 
-206077	Dark Rance	「あんま無理すんじゃないぞ？	「Don't push yourself too hard, okay?
-206078	+	　お前にばっかいいとこ持ってかれると、	　If you keep stealing all the good parts,
-206079	+	　俺も兄貴として立つ瀬がないしな」	　I won't have any dignity left as your big brother.」
+206077	Dark Rance		「あんま無理すんじゃないぞ？	「Don't push yourself too hard, okay?
+206078	+		　お前にばっかいいとこ持ってかれると、	　If you keep stealing all the good parts,
+206079	+		　俺も兄貴として立つ瀬がないしな」	　I won't have any dignity left as your big brother.」
 
-206080	Dark Rance	「……ここまでよく頑張ったな」	「......You've worked really hard to get this far.」
+206080	Dark Rance	安心	「……ここまでよく頑張ったな」	「......You've worked really hard to get this far.」
 
-206081	-	ダークランスがあなたの頭を撫でる。	Dark Rance gently stroked your head.
+206081	-		ダークランスがあなたの頭を撫でる。	Dark Rance gently stroked your head.
 
-206082	-	それは家族への愛情が込められた、	It was filled with familial love,
-206083	+	とても優しい手つきだった。	a very gentle touch.
+206082	-		それは家族への愛情が込められた、	It was filled with familial love,
+206083	+		とても優しい手つきだった。	a very gentle touch.
 
-206084	Dark Rance	「これは今後も含めての話だが……」	「This includes from now on too, but......」
+206084	Dark Rance	基本	「これは今後も含めての話だが……」	「This includes from now on too, but......」
 
-206085	Dark Rance	「困ったことがあればすぐに言え。	「If anything troubles you, tell me right away.
-206086	+	　兄ちゃんがなんとかしてやる」	　Big bro will take care of it.」
+206085	Dark Rance		「困ったことがあればすぐに言え。	「If anything troubles you, tell me right away.
+206086	+		　兄ちゃんがなんとかしてやる」	　Big bro will take care of it.」
 
-206087	Dark Rance	「どこにいたってな……	「No matter where you are......
-206088	+	　世界の果てだろうが異世界だろうが	　Whether at the ends of the world or in another dimension,
-206089	+	　すぐに駆けつけてやる」	　I'll come running immediately.」
+206087	Dark Rance		「どこにいたってな……	「No matter where you are......
+206088	+		　世界の果てだろうが異世界だろうが	　Whether at the ends of the world or in another dimension,
+206089	+		　すぐに駆けつけてやる」	　I'll come running immediately.」
 
-206090	Dark Rance	「お前の後ろは俺が守ってやるさ」	「I'll protect your back.」
+206090	Dark Rance	安心	「お前の後ろは俺が守ってやるさ」	「I'll protect your back.」
 
-206091	Dark Rance	「明日で全部終わりだ。	「Tomorrow it all ends.
-206092	+	　最後まで歯を食いしばって頑張ろうな」	　Let's grit our teeth and do our best until the very end.」
+206091	Dark Rance		「明日で全部終わりだ。	「Tomorrow it all ends.
+206092	+		　最後まで歯を食いしばって頑張ろうな」	　Let's grit our teeth and do our best until the very end.」
 
-206093	Dark Rance	「よし、兄ちゃんと約束しろ」	「Alright, make a promise with big bro.」
+206093	Dark Rance	基本	「よし、兄ちゃんと約束しろ」	「Alright, make a promise with big bro.」
 
-206094	Dark Rance	「今回の戦いで死なない。	「You won't die in this battle.
-206095	+	　絶対に無事にみんなで帰るってな」	　We'll all return safely no matter what.」
+206094	Dark Rance		「今回の戦いで死なない。	「You won't die in this battle.
+206095	+		　絶対に無事にみんなで帰るってな」	　We'll all return safely no matter what.」
 
-206096	Dark Rance	「いいか？　そんな約束、出来るか？」	「Got it? Can you make that promise?」
+206096	Dark Rance		「いいか？　そんな約束、出来るか？」	「Got it? Can you make that promise?」
 
-206097	El Mofus	「…………。」	「............」
-206098	Dark Rance	「ぃよしっ！　じゃあ約束だ！	「Alright! It's a promise then!
-206099	+	　明日は勝って美味いもん食うぞ！	　Tomorrow we'll win and eat something delicious!
-206100	?	　みんなでな！」	　All of us together!」
+206097	El Mofus		「…………。」	「............」
+206098	Dark Rance	笑い	「ぃよしっ！　じゃあ約束だ！	「Alright! It's a promise then!
+206099	+		　明日は勝って美味いもん食うぞ！	　Tomorrow we'll win and eat something delicious!
+206100	?		　みんなでな！」	　All of us together!」
 
-206101	Dark Rance	「ははははははははは！」	「Hahahahahahaha!」
+206101	Dark Rance		「ははははははははは！」	「Hahahahahahaha!」
 
-206102	-	あなたは頭をグリグリと撫でられた。	He roughly ruffled your hair.
-206103	+	ダークランスは本当に嬉しそうに笑うので、	Dark Rance laughed with genuine joy,
-206104	+	なんとなくあなたも可笑しくなってきた。	so somehow you started to feel amused too.
+206102	-		あなたは頭をグリグリと撫でられた。	He roughly ruffled your hair.
+206103	+		ダークランスは本当に嬉しそうに笑うので、	Dark Rance laughed with genuine joy,
+206104	+		なんとなくあなたも可笑しくなってきた。	so somehow you started to feel amused too.
 
-206105	-	…………	............
+206105	-		…………	............
 
-206106	-	……	......
+206106	-		……	......
 
-206107	-	あなたは『親友』との	You spent
-206108	+	かけがえのない時間を過ごした。	irreplaceable time with your 'best friend.'
+206107	-		あなたは『親友』との	You spent
+206108	+		かけがえのない時間を過ごした。	irreplaceable time with your 'best friend.'
 
-206109	-	そして……	And then......
+206109	-		そして……	And then......
 
-206110	-	運命の朝を迎える。	You greet the fated morning.
+206110	-		運命の朝を迎える。	You greet the fated morning.

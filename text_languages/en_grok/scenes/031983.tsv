@@ -8,108 +8,108 @@
 * Pigu Geliciam	ピグ	Female
 * Sioux Province	スー	Female
 
-115140	-	皆との食事中――	During meal with everyone――
+115140	-		皆との食事中――	During meal with everyone――
 
-115141	Bezeleye	「それじゃあ、皆で手を合わせて……	「Alright everyone, put your hands together...
-115142	+	　いただきます」	　Let's eat.」
+115141	Bezeleye	基本	「それじゃあ、皆で手を合わせて……	「Alright everyone, put your hands together...
+115142	+		　いただきます」	　Let's eat.」
 
-115143	?	「いただきまーす」	「Let's eaaat.」
+115143	?		「いただきまーす」	「Let's eaaat.」
 
-115144	Rance	「むぐむぐ、うん、美味い美味い」	「Munch munch, yeah, delicious delicious.」
+115144	Rance		「むぐむぐ、うん、美味い美味い」	「Munch munch, yeah, delicious delicious.」
 
-115145	Rance	「ん？　あれ？」	「Hm? Huh?」
+115145	Rance	真剣	「ん？　あれ？」	「Hm? Huh?」
 
-115146	Sill Plain	「ランス様、どうしました？」	「Rance-sama, what's wrong?」
+115146	Sill Plain	きょとん	「ランス様、どうしました？」	「Rance-sama, what's wrong?」
 
-115147	Rance	「……サテラどこ行った？」	「...Where did Satella go?」
+115147	Rance	基本	「……サテラどこ行った？」	「...Where did Satella go?」
 
-115148	Satella	「…………」	「............」
+115148	Satella		「…………」	「............」
 
-115149	-	テントの外ではサテラが一人で食事を取っていた。	Outside the tent, Satella was eating alone.
+115149	-		テントの外ではサテラが一人で食事を取っていた。	Outside the tent, Satella was eating alone.
 
-115150	Caesar	「サテラ様、テントノ中ニ、	「Satella-sama, is it okay
-115151	+	　入ラナクテ宜シイノデスカ？」	　not to enter the tent?」
+115150	Caesar		「サテラ様、テントノ中ニ、	「Satella-sama, is it okay
+115151	+		　入ラナクテ宜シイノデスカ？」	　not to enter the tent?」
 
-115152	Satella	「……中は騒がしいからな、ここでいいんだ」	「...It's noisy inside, so here is fine.」
+115152	Satella	思考	「……中は騒がしいからな、ここでいいんだ」	「...It's noisy inside, so here is fine.」
 
-115153	Caesar	「ハイ」	「Yes.」
+115153	Caesar	基本	「ハイ」	「Yes.」
 
-115154	-	もそもそと、会話もなく一人、	Slowly and silently, alone without conversation,
-115155	+	サテラは無感動に食事を口に運ぶ。	Satella emotionlessly brought food to her mouth.
+115154	-		もそもそと、会話もなく一人、	Slowly and silently, alone without conversation,
+115155	+		サテラは無感動に食事を口に運ぶ。	Satella emotionlessly brought food to her mouth.
 
-115156	Satella	「…………」	「............」
+115156	Satella	思考	「…………」	「............」
 
-115157	Satella	「……ふん」	「...Hmph.」
+115157	Satella	不安	「……ふん」	「...Hmph.」
 
-115158	Caloria Cricket	「あ、いたー、こんなところで食べてるー」	「Ah, there you are~ Eating out here~」
+115158	Caloria Cricket	基本	「あ、いたー、こんなところで食べてるー」	「Ah, there you are~ Eating out here~」
 
-115159	Pigu Geliciam	「なんで中に入らないの？」	「Why aren't you inside?」
+115159	Pigu Geliciam		「なんで中に入らないの？」	「Why aren't you inside?」
 
-115160	Satella	「ぐっ……また、お前らか……」	「Guh... It's you two again......」
+115160	Satella	思考	「ぐっ……また、お前らか……」	「Guh... It's you two again......」
 
-115161	Satella	「ふん、どこで食おうがサテラの勝手だ」	「Hmph, I can eat wherever I want.」
+115161	Satella	不安	「ふん、どこで食おうがサテラの勝手だ」	「Hmph, I can eat wherever I want.」
 
-115162	Caloria Cricket	「じゃ、かろもここで食べるー」	「Then Caloria will eat here too~」
+115162	Caloria Cricket	基本	「じゃ、かろもここで食べるー」	「Then Caloria will eat here too~」
 
-115163	Pigu Geliciam	「べるー」	「Bel~」
+115163	Pigu Geliciam		「べるー」	「Bel~」
 
-115164	Satella	「なっ！　勝手に横に座るな！」	「Wha! Don't just sit next to me!」
+115164	Satella	ツンデレ	「なっ！　勝手に横に座るな！」	「Wha! Don't just sit next to me!」
 
-115165	Caloria Cricket	「なんで？」	「Why?」
+115165	Caloria Cricket	基本	「なんで？」	「Why?」
 
-115166	Pigu Geliciam	「駄目なの？」	「Is it bad?」
+115166	Pigu Geliciam		「駄目なの？」	「Is it bad?」
 
-115167	Satella	「こ、この誇り高き魔人であるサテラが、	「T-this proud Fiend Satella
-115168	+	　人間のガキ共となんぞ一緒にいられるか」	　can't possibly sit with human brats.」
+115167	Satella	ツンデレ	「こ、この誇り高き魔人であるサテラが、	「T-this proud Fiend Satella
+115168	+		　人間のガキ共となんぞ一緒にいられるか」	　can't possibly sit with human brats.」
 
-115169	Caloria Cricket	「……駄目？」	「...No good?」
+115169	Caloria Cricket	基本	「……駄目？」	「...No good?」
 
-115170	Pigu Geliciam	「駄目なの……？」	「No good......?」
+115170	Pigu Geliciam		「駄目なの……？」	「No good......?」
 
-115171	Satella	「う、ぐっ……」	「U, guh......」
+115171	Satella	ぐぬぬ	「う、ぐっ……」	「U, guh......」
 
-115172	Satella	「ふん、勝手にしろ！」	「Hmph, do whatever you want!」
+115172	Satella	ツンデレ	「ふん、勝手にしろ！」	「Hmph, do whatever you want!」
 
-115173	Caloria Cricket	「わーい」	「Yay.」
+115173	Caloria Cricket	笑顔	「わーい」	「Yay.」
 
-115174	Rance	「あいつも馴染んだなぁ」	「She's fitting in too.」
+115174	Rance	基本	「あいつも馴染んだなぁ」	「She's fitting in too.」
 
-115175	Sill Plain	「ふふ、そうですねぇ」	「Fufu, yes she is.」
+115175	Sill Plain		「ふふ、そうですねぇ」	「Fufu, yes she is.」
 
-115176	Sioux Province	「まあ……	「Well......
-115177	+	　いいことだと思います」	　I think it's a good thing.」
+115176	Sioux Province		「まあ……	「Well......
+115177	+		　いいことだと思います」	　I think it's a good thing.」
 
-115178	Sioux Province	「魔人と言えど、	「Even if she's a Fiend,
-115179	+	　敵より味方である方が得ですから」	　being an ally is better than an enemy.」
+115178	Sioux Province		「魔人と言えど、	「Even if she's a Fiend,
+115179	+		　敵より味方である方が得ですから」	　being an ally is better than an enemy.」
 
-115180	Rance	「……クールだな」	「...How cool.」
+115180	Rance		「……クールだな」	「...How cool.」
 
-115181	Sioux Province	「合理的と言って下さい」	「Please call it rational.」
+115181	Sioux Province	思考	「合理的と言って下さい」	「Please call it rational.」
 
-115182	Caloria Cricket	「ぷー、ごちそうさまー」	「Puu, thanks for the meal~」
+115182	Caloria Cricket	基本	「ぷー、ごちそうさまー」	「Puu, thanks for the meal~」
 
-115183	Pigu Geliciam	「鬼ごっこする？」	「Wanna play tag?」
+115183	Pigu Geliciam		「鬼ごっこする？」	「Wanna play tag?」
 
-115184	Caloria Cricket	「しよっか」	「Let's do it.」
+115184	Caloria Cricket		「しよっか」	「Let's do it.」
 
-115185	Caloria Cricket	「はい」	「Okay.」
+115185	Caloria Cricket		「はい」	「Okay.」
 
-115186	-	ポンッとカロリアがサテラの肩に手を置いた。	Caloria patted Satella's shoulder.
+115186	-		ポンッとカロリアがサテラの肩に手を置いた。	Caloria patted Satella's shoulder.
 
-115187	Satella	「ん？　なんだ？	「Hm? What?
-115188	+	　気安くこのサテラに触れるな」	　Don't casually touch this Satella.」
+115187	Satella		「ん？　なんだ？	「Hm? What?
+115188	+		　気安くこのサテラに触れるな」	　Don't casually touch this Satella.」
 
-115189	Caloria Cricket	「サテラちゃんが鬼ー！」	「Satella-chan is it!」
+115189	Caloria Cricket	笑顔	「サテラちゃんが鬼ー！」	「Satella-chan is it!」
 
-115190	Pigu Geliciam	「わー、逃げろー！」	「Wah, run away!」
+115190	Pigu Geliciam	基本	「わー、逃げろー！」	「Wah, run away!」
 
-115191	Satella	「なっ！　こら！	「Wha! Hey!
-115192	+	　誰がお前らの遊びに付き合うなんて――」	　Who said I'd play with you brats――」
+115191	Satella	ツンデレ	「なっ！　こら！	「Wha! Hey!
+115192	+		　誰がお前らの遊びに付き合うなんて――」	　Who said I'd play with you brats――」
 
-115193	Satella	「こ、こら！　待て！　待てと言ってるだろ！」	「H-hey! Wait! I said wait!」
+115193	Satella	超テレ	「こ、こら！　待て！　待てと言ってるだろ！」	「H-hey! Wait! I said wait!」
 
-115194	Rance	「…………」	「............」
+115194	Rance	真剣	「…………」	「............」
 
-115195	Rance	「……舐められてる？」	「...Is she being underestimated?」
+115195	Rance	だる顔	「……舐められてる？」	「...Is she being underestimated?」
 
-115196	Sill Plain	「し、親しまれているんですよ……」	「S-she's just getting along with them......」
+115196	Sill Plain	苦笑	「し、親しまれているんですよ……」	「S-she's just getting along with them......」

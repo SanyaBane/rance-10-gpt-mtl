@@ -7,120 +7,120 @@
 * Kentou Kanami	かなみ	Female
 * Crook Mofus	クルックー	Female
 
-32022	Rance	「…………ん？」	「............Nn?」
+32022	Rance	基本	「…………ん？」	「............Nn?」
 
-32023	-	ランス達が進む先で、	Ahead of where Rance and the others were heading,
-32024	+	ぽつんと辻占いの卓が立っていた。	a single fortune-telling stand stood alone.
+32023	-		ランス達が進む先で、	Ahead of where Rance and the others were heading,
+32024	+		ぽつんと辻占いの卓が立っていた。	a single fortune-telling stand stood alone.
 
-32025	Arcy Julietta	「はーい、ここまでー」	「Yeees, that's it for nowー」
+32025	Arcy Julietta		「はーい、ここまでー」	「Yeees, that's it for nowー」
 
-32026	Blue Hanny	「そっ、そこをなんとか！　お金なら払うよ！」	「C-come on, do something about that! I'll pay money!」
+32026	Blue Hanny		「そっ、そこをなんとか！　お金なら払うよ！」	「C-come on, do something about that! I'll pay money!」
 
-32027	Arcy Julietta	「おかしはないのぉ？」	「No snacks?」
+32027	Arcy Julietta		「おかしはないのぉ？」	「No snacks?」
 
-32028	Blue Hanny	「お、お菓子は……くっ！	「S-snacks... ugh!
-32029	+	　眼鏡なら！　眼鏡ならあるよ！」	　Glasses! I have glasses!」
+32028	Blue Hanny		「お、お菓子は……くっ！	「S-snacks... ugh!
+32029	+		　眼鏡なら！　眼鏡ならあるよ！」	　Glasses! I have glasses!」
 
-32030	Arcy Julietta	「おかしがないなら、もううらなってあげない。	「If no snacks, then no fortune-telling.
-32031	+	　ばいばい」	　Bye bye.」
+32030	Arcy Julietta		「おかしがないなら、もううらなってあげない。	「If no snacks, then no fortune-telling.
+32031	+		　ばいばい」	　Bye bye.」
 
-32032	Blue Hanny	「うぅ……めがねっこに似合う、伝説のぶるま……	「Uuu... the legendary blue glasses that suit four-eyes...
-32033	+	　どこにあるんだよーい……」	　Where are theyー...」
+32032	Blue Hanny		「うぅ……めがねっこに似合う、伝説のぶるま……	「Uuu... the legendary blue glasses that suit four-eyes...
+32033	+		　どこにあるんだよーい……」	　Where are theyー...」
 
-32034	-	ハニーはがっくりと肩を落とし、	The Hanny slumped its shoulders dejectedly,
-32035	+	とぼとぼとどこかへ歩き去った。	and trudged off somewhere.
+32034	-		ハニーはがっくりと肩を落とし、	The Hanny slumped its shoulders dejectedly,
+32035	+		とぼとぼとどこかへ歩き去った。	and trudged off somewhere.
 
-32036	Rance	「なんだあのガキ。こんな所で」	「What's that kid doing in a place like this.」
+32036	Rance	真剣	「なんだあのガキ。こんな所で」	「What's that kid doing in a place like this.」
 
-32037	Sill Plain	「あ、あ、ええと…………アーシーちゃん！？	「Ah, ah, um............ Arcy-chan!?」
-32038	+	　え、でも…………」	　Eh, but......」
+32037	Sill Plain	慌て	「あ、あ、ええと…………アーシーちゃん！？	「Ah, ah, um............ Arcy-chan!?」
+32038	+		　え、でも…………」	　Eh, but......」
 
-32039	Rance	「なんだ、知り合いのガキか」	「What, you know that kid?」
+32039	Rance	真剣	「なんだ、知り合いのガキか」	「What, you know that kid?」
 
-32040	Sill Plain	「ええと……カスタムの事件で会ったんですけど……	「Um... I met her during the Custom incident......
-32041	+	　その、見た目が変わっていなくて……」	　Her appearance hasn't changed at all......」
+32040	Sill Plain	恥	「ええと……カスタムの事件で会ったんですけど……	「Um... I met her during the Custom incident......
+32041	+		　その、見た目が変わっていなくて……」	　Her appearance hasn't changed at all......」
 
-32042	Lucy Julietta	「アーシーとな」	「It's Arcy.」
+32042	Lucy Julietta	基本	「アーシーとな」	「It's Arcy.」
 
-32043	Arcy Julietta	「あーーーーー！　ルーシーちゃんだー！」	「Aaaaaaah! It's Lucy-chan!」
+32043	Arcy Julietta		「あーーーーー！　ルーシーちゃんだー！」	「Aaaaaaah! It's Lucy-chan!」
 
-32044	Lucy Julietta	「なんと本当にアーの字か。何年ぶりだ」	「It really is Arcy. How many years has it been.」
+32044	Lucy Julietta		「なんと本当にアーの字か。何年ぶりだ」	「It really is Arcy. How many years has it been.」
 
-32045	Arcy Julietta	「えっとねー、えっとねー。	「Um, well, um well.
-32046	+	　100ねんくらいじゃないかな？」	　About 100 years maybe?」
+32045	Arcy Julietta		「えっとねー、えっとねー。	「Um, well, um well.
+32046	+		　100ねんくらいじゃないかな？」	　About 100 years maybe?」
 
-32047	Sill Plain	「100年……」	「100 years......」
+32047	Sill Plain	ぽか〜ん	「100年……」	「100 years......」
 
-32048	Rance	「ていうか、うり二つだな。双子の姉妹とかか？」	「By the way, you two look identical. Twin sisters?」
+32048	Rance	真剣	「ていうか、うり二つだな。双子の姉妹とかか？」	「By the way, you two look identical. Twin sisters?」
 
-32049	Lucy Julietta	「否。三つ子だ」	「No. Triplets.」
+32049	Lucy Julietta	基本	「否。三つ子だ」	「No. Triplets.」
 
-32050	Kentou Kanami	「もう一人いるんだ……」	「There's one more......」
+32050	Kentou Kanami		「もう一人いるんだ……」	「There's one more......」
 
-32051	Arcy Julietta	「マーシーちゃん、どこかでみたぁ？」	「Have you seen Mercy Julietta-chan somewhere?」
+32051	Arcy Julietta		「マーシーちゃん、どこかでみたぁ？」	「Have you seen Mercy Julietta-chan somewhere?」
 
-32052	Lucy Julietta	「一向、知らぬ」	「Not at all.」
+32052	Lucy Julietta		「一向、知らぬ」	「Not at all.」
 
-32053	Arcy Julietta	「そっかぁ。ねえねえルーシーちゃん。	「I see. Hey hey Lucy-chan.
-32054	+	　おかし、もってなぁい？」	　Got any snacks?」
+32053	Arcy Julietta		「そっかぁ。ねえねえルーシーちゃん。	「I see. Hey hey Lucy-chan.
+32054	+		　おかし、もってなぁい？」	　Got any snacks?」
 
-32055	-	ルーシーは、ちらりとランス達に目を向けた。	Lucy glanced briefly at Rance and the others.
+32055	-		ルーシーは、ちらりとランス達に目を向けた。	Lucy glanced briefly at Rance and the others.
 
-32056	Lucy Julietta	「くれ」	「Give me some.」
+32056	Lucy Julietta		「くれ」	「Give me some.」
 
-32057	Sill Plain	「あ、は、はい……！」	「Ah, y-yes......！」
+32057	Sill Plain		「あ、は、はい……！」	「Ah, y-yes......！」
 
-32058	Rance	「図々しいガキだ……」	「What a brazen kid......」
+32058	Rance	だる顔	「図々しいガキだ……」	「What a brazen kid......」
 
-32059	-	ルーシーのために常備しているお菓子を、	Sill handed over the snacks she always kept for Lucy
-32060	+	シィルは二人に渡した。	to the two of them.
+32059	-		ルーシーのために常備しているお菓子を、	Sill handed over the snacks she always kept for Lucy
+32060	+		シィルは二人に渡した。	to the two of them.
 
-32061	Arcy Julietta	「あー！　はぴたん粉だ！　んぐんぐ……	「Ah! Hapitan powder! Nom nom......
-32062	+	　ルーシーちゃん、あいかわらず駄菓子趣味なのよ」	　Lucy-chan still has cheap snack tastes.」
+32061	Arcy Julietta	むぐむぐ	「あー！　はぴたん粉だ！　んぐんぐ……	「Ah! Hapitan powder! Nom nom......
+32062	+		　ルーシーちゃん、あいかわらず駄菓子趣味なのよ」	　Lucy-chan still has cheap snack tastes.」
 
-32063	Lucy Julietta	「駄菓子こそ究極」	「Cheap snacks are the ultimate.」
+32063	Lucy Julietta		「駄菓子こそ究極」	「Cheap snacks are the ultimate.」
 
-32064	Lucy Julietta	「この者達はよくお菓子を持っている。んぐんぐ」	「These people always have snacks. Nom nom.」
+32064	Lucy Julietta		「この者達はよくお菓子を持っている。んぐんぐ」	「These people always have snacks. Nom nom.」
 
-32065	Arcy Julietta	「ふぇー。んぐんぐ」	「Fuee. Nom nom.」
+32065	Arcy Julietta		「ふぇー。んぐんぐ」	「Fuee. Nom nom.」
 
-32066	Lucy Julietta	「しかも美味しい物を自作する者もいる。んぐんぐ」	「And some even make delicious ones themselves. Nom nom.」
+32066	Lucy Julietta		「しかも美味しい物を自作する者もいる。んぐんぐ」	「And some even make delicious ones themselves. Nom nom.」
 
-32067	Arcy Julietta	「ん！　アーシーもいっちょにいく！」	「Nn! Arcy will do her best too!」
+32067	Arcy Julietta	基本	「ん！　アーシーもいっちょにいく！」	「Nn! Arcy will do her best too!」
 
-32068	-	口の周りをお菓子の食べかすで一杯にしながら、	With her mouth covered in snack crumbs,
-32069	+	アーシーは満面の笑みで言い放った。	Arcy declared with a big smile.
+32068	-		口の周りをお菓子の食べかすで一杯にしながら、	With her mouth covered in snack crumbs,
+32069	+		アーシーは満面の笑みで言い放った。	Arcy declared with a big smile.
 
-32070	Lucy Julietta	「ではそのように」	「Then so be it.」
+32070	Lucy Julietta		「ではそのように」	「Then so be it.」
 
-32071	Rance	「待て待て待て！　何が哀しくて	「Wait wait wait! Why the hell
-32072	+	　ガキを余計に拾わなきゃならんのだ！」	　do I have to pick up extra brats!」
+32071	Rance	怒り	「待て待て待て！　何が哀しくて	「Wait wait wait! Why the hell
+32072	+		　ガキを余計に拾わなきゃならんのだ！」	　do I have to pick up extra brats!」
 
-32073	Crook Mofus	「ランス。アーシー・ジュリエッタといえば、	「Rance. Arcy Julietta is
-32074	+	　的中率100％と噂の占い師ですよ」	　a fortune teller rumored to have 100% accuracy.」
+32073	Crook Mofus	基本	「ランス。アーシー・ジュリエッタといえば、	「Rance. Arcy Julietta is
+32074	+		　的中率100％と噂の占い師ですよ」	　a fortune teller rumored to have 100% accuracy.」
 
-32075	Rance	「100％？　なんでも分かるって事か」	「100%? Meaning she knows everything?」
+32075	Rance	だる顔	「100％？　なんでも分かるって事か」	「100%? Meaning she knows everything?」
 
-32076	Arcy Julietta	「まぎもぎゅ。おいひい」	「Munch munch. Delicious.」
+32076	Arcy Julietta	むぐむぐ	「まぎもぎゅ。おいひい」	「Munch munch. Delicious.」
 
-32077	Rance	「ただのガキにしか見えんが……	「She only looks like a normal kid but......
-32078	+	　おい、試しに何か占ってみろ」	　Hey, try telling my fortune.」
+32077	Rance	真剣	「ただのガキにしか見えんが……	「She only looks like a normal kid but......
+32078	+		　おい、試しに何か占ってみろ」	　Hey, try telling my fortune.」
 
-32079	Arcy Julietta	「んー……えいえい、ぴぷるぴー」	「Hmm...... Eiei, pipurupii.」
+32079	Arcy Julietta	むぐむぐ	「んー……えいえい、ぴぷるぴー」	「Hmm...... Eiei, pipurupii.」
 
-32080	-	アーシーはお菓子を食べながら、	While eating snacks, Arcy
-32081	+	えいえいと水晶を撫でた。	rubbed the crystal ball with eiei.
+32080	-		アーシーはお菓子を食べながら、	While eating snacks, Arcy
+32081	+		えいえいと水晶を撫でた。	rubbed the crystal ball with eiei.
 
-32082	Arcy Julietta	「わ。おにいちゃんすごい。とってもえらくなるよ」	「Wow. Big brother is amazing. You'll become really great.」
+32082	Arcy Julietta	基本	「わ。おにいちゃんすごい。とってもえらくなるよ」	「Wow. Big brother is amazing. You'll become really great.」
 
-32083	Rance	「がはははは、当然だろう。	「Gahahahaha, of course.
-32084	+	　今でも充分すぎるほど偉いがな！」	　I'm already more than great enough!」
+32083	Rance	笑顔	「がはははは、当然だろう。	「Gahahahaha, of course.
+32084	+		　今でも充分すぎるほど偉いがな！」	　I'm already more than great enough!」
 
-32085	Kentou Kanami	「って、それじゃなにがなんだか……」	「Wait, that doesn't explain anything......」
+32085	Kentou Kanami	基本	「って、それじゃなにがなんだか……」	「Wait, that doesn't explain anything......」
 
-32086	Rance	「まあよかろう。	「Well, whatever.
-32087	+	　当たるというならしばらく連れ回してみるか」	　If she's accurate I'll take her along for a while.」
+32086	Rance		「まあよかろう。	「Well, whatever.
+32087	+		　当たるというならしばらく連れ回してみるか」	　If she's accurate I'll take her along for a while.」
 
-32088	Arcy Julietta	「んー、おいひい！　おかわり！」	「Mmm, delicious! More please!」
+32088	Arcy Julietta		「んー、おいひい！　おかわり！」	「Mmm, delicious! More please!」
 
-32089	-	アーシー・ジュリエッタが魔人討伐隊に加わった。	Arcy Julietta joined the Fiend Extermination Squad.
+32089	-		アーシー・ジュリエッタが魔人討伐隊に加わった。	Arcy Julietta joined the Fiend Extermination Squad.

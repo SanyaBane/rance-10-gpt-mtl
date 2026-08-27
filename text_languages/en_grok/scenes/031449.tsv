@@ -5,71 +5,71 @@
 * Sachiko Centers	サチコ	Female
 * Satella	サテラ	Female
 
-75822	-	ランス達はウルザをランス城に置いていくと、	Leaving Urza at Rance Castle,
-75823	+	レッドアイのいる正面山道を目指していた。	Rance and the others headed toward the front mountain path where RedEye was.
+75822	-		ランス達はウルザをランス城に置いていくと、	Leaving Urza at Rance Castle,
+75823	+		レッドアイのいる正面山道を目指していた。	Rance and the others headed toward the front mountain path where RedEye was.
 
-75824	Rance	「それで、トッポスってのはなんなんだ？」	「So, what exactly is a Toppos?」
+75824	Rance	真剣	「それで、トッポスってのはなんなんだ？」	「So, what exactly is a Toppos?」
 
-75825	Sill Plain	「さ、さあ？　私も初めて聞きました……」	「U-Um, I've never heard of it either...」
+75825	Sill Plain	考え中	「さ、さあ？　私も初めて聞きました……」	「U-Um, I've never heard of it either...」
 
-75826	Rance	「クルックー」	「Crook.」
+75826	Rance	基本	「クルックー」	「Crook.」
 
-75827	Crook Mofus	「はい、ここにいます」	「Yes, I'm here.」
+75827	Crook Mofus		「はい、ここにいます」	「Yes, I'm here.」
 
-75828	Rance	「トッポスの説明」	「Explain Toppos.」
+75828	Rance		「トッポスの説明」	「Explain Toppos.」
 
-75829	Crook Mofus	「はい、トッポスの説明をします」	「Yes, I'll explain Toppos.」
+75829	Crook Mofus		「はい、トッポスの説明をします」	「Yes, I'll explain Toppos.」
 
-75830	Sachiko Centers	「法王様を辞書扱いはやめましょうよぉ……」	「Please stop treating the Pope like a dictionary...」
+75830	Sachiko Centers	困り	「法王様を辞書扱いはやめましょうよぉ……」	「Please stop treating the Pope like a dictionary...」
 
-75831	Crook Mofus	「トッポスとは、世界に一体しかいない、	「Toppos is a unique creature, only one in the entire world,
-75832	+	　奇妙奇天烈な生き物のことです」	　a bizarre and extraordinary being.」
+75831	Crook Mofus	基本	「トッポスとは、世界に一体しかいない、	「Toppos is a unique creature, only one in the entire world,
+75832	+		　奇妙奇天烈な生き物のことです」	　a bizarre and extraordinary being.」
 
-75833	Crook Mofus	「体格は人間より少し大きいくらい。	「It's a bit larger than a human.
-75834	+	　常におっとりした優しい性格をしています」	　It has a gentle, calm personality.」
+75833	Crook Mofus		「体格は人間より少し大きいくらい。	「It's a bit larger than a human.
+75834	+		　常におっとりした優しい性格をしています」	　It has a gentle, calm personality.」
 
-75835	Crook Mofus	「そして、トッポスの一番の特徴はやはり、	「Its most notable trait is
-75836	+	　魔物に対しての異常な執着でしょうね」	　its abnormal obsession with hunting monsters.」
+75835	Crook Mofus		「そして、トッポスの一番の特徴はやはり、	「Its most notable trait is
+75836	+		　魔物に対しての異常な執着でしょうね」	　its abnormal obsession with hunting monsters.」
 
-75837	Sill Plain	「魔物に執着……ですか？」	「Obsession with monsters...?」
+75837	Sill Plain	考え中	「魔物に執着……ですか？」	「Obsession with monsters...?」
 
-75838	Crook Mofus	「何故かトッポスは魔物を狩ること、	「For some reason, Toppos devotes its entire life
-75839	+	　それのみに生涯の全てをかけるのです」	　solely to hunting monsters.」
+75838	Crook Mofus	基本	「何故かトッポスは魔物を狩ること、	「For some reason, Toppos devotes its entire life
+75839	+		　それのみに生涯の全てをかけるのです」	　solely to hunting monsters.」
 
-75840	Crook Mofus	「普段は単身で魔物の森を歩き回り、	「It wanders monster forests alone,
-75841	+	　尋常ではない強さで魔物と戦い続けるとか」	　fighting them with extraordinary strength.」
+75840	Crook Mofus		「普段は単身で魔物の森を歩き回り、	「It wanders monster forests alone,
+75841	+		　尋常ではない強さで魔物と戦い続けるとか」	　fighting them with extraordinary strength.」
 
-75842	Rance	「世界に一匹って言ったか？	「You said there's only one in the world?
-75843	+	　それ子作りとかどうしてるんだ？」	　How does it reproduce?」
+75842	Rance		「世界に一匹って言ったか？	「You said there's only one in the world?
+75843	+		　それ子作りとかどうしてるんだ？」	　How does it reproduce?」
 
-75844	Crook Mofus	「一生に一個だけ口から卵を産むとか。	「It lays one egg from its mouth in its lifetime.
-75845	+	　それを戦い続けながら大事に育てるそうですよ」	　It raises it carefully while continuing to fight.」
+75844	Crook Mofus		「一生に一個だけ口から卵を産むとか。	「It lays one egg from its mouth in its lifetime.
+75845	+		　それを戦い続けながら大事に育てるそうですよ」	　It raises it carefully while continuing to fight.」
 
-75846	Rance	「なーんか滅茶苦茶な奴だな」	「What a ridiculous creature.」
+75846	Rance		「なーんか滅茶苦茶な奴だな」	「What a ridiculous creature.」
 
-75847	Crook Mofus	「はい、滅茶苦茶な奴です」	「Yes, it's completely ridiculous.」
+75847	Crook Mofus		「はい、滅茶苦茶な奴です」	「Yes, it's completely ridiculous.」
 
-75848	Crook Mofus	「魔人ですら、トッポスと戦うと	「Even Fiend, when fighting Toppos,
-75849	+	　千日手で永遠に勝負がつかないので、	　end up in an endless stalemate,
-75850	+	　襲われたら自然災害と諦めて逃げるらしいです」	　so they treat it like a natural disaster and flee.」
+75848	Crook Mofus		「魔人ですら、トッポスと戦うと	「Even Fiend, when fighting Toppos,
+75849	+		　千日手で永遠に勝負がつかないので、	　end up in an endless stalemate,
+75850	+		　襲われたら自然災害と諦めて逃げるらしいです」	　so they treat it like a natural disaster and flee.」
 
-75851	Rance	「そうなのか？　サテラ」	「Is that true, Satella?」
+75851	Rance		「そうなのか？　サテラ」	「Is that true, Satella?」
 
-75852	Satella	「サテラはまだ見たことがないからな……	「Satella hasn't seen it yet...
-75853	+	　だがそういう話は聞いたことある」	　But I've heard stories like that.」
+75852	Satella	不安	「サテラはまだ見たことがないからな……	「Satella hasn't seen it yet...
+75853	+		　だがそういう話は聞いたことある」	　But I've heard stories like that.」
 
-75854	Crook Mofus	「生息地帯が魔物の森なので、	「Since it lives in monster forests,
-75855	+	　どんな生物なのか詳しいことは分かっていません」	　we don't know much about what kind of creature it is.」
+75854	Crook Mofus	基本	「生息地帯が魔物の森なので、	「Since it lives in monster forests,
+75855	+		　どんな生物なのか詳しいことは分かっていません」	　we don't know much about what kind of creature it is.」
 
-75856	Crook Mofus	「それ故、伝説上の化け物とも思われていました」	「That's why it's considered a legendary monster.」
+75856	Crook Mofus		「それ故、伝説上の化け物とも思われていました」	「That's why it's considered a legendary monster.」
 
-75857	Crook Mofus	「地上の生物としては間違いなく最強の一角で、	「It's undoubtedly one of the strongest creatures on the surface,
-75858	+	　災厄の一つとも言われ恐れられています」	　feared as one of the calamities.」
+75857	Crook Mofus		「地上の生物としては間違いなく最強の一角で、	「It's undoubtedly one of the strongest creatures on the surface,
+75858	+		　災厄の一つとも言われ恐れられています」	　feared as one of the calamities.」
 
-75859	Rance	「むう、なんか厄介そうだな……」	「Muu, sounds troublesome...」
+75859	Rance	真剣	「むう、なんか厄介そうだな……」	「Muu, sounds troublesome...」
 
-75860	Rance	「だが、まだ本当にその	「But we don't know for sure
-75861	+	　トッポスかどうかは分からん。	　if it's really a Toppos.
-75862	+	　なんにしても急ぐぞ」	　Anyway, let's hurry.」
+75860	Rance	基本	「だが、まだ本当にその	「But we don't know for sure
+75861	+		　トッポスかどうかは分からん。	　if it's really a Toppos.
+75862	+		　なんにしても急ぐぞ」	　Anyway, let's hurry.」
 
-75863	Sill Plain	「は、はい！」	「Y-Yes!」
+75863	Sill Plain		「は、はい！」	「Y-Yes!」

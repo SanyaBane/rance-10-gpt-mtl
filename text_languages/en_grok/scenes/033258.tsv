@@ -5,107 +5,107 @@
 * Nagi su Ragarl	ナギ２	Female
 * Zance Leazas	ザンス２	Male
 
-219264	-	ザンスの後についていくと、	Following Zance, you arrived
-219265	+	あなた達はガゴという農村についた。	at a farming village called Gago.
+219264	-		ザンスの後についていくと、	Following Zance, you arrived
+219265	+		あなた達はガゴという農村についた。	at a farming village called Gago.
 
-219266	Nagata-kun	「どこ？　ここ」	「Where is this?」
+219266	Nagata-kun	基本	「どこ？　ここ」	「Where is this?」
 
-219267	Reset Kalar	「ほら、リーザスを出るときに	「Remember the old man we met
-219268	+	　出会ったお爺さんの――」	　when leaving Leazas一一」
+219267	Reset Kalar		「ほら、リーザスを出るときに	「Remember the old man we met
+219268	+		　出会ったお爺さんの――」	　when leaving Leazas一一」
 
-219269	Old Man	「私はガゴという農村の村長です！	「I am the chief of the farming village Gago!
-219270	+	　村付近の街道に魔獣カースAが巣くっており、	　A monster beast Curse A has nested near the highway,
-219271	+	　た、大変困っています！」	　and we're in big trouble!」
+219269	Old Man		「私はガゴという農村の村長です！	「I am the chief of the farming village Gago!
+219270	+		　村付近の街道に魔獣カースAが巣くっており、	　A monster beast Curse A has nested near the highway,
+219271	+		　た、大変困っています！」	　and we're in big trouble!」
 
-219272	Old Man	「街道が使えない以上、	「Since the highway is unusable,
-219273	+	　物資をまともに運ぶことも出来ず、	　we can't transport supplies properly,
-219274	+	　どうか、我が村をお救い下さいぃ〜……」	　please save our village~...」
+219272	Old Man		「街道が使えない以上、	「Since the highway is unusable,
+219273	+		　物資をまともに運ぶことも出来ず、	　we can't transport supplies properly,
+219274	+		　どうか、我が村をお救い下さいぃ〜……」	　please save our village~...」
 
-219275	Nagi su Ragarl	「あーっ、あのカースAが近くに湧いて	「Ah, so this is the village
-219276	+	　大変なことになっている村」	　suffering because Curse A appeared nearby.」
+219275	Nagi su Ragarl		「あーっ、あのカースAが近くに湧いて	「Ah, so this is the village
+219276	+		　大変なことになっている村」	　suffering because Curse A appeared nearby.」
 
-219277	Reset Kalar	「そうそう」	「Yep yep.」
+219277	Reset Kalar		「そうそう」	「Yep yep.」
 
-219278	Reset Kalar	「うふふ……うふふふふ……」	「Ufufu... ufufufufu...」
+219278	Reset Kalar	笑顔	「うふふ……うふふふふ……」	「Ufufu... ufufufufu...」
 
-219279	Zance Leazas	「あ？　なにニヤニヤしてやがんだよ？」	「Ah? What are you smirking for?」
+219279	Zance Leazas	不満	「あ？　なにニヤニヤしてやがんだよ？」	「Ah? What are you smirking for?」
 
-219280	Reset Kalar	「救う気はないって言ってたのに、	「You said you wouldn't save them,
-219281	+	　ちゃんと動くんだね、ザンスちゃんは」	　but here you are taking action, Zance-chan.」
+219280	Reset Kalar	基本	「救う気はないって言ってたのに、	「You said you wouldn't save them,
+219281	+		　ちゃんと動くんだね、ザンスちゃんは」	　but here you are taking action, Zance-chan.」
 
-219282	Zance Leazas	「アア？」	「Hah?」
+219282	Zance Leazas	怒り	「アア？」	「Hah?」
 
-219283	Reset Kalar	「もーっ、照れちゃってー。	「Aww, you're embarrassed.
-219284	+	　軍隊は出せないから自分自身で	　Since you can't send an army,
-219285	+	　カースAを倒すつもりなんでしょ？」	　you're going to defeat Curse A yourself, right?」
+219283	Reset Kalar	基本	「もーっ、照れちゃってー。	「Aww, you're embarrassed.
+219284	+		　軍隊は出せないから自分自身で	　Since you can't send an army,
+219285	+		　カースAを倒すつもりなんでしょ？」	　you're going to defeat Curse A yourself, right?」
 
-219286	Nagata-kun	「なーんだ、そうだったのかー！	「Ohh, so that's it!
-219287	+	　お前結構民思いのいい奴じゃんかー！」	　You're actually a pretty good guy who cares about the people!」
+219286	Nagata-kun		「なーんだ、そうだったのかー！	「Ohh, so that's it!
+219287	+		　お前結構民思いのいい奴じゃんかー！」	　You're actually a pretty good guy who cares about the people!」
 
-219288	Zance Leazas	「……陶器が馴れ馴れしいぞ」	「...You're getting too familiar, pottery.」
+219288	Zance Leazas		「……陶器が馴れ馴れしいぞ」	「...You're getting too familiar, pottery.」
 
-219289	Nagata-kun	「ひでえ！？」	「That's harsh!?」
+219289	Nagata-kun		「ひでえ！？」	「That's harsh!?」
 
-219290	Reset Kalar	「んふふ、だから言ったでしょ？	「Nfufu, see? I told you.
-219291	+	　ザンスちゃん言動は乱暴だけど良い子だって」	　Zance-chan acts rough but is a good kid.」
+219290	Reset Kalar	笑顔	「んふふ、だから言ったでしょ？	「Nfufu, see? I told you.
+219291	+		　ザンスちゃん言動は乱暴だけど良い子だって」	　Zance-chan acts rough but is a good kid.」
 
-219292	Nagata-kun	「そっすね！	「Yeah!
-219293	+	　良い子っすね！」	　A good kid!」
+219292	Nagata-kun	基本	「そっすね！	「Yeah!
+219293	+		　良い子っすね！」	　A good kid!」
 
-219294	Nagi su Ragarl	「良い子だよねー」	「He's a good kid~」
+219294	Nagi su Ragarl		「良い子だよねー」	「He's a good kid~」
 
-219295	Zance Leazas	「……テメェら、なます斬りにすんぞ」	「...I'll dice you all up.」
+219295	Zance Leazas		「……テメェら、なます斬りにすんぞ」	「...I'll dice you all up.」
 
-219296	Zance Leazas	「ハッ、俺の目的は強くなって	「Hah, my goal is to get stronger
-219297	+	　魔王ランスを殺すことだ」	　and kill Demon King Rance.」
+219296	Zance Leazas		「ハッ、俺の目的は強くなって	「Hah, my goal is to get stronger
+219297	+		　魔王ランスを殺すことだ」	　and kill Demon King Rance.」
 
-219298	Zance Leazas	「カースＡと言えば、	「Curse A is a boss that gives
-219299	+	　膨大な経験値をくれるボスだ。	　huge amounts of experience.
-219300	+	　見逃せるわけもないだろ」	　No way I could ignore it.」
+219298	Zance Leazas		「カースＡと言えば、	「Curse A is a boss that gives
+219299	+		　膨大な経験値をくれるボスだ。	　huge amounts of experience.
+219300	+		　見逃せるわけもないだろ」	　No way I could ignore it.」
 
-219301	Zance Leazas	「ちっ、本当は経験値を俺一人で	「Tch, I was planning to hog all the experience
-219302	+	　独占しようと思っていたのによ」	　for myself.」
-219303	+	「なんか言ったかテメェ……」	「You say something...」
+219301	Zance Leazas		「ちっ、本当は経験値を俺一人で	「Tch, I was planning to hog all the experience
+219302	+		　独占しようと思っていたのによ」	　for myself.」
+219303	+	不満	「なんか言ったかテメェ……」	「You say something...」
 
-219304	-	　	　
-219305	+	　　＜ぐりぐりぐりぐりぐりぐり！＞	　　＜Grind grind grind grind grind!＞
+219304	-		　	　
+219305	+		　　＜ぐりぐりぐりぐりぐりぐり！＞	　　＜Grind grind grind grind grind!＞
 
-219306	-	あなたのこめかみに激痛が走る！	A sharp pain shot through your temple!
+219306	-		あなたのこめかみに激痛が走る！	A sharp pain shot through your temple!
 
-219307	-	あなたはザンスにこめかみを	Zance ground his knuckles into your temple.
-219308	+	ぐりぐりされてしまった。	
+219307	-		あなたはザンスにこめかみを	Zance ground his knuckles into your temple.
+219308	+		ぐりぐりされてしまった。	
 
-219309	Zance Leazas	「けっ！」	「Tch!」
+219309	Zance Leazas		「けっ！」	「Tch!」
 
-219310	-	ザンスは不機嫌な顔で鼻を鳴らした。	Zance snorted with a displeased face.
+219310	-		ザンスは不機嫌な顔で鼻を鳴らした。	Zance snorted with a displeased face.
 
-219311	-	　	　
-219312	+	　　＜ゴンッ！＞	　　＜Gong!＞
+219311	-		　	　
+219312	+		　　＜ゴンッ！＞	　　＜Gong!＞
 
-219313	Zance Leazas	「兄貴を馬鹿にしてんじゃねーぞ、テメェ」	「Don't make fun of my big bro, you!」
+219313	Zance Leazas	基本	「兄貴を馬鹿にしてんじゃねーぞ、テメェ」	「Don't make fun of my big bro, you!」
 
-219314	-	ザンスのゲンコツ攻撃！	Zance's knuckle attack!
-219315	+	あなたはたんこぶが出来てしまった！	A big bump appeared on your head!
+219314	-		ザンスのゲンコツ攻撃！	Zance's knuckle attack!
+219315	+		あなたはたんこぶが出来てしまった！	A big bump appeared on your head!
 
-219316	Zance Leazas	「で、おい、カースＡはどこだ？」	「Anyway, where's Curse A?」
+219316	Zance Leazas		「で、おい、カースＡはどこだ？」	「Anyway, where's Curse A?」
 
-219317	Old Man	「おーーいおいおい、	「Ohhh my my my,
-219318	+	　本当にありがとうございますじゃー！」	　thank you so much!」
+219317	Old Man		「おーーいおいおい、	「Ohhh my my my,
+219318	+		　本当にありがとうございますじゃー！」	　thank you so much!」
 
-219319	Old Man	「なんと心のお優しいー！	「What a kind-hearted person!
-219320	+	　ザンス様は我が村の恩人ですじゃー！」	　Lord Zance is our village's savior!」
+219319	Old Man		「なんと心のお優しいー！	「What a kind-hearted person!
+219320	+		　ザンス様は我が村の恩人ですじゃー！」	　Lord Zance is our village's savior!」
 
-219321	Zance Leazas	「……とっとと案内しねぇと、	「...Guide us quickly,
-219322	+	　残り少ない寿命をゼロにすんぞ」	　or I'll shorten your already short life to zero.」
+219321	Zance Leazas		「……とっとと案内しねぇと、	「...Guide us quickly,
+219322	+		　残り少ない寿命をゼロにすんぞ」	　or I'll shorten your already short life to zero.」
 
-219323	Old Man	「は、はひっ……」	「Y-yes...」
+219323	Old Man		「は、はひっ……」	「Y-yes...」
 
-219324	-	あなた達は村人の案内で、	Guided by the villagers,
-219325	+	カースAの巣となっている洞窟に案内された。	you were led to the cave that was Curse A's nest.
+219324	-		あなた達は村人の案内で、	Guided by the villagers,
+219325	+		カースAの巣となっている洞窟に案内された。	you were led to the cave that was Curse A's nest.
 
-219326	Zance Leazas	「おーーーーっし！	「Alrighty!
-219327	+	　テメェら俺様についてこい！」	　You lot, follow me!」
+219326	Zance Leazas		「おーーーーっし！	「Alrighty!
+219327	+		　テメェら俺様についてこい！」	　You lot, follow me!」
 
-219328	Zance Leazas	「カースA狩りだ！」	「Time to hunt Curse A!」
+219328	Zance Leazas		「カースA狩りだ！」	「Time to hunt Curse A!」
 
-219329	-	勇ましくザンスがバイ・ロードを抜き放った。	Bravely, Zance drew his Vi-By Road.
+219329	-		勇ましくザンスがバイ・ロードを抜き放った。	Bravely, Zance drew his Vi-By Road.

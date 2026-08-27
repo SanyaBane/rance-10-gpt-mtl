@@ -4,132 +4,132 @@
 * Housesnurse	ハウセスナース小	Female
 * Sill Plain	シィル	Female
 
-100908	Rance	「ん？　なにしてるんだ？」	「Hm? What are you doing?」
+100908	Rance	基本	「ん？　なにしてるんだ？」	「Hm? What are you doing?」
 
-100909	Bezeleye	「ん、ランス君、シィルちゃん」	「Oh, Rance-kun, Sill-chan.」
+100909	Bezeleye		「ん、ランス君、シィルちゃん」	「Oh, Rance-kun, Sill-chan.」
 
-100910	Housesnurse	「あら、二人とも」	「Oh, both of you.」
+100910	Housesnurse		「あら、二人とも」	「Oh, both of you.」
 
-100911	Sill Plain	「どこかへ、お出かけですか？」	「Are you going somewhere?」
+100911	Sill Plain		「どこかへ、お出かけですか？」	「Are you going somewhere?」
 
-100912	-	ハウセスナースの抱える	Seeing the large luggage Housesnurse was carrying,
-100913	+	大荷物を見てシィルが聞いた。	Sill asked.
+100912	-		ハウセスナースの抱える	Seeing the large luggage Housesnurse was carrying,
+100913	+		大荷物を見てシィルが聞いた。	Sill asked.
 
-100914	Housesnurse	「ええ、そう。	「Yes, that's right.
-100915	+	　ちょっと遠くまでお出かけよ」	　I'm going on a little trip.」
+100914	Housesnurse		「ええ、そう。	「Yes, that's right.
+100915	+		　ちょっと遠くまでお出かけよ」	　I'm going on a little trip.」
 
-100916	Housesnurse	「愛しの王子様を探しにね」	「To search for my beloved prince.」
+100916	Housesnurse	笑顔	「愛しの王子様を探しにね」	「To search for my beloved prince.」
 
-100917	Rance	「王子様ァ〜？」	「Prince~?」
+100917	Rance	だる顔	「王子様ァ〜？」	「Prince~?」
 
-100918	Rance	「またワケの分からんことを……」	「Talking nonsense again...」
+100918	Rance	真剣	「またワケの分からんことを……」	「Talking nonsense again...」
 
-100919	Rance	「今度はなんだ？	「What is it this time?
-100920	+	　ハニーか？　うしか？　わんわんか？」	　Hanny? Cow? Dog?」
+100919	Rance		「今度はなんだ？	「What is it this time?
+100920	+		　ハニーか？　うしか？　わんわんか？」	　Hanny? Cow? Dog?」
 
-100921	Housesnurse	「流れ星よ！」	「A shooting star!」
+100921	Housesnurse	笑顔ラブ	「流れ星よ！」	「A shooting star!」
 
-100922	Sill Plain	「へ？」	「Eh?」
+100922	Sill Plain	基本	「へ？」	「Eh?」
 
-100923	Bezeleye	「昨日の夜に星空を眺めていたらね、	「Last night while stargazing,
-100924	+	　一目惚れしちゃったんですって……	　she fell in love at first sight...
-100925	+	　流れ星に」	　with a shooting star.」
+100923	Bezeleye		「昨日の夜に星空を眺めていたらね、	「Last night while stargazing,
+100924	+		　一目惚れしちゃったんですって……	　she fell in love at first sight...
+100925	+		　流れ星に」	　with a shooting star.」
 
-100926	Sill Plain	「それは……」	「That's...」
+100926	Sill Plain	ぽか〜ん	「それは……」	「That's...」
 
-100927	Sill Plain	「ロマンチックですね……」	「How romantic...」
+100927	Sill Plain	苦笑	「ロマンチックですね……」	「How romantic...」
 
-100928	Housesnurse	「そうでしょ！　そうでしょ！」	「Right! Right!」
+100928	Housesnurse	笑顔	「そうでしょ！　そうでしょ！」	「Right! Right!」
 
-100929	Housesnurse	「はぁ……本当に格好良かったんだから……	「Sigh... He was so cool...
-100930	+	　何者にも囚われず空を飛ぶ雄壮さ、	　Flying freely across the sky without restraint,
-100931	+	　一瞬だけ現れて消える鮮烈さ……」	　appearing for just a moment then vanishing brilliantly...」
+100929	Housesnurse	笑顔ラブ	「はぁ……本当に格好良かったんだから……	「Sigh... He was so cool...
+100930	+		　何者にも囚われず空を飛ぶ雄壮さ、	　Flying freely across the sky without restraint,
+100931	+		　一瞬だけ現れて消える鮮烈さ……」	　appearing for just a moment then vanishing brilliantly...」
 
-100932	Housesnurse	「うっとり……」	「Swoon...」
+100932	Housesnurse	惚れ	「うっとり……」	「Swoon...」
 
-100933	Bezeleye	「また自然のものに惚れちゃって……」	「Falling in love with nature again...」
+100933	Bezeleye	基本	「また自然のものに惚れちゃって……」	「Falling in love with nature again...」
 
-100934	Bezeleye	「あれだけはすぐに別れることになるから	「Those always end in quick breakups,
-100935	+	　やめなさいと言っているのに……」	　I've told her to stop...」
+100934	Bezeleye		「あれだけはすぐに別れることになるから	「Those always end in quick breakups,
+100935	+		　やめなさいと言っているのに……」	　I've told her to stop...」
 
-100936	Rance	「アホなのか、こいつは」	「Is this girl an idiot?」
+100936	Rance		「アホなのか、こいつは」	「Is this girl an idiot?」
 
-100937	Bezeleye	「雨雲や台風に惚れて追いかけたり……	「Falling for rain clouds and chasing typhoons...
-100938	+	　湖に惚れて何日もただ眺めていたり……」	　Falling for a lake and staring at it for days...」
+100937	Bezeleye		「雨雲や台風に惚れて追いかけたり……	「Falling for rain clouds and chasing typhoons...
+100938	+		　湖に惚れて何日もただ眺めていたり……」	　Falling for a lake and staring at it for days...」
 
-100939	Bezeleye	「雪だるまに惚れたときは、	「When she fell for a snowman,
-100940	+	　溶けないように北へ北へ向かって行って	　she headed north to keep it from melting
-100941	+	　あともう少しのところで溶けて消えたり」	　and it melted just before the end.」
+100939	Bezeleye		「雪だるまに惚れたときは、	「When she fell for a snowman,
+100940	+		　溶けないように北へ北へ向かって行って	　she headed north to keep it from melting
+100941	+		　あともう少しのところで溶けて消えたり」	　and it melted just before the end.」
 
-100942	Rance	「神様はよく分からん……」	「Gods are incomprehensible...」
+100942	Rance	だる顔	「神様はよく分からん……」	「Gods are incomprehensible...」
 
-100943	Rance	「しかし、それだけ意味不明なものに惚れる癖に、	「Yet despite falling for such nonsense,
-100944	+	　何故、絶世の美男子である俺には惚れないんだ」	　why won't she fall for me, the greatest handsome man?」
+100943	Rance	真剣	「しかし、それだけ意味不明なものに惚れる癖に、	「Yet despite falling for such nonsense,
+100944	+		　何故、絶世の美男子である俺には惚れないんだ」	　why won't she fall for me, the greatest handsome man?」
 
-100945	Bezeleye	「ハウって自分に惚れてくれないものにしか	「Hau only falls for things that don't love her back.
-100946	+	　好きにならない難儀な性癖があるのよね……」	　It's a troublesome fetish...」
+100945	Bezeleye	基本	「ハウって自分に惚れてくれないものにしか	「Hau only falls for things that don't love her back.
+100946	+		　好きにならない難儀な性癖があるのよね……」	　It's a troublesome fetish...」
 
-100947	Bezeleye	「だからランス君みたいに	「That's why she won't fall for someone like you, Rance-kun,
-100948	+	　惚れたら喜ぶ人には惚れないの」	　who would be happy if she did.」
+100947	Bezeleye		「だからランス君みたいに	「That's why she won't fall for someone like you, Rance-kun,
+100948	+		　惚れたら喜ぶ人には惚れないの」	　who would be happy if she did.」
 
-100949	Bezeleye	「ああ、あとは絶対に自分を大事にしてくれない	「Oh, and she also tends to fall for the worst men
-100950	+	　最低な男にも割と惚れることも……」	　who definitely won't cherish her...」
+100949	Bezeleye		「ああ、あとは絶対に自分を大事にしてくれない	「Oh, and she also tends to fall for the worst men
+100950	+		　最低な男にも割と惚れることも……」	　who definitely won't cherish her...」
 
-100951	Bezeleye	「…………」	「............」
+100951	Bezeleye		「…………」	「............」
 
-100952	Rance	「なんだ？」	「What?」
+100952	Rance		「なんだ？」	「What?」
 
-100953	Bezeleye	「望みあるかも」	「There might be hope.」
+100953	Bezeleye		「望みあるかも」	「There might be hope.」
 
-100954	Rance	「どういう意味だ……」	「What do you mean...」
+100954	Rance	だる顔	「どういう意味だ……」	「What do you mean...」
 
-100955	Housesnurse	「というわけで行ってくるわ！」	「Anyway, I'm off!」
+100955	Housesnurse	笑顔	「というわけで行ってくるわ！」	「Anyway, I'm off!」
 
-100956	Sill Plain	「あの、でもどちらへ……？」	「Um, but where to...?」
+100956	Sill Plain	基本	「あの、でもどちらへ……？」	「Um, but where to...?」
 
-100957	Housesnurse	「きっとどこかへ落ちてると思うのよね。	「I think it must have fallen somewhere.
-100958	+	　まずはそこに行ってみるわ！」	　I'll start by going there!」
+100957	Housesnurse	笑顔	「きっとどこかへ落ちてると思うのよね。	「I think it must have fallen somewhere.
+100958	+		　まずはそこに行ってみるわ！」	　I'll start by going there!」
 
-100959	Sill Plain	「あ、なるほど……」	「Ah, I see...」
+100959	Sill Plain	基本	「あ、なるほど……」	「Ah, I see...」
 
-100960	Rance	「放っておいていいのか？」	「Is it okay to just let her go?」
+100960	Rance		「放っておいていいのか？」	「Is it okay to just let her go?」
 
-100961	Bezeleye	「お腹が空いたら帰ってくるでしょ」	「She'll come back when she's hungry.」
+100961	Bezeleye		「お腹が空いたら帰ってくるでしょ」	「She'll come back when she's hungry.」
 
-100962	Housesnurse	「じゃ、行ってきまーーーす！」	「Well then, I'm off!」
+100962	Housesnurse	笑顔	「じゃ、行ってきまーーーす！」	「Well then, I'm off!」
 
-100963	-	　	　
-100964	+	　　＜ぱこーーーーん！＞	　　＜Pakooooon!＞
+100963	-		　	　
+100964	+		　　＜ぱこーーーーん！＞	　　＜Pakooooon!＞
 
-100965	Sill Plain	「ひゃあ！？	「Hyaa!?」
-100966	+	　お、お城に道が！」	　A path opened in the castle!」
+100965	Sill Plain	慌て	「ひゃあ！？	「Hyaa!?」
+100966	+		　お、お城に道が！」	　A path opened in the castle!」
 
-100967	-	ハウセスナースが地面を木槌で叩くと、	When Housesnurse struck the ground with a wooden mallet,
-100968	+	ランス城の壁が変形して、	the walls of Rance Castle deformed,
-100969	+	外に向かってアーチのような道が出来上がった。	forming an arch-like path leading outside.
+100967	-		ハウセスナースが地面を木槌で叩くと、	When Housesnurse struck the ground with a wooden mallet,
+100968	+		ランス城の壁が変形して、	the walls of Rance Castle deformed,
+100969	+		外に向かってアーチのような道が出来上がった。	forming an arch-like path leading outside.
 
-100970	Rance	「あの馬鹿、人の城を……」	「That idiot, messing with my castle...」
+100970	Rance	だる顔	「あの馬鹿、人の城を……」	「That idiot, messing with my castle...」
 
-100971	Bezeleye	「帰ってきたら直させましょう」	「We'll make her fix it when she returns.」
+100971	Bezeleye	基本	「帰ってきたら直させましょう」	「We'll make her fix it when she returns.」
 
-100972	Rance	「しっかし……」	「Still...
+100972	Rance	真剣	「しっかし……」	「Still...
 
-100973	Bezeleye	「ん？」	「Hm?」
+100973	Bezeleye	基本	「ん？」	「Hm?」
 
-100974	Rance	「あんな色ボケにあんなすごい力が備わるとは、	「To think someone so lovesick has such incredible power,
-100975	+	　まったく世の中は不公平なもんだな」	　the world really is unfair.」
+100974	Rance	だる顔	「あんな色ボケにあんなすごい力が備わるとは、	「To think someone so lovesick has such incredible power,
+100975	+		　まったく世の中は不公平なもんだな」	　the world really is unfair.」
 
-100976	Bezeleye	「……そうね。	「...Yeah.
-100977	+	　いえ、まったく。	　Completely.
-100978	+	　本当に、ね」	　Really.」
+100976	Bezeleye	基本	「……そうね。	「...Yeah.
+100977	+		　いえ、まったく。	　Completely.
+100978	+		　本当に、ね」	　Really.」
 
-100979	Rance	「何しみじみと俺の顔を見てる」	「Why are you staring at my face like that?」
+100979	Rance		「何しみじみと俺の顔を見てる」	「Why are you staring at my face like that?」
 
-100980	Bezeleye	「いいえ」	「No reason.」
+100980	Bezeleye		「いいえ」	「No reason.」
 
-100981	Bezeleye	「もしかしたら、ハウとランス君、	「Maybe Hau and Rance-kun
-100982	+	　少し似てるのかもね」	　are a bit similar.」
+100981	Bezeleye		「もしかしたら、ハウとランス君、	「Maybe Hau and Rance-kun
+100982	+		　少し似てるのかもね」	　are a bit similar.」
 
-100983	Rance	「はあ？　あんな色ボケと似てるわけなかろう」	「Haa? No way I'm similar to that lovesick fool.」
+100983	Rance	だる顔	「はあ？　あんな色ボケと似てるわけなかろう」	「Haa? No way I'm similar to that lovesick fool.」
 
-100984	Sill Plain	「あははは……」	「Ahahaha...」
+100984	Sill Plain	苦笑	「あははは……」	「Ahahaha...」

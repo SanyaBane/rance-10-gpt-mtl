@@ -3,136 +3,136 @@
 * Rance	ランス	Male
 * Sheila Helman	シーラ	Female
 
-96648	Hubert Lipton	「ようっ」	「Yo.」
+96648	Hubert Lipton	基本	「ようっ」	「Yo.」
 
-96649	-	夜、ラング・バウにいるランスが	At night, Rance who was in Lang Bau
-96650	+	部屋で珍しく晩酌をしていると、	was unusually having a drink in his room,
-96651	+	ヒューバートが現れた。	when Hubert appeared.
+96649	-		夜、ラング・バウにいるランスが	At night, Rance who was in Lang Bau
+96650	+		部屋で珍しく晩酌をしていると、	was unusually having a drink in his room,
+96651	+		ヒューバートが現れた。	when Hubert appeared.
 
-96652	Rance	「なんだ、突然現れおって。	「What, showing up suddenly.
-96653	+	　呼んでないぞ、帰れ帰れ」	　I didn't call you, go home go home.」
+96652	Rance	真剣	「なんだ、突然現れおって。	「What, showing up suddenly.
+96653	+		　呼んでないぞ、帰れ帰れ」	　I didn't call you, go home go home.」
 
-96654	Sheila Helman	「ヒューバートさん、こんばんは」	「Hubert-san, good evening.」
+96654	Sheila Helman	基本	「ヒューバートさん、こんばんは」	「Hubert-san, good evening.」
 
-96655	-	ランスに酌をしていたシーラがぺこりと頭を下げる。	Sheila, who was pouring for Rance, bowed her head politely.
+96655	-		ランスに酌をしていたシーラがぺこりと頭を下げる。	Sheila, who was pouring for Rance, bowed her head politely.
 
-96656	Hubert Lipton	「お？　シーラも一緒か。	「Oh? Sheila's here too.
-96657	+	　もこもこの嬢ちゃんはどうした？」	　What about the fluffy young lady?」
+96656	Hubert Lipton		「お？　シーラも一緒か。	「Oh? Sheila's here too.
+96657	+		　もこもこの嬢ちゃんはどうした？」	　What about the fluffy young lady?」
 
-96658	Rance	「つまみ作ってるところだ。	「She's making snacks.
-96659	+	　それより帰れ」	　Anyway, go home.」
+96658	Rance		「つまみ作ってるところだ。	「She's making snacks.
+96659	+		　それより帰れ」	　Anyway, go home.」
 
-96660	Hubert Lipton	「ふぃーっ、ようやく仕事の隙間が出来たぜ」	「Phew, finally got a break from work.」
+96660	Hubert Lipton	笑顔	「ふぃーっ、ようやく仕事の隙間が出来たぜ」	「Phew, finally got a break from work.」
 
-96661	Rance	「すーわーるーなー！	「Si-t do-wn no-! 
-96662	+	　かーえーれー！」	　Go ho-me!」
+96661	Rance	基本	「すーわーるーなー！	「Si-t do-wn no-! 
+96662	+		　かーえーれー！」	　Go ho-me!」
 
-96663	Hubert Lipton	「別にいいだろうが。	「It's fine isn't it.
-96664	+	　一杯くらいつきあえよ」	　Have a drink with me.」
+96663	Hubert Lipton		「別にいいだろうが。	「It's fine isn't it.
+96664	+		　一杯くらいつきあえよ」	　Have a drink with me.」
 
-96665	-	ヒューバートは手持ちの酒を手酌で注ぐと、	Hubert poured his own drink
-96666	+	美味そうに杯を空けた。	and emptied the cup with relish.
+96665	-		ヒューバートは手持ちの酒を手酌で注ぐと、	Hubert poured his own drink
+96666	+		美味そうに杯を空けた。	and emptied the cup with relish.
 
-96667	Hubert Lipton	「くはっ……！	「Kuhah...!
-96668	+	　たまらんな、こりゃ！」	　This hits the spot!」
+96667	Hubert Lipton	笑顔	「くはっ……！	「Kuhah...!
+96668	+		　たまらんな、こりゃ！」	　This hits the spot!」
 
-96669	Rance	「ふん、飲んだら帰れよ」	「Hmph, go home after you drink.」
+96669	Rance	基本	「ふん、飲んだら帰れよ」	「Hmph, go home after you drink.」
 
-96670	Hubert Lipton	「なあ、一つ聞いてもいいか？」	「Hey, can I ask you something?」
+96670	Hubert Lipton		「なあ、一つ聞いてもいいか？」	「Hey, can I ask you something?」
 
-96671	Hubert Lipton	「子供がいるってどんな気持ちだ？」	「What does it feel like to have a child?」
+96671	Hubert Lipton		「子供がいるってどんな気持ちだ？」	「What does it feel like to have a child?」
 
-96672	Rance	「はあ？」	「Haa?」
+96672	Rance		「はあ？」	「Haa?」
 
-96673	Hubert Lipton	「いや、俺は独身だからな、	「Well, I'm single,
-96674	+	　どんな気分なんだろうかと興味が湧いてな」	　so I got curious what it feels like.」
+96673	Hubert Lipton		「いや、俺は独身だからな、	「Well, I'm single,
+96674	+		　どんな気分なんだろうかと興味が湧いてな」	　so I got curious what it feels like.」
 
-96675	Rance	「普通はこういう場面は真面目な話とか	「Normally in this kind of situation
-96676	+	　するもんなんじゃないのか？」	　people talk about serious stuff, right?」
+96675	Rance		「普通はこういう場面は真面目な話とか	「Normally in this kind of situation
+96676	+		　するもんなんじゃないのか？」	　people talk about serious stuff, right?」
 
-96677	Hubert Lipton	「お前から真面目な回答が出ないって	「I know I won't get a serious answer from you,
-96678	+	　分かってるんだから、	　so it's fine.」
-96679	+	　いいんだよ、んなこと」	
+96677	Hubert Lipton		「お前から真面目な回答が出ないって	「I know I won't get a serious answer from you,
+96678	+		　分かってるんだから、	　so it's fine.」
+96679	+		　いいんだよ、んなこと」	
 
-96680	Rance	「別に、子供が出来たって	「Having a kid doesn't really
-96681	+	　何がどう変わるってもんでもないな」	　change anything much.」
+96680	Rance		「別に、子供が出来たって	「Having a kid doesn't really
+96681	+		　何がどう変わるってもんでもないな」	　change anything much.」
 
-96682	Hubert Lipton	「ふーん、そんなもんかね」	「Hmm, is that so.」
+96682	Hubert Lipton		「ふーん、そんなもんかね」	「Hmm, is that so.」
 
-96683	Hubert Lipton	「しかし、いいよなぁ。	「But it must be nice.
-96684	+	　家庭か……」	　Having a family...」
+96683	Hubert Lipton		「しかし、いいよなぁ。	「But it must be nice.
+96684	+		　家庭か……」	　Having a family...」
 
-96685	Rance	「俺は結婚しとらんぞ」	「I'm not married.」
+96685	Rance		「俺は結婚しとらんぞ」	「I'm not married.」
 
-96686	Hubert Lipton	「まあ、それは分かってるが……	「Well, I know that but...
-96687	+	　戦争が終わったら……結婚すっかな……」	　After the war ends... maybe I'll get married...」
+96686	Hubert Lipton		「まあ、それは分かってるが……	「Well, I know that but...
+96687	+		　戦争が終わったら……結婚すっかな……」	　After the war ends... maybe I'll get married...」
 
-96688	Sheila Helman	「えっ！」	「Eh!」
+96688	Sheila Helman		「えっ！」	「Eh!」
 
-96689	Sheila Helman	「あ、あの……それは……	「A, um... that means...
-96690	+	　その、結婚しそうな良い方が……」	　You have someone good to marry...?」
+96689	Sheila Helman	笑顔	「あ、あの……それは……	「A, um... that means...
+96690	+		　その、結婚しそうな良い方が……」	　You have someone good to marry...?」
 
-96691	Hubert Lipton	「いねぇよ、そわそわすんなって」	「I don't, don't get all flustered.」
+96691	Hubert Lipton		「いねぇよ、そわそわすんなって」	「I don't, don't get all flustered.」
 
-96692	Hubert Lipton	「お前いつの間にか普通の女の子っぽいこと	「You've started saying normal girly things
-96693	+	　言うようになったじゃねーか」	　without me noticing.」
+96692	Hubert Lipton		「お前いつの間にか普通の女の子っぽいこと	「You've started saying normal girly things
+96693	+		　言うようになったじゃねーか」	　without me noticing.」
 
-96694	Hubert Lipton	「相手はいねぇけど、	「I don't have anyone yet,
-96695	+	　誰かいい人いないもんか探そうかってな」	　but I'm thinking of looking for someone nice.」
+96694	Hubert Lipton	基本	「相手はいねぇけど、	「I don't have anyone yet,
+96695	+		　誰かいい人いないもんか探そうかってな」	　but I'm thinking of looking for someone nice.」
 
-96696	Sheila Helman	「あ、あはは、そうだったんですか」	「A, ahaha, I see.」
+96696	Sheila Helman		「あ、あはは、そうだったんですか」	「A, ahaha, I see.」
 
-96697	Hubert Lipton	「ま、相手探しと言っても、	「Well, even if I say looking for someone,
-96698	+	　総司令官なんてやってる内は無理だろうがな」	　as Supreme Commander it's probably impossible for now.」
+96697	Hubert Lipton		「ま、相手探しと言っても、	「Well, even if I say looking for someone,
+96698	+		　総司令官なんてやってる内は無理だろうがな」	　as Supreme Commander it's probably impossible for now.」
 
-96699	Rance	「ふふん、俺様の周りと比べて、	「Heh, compared to the women around me,
-96700	+	　ヘルマンはむっさいむっさいだからな」	　Helman is full of stinky guys.」
+96699	Rance		「ふふん、俺様の周りと比べて、	「Heh, compared to the women around me,
+96700	+		　ヘルマンはむっさいむっさいだからな」	　Helman is full of stinky guys.」
 
-96701	Rance	「あ、いや、そんなこともないか？」	「Ah, wait, maybe not?」
+96701	Rance	だる顔	「あ、いや、そんなこともないか？」	「Ah, wait, maybe not?」
 
-96702	Rance	「お前、まさか……	「You, don't tell me...
-96703	+	　クリームちゃんを狙ってたり……」	　you're aiming for Cream-chan...」
+96702	Rance	真剣	「お前、まさか……	「You, don't tell me...
+96703	+		　クリームちゃんを狙ってたり……」	　you're aiming for Cream-chan...」
 
-96704	Hubert Lipton	「ねぇよ」	「I'm not.」
+96704	Hubert Lipton	基本	「ねぇよ」	「I'm not.」
 
-96705	Rance	「そうか、割と仲良さそうに見えたが……	「I see, you two seemed pretty close though...
-96706	+	　まあないか」	　Well, guess not.」
+96705	Rance		「そうか、割と仲良さそうに見えたが……	「I see, you two seemed pretty close though...
+96706	+		　まあないか」	　Well, guess not.」
 
-96707	Rance	「む、アミトスということは……」	「Mu, then Amitos...」
+96707	Rance		「む、アミトスということは……」	「Mu, then Amitos...」
 
-96708	Hubert Lipton	「ないなぁ」	「Nope.」
+96708	Hubert Lipton		「ないなぁ」	「Nope.」
 
-96709	Hubert Lipton	「あの子に関しちゃ、	「That girl seems like
-96710	+	　死ぬまで軍で身を粉にしそうで……	　she'll work herself to death in the army...
-96711	+	　それはそれで心配だがな……」	　That's worrying in its own way...」
+96709	Hubert Lipton		「あの子に関しちゃ、	「That girl seems like
+96710	+		　死ぬまで軍で身を粉にしそうで……	　she'll work herself to death in the army...
+96711	+		　それはそれで心配だがな……」	　That's worrying in its own way...」
 
-96712	Rance	「ふーーむ……」	「Hmmm...」
+96712	Rance		「ふーーむ……」	「Hmmm...」
 
-96713	Sheila Helman	「あのぉ、フレイアさんということは……」	「Um, what about Freya-san...?」
+96713	Sheila Helman		「あのぉ、フレイアさんということは……」	「Um, what about Freya-san...?」
 
-96714	Hubert Lipton	「ない」	「No.」
+96714	Hubert Lipton		「ない」	「No.」
 
-96715	Hubert Lipton	「いや待て、俺とフレイアがって、	「Wait, me and Freya,
-96716	+	　想像することすら出来ねーぞ」	　I can't even imagine that.」
+96715	Hubert Lipton	困惑	「いや待て、俺とフレイアがって、	「Wait, me and Freya,
+96716	+		　想像することすら出来ねーぞ」	　I can't even imagine that.」
 
-96717	Sheila Helman	「そうですか……」	「I see...」
+96717	Sheila Helman	基本	「そうですか……」	「I see...」
 
-96718	Rance	「…………ふむ」	「............Hmm.」
+96718	Rance	真剣	「…………ふむ」	「............Hmm.」
 
-96719	Hubert Lipton	「？　なんだ、真面目な顔して――」	「? What, with such a serious face――」
+96719	Hubert Lipton	基本	「？　なんだ、真面目な顔して――」	「? What, with such a serious face――」
 
-96720	Rance	「がははは！　こんだけ女の子がいても、	「Gahahaha! Even with so many girls around,
-96721	+	　誰ともいい感じになれんとは、	　you can't get with any of them,
-96722	+	　情けない奴め！　がはははははは！」	　you pathetic guy! Gahahahahaha!」
+96720	Rance	笑顔	「がははは！　こんだけ女の子がいても、	「Gahahaha! Even with so many girls around,
+96721	+		　誰ともいい感じになれんとは、	　you can't get with any of them,
+96722	+		　情けない奴め！　がはははははは！」	　you pathetic guy! Gahahahahaha!」
 
-96723	Hubert Lipton	「……嬉しそうに」	「...You look happy saying that.」
+96723	Hubert Lipton	困惑	「……嬉しそうに」	「...You look happy saying that.」
 
-96724	Rance	「仮に誰かといい感じだったら、	「If you did get close with someone,
-96725	+	　ぶっ飛ばしてやるところだったがな」	　I'd punch you.」
+96724	Rance	基本	「仮に誰かといい感じだったら、	「If you did get close with someone,
+96725	+		　ぶっ飛ばしてやるところだったがな」	　I'd punch you.」
 
-96726	Hubert Lipton	「なんでだよ」	「Why?」
+96726	Hubert Lipton		「なんでだよ」	「Why?」
 
-96727	Rance	「ああ、ただしブスとの結婚なら許してやる」	「Ah, but if it's an ugly woman I'll allow it.」
+96727	Rance		「ああ、ただしブスとの結婚なら許してやる」	「Ah, but if it's an ugly woman I'll allow it.」
 
-96728	Hubert Lipton	「……へいへい、その時が来たら、	「...Yeah yeah, when that time comes,
-96729	+	　重々気をつけておくぜ」	　I'll be extra careful.」
+96728	Hubert Lipton		「……へいへい、その時が来たら、	「...Yeah yeah, when that time comes,
+96729	+		　重々気をつけておくぜ」	　I'll be extra careful.」

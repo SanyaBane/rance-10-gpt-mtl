@@ -10,110 +10,110 @@
 * Oruore the 3rd	オルオレ	Male
 * Carolie Mate	キャロリ	Female
 
-71995	Kentou Kanami	「ランス、お待たせ。	「Rance, sorry to keep you waiting.
-71996	+	　言われた通りの人を集めてきたわよ」	　I gathered the people you asked for.」
+71995	Kentou Kanami	基本	「ランス、お待たせ。	「Rance, sorry to keep you waiting.
+71996	+		　言われた通りの人を集めてきたわよ」	　I gathered the people you asked for.」
 
-71997	Rance	「お、ご苦労」	「Oh, good work.」
+71997	Rance		「お、ご苦労」	「Oh, good work.」
 
-71998	Rance	「うむうむ、ちゃんと言った通り、	「Yeah yeah, just as I ordered,
-71999	+	　諜報活動が得意のメンバーを集めてきたな」	　you gathered members skilled in espionage.」
+71998	Rance		「うむうむ、ちゃんと言った通り、	「Yeah yeah, just as I ordered,
+71999	+		　諜報活動が得意のメンバーを集めてきたな」	　you gathered members skilled in espionage.」
 
-72000	-	ランスによって集められた	The rangers gathered by Rance
-72001	+	レンジャーの面々はこれから何をするのかと、	looked at each other with puzzled faces,
-72002	+	不思議そうに顔を見合わせていた。	wondering what they were going to do next.
+72000	-		ランスによって集められた	The rangers gathered by Rance
+72001	+		レンジャーの面々はこれから何をするのかと、	looked at each other with puzzled faces,
+72002	+		不思議そうに顔を見合わせていた。	wondering what they were going to do next.
 
-72003	Kentou Kanami	「魔人討伐隊はすごい人ばかりだから、	「The Fiend Extermination Squad is full of amazing people,
-72004	+	　こうして並ぶと壮観ね……」	　seeing them all lined up like this is quite a sight...」
+72003	Kentou Kanami		「魔人討伐隊はすごい人ばかりだから、	「The Fiend Extermination Squad is full of amazing people,
+72004	+		　こうして並ぶと壮観ね……」	　seeing them all lined up like this is quite a sight...」
 
-72005	Kentou Kanami	「それで……どうするの？	「So... what are we doing?
-72006	+	　こんなレンジャーばかり集めて……」	　Gathering all these rangers...」
+72005	Kentou Kanami		「それで……どうするの？	「So... what are we doing?
+72006	+		　こんなレンジャーばかり集めて……」	　Gathering all these rangers...」
 
-72007	Rance	「最近魔軍が調子に乗っていて、	「Lately the Monster Army has been getting cocky,
-72008	+	　うっとうしいとは思わんか？」	　don't you find it annoying?」
+72007	Rance		「最近魔軍が調子に乗っていて、	「Lately the Monster Army has been getting cocky,
+72008	+		　うっとうしいとは思わんか？」	　don't you find it annoying?」
 
-72009	Rance	「ってわけで、君達レンジャーには、	「That's why you rangers
-72010	+	　俺様の考えたビュリホーでゴージャスな	　will carry out the gorgeous and beautiful
-72011	+	　諜報活動、または破壊工作を行ってきてもらう」	　espionage or sabotage operations that I came up with.」
+72009	Rance		「ってわけで、君達レンジャーには、	「That's why you rangers
+72010	+		　俺様の考えたビュリホーでゴージャスな	　will carry out the gorgeous and beautiful
+72011	+		　諜報活動、または破壊工作を行ってきてもらう」	　espionage or sabotage operations that I came up with.」
 
-72012	Rance	「がははは、これで魔軍も慌てふためき、	「Gahahaha, with this the Monster Army will panic
-72013	+	　すぐにてんてこの舞いを踊り出すって寸法だ！」	　and start running around in chaos right away!」
+72012	Rance	笑顔	「がははは、これで魔軍も慌てふためき、	「Gahahaha, with this the Monster Army will panic
+72013	+		　すぐにてんてこの舞いを踊り出すって寸法だ！」	　and start running around in chaos right away!」
 
-72014	Rance	「一人ずつ俺のとこに来なさい。	「Come to me one by one.
-72015	+	　それぞれ何すればいいか指示してやる」	　I'll give each of you your orders.」
+72014	Rance	基本	「一人ずつ俺のとこに来なさい。	「Come to me one by one.
+72015	+		　それぞれ何すればいいか指示してやる」	　I'll give each of you your orders.」
 
-72016	Rance	「作戦とはだなぁ……	「The plan is...」
-72017	?	　ごにょごにょごにょ……」	　blah blah blah...」
+72016	Rance		「作戦とはだなぁ……	「The plan is...」
+72017	?		　ごにょごにょごにょ……」	　blah blah blah...」
 
-72018	Kentou Kanami	「うわっ、ひっどー！	「Whoa, that's awful!
-72019	+	　そんな人の心を弄ぶようなこと	　Toying with people's hearts like that
-72020	+	　よく考えるわね！？」	　how can you even think of that!?」
+72018	Kentou Kanami	混乱	「うわっ、ひっどー！	「Whoa, that's awful!
+72019	+		　そんな人の心を弄ぶようなこと	　Toying with people's hearts like that
+72020	+		　よく考えるわね！？」	　how can you even think of that!?」
 
-72021	Rance	「がははは、戦争にひどいもくどいもあるもんか」	「Gahahaha, in war there is no such thing as too cruel or too dirty.」
+72021	Rance	基本	「がははは、戦争にひどいもくどいもあるもんか」	「Gahahaha, in war there is no such thing as too cruel or too dirty.」
 
-72022	Freya Idun	「……ふーん？	「...Hmm?
-72023	+	　悪くないんじゃない？」	　Not bad, right?」
+72022	Freya Idun		「……ふーん？	「...Hmm?
+72023	+		　悪くないんじゃない？」	　Not bad, right?」
 
-72024	Rance	「さすがフレイア、	「As expected from Freya,
-72025	+	　汚いことも楽勝って感じだな」	　you're fine with dirty work too.」
+72024	Rance		「さすがフレイア、	「As expected from Freya,
+72025	+		　汚いことも楽勝って感じだな」	　you're fine with dirty work too.」
 
-72026	Dark Heron	「……了解。	「...Understood.
-72027	+	　すぐに行動に移ります」	　I'll move out immediately.」
+72026	Dark Heron		「……了解。	「...Understood.
+72027	+		　すぐに行動に移ります」	　I'll move out immediately.」
 
-72028	Rance	「うむ、任せるぞ」	「Yeah, I'm counting on you.」
+72028	Rance		「うむ、任せるぞ」	「Yeah, I'm counting on you.」
 
-72029	Sioux Province	「これは……予想以上に……	「This is... more than I expected...
-72030	+	　ランスさんは本当にもう……」	　Rance-san really is...」
+72029	Sioux Province	思考	「これは……予想以上に……	「This is... more than I expected...
+72030	+		　ランスさんは本当にもう……」	　Rance-san really is...」
 
-72031	Rance	「……そんな目で総統を見るんじゃない」	「...Don't look at the Supreme Leader with those eyes.」
+72031	Rance	基本	「……そんな目で総統を見るんじゃない」	「...Don't look at the Supreme Leader with those eyes.」
 
-72032	Kaoru Quincy Kagura	「なるほど……	「I see...
-72033	+	　さすがに気は進みませんが、やりましょう」	　I'm not really enthusiastic, but let's do it.」
+72032	Kaoru Quincy Kagura		「なるほど……	「I see...
+72033	+		　さすがに気は進みませんが、やりましょう」	　I'm not really enthusiastic, but let's do it.」
 
-72034	Rance	「ちゃちゃーっと頼むぞ」	「Make it quick.」
+72034	Rance		「ちゃちゃーっと頼むぞ」	「Make it quick.」
 
-72035	Urza Pranaice	「本当に色々と考えますね……」	「You really think of all sorts of things...」
+72035	Urza Pranaice	真剣	「本当に色々と考えますね……」	「You really think of all sorts of things...」
 
-72036	Rance	「……それ、褒めてるよな？」	「...Is that a compliment?」
+72036	Rance	基本	「……それ、褒めてるよな？」	「...Is that a compliment?」
 
-72037	Crane	「……卑怯すぎて……や、だ」	「...It's too underhanded... I don't like it.」
+72037	Crane		「……卑怯すぎて……や、だ」	「...It's too underhanded... I don't like it.」
 
-72038	Rance	「拒否するんじゃない」	「No refusing.」
+72038	Rance		「拒否するんじゃない」	「No refusing.」
 
-72039	Oruore the 3rd	「いひひひっ。	「Heheheh.
-72040	+	　相変わらず面白いこと考える悪いお方っすね〜」	　As always, you come up with such wickedly fun ideas, boss~」
+72039	Oruore the 3rd	笑顔	「いひひひっ。	「Heheheh.
+72040	+		　相変わらず面白いこと考える悪いお方っすね〜」	　As always, you come up with such wickedly fun ideas, boss~」
 
-72041	Rance	「男に褒められても嬉しくないぞ。	「I'm not happy getting praised by a guy.
-72042	+	　とっとと行ってこい」	　Hurry up and get going.」
+72041	Rance	基本	「男に褒められても嬉しくないぞ。	「I'm not happy getting praised by a guy.
+72042	+		　とっとと行ってこい」	　Hurry up and get going.」
 
-72043	Carolie Mate	「…………」	「............」
+72043	Carolie Mate	弱気	「…………」	「............」
 
-72044	Rance	「あ、絶句しとる」	「Ah, she's speechless.」
+72044	Rance	基本	「あ、絶句しとる」	「Ah, she's speechless.」
 
-72045	Kentou Kanami	「まあ、総統の命令となれば仕方ない。	「Well, if it's the Supreme Leader's order, I guess I have no choice.
-72046	+	　行ってくるけど……」	　I'll go but...」
+72045	Kentou Kanami		「まあ、総統の命令となれば仕方ない。	「Well, if it's the Supreme Leader's order, I guess I have no choice.
+72046	+		　行ってくるけど……」	　I'll go but...」
 
-72047	Kentou Kanami	「ランスはその間、どうするの？」	「What will you be doing in the meantime, Rance?」
+72047	Kentou Kanami		「ランスはその間、どうするの？」	「What will you be doing in the meantime, Rance?」
 
-72048	Rance	「がははは、俺は休憩だ。	「Gahahaha, I'm taking a break.
-72049	+	　これまで頑張った分、ご褒美ターイム」	　After all my hard work, it's reward time!」
+72048	Rance	笑顔	「がははは、俺は休憩だ。	「Gahahaha, I'm taking a break.
+72049	+		　これまで頑張った分、ご褒美ターイム」	　After all my hard work, it's reward time!」
 
-72050	Rance	「ぐふふ、誰といいことするかなー」	「Hehehe, who should I have some fun with~」
+72050	Rance	エロ顔	「ぐふふ、誰といいことするかなー」	「Hehehe, who should I have some fun with~」
 
-72051	Rance	「ん？　なに見てる？	「Hm? What are you staring at?
-72052	+	　君達はとっとと仕事に行ってこい」	　You lot hurry up and get to work.」
+72051	Rance	基本	「ん？　なに見てる？	「Hm? What are you staring at?
+72052	+		　君達はとっとと仕事に行ってこい」	　You lot hurry up and get to work.」
 
-72053	Kentou Kanami	「なーんか納得いかない」	「I don't really buy this.」
+72053	Kentou Kanami	ジト目	「なーんか納得いかない」	「I don't really buy this.」
 
-72054	Rance	「あ、かなみ。	「Ah, Kanami.
-72055	+	　ついでにハンバーガー買ってきてくれ」	　While you're at it, buy me a hamburger.」
+72054	Rance	基本	「あ、かなみ。	「Ah, Kanami.
+72055	+		　ついでにハンバーガー買ってきてくれ」	　While you're at it, buy me a hamburger.」
 
-72056	Kentou Kanami	「私、今から命がけの任務なんですけど！」	「I'm about to go on a life-risking mission!」
+72056	Kentou Kanami	うがー	「私、今から命がけの任務なんですけど！」	「I'm about to go on a life-risking mission!」
 
-72057	-	…………	............
+72057	-		…………	............
 
-72058	-	……	......
+72058	-		……	......
 
-72059	-	翌日、レンジャーのプロフェッショナルである	The next day, thanks to the professional work
-72060	+	魔人討伐隊の働きにより、魔軍の各地で混乱が発生。	of the Fiend Extermination Squad rangers, chaos broke out across Monster Army territories.
+72059	-		翌日、レンジャーのプロフェッショナルである	The next day, thanks to the professional work
+72060	+		魔人討伐隊の働きにより、魔軍の各地で混乱が発生。	of the Fiend Extermination Squad rangers, chaos broke out across Monster Army territories.
 
-72061	-	ランスの卑怯作戦で魔軍の戦力が大幅に下がった。	Rance's underhanded plan greatly reduced the Monster Army's fighting strength.
+72061	-		ランスの卑怯作戦で魔軍の戦力が大幅に下がった。	Rance's underhanded plan greatly reduced the Monster Army's fighting strength.

@@ -7,91 +7,91 @@
 * Arios Theoman	テオマン	Male
 * Cola	コーラ	Male
 
-20738	-	――――一方、その頃――	―――― Meanwhile, around that time ――
+20738	-		――――一方、その頃――	―――― Meanwhile, around that time ――
 
-20739	Woman	「ひっ、ひいいい……！」	「Hie, hieee...!」
+20739	Woman	基本	「ひっ、ひいいい……！」	「Hie, hieee...!」
 
-20740	Boy	「か、かあさん……ぼく達、どうなるの……」	「M-Mom... what's going to happen to us...」
+20740	Boy		「か、かあさん……ぼく達、どうなるの……」	「M-Mom... what's going to happen to us...」
 
-20741	Woman	「だ、だだ、大丈夫、よ……大丈夫……」	「I-It's okay... it's okay...」
+20741	Woman		「だ、だだ、大丈夫、よ……大丈夫……」	「I-It's okay... it's okay...」
 
-20742	-	古びた砦に避難した民間人の一団が、	A group of civilians who had evacuated to an old fort
-20743	+	広間の中で震え上がっていた。	were trembling inside the hall.
+20742	-		古びた砦に避難した民間人の一団が、	A group of civilians who had evacuated to an old fort
+20743	+		広間の中で震え上がっていた。	were trembling inside the hall.
 
-20744	Free Cities Guard	「あ、あぁっ……ここは頑丈な作りになっている。	「Ah, ah... this place is built sturdily.
-20745	+	　魔軍にだって落とせやしないよ」	Not even the Monster Army can bring it down.」
+20744	Free Cities Guard		「あ、あぁっ……ここは頑丈な作りになっている。	「Ah, ah... this place is built sturdily.
+20745	+		　魔軍にだって落とせやしないよ」	Not even the Monster Army can bring it down.」
 
-20746	Boy	「そ、そうなんだ……よ、よかった……」	「I-I see... that's a relief...」
+20746	Boy		「そ、そうなんだ……よ、よかった……」	「I-I see... that's a relief...」
 
-20747	Free Cities Guard	「おい。見回ってきたぞ」	「Hey. I've finished my patrol.」
+20747	Free Cities Guard		「おい。見回ってきたぞ」	「Hey. I've finished my patrol.」
 
-20748	Free Cities Guard	「ああ……お疲れ。どうだ？」	「Yeah... good work. How was it?」
+20748	Free Cities Guard		「ああ……お疲れ。どうだ？」	「Yeah... good work. How was it?」
 
-20749	Free Cities Guard	「裏門もがっちり閉まってる。	「The back gate is also tightly shut.
-20750	+	　あれなら開けられないはずだ」	They shouldn't be able to open that.」
+20749	Free Cities Guard		「裏門もがっちり閉まってる。	「The back gate is also tightly shut.
+20750	+		　あれなら開けられないはずだ」	They shouldn't be able to open that.」
 
-20751	Free Cities Guard	「そうか、よかったよ。	「I see, that's good.
-20752	+	　魔物には開けられない、魔法の門だ。	It's a magical gate that monsters can't open.
-20753	+	　きちんと閉まっているなら、大丈夫だな」	If it's closed properly, we should be fine.」
+20751	Free Cities Guard		「そうか、よかったよ。	「I see, that's good.
+20752	+		　魔物には開けられない、魔法の門だ。	It's a magical gate that monsters can't open.
+20753	+		　きちんと閉まっているなら、大丈夫だな」	If it's closed properly, we should be fine.」
 
-20754	Free Cities Guard	「ああ。…………しかし、な……」	「Yeah. ...But...」
+20754	Free Cities Guard		「ああ。…………しかし、な……」	「Yeah. ...But...」
 
-20755	Free Cities Guard	「……どうした？」	「...What's wrong?」
+20755	Free Cities Guard		「……どうした？」	「...What's wrong?」
 
-20756	Free Cities Guard	「いや。包囲網が分厚い上に、	「No. The encirclement is thick,
-20757	+	　もうずいぶんと、他の人間がいる所から	and we've already drifted quite far
-20758	+	　離れちまったようだな」	from where any other humans might be.」
+20756	Free Cities Guard		「いや。包囲網が分厚い上に、	「No. The encirclement is thick,
+20757	+		　もうずいぶんと、他の人間がいる所から	and we've already drifted quite far
+20758	+		　離れちまったようだな」	from where any other humans might be.」
 
-20759	Free Cities Guard	「……戦況も悪い。援軍が来るって夢は、	「...The war situation is also bad. Dreaming of reinforcements
-20760	+	　寝てる間しか見られなさそうだ」	is something we'll only be doing while we're asleep.」
+20759	Free Cities Guard		「……戦況も悪い。援軍が来るって夢は、	「...The war situation is also bad. Dreaming of reinforcements
+20760	+		　寝てる間しか見られなさそうだ」	is something we'll only be doing while we're asleep.」
 
-20761	Free Cities Guard	「…………でも、俺たちだけで囲んでる奴らを	「...But it's impossible for just us to do anything
-20762	+	　どうにかするなんて不可能だぞ……」	about the ones surrounding us...」
+20761	Free Cities Guard		「…………でも、俺たちだけで囲んでる奴らを	「...But it's impossible for just us to do anything
+20762	+		　どうにかするなんて不可能だぞ……」	about the ones surrounding us...」
 
-20763	Free Cities Guard	「ああ。長期戦……というか……	「Yeah. A long war... or rather...
-20764	+	　最悪、餓死まであり得るな……」	at worst, starving to death is a possibility...」
+20763	Free Cities Guard		「ああ。長期戦……というか……	「Yeah. A long war... or rather...
+20764	+		　最悪、餓死まであり得るな……」	at worst, starving to death is a possibility...」
 
-20765	Free Cities Guard	「……いや。それでも……諦めてたまるか。	「...No. Even so... we can't just give up.
-20766	+	　俺たちは…………」	We are...」
+20765	Free Cities Guard		「……いや。それでも……諦めてたまるか。	「...No. Even so... we can't just give up.
+20766	+		　俺たちは…………」	We are...」
 
-20767	Man	「たっ、たたた！　大変だ！　おい、兵隊さん！」	「T-T-T-Trouble! Hey, soldiers!」
+20767	Man		「たっ、たたた！　大変だ！　おい、兵隊さん！」	「T-T-T-Trouble! Hey, soldiers!」
 
-20768	Free Cities Guard	「どうした！？」	「What happened!?」
+20768	Free Cities Guard		「どうした！？」	「What happened!?」
 
-20769	Man	「あ、開いちまってる！　裏門が！	「It's... it's open! The back gate!
-20770	+	　ま、ままま、魔軍が、そこから……！」	Th-Th-Th-The Monster Army is coming in from there...!」
+20769	Man		「あ、開いちまってる！　裏門が！	「It's... it's open! The back gate!
+20770	+		　ま、ままま、魔軍が、そこから……！」	Th-Th-Th-The Monster Army is coming in from there...!」
 
-20771	Free Cities Guard	「なッ…………！」	「Wh...!」
+20771	Free Cities Guard		「なッ…………！」	「Wh...!」
 
-20772	-	――――兵士達の驚愕の声は、	―――― The soldiers' cries of shock were
-20773	+	雪崩れ込む魔軍の轟きの中に、掻き消されていった。	drowned out by the roar of the Monster Army as it surged in.
+20772	-		――――兵士達の驚愕の声は、	―――― The soldiers' cries of shock were
+20773	+		雪崩れ込む魔軍の轟きの中に、掻き消されていった。	drowned out by the roar of the Monster Army as it surged in.
 
-20774	Arios Theoman	「……………………」	「..................」
+20774	Arios Theoman	抜刀	「……………………」	「..................」
 
-20775	Cola	「はーい、魔軍に伝えてきましたよ。	「Okay, I've informed the Monster Army.
-20776	+	　ま、状況は見ての通り、ですか」	Well, the situation is as you can see.」
+20775	Cola	基本	「はーい、魔軍に伝えてきましたよ。	「Okay, I've informed the Monster Army.
+20776	+		　ま、状況は見ての通り、ですか」	Well, the situation is as you can see.」
 
-20777	Arios Theoman	「ああ」	「Yeah.」
+20777	Arios Theoman		「ああ」	「Yeah.」
 
-20778	-	怒声、喚声、叫声。	Angry shouts, clamor, and screams.
+20778	-		怒声、喚声、叫声。	Angry shouts, clamor, and screams.
 
-20779	-	数日間足止めされていたせいか。	Perhaps because they had been held up for several days,
-20780	+	虐殺の声は、砦の外にも聞こえるほどだった。	the sounds of slaughter were loud enough to be heard outside the fort.
+20779	-		数日間足止めされていたせいか。	Perhaps because they had been held up for several days,
+20780	+		虐殺の声は、砦の外にも聞こえるほどだった。	the sounds of slaughter were loud enough to be heard outside the fort.
 
-20781	Cola	「いやー、子供も死にますねー。	「Man, children are dying.
-20782	+	　女も死にますねー。大漁大漁」	Women are dying too. Quite a haul.」
+20781	Cola		「いやー、子供も死にますねー。	「Man, children are dying.
+20782	+		　女も死にますねー。大漁大漁」	Women are dying too. Quite a haul.」
 
-20783	Arios Theoman	「……どうせ、死ぬ命だ」	「...They were destined to die anyway.」
+20783	Arios Theoman		「……どうせ、死ぬ命だ」	「...They were destined to die anyway.」
 
-20784	-	砦の入口を斬り捨てた剣を、	Arios silently sheathed the sword
-20785	+	アリオスは音もなく背中に収めた。	he had used to cut down the entrance to the fort.
+20784	-		砦の入口を斬り捨てた剣を、	Arios silently sheathed the sword
+20785	+		アリオスは音もなく背中に収めた。	he had used to cut down the entrance to the fort.
 
-20786	Cola	「これでエスクードソードも少しは……おや。	「With this, the Escudo Sword will also... Oh?
-20787	+	　もう行くんですか？」	Are you leaving already?」
+20786	Cola		「これでエスクードソードも少しは……おや。	「With this, the Escudo Sword will also... Oh?
+20787	+		　もう行くんですか？」	Are you leaving already?」
 
-20788	Arios Theoman	「事は済んだ。もう、用はない」	「The task is done. I have no more business here.」
+20788	Arios Theoman		「事は済んだ。もう、用はない」	「The task is done. I have no more business here.」
 
-20789	-	狂乱の宴の中に混じる悲鳴に背を向けて。	Turning his back on the screams mixing into the feast of madness,
-20790	+	勇者は、旅の続きへと戻っていった。	the Hero returned to the continuation of his journey.
+20789	-		狂乱の宴の中に混じる悲鳴に背を向けて。	Turning his back on the screams mixing into the feast of madness,
+20790	+		勇者は、旅の続きへと戻っていった。	the Hero returned to the continuation of his journey.
 
-20791	-	勇者の活躍で、魔軍が勢いづいた。	Thanks to the Hero's efforts, the Monster Army gained momentum.
+20791	-		勇者の活躍で、魔軍が勢いづいた。	Thanks to the Hero's efforts, the Monster Army gained momentum.

@@ -3,48 +3,48 @@
 * Sill Plain	シィル	Female
 * Rick Addison	リック	Male
 
-156993	Rance	「よし、魔人ハウゼルを倒すぞ」	「Alright, let's defeat Fiend Hawzel.」
+156993	Rance	基本	「よし、魔人ハウゼルを倒すぞ」	「Alright, let's defeat Fiend Hawzel.」
 
-156994	Sill Plain	「はーい、分かりました」	「Yes~, understood.」
+156994	Sill Plain		「はーい、分かりました」	「Yes~, understood.」
 
-156995	Rick Addison	「それなら……」	「In that case...
+156995	Rick Addison		「それなら……」	「In that case...
 
-156996	Rick Addison	「自分も前線に戻りますので、	　I'll return to the front lines too,
-156997	+	　是非お供をさせて下さい」	　so please let me accompany you.」
+156996	Rick Addison		「自分も前線に戻りますので、	　I'll return to the front lines too,
+156997	+		　是非お供をさせて下さい」	　so please let me accompany you.」
 
-156998	Rance	「む、リックか」	「Hm, Rick.」
+156998	Rance		「む、リックか」	「Hm, Rick.」
 
-156999	Rance	「まあ良かろう。	「Well, fine.
-157000	+	　せいぜい俺様の露払い頑張れよ」	　Do your best as my vanguard.」
+156999	Rance		「まあ良かろう。	「Well, fine.
+157000	+		　せいぜい俺様の露払い頑張れよ」	　Do your best as my vanguard.」
 
-157001	Rick Addison	「はっ！」	「Yes!」
+157001	Rick Addison	真剣	「はっ！」	「Yes!」
 
-157002	Sill Plain	「はい、それでは早速出発しましょう」	「Yes, then let's depart right away.」
+157002	Sill Plain	笑顔	「はい、それでは早速出発しましょう」	「Yes, then let's depart right away.」
 
-157003	Sill Plain	「えっと、確か赤の軍と白の軍が	「Um, the Red Army and White Army should be
-157004	+	　いらっしゃるのは……」	　located around...」
+157003	Sill Plain	考え中	「えっと、確か赤の軍と白の軍が	「Um, the Red Army and White Army should be
+157004	+		　いらっしゃるのは……」	　located around...」
 
-157005	-	シィルがチラリと伺うと、	Sill glanced over, and
-157006	+	リックが微笑を浮かべて答えた。	Rick answered with a gentle smile.
+157005	-		シィルがチラリと伺うと、	Sill glanced over, and
+157006	+		リックが微笑を浮かべて答えた。	Rick answered with a gentle smile.
 
-157007	Rick Addison	「リーザス北部にある、スケールの街ですね」	「It's Scale City in northern Leazas.」
+157007	Rick Addison	基本	「リーザス北部にある、スケールの街ですね」	「It's Scale City in northern Leazas.」
 
-157008	Rick Addison	「まずリーザス城から北上します」	「We'll head north from Leazas Castle first.」
+157008	Rick Addison		「まずリーザス城から北上します」	「We'll head north from Leazas Castle first.」
 
-157009	Rance	「真っ直ぐスケールを目指さんのか？」	「We're not heading straight for Scale?」
+157009	Rance		「真っ直ぐスケールを目指さんのか？」	「We're not heading straight for Scale?」
 
-157010	Rick Addison	「はい、少し迂回することになりますが、	「Yes, it will be a slight detour,
-157011	+	　戦地からは離れた方が良いでしょう」	　but it's better to stay away from the battlefield.」
+157010	Rick Addison		「はい、少し迂回することになりますが、	「Yes, it will be a slight detour,
+157011	+		　戦地からは離れた方が良いでしょう」	　but it's better to stay away from the battlefield.」
 
-157012	Rick Addison	「遠回りに見えますが、戦闘が少なく済みますから、	「It looks longer, but there will be fewer fights,
-157013	+	　結果的にこちらの方が早く着くかと」	　so we'll actually arrive faster this way.」
+157012	Rick Addison		「遠回りに見えますが、戦闘が少なく済みますから、	「It looks longer, but there will be fewer fights,
+157013	+		　結果的にこちらの方が早く着くかと」	　so we'll actually arrive faster this way.」
 
-157014	Rick Addison	「そして、プリティリアを通って魔人ハウゼルと交戦中の	「Then through Prettyria to Scale City,
-157015	+	　前線であるスケールの街へ」	　where we're fighting the Fiend Hawzel.」
+157014	Rick Addison		「そして、プリティリアを通って魔人ハウゼルと交戦中の	「Then through Prettyria to Scale City,
+157015	+		　前線であるスケールの街へ」	　where we're fighting the Fiend Hawzel.」
 
-157016	Rick Addison	「ランス殿、このルートで宜しいですか？」	「Lord Rance, is this route acceptable?」
+157016	Rick Addison		「ランス殿、このルートで宜しいですか？」	「Lord Rance, is this route acceptable?」
 
-157017	Rance	「おー、なんでもいいぞ。	「Yeah, anything's fine.
-157018	+	　早く着くんならな」	　As long as we get there fast.」
+157017	Rance	真剣	「おー、なんでもいいぞ。	「Yeah, anything's fine.
+157018	+		　早く着くんならな」	　As long as we get there fast.」
 
-157019	Rance	「よし、んじゃしゅっぱーつ」	「Alright, let's get moving.」
+157019	Rance	基本	「よし、んじゃしゅっぱーつ」	「Alright, let's get moving.」

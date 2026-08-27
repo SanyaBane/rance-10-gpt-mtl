@@ -7,271 +7,271 @@
 * Tousho	汎用闘将Ａ	Male
 * Tousho	汎用闘将Ｂ	Male
 
-5809	Toushin Sigma	「なーなー！　いいだろ？	「Hey hey! It's fine, right?
-5810	+	　おいらの嫁になってよー」	　Become my wifeー」
+5809	Toushin Sigma	基本	「なーなー！　いいだろ？	「Hey hey! It's fine, right?
+5810	+		　おいらの嫁になってよー」	　Become my wifeー」
 
-5811	Anise Sawatari	「無理です！　千鶴子様を差し置けば	「Impossible! If I put Chizuko-sama aside
-5812	+	　晩ごはんが抜きになる事必定！」	　I'll definitely miss dinner!」
+5811	Anise Sawatari		「無理です！　千鶴子様を差し置けば	「Impossible! If I put Chizuko-sama aside
+5812	+		　晩ごはんが抜きになる事必定！」	　I'll definitely miss dinner!」
 
-5813	Toushin Sigma	「うーん、でもそれだけ魔力があるのに……」	「Hmm, but you have so much magic power......」
+5813	Toushin Sigma		「うーん、でもそれだけ魔力があるのに……」	「Hmm, but you have so much magic power......」
 
-5814	Toushin Sigma	「あ…………」	「Ah............」
+5814	Toushin Sigma		「あ…………」	「Ah............」
 
-5815	Mary Ann	「ほら！　しゃんとしろよな。	「Hey! Stand up straight.
-5816	+	　襟、曲がってんぞー」	　Your collar is crookedー」
+5815	Mary Ann		「ほら！　しゃんとしろよな。	「Hey! Stand up straight.
+5816	+		　襟、曲がってんぞー」	　Your collar is crookedー」
 
-5817	Lei	「はいはい、わぁったよ……	「Yeah yeah, I got it......
-5818	+	　ったく、ガキのママゴトかっての……」	　Jeez, playing house like a kid......」
+5817	Lei		「はいはい、わぁったよ……	「Yeah yeah, I got it......
+5818	+		　ったく、ガキのママゴトかっての……」	　Jeez, playing house like a kid......」
 
-5819	Lei	「ん…………」	「Nn............」
+5819	Lei		「ん…………」	「Nn............」
 
-5820	Toushin Sigma	「……………………」	「........................」
+5820	Toushin Sigma		「……………………」	「........................」
 
-5821	-	――数百年前。第一次魔人戦争期。	――Hundreds of years ago. During the First Fiend War.
+5821	-		――数百年前。第一次魔人戦争期。	――Hundreds of years ago. During the First Fiend War.
 
-5822	Tousho	「た、大変……大変です！　――――シグマ様！」	「T-This is bad...... Terrible! ――――Sigma-sama!」
+5822	Tousho		「た、大変……大変です！　――――シグマ様！」	「T-This is bad...... Terrible! ――――Sigma-sama!」
 
-5823	Toushin Sigma	「敵襲かい！？」	「Enemy attack!?」
+5823	Toushin Sigma		「敵襲かい！？」	「Enemy attack!?」
 
-5824	Tousho	「はい、魔人です！	「Yes, it's a Fiend!
-5825	+	　魔人――――レイです！」	　The Fiend――――Lei!」
+5824	Tousho		「はい、魔人です！	「Yes, it's a Fiend!
+5825	+		　魔人――――レイです！」	　The Fiend――――Lei!」
 
-5826	Lei	「お、ッらああああァァァッッ！！」	「O, rraaaaaahhh!!」
+5826	Lei	戦闘時	「お、ッらああああァァァッッ！！」	「O, rraaaaaahhh!!」
 
-5827	Tousho	「がはあああぁぁっ！」	「Gahaaaa!」
+5827	Tousho	基本	「がはあああぁぁっ！」	「Gahaaaa!」
 
-5828	Tousho	「ぬぐ、く……ッ……！」	「Ngu, gu......!」
+5828	Tousho		「ぬぐ、く……ッ……！」	「Ngu, gu......!」
 
-5829	Lei	「チッ、ゴミどもが……わざわざ来たってのに、	「Tch, you trash...... I came all this way,
-5830	+	　退屈させるんじゃねェよ……！」	　don't bore me......!」
+5829	Lei	戦闘時	「チッ、ゴミどもが……わざわざ来たってのに、	「Tch, you trash...... I came all this way,
+5830	+		　退屈させるんじゃねェよ……！」	　don't bore me......!」
 
-5831	Toushin Sigma	「雷……雷の…………魔人……」	「Lightning...... A lightning Fiend......」
+5831	Toushin Sigma	基本	「雷……雷の…………魔人……」	「Lightning...... A lightning Fiend......」
 
-5832	Tousho	「鉄兵、器兵が近寄れません！	「The iron and vessel soldiers can't get close!
-5833	+	　闘将たちでさえ……」	　Even the Tousho......」
+5832	Tousho		「鉄兵、器兵が近寄れません！	「The iron and vessel soldiers can't get close!
+5833	+		　闘将たちでさえ……」	　Even the Tousho......」
 
-5834	Tousho	「ドラゴンたちも飛行モンスターの相手で	「The dragons are busy with flying monsters
-5835	+	　苦慮しております！　このままでは……」	　and struggling! At this rate......」
+5834	Tousho		「ドラゴンたちも飛行モンスターの相手で	「The dragons are busy with flying monsters
+5835	+		　苦慮しております！　このままでは……」	　and struggling! At this rate......」
 
-5836	Toushin Sigma	「くっ、おいらが出る！　避難を進めてくれ」	「Khh, I'll go out! Proceed with evacuation!」
+5836	Toushin Sigma		「くっ、おいらが出る！　避難を進めてくれ」	「Khh, I'll go out! Proceed with evacuation!」
 
-5837	Tousho	「シグマ様！？　闘神でも、雷は……シグマ様ーー！」	「Sigma-sama!? Even for a Toushin, lightning...... Sigma-samaaaa!」
+5837	Tousho		「シグマ様！？　闘神でも、雷は……シグマ様ーー！」	「Sigma-sama!? Even for a Toushin, lightning...... Sigma-samaaaa!」
 
-5838	Lei	「……フン。どうも、脆い都市を引いちまったか。	「......Hmph. Seems I picked a fragile city.
-5839	+	　くっだらねェ。さっさと落として……」	　How boring. I'll just crush it quickly......」
+5838	Lei		「……フン。どうも、脆い都市を引いちまったか。	「......Hmph. Seems I picked a fragile city.
+5839	+		　くっだらねェ。さっさと落として……」	　How boring. I'll just crush it quickly......」
 
-5840	Toushin Sigma	「待て！　おいらが相手だ！」	「Wait! I'm your opponent!」
+5840	Toushin Sigma		「待て！　おいらが相手だ！」	「Wait! I'm your opponent!」
 
-5841	Lei	「闘神…………ふん。ちったぁヤれんのかよ」	「Toushin............ Hmph. Can you even put up a fight?」
+5841	Lei		「闘神…………ふん。ちったぁヤれんのかよ」	「Toushin............ Hmph. Can you even put up a fight?」
 
-5842	Toushin Sigma	「器兵や鉄兵がこんなに……	「So many vessel and iron soldiers......
-5843	+	　雷を自在に操る魔人……そんなのがいたなんて」	　A Fiend who can freely control lightning...... I didn't know one existed
+5842	Toushin Sigma		「器兵や鉄兵がこんなに……	「So many vessel and iron soldiers......
+5843	+		　雷を自在に操る魔人……そんなのがいたなんて」	　A Fiend who can freely control lightning...... I didn't know one existed
 
-5844	Toushin Sigma	「けど、ここで引いたら、この身体が無駄になる。	　But if I back down here, this body will be wasted.
-5845	+	　おいら達が三代にわたって作った、この身体が」	　This body that three generations built
+5844	Toushin Sigma		「けど、ここで引いたら、この身体が無駄になる。	　But if I back down here, this body will be wasted.
+5845	+		　おいら達が三代にわたって作った、この身体が」	　This body that three generations built
 
-5846	Toushin Sigma	「爺ちゃんや父ちゃんの熱意が無駄になる……	　Grandpa and dad's passion will be wasted......
-5847	+	　そいつが、おいらには何より怖い！」	　That's what scares me the most!」
+5846	Toushin Sigma		「爺ちゃんや父ちゃんの熱意が無駄になる……	　Grandpa and dad's passion will be wasted......
+5847	+		　そいつが、おいらには何より怖い！」	　That's what scares me the most!」
 
-5848	Lei	「へっ、そうかよ…………」	「Heh, is that so............」
+5848	Lei		「へっ、そうかよ…………」	「Heh, is that so............」
 
-5849	Lei	「――――すり潰すぜ！」	「――――I'll crush you!」
+5849	Lei	戦闘時	「――――すり潰すぜ！」	「――――I'll crush you!」
 
-5850	-	………………・	..............・
+5850	-		………………・	..............・
 
-5851	-	…………	............
+5851	-		…………	............
 
-5852	-	……	......
+5852	-		……	......
 
-5853	Toushin Sigma	「はぁ、ひぃ……」	「Haa, hii......」
+5853	Toushin Sigma	基本	「はぁ、ひぃ……」	「Haa, hii......」
 
-5854	Tousho	「おっ、おおおぉっ！　シグマ様！　ご無事で！」	「O-Ohhh! Sigma-sama! You're safe!」
+5854	Tousho		「おっ、おおおぉっ！　シグマ様！　ご無事で！」	「O-Ohhh! Sigma-sama! You're safe!」
 
-5855	Toushin Sigma	「ご、ご無事じゃないよ……はああぁぁ……	「I'm not safe...... Haaaa......
-5856	+	　あ、帯電してるから触らないで」	　Ah, I'm still charged so don't touch.」
+5855	Toushin Sigma		「ご、ご無事じゃないよ……はああぁぁ……	「I'm not safe...... Haaaa......
+5856	+		　あ、帯電してるから触らないで」	　Ah, I'm still charged so don't touch.」
 
-5857	Tousho	「は……して、魔人は！」	「Y-Yes...... And the Fiend!」
+5857	Tousho		「は……して、魔人は！」	「Y-Yes...... And the Fiend!」
 
-5858	Toushin Sigma	「どうにか突き落とした。	「I managed to knock him down.
-5859	+	　向こうが飛べないのが幸いしたよ」	　Good thing he can't fly.」
+5858	Toushin Sigma		「どうにか突き落とした。	「I managed to knock him down.
+5859	+		　向こうが飛べないのが幸いしたよ」	　Good thing he can't fly.」
 
-5860	Tousho	「しかし、魔人は……」	「But the Fiend......」
+5860	Tousho		「しかし、魔人は……」	「But the Fiend......」
 
-5861	Toushin Sigma	「うん、そうだね。噂の無敵結界。マジだよ。	「Yeah, I know. The rumored invincible barrier. It's real.
-5862	+	　落下したところで、死んでないだろうね」	　Even after falling, he's probably not dead.」
+5861	Toushin Sigma		「うん、そうだね。噂の無敵結界。マジだよ。	「Yeah, I know. The rumored invincible barrier. It's real.
+5862	+		　落下したところで、死んでないだろうね」	　Even after falling, he's probably not dead.」
 
-5863	Tousho	「また…………来るでしょうか」	「Will he...... come again?」
+5863	Tousho		「また…………来るでしょうか」	「Will he...... come again?」
 
-5864	Toushin Sigma	「来るだろうね。笑ってた。	「He'll come. He was laughing.
-5865	+	　さあ……忙しくなるぞー！」	　Well then...... it's going to get busy!」
+5864	Toushin Sigma		「来るだろうね。笑ってた。	「He'll come. He was laughing.
+5865	+		　さあ……忙しくなるぞー！」	　Well then...... it's going to get busy!」
 
-5866	Tousho	「はっ？　そうですね、援軍の手配とか……」	「Huh? Yes, we need to request reinforcements......」
+5866	Tousho		「はっ？　そうですね、援軍の手配とか……」	「Huh? Yes, we need to request reinforcements......」
 
-5867	Toushin Sigma	「ああ、ううん。違うよ。改造さ」	「Ah, no. That's not it. I'm going to modify things.」
+5867	Toushin Sigma		「ああ、ううん。違うよ。改造さ」	「Ah, no. That's not it. I'm going to modify things.」
 
-5868	Tousho	「改造…………」	「Modify............」
+5868	Tousho		「改造…………」	「Modify............」
 
-5869	Toushin Sigma	「そう。今からあの電撃に耐えられるだけの、	「Yes. Right now I need to develop
-5870	+	　耐電装甲を開発しなきゃ！」	　lightning-resistant armor!」
+5869	Toushin Sigma		「そう。今からあの電撃に耐えられるだけの、	「Yes. Right now I need to develop
+5870	+		　耐電装甲を開発しなきゃ！」	　lightning-resistant armor!」
 
-5871	Tousho	「い、今からですか！？　シグマ様が！？」	「Right now!? You yourself, Sigma-sama!?」
+5871	Tousho		「い、今からですか！？　シグマ様が！？」	「Right now!? You yourself, Sigma-sama!?」
 
-5872	Toushin Sigma	「そうさ。このボディ、わざわざ指先を尖らせたのは	「That's right. I made the fingertips of this body pointed
-5873	+	　精密作業できるように、だよ。開発だってするさ」	　precisely so I could do detailed work. Of course I can develop things.」
+5872	Toushin Sigma		「そうさ。このボディ、わざわざ指先を尖らせたのは	「That's right. I made the fingertips of this body pointed
+5873	+		　精密作業できるように、だよ。開発だってするさ」	　precisely so I could do detailed work. Of course I can develop things.」
 
-5874	Toushin Sigma	「さあ！　いくぞ、魔人レイ！	「Alright! Come at me, Fiend Lei!
-5875	+	　ここからがおいらの戦いだ！」	　This is where my real fight begins!」
+5874	Toushin Sigma		「さあ！　いくぞ、魔人レイ！	「Alright! Come at me, Fiend Lei!
+5875	+		　ここからがおいらの戦いだ！」	　This is where my real fight begins!」
 
-5876	-	それから、数日後。	Then, several days later.
+5876	-		それから、数日後。	Then, several days later.
 
-5877	?	「損傷、80ぱーせんと……	「Damage at 80 percent......
-5878	+	　残弾、一斉射……！」	　All remaining shots......！」
+5877	?		「損傷、80ぱーせんと……	「Damage at 80 percent......
+5878	+		　残弾、一斉射……！」	　All remaining shots......！」
 
-5879	Lei	「……っ……！」	「......!」
+5879	Lei	戦闘時	「……っ……！」	「......!」
 
-5880	Lei	「雑魚が強くなってる……？	「The small fries are getting stronger......?
-5881	+	　いや、こいつは……」	　No, this is......
+5880	Lei		「雑魚が強くなってる……？	「The small fries are getting stronger......?
+5881	+		　いや、こいつは……」	　No, this is......
 
-5882	Toushin Sigma	「来たな、魔人レイ……！」	「You've come, Fiend Lei......！」
+5882	Toushin Sigma	基本	「来たな、魔人レイ……！」	「You've come, Fiend Lei......！」
 
-5883	Lei	「ふん。ご自慢のポンコツボディは直ったかよ？」	「Hmph. Did you fix that junk body of yours?」
+5883	Lei	戦闘時	「ふん。ご自慢のポンコツボディは直ったかよ？」	「Hmph. Did you fix that junk body of yours?」
 
-5884	Toushin Sigma	「傷ついた身体は、修復のたびに強くなる。	「Every time this body gets damaged and repaired, it grows stronger.
-5885	+	　今度は負けないぞ、魔人レイ！」	　I won't lose this time, Fiend Lei!」
+5884	Toushin Sigma	基本	「傷ついた身体は、修復のたびに強くなる。	「Every time this body gets damaged and repaired, it grows stronger.
+5885	+		　今度は負けないぞ、魔人レイ！」	　I won't lose this time, Fiend Lei!」
 
-5886	Lei	「ケッ……なら即死させてやるよ！」	「Tch...... Then I'll kill you instantly!」
+5886	Lei	戦闘時	「ケッ……なら即死させてやるよ！」	「Tch...... Then I'll kill you instantly!」
 
-5887	-	………………	..............
+5887	-		………………	..............
 
-5888	-	…………	............
+5888	-		…………	............
 
-5889	-	……	......
+5889	-		……	......
 
-5890	Toushin Sigma	「げほっ……あ、危ない……	「Geh...... Ah, that was close......
-5891	+	　前ので本気じゃなかったなんて……」	　He wasn't serious last time......」
+5890	Toushin Sigma	基本	「げほっ……あ、危ない……	「Geh...... Ah, that was close......
+5891	+		　前ので本気じゃなかったなんて……」	　He wasn't serious last time......」
 
-5892	Tousho	「シ、シグマ様！	「S-Sigma-sama!
-5893	+	　他都市に救援を要請しましょう！	　We should request reinforcements from other cities!
-5894	+	　ルーン様らの魔法であればあるいは……！」	　If it's Lord Rune and the others' magic, perhaps......！」
+5892	Tousho		「シ、シグマ様！	「S-Sigma-sama!
+5893	+		　他都市に救援を要請しましょう！	　We should request reinforcements from other cities!
+5894	+		　ルーン様らの魔法であればあるいは……！」	　If it's Lord Rune and the others' magic, perhaps......！」
 
-5895	Toushin Sigma	「マグネットコーティングだけじゃダメだな……	「Magnet coating alone isn't enough......
-5896	+	　熱量を……ううん、受け止めちゃダメだ。	　The heat...... no, I can't just endure it.
-5897	+	　流すような……」	　I need to redirect it......」
+5895	Toushin Sigma		「マグネットコーティングだけじゃダメだな……	「Magnet coating alone isn't enough......
+5896	+		　熱量を……ううん、受け止めちゃダメだ。	　The heat...... no, I can't just endure it.
+5897	+		　流すような……」	　I need to redirect it......」
 
-5898	Toushin Sigma	「ああそれと……兵器も新しく用意しないと。	「Ah, and...... I need new weapons too.
-5899	+	　あいつ、飛行モンスターを外に揃えてた……	　That guy had flying monsters outside......
-5900	+	　無力化を目標にして……ぶつぶつ……」	　Aim to neutralize them...... mutter mutter......」
+5898	Toushin Sigma		「ああそれと……兵器も新しく用意しないと。	「Ah, and...... I need new weapons too.
+5899	+		　あいつ、飛行モンスターを外に揃えてた……	　That guy had flying monsters outside......
+5900	+		　無力化を目標にして……ぶつぶつ……」	　Aim to neutralize them...... mutter mutter......」
 
-5901	Tousho	「シグマ様……」	「Sigma-sama......」
+5901	Tousho		「シグマ様……」	「Sigma-sama......」
 
-5902	Toushin Sigma	「おりゃああああああああ！」	「Oryaaaaaaa!」
+5902	Toushin Sigma		「おりゃああああああああ！」	「Oryaaaaaaa!」
 
-5903	Lei	「ッッ――――らあああぁァッ！！」	「――Raaaaahhh!!」
+5903	Lei	戦闘時	「ッッ――――らあああぁァッ！！」	「――Raaaaahhh!!」
 
-5904	-	………………・	..............・
+5904	-		………………・	..............・
 
-5905	-	…………	............
+5905	-		…………	............
 
-5906	-	……	......
+5906	-		……	......
 
-5907	Toushin Sigma	「どうだっ！　遠距離の電撃は、もう……！」	「How about that! Long-range lightning doesn't work anymore......！」
+5907	Toushin Sigma	基本	「どうだっ！　遠距離の電撃は、もう……！」	「How about that! Long-range lightning doesn't work anymore......！」
 
-5908	Lei	「ハッ……ようやく拳で	「Hah...... Finally I can crush you
-5909	+	　潰してやれるってこったなァ！」	　with my fists!」
+5908	Lei	戦闘時	「ハッ……ようやく拳で	「Hah...... Finally I can crush you
+5909	+		　潰してやれるってこったなァ！」	　with my fists!」
 
-5910	-	………………	..............
+5910	-		………………	..............
 
-5911	-	…………	............
+5911	-		…………	............
 
-5912	-	……	......
+5912	-		……	......
 
-5913	Toushin Sigma	「ふーーーぅ……できた！	「Fuuu...... Done!
-5914	+	　新型装甲に新兵器！」	　New armor and new weapons!」
+5913	Toushin Sigma	基本	「ふーーーぅ……できた！	「Fuuu...... Done!
+5914	+		　新型装甲に新兵器！」	　New armor and new weapons!」
 
-5915	Tousho	「おぉ……お疲れ様です、シグマ様……！」	「Oh...... Well done, Sigma-sama......！」
+5915	Tousho		「おぉ……お疲れ様です、シグマ様……！」	「Oh...... Well done, Sigma-sama......！」
 
-5916	Toushin Sigma	「疲れないボディはいいね。	「A tireless body is great.
-5917	+	　ずーっと開発してられる」	　I can keep developing forever.」
+5916	Toushin Sigma		「疲れないボディはいいね。	「A tireless body is great.
+5917	+		　ずーっと開発してられる」	　I can keep developing forever.」
 
-5918	Tousho	「精神はお疲れでは……」	「Your mind must be exhausted though......」
+5918	Tousho		「精神はお疲れでは……」	「Your mind must be exhausted though......」
 
-5919	Toushin Sigma	「へっちゃらさ。	「No problem.
-5920	+	　さあレイめ。いつでも来い。今度こそ……」	　Come at me anytime, Lei. This time for sure......」
+5919	Toushin Sigma		「へっちゃらさ。	「No problem.
+5920	+		　さあレイめ。いつでも来い。今度こそ……」	　Come at me anytime, Lei. This time for sure......」
 
-5921	Tousho	「奴も諦めればいいものを……」	「If only that Demon would just give up......」
+5921	Tousho		「奴も諦めればいいものを……」	「If only that Demon would just give up......」
 
-5922	Toushin Sigma	「まー、こっちが不利なのは変わらないからね……	「Well, we're still at a disadvantage......
-5923	+	　とはいえ、今さら逃げられたら	　But if he runs away now,
-5924	+	　おいらの立つ瀬がないよ」	　I'd lose face.」
+5922	Toushin Sigma		「まー、こっちが不利なのは変わらないからね……	「Well, we're still at a disadvantage......
+5923	+		　とはいえ、今さら逃げられたら	　But if he runs away now,
+5924	+		　おいらの立つ瀬がないよ」	　I'd lose face.」
 
-5925	Tousho	「すごいものですな。	「Amazing.
-5926	+	　シグマ様の技術も……	　Sigma-sama's skill......
-5927	?	げぅッ」	Geh!
+5925	Tousho		「すごいものですな。	「Amazing.
+5926	+		　シグマ様の技術も……	　Sigma-sama's skill......
+5927	?		げぅッ」	Geh!
 
-5928	Toushin Sigma	「あっ！？」	「Ah!?」
+5928	Toushin Sigma		「あっ！？」	「Ah!?」
 
-5929	-	会話していた闘将の首が、	The head of the Tousho he was talking to
-5930	+	次の瞬間吹き飛ばされていた。	was blown off the next instant.
+5929	-		会話していた闘将の首が、	The head of the Tousho he was talking to
+5930	+		次の瞬間吹き飛ばされていた。	was blown off the next instant.
 
-5931	?	「ここかあああああ……	「So this is the place......
-5932	+	　レイの小僧が遊んどるっちゅう都市はぁ……」	　The city where that Lei brat is playing......」
+5931	?		「ここかあああああ……	「So this is the place......
+5932	+		　レイの小僧が遊んどるっちゅう都市はぁ……」	　The city where that Lei brat is playing......」
 
-5933	Toushin Sigma	「……………………ッ……！」	「........................!」
+5933	Toushin Sigma		「……………………ッ……！」	「........................!」
 
-5934	?	「儂も遊ばせんかぁぁぁぃ！　ぐわっははははは！」	「Let me play too! Gwah hahahahaha!」
+5934	?		「儂も遊ばせんかぁぁぁぃ！　ぐわっははははは！」	「Let me play too! Gwah hahahahaha!」
 
-5935	-	………………	..............
+5935	-		………………	..............
 
-5936	-	…………	............
+5936	-		…………	............
 
-5937	-	……	......
+5937	-		……	......
 
-5938	Lei	「ん…………」	「Hmm............」
+5938	Lei		「ん…………」	「Hmm............」
 
-5939	-	魔人レイが降り立った、闘神都市Σ――――	The Toushin City Σ where Fiend Lei had landed――――
+5939	-		魔人レイが降り立った、闘神都市Σ――――	The Toushin City Σ where Fiend Lei had landed――――
 
-5940	Lei	「……なんだ？	「......What?
-5941	+	　ずいぶん今日は静かじゃねェか……」	　It's awfully quiet today......」
+5940	Lei		「……なんだ？	「......What?
+5941	+		　ずいぶん今日は静かじゃねェか……」	　It's awfully quiet today......」
 
-5942	Lei	「ふん。改造が間に合わなかったとか、	「Hmph. If it's because the modifications weren't finished,
-5943	+	　そんなシラける話なら、一気に潰して……」	　that's boring. I'll just destroy everything at once......」
+5942	Lei		「ふん。改造が間に合わなかったとか、	「Hmph. If it's because the modifications weren't finished,
+5943	+		　そんなシラける話なら、一気に潰して……」	　that's boring. I'll just destroy everything at once......」
 
-5944	Toushin Sigma	「…………っ、く、あ、ああぁ……」	「............Khh, a, aaah......」
+5944	Toushin Sigma		「…………っ、く、あ、ああぁ……」	「............Khh, a, aaah......」
 
-5945	Lei	「――――テメェ」	「――――You」
+5945	Lei		「――――テメェ」	「――――You」
 
-5946	-	短い呟きは、わずかに裏切られたような、	The short mutter carried a slight tone
-5947	+	そんな響きがあった。	of betrayal.
+5946	-		短い呟きは、わずかに裏切られたような、	The short mutter carried a slight tone
+5947	+		そんな響きがあった。	of betrayal.
 
-5948	Toushin Sigma	「き……たか、レイ……っ……」	「Y...... You've come, Lei......」
+5948	Toushin Sigma		「き……たか、レイ……っ……」	「Y...... You've come, Lei......」
 
-5949	-	半壊した闘神の身体は立ち上がろうとして果たせず、	The half-destroyed Toushin's body tried to stand but failed,
-5950	+	それでも膝を支えにしてレイに向かって構える。	yet still used its knees for support to face Lei.
+5949	-		半壊した闘神の身体は立ち上がろうとして果たせず、	The half-destroyed Toushin's body tried to stand but failed,
+5950	+		それでも膝を支えにしてレイに向かって構える。	yet still used its knees for support to face Lei.
 
-5951	Toushin Sigma	「さぁ来いっ……おいらは……まだまだやれるっ……	「Come on...... I'm...... still not done......
-5952	+	　新兵器、がっ……」	　My new weapons......」
+5951	Toushin Sigma		「さぁ来いっ……おいらは……まだまだやれるっ……	「Come on...... I'm...... still not done......
+5952	+		　新兵器、がっ……」	　My new weapons......」
 
-5953	Lei	「…………けっ。くだらねェ……」	「............Tch. How boring......」
+5953	Lei		「…………けっ。くだらねェ……」	「............Tch. How boring......」
 
-5954	-	レイは、踵を返す。	Lei turned on his heel.
-5955	+	行き先は、闘神都市の奥深く、コアブロック。	His destination was deep inside the Toushin City, the core block.
+5954	-		レイは、踵を返す。	Lei turned on his heel.
+5955	+		行き先は、闘神都市の奥深く、コアブロック。	His destination was deep inside the Toushin City, the core block.
 
-5956	Toushin Sigma	「待て…………待て、レイ！！」	「Wait............ Wait, Lei!!」
+5956	Toushin Sigma		「待て…………待て、レイ！！」	「Wait............ Wait, Lei!!」
 
-5957	Toushin Sigma	「おいらは…………おいらを、ッ……！」	「I'm............ me......！」
+5957	Toushin Sigma		「おいらは…………おいらを、ッ……！」	「I'm............ me......！」
 
-5958	Toushin Sigma	「うあああああああああぁぁぁぁぁぁっ……！！」	「Uwaaaaaaaaaaaaaaaaaahhh......!!」
+5958	Toushin Sigma		「うあああああああああぁぁぁぁぁぁっ……！！」	「Uwaaaaaaaaaaaaaaaaaahhh......!!」
 
-5959	-	その日。	That day.
+5959	-		その日。	That day.
 
-5960	-	闘神都市Σは、墜ちた。	Toushin City Σ fell.
+5960	-		闘神都市Σは、墜ちた。	Toushin City Σ fell.
 
-5961	Toushin Sigma	「…………」	「............」
+5961	Toushin Sigma		「…………」	「............」
 
-5962	Lei	「…………」	「............」
+5962	Lei		「…………」	「............」
 
-5963	Lei	「よォ。大変そうだな」	「Yo. Looks rough.」
+5963	Lei		「よォ。大変そうだな」	「Yo. Looks rough.」
 
-5964	Toushin Sigma	「そっちもね」	「Same to you.」
+5964	Toushin Sigma		「そっちもね」	「Same to you.」
 
-5965	-	それだけ交わして、二人はすれ違っていった。	After those words, the two passed each other.
+5965	-		それだけ交わして、二人はすれ違っていった。	After those words, the two passed each other.

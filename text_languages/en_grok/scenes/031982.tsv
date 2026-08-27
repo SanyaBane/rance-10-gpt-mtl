@@ -2,115 +2,115 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-115078	Rance	「よう、サテラ」	「Yo, Satella.」
+115078	Rance	基本	「よう、サテラ」	「Yo, Satella.」
 
-115079	Satella	「む……」	「Mu......」
+115079	Satella		「む……」	「Mu......」
 
-115080	Satella	「…………」	「............」
+115080	Satella	思考	「…………」	「............」
 
-115081	Satella	「……な、なあ、ランス」	「...H-hey, Rance.」
+115081	Satella	不安	「……な、なあ、ランス」	「...H-hey, Rance.」
 
-115082	Rance	「んー？」	「Hmm?」
+115082	Rance	基本	「んー？」	「Hmm?」
 
-115083	Satella	「その……お前がサテラの使徒になって、	「Well... it's been a while since you became Satella's apostle,
-115084	+	　もうしばらく経つ、な……？」	　hasn't it...?」
+115083	Satella	不安	「その……お前がサテラの使徒になって、	「Well... it's been a while since you became Satella's apostle,
+115084	+		　もうしばらく経つ、な……？」	　hasn't it...?」
 
-115085	Rance	「そうだな」	「Yeah.」
+115085	Rance	基本	「そうだな」	「Yeah.」
 
-115086	Satella	「その……そろそろ呼び方を、だな……」	「So... it's about time you changed how you address me......」
+115086	Satella	不安	「その……そろそろ呼び方を、だな……」	「So... it's about time you changed how you address me......」
 
-115087	Satella	「サテラ様……に、変えてもいいんだぞ？」	「You can call me Satella-sama... if you want.」
+115087	Satella	基本	「サテラ様……に、変えてもいいんだぞ？」	「You can call me Satella-sama... if you want.」
 
-115088	Rance	「…………」	「............」
+115088	Rance	真剣	「…………」	「............」
 
-115089	Rance	「いや、いい」	「Nah, it's fine.」
+115089	Rance		「いや、いい」	「Nah, it's fine.」
 
-115090	Satella	「うぐっ……」	「Ugh......」
+115090	Satella	不安	「うぐっ……」	「Ugh......」
 
-115091	Satella	「いい、じゃない！	「It's not fine!
-115092	+	　いいから、そう呼べ！」	　Just call me that!」
+115091	Satella	怒り	「いい、じゃない！	「It's not fine!
+115092	+		　いいから、そう呼べ！」	　Just call me that!」
 
-115093	Rance	「えー……」	「Ehh......」
+115093	Rance	基本	「えー……」	「Ehh......」
 
-115094	Satella	「えー、じゃない！	「No ehh!
-115095	+	　お前はサテラの使徒だろう！	　You're Satella's apostle!
-115096	+	　主の命令に逆らう気か！」	　Are you going to defy your master's order!」
+115094	Satella	怒り	「えー、じゃない！	「No ehh!
+115095	+		　お前はサテラの使徒だろう！	　You're Satella's apostle!
+115096	+		　主の命令に逆らう気か！」	　Are you going to defy your master's order!」
 
-115097	Rance	「別にいいではないか。	「It's fine the way it is.
-115098	+	　呼び方なんてなんだって」	　The way you address me doesn't matter.」
+115097	Rance	基本	「別にいいではないか。	「It's fine the way it is.
+115098	+		　呼び方なんてなんだって」	　The way you address me doesn't matter.」
 
-115099	Satella	「うっ……」	「Ugh......」
+115099	Satella	不安	「うっ……」	「Ugh......」
 
-115100	Satella	「だって……」	「But......」
+115100	Satella		「だって……」	「But......」
 
-115101	Satella	「せっかく主従の関係になったのに……	「We finally have a proper master-servant relationship......
-115102	+	　なんか……今までと変わらない……」	　yet... nothing has really changed......」
+115101	Satella		「せっかく主従の関係になったのに……	「We finally have a proper master-servant relationship......
+115102	+		　なんか……今までと変わらない……」	　yet... nothing has really changed......」
 
-115103	Rance	「んーーー……」	「Nnnn......」
+115103	Rance	真剣	「んーーー……」	「Nnnn......」
 
-115104	Rance~	（ま、呼び方なんてなんだっていいか）	（Well, the way she is called doesn't really matter.）
+115104	Rance~		（ま、呼び方なんてなんだっていいか）	（Well, the way she is called doesn't really matter.）
 
-115105	Rance	「じゃあ、今日からサテラ様って呼んでやる」	「Fine, from today I'll call you Satella-sama.」
+115105	Rance	基本	「じゃあ、今日からサテラ様って呼んでやる」	「Fine, from today I'll call you Satella-sama.」
 
-115106	Satella	「へっ！？」	「Heh!?」
+115106	Satella		「へっ！？」	「Heh!?」
 
-115107	Satella	「い、いいのか！？」	「I-is that okay!?」
+115107	Satella		「い、いいのか！？」	「I-is that okay!?」
 
-115108	Rance	「おう、いいぞ」	「Yeah, it's fine.」
+115108	Rance		「おう、いいぞ」	「Yeah, it's fine.」
 
-115109	Rance	「じゃあ――」	「Then――」
+115109	Rance		「じゃあ――」	「Then――」
 
-115110	Satella	「わあ、わあ！？　馬鹿、待て！」	「Wah, wah!? Idiot, wait!」
+115110	Satella	超テレ	「わあ、わあ！？　馬鹿、待て！」	「Wah, wah!? Idiot, wait!」
 
-115111	Rance	「……なんだよ」	「...What?」
+115111	Rance	基本	「……なんだよ」	「...What?」
 
-115112	Satella	「こ、こっちにだって	「E-even I need
-115113	+	　心の準備というものが必要なんだ！」	　some mental preparation for this!」
+115112	Satella	ツンデレ	「こ、こっちにだって	「E-even I need
+115113	+		　心の準備というものが必要なんだ！」	　some mental preparation for this!」
 
-115114	Satella	「すうはあ、すうはあ……」	「Suu haa, suu haa......」
+115114	Satella	思考	「すうはあ、すうはあ……」	「Suu haa, suu haa......」
 
-115115	Satella	「んっ、んっ……」	「Ngh, ngh......」
+115115	Satella		「んっ、んっ……」	「Ngh, ngh......」
 
-115116	Satella	「よし、いいぞ！　呼べ！」	「Alright, I'm ready! Call me!」
+115116	Satella	怒り	「よし、いいぞ！　呼べ！」	「Alright, I'm ready! Call me!」
 
-115117	Rance	「サテラ様」	「Satella-sama.」
+115117	Rance	基本	「サテラ様」	「Satella-sama.」
 
-115118	Satella	「ぴゃっ」	「Pyaa!」
+115118	Satella	超テレ	「ぴゃっ」	「Pyaa!」
 
-115119	Satella	「…………」	「............」
+115119	Satella	あほー	「…………」	「............」
 
-115120	Satella	「あ、う……」	「A, u......」
+115120	Satella	ぐぬぬ	「あ、う……」	「A, u......」
 
-115121	Satella~	（う、うう、何故だ……	（U, uuh, why......
-115122	+	　ランスに、そう呼ばれた瞬間……	　The moment Rance called me that......
-115123	+	　心臓が思い切り跳ねて……）	　my heart jumped so hard......）
+115121	Satella~		（う、うう、何故だ……	（U, uuh, why......
+115122	+		　ランスに、そう呼ばれた瞬間……	　The moment Rance called me that......
+115123	+		　心臓が思い切り跳ねて……）	　my heart jumped so hard......）
 
-115124	Satella~	（む、胸が……締め付けられるように痛い……）	（M-my chest... it hurts like it's being squeezed......）
+115124	Satella~		（む、胸が……締め付けられるように痛い……）	（M-my chest... it hurts like it's being squeezed......）
 
-115125	-	サテラの顔はみるみる耳まで真っ赤に染まりだした。	Satella's face quickly turned bright red all the way to her ears.
+115125	-		サテラの顔はみるみる耳まで真っ赤に染まりだした。	Satella's face quickly turned bright red all the way to her ears.
 
-115126	Satella~	（ああっ！　だ、駄目だ……！	（Aah! N-no good......!
-115127	+	　顔が赤くなるのが、と、止められない！）	　I can't stop my face from turning red!）
+115126	Satella~		（ああっ！　だ、駄目だ……！	（Aah! N-no good......!
+115127	+		　顔が赤くなるのが、と、止められない！）	　I can't stop my face from turning red!）
 
-115128	Rance	「おい、どうしたサテラ様」	「Hey, what's wrong Satella-sama?」
+115128	Rance	基本	「おい、どうしたサテラ様」	「Hey, what's wrong Satella-sama?」
 
-115129	Satella	「あ、う、あ……」	「A, u, a......」
+115129	Satella	あほー	「あ、う、あ……」	「A, u, a......」
 
-115130	Satella	「やっぱり、サテラ様禁止！」	「Never mind, Satella-sama is banned!」
+115130	Satella	ツンデレ	「やっぱり、サテラ様禁止！」	「Never mind, Satella-sama is banned!」
 
-115131	Rance	「……何がしたいんだお前は」	「...What do you even want?」
+115131	Rance	基本	「……何がしたいんだお前は」	「...What do you even want?」
 
-115132	Satella	「うるさい！　なんでもいいだろ！」	「Shut up! It doesn't matter!」
+115132	Satella	ツンデレ	「うるさい！　なんでもいいだろ！」	「Shut up! It doesn't matter!」
 
-115133	Satella	「今まで通りの呼び方に戻せ！	「Go back to how you called me before!
-115134	+	　いいな！」	　Got it!」
+115133	Satella		「今まで通りの呼び方に戻せ！	「Go back to how you called me before!
+115134	+		　いいな！」	　Got it!」
 
-115135	Rance	「はいはい」	「Yeah yeah.」
+115135	Rance	基本	「はいはい」	「Yeah yeah.」
 
-115136	Satella	「…………」	「............」
+115136	Satella	不安	「…………」	「............」
 
-115137	Satella	「ふんっ！」	「Hmph!」
+115137	Satella	ツンデレ	「ふんっ！」	「Hmph!」
 
-115138	-	ぷりぷりと怒ってサテラは去って行った。	Satella stormed off in a huff.
+115138	-		ぷりぷりと怒ってサテラは去って行った。	Satella stormed off in a huff.
 
-115139	Rance	「……変な奴」	「...What a weird girl.」
+115139	Rance	だる顔	「……変な奴」	「...What a weird girl.」

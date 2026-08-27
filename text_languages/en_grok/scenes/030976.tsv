@@ -2,16 +2,16 @@
 * Galtia	ガルティア	Male
 * Rance	ランス	Male
 
-43870	Galtia	「…………っと。ちょっとストップだ」	「............Whoops. Hold on a second.」
+43870	Galtia	戦闘時使徒なし	「…………っと。ちょっとストップだ」	「............Whoops. Hold on a second.」
 
-43871	-	ガルティアは香姫のだんごを	Galtia began eating Kou's dango
-43872	+	少しずつかじり、大事に食べ始めた。	little by little, savoring it carefully.
+43871	-		ガルティアは香姫のだんごを	Galtia began eating Kou's dango
+43872	+		少しずつかじり、大事に食べ始めた。	little by little, savoring it carefully.
 
-43873	Galtia	「これは匠の名品……きちんと味わわないとな」	「This is a masterpiece... I have to savor it properly.」
+43873	Galtia		「これは匠の名品……きちんと味わわないとな」	「This is a masterpiece... I have to savor it properly.」
 
-43874	Rance	「よーーーーっしゃチャーーーンス！	「Yeeesss, chaaaance!
-43875	+	　奴め、香ちゃんの毒だんごに夢中だぞ！	　He's completely obsessed with Kou-chan's poison dango!
-43876	+	　総攻撃だ！」	　All-out attack!」
+43874	Rance	笑顔	「よーーーーっしゃチャーーーンス！	「Yeeesss, chaaaance!
+43875	+		　奴め、香ちゃんの毒だんごに夢中だぞ！	　He's completely obsessed with Kou-chan's poison dango!
+43876	+		　総攻撃だ！」	　All-out attack!」
 
-43877	Galtia	「あっ、あああぁっ……！　の、脳に来るぜっ……！	「Ah, aaaaah...! It's hitting my brain...!
-43878	+	　うめえ、うめえっ……と、刻が見える……！」	　So good, so good... I can see the moment...!」
+43877	Galtia	基本使徒なし	「あっ、あああぁっ……！　の、脳に来るぜっ……！	「Ah, aaaaah...! It's hitting my brain...!
+43878	+		　うめえ、うめえっ……と、刻が見える……！」	　So good, so good... I can see the moment...!」

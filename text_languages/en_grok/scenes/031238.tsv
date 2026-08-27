@@ -5,117 +5,117 @@
 * Blue Monster Soldier	汎用魔物兵青	Male
 * Maria Custard	マリア	Female
 
-61787	Kentou Kanami	「……ん。ランス、向こう、何かいる」	「...Nn. Rance, something's over there.」
+61787	Kentou Kanami	基本	「……ん。ランス、向こう、何かいる」	「...Nn. Rance, something's over there.」
 
-61788	Rance	「む？　なんだ？」	「Mu? What?」
+61788	Rance		「む？　なんだ？」	「Mu? What?」
 
-61789	Kentou Kanami	「……魔軍だわ。小規模……50人くらい、かな」	「...It's the Monster Army. Small scale... About 50 people.」
+61789	Kentou Kanami	ジト目	「……魔軍だわ。小規模……50人くらい、かな」	「...It's the Monster Army. Small scale... About 50 people.」
 
-61790	Rance	「ちっ、めんどうな。いくぞ、戦闘準備……」	「Tch, annoying. Let's go, prepare for battle...」
+61790	Rance	だる顔	「ちっ、めんどうな。いくぞ、戦闘準備……」	「Tch, annoying. Let's go, prepare for battle...」
 
-61791	Green Monster Soldier	「……ん？　なんだこの音」	「...Hm? What's that sound?」
+61791	Green Monster Soldier	基本	「……ん？　なんだこの音」	「...Hm? What's that sound?」
 
-61792	Blue Monster Soldier	「あ、お前も聞こえる？	「Ah, you hear it too?
-61793	+	　なーんか、向こうの方から……げぇっ！？」	　Something from over there... Gah!?」
+61792	Blue Monster Soldier		「あ、お前も聞こえる？	「Ah, you hear it too?
+61793	+		　なーんか、向こうの方から……げぇっ！？」	　Something from over there... Gah!?」
 
-61794	-	音がする方角に目を凝らしてみれば、	Looking toward the sound,
-61795	+	人間の一団……と、銀色の巨大な物体。	a group of humans... and a giant silver object.
+61794	-		音がする方角に目を凝らしてみれば、	Looking toward the sound,
+61795	+		人間の一団……と、銀色の巨大な物体。	a group of humans... and a giant silver object.
 
-61796	Green Monster Soldier	「てっ、鉄のバケモノ……！	「I-iron monster...!
-61797	+	　バケモノが出たぞーーーー！」	　A monster appeared---!」
+61796	Green Monster Soldier		「てっ、鉄のバケモノ……！	「I-iron monster...!
+61797	+		　バケモノが出たぞーーーー！」	　A monster appeared---!」
 
-61798	Blue Monster Soldier	「うぉっ、あれは……！　やばい、逃げろ！」	「Whoa, that's...! Run!」
+61798	Blue Monster Soldier		「うぉっ、あれは……！　やばい、逃げろ！」	「Whoa, that's...! Run!」
 
-61799	Green Monster Soldier	「痛ぇし硬ぇし……！	「It hurts and it's hard...!
-61800	+	　あんなの、通りすがりでやってられっかよ！」	　I can't deal with that while just passing by!」
+61799	Green Monster Soldier		「痛ぇし硬ぇし……！	「It hurts and it's hard...!
+61800	+		　あんなの、通りすがりでやってられっかよ！」	　I can't deal with that while just passing by!」
 
-61801	Blue Monster Soldier	「逃げろ逃げろ逃げろーーー」	「Run run run---」
+61801	Blue Monster Soldier		「逃げろ逃げろ逃げろーーー」	「Run run run---」
 
-61802	Rance	「……なんだあいつら……逃げた？」	「...What are they... They ran?」
+61802	Rance	真剣	「……なんだあいつら……逃げた？」	「...What are they... They ran?」
 
-61803	Maria Custard	「どうやら、チューリップ3号に	「Seems they got scared of Tulip No. 3...
-61804	+	　恐れをなしたみたいね……勝利！」	　Victory!」
+61803	Maria Custard	いつもの	「どうやら、チューリップ3号に	「Seems they got scared of Tulip No. 3...
+61804	+		　恐れをなしたみたいね……勝利！」	　Victory!」
 
-61805	Rance	「ふーむ、そうっぽいな。便利便利」	「Hmm, seems so. Convenient, convenient.」
+61805	Rance	基本	「ふーむ、そうっぽいな。便利便利」	「Hmm, seems so. Convenient, convenient.」
 
-61806	-	ランスが気をよくして、装甲を軽く叩く。	Rance happily tapped the armor lightly.
+61806	-		ランスが気をよくして、装甲を軽く叩く。	Rance happily tapped the armor lightly.
 
-61807	Rance	「前に使った時も強かったしな。	「It was strong when we used it before too.
-61808	+	　こいつに乗り込んで	　Riding this and
-61809	+	　敵を吹っ飛ばすのは爽快だったぞ」	　blowing enemies away felt great.」
+61807	Rance	笑顔	「前に使った時も強かったしな。	「It was strong when we used it before too.
+61808	+		　こいつに乗り込んで	　Riding this and
+61809	+		　敵を吹っ飛ばすのは爽快だったぞ」	　blowing enemies away felt great.」
 
-61810	Maria Custard	「ふふん、そうでしょうとも。	「Fufun, of course.
-61811	+	　チューリップ3号は最高なのよ」	　Tulip No. 3 is the best.」
+61810	Maria Custard	基本	「ふふん、そうでしょうとも。	「Fufun, of course.
+61811	+		　チューリップ3号は最高なのよ」	　Tulip No. 3 is the best.」
 
-61812	Rance	「動けるし強いし……これだけ作ってれば、	「It moves well and is strong... If we made this many,
-61813	+	　1号だっけ、そのちっちゃいのとかゼスの時の	　the small No. 1 and the fixed one from Zeth time
-61814	+	　固定して動かせない奴とか、要らんのじゃないか」	　wouldn't be necessary.」
+61812	Rance	真剣	「動けるし強いし……これだけ作ってれば、	「It moves well and is strong... If we made this many,
+61813	+		　1号だっけ、そのちっちゃいのとかゼスの時の	　the small No. 1 and the fixed one from Zeth time
+61814	+		　固定して動かせない奴とか、要らんのじゃないか」	　wouldn't be necessary.」
 
-61815	Maria Custard	「むっ……」	「Mu...」
+61815	Maria Custard	基本	「むっ……」	「Mu...」
 
-61816	Rance	「もっと早く量産してれば、	「If we'd mass-produced it earlier,
-61817	+	　その後の冒険のあれやこれやももっと楽だったな。	　all those later adventures would have been easier.
-61818	+	　もったいない」	　What a waste.」
+61816	Rance	だる顔	「もっと早く量産してれば、	「If we'd mass-produced it earlier,
+61817	+		　その後の冒険のあれやこれやももっと楽だったな。	　all those later adventures would have been easier.
+61818	+		　もったいない」	　What a waste.」
 
-61819	Maria Custard	「むむむむ……」	「Mumumumu...」
+61819	Maria Custard	基本	「むむむむ……」	「Mumumumu...」
 
-61820	Rance	「これからはずっとこれに乗ってくか。	「From now on we'll always ride this.
-61821	+	　それがいい、楽ちんだ。がははは」	　That's better, so easy. Gahaha」
+61820	Rance	笑顔	「これからはずっとこれに乗ってくか。	「From now on we'll always ride this.
+61821	+		　それがいい、楽ちんだ。がははは」	　That's better, so easy. Gahaha」
 
-61822	Maria Custard	「……っ、分かってない！	「...You don't get it!
-61823	+	　ぜんっぜん、分かってないわ！」	　You don't get it at all!」
+61822	Maria Custard	怒り	「……っ、分かってない！	「...You don't get it!
+61823	+		　ぜんっぜん、分かってないわ！」	　You don't get it at all!」
 
-61824	Rance	「うお！？」	「Uoh!?」
+61824	Rance	驚き	「うお！？」	「Uoh!?」
 
-61825	-	突然、マリアが目に炎を宿して反駁した。	Suddenly Maria refuted with fire in her eyes.
+61825	-		突然、マリアが目に炎を宿して反駁した。	Suddenly Maria refuted with fire in her eyes.
 
-61826	Maria Custard	「無理なの、そんな事！	「It's impossible!
-61827	+	　材質や製造にかかるコストも高いし、	　The material and manufacturing costs are high,
-61828	+	　メンテナンスなんてすっごく大変なんだから！」	　and maintenance is extremely difficult!」
+61826	Maria Custard	怒り	「無理なの、そんな事！	「It's impossible!
+61827	+		　材質や製造にかかるコストも高いし、	　The material and manufacturing costs are high,
+61828	+		　メンテナンスなんてすっごく大変なんだから！」	　and maintenance is extremely difficult!」
 
-61829	Maria Custard	「リア様から発注が来て作った、	「The previous version ordered by Lady Lia
-61830	+	　これの前のバージョンの2両なんて安定しなくて、	　was unstable,
-61831	+	　一週間で動かなくなっちゃったんだから！」	　and stopped working after a week!」
+61829	Maria Custard		「リア様から発注が来て作った、	「The previous version ordered by Lady Lia
+61830	+		　これの前のバージョンの2両なんて安定しなくて、	　was unstable,
+61831	+		　一週間で動かなくなっちゃったんだから！」	　and stopped working after a week!」
 
-61832	Maria Custard	「色々な物を作って、その末にやっとドイツ回路を	「After making all kinds of things, I finally developed the German circuit
-61833	+	　開発して、それで安定させる目処が立ったのよ！	　and got it stable!
-61834	+	　それだけ、作るのも扱うのも難しいの！」	　That's how difficult it is to make and handle!
+61832	Maria Custard		「色々な物を作って、その末にやっとドイツ回路を	「After making all kinds of things, I finally developed the German circuit
+61833	+		　開発して、それで安定させる目処が立ったのよ！	　and got it stable!
+61834	+		　それだけ、作るのも扱うのも難しいの！」	　That's how difficult it is to make and handle!
 
-61835	Maria Custard	「だいたい、1号も2号も、劣ってるんじゃないわ！	「Besides, No. 1 and No. 2 aren't inferior!
-61836	+	　役割が違うのよ！」	　They have different roles!」
+61835	Maria Custard		「だいたい、1号も2号も、劣ってるんじゃないわ！	「Besides, No. 1 and No. 2 aren't inferior!
+61836	+		　役割が違うのよ！」	　They have different roles!」
 
-61837	Maria Custard	「1号は携帯火砲としての火力と汎用性と量産性、	「No. 1 has firepower, versatility, and mass-producibility as a portable artillery,
-61838	+	　何より重さを含めた取り回しの良さは	　and above all its handling including weight
-61839	+	　ほぼ完成の域に達してるし！」	　is nearly perfect!」
+61837	Maria Custard		「1号は携帯火砲としての火力と汎用性と量産性、	「No. 1 has firepower, versatility, and mass-producibility as a portable artillery,
+61838	+		　何より重さを含めた取り回しの良さは	　and above all its handling including weight
+61839	+		　ほぼ完成の域に達してるし！」	　is nearly perfect!」
 
-61840	Maria Custard	「2号は自走機能が不要な分、射程と火力は	「No. 2, without needing self-propulsion, has unmatched range and firepower
-61841	+	　追随を許さないし！	　and ease of handling too!」
-61842	+	　それに扱いやすさでも大きな差があるの！」	
+61840	Maria Custard		「2号は自走機能が不要な分、射程と火力は	「No. 2, without needing self-propulsion, has unmatched range and firepower
+61841	+		　追随を許さないし！	　and ease of handling too!」
+61842	+		　それに扱いやすさでも大きな差があるの！」	
 
-61843	Rance	「う、うぐぐぐぐ……」	「U, ugugugu...」
+61843	Rance	だる顔	「う、うぐぐぐぐ……」	「U, ugugugu...」
 
-61844	Rance~	（マ、マリア相手にこの話は失敗だったか……	（Talking about this with Maria was a mistake...
-61845	+	　よし、気を逸らして話題を変えよう）	　Okay, let's change the subject.）
+61844	Rance~		（マ、マリア相手にこの話は失敗だったか……	（Talking about this with Maria was a mistake...
+61845	+		　よし、気を逸らして話題を変えよう）	　Okay, let's change the subject.）
 
-61846	Maria Custard	「3号はすごいし強いし可愛いけど、	「No. 3 is amazing, strong, and cute, but
-61847	+	　操縦するのにも技術が要るの！	　it requires skill to operate!
-61848	+	　それを…………」	　And you...」
+61846	Maria Custard	怒り	「3号はすごいし強いし可愛いけど、	「No. 3 is amazing, strong, and cute, but
+61847	+		　操縦するのにも技術が要るの！	　it requires skill to operate!
+61848	+		　それを…………」	　And you...」
 
-61849	Rance	「わ、わかった！　俺が悪かった！」	「O-okay! My bad!」
+61849	Rance		「わ、わかった！　俺が悪かった！」	「O-okay! My bad!」
 
-61850	Maria Custard	「ん……あ、ご、ごめんね、つい……」	「Nn... Ah, s-sorry, I got carried away...」
+61850	Maria Custard	基本	「ん……あ、ご、ごめんね、つい……」	「Nn... Ah, s-sorry, I got carried away...」
 
-61851	Rance	「ところでその3号だが、	「By the way, about No. 3,
-61852	+	　これ車輪でいいんじゃないのか？	　wouldn't wheels be fine?
-61853	+	　うし車みたいな……」	　Like an ox cart...」
+61851	Rance	笑顔	「ところでその3号だが、	「By the way, about No. 3,
+61852	+		　これ車輪でいいんじゃないのか？	　wouldn't wheels be fine?
+61853	+		　うし車みたいな……」	　Like an ox cart...」
 
-61854	Maria Custard	「――――――！」	「――――――！」
+61854	Maria Custard	怒り	「――――――！」	「――――――！」
 
-61855	Maria Custard	「ダメなの！　この無限軌道じゃないと！	「No! It has to be these caterpillar tracks!
-61856	+	　そもそも3号の重量と、その負荷は……！」	　The weight and load of No. 3...!」
+61855	Maria Custard		「ダメなの！　この無限軌道じゃないと！	「No! It has to be these caterpillar tracks!
+61856	+		　そもそも3号の重量と、その負荷は……！」	　The weight and load of No. 3...!」
 
-61857	Rance	「う、うぐおおおお！　悪化した！？」	「U, ugoooooh! It got worse!?」
+61857	Rance		「う、うぐおおおお！　悪化した！？」	「U, ugoooooh! It got worse!?」
 
-61858	-	ランスはそのまましばらく、	For a while after that,
-61859	+	逆鱗に触れたマリアによる戦車解説を	Rance had to listen to Maria's tank lecture
-61860	+	聞かされながら進むこととなった。	after touching her reverse scale.
+61858	-		ランスはそのまましばらく、	For a while after that,
+61859	+		逆鱗に触れたマリアによる戦車解説を	Rance had to listen to Maria's tank lecture
+61860	+		聞かされながら進むこととなった。	after touching her reverse scale.

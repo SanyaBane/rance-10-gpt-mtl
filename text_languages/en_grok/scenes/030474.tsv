@@ -5,182 +5,182 @@
 * Sachiko Centers	サチコ	Female
 * Zeth Mage Soldier	汎用ゼス女魔法兵	Female
 
-9204	Rance	「…………むっ」	「............Mu」
+9204	Rance	真剣	「…………むっ」	「............Mu」
 
-9205	-	ある日のランス城。	One day at Rance Castle.
-9206	+	ランスは廊下で、サイアス・クラウンとすれ違った。	Rance passed Saias Crown in the hallway.
+9205	-		ある日のランス城。	One day at Rance Castle.
+9206	+		ランスは廊下で、サイアス・クラウンとすれ違った。	Rance passed Saias Crown in the hallway.
 
-9207	Saias Crown	「おっ。よう、ボー……いや、総統閣下」	「Oh. Yo, bo...... I mean, Supreme Leader」
+9207	Saias Crown	笑顔	「おっ。よう、ボー……いや、総統閣下」	「Oh. Yo, bo...... I mean, Supreme Leader」
 
-9208	-	一瞬、周囲に目をやって、	He quickly glanced around,
-9209	+	サイアスは笑って言い直した。	then corrected himself with a smile.
+9208	-		一瞬、周囲に目をやって、	He quickly glanced around,
+9209	+		サイアスは笑って言い直した。	then corrected himself with a smile.
 
-9210	Sill Plain	「こんにちは、サイアスさん」	「Hello, Saias-san」
+9210	Sill Plain	基本	「こんにちは、サイアスさん」	「Hello, Saias-san」
 
-9211	Saias Crown	「ああ、こんにちは」	「Ah, hello」
+9211	Saias Crown	笑顔	「ああ、こんにちは」	「Ah, hello」
 
-9212	Rance	「なんだ貴様。ゼスはどうした」	「What are you doing here. What about Zeth?」
+9212	Rance	真剣	「なんだ貴様。ゼスはどうした」	「What are you doing here. What about Zeth?」
 
-9213	Saias Crown	「ちょっとデリケートな問題があってね。	「There's a bit of a delicate issue.
-9214	+	　ウルザと話をしに来たトコだ」	　I came to talk with Urza.」
+9213	Saias Crown	基本	「ちょっとデリケートな問題があってね。	「There's a bit of a delicate issue.
+9214	+		　ウルザと話をしに来たトコだ」	　I came to talk with Urza.」
 
-9215	Rance	「ふん。用が済んだらさっさと帰れ」	「Hmph. Finish your business and go home quickly.」
+9215	Rance	真剣	「ふん。用が済んだらさっさと帰れ」	「Hmph. Finish your business and go home quickly.」
 
-9216	Saias Crown	「ああ、土産でも見繕って戻るさ。	「Yeah, I'll pick up some souvenirs before heading back.
-9217	+	　向こうもヒマじゃないんでね。じゃな」	　They're busy over there too. See ya」
+9216	Saias Crown	基本	「ああ、土産でも見繕って戻るさ。	「Yeah, I'll pick up some souvenirs before heading back.
+9217	+		　向こうもヒマじゃないんでね。じゃな」	　They're busy over there too. See ya」
 
-9218	-	指二本を振る仕草を残して、	With a two-finger wave,
-9219	+	サイアスは悠然と去っていった。	Saias left leisurely.
+9218	-		指二本を振る仕草を残して、	With a two-finger wave,
+9219	+		サイアスは悠然と去っていった。	Saias left leisurely.
 
-9220	Rance	「……気に食わん」	「......I don't like him」
+9220	Rance	だる顔	「……気に食わん」	「......I don't like him」
 
-9221	Sill Plain	「いい方だと思いますけど、	「I think he's a good person though,
-9222	+	　サイアスさん……」	　Saias-san......」
+9221	Sill Plain	きょとん	「いい方だと思いますけど、	「I think he's a good person though,
+9222	+		　サイアスさん……」	　Saias-san......」
 
-9223	Rance	「やかましい！	「Shut up!
-9224	+	　女にもてそうな奴はこの世に俺様だけでいいのだ！	　The only guy who should be popular with women is me!
-9225	+	　お前もあんな奴に挨拶するんじゃない！」	　Don't greet guys like that!」
+9223	Rance	イライラ	「やかましい！	「Shut up!
+9224	+		　女にもてそうな奴はこの世に俺様だけでいいのだ！	　The only guy who should be popular with women is me!
+9225	+		　お前もあんな奴に挨拶するんじゃない！」	　Don't greet guys like that!」
 
-9226	Sill Plain	「いたっ！　す、すみません……ひんひん……」	「Ouch! S-sorry...... Hin hin......」
+9226	Sill Plain	ひんひん	「いたっ！　す、すみません……ひんひん……」	「Ouch! S-sorry...... Hin hin......」
 
-9227	Sachiko Centers	「あ、ランスさん！」	「Ah, Rance-san!」
+9227	Sachiko Centers	基本	「あ、ランスさん！」	「Ah, Rance-san!」
 
-9228	Rance	「ん？　どうしたサチコ」	「Hm? What's up, Sachiko」
+9228	Rance	真剣	「ん？　どうしたサチコ」	「Hm? What's up, Sachiko」
 
-9229	Sachiko Centers	「さっき、そこの角で赤い髪の	「Earlier at that corner I met a cool guy
-9230	+	　かっこいい人と会ったんですけど、誰ですか？」	　with red hair. Who was that?」
+9229	Sachiko Centers	困り	「さっき、そこの角で赤い髪の	「Earlier at that corner I met a cool guy
+9230	+		　かっこいい人と会ったんですけど、誰ですか？」	　with red hair. Who was that?」
 
-9231	Sill Plain	「赤い髪……」	「Red hair......」
+9231	Sill Plain	考え中	「赤い髪……」	「Red hair......」
 
-9232	Sachiko Centers	「王子様みたいな人でした……	「He was like a prince......
-9233	+	　間違ってぶつかっちゃったんですけど、	　I bumped into him by mistake,
-9234	+	　ぱっと抱きとめてくれて……」	　but he caught me right away......」
+9232	Sachiko Centers	笑顔	「王子様みたいな人でした……	「He was like a prince......
+9233	+		　間違ってぶつかっちゃったんですけど、	　I bumped into him by mistake,
+9234	+		　ぱっと抱きとめてくれて……」	　but he caught me right away......」
 
-9235	Rance	「がーーーーー！！」	「Gaaaaah!!」
+9235	Rance	怒り	「がーーーーー！！」	「Gaaaaah!!」
 
-9236	Sachiko Centers	「ふぎゅっ！？」	「Fugyu!?」
+9236	Sachiko Centers	痛い	「ふぎゅっ！？」	「Fugyu!?」
 
-9237	-	ランスチョップがサチコの脳天に突き刺さった。	Rance's chop struck Sachiko on the head.
+9237	-		ランスチョップがサチコの脳天に突き刺さった。	Rance's chop struck Sachiko on the head.
 
-9238	Rance	「まったくどいつもこいつもバカ者め！　ふん！」	「Everyone's an idiot! Hmph!」
+9238	Rance	イライラ	「まったくどいつもこいつもバカ者め！　ふん！」	「Everyone's an idiot! Hmph!」
 
-9239	Sachiko Centers	「ランスさーん！？　あ、行っちゃった……	「Rance-saaan!? Ah, he left......
-9240	+	　なんだったんだろ……」	　What was that about......」
+9239	Sachiko Centers	基本	「ランスさーん！？　あ、行っちゃった……	「Rance-saaan!? Ah, he left......
+9240	+		　なんだったんだろ……」	　What was that about......」
 
-9241	Sill Plain	「その赤い髪の人は……たぶんサイアスさんです」	「That red-haired man...... was probably Saias-san」
+9241	Sill Plain	苦笑	「その赤い髪の人は……たぶんサイアスさんです」	「That red-haired man...... was probably Saias-san」
 
-9242	Sachiko Centers	「サイアスさん、ですか？」	「Saias-san?」
+9242	Sachiko Centers	基本	「サイアスさん、ですか？」	「Saias-san?」
 
-9243	Sill Plain	「そう、サイアス・クラウンさん。	「Yes, Saias Crown-san.
-9244	+	　ゼスの炎軍の将軍さんです」	　He's the general of Zeth's Flame Army.」
+9243	Sill Plain		「そう、サイアス・クラウンさん。	「Yes, Saias Crown-san.
+9244	+		　ゼスの炎軍の将軍さんです」	　He's the general of Zeth's Flame Army.」
 
-9245	Sachiko Centers	「炎軍ていうと……」	「The Flame Army......」
+9245	Sachiko Centers		「炎軍ていうと……」	「The Flame Army......」
 
-9246	Sill Plain	「ゼスにある四つの軍隊のうちの一つです。	「One of the four armies in Zeth.
-9247	+	　そこの、一番えらい人ですよ」	　He's the top person there.」
+9246	Sill Plain		「ゼスにある四つの軍隊のうちの一つです。	「One of the four armies in Zeth.
+9247	+		　そこの、一番えらい人ですよ」	　He's the top person there.」
 
-9248	Sachiko Centers	「はーー……」	「Haaa......」
+9248	Sachiko Centers	アホ顔	「はーー……」	「Haaa......」
 
-9249	Sill Plain	「貴族の出だけれど、	「He's from a noble family but
-9250	+	　一兵卒から将軍まで上がったそうですよ」	　rose from a common soldier to general.」
+9249	Sill Plain	基本	「貴族の出だけれど、	「He's from a noble family but
+9250	+		　一兵卒から将軍まで上がったそうですよ」	　rose from a common soldier to general.」
 
-9251	Sachiko Centers	「ふわぁ……すごい人なんですねえ……	「Whoaa...... He's an amazing person......
-9252	+	　かっこいいし……」	　And so cool......」
+9251	Sachiko Centers	アホ顔	「ふわぁ……すごい人なんですねえ……	「Whoaa...... He's an amazing person......
+9252	+		　かっこいいし……」	　And so cool......」
 
-9253	Sachiko Centers	「………………」	「............」
+9253	Sachiko Centers		「………………」	「............」
 
-9254	Sachiko Centers	「そっか。ランスさんが嫌いそうな人ですね」	「I see. He's the type Rance-san would dislike.」
+9254	Sachiko Centers	基本	「そっか。ランスさんが嫌いそうな人ですね」	「I see. He's the type Rance-san would dislike.」
 
-9255	Sill Plain	「あ、あはは……」	「A-ahaha......」
+9255	Sill Plain	苦笑	「あ、あはは……」	「A-ahaha......」
 
-9256	Saias Crown	「……………………」	「........................」
+9256	Saias Crown	基本	「……………………」	「........................」
 
-9257	-	ランス城の庭の裏手。	Behind the garden of Rance Castle.
-9258	+	サイアスは、一人の女性ゼス士官と向き合っていた。	Saias was facing a female Zeth officer.
+9257	-		ランス城の庭の裏手。	Behind the garden of Rance Castle.
+9258	+		サイアスは、一人の女性ゼス士官と向き合っていた。	Saias was facing a female Zeth officer.
 
-9259	Zeth Mage Soldier	「だめ、ですか…………」	「No, huh......」
+9259	Zeth Mage Soldier	弱気	「だめ、ですか…………」	「No, huh......」
 
-9260	-	女性は緊張と興奮とそれ以外の何かで、震えていた。	The woman was trembling with tension, excitement, and something else.
-9261	+	男の真摯な、しかし誤解しようのない拒絶に、	Faced with the man's sincere but unmistakable rejection,
-9262	+	打ちのめされていた。	she was devastated.
+9260	-		女性は緊張と興奮とそれ以外の何かで、震えていた。	The woman was trembling with tension, excitement, and something else.
+9261	+		男の真摯な、しかし誤解しようのない拒絶に、	Faced with the man's sincere but unmistakable rejection,
+9262	+		打ちのめされていた。	she was devastated.
 
-9263	-	だがサイアスの表情はそれ以上に硬く重く、	But Saias's expression was even harder and heavier,
-9264	+	どこか沈痛でさえあった。	almost pained.
+9263	-		だがサイアスの表情はそれ以上に硬く重く、	But Saias's expression was even harder and heavier,
+9264	+		どこか沈痛でさえあった。	almost pained.
 
-9265	Saias Crown	「ごめん。俺は、君とは付き合えない」	「Sorry. I can't go out with you.」
+9265	Saias Crown	基本	「ごめん。俺は、君とは付き合えない」	「Sorry. I can't go out with you.」
 
-9266	Zeth Mage Soldier	「ぁ、っ…………！」	「Ah......!」
+9266	Zeth Mage Soldier	弱気	「ぁ、っ…………！」	「Ah......!」
 
-9267	Saias Crown	「君は、優秀な部下だ。いつも助けてもらってる。	「You're an excellent subordinate. You've always helped me.
-9268	+	　でも……すまない。……好きな女がいるんだ」	　But...... I'm sorry. ......I have a woman I like.」
+9267	Saias Crown	基本	「君は、優秀な部下だ。いつも助けてもらってる。	「You're an excellent subordinate. You've always helped me.
+9268	+		　でも……すまない。……好きな女がいるんだ」	　But...... I'm sorry. ......I have a woman I like.」
 
-9269	Zeth Mage Soldier	「っ、わか、わかって、ました……っ、	「I-I knew......
-9270	+	　でも、でも、せめてっ……つたえ、たくてっ……」	　But, but, at least...... I wanted to tell you......」
+9269	Zeth Mage Soldier		「っ、わか、わかって、ました……っ、	「I-I knew......
+9270	+		　でも、でも、せめてっ……つたえ、たくてっ……」	　But, but, at least...... I wanted to tell you......」
 
-9271	Saias Crown	「ああ……ありがとう。嬉しいよ。	「Yeah...... Thank you. I'm happy.
-9272	+	　……本当に、そう思ってる」	　......I really mean that.」
+9271	Saias Crown		「ああ……ありがとう。嬉しいよ。	「Yeah...... Thank you. I'm happy.
+9272	+		　……本当に、そう思ってる」	　......I really mean that.」
 
-9273	Zeth Mage Soldier	「っ！」	「!」
+9273	Zeth Mage Soldier	絶望	「っ！」	「!」
 
-9274	-	女性は耐えきれなくなり、	Unable to endure any longer,
-9275	+	身を翻して駆け去っていった。	the woman turned and ran away.
+9274	-		女性は耐えきれなくなり、	Unable to endure any longer,
+9275	+		身を翻して駆け去っていった。	the woman turned and ran away.
 
-9276	Saias Crown	「…………ふぅ……けっこうきついな、こりゃ……」	「............Phew...... This is pretty tough......」
+9276	Saias Crown	拙い	「…………ふぅ……けっこうきついな、こりゃ……」	「............Phew...... This is pretty tough......」
 
-9277	-	収まりの悪い髪を掻き、	He ran his hand through his messy hair
-9278	+	サイアスはひとつ、溜息をついた。	and let out a sigh.
+9277	-		収まりの悪い髪を掻き、	He ran his hand through his messy hair
+9278	+		サイアスはひとつ、溜息をついた。	and let out a sigh.
 
-9279	Rance	「見〜〜〜〜た〜〜〜ぞ〜〜〜〜」	「I saaaaaw yoooou〜〜〜」
+9279	Rance	エロ顔	「見〜〜〜〜た〜〜〜ぞ〜〜〜〜」	「I saaaaaw yoooou〜〜〜」
 
-9280	Saias Crown	「おわっ！　…………なんだボーヤか」	「Whoa! ......It's you, boy.」
+9280	Saias Crown	基本	「おわっ！　…………なんだボーヤか」	「Whoa! ......It's you, boy.」
 
-9281	-	城の物陰から、ランスが現れた。	Rance appeared from the shadows of the castle.
+9281	-		城の物陰から、ランスが現れた。	Rance appeared from the shadows of the castle.
 
-9282	Rance	「女の子を振ってたのか。	「You turned down a girl.
-9283	+	　もったいない、けっこう可愛かったぞ」	　What a waste, she was pretty cute.」
+9282	Rance		「女の子を振ってたのか。	「You turned down a girl.
+9283	+		　もったいない、けっこう可愛かったぞ」	　What a waste, she was pretty cute.」
 
-9284	Saias Crown	「ああ……まったく同感だ」	「Yeah...... I completely agree.」
+9284	Saias Crown		「ああ……まったく同感だ」	「Yeah...... I completely agree.」
 
-9285	-	サイアスは少し表情に影を落としつつ、	Saias's expression darkened slightly
-9286	+	肩を竦めて苦笑した。	as he shrugged and smiled bitterly.
+9285	-		サイアスは少し表情に影を落としつつ、	Saias's expression darkened slightly
+9286	+		肩を竦めて苦笑した。	as he shrugged and smiled bitterly.
 
-9287	Saias Crown	「いつもならやんわり、時間をかけて……と、	「Normally I'd gently turn them down over time......
-9288	+	　傷つけないようにしていたんだがね。	　so as not to hurt them.
-9289	+	　ちょっと宗旨替え、って奴さ」	　But I've had a bit of a change of heart.」
+9287	Saias Crown		「いつもならやんわり、時間をかけて……と、	「Normally I'd gently turn them down over time......
+9288	+		　傷つけないようにしていたんだがね。	　so as not to hurt them.
+9289	+		　ちょっと宗旨替え、って奴さ」	　But I've had a bit of a change of heart.」
 
-9290	Rance	「ムカつく物言いだ……宗旨替え？」	「Annoying way of talking...... Change of heart?」
+9290	Rance	だる顔	「ムカつく物言いだ……宗旨替え？」	「Annoying way of talking...... Change of heart?」
 
-9291	Saias Crown	「世の中の状況が状況だからな。	「Given how the world is right now.
-9292	+	　流石に、人生最後になるかも知れない恋を、	　It would be cruel to let someone direct
-9293	+	　応える気のない男に向けるんじゃ不幸だろう」	　a possibly last love toward a man who can't reciprocate.」
+9291	Saias Crown	基本	「世の中の状況が状況だからな。	「Given how the world is right now.
+9292	+		　流石に、人生最後になるかも知れない恋を、	　It would be cruel to let someone direct
+9293	+		　応える気のない男に向けるんじゃ不幸だろう」	　a possibly last love toward a man who can't reciprocate.」
 
-9294	Saias Crown	「のんびりゆっくり、今日できることを明日やる……	「There's no more time for leisurely
-9295	+	　なんて余裕は、もう無いからな」	　putting off today's tasks until tomorrow.」
+9294	Saias Crown		「のんびりゆっくり、今日できることを明日やる……	「There's no more time for leisurely
+9295	+		　なんて余裕は、もう無いからな」	　putting off today's tasks until tomorrow.」
 
-9296	Saias Crown~	（俺自身だって、	(I don't even know
-9297	+	　どうなるかはまるで分からないしな……）	　what will happen to me......)
+9296	Saias Crown~		（俺自身だって、	(I don't even know
+9297	+		　どうなるかはまるで分からないしな……）	　what will happen to me......)
 
-9298	Rance	「ふーん……変な所で真面目な奴。	「Hmm...... You're serious in weird places.
-9299	+	　あの子、お前の部下なのか」	　Was that girl one of your subordinates?」
+9298	Rance		「ふーん……変な所で真面目な奴。	「Hmm...... You're serious in weird places.
+9299	+		　あの子、お前の部下なのか」	　Was that girl one of your subordinates?」
 
-9300	Saias Crown	「ん？　ああ。今回の随行員だ。	「Hm? Yeah. She's part of this escort team.
-9301	+	　世界がこんなだから、躊躇してられない、ってのは	　The world is like this so she can't hesitate,
-9302	+	　分かるんだけどな……」	　I get that but......」
+9300	Saias Crown		「ん？　ああ。今回の随行員だ。	「Hm? Yeah. She's part of this escort team.
+9301	+		　世界がこんなだから、躊躇してられない、ってのは	　The world is like this so she can't hesitate,
+9302	+		　分かるんだけどな……」	　I get that but......」
 
-9303	Rance	「よし、お前、帰るの明日にしろ」	「Alright, push your departure back to tomorrow.」
+9303	Rance		「よし、お前、帰るの明日にしろ」	「Alright, push your departure back to tomorrow.」
 
-9304	Saias Crown	「いいが……どういう風の吹き回しだ？」	「Fine but...... what's with the sudden change?」
+9304	Saias Crown		「いいが……どういう風の吹き回しだ？」	「Fine but...... what's with the sudden change?」
 
-9305	Rance	「もちろん、さっきの子の失恋を癒してやるのだ。	「Obviously, to heal that girl's broken heart.
-9306	+	　ベッドでな。じゃあな、がはははははは」	　In bed, of course. See ya, gahahahaha」
+9305	Rance	笑顔	「もちろん、さっきの子の失恋を癒してやるのだ。	「Obviously, to heal that girl's broken heart.
+9306	+		　ベッドでな。じゃあな、がはははははは」	　In bed, of course. See ya, gahahahaha」
 
-9307	Saias Crown	「………………」	「............」
+9307	Saias Crown	基本	「………………」	「............」
 
-9308	-	いつもの笑いを上げながら、	While laughing as usual,
-9309	+	ランスは女の子が去っていった方に駆けていった。	Rance ran off in the direction the girl had gone.
+9308	-		いつもの笑いを上げながら、	While laughing as usual,
+9309	+		ランスは女の子が去っていった方に駆けていった。	Rance ran off in the direction the girl had gone.
 
-9310	Saias Crown	「相っ変わらずな奴……ま、いいか。	「Same as always...... Well, whatever.
-9311	+	　あいつ自身は殺しても死ななさそうだし……」	　That guy doesn't seem like he'd die even if killed......」
+9310	Saias Crown		「相っ変わらずな奴……ま、いいか。	「Same as always...... Well, whatever.
+9311	+		　あいつ自身は殺しても死ななさそうだし……」	　That guy doesn't seem like he'd die even if killed......」
 
-9312	-	薄れた陰を振り払い、	Shaking off the faint shadow,
-9313	+	サイアスは口元を緩めて自室へと戻っていった。	Saias relaxed his mouth and returned to his room.
+9312	-		薄れた陰を振り払い、	Shaking off the faint shadow,
+9313	+		サイアスは口元を緩めて自室へと戻っていった。	Saias relaxed his mouth and returned to his room.

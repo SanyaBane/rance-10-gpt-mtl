@@ -4,236 +4,236 @@
 * Kaybwan	ケイブワン	Female
 * Stroganoff	ストロガノフ	Male
 
-249630	-	普段より一層濃い恐怖と死を濃縮したような	The Dread Miasma, even thicker than usual,
-249631	+	ケイブリスの恐瘴気。	concentrated with terror and death.
+249630	-		普段より一層濃い恐怖と死を濃縮したような	The Dread Miasma, even thicker than usual,
+249631	+		ケイブリスの恐瘴気。	concentrated with terror and death.
 
-249632	-	それに耐えることが出来ずに、	Unable to endure it,
-249633	+	多くの魔物兵がケイブリスの居住区から離れた。	many monster soldiers left Kayblis's living quarters.
+249632	-		それに耐えることが出来ずに、	Unable to endure it,
+249633	+		多くの魔物兵がケイブリスの居住区から離れた。	many monster soldiers left Kayblis's living quarters.
 
-249634	-	本人以外で平気なのは、ケイブニャンとケイブワン、	The only ones fine besides himself were Kaybnyan and Kaybwan,
-249635	+	気合いと忠誠心でひたすらに耐えるストロガノフ。	and Stroganoff who endured with sheer willpower and loyalty.
-249636	+	そして心がないと言い張るシャリエラだけである。	And Shariela, who claims to have no heart.
+249634	-		本人以外で平気なのは、ケイブニャンとケイブワン、	The only ones fine besides himself were Kaybnyan and Kaybwan,
+249635	+		気合いと忠誠心でひたすらに耐えるストロガノフ。	and Stroganoff who endured with sheer willpower and loyalty.
+249636	+		そして心がないと言い張るシャリエラだけである。	And Shariela, who claims to have no heart.
 
-249637	Kayblis	「……どうなってやがる」	...What the hell is going on
+249637	Kayblis	基本	「……どうなってやがる」	...What the hell is going on
 
-249638	Kayblis	「どうなってやがる！　ええ、ストロガノフ！？」	「What the hell happened! Eh, Stroganoff!?」
+249638	Kayblis		「どうなってやがる！　ええ、ストロガノフ！？」	「What the hell happened! Eh, Stroganoff!?」
 
-249639	Kaybnyan	「ひーーーーーっ！　ぶるぶる！」	「Hiiii-! Shake shake!」
+249639	Kaybnyan	ぶわわ	「ひーーーーーっ！　ぶるぶる！」	「Hiiii-! Shake shake!」
 
-249640	Kaybwan	「ケイブリス様、こ、怖いわん……」	「Lord Kayblis, s-scary, wan...」
+249640	Kaybwan	ぐぬぬ	「ケイブリス様、こ、怖いわん……」	「Lord Kayblis, s-scary, wan...」
 
-249641	Stroganoff	「……申し訳ありません」	「...My apologies.」
+249641	Stroganoff	基本	「……申し訳ありません」	「...My apologies.」
 
-249642	-	怒りを煮えたぎらせるケイブリスに対し、	Facing the seething Kayblis,
-249643	+	今のストロガノフが出来るのは平伏だけである。	all Stroganoff could do was prostrate himself.
+249642	-		怒りを煮えたぎらせるケイブリスに対し、	Facing the seething Kayblis,
+249643	+		今のストロガノフが出来るのは平伏だけである。	all Stroganoff could do was prostrate himself.
 
-249644	Kayblis	「ちぃっ、ランス城の攻撃に失敗か……」	「Tch, the attack on Rance Castle failed...」
+249644	Kayblis		「ちぃっ、ランス城の攻撃に失敗か……」	「Tch, the attack on Rance Castle failed...」
 
-249645	Kayblis	「とことん生意気じゃねぇか、ええ？	「They're so fucking arrogant, huh?
-249646	+	　人間って奴ァよぉ……」	　These humans...」
+249645	Kayblis		「とことん生意気じゃねぇか、ええ？	「They're so fucking arrogant, huh?
+249646	+		　人間って奴ァよぉ……」	　These humans...」
 
-249647	Kayblis	「魔人は何人やられた？	「How many Fiends were taken down?
-249648	+	　弱い弱いと甘く見てりゃこのザマだ。	　This is what happens when you underestimate them as weak.
-249649	+	　あの魔王だって見つかっちゃいねぇ」	　We haven't even found that Demon King yet.」
+249647	Kayblis		「魔人は何人やられた？	「How many Fiends were taken down?
+249648	+		　弱い弱いと甘く見てりゃこのザマだ。	　This is what happens when you underestimate them as weak.
+249649	+		　あの魔王だって見つかっちゃいねぇ」	　We haven't even found that Demon King yet.」
 
-249650	Stroganoff	「……確かに人間はよくやっています。	「...The humans are indeed fighting well.
-249651	+	　ですが、そこまで警戒なさる必要はないかと」	　But I do not think we need to be that cautious.」
+249650	Stroganoff		「……確かに人間はよくやっています。	「...The humans are indeed fighting well.
+249651	+		　ですが、そこまで警戒なさる必要はないかと」	　But I do not think we need to be that cautious.」
 
-249652	Stroganoff	「既に人間共はほぼ追い詰めました。	「We have already cornered the humans almost completely.
-249653	+	　決着が多少先延ばしになっただけ」	　The end has only been slightly delayed.」
+249652	Stroganoff		「既に人間共はほぼ追い詰めました。	「We have already cornered the humans almost completely.
+249653	+		　決着が多少先延ばしになっただけ」	　The end has only been slightly delayed.」
 
-249654	Stroganoff	「唯一、魔人に傷をつけられる魔剣は	「The only thing that can wound Fiend is the Demon Sword,
-249655	+	　十分警戒に当たりますが、	　which we are watching carefully,
-249656	+	　それ以外はひ弱な人間なぞ……」	　other than that, weak humans are...
+249654	Stroganoff		「唯一、魔人に傷をつけられる魔剣は	「The only thing that can wound Fiend is the Demon Sword,
+249655	+		　十分警戒に当たりますが、	　which we are watching carefully,
+249656	+		　それ以外はひ弱な人間なぞ……」	　other than that, weak humans are...
 
-249657	Kayblis	「馬鹿野郎、脳天気ぬかしてんじゃねぇぞ！	「You idiot, don't be so optimistic!
-249658	+	　それでもしも俺様が死んじまったら、	　What if I die because of that!?
-249659	+	　テメェ、責任取れんのか！？」	　Can you take responsibility!?」
+249657	Kayblis		「馬鹿野郎、脳天気ぬかしてんじゃねぇぞ！	「You idiot, don't be so optimistic!
+249658	+		　それでもしも俺様が死んじまったら、	　What if I die because of that!?
+249659	+		　テメェ、責任取れんのか！？」	　Can you take responsibility!?」
 
-249660	Kayblis	「どんな弱い奴が相手だろうとよぉ、	「No matter how weak the opponent is,
-249661	+	　油断だけはしちゃならねぇ」	　we must never let our guard down.」
+249660	Kayblis		「どんな弱い奴が相手だろうとよぉ、	「No matter how weak the opponent is,
+249661	+		　油断だけはしちゃならねぇ」	　we must never let our guard down.」
 
-249662	Kayblis	「……それは俺様が誰よりも知ってる」	「...I know that better than anyone.」
+249662	Kayblis		「……それは俺様が誰よりも知ってる」	「...I know that better than anyone.」
 
-249663	Stroganoff	「左様ですか……」	「I see...」
+249663	Stroganoff		「左様ですか……」	「I see...」
 
-249664	Kaybwan	「で、でもでも、ケイブリス様、	「B-But Lord Kayblis,
-249665	+	　これでは……」	　at this rate...」
+249664	Kaybwan		「で、でもでも、ケイブリス様、	「B-But Lord Kayblis,
+249665	+		　これでは……」	　at this rate...」
 
-249666	-	あまりに間抜けである。	It was too foolish.
+249666	-		あまりに間抜けである。	It was too foolish.
 
-249667	-	両者の力の差は圧倒的。	The difference in power was overwhelming.
+249667	-		両者の力の差は圧倒的。	The difference in power was overwhelming.
 
-249668	-	魔人筆頭であるケイブリスが、	Kayblis, the foremost Fiend,
-249669	+	たかだか人間の群れに過剰な警戒心を抱く。	showing excessive caution toward a mere group of humans.
+249668	-		魔人筆頭であるケイブリスが、	Kayblis, the foremost Fiend,
+249669	+		たかだか人間の群れに過剰な警戒心を抱く。	showing excessive caution toward a mere group of humans.
 
-249670	-	象がアリに怯えるようなものである。	It was like an elephant fearing ants.
+249670	-		象がアリに怯えるようなものである。	It was like an elephant fearing ants.
 
-249671	Kaybnyan	「うー……ケイブリス様が戦ったら、	「Ugh... If Lord Kayblis fought,
-249672	+	　あんな連中一発にゃのに……」	　he could crush them in one shot, nya...」
+249671	Kaybnyan	ブーたれ	「うー……ケイブリス様が戦ったら、	「Ugh... If Lord Kayblis fought,
+249672	+		　あんな連中一発にゃのに……」	　he could crush them in one shot, nya...」
 
-249673	Stroganoff	「ケイブワン様、ケイブニャン様、	「Lady Kaybwan, Lady Kaybnyan,
-249674	+	　ケイブリス様にはケイブリス様の	　Lord Kayblis has his own
-249675	+	　お考えがあるのです……」	　way of thinking...」
+249673	Stroganoff	基本	「ケイブワン様、ケイブニャン様、	「Lady Kaybwan, Lady Kaybnyan,
+249674	+		　ケイブリス様にはケイブリス様の	　Lord Kayblis has his own
+249675	+		　お考えがあるのです……」	　way of thinking...」
 
-249676	Stroganoff	「ケイブリス様。	「Lord Kayblis.
-249677	+	　確かに想定外の被害が出たことは事実です」	　It is true that we suffered unexpected losses.」
+249676	Stroganoff		「ケイブリス様。	「Lord Kayblis.
+249677	+		　確かに想定外の被害が出たことは事実です」	　It is true that we suffered unexpected losses.」
 
-249678	Stroganoff	「ですが、既に我々は勝ったも同然。	「However, we have essentially already won.
-249679	+	　人間界の領地はそのほとんどを	　Almost all human territories
-249680	+	　魔軍が占領しています」	　have been occupied by the Monster Army.」
+249678	Stroganoff		「ですが、既に我々は勝ったも同然。	「However, we have essentially already won.
+249679	+		　人間界の領地はそのほとんどを	　Almost all human territories
+249680	+		　魔軍が占領しています」	　have been occupied by the Monster Army.」
 
-249681	Stroganoff	「そう遠くない時期に、	「In the not too distant future,
-249682	+	　人間共は我らに降伏するでしょう」	　the humans will surrender to us.」
+249681	Stroganoff		「そう遠くない時期に、	「In the not too distant future,
+249682	+		　人間共は我らに降伏するでしょう」	　the humans will surrender to us.」
 
-249683	Stroganoff	「奴らはよく戦いました。	「They fought well.
-249684	+	　ひ弱な存在でありながら天晴れでしょう」	　Admirable for such weak beings.」
+249683	Stroganoff		「奴らはよく戦いました。	「They fought well.
+249684	+		　ひ弱な存在でありながら天晴れでしょう」	　Admirable for such weak beings.」
 
-249685	Stroganoff	「ですが、それもここまで」	「But this is as far as it goes.」
+249685	Stroganoff		「ですが、それもここまで」	「But this is as far as it goes.」
 
-249686	Stroganoff	「過度な警戒は余計な手間や問題を	「Excessive caution may cause unnecessary trouble and problems.」
-249687	+	　発生させる恐れすらありましょう。	
-249688	+	　どうぞご安心下さい、ケイブリス様」	　Please rest assured, Lord Kayblis.」
+249686	Stroganoff		「過度な警戒は余計な手間や問題を	「Excessive caution may cause unnecessary trouble and problems.」
+249687	+		　発生させる恐れすらありましょう。	
+249688	+		　どうぞご安心下さい、ケイブリス様」	　Please rest assured, Lord Kayblis.」
 
-249689	Kayblis	「けっ」	「Heh.」
+249689	Kayblis		「けっ」	「Heh.」
 
-249690	Kayblis	「ま、てめーが世界征服も間近ってんなら	「Well, if you say world conquest is near,
-249691	+	　一応信じてやるがよ……」	　I'll believe you for now...」
+249690	Kayblis		「ま、てめーが世界征服も間近ってんなら	「Well, if you say world conquest is near,
+249691	+		　一応信じてやるがよ……」	　I'll believe you for now...」
 
-249692	Kayblis	「おう、ストロガノフ。	「Hey, Stroganoff.
-249693	+	　各方面に占領後の計画をきっちりと	　Make sure to properly convey the post-occupation plans
-249694	+	　やるように伝えとけよ」	　to all fronts.」
+249692	Kayblis		「おう、ストロガノフ。	「Hey, Stroganoff.
+249693	+		　各方面に占領後の計画をきっちりと	　Make sure to properly convey the post-occupation plans
+249694	+		　やるように伝えとけよ」	　to all fronts.」
 
-249695	Stroganoff	「占領後の計画、と仰いますと……」	「Post-occupation plans, you say...」
+249695	Stroganoff		「占領後の計画、と仰いますと……」	「Post-occupation plans, you say...」
 
-249696	Kayblis	「人間から力を全て奪うって話だ」	「It's about stripping all power from humans.」
+249696	Kayblis		「人間から力を全て奪うって話だ」	「It's about stripping all power from humans.」
 
-249697	Kayblis	「奴らにはもう二度と	「So they never again
-249698	+	　俺様に逆らおうなんて気が起きないような、	　get the idea to defy me,
-249699	+	　徹底的な教育が必要だからな」	　they need thorough education.」
+249697	Kayblis		「奴らにはもう二度と	「So they never again
+249698	+		　俺様に逆らおうなんて気が起きないような、	　get the idea to defy me,
+249699	+		　徹底的な教育が必要だからな」	　they need thorough education.」
 
-249700	-	ケイブリスは自分の理想とする人間界を	Kayblis pictured the human world of his ideal
-249701	+	その脳裏に思い描き、笑みすら浮かべる。	in his mind and even smiled.
+249700	-		ケイブリスは自分の理想とする人間界を	Kayblis pictured the human world of his ideal
+249701	+		その脳裏に思い描き、笑みすら浮かべる。	in his mind and even smiled.
 
-249702	Kayblis	「まず最低でも開戦前の二割まで人数を減らす。	「First, reduce their numbers to at most 20% of pre-war levels.
-249703	+	　これが絶対の条件だ」	　This is an absolute condition.」
+249702	Kayblis		「まず最低でも開戦前の二割まで人数を減らす。	「First, reduce their numbers to at most 20% of pre-war levels.
+249703	+		　これが絶対の条件だ」	　This is an absolute condition.」
 
-249704	Kayblis	「奴らに一万以上の国家は作らせない。	「Don't let them form nations larger than ten thousand people.
-249705	+	　全て村や町の単位で管理する」	　Manage everything at the village or town level.」
+249704	Kayblis		「奴らに一万以上の国家は作らせない。	「Don't let them form nations larger than ten thousand people.
+249705	+		　全て村や町の単位で管理する」	　Manage everything at the village or town level.」
 
-249706	Kayblis	「魔法や技術の徹底的な禁止。	「Completely ban magic and technology.
-249707	+	　知恵がつくのも怖ぇ。	　Knowledge is scary too.
-249708	+	　学術書や歴史書も全て燃やせ」	　Burn all academic and history books.」
+249706	Kayblis		「魔法や技術の徹底的な禁止。	「Completely ban magic and technology.
+249707	+		　知恵がつくのも怖ぇ。	　Knowledge is scary too.
+249708	+		　学術書や歴史書も全て燃やせ」	　Burn all academic and history books.」
 
-249709	Kayblis	「全ては奴らを俺様に逆らえない……	「All so they cannot defy me...
-249710	+	　いや、逆らうなんて気すら絶対に起きない、	　No, so the very idea of defiance never occurs,
-249711	+	　ひ弱で従順な家畜にしちまう為だ」	　turning them into weak, obedient livestock.」
+249709	Kayblis		「全ては奴らを俺様に逆らえない……	「All so they cannot defy me...
+249710	+		　いや、逆らうなんて気すら絶対に起きない、	　No, so the very idea of defiance never occurs,
+249711	+		　ひ弱で従順な家畜にしちまう為だ」	　turning them into weak, obedient livestock.」
 
-249712	Stroganoff	「そのこと、なのですが……」	「About that, however...
+249712	Stroganoff		「そのこと、なのですが……」	「About that, however...
 
-249713	Kayblis	「あん？」	「Hn?」
+249713	Kayblis		「あん？」	「Hn?」
 
-249714	Stroganoff	「魔王ジル様の時代ですら、	「Even in the era of Demon King Jill,
-249715	+	　そこまではやりませんでした……」	　we did not go that far...」
+249714	Stroganoff		「魔王ジル様の時代ですら、	「Even in the era of Demon King Jill,
+249715	+		　そこまではやりませんでした……」	　we did not go that far...」
 
-249716	Kayblis	「……何が言いてぇ？」	「...What are you trying to say?」
+249716	Kayblis		「……何が言いてぇ？」	「...What are you trying to say?」
 
-249717	Stroganoff	「やりすぎではないかと感じております」	「I feel it may be excessive.」
+249717	Stroganoff		「やりすぎではないかと感じております」	「I feel it may be excessive.」
 
-249718	-	ストロガノフは、	Stroganoff,
-249719	+	初めてケイブリスに対し異を唱えた。	for the first time voiced opposition to Kayblis.
+249718	-		ストロガノフは、	Stroganoff,
+249719	+		初めてケイブリスに対し異を唱えた。	for the first time voiced opposition to Kayblis.
 
-249720	Stroganoff	「確かに人間とは我らの敵。	「It is true that humans are our enemies.
-249721	+	　それを滅ぼさんとするケイブリス様のお気持ち、	　I fully understand your desire to destroy them, Lord Kayblis.」
-249722	+	　儂にも痛いほどよく分かります」	
+249720	Stroganoff		「確かに人間とは我らの敵。	「It is true that humans are our enemies.
+249721	+		　それを滅ぼさんとするケイブリス様のお気持ち、	　I fully understand your desire to destroy them, Lord Kayblis.」
+249722	+		　儂にも痛いほどよく分かります」	
 
-249723	Stroganoff	「しかし、奴ら人間の使命の一つには、	「However, I believe one of the humans' roles
-249724	+	　我らの敵であることも入っていると儂は考えます」	　is to be our enemies.」
+249723	Stroganoff		「しかし、奴ら人間の使命の一つには、	「However, I believe one of the humans' roles
+249724	+		　我らの敵であることも入っていると儂は考えます」	　is to be our enemies.」
 
-249725	Kayblis	「カッ、てめぇの言葉は分かりづれぇんだよ。	「Kah, your words are hard to understand.
-249726	+	　簡単に言えや」	　Say it simply.」
+249725	Kayblis		「カッ、てめぇの言葉は分かりづれぇんだよ。	「Kah, your words are hard to understand.
+249726	+		　簡単に言えや」	　Say it simply.」
 
-249727	Stroganoff	「人間が強すぎるのは困りますが、	「Humans being too strong is a problem,
-249728	+	　弱すぎるのも困る、ということでございます」	　but them being too weak is also a problem.」
+249727	Stroganoff		「人間が強すぎるのは困りますが、	「Humans being too strong is a problem,
+249728	+		　弱すぎるのも困る、ということでございます」	　but them being too weak is also a problem.」
 
-249729	Stroganoff	「魔物にとって何の障害にもならない存在になると、	「If they become beings that pose no obstacle to monsters,
-249730	+	　我ら自身が戦うべき相手を失います……」	　we ourselves will lose opponents to fight...」
+249729	Stroganoff		「魔物にとって何の障害にもならない存在になると、	「If they become beings that pose no obstacle to monsters,
+249730	+		　我ら自身が戦うべき相手を失います……」	　we ourselves will lose opponents to fight...」
 
-249731	Stroganoff	「その先に待っているのは魔物の退化……」	「What awaits is the degeneration of monsters...」
+249731	Stroganoff		「その先に待っているのは魔物の退化……」	「What awaits is the degeneration of monsters...」
 
-249732	Stroganoff	「人間共は生かさず殺さず、	「Humans should be kept neither fully alive nor killed,
-249733	+	　我らに刺激を与える存在でなければ」	　but exist to stimulate us.」
+249732	Stroganoff		「人間共は生かさず殺さず、	「Humans should be kept neither fully alive nor killed,
+249733	+		　我らに刺激を与える存在でなければ」	　but exist to stimulate us.」
 
-249734	Kayblis	「つまり……」	「In other words...
+249734	Kayblis		「つまり……」	「In other words...
 
-249735	Kayblis	「人間をそこまでイジメんな、	「Don't torment the humans that much,
-249736	+	　って言いてぇわけか？」	　is what you're saying?」
+249735	Kayblis		「人間をそこまでイジメんな、	「Don't torment the humans that much,
+249736	+		　って言いてぇわけか？」	　is what you're saying?」
 
-249737	Stroganoff	「……左様で」	「...Yes.」
+249737	Stroganoff		「……左様で」	「...Yes.」
 
-249738	Kayblis	「ぐ……ぐふ……」	「Gu... gufu...」
+249738	Kayblis		「ぐ……ぐふ……」	「Gu... gufu...」
 
-249739	Kayblis	「ぐぁはぁはぁはぁはぁはぁはぁ！」	「Guha ha ha ha ha ha ha!」
+249739	Kayblis		「ぐぁはぁはぁはぁはぁはぁはぁ！」	「Guha ha ha ha ha ha ha!」
 
-249740	Stroganoff	「…………」	「............」
+249740	Stroganoff		「…………」	「............」
 
-249741	-	ケイブリスはストロガノフを馬鹿にするように	Kayblis laughed mockingly at Stroganoff,
-249742	+	腹を抱えて大口を開けて笑った。	holding his belly and opening his huge mouth wide.
+249741	-		ケイブリスはストロガノフを馬鹿にするように	Kayblis laughed mockingly at Stroganoff,
+249742	+		腹を抱えて大口を開けて笑った。	holding his belly and opening his huge mouth wide.
 
-249743	-	金属同士を擦り合わせたような	A grating laugh like metal scraping metal
-249744	+	耳障りな笑い声が室内を揺らす。	shook the room.
+249743	-		金属同士を擦り合わせたような	A grating laugh like metal scraping metal
+249744	+		耳障りな笑い声が室内を揺らす。	shook the room.
 
-249745	Kayblis	「ひーーーっ、笑った笑った。	「Hiii-, I laughed, I laughed.
-249746	+	　あんまり面白かったから、	It was so funny
-249747	+	　逆らったが殺さずにいてやらぁ」	that I'll spare you even though you defied me.」
+249745	Kayblis		「ひーーーっ、笑った笑った。	「Hiii-, I laughed, I laughed.
+249746	+		　あんまり面白かったから、	It was so funny
+249747	+		　逆らったが殺さずにいてやらぁ」	that I'll spare you even though you defied me.」
 
-249748	Kayblis	「ストロガノフ、お前案外馬鹿だったんだな」	「Stroganoff, you're surprisingly stupid.」
+249748	Kayblis		「ストロガノフ、お前案外馬鹿だったんだな」	「Stroganoff, you're surprisingly stupid.」
 
-249749	Stroganoff	「どういう意味でしょう……」	「What do you mean...」
+249749	Stroganoff		「どういう意味でしょう……」	「What do you mean...」
 
-249750	Kayblis	「いいか？　俺様はこれから魔王様になるんだぜ？」	「Listen. I'm going to become the Demon King soon, right?」
+249750	Kayblis		「いいか？　俺様はこれから魔王様になるんだぜ？」	「Listen. I'm going to become the Demon King soon, right?」
 
-249751	Kayblis	「なら、まずすることはなんだ？	「Then what's the first thing to do?
-249752	+	　安全な世界の構築って奴だろうがよ」	Building a safe world, obviously.」
+249751	Kayblis		「なら、まずすることはなんだ？	「Then what's the first thing to do?
+249752	+		　安全な世界の構築って奴だろうがよ」	Building a safe world, obviously.」
 
-249753	Kayblis	「油断してんなよ、ストロガノフ。	「Don't let your guard down, Stroganoff.
-249754	+	　可能性が万が一にでもあんなら、	Even a one in ten thousand chance
-249755	+	　それは安全じゃねぇ」	makes it unsafe.」
+249753	Kayblis		「油断してんなよ、ストロガノフ。	「Don't let your guard down, Stroganoff.
+249754	+		　可能性が万が一にでもあんなら、	Even a one in ten thousand chance
+249755	+		　それは安全じゃねぇ」	makes it unsafe.」
 
-249756	Kayblis	「その証人がてめぇの目の前にいんだろうが」	「The proof is right in front of you.」
+249756	Kayblis		「その証人がてめぇの目の前にいんだろうが」	「The proof is right in front of you.」
 
-249757	-	ケイブリスは自身を指さした。	Kayblis pointed at himself.
+249757	-		ケイブリスは自身を指さした。	Kayblis pointed at himself.
 
-249758	Kayblis	「人間共から全ての力を取り上げろ。	「Strip all power from the humans.
-249759	+	　万が一の可能性は全て潰せ」	　Crush every possible risk.」
+249758	Kayblis		「人間共から全ての力を取り上げろ。	「Strip all power from the humans.
+249759	+		　万が一の可能性は全て潰せ」	　Crush every possible risk.」
 
-249760	Kayblis	「完璧に滅ぼさないだけ、	「Just not completely exterminating them
-249761	+	　かなりお目こぼししてやってんだぜ？」	　is already quite merciful, you know?」
+249760	Kayblis		「完璧に滅ぼさないだけ、	「Just not completely exterminating them
+249761	+		　かなりお目こぼししてやってんだぜ？」	　is already quite merciful, you know?」
 
-249762	Kayblis	「ストロガノフ、この命令が守れねぇんなら、	「Stroganoff, if you can't follow this order,
-249763	+	　先にてめぇを殺すだけだ」	　I'll just kill you first.」
+249762	Kayblis		「ストロガノフ、この命令が守れねぇんなら、	「Stroganoff, if you can't follow this order,
+249763	+		　先にてめぇを殺すだけだ」	　I'll just kill you first.」
 
-249764	Kayblis	「あ？　どうすんだ？」	「Well? What will you do?」
+249764	Kayblis		「あ？　どうすんだ？」	「Well? What will you do?」
 
-249765	Stroganoff	「…………」	「............」
+249765	Stroganoff		「…………」	「............」
 
-249766	Stroganoff	「儂には三つの野望があります」	「I have three ambitions.」
+249766	Stroganoff		「儂には三つの野望があります」	「I have three ambitions.」
 
-249767	Stroganoff	「一つは儂自身が最強の座に返り咲くこと」	「One is to reclaim the seat of the strongest myself.」
+249767	Stroganoff		「一つは儂自身が最強の座に返り咲くこと」	「One is to reclaim the seat of the strongest myself.」
 
-249768	Stroganoff	「二つは魔物にとって理想の世界を作ること」	「Two is to create an ideal world for monsters.」
+249768	Stroganoff		「二つは魔物にとって理想の世界を作ること」	「Two is to create an ideal world for monsters.」
 
-249769	Kayblis	「おう、俺様とかち合ってるな。	「Yeah, that overlaps with mine.
-249770	+	　なら、どうする？」	　So, what will you do?」
+249769	Kayblis		「おう、俺様とかち合ってるな。	「Yeah, that overlaps with mine.
+249770	+		　なら、どうする？」	　So, what will you do?」
 
-249771	-	ストロガノフは、フッ、と唇を歪めた。	Stroganoff twisted his lips slightly.
+249771	-		ストロガノフは、フッ、と唇を歪めた。	Stroganoff twisted his lips slightly.
 
-249772	Stroganoff	「最後の三つ目は……	「The third and final one is...
-249773	+	　貴方を魔王とすること……」	　To make you the Demon King...」
+249772	Stroganoff		「最後の三つ目は……	「The third and final one is...
+249773	+		　貴方を魔王とすること……」	　To make you the Demon King...」
 
-249774	-	恭しく頭を下げる。	He bowed his head respectfully.
+249774	-		恭しく頭を下げる。	He bowed his head respectfully.
 
-249775	Stroganoff	「それがケイブリス様の望みであるなら、	「If that is Lord Kayblis's wish,
-249776	+	　万難を排し叶えましょう」	　I shall fulfill it no matter the obstacles.」
+249775	Stroganoff		「それがケイブリス様の望みであるなら、	「If that is Lord Kayblis's wish,
+249776	+		　万難を排し叶えましょう」	　I shall fulfill it no matter the obstacles.」
 
-249777	Kayblis	「フンッ、それでいい」	「Hmph, good.」
+249777	Kayblis		「フンッ、それでいい」	「Hmph, good.」

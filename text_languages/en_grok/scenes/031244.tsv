@@ -2,72 +2,72 @@
 * Goddess ALICE	女神アリス	Female
 * Crook Mofus	クルックー	Female
 
-62126	Goddess ALICE	「へぇ……今、なんて？	「Hee... What did you just say?
-62127	+	　貴女にしては珍しい事言うのね、モフス」	　That's unusual coming from you, Mofus.」
+62126	Goddess ALICE	基本	「へぇ……今、なんて？	「Hee... What did you just say?
+62127	+		　貴女にしては珍しい事言うのね、モフス」	　That's unusual coming from you, Mofus.」
 
-62128	Crook Mofus	「…………	「............
-62129	?	いいえ。	No.
-62130	+	　目に余る物を見つけたので、報告に来たまでです」	　I simply came to report something I could not overlook.
+62128	Crook Mofus		「…………	「............
+62129	?		いいえ。	No.
+62130	+		　目に余る物を見つけたので、報告に来たまでです」	　I simply came to report something I could not overlook.
 
-62131	-	――カイズ。	――Kaiz.
+62131	-		――カイズ。	――Kaiz.
 
-62132	-	クルックーは、その地下の一室で、	In an underground room, Crook
-62133	+	女神アリスと相対していた。	stood facing Goddess ALICE.
+62132	-		クルックーは、その地下の一室で、	In an underground room, Crook
+62133	+		女神アリスと相対していた。	stood facing Goddess ALICE.
 
-62134	Crook Mofus	「魔人パイアール。	「The Fiend Pi-R.
-62135	+	　あの科学力は、神が許されないものだと思います」	　I believe that scientific power is something God should not allow.」
+62134	Crook Mofus		「魔人パイアール。	「The Fiend Pi-R.
+62135	+		　あの科学力は、神が許されないものだと思います」	　I believe that scientific power is something God should not allow.」
 
-62136	Goddess ALICE	「そう？　貴女がそう思うのなら、	「Is that so? If that's what you think,
-62137	+	　封印しても構わないわよ。くすくす」	　I don't mind sealing it. Hehe.」
+62136	Goddess ALICE		「そう？　貴女がそう思うのなら、	「Is that so? If that's what you think,
+62137	+		　封印しても構わないわよ。くすくす」	　I don't mind sealing it. Hehe.」
 
-62138	Crook Mofus	「…………残念ですが、私では……	「...Unfortunately, with my power...
-62139	+	　教団の力では、難しいようです」	　It seems difficult even with the Church's strength.」
+62138	Crook Mofus		「…………残念ですが、私では……	「...Unfortunately, with my power...
+62139	+		　教団の力では、難しいようです」	　It seems difficult even with the Church's strength.」
 
-62140	Goddess ALICE	「なぁに？　天使でも使えといいたいの？」	「What? Are you asking to use angels?」
+62140	Goddess ALICE		「なぁに？　天使でも使えといいたいの？」	「What? Are you asking to use angels?」
 
-62141	Crook Mofus	「……必要ならば」	「...If necessary.」
+62141	Crook Mofus		「……必要ならば」	「...If necessary.」
 
-62142	Goddess ALICE	「………………ふふ。そうねぇ。どうしよっか……」	「............Fufu. I see. What should we do...」
+62142	Goddess ALICE		「………………ふふ。そうねぇ。どうしよっか……」	「............Fufu. I see. What should we do...」
 
-62143	-	女神ALICEの頬が、うっすらと釣り上がる。	Goddess ALICE's cheeks lifted slightly.
+62143	-		女神ALICEの頬が、うっすらと釣り上がる。	Goddess ALICE's cheeks lifted slightly.
 
-62144	Goddess ALICE	「科学は危険よ。神と同等の真似さえ再現しうる、	「Science is dangerous. It can even replicate acts equal to God.
-62145	+	　発展させてはならないもの……」	　It is something that must not be allowed to advance...」
+62144	Goddess ALICE		「科学は危険よ。神と同等の真似さえ再現しうる、	「Science is dangerous. It can even replicate acts equal to God.
+62145	+		　発展させてはならないもの……」	　It is something that must not be allowed to advance...」
 
-62146	Crook Mofus	「……………………」	「........................」
+62146	Crook Mofus		「……………………」	「........................」
 
-62147	Goddess ALICE	「その代替に、魔法を与えたのよ。	「In its place, I gave them magic.
-62148	+	　個人差があり、限界がある……	　It has individual differences and limits...
-62149	+	　世界を変えづらく、殺傷に長けた能力を、ね」	　Abilities that are hard to change the world with, but excel at killing.」
+62147	Goddess ALICE		「その代替に、魔法を与えたのよ。	「In its place, I gave them magic.
+62148	+		　個人差があり、限界がある……	　It has individual differences and limits...
+62149	+		　世界を変えづらく、殺傷に長けた能力を、ね」	　Abilities that are hard to change the world with, but excel at killing.」
 
-62150	Goddess ALICE	「でも……残念ね。アレは特例なのよ。問題ないわ」	「But... it's a shame. That one is a special case. No problem.」
+62150	Goddess ALICE		「でも……残念ね。アレは特例なのよ。問題ないわ」	「But... it's a shame. That one is a special case. No problem.」
 
-62151	Crook Mofus	「特例……？」	「Special case...?」
+62151	Crook Mofus		「特例……？」	「Special case...?」
 
-62152	Goddess ALICE	「ええ。魔人パイアール。あの技術は、	「Yes. Fiend Pi-R. That technology
-62153	+	　進化しすぎていて誰の理解も及ばないわ。	　has evolved too far for anyone to understand.
-62154	+	　そして、彼自身も誰にも教えられない……」	　And he himself cannot teach it to anyone...」
+62152	Goddess ALICE		「ええ。魔人パイアール。あの技術は、	「Yes. Fiend Pi-R. That technology
+62153	+		　進化しすぎていて誰の理解も及ばないわ。	　has evolved too far for anyone to understand.
+62154	+		　そして、彼自身も誰にも教えられない……」	　And he himself cannot teach it to anyone...」
 
-62155	Goddess ALICE	「アレは突然変異で生まれた異能者と同じ。	「He is like a mutant with innate abilities.
-62156	+	　彼で始まり、そして終わるものでしかない」	　It begins and ends with him alone.」
+62155	Goddess ALICE		「アレは突然変異で生まれた異能者と同じ。	「He is like a mutant with innate abilities.
+62156	+		　彼で始まり、そして終わるものでしかない」	　It begins and ends with him alone.」
 
-62157	Crook Mofus	「……だから放置しておいてよい、と」	「...So it's fine to leave him be.」
+62157	Crook Mofus		「……だから放置しておいてよい、と」	「...So it's fine to leave him be.」
 
-62158	Goddess ALICE	「そうよ。別に援助する必要はないけれどね。	「That's right. No need to assist him though.
-62159	+	　そう、それと……」	　Yes, and also...」
+62158	Goddess ALICE		「そうよ。別に援助する必要はないけれどね。	「That's right. No need to assist him though.
+62159	+		　そう、それと……」	　Yes, and also...」
 
-62160	Crook Mofus	「……？」	「...?」
+62160	Crook Mofus		「……？」	「...?」
 
-62161	Goddess ALICE	「次のメインプレイヤーに、人工知能というのも	「I was thinking of giving artificial intelligence to the next main player.」
-62162	+	　いいかと思ってね」	
+62161	Goddess ALICE		「次のメインプレイヤーに、人工知能というのも	「I was thinking of giving artificial intelligence to the next main player.」
+62162	+		　いいかと思ってね」	
 
-62163	Crook Mofus	「………………」	「............」
+62163	Crook Mofus		「………………」	「............」
 
-62164	Goddess ALICE	「もがき苦しんでくれるものかどうかが課題だけど。	「Whether it will struggle and suffer is the question.
-62165	+	　自動的に生産し、殺し合い、そして生産する……	　Automatically producing, fighting, and producing again...
-62166	+	　面白いと思わない？」	　Don't you think it's interesting?」
+62164	Goddess ALICE		「もがき苦しんでくれるものかどうかが課題だけど。	「Whether it will struggle and suffer is the question.
+62165	+		　自動的に生産し、殺し合い、そして生産する……	　Automatically producing, fighting, and producing again...
+62166	+		　面白いと思わない？」	　Don't you think it's interesting?」
 
-62167	Crook Mofus	「………………はい」	「............Yes.」
+62167	Crook Mofus	目逸らし	「………………はい」	「............Yes.」
 
-62168	-	眉根が寄っていくのを悟られぬよう、	Hiding the furrow in her brows,
-62169	+	クルックーは深々と女神に頭を垂れた。	Crook bowed deeply to the goddess.
+62168	-		眉根が寄っていくのを悟られぬよう、	Hiding the furrow in her brows,
+62169	+		クルックーは深々と女神に頭を垂れた。	Crook bowed deeply to the goddess.

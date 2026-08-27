@@ -4,260 +4,260 @@
 * Serachrolas	セラクロラス	Female
 * Bezeleye	ベゼルアイ小	Female
 
-100476	Sill Plain	「あ、あわわ、ら、ランス様ー！」	「A, aah, R-Rance-sama!」
+100476	Sill Plain	慌て	「あ、あわわ、ら、ランス様ー！」	「A, aah, R-Rance-sama!」
 
-100477	Rance	「あぁん？　そんなに慌ててなんだ？」	「Haa? Why are you panicking so much?」
+100477	Rance	だる顔	「あぁん？　そんなに慌ててなんだ？」	「Haa? Why are you panicking so much?」
 
-100478	Rance	「…………」	「............」
+100478	Rance	真剣	「…………」	「............」
 
-100479	Rance	「ま、まさか……お前までガキが出来たとか……」	「N-no way... Did you get pregnant too...」
+100479	Rance	驚き	「ま、まさか……お前までガキが出来たとか……」	「N-no way... Did you get pregnant too...」
 
-100480	Sill Plain	「ち、違います！」	「N-no, that's not it!」
+100480	Sill Plain	恥	「ち、違います！」	「N-no, that's not it!」
 
-100481	Sill Plain	「それが、その、大変なんです……	「It's just... something serious...
-100482	+	　あ、あの、いらして下さい……」	　Um, please come with me...」
+100481	Sill Plain		「それが、その、大変なんです……	「It's just... something serious...
+100482	+		　あ、あの、いらして下さい……」	　Um, please come with me...」
 
-100483	Rance	「なんだぁ？」	「What is it?」
+100483	Rance	だる顔	「なんだぁ？」	「What is it?」
 
-100484	-	シィルに手を引かれ、	Pulled by the hand by Sill,
-100485	+	ランスが自分の部屋に戻る。	Rance returned to his room.
+100484	-		シィルに手を引かれ、	Pulled by the hand by Sill,
+100485	+		ランスが自分の部屋に戻る。	Rance returned to his room.
 
-100486	Serachrolas	「…………」	「............」
+100486	Serachrolas	基本	「…………」	「............」
 
-100487	Rance	「なんだ、セラクロラスがいるだけではないか。	「What, it's just Serachrolas here.
-100488	+	　これがどうした」	　What's the big deal?」
+100487	Rance		「なんだ、セラクロラスがいるだけではないか。	「What, it's just Serachrolas here.
+100488	+		　これがどうした」	　What's the big deal?」
 
-100489	Sill Plain	「それが……そのぉ……」	「Well... um...」
+100489	Sill Plain		「それが……そのぉ……」	「Well... um...」
 
-100490	Serachrolas	「ひ、ひう……」	「H-hiu...」
+100490	Serachrolas		「ひ、ひう……」	「H-hiu...」
 
-100491	Rance	「ひう？」	「Hiu?」
+100491	Rance		「ひう？」	「Hiu?」
 
-100492	Serachrolas	「ま、また知らない人が……」	「A-another stranger...」
+100492	Serachrolas		「ま、また知らない人が……」	「A-another stranger...」
 
-100493	Serachrolas	「あの、あの……どなた、でしょうか？」	「Um, um... Who might you be?」
+100493	Serachrolas		「あの、あの……どなた、でしょうか？」	「Um, um... Who might you be?」
 
-100494	Rance	「はあ？」	「Haa?」
+100494	Rance	だる顔	「はあ？」	「Haa?」
 
-100495	Rance	「なんだそれ、また変な遊びか？」	「What is this, another weird game?」
+100495	Rance	真剣	「なんだそれ、また変な遊びか？」	「What is this, another weird game?」
 
-100496	Serachrolas	「ひうううっ！	「Hiuuuu!
-100497	+	　ち、近づかないで！」	　D-don't come closer!」
+100496	Serachrolas	基本	「ひうううっ！	「Hiuuuu!
+100497	+		　ち、近づかないで！」	　D-don't come closer!」
 
-100498	Rance	「へ？　へ？」	「He? He?」
+100498	Rance	驚き	「へ？　へ？」	「He? He?」
 
-100499	Rance	「……シィル？」	「...Sill?」
+100499	Rance	だる顔	「……シィル？」	「...Sill?」
 
-100500	Sill Plain	「うう、それが私にもサッパリで……	「Uuu, I have no idea either...
-100501	+	　気づいたらこの状態でして……」	　When I noticed, she was already like this...」
+100500	Sill Plain	恥	「うう、それが私にもサッパリで……	「Uuu, I have no idea either...
+100501	+		　気づいたらこの状態でして……」	　When I noticed, she was already like this...」
 
-100502	Serachrolas	「ひ、ひう……びくびく……」	「H-hiu... tremble tremble...」
+100502	Serachrolas	基本	「ひ、ひう……びくびく……」	「H-hiu... tremble tremble...」
 
-100503	Rance	「なんか変なもん食ったかな？」	「Did she eat something weird?」
+100503	Rance		「なんか変なもん食ったかな？」	「Did she eat something weird?」
 
-100504	Bezeleye	「それも否定できないけどね」	「Can't rule that out.」
+100504	Bezeleye		「それも否定できないけどね」	「Can't rule that out.」
 
-100505	Rance	「お、ベゼルアイ」	「Oh, Bezeleye.」
+100505	Rance		「お、ベゼルアイ」	「Oh, Bezeleye.」
 
-100506	Serachrolas	「ベーお姉様！」	「Big Be sister!」
+100506	Serachrolas		「ベーお姉様！」	「Big Be sister!」
 
-100507	Rance	「ベー……お姉様……	「Big... Be sister...
-100508	+	　なんか……性格が全く違うな」	　Her personality is completely different.」
+100507	Rance		「ベー……お姉様……	「Big... Be sister...
+100508	+		　なんか……性格が全く違うな」	　Her personality is completely different.」
 
-100509	Rance	「ベゼルアイ、これはなんだ？」	「Bezeleye, what is this?」
+100509	Rance		「ベゼルアイ、これはなんだ？」	「Bezeleye, what is this?」
 
-100510	Bezeleye	「言葉で表現するのが難しいけど……」	「It's hard to put into words, but...
+100510	Bezeleye		「言葉で表現するのが難しいけど……」	「It's hard to put into words, but...
 
-100511	Bezeleye	「これはセラ視点にとっての過去のセラね」	「This is Seracholas from her own past.」
+100511	Bezeleye		「これはセラ視点にとっての過去のセラね」	「This is Seracholas from her own past.」
 
-100512	Bezeleye	「私が前に言ったこと覚えてる？」	「Remember what I said before?」
+100512	Bezeleye		「私が前に言ったこと覚えてる？」	「Remember what I said before?」
 
-100513	Bezeleye	「時のセラクロラスは時の名を冠しているからか、	「Because she's Serachrolas of Time,
-100514	+	　時間の進み方が私達の中でも特殊でね」	　her sense of time flows differently from the rest of us.」
+100513	Bezeleye		「時のセラクロラスは時の名を冠しているからか、	「Because she's Serachrolas of Time,
+100514	+		　時間の進み方が私達の中でも特殊でね」	　her sense of time flows differently from the rest of us.」
 
-100515	Bezeleye	「精神だけが未来や過去に行ったり来たりしてるの」	「Only her mind travels back and forth between past and future.」
+100515	Bezeleye		「精神だけが未来や過去に行ったり来たりしてるの」	「Only her mind travels back and forth between past and future.」
 
-100516	Rance	「うぅん……？」	「Hmm...?」
+100516	Rance		「うぅん……？」	「Hmm...?」
 
-100517	Bezeleye	「初めてランス君と会ったとき、	「When she first met you, Rance-kun,
-100518	+	　初対面じゃなかったから、	　it wasn't actually their first meeting,
-100519	+	　いつかこういう日が来ると思ったけど……」	　so I figured a day like this would come...」
+100517	Bezeleye		「初めてランス君と会ったとき、	「When she first met you, Rance-kun,
+100518	+		　初対面じゃなかったから、	　it wasn't actually their first meeting,
+100519	+		　いつかこういう日が来ると思ったけど……」	　so I figured a day like this would come...」
 
-100520	Bezeleye	「セラがランス君と初めて会った日、	「The day Seracholas first met Rance-kun
-100521	+	　それが今日だったみたいね」	　seems to be today.」
+100520	Bezeleye		「セラがランス君と初めて会った日、	「The day Seracholas first met Rance-kun
+100521	+		　それが今日だったみたいね」	　seems to be today.」
 
-100522	Bezeleye	「……っていうことなんだけど、分かった？」	「...That's what this is. Got it?」
+100522	Bezeleye		「……っていうことなんだけど、分かった？」	「...That's what this is. Got it?」
 
-100523	Rance	「まあ……なんとなく……」	「Well... sort of...」
+100523	Rance		「まあ……なんとなく……」	「Well... sort of...」
 
-100524	Bezeleye	「ほら、セラ。二人にご挨拶して。	「Here, Sera. Greet them.
-100525	+	　こっちの怖そうなのがランス君、	　This scary-looking one is Rance-kun,
-100526	+	　こっちのふわふわがシィルちゃんよ」	　and this fluffy one is Sill-chan.」
+100524	Bezeleye		「ほら、セラ。二人にご挨拶して。	「Here, Sera. Greet them.
+100525	+		　こっちの怖そうなのがランス君、	　This scary-looking one is Rance-kun,
+100526	+		　こっちのふわふわがシィルちゃんよ」	　and this fluffy one is Sill-chan.」
 
-100527	Serachrolas	「あ、あの……ランス、さん？　シィル、さん？	「U-um... Rance-san? Sill-san?
-100528	+	　は、初めまして」	　N-nice to meet you.」
+100527	Serachrolas		「あ、あの……ランス、さん？　シィル、さん？	「U-um... Rance-san? Sill-san?
+100528	+		　は、初めまして」	　N-nice to meet you.」
 
-100529	Rance	「俺らからすれば、	「From our side,
-100530	+	　ちーっとも初めましてじゃないが……」	　this isn't our first meeting at all...」
+100529	Rance	だる顔	「俺らからすれば、	「From our side,
+100530	+		　ちーっとも初めましてじゃないが……」	　this isn't our first meeting at all...」
 
-100531	Rance	「まあいい、宜しくな」	「Whatever, nice to meet you.」
+100531	Rance	基本	「まあいい、宜しくな」	「Whatever, nice to meet you.」
 
-100532	Sill Plain	「セラクロラス様、初めまして。	「Lady Serachrolas, nice to meet you.
-100533	+	　私はシィルと言います」	　My name is Sill.」
+100532	Sill Plain		「セラクロラス様、初めまして。	「Lady Serachrolas, nice to meet you.
+100533	+		　私はシィルと言います」	　My name is Sill.」
 
-100534	Serachrolas	「ランス……シィル……」	「Rance... Sill...」
+100534	Serachrolas		「ランス……シィル……」	「Rance... Sill...」
 
-100535	Rance	「うーむ……なんとなく気持ち悪いなあ……」	「Hmm... This feels kinda creepy...」
+100535	Rance	だる顔	「うーむ……なんとなく気持ち悪いなあ……」	「Hmm... This feels kinda creepy...」
 
-100536	Rance	「よし、シィルの膝の上に乗せてみよう。	「Alright, let's put her on Sill's lap.
-100537	+	　セラクロラス抱っこされるのとか	　Serachrolas likes being held,
-100538	+	　好きだったろう」	　right?」
+100536	Rance	基本	「よし、シィルの膝の上に乗せてみよう。	「Alright, let's put her on Sill's lap.
+100537	+		　セラクロラス抱っこされるのとか	　Serachrolas likes being held,
+100538	+		　好きだったろう」	　right?」
 
-100539	Sill Plain	「あ、きゃっ、ランス様！？」	「Ah, kyaa, Rance-sama!?」
+100539	Sill Plain	慌て	「あ、きゃっ、ランス様！？」	「Ah, kyaa, Rance-sama!?」
 
-100540	Serachrolas	「ひ、ひうっ！　ひうっ！」	「H-hiu! Hiu!」
+100540	Serachrolas	基本	「ひ、ひうっ！　ひうっ！」	「H-hiu! Hiu!」
 
-100541	-	ランスが無理矢理、セラクロラスを	Rance forcefully
-100542	+	シィルの膝の上に座らせる。	sat Serachrolas on Sill's lap.
+100541	-		ランスが無理矢理、セラクロラスを	Rance forcefully
+100542	+		シィルの膝の上に座らせる。	sat Serachrolas on Sill's lap.
 
-100543	Serachrolas	「ひう……びくびく……びくびく……」	「Hiu... tremble tremble...」
+100543	Serachrolas		「ひう……びくびく……びくびく……」	「Hiu... tremble tremble...」
 
-100544	Sill Plain	「ランス様、可哀想ですよ、	「Rance-sama, that's too mean,
-100545	+	　セラクロラス様縮こまってますよ……」	　Lady Serachrolas is all curled up...」
+100544	Sill Plain	泣き	「ランス様、可哀想ですよ、	「Rance-sama, that's too mean,
+100545	+		　セラクロラス様縮こまってますよ……」	　Lady Serachrolas is all curled up...」
 
-100546	Rance	「まるで借りてきたにゃんにゃんだな」	「She looks like a borrowed kitten.」
+100546	Rance	基本	「まるで借りてきたにゃんにゃんだな」	「She looks like a borrowed kitten.」
 
-100547	Serachrolas	「べ、ベーお姉様……たすけ……」	「B-Big Be sister... help...」
+100547	Serachrolas		「べ、ベーお姉様……たすけ……」	「B-Big Be sister... help...」
 
-100548	Bezeleye	「大丈夫よ」	「It's okay.」
+100548	Bezeleye		「大丈夫よ」	「It's okay.」
 
-100549	Serachrolas	「…………」	「............」
+100549	Serachrolas		「…………」	「............」
 
-100550	Bezeleye	「大丈夫、大丈夫」	「It's okay, it's okay.」
+100550	Bezeleye		「大丈夫、大丈夫」	「It's okay, it's okay.」
 
-100551	Serachrolas	「…………」	「............」
+100551	Serachrolas		「…………」	「............」
 
-100552	Rance	「お？」	「Oh?」
+100552	Rance		「お？」	「Oh?」
 
-100553	-	ベゼルアイの言葉が効いたのか、	Bezeleye's words seemed to work,
-100554	+	セラクロラスは抵抗をやめて座り直した。	and Serachrolas stopped resisting and sat properly.
+100553	-		ベゼルアイの言葉が効いたのか、	Bezeleye's words seemed to work,
+100554	+		セラクロラスは抵抗をやめて座り直した。	and Serachrolas stopped resisting and sat properly.
 
-100555	Sill Plain	「あ、あの、セラクロラス様……	「U-um, Lady Serachrolas...
-100556	+	　私は怖くありませんので……	　I'm not scary at all...
-100557	+	　リラックスなさって下さい……ね？」	　Please relax... okay?」
+100555	Sill Plain	苦笑	「あ、あの、セラクロラス様……	「U-um, Lady Serachrolas...
+100556	+		　私は怖くありませんので……	　I'm not scary at all...
+100557	+		　リラックスなさって下さい……ね？」	　Please relax... okay?」
 
-100558	Serachrolas	「…………」	「............」
+100558	Serachrolas	基本	「…………」	「............」
 
-100559	Bezeleye	「いつもセラはシィルちゃんの膝に座りたがるのに、	「Seracholas always wants to sit on Sill-chan's lap,
-100560	+	　突然嫌がったりするから寂しがってるのよ。	　but suddenly acts scared, so Sill is lonely.
-100561	+	　言う通りにしてあげたら？」	　Just do what she wants?」
+100559	Bezeleye		「いつもセラはシィルちゃんの膝に座りたがるのに、	「Seracholas always wants to sit on Sill-chan's lap,
+100560	+		　突然嫌がったりするから寂しがってるのよ。	　but suddenly acts scared, so Sill is lonely.
+100561	+		　言う通りにしてあげたら？」	　Just do what she wants?」
 
-100562	Serachrolas	「…………」	「............」
+100562	Serachrolas		「…………」	「............」
 
-100563	Serachrolas	「……はい」	「...Yes.」
+100563	Serachrolas		「……はい」	「...Yes.」
 
-100564	-	セラクロラスは遠慮がちに頷いた。	Serachrolas nodded shyly.
+100564	-		セラクロラスは遠慮がちに頷いた。	Serachrolas nodded shyly.
 
-100565	Rance	「普段はボーッとしてる奴だからアレだが……	「She's usually spaced out, but...
-100566	+	　こうして見ると可愛い奴だな」	　when she's like this she's pretty cute.」
+100565	Rance		「普段はボーッとしてる奴だからアレだが……	「She's usually spaced out, but...
+100566	+		　こうして見ると可愛い奴だな」	　when she's like this she's pretty cute.」
 
-100567	Rance	「これで小っこくなければ……	「If only she wasn't so small...
-100568	+	　うむむ、惜しい……」	　Hmm, what a shame...」
+100567	Rance		「これで小っこくなければ……	「If only she wasn't so small...
+100568	+		　うむむ、惜しい……」	　Hmm, what a shame...」
 
-100569	Serachrolas	「あ、あの……ランスさん、シィルさん……」	「U-um... Rance-san, Sill-san...」
+100569	Serachrolas		「あ、あの……ランスさん、シィルさん……」	「U-um... Rance-san, Sill-san...」
 
-100570	Rance	「ん？」	「Hm?」
+100570	Rance		「ん？」	「Hm?」
 
-100571	Serachrolas	「『今』の私はここで	「The 'current' me seems to be
-100572	+	　お世話になっているようですが……	　staying here and being taken care of...
-100573	+	　その、いつも私がご迷惑をおかけしてませんか？」	　Um, am I causing you trouble all the time?」
+100571	Serachrolas		「『今』の私はここで	「The 'current' me seems to be
+100572	+		　お世話になっているようですが……	　staying here and being taken care of...
+100573	+		　その、いつも私がご迷惑をおかけしてませんか？」	　Um, am I causing you trouble all the time?」
 
-100574	Serachrolas	「もしも、そうでしたら……	「If I am...
-100575	+	　すみません……」	　I'm sorry...」
+100574	Serachrolas		「もしも、そうでしたら……	「If I am...
+100575	+		　すみません……」	　I'm sorry...」
 
-100576	-	ぺこりと頭を下げるセラクロラス。	Serachrolas bowed her head politely.
+100576	-		ぺこりと頭を下げるセラクロラス。	Serachrolas bowed her head politely.
 
-100577	Rance	「…………」	「............」
+100577	Rance	驚き	「…………」	「............」
 
-100578	Rance	「おい、ベゼルアイ。	「Hey, Bezeleye.
-100579	+	　何があったらコレが、普段のアレになるのだ？」	　What exactly turns this into the usual her?」
+100578	Rance	だる顔	「おい、ベゼルアイ。	「Hey, Bezeleye.
+100579	+		　何があったらコレが、普段のアレになるのだ？」	　What exactly turns this into the usual her?」
 
-100580	Bezeleye	「さぁー？」	「Who knows?」
+100580	Bezeleye	基本	「さぁー？」	「Who knows?」
 
-100581	Bezeleye	「まあ極端な話……」	「Well, in extreme terms...
+100581	Bezeleye		「まあ極端な話……」	「Well, in extreme terms...
 
-100582	Bezeleye	「普段会っているのが、	　The one we usually meet
-100583	+	　数億年先のセラだとしたら……	　might be Seracholas from billions of years in the future...
-100584	+	　ああいう性格でもおかしくないかもね」	　so that personality wouldn't be strange.」
+100582	Bezeleye		「普段会っているのが、	　The one we usually meet
+100583	+		　数億年先のセラだとしたら……	　might be Seracholas from billions of years in the future...
+100584	+		　ああいう性格でもおかしくないかもね」	　so that personality wouldn't be strange.」
 
-100585	Rance	「すうおくね……」	「Billions of years...」
+100585	Rance		「すうおくね……」	「Billions of years...」
 
-100586	Bezeleye	「ま、それ抜きでも元々	「Even without that,
-100587	+	　ボーッとした子なんだけどね。	　she's always been spacey.
-100588	+	　今は初対面の人がいて緊張してるみたい」	　Right now she's just nervous meeting new people.」
+100586	Bezeleye		「ま、それ抜きでも元々	「Even without that,
+100587	+		　ボーッとした子なんだけどね。	　she's always been spacey.
+100588	+		　今は初対面の人がいて緊張してるみたい」	　Right now she's just nervous meeting new people.」
 
-100589	Serachrolas	「あ、あの……いつも私は……	「U-um... Do I always...
-100590	+	　シィルさんにこうして頂いていたのでしょうか？」	　get to sit on Sill-san's lap like this?」
+100589	Serachrolas		「あ、あの……いつも私は……	「U-um... Do I always...
+100590	+		　シィルさんにこうして頂いていたのでしょうか？」	　get to sit on Sill-san's lap like this?」
 
-100591	Sill Plain	「ええ、そうですよ」	「Yes, you do.」
+100591	Sill Plain		「ええ、そうですよ」	「Yes, you do.」
 
-100592	Serachrolas	「……ぅ」	「...Uu.」
+100592	Serachrolas		「……ぅ」	「...Uu.」
 
-100593	-	セラクロラスの頬がほのかに赤くなる。	Serachrolas's cheeks turned slightly pink.
+100593	-		セラクロラスの頬がほのかに赤くなる。	Serachrolas's cheeks turned slightly pink.
 
-100594	Serachrolas	「ありが、とう、ございます」	「Th-thank you.」
+100594	Serachrolas		「ありが、とう、ございます」	「Th-thank you.」
 
-100595	Serachrolas	「シィルさんにこうされるの……好きです……」	「I like... when Sill-san does this to me...」
+100595	Serachrolas		「シィルさんにこうされるの……好きです……」	「I like... when Sill-san does this to me...」
 
-100596	Serachrolas	「きっと普段の私は何も言わないでしょうが……	「The usual me probably doesn't say anything, but...
-100597	+	　とても喜んでいると思います」	　I think she's very happy.」
+100596	Serachrolas		「きっと普段の私は何も言わないでしょうが……	「The usual me probably doesn't say anything, but...
+100597	+		　とても喜んでいると思います」	　I think she's very happy.」
 
-100598	Serachrolas	「だって……今、私……	「Because... right now, I...
-100599	+	　なんだか、とても嬉しいです……」	　feel really happy...」
+100598	Serachrolas		「だって……今、私……	「Because... right now, I...
+100599	+		　なんだか、とても嬉しいです……」	　feel really happy...」
 
-100600	Sill Plain	「あうっ……！」	「Auu...!」
+100600	Sill Plain	恥	「あうっ……！」	「Auu...!」
 
-100601	-	キュンと、シィルが胸をときめかせた。	Sill's heart fluttered.
+100601	-		キュンと、シィルが胸をときめかせた。	Sill's heart fluttered.
 
-100602	Sill Plain	「え、えへへ、嬉しいです。	「E-ehehe, I'm glad.
-100603	+	　私もセラクロラス様をこうして抱っこするの、	　I also really like holding Lady Serachrolas like this,
-100604	+	　なんだかホッとして好きですよ」	　it makes me feel warm inside.」
+100602	Sill Plain	笑顔	「え、えへへ、嬉しいです。	「E-ehehe, I'm glad.
+100603	+		　私もセラクロラス様をこうして抱っこするの、	　I also really like holding Lady Serachrolas like this,
+100604	+		　なんだかホッとして好きですよ」	　it makes me feel warm inside.」
 
-100605	Serachrolas	「…………」	「............」
+100605	Serachrolas	基本	「…………」	「............」
 
-100606	Serachrolas	「……えへ、えへへ」	「...Ehe, ehehe.」
+100606	Serachrolas		「……えへ、えへへ」	「...Ehe, ehehe.」
 
-100607	-	もじもじとセラクロラスは照れているようだった。	Serachrolas fidgeted shyly.
+100607	-		もじもじとセラクロラスは照れているようだった。	Serachrolas fidgeted shyly.
 
-100608	Serachrolas	「…………」	「............」
+100608	Serachrolas		「…………」	「............」
 
-100609	Sill Plain	「セラクロラス様？」	「Lady Serachrolas?」
+100609	Sill Plain	きょとん	「セラクロラス様？」	「Lady Serachrolas?」
 
-100610	Serachrolas	「……ふにゃあ？」	「...Funyaa?」
+100610	Serachrolas	基本	「……ふにゃあ？」	「...Funyaa?」
 
-100611	-	とろーんとした目で、力のない声を出し、	With droopy eyes and a weak voice,
-100612	+	セラクロラスは全身を脱力させて	Serachrolas went completely limp
-100613	+	シィルに寄りかかった。	and leaned against Sill.
+100611	-		とろーんとした目で、力のない声を出し、	With droopy eyes and a weak voice,
+100612	+		セラクロラスは全身を脱力させて	Serachrolas went completely limp
+100613	+		シィルに寄りかかった。	and leaned against Sill.
 
-100614	Rance	「あ、いつものセラクロラスに戻った」	「Ah, she's back to normal Serachrolas.」
+100614	Rance		「あ、いつものセラクロラスに戻った」	「Ah, she's back to normal Serachrolas.」
 
-100615	Sill Plain	「あ、本当ですね」	「Ah, you're right.」
+100615	Sill Plain		「あ、本当ですね」	「Ah, you're right.」
 
-100616	Serachrolas	「…………むにゅ？　なに？」	「............Munyuu? What?」
+100616	Serachrolas		「…………むにゅ？　なに？」	「............Munyuu? What?」
 
-100617	Sill Plain	「えへへ、なんでもないですよー」	「Ehehe, it's nothing.」
+100617	Sill Plain		「えへへ、なんでもないですよー」	「Ehehe, it's nothing.」
 
-100618	Serachrolas	「……そなの？」	「...Is that so?」
+100618	Serachrolas		「……そなの？」	「...Is that so?」
 
-100619	Serachrolas	「ふわぁ……むにゃ……眠い……」	「Fwaa... Munya... sleepy...」
+100619	Serachrolas		「ふわぁ……むにゃ……眠い……」	「Fwaa... Munya... sleepy...」
 
-100620	Sill Plain	「えへへ、ずっとこうしていていいですからね」	「Ehehe, you can stay like this as long as you want.」
+100620	Sill Plain		「えへへ、ずっとこうしていていいですからね」	「Ehehe, you can stay like this as long as you want.」
 
-100621	Serachrolas	「？」	「?」
+100621	Serachrolas		「？」	「?」
 
-100622	Sill Plain	「えへへへ〜♪」	「Ehehehe~♪」
+100622	Sill Plain	笑顔	「えへへへ〜♪」	「Ehehehe~♪」
 
-100623	Serachrolas	「？？？」	「???」
+100623	Serachrolas	基本	「？？？」	「???」
 
-100624	-	シィルとセラクロラスの仲が	The bond between Sill and Serachrolas
-100625	+	更にとっても良くなった。	became even stronger.
+100624	-		シィルとセラクロラスの仲が	The bond between Sill and Serachrolas
+100625	+		更にとっても良くなった。	became even stronger.

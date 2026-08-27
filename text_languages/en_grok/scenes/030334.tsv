@@ -9,97 +9,97 @@
 * Girl	汎用少女	Female
 * Cream Ganoblade	クリーム	Female
 
-875	-	ランス城に、魔人が増えた。	More Fiends had arrived at Rance Castle.
+875	-		ランス城に、魔人が増えた。	More Fiends had arrived at Rance Castle.
 
-876	-	その噂は、周囲の者を通じ、	The rumor spread quickly
-877	+	瞬く間に拡大していった。	through the people around.
+876	-		その噂は、周囲の者を通じ、	The rumor spread quickly
+877	+		瞬く間に拡大していった。	through the people around.
 
-878	Rance	「最近、なんかその辺が騒がしくないか？」	「Has it been noisy around here lately?」
+878	Rance	だる顔	「最近、なんかその辺が騒がしくないか？」	「Has it been noisy around here lately?」
 
-879	Sill Plain	「そう言われてみると……そうかも知れませんね。	「Now that you mention it... maybe.
-880	+	　人の出入りが、増えたような……？」	　There seem to be more people coming and going...?」
+879	Sill Plain	考え中	「そう言われてみると……そうかも知れませんね。	「Now that you mention it... maybe.
+880	+		　人の出入りが、増えたような……？」	　There seem to be more people coming and going...?」
 
-881	Crook Mofus	「魔人ガルティアが来たからですよ」	「It's because Fiend Galtia came.」
+881	Crook Mofus	基本	「魔人ガルティアが来たからですよ」	「It's because Fiend Galtia came.」
 
-882	Rance	「お、クルックー。なんだ？　あのムシ野郎、	「Oh, Crook. What? That bug bastard,
-883	+	　なんかしてるのか」	　is he doing something?」
+882	Rance		「お、クルックー。なんだ？　あのムシ野郎、	「Oh, Crook. What? That bug bastard,
+883	+		　なんかしてるのか」	　is he doing something?」
 
-884	Crook Mofus	「……彼自身は、特に変わったことをしてるつもりは	「...He himself doesn't think he's doing anything special.」
-885	+	　ないのでしょうね」	
+884	Crook Mofus	目逸らし	「……彼自身は、特に変わったことをしてるつもりは	「...He himself doesn't think he's doing anything special.」
+885	+		　ないのでしょうね」	
 
-886	Rance	「ふん、とは言っても魔人だからな。	「Hmph, but he's still a Fiend.
-887	+	　他の連中にびびられたりしてるのか」	　People are probably scared of him.」
+886	Rance	真剣	「ふん、とは言っても魔人だからな。	「Hmph, but he's still a Fiend.
+887	+		　他の連中にびびられたりしてるのか」	　People are probably scared of him.」
 
-888	-	ランスは玉座から降りた。	Rance got down from the throne.
+888	-		ランスは玉座から降りた。	Rance got down from the throne.
 
-889	Sill Plain	「あ……ガルティアさんの所に行かれるのですか？」	「Ah... are you going to see Galtia-san?」
+889	Sill Plain	きょとん	「あ……ガルティアさんの所に行かれるのですか？」	「Ah... are you going to see Galtia-san?」
 
-890	Rance	「ちょいと釘を刺しておこう。	「I'll just give him a little warning.
-891	+	　いじめられても、	　Even if he's bullied,
-892	+	　女の子に危害を加えるんじゃないぞ、と」	　don't harm the girls.」
+890	Rance	基本	「ちょいと釘を刺しておこう。	「I'll just give him a little warning.
+891	+		　いじめられても、	　Even if he's bullied,
+892	+		　女の子に危害を加えるんじゃないぞ、と」	　don't harm the girls.」
 
-893	Rance	「お？　なんだ、人だかりが……」	「Oh? What's that crowd...」
+893	Rance	真剣	「お？　なんだ、人だかりが……」	「Oh? What's that crowd...」
 
-894	-	ランスの視線の先で、	In the direction Rance was looking,
-895	+	なにやら大勢の人間が何かを囲んでいた。	a large group of people were surrounding something.
+894	-		ランスの視線の先で、	In the direction Rance was looking,
+895	+		なにやら大勢の人間が何かを囲んでいた。	a large group of people were surrounding something.
 
-896	Rance	「む？　まさか、ガルティアの奴が	「Mph? Don't tell me Galtia is
-897	+	　さっそくいじめられてたり……」	　already being bullied...」
+896	Rance	だる顔	「む？　まさか、ガルティアの奴が	「Mph? Don't tell me Galtia is
+897	+		　さっそくいじめられてたり……」	　already being bullied...」
 
-898	Rance Castle Knight	「ガルティアさん、ガルティアさん！	「Galtia-san, Galtia-san!
-899	+	　これ、作ってきたんです！　食べてください！」	　I made this! Please eat it!」
+898	Rance Castle Knight	盾なし	「ガルティアさん、ガルティアさん！	「Galtia-san, Galtia-san!
+899	+		　これ、作ってきたんです！　食べてください！」	　I made this! Please eat it!」
 
-900	Kalar	「あっ、私も！」	「Ah, me too!」
+900	Kalar	基本	「あっ、私も！」	「Ah, me too!」
 
-901	Galtia	「おっ、いいぜいいぜ。むぐもぐ……うん、うめえ。	「Oh, nice nice. Munch munch... Yeah, delicious.
-902	+	　粘りケーキとアロエサラダか」	　Sticky cake and aloe salad, huh.」
+901	Galtia	基本使徒なし	「おっ、いいぜいいぜ。むぐもぐ……うん、うめえ。	「Oh, nice nice. Munch munch... Yeah, delicious.
+902	+		　粘りケーキとアロエサラダか」	　Sticky cake and aloe salad, huh.」
 
-903	Galtia	「砂糖をちょっと抑えたんだな。	「You held back on the sugar a bit.
-904	+	　他の味が引き立って、いい味じゃねえか。	　The other flavors stand out nicely.」
-905	+	　ありがとよ」	　Thanks.」
+903	Galtia		「砂糖をちょっと抑えたんだな。	「You held back on the sugar a bit.
+904	+		　他の味が引き立って、いい味じゃねえか。	　The other flavors stand out nicely.」
+905	+		　ありがとよ」	　Thanks.」
 
-906	Rance Castle Knight	「きゃーーーーっ！」	「Kyaaaaah!」
+906	Rance Castle Knight	盾なし	「きゃーーーーっ！」	「Kyaaaaah!」
 
-907	Kalar	「やったーーーーーっ！」	「Yayyyyy!」
+907	Kalar	基本	「やったーーーーーっ！」	「Yayyyyy!」
 
-908	JAPAN General	「ガルティア殿！	「Lord Galtia!
-909	+	　先日の稽古の続きといきましょうぞ！」	　Let's continue our spar from the other day!」
+908	JAPAN General		「ガルティア殿！	「Lord Galtia!
+909	+		　先日の稽古の続きといきましょうぞ！」	　Let's continue our spar from the other day!」
 
-910	Galtia	「おう、食後の運動といくか。いいぜ」	「Sure, post-meal exercise sounds good.」
+910	Galtia	基本使徒なし	「おう、食後の運動といくか。いいぜ」	「Sure, post-meal exercise sounds good.」
 
-911	Girl	「ガルティアー。遊んで遊んでー」	「Galtia~. Play with me~」
+911	Girl	笑顔	「ガルティアー。遊んで遊んでー」	「Galtia~. Play with me~」
 
-912	Galtia	「よーし、とりあえず外に行くか。ほれ肩車」	「Alright, let's go outside. Here, shoulder ride.」
+912	Galtia	基本使徒なし	「よーし、とりあえず外に行くか。ほれ肩車」	「Alright, let's go outside. Here, shoulder ride.」
 
-913	Girl	「わーい！」	「Yay!」
+913	Girl	笑顔	「わーい！」	「Yay!」
 
-914	-	人だかりを引き連れて、	Leading the crowd,
-915	+	ガルティアは庭へと移動していった。	Galtia moved toward the garden.
+914	-		人だかりを引き連れて、	Leading the crowd,
+915	+		ガルティアは庭へと移動していった。	Galtia moved toward the garden.
 
-916	Rance	「………………なんじゃあれ」	「............What the hell is that.」
+916	Rance	驚き	「………………なんじゃあれ」	「............What the hell is that.」
 
-917	Rance	「おっ、クリームちゃん。	「Oh, Cream-chan.
-918	+	　あのムシ野郎、何してやがんだ」	　What is that bug bastard doing?」
+917	Rance	真剣	「おっ、クリームちゃん。	「Oh, Cream-chan.
+918	+		　あのムシ野郎、何してやがんだ」	　What is that bug bastard doing?」
 
-919	Cream Ganoblade	「あ、総統。ガルティア殿ですか？	「Ah, Supreme Leader. You mean Galtia-dono?
-920	+	　彼……ずいぶん人気があるようですね」	　He... seems quite popular.」
+919	Cream Ganoblade	基本	「あ、総統。ガルティア殿ですか？	「Ah, Supreme Leader. You mean Galtia-dono?
+920	+		　彼……ずいぶん人気があるようですね」	　He... seems quite popular.」
 
-921	Rance	「人気って……奴は魔人だぞ」	「Popular... he's a Fiend.」
+921	Rance	だる顔	「人気って……奴は魔人だぞ」	「Popular... he's a Fiend.」
 
-922	Cream Ganoblade	「初めの内は、やはり皆、怖がってたようですが……	「At first everyone was scared, but...
-923	+	　あの通りの飾らない性格ですし、	　With his straightforward personality,
-924	+	　馴染んでしまったようです」	　he seems to have fit right in.」
+922	Cream Ganoblade	基本	「初めの内は、やはり皆、怖がってたようですが……	「At first everyone was scared, but...
+923	+		　あの通りの飾らない性格ですし、	　With his straightforward personality,
+924	+		　馴染んでしまったようです」	　he seems to have fit right in.」
 
-925	Cream Ganoblade	「困っている人を、ひょいっと助けたりもして。	「He casually helps people in trouble.
-926	+	　子供やお年寄りにも人気がありますね」	　He's popular with children and the elderly too.」
+925	Cream Ganoblade		「困っている人を、ひょいっと助けたりもして。	「He casually helps people in trouble.
+926	+		　子供やお年寄りにも人気がありますね」	　He's popular with children and the elderly too.」
 
-927	Rance	「ぬ、ぬ、ぬぬぬ……」	「Nu, nu, nunu...」
+927	Rance	驚き	「ぬ、ぬ、ぬぬぬ……」	「Nu, nu, nunu...」
 
-928	Cream Ganoblade	「意外ではありますが……今は貴重な戦力です。	「It's surprising but... he's a valuable asset now.
-929	+	　人類の輪の中でやっていけるなら……」	　If he can live within human society...」
+928	Cream Ganoblade	基本	「意外ではありますが……今は貴重な戦力です。	「It's surprising but... he's a valuable asset now.
+929	+		　人類の輪の中でやっていけるなら……」	　If he can live within human society...」
 
-930	Rance	「俺様の人気を掠め取る気か、奴め……	「Is he trying to steal my popularity...」
-931	+	　魔人バッシングキャンペーンでも企画してやるか。	　Maybe I'll start a Fiend bashing campaign.
-932	+	　魔人断食祭りとか」	　Like Fiend fasting festival.」
+930	Rance	イライラ	「俺様の人気を掠め取る気か、奴め……	「Is he trying to steal my popularity...」
+931	+		　魔人バッシングキャンペーンでも企画してやるか。	　Maybe I'll start a Fiend bashing campaign.
+932	+		　魔人断食祭りとか」	　Like Fiend fasting festival.」
 
-933	Cream Ganoblade	「…………やめてください」	「............Please don't.」
+933	Cream Ganoblade	ため息	「…………やめてください」	「............Please don't.」

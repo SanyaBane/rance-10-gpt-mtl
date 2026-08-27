@@ -7,93 +7,93 @@
 * Green Monster Soldier	汎用魔物兵緑	Male
 * Sill Plain	シィル	Female
 
-159916	Rance	「ラーンスあたたたーーーーっく！」	「Raaaaance ataaaaack!」
+159916	Rance	怒り	「ラーンスあたたたーーーーっく！」	「Raaaaance ataaaaack!」
 
-159917	-	渾身の力を込めた一撃が炸裂する。	A full-powered strike exploded.
+159917	-		渾身の力を込めた一撃が炸裂する。	A full-powered strike exploded.
 
-159918	Silky Littleraisin	「きゃああああ！」	「Kyaaaaah!」
+159918	Silky Littleraisin	ファット	「きゃああああ！」	「Kyaaaaah!」
 
-159919	-	鎧の上から叩きつけられた攻撃だが、	Even though the attack hit the armor,
-159920	+	そのダメージは鎧内部の体にも蓄積され、	the damage accumulated inside the armor to her body,
-159921	+	遂にシルキィは膝をついた。	and finally Silky fell to her knees.
+159919	-		鎧の上から叩きつけられた攻撃だが、	Even though the attack hit the armor,
+159920	+		そのダメージは鎧内部の体にも蓄積され、	the damage accumulated inside the armor to her body,
+159921	+		遂にシルキィは膝をついた。	and finally Silky fell to her knees.
 
-159922	Silky Littleraisin	「う、ぐっ……し、信じられ、ない……！」	「U-ugh... I-I can't believe it...!」
+159922	Silky Littleraisin		「う、ぐっ……し、信じられ、ない……！」	「U-ugh... I-I can't believe it...!」
 
-159923	Rance	「がははははははははははは！	「Gahahahahahahahahaha!
-159924	+	　苦労させてくれたなぁ、シルキィちゃん！」	　You really made me work for it, Silky-chan!」
+159923	Rance	基本	「がははははははははははは！	「Gahahahahahahahahaha!
+159924	+		　苦労させてくれたなぁ、シルキィちゃん！」	　You really made me work for it, Silky-chan!」
 
-159925	Satella	「す、すごい……信じられない……」	「A-amazing... unbelievable...」
+159925	Satella	不安	「す、すごい……信じられない……」	「A-amazing... unbelievable...」
 
-159926	Satella	「力が弱くなっていたとは言え、	「Even though her power was weakened,
-159927	+	　シルキィを倒すなんて……」	　to defeat Silky...」
+159926	Satella		「力が弱くなっていたとは言え、	「Even though her power was weakened,
+159927	+		　シルキィを倒すなんて……」	　to defeat Silky...」
 
-159928	Silky Littleraisin	「ぐううううううう……！」	「Guuuuuuuu...!」
+159928	Silky Littleraisin	ファット	「ぐううううううう……！」	「Guuuuuuuu...!」
 
-159929	Silky Littleraisin	「はあ……はあ……」	「Haa... haa...」
+159929	Silky Littleraisin	非武装	「はあ……はあ……」	「Haa... haa...」
 
-159930	-	魔導具の維持すら出来ず、	Unable to even maintain her magic tools,
-159931	+	戦場ではほぼ晒さない鎧の下の姿を、	Silky finally revealed the body underneath the armor
-159932	+	ついにシルキィはランスの前に晒した。	that she almost never shows on the battlefield to Rance.
+159930	-		魔導具の維持すら出来ず、	Unable to even maintain her magic tools,
+159931	+		戦場ではほぼ晒さない鎧の下の姿を、	Silky finally revealed the body underneath the armor
+159932	+		ついにシルキィはランスの前に晒した。	that she almost never shows on the battlefield to Rance.
 
-159933	Rance	「おほほほ！　可愛いではないか！」	「Ohohoho! How cute!」
+159933	Rance	基本	「おほほほ！　可愛いではないか！」	「Ohohoho! How cute!」
 
-159934	Red Monster Soldier	「ひいっ！　し、シルキィの奴、負けやがったぞ！」	「Hii! S-Silky lost!」
+159934	Red Monster Soldier		「ひいっ！　し、シルキィの奴、負けやがったぞ！」	「Hii! S-Silky lost!」
 
-159935	Blue Monster Soldier	「おい、どうすんだよ！？　この状況！」	「Hey, what do we do!? In this situation!」
+159935	Blue Monster Soldier		「おい、どうすんだよ！？　この状況！」	「Hey, what do we do!? In this situation!」
 
-159936	Red Monster Soldier	「ど、どうもこうも……	「W-what can we do...
-159937	+	　相手はシルキィを倒すような奴だぞ！	　The opponent just beat Silky!
-159938	+	　俺らに何が出来るってんだよ！」	　What can we possibly do!」
+159936	Red Monster Soldier		「ど、どうもこうも……	「W-what can we do...
+159937	+		　相手はシルキィを倒すような奴だぞ！	　The opponent just beat Silky!
+159938	+		　俺らに何が出来るってんだよ！」	　What can we possibly do!」
 
-159939	Green Monster Soldier	「ひ、ひいーーーーーー！	「H-hiiiiiiー!
-159940	+	　逃げろーーーー！」	　Run awaaaaay!」
+159939	Green Monster Soldier		「ひ、ひいーーーーーー！	「H-hiiiiiiー!
+159940	+		　逃げろーーーー！」	　Run awaaaaay!」
 
-159941	Rance	「お、逃げてく逃げてく」	「Oh, they're running, they're running.」
+159941	Rance		「お、逃げてく逃げてく」	「Oh, they're running, they're running.」
 
-159942	Rance	「ぐふふ、では早速」	「Gufufu, then right away」
+159942	Rance	エロ顔	「ぐふふ、では早速」	「Gufufu, then right away」
 
-159943	Satella	「ランス……」	「Rance...」
+159943	Satella	怒り	「ランス……」	「Rance...」
 
-159944	Rance	「うお、そんな睨むことないだろう」	「Whoa, no need to glare like that.」
+159944	Rance	基本	「うお、そんな睨むことないだろう」	「Whoa, no need to glare like that.」
 
-159945	Satella	「ふんっ」	「Hmph.」
+159945	Satella		「ふんっ」	「Hmph.」
 
-159946	-	ランスの横を通りすぎて、	Passing by Rance,
-159947	+	サテラがシルキィに近づく。	Satella approached Silky.
+159946	-		ランスの横を通りすぎて、	Passing by Rance,
+159947	+		サテラがシルキィに近づく。	Satella approached Silky.
 
-159948	Satella	「シルキィ、お前はサテラ達と来て貰う」	「Silky, you're coming with us.」
+159948	Satella		「シルキィ、お前はサテラ達と来て貰う」	「Silky, you're coming with us.」
 
-159949	Silky Littleraisin	「うっ、く……	「Ugh, ku...
-159950	+	　拒否権は……なさそうね……」	　I don't seem to have the right to refuse...」
+159949	Silky Littleraisin	非武装	「うっ、く……	「Ugh, ku...
+159950	+		　拒否権は……なさそうね……」	　I don't seem to have the right to refuse...」
 
-159951	Satella	「ああ、敗者は勝者に従ってもらう」	「Yes, the defeated must obey the victor.」
+159951	Satella	基本	「ああ、敗者は勝者に従ってもらう」	「Yes, the defeated must obey the victor.」
 
-159952	Satella	「そして、何故こんなことをしているのか……	「And you'll tell us everything about why you're doing this...
-159953	+	　事情を全部話してもらうぞ」	　the full story.」
+159952	Satella		「そして、何故こんなことをしているのか……	「And you'll tell us everything about why you're doing this...
+159953	+		　事情を全部話してもらうぞ」	　the full story.」
 
-159954	Silky Littleraisin	「ええ……でも、今は……」	「Yes... but right now...」
+159954	Silky Littleraisin	非武装	「ええ……でも、今は……」	「Yes... but right now...」
 
-159955	Satella	「あっ！　シルキィ！」	「Ah! Silky!」
+159955	Satella	基本	「あっ！　シルキィ！」	「Ah! Silky!」
 
-159956	-	力尽き、膝から崩れ落ちるシルキィを	Silky, exhausted, collapsed from her knees
-159957	+	サテラが自分の胸で受け止めた。	and Satella caught her against her chest.
+159956	-		力尽き、膝から崩れ落ちるシルキィを	Silky, exhausted, collapsed from her knees
+159957	+		サテラが自分の胸で受け止めた。	and Satella caught her against her chest.
 
-159958	Satella	「無茶ばっかりして……	「Always pushing yourself too hard...
-159959	+	　この馬鹿が……」	　You idiot...」
+159958	Satella	不安	「無茶ばっかりして……	「Always pushing yourself too hard...
+159959	+		　この馬鹿が……」	　You idiot...」
 
-159960	Rance	「それにしても中身が、	「Still, to think the person inside
-159961	+	　こんな小っこい子だったのか……」	　was such a small girl...」
+159960	Rance	真剣	「それにしても中身が、	「Still, to think the person inside
+159961	+		　こんな小っこい子だったのか……」	　was such a small girl...」
 
-159962	Rance	「よーし、とっととお持ち帰りと行くか」	「Alright, time to take her home.」
+159962	Rance	基本	「よーし、とっととお持ち帰りと行くか」	「Alright, time to take her home.」
 
-159963	Sill Plain	「あ、でも、リーザスの皆さんのお手伝いは……」	「Ah, but what about helping the people of Leazas...」
+159963	Sill Plain	きょとん	「あ、でも、リーザスの皆さんのお手伝いは……」	「Ah, but what about helping the people of Leazas...」
 
-159964	Rance	「そんなもん無視無視。	「Ignore that.
-159965	+	　慌てて逃げ出す連中くらい	　Those guys running away in panic
-159966	+	　自分らで処理できるだろ」	　can handle it themselves.」
+159964	Rance	だる顔	「そんなもん無視無視。	「Ignore that.
+159965	+		　慌てて逃げ出す連中くらい	　Those guys running away in panic
+159966	+		　自分らで処理できるだろ」	　can handle it themselves.」
 
-159967	Rance	「がははは、では帰るぞー」	「Gahahaha, let's head backー」
+159967	Rance	笑顔	「がははは、では帰るぞー」	「Gahahaha, let's head backー」
 
-159968	-	ランスの言葉通り、リーザスは退却する	Just as Rance said, Leazas easily handled
-159969	+	魔軍の追撃を難なくこなし、	the pursuit of the retreating Monster Army
-159970	+	この戦線での勝利を見事に納めてみせた。	and achieved a splendid victory on this front.
+159968	-		ランスの言葉通り、リーザスは退却する	Just as Rance said, Leazas easily handled
+159969	+		魔軍の追撃を難なくこなし、	the pursuit of the retreating Monster Army
+159970	+		この戦線での勝利を見事に納めてみせた。	and achieved a splendid victory on this front.

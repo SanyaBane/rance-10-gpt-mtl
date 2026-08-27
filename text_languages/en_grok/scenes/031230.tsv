@@ -4,56 +4,56 @@
 * Alkanese Rize	アルカネーゼ	Female
 * Chaos	カオス	Male
 
-61475	-	セキガハラの戦いは、	The Battle of Sekigahara
-61476	+	自由都市地帯の圧勝で終わった。	ended in an overwhelming victory for the Free Cities Alliance.
+61475	-		セキガハラの戦いは、	The Battle of Sekigahara
+61476	+		自由都市地帯の圧勝で終わった。	ended in an overwhelming victory for the Free Cities Alliance.
 
-61477	-	多数の魔物兵、魔物将軍、そして魔人レイを討ち、	They defeated numerous monster soldiers, Monster Generals, and Fiend Lei,
-61478	+	少なからぬ打撃を与える事に成功した。	dealing a significant blow.
+61477	-		多数の魔物兵、魔物将軍、そして魔人レイを討ち、	They defeated numerous monster soldiers, Monster Generals, and Fiend Lei,
+61478	+		少なからぬ打撃を与える事に成功した。	dealing a significant blow.
 
-61479	-	――しかし。	――However.
-61480	+	逃走した魔物大将軍ピサロは	The escaped Great Monster General Pizarro
-61481	+	残存の魔軍との合流に成功。	successfully joined the remaining Monster Army.
+61479	-		――しかし。	――However.
+61480	+		逃走した魔物大将軍ピサロは	The escaped Great Monster General Pizarro
+61481	+		残存の魔軍との合流に成功。	successfully joined the remaining Monster Army.
 
-61482	-	更に、セキガハラ以外の別働隊まで止める余力は	Furthermore, humanity's forces had no strength left
-61483	+	人類軍にはなく、ハンナ、パランチョを含む	to stop the other detachments outside Sekigahara,
-61484	+	複数の都市は、陥落を余儀なくされた。	and multiple cities including Hanna and Paranche were forced to fall.
+61482	-		更に、セキガハラ以外の別働隊まで止める余力は	Furthermore, humanity's forces had no strength left
+61483	+		人類軍にはなく、ハンナ、パランチョを含む	to stop the other detachments outside Sekigahara,
+61484	+		複数の都市は、陥落を余儀なくされた。	and multiple cities including Hanna and Paranche were forced to fall.
 
-61485	-	再編された魔軍の総数は、未だに人類軍のそれを	The total number of the reorganized Monster Army still
-61486	+	優に超えており、混乱している状況と合わせても	greatly exceeded the human army's, and even with the chaos,
-61487	+	辛うじて五分、でしかなかった。	it was only barely even.
+61485	-		再編された魔軍の総数は、未だに人類軍のそれを	The total number of the reorganized Monster Army still
+61486	+		優に超えており、混乱している状況と合わせても	greatly exceeded the human army's, and even with the chaos,
+61487	+		辛うじて五分、でしかなかった。	it was only barely even.
 
-61488	-	そして――	And――
+61488	-		そして――	And――
 
-61489	Copandon Dott	「あ、おった。ランスー」	「Ah, there you are, Rance.」
+61489	Copandon Dott	基本	「あ、おった。ランスー」	「Ah, there you are, Rance.」
 
-61490	Rance	「おう、コパンドン。会議は終わったのか」	「Yo, Copandon. Meeting over?」
+61490	Rance		「おう、コパンドン。会議は終わったのか」	「Yo, Copandon. Meeting over?」
 
-61491	Copandon Dott	「ん、まぁな。体制の確認くらいやけど……	「Yeah, pretty much. Just confirming the structure...
-61492	+	　まだまだ楽にはなりそうにないわ」	　Doesn't look like it'll get easy anytime soon.」
+61491	Copandon Dott		「ん、まぁな。体制の確認くらいやけど……	「Yeah, pretty much. Just confirming the structure...
+61492	+		　まだまだ楽にはなりそうにないわ」	　Doesn't look like it'll get easy anytime soon.」
 
-61493	Rance	「あの内通者のおっさんはどうしたんだ？」	「What happened to that traitor old man?」
+61493	Rance		「あの内通者のおっさんはどうしたんだ？」	「What happened to that traitor old man?」
 
-61494	Copandon Dott	「今は据え置きにして、	「For now we've left him in place,
-61495	+	　後で賠償の類は決めることにしたわ。	　and decided on reparations later.
-61496	+	　もーすっかり怯えて、反抗する様子もないし」	　He's completely terrified and shows no sign of resistance.」
+61494	Copandon Dott	ため息	「今は据え置きにして、	「For now we've left him in place,
+61495	+		　後で賠償の類は決めることにしたわ。	　and decided on reparations later.
+61496	+		　もーすっかり怯えて、反抗する様子もないし」	　He's completely terrified and shows no sign of resistance.」
 
-61497	Rance	「がはははは、そうかそうか。	「Gahahahaha, I see, I see.
-61498	+	　これも俺様のおかげか」	　This is thanks to me too.」
+61497	Rance	笑顔	「がはははは、そうかそうか。	「Gahahahaha, I see, I see.
+61498	+		　これも俺様のおかげか」	　This is thanks to me too.」
 
-61499	Copandon Dott	「ま、しばらくは魔軍も動きはないやろうな」	「Well, the Monster Army probably won't move for a while.」
+61499	Copandon Dott	基本	「ま、しばらくは魔軍も動きはないやろうな」	「Well, the Monster Army probably won't move for a while.」
 
-61500	Rance	「なら引き上げだな。一度城に戻る」	「Then let's head back. Return to the castle for now.」
+61500	Rance		「なら引き上げだな。一度城に戻る」	「Then let's head back. Return to the castle for now.」
 
-61501	Alkanese Rize	「はー、しかしきつい戦いだったなあ。	「Haa, that was a tough fight.
-61502	+	　裏切りとかそーいうの、アタイには難しいや」	　Betrayal and stuff like that is hard for me.」
+61501	Alkanese Rize	困り	「はー、しかしきつい戦いだったなあ。	「Haa, that was a tough fight.
+61502	+		　裏切りとかそーいうの、アタイには難しいや」	　Betrayal and stuff like that is hard for me.」
 
-61503	Rance	「しかし最後にはバシッと一騎討ちで	「But in the end I took him down in a one-on-one duel
-61504	+	　魔人を撃破してやったからな」	　and defeated the Fiend.」
+61503	Rance	基本	「しかし最後にはバシッと一騎討ちで	「But in the end I took him down in a one-on-one duel
+61504	+		　魔人を撃破してやったからな」	　and defeated the Fiend.」
 
-61505	Chaos	「まー、瀕死だったけどね。	「Well, you were on the brink of death though.
-61506	+	　かなりヤバかったけどね」	　It was pretty dangerous.」
+61505	Chaos		「まー、瀕死だったけどね。	「Well, you were on the brink of death though.
+61506	+		　かなりヤバかったけどね」	　It was pretty dangerous.」
 
-61507	Rance	「勝ちは勝ちだ。	「A win is a win.
-61508	+	　その辺、キッチリ宣伝しとけよ、がははははは！」	　Make sure to advertise that properly, gahahahaha!」
+61507	Rance	笑顔	「勝ちは勝ちだ。	「A win is a win.
+61508	+		　その辺、キッチリ宣伝しとけよ、がははははは！」	　Make sure to advertise that properly, gahahahaha!」
 
-61509	-	自由都市地帯の戦況が、少し人類側に傾いた。	The war situation in the Free Cities region tilted slightly in humanity's favor.
+61509	-		自由都市地帯の戦況が、少し人類側に傾いた。	The war situation in the Free Cities region tilted slightly in humanity's favor.

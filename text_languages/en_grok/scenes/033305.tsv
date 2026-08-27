@@ -10,165 +10,165 @@
 * Woman	汎用女	Female
 * Satella	サテラ	Female
 
-224630	-	翔竜山、アメージング城――	Shoryu Mountain, Amazing Castle--
+224630	-		翔竜山、アメージング城――	Shoryu Mountain, Amazing Castle--
 
-224631	-	魔王ランスの玉座――	Demon King Rance's throne--
+224631	-		魔王ランスの玉座――	Demon King Rance's throne--
 
-224632	-	魔人同士が集まっての	A regular meeting where Fiend gathered
-224633	+	定例会議が行われていた。	was being held.
+224632	-		魔人同士が集まっての	A regular meeting where Fiend gathered
+224633	+		定例会議が行われていた。	was being held.
 
-224634	-	学者とホーネットを中心に、	Centered around Scholar and Hornet,
-224635	+	サイゼル、ハウゼル、シルキィ、リズナ、	Seizel, Hawzel, Silky, Rizna,
-224636	+	今回は珍しくレイまでいた。	and unusually even Lei was present this time.
+224634	-		学者とホーネットを中心に、	Centered around Scholar and Hornet,
+224635	+		サイゼル、ハウゼル、シルキィ、リズナ、	Seizel, Hawzel, Silky, Rizna,
+224636	+		今回は珍しくレイまでいた。	and unusually even Lei was present this time.
 
-224637	-	早くから不参加を表明したカミーラとワーグ、	Camilla and Warg who had declared non-participation early,
-224638	+	ランスの作った魔人を除くのならば――	excluding the Fiend created by Rance--
+224637	-		早くから不参加を表明したカミーラとワーグ、	Camilla and Warg who had declared non-participation early,
+224638	+		ランスの作った魔人を除くのならば――	excluding the Fiend created by Rance--
 
-224639	-	その場には現在いる魔人のほぼ全員が揃っていた。	almost all current Fiends were gathered there.
+224639	-		その場には現在いる魔人のほぼ全員が揃っていた。	almost all current Fiends were gathered there.
 
-224640	-	しかし、その場に玉座の主である、	However, the master of the throne,
-224641	+	魔王ランスの姿だけはない。	Demon King Rance himself was not present.
+224640	-		しかし、その場に玉座の主である、	However, the master of the throne,
+224641	+		魔王ランスの姿だけはない。	Demon King Rance himself was not present.
 
-224642	Hornet	「では、学者。	「Well then, Scholar.
-224643	+	　アメージング城の建設状況はどうですか？」	　How is the construction progress of Amazing Castle?」
+224642	Hornet	基本	「では、学者。	「Well then, Scholar.
+224643	+		　アメージング城の建設状況はどうですか？」	　How is the construction progress of Amazing Castle?」
 
-224644	Scholar	「はい、頭領ダモンダグのもと、	「Yes, under leader Damondag,
-224645	+	　昼夜問わずの作業で予定されている全行程、	　with day and night work, the entire planned process
-224646	+	　その0.3パーセントが完成しています」	　is 0.3 percent complete.」
+224644	Scholar		「はい、頭領ダモンダグのもと、	「Yes, under leader Damondag,
+224645	+		　昼夜問わずの作業で予定されている全行程、	　with day and night work, the entire planned process
+224646	+		　その0.3パーセントが完成しています」	　is 0.3 percent complete.」
 
-224647	Lei	「……完成予定はいつなんだ、それ」	「...When is the completion date for that?」
+224647	Lei		「……完成予定はいつなんだ、それ」	「...When is the completion date for that?」
 
-224648	La Seizel	「数十年は先の話でしょうね……」	「Probably decades away...」
+224648	La Seizel	武装なし	「数十年は先の話でしょうね……」	「Probably decades away...」
 
-224649	Scholar	「いえ、最低でも数百年先となっていますね」	「No, at least several centuries from now.」
+224649	Scholar	基本	「いえ、最低でも数百年先となっていますね」	「No, at least several centuries from now.」
 
-224650	La Seizel	「うえええ……」	「Ueeee...」
+224650	La Seizel	武装なし	「うえええ……」	「Ueeee...」
 
-224651	Silky Littleraisin	「魔物を建設につかせたことで、	「By using monsters for construction,
-224652	+	　かなり平和になってしまっていると思うけど……	　I think it's become quite peaceful...
-224653	+	　人間側の勢力に大きな動きは？」	　Any major movements on the human side?」
+224651	Silky Littleraisin	非武装	「魔物を建設につかせたことで、	「By using monsters for construction,
+224652	+		　かなり平和になってしまっていると思うけど……	　I think it's become quite peaceful...
+224653	+		　人間側の勢力に大きな動きは？」	　Any major movements on the human side?」
 
-224654	Scholar	「今は特に何も」	「Nothing in particular right now.」
+224654	Scholar	基本	「今は特に何も」	「Nothing in particular right now.」
 
-224655	Silky Littleraisin	「そう……」	「I see...」
+224655	Silky Littleraisin	非武装	「そう……」	「I see...」
 
-224656	-	人間思いの魔人、	The monster-loving Fiend,
-224657	+	シルキィはほっと安堵の息を漏らした。	Silky let out a relieved sigh.
+224656	-		人間思いの魔人、	The monster-loving Fiend,
+224657	+		シルキィはほっと安堵の息を漏らした。	Silky let out a relieved sigh.
 
-224658	-	下手に魔軍との戦闘を考えられると、	Because she knew well that
-224659	+	その方がよほど被害が大きくなると	poorly thought-out battles with the Monster Army
-224660	+	よく知っているからである。	would cause far greater damage.
+224658	-		下手に魔軍との戦闘を考えられると、	Because she knew well that
+224659	+		その方がよほど被害が大きくなると	poorly thought-out battles with the Monster Army
+224660	+		よく知っているからである。	would cause far greater damage.
 
-224661	Hornet	「ただ……」	「However...
+224661	Hornet	基本	「ただ……」	「However...
 
-224662	Hornet	「魔物側は、ベンゲラツリー周辺に展開している	「On the monster side, there are movements to strengthen forces
-224663	+	　オルブライト派に戦力増強の動きがありました」	　of the Orbright faction deployed around Bengela Tree.」
+224662	Hornet		「魔物側は、ベンゲラツリー周辺に展開している	「On the monster side, there are movements to strengthen forces
+224663	+		　オルブライト派に戦力増強の動きがありました」	　of the Orbright faction deployed around Bengela Tree.」
 
-224664	Lei	「ランスがきっちり示しつければ	「If Rance properly kept them in line
-224665	+	　そんな話にもならないだろうに」	　such talk wouldn't even come up.」
+224664	Lei		「ランスがきっちり示しつければ	「If Rance properly kept them in line
+224665	+		　そんな話にもならないだろうに」	　such talk wouldn't even come up.」
 
-224666	La Hawzel	「そんな……魔王様を相手にそのような言い方……」	「Such... speaking that way to Demon King-sama...」
+224666	La Hawzel	武装なし	「そんな……魔王様を相手にそのような言い方……」	「Such... speaking that way to Demon King-sama...」
 
-224667	La Hawzel	「しかし、オルブライト派は何を考えて……」	「But what is the Orbright faction thinking...」
+224667	La Hawzel		「しかし、オルブライト派は何を考えて……」	「But what is the Orbright faction thinking...」
 
-224668	Scholar	「なんでも構いません」	「Anything is fine.
+224668	Scholar	基本	「なんでも構いません」	「Anything is fine.
 
-224669	Scholar	「ある程度、強くなり野心を持って	　If they become somewhat stronger and attack with ambition,
-224670	+	　攻めてきてくれるのであれば、	　it will be good stress relief for Demon King-sama.」
-224671	+	　魔王様の良き気晴らしとなるでしょう」	
+224669	Scholar		「ある程度、強くなり野心を持って	　If they become somewhat stronger and attack with ambition,
+224670	+		　攻めてきてくれるのであれば、	　it will be good stress relief for Demon King-sama.」
+224671	+		　魔王様の良き気晴らしとなるでしょう」	
 
-224672	Silky Littleraisin	「そこまで強くなると？」	「If they become that strong?」
+224672	Silky Littleraisin	非武装	「そこまで強くなると？」	「If they become that strong?」
 
-224673	Scholar	「今は様子見ですね」	「For now we're just observing.」
+224673	Scholar	基本	「今は様子見ですね」	「For now we're just observing.」
 
-224674	Rizna Lanfbitt	「あのぉ……」	「Um...
+224674	Rizna Lanfbitt		「あのぉ……」	「Um...
 
-224675	-	最も新入りの魔人であるリズナが、	The newest Fiend, Rizna,
-224676	+	おずおずと手を上げた。	hesitantly raised her hand.
+224675	-		最も新入りの魔人であるリズナが、	The newest Fiend, Rizna,
+224676	+		おずおずと手を上げた。	hesitantly raised her hand.
 
-224677	Rizna Lanfbitt	「ところでサテラさんは？」	「By the way, where is Satella?」
+224677	Rizna Lanfbitt		「ところでサテラさんは？」	「By the way, where is Satella?」
 
-224678	Scholar	「ああ、彼女なら――」	「Ah, as for her--」
+224678	Scholar		「ああ、彼女なら――」	「Ah, as for her--」
 
-224679	-	…………	............
+224679	-		…………	............
 
-224680	-	……	......
+224680	-		……	......
 
-224681	-	その頃、ランスの私室――	At that time, in Rance's private room--
+224681	-		その頃、ランスの私室――	At that time, in Rance's private room--
 
-224682	Demon King Rance	「…………」	「............」
+224682	Demon King Rance		「…………」	「............」
 
-224683	-	魔王ランス。	Demon King Rance.
+224683	-		魔王ランス。	Demon King Rance.
 
-224684	-	人類に悲劇を与えることを使命として課せられ、	A man tasked with the mission of bringing tragedy to humanity,
-224685	+	そしてそれを容易く叶えるほどの力も受け取った男。	and granted power easily capable of fulfilling it.
+224684	-		人類に悲劇を与えることを使命として課せられ、	A man tasked with the mission of bringing tragedy to humanity,
+224685	+		そしてそれを容易く叶えるほどの力も受け取った男。	and granted power easily capable of fulfilling it.
 
-224686	-	しかし、それほどの男が今、頭を抱えて苦悩していた。	Yet right now that very man was holding his head in agony.
+224686	-		しかし、それほどの男が今、頭を抱えて苦悩していた。	Yet right now that very man was holding his head in agony.
 
-224687	Woman	「ヒッ……っ……ぅぅ……」	「Hii... uu...」
+224687	Woman		「ヒッ……っ……ぅぅ……」	「Hii... uu...」
 
-224688	-	部屋の隅には震えている少女がいた。	In the corner of the room was a trembling girl.
+224688	-		部屋の隅には震えている少女がいた。	In the corner of the room was a trembling girl.
 
-224689	-	少女――	The girl--
+224689	-		少女――	The girl--
 
-224690	-	今朝、さらわれたばかりの少女。	a girl who had only been kidnapped this morning.
-224691	+	田舎の村で平穏な生活を送っていた筈の少女。	A girl who should have been living peacefully in a rural village.
+224690	-		今朝、さらわれたばかりの少女。	a girl who had only been kidnapped this morning.
+224691	+		田舎の村で平穏な生活を送っていた筈の少女。	A girl who should have been living peacefully in a rural village.
 
-224692	-	その、昨日までは家で家族と暮らし、朗らかに笑っていた少女は今、	The girl who until yesterday lived with her family at home, laughing cheerfully, now
-224693	+	恐怖と絶望に大きく顔を歪めていた。	had her face greatly distorted by terror and despair.
+224692	-		その、昨日までは家で家族と暮らし、朗らかに笑っていた少女は今、	The girl who until yesterday lived with her family at home, laughing cheerfully, now
+224693	+		恐怖と絶望に大きく顔を歪めていた。	had her face greatly distorted by terror and despair.
 
-224694	Woman	「ふ、ふぅぅ……っ……っ、く……！」	「Fu, fuuu... kuh...!」
+224694	Woman		「ふ、ふぅぅ……っ……っ、く……！」	「Fu, fuuu... kuh...!」
 
-224695	-	歯の根の合わない口を強く食いしばる。	She clenched her chattering teeth hard.
-224696	+	そうしなければすぐにでも悲鳴を上げてしまいそうだったから。	If she didn't, she felt she would scream at any moment.
+224695	-		歯の根の合わない口を強く食いしばる。	She clenched her chattering teeth hard.
+224696	+		そうしなければすぐにでも悲鳴を上げてしまいそうだったから。	If she didn't, she felt she would scream at any moment.
 
-224697	-	悲鳴を上げれば、次の瞬間、自分の体はバラバラに引き裂かれる。	If she screamed, the next instant her body would be torn apart.
-224698	+	少なくとも少女自身はそう考えていた。	At least that's what the girl herself believed.
+224697	-		悲鳴を上げれば、次の瞬間、自分の体はバラバラに引き裂かれる。	If she screamed, the next instant her body would be torn apart.
+224698	+		少なくとも少女自身はそう考えていた。	At least that's what the girl herself believed.
 
-224699	Satella	「ね、魔王様ぁ」	「Hey, Demon King-sama.」
+224699	Satella		「ね、魔王様ぁ」	「Hey, Demon King-sama.」
 
-224700	-	サテラが甘えるようにランスの体に体を絡ませる。	Satella coiled her body around Rance's like a spoiled child.
+224700	-		サテラが甘えるようにランスの体に体を絡ませる。	Satella coiled her body around Rance's like a spoiled child.
 
-224701	Satella	「その女、気に入らなかった？」	「Didn't you like that girl?」
+224701	Satella		「その女、気に入らなかった？」	「Didn't you like that girl?」
 
-224702	Satella	「せっかく、魔王様の好きそうな子をさらってきたのに……」	「I went through the trouble of kidnapping a girl you would like...」
+224702	Satella		「せっかく、魔王様の好きそうな子をさらってきたのに……」	「I went through the trouble of kidnapping a girl you would like...」
 
-224703	Satella	「…………」	「............」
+224703	Satella		「…………」	「............」
 
-224704	Satella	「……そっか、殺したくなっちゃったんだ」	「...I see, you want to kill her.」
+224704	Satella		「……そっか、殺したくなっちゃったんだ」	「...I see, you want to kill her.」
 
-224705	Satella	「また……魔王としての破壊衝動が強くなってきてるのね……」	「The destructive urge as the Demon King is getting stronger again...」
+224705	Satella		「また……魔王としての破壊衝動が強くなってきてるのね……」	「The destructive urge as the Demon King is getting stronger again...」
 
-224706	-	細く、しなやかなサテラの両腕が、	Satella's slender and supple arms
-224707	+	ランスのたくましい体に強く絡みつく。	tightly entwined around Rance's muscular body.
+224706	-		細く、しなやかなサテラの両腕が、	Satella's slender and supple arms
+224707	+		ランスのたくましい体に強く絡みつく。	tightly entwined around Rance's muscular body.
 
-224708	-	その力は本当に強く、まるでギリギリと締め付けるようだった。	The strength was truly powerful, as if squeezing tightly.
+224708	-		その力は本当に強く、まるでギリギリと締め付けるようだった。	The strength was truly powerful, as if squeezing tightly.
 
-224709	Satella	「サテラは……人間のランスも、魔王としてのランスも……	「Satella... loves both the human Rance and the Demon King Rance...
-224710	+	　どっちも好きよ……大好き……」	　I love both... I love them so much...」
+224709	Satella		「サテラは……人間のランスも、魔王としてのランスも……	「Satella... loves both the human Rance and the Demon King Rance...
+224710	+		　どっちも好きよ……大好き……」	　I love both... I love them so much...」
 
-224711	Satella	「サテラだけは……どんなランスでも全部愛する……」	「Only Satella... will love every version of Rance completely...」
+224711	Satella		「サテラだけは……どんなランスでも全部愛する……」	「Only Satella... will love every version of Rance completely...」
 
-224712	Satella	「他の人が怖がっても……	「Even if others are scared...
-224713	+	　サテラだけはずっと傍にいる……」	　Satella will stay by your side forever...」
+224712	Satella		「他の人が怖がっても……	「Even if others are scared...
+224713	+		　サテラだけはずっと傍にいる……」	　Satella will stay by your side forever...」
 
-224714	Satella	「だから……」	「So...
+224714	Satella		「だから……」	「So...
 
-224715	Satella	「殺したいなら、殺してしまいましょう……？」	「If you want to kill, let's kill...?」
+224715	Satella		「殺したいなら、殺してしまいましょう……？」	「If you want to kill, let's kill...?」
 
-224716	Satella	「自分でするのが嫌なら、サテラが、ぜーんぶしてあげる……」	「If you don't want to do it yourself, Satella will do everything...」
+224716	Satella		「自分でするのが嫌なら、サテラが、ぜーんぶしてあげる……」	「If you don't want to do it yourself, Satella will do everything...」
 
-224717	Satella	「ね、だから……我慢なんてしないで……」	「So... don't hold back...」
+224717	Satella		「ね、だから……我慢なんてしないで……」	「So... don't hold back...」
 
-224718	Satella	「それは、ランスには絶対似合わないんだから……」	「Because holding back doesn't suit Rance at all...」
+224718	Satella		「それは、ランスには絶対似合わないんだから……」	「Because holding back doesn't suit Rance at all...」
 
-224719	Satella	「だから……だから……」	「So... so...
+224719	Satella		「だから……だから……」	「So... so...
 
-224720	-	ギリギリ、ギリギリ。	Tighter, tighter.
-224721	+	サテラは絡みつかせた腕の力を強くする。	Satella strengthened the force of her entwined arms.
+224720	-		ギリギリ、ギリギリ。	Tighter, tighter.
+224721	+		サテラは絡みつかせた腕の力を強くする。	Satella strengthened the force of her entwined arms.
 
-224722	Satella	「お願い……」	「Please...」
+224722	Satella		「お願い……」	「Please...」
 
-224723	Satella	「そんな顔をしないで、サテラの魔王様……」	「Don't make that face, my Demon King-sama...」
+224723	Satella		「そんな顔をしないで、サテラの魔王様……」	「Don't make that face, my Demon King-sama...」
 
-224724	-	――魔王は何も答えない。	--The Demon King said nothing.
+224724	-		――魔王は何も答えない。	--The Demon King said nothing.

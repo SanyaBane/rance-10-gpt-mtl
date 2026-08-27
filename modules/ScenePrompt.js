@@ -131,7 +131,16 @@ const castBlock = (scene, voices) => scene.cast
 
 /**
  * The scene as the translator sees it: one speech per line -- its number, who
- * says it, and the whole utterance. No English, and no rows.
+ * says it and what their portrait is doing, and the whole utterance. No
+ * English, and no rows.
+ *
+ * The state goes in brackets after the name rather than into a column of its
+ * own, which keeps this at three columns: an answer that comes back echoing
+ * the shape it was given is read by modules/SceneAcceptance.js on the rule
+ * that the number is first and the English last, and a fourth column here
+ * would be a fourth column there for no gain. It is empty on most speeches --
+ * it is written where the portrait changes -- so the name reads plainly until
+ * something happens to the face.
  *
  * The rows are deliberately not on the page. They are where Japanese
  * typesetting fell, modules/SpeechRows.js puts the answer back into them
@@ -148,7 +157,8 @@ const sceneBlock = (scene) => {
             route = speech.route;
             lines.push(`> ${route ?? "end"}`);
         }
-        lines.push([speech.lineNumber, speech.speaker, speech.japanese].join("\t"));
+        const who = speech.state ? `${speech.speaker} (${speech.state})` : speech.speaker;
+        lines.push([speech.lineNumber, who, speech.japanese].join("\t"));
     }
     return lines.join("\n");
 };

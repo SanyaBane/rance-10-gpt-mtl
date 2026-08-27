@@ -3,133 +3,133 @@
 * Alcarria	アルカリア	Female
 * Kesselring	ケッセルリンク	Male→Female
 
-151434	-	ケッセルリンクの城――	Kesselring's castle――
+151434	-		ケッセルリンクの城――	Kesselring's castle――
 
-151435	-	ペルエレがトランシルバニアの森に入って、	Several days had passed since Peruele entered Transylvania Forest.
-151436	+	数日の時間が過ぎた。	
+151435	-		ペルエレがトランシルバニアの森に入って、	Several days had passed since Peruele entered Transylvania Forest.
+151436	+		数日の時間が過ぎた。	
 
-151437	-	そして、ペルエレは――	And Peruele――
+151437	-		そして、ペルエレは――	And Peruele――
 
-151438	-	…………	............
+151438	-		…………	............
 
-151439	-	……	...
+151439	-		……	...
 
-151440	Peruele Kalette	「んはーっ！　このご飯おーいしー！」	「Nhaa! This food is deliciooous!」
+151440	Peruele Kalette	笑顔	「んはーっ！　このご飯おーいしー！」	「Nhaa! This food is deliciooous!」
 
-151441	-	割と幸せそうに過ごしていた。	She was spending her days quite happily.
+151441	-		割と幸せそうに過ごしていた。	She was spending her days quite happily.
 
-151442	Alcarria	「ペルエレさん。	「Peruele-san.
-151443	+	　ご飯、おかわりまだまだありますから、	　There's plenty more food,
-151444	+	　慌てて食べなくていいですよ？」	　so no need to eat in such a hurry.」
+151442	Alcarria	基本	「ペルエレさん。	「Peruele-san.
+151443	+		　ご飯、おかわりまだまだありますから、	　There's plenty more food,
+151444	+		　慌てて食べなくていいですよ？」	　so no need to eat in such a hurry.」
 
-151445	Peruele Kalette	「はーい」	「Okaaay.」
+151445	Peruele Kalette	笑顔	「はーい」	「Okaaay.」
 
-151446	Peruele Kalette~	（なによ……）	（What the...）
+151446	Peruele Kalette~	基本	（なによ……）	（What the...）
 
-151447	Peruele Kalette~	（ここ、案外いいとこじゃない？）	（This place is surprisingly nice, isn't it?）
+151447	Peruele Kalette~		（ここ、案外いいとこじゃない？）	（This place is surprisingly nice, isn't it?）
 
-151448	Peruele Kalette~	（へへへ、ご飯は美味しいし、	（Hehehe, the food is delicious,
-151449	+	　メイド達も私のこと疑ってないしー）	　and the maids don't suspect me at all.）
+151448	Peruele Kalette~	にやり	（へへへ、ご飯は美味しいし、	（Hehehe, the food is delicious,
+151449	+		　メイド達も私のこと疑ってないしー）	　and the maids don't suspect me at all.）
 
-151450	Peruele Kalette~	（寝てたら潜入先に連れてきてもらえるなんて、	（Who would have thought I'd get carried to the infiltration target while sleeping,
-151451	+	　こりゃ私にも運が回ってきたのかしらねー）	　maybe my luck has finally turned.）
+151450	Peruele Kalette~		（寝てたら潜入先に連れてきてもらえるなんて、	（Who would have thought I'd get carried to the infiltration target while sleeping,
+151451	+		　こりゃ私にも運が回ってきたのかしらねー）	　maybe my luck has finally turned.）
 
-151452	Kesselring	「失礼する」	「Excuse me.」
+151452	Kesselring	基本	「失礼する」	「Excuse me.」
 
-151453	Peruele Kalette	「んぐっ！？」	「Nguh!?」
+151453	Peruele Kalette	恐怖	「んぐっ！？」	「Nguh!?」
 
-151454	Peruele Kalette	「ぐえっほ、げほっげほっ！」	「Gueh, cough cough!」
+151454	Peruele Kalette	基本	「ぐえっほ、げほっげほっ！」	「Gueh, cough cough!」
 
-151455	Kesselring	「大丈夫かね？」	「Are you alright?」
+151455	Kesselring		「大丈夫かね？」	「Are you alright?」
 
-151456	Alcarria	「ケッセルリンク様。	「Lord Kesselring.
-151457	+	　何かお淹れしましょうか」	　Shall I prepare something?」
+151456	Alcarria		「ケッセルリンク様。	「Lord Kesselring.
+151457	+		　何かお淹れしましょうか」	　Shall I prepare something?」
 
-151458	Kesselring	「では、紅茶を」	「Then, some black tea.」
+151458	Kesselring		「では、紅茶を」	「Then, some black tea.」
 
-151459	Peruele Kalette	「こここ、これは、魔人であらせられる	「Th, this, the Fiend himself,
-151460	+	　ケッセルリンク様におかれましては	　Lord Kesselring,
-151461	+	　ご機嫌麗しゅしゅしゅ……」	　how do you do...」
+151459	Peruele Kalette	恐怖	「こここ、これは、魔人であらせられる	「Th, this, the Fiend himself,
+151460	+		　ケッセルリンク様におかれましては	　Lord Kesselring,
+151461	+		　ご機嫌麗しゅしゅしゅ……」	　how do you do...」
 
-151462	Kesselring	「…………」	「............」
+151462	Kesselring	基本	「…………」	「............」
 
-151463	Peruele Kalette	「ああ、いえ、その前にあれですね、	「Ah, no, before that,
-151464	+	　改めてお礼を、はい、もう本当に、	　let me thank you again, yes, really,
-151465	+	　お命を救って頂き食事まで頂いて、あわわ……」	　for saving my life and even giving me food, awawa...」
+151463	Peruele Kalette	恐怖	「ああ、いえ、その前にあれですね、	「Ah, no, before that,
+151464	+		　改めてお礼を、はい、もう本当に、	　let me thank you again, yes, really,
+151465	+		　お命を救って頂き食事まで頂いて、あわわ……」	　for saving my life and even giving me food, awawa...」
 
-151466	Kesselring	「…………」	「............」
+151466	Kesselring	基本	「…………」	「............」
 
-151467	Peruele Kalette	「あ〜……いえ、本当……	「Ah~... no, really...
-151468	+	　魔人の城と聞いたときは驚きましたが……	　I was surprised when I heard it was a Fiend's castle but...
-151469	+	　えーと、このようなもてなし……」	　um, such hospitality...」
+151467	Peruele Kalette		「あ〜……いえ、本当……	「Ah~... no, really...
+151468	+		　魔人の城と聞いたときは驚きましたが……	　I was surprised when I heard it was a Fiend's castle but...
+151469	+		　えーと、このようなもてなし……」	　um, such hospitality...」
 
-151470	Kesselring	「…………」	「............」
+151470	Kesselring		「…………」	「............」
 
-151471	Peruele Kalette	「あり、ありがたい、なぁ……なーんて……」	「Th, thank you... or something...」
+151471	Peruele Kalette		「あり、ありがたい、なぁ……なーんて……」	「Th, thank you... or something...」
 
-151472	Kesselring	「…………」	「............」
+151472	Kesselring		「…………」	「............」
 
-151473	Peruele Kalette~	（なんか喋りなさいよ、こいつ！）	（Say something, you guy!）
+151473	Peruele Kalette~	怒り	（なんか喋りなさいよ、こいつ！）	（Say something, you guy!）
 
-151474	Kesselring	「ペルエレ、と、言ったか」	「Peruele, was it?」
+151474	Kesselring	基本	「ペルエレ、と、言ったか」	「Peruele, was it?」
 
-151475	Peruele Kalette	「はっ！　はひっ！？」	「Yes! Yess!?」
+151475	Peruele Kalette		「はっ！　はひっ！？」	「Yes! Yess!?」
 
-151476	Peruele Kalette~	（ま、まさか、私がスパイだってバレた！？）	（N, no way, he found out I'm a spy!?）
+151476	Peruele Kalette~		（ま、まさか、私がスパイだってバレた！？）	（N, no way, he found out I'm a spy!?）
 
-151477	Kesselring	「君は……	「You are...
-151478	+	　花のようだな」	　like a flower.」
+151477	Kesselring		「君は……	「You are...
+151478	+		　花のようだな」	　like a flower.」
 
-151479	Peruele Kalette	「…………」	「............」
+151479	Peruele Kalette		「…………」	「............」
 
-151480	Peruele Kalette	「……は？」	「...Huh?」
+151480	Peruele Kalette	ジト目	「……は？」	「...Huh?」
 
-151481	Kesselring	「今夜はカモミールティーか……」	「Chamomile tea tonight...」
+151481	Kesselring	目閉じ	「今夜はカモミールティーか……」	「Chamomile tea tonight...」
 
-151482	Alcarria	「はい、リラックス効果があるんだそうです」	「Yes, it has a relaxing effect.」
+151482	Alcarria	基本	「はい、リラックス効果があるんだそうです」	「Yes, it has a relaxing effect.」
 
-151483	Kesselring	「そうか……」	「I see...」
+151483	Kesselring	目閉じ	「そうか……」	「I see...」
 
-151484	Kesselring	「カモミールは……	「Chamomile is...
-151485	+	　私の好きな花の一つでね」	　one of my favorite flowers.」
+151484	Kesselring	基本	「カモミールは……	「Chamomile is...
+151485	+		　私の好きな花の一つでね」	　one of my favorite flowers.」
 
-151486	Peruele Kalette	「は、はあ……」	「I, I see...」
+151486	Peruele Kalette		「は、はあ……」	「I, I see...」
 
-151487	Peruele Kalette~	（このおっさん……	（This old man...
-151488	+	　頭おかしいのかな？）	　is he crazy?）
+151487	Peruele Kalette~	ジト目	（このおっさん……	（This old man...
+151488	+		　頭おかしいのかな？）	　is he crazy?）
 
-151489	Kesselring	「ふっ」	「Heh.」
+151489	Kesselring	基本	「ふっ」	「Heh.」
 
-151490	-	少しだけ唇を緩めて微笑を浮かべ、	Kesselring slightly relaxed his lips into a smile
-151491	+	ケッセルリンクが立ち上がる。	and stood up.
+151490	-		少しだけ唇を緩めて微笑を浮かべ、	Kesselring slightly relaxed his lips into a smile
+151491	+		ケッセルリンクが立ち上がる。	and stood up.
 
-151492	Kesselring	「では、失礼する」	「Well then, excuse me.」
+151492	Kesselring		「では、失礼する」	「Well then, excuse me.」
 
-151493	Peruele Kalette	「あっ、ええ……？」	「Ah, um...?」
+151493	Peruele Kalette		「あっ、ええ……？」	「Ah, um...?」
 
-151494	Kesselring	「ここにいたいのなら、そのように。	「If you wish to stay here, then do so.
-151495	+	　帰りたいと言うのなら、それもよい。	　If you wish to leave, that's fine too.
-151496	+	　君は君の望む通りにしたまえ」	　Do as you wish.」
+151494	Kesselring		「ここにいたいのなら、そのように。	「If you wish to stay here, then do so.
+151495	+		　帰りたいと言うのなら、それもよい。	　If you wish to leave, that's fine too.
+151496	+		　君は君の望む通りにしたまえ」	　Do as you wish.」
 
-151497	Peruele Kalette	「ど、どうも……」	「Th, thank you...」
+151497	Peruele Kalette		「ど、どうも……」	「Th, thank you...」
 
-151498	-	入ってきた時と同じように、	Just like when he entered,
-151499	+	ケッセルリンクは悠然と出て行った。	Kesselring calmly left the room.
+151498	-		入ってきた時と同じように、	Just like when he entered,
+151499	+		ケッセルリンクは悠然と出て行った。	Kesselring calmly left the room.
 
-151500	Alcarria	「では、私もそろそろ仕事に戻りますねー。	「Well then, I'll return to work soon.
-151501	+	　ペルエレさんも、ごゆっくり、	　Peruele-san, please relax
-151502	+	　くつろいでいて下さい」	　and take your time.」
+151500	Alcarria		「では、私もそろそろ仕事に戻りますねー。	「Well then, I'll return to work soon.
+151501	+		　ペルエレさんも、ごゆっくり、	　Peruele-san, please relax
+151502	+		　くつろいでいて下さい」	　and take your time.」
 
-151503	Alcarria	「あ、なんか困ったことがあったら、	「Ah, if you have any trouble,
-151504	+	　そこのベル鳴らしてくれたら来るんでー」	　just ring the bell there and I'll come.」
+151503	Alcarria		「あ、なんか困ったことがあったら、	「Ah, if you have any trouble,
+151504	+		　そこのベル鳴らしてくれたら来るんでー」	　just ring the bell there and I'll come.」
 
-151505	Alcarria	「ではではー」	「Well then.」
+151505	Alcarria		「ではではー」	「Well then.」
 
-151506	-	アルカリアが深々と頭を下げて退室すると、	After Alcarria bowed deeply and left,
-151507	+	ペルエレは豪華な食事と共に、	Peruele was left in the room with the luxurious meal.
-151508	+	室内に残されてしまった。	
+151506	-		アルカリアが深々と頭を下げて退室すると、	After Alcarria bowed deeply and left,
+151507	+		ペルエレは豪華な食事と共に、	Peruele was left in the room with the luxurious meal.
+151508	+		室内に残されてしまった。	
 
-151509	Peruele Kalette	「なーんか、変な感じ……」	「This feels... kinda weird...」
+151509	Peruele Kalette		「なーんか、変な感じ……」	「This feels... kinda weird...」
 
-151510	Peruele Kalette	「さて……	「Now then...
-151511	+	　とりあえず、どうすっかね」	　What should I do for now.」
+151510	Peruele Kalette		「さて……	「Now then...
+151511	+		　とりあえず、どうすっかね」	　What should I do for now.」

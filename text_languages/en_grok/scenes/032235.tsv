@@ -10,550 +10,550 @@
 * Lia Parapara Leazas	リア	Female
 * Arlcoate Marius	アールコート	Female
 
-132532	Monster General	「ぐ、が……がぁぁぁ……ッ！」	「Gu, ga... Gaaaa...!」
+132532	Monster General	基本	「ぐ、が……がぁぁぁ……ッ！」	「Gu, ga... Gaaaa...!」
 
-132533	-	　	　
-132534	+	　＜ズシィィィーン！＞	　＜Zushiiiiin!＞
+132533	-		　	　
+132534	+		　＜ズシィィィーン！＞	　＜Zushiiiiin!＞
 
-132535	-	地面を揺らす轟音を立てながら、	With a thunderous roar that shook the ground,
-132536	+	魔物将軍は地に伏した。	the Monster General fell to the ground.
+132535	-		地面を揺らす轟音を立てながら、	With a thunderous roar that shook the ground,
+132536	+		魔物将軍は地に伏した。	the Monster General fell to the ground.
 
-132537	Rance	「がはははははははは！	「Gahahahahahaha!
-132538	+	　魔物将軍なんぞ雑魚よ！」	　A Monster General is nothing but small fry!」
+132537	Rance	笑顔	「がはははははははは！	「Gahahahahahaha!
+132538	+		　魔物将軍なんぞ雑魚よ！」	　A Monster General is nothing but small fry!」
 
-132539	Sill Plain	「ら、ランス様、周りの魔物兵さん達が……」	「R-Rance-sama, the surrounding monster soldiers...」
+132539	Sill Plain	基本	「ら、ランス様、周りの魔物兵さん達が……」	「R-Rance-sama, the surrounding monster soldiers...」
 
-132540	Rance	「む！？」	「Mu!?」
+132540	Rance	だる顔	「む！？」	「Mu!?」
 
-132541	Green Monster Soldier	「う、あ、えっと……	「U, a, um...
-132542	+	　将軍が……負けた……？」	　The general... lost...?」
+132541	Green Monster Soldier	基本	「う、あ、えっと……	「U, a, um...
+132542	+		　将軍が……負けた……？」	　The general... lost...?」
 
-132543	Blue Monster Soldier	「お、おい……そんな……	「H-Hey... No way...
-132544	+	　ど、どうすればいいんだ、俺達……」	　W-What do we do now...?」
+132543	Blue Monster Soldier		「お、おい……そんな……	「H-Hey... No way...
+132544	+		　ど、どうすればいいんだ、俺達……」	　W-What do we do now...?」
 
-132545	-	ランス達を囲む大量のモンスター達が、	The large number of monsters surrounding Rance's group
-132546	+	魔物将軍の死を前に、目に見えて慌てだした。	began to visibly panic at the death of their general.
+132545	-		ランス達を囲む大量のモンスター達が、	The large number of monsters surrounding Rance's group
+132546	+		魔物将軍の死を前に、目に見えて慌てだした。	began to visibly panic at the death of their general.
 
-132547	Green Monster Soldier	「う、うるせぇ、情けねぇ声出すんじゃねぇ！	「Shut up, don't make such pathetic noises!
-132548	+	　俺は前々からお前には苛ついてたんだ！」	　I've been irritated with you for a while!」
+132547	Green Monster Soldier		「う、うるせぇ、情けねぇ声出すんじゃねぇ！	「Shut up, don't make such pathetic noises!
+132548	+		　俺は前々からお前には苛ついてたんだ！」	　I've been irritated with you for a while!」
 
-132549	Red Monster Soldier	「いてぇ！　今俺を殴ったのはどこのどいつだ！」	「Ouch! Who the hell just hit me!」
+132549	Red Monster Soldier		「いてぇ！　今俺を殴ったのはどこのどいつだ！」	「Ouch! Who the hell just hit me!」
 
-132550	Green Monster Soldier	「うがっ！？　お、俺じゃねぇよ！	「Uga!? I-It's not me!
-132551	+	　何しやがるんだ！」	　What the hell are you doing!」
+132550	Green Monster Soldier		「うがっ！？　お、俺じゃねぇよ！	「Uga!? I-It's not me!
+132551	+		　何しやがるんだ！」	　What the hell are you doing!」
 
-132552	Green Monster Soldier	「おい、よせ踏むんじゃねぇ！	「Hey, stop stepping on me!
-132553	+	　このぬるぬるの軟体野郎がブッ殺すぞ！」	　I'll kill you, you slimy soft-bodied bastard!」
+132552	Green Monster Soldier		「おい、よせ踏むんじゃねぇ！	「Hey, stop stepping on me!
+132553	+		　このぬるぬるの軟体野郎がブッ殺すぞ！」	　I'll kill you, you slimy soft-bodied bastard!」
 
-132554	-	元々魔物将軍の力で押さえつけられていただけの、	The soldiers, who were only held together by the Monster General's power,
-132555	+	信念も忠誠もない兵士達は、	with no real loyalty or conviction,
-132556	+	あっという間に戦う理由を失い、仲間割れを始める。	quickly lost their reason to fight and began infighting.
+132554	-		元々魔物将軍の力で押さえつけられていただけの、	The soldiers, who were only held together by the Monster General's power,
+132555	+		信念も忠誠もない兵士達は、	with no real loyalty or conviction,
+132556	+		あっという間に戦う理由を失い、仲間割れを始める。	quickly lost their reason to fight and began infighting.
 
-132557	Green Monster Soldier	「お、おい、お前ら慌てんな！	「H-Hey, don't panic!
-132558	+	　数ならこっちが勝ってんだ！	　We outnumber them!
-132559	+	　全員で襲いかかれば――」	　If we all attack together--」
+132557	Green Monster Soldier		「お、おい、お前ら慌てんな！	「H-Hey, don't panic!
+132558	+		　数ならこっちが勝ってんだ！	　We outnumber them!
+132559	+		　全員で襲いかかれば――」	　If we all attack together--」
 
-132560	Rance	「ランスあたたたーーーっく！」	「Rance attaaaaack!」
+132560	Rance		「ランスあたたたーーーっく！」	「Rance attaaaaack!」
 
-132561	Green Monster Soldier	「ぐぎゃあ！？」	「Gugyaa!?」
+132561	Green Monster Soldier		「ぐぎゃあ！？」	「Gugyaa!?」
 
-132562	-	どうにか混乱を収めようとしていた魔物を	Rance easily cut down a monster
-132563	+	ランスがアッサリと切り捨てる。	that was trying to restore order.
+132562	-		どうにか混乱を収めようとしていた魔物を	Rance easily cut down a monster
+132563	+		ランスがアッサリと切り捨てる。	that was trying to restore order.
 
-132564	Rance	「さあ、次に死にたいのどいつだ？	「Now, who's next to die?
-132565	+	　お前か？」	　You?」
+132564	Rance		「さあ、次に死にたいのどいつだ？	「Now, who's next to die?
+132565	+		　お前か？」	　You?」
 
-132566	-	一匹の魔物にカオスの切っ先を向ける。	He pointed the tip of Chaos at one monster.
+132566	-		一匹の魔物にカオスの切っ先を向ける。	He pointed the tip of Chaos at one monster.
 
-132567	Green Monster Soldier	「あ、ひう……う、え……？	「A, hiu... U, e...?
-132568	+	　ひっ……」	　Hii...」
+132567	Green Monster Soldier		「あ、ひう……う、え……？	「A, hiu... U, e...?
+132568	+		　ひっ……」	　Hii...」
 
-132569	Green Monster Soldier	「こここ、こっちに来るなァ〜！」	「D-D-Don't come this way~!」
+132569	Green Monster Soldier		「こここ、こっちに来るなァ〜！」	「D-D-Don't come this way~!」
 
-132570	Rance	「なんだ、逃げちまったか。	「What, it ran away.
-132571	+	　で、お前らはどうすんだ？」	　So what will you guys do?」
+132570	Rance	真剣	「なんだ、逃げちまったか。	「What, it ran away.
+132571	+		　で、お前らはどうすんだ？」	　So what will you guys do?」
 
-132572	Green Monster Soldier	「わ、わぁぁー、もう駄目だーッ！	「W-Waaaah, it's hopeless!
-132573	+	　逃げろーッ！」	　Run---!」
+132572	Green Monster Soldier	基本	「わ、わぁぁー、もう駄目だーッ！	「W-Waaaah, it's hopeless!
+132573	+		　逃げろーッ！」	　Run---!」
 
-132574	-	一人が逃げ出すと、	When one fled,
-132575	+	あとは蜂の巣をつついたような大騒ぎとなった。	the rest turned into a chaotic mess like a poked beehive.
+132574	-		一人が逃げ出すと、	When one fled,
+132575	+		あとは蜂の巣をつついたような大騒ぎとなった。	the rest turned into a chaotic mess like a poked beehive.
 
-132576	Green Monster Soldier	「ば、馬鹿よせ！　逃げんじゃねぇ！	「Idiots, stop! Don't run!
-132577	+	　数ならこっちが勝ってんだ！	　We have the numbers!
-132578	+	　数人は死ぬだろうがそれでも――！」	　A few might die but still--!」
+132576	Green Monster Soldier		「ば、馬鹿よせ！　逃げんじゃねぇ！	「Idiots, stop! Don't run!
+132577	+		　数ならこっちが勝ってんだ！	　We have the numbers!
+132578	+		　数人は死ぬだろうがそれでも――！」	　A few might die but still--!」
 
-132579	Blue Monster Soldier	「なら、お前が死ぬ役やれ！	「Then you go die!
-132580	+	　俺は御免だぞ！　通せ通せ！」	　Count me out! Let me through!」
+132579	Blue Monster Soldier		「なら、お前が死ぬ役やれ！	「Then you go die!
+132580	+		　俺は御免だぞ！　通せ通せ！」	　Count me out! Let me through!」
 
-132581	-	魔物達は数人のランス達から逃げ出し、	The monsters fled from the small group of Rance and his companions,
-132582	+	その場からモンスターの姿が消えた。	and the monsters disappeared from the area.
+132581	-		魔物達は数人のランス達から逃げ出し、	The monsters fled from the small group of Rance and his companions,
+132582	+		その場からモンスターの姿が消えた。	and the monsters disappeared from the area.
 
-132583	-	スッキリとした森を前に、	Facing the now-clear forest,
-132584	+	シーラがポカンとする。	Sheila stood there dumbfounded.
+132583	-		スッキリとした森を前に、	Facing the now-clear forest,
+132584	+		シーラがポカンとする。	Sheila stood there dumbfounded.
 
-132585	Sheila Helman	「か、勝った……のでしょうか……？	「D-Did we... win...?
-132586	+	　私、まだ戦わないといけないのかとばかり……」	　I thought I still had to fight...」
+132585	Sheila Helman	エロ顔	「か、勝った……のでしょうか……？	「D-Did we... win...?
+132586	+		　私、まだ戦わないといけないのかとばかり……」	　I thought I still had to fight...」
 
-132587	Rance	「どいつもこいつも魔物将軍に命じられて、	「All of them were just following the Monster General's orders,
-132588	+	　ただ暴れる為に来ただけの烏合の衆だからな」	　a disorderly mob that came only to rampage.」
+132587	Rance	基本	「どいつもこいつも魔物将軍に命じられて、	「All of them were just following the Monster General's orders,
+132588	+		　ただ暴れる為に来ただけの烏合の衆だからな」	　a disorderly mob that came only to rampage.」
 
-132589	Rance	「魔軍てのは頭さえ潰せばこんなもんだ」	「That's how the Monster Army works once you crush the head.」
+132589	Rance		「魔軍てのは頭さえ潰せばこんなもんだ」	「That's how the Monster Army works once you crush the head.」
 
-132590	Rance	「だが、今はそんなことよりも……」	「But right now, more importantly...」
+132590	Rance	エロ顔	「だが、今はそんなことよりも……」	「But right now, more importantly...」
 
-132591	-	ランスが倒れた魔物将軍に近づく。	Rance approached the fallen Monster General.
+132591	-		ランスが倒れた魔物将軍に近づく。	Rance approached the fallen Monster General.
 
-132592	Sheila Helman	「あ、あの、ランス様、なにを？」	「U-Um, Rance-sama, what are you...?」
+132592	Sheila Helman	基本	「あ、あの、ランス様、なにを？」	「U-Um, Rance-sama, what are you...?」
 
-132593	Rance	「がははは、さっきも言ったろう。	「Gahaha, I told you earlier.
-132594	+	　こいつはプレゼントつきなのだ。	　This thing comes with a present.
-132595	+	　中に美少女がいるのだ」	　There's a beautiful girl inside.」
+132593	Rance	笑顔	「がははは、さっきも言ったろう。	「Gahaha, I told you earlier.
+132594	+		　こいつはプレゼントつきなのだ。	　This thing comes with a present.
+132595	+		　中に美少女がいるのだ」	　There's a beautiful girl inside.」
 
-132596	Chaos	「そうそう、そうなの。	「That's right, that's right.
-132597	+	　おほほほ、お楽しみターイムってわけよ」	　Ohohoho, it's fun time.」
+132596	Chaos	基本	「そうそう、そうなの。	「That's right, that's right.
+132597	+		　おほほほ、お楽しみターイムってわけよ」	　Ohohoho, it's fun time.」
 
-132598	Rance	「さーて、中にいるのはどんな子かなー？」	「Now then, what kind of girl is inside~?」
+132598	Rance	エロ顔	「さーて、中にいるのはどんな子かなー？」	「Now then, what kind of girl is inside~?」
 
-132599	-	ランスは既に動かなくなった	Rance sliced open the belly
-132600	+	魔物将軍の腹をかっさばく。	of the now motionless Monster General.
+132599	-		ランスは既に動かなくなった	Rance sliced open the belly
+132600	+		魔物将軍の腹をかっさばく。	of the now motionless Monster General.
 
-132601	Rance	「おほーっ！　出てきた出てきた！」	「Oho! She's out, she's out!」
+132601	Rance	基本	「おほーっ！　出てきた出てきた！」	「Oho! She's out, she's out!」
 
-132602	-	中から美少女が姿を現した。	A beautiful girl emerged from inside.
+132602	-		中から美少女が姿を現した。	A beautiful girl emerged from inside.
 
-132603	Rance	「がははは、たまにひどいブスもいるが、	「Gahaha, sometimes it's an ugly one,
-132604	+	　今日はバッチリ大当たりだぞ！」	　but today we hit the jackpot!」
+132603	Rance	笑顔	「がははは、たまにひどいブスもいるが、	「Gahaha, sometimes it's an ugly one,
+132604	+		　今日はバッチリ大当たりだぞ！」	　but today we hit the jackpot!」
 
-132605	Chaos	「うーん、確かにこの紫髪ロングは	「Hmm, this long purple hair
-132606	+	　清楚そうでこれは中々……うひひ……」	　looks elegant and quite nice... Ufufu...」
+132605	Chaos	基本	「うーん、確かにこの紫髪ロングは	「Hmm, this long purple hair
+132606	+		　清楚そうでこれは中々……うひひ……」	　looks elegant and quite nice... Ufufu...」
 
-132607	Rance	「やかましい！　お前には触らせんからな！	「Shut up! You're not touching her!
-132608	+	　お前は隅っこで大人しく――」	　Stay quiet in the corner--」
+132607	Rance	だる顔	「やかましい！　お前には触らせんからな！	「Shut up! You're not touching her!
+132608	+		　お前は隅っこで大人しく――」	　Stay quiet in the corner--」
 
-132609	Rance	「……って、あれ？　この子」	「...Wait, huh? This girl.」
+132609	Rance		「……って、あれ？　この子」	「...Wait, huh? This girl.」
 
-132610	Lia Parapara Leazas	「あら、アールコートじゃない」	「Oh, isn't this Arlcoate?」
+132610	Lia Parapara Leazas	基本	「あら、アールコートじゃない」	「Oh, isn't this Arlcoate?」
 
-132611	Rance	「おお、やはりか！」	「Oh, it really is!」
+132611	Rance		「おお、やはりか！」	「Oh, it really is!」
 
-132612	Rance	「魔物に襲われたという話だったが、	「I heard she was attacked by monsters,
-132613	+	　魔物将軍に捕らえられていたのか」	　but she was captured by the Monster General.」
+132612	Rance	真剣	「魔物に襲われたという話だったが、	「I heard she was attacked by monsters,
+132613	+		　魔物将軍に捕らえられていたのか」	　but she was captured by the Monster General.」
 
-132614	Rance	「がははは、そりゃそうだな。	「Gahaha, makes sense.
-132615	+	　こんな頭もよく可愛い子だ。	　A smart and cute girl like this.
-132616	+	　魔物将軍が腹に入れたがるのも分かるぞ」	　No wonder the Monster General wanted her inside.」
+132614	Rance	笑顔	「がははは、そりゃそうだな。	「Gahaha, makes sense.
+132615	+		　こんな頭もよく可愛い子だ。	　A smart and cute girl like this.
+132616	+		　魔物将軍が腹に入れたがるのも分かるぞ」	　No wonder the Monster General wanted her inside.」
 
-132617	Rance	「だが、これは俺のだ。	「But she's mine now.
-132618	+	　返してもらう」	　I'll take her back.」
+132617	Rance	基本	「だが、これは俺のだ。	「But she's mine now.
+132618	+		　返してもらう」	　I'll take her back.」
 
-132619	Rance	「がははは、ここは俺様の愛の手で	「Gahaha, here I'll lovingly
-132620	+	　手厚く介抱をしてやらねば！」	　take care of her with my hands!」
+132619	Rance	笑顔	「がははは、ここは俺様の愛の手で	「Gahaha, here I'll lovingly
+132620	+		　手厚く介抱をしてやらねば！」	　take care of her with my hands!」
 
-132621	-	…………	............
+132621	-		…………	............
 
-132622	-	……	...
+132622	-		……	...
 
-132623	-	夢うつつの中から、徐々にアールコートの意識が覚醒していく。	Arlcoate's consciousness gradually awakened from a dreamy haze.
+132623	-		夢うつつの中から、徐々にアールコートの意識が覚醒していく。	Arlcoate's consciousness gradually awakened from a dreamy haze.
 
-132624	Arlcoate Marius~	（ん……あれ……）	（Nn... Huh...）
+132624	Arlcoate Marius~	基本	（ん……あれ……）	（Nn... Huh...）
 
-132625	Arlcoate Marius	「え……？」	「Eh...?」
+132625	Arlcoate Marius		「え……？」	「Eh...?」
 
-132626	-	アールコートに裸のランスがのしかかっていた。	A naked Rance was on top of the naked Arlcoate.
+132626	-		アールコートに裸のランスがのしかかっていた。	A naked Rance was on top of the naked Arlcoate.
 
-132627	Rance	「む、目を覚ましたか、アールコートちゃん」	「Mu, you're awake, Arlcoate-chan.」
+132627	Rance		「む、目を覚ましたか、アールコートちゃん」	「Mu, you're awake, Arlcoate-chan.」
 
-132628	Arlcoate Marius	「う……あ……？　おじ……さま……？」	「U... Ah...? Ojisama...?」
+132628	Arlcoate Marius		「う……あ……？　おじ……さま……？」	「U... Ah...? Ojisama...?」
 
-132629	Rance	「がははは、まったく目を覚まさないから心配したぞ」	「Gahaha, you wouldn't wake up so I got worried.」
+132629	Rance		「がははは、まったく目を覚まさないから心配したぞ」	「Gahaha, you wouldn't wake up so I got worried.」
 
-132630	Arlcoate Marius	「あ、うえ……これ……なん、で……」	「Ah, ueh... This... why...」
+132630	Arlcoate Marius		「あ、うえ……これ……なん、で……」	「Ah, ueh... This... why...」
 
-132631	-	魔物将軍の腹の中にいた影響か、	Perhaps due to being inside the Monster General,
-132632	+	どこかぼうっとしたアールコートがランスの顔を見る。	Arlcoate looked at Rance's face in a daze.
+132631	-		魔物将軍の腹の中にいた影響か、	Perhaps due to being inside the Monster General,
+132632	+		どこかぼうっとしたアールコートがランスの顔を見る。	Arlcoate looked at Rance's face in a daze.
 
-132633	Rance	「うむ、君が目を覚まさないから	「Yes, since you wouldn't wake up
-132634	+	　今から応急処置をするところだったのだ」	　I was about to give you emergency treatment.」
+132633	Rance		「うむ、君が目を覚まさないから	「Yes, since you wouldn't wake up
+132634	+		　今から応急処置をするところだったのだ」	　I was about to give you emergency treatment.」
 
-132635	Arlcoate Marius	「おうきゅう……しょち？	「Emergency... treatment?
-132636	+	　う、あ……え……？　これが……？」	　U, a... Eh...? This is...?」
+132635	Arlcoate Marius		「おうきゅう……しょち？	「Emergency... treatment?
+132636	+		　う、あ……え……？　これが……？」	　U, a... Eh...? This is...?」
 
-132637	Arlcoate Marius~	（あ、そっか……これ、夢……夢なんだ……）	（Ah, right... This is a dream... It's a dream...）
+132637	Arlcoate Marius~		（あ、そっか……これ、夢……夢なんだ……）	（Ah, right... This is a dream... It's a dream...）
 
-132638	-	意識が覚醒しきっていないのもあり、	Because her mind wasn't fully awake,
-132639	+	あまりに非現実的な光景をアールコートはすんなり受け入れた。	Arlcoate easily accepted the unreal scene.
+132638	-		意識が覚醒しきっていないのもあり、	Because her mind wasn't fully awake,
+132639	+		あまりに非現実的な光景をアールコートはすんなり受け入れた。	Arlcoate easily accepted the unreal scene.
 
-132640	Arlcoate Marius~	（あ……おじ様の手……あったかい……）	（Ah... Ojisama's hands... are warm...）
+132640	Arlcoate Marius~		（あ……おじ様の手……あったかい……）	（Ah... Ojisama's hands... are warm...）
 
-132641	-	全裸のまま晒された体は、外気に当たりすぐに冷える。	Her fully exposed naked body quickly cooled in the open air.
-132642	+	アールコートは憧れのおじ様の手の温かさに安心感を覚える。	Arlcoate felt safe from the warmth of the hands of the man she admired.
+132641	-		全裸のまま晒された体は、外気に当たりすぐに冷える。	Her fully exposed naked body quickly cooled in the open air.
+132642	+		アールコートは憧れのおじ様の手の温かさに安心感を覚える。	Arlcoate felt safe from the warmth of the hands of the man she admired.
 
-132643	Rance	「目は覚ましたがまだまだ心配だな。	「You're awake but I'm still worried.
-132644	+	　治療は続けるが大丈夫かな？　ん？」	　I'll continue the treatment, is that okay? Nn?」
+132643	Rance		「目は覚ましたがまだまだ心配だな。	「You're awake but I'm still worried.
+132644	+		　治療は続けるが大丈夫かな？　ん？」	　I'll continue the treatment, is that okay? Nn?」
 
-132645	Arlcoate Marius	「ん……え……だい、じょう……ぶ、です……	「Nn... Eh... I-I'm... fine...
-132646	+	　あ、う……つづけ、て、ください……」	　Ah, u... Please... continue...」
+132645	Arlcoate Marius		「ん……え……だい、じょう……ぶ、です……	「Nn... Eh... I-I'm... fine...
+132646	+		　あ、う……つづけ、て、ください……」	　Ah, u... Please... continue...」
 
-132647	Rance	「おほほー、そんなこと言うなんて、	「Oho, saying something like that,
-132648	+	　アールコートちゃんはエッチな子だな」	　Arlcoate-chan is such a lewd girl.」
+132647	Rance		「おほほー、そんなこと言うなんて、	「Oho, saying something like that,
+132648	+		　アールコートちゃんはエッチな子だな」	　Arlcoate-chan is such a lewd girl.」
 
-132649	Rance	「よしよし、ではこれを触ってみなさい」	「There there, now touch this.」
+132649	Rance		「よしよし、ではこれを触ってみなさい」	「There there, now touch this.」
 
-132650	-	ランスがアールコートの手を誘導する。	Rance guided Arlcoate's hand.
+132650	-		ランスがアールコートの手を誘導する。	Rance guided Arlcoate's hand.
 
-132651	Arlcoate Marius~	（え、これって……）	（Eh, this is...）
+132651	Arlcoate Marius~		（え、これって……）	（Eh, this is...）
 
-132652	-	細長い白魚のような指がランスのペニスに絡む。	Her slender, pale fingers wrapped around Rance's cock.
+132652	-		細長い白魚のような指がランスのペニスに絡む。	Her slender, pale fingers wrapped around Rance's cock.
 
-132653	-	　＜むぎゅ、きゅ……＞	　＜Mugyu, kyu...＞
+132653	-		　＜むぎゅ、きゅ……＞	　＜Mugyu, kyu...＞
 
-132654	Rance	「おほっ、そんな自分からにぎにぎしてくるとは……！」	「Oho, you're squeezing it yourself...!」
+132654	Rance		「おほっ、そんな自分からにぎにぎしてくるとは……！」	「Oho, you're squeezing it yourself...!」
 
-132655	Arlcoate Marius	「んっ……これ……おじ、さまの……」	「Nn... This... is Ojisama's...」
+132655	Arlcoate Marius		「んっ……これ……おじ、さまの……」	「Nn... This... is Ojisama's...」
 
-132656	-	夢見心地のアールコートは、羞恥心よりも好奇心が勝り、	In her dreamy state, curiosity won over shame,
-132657	+	確認するようにペニスを撫でていく。	and she stroked his cock as if confirming it.
+132656	-		夢見心地のアールコートは、羞恥心よりも好奇心が勝り、	In her dreamy state, curiosity won over shame,
+132657	+		確認するようにペニスを撫でていく。	and she stroked his cock as if confirming it.
 
-132658	Arlcoate Marius	「んっ……あつ、い、です……それに、か、たい……	「Nn... It's hot... and hard...
-132659	+	　あ、う……ぴくぴくって……ひ、う……」	　Ah, u... It's twitching... Hii...」
+132658	Arlcoate Marius		「んっ……あつ、い、です……それに、か、たい……	「Nn... It's hot... and hard...
+132659	+		　あ、う……ぴくぴくって……ひ、う……」	　Ah, u... It's twitching... Hii...」
 
-132660	Arlcoate Marius~	（私、触ったことも見たこともなくて……夢なのに……	（I've never touched or seen one before... Even though it's a dream...
-132661	+	　なんだか感触がリアル……夢ってすごい、な……）	　The feeling is so real... Dreams are amazing...）
+132660	Arlcoate Marius~		（私、触ったことも見たこともなくて……夢なのに……	（I've never touched or seen one before... Even though it's a dream...
+132661	+		　なんだか感触がリアル……夢ってすごい、な……）	　The feeling is so real... Dreams are amazing...）
 
-132662	-	アールコートは興味津々の体で触るが、	Arlcoate touched it with great curiosity,
-132663	+	たまらないのはランスの方である。	but it was Rance who couldn't hold back.
+132662	-		アールコートは興味津々の体で触るが、	Arlcoate touched it with great curiosity,
+132663	+		たまらないのはランスの方である。	but it was Rance who couldn't hold back.
 
-132664	Rance	「おお……俺様のちんこにアールコートちゃんの手が	「Ooh... Arlcoate-chan's hand is
-132665	+	　さわさわむぎゃむぎゅと絡みついて、こりゃたまらん……」	　softly squeezing and wrapping around my cock, this is unbearable...」
+132664	Rance		「おお……俺様のちんこにアールコートちゃんの手が	「Ooh... Arlcoate-chan's hand is
+132665	+		　さわさわむぎゃむぎゅと絡みついて、こりゃたまらん……」	　softly squeezing and wrapping around my cock, this is unbearable...」
 
-132666	Arlcoate Marius	「あっ……もっ、と、おおきく……」	「Ah... It's getting... bigger...」
+132666	Arlcoate Marius		「あっ……もっ、と、おおきく……」	「Ah... It's getting... bigger...」
 
-132667	-	より硬度と体積を増したペニスが、	His cock, now harder and larger,
-132668	+	アールコートの小さな手の中で嬉しそうにピクピクと跳ねていた。	twitched happily in Arlcoate's small hands.
+132667	-		より硬度と体積を増したペニスが、	His cock, now harder and larger,
+132668	+		アールコートの小さな手の中で嬉しそうにピクピクと跳ねていた。	twitched happily in Arlcoate's small hands.
 
-132669	Rance	「よしよし、良い子だな、アールコートちゃんは。	「There there, what a good girl, Arlcoate-chan.
-132670	+	　ぐふふ、そろそろ……」	　Gufufu, it's about time...」
+132669	Rance		「よしよし、良い子だな、アールコートちゃんは。	「There there, what a good girl, Arlcoate-chan.
+132670	+		　ぐふふ、そろそろ……」	　Gufufu, it's about time...」
 
-132671	-	軽めにランスがアールコートの頭を撫でる。	Rance gently stroked Arlcoate's head.
+132671	-		軽めにランスがアールコートの頭を撫でる。	Rance gently stroked Arlcoate's head.
 
-132672	Arlcoate Marius	「あっ……おじ、さま……」	「Ah... Ojisama...」
+132672	Arlcoate Marius		「あっ……おじ、さま……」	「Ah... Ojisama...」
 
-132673	Rance	「ん？」	「Nn?」
+132673	Rance		「ん？」	「Nn?」
 
-132674	-	きゅっと、少し強めにアールコートがランスの腕を握った。	Arlcoate gripped Rance's arm a little tighter.
+132674	-		きゅっと、少し強めにアールコートがランスの腕を握った。	Arlcoate gripped Rance's arm a little tighter.
 
-132675	-	その表情は目を覚ました直後より少しだけ	Her expression seemed slightly more awake
-132676	+	意識が覚醒し始めているようだった。	than right after waking up.
+132675	-		その表情は目を覚ました直後より少しだけ	Her expression seemed slightly more awake
+132676	+		意識が覚醒し始めているようだった。	than right after waking up.
 
-132677	Arlcoate Marius	「わ、わたし……とっても怖かった、です……	「I... was so scared...
-132678	+	　魔物のお腹に入れられて……真っ暗で、何も考えられなくて……」	　Being trapped inside the monster's belly... It was pitch black and I couldn't think...」
+132677	Arlcoate Marius		「わ、わたし……とっても怖かった、です……	「I... was so scared...
+132678	+		　魔物のお腹に入れられて……真っ暗で、何も考えられなくて……」	　Being trapped inside the monster's belly... It was pitch black and I couldn't think...」
 
-132679	Arlcoate Marius	「わたし……ずっと、ずっと……おじ様を呼んでいました……	「I... kept calling for Ojisama the whole time...
-132680	+	　たすけて……たすけて……って……」	　Save me... save me...」
+132679	Arlcoate Marius		「わたし……ずっと、ずっと……おじ様を呼んでいました……	「I... kept calling for Ojisama the whole time...
+132680	+		　たすけて……たすけて……って……」	　Save me... save me...」
 
-132681	Rance	「うむうむ、俺様が見事助けてやったぞ。	「Yes yes, I splendidly saved you.
-132682	+	　良かったな、アールコートちゃん」	　I'm glad, Arlcoate-chan.」
+132681	Rance		「うむうむ、俺様が見事助けてやったぞ。	「Yes yes, I splendidly saved you.
+132682	+		　良かったな、アールコートちゃん」	　I'm glad, Arlcoate-chan.」
 
-132683	-	平素であれば恥ずかしくてとても言えないような言葉だが、	Words she would normally never say out of embarrassment,
-132684	+	夢であるという勘違いがアールコートを大胆にさせた。	but the belief that this was a dream made Arlcoate bold.
+132683	-		平素であれば恥ずかしくてとても言えないような言葉だが、	Words she would normally never say out of embarrassment,
+132684	+		夢であるという勘違いがアールコートを大胆にさせた。	but the belief that this was a dream made Arlcoate bold.
 
-132685	Arlcoate Marius	「怖かったけど……おじ様……本当に来てくれた……」	「It was scary but... Ojisama... you really came for me...」
+132685	Arlcoate Marius		「怖かったけど……おじ様……本当に来てくれた……」	「It was scary but... Ojisama... you really came for me...」
 
-132686	Arlcoate Marius~	（たとえ……それが、今際の際の夢でも……	（Even if... this is just a dream on the brink of death...
-132687	+	　わたし……すっごく、嬉しい、です……）	　I'm... incredibly happy...）
+132686	Arlcoate Marius~		（たとえ……それが、今際の際の夢でも……	（Even if... this is just a dream on the brink of death...
+132687	+		　わたし……すっごく、嬉しい、です……）	　I'm... incredibly happy...）
 
-132688	Rance	「では、そろそろするぞ。	「Then it's time.
-132689	+	　何をするかは、言わなくても分かるな？」	　You know what we're going to do, right?」
+132688	Rance		「では、そろそろするぞ。	「Then it's time.
+132689	+		　何をするかは、言わなくても分かるな？」	　You know what we're going to do, right?」
 
-132690	-	これが夢であるという勘違いが、アールコートから思考能力を奪う。	The misconception that this was a dream robbed Arlcoate of her ability to think clearly.
+132690	-		これが夢であるという勘違いが、アールコートから思考能力を奪う。	The misconception that this was a dream robbed Arlcoate of her ability to think clearly.
 
-132691	Arlcoate Marius	「……………………こくっ」	「........................ *nod*」
+132691	Arlcoate Marius		「……………………こくっ」	「........................ *nod*」
 
-132692	-	アールコートは、おじ様が求めているから、	Because Ojisama wanted it,
-132693	+	というたった一点でセックスを受け入れた。	Arlcoate accepted having sex for that single reason.
+132692	-		アールコートは、おじ様が求めているから、	Because Ojisama wanted it,
+132693	+		というたった一点でセックスを受け入れた。	Arlcoate accepted having sex for that single reason.
 
-132694	Rance	「がははは、いい子だぞ、アールコートちゃん！」	「Gahaha, good girl, Arlcoate-chan!」
+132694	Rance		「がははは、いい子だぞ、アールコートちゃん！」	「Gahaha, good girl, Arlcoate-chan!」
 
-132695	-	　＜ずっ、ずずず……＞	　＜Zuu, zuzuzu...＞
+132695	-		　＜ずっ、ずずず……＞	　＜Zuu, zuzuzu...＞
 
-132696	Arlcoate Marius	「んっ、くうぅうぅぅぅ……！」	「Nn, kuuuuu...!」
+132696	Arlcoate Marius		「んっ、くうぅうぅぅぅ……！」	「Nn, kuuuuu...!」
 
-132697	-	ペニスが膣内に入り込む瞬間、	The moment his cock entered her pussy,
-132698	+	強い抵抗と共にアールコートが呻いた。	Arlcoate groaned with strong resistance.
+132697	-		ペニスが膣内に入り込む瞬間、	The moment his cock entered her pussy,
+132698	+		強い抵抗と共にアールコートが呻いた。	Arlcoate groaned with strong resistance.
 
-132699	Rance	「む、この感触……アールコートちゃん……	「Mu, this feeling... Arlcoate-chan...
-132700	+	　もしかして処女か！？」	　Are you a virgin!?」
+132699	Rance		「む、この感触……アールコートちゃん……	「Mu, this feeling... Arlcoate-chan...
+132700	+		　もしかして処女か！？」	　Are you a virgin!?」
 
-132701	-	こくっこくっと、何度もアールコートが頷く。	Arlcoate nodded repeatedly.
+132701	-		こくっこくっと、何度もアールコートが頷く。	Arlcoate nodded repeatedly.
 
-132702	Rance	「むう、そうだったのか……	「Muu, so you were...
-132703	+	　まあ恋愛経験豊富そうには見えないしな……」	　Well, you don't look very experienced...」
+132702	Rance		「むう、そうだったのか……	「Muu, so you were...
+132703	+		　まあ恋愛経験豊富そうには見えないしな……」	　Well, you don't look very experienced...」
 
-132704	Rance	「よーし、そういうことなら出来るだけ優しくしてやるからな。	「Alright, in that case I'll be as gentle as possible.
-132705	+	　がははは、処女の相手なら何度もした俺様に任せておけ！」	　Gahaha, leave deflowering to me, I've done it many times!」
+132704	Rance		「よーし、そういうことなら出来るだけ優しくしてやるからな。	「Alright, in that case I'll be as gentle as possible.
+132705	+		　がははは、処女の相手なら何度もした俺様に任せておけ！」	　Gahaha, leave deflowering to me, I've done it many times!」
 
-132706	-	硬い膣内をほぐすようにランスが腰をゆっくりと動かす。	Rance slowly moved his hips to loosen her tight pussy.
+132706	-		硬い膣内をほぐすようにランスが腰をゆっくりと動かす。	Rance slowly moved his hips to loosen her tight pussy.
 
-132707	Arlcoate Marius	「んぐっ、んんんん……！　い、いたっ……！」	「Ngu, nnnnn...! I-It hurts...!」
+132707	Arlcoate Marius		「んぐっ、んんんん……！　い、いたっ……！」	「Ngu, nnnnn...! I-It hurts...!」
 
-132708	Rance	「おっと、痛かったか？　もう少しゆっくりと動くか？」	「Oops, did that hurt? Should I move even slower?」
+132708	Rance		「おっと、痛かったか？　もう少しゆっくりと動くか？」	「Oops, did that hurt? Should I move even slower?」
 
-132709	-	顔をしかめて目尻に涙を浮かべる顔を見て、	Seeing her furrowed brow and tears in the corners of her eyes,
-132710	+	ランスが動きを止める。	Rance stopped moving.
+132709	-		顔をしかめて目尻に涙を浮かべる顔を見て、	Seeing her furrowed brow and tears in the corners of her eyes,
+132710	+		ランスが動きを止める。	Rance stopped moving.
 
-132711	-	ぷるぷるとアールコートは首を横に振った。	Arlcoate shook her head.
+132711	-		ぷるぷるとアールコートは首を横に振った。	Arlcoate shook her head.
 
-132712	Arlcoate Marius	「い、今のわたしがあるの……おじ様のおかげ、だから……	「The fact that I'm here now... is thanks to Ojisama...
-132713	+	　おじ様が求めるなら……わたし……わたし……」	　If Ojisama wants it... then I... I...」
+132712	Arlcoate Marius		「い、今のわたしがあるの……おじ様のおかげ、だから……	「The fact that I'm here now... is thanks to Ojisama...
+132713	+		　おじ様が求めるなら……わたし……わたし……」	　If Ojisama wants it... then I... I...」
 
-132714	Rance	「おお、そこまでの覚悟を持って……	「Ooh, with that much resolve...
-132715	+	　そういうことならすぐに気持ち良くしてやるからな」	　Then I'll make you feel good right away.」
+132714	Rance		「おお、そこまでの覚悟を持って……	「Ooh, with that much resolve...
+132715	+		　そういうことならすぐに気持ち良くしてやるからな」	　Then I'll make you feel good right away.」
 
-132716	-	小刻みに膣壁を擦るようにランスが動くと、	Rance moved with small strokes, rubbing her vaginal walls,
-132717	+	敏感な粘膜がペニスに擦られ、アールコートが呻く。	stimulating her sensitive folds and making her moan.
+132716	-		小刻みに膣壁を擦るようにランスが動くと、	Rance moved with small strokes, rubbing her vaginal walls,
+132717	+		敏感な粘膜がペニスに擦られ、アールコートが呻く。	stimulating her sensitive folds and making her moan.
 
-132718	Arlcoate Marius	「うっ……くう……！」	「Uhh... Kuu...!」
+132718	Arlcoate Marius		「うっ……くう……！」	「Uhh... Kuu...!」
 
-132719	-	　＜ぎゅうっ……！＞	　＜Squeeze...!＞
+132719	-		　＜ぎゅうっ……！＞	　＜Squeeze...!＞
 
-132720	-	アールコートは痛みに耐えながら、なんとかランスの腕を握った。	Enduring the pain, Arlcoate managed to grip Rance's arm.
+132720	-		アールコートは痛みに耐えながら、なんとかランスの腕を握った。	Enduring the pain, Arlcoate managed to grip Rance's arm.
 
-132721	Rance~	（むほほほ、魔物将軍の中の女の子は大体夢見心地で	（Muho ho, girls inside Monster Generals are usually in a dreamy state
-132722	+	　なにしても嫌がらないから好きだぞ）	　so they don't resist anything, which I love.）
+132721	Rance~		（むほほほ、魔物将軍の中の女の子は大体夢見心地で	（Muho ho, girls inside Monster Generals are usually in a dreamy state
+132722	+		　なにしても嫌がらないから好きだぞ）	　so they don't resist anything, which I love.）
 
-132723	Arlcoate Marius~	（んんっ……おじ、さま……わたしの、為に、頑張ってくれてる……	（Nnn... Ojisama... is working hard for me...
-132724	+	　わたし、も……耐えなきゃ……痛くても……）	　I have to endure too... even if it hurts...）
+132723	Arlcoate Marius~		（んんっ……おじ、さま……わたしの、為に、頑張ってくれてる……	（Nnn... Ojisama... is working hard for me...
+132724	+		　わたし、も……耐えなきゃ……痛くても……）	　I have to endure too... even if it hurts...）
 
-132725	Arlcoate Marius	「んっ、んっ……んくっ、んぐっ……！」	「Nn, nn... Nku, ngu...!」
+132725	Arlcoate Marius		「んっ、んっ……んくっ、んぐっ……！」	「Nn, nn... Nku, ngu...!」
 
-132726	-	ペニス全体がアールコートの膣内にキツく締め付けられ、	Her tight pussy squeezed his entire cock,
-132727	+	少し動かすだけでそれだけでイッてしまいそうだった。	making him feel like he could cum from just a little movement.
+132726	-		ペニス全体がアールコートの膣内にキツく締め付けられ、	Her tight pussy squeezed his entire cock,
+132727	+		少し動かすだけでそれだけでイッてしまいそうだった。	making him feel like he could cum from just a little movement.
 
-132728	Rance	「いてて、キツすぎてこっちまで痛くなってきた。	「Ouch, it's so tight it's starting to hurt me too.
-132729	+	　だが、アールコートちゃんの為だ、いっちょ頑張るか」	　But it's for Arlcoate-chan, so I'll do my best.」
+132728	Rance		「いてて、キツすぎてこっちまで痛くなってきた。	「Ouch, it's so tight it's starting to hurt me too.
+132729	+		　だが、アールコートちゃんの為だ、いっちょ頑張るか」	　But it's for Arlcoate-chan, so I'll do my best.」
 
-132730	-	ゆっくりと、ほぐすことのみを目的として	Slowly, with the sole purpose of loosening her,
-132731	+	ランスが根気強くアールコートの中で動き続ける。	Rance patiently continued moving inside Arlcoate.
+132730	-		ゆっくりと、ほぐすことのみを目的として	Slowly, with the sole purpose of loosening her,
+132731	+		ランスが根気強くアールコートの中で動き続ける。	Rance patiently continued moving inside Arlcoate.
 
-132732	-	　＜ちゅ、ぶちゅ……＞	　＜Chu, buchu...＞
+132732	-		　＜ちゅ、ぶちゅ……＞	　＜Chu, buchu...＞
 
-132733	-	魔物将軍の体内の液体か、それとも破瓜の血か、	Whether it was fluid from inside the Monster General or her virgin blood,
-132734	+	ランスが動く度に水気が空気と混ざり合う音だけが響く。	wet sounds mixed with the air every time he moved.
+132733	-		魔物将軍の体内の液体か、それとも破瓜の血か、	Whether it was fluid from inside the Monster General or her virgin blood,
+132734	+		ランスが動く度に水気が空気と混ざり合う音だけが響く。	wet sounds mixed with the air every time he moved.
 
-132735	-	痛みにも、ランスが目の前にいるという異常事態にも	As she gradually got used to the pain and the surreal situation of Rance being right there,
-132736	+	次第に慣れだすと、アールコートの頭は羞恥心に包まれだした。	Arlcoate's mind began to fill with embarrassment.
+132735	-		痛みにも、ランスが目の前にいるという異常事態にも	As she gradually got used to the pain and the surreal situation of Rance being right there,
+132736	+		次第に慣れだすと、アールコートの頭は羞恥心に包まれだした。	Arlcoate's mind began to fill with embarrassment.
 
-132737	Arlcoate Marius~	（うっ……はず、かしい……	（Uhh... So embarrassing...
-132738	+	　わたし、夢とは言え……お、おじさまと、こんな……）	　Even if it's a dream... doing this with Ojisama...）
+132737	Arlcoate Marius~		（うっ……はず、かしい……	（Uhh... So embarrassing...
+132738	+		　わたし、夢とは言え……お、おじさまと、こんな……）	　Even if it's a dream... doing this with Ojisama...）
 
-132739	Arlcoate Marius~	（私、もしかして……おじさまとずっと、こういうこと……	（Could it be that I've always wanted... to do this kind of thing with Ojisama...
-132740	+	　うっ、うう……は、はずかしい……）	　Uhh, uu... So embarrassing...）
+132739	Arlcoate Marius~		（私、もしかして……おじさまとずっと、こういうこと……	（Could it be that I've always wanted... to do this kind of thing with Ojisama...
+132740	+		　うっ、うう……は、はずかしい……）	　Uhh, uu... So embarrassing...）
 
-132741	-	　＜くちゅっ……ちゅ……＞	　＜Kuchu... Chu...＞
+132741	-		　＜くちゅっ……ちゅ……＞	　＜Kuchu... Chu...＞
 
-132742	-	音の中に粘り気が徐々に混じり出す。	The sounds gradually became more sticky.
+132742	-		音の中に粘り気が徐々に混じり出す。	The sounds gradually became more sticky.
 
-132743	Arlcoate Marius	「あっ……は、あ、っ……ああ……」	「Ah... Ha, a, ahh...」
+132743	Arlcoate Marius		「あっ……は、あ、っ……ああ……」	「Ah... Ha, a, ahh...」
 
-132744	-	今まで苦痛に満ちていたその声に、徐々に甘い音が混じりだす。	Sweet tones began mixing into her previously pain-filled voice.
+132744	-		今まで苦痛に満ちていたその声に、徐々に甘い音が混じりだす。	Sweet tones began mixing into her previously pain-filled voice.
 
-132745	Arlcoate Marius~	（あ、わ、わたし……声……声、出してる……	（A, wa, I'm... making sounds...
-132746	+	　やあっ……はず、かしい……）	　Yaa... So embarrassing...）
+132745	Arlcoate Marius~		（あ、わ、わたし……声……声、出してる……	（A, wa, I'm... making sounds...
+132746	+		　やあっ……はず、かしい……）	　Yaa... So embarrassing...）
 
-132747	-	憧れの人を前に、決して見せてはいけない痴態を晒している。	Exposing a lewd side she should never show to the man she admires.
-132748	+	たとえ『夢』でも、それがアールコートの心を追い詰める。	Even if it's a 'dream', it tormented Arlcoate's heart.
+132747	-		憧れの人を前に、決して見せてはいけない痴態を晒している。	Exposing a lewd side she should never show to the man she admires.
+132748	+		たとえ『夢』でも、それがアールコートの心を追い詰める。	Even if it's a 'dream', it tormented Arlcoate's heart.
 
-132749	-	両足を大きく開いて男性を迎え入れているポーズにすら、	Even the pose of spreading her legs wide to welcome a man
-132750	+	アールコートは顔を赤く染めた。	made Arlcoate's face burn red.
+132749	-		両足を大きく開いて男性を迎え入れているポーズにすら、	Even the pose of spreading her legs wide to welcome a man
+132750	+		アールコートは顔を赤く染めた。	made Arlcoate's face burn red.
 
-132751	Rance	「うむ、中の感触も変わってきた。	「Yes, the inside feels different now.
-132752	+	　そろそろ慣れてきたか、アールコートちゃん？」	　Are you getting used to it, Arlcoate-chan?」
+132751	Rance		「うむ、中の感触も変わってきた。	「Yes, the inside feels different now.
+132752	+		　そろそろ慣れてきたか、アールコートちゃん？」	　Are you getting used to it, Arlcoate-chan?」
 
-132753	Arlcoate Marius	「ま、まだ……痛い、痛い……痛い、です、けど……」	「N-Not yet... It still hurts... hurts... but...」
+132753	Arlcoate Marius		「ま、まだ……痛い、痛い……痛い、です、けど……」	「N-Not yet... It still hurts... hurts... but...」
 
-132754	Rance	「けど、なんだ？」	「But what?」
+132754	Rance		「けど、なんだ？」	「But what?」
 
-132755	Arlcoate Marius	「おじ様、の、することなら……わたし、耐えられ、ます……」	「If it's what Ojisama wants... I can endure it...」
+132755	Arlcoate Marius		「おじ様、の、することなら……わたし、耐えられ、ます……」	「If it's what Ojisama wants... I can endure it...」
 
-132756	-	健気なことを言いながら、アールコートは激痛に耐えていた。	Arlcoate endured the intense pain while saying something brave.
+132756	-		健気なことを言いながら、アールコートは激痛に耐えていた。	Arlcoate endured the intense pain while saying something brave.
 
-132757	Rance	「むむむ、よーし、それではそろそろ手加減なしで動くぞー！」	「Mumumu, alright, time to move without holding back!」
+132757	Rance		「むむむ、よーし、それではそろそろ手加減なしで動くぞー！」	「Mumumu, alright, time to move without holding back!」
 
-132758	Arlcoate Marius	「あ、ああっ……！」	「A, aah...!」
+132758	Arlcoate Marius		「あ、ああっ……！」	「A, aah...!」
 
-132759	Arlcoate Marius~	（あっ……おじ様、動き……はげしく、なって……！）	（Ah... Ojisama's movements... are getting rougher...!）
+132759	Arlcoate Marius~		（あっ……おじ様、動き……はげしく、なって……！）	（Ah... Ojisama's movements... are getting rougher...!）
 
-132760	-	ランスが好き勝手に膣内をかき混ぜる。	Rance stirred her pussy however he liked.
+132760	-		ランスが好き勝手に膣内をかき混ぜる。	Rance stirred her pussy however he liked.
 
-132761	-	抵抗できるだけの体力は残っていないのか本来なら	With no strength left to resist,
-132762	+	激痛で体をよじるところを、無抵抗のまま腰を揺さぶられ続ける。	she continued having her hips shaken without resistance instead of twisting away from the pain.
+132761	-		抵抗できるだけの体力は残っていないのか本来なら	With no strength left to resist,
+132762	+		激痛で体をよじるところを、無抵抗のまま腰を揺さぶられ続ける。	she continued having her hips shaken without resistance instead of twisting away from the pain.
 
-132763	-	膣内は依然ランスのを強く締め付けていた。	Her pussy still gripped him tightly.
-132764	+	しかし、膣壁は多少ほぐれ格段に動きやすくなっていた。	However, her vaginal walls had loosened somewhat, making movement much easier.
+132763	-		膣内は依然ランスのを強く締め付けていた。	Her pussy still gripped him tightly.
+132764	+		しかし、膣壁は多少ほぐれ格段に動きやすくなっていた。	However, her vaginal walls had loosened somewhat, making movement much easier.
 
-132765	Arlcoate Marius	「あ、あ、あ、あ……ッ！」	「A, a, a, ah...!」
+132765	Arlcoate Marius		「あ、あ、あ、あ……ッ！」	「A, a, a, ah...!」
 
-132766	-	体の中で最も敏感な部分を乱暴に擦られ、	Her most sensitive spots were roughly rubbed,
-132767	+	アールコートが断続的な声を上げる。	making Arlcoate let out intermittent cries.
+132766	-		体の中で最も敏感な部分を乱暴に擦られ、	Her most sensitive spots were roughly rubbed,
+132767	+		アールコートが断続的な声を上げる。	making Arlcoate let out intermittent cries.
 
-132768	Rance	「痛そうだな、大丈夫か？」	「Looks painful, you okay?」
+132768	Rance		「痛そうだな、大丈夫か？」	「Looks painful, you okay?」
 
-132769	Arlcoate Marius	「は、ひっ……い、いたい、けど……だいじょうぶ、で、す……」	「Ha, hii... It h-hurts, but... I'm fine...」
+132769	Arlcoate Marius		「は、ひっ……い、いたい、けど……だいじょうぶ、で、す……」	「Ha, hii... It h-hurts, but... I'm fine...」
 
-132770	Rance	「うむうむ、痛いのに一生懸命に耐えていてとっても可愛いぞ！」	「Yes yes, trying so hard to endure the pain makes you really cute!」
+132770	Rance		「うむうむ、痛いのに一生懸命に耐えていてとっても可愛いぞ！」	「Yes yes, trying so hard to endure the pain makes you really cute!」
 
-132771	Arlcoate Marius	「んあっ……お、おじ、さま……	「Nna... O-Ojisama...
-132772	+	　好き、だいすき、です……ああっ、おじさま……！」	　I like you, I love you... Aah, Ojisama...!」
+132771	Arlcoate Marius		「んあっ……お、おじ、さま……	「Nna... O-Ojisama...
+132772	+		　好き、だいすき、です……ああっ、おじさま……！」	　I like you, I love you... Aah, Ojisama...!」
 
-132773	-	腕に自分の腕を絡め、	She wrapped her arms around his,
-132774	+	アールコートが今まで秘めていた心の内を吐露する。	and poured out the feelings she had kept hidden.
+132773	-		腕に自分の腕を絡め、	She wrapped her arms around his,
+132774	+		アールコートが今まで秘めていた心の内を吐露する。	and poured out the feelings she had kept hidden.
 
-132775	Arlcoate Marius	「ひ、んっ……あ、あこがれてました……	「Hii, nn... I've admired you...
-132776	+	　ずっと、おじ様に感謝していて……おじ様に喜んで欲しくて……」	　I've always been grateful... and wanted to make you happy...」
+132775	Arlcoate Marius		「ひ、んっ……あ、あこがれてました……	「Hii, nn... I've admired you...
+132776	+		　ずっと、おじ様に感謝していて……おじ様に喜んで欲しくて……」	　I've always been grateful... and wanted to make you happy...」
 
-132777	Rance	「そうか、俺様はとっても気持ちいいぞ」	「I see, it feels really good for me too.」
+132777	Rance		「そうか、俺様はとっても気持ちいいぞ」	「I see, it feels really good for me too.」
 
-132778	Arlcoate Marius	「あっ……」	「Ah...」
+132778	Arlcoate Marius		「あっ……」	「Ah...」
 
-132779	Arlcoate Marius	「うれしい……」	「I'm happy...」
+132779	Arlcoate Marius		「うれしい……」	「I'm happy...」
 
-132780	-	ぽろりと、アールコートは言葉をこぼした。	Arlcoate let the words slip out.
+132780	-		ぽろりと、アールコートは言葉をこぼした。	Arlcoate let the words slip out.
 
-132781	Rance	「がはははははは、ではそろそろ一発いくかー！」	「Gahahahaha, time to cum!」
+132781	Rance		「がはははははは、ではそろそろ一発いくかー！」	「Gahahahaha, time to cum!」
 
-132782	Arlcoate Marius	「んああっ！　やあっ、あ、あ、あ、こんなっ……ああっ！」	「Nnaaah! Yaa, a, a, a, this is... Aah!」
+132782	Arlcoate Marius		「んああっ！　やあっ、あ、あ、あ、こんなっ……ああっ！」	「Nnaaah! Yaa, a, a, a, this is... Aah!」
 
-132783	-	ランスが荒々しくペニスを抽送させると、	As Rance roughly thrust his cock,
-132784	+	アールコートのささやかな胸が上下に揺れた。	Arlcoate's modest breasts bounced up and down.
+132783	-		ランスが荒々しくペニスを抽送させると、	As Rance roughly thrust his cock,
+132784	+		アールコートのささやかな胸が上下に揺れた。	Arlcoate's modest breasts bounced up and down.
 
-132785	Arlcoate Marius	「あ、あ、あ、お、おじ様……おじ様……！」	「A, a, a, O-Ojisama... Ojisama...!」
+132785	Arlcoate Marius		「あ、あ、あ、お、おじ様……おじ様……！」	「A, a, a, O-Ojisama... Ojisama...!」
 
-132786	-	痛みに涙を溢れさせ、喘ぎ声を上げて、	Tears overflowing from pain while moaning,
-132787	+	それでもアールコートはランスの腕に手を絡ませて耐える。	she still clung to Rance's arm and endured.
+132786	-		痛みに涙を溢れさせ、喘ぎ声を上げて、	Tears overflowing from pain while moaning,
+132787	+		それでもアールコートはランスの腕に手を絡ませて耐える。	she still clung to Rance's arm and endured.
 
-132788	Arlcoate Marius	「ひんっ、うああっ……あっ、ああっ……！」	「Hin, uaaah... Ah, aah...!」
+132788	Arlcoate Marius		「ひんっ、うああっ……あっ、ああっ……！」	「Hin, uaaah... Ah, aah...!」
 
-132789	-	ランスの突き上げには先程までの遠慮はなく、	Rance's thrusts no longer held back,
-132790	+	思い切りアールコートの中を壊すかのような荒々しさだった。	pounding her as if trying to break her inside.
+132789	-		ランスの突き上げには先程までの遠慮はなく、	Rance's thrusts no longer held back,
+132790	+		思い切りアールコートの中を壊すかのような荒々しさだった。	pounding her as if trying to break her inside.
 
-132791	-	徐々に下腹部、特に擦れ合っている性器に強い熱が灯り出す。	Gradually, a strong heat built in her lower belly, especially where their genitals rubbed.
+132791	-		徐々に下腹部、特に擦れ合っている性器に強い熱が灯り出す。	Gradually, a strong heat built in her lower belly, especially where their genitals rubbed.
 
-132792	Arlcoate Marius	「あ、ひっ……ひうっ……駄目、駄目、です……！	「A, hii... Hiu... No, no...!
-132793	+	　あっ、おじ様……あ、あ、熱い、です……ああっ……！」	　Ah, Ojisama... A, a, it's hot... Aah...!」
+132792	Arlcoate Marius		「あ、ひっ……ひうっ……駄目、駄目、です……！	「A, hii... Hiu... No, no...!
+132793	+		　あっ、おじ様……あ、あ、熱い、です……ああっ……！」	　Ah, Ojisama... A, a, it's hot... Aah...!」
 
-132794	Arlcoate Marius	「やあっ、あ、なに、か、来て……来てます……！	「Yaa, a, something's... coming... It's coming...!
-132795	+	　あ、お、おじ様……おじ様、あああっ……！」	　A, O-Ojisama... Ojisama, aaaah...!」
+132794	Arlcoate Marius		「やあっ、あ、なに、か、来て……来てます……！	「Yaa, a, something's... coming... It's coming...!
+132795	+		　あ、お、おじ様……おじ様、あああっ……！」	　A, O-Ojisama... Ojisama, aaaah...!」
 
-132796	-	アールコートの声は絶頂の寸前特有の甲高さになっていた。	Arlcoate's voice had risen to the high pitch right before climax.
+132796	-		アールコートの声は絶頂の寸前特有の甲高さになっていた。	Arlcoate's voice had risen to the high pitch right before climax.
 
-132797	Rance	「イクぞ！　合わせろよ！」	「I'm cumming! Cum with me!」
+132797	Rance		「イクぞ！　合わせろよ！」	「I'm cumming! Cum with me!」
 
-132798	-	ぎゅうと膣内が強くランスのペニスを締め付けた。	Her pussy squeezed his cock tightly.
+132798	-		ぎゅうと膣内が強くランスのペニスを締め付けた。	Her pussy squeezed his cock tightly.
 
-132799	Arlcoate Marius	「おじ様、おじ様、おじ様……ッ！	「Ojisama, Ojisama, Ojisama...!」
-132800	+	　やあああああっ！」	　Yaaaaaaaah!」
+132799	Arlcoate Marius		「おじ様、おじ様、おじ様……ッ！	「Ojisama, Ojisama, Ojisama...!」
+132800	+		　やあああああっ！」	　Yaaaaaaaah!」
 
-132801	Arlcoate Marius	「あっ、ああああっ……！」	「Aah, aaaaaah...!」
+132801	Arlcoate Marius		「あっ、ああああっ……！」	「Aah, aaaaaah...!」
 
-132802	-	ペニスが大きく震えて、アールコートの膣内に白濁液を吐き出す。	His cock shook violently as it pumped thick white cum deep into Arlcoate's pussy.
+132802	-		ペニスが大きく震えて、アールコートの膣内に白濁液を吐き出す。	His cock shook violently as it pumped thick white cum deep into Arlcoate's pussy.
 
-132803	Rance	「くーっ、出る出る！」	「Kuu, it's coming out!」
+132803	Rance		「くーっ、出る出る！」	「Kuu, it's coming out!」
 
-132804	Arlcoate Marius	「や、ふっ……と、止まっ……ああ、おじ様……！」	「Ya, fu... It won't stop... Aah, Ojisama...!」
+132804	Arlcoate Marius		「や、ふっ……と、止まっ……ああ、おじ様……！」	「Ya, fu... It won't stop... Aah, Ojisama...!」
 
-132805	-	膣内に精液を放出され、訳も分からずにアールコートが抵抗する。	Filled with cum inside, Arlcoate resisted without understanding why.
+132805	-		膣内に精液を放出され、訳も分からずにアールコートが抵抗する。	Filled with cum inside, Arlcoate resisted without understanding why.
 
-132806	Arlcoate Marius~	（あ、え……？　中、中に出されちゃ、いけない、ような……	（A, eh...? I think... you shouldn't cum inside...
-132807	+	　あ、あう……あ、でも止まらな……ああっ……）	　A, au... But it won't stop... Aah...）
+132806	Arlcoate Marius~		（あ、え……？　中、中に出されちゃ、いけない、ような……	（A, eh...? I think... you shouldn't cum inside...
+132807	+		　あ、あう……あ、でも止まらな……ああっ……）	　A, au... But it won't stop... Aah...）
 
-132808	Rance	「がははは、気持ち良かったなー、アールコートちゃん！」	「Gahaha, that felt great, Arlcoate-chan!」
+132808	Rance		「がははは、気持ち良かったなー、アールコートちゃん！」	「Gahaha, that felt great, Arlcoate-chan!」
 
-132809	Arlcoate Marius~	（あ、う……おじ様が、嬉しい、なら……	（A, u... If Ojisama is happy...
-132810	+	　それに、夢、だから……）	　And since it's a dream...）
+132809	Arlcoate Marius~		（あ、う……おじ様が、嬉しい、なら……	（A, u... If Ojisama is happy...
+132810	+		　それに、夢、だから……）	　And since it's a dream...）
 
-132811	Arlcoate Marius~	（夢の中って……それって……	（In a dream... that means...
-132812	+	　わたし、わたし……おじ様と、こんなことを……）	　I... did such things with Ojisama...）
+132811	Arlcoate Marius~		（夢の中って……それって……	（In a dream... that means...
+132812	+		　わたし、わたし……おじ様と、こんなことを……）	　I... did such things with Ojisama...）
 
-132813	-	自分の考えた恥ずかしすぎる夢に、	The incredibly embarrassing dream she thought she had
-132814	+	アールコートは顔を赤く染めた。	made Arlcoate's face burn red.
+132813	-		自分の考えた恥ずかしすぎる夢に、	The incredibly embarrassing dream she thought she had
+132814	+		アールコートは顔を赤く染めた。	made Arlcoate's face burn red.
 
-132815	-	…………	............
+132815	-		…………	............
 
-132816	-	……	...
+132816	-		……	...
 
-132817	Arlcoate Marius~	（ん、んー……）	（Nn, nn...）
+132817	Arlcoate Marius~	全裸	（ん、んー……）	（Nn, nn...）
 
-132818	Rance	「む、目を覚ましたか？」	「Mu, you're awake?」
+132818	Rance	基本	「む、目を覚ましたか？」	「Mu, you're awake?」
 
-132819	Arlcoate Marius	「は、はれ……？　おじ、さま……？」	「Ha, hare...? Ojisama...?」
+132819	Arlcoate Marius	全裸	「は、はれ……？　おじ、さま……？」	「Ha, hare...? Ojisama...?」
 
-132820	-	気絶していたアールコートの意識が	Arlcoate's consciousness, which had fainted,
-132821	+	次第に覚醒していく。	gradually awakened.
+132820	-		気絶していたアールコートの意識が	Arlcoate's consciousness, which had fainted,
+132821	+		次第に覚醒していく。	gradually awakened.
 
-132822	Arlcoate Marius	「おじ様が……どうして、ここに……	「Why is Ojisama... here...
-132823	+	　あれ、私、まだ夢を……」	　Wait, am I still dreaming...?」
+132822	Arlcoate Marius		「おじ様が……どうして、ここに……	「Why is Ojisama... here...
+132823	+		　あれ、私、まだ夢を……」	　Wait, am I still dreaming...?」
 
-132824	Rance	「ん？　夢？　何を言ってるんだ？」	「Hm? Dream? What are you talking about?」
+132824	Rance	だる顔	「ん？　夢？　何を言ってるんだ？」	「Hm? Dream? What are you talking about?」
 
-132825	Rance	「それより今シィルに服を用意させてるから	「Anyway, I asked Sill to prepare clothes for you
-132826	+	　ちょっと待ってろ。	　so wait a bit.
-132827	+	　そのままだと風邪引くからな」	　You'll catch a cold like that.」
+132825	Rance	基本	「それより今シィルに服を用意させてるから	「Anyway, I asked Sill to prepare clothes for you
+132826	+		　ちょっと待ってろ。	　so wait a bit.
+132827	+		　そのままだと風邪引くからな」	　You'll catch a cold like that.」
 
-132828	Arlcoate Marius	「ふく……？　かぜ……？」	「Clothes...? Cold...?」
+132828	Arlcoate Marius	全裸	「ふく……？　かぜ……？」	「Clothes...? Cold...?」
 
-132829	-	アールコートがチラリと自分の裸の格好を確認した。	Arlcoate glanced down at her own naked body.
+132829	-		アールコートがチラリと自分の裸の格好を確認した。	Arlcoate glanced down at her own naked body.
 
-132830	Arlcoate Marius	「……」	「......」
+132830	Arlcoate Marius		「……」	「......」
 
-132831	Arlcoate Marius	「きゃあああ！？	「Kyaaaa!?
-132832	+	　わ、私、どうして、こんな格好！？」	　W-Why am I naked like this!?」
+132831	Arlcoate Marius	全裸／テレビックリ	「きゃあああ！？	「Kyaaaa!?
+132832	+		　わ、私、どうして、こんな格好！？」	　W-Why am I naked like this!?」
 
-132833	-	自分の体を慌てて隠しながら、	She hurriedly tried to cover her body,
-132834	+	アールコートは頭が一気に覚醒した。	and her mind fully woke up.
+132833	-		自分の体を慌てて隠しながら、	She hurriedly tried to cover her body,
+132834	+		アールコートは頭が一気に覚醒した。	and her mind fully woke up.
 
-132835	Arlcoate Marius~	（あれ？　あれ？　なんで、どうして！？）	（Huh? Huh? Why, how!?）
+132835	Arlcoate Marius~	全裸	（あれ？　あれ？　なんで、どうして！？）	（Huh? Huh? Why, how!?）
 
-132836	Rance	「？　なんだ、何も覚えてないのか？	「? What, you don't remember anything?
-132837	+	　お前、魔物将軍に捕らえられていたんだろ」	　You were captured by the Monster General.」
+132836	Rance	基本	「？　なんだ、何も覚えてないのか？	「? What, you don't remember anything?
+132837	+		　お前、魔物将軍に捕らえられていたんだろ」	　You were captured by the Monster General.」
 
-132838	Arlcoate Marius	「まも、しょっ……！？」	「Captured...!?」
+132838	Arlcoate Marius	全裸	「まも、しょっ……！？」	「Captured...!?」
 
-132839	Arlcoate Marius~	（い、言われてみれば……そうだったような……）	（N-Now that you mention it... that did happen...）
+132839	Arlcoate Marius~		（い、言われてみれば……そうだったような……）	（N-Now that you mention it... that did happen...）
 
-132840	Arlcoate Marius~	（え、じゃあ……	（Eh, then...
-132841	+	　もしかして、今までの夢じゃなくて……）	　Maybe everything before wasn't a dream...?）
+132840	Arlcoate Marius~		（え、じゃあ……	（Eh, then...
+132841	+		　もしかして、今までの夢じゃなくて……）	　Maybe everything before wasn't a dream...?）
 
-132842	-	アールコートの頭の中がサーッと冷えていく。	Arlcoate's mind went ice cold.
+132842	-		アールコートの頭の中がサーッと冷えていく。	Arlcoate's mind went ice cold.
 
-132843	Arlcoate Marius~	（え、ええ……で、でも、えと、わたし……！	（E-Eh... B-But, um, I...!」
-132844	+	　あ、あれ？　どこから夢？　えっ？）	　W-Where did the dream start? Eh?）
+132843	Arlcoate Marius~		（え、ええ……で、でも、えと、わたし……！	（E-Eh... B-But, um, I...!」
+132844	+		　あ、あれ？　どこから夢？　えっ？）	　W-Where did the dream start? Eh?）
 
-132845	Arlcoate Marius~	（う、うう……おじ様に聞けば分かるけど……	（U, uu... I could ask Ojisama but...
-132846	+	　こ、こんなこととても聞けない……！）	　I can't possibly ask about something like this...!）
+132845	Arlcoate Marius~		（う、うう……おじ様に聞けば分かるけど……	（U, uu... I could ask Ojisama but...
+132846	+		　こ、こんなこととても聞けない……！）	　I can't possibly ask about something like this...!）
 
-132847	Rance	「しかし、アールコートちゃん、結構大胆だったな。	「But Arlcoate-chan, you were pretty bold.
-132848	+	　ぐふふ、ベッドの中ではそういうタイプか……」	　Gufufu, so you're that type in bed...」
+132847	Rance	エロ顔	「しかし、アールコートちゃん、結構大胆だったな。	「But Arlcoate-chan, you were pretty bold.
+132848	+		　ぐふふ、ベッドの中ではそういうタイプか……」	　Gufufu, so you're that type in bed...」
 
-132849	Arlcoate Marius	「え、へ、え……？」	「E, he, eh...?」
+132849	Arlcoate Marius	全裸	「え、へ、え……？」	「E, he, eh...?」
 
-132850	Rance	「へ？　ってエッチしてるときのことだ。	「He? During sex.
-132851	+	　自分から腕を絡めてきて、がははは」	　You wrapped your arms around me on your own, gahaha.」
+132850	Rance	笑顔	「へ？　ってエッチしてるときのことだ。	「He? During sex.
+132851	+		　自分から腕を絡めてきて、がははは」	　You wrapped your arms around me on your own, gahaha.」
 
-132852	Rance	「あ、いや、ごほんっ、	「Ah, no, ahem,
-132853	+	　エッチじゃなくて応急処置だがな」	　It was emergency treatment, not sex.」
+132852	Rance	基本	「あ、いや、ごほんっ、	「Ah, no, ahem,
+132853	+		　エッチじゃなくて応急処置だがな」	　It was emergency treatment, not sex.」
 
-132854	Arlcoate Marius	「あ、ああっ……」	「A, aah...」
+132854	Arlcoate Marius	全裸	「あ、ああっ……」	「A, aah...」
 
-132855	Arlcoate Marius~	（夢……じゃ、なかった……）	（It... wasn't a dream...）
+132855	Arlcoate Marius~		（夢……じゃ、なかった……）	（It... wasn't a dream...）
 
-132856	Arlcoate Marius	「あううう〜〜〜……」	「Auuuuu~~~...」
+132856	Arlcoate Marius		「あううう〜〜〜……」	「Auuuuu~~~...」
 
-132857	Rance	「おおっ、アールコートちゃん！？」	「Ooh, Arlcoate-chan!?」
+132857	Rance	驚き	「おおっ、アールコートちゃん！？」	「Ooh, Arlcoate-chan!?」
 
-132858	-	せっかく気絶から覚めた	Just after waking from fainting,
-132859	+	アールコートはまた気絶した。	Arlcoate fainted again.
+132858	-		せっかく気絶から覚めた	Just after waking from fainting,
+132859	+		アールコートはまた気絶した。	Arlcoate fainted again.
 
-132860	-	…………	............
+132860	-		…………	............
 
-132861	-	……	...
+132861	-		……	...

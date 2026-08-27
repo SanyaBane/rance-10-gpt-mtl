@@ -6,181 +6,181 @@
 * Lia Parapara Leazas	リア	Female
 * Maris Amaryllis	マリス	Female
 
-102032	Rance	「マリスがリアを裏切ってるかも知れんだとー！？」	「Maris might be betraying Lia!?」
+102032	Rance	怒り	「マリスがリアを裏切ってるかも知れんだとー！？」	「Maris might be betraying Lia!?」
 
-102033	Arlcoate Marius	「お、おじ様、声が……！」	「U-Uncle, your voice...!」
+102033	Arlcoate Marius	基本	「お、おじ様、声が……！」	「U-Uncle, your voice...!」
 
-102034	Cream Ganoblade	「まだ証拠があるわけではありません。	「We don't have solid evidence yet.
-102035	+	　くれぐれも言動には気をつけて下さい」	　Please be very careful with your words and actions.」
+102034	Cream Ganoblade		「まだ証拠があるわけではありません。	「We don't have solid evidence yet.
+102035	+		　くれぐれも言動には気をつけて下さい」	　Please be very careful with your words and actions.」
 
-102036	Rance	「……う、うむ」	「...Y-Yeah.」
+102036	Rance	だる顔	「……う、うむ」	「...Y-Yeah.」
 
-102037	Rance	「しかしにわかには信じられんぞ。	「But it's hard to believe right away.
-102038	+	　何があった？」	　What happened?」
+102037	Rance	真剣	「しかしにわかには信じられんぞ。	「But it's hard to believe right away.
+102038	+		　何があった？」	　What happened?」
 
-102039	Urza Pranaice	「ことの発見者はコパンドン様です」	「The one who discovered this was Lady Copandon.」
+102039	Urza Pranaice	基本	「ことの発見者はコパンドン様です」	「The one who discovered this was Lady Copandon.」
 
-102040	Urza Pranaice	「彼女は独自のソースでお金の流れを	「She tracks money flows through her own sources
-102041	+	　色々と把握されているそうですが……」	　and seems to have a good grasp on many things...」
+102040	Urza Pranaice		「彼女は独自のソースでお金の流れを	「She tracks money flows through her own sources
+102041	+		　色々と把握されているそうですが……」	　and seems to have a good grasp on many things...」
 
-102042	Urza Pranaice	「あるとき、リーザスから流れる	「One day she noticed a suspicious flow of money
-102043	+	　不審なお金の流れを見つけたと」	　coming out of Leazas.」
+102042	Urza Pranaice		「あるとき、リーザスから流れる	「One day she noticed a suspicious flow of money
+102043	+		　不審なお金の流れを見つけたと」	　coming out of Leazas.」
 
-102044	Arlcoate Marius	「それを辿っていくと隠し口座が見つかったと。	「Following it led to a hidden account.
-102045	+	　口座の持ち主は……その……」	　The owner of the account was... um...」
+102044	Arlcoate Marius	弱気	「それを辿っていくと隠し口座が見つかったと。	「Following it led to a hidden account.
+102045	+		　口座の持ち主は……その……」	　The owner of the account was... um...」
 
-102046	Rance	「マリスか」	「Maris.」
+102046	Rance	基本	「マリスか」	「Maris.」
 
-102047	Arlcoate Marius	「……はい。	「...Yes.
-102048	+	　こちらが証拠の書類です」	　Here are the documents as proof.」
+102047	Arlcoate Marius		「……はい。	「...Yes.
+102048	+		　こちらが証拠の書類です」	　Here are the documents as proof.」
 
-102049	Rance	「口座に二十万GOLDも貯め込んでやがる……	「She's stashed away two hundred thousand GOLD...
-102050	+	　これはなかなか……」	　That's quite something...」
+102049	Rance		「口座に二十万GOLDも貯め込んでやがる……	「She's stashed away two hundred thousand GOLD...
+102050	+		　これはなかなか……」	　That's quite something...」
 
-102051	Urza Pranaice	「不審に思いこちらでも調べてみますと、	「When we looked into it suspiciously,
-102052	+	　マリス殿の長距離うし車の	　we found records of Maris reserving long-distance cow carts
-102053	+	　予約履歴が見つかりました」	　for travel.」
+102051	Urza Pranaice		「不審に思いこちらでも調べてみますと、	「When we looked into it suspiciously,
+102052	+		　マリス殿の長距離うし車の	　we found records of Maris reserving long-distance cow carts
+102053	+		　予約履歴が見つかりました」	　for travel.」
 
-102054	Rance	「長距離うし車？　どこに行くんだ？」	「Long-distance cow cart? Where to?」
+102054	Rance		「長距離うし車？　どこに行くんだ？」	「Long-distance cow cart? Where to?」
 
-102055	Cream Ganoblade	「一ヶ月後に……	「In one month...
-102056	+	　行き先はJAPANだそうです」	　the destination is apparently Japan.」
+102055	Cream Ganoblade		「一ヶ月後に……	「In one month...
+102056	+		　行き先はJAPANだそうです」	　the destination is apparently Japan.」
 
-102057	Rance	「金持ってトンズラして、	「She's planning to take the money and run,
-102058	+	　国外逃亡しようってのか……」	　fleeing the country...」
+102057	Rance		「金持ってトンズラして、	「She's planning to take the money and run,
+102058	+		　国外逃亡しようってのか……」	　fleeing the country...」
 
-102059	-	重々しくクリームが頷く。	Cream nodded heavily.
+102059	-		重々しくクリームが頷く。	Cream nodded heavily.
 
-102060	Cream Ganoblade	「これはリーザス内部のゴタゴタです。	「This is an internal Leazas affair.
-102061	+	　本来なら口出しすべきことではないですが……」	　Normally we shouldn't interfere but...」
+102060	Cream Ganoblade		「これはリーザス内部のゴタゴタです。	「This is an internal Leazas affair.
+102061	+		　本来なら口出しすべきことではないですが……」	　Normally we shouldn't interfere but...」
 
-102062	Cream Ganoblade	「今は情勢が情勢ですからね……	「Given the current situation...
-102063	+	　全ての国が一蓮托生、これが原因で	　All countries are in the same boat.
-102064	+	　内部崩壊などされては困ります……」	　We can't afford an internal collapse over this...」
+102062	Cream Ganoblade		「今は情勢が情勢ですからね……	「Given the current situation...
+102063	+		　全ての国が一蓮托生、これが原因で	　All countries are in the same boat.
+102064	+		　内部崩壊などされては困ります……」	　We can't afford an internal collapse over this...」
 
-102065	Rance	「それで、さてどうしようとなってるわけだ」	「So, what are we going to do about it?」
+102065	Rance	真剣	「それで、さてどうしようとなってるわけだ」	「So, what are we going to do about it?」
 
-102066	Rance	「うーーーーーむ……」	「Hmmmm......」
+102066	Rance	だる顔	「うーーーーーむ……」	「Hmmmm......」
 
-102067	Rance	「あのマリスが裏切り、か……	「Maris of all people betraying us, huh...
-102068	+	　これは確かに大問題だな……」	　This is definitely a big problem...」
+102067	Rance		「あのマリスが裏切り、か……	「Maris of all people betraying us, huh...
+102068	+		　これは確かに大問題だな……」	　This is definitely a big problem...」
 
-102069	Lia Parapara Leazas	「ふーん、面白そうな話。	「Hmm, sounds interesting.
-102070	+	　リアにも聞かせて欲しいなー」	　Lia wants to hear it too~」
+102069	Lia Parapara Leazas	基本	「ふーん、面白そうな話。	「Hmm, sounds interesting.
+102070	+		　リアにも聞かせて欲しいなー」	　Lia wants to hear it too~」
 
-102071	Rance	「うおっ、リア！	「Whoa, Lia!
-102072	+	　それにマリスも！」	　And Maris too!」
+102071	Rance		「うおっ、リア！	「Whoa, Lia!
+102072	+		　それにマリスも！」	　And Maris too!」
 
-102073	Maris Amaryllis	「少し拝見させて頂きます」	「Allow me to take a look.」
+102073	Maris Amaryllis		「少し拝見させて頂きます」	「Allow me to take a look.」
 
-102074	-	アールコートから受け取った書類を	Lia and Maris quickly scanned
-102075	+	リアとマリスが数秒で流し見していく。	the documents handed over by Arlcoate.
+102074	-		アールコートから受け取った書類を	Lia and Maris quickly scanned
+102075	+		リアとマリスが数秒で流し見していく。	the documents handed over by Arlcoate.
 
-102076	Lia Parapara Leazas	「……なるほどねぇ」	「...I see.」
+102076	Lia Parapara Leazas	真剣	「……なるほどねぇ」	「...I see.」
 
-102077	Lia Parapara Leazas	「マリス」	「Maris」
+102077	Lia Parapara Leazas	目閉じ	「マリス」	「Maris」
 
-102078	Maris Amaryllis	「おそらく、私の失脚を目論んだ、	「This is most likely a plot by domestic opposition
-102079	+	　国内の反対勢力の偽装工作ですね」	　aimed at my downfall, disguised as evidence.」
+102078	Maris Amaryllis	基本	「おそらく、私の失脚を目論んだ、	「This is most likely a plot by domestic opposition
+102079	+		　国内の反対勢力の偽装工作ですね」	　aimed at my downfall, disguised as evidence.」
 
-102080	Maris Amaryllis	「証拠はまだありませんが……	「We don't have proof yet but...
-102081	+	　こういうことをしそうなのはグレー貴族ですかね」	　The Gray nobles seem the type to do this.」
+102080	Maris Amaryllis		「証拠はまだありませんが……	「We don't have proof yet but...
+102081	+		　こういうことをしそうなのはグレー貴族ですかね」	　The Gray nobles seem the type to do this.」
 
-102082	Lia Parapara Leazas	「すぐに調べておいて」	「Look into it right away.」
+102082	Lia Parapara Leazas		「すぐに調べておいて」	「Look into it right away.」
 
-102083	Maris Amaryllis	「数日以内に確たる証拠が見つかるかと」	「We should have solid evidence within a few days.」
+102083	Maris Amaryllis		「数日以内に確たる証拠が見つかるかと」	「We should have solid evidence within a few days.」
 
-102084	Lia Parapara Leazas	「そしたらリアに言ってね。	「Then tell Lia.
-102085	+	　リア自らグレー貴族と話するから」	　Lia will talk to the Gray nobles herself.」
+102084	Lia Parapara Leazas		「そしたらリアに言ってね。	「Then tell Lia.
+102085	+		　リア自らグレー貴族と話するから」	　Lia will talk to the Gray nobles herself.」
 
-102086	Maris Amaryllis	「かしこまりました」	「Understood.」
+102086	Maris Amaryllis		「かしこまりました」	「Understood.」
 
-102087	Lia Parapara Leazas	「というわけで、はい解決。	「And that's it, problem solved.
-102088	+	　これは身内のゴタゴタだから気にしないで」	　It's just family trouble so don't worry about it.」
+102087	Lia Parapara Leazas		「というわけで、はい解決。	「And that's it, problem solved.
+102088	+		　これは身内のゴタゴタだから気にしないで」	　It's just family trouble so don't worry about it.」
 
-102089	Rance	「お、おいおい。	「H-Hey hey.
-102090	+	　証拠はないんだろう？	　There's no evidence right?
-102091	+	　マリスを信じていいのか？」	　Is it okay to trust Maris?」
+102089	Rance	だる顔	「お、おいおい。	「H-Hey hey.
+102090	+		　証拠はないんだろう？	　There's no evidence right?
+102091	+		　マリスを信じていいのか？」	　Is it okay to trust Maris?」
 
-102092	Lia Parapara Leazas	「ふふふ、だーって……」	「Fufufu, well you see......
+102092	Lia Parapara Leazas	基本	「ふふふ、だーって……」	「Fufufu, well you see......
 
-102093	Maris Amaryllis	「隠し口座ですか……	「A hidden account...
-102094	+	　やり方があまりにお粗末ですね……」	　The method is far too sloppy...」
+102093	Maris Amaryllis		「隠し口座ですか……	「A hidden account...
+102094	+		　やり方があまりにお粗末ですね……」	　The method is far too sloppy...」
 
-102095	-	ニマニマと笑っていたリアが、	Lia, who had been grinning,
-102096	+	ついに噴き出した。	finally burst out laughing.
+102095	-		ニマニマと笑っていたリアが、	Lia, who had been grinning,
+102096	+		ついに噴き出した。	finally burst out laughing.
 
-102097	Lia Parapara Leazas	「あははははっ、	「Ahahaha,
-102098	+	　マリスがリアを裏切るわけないのにねー」	　there's no way Maris would ever betray Lia~」
+102097	Lia Parapara Leazas	笑顔	「あははははっ、	「Ahahaha,
+102098	+		　マリスがリアを裏切るわけないのにねー」	　there's no way Maris would ever betray Lia~」
 
-102099	-	呑気な二人に、皆がポカーンとしていた。	Everyone stared blankly at the carefree pair.
+102099	-		呑気な二人に、皆がポカーンとしていた。	Everyone stared blankly at the carefree pair.
 
-102100	Lia Parapara Leazas	「それにしても……	「Even so...
-102101	+	　二十万GOLD、かあ……」	　two hundred thousand GOLD, huh...
+102100	Lia Parapara Leazas	基本	「それにしても……	「Even so...
+102101	+		　二十万GOLD、かあ……」	　two hundred thousand GOLD, huh...
 
-102102	Lia Parapara Leazas	「くすくす、ねえマリス、	「Hehe, hey Maris,
-102103	+	　これはちょっと……ねえ……？」	　this is a bit... right...?」
+102102	Lia Parapara Leazas		「くすくす、ねえマリス、	「Hehe, hey Maris,
+102103	+		　これはちょっと……ねえ……？」	　this is a bit... right...?」
 
-102104	Maris Amaryllis	「少しショックですね。	「It's a little shocking.
-102105	+	　手前味噌ですが、私が同じことをするなら、	　Not to brag, but if I were to do the same thing,
-102106	+	　桁がもう一つは欲しいところです」	　I'd want at least one more digit.」
+102104	Maris Amaryllis		「少しショックですね。	「It's a little shocking.
+102105	+		　手前味噌ですが、私が同じことをするなら、	　Not to brag, but if I were to do the same thing,
+102106	+		　桁がもう一つは欲しいところです」	　I'd want at least one more digit.」
 
-102107	Maris Amaryllis	「やろうと思っても、それだけしか	「Even if I tried, that was probably
-102108	+	　動かせるお金がなかったのでしょうが……」	　all the money I could move...」
+102107	Maris Amaryllis		「やろうと思っても、それだけしか	「Even if I tried, that was probably
+102108	+		　動かせるお金がなかったのでしょうが……」	　all the money I could move...」
 
-102109	Lia Parapara Leazas	「…………」	「............」
+102109	Lia Parapara Leazas	拗ね	「…………」	「............」
 
-102110	Maris Amaryllis	「リア様？」	「Lady Lia?」
+102110	Maris Amaryllis	基本	「リア様？」	「Lady Lia?」
 
-102111	Lia Parapara Leazas	「ねえ、マリス？	「Hey, Maris?
-102112	+	　本当に同じことしようと思ったら、	　If you really wanted to do the same thing,
-102113	+	　リアが許すわ、桁もう三つは上乗せなさい」	　Lia would allow it. Add three more digits.」
+102111	Lia Parapara Leazas		「ねえ、マリス？	「Hey, Maris?
+102112	+		　本当に同じことしようと思ったら、	　If you really wanted to do the same thing,
+102113	+		　リアが許すわ、桁もう三つは上乗せなさい」	　Lia would allow it. Add three more digits.」
 
-102114	Lia Parapara Leazas	「マリスの退職金と考えたら、それでも安いもんね」	「Even then it'd be cheap as a retirement bonus for Maris.」
+102114	Lia Parapara Leazas		「マリスの退職金と考えたら、それでも安いもんね」	「Even then it'd be cheap as a retirement bonus for Maris.」
 
-102115	Maris Amaryllis	「くすっ……	「Hehe...
-102116	+	　はい、覚えておきます」	　Yes, I'll remember that.」
+102115	Maris Amaryllis		「くすっ……	「Hehe...
+102116	+		　はい、覚えておきます」	　Yes, I'll remember that.」
 
-102117	Lia Parapara Leazas	「あ、でも本当にしようとしても意味ないわよ。	「Ah, but even if you tried it wouldn't work.
-102118	+	　お金はまだいいけど逃げるのが駄目」	　Money is one thing, but running away is not allowed.」
+102117	Lia Parapara Leazas		「あ、でも本当にしようとしても意味ないわよ。	「Ah, but even if you tried it wouldn't work.
+102118	+		　お金はまだいいけど逃げるのが駄目」	　Money is one thing, but running away is not allowed.」
 
-102119	Lia Parapara Leazas	「世界の隅っこの石の裏まで捜して、	「I'll search every corner of the world,
-102120	+	　絶対にマリスを連れ戻すから」	　even under every stone, and drag Maris back.」
+102119	Lia Parapara Leazas		「世界の隅っこの石の裏まで捜して、	「I'll search every corner of the world,
+102120	+		　絶対にマリスを連れ戻すから」	　even under every stone, and drag Maris back.」
 
-102121	Maris Amaryllis	「……しかし連れ戻してどうなさいます？」	「...But what would you do after bringing me back?」
+102121	Maris Amaryllis		「……しかし連れ戻してどうなさいます？」	「...But what would you do after bringing me back?」
 
-102122	Lia Parapara Leazas	「説得してまた侍女に戻ってもらうわ」	「Convince you to return as my maid.
+102122	Lia Parapara Leazas		「説得してまた侍女に戻ってもらうわ」	「Convince you to return as my maid.
 
-102123	Lia Parapara Leazas	「拷問、薬漬け、孕ませて子を人質にとか、	　Torture, drugging you, getting you pregnant and using the child as hostage,
-102124	+	　使える手はなーんでも使って、	　I'll use every single method available
-102125	+	　ちゃんと心変わりさせてあげる」	　to make you change your mind properly.」
+102123	Lia Parapara Leazas		「拷問、薬漬け、孕ませて子を人質にとか、	　Torture, drugging you, getting you pregnant and using the child as hostage,
+102124	+		　使える手はなーんでも使って、	　I'll use every single method available
+102125	+		　ちゃんと心変わりさせてあげる」	　to make you change your mind properly.」
 
-102126	Lia Parapara Leazas	「だから……」	「So......」
+102126	Lia Parapara Leazas		「だから……」	「So......」
 
-102127	-	リアがマリスを見上げてニコッと笑う。	Lia looked up at Maris and smiled sweetly.
+102127	-		リアがマリスを見上げてニコッと笑う。	Lia looked up at Maris and smiled sweetly.
 
-102128	Lia Parapara Leazas	「リアから離れようなんて思っちゃ駄目よ？」	「You mustn't think about leaving Lia, okay?」
+102128	Lia Parapara Leazas	笑顔	「リアから離れようなんて思っちゃ駄目よ？」	「You mustn't think about leaving Lia, okay?」
 
-102129	-	心の底から……	From the bottom of her heart...
-102130	+	本当に嬉しそうにマリスも笑う。	Maris smiled back with genuine joy.
+102129	-		心の底から……	From the bottom of her heart...
+102130	+		本当に嬉しそうにマリスも笑う。	Maris smiled back with genuine joy.
 
-102131	Maris Amaryllis	「はい、私の全てはリア様の為に」	「Yes, everything I am is for Lady Lia.」
+102131	Maris Amaryllis	目閉じ	「はい、私の全てはリア様の為に」	「Yes, everything I am is for Lady Lia.」
 
-102132	Lia Parapara Leazas	「当然でしょ。	「Of course.
-102133	+	　マリスはリアのものなんだから」	　Maris belongs to Lia after all.」
+102132	Lia Parapara Leazas	基本	「当然でしょ。	「Of course.
+102133	+		　マリスはリアのものなんだから」	　Maris belongs to Lia after all.」
 
-102134	Maris Amaryllis	「はい」	「Yes.」
+102134	Maris Amaryllis		「はい」	「Yes.」
 
-102135	Rance	「…………」	「............」
+102135	Rance	真剣	「…………」	「............」
 
-102136	Rance~	（なんか……歪んだ会話だったな……）	（That was some... twisted conversation...）
+102136	Rance~	だる顔	（なんか……歪んだ会話だったな……）	（That was some... twisted conversation...）
 
-102137	Cream Ganoblade~	（共依存ってこんな風になるのね……）	（So this is what codependency looks like...）
+102137	Cream Ganoblade~	基本	（共依存ってこんな風になるのね……）	（So this is what codependency looks like...）
 
-102138	-	その日、城内で、	That day inside the castle,
-102139	+	何故かマリスの機嫌がとても良いと	for some reason word spread that Maris was in an extremely good mood
-102140	+	少しだけ噂になった。	and it became a small rumor.
+102138	-		その日、城内で、	That day inside the castle,
+102139	+		何故かマリスの機嫌がとても良いと	for some reason word spread that Maris was in an extremely good mood
+102140	+		少しだけ噂になった。	and it became a small rumor.
 
-102141	-	数日後……	A few days later...
-102142	+	マリスの言葉通り、今回の一件が	Just as Maris said, the incident turned out to be
-102143	+	リーザス貴族の偽装工作だと判明した。	a disguised plot by Leazas nobles.
+102141	-		数日後……	A few days later...
+102142	+		マリスの言葉通り、今回の一件が	Just as Maris said, the incident turned out to be
+102143	+		リーザス貴族の偽装工作だと判明した。	a disguised plot by Leazas nobles.

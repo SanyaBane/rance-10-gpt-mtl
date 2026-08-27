@@ -3,76 +3,76 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-15444	Copandon Dott	「ああ、もしもし……ああ、はいな。	「Hello...... Yes.
-15445	+	　え……？　ちょい、ほんまでっか？」	　Eh...? Wait, seriously?」
+15444	Copandon Dott	基本	「ああ、もしもし……ああ、はいな。	「Hello...... Yes.
+15445	+		　え……？　ちょい、ほんまでっか？」	　Eh...? Wait, seriously?」
 
-15446	Copandon Dott	「ええ、ええ……しゃあないですわ。	「Yeah, yeah...... Can't be helped.
-15447	+	　はい……」	　Yes......」
+15446	Copandon Dott	ジト目	「ええ、ええ……しゃあないですわ。	「Yeah, yeah...... Can't be helped.
+15447	+		　はい……」	　Yes......」
 
-15448	Copandon Dott	「…………はあ」	「............Haa」
+15448	Copandon Dott	ため息	「…………はあ」	「............Haa」
 
-15449	-	魔法電話の通信を切ると同時に、	The moment she hung up the magic phone,
-15450	+	少し重く、コパンドンがため息をこぼした。	Copandon let out a heavy sigh.
+15449	-		魔法電話の通信を切ると同時に、	The moment she hung up the magic phone,
+15450	+		少し重く、コパンドンがため息をこぼした。	Copandon let out a heavy sigh.
 
-15451	Rance	「なんだ、なんか嫌そうな電話だったな」	「What was that? Sounded like bad news.」
+15451	Rance	基本	「なんだ、なんか嫌そうな電話だったな」	「What was that? Sounded like bad news.」
 
-15452	Copandon Dott	「あちこちで、物価が暴騰してんねん。	「Prices are skyrocketing everywhere.
-15453	+	　三大国は、まだ抑えてくれてんねんけど……」	　The three great nations are still keeping it under control but......」
+15452	Copandon Dott	ジト目	「あちこちで、物価が暴騰してんねん。	「Prices are skyrocketing everywhere.
+15453	+		　三大国は、まだ抑えてくれてんねんけど……」	　The three great nations are still keeping it under control but......」
 
-15454	Rance	「物価って、物の値段か」	「Prices meaning the cost of goods?」
+15454	Rance	真剣	「物価って、物の値段か」	「Prices meaning the cost of goods?」
 
-15455	Copandon Dott	「そ。物が少なくなるやろ？	「Yeah. Goods are getting scarce, right?
-15456	+	　そうすると値段が上がってくやん。	　That makes prices go up.
-15457	+	　それに歯止めが効かないんよ」	　And there's no stopping it.」
+15455	Copandon Dott	基本	「そ。物が少なくなるやろ？	「Yeah. Goods are getting scarce, right?
+15456	+		　そうすると値段が上がってくやん。	　That makes prices go up.
+15457	+		　それに歯止めが効かないんよ」	　And there's no stopping it.」
 
-15458	Copandon Dott	「そうなると、今度は金を作りまくる。	「Then people start printing tons of money.
-15459	+	　そしたら、金の価値なんか無くなるわ」	　Then the value of money collapses.」
+15458	Copandon Dott	ため息	「そうなると、今度は金を作りまくる。	「Then people start printing tons of money.
+15459	+		　そしたら、金の価値なんか無くなるわ」	　Then the value of money collapses.」
 
-15460	Sill Plain	「あの……お金作ってるのって、	「Um...... The ones making the money are
-15461	+	　確かハニーさんたちですよね？」	　the Hanny, right?」
+15460	Sill Plain	考え中	「あの……お金作ってるのって、	「Um...... The ones making the money are
+15461	+		　確かハニーさんたちですよね？」	　the Hanny, right?」
 
-15462	Copandon Dott	「せや。造幣局のハニワどもを	「Yep. We threaten or bribe
-15463	+	　こっそり脅迫したり抱き込んだり、	　the Haniwa at the mint
-15464	+	　そうやって量産させるんよ」	　to mass produce it.」
+15462	Copandon Dott	基本	「せや。造幣局のハニワどもを	「Yep. We threaten or bribe
+15463	+		　こっそり脅迫したり抱き込んだり、	　the Haniwa at the mint
+15464	+		　そうやって量産させるんよ」	　to mass produce it.」
 
-15465	Sill Plain	「う、うわ……」	「U-uwah......」
+15465	Sill Plain	苦笑	「う、うわ……」	「U-uwah......」
 
-15466	Rance	「お前大金持ちだろ。どーすんだ」	「You're super rich. What will you do?」
+15466	Rance	真剣	「お前大金持ちだろ。どーすんだ」	「You're super rich. What will you do?」
 
-15467	Copandon Dott	「せや。一介の冒険者から、ずんどこ金を稼いで……	「Yeah. I worked my way up from a regular adventurer making a fortune......
-15468	+	　せっかく世界経済を握るとこまで来たんになぁ」	　I was so close to controlling the world economy.」
+15467	Copandon Dott	ジト目	「せや。一介の冒険者から、ずんどこ金を稼いで……	「Yeah. I worked my way up from a regular adventurer making a fortune......
+15468	+		　せっかく世界経済を握るとこまで来たんになぁ」	　I was so close to controlling the world economy.」
 
-15469	-	かくんと、コパンドンの首が落ちた。	Copandon's head drooped.
+15469	-		かくんと、コパンドンの首が落ちた。	Copandon's head drooped.
 
-15470	Rance	「……フリダシだったりするのか？」	「......Back to square one?」
+15470	Rance	だる顔	「……フリダシだったりするのか？」	「......Back to square one?」
 
-15471	Copandon Dott	「…………………ふふ」	「............Hehe」
+15471	Copandon Dott	笑い	「…………………ふふ」	「............Hehe」
 
-15472	Copandon Dott	「そーーーんなわけあるかーい！	「No way in hell!
-15473	+	　これはチャンスやで！」	　This is a huge chance!」
+15472	Copandon Dott	強気	「そーーーんなわけあるかーい！	「No way in hell!
+15473	+		　これはチャンスやで！」	　This is a huge chance!」
 
-15474	Rance	「へ？」	「Eh?」
+15474	Rance	驚き	「へ？」	「Eh?」
 
-15475	Copandon Dott	「まず、物価が跳ね上がってるトコに、	「First, I'll send massive amounts of supplies
-15476	+	　もう救援の名目で大量の物資を送りつけたる」	　to places where prices are skyrocketing, under the name of aid.」
+15475	Copandon Dott	怒り	「まず、物価が跳ね上がってるトコに、	「First, I'll send massive amounts of supplies
+15476	+		　もう救援の名目で大量の物資を送りつけたる」	　to places where prices are skyrocketing, under the name of aid.」
 
-15477	Rance	「金取らないのか？」	「Without charging?」
+15477	Rance	基本	「金取らないのか？」	「Without charging?」
 
-15478	Copandon Dott	「安うするくらいならタダでくれたるねん。	「I'll give it for free rather than cheap.
-15479	+	　タダなら金や物の価値は変わらへん。	　Free means the value of money and goods stays the same.
-15480	+	　別のモンで取り立ててもええしな」	　I can collect payment in other ways later.」
+15478	Copandon Dott	強気	「安うするくらいならタダでくれたるねん。	「I'll give it for free rather than cheap.
+15479	+		　タダなら金や物の価値は変わらへん。	　Free means the value of money and goods stays the same.
+15480	+		　別のモンで取り立ててもええしな」	　I can collect payment in other ways later.」
 
-15481	Copandon Dott	「戦争が終わったら、すぐに金が必要になる。	「After the war ends, everyone will need money immediately.
-15482	+	　それまではモノを確保して、	　Until then, I'll secure goods
-15483	+	　戦後はそれに値段つけるんや」	　and set the price after the war.」
+15481	Copandon Dott		「戦争が終わったら、すぐに金が必要になる。	「After the war ends, everyone will need money immediately.
+15482	+		　それまではモノを確保して、	　Until then, I'll secure goods
+15483	+		　戦後はそれに値段つけるんや」	　and set the price after the war.」
 
-15484	Copandon Dott	「その時の値段はこっちの言い値や。	「I'll set whatever price I want then.
-15485	+	　ガッツーンと儲かるで！」	　We'll make a killing!」
+15484	Copandon Dott	笑い	「その時の値段はこっちの言い値や。	「I'll set whatever price I want then.
+15485	+		　ガッツーンと儲かるで！」	　We'll make a killing!」
 
-15486	Copandon Dott	「とりあえず、造幣局のハニー連中締め上げて、	「First, I need to clamp down on the Hanny at the mint
-15487	+	　余計な事せんよう見ておかんとな」	　so they don't do anything stupid.」
+15486	Copandon Dott	怒り	「とりあえず、造幣局のハニー連中締め上げて、	「First, I need to clamp down on the Hanny at the mint
+15487	+		　余計な事せんよう見ておかんとな」	　so they don't do anything stupid.」
 
-15488	Rance	「なんか……たくましいな、お前……」	「You're pretty tough......」
+15488	Rance	だる顔	「なんか……たくましいな、お前……」	「You're pretty tough......」
 
-15489	Copandon Dott	「ポルトガルの女は、しぶといでぇ！	「Women from Portugal are tenacious!
-15490	+	　あっはっはっはっは！」	　Ah hahaha!」
+15489	Copandon Dott	強気	「ポルトガルの女は、しぶといでぇ！	「Women from Portugal are tenacious!
+15490	+		　あっはっはっはっは！」	　Ah hahaha!」

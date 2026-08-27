@@ -8,125 +8,125 @@
 * Kentou Kanami	かなみ	Female
 * Caesar	シーザー	Male
 
-162237	Rance	「おー、全員揃っているなー」	「Oh, everyone's gathered.」
+162237	Rance	基本	「おー、全員揃っているなー」	「Oh, everyone's gathered.」
 
-162238	-	ランスがリーザス正門前に行くと、	When Rance arrived at the front gate of Leazas,
-162239	+	既にランスの部隊が全員揃っていた。	his entire unit was already assembled.
+162238	-		ランスがリーザス正門前に行くと、	When Rance arrived at the front gate of Leazas,
+162239	+		既にランスの部隊が全員揃っていた。	his entire unit was already assembled.
 
-162240	Pastel Kalar	「遅いわ、馬鹿者！」	「You're late, idiot!」
+162240	Pastel Kalar		「遅いわ、馬鹿者！」	「You're late, idiot!」
 
-162241	Bezeleye	「まったく、どこで何してきたんだか」	「Seriously, what were you doing?」
+162241	Bezeleye		「まったく、どこで何してきたんだか」	「Seriously, what were you doing?」
 
-162242	Rance	「がははは、モテる男には色々とあるのだ！」	「Gahahaha, a popular man has many things to do!」
+162242	Rance	笑顔	「がははは、モテる男には色々とあるのだ！」	「Gahahaha, a popular man has many things to do!」
 
-162243	Haurein Province	「…………」	「............」
+162243	Haurein Province	基本	「…………」	「............」
 
-162244	-	既に部隊と合流していたハウレーンは	Haurein, who had already joined the unit,
-162245	+	無言でランスを睨んでいた。	silently glared at Rance.
+162244	-		既に部隊と合流していたハウレーンは	Haurein, who had already joined the unit,
+162245	+		無言でランスを睨んでいた。	silently glared at Rance.
 
-162246	Sill Plain	「あのー、それでランス様……	「Um, Rance-sama...
-162247	+	　今のところ魔人は二人いるそうですが、	　There are two Fiends at the moment,
-162248	+	　どちらの魔人のところに行きますか？」	　which one's place shall we go to?」
+162246	Sill Plain	考え中	「あのー、それでランス様……	「Um, Rance-sama...
+162247	+		　今のところ魔人は二人いるそうですが、	　There are two Fiends at the moment,
+162248	+		　どちらの魔人のところに行きますか？」	　which one's place shall we go to?」
 
-162249	Rance	「えーと、バレス達のいる南部方面に	「Let's see, Silky is in the southern area where Barres and the others are.」
-162250	+	　魔人シルキィがいるのだったな」	
+162249	Rance	基本	「えーと、バレス達のいる南部方面に	「Let's see, Silky is in the southern area where Barres and the others are.」
+162250	+		　魔人シルキィがいるのだったな」	
 
-162251	Rance	「で、リック達のいる北部には、	「And in the northern area where Rick and the others are,
-162252	+	　魔人ハウゼルがいる、と……」	　is Fiend Hawzel...」
+162251	Rance		「で、リック達のいる北部には、	「And in the northern area where Rick and the others are,
+162252	+		　魔人ハウゼルがいる、と……」	　is Fiend Hawzel...」
 
-162253	Rance	「くくく、さーてどっちから行くかな」	「Kukuku, now which one should we go for first?」
+162253	Rance		「くくく、さーてどっちから行くかな」	「Kukuku, now which one should we go for first?」
 
-162254	Satella	「あ、あの……」	「U-Um...」
+162254	Satella	不安	「あ、あの……」	「U-Um...」
 
-162255	Rance	「ん？　どうしたサテラ。	「Hm? What's wrong, Satella.
-162256	+	　そんな悲しそうな顔をして」	　Why the sad face?」
+162255	Rance	基本	「ん？　どうしたサテラ。	「Hm? What's wrong, Satella.
+162256	+		　そんな悲しそうな顔をして」	　Why the sad face?」
 
-162257	Satella	「…………お願いが、ある」	「............I have a request.」
+162257	Satella	不安	「…………お願いが、ある」	「............I have a request.」
 
-162258	Satella	「シルキィとハウゼルのことだ」	「It's about Silky and Hawzel.」
+162258	Satella		「シルキィとハウゼルのことだ」	「It's about Silky and Hawzel.」
 
-162259	Rance	「お、知り合いか？」	「Oh, you know them?」
+162259	Rance	基本	「お、知り合いか？」	「Oh, you know them?」
 
-162260	Satella	「知り合いなんてもんじゃない……	「They're more than just acquaintances...
-162261	+	　二人とも……大事な仲間だ」	　Both of them... are precious comrades.」
+162260	Satella	思考	「知り合いなんてもんじゃない……	「They're more than just acquaintances...
+162261	+		　二人とも……大事な仲間だ」	　Both of them... are precious comrades.」
 
-162262	Satella	「二人ともケイブリス派ではない。	「Neither belongs to the Kayblis faction.
-162263	+	　それなのに人間を襲うなんて……」	　Yet they're attacking humans...」
+162262	Satella		「二人ともケイブリス派ではない。	「Neither belongs to the Kayblis faction.
+162263	+		　それなのに人間を襲うなんて……」	　Yet they're attacking humans...」
 
-162264	Satella	「きっと何か事情があるんだ。	「There must be some reason.
-162265	+	　例えば弱みを握られている、とか……」	　Like they're being blackmailed...」
+162264	Satella	不安	「きっと何か事情があるんだ。	「There must be some reason.
+162265	+		　例えば弱みを握られている、とか……」	　Like they're being blackmailed...」
 
-162266	Rance	「ふむ、なるほどな……」	「Hmm, I see...」
+162266	Rance	基本	「ふむ、なるほどな……」	「Hmm, I see...」
 
-162267	Satella	「お願いだ、ランス……	「Please, Rance...
-162268	+	　二人を解放してあげて」	　Save them.」
+162267	Satella	不安	「お願いだ、ランス……	「Please, Rance...
+162268	+		　二人を解放してあげて」	　Save them.」
 
-162269	Satella	「こ……この通りだ……」	「I-I'm begging you...」
+162269	Satella	思考	「こ……この通りだ……」	「I-I'm begging you...」
 
-162270	Rance	「……お？」	「...Oh?」
+162270	Rance	基本	「……お？」	「...Oh?」
 
-162271	-	魔人としてプライドの高いサテラが、	The proud Fiend Satella
-162272	+	ランスに対し頭を下げた。	lowered her head to Rance.
+162271	-		魔人としてプライドの高いサテラが、	The proud Fiend Satella
+162272	+		ランスに対し頭を下げた。	lowered her head to Rance.
 
-162273	Satella	「悔しいけど……	「It's frustrating but...
-162274	+	　サテラだけじゃ、きっと力が及ばない……」	　I alone probably can't do it...」
+162273	Satella	不安	「悔しいけど……	「It's frustrating but...
+162274	+		　サテラだけじゃ、きっと力が及ばない……」	　I alone probably can't do it...」
 
-162275	Satella	「それでも二人をなんとか助けたいんだ……」	「Still, I want to save them somehow...」
+162275	Satella		「それでも二人をなんとか助けたいんだ……」	「Still, I want to save them somehow...」
 
-162276	Rance	「……ふむ」	「...Hmm.」
+162276	Rance	基本	「……ふむ」	「...Hmm.」
 
-162277	Rance	「二人ともホーネット派なんだな？」	「Both are from Hornet's faction, right?」
+162277	Rance		「二人ともホーネット派なんだな？」	「Both are from Hornet's faction, right?」
 
-162278	Satella	「うん」	「Yes.」
+162278	Satella	不安	「うん」	「Yes.」
 
-162279	Rance	「助ければ味方になってくれるんだな？」	「If I save them, they'll join us, right?」
+162279	Rance	基本	「助ければ味方になってくれるんだな？」	「If I save them, they'll join us, right?」
 
-162280	Satella	「う、うん！　きっと！」	「Y-Yes! Definitely!」
+162280	Satella		「う、うん！　きっと！」	「Y-Yes! Definitely!」
 
-162281	Rance	「……で、二人とも可愛いんだな？」	「...And both are cute, right?」
+162281	Rance	エロ顔	「……で、二人とも可愛いんだな？」	「...And both are cute, right?」
 
-162282	Satella	「うん！」	「Yes!」
+162282	Satella	笑顔	「うん！」	「Yes!」
 
-162283	Satella	「………………	「..............
-162284	?	うん？」	Yes?」
+162283	Satella		「………………	「..............
+162284	?		うん？」	Yes?」
 
-162285	Rance	「がははははははは！	「Gahahahahahaha!
-162286	+	　ならば任せておけ！	　Leave it to me!
-162287	+	　俺様がぜーったいに助けてやる！」	　I'll definitely save them!」
+162285	Rance		「がははははははは！	「Gahahahahahaha!
+162286	+		　ならば任せておけ！	　Leave it to me!
+162287	+		　俺様がぜーったいに助けてやる！」	　I'll definitely save them!」
 
-162288	Rance	「そして……ぐふふふ……」	「And then... gufufufu...」
+162288	Rance	エロ顔	「そして……ぐふふふ……」	「And then... gufufufu...」
 
-162289	Rance	「がははは、リーザスに来てる魔人は	「Gahahaha, I heard the Fiend in Leazas
-162290	+	　可愛い女魔人と噂に聞いて、	　are cute female Fiends,
-162291	+	　ずーっと楽しみにしてたのだ！」	　so I've been looking forward to this!」
+162289	Rance	笑顔	「がははは、リーザスに来てる魔人は	「Gahahaha, I heard the Fiend in Leazas
+162290	+		　可愛い女魔人と噂に聞いて、	　are cute female Fiends,
+162291	+		　ずーっと楽しみにしてたのだ！」	　so I've been looking forward to this!」
 
-162292	Kentou Kanami	「ランス、今回は妙にやる気があると思ったら……」	「Rance, I wondered why you were so motivated this time...」
+162292	Kentou Kanami	ジト目	「ランス、今回は妙にやる気があると思ったら……」	「Rance, I wondered why you were so motivated this time...」
 
-162293	Pastel Kalar	「ふん、こいつがやる気を出すなぞ、	「Hmph, the only time this guy gets motivated
-162294	+	　女絡み以外あるものか」	　is when women are involved.」
+162293	Pastel Kalar	基本	「ふん、こいつがやる気を出すなぞ、	「Hmph, the only time this guy gets motivated
+162294	+		　女絡み以外あるものか」	　is when women are involved.」
 
-162295	Rance	「お前ら、普段は適当でもいいが、	「You guys can be casual usually,
-162296	+	　今回だけは真面目に戦えよ」	　but this time fight seriously.」
+162295	Rance		「お前ら、普段は適当でもいいが、	「You guys can be casual usually,
+162296	+		　今回だけは真面目に戦えよ」	　but this time fight seriously.」
 
-162297	Kentou Kanami	「普段から真面目に戦ってます！」	「We always fight seriously!」
+162297	Kentou Kanami	うがー	「普段から真面目に戦ってます！」	「We always fight seriously!」
 
-162298	Caesar	「サテラ様……」	「Satella-sama...」
+162298	Caesar	基本	「サテラ様……」	「Satella-sama...」
 
-162299	Satella	「い……いい、気にするなシーザー。	「I-It's fine, don't worry Caesar.
-162300	+	　サテラは二人が無事に助けられるならそれで……」	　As long as the two are saved...」
+162299	Satella	思考	「い……いい、気にするなシーザー。	「I-It's fine, don't worry Caesar.
+162300	+		　サテラは二人が無事に助けられるならそれで……」	　As long as the two are saved...」
 
-162301	Rance	「さて、どっちから先に攻めるかだが……」	「Now, which one to attack first...」
+162301	Rance	基本	「さて、どっちから先に攻めるかだが……」	「Now, which one to attack first...」
 
-162302	Rance	「サテラ、どっちの方が可愛い？	「Satella, which one is cuter?
-162303	+	　おっぱいが大きいのはどっちだ？	　Which has bigger tits?
-162304	+	　ちなみに二人とも処女か？　ん？」	　By the way, are both virgins? Hm?」
+162302	Rance		「サテラ、どっちの方が可愛い？	「Satella, which one is cuter?
+162303	+		　おっぱいが大きいのはどっちだ？	　Which has bigger tits?
+162304	+		　ちなみに二人とも処女か？　ん？」	　By the way, are both virgins? Hm?」
 
-162305	Satella	「…………」	「............」
+162305	Satella	思考	「…………」	「............」
 
-162306	Satella	「好きな方を選べばいいだろ、この馬鹿！」	「Just pick whichever you like, you idiot!」
+162306	Satella	ツンデレ	「好きな方を選べばいいだろ、この馬鹿！」	「Just pick whichever you like, you idiot!」
 
-162307	-	サテラはぷりぷり怒って背を向けてしまった。	Satella turned away angrily.
+162307	-		サテラはぷりぷり怒って背を向けてしまった。	Satella turned away angrily.
 
-162308	Rance	「……なに怒ってるんだ？」	「...Why are you mad?」
+162308	Rance	だる顔	「……なに怒ってるんだ？」	「...Why are you mad?」
 
-162309	Sill Plain	「それは……怒りますよ、ランス様……」	「Of course she'd get angry, Rance-sama...」
+162309	Sill Plain	泣き	「それは……怒りますよ、ランス様……」	「Of course she'd get angry, Rance-sama...」

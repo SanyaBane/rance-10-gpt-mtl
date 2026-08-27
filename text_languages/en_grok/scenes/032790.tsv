@@ -3,78 +3,78 @@
 * Scholar	学者	Male
 * Needle	ニードル	Female
 
-176499	?	「おい！　薬はもうないのか！？	「Hey! Are we out of medicine already!?
-176500	+	　全然足りてないぞ！」	　We’re nowhere near enough!」
+176499	?		「おい！　薬はもうないのか！？	「Hey! Are we out of medicine already!?
+176500	+		　全然足りてないぞ！」	　We’re nowhere near enough!」
 
-176501	?	「まだまだ怪我人は増えるぞ！	「More injured are coming!
-176502	+	　誰か薬を取ってきてくれ！」	　Someone bring more medicine!」
+176501	?		「まだまだ怪我人は増えるぞ！	「More injured are coming!
+176502	+		　誰か薬を取ってきてくれ！」	　Someone bring more medicine!」
 
-176503	?	「いてぇ！　いてぇよぉ！	「It hurts! It huuurts!
-176504	+	　早く治してくれよぉぉぉ！」	　Heal me quick!」
+176503	?		「いてぇ！　いてぇよぉ！	「It hurts! It huuurts!
+176504	+		　早く治してくれよぉぉぉ！」	　Heal me quick!」
 
-176505	?	「大変だ！　洞窟の一部が崩れて、	「This is bad! Part of the cave collapsed,
-176506	+	　生き埋めになってる連中がいるぞ！	　there are people buried alive!
-176507	+	　手が空いている奴は来てくれ！」	　Anyone free, come help!」
+176505	?		「大変だ！　洞窟の一部が崩れて、	「This is bad! Part of the cave collapsed,
+176506	+		　生き埋めになってる連中がいるぞ！	　there are people buried alive!
+176507	+		　手が空いている奴は来てくれ！」	　Anyone free, come help!」
 
-176508	Muscle	「かーっ、何が起きたってんだ、まったく。	「Kah, what the hell happened.
-176509	+	　天下のマエリータ隊がボロボロじゃねーか」	　The great Maelita Squad is in tatters.」
+176508	Muscle	基本	「かーっ、何が起きたってんだ、まったく。	「Kah, what the hell happened.
+176509	+		　天下のマエリータ隊がボロボロじゃねーか」	　The great Maelita Squad is in tatters.」
 
-176510	Scholar	「そうですね……	「Indeed...
-176511	+	　負傷者はもちろん、死者も何人か……」	　There are injured, and even some dead...」
+176510	Scholar		「そうですね……	「Indeed...
+176511	+		　負傷者はもちろん、死者も何人か……」	　There are injured, and even some dead...」
 
-176512	-	ランス城の突撃、	Rance Castle’s charge
-176513	+	その被害をもろに受けたマエリータ隊は、	hit the Maelita Squad directly,
-176514	+	状況が分からない中、救助でてんてこ舞いだった。	leaving them in chaos trying to rescue while not understanding the situation.
+176512	-		ランス城の突撃、	Rance Castle’s charge
+176513	+		その被害をもろに受けたマエリータ隊は、	hit the Maelita Squad directly,
+176514	+		状況が分からない中、救助でてんてこ舞いだった。	leaving them in chaos trying to rescue while not understanding the situation.
 
-176515	Scholar	「状況を把握する為に、	「We sent out a reconnaissance team to understand the situation,
-176516	+	　連絡偵察班を出しましたが、	　but with so many injured and rescues needed,
-176517	+	　負傷者の手当と救出にと、手が足りません」	　we don’t have enough hands.
+176515	Scholar		「状況を把握する為に、	「We sent out a reconnaissance team to understand the situation,
+176516	+		　連絡偵察班を出しましたが、	　but with so many injured and rescues needed,
+176517	+		　負傷者の手当と救出にと、手が足りません」	　we don’t have enough hands.
 
-176518	Scholar	「いったい何があったというのか……」	　Just what happened...」
+176518	Scholar		「いったい何があったというのか……」	　Just what happened...」
 
-176519	-	あまりに想定外の事態に、	Faced with such an unexpected event,
-176520	+	珍しく学者は感情をほの見せて、	the scholar rarely showed emotion
-176521	+	溜め息を吐きだした。	and let out a sigh.
+176519	-		あまりに想定外の事態に、	Faced with such an unexpected event,
+176520	+		珍しく学者は感情をほの見せて、	the scholar rarely showed emotion
+176521	+		溜め息を吐きだした。	and let out a sigh.
 
-176522	Needle	「た、大変大変！　大変よ！」	「T-terrible, terrible! This is bad!」
+176522	Needle		「た、大変大変！　大変よ！」	「T-terrible, terrible! This is bad!」
 
-176523	Muscle	「おう、どうした！	「Hey, what happened!
-176524	+	　なんか分かったか！？」	　You find something!?」
+176523	Muscle		「おう、どうした！	「Hey, what happened!
+176524	+		　なんか分かったか！？」	　You find something!?」
 
-176525	Needle	「揺れの原因が分かった！」	「I found the cause of the shaking!」
+176525	Needle		「揺れの原因が分かった！」	「I found the cause of the shaking!」
 
-176526	Needle	「に、人間共の浮遊城が突っ込んできたのよ！」	「The humans’ flying castle crashed into us!」
+176526	Needle		「に、人間共の浮遊城が突っ込んできたのよ！」	「The humans’ flying castle crashed into us!」
 
-176527	Muscle	「なーにー！？」	「Whatー!?」
+176527	Muscle		「なーにー！？」	「Whatー!?」
 
-176528	Muscle	「あの城が来たってこたぁ、	「If that castle came,
-176529	+	　魔人討伐隊の連中が来たってのか！」	　that means the Fiend Extermination Squad is here!」
+176528	Muscle		「あの城が来たってこたぁ、	「If that castle came,
+176529	+		　魔人討伐隊の連中が来たってのか！」	　that means the Fiend Extermination Squad is here!」
 
-176530	Needle	「そうだよ！　人間共の襲撃だよ！」	「Yes! It’s a human attack!」
+176530	Needle		「そうだよ！　人間共の襲撃だよ！」	「Yes! It’s a human attack!」
 
-176531	Scholar	「まさか、ここがケイブリス様の居城と	「Did they know this was Kayblis-sama’s stronghold?」
-176532	+	　知っていたということでしょうか」	
+176531	Scholar		「まさか、ここがケイブリス様の居城と	「Did they know this was Kayblis-sama’s stronghold?」
+176532	+		　知っていたということでしょうか」	
 
-176533	Muscle	「それしかねぇだろうなぁ！	「That’s the only explanation!
-176534	+	　どうするよ、学者！」	　What do we do, Scholar!」
+176533	Muscle		「それしかねぇだろうなぁ！	「That’s the only explanation!
+176534	+		　どうするよ、学者！」	　What do we do, Scholar!」
 
-176535	Scholar	「…………」	「............」
+176535	Scholar		「…………」	「............」
 
-176536	-	しばし考える。	He thought for a moment.
-176537	+	しかし、その時間も数秒。	But only for a few seconds.
-176538	+	学者はすぐに顔を上げた。	The scholar quickly raised his head.
+176536	-		しばし考える。	He thought for a moment.
+176537	+		しかし、その時間も数秒。	But only for a few seconds.
+176538	+		学者はすぐに顔を上げた。	The scholar quickly raised his head.
 
-176539	Scholar	「決して、良い状況とは言えません」	「This is by no means a good situation.」
+176539	Scholar		「決して、良い状況とは言えません」	「This is by no means a good situation.」
 
-176540	Scholar	「すぐに誰かケイブリス様に報告を。	「Someone report to Kayblis-sama immediately.
-176541	+	　身動きの取れない者、治療班は	　Those who can’t move and the medical team
-176542	+	　この場で待機を。残りの者は――」	　stay here. The rest――
+176540	Scholar		「すぐに誰かケイブリス様に報告を。	「Someone report to Kayblis-sama immediately.
+176541	+		　身動きの取れない者、治療班は	　Those who can’t move and the medical team
+176542	+		　この場で待機を。残りの者は――」	　stay here. The rest――
 
-176543	Scholar	「私の後に続いて、	「Follow me
-176544	+	　魔人討伐隊と戦って下さい」	　and fight the Fiend Extermination Squad.」
+176543	Scholar		「私の後に続いて、	「Follow me
+176544	+		　魔人討伐隊と戦って下さい」	　and fight the Fiend Extermination Squad.」
 
-176545	Muscle	「うっしゃー！　待ってました！」	「Alright! Been waiting for this!」
+176545	Muscle		「うっしゃー！　待ってました！」	「Alright! Been waiting for this!」
 
-176546	Needle	「へへっ、どこまでだってついてくよ！」	「Hehe, I’ll follow you anywhere!」
+176546	Needle		「へへっ、どこまでだってついてくよ！」	「Hehe, I’ll follow you anywhere!」
 
-176547	Scholar	「マエリータ隊、迎撃に出ます」	「Maelita Squad, moving out to intercept.」
+176547	Scholar		「マエリータ隊、迎撃に出ます」	「Maelita Squad, moving out to intercept.」

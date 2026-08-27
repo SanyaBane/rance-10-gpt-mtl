@@ -4,178 +4,178 @@
 * Man	汎用男	Male
 * Old Woman	汎用婆	Female
 
-98928	Rance	「ほほう、ここが	「Hmm, so this is
-98929	+	　メリムの職場という屋敷か」	　the mansion where Merim works.」
+98928	Rance	真剣	「ほほう、ここが	「Hmm, so this is
+98929	+		　メリムの職場という屋敷か」	　the mansion where Merim works.」
 
-98930	Rance	「普通の職についてたってのが少し意外だ」	「It's a bit surprising you have a normal job.」
+98930	Rance		「普通の職についてたってのが少し意外だ」	「It's a bit surprising you have a normal job.」
 
-98931	Merim Tser	「残念ながら遺跡探索では	「Unfortunately exploring ruins
-98932	+	　食べていけません……」	　doesn't pay the bills...」
+98931	Merim Tser	基本	「残念ながら遺跡探索では	「Unfortunately exploring ruins
+98932	+		　食べていけません……」	　doesn't pay the bills...」
 
-98933	Merim Tser	「普段はこのお屋敷でメイドとして働いて、	「Normally I work as a maid in this mansion,
-98934	+	　休日に遺跡探索させてもらってます。	　and explore ruins on my days off.
-98935	+	　楽しいですよ」	　It's fun.」
+98933	Merim Tser	笑顔	「普段はこのお屋敷でメイドとして働いて、	「Normally I work as a maid in this mansion,
+98934	+		　休日に遺跡探索させてもらってます。	　and explore ruins on my days off.
+98935	+		　楽しいですよ」	　It's fun.」
 
-98936	Merim Tser	「私が総統を連れてくると聞いたら、	「When they heard I was bringing the Supreme Leader,
-98937	+	　皆さん驚いていました」	　everyone was surprised.」
+98936	Merim Tser	基本	「私が総統を連れてくると聞いたら、	「When they heard I was bringing the Supreme Leader,
+98937	+		　皆さん驚いていました」	　everyone was surprised.」
 
-98938	Rance	「ふん、ただ行軍の間の	「Hmph, I'm just using it
-98939	+	　宿に使わせてもらうってだけだ」	　as lodging during the march.」
+98938	Rance	真剣	「ふん、ただ行軍の間の	「Hmph, I'm just using it
+98939	+		　宿に使わせてもらうってだけだ」	　as lodging during the march.」
 
-98940	Rance	「しかし、また小間使いみたいな生活とは、	「But living like a servant again,
-98941	+	　メリムもあまり変わらんな」	　you haven't changed much, Merim.」
+98940	Rance	基本	「しかし、また小間使いみたいな生活とは、	「But living like a servant again,
+98941	+		　メリムもあまり変わらんな」	　you haven't changed much, Merim.」
 
-98942	Merim Tser	「えへへ、以前いた家では	「Ehehe, in my previous house
-98943	+	　奴隷のような扱いだったので、	　I was treated like a slave,
-98944	+	　それと比べると今はとっても幸せです」	　compared to that I'm very happy now.」
+98942	Merim Tser	笑顔	「えへへ、以前いた家では	「Ehehe, in my previous house
+98943	+		　奴隷のような扱いだったので、	　I was treated like a slave,
+98944	+		　それと比べると今はとっても幸せです」	　compared to that I'm very happy now.」
 
-98945	Man	「あ、メリム」	「Ah, Merim.」
+98945	Man	基本	「あ、メリム」	「Ah, Merim.」
 
-98946	Rance	「誰だ？」	「Who is this?」
+98946	Rance		「誰だ？」	「Who is this?」
 
-98947	Merim Tser	「この家の長男さんです」	「The eldest son of this house.」
+98947	Merim Tser		「この家の長男さんです」	「The eldest son of this house.」
 
-98948	Man	「お前が入隊なんておかしなことしたせいで	「Because you did something weird like joining the army
-98949	+	　ババアの機嫌が悪いんだよ、	　the old hag is in a bad mood,
-98950	+	　責任を取れよな、責任をよ」	　take responsibility.」
+98948	Man	楽	「お前が入隊なんておかしなことしたせいで	「Because you did something weird like joining the army
+98949	+		　ババアの機嫌が悪いんだよ、	　the old hag is in a bad mood,
+98950	+		　責任を取れよな、責任をよ」	　take responsibility.」
 
-98951	Man	「まったく、あのババアしぶといんだよな。	「Seriously, that old hag is stubborn.
-98952	+	　とっとと死んでくれりゃあいいのによ……」	　She should just die already...」
+98951	Man		「まったく、あのババアしぶといんだよな。	「Seriously, that old hag is stubborn.
+98952	+		　とっとと死んでくれりゃあいいのによ……」	　She should just die already...」
 
-98953	Man	「へへっ、そうすりゃ遺産は長男の俺のもんだ。	「Hehe, then the inheritance will be mine as the eldest son.
-98954	+	　姉貴や弟には渡さずにな……」	　Not to my sister or brother...」
+98953	Man		「へへっ、そうすりゃ遺産は長男の俺のもんだ。	「Hehe, then the inheritance will be mine as the eldest son.
+98954	+		　姉貴や弟には渡さずにな……」	　Not to my sister or brother...」
 
-98955	Man	「ああ？　おい、誰だ、その男」	「Ah? Hey, who is that guy?」
+98955	Man	基本	「ああ？　おい、誰だ、その男」	「Ah? Hey, who is that guy?」
 
-98956	Merim Tser	「はい、総統閣下をしてらっしゃるランスさんです」	「This is Supreme Leader Rance-san.」
+98956	Merim Tser		「はい、総統閣下をしてらっしゃるランスさんです」	「This is Supreme Leader Rance-san.」
 
-98957	Man	「ええっ、こいつ――	「Ehh, this guy--
-98958	+	　あ、いえ、この方が？」	　Ah, I mean, this is him?」
+98957	Man		「ええっ、こいつ――	「Ehh, this guy--
+98958	+		　あ、いえ、この方が？」	　Ah, I mean, this is him?」
 
-98959	Man	「え、えへへ……	「E, ehehe...
-98960	+	　なにもない家ではありますが、	　It's not much of a house but,
-98961	+	　どうぞゆっくりして行って下さいね……」	　please take your time...」
+98959	Man		「え、えへへ……	「E, ehehe...
+98960	+		　なにもない家ではありますが、	　It's not much of a house but,
+98961	+		　どうぞゆっくりして行って下さいね……」	　please take your time...」
 
-98962	Rance	「うるさい、男が喋りかけるな」	「Shut up, men don't talk to me.」
+98962	Rance		「うるさい、男が喋りかけるな」	「Shut up, men don't talk to me.」
 
-98963	Man	「ひ、ひいっ！？　失礼しましたー！？」	「H-hii!? Excuse me!?」
+98963	Man		「ひ、ひいっ！？　失礼しましたー！？」	「H-hii!? Excuse me!?」
 
-98964	-	ランスが一睨みすると、男は慌てて逃げ去った。	With one glare from Rance, the man hurriedly ran away.
+98964	-		ランスが一睨みすると、男は慌てて逃げ去った。	With one glare from Rance, the man hurriedly ran away.
 
-98965	Rance	「ムカつく奴だったな……	「What an annoying guy...
-98966	+	　殺した方が良かったか？」	　Should I have killed him?」
+98965	Rance	だる顔	「ムカつく奴だったな……	「What an annoying guy...
+98966	+		　殺した方が良かったか？」	　Should I have killed him?」
 
-98967	Merim Tser	「や、やめて下さい。	「P-please stop.
-98968	+	　確かにちょっと意地悪ですけど……」	　He is a bit mean but...」
+98967	Merim Tser	基本	「や、やめて下さい。	「P-please stop.
+98968	+		　確かにちょっと意地悪ですけど……」	　He is a bit mean but...」
 
-98969	Rance	「この家の奴ってのはみんなあんな感じか？」	「Is everyone in this house like that?」
+98969	Rance		「この家の奴ってのはみんなあんな感じか？」	「Is everyone in this house like that?」
 
-98970	Merim Tser	「そうですね、皆さんちょっと口が悪いかも……	「Yes, they might have sharp tongues...
-98971	+	　でもお優しいところもあるんですよ」	　but they have kind sides too.」
+98970	Merim Tser		「そうですね、皆さんちょっと口が悪いかも……	「Yes, they might have sharp tongues...
+98971	+		　でもお優しいところもあるんですよ」	　but they have kind sides too.」
 
-98972	Merim Tser	「特にこの屋敷のご当主様は、	「Especially the head of this house,
-98973	+	　とってもお優しい方です」	　is a very kind person.」
+98972	Merim Tser	笑顔	「特にこの屋敷のご当主様は、	「Especially the head of this house,
+98973	+		　とってもお優しい方です」	　is a very kind person.」
 
-98974	Rance	「優しいご当主……	「Kind head of house...
-98975	+	　エロ親父？」	　Lecherous old man?」
+98974	Rance	基本	「優しいご当主……	「Kind head of house...
+98975	+		　エロ親父？」	　Lecherous old man?」
 
-98976	Merim Tser	「おばあさんですよ？」	「It's an old woman?」
+98976	Merim Tser		「おばあさんですよ？」	「It's an old woman?」
 
-98977	Rance	「ああ、さっきのがゴチャゴチャ言ってた、	「Ah, the one complaining earlier,
-98978	+	　機嫌の悪いババアって奴か」	　the bad-mood old hag.」
+98977	Rance		「ああ、さっきのがゴチャゴチャ言ってた、	「Ah, the one complaining earlier,
+98978	+		　機嫌の悪いババアって奴か」	　the bad-mood old hag.」
 
-98979	Merim Tser	「はい、そうです。	「Yes, that's her.
-98980	+	　ご挨拶に伺いましょう」	　Let's go greet her.」
+98979	Merim Tser		「はい、そうです。	「Yes, that's her.
+98980	+		　ご挨拶に伺いましょう」	　Let's go greet her.」
 
-98981	-	通された部屋では、	In the room they were led to,
-98982	+	館の主である老婆が出迎えた。	the old woman who owned the mansion greeted them.
+98981	-		通された部屋では、	In the room they were led to,
+98982	+		館の主である老婆が出迎えた。	the old woman who owned the mansion greeted them.
 
-98983	Old Woman	「ふぅん、貴方が総統閣下……」	「Hmm, so you're the Supreme Leader...」
+98983	Old Woman		「ふぅん、貴方が総統閣下……」	「Hmm, so you're the Supreme Leader...」
 
-98984	Rance	「む……」	「Mu...」
+98984	Rance		「む……」	「Mu...」
 
-98985	-	老婆は胡散臭いものを見るような目で	The old woman looked at Rance
-98986	+	ランスを頭からつま先まで無遠慮に眺めた。	from head to toe with suspicious eyes.
+98985	-		老婆は胡散臭いものを見るような目で	The old woman looked at Rance
+98986	+		ランスを頭からつま先まで無遠慮に眺めた。	from head to toe with suspicious eyes.
 
-98987	Rance	「俺様の部隊の宿にしばらく	「I'll be using your mansion
-98988	+	　お前の館を使わせてもらうぞ。	　as lodging for my troops for a while.
-98989	+	　これは軍からの要請でもある」	　This is also a military request.」
+98987	Rance	真剣	「俺様の部隊の宿にしばらく	「I'll be using your mansion
+98988	+		　お前の館を使わせてもらうぞ。	　as lodging for my troops for a while.
+98989	+		　これは軍からの要請でもある」	　This is also a military request.」
 
-98990	Old Woman	「それじゃあ、断ることは出来ないわねぇ。	「Then I can't refuse, can I.
-98991	+	　ええ、仕方ないから	　Yes, no choice,
-98992	+	　なんでも協力させてもらうわ」	　I'll cooperate with anything.」
+98990	Old Woman	基本	「それじゃあ、断ることは出来ないわねぇ。	「Then I can't refuse, can I.
+98991	+		　ええ、仕方ないから	　Yes, no choice,
+98992	+		　なんでも協力させてもらうわ」	　I'll cooperate with anything.」
 
-98993	Rance	「むか、なんだと？」	「Mu, what?」
+98993	Rance		「むか、なんだと？」	「Mu, what?」
 
-98994	Old Woman	「メリム」	「Merim.」
+98994	Old Woman		「メリム」	「Merim.」
 
-98995	Merim Tser	「はい」	「Yes.」
+98995	Merim Tser		「はい」	「Yes.」
 
-98996	Old Woman	「ドジで間抜けな貴方が	「You clumsy and foolish girl
-98997	+	　総統の部隊に配属されたと聞いたときは	　being assigned to the Supreme Leader's unit
-98998	+	　本当に驚いたわ……」	　really surprised me...」
+98996	Old Woman		「ドジで間抜けな貴方が	「You clumsy and foolish girl
+98997	+		　総統の部隊に配属されたと聞いたときは	　being assigned to the Supreme Leader's unit
+98998	+		　本当に驚いたわ……」	　really surprised me...」
 
-98999	Old Woman	「貴方には荷が重いわね」	「It's too heavy a burden for you.」
+98999	Old Woman		「貴方には荷が重いわね」	「It's too heavy a burden for you.」
 
-99000	Rance	「なんだと？」	「What did you say?」
+99000	Rance		「なんだと？」	「What did you say?」
 
-99001	Old Woman	「遺跡探索の際には役に立ってると	「I heard she's useful during ruin explorations,
-99002	+	　聞きましたが、それもどこまで本当だか……」	　but who knows how true that really is...」
+99001	Old Woman		「遺跡探索の際には役に立ってると	「I heard she's useful during ruin explorations,
+99002	+		　聞きましたが、それもどこまで本当だか……」	　but who knows how true that really is...」
 
-99003	Old Woman	「世間様は今戦争でどこも大変なのに、	「The whole world is suffering from war right now,
-99004	+	　遊びほうけていられるとは、いいご身分ね」	　yet you get to play around like this. Must be nice.」
+99003	Old Woman		「世間様は今戦争でどこも大変なのに、	「The whole world is suffering from war right now,
+99004	+		　遊びほうけていられるとは、いいご身分ね」	　yet you get to play around like this. Must be nice.」
 
-99005	Merim Tser	「え、えへへ……」	「E, ehehe...」
+99005	Merim Tser		「え、えへへ……」	「E, ehehe...」
 
-99006	Old Woman	「今すぐ辞めて、この館に帰ってきなさい」	「Quit right now and come back to this mansion.」
+99006	Old Woman		「今すぐ辞めて、この館に帰ってきなさい」	「Quit right now and come back to this mansion.」
 
-99007	Rance	「こらこら、メリムを俺の部隊に	「Hey now, Merim is in my squad
-99008	+	　置いてるのは俺様の判断だ。	　because I decided so.
-99009	+	　お前にとやかく言われる筋合いはないぞ」	　You have no right to complain about it.」
+99007	Rance	真剣	「こらこら、メリムを俺の部隊に	「Hey now, Merim is in my squad
+99008	+		　置いてるのは俺様の判断だ。	　because I decided so.
+99009	+		　お前にとやかく言われる筋合いはないぞ」	　You have no right to complain about it.」
 
-99010	Old Woman	「……そう。	「...I see.
-99011	+	　メリム、貴方も同じ考えなのかしら？」	　Merim, do you feel the same way?」
+99010	Old Woman	基本	「……そう。	「...I see.
+99011	+		　メリム、貴方も同じ考えなのかしら？」	　Merim, do you feel the same way?」
 
-99012	Merim Tser	「…………」	「............」
+99012	Merim Tser		「…………」	「............」
 
-99013	-	メリムはいつもの朗らかな話し方から、	Merim answered in a slightly stiff tone,
-99014	+	少しだけ固い口調で答えた。	different from her usual cheerful way of speaking.
+99013	-		メリムはいつもの朗らかな話し方から、	Merim answered in a slightly stiff tone,
+99014	+		少しだけ固い口調で答えた。	different from her usual cheerful way of speaking.
 
-99015	Merim Tser	「心配して頂いてありがとうございます」	「Thank you for your concern.
+99015	Merim Tser		「心配して頂いてありがとうございます」	「Thank you for your concern.
 
-99016	Merim Tser	「でも、ランスさんには	　But Rance-san has helped me in many ways before,
-99017	+	　以前に色々と助けて頂いた恩があるので、	　so I want to repay even a little of that debt.」
-99018	+	　少しでも恩返しがしたいのです」	
+99016	Merim Tser		「でも、ランスさんには	　But Rance-san has helped me in many ways before,
+99017	+		　以前に色々と助けて頂いた恩があるので、	　so I want to repay even a little of that debt.」
+99018	+		　少しでも恩返しがしたいのです」	
 
-99019	Merim Tser	「ご心配をかけて申し訳ありませんが、	「I'm sorry for making you worry,
-99020	+	　もう少しだけ、ワガママをお許し下さい」	　but please allow me this selfishness a little longer.」
+99019	Merim Tser		「ご心配をかけて申し訳ありませんが、	「I'm sorry for making you worry,
+99020	+		　もう少しだけ、ワガママをお許し下さい」	　but please allow me this selfishness a little longer.」
 
-99021	Old Woman	「…………」	「............」
+99021	Old Woman		「…………」	「............」
 
-99022	-	老婆は憮然とした顔で	The old woman watched Merim bow politely
-99023	+	丁寧に頭を下げるメリムを見ていたが、	with a sullen expression,
-99024	+	すぐに鼻から息を抜いた。	then quickly snorted.
+99022	-		老婆は憮然とした顔で	The old woman watched Merim bow politely
+99023	+		丁寧に頭を下げるメリムを見ていたが、	with a sullen expression,
+99024	+		すぐに鼻から息を抜いた。	then quickly snorted.
 
-99025	Old Woman	「ふんっ、憎たらしいったらないわ」	「Hmph, how utterly detestable.」
+99025	Old Woman		「ふんっ、憎たらしいったらないわ」	「Hmph, how utterly detestable.」
 
-99026	Old Woman	「――どうせ言うことなんて聞きゃしないんだから」	「--Anyway, you won't listen to me no matter what I say.」
+99026	Old Woman		「――どうせ言うことなんて聞きゃしないんだから」	「--Anyway, you won't listen to me no matter what I say.」
 
-99027	Old Woman	「勝手になさい」	「Do as you please.」
+99027	Old Woman		「勝手になさい」	「Do as you please.」
 
-99028	-	部屋から出たランスは	Rance stepped out of the room
-99029	+	憤然とした様子で息を吐き出した。	and exhaled angrily.
+99028	-		部屋から出たランスは	Rance stepped out of the room
+99029	+		憤然とした様子で息を吐き出した。	and exhaled angrily.
 
-99030	Rance	「まったく、嫌味ったらしいババアだったな。	「What a sarcastic old hag.
-99031	+	　ふんっ、ふんっ」	　Hmph, hmph.」
+99030	Rance		「まったく、嫌味ったらしいババアだったな。	「What a sarcastic old hag.
+99031	+		　ふんっ、ふんっ」	　Hmph, hmph.」
 
-99032	Merim Tser	「そんなことないです。	「That's not true.
-99033	+	　とてもお優しい方ですよ？」	　She's actually a very kind person.」
+99032	Merim Tser		「そんなことないです。	「That's not true.
+99033	+		　とてもお優しい方ですよ？」	　She's actually a very kind person.」
 
-99034	Rance	「何を言う、陰険で陰湿で偉そうで嫌な婆だ」	「What are you saying? She's sneaky, gloomy, arrogant and unpleasant.」
+99034	Rance		「何を言う、陰険で陰湿で偉そうで嫌な婆だ」	「What are you saying? She's sneaky, gloomy, arrogant and unpleasant.」
 
-99035	Merim Tser	「そんなことありませんって」	「No she's not.」
+99035	Merim Tser		「そんなことありませんって」	「No she's not.」
 
-99036	Merim Tser	「職場の人間関係にも恵まれて、	「I'm blessed with good workplace relationships,
-99037	+	　メリムはとっても幸せ者です♪」	　Merim is such a lucky girl♪」
+99036	Merim Tser	笑顔	「職場の人間関係にも恵まれて、	「I'm blessed with good workplace relationships,
+99037	+		　メリムはとっても幸せ者です♪」	　Merim is such a lucky girl♪」
 
-99038	Rance	「うぅ〜〜〜ん……？」	「Hmm~~~...?」
+99038	Rance	基本	「うぅ〜〜〜ん……？」	「Hmm~~~...?」

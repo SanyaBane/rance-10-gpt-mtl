@@ -3,103 +3,103 @@
 * Rocky Bank	ロッキー２	Male
 * Neplacus	ネプラカス本体	Male
 
-212312	-	あなた達はクエルプランを目印にしながら	Using the Quelplan as a landmark,
-212313	+	とぼとぼと砂漠を進んで行く。	you trudged onward through the desert.
+212312	-		あなた達はクエルプランを目印にしながら	Using the Quelplan as a landmark,
+212313	+		とぼとぼと砂漠を進んで行く。	you trudged onward through the desert.
 
-212314	Nagata-kun	「んー？」	「Hmm?」
+212314	Nagata-kun	基本	「んー？」	「Hmm?」
 
-212315	Nagata-kun	「ちょーちょー、	「Hey hey,
-212316	+	　クエルプラン、アウトバーンから離れてね？」	　isn't the Quelplan moving away from the Outbahn?」
+212315	Nagata-kun		「ちょーちょー、	「Hey hey,
+212316	+		　クエルプラン、アウトバーンから離れてね？」	　isn't the Quelplan moving away from the Outbahn?」
 
-212317	-	生き物か、それとも自然現象か、それすら分からない	Whether it was a living creature or a natural phenomenon, no one knew,
-212318	+	クエルプランは、ただ一体だけで砂漠を横断していく。	but the Quelplan continued crossing the desert alone.
+212317	-		生き物か、それとも自然現象か、それすら分からない	Whether it was a living creature or a natural phenomenon, no one knew,
+212318	+		クエルプランは、ただ一体だけで砂漠を横断していく。	but the Quelplan continued crossing the desert alone.
 
-212319	Rocky Bank	「なんとも不思議な存在だすなぁ……」	「What a mysterious being...」
+212319	Rocky Bank		「なんとも不思議な存在だすなぁ……」	「What a mysterious being...」
 
-212320	Nagata-kun	「何度見てもでっかいなぁ……」	「No matter how many times I see it, it's huge...」
+212320	Nagata-kun		「何度見てもでっかいなぁ……」	「No matter how many times I see it, it's huge...」
 
-212321	Nagata-kun	「魔王ランスも問題だけどさあ、	「The Demon King Rance is a problem, but
-212322	+	　あっちはあっちで誰かがどうにかしねぇといけねぇのよな」	　someone's gotta deal with that thing too.」
+212321	Nagata-kun		「魔王ランスも問題だけどさあ、	「The Demon King Rance is a problem, but
+212322	+		　あっちはあっちで誰かがどうにかしねぇといけねぇのよな」	　someone's gotta deal with that thing too.」
 
-212323	Nagata-kun	「……どうにかなんのかな。	「...Can it even be dealt with?
-212324	+	　あんなの」	　Something like that.」
+212323	Nagata-kun		「……どうにかなんのかな。	「...Can it even be dealt with?
+212324	+		　あんなの」	　Something like that.」
 
-212325	Nagata-kun	「ま、俺らには関係ない話か」	「Well, it's got nothing to do with us.」
+212325	Nagata-kun		「ま、俺らには関係ない話か」	「Well, it's got nothing to do with us.」
 
-212326	Nagata-kun	「ん？」	「Hm?」
+212326	Nagata-kun		「ん？」	「Hm?」
 
-212327	Rocky Bank	「どうかしただすか？　長田君」	「What's wrong, Nagata-kun?」
+212327	Rocky Bank		「どうかしただすか？　長田君」	「What's wrong, Nagata-kun?」
 
-212328	Nagata-kun	「クエルプランの後ろ……	「Behind the Quelplan...
-212329	+	　なんかいないっすか？」	　isn't there something there?」
+212328	Nagata-kun		「クエルプランの後ろ……	「Behind the Quelplan...
+212329	+		　なんかいないっすか？」	　isn't there something there?」
 
-212330	Rocky Bank	「なんかって……」	「Something...」
+212330	Rocky Bank		「なんかって……」	「Something...」
 
-212331	Rocky Bank	「あ、あれ！？」	「Ah, that!?」
+212331	Rocky Bank	ガーン	「あ、あれ！？」	「Ah, that!?」
 
-212332	Neplacus	「ク・ナ・モ・ナ……」	「Ku... na... mo... na...」
+212332	Neplacus	基本	「ク・ナ・モ・ナ……」	「Ku... na... mo... na...」
 
-212333	Neplacus	「ト・ン・ナ・カ・ナ・キ・イ・ミ・ミ・	「To... n... na... ka... na... ki... i... mi... mi...
-212334	+	　ト・ナ・ス・ナ・ニ・カ・ニ・キ・チ・	　To... na... su... na... ni... ka... ni... ki... chi...
-212335	+	　ク・ナ・チ・ミ・ミ・カ・イ・ニ・ノ・チ……」	　Ku... na... chi... mi... mi... ka... i... ni... no... chi...」
+212333	Neplacus		「ト・ン・ナ・カ・ナ・キ・イ・ミ・ミ・	「To... n... na... ka... na... ki... i... mi... mi...
+212334	+		　ト・ナ・ス・ナ・ニ・カ・ニ・キ・チ・	　To... na... su... na... ni... ka... ni... ki... chi...
+212335	+		　ク・ナ・チ・ミ・ミ・カ・イ・ニ・ノ・チ……」	　Ku... na... chi... mi... mi... ka... i... ni... no... chi...」
 
-212336	-	身長数メートルはあろうかという	A monstrous being several meters tall
-212337	+	巨躯を持つ異形の化け物が、	with a grotesque form
-212338	+	クエルプランの背後にいた。	stood behind the Quelplan.
+212336	-		身長数メートルはあろうかという	A monstrous being several meters tall
+212337	+		巨躯を持つ異形の化け物が、	with a grotesque form
+212338	+		クエルプランの背後にいた。	stood behind the Quelplan.
 
-212339	-	思わず、一行が小声になる。	The whole group instinctively lowered their voices.
+212339	-		思わず、一行が小声になる。	The whole group instinctively lowered their voices.
 
-212340	Nagata-kun	「ええ、嘘だろ……	「No way...
-212341	+	　あれって、悪魔？」	　Is that a demon?」
+212340	Nagata-kun		「ええ、嘘だろ……	「No way...
+212341	+		　あれって、悪魔？」	　Is that a demon?」
 
-212342	Rocky Bank	「ま、間違いないだすよ……	「No mistake...
-212343	+	　でも、なんでこんな場所に……」	　But why in a place like this...」
+212342	Rocky Bank		「ま、間違いないだすよ……	「No mistake...
+212343	+		　でも、なんでこんな場所に……」	　But why in a place like this...」
 
-212344	Rocky Bank	「後ろからクエルプランを	「It looks like it's chasing the Quelplan from behind...」
-212345	+	　追っかけてるみたいだすが……」	
+212344	Rocky Bank		「後ろからクエルプランを	「It looks like it's chasing the Quelplan from behind...」
+212345	+		　追っかけてるみたいだすが……」	
 
-212346	Nagata-kun	「ど、どうする？　＜エール＞？」	「W-what do we do? ＜エール＞?」
-212347	+	「ぃよーし、今＜エール＞がいいこと言った！」	「Alright, ＜エール＞ just said something good!」
+212346	Nagata-kun		「ど、どうする？　＜エール＞？」	「W-what do we do? ＜エール＞?」
+212347	+		「ぃよーし、今＜エール＞がいいこと言った！」	「Alright, ＜エール＞ just said something good!」
 
-212348	Rocky Bank	「そ、そうだすな……	「Y-yeah...
-212349	+	　悪魔なんて危険だす……	　Demons are dangerous...
-212350	+	　ゆっくりと離れましょうだ……」	　Let's slowly back away...」
+212348	Rocky Bank		「そ、そうだすな……	「Y-yeah...
+212349	+		　悪魔なんて危険だす……	　Demons are dangerous...
+212350	+		　ゆっくりと離れましょうだ……」	　Let's slowly back away...」
 
-212351	-	あなた達は悪魔の背後を横切るように、	You carefully moved across behind the demon,
-212352	+	ゆっくりと砂漠を進む。	advancing slowly through the desert.
+212351	-		あなた達は悪魔の背後を横切るように、	You carefully moved across behind the demon,
+212352	+		ゆっくりと砂漠を進む。	advancing slowly through the desert.
 
-212353	Nagata-kun	「やめてー！？」	「Stop it!?」
+212353	Nagata-kun		「やめてー！？」	「Stop it!?」
 
-212354	Nagata-kun	「お前は前回、そんな感じで調子に乗って、	「Last time you got carried away like this
-212355	+	　痛い目に遭ったの忘れたのかよ……！」	　and got hurt, remember...!」
+212354	Nagata-kun		「お前は前回、そんな感じで調子に乗って、	「Last time you got carried away like this
+212355	+		　痛い目に遭ったの忘れたのかよ……！」	　and got hurt, remember...!」
 
-212356	Nagata-kun	「悪魔の中でもなんとなーく強そうな奴だし……	「That demon looks pretty strong even among demons...
-212357	+	　ここは一刻も早く離れるべきだって……」	　We should get away as fast as possible...」
+212356	Nagata-kun		「悪魔の中でもなんとなーく強そうな奴だし……	「That demon looks pretty strong even among demons...
+212357	+		　ここは一刻も早く離れるべきだって……」	　We should get away as fast as possible...」
 
-212358	Nagata-kun	「なんで！？」	「Why!?」
+212358	Nagata-kun		「なんで！？」	「Why!?」
 
-212359	Rocky Bank	「触らぬ神にたたりなしだすよ……	「Better not touch what you shouldn't...
-212360	+	　ここは離れましょうだ……」	　Let's get away...」
+212359	Rocky Bank	とほほ	「触らぬ神にたたりなしだすよ……	「Better not touch what you shouldn't...
+212360	+		　ここは離れましょうだ……」	　Let's get away...」
 
-212361	Nagata-kun	「俺もロッキーさんに賛成！	「I'm with Rocky-san!
-212362	+	　ありゃ見るからにガチでやべーって！」	　That thing looks seriously bad news!」
+212361	Nagata-kun	基本	「俺もロッキーさんに賛成！	「I'm with Rocky-san!
+212362	+		　ありゃ見るからにガチでやべーって！」	　That thing looks seriously bad news!」
 
-212363	Neplacus	「…………」	「............」
+212363	Neplacus		「…………」	「............」
 
-212364	Neplacus	「モ・ニ・カ・イ・ニ・ス・ナ・ミ・チ……」	「Mo... ni... ka... i... ni... su... na... mi... chi...」
+212364	Neplacus		「モ・ニ・カ・イ・ニ・ス・ナ・ミ・チ……」	「Mo... ni... ka... i... ni... su... na... mi... chi...」
 
-212365	-	悪魔の目がはっきりとあなた達を捉えた。	The demon's eyes clearly locked onto your group.
+212365	-		悪魔の目がはっきりとあなた達を捉えた。	The demon's eyes clearly locked onto your group.
 
-212366	Nagata-kun	「ひっ！？	「Eek!?」
-212367	+	　こ、こっち見てるぞ！」	　It's looking this way!」
+212366	Nagata-kun		「ひっ！？	「Eek!?」
+212367	+		　こ、こっち見てるぞ！」	　It's looking this way!」
 
-212368	Rocky Bank	「お、襲ってこない、だすな……	「It... it's not attacking yet...
-212369	+	　今のところ敵意はないみたいだすが……」	　Doesn't seem hostile for now...」
+212368	Rocky Bank		「お、襲ってこない、だすな……	「It... it's not attacking yet...
+212369	+		　今のところ敵意はないみたいだすが……」	　Doesn't seem hostile for now...」
 
-212370	Neplacus	「ナ・カ・カ・ラ・ナ・ト・ニ・ニ、	「Na... ka... ka... ra... na... to... ni... ni,
-212371	+	　ク・チ・モ・ナ・ト・ニ・キ・チ……」	　Ku... chi... mo... na... to... ni... ki... chi...
+212370	Neplacus		「ナ・カ・カ・ラ・ナ・ト・ニ・ニ、	「Na... ka... ka... ra... na... to... ni... ni,
+212371	+		　ク・チ・モ・ナ・ト・ニ・キ・チ……」	　Ku... chi... mo... na... to... ni... ki... chi...
 
-212372	Neplacus	「ト・ニ・ミ・イ！」	　To... ni... mi... i!」
+212372	Neplacus		「ト・ニ・ミ・イ！」	　To... ni... mi... i!」
 
-212373	Nagata-kun	「え、ちょっ！？	「Eh, wait!?
-212374	+	　なんかこっち来るんですけどー！？」	　It's coming this way!」
+212373	Nagata-kun		「え、ちょっ！？	「Eh, wait!?
+212374	+		　なんかこっち来るんですけどー！？」	　It's coming this way!」

@@ -5,86 +5,86 @@
 * Satella	サテラ	Female
 * Masou Shizuka	子供志津香	Female
 
-56744	-	正面から進んでいくと、	As they advanced straight forward,
-56745	+	一万の軍勢が真っ二つに割れ、道が開いた。	the ten-thousand-strong army split neatly in two, opening a path.
+56744	-		正面から進んでいくと、	As they advanced straight forward,
+56745	+		一万の軍勢が真っ二つに割れ、道が開いた。	the ten-thousand-strong army split neatly in two, opening a path.
 
-56746	Rance	「…………ふん」	「............Hmph.」
+56746	Rance	真剣	「…………ふん」	「............Hmph.」
 
-56747	-	軽く鼻を鳴らしただけのランスを先頭に、	With Rance at the lead, who only snorted lightly,
-56748	+	一行はその道を進んでいく。	the group proceeded down the path.
+56747	-		軽く鼻を鳴らしただけのランスを先頭に、	With Rance at the lead, who only snorted lightly,
+56748	+		一行はその道を進んでいく。	the group proceeded down the path.
 
-56749	Lei	「お……来たか」	「Oh... You're here.」
+56749	Lei	基本	「お……来たか」	「Oh... You're here.」
 
-56750	Rance	「コイツがレイか？」	「So this is Lei?」
+56750	Rance		「コイツがレイか？」	「So this is Lei?」
 
-56751	Chaos	「おー……ふむ、間違いないのう。魔人レイじゃ」	「Oh... Yes, no mistake. It's Fiend Lei.」
+56751	Chaos		「おー……ふむ、間違いないのう。魔人レイじゃ」	「Oh... Yes, no mistake. It's Fiend Lei.」
 
-56752	Satella	「レイ。なんでホーネット様じゃなく、	「Lei. Why did you side with Kayblis
-56753	+	　ケイブリスに付いた？　人間が憎いのか」	　instead of Lady Hornet? Do you hate humans?」
+56752	Satella	不安	「レイ。なんでホーネット様じゃなく、	「Lei. Why did you side with Kayblis
+56753	+		　ケイブリスに付いた？　人間が憎いのか」	　instead of Lady Hornet? Do you hate humans?」
 
-56754	Lei	「興味がねェ」	「Not interested.」
+56754	Lei	基本	「興味がねェ」	「Not interested.」
 
-56755	Satella	「……は？」	「...Huh?」
+56755	Satella		「……は？」	「...Huh?」
 
-56756	Lei	「お前らのつまらねェ仲良しごっこにも、	「I'm not interested in your boring friendship games,
-56757	+	　ホーネットのお題目にも、興味がねェんだよ」	　or Hornet's slogans either.」
+56756	Lei		「お前らのつまらねェ仲良しごっこにも、	「I'm not interested in your boring friendship games,
+56757	+		　ホーネットのお題目にも、興味がねェんだよ」	　or Hornet's slogans either.」
 
-56758	Satella	「ッ、なんだと、貴様！	「What did you say, you bastard!
-56759	+	　ホーネット様は、先代魔王の遺志を継いで……！」	　Lady Hornet is carrying on the previous Demon King's will...!」
+56758	Satella	怒り	「ッ、なんだと、貴様！	「What did you say, you bastard!
+56759	+		　ホーネット様は、先代魔王の遺志を継いで……！」	　Lady Hornet is carrying on the previous Demon King's will...!」
 
-56760	Lei	「ガイの野郎の遺言なんぞ、なんのアテになる。	「Gai's last words mean nothing.
-56761	+	　あのペテン師に、お前ら引っかけられてんだよ」	　You lot got tricked by that con man.」
+56760	Lei	基本	「ガイの野郎の遺言なんぞ、なんのアテになる。	「Gai's last words mean nothing.
+56761	+		　あのペテン師に、お前ら引っかけられてんだよ」	　You lot got tricked by that con man.」
 
-56762	Satella	「なんだと、貴様っ……！」	「What did you say...!」
+56762	Satella	怒り	「なんだと、貴様っ……！」	「What did you say...!」
 
-56763	Chaos	「ちーとも変わっとらんのう、レイ」	「You haven't changed at all, Lei.」
+56763	Chaos	基本	「ちーとも変わっとらんのう、レイ」	「You haven't changed at all, Lei.」
 
-56764	Lei	「よう、カオス。ざっと1000年ちょいぶりか」	「Yo, Chaos. It's been roughly a thousand years.」
+56764	Lei		「よう、カオス。ざっと1000年ちょいぶりか」	「Yo, Chaos. It's been roughly a thousand years.」
 
-56765	Lei	「……ヘっ。ガイにノスにアイゼルに……	「...Heh. Gai, Nos, Aizel...
-56766	+	　あの頃はそれなりに楽しかったぜ。	　Those days were pretty fun.
-56767	+	　今はさっぱりだがな」	　Now it's completely boring though.」
+56765	Lei		「……ヘっ。ガイにノスにアイゼルに……	「...Heh. Gai, Nos, Aizel...
+56766	+		　あの頃はそれなりに楽しかったぜ。	　Those days were pretty fun.
+56767	+		　今はさっぱりだがな」	　Now it's completely boring though.」
 
-56768	Chaos	「おうおう、聞いた名だのう。	「Oh yeah, those names sound familiar.
-56769	+	　ぜーんぶ、儂があの世に送ってやったわ。	　I sent every last one of them to the afterlife.
-56770	+	　お前も後を追え」	　You can follow them.」
+56768	Chaos		「おうおう、聞いた名だのう。	「Oh yeah, those names sound familiar.
+56769	+		　ぜーんぶ、儂があの世に送ってやったわ。	　I sent every last one of them to the afterlife.
+56770	+		　お前も後を追え」	　You can follow them.」
 
-56771	Lei	「ほう、できるのか？」	「Oh? You think you can?」
+56771	Lei		「ほう、できるのか？」	「Oh? You think you can?」
 
-56772	Chaos	「無論ロン。さあいけ心の友」	「Of course. Go on, soul friend.」
+56772	Chaos		「無論ロン。さあいけ心の友」	「Of course. Go on, soul friend.」
 
-56773	Rance	「ふん。男の魔人なんぞ、旨みもなんにもない。	「Hmph. Male Fiends have no appeal at all.
-56774	+	　さっさと殺してやろう」	　Let's kill him quickly.」
+56773	Rance		「ふん。男の魔人なんぞ、旨みもなんにもない。	「Hmph. Male Fiends have no appeal at all.
+56774	+		　さっさと殺してやろう」	　Let's kill him quickly.」
 
-56775	Lei	「ふーん、お前がカオスの、ねぇ……」	「Hmm, so you're Chaos's...」
+56775	Lei		「ふーん、お前がカオスの、ねぇ……」	「Hmm, so you're Chaos's...」
 
-56776	-	値踏みするように、髪の奥でレイの視線が動く。	Lei's gaze moved appraisingly from behind his hair.
+56776	-		値踏みするように、髪の奥でレイの視線が動く。	Lei's gaze moved appraisingly from behind his hair.
 
-56777	Lei	「ノスを倒したそうじゃねぇか。	「I heard you defeated Nos.
-56778	+	　マジなら大したモンだが」	　If it's true, that's impressive.」
+56777	Lei		「ノスを倒したそうじゃねぇか。	「I heard you defeated Nos.
+56778	+		　マジなら大したモンだが」	　If it's true, that's impressive.」
 
-56779	Satella	「……本当らしいぞ。	「...It seems to be true.
-56780	+	　サテラも信じられないけど……」	　Even I can hardly believe it...」
+56779	Satella	思考	「……本当らしいぞ。	「...It seems to be true.
+56780	+		　サテラも信じられないけど……」	　Even I can hardly believe it...」
 
-56781	Rance	「あ？　なんだっけそいつ」	「Huh? Who was that again?」
+56781	Rance	だる顔	「あ？　なんだっけそいつ」	「Huh? Who was that again?」
 
-56782	Chaos	「はーーー！？　よくアレを忘れられるな！	「Haaa!? How can you forget that one!
-56783	+	　ドラゴンの魔人じゃよ！　リーザスの時の！」	　The dragon Fiend! From the time in Leazas!」
+56782	Chaos	基本	「はーーー！？　よくアレを忘れられるな！	「Haaa!? How can you forget that one!
+56783	+		　ドラゴンの魔人じゃよ！　リーザスの時の！」	　The dragon Fiend! From the time in Leazas!」
 
-56784	Rance	「…………おお。ジルの時のじじい魔人か。	「............Oh. The old Fiend from Jill's time.
-56785	+	　いや、流石に完全には忘れてなかったぞ」	　Well, I didn't completely forget.」
+56784	Rance		「…………おお。ジルの時のじじい魔人か。	「............Oh. The old Fiend from Jill's time.
+56785	+		　いや、流石に完全には忘れてなかったぞ」	　Well, I didn't completely forget.」
 
-56786	Masou Shizuka	「ものすごく怪しいわね……」	「That's extremely suspicious...」
+56786	Masou Shizuka		「ものすごく怪しいわね……」	「That's extremely suspicious...」
 
-56787	Rance	「うるさい。ジルの印象が強すぎた」	「Shut up. Jill left a stronger impression.」
+56787	Rance	真剣	「うるさい。ジルの印象が強すぎた」	「Shut up. Jill left a stronger impression.」
 
-56788	Lei	「ふん……まあ、マジならちったぁ楽しめるか」	「Hmph... Well, if it's true I might enjoy it a bit.」
+56788	Lei	基本	「ふん……まあ、マジならちったぁ楽しめるか」	「Hmph... Well, if it's true I might enjoy it a bit.」
 
-56789	Chaos	「こっちはか弱い人間じゃ。	「We're just frail humans.
-56790	+	　集団でやらせてもらうぞい」	　We'll fight as a group.」
+56789	Chaos		「こっちはか弱い人間じゃ。	「We're just frail humans.
+56790	+		　集団でやらせてもらうぞい」	　We'll fight as a group.」
 
-56791	Lei	「はっ。好きにしな……」	「Hah. Do as you like...」
+56791	Lei		「はっ。好きにしな……」	「Hah. Do as you like...」
 
-56792	-	レイが、バックルから櫛を抜く。	Lei pulled a comb from his buckle.
+56792	-		レイが、バックルから櫛を抜く。	Lei pulled a comb from his buckle.
 
-56793	Lei	「――――まとめて、叩き潰す！」	「――――I'll crush you all at once!」
+56793	Lei	戦闘時	「――――まとめて、叩き潰す！」	「――――I'll crush you all at once!」

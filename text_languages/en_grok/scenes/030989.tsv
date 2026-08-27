@@ -11,88 +11,88 @@
 * Blue Monster Soldier	汎用魔物兵青	Male
 * Monster General	汎用魔物将軍	Male
 
-44550	Medusa	「あぐ、ッ…………！　ま、さか、ッ……	「Agh...! N-no way...
-44551	+	　そんな、あ、ああぁぁっ……！」	　This can't... Aaaaahhh...!」
+44550	Medusa	敗北	「あぐ、ッ…………！　ま、さか、ッ……	「Agh...! N-no way...
+44551	+		　そんな、あ、ああぁぁっ……！」	　This can't... Aaaaahhh...!」
 
-44552	-	致命的な一撃が、メディウサの胸を貫き通した。	A fatal blow pierced straight through Medusa's chest.
+44552	-		致命的な一撃が、メディウサの胸を貫き通した。	A fatal blow pierced straight through Medusa's chest.
 
-44553	Chaos	「うひょっほーーーーい！　もらったぁぁぁ！」	「Uhyohoooo! Got her!」
+44553	Chaos	基本	「うひょっほーーーーい！　もらったぁぁぁ！」	「Uhyohoooo! Got her!」
 
-44554	Medusa	「か、はああぁッ……う、嘘、うそ、っ……	「K-haaa... L-lie, this is a lie...
-44555	+	　な、にやってんのよ、アレフ……ガルド、ッ……	　What are you doing, Alef...gard...
-44556	+	　たす、けに、ッ……来な、さ…………っ……」	　Help... me...」
+44554	Medusa	敗北	「か、はああぁッ……う、嘘、うそ、っ……	「K-haaa... L-lie, this is a lie...
+44555	+		　な、にやってんのよ、アレフ……ガルド、ッ……	　What are you doing, Alef...gard...
+44556	+		　たす、けに、ッ……来な、さ…………っ……」	　Help... me...」
 
-44557	-	何かを求めるように、空中に手を彷徨わせて……	As if searching for something, her hand wandered in the air...
-44558	+	魔人メディウサは、そのまま事切れた。	and the Fiend Medusa breathed her last.
+44557	-		何かを求めるように、空中に手を彷徨わせて……	As if searching for something, her hand wandered in the air...
+44558	+		魔人メディウサは、そのまま事切れた。	and the Fiend Medusa breathed her last.
 
-44559	Ragnarokarc Super Gandhi	「おっ……おおおおぉぉっ！　仕留めたか……！	「Oh... Ooooooh! We did it...!
-44560	+	　見事だ、ランスよ！」	　Splendid, Rance!」
+44559	Ragnarokarc Super Gandhi	基本	「おっ……おおおおぉぉっ！　仕留めたか……！	「Oh... Ooooooh! We did it...!
+44560	+		　見事だ、ランスよ！」	　Splendid, Rance!」
 
-44561	Rance	「…………ふん。手加減し損ねたわ」	「............Hmph. I held back too much.」
+44561	Rance	だる顔	「…………ふん。手加減し損ねたわ」	「............Hmph. I held back too much.」
 
-44562	Ragnarokarc Super Gandhi	「だが……うむ。だが、これでゼスは救われる。	「But... yes. With this, Zeth is saved.
-44563	+	　犠牲になったゼスの民よ……安らかに眠れ……！」	　People of Zeth who were sacrificed... Rest in peace...!」
+44562	Ragnarokarc Super Gandhi	真剣	「だが……うむ。だが、これでゼスは救われる。	「But... yes. With this, Zeth is saved.
+44563	+		　犠牲になったゼスの民よ……安らかに眠れ……！」	　People of Zeth who were sacrificed... Rest in peace...!」
 
-44564	Kaoru Quincy Kagura	「涙をお拭きになってください、ガンジー様」	「Please wipe your tears, Lord Gandhi.」
+44564	Kaoru Quincy Kagura	基本	「涙をお拭きになってください、ガンジー様」	「Please wipe your tears, Lord Gandhi.」
 
-44565	Galtia	「ようし、勝った勝った。	「Alright, we won.
-44566	+	　……てことは、宴会だな？」	　...So, time for a feast?」
+44565	Galtia		「ようし、勝った勝った。	「Alright, we won.
+44566	+		　……てことは、宴会だな？」	　...So, time for a feast?」
 
-44567	Sill Plain	「うあ……え、えぇと、香ちゃん……」	「Uwa... U-um, Kou-chan...」
+44567	Sill Plain	苦笑	「うあ……え、えぇと、香ちゃん……」	「Uwa... U-um, Kou-chan...」
 
-44568	Oda Kouhime	「は、はい。頑張って作ります、お団子……」	「Y-yes. I'll do my best to make dumplings...」
+44568	Oda Kouhime	武装／苦笑	「は、はい。頑張って作ります、お団子……」	「Y-yes. I'll do my best to make dumplings...」
 
-44569	Sill Plain	「お疲れ様です、ランス様」	「Good work, Rance-sama.」
+44569	Sill Plain	基本	「お疲れ様です、ランス様」	「Good work, Rance-sama.」
 
-44570	Rance	「ふん。お疲れついでだ。	「Hmph. While we're at it.
-44571	+	　ここの魔軍どもにもとどめを刺してやる」	　I'll finish off the remaining Monster Army here too.」
+44570	Rance		「ふん。お疲れついでだ。	「Hmph. While we're at it.
+44571	+		　ここの魔軍どもにもとどめを刺してやる」	　I'll finish off the remaining Monster Army here too.」
 
-44572	Sill Plain	「どうされるんですか？」	「How will you do it?」
+44572	Sill Plain	きょとん	「どうされるんですか？」	「How will you do it?」
 
-44573	Rance	「くくく、とーうぜん、こうだ」	「Kukuku, obviously like this.」
+44573	Rance	基本	「くくく、とーうぜん、こうだ」	「Kukuku, obviously like this.」
 
-44574	Rance	『というわけで、貴様らのボスは綺麗さーっぱり、	『So, your boss has been completely and utterly
-44575	+	　俺様がブッ殺してやったわ！　がははははは！！』	　slaughtered by me! Gahahahahaha!!』
+44574	Rance	笑顔	『というわけで、貴様らのボスは綺麗さーっぱり、	『So, your boss has been completely and utterly
+44575	+		　俺様がブッ殺してやったわ！　がははははは！！』	　slaughtered by me! Gahahahahaha!!』
 
-44576	-	メディウサのいない部屋が大写しにされた	The room with no sign of Medusa was shown in full view
-44577	+	魔法ビジョンの放送は、王都に駐留する魔軍全軍が、	on the magic vision broadcast, and the entire Monster Army stationed in the capital
-44578	+	すぐに知るところとなった。	learned of it immediately.
+44576	-		メディウサのいない部屋が大写しにされた	The room with no sign of Medusa was shown in full view
+44577	+		魔法ビジョンの放送は、王都に駐留する魔軍全軍が、	on the magic vision broadcast, and the entire Monster Army stationed in the capital
+44578	+		すぐに知るところとなった。	learned of it immediately.
 
-44579	Green Monster Soldier	「あ、ああぁぁ、あ……！	「A-aaaah...!
-44580	+	　ま、マジ、かよ……！？」	　For real...!?」
+44579	Green Monster Soldier	基本	「あ、ああぁぁ、あ……！	「A-aaaah...!
+44580	+		　ま、マジ、かよ……！？」	　For real...!?」
 
-44581	Blue Monster Soldier	「いや、嘘だろう……！？	「No way, it can't be...!?
-44582	+	　あのおっかないメディウサ様が、そんな……！」	　That terrifying Lady Medusa...!」
+44581	Blue Monster Soldier		「いや、嘘だろう……！？	「No way, it can't be...!?
+44582	+		　あのおっかないメディウサ様が、そんな……！」	　That terrifying Lady Medusa...!」
 
-44583	Green Monster Soldier	「でっ、でもあの放送……！	「B-but that broadcast...!
-44584	+	　ずっとメディウサ様が使ってた奴じゃねーか！」	　It's the one Lady Medusa always used!」
+44583	Green Monster Soldier		「でっ、でもあの放送……！	「B-but that broadcast...!
+44584	+		　ずっとメディウサ様が使ってた奴じゃねーか！」	　It's the one Lady Medusa always used!」
 
-44585	Galtia	『ちなみに、嘘とかじゃないからなー。	『By the way, this isn't a lie.
-44586	+	　お前らももう戦争とか止めて、メシ食おうぜ』	　You guys should stop the war too and just eat.』
+44585	Galtia		『ちなみに、嘘とかじゃないからなー。	『By the way, this isn't a lie.
+44586	+		　お前らももう戦争とか止めて、メシ食おうぜ』	　You guys should stop the war too and just eat.』
 
-44587	Green Monster Soldier	「ひいいいいいい！！　ガルティア様だ！	「Hiiiiii!! It's Lord Galtia!
-44588	+	　に、人間側に裏切ったってのは本当だったんだ！」	　So he really betrayed us for the humans!」
+44587	Green Monster Soldier		「ひいいいいいい！！　ガルティア様だ！	「Hiiiiii!! It's Lord Galtia!
+44588	+		　に、人間側に裏切ったってのは本当だったんだ！」	　So he really betrayed us for the humans!」
 
-44589	Blue Monster Soldier	「に、逃げろ！　魔人に勝てっこない！	「R-run! We can't beat a Fiend!
-44590	+	　皆殺しにされるぞ！」	　We'll all be slaughtered!」
+44589	Blue Monster Soldier		「に、逃げろ！　魔人に勝てっこない！	「R-run! We can't beat a Fiend!
+44590	+		　皆殺しにされるぞ！」	　We'll all be slaughtered!」
 
-44591	Monster General	「ええい、なんということだ！	「Damn it, what is this!
-44592	+	　と、とにかく、軍を整えて、王宮を……！」	　A-anyway, reorganize the army and defend the palace...!」
+44591	Monster General		「ええい、なんということだ！	「Damn it, what is this!
+44592	+		　と、とにかく、軍を整えて、王宮を……！」	　A-anyway, reorganize the army and defend the palace...!」
 
-44593	Green Monster Soldier	「将軍様！　大変です！	「General! It's terrible!
-44594	+	　に、人間の軍が！　押し入ってきます！」	　The human army! They're breaking in!」
+44593	Green Monster Soldier		「将軍様！　大変です！	「General! It's terrible!
+44594	+		　に、人間の軍が！　押し入ってきます！」	　The human army! They're breaking in!」
 
-44595	Monster General	「なんだと！？　防衛に当たってた連中は……」	「What!? What about the defenders...
+44595	Monster General		「なんだと！？　防衛に当たってた連中は……」	「What!? What about the defenders...
 
-44596	Green Monster Soldier	「さ、さっきの放送で、士気が崩壊したようで……	「After that broadcast, their morale collapsed...
-44597	+	　既に囲まれています！」	　We're already surrounded!」
+44596	Green Monster Soldier		「さ、さっきの放送で、士気が崩壊したようで……	「After that broadcast, their morale collapsed...
+44597	+		　既に囲まれています！」	　We're already surrounded!」
 
-44598	Monster General	「ば、ばかな…………	「Impossible............
-44599	+	　ツォトン様に、何と申し上げれば……」	　What am I supposed to tell Lord Zedong...
+44598	Monster General		「ば、ばかな…………	「Impossible............
+44599	+		　ツォトン様に、何と申し上げれば……」	　What am I supposed to tell Lord Zedong...
 
-44600	-	絶望的な呟きに、遠くの爆発音が重なった。	A distant explosion overlapped with the despairing mutter.
+44600	-		絶望的な呟きに、遠くの爆発音が重なった。	A distant explosion overlapped with the despairing mutter.
 
-44601	-	一度崩れた魔軍に、それを立て直す術はなく。	Once broken, the Monster Army had no way to recover.
+44601	-		一度崩れた魔軍に、それを立て直す術はなく。	Once broken, the Monster Army had no way to recover.
 
-44602	-	王都ラグナロックアークは、	The royal capital Ragnarok Arc
-44603	+	しばらくぶりに本来の主を迎えた。	welcomed its rightful owners once more.
+44602	-		王都ラグナロックアークは、	The royal capital Ragnarok Arc
+44603	+		しばらくぶりに本来の主を迎えた。	welcomed its rightful owners once more.

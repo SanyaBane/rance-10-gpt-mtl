@@ -7,67 +7,67 @@
 * Satella	サテラ	Female
 * Caesar	シーザー	Male
 
-64922	Rance	「ん……なんだ？」	「Nn... What's this?」
+64922	Rance	基本	「ん……なんだ？」	「Nn... What's this?」
 
-64923	-	一行が進んでいると、	As the group advanced,
-64924	+	道ばたに大量の箱が積み上がっていた。	they found a large pile of boxes by the roadside.
-64925	+	パケット達は、なぜかそれに近寄らない。	The Packets strangely avoided getting close to it.
+64923	-		一行が進んでいると、	As the group advanced,
+64924	+		道ばたに大量の箱が積み上がっていた。	they found a large pile of boxes by the roadside.
+64925	+		パケット達は、なぜかそれに近寄らない。	The Packets strangely avoided getting close to it.
 
-64926	Rance	「……宝か？　どれどれ…………うわっ」	「...Treasure? Let's see... Whoa.」
+64926	Rance	だる顔	「……宝か？　どれどれ…………うわっ」	「...Treasure? Let's see... Whoa.」
 
-64927	Kentou Kanami	「写真…………？　こんなにいっぱい……」	「Photos...? So many of them...」
+64927	Kentou Kanami	ジト目	「写真…………？　こんなにいっぱい……」	「Photos...? So many of them...」
 
-64928	-	出てきたのは、同じ場所だけを映した写真だった。	What came out were photos all of the same location.
-64929	+	それがいくつもの箱にぎっしりと詰まっている。	They were packed tightly into multiple boxes.
+64928	-		出てきたのは、同じ場所だけを映した写真だった。	What came out were photos all of the same location.
+64929	+		それがいくつもの箱にぎっしりと詰まっている。	They were packed tightly into multiple boxes.
 
-64930	Rance	「なんだこりゃ？」	「What the hell is this?」
+64930	Rance	だる顔	「なんだこりゃ？」	「What the hell is this?」
 
-64931	Sill Plain	「あ、これ……ハイパービル、じゃないでしょうか。	「Ah, this... isn't it Hyperville?
-64932	+	　ずっと同じ場所のばっかり……」	　All the same place over and over...」
+64931	Sill Plain	基本	「あ、これ……ハイパービル、じゃないでしょうか。	「Ah, this... isn't it Hyperville?
+64932	+		　ずっと同じ場所のばっかり……」	　All the same place over and over...」
 
-64933	Maria Custard	「30分おきに撮ってあるみたい……	「They seem to be taken every 30 minutes...
-64934	+	　誰が撮ったのかしら？」	　Who took them?」
+64933	Maria Custard		「30分おきに撮ってあるみたい……	「They seem to be taken every 30 minutes...
+64934	+		　誰が撮ったのかしら？」	　Who took them?」
 
-64935	Masou Shizuka	「徘徊してるバグも映ってる……	「There are wandering bugs in them too...
-64936	+	　自動で撮って、残してるんじゃない？」	　Maybe it's automatically recording and storing them?」
+64935	Masou Shizuka		「徘徊してるバグも映ってる……	「There are wandering bugs in them too...
+64936	+		　自動で撮って、残してるんじゃない？」	　Maybe it's automatically recording and storing them?」
 
-64937	Rance	「……なんでだ？」	「...Why?」
+64937	Rance	だる顔	「……なんでだ？」	「...Why?」
 
-64938	Masou Shizuka	「分かるわけないでしょ」	「How would I know?」
+64938	Masou Shizuka	基本	「分かるわけないでしょ」	「How would I know?」
 
-64939	Satella	「ふん……どうでもいいものばかりだな。	「Hmph... All worthless stuff.
-64940	+	　そんなのより、何か…………」	　Instead of this, something...」
+64939	Satella	不安	「ふん……どうでもいいものばかりだな。	「Hmph... All worthless stuff.
+64940	+		　そんなのより、何か…………」	　Instead of this, something...」
 
-64941	Rance	「ぶっ！　がはははははは！」	「Pfft! Gahahahahahaha!」
+64941	Rance	笑顔	「ぶっ！　がはははははは！」	「Pfft! Gahahahahahaha!」
 
-64942	Satella	「な、なんだ騒々しい！」	「W-what's with the noise!」
+64942	Satella	怒り	「な、なんだ騒々しい！」	「W-what's with the noise!」
 
-64943	Rance	「ほれこれ。サテラが映ってるぞ」	「Look at this. There's Satella in it.」
+64943	Rance	笑顔	「ほれこれ。サテラが映ってるぞ」	「Look at this. There's Satella in it.」
 
-64944	Satella	「な、なんだと！？」	「W-what!?」
+64944	Satella	怒り	「な、なんだと！？」	「W-what!?」
 
-64945	-	写真には、今よりやや若いランスが	The photo showed a slightly younger Rance
-64946	+	サテラを組み敷いている姿があった。	pinning Satella down.
+64945	-		写真には、今よりやや若いランスが	The photo showed a slightly younger Rance
+64946	+		サテラを組み敷いている姿があった。	pinning Satella down.
 
-64947	Satella	「う、ぐ、あ、な、こ、これは、っ……！」	「U-gu-ah, t-this is...!」
+64947	Satella	あほー	「う、ぐ、あ、な、こ、これは、っ……！」	「U-gu-ah, t-this is...!」
 
-64948	Rance	「悪い子だったサテラを	「This is me properly punishing
-64949	+	　俺様がばっちりお仕置きしてやった所だな」	　a naughty Satella.」
+64948	Rance	基本	「悪い子だったサテラを	「This is me properly punishing
+64949	+		　俺様がばっちりお仕置きしてやった所だな」	　a naughty Satella.」
 
-64950	Satella	「ぐ、ぐ、ぐぬぬぬ……！」	「G-gnunu...!」
+64950	Satella	ぐぬぬ	「ぐ、ぐ、ぐぬぬぬ……！」	「G-gnunu...!」
 
-64951	Caesar~	（イシス……）	（Isis...）
+64951	Caesar~	基本	（イシス……）	（Isis...）
 
-64952	Rance	「がはははは、懐かしいな。あの時も……」	「Gahahaha, nostalgic. Back then too...」
+64952	Rance	笑顔	「がはははは、懐かしいな。あの時も……」	「Gahahaha, nostalgic. Back then too...」
 
-64953	Satella	「黙れ黙れ黙れ！　お前の以前の狼藉を、	「Shut up shut up shut up! Don't forget
-64954	+	　サテラが寛大にも許してやっているんだという事を	　that Satella has generously forgiven
-64955	+	　忘れるんじゃないぞ！」	　your previous atrocities!」
+64953	Satella	ツンデレ	「黙れ黙れ黙れ！　お前の以前の狼藉を、	「Shut up shut up shut up! Don't forget
+64954	+		　サテラが寛大にも許してやっているんだという事を	　that Satella has generously forgiven
+64955	+		　忘れるんじゃないぞ！」	　your previous atrocities!」
 
-64956	Kentou Kanami	「こっちはゼスの風景ね……」	「This side is scenery from Zeth...」
+64956	Kentou Kanami	基本	「こっちはゼスの風景ね……」	「This side is scenery from Zeth...」
 
-64957	Masou Shizuka	「ゼスはセンサー地蔵で記録してるって言うし。	「They say Zeth records everything with sensor statues.
-64958	+	　それの記録なのかも」	　Maybe these are from that.」
+64957	Masou Shizuka		「ゼスはセンサー地蔵で記録してるって言うし。	「They say Zeth records everything with sensor statues.
+64958	+		　それの記録なのかも」	　Maybe these are from that.」
 
-64959	Maria Custard	「こんな、膨大で雑多な情報が…………	「Such a massive amount of random information...
-64960	+	　この世界に、どれくらいあるのかしら……」	　How much of it is stored in this world...?」
+64959	Maria Custard	あかんわ	「こんな、膨大で雑多な情報が…………	「Such a massive amount of random information...
+64960	+		　この世界に、どれくらいあるのかしら……」	　How much of it is stored in this world...?」

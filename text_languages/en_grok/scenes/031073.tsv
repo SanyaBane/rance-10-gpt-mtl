@@ -2,10 +2,10 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 
-49414	Rance	「……仕方ない。腹も減ったし、そろそろ帰るか。	「...Can't be helped. I'm hungry too, let's head back.
-49415	+	　ふん、昼飯前の軽い運動だったな」	　Hmph, just some light exercise before lunch.」
+49414	Rance	基本	「……仕方ない。腹も減ったし、そろそろ帰るか。	「...Can't be helped. I'm hungry too, let's head back.
+49415	+		　ふん、昼飯前の軽い運動だったな」	　Hmph, just some light exercise before lunch.」
 
-49416	Sill Plain	「はい、ランス様。では撤退ですね」	「Yes, Rance-sama. We'll retreat then.」
+49416	Sill Plain		「はい、ランス様。では撤退ですね」	「Yes, Rance-sama. We'll retreat then.」
 
-49417	-	ランス達は一時撤退し、	Rance and his party temporarily retreated
-49418	+	ラグナロックアークへと帰投した。	and returned to Ragnarok Arc.
+49417	-		ランス達は一時撤退し、	Rance and his party temporarily retreated
+49418	+		ラグナロックアークへと帰投した。	and returned to Ragnarok Arc.

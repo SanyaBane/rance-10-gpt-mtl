@@ -5,70 +5,70 @@
 * Sill Plain	シィル	Female
 * Satella	サテラ	Female
 
-64440	Rance	「出てこないならもういい。標的変更だ」	「If he won't come out, whatever. Changing targets.」
+64440	Rance	だる顔	「出てこないならもういい。標的変更だ」	「If he won't come out, whatever. Changing targets.」
 
-64441	Maria Custard	「どうするの？」	「What now?」
+64441	Maria Custard	基本	「どうするの？」	「What now?」
 
-64442	Rance	「魔物大将軍をぶち殺す。	「I'll kill the Great Monster General.
-64443	+	　ここの大将軍はどいつだ？」	　Which one is the Great General here?」
+64442	Rance		「魔物大将軍をぶち殺す。	「I'll kill the Great Monster General.
+64443	+		　ここの大将軍はどいつだ？」	　Which one is the Great General here?」
 
-64444	Masou Shizuka	「ピサロって名前よ。本拠地はアイスみたいだけど」	「His name is Pizarro. His base seems to be in Ice.」
+64444	Masou Shizuka		「ピサロって名前よ。本拠地はアイスみたいだけど」	「His name is Pizarro. His base seems to be in Ice.」
 
-64445	Rance	「よし、明日から、アイスに侵入する手段を考える。	「Alright, starting tomorrow we'll plan how to invade Ice.
-64446	+	　今日は解散」	　Dismissed for today.」
+64445	Rance		「よし、明日から、アイスに侵入する手段を考える。	「Alright, starting tomorrow we'll plan how to invade Ice.
+64446	+		　今日は解散」	　Dismissed for today.」
 
-64447	-	会議は終わり、各自が席を立つ。	The meeting ended and everyone stood up.
+64447	-		会議は終わり、各自が席を立つ。	The meeting ended and everyone stood up.
 
-64448	Sill Plain	「お疲れ様でした、ランス様」	「Good work, Rance-sama.」
+64448	Sill Plain		「お疲れ様でした、ランス様」	「Good work, Rance-sama.」
 
-64449	Rance	「ああ…………ふわ。	「Yeah... Fwa.
-64450	+	　今日はもう寝るか……」	　I'm going to sleep now...」
+64449	Rance	だる顔	「ああ…………ふわ。	「Yeah... Fwa.
+64450	+		　今日はもう寝るか……」	　I'm going to sleep now...」
 
-64451	Rance	「お、サテラ。今夜付き合わないか」	「Oh, Satella. Want to join me tonight?」
+64451	Rance	基本	「お、サテラ。今夜付き合わないか」	「Oh, Satella. Want to join me tonight?」
 
-64452	Satella	「今夜……？　なんだ、作戦会議か」	「Tonight...? What, a strategy meeting?」
+64452	Satella		「今夜……？　なんだ、作戦会議か」	「Tonight...? What, a strategy meeting?」
 
-64453	Rance	「おう、夜の作戦会議だ。うひひ」	「Yeah, a night strategy meeting. Uhehe.」
+64453	Rance	エロ顔	「おう、夜の作戦会議だ。うひひ」	「Yeah, a night strategy meeting. Uhehe.」
 
-64454	Satella	「……………………？	「........................?」
-64455	?	　…………あっ！」	　............Ah!」
+64454	Satella	基本	「……………………？	「........................?」
+64455	?		　…………あっ！」	　............Ah!」
 
-64456	Rance	「ぐふふふ、綿密にやらないとな」	「Gufufu, we need to plan it thoroughly.」
+64456	Rance	エロ顔	「ぐふふふ、綿密にやらないとな」	「Gufufu, we need to plan it thoroughly.」
 
-64457	Satella	「ば、ば、ば、ばかもの！	「I-idiot!
-64458	+	　サテラが、そんな、娼婦みたいな真似をするか！」	　Would Satella do something like a whore!」
+64457	Satella	ツンデレ	「ば、ば、ば、ばかもの！	「I-idiot!
+64458	+		　サテラが、そんな、娼婦みたいな真似をするか！」	　Would Satella do something like a whore!」
 
-64459	Rance	「ふーん、なーんだ。じゃあいい」	「Hmm, I see. Then never mind.」
+64459	Rance	だる顔	「ふーん、なーんだ。じゃあいい」	「Hmm, I see. Then never mind.」
 
-64460	Satella	「え？」	「Eh?」
+64460	Satella	超テレ	「え？」	「Eh?」
 
-64461	Rance	「おーい、マリア。今夜空いてるか」	「Hey Maria. Free tonight?」
+64461	Rance	基本	「おーい、マリア。今夜空いてるか」	「Hey Maria. Free tonight?」
 
-64462	Maria Custard	「空いてはいないんだけどなぁ……」	「I'm not free, but...」
+64462	Maria Custard		「空いてはいないんだけどなぁ……」	「I'm not free, but...」
 
-64463	Rance	「総統様の相手も立派な仕事だぞ。	「Serving the Supreme Leader is an important job too.
-64464	+	　さあ…………」	　So...」
+64463	Rance		「総統様の相手も立派な仕事だぞ。	「Serving the Supreme Leader is an important job too.
+64464	+		　さあ…………」	　So...」
 
-64465	Satella	「っ、ちょっと待て！」	「W-wait a second!」
+64465	Satella	ツンデレ	「っ、ちょっと待て！」	「W-wait a second!」
 
-64466	Rance	「ん？　どうした」	「Nn? What is it?」
+64466	Rance	基本	「ん？　どうした」	「Nn? What is it?」
 
-64467	Satella	「へ、変な事をしないなら……	「If you don't do anything weird...
-64468	+	　相談には、乗ってやる」	　I'll... consult with you.」
+64467	Satella	ぐぬぬ	「へ、変な事をしないなら……	「If you don't do anything weird...
+64468	+		　相談には、乗ってやる」	　I'll... consult with you.」
 
-64469	Rance	「なんだ、嫌なんじゃなかったのか」	「What, I thought you didn't want to.」
+64469	Rance	基本	「なんだ、嫌なんじゃなかったのか」	「What, I thought you didn't want to.」
 
-64470	Satella	「お前はサテラの使徒なんだぞ！	「You are Satella's apostle!
-64471	+	　見苦しい真似をさせてたら、それはサテラの恥だ」	　Letting you do something shameful would be Satella's shame.」
+64470	Satella	ツンデレ	「お前はサテラの使徒なんだぞ！	「You are Satella's apostle!
+64471	+		　見苦しい真似をさせてたら、それはサテラの恥だ」	　Letting you do something shameful would be Satella's shame.」
 
-64472	Rance	「がははは、それならそういう事にしてやろう。	「Gahahaha, then let's go with that.
-64473	+	　たっぷり相談するとしよう」	　Let's consult thoroughly.」
+64472	Rance	笑顔	「がははは、それならそういう事にしてやろう。	「Gahahaha, then let's go with that.
+64473	+		　たっぷり相談するとしよう」	　Let's consult thoroughly.」
 
-64474	Maria Custard	「…………こうなると思った。	「...I knew it would turn out like this.
-64475	+	　当てつけに使わないでよね、もう……」	　Don't use me as a prop anymore...」
+64474	Maria Custard	あかんわ	「…………こうなると思った。	「...I knew it would turn out like this.
+64475	+		　当てつけに使わないでよね、もう……」	　Don't use me as a prop anymore...」
 
-64476	Satella	「まったく、あまり恥をさらすんじゃないぞ。	「Seriously, don't embarrass yourself too much.
-64477	+	　世話の焼ける使徒だ！」	　What a troublesome apostle!」
+64476	Satella	ツンデレ	「まったく、あまり恥をさらすんじゃないぞ。	「Seriously, don't embarrass yourself too much.
+64477	+		　世話の焼ける使徒だ！」	　What a troublesome apostle!」
 
-64478	-	もちろん、サテラは夜になって、	Of course, when night came,
-64479	+	たっぷりと恥ずかしい目に遭った。	Satella was thoroughly embarrassed.
+64478	-		もちろん、サテラは夜になって、	Of course, when night came,
+64479	+		たっぷりと恥ずかしい目に遭った。	Satella was thoroughly embarrassed.

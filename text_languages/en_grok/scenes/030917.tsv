@@ -4,163 +4,163 @@
 * Sill Plain	シィル	Female
 * Magic the Gandhi	マジック	Female
 
-39118	-	ランス達は、臨時首都マークへ進んでいく。	Rance and the others headed toward the temporary capital, Mark.
+39118	-		ランス達は、臨時首都マークへ進んでいく。	Rance and the others headed toward the temporary capital, Mark.
 
-39119	Kentou Kanami	「…………ん。ランス、ちょっと待って」	「............Hm. Rance, wait a moment.」
+39119	Kentou Kanami	基本	「…………ん。ランス、ちょっと待って」	「............Hm. Rance, wait a moment.」
 
-39120	Rance	「あん？」	「Huh?」
+39120	Rance	だる顔	「あん？」	「Huh?」
 
-39121	-	ランス達に同行していた見当かなみが、	Kanami, who was traveling with them,
-39122	+	ふいに足を止めた。	suddenly stopped.
+39121	-		ランス達に同行していた見当かなみが、	Kanami, who was traveling with them,
+39122	+		ふいに足を止めた。	suddenly stopped.
 
-39123	Kentou Kanami	「すぐ戻ると思うから。動かないでいて」	「I'll be right back. Stay here.」
+39123	Kentou Kanami	基本	「すぐ戻ると思うから。動かないでいて」	「I'll be right back. Stay here.」
 
-39124	-	言い置いて、かなみは手近な木陰に駆け込んだ。	After saying that, Kanami dashed into a nearby thicket.
+39124	-		言い置いて、かなみは手近な木陰に駆け込んだ。	After saying that, Kanami dashed into a nearby thicket.
 
-39125	Rance	「…………なんだあいつ。	「............What's with her.
-39126	+	　あんなマジ顔してトイレか？」	　Making such a serious face just to take a piss?」
+39125	Rance	真剣	「…………なんだあいつ。	「............What's with her.
+39126	+		　あんなマジ顔してトイレか？」	　Making such a serious face just to take a piss?」
 
-39127	Sill Plain	「違うと思いますけど……	「I don't think that's it...
-39128	+	　ほら、誰か……もう一人いますよ」	　Look, there's someone... another person over there.」
+39127	Sill Plain	慌て	「違うと思いますけど……	「I don't think that's it...
+39128	+		　ほら、誰か……もう一人いますよ」	　Look, there's someone... another person over there.」
 
-39129	Rance	「む？　遠くてよく見えんが……男か？」	「Hm? It's too far to see clearly... a man?」
+39129	Rance	真剣	「む？　遠くてよく見えんが……男か？」	「Hm? It's too far to see clearly... a man?」
 
-39130	Sill Plain	「えと、そう……じゃないでしょうか。	「Um, yes... I think it's a man.
-39131	+	　背の高い、男の人……」	　A tall man...」
+39130	Sill Plain	考え中	「えと、そう……じゃないでしょうか。	「Um, yes... I think it's a man.
+39131	+		　背の高い、男の人……」	　A tall man...」
 
-39132	-	訝しげなランス達の視線を受けながら、	While receiving the suspicious gazes of Rance and the others,
-39133	+	かなみはすぐに戻ってきた。	Kanami quickly returned.
+39132	-		訝しげなランス達の視線を受けながら、	While receiving the suspicious gazes of Rance and the others,
+39133	+		かなみはすぐに戻ってきた。	Kanami quickly returned.
 
-39134	Rance	「なんだかなみ。浮気か、逢い引きか、密会か。	「What was that, Kanami? Cheating? A secret meeting? A rendezvous?
-39135	+	　俺の目の前でやらかすとは大胆だな」	　Pretty bold to do it right in front of me.」
+39134	Rance	基本	「なんだかなみ。浮気か、逢い引きか、密会か。	「What was that, Kanami? Cheating? A secret meeting? A rendezvous?
+39135	+		　俺の目の前でやらかすとは大胆だな」	　Pretty bold to do it right in front of me.」
 
-39136	Kentou Kanami	「は、はああぁっ！？　ち、違うわよ！	「H-Haaah!? N-No, that's not it!
-39137	+	　あの人、アサシンだったの！　ゼスの！」	　That person was an assassin! From Zeth!」
+39136	Kentou Kanami	うがー	「は、はああぁっ！？　ち、違うわよ！	「H-Haaah!? N-No, that's not it!
+39137	+		　あの人、アサシンだったの！　ゼスの！」	　That person was an assassin! From Zeth!」
 
-39138	Rance	「アサシン？　ていうと、フレイアみたいな……」	「An assassin? You mean like Freya...」
+39138	Rance	だる顔	「アサシン？　ていうと、フレイアみたいな……」	「An assassin? You mean like Freya...」
 
-39139	Kentou Kanami	「そう、密偵よ。届けものを渡しにきたの。	「Yes, a spy. He came to deliver something.
-39140	+	　それだけ」	　That's all.」
+39139	Kentou Kanami	基本	「そう、密偵よ。届けものを渡しにきたの。	「Yes, a spy. He came to deliver something.
+39140	+		　それだけ」	　That's all.」
 
-39141	Rance	「かなみにか？」	「To you?」
+39141	Rance	だる顔	「かなみにか？」	「To you?」
 
-39142	Kentou Kanami	「ランスによ。万が一もあるし、	「To you, Rance. Just in case,
-39143	+	　代わりに受け取っただけ」	　I accepted it for you.」
+39142	Kentou Kanami	基本	「ランスによ。万が一もあるし、	「To you, Rance. Just in case,
+39143	+		　代わりに受け取っただけ」	　I accepted it for you.」
 
-39144	Rance	「なーんだ。じゃあ寄越せ」	「Oh, is that all. Hand it over then.」
+39144	Rance		「なーんだ。じゃあ寄越せ」	「Oh, is that all. Hand it over then.」
 
-39145	-	かなみが手にしていたものをさっと取り上げる。	Rance quickly snatched the item from Kanami's hand.
+39145	-		かなみが手にしていたものをさっと取り上げる。	Rance quickly snatched the item from Kanami's hand.
 
-39146	Kentou Kanami	「え、えと……ランス？」	「U-Um... Rance?」
+39146	Kentou Kanami	ジト目	「え、えと……ランス？」	「U-Um... Rance?」
 
-39147	Rance	「ん？」	「Hm?」
+39147	Rance	基本	「ん？」	「Hm?」
 
-39148	-	顔を少し赤らめて、かなみがランスの袖を引く。	Blushing slightly, Kanami tugged on Rance's sleeve.
+39148	-		顔を少し赤らめて、かなみがランスの袖を引く。	Blushing slightly, Kanami tugged on Rance's sleeve.
 
-39149	Kentou Kanami	「その……私、絶対無いからね。	「Um... I definitely didn't do anything like that.
-39150	+	　う、浮気とか……そういうの……」	　C-Cheating or... anything like that...」
+39149	Kentou Kanami	ジト目	「その……私、絶対無いからね。	「Um... I definitely didn't do anything like that.
+39150	+		　う、浮気とか……そういうの……」	　C-Cheating or... anything like that...」
 
-39151	Rance	「おお、分かってる分かってる。	「Yeah yeah, I know, I know.
-39152	+	　かなみは可愛いなー」	　You're so cute, Kanami.」
+39151	Rance	基本	「おお、分かってる分かってる。	「Yeah yeah, I know, I know.
+39152	+		　かなみは可愛いなー」	　You're so cute, Kanami.」
 
-39153	Kentou Kanami	「ひゃっ！」	「Hya!」
+39153	Kentou Kanami		「ひゃっ！」	「Hya!」
 
-39154	-	ランスが適当に頭を撫でると、	When Rance casually patted her head,
-39155	+	かなみはふにゃふにゃと身を捩らせた。	Kanami squirmed happily.
+39154	-		ランスが適当に頭を撫でると、	When Rance casually patted her head,
+39155	+		かなみはふにゃふにゃと身を捩らせた。	Kanami squirmed happily.
 
-39156	Kentou Kanami~	（あ……信頼されてるんだ、私……	（Ah... He trusts me...）
-39157	+	　それに、また可愛いって……えへへ……）	（And he called me cute again... ehehe...）
+39156	Kentou Kanami~	安い女	（あ……信頼されてるんだ、私……	（Ah... He trusts me...）
+39157	+		　それに、また可愛いって……えへへ……）	（And he called me cute again... ehehe...）
 
-39158	Rance~	（こんなのでコロリといくんだからなー。	（She falls for it so easily with this.）
-39159	+	　隠し事なんかできんだろうなぁ……）	（No way she could hide anything from me...）
+39158	Rance~	基本	（こんなのでコロリといくんだからなー。	（She falls for it so easily with this.）
+39159	+		　隠し事なんかできんだろうなぁ……）	（No way she could hide anything from me...）
 
-39160	Rance	「さて……なんだこれ」	「Now then... what's this?」
+39160	Rance	だる顔	「さて……なんだこれ」	「Now then... what's this?」
 
-39161	-	ランスが受け取ったのは、	What Rance received was
-39162	+	手のひらサイズの箱のようなものだった。	a palm-sized box-like object.
+39161	-		ランスが受け取ったのは、	What Rance received was
+39162	+		手のひらサイズの箱のようなものだった。	a palm-sized box-like object.
 
-39163	Sill Plain	「あ……これ、たぶん魔法電話です」	「Ah... this is probably a magic phone.」
+39163	Sill Plain	考え中	「あ……これ、たぶん魔法電話です」	「Ah... this is probably a magic phone.」
 
-39164	Rance	「魔法電話？　もっとでかかったような……」	「Magic phone? I thought they were bigger...」
+39164	Rance	真剣	「魔法電話？　もっとでかかったような……」	「Magic phone? I thought they were bigger...」
 
-39165	-	　	　
-39166	+	　　＜ジリリリリリ＞	　　＜Riiiing＞
+39165	-		　	　
+39166	+		　　＜ジリリリリリ＞	　　＜Riiiing＞
 
-39167	Rance	「おわっ、鳴り始めた！」	「Whoa, it's ringing！」
+39167	Rance	驚き	「おわっ、鳴り始めた！」	「Whoa, it's ringing！」
 
-39168	-	ランスは慌てて通話のスイッチを入れた。	Rance hurriedly answered the call.
+39168	-		ランスは慌てて通話のスイッチを入れた。	Rance hurriedly answered the call.
 
-39169	Rance	「俺様だ。誰だ貴様」	「It's me. Who the hell are you?」
+39169	Rance	基本	「俺様だ。誰だ貴様」	「It's me. Who the hell are you?」
 
-39170	Magic the Gandhi	『……私よ、ランス』	『...It's me, Rance.』
+39170	Magic the Gandhi		『……私よ、ランス』	『...It's me, Rance.』
 
-39171	Rance	「なんだ、マジックか」	「Oh, it's Magic.」
+39171	Rance		「なんだ、マジックか」	「Oh, it's Magic.」
 
-39172	Magic the Gandhi	『やっとゼスに来てくれたのね。	『You finally came to Zeth.
-39173	+	　今、どこ？　その……まだ、着かない？』	　Where are you now? Um... you haven't arrived yet?』
+39172	Magic the Gandhi	思考	『やっとゼスに来てくれたのね。	『You finally came to Zeth.
+39173	+		　今、どこ？　その……まだ、着かない？』	　Where are you now? Um... you haven't arrived yet?』
 
-39174	Rance	「もう数日はかかるぞ。	「It'll take a few more days.
-39175	+	　街道は魔軍の連中に捕捉されるからって、	　We can't use ox carts because the roads are being watched by the Monster Army,
-39176	+	　うし車が使えんのだ」	　so we're going on foot.」
+39174	Rance	基本	「もう数日はかかるぞ。	「It'll take a few more days.
+39175	+		　街道は魔軍の連中に捕捉されるからって、	　We can't use ox carts because the roads are being watched by the Monster Army,
+39176	+		　うし車が使えんのだ」	　so we're going on foot.」
 
-39177	Magic the Gandhi	『っ……そう、それはそう、ね。	『...I see, that's true.
-39178	+	　今その場所だとすると……まだかかるか……』	　At your current location... it'll still take time...』
+39177	Magic the Gandhi	思考	『っ……そう、それはそう、ね。	『...I see, that's true.
+39178	+		　今その場所だとすると……まだかかるか……』	　At your current location... it'll still take time...』
 
-39179	Rance	「ん。場所が分かってるのか？」	「Yeah. You can track our location?」
+39179	Rance	基本	「ん。場所が分かってるのか？」	「Yeah. You can track our location?」
 
-39180	Magic the Gandhi	『ゼス全土には、センサー地蔵があるから。	『We have sensor Jizo statues all over Zeth.
-39181	+	　敵も味方も、だいたいの動きは把握できるわ』	　We can roughly track the movements of both enemies and allies.』
+39180	Magic the Gandhi		『ゼス全土には、センサー地蔵があるから。	『We have sensor Jizo statues all over Zeth.
+39181	+		　敵も味方も、だいたいの動きは把握できるわ』	　We can roughly track the movements of both enemies and allies.』
 
-39182	Rance	「ほう、便利だな。……いや待て、じゃあまさか、	「Huh, that's convenient. ...Wait a minute, does that mean
-39183	+	　俺が道中でセックスしている所まで覗き見を……」	　you've been watching me fuck on the way here...?」
+39182	Rance		「ほう、便利だな。……いや待て、じゃあまさか、	「Huh, that's convenient. ...Wait a minute, does that mean
+39183	+		　俺が道中でセックスしている所まで覗き見を……」	　you've been watching me fuck on the way here...?」
 
-39184	Magic the Gandhi	『……っ、してるわけないでしょ！	『...Of course not!
-39185	+	　そもそも、そんな所まで分かんないわよ！』	　We can't see that much detail anyway!』
+39184	Magic the Gandhi	うがー	『……っ、してるわけないでしょ！	『...Of course not!
+39185	+		　そもそも、そんな所まで分かんないわよ！』	　We can't see that much detail anyway!』
 
-39186	Rance	「おわっ！」	「Whoa!」
+39186	Rance	驚き	「おわっ！」	「Whoa!」
 
-39187	-	耳元で怒鳴り声が上がって、	A loud shout blasted in his ear,
-39188	+	ランスは反射的に受話器を遠ざける。	and Rance instinctively pulled the receiver away.
+39187	-		耳元で怒鳴り声が上がって、	A loud shout blasted in his ear,
+39188	+		ランスは反射的に受話器を遠ざける。	and Rance instinctively pulled the receiver away.
 
-39189	Magic the Gandhi	『まったく……いつまで経っても	『Honestly... no matter how much time passes
-39190	+	　変わらないんだから……』	　you never change...』
+39189	Magic the Gandhi	目閉じ	『まったく……いつまで経っても	『Honestly... no matter how much time passes
+39190	+		　変わらないんだから……』	　you never change...』
 
-39191	Rance	「なんだお前。まだ俺を更正させて	「What the hell. Are you still thinking
-39192	+	　ゼス王にしようとか考えてるのか」	　of reforming me and making me King of Zeth?」
+39191	Rance	だる顔	「なんだお前。まだ俺を更正させて	「What the hell. Are you still thinking
+39192	+		　ゼス王にしようとか考えてるのか」	　of reforming me and making me King of Zeth?」
 
-39193	Magic the Gandhi	『当たり前でしょ。	『Of course.
-39194	+	　予定とはちょっと違うことになってるけど……	　Things didn't go exactly as planned, but...
-39195	+	　子供の教育にも悪いし』	　It's bad for the children's education too.』
+39193	Magic the Gandhi	基本	『当たり前でしょ。	『Of course.
+39194	+		　予定とはちょっと違うことになってるけど……	　Things didn't go exactly as planned, but...
+39195	+		　子供の教育にも悪いし』	　It's bad for the children's education too.』
 
-39196	Rance~	（その理屈でいくと、	（By that logic,
-39197	+	　ガキどもの数だけ重婚しなけりゃならんのか……）	　I'd have to marry as many women as I have kids...）
+39196	Rance~	だる顔	（その理屈でいくと、	（By that logic,
+39197	+		　ガキどもの数だけ重婚しなけりゃならんのか……）	　I'd have to marry as many women as I have kids...）
 
-39198	Magic the Gandhi	『その辺り、魔軍の占領下だけど……	『That area is under Monster Army occupation, but...
-39199	+	　間違っても、捕捉されないでね』	　Make sure you don't get caught.』
+39198	Magic the Gandhi	基本	『その辺り、魔軍の占領下だけど……	『That area is under Monster Army occupation, but...
+39199	+		　間違っても、捕捉されないでね』	　Make sure you don't get caught.』
 
-39200	Rance	「がはははは。そのくらい、俺様には余裕だ。	「Gahahahaha. That's easy for me.
-39201	+	　身体を洗って待ってるがいい」	　Just wash up and wait for me.」
+39200	Rance	笑顔	「がはははは。そのくらい、俺様には余裕だ。	「Gahahahaha. That's easy for me.
+39201	+		　身体を洗って待ってるがいい」	　Just wash up and wait for me.」
 
-39202	Magic the Gandhi	『な、何する気よ！　こんな時に……	『W-What are you planning!? At a time like this...
-39203	+	　とにかく…………その、待ってるから』	　Anyway... I'll be waiting.』
+39202	Magic the Gandhi	孤軍奮闘	『な、何する気よ！　こんな時に……	『W-What are you planning!? At a time like this...
+39203	+		　とにかく…………その、待ってるから』	　Anyway... I'll be waiting.』
 
-39204	-	ぷつっと音がして、通話は切れた。	With a click, the call ended.
+39204	-		ぷつっと音がして、通話は切れた。	With a click, the call ended.
 
-39205	Rance	「……マジックの奴、ちょっと声が震えてたか」	「...Magic's voice was shaking a bit.」
+39205	Rance	真剣	「……マジックの奴、ちょっと声が震えてたか」	「...Magic's voice was shaking a bit.」
 
-39206	Sill Plain	「え……そうなんですか」	「Eh... really?」
+39206	Sill Plain	慌て	「え……そうなんですか」	「Eh... really?」
 
-39207	Kentou Kanami	「ゼスも、けっこうやられてるみたいだし……	「Zeth seems to be in pretty bad shape too...
-39208	+	　大変なのかもね」	　It must be tough.」
+39207	Kentou Kanami	基本	「ゼスも、けっこうやられてるみたいだし……	「Zeth seems to be in pretty bad shape too...
+39208	+		　大変なのかもね」	　It must be tough.」
 
-39209	Rance	「ガンジーの野郎がやたらに張り切ってそうだな……	「That Gandhi guy seems overly eager...
-39210	+	　着いたら着いたでうるさそうだ」	　It's gonna be noisy when we arrive.」
+39209	Rance	だる顔	「ガンジーの野郎がやたらに張り切ってそうだな……	「That Gandhi guy seems overly eager...
+39210	+		　着いたら着いたでうるさそうだ」	　It's gonna be noisy when we arrive.」
 
-39211	Sill Plain	「ふふふ、きっとランス様を歓迎してくれますよ」	「Fufu, I'm sure they'll welcome you warmly, Rance-sama.」
+39211	Sill Plain	基本	「ふふふ、きっとランス様を歓迎してくれますよ」	「Fufu, I'm sure they'll welcome you warmly, Rance-sama.」
 
-39212	Kentou Kanami	「仲良いもんね……」	「You two are close...」
+39212	Kentou Kanami		「仲良いもんね……」	「You two are close...」
 
-39213	Rance	「良いわけあるか、アホ」	「The hell we are, idiot.」
+39213	Rance	イライラ	「良いわけあるか、アホ」	「The hell we are, idiot.」
 
-39214	-	少しだけ歩調を上げて、	Picking up the pace slightly,
-39215	+	ランス一行は臨時首都への旅を再開した。	Rance's party resumed their journey to the temporary capital.
+39214	-		少しだけ歩調を上げて、	Picking up the pace slightly,
+39215	+		ランス一行は臨時首都への旅を再開した。	Rance's party resumed their journey to the temporary capital.

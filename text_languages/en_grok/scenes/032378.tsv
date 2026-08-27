@@ -2,70 +2,70 @@
 * LeMay	大将軍ルメイ	Male
 * Monster General	汎用魔物将軍	Male
 
-145493	-	魔物大将軍の部屋に、	In the room of the Great Monster General,
-145494	+	バボラ敗北の報が届いた。	news of Babolat's defeat arrived.
+145493	-		魔物大将軍の部屋に、	In the room of the Great Monster General,
+145494	+		バボラ敗北の報が届いた。	news of Babolat's defeat arrived.
 
-145495	LeMay	「そうか……バボラが殺されたか……」	「I see... Babolat was killed...」
+145495	LeMay	基本	「そうか……バボラが殺されたか……」	「I see... Babolat was killed...」
 
-145496	Monster General	「予想外の事態ですね……	「An unexpected situation...
-145497	+	　人間が魔人を殺す手段は、	　The only ways humans can kill Fiends
-145498	+	　魔剣カオスと聖刀日光のみの筈」	　should be the Demon Sword Chaos and the Holy Sword Nikkou.」
+145496	Monster General		「予想外の事態ですね……	「An unexpected situation...
+145497	+		　人間が魔人を殺す手段は、	　The only ways humans can kill Fiends
+145498	+		　魔剣カオスと聖刀日光のみの筈」	　should be the Demon Sword Chaos and the Holy Sword Nikkou.」
 
-145499	Monster General	「魔剣カオスを持つ者がいるという噂、	「The rumor that someone has the Demon Sword Chaos
-145500	+	　事実だったということでしょう……」	　seems to be true...」
+145499	Monster General		「魔剣カオスを持つ者がいるという噂、	「The rumor that someone has the Demon Sword Chaos
+145500	+		　事実だったということでしょう……」	　seems to be true...」
 
-145501	Monster General	「軍内も予想外の事態に浮き足立っています。	「The army is also shaken by this unexpected event.
-145502	+	　人間軍に魔人を殺す手があるとしたら、	　If the human army has a way to kill Fiends,
-145503	+	　少し宜しくないですね……」	　that's a bit problematic...」
+145501	Monster General		「軍内も予想外の事態に浮き足立っています。	「The army is also shaken by this unexpected event.
+145502	+		　人間軍に魔人を殺す手があるとしたら、	　If the human army has a way to kill Fiends,
+145503	+		　少し宜しくないですね……」	　that's a bit problematic...」
 
-145504	LeMay	「宜しくない？　なにを言ってる」	「Problematic? What are you saying?」
+145504	LeMay		「宜しくない？　なにを言ってる」	「Problematic? What are you saying?」
 
-145505	Monster General	「は？」	「Huh?」
+145505	Monster General		「は？」	「Huh?」
 
-145506	-	大将軍ルメイは呆れたように鼻を鳴らした。	Great General LeMay snorted in exasperation.
+145506	-		大将軍ルメイは呆れたように鼻を鳴らした。	Great General LeMay snorted in exasperation.
 
-145507	LeMay	「窮地こそが何よりの好機だ」	「A crisis is the greatest opportunity.」
+145507	LeMay		「窮地こそが何よりの好機だ」	「A crisis is the greatest opportunity.」
 
-145508	LeMay	「――私が出世する為のな」	「――For my promotion.」
+145508	LeMay		「――私が出世する為のな」	「――For my promotion.」
 
-145509	LeMay	「ふふっ、バボラが死んでくれた分、	「Fufu, with Babolat dead,
-145510	+	　私の働きはより良く	　my achievements will shine even brighter
-145511	+	　ケイブリス様の目に映ることだろう」	　in Kayblis-sama's eyes.」
+145509	LeMay		「ふふっ、バボラが死んでくれた分、	「Fufu, with Babolat dead,
+145510	+		　私の働きはより良く	　my achievements will shine even brighter
+145511	+		　ケイブリス様の目に映ることだろう」	　in Kayblis-sama's eyes.」
 
-145512	LeMay	「ケッセルリンク様にはご用心をと手紙を。	「Send a letter to Kesselring-sama warning him to be careful.
-145513	+	　それとそうだな、護衛専属部隊でも送って	　Also, send a dedicated escort unit
-145514	+	　ご機嫌取りもしておけ」	　to curry favor as well.」
+145512	LeMay		「ケッセルリンク様にはご用心をと手紙を。	「Send a letter to Kesselring-sama warning him to be careful.
+145513	+		　それとそうだな、護衛専属部隊でも送って	　Also, send a dedicated escort unit
+145514	+		　ご機嫌取りもしておけ」	　to curry favor as well.」
 
-145515	Monster General	「兵達はどうしますか？	「What about the soldiers?
-145516	+	　すっかり落ち着きを失っておりますが」	　They're completely losing composure.」
+145515	Monster General		「兵達はどうしますか？	「What about the soldiers?
+145516	+		　すっかり落ち着きを失っておりますが」	　They're completely losing composure.」
 
-145517	LeMay	「魔剣カオスの存在は事実かも知れんが、	「The Demon Sword Chaos may exist,
-145518	+	　だからどうしたのだと言っておけ」	　but so what? Tell them that.」
+145517	LeMay		「魔剣カオスの存在は事実かも知れんが、	「The Demon Sword Chaos may exist,
+145518	+		　だからどうしたのだと言っておけ」	　but so what? Tell them that.」
 
-145519	LeMay	「バボラが……	「Babolat...
-145520	+	　便利な道具が一つなくなったところで、	　just one convenient tool gone,
-145521	+	　だからなんだ、とな」	　that's all.」
+145519	LeMay		「バボラが……	「Babolat...
+145520	+		　便利な道具が一つなくなったところで、	　just one convenient tool gone,
+145521	+		　だからなんだ、とな」	　that's all.」
 
-145522	LeMay	「カオスを使ってるのはただの人間なのだろう？」	「The one using Chaos is just a human, right?」
+145522	LeMay		「カオスを使ってるのはただの人間なのだろう？」	「The one using Chaos is just a human, right?」
 
-145523	LeMay	「なら、何を恐れることがある」	「Then what is there to fear.」
+145523	LeMay		「なら、何を恐れることがある」	「Then what is there to fear.」
 
-145524	LeMay	「……飛行魔物兵による、	「...The flying monster soldiers'
-145525	+	　火炎爆撃作戦の準備も整った」	　flame bombing operation is ready.」
+145524	LeMay		「……飛行魔物兵による、	「...The flying monster soldiers'
+145525	+		　火炎爆撃作戦の準備も整った」	　flame bombing operation is ready.」
 
-145526	LeMay	「人間軍が今から何かしたところで、	「Even if the human army does something now,
-145527	+	　それはただの悪あがきにしか過ぎん」	　it's nothing but a futile struggle.」
+145526	LeMay		「人間軍が今から何かしたところで、	「Even if the human army does something now,
+145527	+		　それはただの悪あがきにしか過ぎん」	　it's nothing but a futile struggle.」
 
-145528	LeMay	「くくく、必ずやヘルマン全土の人間を	「Kukuku, I will definitely exterminate
-145529	+	　炎で絶滅させてやる」	　all humans in Helman with flames.」
+145528	LeMay		「くくく、必ずやヘルマン全土の人間を	「Kukuku, I will definitely exterminate
+145529	+		　炎で絶滅させてやる」	　all humans in Helman with flames.」
 
-145530	LeMay	「さあ、そんなことよりも、	「Now, more importantly,
-145531	+	　今回の混乱により変更された	　due to this chaos the troop redeployment
-145532	+	　兵の再配置をしなければ」	　has changed, so we must adjust.」
+145530	LeMay		「さあ、そんなことよりも、	「Now, more importantly,
+145531	+		　今回の混乱により変更された	　due to this chaos the troop redeployment
+145532	+		　兵の再配置をしなければ」	　has changed, so we must adjust.」
 
-145533	Monster General	「はっ」	「Yes.」
+145533	Monster General		「はっ」	「Yes.」
 
-145534	-	魔軍はバボラの死にも揺らぐことなく	The Monster Army, unshaken by Babolat's death,
-145535	+	人間虐殺の手を進めて行く。	continues its human extermination.
+145534	-		魔軍はバボラの死にも揺らぐことなく	The Monster Army, unshaken by Babolat's death,
+145535	+		人間虐殺の手を進めて行く。	continues its human extermination.
 
-145536	-	ヘルマンにおける戦いはまだ始まったばかりである。	The battle in Helman has only just begun.
+145536	-		ヘルマンにおける戦いはまだ始まったばかりである。	The battle in Helman has only just begun.

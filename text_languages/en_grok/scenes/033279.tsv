@@ -7,132 +7,132 @@
 * Nagata-kun	長田君２	Male
 * Reset Kalar	リセット２	Female
 
-221741	-	あなた達は不吉な空気が漂う	You all advanced step by step
-221742	+	死国を一歩一歩進んで行く。	through the Land of the Dead filled with ominous air.
+221741	-		あなた達は不吉な空気が漂う	You all advanced step by step
+221742	+		死国を一歩一歩進んで行く。	through the Land of the Dead filled with ominous air.
 
-221743	Gigai	「ククク……」	「Kukuku...」
+221743	Gigai	基本	「ククク……」	「Kukuku...」
 
-221744	-	何故か使徒を連れて。	For some reason accompanied by an apostle.
+221744	-		何故か使徒を連れて。	For some reason accompanied by an apostle.
 
-221745	-	戯骸は何を考えているのか、	Gigai, with unknown intentions,
-221746	+	何か嬉しそうににやにやしながら、	grinned happily
-221747	+	あなたの顔を見つめていた。	while staring at your face.
+221745	-		戯骸は何を考えているのか、	Gigai, with unknown intentions,
+221746	+		何か嬉しそうににやにやしながら、	grinned happily
+221747	+		あなたの顔を見つめていた。	while staring at your face.
 
 > male
-221748	Gigai	「はーっ、そんでお前が＜エール＞かあ。	「Haa, so you're ＜エール＞.
-221749	+	　ザンスや乱義に比べると似てないなぁ」	　You don't look much like Zance or Rangi.」
+221748	Gigai		「はーっ、そんでお前が＜エール＞かあ。	「Haa, so you're ＜エール＞.
+221749	+		　ザンスや乱義に比べると似てないなぁ」	　You don't look much like Zance or Rangi.」
 
 > female
-221750	Gigai	「はーっ、そんでお前が＜エール＞かあ。	「Haa, so you're ＜エール＞.
-221751	+	　はははは、宜しくなぁ」	　Hahaha, nice to meet ya.」
+221750	Gigai		「はーっ、そんでお前が＜エール＞かあ。	「Haa, so you're ＜エール＞.
+221751	+		　はははは、宜しくなぁ」	　Hahaha, nice to meet ya.」
 
 > end
-221752	Yamamoto Rangi	「…………」	「............」
+221752	Yamamoto Rangi		「…………」	「............」
 
-221753	Yamamoto Rangi	「戯骸さん、一ついいですか？」	「Gigai-san, may I ask one thing?」
+221753	Yamamoto Rangi	説明するよ	「戯骸さん、一ついいですか？」	「Gigai-san, may I ask one thing?」
 
-221754	Gigai	「お、どした？」	「Oh, what is it?」
+221754	Gigai	基本	「お、どした？」	「Oh, what is it?」
 
-221755	Yamamoto Rangi	「はっきりと言いますが、	「I'll be direct,
-221756	+	　私は貴方を信用していません」	　I do not trust you.」
+221755	Yamamoto Rangi		「はっきりと言いますが、	「I'll be direct,
+221756	+		　私は貴方を信用していません」	　I do not trust you.」
 
-221757	Yamamoto Rangi	「敵意がないのなら見逃しますが、	「If you have no hostile intent, I'll overlook you,
-221758	+	　そうでないのなら……」	　but if not...」
+221757	Yamamoto Rangi		「敵意がないのなら見逃しますが、	「If you have no hostile intent, I'll overlook you,
+221758	+		　そうでないのなら……」	　but if not...」
 
-221759	Yamamoto Rangi	「私が優しいのは仲間、部下、国民、家族――	「I am kind only to comrades, subordinates, citizens, family一一
-221760	+	　つまり身内に対してのみです」	　in other words, only to my own people.」
+221759	Yamamoto Rangi		「私が優しいのは仲間、部下、国民、家族――	「I am kind only to comrades, subordinates, citizens, family一一
+221760	+		　つまり身内に対してのみです」	　in other words, only to my own people.」
 
-221761	Yamamoto Rangi	「敵に容赦はしませんよ」	「I show no mercy to enemies.」
+221761	Yamamoto Rangi		「敵に容赦はしませんよ」	「I show no mercy to enemies.」
 
-221762	-	視線だけで人が射殺せそうな、冷たい瞳。	Cold eyes that seemed capable of killing with a glance.
-221763	+	乱義が戯骸を睨みつける。	Rangi glared at Gigai.
+221762	-		視線だけで人が射殺せそうな、冷たい瞳。	Cold eyes that seemed capable of killing with a glance.
+221763	+		乱義が戯骸を睨みつける。	Rangi glared at Gigai.
 
-221764	Gigai	「……ッ」	「...!」
+221764	Gigai		「……ッ」	「...!」
 
-221765	Gigai	「くっっっ、	「Kuhhh,
-221766	?	はーーーーーっ！	Haaaa!
-221767	+	　いいねぇ、その目！　その態度！	　I like it! Those eyes! That attitude!
-221768	+	　あの男を思い出すぜ！」	　It reminds me of that man!」
+221765	Gigai		「くっっっ、	「Kuhhh,
+221766	?		はーーーーーっ！	Haaaa!
+221767	+		　いいねぇ、その目！　その態度！	　I like it! Those eyes! That attitude!
+221768	+		　あの男を思い出すぜ！」	　It reminds me of that man!」
 
-221769	Yamamoto Rangi	「…………」	「............」
+221769	Yamamoto Rangi		「…………」	「............」
 
-221770	Yamamoto Rangi	「はあ……」	「Haa...」
+221770	Yamamoto Rangi	ため息	「はあ……」	「Haa...」
 
-221771	Gigai	「おっ、その顔もいいねー。	「Oh, that face is good too.
-221772	+	　何度見てもお前の親父思い出すぜ。	　No matter how many times I see it, it reminds me of your dad.
-221773	+	　顔を理知的にした感じっつーかなー」	　Like a more intellectual version.」
+221771	Gigai	基本	「おっ、その顔もいいねー。	「Oh, that face is good too.
+221772	+		　何度見てもお前の親父思い出すぜ。	　No matter how many times I see it, it reminds me of your dad.
+221773	+		　顔を理知的にした感じっつーかなー」	　Like a more intellectual version.」
 
-221774	Yamamoto Rangi	「……すみませんが、	「...I'm sorry, but
-221775	+	　僕にそういう趣味はありません」	　I don't have that kind of preference.」
+221774	Yamamoto Rangi	説明するよ	「……すみませんが、	「...I'm sorry, but
+221775	+		　僕にそういう趣味はありません」	　I don't have that kind of preference.」
 
-221776	Yamamoto Rangi	「そういうのはザンスの方が好きですよ」	「Zance is more into that kind of thing.」
+221776	Yamamoto Rangi	カッコつけ	「そういうのはザンスの方が好きですよ」	「Zance is more into that kind of thing.」
 
-221777	Gigai	「ほう、そうなのか？」	「Oh, is that so?」
+221777	Gigai	基本	「ほう、そうなのか？」	「Oh, is that so?」
 
-221778	Zance Leazas	「アァン！？　テメェ！	「Haan!? You!
-221779	+	　こっちに押しつけてんじゃねーぞ！」	　Don't push that on me!」
+221778	Zance Leazas	怒り	「アァン！？　テメェ！	「Haan!? You!
+221779	+		　こっちに押しつけてんじゃねーぞ！」	　Don't push that on me!」
 
-221780	Yamamoto Rangi	「いいだろう、別に」	「It's fine, isn't it?」
+221780	Yamamoto Rangi	基本	「いいだろう、別に」	「It's fine, isn't it?」
 
-221781	Zance Leazas	「いいわけねぇだろうが！	「No it's not!
-221782	+	　テメェは変なとこ、やること雑だな！」	　You're sloppy in weird places!」
+221781	Zance Leazas	怒り	「いいわけねぇだろうが！	「No it's not!
+221782	+		　テメェは変なとこ、やること雑だな！」	　You're sloppy in weird places!」
 
-221783	Zance Leazas	「ハッ、大体そーゆー話はJAPANのお家芸だろ」	「Hah, that kind of talk is JAPAN's specialty anyway.」
+221783	Zance Leazas	基本	「ハッ、大体そーゆー話はJAPANのお家芸だろ」	「Hah, that kind of talk is JAPAN's specialty anyway.」
 
-221784	Yamamoto Rangi	「はあ？」	「Haa?」
+221784	Yamamoto Rangi		「はあ？」	「Haa?」
 
-221785	Zance Leazas	「JAPANってホモのメッカだろ。	「JAPAN is the mecca of homosexuality.
-221786	+	　衆道は将軍の嗜みって聞くぜ？」	　I've heard shudo is a general's hobby.」
+221785	Zance Leazas	微笑み	「JAPANってホモのメッカだろ。	「JAPAN is the mecca of homosexuality.
+221786	+		　衆道は将軍の嗜みって聞くぜ？」	　I've heard shudo is a general's hobby.」
 
-221787	Yamamoto Rangi	「誤解を招くような言い方をするな！」	「Don't say things that cause misunderstandings!」
+221787	Yamamoto Rangi	怒り	「誤解を招くような言い方をするな！」	「Don't say things that cause misunderstandings!」
 
-221788	Zance Leazas	「あっ、テメェ、女みてぇな見た目してっし、	「Ah, you look kinda girly,
-221789	+	　実はそーゆー経験あんじゃねーのか？	　you've probably had that kind of experience, right?
-221790	+	　ぎゃははははははは！」	　Gyahahahahaha!」
+221788	Zance Leazas	笑い	「あっ、テメェ、女みてぇな見た目してっし、	「Ah, you look kinda girly,
+221789	+		　実はそーゆー経験あんじゃねーのか？	　you've probably had that kind of experience, right?
+221790	+		　ぎゃははははははは！」	　Gyahahahahaha!」
 
-221791	Yamamoto Rangi	「あまり下劣なことを言うと、	「If you keep saying such vulgar things,
-221792	+	　弟と言えど斬り捨てるぞ……」	　I'll cut you down even if you're my brother...」
+221791	Yamamoto Rangi	怒り	「あまり下劣なことを言うと、	「If you keep saying such vulgar things,
+221792	+		　弟と言えど斬り捨てるぞ……」	　I'll cut you down even if you're my brother...」
 
-221793	Zance Leazas	「アァ！？	「Haa!?」
-221794	+	　俺を弟扱いしてんじゃねーぞ！」	　Don't treat me like your little brother!」
+221793	Zance Leazas		「アァ！？	「Haa!?」
+221794	+		　俺を弟扱いしてんじゃねーぞ！」	　Don't treat me like your little brother!」
 
-221795	Gigai	「はっ！　はははははははは！	「Hah! Hahahahahahaha!
-221796	+	　おもしれー奴らだな、お前ら！」	　You guys are interesting!」
+221795	Gigai	喜び	「はっ！　はははははははは！	「Hah! Hahahahahahaha!
+221796	+		　おもしれー奴らだな、お前ら！」	　You guys are interesting!」
 
-221797	Zance Leazas	「ちょっとテメェは黙ってろ！」	「You shut up for a bit!」
+221797	Zance Leazas	怒り	「ちょっとテメェは黙ってろ！」	「You shut up for a bit!」
 
-221798	Yamamoto Rangi	「……はあ」	「...Haa」
+221798	Yamamoto Rangi	ため息	「……はあ」	「...Haa」
 
-221799	Nagi su Ragarl	「アハハハ、あの二人は相変わらずだねぇ」	「Ahahaha, those two never change.」
+221799	Nagi su Ragarl	笑顔	「アハハハ、あの二人は相変わらずだねぇ」	「Ahahaha, those two never change.」
 
-221800	Masou Shizuka	「ほら、＜エール＞、ゴー。	「Here, ＜エール＞, go.
-221801	+	　止めてきて」	　Go stop them.」
+221800	Masou Shizuka	基本	「ほら、＜エール＞、ゴー。	「Here, ＜エール＞, go.
+221801	+		　止めてきて」	　Go stop them.」
 
-221802	Nagata-kun	「無茶ぶりじゃないすか、それ！？」	「Isn't that asking too much!?」
+221802	Nagata-kun		「無茶ぶりじゃないすか、それ！？」	「Isn't that asking too much!?」
 
-221803	-	あなたは志津香に命じられるまま、	As ordered by Shizuka,
-221804	+	二人の間にまあまあと入っていった。	you stepped between the two to mediate.
+221803	-		あなたは志津香に命じられるまま、	As ordered by Shizuka,
+221804	+		二人の間にまあまあと入っていった。	you stepped between the two to mediate.
 
-221805	Reset Kalar	「くすくすくす……」	「Kusukusu...」
+221805	Reset Kalar	笑顔	「くすくすくす……」	「Kusukusu...」
 
-221806	Gigai	「ん、どした、嬢ちゃん。	「Hm, what's up, young lady.
-221807	+	　嬉しそうに笑って」	　You're smiling happily.」
+221806	Gigai	基本	「ん、どした、嬢ちゃん。	「Hm, what's up, young lady.
+221807	+		　嬉しそうに笑って」	　You're smiling happily.」
 
-221808	Reset Kalar	「んー……	「Hmm...
-221809	+	　乱義ちゃんとザンスちゃん、	　Rangi-chan and Zance-chan
-221810	+	　いつも通りになってきたなーって」	　are back to normal.」
+221808	Reset Kalar		「んー……	「Hmm...
+221809	+		　乱義ちゃんとザンスちゃん、	　Rangi-chan and Zance-chan
+221810	+		　いつも通りになってきたなーって」	　are back to normal.」
 
-221811	Reset Kalar	「あの二人、本当に仲が悪いから、	「Those two really don't get along,
-221812	+	　久し振りに再会するとちっとも会話しないの」	　so when they reunite they barely talk at first.」
+221811	Reset Kalar		「あの二人、本当に仲が悪いから、	「Those two really don't get along,
+221812	+		　久し振りに再会するとちっとも会話しないの」	　so when they reunite they barely talk at first.」
 
-221813	Reset Kalar	「えへへ、戯骸さんのおかげかな」	「Ehehe, maybe thanks to Gigai-san.」
+221813	Reset Kalar	笑顔	「えへへ、戯骸さんのおかげかな」	「Ehehe, maybe thanks to Gigai-san.」
 
-221814	Gigai	「はーっ、そんな小っこいのに、	「Haa, even though you're so small,
-221815	+	　ちゃんとねーちゃんしてるねー」	　you're acting like a proper big sister.」
+221814	Gigai	基本	「はーっ、そんな小っこいのに、	「Haa, even though you're so small,
+221815	+		　ちゃんとねーちゃんしてるねー」	　you're acting like a proper big sister.」
 
-221816	Reset Kalar	「えへへ、そうかな、そうかな」	「Ehehe, you think so?」
+221816	Reset Kalar	笑顔	「えへへ、そうかな、そうかな」	「Ehehe, you think so?」
 
-221817	Nagata-kun	「…………」	「............」
+221817	Nagata-kun	基本	「…………」	「............」
 
-221818	Nagata-kun	「なに話してるか分からないけど、	「I don't know what they're talking about,
-221819	+	　なんかリセットさんとホモが仲良くなってる……」	　but Reset-san and the homo are getting along...」
+221818	Nagata-kun		「なに話してるか分からないけど、	「I don't know what they're talking about,
+221819	+		　なんかリセットさんとホモが仲良くなってる……」	　but Reset-san and the homo are getting along...」

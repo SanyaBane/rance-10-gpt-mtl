@@ -6,117 +6,117 @@
 * Rance Castle Knight	汎用ランス城騎士	Female
 * Apache	アパッチ	Male
 
-246063	Muscle	「ちいっ！　厄介なことになっちまったァ！」	「Tch! This has become a real pain!」
+246063	Muscle	基本	「ちいっ！　厄介なことになっちまったァ！」	「Tch! This has become a real pain!」
 
-246064	-	マエリータ隊が警報の鳴り響く	The Maelita Squad runs through
-246065	+	ランス城の廊下を走り抜ける。	the corridors of Rance Castle where alarms blare.
+246064	-		マエリータ隊が警報の鳴り響く	The Maelita Squad runs through
+246065	+		ランス城の廊下を走り抜ける。	the corridors of Rance Castle where alarms blare.
 
-246066	Needle	「ただいまっと！」	「I'm back!」
+246066	Needle		「ただいまっと！」	「I'm back!」
 
-246067	Muscle	「おう、ニードル！　偵察ご苦労！	「Yo Needle! Good work on reconnaissance!
-246068	+	　城内の様子はどうだ！？」	　How's it looking inside the castle!?」
+246067	Muscle		「おう、ニードル！　偵察ご苦労！	「Yo Needle! Good work on reconnaissance!
+246068	+		　城内の様子はどうだ！？」	　How's it looking inside the castle!?」
 
-246069	Needle	「それこそ蜂の巣を引っ繰り返したような大騒ぎよ！	「It's a huge mess like someone kicked a hornet's nest!
-246070	+	　一階ロビーには行かない方がいいよ！	　Better not go to the first floor lobby!
-246071	+	　人間共が集まってる！」	　The humans are all gathering there!」
+246069	Needle		「それこそ蜂の巣を引っ繰り返したような大騒ぎよ！	「It's a huge mess like someone kicked a hornet's nest!
+246070	+		　一階ロビーには行かない方がいいよ！	　Better not go to the first floor lobby!
+246071	+		　人間共が集まってる！」	　The humans are all gathering there!」
 
-246072	Muscle	「一階ロビーか……	「First floor lobby huh...
-246073	+	　どう思う、学者」	　What do you think, Scholar?」
+246072	Muscle		「一階ロビーか……	「First floor lobby huh...
+246073	+		　どう思う、学者」	　What do you think, Scholar?」
 
-246074	Muscle	「俺達の狙い、つまり魔王を	「Our target, the Demon King,
-246075	+	　守ってるって線はねぇか？」	　they're probably guarding her right?」
+246074	Muscle		「俺達の狙い、つまり魔王を	「Our target, the Demon King,
+246075	+		　守ってるって線はねぇか？」	　they're probably guarding her right?」
 
-246076	Scholar	「いえ、向こうもまだ私達に	「No, they shouldn't have fully responded to us yet...
-246077	+	　対応しきれてはいない筈……	
-246078	+	　ここは上を目指します」	　We'll head upwards.」
+246076	Scholar		「いえ、向こうもまだ私達に	「No, they shouldn't have fully responded to us yet...
+246077	+		　対応しきれてはいない筈……	
+246078	+		　ここは上を目指します」	　We'll head upwards.」
 
-246079	Muscle	「了解！」	「Roger!」
+246079	Muscle		「了解！」	「Roger!」
 
-246080	Muscle	「――っとォ！　人間発見！」	「--Whoa! Humans spotted!」
+246080	Muscle		「――っとォ！　人間発見！」	「--Whoa! Humans spotted!」
 
-246081	-	廊下を曲がった先には、	Around the corner of the hallway,
-246082	+	城の衛兵がズラリと並んでいた。	castle guards stood lined up in a row.
+246081	-		廊下を曲がった先には、	Around the corner of the hallway,
+246082	+		城の衛兵がズラリと並んでいた。	castle guards stood lined up in a row.
 
-246083	Sanakia Drelshkaf	「来たな……侵入者……」	「You've come... intruders...」
+246083	Sanakia Drelshkaf	真剣	「来たな……侵入者……」	「You've come... intruders...」
 
-246084	Sanakia Drelshkaf	「クルーチェ……仇は討つからな……」	「Krutche... I'll avenge you...」
+246084	Sanakia Drelshkaf		「クルーチェ……仇は討つからな……」	「Krutche... I'll avenge you...」
 
-246085	Rance Castle Knight	「団長、クルーチェさん死んでません……」	「Captain, Krutche-san isn't dead...」
+246085	Rance Castle Knight	基本	「団長、クルーチェさん死んでません……」	「Captain, Krutche-san isn't dead...」
 
-246086	Sanakia Drelshkaf	「傷つけられた彼女の名誉の	「I'm saying I'll avenge
-246087	+	　仇を討つと言ってるんだ！」	　her wounded honor!」
+246086	Sanakia Drelshkaf	真剣	「傷つけられた彼女の名誉の	「I'm saying I'll avenge
+246087	+		　仇を討つと言ってるんだ！」	　her wounded honor!」
 
-246088	Sanakia Drelshkaf	「ランス城騎士団の底力！	「The true power of the Rance Castle Knight Order!
-246089	+	　見せてやるんだ！」	　We'll show it to them!」
+246088	Sanakia Drelshkaf	怒り	「ランス城騎士団の底力！	「The true power of the Rance Castle Knight Order!
+246089	+		　見せてやるんだ！」	　We'll show it to them!」
 
-246090	Rance Castle Knight	「は、はいっ！」	「Y-Yes!」
+246090	Rance Castle Knight	基本	「は、はいっ！」	「Y-Yes!」
 
-246091	Rance Castle Knight~	（あうあう、	（Auu auu,
-246092	+	　クルーチェさんいなくて大丈夫かなぁ……）	　will we be okay without Krutche-san...?）
+246091	Rance Castle Knight~	泣き	（あうあう、	（Auu auu,
+246092	+		　クルーチェさんいなくて大丈夫かなぁ……）	　will we be okay without Krutche-san...?）
 
-246093	Muscle	「ヒューッ、やる気満々。	「Whew, they're really pumped up.
-246094	+	　どうする、学者」	　What now, Scholar?」
+246093	Muscle	基本	「ヒューッ、やる気満々。	「Whew, they're really pumped up.
+246094	+		　どうする、学者」	　What now, Scholar?」
 
-246095	Scholar	「逃げ続けてもいずれ追い込まれるだけ。	「Running forever will just get us cornered eventually.
-246096	+	　このまま正面から打ち崩します」	　We'll break through head-on.」
+246095	Scholar		「逃げ続けてもいずれ追い込まれるだけ。	「Running forever will just get us cornered eventually.
+246096	+		　このまま正面から打ち崩します」	　We'll break through head-on.」
 
-246097	Muscle	「そうこなくっちゃ！」	「That's what I like to hear!」
+246097	Muscle		「そうこなくっちゃ！」	「That's what I like to hear!」
 
-246098	Muscle	「オラ、行くぜ行くぜ行くぜ！	「Ora, let's go let's go let's go!
-246099	+	　死にたくねー奴は道を空けろォ！」	　Anyone who doesn't wanna die, get outta the way!」
+246098	Muscle		「オラ、行くぜ行くぜ行くぜ！	「Ora, let's go let's go let's go!
+246099	+		　死にたくねー奴は道を空けろォ！」	　Anyone who doesn't wanna die, get outta the way!」
 
-246100	Sanakia Drelshkaf	「ランス城騎士団！　団長！	「Rance Castle Knight Order! Captain!
-246101	+	　サーナキア・ドレルシュカフ！」	　Sanakia Drelshkaf!」
+246100	Sanakia Drelshkaf	真剣	「ランス城騎士団！　団長！	「Rance Castle Knight Order! Captain!
+246101	+		　サーナキア・ドレルシュカフ！」	　Sanakia Drelshkaf!」
 
-246102	Sanakia Drelshkaf	「参る！」	「Here I come!」
+246102	Sanakia Drelshkaf		「参る！」	「Here I come!」
 
-246103	Muscle	「そいやぁ！！！！」	「Take this!!!!」
+246103	Muscle	基本	「そいやぁ！！！！」	「Take this!!!!」
 
-246104	Sanakia Drelshkaf	「ぐはあ！？！？！？」	「Guhaa!?!!??」
+246104	Sanakia Drelshkaf	泣き	「ぐはあ！？！？！？」	「Guhaa!?!!??」
 
-246105	Sanakia Drelshkaf	「あ……あ……うきゅう……」	「A... a... ukyuu...」
+246105	Sanakia Drelshkaf		「あ……あ……うきゅう……」	「A... a... ukyuu...」
 
-246106	-	サーナキアは床に崩れ落ちた。	Sanakia collapsed onto the floor.
+246106	-		サーナキアは床に崩れ落ちた。	Sanakia collapsed onto the floor.
 
-246107	Rance Castle Knight	「きゃあ、だ、団長〜〜〜！」	「Kyaa, C-Captain~~~!」
+246107	Rance Castle Knight		「きゃあ、だ、団長〜〜〜！」	「Kyaa, C-Captain~~~!」
 
-246108	Muscle	「よっしゃー！　今の内に駆け抜けるぞ！」	「Alright! Let's dash through now!」
+246108	Muscle	基本	「よっしゃー！　今の内に駆け抜けるぞ！」	「Alright! Let's dash through now!」
 
-246109	Sanakia Drelshkaf	「ま、待てぇ〜〜〜……	「W-Wait~~~...
-246110	+	　ガクッ……！」	　Ugh...!」
+246109	Sanakia Drelshkaf		「ま、待てぇ〜〜〜……	「W-Wait~~~...
+246110	+		　ガクッ……！」	　Ugh...!」
 
-246111	-	後ろから聞こえる声を無視して、	Ignoring the voice from behind,
-246112	+	マエリータ隊は廊下を走り抜けていく。	the Maelita Squad sprinted down the hallway.
+246111	-		後ろから聞こえる声を無視して、	Ignoring the voice from behind,
+246112	+		マエリータ隊は廊下を走り抜けていく。	the Maelita Squad sprinted down the hallway.
 
-246113	Muscle	「……威勢のいいこと言ってた割に	「...For all that big talk,
-246114	+	　騎士団の団長さん弱かったなあ」	　the knight captain was pretty weak.」
+246113	Muscle		「……威勢のいいこと言ってた割に	「...For all that big talk,
+246114	+		　騎士団の団長さん弱かったなあ」	　the knight captain was pretty weak.」
 
-246115	Apache	「これなら、城の正門にいた	「In that case, the guards at the main gate
-246116	+	　見張りの方が強かった、な……」	　were stronger...」
+246115	Apache		「これなら、城の正門にいた	「In that case, the guards at the main gate
+246116	+		　見張りの方が強かった、な……」	　were stronger...」
 
-246117	Needle	「今のがこの城の防衛主力なんだよね。	「That was supposed to be the main defense force of this castle.
-246118	+	　てーんで弱っちいの」	　They're ridiculously weak.」
+246117	Needle		「今のがこの城の防衛主力なんだよね。	「That was supposed to be the main defense force of this castle.
+246118	+		　てーんで弱っちいの」	　They're ridiculously weak.」
 
-246119	Needle	「ま、人間なんてこんなもんかもねー」	「Well, maybe that's just how humans are.」
+246119	Needle		「ま、人間なんてこんなもんかもねー」	「Well, maybe that's just how humans are.」
 
-246120	Scholar	「ニードル、我々は城の主の留守を狙ったこと、	「Needle, we targeted the castle while its master is away,
-246121	+	　忘れてはいけませんよ」	　don't forget that.」
+246120	Scholar		「ニードル、我々は城の主の留守を狙ったこと、	「Needle, we targeted the castle while its master is away,
+246121	+		　忘れてはいけませんよ」	　don't forget that.」
 
-246122	Scholar	「彼らがいては、私達と言えど、とても……」	「If they were here, even we would have a very hard time...」
+246122	Scholar		「彼らがいては、私達と言えど、とても……」	「If they were here, even we would have a very hard time...」
 
-246123	Needle	「……ふーん、妙に奴らの	「...Hmm, you're oddly defending them.」
-246124	+	　肩を持つようなこと言うんだ」	
+246123	Needle		「……ふーん、妙に奴らの	「...Hmm, you're oddly defending them.」
+246124	+		　肩を持つようなこと言うんだ」	
 
-246125	Scholar	「そんな気はありませんよ？	「I have no such intention?
-246126	+	　ただ事実を言ったまでです」	　I merely stated the facts.」
+246125	Scholar		「そんな気はありませんよ？	「I have no such intention?
+246126	+		　ただ事実を言ったまでです」	　I merely stated the facts.」
 
-246127	Needle	「ふーん、ふーん、どうだかなー」	「Hmm, hmm, sure~」
+246127	Needle		「ふーん、ふーん、どうだかなー」	「Hmm, hmm, sure~」
 
-246128	Muscle	「……敵にまで嫉妬するこたぁ、ねーだろ」	「...No need to be jealous of the enemy.」
+246128	Muscle		「……敵にまで嫉妬するこたぁ、ねーだろ」	「...No need to be jealous of the enemy.」
 
-246129	Needle	「しっ！	「Shh!
-246130	+	　ば、馬鹿じゃないの！？	　I-Idiot!?
-246131	+	　そんなんじゃないわよ！」	　It's not like that!」
+246129	Needle		「しっ！	「Shh!
+246130	+		　ば、馬鹿じゃないの！？	　I-Idiot!?
+246131	+		　そんなんじゃないわよ！」	　It's not like that!」
 
-246132	Scholar	「？　意味がよく分かりませんが……	「? I don't quite understand what you mean...
-246133	+	　急ぎますよ」	　Let's hurry.」
+246132	Scholar		「？　意味がよく分かりませんが……	「? I don't quite understand what you mean...
+246133	+		　急ぎますよ」	　Let's hurry.」

@@ -4,76 +4,76 @@
 * Magic the Gandhi	マジック	Female
 * Yamada Chizuko	千鶴子	Female
 
-40026	Rance	「まずは大食い野郎だな。	「The glutton first.
-40027	+	　やつを叩き潰さん限り、	　As long as he's around,
-40028	+	　ここにいる間、メシもロクに食えん」	　we won't even be able to eat properly.」
+40026	Rance	基本	「まずは大食い野郎だな。	「The glutton first.
+40027	+		　やつを叩き潰さん限り、	　As long as he's around,
+40028	+		　ここにいる間、メシもロクに食えん」	　we won't even be able to eat properly.」
 
-40029	Kentou Kanami	「じゃ……東部ね。	「Then... the east.
-40030	+	　元来た道を戻る感じになるのかな」	　We'll be going back the way we came.」
+40029	Kentou Kanami		「じゃ……東部ね。	「Then... the east.
+40030	+		　元来た道を戻る感じになるのかな」	　We'll be going back the way we came.」
 
-40031	Magic the Gandhi	「そうなるかな。魔軍の勢力圏内を避けて……ここ。	「Probably. Avoiding the Monster Army's territory... here.
-40032	+	　東部戦線の司令部に合流するのが良いと思うわ」	　I think joining up with the eastern front headquarters is best.」
+40031	Magic the Gandhi		「そうなるかな。魔軍の勢力圏内を避けて……ここ。	「Probably. Avoiding the Monster Army's territory... here.
+40032	+		　東部戦線の司令部に合流するのが良いと思うわ」	　I think joining up with the eastern front headquarters is best.」
 
-40033	Magic the Gandhi	「勢力圏外と言っても、魔軍の哨戒はあると思う。	「Even outside their main territory, there will be patrols.
-40034	+	　捕捉されるとまずいから、注意して」	　It would be bad if we're spotted, so be careful.」
+40033	Magic the Gandhi		「勢力圏外と言っても、魔軍の哨戒はあると思う。	「Even outside their main territory, there will be patrols.
+40034	+		　捕捉されるとまずいから、注意して」	　It would be bad if we're spotted, so be careful.」
 
-40035	Rance	「そんなもんは斬り破るから問題ない。	「I'll just cut through that shit, no problem.
-40036	+	　で、東部の司令部って誰がいるんだ」	　So who's at the eastern headquarters?」
+40035	Rance		「そんなもんは斬り破るから問題ない。	「I'll just cut through that shit, no problem.
+40036	+		　で、東部の司令部って誰がいるんだ」	　So who's at the eastern headquarters?」
 
-40037	Magic the Gandhi	「炎軍と氷軍。サイアスとウスピラよ」	「The Flame Army and Ice Army. Saias and Uspira.」
+40037	Magic the Gandhi		「炎軍と氷軍。サイアスとウスピラよ」	「The Flame Army and Ice Army. Saias and Uspira.」
 
-40038	Rance	「キザキザ野郎とウスピラちゃんか。	「The flashy pretty boy and little Uspira, huh.
-40039	+	　野郎は要らんが、ウスピラはいいな。良かろう」	　Don't need the guy, but Uspira's fine. Good enough.」
+40038	Rance		「キザキザ野郎とウスピラちゃんか。	「The flashy pretty boy and little Uspira, huh.
+40039	+		　野郎は要らんが、ウスピラはいいな。良かろう」	　Don't need the guy, but Uspira's fine. Good enough.」
 
-40040	Magic the Gandhi	「……………………」	「........................」
+40040	Magic the Gandhi		「……………………」	「........................」
 
-40041	-	僅かな休憩の後、出発するランス達を、	After a short break,
-40042	+	マジックは街の入口まで見送りに来ていた。	Magic came to see Rance and the others off at the city entrance.
+40041	-		僅かな休憩の後、出発するランス達を、	After a short break,
+40042	+		マジックは街の入口まで見送りに来ていた。	Magic came to see Rance and the others off at the city entrance.
 
-40043	Rance	「なんだ、こんな所まで。一緒に来るのか？」	「What, all the way out here? You coming with us?」
+40043	Rance		「なんだ、こんな所まで。一緒に来るのか？」	「What, all the way out here? You coming with us?」
 
-40044	Magic the Gandhi	「……無理よ。親父が居ない以上、	「...I can't. With Father gone,
-40045	+	　国王代理でいなきゃならないもの」	　I have to act as regent.」
+40044	Magic the Gandhi		「……無理よ。親父が居ない以上、	「...I can't. With Father gone,
+40045	+		　国王代理でいなきゃならないもの」	　I have to act as regent.」
 
-40046	Rance	「そうか、じゃあな。	「I see. Later then.
-40047	+	　首を長くして待ってるがいい」	　Just wait eagerly for my return.」
+40046	Rance		「そうか、じゃあな。	「I see. Later then.
+40047	+		　首を長くして待ってるがいい」	　Just wait eagerly for my return.」
 
-40048	Magic the Gandhi	「…………死なないでよ」	「............Don't die.」
+40048	Magic the Gandhi	思考	「…………死なないでよ」	「............Don't die.」
 
-40049	Rance	「がはははは！　なんだしおらしい。	「Gahahahaha! How cute and modest.
-40050	+	　お前には似合わないぞ、そういうの」	　That doesn't suit you at all.」
+40049	Rance	笑顔	「がはははは！　なんだしおらしい。	「Gahahahaha! How cute and modest.
+40050	+		　お前には似合わないぞ、そういうの」	　That doesn't suit you at all.」
 
-40051	Magic the Gandhi	「なっ！　ばっ、ばかっ！	「Wha-! Y-you idiot!
-40052	+	　し、心配、してるのに……」	　I-I'm worried about you...」
+40051	Magic the Gandhi	孤軍奮闘	「なっ！　ばっ、ばかっ！	「Wha-! Y-you idiot!
+40052	+		　し、心配、してるのに……」	　I-I'm worried about you...」
 
-40053	Rance	「要らん要らん。どーんと任せておけ。	「No need, no need. Just leave it all to me.
-40054	+	　祝勝会の時に履く下着でも考えておくんだな」	　Think about what panties you'll wear for the victory party.」
+40053	Rance	基本	「要らん要らん。どーんと任せておけ。	「No need, no need. Just leave it all to me.
+40054	+		　祝勝会の時に履く下着でも考えておくんだな」	　Think about what panties you'll wear for the victory party.」
 
-40055	Magic the Gandhi	「っ、もう！　どーしてあんたはそう……！」	「Jeez! Why are you always like this...!」
+40055	Magic the Gandhi	うがー	「っ、もう！　どーしてあんたはそう……！」	「Jeez! Why are you always like this...!」
 
-40056	Rance	「がはははは！　では行ってくる」	「Gahahahaha! We're off!」
+40056	Rance	笑顔	「がはははは！　では行ってくる」	「Gahahahaha! We're off!」
 
-40057	-	ランス一行は揃って首都を出発した。	Rance's party left the capital together.
+40057	-		ランス一行は揃って首都を出発した。	Rance's party left the capital together.
 
-40058	Yamada Chizuko	「あ、出発したのね」	「Ah, they left.」
+40058	Yamada Chizuko	基本	「あ、出発したのね」	「Ah, they left.」
 
-40059	Magic the Gandhi	「ええ。ガルティアに当たるって」	「Yes. They're heading for Galtia.」
+40059	Magic the Gandhi		「ええ。ガルティアに当たるって」	「Yes. They're heading for Galtia.」
 
-40060	Yamada Chizuko	「そ。……ごめんなさいね」	「I see... Sorry.」
+40060	Yamada Chizuko		「そ。……ごめんなさいね」	「I see... Sorry.」
 
-40061	Magic the Gandhi	「え？」	「Eh?」
+40061	Magic the Gandhi		「え？」	「Eh?」
 
-40062	Yamada Chizuko	「一緒に行きたかったんでしょ？」	「You wanted to go with them, didn't you?」
+40062	Yamada Chizuko		「一緒に行きたかったんでしょ？」	「You wanted to go with them, didn't you?」
 
-40063	Magic the Gandhi	「……………………」	「........................」
+40063	Magic the Gandhi	思考	「……………………」	「........................」
 
-40064	-	マジックはランスの背中を見送りながら、	While watching Rance's back disappear,
-40065	+	うなじの辺りを少し掻いた。	Magic scratched the back of her neck lightly.
+40064	-		マジックはランスの背中を見送りながら、	While watching Rance's back disappear,
+40065	+		うなじの辺りを少し掻いた。	Magic scratched the back of her neck lightly.
 
-40066	Magic the Gandhi	「それどころじゃないし。	「It's not the time for that.
-40067	+	　……それに、今生の別れにはならないわよ」	　...Besides, this won't be our final goodbye.」
+40066	Magic the Gandhi		「それどころじゃないし。	「It's not the time for that.
+40067	+		　……それに、今生の別れにはならないわよ」	　...Besides, this won't be our final goodbye.」
 
-40068	Yamada Chizuko	「………………」	「............」
+40068	Yamada Chizuko	基本	「………………」	「............」
 
-40069	-	千鶴子は少し微笑んで、	Chizuko smiled gently,
-40070	+	マジックの小さな肩を励ますように優しく叩いた。	and softly patted Magic's small shoulder to encourage her.
+40069	-		千鶴子は少し微笑んで、	Chizuko smiled gently,
+40070	+		マジックの小さな肩を励ますように優しく叩いた。	and softly patted Magic's small shoulder to encourage her.

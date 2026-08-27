@@ -4,33 +4,33 @@
 * Cream Ganoblade	クリーム	Female
 * Urza Pranaice	ウルザ	Female
 
-176151	Rance	「よし、ベズドグ山という所を攻めるぞ」	「Alright, we’re attacking a place called Mount Bezdog.」
+176151	Rance	基本	「よし、ベズドグ山という所を攻めるぞ」	「Alright, we’re attacking a place called Mount Bezdog.」
 
-176152	Rance	「面舵いっぱい！	「Hard to starboard!
-176153	+	　これよりランス城はベズドグ山を目指ーーす！」	　Rance Castle is now heading straight for Mount Bezdog!」
+176152	Rance	怒り	「面舵いっぱい！	「Hard to starboard!
+176153	+		　これよりランス城はベズドグ山を目指ーーす！」	　Rance Castle is now heading straight for Mount Bezdog!」
 
-176154	Arlcoate Marius	「は、はい、分かりました」	「Y-yes, understood.」
+176154	Arlcoate Marius	基本	「は、はい、分かりました」	「Y-yes, understood.」
 
-176155	Cream Ganoblade	「……ちなみに根拠を伺っても？」	「...May I ask on what basis?」
+176155	Cream Ganoblade		「……ちなみに根拠を伺っても？」	「...May I ask on what basis?」
 
-176156	Rance	「勘」	「Gut feeling.」
+176156	Rance		「勘」	「Gut feeling.」
 
-176157	Arlcoate Marius	「か、勘……ですか？」	「G-gut feeling...?」
+176157	Arlcoate Marius	駄目状況	「か、勘……ですか？」	「G-gut feeling...?」
 
-176158	Cream Ganoblade	「……やっぱり」	「...As expected.」
+176158	Cream Ganoblade	ため息	「……やっぱり」	「...As expected.」
 
-176159	Rance	「なんだ、君らのその顔は。	「What’s with those faces.
-176160	+	　勘以外でどう判断しろってんだ」	　How else am I supposed to decide?」
+176159	Rance	だる顔	「なんだ、君らのその顔は。	「What’s with those faces.
+176160	+		　勘以外でどう判断しろってんだ」	　How else am I supposed to decide?」
 
-176161	Urza Pranaice	「まあ、他にないのは確かですね」	「Well, there aren’t any other options, that’s true.」
+176161	Urza Pranaice	基本	「まあ、他にないのは確かですね」	「Well, there aren’t any other options, that’s true.」
 
-176162	Urza Pranaice	「ランスさんの勘は案外馬鹿に出来ませんし、	「Rance-san’s intuition is surprisingly reliable,
-176163	+	　それに賭けるしかないでしょう」	　so we have no choice but to bet on it.」
+176162	Urza Pranaice	真剣	「ランスさんの勘は案外馬鹿に出来ませんし、	「Rance-san’s intuition is surprisingly reliable,
+176163	+		　それに賭けるしかないでしょう」	　so we have no choice but to bet on it.」
 
-176164	Rance	「がははは、そうそう、その通り」	「Gahahaha, exactly, exactly.」
+176164	Rance	笑顔	「がははは、そうそう、その通り」	「Gahahaha, exactly, exactly.」
 
-176165	Rance	「というわけで、ベズドグ山にレッツゴーだ！」	「So with that, let’s go to Mount Bezdog!」
+176165	Rance	基本	「というわけで、ベズドグ山にレッツゴーだ！」	「So with that, let’s go to Mount Bezdog!」
 
-176166	-	ランスの宣言により、	Following Rance’s declaration,
-176167	+	ランス城はベズドグ山を目指し、	Rance Castle headed toward Mount Bezdog
-176168	+	ゆっくりと進み出した。	and slowly began to move.
+176166	-		ランスの宣言により、	Following Rance’s declaration,
+176167	+		ランス城はベズドグ山を目指し、	Rance Castle headed toward Mount Bezdog
+176168	+		ゆっくりと進み出した。	and slowly began to move.

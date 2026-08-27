@@ -6,40 +6,40 @@
 * Masuzoe	ますぞえ	Male
 * Prince Toshiba	東芝王子	Male
 
-27847	Rance	「ぐっ……はあはあはあ……っ」	「Guh...... Haa haa haa......」
+27847	Rance	怒り	「ぐっ……はあはあはあ……っ」	「Guh...... Haa haa haa......」
 
-27848	-	応酬の手を止め、ランスが足元を踏みしめる。	Rance stopped his attacks and planted his feet firmly.
+27848	-		応酬の手を止め、ランスが足元を踏みしめる。	Rance stopped his attacks and planted his feet firmly.
 
-27849	Sill Plain	「大丈夫ですか、ランス様！	「Are you okay, Rance-sama!
-27850	+	　いたいのいたいのとんでけー！」	　Pain pain fly awayー!」
+27849	Sill Plain	慌て	「大丈夫ですか、ランス様！	「Are you okay, Rance-sama!
+27850	+		　いたいのいたいのとんでけー！」	　Pain pain fly awayー!」
 
-27851	Rance	「うむ……くそ、面倒な相手だ……」	「Yeah...... Damn, what a troublesome opponent......」
+27851	Rance	イライラ	「うむ……くそ、面倒な相手だ……」	「Yeah...... Damn, what a troublesome opponent......」
 
-27852	Maria Custard	「魔法が通じないからね……」	「Magic doesn't work on it......」
+27852	Maria Custard	基本	「魔法が通じないからね……」	「Magic doesn't work on it......」
 
-27853	Rance	「ちっ、仕方ない……」	「Tch, can't be helped......」
+27853	Rance	だる顔	「ちっ、仕方ない……」	「Tch, can't be helped......」
 
-27854	Rance	「おいハニワ野郎！　俺様は忙しい。	「Hey Haniwa bastard! I'm busy.
-27855	+	　本気を出せばちょちょいだが、	　I could finish you quickly if I got serious,
-27856	+	　今日はこの辺で…………ん？」	　but let's call it here for today...... Hm?」
+27854	Rance	怒り	「おいハニワ野郎！　俺様は忙しい。	「Hey Haniwa bastard! I'm busy.
+27855	+		　本気を出せばちょちょいだが、	　I could finish you quickly if I got serious,
+27856	+		　今日はこの辺で…………ん？」	　but let's call it here for today...... Hm?」
 
-27857	-	ランスが負け惜しみを言おうとすると、	As Rance tried to make an excuse,
-27858	+	ますぞえもハニ子に、	Masuzoe seemed to be telling something
-27859	+	なにやら伝えるような素振りを見せていた。	to Haniko.
+27857	-		ランスが負け惜しみを言おうとすると、	As Rance tried to make an excuse,
+27858	+		ますぞえもハニ子に、	Masuzoe seemed to be telling something
+27859	+		なにやら伝えるような素振りを見せていた。	to Haniko.
 
-27860	Haniko	「このまま戦えば私の勝ちだが、	「If we continued I'd win, but
-27861	+	　今日の所は見逃してやる、ですって。	　I'll let you go for today, she says.
-27862	+	　うふ、ますぞえ様ったら慈悲深い」	　Ufu, Masuzoe-sama is so merciful.」
+27860	Haniko	基本	「このまま戦えば私の勝ちだが、	「If we continued I'd win, but
+27861	+		　今日の所は見逃してやる、ですって。	　I'll let you go for today, she says.
+27862	+		　うふ、ますぞえ様ったら慈悲深い」	　Ufu, Masuzoe-sama is so merciful.」
 
-27863	Rance	「……………………」	「........................」
+27863	Rance	怒り	「……………………」	「........................」
 
-27864	Masuzoe	「……………………」	「........................」
+27864	Masuzoe	基本	「……………………」	「........................」
 
-27865	-	ますぞえは奈落の奥へと去っていった。	Masuzoe retreated deep into the abyss.
+27865	-		ますぞえは奈落の奥へと去っていった。	Masuzoe retreated deep into the abyss.
 
-27866	Rance	「ま、いいか……なんか、疲れた……」	「Well, whatever...... I'm kinda tired......」
+27866	Rance	だる顔	「ま、いいか……なんか、疲れた……」	「Well, whatever...... I'm kinda tired......」
 
-27867	Prince Toshiba	「先を急ごうか。	「Shall we continue?
-27868	+	　無益な戦いより、楽しいものがあるさ」	　There are more fun things than pointless fights.」
+27867	Prince Toshiba	基本	「先を急ごうか。	「Shall we continue?
+27868	+		　無益な戦いより、楽しいものがあるさ」	　There are more fun things than pointless fights.」
 
-27869	-	一行は、地底の探検に戻った。	The party returned to exploring the underground.
+27869	-		一行は、地底の探検に戻った。	The party returned to exploring the underground.

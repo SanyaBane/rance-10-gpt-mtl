@@ -3,44 +3,44 @@
 * Rocky Bank	ロッキー	Male
 * Noah Hakobune	ノア	Female
 
-38842	?	「誰かいやすぜ！　人だーーーーー！」	「There's someone! A personーーー!」
+38842	?		「誰かいやすぜ！　人だーーーーー！」	「There's someone! A personーーー!」
 
-38843	-	いくつかのゴミを引き上げながら、	While pulling up various debris,
-38844	+	サンライズ号はサンセット号の姿を探して	the Sunrise wandered the sea
-38845	+	海をさすらっていた。	searching for the Sunset.
+38843	-		いくつかのゴミを引き上げながら、	While pulling up various debris,
+38844	+		サンライズ号はサンセット号の姿を探して	the Sunrise wandered the sea
+38845	+		海をさすらっていた。	searching for the Sunset.
 
-38846	Rance	「よし引き上げろ！　いったい誰が……」	「Pull it up! Who the hell is...」
+38846	Rance	怒り	「よし引き上げろ！　いったい誰が……」	「Pull it up! Who the hell is...」
 
-38847	Rocky Bank	「げほっ、がほっ……ひい、ひい……」	「*Cough* *cough*... Haa, haa...」
+38847	Rocky Bank	悲しい	「げほっ、がほっ……ひい、ひい……」	「*Cough* *cough*... Haa, haa...」
 
-38848	Rance	「なーんだ、ハズレか」	「Oh, it's a dud.」
+38848	Rance	だる顔	「なーんだ、ハズレか」	「Oh, it's a dud.」
 
-38849	Rocky Bank	「ランス様！！　ご無事だっただすか！」	「Rance-sama!! Are you safe?!」
+38849	Rocky Bank	感動	「ランス様！！　ご無事だっただすか！」	「Rance-sama!! Are you safe?!」
 
-38850	Rance	「ふん、当たり前だろ。	「Hmph, of course I am.
-38851	+	　お前らとは違う」	　I'm not like you guys.」
+38850	Rance	真剣	「ふん、当たり前だろ。	「Hmph, of course I am.
+38851	+		　お前らとは違う」	　I'm not like you guys.」
 
-38852	Rocky Bank	「はあああ、よかったですだ……」	「Haaah, I'm so glad...」
+38852	Rocky Bank	悲しい	「はあああ、よかったですだ……」	「Haaah, I'm so glad...」
 
-38853	Rance	「お前なんざどうでもいい。	「I don't care about you.
-38854	+	　他の連中はどうした。特に女の子は」	　What happened to the others? Especially the girls?」
+38853	Rance	真剣	「お前なんざどうでもいい。	「I don't care about you.
+38854	+		　他の連中はどうした。特に女の子は」	　What happened to the others? Especially the girls?」
 
-38855	Rocky Bank	「あ……ええと、分からないだす……	「Ah... Um, I don't know...
-38856	+	　船はめちゃくちゃになって……」	　The ship was torn apart...」
+38855	Rocky Bank	基本	「あ……ええと、分からないだす……	「Ah... Um, I don't know...
+38856	+		　船はめちゃくちゃになって……」	　The ship was torn apart...」
 
-38857	Rocky Bank	「パットンさん達も、	「Patton-san and the others
-38858	+	　必死で船を守ろうとしてただすが、	　tried desperately to protect the ship,
-38859	+	　あれじゃあ、たぶん…………」	　but with that... probably...」
+38857	Rocky Bank		「パットンさん達も、	「Patton-san and the others
+38858	+		　必死で船を守ろうとしてただすが、	　tried desperately to protect the ship,
+38859	+		　あれじゃあ、たぶん…………」	　but with that... probably...」
 
-38860	Rance	「………………そうか」	「............I see.」
+38860	Rance	真剣	「………………そうか」	「............I see.」
 
-38861	Noah Hakobune	「ランスさん。	「Rance-san.
-38862	+	　その……そろそろ針路を戻さないと、	　Um... We need to turn back soon,
-38863	+	　限界です」	　or we'll reach our limit.」
+38861	Noah Hakobune	基本	「ランスさん。	「Rance-san.
+38862	+		　その……そろそろ針路を戻さないと、	　Um... We need to turn back soon,
+38863	+		　限界です」	　or we'll reach our limit.」
 
-38864	Rance	「仕方ないか……いいぞ、やってくれ」	「Can't be helped... Alright, do it.」
+38864	Rance	真剣	「仕方ないか……いいぞ、やってくれ」	「Can't be helped... Alright, do it.」
 
-38865	Noah Hakobune	「回頭１８０度！　針路、戻します！」	「180 degree turn! Heading back!」
+38865	Noah Hakobune	基本	「回頭１８０度！　針路、戻します！」	「180 degree turn! Heading back!」
 
-38866	-	これ以上捜索することはできず、	They could search no longer,
-38867	+	サンライズ号は先へと進む事になった。	and the Sunrise continued onward.
+38866	-		これ以上捜索することはできず、	They could search no longer,
+38867	+		サンライズ号は先へと進む事になった。	and the Sunrise continued onward.

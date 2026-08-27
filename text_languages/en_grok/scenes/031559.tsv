@@ -7,110 +7,110 @@
 * Frostbyne	フロストバイン	Female
 * Sill Plain	シィル	Female
 
-88566	-	ランス城の廊下の一角――	A corner of Rance Castle's hallway――
+88566	-		ランス城の廊下の一角――	A corner of Rance Castle's hallway――
 
-88567	Tama	「さーさー、寄ってらっしゃい見てらっしゃい。	「Come come, step right up and take a look.
-88568	+	　兄さん姉さん、皆大喜びの品ばっかりだよー」	　Big brother, big sister, only items everyone lovesー」
+88567	Tama	基本	「さーさー、寄ってらっしゃい見てらっしゃい。	「Come come, step right up and take a look.
+88568	+		　兄さん姉さん、皆大喜びの品ばっかりだよー」	　Big brother, big sister, only items everyone lovesー」
 
-88569	Leazas Blue Knight	「おい、姉ちゃん、	「Hey miss,
-88570	+	　この酒一ダースほどもらえるか」	　can I get about a dozen of this liquor?」
+88569	Leazas Blue Knight	非武装	「おい、姉ちゃん、	「Hey miss,
+88570	+		　この酒一ダースほどもらえるか」	　can I get about a dozen of this liquor?」
 
-88571	Tama	「あいよぅっ！	「Alrighty!
-88572	+	　飲み過ぎには注意しなよ！」	　Don't drink too much okay!」
+88571	Tama	基本	「あいよぅっ！	「Alrighty!
+88572	+		　飲み過ぎには注意しなよ！」	　Don't drink too much okay!」
 
-88573	Zeth Mage Soldier	「なあ、ここならドエススキー先生の	「Hey, I heard you sell
-88574	+	　本も売ってるって聞いたんだけど……」	　Do-esu-ski-sensei's books here...」
+88573	Zeth Mage Soldier		「なあ、ここならドエススキー先生の	「Hey, I heard you sell
+88574	+		　本も売ってるって聞いたんだけど……」	　Do-esu-ski-sensei's books here...」
 
-88575	Tama	「あー、悪いね、売り切れだーい！	「Ah, sorry, sold outー!
-88576	+	　入荷しとくからまた来てね！」	　I'll restock so come again!」
+88575	Tama		「あー、悪いね、売り切れだーい！	「Ah, sorry, sold outー!
+88576	+		　入荷しとくからまた来てね！」	　I'll restock so come again!」
 
-88577	Miko	「あのー、髪油が欲しいんですけど、	「Um, I'd like hair oil,
-88578	+	　商品ってこれしかないですか？」	　is this all you have?」
+88577	Miko		「あのー、髪油が欲しいんですけど、	「Um, I'd like hair oil,
+88578	+		　商品ってこれしかないですか？」	　is this all you have?」
 
-88579	Tama	「出てるので全部だね！	「That's everything we have out!
-88580	+	　言ってくれりゃあ取り寄せやすぜぃ！」	　Just tell me and I'll order more!」
+88579	Tama		「出てるので全部だね！	「That's everything we have out!
+88580	+		　言ってくれりゃあ取り寄せやすぜぃ！」	　Just tell me and I'll order more!」
 
-88581	-	タマの開く雑貨屋はかなり繁盛しており、	Tama's general store was thriving,
-88582	+	さながら学生の群がる購買部のような雰囲気だった。	with an atmosphere like a school store crowded with students.
+88581	-		タマの開く雑貨屋はかなり繁盛しており、	Tama's general store was thriving,
+88582	+		さながら学生の群がる購買部のような雰囲気だった。	with an atmosphere like a school store crowded with students.
 
-88583	Tama	「へへっ、毎度ありーっ！	「Hehe, thank you as alwaysー!
-88584	+	　お、そっちのお兄さんは何が欲しいんだい？」	　Oh, what does that big brother over there want?」
+88583	Tama		「へへっ、毎度ありーっ！	「Hehe, thank you as alwaysー!
+88584	+		　お、そっちのお兄さんは何が欲しいんだい？」	　Oh, what does that big brother over there want?」
 
-88585	Rance	「…………」	「............」
+88585	Rance	イライラ	「…………」	「............」
 
-88586	Tama	「…………」	「............」
+88586	Tama	基本	「…………」	「............」
 
-88587	Rance	「お前、何してやがる！」	「What the hell are you doing!」
+88587	Rance	怒り	「お前、何してやがる！」	「What the hell are you doing!」
 
-88588	Tama	「うぎゃー！　見つかったー！	「Ugyaa! Found outー!
-88589	+	　おねげぇだぁ、見逃しておくれよぅ、お奉行様！」	　Please, have mercy, Your Honor!」
+88588	Tama	泣き	「うぎゃー！　見つかったー！	「Ugyaa! Found outー!
+88589	+		　おねげぇだぁ、見逃しておくれよぅ、お奉行様！」	　Please, have mercy, Your Honor!」
 
-88590	Rance	「誰がお奉行様だ！」	「Who are you calling Your Honor!」
+88590	Rance	基本	「誰がお奉行様だ！」	「Who are you calling Your Honor!」
 
-88591	Rance	「で、なにしてた？」	「So, what were you doing?」
+88591	Rance		「で、なにしてた？」	「So, what were you doing?」
 
-88592	Tama	「えへへっ、これが聞くも涙、	「Ehehe, this is a story that brings tears to the eyes,
-88593	+	　語るも涙の話なんですけどねぃ」	　tears when told, you see.」
+88592	Tama		「えへへっ、これが聞くも涙、	「Ehehe, this is a story that brings tears to the eyes,
+88593	+		　語るも涙の話なんですけどねぃ」	　tears when told, you see.」
 
-88594	Tama	「あっしら、この戦争ですっかり	「Us folks lost all income because of this war――
-88595	+	　収入源がない状態でして――」	　completely broke――」
+88594	Tama		「あっしら、この戦争ですっかり	「Us folks lost all income because of this war――
+88595	+		　収入源がない状態でして――」	　completely broke――」
 
-88596	Tama	「そんならこの城に来る兵士相手に	「So we started doing business with the soldiers coming to this castle
-88597	+	　商売始めようかってなもんで」	　that's how it is.」
+88596	Tama		「そんならこの城に来る兵士相手に	「So we started doing business with the soldiers coming to this castle
+88597	+		　商売始めようかってなもんで」	　that's how it is.」
 
-88598	Rance	「俺様の城でやるな！」	「Don't do it in my castle!」
+88598	Rance		「俺様の城でやるな！」	「Don't do it in my castle!」
 
-88599	Tama	「街はもう閑古鳥が鳴く有様で、	「The town is deserted,
-88600	+	　この辺が一番人通り多いんすよぉ」	　this place has the most foot traffic.」
+88599	Tama	泣き	「街はもう閑古鳥が鳴く有様で、	「The town is deserted,
+88600	+		　この辺が一番人通り多いんすよぉ」	　this place has the most foot traffic.」
 
-88601	Rance	「人の城をなんだと思ってやがる……」	「What do you think my castle is...」
+88601	Rance	基本	「人の城をなんだと思ってやがる……」	「What do you think my castle is...」
 
-88602	Tama	「だ、大体、これはあっしが	「A-anyway, this wasn't my idea...
-88603	+	　言い出したことじゃなくてですねぇ……」	　it was...」
+88602	Tama	泣き	「だ、大体、これはあっしが	「A-anyway, this wasn't my idea...
+88603	+		　言い出したことじゃなくてですねぇ……」	　it was...」
 
-88604	Frostbyne	「おーい、タマー。	「Ooi, Tama.
-88605	+	　店の調子はどうじゃー？	　How's businessー?
-88606	+	　儲かっとるかー？」	　Making profitー?」
+88604	Frostbyne	基本	「おーい、タマー。	「Ooi, Tama.
+88605	+		　店の調子はどうじゃー？	　How's businessー?
+88606	+		　儲かっとるかー？」	　Making profitー?」
 
-88607	Tama	「あ、来た！　あいつっすよ！	「Ah, there she is! It's that old hag!
-88608	+	　あのババアがやれって言い出したんすよ！」	　She was the one who suggested it!」
+88607	Tama		「あ、来た！　あいつっすよ！	「Ah, there she is! It's that old hag!
+88608	+		　あのババアがやれって言い出したんすよ！」	　She was the one who suggested it!」
 
-88609	Rance	「ほう？」	「Oh?」
+88609	Rance		「ほう？」	「Oh?」
 
-88610	Frostbyne	「…………」	「............」
+88610	Frostbyne		「…………」	「............」
 
-88611	Frostbyne	「サチコさんご飯はまだかいのう？」	「Is Sachiko's meal not ready yet?」
+88611	Frostbyne		「サチコさんご飯はまだかいのう？」	「Is Sachiko's meal not ready yet?」
 
-88612	Rance	「ボケた振りすんな！」	「Don't play dumb!」
+88612	Rance		「ボケた振りすんな！」	「Don't play dumb!」
 
-88613	Frostbyne	「いやー、わしゃなんも知らーん。	「Nooo, I don't know anything.
-88614	+	　さーてそろそろ梅干しでも漬けようかのう」	　Time to pickle some plums I guess.」
+88613	Frostbyne		「いやー、わしゃなんも知らーん。	「Nooo, I don't know anything.
+88614	+		　さーてそろそろ梅干しでも漬けようかのう」	　Time to pickle some plums I guess.」
 
-88615	Tama	「あ、ひっでえ！	「Ah, so mean!
-88616	+	　先生、あの糞ババア逃げる気っすよ！	　Sensei, that shitty hag is trying to run!
-88617	+	　捕まえなくていいんすか！？」	　Aren't you gonna catch her!?」
+88615	Tama	泣き	「あ、ひっでえ！	「Ah, so mean!
+88616	+		　先生、あの糞ババア逃げる気っすよ！	　Sensei, that shitty hag is trying to run!
+88617	+		　捕まえなくていいんすか！？」	　Aren't you gonna catch her!?」
 
-88618	Rance	「やかましい！	「Shut up!
-88619	+	　二人とも同罪だ！」	　You're both guilty!」
+88618	Rance	基本	「やかましい！	「Shut up!
+88619	+		　二人とも同罪だ！」	　You're both guilty!」
 
-88620	Tama	「あいてーっ！」	「Ouchー!」
+88620	Tama	泣き	「あいてーっ！」	「Ouchー!」
 
-88621	Tama	「ぐすん……	「Sniff...
-88622	+	　まさか営業停止処分だなんて……」	　I never thought I'd get shut down...」
+88621	Tama	基本	「ぐすん……	「Sniff...
+88622	+		　まさか営業停止処分だなんて……」	　I never thought I'd get shut down...」
 
-88623	Frostbyne	「がっくし……」	「Crushed...」
+88623	Frostbyne		「がっくし……」	「Crushed...」
 
-88624	-	次の日――	The next day――
+88624	-		次の日――	The next day――
 
-88625	Tama	「さーさー、寄ってらっしゃい見てらっしゃい！」	「Come come, step right up and take a look!」
+88625	Tama		「さーさー、寄ってらっしゃい見てらっしゃい！」	「Come come, step right up and take a look!」
 
-88626	Tama	「お、そこの綺麗なお嬢さん、	「Oh, beautiful young lady over there,
-88627	+	　良かったら見てって、化粧品とかあるよー」	　come take a look, we have cosmeticsー」
+88626	Tama		「お、そこの綺麗なお嬢さん、	「Oh, beautiful young lady over there,
+88627	+		　良かったら見てって、化粧品とかあるよー」	　come take a look, we have cosmeticsー」
 
-88628	Frostbyne	「ひょひょひょ、儂らの店に粗悪品はないぞい。	「Hyohyohyo, our store has no defective goods.
-88629	+	　ツケはしてないから一括現金払いじゃからのー」	　No credit, cash only.」
+88628	Frostbyne		「ひょひょひょ、儂らの店に粗悪品はないぞい。	「Hyohyohyo, our store has no defective goods.
+88629	+		　ツケはしてないから一括現金払いじゃからのー」	　No credit, cash only.」
 
-88630	Sill Plain	「……今度は中庭で商売、	「...Now they're doing business in the courtyard,
-88631	+	　始めちゃいましたね」	　they started it again.」
+88630	Sill Plain	苦笑	「……今度は中庭で商売、	「...Now they're doing business in the courtyard,
+88631	+		　始めちゃいましたね」	　they started it again.」
 
-88632	Rance	「まったくアイツらは……」	「Those two...」
+88632	Rance	イライラ	「まったくアイツらは……」	「Those two...」

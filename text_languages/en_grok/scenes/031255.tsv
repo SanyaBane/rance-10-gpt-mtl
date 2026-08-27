@@ -7,55 +7,55 @@
 * Miracle Tor	ミラクル	Female
 * Crook Mofus	クルックー	Female
 
-62748	Rance	「ん……？　なんだ、この部屋」	「Nn...? What is this room?」
+62748	Rance	真剣	「ん……？　なんだ、この部屋」	「Nn...? What is this room?」
 
-62749	-	ランスたちは奇妙な部屋に行き当たった。	Rance and the others arrived at a strange room.
+62749	-		ランスたちは奇妙な部屋に行き当たった。	Rance and the others arrived at a strange room.
 
-62750	-	大きな部屋がふたつに仕切られており、	A large room divided into two,
-62751	+	ひとつはランスたちが居る側で、	one side where Rance and the others are,
-62752	+	コンピュータが稼働したままになっている。	with computers still running.
+62750	-		大きな部屋がふたつに仕切られており、	A large room divided into two,
+62751	+		ひとつはランスたちが居る側で、	one side where Rance and the others are,
+62752	+		コンピュータが稼働したままになっている。	with computers still running.
 
-62753	-	もうひとつは扉ひとつで繋がっている、	The other connected by a single door,
-62754	+	殺風景な部屋。	a barren room.
-62755	+	人間が乗れる程度の台が、ぽつんと置かれただけ。	Only a platform big enough for a human, placed alone.
+62753	-		もうひとつは扉ひとつで繋がっている、	The other connected by a single door,
+62754	+		殺風景な部屋。	a barren room.
+62755	+		人間が乗れる程度の台が、ぽつんと置かれただけ。	Only a platform big enough for a human, placed alone.
 
-62756	-	そして、その台には、ガラスケースで閉じられた、	And on that platform, enclosed in a glass case,
-62757	+	肉塊が安置されていた。	was a lump of flesh placed there.
+62756	-		そして、その台には、ガラスケースで閉じられた、	And on that platform, enclosed in a glass case,
+62757	+		肉塊が安置されていた。	was a lump of flesh placed there.
 
-62758	Rance	「うえっ……なんだありゃ、気持ち悪い……」	「Ueh... What the hell is that, disgusting...」
+62758	Rance	だる顔	「うえっ……なんだありゃ、気持ち悪い……」	「Ueh... What the hell is that, disgusting...」
 
-62759	Rocky Bank	「ひいいいぃぃ……昔のパパイアさんの部屋を	「Hiiii... It reminds me of Papaya's old room...
-62760	+	　思い出しますだ……なんまんだぶ……」	　Namu Amida Butsu...」
+62759	Rocky Bank	悲しい	「ひいいいぃぃ……昔のパパイアさんの部屋を	「Hiiii... It reminds me of Papaya's old room...
+62760	+		　思い出しますだ……なんまんだぶ……」	　Namu Amida Butsu...」
 
-62761	Pastel Kalar	「び、びくびく震えておるぞ……」	「It's s-shaking...」
+62761	Pastel Kalar	ぐぬぬ	「び、びくびく震えておるぞ……」	「It's s-shaking...」
 
-62762	Rance	「お前がか？」	「You?」
+62762	Rance	基本	「お前がか？」	「You?」
 
-62763	Pastel Kalar	「たわけ！　あの肉塊がじゃ！	「Fool! That lump of flesh!
-62764	+	　わ、妾がこの程度で驚くか！」	　As if I would be scared by something like this!」
+62763	Pastel Kalar		「たわけ！　あの肉塊がじゃ！	「Fool! That lump of flesh!
+62764	+		　わ、妾がこの程度で驚くか！」	　As if I would be scared by something like this!」
 
-62765	Rance	「近くで見てみるか……	「Shall we take a closer look...
-62766	+	　ん、開かないな、この扉」	　Nn, this door won't open.」
+62765	Rance	真剣	「近くで見てみるか……	「Shall we take a closer look...
+62766	+		　ん、開かないな、この扉」	　Nn, this door won't open.」
 
-62767	Kentou Kanami	「ホント……何これ。物凄く厳重になってる……」	「Really... What is this. It's extremely secure...」
+62767	Kentou Kanami	基本	「ホント……何これ。物凄く厳重になってる……」	「Really... What is this. It's extremely secure...」
 
-62768	Rance	「開けてみろ、シィル」	「Try opening it, Sill.」
+62768	Rance		「開けてみろ、シィル」	「Try opening it, Sill.」
 
-62769	Sill Plain	「はい。ひらけ、ごまーー！」	「Yes. Open sesame!」
+62769	Sill Plain	慌て	「はい。ひらけ、ごまーー！」	「Yes. Open sesame!」
 
-62770	Sill Plain	「んっ……ごま、ごまーーー！」	「Nn... Sesame, sesameee!」
+62770	Sill Plain	真剣	「んっ……ごま、ごまーーー！」	「Nn... Sesame, sesameee!」
 
-62771	Sill Plain	「だ、ダメです、ランス様……」	「I-it won't open, Rance-sama...」
+62771	Sill Plain	泣き	「だ、ダメです、ランス様……」	「I-it won't open, Rance-sama...」
 
-62772	Rance	「ちっ、ならもういい。	「Tch, whatever then.
-62773	+	　あのグロい肉塊以外には何も無さそうだしな」	　Doesn't seem like anything but that gross flesh lump anyway.」
+62772	Rance	だる顔	「ちっ、ならもういい。	「Tch, whatever then.
+62773	+		　あのグロい肉塊以外には何も無さそうだしな」	　Doesn't seem like anything but that gross flesh lump anyway.」
 
-62774	Miracle Tor~	（…………生きている、のか……）	（............Is it... alive...?）
+62774	Miracle Tor~	真剣	（…………生きている、のか……）	（............Is it... alive...?）
 
-62775	Crook Mofus	「……………………」	「........................」
+62775	Crook Mofus	基本	「……………………」	「........................」
 
-62776	Rance	「クソガキの悪趣味に付き合ってられん。	「Can't waste time on that brat's bad taste.
-62777	+	　さっさと次に行くぞ、次に」	　Let's move on to the next.」
+62776	Rance	だる顔	「クソガキの悪趣味に付き合ってられん。	「Can't waste time on that brat's bad taste.
+62777	+		　さっさと次に行くぞ、次に」	　Let's move on to the next.」
 
-62778	-	ランスはすぐに興味を失い、	Rance quickly lost interest,
-62779	+	一行も続いて部屋を出た。	and the group followed him out of the room.
+62778	-		ランスはすぐに興味を失い、	Rance quickly lost interest,
+62779	+		一行も続いて部屋を出た。	and the group followed him out of the room.

@@ -8,112 +8,112 @@
 * Nagi su Ragarl	ナギ２	Female
 * Masou Shizuka	志津香２	Female
 
-219198	-	魔物の森に向かった兵士達、	The soldiers heading to the monster forest,
-219199	+	シャングリラに向かった兵士達、	the soldiers heading to Shangri-La,
-219200	+	リーザスに向かった副官アレコズインとその部下。	and Vice Officer Alekozuin with her subordinates heading to Leazas.
+219198	-		魔物の森に向かった兵士達、	The soldiers heading to the monster forest,
+219199	+		シャングリラに向かった兵士達、	the soldiers heading to Shangri-La,
+219200	+		リーザスに向かった副官アレコズインとその部下。	and Vice Officer Alekozuin with her subordinates heading to Leazas.
 
-219201	-	彼らと別れて、あなた達は	After parting with them, you all
-219202	+	意気揚々と街道を進む。	advanced cheerfully down the highway.
+219201	-		彼らと別れて、あなた達は	After parting with them, you all
+219202	+		意気揚々と街道を進む。	advanced cheerfully down the highway.
 
-219203	Nagata-kun	「いやー、今回は上手くいったなー。	「Man, this time things went well.
-219204	+	　二つの目的、二つとも果たしちまったぜ」	　We accomplished both goals.」
+219203	Nagata-kun	基本	「いやー、今回は上手くいったなー。	「Man, this time things went well.
+219204	+		　二つの目的、二つとも果たしちまったぜ」	　We accomplished both goals.」
 
-219205	Reset Kalar	「うんうん」	「Yeah yeah.」
+219205	Reset Kalar		「うんうん」	「Yeah yeah.」
 
-219206	Reset Kalar	「魔王の子の一人である	「One of the Demon King's children,
-219207	+	　ザンスちゃんが仲間になって」	　Zance-chan, joined us.」
+219206	Reset Kalar		「魔王の子の一人である	「One of the Demon King's children,
+219207	+		　ザンスちゃんが仲間になって」	　Zance-chan, joined us.」
 
-219208	Zance Leazas	「ふんっ」	「Hmph.」
+219208	Zance Leazas		「ふんっ」	「Hmph.」
 
-219209	Reset Kalar	「それにウズメちゃんも」	「And Uzume-chan too.」
+219209	Reset Kalar		「それにウズメちゃんも」	「And Uzume-chan too.」
 
-219210	Kentou Uzume	「ににんにん」	「Nin nin.」
+219210	Kentou Uzume		「ににんにん」	「Nin nin.」
 
-219211	Reset Kalar	「そして五つのオーブの内の一つも……」	「And one of the five orbs...」
+219211	Reset Kalar		「そして五つのオーブの内の一つも……」	「And one of the five orbs...」
 
-219212	Nagata-kun	「うはーっ！　俺ら絶好調じゃね！？」	「Whoa! We're on fire, aren't we!?」
+219212	Nagata-kun		「うはーっ！　俺ら絶好調じゃね！？」	「Whoa! We're on fire, aren't we!?」
 
-219213	El Mofus	「…………。」	「............」
-219214	Nagata-kun	「おうともよ！	「You bet!
-219215	+	　へへっ、お前って結構お調子乗りだよな！」	　Hehe, you're pretty hyped up too!」
+219213	El Mofus		「…………。」	「............」
+219214	Nagata-kun		「おうともよ！	「You bet!
+219215	+		　へへっ、お前って結構お調子乗りだよな！」	　Hehe, you're pretty hyped up too!」
 
-219216	Nagata-kun	「おっ！　さすが俺の相棒！	「Oh! As expected of my partner!
-219217	+	　締めるときは締めんじゃねーか！」	　You know when to get serious!」
+219216	Nagata-kun		「おっ！　さすが俺の相棒！	「Oh! As expected of my partner!
+219217	+		　締めるときは締めんじゃねーか！」	　You know when to get serious!」
 
-219218	Nagata-kun	「お前って奴は……本当にマイペースだなぁ」	「You're really... so laid-back.」
+219218	Nagata-kun		「お前って奴は……本当にマイペースだなぁ」	「You're really... so laid-back.」
 
-219219	Rocky Bank	「それで、次はどこに行きますだすか？」	「So, where are we going next desu?」
+219219	Rocky Bank		「それで、次はどこに行きますだすか？」	「So, where are we going next desu?」
 
-219220	Nagi su Ragarl	「うーんと、仲間集めとオーブ探しをするなら、	「Hmm, for gathering allies and searching for orbs,
-219221	+	　ヘルマンかゼスか……	　Helman, Zeth...
-219222	+	　それともJAPANかの三つかな？」	　or JAPAN? Those three options.」
+219220	Nagi su Ragarl		「うーんと、仲間集めとオーブ探しをするなら、	「Hmm, for gathering allies and searching for orbs,
+219221	+		　ヘルマンかゼスか……	　Helman, Zeth...
+219222	+		　それともJAPANかの三つかな？」	　or JAPAN? Those three options.」
 
-219223	Masou Shizuka	「JAPANがいいんじゃない？」	「How about JAPAN?」
+219223	Masou Shizuka		「JAPANがいいんじゃない？」	「How about JAPAN?」
 
-219224	Masou Shizuka	「どうせいつかは行かないといけないんだし	「We have to go there eventually anyway,
-219225	+	　後に回すとどんどん遠ざかるだけだわ」	　putting it off will only make it farther.」
+219224	Masou Shizuka		「どうせいつかは行かないといけないんだし	「We have to go there eventually anyway,
+219225	+		　後に回すとどんどん遠ざかるだけだわ」	　putting it off will only make it farther.」
 
-219226	Masou Shizuka	「特にヘルマン辺りまで行くと、	「Especially if we go to Helman first,
-219227	+	　行き来がかなり大変になるしね」	　traveling back would be really tough.」
+219226	Masou Shizuka		「特にヘルマン辺りまで行くと、	「Especially if we go to Helman first,
+219227	+		　行き来がかなり大変になるしね」	　traveling back would be really tough.」
 
-219228	Reset Kalar	「それじゃあ、次はどこに行く？	「Then where next?
-219229	+	　＜エール＞ちゃん」	　＜エール＞-chan?」
-219230	Nagi su Ragarl	「それじゃそうしよっか」	「Let's do that then.」
+219228	Reset Kalar		「それじゃあ、次はどこに行く？	「Then where next?
+219229	+		　＜エール＞ちゃん」	　＜エール＞-chan?」
+219230	Nagi su Ragarl		「それじゃそうしよっか」	「Let's do that then.」
 
-219231	Reset Kalar	「えへへ、次に会うのは、	「Ehehe, next we'll meet
-219232	+	　乱義ちゃんだねぇ、楽しみだねぇ」	　Rangi-chan. I'm looking forward to it.」
+219231	Reset Kalar	笑顔	「えへへ、次に会うのは、	「Ehehe, next we'll meet
+219232	+		　乱義ちゃんだねぇ、楽しみだねぇ」	　Rangi-chan. I'm looking forward to it.」
 
-219233	Masou Shizuka	「ま、乱義ならいいか……」	「Well, if it's Rangi, it's fine...」
+219233	Masou Shizuka	基本	「ま、乱義ならいいか……」	「Well, if it's Rangi, it's fine...」
 
-219234	Nagi su Ragarl	「あははははははははは！」	「Ahahahahahahaha!」
+219234	Nagi su Ragarl	笑顔	「あははははははははは！」	「Ahahahahahahaha!」
 
-219235	Masou Shizuka	「……あんた、私の話聞いてた？」	「...Hey, were you listening to me?」
+219235	Masou Shizuka	睨み	「……あんた、私の話聞いてた？」	「...Hey, were you listening to me?」
 
-219236	-	あなたは志津香にジロリと睨まれてしまった。	Shizuka glared at you.
+219236	-		あなたは志津香にジロリと睨まれてしまった。	Shizuka glared at you.
 
-219237	Reset Kalar	「あはは……」	「Ahaha...」
+219237	Reset Kalar	たははー	「あはは……」	「Ahaha...」
 
-219238	Nagi su Ragarl	「なんでゼス？」	「Why Zeth?」
+219238	Nagi su Ragarl	基本	「なんでゼス？」	「Why Zeth?」
 
-219239	Masou Shizuka	「……まあ、あんたが	「...Well, if you
-219240	+	　どうしてもって言うならいいけど」	　really insist, then okay.」
+219239	Masou Shizuka		「……まあ、あんたが	「...Well, if you
+219240	+		　どうしてもって言うならいいけど」	　really insist, then okay.」
 
-219241	Reset Kalar	「って、あれ？」	「Wait, huh?」
+219241	Reset Kalar		「って、あれ？」	「Wait, huh?」
 
-219242	Reset Kalar	「ザンスちゃん、	「Zance-chan,
-219243	+	　会話にまったく入ってこないけどどうかした？」	　hasn't said a word. Is something wrong?」
+219242	Reset Kalar		「ザンスちゃん、	「Zance-chan,
+219243	+		　会話にまったく入ってこないけどどうかした？」	　hasn't said a word. Is something wrong?」
 
-219244	Nagi su Ragarl	「確かに。	「True.
-219245	+	　いつもはこういう話してると、	　Usually he's so loud during talks like this.」
-219246	+	　うるさいくらいなのに」	
+219244	Nagi su Ragarl		「確かに。	「True.
+219245	+		　いつもはこういう話してると、	　Usually he's so loud during talks like this.」
+219246	+		　うるさいくらいなのに」	
 
-219247	Zance Leazas	「ん、ああ……」	「Hm, yeah...」
+219247	Zance Leazas		「ん、ああ……」	「Hm, yeah...」
 
-219248	-	何故かザンスはどこかボーッとしていた。	For some reason Zance seemed spaced out.
+219248	-		何故かザンスはどこかボーッとしていた。	For some reason Zance seemed spaced out.
 
-219249	Masou Shizuka	「……あんた。	「...You.
-219250	+	　変なこと企んでないでしょうね」	　You're not plotting something weird, are you?」
+219249	Masou Shizuka		「……あんた。	「...You.
+219250	+		　変なこと企んでないでしょうね」	　You're not plotting something weird, are you?」
 
-219251	Zance Leazas	「何も企んでねーよ、うっせーな」	「I'm not plotting anything, shut up.」
+219251	Zance Leazas		「何も企んでねーよ、うっせーな」	「I'm not plotting anything, shut up.」
 
-219252	Zance Leazas	「…………」	「............」
+219252	Zance Leazas		「…………」	「............」
 
-219253	Zance Leazas	「お前ら、先に行っとけ。	「You guys go on ahead.
-219254	+	　俺様は少し用がある」	　I have something to do.」
+219253	Zance Leazas		「お前ら、先に行っとけ。	「You guys go on ahead.
+219254	+		　俺様は少し用がある」	　I have something to do.」
 
-219255	Rocky Bank	「え、あ、あれ？　ザンス様？」	「Eh, huh? Lord Zance?」
+219255	Rocky Bank	ガーン	「え、あ、あれ？　ザンス様？」	「Eh, huh? Lord Zance?」
 
-219256	-	一人でスタスタとザンスが一行から離れていった。	Zance walked briskly away from the group alone.
+219256	-		一人でスタスタとザンスが一行から離れていった。	Zance walked briskly away from the group alone.
 
-219257	Nagata-kun	「な、なんだぁ、あいつ？	「W-what's with that guy?
-219258	+	　様子が変だったけど」	　He was acting weird.」
+219257	Nagata-kun	基本	「な、なんだぁ、あいつ？	「W-what's with that guy?
+219258	+		　様子が変だったけど」	　He was acting weird.」
 
-219259	Reset Kalar	「…………」	「............」
+219259	Reset Kalar		「…………」	「............」
 
-219260	Reset Kalar	「ふふ……」	「Fufu...」
+219260	Reset Kalar	笑顔	「ふふ……」	「Fufu...」
 
-219261	Nagata-kun	「リセットさん？」	「Reset-san?」
+219261	Nagata-kun	基本	「リセットさん？」	「Reset-san?」
 
-219262	Reset Kalar	「何しに行くか一緒に見に行ってみようか」	「Want to go see what he's up to together?」
+219262	Reset Kalar	笑顔	「何しに行くか一緒に見に行ってみようか」	「Want to go see what he's up to together?」
 
-219263	Nagata-kun	「？？？」	「???」
+219263	Nagata-kun	基本	「？？？」	「???」

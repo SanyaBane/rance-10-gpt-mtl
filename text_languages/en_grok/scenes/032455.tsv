@@ -2,21 +2,21 @@
 * Rance	ランス	Male
 * Hubert Lipton	ヒューバート	Male
 
-150866	Rance	「ふむ、そろそろ時間だな」	「Hmm, it's about time.」
+150866	Rance	基本	「ふむ、そろそろ時間だな」	「Hmm, it's about time.」
 
-150867	Hubert Lipton	「時間？」	「Time?」
+150867	Hubert Lipton		「時間？」	「Time?」
 
-150868	-	夜の冷え切った空気がかすかに変わる。	The cold night air changed slightly.
+150868	-		夜の冷え切った空気がかすかに変わる。	The cold night air changed slightly.
 
-150869	-	風は澄んだものになり、	The wind became clear,
-150870	+	木々の隙間からは、かすかではあるが、	and faint light began to pour through the gaps in the trees.
-150871	+	こもったような光が降り注ぎだしていた。	
+150869	-		風は澄んだものになり、	The wind became clear,
+150870	+		木々の隙間からは、かすかではあるが、	and faint light began to pour through the gaps in the trees.
+150871	+		こもったような光が降り注ぎだしていた。	
 
-150872	Hubert Lipton	「朝、か……」	「Morning already...」
+150872	Hubert Lipton		「朝、か……」	「Morning already...」
 
-150873	Rance	「もうすぐ城に着く頃だ」	「We'll reach the castle soon.」
+150873	Rance	真剣	「もうすぐ城に着く頃だ」	「We'll reach the castle soon.」
 
-150874	Rance	「泣いても笑っても	「Win or lose,
-150875	+	　今日がケッセルリンクとの決着になるだろう」	　today will be the decisive battle with Kesselring.」
+150874	Rance		「泣いても笑っても	「Win or lose,
+150875	+		　今日がケッセルリンクとの決着になるだろう」	　today will be the decisive battle with Kesselring.」
 
-150876	Rance	「気合い入れてけよ」	「Get pumped up.」
+150876	Rance		「気合い入れてけよ」	「Get pumped up.」

@@ -9,127 +9,127 @@
 * Papademas Shirusven	パパデマス	Male
 * Pespo Tontone	ペスポ	Male
 
-59329	Monster Captain	「おぉおおおらああぁぁぁあ！	「Ooooooraaaaaah!
-59330	+	　潰せ！　叩き潰せ！」	　Crush them! Smash them!」
+59329	Monster Captain	基本	「おぉおおおらああぁぁぁあ！	「Ooooooraaaaaah!
+59330	+		　潰せ！　叩き潰せ！」	　Crush them! Smash them!」
 
-59331	JAPAN General	「ぬう、防げ！　突撃させるな！」	「Nuu, defend! Don't let them charge!」
+59331	JAPAN General		「ぬう、防げ！　突撃させるな！」	「Nuu, defend! Don't let them charge!」
 
-59332	Free Cities Guard	「おっ、おおおお！　好きにさせるか！」	「O-Ooooo! I won't let you do as you please!」
+59332	Free Cities Guard		「おっ、おおおお！　好きにさせるか！」	「O-Ooooo! I won't let you do as you please!」
 
-59333	-	開戦から、一時間ほどが経過した。	About one hour had passed since the start of the battle.
+59333	-		開戦から、一時間ほどが経過した。	About one hour had passed since the start of the battle.
 
-59334	-	従来通り、魔軍は一塊になって突進し、	As usual, the Monster Army charged in one big mass,
-59335	+	一直線に自由都市連合の本陣を狙う。	aiming straight for the main camp of the Free Cities Alliance.
+59334	-		従来通り、魔軍は一塊になって突進し、	As usual, the Monster Army charged in one big mass,
+59335	+		一直線に自由都市連合の本陣を狙う。	aiming straight for the main camp of the Free Cities Alliance.
 
-59336	-	対する自由都市連合軍は両翼を少しだけ前方に出し、	The Free Cities Alliance Army pushed their wings slightly forward,
-59337	+	広く大規模な中央部でその大部分を受け止めていた。	and used their wide, large central force to absorb most of the attack.
+59336	-		対する自由都市連合軍は両翼を少しだけ前方に出し、	The Free Cities Alliance Army pushed their wings slightly forward,
+59337	+		広く大規模な中央部でその大部分を受け止めていた。	and used their wide, large central force to absorb most of the attack.
 
-59338	-	アイス、ハンナ、パランチョ、そしてJAPANの各軍が	The armies of Ice, Hanna, Parancho, and JAPAN
-59339	+	矢面に立ち、それを他の都市軍の部隊が支援する。	stood at the front, supported by units from other city armies.
+59338	-		アイス、ハンナ、パランチョ、そしてJAPANの各軍が	The armies of Ice, Hanna, Parancho, and JAPAN
+59339	+		矢面に立ち、それを他の都市軍の部隊が支援する。	stood at the front, supported by units from other city armies.
 
-59340	-	歩兵の打撃力では魔軍が大きく上回るが、	The Monster Army greatly surpassed them in infantry striking power,
-59341	+	人類軍は兵種の分担によって効率化されている。	but the human army was efficient through specialized troop roles.
+59340	-		歩兵の打撃力では魔軍が大きく上回るが、	The Monster Army greatly surpassed them in infantry striking power,
+59341	+		人類軍は兵種の分担によって効率化されている。	but the human army was efficient through specialized troop roles.
 
-59342	-	何より、惜しみなく投じられるマジックアイテムによって、	Above all, the generous use of magic items
-59343	+	数と質の差に堪え忍び、拮抗状態を作り上げていた。	allowed them to endure the difference in numbers and quality, creating a balanced state.
+59342	-		何より、惜しみなく投じられるマジックアイテムによって、	Above all, the generous use of magic items
+59343	+		数と質の差に堪え忍び、拮抗状態を作り上げていた。	allowed them to endure the difference in numbers and quality, creating a balanced state.
 
-59344	JAPAN Samurai	「右翼、ハンナの槍兵隊、	「Right wing, Hanna's spear unit,
-59345	+	　損耗率が4割に達しましてござる！」	　has reached 40% casualties!」
+59344	JAPAN Samurai	非武装	「右翼、ハンナの槍兵隊、	「Right wing, Hanna's spear unit,
+59345	+		　損耗率が4割に達しましてござる！」	　has reached 40% casualties!」
 
-59346	Shinoda Gengorou	「下げて。代わりにジオの重装歩兵隊、前に。	「Pull them back. Replace with Geo's heavy infantry in front.
-59347	+	　パランチョ騎士団と連携して、足止めして」	　Coordinate with the Parancho Knights to slow them down.」
+59346	Shinoda Gengorou	基本	「下げて。代わりにジオの重装歩兵隊、前に。	「Pull them back. Replace with Geo's heavy infantry in front.
+59347	+		　パランチョ騎士団と連携して、足止めして」	　Coordinate with the Parancho Knights to slow them down.」
 
-59348	JAPAN Samurai	「相承った！　すぐに伝えに走りまする！」	「Understood! I'll run to deliver it immediately!」
+59348	JAPAN Samurai	非武装	「相承った！　すぐに伝えに走りまする！」	「Understood! I'll run to deliver it immediately!」
 
-59349	Asakura Yoshikage	「しかし……伝令にてばさき隊を、ですか。	「However... using the Tebasaki unit as messengers.
-59350	+	　私たちには思いつきませんでしたな」	　We never thought of that.」
+59349	Asakura Yoshikage	基本	「しかし……伝令にてばさき隊を、ですか。	「However... using the Tebasaki unit as messengers.
+59350	+		　私たちには思いつきませんでしたな」	　We never thought of that.」
 
-59351	Shinoda Gengorou	「だって、あんなに速いんですよ？	「Because they're so fast, right?
-59352	+	　大事なもの運んでもらわなきゃ、損ですよ」	　It would be a waste not to use them to carry important things.」
+59351	Shinoda Gengorou		「だって、あんなに速いんですよ？	「Because they're so fast, right?
+59352	+		　大事なもの運んでもらわなきゃ、損ですよ」	　It would be a waste not to use them to carry important things.」
 
-59353	-	篠田源五郎がまず徹底したのは、伝令の速度だった。	The first thing Shinoda Gengo thoroughly focused on was the speed of messengers.
+59353	-		篠田源五郎がまず徹底したのは、伝令の速度だった。	The first thing Shinoda Gengo thoroughly focused on was the speed of messengers.
 
-59354	-	機動力と突破力に定評のあるてばさき騎兵隊を、	The Tebasaki cavalry, renowned for mobility and breakthrough power,
-59355	+	前線ではなく伝令を中心に起用し、	were used primarily as messengers rather than frontline troops,
-59356	+	軍隊全体の動きを滑らかにする。	smoothing out the entire army's movements.
+59354	-		機動力と突破力に定評のあるてばさき騎兵隊を、	The Tebasaki cavalry, renowned for mobility and breakthrough power,
+59355	+		前線ではなく伝令を中心に起用し、	were used primarily as messengers rather than frontline troops,
+59356	+		軍隊全体の動きを滑らかにする。	smoothing out the entire army's movements.
 
-59357	-	誉れ高き武田てばさき隊の生き残りたちの中には、	Among the survivors of the renowned Takeda Tebasaki unit,
-59358	+	前衛から外される事に抵抗を示した者もいたが、	some resisted being removed from the vanguard,
-59359	+	それらは朝倉義景が説得した。	but Asakura Yoshikage persuaded them.
+59357	-		誉れ高き武田てばさき隊の生き残りたちの中には、	Among the survivors of the renowned Takeda Tebasaki unit,
+59358	+		前衛から外される事に抵抗を示した者もいたが、	some resisted being removed from the vanguard,
+59359	+		それらは朝倉義景が説得した。	but Asakura Yoshikage persuaded them.
 
-59360	-	簡単な合図は陰陽師やチューリップ1号の信号弾で	Simple signals were handled by onmyoji and Tulip No.1 flares,
-59361	+	まかなえていたが、これにより複雑な作戦行動も	but this allowed more complex operations
-59362	+	以前より機敏に行えるようになっていた。	to be carried out more nimbly than before.
+59360	-		簡単な合図は陰陽師やチューリップ1号の信号弾で	Simple signals were handled by onmyoji and Tulip No.1 flares,
+59361	+		まかなえていたが、これにより複雑な作戦行動も	but this allowed more complex operations
+59362	+		以前より機敏に行えるようになっていた。	to be carried out more nimbly than before.
 
-59363	Asakura Yoshikage~	（JAPANでは忍者の仕事であったが……	（In JAPAN that was the job of ninjas...
-59364	+	　確かに、忍者は破壊工作や攪乱、暗殺など、	　Indeed, ninjas have plenty of necessary work like sabotage, disruption, assassination...
-59365	+	　必要な仕事はいくらもある……）	）
+59363	Asakura Yoshikage~		（JAPANでは忍者の仕事であったが……	（In JAPAN that was the job of ninjas...
+59364	+		　確かに、忍者は破壊工作や攪乱、暗殺など、	　Indeed, ninjas have plenty of necessary work like sabotage, disruption, assassination...
+59365	+		　必要な仕事はいくらもある……）	）
 
-59366	Asakura Yoshikage~	（てばさき隊も、他の兵と連動する際には、	（The Tebasaki unit also sometimes struggles with coordination
-59367	+	　高すぎる機動性を持てあます事もある……）	　due to their excessively high mobility when linking with other troops...）
+59366	Asakura Yoshikage~		（てばさき隊も、他の兵と連動する際には、	（The Tebasaki unit also sometimes struggles with coordination
+59367	+		　高すぎる機動性を持てあます事もある……）	　due to their excessively high mobility when linking with other troops...）
 
-59368	Shinoda Gengorou	「もっといっぱいいるのなら、ウィングとして	「If there were more of them, they could play as wings,
-59369	+	　活躍してもらうんですけどねー」	　but oh well~」
+59368	Shinoda Gengorou		「もっといっぱいいるのなら、ウィングとして	「If there were more of them, they could play as wings,
+59369	+		　活躍してもらうんですけどねー」	　but oh well~」
 
-59370	-	サッカーボールを撫でながら、	While stroking a soccer ball,
-59371	+	篠田はのほほんと呟いた。	Shinoda muttered casually.
+59370	-		サッカーボールを撫でながら、	While stroking a soccer ball,
+59371	+		篠田はのほほんと呟いた。	Shinoda muttered casually.
 
-59372	-	司令部が矢継ぎ早に指示していく中、	While headquarters issued rapid instructions,
-59373	+	前線も徐々に戦闘が本格化していく。	the frontline battle gradually intensified.
+59372	-		司令部が矢継ぎ早に指示していく中、	While headquarters issued rapid instructions,
+59373	+		前線も徐々に戦闘が本格化していく。	the frontline battle gradually intensified.
 
-59374	-	力押しで蹂躙してくる魔軍に対し、	Against the Monster Army's overwhelming brute force,
-59375	+	自由都市連合は小分けした各部隊を早めに交代させ、	the Free Cities Alliance rotated smaller units early
-59376	+	側面攻撃を多用することで勢いを削ぐ構えで動く。	and used frequent flank attacks to blunt their momentum.
+59374	-		力押しで蹂躙してくる魔軍に対し、	Against the Monster Army's overwhelming brute force,
+59375	+		自由都市連合は小分けした各部隊を早めに交代させ、	the Free Cities Alliance rotated smaller units early
+59376	+		側面攻撃を多用することで勢いを削ぐ構えで動く。	and used frequent flank attacks to blunt their momentum.
 
-59377	Cecil Carna	「一進一退……か。	「A back-and-forth battle... huh.
-59378	+	　いや、上手くやっていると見るべきだな」	　No, we should see this as going well.」
+59377	Cecil Carna		「一進一退……か。	「A back-and-forth battle... huh.
+59378	+		　いや、上手くやっていると見るべきだな」	　No, we should see this as going well.」
 
-59379	Shinoda Gengorou	「セシルさんの隊はもうちょっと待ってくださいね。	「Please hold Cecil-san's unit a bit longer.
-59380	+	　規模的にも虎の子なので」	　They're our precious ace unit in terms of scale.」
+59379	Shinoda Gengorou		「セシルさんの隊はもうちょっと待ってくださいね。	「Please hold Cecil-san's unit a bit longer.
+59380	+		　規模的にも虎の子なので」	　They're our precious ace unit in terms of scale.」
 
-59381	Cecil Carna	「ああ。いつでも出撃は可能にしておく」	「Understood. We'll be ready to deploy anytime.」
+59381	Cecil Carna		「ああ。いつでも出撃は可能にしておく」	「Understood. We'll be ready to deploy anytime.」
 
-59382	Papademas Shirusven	「はああぁ、ジオの兵力が使われている……	「Haaah, Geo's forces are being used...
-59383	+	　その、今は勝っているのですかな」	　So, are we winning right now?」
+59382	Papademas Shirusven		「はああぁ、ジオの兵力が使われている……	「Haaah, Geo's forces are being used...
+59383	+		　その、今は勝っているのですかな」	　So, are we winning right now?」
 
-59384	Shinoda Gengorou	「んー、まぁまぁかなぁ……」	「Hmm, it's going okay I guess...」
+59384	Shinoda Gengorou		「んー、まぁまぁかなぁ……」	「Hmm, it's going okay I guess...」
 
-59385	Papademas Shirusven	「むう……しかし、随分と兵を余らせるのですな。	「Muu... But you're keeping quite a lot of troops in reserve.
-59386	+	　逐次投入せず、あるだけの兵力で叩くべきでは？」	　Shouldn't we commit all available forces at once?」
+59385	Papademas Shirusven		「むう……しかし、随分と兵を余らせるのですな。	「Muu... But you're keeping quite a lot of troops in reserve.
+59386	+		　逐次投入せず、あるだけの兵力で叩くべきでは？」	　Shouldn't we commit all available forces at once?」
 
-59387	Shinoda Gengorou	「だめだめ。選手は生き物なんですよ。	「No no. Players are living beings.
-59388	+	　試合してたら疲れるに決まってるでしょ」	　Of course they'll get tired if they play the whole match.」
+59387	Shinoda Gengorou		「だめだめ。選手は生き物なんですよ。	「No no. Players are living beings.
+59388	+		　試合してたら疲れるに決まってるでしょ」	　Of course they'll get tired if they play the whole match.」
 
-59389	Papademas Shirusven	「は……ぁ、それは、まぁ……」	「Ha... Well, that's true...」
+59389	Papademas Shirusven		「は……ぁ、それは、まぁ……」	「Ha... Well, that's true...」
 
-59390	Shinoda Gengorou	「短期決戦で終わらせられるくらい差があれば	「If the difference was big enough for a quick decisive battle,
-59391	+	　ともかく、この状況じゃ入れ替えられる選手は	　that would be one thing, but in this situation,
-59392	+	　入れ替えてかないと」	　we need to rotate the players.」
+59390	Shinoda Gengorou		「短期決戦で終わらせられるくらい差があれば	「If the difference was big enough for a quick decisive battle,
+59391	+		　ともかく、この状況じゃ入れ替えられる選手は	　that would be one thing, but in this situation,
+59392	+		　入れ替えてかないと」	　we need to rotate the players.」
 
-59393	Shinoda Gengorou	「これでも、けっこう無理してもらってますよ。	「Even now, we're already pushing them quite hard.
-59394	+	　ホントは、一撃離脱して帰らせるくらいが	　Ideally we'd hit once and pull back,
-59395	+	　一番いいんです」	　that's the best approach.」
+59393	Shinoda Gengorou		「これでも、けっこう無理してもらってますよ。	「Even now, we're already pushing them quite hard.
+59394	+		　ホントは、一撃離脱して帰らせるくらいが	　Ideally we'd hit once and pull back,
+59395	+		　一番いいんです」	　that's the best approach.」
 
-59396	Papademas Shirusven	「はあ……私の……いや、都市の兵が戦ってる所を	「Haa... Watching my... no, my city's soldiers fight
-59397	+	　見るのは神経がやられますな……おや」	　is nerve-wracking... Oh?」
+59396	Papademas Shirusven		「はあ……私の……いや、都市の兵が戦ってる所を	「Haa... Watching my... no, my city's soldiers fight
+59397	+		　見るのは神経がやられますな……おや」	　is nerve-wracking... Oh?」
 
-59398	Pespo Tontone	「どうかしたかい」	「Something wrong?」
+59398	Pespo Tontone		「どうかしたかい」	「Something wrong?」
 
-59399	Papademas Shirusven	「幾人か……居られない方々が……」	「Some people... are missing...」
+59399	Papademas Shirusven		「幾人か……居られない方々が……」	「Some people... are missing...」
 
-59400	Pespo Tontone	「ああ、エレノア嬢ちゃんとビヨンホウは前線。	「Ah, Miss Eleanor and Biyonhou are at the front.
-59401	+	　コパ嬢ちゃんは補給隊と行ったり来たりしてらぁ。	　Miss Copandon is going back and forth with the supply unit.
-59402	+	　パトリシアのおばちゃんは医療班とかの調整だな」	　Aunt Patricia is coordinating the medical teams and such.」
+59400	Pespo Tontone		「ああ、エレノア嬢ちゃんとビヨンホウは前線。	「Ah, Miss Eleanor and Biyonhou are at the front.
+59401	+		　コパ嬢ちゃんは補給隊と行ったり来たりしてらぁ。	　Miss Copandon is going back and forth with the supply unit.
+59402	+		　パトリシアのおばちゃんは医療班とかの調整だな」	　Aunt Patricia is coordinating the medical teams and such.」
 
-59403	Papademas Shirusven	「ははぁ。ご苦労な事で……」	「I see. They're working hard...」
+59403	Papademas Shirusven		「ははぁ。ご苦労な事で……」	「I see. They're working hard...」
 
-59404	JAPAN Samurai	「パランチョの宮廷魔術師殿より魔法で報告が！	「Magical report from Parancho's Court Mage!
-59405	+	『パン生地は延ばしきった』と！」	『The dough has been fully stretched!』」
+59404	JAPAN Samurai	非武装	「パランチョの宮廷魔術師殿より魔法で報告が！	「Magical report from Parancho's Court Mage!
+59405	+		『パン生地は延ばしきった』と！」	『The dough has been fully stretched!』」
 
-59406	Cecil Carna	「…………！　来たか！」	「............! Here it comes!」
+59406	Cecil Carna	怒り	「…………！　来たか！」	「............! Here it comes!」
 
-59407	Shinoda Gengorou	「あ、よかった〜。	「Ah, perfect~.
-59408	+	　じゃあ、戦車隊の隊長さんに連絡。	　Then contact the tank unit captain.
-59409	+	　手筈通りに、ってね」	　Just as planned.」
+59407	Shinoda Gengorou	基本	「あ、よかった〜。	「Ah, perfect~.
+59408	+		　じゃあ、戦車隊の隊長さんに連絡。	　Then contact the tank unit captain.
+59409	+		　手筈通りに、ってね」	　Just as planned.」
 
-59410	JAPAN Samurai	「承知仕った！」	「Understood!」
+59410	JAPAN Samurai	非武装	「承知仕った！」	「Understood!」

@@ -8,53 +8,53 @@
 * Reset Kalar	リセット	Female
 * Pastel Kalar	パステル	Female
 
-168597	-	山を越えたランス達は、	After crossing the mountains,
-168598	+	リーザス南西部の農地地帯に来ていた。	Rance and the others reached the farmland area in southwestern Leazas.
+168597	-		山を越えたランス達は、	After crossing the mountains,
+168598	+		リーザス南西部の農地地帯に来ていた。	Rance and the others reached the farmland area in southwestern Leazas.
 
-168599	Sill Plain	「わぁ〜……すごいですね、ランス様」	「Waa... it's amazing, Rance-sama.」
+168599	Sill Plain	基本	「わぁ〜……すごいですね、ランス様」	「Waa... it's amazing, Rance-sama.」
 
-168600	Rance	「ほーう、見渡す限り農地だな」	「Hmm, farmland as far as the eye can see.」
+168600	Rance		「ほーう、見渡す限り農地だな」	「Hmm, farmland as far as the eye can see.」
 
-168601	Tilde Sharp	「この辺りはリーザスの穀倉地帯、	「This area is Leazas's granary region,
-168602	+	　ここで収穫された食物はリーザス中に	　the food harvested here is shipped
-168603	+	　出荷されていきますわ」	　all across Leazas.」
+168601	Tilde Sharp	ニコリ	「この辺りはリーザスの穀倉地帯、	「This area is Leazas's granary region,
+168602	+		　ここで収穫された食物はリーザス中に	　the food harvested here is shipped
+168603	+		　出荷されていきますわ」	　all across Leazas.」
 
-168604	Tilde Sharp	「ご覧の通り、地平線の先まで	「As you can see, vast plantations stretch
-168605	+	　大規模な農園が広がる地域ですわね」	　all the way to the horizon.」
+168604	Tilde Sharp		「ご覧の通り、地平線の先まで	「As you can see, vast plantations stretch
+168605	+		　大規模な農園が広がる地域ですわね」	　all the way to the horizon.」
 
-168606	Tilde Sharp	「魔軍の支配地ではありますが、	「Although it's under Monster Army control,
-168607	+	　幸いこの時期はレタスが繁っております。	　luckily lettuce is growing thickly this season.
-168608	+	　ある程度の規模で動いても見つかりにくい筈」	　Moving in a decent sized group should be hard to spot.」
+168606	Tilde Sharp		「魔軍の支配地ではありますが、	「Although it's under Monster Army control,
+168607	+		　幸いこの時期はレタスが繁っております。	　luckily lettuce is growing thickly this season.
+168608	+		　ある程度の規模で動いても見つかりにくい筈」	　Moving in a decent sized group should be hard to spot.」
 
-168609	Tilde Sharp	「皆様、目立たないよう気をつけて進みましょう」	「Everyone, please proceed carefully so we don't stand out.」
+168609	Tilde Sharp		「皆様、目立たないよう気をつけて進みましょう」	「Everyone, please proceed carefully so we don't stand out.」
 
-168610	Rance	「おうおう」	「Yeah yeah.」
+168610	Rance	基本	「おうおう」	「Yeah yeah.」
 
-168611	Sill Plain	「わー……レタスの間を進むなんて	「Waa... walking through lettuce fields
-168612	+	　なんだか不思議な気分ですねー……」	　feels so strange...」
+168611	Sill Plain		「わー……レタスの間を進むなんて	「Waa... walking through lettuce fields
+168612	+		　なんだか不思議な気分ですねー……」	　feels so strange...」
 
-168613	Tilde Sharp	「観光ではないのですから、	「This isn't sightseeing,
-168614	+	　もう少しピシッとして下さいな……」	　so please be a bit more focused...」
+168613	Tilde Sharp		「観光ではないのですから、	「This isn't sightseeing,
+168614	+		　もう少しピシッとして下さいな……」	　so please be a bit more focused...」
 
-168615	Sill Plain	「あわわ、すみません……」	「Awa wa, sorry...」
+168615	Sill Plain	苦笑	「あわわ、すみません……」	「Awa wa, sorry...」
 
-168616	-	一行が黙々とレタスの間を進む。	The group advanced silently through the lettuce fields.
+168616	-		一行が黙々とレタスの間を進む。	The group advanced silently through the lettuce fields.
 
-168617	Pigu Geliciam	「はむはむ、ぱくぱく」	「Ham ham, munch munch.」
+168617	Pigu Geliciam	基本	「はむはむ、ぱくぱく」	「Ham ham, munch munch.」
 
-168618	Kibako	「がつがつ、ガシュガシュ」	「Gulp gulp, crunch crunch.」
+168618	Kibako		「がつがつ、ガシュガシュ」	「Gulp gulp, crunch crunch.」
 
-168619	Caloria Cricket	「わ、わ、二人とも勝手に食べちゃ駄目だよー」	「W-wait, you two can't just eat on your own!」
+168619	Caloria Cricket	だめー	「わ、わ、二人とも勝手に食べちゃ駄目だよー」	「W-wait, you two can't just eat on your own!」
 
-168620	Rance	「ん、野生児三人娘がレタスに夢中になってる」	「Hmm, the three wild girls are obsessed with the lettuce.」
+168620	Rance	基本	「ん、野生児三人娘がレタスに夢中になってる」	「Hmm, the three wild girls are obsessed with the lettuce.」
 
-168621	Caloria Cricket	「えっ、かろも野生児！？」	「Eh, Caloria is a wild child too!?」
+168621	Caloria Cricket	驚き	「えっ、かろも野生児！？」	「Eh, Caloria is a wild child too!?」
 
-168622	Reset Kalar	「じーーーー……」	「Staaaaare......」
+168622	Reset Kalar	基本	「じーーーー……」	「Staaaaare......」
 
-168623	-	リセットがキラキラとした目で	Reset looked up at the lettuce
-168624	+	レタスを見上げていた。	with sparkling eyes.
+168623	-		リセットがキラキラとした目で	Reset looked up at the lettuce
+168624	+		レタスを見上げていた。	with sparkling eyes.
 
-168625	Pastel Kalar	「腹を壊すぞ、やめんか」	「You'll get a stomachache, stop it.」
+168625	Pastel Kalar		「腹を壊すぞ、やめんか」	「You'll get a stomachache, stop it.」
 
-168626	Tilde Sharp	「はあ……まるでピクニックですわね……」	「Haa... it's like a picnic...」
+168626	Tilde Sharp		「はあ……まるでピクニックですわね……」	「Haa... it's like a picnic...」

@@ -3,83 +3,83 @@
 * Katyusha Bosch	カチューシャ	Female
 * Convert Tax	コンバート	Male
 
-57236	-	夜半。自由都市、ゴア――	Midnight. Free Cities, Goa――
+57236	-		夜半。自由都市、ゴア――	Midnight. Free Cities, Goa――
 
-57237	-	カチューシャに連れられ、	Led by Katyusha,
-57238	+	ランスは単身でこの小さな自由都市を訪れていた。	Rance visited this small Free Cities alone.
+57237	-		カチューシャに連れられ、	Led by Katyusha,
+57238	+		ランスは単身でこの小さな自由都市を訪れていた。	Rance visited this small Free Cities alone.
 
-57239	Rance	「……で、誰だ？　会わせたいってのは」	「...So, who is it? The person you want me to meet.」
+57239	Rance	基本	「……で、誰だ？　会わせたいってのは」	「...So, who is it? The person you want me to meet.」
 
-57240	Katyusha Bosch	「そう焦らず。顔を見れば、分かると思いますわ」	「Don't be so impatient. You'll understand when you see the face.」
+57240	Katyusha Bosch		「そう焦らず。顔を見れば、分かると思いますわ」	「Don't be so impatient. You'll understand when you see the face.」
 
-57241	Convert Tax	「ぶひゃひゃひゃひゃ！　ごめんやっしゃー！	「Buhyahyahya! Sorry for the wait!
-57242	+	　ランス総統でんな！」	　It's Supreme Leader Rance!」
+57241	Convert Tax		「ぶひゃひゃひゃひゃ！　ごめんやっしゃー！	「Buhyahyahya! Sorry for the wait!
+57242	+		　ランス総統でんな！」	　It's Supreme Leader Rance!」
 
-57243	Rance	「…………まったく分からん。帰るか」	「............I have no idea who you are. I'm leaving.」
+57243	Rance	だる顔	「…………まったく分からん。帰るか」	「............I have no idea who you are. I'm leaving.」
 
-57244	Katyusha Bosch	「落ち着いてください。彼はただの使者です」	「Please calm down. He's just a messenger.」
+57244	Katyusha Bosch	基本	「落ち着いてください。彼はただの使者です」	「Please calm down. He's just a messenger.」
 
-57245	Rance	「使者だぁ？　俺を案内するなら、	「A messenger? If you're guiding me,
-57246	+	　綺麗な姉ちゃんにしろ」	　use a hot chick.」
+57245	Rance	イライラ	「使者だぁ？　俺を案内するなら、	「A messenger? If you're guiding me,
+57246	+		　綺麗な姉ちゃんにしろ」	　use a hot chick.」
 
-57247	Convert Tax	「まぁまぁまぁまぁ！	「Now now now!
-57248	+	　ちょこーっとワイの話も聞いてくれなはれ。	　Just hear me out for a moment.
-57249	+	　総統に損はさせませんよってん！」	　I won't let the Supreme Leader lose out!」
+57247	Convert Tax	やってもうた	「まぁまぁまぁまぁ！	「Now now now!
+57248	+		　ちょこーっとワイの話も聞いてくれなはれ。	　Just hear me out for a moment.
+57249	+		　総統に損はさせませんよってん！」	　I won't let the Supreme Leader lose out!」
 
-57250	Convert Tax	「というのもですな、この戦争のことでんねや」	「It's about this war, you see.」
+57250	Convert Tax	基本	「というのもですな、この戦争のことでんねや」	「It's about this war, you see.」
 
-57251	Rance	「なんだ。協力したいって奴でもいるのか」	「What? Someone wants to cooperate?」
+57251	Rance	真剣	「なんだ。協力したいって奴でもいるのか」	「What? Someone wants to cooperate?」
 
-57252	Convert Tax	「あー、そういうんとはちゃいますねや。	「Ah, not quite that.
-57253	+	　この戦争、人類は勝てまへんわ。あきまへん」	　Humanity can't win this war. It's impossible.」
+57252	Convert Tax	基本	「あー、そういうんとはちゃいますねや。	「Ah, not quite that.
+57253	+		　この戦争、人類は勝てまへんわ。あきまへん」	　Humanity can't win this war. It's impossible.」
 
-57254	Rance	「なんだと？」	「What did you say?」
+57254	Rance	真剣	「なんだと？」	「What did you say?」
 
-57255	Convert Tax	「あー！　もちろん総統閣下のお力は聞いてまっせ。	「Ah! Of course I know your power, Supreme Leader.
-57256	+	　けどそれだけに、惜しいなぁ……っちゅう話	　But that's exactly why it's such a shame...」
-57257	+	　なんですわ」	
+57255	Convert Tax	やってもうた	「あー！　もちろん総統閣下のお力は聞いてまっせ。	「Ah! Of course I know your power, Supreme Leader.
+57256	+		　けどそれだけに、惜しいなぁ……っちゅう話	　But that's exactly why it's such a shame...」
+57257	+		　なんですわ」	
 
-57258	Convert Tax	「そうでっしゃろ。総統閣下が魔人を倒しても、	「Right? Even if you defeat the Fiends,
-57259	+	　相手には100万とか200万とか、	　they have hundreds of thousands, even millions of troops.
-57260	+	　滅茶苦茶な数の兵がおりますやん」	
+57258	Convert Tax	基本	「そうでっしゃろ。総統閣下が魔人を倒しても、	「Right? Even if you defeat the Fiends,
+57259	+		　相手には100万とか200万とか、	　they have hundreds of thousands, even millions of troops.
+57260	+		　滅茶苦茶な数の兵がおりますやん」	
 
-57261	Convert Tax	「こらもう、詰んでますわ。	「It's already checkmate.
-57262	+	　どうせ負けるのに、負ける方について、	　Why die on the losing side,
-57263	+	　おっ死んで……こないなアホな話はないですわ」	　it's stupid.」
+57261	Convert Tax		「こらもう、詰んでますわ。	「It's already checkmate.
+57262	+		　どうせ負けるのに、負ける方について、	　Why die on the losing side,
+57263	+		　おっ死んで……こないなアホな話はないですわ」	　it's stupid.」
 
-57264	Convert Tax	「総統閣下のような偉大な方がそないな目に遭う	「A great man like you suffering that fate
-57265	+	　なんて、こらぁおかしいですわ。人類の損失です」	　is a huge loss for humanity.」
+57264	Convert Tax		「総統閣下のような偉大な方がそないな目に遭う	「A great man like you suffering that fate
+57265	+		　なんて、こらぁおかしいですわ。人類の損失です」	　is a huge loss for humanity.」
 
-57266	Rance	「……………………」	「........................」
+57266	Rance	真剣	「……………………」	「........................」
 
-57267	Convert Tax	「魔軍の連中も、人類を絶滅させたろ思ってる訳と	「The Monster Army doesn't want to exterminate humanity.
-57268	+	　違いますねん。人類を支配した後、	　After dominating them,
-57269	+	　統治するためのコマを欲しがってますねん」	　they want pieces to rule over.」
+57267	Convert Tax	基本	「魔軍の連中も、人類を絶滅させたろ思ってる訳と	「The Monster Army doesn't want to exterminate humanity.
+57268	+		　違いますねん。人類を支配した後、	　After dominating them,
+57269	+		　統治するためのコマを欲しがってますねん」	　they want pieces to rule over.」
 
-57270	Convert Tax	「せやから、無駄な抵抗を続けんと、	「So instead of pointless resistance,
-57271	+	　すぱーっと見切りをつけて、	　cut your losses cleanly
-57272	+	　次の時代の勝ち組目指しましょうや」	　and aim to be winners in the new era.」
+57270	Convert Tax		「せやから、無駄な抵抗を続けんと、	「So instead of pointless resistance,
+57271	+		　すぱーっと見切りをつけて、	　cut your losses cleanly
+57272	+		　次の時代の勝ち組目指しましょうや」	　and aim to be winners in the new era.」
 
-57273	Rance	「ふん。良く喋るぶた饅頭だな」	「Hmph. You're a talkative pig bun.」
+57273	Rance	真剣	「ふん。良く喋るぶた饅頭だな」	「Hmph. You're a talkative pig bun.」
 
-57274	Convert Tax	「ぶっ……あーいやいや。ランス閣下の為ですねん！	「Buh... Ah no no. It's for you, Lord Rance!
-57275	+	　魔軍についたら、人類側の統治の責任者に	　If you join the Monster Army, they'll make you the ruler
-57276	+	　してくれるそうなんですわ！」	　of the human side!」
+57274	Convert Tax	お、おかしいでんな〜	「ぶっ……あーいやいや。ランス閣下の為ですねん！	「Buh... Ah no no. It's for you, Lord Rance!
+57275	+		　魔軍についたら、人類側の統治の責任者に	　If you join the Monster Army, they'll make you the ruler
+57276	+		　してくれるそうなんですわ！」	　of the human side!」
 
-57277	Rance	「ふーん……まあ、確かに勝つ方に付くのは	「Hmm... Well, joining the winning side is
-57278	+	　当然だな」	　only natural.」
+57277	Rance	基本	「ふーん……まあ、確かに勝つ方に付くのは	「Hmm... Well, joining the winning side is
+57278	+		　当然だな」	　only natural.」
 
-57279	Convert Tax	「ええ話でっしゃろ！？	「Great offer, right!?
-57280	+	　やー、カチューシャはんの言うとった通り、	　Just as Katyusha said,
-57281	+	　話の分かる方で良かったですわ！」	　you're a reasonable man!」
+57279	Convert Tax		「ええ話でっしゃろ！？	「Great offer, right!?
+57280	+		　やー、カチューシャはんの言うとった通り、	　Just as Katyusha said,
+57281	+		　話の分かる方で良かったですわ！」	　you're a reasonable man!」
 
-57282	Rance	「会わせたいってのは、魔軍か。	「So the one you want me to meet is from the Monster Army.
-57283	+	　じゃあ魔人だかはここに来てるのか？」	　Is the Fiend here?」
+57282	Rance		「会わせたいってのは、魔軍か。	「So the one you want me to meet is from the Monster Army.
+57283	+		　じゃあ魔人だかはここに来てるのか？」	　Is the Fiend here?」
 
-57284	Convert Tax	「ええ、ええ！　来とります。レイいう魔人ですわ。	「Yes, yes! He's here. The Fiend named Lei.
-57285	+	　ささ、こちらでっせー！」	　This way!」
+57284	Convert Tax		「ええ、ええ！　来とります。レイいう魔人ですわ。	「Yes, yes! He's here. The Fiend named Lei.
+57285	+		　ささ、こちらでっせー！」	　This way!」
 
-57286	Rance	「うむ、まあいい。案内しろ」	「Yeah, fine. Lead the way.」
+57286	Rance		「うむ、まあいい。案内しろ」	「Yeah, fine. Lead the way.」
 
-57287	-	小躍りせんばかりのコンバートが案内し、	Convert led the way, almost dancing with joy,
-57288	+	ランスたちはそのまま、歩いていった。	and Rance's group followed.
+57287	-		小躍りせんばかりのコンバートが案内し、	Convert led the way, almost dancing with joy,
+57288	+		ランスたちはそのまま、歩いていった。	and Rance's group followed.

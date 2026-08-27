@@ -2,74 +2,74 @@
 * Doss	ドッス２	Male
 * Wass	ワッス２	Male
 
-190588	-	夜、あなたは仲間達と共に、	At night, you were with your companions,
-190589	+	焚き火を囲んであれやこれやと	sitting around the campfire
-190590	+	とりとめのない話をして過ごした。	chatting about random things.
+190588	-		夜、あなたは仲間達と共に、	At night, you were with your companions,
+190589	+		焚き火を囲んであれやこれやと	sitting around the campfire
+190590	+		とりとめのない話をして過ごした。	chatting about random things.
 
-190591	-	いつしか夜は深まり、	Before long the night grew deep,
-190592	+	あなたはうとうとと船を漕ぎ、	and you started dozing off,
-190593	+	椅子に座ってうたた寝をしていた。	nodding off in your chair.
+190591	-		いつしか夜は深まり、	Before long the night grew deep,
+190592	+		あなたはうとうとと船を漕ぎ、	and you started dozing off,
+190593	+		椅子に座ってうたた寝をしていた。	nodding off in your chair.
 
-190594	-	…………	............
+190594	-		…………	............
 
-190595	-	……	...
+190595	-		……	...
 
-190596	-	体が揺れていることに気づき、	Noticing your body swaying,
-190597	+	あなたはそっと瞼を開く。	you gently opened your eyes.
+190596	-		体が揺れていることに気づき、	Noticing your body swaying,
+190597	+		あなたはそっと瞼を開く。	you gently opened your eyes.
 
-190598	Doss	「…………」	「............」
+190598	Doss	基本	「…………」	「............」
 
-190599	-	あなたはドッスの大きな腕の中で、	You were being carried in Doss's large arms,
-190600	+	抱えられていた。	cradled securely.
+190599	-		あなたはドッスの大きな腕の中で、	You were being carried in Doss's large arms,
+190600	+		抱えられていた。	cradled securely.
 
-190601	Wass	「…………」	「............」
+190601	Wass		「…………」	「............」
 
-190602	-	ドッスの隣にいるワッスは、	Wass walking beside Doss
-190603	+	ドッスと同じように長田君を抱えていた。	was carrying Nagata-kun the same way.
+190602	-		ドッスの隣にいるワッスは、	Wass walking beside Doss
+190603	+		ドッスと同じように長田君を抱えていた。	was carrying Nagata-kun the same way.
 
-190604	-	どうやら、眠ってしまったあなたは	It seemed that while you were asleep,
-190605	+	ドッスとワッスの二人に	Doss and Wass
-190606	+	テントまで抱えられているらしい。	were carrying you back to the tent.
+190604	-		どうやら、眠ってしまったあなたは	It seemed that while you were asleep,
+190605	+		ドッスとワッスの二人に	Doss and Wass
+190606	+		テントまで抱えられているらしい。	were carrying you back to the tent.
 
-190607	Doss	「……む、起こした、か」	「...Did I wake you?」
+190607	Doss		「……む、起こした、か」	「...Did I wake you?」
 
 > female
-190608	Doss	「……じょ、女性だから、	「...Since you're a woman,
-190609	+	　触れていいか悩んだ、のだが」	　I hesitated whether it was okay to touch you.」
+190608	Doss		「……じょ、女性だから、	「...Since you're a woman,
+190609	+		　触れていいか悩んだ、のだが」	　I hesitated whether it was okay to touch you.」
 
 > end
-190610	Doss	「……す、すまん」	「...Sorry.」
+190610	Doss		「……す、すまん」	「...Sorry.」
 
-190611	-	ドッスはぶっきらぼうに、	Doss spoke gruffly,
-190612	+	しかし本当に申し訳なさそうに謝った。	but clearly looked very apologetic.
+190611	-		ドッスはぶっきらぼうに、	Doss spoke gruffly,
+190612	+		しかし本当に申し訳なさそうに謝った。	but clearly looked very apologetic.
 
-190613	Wass	「…………」	「............」
+190613	Wass		「…………」	「............」
 
-190614	Doss	「…………」	「............」
+190614	Doss		「…………」	「............」
 
-190615	-	あなたの言葉に二人は顔を見合わせる。	At your words, the two looked at each other.
+190615	-		あなたの言葉に二人は顔を見合わせる。	At your words, the two looked at each other.
 
-190616	Wass	「良かった、です……」	「I'm glad...」
+190616	Wass		「良かった、です……」	「I'm glad...」
 
-190617	Doss	「……う、うむ」	「...Y-yeah.」
+190617	Doss		「……う、うむ」	「...Y-yeah.」
 
-190618	Wass	「ね、寝て、下さい……」	「Go back to sleep...」
+190618	Wass		「ね、寝て、下さい……」	「Go back to sleep...」
 
-190619	Doss	「……は、運んでおく」	「...I'll carry you.」
+190619	Doss		「……は、運んでおく」	「...I'll carry you.」
 
-190620	Wass	「とんでもない、です……」	「It's nothing...」
+190620	Wass		「とんでもない、です……」	「It's nothing...」
 
-190621	Doss	「……これは、恩返し」	「...This is repaying a favor.」
+190621	Doss		「……これは、恩返し」	「...This is repaying a favor.」
 
-190622	Wass	「したいから、してる、だけ……」	「We're doing it because we want to...」
+190622	Wass		「したいから、してる、だけ……」	「We're doing it because we want to...」
 
-190623	Doss	「……俺達、その為に、ここにいる」	「...We're here for that reason.」
+190623	Doss		「……俺達、その為に、ここにいる」	「...We're here for that reason.」
 
-190624	-	二人は照れているようだ。	The two seemed embarrassed.
-190625	+	顔を真っ赤にしていた。	Their faces were bright red.
+190624	-		二人は照れているようだ。	The two seemed embarrassed.
+190625	+		顔を真っ赤にしていた。	Their faces were bright red.
 
-190626	-	あなたは心地よい揺れを感じながら、	Feeling the comfortable swaying,
-190627	+	テントへと運ばれていく。	you were carried toward the tent.
+190626	-		あなたは心地よい揺れを感じながら、	Feeling the comfortable swaying,
+190627	+		テントへと運ばれていく。	you were carried toward the tent.
 
-190628	-	なんとなく、今までよりも深く、	Somehow, you felt you had grown
-190629	+	二人と仲良くなれたような気がした。	even closer to the two than before.
+190628	-		なんとなく、今までよりも深く、	Somehow, you felt you had grown
+190629	+		二人と仲良くなれたような気がした。	even closer to the two than before.

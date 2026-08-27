@@ -5,83 +5,83 @@
 * Heidi Pankrau	ハイジ	Female
 * Krutche Muffin	クルーチェ	Female
 
-19421	?	「きゃあーーーーーーっ！」	「Kyaaaaaaa!」
+19421	?		「きゃあーーーーーーっ！」	「Kyaaaaaaa!」
 
-19422	Rance	「おおっ……なんだ？　女の悲鳴か」	「Oh... what's that? A woman's scream?」
+19422	Rance	基本	「おおっ……なんだ？　女の悲鳴か」	「Oh... what's that? A woman's scream?」
 
-19423	Sill Plain	「黄色い悲鳴、ですね。	「It's a high-pitched scream.
-19424	+	　どなたか有名な方が来てらっしゃるんでしょうか」	I wonder if someone famous has arrived.」
+19423	Sill Plain	考え中	「黄色い悲鳴、ですね。	「It's a high-pitched scream.
+19424	+		　どなたか有名な方が来てらっしゃるんでしょうか」	I wonder if someone famous has arrived.」
 
-19425	Rance	「そういう奴が事欠かんからな、この城も。	「This castle is full of people like that.
-19426	+	　だが真の人気者であるこの総統閣下には敵うまい」	But they're no match for the Supreme Leader, who is truly popular.」
+19425	Rance	基本	「そういう奴が事欠かんからな、この城も。	「This castle is full of people like that.
+19426	+		　だが真の人気者であるこの総統閣下には敵うまい」	But they're no match for the Supreme Leader, who is truly popular.」
 
-19427	Rance	「がはははは！　どこのどいつだか知らんが、	「Gahahahaha! I don't know who it is, but
-19428	+	　その人気、俺様が……！」	I'll take that popularity for myself...!」
+19427	Rance	笑顔	「がはははは！　どこのどいつだか知らんが、	「Gahahahaha! I don't know who it is, but
+19428	+		　その人気、俺様が……！」	I'll take that popularity for myself...!」
 
-19429	Patricia Bacon	「あら総統さん」	「Oh, Supreme Leader.」
+19429	Patricia Bacon	基本	「あら総統さん」	「Oh, Supreme Leader.」
 
-19430	Rance	「ぶっ！　おばはん！？」	「Gah! The old lady!?」
+19430	Rance	驚き	「ぶっ！　おばはん！？」	「Gah! The old lady!?」
 
-19431	Heidi Pankrau	「はーい、並んでくださーい、並んでー」	「Alright, please line up, line up.」
+19431	Heidi Pankrau	基本	「はーい、並んでくださーい、並んでー」	「Alright, please line up, line up.」
 
-19432	Krutche Muffin	「最後尾、こっちっすよー」	「The end of the line is over here.」
+19432	Krutche Muffin		「最後尾、こっちっすよー」	「The end of the line is over here.」
 
-19433	Rance	「おい。なにやっとんじゃ、ここで」	「Hey. What are you doing here?」
+19433	Rance	真剣	「おい。なにやっとんじゃ、ここで」	「Hey. What are you doing here?」
 
-19434	Heidi Pankrau	「あ、ご主人様。臨時サイン会の待機列の整理を」	「Ah, Master. We're organizing the line for the impromptu autograph session.」
+19434	Heidi Pankrau	基本	「あ、ご主人様。臨時サイン会の待機列の整理を」	「Ah, Master. We're organizing the line for the impromptu autograph session.」
 
-19435	Rance	「……サイン会……？	「...Autograph session...?
-19436	+	　あの、おばはんの…………？」	For that old lady............?」
+19435	Rance	驚き	「……サイン会……？	「...Autograph session...?
+19436	+		　あの、おばはんの…………？」	For that old lady............?」
 
-19437	Krutche Muffin	「パトリシア・ベーコンでしょ？	「It's Patricia Bacon, right?
-19438	+	　閣下、知らないんすか？　アイスの人でしょ」	Your Excellency, don't you know her? She's from Ice.」
+19437	Krutche Muffin	基本	「パトリシア・ベーコンでしょ？	「It's Patricia Bacon, right?
+19438	+		　閣下、知らないんすか？　アイスの人でしょ」	Your Excellency, don't you know her? She's from Ice.」
 
-19439	Rance	「知ってると思うか？　あんなおばはん。	「Do you think I know her? That old lady.
-19440	+	　くそやかましいくらいしか印象がない」	The only impression I have is that she's incredibly noisy.」
+19439	Rance	真剣	「知ってると思うか？　あんなおばはん。	「Do you think I know her? That old lady.
+19440	+		　くそやかましいくらいしか印象がない」	The only impression I have is that she's incredibly noisy.」
 
-19441	Krutche Muffin	「あっははは。閣下らしいっすねえ」	「Ahahaha. That's just like you, Your Excellency.」
+19441	Krutche Muffin	基本	「あっははは。閣下らしいっすねえ」	「Ahahaha. That's just like you, Your Excellency.」
 
-19442	Heidi Pankrau	「一般人女性の中ではすごい有名ですよ。	「She's very famous among ordinary women.
-19443	+	　子育てと教育、それからジェンダー論の	She's an authority on parenting, education,
-19444	+	　権威なんですよ」	and gender theory.」
+19442	Heidi Pankrau		「一般人女性の中ではすごい有名ですよ。	「She's very famous among ordinary women.
+19443	+		　子育てと教育、それからジェンダー論の	She's an authority on parenting, education,
+19444	+		　権威なんですよ」	and gender theory.」
 
-19445	Krutche Muffin	「女性誌のコラムとか、山ほど書いてるっすよ。	「She writes tons of columns for women's magazines.
-19446	+	　悩み相談に時事ネタに……講演もいっぱい」	Advice, current events... lots of lectures too.」
+19445	Krutche Muffin		「女性誌のコラムとか、山ほど書いてるっすよ。	「She writes tons of columns for women's magazines.
+19446	+		　悩み相談に時事ネタに……講演もいっぱい」	Advice, current events... lots of lectures too.」
 
-19447	Rance	「…………お前、知ってたか？」	「............Did you know about her?」
+19447	Rance	だる顔	「…………お前、知ってたか？」	「............Did you know about her?」
 
-19448	Sill Plain	「知りませんでした……	「I didn't know......
-19449	+	　名前は見た事あるんですけど、	I've seen the name before, but
-19450	+	　女性誌とか読まないので……」	I don't read women's magazines or anything like that...」
+19448	Sill Plain	きょとん	「知りませんでした……	「I didn't know......
+19449	+		　名前は見た事あるんですけど、	I've seen the name before, but
+19450	+		　女性誌とか読まないので……」	I don't read women's magazines or anything like that...」
 
-19451	Patricia Bacon	「あっ、そうだ総統さん！」	「Ah, that's right, Supreme Leader!」
+19451	Patricia Bacon	基本	「あっ、そうだ総統さん！」	「Ah, that's right, Supreme Leader!」
 
-19452	Rance	「ぐっ、また来た……」	「Guh, she's back...」
+19452	Rance	驚き	「ぐっ、また来た……」	「Guh, she's back...」
 
-19453	Patricia Bacon	「お城の中、拝見させて頂いたのだけど。	「I've taken a look around the castle.
-19454	+	　とても綺麗で設備も行き届いているけど、	It's very beautiful and the facilities are good, but
-19455	+	　保育園の設備が少し足りてないんじゃないかしら」	the nursery facilities seem a bit lacking.」
+19453	Patricia Bacon	怒り	「お城の中、拝見させて頂いたのだけど。	「I've taken a look around the castle.
+19454	+		　とても綺麗で設備も行き届いているけど、	It's very beautiful and the facilities are good, but
+19455	+		　保育園の設備が少し足りてないんじゃないかしら」	the nursery facilities seem a bit lacking.」
 
-19456	Rance	「ほ、保育園って……あのガキどものか？」	「A-A nursery... for those brats?」
+19456	Rance	だる顔	「ほ、保育園って……あのガキどものか？」	「A-A nursery... for those brats?」
 
-19457	Patricia Bacon	「ええそうよ！　担当のええと、徳川さん？	「Yes, that's right! The person in charge, um, Tokugawa-san?
-19458	+	　それとお手伝いの子たちも頑張っているけれど、	She and the helpers are doing their best, but
-19459	+	　環境を整えて、もっと質を向上できると思うわ！」	I think we can improve the quality more by organizing the environment!」
+19457	Patricia Bacon	基本	「ええそうよ！　担当のええと、徳川さん？	「Yes, that's right! The person in charge, um, Tokugawa-san?
+19458	+		　それとお手伝いの子たちも頑張っているけれど、	She and the helpers are doing their best, but
+19459	+		　環境を整えて、もっと質を向上できると思うわ！」	I think we can improve the quality more by organizing the environment!」
 
-19460	Patricia Bacon	「でもね、女性だけでなにもかもできると思っちゃ	「But you shouldn't think women can do everything
-19461	+	　ダメなの。男性もね、同じように子供を育てる	alone. Men too need to have the same awareness
-19462	+	　意識が必要なの。お父さんも一緒になって……」	of raising children. Fathers need to be involved...」
+19460	Patricia Bacon	怒り	「でもね、女性だけでなにもかもできると思っちゃ	「But you shouldn't think women can do everything
+19461	+		　ダメなの。男性もね、同じように子供を育てる	alone. Men too need to have the same awareness
+19462	+		　意識が必要なの。お父さんも一緒になって……」	of raising children. Fathers need to be involved...」
 
-19463	Rance	「ぐ、ぐお……」	「G-Guo...」
+19463	Rance	驚き	「ぐ、ぐお……」	「G-Guo...」
 
-19464	Patricia Bacon	「戦いの場という事は分かっているのよ？	「I know this is a battlefield, okay?
-19465	+	　でも子供の未来のための戦争でしょう？	But this is a war for the future of the children, right?
-19466	+	　赤ちゃんを立派に育てるのも重要だと思うわ！」	I think raising babies properly is also important!」
+19464	Patricia Bacon	怒り	「戦いの場という事は分かっているのよ？	「I know this is a battlefield, okay?
+19465	+		　でも子供の未来のための戦争でしょう？	But this is a war for the future of the children, right?
+19466	+		　赤ちゃんを立派に育てるのも重要だと思うわ！」	I think raising babies properly is also important!」
 
-19467	Patricia Bacon	「ねえ、総統さんも日々お忙しいと思うけれど、	「Hey, I'm sure you're busy every day, Supreme Leader, but
-19468	+	　ここを疎かにしては残念な事になってしまうわ！」	it would be a shame to neglect this!」
+19467	Patricia Bacon		「ねえ、総統さんも日々お忙しいと思うけれど、	「Hey, I'm sure you're busy every day, Supreme Leader, but
+19468	+		　ここを疎かにしては残念な事になってしまうわ！」	it would be a shame to neglect this!」
 
-19469	Patricia Bacon	「それで……あ、総統さん！？	「And then... ah, Supreme Leader!?
-19470	+	　あらやだ、どちらにいかれるの？　ねぇ！」	Oh my, where are you going? Hey!」
+19469	Patricia Bacon	基本	「それで……あ、総統さん！？	「And then... ah, Supreme Leader!?
+19470	+		　あらやだ、どちらにいかれるの？　ねぇ！」	Oh my, where are you going? Hey!」
 
-19471	-	ランスは逃げ出した。	Rance ran away.
+19471	-		ランスは逃げ出した。	Rance ran away.

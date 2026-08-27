@@ -2,122 +2,122 @@
 * Crane	クレイン	Female
 * Rance	ランス	Male
 
-88897	Crane	「…………失礼します」	「............Excuse me.」
+88897	Crane	基本	「…………失礼します」	「............Excuse me.」
 
-88898	Rance	「お？　クレインちゃん？」	「Oh? Crane-chan?」
+88898	Rance		「お？　クレインちゃん？」	「Oh? Crane-chan?」
 
-88899	-	ランスの部屋にクレインが現れた。	Crane appeared in Rance's room.
+88899	-		ランスの部屋にクレインが現れた。	Crane appeared in Rance's room.
 
-88900	Crane	「シーツの交換に伺いました」	「I've come to change the sheets.」
+88900	Crane		「シーツの交換に伺いました」	「I've come to change the sheets.」
 
-88901	Rance	「へ？　へ？」	「He? He?」
+88901	Rance		「へ？　へ？」	「He? He?」
 
-88902	Crane	「シーツ以外にも汚れ物があれば、	「If there are other dirty items besides the sheets,
-88903	+	　お預かり致します」	　I will take them.」
+88902	Crane		「シーツ以外にも汚れ物があれば、	「If there are other dirty items besides the sheets,
+88903	+		　お預かり致します」	　I will take them.」
 
-88904	Rance	「ちょ、ちょっと待て、	「W-wait a second,
-88905	+	　説明もなしに突然変なこと言うな」	　don't suddenly say weird things without explanation.」
+88904	Rance	だる顔	「ちょ、ちょっと待て、	「W-wait a second,
+88905	+		　説明もなしに突然変なこと言うな」	　don't suddenly say weird things without explanation.」
 
-88906	Rance	「なにがあったんだ？」	「What happened?」
+88906	Rance	真剣	「なにがあったんだ？」	「What happened?」
 
-88907	Crane	「……メイドの仕事」	「...Maid work.」
+88907	Crane	基本	「……メイドの仕事」	「...Maid work.」
 
-88908	Rance	「……君、メイドになったのか？」	「...Did you become a maid?」
+88908	Rance		「……君、メイドになったのか？」	「...Did you become a maid?」
 
-88909	Crane	「いいえ。	「No.
-88910	+	　なったわけでは……」	　Not exactly...」
+88909	Crane		「いいえ。	「No.
+88910	+		　なったわけでは……」	　Not exactly...」
 
-88911	Crane	「……私が、怖がられるのは人柄もある……	「...The reason people fear me might also be my personality...
-88912	+	　のでは、ないかと考えて……」	　I thought...」
+88911	Crane		「……私が、怖がられるのは人柄もある……	「...The reason people fear me might also be my personality...
+88912	+		　のでは、ないかと考えて……」	　I thought...」
 
-88913	Crane	「少しは人と交わらないと、と考えて……」	「I need to interact with people a bit...」
+88913	Crane		「少しは人と交わらないと、と考えて……」	「I need to interact with people a bit...」
 
-88914	Crane	「これは……その一環」	「This is... part of that.」
+88914	Crane		「これは……その一環」	「This is... part of that.」
 
-88915	Rance	「メイド業？」	「Maid work?」
+88915	Rance		「メイド業？」	「Maid work?」
 
-88916	Crane	「……そんな大層なものでは。	「...It's not that grand.
-88917	+	　ほんのお手伝い……」	　Just a little help...」
+88916	Crane		「……そんな大層なものでは。	「...It's not that grand.
+88917	+		　ほんのお手伝い……」	　Just a little help...」
 
-88918	Crane	「それに……手に職、つけたいしね……」	「Besides... I want to learn a skill...」
+88918	Crane		「それに……手に職、つけたいしね……」	「Besides... I want to learn a skill...」
 
-88919	Rance	「意外と現実的なこと考えてるな」	「You're thinking surprisingly realistically.」
+88919	Rance		「意外と現実的なこと考えてるな」	「You're thinking surprisingly realistically.」
 
-88920	Crane	「……これでも、私にしてみれば、	「...Even so, for me this is
-88921	+	　とんでもない進歩なの」	　a tremendous step forward.」
+88920	Crane		「……これでも、私にしてみれば、	「...Even so, for me this is
+88921	+		　とんでもない進歩なの」	　a tremendous step forward.」
 
-88922	Crane	「現実的なことを考える余裕も、	「I didn't even have the luxury to think realistically,
-88923	+	　未来への希望もなかったから……」	　nor hope for the future...」
+88922	Crane		「現実的なことを考える余裕も、	「I didn't even have the luxury to think realistically,
+88923	+		　未来への希望もなかったから……」	　nor hope for the future...」
 
-88924	Rance	「ああ、そういやそうか」	「Ah, yeah that's true.」
+88924	Rance		「ああ、そういやそうか」	「Ah, yeah that's true.」
 
-88925	Rance	「でも、なんでまた？」	「But why now?」
+88925	Rance		「でも、なんでまた？」	「But why now?」
 
-88926	Crane	「…………	「............
-88927	+	　………………分からない、の？」	　............You don't know?」
+88926	Crane		「…………	「............
+88927	+		　………………分からない、の？」	　............You don't know?」
 
-88928	Rance	「へ？」	「He?」
+88928	Rance		「へ？」	「He?」
 
-88929	Crane	「貴方のおかげじゃない」	「It's thanks to you.」
+88929	Crane		「貴方のおかげじゃない」	「It's thanks to you.」
 
-88930	Crane	「少なくとも各国から追われる心配はなくなって、	「At least I no longer have to worry about being hunted by countries,
-88931	+	　ほんの一時のことかも知れないけど、	　it might be only temporary,
-88932	+	　私みたいな女が組織に属して共同生活が送れた」	　but a woman like me could join an organization and live together with others.」
+88930	Crane		「少なくとも各国から追われる心配はなくなって、	「At least I no longer have to worry about being hunted by countries,
+88931	+		　ほんの一時のことかも知れないけど、	　it might be only temporary,
+88932	+		　私みたいな女が組織に属して共同生活が送れた」	　but a woman like me could join an organization and live together with others.」
 
-88933	Crane	「もしかしたら、このまま……って……」	「Maybe it could stay this way...」
+88933	Crane		「もしかしたら、このまま……って……」	「Maybe it could stay this way...」
 
-88934	Crane	「そういう風に希望が持てるように、	「You made it possible for me to have that kind of hope,
-88935	+	　貴方のおかげでなることが出来たの」	　thanks to you.」
+88934	Crane		「そういう風に希望が持てるように、	「You made it possible for me to have that kind of hope,
+88935	+		　貴方のおかげでなることが出来たの」	　thanks to you.」
 
-88936	Crane	「…………」	「............」
+88936	Crane		「…………」	「............」
 
-88937	Rance	「お、お？」	「O-oh?」
+88937	Rance		「お、お？」	「O-oh?」
 
-88938	-	クレインがランスの前に座る。	Crane sat down in front of Rance.
+88938	-		クレインがランスの前に座る。	Crane sat down in front of Rance.
 
-88939	Crane	「きっと、貴方は軽い気持ちでやったのだと思う」	「I'm sure you did it casually.
+88939	Crane		「きっと、貴方は軽い気持ちでやったのだと思う」	「I'm sure you did it casually.
 
-88940	Crane	「でも、それは……	But for me...
-88941	+	　私にとって、私の人生を変えるほど、	　it was something that changed my life,
-88942	+	　大きなものだったの」	　so huge.」
+88940	Crane		「でも、それは……	But for me...
+88941	+		　私にとって、私の人生を変えるほど、	　it was something that changed my life,
+88942	+		　大きなものだったの」	　so huge.」
 
-88943	Crane	「分かっていないのなら、	「If you don't understand,
-88944	+	　改めてお礼を言わせて」	　let me thank you again.」
+88943	Crane		「分かっていないのなら、	「If you don't understand,
+88944	+		　改めてお礼を言わせて」	　let me thank you again.」
 
-88945	Crane	「ありがとう」	「Thank you.」
+88945	Crane		「ありがとう」	「Thank you.」
 
-88946	-	ぺこりと、クレインが頭を下げた。	Crane bowed her head politely.
+88946	-		ぺこりと、クレインが頭を下げた。	Crane bowed her head politely.
 
-88947	-	顔を上げた時、その顔は少し紅潮していた。	When she raised her face, it was slightly flushed.
+88947	-		顔を上げた時、その顔は少し紅潮していた。	When she raised her face, it was slightly flushed.
 
-88948	Crane	「……やっぱり、改めて言うと……	「...As expected, saying it again...
-88949	+	　…………少し照れる、わ」	　...is a bit embarrassing.」
+88948	Crane		「……やっぱり、改めて言うと……	「...As expected, saying it again...
+88949	+		　…………少し照れる、わ」	　...is a bit embarrassing.」
 
-88950	Rance	「律儀な子だなあ、君は。	「You're such a dutiful girl.
-88951	+	　盗み聞きの魔女なんて呼ばれてるのに」	　Even though they call you the eavesdropping witch.」
+88950	Rance		「律儀な子だなあ、君は。	「You're such a dutiful girl.
+88951	+		　盗み聞きの魔女なんて呼ばれてるのに」	　Even though they call you the eavesdropping witch.」
 
-88952	Rance	「まあ、前向きになったのならいいことだ」	「Well, if you're being positive that's good.」
+88952	Rance		「まあ、前向きになったのならいいことだ」	「Well, if you're being positive that's good.」
 
-88953	Rance	「あ、これ、汚れたシーツ。	「Ah, here, the dirty sheets.
-88954	+	　持って行っていいぞ」	　You can take them.」
+88953	Rance		「あ、これ、汚れたシーツ。	「Ah, here, the dirty sheets.
+88954	+		　持って行っていいぞ」	　You can take them.」
 
-88955	Crane	「ええ」	「Yes.」
+88955	Crane		「ええ」	「Yes.」
 
-88956	-	ずるーりと引き出したシーツの中から、	From the sheets she pulled out,
-88957	+	魔法ディルドーにシィルの下着に	a magic dildo, Sill's panties,
-88958	+	エッチな本が大量に現れた。	and a large pile of erotic books appeared.
+88956	-		ずるーりと引き出したシーツの中から、	From the sheets she pulled out,
+88957	+		魔法ディルドーにシィルの下着に	a magic dildo, Sill's panties,
+88958	+		エッチな本が大量に現れた。	and a large pile of erotic books appeared.
 
-88959	Rance	「あーあー、見られたら恥ずかしいものが	「Aah aah, embarrassing things
-88960	+	　ぼろぼろと……」	　are falling out...」
+88959	Rance		「あーあー、見られたら恥ずかしいものが	「Aah aah, embarrassing things
+88960	+		　ぼろぼろと……」	　are falling out...」
 
-88961	Crane	「……………………」	「........................」
+88961	Crane		「……………………」	「........................」
 
-88962	Rance	「ん？　クレインちゃん、どした？」	「Nn? Crane-chan, what's wrong?」
+88962	Rance		「ん？　クレインちゃん、どした？」	「Nn? Crane-chan, what's wrong?」
 
-88963	Crane	「……私の秘密を知ってしまう体質考えると」	「...Considering my constitution that makes me learn everyone's secrets,
+88963	Crane		「……私の秘密を知ってしまう体質考えると」	「...Considering my constitution that makes me learn everyone's secrets,
 
-88964	Crane	「…………メイド、向いてないかも」	「...I might not be suited to be a maid.」
+88964	Crane		「…………メイド、向いてないかも」	「...I might not be suited to be a maid.」
 
-88965	Rance	「もうちょい頑張れ」	「Try a bit harder.」
+88965	Rance		「もうちょい頑張れ」	「Try a bit harder.」
 
-88966	Crane	「……そうする」	「...I will.」
+88966	Crane		「……そうする」	「...I will.」

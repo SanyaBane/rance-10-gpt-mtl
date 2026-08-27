@@ -7,1068 +7,1068 @@
 * Sill Plain	シィル	Female
 * Freya Idun	フレイア	Female
 
-177989	-	魔物界で行われた、	The last banquet
-177990	+	最終決戦前の最後の宴会。	before the final battle in the Monster Realm.
+177989	-		魔物界で行われた、	The last banquet
+177990	+		最終決戦前の最後の宴会。	before the final battle in the Monster Realm.
 
-177991	-	宴会の参加者は目立たないようにと配慮し、	The participants kept the noise modest
-177992	+	さわさわと静かに騒いでいる。	so as not to stand out.
+177991	-		宴会の参加者は目立たないようにと配慮し、	The participants kept the noise modest
+177992	+		さわさわと静かに騒いでいる。	so as not to stand out.
 
-177993	Satella	「……む、あそこにいるのは」	「...Hm, that's...」
+177993	Satella	基本	「……む、あそこにいるのは」	「...Hm, that's...」
 
-177994	Satella	「ランス……」	「Rance...」
+177994	Satella		「ランス……」	「Rance...」
 
-177995	Caesar	「サテラ様、ドウシマシタ？」	「Satella-sama, what's wrong?」
+177995	Caesar		「サテラ様、ドウシマシタ？」	「Satella-sama, what's wrong?」
 
-177996	Satella	「ん……別に……」	「N... nothing...」
+177996	Satella		「ん……別に……」	「N... nothing...」
 
-177997	Satella~	（ふふん、あいつも最終決戦を前にして	（Fufun, even he might be nervous
-177998	+	　固くなっているかも知れないな）	　before the final battle.）
+177997	Satella~	ふふん	（ふふん、あいつも最終決戦を前にして	（Fufun, even he might be nervous
+177998	+		　固くなっているかも知れないな）	　before the final battle.）
 
-177999	Satella~	（ここは一つ、	（This is a good chance
-178000	+	　主であるサテラから激励でもくれてやるか）	　for me, his master Satella, to encourage him.）
+177999	Satella~		（ここは一つ、	（This is a good chance
+178000	+		　主であるサテラから激励でもくれてやるか）	　for me, his master Satella, to encourage him.）
 
-178001	Satella~	（あいつ、あまりのありがたさに、	（That guy might start crying from how grateful he is.）
-178002	+	　泣き出してしまうかも知れないな）	（He might burst into tears from sheer gratitude.）
+178001	Satella~	笑顔	（あいつ、あまりのありがたさに、	（That guy might start crying from how grateful he is.）
+178002	+		　泣き出してしまうかも知れないな）	（He might burst into tears from sheer gratitude.）
 
-178003	Rance	「ん？　サテラ？	「Hm? Satella?」
-178004	+	　なんだ、そんな遠くからジーッと見て」	　What’s up? Staring at me so intently from over there.」
+178003	Rance	基本	「ん？　サテラ？	「Hm? Satella?」
+178004	+		　なんだ、そんな遠くからジーッと見て」	　What’s up? Staring at me so intently from over there.」
 
-178005	Satella	「……っ！」	「……!」
+178005	Satella	超テレ	「……っ！」	「……!」
 
-178006	Satella	「べっ、別にジーッと見てなんか――」	「I-I wasn’t staring or anything――」
+178006	Satella	ツンデレ	「べっ、別にジーッと見てなんか――」	「I-I wasn’t staring or anything――」
 
-178007	Satella	「あ、いや、そう、サテラはお前に話があるんだ。	「Ah, no, that’s right. Satella has something to tell you.
-178008	+	　主からのありがたい話だ、背筋を正して聞けよ」	　It’s a wonderful talk from your master, so stand straight and listen properly.」
+178007	Satella	ふふん	「あ、いや、そう、サテラはお前に話があるんだ。	「Ah, no, that’s right. Satella has something to tell you.
+178008	+		　主からのありがたい話だ、背筋を正して聞けよ」	　It’s a wonderful talk from your master, so stand straight and listen properly.」
 
-178009	Rance	「話？　なんだ？」	「Talk? What is it?」
+178009	Rance	基本	「話？　なんだ？」	「Talk? What is it?」
 
-178010	Satella	「それはだな……」	「Well, you see……」
+178010	Satella		「それはだな……」	「Well, you see……」
 
-178011	Satella	「あ、あー……えと、それは……」	「Ah, um… well, that is……」
+178011	Satella	不安	「あ、あー……えと、それは……」	「Ah, um… well, that is……」
 
-178012	Satella~	（あ、あれ？	（Huh? Wait?）
-178013	+	　なんか……急に、言葉が出てこない……）	（Why… suddenly the words won’t come out……）
+178012	Satella~	超テレ	（あ、あれ？	（Huh? Wait?）
+178013	+		　なんか……急に、言葉が出てこない……）	（Why… suddenly the words won’t come out……）
 
-178014	Pigu Geliciam	「いえーい、たのしー」	「Yaaay, so fun!」
+178014	Pigu Geliciam	基本	「いえーい、たのしー」	「Yaaay, so fun!」
 
-178015	Caloria Cricket	「サテラちゃんもお酒飲む？	「Satella-chan, want some alcohol too?
-178016	+	　かろ、持ってこようか？」	　Should I go get some?」
+178015	Caloria Cricket		「サテラちゃんもお酒飲む？	「Satella-chan, want some alcohol too?
+178016	+		　かろ、持ってこようか？」	　Should I go get some?」
 
-178017	Satella	「え、えーい、お前ら！	「H-hey, you guys!
-178018	+	　サテラにベタベタするな！」	　Don’t cling all over Satella!」
+178017	Satella	ツンデレ	「え、えーい、お前ら！	「H-hey, you guys!
+178018	+		　サテラにベタベタするな！」	　Don’t cling all over Satella!」
 
-178019	Satella	「あ、こら、だから酒はいらないって――ッ！」	「Ah, hey, I said I don’t need alcohol――!」
+178019	Satella	基本	「あ、こら、だから酒はいらないって――ッ！」	「Ah, hey, I said I don’t need alcohol――!」
 
-178020	Rance	「なにしとるんだ、アイツは？	「What is she doing over there?」
-178021	+	　まあ、いいや」	　Well, whatever.」
+178020	Rance	だる顔	「なにしとるんだ、アイツは？	「What is she doing over there?」
+178021	+		　まあ、いいや」	　Well, whatever.」
 
-178022	Sill Plain	「ランス様、どうかしました？」	「Rance-sama, is something wrong?」
+178022	Sill Plain	基本	「ランス様、どうかしました？」	「Rance-sama, is something wrong?」
 
-178023	Rance	「知らん。	「No idea.
-178024	+	　それより飯持ってこい」	　More importantly, bring me food.」
+178023	Rance		「知らん。	「No idea.
+178024	+		　それより飯持ってこい」	　More importantly, bring me food.」
 
-178025	Sill Plain	「はーい」	「Yeees.」
+178025	Sill Plain		「はーい」	「Yeees.」
 
-178026	Rance	「お、これ美味い美味い」	「Oh, this is delicious, really good.」
+178026	Rance		「お、これ美味い美味い」	「Oh, this is delicious, really good.」
 
-178027	-	ランスは宴会をたっぷりと楽しんだ。	Rance thoroughly enjoyed the banquet.
+178027	-		ランスは宴会をたっぷりと楽しんだ。	Rance thoroughly enjoyed the banquet.
 
-178028	-	…………	…………
+178028	-		…………	…………
 
-178029	-	……	……
+178029	-		……	……
 
-178030	-	深夜――	Late at night――
+178030	-		深夜――	Late at night――
 
-178031	-	ランスがテントの中で寝ていると。	While Rance was sleeping inside the tent.
+178031	-		ランスがテントの中で寝ていると。	While Rance was sleeping inside the tent.
 
-178032	Caesar	「ランス」	「Rance.」
+178032	Caesar		「ランス」	「Rance.」
 
-178033	Rance	「うおおおっ！？」	「Uwooooh!?」
+178033	Rance		「うおおおっ！？」	「Uwooooh!?」
 
-178034	-	シーザーに体をヒョイと担ぎ上げられる衝撃で	The shock of Caesar easily lifting his body
-178035	+	ランスは目を覚ました。	woke Rance up.
+178034	-		シーザーに体をヒョイと担ぎ上げられる衝撃で	The shock of Caesar easily lifting his body
+178035	+		ランスは目を覚ました。	woke Rance up.
 
-178036	Sill Plain	「へ、えっ！？　シーザーさん！？」	「Eh, ehh!? Caesar-san!?」
+178036	Sill Plain	慌て	「へ、えっ！？　シーザーさん！？」	「Eh, ehh!? Caesar-san!?」
 
-178037	Rance	「このデカブツ！	「You oversized brute!
-178038	+	　人が気持ち良く寝ているときに何しやがる！」	　What the hell are you doing while I’m sleeping peacefully!」
+178037	Rance	基本	「このデカブツ！	「You oversized brute!
+178038	+		　人が気持ち良く寝ているときに何しやがる！」	　What the hell are you doing while I’m sleeping peacefully!」
 
-178039	Caesar	「コレモ、サテラ様ノ命令。	「This is also Satella-sama’s order.
-178040	+	　シーザーニハ絶対」	　Absolute for Caesar.」
+178039	Caesar		「コレモ、サテラ様ノ命令。	「This is also Satella-sama’s order.
+178040	+		　シーザーニハ絶対」	　Absolute for Caesar.」
 
-178041	Rance	「なにぃ！？」	「What!?」
+178041	Rance		「なにぃ！？」	「What!?」
 
-178042	Sill Plain	「あ、あ、あ、ランス様どちらへー？」	「Ah, ah, Rance-sama, where are you goingー?」
+178042	Sill Plain	慌て	「あ、あ、あ、ランス様どちらへー？」	「Ah, ah, Rance-sama, where are you goingー?」
 
-178043	Rance	「知るか、こいつに聞けー！」	「How should I know, ask this guy!」
+178043	Rance	基本	「知るか、こいつに聞けー！」	「How should I know, ask this guy!」
 
-178044	-	のっしのっしと歩くシーザーに抱えられ、	Carried by Caesar who walked with heavy steps,
-178045	+	ランスは海岸近くの森の中に連れてこられた。	Rance was brought deep into the forest near the coast.
+178044	-		のっしのっしと歩くシーザーに抱えられ、	Carried by Caesar who walked with heavy steps,
+178045	+		ランスは海岸近くの森の中に連れてこられた。	Rance was brought deep into the forest near the coast.
 
-178046	Rance	「む、サテラ……」	「Mu, Satella……」
+178046	Rance		「む、サテラ……」	「Mu, Satella……」
 
-178047	Satella	「ん……」	「Nn……」
+178047	Satella	不安	「ん……」	「Nn……」
 
-178048	Satella	「よ、ようやく来たか……」	「Y-You finally came……」
+178048	Satella		「よ、ようやく来たか……」	「Y-You finally came……」
 
-178049	Rance	「ようやくって……	「Finally, you say……
-178050	+	　なんだこんな時間に……	　What is it at this hour……
-178051	+	　もう朝になるぞ」	　It’s almost morning.」
+178049	Rance	基本	「ようやくって……	「Finally, you say……
+178050	+		　なんだこんな時間に……	　What is it at this hour……
+178051	+		　もう朝になるぞ」	　It’s almost morning.」
 
-178052	Rance	「……って、なんか怒ってるのか？」	「……Wait, are you angry or something?」
+178052	Rance		「……って、なんか怒ってるのか？」	「……Wait, are you angry or something?」
 
-178053	Satella	「お、怒ってなんかない」	「I-I’m not angry.」
+178053	Satella	超テレ	「お、怒ってなんかない」	「I-I’m not angry.」
 
-178054	Satella	「その、なんだ……	「Um, well……
-178055	+	　えと……」	　You know……」
+178054	Satella	思考	「その、なんだ……	「Um, well……
+178055	+		　えと……」	　You know……」
 
-178056	-	サテラは恥ずかしそうにもじもじとしていた。	Satella fidgeted shyly.
+178056	-		サテラは恥ずかしそうにもじもじとしていた。	Satella fidgeted shyly.
 
-178057	Satella~	（い、言え！　言えるぞ！	（S-Say it! You can do it!
-178058	+	　あんなに練習したんだから平気だ！）	　You practiced so much, it’ll be fine!）
+178057	Satella~	不安	（い、言え！　言えるぞ！	（S-Say it! You can do it!
+178058	+		　あんなに練習したんだから平気だ！）	　You practiced so much, it’ll be fine!）
 
-178059	Satella	「明日は遂にケイブリスと戦う、かも知れない」	「Tomorrow we might finally fight Kayblis.」
+178059	Satella	ツンデレ	「明日は遂にケイブリスと戦う、かも知れない」	「Tomorrow we might finally fight Kayblis.」
 
-178060	Satella	「お前はサテラの使徒として……	「As Satella’s apostle, you……
-178061	?	　いや、まだ使徒ではないが……」	　No, you’re not my apostle yet but……」
+178060	Satella		「お前はサテラの使徒として……	「As Satella’s apostle, you……
+178061	?		　いや、まだ使徒ではないが……」	　No, you’re not my apostle yet but……」
 
-178062	Satella	「と、とにかく、立派に戦っている」	「A-Anyway, you’ve been fighting splendidly.」
+178062	Satella	ふふん	「と、とにかく、立派に戦っている」	「A-Anyway, you’ve been fighting splendidly.」
 
-178063	Satella	「既に何人もの魔人も倒した。	「You’ve already defeated many Fiends.
-178064	+	　た、大したものだ、うん。	　Quite impressive, yes.
-178065	+	　さすがサテラの使徒」	　As expected of Satella’s apostle.」
+178063	Satella		「既に何人もの魔人も倒した。	「You’ve already defeated many Fiends.
+178064	+		　た、大したものだ、うん。	　Quite impressive, yes.
+178065	+		　さすがサテラの使徒」	　As expected of Satella’s apostle.」
 
-178066	Rance	「なにが言いたい？」	「What are you trying to say?」
+178066	Rance	だる顔	「なにが言いたい？」	「What are you trying to say?」
 
-178067	Satella	「い、いいから、黙って聞け！」	「J-Just shut up and listen!」
+178067	Satella	ツンデレ	「い、いいから、黙って聞け！」	「J-Just shut up and listen!」
 
-178068	Satella	「だが、それでもケイブリスは別格だ。	「But even so, Kayblis is in a league of his own.
-178069	+	　本当に恐ろしい奴だ」	　A truly terrifying foe.」
+178068	Satella	ふふん	「だが、それでもケイブリスは別格だ。	「But even so, Kayblis is in a league of his own.
+178069	+		　本当に恐ろしい奴だ」	　A truly terrifying foe.」
 
-178070	Satella	「明日はお前にも今まで以上の	「Tomorrow I expect even greater effort from you,
-178071	+	　奮闘をしてもらう、が……	　but……
-178072	+	　さ、サテラも全力で戦う」	　Satella will also fight with all her power.」
+178070	Satella	ツンデレ	「明日はお前にも今まで以上の	「Tomorrow I expect even greater effort from you,
+178071	+		　奮闘をしてもらう、が……	　but……
+178072	+		　さ、サテラも全力で戦う」	　Satella will also fight with all her power.」
 
-178073	Satella	「だ、だから……その……」	「S-So…… um……」
+178073	Satella	ぐぬぬ	「だ、だから……その……」	「S-So…… um……」
 
-178074	Satella	「えっと……」	「Well……」
+178074	Satella		「えっと……」	「Well……」
 
-178075	Satella	「あ、あ、あ……」	「Ah, ah, ah……」
+178075	Satella	超テレ	「あ、あ、あ……」	「Ah, ah, ah……」
 
-178076	-	頭の中のシミュレーションでは	The words that came out easily in her head simulations
-178077	+	何度も出た言葉が、	kept getting stuck in her throat.
-178078	+	喉で詰まって出てこない。	
+178076	-		頭の中のシミュレーションでは	The words that came out easily in her head simulations
+178077	+		何度も出た言葉が、	kept getting stuck in her throat.
+178078	+		喉で詰まって出てこない。	
 
-178079	Satella~	（し、心臓がどきどきして痛い……	（My heart is pounding so hard it hurts……
-178080	+	　な、涙が出そうだ……）	　I-I feel like I’m going to cry……）
+178079	Satella~	ぐぬぬ	（し、心臓がどきどきして痛い……	（My heart is pounding so hard it hurts……
+178080	+		　な、涙が出そうだ……）	　I-I feel like I’m going to cry……）
 
-178081	Satella~	（ただ、褒めてやろうと思っただけなのに、	（I only wanted to praise him,
-178082	+	　なんで、サテラこんな目に……）	　so why is Satella going through this……）
+178081	Satella~		（ただ、褒めてやろうと思っただけなのに、	（I only wanted to praise him,
+178082	+		　なんで、サテラこんな目に……）	　so why is Satella going through this……）
 
-178083	-	サテラは茹で蛸のように顔を真っ赤にしていた。	Satella’s face was bright red like a boiled octopus.
+178083	-		サテラは茹で蛸のように顔を真っ赤にしていた。	Satella’s face was bright red like a boiled octopus.
 
-178084	Satella	「あ、明日は頑張るぞ！	「T-Tomorrow let’s do our best!
-178085	+	　二人が揃えば何者にも負けない！」	　If the two of us are together, we won’t lose to anyone!」
+178084	Satella	ツンデレ	「あ、明日は頑張るぞ！	「T-Tomorrow let’s do our best!
+178085	+		　二人が揃えば何者にも負けない！」	　If the two of us are together, we won’t lose to anyone!」
 
-178086	Rance	「う、うむ……そうだな……」	「Y-Yeah… that’s right……」
+178086	Rance	基本	「う、うむ……そうだな……」	「Y-Yeah… that’s right……」
 
-178087	Satella	「はあ……はあ……	「Haa…… haa……
-178088	+	　分かったか？」	　Understood?」
+178087	Satella	ぐぬぬ	「はあ……はあ……	「Haa…… haa……
+178088	+		　分かったか？」	　Understood?」
 
-178089	Rance	「うむ、分かった……	「Yes, I got it……
-178090	+	　明日というか、もう今日だが……」	　Well, it’s already today……」
+178089	Rance	真剣	「うむ、分かった……	「Yes, I got it……
+178090	+		　明日というか、もう今日だが……」	　Well, it’s already today……」
 
-178091	Rance	「しかし、お前、そんなこと言う為に、	「Still, you woke me up at this hour
-178092	+	　こんな時間に俺を起こしたのか……」	　just to say that……」
+178091	Rance	だる顔	「しかし、お前、そんなこと言う為に、	「Still, you woke me up at this hour
+178092	+		　こんな時間に俺を起こしたのか……」	　just to say that……」
 
-178093	Satella~	（あ、あれ？　あまり嬉しそうじゃない……）	（Huh? He doesn’t look very happy……）
+178093	Satella~	不安	（あ、あれ？　あまり嬉しそうじゃない……）	（Huh? He doesn’t look very happy……）
 
-178094	Satella	「…………」	「…………」
+178094	Satella		「…………」	「…………」
 
-178095	Satella	「ふん、もういい。	「Hmph, whatever.
-178096	+	　せっかくサテラが褒めてやってるのに……」	　Even though Satella went out of her way to praise you……」
+178095	Satella	思考	「ふん、もういい。	「Hmph, whatever.
+178096	+		　せっかくサテラが褒めてやってるのに……」	　Even though Satella went out of her way to praise you……」
 
-178097	Satella	「寝ぼけてこられても困るからな、	「It would be troublesome if you came while half-asleep,
-178098	+	　さっさと寝ろよ」	　so go back to sleep already.」
+178097	Satella	不安	「寝ぼけてこられても困るからな、	「It would be troublesome if you came while half-asleep,
+178098	+		　さっさと寝ろよ」	　so go back to sleep already.」
 
-178099	Rance	「なんだ、今のは褒めてたのか。	「So that was supposed to be praise.
-178100	+	　褒めるならもっと分かりやすく言え。	　If you’re going to praise me, say it more clearly.
-178101	+	　素直じゃない奴め」	　What an dishonest girl.」
+178099	Rance	だる顔	「なんだ、今のは褒めてたのか。	「So that was supposed to be praise.
+178100	+		　褒めるならもっと分かりやすく言え。	　If you’re going to praise me, say it more clearly.
+178101	+		　素直じゃない奴め」	　What an dishonest girl.」
 
-178102	Satella	「な、なんだと！？」	「W-What did you say!?」
+178102	Satella	基本	「な、なんだと！？」	「W-What did you say!?」
 
-178103	Rance	「嬉しいぞ」	「I’m happy.」
+178103	Rance		「嬉しいぞ」	「I’m happy.」
 
-178104	Satella	「ひゅえっ！？」	「Hyueh!?」
+178104	Satella	超テレ	「ひゅえっ！？」	「Hyueh!?」
 
-178105	Rance	「なんだその顔。	「What’s with that face.
-178106	+	　主に褒められたら嬉しいのは	　It’s only natural to be happy when praised by your master,
-178107	+	　当然だろう、違うか？」	　isn’t it?」
+178105	Rance	基本	「なんだその顔。	「What’s with that face.
+178106	+		　主に褒められたら嬉しいのは	　It’s only natural to be happy when praised by your master,
+178107	+		　当然だろう、違うか？」	　isn’t it?」
 
-178108	Satella	「い、いや、違うくない！	「N-No, it’s not not true!
-178109	+	　全然違くない！」	　It’s completely not not true!」
+178108	Satella	超テレ	「い、いや、違うくない！	「N-No, it’s not not true!
+178109	+		　全然違くない！」	　It’s completely not not true!」
 
-178110	Rance	「明日はお前の為に	「Tomorrow, for your sake
-178111	+	　絶対ケイブリスを倒してやる」	　I’ll definitely defeat Kayblis.」
+178110	Rance	基本	「明日はお前の為に	「Tomorrow, for your sake
+178111	+		　絶対ケイブリスを倒してやる」	　I’ll definitely defeat Kayblis.」
 
-178112	Satella	「あ、う――」	「Ah, u一一」
+178112	Satella	超テレ	「あ、う――」	「Ah, u一一」
 
-178113	Satella	「うんっっっ！　	「Yes!!!　
-178114	?	うんっっっ！」	Yes!!!」
+178113	Satella		「うんっっっ！　	「Yes!!!　
+178114	?		うんっっっ！」	Yes!!!」
 
-178115	-	顔を真っ赤にしたまま、	With her face still bright red,
-178116	+	サテラはブンブンと首を振って頷いた。	Satella nodded vigorously.
+178115	-		顔を真っ赤にしたまま、	With her face still bright red,
+178116	+		サテラはブンブンと首を振って頷いた。	Satella nodded vigorously.
 
-178117	Rance	「だから、ご褒美をくれ」	「So give me a reward.」
+178117	Rance	基本	「だから、ご褒美をくれ」	「So give me a reward.」
 
-178118	Satella	「はへっ！？」	「Hahe!?」
+178118	Satella	超テレ	「はへっ！？」	「Hahe!?」
 
-178119	-	ランスが抱きしめると、	When Rance pulled her into his arms,
-178120	+	サテラはランスの腕の中で飛び上がった。	Satella jumped in his strong arms.
+178119	-		ランスが抱きしめると、	When Rance pulled her into his arms,
+178120	+		サテラはランスの腕の中で飛び上がった。	Satella jumped in his strong arms.
 
-178121	Satella	「こらっ！　おま、なにして！」	「Hey! W-What are you doing!」
+178121	Satella	ツンデレ	「こらっ！　おま、なにして！」	「Hey! W-What are you doing!」
 
-178122	Rance	「ご褒美だ、ご褒美。	「It’s a reward, a reward.
-178123	+	　頑張った使徒には	　A hardworking apostle
-178124	+	　ご褒美があってしかるべきだろう」	　deserves a proper reward, right?」
+178122	Rance	基本	「ご褒美だ、ご褒美。	「It’s a reward, a reward.
+178123	+		　頑張った使徒には	　A hardworking apostle
+178124	+		　ご褒美があってしかるべきだろう」	　deserves a proper reward, right?」
 
-178125	Satella	「エッチなことする気だろう！	「You’re planning something perverted!
-178126	+	　ば、馬鹿！　そんなこといいわけ！」	　Idiot! There’s no way I’ll allow that!」
+178125	Satella	ツンデレ	「エッチなことする気だろう！	「You’re planning something perverted!
+178126	+		　ば、馬鹿！　そんなこといいわけ！」	　Idiot! There’s no way I’ll allow that!」
 
-178127	Rance	「くくく、そんなこと言っても、	「Hehehe, even if you say that,
-178128	+	　サテラの体はどうかなー？」	　how does your body feel about it, Satella?」
+178127	Rance	基本	「くくく、そんなこと言っても、	「Hehehe, even if you say that,
+178128	+		　サテラの体はどうかなー？」	　how does your body feel about it, Satella?」
 
-178129	Satella	「んにゃあっ！？」	「Nnyaa!?」
+178129	Satella	あほー	「んにゃあっ！？」	「Nnyaa!?」
 
-178130	-	お尻をぺろーんと撫でられて、	Her plump ass was stroked lewdly,
-178131	+	サテラがまたランスの腕の中で飛び上がる。	making Satella jump again in Rance’s arms.
+178130	-		お尻をぺろーんと撫でられて、	Her plump ass was stroked lewdly,
+178131	+		サテラがまたランスの腕の中で飛び上がる。	making Satella jump again in Rance’s arms.
 
-178132	Rance	「がははは、相変わらず敏感な体だな」	「Gahahaha, still as sensitive as ever.」
+178132	Rance	基本	「がははは、相変わらず敏感な体だな」	「Gahahaha, still as sensitive as ever.」
 
-178133	Satella	「き、きさま……」	「Y-You……」
+178133	Satella	あほー	「き、きさま……」	「Y-You……」
 
-178134	Caesar	「ランス、止メロ。	「Rance, stop.
-178135	+	　サテラ様ガ嫌ガッテイル」	　Satella-sama doesn’t like it.」
+178134	Caesar	基本	「ランス、止メロ。	「Rance, stop.
+178135	+		　サテラ様ガ嫌ガッテイル」	　Satella-sama doesn’t like it.」
 
-178136	Satella	「ひっ、シーザー見ないで！」	「Hii, Caesar don’t look!」
+178136	Satella		「ひっ、シーザー見ないで！」	「Hii, Caesar don’t look!」
 
-178137	Caesar	「ハイ」	「Yes.」
+178137	Caesar		「ハイ」	「Yes.」
 
-178138	Satella	「シーザー、む、向こうに行ってて！	「Caesar, g-go over there!
-178139	+	　お、お願いだから！」	　Please!」
+178138	Satella		「シーザー、む、向こうに行ってて！	「Caesar, g-go over there!
+178139	+		　お、お願いだから！」	　Please!」
 
-178140	Caesar	「ハイ、分カリマシタ。	「Yes, understood.
-178141	+	　シーザー、向コウニ行キマス」	　Caesar will go over there.」
+178140	Caesar		「ハイ、分カリマシタ。	「Yes, understood.
+178141	+		　シーザー、向コウニ行キマス」	　Caesar will go over there.」
 
-178142	Rance	「ふふん、覚悟を決めたようだな」	「Heh heh, looks like you’ve made up your mind.」
+178142	Rance		「ふふん、覚悟を決めたようだな」	「Heh heh, looks like you’ve made up your mind.」
 
-178143	Satella	「ちがっ……！	「That’s not……!
-178144	+	　あ、う……あうあうあう……！」	　Ah, u…… au au au……！」
+178143	Satella	あほー	「ちがっ……！	「That’s not……!
+178144	+		　あ、う……あうあうあう……！」	　Ah, u…… au au au……！」
 
-178145	Rance	「そーれ、どーん！」	「Here we go, dooon!」
+178145	Rance	基本	「そーれ、どーん！」	「Here we go, dooon!」
 
-178146	Satella	「わっ、あああああああ……！」	「Wah, aaaaaaaaaah……！」
+178146	Satella		「わっ、あああああああ……！」	「Wah, aaaaaaaaaah……！」
 
-178147	-	…………	…………
+178147	-		…………	…………
 
-178148	-	……	……
+178148	-		……	……
 
-178149	Satella	「あううっ……！	「Auuu……!
-178150	+	　な、なんで、サテラがこんな、ことぉ……！」	　W-Why is Satella doing something like this……！」
+178149	Satella		「あううっ……！	「Auuu……!
+178150	+		　な、なんで、サテラがこんな、ことぉ……！」	　W-Why is Satella doing something like this……！」
 
-178151	Satella	「ひ、ひゃん！？」	「H-Hyan!?」
+178151	Satella		「ひ、ひゃん！？」	「H-Hyan!?」
 
-178152	-	ランスのペニスが花弁に擦りつけられ、	Rance’s thick cock rubbed against her petals,
-178153	+	サテラが可愛らしい声を上げた。	making Satella let out an adorable cry.
+178152	-		ランスのペニスが花弁に擦りつけられ、	Rance’s thick cock rubbed against her petals,
+178153	+		サテラが可愛らしい声を上げた。	making Satella let out an adorable cry.
 
-178154	Satella	「う、うう……魔人である、さ、サテラがこんな……」	「U-Uuu…… Even though Satella is a Fiend, doing something like this……」
+178154	Satella		「う、うう……魔人である、さ、サテラがこんな……」	「U-Uuu…… Even though Satella is a Fiend, doing something like this……」
 
-178155	-	ランスの手によって、あっという間に裸にされたサテラは、	Stripped completely naked in an instant by Rance’s hands, Satella was
-178156	+	膝の上に抱き上げられ、されるがままになっていた。	lifted onto his lap, completely at his mercy.
+178155	-		ランスの手によって、あっという間に裸にされたサテラは、	Stripped completely naked in an instant by Rance’s hands, Satella was
+178156	+		膝の上に抱き上げられ、されるがままになっていた。	lifted onto his lap, completely at his mercy.
 
-178157	Rance	「うひひ、相変わらず超敏感な体しとるな、サテラは。	「Uhehe, Satella’s body is still insanely sensitive as always.
-178158	+	　ほーれ、ほーれ」	　Here, here.」
+178157	Rance		「うひひ、相変わらず超敏感な体しとるな、サテラは。	「Uhehe, Satella’s body is still insanely sensitive as always.
+178158	+		　ほーれ、ほーれ」	　Here, here.」
 
-178159	Satella	「んんんんんんんっ！？	「Nnnnnnnn!?」
-178160	+	　やあっ、やめ、お尻、馬鹿、撫でる、なあっ……！」	　Yaaah, stop, my ass, idiot, don’t stroke it like that……！」
+178159	Satella		「んんんんんんんっ！？	「Nnnnnnnn!?」
+178160	+		　やあっ、やめ、お尻、馬鹿、撫でる、なあっ……！」	　Yaaah, stop, my ass, idiot, don’t stroke it like that……！」
 
-178161	-	むちむちと肉厚な臀部をランスの手がいやらしく移動する。	Rance’s hand lewdly roamed over her plump, thick ass.
+178161	-		むちむちと肉厚な臀部をランスの手がいやらしく移動する。	Rance’s hand lewdly roamed over her plump, thick ass.
 
-178162	Satella	「んやっ！　あっ！　やだ、あっ！　手、手が！	「Nya! Ah! No, ah! Your hand, your hand!
-178163	+	　ナデナデ、する、な！　やあっ、ああっ……！」	　Don’t pet me there! Yaaah, aah……！」
+178162	Satella		「んやっ！　あっ！　やだ、あっ！　手、手が！	「Nya! Ah! No, ah! Your hand, your hand!
+178163	+		　ナデナデ、する、な！　やあっ、ああっ……！」	　Don’t pet me there! Yaaah, aah……！」
 
-178164	-	手が少し動くだけで大袈裟に反応し、	Even the slightest movement of his hand made her react dramatically,
-178165	+	サテラの声が断続的なものになる。	turning Satella’s voice into broken moans.
+178164	-		手が少し動くだけで大袈裟に反応し、	Even the slightest movement of his hand made her react dramatically,
+178165	+		サテラの声が断続的なものになる。	turning Satella’s voice into broken moans.
 
-178166	-	ランスの手が触れている部分は、	Every place Rance touched
-178167	+	サテラにとってまるで電気が流れているように感じられた。	felt like electricity surging through her body.
+178166	-		ランスの手が触れている部分は、	Every place Rance touched
+178167	+		サテラにとってまるで電気が流れているように感じられた。	felt like electricity surging through her body.
 
-178168	-	敏感すぎる体が、常人なら何も感じない程度の刺激を	Her hypersensitive body turned even the lightest touches
-178169	+	何百倍もの性的快楽に引き上げていた。	into hundreds of times the normal sexual pleasure.
+178168	-		敏感すぎる体が、常人なら何も感じない程度の刺激を	Her hypersensitive body turned even the lightest touches
+178169	+		何百倍もの性的快楽に引き上げていた。	into hundreds of times the normal sexual pleasure.
 
-178170	Satella~	（駄目……！　き、気持ち良すぎて……！	（No……! It feels way too good……!
-178171	+	　さ、サテラ……もう我慢、できな……！）	　S-Satella… I can’t hold back anymore……!）
+178170	Satella~		（駄目……！　き、気持ち良すぎて……！	（No……! It feels way too good……!
+178171	+		　さ、サテラ……もう我慢、できな……！）	　S-Satella… I can’t hold back anymore……!）
 
-178172	-	ランスが臀部を大きな両手でぎゅっと掴むと、	When Rance grabbed her ass firmly with both large hands,
-178173	+	サテラが背を仰け反らせて、くぐもった声を上げた。	Satella arched her back and let out a muffled cry.
+178172	-		ランスが臀部を大きな両手でぎゅっと掴むと、	When Rance grabbed her ass firmly with both large hands,
+178173	+		サテラが背を仰け反らせて、くぐもった声を上げた。	Satella arched her back and let out a muffled cry.
 
-178174	Satella	「んんんんんんんんんん……ッ！」	「Nnnnnnnnnnn……!」
+178174	Satella		「んんんんんんんんんん……ッ！」	「Nnnnnnnnnnn……!」
 
-178175	-	　　＜どろぉ……＞	　　＜Drip……＞
+178175	-		　　＜どろぉ……＞	　　＜Drip……＞
 
-178176	-	臀部を掴まれただけでイッたサテラは、	Satella came just from having her ass grabbed,
-178177	+	蜜壷から大量の愛液を溢れさせ、ランスの下腹部を濡らした。	flooding her honey pot and soaking Rance’s lower abdomen with thick love juices.
+178176	-		臀部を掴まれただけでイッたサテラは、	Satella came just from having her ass grabbed,
+178177	+		蜜壷から大量の愛液を溢れさせ、ランスの下腹部を濡らした。	flooding her honey pot and soaking Rance’s lower abdomen with thick love juices.
 
-178178	Satella	「あっ……はっ、ああ……	「Ah…… haa, aah……
-178179	+	　も、もう……やだぁ……！」	　N-No more……！」
+178178	Satella		「あっ……はっ、ああ……	「Ah…… haa, aah……
+178179	+		　も、もう……やだぁ……！」	　N-No more……！」
 
-178180	Satella~	（うううう……なんで、サテラの体、こんな感じやすいんだ……	（Uuuu…… why is Satella’s body so sensitive……
-178181	+	　もう何度もイカされて……自分が何回イッたかも分からない……）	　I’ve already cum so many times… I don’t even know how many……）
+178180	Satella~		（うううう……なんで、サテラの体、こんな感じやすいんだ……	（Uuuu…… why is Satella’s body so sensitive……
+178181	+		　もう何度もイカされて……自分が何回イッたかも分からない……）	　I’ve already cum so many times… I don’t even know how many……）
 
-178182	Satella~	（だ、だいたい、ランスと裸で抱き合ってるだけで……	（Just being held naked by Rance is enough……
-178183	+	　サテラは……サテラの体は……）	　Satella’s… body is……）
+178182	Satella~		（だ、だいたい、ランスと裸で抱き合ってるだけで……	（Just being held naked by Rance is enough……
+178183	+		　サテラは……サテラの体は……）	　Satella’s… body is……）
 
-178184	Rance	「おーおー、またイッたか。	「Ohh, you came again.
-178185	+	　もう十回以上イッてるし、いったん休憩してやろう」	　You’ve cum more than ten times already, so let’s take a short break.」
+178184	Rance		「おーおー、またイッたか。	「Ohh, you came again.
+178185	+		　もう十回以上イッてるし、いったん休憩してやろう」	　You’ve cum more than ten times already, so let’s take a short break.」
 
-178186	-	ランスの責めが止まり、サテラが大きく息をつく。	Rance stopped his teasing, and Satella let out a huge sigh of relief.
+178186	-		ランスの責めが止まり、サテラが大きく息をつく。	Rance stopped his teasing, and Satella let out a huge sigh of relief.
 
-178187	Satella	「はっ、はああああ……はあ、はあ……	「Haa, haaaaa…… haa, haa……
-178188	+	　きゅ、休憩じゃなくて……は、離して……」	　T-This isn’t a break… l-let go……」
+178187	Satella		「はっ、はああああ……はあ、はあ……	「Haa, haaaaa…… haa, haa……
+178188	+		　きゅ、休憩じゃなくて……は、離して……」	　T-This isn’t a break… l-let go……」
 
-178189	Rance	「そんなに嫌なら、振りほどいたっていいんだぞ？」	「If you hate it that much, you can try to break free, you know?」
+178189	Rance		「そんなに嫌なら、振りほどいたっていいんだぞ？」	「If you hate it that much, you can try to break free, you know?」
 
-178190	Satella	「うっ、くっ……」	「Ugh, kuh……」
+178190	Satella		「うっ、くっ……」	「Ugh, kuh……」
 
-178191	Satella~	（無理だと知ってて言ってるのか……？	（He knows it’s impossible, doesn’t he……?
-178192	+	　うう、触られると体から力が抜けて……振りほどけない……）	　Uuu, every time he touches me my strength leaves my body…… I can’t break free……）
+178191	Satella~		（無理だと知ってて言ってるのか……？	（He knows it’s impossible, doesn’t he……?
+178192	+		　うう、触られると体から力が抜けて……振りほどけない……）	　Uuu, every time he touches me my strength leaves my body…… I can’t break free……）
 
-178193	Satella~	（うぅん……今のうちに休憩して……	（Uun…… I should rest while I can……
-178194	+	　体力を元に戻せばこの程度……）	　recover my stamina and this much……）
+178193	Satella~		（うぅん……今のうちに休憩して……	（Uun…… I should rest while I can……
+178194	+		　体力を元に戻せばこの程度……）	　recover my stamina and this much……）
 
-178195	Satella	「んんんんっ！？」	「Nnnnn!?」
+178195	Satella		「んんんんっ！？」	「Nnnnn!?」
 
-178196	Rance	「おお、なんだ？」	「Oh, what’s wrong?」
+178196	Rance		「おお、なんだ？」	「Oh, what’s wrong?」
 
-178197	Satella	「んんっ！？　う、動かすな！？	「Nnn!? D-Don’t move it!?
-178198	+	　動かすなって言ってるのに！　それ、ヒクヒクしないで……！」	　I told you not to move it! Stop twitching like that……！」
+178197	Satella		「んんっ！？　う、動かすな！？	「Nnn!? D-Don’t move it!?
+178198	+		　動かすなって言ってるのに！　それ、ヒクヒクしないで……！」	　I told you not to move it! Stop twitching like that……！」
 
-178199	-	ランスのペニスに血が巡りヒクヒクと痙攣する。	Rance’s cock throbbed and twitched with fresh blood flow.
-178200	+	それが花弁に当たるだけで、サテラは全身を大きく震わせた。	Just that contact against her petals made Satella’s whole body shudder violently.
+178199	-		ランスのペニスに血が巡りヒクヒクと痙攣する。	Rance’s cock throbbed and twitched with fresh blood flow.
+178200	+		それが花弁に当たるだけで、サテラは全身を大きく震わせた。	Just that contact against her petals made Satella’s whole body shudder violently.
 
-178201	Rance	「なんだ、ちょっと触れてるだけなのに、それが気持ちいいのか。	「What, it feels good even though I’m barely touching you?
-178202	+	　生理現象なんだから仕方ないだろう、我慢しろ」	　It’s just a natural reaction, can’t be helped. Endure it.」
+178201	Rance		「なんだ、ちょっと触れてるだけなのに、それが気持ちいいのか。	「What, it feels good even though I’m barely touching you?
+178202	+		　生理現象なんだから仕方ないだろう、我慢しろ」	　It’s just a natural reaction, can’t be helped. Endure it.」
 
-178203	Satella~	（あ、ああっ……触れてる……	（A-Aah…… it’s touching……
-178204	+	　サテラの大事なとこに……ら、ランスの……が、当たって……）	　Rance’s thick thing is pressing right against Satella’s most precious spot……）
+178203	Satella~		（あ、ああっ……触れてる……	（A-Aah…… it’s touching……
+178204	+		　サテラの大事なとこに……ら、ランスの……が、当たって……）	　Rance’s thick thing is pressing right against Satella’s most precious spot……）
 
-178205	-	ランスの肩付近をかぷかぷと噛んで	Satella desperately bit Rance’s shoulder
-178206	+	サテラが必死に快楽を我慢する。	to endure the overwhelming pleasure.
+178205	-		ランスの肩付近をかぷかぷと噛んで	Satella desperately bit Rance’s shoulder
+178206	+		サテラが必死に快楽を我慢する。	to endure the overwhelming pleasure.
 
-178207	Satella~	（や、やだ……こんなのでイクなんて……	（No… cumming from just this……
-178208	+	　絶対、絶対に……駄目ぇぇ……）	　Absolutely, absolutely not……）
+178207	Satella~		（や、やだ……こんなのでイクなんて……	（No… cumming from just this……
+178208	+		　絶対、絶対に……駄目ぇぇ……）	　Absolutely, absolutely not……）
 
-178209	-	ふーふーとまるで獣のように息を吐くサテラの瞳は、	Panting like a beast, Satella’s eyes were already completely melted with lust.
-178210	+	既にトロンととろけきっていた。	
+178209	-		ふーふーとまるで獣のように息を吐くサテラの瞳は、	Panting like a beast, Satella’s eyes were already completely melted with lust.
+178210	+		既にトロンととろけきっていた。	
 
-178211	-	じわりじわりと下腹部に快楽が募る。	Pleasure slowly built up deep in her lower belly.
+178211	-		じわりじわりと下腹部に快楽が募る。	Pleasure slowly built up deep in her lower belly.
 
-178212	Satella~	（だ……駄目！　駄目！　サテラ、もう……もう……	（No… no! Satella, already…… already……
-178213	+	　……げんか、い！）	　……cumming!）
+178212	Satella~		（だ……駄目！　駄目！　サテラ、もう……もう……	（No… no! Satella, already…… already……
+178213	+		　……げんか、い！）	　……cumming!）
 
-178214	Satella	「んんんんんんんんんんんっ！」	「Nnnnnnnnnnnn!」
+178214	Satella		「んんんんんんんんんんんっ！」	「Nnnnnnnnnnnn!」
 
-178215	-	ランスの胸に顔をうずめ、	Burying her face in Rance’s chest,
-178216	+	ぶるぶると震えながら、サテラが甘く鳴く。	Satella trembled and let out sweet moans.
+178215	-		ランスの胸に顔をうずめ、	Burying her face in Rance’s chest,
+178216	+		ぶるぶると震えながら、サテラが甘く鳴く。	Satella trembled and let out sweet moans.
 
-178217	-	嬌声こそ必死に口内で抑えたが、サテラが達したのは明白だった。	Though she desperately tried to hold back her cries, it was obvious she had climaxed hard.
+178217	-		嬌声こそ必死に口内で抑えたが、サテラが達したのは明白だった。	Though she desperately tried to hold back her cries, it was obvious she had climaxed hard.
 
-178218	Rance	「おーーーー、	「Ooooooh,
-178219	+	　イッてる、イッてる」	　you’re cumming, you’re cumming.」
+178218	Rance		「おーーーー、	「Ooooooh,
+178219	+		　イッてる、イッてる」	　you’re cumming, you’re cumming.」
 
-178220	Satella~	（ああ……我慢したのに、なにもされてないのに……	（Aah…… even though I tried to hold it… nothing was even done to me……
-178221	+	　イッてる恥ずかしい姿、こんな至近距離で、見られたぁ……）	　he saw me cumming shamefully from so close……）
+178220	Satella~		（ああ……我慢したのに、なにもされてないのに……	（Aah…… even though I tried to hold it… nothing was even done to me……
+178221	+		　イッてる恥ずかしい姿、こんな至近距離で、見られたぁ……）	　he saw me cumming shamefully from so close……）
 
-178222	-	サテラは羞恥から顔を真っ赤に染める。	Satella’s face burned bright red with shame.
-178223	+	じわりと目尻に涙が浮かんだ。	Tears welled up in the corners of her eyes.
+178222	-		サテラは羞恥から顔を真っ赤に染める。	Satella’s face burned bright red with shame.
+178223	+		じわりと目尻に涙が浮かんだ。	Tears welled up in the corners of her eyes.
 
-178224	Satella	「こ、この……馬鹿！　う、ぐすっ、なんでお前は使徒なのに、	「Y-You… idiot! U-Gusu, why won’t you listen to Satella’s orders even though you’re my apostle……！」
-178225	+	　サテラの命令を聞かないんだ……！」	
+178224	Satella		「こ、この……馬鹿！　う、ぐすっ、なんでお前は使徒なのに、	「Y-You… idiot! U-Gusu, why won’t you listen to Satella’s orders even though you’re my apostle……！」
+178225	+		　サテラの命令を聞かないんだ……！」	
 
-178226	Rance	「げへへへ、変なことを言うな。	「Gehehe, don’t say weird things.
-178227	+	　俺様は使徒として、主を気持ち良くしてやりたいだけだ」	　As your apostle, I only want to make my master feel good.」
+178226	Rance		「げへへへ、変なことを言うな。	「Gehehe, don’t say weird things.
+178227	+		　俺様は使徒として、主を気持ち良くしてやりたいだけだ」	　As your apostle, I only want to make my master feel good.」
 
-178228	Rance	「サテラの体は超敏感だから、	「Because Satella’s body is so hypersensitive,
-178229	+	　ちょっと撫でるだけでイッて気持ち良くさせやすいぞ」	　just a little stroking is enough to make you cum easily.」
+178228	Rance		「サテラの体は超敏感だから、	「Because Satella’s body is so hypersensitive,
+178229	+		　ちょっと撫でるだけでイッて気持ち良くさせやすいぞ」	　just a little stroking is enough to make you cum easily.」
 
-178230	Satella	「はあっ、はあっ！　うううううう……この馬鹿！」	「Haa, haa! Uuuuuuu…… you idiot!」
+178230	Satella		「はあっ、はあっ！　うううううう……この馬鹿！」	「Haa, haa! Uuuuuuu…… you idiot!」
 
-178231	Rance	「さーて、それじゃあそろそろ――」	「Now then, it’s about time――」
+178231	Rance		「さーて、それじゃあそろそろ――」	「Now then, it’s about time――」
 
-178232	Satella	「ひゃん！？」	「Hyan!?」
+178232	Satella		「ひゃん！？」	「Hyan!?」
 
-178233	-	剛直が今にも入りたそうに、ヒクつく。	His rock-hard cock twitched eagerly, ready to enter.
-178234	+	既にサテラにも何をしようとしているか理解できていた。	Satella already understood exactly what he was about to do.
+178233	-		剛直が今にも入りたそうに、ヒクつく。	His rock-hard cock twitched eagerly, ready to enter.
+178234	+		既にサテラにも何をしようとしているか理解できていた。	Satella already understood exactly what he was about to do.
 
-178235	Satella	「いれ……いれる、の……？	「Y-You’re… going to put it in……?
-178236	+	　そんなの……本当に、サテラの中に……」	　Something like that… really inside Satella……」
+178235	Satella		「いれ……いれる、の……？	「Y-You’re… going to put it in……?
+178236	+		　そんなの……本当に、サテラの中に……」	　Something like that… really inside Satella……」
 
-178237	Rance	「うむ、入れる。	「Yes, I’m putting it in.
-178238	+	　入れてサテラを気持ち良くさせてやる」	　I’ll fill you up and make you feel incredible.」
+178237	Rance		「うむ、入れる。	「Yes, I’m putting it in.
+178238	+		　入れてサテラを気持ち良くさせてやる」	　I’ll fill you up and make you feel incredible.」
 
-178239	Satella	「うっ……うう……」	「Uhh…… uuu……」
+178239	Satella		「うっ……うう……」	「Uhh…… uuu……」
 
-178240	-	有無を言わさぬランスの口調に、サテラの声が詰まる。	Rance’s commanding tone left Satella speechless.
+178240	-		有無を言わさぬランスの口調に、サテラの声が詰まる。	Rance’s commanding tone left Satella speechless.
 
-178241	-	必死で止めても、仮に懇願してもランスが止まらないことは、	She knew that no matter how hard she tried to stop him or beg,
-178242	+	もうサテラにも分かっていた。	Rance would never stop.
+178241	-		必死で止めても、仮に懇願してもランスが止まらないことは、	She knew that no matter how hard she tried to stop him or beg,
+178242	+		もうサテラにも分かっていた。	Rance would never stop.
 
-178243	Satella~	（もし、こんなの入れられたら……	（If something this big goes inside me……
-178244	+	　さ、サテラ……狂っちゃう、かも……）	　S-Satella… might go crazy……）
+178243	Satella~		（もし、こんなの入れられたら……	（If something this big goes inside me……
+178244	+		　さ、サテラ……狂っちゃう、かも……）	　S-Satella… might go crazy……）
 
-178245	-	大きな緊張と、少々の恐怖と、ほんの少しの期待で、	With huge tension, a bit of fear, and just a tiny bit of anticipation,
-178246	+	胸が痛いほどバクバクと大きく鼓動を打っていた。	her heart pounded so hard it hurt.
+178245	-		大きな緊張と、少々の恐怖と、ほんの少しの期待で、	With huge tension, a bit of fear, and just a tiny bit of anticipation,
+178246	+		胸が痛いほどバクバクと大きく鼓動を打っていた。	her heart pounded so hard it hurt.
 
-178247	Satella~	（サテラ、主なのに……使徒に犯されちゃう……	（Satella is the master yet… getting ravished by her own apostle……
-178248	+	　また、あの……気持ち良くなる奴、されちゃう……）	　getting that mind-melting pleasure again……）
+178247	Satella~		（サテラ、主なのに……使徒に犯されちゃう……	（Satella is the master yet… getting ravished by her own apostle……
+178248	+		　また、あの……気持ち良くなる奴、されちゃう……）	　getting that mind-melting pleasure again……）
 
-178249	-	自分の体中から下腹部に血が集中していくのが、	She could feel all the blood in her body rushing to her lower abdomen.
-178250	+	サテラ自身にも自覚できた。	
+178249	-		自分の体中から下腹部に血が集中していくのが、	She could feel all the blood in her body rushing to her lower abdomen.
+178250	+		サテラ自身にも自覚できた。	
 
-178251	Rance	「お？　おりょ？　こ、この……！」	「Oh? Oho? T-This……!」
+178251	Rance		「お？　おりょ？　こ、この……！」	「Oh? Oho? T-This……!」
 
-178252	-	サテラの花弁から溢れる愛液の量はすさまじく、	The amount of love juice flooding from Satella’s petals was incredible,
-178253	+	ランスが挿入を試みても滑ってペニスが擦れるだけだった。	so when Rance tried to push in it just slid and rubbed against her instead.
+178252	-		サテラの花弁から溢れる愛液の量はすさまじく、	The amount of love juice flooding from Satella’s petals was incredible,
+178253	+		ランスが挿入を試みても滑ってペニスが擦れるだけだった。	so when Rance tried to push in it just slid and rubbed against her instead.
 
-178254	Rance	「えーい、ぬーるぬーるとしおって。	「Tch, so slippery and wet.
-178255	+	　このっ！　くぬっ！　どうだ！」	　Take this! Kuh! How’s that!」
+178254	Rance		「えーい、ぬーるぬーるとしおって。	「Tch, so slippery and wet.
+178255	+		　このっ！　くぬっ！　どうだ！」	　Take this! Kuh! How’s that!」
 
-178256	Satella	「んひゃっ！？　んやっ、やめ！	「Nhyaa!? Nyaah, stop!
-178257	+	　ぬるぬる、って、する、なあっ……！　ああああっ！」	　Don’t say slippery! Aaaaaah！」
+178256	Satella		「んひゃっ！？　んやっ、やめ！	「Nhyaa!? Nyaah, stop!
+178257	+		　ぬるぬる、って、する、なあっ……！　ああああっ！」	　Don’t say slippery! Aaaaaah！」
 
-178258	-	ペニスで花弁を擦られるだけで、	Just rubbing her petals with his cock
-178259	+	サテラは視界を明滅させて何度も達した。	made Satella’s vision flash as she came over and over.
+178258	-		ペニスで花弁を擦られるだけで、	Just rubbing her petals with his cock
+178259	+		サテラは視界を明滅させて何度も達した。	made Satella’s vision flash as she came over and over.
 
-178260	-	擦れる度にサテラのお尻がビクビクと震えて跳ね上がる。	Every rub made her plump ass twitch and bounce.
+178260	-		擦れる度にサテラのお尻がビクビクと震えて跳ね上がる。	Every rub made her plump ass twitch and bounce.
 
-178261	Satella	「ひうっ！？　んんっ！？	「Hiu!? Nnn!?」
-178262	+	　い、入れるならぁ……！　は、早く、してぇ……！」	　I-If you’re going to put it in……! H-Hurry up and do it……！」
+178261	Satella		「ひうっ！？　んんっ！？	「Hiu!? Nnn!?」
+178262	+		　い、入れるならぁ……！　は、早く、してぇ……！」	　I-If you’re going to put it in……! H-Hurry up and do it……！」
 
-178263	Rance	「ええい、お前がもじもじとするから悪いのだ！	「Tch, it’s your fault for fidgeting so much!
-178264	+	　こうしてやる！」	　Take this!」
+178263	Rance		「ええい、お前がもじもじとするから悪いのだ！	「Tch, it’s your fault for fidgeting so much!
+178264	+		　こうしてやる！」	　Take this!」
 
-178265	Satella	「んにゃっ！？」	「Nnyaa!?」
+178265	Satella		「んにゃっ！？」	「Nnyaa!?」
 
-178266	-	ランスの手がサテラの陰部を割り開いた。	Rance spread open Satella’s most intimate folds with his fingers.
-178267	+	もっとも敏感な部分が風に触れて、サテラがわななく。	Her most sensitive parts exposed to the air made her tremble.
+178266	-		ランスの手がサテラの陰部を割り開いた。	Rance spread open Satella’s most intimate folds with his fingers.
+178267	+		もっとも敏感な部分が風に触れて、サテラがわななく。	Her most sensitive parts exposed to the air made her tremble.
 
-178268	Satella	「あ、あ、あ、あ、あ……」	「A-A-A-A-A……」
+178268	Satella		「あ、あ、あ、あ、あ……」	「A-A-A-A-A……」
 
-178269	-	そして容易く達した。	And she came easily once more.
+178269	-		そして容易く達した。	And she came easily once more.
 
-178270	-	　　＜ごぽり……どろぉ……＞	　　＜Gopori…… drooo……＞
+178270	-		　　＜ごぽり……どろぉ……＞	　　＜Gopori…… drooo……＞
 
-178271	-	まるで水飴のように重く粘った愛液が	Thick, sticky love juice like heavy syrup
-178272	+	花弁から大量に溢れた。	gushed out from her petals.
+178271	-		まるで水飴のように重く粘った愛液が	Thick, sticky love juice like heavy syrup
+178272	+		花弁から大量に溢れた。	gushed out from her petals.
 
-178273	Satella~	（あ……く……サテラの体……	（A…… ku…… Satella’s body……
-178274	+	　うう、なんで……こんな……）	　Uuu, why…… like this……）
+178273	Satella~		（あ……く……サテラの体……	（A…… ku…… Satella’s body……
+178274	+		　うう、なんで……こんな……）	　Uuu, why…… like this……）
 
-178275	Rance	「よし、これで入れやすくなった。	「Good, now it should go in easier.
-178276	+	　では入れるぞー」	　Here I goー」
+178275	Rance		「よし、これで入れやすくなった。	「Good, now it should go in easier.
+178276	+		　では入れるぞー」	　Here I goー」
 
-178277	-	ランスは気づかなかったが、	Rance didn’t notice, but
-178278	+	サテラは小さくコクンと頷いた。	Satella gave a tiny, shy nod.
+178277	-		ランスは気づかなかったが、	Rance didn’t notice, but
+178278	+		サテラは小さくコクンと頷いた。	Satella gave a tiny, shy nod.
 
-178279	Rance	「とーーーーーーーーーーーーっ！」	「Too0000000000000000h!」
+178279	Rance		「とーーーーーーーーーーーーっ！」	「Too0000000000000000h!」
 
-178280	Satella	「ああああああああっ！？」	「Aaaaaaaaaaaaah!?」
+178280	Satella		「ああああああああっ！？」	「Aaaaaaaaaaaaah!?」
 
-178281	-	挿入された瞬間、予想を遙かに上回る衝撃に、	The moment he thrust inside, the overwhelming shock far beyond what she imagined
-178282	+	サテラは嬌声を上げた。	made Satella scream in ecstasy.
+178281	-		挿入された瞬間、予想を遙かに上回る衝撃に、	The moment he thrust inside, the overwhelming shock far beyond what she imagined
+178282	+		サテラは嬌声を上げた。	made Satella scream in ecstasy.
 
-178283	Satella	「んにゃっ！？　あうっ！　んんんんっ！？」	「Nnyaa!? Auu! Nnnnn!?」
+178283	Satella		「んにゃっ！？　あうっ！　んんんんっ！？」	「Nnyaa!? Auu! Nnnnn!?」
 
-178284	-	そして、当然のように挿入されただけで何度も激しく果て、	Naturally, just the insertion alone made her climax violently again and again,
-178285	+	ランスの太い腕をサテラが強く掴む。	and Satella clung desperately to Rance’s thick arms.
+178284	-		そして、当然のように挿入されただけで何度も激しく果て、	Naturally, just the insertion alone made her climax violently again and again,
+178285	+		ランスの太い腕をサテラが強く掴む。	and Satella clung desperately to Rance’s thick arms.
 
-178286	-	肉厚な臀部が柔らかそうな脂肪をプルプルと震わせていた。	Her thick, juicy ass jiggled with soft fat with every thrust.
+178286	-		肉厚な臀部が柔らかそうな脂肪をプルプルと震わせていた。	Her thick, juicy ass jiggled with soft fat with every thrust.
 
-178287	Rance	「おおおお……こりゃすごい締め付けだ……」	「Ooooooh…… what an incredible tight squeeze……」
+178287	Rance		「おおおお……こりゃすごい締め付けだ……」	「Ooooooh…… what an incredible tight squeeze……」
 
-178288	-	サテラの膣内はギチギチとランスのものを痛いほどに締め付け、	Satella’s pussy squeezed Rance’s cock so tightly it almost hurt,
-178289	+	ほんの少しの隙間もなく密着していた。	clinging perfectly with no gaps at all.
+178288	-		サテラの膣内はギチギチとランスのものを痛いほどに締め付け、	Satella’s pussy squeezed Rance’s cock so tightly it almost hurt,
+178289	+		ほんの少しの隙間もなく密着していた。	clinging perfectly with no gaps at all.
 
-178290	-	しかし、決してキツくはなく、	Yet it wasn’t painfully tight,
-178291	+	ペニスで割り開けばどこまでも深く飲み込みそうだった。	but seemed ready to swallow him endlessly deep once spread open.
+178290	-		しかし、決してキツくはなく、	Yet it wasn’t painfully tight,
+178291	+		ペニスで割り開けばどこまでも深く飲み込みそうだった。	but seemed ready to swallow him endlessly deep once spread open.
 
-178292	Rance	「あへ、あへ……油断するとイっちまいそうだ……	「Ahe, ahe…… if I let my guard down I might cum right away……
-178293	+	　ぬるぬるの熱々で、入れてるだけで気持ちいいぞ……」	　So hot and slippery, just being inside feels amazing……」
+178292	Rance		「あへ、あへ……油断するとイっちまいそうだ……	「Ahe, ahe…… if I let my guard down I might cum right away……
+178293	+		　ぬるぬるの熱々で、入れてるだけで気持ちいいぞ……」	　So hot and slippery, just being inside feels amazing……」
 
-178294	Satella	「ぬいっ……抜いて、ぬ、抜いてぇぇ……」	「Nui…… take it out, p-pull it out please……」
+178294	Satella		「ぬいっ……抜いて、ぬ、抜いてぇぇ……」	「Nui…… take it out, p-pull it out please……」
 
-178295	-	もっとも敏感な粘膜と男性器を密着させる感触に、	The feeling of her most sensitive inner walls pressed tightly against his cock
-178296	+	ランスと対照的にサテラは軽いパニックに陥っていた。	sent Satella into a light panic, unlike the calm Rance.
+178295	-		もっとも敏感な粘膜と男性器を密着させる感触に、	The feeling of her most sensitive inner walls pressed tightly against his cock
+178296	+		ランスと対照的にサテラは軽いパニックに陥っていた。	sent Satella into a light panic, unlike the calm Rance.
 
-178297	Satella~	（気持ちいい、気持ちいい、気持ち良すぎる！	（Feels good, feels so good, way too good!
-178298	+	　だ、駄目、こん、こんなの、サテラ、壊れちゃ……！）	　N-No, this… Satella will break……!）
+178297	Satella~		（気持ちいい、気持ちいい、気持ち良すぎる！	（Feels good, feels so good, way too good!
+178298	+		　だ、駄目、こん、こんなの、サテラ、壊れちゃ……！）	　N-No, this… Satella will break……!）
 
-178299	-	　　＜ぬ、ぬぬぬぬぬ……＞	　　＜Nu, nunununu……＞
+178299	-		　　＜ぬ、ぬぬぬぬぬ……＞	　　＜Nu, nunununu……＞
 
-178300	-	半ばパニックのまま、	Still half in panic,
-178301	+	サテラが腰を浮かしてペニスを抜こうとする。	Satella tried to lift her hips to pull him out.
+178300	-		半ばパニックのまま、	Still half in panic,
+178301	+		サテラが腰を浮かしてペニスを抜こうとする。	Satella tried to lift her hips to pull him out.
 
-178302	Rance	「こらこら、抜くんじゃない」	「Hey now, don’t pull out.」
+178302	Rance		「こらこら、抜くんじゃない」	「Hey now, don’t pull out.」
 
-178303	-	　　＜ズンッ！！！！＞	　　＜Zun!!!!＞
+178303	-		　　＜ズンッ！！！！＞	　　＜Zun!!!!＞
 
-178304	Satella	「んにゃあああああ……！？」	「Nnyaaaaaaaaa……!?」
+178304	Satella		「んにゃあああああ……！？」	「Nnyaaaaaaaaa……!?」
 
-178305	-	せっかく抜きかけたペニスがまた深く入り込み、	The cock she almost pulled out slammed deep inside again,
-178306	+	サテラは甘い声の悲鳴を上げた。	making Satella scream sweetly.
+178305	-		せっかく抜きかけたペニスがまた深く入り込み、	The cock she almost pulled out slammed deep inside again,
+178306	+		サテラは甘い声の悲鳴を上げた。	making Satella scream sweetly.
 
-178307	-	深々と乱暴に挿入される快楽はすさまじく、	The pleasure of being roughly and deeply penetrated was overwhelming,
-178308	+	下腹部から脳天にかけて雷が走り抜けるようだった。	like lightning shooting from her womb to the top of her head.
+178307	-		深々と乱暴に挿入される快楽はすさまじく、	The pleasure of being roughly and deeply penetrated was overwhelming,
+178308	+		下腹部から脳天にかけて雷が走り抜けるようだった。	like lightning shooting from her womb to the top of her head.
 
-178309	-	サテラの快楽度合いを表すように花弁からは	As if showing her level of pleasure, thick love juice
-178310	+	どろどろと絶え間なく愛液が溢れていた。	kept pouring endlessly from her petals.
+178309	-		サテラの快楽度合いを表すように花弁からは	As if showing her level of pleasure, thick love juice
+178310	+		どろどろと絶え間なく愛液が溢れていた。	kept pouring endlessly from her petals.
 
-178311	Satella	「はっ、はあ……はあ、はあっ……！	「Haa, haa…… haa, haa……!
-178312	+	　サテラ、ほん、と……死んじゃう……！」	　Satella… is really… going to die……！」
+178311	Satella		「はっ、はあ……はあ、はあっ……！	「Haa, haa…… haa, haa……!
+178312	+		　サテラ、ほん、と……死んじゃう……！」	　Satella… is really… going to die……！」
 
-178313	Rance	「まだ入れただけでなにを言うか。	「You’re saying that when I’ve only just put it in.
-178314	+	　ゆっくり少しずつ動くから安心しろ」	　I’ll move slowly at first, so relax.」
+178313	Rance		「まだ入れただけでなにを言うか。	「You’re saying that when I’ve only just put it in.
+178314	+		　ゆっくり少しずつ動くから安心しろ」	　I’ll move slowly at first, so relax.」
 
-178315	Satella	「え、ま、待って……！？」	「Eh, w-wait……!?」
+178315	Satella		「え、ま、待って……！？」	「Eh, w-wait……!?」
 
-178316	Satella	「んゆー！」	「Nyuー!」
+178316	Satella		「んゆー！」	「Nyuー!」
 
-178317	-	ペニスを前後に動かした途端、	The moment he started moving his cock back and forth,
-178318	+	サテラがまた激しく絶頂を迎えた。	Satella climaxed violently once more.
+178317	-		ペニスを前後に動かした途端、	The moment he started moving his cock back and forth,
+178318	+		サテラがまた激しく絶頂を迎えた。	Satella climaxed violently once more.
 
-178319	Rance	「おー、またイッてるのか。	「Oh, cumming again already.
-178320	+	　がははは、サテラの体は面白いなー」	　Gahahaha, your body is so fun, Satella.」
+178319	Rance		「おー、またイッてるのか。	「Oh, cumming again already.
+178320	+		　がははは、サテラの体は面白いなー」	　Gahahaha, your body is so fun, Satella.」
 
-178321	Satella	「ふにゅ……おまえ……いい加減に、んんっ……	「Funyu…… you… enough already, nnn……
-178322	+	　やあっ、あっ、う、動かすなあ……！」	　Yaaah, ah, u, don’t move……！」
+178321	Satella		「ふにゅ……おまえ……いい加減に、んんっ……	「Funyu…… you… enough already, nnn……
+178322	+		　やあっ、あっ、う、動かすなあ……！」	　Yaaah, ah, u, don’t move……！」
 
-178323	Rance	「動いていると言っても、本当に少ししか動かしていないぞ？	「I’m barely moving at all, you know?
-178324	+	　ちょっと感じやすすぎるんじゃないか？」	　Aren’t you just too sensitive?」
+178323	Rance		「動いていると言っても、本当に少ししか動かしていないぞ？	「I’m barely moving at all, you know?
+178324	+		　ちょっと感じやすすぎるんじゃないか？」	　Aren’t you just too sensitive?」
 
-178325	-	小刻みに、ただ腰を揺らしてるだけの優しい抽送。	Gentle, shallow thrusts that were just light rocking of his hips.
-178326	+	しかし、それでもサテラの体には激しい快楽が貫かれていた。	Yet even that sent intense pleasure piercing through Satella’s body.
+178325	-		小刻みに、ただ腰を揺らしてるだけの優しい抽送。	Gentle, shallow thrusts that were just light rocking of his hips.
+178326	+		しかし、それでもサテラの体には激しい快楽が貫かれていた。	Yet even that sent intense pleasure piercing through Satella’s body.
 
-178327	Rance	「ほれほれ、愛液なんてどろどろのぐちょぐちょで、	「Look look, your love juice is all thick and sloppy,
-178328	+	　もうお漏らししたみたいになってるぞ」	　it looks like you wet yourself.」
+178327	Rance		「ほれほれ、愛液なんてどろどろのぐちょぐちょで、	「Look look, your love juice is all thick and sloppy,
+178328	+		　もうお漏らししたみたいになってるぞ」	　it looks like you wet yourself.」
 
-178329	-	ランスの下腹部は大量の愛液の水たまりになっていた。	A huge puddle of her juices had formed on Rance’s lower belly.
+178329	-		ランスの下腹部は大量の愛液の水たまりになっていた。	A huge puddle of her juices had formed on Rance’s lower belly.
 
-178330	Satella	「やああっ……あっ、くっ……	「Yaaaaah…… ah, kuh……
-178331	+	　言う、なぁ……この馬鹿、馬鹿ぁぁぁ……」	　Don’t say that…… you idiot, you biiiig idiot……」
+178330	Satella		「やああっ……あっ、くっ……	「Yaaaaah…… ah, kuh……
+178331	+		　言う、なぁ……この馬鹿、馬鹿ぁぁぁ……」	　Don’t say that…… you idiot, you biiiig idiot……」
 
-178332	-	羞恥で顔がカッと熱くなる。	Her face burned hot with shame.
-178333	+	後悔と惨めさが募り、サテラは泣きそうだった。	Regret and misery welled up, making Satella want to cry.
+178332	-		羞恥で顔がカッと熱くなる。	Her face burned hot with shame.
+178333	+		後悔と惨めさが募り、サテラは泣きそうだった。	Regret and misery welled up, making Satella want to cry.
 
-178334	Satella~	（うう、こいつには……いつも格好いいサテラだけ	（Uuu, I wanted him to only see the cool side of Satella……
-178335	+	　見せていたいのに……うう、なんでこんな……）	　but now look at me…… uuu, why like this……）
+178334	Satella~		（うう、こいつには……いつも格好いいサテラだけ	（Uuu, I wanted him to only see the cool side of Satella……
+178335	+		　見せていたいのに……うう、なんでこんな……）	　but now look at me…… uuu, why like this……）
 
-178336	Satella	「はっ、はあっ、はあっ……この、馬鹿使徒ぉ……！	「Haa, haa, haa…… you stupid apostle……!
-178337	+	　どうして、お前はこう……エッチなんだぁ……」	　Why are you so… perverted……」
+178336	Satella		「はっ、はあっ、はあっ……この、馬鹿使徒ぉ……！	「Haa, haa, haa…… you stupid apostle……!
+178337	+		　どうして、お前はこう……エッチなんだぁ……」	　Why are you so… perverted……」
 
-178338	Rance	「サテラが可愛いから仕方ないのだ。	「It can’t be helped because Satella is so cute.
-178339	+	　お前が誘ってくるのが悪いな、がははは！」	　It’s your fault for seducing me, gahahaha!」
+178338	Rance		「サテラが可愛いから仕方ないのだ。	「It can’t be helped because Satella is so cute.
+178339	+		　お前が誘ってくるのが悪いな、がははは！」	　It’s your fault for seducing me, gahahaha!」
 
-178340	Satella	「な、なにを……サテラは……可愛くなんて……」	「W-What are you… Satella isn’t… cute……」
+178340	Satella		「な、なにを……サテラは……可愛くなんて……」	「W-What are you… Satella isn’t… cute……」
 
-178341	Satella	「だって、誰も……サテラには、誰も近寄りすら……」	「Because no one… no one ever even approached Satella……」
+178341	Satella		「だって、誰も……サテラには、誰も近寄りすら……」	「Because no one… no one ever even approached Satella……」
 
-178342	Rance	「そんなことあるまい、もう何百年も生きてきたんだ。	「No way that’s true, you’ve lived for hundreds of years.
-178343	+	　今までに言い寄ってくる男の一人や二人――」	　There must have been at least one or two men who hit on you――」
+178342	Rance		「そんなことあるまい、もう何百年も生きてきたんだ。	「No way that’s true, you’ve lived for hundreds of years.
+178343	+		　今までに言い寄ってくる男の一人や二人――」	　There must have been at least one or two men who hit on you――」
 
-178344	Satella	「い、いない。	「N-None.
-178345	+	　ずっと、皆……魔人ってだけでサテラを怖がって……」	　Everyone… was always scared of Satella just because I’m a Fiend……」
+178344	Satella		「い、いない。	「N-None.
+178345	+		　ずっと、皆……魔人ってだけでサテラを怖がって……」	　Everyone… was always scared of Satella just because I’m a Fiend……」
 
-178346	-	――鼻がツンと痛み、	――Her nose stung,
-178347	+	サテラの瞳にじわじわと涙が溢れる。	and tears slowly filled Satella’s eyes.
+178346	-		――鼻がツンと痛み、	――Her nose stung,
+178347	+		サテラの瞳にじわじわと涙が溢れる。	and tears slowly filled Satella’s eyes.
 
-178348	Satella	「うっ……ぐすっ……」	「Uu…… gusu……」
+178348	Satella		「うっ……ぐすっ……」	「Uu…… gusu……」
 
-178349	Satella	「さ、サテラだって……普通の女の子なのに……	「S-Satella is… just a normal girl too……
-178350	+	　皆、怖がって離れて……いつも、サテラは一人で……」	　Everyone got scared and stayed away… Satella has always been alone……」
+178349	Satella		「さ、サテラだって……普通の女の子なのに……	「S-Satella is… just a normal girl too……
+178350	+		　皆、怖がって離れて……いつも、サテラは一人で……」	　Everyone got scared and stayed away… Satella has always been alone……」
 
-178351	Rance	「皆ではないだろう」	「Not everyone.」
+178351	Rance		「皆ではないだろう」	「Not everyone.」
 
-178352	Satella	「え？」	「Eh?」
+178352	Satella		「え？」	「Eh?」
 
-178353	Rance	「がははは、俺様がいるではないか！」	「Gahahaha, I’m right here!」
+178353	Rance		「がははは、俺様がいるではないか！」	「Gahahaha, I’m right here!」
 
-178354	Rance	「まったく、サテラはこんなに可愛いのに、	「Seriously, Satella is so cute,
-178355	+	　どいつもこいつも見る目がないな」	　yet none of those idiots have eyes.」
+178354	Rance		「まったく、サテラはこんなに可愛いのに、	「Seriously, Satella is so cute,
+178355	+		　どいつもこいつも見る目がないな」	　yet none of those idiots have eyes.」
 
-178356	Rance	「ぐふふ、だが俺様にしてみればその方が都合が良いか」	「Gufufu, but that works out perfectly for me.」
+178356	Rance		「ぐふふ、だが俺様にしてみればその方が都合が良いか」	「Gufufu, but that works out perfectly for me.」
 
-178357	-	ポンと、気安くランスがサテラの頭に手を置いた。	Rance casually placed his hand on Satella’s head.
+178357	-		ポンと、気安くランスがサテラの頭に手を置いた。	Rance casually placed his hand on Satella’s head.
 
-178358	Satella	「あ、あ、あ、あ、あ……」	「A-A-A-A-A……」
+178358	Satella		「あ、あ、あ、あ、あ……」	「A-A-A-A-A……」
 
-178359	-	　　＜きゅううぅぅぅぅぅん……＞	　　＜Kyuuuuuuun……＞
+178359	-		　　＜きゅううぅぅぅぅぅん……＞	　　＜Kyuuuuuuun……＞
 
-178360	-	胸が、痛いほどに締め付けられる。	Her chest tightened painfully with emotion.
+178360	-		胸が、痛いほどに締め付けられる。	Her chest tightened painfully with emotion.
 
-178361	-	今までうるさいほどに高鳴っていた心臓が、	The heart that had been pounding so loudly
-178362	+	また別の理由で甘く脈打ちだした。	now beat sweetly for a completely different reason.
+178361	-		今までうるさいほどに高鳴っていた心臓が、	The heart that had been pounding so loudly
+178362	+		また別の理由で甘く脈打ちだした。	now beat sweetly for a completely different reason.
 
-178363	Rance	「なんだ、変な顔して。	「What’s with that weird face.
-178364	+	　あ、俺様に褒められて嬉しいのか？」	　Oh, are you happy being praised by me?」
+178363	Rance		「なんだ、変な顔して。	「What’s with that weird face.
+178364	+		　あ、俺様に褒められて嬉しいのか？」	　Oh, are you happy being praised by me?」
 
-178365	Satella	「う、うん……」	「Y-Yes……」
+178365	Satella		「う、うん……」	「Y-Yes……」
 
-178366	-	サテラの小さな手が、ランスの腕をぎゅっと掴む。	Satella’s small hands tightly gripped Rance’s arm.
+178366	-		サテラの小さな手が、ランスの腕をぎゅっと掴む。	Satella’s small hands tightly gripped Rance’s arm.
 
-178367	Satella	「…………………………嬉しい」	「…………………………I’m happy.」
+178367	Satella		「…………………………嬉しい」	「…………………………I’m happy.」
 
-178368	Satella	「ホントに？　ホントに？	「Really? Really?
-178369	+	　サテラ……本当に可愛い……？」	　Satella… you’re really cute……?」
+178368	Satella		「ホントに？　ホントに？	「Really? Really?
+178369	+		　サテラ……本当に可愛い……？」	　Satella… you’re really cute……?」
 
-178370	Rance	「こんなにエロい女の子が可愛くないわけあるまい」	「There’s no way such an erotic girl isn’t cute.」
+178370	Rance		「こんなにエロい女の子が可愛くないわけあるまい」	「There’s no way such an erotic girl isn’t cute.」
 
-178371	Satella	「あ、う……ふぁ……」	「A, u…… faa……」
+178371	Satella		「あ、う……ふぁ……」	「A, u…… faa……」
 
-178372	-	ポーッと、サテラの頭から考える力が失われていく。	Satella’s mind went completely blank.
+178372	-		ポーッと、サテラの頭から考える力が失われていく。	Satella’s mind went completely blank.
 
-178373	-	嬉しいと、気持ちいいと、恥ずかしいが、まぜこぜになって、	Happiness, pleasure, and embarrassment mixed together,
-178374	+	激しい感情が胸の内で渦巻いていた。	creating a storm of intense emotions in her chest.
+178373	-		嬉しいと、気持ちいいと、恥ずかしいが、まぜこぜになって、	Happiness, pleasure, and embarrassment mixed together,
+178374	+		激しい感情が胸の内で渦巻いていた。	creating a storm of intense emotions in her chest.
 
-178375	Satella	「ら、んす……ランス、ランス……ランス……」	「Ra… nce… Rance, Rance… Rance……」
+178375	Satella		「ら、んす……ランス、ランス……ランス……」	「Ra… nce… Rance, Rance… Rance……」
 
-178376	-	サテラがランスの腕を掴んだまま、身を摺り寄らせる。	Still gripping his arm, Satella pressed her body closer.
+178376	-		サテラがランスの腕を掴んだまま、身を摺り寄らせる。	Still gripping his arm, Satella pressed her body closer.
 
-178377	Rance	「お、おお？　どうした？」	「O-Oh? What’s this?」
+178377	Rance		「お、おお？　どうした？」	「O-Oh? What’s this?」
 
-178378	Satella	「………………いい、よ」	「………………It’s okay.」
+178378	Satella		「………………いい、よ」	「………………It’s okay.」
 
-178379	Rance	「は？」	「Ha?」
+178379	Rance		「は？」	「Ha?」
 
-178380	Satella	「さ、サテラの体……好きにして、いい……」	「Y-You can… do whatever you want with Satella’s body……」
+178380	Satella		「さ、サテラの体……好きにして、いい……」	「Y-You can… do whatever you want with Satella’s body……」
 
-178381	Satella	「サテラのこと……ランスの、好きにして……」	「Treat Satella… however you like, Rance……」
+178381	Satella		「サテラのこと……ランスの、好きにして……」	「Treat Satella… however you like, Rance……」
 
-178382	Rance	「いいのか？」	「Are you sure?」
+178382	Rance		「いいのか？」	「Are you sure?」
 
-178383	Satella	「だ、だって……ランス……	「B-Because… Rance……
-178384	+	　気持ち、いいんだろう？　だから、いい……」	　it feels good for you, right? So… it’s okay……」
+178383	Satella		「だ、だって……ランス……	「B-Because… Rance……
+178384	+		　気持ち、いいんだろう？　だから、いい……」	　it feels good for you, right? So… it’s okay……」
 
-178385	Satella~	（サテラの体で……ランスに気持ち良くなって、欲しい……	（I want Rance to feel good using Satella’s body……
-178386	+	　ランスに、何か……してあげたい……）	　I want to do something for Rance……）
+178385	Satella~		（サテラの体で……ランスに気持ち良くなって、欲しい……	（I want Rance to feel good using Satella’s body……
+178386	+		　ランスに、何か……してあげたい……）	　I want to do something for Rance……）
 
-178387	-	とんでもないことを言っている自覚はあるが、	She knew she was saying something outrageous,
-178388	+	それでもサテラは言葉を止めることは出来なかった。	but Satella couldn’t stop herself.
+178387	-		とんでもないことを言っている自覚はあるが、	She knew she was saying something outrageous,
+178388	+		それでもサテラは言葉を止めることは出来なかった。	but Satella couldn’t stop herself.
 
-178389	Rance	「……しかし、あんまやりすぎると、	「……But if I go too hard,
-178390	+	　死んでしまいそうで、ちと不安だぞ」	　you might actually die, so I’m a bit worried.」
+178389	Rance		「……しかし、あんまやりすぎると、	「……But if I go too hard,
+178390	+		　死んでしまいそうで、ちと不安だぞ」	　you might actually die, so I’m a bit worried.」
 
-178391	Satella	「サテラは魔人だから……んっ……	「Satella is a Fiend so…… nn……
-178392	+	　こんなことじゃ死なない……」	　I won’t die from this……」
+178391	Satella		「サテラは魔人だから……んっ……	「Satella is a Fiend so…… nn……
+178392	+		　こんなことじゃ死なない……」	　I won’t die from this……」
 
-178393	Satella	「ランスはサテラの使徒、だから……	「Rance is Satella’s apostle, so……
-178394	+	　特別……特別に……いい、許す……」	　it’s special… specially… allowed… I permit it……」
+178393	Satella		「ランスはサテラの使徒、だから……	「Rance is Satella’s apostle, so……
+178394	+		　特別……特別に……いい、許す……」	　it’s special… specially… allowed… I permit it……」
 
-178395	Satella	「だから……」	「So……」
+178395	Satella		「だから……」	「So……」
 
-178396	-	更にサテラが身を寄せ、乳房をランスの胸でむにゅりと潰した。	Satella pressed even closer, squishing her soft breasts against Rance’s chest.
-178397	+	赤い髪から甘い香りが漂う。	A sweet scent drifted from her red hair.
+178396	-		更にサテラが身を寄せ、乳房をランスの胸でむにゅりと潰した。	Satella pressed even closer, squishing her soft breasts against Rance’s chest.
+178397	+		赤い髪から甘い香りが漂う。	A sweet scent drifted from her red hair.
 
-178398	Satella	「サテラで……きもちよくなって……」	「Use Satella… to feel good……」
+178398	Satella		「サテラで……きもちよくなって……」	「Use Satella… to feel good……」
 
-178399	Rance	「ぐふふ、そういうことなら……」	「Gufufu, if that’s what you want……」
+178399	Rance		「ぐふふ、そういうことなら……」	「Gufufu, if that’s what you want……」
 
-178400	-	ランスの大きな手がサテラの太ももの辺りをグッと掴んだ。	Rance’s large hand firmly grabbed Satella’s thigh.
+178400	-		ランスの大きな手がサテラの太ももの辺りをグッと掴んだ。	Rance’s large hand firmly grabbed Satella’s thigh.
 
-178401	-	既にランスの剛直は痛いほどに張り詰め、	Rance’s rock-hard cock was already painfully erect,
-178402	+	サテラの膣内で尚、ヒクヒクと動いていた。	twitching eagerly inside her.
+178401	-		既にランスの剛直は痛いほどに張り詰め、	Rance’s rock-hard cock was already painfully erect,
+178402	+		サテラの膣内で尚、ヒクヒクと動いていた。	twitching eagerly inside her.
 
-178403	Satella~	（あっ……本当に今から、沢山、えっちなこと……されちゃう……	（Ah…… he’s really going to do lots of perverted things to me now……
-178404	+	　こ、この大きいの、で……サテラの中……めちゃくちゃに……）	　with this huge thing… messing up Satella inside……）
+178403	Satella~		（あっ……本当に今から、沢山、えっちなこと……されちゃう……	（Ah…… he’s really going to do lots of perverted things to me now……
+178404	+		　こ、この大きいの、で……サテラの中……めちゃくちゃに……）	　with this huge thing… messing up Satella inside……）
 
-178405	-	　　＜とろっ……＞	　　＜Drip……＞
+178405	-		　　＜とろっ……＞	　　＜Drip……＞
 
-178406	-	期待か恐怖か分からない感情を抱えつつ、	Unsure if it was expectation or fear,
-178407	+	秘所からは新たな愛液が垂れていた。	more fresh love juice dripped from her secret place.
+178406	-		期待か恐怖か分からない感情を抱えつつ、	Unsure if it was expectation or fear,
+178407	+		秘所からは新たな愛液が垂れていた。	more fresh love juice dripped from her secret place.
 
-178408	Rance	「では、行くぞー！」	「Then here I goー!」
+178408	Rance		「では、行くぞー！」	「Then here I goー!」
 
-178409	Satella	「ああっ！　ああああああああ！」	「Aah! Aaaaaaaaaaaa!」
+178409	Satella		「ああっ！　ああああああああ！」	「Aah! Aaaaaaaaaaaa!」
 
-178410	-	　　＜ズンッ！！！！＞	　　＜Zun!!!!＞
+178410	-		　　＜ズンッ！！！！＞	　　＜Zun!!!!＞
 
-178411	-	サテラの目がクルンと上向く。	Satella’s eyes rolled upward.
+178411	-		サテラの目がクルンと上向く。	Satella’s eyes rolled upward.
 
-178412	-	ペニスに今まで触れられていなかった最奥まで一気に貫かれ、	His cock slammed all the way to her deepest untouched spot in one thrust,
-178413	+	サテラは容易く甘くとろけた声で鳴いた。	and Satella moaned in a sweet, melted voice.
+178412	-		ペニスに今まで触れられていなかった最奥まで一気に貫かれ、	His cock slammed all the way to her deepest untouched spot in one thrust,
+178413	+		サテラは容易く甘くとろけた声で鳴いた。	and Satella moaned in a sweet, melted voice.
 
-178414	-	体内で爆発が起こったようだとサテラは感じた。	It felt like an explosion went off inside her body.
-178415	+	それほどに強烈すぎる快楽。	The pleasure was overwhelmingly intense.
+178414	-		体内で爆発が起こったようだとサテラは感じた。	It felt like an explosion went off inside her body.
+178415	+		それほどに強烈すぎる快楽。	The pleasure was overwhelmingly intense.
 
-178416	-	ランスの本当に遠慮のない抽送に、	Under Rance’s completely merciless pistoning,
-178417	+	サテラは為す術なく、絶頂を極めさせられる。	Satella was helplessly pushed to the peak of climax again and again.
+178416	-		ランスの本当に遠慮のない抽送に、	Under Rance’s completely merciless pistoning,
+178417	+		サテラは為す術なく、絶頂を極めさせられる。	Satella was helplessly pushed to the peak of climax again and again.
 
-178418	Rance	「うほー！　気持ちいいー！」	「Uhoー! Feels so good!」
+178418	Rance		「うほー！　気持ちいいー！」	「Uhoー! Feels so good!」
 
-178419	-	　　＜ズン、ズン！　ぶちゅ、じゅっ！＞	　　＜Zun, zun! Buchu, juu!＞
+178419	-		　　＜ズン、ズン！　ぶちゅ、じゅっ！＞	　　＜Zun, zun! Buchu, juu!＞
 
-178420	-	ペニスを突き入れる度、森の中に淫らな音が響き渡る。	Every powerful thrust echoed lewd wet sounds through the forest.
+178420	-		ペニスを突き入れる度、森の中に淫らな音が響き渡る。	Every powerful thrust echoed lewd wet sounds through the forest.
 
-178421	-	ランスの激しい抽送により、	With Rance’s fierce thrusting,
-178422	+	サテラのお尻がくねくねと淫らに動いていた。	Satella’s ass twisted and writhed obscenely.
+178421	-		ランスの激しい抽送により、	With Rance’s fierce thrusting,
+178422	+		サテラのお尻がくねくねと淫らに動いていた。	Satella’s ass twisted and writhed obscenely.
 
-178423	Satella	「んにゃあ！　あっ、ああ、ランス！　んああっ！？	「Nnyaa! Ah, aah, Rance! Naaaaah!?」
-178424	+	　あ、あ、ああっ、らんすぅ……！　ひうっ！？」	　A-A-Aah, Rance……! Hiu!?」
+178423	Satella		「んにゃあ！　あっ、ああ、ランス！　んああっ！？	「Nnyaa! Ah, aah, Rance! Naaaaah!?」
+178424	+		　あ、あ、ああっ、らんすぅ……！　ひうっ！？」	　A-A-Aah, Rance……! Hiu!?」
 
-178425	-	わけも分からずランスにしがみついて、	Not understanding anything anymore, Satella clung tightly to Rance,
-178426	+	サテラは呂律の回らない口で何度もランスの名を呼ぶ。	moaning his name over and over with slurred speech.
+178425	-		わけも分からずランスにしがみついて、	Not understanding anything anymore, Satella clung tightly to Rance,
+178426	+		サテラは呂律の回らない口で何度もランスの名を呼ぶ。	moaning his name over and over with slurred speech.
 
-178427	Satella~	（あ、あ、やっぱり、今まで手加減してくれてた……	（A-Ah, so he was holding back before……
-178428	+	　全然、全然違う……なにこれ……なにこれぇ……！）	　This is completely, totally different… what is this… what is thiiis……!）
+178427	Satella~		（あ、あ、やっぱり、今まで手加減してくれてた……	（A-Ah, so he was holding back before……
+178428	+		　全然、全然違う……なにこれ……なにこれぇ……！）	　This is completely, totally different… what is this… what is thiiis……!）
 
-178429	Satella~	（い、イッたまま戻れなくなって……！	（I can’t stop cumming……!
-178430	+	　気持ち良すぎて……ランスに、ランスに殺されちゃう……！）	　It feels too good… Rance is going to fuck Satella to death……!）
+178429	Satella~		（い、イッたまま戻れなくなって……！	（I can’t stop cumming……!
+178430	+		　気持ち良すぎて……ランスに、ランスに殺されちゃう……！）	　It feels too good… Rance is going to fuck Satella to death……!）
 
-178431	-	軽く触れられただけでも激しく絶頂するサテラの体は、	Satella’s body, which climaxed hard from the lightest touch,
-178432	+	ペニスの出し入れなど到底耐えられない。	couldn’t possibly endure the repeated thrusting of his cock.
+178431	-		軽く触れられただけでも激しく絶頂するサテラの体は、	Satella’s body, which climaxed hard from the lightest touch,
+178432	+		ペニスの出し入れなど到底耐えられない。	couldn’t possibly endure the repeated thrusting of his cock.
 
-178433	-	しかし、常人なら狂い死ぬような快楽でも、	Yet even pleasure that would drive a normal person insane,
-178434	+	魔人であるサテラはただその快楽を受け止め続けてしまう。	Satella the Fiend could only continue to endure and accept it all.
+178433	-		しかし、常人なら狂い死ぬような快楽でも、	Yet even pleasure that would drive a normal person insane,
+178434	+		魔人であるサテラはただその快楽を受け止め続けてしまう。	Satella the Fiend could only continue to endure and accept it all.
 
-178435	Rance	「本当に大丈夫か、サテラ？」	「Are you really okay, Satella?」
+178435	Rance		「本当に大丈夫か、サテラ？」	「Are you really okay, Satella?」
 
-178436	Satella~	（だ、大丈夫じゃない……ないけど……	（I’m not okay… not at all……
-178437	+	　……でも、サテラは……）	　…but Satella……）
+178436	Satella~		（だ、大丈夫じゃない……ないけど……	（I’m not okay… not at all……
+178437	+		　……でも、サテラは……）	　…but Satella……）
 
-178438	Satella	「いい、よっ……んあっ！	「It’s… okay… nnaah!
-178439	+	　ランスはサテラの使徒だから、して、んっ、あげる……！」	　Rance is Satella’s apostle so… I’ll… let you… nn, do it……!」
+178438	Satella		「いい、よっ……んあっ！	「It’s… okay… nnaah!
+178439	+		　ランスはサテラの使徒だから、して、んっ、あげる……！」	　Rance is Satella’s apostle so… I’ll… let you… nn, do it……!」
 
-178440	Satella	「なんでも、なんでもしてあげる……！	「I’ll do anything, anything for you……!
-178441	+	　あっ、ああっ、気持ち良いこと、毎日だってしてあげる……！」	　I’ll give you pleasure every single day……!」
+178440	Satella		「なんでも、なんでもしてあげる……！	「I’ll do anything, anything for you……!
+178441	+		　あっ、ああっ、気持ち良いこと、毎日だってしてあげる……！」	　I’ll give you pleasure every single day……!」
 
-178442	Satella	「だめ、なのぉ……！　ランスの世話はぁ、サテラのなの……！	「No good…! Taking care of Rance’s needs is Satella’s job……!
-178443	+	　サテラが、サテラが全部……受け止めるからぁ……！」	　Satella will… take everything……!」
+178442	Satella		「だめ、なのぉ……！　ランスの世話はぁ、サテラのなの……！	「No good…! Taking care of Rance’s needs is Satella’s job……!
+178443	+		　サテラが、サテラが全部……受け止めるからぁ……！」	　Satella will… take everything……!」
 
-178444	Rance	「なんだ、俺様の性処理係にでもなりたいのか？」	「What, you want to become my personal cum dump?」
+178444	Rance		「なんだ、俺様の性処理係にでもなりたいのか？」	「What, you want to become my personal cum dump?」
 
-178445	Satella	「せいしょ……？　んあっ、よく、分からないけど……	「Sex… processing…? Nnaah, I don’t really understand but……
-178446	+	　う、うんっ、なる……！　それ、なるから……！」	　Y-Yes, I’ll be it……! I’ll become that……!」
+178445	Satella		「せいしょ……？　んあっ、よく、分からないけど……	「Sex… processing…? Nnaah, I don’t really understand but……
+178446	+		　う、うんっ、なる……！　それ、なるから……！」	　Y-Yes, I’ll be it……! I’ll become that……!」
 
-178447	Satella	「だから、もう他の子とは、しないで……！	「So don’t do it with other girls anymore……!
-178448	+	　あっ、あっ……全部、サテラが、やるからぁ……！」	　I’ll… do everything for you……!」
+178447	Satella		「だから、もう他の子とは、しないで……！	「So don’t do it with other girls anymore……!
+178448	+		　あっ、あっ……全部、サテラが、やるからぁ……！」	　I’ll… do everything for you……!」
 
-178449	-	気持ちを表すように、	As if to show her feelings,
-178450	+	体温の高い体でサテラがランスにしがみつく。	Satella clung to Rance with her hot body.
+178449	-		気持ちを表すように、	As if to show her feelings,
+178450	+		体温の高い体でサテラがランスにしがみつく。	Satella clung to Rance with her hot body.
 
-178451	Rance	「むおお……可愛いことを言うではないか！	「Muooh…… how adorably you speak!
-178452	+	　よーし、なら全部受け止めてもらうぞ！」	　Alright, then I’ll make you take it all!」
+178451	Rance		「むおお……可愛いことを言うではないか！	「Muooh…… how adorably you speak!
+178452	+		　よーし、なら全部受け止めてもらうぞ！」	　Alright, then I’ll make you take it all!」
 
-178453	Satella	「へ、えっ……？」	「Eh, ehh……?」
+178453	Satella		「へ、えっ……？」	「Eh, ehh……?」
 
-178454	Rance	「おりゃおりゃおりゃーーー！」	「Orya orya oryaaaa!」
+178454	Rance		「おりゃおりゃおりゃーーー！」	「Orya orya oryaaaa!」
 
-178455	-	ランスが激しく腰を上下させて、	Rance thrust his hips up and down fiercely,
-178456	+	ペニスでサテラの膣内を思い切り擦り上げる。	rubbing and pounding deep inside Satella’s pussy.
+178455	-		ランスが激しく腰を上下させて、	Rance thrust his hips up and down fiercely,
+178456	+		ペニスでサテラの膣内を思い切り擦り上げる。	rubbing and pounding deep inside Satella’s pussy.
 
-178457	Satella	「んにゃああ゛あ゛ぁぁ゛ぁあああ！」	「Nnyaaaaaaaah!」
+178457	Satella		「んにゃああ゛あ゛ぁぁ゛ぁあああ！」	「Nnyaaaaaaaah!」
 
-178458	-	サテラが顎を上げたまま震わせ、	Satella trembled with her chin raised,
-178459	+	より深く絶頂を極める。	reaching even deeper heights of orgasm.
+178458	-		サテラが顎を上げたまま震わせ、	Satella trembled with her chin raised,
+178459	+		より深く絶頂を極める。	reaching even deeper heights of orgasm.
 
-178460	-	ランスに行われる抽送で完全にサテラは我を失い、	Completely lost in Rance’s relentless pounding,
-178461	+	大量の涎を垂らし、甘い声で鳴き続けていた。	Satella drooled heavily while moaning sweetly without pause.
+178460	-		ランスに行われる抽送で完全にサテラは我を失い、	Completely lost in Rance’s relentless pounding,
+178461	+		大量の涎を垂らし、甘い声で鳴き続けていた。	Satella drooled heavily while moaning sweetly without pause.
 
-178462	Rance	「がははは！　サテラの中、すごい気持ちいいぞ！	「Gahahaha! It feels so damn good inside Satella!
-178463	+	　この中なら何度だってイケそうだ！」	　I feel like I could cum endlessly in here!」
+178462	Rance		「がははは！　サテラの中、すごい気持ちいいぞ！	「Gahahaha! It feels so damn good inside Satella!
+178463	+		　この中なら何度だってイケそうだ！」	　I feel like I could cum endlessly in here!」
 
-178464	Satella	「う、うんっ……もう、いつでも、どこでも……	「Y-Yes…… anytime, anywhere……
-178465	+	　サテラのからだぁ……好きに、して、いい、よ……！」	　you can use Satella’s body… however you want……!」
+178464	Satella		「う、うんっ……もう、いつでも、どこでも……	「Y-Yes…… anytime, anywhere……
+178465	+		　サテラのからだぁ……好きに、して、いい、よ……！」	　you can use Satella’s body… however you want……!」
 
-178466	Satella	「ランス、なら……いいの……	「If it’s Rance… it’s okay……
-178467	+	　なにされても、いいの……だから……！」	　no matter what you do to me…… it’s fine……!」
+178466	Satella		「ランス、なら……いいの……	「If it’s Rance… it’s okay……
+178467	+		　なにされても、いいの……だから……！」	　no matter what you do to me…… it’s fine……!」
 
-178468	Rance	「そこまで言うなら、もーーっと激しくやってやる！」	「If you’re saying that much, I’ll fuck you even harder!」
+178468	Rance		「そこまで言うなら、もーーっと激しくやってやる！」	「If you’re saying that much, I’ll fuck you even harder!」
 
-178469	Satella	「ああっあ゛ぁぁ゛あああ゛っ゛ああ゛あ！	「Aaaaah!」
-178470	+	　らんす、すき！　だいすき、なの……！」	　Rance, I like you! I love you so much……!」
+178469	Satella		「ああっあ゛ぁぁ゛あああ゛っ゛ああ゛あ！	「Aaaaah!」
+178470	+		　らんす、すき！　だいすき、なの……！」	　Rance, I like you! I love you so much……!」
 
-178471	-	激しい絶頂に、もはやサテラは	In the midst of overwhelming orgasm,
-178472	+	自分が何を言っているかすら分からなくなっていた。	Satella no longer knew what she was saying.
+178471	-		激しい絶頂に、もはやサテラは	In the midst of overwhelming orgasm,
+178472	+		自分が何を言っているかすら分からなくなっていた。	Satella no longer knew what she was saying.
 
-178473	Rance	「くおーっ！　イクイクイク！	「Kuooh! Cumming, cumming, cumming!
-178474	+	　そろそろイクぞー、サテラ！」	　I’m about to cum, Satella!」
+178473	Rance		「くおーっ！　イクイクイク！	「Kuooh! Cumming, cumming, cumming!
+178474	+		　そろそろイクぞー、サテラ！」	　I’m about to cum, Satella!」
 
-178475	-	自分のペニスに射精直前の熱の昂ぶりを感じたランスは、	Feeling his cock throb with impending release, Rance
-178476	+	サテラの腰を沈めて、より深く挿入させた。	pushed her hips down, driving even deeper inside her.
+178475	-		自分のペニスに射精直前の熱の昂ぶりを感じたランスは、	Feeling his cock throb with impending release, Rance
+178476	+		サテラの腰を沈めて、より深く挿入させた。	pushed her hips down, driving even deeper inside her.
 
-178477	Satella	「んにゃっ！？	「Nnyaa!?」
-178478	+	　はひっ、ふか、い！　変なとこ当たって……！」	　Hahi, so deep! Hitting such a weird spot……！」
+178477	Satella		「んにゃっ！？	「Nnyaa!?」
+178478	+		　はひっ、ふか、い！　変なとこ当たって……！」	　Hahi, so deep! Hitting such a weird spot……！」
 
-178479	-	子宮口と亀頭が密着し、そのままグリグリとくじられると、	His glans ground firmly against her cervix,
-178480	+	下腹部全体に官能的な刺激が広がりサテラがまたイク。	sending waves of sensual pleasure through her entire womb, making her cum again.
+178479	-		子宮口と亀頭が密着し、そのままグリグリとくじられると、	His glans ground firmly against her cervix,
+178480	+		下腹部全体に官能的な刺激が広がりサテラがまたイク。	sending waves of sensual pleasure through her entire womb, making her cum again.
 
-178481	Rance	「とーーーーーっ！」	「Tooooooh!」
+178481	Rance		「とーーーーーっ！」	「Tooooooh!」
 
-178482	-	ランスの腕の中でサテラが全身をブルブルと震わせた。	Satella shook violently all over in Rance’s arms.
+178482	-		ランスの腕の中でサテラが全身をブルブルと震わせた。	Satella shook violently all over in Rance’s arms.
 
-178483	Satella~	（あ、あ……しあ、わせ……）	（A-Ah…… so ha-ppy……）
+178483	Satella~		（あ、あ……しあ、わせ……）	（A-Ah…… so ha-ppy……）
 
-178484	Satella	「んん゛ん゛ん！　んゆぅぅぅ！」	「Nnnn! Nyuuuu!」
+178484	Satella		「んん゛ん゛ん！　んゆぅぅぅ！」	「Nnnn! Nyuuuu!」
 
-178485	-	激しい射精で、大量の白濁色の液体が子宮に注ぎ込まれる。	With powerful spurts, thick white semen flooded her womb.
+178485	-		激しい射精で、大量の白濁色の液体が子宮に注ぎ込まれる。	With powerful spurts, thick white semen flooded her womb.
 
-178486	-	　　＜びゅっ、びゅ、びゅるる……！＞	　　＜Byu, byu, byururu……!＞
+178486	-		　　＜びゅっ、びゅ、びゅるる……！＞	　　＜Byu, byu, byururu……!＞
 
-178487	Satella	「ひうっ！　んんんんん……！」	「Hiu! Nnnnnn……！」
+178487	Satella		「ひうっ！　んんんんん……！」	「Hiu! Nnnnnn……！」
 
-178488	-	下腹部がじんわりと熱くなる感覚だけで、	Just the warm feeling spreading in her lower belly
-178489	+	サテラは更に絶頂を極めさせられた。	pushed Satella to yet another climax.
+178488	-		下腹部がじんわりと熱くなる感覚だけで、	Just the warm feeling spreading in her lower belly
+178489	+		サテラは更に絶頂を極めさせられた。	pushed Satella to yet another climax.
 
-178490	Satella~	（さ、サテラ……中に、びゅーってされる、だけで……	（S-Satella… just from being filled with Rance’s hot cum……
-178491	+	　また、い、イッちゃった……ランスの、き、気持ちいい……）	　came again… Rance’s cum feels so good……）
+178490	Satella~		（さ、サテラ……中に、びゅーってされる、だけで……	（S-Satella… just from being filled with Rance’s hot cum……
+178491	+		　また、い、イッちゃった……ランスの、き、気持ちいい……）	　came again… Rance’s cum feels so good……）
 
-178492	Satella~	（にん、しん……しちゃう……	（Getting… pregnant……
-178493	+	　あう、でも……それも、いい、かも……）	　Auu, but… that might be nice too……）
+178492	Satella~		（にん、しん……しちゃう……	（Getting… pregnant……
+178493	+		　あう、でも……それも、いい、かも……）	　Auu, but… that might be nice too……）
 
-178494	Satella~	（んくっ……もっと……もっと、ちょうだい、あううう……）	（Nku… more… give me more, auuuu……）
+178494	Satella~		（んくっ……もっと……もっと、ちょうだい、あううう……）	（Nku… more… give me more, auuuu……）
 
-178495	Rance	「おおっ……」	「Ooh……
+178495	Rance		「おおっ……」	「Ooh……
 
-178496	-	サテラ自身が腰をぐりぐりと動かし、もっともっとと精液をねだる。	Satella herself ground her hips, greedily milking every last drop of cum.
-178497	+	亀頭が柔らかく刺激され、残っていた精液まで搾り取られた。	Her soft insides squeezed his glans, draining the last bits of semen.
+178496	-		サテラ自身が腰をぐりぐりと動かし、もっともっとと精液をねだる。	Satella herself ground her hips, greedily milking every last drop of cum.
+178497	+		亀頭が柔らかく刺激され、残っていた精液まで搾り取られた。	Her soft insides squeezed his glans, draining the last bits of semen.
 
-178498	Satella	「あひうっ！　んんっ……んんんんんん……！」	「Ahiu! Nnn…… nnnnnnn……！」
+178498	Satella		「あひうっ！　んんっ……んんんんんん……！」	「Ahiu! Nnn…… nnnnnnn……！」
 
-178499	-	何故か責めていた方のサテラが甘い声を上げ、	For some reason the one who had been resisting now moaned sweetly,
-178500	+	気持ち良さそうにぶるるっと身を震わせた。	shivering in pleasure.
+178499	-		何故か責めていた方のサテラが甘い声を上げ、	For some reason the one who had been resisting now moaned sweetly,
+178500	+		気持ち良さそうにぶるるっと身を震わせた。	shivering in pleasure.
 
-178501	Satella	「……っ。	「…….」
-178502	+	　ふーっ……ふーっ……」	　Haa…… haa……」
+178501	Satella		「……っ。	「…….」
+178502	+		　ふーっ……ふーっ……」	　Haa…… haa……」
 
-178503	-	サテラは荒い息を吐きながら、ランスにしがみつく。	Panting heavily, Satella clung tightly to Rance.
-178504	+	激しいセックスに体全体がぷるぷると小さく痙攣していた。	Her whole body twitched and trembled from the intense sex.
+178503	-		サテラは荒い息を吐きながら、ランスにしがみつく。	Panting heavily, Satella clung tightly to Rance.
+178504	+		激しいセックスに体全体がぷるぷると小さく痙攣していた。	Her whole body twitched and trembled from the intense sex.
 
-178505	Rance	「うーっ、気持ち良かったぞー……	「Uhh, that felt amazing……
-178506	+	　サテラはどうだった？」	　How was it for you, Satella?」
+178505	Rance		「うーっ、気持ち良かったぞー……	「Uhh, that felt amazing……
+178506	+		　サテラはどうだった？」	　How was it for you, Satella?」
 
-178507	Satella	「うーーー……	「Uuuu……
-178508	+	　きもち……よか、った……」	　It felt… really good……」
+178507	Satella		「うーーー……	「Uuuu……
+178508	+		　きもち……よか、った……」	　It felt… really good……」
 
-178509	-	呂律の回らない口調も気にせず、	Ignoring her slurred speech,
-178510	+	サテラがランスの肩をかぷかぷと噛む。	Satella gently nibbled on Rance’s shoulder.
+178509	-		呂律の回らない口調も気にせず、	Ignoring her slurred speech,
+178510	+		サテラがランスの肩をかぷかぷと噛む。	Satella gently nibbled on Rance’s shoulder.
 
-178511	-	小さな舌がれろれろと動きくすぐったかったが、	Her small tongue licked playfully, tickling him,
-178512	+	射精直後でだるいランスはさせるがままにしておいた。	but the spent Rance let her do as she pleased.
+178511	-		小さな舌がれろれろと動きくすぐったかったが、	Her small tongue licked playfully, tickling him,
+178512	+		射精直後でだるいランスはさせるがままにしておいた。	but the spent Rance let her do as she pleased.
 
-178513	Satella	「んっ……らん、す……らんすぅ……	「Nn…… Ran… ce… Rance……
-178514	+	　ランス、んちゅっ……んむ……」	　Rance, nchu…… nmu……」
+178513	Satella		「んっ……らん、す……らんすぅ……	「Nn…… Ran… ce… Rance……
+178514	+		　ランス、んちゅっ……んむ……」	　Rance, nchu…… nmu……」
 
-178515	Satella	「んっ、んっ……んちゅ……	「Nn, nn…… nchu……
-178516	+	　ずっとひみつにしてたけど……」	　I’ve been hiding it all this time but……」
+178515	Satella		「んっ、んっ……んちゅ……	「Nn, nn…… nchu……
+178516	+		　ずっとひみつにしてたけど……」	　I’ve been hiding it all this time but……」
 
-178517	Satella	「さてら……らんすが、だいすき……」	「Satella… really loves Rance……」
+178517	Satella		「さてら……らんすが、だいすき……」	「Satella… really loves Rance……」
 
-178518	Rance	「おっ。	「Oh.
-178519	+	　そかそか、俺も大好きだぞー」	　I see, I love you too.」
+178518	Rance		「おっ。	「Oh.
+178519	+		　そかそか、俺も大好きだぞー」	　I see, I love you too.」
 
-178520	Satella	「ほ、ほんと？　ほんとに、ほんと？	「R-Really? Really really?
-178521	+	　じゃあ……ぎゅう、して……」	　Then… hug me tight……」
+178520	Satella		「ほ、ほんと？　ほんとに、ほんと？	「R-Really? Really really?
+178521	+		　じゃあ……ぎゅう、して……」	　Then… hug me tight……」
 
-178522	Rance	「はいはい、ぎゅっぎゅっ」	「Alright alright, squeeze squeeze.」
+178522	Rance		「はいはい、ぎゅっぎゅっ」	「Alright alright, squeeze squeeze.」
 
-178523	-	一回りどころか二回りは小さな肩を	Rance gently embraced her tiny shoulders,
-178524	+	ランスが優しく抱きしめる。	which were more than two sizes smaller than his.
+178523	-		一回りどころか二回りは小さな肩を	Rance gently embraced her tiny shoulders,
+178524	+		ランスが優しく抱きしめる。	which were more than two sizes smaller than his.
 
-178525	Satella	「――ひうううっ」	「――Hiuuuu」
+178525	Satella		「――ひうううっ」	「――Hiuuuu」
 
-178526	-	サテラは抱きしめられた途端、	The moment she was hugged,
-178527	+	多幸感で胸がいっぱいになり、涙をポロポロと溢れさせた。	overwhelming happiness filled her chest and tears poured down her cheeks.
+178526	-		サテラは抱きしめられた途端、	The moment she was hugged,
+178527	+		多幸感で胸がいっぱいになり、涙をポロポロと溢れさせた。	overwhelming happiness filled her chest and tears poured down her cheeks.
 
-178528	Satella	「あううう……んっ、んちゅ、らんす……	「Auuu…… nn, nchu, Rance……
-178529	+	　らんす……だいすき、すき、すき……」	　Rance… I love you, like you, like you so much……」
+178528	Satella		「あううう……んっ、んちゅ、らんす……	「Auuu…… nn, nchu, Rance……
+178529	+		　らんす……だいすき、すき、すき……」	　Rance… I love you, like you, like you so much……」
 
-178530	Satella	「ずっと……さてらの、しとだからな……	「I’ll always be… Satella’s apostle……
-178531	+	　ずっと……いっしょ、だからな……」	　We’ll always be together……」
+178530	Satella		「ずっと……さてらの、しとだからな……	「I’ll always be… Satella’s apostle……
+178531	+		　ずっと……いっしょ、だからな……」	　We’ll always be together……」
 
-178532	Satella	「ぜったい……はなれたら、だめ、だからな……	「Absolutely… don’t ever leave me……
-178533	+	　ずっと、ずっと……こうして、いて……」	　stay like this with me forever……」
+178532	Satella		「ぜったい……はなれたら、だめ、だからな……	「Absolutely… don’t ever leave me……
+178533	+		　ずっと、ずっと……こうして、いて……」	　stay like this with me forever……」
 
-178534	Rance	「あーはいはい」	「Yeah yeah.」
+178534	Rance		「あーはいはい」	「Yeah yeah.」
 
-178535	-	軽くぽんぽんとランスがサテラの頭を撫でた。	Rance gently patted Satella’s head.
+178535	-		軽くぽんぽんとランスがサテラの頭を撫でた。	Rance gently patted Satella’s head.
 
-178536	Satella	「あっ――」	「Ah――」
+178536	Satella		「あっ――」	「Ah――」
 
-178537	Satella~	（……どうしよう、すごく……しあわせ……）	（……What do I do, I’m so…… happy……）
+178537	Satella~		（……どうしよう、すごく……しあわせ……）	（……What do I do, I’m so…… happy……）
 
-178538	Satella	「らんす……だいすき……」	「Rance… I love you……」
+178538	Satella		「らんす……だいすき……」	「Rance… I love you……」
 
-178539	Satella	「……………………んゆぅ」	「……………………nyuu」
+178539	Satella		「……………………んゆぅ」	「……………………nyuu」
 
-178540	-	…………	…………
+178540	-		…………	…………
 
-178541	-	……	……
+178541	-		……	……
 
-178542	-	セックスが終わってしばらく休憩し、	After the sex ended and they rested for a while,
-178543	+	お互いに服を着た頃――	and both had put their clothes back on――
+178542	-		セックスが終わってしばらく休憩し、	After the sex ended and they rested for a while,
+178543	+		お互いに服を着た頃――	and both had put their clothes back on――
 
-178544	Satella	「…………」	「…………」
+178544	Satella	思考	「…………」	「…………」
 
-178545	-	サテラはひどく後悔していた。	Satella was deeply regretting everything.
+178545	-		サテラはひどく後悔していた。	Satella was deeply regretting everything.
 
-178546	Satella~	（や、やりすぎた……色々と……）	（I went way too far…… in so many ways……）
+178546	Satella~		（や、やりすぎた……色々と……）	（I went way too far…… in so many ways……）
 
-178547	Satella~	（あと、サテラ……何か言ってはいけないことを	（Also, Satella… I think I said a lot of things I shouldn’t have……
-178548	+	　沢山言っていたような気もする……	
-178549	+	　けど、怖くて何言っていたか聞けない……）	　but I’m too scared to ask what I said……）
+178547	Satella~	不安	（あと、サテラ……何か言ってはいけないことを	（Also, Satella… I think I said a lot of things I shouldn’t have……
+178548	+		　沢山言っていたような気もする……	
+178549	+		　けど、怖くて何言っていたか聞けない……）	　but I’m too scared to ask what I said……）
 
-178550	Rance	「がははは、気持ち良かったなー、サテラ！」	「Gahahaha, that felt great, Satella!」
+178550	Rance	基本	「がははは、気持ち良かったなー、サテラ！」	「Gahahaha, that felt great, Satella!」
 
-178551	Satella	「う……この馬鹿は……」	「Uuu…… this idiot……」
+178551	Satella	思考	「う……この馬鹿は……」	「Uuu…… this idiot……」
 
-178552	Rance	「ん？　どうかしたか？	「Hm? Something wrong?
-178553	+	　あ、腰が抜けて立てないのか。	　Oh, your legs gave out and you can’t stand?
-178554	+	　がははは、仕方ない主だな！」	　Gahahaha, what a helpless master!」
+178552	Rance	基本	「ん？　どうかしたか？	「Hm? Something wrong?
+178553	+		　あ、腰が抜けて立てないのか。	　Oh, your legs gave out and you can’t stand?
+178554	+		　がははは、仕方ない主だな！」	　Gahahaha, what a helpless master!」
 
-178555	Satella	「そ、そんなわけあるか！」	「T-That’s not true!」
+178555	Satella	ツンデレ	「そ、そんなわけあるか！」	「T-That’s not true!」
 
-178556	Satella~	（……本当はそうだけど）	（……But it actually is.）
+178556	Satella~	ぐぬぬ	（……本当はそうだけど）	（……But it actually is.）
 
-178557	-	サテラは必死に誤魔化したが、	Satella desperately tried to hide it,
-178558	+	両足がプルプルと震えてる様を見れば、	but her trembling legs made it obvious
-178559	+	自分で立てなくなってるのは明白だった。	she couldn’t stand on her own.
+178557	-		サテラは必死に誤魔化したが、	Satella desperately tried to hide it,
+178558	+		両足がプルプルと震えてる様を見れば、	but her trembling legs made it obvious
+178559	+		自分で立てなくなってるのは明白だった。	she couldn’t stand on her own.
 
-178560	Rance~	（う〜ん、可愛い奴……）	（Mmm, what a cute girl……）
+178560	Rance~	基本	（う〜ん、可愛い奴……）	（Mmm, what a cute girl……）
 
-178561	Rance~	（……もよおしてきた）	（……I’m getting horny again.）
+178561	Rance~	真剣	（……もよおしてきた）	（……I’m getting horny again.）
 
-178562	Rance	「よーし、サテラ、もう一発やるか！」	「Alright, Satella, want to go for another round!」
+178562	Rance	笑顔	「よーし、サテラ、もう一発やるか！」	「Alright, Satella, want to go for another round!」
 
-178563	Satella	「なっ！？　ま、まただと！？」	「Wha!? A-Again!?」
+178563	Satella	超テレ	「なっ！？　ま、まただと！？」	「Wha!? A-Again!?」
 
-178564	Satella	「い、いい加減にしろこのエロ使徒！	「E-Enough already, you perverted apostle!
-178565	+	　さっきしたばかりだろうが！」	　We just did it!」
+178564	Satella	ツンデレ	「い、いい加減にしろこのエロ使徒！	「E-Enough already, you perverted apostle!
+178565	+		　さっきしたばかりだろうが！」	　We just did it!」
 
-178566	Rance	「なんだ、さっきは俺様の	「What? Earlier you said you’d be
-178567	+	　性処理係をするとまで言ったのに。	　my personal sex relief servant.
-178568	+	　もう反故にする気か？」	　You’re going back on your word already?」
+178566	Rance	基本	「なんだ、さっきは俺様の	「What? Earlier you said you’d be
+178567	+		　性処理係をするとまで言ったのに。	　my personal sex relief servant.
+178568	+		　もう反故にする気か？」	　You’re going back on your word already?」
 
-178569	Satella	「ふえっ！？	「Fueh!?」
-178570	+	　さ、サテラ、そんなことを！？」	　D-Did Satella really say that!?」
+178569	Satella	超テレ	「ふえっ！？	「Fueh!?」
+178570	+		　さ、サテラ、そんなことを！？」	　D-Did Satella really say that!?」
 
-178571	Satella	「ほ、他には何か変なこと言ったりは……」	「D-Did I say anything else weird……」
+178571	Satella	ぐぬぬ	「ほ、他には何か変なこと言ったりは……」	「D-Did I say anything else weird……」
 
-178572	Rance	「あ？　なんか色々と言ってた気がするが、	「Huh? You said a bunch of stuff,
-178573	+	　もうイク寸前のクライマックスだったからな、	　but you were right at the edge of cumming,
-178574	+	　えーと、なんだったか……」	　so I don’t remember exactly……」
+178572	Rance	だる顔	「あ？　なんか色々と言ってた気がするが、	「Huh? You said a bunch of stuff,
+178573	+		　もうイク寸前のクライマックスだったからな、	　but you were right at the edge of cumming,
+178574	+		　えーと、なんだったか……」	　so I don’t remember exactly……」
 
-178575	Satella	「あ、ちがっ、馬鹿！　それは全部嘘だ！	「A-That’s wrong, idiot! It was all lies!
-178576	+	　リップサービスだ！　お前を喜ばせようと……」	　Just lip service! I was trying to make you happy……」
+178575	Satella	ツンデレ	「あ、ちがっ、馬鹿！　それは全部嘘だ！	「A-That’s wrong, idiot! It was all lies!
+178576	+		　リップサービスだ！　お前を喜ばせようと……」	　Just lip service! I was trying to make you happy……」
 
-178577	Rance	「がははは、そんなのどっちでもいいわ！	「Gahahaha, doesn’t matter either way!
-178578	+	　いいからもういっぱーーつ！」	　Just one more round!」
+178577	Rance	基本	「がははは、そんなのどっちでもいいわ！	「Gahahaha, doesn’t matter either way!
+178578	+		　いいからもういっぱーーつ！」	　Just one more round!」
 
-178579	Satella	「こら！　馬鹿、止せ！	「Hey! Idiot, stop!
-178580	+	　この馬鹿使徒が！」	　You perverted apostle!」
+178579	Satella	超テレ	「こら！　馬鹿、止せ！	「Hey! Idiot, stop!
+178580	+		　この馬鹿使徒が！」	　You perverted apostle!」
 
-178581	Satella~	（う、でも……ランスがしたい、なら……）	（U-But… if Rance wants to……）
+178581	Satella~	ぐぬぬ	（う、でも……ランスがしたい、なら……）	（U-But… if Rance wants to……）
 
-178582	Satella~	（――って、駄目だそんなこと！	（――No, I can’t think like that!
-178583	+	　使徒を調子に乗らせるような真似……）	　I can’t let my apostle get carried away……）
+178582	Satella~	ツンデレ	（――って、駄目だそんなこと！	（――No, I can’t think like that!
+178583	+		　使徒を調子に乗らせるような真似……）	　I can’t let my apostle get carried away……）
 
-178584	Satella~	（……………………	（……………………
-178585	?	でも）	But）
+178584	Satella~	不安	（……………………	（……………………
+178585	?		でも）	But）
 
-178586	Satella~	（こんなに頼んでるのに無視するのは、	（Ignoring him when he’s begging this much
-178587	+	　か、可哀想な気も……）	　feels a bit cruel……）
+178586	Satella~	思考	（こんなに頼んでるのに無視するのは、	（Ignoring him when he’s begging this much
+178587	+		　か、可哀想な気も……）	　feels a bit cruel……）
 
-178588	Satella~	（だ、だから……ちょっとくらいは……	（S-So… maybe just a little……
-178589	+	　使徒にご褒美をあげても……	　giving my apostle a reward……
-178590	+	　いや、でもそんなことしたら主の威厳が……）	　No, but then I’d lose dignity as master……）
+178588	Satella~	ぐぬぬ	（だ、だから……ちょっとくらいは……	（S-So… maybe just a little……
+178589	+		　使徒にご褒美をあげても……	　giving my apostle a reward……
+178590	+		　いや、でもそんなことしたら主の威厳が……）	　No, but then I’d lose dignity as master……）
 
-178591	Satella~	（う、うううう……サテラはどうしたら……）	（U-Uuuuu… what should Satella do……）
+178591	Satella~		（う、うううう……サテラはどうしたら……）	（U-Uuuuu… what should Satella do……）
 
-178592	Rance	「返答なしは了解と受け取るぞ！	「No answer means yes!」
-178593	+	　おほほほほ！」	　Ohohohoho!」
+178592	Rance	笑顔	「返答なしは了解と受け取るぞ！	「No answer means yes!」
+178593	+		　おほほほほ！」	　Ohohohoho!」
 
-178594	Satella	「あ、こ、こら、馬鹿！	「A-Hey, idiot!
-178595	+	　どこに触ろうとして――！」	　Where are you trying to touch――!」
+178594	Satella	基本	「あ、こ、こら、馬鹿！	「A-Hey, idiot!
+178595	+		　どこに触ろうとして――！」	　Where are you trying to touch――!」
 
-178596	Freya Idun	「…………」	「…………」
+178596	Freya Idun		「…………」	「…………」
 
-178597	Rance	「……あ」	「……Ah.」
+178597	Rance		「……あ」	「……Ah.」
 
-178598	Satella	「へ……？」	「Eh……?」
+178598	Satella		「へ……？」	「Eh……?」
 
-178599	Freya Idun	「朝から楽しそうね、大将」	「Having fun so early in the morning, Boss.」
+178599	Freya Idun		「朝から楽しそうね、大将」	「Having fun so early in the morning, Boss.」
 
-178600	Satella	「あ、ひっ！」	「A-Hii!」
+178600	Satella		「あ、ひっ！」	「A-Hii!」
 
-178601	Rance	「なんだ、混ざりたいのか？	「What, you want to join in?
-178602	+	　俺様はそれでも……」	　I don’t mind……」
+178601	Rance		「なんだ、混ざりたいのか？	「What, you want to join in?
+178602	+		　俺様はそれでも……」	　I don’t mind……」
 
-178603	Freya Idun	「残念だけど、隠密組は忙しいの。	「Unfortunately the stealth unit is busy.
-178604	+	　また今度ね」	　Maybe next time.」
+178603	Freya Idun		「残念だけど、隠密組は忙しいの。	「Unfortunately the stealth unit is busy.
+178604	+		　また今度ね」	　Maybe next time.」
 
-178605	Rance	「ちぇっ、行っちまいやがった。	「Tch, she left.
-178606	+	　まあいいや」	　Oh well.」
+178605	Rance		「ちぇっ、行っちまいやがった。	「Tch, she left.
+178606	+		　まあいいや」	　Oh well.」
 
-178607	Rance	「ぐへへ、ではサテラ、改めて……」	「Guhehe, then Satella, once again……」
+178607	Rance	エロ顔	「ぐへへ、ではサテラ、改めて……」	「Guhehe, then Satella, once again……」
 
-178608	Satella	「――し、シーザー！　来い！」	「――C-Caesar! Come here!」
+178608	Satella	基本	「――し、シーザー！　来い！」	「――C-Caesar! Come here!」
 
-178609	Caesar	「ハイ、サテラ様」	「Yes, Satella-sama.」
+178609	Caesar		「ハイ、サテラ様」	「Yes, Satella-sama.」
 
-178610	Rance	「あ、こら！　サテラ！	「Ah, hey! Satella!
-178611	+	　逃げる気か！」	　You’re running away!」
+178610	Rance		「あ、こら！　サテラ！	「Ah, hey! Satella!
+178611	+		　逃げる気か！」	　You’re running away!」
 
-178612	Satella	「ふ、ふん！	「H-Hmph!
-178613	+	　褒美なら沢山くれてやっただろう！	　I already gave you plenty of rewards!
-178614	+	　もう終わり！　おしまいだ！」	　That’s enough! We’re done!」
+178612	Satella	ツンデレ	「ふ、ふん！	「H-Hmph!
+178613	+		　褒美なら沢山くれてやっただろう！	　I already gave you plenty of rewards!
+178614	+		　もう終わり！　おしまいだ！」	　That’s enough! We’re done!」
 
-178615	-	サテラはシーザーに抱えられて、	Satella was carried away by Caesar,
-178616	+	シーザーの肩に腰を下ろした。	sitting on his shoulder.
+178615	-		サテラはシーザーに抱えられて、	Satella was carried away by Caesar,
+178616	+		シーザーの肩に腰を下ろした。	sitting on his shoulder.
 
-178617	Rance	「むむむ……	「Mumumu……
-178618	+	　まあ、仕方ないか……」	　Well, can’t be helped I guess……」
+178617	Rance	基本	「むむむ……	「Mumumu……
+178618	+		　まあ、仕方ないか……」	　Well, can’t be helped I guess……」
 
-178619	Satella	「た、ただ、その……」	「J-Just, um……」
+178619	Satella	ぐぬぬ	「た、ただ、その……」	「J-Just, um……」
 
-178620	Rance	「ん？」	「Nn?」
+178620	Rance	基本	「ん？」	「Nn?」
 
-178621	Satella	「今日の戦いで、えと……	「In today’s battle, um……
-178622	+	　いっぱい頑張ったら、んと……	　if you work really hard, then……
-178623	+	　また褒美をあげるの……考えてやる……」	　I’ll… think about giving you another reward……」
+178621	Satella	ぐぬぬ	「今日の戦いで、えと……	「In today’s battle, um……
+178622	+		　いっぱい頑張ったら、んと……	　if you work really hard, then……
+178623	+		　また褒美をあげるの……考えてやる……」	　I’ll… think about giving you another reward……」
 
-178624	Rance	「お、本当だな？	「Oh, really?
-178625	+	　がははは、それなら任せておけ！」	　Gahahaha, leave it to me!」
+178624	Rance	基本	「お、本当だな？	「Oh, really?
+178625	+		　がははは、それなら任せておけ！」	　Gahahaha, leave it to me!」
 
-178626	Satella	「だ、だから……」	「S-So……」
+178626	Satella	思考	「だ、だから……」	「S-So……」
 
-178627	Satella	「絶対に勝つぞ。	「We will definitely win.
-178628	+	　いいな」	　Got it?」
+178627	Satella	魔人顔	「絶対に勝つぞ。	「We will definitely win.
+178628	+		　いいな」	　Got it?」
 
-178629	Rance	「おう、とーぜんだ」	「Of course.」
+178629	Rance	基本	「おう、とーぜんだ」	「Of course.」
 
-178630	Satella	「……うん」	「……Yes.」
+178630	Satella		「……うん」	「……Yes.」
 
-178631	Satella	「ふふん、そう答えてこそ、	「Hmph, that’s the answer I wanted,
-178632	+	　サテラの使徒だ」	　from my apostle.」
+178631	Satella	ふふん	「ふふん、そう答えてこそ、	「Hmph, that’s the answer I wanted,
+178632	+		　サテラの使徒だ」	　from my apostle.」
 
-178633	-	さっきまでは言えなかったことが、	Things she couldn’t say earlier
-178634	+	今は不思議となんでも言えることに、	now came out easily, filling
-178635	+	サテラは満足感を覚える。	Satella with satisfaction.
+178633	-		さっきまでは言えなかったことが、	Things she couldn’t say earlier
+178634	+		今は不思議となんでも言えることに、	now came out easily, filling
+178635	+		サテラは満足感を覚える。	Satella with satisfaction.
 
-178636	Satella	「これからも、宜しく頼むぞ。	「I’ll be counting on you from now on too.
-178637	+	　なんたって、お前はサテラの使徒なんだからな」	　After all, you are Satella’s apostle.」
+178636	Satella		「これからも、宜しく頼むぞ。	「I’ll be counting on you from now on too.
+178637	+		　なんたって、お前はサテラの使徒なんだからな」	　After all, you are Satella’s apostle.」
 
-178638	Rance	「あー、はいはい」	「Yeah yeah.」
+178638	Rance	基本	「あー、はいはい」	「Yeah yeah.」
 
-178639	Satella	「ふふふっ……」	「Fufufu……」
+178639	Satella	笑顔	「ふふふっ……」	「Fufufu……」
 
-178640	-	ランスの返答に	At Rance’s reply
-178641	+	サテラは嬉しそうに頷くのだった。	Satella nodded happily.
+178640	-		ランスの返答に	At Rance’s reply
+178641	+		サテラは嬉しそうに頷くのだった。	Satella nodded happily.

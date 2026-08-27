@@ -5,63 +5,63 @@
 * Captain	船長	Male
 * Sill Plain	シィル	Female
 
-39013	Rance	「急げーーーーーーッ！」	「Hurry the hell upー！」
+39013	Rance	基本	「急げーーーーーーッ！」	「Hurry the hell upー！」
 
-39014	-	海が、消失していく。	The sea was vanishing.
+39014	-		海が、消失していく。	The sea was vanishing.
 
-39015	-	どことも知れぬ奈落の底が、	An unknown abyss,
-39016	+	今更のように己の役割を思いだしたかのように、	as if suddenly remembering its purpose,
-39017	+	膨大な水を削り取っていく。	was swallowing up the vast waters.
+39015	-		どことも知れぬ奈落の底が、	An unknown abyss,
+39016	+		今更のように己の役割を思いだしたかのように、	as if suddenly remembering its purpose,
+39017	+		膨大な水を削り取っていく。	was swallowing up the vast waters.
 
-39018	Noah Hakobune	「ッ、急いでください！	「P-Please hurry！」
-39019	+	　ランスさん達も、いつでも上陸出来るように……」	「Rance and the others should get ready to disembark at any moment...」
+39018	Noah Hakobune	動揺	「ッ、急いでください！	「P-Please hurry！」
+39019	+		　ランスさん達も、いつでも上陸出来るように……」	「Rance and the others should get ready to disembark at any moment...」
 
-39020	Rance	「ぐっ……だが、間に合うか……！？」	「Guh... But will we make it...!?」
+39020	Rance	だる顔	「ぐっ……だが、間に合うか……！？」	「Guh... But will we make it...!?」
 
-39021	Noah Hakobune	「間に合わせ、ますっ……！	「We'll make it...!」
-39022	+	　マリアさん！」	「Maria!」
+39021	Noah Hakobune	動揺	「間に合わせ、ますっ……！	「We'll make it...!」
+39022	+		　マリアさん！」	「Maria!」
 
-39023	Maria Custard	「うん、了解！」	「「Yeah, got it!」
+39023	Maria Custard	基本	「うん、了解！」	「「Yeah, got it!」
 
-39024	-	大きな震動と共に、海が消えていく。	With a massive tremor, the sea continued to disappear.
-39025	+	その速度は、サンライズ号の進行速度を	Its speed clearly surpassed
-39026	+	明確に上回っていた。	the Sunrise's own velocity.
+39024	-		大きな震動と共に、海が消えていく。	With a massive tremor, the sea continued to disappear.
+39025	+		その速度は、サンライズ号の進行速度を	Its speed clearly surpassed
+39026	+		明確に上回っていた。	the Sunrise's own velocity.
 
-39027	Noah Hakobune	「海岸に停泊するとは考えないで！	「Don't even think about docking at the shore!
-39028	+	　陸地に、船ごと突っ込んでください！」	　Ram the ship straight into the land！」
+39027	Noah Hakobune	動揺	「海岸に停泊するとは考えないで！	「Don't even think about docking at the shore!
+39028	+		　陸地に、船ごと突っ込んでください！」	　Ram the ship straight into the land！」
 
-39029	Captain	「お、おおおっ……！」	「O-Oooooh...!」
+39029	Captain	汗	「お、おおおっ……！」	「O-Oooooh...!」
 
-39030	Maria Custard	「ヒララエンジン、もうありったけ！	「Hirara engine, full power!
-39031	+	　いっけーーーーー！！」	　Goーーーーー！！」
+39030	Maria Custard	怒り	「ヒララエンジン、もうありったけ！	「Hirara engine, full power!
+39031	+		　いっけーーーーー！！」	　Goーーーーー！！」
 
-39032	-	…………	............
+39032	-		…………	............
 
-39033	-	……	......
+39033	-		……	......
 
-39034	-	潮が、引いていく。	The tide was receding.
+39034	-		潮が、引いていく。	The tide was receding.
 
-39035	-	他の有象無象に関わることなく、	Without regard for anything else,
-39036	+	どことも知れぬ空間へと、霧散していく。	it scattered into an unknown void.
+39035	-		他の有象無象に関わることなく、	Without regard for anything else,
+39036	+		どことも知れぬ空間へと、霧散していく。	it scattered into an unknown void.
 
-39037	-	そうして世界は…………何事もなかったかのように、	And so the world... as if nothing had happened,
-39038	+	つい13日前と変わらぬ姿を見せていた。	showed the same appearance as it had just 13 days ago.
+39037	-		そうして世界は…………何事もなかったかのように、	And so the world... as if nothing had happened,
+39038	+		つい13日前と変わらぬ姿を見せていた。	showed the same appearance as it had just 13 days ago.
 
-39039	-	…………	............
+39039	-		…………	............
 
-39040	-	……	......
+39040	-		……	......
 
-39041	Rance	「っ、く、いててて…………」	「Ouch... it hurts...」
+39041	Rance	イライラ	「っ、く、いててて…………」	「Ouch... it hurts...」
 
-39042	Sill Plain	「間一髪、でしたね……ランス様……」	「That was really close... Rance-sama...」
+39042	Sill Plain	泣き	「間一髪、でしたね……ランス様……」	「That was really close... Rance-sama...」
 
-39043	-	痛む身体を押して、身体を起こす。	Pushing her aching body, she sat up.
+39043	-		痛む身体を押して、身体を起こす。	Pushing her aching body, she sat up.
 
-39044	-	あちこちで、苦痛のうめきが上がる。	Groans of pain rose from all around.
-39045	+	しかし、脱落している者はいない。	But no one had fallen behind.
+39044	-		あちこちで、苦痛のうめきが上がる。	Groans of pain rose from all around.
+39045	+		しかし、脱落している者はいない。	But no one had fallen behind.
 
-39046	-	――サンライズ号は陸地に船首から突っ込んだ形で	――The Sunrise had rammed bow-first into land
-39047	+	座礁して……辛うじて、上陸に成功した。	and run aground... barely managing a successful landing.
+39046	-		――サンライズ号は陸地に船首から突っ込んだ形で	――The Sunrise had rammed bow-first into land
+39047	+		座礁して……辛うじて、上陸に成功した。	and run aground... barely managing a successful landing.
 
-39048	-	ランス達は、ついに魔人ケイブリスの喉元に、	Rance and the others had finally taken a step
-39049	+	その一歩を刻み込んだ。	into the throat of the demon Keibiris.
+39048	-		ランス達は、ついに魔人ケイブリスの喉元に、	Rance and the others had finally taken a step
+39049	+		その一歩を刻み込んだ。	into the throat of the demon Keibiris.

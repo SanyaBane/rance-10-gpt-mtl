@@ -7,184 +7,184 @@
 * Chaos	カオス	Male
 * Maria Custard	マリア	Female
 
-59920	Lei	「ッ、がああああぁぁっ！」	「Gah, raaaaaah!」
+59920	Lei	戦闘時	「ッ、がああああぁぁっ！」	「Gah, raaaaaah!」
 
-59921	Free Cities Guard	「ぐは、がぎゃあああぁぁっ！」	「Guha, gagyaaaaah!」
+59921	Free Cities Guard	基本	「ぐは、がぎゃあああぁぁっ！」	「Guha, gagyaaaaah!」
 
-59922	-	レイの拳が地面に突き刺さり、	Lei's fist slammed into the ground,
-59923	+	拡散した雷が、周辺の兵士を薙ぎ払う。	and the spreading lightning mowed down the surrounding soldiers.
+59922	-		レイの拳が地面に突き刺さり、	Lei's fist slammed into the ground,
+59923	+		拡散した雷が、周辺の兵士を薙ぎ払う。	and the spreading lightning mowed down the surrounding soldiers.
 
-59924	Cecil Carna	「ヒーラー！」	「Healers!」
+59924	Cecil Carna		「ヒーラー！」	「Healers!」
 
-59925	Lei	「ッ、うぜェ、んだよッ！」	「So fucking annoying!」
+59925	Lei	戦闘時	「ッ、うぜェ、んだよッ！」	「So fucking annoying!」
 
-59926	-	両手で盾を構えたガードの群れを、	The group of guards holding shields with both hands
-59927	+	こじ開けるような蹴りが吹き飛ばす。	were blown away by a prying kick.
+59926	-		両手で盾を構えたガードの群れを、	The group of guards holding shields with both hands
+59927	+		こじ開けるような蹴りが吹き飛ばす。	were blown away by a prying kick.
 
-59928	-	間髪を入れず隊列に空いた風穴の背後に揃えられた	Without a moment's delay, behind the hole opened in the formation,
-59929	+	ヒーラー集団へ、雷撃を放って打ちのめした。	lightning struck the gathered healers, crushing them.
+59928	-		間髪を入れず隊列に空いた風穴の背後に揃えられた	Without a moment's delay, behind the hole opened in the formation,
+59929	+		ヒーラー集団へ、雷撃を放って打ちのめした。	lightning struck the gathered healers, crushing them.
 
-59930	Cecil Carna	「強い……が……！」	「Strong... but...!」
+59930	Cecil Carna	怒り	「強い……が……！」	「Strong... but...!」
 
-59931	-	辺りは焼け焦げた人間の異臭で満ち、	The area was filled with the stench of burnt humans,
-59932	+	既にガード達の数は半分ほどになっていた。	and the number of guards had already been halved.
+59931	-		辺りは焼け焦げた人間の異臭で満ち、	The area was filled with the stench of burnt humans,
+59932	+		既にガード達の数は半分ほどになっていた。	and the number of guards had already been halved.
 
-59933	-	魔人の進行速度も半分ほどにはなっているが、	The Fiend's advance speed had also slowed to about half,
-59934	+	その暴虐は止める術がない。	but there was no way to stop his brutality.
+59933	-		魔人の進行速度も半分ほどにはなっているが、	The Fiend's advance speed had also slowed to about half,
+59934	+		その暴虐は止める術がない。	but there was no way to stop his brutality.
 
-59935	-	しかし。	However.
-59936	+	それでも、ほぼ戦いの帰趨は決まっていた。	Even so, the outcome of the battle was almost decided.
+59935	-		しかし。	However.
+59936	+		それでも、ほぼ戦いの帰趨は決まっていた。	Even so, the outcome of the battle was almost decided.
 
-59937	Lei~	（チッ、周りに敵しかいねェ……！）	（Tch, nothing but enemies around me...!）
+59937	Lei~	戦闘時	（チッ、周りに敵しかいねェ……！）	（Tch, nothing but enemies around me...!）
 
-59938	-	見渡す限り、既に魔軍の姿はない。	As far as the eye could see, there were no more Monster Army troops.
+59938	-		見渡す限り、既に魔軍の姿はない。	As far as the eye could see, there were no more Monster Army troops.
 
-59939	-	魔物兵たちは討ち果たされ、あるいは逃げ出し、	The monster soldiers had been slain or had fled,
-59940	+	既に軍としての形を保っていない。	no longer maintaining any formation as an army.
+59939	-		魔物兵たちは討ち果たされ、あるいは逃げ出し、	The monster soldiers had been slain or had fled,
+59940	+		既に軍としての形を保っていない。	no longer maintaining any formation as an army.
 
-59941	-	レイに対峙する部隊以外の人類軍は追撃するか、	The human army units not facing Lei were either pursuing
-59942	+	あるいは撤収の準備を始めていた。	or beginning preparations to withdraw.
+59941	-		レイに対峙する部隊以外の人類軍は追撃するか、	The human army units not facing Lei were either pursuing
+59942	+		あるいは撤収の準備を始めていた。	or beginning preparations to withdraw.
 
-59943	Lei~	（ピサロの、野郎……ッ……！	（That bastard Pizarro...!
-59944	+	　内通だ何だとほざいてたのは、どうしたッ……！）	　What happened to all that talk about traitors...!）
+59943	Lei~		（ピサロの、野郎……ッ……！	（That bastard Pizarro...!
+59944	+		　内通だ何だとほざいてたのは、どうしたッ……！）	　What happened to all that talk about traitors...!）
 
-59945	Cecil Carna	「……降伏しろ、魔人！	「...Surrender, Fiend!
-59946	+	　もう、魔軍は貴様だけだぞ！」	　The Monster Army is only you now!」
+59945	Cecil Carna	基本	「……降伏しろ、魔人！	「...Surrender, Fiend!
+59946	+		　もう、魔軍は貴様だけだぞ！」	　The Monster Army is only you now!」
 
-59947	Lei	「ハッ、笑わせんなゴミどもが！	「Hah, don't make me laugh, you trash!
-59948	+	　面白くなってきたトコだ……！」	　It's just getting fun...!」
+59947	Lei	戦闘時	「ハッ、笑わせんなゴミどもが！	「Hah, don't make me laugh, you trash!
+59948	+		　面白くなってきたトコだ……！」	　It's just getting fun...!」
 
-59949	-	もはや、戦はほぼ終わったと言ってよかった。	The battle could already be called essentially over.
+59949	-		もはや、戦はほぼ終わったと言ってよかった。	The battle could already be called essentially over.
 
-59950	-	だというのに、魔人レイ一人だけが、	Yet only the Fiend Lei alone
-59951	+	荒れ狂う嵐のように戦い続けている。	continued fighting like a raging storm.
+59950	-		だというのに、魔人レイ一人だけが、	Yet only the Fiend Lei alone
+59951	+		荒れ狂う嵐のように戦い続けている。	continued fighting like a raging storm.
 
-59952	Free Cities Guard	「この……！」	「You...!」
+59952	Free Cities Guard	基本	「この……！」	「You...!」
 
-59953	-	四方から、取り押さえようと兵士達が躍りかかる。	Soldiers leaped at him from all sides to subdue him.
+59953	-		四方から、取り押さえようと兵士達が躍りかかる。	Soldiers leaped at him from all sides to subdue him.
 
-59954	-	だがレイは一人の顔面を電光で焼き焦がし、	But Lei burned one soldier's face with lightning,
-59955	+	更に一人の喉笛を、掴んで握り潰す。	then grabbed and crushed another's windpipe.
+59954	-		だがレイは一人の顔面を電光で焼き焦がし、	But Lei burned one soldier's face with lightning,
+59955	+		更に一人の喉笛を、掴んで握り潰す。	then grabbed and crushed another's windpipe.
 
-59956	Free Cities Guard	「ぐ、ばが、ッ……！」	「Gu, gah...!」
+59956	Free Cities Guard		「ぐ、ばが、ッ……！」	「Gu, gah...!」
 
-59957	-	さらに両脇から来る二人の首を掴むと、	He then grabbed the necks of two more coming from both sides,
-59958	+	その身体に直接電流を叩き込んで消し炭に変えた。	and pumped electricity directly into their bodies, turning them to charcoal.
+59957	-		さらに両脇から来る二人の首を掴むと、	He then grabbed the necks of two more coming from both sides,
+59958	+		その身体に直接電流を叩き込んで消し炭に変えた。	and pumped electricity directly into their bodies, turning them to charcoal.
 
-59959	Free Cities Guard	「…………ッ……！	「......!」
-59960	+	　な、なんという、化け物、ッ……！」	　What kind of monster...!」
+59959	Free Cities Guard		「…………ッ……！	「......!」
+59960	+		　な、なんという、化け物、ッ……！」	　What kind of monster...!」
 
-59961	-	決して傷つかない身体と、超絶的な戦闘能力。	An unyielding body and transcendent combat ability.
-59962	+	勝ち戦となってなお、自分達だけが死地にある事に、	Even though it was a winning battle, the fact that only they were in mortal danger
-59963	+	兵士たちの士気が揺らぐ。	shook the soldiers' morale.
+59961	-		決して傷つかない身体と、超絶的な戦闘能力。	An unyielding body and transcendent combat ability.
+59962	+		勝ち戦となってなお、自分達だけが死地にある事に、	Even though it was a winning battle, the fact that only they were in mortal danger
+59963	+		兵士たちの士気が揺らぐ。	shook the soldiers' morale.
 
-59964	Lei	「半殺しじゃ蘇りやがるってんなら、かまわねぇ。	「If half-killing them lets them revive, then fine.
-59965	+	　丁寧に、一匹ずつ殺してやるぜ……！」	　I'll kill them one by one, carefully...!」
+59964	Lei	戦闘時	「半殺しじゃ蘇りやがるってんなら、かまわねぇ。	「If half-killing them lets them revive, then fine.
+59965	+		　丁寧に、一匹ずつ殺してやるぜ……！」	　I'll kill them one by one, carefully...!」
 
-59966	-	レイは猛々しい笑みを浮かべて、	Lei floated a ferocious smile
-59967	+	遠巻きにしている人間達を睥睨した。	and glared at the humans surrounding him from afar.
+59966	-		レイは猛々しい笑みを浮かべて、	Lei floated a ferocious smile
+59967	+		遠巻きにしている人間達を睥睨した。	and glared at the humans surrounding him from afar.
 
-59968	-	常識的に考えれば、撤退すべき状況であった。	By common sense, it was a situation where he should retreat.
+59968	-		常識的に考えれば、撤退すべき状況であった。	By common sense, it was a situation where he should retreat.
 
-59969	-	既に、雷と体術のみで、数千人を相手取っている。	He was already facing thousands using only lightning and hand-to-hand combat.
-59970	+	疲労は隠しようが無く、動きは僅かに鈍っている。	His fatigue was impossible to hide, and his movements had slowed slightly.
+59969	-		既に、雷と体術のみで、数千人を相手取っている。	He was already facing thousands using only lightning and hand-to-hand combat.
+59970	+		疲労は隠しようが無く、動きは僅かに鈍っている。	His fatigue was impossible to hide, and his movements had slowed slightly.
 
-59971	-	だが、魔王ジルから与えられた血が、	But the blood given by Demon King Jill,
-59972	+	そしてレイの中のそれ以外の何かが、	and something else inside Lei,
-59973	+	その道筋を与えない。	did not allow that path.
+59971	-		だが、魔王ジルから与えられた血が、	But the blood given by Demon King Jill,
+59972	+		そしてレイの中のそれ以外の何かが、	and something else inside Lei,
+59973	+		その道筋を与えない。	did not allow that path.
 
-59974	Lei~	（けっ、何も変わりゃしねぇ……	（Heh, nothing's changed...
-59975	+	　あの時の、人間狩りの魔物どもと、っ……！）	　Just like those monster hunters back then...!）
+59974	Lei~		（けっ、何も変わりゃしねぇ……	（Heh, nothing's changed...
+59975	+		　あの時の、人間狩りの魔物どもと、っ……！）	　Just like those monster hunters back then...!）
 
-59976	-	かつて、人間だった頃の記憶。	Memories from when he was once human.
-59977	+	一人で数十、数百の魔物と渡り合った頃を思いだし、	Recalling the time he fought dozens, hundreds of monsters alone,
-59978	+	レイは少しだけ笑った。	Lei smiled a little.
+59976	-		かつて、人間だった頃の記憶。	Memories from when he was once human.
+59977	+		一人で数十、数百の魔物と渡り合った頃を思いだし、	Recalling the time he fought dozens, hundreds of monsters alone,
+59978	+		レイは少しだけ笑った。	Lei smiled a little.
 
-59979	-	今も、昔も、当てにするのは自らの力のみ。	Now and in the past, he could only rely on his own power.
-59980	+	それは恨むどころか、喜びに近かった。	Far from resenting it, it was close to joy.
+59979	-		今も、昔も、当てにするのは自らの力のみ。	Now and in the past, he could only rely on his own power.
+59980	+		それは恨むどころか、喜びに近かった。	Far from resenting it, it was close to joy.
 
-59981	Lei~	（違うとすりゃ、こいつか……	（If anything's different, it's this...
-59982	+	　カオスの、傷……）	　The wound from Chaos...）
+59981	Lei~		（違うとすりゃ、こいつか……	（If anything's different, it's this...
+59982	+		　カオスの、傷……）	　The wound from Chaos...）
 
-59983	-	身体から、ひっそりと滴る鮮血。	Fresh blood quietly dripping from his body.
-59984	+	戦っている間に開いた、魔剣の痕。	The trace of the magic sword that opened during the fight.
+59983	-		身体から、ひっそりと滴る鮮血。	Fresh blood quietly dripping from his body.
+59984	+		戦っている間に開いた、魔剣の痕。	The trace of the magic sword that opened during the fight.
 
-59985	-	それが、身体を徐々に蝕む。	It was slowly eroding his body.
-59986	+	無視するつもりでも、	Even if he tried to ignore it,
-59987	+	疲労が重なればそうはいかない。	the accumulating fatigue made that impossible.
+59985	-		それが、身体を徐々に蝕む。	It was slowly eroding his body.
+59986	+		無視するつもりでも、	Even if he tried to ignore it,
+59987	+		疲労が重なればそうはいかない。	the accumulating fatigue made that impossible.
 
-59988	Lei~	（皆殺し……は、流石に保たねぇか……	（Killing them all... probably won't last...
-59989	+	　ぶち破って、頭を潰す……！）	　I'll break through and crush his head...!）
+59988	Lei~		（皆殺し……は、流石に保たねぇか……	（Killing them all... probably won't last...
+59989	+		　ぶち破って、頭を潰す……！）	　I'll break through and crush his head...!）
 
-59990	-	そう思考したレイの聴覚に、	As Lei thought that, his ears caught
-59991	+	奇妙な音が聞こえてきた。	a strange sound.
+59990	-		そう思考したレイの聴覚に、	As Lei thought that, his ears caught
+59991	+		奇妙な音が聞こえてきた。	a strange sound.
 
-59992	Lei	「あん？　なんだ……！」	「Hn? What is...!」
+59992	Lei		「あん？　なんだ……！」	「Hn? What is...!」
 
-59993	Rance	「…………はははははは……」	「............Hahahahaha...」
+59993	Rance	基本	「…………はははははは……」	「............Hahahahaha...」
 
-59994	Lei	「新手、か……！」	「New enemies, huh...!」
+59994	Lei	戦闘時	「新手、か……！」	「New enemies, huh...!」
 
-59995	-	レイの想像を裏付けるように、	As if to confirm Lei's guess,
-59996	+	取り巻く兵士達が引いて、	the surrounding soldiers pulled back,
-59997	+	後ろから来る者に道を作った。	making way for whoever was coming from behind.
+59995	-		レイの想像を裏付けるように、	As if to confirm Lei's guess,
+59996	+		取り巻く兵士達が引いて、	the surrounding soldiers pulled back,
+59997	+		後ろから来る者に道を作った。	making way for whoever was coming from behind.
 
-59998	Rance	「がーーーーーーはははははは！	「Gaaaaaaaahahahahaha!
-59999	+	　おう、いたいた、ビリビリ野郎！」	　There you are, you electric bastard!」
+59998	Rance	笑顔	「がーーーーーーはははははは！	「Gaaaaaaaahahahahaha!
+59999	+		　おう、いたいた、ビリビリ野郎！」	　There you are, you electric bastard!」
 
-60000	Lei	「ランス、ッ……！」	「Rance...!」
+60000	Lei	戦闘時	「ランス、ッ……！」	「Rance...!」
 
-60001	Cecil Carna	「総統……っ……」	「Supreme Leader...!」
+60001	Cecil Carna	基本	「総統……っ……」	「Supreme Leader...!」
 
-60002	Rance	「おう、ご苦労セシル。後は俺様に任せろ」	「Yeah, good work Cecil. Leave the rest to me.」
+60002	Rance		「おう、ご苦労セシル。後は俺様に任せろ」	「Yeah, good work Cecil. Leave the rest to me.」
 
-60003	Lei	「けっ……ようやく、本命のお出ましか」	「Heh... Finally showing up for the main event.」
+60003	Lei	戦闘時	「けっ……ようやく、本命のお出ましか」	「Heh... Finally showing up for the main event.」
 
-60004	Rance	「まだ独りでねばっていやがったか。	「Still stubbornly holding out alone, huh.
-60005	+	　けっこうけっこう、逃げたかと思ったぞ」	　Not bad, not bad. I thought you might have run away.」
+60004	Rance	基本	「まだ独りでねばっていやがったか。	「Still stubbornly holding out alone, huh.
+60005	+		　けっこうけっこう、逃げたかと思ったぞ」	　Not bad, not bad. I thought you might have run away.」
 
-60006	Lei	「…………なんで逃げる必要がある？	「............Why the hell would I need to run?
-60007	+	　現に、てめェが間抜けヅラ晒して	　Right now you're the one showing up with that stupid face
-60008	+	　殺されに来てくれたじゃねェか」	　and coming here to get killed.」
+60006	Lei	戦闘時	「…………なんで逃げる必要がある？	「............Why the hell would I need to run?
+60007	+		　現に、てめェが間抜けヅラ晒して	　Right now you're the one showing up with that stupid face
+60008	+		　殺されに来てくれたじゃねェか」	　and coming here to get killed.」
 
-60009	Rance	「がはははは、前は逃がしたが……いや、	「Gahahahaha, I let you go last time... No,
-60010	+	　わざと見逃してやったが、今回は違うぞ」	　I deliberately overlooked you, but this time is different.」
+60009	Rance	笑顔	「がはははは、前は逃がしたが……いや、	「Gahahahaha, I let you go last time... No,
+60010	+		　わざと見逃してやったが、今回は違うぞ」	　I deliberately overlooked you, but this time is different.」
 
-60011	Lei	「ハッ。わざと、かよ。吹きやがる」	「Hah. Deliberately, my ass. Bullshit.」
+60011	Lei	戦闘時	「ハッ。わざと、かよ。吹きやがる」	「Hah. Deliberately, my ass. Bullshit.」
 
-60012	Rance	「その前にも色々あったからな。	「A lot happened before this too.
-60013	+	　だが今回は貸し借り無しだ。さぁ死ね」	　But this time there are no debts. Now die.」
+60012	Rance	基本	「その前にも色々あったからな。	「A lot happened before this too.
+60013	+		　だが今回は貸し借り無しだ。さぁ死ね」	　But this time there are no debts. Now die.」
 
-60014	Lei	「クッ、クックククク…………面白ェ野郎だ。	「Kuh, kuh kuh kuh............ What an amusing bastard.
-60015	+	　適当こきやがって」	　Running your mouth like that.」
+60014	Lei	戦闘時	「クッ、クックククク…………面白ェ野郎だ。	「Kuh, kuh kuh kuh............ What an amusing bastard.
+60015	+		　適当こきやがって」	　Running your mouth like that.」
 
-60016	Rance	「はっきりしているのは貴様が今くたばる事だけだ。	「The only clear thing is that you're going to die right now.
-60017	+	　さあ、死ぬがよい」	　Now, die nicely.」
+60016	Rance	基本	「はっきりしているのは貴様が今くたばる事だけだ。	「The only clear thing is that you're going to die right now.
+60017	+		　さあ、死ぬがよい」	　Now, die nicely.」
 
-60018	Chaos	「よーい！　というわけで、さらばじゃレイ」	「Ready! And with that, farewell Lei.」
+60018	Chaos		「よーい！　というわけで、さらばじゃレイ」	「Ready! And with that, farewell Lei.」
 
-60019	Lei	「あぁ……そーかよ！！」	「Yeah... That's how it is!!」
+60019	Lei	戦闘時	「あぁ……そーかよ！！」	「Yeah... That's how it is!!」
 
-60020	Rance	「ぐぅおっと！　あちちち！」	「Guooh! Hot hot hot!」
+60020	Rance	怒り	「ぐぅおっと！　あちちち！」	「Guooh! Hot hot hot!」
 
-60021	Lei	「…………！？」	「............!?」
+60021	Lei	戦闘時	「…………！？」	「............!?」
 
-60022	-	有無を言わさず放った雷撃が、何かに散らされた。	The lightning strike released without hesitation was scattered by something.
-60023	+	一撃で人体程度、炭化させるほどの力が、	Power strong enough to carbonize a human body in one hit
-60024	+	ランスには小さな火傷程度にしか届いていない。	only gave Rance a small burn.
+60022	-		有無を言わさず放った雷撃が、何かに散らされた。	The lightning strike released without hesitation was scattered by something.
+60023	+		一撃で人体程度、炭化させるほどの力が、	Power strong enough to carbonize a human body in one hit
+60024	+		ランスには小さな火傷程度にしか届いていない。	only gave Rance a small burn.
 
-60025	Lei~	（何か……何かに、雷が引き寄せられた……？）	（Something... The lightning was drawn to something...?）
+60025	Lei~		（何か……何かに、雷が引き寄せられた……？）	（Something... The lightning was drawn to something...?）
 
-60026	Rance	「がはははは、雷は対策済だ！」	「Gahahahaha, lightning countermeasures are complete!」
+60026	Rance	笑顔	「がはははは、雷は対策済だ！」	「Gahahahaha, lightning countermeasures are complete!」
 
-60027	-	やってきた戦車の砲塔部分には、	On the arrived tank's turret,
-60028	+	主砲の代わりに大型の避雷針が据え付けられていた。	a large lightning rod was installed instead of the main cannon.
+60027	-		やってきた戦車の砲塔部分には、	On the arrived tank's turret,
+60028	+		主砲の代わりに大型の避雷針が据え付けられていた。	a large lightning rod was installed instead of the main cannon.
 
-60029	Maria Custard	「もー、せっかくの戦車なのに、	「Mou, even though it's a precious tank,
-60030	+	　こんなの付けさせるなんて……可愛くなーい」	　making me attach something like this... Not cute at all.」
+60029	Maria Custard	あかんわ	「もー、せっかくの戦車なのに、	「Mou, even though it's a precious tank,
+60030	+		　こんなの付けさせるなんて……可愛くなーい」	　making me attach something like this... Not cute at all.」
 
-60031	Rance	「雷で好き勝手はもうできんぞ。	「You can't run wild with lightning anymore.
-60032	+	　これで、ただのケンカ自慢だな」	　Now you're just a brawler with a big mouth.」
+60031	Rance	基本	「雷で好き勝手はもうできんぞ。	「You can't run wild with lightning anymore.
+60032	+		　これで、ただのケンカ自慢だな」	　Now you're just a brawler with a big mouth.」
 
-60033	Lei	「そう思うんなら、やってみやがれ……！	「If you think so, then try it...!
-60034	+	　叩き潰してやるぜ、ランス！」	　I'll smash you to pieces, Rance!」
+60033	Lei	戦闘時	「そう思うんなら、やってみやがれ……！	「If you think so, then try it...!
+60034	+		　叩き潰してやるぜ、ランス！」	　I'll smash you to pieces, Rance!」

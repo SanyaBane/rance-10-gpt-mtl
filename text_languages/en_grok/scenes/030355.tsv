@@ -7,187 +7,187 @@
 * Rance	ランス	Male
 * Urza Pranaice	ウルザ	Female
 
-2498	Caloria Cricket	「う、っ………………うぅん」	「U... Mm......」
+2498	Caloria Cricket	基本	「う、っ………………うぅん」	「U... Mm......」
 
-2499	-	うすぼんやりした意識が、	Her slightly hazy consciousness
-2500	+	徐々に鮮明になっていく。	gradually became clearer.
+2499	-		うすぼんやりした意識が、	Her slightly hazy consciousness
+2500	+		徐々に鮮明になっていく。	gradually became clearer.
 
-2501	Caloria Cricket	「っ、あ、ここは…………」	「Ah, where am I......」
+2501	Caloria Cricket	驚き	「っ、あ、ここは…………」	「Ah, where am I......」
 
-2502	Old Man	「おお、お気づきになられましたか」	「Oh, you've woken up.」
+2502	Old Man	基本	「おお、お気づきになられましたか」	「Oh, you've woken up.」
 
-2503	Caloria Cricket	「あっ、お爺さん……！」	「Ah, Grandpa...!」
+2503	Caloria Cricket		「あっ、お爺さん……！」	「Ah, Grandpa...!」
 
-2504	-	顔を見て、思い出す。	Seeing his face, she remembered.
+2504	-		顔を見て、思い出す。	Seeing his face, she remembered.
 
-2505	-	とある村に立ち寄って、	She had stopped at a certain village,
-2506	+	一人でいる所をこの老人に話しかけられて……	and while alone this old man spoke to her...
-2507	+	気がつけば、意識を失っていた。	Before she knew it, she had lost consciousness.
+2505	-		とある村に立ち寄って、	She had stopped at a certain village,
+2506	+		一人でいる所をこの老人に話しかけられて……	and while alone this old man spoke to her...
+2507	+		気がつけば、意識を失っていた。	Before she knew it, she had lost consciousness.
 
-2508	Old Man	「スリープの魔法ですから酷い後遺症は	「It was a sleep spell, so there shouldn't be serious aftereffects,
-2509	+	　ないと思いますが……	
-2510	+	　あなた様は普通ではありませんからな」	　but you are no ordinary person.」
+2508	Old Man		「スリープの魔法ですから酷い後遺症は	「It was a sleep spell, so there shouldn't be serious aftereffects,
+2509	+		　ないと思いますが……	
+2510	+		　あなた様は普通ではありませんからな」	　but you are no ordinary person.」
 
-2511	Caloria Cricket~	（ムシも寝ちゃってる……）	（The bugs are asleep too...）
+2511	Caloria Cricket~		（ムシも寝ちゃってる……）	（The bugs are asleep too...）
 
-2512	Caloria Cricket	「ここ、どこなの……」	「Where is this...?」
+2512	Caloria Cricket		「ここ、どこなの……」	「Where is this...?」
 
-2513	Old Man	「街はずれですが……	「On the outskirts of town...
-2514	+	　それはあまり関係ありませんな」	　But that doesn't matter much.」
+2513	Old Man		「街はずれですが……	「On the outskirts of town...
+2514	+		　それはあまり関係ありませんな」	　But that doesn't matter much.」
 
-2515	Old Man	「ここは……絶滅危惧種を保護する、	「This is... the Natural Conservation Committee Darwin,
-2516	+	　自然保安委員会、ダーウィン」	　dedicated to protecting endangered species.」
+2515	Old Man		「ここは……絶滅危惧種を保護する、	「This is... the Natural Conservation Committee Darwin,
+2516	+		　自然保安委員会、ダーウィン」	　dedicated to protecting endangered species.」
 
-2517	Caloria Cricket	「ぜ、ぜつめつ……なに？」	「En-Endangered... what?」
+2517	Caloria Cricket		「ぜ、ぜつめつ……なに？」	「En-Endangered... what?」
 
-2518	Old Man	「わたくしどもはあなたを保護したのです」	「We have taken you under our protection.」
+2518	Old Man		「わたくしどもはあなたを保護したのです」	「We have taken you under our protection.」
 
-2519	Caloria Cricket	「保護って……お、おうちに帰して！」	「Protection... Let me go home!」
+2519	Caloria Cricket		「保護って……お、おうちに帰して！」	「Protection... Let me go home!」
 
-2520	Old Man	「とんでもない。あんな危険な最前線に、	「Out of the question. We can't send
-2521	+	　世界で唯一残った貴重なムシ使いのあなたを	　the last remaining precious Insect User in the world
-2522	+	　戻せるものですか。人類の損失だ」	　back to such a dangerous frontline. It would be a loss for humanity.」
+2520	Old Man		「とんでもない。あんな危険な最前線に、	「Out of the question. We can't send
+2521	+		　世界で唯一残った貴重なムシ使いのあなたを	　the last remaining precious Insect User in the world
+2522	+		　戻せるものですか。人類の損失だ」	　back to such a dangerous frontline. It would be a loss for humanity.」
 
-2523	Caloria Cricket	「え、ええと……」	「U-Um......」
+2523	Caloria Cricket		「え、ええと……」	「U-Um......」
 
-2524	Old Man	「かつて、ゼスが行った蛮行、異種族撲滅政策。	「The barbaric acts Zeth once committed, the extermination policy against other races.
-2525	+	　いや……それ以前からの、差別政策の数々」	　No... All the discriminatory policies even before that.」
+2524	Old Man		「かつて、ゼスが行った蛮行、異種族撲滅政策。	「The barbaric acts Zeth once committed, the extermination policy against other races.
+2525	+		　いや……それ以前からの、差別政策の数々」	　No... All the discriminatory policies even before that.」
 
-2526	Old Man	「それによって、多くの種が絶滅したと思われた。	「Many species were thought to have gone extinct because of them.
-2527	+	　――しかし。あなたという奇跡があった」	　――However. There was a miracle: you.」
+2526	Old Man		「それによって、多くの種が絶滅したと思われた。	「Many species were thought to have gone extinct because of them.
+2527	+		　――しかし。あなたという奇跡があった」	　――However. There was a miracle: you.」
 
-2528	Old Man	「これはもう、手厚く保護し、	「We must protect you generously,
-2529	+	　健やかに過ごして頂かなければ。	　and let you live healthily.
-2530	+	　それが成熟した人類の判断というものです」	　That is the judgment of mature humanity.」
+2528	Old Man		「これはもう、手厚く保護し、	「We must protect you generously,
+2529	+		　健やかに過ごして頂かなければ。	　and let you live healthily.
+2530	+		　それが成熟した人類の判断というものです」	　That is the judgment of mature humanity.」
 
-2531	Caloria Cricket	「ほ、保護、って……何するの……」	「P-Protection... What are you going to do...?」
+2531	Caloria Cricket		「ほ、保護、って……何するの……」	「P-Protection... What are you going to do...?」
 
-2532	Old Man	「それはもう。安全な所で、文化的な暮らしを。	「Simply let you live a cultured life in a safe place.
-2533	+	　皆で見守ります故、穏やかに暮らして頂ければ」	　We will all watch over you, so please live peacefully.」
+2532	Old Man		「それはもう。安全な所で、文化的な暮らしを。	「Simply let you live a cultured life in a safe place.
+2533	+		　皆で見守ります故、穏やかに暮らして頂ければ」	　We will all watch over you, so please live peacefully.」
 
-2534	Caloria Cricket	「…………っ……」	「......」
+2534	Caloria Cricket		「…………っ……」	「......」
 
-2535	Old Woman	「これまで、たいそう辛い目に遭ったでしょう？	「You've suffered so much until now, haven't you?
-2536	+	　可哀想に……」	　Poor thing...」
+2535	Old Woman		「これまで、たいそう辛い目に遭ったでしょう？	「You've suffered so much until now, haven't you?
+2536	+		　可哀想に……」	　Poor thing...」
 
-2537	Woman	「もう、大丈夫だからね。	「It's okay now.
-2538	+	　いじめる人なんて、いないからね」	　There are no bullies here.」
+2537	Woman		「もう、大丈夫だからね。	「It's okay now.
+2538	+		　いじめる人なんて、いないからね」	　There are no bullies here.」
 
-2539	Caloria Cricket	「…………こわい……」	「............Scary...」
+2539	Caloria Cricket		「…………こわい……」	「............Scary...」
 
-2540	Old Man	「あぁ……そうでしたでしょうとも。これまでは……	「Ah... Of course it was scary until now...
-2541	+	　しかし、もう安心です。これからは、我々が……」	　But you're safe now. From now on, we will...」
+2540	Old Man		「あぁ……そうでしたでしょうとも。これまでは……	「Ah... Of course it was scary until now...
+2541	+		　しかし、もう安心です。これからは、我々が……」	　But you're safe now. From now on, we will...」
 
-2542	Caloria Cricket	「…………あなたたち……こわいよ……」	「............You people... are scary...」
+2542	Caloria Cricket	真剣	「…………あなたたち……こわいよ……」	「............You people... are scary...」
 
-2543	Old Man	「なんと……？」	「What...?」
+2543	Old Man	基本	「なんと……？」	「What...?」
 
-2544	Caloria Cricket	「言ってる事が、反対なのに……	「What you're saying is the opposite...
-2545	+	　かろをいじめた人たちと……おんなじ顔してる……	　You have the same faces as the people who bullied Caloria...
-2546	+	　どうして……？」	　Why...?」
+2544	Caloria Cricket	真剣	「言ってる事が、反対なのに……	「What you're saying is the opposite...
+2545	+		　かろをいじめた人たちと……おんなじ顔してる……	　You have the same faces as the people who bullied Caloria...
+2546	+		　どうして……？」	　Why...?」
 
-2547	Old Man	「む、むうう？　言葉が不自由なのか？	「Mu, muu? Are you having trouble speaking?
-2548	+	　何を言って……」	　What are you...」
+2547	Old Man	基本	「む、むうう？　言葉が不自由なのか？	「Mu, muu? Are you having trouble speaking?
+2548	+		　何を言って……」	　What are you...」
 
-2549	Old Woman	「人間が信用できないのよ……可哀想に……	「She can't trust humans... Poor thing...
-2550	+	　大丈夫よ？　私たちは優しいからね？」	　It's okay? We're kind.」
+2549	Old Woman		「人間が信用できないのよ……可哀想に……	「She can't trust humans... Poor thing...
+2550	+		　大丈夫よ？　私たちは優しいからね？」	　It's okay? We're kind.」
 
-2551	Woman	「あなたは貴重なの。とても価値があるのよ。	「You are precious. Extremely valuable.
-2552	+	　だから、心配は…………」	　So don't worry...」
+2551	Woman		「あなたは貴重なの。とても価値があるのよ。	「You are precious. Extremely valuable.
+2552	+		　だから、心配は…………」	　So don't worry...」
 
-2553	Caloria Cricket	「っ、帰して！　かろを、っ……！	「Let me go! Caloria...!
-2554	+	　かろ、可哀想なんかじゃないもん！	　Caloria isn't pitiful!
-2555	+	　貴重じゃないっ！」	　I'm not valuable!」
+2553	Caloria Cricket	叫び	「っ、帰して！　かろを、っ……！	「Let me go! Caloria...!
+2554	+		　かろ、可哀想なんかじゃないもん！	　Caloria isn't pitiful!
+2555	+		　貴重じゃないっ！」	　I'm not valuable!」
 
-2556	Old Man	「いかんな、興奮している……！	「This is bad, she's agitated...!
-2557	+	　貴重なムシ使いだ、少し大人しくさせよう」	　A precious Insect User. Let's calm her down a bit.」
+2556	Old Man	基本	「いかんな、興奮している……！	「This is bad, she's agitated...!
+2557	+		　貴重なムシ使いだ、少し大人しくさせよう」	　A precious Insect User. Let's calm her down a bit.」
 
-2558	Free Cities Guard	「へいっ」	「Yes sir!」
+2558	Free Cities Guard		「へいっ」	「Yes sir!」
 
-2559	Caloria Cricket	「離してっ、帰るの、かろ、ランスの、ッ……！」	「Let go! Caloria wants to go back, to Rance...!」
+2559	Caloria Cricket	だめー	「離してっ、帰るの、かろ、ランスの、ッ……！」	「Let go! Caloria wants to go back, to Rance...!」
 
-2560	Rance	「なーーにを…………」	「What the...」
+2560	Rance	基本	「なーーにを…………」	「What the...」
 
-2561	Rance	「ふざけた真似をしてやがるんだ	「What the fuck are you bastards doing
-2562	+	　このクソどもがーーーー！！」	　you pieces of shit!!!」
+2561	Rance	怒り	「ふざけた真似をしてやがるんだ	「What the fuck are you bastards doing
+2562	+		　このクソどもがーーーー！！」	　you pieces of shit!!!」
 
-2563	Old Man	「お、おおぉぉっ！　何を乱暴な…………」	「O-Ohhh! How violent...」
+2563	Old Man	基本	「お、おおぉぉっ！　何を乱暴な…………」	「O-Ohhh! How violent...」
 
-2564	Old Man	「ごふっ！」	「Gofuh!」
+2564	Old Man		「ごふっ！」	「Gofuh!」
 
-2565	Urza Pranaice	「誘拐の現行犯ですね。	「This is clearly a kidnapping in progress.
-2566	+	　全員、捕縛して下さい！」	　Arrest them all!」
+2565	Urza Pranaice	怒り	「誘拐の現行犯ですね。	「This is clearly a kidnapping in progress.
+2566	+		　全員、捕縛して下さい！」	　Arrest them all!」
 
-2567	Woman	「は、はぁっ？	「H-Huh?
-2568	+	　私たち、ムシ使いを保護しただけなのよ！	　We were just protecting the Insect User!
-2569	+	　何を…………」	　What are you...」
+2567	Woman	基本	「は、はぁっ？	「H-Huh?
+2568	+		　私たち、ムシ使いを保護しただけなのよ！	　We were just protecting the Insect User!
+2569	+		　何を…………」	　What are you...」
 
-2570	Old Woman	「横暴よ！　虐待をして、貴重な文化を	「Tyranny! Abusing and trying to eradicate
-2571	+	　根絶させるつもりなの、政府は！」	　precious culture, that's what the government wants!」
+2570	Old Woman		「横暴よ！　虐待をして、貴重な文化を	「Tyranny! Abusing and trying to eradicate
+2571	+		　根絶させるつもりなの、政府は！」	　precious culture, that's what the government wants!」
 
-2572	Rance	「捕縛なんぞ要らんわ！　全部殺せ！」	「No need to arrest them! Kill them all!」
+2572	Rance	怒り	「捕縛なんぞ要らんわ！　全部殺せ！」	「No need to arrest them! Kill them all!」
 
-2573	Urza Pranaice	「……と言う人もいますから！　急いで！」	「...Some people say that! Hurry!」
+2573	Urza Pranaice		「……と言う人もいますから！　急いで！」	「...Some people say that! Hurry!」
 
-2574	Caloria Cricket	「あ……あ、ランス……」	「Ah... Rance...」
+2574	Caloria Cricket	驚き	「あ……あ、ランス……」	「Ah... Rance...」
 
-2575	Urza Pranaice	「ランスさんは、カロリアさんをお願いします」	「Rance-san, please take care of Caloria-san.」
+2575	Urza Pranaice	真剣	「ランスさんは、カロリアさんをお願いします」	「Rance-san, please take care of Caloria-san.」
 
-2576	Rance	「ふんっ。帰るぞ、カロリア」	「Hmph. Let's go home, Caloria.」
+2576	Rance	基本	「ふんっ。帰るぞ、カロリア」	「Hmph. Let's go home, Caloria.」
 
-2577	Caloria Cricket	「……うんっ」	「...Yeah!」
+2577	Caloria Cricket		「……うんっ」	「...Yeah!」
 
-2578	Rance	「まったく、世話を焼かせやがって」	「Jeez, making me clean up after you.」
+2578	Rance	真剣	「まったく、世話を焼かせやがって」	「Jeez, making me clean up after you.」
 
-2579	Caloria Cricket	「ん……ごめんね……」	「Mm... Sorry...」
+2579	Caloria Cricket	困り	「ん……ごめんね……」	「Mm... Sorry...」
 
-2580	Rance	「無事だったからいい」	「As long as you're safe it's fine.」
+2580	Rance	基本	「無事だったからいい」	「As long as you're safe it's fine.」
 
-2581	Caloria Cricket	「……………………」	「........................」
+2581	Caloria Cricket	真剣	「……………………」	「........................」
 
-2582	Caloria Cricket	「ねえ……ランス……」	「Hey... Rance...」
+2582	Caloria Cricket		「ねえ……ランス……」	「Hey... Rance...」
 
-2583	Rance	「んーー？」	「Mmm?」
+2583	Rance	基本	「んーー？」	「Mmm?」
 
-2584	Caloria Cricket	「あの人達……ずっと言ってた。	「Those people... kept saying.
-2585	+	　かろのこと、貴重だ、可哀想だって……」	　That Caloria is precious, pitiful...」
+2584	Caloria Cricket	真剣	「あの人達……ずっと言ってた。	「Those people... kept saying.
+2585	+		　かろのこと、貴重だ、可哀想だって……」	　That Caloria is precious, pitiful...」
 
-2586	Caloria Cricket	「かろ……可哀想、なのかな……	「Is Caloria... pitiful...?
-2587	+	　普通だって思っちゃ……ダメなのかな」	　Is it wrong to think I'm normal...?」
+2586	Caloria Cricket	困り	「かろ……可哀想、なのかな……	「Is Caloria... pitiful...?
+2587	+		　普通だって思っちゃ……ダメなのかな」	　Is it wrong to think I'm normal...?」
 
-2588	Rance	「んーー……まあ、そうだな」	「Mmm... Well, yeah.」
+2588	Rance	基本	「んーー……まあ、そうだな」	「Mmm... Well, yeah.」
 
-2589	Caloria Cricket	「う…………」	「U......」
+2589	Caloria Cricket	困り	「う…………」	「U......」
 
-2590	Rance	「美少女は貴重な資源だ。	「Beautiful girls are valuable resources.
-2591	+	　そこらのブサイクと同じと思ってはいかん」	　You can't think of yourself the same as some ugly person.」
+2590	Rance	基本	「美少女は貴重な資源だ。	「Beautiful girls are valuable resources.
+2591	+		　そこらのブサイクと同じと思ってはいかん」	　You can't think of yourself the same as some ugly person.」
 
-2592	Caloria Cricket	「え…………」	「Eh............」
+2592	Caloria Cricket	驚き	「え…………」	「Eh............」
 
-2593	Rance	「ま、そのせいであんな変態どもに狙われるのは、	「Well, it is a bit unfortunate that it makes perverts target you,
-2594	+	　ちと気の毒だがな」	　though.」
+2593	Rance	基本	「ま、そのせいであんな変態どもに狙われるのは、	「Well, it is a bit unfortunate that it makes perverts target you,
+2594	+		　ちと気の毒だがな」	　though.」
 
-2595	Rance	「ま、ぶちのめしたからもう平気だ。	「But I beat them up so it's fine now.
-2596	+	　次からは俺の側を離れるんじゃないぞ。がははは」	　Don't leave my side next time. Gahahaha.」
+2595	Rance	笑顔	「ま、ぶちのめしたからもう平気だ。	「But I beat them up so it's fine now.
+2596	+		　次からは俺の側を離れるんじゃないぞ。がははは」	　Don't leave my side next time. Gahahaha.」
 
-2597	Caloria Cricket	「…………うん！」	「...Yeah!」
+2597	Caloria Cricket		「…………うん！」	「...Yeah!」
 
-2598	-	ランスとカロリアは、連れだって帰途に就いた。	Rance and Caloria walked home together.
+2598	-		ランスとカロリアは、連れだって帰途に就いた。	Rance and Caloria walked home together.
 
-2599	Rance	「……ところでムシ共は何やっとったんじゃ」	「...By the way, what were those bugs doing?」
+2599	Rance	真剣	「……ところでムシ共は何やっとったんじゃ」	「...By the way, what were those bugs doing?」
 
-2600	Caloria Cricket	「あ……」	「Ah...」
+2600	Caloria Cricket	基本	「あ……」	「Ah...」
 
-2601	Caloria Cricket	「寝かされとったんじゃああああ！	「We were put to sleep ahhhh!
-2602	+	　うおおおおおおおぉ！　カロリア〜〜」	　Uoooooh! Caloria~~~」
+2601	Caloria Cricket		「寝かされとったんじゃああああ！	「We were put to sleep ahhhh!
+2602	+		　うおおおおおおおぉ！　カロリア〜〜」	　Uoooooh! Caloria~~~」
 
-2603	Caloria Cricket	「……ってじいさまが騒ぐから。	「...Because the old man was making noise.
-2604	+	　今まで大人しくさせてたんだけどねぇ」	　We were staying quiet until now.」
+2603	Caloria Cricket		「……ってじいさまが騒ぐから。	「...Because the old man was making noise.
+2604	+		　今まで大人しくさせてたんだけどねぇ」	　We were staying quiet until now.」
 
-2605	Caloria Cricket	「うっ、うっ、一生の不覚だぜ……」	「Ugh, ugh, the mistake of a lifetime...」
+2605	Caloria Cricket		「うっ、うっ、一生の不覚だぜ……」	「Ugh, ugh, the mistake of a lifetime...」
 
-2606	Caloria Cricket	「カロリア〜〜。火、吹けなかった……ぼうぼう」	「Caloria~~~. Couldn't breathe fire... boobooboo.」
+2606	Caloria Cricket		「カロリア〜〜。火、吹けなかった……ぼうぼう」	「Caloria~~~. Couldn't breathe fire... boobooboo.」
 
-2607	Rance	「……一気にうるさくなったな」	「...They suddenly got loud.」
+2607	Rance	だる顔	「……一気にうるさくなったな」	「...They suddenly got loud.」
 
-2608	Caloria Cricket	「いいの。これがかろの、普通」	「It's fine. This is normal for Caloria.」
+2608	Caloria Cricket	基本	「いいの。これがかろの、普通」	「It's fine. This is normal for Caloria.」

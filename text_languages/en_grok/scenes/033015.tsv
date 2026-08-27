@@ -4,39 +4,39 @@
 * Lelikov Helman	レリコフ２	Female
 
 > male
-193257	Hero Helman	「あ、＜エール＞にーちゃんだ。	「Ah, it's ＜エール＞-nii-chan.
-193258	+	　レリコフに何かご用事？」	　Do you need something with Lelikov?」
+193257	Hero Helman	基本	「あ、＜エール＞にーちゃんだ。	「Ah, it's ＜エール＞-nii-chan.
+193258	+		　レリコフに何かご用事？」	　Do you need something with Lelikov?」
 
 > female
-193259	Hero Helman	「あ、＜エール＞ねーちゃんだ。	「Ah, it's ＜エール＞-nee-chan.
-193260	+	　レリコフに何かご用事？」	　Do you need something with Lelikov?」
+193259	Hero Helman		「あ、＜エール＞ねーちゃんだ。	「Ah, it's ＜エール＞-nee-chan.
+193260	+		　レリコフに何かご用事？」	　Do you need something with Lelikov?」
 
 > end
-193261	El Mofus	「…………。」	「............」
+193261	El Mofus		「…………。」	「............」
 
-193262	Hero Helman	「？　どーしたの？」	「? What's wrong?」
+193262	Hero Helman		「？　どーしたの？」	「? What's wrong?」
 
-193263	-	くりっとヒーローが小首を傾げる。	Hero tilted her head cutely.
+193263	-		くりっとヒーローが小首を傾げる。	Hero tilted her head cutely.
 
-193264	-	　	　
-193265	+	　　＜きゅっ……＞	　　<Squeeze...>
+193264	-		　	　
+193265	+		　　＜きゅっ……＞	　　<Squeeze...>
 
-193266	Hero Helman	「ふがっ……？」	「Fuga...?」
+193266	Hero Helman		「ふがっ……？」	「Fuga...?」
 
-193267	-	あなたはヒーローの鼻をなんとなく掴んだ。	You randomly grabbed Hero's nose.
+193267	-		あなたはヒーローの鼻をなんとなく掴んだ。	You randomly grabbed Hero's nose.
 
-193268	Hero Helman	「ん〜〜……なぁに？」	「Nnn... what?」
+193268	Hero Helman		「ん〜〜……なぁに？」	「Nnn... what?」
 
-193269	El Mofus	「…………。」	「............」
+193269	El Mofus		「…………。」	「............」
 
-193270	Hero Helman	「う〜〜〜、離してよ〜……」	「Uuuu, let go~...」
+193270	Hero Helman		「う〜〜〜、離してよ〜……」	「Uuuu, let go~...」
 
-193271	-	ヒーローがやんやんと首をかすかに振るが、	Hero shook her head slightly,
-193272	+	あなたはなんとなく掴み続けた。	but you kept holding on.
-193273	+	それはとても楽しいことのような気がした。	It felt strangely fun.
+193271	-		ヒーローがやんやんと首をかすかに振るが、	Hero shook her head slightly,
+193272	+		あなたはなんとなく掴み続けた。	but you kept holding on.
+193273	+		それはとても楽しいことのような気がした。	It felt strangely fun.
 
-193274	Lelikov Helman	「あーっ、ふたりが仲良しさんしてる！」	「Ah, you two are getting along!」
+193274	Lelikov Helman		「あーっ、ふたりが仲良しさんしてる！」	「Ah, you two are getting along!」
 
-193275	Hero Helman	「う〜〜〜、助けてよぉ、レリコフー」	「Uuuu, help me, Lelikov~」
+193275	Hero Helman		「う〜〜〜、助けてよぉ、レリコフー」	「Uuuu, help me, Lelikov~」
 
-193276	-	あなたはとても満足した。	You felt very satisfied.
+193276	-		あなたはとても満足した。	You felt very satisfied.

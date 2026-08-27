@@ -9,162 +9,162 @@
 * Blue Monster Soldier	汎用魔物兵青	Male
 * Green Monster Soldier	汎用魔物兵緑	Male
 
-176049	-	ランス城の玉座に一人の男が腰を下ろしていた。	A man sat upon the throne of Rance Castle.
+176049	-		ランス城の玉座に一人の男が腰を下ろしていた。	A man sat upon the throne of Rance Castle.
 
-176050	-	それだけならば、なんら不思議ではない光景。	That alone would not be strange.
-176051	+	だが、今は普段とまったく違うものがあった。	But now, everything was completely different.
+176050	-		それだけならば、なんら不思議ではない光景。	That alone would not be strange.
+176051	+		だが、今は普段とまったく違うものがあった。	But now, everything was completely different.
 
-176052	-	一つ目に、その場に奴隷のシィルがいないこと。	First, Sill the slave was nowhere to be seen.
+176052	-		一つ目に、その場に奴隷のシィルがいないこと。	First, Sill the slave was nowhere to be seen.
 
-176053	-	二つ目に、玉座の間にはズラリと	Second, the throne room was lined up with
-176054	+	魔物界の重鎮達が居並んでいること。	important figures from the Monster Realm.
+176053	-		二つ目に、玉座の間にはズラリと	Second, the throne room was lined up with
+176054	+		魔物界の重鎮達が居並んでいること。	important figures from the Monster Realm.
 
-176055	-	そして――	And――
+176055	-		そして――	And――
 
-176056	Satella	「…………」	「............」
+176056	Satella	基本	「…………」	「............」
 
-176057	Hornet	「…………」	「............」
+176057	Hornet		「…………」	「............」
 
-176058	-	三つ目に、魔人がかしずいていることだった。	Third, the Fiends were kneeling in reverence.
+176058	-		三つ目に、魔人がかしずいていることだった。	Third, the Fiends were kneeling in reverence.
 
-176059	-	魔物達の中から一匹のアカメ――	From among the monsters, one red-eyed――
-176060	+	学者が前に出る。	scholar stepped forward.
+176059	-		魔物達の中から一匹のアカメ――	From among the monsters, one red-eyed――
+176060	+		学者が前に出る。	scholar stepped forward.
 
-176061	Scholar	「新たな我らが王――	「Our new king――
-176062	+	　その誕生を、皆を代表して	　On behalf of everyone here,
-176063	+	　心よりお祝い申し上げます」	　I offer my heartfelt congratulations on your birth.」
+176061	Scholar		「新たな我らが王――	「Our new king――
+176062	+		　その誕生を、皆を代表して	　On behalf of everyone here,
+176063	+		　心よりお祝い申し上げます」	　I offer my heartfelt congratulations on your birth.」
 
-176064	Scholar	「本日をもって……	「From this day forward...
-176065	+	　我ら魔に属する全ての生き物は、	　All creatures belonging to the demon side
-176066	+	　貴方に忠誠を誓う、貴方のしもべとなりました」	　have become your loyal servants who swear allegiance to you.」
+176064	Scholar		「本日をもって……	「From this day forward...
+176065	+		　我ら魔に属する全ての生き物は、	　All creatures belonging to the demon side
+176066	+		　貴方に忠誠を誓う、貴方のしもべとなりました」	　have become your loyal servants who swear allegiance to you.」
 
-176067	-	学者が、その新たな主に向けて顔を上げる。	The scholar raised his face toward his new master.
+176067	-		学者が、その新たな主に向けて顔を上げる。	The scholar raised his face toward his new master.
 
-176068	Scholar	「――魔王ランスよ」	「――Demon King Rance.」
+176068	Scholar		「――魔王ランスよ」	「――Demon King Rance.」
 
-176069	Rance	「うむ」	「Indeed.」
+176069	Rance	真剣	「うむ」	「Indeed.」
 
-176070	-	人をやめ、魔王となったランスが、	Having cast aside his humanity and become the Demon King, Rance
-176071	+	学者の言葉に鷹揚に頷く。	nodded magnanimously to the scholar’s words.
+176070	-		人をやめ、魔王となったランスが、	Having cast aside his humanity and become the Demon King, Rance
+176071	+		学者の言葉に鷹揚に頷く。	nodded magnanimously to the scholar’s words.
 
-176072	Rance	「これが魔王の力、か……」	「So this is the power of the Demon King...」
+176072	Rance		「これが魔王の力、か……」	「So this is the power of the Demon King...」
 
-176073	Rance	「悪くない」	「Not bad at all.」
+176073	Rance		「悪くない」	「Not bad at all.」
 
-176074	Scholar	「時に魔王様……	「By the way, Demon King...
-176075	+	　反逆者ケイブリスが起こした戦争は、	　The war started by the traitor Kayblis
-176076	+	　人間だった頃のランス様の勝利で終わりました」	　ended in victory for Rance-sama while he was still human.」
+176074	Scholar	基本	「時に魔王様……	「By the way, Demon King...
+176075	+		　反逆者ケイブリスが起こした戦争は、	　The war started by the traitor Kayblis
+176076	+		　人間だった頃のランス様の勝利で終わりました」	　ended in victory for Rance-sama while he was still human.」
 
-176077	Scholar	「しかし、今やランス様は我ら魔物の長」	「However, Rance-sama is now the leader of us monsters.」
+176077	Scholar		「しかし、今やランス様は我ら魔物の長」	「However, Rance-sama is now the leader of us monsters.」
 
-176078	Scholar	「そして、魔と人の間に結ばれた	「And the ceasefire agreement between demons and humans
-176079	+	　終戦協定などまったく意味なきこと……」	　has now lost all meaning...」
+176078	Scholar		「そして、魔と人の間に結ばれた	「And the ceasefire agreement between demons and humans
+176079	+		　終戦協定などまったく意味なきこと……」	　has now lost all meaning...」
 
-176080	Rance	「何が言いたい？」	「What are you getting at?」
+176080	Rance		「何が言いたい？」	「What are you getting at?」
 
-176081	Scholar	「いかがでしょう、今すぐ皆に	「How about it? Why not order everyone right now
-176082	+	　人間界に攻め込めと命じるのは」	　to invade the human realm?」
+176081	Scholar		「いかがでしょう、今すぐ皆に	「How about it? Why not order everyone right now
+176082	+		　人間界に攻め込めと命じるのは」	　to invade the human realm?」
 
-176083	Rance	「ほう？」	「Oh?」
+176083	Rance		「ほう？」	「Oh?」
 
-176084	Scholar	「魔と人の戦い。	「The battle between demons and humans.
-176085	+	　これこそ魔物の本懐にして幸福」	　This is the true desire and happiness of all monsters.」
+176084	Scholar		「魔と人の戦い。	「The battle between demons and humans.
+176085	+		　これこそ魔物の本懐にして幸福」	　This is the true desire and happiness of all monsters.」
 
-176086	Scholar	「我ら、必ずや人間共を殲滅し、	「We vow to annihilate the humans completely
-176087	+	　魔王様の前に全てを持ち帰ることを	　and bring everything before you, Demon King.
-176088	+	　約束しましょう」	　We promise.」
+176086	Scholar		「我ら、必ずや人間共を殲滅し、	「We vow to annihilate the humans completely
+176087	+		　魔王様の前に全てを持ち帰ることを	　and bring everything before you, Demon King.
+176088	+		　約束しましょう」	　We promise.」
 
-176089	Scholar	「金品で、美食で、そして――美女で、	「With treasures, delicacies, and――beautiful women,
-176090	+	　この城を埋め尽くしてみせましょう」	　we will fill this castle to the brim.」
+176089	Scholar		「金品で、美食で、そして――美女で、	「With treasures, delicacies, and――beautiful women,
+176090	+		　この城を埋め尽くしてみせましょう」	　we will fill this castle to the brim.」
 
-176091	Rance	「ふん、美女で埋め尽くす、ね……」	「Hmph, fill it with beautiful women, huh...」
+176091	Rance	真剣	「ふん、美女で埋め尽くす、ね……」	「Hmph, fill it with beautiful women, huh...」
 
-176092	-	玉座の間に居並ぶ魔物達が、	The monsters lined up in the throne room
-176093	+	魔王ランスの次なる言葉を期待に満ちて待つ。	waited with anticipation for Demon King Rance’s next words.
+176092	-		玉座の間に居並ぶ魔物達が、	The monsters lined up in the throne room
+176093	+		魔王ランスの次なる言葉を期待に満ちて待つ。	waited with anticipation for Demon King Rance’s next words.
 
-176094	Monster General	「いや、しかし……	「Well, however...
-176095	+	　魔物側の敗北が決定した時は慌てたが、	　We panicked when our side’s defeat seemed certain,
-176096	+	　まさかこのような形になるとはな……」	　but never expected it to turn out like this...
+176094	Monster General	基本	「いや、しかし……	「Well, however...
+176095	+		　魔物側の敗北が決定した時は慌てたが、	　We panicked when our side’s defeat seemed certain,
+176096	+		　まさかこのような形になるとはな……」	　but never expected it to turn out like this...
 
-176097	Monster General	「新たなる魔王様か……	「A new Demon King...
-176098	+	　ケイブリスの下よりは楽しめそうだ」	　This seems way more fun than under Kayblis.」
+176097	Monster General		「新たなる魔王様か……	「A new Demon King...
+176098	+		　ケイブリスの下よりは楽しめそうだ」	　This seems way more fun than under Kayblis.」
 
-176099	Monster Captain	「聞けば魔王様は人間の頃より、	「I heard that even as a human, the Demon King
-176100	+	　刃向かう者は殺す、女は犯す、	　killed anyone who opposed him and fucked any woman he wanted,
-176101	+	　鬼畜、邪悪で名を馳せたらしいぞ」	　famous as a brutal, evil bastard.」
+176099	Monster Captain		「聞けば魔王様は人間の頃より、	「I heard that even as a human, the Demon King
+176100	+		　刃向かう者は殺す、女は犯す、	　killed anyone who opposed him and fucked any woman he wanted,
+176101	+		　鬼畜、邪悪で名を馳せたらしいぞ」	　famous as a brutal, evil bastard.」
 
-176102	Red Monster Soldier	「それがまことなら素晴らしい……	「If that’s true, it’s wonderful...
-176103	+	　我ら魔物の王に相応しいではありませんか」	　He’s truly worthy of being our monster king.」
+176102	Red Monster Soldier		「それがまことなら素晴らしい……	「If that’s true, it’s wonderful...
+176103	+		　我ら魔物の王に相応しいではありませんか」	　He’s truly worthy of being our monster king.」
 
-176104	Monster General	「人間だった頃より、	「Even as a human he
-176105	+	　サテラ様を始めとする数名の魔人を従え、	　subjugated several Fiends including Satella-sama
-176106	+	　何体もの魔人を倒してきた……」	　and defeated many others...」
+176104	Monster General		「人間だった頃より、	「Even as a human he
+176105	+		　サテラ様を始めとする数名の魔人を従え、	　subjugated several Fiends including Satella-sama
+176106	+		　何体もの魔人を倒してきた……」	　and defeated many others...」
 
-176107	Monster General	「このような偉業、歴史上で初。	「Such achievements are unprecedented in history.
-176108	+	　まさしく歴代最強、魔王になるべくして	　He is truly the strongest of all time, born to be the Demon King.
-176109	+	　この世に現れたお方と言ってもいい」	　One could say he appeared in this world for that very purpose.」
+176107	Monster General		「このような偉業、歴史上で初。	「Such achievements are unprecedented in history.
+176108	+		　まさしく歴代最強、魔王になるべくして	　He is truly the strongest of all time, born to be the Demon King.
+176109	+		　この世に現れたお方と言ってもいい」	　One could say he appeared in this world for that very purpose.」
 
-176110	Red Monster Soldier	「おお、素晴らしい……」	「Ohh, magnificent...」
+176110	Red Monster Soldier		「おお、素晴らしい……」	「Ohh, magnificent...」
 
-176111	Blue Monster Soldier	「そのような方と共に、	「To walk alongside such a person
-176112	+	　魔物の黄金時代を歩めるとは……」	　into a golden age for monsters...」
+176111	Blue Monster Soldier		「そのような方と共に、	「To walk alongside such a person
+176112	+		　魔物の黄金時代を歩めるとは……」	　into a golden age for monsters...」
 
-176113	Green Monster Soldier	「ああ……早く、早く……	「Ahh... hurry, hurry...
-176114	+	　人間界にまた攻め込みたい……」	　I want to invade the human realm again...」
+176113	Green Monster Soldier		「ああ……早く、早く……	「Ahh... hurry, hurry...
+176114	+		　人間界にまた攻め込みたい……」	　I want to invade the human realm again...」
 
-176115	Rance	「…………」	「............」
+176115	Rance	真剣	「…………」	「............」
 
-176116	-	ひそひそと囁き合う魔物達を、	Rance looked over the whispering monsters
-176117	+	ランスが見渡し、一度頷いた。	and nodded once.
+176116	-		ひそひそと囁き合う魔物達を、	Rance looked over the whispering monsters
+176117	+		ランスが見渡し、一度頷いた。	and nodded once.
 
-176118	Rance	「よし……」	「Alright...」
+176118	Rance		「よし……」	「Alright...」
 
-176119	Rance	「では、新魔王として全魔物に命じる」	「As the new Demon King, I command all monsters.」
+176119	Rance		「では、新魔王として全魔物に命じる」	「As the new Demon King, I command all monsters.」
 
-176120	-	その場にいる全ての魔物に緊張が走る。	Tension ran through every monster present.
-176121	+	しかし、そこに嫌な感覚はない。	Yet there was no unpleasant feeling.
+176120	-		その場にいる全ての魔物に緊張が走る。	Tension ran through every monster present.
+176121	+		しかし、そこに嫌な感覚はない。	Yet there was no unpleasant feeling.
 
-176122	-	新たな魔王が最初に何を命じるのか期待を膨らませ、	They swelled with expectation for their new Demon King’s first command,
-176123	+	そんな記念すべき場に居合わせたことに、	feeling a surge of excitement
-176124	+	高揚にも似た感情を抱く。	at being part of this historic moment.
+176122	-		新たな魔王が最初に何を命じるのか期待を膨らませ、	They swelled with expectation for their new Demon King’s first command,
+176123	+		そんな記念すべき場に居合わせたことに、	feeling a surge of excitement
+176124	+		高揚にも似た感情を抱く。	at being part of this historic moment.
 
-176125	Rance	「まず、俺が魔王となった以上、	「First, now that I am the Demon King,
-176126	+	　絶対のルールを一つ設ける。	　I establish one absolute rule.
-176127	+	　それはなにかと言うと……――」	　And that is...――」
+176125	Rance		「まず、俺が魔王となった以上、	「First, now that I am the Demon King,
+176126	+		　絶対のルールを一つ設ける。	　I establish one absolute rule.
+176127	+		　それはなにかと言うと……――」	　And that is...――」
 
-176128	Rance	「人間も魔物も問わず、	「Whether human or monster,
-176129	+	　この世の美女はぜーんぶ俺様のものってことだ！」	　all the beautiful women in this world belong to me!」
+176128	Rance	怒り	「人間も魔物も問わず、	「Whether human or monster,
+176129	+		　この世の美女はぜーんぶ俺様のものってことだ！」	　all the beautiful women in this world belong to me!」
 
-176130	Rance	「よって！	「Therefore!
-176131	+	　てめぇらの略奪や戦争行為、一切を禁じる！」	　I forbid all of you from pillaging or waging war!」
+176130	Rance	基本	「よって！	「Therefore!
+176131	+		　てめぇらの略奪や戦争行為、一切を禁じる！」	　I forbid all of you from pillaging or waging war!」
 
-176132	Rance	「全員、魔物界の奥地に引っ込んでるように！」	「Everyone, retreat deep into the Monster Realm!」
+176132	Rance		「全員、魔物界の奥地に引っ込んでるように！」	「Everyone, retreat deep into the Monster Realm!」
 
-176133	Rance	「以上だー！」	「That’s allー!」
+176133	Rance	笑顔	「以上だー！」	「That’s allー!」
 
-176134	Green Monster Soldier	「えーーーーーっ！？！？！？」	「Ehhhhhhh!?」
+176134	Green Monster Soldier	基本	「えーーーーーっ！？！？！？」	「Ehhhhhhh!?」
 
-176135	Green Monster Soldier	「あ、ああ……	「Ah, ahh...
-176136	+	　せっかく大戦争が始まると思ったのに……」	　I thought a huge war was finally starting...」
+176135	Green Monster Soldier		「あ、ああ……	「Ah, ahh...
+176136	+		　せっかく大戦争が始まると思ったのに……」	　I thought a huge war was finally starting...」
 
-176137	Red Monster Soldier	「今度の魔王様は……	「This new Demon King...
-176138	+	　そういう方だったかぁ……」	　is that kind of guy, huh...」
+176137	Red Monster Soldier		「今度の魔王様は……	「This new Demon King...
+176138	+		　そういう方だったかぁ……」	　is that kind of guy, huh...」
 
-176139	Rance	「がははははははは！	「Gahahahahahaha!
-176140	+	　みんなびっくりしてる、びっくりしてる！」	　Everyone’s so surprised, so surprised!」
+176139	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+176140	+		　みんなびっくりしてる、びっくりしてる！」	　Everyone’s so surprised, so surprised!」
 
-176141	Rance	「うむ！　これでよし！」	「Yeah! Perfect!」
+176141	Rance		「うむ！　これでよし！」	「Yeah! Perfect!」
 
-176142	Rance	「おいアカメ、ここは世界の頂点か？」	「Hey red-eyes, is this the top of the world?」
+176142	Rance	基本	「おいアカメ、ここは世界の頂点か？」	「Hey red-eyes, is this the top of the world?」
 
-176143	Scholar	「はい、今、貴方がおられる場所が、	「Yes, the place where you now sit
-176144	+	　貴方がこれまでの行いで上り詰めた場所」	　is the pinnacle you have reached through all your deeds.」
+176143	Scholar		「はい、今、貴方がおられる場所が、	「Yes, the place where you now sit
+176144	+		　貴方がこれまでの行いで上り詰めた場所」	　is the pinnacle you have reached through all your deeds.」
 
-176145	Scholar	「この地上に、	「On this earth,
-176146	+	　今の貴方より偉い者はいません」	　there is no one greater than you.」
+176145	Scholar		「この地上に、	「On this earth,
+176146	+		　今の貴方より偉い者はいません」	　there is no one greater than you.」
 
-176147	Rance	「そうだ！	「That’s right!
-176148	+	　俺が世界で、もっとも偉い男！」	　I am the greatest man in the world!」
+176147	Rance	笑顔	「そうだ！	「That’s right!
+176148	+		　俺が世界で、もっとも偉い男！」	　I am the greatest man in the world!」
 
-176149	Rance	「俺様、いっちばーーーーん！	「I’m numbeeeeer one!
-176150	+	　がははははははははははは！」	　Gahahahahahahahaha!」
+176149	Rance		「俺様、いっちばーーーーん！	「I’m numbeeeeer one!
+176150	+		　がははははははははははは！」	　Gahahahahahahahaha!」

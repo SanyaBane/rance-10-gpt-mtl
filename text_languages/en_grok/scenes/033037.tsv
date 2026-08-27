@@ -3,126 +3,126 @@
 * Old Man	汎用爺	Male
 * El Mofus	エール２	Player's choice
 
-195155	-	とっぷりと日が暮れ、	The sun had completely set,
-195156	+	トト村は夜のとばりに包まれていた。	and Toto Village was enveloped in the darkness of night.
+195155	-		とっぷりと日が暮れ、	The sun had completely set,
+195156	+		トト村は夜のとばりに包まれていた。	and Toto Village was enveloped in the darkness of night.
 
-195157	-	あなた達は村長の家でお風呂を借り、	You borrowed a bath at the chief's house
-195158	+	食事をいただいた。	and had a meal.
+195157	-		あなた達は村長の家でお風呂を借り、	You borrowed a bath at the chief's house
+195158	+		食事をいただいた。	and had a meal.
 
-195159	-	どれも贅が尽くされてるとはとても言えないが、	It wasn't exactly luxurious,
-195160	+	家庭的なもてなしに大いに癒やされた。	but the warm, homey hospitality healed you greatly.
+195159	-		どれも贅が尽くされてるとはとても言えないが、	It wasn't exactly luxurious,
+195160	+		家庭的なもてなしに大いに癒やされた。	but the warm, homey hospitality healed you greatly.
 
-195161	-	食後に出された	After the meal, you took a sip
-195162	+	砂糖がたっぷり入ったコーヒーを一口飲むと、	of the heavily sugared coffee,
-195163	+	それまでの疲れが溶けていくようだった。	and all the fatigue from the day seemed to melt away.
+195161	-		食後に出された	After the meal, you took a sip
+195162	+		砂糖がたっぷり入ったコーヒーを一口飲むと、	of the heavily sugared coffee,
+195163	+		それまでの疲れが溶けていくようだった。	and all the fatigue from the day seemed to melt away.
 
-195164	Nagata-kun	「ぷはー、うまー」	「Pwah, delicious.」
+195164	Nagata-kun	基本	「ぷはー、うまー」	「Pwah, delicious.」
 
-195165	Nagata-kun	「いやー、なんか悪いなー。	「Man, I feel bad.
-195166	+	　タダでこんなしてもらっちゃって。	　Getting all this for free.
-195167	+	　ガチ感謝っすよ」	　I'm seriously grateful.」
+195165	Nagata-kun		「いやー、なんか悪いなー。	「Man, I feel bad.
+195166	+		　タダでこんなしてもらっちゃって。	　Getting all this for free.
+195167	+		　ガチ感謝っすよ」	　I'm seriously grateful.」
 
-195168	Old Man	「いやいや、ほっほっ……	「No no, hoh ho...
-195169	+	　大したお構いも出来ませんで……」	　I couldn't offer much...」
+195168	Old Man		「いやいや、ほっほっ……	「No no, hoh ho...
+195169	+		　大したお構いも出来ませんで……」	　I couldn't offer much...」
 
-195170	Nagata-kun	「ところで村長さんはアレ？　独身？」	「By the way, Chief, are you single?」
+195170	Nagata-kun		「ところで村長さんはアレ？　独身？」	「By the way, Chief, are you single?」
 
-195171	Old Man	「妻は数年前に先立たれましてのう」	「My wife passed away a few years ago.」
+195171	Old Man		「妻は数年前に先立たれましてのう」	「My wife passed away a few years ago.」
 
-195172	Nagata-kun	「ありゃ」	「Oh dear.」
+195172	Nagata-kun		「ありゃ」	「Oh dear.」
 
-195173	Old Man	「……娘がいたのですが」	「...I had a daughter.」
+195173	Old Man		「……娘がいたのですが」	「...I had a daughter.」
 
-195174	Nagata-kun	「いたのですが？」	「Had?」
+195174	Nagata-kun		「いたのですが？」	「Had?」
 
-195175	Old Man	「…………」	「............」
+195175	Old Man		「…………」	「............」
 
-195176	Old Man	「二ヶ月前にさらわれました」	「She was taken two months ago.」
+195176	Old Man		「二ヶ月前にさらわれました」	「She was taken two months ago.」
 
-195177	Nagata-kun	「さらわれた！？」	「Taken!?」
+195177	Nagata-kun		「さらわれた！？」	「Taken!?」
 
-195178	Old Man	「…………」	「............」
+195178	Old Man		「…………」	「............」
 
-195179	-	シワだらけの顔を苦渋に歪ませ、	With a face full of wrinkles twisted in anguish,
-195180	+	村長は重々しく頷いた。	the chief nodded heavily.
+195179	-		シワだらけの顔を苦渋に歪ませ、	With a face full of wrinkles twisted in anguish,
+195180	+		村長は重々しく頷いた。	the chief nodded heavily.
 
-195181	Old Man	「もしかしたら、皆様もすれ違ったかも知れません。	「You may have passed by them as well.
-195182	+	　村に来ていたあのうし車」	　That ox cart that came to the village.」
+195181	Old Man		「もしかしたら、皆様もすれ違ったかも知れません。	「You may have passed by them as well.
+195182	+		　村に来ていたあのうし車」	　That ox cart that came to the village.」
 
-195183	Nagata-kun	「ああ、あの俺を轢いた」	「Ah, the one that ran me over.」
+195183	Nagata-kun		「ああ、あの俺を轢いた」	「Ah, the one that ran me over.」
 
-195184	Old Man	「奴らはこの近くの迷宮に根を張る山賊でして……	「They are bandits based in a nearby labyrinth...
-195185	+	　私の娘、クリーミンは奴らに……」	　My daughter, Creamy, was taken by them...」
+195184	Old Man		「奴らはこの近くの迷宮に根を張る山賊でして……	「They are bandits based in a nearby labyrinth...
+195185	+		　私の娘、クリーミンは奴らに……」	　My daughter, Creamy, was taken by them...」
 
-195186	Nagata-kun	「あいつらやっぱ山賊だったのか……	「So they really were bandits...
-195187	+	　道理でガラが悪いと思ったよ」	　No wonder they looked so shady.」
+195186	Nagata-kun		「あいつらやっぱ山賊だったのか……	「So they really were bandits...
+195187	+		　道理でガラが悪いと思ったよ」	　No wonder they looked so shady.」
 
-195188	Old Man	「半年ほど前からこの村を襲うようになりました。	「They started attacking this village about half a year ago.
-195189	+	　最初こそ抵抗しましたが、ただの村人では、	　At first we resisted, but as mere villagers,
-195190	+	　奴らにはとても歯が立たず……」	　we stood no chance against them...」
+195188	Old Man		「半年ほど前からこの村を襲うようになりました。	「They started attacking this village about half a year ago.
+195189	+		　最初こそ抵抗しましたが、ただの村人では、	　At first we resisted, but as mere villagers,
+195190	+		　奴らにはとても歯が立たず……」	　we stood no chance against them...」
 
-195191	Old Man	「奴らは月に一度襲ってきては、	「They attack once a month,
-195192	+	　食料と金品、そして若い娘を一人さらいます」	　stealing food, valuables, and one young girl each time.」
+195191	Old Man		「奴らは月に一度襲ってきては、	「They attack once a month,
+195192	+		　食料と金品、そして若い娘を一人さらいます」	　stealing food, valuables, and one young girl each time.」
 
-195193	Old Man	「おそらく我々に寄生するつもりなのでしょう……」	「They probably intend to leech off us...」
+195193	Old Man		「おそらく我々に寄生するつもりなのでしょう……」	「They probably intend to leech off us...」
 
-195194	Old Man	「今では奴らが来ても、	「Now, even when they come,
-195195	+	　我らに抵抗する力も気力もなく……	　we have neither the strength nor the will to resist...
-195196	+	　ただ奪われていくだけの日々……」	　We just get robbed day after day...」
+195194	Old Man		「今では奴らが来ても、	「Now, even when they come,
+195195	+		　我らに抵抗する力も気力もなく……	　we have neither the strength nor the will to resist...
+195196	+		　ただ奪われていくだけの日々……」	　We just get robbed day after day...」
 
-195197	Old Man	「うう、儂の娘はどうなったことか……」	「Uuu, what has become of my daughter...」
+195197	Old Man		「うう、儂の娘はどうなったことか……」	「Uuu, what has become of my daughter...」
 
-195198	Nagata-kun	「ちょ……ひでぇ話……」	「That's... a horrible story...」
+195198	Nagata-kun		「ちょ……ひでぇ話……」	「That's... a horrible story...」
 
-195199	Old Man	「旅人様！	「Travelers!
-195200	+	　どうか！　どうかお願いします！」	　Please! I beg you!」
+195199	Old Man		「旅人様！	「Travelers!
+195200	+		　どうか！　どうかお願いします！」	　Please! I beg you!」
 
-195201	Nagata-kun	「え、ちょっ！？」	「Eh, wait!?」
+195201	Nagata-kun		「え、ちょっ！？」	「Eh, wait!?」
 
-195202	-	村長はその場で、	The chief prostrated himself right there,
-195203	+	額を擦りつける勢いで土下座した。	pressing his forehead to the ground.
+195202	-		村長はその場で、	The chief prostrated himself right there,
+195203	+		額を擦りつける勢いで土下座した。	pressing his forehead to the ground.
 
-195204	Old Man	「私達ただの村人では敵いませんが……	「We ordinary villagers cannot defeat them...
-195205	+	　見たところ貴方は中々の強さのご様子！」	　But you look quite strong!」
+195204	Old Man		「私達ただの村人では敵いませんが……	「We ordinary villagers cannot defeat them...
+195205	+		　見たところ貴方は中々の強さのご様子！」	　But you look quite strong!」
 
-195206	Old Man	「どうか山賊を倒してきては下さいませんか！？」	「Please, could you defeat the bandits!?」
+195206	Old Man		「どうか山賊を倒してきては下さいませんか！？」	「Please, could you defeat the bandits!?」
 
-195207	Old Man	「どうか！　どうか！」	「Please! Please!」
+195207	Old Man		「どうか！　どうか！」	「Please! Please!」
 
-195208	-	村長は何度も何度も頭を下げた。	The chief bowed his head over and over.
+195208	-		村長は何度も何度も頭を下げた。	The chief bowed his head over and over.
 
-195209	El Mofus	「…………。」	「............」
+195209	El Mofus		「…………。」	「............」
 
-195210	Nagata-kun	「え、どうする、＜エール＞？」	「Eh, what do you want to do, ＜エール＞?」
+195210	Nagata-kun		「え、どうする、＜エール＞？」	「Eh, what do you want to do, ＜エール＞?」
 
-195211	-	反応に困っている顔で、	With a troubled look,
-195212	+	長田君があなたを窺う。	Nagata-kun glanced at you.
+195211	-		反応に困っている顔で、	With a troubled look,
+195212	+		長田君があなたを窺う。	Nagata-kun glanced at you.
 
-195213	Nagata-kun	「いや、うーん、でもまあ……	「Well, hmm, but I guess...
-195214	+	　いんじゃね？」	　we could, right?」
+195213	Nagata-kun		「いや、うーん、でもまあ……	「Well, hmm, but I guess...
+195214	+		　いんじゃね？」	　we could, right?」
 
-195215	Nagata-kun	「だってよ、＜エール＞マジ強くね？	「I mean, you're seriously strong, ＜エール＞.
-195216	+	　山賊団くらい楽勝じゃね！？」	　A bandit gang should be easy!」
+195215	Nagata-kun		「だってよ、＜エール＞マジ強くね？	「I mean, you're seriously strong, ＜エール＞.
+195216	+		　山賊団くらい楽勝じゃね！？」	　A bandit gang should be easy!」
 
-195217	Nagata-kun	「これだけ世話になって何もしなきゃ、	「After all they've done for us,
-195218	+	　スジが通らないっつーか？」	　it wouldn't be right to do nothing.」
+195217	Nagata-kun		「これだけ世話になって何もしなきゃ、	「After all they've done for us,
+195218	+		　スジが通らないっつーか？」	　it wouldn't be right to do nothing.」
 
-195219	Old Man	「あの……では？」	「Um... so?」
+195219	Old Man		「あの……では？」	「Um... so?」
 
-195220	El Mofus	「…………。」	「............」
-195221	Old Man	「おおっ、なんと勇ましい！」	「Ohh, how brave!」
+195220	El Mofus		「…………。」	「............」
+195221	Old Man		「おおっ、なんと勇ましい！」	「Ohh, how brave!」
 
-195222	Old Man	「おおっ、なんとお優しい！」	「Ohh, how kind!」
+195222	Old Man		「おおっ、なんとお優しい！」	「Ohh, how kind!」
 
-195223	Old Man	「……お、おお……何か恐ろしい方ですな……」	「...O, oh... You seem rather intimidating...」
+195223	Old Man		「……お、おお……何か恐ろしい方ですな……」	「...O, oh... You seem rather intimidating...」
 
-195224	Old Man	「あ、いや！　なんでもありません！	「Ah, no! It's nothing!
-195225	+	　戦って下さるなら我らとしては文句など！」	　If you will fight for us, we have no complaints!
+195224	Old Man		「あ、いや！　なんでもありません！	「Ah, no! It's nothing!
+195225	+		　戦って下さるなら我らとしては文句など！」	　If you will fight for us, we have no complaints!
 
-195226	Old Man	「ありがとうございます、ありがとうございます！」	「Thank you, thank you!」
+195226	Old Man		「ありがとうございます、ありがとうございます！」	「Thank you, thank you!」
 
-195227	Old Man	「ささ、では今日は早くお休み下さい。	「Now, please rest early tonight.
-195228	+	　すぐに寝床の用意をさせて頂きます！」	　We'll prepare beds right away!」
+195227	Old Man		「ささ、では今日は早くお休み下さい。	「Now, please rest early tonight.
+195228	+		　すぐに寝床の用意をさせて頂きます！」	　We'll prepare beds right away!」
 
-195229	-	あなた達は村長の勧めで、	Following the chief's suggestion,
-195230	+	寝室を借りてぐっすりと眠った。	you borrowed a bedroom and slept soundly.
+195229	-		あなた達は村長の勧めで、	Following the chief's suggestion,
+195230	+		寝室を借りてぐっすりと眠った。	you borrowed a bedroom and slept soundly.

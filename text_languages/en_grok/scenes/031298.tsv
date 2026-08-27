@@ -7,108 +7,108 @@
 * Maria Custard	マリア	Female
 * Crook Mofus	クルックー	Female
 
-65134	Sill Plain	「あっ……」	「Ah...」
+65134	Sill Plain	考え中	「あっ……」	「Ah...」
 
-65135	-	シィルが、上を見上げて不意に声を上げた。	Sill looked up and suddenly let out a voice.
+65135	-		シィルが、上を見上げて不意に声を上げた。	Sill looked up and suddenly let out a voice.
 
-65136	Rance	「なんだ、どうしたシィル」	「What is it, Sill?」
+65136	Rance	真剣	「なんだ、どうしたシィル」	「What is it, Sill?」
 
-65137	Sill Plain	「あ、いえ。また、あの大きいのが……」	「Ah, no. That big one again...」
+65137	Sill Plain	きょとん	「あ、いえ。また、あの大きいのが……」	「Ah, no. That big one again...」
 
-65138	-	パケット達にノートンガツが襲いかかり、	Notongatsu attacked the packets,
-65139	+	食らいついては破壊していく。	biting and destroying them.
+65138	-		パケット達にノートンガツが襲いかかり、	Notongatsu attacked the packets,
+65139	+		食らいついては破壊していく。	biting and destroying them.
 
-65140	Rance	「また奴か。しかし、いちいち叩くのも	「That guy again. But knocking them down one by one
-65141	+	　面倒になってきたが…………ん？」	　is getting annoying... Hm?」
+65140	Rance	真剣	「また奴か。しかし、いちいち叩くのも	「That guy again. But knocking them down one by one
+65141	+		　面倒になってきたが…………ん？」	　is getting annoying... Hm?」
 
-65142	Sill Plain	「どうしました？」	「What's wrong?」
+65142	Sill Plain	基本	「どうしました？」	「What's wrong?」
 
-65143	Rance	「今、襲われずに素通りした奴がいなかったか？」	「Wasn't there one that just passed by without being attacked?」
+65143	Rance	真剣	「今、襲われずに素通りした奴がいなかったか？」	「Wasn't there one that just passed by without being attacked?」
 
-65144	Sill Plain	「え……？」	「Eh...?」
+65144	Sill Plain	きょとん	「え……？」	「Eh...?」
 
-65145	Notongatsu	「……………………」	「........................」
+65145	Notongatsu	基本	「……………………」	「........................」
 
-65146	-	パケットが、ノートンガツの前を素通りしていく。	A packet passed right in front of Notongatsu.
+65146	-		パケットが、ノートンガツの前を素通りしていく。	A packet passed right in front of Notongatsu.
 
-65147	Rance	「それだ！　捕まえろ、カロリア！」	「That's it! Catch it, Caloria!」
+65147	Rance	怒り	「それだ！　捕まえろ、カロリア！」	「That's it! Catch it, Caloria!」
 
-65148	Caloria Cricket	「う、うん！　毒やん！」	「O-Okay! Poison-yan!」
+65148	Caloria Cricket	基本	「う、うん！　毒やん！」	「O-Okay! Poison-yan!」
 
-65149	Caloria Cricket	「あいよっとー」	「Here we go~」
+65149	Caloria Cricket		「あいよっとー」	「Here we go~」
 
-65150	-	カロリアの突きだした右腕から毒ムシの毒やんが	From Caloria's outstretched right arm, Poison-yan the poison bug
-65151	+	飛び出し、毒針を吐き出した。	flew out and shot its poison stinger.
+65150	-		カロリアの突きだした右腕から毒ムシの毒やんが	From Caloria's outstretched right arm, Poison-yan the poison bug
+65151	+		飛び出し、毒針を吐き出した。	flew out and shot its poison stinger.
 
-65152	-	狙いあやまたず突き刺さり、	It hit perfectly without missing,
-65153	+	パケットは身動きが取れずにぽとりと落ちた。	and the packet fell helplessly with a plop.
+65152	-		狙いあやまたず突き刺さり、	It hit perfectly without missing,
+65153	+		パケットは身動きが取れずにぽとりと落ちた。	and the packet fell helplessly with a plop.
 
-65154	Caloria Cricket	「やった、やったよー」	「I did it, I did it~」
+65154	Caloria Cricket		「やった、やったよー」	「I did it, I did it~」
 
-65155	Rance	「よしよしよくやった。飴ちゃんをやろう」	「Good good, well done. Here's a candy.」
+65155	Rance		「よしよしよくやった。飴ちゃんをやろう」	「Good good, well done. Here's a candy.」
 
-65156	Caloria Cricket	「わーい、ころころ」	「Yay, roll roll!」
+65156	Caloria Cricket	笑顔	「わーい、ころころ」	「Yay, roll roll!」
 
-65157	Kentou Kanami	「毒、効くんだ……」	「So poison works on them...」
+65157	Kentou Kanami	基本	「毒、効くんだ……」	「So poison works on them...」
 
-65158	Rance	「よーし、中は、っと……」	「Alright, inside we go...」
+65158	Rance		「よーし、中は、っと……」	「Alright, inside we go...」
 
-65159	Kentou Kanami	「あ。さっきと同じ、鍵付いてる奴ね」	「Ah. Same as before, this one's locked.」
+65159	Kentou Kanami		「あ。さっきと同じ、鍵付いてる奴ね」	「Ah. Same as before, this one's locked.」
 
-65160	Rance	「さっき？」	「Before?」
+65160	Rance	真剣	「さっき？」	「Before?」
 
-65161	Kentou Kanami	「パスワードが必要、っていうの。	「It needs a password.
-65162	+	　あったでしょ」	　There was one, right?」
+65161	Kentou Kanami	基本	「パスワードが必要、っていうの。	「It needs a password.
+65162	+		　あったでしょ」	　There was one, right?」
 
-65163	Rance	「そういえばあったな。	「Now that you mention it, there was.
-65164	+	　どれどれ……っと、く、む、ぐ！	　Let's see... Guh, muh, grr!
-65165	+	　ちっ、やっぱり開かんか……」	　Tch, still won't open...」
+65163	Rance	だる顔	「そういえばあったな。	「Now that you mention it, there was.
+65164	+		　どれどれ……っと、く、む、ぐ！	　Let's see... Guh, muh, grr!
+65165	+		　ちっ、やっぱり開かんか……」	　Tch, still won't open...」
 
-65166	Maria Custard	「パスワードが必要、ってことね……」	「So it needs a password...」
+65166	Maria Custard	基本	「パスワードが必要、ってことね……」	「So it needs a password...」
 
-65167	Rance	「……それ、今打ち込めるのか？」	「...Can you input it now?」
+65167	Rance	真剣	「……それ、今打ち込めるのか？」	「...Can you input it now?」
 
-65168	Maria Custard	「んー、いけると思うけど……	「Hmm, I think I can...
-65169	+	　あ、ここにボタンみたいなのがある。これかな」	　Ah, there's something like buttons here. Maybe this?」
+65168	Maria Custard	基本	「んー、いけると思うけど……	「Hmm, I think I can...
+65169	+		　あ、ここにボタンみたいなのがある。これかな」	　Ah, there's something like buttons here. Maybe this?」
 
-65170	Rance	「適当に入れてみるか」	「Let's try randomly entering something.」
+65170	Rance		「適当に入れてみるか」	「Let's try randomly entering something.」
 
-65171	-	箱に取り付けられているボタンを、	Rance randomly poked
-65172	+	ランスは適当にぽちぽち押す。	the buttons attached to the box.
+65171	-		箱に取り付けられているボタンを、	Rance randomly poked
+65172	+		ランスは適当にぽちぽち押す。	the buttons attached to the box.
 
-65173	Rance	「1234……ダメか。	「1234... No good.
-65174	+	　リーザス、ゼス、ヘルマン……」	　Leazas, Zeth, Helman...」
+65173	Rance	真剣	「1234……ダメか。	「1234... No good.
+65174	+		　リーザス、ゼス、ヘルマン……」	　Leazas, Zeth, Helman...」
 
-65175	Crook Mofus	「ランス。各国の通信なら、	「Rance. For communications between countries,
-65176	+	　パスワードは掛かっていないはずです」	　there shouldn't be a password.」
+65175	Crook Mofus	基本	「ランス。各国の通信なら、	「Rance. For communications between countries,
+65176	+		　パスワードは掛かっていないはずです」	　there shouldn't be a password.」
 
-65177	Rance	「てことは、それ以外の奴の通信ってことか。	「So it's someone else's personal communication.
-65178	+	　個人的にコンピュータ使ってる奴か……」	　Someone using a computer privately...」
+65177	Rance	真剣	「てことは、それ以外の奴の通信ってことか。	「So it's someone else's personal communication.
+65178	+		　個人的にコンピュータ使ってる奴か……」	　Someone using a computer privately...」
 
-65179	Kentou Kanami	「あ。パイアールじゃない！？」	「Ah. What about Pi-R!?」
+65179	Kentou Kanami	基本	「あ。パイアールじゃない！？」	「Ah. What about Pi-R!?」
 
-65180	-	かなみがボタンを操作して、	Kanami operated the buttons
-65181	+	『パイアール』と入力するが……何も起きない。	and entered 'Pi-R'... but nothing happened.
+65180	-		かなみがボタンを操作して、	Kanami operated the buttons
+65181	+		『パイアール』と入力するが……何も起きない。	and entered 'Pi-R'... but nothing happened.
 
-65182	Kentou Kanami	「う、はずれかぁ……」	「Ugh, wrong...」
+65182	Kentou Kanami	泣き	「う、はずれかぁ……」	「Ugh, wrong...」
 
-65183	Maria Custard	「自分の名前をパスワードにするとは限らないけど、	「Not everyone uses their own name as password, but
-65184	+	　それでも…………」	　still...」
+65183	Maria Custard	基本	「自分の名前をパスワードにするとは限らないけど、	「Not everyone uses their own name as password, but
+65184	+		　それでも…………」	　still...」
 
-65185	Rance	「…………ん？　そうだ。あのクソガキには	「............Hm? That's right. That shitty brat had
-65186	+	　美人の姉貴がいたではないか」	　a beautiful older sister.」
+65185	Rance	真剣	「…………ん？　そうだ。あのクソガキには	「............Hm? That's right. That shitty brat had
+65186	+		　美人の姉貴がいたではないか」	　a beautiful older sister.」
 
-65187	Sill Plain	「あっ、ええと、ルートさん……！」	「Ah, um, Root-san...!」
+65187	Sill Plain	慌て	「あっ、ええと、ルートさん……！」	「Ah, um, Root-san...!」
 
-65188	Rance	「それだ！　これでどうだ！」	「That's it! Try this!」
+65188	Rance	怒り	「それだ！　これでどうだ！」	「That's it! Try this!」
 
-65189	-	『ルート』とランスが入力した。	Rance entered 'Root'.
+65189	-		『ルート』とランスが入力した。	Rance entered 'Root'.
 
-65190	-	重い物が外れる音がして、箱はひとりでに開いた。	There was a sound of something heavy unlocking, and the box opened by itself.
-65191	+	次いで、文字の羅列が空間に溢れた。	Then a flood of text overflowed into the space.
+65190	-		重い物が外れる音がして、箱はひとりでに開いた。	There was a sound of something heavy unlocking, and the box opened by itself.
+65191	+		次いで、文字の羅列が空間に溢れた。	Then a flood of text overflowed into the space.
 
-65192	Kentou Kanami	「開いた！」	「It opened!」
+65192	Kentou Kanami	基本	「開いた！」	「It opened!」
 
-65193	Rance	「がははははははは！	「Gahahahahahaha!
-65194	+	　シスコン野郎め、そうだと思ったぜ！	　You siscon bastard, I knew it!
-65195	+	　さーて、中身は、と…………」	　Now then, let's see what's inside......」
+65193	Rance	笑顔	「がははははははは！	「Gahahahahahaha!
+65194	+		　シスコン野郎め、そうだと思ったぜ！	　You siscon bastard, I knew it!
+65195	+		　さーて、中身は、と…………」	　Now then, let's see what's inside......」

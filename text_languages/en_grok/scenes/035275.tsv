@@ -1,28 +1,28 @@
 # 35275	t２４２／戦況	
 
-262893	?	均衡状態と滅亡近いピンチ状態の２種類があります。	There are two types: a balanced state and a near-extinction crisis state.
-262894	+	状況が大きく変わるので条件確認して２種類テキストを入れて下さい	Since the situation changes drastically, check conditions and insert two types of text.
-262895	+	ナレーション、または、所々、キャラの台詞を入れるなどして説明して下さい。	Please explain with narration or occasionally by characters' dialogue.
-262896	+	ランスに説明しているというより、ユーザーに分かればいいです	It's not so much explaining to Rance as making it clear to the user.
-262897	+	　	 
-262898	+	確認("自由都市ピンチ")==1	Check ("Free Cities in Danger") == 1
-262899	+	　地図　自由都市１／合戦３１　を使って戦況説明	Use map Free Cities 1 / Battle 31 to explain the battle situation.
-262900	+	　魔軍の方が圧倒的に多く滅亡の可能性がある状態	The Monster Army is overwhelmingly larger, and there's a possibility of annihilation.
-262901	+	　ランス達がこの方面に来た魔人を殲滅してくれはしたが、魔物大将軍ピサロ率いる	Rance and his group annihilated the Fiends arriving in this area, but the Great Monster General Pizarro leads...
-262902	+	　S(Ｔ敵軍兵力());万にも及ぶ大軍は自由都市連合軍を徐々に追い詰めていた	An army of tens of thousands, S(T enemy forces), was gradually cornering the Free Cities Alliance Army.
-262903	+	　魔軍は自由都市地帯を突破してＪＡＰＡＮへ迫ろうとしていた	The Monster Army was breaking through the Free Cities area and advancing toward JAPAN.
-262904	+	　コパンドンと都市長達の会話、セシル隊長などの出番	Conversation between Copandon and the city mayors, with Captain Cecil's appearance.
-262905	+	　今がふんばり所やで、あきらめたらそれで試合終了や、まだ逆転のチャンスはある	Now's the time to hold on; if you give up, the game is over. There's still a chance to turn things around.
-262906	+	　とコパンドンがみんなを奮起	Copandon motivates everyone like this.
-262907	+	　	
-262908	+	確認("自由都市ピンチ")==0	Check ("Free Cities in Danger") == 0
-262909	+	　地図　自由都市１／合戦３２　を使って戦況説明	Use map Free Cities 1 / Battle 32 to explain the battle situation.
-262910	+	　戦力的には均衡している、どちらかという少し押している	The forces are balanced, though slightly leaning toward one side.
-262911	+	　セシルの指揮する部隊が大勝利をして帰還してきた所	The unit under Cecil's command has returned after a great victory.
-262912	+	　都市長達が褒め称える、さすがですとちやほや	City mayors praise them, lavishly flattering with 'As expected'.
-262913	+	　２日前の合戦でハンナ南部の敵軍をおおかた撃破してきた。	Two days ago's battle mostly defeated the enemy forces in southern Hanna.
-262914	+	　次はアイス方面に立て籠もる大将軍ピサロを含む敵主力ですね	Next is the enemy main force including General Pizarro entrenched in the Ice direction.
-262915	+	　すぐにでもとセシルに迫る都市長だが	The city mayor urges Cecil to act immediately, but...
-262916	+	　そんな簡単には勝てない・	It won't be that easy to win.
-262917	+	　コパンドン、こないだ連絡があったＪＡＰＡＮからの大規模援軍が来まで	Copandon says, until the large reinforcements from JAPAN, which were recently contacted, arrive...
-262918	+	　待ちましょうとかうんぬん	Let's wait and so on.
+262893	?		均衡状態と滅亡近いピンチ状態の２種類があります。	There are two types: a balanced state and a near-extinction crisis state.
+262894	+		状況が大きく変わるので条件確認して２種類テキストを入れて下さい	Since the situation changes drastically, check conditions and insert two types of text.
+262895	+		ナレーション、または、所々、キャラの台詞を入れるなどして説明して下さい。	Please explain with narration or occasionally by characters' dialogue.
+262896	+		ランスに説明しているというより、ユーザーに分かればいいです	It's not so much explaining to Rance as making it clear to the user.
+262897	+		　	 
+262898	+		確認("自由都市ピンチ")==1	Check ("Free Cities in Danger") == 1
+262899	+		　地図　自由都市１／合戦３１　を使って戦況説明	Use map Free Cities 1 / Battle 31 to explain the battle situation.
+262900	+		　魔軍の方が圧倒的に多く滅亡の可能性がある状態	The Monster Army is overwhelmingly larger, and there's a possibility of annihilation.
+262901	+		　ランス達がこの方面に来た魔人を殲滅してくれはしたが、魔物大将軍ピサロ率いる	Rance and his group annihilated the Fiends arriving in this area, but the Great Monster General Pizarro leads...
+262902	+		　S(Ｔ敵軍兵力());万にも及ぶ大軍は自由都市連合軍を徐々に追い詰めていた	An army of tens of thousands, S(T enemy forces), was gradually cornering the Free Cities Alliance Army.
+262903	+		　魔軍は自由都市地帯を突破してＪＡＰＡＮへ迫ろうとしていた	The Monster Army was breaking through the Free Cities area and advancing toward JAPAN.
+262904	+		　コパンドンと都市長達の会話、セシル隊長などの出番	Conversation between Copandon and the city mayors, with Captain Cecil's appearance.
+262905	+		　今がふんばり所やで、あきらめたらそれで試合終了や、まだ逆転のチャンスはある	Now's the time to hold on; if you give up, the game is over. There's still a chance to turn things around.
+262906	+		　とコパンドンがみんなを奮起	Copandon motivates everyone like this.
+262907	+		　	
+262908	+		確認("自由都市ピンチ")==0	Check ("Free Cities in Danger") == 0
+262909	+		　地図　自由都市１／合戦３２　を使って戦況説明	Use map Free Cities 1 / Battle 32 to explain the battle situation.
+262910	+		　戦力的には均衡している、どちらかという少し押している	The forces are balanced, though slightly leaning toward one side.
+262911	+		　セシルの指揮する部隊が大勝利をして帰還してきた所	The unit under Cecil's command has returned after a great victory.
+262912	+		　都市長達が褒め称える、さすがですとちやほや	City mayors praise them, lavishly flattering with 'As expected'.
+262913	+		　２日前の合戦でハンナ南部の敵軍をおおかた撃破してきた。	Two days ago's battle mostly defeated the enemy forces in southern Hanna.
+262914	+		　次はアイス方面に立て籠もる大将軍ピサロを含む敵主力ですね	Next is the enemy main force including General Pizarro entrenched in the Ice direction.
+262915	+		　すぐにでもとセシルに迫る都市長だが	The city mayor urges Cecil to act immediately, but...
+262916	+		　そんな簡単には勝てない・	It won't be that easy to win.
+262917	+		　コパンドン、こないだ連絡があったＪＡＰＡＮからの大規模援軍が来まで	Copandon says, until the large reinforcements from JAPAN, which were recently contacted, arrive...
+262918	+		　待ちましょうとかうんぬん	Let's wait and so on.

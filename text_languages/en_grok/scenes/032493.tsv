@@ -3,119 +3,119 @@
 * Barres Province	バレス	Male
 * Sioux Province	スー	Female
 
-154033	-	リーザス南部――	Southern Leazas――
-154034	+	司令部内――	Inside Headquarters――
+154033	-		リーザス南部――	Southern Leazas――
+154034	+		司令部内――	Inside Headquarters――
 
-154035	Cordoba Burn	「バレス殿、情報が届きました。	「Lord Barres, new information has arrived.
-154036	+	　魔軍に動きがアリです」	　The Monster Army is on the move.」
+154035	Cordoba Burn	基本	「バレス殿、情報が届きました。	「Lord Barres, new information has arrived.
+154036	+		　魔軍に動きがアリです」	　The Monster Army is on the move.」
 
-154037	Barres Province	「うむ、そうか。	「Hmm, I see.
-154038	+	　では、早速聞かせてくれ」	　Tell me the details right away.」
+154037	Barres Province		「うむ、そうか。	「Hmm, I see.
+154038	+		　では、早速聞かせてくれ」	　Tell me the details right away.」
 
-154039	Cordoba Burn	「こちらが最新の状況です」	「This is the latest situation.」
+154039	Cordoba Burn		「こちらが最新の状況です」	「This is the latest situation.」
 
-154040	-	コルドバが机の上に広げられた地図に	Cordoba updated the map spread out on the desk
-154041	+	新たな情報を更新していく。	with the new information.
+154040	-		コルドバが机の上に広げられた地図に	Cordoba updated the map spread out on the desk
+154041	+		新たな情報を更新していく。	with the new information.
 
-154042	Cordoba Burn	「これが昨日までの情報です」	「This was the situation up to yesterday.」
+154042	Cordoba Burn		「これが昨日までの情報です」	「This was the situation up to yesterday.」
 
-154043	Cordoba Burn	「そして、これが先ほど入った情報を元に	「And this is the newest map
-154044	+	　作った最新の状況」	　based on the information that just came in.」
+154043	Cordoba Burn		「そして、これが先ほど入った情報を元に	「And this is the newest map
+154044	+		　作った最新の状況」	　based on the information that just came in.」
 
-154045	Barres Province	「む、これは……」	「Hmm, this is...」
+154045	Barres Province		「む、これは……」	「Hmm, this is...」
 
-154046	Barres Province	「魔軍め……主力をこちらに	「Those Monster Army bastards... They've concentrated
-154047	+	　集中させてきおったか……」	　their main forces here...」
+154046	Barres Province		「魔軍め……主力をこちらに	「Those Monster Army bastards... They've concentrated
+154047	+		　集中させてきおったか……」	　their main forces here...」
 
-154048	Cordoba Burn	「魔人だけでなく、大将軍であるヨシフの主力部隊、	「Not only the Fiend, but also General Joseph's main troops,
-154049	+	　これが加わり、すごい数になっております」	　have joined them, making for an enormous number.」
+154048	Cordoba Burn		「魔人だけでなく、大将軍であるヨシフの主力部隊、	「Not only the Fiend, but also General Joseph's main troops,
+154049	+		　これが加わり、すごい数になっております」	　have joined them, making for an enormous number.」
 
-154050	Barres Province	「勝負を決めに来た、ということか。	「So they're here to settle the match.
-154051	+	　ふむぅ……」	　Hmm...」
+154050	Barres Province		「勝負を決めに来た、ということか。	「So they're here to settle the match.
+154051	+		　ふむぅ……」	　Hmm...」
 
-154052	-	バレスが状況の変化に対し、珍しく唸る。	Barres unusually groaned at the change in the situation.
+154052	-		バレスが状況の変化に対し、珍しく唸る。	Barres unusually groaned at the change in the situation.
 
-154053	Cordoba Burn	「これ以上数が増えるのは少々……	「If their numbers increase any more, it'll be a bit...
-154054	+	　いえ、かなり痛いですな……」	　No, quite painful...」
+154053	Cordoba Burn		「これ以上数が増えるのは少々……	「If their numbers increase any more, it'll be a bit...
+154054	+		　いえ、かなり痛いですな……」	　No, quite painful...」
 
-154055	Sioux Province	「でも……」	「But...
+154055	Sioux Province	思考	「でも……」	「But...
 
-154056	-	それまで黙っていた黒の軍の一人、	One member of the Black Army who had been silent until now,
-154057	+	スー・プロヴァンスが声を上げた。	Sioux Provence, raised her voice.
+154056	-		それまで黙っていた黒の軍の一人、	One member of the Black Army who had been silent until now,
+154057	+		スー・プロヴァンスが声を上げた。	Sioux Provence, raised her voice.
 
-154058	Sioux Province	「これまでの戦いで奴らの戦法は分かってます。	「From the battles so far, we understand their tactics.
-154059	+	　兵の消耗を無視して、無謀に突撃するだけ」	　They just charge recklessly, ignoring troop losses.」
+154058	Sioux Province		「これまでの戦いで奴らの戦法は分かってます。	「From the battles so far, we understand their tactics.
+154059	+		　兵の消耗を無視して、無謀に突撃するだけ」	　They just charge recklessly, ignoring troop losses.」
 
-154060	Sioux Province	「……それなら」	「...If that's the case.」
+154060	Sioux Province	基本	「……それなら」	「...If that's the case.」
 
-154061	Barres Province	「スー」	「Sioux.」
+154061	Barres Province		「スー」	「Sioux.」
 
-154062	-	諫めるような声に、スーは背筋を固くする。	At the admonishing tone, Sioux straightened her back.
+154062	-		諫めるような声に、スーは背筋を固くする。	At the admonishing tone, Sioux straightened her back.
 
-154063	Barres Province	「確かにお主の言うことに間違いはない。	「You're not wrong in what you say.
-154064	+	　奴らの戦いは滅茶苦茶そのもの」	　Their fighting is pure chaos.」
+154063	Barres Province		「確かにお主の言うことに間違いはない。	「You're not wrong in what you say.
+154064	+		　奴らの戦いは滅茶苦茶そのもの」	　Their fighting is pure chaos.」
 
-154065	Barres Province	「だが、それ故に強い」	「But that's exactly why they're strong.」
+154065	Barres Province		「だが、それ故に強い」	「But that's exactly why they're strong.」
 
-154066	Barres Province	「数の多さに任せた無謀な突撃。	「Reckless charges relying on sheer numbers.
-154067	+	　押し切られればどうなるか……」	　If we're overwhelmed, what happens...」
+154066	Barres Province		「数の多さに任せた無謀な突撃。	「Reckless charges relying on sheer numbers.
+154067	+		　押し切られればどうなるか……」	　If we're overwhelmed, what happens...」
 
-154068	Sioux Province	「……はい」	「...Yes.」
+154068	Sioux Province		「……はい」	「...Yes.」
 
-154069	Barres Province	「……お前の気持ちも分からんではない」	「...I understand how you feel.
+154069	Barres Province		「……お前の気持ちも分からんではない」	「...I understand how you feel.
 
-154070	Barres Province	「不安を表に出さぬようにし、	　A commander must not show anxiety,
-154071	+	　窮地に活路を見いだすは将の義務」	　and must find a way out of dire situations.」
+154070	Barres Province		「不安を表に出さぬようにし、	　A commander must not show anxiety,
+154071	+		　窮地に活路を見いだすは将の義務」	　and must find a way out of dire situations.」
 
-154072	Barres Province	「だが、それに気を取られ戦況を見誤るでないぞ」	「But don't let that distract you and misread the battle.」
+154072	Barres Province		「だが、それに気を取られ戦況を見誤るでないぞ」	「But don't let that distract you and misread the battle.」
 
-154073	Sioux Province	「……はい、スミマセン」	「...Yes, I'm sorry.」
+154073	Sioux Province		「……はい、スミマセン」	「...Yes, I'm sorry.」
 
-154074	-	説教が終わる頃を見計らいコルドバが口を挟む。	Timing the end of the lecture, Cordoba interjected.
-154075	+	その声色は苦々しい。	His tone was bitter.
+154074	-		説教が終わる頃を見計らいコルドバが口を挟む。	Timing the end of the lecture, Cordoba interjected.
+154075	+		その声色は苦々しい。	His tone was bitter.
 
-154076	Cordoba Burn	「しかし、如何いたしますか？	「However, what shall we do?
-154077	+	　なんとか策を講じねば……」	　We must come up with some plan...」
+154076	Cordoba Burn		「しかし、如何いたしますか？	「However, what shall we do?
+154077	+		　なんとか策を講じねば……」	　We must come up with some plan...」
 
-154078	Barres Province	「策……策、か……」	「A plan... a plan, huh...」
+154078	Barres Province	テンション下げ	「策……策、か……」	「A plan... a plan, huh...」
 
-154079	Barres Province	「スーよ、お主はどうするべきと読む」	「Sioux, what do you think we should do?」
+154079	Barres Province	基本	「スーよ、お主はどうするべきと読む」	「Sioux, what do you think we should do?」
 
-154080	-	バレスに聞かれ、怒られたばかりのスーは	Asked by Barres, Sioux, who had just been scolded,
-154081	+	どこか固くなりながら口を開く。	spoke up somewhat stiffly.
+154080	-		バレスに聞かれ、怒られたばかりのスーは	Asked by Barres, Sioux, who had just been scolded,
+154081	+		どこか固くなりながら口を開く。	spoke up somewhat stiffly.
 
-154082	Sioux Province	「……退却」	「...Retreat.」
+154082	Sioux Province	思考	「……退却」	「...Retreat.」
 
-154083	Cordoba Burn	「なんと、退くのですか？」	「What, retreat?」
+154083	Cordoba Burn	基本	「なんと、退くのですか？」	「What, retreat?」
 
-154084	Sioux Province	「おとうさ――じゃなくて……	「Fa- I mean...
-154085	?	　バレス将軍の作戦でここまで粘ってきました」	　We've held out this long thanks to General Barres' strategies.」
+154084	Sioux Province		「おとうさ――じゃなくて……	「Fa- I mean...
+154085	?		　バレス将軍の作戦でここまで粘ってきました」	　We've held out this long thanks to General Barres' strategies.」
 
-154086	Sioux Province	「でも、それも実際は限界に近づいています。	「But even that is nearing its limit.
-154087	+	　このままでは包囲されむざむざ兵を失う。	　If we stay, we'll be surrounded and lose troops for nothing.
-154088	+	　……と、思います」	　...I believe.」
+154086	Sioux Province		「でも、それも実際は限界に近づいています。	「But even that is nearing its limit.
+154087	+		　このままでは包囲されむざむざ兵を失う。	　If we stay, we'll be surrounded and lose troops for nothing.
+154088	+		　……と、思います」	　...I believe.」
 
-154089	Sioux Province	「だから――退きます。	「That's why――we retreat.
-154090	+	　悔しいけど、ここはそれしかないかと」	　It's frustrating, but I think that's our only option.」
+154089	Sioux Province	思考	「だから――退きます。	「That's why――we retreat.
+154090	+		　悔しいけど、ここはそれしかないかと」	　It's frustrating, but I think that's our only option.」
 
-154091	-	生徒の模範解答にバレスは満足げに頷く。	Barres nodded in satisfaction at his student's model answer.
+154091	-		生徒の模範解答にバレスは満足げに頷く。	Barres nodded in satisfaction at his student's model answer.
 
-154092	Barres Province	「時機を読むのは、	「Reading the right timing
-154093	+	　攻め時よりも撤退の方が難しいもの。	　is harder for retreat than for attack.
-154094	+	　よくぞ判断したな、スーよ」	　Well judged, Sioux.」
+154092	Barres Province	笑顔	「時機を読むのは、	「Reading the right timing
+154093	+		　攻め時よりも撤退の方が難しいもの。	　is harder for retreat than for attack.
+154094	+		　よくぞ判断したな、スーよ」	　Well judged, Sioux.」
 
-154095	Barres Province	「ただし、ただ退くだけではないぞ」	「However, we won't just retreat.」
+154095	Barres Province	基本	「ただし、ただ退くだけではないぞ」	「However, we won't just retreat.」
 
-154096	Barres Province	「簡単には退かず敵を誘い出し、	「We'll make it hard for them, lure the enemy out,
-154097	+	　少しでも……一匹でも多くの魔物を撃破する」	　and take down as many monsters as possible.」
+154096	Barres Province		「簡単には退かず敵を誘い出し、	「We'll make it hard for them, lure the enemy out,
+154097	+		　少しでも……一匹でも多くの魔物を撃破する」	　and take down as many monsters as possible.」
 
-154098	Cordoba Burn	「……そんなことが可能ですか？」	「...Is something like that possible?」
+154098	Cordoba Burn		「……そんなことが可能ですか？」	「...Is something like that possible?」
 
-154099	Barres Province	「どうかのう……」	「Who knows...」
+154099	Barres Province		「どうかのう……」	「Who knows...」
 
-154100	Barres Province	「じゃが、出来ねば老練と謳われた黒の将、	「But if I can't, then the Black General known for his experience,
-154101	+	　バレス・プロヴァンス、	　Barres Provence,
-154102	+	　その名が泣くというものよ」	　his name will weep.」
+154100	Barres Province		「じゃが、出来ねば老練と謳われた黒の将、	「But if I can't, then the Black General known for his experience,
+154101	+		　バレス・プロヴァンス、	　Barres Provence,
+154102	+		　その名が泣くというものよ」	　his name will weep.」
 
-154103	-	口髭を弄りながら飄々と言ってのけるバレスの顔は、	While twirling his mustache and speaking nonchalantly, Barres' face
-154104	+	コルドバの目にはこれ以上なく頼もしく映った。	looked incredibly reliable in Cordoba's eyes.
+154103	-		口髭を弄りながら飄々と言ってのけるバレスの顔は、	While twirling his mustache and speaking nonchalantly, Barres' face
+154104	+		コルドバの目にはこれ以上なく頼もしく映った。	looked incredibly reliable in Cordoba's eyes.

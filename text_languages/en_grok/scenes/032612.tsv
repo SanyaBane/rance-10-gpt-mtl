@@ -2,26 +2,26 @@
 * Rance	ランス	Male
 * Chaka Cadmium	チャカ	?
 
-163311	Rance	「ほう、ここがカクテル迷宮の入り口か」	「Hmm, so this is the entrance to the Cocktail Labyrinth.」
+163311	Rance	基本	「ほう、ここがカクテル迷宮の入り口か」	「Hmm, so this is the entrance to the Cocktail Labyrinth.」
 
-163312	Rance	「……なんか見たところ普通の迷宮だな」	「......It looks like a normal labyrinth.」
+163312	Rance	真剣	「……なんか見たところ普通の迷宮だな」	「......It looks like a normal labyrinth.」
 
-163313	Chaka Cadmium	「普段は人気で入場制限があるほどですが、	「Normally it's so popular that entry is restricted,
-163314	+	　睨んだ通り今はガラガラですな」	　but as expected, it's empty now.」
+163313	Chaka Cadmium	基本	「普段は人気で入場制限があるほどですが、	「Normally it's so popular that entry is restricted,
+163314	+		　睨んだ通り今はガラガラですな」	　but as expected, it's empty now.」
 
-163315	Chaka Cadmium	「ですが、お気をつけ下さい、ランス殿。	「However, please be careful, Rance-dono.
-163316	+	　カクテル迷宮には、不穏な噂が……」	　There are disturbing rumors about the Cocktail Labyrinth......」
+163315	Chaka Cadmium		「ですが、お気をつけ下さい、ランス殿。	「However, please be careful, Rance-dono.
+163316	+		　カクテル迷宮には、不穏な噂が……」	　There are disturbing rumors about the Cocktail Labyrinth......」
 
-163317	Rance	「噂？」	「Rumors?」
+163317	Rance		「噂？」	「Rumors?」
 
-163318	Chaka Cadmium	「なんでも、怖い鬼が出るとか……」	「They say a terrifying Oni appears......」
+163318	Chaka Cadmium		「なんでも、怖い鬼が出るとか……」	「They say a terrifying Oni appears......」
 
-163319	Rance	「鬼だぁ〜？」	「An Oni~?」
+163319	Rance	だる顔	「鬼だぁ〜？」	「An Oni~?」
 
-163320	Rance	「がははは、鬼だろうが仏だろうが、	「Gahahaha, whether it's an Oni or a Buddha,
-163321	+	　俺の邪魔する奴は斬って捨てるだけだ！」	　anyone who gets in my way gets cut down!」
+163320	Rance	笑顔	「がははは、鬼だろうが仏だろうが、	「Gahahaha, whether it's an Oni or a Buddha,
+163321	+		　俺の邪魔する奴は斬って捨てるだけだ！」	　anyone who gets in my way gets cut down!」
 
-163322	Chaka Cadmium	「おお……	「Oh......
-163323	+	　なんと唯我独尊なお方……」	　What an absolute supreme being......」
+163322	Chaka Cadmium	基本	「おお……	「Oh......
+163323	+		　なんと唯我独尊なお方……」	　What an absolute supreme being......」
 
-163324	Rance	「よーし、中に入るぞー」	「Alright, let's go in!」
+163324	Rance		「よーし、中に入るぞー」	「Alright, let's go in!」

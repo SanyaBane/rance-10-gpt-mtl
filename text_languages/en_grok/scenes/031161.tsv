@@ -3,28 +3,28 @@
 * Sill Plain	シィル	Female
 * Kentou Kanami	かなみ	Female
 
-56641	-	穴だらけの草原を、ランス達が突き進む。	Rance and the others pushed forward across the hole-filled plain.
+56641	-		穴だらけの草原を、ランス達が突き進む。	Rance and the others pushed forward across the hole-filled plain.
 
-56642	Rance	「くっ……けっこう危なっかしいな……」	「Ugh... It's pretty dangerous...」
+56642	Rance	だる顔	「くっ……けっこう危なっかしいな……」	「Ugh... It's pretty dangerous...」
 
-56643	-	穴の開いていない箇所も踏みしめると柔らかく、	Even the solid-looking spots felt soft when stepped on,
-56644	+	体重を乗せるのは躊躇われた。	making him hesitate to put full weight down.
+56643	-		穴の開いていない箇所も踏みしめると柔らかく、	Even the solid-looking spots felt soft when stepped on,
+56644	+		体重を乗せるのは躊躇われた。	making him hesitate to put full weight down.
 
-56645	Rance	「ええい、こんなのはびびるだけ無駄だ。	「Damn it, hesitating is pointless.
-56646	+	　さっさと突っ走って――――」	　Just charge forwardー」
+56645	Rance	怒り	「ええい、こんなのはびびるだけ無駄だ。	「Damn it, hesitating is pointless.
+56646	+		　さっさと突っ走って――――」	　Just charge forwardー」
 
-56647	Rance	「うっ……！」	「Ugh...!」
+56647	Rance	驚き	「うっ……！」	「Ugh...!」
 
-56648	-	ランスの足下が、ぐらりと揺らいだ。	The ground beneath Rance suddenly shook.
+56648	-		ランスの足下が、ぐらりと揺らいだ。	The ground beneath Rance suddenly shook.
 
-56649	Sill Plain	「ランス様！？」	「Rance-sama!?」
+56649	Sill Plain	慌て	「ランス様！？」	「Rance-sama!?」
 
-56650	Rance	「おっ、うおおおおおおぉっ！？」	「Oh, uwooooooh!?」
+56650	Rance	怒り	「おっ、うおおおおおおぉっ！？」	「Oh, uwooooooh!?」
 
-56651	-	突如、ランスの足下で地盤沈下が起こり、	Suddenly the ground gave way beneath Rance,
-56652	+	ランスを真っ暗な穴の中に飲み込んだ。	swallowing him into a pitch-black hole.
+56651	-		突如、ランスの足下で地盤沈下が起こり、	Suddenly the ground gave way beneath Rance,
+56652	+		ランスを真っ暗な穴の中に飲み込んだ。	swallowing him into a pitch-black hole.
 
-56653	Kentou Kanami	「ランス！」	「Rance!」
+56653	Kentou Kanami	うがー	「ランス！」	「Rance!」
 
-56654	-	他の面々はランスを追い、	The others chased after Rance
-56655	+	慌てて地下へと飛び降りていった。	and hurriedly jumped down underground.
+56654	-		他の面々はランスを追い、	The others chased after Rance
+56655	+		慌てて地下へと飛び降りていった。	and hurriedly jumped down underground.

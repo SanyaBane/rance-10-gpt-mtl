@@ -4,50 +4,50 @@
 * Sill Plain	シィル	Female
 * Monster Captain	汎用魔物隊長	Male
 
-49499	Rance	「ちっ、くそ。見つからないぞ……」	「Tch, damn. Can't find him...」
+49499	Rance	イライラ	「ちっ、くそ。見つからないぞ……」	「Tch, damn. Can't find him...」
 
-49500	Chaos	「うーん、あかんねぇ。	「Hmm, no good.
-49501	+	　そもそも心の友、隠密行動とか向いてないしなー。	　I'm not suited for stealth operations as a sword of the heart anywayー.
-49502	+	　儂に身体があれば、そりゃーもう華麗に……」	　If I had a body, I'd be so elegant...」
+49500	Chaos	基本	「うーん、あかんねぇ。	「Hmm, no good.
+49501	+		　そもそも心の友、隠密行動とか向いてないしなー。	　I'm not suited for stealth operations as a sword of the heart anywayー.
+49502	+		　儂に身体があれば、そりゃーもう華麗に……」	　If I had a body, I'd be so elegant...」
 
-49503	Rance	「くそやかましいわ、馬鹿剣が！」	「Shut the hell up, you idiot sword!」
+49503	Rance	怒り	「くそやかましいわ、馬鹿剣が！」	「Shut the hell up, you idiot sword!」
 
-49504	Chaos	「へぶっ！」	「Hebu!」
+49504	Chaos	基本	「へぶっ！」	「Hebu!」
 
-49505	Rance	「だいたい、親玉の居場所とか、	「Besides, can you even detect the boss's location!」
-49506	+	　探知できんのかお前は！」	
+49505	Rance	イライラ	「だいたい、親玉の居場所とか、	「Besides, can you even detect the boss's location!」
+49506	+		　探知できんのかお前は！」	
 
-49507	Chaos	「地面に叩きつけた相手にこの物言い……ううっ」	「Talking like that to the one you slammed into the ground... Uu」
+49507	Chaos	基本	「地面に叩きつけた相手にこの物言い……ううっ」	「Talking like that to the one you slammed into the ground... Uu」
 
-49508	Rance	「黙れ。埋めるぞ貴様」	「Shut up. I'll bury you.」
+49508	Rance	真剣	「黙れ。埋めるぞ貴様」	「Shut up. I'll bury you.」
 
-49509	Chaos	「ってか、無理じゃよ無理無理。	「Anyway, it's impossible.
-49510	+	　儂、対魔人専用だし。相手、ただの魔物じゃん」	　I'm specialized against Fiends. This opponent is just a regular monster.」
+49509	Chaos	基本	「ってか、無理じゃよ無理無理。	「Anyway, it's impossible.
+49510	+		　儂、対魔人専用だし。相手、ただの魔物じゃん」	　I'm specialized against Fiends. This opponent is just a regular monster.」
 
-49511	Rance	「ええい、役立たずが……」	「Ugh, useless...」
+49511	Rance	イライラ	「ええい、役立たずが……」	「Ugh, useless...」
 
-49512	Sill Plain	「見つかりませんね、ランス様……」	「We can't find him, Rance-sama...」
+49512	Sill Plain	泣き	「見つかりませんね、ランス様……」	「We can't find him, Rance-sama...」
 
-49513	Rance	「うーむ、なんか、	「Hmm, somehow,
-49514	+	　この辺にいそうな気がしたんだがな……」	　I had a feeling he'd be around here...」
+49513	Rance	だる顔	「うーむ、なんか、	「Hmm, somehow,
+49514	+		　この辺にいそうな気がしたんだがな……」	　I had a feeling he'd be around here...」
 
-49515	Rance	「いてっ」	「Ouch」
+49515	Rance	驚き	「いてっ」	「Ouch」
 
-49516	-	不意に、何かがランスの肩にぶつかった。	Suddenly something bumped into Rance's shoulder.
+49516	-		不意に、何かがランスの肩にぶつかった。	Suddenly something bumped into Rance's shoulder.
 
-49517	Monster Captain	「あ、すみません」	「Ah, sorry.」
+49517	Monster Captain	基本	「あ、すみません」	「Ah, sorry.」
 
-49518	Rance	「おい、気をつけろ」	「Hey, watch it.」
+49518	Rance	イライラ	「おい、気をつけろ」	「Hey, watch it.」
 
-49519	Monster Captain	「失礼しました。なにせ、この闇で……」	「Excuse me. In this darkness...」
+49519	Monster Captain	基本	「失礼しました。なにせ、この闇で……」	「Excuse me. In this darkness...」
 
-49520	Rance	「まったく、この総統閣下に…………ん？」	「Honestly, to this Supreme Leader... Hm?」
+49520	Rance	真剣	「まったく、この総統閣下に…………ん？」	「Honestly, to this Supreme Leader... Hm?」
 
-49521	Monster Captain	「え？」	「Eh?」
+49521	Monster Captain	基本	「え？」	「Eh?」
 
-49522	Sill Plain	「ま、魔物……ここ、もしかして魔軍の……！」	「M-monster... Could this be the Monster Army's...!」
+49522	Sill Plain	慌て	「ま、魔物……ここ、もしかして魔軍の……！」	「M-monster... Could this be the Monster Army's...!」
 
-49523	Rance	「がははははははは！！	「Gahahahahahaha!!
-49524	+	　野営地見っけーーー！！　死ねーーーーー！！」	　Found their campーーー!! Dieーーー!!」
+49523	Rance	笑顔	「がははははははは！！	「Gahahahahahaha!!
+49524	+		　野営地見っけーーー！！　死ねーーーーー！！」	　Found their campーーー!! Dieーーー!!」
 
-49525	Monster Captain	「に、人間だと！？　お、おわーーーーーー！？」	「H-humans!? O-owaaaaah!?」
+49525	Monster Captain	基本	「に、人間だと！？　お、おわーーーーーー！？」	「H-humans!? O-owaaaaah!?」

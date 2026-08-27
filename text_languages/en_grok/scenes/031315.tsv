@@ -7,126 +7,126 @@
 * Nikkou	日光刀	Female
 * Arms Arc	アームズ	Female
 
-66215	Rance	「こいつだ」	「This one.」
+66215	Rance	基本	「こいつだ」	「This one.」
 
-66216	-	ランスはKD挑戦権を拾いあげて、	Rance picked up the KD challenge right,
-66217	+	それをKDの足元に叩きつけた。	and slammed it at KD's feet.
+66216	-		ランスはKD挑戦権を拾いあげて、	Rance picked up the KD challenge right,
+66217	+		それをKDの足元に叩きつけた。	and slammed it at KD's feet.
 
-66218	KD	「ほっほーーーーう」	「Hohooo---」
+66218	KD		「ほっほーーーーう」	「Hohooo---」
 
-66219	-	にやーっ、とKDの口が不気味に釣り上がる。	KD's mouth curved up creepily.
+66219	-		にやーっ、とKDの口が不気味に釣り上がる。	KD's mouth curved up creepily.
 
-66220	Rance	「お前を叩き殺せば、他の宝も取り放題だろう」	「If I kill you, I can take all the other treasures too.」
+66220	Rance	笑顔	「お前を叩き殺せば、他の宝も取り放題だろう」	「If I kill you, I can take all the other treasures too.」
 
-66221	KD	「にょほほほほ、面白い。	「Nyohohohoho, interesting.
-66222	+	　おらと対決したいと……」	　You want to fight me...」
+66221	KD	基本	「にょほほほほ、面白い。	「Nyohohohoho, interesting.
+66222	+		　おらと対決したいと……」	　You want to fight me...」
 
-66223	Chaos	「お、おい、大丈夫か、心の友……	「H-hey, you okay, soul friend...
-66224	+	　こいつ、けっこうヤバそうだぞい」	　This guy looks pretty dangerous.」
+66223	Chaos		「お、おい、大丈夫か、心の友……	「H-hey, you okay, soul friend...
+66224	+		　こいつ、けっこうヤバそうだぞい」	　This guy looks pretty dangerous.」
 
-66225	Rance	「俺様は無敵だ。なんてことはない。	「I'm invincible. No problem at all.
-66226	+	　気合い入れろよ、カオス！」	　Get fired up, Chaos!」
+66225	Rance		「俺様は無敵だ。なんてことはない。	「I'm invincible. No problem at all.
+66226	+		　気合い入れろよ、カオス！」	　Get fired up, Chaos!」
 
-66227	Chaos	「あーもう！	「Aah geez!
-66228	+	　心の友って時々そういうとこあるよねー！」	　My soul friend has moments like this sometimes!」
+66227	Chaos		「あーもう！	「Aah geez!
+66228	+		　心の友って時々そういうとこあるよねー！」	　My soul friend has moments like this sometimes!」
 
-66229	Rance	「やるぞ！　全員構えろ！」	「Let's do this! Everyone get ready!」
+66229	Rance		「やるぞ！　全員構えろ！」	「Let's do this! Everyone get ready!」
 
-66230	Sill Plain	「はっ、はいいっ……！」	「Y-yes...!」
+66230	Sill Plain	慌て	「はっ、はいいっ……！」	「Y-yes...!」
 
-66231	KD	「あ。待った待った。	「Ah. Wait wait.
-66232	+	　今はその時ではないにゃ」	　Now is not the time nya.」
+66231	KD	基本	「あ。待った待った。	「Ah. Wait wait.
+66232	+		　今はその時ではないにゃ」	　Now is not the time nya.」
 
-66233	Rance	「あん？」	「Huh?」
+66233	Rance	真剣	「あん？」	「Huh?」
 
-66234	KD	「挑戦は確かに受けたよ。	「I accept the challenge.
-66235	+	　でも、やるのはここじゃない時、	　But not here, not now,
-66236	+	　今じゃない場所」	　not at this place.」
+66234	KD	基本	「挑戦は確かに受けたよ。	「I accept the challenge.
+66235	+		　でも、やるのはここじゃない時、	　But not here, not now,
+66236	+		　今じゃない場所」	　not at this place.」
 
-66237	Rance	「…………意味の分からん事を」	「............Talking nonsense.」
+66237	Rance	イライラ	「…………意味の分からん事を」	「............Talking nonsense.」
 
-66238	KD	「ほほほほほ。そのうち分かるよ」	「Hohohoho. You'll understand eventually.」
+66238	KD	基本	「ほほほほほ。そのうち分かるよ」	「Hohohoho. You'll understand eventually.」
 
-66239	Rance	「ま……これか」	「Well... this one.」
+66239	Rance		「ま……これか」	「Well... this one.」
 
-66240	-	ランスはひまわり型の黄金の像を手に取った。	Rance picked up the sunflower-shaped golden statue.
+66240	-		ランスはひまわり型の黄金の像を手に取った。	Rance picked up the sunflower-shaped golden statue.
 
-66241	Chaos	「お……………」	「Oh............」
+66241	Chaos		「お……………」	「Oh............」
 
-66242	Chaos	「あーーーーーっ！？」	「Aaaaaah!?」
+66242	Chaos	驚き	「あーーーーーっ！？」	「Aaaaaah!?」
 
-66243	Rance	「どわっ！？　なんだカオス！」	「Whoa!? What is it, Chaos!」
+66243	Rance		「どわっ！？　なんだカオス！」	「Whoa!? What is it, Chaos!」
 
-66244	Cafe Artful	「え……ええーーーーっ！？	「E... eeeeh!?」
-66245	+	　なんでそれ、ここに…………？」	　Why is that here............?」
+66244	Cafe Artful	基本	「え……ええーーーーっ！？	「E... eeeeh!?」
+66245	+		　なんでそれ、ここに…………？」	　Why is that here............?」
 
-66246	Rance	「……カフェもか。	「...Cafe too, huh.
-66247	+	　なんか、曰く付きのシロモノか？」	　Is this some cursed item?」
+66246	Rance		「……カフェもか。	「...Cafe too, huh.
+66247	+		　なんか、曰く付きのシロモノか？」	　Is this some cursed item?」
 
-66248	Cafe Artful	「う、ううん……間違い……ないよね……？」	「N-no... This can't be wrong... right...?」
+66248	Cafe Artful	ブーたれ	「う、ううん……間違い……ないよね……？」	「N-no... This can't be wrong... right...?」
 
-66249	Nikkou	「……………………まさか」	「........................No way.」
+66249	Nikkou	基本	「……………………まさか」	「........................No way.」
 
-66250	KD	「まろはドラゴンだから。	「I'm a dragon after all.
-66251	+	　財宝には目がないのにゃ」	　I have an eye for treasure nya.」
+66250	KD		「まろはドラゴンだから。	「I'm a dragon after all.
+66251	+		　財宝には目がないのにゃ」	　I have an eye for treasure nya.」
 
-66252	-	KDは手の甲で、にゃんにゃんっぽく顔を洗った。	KD washed his face with the back of his hand in a cat-like manner.
+66252	-		KDは手の甲で、にゃんにゃんっぽく顔を洗った。	KD washed his face with the back of his hand in a cat-like manner.
 
-66253	Rance	「なんだか分からんが、まあいい。	「I don't really get it, but whatever.
-66254	+	　高く売れそうだしな。もらってくぞ」	　Looks expensive. I'll take it.」
+66253	Rance		「なんだか分からんが、まあいい。	「I don't really get it, but whatever.
+66254	+		　高く売れそうだしな。もらってくぞ」	　Looks expensive. I'll take it.」
 
-66255	KD	「金には換えられないけどにゃ。	「It's priceless nya.
-66256	+	　なーんせ世界の秘密に…………おっとっと」	　After all, it's connected to the secrets of the world............ whoops.」
+66255	KD		「金には換えられないけどにゃ。	「It's priceless nya.
+66256	+		　なーんせ世界の秘密に…………おっとっと」	　After all, it's connected to the secrets of the world............ whoops.」
 
-66257	Chaos	「あー、このにゃんにゃん野郎！	「Ah, this nya-nya bastard!
-66258	+	　やっぱり何なのか知ってて……」	　You knew what it was after all...」
+66257	Chaos	驚き	「あー、このにゃんにゃん野郎！	「Ah, this nya-nya bastard!
+66258	+		　やっぱり何なのか知ってて……」	　You knew what it was after all...」
 
-66259	Rance	「……何の話だ？」	「...What are you talking about?」
+66259	Rance	真剣	「……何の話だ？」	「...What are you talking about?」
 
-66260	Chaos	「………………」	「............」
+66260	Chaos	基本	「………………」	「............」
 
-66261	Chaos	「なんでもないないよー」	「Nothing at all~」
+66261	Chaos	ため息	「なんでもないないよー」	「Nothing at all~」
 
-66262	Rance	「なんだとこらー！」	「What the hell!」
+66262	Rance	怒り	「なんだとこらー！」	「What the hell!」
 
-66263	Chaos	「わたたた、振り回すな！」	「Wawawa, don't swing me around!」
+66263	Chaos	驚き	「わたたた、振り回すな！」	「Wawawa, don't swing me around!」
 
-66264	Cafe Artful	「ま…………ひとつあっても、	「Well............ even if there is one,
-66265	+	　しょうがない物のはず……だけど……」	　it should be unavoidable... but......」
+66264	Cafe Artful	基本	「ま…………ひとつあっても、	「Well............ even if there is one,
+66265	+		　しょうがない物のはず……だけど……」	　it should be unavoidable... but......」
 
-66266	KD	「にゃ」	「Nya.」
+66266	KD		「にゃ」	「Nya.」
 
-66267	Rance	「これが強そうだ」	「This one looks strong.」
+66267	Rance	笑顔	「これが強そうだ」	「This one looks strong.」
 
-66268	KD	「おーーー。いいねいいね。	「Ooooh. Nice nice.
-66269	+	　それ、強いよー」	　That one's strong~」
+66268	KD	基本	「おーーー。いいねいいね。	「Ooooh. Nice nice.
+66269	+		　それ、強いよー」	　That one's strong~」
 
-66270	Arms Arc	「なっ……それ、まさかドラゴンの加護……」	「Wha... Is that perhaps the Dragon's Blessing...」
+66270	Arms Arc		「なっ……それ、まさかドラゴンの加護……」	「Wha... Is that perhaps the Dragon's Blessing...」
 
-66271	Rance	「あん？　知ってるのか」	「Hm? You know about it?」
+66271	Rance	真剣	「あん？　知ってるのか」	「Hm? You know about it?」
 
-66272	-	アームズが、まともに驚いた表情で	Arms looked genuinely shocked
-66273	+	アイテムを眺めていた。	as she stared at the item.
+66272	-		アームズが、まともに驚いた表情で	Arms looked genuinely shocked
+66273	+		アイテムを眺めていた。	as she stared at the item.
 
-66274	Arms Arc	「実在するとは思われてなかった……	「I didn't think it actually existed...
-66275	+	　伝説の中でたまに出てくるだけの	　It's only mentioned occasionally in legends,
-66276	+	　超レアアイテムだぞ」	　a super rare item.」
+66274	Arms Arc	基本	「実在するとは思われてなかった……	「I didn't think it actually existed...
+66275	+		　伝説の中でたまに出てくるだけの	　It's only mentioned occasionally in legends,
+66276	+		　超レアアイテムだぞ」	　a super rare item.」
 
-66277	Arms Arc	「私も欲しくて、一時期かなりの数のドラゴンを	「I wanted one too and hunted quite a lot of dragons for a while,
-66278	+	　狩ったが……とうとう出てこなかった」	　but it never appeared...」
+66277	Arms Arc		「私も欲しくて、一時期かなりの数のドラゴンを	「I wanted one too and hunted quite a lot of dragons for a while,
+66278	+		　狩ったが……とうとう出てこなかった」	　but it never appeared...」
 
-66279	KD	「にゃーん」	「Nyaan.」
+66279	KD		「にゃーん」	「Nyaan.」
 
-66280	Arms Arc	「てっきり何かの比喩だと思っていた……	「I thought it was just a metaphor...
-66281	+	　ちょ、ちょっと触らせてくれないか？」	　C-can I touch it for a bit?」
+66280	Arms Arc		「てっきり何かの比喩だと思っていた……	「I thought it was just a metaphor...
+66281	+		　ちょ、ちょっと触らせてくれないか？」	　C-can I touch it for a bit?」
 
-66282	Rance	「お、おいこら！　引っ張るな！」	「H-hey! Don't pull!」
+66282	Rance	怒り	「お、おいこら！　引っ張るな！」	「H-hey! Don't pull!」
 
-66283	KD	「さて、授けるものは授けたでおじゃる。	「Well, I've given what I can give.
-66284	+	　暗くならないうちに下山するといいにゃ」	　You should descend before it gets dark nya.」
+66283	KD	基本	「さて、授けるものは授けたでおじゃる。	「Well, I've given what I can give.
+66284	+		　暗くならないうちに下山するといいにゃ」	　You should descend before it gets dark nya.」
 
-66285	Rance	「お前、まるで喋り方に統一感無いな」	「Your speech is completely inconsistent.」
+66285	Rance	だる顔	「お前、まるで喋り方に統一感無いな」	「Your speech is completely inconsistent.」
 
-66286	KD	「にょほほほほでおじゃる」	「Nyohohohoho.」
+66286	KD	基本	「にょほほほほでおじゃる」	「Nyohohohoho.」
 
-66287	-	ランス達は下山していった。	Rance and the others descended the mountain.
+66287	-		ランス達は下山していった。	Rance and the others descended the mountain.

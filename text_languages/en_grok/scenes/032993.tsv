@@ -2,56 +2,56 @@
 * Yamamoto Rangi	乱義２	Male
 * El Mofus	エール２	Player's choice
 
-192276	-	早朝の森、あなたがテントの中で	Early morning in the forest, you left sleeping Nagata
-192277	+	寝ている長田君を置いて	in the tent
-192278	+	ぶらぶらと森を散歩していると乱義を見つけた。	and while strolling found Rangi.
+192276	-		早朝の森、あなたがテントの中で	Early morning in the forest, you left sleeping Nagata
+192277	+		寝ている長田君を置いて	in the tent
+192278	+		ぶらぶらと森を散歩していると乱義を見つけた。	and while strolling found Rangi.
 
-192279	Yamamoto Rangi	「…………」	「............」
+192279	Yamamoto Rangi	怒り	「…………」	「............」
 
-192280	-	弓を引いてじっと遠くの的を睨みつけていた。	He was drawing his bow and staring intently at a distant target.
+192280	-		弓を引いてじっと遠くの的を睨みつけていた。	He was drawing his bow and staring intently at a distant target.
 
-192281	Yamamoto Rangi	「っ――」	「――」
+192281	Yamamoto Rangi		「っ――」	「――」
 
-192282	-	乱義の放った矢は空気を切り裂いて、	Rangi's arrow sliced through the air
-192283	+	吸い込まれるように的に命中した。	and struck the target dead center.
+192282	-		乱義の放った矢は空気を切り裂いて、	Rangi's arrow sliced through the air
+192283	+		吸い込まれるように的に命中した。	and struck the target dead center.
 
-192284	Yamamoto Rangi	「……ふう、早いね、＜エール＞。	「...You're up early, ＜エール＞.
-192285	+	　おはよう」	　Good morning.」
+192284	Yamamoto Rangi	基本	「……ふう、早いね、＜エール＞。	「...You're up early, ＜エール＞.
+192285	+		　おはよう」	　Good morning.」
 
-192286	-	気づいていたのだろう。	He must have noticed you.
-192287	+	的から目を離して朝の挨拶をする乱義に	Rangi turned from the target and greeted you
-192288	+	驚いた様子はなかった。	without any surprise.
+192286	-		気づいていたのだろう。	He must have noticed you.
+192287	+		的から目を離して朝の挨拶をする乱義に	Rangi turned from the target and greeted you
+192288	+		驚いた様子はなかった。	without any surprise.
 
-192289	El Mofus	「…………。」	「............」
+192289	El Mofus		「…………。」	「............」
 
-192290	Yamamoto Rangi	「これかい？	「This?
-192291	+	　腕が鈍らないように練習を少し、ね」	　Just a bit of practice so my skills don't dull.」
+192290	Yamamoto Rangi		「これかい？	「This?
+192291	+		　腕が鈍らないように練習を少し、ね」	　Just a bit of practice so my skills don't dull.」
 
-192292	Yamamoto Rangi	「弟が生意気だからね……	「My little brother is getting cocky...
-192293	+	　あまり体を鈍らせることも出来ないんだ」	　I can't let my body get weak.」
+192292	Yamamoto Rangi		「弟が生意気だからね……	「My little brother is getting cocky...
+192293	+		　あまり体を鈍らせることも出来ないんだ」	　I can't let my body get weak.」
 
-192294	-	言葉だけなら軽口に聞こえるが、	Though the words sounded light,
-192295	+	その表情と口調はどうやら本気のようである。	his expression and tone were completely serious.
+192294	-		言葉だけなら軽口に聞こえるが、	Though the words sounded light,
+192295	+		その表情と口調はどうやら本気のようである。	his expression and tone were completely serious.
 
-192296	Yamamoto Rangi	「……少し、＜エール＞もやってみるかい？」	「...Want to try a bit too, ＜エール＞?」
+192296	Yamamoto Rangi	微笑み	「……少し、＜エール＞もやってみるかい？」	「...Want to try a bit too, ＜エール＞?」
 
-192297	-	あなたは乱義の勧めで、	At Rangi's suggestion,
-192298	+	弓道の真似事のようなことをさせてもらった。	you tried something like kyudo practice.
+192297	-		あなたは乱義の勧めで、	At Rangi's suggestion,
+192298	+		弓道の真似事のようなことをさせてもらった。	you tried something like kyudo practice.
 
-192299	-	と言っても矢を放つことはなく、	Though you didn't actually shoot arrows,
-192300	+	型を教えられて姿勢や	he mainly taught you form, posture,
-192301	+	力の入れ方などの指導が主だった。	and how to put strength into it.
+192299	-		と言っても矢を放つことはなく、	Though you didn't actually shoot arrows,
+192300	+		型を教えられて姿勢や	he mainly taught you form, posture,
+192301	+		力の入れ方などの指導が主だった。	and how to put strength into it.
 
-192302	-	早朝の森で心を出来るだけ無にして、	In the early morning forest, clearing your mind
-192303	+	姿勢などにだけ集中していると、	and focusing only on posture,
-192304	+	自然と心身が引き締まる思いがした。	you felt your body and mind naturally sharpen.
+192302	-		早朝の森で心を出来るだけ無にして、	In the early morning forest, clearing your mind
+192303	+		姿勢などにだけ集中していると、	and focusing only on posture,
+192304	+		自然と心身が引き締まる思いがした。	you felt your body and mind naturally sharpen.
 
-192305	Yamamoto Rangi	「＜エール＞はスジがいいのかも知れないね。	「You might have good potential, ＜エール＞.
-192306	+	　変な癖が出ないから教え甲斐があったよ」	　No bad habits, so it was worth teaching.」
+192305	Yamamoto Rangi	カッコつけ	「＜エール＞はスジがいいのかも知れないね。	「You might have good potential, ＜エール＞.
+192306	+		　変な癖が出ないから教え甲斐があったよ」	　No bad habits, so it was worth teaching.」
 
-192307	-	兄にそう褒められると素直に嬉しく思え、	Being praised by your big brother felt genuinely nice,
-192308	+	あなたは弓道も楽しそうだななどと、	and you thought kyudo might be fun.
-192309	+	ほんの少しその気になった。	You felt a little interested.
+192307	-		兄にそう褒められると素直に嬉しく思え、	Being praised by your big brother felt genuinely nice,
+192308	+		あなたは弓道も楽しそうだななどと、	and you thought kyudo might be fun.
+192309	+		ほんの少しその気になった。	You felt a little interested.
 
-192310	-	あなたは少し乱義と仲良くなれた、	You felt you had grown a bit closer to Rangi.
-192311	+	そんな気がした。	That's how it felt.
+192310	-		あなたは少し乱義と仲良くなれた、	You felt you had grown a bit closer to Rangi.
+192311	+		そんな気がした。	That's how it felt.

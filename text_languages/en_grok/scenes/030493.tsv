@@ -4,120 +4,120 @@
 * Atago McCart	アタゴ	Female
 * Rance	ランス	Male
 
-10605	Wichita Skate	「失礼します、マジック様」	「Excuse me, Magic-sama.」
+10605	Wichita Skate	基本	「失礼します、マジック様」	「Excuse me, Magic-sama.」
 
-10606	Magic the Gandhi	「あ、ウィチタ」	「Ah, Wichita.」
+10606	Magic the Gandhi		「あ、ウィチタ」	「Ah, Wichita.」
 
-10607	Wichita Skate	「学校関係の私物や連絡物、お持ちしました」	「I brought your personal items and messages from school.」
+10607	Wichita Skate		「学校関係の私物や連絡物、お持ちしました」	「I brought your personal items and messages from school.」
 
-10608	Magic the Gandhi	「あぁ……ありがと。	「Ah...... Thanks.
-10609	+	　学校、結局戻れなかったな……」	　I never did get to go back to school......」
+10608	Magic the Gandhi		「あぁ……ありがと。	「Ah...... Thanks.
+10609	+		　学校、結局戻れなかったな……」	　I never did get to go back to school......」
 
-10610	Wichita Skate	「その……お忙しかったですから。	「Well...... You were so busy.
-10611	+	　お察しします……」	　I understand......」
+10610	Wichita Skate		「その……お忙しかったですから。	「Well...... You were so busy.
+10611	+		　お察しします……」	　I understand......」
 
-10612	Magic the Gandhi	「うぅん、無理して通っても、	「No, forcing myself to attend
-10613	+	　やっぱり良くなかっただろうし。	　probably wouldn't have been good anyway.
-10614	+	　仕方ないわ」	　It can't be helped.」
+10612	Magic the Gandhi		「うぅん、無理して通っても、	「No, forcing myself to attend
+10613	+		　やっぱり良くなかっただろうし。	　probably wouldn't have been good anyway.
+10614	+		　仕方ないわ」	　It can't be helped.」
 
-10615	Wichita Skate	「あ。でもみんな、マジック様の為に	「Ah. But everyone wrote notes
-10616	+	　寄せ書きとか書いてくれたんですよ。ほら」	　for you, Magic-sama. Here.」
+10615	Wichita Skate		「あ。でもみんな、マジック様の為に	「Ah. But everyone wrote notes
+10616	+		　寄せ書きとか書いてくれたんですよ。ほら」	　for you, Magic-sama. Here.」
 
-10617	Magic the Gandhi	「わ……ホントに？　嬉しいわ」	「Wow...... Really? I'm so happy.」
+10617	Magic the Gandhi	笑顔	「わ……ホントに？　嬉しいわ」	「Wow...... Really? I'm so happy.」
 
-10618	Wichita Skate	「学校の前のあのお店、	「That shop in front of the school
-10619	+	　なくなっちゃったんですよね……」	　is gone now......」
+10618	Wichita Skate	基本	「学校の前のあのお店、	「That shop in front of the school
+10619	+		　なくなっちゃったんですよね……」	　is gone now......」
 
-10620	Magic the Gandhi	「え、そうなんだ……	「Eh, really......
-10621	+	　ベビーパウダー、安かったのに……」	　The baby powder was so cheap there......」
+10620	Magic the Gandhi	思考	「え、そうなんだ……	「Eh, really......
+10621	+		　ベビーパウダー、安かったのに……」	　The baby powder was so cheap there......」
 
-10622	Wichita Skate	「そ、そう……ですね……ベビーパウダー……」	「Y-yeah...... Baby powder......」
+10622	Wichita Skate	基本	「そ、そう……ですね……ベビーパウダー……」	「Y-yeah...... Baby powder......」
 
-10623	Wichita Skate	「あ、そうだ。キヨコが彼氏ができたそうですよ。	「Ah, right. Kiyoko got a boyfriend, apparently.
-10624	+	　実際には気になる人、くらいだそうですけど」	　Well, more like someone she's interested in.」
+10623	Wichita Skate		「あ、そうだ。キヨコが彼氏ができたそうですよ。	「Ah, right. Kiyoko got a boyfriend, apparently.
+10624	+		　実際には気になる人、くらいだそうですけど」	　Well, more like someone she's interested in.」
 
-10625	Magic the Gandhi	「ホントに？	「Really?
-10626	+	　子供は慎重に考えた方がいいって伝えておいて。	　Tell her to be careful about having kids.
-10627	+	　寝不足になるしね……」	　It causes sleep deprivation......」
+10625	Magic the Gandhi		「ホントに？	「Really?
+10626	+		　子供は慎重に考えた方がいいって伝えておいて。	　Tell her to be careful about having kids.
+10627	+		　寝不足になるしね……」	　It causes sleep deprivation......」
 
-10628	Wichita Skate	「こ、子供……は、	「K-kids......
-10629	+	　まだまだまだ気が早いような……」	　That's still way too soon......」
+10628	Wichita Skate		「こ、子供……は、	「K-kids......
+10629	+		　まだまだまだ気が早いような……」	　That's still way too soon......」
 
-10630	Wichita Skate	「あ。そうだ、もうひとつお渡しするものが……」	「Ah. Right, I have one more thing for you......」
+10630	Wichita Skate		「あ。そうだ、もうひとつお渡しするものが……」	「Ah. Right, I have one more thing for you......」
 
-10631	Magic the Gandhi	「……あ、マンガ……？」	「......Ah, a manga......?」
+10631	Magic the Gandhi		「……あ、マンガ……？」	「......Ah, a manga......?」
 
-10632	Wichita Skate	「はい！　マジック様がお貸しになっていた……	「Yes! The one you lent out......
-10633	+	　ずっと催促してらしたでしょう」	　You've been asking for it for a while.」
+10632	Wichita Skate		「はい！　マジック様がお貸しになっていた……	「Yes! The one you lent out......
+10633	+		　ずっと催促してらしたでしょう」	　You've been asking for it for a while.」
 
-10634	Magic the Gandhi	「あーー……そういえば……	「Ah~~...... Now that you mention it......
-10635	+	　うん、ありがと。	　Yeah, thanks.
-10636	+	　今読んでる本の次に読むわ」	　I'll read it after the book I'm on now.」
+10634	Magic the Gandhi	思考	「あーー……そういえば……	「Ah~~...... Now that you mention it......
+10635	+		　うん、ありがと。	　Yeah, thanks.
+10636	+		　今読んでる本の次に読むわ」	　I'll read it after the book I'm on now.」
 
-10637	-	マジックはサイドテーブルの上の、	Magic placed the manga next to
-10638	+	付箋と栞が挿し込まれた本の隣にマンガを置いた。	the book on the side table that had sticky notes and a bookmark in it.
+10637	-		マジックはサイドテーブルの上の、	Magic placed the manga next to
+10638	+		付箋と栞が挿し込まれた本の隣にマンガを置いた。	the book on the side table that had sticky notes and a bookmark in it.
 
-10639	Wichita Skate~	（こ、子育てハウツー本……！）	(A child-rearing guidebook......!)
+10639	Wichita Skate~	基本	（こ、子育てハウツー本……！）	(A child-rearing guidebook......!)
 
-10640	Magic the Gandhi	「わ。いっけない。もうこんな時間」	「Oh. Shoot. It's already this late.」
+10640	Magic the Gandhi	驚き	「わ。いっけない。もうこんな時間」	「Oh. Shoot. It's already this late.」
 
-10641	-	マジックは時計を見て、驚いて腰を上げた。	Magic looked at the clock and stood up in surprise.
+10641	-		マジックは時計を見て、驚いて腰を上げた。	Magic looked at the clock and stood up in surprise.
 
-10642	Wichita Skate	「あ、失礼しました。	「Ah, sorry for taking your time.
-10643	+	　執務の方が……」	　You have work......」
+10642	Wichita Skate	基本	「あ、失礼しました。	「Ah, sorry for taking your time.
+10643	+		　執務の方が……」	　You have work......」
 
-10644	Magic the Gandhi	「うぅん、スシヌの世話しなきゃ。	「No, I need to take care of Sushinu.
-10645	+	　そろそろ、外の空気を吸わせるのも良いらしいし」	　It's about time to let her get some fresh air anyway.」
+10644	Magic the Gandhi		「うぅん、スシヌの世話しなきゃ。	「No, I need to take care of Sushinu.
+10645	+		　そろそろ、外の空気を吸わせるのも良いらしいし」	　It's about time to let her get some fresh air anyway.」
 
-10646	Magic the Gandhi	「じゃ、またそのうちにね、ウィチタ」	「See you later, Wichita.」
+10646	Magic the Gandhi		「じゃ、またそのうちにね、ウィチタ」	「See you later, Wichita.」
 
-10647	Wichita Skate	「………………！」	「............!」
+10647	Wichita Skate		「………………！」	「............!」
 
-10648	Wichita Skate	「うぅ……ゴロッチ、もう一杯ください……」	「Uuu...... Gorocchi, another drink please......」
+10648	Wichita Skate	テレ叫び	「うぅ……ゴロッチ、もう一杯ください……」	「Uuu...... Gorocchi, another drink please......」
 
-10649	Atago McCart	「その辺にしときなさい、もう……」	「That's enough already......」
+10649	Atago McCart	基本	「その辺にしときなさい、もう……」	「That's enough already......」
 
-10650	-	ウィチタはアタゴの酒場に雪崩れ込み、	Wichita burst into Atago's bar
-10651	+	やけ酒を呷っていた。	and started downing drinks in frustration.
+10650	-		ウィチタはアタゴの酒場に雪崩れ込み、	Wichita burst into Atago's bar
+10651	+		やけ酒を呷っていた。	and started downing drinks in frustration.
 
-10652	Wichita Skate	「くぅ……はぁ……うう……	「Kuu...... Haa...... Uu......
-10653	+	　は、話が……通じなくなってしまった……」	　I can't get through to anyone anymore......」
+10652	Wichita Skate		「くぅ……はぁ……うう……	「Kuu...... Haa...... Uu......
+10653	+		　は、話が……通じなくなってしまった……」	　I can't get through to anyone anymore......」
 
-10654	Wichita Skate	「マジック様……独りですっかり母親になって……	「Magic-sama has become a full mother all by herself......
-10655	+	　子育てまで……」	　Even raising a child......」
+10654	Wichita Skate		「マジック様……独りですっかり母親になって……	「Magic-sama has become a full mother all by herself......
+10655	+		　子育てまで……」	　Even raising a child......」
 
-10656	Atago McCart	「母親になるって、そうなのよねー……	「That's what happens when you become a mother......
-10657	+	　もう、思考回路から変わって……	　Your whole way of thinking changes......
-10658	+	　友達とか、置いてっちゃうのよね」	　You end up leaving your friends behind.」
+10656	Atago McCart		「母親になるって、そうなのよねー……	「That's what happens when you become a mother......
+10657	+		　もう、思考回路から変わって……	　Your whole way of thinking changes......
+10658	+		　友達とか、置いてっちゃうのよね」	　You end up leaving your friends behind.」
 
-10659	Wichita Skate	「うう……アタゴさんが言うと	「Uuu...... When you say it, Atago-san,
-10660	+	　説得力ありますね……」	　it sounds really convincing......」
+10659	Wichita Skate		「うう……アタゴさんが言うと	「Uuu...... When you say it, Atago-san,
+10660	+		　説得力ありますね……」	　it sounds really convincing......」
 
-10661	-	ウィチタはテーブルに頬をくっつけたまま、	Wichita kept her cheek pressed to the table
-10662	+	うろんな視線でアタゴを見上げた。	and looked up at Atago with hazy eyes.
+10661	-		ウィチタはテーブルに頬をくっつけたまま、	Wichita kept her cheek pressed to the table
+10662	+		うろんな視線でアタゴを見上げた。	and looked up at Atago with hazy eyes.
 
-10663	Atago McCart	「言っとくけど、	「Just so you know,
-10664	+	　私も経験あるのは置いてかれた方だからね」	　I've been the one left behind before.」
+10663	Atago McCart		「言っとくけど、	「Just so you know,
+10664	+		　私も経験あるのは置いてかれた方だからね」	　I've been the one left behind before.」
 
-10665	Wichita Skate	「そうなんですか？	「Really?
-10666	+	　そういう人、作らないんですか」	　Aren't you going to make one yourself?」
+10665	Wichita Skate		「そうなんですか？	「Really?
+10666	+		　そういう人、作らないんですか」	　Aren't you going to make one yourself?」
 
-10667	Atago McCart	「…………まあ。	「............Well.
-10668	+	　無駄に人死にを出す事もないかな、と……」	　I don't want to cause any unnecessary deaths......」
+10667	Atago McCart		「…………まあ。	「............Well.
+10668	+		　無駄に人死にを出す事もないかな、と……」	　I don't want to cause any unnecessary deaths......」
 
-10669	Wichita Skate	「あぁ……なんか、気に入られてますもんね、	「Aah...... He does seem to like you,
-10670	+	　あいつに…………」	　that guy......」
+10669	Wichita Skate		「あぁ……なんか、気に入られてますもんね、	「Aah...... He does seem to like you,
+10670	+		　あいつに…………」	　that guy......」
 
-10671	Atago McCart	「やめて。酒代請求するわよ」	「Stop that or I'll charge you for the drinks.」
+10671	Atago McCart		「やめて。酒代請求するわよ」	「Stop that or I'll charge you for the drinks.」
 
-10672	Rance	「がははははーっと。	「Gahahahaha~.
-10673	+	　お？　ウィチタにアタゴちゃん。	　Oh? Wichita and Atago-chan.
-10674	+	　どうした暗いぞ」	　Why the long faces?」
+10672	Rance	笑顔	「がははははーっと。	「Gahahahaha~.
+10673	+		　お？　ウィチタにアタゴちゃん。	　Oh? Wichita and Atago-chan.
+10674	+		　どうした暗いぞ」	　Why the long faces?」
 
-10675	Wichita Skate	「……………………」	「........................」
+10675	Wichita Skate	基本	「……………………」	「........................」
 
-10676	Atago McCart	「……………………」	「........................」
+10676	Atago McCart		「……………………」	「........................」
 
-10677	?	「「お前が悪い」」	「「It's your fault.」
+10677	?		「「お前が悪い」」	「「It's your fault.」
 
-10678	Rance	「………………？？」	「............??」
+10678	Rance	だる顔	「………………？？」	「............??」

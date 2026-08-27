@@ -2,89 +2,89 @@
 * El Mofus	エール２	Player's choice
 * Reset Kalar	リセット２	Female
 
-236509	-	あなたは控え室で目を覚ました。	You woke up in the waiting room.
+236509	-		あなたは控え室で目を覚ました。	You woke up in the waiting room.
 
-236510	-	　	　
-236511	+	　　＜わあああああああ……＞	　　＜Waaaaah......＞
+236510	-		　	　
+236511	+		　　＜わあああああああ……＞	　　＜Waaaaah......＞
 
-236512	-	コロシアムでは試合が行われているのか、	Matches were still going on in the coliseum,
-236513	+	喧噪が遠くに聞こえる。	the roar faintly audible in the distance.
+236512	-		コロシアムでは試合が行われているのか、	Matches were still going on in the coliseum,
+236513	+		喧噪が遠くに聞こえる。	the roar faintly audible in the distance.
 
-236514	-	頭がボーッとしていた。	Your head felt fuzzy.
-236515	+	今まで自分が何をしていたのか思い出せない。	You couldn't remember what you had been doing.
+236514	-		頭がボーッとしていた。	Your head felt fuzzy.
+236515	+		今まで自分が何をしていたのか思い出せない。	You couldn't remember what you had been doing.
 
-236516	El Mofus	「…………。」	「............」
-236517	+	「……ッ！」	「...!」
+236516	El Mofus	基本	「…………。」	「............」
+236517	+		「……ッ！」	「...!」
 
-236518	-	自分が敗北したことに考えが至り、	The realization that you had lost hit you,
-236519	+	全身から汗がぶわっと噴き出た。	and cold sweat poured from your entire body.
+236518	-		自分が敗北したことに考えが至り、	The realization that you had lost hit you,
+236519	+		全身から汗がぶわっと噴き出た。	and cold sweat poured from your entire body.
 
-236520	-	――リセットはどうなっただろう。	――What happened to Reset?
+236520	-		――リセットはどうなっただろう。	――What happened to Reset?
 
-236521	-	心臓の鼓動が小刻みに早くなり、	Your heartbeat quickened erratically,
-236522	+	指の先がピリピリと痛む。	and your fingertips tingled with pain.
+236521	-		心臓の鼓動が小刻みに早くなり、	Your heartbeat quickened erratically,
+236522	+		指の先がピリピリと痛む。	and your fingertips tingled with pain.
 
-236523	-	自分が負けてしまったせいで、	Because you lost,
-236524	+	リセットが犯されてしまった――	Reset must have been violated――
+236523	-		自分が負けてしまったせいで、	Because you lost,
+236524	+		リセットが犯されてしまった――	Reset must have been violated――
 
-236525	-	その考えで頭がいっぱいになり、	That thought filled your mind,
-236526	+	あなたは軽い吐き気すら覚えた。	and you even felt nauseous.
+236525	-		その考えで頭がいっぱいになり、	That thought filled your mind,
+236526	+		あなたは軽い吐き気すら覚えた。	and you even felt nauseous.
 
-236527	Reset Kalar	「あ……＜エール＞ちゃん、おはよう……」	「Ah...... ＜エール＞-chan, good morning......」
+236527	Reset Kalar		「あ……＜エール＞ちゃん、おはよう……」	「Ah...... ＜エール＞-chan, good morning......」
 
-236528	-	気配がないので気づかなかったが、	You hadn't noticed because of the lack of presence,
-236529	+	ベッドの脇に座っていたリセットは	but Reset had been sitting by the bed
-236530	+	あなたの手を握っていてくれたらしい。	holding your hand.
+236528	-		気配がないので気づかなかったが、	You hadn't noticed because of the lack of presence,
+236529	+		ベッドの脇に座っていたリセットは	but Reset had been sitting by the bed
+236530	+		あなたの手を握っていてくれたらしい。	holding your hand.
 
-236531	-	姉に顔を向けた途端、	The moment you turned to your sister,
-236532	+	いつもと決定的に違う点に気がつく。	you noticed something decisively different from usual.
+236531	-		姉に顔を向けた途端、	The moment you turned to your sister,
+236532	+		いつもと決定的に違う点に気がつく。	you noticed something decisively different from usual.
 
-236533	-	それは――	It was――
+236533	-		それは――	It was――
 
-236534	Reset Kalar	「体、痛いところはない？」	「Does your body hurt anywhere?」
+236534	Reset Kalar	事後	「体、痛いところはない？」	「Does your body hurt anywhere?」
 
-236535	-	いつもニコニコと明るい表情は陰り、	Her usual bright smiling face was clouded,
-236536	+	瞳から光が消え失せ、そして何よりも、	the light gone from her eyes, and above all,
-236537	+	額のクリスタルの色は変貌していた。	the color of the crystal on her forehead had changed.
+236535	-		いつもニコニコと明るい表情は陰り、	Her usual bright smiling face was clouded,
+236536	+		瞳から光が消え失せ、そして何よりも、	the light gone from her eyes, and above all,
+236537	+		額のクリスタルの色は変貌していた。	the color of the crystal on her forehead had changed.
 
-236538	El Mofus	「…………。」	「............」
+236538	El Mofus	基本	「…………。」	「............」
 
-236539	Reset Kalar	「なにもなかったよ」	「Nothing happened.」
+236539	Reset Kalar	事後	「なにもなかったよ」	「Nothing happened.」
 
-236540	Reset Kalar	「……なにもなかったよ」	「......Nothing happened.」
+236540	Reset Kalar		「……なにもなかったよ」	「......Nothing happened.」
 
-236541	-	ハッキリと、リセットはそれだけは、	Clearly, Reset asserted only that,
-236542	+	そう断言してみせた。	as if trying to convince herself.
+236541	-		ハッキリと、リセットはそれだけは、	Clearly, Reset asserted only that,
+236542	+		そう断言してみせた。	as if trying to convince herself.
 
-236543	Reset Kalar	「…………」	「............」
+236543	Reset Kalar		「…………」	「............」
 
-236544	-	リセットは、今、自分がどんな顔をしているのか、	Reset didn't seem to realize
-236545	+	それすら分かっていないような顔をしていた。	what kind of expression she was making right now.
+236544	-		リセットは、今、自分がどんな顔をしているのか、	Reset didn't seem to realize
+236545	+		それすら分かっていないような顔をしていた。	what kind of expression she was making right now.
 
-236546	-	おそらく本人にも分かっていないことだが、	She probably didn't realize it herself,
-236547	+	リセットのスカートはかすかに土で汚れていた。	but her skirt was faintly stained with dirt.
+236546	-		おそらく本人にも分かっていないことだが、	She probably didn't realize it herself,
+236547	+		リセットのスカートはかすかに土で汚れていた。	but her skirt was faintly stained with dirt.
 
-236548	-	それだけでなく、それが何か分からないが、	Not only that, but there was also
-236549	+	黄ばんだ白濁色の液体もこびりついている。	a yellowish white sticky fluid clinging to it.
+236548	-		それだけでなく、それが何か分からないが、	Not only that, but there was also
+236549	+		黄ばんだ白濁色の液体もこびりついている。	a yellowish white sticky fluid clinging to it.
 
-236550	Reset Kalar	「ん？　どーしたの？	「Hm? What's wrong?
-236551	+	　＜エール＞ちゃん」	　＜エール＞-chan?」
+236550	Reset Kalar		「ん？　どーしたの？	「Hm? What's wrong?
+236551	+		　＜エール＞ちゃん」	　＜エール＞-chan?」
 
-236552	Reset Kalar	「あ、もしかして、	「Ah, maybe you're
-236553	+	　負けちゃってショック、なのかな？」	　shocked about losing?」
+236552	Reset Kalar		「あ、もしかして、	「Ah, maybe you're
+236553	+		　負けちゃってショック、なのかな？」	　shocked about losing?」
 
-236554	Reset Kalar	「えへへ、これからはザンスちゃんや、	「Ehehe, from now on let's cheer for Zance-chan and
-236555	+	　乱義ちゃんの応援がんばろーね」	　Rangi-chan.」
+236554	Reset Kalar		「えへへ、これからはザンスちゃんや、	「Ehehe, from now on let's cheer for Zance-chan and
+236555	+		　乱義ちゃんの応援がんばろーね」	　Rangi-chan.」
 
-236556	-	そう言って、リセットは、	Saying that, Reset
-236557	+	ぎこちない笑みで微笑む。	forced an awkward smile.
+236556	-		そう言って、リセットは、	Saying that, Reset
+236557	+		ぎこちない笑みで微笑む。	forced an awkward smile.
 
-236558	-	手は、強く、	Her hand gripped yours tightly,
-236559	+	ギュッと強く握られていた。	as if desperately seeking help.
+236558	-		手は、強く、	Her hand gripped yours tightly,
+236559	+		ギュッと強く握られていた。	as if desperately seeking help.
 
-236560	-	まるで助けを求めるように。	
+236560	-		まるで助けを求めるように。	
 
-236561	-	あなたは……	You......
+236561	-		あなたは……	You......
 
-236562	-	あなたはなんだか	You felt like
-236563	+	目の前が真っ暗になったような気がした。	everything before you went pitch black.
+236562	-		あなたはなんだか	You felt like
+236563	+		目の前が真っ暗になったような気がした。	everything before you went pitch black.

@@ -7,212 +7,212 @@
 * Chaos	カオス	Male
 * Megawas Horus	メガワス	Male
 
-129466	Rance	「……なんだか小腹が空いてきたな」	「...I'm getting a bit hungry.」
+129466	Rance	真剣	「……なんだか小腹が空いてきたな」	「...I'm getting a bit hungry.」
 
-129467	Sill Plain	「ちょっと待って下さいね、ランス様。	「Please wait a moment, Rance-sama.
-129468	+	　はい、シィルちゃん特製お弁当です」	　Here, it's Sill-chan's special bento.」
+129467	Sill Plain	基本	「ちょっと待って下さいね、ランス様。	「Please wait a moment, Rance-sama.
+129468	+		　はい、シィルちゃん特製お弁当です」	　Here, it's Sill-chan's special bento.」
 
-129469	Rance	「うむ、食わせろ」	「Yeah, feed me.」
+129469	Rance		「うむ、食わせろ」	「Yeah, feed me.」
 
-129470	Sill Plain	「はい、あーんして下さい、ランス様」	「Yes, say ahh, Rance-sama.」
+129470	Sill Plain	笑顔	「はい、あーんして下さい、ランス様」	「Yes, say ahh, Rance-sama.」
 
-129471	Rance	「あーん、もぐもぐもぐ。	「Ahh, munch munch munch.
-129472	+	　うむ、悪くない。もっとよこせ」	　Not bad. Give me more.」
+129471	Rance	基本	「あーん、もぐもぐもぐ。	「Ahh, munch munch munch.
+129472	+		　うむ、悪くない。もっとよこせ」	　Not bad. Give me more.」
 
-129473	Sill Plain	「はい、どうぞランス様、あーん」	「Yes, here you go Rance-sama, ahh.」
+129473	Sill Plain	笑顔	「はい、どうぞランス様、あーん」	「Yes, here you go Rance-sama, ahh.」
 
-129474	Rance	「もぐもぐもぐ。	「Munch munch munch.
-129475	+	　ところで、そっちのはお前の弁当か？」	　By the way, is that one yours?」
+129474	Rance	基本	「もぐもぐもぐ。	「Munch munch munch.
+129475	+		　ところで、そっちのはお前の弁当か？」	　By the way, is that one yours?」
 
-129476	Sill Plain	「はい、そうですよ」	「Yes, it is.」
+129476	Sill Plain		「はい、そうですよ」	「Yes, it is.」
 
-129477	Rance	「よし、こっちも寄越せ。	「Alright, hand that over too.
-129478	+	　ガツガツぱくぱくムシャムシャ」	　Chomp chomp gulp gulp munch munch.」
+129477	Rance		「よし、こっちも寄越せ。	「Alright, hand that over too.
+129478	+		　ガツガツぱくぱくムシャムシャ」	　Chomp chomp gulp gulp munch munch.」
 
-129479	Sill Plain	「あ、あ、あーーーーっ！」	「Ah, ah, aaaaa!」
+129479	Sill Plain	慌て	「あ、あ、あーーーーっ！」	「Ah, ah, aaaaa!」
 
-129480	-	ランスはシィルの弁当を	Rance devoured Sill's bento
-129481	+	あっという間にたいらげた。	in the blink of an eye.
+129480	-		ランスはシィルの弁当を	Rance devoured Sill's bento
+129481	+		あっという間にたいらげた。	in the blink of an eye.
 
-129482	Sill Plain	「くすん、ひどいです、ランス様」	「Hic, that's so mean, Rance-sama.」
+129482	Sill Plain	恥	「くすん、ひどいです、ランス様」	「Hic, that's so mean, Rance-sama.」
 
-129483	Rance	「げぷっ。油断する方が悪いのだ。	「Burp. It's your fault for letting your guard down.
-129484	+	　がははははははは！」	　Gahahahahahaha!」
+129483	Rance	基本	「げぷっ。油断する方が悪いのだ。	「Burp. It's your fault for letting your guard down.
+129484	+		　がははははははは！」	　Gahahahahahaha!」
 
-129485	Satella	「って……」	「Hey...」
+129485	Satella		「って……」	「Hey...」
 
-129486	Satella	「こらーーーーッ！」	「Heyyyyy!」
+129486	Satella	怒り	「こらーーーーッ！」	「Heyyyyy!」
 
-129487	-	イチャつくランスとシィルを見て、	Seeing the lovey-dovey Rance and Sill,
-129488	+	サテラが声を上げた。	Satella raised her voice.
+129487	-		イチャつくランスとシィルを見て、	Seeing the lovey-dovey Rance and Sill,
+129488	+		サテラが声を上げた。	Satella raised her voice.
 
-129489	Satella	「このサテラがいるのに、	「With Satella right here,
-129490	+	　なんだその緊張感のない様は！」	　what's with that relaxed attitude!」
+129489	Satella		「このサテラがいるのに、	「With Satella right here,
+129490	+		　なんだその緊張感のない様は！」	　what's with that relaxed attitude!」
 
-129491	Rance	「なんだ、騒がしいぞ、サテラ。	「What's with the noise, Satella.
-129492	+	　お前も食べたいのか？」	　You want some too?」
+129491	Rance	基本	「なんだ、騒がしいぞ、サテラ。	「What's with the noise, Satella.
+129492	+		　お前も食べたいのか？」	　You want some too?」
 
-129493	Satella	「そんなわけあるか！」	「Of course not!」
+129493	Satella	怒り	「そんなわけあるか！」	「Of course not!」
 
-129494	Rance~	（こいつはサテラ。	（This is Satella.
-129495	+	　一応、魔人と呼ばれる超強い女だ）	　She's a super strong woman known as a Fiend.）
+129494	Rance~	基本	（こいつはサテラ。	（This is Satella.
+129495	+		　一応、魔人と呼ばれる超強い女だ）	　She's a super strong woman known as a Fiend.）
 
-129496	Rance~	（随分前から因縁があり、何度か会っていたのだが、	（We've had a connection for a while and met several times,
-129497	+	　今回この遺跡に入る前、	　but right before entering this ruin this time,
-129498	+	　なんと俺様を追いかけて会いに来たのだ）	　she chased after me and came to meet me.）
+129496	Rance~		（随分前から因縁があり、何度か会っていたのだが、	（We've had a connection for a while and met several times,
+129497	+		　今回この遺跡に入る前、	　but right before entering this ruin this time,
+129498	+		　なんと俺様を追いかけて会いに来たのだ）	　she chased after me and came to meet me.）
 
-129499	Rance~	（なんでもサテラが言うには――）	（According to Satella――）
+129499	Rance~		（なんでもサテラが言うには――）	（According to Satella――）
 
-129500	Satella	「ランス、お前を殺す！	「Rance, I'll kill you!
-129501	+	　サテラの使徒になるのを断ったこと、	　For refusing to become Satella's apostle,
-129502	+	　後悔させてやる！」	　I'll make you regret it!」
+129500	Satella	怒り	「ランス、お前を殺す！	「Rance, I'll kill you!
+129501	+		　サテラの使徒になるのを断ったこと、	　For refusing to become Satella's apostle,
+129502	+		　後悔させてやる！」	　I'll make you regret it!」
 
-129503	Rance~	（――だそうだ。	（――or so she says.
-129504	+	　それから、何故か行動を共にしている）	　And for some reason we've been traveling together since.）
+129503	Rance~	基本	（――だそうだ。	（――or so she says.
+129504	+		　それから、何故か行動を共にしている）	　And for some reason we've been traveling together since.）
 
-129505	Satella	「……サテラが本気になれば、	「...If Satella gets serious,
-129506	+	　人間は二秒で肉塊に出来る。	　she can turn a human into minced meat in two seconds.
-129507	+	　その無防備さはサテラを馬鹿にしているのか」	　That defenselessness is mocking Satella.」
+129505	Satella	不安	「……サテラが本気になれば、	「...If Satella gets serious,
+129506	+		　人間は二秒で肉塊に出来る。	　she can turn a human into minced meat in two seconds.
+129507	+		　その無防備さはサテラを馬鹿にしているのか」	　That defenselessness is mocking Satella.」
 
-129508	Rance	「がははは、サテラには俺を	「Gahahaha, Satella knows
-129509	+	　殺せないと分かっているからな」	　she can't kill me.」
+129508	Rance	基本	「がははは、サテラには俺を	「Gahahaha, Satella knows
+129509	+		　殺せないと分かっているからな」	　she can't kill me.」
 
-129510	Satella	「なっ！」	「Wha!」
+129510	Satella	怒り	「なっ！」	「Wha!」
 
-129511	Caesar	「サテラ様ヲ馬鹿ニスルカ！」	「HOW DARE YOU MOCK LADY SATELLA!」
+129511	Caesar	基本	「サテラ様ヲ馬鹿ニスルカ！」	「HOW DARE YOU MOCK LADY SATELLA!」
 
-129512	Satella	「シーザー、止せ！」	「Caesar, stop!」
+129512	Satella	怒り	「シーザー、止せ！」	「Caesar, stop!」
 
-129513	-	巨大な石人形である、サテラの使徒、	The giant stone statue, Satella's apostle,
-129514	+	シーザーの巨体の動きが	Caesar's massive body
-129515	+	命令によってピタリと止まる。	stopped instantly at her command.
+129513	-		巨大な石人形である、サテラの使徒、	The giant stone statue, Satella's apostle,
+129514	+		シーザーの巨体の動きが	Caesar's massive body
+129515	+		命令によってピタリと止まる。	stopped instantly at her command.
 
-129516	Rance	「ほーら、俺を殺す大チャンスでも	「See, even with a perfect chance to kill me,
-129517	+	　ちゃーんとサテラはやめただろう。	　Satella stopped properly.
-129518	+	　いやー、サテラは優しいなー」	　Wow, Satella is so kind.」
+129516	Rance	基本	「ほーら、俺を殺す大チャンスでも	「See, even with a perfect chance to kill me,
+129517	+		　ちゃーんとサテラはやめただろう。	　Satella stopped properly.
+129518	+		　いやー、サテラは優しいなー」	　Wow, Satella is so kind.」
 
-129519	Satella	「ぬっ、ぬぬぬぬぬ……ッ！	「Nuu, nununununu...!」
-129520	+	　いったい何を考えているんだ、お前は……」	　What the hell are you thinking...」
+129519	Satella	ぐぬぬ	「ぬっ、ぬぬぬぬぬ……ッ！	「Nuu, nununununu...!」
+129520	+		　いったい何を考えているんだ、お前は……」	　What the hell are you thinking...」
 
-129521	Bezeleye	「何も考えてないわよ、きっと」	「He's probably not thinking anything.」
+129521	Bezeleye	基本	「何も考えてないわよ、きっと」	「He's probably not thinking anything.」
 
-129522	Satella	「お前もだ、聖女モンスター。	「You too, Holy Gal Monster.
-129523	+	　力のベゼルアイともあろう者が、何を考えて	　Someone like Power Bezeleye, what are you thinking
-129524	+	　この男と行動を共にしている」	　traveling with this man.」
+129522	Satella	ツンデレ	「お前もだ、聖女モンスター。	「You too, Holy Gal Monster.
+129523	+		　力のベゼルアイともあろう者が、何を考えて	　Someone like Power Bezeleye, what are you thinking
+129524	+		　この男と行動を共にしている」	　traveling with this man.」
 
-129525	Bezeleye	「？　私も何も考えてないけど？」	「? I'm not thinking anything either?」
+129525	Bezeleye	基本	「？　私も何も考えてないけど？」	「? I'm not thinking anything either?」
 
-129526	Bezeleye	「私の目的は新種を作る為、	「My goal is to create new species,
-129527	+	　それに見合った男の子モンスターを見つけること。	　by finding suitable boy monsters.
-129528	+	　目的地もないからただ一緒に旅してるだけよ」	　I have no destination so I'm just traveling with him.」
+129526	Bezeleye		「私の目的は新種を作る為、	「My goal is to create new species,
+129527	+		　それに見合った男の子モンスターを見つけること。	　by finding suitable boy monsters.
+129528	+		　目的地もないからただ一緒に旅してるだけよ」	　I have no destination so I'm just traveling with him.」
 
-129529	Satella	「くっ、どいつもこいつも……ッ！」	「Kuh, every single one of you...!」
+129529	Satella	ぐぬぬ	「くっ、どいつもこいつも……ッ！」	「Kuh, every single one of you...!」
 
-129530	Bezeleye	「サテラちゃんこそ、何が目的で	「What about you, Satella-chan? What's your goal
-129531	+	　ランス君に同行しているの？」	　for traveling with Rance-kun?」
+129530	Bezeleye	基本	「サテラちゃんこそ、何が目的で	「What about you, Satella-chan? What's your goal
+129531	+		　ランス君に同行しているの？」	　for traveling with Rance-kun?」
 
-129532	Satella	「さっきも言った筈だ、	「I already told you,
-129533	+	　サテラはランスを殺す為に……」	　Satella is here to kill Rance...」
+129532	Satella	ツンデレ	「さっきも言った筈だ、	「I already told you,
+129533	+		　サテラはランスを殺す為に……」	　Satella is here to kill Rance...」
 
-129534	Bezeleye	「それなら、とっくに殺してるでしょ？	「If that was true you'd have killed him already, right?
-129535	+	　何かそれ以外の目的があるんじゃ……	　There must be another reason...
-129536	+	　あっ……」	　Ah...」
+129534	Bezeleye	基本	「それなら、とっくに殺してるでしょ？	「If that was true you'd have killed him already, right?
+129535	+		　何かそれ以外の目的があるんじゃ……	　There must be another reason...
+129536	+		　あっ……」	　Ah...」
 
-129537	-	そこでベゼルアイが気づく。	Bezeleye realized something.
+129537	-		そこでベゼルアイが気づく。	Bezeleye realized something.
 
-129538	Bezeleye	「馬鹿ね、ランス君と交尾がしたいのなら、	「Silly, if you want to mate with Rance-kun,
-129539	+	　そう言えばいいのに」	　just say so.」
+129538	Bezeleye		「馬鹿ね、ランス君と交尾がしたいのなら、	「Silly, if you want to mate with Rance-kun,
+129539	+		　そう言えばいいのに」	　just say so.」
 
-129540	Satella	「な、あっ、ち、違うわーーーーッ！」	「W-Wha, n-no, that's not it-----!」
+129540	Satella	超テレ	「な、あっ、ち、違うわーーーーッ！」	「W-Wha, n-no, that's not it-----!」
 
-129541	Caesar	「イイ加減ニシロ！	「ENOUGH ALREADY!
-129542	+	　サテラ様ニ失礼ナコトヲ言エバ神ト言エド――！」	　IF YOU INSULT LADY SATELLA, EVEN IF YOU ARE A GOD――!」
+129541	Caesar	基本	「イイ加減ニシロ！	「ENOUGH ALREADY!
+129542	+		　サテラ様ニ失礼ナコトヲ言エバ神ト言エド――！」	　IF YOU INSULT LADY SATELLA, EVEN IF YOU ARE A GOD――!」
 
-129543	Satella	「シーザー、やめろ、動くな。	「Caesar, stop, don't move.
-129544	+	　それと少し黙ってろ！」	　And stay quiet for a bit!」
+129543	Satella	怒り	「シーザー、やめろ、動くな。	「Caesar, stop, don't move.
+129544	+		　それと少し黙ってろ！」	　And stay quiet for a bit!」
 
-129545	Caesar	「……………………」	「........................」
+129545	Caesar	基本	「……………………」	「........................」
 
-129546	-	サテラの命令でシーザーは動きを止め黙った。	At Satella's command, Caesar stopped moving and fell silent.
+129546	-		サテラの命令でシーザーは動きを止め黙った。	At Satella's command, Caesar stopped moving and fell silent.
 
-129547	Bezeleye	「？　別に嘘つくことないでしょ。	「? No need to lie.
-129548	+	　惚れた男の種で孕みたいと思うのは	　Wanting to get pregnant with the seed of the man you love
-129549	+	　女の子として、自然なことだわ」	　is perfectly natural for a girl.」
+129547	Bezeleye		「？　別に嘘つくことないでしょ。	「? No need to lie.
+129548	+		　惚れた男の種で孕みたいと思うのは	　Wanting to get pregnant with the seed of the man you love
+129549	+		　女の子として、自然なことだわ」	　is perfectly natural for a girl.」
 
-129550	Satella	「は、はらっ――！？」	「P-Pregnant――!?」
+129550	Satella	超テレ	「は、はらっ――！？」	「P-Pregnant――!?」
 
-129551	Bezeleye	「？　サテラちゃんはランス君の種で	「? Don't you want to get pregnant
-129552	+	　孕みたいんじゃないの？」	　with Rance-kun's seed, Satella-chan?」
+129551	Bezeleye	基本	「？　サテラちゃんはランス君の種で	「? Don't you want to get pregnant
+129552	+		　孕みたいんじゃないの？」	　with Rance-kun's seed, Satella-chan?」
 
-129553	Satella	「あ、あ、あ、ぁ……」	「A-A-A, ah...」
+129553	Satella	ぐぬぬ	「あ、あ、あ、ぁ……」	「A-A-A, ah...」
 
-129554	Rance	「ほーーーーーう！	「Ooooooh!
-129555	+	　なんだなんだ、そうだったのかサテラ！」	　So that's what it was, Satella!」
+129554	Rance	エロ顔	「ほーーーーーう！	「Ooooooh!
+129555	+		　なんだなんだ、そうだったのかサテラ！」	　So that's what it was, Satella!」
 
-129556	Rance	「がはははははははははははは！	「Gahahahahahahahahahaha!
-129557	+	　それなら俺様が一肌脱いで――ッ！」	　In that case I'll gladly help――!」
+129556	Rance	笑顔	「がはははははははははははは！	「Gahahahahahahahahahaha!
+129557	+		　それなら俺様が一肌脱いで――ッ！」	　In that case I'll gladly help――!」
 
-129558	Satella	「う、うわあああーーん！」	「U-Uwaaaaaah!」
+129558	Satella	あほー	「う、うわあああーーん！」	「U-Uwaaaaaah!」
 
-129559	-	サテラは逃げ出した。	Satella ran away.
+129559	-		サテラは逃げ出した。	Satella ran away.
 
-129560	Rance	「あ、行っちまった……」	「Ah, she ran off...」
+129560	Rance	基本	「あ、行っちまった……」	「Ah, she ran off...」
 
-129561	Bezeleye	「……女の子を苛めるなんて	「...Teasing a girl like that
-129562	+	　感心しないわよ、ランス君」	　isn't nice, Rance-kun.」
+129561	Bezeleye		「……女の子を苛めるなんて	「...Teasing a girl like that
+129562	+		　感心しないわよ、ランス君」	　isn't nice, Rance-kun.」
 
-129563	Rance	「お前のせいだろうが！」	「It's your fault!」
+129563	Rance		「お前のせいだろうが！」	「It's your fault!」
 
-129564	Bezeleye	「シーザー君も大変ね。	「Caesar-kun has it rough too.
-129565	+	　追いかけなくて良かったの？」	　Are you sure you don't need to chase her?」
+129564	Bezeleye		「シーザー君も大変ね。	「Caesar-kun has it rough too.
+129565	+		　追いかけなくて良かったの？」	　Are you sure you don't need to chase her?」
 
-129566	Caesar	「……………………」	「........................」
+129566	Caesar		「……………………」	「........................」
 
-129567	Bezeleye	「ああ、何も言わず動くなと言われたから、	「Ah, she told him not to move or speak,
-129568	+	　命令違反出来ないのか、大変ね」	　so he can't disobey. Tough.」
+129567	Bezeleye		「ああ、何も言わず動くなと言われたから、	「Ah, she told him not to move or speak,
+129568	+		　命令違反出来ないのか、大変ね」	　so he can't disobey. Tough.」
 
-129569	-	ベゼルアイが肩を叩こうとして……	Bezeleye tried to pat his shoulder...
+129569	-		ベゼルアイが肩を叩こうとして……	Bezeleye tried to pat his shoulder...
 
-129570	Bezeleye	「…………」	「............」
+129570	Bezeleye		「…………」	「............」
 
-129571	-	身長が足りず腰の辺りをポンポン叩いた。	but being too short, she patted his waist instead.
+129571	-		身長が足りず腰の辺りをポンポン叩いた。	but being too short, she patted his waist instead.
 
-129572	Bezeleye	「じゃ、サテラちゃんが戻るまで	「Well, until Satella-chan comes back
-129573	+	　休憩にしましょうか」	　let's take a break.」
+129572	Bezeleye		「じゃ、サテラちゃんが戻るまで	「Well, until Satella-chan comes back
+129573	+		　休憩にしましょうか」	　let's take a break.」
 
-129574	Bezeleye	「シィルちゃん、ロッキー君、	「Sill-chan, Rocky-kun,
-129575	+	　ご飯の用意をして。私はお茶を淹れるから」	　prepare the food. I'll make tea.」
+129574	Bezeleye		「シィルちゃん、ロッキー君、	「Sill-chan, Rocky-kun,
+129575	+		　ご飯の用意をして。私はお茶を淹れるから」	　prepare the food. I'll make tea.」
 
-129576	-	手をパンパン叩き、	She clapped her hands,
-129577	+	ベゼルアイはパーティーに的確な指示を飛ばす。	and Bezeleye gave precise instructions to the party.
+129576	-		手をパンパン叩き、	She clapped her hands,
+129577	+		ベゼルアイはパーティーに的確な指示を飛ばす。	and Bezeleye gave precise instructions to the party.
 
-129578	Rance	「……まったく、仕切り屋な神様だぜ」	「...What a bossy god.」
+129578	Rance		「……まったく、仕切り屋な神様だぜ」	「...What a bossy god.」
 
-129579	Chaos	「なーなー、心の友よー、	「Hey hey, soul friend,
-129580	+	　本当にこのままでいいのか？」	　is this really okay?」
+129579	Chaos		「なーなー、心の友よー、	「Hey hey, soul friend,
+129580	+		　本当にこのままでいいのか？」	　is this really okay?」
 
-129581	Chaos	「相手は魔人だぞ？	「She's a Fiend, you know?
-129582	+	　魔人の意味分かってるか？	　Do you understand what that means?
-129583	+	　人類の永遠の敵だぞ？」	　Humanity's eternal enemy?」
+129581	Chaos		「相手は魔人だぞ？	「She's a Fiend, you know?
+129582	+		　魔人の意味分かってるか？	　Do you understand what that means?
+129583	+		　人類の永遠の敵だぞ？」	　Humanity's eternal enemy?」
 
-129584	Chaos	「今の内に殺すべきだ」	「We should kill her now.」
+129584	Chaos		「今の内に殺すべきだ」	「We should kill her now.」
 
-129585	Chaos	「いや、殺そう、すぐ殺そう。世界でほぼ唯一	「No, let's kill her right now. I'm one of the few in the world
-129586	+	　魔人と戦える剣の儂も頑張りますよー」	　who can fight Fiends, so I'll do my best tooー」
+129585	Chaos		「いや、殺そう、すぐ殺そう。世界でほぼ唯一	「No, let's kill her right now. I'm one of the few in the world
+129586	+		　魔人と戦える剣の儂も頑張りますよー」	　who can fight Fiends, so I'll do my best tooー」
 
-129587	Rance	「くくく、アレ見て気づかんのか。	「Hehehe, can't you tell just by looking?
-129588	+	　サテラは俺様に惚れているのだ。	　Satella is in love with me.
-129589	+	　もう完全に落とした状態だ」	　She's completely fallen for me.」
+129587	Rance		「くくく、アレ見て気づかんのか。	「Hehehe, can't you tell just by looking?
+129588	+		　サテラは俺様に惚れているのだ。	　Satella is in love with me.
+129589	+		　もう完全に落とした状態だ」	　She's completely fallen for me.」
 
-129590	Rance	「そんな可愛い俺様の女を誰が殺すか」	「Who would kill such a cute girl of mine?」
+129590	Rance		「そんな可愛い俺様の女を誰が殺すか」	「Who would kill such a cute girl of mine?」
 
-129591	Chaos	「はぁーあ、言うと思った……」	「Haaah, I knew you'd say that...」
+129591	Chaos	ため息	「はぁーあ、言うと思った……」	「Haaah, I knew you'd say that...」
 
-129592	Rance	「さーて、いつやるかな。	「Now then, when should I do it.
-129593	+	　ぐふふふ、楽しみだぞ」	　Hehehe, I'm looking forward to it.」
+129592	Rance	基本	「さーて、いつやるかな。	「Now then, when should I do it.
+129593	+		　ぐふふふ、楽しみだぞ」	　Hehehe, I'm looking forward to it.」
 
-129594	Megawas Horus	「魔人に、石人形に、神に、喋る剣。	「A Fiend, a stone statue, a god, and a talking sword.
-129595	+	　どれも話に聞いたことはあるけど……	　I've heard stories about each...
-129596	+	　なんとも不思議な一行よねぇ。ﾇﾇﾇ」	　What a mysterious group. Nunu.」
+129594	Megawas Horus		「魔人に、石人形に、神に、喋る剣。	「A Fiend, a stone statue, a god, and a talking sword.
+129595	+		　どれも話に聞いたことはあるけど……	　I've heard stories about each...
+129596	+		　なんとも不思議な一行よねぇ。ﾇﾇﾇ」	　What a mysterious group. Nunu.」
 
-129597	Rance	「異星人が言うな」	「Says the alien.」
+129597	Rance		「異星人が言うな」	「Says the alien.」

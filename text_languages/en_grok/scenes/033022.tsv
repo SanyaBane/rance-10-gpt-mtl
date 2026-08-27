@@ -10,229 +10,229 @@
 * Masou Shizuka	志津香２	Female
 * Maria Custard	マリア２	Female
 
-193403	Nagata-kun	「お、朝飯作ってるんすか？」	「Oh, making breakfast?」
+193403	Nagata-kun	基本	「お、朝飯作ってるんすか？」	「Oh, making breakfast?」
 
-193404	-	朝、あなたが長田君と共に	In the morning, as you and Nagata-kun
-193405	+	テントから顔を出すと、	peered out of the tent,
-193406	+	リセット達が朝ご飯を作っていた。	Reset and the others were making breakfast.
+193404	-		朝、あなたが長田君と共に	In the morning, as you and Nagata-kun
+193405	+		テントから顔を出すと、	peered out of the tent,
+193406	+		リセット達が朝ご飯を作っていた。	Reset and the others were making breakfast.
 
-193407	Reset Kalar	「おはよー。	「Morning~.
-193408	+	　うん、今朝はサンドイッチだよ〜」	　Yeah, sandwiches this morning~」
+193407	Reset Kalar	笑顔	「おはよー。	「Morning~.
+193408	+		　うん、今朝はサンドイッチだよ〜」	　Yeah, sandwiches this morning~」
 
-193409	Nagata-kun	「お〜、いっすね〜。	「Oh~, nice~.
-193410	+	　……って、うん？」	　...Wait, huh?」
+193409	Nagata-kun	基本	「お〜、いっすね〜。	「Oh~, nice~.
+193410	+		　……って、うん？」	　...Wait, huh?」
 
-193411	Nook 77	「おはよ。	「Morning.
-193412	+	　もうすぐでご飯出来るから顔を洗ってきなさい」	　Food will be ready soon so go wash your face.」
+193411	Nook 77	笑顔	「おはよ。	「Morning.
+193412	+		　もうすぐでご飯出来るから顔を洗ってきなさい」	　Food will be ready soon so go wash your face.」
 
-193413	Nagata-kun	「あれ！？	「Eh!?
-193414	+	　ダークランスさんと一緒にいる天使さん！」	　The angel who was with Dark Rance!」
+193413	Nagata-kun	基本	「あれ！？	「Eh!?
+193414	+		　ダークランスさんと一緒にいる天使さん！」	　The angel who was with Dark Rance!」
 
-193415	-	どうやらダークランスとヌークの二人は	It seems Dark Rance and Nuke
-193416	+	また遊びに来ていたらしい。	came to visit again.
+193415	-		どうやらダークランスとヌークの二人は	It seems Dark Rance and Nuke
+193416	+		また遊びに来ていたらしい。	came to visit again.
 
-193417	Nagata-kun	「ほーっ、手慣れてるもんすねー。	「Whoa, you're really good at this.」
-193418	+	　毎日そうやってご飯作ってんすか？」	　Do you make food like this every day?」
+193417	Nagata-kun		「ほーっ、手慣れてるもんすねー。	「Whoa, you're really good at this.」
+193418	+		　毎日そうやってご飯作ってんすか？」	　Do you make food like this every day?」
 
-193419	Nook 77	「んー？　普段は手間だから	「Hmm? Usually it's too much trouble
-193420	+	　そんなこともないかなあ」	　so not really.」
+193419	Nook 77		「んー？　普段は手間だから	「Hmm? Usually it's too much trouble
+193420	+		　そんなこともないかなあ」	　so not really.」
 
-193421	Nook 77	「むしろ、ダークランスの方がよく作ってるかな。	「Actually Dark Rance cooks more often.
-193422	+	　私も出来ないわけじゃないんだし、	　It's not that I can't,
-193423	+	　ま、たまにはね」	　but only sometimes.」
+193421	Nook 77		「むしろ、ダークランスの方がよく作ってるかな。	「Actually Dark Rance cooks more often.
+193422	+		　私も出来ないわけじゃないんだし、	　It's not that I can't,
+193423	+		　ま、たまにはね」	　but only sometimes.」
 
-193424	Reset Kalar	「これはザンスちゃんの分ー、	「This is for Zance-chan,
-193425	+	　こっちはスシヌちゃんの分ー」	　this is for Sushinu-chan~」
+193424	Reset Kalar	口開き	「これはザンスちゃんの分ー、	「This is for Zance-chan,
+193425	+		　こっちはスシヌちゃんの分ー」	　this is for Sushinu-chan~」
 
-193426	-	そんな会話をしていると、	While having such conversation,
-193427	+	リセットが次々にお皿にサンドイッチを並べていく。	Reset lined up sandwiches on the plates one after another.
+193426	-		そんな会話をしていると、	While having such conversation,
+193427	+		リセットが次々にお皿にサンドイッチを並べていく。	Reset lined up sandwiches on the plates one after another.
 
-193428	Nook 77	「…………」	「............」
+193428	Nook 77	ツンデレ	「…………」	「............」
 
-193429	Nook 77~	（こ、こ、こ……）	（T-t-this...）
+193429	Nook 77~		（こ、こ、こ……）	（T-t-this...）
 
-193430	Nook 77~	（これは……だ、ダークランスの分……）	（This is... D-Dark Rance's portion...）
+193430	Nook 77~		（これは……だ、ダークランスの分……）	（This is... D-Dark Rance's portion...）
 
-193431	-	そっと、	Gently,
-193432	+	ヌークは丁寧に作ったサンドイッチを	Nuke placed the carefully made sandwich
-193433	+	お皿の上に並べた。	on the plate.
+193431	-		そっと、	Gently,
+193432	+		ヌークは丁寧に作ったサンドイッチを	Nuke placed the carefully made sandwich
+193433	+		お皿の上に並べた。	on the plate.
 
-193434	-	…………	............
+193434	-		…………	............
 
-193435	-	……	...
+193435	-		……	...
 
-193436	Sushinu the Gandhi	「はむはむ……	「Ham ham...
-193437	+	　んー、美味しい……」	　Mmm, delicious...」
+193436	Sushinu the Gandhi	外套杖なし／笑顔	「はむはむ……	「Ham ham...
+193437	+		　んー、美味しい……」	　Mmm, delicious...」
 
-193438	Zance Leazas	「ふんっ、まあまあ」	「Hmph, not bad.」
+193438	Zance Leazas	基本	「ふんっ、まあまあ」	「Hmph, not bad.」
 
-193439	-	皆が起きてくると朝ご飯の時間になり、	As everyone woke up it became breakfast time,
-193440	+	それぞれが渡された皿から	and everyone ate the sandwiches
-193441	+	サンドイッチを次々と口に運んでいた。	from their plates one after another.
+193439	-		皆が起きてくると朝ご飯の時間になり、	As everyone woke up it became breakfast time,
+193440	+		それぞれが渡された皿から	and everyone ate the sandwiches
+193441	+		サンドイッチを次々と口に運んでいた。	from their plates one after another.
 
-193442	Dark Rance	「おっ、美味そうだなあ。	「Oh, looks tasty.
-193443	+	　俺の分、あるか？」	　Is there any for me?」
+193442	Dark Rance		「おっ、美味そうだなあ。	「Oh, looks tasty.
+193443	+		　俺の分、あるか？」	　Is there any for me?」
 
-193444	Nagi su Ragarl	「あ、それなら……」	「Ah, in that case...」
+193444	Nagi su Ragarl		「あ、それなら……」	「Ah, in that case...」
 
-193445	Nook 77	「どきどき……どきどき……」	「Thump thump... thump thump...」
+193445	Nook 77	ツンデレ	「どきどき……どきどき……」	「Thump thump... thump thump...」
 
-193446	Nook 77	「あ、あの……だ、ダークランス……」	「U-um... D-Dark Rance...」
+193446	Nook 77		「あ、あの……だ、ダークランス……」	「U-um... D-Dark Rance...」
 
-193447	Dark Rance	「お、乱義のそれ美味そうだな」	「Oh, Rangi's looks good.」
+193447	Dark Rance	安心	「お、乱義のそれ美味そうだな」	「Oh, Rangi's looks good.」
 
-193448	Yamamoto Rangi	「兄さんも食べますか？」	「Would you like some too, brother?」
+193448	Yamamoto Rangi	微笑み	「兄さんも食べますか？」	「Would you like some too, brother?」
 
-193449	Dark Rance	「おう、サンキュー。	「Yeah, thanks.
-193450	+	　ははは、美味い美味い」	　Hahaha, delicious.」
+193449	Dark Rance	安心	「おう、サンキュー。	「Yeah, thanks.
+193450	+		　ははは、美味い美味い」	　Hahaha, delicious.」
 
-193451	Nook 77	「…………」	「............」
+193451	Nook 77	怒り	「…………」	「............」
 
-193452	-	　	　
-193453	+	　　＜ぎゅ〜〜〜……＞	　　<Squeeze~~~...>
+193452	-		　	　
+193453	+		　　＜ぎゅ〜〜〜……＞	　　<Squeeze~~~...>
 
-193454	Dark Rance	「痛い痛い痛い痛い！」	「Ouch ouch ouch ouch!」
+193454	Dark Rance	驚き	「痛い痛い痛い痛い！」	「Ouch ouch ouch ouch!」
 
-193455	Dark Rance	「ななな、なんだよ！？	「W-w-what!?」
-193456	+	　なんでお尻つねってるんだ、お前！」	　Why are you pinching my butt!」
+193455	Dark Rance		「ななな、なんだよ！？	「W-w-what!?」
+193456	+		　なんでお尻つねってるんだ、お前！」	　Why are you pinching my butt!」
 
-193457	Nook 77	「別にぃ〜……なんでもないけどぉ……？」	「Nothing~... it's nothing...?」
+193457	Nook 77	ツンデレ	「別にぃ〜……なんでもないけどぉ……？」	「Nothing~... it's nothing...?」
 
-193458	Dark Rance	「いたたたた！	「Owww!
-193459	+	　な、なんでもないなら、や、やめ！	　If it's nothing then s-stop!
-193460	+	　いたーーーー！」	　Ouuuuch!」
+193458	Dark Rance	驚き	「いたたたた！	「Owww!
+193459	+		　な、なんでもないなら、や、やめ！	　If it's nothing then s-stop!
+193460	+		　いたーーーー！」	　Ouuuuch!」
 
-193461	Nagata-kun	「…………」	「............」
+193461	Nagata-kun	基本	「…………」	「............」
 
-193462	Nagata-kun	「あの二人……	「Those two...
-193463	+	　仲いいんすか？　悪いんすか？」	　Are they close or not?」
+193462	Nagata-kun		「あの二人……	「Those two...
+193463	+		　仲いいんすか？　悪いんすか？」	　Are they close or not?」
 
-193464	Reset Kalar	「とっても仲良し」	「They're super close.」
+193464	Reset Kalar	笑顔	「とっても仲良し」	「They're super close.」
 
-193465	Nagata-kun	「う〜〜〜ん……」	「Hmmmm...」
+193465	Nagata-kun	基本	「う〜〜〜ん……」	「Hmmmm...」
 
-193466	Masou Shizuka	「あの二人って……」	「Those two...
+193466	Masou Shizuka	帽子なし	「あの二人って……」	「Those two...
 
-193467	Nagi su Ragarl	「ずーっと、ああなのよね……	have always been like that...
-193468	+	　はむっ」	　Ham.
+193467	Nagi su Ragarl	帽子なし／反省	「ずーっと、ああなのよね……	have always been like that...
+193468	+		　はむっ」	　Ham.
 
-193469	Nook 77	「…………」	「............」
+193469	Nook 77	反省	「…………」	「............」
 
-193470	Nook 77	「……ぐっすん」	「...Sniffle.」
+193470	Nook 77		「……ぐっすん」	「...Sniffle.」
 
-193471	-	あなたは兄とその彼女？　の	You witnessed your brother's
-193472	+	不思議な関係を目の当たりにした。	strange relationship with his girlfriend?.
+193471	-		あなたは兄とその彼女？　の	You witnessed your brother's
+193472	+		不思議な関係を目の当たりにした。	strange relationship with his girlfriend?.
 
-193473	-	また遊びに来ていたダークランスと、	With Dark Rance who came to visit again,
-193474	+	あなたはお喋りをしていた。	you were chatting.
+193473	-		また遊びに来ていたダークランスと、	With Dark Rance who came to visit again,
+193474	+		あなたはお喋りをしていた。	you were chatting.
 
-193475	Maria Custard	「じゃあ、ダークランス。	「Well then, Dark Rance.
-193476	+	　私、志津香のところに行ってくるね」	　I'll go to Shizuka's place.」
+193475	Maria Custard	基本	「じゃあ、ダークランス。	「Well then, Dark Rance.
+193476	+		　私、志津香のところに行ってくるね」	　I'll go to Shizuka's place.」
 
-193477	Dark Rance	「おう、気をつけてな」	「Yeah, take care.」
+193477	Dark Rance		「おう、気をつけてな」	「Yeah, take care.」
 
-193478	Maria Custard	「もう、すぐそこじゃない」	「It's right there.」
+193478	Maria Custard	笑顔	「もう、すぐそこじゃない」	「It's right there.」
 
-193479	-	クスッと笑って、	With a small laugh,
-193480	+	軽く手を振ってマリアは	Maria lightly waved
-193481	+	志津香のテントに向かって行った。	and headed to Shizuka's tent.
+193479	-		クスッと笑って、	With a small laugh,
+193480	+		軽く手を振ってマリアは	Maria lightly waved
+193481	+		志津香のテントに向かって行った。	and headed to Shizuka's tent.
 
-193482	Nagata-kun	「そういや、あのマリアさん？　って人は、	「By the way, that Maria-san,
-193483	+	　ダークランスさんの恋人？　なわけ？」	　is she Dark Rance-san's girlfriend?」
+193482	Nagata-kun	基本	「そういや、あのマリアさん？　って人は、	「By the way, that Maria-san,
+193483	+		　ダークランスさんの恋人？　なわけ？」	　is she Dark Rance-san's girlfriend?」
 
-193484	Dark Rance	「おう、まあな」	「Yeah, pretty much.」
+193484	Dark Rance	安心	「おう、まあな」	「Yeah, pretty much.」
 
-193485	Nagata-kun	「…………」	「............」
+193485	Nagata-kun	基本	「…………」	「............」
 
-193486	Dark Rance	「ん？　どした？」	「Hm? What's up?」
+193486	Dark Rance		「ん？　どした？」	「Hm? What's up?」
 
-193487	Nagata-kun	「や、魔王ランスってめっちゃ女好きって聞くし、	「Well, I heard Demon King Rance is a huge womanizer,
-193488	+	　ザンスもそんなところあるけど……	　and Zance is kind of like that too but...
-193489	+	　兄ちゃんはぶっちゃけそんな感じしねーなーって」	　you don't really seem that way, bro.」
+193487	Nagata-kun		「や、魔王ランスってめっちゃ女好きって聞くし、	「Well, I heard Demon King Rance is a huge womanizer,
+193488	+		　ザンスもそんなところあるけど……	　and Zance is kind of like that too but...
+193489	+		　兄ちゃんはぶっちゃけそんな感じしねーなーって」	　you don't really seem that way, bro.」
 
-193490	Dark Rance	「はは、たまに言われるな、そういうこと」	「Haha, I get that sometimes.」
+193490	Dark Rance	安心	「はは、たまに言われるな、そういうこと」	「Haha, I get that sometimes.」
 
-193491	Dark Rance	「俺は親父に特に顔が似てるからな。	「I look a lot like my old man.
-193492	+	　親父の昔の知り合いにはよく言われるよ」	　Old acquaintances of my dad often say that.」
+193491	Dark Rance		「俺は親父に特に顔が似てるからな。	「I look a lot like my old man.
+193492	+		　親父の昔の知り合いにはよく言われるよ」	　Old acquaintances of my dad often say that.」
 
-193493	Dark Rance	「確かに親父は女を抱きまくってたな。	「Yeah, dad slept with tons of women.
-193494	+	　それこそ千人以上にものぼるとか」	　Over a thousand, they say.」
+193493	Dark Rance	基本	「確かに親父は女を抱きまくってたな。	「Yeah, dad slept with tons of women.
+193494	+		　それこそ千人以上にものぼるとか」	　Over a thousand, they say.」
 
-193495	Nagata-kun	「そ、そんなに……」	「T-that many...」
+193495	Nagata-kun		「そ、そんなに……」	「T-that many...」
 
-193496	Dark Rance	「あいつ最低なんだよ、本当に」	「He's the worst, really.」
+193496	Dark Rance		「あいつ最低なんだよ、本当に」	「He's the worst, really.」
 
-193497	-	ダークランスは溜め息交じりで、	Dark Rance sighed,
-193498	+	少し疲れたような表情を浮かべていた。	looking a bit tired.
+193497	-		ダークランスは溜め息交じりで、	Dark Rance sighed,
+193498	+		少し疲れたような表情を浮かべていた。	looking a bit tired.
 
-193499	Dark Rance	「俺は違う」	「I'm different.」
+193499	Dark Rance		「俺は違う」	「I'm different.」
 
-193500	Dark Rance	「心から愛する女は一人でいい」	「One woman I love from the bottom of my heart is enough.」
+193500	Dark Rance		「心から愛する女は一人でいい」	「One woman I love from the bottom of my heart is enough.」
 
-193501	Dark Rance	「……や、一人でなくちゃいかん」	「...It has to be just one.」
+193501	Dark Rance		「……や、一人でなくちゃいかん」	「...It has to be just one.」
 
-193502	Dark Rance	「こんなの当たり前のことなんだがなぁ……」	「This should be obvious but...」
+193502	Dark Rance		「こんなの当たり前のことなんだがなぁ……」	「This should be obvious but...」
 
-193503	-	ダークランスは数少ない、	Dark Rance is one of the few
-193504	+	人間時代からの魔王ランスを知る魔王の子。	Demon King's children who knew Rance from his human days.
-193505	+	それ故に色々と思うところがあるらしい。	So he has a lot on his mind.
+193503	-		ダークランスは数少ない、	Dark Rance is one of the few
+193504	+		人間時代からの魔王ランスを知る魔王の子。	Demon King's children who knew Rance from his human days.
+193505	+		それ故に色々と思うところがあるらしい。	So he has a lot on his mind.
 
-193506	Dark Rance	「マリアは……	「Maria is...
-193507	+	　俺にとっては恩人でもあってな」	　a benefactor to me.」
+193506	Dark Rance		「マリアは……	「Maria is...
+193507	+		　俺にとっては恩人でもあってな」	　a benefactor to me.」
 
-193508	Dark Rance	「ガキの頃からよく世話になった……」	「She took care of me a lot since I was a kid...」
+193508	Dark Rance		「ガキの頃からよく世話になった……」	「She took care of me a lot since I was a kid...」
 
-193509	Dark Rance	「母親や妹弟達は、幸せになって欲しいし、	「I want my mother and little siblings to be happy,
-193510	+	　それが叶わないなら俺がこの手で	　and if they can't, I'll make them happy
-193511	+	　幸せにするって思うんだが……」	　with my own hands...」
+193509	Dark Rance		「母親や妹弟達は、幸せになって欲しいし、	「I want my mother and little siblings to be happy,
+193510	+		　それが叶わないなら俺がこの手で	　and if they can't, I'll make them happy
+193511	+		　幸せにするって思うんだが……」	　with my own hands...」
 
-193512	Dark Rance	「恋した相手ってのはちょっと違うんだな……」	「But the one I fell in love with is a bit different...」
+193512	Dark Rance		「恋した相手ってのはちょっと違うんだな……」	「But the one I fell in love with is a bit different...」
 
-193513	Dark Rance	「俺が、俺の手で、幸せにしたい」	「I want to make her happy with my own hands.」
+193513	Dark Rance	安心	「俺が、俺の手で、幸せにしたい」	「I want to make her happy with my own hands.」
 
-193514	Dark Rance	「そんな風に思った女性は、	「She's the first woman
-193515	+	　初めてだった……」	　I ever felt that way about...」
+193514	Dark Rance		「そんな風に思った女性は、	「She's the first woman
+193515	+		　初めてだった……」	　I ever felt that way about...」
 
-193516	Dark Rance	「それがマリアなんだ」	「And that's Maria.」
+193516	Dark Rance		「それがマリアなんだ」	「And that's Maria.」
 
-193517	Nagata-kun	「はーっ……大人だなあ……」	「Haa... so adult...」
+193517	Nagata-kun	基本	「はーっ……大人だなあ……」	「Haa... so adult...」
 
-193518	Dark Rance	「そんなことないさ。	「Not at all.
-193519	+	　俺なんてまだまだマリアにとっちゃ、	　To Maria I'm still like a kid――」
-193520	+	　ガキみたいな――」	
+193518	Dark Rance	安心	「そんなことないさ。	「Not at all.
+193519	+		　俺なんてまだまだマリアにとっちゃ、	　To Maria I'm still like a kid――」
+193520	+		　ガキみたいな――」	
 
-193521	Dark Rance	「ぐはあっ！？」	「Guhaa!?」
+193521	Dark Rance	驚き	「ぐはあっ！？」	「Guhaa!?」
 
-193522	-	鉄で出来た大きな筒で、	With a large metal cylinder,
-193523	+	ダークランスの頭が殴られた。	Dark Rance's head was hit.
+193522	-		鉄で出来た大きな筒で、	With a large metal cylinder,
+193523	+		ダークランスの頭が殴られた。	Dark Rance's head was hit.
 
-193524	Dark Rance	「ったー！　なにするんだよ、マリア！」	「Oww! What are you doing, Maria!」
+193524	Dark Rance	怒り	「ったー！　なにするんだよ、マリア！」	「Oww! What are you doing, Maria!」
 
-193525	Maria Custard	「あ、の、ねぇぇぇ……」	「U-um, you know...」
+193525	Maria Custard	テレ怒り	「あ、の、ねぇぇぇ……」	「U-um, you know...」
 
-193526	Dark Rance	「……あれ？　なんか怒ってるか？」	「...Huh? Are you mad?」
+193526	Dark Rance	驚き	「……あれ？　なんか怒ってるか？」	「...Huh? Are you mad?」
 
-193527	-	怒りに青筋を立てたマリアが、	Maria, veins popping with anger,
-193528	+	ダークランスの背後に立っていた。	stood behind Dark Rance.
+193527	-		怒りに青筋を立てたマリアが、	Maria, veins popping with anger,
+193528	+		ダークランスの背後に立っていた。	stood behind Dark Rance.
 
-193529	Maria Custard	「あんまりそういうこと、	「Don't say things like that
-193530	+	　他の子に言わないで！」	　to other girls!」
+193529	Maria Custard	テレ怒り	「あんまりそういうこと、	「Don't say things like that
+193530	+		　他の子に言わないで！」	　to other girls!」
 
-193531	Dark Rance	「ああ、いや……しかしな……	「Ah, well... but...
-193532	+	　二人とも身内だろ？」	　They're both family, right?」
+193531	Dark Rance	驚き	「ああ、いや……しかしな……	「Ah, well... but...
+193532	+		　二人とも身内だろ？」	　They're both family, right?」
 
-193533	Maria Custard	「は、恥ずかしいでしょうが！」	「It's embarrassing!」
+193533	Maria Custard	テレ怒り	「は、恥ずかしいでしょうが！」	「It's embarrassing!」
 
-193534	Maria Custard	「もうっ！」	「Geez!」
+193534	Maria Custard		「もうっ！」	「Geez!」
 
-193535	-	マリアは怒ってスタスタと行ってしまった。	Maria stormed off angrily.
+193535	-		マリアは怒ってスタスタと行ってしまった。	Maria stormed off angrily.
 
-193536	Dark Rance	「はあ……」	「Haa...」
+193536	Dark Rance	基本	「はあ……」	「Haa...」
 
-193537	Dark Rance	「見ての通り、結構尻に敷かれてんだ」	「As you can see, she's got me whipped.」
+193537	Dark Rance		「見ての通り、結構尻に敷かれてんだ」	「As you can see, she's got me whipped.」
 
-193538	Dark Rance	「おーい、待ってくれよ！　マリア！」	「Hey, wait up! Maria!」
+193538	Dark Rance	驚き	「おーい、待ってくれよ！　マリア！」	「Hey, wait up! Maria!」
 
-193539	Nagata-kun	「…………」	「............」
+193539	Nagata-kun	基本	「…………」	「............」
 
-193540	Nagata-kun	「……仲いいなぁ」	「...They're really close.」
+193540	Nagata-kun		「……仲いいなぁ」	「...They're really close.」

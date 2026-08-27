@@ -7,141 +7,141 @@
 * Blue Monster Soldier	汎用魔物兵青	Male
 * Red Monster Soldier	汎用魔物兵赤	Male
 
-135656	-	懸命な移動の末、	After desperate movement,
-135657	+	ランス達はカミーラ城のあるツリー都市に着実に近づいていた。	Rance's group was steadily approaching the tree city where Camilla Castle was located.
+135656	-		懸命な移動の末、	After desperate movement,
+135657	+		ランス達はカミーラ城のあるツリー都市に着実に近づいていた。	Rance's group was steadily approaching the tree city where Camilla Castle was located.
 
-135658	Rance	「はあ、さすがに疲れたな……」	「Haa, I'm really tired...」
+135658	Rance	真剣	「はあ、さすがに疲れたな……」	「Haa, I'm really tired...」
 
-135659	Sill Plain	「う……疲れたどころか、	「Uuu... It's not just tired,
-135660	+	　皆さん、ボロボロです……」	　everyone is in tatters...」
+135659	Sill Plain	基本	「う……疲れたどころか、	「Uuu... It's not just tired,
+135660	+		　皆さん、ボロボロです……」	　everyone is in tatters...」
 
-135661	Rance	「うぉーい、サテラー。	「Hey, Satella.
-135662	+	　カミーラの城があるっていう	　The tree city where Camilla's castle is
-135663	+	　ツリー都市にはまだ着かんのか？」	　we still haven't reached it?」
+135661	Rance	だる顔	「うぉーい、サテラー。	「Hey, Satella.
+135662	+		　カミーラの城があるっていう	　The tree city where Camilla's castle is
+135663	+		　ツリー都市にはまだ着かんのか？」	　we still haven't reached it?」
 
-135664	Satella	「…………」	「............」
+135664	Satella	基本	「…………」	「............」
 
-135665	Rance	「あん？　おい、サテラ、人の話を――」	「Hey? Oi, Satella, listen to me--
+135665	Rance		「あん？　おい、サテラ、人の話を――」	「Hey? Oi, Satella, listen to me--
 
-135666	Satella	「着いたぞ」	「We're here.」
+135666	Satella	怒り	「着いたぞ」	「We're here.」
 
-135667	Rance	「へ？」	「Heh?」
+135667	Rance	基本	「へ？」	「Heh?」
 
-135668	-	森を抜けたランス達の眼前に、	After exiting the forest, before Rance's group
-135669	+	巨大な魔物都市が現れた。	a massive monster city appeared.
+135668	-		森を抜けたランス達の眼前に、	After exiting the forest, before Rance's group
+135669	+		巨大な魔物都市が現れた。	a massive monster city appeared.
 
-135670	Sill Plain	「わ、わあ〜〜……	「W-waa...
-135671	+	　す、すごいですね、ランス様」	　It's amazing, Rance-sama.」
+135670	Sill Plain		「わ、わあ〜〜……	「W-waa...
+135671	+		　す、すごいですね、ランス様」	　It's amazing, Rance-sama.」
 
-135672	Rance	「って、あれが都市なのか？」	「Wait, that's the city?」
+135672	Rance		「って、あれが都市なのか？」	「Wait, that's the city?」
 
-135673	Satella	「ああ、魔物界の魔物はああやって	「Yes, monsters in the Monster Realm live
-135674	+	　集落を作って暮らすんだ」	　in settlements like that.」
+135673	Satella		「ああ、魔物界の魔物はああやって	「Yes, monsters in the Monster Realm live
+135674	+		　集落を作って暮らすんだ」	　in settlements like that.」
 
-135675	Satella	「時間と余裕があるなら	「If we had time and leisure
-135676	+	　案内でもしてやるところだがな」	　I could show you around, but...」
+135675	Satella		「時間と余裕があるなら	「If we had time and leisure
+135676	+		　案内でもしてやるところだがな」	　I could show you around, but...」
 
-135677	Hornet	「今、その余裕はありませんね」	「We don't have that luxury now.」
+135677	Hornet		「今、その余裕はありませんね」	「We don't have that luxury now.」
 
-135678	Hornet	「既に見つかっています」	「We've already been spotted.」
+135678	Hornet		「既に見つかっています」	「We've already been spotted.」
 
-135679	-	ホーネットは自分達の周りを	Hornet glared at the darkness in the forest
-135680	+	ぐるりと囲む森の中の闇を睨む。	surrounding them.
+135679	-		ホーネットは自分達の周りを	Hornet glared at the darkness in the forest
+135680	+		ぐるりと囲む森の中の闇を睨む。	surrounding them.
 
-135681	Sill Plain	「も、もしかして敵に……	「C-could it be that we're...
-135682	+	　か、囲まれてますか？」	　surrounded by enemies?」
+135681	Sill Plain		「も、もしかして敵に……	「C-could it be that we're...
+135682	+		　か、囲まれてますか？」	　surrounded by enemies?」
 
-135683	Hornet	「ええ。	「Yes.
-135684	+	　私達が動くと同時に襲う腹づもりでしょう」	　They probably plan to attack the moment we move.」
+135683	Hornet		「ええ。	「Yes.
+135684	+		　私達が動くと同時に襲う腹づもりでしょう」	　They probably plan to attack the moment we move.」
 
-135685	Rance	「シィル、俺から離れるな。	「Sill, don't leave my side.
-135686	+	　いいか、絶対だぞ」	　Got it? Absolutely.」
+135685	Rance	真剣	「シィル、俺から離れるな。	「Sill, don't leave my side.
+135686	+		　いいか、絶対だぞ」	　Got it? Absolutely.」
 
-135687	Sill Plain	「は、はいっ」	「Y-yes!」
+135687	Sill Plain	基本	「は、はいっ」	「Y-yes!」
 
-135688	Rance	「いいか、せーので行くぞ」	「Alright, on three we go.」
+135688	Rance		「いいか、せーので行くぞ」	「Alright, on three we go.」
 
-135689	-	魔人討伐隊の皆が足に力を込める。	Everyone in the Fiend Extermination Squad braced their legs.
+135689	-		魔人討伐隊の皆が足に力を込める。	Everyone in the Fiend Extermination Squad braced their legs.
 
-135690	Rance	「せーの……」	「One... two...」
+135690	Rance		「せーの……」	「One... two...」
 
-135691	Rance	「…………」	「............」
+135691	Rance	真剣	「…………」	「............」
 
-135692	Rance	「ドンッ！」	「Go!」
+135692	Rance	怒り	「ドンッ！」	「Go!」
 
-135693	-	一気呵成、ランスのかけ声のもと、	In one swift motion, at Rance's signal,
-135694	+	魔人討伐隊の皆が一気に都市まで駆け下りる。	the entire Fiend Extermination Squad rushed down toward the city.
+135693	-		一気呵成、ランスのかけ声のもと、	In one swift motion, at Rance's signal,
+135694	+		魔人討伐隊の皆が一気に都市まで駆け下りる。	the entire Fiend Extermination Squad rushed down toward the city.
 
-135695	Monster Captain	「逃がすなァ！　追え、追えーーーッ！	「Don't let them escape! Chase, chase them---!
-135696	+	　皆殺しにしろぉぉぉぉおお！」	　Kill them all!!!」
+135695	Monster Captain	基本	「逃がすなァ！　追え、追えーーーッ！	「Don't let them escape! Chase, chase them---!
+135696	+		　皆殺しにしろぉぉぉぉおお！」	　Kill them all!!!」
 
-135697	-	…………	............
+135697	-		…………	............
 
-135698	-	……	...
+135698	-		……	...
 
-135699	-	ランス達の侵入により都市の中は、	Due to Rance's group's intrusion, the city
-135700	+	蜂の巣を引っ繰り返したような大騒ぎになっていた。	was in complete chaos like a kicked beehive.
+135699	-		ランス達の侵入により都市の中は、	Due to Rance's group's intrusion, the city
+135700	+		蜂の巣を引っ繰り返したような大騒ぎになっていた。	was in complete chaos like a kicked beehive.
 
-135701	Blue Monster Soldier	「おい、聞いたか？	「Hey, did you hear?
-135702	+	　今入ってきてるらしい人類軍の侵入者、	　The human army intruders who just came in,
-135703	+	　ブッ殺したらケイブリス様から褒美出るってよ！」	　if we kill them we'll get rewards from Kayblis-sama!」
+135701	Blue Monster Soldier		「おい、聞いたか？	「Hey, did you hear?
+135702	+		　今入ってきてるらしい人類軍の侵入者、	　The human army intruders who just came in,
+135703	+		　ブッ殺したらケイブリス様から褒美出るってよ！」	　if we kill them we'll get rewards from Kayblis-sama!」
 
-135704	Red Monster Soldier	「知ってるに決まってるだろ！？	「Of course I know!?
-135705	+	　ひゃははは、侵入者を殺して一攫千金よ！」	　Hyahaha, kill the intruders and get rich quick!」
+135704	Red Monster Soldier		「知ってるに決まってるだろ！？	「Of course I know!?
+135705	+		　ひゃははは、侵入者を殺して一攫千金よ！」	　Hyahaha, kill the intruders and get rich quick!」
 
-135706	Blue Monster Soldier	「馬ー鹿、ここまで攻めてくるような奴だぞ、	「Idiot, they're the kind that charge all the way here,
-135707	+	　一筋縄じゃいかねぇよ」	　it won't be easy.」
+135706	Blue Monster Soldier		「馬ー鹿、ここまで攻めてくるような奴だぞ、	「Idiot, they're the kind that charge all the way here,
+135707	+		　一筋縄じゃいかねぇよ」	　it won't be easy.」
 
-135708	Red Monster Soldier	「ってわけでよ、ククク……	「So that's why, kukuku...
-135709	+	　この辺に罠を張ってだなぁ……」	　Let's set some traps around here...」
+135708	Red Monster Soldier		「ってわけでよ、ククク……	「So that's why, kukuku...
+135709	+		　この辺に罠を張ってだなぁ……」	　Let's set some traps around here...」
 
-135710	Rance	「うおおおおおーーー！」	「Uoooooh!」
+135710	Rance		「うおおおおおーーー！」	「Uoooooh!」
 
-135711	Red Monster Soldier	「あ、なんだこの声……？」	「Ah, what is that voice...?」
+135711	Red Monster Soldier		「あ、なんだこの声……？」	「Ah, what is that voice...?」
 
-135712	Rance	「どけどけどけどけーーーーーッ！」	「Outta the way, outta the waaaaay!」
+135712	Rance	怒り	「どけどけどけどけーーーーーッ！」	「Outta the way, outta the waaaaay!」
 
-135713	Blue Monster Soldier	「な、なんだ貴様ら！？	「W-what are you guys!?」
-135714	+	　まっ、まさか侵入者がもうここまで！？」	　N-no way the intruders are already here!?」
+135713	Blue Monster Soldier	基本	「な、なんだ貴様ら！？	「W-what are you guys!?」
+135714	+		　まっ、まさか侵入者がもうここまで！？」	　N-no way the intruders are already here!?」
 
-135715	Red Monster Soldier	「そんな！　話で聞いたより、ずっと早いぞ！？」	「No way! They're way faster than what I heard!」
+135715	Red Monster Soldier		「そんな！　話で聞いたより、ずっと早いぞ！？」	「No way! They're way faster than what I heard!」
 
-135716	Rance	「邪魔だ！！」	「You're in the way!!」
+135716	Rance		「邪魔だ！！」	「You're in the way!!」
 
-135717	Red Monster Soldier	「ぎゃあああああああ！」	「Gyaaaaaaa!」
+135717	Red Monster Soldier		「ぎゃあああああああ！」	「Gyaaaaaaa!」
 
-135718	Monster Captain	「い、いたぞ！　向こうだ！	「T-there they are! Over there!
-135719	+	　回り込め、回り込めー！」	　Surround them, surround them!」
+135718	Monster Captain		「い、いたぞ！　向こうだ！	「T-there they are! Over there!
+135719	+		　回り込め、回り込めー！」	　Surround them, surround them!」
 
-135720	Rance	「ええい、カミーラの城ってのはどこだ！？	「Damn it, where is Camilla's castle!?
-135721	+	　このままじゃ敵に囲まれちまうぞ！」	　At this rate we'll be surrounded!」
+135720	Rance	だる顔	「ええい、カミーラの城ってのはどこだ！？	「Damn it, where is Camilla's castle!?
+135721	+		　このままじゃ敵に囲まれちまうぞ！」	　At this rate we'll be surrounded!」
 
-135722	Satella	「見つけた！　あそこに走れ！」	「Found it! Run there!」
+135722	Satella	怒り	「見つけた！　あそこに走れ！」	「Found it! Run there!」
 
-135723	Rance	「ああ……分かりやすい目印だ……」	「Yeah... that's an easy landmark...」
+135723	Rance	基本	「ああ……分かりやすい目印だ……」	「Yeah... that's an easy landmark...」
 
-135724	-	魔物都市をしばらく進むと、	After advancing a bit through the monster city,
-135725	+	大きな城が現れ、その入り口には	a large castle appeared, and at its entrance
-135726	+	巨大な垂れ幕が下がっていた。	hung a huge banner.
+135724	-		魔物都市をしばらく進むと、	After advancing a bit through the monster city,
+135725	+		大きな城が現れ、その入り口には	a large castle appeared, and at its entrance
+135726	+		巨大な垂れ幕が下がっていた。	hung a huge banner.
 
-135727	-	『祝　カミーラさん　○○歳（秘密）おめでとう！』	『Congratulations Camilla-san on your ○○th birthday (secret)!』
+135727	-		『祝　カミーラさん　○○歳（秘密）おめでとう！』	『Congratulations Camilla-san on your ○○th birthday (secret)!』
 
-135728	Rance	「アホらし」	「How stupid.」
+135728	Rance	だる顔	「アホらし」	「How stupid.」
 
-135729	Satella	「ここから先は遂に敵の本丸だ！	「From here on it's finally the enemy's main base!
-135730	+	　気を抜くなよ！」	　Don't let your guard down!」
+135729	Satella	怒り	「ここから先は遂に敵の本丸だ！	「From here on it's finally the enemy's main base!
+135730	+		　気を抜くなよ！」	　Don't let your guard down!」
 
-135731	Hornet	「……ランス総統」	「...Supreme Leader Rance.」
+135731	Hornet	目閉じ	「……ランス総統」	「...Supreme Leader Rance.」
 
-135732	Rance	「なんだ、今更帰れはナシだぞ」	「What? No turning back now.」
+135732	Rance	基本	「なんだ、今更帰れはナシだぞ」	「What? No turning back now.」
 
-135733	Hornet	「いえ、もう言いません。	「No, I won't say it anymore.
-135734	+	　その代わり、死なないように」	　Instead, don't die.」
+135733	Hornet		「いえ、もう言いません。	「No, I won't say it anymore.
+135734	+		　その代わり、死なないように」	　Instead, don't die.」
 
-135735	Hornet	「貴方は人類の平和の為には必要です」	「You are necessary for humanity's peace.」
+135735	Hornet		「貴方は人類の平和の為には必要です」	「You are necessary for humanity's peace.」
 
-135736	Hornet	「行きます」	「Let's go.」
+135736	Hornet		「行きます」	「Let's go.」
 
-135737	Rance	「おう！」	「Yeah!」
+135737	Rance		「おう！」	「Yeah!」
 
-135738	-	ランス達は遂にカミーラの城に突撃した。	Rance's group finally charged into Camilla's castle.
+135738	-		ランス達は遂にカミーラの城に突撃した。	Rance's group finally charged into Camilla's castle.

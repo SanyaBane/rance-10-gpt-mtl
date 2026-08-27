@@ -5,86 +5,86 @@
 * Rance	ランス	Male
 * Oda Kouhime	香姫	Female
 
-35922	-	人類の頭脳である、司令部。	The command center, humanity's brain.
+35922	-		人類の頭脳である、司令部。	The command center, humanity's brain.
 
-35923	Arlcoate Marius	「はい、第207部隊、準備大丈夫です、	「Yes, Unit 207 is ready,
-35924	+	　うし車160台、移動を始めてください！	　160 ox carts, begin movement!
-35925	+	　現地の気温に注意した装備をお願いします！」	　Please use equipment suited for local temperatures!」
+35923	Arlcoate Marius	基本	「はい、第207部隊、準備大丈夫です、	「Yes, Unit 207 is ready,
+35924	+		　うし車160台、移動を始めてください！	　160 ox carts, begin movement!
+35925	+		　現地の気温に注意した装備をお願いします！」	　Please use equipment suited for local temperatures!」
 
-35926	Cream Ganoblade	「はい、そこのルートは変更になりました。	「Yes, that route has been changed.
-35927	+	　新しい地図の発行をお願いしていますので、	　We're issuing new maps,
-35928	+	　現状の地図は念の為、回収してください」	　so please collect the old ones.」
+35926	Cream Ganoblade		「はい、そこのルートは変更になりました。	「Yes, that route has been changed.
+35927	+		　新しい地図の発行をお願いしていますので、	　We're issuing new maps,
+35928	+		　現状の地図は念の為、回収してください」	　so please collect the old ones.」
 
-35929	Urza Pranaice	「こちら、ラモスン隊は待機でお願いします。	「Ramosun squad, please stand by.
-35930	+	　補給物資はあとで届けさせますので、	　Supplies will be delivered later,
-35931	+	　指示を待って、いつでも出られるように！」	　wait for orders and be ready to move at any time!」
+35929	Urza Pranaice	真剣	「こちら、ラモスン隊は待機でお願いします。	「Ramosun squad, please stand by.
+35930	+		　補給物資はあとで届けさせますので、	　Supplies will be delivered later,
+35931	+		　指示を待って、いつでも出られるように！」	　wait for orders and be ready to move at any time!」
 
-35932	-	三人の軍師を中心に、司令部は今日も	Centered around the three strategists, the command center
-35933	+	息つく暇もないほどに回転し続けていた。	continued operating without a moment's rest.
+35932	-		三人の軍師を中心に、司令部は今日も	Centered around the three strategists, the command center
+35933	+		息つく暇もないほどに回転し続けていた。	continued operating without a moment's rest.
 
-35934	Rance	「やたら忙しそうだが……何やってんだ？	「Looks really busy... what are you doing?
-35935	+	　今、そんなやばかったか？」	　Was the situation that bad?」
+35934	Rance	だる顔	「やたら忙しそうだが……何やってんだ？	「Looks really busy... what are you doing?
+35935	+		　今、そんなやばかったか？」	　Was the situation that bad?」
 
-35936	Arlcoate Marius	「魔軍がいなくなった地域から、	「We're moving troops from areas where the Monster Army is gone
-35937	+	　まだ戦闘中の地域に兵を移してるんです」	　to regions still in combat.」
+35936	Arlcoate Marius	基本	「魔軍がいなくなった地域から、	「We're moving troops from areas where the Monster Army is gone
+35937	+		　まだ戦闘中の地域に兵を移してるんです」	　to regions still in combat.」
 
-35938	Rance	「あー……そういえば、	「Ah... now that you mention it,
-35939	+	　魔軍を蹴散らし終わった地域があったな」	　there were areas where we finished off the Monster Army.」
+35938	Rance	真剣	「あー……そういえば、	「Ah... now that you mention it,
+35939	+		　魔軍を蹴散らし終わった地域があったな」	　there were areas where we finished off the Monster Army.」
 
-35940	Cream Ganoblade	「はい。	「Yes.
-35941	+	　最低限を残して、別の地域の援護に回します。	　We'll leave the minimum and send the rest as reinforcements.
-35942	+	　これで、他の地域もかなり楽になるはずです」	　This should make things much easier for the other regions.」
+35940	Cream Ganoblade	基本	「はい。	「Yes.
+35941	+		　最低限を残して、別の地域の援護に回します。	　We'll leave the minimum and send the rest as reinforcements.
+35942	+		　これで、他の地域もかなり楽になるはずです」	　This should make things much easier for the other regions.」
 
-35943	Rance	「ふーん……」	「Hmm...」
+35943	Rance	真剣	「ふーん……」	「Hmm...」
 
-35944	Oda Kouhime	「あ、こちらJAPAN軍の再編成表です。	「Ah, here is the JAPAN army reorganization chart.
-35945	+	　すみません、途中で変更が入ったのですが……」	　Sorry, there were some changes midway...」
+35944	Oda Kouhime		「あ、こちらJAPAN軍の再編成表です。	「Ah, here is the JAPAN army reorganization chart.
+35945	+		　すみません、途中で変更が入ったのですが……」	　Sorry, there were some changes midway...」
 
-35946	Urza Pranaice	「はい、ありがとうございます、香姫様。	「Yes, thank you, Lady Kouhime.
-35947	+	　では兵をお預かりしますね」	　We'll take the troops.」
+35946	Urza Pranaice	基本	「はい、ありがとうございます、香姫様。	「Yes, thank you, Lady Kouhime.
+35947	+		　では兵をお預かりしますね」	　We'll take the troops.」
 
-35948	-	軽く会釈をして、ウルザは香姫から書類を受け取り、	With a light bow, Urza received the documents from Kouhime
-35949	+	そのまま別の仕事へと向かった。	and headed off to another task.
+35948	-		軽く会釈をして、ウルザは香姫から書類を受け取り、	With a light bow, Urza received the documents from Kouhime
+35949	+		そのまま別の仕事へと向かった。	and headed off to another task.
 
-35950	Oda Kouhime	「はぁ…………」	「Haa............」
+35950	Oda Kouhime		「はぁ…………」	「Haa............」
 
-35951	-	香姫は、ウルザの颯爽とした後ろ姿を眺めて、	Kouhime watched Urza's brisk figure from behind
-35952	+	感嘆の溜息を吐いた。	and let out an admiring sigh.
+35951	-		香姫は、ウルザの颯爽とした後ろ姿を眺めて、	Kouhime watched Urza's brisk figure from behind
+35952	+		感嘆の溜息を吐いた。	and let out an admiring sigh.
 
-35953	Rance	「お、香ちゃん。どうかしたのか？」	「Oh, Kou-chan. Something wrong?」
+35953	Rance		「お、香ちゃん。どうかしたのか？」	「Oh, Kou-chan. Something wrong?」
 
-35954	Oda Kouhime	「あ、ランス兄様。いえ、すごいなぁ……と。	「Ah, Rance-niisama. No, it's just... amazing.
-35955	+	　ウルザさんも……クリームさんたちも」	　Urza-san... and Cream-san and the others.」
+35954	Oda Kouhime		「あ、ランス兄様。いえ、すごいなぁ……と。	「Ah, Rance-niisama. No, it's just... amazing.
+35955	+		　ウルザさんも……クリームさんたちも」	　Urza-san... and Cream-san and the others.」
 
-35956	Rance	「すごいのか？」	「Are they that amazing?」
+35956	Rance		「すごいのか？」	「Are they that amazing?」
 
-35957	Oda Kouhime	「……すごいです。	「...They are amazing.
-35958	+	　こんな……ただでさえ状況が混乱しているのに、	　In this already chaotic situation,
-35959	+	　その中で、数万以上の兵を移動させるなんて……」	　moving tens of thousands of soldiers...」
+35957	Oda Kouhime	真剣	「……すごいです。	「...They are amazing.
+35958	+		　こんな……ただでさえ状況が混乱しているのに、	　In this already chaotic situation,
+35959	+		　その中で、数万以上の兵を移動させるなんて……」	　moving tens of thousands of soldiers...」
 
-35960	Rance	「……さっぱり分からん。	「...I don't get it at all.
-35961	+	　あっち行けー、こっち行けー、で良いではないか」	　Just 'go there, go here' should be fine.」
+35960	Rance		「……さっぱり分からん。	「...I don't get it at all.
+35961	+		　あっち行けー、こっち行けー、で良いではないか」	　Just 'go there, go here' should be fine.」
 
-35962	Oda Kouhime	「そうはいかないです。移動部隊の編成、	「It doesn't work like that. Organizing moving units,
-35963	+	　道中の案内や、食料などの補給の手配、	　route guidance, arranging food supplies,
-35964	+	　それに行った先での作戦に関する編成……」	　and organizing operations at the destination...
+35962	Oda Kouhime		「そうはいかないです。移動部隊の編成、	「It doesn't work like that. Organizing moving units,
+35963	+		　道中の案内や、食料などの補給の手配、	　route guidance, arranging food supplies,
+35964	+		　それに行った先での作戦に関する編成……」	　and organizing operations at the destination...
 
-35965	Oda Kouhime	「他にもいっぱい、処理する問題があるんです。	　There are so many other issues to handle.
-35966	+	　それを……この数を一括で管理して、	　Managing all of that at once for this many people,
-35967	+	　大きな問題も出さないなんて……」	　without major problems...」
+35965	Oda Kouhime		「他にもいっぱい、処理する問題があるんです。	　There are so many other issues to handle.
+35966	+		　それを……この数を一括で管理して、	　Managing all of that at once for this many people,
+35967	+		　大きな問題も出さないなんて……」	　without major problems...」
 
-35968	Rance	「ふーん……」	「Hmm...」
+35968	Rance	だる顔	「ふーん……」	「Hmm...」
 
-35969	Oda Kouhime	「……聞いてないですね？　兄様」	「...You're not listening, are you, Brother?」
+35969	Oda Kouhime	苦笑	「……聞いてないですね？　兄様」	「...You're not listening, are you, Brother?」
 
-35970	Rance	「まあ……なんとなく有能という事は分かった。	「Well... I get that they're competent.
-35971	+	　俺の女が優秀なのは良いことだ」	　It's good that my women are excellent.」
+35970	Rance	基本	「まあ……なんとなく有能という事は分かった。	「Well... I get that they're competent.
+35971	+		　俺の女が優秀なのは良いことだ」	　It's good that my women are excellent.」
 
-35972	Oda Kouhime	「…………もう。労ってあげてくださいね？」	「...Geez. Please praise them, okay?」
+35972	Oda Kouhime		「…………もう。労ってあげてくださいね？」	「...Geez. Please praise them, okay?」
 
-35973	Rance	「4Pすればいいか？」	「Should I do a 4P with them?」
+35973	Rance		「4Pすればいいか？」	「Should I do a 4P with them?」
 
-35974	Oda Kouhime	「し、知りません！」	「I-I don't know!」
+35974	Oda Kouhime	恥ずかし	「し、知りません！」	「I-I don't know!」
 
-35975	-	安全になった地域から、	From secured regions,
-35976	+	戦い続けている地域へと、援軍が送られた。	reinforcements were sent to regions still fighting.
+35975	-		安全になった地域から、	From secured regions,
+35976	+		戦い続けている地域へと、援軍が送られた。	reinforcements were sent to regions still fighting.

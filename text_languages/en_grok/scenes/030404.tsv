@@ -4,132 +4,132 @@
 * Patton Helman	パットン	Male
 * Hunty Kalar	ハンティ	Female
 
-5364	Rance	「おい、キャンテル。	「Hey, Cantel.
-5365	+	　お前、俺に恩があるな？」	　You owe me, right?」
+5364	Rance	基本	「おい、キャンテル。	「Hey, Cantel.
+5365	+		　お前、俺に恩があるな？」	　You owe me, right?」
 
-5366	Cantel	「……え。なんだい、藪から棒に」	「......Eh. What's this all of a sudden?」
+5366	Cantel		「……え。なんだい、藪から棒に」	「......Eh. What's this all of a sudden?」
 
-5367	Rance	「あるな？　俺様の足を嘗め、風呂で背中を流し、	「You do. You licked my feet, washed my back in the bath,
-5368	+	　金銀財宝の在処を知っていたら、	　and if you knew where gold and silver treasures were,
-5369	+	　すべて喋ってしまわんといかん程の恩が！」	　you'd have to tell me everything! That's how much you owe me!」
+5367	Rance		「あるな？　俺様の足を嘗め、風呂で背中を流し、	「You do. You licked my feet, washed my back in the bath,
+5368	+		　金銀財宝の在処を知っていたら、	　and if you knew where gold and silver treasures were,
+5369	+		　すべて喋ってしまわんといかん程の恩が！」	　you'd have to tell me everything! That's how much you owe me!」
 
-5370	Cantel	「……そんなには、ないかなぁ……	「......I don't think it's that much......
-5371	+	　住処を潰されたわけだし……」	　My home was destroyed after all......」
+5370	Cantel		「……そんなには、ないかなぁ……	「......I don't think it's that much......
+5371	+		　住処を潰されたわけだし……」	　My home was destroyed after all......」
 
-5372	Rance	「風邪薬をくれてやっただろうが！」	「I gave you cold medicine!」
+5372	Rance	怒り	「風邪薬をくれてやっただろうが！」	「I gave you cold medicine!」
 
-5373	Cantel	「ああ、もちろん覚えてるとも。	「Ah, of course I remember.
-5374	+	　対価は渡したと思うのだけど……」	　I think I already paid the price though......
+5373	Cantel	基本	「ああ、もちろん覚えてるとも。	「Ah, of course I remember.
+5374	+		　対価は渡したと思うのだけど……」	　I think I already paid the price though......
 
-5375	Rance	「それでも俺様への恩があることは	「Even so, the debt you owe me
-5376	+	　永久に変わらんのだ。がはははは」	　will never change. Gahahahaha.」
+5375	Rance	笑顔	「それでも俺様への恩があることは	「Even so, the debt you owe me
+5376	+		　永久に変わらんのだ。がはははは」	　will never change. Gahahahaha.」
 
-5377	Cantel	「……まあ、いいけど。何かしてほしい事でも？	「......Well, fine. Is there something you want me to do?
-5378	+	　どこかへ飛んでいきたいとか……」	　Like flying somewhere......」
+5377	Cantel	基本	「……まあ、いいけど。何かしてほしい事でも？	「......Well, fine. Is there something you want me to do?
+5378	+		　どこかへ飛んでいきたいとか……」	　Like flying somewhere......」
 
-5379	Rance	「そんなもの、お前の当然の仕事だ。	「That's obviously your job.
-5380	+	　そんなことじゃあない」	　Not that.」
+5379	Rance		「そんなもの、お前の当然の仕事だ。	「That's obviously your job.
+5380	+		　そんなことじゃあない」	　Not that.」
 
-5381	Cantel	「……やれやれ。なんだい？」	「......Good grief. What is it?」
+5381	Cantel		「……やれやれ。なんだい？」	「......Good grief. What is it?」
 
-5382	Rance	「ドラゴンだ。	「Dragons.
-5383	+	　ドラゴンを山ほど連れて、俺の部下にしてこい」	　Bring a mountain of dragons and make them my subordinates.」
+5382	Rance		「ドラゴンだ。	「Dragons.
+5383	+		　ドラゴンを山ほど連れて、俺の部下にしてこい」	　Bring a mountain of dragons and make them my subordinates.」
 
-5384	Cantel	「は？　ドラゴンを……？」	「Ha? Dragons......?」
+5384	Cantel		「は？　ドラゴンを……？」	「Ha? Dragons......?」
 
-5385	Rance	「うむ。翔竜山には売るほど居るだろう。	「Yeah. There are plenty on Shoryu Mountain.
-5386	+	　そいつらをまとめて連れてきて、	　Gather them up and bring them,
-5387	+	　俺の足元にひざまづかせるのだ」	　and make them kneel at my feet.」
+5385	Rance		「うむ。翔竜山には売るほど居るだろう。	「Yeah. There are plenty on Shoryu Mountain.
+5386	+		　そいつらをまとめて連れてきて、	　Gather them up and bring them,
+5387	+		　俺の足元にひざまづかせるのだ」	　and make them kneel at my feet.」
 
-5388	Cantel	「……………………う〜〜〜〜ん……」	「........................U〜〜〜〜n......」
+5388	Cantel		「……………………う〜〜〜〜ん……」	「........................U〜〜〜〜n......」
 
-5389	Rance	「そしたらいちいちお前を使って	「Then I won't need to use you every time
-5390	+	　地上と行き来する必要もなくなる。	　to go back and forth to the surface.
-5391	+	　戦力もどーんとアップだ」	　And my forces will get a huge boost.」
+5389	Rance		「そしたらいちいちお前を使って	「Then I won't need to use you every time
+5390	+		　地上と行き来する必要もなくなる。	　to go back and forth to the surface.
+5391	+		　戦力もどーんとアップだ」	　And my forces will get a huge boost.」
 
-5392	Cantel	「それは助かるけどねぇ……」	「That would help but......」
+5392	Cantel		「それは助かるけどねぇ……」	「That would help but......」
 
-5393	Rance	「よし、決まりだな。さっさと行ってこい」	「Alright, settled. Go quickly.」
+5393	Rance		「よし、決まりだな。さっさと行ってこい」	「Alright, settled. Go quickly.」
 
-5394	Cantel	「いや……無理だと思うよ」	「No...... I think it's impossible.」
+5394	Cantel		「いや……無理だと思うよ」	「No...... I think it's impossible.」
 
-5395	Rance	「あん？」	「Hn?」
+5395	Rance	だる顔	「あん？」	「Hn?」
 
-5396	Cantel	「ドラゴンは……そういうの、興味ないからねえ。	「Dragons...... aren't interested in that sort of thing.
-5397	+	　人間、好きじゃないだろうし……」	　They don't like humans much either......」
+5396	Cantel	基本	「ドラゴンは……そういうの、興味ないからねえ。	「Dragons...... aren't interested in that sort of thing.
+5397	+		　人間、好きじゃないだろうし……」	　They don't like humans much either......」
 
-5398	Rance	「モンスターどもが偉そうに……	「Those monsters acting all high and mighty......
-5399	+	　首に縄かけて連れてこい」	　Put ropes around their necks and drag them here.」
+5398	Rance	イライラ	「モンスターどもが偉そうに……	「Those monsters acting all high and mighty......
+5399	+		　首に縄かけて連れてこい」	　Put ropes around their necks and drag them here.」
 
-5400	Cantel	「まぁ、君たちからするとモンスターか……」	「Well, from your perspective they are monsters......
+5400	Cantel	基本	「まぁ、君たちからするとモンスターか……」	「Well, from your perspective they are monsters......
 
-5401	Patton Helman	「俺も似たようなことは言ったんだがな、大将。	「I said something similar, boss.
-5402	+	　結局は断られたままだ」	　In the end they refused.」
+5401	Patton Helman		「俺も似たようなことは言ったんだがな、大将。	「I said something similar, boss.
+5402	+		　結局は断られたままだ」	　In the end they refused.」
 
-5403	Rance	「ぬ、パットン」	「Nu, Patton.」
+5403	Rance	真剣	「ぬ、パットン」	「Nu, Patton.」
 
-5404	Cantel	「うん……時間を無駄にするのも心苦しいし。	「Yeah...... I feel bad wasting time.
-5405	+	　危険でもあるからねえ……」	　It's dangerous too......」
+5404	Cantel	基本	「うん……時間を無駄にするのも心苦しいし。	「Yeah...... I feel bad wasting time.
+5405	+		　危険でもあるからねえ……」	　It's dangerous too......」
 
-5406	Patton Helman	「けど、どうしてだ？	「But why?
-5407	+	　前の魔人戦争の時は、一緒に闘ったんだろう？」	　They fought with us during the previous Fiend War, right?」
+5406	Patton Helman		「けど、どうしてだ？	「But why?
+5407	+		　前の魔人戦争の時は、一緒に闘ったんだろう？」	　They fought with us during the previous Fiend War, right?」
 
-5408	Cantel	「私たちにとっても、あそこは居心地が良かった。	「For us, that place felt comfortable.
-5409	+	　戦争の為に雇われた、という訳でもなかったし」	　We weren't hired for the war either.」
+5408	Cantel		「私たちにとっても、あそこは居心地が良かった。	「For us, that place felt comfortable.
+5409	+		　戦争の為に雇われた、という訳でもなかったし」	　We weren't hired for the war either.」
 
-5410	Cantel	「住処、だったんだよ。	「It was our home.
-5411	+	　襲われたから、自然と戦った」	　We fought because it was attacked.」
+5410	Cantel		「住処、だったんだよ。	「It was our home.
+5411	+		　襲われたから、自然と戦った」	　We fought because it was attacked.」
 
-5412	Patton Helman	「……なるほどな」	「......I see.」
+5412	Patton Helman		「……なるほどな」	「......I see.」
 
-5413	Cantel	「それに……今は、勝算が薄い」	「Besides...... the odds of winning now are low.」
+5413	Cantel		「それに……今は、勝算が薄い」	「Besides...... the odds of winning now are low.」
 
-5414	-	ぽつりと、しかし断言するように	Quietly, but decisively,
-5415	+	キャンテルは言い切った。	Cantel declared.
+5414	-		ぽつりと、しかし断言するように	Quietly, but decisively,
+5415	+		キャンテルは言い切った。	Cantel declared.
 
-5416	Patton Helman	「そりゃ……ずいぶんとクールだな」	「That's...... pretty cold.」
+5416	Patton Helman		「そりゃ……ずいぶんとクールだな」	「That's...... pretty cold.」
 
-5417	Rance	「何言ってんだ。今だって生きるか死ぬかだぞ。	「What are you saying. It's life or death right now.
-5418	+	　死にたくなければ俺様に従えと言ってこい」	　If you don't want to die, tell them to follow me.」
+5417	Rance	真剣	「何言ってんだ。今だって生きるか死ぬかだぞ。	「What are you saying. It's life or death right now.
+5418	+		　死にたくなければ俺様に従えと言ってこい」	　If you don't want to die, tell them to follow me.」
 
-5419	Cantel	「そんなに生きたいかねえ……	「Do you want to live that badly......
-5420	+	　いや、それ以前に、ドラゴン達はそこまで、	　No, before that, dragons aren't that
-5421	+	　危ないと思ってないんじゃないかな」	　it's that dangerous.」
+5419	Cantel	基本	「そんなに生きたいかねえ……	「Do you want to live that badly......
+5420	+		　いや、それ以前に、ドラゴン達はそこまで、	　No, before that, dragons aren't that
+5421	+		　危ないと思ってないんじゃないかな」	　it's that dangerous.」
 
-5422	Rance	「ぬ？」	「Nu?」
+5422	Rance	真剣	「ぬ？」	「Nu?」
 
-5423	Cantel	「それこそ魔人でもなければ、	「Unless it's a Fiend,
-5424	+	　簡単にドラゴンは倒せないだろう。	　dragons aren't easily defeated.
-5425	+	　私たちからすれば、空に逃げたっていい」	　From our perspective, we can just fly into the sky.」
+5423	Cantel	基本	「それこそ魔人でもなければ、	「Unless it's a Fiend,
+5424	+		　簡単にドラゴンは倒せないだろう。	　dragons aren't easily defeated.
+5425	+		　私たちからすれば、空に逃げたっていい」	　From our perspective, we can just fly into the sky.」
 
-5426	Cantel	「山の下のことも関係ないし。	「What's happening below the mountain doesn't concern us.
-5427	+	　対岸の火事というやつだね」	　It's someone else's problem.」
+5426	Cantel		「山の下のことも関係ないし。	「What's happening below the mountain doesn't concern us.
+5427	+		　対岸の火事というやつだね」	　It's someone else's problem.」
 
-5428	Hunty Kalar	「ま……万事消極的なのさ。	「Well... they're passive about everything.
-5429	+	　昔、色々ひどい目に遭ってるからねえ」	　They went through a lot of terrible things in the past.」
+5428	Hunty Kalar		「ま……万事消極的なのさ。	「Well... they're passive about everything.
+5429	+		　昔、色々ひどい目に遭ってるからねえ」	　They went through a lot of terrible things in the past.」
 
-5430	Rance	「ぬ、ハンティまで」	「Nu, even Hunty.」
+5430	Rance	だる顔	「ぬ、ハンティまで」	「Nu, even Hunty.」
 
-5431	Cantel	「というわけで、まあ……諦めてくれ。	「So, well... please give up.
-5432	+	　私が説得するのは無理だよ」	　It's impossible for me to persuade them.」
+5431	Cantel	基本	「というわけで、まあ……諦めてくれ。	「So, well... please give up.
+5432	+		　私が説得するのは無理だよ」	　It's impossible for me to persuade them.」
 
-5433	Rance	「ええい、役に立たん！」	「Argh, useless!」
+5433	Rance	怒り	「ええい、役に立たん！」	「Argh, useless!」
 
-5434	Patton Helman	「あんたが行くかい？」	「Will you go yourself?」
+5434	Patton Helman	基本	「あんたが行くかい？」	「Will you go yourself?」
 
-5435	Rance	「美人がいる可能性がゼロを振り切ってるような	「A place where the possibility of beautiful women is below zero
-5436	+	　トカゲのねぐらに、	　like a lizard nest,
-5437	+	　なんで俺が行かなきゃならんのだ」	　why would I have to go there?」
+5435	Rance	イライラ	「美人がいる可能性がゼロを振り切ってるような	「A place where the possibility of beautiful women is below zero
+5436	+		　トカゲのねぐらに、	　like a lizard nest,
+5437	+		　なんで俺が行かなきゃならんのだ」	　why would I have to go there?」
 
-5438	Patton Helman	「はは、まあ違いない」	「Haha, yeah, that's true.」
+5438	Patton Helman	笑い	「はは、まあ違いない」	「Haha, yeah, that's true.」
 
-5439	Patton Helman	「しかし、キャンテルは助けてくれてるな？」	「But Cantel is helping us, right?」
+5439	Patton Helman	基本	「しかし、キャンテルは助けてくれてるな？」	「But Cantel is helping us, right?」
 
-5440	Cantel	「私は…………」	「I............」
+5440	Cantel		「私は…………」	「I............」
 
-5441	Rance	「変人なんだろ」	「You're a weirdo, right?」
+5441	Rance	真剣	「変人なんだろ」	「You're a weirdo, right?」
 
-5442	Hunty Kalar	「はっはは、ま、そうかもね」	「Hahaha, yeah, maybe.」
+5442	Hunty Kalar	基本	「はっはは、ま、そうかもね」	「Hahaha, yeah, maybe.」
 
-5443	Cantel	「変人……ううん、	「Weirdo... No,
-5444	+	　もう少し響きのいい呼び名が良いなあ……」	　I'd prefer a nicer sounding name...」
+5443	Cantel		「変人……ううん、	「Weirdo... No,
+5444	+		　もう少し響きのいい呼び名が良いなあ……」	　I'd prefer a nicer sounding name...」

@@ -3,190 +3,190 @@
 * Juno	ジュノー	Male
 * Sill Plain	シィル	Female
 
-117952	-	　	　
-117953	+	　　＜ゴソゴソ、ガサガサ……＞	　　＜Rustle rustle...＞
+117952	-		　	　
+117953	+		　　＜ゴソゴソ、ガサガサ……＞	　　＜Rustle rustle...＞
 
-117954	Rance	「うーん、なんだぁ？」	「Hmm, what is it?」
+117954	Rance	基本	「うーん、なんだぁ？」	「Hmm, what is it?」
 
-117955	-	深夜、ランスは自室で	Late at night, Rance woke up
-117956	+	誰かが動いてる音で目が覚めた。	to the sound of someone moving in his room.
+117955	-		深夜、ランスは自室で	Late at night, Rance woke up
+117956	+		誰かが動いてる音で目が覚めた。	to the sound of someone moving in his room.
 
-117957	Rance	「誰かいるのかぁ？」	「Is someone there?」
+117957	Rance		「誰かいるのかぁ？」	「Is someone there?」
 
-117958	Juno	「あ、めっかった」	「Ah, found it.」
+117958	Juno	嬉しい	「あ、めっかった」	「Ah, found it.」
 
-117959	Rance	「……は？」	「...Ha?」
+117959	Rance	基本	「……は？」	「...Ha?」
 
-117960	Rance	「うおおおお！？	「Uoooooh!?」
-117961	+	　な、なんだ、お前！」	　W-what, you!」
+117960	Rance	全裸／驚き	「うおおおお！？	「Uoooooh!?」
+117961	+		　な、なんだ、お前！」	　W-what, you!」
 
-117962	Sill Plain	「えっ、きゃっ、ジュノーさん！？」	「Eh, kyaa, Juno-san!?」
+117962	Sill Plain	慌て	「えっ、きゃっ、ジュノーさん！？」	「Eh, kyaa, Juno-san!?」
 
-117963	-	パッと明かりをつけると、	When he turned on the light,
-117964	+	何故か笑顔のジュノーが立っていた。	Juno was standing there smiling.
+117963	-		パッと明かりをつけると、	When he turned on the light,
+117964	+		何故か笑顔のジュノーが立っていた。	Juno was standing there smiling.
 
-117965	Rance	「な、なんだ！　夜襲か！？」	「Wh-what! A night attack!?」
+117965	Rance	基本	「な、なんだ！　夜襲か！？」	「Wh-what! A night attack!?」
 
-117966	Juno	「ああ、夜襲。	「Yeah, night attack.
-117967	+	　それも面白かったかもね」	　That might have been fun too.」
+117966	Juno		「ああ、夜襲。	「Yeah, night attack.
+117967	+		　それも面白かったかもね」	　That might have been fun too.」
 
-117968	Juno	「こーっそり寝てる隙に	「I tried to sneak in while you slept
-117969	+	　魔血魂取り返そうと思ったんだけどねー、	　to take back the blood soul,
-117970	+	　失敗、失敗」	　but failed, failed.」
+117968	Juno	嬉しい	「こーっそり寝てる隙に	「I tried to sneak in while you slept
+117969	+		　魔血魂取り返そうと思ったんだけどねー、	　to take back the blood soul,
+117970	+		　失敗、失敗」	　but failed, failed.」
 
-117971	Rance	「へ？　魔血魂？」	「Heh? Blood soul?」
+117971	Rance	基本	「へ？　魔血魂？」	「Heh? Blood soul?」
 
-117972	Rance	「あ、そういえば、	「Ah, now that you mention it,
-117973	+	　レキシントンの魔血魂を人質に	　I took Lexington's blood soul as hostage
-117974	+	　部下にしたんだったな」	　and made her my subordinate.」
+117972	Rance		「あ、そういえば、	「Ah, now that you mention it,
+117973	+		　レキシントンの魔血魂を人質に	　I took Lexington's blood soul as hostage
+117974	+		　部下にしたんだったな」	　and made her my subordinate.」
 
-117975	Juno	「忘れてたの？」	「You forgot?」
+117975	Juno	嬉しい	「忘れてたの？」	「You forgot?」
 
-117976	Rance	「失礼な、しっかり覚えてるぞ」	「Rude, I remember clearly.」
+117976	Rance	基本	「失礼な、しっかり覚えてるぞ」	「Rude, I remember clearly.」
 
-117977	Juno	「しかし、さすがだね……	「But as expected...
-117978	+	　これだけ探しても魔血魂が見つかりゃしない。	　No matter how much I search I can't find the blood soul.
-117979	+	　いったいどこに隠したんだい？」	　Where did you hide it?」
+117977	Juno	嬉しい	「しかし、さすがだね……	「But as expected...
+117978	+		　これだけ探しても魔血魂が見つかりゃしない。	　No matter how much I search I can't find the blood soul.
+117979	+		　いったいどこに隠したんだい？」	　Where did you hide it?」
 
-117980	Rance	「…………」	「............」
+117980	Rance	基本	「…………」	「............」
 
-117981	Rance	「……そりゃお前」	「...Well you know」
+117981	Rance		「……そりゃお前」	「...Well you know」
 
-117982	Juno	「忘れてる？　忘れてるよね？」	「You forgot? You forgot, right?」
+117982	Juno		「忘れてる？　忘れてるよね？」	「You forgot? You forgot, right?」
 
-117983	Rance	「馬鹿言え……」	「Don't be stupid...」
+117983	Rance		「馬鹿言え……」	「Don't be stupid...」
 
-117984	Rance	「えーと、おい、シィル」	「Um, hey Sill.」
+117984	Rance		「えーと、おい、シィル」	「Um, hey Sill.」
 
-117985	Sill Plain	「すみません、ランス様が絶対の秘匿事項だと、	「Sorry, Rance-sama said it's an absolute secret,
-117986	+	　教えて下さらなかったので、私にも……」	　so he didn't tell me either...」
+117985	Sill Plain	きょとん	「すみません、ランス様が絶対の秘匿事項だと、	「Sorry, Rance-sama said it's an absolute secret,
+117986	+		　教えて下さらなかったので、私にも……」	　so he didn't tell me either...」
 
-117987	Rance	「なぁーにー？　この役立たずめ」	「Whaaat? You useless girl.」
+117987	Rance	基本	「なぁーにー？　この役立たずめ」	「Whaaat? You useless girl.」
 
-117988	Juno	「…………」	「............」
+117988	Juno		「…………」	「............」
 
-117989	Rance	「んな怖い顔すんな。	「Don't make such a scary face.
-117990	+	　今、思い出すから」	　I'll remember now.」
+117989	Rance	全裸／真剣	「んな怖い顔すんな。	「Don't make such a scary face.
+117990	+		　今、思い出すから」	　I'll remember now.」
 
-117991	Rance	「えーと、確かまずは部屋に戻ってきて……	「Um, first I came back to the room...
-117992	+	　その辺に置いとくのも不安だなと思って」	　I thought leaving it around would be risky.」
+117991	Rance	全裸／だる顔	「えーと、確かまずは部屋に戻ってきて……	「Um, first I came back to the room...
+117992	+		　その辺に置いとくのも不安だなと思って」	　I thought leaving it around would be risky.」
 
-117993	Rance	「いったん、外に出て……」	「Then I went outside...」
+117993	Rance	真剣	「いったん、外に出て……」	「Then I went outside...」
 
-117994	Rance	「小便しながら隠し場所考えるかと思って……」	「While pissing, thinking of a hiding spot...」
+117994	Rance		「小便しながら隠し場所考えるかと思って……」	「While pissing, thinking of a hiding spot...」
 
-117995	-	ランス達が連れ立って男子トイレに入った。	Rance and the others entered the men's toilet together.
+117995	-		ランス達が連れ立って男子トイレに入った。	Rance and the others entered the men's toilet together.
 
-117996	Rance	「あ、そうだ」	「Ah, right.」
+117996	Rance	基本	「あ、そうだ」	「Ah, right.」
 
-117997	Rance	「小便器の中に入ってる芳香剤の玉に似てるから、	「It looks like the deodorizer balls in the urinals,
-117998	+	　これに紛れさせればいいと思って――」	　so I thought I'd mix it in――」
+117997	Rance		「小便器の中に入ってる芳香剤の玉に似てるから、	「It looks like the deodorizer balls in the urinals,
+117998	+		　これに紛れさせればいいと思って――」	　so I thought I'd mix it in――」
 
-117999	Rance	「お、あったぞー」	「Oh, there it is.」
+117999	Rance	笑顔	「お、あったぞー」	「Oh, there it is.」
 
-118000	Juno	「レキシントンーーー！？」	「Lexington-----!?」
+118000	Juno	基本	「レキシントンーーー！？」	「Lexington-----!?」
 
-118001	-	魔血魂は壁に備え付けられた	The blood soul was inside
-118002	+	小便器の中に入っていた。	a urinal attached to the wall.
+118001	-		魔血魂は壁に備え付けられた	The blood soul was inside
+118002	+		小便器の中に入っていた。	a urinal attached to the wall.
 
-118003	Sill Plain	「うわ……あんまりです……」	「Uwa... that's too much...」
+118003	Sill Plain	ぽか〜ん	「うわ……あんまりです……」	「Uwa... that's too much...」
 
-118004	Rance	「シィル、拾え。	「Sill, pick it up.
-118005	+	　そしてめっちゃ洗え」	　Then wash it thoroughly.」
+118004	Rance	基本	「シィル、拾え。	「Sill, pick it up.
+118005	+		　そしてめっちゃ洗え」	　Then wash it thoroughly.」
 
-118006	Sill Plain	「うう……ひどいですぅ……」	「Uuu... that's so mean...」
+118006	Sill Plain	泣き	「うう……ひどいですぅ……」	「Uuu... that's so mean...」
 
-118007	Rance	「よしよし、これで回収できたな」	「There we go, now we've recovered it.」
+118007	Rance	基本	「よしよし、これで回収できたな」	「There we go, now we've recovered it.」
 
-118008	Juno	「うーん、一応俺の主なんだから、	「Hmm, he's technically my master, so
-118009	+	　もうちょっと大事に取っといて欲しいかな」	　I'd appreciate it if you treated him a bit more carefully.」
+118008	Juno		「うーん、一応俺の主なんだから、	「Hmm, he's technically my master, so
+118009	+		　もうちょっと大事に取っといて欲しいかな」	　I'd appreciate it if you treated him a bit more carefully.」
 
-118010	Rance	「はいはい、もう面倒だし、	「Yeah yeah, it's a hassle anyway,
-118011	+	　ウルザちゃんに預けるか。	　I'll just leave him with Urza-chan.
-118012	+	　いい保管方法考えてくれるだろ」	　She'll come up with a good storage method.」
+118010	Rance		「はいはい、もう面倒だし、	「Yeah yeah, it's a hassle anyway,
+118011	+		　ウルザちゃんに預けるか。	　I'll just leave him with Urza-chan.
+118012	+		　いい保管方法考えてくれるだろ」	　She'll come up with a good storage method.」
 
-118013	Sill Plain~	（最初からそうしていれば良かったんじゃ……）	（We should have done that from the beginning...）
+118013	Sill Plain~	苦笑	（最初からそうしていれば良かったんじゃ……）	（We should have done that from the beginning...）
 
-118014	Juno	「しかし……	「However...
-118015	+	　無限の力を産み出すとも言える魔血魂を、	　the blood soul that can produce infinite power,
-118016	+	　よくもまあ、こんな雑に扱えるものだね」	　you sure can treat it so roughly.」
+118014	Juno	基本	「しかし……	「However...
+118015	+		　無限の力を産み出すとも言える魔血魂を、	　the blood soul that can produce infinite power,
+118016	+		　よくもまあ、こんな雑に扱えるものだね」	　you sure can treat it so roughly.」
 
-118017	Rance	「俺にしてみりゃ、ただの赤い玉だ」	「To me it's just a red ball.」
+118017	Rance		「俺にしてみりゃ、ただの赤い玉だ」	「To me it's just a red ball.」
 
-118018	Juno	「へえ……？　面白いこと言うね」	「Heh...? You say interesting things.」
+118018	Juno		「へえ……？　面白いこと言うね」	「Heh...? You say interesting things.」
 
-118019	Juno	「…………」	「............」
+118019	Juno		「…………」	「............」
 
-118020	Juno	「ランス、魔血魂を飲んでみる気はない？」	「Rance, want to try drinking the blood soul?」
+118020	Juno	嬉しい	「ランス、魔血魂を飲んでみる気はない？」	「Rance, want to try drinking the blood soul?」
 
-118021	Rance	「なにぃ？」	「What?」
+118021	Rance	基本	「なにぃ？」	「What?」
 
-118022	Rance	「飲んだらレキシントンに	「If you drink it, Lexington will
-118023	+	　体を乗っ取られるんだろうが」	　take over your body.」
+118022	Rance		「飲んだらレキシントンに	「If you drink it, Lexington will
+118023	+		　体を乗っ取られるんだろうが」	　take over your body.」
 
-118024	Juno	「その辺はレキシントンとの精神力勝負次第」	「That depends on your mental strength battle against Lexington.」
+118024	Juno	嬉しい	「その辺はレキシントンとの精神力勝負次第」	「That depends on your mental strength battle against Lexington.」
 
-118025	Juno	「まー、運が良ければ魔人になれるかもね」	「Well, if you're lucky you might become a Fiend.」
+118025	Juno		「まー、運が良ければ魔人になれるかもね」	「Well, if you're lucky you might become a Fiend.」
 
-118026	Juno	「ランスは悪運が強そうだし、	「You seem to have strong bad luck,
-118027	+	　意外と可能性は高いかもよ」	　so the chances might actually be high.」
+118026	Juno		「ランスは悪運が強そうだし、	「You seem to have strong bad luck,
+118027	+		　意外と可能性は高いかもよ」	　so the chances might actually be high.」
 
-118028	Rance	「その場合、お前の主が死ぬがいいのか？」	「In that case, is it fine if your master dies?」
+118028	Rance	基本	「その場合、お前の主が死ぬがいいのか？」	「In that case, is it fine if your master dies?」
 
-118029	Juno	「そのときはそのとき。	「When that time comes, it comes.
-118030	+	　それがレキシントンの寿命だったのさ」	　That would just be Lexington's lifespan.」
+118029	Juno	嬉しい	「そのときはそのとき。	「When that time comes, it comes.
+118030	+		　それがレキシントンの寿命だったのさ」	　That would just be Lexington's lifespan.」
 
-118031	Rance	「サッパリしてるなぁ」	「You're pretty clear-cut.」
+118031	Rance	基本	「サッパリしてるなぁ」	「You're pretty clear-cut.」
 
-118032	Rance	「だが飲む気はない」	「But I have no intention of drinking it.」
+118032	Rance		「だが飲む気はない」	「But I have no intention of drinking it.」
 
-118033	Juno	「何故？	「Why?
-118034	+	　無敵の力と永遠の命が手に入るかも知れないよ？」	　You might obtain invincible power and eternal life, you know?」
+118033	Juno		「何故？	「Why?
+118034	+		　無敵の力と永遠の命が手に入るかも知れないよ？」	　You might obtain invincible power and eternal life, you know?」
 
-118035	Rance	「魔人にならなくても最強だ。	「I'm the strongest even without becoming a Fiend.
-118036	+	　永遠の命も別にいらん」	　I don't need eternal life either.」
+118035	Rance	真剣	「魔人にならなくても最強だ。	「I'm the strongest even without becoming a Fiend.
+118036	+		　永遠の命も別にいらん」	　I don't need eternal life either.」
 
-118037	Rance	「なにより、だ……」	「Above all...」
+118037	Rance	だる顔	「なにより、だ……」	「Above all...」
 
-118038	Rance	「小便器の中に入っていたこんなもん飲めるかー！」	「Who the hell can drink something that was inside a urinalー!」
+118038	Rance	怒り	「小便器の中に入っていたこんなもん飲めるかー！」	「Who the hell can drink something that was inside a urinalー!」
 
-118039	Juno	「はは、それはごもっとも」	「Haha, that's a fair point.」
+118039	Juno	嬉しい	「はは、それはごもっとも」	「Haha, that's a fair point.」
 
-118040	Juno	「ふーむ……」	「Hmmm...」
+118040	Juno	基本	「ふーむ……」	「Hmmm...」
 
-118041	Juno	「俺の考える魔血魂を飲ませる条件って、	「The condition I think is needed to drink the blood soul is
-118042	+	　なによりも美しいこと、	　above all, beauty,
-118043	+	　ただそれ一つなんだ……」	　just that one thing...」
+118041	Juno		「俺の考える魔血魂を飲ませる条件って、	「The condition I think is needed to drink the blood soul is
+118042	+		　なによりも美しいこと、	　above all, beauty,
+118043	+		　ただそれ一つなんだ……」	　just that one thing...」
 
-118044	-	にっとジュノーが微笑む。	Juno smiled brightly.
+118044	-		にっとジュノーが微笑む。	Juno smiled brightly.
 
-118045	Juno	「……いいね、飲んで欲しくなった」	「...Nice, now I really want you to drink it.」
+118045	Juno	嬉しい	「……いいね、飲んで欲しくなった」	「...Nice, now I really want you to drink it.」
 
-118046	Rance	「うげっ……	「Ugeh...
-118047	+	　なんて恐ろしいことを言う奴……」	　What a terrifying thing to say...」
+118046	Rance	基本	「うげっ……	「Ugeh...
+118047	+		　なんて恐ろしいことを言う奴……」	　What a terrifying thing to say...」
 
-118048	Juno	「ま、今日のところは帰るよ。	「Well, I'll head back for today.
-118049	+	　じゃねー」	　See ya.」
+118048	Juno	嬉しい	「ま、今日のところは帰るよ。	「Well, I'll head back for today.
+118049	+		　じゃねー」	　See ya.」
 
-118050	-	軽やかにジュノーは去って行った。	Juno left lightly.
+118050	-		軽やかにジュノーは去って行った。	Juno left lightly.
 
-118051	Rance	「まったく、こんな深夜に迷惑な奴」	「Seriously, what a nuisance showing up this late at night.」
+118051	Rance	だる顔	「まったく、こんな深夜に迷惑な奴」	「Seriously, what a nuisance showing up this late at night.」
 
-118052	Rance	「さー、寝直すぞー」	「Alright, back to sleep.」
+118052	Rance	真剣	「さー、寝直すぞー」	「Alright, back to sleep.」
 
-118053	Sill Plain	「はーい」	「Yeees.」
+118053	Sill Plain	基本	「はーい」	「Yeees.」
 
-118054	-	明かりを消してランス達がベッドに潜り込む。	They turned off the lights and Rance's group slipped into bed.
+118054	-		明かりを消してランス達がベッドに潜り込む。	They turned off the lights and Rance's group slipped into bed.
 
-118055	Juno	「本当に飲む気ない？」	「You really don't want to drink it?」
+118055	Juno	嬉しい	「本当に飲む気ない？」	「You really don't want to drink it?」
 
-118056	Rance	「とっとと帰れ！」	「Get lost already!」
+118056	Rance	基本	「とっとと帰れ！」	「Get lost already!」
 
-118057	Juno	「ちぇー、残念だなー」	「Tch, too bad.」
+118057	Juno	嬉しい	「ちぇー、残念だなー」	「Tch, too bad.」
 
-118058	-	言うほど残念そうでもなく、	Not looking all that disappointed,
-118059	+	ジュノーは部屋から出て行った。	Juno left the room.
+118058	-		言うほど残念そうでもなく、	Not looking all that disappointed,
+118059	+		ジュノーは部屋から出て行った。	Juno left the room.
 
-118060	Sill Plain	「神出鬼没な方ですね……」	「He really appears and disappears like a ghost...」
+118060	Sill Plain	苦笑	「神出鬼没な方ですね……」	「He really appears and disappears like a ghost...」
 
-118061	Rance	「まったく、うっとうしい……」	「Seriously annoying...」
+118061	Rance	基本	「まったく、うっとうしい……」	「Seriously annoying...」

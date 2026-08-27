@@ -8,178 +8,178 @@
 * Sharon	シャロン	Female
 * LeMay	大将軍ルメイ	Male
 
-145921	-	ヘルマンの西部に、	In western Helman,
-145922	+	月の光すら届かない、鬱蒼と生い茂る、	a deep, dark forest so thick that even moonlight couldn't reach,
-145923	+	深く、暗い森があった。	existed.
+145921	-		ヘルマンの西部に、	In western Helman,
+145922	+		月の光すら届かない、鬱蒼と生い茂る、	a deep, dark forest so thick that even moonlight couldn't reach,
+145923	+		深く、暗い森があった。	existed.
 
-145924	-	トランシルバニアの森――	Transylvania Forest――
-145925	+	そう呼ばれ近隣住民も近づかないこの森には	Called so, even nearby residents avoid this forest,
-145926	+	到底似合わぬ居城があった。	yet an unfitting castle stood within.
+145924	-		トランシルバニアの森――	Transylvania Forest――
+145925	+		そう呼ばれ近隣住民も近づかないこの森には	Called so, even nearby residents avoid this forest,
+145926	+		到底似合わぬ居城があった。	yet an unfitting castle stood within.
 
-145927	-	ブラン城――	Bran Castle――
+145927	-		ブラン城――	Bran Castle――
 
-145928	-	何年前からそこにあるかも不明の、	An old castle whose age of existence is unknown,
-145929	+	人住まぬ古城。	uninhabited by humans.
+145928	-		何年前からそこにあるかも不明の、	An old castle whose age of existence is unknown,
+145929	+		人住まぬ古城。	uninhabited by humans.
 
-145930	-	その城に魔人四天王の一人、	In that castle resided one of the Four Dread Fiends,
-145931	+	ケッセルリンクがいた。	Kesselring.
+145930	-		その城に魔人四天王の一人、	In that castle resided one of the Four Dread Fiends,
+145931	+		ケッセルリンクがいた。	Kesselring.
 
-145932	Varen	「ケッセルリンク様、	「Kesselring-sama,
-145933	+	　『今朝』の紅茶は如何ですか？」	　how is the 'this morning' tea?」
+145932	Varen	基本	「ケッセルリンク様、	「Kesselring-sama,
+145933	+		　『今朝』の紅茶は如何ですか？」	　how is the 'this morning' tea?」
 
-145934	Kesselring	「ああ、美味しいよ。	「Ah, it's delicious.
-145935	+	　これはカモミールか……」	　This is chamomile...」
+145934	Kesselring		「ああ、美味しいよ。	「Ah, it's delicious.
+145935	+		　これはカモミールか……」	　This is chamomile...」
 
-145936	Varen	「カモミールには神経を鎮める力があります。	「Chamomile has the power to calm the nerves.
-145937	+	　どうか少しでもケッセルリンク様の	　I hope it helps even a little
-145938	+	　お役に立てれば、と」	　for Kesselring-sama.」
+145936	Varen		「カモミールには神経を鎮める力があります。	「Chamomile has the power to calm the nerves.
+145937	+		　どうか少しでもケッセルリンク様の	　I hope it helps even a little
+145938	+		　お役に立てれば、と」	　for Kesselring-sama.」
 
-145939	Alcarria	「あらー、ファーレン、失礼よ。	「Ara~, Varen, how rude.
-145940	+	　ケッセルリンク様に」	　To Kesselring-sama.」
+145939	Alcarria		「あらー、ファーレン、失礼よ。	「Ara~, Varen, how rude.
+145940	+		　ケッセルリンク様に」	　To Kesselring-sama.」
 
-145941	Varen	「え、そ、そうでしょうか？」	「E, is that so?」
+145941	Varen		「え、そ、そうでしょうか？」	「E, is that so?」
 
-145942	Kanayo	「あら、いいのではないかしら。	「Ara, isn't it fine?
-145943	+	　貴方が逆の立場でも	　If you were in the opposite position
-145944	+	　似たようなことをするでしょう？　アルカリア」	　you'd do something similar, right? Alcarria.」
+145942	Kanayo		「あら、いいのではないかしら。	「Ara, isn't it fine?
+145943	+		　貴方が逆の立場でも	　If you were in the opposite position
+145944	+		　似たようなことをするでしょう？　アルカリア」	　you'd do something similar, right? Alcarria.」
 
-145945	Alcarria	「えへへー、分かります？」	「Ehehe~ you understand?」
+145945	Alcarria		「えへへー、分かります？」	「Ehehe~ you understand?」
 
-145946	Paleloa	「二人とも、ケッセルリンク様の前よ？」	「You two, in front of Kesselring-sama?」
+145946	Paleloa		「二人とも、ケッセルリンク様の前よ？」	「You two, in front of Kesselring-sama?」
 
-145947	Kanayo	「とと、すみません」	「Toto, sorry.」
+145947	Kanayo		「とと、すみません」	「Toto, sorry.」
 
-145948	Alcarria	「はーい、失礼しました」	「Yees, sorry.」
+145948	Alcarria		「はーい、失礼しました」	「Yees, sorry.」
 
-145949	-	心許し合える者達のじゃれ合い、	Playful banter among those who trust each other,
-145950	+	しかし決して騒がしくはない。	yet never noisy.
+145949	-		心許し合える者達のじゃれ合い、	Playful banter among those who trust each other,
+145950	+		しかし決して騒がしくはない。	yet never noisy.
 
-145951	-	ケッセルリンクはそんな自分のメイド達を	Kesselring watched his maids
-145952	+	優しい瞳で見ていた。	with gentle eyes.
+145951	-		ケッセルリンクはそんな自分のメイド達を	Kesselring watched his maids
+145952	+		優しい瞳で見ていた。	with gentle eyes.
 
-145953	-	心から主を敬愛する八人のメイド。	Eight maids who truly loved and respected their master.
-145954	+	これがケッセルリンクの血を分けた使徒達である。	These were Kesselring's blood-bound apostles.
+145953	-		心から主を敬愛する八人のメイド。	Eight maids who truly loved and respected their master.
+145954	+		これがケッセルリンクの血を分けた使徒達である。	These were Kesselring's blood-bound apostles.
 
-145955	-	ケッセルリンクは音もなく静かに立ち上がる。	Kesselring stood up silently.
+145955	-		ケッセルリンクは音もなく静かに立ち上がる。	Kesselring stood up silently.
 
-145956	Kesselring	「これより出る。	「I'm heading out now.
-145957	+	　人間の世界で人間を狩らねば」	　I must hunt humans in the human world.」
+145956	Kesselring		「これより出る。	「I'm heading out now.
+145957	+		　人間の世界で人間を狩らねば」	　I must hunt humans in the human world.」
 
-145958	Kesselring	「人間が殺される様は辛いか？」	「Does seeing humans killed pain you?」
+145958	Kesselring		「人間が殺される様は辛いか？」	「Does seeing humans killed pain you?」
 
-145959	-	元人間である使徒のメイド達は、	The apostle maids who were once human
-145960	+	それぞれ揃った動きで首を横に振る。	shook their heads in unison.
+145959	-		元人間である使徒のメイド達は、	The apostle maids who were once human
+145960	+		それぞれ揃った動きで首を横に振る。	shook their heads in unison.
 
-145961	Kesselring	「……そうか」	「...I see.」
+145961	Kesselring		「……そうか」	「...I see.」
 
-145962	Kesselring	「アルカリア、エルシール、加奈代」	「Alcarria, Elsill, Kanayo.」
+145962	Kesselring		「アルカリア、エルシール、加奈代」	「Alcarria, Elsill, Kanayo.」
 
-145963	Elsill	「はい……」	「Yes...」
+145963	Elsill		「はい……」	「Yes...」
 
-145964	Kesselring	「シャロン、ファーレン」	「Sharon, Varen.」
+145964	Kesselring		「シャロン、ファーレン」	「Sharon, Varen.」
 
-145965	Sharon	「はい」	「Yes.」
+145965	Sharon		「はい」	「Yes.」
 
-145966	Kesselring	「リリム、パレロア、バーバラ」	「Lilim, Paleloa, Barbara.」
+145966	Kesselring		「リリム、パレロア、バーバラ」	「Lilim, Paleloa, Barbara.」
 
-145967	Paleloa	「はい、ケッセルリンク様」	「Yes, Kesselring-sama.」
+145967	Paleloa		「はい、ケッセルリンク様」	「Yes, Kesselring-sama.」
 
-145968	-	その場にいるメイド達	To each maid present,
-145969	+	一人一人に声をかけるケッセルリンク。	Kesselring called out individually.
+145968	-		その場にいるメイド達	To each maid present,
+145969	+		一人一人に声をかけるケッセルリンク。	Kesselring called out individually.
 
-145970	-	その声は女性ならずもうっとりしそうなほど、	His voice was so gentle and enchanting
-145971	+	優しさに満ちあふれた不思議な声色をしていた。	that any woman would swoon.
+145970	-		その声は女性ならずもうっとりしそうなほど、	His voice was so gentle and enchanting
+145971	+		優しさに満ちあふれた不思議な声色をしていた。	that any woman would swoon.
 
-145972	Varen	「ケッセルリンク様、どうかお気を付けて。	「Kesselring-sama, please be careful.
-145973	+	　万が一もないと思いますが……」	　Though I doubt anything will happen...」
+145972	Varen		「ケッセルリンク様、どうかお気を付けて。	「Kesselring-sama, please be careful.
+145973	+		　万が一もないと思いますが……」	　Though I doubt anything will happen...」
 
-145974	Kesselring	「分かっている。	「I understand.
-145975	+	　心配してくれているのだろう？」	　You're worried about me?」
+145974	Kesselring	目閉じ	「分かっている。	「I understand.
+145975	+		　心配してくれているのだろう？」	　You're worried about me?」
 
-145976	-	ケッセルリンクは言葉を継がず、	Kesselring didn't continue speaking,
-145977	+	ただ表情を和らげる。	he simply softened his expression.
+145976	-		ケッセルリンクは言葉を継がず、	Kesselring didn't continue speaking,
+145977	+		ただ表情を和らげる。	he simply softened his expression.
 
-145978	Varen	「あっ……」	「Ah...」
+145978	Varen	基本	「あっ……」	「Ah...」
 
-145979	-	それだけでメイド達は心から安心し、	With just that the maids felt truly relieved
-145980	+	笑みを浮かべた。	and smiled.
+145979	-		それだけでメイド達は心から安心し、	With just that the maids felt truly relieved
+145980	+		笑みを浮かべた。	and smiled.
 
-145981	Kesselring	「行ってくる」	「I'm off.」
+145981	Kesselring		「行ってくる」	「I'm off.」
 
-145982	Elsill	「行ってらっしゃいませ、ケッセルリンク様」	「Have a safe trip, Kesselring-sama.」
+145982	Elsill		「行ってらっしゃいませ、ケッセルリンク様」	「Have a safe trip, Kesselring-sama.」
 
-145983	Paleloa	「お気をつけて、ケッセルリンク様」	「Please take care, Kesselring-sama.」
+145983	Paleloa		「お気をつけて、ケッセルリンク様」	「Please take care, Kesselring-sama.」
 
-145984	-	メイド達がケッセルリンクへの	The maids bowed deeply
-145985	+	敬愛を表すように深く頭を下げて見送った。	to show their love and respect as they saw him off.
+145984	-		メイド達がケッセルリンクへの	The maids bowed deeply
+145985	+		敬愛を表すように深く頭を下げて見送った。	to show their love and respect as they saw him off.
 
-145986	-	…………	............
+145986	-		…………	............
 
-145987	-	……	......
+145987	-		……	......
 
-145988	-	魔軍司令部――	Monster Army Headquarters――
+145988	-		魔軍司令部――	Monster Army Headquarters――
 
-145989	LeMay	「お待ちしておりました、ケッセルリンク様」	「I've been waiting, Kesselring-sama.」
+145989	LeMay		「お待ちしておりました、ケッセルリンク様」	「I've been waiting, Kesselring-sama.」
 
-145990	Kesselring	「うむ……」	「Yes...」
+145990	Kesselring		「うむ……」	「Yes...」
 
-145991	-	魔軍の砦に現れたケッセルリンクを	Kesselring who appeared at the Monster Army fortress
-145992	+	大将軍ルメイが出迎える。	was greeted by Great General LeMay.
+145991	-		魔軍の砦に現れたケッセルリンクを	Kesselring who appeared at the Monster Army fortress
+145992	+		大将軍ルメイが出迎える。	was greeted by Great General LeMay.
 
-145993	-	今のケッセルリンクに、メイド達と相対していた時の	The gentle air he had with his maids earlier
-145994	+	優しげな空気は微塵もない。	was completely gone now.
+145993	-		今のケッセルリンクに、メイド達と相対していた時の	The gentle air he had with his maids earlier
+145994	+		優しげな空気は微塵もない。	was completely gone now.
 
-145995	LeMay	「早速ではありますが、	「Though it's sudden,
-145996	+	　人間大規模虐殺作戦について――」	　about the large-scale human extermination operation――」
+145995	LeMay		「早速ではありますが、	「Though it's sudden,
+145996	+		　人間大規模虐殺作戦について――」	　about the large-scale human extermination operation――」
 
-145997	Kesselring	「…………」	「............」
+145997	Kesselring		「…………」	「............」
 
-145998	LeMay	「う、ぐっ！？」	「U, guh!?」
+145998	LeMay		「う、ぐっ！？」	「U, guh!?」
 
-145999	-	ケッセルリンクがルメイを見ていた。	Kesselring was staring at LeMay.
+145999	-		ケッセルリンクがルメイを見ていた。	Kesselring was staring at LeMay.
 
-146000	-	ただ、ジッと。	Just staring. Motionless.
+146000	-		ただ、ジッと。	Just staring. Motionless.
 
-146001	-	それだけでルメイは	That alone was enough to make LeMay feel
-146002	+	呼吸と心臓が止まったような錯覚に陥った。	as if her breathing and heartbeat had stopped.
+146001	-		それだけでルメイは	That alone was enough to make LeMay feel
+146002	+		呼吸と心臓が止まったような錯覚に陥った。	as if her breathing and heartbeat had stopped.
 
-146003	Kesselring	「私はそのような下品な手は好まない」	「I do not favor such vulgar methods.」
+146003	Kesselring		「私はそのような下品な手は好まない」	「I do not favor such vulgar methods.」
 
-146004	Kesselring	「大規模虐殺の必要はない」	「There is no need for large-scale slaughter.」
+146004	Kesselring		「大規模虐殺の必要はない」	「There is no need for large-scale slaughter.」
 
-146005	LeMay	「は……」	「Y-Yes...」
+146005	LeMay		「は……」	「Y-Yes...」
 
-146006	LeMay	「ははっ！」	「Haha!」
+146006	LeMay		「ははっ！」	「Haha!」
 
-146007	LeMay~	（くっ、魔人だからと偉そうに……	（Damn it, acting all superior just because he's a Fiend...」
-146008	+	　私より上の立場でなければこんな奴……）	　If he weren't above me in rank, a guy like this...）
+146007	LeMay~		（くっ、魔人だからと偉そうに……	（Damn it, acting all superior just because he's a Fiend...」
+146008	+		　私より上の立場でなければこんな奴……）	　If he weren't above me in rank, a guy like this...）
 
-146009	Kesselring	「…………」	「............」
+146009	Kesselring		「…………」	「............」
 
-146010	Kesselring	「私は独自に動く」	「I will act on my own.」
+146010	Kesselring		「私は独自に動く」	「I will act on my own.」
 
-146011	Kesselring	「まずは人類軍の力を削ぐことに注力し、	「First, I will focus on weakening the human army's strength,
-146012	+	　いずれ本丸を落とす」	　and eventually take the main stronghold.」
+146011	Kesselring		「まずは人類軍の力を削ぐことに注力し、	「First, I will focus on weakening the human army's strength,
+146012	+		　いずれ本丸を落とす」	　and eventually take the main stronghold.」
 
-146013	Kesselring	「そのときは魔軍の力も借りるぞ」	「When that time comes, I will borrow the Monster Army's power as well.」
+146013	Kesselring		「そのときは魔軍の力も借りるぞ」	「When that time comes, I will borrow the Monster Army's power as well.」
 
-146014	LeMay	「は、そ、そうですか……	「Y-Yes, I see...
-146015	+	　はい、分かりました」	　Understood.」
+146014	LeMay		「は、そ、そうですか……	「Y-Yes, I see...
+146015	+		　はい、分かりました」	　Understood.」
 
-146016	LeMay	「人間は既にバボラ様も撃破しています。	「The humans have already defeated Lady Babolat.
-146017	+	　ケッセルリンク様に限って、	　I don't believe there is any chance of failure for Lord Kesselring,
-146018	+	　万が一もないかと思いますが、どうか気をつけて」	　but please be careful nonetheless.」
+146016	LeMay		「人間は既にバボラ様も撃破しています。	「The humans have already defeated Lady Babolat.
+146017	+		　ケッセルリンク様に限って、	　I don't believe there is any chance of failure for Lord Kesselring,
+146018	+		　万が一もないかと思いますが、どうか気をつけて」	　but please be careful nonetheless.」
 
-146019	Kesselring	「……ふん」	「...Hmph.」
+146019	Kesselring		「……ふん」	「...Hmph.」
 
-146020	-	メイドが口にした言葉と	LeMay spoke words similar to what the maid had said.
-146021	+	似たようなことを言うルメイ。	Kesselring understood that this was LeMay's best attempt at sarcasm,
+146020	-		メイドが口にした言葉と	LeMay spoke words similar to what the maid had said.
+146021	+		似たようなことを言うルメイ。	Kesselring understood that this was LeMay's best attempt at sarcasm,
 
-146022	-	それがルメイの精一杯の嫌味だということは	but he had lost even the will to respond
-146023	+	ケッセルリンクにも分かっていたが、	and simply turned his back.
-146024	+	答える気すら失せて背を向けた。	
+146022	-		それがルメイの精一杯の嫌味だということは	but he had lost even the will to respond
+146023	+		ケッセルリンクにも分かっていたが、	and simply turned his back.
+146024	+		答える気すら失せて背を向けた。	
 
-146025	-	目指すはヘルマンの砦。	His destination was the Helman fortress.
-146026	+	ケッセルリンクは単身で向かう。	Kesselring headed there alone.
+146025	-		目指すはヘルマンの砦。	His destination was the Helman fortress.
+146026	+		ケッセルリンクは単身で向かう。	Kesselring headed there alone.
 
-146027	-	空には凍えるような月が煌々と輝いていた。	A freezing moon shone brightly in the sky.
+146027	-		空には凍えるような月が煌々と輝いていた。	A freezing moon shone brightly in the sky.
