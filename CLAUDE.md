@@ -189,11 +189,11 @@ after them. Both were found by playing the game, and neither has a report to
 find them in the corpus, because a record is a number and two lines with no
 speech around it to be wrong about. A scene file has the game's own Japanese,
 the speaker from the bytecode and the row boundaries the `MSG` operands gave, so
-a row's English can be held against the row it sits on. **4469 speeches are
+a row's English can be held against the row it sits on. **3348 speeches are
 drawn in more lines than their window has**, which is the class a player cannot
-miss; `layOutSpeech` takes 3143 of them back and the other 1326 hold more
-English than their rows can draw whatever the layout. 18 are shifted, 1269 have
-a blank row where the game speaks, and 3609 have lost a 「 or a 」 at a row
+miss; `layOutSpeech` takes 2504 of them back and the other 844 hold more
+English than their rows can draw whatever the layout. 18 are shifted, 1333 have
+a blank row where the game speaks, and 3635 have lost a 「 or a 」 at a row
 boundary. `docs/speech-gaps.md` is the write-up, including the shift it cannot
 see: both its signals need the wrong row to *look* wrong, so a misplaced
 sentence that reads plausibly where it landed is invisible and the count is a

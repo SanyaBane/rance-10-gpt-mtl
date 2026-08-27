@@ -31,16 +31,21 @@ row's English can be held against the row it sits on.
 
 ## The four classes
 
-Counted over `en_grok` as of the pass that wrote this. A speech is reported once,
-under the worst class it answers, so the counts add up to speeches rather than to
-signals.
+Counted over `en_grok` as of the pass that wrote this, at `WRAP_SAFETY_MARGIN`
+0.95. A speech is reported once, under the worst class it answers, so the counts
+add up to speeches rather than to signals -- and because it is reported once,
+mending one class moves speeches into another rather than straight out of the
+report. Raising the budget from 0.9 to 0.95 took `overflow` from 4469 to 3348,
+and 90 of those 1121 speeches came back under `blank` and `bracket`, which is
+why those two read higher here than in the run before. The other 1031 left the
+report altogether.
 
 | class | speeches | what it is |
 |---|---|---|
 | `shifted` | 18 | the English on a row belongs to a different row |
-| `overflow` | 4469 | the speech draws in more lines than its window has |
-| `blank` | 1269 | the game says something on a row and the English does not |
-| `bracket` | 3609 | the speech opens 「 or closes 」 in Japanese and not in English |
+| `overflow` | 3348 | the speech draws in more lines than its window has |
+| `blank` | 1333 | the game says something on a row and the English does not |
+| `bracket` | 3635 | the speech opens 「 or closes 」 in Japanese and not in English |
 | `untranslated` | 25 | no English anywhere in the speech |
 
 **shifted** is the one worth reading first and the one that is not cosmetic. Two
@@ -52,9 +57,9 @@ it, and the run ends on `............`.
 
 **overflow** is the one a player cannot miss: the speech is drawn in more lines
 than its window has, so the end of it runs off the box. `modules/SpeechRows.js`
-takes 3143 of them back by laying the same words out across the rows the
+takes 2504 of them back by laying the same words out across the rows the
 bytecode gives them -- `ネルソン／キャライベントＣ` is three rows drawn in five,
-and balanced across those three it fits. The other 1326 hold more English than
+and balanced across those three it fits. The other 844 hold more English than
 their rows can draw whatever the layout, and want shortening by meaning, the way
 the synopsis panel's overlong captions do.
 
