@@ -30,7 +30,7 @@ switching on the `viewType` each ADV command passes:
 |---|---|---|
 | `●ト書き`, `●台詞Ａ`, `●思考Ａ`, `●左台詞Ｂ` and the rest of the Ｂ family | `MessageWindow01` | 3 |
 | `●ト書きＥ`, `●台詞Ｅ`, `●思考Ｅ` | `MessageWindow02` | 2 |
-| the backlog | `MessageWindowHistory` | 18 |
+| `CALLFUNC ■歴史枠`, once in the game | `MessageWindowHistory` | 18 |
 
 That is the switch, and the switch is not the whole answer: a scene can change
 the frame under it. `CALLFUNC ■歴史枠` does, and it happens **once** in the
@@ -54,6 +54,46 @@ than dialogue: `（的なことを言ってる）`, `大南さん判断に任せ
 event window, so which window a line is in is a property of the line and not of
 the scene.
 
+## The backlog is somewhere else entirely
+
+Nothing in that switch draws the backlog. `MessageWindowHistory` is the frame
+`■歴史枠` puts up for the prologue chronology and nothing else. The table above
+named it the backlog for a long time, and what shows that up is that moving its
+text does not move a character on the backlog screen.
+
+The backlog is `backlog::detail::CBackLogView`, drawn from
+`archives/Rance10Pact_v1_04/Asra/バックログ.pactex.x` -- a background, two text
+parts, a swipe area, a vertical scroll bar and a back button. The log itself is
+`SYS_通常テキスト`:
+
+| | |
+|---|---|
+| `座標` | 105, 127 |
+| `フォントサイズ` | 40 |
+| `字間隔` | 2 |
+| `行間隔` | −5 |
+| rows | 24, the scroll bar's `表示量` |
+| the scroll bar | x = 1254 |
+
+So the text starts at 105 rather than 250, and the font is two sizes smaller
+than this file used to say. Anyone measuring the backlog with `フォントサイズ 50`
+and `文字間隔 -2` was measuring the chronology frame.
+
+**Its width is declared rather than derived.** The design note the placeholder
+carries says so itself: the font, `字間隔`, `行間隔`, `文字数（横幅）` and the
+coordinates are all read from this part, and the row count from the scroll
+bar's `表示数`. The box is therefore the number of characters in the
+placeholder's first line, and that line was thirty-three full-width digits.
+
+Which is checkable, and this commit checked it: widened to thirty-six, the
+backlog drew a row of 34.15 whole -- a width a box of thirty-three could not
+have held. A row of 35.87 is still cut, so the edge now sits between 35.23 and
+35.87. One measurement on one English row, and the character-class caveat below
+applies to it as much as to the rulers.
+
+There is not much left to take: 105 leaves almost nothing to the left, and the
+scroll bar at 1254 stands about a character past where thirty-six ends.
+
 ## What the layout states, and what it does not
 
 `archives/Rance10Pact_v1_04/MessageWindow0*.pactex.x` carries a placeholder, the
@@ -65,7 +105,7 @@ twenty full-width characters by seven rows.
 |---|---|---|
 | `MessageWindow01` | three lines of prose, 14/11/16 characters | three rows, and nothing about the width |
 | `MessageWindow02` | `１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１` twice | **31 × 2** |
-| `MessageWindowHistory` | forty full-width characters, eighteen lines | **40 × 18** |
+| `MessageWindowHistory` | forty full-width characters, eighteen lines | **40 × 18**, and it is the chronology frame rather than the backlog |
 
 `テキストエリア` is an origin and two zeroes: `{337, 170, 0, 0}` for the event
 window, and `{470, 226, 0, 0}` for the ordinary one as the game shipped it. This
@@ -88,9 +128,9 @@ At that scale:
   started at x=470 and its mark is at x=1440. This patch moves that origin to
   390, which makes the same box 26.2, and every count of characters from the
   origin below gains the same two;
-- the backlog is (1670 − 250) / (40.1 × 50/57) = 40.3, against the 40 its own
-  placeholder states. A third window, a different font size, and within one
-  percent.
+- the chronology frame is (1670 − 250) / (40.1 × 50/57) = 40.3, against the 40
+  its own placeholder states. A third window, a different font size, and within
+  one percent. It is not the backlog -- see below.
 
 The game's own Japanese agrees, which is the fourth reading and the only one
 that owes nothing to the geometry:
@@ -165,9 +205,14 @@ measurement that says so rather than a preference.
 
 Four instruments stop at the same place on the screen and disagree by 27% about
 how wide that place is: the full-width digits say 33.0, the English rows 30.6,
-the dots 26.1, the `i` ruler 28.1. Measuring with the backlog's own tracking
-rather than the window's — it is `フォントサイズ 50` against 57, both
-`文字間隔 -2` — moves every number by about a percent and closes none of the gap.
+the dots 26.1, the `i` ruler 28.1.
+
+**The digits were right, and they were reading the box's own declaration.** The
+backlog's width is the character count of the placeholder in `SYS_通常テキスト`,
+and that placeholder was thirty-three full-width digits -- so the instrument that
+answered 33.0 was the one measuring in the same units the designer wrote in. The
+other three were measuring English, dots and `i` against a box declared in
+full-width digits, which is a class the font does not scale between.
 
 So `gameTextWidth` does not describe this window's proportions across character
 classes, and no model here reconciles them. The English rows are what this file
