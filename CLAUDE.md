@@ -182,6 +182,24 @@ withheld from a hundred scenes. `docs/unnamed-terms.md` is the write-up,
 including the one it does not find and why -- 大陸 is an ordinary noun in both
 languages and nothing in the text separates it from 世界.
 
+Both of those ask what a word is called. `scripts/find_speech_gaps.js` asks
+whether the English is on the right line at all: a bubble with an empty row in
+the middle of it, and a narrator saying the line that belongs to the character
+after them. Both were found by playing the game, and neither has a report to
+find them in the corpus, because a record is a number and two lines with no
+speech around it to be wrong about. A scene file has the game's own Japanese,
+the speaker from the bytecode and the row boundaries the `MSG` operands gave, so
+a row's English can be held against the row it sits on. 18 speeches are shifted,
+2502 have the English of the whole utterance on one row and blanks after it --
+**592 of those already draw in more lines than the window allows**, which is the
+part that is not cosmetic -- and 3693 have lost a 「 or a 」 at a row boundary.
+`docs/speech-gaps.md` is the write-up, including the shift it cannot see: both
+its signals need the wrong row to *look* wrong, so a misplaced sentence that
+reads plausibly where it landed is invisible and the count is a floor. And the
+middle dot cost a false positive here too -- `………………・` answered with
+`..............・` is a translation, not padding, because U+30FB is a letter by
+codepoint and a dot by eye.
+
 Two things `find_term_drift` taught that generalise past it. **A phrase that
 contains the settled rendering is not the settled rendering**: "Demon Great General" holds
 "Great General", so a plain `includes()` counted 34 wrong lines as agreeing, and

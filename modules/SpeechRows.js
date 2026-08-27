@@ -42,8 +42,18 @@ const WINDOW_ROWS = 3;
  * Two opinions about the width would let this pass a speech the build then
  * splits. modules/SceneAcceptance.js counts the same way for the same reason.
  */
-const drawnLines = (rows) => rows.reduce((sum, row) =>
+export const drawnLines = (rows) => rows.reduce((sum, row) =>
     sum + (row.trim() ? wrapAt(row, LONGEST_DIALOGUE_LINE).split("\n").length : 1), 0);
+
+/**
+ * The lines a speech of this many rows is allowed to draw in.
+ *
+ * Exported beside drawnLines because modules/SpeechGaps.js asks the same
+ * question of rows this module did not lay out -- whether what the draft
+ * already has fits -- and a second copy of either half is a second opinion
+ * about the window.
+ */
+export const rowBudget = (count) => Math.max(count, WINDOW_ROWS);
 
 /**
  * The window's own row, as a string rather than a number, the way
@@ -156,7 +166,7 @@ const balance = (words, count) => {
 export const layOutSpeech = (english, count) => {
     const text = english.trim();
     const words = text.split(/\s+/).filter(Boolean);
-    const budget = Math.max(count, WINDOW_ROWS);
+    const budget = rowBudget(count);
     const answer = (rows, tooFewWords) =>
         ({rows, fits: drawnLines(rows) <= budget, tooFewWords});
 
