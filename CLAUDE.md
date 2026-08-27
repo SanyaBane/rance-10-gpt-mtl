@@ -31,7 +31,7 @@ these is edited by hand:
 | `glossaries/` | the English, keyed by the Japanese — the tables below, the ones the enemy panel, the quest map's Location plate, the synopsis screen and the achievements screen read, and the words the synopsis settled on |
 | `patches/` | what alice-tools is handed directly by every build: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `features/` | one folder per optional patch: the files that change what the game *does*, and the `feature.js` naming them |
-| `text_languages/` | one folder per text the game can be built with — the translation, and the Japanese it shipped with |
+| `text_languages/` | one folder per text the game can be built with — the translation, and the Japanese it shipped with. The dialogue is **one file per scene** under `<lang>/scenes/`, which is what a build reads and what a translation is written in; `modules/SceneFile.js` is the format and `modules/Corpus.js` is how one is read |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
 
@@ -231,12 +231,16 @@ it also sat in a glossary or in a `フルネーム` column of `archives/`. Readi
 still the check, because a glossary the report reads is not a glossary a sweep
 remembered to open.
 
-## The name repairs are in the corpus, and have to stay agreed with it
+## The name repairs are in the text, and have to stay agreed with it
 
 `normalizeNames` used to apply that table on the way into the patch and nowhere
 else, so 14 380 lines of `text_languages/en_grok/` said one thing on disk and
-another in the game. They are written in now: a chunk file reads the way a build
-of it reads.
+another in the game. They are written in now: **a file reads the way a build of
+it reads**, which is the rule to carry into anything that rewrites a row. It is
+why the row layout is baked rather than applied at build time, and why the two
+heuristics that nearly went into the reader — a dots-only cell is empty, a
+whitespace-only cell is empty — were retired instead: see
+`docs/speech-gaps.md`.
 
 The pass still runs, and after a bake it repairs nothing — which is the check.
 **Run it over the corpus after any edit to the corpus or to the table, and expect
@@ -259,6 +263,12 @@ lines. `docs/baked-name-repairs.md` has the rest, including how to write a chunk
 back without burying the edit.
 
 ## A record's Japanese is not the game's line just because the number says so
+
+**This is about the chunk files, which are on their way out.** A scene row
+carries the game's own Japanese, checked against the dump at every extraction,
+and every message sits in exactly one scene — so neither fault below can happen
+in the format a build now reads. Keep it until `gpt_outputs*/` is deleted;
+`docs/scene-corpus-migration.md` is where that stands.
 
 A corpus record carries a `lineNumber`, the Japanese it was translated from, and
 the English. Only the number reaches the game: `readCorpus` in
