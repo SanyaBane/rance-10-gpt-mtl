@@ -127,11 +127,41 @@ rulers agree, which is what makes it a measurement rather than a reading:
 | full-width digits | about the 36th | 36.0 |
 | `[36]` | drawn whole | 33.3 |
 
-**The backlog cuts earlier**, and it is therefore the binding constraint: `[36]`
-and everything above it stop at the same word there while `[32]` is drawn whole,
-which puts its edge between 30 and 33. Read with the ordinary window's font
-rather than its own, which is smaller — comparing two strings that way is sound
-and quoting an absolute geometry is not, so the range is what this states.
+**The backlog cuts earlier**, and it is therefore the binding constraint. A
+second run pinned it, with three English rows grown a character at a time so the
+cut would land mid-token rather than at a space — which is what made the first
+run's `[36]`…`[52]` all stop at the same word and say nothing finer:
+
+| row | width | what the backlog did |
+|---|---|---|
+| `[30]` | 29.99 | drawn whole |
+| `[32]` | 31.54 | cut after `walk`, losing two characters |
+| `[34]` | 33.95 | cut in the same place |
+
+So the last character it draws ends at **30.58** and the first it does not
+begins at **31.10**. Call the edge 30.8. `wrapAt`'s budget of 31.2 is a hair
+past it: **1790 rows, 0.67%, lose a character or two there today.**
+
+That kills the headroom the ordinary window seemed to offer. Raising the budget
+to 33 would take the tails off 4360 rows in the backlog, to 35 off 7790. Lowering
+it to 30.5 would fold those 1790 instead, and a fold costs a fourth line that is
+cut at the bottom, which is worse than two characters at the right of a log
+nobody reads twice. **So the budget is left where it is**, and this is the
+measurement that says so rather than a preference.
+
+### One thing the rulers did not explain
+
+Four instruments stop at the same place on the screen and disagree by 27% about
+how wide that place is: the full-width digits say 33.0, the English rows 30.6,
+the dots 26.1, the `i` ruler 28.1. Measuring with the backlog's own tracking
+rather than the window's — it is `フォントサイズ 50` against 57, both
+`文字間隔 -2` — moves every number by about a percent and closes none of the gap.
+
+So `gameTextWidth` does not describe this window's proportions across character
+classes, and no model here reconciles them. The English rows are what this file
+quotes because the budget is applied to English and they answer in the units
+`wrapAt` uses. Anyone starting a third ruler run should know the other three
+instruments are not calibrated for it.
 
 Both numbers are far past the 24.2 the window is drawn for. Being over the
 designed width costs nothing until 36; the design is where Japanese sits
@@ -146,7 +176,8 @@ ones, and a fold costs a fourth line in a three-line window, which is cut at the
 bottom. Horizontal overflow is free up to 36. Vertical overflow is not free at
 all.
 
-There is real headroom, and it is worth naming because it is not where it looks:
+The ordinary window looks like it offers headroom, and the rows are there to
+take it:
 
 | row width | rows | |
 |---|---|---|
@@ -156,10 +187,8 @@ There is real headroom, and it is worth naming because it is not where it looks:
 | **31.2 – 36** | **9 080** | **3.4%** — folded today, and the window would have drawn them |
 | > 36 | 6 959 | 2.6% |
 
-Raising the budget toward 35 would stop folding those 9 080 rows and take their
-fourth lines with them. It would be paid for in the backlog, where the tail past
-about 30 is cut. Which of those is worse is a judgement about where a player
-reads, and it is not made here.
+It is not spendable. The backlog's edge, pinned below at 30.8, is what binds,
+and the budget already sits past it. Those 9 080 rows keep their folds.
 
 ## The current English is wider than the window
 
