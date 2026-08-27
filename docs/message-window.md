@@ -67,10 +67,13 @@ twenty full-width characters by seven rows.
 | `MessageWindow02` | `１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１` twice | **31 × 2** |
 | `MessageWindowHistory` | forty full-width characters, eighteen lines | **40 × 18** |
 
-`テキストエリア` is `{470, 226, 0, 0}` for the ordinary window and `{337, 170, 0,
-0}` for the event one: an origin and two zeroes. No part in the whole `.pactex`
-tree carries a text area with a width in it, so there is no width to read
-directly.
+`テキストエリア` is an origin and two zeroes: `{337, 170, 0, 0}` for the event
+window, and `{470, 226, 0, 0}` for the ordinary one as the game shipped it. This
+patch moves the latter to `{390, 226, 0, 0}`, where the name plate's own left
+edge is -- `Game/Adv/NamePlate.pactex.x` puts its root child at x=390, and the
+plate is drawn directly above the text that now lines up with it. No part in the
+whole `.pactex` tree carries a text area with a width in it, so there is no
+width to read directly.
 
 ## Twenty-four characters, from three directions
 
@@ -82,7 +85,9 @@ so `フォントサイズ` is not the advance and cannot be used as one.
 At that scale:
 
 - **the ordinary window is (1440 − 470) / 40.1 = 24.2 characters** — its text
-  starts at x=470 and its mark at x=1440;
+  started at x=470 and its mark is at x=1440. This patch moves that origin to
+  390, which makes the same box 26.2, and every count of characters from the
+  origin below gains the same two;
 - the backlog is (1670 − 250) / (40.1 × 50/57) = 40.3, against the 40 its own
   placeholder states. A third window, a different font size, and within one
   percent.
@@ -126,6 +131,13 @@ rulers agree, which is what makes it a measurement rather than a reading:
 | the `M` ruler | inside the eighth group | 36.7 |
 | full-width digits | about the 36th | 36.0 |
 | `[36]` | drawn whole | 33.3 |
+
+Those rulers were read with the origin at 470, and what they found is the
+screen edge rather than a property of the window: 470 + 36.1 × 40.1 = 1918
+against a 1920-wide screen, which is arithmetic agreeing with three rulers to a
+fifth of a character. So the origin is what decides that edge, and moving it to
+390 buys two characters -- **the window draws to about 38.1 now**. Derived
+rather than measured: nobody has put a ruler in it since the move.
 
 **The backlog cuts earlier**, and it is therefore the binding constraint. A
 second run pinned it, with three English rows grown a character at a time so the
@@ -228,8 +240,9 @@ shortens the text and not the speech. It is also not expressible today:
 `assemblePatch` in `modules/SceneTranslations.js` reads an empty English cell as
 "not translated yet" and leaves the line to the language underneath.
 
-**Keep a row inside the window.** Twenty-four full-width characters for the
-ordinary window; the ●…Ｅ lines get 31, which the scene file does not say.
+**Keep a row inside the window.** Twenty-six full-width characters for the
+ordinary window since its origin moved to 390, twenty-four before that; the
+●…Ｅ lines get 31, which the scene file does not say.
 
 ## What acceptance checks
 
