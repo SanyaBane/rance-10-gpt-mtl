@@ -99,7 +99,7 @@ export const getTextWidth = (text) => {
  */
 export const LONGEST_DIALOGUE_LINE = "“More importantly, what we should discuss now is how the other";
 
-const WRAP_SAFETY_MARGIN = 0.9;
+const WRAP_SAFETY_MARGIN = 0.95;
 
 const wrap = (text, maxLengthRef) => {
     const maxWidth = getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN;

@@ -198,8 +198,12 @@ That kills the headroom the ordinary window seemed to offer. Raising the budget
 to 33 would take the tails off 4360 rows in the backlog, to 35 off 7790. Lowering
 it to 30.5 would fold those 1790 instead, and a fold costs a fourth line that is
 cut at the bottom, which is worse than two characters at the right of a log
-nobody reads twice. **So the budget is left where it is**, and this is the
-measurement that says so rather than a preference.
+nobody reads twice. **So the budget was left where it was**, and that was the
+measurement saying so rather than a preference.
+
+It held only while the box was thirty-three. The box is declared in the layout,
+widening it is a number, and once it was widened the budget followed -- see
+below.
 
 ### One thing the rulers did not explain
 
@@ -226,12 +230,11 @@ comfortably, not where the box ends.
 
 ### What that settles about the budget
 
-`wrapAt`'s 31.2 sits under the ordinary window and level with the backlog. So
-the trade this file used to leave open — lower the budget to 24 — was the wrong
+The trade this file used to leave open — lower the budget to 24 — was the wrong
 direction: it would have converted rows that draw perfectly well into folded
 ones, and a fold costs a fourth line in a three-line window, which is cut at the
-bottom. Horizontal overflow is free up to 36. Vertical overflow is not free at
-all.
+bottom. Horizontal overflow is free to the edge of the box. Vertical overflow is
+not free at all.
 
 The ordinary window looks like it offers headroom, and the rows are there to
 take it:
@@ -244,8 +247,12 @@ take it:
 | **31.2 – 36** | **9 080** | **3.4%** — folded today, and the window would have drawn them |
 | > 36 | 6 959 | 2.6% |
 
-It is not spendable. The backlog's edge, pinned below at 30.8, is what binds,
-and the budget already sits past it. Those 9 080 rows keep their folds.
+It became spendable when the backlog's box was widened, and the budget was
+raised to take it: `WRAP_SAFETY_MARGIN` is 0.95 rather than 0.9. Running the
+build's own wrap over the whole corpus puts that at 18 801 folded messages down
+to 13 944 -- a quarter of them gone -- with the widest row it emits at 35.1 in
+the backlog's metric, inside the 35.23 the backlog now draws to. Nothing is past
+the edge at 0.95. At 1.00, 3501 rows would be.
 
 ## The current English is wider than the window
 
@@ -255,13 +262,20 @@ and the budget already sits past it. Those 9 080 rows keep their folds.
 | event window, English | 18.6 | 28.5 | 29.4 | 30.2 | 31.0 | 0.0% over 31 |
 
 The wrap in `modules/TextNormalization.js` breaks a line at
-`0.9 × getTextWidth(LONGEST_DIALOGUE_LINE)`, which is 31.2 full-width characters
-in the game's font — the event window's width, applied to every line. The event
-window is therefore served exactly and the ordinary window, which draws
-thirteen times as much text, is served about 30% too generously. 47 013 rendered
-rows are wider than the window they are drawn in.
+`0.95 × getTextWidth(LONGEST_DIALOGUE_LINE)` — 0.9 until the backlog's box was
+widened. The table above was measured at 0.9 and with the ordinary window's
+origin still at 470, so read it as the state before both.
 
-Retuning that budget would rewrite the `en_grok` patch, so it is not done here.
+That it is measured in Meiryo, which is not the game's font, is the part worth
+knowing. The row these rulers were cut from measures 427.0 Meiryo against a
+budget of 421.7 and is folded; in the game's own font it is 34.15 against an
+edge of 35.23 and would have been drawn whole. The instrument that decides the
+fold is not the one that decides the clip.
+
+Handing `wrapAt` `gameTextWidth` instead is worth 2123 folds at the same edge --
+13 944 down to 11 821, with nothing past the edge either way. It wants a second
+reading of that edge first: 35.23 is one measurement of one English row, and the
+section above says why the other three instruments cannot check it.
 
 ## What a translation may do
 
