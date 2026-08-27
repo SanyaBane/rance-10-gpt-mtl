@@ -1,0 +1,261 @@
+# 31111	５３５／ゼス滅亡	cg
+* Monster General	汎用魔物将軍	Male
+* Zedong	大将軍ツォトン	Male
+* Monster Captain	汎用魔物隊長	Male
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Magic the Gandhi	マジック	Female
+* Blue Monster Soldier	汎用魔物兵青	Male
+
+52081	-	ゼスを巡る戦いは、終局へと向かった。	The battle for Zeth headed toward its final stage.
+
+52082	-	ツォトン率いる魔軍の大攻勢を支えられず、首都は陥落。	Unable to withstand the massive offensive led by Zedong, the capital fell.
+
+52083	-	辛うじて脱出した一部の勢力が	The few forces that barely escaped
+52084	+	オールドゼスで抗戦するも、力尽き――……	fought back in Old Zeth but eventually exhausted their strength...
+
+52085	-	魔法文明を極め、歴史と栄華を誇った街並みが、	The cityscape that had mastered magical civilization and boasted history and glory
+52086	+	凶猛な魔軍の手に呑まれ、灰燼と化していった。	was swallowed by the ferocious Monster Army and turned to ash.
+
+52087	-	――それから、しばらく。	--Some time after that.
+
+52088	Monster General	「閣下！　ツォトン閣下！」	「Your Excellency! Lord Zedong!」
+
+52089	Zedong	「んん〜〜〜？　どうしたんだいポル？」	「Hmm~~~? What is it, Por?」
+
+52090	Monster General	「は！　ケイブリス様より連絡が。	「Yes! We have a message from Lord Kayblis.
+52091	+	　人類の管理計画に関して、	　Regarding the human management plan,
+52092	+	　進捗をお尋ねのようですが……」	　it seems he is asking for an update...」
+
+52093	Zedong	「むっふふふ、なんの問題もないとお伝えしておけ。	「Mufufufu, tell him there are no problems at all.
+52094	+	　実にニィハオに事が進んでいますとな」	　Things are progressing very nicely.」
+
+52095	Monster General	「は……しかし、大丈夫ですか？	「Yes... but is everything alright?
+52096	+	　確かに、予定より人口を減らすペースには	　We do seem to be behind schedule on reducing the population...」
+52097	+	　遅れがあるようですが……」	
+
+52098	Zedong	「遅れ、だと？」	「Behind schedule?」
+
+52099	-	ニヤリと、ツォトンは笑みを浮かべる。	Zedong grinned.
+
+52100	Zedong	「ははは！　そうではない、ポルよ！	「Hahaha! That's not it, Por!
+52101	+	　私は私の思想と計画に依って事を進めているのだ」	　I am proceeding according to my own ideology and plan.」
+
+52102	Monster General	「は……閣下の計画、ですか」	「Yes... your own plan, sir?」
+
+52103	Zedong	「そう。ケイブリス様は人類を八割殺せと仰ったが、	「Yes. Lord Kayblis ordered us to kill eighty percent of humanity,
+52104	+	　それでは片手落ちだ。奴隷どもの労働力も足りんし	　but that would be insufficient. We would lack slave labor,
+52105	+	　反乱のリスクも残る」	　and the risk of rebellion would remain.」
+
+52106	Zedong	「それよりは、人類の品種改良を行うべきなのだ。	「Instead, we should selectively breed humanity.
+52107	+	　より愚かで反乱する能力の無い生き物にな。	　Turn them into creatures too stupid to rebel.
+52108	+	　そうした奴隷ならば、多く抱えても問題はない」	　With such slaves, we can keep as many as we want without issue.」
+
+52109	Monster General	「…………！　そのような事をお考えでしたか！	「......! So that was your plan!
+52110	+	　品種改良ですか、まさに支配者の仕事ですな！」	　Selective breeding, truly the work of a ruler!」
+
+52111	Zedong	「つまり、優秀な者を殺し、無能な者を残す。	「In short, kill the capable and leave the incompetent.
+52112	+	　これを今、選別させているところだ」	　That is the selection currently underway.」
+
+52113	-	と、ツォトンの台詞にノックの音がかぶさった。	A knock overlapped with Zedong's words.
+
+52114	Monster Captain	「失礼します！	「Excuse me!
+52115	+	　ツォトン閣下、本日の計画の進捗報告です！」	　Lord Zedong, here is today's progress report!」
+
+52116	Zedong	「うむ、見せてみよ」	「Yes, show me.」
+
+52117	-	部下に渡された資料をめくり、	He flipped through the documents handed to him,
+52118	+	ツォトンは時々唸りつつ、読み進める。	occasionally grunting as he read.
+
+52119	Zedong	「……思ったより選別の進みが遅いな」	「...The selection is progressing slower than expected.」
+
+52120	Monster Captain	「は……申し訳ございません。	「Yes... I am truly sorry.
+52121	+	　どうもここ数年で教育水準が上がっていたようで、	　It seems the education level has risen in recent years,
+52122	+	　思ったより優秀な者が多く……」	　so there are more capable people than anticipated...」
+
+52123	Zedong	「ふん……まさに小賢しい連中だ」	「Hmph... what cunning little creatures.」
+
+52124	Monster Captain	「このままですと、処分する者が多すぎて……」	「At this rate, we will have too many to dispose of...」
+
+52125	Zedong	「無理そうなら、一時残す水準を引き上げても良い。	「If it's too much, we can temporarily raise the retention standard.
+52126	+	　何世代かかけて、ゆっくりやればよい」	　We can take it slowly over several generations.」
+
+52127	Monster Captain	「は！　承知いたしました！」	「Yes! Understood!」
+
+52128	Zedong	「それと……あの娘の様子はどうだ。	「Also... how is that girl doing.
+52129	+	　最後まで人間どもの脱出を指揮していた……」	　The one who commanded the humans' escape until the end...」
+
+52130	Monster Captain	「マジック・ザ・ガンジーですな。	「It's Magic the Gandhi.
+52131	+	　なかなか良い具合でした。	　She was in quite good condition.
+52132	+	　自分ももう、三度ほど……」	　I myself have already used her about three times...」
+
+52133	Zedong	「ははは、こらこら。あまり魔物兵に使わせるなよ。	「Hahaha, now now. Don't let too many monster soldiers use her.
+52134	+	　あの娘には……良い愚か者を産んでもらわなければ	　That girl must give birth to good fools
+52135	+	　ならんのだからな」	　after all.」
+
+52136	Zedong	「くっくっく…………	「Heh heh heh......
+52137	+	　ふあっはっはっはっははははははははははは！！」	　Fuahahahahahahahahahaha!!!」
+
+52138	-	………………	..............
+
+52139	-	…………	..........
+
+52140	-	……	...
+
+52141	Green Monster Soldier	「…………おい」	「......Hey」
+
+52142	Green Monster Soldier	「おい、起きろ。休憩、終わりだ」	「Hey, wake up. Break time's over.」
+
+52143	Magic the Gandhi	「……………………っ……ぅぁ……？」	「........................Ugh... ah...?」
+
+52144	-	棒で小突かれて、マジックはうっすらと意識を覚醒させた。	Prodded by a stick, Magic faintly regained consciousness.
+
+52145	Magic the Gandhi~	（あ………………あぁ……わた、し……気絶、して…………）	（Ah.............. Aah... I... fainted......）
+
+52146	-	狭い、檻の中。	Inside a narrow cage.
+
+52147	-	濁った臭いが、麻痺した嗅覚に刺さる。	A murky stench stabbed at her dulled sense of smell.
+52148	+	わずかに身じろぎすると、秘部や身体のあちこちが痛んだ。	A slight movement sent pain through her private parts and all over her body.
+
+52149	Green Monster Soldier	「さーて、次で今日は……えーと、何人目だ？」	「Alright, next one for today... let's see, how many is this?」
+
+52150	汎用男性／基本	「……17人目、です……」	「...The 17th...」
+
+52151	-	上機嫌な魔物兵の隣で、下僕のように扱われている男が、	Next to the cheerful monster soldier, a man treated like a servant
+52152	+	陰鬱な視線を手元の書類に落とす。	dropped his gloomy gaze to the document in his hands.
+
+52153	Green Monster Soldier	「おお、いいペースだな。	「Oh, good pace.
+52154	+	　どれ、見せろ……うはっ、こいつもすごいな」	　Let me see... whoa, this one's amazing too.」
+
+52155	Magic the Gandhi	「………………………………」	「........................」
+
+52156	-	晒した秘部から、どろりとした汚濁が流れ落ちる。	Thick, filthy fluid dripped from her exposed pussy.
+52157	+	愉しそうに嘲る魔物兵にも、マジックは表情が動かない。	Even as the monster soldiers mocked her with glee, Magic's face remained expressionless.
+
+52158	Green Monster Soldier	「名前はオナガくん。おっ、知能テストＦランクか。	「His name is Onaga. Oh, intelligence test F rank.
+52159	+	　存在したんだな、Ｆランクなんて。わははははは！」	　So F ranks really exist. Wahahahaha!」
+
+52160	Green Monster Soldier	「魔法力も皆無。不器用、肉体労働もダメ……	「No magic power at all. Clumsy, useless for physical labor...
+52161	+	　ぶわっぁははは、何ならできるんだこいつ」	　Bwahahaha, what the hell can this guy even do?」
+
+52162	Green Monster Soldier	「クズなら間引けばいいものを、親が養ってたのか。	「Trash like this should have been culled, yet his parents raised him.
+52163	+	　ゴミだなぁ人間は……うは、ツラもひどい」	　Humans really are garbage... uha, and his face is ugly too.」
+
+52164	Green Monster Soldier	「今度こそ孕むかもなあ。	「Maybe this time she'll get pregnant.
+52165	+	　おい、お前に種付けしてくれる雄だぞ？　どうだ？」	　Hey, this male's gonna breed you. How's that?」
+
+52166	Green Monster Soldier	「ドロッドロの黄ばんだ精液を、	「Thick, yellow, sticky cum
+52167	+	　お前の薄汚れたそこに何度も何度もぶち込むんだ」	　will be pumped deep into your filthy cunt over and over.」
+
+52168	Green Monster Soldier	「ひひ。また、ぶたみたいな悲鳴、期待してるぜ？」	「Hehe. Looking forward to hearing you squeal like a pig again?」
+
+52169	Magic the Gandhi	「………………黙り、なさい……っ……雑音……」	「............Shut... up... noise...」
+
+52170	Green Monster Soldier	「くくく。よしよし、まだ元気だな。	「Kukuku. Good good, still got some spirit.
+52171	+	　よーし、いいぞー、連れてこい」	　Alright, bring him in.」
+
+52172	-	部屋の中に、新たな悪臭が立ちこめる。	A new foul stench filled the room.
+
+52173	汎用男性／基本	「はぁ、はあ……っ、ふうっ、はぁはぁはぁ……」	「Haa, haa... fuu, haa haa haa...」
+
+52174	-	でっぷりと肥え、髪も髭も伸び放題の裸の男が、	A naked man, grossly fat with unkempt hair and beard,
+52175	+	魔物兵に連れられていた。	was led in by the monster soldiers.
+
+52176	Magic the Gandhi	「………………ぅ、ぁ……」	「............U, ah...」
+
+52177	Green Monster Soldier	「お前の汚いガバマンに突っ込んでくれる、	「This nice guy is gonna shove it into your dirty loose cunt.
+52178	+	　優しい男だぞ？　ほら、もっと嬉しそうにしろ」	　Look happier about it.」
+
+52179	Magic the Gandhi	「っ………………」	「......」
+
+52180	-	棒で顎を持ち上げられて、	Her chin was lifted by a stick,
+52181	+	虚ろな瞳が強制的に前を見させられる。	forcing her empty eyes forward.
+
+52182	汎用男性／基本	「はぁっ、はふ、は…………	「Haa, hafu, ha......
+52183	+	　お……ひめ、さまだぁ……おひめさま……」	　P... princess... princess...」
+
+52184	Magic the Gandhi	「っ、く……………」	「Kuh......」
+
+52185	-	連れてこられた男は、周囲の状況が分かっているのかいないのか、	Whether he understood the situation or not,
+52186	+	獣のようにぎらついた目で、マジックの汚れた裸身を眺める。	the man stared at Magic's dirty naked body with beastly, gleaming eyes.
+
+52187	-	それ自身が異臭を放つペニスが、	His own foul-smelling penis
+52188	+	マジックの目の前でむくむくと大きくなる。	swelled hugely right before her eyes.
+
+52189	Green Monster Soldier	「おっ、やる気満々だな？　よしよし。	「Oh, he's raring to go? Good good.
+52190	+	　じゃあ――――」	　Then――――」
+
+52191	Blue Monster Soldier	「おーい、待った待った」	「Hey, wait wait.」
+
+52192	Green Monster Soldier	「ん？」	「Hm?」
+
+52193	-	書類を片手に、新たにやってきた魔物兵が、	A new monster soldier holding documents stopped his colleague.
+52194	+	同僚を制止した。	
+
+52195	Blue Monster Soldier	「出たよ、検査結果。そいつ、もう種付け成功してたわ」	「Results are in. This one's already been successfully bred.」
+
+52196	Magic the Gandhi	「………………………………え」	「........................Eh」
+
+52197	汎用男性／基本	「……………………」	「........................」
+
+52198	Green Monster Soldier	「おっ、マジで？　どの種だよ？」	「Oh, for real? Whose seed?」
+
+52199	Blue Monster Soldier	「分かるわけねぇだろ。間違いないのは、	「No way to tell. What we know for sure is
+52200	+	　とびっきりの愚かでクズな男だってことくらいだ」	　it's an exceptionally stupid and worthless man.」
+
+52201	Green Monster Soldier	「そりゃそうだ。どいつもそんなんばっかじゃねえか」	「Yeah, that's true. They're all like that anyway.」
+
+52202	Magic the Gandhi	「え………………ぁ……うそ、う、そ…………っ……」	「Eh.............. Ah... lie, i, it's a lie......」
+
+52203	Green Monster Soldier	「よかったなぁ、おめでただぞ、おめでた！	「Congratulations! It's a celebration!
+52204	+	　新たな命の誕生に乾杯だ！」	　Cheers to the birth of new life!」
+
+52205	汎用男性／基本	「っ…………く、ぅ…………！　姫、様……っ……」	「......Kuh......! Princess......」
+
+52206	Magic the Gandhi	「あ……………あ……あ、ああぁっ……」	「Ah............ Ah... A, aaaaah......」
+
+52207	-	陵辱の日々よりも、重く。	Heavier than the days of repeated rape.
+52208	+	のしかかるような絶望が、マジックを絡め取っていた。	Crushing despair wrapped around Magic.
+
+52209	Magic the Gandhi	「い…………や、いや、いや、いやああああぁぁぁ！！」	「N......o, no, no, noooooooo!!!」
+
+52210	-	マジックがめちゃくちゃに暴れ狂う。	Magic thrashed wildly.
+52211	+	それでも手枷も足枷も、軋む事さえない。	Yet her handcuffs and shackles didn't even creak.
+
+52212	Green Monster Soldier	「おっと、身体は大切にしろよ、お前一人のものじゃないんだ！	「Whoa, take care of that body! It's not yours alone!
+52213	+	　わはははははははははは！！」	　Wahahahahahahahaha!!」
+
+52214	Blue Monster Soldier	「お前のガキも、クズみたいな奴と交配させてやる。	「We'll breed your kid with trash too.
+52215	+	　次も、その次もだ！」	　And the next one, and the one after that!」
+
+52216	Blue Monster Soldier	「お前達の血脈、全部クズの血で塗り変えてやる。	「We'll overwrite your entire bloodline with trash blood.
+52217	+	　我らに逆らう能もない、愚かな王の血統にな！」	　Turning you into a foolish royal line that can't even resist us!」
+
+52218	Green Monster Soldier	「しかし、となるとオナガ君はもう要らんな……」	「But then we don't need Onaga anymore...」
+
+52219	汎用男性／基本	「っ、う、うおおおおおおおおおおおっ！」	「U, u, uooooooooh!」
+
+52220	Magic the Gandhi	「きゃっ、え、なにッ…………！」	「Kyaa, eh, what......!」
+
+52221	-	連れてこられた男が、突如としてマジックに襲いかかる。	The brought man suddenly attacked Magic.
+
+52222	汎用男性／基本	「おひめさま……おひめさま、おひめさま……！	「Princess... princess, princess...!
+52223	+	　お、おおおお、おらの、おひめさま……！」	　M, my, my princess...!」
+
+52224	Magic the Gandhi	「っ、あ、やだ、やめっ……！　離し、なさいっ……！」	「Ah, no, stop...! Let go...!」
+
+52225	-	マジックは力なく抵抗するが、男は意にも介さずに、	Magic resisted weakly, but the man paid no attention
+52226	+	その精液で汚れた身体を舐め回す。	and licked all over her cum-stained body.
+
+52227	Blue Monster Soldier	「おいおい、いっちゃったよ。ははは」	「Hey hey, he came already. Hahaha」
+
+52228	Green Monster Soldier	「アレで流れたりしないだろうな？」	「That won't wash it out, right?」
+
+52229	Blue Monster Soldier	「ま……それならそれで、また仕込めばいいさ」	「Well... if it does, we'll just breed her again.」
+
+52230	-	猛りきった陰茎が、マジックの秘所にねじり込まれる。	His raging cock was forced into Magic's pussy.
+
+52231	汎用男性／基本	「うおおおおおおおおおおおおお！！！」	「Uoooooooooooooh!!!」
+
+52232	Magic the Gandhi	「やだ……ひっ、くぅっ、もう、いやあああぁぁぁぁっ！！」	「No... Hii, kuh, no more, noooooooo!!」
+
+52233	-	ゼスは、滅亡した。	Zeth was destroyed.

@@ -1,0 +1,103 @@
+# 30636	ペスポ／キャライベントＢ	
+* Pespo Tontone	ペスポ	Male
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Pluepet	プルーペット	Male
+
+20059	Pespo Tontone	「うおおおぉっ、とっとっと……！」	「Whoa-oa, whoops-a-daisy...!」
+
+20060	Rance	「……なんか、外が騒がしくないか？」	「...Is it just me, or is it noisy outside?」
+
+20061	Sill Plain	「そうですねぇ。	「You're right.
+20062	+	　運動会でもしてるんでしょうか？」	Maybe they're having a sports festival or something?」
+
+20063	Rance	「またガキどもが走り回ってるんじゃ……」	「Probably just those brats running around again...」
+
+20064	Pespo Tontone	「ぶっはーーーーー！」	「Bwah-ha-ha-ha!」
+
+20065	Rance	「がっ……なんだなんだ！」	「Gah... What, what is it!」
+
+20066	Sill Plain	「ペスポさん？」	「Mr. Pespo?」
+
+20067	Pespo Tontone	「おおう総統さん！　ああ、お前さんの部屋か！	「Whoa, Supreme Leader! Oh, this is your room!
+20068	+	　ちょいと匿ってくれ！」	Give me a place to hide for a bit!」
+
+20069	Rance	「あっ、こら！　なんだおっさん！	「Ah, hey! What the hell, old man!
+20070	+	　勝手に人のベッドの下に潜るんじゃない！」	Don't just crawl under someone's bed without asking!」
+
+20071	Pluepet	「ごめんやっしゃー……おや総統はん」	「Pardon the intrusion... Oh, it's the Supreme Leader.」
+
+20072	Sill Plain	「あ、プルーペットさん」	「Ah, Mr. Pluepet.」
+
+20073	Pluepet	「どうもどうも。	「Hello, hello.
+20074	+	　ペスポはん、ここに来ましたやろか？」	Would Mr. Pespo happen to have come here?」
+
+20075	Sill Plain	「あ、ええと…………来てない、ですよ？」	「Ah, um... he hasn't come here, you know?」
+
+20076	Pluepet	「なんと。入る所見たんでっけど……	「Is that so? I could've sworn I saw him enter...
+20077	+	　ワテの見間違いですやろか？」	Could I have been mistaken?」
+
+20078	Sill Plain	「うっ…………」	「Ugh...」
+
+20079	Pluepet	「…………まあよろしいわ。	「...Well, very well.
+20080	+	　ここでバタバタするわけにもいかんし、	I can't exactly go causing a fuss in here, so
+20081	+	　失礼します」	I'll be taking my leave.」
+
+20082	-	最後に部屋の中を一瞥してから、	After one final glance around the room,
+20083	+	プルーペットは去っていった。	Pluepet departed.
+
+20084	Pespo Tontone	「ふー、やれやれ。助かったぜ。	「Phew, good grief. That was a lifesaver.
+20085	+	　ありゃあ、タチの悪い金貸しでなあ」	That guy's a nasty moneylender, you see.」
+
+20086	Rance	「まあ知ってる。	「Yeah, I know.
+20087	+	　……ははあ、お前、あいつから借金してるのか」	...Aha, so you owe that guy money?」
+
+20088	Pespo Tontone	「いや、逆だ逆。貸し付けてこようとしてんだ」	「No, it's the opposite. He's trying to force a loan on me.」
+
+20089	Sill Plain	「え？」	「Eh?」
+
+20090	Pespo Tontone	「向こうからすりゃ、	「From his perspective,
+20091	+	　都市長ってのは美味しい相手なんだろなあ。	a Mayor must be a pretty lucrative target.
+20092	+	　あ、タハコ吸っていいか」	Oh, can I have a smoke?」
+
+20093	Rance	「ダメだ。	「No.
+20094	+	　……それなら借りればいいだろ。	...Then why don't you just borrow from him?
+20095	+	　金がないとかヒーヒー言ってたんだから」	You were whining about being broke.」
+
+20096	Pespo Tontone	「あー、ダメダメ。あのタイプはまずい。	「Ah, no way. That type's bad news.
+20097	+	　証文さえあれば、	As long as they have a contract,
+20098	+	　非合法な事も平気でねじ込むタイプだ」	they're the type to push illegal demands without a second thought.」
+
+20099	Pespo Tontone	「もっとこう、こっちの話をついつい聞いちゃって、	「It's gotta be the type that'll accidentally listen to my side of the story
+20100	+	　ずるずるっといくタイプじゃないと」	and let things slide.」
+
+20101	Rance	「……借りる相手を選り好みしてんのか」	「...So you're being picky about who you borrow from?」
+
+20102	Pespo Tontone	「じゃなきゃ借金生活なんて出来ねぇさ」	「Otherwise, you couldn't make a living out of being in debt.」
+
+20103	Rance	「威張れることか」	「Is that something to be proud of?」
+
+20104	Pespo Tontone	「女と同じだよ。	「It's the same as with women.
+20105	+	　土下座して拝み倒して、	You get on your knees and beg your heart out,
+20106	+	　許してくれるかどうかを見極めてからやるんだ」	and only go for it once you've judged whether they'll forgive you.」
+
+20107	Sill Plain	「……それは、いかがなものかと……」	「...I'm not so sure about that...」
+
+20108	Pespo Tontone	「別れた嫁の一人が金融業者でな。	「One of my ex-wives is a financier.
+20109	+	　毎月、子供の顔見るついでに土下座してる」	Every month, I grovel when I go to see my kid's face.」
+
+20110	Rance	「ダメ人間か、このおっさん……」	「Is this old man a total loser...?」
+
+20111	Pespo Tontone	「人生の先達としてな。	「As your elder in life.
+20112	+	　総統もひとつ転がれば借金しまくりそうだし、	The Supreme Leader looks like he'd rack up massive debt if things went south,
+20113	+	　これは忠告だぜ」	so take this as a warning.」
+
+20114	Rance	「余計なお世話だ、貴様！」	「Mind your own business, you bastard!」
+
+20115	Pespo Tontone	「はぁっはっは！　大丈夫だって。	「Ha-ha-ha! You'll be fine.
+20116	+	　総統さんなら借金担いでも強く生きていける」	A Supreme Leader like you could live strong even with a mountain of debt.」
+
+20117	Pespo Tontone	「ところで……物は相談なんだが。	「By the way... I have a request.
+20118	+	　金貸してくんない？」	Could you lend me some money?」
+
+20119	Rance	「帰れ！」	「Get out!」

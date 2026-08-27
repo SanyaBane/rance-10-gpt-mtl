@@ -1,0 +1,118 @@
+# 32346	２２０／３／捕虜のアナセル	
+* Monster General	汎用魔物将軍	Male
+* Monster Captain	汎用魔物隊長	Male
+* Anasel Caspora	アナセル	Female
+* Green Monster Soldier	汎用魔物兵緑	Male
+
+143190	-	ランス達がツングース高地を進んでいた頃――	While Rance and the others were advancing through the Tungus Highlands一一
+
+143191	-	魔軍、バボラ部隊陣地――	Monster Army, Babolat Unit Camp一一
+
+143192	-	魔物将軍が陣地の見回りをしていた。	A Monster General was patrolling the camp.
+
+143193	Monster General	「何度見てもこの一角は壮観だな……」	「No matter how many times I see it, this area is spectacular...」
+
+143194	-	魔物将軍が巨大な寸胴が	The Monster General sighed while looking at
+143195	+	大量に並んだ一帯を見て嘆息した。	the rows of giant cauldrons.
+
+143196	-	巨大な寸胴の前には奴隷にされた人間が	In front of the giant cauldrons, enslaved humans
+143197	+	最低でも一人つき、	stood at least one per pot,
+143198	+	その全員が何かを煮込んでいた。	all of them stirring something.
+
+143199	-	作っているものはバボラの食事である。	They were making Babolat’s meal.
+
+143200	Monster Captain	「人間を奴隷として捕らえ、雑用させるという	「The strategy of capturing humans as slaves
+143201	+	　魔物将軍様の作戦は見事大当たりですね」	　and making them do chores has been a huge success.」
+
+143202	Monster General	「うむ、我らでバボラ様のお世話をしてもいいが、	「Yes, we could serve Lord Babolat ourselves,
+143203	+	　あまりに人数が割かれすぎるからな。	　but it would take too many of us.
+143204	+	　それなら人間にさせれば良かったのだ」	　So having humans do it is better.」
+
+143205	Monster General	「む、そこのお前、何をしている」	「Hm, you there, what are you doing?」
+
+143206	汎用女性／基本	「ひえっ！？	「Hiee!?」
+143207	+	　な、なにをと言われましても……	　W-what do you mean...
+143208	+	　ニンジンをみじん切りに……」	　I’m mincing carrots...」
+
+143209	Monster General	「そんなことはせんでいい。	「No need for that.
+143210	+	　これは全てバボラ様の食事なのだぞ。	　This is all for Lord Babolat’s meal.
+143211	+	　サイズを考えろ、そのまま鍋に放り込め」	　Think about the size, just throw it in the pot whole.」
+
+143212	汎用女性／基本	「は、はい！」	「Y-yes!」
+
+143213	Monster Captain	「それにしても、	「Still,
+143214	+	　食事に関してはいつも大仕事ですな」	　preparing meals is always a huge task.」
+
+143215	Monster General	「うむ、なにせバボラ様のあのサイズだ。	「Yes, after all Lord Babolat is that huge.
+143216	+	　作っても作っても到底足りん」	　No matter how much we make, it’s never enough.」
+
+143217	Monster General	「正直、味だなんだと言ってられん。	「Honestly, we can’t worry about taste.
+143218	+	　とにかく量を作らせろ、量を」	　Just make quantity, lots of it.」
+
+143219	Monster Captain	「はっ」	「Yes!」
+
+143220	Monster Captain	「聞いていたなお前ら！　量を作れ量を！」	「You heard him! Make lots, make quantity!」
+
+143221	汎用男性／基本	「は、はいっ！」	「Y-yes!」
+
+143222	-	何列にも並んだ大量の奴隷が	The many rows of slaves
+143223	+	一斉に返事をした。	answered all at once.
+
+143224	Anasel Caspora	「くうっ……！」	「Kuu...!」
+
+143225	Anasel Caspora	「なんだって！　私が！　こんな！　目に！」	「Why! Me! In this! Situation!」
+
+143226	-	奴隷集団の中に、アナセルがいた。	Anasel was among the group of slaves.
+
+143227	-	アナセルは巨大なしゃもじで	Anasel was roughly stirring inside
+143228	+	巨大な寸胴の中を乱暴にかき混ぜていた。	a giant cauldron with a huge ladle.
+
+143229	汎用女性／基本	「ほれ、お嬢ちゃん頑張りな。	「Come on, young lady, work hard.
+143230	+	　そろそろ夕食の時間だ、	　It’s almost dinner time,
+143231	+	　間に合わないと怒られるよ」	　we’ll get scolded if we’re late.」
+
+143232	-	隣で寸胴をかき混ぜていた	The senior slave aunt stirring the cauldron next to her
+143233	+	先輩奴隷であるおばさんがアナセルをはげます。	encouraged Anasel.
+
+143234	Anasel Caspora	「うう、両腕がパンパン……	「Ugh, my arms are so sore...
+143235	+	　食事係なら楽かと思ったのに、	　I thought being on meal duty would be easy,
+143236	+	　まさかこんな大量にだなんて……」	　but this much...」
+
+143237	-	元々はヘルマン貴族のお嬢様であるアナセルには、	For Anasel, formerly a noble young lady of Helman,
+143238	+	到底耐えられない環境であった。	this environment was unbearable.
+
+143239	汎用女性／基本	「なに言ってんだい、	「What are you saying,
+143240	+	　掃除係じゃないだけマシだろう」	　it’s better than cleaning duty.」
+
+143241	Anasel Caspora	「う……確かにあっちは地獄ね……」	「Ugh... yeah, that really is hell...」
+
+143242	-	掃除係とはつまり、	Cleaning duty meant
+143243	+	バボラの出した排泄物の処理係である。	dealing with Babolat’s waste.
+
+143244	-	その筆舌に尽くしがたい悲惨さ、壮絶さは、	The indescribable misery and horror of it
+143245	+	アナセルも何度か目にしたことがあった。	was something Anasel had witnessed several times.
+
+143246	汎用女性／基本	「サボる奴はあっちに回されるって噂だ。	「They say slackers get sent to cleaning duty.
+143247	+	　お嬢ちゃんも真面目にやりなよ」	　Work hard, young lady.」
+
+143248	Anasel Caspora	「わ、分かってるわよぉ……」	「I-I know...」
+
+143249	Monster General	「ふむ、皆真面目に働いているようだな……」	「Hmm, everyone seems to be working seriously...」
+
+143250	Green Monster Soldier	「魔物将軍様、バボラ様の本日の作戦が完了！	「Monster General, Lord Babolat’s mission for today is complete!
+143251	+	　ただいま、ご帰還されるとのことです！」	　He is returning now!」
+
+143252	Monster General	「うむ、こちらからもお姿が見える」	「Yes, I can see him from here.」
+
+143253	Monster General	「おい、奴隷達を死ぬ気で働かせろ。	「Hey, make the slaves work like their lives depend on it.
+143254	+	　バボラ様はご帰還次第、	　As soon as Lord Babolat returns,
+143255	+	　すぐに夕食を求められるぞ！」	　he’ll demand dinner immediately!」
+
+143256	Monster Captain	「はっ！」	「Yes!」
+
+143257	Monster Captain	「聞いていたなお前ら！　死ぬ気で働けェ！」	「You heard him! Work like you’ll die if you don’t!」
+
+143258	Anasel Caspora~	（あーっ、もーっ！）	（Aah, geez!）
+
+143259	-	アナセルは巨大な寸胴に野菜をそのまま	Anasel threw whole vegetables
+143260	+	ボチャボチャと投げ込んだ。	into the giant cauldron with a splash.

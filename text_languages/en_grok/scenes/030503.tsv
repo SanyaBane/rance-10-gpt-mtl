@@ -1,0 +1,158 @@
+# 30503	千鶴子／キャライベントＢ	
+* Zeth Mage Soldier	汎用ゼス女魔法兵	Female
+* Yamada Chizuko	千鶴子	Female
+* Rance	ランス	Male
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Anise Sawatari	アニス	Female
+
+11401	-	魔法の国、ゼス――――	The magical nation, Zeth――――
+
+11402	Zeth Mage Soldier	「――――づこ、様……？」	「......Chizuko-sama......?」
+
+11403	Zeth Mage Soldier	「千鶴子様？」	「Chizuko-sama?」
+
+11404	Yamada Chizuko	「あ、あぁ……ごめんなさい。	「Ah, yes...... Sorry.
+11405	+	　ええと、東方鎮圧の話だっけ？」	　Um, we were talking about suppressing the east, right?」
+
+11406	Zeth Mage Soldier	「それは既に指示を終えています。	「We already finished those instructions.
+11407	+	　ヘルマンに出向中の部隊からの報告書に	　We need confirmation on the report
+11408	+	　確認が欲しいのですが……」	　from the unit dispatched to Helman......」
+
+11409	Yamada Chizuko	「ごめんなさい。すぐにやるわ。	「Sorry. I'll do it right away.
+11410	+	　危ない……少し落ちてたわ」	　That was close...... I was spacing out a bit.」
+
+11411	Zeth Mage Soldier	「千鶴子様……もう、今日はお休みください。	「Chizuko-sama...... Please rest for today.
+11412	+	　かなりお疲れのようですし……」	　You look very tired......」
+
+11413	Yamada Chizuko	「っ、そんなことは…………」	「Th-that's not......」
+
+11414	-	言いさして、千鶴子は	Chizuko stopped mid-sentence
+11415	+	心配そうな部下の表情に気づいた。	when she noticed her subordinate's worried face.
+
+11416	Yamada Chizuko	「……そう、ね……ミスできない仕事ばかりだし。	「......You're right...... I can't afford mistakes.
+11417	+	　これに判子を押したら、そうさせてもらうわ」	　Once I stamp this, I'll take a break.」
+
+11418	Zeth Mage Soldier	「はいっ。ゆっくりお休みください」	「Yes. Please rest well.」
+
+11419	Yamada Chizuko	「仮眠程度だけどね」	「Just a short nap though.」
+
+11420	-	既に時刻は、夜明けまで数時間という頃合いだった。	It was already only a few hours until dawn.
+11421	+	互いに苦笑して、千鶴子は最後の書類に掛かった。	Smiling wryly at each other, Chizuko started on the last document.
+
+11422	Yamada Chizuko	「はあ……それにしても……いけないわ。	「Haa...... Still...... this is bad.
+11423	+	　部下に、心配されるなんて……」	　Worrying my subordinates like this......」
+
+11424	-	かつてのカミーラダークを遙かに上回る、危機。	A crisis far greater than the old Camilla Dark.
+
+11425	-	それに立ち向かう者たちをまとめる立場にかかる	The fatigue and stress of leading those who face it
+11426	+	疲労やストレスは、尋常ではない。	is beyond normal levels.
+
+11427	Yamada Chizuko	「上手く、自分をコントロールできなきゃ……	「If I can't control myself properly......
+11428	+	　能率も悪いし、正しい判断も……」	　my efficiency drops and my judgment suffers......」
+
+11429	Yamada Chizuko	「よし……今日の残りの時間は……	「Alright...... For the rest of today......
+11430	+	　楽な格好でくつろいで、ストレスを散らしましょ」	　I'll relax in comfortable clothes and relieve some stress.」
+
+11431	-	うん、と小さく頷いて、	She gave a small nod,
+11432	+	千鶴子は頭から仕事の悩みを追い出しに掛かった。	and began clearing work worries from her mind.
+
+11433	-	…………	............
+
+11434	-	……	......
+
+11435	Rance	「ふっふーん。侵入完了」	「Fufuun. Infiltration complete.」
+
+11436	-	ランスは、ゼスの拠点までやって来ていた。	Rance had arrived at Zeth's base.
+
+11437	Rance	「フラッとこちらにやってきたが……この土地では、	「I came here on a whim...... but in this land,
+11438	+	　この土地でしか食えない物を食うべきだな」	　I should eat what can only be eaten here.」
+
+11439	Rance	「ということで……	「Which means......
+11440	+	　今夜は千鶴子をもう一回狙ってみよう。	　Tonight I'll go after Chizuko again.
+11441	+	　不慣れだったし、強めに迫れば意外といけそうだ」	　She was inexperienced last time. If I push harder, it might work.」
+
+11442	Rance	「さて、千鶴子の部屋は、と……」	「Now, where's Chizuko's room......」
+
+11443	Rance	「あ。おいお前。千鶴子の部屋はどこだ」	「Ah. Hey you. Where's Chizuko's room?」
+
+11444	Zeth Mage Soldier	「はあ？　誰……と、わわ、総統閣下……！？」	「Huh? Who...... W-wait, Supreme Leader......!?」
+
+11445	Rance	「極秘の会談があるのだ。	「There's a top-secret meeting.
+11446	+	　千鶴子の部屋はどこだ」	　Where is Chizuko's room?」
+
+11447	Zeth Mage Soldier	「え、ええと、あちらの角を左で……」	「U-um, turn left at that corner......」
+
+11448	Rance	「うむよし分かった。	「Got it.
+11449	+	　あ、俺が来たことはなるべく言うなよ」	　Ah, and try not to mention I was here.」
+
+11450	Zeth Mage Soldier	「は、はあ……」	「Y-yes......」
+
+11451	-	首を傾げる見張りを放っておいて、	Leaving the confused guard behind,
+11452	+	ランスは千鶴子の部屋へと向かった。	Rance headed for Chizuko's room.
+
+11453	Rance	「ぐふふ、ここか……よし、いきなりバーンといく。	「Gufufu, this is it...... Alright, straight in with a bang.
+11454	+	　魔法を使われると面倒だからな」	　Magic would be a pain.」
+
+11455	-	音を立てずに、ドアノブに手を掛ける。	He silently grabbed the doorknob.
+
+11456	Rance	「がーはははは！　千鶴子！	「Gahahaha! Chizuko!
+11457	+	　グッドイブニン…………」	　Good evenin'......」
+
+11458	Yamada Chizuko	「え！？」	「Eh!?」
+
+11459	Rance	「ぐわああああああああ！？」	「Gwaaaaaaaaah!?」
+
+11460	-	ランスは千鶴子の服から発せられる光に、	Rance was blinded by the intense light
+11461	+	目をやられた。	emitted from Chizuko's clothes.
+
+11462	Yamada Chizuko	「そ、その声は……総統！？」	「T-that voice...... Supreme Leader!?」
+
+11463	Rance	「まぶ、まぶ、しいっ……おま、おまえっ……！」	「B-bright...... So bright...... You......!」
+
+11464	Yamada Chizuko	「なっ……なんですか、いきなり……！」	「W-what are you doing, suddenly......!」
+
+11465	Rance	「ぎ、ぎ、ぎんぎらしすぎじゃーーーーーー！！	「T-too gaudyーーーーー!!
+11466	+	　め、目が、開かん……！」	　I can't open my eyes......!」
+
+11467	Anise Sawatari	「はははははは、浅はかですよ総統の人！	「Hahahahaha, how shallow, Supreme Leader!
+11468	+	　千鶴子様の私室に、普通の視覚で入ろうなんて！	　Trying to enter Chizuko-sama's private room with normal vision!
+11469	+	　率直に言って、目が潰れます！」	　Frankly, your eyes will be destroyed!」
+
+11470	Yamada Chizuko	「あっ、アニス！？　あんた、いつから部屋に！？」	「Ah, Anise!? When did you get in my room!?」
+
+11471	Anise Sawatari	「あっ、アニスは大丈夫ですよ千鶴子様！	「Ah, I'm fine, Chizuko-sama!
+11472	+	　サングラスの魔法を開発してますから！」	　I've developed magic sunglasses!」
+
+11473	Rance	「くそ、こうなれば目を閉じたまま……！	「Damn it, I'll just close my eyes......!
+11474	+	　女体はどこじゃーーーー！」	　Where's the woman's bodyーーー!」
+
+11475	Yamada Chizuko	「ええい、まとめて出て行きなさいーーーー！！」	「Enough, both of you get out right nowーーー!!」
+
+11476	-	ランスはアニス共々、	Rance and Anise were both
+11477	+	千鶴子の部屋から追い出された。	blasted out of Chizuko's room.
+
+11478	Rance	「いつつ……そういえばそうだった……油断した……	「Ouch...... Right, I forgot...... My bad......
+11479	+	　すごい服だった……たぶん……」	　That outfit was insane...... probably......」
+
+11480	Anise Sawatari	「はっはっは、愚かな。	「Hahaha, how foolish.
+11481	+	　千鶴子様のプライベートルームと言えば、	　When entering Chizuko-sama's private room,
+11482	+	　目は利かないものと割り切るのが――」	　you must accept that your eyes won't work――
+
+11483	Rance	「しょーがない。お前でいいか」	「No helping it. You'll do.」
+
+11484	Anise Sawatari	「にゃっ！？」	「Nya!?」
+
+11485	-	ランスはひょいっと、アニスを荷物のように抱えた。	Rance casually picked Anise up like luggage.
+
+11486	Anise Sawatari	「あ、あ、あわわわわ！！	「A-a-awawawa!!
+11487	+	　ま、また痛い怖い目に遭わせようとしてますね！」	　You're going to do painful scary things to me again!」
+
+11488	Rance	「前に使ったゴブリン、どうしたっけかなーっと」	「I wonder what happened to that goblin I used before~」
+
+11489	Anise Sawatari	「にゃぎゃーーーー！！　離してくださいーーー！」	「Nyagyaaaa!! Let me goーーー!」
+
+11490	Yamada Chizuko	「まったく……騒がしいったら。	「Good grief...... So noisy.
+11491	+	　もう少し、静かにできないものかしら……」	　Can't they be a little quieter......」
+
+11492	-	趣味でデザインした部屋着に光を乱反射させながら、	While her custom-designed loungewear reflected light brilliantly,
+11493	+	千鶴子は優雅にくつろいでいた。	Chizuko relaxed elegantly.

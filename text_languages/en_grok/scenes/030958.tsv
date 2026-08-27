@@ -1,0 +1,283 @@
+# 30958	２３０／５／拒否して戦う	
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Rance	ランス	Male
+* Saias Crown	サイアス	Male
+* Uspira Shintou	ウスピラ	Female
+* Galtia	ガルティア	Male
+* Zeth Mage Soldier	汎用ゼス女魔法兵	Female
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Miracle Tor	ミラクル	Female
+* Oda Kouhime	香姫	Female
+* Monster Captain	汎用魔物隊長	Male
+* Monster General	汎用魔物将軍	Male
+* Chaos	カオス	Male
+
+42884	Green Monster Soldier	「さあ、どうする！	「Well, what will it be!
+42885	+	　矮小な猿どもめが、ご厚情に縋りついて、	　You puny monkeys, clinging to our mercy,
+42886	+	　ガルティア様をいつまでお待たせするつもりだ！」	　how long do you plan to keep Lord Galtia waiting!」
+
+42887	Rance	「やかましい、この雑魚が！	「Shut up, you small fry!
+42888	+	　答えは決まっとるわーーーーー！」	　The answer is already decided!」
+
+42889	Green Monster Soldier	「あんぎゃーーーーーー！！」	「Angyaaaa!!」
+
+42890	-	駆けこんだランスが、	Rance charged in,
+42891	+	一刀のもとに、魔物兵を叩き斬った。	and cut down the monster soldier with one slash.
+
+42892	Saias Crown	「派手にやったな、ボーヤ」	「You made a flashy entrance, boy.」
+
+42893	Rance	「魔物どもに屈服するなんぞ性に合わん。	「Surrendering to monsters isn't my style.
+42894	+	　叩き潰すぞ」	　We'll crush them.」
+
+42895	Saias Crown	「ああ、いいぜ。	「Yeah, good.
+42896	+	　ガルティアまでの道は作ってやる。	　I'll clear a path to Galtia.
+42897	+	　総員、戦闘準備！」	　Everyone, prepare for battle!」
+
+42898	Uspira Shintou	「ウォール・ガイ部隊、展開して！	「Wall Guy units, deploy!
+42899	+	　ここで決戦とします！」	　This will be the decisive battle!」
+
+42900	Galtia	「おっ……向こう、やる気だぞ。	「Oh... They're motivated.
+42901	+	　野郎ども、腹ごなしだ。	　Boys, time for after-meal exercise.
+42902	+	　チャッと片付けて、メシを美味しく食うぞ！」	　Clean them up quick and we'll eat deliciously!」
+
+42903	-	15万のガルティア軍が、	The 150,000 strong Galtia army,
+42904	+	ゼス陣中の様子を悟り、殺到してくる。	sensing the mood in the Zeth camp, charged forward.
+
+42905	-	ニカニカ平原の戦いが始まった。	The battle of Nikanika Plains began.
+
+42906	Saias Crown	「いくぜ――――業火炎破！」	「Here we go---- Blazing Flame Break!」
+
+42907	Uspira Shintou	「絶対零度！」	「Absolute Zero!」
+
+42908	Green Monster Soldier	「がっ……！」	「Gah...!」
+
+42909	Green Monster Soldier	「ぎゃあああああ！」	「Gyaaaaaaa!」
+
+42910	Zeth Mage Soldier	「炎軍、全軍構え！　狙いは右翼……放て！」	「Flame Army, all units ready! Target the right wing... Fire!」
+
+42911	Zeth Mage Soldier	「氷軍も遅れるな！　左翼に集中砲火！」	「Ice Army, don't fall behind! Concentrated fire on the left wing!」
+
+42912	-	射程距離に入った瞬間、	The moment they entered range,
+42913	+	魔法使い達による斉射が始まった。	the mages began their volley.
+
+42914	-	魔物達は防ぐ手段もなく倒れ、	The monsters fell with no way to defend,
+42915	+	いくらかは応射があるものの、被害は軽微だった。	though some counterattacks came, the damage was minor.
+
+42916	Rance	「なんだ、一方的だな」	「What, it's one-sided.」
+
+42917	Saias Crown	「初手だけはな。さあ、来るぞ」	「Only at the start. Here they come.」
+
+42918	Rance	「ん……」	「Nn...」
+
+42919	-	土煙の向こうからは、仲間の死体など意に介さず、	From beyond the dust cloud, ignoring their comrades' corpses,
+42920	+	突撃してくる魔物兵の姿があった。	monster soldiers charged forward.
+
+42921	Green Monster Soldier	「ラッキイイイイイィィ！	「Luckyyyyy!
+42922	+	　前の邪魔者が死にやがった！」	　The guys in front died!」
+
+42923	Green Monster Soldier	「突撃だ、突撃！　殺しまくるぜええええええ！」	「Charge, charge! Kill them allllll!」
+
+42924	Rance	「……めんどくさい奴らだ」	「...What annoying guys.」
+
+42925	Saias Crown	「まったく同感だね。	「I completely agree.
+42926	+	　魔法使い隊、次弾詠唱に入れ！	　Mage unit, prepare next volley!
+42927	+	　ウォール・ガイを本隊正面に展開！」	　Deploy Wall Guys in front of the main force!」
+
+42928	Uspira Shintou	「右翼は毛利軍、左翼は前衛防衛部隊に止めさせて。	「Right wing stopped by Mouri army, left wing by vanguard defense.
+42929	+	　炎軍第七から第九はそのまま右翼、	　Flame Army 7th to 9th stay on right wing,
+42930	+	　氷軍第四から第六部隊は左翼の援護」	　Ice Army 4th to 6th support the left.」
+
+42931	Saias Crown	「炎軍四から六、氷軍七から十は正面部隊を叩け！	「Flame Army 4th to 6th, Ice Army 7th to 10th strike the center!
+42932	+	　ヒーラー隊、悪いがぶっ倒れるまで	　Healer team, sorry but keep the vanguard up
+42933	+	　前衛隊の面倒頼むぞ！」	　until you collapse!」
+
+42934	-	二人の将軍から指示が飛び、	Orders flew from the two generals,
+42935	+	突進してくる魔軍と、待ち受けるゼス軍が激突した。	and the charging Monster Army clashed with the waiting Zeth forces.
+
+42936	-	莫大な数の魔軍に対し、組織化されたゼス魔法部隊は	Against the massive Monster Army, the organized Zeth mage units
+42937	+	魔法を放つタイミングを合わせ、魔物隊長を撃破し、	timed their spells perfectly, taking down monster captains
+42938	+	戦力を効率的に削っていく。	and efficiently reducing enemy strength.
+
+42939	-	互いに、瞬く間に死者が量産されていくが、	Casualties mounted rapidly on both sides,
+42940	+	軍全体としては、両者とも綻びを見せる兆しは、	but neither army showed signs of breaking yet.
+42941	+	今のところなかった。	
+
+42942	Rance	「ほう。なかなかやるではないか」	「Hmm. Not bad at all.」
+
+42943	Saias Crown	「ああ。ま、いつまで保つか、だが……」	「Yeah. The question is how long it will last...」
+
+42944	Miracle Tor	「どだい、数が違う。初手で勢いを削っている分で、	「The numbers are too different. We're only matching them now
+42945	+	　今は表面上拮抗しているが……」	　because we took the initiative...」
+
+42946	Oda Kouhime	「そうですね。長引くと……	「That's right. If it drags on...
+42947	+	　そのまま、押し潰されてしまうかも……」	　we might get crushed...」
+
+42948	Saias Crown	「その通りですが、まったく無策ってわけでもない。	「That's true, but we aren't completely without a plan.
+42949	+	　問題は…………」	　The problem is......」
+
+42950	-	と、その時。ウスピラの脇に立ったJAPAN忍者が、	At that moment, a JAPAN ninja standing beside Uspira
+42951	+	なにやらウスピラに耳打ちした。	whispered something to her.
+
+42952	Uspira Shintou	「……サイアス。いけるわ」	「...Saias. We can go.」
+
+42953	Saias Crown	「おっ、よしいこうか。出番だぜ、ランス」	「Oh, good. Let's go. Your turn, Rance.」
+
+42954	Rance	「なんだなんだ？」	「What is it?」
+
+42955	Uspira Shintou	「突撃します。準備を」	「We'll charge. Get ready.」
+
+42956	Saias Crown	「言ったろ、	「I told you,
+42957	+	　ガルティアまでの道を作ってやるってな」	　I'd clear a path to Galtia.」
+
+42958	-	戦いは、前衛部隊と魔軍の乱戦に移行していた。	The battle had turned into a chaotic melee between the vanguard and the Monster Army.
+
+42959	Green Monster Soldier	「おおあああああ！」	「Oooooaaa!」
+
+42960	汎用ゼスウォール／基本	「ビリビリー」	「Bzz bzz」
+
+42961	-	ゼス製ガーディアン、ウォールガイが三千基で、	Three thousand Zeth-made Guardians, Wall Guys,
+42962	+	魔軍の突撃に抵抗し続ける。	continued resisting the Monster Army's charge.
+
+42963	Zeth Mage Soldier	「火爆破で敵の攻撃を薙ぎ払え！	「Use Fire Break to sweep away enemy attacks!
+42964	+	　ファイヤーレーザー隊、詠唱済み次第、	　Fire Laser team, as soon as chanting is done,
+42965	+	　徹底的に魔物隊長を狙え！」	　focus on the monster captains!」
+
+42966	-	前衛のガードが敵の攻撃を食い止め、	The vanguard guards blocked enemy attacks,
+42967	+	魔法使いが後衛から魔法で敵の要を崩す。	while mages from the rear broke the enemy's key points with spells.
+42968	+	それが魔法使いの国、ゼスの戦術だった。	That was the tactic of Zeth, the nation of mages.
+
+42969	Monster Captain	「ちっ、私を守れ！　そして人間どもをすり潰せ！」	「Tch, protect me! And crush those humans!」
+
+42970	-	爆音と轟音、怒号と悲鳴が鳴り響き、	Explosions, roars, angry shouts and screams echoed,
+42971	+	そこかしこで人と魔物が殺し、殺されていく。	as humans and monsters killed and were killed everywhere.
+
+42972	Galtia	「粘るじゃねえか。へっ、面白くなってきたな」	「They're holding on. Heh, it's getting fun.」
+
+42973	-	魔軍の陣内で、ガルティアは楽しげに唇を歪めた。	In the Monster Army's formation, Galtia twisted his lips in amusement.
+
+42974	Galtia	「ようし、そろそろ俺も突っ込むぜ。	「Alright, time for me to charge too.
+42975	+	　風穴空けるから、続いて連中の陣をこじ開けろ」	　I'll punch a hole, then follow up and break their formation.」
+
+42976	-	ガルティアの飄々とした戦意に呼応して、	In response to Galtia's carefree fighting spirit,
+42977	+	腹部から覗く使徒たちがざわめく。	the apostles peeking from his abdomen stirred.
+
+42978	Galtia	「……………………」	「........................」
+
+42979	-	……だが、そこでなぜか動きが止まる。	...But for some reason, their movement stopped there.
+
+42980	Monster General	「……ガルティア様？」	「...Lord Galtia?」
+
+42981	Galtia	「やっぱ腹減った。	「I'm hungry after all.
+42982	+	　肉一本食ってからにするか」	　I'll eat one piece of meat first.」
+
+42983	Monster General	「ガルティア様！　その数は一本とは言いません！」	「Lord Galtia! That's not just one!」
+
+42984	Galtia	「堅い事言うな。	「Don't be so stiff.
+42985	+	　この肉、火加減と胡椒を振るタイミングが	　This meat, the timing of the heat and pepper
+42986	+	　絶妙でな、冷めても美味い。……食うか？」	　is perfect, it's good even cold. ...Want some?」
+
+42987	Monster General	「いえ。せっかくですが…………ん？」	「No thank you. But...... hm?」
+
+42988	-	ふと、魔物将軍の聴覚が、騒がしい物音を捉えた。	Suddenly, the Monster General's hearing caught noisy sounds.
+
+42989	Monster General	「……前線は遠いはず……	「...The front line should be far away...
+42990	+	　押し込まれたわけでもあるまいに……？」	　We haven't been pushed back, have we...?」
+
+42991	Galtia	「おっ」	「Oh.」
+
+42992	-	二人の人間の魔法使いが単独で切り込んで来たのを、	Galtia's enhanced vision caught two human mages charging in alone.
+42993	+	ムシに強化させたガルティアの視覚が捉えた。	
+
+42994	-	男女の魔法使いは連携を取って、	The male and female mages worked together,
+42995	+	互い違いに強力な魔法で広範囲を薙ぎ払う事で	alternating powerful wide-area spells
+42996	+	隙を補いながら、身軽に敵陣へと侵入してくる。	to cover each other's gaps as they nimbly invaded the enemy lines.
+
+42997	Galtia	「やる奴がいるなあ。二人で戦う気か？」	「There are some capable ones. Planning to fight as a pair?」
+
+42998	-	男が周囲を炎の魔法で薙ぎ払う。	The man swept the surroundings with flame magic.
+42999	+	強烈な猛火に、魔物兵たちが怯む。	The intense flames made the monster soldiers falter.
+
+43000	Galtia	「…………ん？」	「............Hm?」
+
+43001	-	そして女が、ガルティアのいる方角へ、	Then the woman turned exactly toward where Galtia was,
+43002	+	正確に正対して手をかざす。	facing him directly and raising her hand.
+
+43003	Uspira Shintou	「スノー……レーザー！！」	「Snow... Laser!!」
+
+43004	Galtia	「おっ……」	「Oh...」
+
+43005	-	一直線に、冷気の帯が地面を抉り、	A straight beam of freezing air tore through the ground,
+43006	+	ガルティアの足先まで伸びる。	reaching all the way to Galtia's feet.
+
+43007	-	その通り道にいた魔物達が貫かれて凍てつき、	The monsters in its path were pierced and frozen solid,
+43008	+	倒れていく。	and collapsed one after another.
+
+43009	Monster General	「お、うおおぉっ！？　あ、あそこか！	「O-Whoa!? T-There! 
+43010	+	　魔法使いが、こんな所まで……殺せ！」	　A mage all the way out here... Kill them!」
+
+43011	-	言われるより早く、魔物兵たちが二人の人間に	Before the order was even finished, monster soldiers rushed the two humans,
+43012	+	殺到するが……その直前、男の詠唱が終わった。	but right before they reached them, the man's chant finished.
+
+43013	Saias Crown	「さあ…………	「Now............
+43014	?	喰らえ、ゼットン！！」	Take this, Zetton!!」
+
+43015	-	スノーレーザーが撃ち込まれ、凍てついた道筋に、	The Snow Laser struck the frozen path,
+43016	+	正確に極大の火球が叩き込まれた。	and a massive fireball slammed into it with perfect accuracy.
+
+43017	Monster General	「お、おおおっ！？」	「O-Oooooh!?」
+
+43018	-	冷えきった空間に熱の塊が直撃し、	A mass of heat smashed into the freezing space,
+43019	+	周囲一面に霧のように濃い水蒸気が充満した。	filling the entire area with thick steam like heavy fog.
+
+43020	Green Monster Soldier	「うぉっ！？　み、見えねえ！　この辺か？」	「Whoa!? I-I can't see! Is it around here?」
+
+43021	Green Monster Soldier	「いてぇっ！　やめろてめえ、なにしやがる！」	「Ow! Stop it, you idiot! What the hell are you doing!」
+
+43022	-	視界を奪われ、密集していた魔物兵に混乱が生じた。	With their vision stolen, chaos spread among the tightly packed monster soldiers.
+43023	+	中には、早々に同士討ちを始める魔物もいる。	Some even started attacking their own allies right away.
+
+43024	Monster General	「ええい……なんのつもりだ！	「Damn it... What's the plan here!
+43025	+	　目を使わん者、何人か！	　Those of you who don't rely on sight, come forward!
+43026	+	　スーツを脱いで周囲を確認しろ！」	　Take off your suits and check the surroundings!」
+
+43027	Galtia	「いーや、その暇は……ねぇなあ」	「No can do, I won't give you that time...」
+
+43028	Monster General	「は……………」	「Wha............」
+
+43029	Rance	「がーーーーははははは！！	「Gaaaaahahahaha!!
+43030	+	　ちぇすとーーーー！」	　Chestoooo!!」
+
+43031	Monster General	「ぎゃああああああ！」	「Gyaaaaaaaah!」
+
+43032	-	霧を裂いて、何者かの刃が魔物将軍を	A blade tore through the fog and sliced the Monster General
+43033	+	一撃で切り伏せた。	down in a single strike.
+
+43034	Galtia	「へえ、あんたか……！」	「Heh, so it's you...!」
+
+43035	Rance	「がははははははは！　俺様参上！	「Gahahahahaha! Here comes the great me!
+43036	+	　だっ、りゃーーーーー！」	　Daa, ryaaaa!!」
+
+43037	Chaos	「にょほほーーい、不意打ちもらったーー！」	「Nyohohoi~ Ambush received~!」
+
+43038	-	魔剣カオスとガルティアの蛮刀が、	The demonic sword Chaos and Galtia's barbarian blade
+43039	+	真っ向から噛み合った。	clashed head-on.
+
+43040	Rance	「ちっ、防ぎやがった！」	「Tch, he blocked it!」
+
+43041	Galtia	「俺が見えなくとも、	「Even if I can't see you,
+43042	+	　ムシどもが見ていてくれるからなぁ……」	　my bugs are watching for me...」
+
+43043	-	ガルティアが剣を払い、互いに半歩の距離を取る。	Galtia knocked the sword aside and both took half a step back.
+
+43044	Galtia	「やるなあ。俺の腹の中から出れたのか。	「Not bad. You actually got out of my stomach.
+43045	+	　そんな方法あったんだな……」	　So there was a way...」
+
+43046	Rance	「ふん、俺様に不可能はない」	「Hmph, nothing is impossible for me.」
+
+43047	-	右手で握る蛮刀の柄に左手を添え、	Rance placed his left hand on the handle of the barbarian blade gripped in his right,
+43048	+	魔人ガルティアは得物を水平に構えた。	while the Fiend Galtia held his weapon horizontally.
+
+43049	Galtia	「いいぜ、来いよ。相手になってやる。腹ごなしだ」	「Alright, come at me. I'll take you on. Good after-meal exercise.」
+
+43050	Rance	「言われずとも叩き殺してくれるわ、ムシムシ野郎！	「I don't need you to tell me, you bug bastard!
+43051	+	　とーーーーーー！」	　Tooaaaa!!」

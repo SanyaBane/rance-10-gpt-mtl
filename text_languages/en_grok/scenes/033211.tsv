@@ -1,0 +1,139 @@
+# 33211	６０３／プルーペット商会	route
+* Rocky Bank	ロッキー２	Male
+* Kalar	汎用カラー	Female
+* Poppins	汎用男ポピンズ１	Male
+* Squidman	イカマン	Male
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Green Hanny	汎用グリーンハニー	Male
+* Desert Guide	砂漠案内人	Female
+* Horus	ノーマルホルス	Male
+* Boy	汎用少年	Male
+* Man	汎用男	Male
+* Arcy Julietta	アーシー	Female
+* Nagata-kun	長田君２	Male
+* Pluepet	プルーペット	Male
+
+212889	-	あなた達は市場を歩いていた。	You were walking through the market.
+
+212890	Rocky Bank	「ひ、ひーっ、すごい人の数だすー！	「H-hii, there are so many people!
+212891	+	　は、はぐれないように気をつけましょうだー！」	　Let's stay together so we don't get separated!」
+
+212892	-	お祭りのように沢山の人でごった返し、	The market was packed with people like a festival,
+212893	+	ガヤガヤと騒がしい市場は、	noisy and bustling,
+212894	+	エネルギーで満ち溢れていた。	full of energy.
+
+212895	Kalar	「ねーねー、お兄さん。	「Hey hey, big brother.
+212896	+	　これもうちょっと安くならなーい？」	　Can't you make this a bit cheaper?」
+
+212897	Poppins	「うーん、ご予算はいかほどで？」	「Hmm, what's your budget?」
+
+212898	Squidman	「いて、いてて！　なあ、許してくれよぉ……	「Ouch, ouch! Come on, forgive me...
+212899	+	　ちょっと魔が差しただけで……	　I was just momentarily possessed...
+212900	+	　なあ、金なら絶対にいつか払うからよぉ！」	　I'll definitely pay the money someday!」
+
+212901	Green Monster Soldier	「黙ってキリキリ歩け！	「Shut up and walk briskly!
+212902	+	　憲兵に突きだしてやる！」	　I'll hand you over to the military police!」
+
+212903	Green Hanny	「砂漠横断用のレンタルうし車はいらんかねー！	「Need a rental bull cart for desert crossing?
+212904	+	　今日すぐに貸し出せますよー！	　We can rent it out today!
+212905	+	　水も食料も最低限でいいよー！」	　Water and food at minimum is fine!」
+
+212906	Desert Guide	「は、はひ……安いよ、速いよぉ……」	「Y-yes... Cheap and fast...」
+
+212907	Horus	「おいおい！　また蜜団子値上がりかよ！？	「Hey! Honey dumplings went up in price again!?
+212908	+	　坊主、これ本当に適正価格かぁ？　ﾇﾇﾇ」	　Kid, is this really the right price? Nunu」
+
+212909	Boy	「へへっ、この蜜はあんたの故郷でしか	「Hehe, this honey can only be found
+212910	+	　取れないんだから値が張るのは当然だろう？」	　in your hometown, so of course it's expensive.」
+
+212911	Man	「おや？　こんなところにお店が……	「Oh? A shop here...
+212912	+	　こりゃあ、なんの店だい、お嬢ちゃん」	　What kind of shop is this, miss?」
+
+212913	Arcy Julietta	「うふふ、ここはアーシーの占いの館なの。	「Ufufu, this is Aashi's fortune telling hall.
+212914	+	　おかしくれたらなーんでも占ってあげるね」	　If you pay, I'll tell you anything.」
+
+212915	-	国の違いだけに留まらない。	It wasn't just differences in countries.
+212916	+	多種多様な種族が共に暮らしている姿が	The sight of many different species living together
+212917	+	そこにはあった。	was there.
+
+212918	Nagata-kun	「ひー、テンション上がるー！	「Whoa, this gets me pumped!
+212919	+	　こういうのは他国じゃ、	　You don't see scenes like this
+212920	+	　ちょっと見られない光景だよなー！」	　in other countries!」
+
+212921	Rocky Bank	「シャングリラは交易で栄えた都市国家だすから、	「Shangri-La is a city-state that prospered through trade,
+212922	+	　世界中から沢山の生き物が集まるだ」	　so creatures from all over the world gather here.」
+
+212923	Rocky Bank	「カラー、ホルス、ポピンズ、魔物、人間、	「Kalars, Horus, Poppins, monsters, humans,
+212924	+	　これだけ色んな種族が、	　so many different species
+212925	+	　共に生活する国はちょっと他にないだすよ」	　living together is rare elsewhere.」
+
+212926	Nagata-kun	「へへー、世間知らずの＜エール＞ちゃんは、	「Hehe, innocent little ＜エール＞-chan
+212927	+	　こんな光景、初めて見るんじゃないのー？」	　is probably seeing this for the first time?」
+
+212928	Nagata-kun	「ま！　俺も初めてだけどな！」	「Well! It's my first time too!」
+
+212929	Rocky Bank	「まずは昼食が取れそうな屋台でも探すだすか」	「Shall we look for a stall where we can get lunch first?」
+
+212930	Nagata-kun	「さんせーい！	「I agree!
+212931	+	　肉の串とかいきてぇっすねー！」	　Meat skewers sound great!」
+
+212932	-	人でごった返す市場を、	In the crowded market,
+212933	+	あなたは長田君達と離れないように進む。	you walked carefully so as not to lose Nagata-kun and the others.
+
+> male
+212934	Pluepet	「おっ、そこのイカした兄さん！	「Oh, you cool brother over there!
+212935	+	　せやせや、あんたや、あんた！」	　Yes yes, you, you!」
+
+212936	-	あなたは呼び止められて振り返った。	You turned around when called.
+
+212937	Pluepet	「あんさんみたいなイカした男に	「For a cool guy like you,
+212938	+	　ぴったりの当店の品揃え、	　our store has the perfect selection,
+212939	+	　是非見てってやー！」	　please take a look!」
+
+> female
+212940	Pluepet	「おっ、そこの可愛らしいお嬢ちゃん！	「Oh, you cute young lady over there!
+212941	+	　そーそー、あんたや、あんた！」	　Yes yes, you, you!
+
+212942	-	あなたは呼び止められて振り返った。	You turned around when called.
+
+212943	Pluepet	「あんさんみたいな素敵なレディに	「For a wonderful lady like you,
+212944	+	　ぴったりの当店の品揃え、	　our store has the perfect selection,
+212945	+	　是非見てってやー！」	　please take a look!」
+
+> end
+212946	-	言われた通り、	As told,
+212947	+	あなたは軒先の商品に目をやった。	you looked at the goods at the storefront.
+
+212948	-	いまいちあなたにはよく分からないが、	You didn't quite understand them well,
+212949	+	どうやらすごい品が揃っているようだ。	but it seemed like they had amazing items.
+
+212950	Pluepet	「ウチ、なんでも屋ですねん。	「We're a general store.
+212951	+	　ただし普通のなんでも屋と違うて、	　But unlike normal general stores,
+212952	+	　レア品ばっか取りそろえてまんねん」	　we only carry rare items.」
+
+212953	Pluepet	「その分、普通のGOLDでは	「Because of that, normal GOLD
+212954	+	　交換できまへんで〜」	　won't be enough~」
+
+212955	Pluepet	「ズバリ！　金塊だけで交換承っておりますねん！」	「Exactly! We only accept gold nuggets for exchange!」
+
+212956	Pluepet	「あんさんも、金塊持ってたら、	「If you have gold nuggets,
+212957	+	　是非是非交換しておくれやすー。	　please exchange with us.
+212958	+	　どーせ他に使い道もないでしょうし〜」	　You probably don't have other uses for them anyway~」
+
+212959	-	あなたも金塊を持っていれば、	If you have gold nuggets,
+212960	+	レアなアイテムと交換してもらえるだろう。	you could probably exchange them for rare items.
+
+212961	Nagata-kun	「おい、＜エール＞」	「Hey, ＜エール＞.」
+
+212962	Nagata-kun	「まったく、なにしてんだよ。	「Seriously, what are you doing.
+212963	+	　こんなあからさまな客引きに引っかかって。	　Falling for such an obvious sales pitch.
+212964	+	　ほれ、行くぞ」	　Come on, let's go.」
+
+212965	-	あなたは長田君に引っ張られた。	You were pulled along by Nagata-kun.
+
+212966	Pluepet	「あーあー、ええどすええどす。	「Ah well, that's fine.
+212967	+	　また時間があるときに、	　Come again when you have time,
+212968	+	　いつでも来ておくれやすー」	　you're always welcome.」
+
+212969	Pluepet	「金塊沢山集めての来店、	「Come with lots of gold nuggets,
+212970	+	　お待ちしてるでごわすー」	　I'll be waiting.」

@@ -1,0 +1,268 @@
+# 33484	３２０／ランス接触５／戦闘前	
+* Muscle	マッスル	Male
+* Rance	ランス	Male
+* Scholar	学者	Male
+* Apache	アパッチ	Male
+* Swordmaster	剣豪	Male
+* Sill Plain	シィル	Female
+* Pastel Kalar	パステル	Female
+* Miracle Tor	ミラクル	Female
+* Satella	サテラ	Female
+* Needle	ニードル	Female
+* Alkanese Rize	アルカネーゼ	Female
+
+245277	Muscle	「そこまでだ！」	「That's far enough!」
+
+245278	Rance	「こ、この声は！？」	「T-this voice!?」
+
+245279	Rance	「まぁーた、お前らか……」	「Again, it's you guys...」
+
+245280	Scholar	「そんな嫌そうな顔をしないで欲しいですね」	「Please don't make such a displeased face.」
+
+245281	Muscle	「マエリータ隊、参上！」	「Maelita Squad, arriving!」
+
+245282	Apache	「さあ！　正々堂々と戦え！」	「Now! Fight fair and square!」
+
+245283	Swordmaster	「今宵、死ぬには良い月夜だ！」	「Tonight is a good night to die!」
+
+245284	Rance	「うっとうしい……」	「Annoying...」
+
+245285	Rance~	（こいつら戦う度に強くなりやがる。	（These guys get stronger every time we fight.
+245286	+	　いい加減付き合うのしんどいぞ）	　I'm getting tired of dealing with them.）
+
+245287	Rance~	（落とし穴で一網打尽……	（If only I could catch them all in a pitfall...
+245288	+	　とか出来れば楽なんだがなぁ、うーん）	　that would make it easy, hmm.）
+
+245289	Sill Plain	「……なにかずるいこと考えらっしゃる顔です」	「...You have the face of someone thinking of something sneaky.」
+
+245290	Pastel Kalar	「本当にどーーしようもない奴じゃな、こいつは」	「This guy really is hopeless.」
+
+245291	Rance	「……お前らケツ蹴り上げるぞ」	「...I'll kick all your asses.」
+
+245292	Rance	「だー！　うだうだ考えるのはやめだ！	「Gah! Enough thinking!
+245293	+	　今すぐ全員ブッ倒ーーす！」	　I'll beat every last one of you right now!」
+
+245294	Scholar	「来ます！　行きますよ！」	「They're coming! Let's go!」
+
+245295	-	両隊が正面から突撃しようとした、	Just as both squads were about to charge head-on,
+245296	+	その刹那――	at that very moment――
+
+245297	-	　	　
+245298	+	　＜ガラッ！＞	　＜Crack!＞
+
+245299	Rance	「ほへっ！？」	「Hoeh!?」
+
+245300	Scholar	「なっ！？」	「Wha!?」
+
+245301	-	両隊の中心の地面に大きな亀裂が入った。	A large crack formed in the ground between both squads.
+
+245302	Rance	「のわぁぁ〜〜〜〜っ！」	「Whoaaa~~~!」
+
+245303	-	…………	............
+
+245304	-	……	......
+
+245305	Rance	「あいたた……	「Ouch...
+245306	+	　俺達、洞窟に落ちたのか？」	　Did we fall into a cave?」
+
+245307	-	ランスと学者の両部隊は	Both Rance's and the Scholar's squads
+245308	+	地面の下に広がる洞窟に着地していた。	had landed in the cave spreading underground.
+
+245309	Muscle	「あたた、地下洞窟なんてあったのか……」	「Ouch, there was an underground cave...」
+
+245310	Scholar	「ここはアントーンの巣のようです。	「This seems to be Anton's nest.
+245311	+	　何度も掘り返され地盤が緩んでいたんでしょう」	　The ground was weakened from being dug up many times.」
+
+245312	Muscle	「ちっ、上に登るには高すぎるな……」	「Tch, too high to climb back up...」
+
+245313	Muscle	「ま、何があろうと関係ねぇや！	「Well, doesn't matter what happens!
+245314	+	　敵は殺す！　それだけだ！」	　Just kill the enemy! That's it!」
+
+245315	Rance	「おお、死にやがれ！」	「Yeah, die!」
+
+245316	Scholar	「待ちなさい！」	「Wait!」
+
+245317	-	洞窟内によく響く学者の大声に、	The Scholar's loud voice echoed well inside the cave,
+245318	+	マッスル、ランス両名の動きが止まる。	stopping both Muscle and Rance.
+
+245319	Muscle	「な、なんだよ、学者……」	「W-what is it, Scholar...」
+
+245320	Scholar	「ここから無事に出られるかも分からない状況……	「We don't even know if we can get out safely from here...
+245321	+	　戦っている場合ではありません」	　This is no time to be fighting.」
+
+245322	Muscle	「一理……ある……」	「You've... got a point...」
+
+245323	Rance	「……魔物の癖に中々理性的な奴ではないか」	「...For a monster you're pretty rational.」
+
+245324	Scholar	「そちらの部隊の隊長はランス殿ですね」	「You are the captain of that squad, Lord Rance.」
+
+245325	Scholar	「一時休戦といきませんか？」	「How about a temporary truce?」
+
+245326	Rance	「なんだとぉ？」	「What did you say?」
+
+245327	Sill Plain	「はい、はい、賛成です。	「Yes, yes, I agree.
+245328	+	　平和的に済むならそれが一番――」	　If we can settle this peacefully that's best――」
+
+245329	Sill Plain	「あいたっ！」	「Ouch!」
+
+245330	Rance	「お前が勝手に決めるな！	「Don't decide on your own!
+245331	+	　隊長は俺様だ！」	　I'm the captain!」
+
+245332	Sill Plain	「くすん、すみません……」	「Hic, sorry...」
+
+245333	Sill Plain	「じゃあ……	「Then...
+245334	+	　戦うんですか？」	　are we fighting?」
+
+245335	Rance	「…………」	「............」
+
+245336	Rance~	（戦ってもいいが……	（We could fight but...
+245337	+	　ちょっと面倒かも）	　it might be a hassle.）
+
+245338	Rance	「……休戦だ」	「...Truce.」
+
+245339	Sill Plain	「わぁい、良かったです」	「Yay, that's great.」
+
+245340	Sill Plain	「あいたっ！　ひんひん、すみません……」	「Ouch! Hic, sorry...」
+
+245341	Rance	「ふんっ」	「Hmph.」
+
+245342	Scholar	「……変わった方々ですね」	「...What unusual people.」
+
+245343	Scholar	「では、行きましょうか」	「Well then, shall we go?」
+
+245344	Rance	「おい、なにを勝手に……」	「Hey, don't just decide...」
+
+245345	Scholar	「道はこの先にしか通じてません。	「The path only continues ahead.
+245346	+	　貴方達はここに残るのですか？」	　Will you stay here?」
+
+245347	Rance	「ぬぬぬ、ムカつく奴……」	「Grr, annoying bastard...」
+
+245348	Rance	「先頭を歩くのは俺様だ！	「I'm the one who walks in front!
+245349	+	　お前が歩くんじゃない！」	　Not you!」
+
+245350	-	ズイッとランスが学者の前に出た。	Rance stepped in front of the Scholar.
+
+245351	Scholar	「…………」	「............」
+
+245352	Scholar	「……彼、隊長ですよね？	「...He is the captain, right?
+245353	+	　先頭が彼でいいんですか？」	　Is it fine for him to lead?」
+
+245354	Miracle Tor	「その男はそういう者なのだ。	「That man is that kind of person.
+245355	+	　面白いだろう？」	　Isn't it interesting?」
+
+245356	Scholar	「……変わり者ではありますね」	「...He is quite the eccentric.」
+
+245357	-	…………	............
+
+245358	-	……	......
+
+245359	-	ランス達が出口を探して歩いていた。	Rance and the others were walking while searching for the exit.
+
+245360	Satella~	（ランスとマエリータ隊の隊長が	（Rance and the captain of the Maelita Squad
+245361	+	　並んで歩いてる……）	　walking side by side...）
+
+245362	Satella~	（変な光景）	（What a strange sight.）
+
+245363	Scholar	「ランス殿、一ついいですか？」	「Lord Rance, may I ask one thing?」
+
+245364	Rance	「……なんだ、敵の癖に声かけるな」	「...What, don't talk to me when you're the enemy.」
+
+245365	Scholar	「何故、自分に仲間がついてくるか、	「Why do comrades follow you,
+245366	+	　貴方は考えたことがありますか？」	　have you ever thought about it?」
+
+245367	Rance	「はあ？　見て分からんのか？」	「Haa? Can't you tell just by looking?」
+
+245368	Rance	「俺様が最強無敵の英雄だからだ」	「Because I'm the strongest invincible hero.」
+
+245369	Pastel Kalar	「それはない」	「That's not it.」
+
+245370	Rance	「なんだとお前ー！」	「What did you sayー!」
+
+245371	Scholar	「……ふっ」	「...Fufu.」
+
+245372	Scholar	「面白い方だ」	「You're an interesting one.」
+
+245373	Rance	「……何を笑っとるんだ、気持ち悪い」	「...What are you laughing at, creepy.」
+
+245374	-	　	　
+245375	+	　＜ブーンッ！＞	　＜Bzzz!＞
+
+245376	-	そのとき女の子モンスターの	At that moment a girl monster
+245377	+	ハチ女が姿を現した。	bee girl appeared.
+
+245378	Rance	「む？　なんだ？	「Mu? What?
+245379	+	　って……」	　Wait...」
+
+245380	Rance	「お、おいおい、なんだこの数は！」	「H-hey, what the hell is with this number!」
+
+245381	-	群れとなったハチ女が	A swarm of bee girls
+245382	+	次から次へその場に集まる。	gathered one after another.
+
+245383	Scholar	「ハチ女の大群……」	「A huge swarm of bee girls...」
+
+245384	Rance	「モンスターはお前らの仲間だろう。	「Monsters are your comrades, right.
+245385	+	　どうにかしろ」	　Do something about them.」
+
+245386	Needle	「あ、ダメダメ！	「Ah, no no!
+245387	+	　あの子達めちゃくちゃ怒ってる！」	　Those girls are super angry!」
+
+245388	Rance	「怒ってるならなだめすかせ。	「If they're angry, calm them down.
+245389	+	　お前のお仲間だろ」	　They're your comrades.」
+
+245390	Needle	「う……無理だよぉ……	「U... it's impossible...
+245391	+	　元々あたし、姿形が全然違うからって	　I was abandoned because my appearance is completely different...」
+245392	+	　捨てられたんだもん……」	
+
+245393	Needle	「ハチ女は見た目が違う個体に対して	「Bee girls are extremely harsh
+245394	+	　すっごい厳しいんだもん……だもん……」	　towards individuals that look different...」
+
+245395	Rance	「……よく分からんがしょんぼりするな。	「...I don't really get it but don't look so down.
+245396	+	　そんなことしてる暇はなさそうだぞ」	　We don't have time for that.」
+
+245397	Scholar	「まずいですね……」	「This is bad...」
+
+245398	Scholar	「今の時期のハチ女は	「Bee girls at this time of year
+245399	+	　産卵期に入っていて非常に危険です」	　are in breeding season and extremely dangerous.」
+
+245400	Rance	「危険ってどの程度だ？」	「How dangerous exactly?」
+
+245401	Scholar	「侵入者は問答無用で殺す程度に」	「They kill intruders without question.」
+
+245402	-	学者が説明する間にも、次から次へと	Even while the Scholar explained, more and more
+245403	+	ハチ女はわらわらと数を増やしていた。	bee girls kept gathering.
+
+245404	Sill Plain	「ま、まずいですよ、ランス様ぁ……」	「T-this is bad, Rance-sama...」
+
+245405	Scholar	「……ランス殿、提案が」	「...Lord Rance, a proposal.
+
+245406	Scholar	「先ほど休戦と言いましたが、	　We talked about a truce earlier,
+245407	+	　ここは共闘と行きませんか？」	　how about we fight together here?」
+
+245408	Rance	「なにぃ？」	「What?」
+
+245409	Muscle	「お、おいおい！？	「H-hey!?
+245410	+	　本気か、学者！？」	　Are you serious, Scholar!?」
+
+245411	Scholar	「お互いに手に余る数です。	「The numbers are too much for either side alone.
+245412	+	　なら、これが一番合理的でしょう」	　This is the most rational choice.」
+
+245413	Rance	「…………」	「............」
+
+245414	Rance	「よかろう」	「Fine.」
+
+245415	Alkanese Rize	「えっ、いいのかい、アニキ！？」	「Eh, is that okay, Aniki!?」
+
+245416	Rance	「腹が立つがそこのアカメの言う通りだからな」	「It pisses me off but red-eyes over there is right.」
+
+245417	Rance	「せいぜい俺様の盾になって散れ」	「At least be my shields and scatter.」
+
+245418	Scholar	「それは断ります」	「I refuse that.」
+
+245419	Rance	「なら、せいぜい足を引っ張るな！」	「Then don't drag us down at least!」
+
+245420	Scholar	「皆さん、人間の部隊と協力して戦闘を！」	「Everyone, cooperate with the human squad and fight!」
+
+245421	Muscle	「敵だった奴らと協力とはね！	「Cooperating with former enemies!
+245422	+	　変な感じだがよろしく！」	　Feels weird but let's do this!」
+
+245423	Rance	「行くぞ！」	「Let's go!」

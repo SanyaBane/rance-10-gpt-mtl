@@ -1,0 +1,291 @@
+# 30545	リズナ／キャライベントＣ	
+* Rance	ランス	Male
+* Copandon Dott	コパンドン	Female
+* Rizna Lanfbitt	リズナ	Female
+* Man	汎用男	Male
+* Monster Captain	汎用魔物隊長	Male
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Carolie Mate	キャロリ	Female
+
+14036	Rance	「なんだと？　リズナがどっか行った？」	「What? Rizna went somewhere?」
+
+14037	Copandon Dott	「せやねん。それっぽーいようなのを	「Yeah. I just overheard something like that.
+14038	+	　小耳に挟んだだけやねんけどな」	　That's all though.」
+
+14039	Copandon Dott	「うっさーんくさい男が案内して、	「A suspicious-looking guy was guiding her,
+14040	+	　薙刀担いだ金髪和服美人がー、って」	　a blonde beauty in Japanese clothes carrying a naginata, or so.」
+
+14041	Rance	「…………あー。また騙されたか……？」	「............Ah. Got tricked again......?」
+
+14042	Copandon Dott	「かもなあ。	「Probably.
+14043	+	　玄武城であんな目に遭うたのにアレって、	　After what happened at Genbu Castle, it's impressive
+14044	+	　ホンマすごいと思うわ」	　she still falls for it.」
+
+14045	Rance	「……ええい、仕方ないな！」	「......Tch, no choice then!」
+
+14046	Rizna Lanfbitt	「はぁ、ふぅ……」	「Haa, fuu......」
+
+14047	Man	「へ、へへ……大丈夫ですかい？」	「Hehe...... Are you okay?」
+
+14048	Rizna Lanfbitt	「あ、大丈夫ですよ。	「Ah, I'm fine.
+14049	+	　こう見えても、歩くのは慣れてますし……」	　I may not look it, but I'm used to walking......」
+
+14050	Man	「そりゃよかった」	「Glad to hear it.」
+
+14051	Rizna Lanfbitt	「それより、まだ先なんですか？」	「By the way, is it still far?」
+
+14052	Man	「えぇ、そのはずですね…………へへ。	「Yeah, it should be...... Hehe.
+14053	+	　もっと深く……ひとけのなくなる辺りですよ」	　Deeper in...... where there won't be anyone around.」
+
+14054	Rizna Lanfbitt	「そうですか。お弁当持ってきてよかったです。	「I see. Good thing I brought a lunchbox.
+14055	+	　よいしょ、よいしょ」	　Heave ho, heave ho.」
+
+14056	Man	「それにしても…………ひへへ。	「Still...... Hehehe.
+14057	+	　こんな話に、乗ってくるお嬢さんがいるとは	　I didn't expect a young lady to actually follow me
+14058	+	　思いませんでしたよ……」	　after hearing such a story......」
+
+14059	Rizna Lanfbitt	「え、何か？」	「Hm? Did you say something?」
+
+14060	Man	「ああっ、いえいえ、なんでも……へへ。	「Ah, no no, nothing...... Hehe.
+14061	+	　ささ、もっと進みましょう」	　Come on, let's keep going.」
+
+14062	Rizna Lanfbitt	「はい、頑張りましょう」	「Yes, let's do our best.」
+
+14063	-	先行するリズナの背中を、男はじっと見つめていた。	The man stared intently at Rizna's back as she walked ahead.
+
+14064	Rizna Lanfbitt	「あ……少し開けた所に出ましたね……あら……？」	「Ah...... We've reached a more open area...... Oh......?」
+
+14065	-	振り向くと、誰もいない。	When she turned around, no one was there.
+
+14066	Rizna Lanfbitt	「あれ……はぐれちゃいました……？」	「Huh...... Did we get separated......?」
+
+14067	-	と、不意に咆哮のような音が密林を貫いた。	Suddenly, a roar-like sound pierced through the dense forest.
+
+14068	Rizna Lanfbitt	「あっ、モンスター……！？」	「Ah, a monster......!?」
+
+14069	Monster Captain	「ほう」	「Oh?」
+
+14070	-	ついで姿を現したのは、魔物隊長の小隊だった。	What appeared next was a squad led by a monster captain.
+
+14071	Monster Captain	「これはいい女ではないか。	「What a fine woman.
+14072	+	　良い拾いものをした」	　We hit the jackpot.」
+
+14073	Rizna Lanfbitt	「…………っ……！」	「......!」
+
+14074	-	とっさに薙刀を構えるが、	Rizna quickly readied her naginata,
+14075	+	周囲には魔物兵が展開する。	but monster soldiers had already surrounded her.
+
+14076	Monster Captain	「手向かうでないわ。	「Don't resist.
+14077	+	　傷物にしても面白くない」	　It'd be no fun if you're damaged goods.」
+
+14078	Monster Captain	「なに、たっぷりと可愛がってやるとも。	「Don't worry, we'll pamper you plenty.
+14079	+	　ちょうどよい、我が隊の慰安婦にしてやろう」	　You'll make a perfect comfort woman for my squad.」
+
+14080	Monster Captain	「昼も夜もなく嬲ってやるぞ。	「We'll toy with you day and night.
+14081	+	　そのうち、お前から欲しがるように――――」	　Eventually you'll be the one begging for it――――」
+
+14082	Rance	「能書きが長いわ、このゴミが！」	「You talk too much, you piece of trash!」
+
+14083	Monster Captain	「うぎゃーーーーーーーっ！」	「Gyaaaaaaa!」
+
+14084	Rizna Lanfbitt	「えっ…………」	「Eh......」
+
+14085	Rance	「この雑魚どもが！	「You small fry bastards!
+14086	+	　総統様の女を掠め取ろうなぞ5億年早いわ！」	　Trying to snatch one of the Supreme Leader's women? You're five hundred million years too early!」
+
+14087	Green Monster Soldier	「ひっ、ひいい！？　なんだコイツ！」	「Hii, hiiii!? Who the hell is this guy!」
+
+14088	Green Monster Soldier	「た、隊長が一撃で！」	「The captain went down in one hit!」
+
+14089	Rance	「次は貴様らじゃ！　くたばれーーー！」	「You're next! Dieeeeeee!」
+
+14090	Green Monster Soldier	「に、にげろーーーーー！」	「R-run for it!」
+
+14091	-	魔軍の小隊は一目散に逃げていった。	The monster squad fled in panic.
+
+14092	Rance	「……ふん。手間取らせやがって」	「......Hmph. What a waste of time.」
+
+14093	Rizna Lanfbitt	「あの……ランスさん、どうして……」	「Um...... Rance-san, why......」
+
+14094	Rance	「君がまた騙されたっぽいからな。	「Looked like you got tricked again.
+14095	+	　追ってきたんだ」	　So I came after you.」
+
+14096	Rizna Lanfbitt	「騙された……んでしょうか、また……」	「Did I...... get tricked again......」
+
+14097	-	リズナがしょぼんと、下を向く。	Rizna looked down dejectedly.
+
+14098	Rance	「まあ、俺が間に合ったから気にしなくていい。	「Well, I made it in time so don't worry.
+14099	+	　案内の男とやらを見つけてブチ殺したいが……」	　I'd love to find that guide and smash him though......」
+
+14100	Rance	「ん……腹が減ったな……	「Nn...... I'm hungry......
+14101	+	　そういえばメシ食ってくるの忘れた」	　Come to think of it, I forgot to eat.」
+
+14102	Rizna Lanfbitt	「あ……じゃあ、ご飯にしましょう。	「Ah...... Then let's eat.
+14103	+	　お弁当、半分こしませんか」	　Want to share my lunchbox?」
+
+14104	Rance	「お、いいのか」	「Oh, you sure?」
+
+14105	Rizna Lanfbitt	「はいっ。休憩しましょう」	「Yes. Let's take a break.」
+
+14106	-	ランスは頷いて、適当な所に腰を下ろそうとして、	Rance nodded and was about to sit down somewhere,
+14107	+	動きを止めた。	but stopped.
+
+14108	Rance	「…………魔物隊長の死体があると嫌だな。	「............Don't want to sit near a dead monster captain.
+14109	+	　場所を移すか」	　Let's move spots.」
+
+14110	Rance	「むぐ、まぐ……うん、うまい」	「Munch, chew...... Yeah, good stuff.」
+
+14111	Rizna Lanfbitt	「あ、よかったです。	「Ah, I'm glad.
+14112	+	　自分用だったから簡単なものですけど……」	　It's simple since it was for me......」
+
+14113	Rance	「いや、いいぞ。	「Nah, it's good.
+14114	+	　……しかし、ハニめしおにぎりはちょっと……」	　......Though Hanny rice balls are a bit......」
+
+14115	Rizna Lanfbitt	「よく頂くので貯まってしまって……	「I get them often so I have plenty......
+14116	+	　慣れると美味しいですよ」	　They're good once you get used to them.」
+
+14117	Rance	「うーむ……そうとは思えんが」	「Hmm...... Not sure I agree.」
+
+14118	-	文句を言いながらもランスは一人でほとんど平らげ、	Complaining the whole time, Rance still ate almost everything by himself,
+14119	+	ごろりと横になった。	then flopped onto his back.
+
+14120	Rance	「ふー、食った食った。	「Whew, that hit the spot.
+14121	+	　リズナちゃん。ちょいちょい」	　Rizna-chan. Over here.」
+
+14122	Rizna Lanfbitt	「え……」	「Eh......」
+
+14123	-	言われるままにリズナが膝歩きで近づくと、	Doing as told, Rizna shuffled over on her knees,
+14124	+	その太股の上にランスの頭が乗った。	and Rance rested his head on her soft thighs.
+
+14125	Rance	「眠い。ちょっと寝る」	「I'm sleepy. Gonna take a nap.」
+
+14126	Rizna Lanfbitt	「あ…………はい。どうぞ」	「Ah...... Yes. Go ahead.」
+
+14127	Rance	「ん……ぐおおおおぉぉ……すぴぴぴ……」	「Nn...... Guoooo...... Zzz......」
+
+14128	Rizna Lanfbitt	「……………………」	「........................」
+
+14129	-	森林に、風が吹く。	A breeze blew through the forest.
+
+14130	-	ランスの髪が揺れるのを、	Whenever Rance's hair moved,
+14131	+	ときおりリズナが、そっと指で払う。	Rizna gently brushed it aside with her fingers.
+
+14132	Rizna Lanfbitt	「すごいな…………ランスさんは……」	「You're amazing...... Rance-san......」
+
+14133	Rizna Lanfbitt	「私が、困る時……いつも、助けてくれる……」	「You always come to save me...... whenever I'm in trouble......」
+
+14134	Rance	「んが〜〜〜……むぬぐぐ……ぐおぉ……	「Ngaaaa...... Mnnng...... Guoo......
+14135	+	　がははは、ほら脱げシィル……」	　Gahaha, take it off Sill......」
+
+14136	-	ランスの寝言に、少し口元が緩む。	Rizna's lips softened slightly at Rance's sleep-talking.
+
+14137	Rizna Lanfbitt	「玄武城でも……出てからも。	「Even at Genbu Castle...... and after we left.
+14138	+	　優しいことばかりではないけれど……でも……」	　You're not always gentle but...... still......」
+
+14139	-	リズナの手が、ランスの頬を撫でる。	Rizna's hand gently stroked Rance's cheek.
+
+14140	Rizna Lanfbitt	「………………………………	「..............................
+14141	?	好き、ですよー……」	I like you...... so much......」
+
+14142	-	そっと。万が一にも、耳に入らぬよう。	She whispered it softly, careful not to let him hear.
+
+14143	-	　	　
+14144	+	　　＜がさがさ……＞	　　<Rustle rustle......>
+
+14145	Rizna Lanfbitt	「っ、あ…………！」	「Ah......!」
+
+14146	Rance	「んがっ……」	「Nga......」
+
+14147	-	茂みを抜けて、何かがやってくる。	Something emerged from the bushes.
+14148	+	リズナは太股を軽く揺すってランスを起こすと、	Rizna gently shook her thighs to wake Rance,
+14149	+	薙刀を手にした。	then grabbed her naginata.
+
+14150	Man	「あーーーー！　こんな所に！	「Aaaah! You're here!
+14151	+	　だ、大丈夫でしたか！　へ、へへ……」	　A-are you okay!? Hehe......」
+
+14152	Rizna Lanfbitt	「案内人、さん……」	「Mr. Guide......」
+
+14153	Man	「ええもう、途中で滑落しちゃってもう」	「Yeah, I slipped and fell on the way.」
+
+14154	Rance	「なに、こいつが！？　よし殺す！」	「The hell, this guy!? Alright, die!」
+
+14155	Man	「ひぇひぃ！？	「Hieeee!? 
+14156	+	　な、なんですかいあなた様は……！」	　Who the heck are you......!」
+
+14157	Rance	「リズナちゃんを騙して	「Tricking Rizna-chan
+14158	+	　こんな所に連れてきやがって！　万死に値する！」	　and bringing her here! You deserve death a thousand times!」
+
+14159	Man	「だ、騙すってなんですか！？	「D-deceive!? What are you talking about!?
+14160	+	　ちゃんとお連れするつもりですよ！」	　I really meant to guide her!」
+
+14161	Man	「というか私が連れてきて貰ってるんでさあ！	「Actually she was the one who asked me to bring her!
+14162	+	　私も採りたいですけど、危険なもんでって……」	　I wanted to gather some too, but it's dangerous so......」
+
+14163	Rance	「……………………本当か？	「........................For real?
+14164	+	　というかリズナちゃん、何をしに？」	　Anyway Rizna-chan, what were you after?」
+
+14165	Rizna Lanfbitt	「それはその……珍しい薬草を、少し」	「Well...... Some rare medicinal herbs.」
+
+14166	Rance	「ちっ……まあいいだろう。	「Tch...... Whatever.
+14167	+	　さっさと案内してみせろ」	　Hurry up and lead the way.」
+
+14168	Man	「わ、わかってますよ。もうすぐ……	「I-I know. It's just ahead......
+14169	+	　ひとけが無くなる辺りですからね。へ、へへ」	　Where there won't be anyone around. Hehe.」
+
+14170	Rance	「その薄ら笑いが怪しいのだ！」	「That creepy grin is suspicious as hell!」
+
+14171	Man	「おうふ！」	「Oof!」
+
+14172	-	その後は何事もなく、採取した薬草を分配して、	After that nothing else happened. They gathered the herbs,
+14173	+	ランス達は男と別れて城へと帰り着いた。	split them, and Rance's group parted ways with the man and returned to the castle.
+
+14174	Rizna Lanfbitt	「ふー、帰ってきましたね」	「Whew, we're back.」
+
+14175	Rance	「しかしその薬草、なんなんだ？」	「So what exactly is that herb?」
+
+14176	Rance	「あっ、もしかしてエロいのを抑えるとかか？	「Wait, is it something that suppresses horniness?
+14177	+	　要らないぞ、そんなもん」	　I don't need that crap.」
+
+14178	Rizna Lanfbitt	「これは、ですね」	「This is......」
+
+14179	-	すっと、リズナは薬草の入った袋を差し出した。	Rizna quietly held out the bag of herbs.
+
+14180	Rizna Lanfbitt	「身体の調子が良くなるらしいです。	「It apparently improves your physical condition.
+14181	+	　だから、どうぞ」	　So here, please take it.」
+
+14182	Rance	「あん？　俺にか」	「Huh? For me?」
+
+14183	Rizna Lanfbitt	「はい。ずっと忙しそうでしたから……	「Yes. You've seemed really busy lately......
+14184	+	　今回は本当で、よかったです」	　I'm glad it was real this time.」
+
+14185	-	リズナはランスに薬草を手渡すと、	Rizna handed the herbs to Rance,
+14186	+	踵を返して城へと入っていった。	then turned and went back into the castle.
+
+14187	Rance	「………………ふむ」	「............Hmm.」
+
+14188	Carolie Mate	「あー、ムラパセ草ですか。	「Ah, it's Murapase grass.
+14189	+	　珍しいですねー」	　That's pretty rare.」
+
+14190	Rance	「なんか、体に良いらしいが」	「Supposed to be good for the body.」
+
+14191	Carolie Mate	「そうですけど……	「It is, but......
+14192	+	　出産後のお母さんとかに飲ませるものですね」	　It's usually given to mothers after giving birth.」
+
+14193	Rance	「…………騙されてるではないか」	「............So I was tricked.」
+
+14194	Carolie Mate	「はい？」	「Yes?」
+
+14195	Rance	「いや、まあいい。	「Nah, whatever.
+14196	+	　それで茶でも入れてくれ」	　Just make me some tea.」
+
+14197	Carolie Mate	「はーいっ」	「Okaaay.」
+
+14198	-	程なくして、少し癖の強い香りが	Soon a somewhat strong, distinctive aroma
+14199	+	周囲を満たした。	filled the area.
+
+14200	Rance	「ずびびび…………」	「Slurp......」
+
+14201	Rance	「…………まずいな」	「............Tastes bad.」
+
+14202	-	文句を言いながら、	Complaining the whole time,
+14203	+	ランスはお茶を飲み干した。	Rance finished the tea.

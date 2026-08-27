@@ -1,0 +1,122 @@
+# 30931	２３０／２／エレナの襲撃／戦闘後	
+* Bandit	山賊	Male
+* Rance	ランス	Male
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Elena Flower	エレナ	Female
+* Sill Plain	シィル	Female
+* Kentou Kanami	かなみ	Female
+* Miracle Tor	ミラクル	Female
+* Crook Mofus	クルックー	Female
+
+40327	Bandit	「つ、強えぇっ……」	「S-so strong...」
+
+40328	Rance	「ふん。雑魚どもが」	「Hmph. Small fry.」
+
+40329	Free Cities Guard	「すげえ……あれだけの数を、あっさり……」	「Amazing... he took out all of them so easily...」
+
+40330	Elena Flower	「ちっ、ちくしょーーーーーーっ！　放しやがれ！」	「Tch, damn it! Let me go!」
+
+40331	-	捕まったエレナは、抵抗を緩めずに	The captured Elena thrashed wildly,
+40332	+	じたばたと暴れていた。	refusing to stop resisting.
+
+40333	Rance	「がはははは、だーめだ。君は戦利品なのだ。	「Gahahahaha, no can do. You're my spoils of war now.
+40334	+	　さあ…………って、ん？　どこかで会ったか？」	　Now then... wait, hm? Have we met before?」
+
+40335	Elena Flower	「てめぇ……てめぇ、は…………	「You... you...」
+40336	?	あーーーーーッ！」	Aaaaaah!!」
+
+40337	Sill Plain	「お知り合いなんですか？」	「You know her?」
+
+40338	Rance	「いや、うーん、どこかで……」	「Hmm, somewhere...」
+
+40339	Kentou Kanami	「……ヘルマンの時の、女傭兵でしょ。	「...She's that female mercenary from Helman.
+40340	+	　前はハンマー持ってたけど……」	　She used to carry a hammer...」
+
+40341	Rance	「おお！　それだそれ。	「Oh! That's right.
+40342	+	　エレナちゃんだエレナちゃん」	　It's Elena-chan!」
+
+40343	Kentou Kanami	「確か、呪いのハンマーのせいで	「I think the cursed hammer made her
+40344	+	　男っぽくなってたっていう子よね。	　act all masculine.
+40345	+	　呪いは解いたのに、なんで元に戻っちゃったの？」	　We lifted the curse, so why is she back to this?」
+
+40346	Elena Flower	「戻っただぁ？　ワケのわからねぇ事ほざくな！」	「Back to what? Don't spout nonsense!」
+
+40347	-	ランスに抑え込まれたまま、エレナが吼える。	Elena roared while pinned down by Rance.
+
+40348	Kentou Kanami	「え？」	「Eh?」
+
+40349	Miracle Tor	「違うぞ、見当かなみ。	「Wrong guess, Kanami.
+40350	+	　アレは血吸いギーコ。	　That's Bloodsucker Geeko.
+40351	+	　血吸いベッタンの、兄弟のようなものだ」	　It's like a brother to Bloodsucker Bettan.」
+
+40352	Kentou Kanami	「アレ、って……」	「That...」
+
+40353	Kentou Kanami	「もしかして……あのハンマー代わりのギザギザ剣？」	「You mean... that jagged sword instead of the hammer?」
+
+40354	Miracle Tor	「そう。持ち主に力を与えるが、	「Yes. It grants power to its wielder,
+40355	+	　その人格は封じられた悪魔のものになる。	　but the personality becomes that of a sealed demon.
+40356	+	　姉妹品と言っていいだろうな」	　You could call it a sister item.」
+
+40357	Miracle Tor	「違う点を上げるとすれば、	「The difference is,
+40358	+	　吸わせる血は人のものである必要はない。	　it doesn't need human blood.
+40359	+	　そのくらいか」	　That's about it.」
+
+40360	Rance	「前のハンマー野郎がなくなって、	「I thought when the previous hammer was gone,
+40361	+	　記憶もなくなったかと思ったのだがな」	　the memories would disappear too.」
+
+40362	Elena Flower	「けっ……人格は融合してたんだよ。	「Tch... the personality fused.
+40363	+	　半分は元々のものなんだから、	　Half is still the original,
+40364	+	　記憶もなくなってねぇ……くそ、離せ！」	　so the memories are still there... damn, let go!」
+
+40365	Rance	「がはははは、そうかそうか！	「Gahahahaha, I see, I see!
+40366	+	　じゃあ今度も呪いを…………ん？」	　Then this time the curse... hm?」
+
+40367	-	エレナに覆い被さろうとして、	As Rance moved to pin Elena down,
+40368	+	ランスの手が止まる。	his hand suddenly stopped.
+
+40369	Miracle Tor	「どうした、カオスマスター」	「What's wrong, Chaos Master?」
+
+40370	Rance	「思い出してきたぞ。	「I remember now.
+40371	+	　確か、エレナちゃんの呪いを解くには、	　To lift Elena-chan's curse,
+40372	+	　処女を奪うしかなかった」	　I had to take her virginity.」
+
+40373	Sill Plain~	（あぁ……そういう事があったんですね……）	（Ah... so that's what happened...）
+
+40374	Rance	「エレナちゃんは既に、処女じゃないぞ。	「Elena-chan is no longer a virgin.
+40375	+	　今回はどうやれば呪いが解けるのだ」	　So how do we lift the curse this time?」
+
+40376	Miracle Tor	「……後ろだ」	「...The back.」
+
+40377	Rance	「は？」	「Huh?」
+
+40378	Miracle Tor	「肛門性交を行えばいい。	「Anal sex will do it.
+40379	+	　どこかの暗がりで励んでくる事だな」	　Go do it somewhere dark.」
+
+40380	Rance	「ふーん。よしやるか」	「Hmm. Alright, let's do it.」
+
+40381	-	軽食でも取るか、というような気楽さで、	With the casualness of deciding on a light snack,
+40382	+	ランスはエレナに手を伸ばす。	Rance reached for Elena.
+
+40383	Elena Flower	「ぎゃ、ぎゃーーーーーー！　やめろ、変態！」	「Gyaa, gyaaaaah! Stop, you pervert!」
+
+40384	Rance	「がははは、これも世のため人のため。	「Gahahaha, this is for the good of the world and its people.
+40385	+	　呪いを解くため、いざセーーックス！」	　To break the curse, it's sex time!」
+
+40386	Crook Mofus	「ですが、いいのですか、ランス」	「But is this okay, Rance?」
+
+40387	-	ランスの脇で、クルックーがぼそりと呟いた。	Crook muttered quietly beside him.
+
+40388	Rance	「……………………いたのか、クルックー」	「........................You were there, Crook.」
+
+40389	Crook Mofus	「いますよ」	「I am.」
+
+40390	Rance	「で、いいのかってどういうことだ？」	「What do you mean 'is this okay?'?」
+
+40391	Crook Mofus	「血吸いギーコを握った	「Elena holding Bloodsucker Geeko
+40392	+	　エレナさんは戦力になります」	　can be a powerful asset.」
+
+40393	Crook Mofus	「そして吸わせる血は、人である必要はなく……	「And it doesn't need human blood...
+40394	+	　つまり、魔物のものでもOKです」	　Meaning monster blood works too.」
+
+40395	Rance~	（ふむ……戦力としてスカウトしても	（Hmm... recruiting her as a fighter
+40396	+	　悪くはないということか……どうするかな）	　wouldn't be bad... what to do.）

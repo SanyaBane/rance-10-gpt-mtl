@@ -1,0 +1,196 @@
+# 33351	６０８／シーラ謁見	
+* Nagata-kun	長田君２	Male
+* Reset Kalar	リセット２	Female
+* Helman Soldier	汎用ヘルマン兵	Male
+* Sheila Helman	シーラ２	Female
+* Zance Leazas	ザンス２	Male
+* Masou Shizuka	志津香２	Female
+* Yamamoto Rangi	乱義２	Male
+
+229919	-	あなた達は西ヘルマンの首都にある、	You were inside the castle
+229920	+	ラング・バウの城内にいた。	of Lang Bau, the capital of West Helman.
+
+229921	-	事前にリセットが手紙で	Thanks to Reset arranging an appointment by letter beforehand,
+229922	+	アポイントメントを取ってくれていたのもあり、	
+229923	+	特にトラブルもなく大統領執務室へと案内された。	you were guided to the President's office without any trouble.
+
+229924	Nagata-kun	「うおー、大統領と遂に会うのかー。	「Whoa, we're finally meeting the President.
+229925	+	　毎度毎度のことだけど、緊張するよなぁ」	　Even though it's routine, I'm nervous.」
+229926	+	「んなー？　そうだよなー？」	「Right? Yeah?」
+
+229927	Nagata-kun	「やっぱさー、失礼なこと言えないじゃん？	「After all, we can't say rude things, right?
+229928	+	　そうなるとどうしてもなー」	　So it gets tense.」
+
+229929	Nagata-kun	「お前って案外、肝が据わってるよな……」	「You're surprisingly gutsy...」
+
+229930	Nagata-kun	「俺は駄目、こういうのホント駄目。	「I'm no good at this, really bad.
+229931	+	　真面目にしないといけないのって、	　Having to act serious
+229932	+	　すんげー緊張すんだよなぁ」	　makes me super nervous.」
+
+229933	Reset Kalar	「ふふ、大丈夫だよ。	「Fufu, it'll be fine.
+229934	+	　シーラさんとっても優しい人だから」	　Sheila-san is a very kind person.」
+
+229935	Nagata-kun	「ほんとっすかぁ〜？」	「Really~?」
+
+229936	Helman Soldier	「ふっ……	「Fuu...
+229937	+	　私も大丈夫だと思いますよ」	　I think it'll be fine too.」
+
+229938	-	案内してくれていた兵士が、	The soldier guiding you
+229939	+	気さくに話しかけてきた。	spoke to you casually.
+
+229940	Helman Soldier	「プレジデント・シーラは、	「President Sheila has
+229941	+	　以前より皆様に会えるのを	　been looking forward to meeting you all
+229942	+	　それは楽しみにしてましたから」	　for a while now.」
+
+229943	Helman Soldier	「さ、大統領はこちらの部屋に」	「Now, the President is in this room.」
+
+229944	Nagata-kun	「うお、やべっ、ついにか！」	「Whoa, shit, it's finally happening!」
+
+229945	Helman Soldier	「大統領、皆様がおつきになりました」	「President, everyone has arrived.」
+
+229946	-	兵士のノックの後、	After the soldier knocked,
+229947	+	室内から綺麗な声がこちらまで届いた。	a beautiful voice came from inside.
+
+229948	Sheila Helman	「分かりました、どうぞ」	「Understood, please come in.」
+
+229949	Helman Soldier	「はい。	「Yes.
+229950	+	　失礼します」	　Excuse us.」
+
+229951	-	あなた達は少し緊張しながら、	Slightly nervous,
+229952	+	ゆっくりと大統領執務室への扉を開けた。	you slowly opened the door to the President's office.
+
+229953	Sheila Helman	「あっ……」	「Ah...」
+
+229954	-	室内にいた女性があなた達に振り返る。	The woman inside turned toward you.
+
+229955	Nagata-kun~	（うおっ、綺麗な人だなぁ）	（Whoa, she's beautiful.）
+
+229956	-	陽光を浴びてたなびく金髪が	Her golden hair shining in the sunlight
+229957	+	キラキラと光を反射させていた。	sparkled brilliantly.
+
+229958	Sheila Helman	「ああっ、みんな、いらっしゃい」	「Ah, everyone, welcome.」
+
+229959	Nagata-kun	「あ、あれ？」	「A-Are?」
+
+229960	Sheila Helman	「さあさあ、長旅で疲れたでしょう？	「Come come, you must be tired from the long journey?
+229961	+	　早く座って、座って。	　Sit down quickly.
+229962	+	　今お茶淹れますからね」	　I'll brew some tea now.」
+
+229963	-	テーブルの上にはシーラ大統領が用意したらしき、	On the table were tea and light snacks
+229964	+	お茶と軽食がズラリと並べられていた。	that President Sheila had apparently prepared.
+
+229965	?	「あ、あの、シーラ様……	「U-Um, Lady Sheila...
+229966	+	　そういうことは私が……」	　I should do that...」
+
+229967	Sheila Helman	「ううん、いいの、いいの。	「No no, it's fine.
+229968	+	　私がしたいんだから、任せて、ね？」	　I want to do it, so leave it to me, okay?」
+
+229969	?	「あ、ああ、もう……」	「A-Ah, geez...」
+
+229970	-	メイドが止めようとするのを制して、	Stopping the maid who tried to intervene,
+229971	+	大統領はうきうきしながら、	the President happily
+229972	+	いそいそとお茶を淹れていた。	bustled about brewing the tea.
+
+229973	Sheila Helman	「ほらほら、みんなどうしたの？	「Come on everyone, what's wrong?
+229974	+	　遠慮なんてしなくていいんですからね」	　No need to hold back.」
+
+229975	Nagata-kun	「……友達ん家の	「...She's like
+229976	+	　めっちゃ気さくなお母さんみたいな人だ」	　a super friendly mom from a friend's house.」
+
+229977	Reset Kalar	「ふふふ、だから言ったでしょー？」	「Fufufu, see? I told you.」
+
+229978	Zance Leazas	「変わんねーな、この人も……」	「She's the same as always...」
+
+229979	Sheila Helman	「それじゃあ、改めて……」	「Now then, once again...」
+
+229980	Sheila Helman	「…………」	「............」
+
+229981	Sheila Helman	「ふふ……	「Fufu...
+229982	+	　みんな、いらっしゃい」	　Everyone, welcome.」
+
+229983	-	穏やかな微笑みをたたえて、	With a gentle smile,
+229984	+	大統領、シーラ・ヘルマンはあなた達を迎えた。	President Sheila Helman welcomed you all.
+
+229985	-	あなた達は執務室にある、	You sat on the large sofa in the office,
+229986	+	大きなソファに座りながら、	
+229987	+	大統領手ずから淹れてくれたお茶を飲んでいた。	drinking the tea the President had personally brewed.
+
+229988	Sheila Helman	「ふふ、それにしても、	「Fufu, anyway,
+229989	+	　皆さん元気そうで安心した」	　I'm relieved to see you all looking well.」
+
+229990	Sheila Helman	「それに、こんな大きく、立派になって……」	「And you've all grown so big and splendid...」
+
+229991	Sheila Helman	「っ……	「...」
+229992	+	　本当に、みんな大きくなりましたね」	　You've all really grown up.」
+
+229993	-	じわり。	Tears welled up.
+229994	+	シーラの瞳に涙が浮かぶ。	Tears appeared in Sheila's eyes.
+
+229995	Sheila Helman	「本当に……よく頑張って……」	「You've all worked so hard...」
+
+229996	Zance Leazas	「やめろ……うっとうしい」	「Stop... it's annoying.」
+
+229997	Sheila Helman	「あ、うん、ごめんね。	「Ah, yeah, sorry.
+229998	+	　ザンスちゃん湿っぽいの嫌いだものね」	　Zance-chan hates sentimental stuff.」
+
+229999	Zance Leazas	「…………」	「............」
+
+230000	Nagata-kun	「す、すごい顔してるな……」	「S-She has an amazing expression...」
+
+230001	Zance Leazas	「この国が嫌いなら、	「If you hate this country,
+230002	+	　この大統領も嫌いなんだよ……	　then you must hate this president too...
+230003	+	　やりにくいったらありゃしねぇ」	　This makes things so damn awkward.」
+
+230004	Sheila Helman	「志津香さんにナギちゃんも大きくなって……」	「Shizuka-san and Nagi-chan have both grown so much...」
+
+230005	Sheila Helman	「ふふ、もうお膝の上に抱えて	「Fufu, I can't hold them on my lap anymore
+230006	+	　頭を撫でることなんて出来ないですね」	　and pat their heads like I used to.」
+
+230007	Masou Shizuka	「……しなくていい。	「...You don't have to.
+230008	+	　それは昔から」	　That was only back then.」
+
+230009	Nagata-kun	「ところでさ……	「By the way...
+230010	+	　さっきから気になってたんだけど――」	　I've been wondering this whole time――」
+
+230011	Nagata-kun	「レリコフって人はいないの？」	「Isn't there someone named Lelikov Helman?」
+
+230012	Sheila Helman	「うっ……」	「Ugh...」
+
+230013	-	シーラの動きが止まった。	Sheila's movements froze.
+
+230014	Zance Leazas	「おいおいおい……んだぁ、その顔はよぉ……」	「Hey hey hey... What's with that face...」
+
+230015	Yamamoto Rangi	「……嫌な予感がするな」	「...I've got a bad feeling about this.」
+
+230016	Sheila Helman	「実は……」	「Actually...」
+
+230017	Zance Leazas	「アア！？　先にオーブを探しに行っただぁ！？」	「Haa!? She went looking for the orb ahead of us!?」
+
+230018	Sheila Helman	「はい、そうなんです……」	「Yes, that's right...」
+
+230019	Sheila Helman	「リセットちゃんからの手紙を読んで、	「After reading the letter from Reset-chan,
+230020	+	　あの子にも事前に言っておこうと……	　I thought I should tell her in advance...
+230021	+	　それが良くなかったんですね」	　That turned out to be a mistake.」
+
+230022	Sheila Helman	「ヒーロー君を連れて、	「She took Hero-kun with her,
+230023	+	　先に取ってくると向かってしまって……」	　and headed out to get it first...
+
+230024	Sheila Helman	「皆が来てから向かいなさいって言ったのに……」	　Even though I told her to wait until everyone arrived...」
+
+230025	Nagata-kun	「また魔王の子だけがいないパターンか……」	「So it's the pattern where the Demon King's kid is missing again...」
+
+230026	Zance Leazas	「ったく、あのスカポンタンが……」	「That damn airhead...」
+
+230027	Reset Kalar	「こうなったら私達も追いかけないと！	「Then we have no choice but to chase after them!
+230028	+	　あの、オーブはどこに？」	　Um, where is the orb?」
+
+230029	Sheila Helman	「はい、もう分かっていますけど……	「Yes, I already know where it is, but...
+230030	+	　少し大変な場所ですよ？」	　It's a rather tough location.」
+
+230031	Yamamoto Rangi	「大変な場所には行き慣れてます。	「We're used to tough places.
+230032	+	　ご安心を」	　Please don't worry.」
+
+230033	Sheila Helman	「分かりました……」	「Understood...」
+
+230034	Sheila Helman	「シベリア……氷雪地帯の奥にある、	「It's in Siberia... deep within the ice and snow region,
+230035	+	　ホルスの巨大戦艦の中にあります」	　inside Horus's massive battleship.」

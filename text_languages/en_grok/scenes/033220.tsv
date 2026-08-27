@@ -1,0 +1,295 @@
+# 33220	６０３／事件発生	route
+* Rocky Bank	ロッキー２	Male
+* Nagi su Ragarl	ナギ２	Female
+* Nagata-kun	長田君２	Male
+* Masou Shizuka	志津香２	Female
+* Vital Fit	バイタル	Male
+* Old Man	汎用爺	Male
+* El Mofus	エール２	Player's choice
+* Reset Kalar	リセット２	Female
+
+214424	Rocky Bank	「……おや？」	「...Oh?」
+
+214425	-	ロビーには沢山の人間が集まり、	A large crowd had gathered in the lobby,
+214426	+	警備員らしき者までいた。	and even what looked like security guards.
+
+214427	Nagi su Ragarl	「面倒ごとの予感……」	「I sense trouble...」
+
+214428	Nagi su Ragarl	「回れ右して裏口から宿屋を出ようぜー」	「Let's turn around and leave through the back door.」
+
+214429	Nagata-kun	「判断はやっ……」	「Quick decision...」
+
+214430	Masou Shizuka	「面倒ごとは私もごめんね。	「I don't want trouble either.
+214431	+	　ここはナギの言う通り――」	　Let's do as Nagi says――」
+
+214432	Vital Fit	「ああ、すみません！　そこの皆さん！	「Ah, excuse me! Everyone over there!
+214433	+	　こちらに来て協力して下さいませんか！？」	　Could you please come here and help!?」
+
+214434	Masou Shizuka	「……遅かったみたいね」	「...Too late, it seems.」
+
+214435	-	志津香が深い溜め息を吐いた。	Shizuka let out a deep sigh.
+
+214436	Old Man	「挨拶が遅れ申し訳ありません。	「Sorry for the late greeting.
+214437	+	　私はこの宿の支配人のムラクモと申します。	　I am the manager of this inn, Murakumo.」
+214438	+	　そしてこちらが宿の警備員、バイタル」	　And this is the inn's security guard, Vital.」
+
+214439	Vital Fit	「すみませんが、捜査に協力を	「Sorry to trouble you, but we'd like your cooperation
+214440	+	　お願いしたいのですが……」	　with the investigation...」
+
+214441	Rocky Bank	「捜査？	「Investigation?
+214442	+	　あのぉ、何かあっただすか？」	　Um, did something happen?」
+
+214443	Vital Fit	「それが……泥棒です」	「Well... It's a theft.
+
+214444	Vital Fit	「昨夜、魔王が現れたことで、	　Last night when the Demon King appeared,
+214445	+	　宿屋内が空っぽになりましたが……」	　the inn became empty, but...」
+
+214446	Vital Fit	「それに乗じて……	「Taking advantage of that...
+214447	+	　火事場泥棒が部屋中を	　a thief ransacked the rooms
+214448	+	　荒らし回ったようでして……」	　one after another...」
+
+214449	Rocky Bank	「ええっ！？」	「Ehh!?」
+
+214450	Vital Fit	「申し訳ありません……	「I'm very sorry...
+214451	+	　私の責任です」	　This is my responsibility.」
+
+214452	Old Man	「当然じゃ！	「Of course!
+214453	+	　ええい、そんな当たり前のことはいいから、	　Enough with the obvious, 
+214454	+	　とっとと仕事を進めんか！　馬鹿もん！」	　get on with the work, you idiot!」
+
+214455	Vital Fit	「も、申し訳ありません！」	「S-Sorry!」
+
+214456	Vital Fit	「現在、取られたものの確認作業中です。	「We're currently checking what was stolen.
+214457	+	　皆さんも部屋に戻って、なくなったものが	　Please return to your rooms and check
+214458	+	　ないか確認して下さいませんか？」	　if anything is missing.」
+
+214459	Rocky Bank	「わ、分かりましただ！」	「U-Understood!」
+
+214460	Nagi su Ragarl	「はあ……	「Haa...
+214461	+	　なんかよく分からないことになったね……」	　This has become something complicated...」
+
+214462	Masou Shizuka	「魔王襲撃の次は泥棒騒ぎって……	「After a Demon King attack comes a theft incident...
+214463	+	　この宿屋呪われてるんじゃないの？」	　Is this inn cursed?」
+
+214464	-	なにはともあれ、	At any rate,
+214465	+	皆で荷物の確認に戻ることとなった。	everyone went back to check their luggage.
+
+214466	Nagata-kun	「あーーーーっ！？！？！？」	「Aaaaaaaah!?」
+
+214467	Nagata-kun	「聞いてくれよ、＜エール＞！	「Listen to this, ＜エール＞!
+214468	+	　俺のブレスレットやネックレス、	　My bracelets and necklaces,
+214469	+	　貴金属が根こそぎやられてやがる！」	　all my valuables are completely gone!」
+
+214470	Nagata-kun	「くそー！　安物ばっかだったけどよぉ！	「Damn it! They were cheap stuff, but
+214471	+	　全部まとめれば結構いい額いくんだぞぉ！」	　together they were worth a decent amount!」
+
+214472	Nagata-kun	「あん？　お前もなんか盗まれたのか？」	「Huh? Did they steal something from you too?」
+
+214473	El Mofus	「…………。」	「............」
+
+214474	Nagata-kun	「あー、はいはい。	「Ah, yeah yeah.
+214475	+	　各国の指導者に宛てた紹介状、	　The introduction letters to the leaders of various countries,
+214476	+	　あれが根こそぎなくなってたのか」	　those are all gone too.
+
+214477	Nagata-kun	「って、大変じゃねぇか！？」	　This is bad, isn't it!?
+
+214478	Nagata-kun	「やっべ……どうすっぺ……」	　Shit... What do we do...」
+
+214479	-	あなた達は部屋を出ると、	After leaving your rooms,
+214480	+	客や従業員が集められている	you returned to the lobby
+214481	+	ロビーに戻ってきた。	where guests and staff had gathered.
+
+214482	Nagi su Ragarl	「お、出て来た。	「Oh, you're back.
+214483	+	　＜エール＞、そっちはどうだった？」	　＜エール＞, how was it on your end?」
+
+214484	El Mofus	「…………。」	「............」
+214485	Nagata-kun	「他のものはともかく、	「Leaving other things aside,
+214486	+	　紹介状が盗まれたのはなぁ……	　the introduction letters being stolen is...
+214487	+	　あればかりは金じゃ換えられないぞ……」	　those can't be replaced with money...」
+
+214488	Nagata-kun	「大したことあったよ！？」	「It was a big deal!?」
+
+214489	Nagata-kun	「それが各国宛の招待状が取られてて……	「The invitation letters to each country were taken...
+214490	+	　結構ピンチっすね……」	　We're in quite a pinch...」
+
+214491	Nagi su Ragarl	「こっちも結構やられちゃった。	「We got hit pretty hard too.
+214492	+	　手当たり次第に持ってかれたって感じね」	　It feels like they grabbed whatever they could.」
+
+214493	Masou Shizuka	「あら？　ロッキーさんは？」	「Oh? Where's Rocky?」
+
+214494	Nagata-kun	「あ、ロッキーさんは主人のお子様と	「Ah, Rocky said he couldn't sleep in the same room
+214495	+	　同じ部屋に寝るわけにはいかないだすって、	　as the master's child,
+214496	+	　一番安い部屋に泊まってるみたいっす」	　so he's staying in the cheapest room.」
+
+214497	Masou Shizuka	「そういうとこ、変わらないわねぇ」	「He hasn't changed in that regard.」
+
+214498	Nagi su Ragarl	「あ、戻ってきた」	「Ah, he's back.」
+
+214499	-	ロッキーが警備員と連れだって帰ってきた。	Rocky returned accompanied by the security guard.
+
+214500	Vital Fit	「えーと、皆さん、ご報告します。	「Um, everyone, I have a report.
+214501	+	　彼が窃盗の犯人です」	　He is the thief.」
+
+214502	Nagata-kun	「って、えーーーーっ！？」	「Wait, ehhhhh!?」
+
+214503	-	何故かロッキーは捕まっていた。	For some reason Rocky was under arrest.
+
+214504	Rocky Bank	「お、おら、やってないだすー！	「I-I didn't do it!
+214505	+	　何も知らないだすー！」	　I don't know anything!」
+
+214506	Masou Shizuka	「ちょ、ちょっと待ちなさいよ！	「W-Wait a minute!
+214507	+	　窃盗の犯人って……証拠は！？」	　Calling him the thief... What's the evidence!?」
+
+214508	Old Man	「この男の部屋から、	「From this man's room,
+214509	+	　今回窃盗にあったものが一点	　one of the stolen items
+214510	+	　見つかりましてな……」	　was found...」
+
+214511	Rocky Bank	「うう……た、確かに盗まれたものは	「Uuu... I-It is true that a stolen item
+214512	+	　おらの部屋にありましただ……」	　was in my room...」
+
+214513	Rocky Bank	「で、でも本当に犯人じゃ……」	「B-But I'm really not the culprit...」
+
+214514	Old Man	「ふん、白々しい！」	「Hmph, how shameless!」
+
+214515	Old Man	「それに聞けばこの男、	「Moreover, I heard this man
+214516	+	　昨夜は宿屋内に残っていたそうではないか」	　stayed inside the inn last night.」
+
+214517	Rocky Bank	「うっ、それは……」	「Ugh, that's...」
+
+214518	Old Man	「これでは犯人と思うなという方が無理じゃ！」	「It's impossible not to think he's the culprit!」
+
+214519	Rocky Bank	「そ、そんなぁ……」	「N-No way...」
+
+214520	-	　	　
+214521	+	　　＜ざわざわ……＞	　　＜Buzz buzz...＞
+
+214522	?	「あいつが犯人なのか……？」	「So he's the culprit...?」
+
+214523	?	「確かに盗みくらいはしそうな	「He does have a face that looks like
+214524	+	　いかつい顔をしてるわね……」	　he could commit theft...」
+
+214525	Rocky Bank	「うう、不名誉だす、ひどいだす……	「Uuu, this is dishonorable, it's terrible...
+214526	+	　本当に違うだすのに……」	　Even though I'm really innocent...」
+
+214527	Nagata-kun	「ちょ、待てよ！	「W-Wait!
+214528	+	　ロッキーさんはそんなことする人じゃねぇぞ！」	　Rocky isn't the kind of person who would do that!」
+
+214529	Rocky Bank	「な、長田君……」	「N-Nagata-kun...」
+
+214530	Nagata-kun	「そんなことする人じゃなかったのに！	「You weren't that kind of person!
+214531	+	　何があんたを変えたんだ！？	　What changed you!?
+214532	+	　見損なったぞ、ロッキーさん！」	　I'm disappointed in you, Rocky-san!」
+
+214533	Rocky Bank	「やややや、やってないだすよー！	「N-No, I didn't do it!
+214534	+	　信じて欲しいだー！」	　Please believe me!」
+
+214535	Old Man	「ええい、とにかくお前は今から取り調べじゃ！	「Enough, you're coming in for questioning right now!
+214536	+	　おい、もたもたせんと連れて行け！」	　Hey, stop dawdling and take him away!」
+
+214537	Vital Fit	「は、はいっ！　おい、誰か彼を別室に……」	「Y-Yes! Someone take him to another room...」
+
+214538	Rocky Bank	「あっ、あー！　＜エール＞様ー！」	「Ah, aaah! ＜エール＞-sama!」
+
+214539	-	ロッキーはあなたの名を叫びながら、	Rocky shouted your name
+214540	+	警備隊に連れられていった。	as he was taken away by the guards.
+
+214541	Old Man	「さて、貴方達にも色々と	「Now, we need to hear from you all
+214542	+	　話を聞かねばならないようだな……」	　as well...」
+
+214543	Nagata-kun	「うむむむ……＜エール＞、どうする？」	「Umm... ＜エール＞, what should we do?」
+
+214544	El Mofus	「…………。」	「............」
+214545	Masou Shizuka	「……あんたがそれでいいなら」	「...If that's what you want.」
+
+214546	Nagi su Ragarl	「ま、仕方ないよね」	「Well, can't be helped.」
+
+214547	Nagata-kun	「くそぉ、俺達も被害者なのにぃ……」	「Damn, we're victims too...」
+
+214548	Vital Fit	「す、すみません……	「S-Sorry...
+214549	+	　皆さんからもお話をお聞かせ願えませんか……」	　Could we hear your stories too...」
+
+214550	Reset Kalar	「ちょっと待ったーーーーッ！」	「Wait a minuteeeeeee!」
+
+214551	Vital Fit	「えっ……」	「Eh...」
+
+214552	Reset Kalar	「…………」	「............」
+
+214553	-	制止の声をあげたのは、	The one who raised her voice to stop them was
+214554	+	昨日酒場で会ったローブの少女だった。	the robed girl you met in the bar yesterday.
+
+214555	Vital Fit	「あ、あなたは……」	「Y-You are...」
+
+214556	Old Man	「ああ、儂が呼んだんじゃ」	「Ah, I called her.
+
+214557	Old Man	「この手の問題では彼女が頼りになるからのう。	　She's reliable with this kind of problem.
+214558	+	　バイタル、彼女の指示に従うように」	　Vital, follow her instructions.」
+
+214559	Vital Fit	「は、はい、分かりました」	「Y-Yes, understood.」
+
+214560	Nagata-kun	「えっ、えっ！　何者よ、あの子！」	「Eh, eh! Who is that girl!」
+
+214561	Reset Kalar	「…………」	「............」
+
+214562	Reset Kalar	「な……」	「Na...」
+
+214563	-	少女はふいっと顔を逸らした。	The girl suddenly turned her face away.
+
+214564	Reset Kalar	「……謎の美少女探偵」	「...Mysterious beautiful girl detective.」
+
+214565	Nagi su Ragarl	「美少女って言った？」	「Did you say beautiful girl?」
+
+214566	Reset Kalar	「ちが……私が言ったわけじゃ……」	「No... I didn't say that...」
+
+214567	Nagi su Ragarl	「今、美少女って言ったよね？	「You just said beautiful girl, right?
+214568	+	　間違いなく自分で言ったよね？」	　You definitely said it yourself, right?」
+
+214569	Reset Kalar	「いや……昨日、そう言われただけで……」	「No... Someone said that to me yesterday...」
+
+214570	-	探偵は現場に来た瞬間から、	From the moment the detective arrived at the scene,
+214571	+	もにょもにょ喋っていた。	she had been mumbling shyly.
+
+214572	Reset Kalar	「こ、こほん！」	「C-Cough!」
+
+214573	Reset Kalar	「とにかく、そういう話なので！	「Anyway, that's the situation!
+214574	+	　この現場は私が預かります！」	　I'll take charge of this scene!」
+
+214575	Reset Kalar	「…………」	「............」
+
+214576	Reset Kalar	「本来、探偵じゃないんですけど……	「I'm not actually a detective, but...
+214577	+	　頑張りますので、宜しくお願いします」	　I'll do my best, so please treat me well.」
+
+214578	Nagi su Ragarl	「背も腰も低い探偵だね……	「What a short detective with a low waist...
+214579	+	　本当に大丈夫？」	　Are you really okay?」
+
+214580	Masou Shizuka	「ナギ、からかわないの」	「Nagi, stop teasing her.」
+
+214581	Nagi su Ragarl	「にひひひ」	「Nihihi」
+
+> male
+214582	Reset Kalar	「えーと、お兄さん」	「Umm, big brother.」
+
+> female
+214583	Reset Kalar	「えーと、お姉さん」	「Umm, big sister.」
+
+> end
+214584	Reset Kalar	「えへへ、広場に来ないから	「Ehehe, you didn't come to the square
+214585	+	　様子を見に来ただけなんだけど……	　so I came to check on you...
+214586	+	　お互いなんだか変なことになっちゃったね」	　and we both got caught up in something weird.」
+
+214587	Reset Kalar	「それで、聞きたいんだけど……	「So, I wanted to ask...
+214588	+	　＜エール＞ちゃんはロッキーさんが	　＜エール＞-chan, do you think Rocky-san
+214589	+	　犯人だと思う？」	　is the culprit?」
+214590	+	「…………」	「............」
+
+214591	-	どうやら少女はローブの中で、	It seemed the girl was smiling
+214592	+	にっこりと笑っているようだ。	brightly under her robe.
+
+214593	Reset Kalar	「そっか」	「I see.」
+
+214594	Reset Kalar	「うん、そうだね。	「Yeah, that's right.
+214595	+	　私も信じてる」	　I believe in him too.」
+
+214596	Reset Kalar	「よーし、頑張って犯人探すから、	「Alright, I'll work hard to find the real culprit,
+214597	+	　私に任せといてね！」	　so leave it to me!」
+
+214598	Reset Kalar	「調査、開始！」	「Investigation, start!」

@@ -1,0 +1,316 @@
+# 30942	２３０／３／ガルティア登場	
+* Galtia	ガルティア	Male
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Martina Curry	マルチナ	Female
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Satella	サテラ	Female
+* Chaos	カオス	Male
+* Oda Kouhime	香姫	Female
+* Uesugi Kenshin	謙信	Female
+
+41222	-	――巨大ホフホフ、最深部。	--Deepest part of the giant Hoffhoff.
+
+41223	-	そこでは、ほぼ一昼夜の間、	There, for nearly a full day and night,
+41224	+	尽きることなく咀嚼音が響き続けていた。	the sound of endless chewing echoed.
+
+41225	-	飢餓の魔人、ガルティア。	The Fiend of Hunger, Galtia.
+41226	+	人間どころか魔物の範疇にもない、	An abnormal monster who consumes
+41227	+	異常な量の食事を常に行う魔人である。	far beyond human or even monster limits.
+
+41228	-	その食事量は体長50mを越す魔人バボラに比肩し、	His intake rivals even the 50-meter Fiend Babolat,
+41229	+	外見上の身体の許容量など、	completely ignoring the limits of his physical body.
+41230	+	意にも介さない食事ぶりだった。	and eating without restraint.
+
+41231	Galtia	「んー、おう、うめえうめえ……はすんの唐揚げか。	「Mmm, oh yeah, delicious... Fried lotus root.
+41232	+	　ニンニクを一緒に揚げてるのが憎いじゃねえか」	　Frying the garlic with it is just evil.」
+
+41233	Galtia	「お……んぐんぐ……がりごり……	「Oh... munch munch... crunch crunch...
+41234	+	　こっちのうろろーんもいいな。	　This uron is good too.
+41235	+	　この食感が醍醐味だよな。うんうん」	　That texture is the best. Yeah yeah.」
+
+41236	-	機嫌良く、しかし喋る口と食べる口が別々なのかと	In a good mood, yet at a speed that made one wonder
+41237	+	疑いたくなる速度で、魔人は料理を平らげていく。	if he had separate mouths for talking and eating, the Fiend devoured the dishes.
+
+41238	Galtia	「おっ、金魚シチューか。	「Oh, goldfish stew.
+41239	+	　これも美味そうだ…………んっ」	　This looks tasty too...... Hm.」
+
+41240	-	口にした途端、ガルティアの手が止まる。	The moment he took a bite, Galtia's hand stopped.
+
+41241	Green Monster Soldier	「……ど、どうかなさいましたか、ガルティア様」	「...Is something wrong, Lord Galtia?」
+
+41242	-	眉根を寄せ、器を傾けてもう一口呑み込む。	Frowning, he tilted the bowl and took another sip.
+41243	+	表情は、更に険しくなった。	His expression grew even more stern.
+
+41244	Galtia	「おい。これを作った奴を連れてこい」	「Hey. Bring me the one who made this.」
+
+41245	Green Monster Soldier	「は、ははっ！」	「Y-yes!」
+
+41246	-	低い声で命じられた魔物兵は、	The monster soldier, ordered in a low voice,
+41247	+	弾かれたように駆け出した。	dashed off like a spring.
+
+41248	-	やがて、コックコートに長いコック帽の男が	Soon, a man in a cook's coat and tall hat
+41249	+	連れてこられた。	was brought before him.
+
+41250	?	「な、なな、なんでございましょう……	「W-what is it...
+41251	+	　私めの料理に、何か落ち度でも……」	　Is there something wrong with my cooking...?」
+
+41252	Galtia	「……………………」	「........................」
+
+41253	?	「ししし、失礼ながら、魔人様……	「E-excuse me, great Fiend...
+41254	+	　お口に合いませんでしたら残念でございます……」	　If it didn't suit your taste, I'm truly sorry...」
+
+41255	?	「私、ゼスでは三つ星を五年連続で受けております。	「I received three stars in Zeth for five years straight.
+41256	+	　人間界では、評判の料理なのでございます。	　It's highly regarded in the human world.
+41257	+	　もし魔人様の味覚に合いませんでしたら……」	　If it doesn't match your palate...」
+
+41258	Galtia	「てめぇ、手を抜いたな」	「You cut corners, didn't you?」
+
+41259	?	「…………ッ！？　ななな、なんの……」	「......!? W-what...」
+
+41260	Galtia	「分かるんだよ、そういうのはな……」	「I can tell when someone cuts corners...」
+
+41261	?	「は……あ、いえ……	「Y-yes... No...
+41262	+	　その、技量が及びませんで……」	　My skill wasn't enough...」
+
+41263	Galtia	「吹くんじゃねえよ。	「Don't bullshit me.
+41264	+	　基本は抑えてるのに細かい所は手を抜いてるだろ」	　You held back the basics but skimped on the details.」
+
+41265	Galtia	「具の煮え具合にバラツキがある。	「The ingredients have uneven doneness.
+41266	+	　火の通る速度を無視してまとめてぶち込んだだろ」	　You just threw them in ignoring cooking times.」
+
+41267	?	「う、う、ぐ…………！」	「U-ugh...!」
+
+41268	?	（い、いっつも呑み込んでるだけじゃないか！	（He always just swallows everything!
+41269	+	　なんで、なんでバレたんだ……！？）	　How did he notice...!?）
+
+41270	Galtia	「出来る奴がやらねぇ、ってのは俺は嫌ぇだ。	「I hate it when someone capable doesn't give their all.
+41271	+	　舐めてる、って事だろう、そりゃあ」	　That's basically looking down on the ingredients.」
+
+41272	?	「い、いえ！　魔人様に、そんな……！	「N-no! I would never look down on you...!
+41273	+	　めっそうもない！」	　Impossible!」
+
+41274	Galtia	「俺じゃねぇよ、バカ野郎。食材にだ」	「Not on me, you idiot. On the ingredients.」
+
+41275	?	「………………！？　あ、ぅ……！」	「............!? A-ah...!」
+
+41276	-	ガルティアの眼光が、鋭くなる。	Galtia's gaze sharpened.
+41277	+	語気を荒げず、しかし滲み出る怒気は	Without raising his voice, the leaking anger
+41278	+	ほとんど物理的な圧力となりつつあった。	became almost physical pressure.
+
+41279	Galtia	「てめぇには料理人のプライドってのはねえのか。	「Don't you have any pride as a cook?
+41280	+	　食材に生かしてもらってんだろうが」	　The ingredients are what give you life.」
+
+41281	?	「あ…………あぁ、ううぅぅ…………」	「A...... Ah, uuuu......」
+
+41282	-	睨みつけるガルティアに、	Under Galtia's glare,
+41283	+	料理人は出す声もなく震え上がる。	the cook trembled without making a sound.
+
+41284	Galtia	「……ちっ、てめぇは要らねぇな。処分しろ」	「...Tch, I don't need you. Dispose of him.」
+
+41285	Green Monster Soldier	「はっ」	「Yes!」
+
+41286	-	傍らの魔物兵が、料理人の腕を掴んだ。	The nearby monster soldier grabbed the cook's arm.
+
+41287	?	「ひいいいっ！　ま、待って……！」	「Hiiii! W-wait...!」
+
+41288	Green Monster Soldier	「立て。歩け！」	「Stand. Walk!」
+
+41289	Martina Curry	「っ、待ってください！」	「W-wait please!」
+
+41290	-	引っ立てられ、連れて行かれようとしたその時。	Just as he was being dragged away.
+41291	+	マルチナ・カレーが部屋に飛び込んできた。	Martina Curry burst into the room.
+
+41292	Galtia	「おう、総料理長。おかわりかい？」	「Oh, Head Chef. Seconds?」
+
+41293	Martina Curry	「すみません、その……私の責任です。	「I'm sorry... This is my responsibility.
+41294	+	　管理が甘くて……」	　My management was too lax...」
+
+41295	Galtia	「いや。あんたの腕は本物だ。	「No. Your skill is real.
+41296	+	　しかも真面目にやってくれてる。	　And you work seriously.
+41297	+	　たまにこういうバカがいるのは仕方ないさ」	　Occasional idiots like this can't be helped.」
+
+41298	Martina Curry	「それは……しかし、殺すほどのことは……」	「Even so... Killing him is too much...」
+
+41299	Galtia	「ない、ってか？	「You think not?
+41300	+	　残念だが、そうはいかねえな」	　Sorry, but that's not how it works.」
+
+41301	-	ピロシキを手にしてかぶりつき、	Biting into a piroshki,
+41302	+	スメルスメルの山盛りを平らげながら、	while devouring a mountain of Smersmel,
+41303	+	ガルティアは言葉を続けた。	Galtia continued speaking.
+
+41304	Galtia	「俺があんたらを生かしてるのは、	「The reason I keep you all alive
+41305	+	　料理と、それを作る料理人を尊敬しているからだ。	　is because I respect cooking and the cooks who make it.
+41306	+	　もちろん、食うメシのためでもあるがな」	　Of course, it's also for the meals I eat.」
+
+41307	Martina Curry	「……………………」	「........................」
+
+41308	Galtia	「その料理に敬意を払わない奴は生かす理由がない。	「Anyone who doesn't show respect to the food has no reason to live.
+41309	+	　威張るだけで食材を舐めてる奴は、	　Those who act arrogant and look down on ingredients
+41310	+	　見ているだけで腹が立つ」	　just piss me off to watch.」
+
+41311	Martina Curry	「分かりました……では、これを」	「Understood... Then please take this.」
+
+41312	-	マルチナはずらりと並べられた料理の中から、	Martina picked one dish from the lined-up meals
+41313	+	一皿を手にしてガルティアに差し出した。	and offered it to Galtia.
+
+41314	Galtia	「JAPANのとろろん麩か……ずるる……	「Japan's tororon fu... Slurp...
+41315	+	　うん、うめえ。あんたの皿だな？」	　Yeah, delicious. This is your dish?」
+
+41316	Martina Curry	「はい、ですが下ごしらえしてくれたのは彼です」	「Yes, but he did the preparation.」
+
+41317	?	「あ……あ、あ……」	「Ah... A-ah...」
+
+41318	Galtia	「…………ははぁ。なるほどな」	「............I see.」
+
+41319	-	ガルティアは少しだけ面白そうに、マルチナを見た。	Galtia looked at Martina with slight amusement.
+
+41320	Galtia	「………………」	「............」
+
+41321	Martina Curry	「……………………」	「........................」
+
+41322	-	魔人に直視される圧力に、	Under the pressure of the Fiend's direct gaze,
+41323	+	マルチナの手が無意識に、ズボンの裾を握り込んだ。	Martina unconsciously gripped the hem of her pants.
+
+41324	Galtia	「……いいぜ、あんたの手伝いだけさせとけ」	「...Fine, let him help you only.」
+
+41325	Martina Curry	「ッ、ありがとうございます！	「T-thank you very much!
+41326	+	　さ、戻ってください」	　Now, please go back.」
+
+41327	?	「は、はひぃっ……は、は……っ……！」	「Y-yes... Y-yess...!」
+
+41328	-	こけつまろびつ、料理人は駆けていった。	Stumbling and falling, the cook ran off.
+
+41329	Galtia	「なあ、総料理長」	「Hey, Head Chef.」
+
+41330	Martina Curry	「……はい」	「...Yes.」
+
+41331	-	背を向けたマルチナに、	To Martina who had turned away,
+41332	+	ガルティアは改めて声を掛けた。	Galtia called out again.
+
+41333	Galtia	「あのとろろん麩……仕上げる段階で、	「That tororon fu... You fixed it quite a bit
+41334	+	　だいぶ直しただろ。	　at the final stage, didn't you.
+41335	+	　他より、ちょっぴり調味料が多いぜ」	　A bit more seasoning than the others.」
+
+41336	Martina Curry	「…………っ……それ、は……」	「......T-that is...」
+
+41337	Galtia	「ま、今回はいい。言ったろ、	「Well, it's fine this time. I told you,
+41338	+	　俺はあんたみたいなのを尊敬してるんだ。	　I respect people like you.
+41339	+	　……次はないけどな」	　...But there won't be a next time.」
+
+41340	Martina Curry	「……すぐに次の皿を作ってきます」	「...I'll prepare the next dish right away.」
+
+41341	-	会釈をして、マルチナは小走りで駆け去っていった。	With a bow, Martina hurried off.
+
+41342	Galtia	「…………ふん」	「............Hmph.」
+
+41343	-	ガルティアは、彼曰く手抜きの	Galtia finished the rest of the
+41344	+	金魚シチューの残りを平らげた。	goldfish stew that he called half-assed.
+
+41345	Green Monster Soldier	「あ、召し上がるんですか……」	「Ah, you're still eating it...」
+
+41346	Galtia	「当たり前ぇだろ。無駄にしてどうする」	「Of course. Why would I waste it?」
+
+41347	-	こともなげに言って、ガルティアは爪の間から、	Casually saying so, Galtia pulled out
+41348	+	細い糸のようなものを出して、歯の間を軽くせせる。	a thin thread-like thing from between his claws and picked his teeth.
+
+41349	Green Monster Soldier~	（引き取って食わせてもらおうと	（I was thinking of taking the leftovers...
+41350	+	　思ったんだけどなー……）	　to eat myself...）
+
+41351	Galtia	「で…………そこにいるお前らはなんだ？	「So............ Who are you guys over there?
+41352	+	　侵入者か」	　Intruders?」
+
+41353	Rance	「……………………」	「........................」
+
+41354	-	ランス達は、入口の物陰に隠れたまま、	Rance and the others stayed hidden in the shadows at the entrance,
+41355	+	機を窺っていた。	waiting for an opening.
+
+41356	Sill Plain	「ランス様、呼ばれてますよ」	「Rance-sama, he's calling us.」
+
+41357	Rance	「くっ……なんだか出る機会を逸してしまった……」	「Tch... We missed our chance to come out...」
+
+41358	Satella	「そんな事言ってる場合か！	「This isn't the time for that!
+41359	+	　さっさと行け！」	　Get out there!」
+
+41360	Rance	「ええい、もうどうでもよいわ！」	「Fine, whatever!」
+
+41361	-	ランスはマントを翻して、	Rance flipped his mantle
+41362	+	食事を続けるガルティアの前に飛び出した。	and jumped out in front of the still-eating Galtia.
+
+41363	Rance	「そうだ！　貴様を殺しに来た！	「That's right! I'm here to kill you!
+41364	+	　……でいいんだろうな、馬鹿剣」	　...That's the plan, right, you stupid sword?」
+
+41365	Chaos	「おうおうおう。こいつじゃこいつ。	「Yeah yeah. That's him.
+41366	+	　魔人ガルティア」	　Fiend Galtia.」
+
+41367	Galtia	「お？　そいつ、もしかしてカオスか。	「Oh? Is that Chaos?
+41368	+	　なんだ、久しぶりじゃねぇか」	　Been a while.」
+
+41369	Chaos	「いかにも！　きっちり死んでいってね！」	「Indeed! Die properly!」
+
+41370	Rance	「というわけだ！　さっさと死んで貰おう！」	「You heard him! Time to die!」
+
+41371	-	引き抜いたカオスを振り上げるランスを、	Rance raised the drawn Chaos,
+41372	+	ガルティアは武器も用意せず、	while Galtia, without even preparing a weapon,
+41373	+	つまらなさそうに見返した。	looked back at him with boredom.
+
+41374	Galtia	「えー……野暮言うなよ。メシ時だぞ。	「Ehh... Don't be so rude. It's mealtime.
+41375	+	　お前らも食ってけよ」	　You guys should eat too.」
+
+41376	Rance	「魔人とメシなんぞ食えるか！	「Who the hell eats with a Fiend!
+41377	+	　勝負だ！　勝負しろ貴様ー！」	　Fight me! Fight, you bastard!」
+
+41378	Chaos	「だいたいお前、年中メシ時じゃろーが！」	「You're always eating anyway!」
+
+41379	Galtia	「しゃーねーなー……よし、大食い競争にしようぜ」	「Can't be helped... Alright, let's have an eating contest.」
+
+41380	Rance	「は？　なんだと？」	「Ha? What?」
+
+41381	Galtia	「おい、総料理長を呼び戻せ」	「Hey, call back the head chef.」
+
+41382	Green Monster Soldier	「はっ」	「Yes!」
+
+41383	Rance	「待てこら。何をする気だ」	「Wait, what are you planning?」
+
+41384	Galtia	「出てくる料理を、俺が食う。お前らも食う。	「I eat the dishes that come out. You guys eat too.
+41385	+	　食いきった方の勝ちでどうだ。	　Whoever finishes wins.
+41386	+	　俺一人対、お前ら全員でいいぞ」	　Me versus all of you is fine.」
+
+41387	Rance	「なんだと？」	「What?」
+
+41388	Oda Kouhime	「あの、もし勝ったら……？」	「Um, if we win...?」
+
+41389	Galtia	「人間の世界から撤退してやるよ。	「I'll withdraw from the human world.
+41390	+	　お前らが負けたら……そうだな、今日は帰れ」	　If you lose... well, you can go home today.」
+
+41391	Chaos	「がーーーー！　なんだそりゃー！	「Gaaaah! What the hell is that!
+41392	+	　お前を殺せんじゃないか！　却下じゃ却下」	　We came to kill you! Rejected!」
+
+41393	Rance	「黙れ馬鹿剣。…………仕方がない。	「Shut up, stupid sword. ...No choice.
+41394	+	　叩き殺してやっても構わんのだが、受けてやろう」	　I could just smash him, but I'll accept.」
+
+41395	Chaos	「ぶーぶーっ。つまらんのう……」	「Boo boo. How boring...」
+
+41396	Satella	（おっ、おい待て！	（H-hey wait!
+41397	+	　ガルティアと大食い勝負だと！？）	　An eating contest with Galtia!?）
+
+41398	Rance	（だーいじょうぶだ。これだけの人数相手だぞ。	（It's fine. We're up against him with this many people.
+41399	+	　しかもあいつはさっきから食いまくりだ。楽勝だ）	　Plus he's been eating nonstop. Easy win.）
+
+41400	Satella	（だ、大丈夫、なんだろうな……）	（I-it'll be okay... right...?）
+
+41401	Rance	（それに、こっちには謙信もいるんだぞ。	（Besides, we have Kenshin on our side.
+41402	+	　楽勝だ）	　Easy win.）
+
+41403	Uesugi Kenshin	「……………………」	「........................」
+
+41404	-	きゅるるるー……と、謙信のお腹が可愛く鳴った。	Kenshin's stomach cutely rumbled.
+
+41405	Uesugi Kenshin	「あっ……」	「Ah...」
+
+41406	Rance	「がははは、存分に食っていいぞ」	「Gahahaha, eat as much as you want.」
+
+41407	Uesugi Kenshin	「ああ……楽しみだ」	「Yes... I'm looking forward to it.」
+
+41408	Rance~	（さて、大食い大会か。	（So, an eating contest.
+41409	+	　良く食いそうな奴を参加させた方がいいな）	　Better to bring the big eaters.）

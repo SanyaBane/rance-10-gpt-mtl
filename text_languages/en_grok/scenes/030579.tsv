@@ -1,0 +1,154 @@
+# 30579	セシル／キャライベントＣ	
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Cecil Carna	セシル	Female
+* Arios Theoman	テオマン	Male
+* Cola	コーラ	Male
+* Rance	ランス	Male
+
+16319	Free Cities Guard	「まっ、まいったっ……！」	「I-I give up......!」
+
+16320	Cecil Carna	「ふう……もう、この辺りにしておくか？」	「Phew...... Shall we call it here for today?」
+
+16321	Free Cities Guard	「そうさせてもらいます。暗くて手元も怪しいし……	「Yes please. It's getting dark and my hands are shaky......
+16322	+	　それ以前にもう、フラフラで……」	　I'm already dizzy......」
+
+16323	Cecil Carna	「では、ゆっくり休め」	「Then get some proper rest.」
+
+16324	Free Cities Guard	「団長は、まだ？」	「Commander, you're still going?」
+
+16325	Cecil Carna	「ああ。もう少し、剣を振っていく」	「Yes. I'll swing a bit more.」
+
+16326	Free Cities Guard	「無理しすぎですぜ……」	「Don't push yourself too hard......」
+
+16327	Cecil Carna	「望みが深くてな。	「My goal runs deep.
+16328	+	　無理のひとつやふたつ、通さなくては」	　I have to push through.」
+
+16329	Free Cities Guard	「ストイックな方だ……それでは失礼しやす」	「You're so stoic...... Excuse me then.」
+
+16330	Cecil Carna	「ふ…………ッ……！」	「Fuu............!」
+
+16331	-	セシルは独りになると、	Once alone, Cecil
+16332	+	グラビティソードを振り始めた。	began swinging her Gravity Sword.
+
+16333	Cecil Carna~	（そうだ……自分より、強い者を……	(That's right...... I need to become stronger than
+16334	+	　アリオスを……止めなければならないのだから……	　Arios...... so I can stop him......
+16335	+	　もっと、もっとだ……！）	　More...... even more......!)
+
+16336	Cecil Carna	「………………」	「............」
+
+16337	Cecil Carna~	（アリオス…………）	(Arios............)
+
+16338	Cecil Carna	「っ……行くのか、アリオス……」	「......Are you leaving, Arios......」
+
+16339	Arios Theoman	「うん。ここでやる事はもうないし……	「Yeah. Nothing left for me to do here......
+16340	+	　また、旅を続けなくちゃ」	　Time to continue my journey.」
+
+16341	Cecil Carna	「鎧まで置いて……」	「Even leaving your armor......」
+
+16342	Arios Theoman	「あぁ。あのお嬢さんに隠されちゃったからね。	「Yeah. That young lady hid it from me.
+16343	+	　行こうとしてるって……気づかれたかな」	　I guess she noticed I was planning to leave.」
+
+16344	Cecil Carna	「お前は……っ、わかりやすい、からな……」	「You're...... so easy to read......」
+
+16345	Arios Theoman	「大丈夫。	「I'll be fine.
+16346	+	　エスクードソードがあれば、何とかなるさ」	　With the Escudo Sword, I'll manage.」
+
+16347	Arios Theoman	「セシルともうお別れなのは……	「Saying goodbye to you, Cecil......
+16348	+	　少し、寂しいけど」	　is a little lonely though.」
+
+16349	Cecil Carna	「あ…………」	「Ah............」
+
+16350	Arios Theoman	「……………………」	「........................」
+
+16351	Cecil Carna	「……………………」	「........................」
+
+16352	Cecil Carna	「私は……その。	「I...... well.
+16353	+	　秩序の乱れた街を……守って欲しいと、	　I have a request to protect
+16354	+	　依頼を受けている……から、な……」	　this chaotic city...... so......」
+
+16355	Arios Theoman	「うん。わかってる……セシルは傭兵だ。	「Yeah. I know...... You're a mercenary, Cecil.
+16356	+	　無理は言えないさ」	　I can't ask the impossible.」
+
+16357	Cecil Carna~	（でも……でも、本当は、アリオス……！	(But...... but the truth is, Arios......!
+16358	+	　私は、お前と……っ……！）	　I want to be with you......!)
+
+16359	Cecil Carna~	（そう……言うべき、か……？	(Should I...... say that......?
+16360	+	　でも、っ……！）	　But......!)
+
+16361	Cola	「いいですかね、いい加減。	「Come on already.
+16362	+	　人を待たせている自覚はあるんですか、	　Do you realize you're keeping people waiting,
+16363	+	　馬鹿アリオス」	　you idiot Arios?」
+
+16364	Arios Theoman	「あっ……ごめんな、コーラ。	「Ah...... Sorry, Cola.
+16365	+	　じゃあ…………行くよ。そろそろ……」	　Well then...... Let's go. It's about time......」
+
+16366	Cecil Carna	「あっ……！」	「Ah......!」
+
+16367	Arios Theoman	「……セシル？」	「......Cecil?」
+
+16368	Cecil Carna	「………………っ……」	「............」
+
+16369	Cecil Carna	「そ、その、っ…………」	「U-um......」
+
+16370	Cecil Carna	「じ、自由都市に……また、来い……！	「C-come back to the Free Cities again......!
+16371	+	　それまで、次に来るまでは、私が……！」	　Until then, until you return, I'll......!」
+
+16372	Arios Theoman	「……うん。	「......Yeah.
+16373	+	　セシルが守ってくれるなら……安心だ」	　If you're protecting the city...... I'll feel safe.」
+
+16374	Arios Theoman	「……それじゃ」	「......See you.」
+
+16375	Cola	「はぁあ。寄り道の多さじゃ、	「Sigh. The number of detours you make
+16376	+	　歴代でもなかなかのものですよ、アリオスは……」	　is impressive even among the generations, Arios......」
+
+16377	Cecil Carna	「あ…………！」	「Ah............!」
+
+16378	Cecil Carna	「……………………また…………」	「........................Again............」
+
+16379	-	私は……たぶん。	I...... probably.
+16380	+	言うべき言葉を、間違えたのだ。	Said the wrong words.
+
+16381	-	待っていればいつか、なんて。	Things like 'just wait and someday'
+16382	+	約束があるから大丈夫、なんて。	or 'it's fine because we have a promise'.
+
+16383	-	そんな風に、覚悟も決めずに……	Without making up my mind......
+16384	+	決断を、行動を、先送りにしていたのだ。	I kept putting off decisions and actions.
+
+16385	-	だから…………アリオスは、変わり。	That's why...... Arios changed.
+16386	+	変わった事の、	And I couldn't save him
+16387	+	その要因から救ってやることも出来なかった。	from the cause of that change.
+
+16388	-	そして、私も…………	And I also............
+
+16389	Cecil Carna~	（ん……………）	(Nn...............)
+
+16390	Cecil Carna~	（いかん、眠っていたか……	(Oh no, I fell asleep......
+16391	+	　ベンチで一休み、と思っていたが……）	　I only meant to rest on the bench for a bit......)
+
+16392	Cecil Carna	「……………………ん」	「........................Nn」
+
+16393	Rance	「うひひひひ……セシルのマンコ、ご開帳……お？」	「Uhehehe...... Cecil's pussy on full display...... Oh?」
+
+16394	-	目が合った。	Their eyes met.
+
+16395	Cecil Carna	「総統は……本当に、迷わないのだな」	「Supreme Leader...... you really never hesitate.」
+
+16396	Rance	「お、褒められた。	「Oh, a compliment.
+16397	+	　がはは、もちろん一直線に――」	　Gahaha, of course I go straight for it一一」
+
+16398	Cecil Carna	「だがどいてもらおう！」	「But get out of the way!」
+
+16399	Rance	「あだだだだ！」	「Owowowow!」
+
+16400	Cecil Carna	「まったく……総統一人で	「Honestly...... One man shouldn't
+16401	+	　この城の風紀と治安を下げることもないだろうに」	　single-handedly ruin the discipline and public order of this castle.」
+
+16402	Rance	「ふん。無理はいかんぞ、無理は」	「Hmph. Don't push yourself too hard now.」
+
+16403	Cecil Carna	「大丈夫だ……次はちゃんと……	「It's fine...... Next time I'll do it properly......
+16404	+	　するべき事は、分かってる」	　I know what I need to do.」
+
+16405	-	ふわりと薄く微笑んで、	With a faint, gentle smile,
+16406	+	セシルは自室へと戻っていった。	Cecil returned to her room.
+
+16407	Rance	「肝の据わったやっちゃなぁ……」	「What a resolute woman......」

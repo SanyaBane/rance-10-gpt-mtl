@@ -1,0 +1,82 @@
+# 32980	ザンス２／友情イベントＣ	route
+* Zance Leazas	ザンス２	Male
+* Muscle Man	汎用筋肉男	Male
+
+191729	Zance Leazas	「あ、バッタリ会うのは珍しいな。	「Ah, running into you like this is rare.
+191730	+	　てか、一人かよ、尚更珍しいな」	　Wait, you're alone? That's even rarer.」
+
+191731	Zance Leazas	「アア？　俺に会いに来た？	「Aa? You came to see me?
+191732	+	　俺ぁ、今から酒場に行くつもりだが、	　I'm heading to the bar now,
+191733	+	　お前も来っか？」	　you coming too?」
+
+191734	Zance Leazas	「ふん、そうかよ。なら来い。	「Hmph, is that so. Then come along.
+191735	+	　俺様が酒場での立ち振る舞い方を教えてやるぜ」	　I'll teach you how to act in a bar.」
+
+191736	Zance Leazas	「へへっ。	「Heh heh.
+191737	+	　いいか、お前もそろそろガキじゃねえんだから、	　Listen, you're not a kid anymore,
+191738	+	　酒場でのルールって奴を少しは知っとけよ」	　so learn some bar rules at least.」
+
+191739	-	ザンスは上機嫌であなたにそんなことを言っていた。	Zance said that in a very good mood.
+
+191740	Muscle Man	「あぁん？　なんだぁ？	「Haa? What?
+191741	+	　ここはガキが来る場所じゃねーぞ？	　This ain't a place for brats.
+191742	+	　ミルクが飲みてぇならママに言えよ？」	　If you want milk go cry to mama.」
+
+191743	?	「ぎゃははははは！」	「Gyahahahaha!」
+
+191744	-	赤ら顔のゴロツキがあなたに絡んで来た。	A red-faced thug came bothering you.
+
+> female
+191745	Muscle Man	「ふーん、顔つきは中々悪くねぇなぁ。	「Hmm, not a bad face.
+191746	+	　おう、チビ、俺らと一緒に飲もうぜ、げへへ。	　Hey shorty, drink with us, hehe.
+191747	+	　そっちの兄ちゃん、別に構わねぇよな？」	　Big bro over there doesn't mind, right?」
+
+> end
+191748	Zance Leazas	「…………」	「............」
+
+191749	Zance Leazas	「お、お前ら、それは……ぷぷ……	「Y-you guys, that's... pff...
+191750	+	　この俺達に言って……ぐふ……」	　saying that to us... gufu...」
+
+191751	Muscle Man	「うお、なんでニヤついてんだテメェ……」	「Whoa, why are you grinning, you...」
+
+191752	Zance Leazas	「ケケ、見ろよ、＜エール＞。	「Keke, look ＜エール＞.
+191753	+	　俺様の鎧の威光もこんなド田舎までは	　Even the威光 of my armor
+191754	+	　届かねぇみたいだぞ？」	　doesn't reach this backwater.」
+
+191755	Muscle Man	「アア！？　なんか生意気なガキだな！	「Aa!? What an arrogant brat!
+191756	+	　俺様がこの辺り一帯を仕切る最強の男！	　I'm the strongest man ruling this whole area!
+191757	+	　マッスル・ドンクライ様と知っての言葉か！？」	　You dare say that knowing I'm Muscle Donkrai!?」
+
+191758	Zance Leazas	「アホか。	「Idiot.
+191759	+	　お前がこの辺り一帯最強の男なら、	　If you're the strongest around here,
+191760	+	　俺はリーザス最強だぞ」	　then I'm the strongest in Leazas.」
+
+191761	-	ザンスは酒場にいる荒くれ者共を	Zance quickly took down
+191762	+	あっという間にのしてしまった。	all the ruffians in the bar.
+
+191763	Zance Leazas	「がははは、俺様最強ー！」	「Gahahaha, I'm the strongest!」
+
+191764	Muscle Man	「はらほろ、ひれはれ……」	「Harahoro, hirehare...」
+
+191765	Zance Leazas	「ったく、しょーもねー奴らだったな。	「What a bunch of pathetic guys.
+191766	+	　と、それはそれとして、＜エール＞……」	　Anyway, ＜エール＞...」
+
+191767	Zance Leazas	「お前がボーッとしてっから、	「Because you were spacing out,
+191768	+	　こういう馬鹿に絡まれんだ、	　these idiots came bothering us.
+191769	+	　もうちょいシャンとしとけ」	　Stay sharp.」
+
+191770	-	あなたはペチンとザンスに頭をはたかれてしまった。	Zance lightly flicked your head.
+
+191771	Zance Leazas	「ま、俺がそばにいる限りは	「Well, as long as I'm around,
+191772	+	　いくらでも絡まれていいぞ。	　you can get bothered as much as you want.
+191773	+	　こーゆー馬鹿は俺が全てのしてやる」	　I'll take care of idiots like this.」
+
+191774	Zance Leazas	「がははははは！　いい肩慣らしだ！」	「Gahahahaha! Good warm-up!」
+
+191775	Zance Leazas	「……あ、いや」	「...Ah, no.」
+
+191776	Zance Leazas	「そうだな、むしろお前は今後も絡まれまくれ！	「Yeah, in fact keep getting bothered from now on!
+191777	+	　こーゆー馬鹿との喧嘩は好きだからな！	　I love fighting idiots like this!
+191778	+	　お前は釣り餌ってわけだ！　がははははは！」	　You're the bait! Gahahahaha!」
+
+191779	-	ザンスは非常に上機嫌だった。	Zance was in an extremely good mood.

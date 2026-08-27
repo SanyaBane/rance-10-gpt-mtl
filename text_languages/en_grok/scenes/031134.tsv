@@ -1,0 +1,205 @@
+# 31134	２４０／２／マリアの依頼	
+* Copandon Dott	コパンドン	Female
+* Rance	ランス	Male
+* Maria Custard	マリア	Female
+
+54483	-	――翌朝。	――The next morning.
+
+54484	Copandon Dott	「あ、ランス。おはようさん」	「Ah, Rance. Good morning.」
+
+54485	Rance	「おう、コパンドン」	「Yo, Copandon.」
+
+54486	Copandon Dott	「昨日はあの後、ほったらかしでごめんなぁ。	「Sorry for leaving you alone after that yesterday.
+54487	+	　歓迎会でもするとこやったんやけど、	　We were going to have a welcome party,
+54488	+	　緊急の仕事が溜まっとって……」	　but urgent work piled up...」
+
+54489	Rance	「ああ、気にするな。	「Don't worry about it.
+54490	+	　別の奴にばっちり接待してもらったからな」	　I got thoroughly entertained by someone else.」
+
+54491	Copandon Dott	「別の……？　ん、まぁ、ほなええけど……	「Someone else...? Well, okay then...
+54492	+	　あ、そうそう。昨日言うた、DXの会やけど……」	　Oh right, about the DX Society I mentioned yesterday...」
+
+54493	Rance	「ああ、聞いた聞いた。	「Yeah, I heard about it.
+54494	+	　なんか、ヤクザだって話だろう？」	　They're basically yakuza, right?」
+
+54495	Copandon Dott	「聞いた？　って、誰から……」	「You heard? From who...」
+
+54496	Rance	「本人からだが」	「From the woman herself.」
+
+54497	Copandon Dott	「ッ……！　接待って、もしかして……！」	「...! The entertainment... Don't tell me...!」
+
+54498	Rance	「俺様の役に立つなら、まあなんでもよしだ。	「If they're useful to me, anything goes.
+54499	+	　がはははは」	　Gahahaha.」
+
+54500	Copandon Dott	「……手ぇ早いな、あの女……まずったかも……」	「...That woman moves fast... Might've been a mistake...」
+
+54501	Rance	「それよりコパンドン。魔人を叩きのめすぞ。	「Anyway, Copandon. Time to crush some Fiends.
+54502	+	　準備させろ」	　Get things ready.」
+
+54503	Copandon Dott	「あー……それやねんけどな、ランス。	「Ah... About that, Rance.
+54504	+	　今は、ちょーっと難しそうなんや」	　It's a bit difficult right now.」
+
+54505	Rance	「あん？」	「Huh?」
+
+54506	Copandon Dott	「自由都市の連合軍は今、ちょっと混乱しとって……	「The Free Cities Alliance Army is in a bit of chaos right now...
+54507	+	　上手いこと機能せぇへん状況なんよ」	　They aren't functioning properly.」
+
+54508	Rance	「なんだそれは。責任者は何やってんだ」	「What the hell? What is the commander doing?」
+
+54509	Copandon Dott	「それが、総隊長が行方不明になったんや。	「The supreme commander has gone missing.
+54510	+	　戦闘中やさかい、死んだかも……て話になっとる」	　During battle, so he might be dead... that's the rumor.」
+
+54511	Rance	「むう、だらしのない。	「Ugh, how sloppy.
+54512	+	　それなら誰か代わりを据えるのが普通だろう。	　Normally you'd appoint a replacement.
+54513	+	　やれる奴はいないのか」	　Is there no one capable?」
+
+54514	Copandon Dott	「んー……その辺でごたごたしとってなぁ……	「Well... There's a lot of fuss about that...
+54515	+	　防衛体制を敷くのが精一杯やねん」	　We're barely managing to set up defenses.」
+
+54516	Rance	「………………めんどくさいな」	「............What a pain.」
+
+54517	Copandon Dott	「その辺もあって、しばらく待ちや。	「That's why we should wait a bit.
+54518	+	　魔軍の方も、2、3日は来ないんちゃうか、	　The Monster Army probably won't attack for two or three days either.」
+54519	+	　って話やし」	
+
+54520	Rance	「暇か……さてどうしたものか」	「Bored, huh... What to do...」
+
+54521	汎用男性／基本	「ああ、こちらでしたか、コパンドン社長！」	「Ah, there you are, President Copandon!」
+
+54522	-	一人の、身なりのいい壮年が	A well-dressed middle-aged man
+54523	+	コパンドンに駆け寄ってきた。	hurried over to Copandon.
+
+54524	Copandon Dott	「ん？　ああ、こりゃユカタンはん。	「Hm? Oh, it's Yucatan.
+54525	+	　どないかしはりました？」	　What can I do for you?」
+
+54526	汎用男性／基本	「例の船団の、艤装の件なのですが……」	「It's about the outfitting of that fleet...」
+
+54527	Copandon Dott	「あーあー。決める言うたっきりでしたな。	「Ah yes. I said I'd decide but never got around to it.
+54528	+	　いくつか、案は作っといたんやけど……」	　I've prepared a few proposals though...」
+
+54529	Rance	「おいコパンドン。なんだそれ」	「Hey Copandon. What's this about?」
+
+54530	Copandon Dott	「船やで船。船団を今、ジフテリアで作ってるんや」	「Ships. We're building a fleet in Diphteria right now.」
+
+54531	Rance	「船……？　なんに使うんだ、そんなもん」	「Ships...? What would we use them for?」
+
+54532	-	ランスが首を捻ると、	Rance tilted his head,
+54533	+	コパンドンは露骨に呆れた表情になった。	and Copandon gave him an obviously exasperated look.
+
+54534	Copandon Dott	「ランス……ランスが欲しい言うたんやで、	「Rance... You said you wanted them.
+54535	+	　船で冒険したいて」	　To go adventuring by sea.」
+
+54536	Rance	「へ…………俺……？」	「Eh............ Me...?」
+
+54537	Copandon Dott	「そうや。『十年に一度、発生する海！	「Yes. 'The sea that appears once every ten years!
+54538	+	　その海に冒険に出かけるのだ！	　We're going adventuring on that sea!
+54539	+	　一緒に行くぞ、船を用意しろ！』……て」	　Come with me, prepare the ships!' ...You said.」
+
+54540	Rance	「……………おお。そういえばそんな事もあったか」	「............Oh yeah, I did say something like that.」
+
+54541	-	ポンと手を拍つランス。	Rance clapped his hands together.
+
+54542	Copandon Dott	「はぁ……今まで忘れとったんかい」	「Sigh... You completely forgot until now?」
+
+54543	Rance	「確か、ぽろっと言っただけだぞ。	「I only mentioned it casually.
+54544	+	　ホントに作ってたのか……」	　You actually built them...?」
+
+54545	Copandon Dott	「うち、金だけはあるからな。ふふふ」	「I have plenty of money. Hehehe.」
+
+54546	汎用男性／基本	「現在のところ、船はもうほぼできています。	「The ships are almost complete.
+54547	+	　後は艤装をどうするか、だけなのです」	　We just need to decide on the outfitting.」
+
+54548	Copandon Dott	「満ち潮もそろそろやし、いい頃合いなんやけどな。	「The tide is about right too, perfect timing.
+54549	+	　……戦争なんぞがおっ始まらんかったら」	　...If this war hadn't started.」
+
+54550	汎用男性／基本	「うーん、そうですよね……しばらくは……」	「Yeah... For a while...」
+
+54551	Rance	「ほう。ほほう。いいな。見たいぞ。面白そうだ」	「Hmm. Hmm. Nice. I want to see them. Sounds fun.」
+
+54552	Copandon Dott	「へ？」	「Eh?」
+
+54553	Rance	「コパンドンが俺様の為に作った船なんだろう。	「You built those ships for me, right?
+54554	+	　なら俺が見に行っても構わんな？」	　Then I can go see them, yeah?」
+
+54555	Copandon Dott	「そら、構へんけど……」	「Well, sure, but...」
+
+54556	Rance	「よーし、それなら……」	「Alright, then...」
+
+54557	Maria Custard	「あ……ランス。どこか行くの？」	「Ah... Rance. Are you going somewhere?」
+
+54558	Rance	「お、マリアか。どうかしたか？」	「Oh, Maria. What's up?」
+
+54559	Maria Custard	「ん……時間があるなら、	「Um... If you have time,
+54560	+	　ちょっとお願いがあったんだけど……」	　I have a small favor to ask...」
+
+54561	Rance	「ははぁ。またなんか、石ころ取って来いってか。	「Haha, another fetch quest for some rock?
+54562	+	　お前のお願いは大体それだからな」	　That's usually what you ask for.」
+
+54563	Maria Custard	「ちっ、違うわよー。	「No, that's not it.
+54564	+	　まあ、発明品関係だけど……」	　Well, it's invention-related though...」
+
+54565	Rance	「面白そうなら乗ってやる。言ってみろ」	「If it sounds fun, I'll do it. Tell me.」
+
+54566	Maria Custard	「ん。昔、リーザス解放戦争の時に作った、	「Yeah. Remember the Tulip No. 3 I made during the Leazas Liberation War?」
+54567	+	　チューリップ3号は覚えてる？」	
+
+54568	Rance	「解放戦争の時……マリアの発明品……	「During the liberation war... Maria's invention...
+54569	+	　あの大砲をバカスカ撃つ戦車だけ覚えてるな」	　I only remember that tank that fired its cannon like crazy.」
+
+54570	Maria Custard	「それよそれ。チューリップ3号。	「That's the one. Tulip No. 3.
+54571	+	　ヒララ合金の装甲と大口径の主砲で武装した傑作！	　A masterpiece armed with Hirara alloy armor and a large caliber main cannon!
+54572	+	　あぁ、あの装甲は上手くできたわ……」	　Ah, that armor turned out so well...」
+
+54573	Rance	「それはいいが、あれがどうした」	「That's fine, but what about it?」
+
+54574	Maria Custard	「あっ、うん。あれの、新型を作ったのよ。	「Ah, yeah. I made a new model of it.
+54575	+	　整備が手間だったし、完成して満足したから、	　Maintenance was a hassle and I was satisfied with it,
+54576	+	　あれからは作ってなかったんだけど……」	　so I stopped after that...
+
+54577	Maria Custard	「でも戦争に必要だからって話になって、	　But with the war, it became necessary,
+54578	+	　改めて見直してみたの」	　so I took another look.
+
+54579	Maria Custard	「そしたら砲安定装置を開発すれば	　I realized that developing a gun stabilization device
+54580	+	　いろんな所の負荷も軽くできるんじゃないかって	　could reduce the load on various parts,
+54581	+	　気づいて……そこからはもう試行錯誤」	　and then it was nonstop trial and error.」
+
+54582	Maria Custard	「何日も徹夜して確かめて、	「After many all-nighters,
+54583	+	　ようやくドイツ回路を発明できたの。	　I finally invented the German Circuit.
+54584	+	　これを組み込むことによって……」	　By incorporating this...」
+
+54585	Rance	「ああぁ、もういいもういい。	「Aaaah, enough enough.
+54586	+	　宇宙人の言葉は分からんわ。	　I don't understand alien language.
+54587	+	　えらかったなー、よしよし」	　Good job, there there.」
+
+54588	Maria Custard	「むー、もうちょっと聞いてくれてもいいじゃない」	「Muu, you could listen a bit more.」
+
+54589	-	マリアは不満げに唇を尖らせたが、	Maria pouted, but
+54590	+	適当に頭を撫でてくるランスの手を	didn't brush away Rance's hand
+54591	+	振り払ったりはしなかった。	as he casually patted her head.
+
+54592	Rance	「で？　その新型は完成したのか」	「So? Is the new model finished?」
+
+54593	Maria Custard	「完成間近よ。もう目前。	「Almost. It's right there.
+54594	+	　…………でも、その状態で	　...But I left them in that state
+54595	+	　カスタムに置いて来ちゃってるから……」	　back in Custom...」
+
+54596	Rance	「……あ。魔軍の勢力圏内か、カスタム」	「...Ah. Custom is in Monster Army territory.」
+
+54597	Maria Custard	「そうなの。チューリップ3号H型12両が、	「Yes. Twelve Tulip 3H models
+54598	+	　カスタムで埃かぶってるのよー！	　are gathering dust in Custom!
+54599	+	　うぅ、もったいない……」	　Uuu, what a waste...」
+
+54600	Rance	「魔物どもが訳も分からず弄って	「The monsters might be messing with them without understanding
+54601	+	　ぶっ壊されてるかもな」	　and breaking them.」
+
+54602	Maria Custard	「いやーーーー！！　怖い事言わないで！」	「Nooooo!! Don't say scary things!」
+
+54603	Rance	「つまり、そいつを取りにいきたいのか」	「So you want to go get them.」
+
+54604	Maria Custard	「ん……そうよ。これからの戦いに、絶対役に立つ。	「Yes... They'll be absolutely useful in the coming battles.
+54605	+	　それに、魔軍待ちでしょ。	　And we're just waiting for the Monster Army anyway.
+54606	+	　だから、一緒に来てくれないかな、って……」	　So, could you come with me...?」
+
+54607	Rance	「ふーむ、どうするかな。	「Hmm, what to do.
+54608	+	　ジフテリアか、カスタムか。	　Diphteria or Custom.
+54609	+	　船か、戦車か……」	　Ships or tanks...」

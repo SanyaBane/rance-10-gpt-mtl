@@ -1,0 +1,169 @@
+# 31728	ルーベラン／キャライベントＣ	
+* Rance	ランス	Male
+* Merim Tser	メリム	Female
+* Ruberan Tser	ルーベラン	Female
+* Nagi su Ragarl	子供ナギ	Female
+
+99184	Rance	「お？」	「Oh?」
+
+99185	Rance	「よう、二人揃ってお出かけか？	「Hey, you two going out together?
+99186	+	　仲いいな」	　You're close.」
+
+99187	Merim Tser	「あ、ランスさん」	「Ah, Rance-san.」
+
+99188	Ruberan Tser	「これは総統」	「Supreme Leader.」
+
+99189	Merim Tser	「今から町に行って	「We were thinking of going to town
+99190	+	　買い物しようかって話してたんです」	　to do some shopping.」
+
+99191	Rance	「ふーん」	「Hmm.」
+
+99192	Rance	「しっかし……」	「But still...
+
+99193	-	ランスが二人をジロジロと眺める。	Rance stared at the two of them.
+
+99194	Ruberan Tser	「な、なにかしら？」	「W, what is it?」
+
+99195	Rance	「二人が姉妹だったとは驚きだなと。	「I'm surprised you two are sisters.
+99196	+	　いや、言われてみれば確かに似てる」	　Now that I look, you do resemble each other.」
+
+99197	Ruberan Tser	「私も、貴方がメリムと知り合いだったとは……」	「I was surprised you knew Merim too...」
+
+99198	Merim Tser	「驚きですよねー。	「What a small world, right?」
+99199	+	　世間って案外狭いんですね」	
+
+99200	Merim Tser	「でも、こうしてまた	「But now we've reunited,
+99201	+	　離ればなれだった姉さんと再会出来て	　with my sister I was separated from,
+99202	+	　メリム、とっても嬉しいです！」	　Merim is so happy!」
+
+99203	Rance	「そもそもどうして生き別れてたんだ？」	「Why were you separated in the first place?」
+
+99204	Ruberan Tser	「…………」	「............」
+
+99205	Rance	「ん？」	「Hm?」
+
+99206	-	ルーベランは露骨に顔をしかめた。	Ruberan frowned obviously.
+
+99207	Merim Tser	「その辺りはちょっと私達の間では	「That's a bit of a taboo topic between us...」
+99208	+	　タブーという感じになっていて……」	
+
+99209	Ruberan Tser	「まあ、簡単に言えば生家が没落してね……	「Well, simply put, our family fell into ruin...
+99210	+	　それで妹を奉公に出さざるを得なかったの」	　so I had no choice but to send my little sister into service.」
+
+99211	-	出来るだけなんてことのないように言っているが、	She tried to sound casual,
+99212	+	その声はかすかに上擦っていた。	but her voice trembled slightly.
+
+99213	Ruberan Tser	「本当はその時働きに出ていた私が、	「Really, if I had worked properly back then,
+99214	+	　ちゃんと出来ていれば良かったんだけど……」	　none of this would have happened...」
+
+99215	Merim Tser	「もう、それはいいって言ってるのに……」	「I already told you it's fine...」
+
+99216	Ruberan Tser	「そうは言っても……」	「Even so...」
+
+99217	Rance	「ああ、それで奉公に出た先で、	「Ah, so that's why when she went into service,
+99218	+	　妹があんな目に遭ってりゃ、	　your sister suffered like that,
+99219	+	　姉としては負い目も感じるか」	　you feel guilty as her older sister.」
+
+99220	Ruberan Tser	「……っ。	「...!」
+99221	+	　そうか、貴方も知っていたのね」	　So you knew too.」
+
+99222	Ruberan Tser	「ええ……今でも考えるわ……	「Yes... I still think about it...
+99223	+	　もう少し、何かをどうにか出来なかったかって」	　If only I had done something more...」
+
+99224	Merim Tser	「もう姉さん、それは何度も話したじゃない」	「Sister, we've talked about this so many times.
+
+99225	Merim Tser	「姉さんのせいじゃないんだから、	　It's not your fault,
+99226	+	　姉さんも気にしないでって」	　so please stop worrying.」
+
+99227	Ruberan Tser	「う、うん……」	「Y, yeah...」
+
+99228	Ruberan Tser	「そうなん、だけど、ね……	「I know that, but...
+99229	+	　私は……やっぱり、ちょっと……」	　I still feel a little...」
+
+99230	Rance~	（……すごいもん見てるな。	（...I'm seeing something amazing.
+99231	+	　あのルーベランがしょんぼりしながら	　Ruberan looking so down and
+99232	+	　なんかうにゃうにゃ言ってるぞ）	　mumbling like that.）
+
+99233	Merim Tser	「とにかく！」	「Anyway!」
+
+99234	Merim Tser	「もう済んだことなんだから、	「It's all in the past now,
+99235	+	　お願いだからもう気にしないで！	　so please stop worrying!
+99236	+	　ね？　お願い」	　Okay? Please.」
+
+99237	Ruberan Tser	「…………」	「............」
+
+99238	Ruberan Tser	「ええ……努力してみるわ……」	「Yes... I'll try...」
+
+99239	Rance~	（……意外だ。	（...Surprising.
+99240	+	　ルーベランの奴、メリムに頭が上がらんのか）	　Ruberan can't win against Merim.）
+
+99241	Nagi su Ragarl	「ルーベランの気持ちも分かるけどねぇ……」	「I understand how Ruberan feels though...」
+
+99242	Merim Tser	「ナギちゃん？」	「Nagi-chan?」
+
+99243	Rance	「どっから湧いたお前」	「Where did you pop out from?」
+
+99244	Nagi su Ragarl	「メリムが謝って欲しいなら、謝ればいいけど、	「If Merim wants an apology, then apologize,
+99245	+	　そうじゃないもん」	　but that's not what she wants.」
+
+99246	Nagi su Ragarl	「過度に負い目を感じても、	「Feeling too guilty
+99247	+	　メリムはちっとも喜ばないわ」	　won't make Merim happy at all.
+
+99248	Nagi su Ragarl	「だったら、今と未来を見てあげてよ。	　So look at the present and the future instead.
+99249	+	　そうじゃないと、今度はメリムが可哀想だもの」	　Otherwise Merim will be the one who suffers.」
+
+99250	Nagi su Ragarl	「でしょ？」	「Right?」
+
+99251	Ruberan Tser	「あ……う……」	「Ah... uh...」
+
+99252	Merim Tser	「ナギちゃんは頭いいなー。	「Nagi-chan is so smart.
+99253	+	　うん、正しいと思うわ」	　Yeah, I think that's right.」
+
+99254	Ruberan Tser	「こ、子供に諭されるとは……」	「Being lectured by a child...」
+
+99255	Rance	「ガキが大人の話に首突っ込むんじゃない」	「Kids shouldn't butt into adult conversations.」
+
+99256	Nagi su Ragarl	「なんとしつれいな」	「How rude.」
+
+99257	Nagi su Ragarl	「とにかく、姉妹は仲良しが一番。	「Anyway, sisters getting along is the most important thing.
+99258	+	　私が言いたいのはそれだけよ」	　That's all I'm saying.」
+
+99259	Rance	「うむ。	「Yeah.
+99260	+	　俺もそんな感じのことを思うぞ」	　I think so too.」
+
+99261	Ruberan Tser	「貴方が言うと少し胡散臭いけど……」	「It sounds suspicious coming from you but...
+
+99262	Ruberan Tser	「でも、ええ……確かに言う通りね……」	　But yes... you're right...」
+
+99263	Merim Tser	「せっかく再会できたんだもの、	「Since we've reunited after so long,
+99264	+	　これからのことを考えないと」	　we should think about the future.」
+
+99265	Rance	「うむ、そして二人がそんな風に	「Yeah, and the fact that you two can be together like this
+99266	+	　一緒にいられるのも俺のおかげだ。	　is all thanks to me.
+99267	+	　たっぷり感謝しろ」	　Be very grateful.」
+
+99268	Ruberan Tser	「それはそうね……」	「That's true...」
+
+99269	Ruberan Tser	「ええ、本当にありがとう」	「Yes, thank you so much.」
+
+99270	Rance	「お……」	「Oh...」
+
+99271	Nagi su Ragarl	「どしたの？　キョトンとして」	「What's wrong? You look surprised.」
+
+99272	Rance	「ルーベランが俺に	「It's the first time Ruberan
+99273	+	　笑いかけたの初めてだからびっくりした」	　smiled at me, so I was shocked.」
+
+99274	Merim Tser	「姉さんいつも怒ってばっかりですもんね」	「Sister is always angry after all.」
+
+99275	Ruberan Tser	「わ、私だって感謝してるときは	「E, even I make the appropriate face
+99276	+	　それ相応の顔するわよ……」	　when I'm grateful...」
+
+99277	Rance	「素直だな」	「How honest.」
+
+99278	Rance	「よし、では感謝の気持ちを	「Good, then show me your gratitude
+99279	+	　態度で示してもらおうか。	　with your body.
+99280	+	　具体的には体で……」	　Specifically, with sex...」
+
+99281	Ruberan Tser	「調子に乗らないで頂戴」	「Don't get carried away.」
+
+99282	Rance	「ぐっ……ガードが堅い……」	「Guh... Her guard is solid...」

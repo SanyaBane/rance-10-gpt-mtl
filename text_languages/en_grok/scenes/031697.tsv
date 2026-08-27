@@ -1,0 +1,128 @@
+# 31697	トルストイ／キャライベントＡ	
+* Rance	ランス	Male
+* Hubert Lipton	ヒューバート	Male
+* Tolstoy Bato	トルストイ	Male
+* Cream Ganoblade	クリーム	Female
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Sanakia Drelshkaf	サーナキア	Female
+
+97228	Rance	「新入り〜？」	「New guy~?」
+
+97229	Hubert Lipton	「おう、有能な奴だ。	「Yeah, he's capable.
+97230	+	　今は手が空いていてな、	　He's free right now,
+97231	+	　お前の部隊に配属させて欲しい」	　so I'd like to assign him to your unit.」
+
+97232	Rance	「年は？　胸の大きさは？　処女か？」	「Age? Breast size? Virgin?」
+
+97233	Hubert Lipton	「……男だぞ」	「...He's a man.」
+
+97234	Rance	「いらん、帰せ」	「Don't need him. Send him back.」
+
+97235	Hubert Lipton	「まあまあまあまあ、	「Now now now,
+97236	+	　そう固いこと言うなって。	　don't be so stiff.
+97237	+	　おい、入ってくれ」	　Hey, come in.」
+
+97238	Rance	「あ、こら、勝手に――」	「Hey, don't just――」
+
+97239	Tolstoy Bato	「…………」	「............」
+
+97240	-	ぬぼーっと、音もなくトルストイが入室してきた。	Tolstoy entered the room silently, almost fading in.
+
+97241	Tolstoy Bato	「……」	「...」
+
+97242	Tolstoy Bato	「…………」	「............」
+
+97243	Tolstoy Bato	「……………………」	「........................」
+
+97244	-	足音一つさせないままトルストイが	Without making a single footstep,
+97245	+	玉座に座るランスに近づく。	Tolstoy approached Rance on his throne.
+
+97246	Tolstoy Bato	「……どうも」	「...Hello.」
+
+97247	Rance	「帰せ」	「Send him back.」
+
+97248	Hubert Lipton	「見切りつけるのが早えって」	「You're deciding too fast.」
+
+97249	Rance	「そもそも誰だこいつは」	「Who the hell is this guy anyway?」
+
+97250	Hubert Lipton	「ヘルマン第2軍の副将でな、	「Vice commander of Helman's 2nd Army.
+97251	+	　人を率いたりまとめたりって点じゃ、	　When it comes to leading and organizing people,
+97252	+	　将軍やってたボドゥよりも優秀かも知れん」	　he might be even better than Boddu who was a general.」
+
+97253	Hubert Lipton	「ここだけの話、	「Just between us,
+97254	+	　いずれはヘルマンの重臣にも……	　he's being considered for a high position in Helman...
+97255	+	　って考えてる奴だ」	　that's the kind of guy he is.」
+
+97256	Rance	「ん？　なんでそんな優秀な奴が	「Hm? Why is such a capable guy
+97257	+	　2軍で副将止まりなんだ？」	　only a vice commander in the 2nd Army?」
+
+97258	Hubert Lipton	「…………」	「............」
+
+97259	Hubert Lipton	「……暗くてなぁ」	「...He's too gloomy.」
+
+97260	Hubert Lipton	「人の上に立つならボドゥが適任だと、	「He himself recommended Boddu as better for command,
+97261	+	　トルストイ本人からの推薦だ」	　saying he's more suited.」
+
+97262	Rance	「ふーん」	「Hmm.」
+
+97263	Hubert Lipton	「ま、そういう奴がいてもいいだろう」	「Well, having a guy like him is fine too.」
+
+97264	Rance	「しかし、俺様の部隊に男はいらんぞ」	「But I don't need any men in my unit.」
+
+97265	Tolstoy Bato	「安心して下さい、総統」	「Please don't worry, Supreme Leader.」
+
+97266	Tolstoy Bato	「自分は影が薄いですから、	「I have a very faint presence,
+97267	+	　おそらくすぐに存在自体を忘れるかと」	　so you'll probably forget I exist soon.」
+
+97268	Tolstoy Bato	「昔からそうでした。	「It's always been like that.
+97269	+	　美味しいところはボドゥのような奴が持って行く。	　Guys like Boddu take all the glory.
+97270	+	　俺なんかは縁の下の力持ちしてるのがお似合いで」	　I'm better suited as the unsung support.」
+
+97271	Rance	「…………」	「............」
+
+97272	Rance	「おい、こいつ大丈夫なんだろうな？」	「Hey, is this guy okay?」
+
+97273	Hubert Lipton	「仕事は出来る。	「He can do the job.
+97274	+	　その点は安心してもらっていいぜ」	　You can trust him on that.」
+
+97275	Rance	「ふーん……」	「Hmm...」
+
+97276	-	…………	............
+
+97277	-	……	...
+
+97278	Tolstoy Bato	「クリームさん、こちらの書類に	「Cream-san, I've summarized the report
+97279	+	　魔人討伐隊遠征の報告をまとめておきました。	　on the Fiend Extermination Squad expedition here.
+97280	+	　目を通しておいて下さい」	　Please take a look.」
+
+97281	Cream Ganoblade	「あ、は、はい……」	「Ah, y-yes...」
+
+97282	Zeth Mage Soldier	「すみません、トルストイ殿。	「Excuse me, Tolstoy-dono.
+97283	+	　この付近の魔物共の野営地の予測地点です。	　These are predicted locations of monster camps nearby.
+97284	+	　これを見て意見が欲しいのですが」	　I'd like your opinion after looking at them.」
+
+97285	Tolstoy Bato	「分かった。	「Understood.
+97286	+	　見ておきます」	　I'll review them.」
+
+97287	Sanakia Drelshkaf	「失礼、トルストイ殿。	「Excuse me, Tolstoy-dono.
+97288	+	　本日は城の兵達に訓練を	　Today the castle soldiers are scheduled
+97289	+	　つけて頂く予定だが……」	　for training with you...」
+
+97290	Tolstoy Bato	「すぐに行きます。	「I'll head there right away.
+97291	+	　では、皆さん、今日はこれで失礼します」	　Well then, everyone, excuse me for today.」
+
+97292	-	黙々、テキパキとトルストイが仕事を進めていた。	Tolstoy worked silently and efficiently.
+
+97293	Rance	「……有能だな」	「...He's capable.」
+
+97294	Rance	「しかも、めっちゃ頼られてるな……」	「And he's relied on a lot...」
+
+97295	Tolstoy Bato	「…………」	「............」
+
+97296	Tolstoy Bato	「……はあ、どうも」	「...Haa, thank you.」
+
+97297	Tolstoy Bato	「恐縮です……」	「I'm humbled...」
+
+97298	Rance	「はにかみもせんぞ、こいつ……」	「He doesn't even get shy...」
+
+97299	Hubert Lipton	「だから、こういう奴なんだって」	「That's just how he is.」

@@ -1,0 +1,674 @@
+# 32224	０３／ランスがリーダー	cg
+* Rance	ランス	Male
+* Biscuitta Burns	ビスケッタ	Female
+* Sill Plain	シィル	Female
+* Magic the Gandhi	マジック	Female
+* Lia Parapara Leazas	リア	Female
+* Sheila Helman	シーラ	Female
+* Oda Kouhime	香姫	Female
+* Crook Mofus	クルックー	Female
+* Generic Other	汎用その他	?
+* Cream Ganoblade	クリーム	Female
+* Copandon Dott	コパンドン	Female
+* Urza Pranaice	ウルザ	Female
+* Papademas Shirusven	パパデマス	Male
+
+131381	-	翌日、各国の要人が世界中からランス城に集まった。	The next day, important figures from countries all over the world gathered at Rance Castle.
+
+131382	Rance	「なんだ、香ちゃんはもうどっか行ったのか」	「What, Kou's already gone somewhere?」
+
+131383	Biscuitta Burns	「はい、朝の四時にはお出になられました。	「Yes, she left at four in the morning.
+131384	+	　御主人様もすぐに準備をなさってください」	　Master, please get ready quickly too.」
+
+131385	Rance	「準備？　なんの？」	「Prepare? For what?」
+
+131386	Biscuitta Burns	「各国要人の方々を集めた首脳会談です。	「It's a summit meeting with leaders from every country.
+131387	+	　御主人様も是非出席して頂きたいと香姫様が」	　Kouhime strongly wants you to attend.」
+
+131388	Rance	「ああ、そんな話だったな……	「Oh yeah, there was something like that...
+131389	+	　面倒だが行ってやるか」	　It's a pain, but I'll go.」
+
+131390	Sill Plain	「あ、ランス様、朝ご飯です。	「Ah, Rance-sama, breakfast.
+131391	+	　すみません、こんなものしか……」	　Sorry, this is all I have...」
+
+131392	Rance	「あんパンと牛乳か……	「Anpan and milk, huh...
+131393	+	　今日は忙しくなりそうだなぁ……」	　Today's gonna be busy...」
+
+131394	-	ランスがパンを食べながら廊下を歩くと、	While eating bread and walking down the hallway,
+131395	+	すぐに異変に気づいた。	Rance immediately noticed something strange.
+
+131396	Rance	「……なんか、人が多くないか？」	「...Aren't there way too many people?」
+
+131397	-	騎士の集団とすれ違ったかと思えば、	He passed a group of knights,
+131398	+	今度は貴族風の集団とすれ違う。	then a group of nobles.
+131399	+	新聞記者らしき集団がザワザワと雑談までしていた。	Even groups that looked like newspaper reporters were chatting noisily.
+
+131400	-	普段はランスの知り合いしかいない	Normally only Rance's acquaintances were around,
+131401	+	ランス城において異常な光景である。	so this was an abnormal sight in Rance Castle.
+
+131402	Biscuitta Burns	「なにしろ世界各国の要人が集まっておりますので」	「After all, important people from countries all over the world are gathered here.」
+
+131403	Biscuitta Burns	「護衛の為の人員、要人の部下の方々などで、	「Guards, subordinates of the leaders,
+131404	+	　現在ランス城は多数の方が出入りしています」	　so right now many people are coming and going.」
+
+131405	Rance	「大袈裟な。	「Overkill.
+131406	+	　各国の要人って要はリアやマジックとか	　The so-called leaders are basically just Lia, Magic,
+131407	+	　俺の女達だろうに」	　and my other women anyway.」
+
+131408	Biscuitta Burns	「いえ、今回は自由都市地帯の王、	「No, this time the king of the Free Cities States,
+131409	+	　各国の貴族の方々など大勢の要人の方が	　nobles from various countries, and many other important figures
+131410	+	　いらっしゃっています」	　have come.」
+
+131411	Sill Plain	「既に皆さん集まって、	「Everyone has already gathered,
+131412	+	　首脳会談を始めているそうです」	　and the summit has started.」
+
+131413	Sill Plain	「ランス様のお仕事は適切なタイミングで、	「Your job, Rance-sama, is to propose cooperation
+131414	+	　皆で協力することを提案して頂くことだそうです」	　at the right moment.」
+
+131415	Rance	「そんなんで大丈夫なのか？」	「Will that be enough?」
+
+131416	Sill Plain	「後はクルックーさんが上手くフォローして、	「After that, Crook will follow up nicely
+131417	+	　場をまとめて下さるそうですよ？」	　and keep things together.」
+
+131418	Rance	「ふーん……」	「Hmm...」
+
+131419	Rance	「面倒だなぁ」	「What a pain.」
+
+131420	Rance	「ま、皆に仲良くしろって言うだけだし、	「Well, I just have to tell everyone to get along,
+131421	+	　それが終わったら部屋に戻るか」	　then I can go back to my room.」
+
+131422	Rance~	（場合によっては、ばっくれるか）	（If it gets bad, I might just slip away.）
+
+131423	Sill Plain	「はふ、なんだかドキドキしてきました……」	「Hafu, I'm getting nervous...」
+
+131424	Rance	「馬ー鹿、お前が緊張してどうすんだ。	「Idiot, why are you getting nervous.
+131425	+	　お、ついたな」	　Oh, we're here.」
+
+131426	-	ランスは普段通りの何気なさで	With his usual casual attitude,
+131427	+	首脳会談の行われている部屋の扉を開けた。	Rance opened the door to the summit room.
+
+131428	Magic the Gandhi	「あんたねーッ！」	「You idiot!」
+
+131429	Rance	「どわっ！？　な、なんだぁ？」	「Dowa!? W-what the!?」
+
+131430	Magic the Gandhi	「いい加減にしなさいよ！	「Knock it off already!
+131431	+	　今、苦しんでいるのはリーザスだけじゃないのよ！？」	　It's not just Leazas that's suffering right now!」
+
+131432	Lia Parapara Leazas	「そんなの知らなーい。	「I don't caaare.
+131433	+	　リアとリーザスは生き残れるもーん！」	　Lia and Leazas will survive no matter what!」
+
+131434	-	大声は、世界一裕福な国家リーザスの女王リアと	The loud argument was between the queen of the world's richest nation Leazas, Lia,
+131435	+	魔法大国ゼスの王女マジックの口喧嘩だった。	and the princess of the magic superpower Zeth, Magic.
+
+131436	-	広い会議室の中、大国のトップ達は中央の円卓を囲み、	Inside the large conference room, leaders of major nations sat around a central round table,
+131437	+	壁際にはズラリと各国の政治家、貴族、王が並んでいた。	while along the walls stood politicians, nobles, and kings from every country.
+
+131438	-	室内には息の詰まるような緊張感が漂っている。	A suffocating tension filled the room.
+
+131439	Magic the Gandhi	「いい加減にしなさい！	「Enough already!
+131440	+	　好き勝手なことばかり言って！」	　Stop saying whatever you want!」
+
+131441	Lia Parapara Leazas	「あら、リアはリーザス女王として国の意向を伝えているだけよ？」	「Oh? I'm just stating Leazas's position as its queen.」
+
+131442	Lia Parapara Leazas	「協力しあうなんてナンセンス。	「Cooperating is nonsense.
+131443	+	　それぞれがそれぞれの動きたいように動けばいいわ」	　Everyone should just do what they want.」
+
+131444	Magic the Gandhi	「ぐっ、くぅ……	「Guh, kuu...
+131445	+	　シーラ大統領！　貴方も同じ考えなの！？」	　President Sheila! You think the same way!?」
+
+131446	Sheila Helman	「ひえっ！？　い、いえ、私はその……」	「Hiee!? N-no, I... um...」
+
+131447	Sheila Helman	「えーと……」	「Uhh...」
+
+131448	Lia Parapara Leazas	「ふんっ、お飾りの大統領に言えることなんて何もないでしょ」	「Hmph, a figurehead president like you has nothing to say.」
+
+131449	Oda Kouhime	「あ、あの……JAPANは現在ほぼ無傷を保っています……	「U-um... JAPAN is almost completely unharmed right now...
+131450	+	　ここは我が国から支援をしたいと思っているのですが」	　We would like to offer support from our country.」
+
+131451	Lia Parapara Leazas	「はっ、冗談言わないで、これを機と見て大陸に攻め込むつもりね」	「Ha, don't joke. You're planning to invade the continent while you have the chance, right?」
+
+131452	Oda Kouhime	「え、いえ、そんなことは！？」	「Eh, no, that's not it at all!?」
+
+131453	Lia Parapara Leazas	「それより今、話すべきはリーザス以外の各国がどう動くべきか、	「More importantly, we should be talking about how countries other than Leazas should act,
+131454	+	　ということじゃないかしら？」	　right?」
+
+131455	Magic the Gandhi	「今更なにを……各国が協力しあう為の首脳会談の筈でしょう」	「What are you saying now... This is supposed to be a summit for countries to cooperate.」
+
+131456	Lia Parapara Leazas	「あら、違うわ」	「Oh, it's not.」
+
+131457	Lia Parapara Leazas	「今、世界で最も強い国はリアのリーザス。	「Right now the strongest country in the world is my Leazas.
+131458	+	　貴方達はリアにお願いして傘下に入れて下さいと懇願する場よ」	　You should all beg me to let you join under Leazas.」
+
+131459	Magic the Gandhi	「……ふ、っざけたことを！」	「...What ridiculous nonsense!」
+
+131460	Lia Parapara Leazas	「マジック・ザ・ガンジー副王、	「Magic the Gandhi, Vice King,
+131461	+	　貴方は今この場に立場ある身で来ている筈」	　you came here with an official position.」
+
+131462	Lia Parapara Leazas	「ディベートごっこがしたいのなら、学園でおやりなさい」	「If you want to play debate, do it at school.」
+
+131463	Magic the Gandhi	「なっ！」	「Wha!」
+
+131464	汎用男性／基本	「リア女王、いい加減にされよ！	「Queen Lia, enough already!
+131465	+	　場をかき乱すことが目的なら退室して頂きたい！」	　If your goal is to disrupt the meeting, please leave!」
+
+131466	-	あまりに横暴極まりないリアの態度に、	Lia's extremely arrogant attitude,
+131467	+	怒りと共にゼスの高官が声を上げた。	made a Zeth high official shout in anger.
+
+131468	-	しかし、すぐさま自由都市の王がその声を遮る。	But the king of the Free Cities immediately cut him off.
+
+131469	汎用男性／基本	「いや……」	「No...」
+
+131470	汎用男性／基本	「私はリア女王の言葉に賛同する。	「I agree with Queen Lia.
+131471	+	　世界はリーザスの元一つになるべきだ」	　The world should unite under Leazas.」
+
+131472	汎用男性／基本	「なんだと！？」	「What did you say!?」
+
+131473	-	これには他国の有力者も黙ってはいられなかった。	This caused powerful figures from other countries to speak up too.
+
+131474	汎用男性／基本	「貴様！　自分が何を言っているのか分かっているのか！	「You bastard! Do you even know what you're saying!
+131475	+	　今は世界が一丸とならねば――」	　Right now the world must unite一一」
+
+131476	汎用男性／基本	「戯れ言を！　まとまるのならば、強きリーダーが必要！	「Nonsense! To unite, we need a strong leader!
+131477	+	　今、この世界でリーザス以外の誰にそれが務まる！」	　Who else in this world besides Leazas can do that!」
+
+131478	汎用男性／基本	「どうせ買収でもされただけの癖に吠えるな！」	「You're just bought off, so shut up!」
+
+131479	汎用男性／基本	「な、なんだと貴様！？　今の言葉を取り消せ！」	「W-what did you say!? Take that back!」
+
+131480	-	遂には議論など誰もが放棄して、	Eventually everyone gave up on discussion,
+131481	+	今にも掴みかかりそうなほど激しく、醜い罵り合いに発展した。	and it turned into an ugly, violent shouting match.
+
+131482	Sill Plain	「あわわ……大変なことに……」	「Awa wa... this is getting bad...」
+
+131483	Sill Plain	「あ、あのあの、ランス様……	「U-um, Rance-sama...
+131484	+	　そろそろ声を上げられた方が……」	　Maybe you should say something soon...」
+
+131485	Rance	「んーーー……」	「Mmm...」
+
+131486	Rance	「めんどい、やめた」	「Too much trouble, I'm out.」
+
+131487	Sill Plain	「へっ！？」	「Eh!?」
+
+131488	Rance	「やめだ、やめだ。下らん。	「Forget it, forget it. Stupid.
+131489	+	　喧嘩がしたいなら勝手にやらせとけ」	　If they wanna fight, let them.」
+
+131490	Rance	「シィル、ついてこい。こそーっと抜けるぞ」	「Sill, follow me. We're sneaking out.」
+
+131491	Sill Plain	「ええええっ！？」	「Eeeeeh!?」
+
+131492	Sill Plain	「……でも、あの、いいんですか？」	「...But, is that really okay?」
+
+131493	Rance	「いいに決まってるだろう」	「Of course it is.」
+
+131494	Oda Kouhime	「だ、駄目ですー」	「N-no you can't!」
+
+131495	Rance	「げっ……香ちゃん、いつの間に……」	「Geh... Kou, when did you...」
+
+131496	-	ランスのマントをひしっと香姫が掴んでいた。	Kou was tightly gripping Rance's cloak.
+
+131497	Oda Kouhime	「この場を納められるのは、	「The only one who can calm this situation
+131498	+	　世界でも兄様しかいません……	　in the whole world is you, Nii-sama...
+131499	+	　あ、あの、だから……」	　S-so please...」
+
+131500	Rance	「うーん、そう言われてもなあ……」	「Hmm, even if you say that...」
+
+131501	Lia Parapara Leazas	「あ、ダーリン！？」	「Ah, darling!?」
+
+131502	Magic the Gandhi	「あ、ちょっと！」	「Ah, wait!」
+
+131503	Lia Parapara Leazas	「ちょーど良かった！	「Perfect timing!
+131504	+	　今日来たのはダーリンに会いたかったからなの」	　I came today because I wanted to see darling.」
+
+131505	Lia Parapara Leazas	「さ、ダーリン。	「Come on, darling.
+131506	+	　リアと一緒にリーザス城に行きましょ？	　Let's go to Leazas Castle together with Lia?
+131507	+	　こんな所にいるよりよっぽど安全よ♪」	　It's much safer than staying in a place like this♪」
+
+131508	Magic the Gandhi	「ちょ、ちょっと！	「W-wait a second!
+131509	+	　どさくさになに言ってるのよ！」	　What are you saying while taking advantage of the chaos!」
+
+131510	Magic the Gandhi	「だ、大体ランスは、元々私と結婚する筈で……」	「A-anyway, Rance was originally supposed to marry me...」
+
+131511	Rance	「あーもう、ぐちゃぐちゃ騒ぐな」	「Aah geez, stop making such a racket.」
+
+131512	Rance	「なんでそうお前らは協調性がないんだ	「Why the hell do you guys have zero teamwork
+131513	+	　協力しようって気が少しはないのか」	　Don't you have even a shred of willingness to cooperate?」
+
+131514	Lia Parapara Leazas	「えー、だってー。	「Ehh, butー.
+131515	+	　世界だなんてどうでもいいもーん」	　I don't care about the world at allー.」
+
+131516	Lia Parapara Leazas	「リアはー、リーザスさえ無事ならそれでいいの」	「As long as Leazas is safe, that's enough for Lia.」
+
+131517	Magic the Gandhi	「この女王の言うことはともかく……	「Putting aside what this queen says...
+131518	+	　立場上、他の者の下についたり、	　As a nation, we can't just submit to others,
+131519	+	　聞いたりなんて出来ないのよ……」	　or take orders...」
+
+131520	Lia Parapara Leazas	「あ、でもー、ダーリンが	「Ah, but if Darling becomes
+131521	+	　リーザスの王になるのはＯＫよ」	　the king of Leazas, that's fine.」
+
+131522	Lia Parapara Leazas	「それならリア、	「In that case, I'll
+131523	+	　なんでも言うこと聞いちゃう♪」	　listen to anything you say♪」
+
+131524	Magic the Gandhi	「そ、それって、あんたがランスの妻になるって	「T-that means you'd become Rance's wife!
+131525	+	　ことじゃないの！　いい加減に――！」	　Stop it already一一!」
+
+131526	Rance	「だーっ！　いい加減にしろーッ！」	「Gah! Enough already!」
+
+131527	Rance	「まったく！	「Seriously!
+131528	+	　人の城でギャースカといつまでも喧嘩しおって！」	　Fighting noisily forever in someone else's castle!」
+
+131529	Rance	「ちっ……	「Tch...
+131530	+	　馬鹿馬鹿しい、大使なんてヤメだ、ヤメ」	　This is stupid. I'm quitting as ambassador.
+
+131531	Oda Kouhime	「ええっ！？　そ、そんな――」	「Ehh!? N-no way一一」
+
+131532	Rance	「ふん、ダメダメ。	「Hmph, no good.
+131533	+	　こいつら俺の言うことなんて聞きゃしねぇ」	　These guys won't listen to me anyway.」
+
+131534	Rance	「大体、大使だか外交官だが知らんが、	「Besides, whether ambassador or diplomat,
+131535	+	　俺が皆に協力を呼びかける……	　me calling for cooperation...
+131536	+	　なんてのがはなから間違いなんだ」	　was a mistake from the start.」
+
+131537	Rance	「だから、その代わり――」	「So instead一一
+
+131538	Rance	「俺が世界のトップに立ってやる」	「I'll stand at the top of the world.」
+
+131539	Magic the Gandhi	「え……？」	「Eh...?」
+
+131540	Rance	「この場にいる奴ら全員、	「Everyone here,
+131541	+	　今日から俺様の部下になれ」	　from today onward, become my subordinates.」
+
+131542	Rance	「誰が何をすればいいかは、	「What each of you should do,
+131543	+	　これからぜーんぶ、俺様が指示してやる。	　I'll give all the orders from now on.
+131544	+	　お前らはそれに従うだけでオーケ」	　Just obey them.」
+
+131545	Rance	「そうしたら、魔軍なんぞ俺様が潰してやる」	「Then I'll crush the Monster Army myself.」
+
+131546	Rance	「がははは！	「Gahahaha!
+131547	+	　これなら文句あるまい！」	　No complaints now, right!」
+
+131548	Rance	「リーザスもゼスもヘルマンもその他の国も、	「Leazas, Zeth, Helman, and every other country,
+131549	+	　全員俺様についてこい！」	　all of you follow me!」
+
+131550	Rance	「いいな」	「Got it?」
+
+131551	汎用男性／基本	「い……」	「I...」
+
+131552	Rance	「ん？」	「Hm?」
+
+131553	汎用男性／基本	「いいわけあるか馬鹿者！」	「Of course not, you idiot!」
+
+131554	汎用男性／基本	「そんなことが許されると思っておるのか！」	「You think something like that is allowed!?」
+
+131555	汎用男性／基本	「なにを馬鹿馬鹿しい！　不敬だ！	「What nonsense! This is disrespectful!
+131556	+	　今すぐこの場を出ていけ！」	　Get out right now!」
+
+131557	汎用男性／基本	「ただの１城主程度が調子に乗るな！」	「Don't get cocky just because you're the lord of one castle!」
+
+131558	Rance	「おお、すんごい反発」	「Whoa, huge backlash.」
+
+131559	-	壁際にいる各国の要人達が	The important figures lined along the walls
+131560	+	一斉にランスを激しく非難した。	all fiercely criticized Rance at once.
+
+131561	Sill Plain	「あ、当たり前ですよ。	「O-of course they would.
+131562	+	　皆さん、すごい怒ってますよ」	　Everyone is really angry.」
+
+131563	Rance	「うーむ、収拾がつかんなこれじゃ」	「Hmm, this is getting out of hand.」
+
+131564	Crook Mofus	「では、私が収拾つけます」	「Then I will calm things down.」
+
+131565	汎用男性／基本	「ほっ、法王ムーララルー！？」	「Hoh, Pope Mulalaloux!?」
+
+131566	Rance	「む、いたのか」	「Mu, you were here?」
+
+131567	Crook Mofus	「いましたよ。壁際に最初から」	「I was. From the beginning at the wall.」
+
+131568	Crook Mofus	「皆さん、どうか落ち着いて下さい。	「Everyone, please calm down.
+131569	+	　そして、どうか私の言葉に耳を傾けて下さい」	　And please listen to my words.」
+
+131570	汎用男性／基本	「……う、く」	「...U, ku.」
+
+131571	-	世界的宗教組織の法王。	The Pope of the world religion.
+
+131572	-	壁際にいたのはあくまでも国を率いていないから	She stood at the wall simply because she didn't lead a country,
+131573	+	というだけの理由であり、	but her influence was in no way inferior to major nations.
+131574	+	その発言力は大国のそれになんら劣らない。	Her neutral and fair position gave her words great power.
+
+131575	-	中立故に公正な立場である法王の言葉は、	The Pope's words had enough weight
+131576	+	この場を納めるのに充分な力があった。	to settle the situation.
+
+131577	Crook Mofus	「これは個人的な意見ですが……」	「This is my personal opinion, but...
+
+131578	Crook Mofus	「確かに彼ならば、世界をまとめられるかと」	「I believe he truly can unite the world.」
+
+131579	汎用男性／基本	「なっ！？	「What!?」
+131580	+	　なんということを……！？」	　What are you saying...!?」
+
+131581	Crook Mofus	「彼は確かにこの小さな城の持ち主に過ぎません」	「He is indeed only the owner of this small castle.」
+
+131582	Crook Mofus	「ですが、リーザス、ゼス、ヘルマン、JAPANの	「However, during critical crises in Leazas, Zeth, Helman, and JAPAN,
+131583	+	　重要な危機の際に中心となって活躍しました」	　he played a central role.」
+
+131584	Crook Mofus	「各国の首脳陣とも交友が深く、	「He has deep friendships with leaders of many nations,
+131585	+	　信頼も厚いと聞きます……」	　and is highly trusted...」
+
+131586	Crook Mofus	「法王ムーララルーとして、	「As Pope Mulalaloux,
+131587	+	　この場の皆さんに問います」	　I ask everyone here.」
+
+131588	-	クルックーが皆に振り返る。	Crook turned to face everyone.
+
+131589	Crook Mofus	「彼の言葉に賛同し、	「Is there anyone who agrees with his words
+131590	+	　彼の下につこうという方は	　and wishes to follow under him?」
+131591	+	　いらっしゃいませんか？」	
+
+131592	Generic Other	「……」	「......」
+
+131593	-	壁際の要人は誰もが口をつぐんだ。	The figures at the wall all fell silent.
+
+131594	-	痛いほどの沈黙が部屋を包み込みだした、	A painful silence filled the room,
+131595	+	そのとき――	when一一
+
+131596	Sheila Helman	「…………はい」	「............Yes.」
+
+131597	-	ヘルマン共和国の長、シーラ・ヘルマンが挙手した。	Sheila Helman, leader of the Helman Republic, raised her hand.
+
+131598	Sheila Helman	「我がヘルマン共和国は、	「The Helman Republic
+131599	+	　ランス様のお言葉に賛同し、傘下につきます」	　agrees with Lord Rance's words and will join under him.」
+
+131600	Sheila Helman	「ランス様」	「Lord Rance.」
+
+131601	Rance	「おう」	「Yeah.」
+
+131602	Sheila Helman	「ヘルマンをご自由にお使い下さい」	「Please use Helman as you wish.」
+
+131603	Sheila Helman	「そして、どうか我々をお救い下さい」	「And please save us.」
+
+131604	Rance	「よかろう」	「Very well.」
+
+131605	Sheila Helman	「……ありがとうございますっ」	「...Thank you very much!」
+
+131606	Cream Ganoblade	「し、シーラ大統領、我が国は既に民主主義国家。	「P-President Sheila, our country is already a democracy.
+131607	+	　そういったことは議会の決議を待たねば……」	　Such decisions require parliamentary approval...」
+
+131608	Sheila Helman	「では、すぐに合議の為の場を作りましょう。	「Then let's immediately create a place for discussion.
+131609	+	　私が皆さんを説得します」	　I will persuade everyone.」
+
+131610	Cream Ganoblade~	（ああ……もう、何を言っても聞かない顔だ……）	（Aah... she's already got that 'I won't listen' face...）
+
+131611	汎用男性／基本	「し、信じられん……ヘルマンは何を考えて……」	「U-unbelievable... What is Helman thinking...」
+
+131612	Crook Mofus	「分かりました、まずはヘルマン共和国ですね」	「Understood. First, the Helman Republic.」
+
+131613	Oda Kouhime	「……はい、JAPANも賛同致します」	「...Yes, JAPAN also agrees.」
+
+131614	Oda Kouhime	「兄様……	「Nii-sama...
+131615	+	　いつか、JAPANを統一したときのように……	　Just like when you unified JAPAN...
+131616	+	　また、世界を繋げて下さい」	　please connect the world once more.」
+
+131617	Rance	「おー、いいぞー」	「Oh, nice.」
+
+131618	Oda Kouhime	「もう、気のないお返事ですね」	「Mou, what a half-hearted reply.」
+
+131619	Copandon Dott	「んー、ほたら、自由都市も傘下につこうかな」	「Hmm, then the Free Cities will join too.」
+
+131620	汎用男性／基本	「ちょ、ちょっとお待ち下さい！」	「W-wait a moment!」
+
+131621	-	慌てて口を挟んだのは自由都市の	The one who hurriedly interrupted was
+131622	+	小国をまとめる王であった。	the king who unified the small nations of the Free Cities.
+
+131623	汎用男性／基本	「コパンドン殿！	「Lord Copandon!
+131624	+	　あ、貴方は確かに自由都市連合の長だが、	　You may be the leader of the Free Cities Alliance,
+131625	+	　そういったことは連合の皆で決めねば！」	　but such decisions must be made by the entire alliance!」
+
+131626	Copandon Dott	「んなチンタラしてたらタイミング逃すやんか」	「If we drag it out we'll miss the chance.」
+
+131627	Copandon Dott	「順番あべこべになるけど絶対に皆納得させたる。	「The order might be backwards, but I'll convince everyone.
+131628	+	　後で会議するから帰ったらいかんでー」	　We'll hold a meeting later, so don't go home.」
+
+131629	汎用男性／基本	「む、むう……」	「Mu, muu...」
+
+131630	Crook Mofus	「分かりました。JAPANと、	「Understood. JAPAN and,
+131631	+	　暫定的ではありますが、自由都市も、ですね」	　tentatively, the Free Cities as well.」
+
+131632	Magic the Gandhi	「ま、待ちなさい！」	「W-wait!」
+
+131633	Magic the Gandhi	「ぜ、ゼスも協力するわ」	「Z-Zeth will cooperate too.」
+
+131634	Lia Parapara Leazas	「ふーん？　いいのー？	「Hmm? Is that okay?
+131635	+	　そんなこと勝手に決めちゃって」	　Deciding that on your own?」
+
+131636	Magic the Gandhi	「わ、私が皆を説得するわよ！	「I'll persuade everyone myself!
+131637	+	　ほ、他の国がやってるのに、	　Other countries are doing it,
+131638	+	　私だけしないなんて……ッ！」	　I can't be the only one not doing it...!」
+
+131639	Urza Pranaice	「安心して下さいマジック様。	「Please be at ease, Lady Magic.
+131640	+	　私も協力します。それに……」	　I will cooperate too. Besides...」
+
+131641	-	ウルザは緊張で強ばらせていた頬を和らげた。	Urza relaxed her tense cheeks.
+
+131642	Urza Pranaice	「あの、ガンジー王が反対するわけありませんしね」	「King Gandhi would never oppose it.」
+
+131643	Urza Pranaice	「法王ムーララルー、ゼスもまた彼の傘下に」	「Pope Mulalaloux, Zeth will also join under him.」
+
+131644	Crook Mofus	「はい、分かりました」	「Yes, understood.」
+
+131645	汎用男性／基本	「い、いったい、どうなっているのだ……	「W-what on earth is happening...
+131646	+	　各国が次々にあの男の傘下に……」	　Countries are joining under that man one after another...」
+
+131647	汎用男性／基本	「あああ、あはは、悪い夢でも見ているようだ……」	「Aaaah, ahaha, this feels like a bad dream...」
+
+131648	Magic the Gandhi	「それで？	「So?
+131649	+	　リーザスはどうするのかしら？」	　What will Leazas do?」
+
+131650	Lia Parapara Leazas	「……ふん」	「...Hmph.」
+
+131651	-	大国の中で、唯一最後に残されたリアに	With Lia as the only major nation left,
+131652	+	その場にいる全ての視線が集まる。	all eyes in the room focused on her.
+
+131653	-	今まで散々場を引っかき回したリーザスは	Leazas, which had caused so much chaos until now,
+131654	+	おそらく最後まで折れることはないだろう、	probably wouldn't yield until the end,
+131655	+	リアを知らぬ大多数の者がそう思った。	or so most people who didn't know her thought.
+
+131656	-	が、しかし――	However一一
+
+131657	Lia Parapara Leazas	「っっっ、はーーい！　リーザスはもちろん	「Yeees! Of course Leazas
+131658	+	　ダーリンについていきまーっっっす！」	　will follow Darling!」
+
+131659	-	リアはピョンと跳ねながら宣言した。	Lia declared while hopping cheerfully.
+
+131660	Lia Parapara Leazas	「リーザスを宜しくねー、ダーリン！」	「Take good care of Leazas, Darling!」
+
+131661	Rance	「おー、よろしくされてやる」	「Yeah, I'll take good care of it.」
+
+131662	汎用男性／基本	「なあっ！？　あ、あのリーザスがこんな……！」	「What!? That Leazas is doing this...!」
+
+131663	Crook Mofus	「最後となりましたが……	「Lastly...
+131664	+	　ＡＬ教もランスに従います」	　The AL Church will also follow Rance.」
+
+131665	Crook Mofus	「……それが神の御心」	「...This is God's will.」
+
+131666	汎用男性／基本	「こ、これは……いったい、どう判断すれば……」	「T-this... how should we judge this...」
+
+131667	-	呆気にとられた壁際の首脳陣の中から、	From the stunned leaders at the wall,
+131668	+	一人の都市長が立ち上がった。	one city mayor stood up.
+
+131669	Papademas Shirusven	「わ、私もランス殿に賛同いたしますぞ！」	「I-I also agree with Lord Rance!」
+
+131670	Papademas Shirusven	「いやぁ、何を隠そう、	「Well, to be honest,
+131671	+	　私もランス殿のすごさには注目していたのです！」	　I've been paying attention to how amazing Lord Rance is!」
+
+131672	Papademas Shirusven	「この方にしか人類はまとめられません！	「Only this man can unite humanity!
+131673	+	　はははは、先に言われてしまいましたなー！」	　Hahaha, someone beat me to it!」
+
+131674	-	一人の都市長の言葉に、辺りがざわつきだす。	The words of one mayor caused the room to stir.
+
+131675	汎用男性／基本	「そ、そうなのか……？	「I-is that so...?
+131676	+	　そんなにすごい男だったのか……？」	　Was he such an amazing man...?」
+
+131677	汎用男性／基本	「わ、私も賛同いたしますぞ！」	「I-I agree too!」
+
+131678	汎用女性／基本	「私も！」	「Me too!」
+
+131679	汎用男性／基本	「我が国もだ！」	「Our country as well!」
+
+131680	-	流れに乗り遅れてはまずいと判断した	Fearing they would miss the wave,
+131681	+	各国の要人達までもが、ランスになびく。	important figures from every country began to side with Rance.
+
+131682	-	その場は手の平返しの大合唱となった。	The room turned into a great chorus of sudden support.
+
+131683	Sill Plain	「あ、あわわ……なんだかすごいことに……」	「A, awawa... this is getting really big...」
+
+131684	Rance	「ふん、中々悪くない気分だ」	「Hmph, not a bad feeling.」
+
+131685	Rance	「おい、クルックー。	「Hey, Crook.
+131686	+	　みんな文句ないってよ」	　Everyone says no complaints.」
+
+131687	Crook Mofus	「…………」	「............」
+
+131688	Crook Mofus	「そのようですね」	「It seems so.」
+
+131689	-	リーザス。	Leazas.
+
+131690	-	ゼス。	Zeth.
+
+131691	-	ヘルマン。	Helman.
+
+131692	-	自由都市。	Free Cities.
+
+131693	-	JAPAN。	JAPAN.
+
+131694	Crook Mofus	「この場にいる五人は五つの大国そのものであり、	「The five here represent the five major powers,
+131695	+	　貴方達はランスへの忠誠を誓いました」	　and you have all sworn loyalty to Rance.」
+
+131696	Crook Mofus	「そして、また他の国の方々も……」	「And the other nations as well...」
+
+131697	-	法王が持っていた杖で床を打ち鳴らす。	The Pope struck the floor with her staff.
+
+131698	Crook Mofus	「今、この場をもって……」	「At this moment...
+
+131699	Crook Mofus	「ランスの名の下に、	「Under the name of Rance,
+131700	+	　人類が統一されたことを、	　humanity has been united,
+131701	+	　法王ムーララルーが認めます」	　I, Pope Mulalaloux, recognize it.」
+
+131702	-	クルックーが振り返る。	Crook turned around.
+
+131703	Crook Mofus	「おめでとうございます、ランス。	「Congratulations, Rance.
+131704	+	　これで貴方が――」	　Now you are一一」
+
+131705	Rance	「そうだ、俺が――」	「That's right, I一一」
+
+131706	Rance	「俺が世界の支配者だーーー！	「I am the ruler of the world!!!
+131707	+	　がはははははははははは！」	　Gahahahahahahahaha!」
+
+131708	-	…………	............
+
+131709	-	……	...
+
+131710	-	リア達は部下に指示を出す為退室し、	Lia and the others left to give orders to their subordinates,
+131711	+	ランスは廊下を歩いていた。	and Rance was walking down the hallway.
+
+131712	Rance	「がははは！　見ていたかシィル、	「Gahahaha! Did you see that, Sill,
+131713	+	　俺様世界の支配者になったぞ！」	　I became the ruler of the world!」
+
+131714	Sill Plain	「は、はい、すごかったです」	「Y-yes, that was amazing.」
+
+131715	Oda Kouhime	「本当は皆に協力するように	「You were only supposed to call for cooperation...
+131716	+	　呼びかけて下さるだけで良かったのに……」	　but it turned into this...」
+
+131717	３Ｇ／基本	「いやはや、まさか世界征服を	「My my, to think world conquest
+131718	+	　こんな形で行うとは……」	　would happen in this form...」
+
+131719	３Ｇ／基本	「しかも、それが勢い任せというか……	「And it was all on momentum...
+131720	+	　どさくさ紛れというか……」	　or taking advantage of the chaos...」
+
+131721	３Ｇ／基本	「なんとまあ……	「Good grief...
+131722	+	　相変わらず、滅茶苦茶な……」	　As chaotic as ever...」
+
+131723	Rance	「……お前いたのか」	「...You guys were here?」
+
+131724	３Ｇ／基本	「いるわ！×３」	「Of course we are! ×3」
+
+131725	３Ｇ／基本	「香様だけをお一人で	「We couldn't let Lady Kou
+131726	+	　大陸に渡らせるわけあるまい！」	　cross the continent alone!」
+
+131727	Rance	「それもそーか」	「Yeah, that's true.」
+
+131728	Oda Kouhime	「…………」	「............」
+
+131729	Oda Kouhime	「ごめんなさい、兄様……」	「I'm sorry, Nii-sama...」
+
+131730	Rance	「あん？　何を謝ることがある？」	「Huh? What are you apologizing for?」
+
+131731	Oda Kouhime	「ああいう場に兄様が出たら、	「I had a feeling that if Nii-sama went to that kind of meeting,
+131732	+	　こういうことになるかも、と……	　something like this might happen...
+131733	+	　少し思っていたんです……」	　so...」
+
+131734	Rance	「なんだ、そんなことか。	「So that's it.
+131735	+	　問題ないから気にするな」	　No problem, don't worry.」
+
+131736	Rance	「大使なんてつまらなそうだったが、	「Being an ambassador seemed boring,
+131737	+	　世界の支配者になれるってんなら話は別だ」	　but becoming ruler of the world is a different story.」
+
+131738	Rance	「そんなことより香ちゃん、	「More importantly, Kou,
+131739	+	　俺はこれからなんと名乗ればいい？	　what should I call myself from now on?
+131740	+	　王様でいいのか？」	　Is King fine?」
+
+131741	Oda Kouhime	「え？　お、王様だと少し違うような……」	「Eh? King feels a bit off...」
+
+131742	Oda Kouhime	「えとえと、どうしましょう……	「Umm umm, what should we do...
+131743	+	　総統閣下……でしょうか……？」	　Supreme Leader... perhaps...?」
+
+131744	Rance	「お、いいな、それ頂き」	「Oh, I like that. I'll take it.」
+
+131745	Rance	「よーし、今日から俺のことは	「Alright, from today call me
+131746	+	　総統閣下と呼ぶのだ！」	　Supreme Leader!」
+
+131747	Rance	「がはははははははははは！」	「Gahahahahahahahaha!」
+
+131748	Oda Kouhime	「…………」	「............」
+
+131749	Oda Kouhime	「もう……兄様ったら……」	「Mou... Nii-sama...」
+
+131750	Rance	「まずは地位を利用してハーレムを作るぞ」	「First, I'll use my position to build a harem.」
+
+131751	Sill Plain	「――って、ええっ！？」	「一一Eh, ehhh!?」
+
+131752	Oda Kouhime	「に、兄様！？」	「N-Nii-sama!?」
+
+131753	Rance	「毎日、毎日、酒池肉林だ。	「Every single day will be filled with wine and women.
+131754	+	　世界中の美女をランス城に呼び寄せないとな」	　I need to summon beauties from all over the world to Rance Castle.」
+
+131755	Oda Kouhime	「あ、あのあの、ランス兄様にはもっと	「U-um, Rance-niisama has even more
+131756	+	　して頂かないと困ることがあるような……」	　important duties to attend to...」
+
+131757	Rance	「ああ、総統の仕事って奴だな」	「Yeah, the Supreme Leader's duties, right.」
+
+131758	Rance	「分かってる、分かってる。	「I know, I know.
+131759	+	　そっちも適当にやる」	　I'll handle that stuff casually too.」
+
+131760	Rance	「だが！　それよりも先にハーレムだ！」	「But! The harem comes first!」
+
+131761	Rance	「がははははははははは！	「Gahahahahahaha!
+131762	+	　ハーレム専用の部屋とか用意しないとなー！」	　I need to prepare a room just for the harem!」
+
+131763	３Ｇ／基本	「おお……」	「Ooh...」
+
+131764	３Ｇ／基本	「こんな奴に世界の命運が預けられるとは……」	「To think the fate of the world rests on a guy like this...」
+
+131765	３Ｇ／基本	「不安じゃ……」	「I'm worried...」
+
+131766	３Ｇ／基本	「不安じゃああああああ×３」	「I'm so worried x3」
+
+131767	Sill Plain	「うう……大丈夫でしょうか……」	「Uuu... will it be okay...?」
+
+131768	Oda Kouhime	「だ、大丈夫ですよ！」	「I-it'll be fine!」
+
+131769	Oda Kouhime	「……きっと」	「...Probably.」
+
+131770	Rance	「がーっはっはっはっはっ！」	「Gaaah hah hah hah!」
+
+131771	Rance	「ここから総統閣下である俺様の	「From here, my glorious reign
+131772	+	　快進撃が始まるのだ！！」	　as Supreme Leader begins!!」
+
+131773	Rance	「がははは、シィル、遅れるなよ！」	「Gahahaha, Sill, don't fall behind!」
+
+131774	Sill Plain	「は、はいっ」	「Y-yes!」

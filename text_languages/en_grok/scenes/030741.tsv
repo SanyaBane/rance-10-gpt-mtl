@@ -1,0 +1,140 @@
+# 30741	１３０／ゼス２	
+* Rance	ランス	Male
+* Magic the Gandhi	マジック	Female
+* Sill Plain	シィル	Female
+* Man	汎用男	Male
+* Muscle Man	汎用筋肉男	Male
+* Yamada Chizuko	千鶴子	Female
+
+28833	Rance	「全然足りん！」	「Still not enough!」
+
+28834	Magic the Gandhi	「た、足りないって……」	「N-not enough......」
+
+28835	Rance	「もちろん兵隊の数だ。	「Of course I mean the number of troops.
+28836	+	　戦況は悪化する一方ではないか」	　The war situation keeps getting worse.」
+
+28837	Magic the Gandhi	「それは、ッ……	「That's......
+28838	+	　やってるわよ、こっちも……！」	　We're doing everything we can too......!」
+
+28839	Rance	「もう要らん奴はいないのか。	「Are there no more disposable people?
+28840	+	　この際、後方の輸送隊あたりから引き抜くとか」	　We could pull from rear transport units at this point.」
+
+28841	Magic the Gandhi	「本当に無理よ。これ以上、無理に徴兵したら、	「It's really impossible. If we force more conscription,
+28842	+	　後先考えずに反発する連中も出るわ」	　people will rebel without thinking about the consequences.」
+
+28843	Rance	「ちっ、どうするかな……」	「Tch, what to do......」
+
+28844	Sill Plain	「あ、そうだマジックさん。	「Ah, right Magic-san.
+28845	+	　ウルザさんから書類を預かってきましたけど……」	　I have documents from Urza......」
+
+28846	Magic the Gandhi	「あら、ありがと」	「Oh, thank you.」
+
+28847	-	マジックは書類を受け取り、	Magic took the documents,
+28848	+	さっと確認してテーブルの脇に置いた。	quickly checked them, and set them aside.
+
+28849	Rance	「何の書類だ？」	「What documents?」
+
+28850	Magic the Gandhi	「ああ、悪徳金融業者の取り締まり関連よ。	「Oh, it's about cracking down on shady moneylenders.
+28851	+	　ウルザ、本来は警察長官だから」	　Urza is originally the chief of police after all.」
+
+28852	Rance	「ふーん……そう考えると大変だな」	「Hmm...... That sounds tough.」
+
+28853	-	ランスは勝手に手にとって、	Rance casually picked them up
+28854	+	書類をぺらぺらとめくる。	and flipped through them.
+
+28855	Rance	「……ん、そうか、そうだな。	「......Hmm, I see.
+28856	+	　無理矢理じゃなければ、	　If it's not forced,
+28857	+	　徴兵してもなんとかなるか？」	　we could conscript them, right?」
+
+28858	Magic the Gandhi	「……そうかも、しれないけど…………ちょっと。	「......Maybe, but...... wait.
+28859	+	　無理矢理じゃない手なんて、ランスに打てるの？」	　Do you even have a non-forced method, Rance?」
+
+28860	Rance	「くくく、思いついたぞ。	「Hehehe, I got an idea.
+28861	+	　俺様の叡智に任せておけ」	　Leave it to my supreme wisdom.」
+
+28862	Man	「ふんふふーん……」	「Hum hum huuum......」
+
+28863	Muscle Man	「よう、兄さん。元気そうだな」	「Yo, bro. Looking good.」
+
+28864	Man	「あ、あんたナマノ金融の……！	「Y-you're from Namano Finance......!
+28865	+	　り、利子なら払っただろう！」	　I paid the interest already!」
+
+28866	Muscle Man	「おお。ところで、お上からこんな通達来たの、	「Yeah. By the way, did you hear about this notice
+28867	+	　知ってるかい？」	　from the government?」
+
+28868	Man	「紙切れ……？　え、なんだこの利率歩合……！？	「A piece of paper......? What the hell is this interest rate......!?
+28869	+	　めちゃくちゃな数字になってるぞ！」	　These numbers are insane!」
+
+28870	Muscle Man	「そんなわけで、改めて取り立てろ、って話なのさ。	「So we're collecting again.
+28871	+	　こないだの分じゃ、全然足りねえ」	　Last time wasn't nearly enough.」
+
+28872	Man	「サ、サラキンシステムを使った、	「Using the sarakin system,
+28873	+	　悪徳金融の癖に……！」	　you shady loan sharks......!」
+
+28874	Muscle Man	「ウチは合法らしいぜ？　スレスレだがよ。	「We're apparently legal? Barely, though.
+28875	+	　だからお上には素直に従うって話だよ」	　So we obey the government.」
+
+28876	-	じりっと、取り立て人が詰め寄る。	The collector stepped closer.
+
+28877	Man	「む、無理だ、もう……！	「I-it's impossible......!
+28878	+	　別れた女房に土下座までして金を借りたんだぞ！」	　I even knelt and begged my ex-wife for money!」
+
+28879	Muscle Man	「じゃあ今度はフロにでも沈める算段をするこった。	「Then plan to sink to the bottom of the river.
+28880	+	　人手が必要なら相談に乗るぜ？」	　If you need manpower, I can help.」
+
+28881	Man	「…………くっ！」	「......Khh!」
+
+28882	-	男は虚を突いて、一目散に逃げ出した。	The man took advantage of the moment and ran away desperately.
+
+28883	Muscle Man	「期日までに、ちゃん金を作れよ！	「Get the money by the deadline!
+28884	+	　でなきゃサラキンが行くぞ！　ハハハハ！」	　Or the sarakin will come for you! Hahaha!」
+
+28885	-	取り立て人の嘲笑が、その背中を叩いた。	The collector's mocking laughter hit his back.
+
+28886	Man	「はあ、はあ……くっ、いったいどうして……！	「Haa, haa...... Damn, why......!
+28887	+	　国は何を考えてるんだ……殺す気か！」	　What is the country thinking...... Are they trying to kill us!」
+
+28888	-	壁に手を付いた男の指先に、	As the man leaned against the wall,
+28889	+	紙切れの感触が引っかかった。	his fingers caught on a piece of paper.
+
+28890	Man	「…………？」	「............?」
+
+28891	-	『あなたも戦場で、同胞を守りませんか？	『Won't you protect your fellow countrymen on the battlefield?
+28892	+	　今ならスタートアップ徳政令キャンペーンで、	　Right now, with the Startup Debt Cancellation Campaign,
+28893	+	　全ての借金をキャンセル！　　　　政府公報――』	　all debts will be canceled!　　　　Government Notice――』
+
+28894	-	所狭しと張りまくられた、政府のチラシだった。	It was a government flyer plastered everywhere.
+
+28895	Man	「……………………！」	「........................!」
+
+28896	-	男は迷わず、その一枚を握りしめた。	The man grabbed one without hesitation.
+
+28897	Rance	「がははは、借金まみれの連中を締め上げて、	「Gahaha, squeeze the debt-ridden scum
+28898	+	　チャラを条件に軍隊に放り込む！」	　and throw them into the army with debt cancellation as the condition!」
+
+28899	Rance	「どうだ、これなら軍隊入りは本人の判断だぞ。	「See? This way it's their own choice to join the army.
+28900	+	　徴兵ではあるまい」	　Not forced conscription.」
+
+28901	Magic the Gandhi	「こ、こんな手を打つなんて……」	「T-to use such a method......」
+
+28902	Yamada Chizuko	「……志願兵の数がどんどん増えてるわ。	「......The number of volunteers is increasing rapidly.
+28903	+	　公務員やインフラ関連の担当者も多いから、	　Many are public servants and infrastructure workers,
+28904	+	　フォローが大変だけど……」	　so follow-up is tough but......」
+
+28905	Rance	「がはははははは！　いいんだ。	「Gahahahaha! It's fine.
+28906	+	　借金まみれのクズなんぞ、	　Scum drowning in debt
+28907	+	　いなくなっても大丈夫だ」	　are better off gone.」
+
+28908	Magic the Gandhi	「でもこんな法律、後で何て言われるか……」	「But this kind of law...... what will people say later......」
+
+28909	Rance	「数が集まったらさっさと撤回すればいい。	「Once we have enough numbers, just repeal it.
+28910	+	　後はウルザちゃんのリスト通りの悪徳業者どもを	　Then crush the shady companies on Urza-chan's list
+28911	+	　潰して戦地に送れば万事解決だ」	　and send them to the battlefield. Problem solved.」
+
+28912	Rance	「あ、可愛い女の子は戦場じゃなく俺の城に送れよ。	「Ah, send any cute girls to my castle instead of the battlefield.
+28913	+	　困っているなら俺様が助けてやろう、がはは」	　If they're in trouble, I'll help them. Gahaha」
+
+28914	Magic the Gandhi	「あ、悪党……」	「Y-you scoundrel......」
+
+28915	-	ランスの無茶苦茶な指示により、	Thanks to Rance's outrageous orders,
+28916	+	ゼス軍に7万ほどの借金返済部隊が集まった。	around 70,000 debt repayment troops joined the Zeth army.

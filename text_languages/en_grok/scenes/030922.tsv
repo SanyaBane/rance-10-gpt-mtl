@@ -1,0 +1,243 @@
+# 30922	２３０／１／マジック千鶴子と再会	
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Crook Mofus	クルックー	Female
+* Yamada Chizuko	千鶴子	Female
+* Magic the Gandhi	マジック	Female
+* Satella	サテラ	Female
+* Chaos	カオス	Male
+* Kentou Kanami	かなみ	Female
+* Anise Sawatari	アニス	Female
+
+39479	-	ランスたちは、ゼス軍が司令部にしているという、	Rance and the others arrived at the large mansion
+39480	+	大きな館に到着した。	that the Zeth army was using as headquarters.
+
+39481	Rance	「さーて。ウルザちゃんはいないだろうから……	「Alright. Urza probably isn't here...
+39482	+	　マジックか。ガンジーは留守だといいが……」	　So Magic. Hopefully Gandhi is away...」
+
+39483	Sill Plain	「ウルザさんからは、こっちで指揮を執るのは	「From Urza-san, I heard that the commander here
+39484	+	　千鶴子さんだと聞いていますよ」	　is Chizuko-san.」
+
+39485	Rance	「千鶴子……ああ、あのケバ子か。	「Chizuko... Oh, that flashy woman.
+39486	+	　美人なのはいいが、キンキラキンの服がな……」	　She's beautiful, but those gaudy clothes...」
+
+39487	Crook Mofus	「ランス。向こうから来たようです」	「Rance. Someone is coming from over there.」
+
+39488	-	ランスが嫌な記憶に辟易していると、	While Rance was grimacing at unpleasant memories,
+39489	+	館から護衛を引き連れた一団がやってきた。	a group with escorts emerged from the mansion.
+
+39490	Yamada Chizuko	「お久しぶり。ランス……総統、ね」	「Long time no see. Rance... Supreme Leader.」
+
+39491	Rance	「おっ……？」	「Oh...?」
+
+39492	Rance~	（確かに派手だが……ギリギリセーフか……？	（It's flashy, but... just barely acceptable...?
+39493	+	　少なくとも、目に痛くはない……）	　At least it doesn't hurt my eyes...）
+
+39494	Yamada Chizuko~	（……じろじろ見られてる……	（...He's staring...）
+39495	+	　この服、魔力補助を重視しすぎて……	（This outfit focuses too much on magic assistance...
+39496	+	　見た目が地味すぎたかしら……）	　Maybe it looks too plain...?）
+
+39497	Yamada Chizuko	「あの、お忘れですか？	「Um, do you not remember?
+39498	+	　ゼス四天王筆頭、山田千鶴子です」	　I am Yamada Chizuko, head of the Four Lords of Zeth.」
+
+39499	Rance	「ああいや、覚えてる覚えてる」	「Ah no, I remember, I remember.」
+
+39500	Yamada Chizuko	「そうですか。ともかく、こちらへ。	「I see. Anyway, this way please.
+39501	+	　すぐに状況を説明します。	　I'll explain the situation right away.
+39502	+	　マジックも待っていますよ」	　Magic is waiting too.」
+
+39503	Rance	「おう……ん？　ガンジーの野郎はいないのか」	「Yeah... Hm? Is that Gandhi bastard not here?」
+
+39504	-	その名前を出すと、	At the mention of that name,
+39505	+	千鶴子の口元がきゅっと締まった。	Chizuko's lips tightened.
+
+39506	Yamada Chizuko	「……ガンジー王は、おりません。	「...King Gandhi is not here.
+39507	+	　首都放棄の指示を残され、	　He left instructions for the capital's abandonment
+39508	+	　単独で出撃なさいました」	　and went out alone.」
+
+39509	Rance	「…………は？　何考えてんだ、あのおっさん」	「............Huh? What is that old man thinking?」
+
+39510	Yamada Chizuko	「その辺りも含めて……ご説明いたします」	「I'll explain that as well...」
+
+39511	Rance	「む……おう」	「Hm... Alright.」
+
+39512	-	表情に鋭さを乗せた千鶴子に促されて、	Prompted by the sharp-looking Chizuko,
+39513	+	ランスは王宮へと足を運んだ。	Rance headed into the palace.
+
+39514	Magic the Gandhi	「ランス！　来たのね」	「Rance! You came.」
+
+39515	Rance	「おう、マジック。良い子にしてたか」	「Yo, Magic. Have you been a good girl?」
+
+39516	Magic the Gandhi	「何よそれ。こっちは大変だったんだからね。	「What is that? We've been through a lot here.
+39517	+	　もっと早く来て欲しかったわ」	　I wanted you here sooner.」
+
+39518	Yamada Chizuko	「では……各地の状況から始めます」	「Then... let's start with the situation in each region.」
+
+39519	-	千鶴子がゼスの地図を投影させた。	Chizuko projected a map of Zeth.
+
+39520	Yamada Chizuko	「今回、ゼスに侵入している軍は２つ」	「There are two armies invading Zeth this time.」
+
+39521	Yamada Chizuko	「キナニ砂漠を抜け、東方から攻めるガルティア軍。	「The Galtia army advancing from the east after crossing the Kinani Desert.
+39522	+	　そして西のマジノラインを抜けたメディウサ軍です」	　And the Medusa army that broke through the western Maginot Line.」
+
+39523	Magic the Gandhi	「……プラス、大軍を指揮する魔物大将軍。	「...Plus a Great Monster General commanding a large force.
+39524	+	　ツォトンとかいってたかしら」	　I think his name was Zedong.」
+
+39525	Yamada Chizuko	「それで、現在の勢力図がこうなっています」	「This is the current state of the forces.」
+
+39526	-	ゼスの地図が、魔軍を表す赤に塗られていく。	The map of Zeth was gradually painted red with the Monster Army's territory.
+
+39527	Satella	「メディウサに、ガルティアか……」	「Medusa and Galtia...」
+
+39528	Chaos	「ほっほー。こりゃまた厄介な奴らじゃのう。	「Hoh ho. These are some troublesome ones.
+39529	+	　斬り応え満点じゃ」	　They'll be quite satisfying to cut down.」
+
+39530	Rance	「知ってるのか」	「You know them?」
+
+39531	Chaos	「魔人一の悪趣味女と、魔人一のグルメ野郎じゃな」	「The Fiend with the worst taste and the biggest glutton among Fiends.」
+
+39532	Rance	「それでは分からんわ！　野晒しにするぞ貴様」	「I don't get it! I'll leave you out to dry, you bastard!」
+
+39533	Chaos	「ああん、錆びちゃうー。錆びませんけどね儂」	「Aahn, I'll get rusty~. But I won't.」
+
+39534	Yamada Chizuko	「……こほん。説明を続けます」	「...Ahem. Continuing the explanation.」
+
+39535	Yamada Chizuko	「北方国境からガルティア軍が南下。サバサバ、アダムの砦は落ち、	「The Galtia army advanced south from the northern border. Sabasaba and Adam Fortress have fallen,
+39536	+	　軍はイタリアから撤退しつつ、防戦中……」	　and our forces are retreating from Italia while defending...」
+
+39537	Yamada Chizuko	「そして北西から来たメディウサ軍は、	「And the Medusa army from the northwest
+39538	+	　一夜にしてマジノラインを抜き、本土へ進出……」	　broke through the Maginot Line in a single night and advanced into the mainland...」
+
+39539	Kentou Kanami	「え、マジノラインが！？」	「Eh, the Maginot Line!?」
+
+39540	Chaos	「魔人に傷はつけられんからのう。	「Fiends cannot be wounded normally.
+39541	+	　とはいえ、足止めもできんのは意外じゃな」	　Even so, failing to even slow them is surprising.」
+
+39542	Yamada Chizuko	「個人的には同感ですが……	「I agree personally, but...
+39543	+	　原因を究明している時間はありません」	　We don't have time to investigate the cause.」
+
+39544	Yamada Chizuko	「そのメディウサ軍は、四天王の塔をふたつまで制圧し……	「That Medusa army has captured two of the Four Lords' Towers...
+39545	+	　現在は、ラグナロックアークを拠点としています」	　and is currently based in Ragnarok Arc.」
+
+39546	Rance	「……ほとんどもう負けとらんか？」	「...Aren't they pretty much already defeated?」
+
+39547	Magic the Gandhi	「ッ、負けてないわよ！　まだ、こんな……！」	「W-We're not defeated! Not yet...!」
+
+39548	Rance	「しかしどう見ても、敗戦濃厚って感じだぞ。	「But no matter how you look at it, defeat seems inevitable.
+39549	+	　首都も落ちてるし……」	　The capital has already fallen...」
+
+39550	Yamada Chizuko	「いえ……ガンジー王は健在です。	「No... King Gandhi is still active.
+39551	+	　ゼス最強の魔法使い、アニス・沢渡もいます。	　We also have Zeth's strongest mage, Anise Sawatari.
+39552	+	　まだ、終わっていません」	　It's not over yet.」
+
+39553	Rance	「アニス？　あいつ、帰って来たのか」	「Anise? That girl came back?」
+
+39554	Yamada Chizuko	「はい。色々困ったこともありますが……	「Yes. There have been some issues, but...
+39555	+	　それでも、主力として戦ってくれています」	　she is still fighting as one of our main forces.」
+
+39556	Rance	「しかし、味方も殺すだろう、あいつは……」	「But she kills allies too, that one...」
+
+39557	Yamada Chizuko	「一人で、できるだけ敵陣深くに放り込んで……	「We send her alone deep into enemy lines...
+39558	+	　後は好きに暴れさせています。	　and let her rampage as she likes.
+39559	+	　なんせ、味方より圧倒的に敵が多いので」	　After all, there are far more enemies than allies.」
+
+39560	Rance	「……なんか、爆弾みたいな使い方だな」	「...You're using her like a bomb.」
+
+39561	Yamada Chizuko	「ええ……しかし、	「Yes... but
+39562	+	　その運用法がお互いの為なので……」	　this method benefits both sides...」
+
+39563	Anise Sawatari	「千ーーーーーーーーー鶴子様ーーーーーー！」	「Chiiiiiiiiizuko-samaaaaaa！」
+
+39564	Rance	「なんだこの声。外から……？」	「What is that voice? From outside...?」
+
+39565	Yamada Chizuko	「ああ、アニスが…………はっ！」	「Ah, it's Anise... Ha!」
+
+39566	-	脳天気な大声が聞こえた途端、	The moment the cheerful loud voice was heard,
+39567	+	千鶴子が部屋の窓に飛びついて、開け放った。	Chizuko leaped to the window and threw it open.
+
+39568	Yamada Chizuko	「アニスーーーーーー！！	「Aniseーーーーー！！
+39569	+	　いい加減、窓をぶち割って入ってくるのは……」	　Stop breaking through the wall or window already...」
+
+39570	Anise Sawatari	「わわ、あわわわーーー！　千鶴子様、ぶつかるー」	「Wawah, awawawaー! Chizuko-sama, I'm gonna crashー」
+
+39571	Anise Sawatari	「ふーーう。千鶴子さまー、	「Fuuu. Chizuko-samaー,
+39572	+	　危うくぶつかったら危ないところでした」	　That was close, I almost crashed.」
+
+39573	-	千鶴子の隣の壁をぶち破って、	Breaking through the wall next to Chizuko,
+39574	+	アニス・沢渡が現れた。	Anise Sawatari appeared.
+
+39575	Yamada Chizuko	「あ、あ、あんたねぇ……！	「Y-You...!
+39576	+	　いつもいつも、何かを壊しながら入ってくるのは	　How many times have I told you
+39577	+	　よしなさいって言ってんでしょ！」	　not to break things when you enter!?」
+
+39578	Anise Sawatari	「すみません、勝ちました！　と、	「Sorry! I won! So,
+39579	+	　早く千鶴子様に報告しようと思ったら……」	　I wanted to report to Chizuko-sama quickly...」
+
+39580	Yamada Chizuko	「来客がある時くらいは、	「At least when we have guests,
+39581	+	　常識的に行動してちょうだい……」	　try to act normally...」
+
+39582	Anise Sawatari	「ふえ？　お客さんですか？」	「Fue? Guests?」
+
+39583	Rance	「よっ。久しぶり」	「Yo. Long time no see.」
+
+39584	Anise Sawatari	「……………………………………あ」	「................................Ah」
+
+39585	-	その時、初めてランスを認識したアニスは、	Only then did Anise finally recognize Rance,
+39586	+	肩を震わせた。	and her shoulders trembled.
+
+39587	Yamada Chizuko	「あんたを助けてくれた、ランス総統よ。	「This is Supreme Leader Rance, the one who saved you.
+39588	+	　ご挨拶なさ…………」	　Please greet him...」
+
+39589	Anise Sawatari	「ぎゃ……ぎゃあああああああーーーーーー！！」	「Gya... Gyaaaaaaaaahーーーーー！！」
+
+39590	-	ふたつめの大穴を壁に空けて、	Creating a second large hole in the wall,
+39591	+	アニスは空へ飛び立った。	Anise flew off into the sky.
+
+39592	Magic the Gandhi	「アニス！？　いきなりどうしたの！？」	「Anise!? What happened all of a sudden!?」
+
+39593	Anise Sawatari	「こっ……こわ……こわい……ぶるぶる……	「S... Scary... scary... shiver shiver...
+39594	+	　緑……こわい……い、いたい……いたいのいやー」	　Green... scary... hurts... I don't like painー」
+
+39595	-	宮殿の周囲の空を、異常な速度でアニスが飛び回る。	Anise flew around the palace sky at abnormal speed.
+
+39596	Anise Sawatari	「あうあう……そんなの、そんなの入らないです……	「Auu auu... No, that won't fit...
+39597	+	　いや、いた、いたいーーーー！」	　No, it hurts, it huuurtsーーー！」
+
+39598	-	フラッシュバックする破瓜の衝撃に混乱するアニスの	Confused by the flashback of her painful deflowering,
+39599	+	眼下に、何かが動いたのが見えた。	Anise spotted something moving below.
+
+39600	Anise Sawatari	「むっ、あれは……敵？　うん、多分敵だ。	「Mu, that's... an enemy? Yeah, probably an enemy.
+39601	+	　敵は倒します！　逃がしません、白色破壊光線！」	　I'll defeat the enemy! White Destruction Beam！」
+
+39602	-	マークにかかる橋に、白い魔力の塊が直撃した。	A mass of white magic struck the bridge leading to Mark.
+
+39603	Rance	「な、なんだなんだなんだ！？」	「W-What what what the hell!?」
+
+39604	Yamada Chizuko	「うっわ……す、すみません。	「Uwaa... S-Sorry.
+39605	+	　アニスがまた暴走したようで……」	　Anise went on a rampage again...」
+
+39606	Rance	「ぐぬぬぬ……不安定すぎるぞ、あのへっぽこ！」	「Grr... That incompetent girl is way too unstable!」
+
+39607	Yamada Chizuko	「その……時々、おかしくなるんです。	「She... sometimes loses it.
+39608	+	　悪意はないというか……それが厄介なのですが」	　She doesn't mean any harm... which makes it even more troublesome.」
+
+39609	Magic the Gandhi	「でも、なんで……？	「But why...?
+39610	+	　周囲に敵もいないし、混乱するような事って……」	　There are no enemies around, what could have triggered her...」
+
+39611	Yamada Chizuko	「はあ…………なにか、嫌いなものでも見たのかも。	「Haa... Maybe she saw something she hates.
+39612	+	　その辺のムシとか……」	　Like a bug or something...」
+
+39613	-	千鶴子は頭を抱えて、溜息をついた。	Chizuko held her head and sighed.
+
+39614	Yamada Chizuko	「すみません。	「Sorry.
+39615	+	　話は半分ですが、ちょっとあの子を止めてきます。	　We've only covered half, but I'll go stop that girl.
+39616	+	　少し待って……」	　Please wait a bit...」
+
+39617	Rance	「いや、俺様もいこう。	「No, I'll come too.
+39618	+	　なーに、一度助けてるしな。任せておけ」	　I've saved her once before. Leave it to me.」
+
+39619	Yamada Chizuko	「それは……ええ、助かります。	「In that case... yes, that would help.
+39620	+	　ではお願いします」	　Please do.」
+
+39621	Rance~	（そのうち、チャンスがあれば	（If the chance comes up later,
+39622	+	　もう一回くらいはやれるかもしれんしな）	　I might get to fuck her again.）

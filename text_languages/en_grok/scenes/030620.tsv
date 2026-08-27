@@ -1,0 +1,185 @@
+# 30620	少女カチューシャ／キャライベントＣ	
+* Katyusha Bosch	少女カチューシャ	Female
+* Man	汎用男	Male
+* Klean Bew	クリン	Female
+* Muscle Man	汎用筋肉男	Male
+
+19027	?	「お嬢様……僕と……僕と一緒に、逃げましょう！	「Milady... please... escape with me!
+19028	+	　旦那様方には内緒で……」	Keep it a secret from the masters...」
+
+19029	?	「まあ……！　でも、その、大丈夫、かしらぁ……	「My...! But, well, will it be okay...?
+19030	+	　パパたち、きっと心配するわぁ……」	Father and the others will surely worry...」
+
+19031	?	「二人のためです！	「It's for both of us!
+19032	+	　旦那様方には、後で説明すれば……」	If we explain it to the masters later...」
+
+19033	?	「ん、んん〜……そう、ねぇ……そう、かしら……」	「Mmm... that's right... I suppose...」
+
+19034	?	「お願いします、お嬢様……」	「Please, milady...」
+
+19035	?	「家を離れるのは……やっぱり、少し考えさせて。	「Leaving home... as I thought, let me think about it.
+19036	+	　私……外のことは何も分からない、小娘だもの」	I'm... just a girl who knows nothing of the outside world.」
+
+19037	?	「お嬢様……」	「Milady...」
+
+19038	?	「パパやママにも、しっかり話して分かって貰うわ。	「I'll talk to Papa and Mama properly so they'll understand.
+19039	+	　大丈夫よ。説得してみせるわ」	It's okay. I'll persuade them.」
+
+19040	?	「…………分かりました。	「............I understand.
+19041	+	　しかし、私はもう、お屋敷では会えない……	But I can no longer meet you at the mansion...
+19042	+	　旦那様方に、疑われています……」	The masters are suspicious of me...」
+
+19043	?	「っ、そんな……」	「Tch, that's...」
+
+19044	?	「……離れた所で、会えませんか？	「...Could we meet somewhere else?
+19045	+	　街はずれの、小屋とか……二人きりで」	Like a shack on the edge of town... just the two of us.」
+
+19046	?	「二人きり……うん……うん。そうしましょう。	「Just the two of us... yes... yes. Let's do that.
+19047	+	　素敵だわ」	That sounds lovely.」
+
+19048	?	「気をつけて下さいね……	「Please be careful...
+19049	+	　お嬢様が外出したと判明したら……」	If they find out milady has gone out...」
+
+19050	?	「大丈夫よ。	「It's alright.
+19051	+	　絶対に見つからないようにできるわ。	I can make sure I'm never found.
+19052	+	　私、そういうの得意なの。ふふふ」	I'm good at that sort of thing. Hehehe.」
+
+19053	?	「えぇ……お嬢様は賢くていらっしゃいますから。	「Yes... since milady is so clever.
+19054	+	　よろしくお願いしますよ……」	I'm counting on you...」
+
+19055	-	――――少女の年不相応の知性を押し流したのは、	---What washed away the girl's precocious intelligence was
+19056	+	年相応の恋心だった。	the love appropriate for her age.
+
+19057	-	丁寧に痕跡を消して屋敷を出た少女を、	The girl who left the mansion, carefully erasing her tracks,
+19058	+	小屋で待っていたのは――――	was met at the shack by---
+
+19059	Katyusha Bosch	「……………………」	「................」
+
+19060	Man	「はい……じゃあ、この額で納めさせて頂きます」	「Yes... then, I'll accept this amount.」
+
+19061	Klean Bew	「あら……でもこれ……少なくないですか？」	「Oh... but isn't this... a bit low?」
+
+19062	Man	「えぇっ？　……わ、本当だ。	「Eh? ...Wow, you're right.
+19063	+	　これじゃ私、社長に叱られちゃうな」	My boss will scold me at this rate.」
+
+19064	Klean Bew	「ふふ、直しておきますね」	「Fufu, I'll fix it for you.」
+
+19065	Man	「いやあ……すみません。	「Aww... sorry about that.
+19066	+	　これはメイドさんの顔を見てたせいですね」	It's because I was busy looking at your face.」
+
+19067	Klean Bew	「え…………」	「Eh............」
+
+19068	Man	「じゃあ、失礼します。	「Well then, excuse me.
+19069	+	　また来ますから」	I'll come by again.」
+
+19070	-	業者の男は去っていった。	The supplier left.
+
+19071	Klean Bew	「………………」	「................」
+
+19072	Katyusha Bosch	「…………顔なじみなの？」	「...Is he an acquaintance?」
+
+19073	Klean Bew	「ああ、カチューシャさん……はい。	「Ah, Katyusha Bosch-san... yes.
+19074	+	　業者さんです。面白い人なんですよ」	He's a supplier. He's quite an interesting person.」
+
+19075	Klean Bew	「一生懸命で、なんだか少し優しくて。	「He works hard, and he's somewhat kind.
+19076	+	　それで……」	And then...」
+
+19077	Katyusha Bosch	「少し抜けてて憎めない？」	「A bit clumsy but lovable?」
+
+19078	Klean Bew	「あっ、そうですね。そんな感じです」	「Ah, you're right. It's like that.」
+
+19079	Katyusha Bosch	「ふーん…………そ」	「Hrmm... I see.」
+
+19080	Klean Bew	「あっ…………？　行っちゃった……」	「Ah...? She left...」
+
+19081	Klean Bew	「さ。私もお掃除お掃除」	「Now. Back to cleaning for me.」
+
+19082	Man	「ふぅ……今度のあのメイドは意外と悪くないな……	「Whew... that maid is surprisingly not bad...
+19083	+	　なんせ人類軍の本拠地だしな。	After all, this is the headquarters for the Humanity Army.
+19084	+	　面白いネタのひとつやふたつくらい……」	I might find a good scoop or two...」
+
+19085	Man	「わっ……！？」	「Whoa...!?」
+
+19086	Katyusha Bosch	「あっ……す、すみません」	「Ah... s-sorry.」
+
+19087	Man	「い、いやこちらこそ。	「N-No, it's my fault.
+19088	+	　大丈夫ですか…………っ、え……！？」	Are you alright...... wait, eh...!?」
+
+19089	Katyusha Bosch	「ご丁寧にありがとうございます……	「Thank you for your kindness...
+19090	+	　あの、何か……？」	Umm, is something wrong...?」
+
+19091	Man	「い、いや……どこかで、見たような……」	「N-No... it's just that I feel like I've seen you somewhere before...」
+
+19092	Katyusha Bosch	「そうですか？	「Is that so?
+19093	+	　ふふ…………っ、ん……！　痛っ……」	Fufu... hrm...! Ouch...」
+
+19094	Man	「あ、あ、怪我ですか、お嬢さん？」	「A-Are you injured, young lady?」
+
+19095	Katyusha Bosch	「は、はい……少し、足が……」	「Y-Yes... my leg hurts a bit...」
+
+19096	Man	「無理をしない方が良いですよ。	「You shouldn't push yourself.
+19097	+	　えぇと…………」	Umm............」
+
+19098	Katyusha Bosch	「……その辺りの空き家で、少し休みます……	「...I'll rest for a bit in that empty house over there...
+19099	+	　っ、う、く……」	Tch, ugh...」
+
+19100	Man	「あ、ああ、お連れしますよ！」	「A-Ah, I'll take you there!」
+
+19101	Katyusha Bosch	「ありがとうございます。	「Thank you.
+19102	+	　ご親切に……」	You're very kind...」
+
+19103	Man	「い、いえいえ……」	「N-No problem...」
+
+19104	Man~	（何か妙な流れになったなぁ……	 (This took a strange turn...) 
+19105	+	　けど、まあちょうどいいや。頂いちまうか……）	 (Well, whatever. Might as well have her...) 
+
+19106	Man	「私、商人でして……薬も扱ってるんですよ。	「I'm a merchant, you see... I handle medicine too.
+19107	+	　少し、足の具合を拝見しますね……」	Let me take a look at your leg...」
+
+19108	Katyusha Bosch	「――――はあぁ。	「---Haaa.
+19109	+	　何十年、同じような手を使ってるのかしら」	How many decades have you been using the same old trick?」
+
+19110	Man	「へ？」	「Huh?」
+
+19111	Man	「がぼっ……が、ぐはあ、ッ……！？」	「Gabo... gah, guhaa, tch...!?」
+
+19112	-	カチューシャの爪先が、	Katyusha Bosch's toe
+19113	+	男の下腹部にめりこんでいた。	had sunk into the man's lower abdomen.
+
+19114	Katyusha Bosch	「しょぼくれた中年になったものね。	「You've become quite a pathetic middle-aged man.
+19115	+	　いや……元々そうだったのかもね……」	No... maybe you were always like that...」
+
+19116	Man	「げふっ、がはっ……！　お、おま、お前……？」	「Gefu, gah...! Y-You, you are...?」
+
+19117	Katyusha Bosch	「前もそうだったわね。立場が逆だったけれど」	「It was like this before, too. Although our positions were reversed.」
+
+19118	Man	「あぅ、うぁああああああっ！」	「Aaah, uaaaahhhh!」
+
+19119	-	膝を踏み抜かれて、	Having his knee stomped on,
+19120	+	男がサカナのようにのたうち回る。	the man writhed around like a fish.
+
+19121	Man	「だっ、誰だお前……いや、君は……！	「W-Who are you... no, who are you...!
+19122	+	　ど、どど、どこか、でっ……？」	W-W-Where have I seen you before...?」
+
+19123	Katyusha Bosch	「もういいわ」	「That's enough.」
+
+19124	-	カチューシャは一顧だにすることなく、	Without a single backward glance,
+19125	+	男を置いて空き家を出た。	Katyusha left the man behind and exited the house.
+
+19126	Muscle Man	「会長。いかがしますか」	「Chairwoman. What shall we do?」
+
+19127	Katyusha Bosch	「この世にいた痕跡を消しなさい。	「Erase every trace of his existence from this world.
+19128	+	　どう苦しめてもいいから、隅々まで金に」	I don't care how much you make him suffer, squeeze out every last bit of value from him.」
+
+19129	Muscle Man	「へい」	「Yes.」
+
+19130	-	手下は短く答えて、空き家に入っていった。	The subordinate gave a short reply and entered the house.
+
+19131	-	扉の向こうから問答する声に悲鳴が続いたが、	From behind the door, the sound of questioning was followed by screams,
+19132	+	カチューシャには、もうどうでもよかった。	but Katyusha Bosch no longer cared.
+
+19133	Katyusha Bosch	「こうしてやったら……	「If I did this...
+19134	+	　もう少し、何かあると思ったけど」	I thought I'd feel something more.」
+
+19135	-	空虚なものを抱えながら、	While feeling empty inside,
+19136	+	カチューシャはランス城へと帰っていった。	Katyusha Bosch returned to Rance Castle.

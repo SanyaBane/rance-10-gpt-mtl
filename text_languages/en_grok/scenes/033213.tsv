@@ -1,0 +1,461 @@
+# 33213	６０３／リセットと遭遇	route
+* Nagata-kun	長田君２	Male
+* Rocky Bank	ロッキー２	Male
+* El Mofus	エール２	Player's choice
+* Reset Kalar	リセット２	Female
+
+213076	-	夜――	Night――
+
+213077	-	リセット探しを切り上げたあなた達は、	After calling off the search for Reset,
+213078	+	町の大きな酒場で食事を摂っていた。	you all were having a meal at a large tavern in town.
+
+213079	Nagata-kun	「っはぁ〜〜〜、疲れたぁ……」	「Haa~~~... So tired...」
+
+213080	Nagata-kun	「一日中、街中を探し回って……	「We searched the whole city all day...
+213081	+	　リセット、マジ全っ然見つからねぇ……	　Reset, seriously nowhere to be found...
+213082	+	　いったいどうなってんの……」	　What's going on...」
+
+213083	Rocky Bank	「うーん、おかしいだすなぁ……	「Hmm, this is strange...
+213084	+	　有名人だすから、	　She's famous so
+213085	+	　すぐに見つかると思っただすが」	　I thought we'd find her right away.」
+
+213086	-	一日シャングリラを歩き回り、	After walking around Shangri-La all day,
+213087	+	これといった情報が得られなかったあなた達は	you who couldn't get any solid information
+213088	+	すっかり意気消沈していた。	were completely dejected.
+
+213089	Nagata-kun	「今は外に行ってるわけでもないみたいだし……	「Doesn't seem like she's gone outside right now either...
+213090	+	　うむむむ……」	　Hmmmmm...」
+
+213091	Nagata-kun	「ま、仕方ねーやな。	「Well, can't be helped.
+213092	+	　しばらくはここに腰を落ち着けて、	　Let's settle down here for a while,
+213093	+	　本格的に探すことにしようぜ」	　and start searching properly.」
+
+213094	Nagata-kun	「＜エール＞、それでいいだろ？」	「＜エール＞, that sounds good, right?」
+
+213095	El Mofus	「…………。」	「............」
+213096	Nagata-kun	「おう、今日が駄目でも、	「Yeah, even if today didn't work,
+213097	+	　きっと明日は見つかるだろうぜ！」	　I'm sure we'll find her tomorrow!」
+
+213098	Nagata-kun	「まだ見ぬお前の姉ちゃんだもんなぁ。	「She's your sister we've never met after all.
+213099	+	　ぶっちゃけ俺だって気になるぜ」	　Honestly, even I'm curious.」
+
+213100	Nagata-kun	「お前なあ……」	「You know...」
+
+213101	Rocky Bank	「それではしばらくは	「Then for the time being
+213102	+	　シャングリラを拠点に致しましょうだ」	　let's use Shangri-La as our base.」
+
+213103	Rocky Bank	「って、あーーーーーっ！」	「Wait, aaaaaaah!」
+
+213104	Rocky Bank	「いけないだ、宿屋を取るのを忘れてただ……」	「Oh no, I forgot to book an inn...」
+
+213105	Rocky Bank	「野宿させるわけにはいかないだ！	「I can't let you sleep outside!
+213106	+	　お、おら、すぐに探してきますから！	　I'll go find one right away!
+213107	+	　先にご飯を食べていて欲しいだ！」	　Please eat first!」
+
+213108	Nagata-kun	「あ……行っちゃった……」	「Ah... He ran off...」
+
+213109	Nagata-kun	「ロッキーさんってすんげーいい人だし、	「Rocky's such a great guy,
+213110	+	　俺的に結構リスペクト入ってっけど、	　I really respect him a lot,
+213111	+	　そそっかしい人だよなぁ」	　but he's also pretty scatterbrained.」
+
+213112	?	「おまたせしました。	「Sorry to keep you waiting.
+213113	+	　ご注文の品になります」	　Here are your orders.」
+
+213114	Nagata-kun	「うひょー！　きたきたきたー！	「Whoaa! It's here, it's here!
+213115	+	　美味そーう！」	　Looks so good!」
+
+213116	-	テーブルの上に乗せられていく料理の数々に	As the many dishes were placed on the table,
+213117	+	あなた達は喉と腹を鳴らす。	your stomachs and throats growled.
+
+213118	Nagata-kun	「＜エール＞！　早速食おうぜー！」	「＜エール＞! Let's eat right away!」
+
+213119	-	あなたも長田君も、疲れと空腹から、	Both you and Nagata-kun, driven by fatigue and hunger,
+213120	+	急いで料理を口の中へ運んでいく。	quickly brought the food to your mouths.
+
+213121	-	香辛料のきいた料理の数々は	The spice-filled dishes
+213122	+	あなたの空っぽの胃袋の中に	were sucked one after another
+213123	+	次々に吸い込まれていった。	into your empty stomach.
+
+213124	Nagata-kun	「あっ。	「Ah.
+213125	+	　んぐっ、もぐもぐ……	　Munch munch...
+213126	+	　そーいやさぁ……」	　By the way...」
+
+213127	-	急ぎがちな食事も落ち着いてきた頃、	Once the hurried meal had calmed down a bit,
+213128	+	不意に長田君が声をかけてきた。	Nagata-kun suddenly spoke up.
+
+213129	Nagata-kun	「前々から気になってたけど、	「I've been wondering for a while,
+213130	+	　なんで最初に仲間にすんのは、	　why is Reset the one we're supposed to recruit first?」
+213131	+	　リセットって決まってんの？」	
+
+213132	El Mofus	「…………。」	「............」
+
+213133	-	あなたは鞄の中から、	You took out a letter from your bag
+213134	+	長田君に手紙を渡した。	and handed it to Nagata-kun.
+213135	+	それは旅立つ荷物の中に母が入れたものだった。	It was something your mother had put in your luggage before the journey.
+
+213136	Nagata-kun	「なにこれ……	「What's this...
+213137	+	　えーと、なになに……？」	　Um, let's see...」
+
+213138	Nagata-kun	「お久しぶりですね、＜エール＞。	「It's been a while, ＜エール＞.
+213139	+	　元気で暮らしていますか？	　Are you doing well?
+213140	+	　母です」	　It's Mom.」
+
+213141	Nagata-kun	「最初に仲間にする兄弟は、	「The first sibling you should recruit,
+213142	+	　何はなくともシャングリラにいる	　no matter what, is Reset Kalar who is in Shangri-La.」
+213143	+	　リセット・カラーがお勧めです」	
+
+213144	Nagata-kun	「彼女の仲間にしやすさなどを	「I visualized how easy she is to recruit and such
+213145	+	　分かりやすく可視化しました」	　in an easy-to-understand way.」
+
+213146	Nagata-kun	「評価点は三つ。	「There are three evaluation points.
+213147	+	　友好は仲良くなる難度、捕捉は捕まえやすさ、	　Friendliness is how hard it is to get close, Capture is how easy she is to catch,
+213148	+	　命令はあなたの言うことを聞いてくれるかです」	　Obedience is whether she'll listen to you.」
+
+213149	Nagata-kun	「では、見てみましょう」	「Now, let's take a look.」
+
+213150	-	カラーの姫兼国際共同都市シャングリラ外交官、	Kalar Princess and Shangri-La Diplomat,
+213151	+	リセット・カラーの評価。	Reset Kalar's evaluation.
+
+213152	-	友好難度：	Friendliness Difficulty:
+213153	+	捕捉難度：★	Capture Difficulty: ★
+213154	+	命令難度：	Obedience Difficulty:
+
+213155	Nagata-kun	「ま、こんなものですね」	「Well, that's about it.」
+
+213156	Nagata-kun	「魔王の子の中では、	「Among the Demon King's children,
+213157	+	　一番仲間にしやすいでしょう」	　she should be the easiest to recruit.」
+
+213158	Nagata-kun	「シャングリラにいないこともありますが、	「She might not be in Shangri-La sometimes,
+213159	+	　黙っていなくなることはないので、	　but she doesn't disappear without a word,
+213160	+	　近くの人に聞けばすぐに解決する筈です」	　so asking people nearby should solve it quickly.」
+
+213161	Nagata-kun	「何より、彼女はほぼ全員の	「Above all, she knows almost all
+213162	+	　魔王の子との面識があり信頼も得ています」	　of the Demon King's children and has their trust.」
+
+213163	Nagata-kun	「彼女が仲間になってくれれば、	「If she joins you,
+213164	+	　今後の仲間集めも容易になることでしょう」	　gathering the rest will become much easier.」
+
+213165	Nagata-kun	「リセットは優しいので、	「Reset is kind, so
+213166	+	　きっと喜んで貴方の助けとなってくれます。	　she'll surely be happy to help you.
+213167	+	　姉である彼女を頼ることを推奨します」	　I recommend relying on your older sister.」
+
+213168	Nagata-kun	「では、頑張って下さい」	「Good luck.」
+
+213169	Nagata-kun	「…………か」	「............」
+
+213170	-	長田君が手紙から顔を上げる。	Nagata-kun looked up from the letter.
+
+213171	Nagata-kun	「なるほどねぇ……	「I see...
+213172	+	　これがあるから最初に	　So that's why we're trying to recruit her first...」
+213173	+	　仲間にしようとしてたのか……」	
+
+213174	Nagata-kun	「って、どこにいるか	「But we don't even know where she is...」
+213175	+	　分からないんですけどぉ……」	
+
+213176	Nagata-kun	「手紙によると簡単に見つかるっぽいのに……」	「The letter makes it sound easy to find her...」
+
+213177	Nagata-kun	「はあ、リセット・カラー……	「Haa, Reset Kalar...
+213178	+	　どこにいるんだろうなぁ」	　Where could she be...」
+
+213179	Reset Kalar	「あのぉ」	「Um...」
+
+213180	Nagata-kun	「あん？」	「Huh?」
+
+213181	-	あなた達に声をかけてきたのは、	The one who called out to you was
+213182	+	ローブ姿の少女だった。	a girl in a robe.
+
+213183	-	厚いローブに覆われてその顔の全容を見えないが、	Her face was hidden by the thick robe, but
+213184	+	口元を見る限り、笑顔を浮かべているらしい。	from the look of her mouth, she seemed to be smiling.
+
+213185	Reset Kalar	「お店混んじゃって空きがないの。	「The place is full and there's no seat.
+213186	+	　ここに座ってもいいかしら？」	　Can I sit here?」
+
+213187	Nagata-kun	「ん、ああ、いいよいいよ。	「Yeah, sure, go ahead.
+213188	+	　座りな、おちびちゃん」	　Sit down, shorty.」
+
+213189	Reset Kalar	「えへへ、ありがとー」	「Ehehe, thank you~」
+
+213190	Reset Kalar	「…………」	「............」
+
+213191	-	くりっと、ローブの少女が	The robed girl turned
+213192	+	あなたに顔を向けた。	her face toward you.
+
+> male
+213193	Reset Kalar	「お兄さん達、リセット・カラーを探してるの？」	「Are you guys looking for Reset Kalar?」
+
+> female
+213194	Reset Kalar	「お姉さん達、リセット・カラーを探してるの？」	「Are you sisters looking for Reset Kalar?」
+
+> end
+213195	El Mofus	「…………。」	「............」
+213196	Reset Kalar	「……ふーん」	「...Hmm.」
+
+213197	Reset Kalar	「そうなんだ……」	「I see...」
+
+213198	Reset Kalar	「あはは、この街で	「Ahaha, finding one person
+213199	+	　人一人探すのは大変だよね」	　in this city is pretty tough, huh.」
+
+213200	Reset Kalar	「うーん、私は知らないなぁ」	「Hmm, I don't know.」
+
+213201	Reset Kalar	「それにしても、どうして	「By the way, why
+213202	+	　リセット・カラーを探しているの？」	　are you looking for Reset Kalar?」
+
+213203	Nagata-kun	「おう！　おちび、聞いて驚け！」	「Yeah! Listen up, shorty, and be amazed!」
+
+213204	Nagata-kun	「なんと、俺達はあの魔王ランス退治の為、	「We are traveling the world to defeat that Demon King Rance!」
+213205	+	　世界中を旅しているのだ！」	
+
+213206	Reset Kalar	「……魔王ランスを？」	「...Demon King Rance?」
+
+213207	Nagata-kun	「そのとぉーり！	「That's right!
+213208	+	　どうよ、俺ら勇気があってすっげーだろ！」	　Pretty brave and awesome, right!」
+
+213209	Reset Kalar	「すごい、けど……	「That's amazing, but...
+213210	+	　魔王ランスの強さを知らないの？	　Don't you know how strong Demon King Rance is?
+213211	+	　とても勝てないよ？」	　You can't possibly win.」
+
+213212	Nagata-kun	「うっ……確かに……	「Ugh... That's true...
+213213	+	　強さは目の当たりにして知ってるけど……」	　I've seen his strength up close...」
+
+213214	Nagata-kun	「大丈夫！　俺らには魔王の子を仲間にして！	「It's fine! Our plan is to recruit the Demon King's children
+213215	+	　全員で倒しに行くって作戦があっから！」	　and take him down together!」
+
+213216	Reset Kalar	「……へえ、面白いことを考えるんだ」	「...Heh, that's an interesting idea.」
+
+213217	Reset Kalar	「でも、突然現れても、	「But even if you suddenly appear,
+213218	+	　皆の協力を得るのは大変じゃないかなぁ」	　getting everyone's cooperation won't be easy.」
+
+> male
+213219	Nagata-kun	「それも大丈夫！	「That's fine too!
+213220	+	　実はこいつも魔王の子の一人で、	　This one here is also one of the Demon King's children,
+213221	+	　他の連中にとっちゃ弟に当たるんだからよ！」	　so he's their little brother!」
+
+> female
+213222	Nagata-kun	「それも大丈夫！	「That's fine too!
+213223	+	　実はこいつも魔王の子の一人で、	　This one here is also one of the Demon King's children,
+213224	+	　他の連中にとっちゃ妹に当たるんだからよ！」	　so she's their little sister!」
+
+> end
+213225	El Mofus	「…………。」	「............」
+
+213226	-	あなたは頷いた。	You nodded.
+
+213227	Reset Kalar	「えっ！　あなたも魔王の子……？」	「Eh! You're also a child of the Demon King...?」
+
+213228	Reset Kalar	「えと、じゃあ母親は？」	「Um, then who's your mother?」
+
+213229	Nagata-kun	「聞いて驚け、あのAL教の法王様よ！」	「Prepare to be shocked, it's the Pope of the AL Church!」
+
+213230	Reset Kalar	「びっくり……	「I'm surprised...
+213231	+	　じゃあクルックーさんの……」	　So you're Crook-san's...」
+
+213232	Reset Kalar	「へー、でも、そっかそっか……	「Heh, but I see, I see...
+213233	+	　それなら他のみんなも、	　Then the others will probably
+213234	+	　きっと仲間になってくれるよ」	　join you too.」
+
+213235	Nagata-kun	「……だったらいいんだけどよぉ。	「...That'd be nice, but
+213236	+	　現状じゃ、リセット・カラーすら	　right now we can't even find Reset Kalar.」
+213237	+	　見つからないってのが本当のとこでなぁ」	
+
+213238	Reset Kalar	「くすっ……	「Hehe...
+213239	+	　そんなことないよ？」	　That's not true, you know?」
+
+213240	-	ローブの少女が顔を覆っていた	The robed girl put her hand on the hood
+213241	+	フードの部分に手をかける。	covering her face.
+
+213242	Reset Kalar	「今、こうして一人、	「Right now, one Demon King's child
+213243	+	　仲間になろうって魔王の子が……」	　who wants to join you is right here...」
+
+213244	Nagata-kun	「しっかし、リセット・カラーって	「Still, I wonder what kind of person Reset Kalar is.」
+213245	+	　いったいどんな人なんだろうなぁ」	
+
+213246	-	　	　
+213247	+	　　＜ぴたっ＞	　　<Pat>
+
+213248	-	少女は何かを思いついたように、	The girl seemed to think of something,
+213249	+	ローブから手を離して、	and took her hand off the robe,
+213250	+	イタズラっぽい笑みを浮かべた。	a mischievous smile appearing on her face.
+
+213251	Reset Kalar	「くすくす……ねえねえ……	「Hehe... Hey hey...
+213252	+	　リセット・カラーってどんな人だと思う？」	　What kind of person do you think Reset Kalar is?」
+213253	+	「ええっ！？」	「Ehh!?」
+
+213254	Nagata-kun	「町中のみんなに慕われてるっぽいからなー」	「She seems to be loved by everyone in town.」
+
+213255	Reset Kalar	「あう……あうあう……」	「Auu... auu auu...」
+
+213256	Nagata-kun	「でも、それより大事なのはさ……	「But more importantly...
+213257	+	　めっちゃ美人だってことだと俺は思うね！」	　I think the most important thing is that she's super beautiful!」
+
+213258	Reset Kalar	「ええええええ！？」	「Ehhhhhhhh!?」
+
+213259	Reset Kalar	「ええっ！？」	「Ehh!?」
+
+213260	Nagata-kun	「だーよなー！	「Right!? 
+213261	+	　めっちゃ分かる！」	　Totally get it!」
+
+213262	Reset Kalar	「ええええええ！？」	「Ehhhhhhhh!?」
+
+213263	Reset Kalar	「あ〜〜〜……」	「Aaaa...」
+
+213264	Reset Kalar	「えへへ……」	「Ehehe...」
+
+213265	Nagata-kun	「？　なんで照れてんの？」	「? Why are you blushing?」
+
+213266	Nagata-kun	「ま、いいや。	「Well, whatever.
+213267	+	　そんなことよりも大事なのはさ、	　More important than that,
+213268	+	　リセット・カラーがめっちゃ美人なことだろ！」	　is that Reset Kalar is insanely beautiful!」
+
+213269	Reset Kalar	「ええええっ！？」	「Ehhhh!?」
+
+213270	Reset Kalar	「え、え、なんでそんなこと思うの……」	「E-eh, why do you think that...」
+
+213271	Nagata-kun	「なんでも何も……	「It's obvious...
+213272	+	　町の連中に話を聞けば分かることじゃん！」	　Just ask anyone in town!」
+
+213273	Nagata-kun	「ガキの頃から相当可愛い容姿だったらしいし？	「She was apparently super cute even as a kid?
+213274	+	　そのまま大きくなったらそりゃメチャ美人よ！」	　Of course she'd grow up to be an absolute beauty!」
+
+213275	Reset Kalar	「あう……」	「Auu...」
+
+213276	-	何故か少女はローブの下で	For some reason the girl under the robe
+213277	+	顔を真っ赤に染めているようだった。	seemed to be blushing bright red.
+
+213278	Nagata-kun	「町の人に話を聞いた限り……」	「From what the townspeople said...
+
+213279	Nagata-kun	「こりゃ目も眩むような美人に違いねぇな」	「She's definitely a stunning beauty.」
+
+213280	Reset Kalar	「…………」	「............」
+
+213281	Reset Kalar	「え、う……それはどうかなぁ……	「E-um... I wonder about that...
+213282	+	　全然そんなことないかも……」	　Maybe not at all...」
+
+213283	Nagata-kun	「いやいや、んなこたねーって！」	「No no, that's not true!」
+
+213284	Nagata-kun	「俺の読みによれば、だ……」	「According to my analysis...
+
+213285	Nagata-kun	「スレンダー美人……」	「Slender beauty...」
+
+213286	Nagata-kun	「と、見せかけてかなりのボインちゃんよ！」	「But actually she's got huge tits!」
+
+213287	Reset Kalar	「ええっ！」	「Ehh!」
+
+213288	-	長田君が胸の前で手をゆさゆささせる動きを、	Nagata-kun made a motion shaking his hands in front of his chest,
+213289	+	ローブの少女はびっくりして見ていた。	which the robed girl watched in shock.
+
+213290	Reset Kalar	「む、胸の大きさは分からないんじゃ……」	「B-but you can't know her breast size...」
+
+213291	Nagata-kun	「いーや、話を聞く限り、	「No way, from what people say,
+213292	+	　かなりの良い子ちゃんで面倒見がいい……」	　she's a really nice girl who's great at taking care of others...
+
+213293	Nagata-kun	「つまり母性が強いタイプと見たね！	「So I see her as the strong maternal type!
+213294	+	　そして母性が強いなら乳もでかいね！」	　And strong maternal types have big tits!」
+
+213295	Nagata-kun	「俺、ぶっちゃけ女の価値って、	「Honestly, for me the value of a woman
+213296	+	　乳の大きさが占めてるウェイト、	　is mostly decided by breast size,
+213297	+	　相当あると思ってっから！」	　that's a big factor!」
+
+213298	Nagata-kun	「うひひ、こりゃたまんねぇな！」	「Hehehe, this is gonna be great!」
+
+213299	Reset Kalar	「ううううぅ……	「Uuuu...
+213300	+	　ち、ち……って、いや……	　B-boobs... no...
+213301	+	　それは、どう、かな……本当に……」	　I wonder about that... really...」
+
+213302	-	ローブの少女は、顔を赤くしたまま、	The robed girl, still blushing,
+213303	+	何故か自分の胸を押さえた。	pressed her hands against her own chest.
+
+213304	Nagata-kun	「んで、切れ長かつ憂いを帯びた表情、	「And with long, almond-shaped eyes and a melancholic expression,
+213305	+	　胸は大きくてしっとりとした美人。	　big, soft, beautiful breasts.
+213306	+	　もちろん髪は床につきそうなロングヘアーよ！」	　Of course with long hair that reaches the floor!」
+
+213307	Reset Kalar	「……髪が長いのだけ正解」	「...Only the long hair part is correct.」
+
+213308	Nagata-kun	「ん？　なんか言った？」	「Hm? Did you say something?」
+
+213309	Reset Kalar	「あ、うぅん！　なんでもないの！」	「Ah, n-no! It's nothing!」
+
+213310	Nagata-kun	「ま、とにかくさ、俺が思うに、	「Anyway, I think
+213311	+	　かなりガチの美人だね」	　she's a total knockout beauty.」
+
+213312	Reset Kalar	「う、うーん……	「U-umm...
+213313	+	　でもさあ、そんなことないかもよ？」	　But maybe she's not that pretty?」
+
+213314	Nagata-kun	「いやいや、町の中には、	「No no, there are people in town
+213315	+	　かなりリセットにお熱な人もいるから」	　who are seriously obsessed with her.」
+
+213316	Reset Kalar	「ええっ！？」	「Ehh!?」
+
+213317	Nagata-kun	「街中で付き合いてーって叫んでさ、	「Shouting in the streets that they want to date her,
+213318	+	　こりゃ相当可愛くないと無理っしょ」	　you gotta be seriously cute for that.」
+
+213319	Nagata-kun	「たださ、他の連中はなんてーか……	「Though the others act like...
+213320	+	　そんなこと考える方がおかしいみたいなノリ？」	　thinking that way is weird?」
+
+213321	Nagata-kun	「二人はガキだから分かんねぇだろうけど、	「You two are kids so you might not get it,
+213322	+	　かなりガチの美人って得てしてそうなんだよ。	　but real beauties tend to be like that.
+213323	+	　高嶺の花で避けられるっつーか？」	　Like an unreachable flower that people avoid.」
+
+213324	Nagata-kun	「もう不埒なこと考えるだけで罪、みたいな！？」	「Just thinking dirty thoughts about her feels like a crime!?」
+
+213325	Reset Kalar	「…………」	「............」
+
+213326	-	もうローブの少女は、	The robed girl was
+213327	+	口をパクパクとさせて何を言うべきか	opening and closing her mouth, unsure what to say.
+213328	+	分からなくなっているらしい。	
+
+213329	Reset Kalar	「いや、それは……どうかなぁ……	「No, that's... I wonder...
+213330	+	　何か別の理由とか……」	　Maybe there's another reason...」
+
+213331	Nagata-kun	「いいや、ないね！」	「Nope, there isn't!」
+
+213332	Nagata-kun	「これで美人でもなんでもなかったら！	「If she's not a beauty after all this!
+213333	+	　マジガッカリなんてもんじゃないぜ！」	　I'd be seriously disappointed!」
+
+213334	Reset Kalar	「ええぇぇぇ〜……」	「Eeeeeh...」
+
+213335	Reset Kalar	「…………」	「............」
+
+213336	Reset Kalar	「……うう、ごめん」	「...Uuu, sorry.」
+
+213337	Nagata-kun	「なんで謝ってんの？」	「Why are you apologizing?」
+
+213338	Reset Kalar	「だってぇ……」	「Because...」
+
+213339	Rocky Bank	「おーい、お二人ともー！	「Hey, you two!
+213340	+	　宿屋が見つかっただすよー！」	　I found an inn!」
+
+213341	Nagata-kun	「おっ」	「Oh!」
+
+213342	Reset Kalar	「あ……」	「Ah...」
+
+213343	Reset Kalar	「うーん、それじゃあ私はそろそろ帰るね」	「Hmm, I should head home now.」
+
+213344	Reset Kalar	「そうだ、まだリセット探しを続けるなら、	「Oh right, if you're still looking for Reset,
+213345	+	　明日のお昼に広場のところに来て」	　come to the plaza tomorrow at noon.」
+
+213346	Reset Kalar	「えーと、リセットを紹介するから」	「I'll introduce you to Reset.」
+
+213347	Nagata-kun	「えっ！？　会わせてくれんの！？」	「Eh!? You'll introduce us!?」
+
+213348	Nagata-kun	「って、それ今日じゃ駄目なの？」	「Wait, can't we do it today?」
+
+213349	Reset Kalar	「今日は……うう、ちょっと……」	「Today... um, a bit...」
+
+213350	Rocky Bank	「ん？　どうしただすか？」	「Hm? What's wrong?」
+
+213351	Reset Kalar	「あ、それじゃあまた明日ね、	「Ah, then see you tomorrow,
+213352	+	　＜エール＞ちゃん、長田君」	　＜エール＞-chan, Nagata-kun.」
+
+213353	Reset Kalar	「ロッキーさんもばいばい」	「Bye bye to you too, Rocky-san.」
+
+213354	Rocky Bank	「へ？　は、はいだ」	「Eh? Y-yes.」
+
+213355	-	小さな少女はまるで飛び跳ねるように	The small girl hopped away
+213356	+	酒場からぱたぱたと出て行ってしまった。	from the tavern with light footsteps.
+
+213357	Nagata-kun	「なんか変な奴だったなぁ」	「She was a weird one.」
+
+213358	Nagata-kun	「…………」	「............」
+
+213359	Nagata-kun	「……あれ？	「...Wait?
+213360	+	　俺達、名前名乗ったっけ？」	　Did we ever tell her our names?」

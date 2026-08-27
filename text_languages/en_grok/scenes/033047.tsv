@@ -1,0 +1,144 @@
+# 33047	６０１／クリーミン救出	route
+* Rocky Bank	ロッキー２	Male
+* Nagata-kun	長田君２	Male
+* El Mofus	エール２	Player's choice
+
+195828	-	ロッキーの案内のもと進むと、	Following Rocky's guidance,
+195829	+	迷宮内の景色がガラッと変わった。	the scenery inside the labyrinth changed drastically.
+
+195830	-	石畳が続くアジト内は、	The hideout with stone paving
+195831	+	今までと打って変わって冷たく、	was now cold and
+195832	+	足音がコツコツと甲高く響く。	your footsteps echoed sharply.
+
+195833	Rocky Bank	「ここから先はアジトの最深部だす。	「From here on is the deepest part of the hideout.
+195834	+	　ランスJr.様は一番奥だすよ」	　Rance Jr.-sama is at the very back.」
+
+195835	Nagata-kun	「あ、そういえばさらわれた女の子達は	「Ah, now that I think about it, where are
+195836	+	　どこにいるん？」	　the kidnapped girls?」
+
+195837	Rocky Bank	「女の子達だすか？」	「The girls?」
+
+195838	El Mofus	「…………。」	「............」
+
+195839	Rocky Bank	「なるほど、村から救出を頼まれただすか」	「I see, you were asked by the village to rescue them.」
+
+195840	Rocky Bank~	（うう、さすがランス様のお子様だす。	（Uuu, as expected of Lord Rance's child.
+195841	+	　女の子には優しいんだすなぁ……）	　So kind to girls...）
+
+> male
+195842	Rocky Bank~	（＜エール＞様もランス様みたいに、	（I wonder if ＜エール＞-sama is also
+195843	+	　精力絶倫だったりするんだすかなぁ……）	　an unmatched sex beast like Lord Rance...）
+
+> end
+195844	Rocky Bank	「さらわれた娘さん達は	「The kidnapped girls are
+195845	+	　この部屋にいるだすよ」	　in this room.」
+
+> female
+195846	Rocky Bank	「あ、でも……	「Ah, but...
+195847	+	　女の子にはちょっと見せにくい場所な気も……」	　it might be a bit hard for girls to see...」
+
+195848	Rocky Bank	「あっ」	「Ah.」
+
+> end
+195849	-	あなたはロッキーの示した扉を開いた。	You opened the door Rocky indicated.
+
+195850	-	扉を開けた途端、むわっとした	The moment the door opened, a thick
+195851	+	すえたような匂いが溢れ出した。	stale smell flooded out.
+
+195852	?	「ぇ……だ、だれ……」	「Eh... w, who...」
+
+195853	-	中には四、五人の娘達がいた。	Inside were four or five girls.
+
+195854	-	誰も彼も服装は乱れ、手錠や首輪をつけられて、	All of them had disheveled clothes, handcuffs and collars,
+195855	+	逃げられないようにしていた。	preventing escape.
+
+195856	-	中には薬でも使われたのか、	Some seemed drugged,
+195857	+	ぐったりとしたまま動けなくなっている子もいた。	lying limp and unable to move.
+
+195858	Rocky Bank	「すみません、ランスJr.様はいるだすか？」	「Excuse me, is Rance Jr.-sama here?」
+
+195859	-	女の子達の内、比較的元気そうな子が答える。	One of the relatively energetic girls answered.
+
+195860	?	「あ、あの人なら……先程までいましたが……	「Ah, that person... was here until a moment ago...
+195861	+	　その……終わった、ので……出て行きました……」	　Um... after he finished... he left...」
+
+195862	Rocky Bank	「あう……そ、そうだすか……」	「Auu... I, I see...」
+
+195863	Rocky Bank	「み、皆さん安心して欲しいだ。	「E, everyone, please be at ease.
+195864	+	　今日は助けに来ただす」	　We've come to rescue you today.」
+
+195865	-	それまで無関心を装っていた子ですら、	Even the girls pretending to be indifferent
+195866	+	ロッキーの言葉に顔を上げた。	lifted their heads at Rocky's words.
+
+195867	Rocky Bank	「こちらの＜エール＞様がランスJr.様とお話しして、	「＜エール＞-sama will talk with Rance Jr.-sama,
+195868	+	　きっと皆様を解放して下さるだ」	　and surely free you all.」
+
+195869	El Mofus	「…………。」	「............」
+
+195870	-	あなたはコクコクと頷いた。	You nodded repeatedly.
+
+195871	?	「あ、ああ……じゃあ、私達……」	「A, ah... then we...」
+
+195872	Rocky Bank	「はい、もう無事だす」	「Yes, you're safe now.」
+
+195873	Rocky Bank	「……助けに来るのが遅れて、本当に申し訳ないだ」	「...I'm truly sorry for the delay in rescuing you.」
+
+195874	Rocky Bank	「＜エール＞様、彼女達を外に出すにしても、	「＜エール＞-sama, even to take them outside,
+195875	+	　ランスJr.様の説得が済んだ後にしましょうだ」	　we should do it after persuading Rance Jr.-sama.」
+
+195876	El Mofus	「…………。」	「............」
+
+195877	Rocky Bank	「皆さん、もう少し待っていて下さいだ。	「Everyone, please wait a little longer.
+195878	+	　必ず助けに来るだすからね」	　We'll definitely come back for you.」
+
+195879	?	「は、はい……ありが、とう……」	「Y, yes... thank you...」
+
+195880	Rocky Bank	「う、おらはそんなこと言ってもらう資格ないだ……	「U, I don't deserve such thanks...
+195881	+	　お礼ならこちらの＜エール＞様にして欲しいだ」	　If you want to thank someone, thank ＜エール＞-sama.」
+
+195882	?	「あの……ありがとうございます……」	「Um... thank you very much...」
+195883	+	「くすくす、慎み深い方なんですね……」	「Hehe, what a modest person...」
+
+195884	-	女の子は少し元気を取り戻したようだ。	The girl seemed to regain some energy.
+
+195885	?	「くすくす、照れ屋さんなんですね……」	「Hehe, what a shy one...」
+
+195886	-	女の子は少し元気を取り戻したようだ。	The girl seemed to regain some energy.
+
+195887	-	がおー。	Gao.
+195888	+	あなたは女の子にのしかかった。	You pounced on the girl.
+
+195889	?	「？　あのぉ、＜エール＞様？」	「? Um, ＜エール＞-sama?」
+
+195890	El Mofus	「…………。」	「............」
+
+195891	-	がおー。	Gao.
+195892	+	あなたは女の子の腕を噛んだ。	You bit the girl's arm.
+
+195893	-	はむはむ。	Nom nom.
+
+195894	Rocky Bank	「ほ、本当になにしてるだ？　＜エール＞様……」	「W, what are you really doing? ＜エール＞-sama...」
+
+195895	?	「ふふ、ふふふふ……	「Fufu, fufufu...
+195896	+	　くすくす、変わった方なんですね……」	　Hehe, what a strange person...」
+
+195897	-	女の子はあなたの奇行のおかげで	Thanks to your strange behavior,
+195898	+	少し元気を取り戻したようだ。	the girl seemed to regain some spirit.
+
+195899	-	…………	............
+
+195900	-	……	...
+
+195901	Rocky Bank	「それじゃあ、女の子達の為にも、	「Well then, for the girls' sake too,
+195902	+	　すぐにランスJr.様の所に行きましょうだ」	　let's go to Rance Jr.-sama right away.」
+
+195903	Rocky Bank	「……？」	「...?」
+
+195904	-	ロッキーが辺りをきょろきょろと窺う。	Rocky looked around restlessly.
+
+195905	Rocky Bank	「……ところで＜エール＞様、	「...By the way ＜エール＞-sama,
+195906	+	　長田君はどこに行っただすか？」	　where did Nagata-kun go?」
+
+195907	El Mofus	「…………。」	「............」
+
+195908	-	気づけば長田君の姿が消えていた。	Before you knew it, Nagata-kun had disappeared.

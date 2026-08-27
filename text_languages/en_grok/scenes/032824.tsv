@@ -1,0 +1,317 @@
+# 32824	２５７／参謀本部	
+* Helman Soldier	汎用ヘルマン兵	Male
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Rance	ランス	Male
+* JAPAN Samurai	汎用男武士兵	Male
+* Leazas Blue Soldier	汎用リーザス青兵	Male
+* Satella	サテラ	Female
+* Urza Pranaice	ウルザ	Female
+* Arlcoate Marius	アールコート	Female
+* Cream Ganoblade	クリーム	Female
+* Oda Kouhime	香姫	Female
+* Crane	クレイン	Female
+* Desert Guide	砂漠案内人	Female
+
+180332	-	ランスが司令部を覗きに来ると、	When Rance peeked into the command center,
+180333	+	そこはいつも通り戦場さながらの騒がしさだった。	it was as noisy as a battlefield as usual.
+
+180334	Helman Soldier	「ツングース平原で行われた戦闘は終了しました。	「The battle at Tungus Plain has ended.
+180335	+	　魔軍は撃退しましたが、	　We repelled the Monster Army, but
+180336	+	　防衛軍は二割の死傷兵を出した模様！」	　the defense force suffered about twenty percent casualties!」
+
+180337	Zeth Mage Soldier	「リーザスから連絡がありました。	「Report from Leazas.
+180338	+	　東部で発生していた反乱は鎮圧に成功。	　The rebellion in the east has been suppressed.
+180339	+	　心配無用とのことです！」	　No need for concern!」
+
+180340	Rance	「相変わらずここは忙しそうだな」	「This place is as busy as ever.」
+
+180341	Rance	「それと、世界も相変わらず目茶苦茶だ」	「And the world is still a total mess.」
+
+180342	JAPAN Samurai	「ゼス王国から定時報告あり。	「Regular report from Zeth Kingdom.
+180343	+	　マジノライン方面に数万の魔軍が追加された模様。	　Tens of thousands more Monster Army troops added toward the Maginot Line.
+180344	+	　尚、各戦線に大きな動きはありません」	　No major movements on other fronts.」
+
+180345	Leazas Blue Soldier	「自由都市より報告。	「Report from the Free Cities.
+180346	+	　西部のリーザス国境付近の魔軍の総数ですが、	　The total Monster Army near the western Leazas border
+180347	+	　4万弱から5万強へ修正。敵、増援されています」	　revised from around 40,000 to over 50,000. Enemy reinforcements confirmed.」
+
+180348	Satella	「……魔軍の奴ら、どんどん追加されてるな。	「...The Monster Army keeps adding more troops.
+180349	+	　これじゃあいくら倒してもキリがない」	　No matter how many we defeat, it's endless.」
+
+180350	Urza Pranaice	「ええ、余裕はありませんね。	「Yes, we have no breathing room.
+180351	+	　最初からですが、人類はジリ貧です」	　From the start, humanity has been slowly losing.」
+
+180352	Arlcoate Marius	「うう、こ、このままでは……」	「Uuu, if things stay like this......」
+
+180353	Rance	「前から気になってたんだが、	「I've been wondering for a while,
+180354	+	　奴らどこから来ているんだ？」	　where the hell are they coming from?」
+
+180355	Cream Ganoblade	「総統、こちらをご覧下さい」	「Supreme Leader, please look here.」
+
+180356	-	クリームが卓上の地図を指差した。	Cream pointed at the map on the table.
+
+180357	Cream Ganoblade	「これが魔軍の侵攻ルートです」	「This is the Monster Army's invasion route.」
+
+180358	Cream Ganoblade	「一目瞭然ですが……	「As you can see......
+180359	+	　魔軍の大部分は、この真ん中のキナニ砂漠から来ています」	　the majority of the Monster Army comes from the Kinani Desert in the center.」
+
+180360	Rance	「砂から湧いて出たわけでもあるまい。	「They didn't just sprout from the sand.
+180361	+	　どこをどんな風に通って砂漠から来た」	　How exactly did they reach the desert?」
+
+180362	Cream Ganoblade	「それが……魔軍のルートは謎のままです」	「That's the thing... the Monster Army's route remains a mystery.」
+
+180363	Rance	「……砂漠になにかあるのか？」	「...Is there something in the desert?」
+
+180364	Cream Ganoblade	「広大な砂漠ですからね……	「It's a vast desert after all......
+180365	+	　不思議な噂ならいくつかありますが」	　There are a few mysterious rumors.」
+
+180366	Oda Kouhime	「例えばシャングリラですか？」	「For example, Shangri-La?」
+
+180367	Rance	「しゃんぐりら？　なんだそれは香ちゃん」	「Shangri-La? What's that, Kou-chan?」
+
+180368	Oda Kouhime	「あれ？　あまり有名ではないのでしょうか？」	「Huh? Is it not very well known?」
+
+180369	Oda Kouhime	「兄上……	「Brother......
+180370	+	　織田信長の蔵書の一つにそういった話が」	　There was such a story in one of Oda Nobunaga's books.」
+
+180371	Oda Kouhime	「大陸の冒険家曰く、キナニ砂漠の真ん中には、	「According to continental adventurers, in the middle of the Kinani Desert
+180372	+	　幻のオアシス都市シャングリラがある、と……」	　there is a legendary oasis city called Shangri-La......」
+
+180373	Urza Pranaice	「オアシス都市、ですか……」	「An oasis city, huh......」
+
+180374	Rance	「あるのか？　そんなもん」	「Does something like that exist?」
+
+180375	Cream Ganoblade	「ない、と断言は出来ませんね。	「We can't say for sure it doesn't exist.
+180376	+	　なにしろ砂漠は一部の者以外入りはしませんから」	　After all, only certain people enter the desert.」
+
+180377	Cream Ganoblade	「しかし……	「However......
+180378	+	　砂漠の真ん中にある幻の都市、ですか……	　a phantom city in the middle of the desert......
+180379	+	　にわかには信じがたいですね」	　It's hard to believe right away.」
+
+180380	Cream Ganoblade	「いえ、情報がまったくない状況です。	「No, we have no information at all.
+180381	+	　まずはその線で当たってみましょう」	　Let's investigate along those lines first.」
+
+180382	-	数日後――	Several days later――
+
+180383	Cream Ganoblade	「総統、シャングリラについて	「Supreme Leader, I brought someone
+180384	+	　分かる人を連れてきましたよ」	　who knows about Shangri-La.」
+
+180385	Rance	「なに？　もうか？」	「What? Already?」
+
+180386	Urza Pranaice	「皆を褒めてあげてください。	「Please praise everyone.
+180387	+	　ここに揃った、情報に関する	　This is the work of the information
+180388	+	　プロフェッショナル達の仕事です」	　professionals gathered here.」
+
+180389	Rance	「むう、クレインちゃん頑張れ。	「Muu, Crane-chan do your best.
+180390	+	　このままだと負けちまうぞ」	　Otherwise we'll lose.」
+
+180391	Crane	「……負けて、いい」	「...Losing is fine.」
+
+180392	Cream Ganoblade	「キナニ砂漠を横断する際に	「This is a desert guide
+180393	+	　ガイドをする砂漠案内人です」	　who crosses the Kinani Desert.」
+
+180394	Desert Guide	「ひ、ヒヒ……ひぃひぃ……」	「Hi, hihi...... hii hii......」
+
+180395	-	よたよたと、司令部内に長いローブを	A suspicious figure in a long robe
+180396	+	羽織った怪しい人物が現れた。	staggered into the command center.
+
+180397	Desert Guide	「お初にお目にかかります。	「Nice to meet you.
+180398	+	　砂漠で案内人をしている者です……	　I am a guide in the desert......
+180399	+	　よぼよぼ……」	　yobo yobo......」
+
+180400	-	折れ曲がっているらしき腰を更に折り曲げ、	Bending his already crooked back even further,
+180401	+	ローブを羽織った案内人は頭を下げた。	the robed guide bowed his head.
+
+180402	Rance	「腰の低い奴だな。	「What a humble guy.
+180403	+	　おい、シャングリラについて知ってるのか？」	　Hey, do you know about Shangri-La?」
+
+180404	Desert Guide	「はひ……よぼよぼ……」	「Hahi...... yobo yobo......」
+
+180405	Desert Guide	「まず結論からお話させて頂きますが、	「First, to get straight to the point,
+180406	+	　シャングリラは実在いたします、はい……」	　Shangri-La does exist, yes......」
+
+180407	Rance	「……本当だろうな。	「...It better be true.
+180408	+	　お前、死ぬほど胡散臭いぞ」	　You look extremely suspicious.」
+
+180409	Desert Guide	「はひっ、ももも、	「Hahii, mo mo mo,
+180410	+	　申し訳ありません……よぼよぼ……」	　I'm very sorry...... yobo yobo......」
+
+180411	Cream Ganoblade	「この方の話の通りのルートを通り、	「We followed the route he described
+180412	+	　確認を取らせました。	　and confirmed it.
+180413	+	　確かにシャングリラと思しき建物がありました」	　There were indeed buildings that seemed to be Shangri-La.」
+
+180414	Rance	「ふむ、なら本当にあるのか」	「Hmm, so it really exists.」
+
+180415	Desert Guide	「は、はひ……間違いありません……」	「Ha, hahi...... no mistake......」
+
+180416	Desert Guide	「シャングリラと他の国家の交易の中継ぎを	「I was involved in mediating trade
+180417	+	　させて頂いておりました……ひぃひぃ……」	　between Shangri-La and other nations...... hii hii......」
+
+180418	Desert Guide	「私はほんの十名にも満たないギルド所属ですが……	「I belong to a small guild of less than ten people but......
+180419	+	　シャングリラとの交易はそのギルドが	　that guild had a monopoly on trade with Shangri-La......
+180420	+	　独占している状態でありました……はひ……」	　hahi......」
+
+180421	Urza Pranaice	「よく今までシャングリラの存在が	「It's impressive that the existence of Shangri-La
+180422	+	　他の方に知られませんでしたね」	　remained unknown to others until now.」
+
+180423	Desert Guide	「シャングリラ様は大変お金払いの良い	「Shangri-La pays extremely well
+180424	+	　上客様でございましたから……」	　so they were valued customers......」
+
+180425	Urza Pranaice	「独占するべく、	「So they kept it secret
+180426	+	　他の方には秘密していた、と」	　from others to maintain the monopoly.」
+
+180427	Desert Guide	「さすが聡明で……	「As expected, very perceptive......
+180428	+	　そういうことでございます……よぼよぼ……」	　that is correct...... yobo yobo......」
+
+180429	Desert Guide	「私共は人類と魔軍の戦争が始まる直前、	「Right before the war between humanity and the Monster Army began,
+180430	+	　シャングリラに呼び出されました……」	　we were summoned to Shangri-La......」
+
+180431	Desert Guide	「そこで見たのでございます……	「What we saw there......
+180432	+	　ああ、口に出すのも恐ろしい……」	　ah, it's terrifying even to speak of......」
+
+180433	Rance	「もったいぶらず、ちゃちゃっと話せ。	「Stop dragging it out, talk quickly.
+180434	+	　なにを見た？」	　What did you see?」
+
+180435	Desert Guide	「は、はひ……」	「Ha, hahi......」
+
+180436	Desert Guide	「シャングリラ中に蠢くおびただしい数の……	「An overwhelming number of......
+180437	+	　ま、魔物でございます……」	　monsters swarming throughout Shangri-La......」
+
+180438	Rance	「ほほう」	「Hmm.」
+
+180439	Cream Ganoblade	「おそらく、それが後に人類圏に攻め込んだ、	「That was probably the source of the
+180440	+	　合計200万の軍団でしょう」	　total two million troops that later attacked humanity.」
+
+180441	Desert Guide	「は、はひ……	「Ha, hahi......
+180442	+	　私のような者には理解できませんが……」	　I don't understand it but......」
+
+180443	Desert Guide	「ま、魔物は次から次へと	「Monsters kept appearing one after another
+180444	+	　不思議な魔方陣より現れ続けておりました」	　from mysterious magic circles.」
+
+180445	Rance	「魔方陣だと？」	「Magic circles?」
+
+180446	Satella	「おそらくそれは転移魔方陣だな」	「That was probably a teleportation magic circle.」
+
+180447	Satella	「二箇所にある大きな魔方陣を介して、	「Using two large magic circles,
+180448	+	　生き物、無生物の区別なくワープさせるものだ」	　it can warp any living or non-living thing.」
+
+180449	Satella	「昔、サテラ達がリーザスに攻め込んだとき、	「When Satella and the others attacked Leazas in the past,
+180450	+	　ヘルマンの兵をリーザス城内に運んだのも	　it was that teleportation magic circle
+180451	+	　その転移魔方陣の力だ」	　that transported Helman soldiers into Leazas Castle.」
+
+180452	Rance	「なるほど、それを使って	「I see, so they used that
+180453	+	　魔物界からこちらに直接兵を送っていたのか」	　to send troops directly from the Monster Realm.」
+
+180454	Urza Pranaice	「キナニ砂漠は世界の中心地です。	「The Kinani Desert is the center of the world.
+180455	+	　あそこが取られている状態は	　Losing control of it
+180456	+	　かなり痛いですね……」	　is quite painful......」
+
+180457	Rance	「しかし、どうして案内人どもは、	「But why didn't the guides
+180458	+	　その話を俺らに話さんのだ」	　tell us this story?」
+
+180459	Desert Guide	「は、はひ……もももも、申し訳ありません……	「Ha, hahi...... mo mo mo, I'm very sorry......
+180460	+	　私共のほとんどは、その……	　Most of us were......
+180461	+	　口封じに殺されたのでございます」	　killed to silence us.」
+
+180462	Desert Guide	「シャングリラに呼ばれた理由とは、	「The reason we were summoned to Shangri-La
+180463	+	　まさしくそれでございます……」	　was exactly that......」
+
+180464	Desert Guide	「私を含めた数名は命からがら	「A few of us including myself barely escaped with our lives
+180465	+	　逃げおおせましたが……」	　but......
+
+180466	Desert Guide	「それからもずっと魔物に命を	　and ever since monsters have been
+180467	+	　狙われ続けまして……こ、怖くて……	　hunting us... it was so scary......
+180468	+	　とてもとても表には出られず……」	　we couldn't show ourselves......」
+
+180469	Rance	「ふん、臆病者め」	「Hmph, what a coward.」
+
+180470	-	ランスが立ち上がる。	Rance stood up.
+
+180471	Rance	「しかし、これで次に	「But now we know
+180472	+	　攻め込むべき場所が分かったな」	　where to attack next.」
+
+180473	Rance	「今からババーンとシャングリラに攻め込むぞ！	「We're attacking Shangri-La right now with a bang!
+180474	+	　そして魔軍の増援などストップだ！」	　And we'll stop the Monster Army's reinforcements!」
+
+180475	Desert Guide	「ひぃぃぃぃっ！」	「Hiiiiii!」
+
+180476	Rance	「……こら、案内人やかましいぞ。	「...Hey, guide, you're too loud.
+180477	+	　やる気が削がれるだろうが」	　You're killing my motivation.」
+
+180478	-	砂漠案内人は突然、	The desert guide suddenly
+180479	+	その場で土下座をした。	prostrated himself on the spot.
+
+180480	Desert Guide	「いい、いやしくも案内人風情である私が	「P-Please, a lowly guide like myself
+180481	+	　総統閣下様にご進言させて頂きますれば、	　daring to advise the Supreme Leader,
+180482	+	　そそそそ、そのようなことは勧めませぬ……」	　would not recommend such a thing......」
+
+180483	Rance	「なんでだ？」	「Why not?」
+
+180484	Desert Guide	「あのシャングリラには身の毛もよだつ	「In that Shangri-La there is a horrifying
+180485	+	　恐ろしい化け物がいるのでございます……」	　monster that makes your hair stand on end......」
+
+180486	Desert Guide	「ま、魔軍の総大将……」	「The supreme commander of the Monster Army......
+
+180487	Desert Guide	「魔人ケイブリスでございます……」	　the Fiend Kayblis......」
+
+180488	Satella	「ケイブリスだと！？」	「Kayblis!?」
+
+180489	Desert Guide	「はひぃぃぃ！　ももも、申し訳ありません！」	「Hahiiii! Mo mo mo, I'm sorry!」
+
+180490	Rance	「どこにいるかと思えば、	「So that's where he was hiding,
+180491	+	　砂漠にこそこそと隠れていたか」	　sneaking around in the desert.」
+
+180492	Urza Pranaice	「総統、ここは慎重にご判断願います」	「Supreme Leader, please decide carefully here.」
+
+180493	Rance	「なに？」	「What?」
+
+180494	Urza Pranaice	「ケイブリスは魔軍総大将だけあり、	「As the supreme commander of the Monster Army,
+180495	+	　強さはトップクラスと聞きます」	　Kayblis is said to be top class in strength.」
+
+180496	Urza Pranaice	「そうですね、サテラさん」	「Right, Satella?」
+
+180497	Satella	「ん……」	「Nn......」
+
+180498	-	聞かれたサテラが不愉快そうに眉をひそめた。	Satella frowned unpleasantly when asked.
+
+180499	Satella	「……悔しいが……な」	「...As much as it pains me......」
+
+180500	Satella	「ケイブリスは魔人四天王の筆頭、	「Kayblis is the leader of the Four Dread Fiends,
+180501	+	　魔人の中でも最古参にして……最強だ」	　the oldest and... strongest among the Fiends.」
+
+180502	Urza Pranaice	「時期を待ち、今は先延ばしにすることも	「We can wait for the right time and postpone for now
+180503	+	　多少なら可能ですが……」	　to some extent but......」
+
+180504	Rance	「……時期を待てば勝てるのか？」	「...Will waiting let us win?」
+
+180505	Urza Pranaice	「それは……」	「That is......」
+
+180506	Rance	「今日やろうと明日やろうと変わらん。	「Whether we do it today or tomorrow, it's the same.
+180507	+	　なら、早い方がいい」	　So sooner is better.」
+
+180508	Rance	「敵の元を断つ！	「We'll cut off the enemy's source!
+180509	+	　シャングリラを攻めるぞ！」	　We're attacking Shangri-La!」
+
+180510	Rance	「そして、魔人ケイブリスをブッ殺して	「And we'll beat the shit out of Fiend Kayblis
+180511	+	　全ての戦いをスーッキリ終わらせる！」	　and cleanly end all the fighting!」
+
+180512	Rance	「がははははははははは！	「Gahahahahahahaha!
+180513	+	　ケイブリスなんぞ楽勝だ！」	　Kayblis will be an easy win!」
+
+180514	Satella	「……ふん、よく言った」	「...Hmph, well said.」
+
+180515	Satella	「それでこそサテラの使徒だ！」	「That's my apostle!」
+
+180516	Urza Pranaice	「…………」	「............」
+
+180517	Urza Pranaice	「……分かりました。	「...Understood.
+180518	+	　少し臆病になっていたかも知れませんね」	　I may have been a bit too cautious.」
+
+180519	Cream Ganoblade	「私達の命、総統に預けます」	「We entrust our lives to you, Supreme Leader.」
+
+180520	Arlcoate Marius	「うう……ようやく全部終わるんですね……」	「Uuu... it's finally going to end......」
+
+180521	Rance	「がははは、行くぞ！」	「Gahahaha, let's go!」
+
+180522	Rance	「砂漠のシャングリラで	「In the desert Shangri-La
+180523	+	　魔人ケイブリスと決戦だ！」	　the decisive battle against Fiend Kayblis!」

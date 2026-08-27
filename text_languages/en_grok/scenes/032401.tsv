@@ -1,0 +1,268 @@
+# 32401	２２１／２／二人の奴隷１	cg
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Satella	サテラ	Female
+* Sheila Helman	シーラ	Female
+* Helman Knight	汎用ヘルマン騎士	Male
+* Helman Soldier	汎用ヘルマン兵	Male
+* Hubert Lipton	ヒューバート	Male
+
+146764	-	ランス達は戦闘を終えて	After finishing the battle,
+146765	+	ラング・バウに戻っていた。	Rance and the others returned to Lang Bau.
+
+146766	Rance	「くそ、魔人はいなかったか……」	「Damn, the Fiend wasn't there...」
+
+146767	Sill Plain	「あ、資料によるとケッセルリンクは夜にしか	「Ah, according to the documents, Kesselring only
+146768	+	　来ないそうですよ、ランス様」	　comes at night, Rance-sama.」
+
+146769	Rance	「このアホタレ、そういうことは早く言え！」	「You idiot, say that sooner!」
+
+146770	Sill Plain	「あいたっ！　す、すみません！」	「Ouch! S-Sorry!」
+
+146771	Satella	「まったく、何かおかしいと思ったんだ……」	「Really, I thought something was off...」
+
+146772	Rance	「む？　あれは……」	「Mu? That's...」
+
+146773	Sheila Helman	「いいえ、無理な運用だけはしないようにと	「No, please make sure not to do any unreasonable operations.
+146774	+	　念押ししておいてください。	　I've emphasized that.
+146775	+	　それで宜しいですね、ヒューバート総司令」	　Is that alright, Supreme Commander Hubert?」
+
+146776	Sheila Helman	「こちらの件は1軍に任せようかと思います。	「I think we'll leave this matter to the 1st Army.
+146777	+	　私から許可が下りたとお話しして下さい」	　Please tell them I gave permission.」
+
+146778	Sheila Helman	「質問が少しあります。	「I have a few questions.
+146779	+	　すみません、どなたか	　Sorry, could someone
+146780	+	　先程の書類をもう一度ここに」	　bring the previous documents here again
+
+146781	-	司令部では大統領であるシーラと	In the command center, President Sheila and
+146782	+	総司令であるヒューバートが	Supreme Commander Hubert
+146783	+	テキパキと仕事をしていた。	were working efficiently.
+
+146784	Rance	「ふーん、なんだシーラの奴、	「Hmm, Sheila's actually doing her job properly as President.」
+146785	+	　案外ちゃんと大統領してるではないか」	
+
+146786	Sill Plain	「忙しそうですねぇ……」	「She looks really busy...」
+
+146787	Helman Knight	「畏まりました。	「Understood.
+146788	+	　すぐに皆にも伝えておきます」	　I'll inform everyone right away.」
+
+146789	Helman Soldier	「次はこちらの確認をお願い致します」	「Next, please confirm this.」
+
+146790	-	誰も彼もが忙しそうに動くが、	Everyone was moving busily,
+146791	+	そこに乱雑さはない。	but there was no disorder.
+
+146792	-	それは大統領にして国の象徴であるシーラを、	That was because everyone respected and admired
+146793	+	皆が敬い慕っているからである。	Sheila, the President and symbol of the nation.
+
+146794	-	シーラが一人いるだけで、	Just Sheila being there
+146795	+	その場はどこか厳かな雰囲気に包まれていた。	gave the place a somewhat solemn atmosphere.
+
+146796	Rance	「って、くぉらシーラ、何してる。	「Hey, Sheila, what are you doing.
+146797	+	　俺様の世話をしないか」	　Aren't you going to take care of me?」
+
+146798	Sheila Helman	「えっ、ええっ……」	「Eh, ehh...」
+
+146799	-	突然現れたランスの暴言に	At Rance's sudden vulgar remark,
+146800	+	シーラは目を丸くしていた。	Sheila's eyes widened.
+
+146801	Sheila Helman	「あの、でも……」	「Um, but...」
+
+146802	Rance	「なんだ、俺の命令を無視する気か？	「What, planning to ignore my orders?
+146803	+	　随分と偉くなったではないか、ぐりぐり」	　You've gotten pretty full of yourself, grind grind.」
+
+146804	Sheila Helman	「いた、いたた、ランス様……	「Ow, ow, Rance-sama...
+146805	+	　あっ……ああっ……」	　Ah... Aah...」
+
+146806	Helman Knight	「き、貴様！　シーラ様に何を！	「Y-You! What are you doing to Lady Sheila!
+146807	+	　そこになおれ！」	　Stand down!」
+
+146808	Rance	「ああん？」	「Haaan?」
+
+146809	Hubert Lipton	「あー、タンマタンマ！」	「Ah, time out, time out!」
+
+146810	Helman Knight	「ひゅ、ヒューバート様……	「Hu-Hubert-sama...
+146811	+	　何故止められるのですか……」	　Why are you stopping me...」
+
+146812	Hubert Lipton	「そいつは……まあ……	「That guy is... well...
+146813	+	　俺も不本意だが、いいんだ……」	　I don't like it either, but it's fine...」
+
+146814	Hubert Lipton~	（止めないと、逆にこいつらが	（If I don't stop them, these guys might
+146815	+	　返り討ちに遭いかねん……）	　get beaten instead...）
+
+146816	Hubert Lipton	「ごほんっ……構わねぇよ、シーラ。	「Ahem... It's fine, Sheila.
+146817	+	　お前もここんとこ働きづめなんだ。	　You've been working nonstop lately.
+146818	+	　たまにはゆっくりと休め」	　Take a break sometimes.」
+
+146819	Sheila Helman	「ヒューバートさん……」	「Hubert-san...」
+
+146820	Sheila Helman	「はい、ありがとうございます！」	「Yes, thank you!」
+
+146821	Hubert Lipton~	（あーあー、嬉しそうな顔しちまって……）	（Sigh, she's making such a happy face...）
+
+146822	Hubert Lipton	「あ、ただし、ランス。	「Ah, but Rance.
+146823	+	　ちゃんと休ませろよ」	　Make sure she actually rests.」
+
+146824	Hubert Lipton	「一応、これでも国を背負って立つ方だ。	「She's the one carrying the country on her shoulders after all.
+146825	+	　あまり無茶な命令とかは……」	　Don't give her too unreasonable orders...」
+
+146826	Rance	「馬ー鹿、奴隷に気を使う主がどこにいる。	「Idiot, what master worries about his slave.
+146827	+	　こいつは俺のなんだから俺が自由に使う」	　She's mine, so I'll use her however I want.」
+
+146828	Sheila Helman	「あ、う……」	「A, u...」
+
+146829	-	ランスの乱暴な言葉にシーラは	At Rance's rough words, Sheila
+146830	+	耳まで真っ赤に染めて恥ずかしがるが、	blushed all the way to her ears in embarrassment,
+146831	+	どこか嬉しそうでもあった。	yet also looked somewhat happy.
+
+146832	Hubert Lipton	「……うー、あー。	「...Ugh, aah.
+146833	+	　ま、いいや……程々で頼むぜ……」	　Well, whatever... Just don't go too far...」
+
+146834	Rance	「ふん、とりあえずシーラ、飯だ飯。	「Hmph, first food, Sheila.
+146835	+	　それから風呂にも入るぞ」	　Then we'll take a bath.」
+
+146836	Sheila Helman	「はいっ」	「Yes!」
+
+146837	-	心から嬉しそうにシーラは返事をして、	Sheila replied with genuine happiness
+146838	+	退室していった。	and left the room.
+
+146839	Helman Soldier	「あ、あの、総司令、今のはいったい……」	「U-Um, Supreme Commander, what was that just now...」
+
+146840	Hubert Lipton	「……なんでもないから聞くな」	「...It's nothing, don't ask.」
+
+146841	-	…………	............
+
+146842	-	……	...
+
+146843	Rance	「どーだー？　ケッセルリンクの情報は載っているか？」	「How is it? Any info on Kesselring?」
+
+146844	Sill Plain	「うーん……被害報告ばかりですねぇ……	「Hmm... It's mostly damage reports...
+146845	+	　マスーンと、ポロックの拠点が襲われたそうです」	　It says the bases at Masoon and Pollock were attacked.」
+
+146846	Rance	「んなもん、後で赤髭辺りに聞けば分かることだ」	「I can just ask red beard about that later.」
+
+146847	-	ランスは奴隷二人を侍らせて、シィルには新聞を読ませ	Rance had his two slaves attend him, making Sill read the newspaper
+146848	+	シーラには食事を運ばせていた。	and Sheila bring him food.
+
+146849	Sheila Helman	「すみません、ケッセルリンクに関しての情報は	「I'm sorry, the latest information on Kesselring
+146850	+	　ヘルマン軍で調べているのが最新だと思います……」	　is what the Helman Army is investigating...」
+
+146851	Rance	「ちっ、つまらんな……」	「Tch, how boring...」
+
+146852	Rance	「んぐっ、んぐっ……	「Munch, munch...
+146853	+	　んじゃ、なんか別の面白そうな話はないのか？」	　Then, any other interesting stories?」
+
+146854	Sill Plain	「リーザスの巨大銭湯で火事が起きたそうですよ。	「There was a fire at a huge bathhouse in Leazas.
+146855	+	　怖いですね、ランス様」	　Scary, isn't it, Rance-sama.」
+
+146856	Rance	「裸の女が大量に出てきたのかな？	「Did a bunch of naked women come running out?
+146857	+	　しかし、終わった事件の話ではなぁ……」	　But it's an old incident...」
+
+146858	Sill Plain	「あっ、ゼスの美少女コンテスト、	「Ah, the Zeth beautiful girl contest
+146859	+	　世情を考慮して今年は中止だそうです」	　has been canceled this year due to the current situation.」
+
+146860	Rance	「むむ、そうなのか……魔軍をどうにかせんと、	「Mumu, is that so... If we don't do something about the Monster Army,
+146861	+	　世の中つまらんことばかりになるな」	　the world will just keep getting boring.」
+
+146862	Rance	「シィル、なんか面白そうな記事を探せ、	「Sill, find some interesting article,
+146863	+	　エロチャンスがありそうな奴だぞ」	　one with erotic potential.」
+
+146864	Sill Plain	「は、はい、分かりました。	「Y-Yes, understood.
+146865	+	　えーと、ゼスの研究所で爆発事故、うーん、これじゃなくて……」	　Um, explosion at a Zeth laboratory, hmm, not this one...」
+
+146866	-	シィルは無茶な命令にも健気に肯き、	Sill bravely nodded at the unreasonable order
+146867	+	一生懸命に新聞を読み始めた。	and began reading the newspaper diligently.
+
+146868	Rance	「シーラ、次」	「Sheila, next.」
+
+146869	Sheila Helman	「はい、ランス様、あーんしてください」	「Yes, Rance-sama, say ahh.」
+
+146870	Rance	「まぐまぐ……案外美味いなこれ……」	「Munch munch... This is surprisingly good...」
+
+146871	Sheila Helman	「あ、あのー……	「U-Um...
+146872	+	　ところでランス様、さっきから何を？」	　By the way, Rance-sama, what have you been doing?」
+
+146873	-	シーラはランスがお菓子と魚肉ソーセージを	Sheila asked while watching Rance stuff snacks and fish sausages
+146874	+	シィルの頭に詰め込んでる手元を見ながら質問をした。	into Sill's head.
+
+146875	Rance	「見て分からんか？　非常食の用意だ。	「Can't you tell by looking? Emergency food supply.
+146876	+	　俺様のような優れた冒険者がよくやる手だ」	　It's a common trick for great adventurers like me.」
+
+146877	Sheila Helman	「い、いつもしてるんですか……？」	「D-Do you always do this...?」
+
+146878	Rance	「んにゃ、入るかなってしたら入ったから、	「Nah, I tried and it fit,
+146879	+	　こう……ものは試しにと……ぐりぐり……」	　so... nothing ventured nothing gained... grind grind...」
+
+146880	-	　	　
+146881	+	　＜スポッ＞	　＜Pop＞
+
+146882	Rance	「おー、入った入った」	「Oh, it went in, it went in.」
+
+146883	Rance	「こいつの頭は一体どうなっとんのじゃ」	「What the hell is this one's head made of?」
+
+146884	Sheila Helman	「あ、あはは……」	「A-Ahaha...」
+
+146885	Rance	「まあいい、これで腹が減ったときはいつでも	「Well whatever, now when I'm hungry
+146886	+	　こいつの頭を叩けばオーケだな」	　I can just knock on this one's head.」
+
+146887	Sill Plain	「あのー……？	「Um...?
+146888	+	　お二人は先程からなんの話を？」	　What have you two been talking about?
+
+146889	-	新聞を熱心に読んでいたシィルが顔を上げた。	Sill, who had been reading the newspaper intently, looked up.
+
+146890	Rance	「お前には関係ない」	「None of your business.」
+
+146891	Sheila Helman	「あ、あります……あると思いますよ？」	「Ah, it does... I think it does?」
+
+146892	Rance	「えい、ぺしぺし」	「Ei, pat pat.」
+
+146893	Sill Plain	「あたた。	「Ouch.
+146894	+	　？　どうしました、ランス様」	　? What is it, Rance-sama?」
+
+146895	-	頭を軽めに叩かれても、	Even when lightly tapped on the head,
+146896	+	シィルは不思議そうにするだけだった。	Sill just looked puzzled.
+
+146897	Rance	「うむ、違和感もないようだな。	「Yeah, no discomfort at all.
+146898	+	　シーラ、面白いから言うなよ」	　Sheila, don't tell her, it's funny.」
+
+146899	Sheila Helman	「い、いいんでしょうか……？」	「I-Is that okay...?」
+
+146900	Rance	「いいに決まってる」	「Of course it's okay.」
+
+146901	Sill Plain	「ほへ？」	「Hohe?」
+
+146902	-	会話の意味が分からず、シィルは小首を傾げた。	Not understanding the conversation, Sill tilted her head.
+
+146903	Rance	「さーて、そろそろやるか。	「Alright, time to get to it.
+146904	+	　ぐふふふ、二人とも下着を脱ぐのだ」	　Gufufu, both of you take off your underwear.」
+
+146905	Sheila Helman	「う、や、やっぱり三人でされるんですね……」	「U-Um, so it's going to be all three of us again...」
+
+146906	Rance	「うむ、夜に現れるというケッセルリンクを待つ間、	「Yeah, while waiting for Kesselring who appears at night,
+146907	+	　暇だからな」	　I'm bored.」
+
+146908	Sill Plain	「でも、その……あまりされるとお疲れに……」	「But, um... if you do it too much we'll get tired...」
+
+146909	Rance	「がははは、俺様を誰だと思っている！	「Gahahaha, who do you think I am!
+146910	+	　お前らを抱くくらい楽勝なのだ！」	　Fucking you two is easy!」
+
+146911	Rance	「むしろお前らの方が心配だぜ、	「I'm more worried about you two,
+146912	+	　足腰立たなくなっていざというとき	　if your legs give out when we need you
+146913	+	　使い物になりませーんでは困るからな」	　that'd be a problem.」
+
+146914	Rance	「よーし、特訓も兼ねて今日は特別激しくやるか！	「Alright, let's make today extra intense as special training!
+146915	+	　お前ら覚悟をしろよ！」	　You two better prepare yourselves!」
+
+146916	Sheila Helman	「あう……」	「Au...」
+
+146917	Sill Plain	「は、恥ずかしいですよぅ、ランス様……」	「I-It's embarrassing, Rance-sama...」
+
+146918	Rance	「くくくく……俺様は奴隷も平等に扱う男だ……」	「Hehehe... I treat all my slaves equally...」
+
+146919	Rance	「明日は二人とも足腰が立たんと思えよ……	「Tomorrow neither of you will be able to stand...
+146920	+	　じゅるり……」	　Slurp...」
+
+146921	Rance	「がははは、とーう！」	「Gahahaha, tooou!」
+
+146922	-	…………	............
+
+146923	-	……	...

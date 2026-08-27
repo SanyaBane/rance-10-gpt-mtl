@@ -1,0 +1,142 @@
+# 33272	６０５／死国着	
+* Nagata-kun	長田君２	Male
+* El Mofus	エール２	Player's choice
+* Rocky Bank	ロッキー２	Male
+* Masou Shizuka	志津香２	Female
+* Yamamoto Rangi	乱義２	Male
+* JAPAN General	汎用武将	Male
+* JAPAN Samurai	汎用女武士兵	Female
+* JAPAN Samurai	汎用男武士兵	Male
+* Reset Kalar	リセット２	Female
+* Houjou Suzu	すず２	Female
+
+220943	-	一行は死国と本州を分断する、	The group arrived in front of
+220944	+	巨大な門の前に到着した。	the massive gate separating the Land of the Dead from Honshu.
+
+220945	Nagata-kun	「あーあーあー……	「Aah aah aah...
+220946	+	　遂に来ちゃったよ……」	　We finally arrived...」
+
+220947	-	あなたの隣で長田君が	Beside you, Nagata-kun
+220948	+	どんよりと暗い顔をしていた。	had a gloomy, dark expression.
+
+220949	Nagata-kun	「＜エール＞は知らないだろうけどさ……	「You probably don't know, ＜エール＞, but...
+220950	+	　死国ってのは外国人でも知ってる	　The Land of the Dead is a super dangerous zone
+220951	+	　JAPAN屈指のデンジャーゾーンなんだよ……」	　even foreigners know about in JAPAN...」
+
+220952	Nagata-kun	「中にはやべぇ妖怪や鬼が	「Inside there are dangerous youkai and oni
+220953	+	　うじゃうじゃいるって……」	　swarming everywhere...」
+
+220954	Nagata-kun	「早雲って人がいるだけならシカトだけど	「If it was just Souun, we could ignore it,
+220955	+	　オーブがあるってんなら	　but if there's an orb there
+220956	+	　入らないわけにいかないよなぁ……」	　we have no choice but to go in...」
+
+220957	Nagata-kun	「はあ、憂鬱だよぉ……」	「Haa, I'm so depressed...」
+
+220958	El Mofus	「…………。」	「............」
+220959	Nagata-kun	「お前って案外真面目だよなあ……」	「You're surprisingly serious...」
+
+220960	Nagata-kun	「ええっ、急にスパルタ！？	「Ehh, sudden Spartan mode!?
+220961	+	　ごめんなさい！」	　Sorry!」
+
+220962	Rocky Bank	「ま、まあまあ、頑張りましょうだ」	「N-Now now, let's do our best.」
+
+220963	Nagata-kun	「……そうしちゃう？」	「...Should we just do that?」
+
+220964	Masou Shizuka	「あんた達……」	「You guys...」
+
+220965	Nagata-kun	「じょ、冗談っすよ！　冗談！	「J-Just kidding! Kidding!
+220966	+	　あははははは！」	　Ahahahahaha!」
+
+220967	Yamamoto Rangi	「既に中に兵達が行ったと聞いたが、	「I heard soldiers have already gone inside,
+220968	+	　状況は？」	　what's the situation?」
+
+220969	JAPAN General	「はっ！」	「Yes!」
+
+220970	JAPAN General	「五十名からなる隊を組織し、	「We organized a team of fifty,
+220971	+	　早雲殿を捕らえようとしましたが、	　and tried to capture Souun-dono,
+220972	+	　妖怪の襲撃に遭い多大な被害を受け失敗……」	　but suffered heavy losses from youkai attacks and failed...」
+
+220973	JAPAN General	「その後、人数を二百名にしましたが、	「After that we increased to two hundred,
+220974	+	　途中で鬼との戦闘になり、	　but encountered oni midway,
+220975	+	　これ以上は進めぬと断念いたしました……」	　and had to abandon going further...」
+
+220976	Nagata-kun	「ええっ！？	「Ehh!?
+220977	+	　に、二百人で行って駄目だったのかよ！？」	　Even two hundred people couldn't do it!?」
+
+220978	Nagata-kun	「むむむむ……	「Mumumumu...
+220979	+	　む、無理だってぇ……	　It's impossible...
+220980	+	　マジ無理だってぇ……」	　For real impossible...」
+
+220981	Nagata-kun	「な、な、な、＜エール＞。	「H-Hey, ＜エール＞.
+220982	+	　今ならまだ間に合う。	　We can still turn back now.
+220983	+	　中に入るの考え直そうぜぇ……」	　Let's rethink going inside...」
+
+220984	El Mofus	「…………。」	「............」
+220985	Nagata-kun	「なんなの、その自信……	「Where does that confidence come from...
+220986	+	　どっから出てんのぉ……？」	　How...?」
+
+220987	Nagata-kun	「うっ……	「Ugh...
+220988	+	　そりゃ、そうなんだけどよぉ……」	　Well, yeah, that's true but...」
+
+220989	Nagata-kun	「マジで？　超助かる。	「For real? Super helpful.
+220990	+	　絶対離すなよ、絶対だかんな？」	　Don't let go of me, absolutely okay?」
+
+220991	Yamamoto Rangi	「皆の者、ご苦労だった」	「Everyone, thank you for your hard work.」
+
+220992	Yamamoto Rangi	「ここより先は私達だけで行く。	「From here on, we will go alone.
+220993	+	　君達はここに残り門を誰も通さぬように」	　You all stay here and make sure no one passes the gate.」
+
+220994	JAPAN Samurai	「そ、そんな！」	「T-That's...!」
+
+220995	JAPAN Samurai	「なりません！　乱義様達だけで行かせるなど！」	「You can't! We can't let Rangi-sama and the others go alone!」
+
+220996	Yamamoto Rangi	「鬼、妖怪など、この地に現れている者は	「The oni and youkai appearing in this land
+220997	+	　訓練された兵士でも手に余る者ばかり」	　are too much even for trained soldiers.」
+
+220998	Yamamoto Rangi	「私達、魔王の子だけで入るのが、	「Us, the Demon King's children going in alone,
+220999	+	　もっとも被害の少ない方法なのです」	　is the method with the least damage.」
+
+221000	JAPAN Samurai	「うっ、くう……」	「Ugh, kuu...」
+
+221001	JAPAN Samurai	「……分かりました」	「...Understood.」
+
+221002	Yamamoto Rangi	「ありがとう、聞き入れてくれて」	「Thank you for listening to me.」
+
+221003	Nagata-kun	「って、俺らだけで行くの！？」	「Wait, we're going by ourselves!?」
+
+221004	Nagata-kun	「うう、マジかよぉ……」	「Ugh, for real...」
+
+221005	Reset Kalar	「長田君、大丈夫？	「Nagata-kun, you okay?
+221006	+	　お姉ちゃんと手を繋いで行く？」	　Want to hold big sister's hand while we go?」
+
+221007	Nagata-kun	「マジすか？　超助かるっす」	「For real? That'd be super helpful.」
+
+221008	Houjou Suzu	「あ、あの、乱義様……！」	「U-um, Rangi-sama...!」
+
+221009	Yamamoto Rangi	「すずさん。	「Suzu-san.
+221010	+	　早雲様のことならご安心下さい。	　If it's about Souun-sama, please rest assured.
+221011	+	　必ず、無事に……」	　We will definitely bring her back safely...」
+
+221012	Houjou Suzu	「い、いえ、お願いが……」	「N-no, I have a request...」
+
+221013	Houjou Suzu	「どうか私も連れて行って下さい！」	「Please take me with you too!」
+
+221014	Yamamoto Rangi	「貴方も？」	「You as well?」
+
+221015	-	乱義は少し思案こそしたが、	Rangi thought for a moment,
+221016	+	すぐに頷いた。	then quickly nodded.
+
+221017	Yamamoto Rangi	「分かりました。	「Understood.」
+221018	+	　早雲様が正気を失っているのであれば、	　If Souun-sama has lost her sanity,
+221019	+	　あなたの声は役に立つかも知れない」	　your voice might be helpful.」
+
+221020	Yamamoto Rangi	「ただし、冷たいようですが、	「However, this may sound cold,
+221021	+	　命の保証までは出来ませんよ」	　I cannot guarantee your life.」
+
+221022	Yamamoto Rangi	「それで構わなければ――」	「If you are fine with that一一」
+
+221023	Houjou Suzu	「構いません！」	「I don't mind!」
+
+221024	Yamamoto Rangi	「……分かりました」	「...Understood.」
+
+221025	-	こうして、あなた達は死国に足を踏み入れた。	And so, you all stepped into the Land of the Dead.

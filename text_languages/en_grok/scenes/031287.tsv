@@ -1,0 +1,113 @@
+# 31287	２４１／４／異界	
+* Rance	ランス	Male
+* Patricia Bacon	パトリシア	Female
+* Papademas Shirusven	パパデマス	Male
+* Miracle Tor	ミラクル	Female
+* Pastel Kalar	パステル	Female
+* Pigu Geliciam	ピグ	Female
+* Copandon Dott	コパンドン	Female
+* Alkanese Rize	アルカネーゼ	Female
+
+64618	-	特設のコンピュータルームは、	The special computer room
+64619	+	ハチ女の巣をつついたように大騒ぎになっていた。	was in an uproar like a hornet's nest had been poked.
+
+64620	?	「くっそ、ええい……これはなんて書いてあるんだ」	「Damn it... What does this say?」
+
+64621	?	「あっ、ゼス司令部！　ゼス司令部、聞こえますか！	「Ah, Zeth Headquarters! Zeth Headquarters, do you copy!
+64622	+	　こちら自由都市連合軍……聞こえますか！」	　This is the Free Cities Alliance Army... Can you hear us!」
+
+64623	Rance	「はあ……こりゃひどいな」	「Haa... This is bad.」
+
+64624	Patricia Bacon	「ホントよねぇ」	「It really is.」
+
+64625	Rance	「げっ……」	「Geh...」
+
+64626	Patricia Bacon	「やっぱりよく分からない物を使っちゃ	「I told you we shouldn't rely on things we don't fully understand.
+64627	+	　ダメだったのよ。	
+64628	+	　いくら便利でもね、もしもの時に困るでしょう？」	　No matter how convenient, it causes problems in emergencies, right?」
+
+64629	Patricia Bacon	「アイスでも、できるだけうしバスじゃなくて	「Even in Ice, we're trying to walk instead of using cow buses
+64630	+	　歩きましょうって流れになってるのよ。	　as much as possible.
+64631	+	　何よりも健康に配慮すべきですものねえ」	　Health comes first, after all.」
+
+64632	-	最後にはよく分からない主旨に話を発展させながら	Patricia wandered off while steering the conversation
+64633	+	パトリシアは離れていった。	into something vague.
+
+64634	Rance	「……行ったか……ふぅ」	「...She's gone... Phew.」
+
+64635	Papademas Shirusven	「ふむう……しかし一理はありますなあ。	「Hmm... She does have a point.
+64636	+	　コンピュータに依存が過ぎるのは……」	　Over-reliance on computers is...」
+
+64637	Miracle Tor	「ふむ……いや、これはなかなか面白い物だぞ。	「Hmm... No, this is quite an interesting device.
+64638	+	　これがコンピュータ……そういうことか」	　So this is a computer... I see.」
+
+64639	-	それまであれこれと空いたコンピュータを	Miracle, who had been fiddling with an empty computer,
+64640	+	触って調べていたミラクルが、不意に顔を上げた。	suddenly looked up.
+
+64641	Rance	「なんだ、ミラクル。何か分かるのか」	「What is it, Miracle? Do you understand something?」
+
+64642	Miracle Tor	「知りたいか？」	「Do you want to know?」
+
+64643	Rance	「…………あー、知りたい知りたい。	「...Yeah, I do, I do.
+64644	+	　何か分かるならさっさと言え」	　If you know something, spit it out.」
+
+64645	Miracle Tor	「ふっ、我が忠実なる下僕の頼みか。	「Heh, a request from my loyal servant.
+64646	+	　聞いてやらねば王の度量が問われるな」	　I must answer or my kingly generosity will be questioned.」
+
+64647	Pastel Kalar	「……いちいちあれをやらんと気が済まんのか」	「...Do you always have to do that?」
+
+64648	Pigu Geliciam	「しーっ」	「Shhh.」
+
+64649	Miracle Tor	「これは、異界ゲート発生装置だ」	「This is an otherworld gate generation device.」
+
+64650	Rance	「は？」	「Ha?」
+
+64651	Copandon Dott	「ん？　なんや、それが取り付けられて、	「Hm? So something like that is attached,
+64652	+	　コンピュータに悪さしとる、んか？」	　and messing with the computer?」
+
+64653	Miracle Tor	「違う。このコンピュータの	「No. It's about the network
+64654	+	　ネットワークそのものの話だ」	　of this computer itself.」
+
+64655	-	ミラクルは説明する言葉を選ぶように、	Miracle chose her words carefully,
+64656	+	一瞬口元に指を寄せた。	bringing a finger to her lips for a moment.
+
+64657	Miracle Tor	「……これは、作動させると異界のゲートが開き、	「...When activated, it opens a gate to another world,
+64658	+	　そこへ情報を送り込む仕組みになっている。	　and sends information through it.
+64659	+	　受け取る時も同じだ」	　The same when receiving.」
+
+64660	Alkanese Rize	「えーっと……実はコンピュータは	「Um... so computers were actually
+64661	+	　魔法を発生させていた……？」	　generating magic...?」
+
+64662	Miracle Tor	「そうではない。魔法ではない……はずだがな。	「Not exactly. It's not magic... probably.
+64663	+	　内部構造は皆目見当が付かん」	　I can't figure out the internal structure at all.」
+
+64664	Copandon Dott	「そないなシロモノやったんか……」	「So that's what it was...」
+
+64665	Miracle Tor	「魔法で同じ事をしようとすれば、	「Trying to do the same thing with magic
+64666	+	　LV2では難しかろう。	　would be difficult even at LV2.
+64667	+	　それをこのように量産させるとはな。天晴れだ」	　Mass producing it like this is impressive.」
+
+64668	Miracle Tor	「製作者以外の者でも使える利便性も見事だな。	「The convenience of anyone being able to use it is also remarkable.
+64669	+	　それを意図して作られたかは分からんが……」	　Whether that was intended or not...」
+
+64670	Rance	「で、直せるのか？」	「So, can you fix it?」
+
+64671	Miracle Tor	「そうだな。	「Well.
+64672	+	　見たところ、発信の都度、異界は開かれている。	　From what I see, a gate opens every time something is sent.
+64673	+	　異常があるなら異界の中でのことだろう」	　If there's an abnormality, it's probably inside the otherworld.」
+
+64674	Rance	「てことは……中に入って直すのか。入れるか？」	「So... we have to go inside and fix it. Can we enter?」
+
+64675	Miracle Tor	「はっはっは。誰に話し掛けている。	「Hahaha. Who do you think you're talking to.
+64676	+	　余ならば造作もない」	　For me it's trivial.」
+
+64677	Rance	「面白そうだな。よーし、行くぞ」	「Sounds fun. Alright, let's go.」
+
+64678	Miracle Tor	「ふふ、ははは！　よかろう！	「Fufu, hahaha! Very well!
+64679	+	　偉大なる貴様の主君に感謝するのだぞ。	　Be grateful to your great lord.
+64680	+	　では――――」	　Now then――――」
+
+64681	-	無造作に、ミラクルはコンピュータの付近で	Casually, Miracle waved her hand near the computer.
+64682	+	手をかざす。	
+
+64683	Miracle Tor	「…………ゲートコネクト！」	「............Gate Connect!」

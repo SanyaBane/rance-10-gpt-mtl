@@ -1,0 +1,406 @@
+# 30671	４２／ヘルマン自力解放５	
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Monster Captain	汎用魔物隊長	Male
+* Blue Monster Soldier	汎用魔物兵青	Male
+* Red Monster Soldier	汎用魔物兵赤	Male
+* Freya Idun	フレイア	Female
+* Sanada Tourin	透琳	Male
+* Anasel Caspora	アナセル	Female
+* Old Man	汎用爺	Male
+* Man	汎用男	Male
+* Sheila Helman	シーラ	Female
+* LeMay	大将軍ルメイ	Male
+* Monster General	汎用魔物将軍	Male
+
+24006	-	両軍の作戦開始から、六時間。	Six hours since both armies began their operations.
+
+24007	-	ヘルマン東部、モルオル村――	Moruoru Village, eastern Helman――
+
+24008	Green Monster Soldier	「ちっ……ここももぬけの殻です、隊長」	「Tch...... This place is empty too, Captain.」
+
+24009	Monster Captain	「ええいくそ……またか。どうなってる？	「Goddammit...... Again? What's going on?
+24010	+	　確かに、出入りする村人を見たというのに……」	　We definitely saw villagers coming and going......」
+
+24011	Green Monster Soldier	「罠……なのでしょうか……？	「Could this be...... a trap......?
+24012	+	　わ、我々に……帰る場所は…………」	　Do we...... even have a place to return to......」
+
+24013	Monster Captain	「……………………」	「........................」
+
+24014	Green Monster Soldier	「噂だと、我々の陣地を人間どもの主力が	「From the rumors, the main human forces have
+24015	+	　かなり深くまで襲撃してるらしいですし……」	　attacked deep into our positions......」
+
+24016	Monster Captain	「あ、案ずるな。ルメイ大将軍が、そう易々と……」	「Don't worry. General LeMay wouldn't fall so easily......」
+
+24017	Blue Monster Soldier	「おごっ……うぐあああああああっ……！」	「Gah...... Uguaaaaaaaah......！」
+
+24018	-	魔物隊長の声を、遠くからの絶叫が遮った。	A distant scream cut off the monster captain's words.
+
+24019	Red Monster Soldier	「どっ、毒だーーーー！　い、井戸水に毒が……」	「P-poisonーーー! The well water has poison in it......」
+
+24020	Green Monster Soldier	「うっ、また……！」	「Ugh, again......！」
+
+24021	Monster Captain	「み、水や食い物に触れるなと言ったろう！	「I told you not to touch the water or food!
+24022	+	　くそっ、小賢しい真似を……！」	　Dammit, those sneaky bastards......！」
+
+24023	Green Monster Soldier	「く、い、いったい何と戦ってるんだ、	「What the hell are we even fighting,
+24024	+	　俺たちは…………！」	　we......！」
+
+24025	-	ダウンフォール作戦は、	The Downfall Operation
+24026	+	当初の予定を崩されつつあった。	was falling apart from its original plan.
+
+24027	-	アサシン達が、あるいは魔軍の行軍を滞らせ、	Assassins either slowed the Monster Army's advance,
+24028	+	あるいは住民に擬態して避難済みの村に引き込み、	or disguised themselves as residents to lure them into already-evacuated villages,
+24029	+	手を尽くして作戦を妨害する。	doing everything possible to sabotage the operation.
+
+24030	-	その隙に小さな村々の住民は都市や砦に駆け込ませ、	Taking advantage of that, residents of small villages fled to cities and forts,
+24031	+	それらは固く門を閉ざして立てこもった。	which then shut their gates tightly and held their ground.
+
+24032	-	防衛の兵力も準備も充分ではないが、	Their defense forces and preparations weren't sufficient,
+24033	+	一日保たせればいい。	but they only needed to hold for one day.
+
+24034	-	堅牢な計画都市の多い、ヘルマンだからこそ	It was a strategy only possible in Helman,
+24035	+	可能な策であった。	with its many sturdy planned cities.
+
+24036	Freya Idun	「……こんなところね」	「......This is how it is.」
+
+24037	Sanada Tourin	「大部分の民は、拠点が落ちるまでは無事でしょう。	「Most of the people should be safe until the strongholds fall.
+24038	+	　ダウンフォール作戦は、これで只の攻城戦」	　At this point, the Downfall Operation is just a siege.」
+
+24039	Freya Idun	「あとは突撃部隊の出来次第、ね」	「It all depends on how well the assault unit does.」
+
+24040	Sanada Tourin	「アサシンの方々にはそちらの援護もお願いしたい」	「I'd like the assassins to support them as well.」
+
+24041	Freya Idun	「やれやれ、みんな人使いが荒いったらないわね」	「Good grief, everyone works people way too hard.」
+
+24042	-	肩を竦めるフレイアに小さく一礼して、	Tourin gave a small bow to Freya, who shrugged,
+24043	+	透琳はJAPANから送らせたてばさきに跨がった。	then mounted the flying beast sent from JAPAN.
+
+24044	Sanada Tourin	「……うむ。やはりこれが馴染む」	「......Yes. This one still feels the most natural.」
+
+24045	Freya Idun	「まだ作戦が？」	「Still more to the plan?」
+
+24046	Sanada Tourin	「ええ。大部分の民は助かるでしょうが……	「Yes. Most citizens will be saved, but......
+24047	+	　辺境の、逃げ込む拠点がない村があります」	　There are remote villages with no stronghold to flee to.」
+
+24048	Freya Idun	「それは…………」	「That............」
+
+24049	-	ほんのわずかに、フレイアの眉が動く。	Freya's brow twitched ever so slightly.
+
+24050	Sanada Tourin	「今回はダウンフォール作戦を肩透かしさせる分、	「By foiling the Downfall Operation this time,
+24051	+	　ヘルマン全土が危険になる可能性がありました」	　the entire land of Helman was put at risk.」
+
+24052	Sanada Tourin	「故に、どうしても妨害と避難では	「Therefore, no matter how much we sabotage and evacuate,
+24053	+	　助けられぬ者が出る」	　some people cannot be saved.」
+
+24054	Freya Idun	「そうね」	「That's true.」
+
+24055	-	全てを助けられるわけがない。	It was impossible to save everyone.
+
+24056	-	計画を知らされた時から、フレイアの頭の中では、	From the moment she learned of the plan, Freya had already
+24057	+	そこの住民は最低限の被害として計上されていた。	calculated those villagers as the minimum acceptable loss.
+
+24058	Sanada Tourin	「――民を護る。それが私の……武士道なれば。	「――To protect the people. That is my...... bushido.
+24059	+	　もはやその魂、堪える必要も無し」	　I no longer need to suppress that soul.」
+
+24060	-	透琳が、手にした弓を握りしめる。	Tourin gripped the bow in her hand tightly.
+
+24061	Freya Idun	「……そう。初めから、そのつもりだったのね」	「......I see. So that's what you intended from the start.」
+
+24062	Sanada Tourin	「アサシンの皆様は、まだまだ仕事がありましょう。	「The assassins still have plenty of work left.
+24063	+	　後は、都市守備隊の志願者と往きます」	　I will go with the volunteer city defense unit.」
+
+24064	-	フレイアは、無言で頷いた。	Freya nodded silently.
+
+24065	-	それが最も良い結果となると、了解してるが故。	She understood it was the best possible outcome.
+24066	+	アサシンと軍師のやりとりは、非常に簡潔だった。	The exchange between the assassin and the strategist was very brief.
+
+24067	Freya Idun	「諜報に長けた部隊をひとつ、付けるわ。	「I'll assign you a unit skilled in intelligence.
+24068	+	　魔軍の動きの情報が要るでしょう」	　You'll need information on the Monster Army's movements.」
+
+24069	Sanada Tourin	「かたじけない。では――――」	「I'm grateful. Then――――」
+
+24070	-	もう一度、軽く一礼をして、	She gave another light bow,
+24071	+	透琳はてばさきの首を巡らせる。	then turned her flying beast around.
+
+24072	-	フレイアも見送るような事はせず、	Freya didn't bother seeing her off,
+24073	+	迅速に次の行動に移っていった。	and quickly moved on to her next task.
+
+24074	Sanada Tourin	「ハッ――！」	「Hah――!」
+
+24075	-	透琳の跨がるてばさきが、	The flying beast Tourin rode
+24076	+	ヘルマンの大地を疾駆する。	raced across the lands of Helman.
+
+24077	?	「この先300ｍ先。ロンロという小さな村に、	「300 meters ahead. A small village called Ronro
+24078	+	　魔軍が入ろうとしています」	　is about to be invaded by the Monster Army.」
+
+24079	Sanada Tourin	「うむ」	「Understood.」
+
+24080	-	音もなく並走し、簡潔に報告するアサシンに	Tourin gave a small nod to the assassin
+24081	+	小さく頷き、透琳は更にてばさきを煽る。	who ran silently beside her giving a concise report, then urged her mount faster.
+
+24082	-	その背後を、避難させる際に村から譲り受けた	Behind her, volunteer city defense troops followed
+24083	+	毛長うし車で、都市守備隊の志願兵達が続いた。	in the long-haired ox carts received from the village during evacuation.
+
+24084	-	志願兵達は、数も練度も、大した事はない。	The volunteers weren't numerous or well-trained.
+24085	+	士気は高いが、魔物兵には敵しえないだろう。	Their morale was high, but they likely couldn't match monster soldiers.
+
+24086	Sanada Tourin~	（一撃を食らわせ、	(Strike once,
+24087	+	　その隙に住民をうし車に放り込む……	　then use that opening to load the residents into the carts......
+24088	+	　可能性があるとすれば、そのくらいか）	　That's about the only chance we have.)
+
+24089	-	既に、自分が生き残る手段は考えていない。	She had already stopped thinking about her own survival.
+
+24090	-	矢のような勢いで、民のため……	With arrow-like speed, for the sake of the people......
+24091	+	民のために死ぬると道を定めた己のために先を急ぐ。	She rushed forward, having chosen the path of death for the people.
+
+24092	?	「ひっ、ひいいいいいいい！！　魔物！？」	「Hii, hiiiiiiii!! Monsters!?」
+
+24093	Anasel Caspora	「…………！」	「............！」
+
+24094	Monster Captain	「けっ……やぁっと着いたぜ。	「Heh...... Finally made it.
+24095	+	　ここは当たりのようだなぁ！」	　Looks like we hit the jackpot here!」
+
+24096	Green Monster Soldier	「おほ、女もいる。いいっすか隊長。いいっすか！」	「Whoa, there are women too. Can we, Captain? Can we?!」
+
+24097	Monster Captain	「おう、逃がさず全部殺せよ！	「Yeah, kill them all, don't let anyone escape!
+24098	+	　さっさとしねぇと、ルメイの旦那に何されるか	　If you don't hurry up, who knows what
+24099	+	　分かったもんじゃねえ！」	　General LeMay will do to us!」
+
+24100	Old Man	「に、にに、逃げろ！」	「R-run!」
+
+24101	Man	「逃げるって、で、でもどこへ！	「Run where?! It takes days to reach the city!
+24102	+	　街まで何日もかかるんだぞ！」	　We won't make it!」
+
+24103	Man	「こ、降伏するしかない……！	「We have no choice but to surrender......!
+24104	+	　何とか話し合いに持ち込んで……」	　We have to try negotiating......」
+
+24105	Anasel Caspora~	（うあ……見えたわ、この先の展開……	(Ugh...... I can already see what happens next......
+24106	+	　また、流れ者を差し出そうって事になるわ……）	　They'll try to offer up outsiders again......)
+
+24107	Anasel Caspora~	（さんっざん、村がモンスターに襲われて……	(The village gets ravaged by monsters......
+24108	+	　助けが入ったと思ったら、慰み者にされて……）	　and when help arrives, they become playthings......)
+
+24109	-	あまりに絶望的な運命に、足下がふらついた。	The utterly hopeless fate made her legs buckle.
+24110	+	食いしばった口元に、流すまいとしていた涙が伝う。	Tears she tried to hold back slid down her tightly bitten lips.
+
+24111	Anasel Caspora	「こ、こんな風に、終わるの……？	「Is this...... how it ends......?
+24112	+	　わ、私……そんなに悪い事、した……？」	　Did I...... do something so bad......?」
+
+24113	Red Monster Soldier	「うおっしゃーーー！　俺犯して荒らす役！	「Hell yeahーーー! I'm on rape and pillage duty!
+24114	+	　おいお前ら！　逃がさないように囲め！」	　Hey you guys! Surround them so none escape!」
+
+24115	Blue Monster Soldier	「ちぇ、先輩きたねーっすよー！	「Tch, the seniors are hereー!
+24116	+	　俺たちにも犯らせてくださいよ！」	　Let us have a turn too!」
+
+24117	Red Monster Soldier	「ぐへへ、俺のビッグサムで壊れなかったらな！」	「Hehehe, if my big cock doesn't break her first!」
+
+24118	Anasel Caspora	「…………！」	「............！」
+
+24119	-	抵抗など想像もしていない無造作な動きで、	With casual movements that didn't even consider resistance,
+24120	+	魔物兵がアナセルに歩み寄る。	the monster soldier approached Anasel.
+
+24121	Red Monster Soldier	「さあ…………！」	「Now then............！」
+
+24122	Anasel Caspora	「っ……う、や、やぁっ……！」	「H...... No, n-nooo......！」
+
+24123	Red Monster Soldier	「うごっ！」	「Ugh!」
+
+24124	Blue Monster Soldier	「がっ！」	「Gah!」
+
+24125	Sanada Tourin	「こちらだ、狼藉者共！」	「Over here, you scoundrels!」
+
+24126	-	透琳が村人と魔軍の間に割り込んだ。	Tourin jumped between the villagers and the Monster Army.
+24127	+	遅れて、都市守備隊もやってくる。	The city defense volunteers arrived shortly after.
+
+24128	Monster Captain	「ンだぁ……？　ヘルマン軍か！」	「What the......? Helman army!」
+
+24129	Sanada Tourin	「どうにかして逃げよ、娘。	「Escape if you can, girl.
+24130	+	　村の外れにうし車がある。村人を連れて……」	　There are ox carts at the edge of the village. Take the people......」
+
+24131	Anasel Caspora	「え……あ、っ……」	「Eh...... Ah......」
+
+24132	Monster Captain	「来たのはこれっぱかしの人間か！	「Only this many humans came?!
+24133	+	　構う事はねえ、殺せ！」	　Doesn't matter, kill them all!」
+
+24134	Sanada Tourin	「………………！」	「............！」
+
+24135	-	絶望的な戦いが始まろうとした、その時。	Just as a hopeless battle was about to begin.
+
+24136	Monster Captain	「…………！？」	「............!?」
+
+24137	-	何かの影が、突進する魔物隊長を遮った。	A shadow blocked the charging monster captain.
+
+24138	-	反射的に振り下ろされた大剣を、腕が受け止める。	An arm caught the reflexively swung greatsword.
+24139	+	弾き返すと共に、滑らかに捌いて隊長の体勢を崩す。	It parried and smoothly disrupted the captain's stance.
+
+24140	Monster Captain	「おぐ、ご、ぶ…………！」	「Ogu, go, bu......！」
+
+24141	-	同時に、一瞬の間も置かずに、	At the same time, without a moment's delay,
+24142	+	隊長の喉笛を手刀が貫いた。	a hand chop pierced the captain's throat.
+
+24143	Monster Captain	「こ、ご、ぼ……な、んだ、き、さま…………」	「Go, go, bo...... W-what are you......」
+
+24144	Sanada Tourin	「…………なんと」	「............What」
+
+24145	Sheila Helman	「ありがとうございます、真田さん。	「Thank you, Sanada-san.
+24146	+	　…………おかげで、間に合いました」	　......Thanks to you, I made it in time.」
+
+24147	-	文字通りの一騎当千の力を秘めた、鋼の鬼神――	The steel ogre god who hid the power of one against a thousand――
+24148	+	数十の闘将たちを従え、シーラが静かに佇んでいた。	Sheila stood quietly, followed by dozens of Tousho.
+
+24149	-	戦局が、めまぐるしく動き始めた。	The tide of battle began shifting rapidly.
+
+24150	-	ヘルマン大統領にして最後の魔鉄匠、	The President of Helman and the last magic blacksmith,
+24151	+	シーラ・ヘルマンが不眠不休で遺跡を巡り、	Sheila Helman had traveled tirelessly through ruins,
+24152	+	闘将を起動させ、帰還した。	activated the Tousho, and returned.
+
+24153	-	闘将達はシーラの意を受け、	The Tousho, following Sheila's will,
+24154	+	各地辺境へ散って魔軍を撃退し始める。	scattered to the frontiers and began repelling the Monster Army.
+
+24155	-	一方、ロレックスらヘルマン突撃部隊は、	Meanwhile, Rolex and the Helman assault unit
+24156	+	魔軍の懐を大きく抉りながら、更に南下。	cut deep into the Monster Army's belly and continued south.
+
+24157	-	魔軍の本拠地であるラボリを、	They were closing in on Laboli,
+24158	+	指呼の間合いで捉えつつあった。	the Monster Army's main base.
+
+24159	-	ラボリ――――	Laboli――――
+
+24160	Green Monster Soldier	「か、閣下……！　ヘルマン軍が来ます！	「Y-Your Excellency......! The Helman army is coming!
+24161	+	　今のラボリの兵力では、防戦は……！」	　With our current forces in Laboli, we can't defend......！」
+
+24162	Monster Captain	「現在、こちらの侵攻部隊は、	「Currently, our invasion forces
+24163	+	　各地で都市を攻めておりますが、	　are attacking cities everywhere, but
+24164	+	　すぐに陥落しそうな所は……」	　the ones about to fall are......
+
+24165	LeMay	「ふ…………………………」	「Fu........................」
+
+24166	LeMay	「ふ……………………………………………」	「Fuu....................................」
+
+24167	LeMay	「ふざッ…………けるなああああああぁぁぁ！！！」	「Don't fuck with meeeeeeeeeee!!!」
+
+24168	Green Monster Soldier	「ひぃっ！？」	「Hii!?」
+
+24169	LeMay	「何故そんな不細工な事態になっている！	「Why has the situation become this ugly?!
+24170	+	　さっさと叩き潰せ！」	　Crush them quickly!」
+
+24171	LeMay	「殺せと言ったら殺せ！	「I said kill them, so kill them!
+24172	+	　追って殺せ！　探して殺せ！　逃げても殺せ！！	　Chase and kill! Search and kill! Kill even if they run!!
+24173	+	　殺されても殺すのだ！！」	　Kill them even if you die!!」
+
+24174	LeMay	「人間、め……ッ、人間があああああぁぁぁあ！！」	「Humans...... Humans, goddammit!!!!」
+
+24175	Green Monster Soldier	「ひ、ひいいいいい……！」	「H-hiiiiii......！」
+
+24176	-	狂乱したかのように、ルメイが暴れ回る。	LeMay rampaged as if in madness.
+
+24177	-	調度品を破壊し、壁を砕き、炎の吐息で	He smashed furniture, shattered walls, and nearly burned everything
+24178	+	全てを焼き払おうとして、ようやく思いとどまった。	with his fiery breath before finally holding back.
+
+24179	LeMay	「ぜい、ぜい……く、俺は……失敗したのか……	「Hah, hah...... Did I...... fail......
+24180	+	　くそ、生ゴミ以下の人間を……	　Damn it, those humans lower than garbage......
+24181	+	　侮りすぎたと、いう事か…………」	　Did I underestimate them too much......」
+
+24182	Monster General	「て、っ……撤退しましょう、閣下……！」	「Y-Your Excellency...... Let's retreat......！」
+
+24183	LeMay	「……なんだと？」	「......What did you say?」
+
+24184	-	ぎろりと、ルメイが部下を睨みつける。	LeMay glared fiercely at his subordinate.
+24185	+	将軍は息を呑んだが、言葉は止めなかった。	The general swallowed hard but continued.
+
+24186	Monster General	「閣下にもしもの事があっては……	「If something happens to you, Your Excellency......
+24187	+	　それに、ヘルマン軍を止める術がありません」	　Besides, we have no way to stop the Helman army.」
+
+24188	LeMay	「…………………………」	「........................」
+
+24189	LeMay~	（アイシャルリターン……それしかないのか……	(Eye shall return...... Is that my only option......
+24190	+	　ケイブリス様に、新たな軍を編成して頂き……）	　Ask Lord Kayblis to form a new army......)
+
+24191	LeMay~	（だが……くそっ。退くしかないのか……	(But...... damn it. Do I really have to retreat......
+24192	+	　人間を、ああ、あんなに人間がいるのに、	　There are so many humans, yet I......
+24193	+	　俺はこの機に、殺すことをせず……くっ……！）	　failed to kill them when I had the chance...... Kh......!)
+
+24194	-	さしもの大将軍ルメイも、弱気……というより、	Even the great General LeMay had a moment of weakness...... or rather,
+24195	+	正気めいた判断が脳裏にちらついた。	a sane thought flickered through his mind.
+
+24196	-	だが、その時。	But at that moment.
+
+24197	Green Monster Soldier	「失礼します！　大将軍閣下！」	「Excuse me! Great General, Your Excellency!」
+
+24198	LeMay	「んんん……？」	「Hmm......?」
+
+24199	-	一人の魔物兵が、	A single monster soldier
+24200	+	司令部の空気を知らずにやって来た。	entered, unaware of the heavy atmosphere in command.
+
+24201	Green Monster Soldier	「輸送任務より、ただいま戻りました。	「I've returned from the transport mission.
+24202	+	　ツォトン閣下より……」	　From General Zedong......」
+
+24203	LeMay	「輸送…………？　なんだったか。	「Transport......? What was that again.
+24204	+	　今は忙しい。後にしろ後に……」	　I'm busy right now. Later, later......」
+
+24205	Green Monster Soldier	「は……では輸送した物は、	「Yes...... Then where should we store
+24206	+	　どこに保管いたしましょう？」	　the transported item?」
+
+24207	LeMay	「なんだと？　そんなもの、適当にしておけ」	「What? Just put it anywhere.」
+
+24208	Green Monster Soldier	「はあ……それでよろしいですか。	「Understood...... Is that fine?
+24209	+	　先方は取り扱いには気をつけろと、	　They did say to handle it with care,
+24210	+	　重ねて仰っていましたが……」	　multiple times......」
+
+24211	LeMay	「ああもう、どうでもいい。	「Aah, whatever.
+24212	+	　ツォトンからの届け物なぞ、今は……」	　A delivery from Zedong right now is......」
+
+24213	-	取るに足らない事務的な返答の中に、	In that trivial bureaucratic reply,
+24214	+	ルメイの脳裏に閃くものがあった。	something suddenly flashed in LeMay's mind.
+
+24215	LeMay	「待て……待て。待て。ツォトンと言ったか。	「Wait...... Wait. Wait. You said Zedong.
+24216	+	　では、運んできた物は…………」	　Then the thing you brought is............」
+
+24217	Green Monster Soldier	「え？　え、ええ。	「Eh? Y-yes.
+24218	+	　ルメイ閣下が、大層お気にされていた……」	　The one Your Excellency was very interested in......」
+
+24219	LeMay	「…………人破壊爆弾か！！」	「............The Human Destruction Bomb!!」
+
+24220	Green Monster Soldier	「はっ、その通りであります。	「Yes, exactly.
+24221	+	　では倉庫に置きますので、御用の際は……」	　I'll store it in the warehouse, so when you need it......」
+
+24222	LeMay	「待て！　待て待て待て待て！！	「Wait! Wait wait wait wait!!
+24223	+	　それをすぐに持ってこい！」	　Bring it here right now!」
+
+24224	Green Monster Soldier	「はっ？　は、了解しました！」	「Huh? Y-yes, understood!」
+
+24225	-	首を捻りたそうな表情で、	With a confused look,
+24226	+	魔物兵はその場を辞した。	the monster soldier left.
+
+24227	Monster General	「人破壊爆弾……！	「The Human Destruction Bomb......!
+24228	+	　確か、人間のみを大量虐殺するとかいう……！」	　The one that massacres only humans......！」
+
+24229	LeMay	「はは、はははははははははははは！！！	「Haha, hahahahahahahahaha!!!
+24230	+	　それだ！　それが来た！」	　That's it! It's here!」
+
+24231	-	先ほどまでの苦悩が一転して、	The anguish from moments ago vanished,
+24232	+	ルメイは晴れ晴れとした気持ちになった。	and LeMay felt refreshed.
+
+24233	-	頭の中の何かが、道を指し示しているようだった。	Something in his mind seemed to point the way.
+24234	+	神を信じる人間なら、これを天啓と呼ぶだろう。	A believer in gods would call this divine revelation.
+
+24235	Monster General	「閣下！　ヘルマン軍の鼻先に叩き込むのですな。	「Your Excellency! We'll drop it right in front of the Helman army.
+24236	+	　それなら…………！」	　Then............！」
+
+24237	LeMay	「愚か者がッッ！！」	「You fool!!」
+
+24238	-	ルメイの一喝が、司令部を震わせる。	LeMay's roar shook the command center.
+
+24239	LeMay	「それでは精々数万の人間しか殺せん。	「That would only kill a few tens of thousands of humans.
+24240	+	　もっとだ！　もっと人間を殺すのだ！」	　More! Kill far more humans!」
+
+24241	Monster General	「も、もっと、とは……？」	「M-more...... how?」
+
+24242	LeMay	「ああ、何故逃げるなどと考えていたのだ、俺は！	「Ah, why was I even thinking of retreating?!
+24243	+	　いや、今あれが来たことこそ……そう、運命か！」	　No, the fact that it arrived now...... Yes, it's fate!
+
+24244	-	げらげらと哄笑をあげるルメイを、	The monster soldiers watched LeMay,
+24245	+	魔物兵たちは戸惑いと恐れが入り混じった表情で	who laughed wildly,
+24246	+	見守っていた。	with expressions mixed with confusion and fear.
+
+24247	LeMay	「我が性のままに生きよということか、これは！	「This is telling me to live according to my nature!
+24248	+	　ハハハハハハハハハハ！！」	　Hahahahahahahaha!!」

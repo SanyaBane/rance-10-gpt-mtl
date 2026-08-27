@@ -1,0 +1,243 @@
+# 30654	５０３／テオマン解禁２／サテラ	
+* Satella	サテラ	Female
+* Caesar	シーザー	Male
+* Biscuitta Burns	ビスケッタ	Female
+* Arios Theoman	テオマン	Male
+* Cola	コーラ	Male
+* Rance	ランス	Male
+* Crook Mofus	クルックー	Female
+* Cafe Artful	カフェ	Female
+
+21603	Satella	「うーん…………ダメだ。バランスが悪い」	「Hmm... No. The balance is off.」
+
+21604	-	　	
+21605	+	　　＜がしゃーん＞	 <Crash!>
+
+21606	-	作りかけていたガーディアンを、	Satella tossed away
+21607	+	サテラはぽいっと捨てた。	the Guardian she was in the middle of making.
+
+21608	Satella	「今日は集中できないな……」	「I can't concentrate today...」
+
+21609	Caesar~	（サテラ様……最近作ルがーでぃあん、	(Lady Satella... the Guardians she makes lately,
+21610	+	　口、大キイノガ多イ……）	lots of them have big mouths...)
+
+21611	-	そんな事を思いながら、シーザーは	While thinking such things, Caesar
+21612	+	さかさかと箒とチリトリで残骸を回収する。	quickly collects the remains with a broom and dustpan.
+
+21613	-	そこに、小さく、ノックの音がした。	There, a soft knocking sound was heard.
+
+21614	Biscuitta Burns	「サテラ様。お茶をお持ちしました」	「Lady Satella. I have brought your tea.」
+
+21615	Satella	「ん……ああ」	「Nn... ah.」
+
+21616	-	温かい紅茶の香気が、ふんわりと部屋に漂う。	The aroma of warm black tea wafted softly through the room.
+
+21617	Satella	「……あいつはまだ帰ってこないのか」	「...Is that guy still not back yet?」
+
+21618	Biscuitta Burns	「御主人様でございますか？	「Do you mean Master?
+21619	+	　そろそろお帰りになる頃の予定ですが」	He is scheduled to return soon.」
+
+21620	Satella	「ふん。どこをほっつき歩いてるんだ……」	「Hmph. I wonder where he's wandering about...」
+
+21621	Biscuitta Burns	「何か御用がございましたでしょうか」	「Did you have some business with him?」
+
+21622	Satella	「べ、別に……何もない。	「N-not really... it's nothing.
+21623	+	　ただ、文句を言ってやろうと思ってるだけだ。	I just planned to give him a piece of my mind.
+21624	+	　主であるサテラに、留守番なんて押しつけて！」	Forcing me, his mistress Satella, to stay behind and watch the house!」
+
+21625	Biscuitta Burns	「このような時勢でございます。	「These are the times we live in.
+21626	+	　私どものような、留守を預かる者にとっては、	For those of us left in charge of the house,
+21627	+	　大変助かっております」	it is a great help.」
+
+21628	Satella	「ふん……お茶、おかわりだ」	「Hmph... refill my tea.」
+
+21629	Biscuitta Burns	「かしこまりました」	「As you wish.」
+
+21630	Satella	「……――――！」	「...一!」
+
+21631	Biscuitta Burns	「………………」	「......」
+
+21632	-	丁重な仕草でポットから紅茶が注がれようとして……	With a polite gesture, she was about to pour the tea from the pot...
+21633	+	その手が止まった。	when her hand stopped.
+
+21634	Satella	「………………誰か来たか」	「...Did someone come?」
+
+21635	Biscuitta Burns	「はい。異常です。	「Yes. It is an abnormality.
+21636	+	　この城には、パステル様とマジック様が、	Lady Pastel and Lady Magic should have
+21637	+	　時間を掛けて二重に結界を張っておられたはず」	spent a great deal of time setting up a double barrier in this castle.」
+
+21638	Satella	「……行くぞ、シーザー」	「...Let's go, Caesar.」
+
+21639	Caesar	「ハイ、サテラ様！」	「YES, LADY SATELLA!」
+
+21640	Arios Theoman	「……城主は……ランスは留守、か」	「...The lord... Rance is out, I see.」
+
+21641	Cola	「すぐに帰ってくるかも知れませんけどね」	「Though he might come back right away.」
+
+21642	Satella	「そこ！　お前か…………何者だ！」	「You there! You... who are you!」
+
+21643	Satella	「お前…………見たことがあるぞ。	「You... I've seen you before.
+21644	+	　確か、美樹様を狙った、勇者……」	The Hero who was after Miki-sama...」
+
+21645	Caesar	「コイツ……サテラ様ノ敵！」	「THIS GUY... LADY SATELLA'S ENEMY!」
+
+21646	Arios Theoman	「…………お前か。	「...So it's you.
+21647	+	　魔王を守る、ガーディアン使いの魔人……」	The Fiend who uses Guardians to protect the Demon King...」
+
+21648	-	アリオスが、向き直る。	Arios turns to face her.
+21649	+	その昏い瞳には、隠そうともしない殺意があった。	In his dark eyes was a murderous intent he didn't even try to hide.
+
+21650	Satella	「……サテラに用なのか？	「...Do you have business with Satella?
+21651	+	　勇者なら、魔軍と戦うんじゃないのか」	If you're a Hero, shouldn't you be fighting the Monster Army?」
+
+21652	Arios Theoman	「人類を、救う為…………その命を頂く！」	「To save humanity... I will take your life!」
+
+21653	-	アリオスが、床を蹴った。	Arios kicked off the floor.
+21654	+	同時に、白刃が鞘から引き抜かれる。	At the same time, his white blade was drawn from its scabbard.
+
+21655	Satella	「なんのつもりだ、人間が…………ッ！？」	「What do you think you're doing, human一!?」
+
+21656	Satella	「が、ッ……ぐあっ……！？」	「Ga一 ugh...!?」
+
+21657	-	不吉を感じてとっさに身を翻したが、遅かった。	Feeling an ill omen, she reflexively twisted her body, but it was too late.
+21658	+	サテラの肩口から胸元までが、	From Satella's shoulder to her chest,
+21659	+	ざっくりと切り裂かれる。	she was sliced open.
+
+21660	Satella	「なんだと、こいつっ……！	「What... this guy...!
+21661	+	　無敵結界を、ッ……！？」	Through my Invincible Barrier一!?」
+
+21662	Arios Theoman	「斬れる……な！」	「I can cut you...!」
+
+21663	-	とっさに間合いを広げようとするサテラに、	Arios pursues Satella,
+21664	+	アリオスは追いすがる。	who tries to quickly widen the distance.
+
+21665	Caesar	「サテラ様！」	「LADY SATELLA!」
+
+21666	-	魔人に劣らぬ速度で割って入ったシーザーが、	Intervening with a speed no less than a Fiend's, Caesar
+21667	+	斧槍を一閃する。	swings his halberd in a flash.
+
+21668	-	アリオスはそれをエスクードソードで受ける。	Arios parries it with the Escudo Sword.
+21669	+	片足が衝撃にめりこむが、勇者は表情も変えない。	One leg sinks in from the impact, but the Hero's expression remains unchanged.
+
+21670	Arios Theoman	「壱式…………ハヤブサ！」	「First Form... Hayabusa!」
+
+21671	Caesar	「――――！？　グ、オォォッ……！」	「一!? GU-OOOOH...!」
+
+21672	-	剣から発せられた衝撃波が、	The shockwave emitted from the sword
+21673	+	ガーディアンを押しのける。	pushes the Guardian back.
+
+21674	Arios Theoman	「………………！」	「......!」
+
+21675	Satella	「ぐ、っ…………！」	「Guh...!」
+
+21676	-	身構えたサテラだったが、	Satella tried to brace herself,
+21677	+	一撃目の傷の思わぬ深さに、膝をつく。	but the unexpected depth of the first wound forced her to her knees.
+
+21678	Satella	「あ、っ……………………」	「Ah...」
+
+21679	Arios Theoman	「……………………」	「......」
+
+21680	-	勇者の刃が、	The Hero's blade
+21681	+	魔人の肩口から、鎖骨を容易く粉砕した。	easily crushed her collarbone starting from the shoulder.
+
+21682	Satella	「……………………ッ」	「...!」
+
+21683	-	冷徹な瞳でサテラと視線を合わせたまま、	Maintaining eye contact with Satella with his cold eyes,
+21684	+	アリオスは手首を捻って刃をねじり込む。	Arios twists his wrist and wrenches the blade inside her.
+
+21685	Satella	「………………っ、あ…………ラン、ス……ッ……」	「...ugh, ah... Ran-ce...!」
+
+21686	-	かすかに、何かを求めるように、	Faintly, as if reaching for something,
+21687	+	手に空を切らせて…………	her hand cut through the empty air...
+
+21688	-	血溜まりの中で、サテラは倒れ伏した。	Satella fell face down in a pool of blood.
+21689	+	もう、動かない。	She was no longer moving.
+
+21690	Caesar	「サテラ様、ッ…………？	「LADY SATELLA...?
+21691	+	　サテラ様。起キテ、サテラ様……！」	LADY SATELLA. WAKE UP, LADY SATELLA...!」
+
+21692	-	斧槍を放り出して、シーザーがサテラに駆け寄る。	Throwing aside his halberd, Caesar rushes to Satella's side.
+21693	+	揺さぶるが、反応はなかった。	He shakes her, but there was no response.
+
+21694	Caesar	「シーザー、オ助ケシマス。	「I, CAESAR, WILL HELP YOU.
+21695	+	　サテラ様、サテラ様……！」	LADY SATELLA, LADY SATELLA...!」
+
+21696	Cola	「終わりました？」	「Is it finished?」
+
+21697	Arios Theoman	「…………手応えは、あった。	「...I felt it hit home.
+21698	+	　念の為、とどめを刺す」	Just to be safe, I'll deliver the finishing blow.」
+
+21699	Caesar	「オ前…………！」	「YOU...!」
+
+21700	-	握り直したエスクードソードが、小さく音を鳴らす。	The Escudo Sword, gripped anew, made a small sound.
+21701	+	残るは、魔人の護衛……ガーディアン一体。	Remaining was one Guardian, the Fiend's escort.
+
+21702	Cola	「それなんですが。	「About that...
+21703	+	　どうも、そろそろ人が雪崩れ込んできそうです。	It looks like people are about to start flooding in.
+21704	+	　展開次第で、退路断たれるかもです」	Depending on how things go, our escape route might be cut off.」
+
+21705	Arios Theoman	「………………」	「......」
+
+21706	-	勇者とその従者は、血溜まりを蹴って	The Hero and his servant kicked through the pools of blood
+21707	+	城から駆け去っていった。	and hurried away from the castle.
+
+21708	Rance	「ただいまーっと……ん、どうした？」	"I'm back... huh, what's wrong?"
+
+21709	Biscuitta Burns	「ご主人様。緊急事態です。	"Master. It's an emergency.
+21710	+	　サテラ様が侵入者によって重傷を負われました」	Satella-sama was seriously injured by an intruder."
+
+21711	Rance	「なっ、なんだとっ……！？	"Wha- What?!"
+21712	+	　どこのどいつが…………」	Who the hell was it...?"
+
+21713	Biscuitta Burns	「応急処置の最中ですが、傷が深く。	"We are in the middle of first aid, but the wound is deep.
+21714	+	　ヒーラーの方をお貸しください」	Please lend us a healer."
+
+21715	Rance	「クルックー！　カフェ！」	"Crook-cluck! Cafe!"
+
+21716	Crook Mofus	「分かりました。いってきます」	"Understood. I'm going."
+
+21717	Cafe Artful	「はいよーっ」	"Right away!"
+
+21718	-	…………	........
+
+21719	-	……	...
+
+21720	Rance	「お。どうだ？」	"Oh. How is it?"
+
+21721	Crook Mofus	「辛うじて、間に合いました。	"We barely made it in time.
+21722	+	　魔人の生命力でなければ即死でした」	If it wasn’t for the Fiend's vitality, she would have died instantly."
+
+21723	Cafe Artful	「もう大丈夫だから。	"She's fine now.
+21724	+	　会いに行ってあげたら？」	Why don't you go see her?"
+
+21725	Rance	「ま……そうするか」	"Well... I guess I will."
+
+21726	Rance	「入るぞー、サテラ」	"I'm coming in, Satella."
+
+21727	Satella	「っ、ランス…………」	"Ra-Rance..."
+
+21728	Rance	「よーう。元気か…………」	"Hey there. How are you...?"
+
+21729	Rance	「おふっ！？」	"Oof!?"
+
+21730	-	サテラはランスが部屋に入ってくるや、	As soon as Rance entered the room, Satella
+21731	+	ランスの腹に頭からぶつかった。	banged her head into his stomach.
+
+21732	Rance	「げほごほっ……こら、	"Cough, cough... Hey,
+21733	+	　魔人の力で思いきりぶつかってくるやつが……」	whoever uses Fiend power to smash into me like that..."
+
+21734	Satella	「馬鹿者！　この……馬鹿者！	"Fool! You... fool!
+21735	+	　主が襲われたんだぞ！　どこ行ってたんだ！	Our master was attacked! Where were you?!
+21736	+	　あ、危なかったんだぞ……！」	It was dangerous...!"
+
+21737	Rance	「む……………」	"Mmm..."
+
+21738	-	サテラの細い肩が、僅かに震えていた。	Satella's slender shoulders trembled slightly.
+
+21739	Satella	「使徒なんだから……サテラの、側にいろ……！	"You’re my apostle... stay by Satella's side...!"
+21740	+	　…………ばかもの」	...you fool."
+
+21741	Rance	「…………あー、分かった分かった。	"...Ah, I get it, I get it.
+21742	+	　まったく世話の焼ける主だ」	Truly, a troublesome master.
+
+21743	-	サテラは、辛うじて勇者の襲撃を生き延びた。	Satella barely survived the hero's attack.

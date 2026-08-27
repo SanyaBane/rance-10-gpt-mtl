@@ -1,0 +1,611 @@
+# 30888	２５８／２／ノア２	cg
+* Noah Hakobune	ノア	Female
+* Captain	船長	Male
+* Satella	サテラ	Female
+* Rance	ランス	Male
+
+37596	Noah Hakobune	「ん……風向き、少し変わりそうですね……	「Hm... The wind direction seems to be changing a bit...
+37597	+	　取り舵、少しお願いします」	　Please steer a little to port.」
+
+37598	Captain	「へーーーーい」	「Yeees.」
+
+37599	-	船長だった操舵手が、舵輪を操って船を操作する。	The former captain operated the wheel.
+
+37600	Captain	「風を受けるなら……こんなもんか」	「If catching the wind... this should do.」
+
+37601	Noah Hakobune	「あの……すみません。	「Um... Sorry.
+37602	+	　急に乗り込んで、こんな……」	　Suddenly taking over like this...」
+
+37603	Captain	「あぁ……いや、いいさ。あの総統は話が通じんし。	「Ah... It's fine. That Supreme Leader doesn't listen anyway.
+37604	+	　あんたが無能じゃなさそうでよかった」	　Glad you don't seem incompetent.」
+
+37605	Noah Hakobune	「いえ、そんな……船長さんに比べたら、全然……」	「No, compared to you, I'm nowhere near...」
+
+37606	Captain	「そうでもないさ。	「Not at all.
+37607	+	　さ、そろそろ遅い。後は当直に任せて、休んでくれ」	　It's getting late. Leave the watch to the others and rest.」
+
+37608	Noah Hakobune	「そうですね……じゃあ、お言葉に甘えます。	「You're right... I'll take you up on that.
+37609	+	　何かあったらすぐに起こしてください」	　Wake me if anything happens.」
+
+37610	Captain	「あいよ、船長」	「Aye, Captain.」
+
+37611	Noah Hakobune	「ええと、船室は…………っ、ぁ……！」	「Um, the cabin is...... Ah...!」
+
+37612	Satella	「む…………」	「Mu......」
+
+37613	-	すれ違ったノアとサテラは、ほとんど同時に	Noah and Satella, passing each other, noticed each other almost at the same time.
+37614	+	お互いの存在に気づいた。	
+
+37615	Noah Hakobune	「…………っ、あ……」	「......Ah...」
+
+37616	Satella~	（こいつ、さっきの…………）	（This woman from earlier...）
+
+37617	Satella	「……ふん」	「...Hmph.」
+
+37618	-	サテラは視線を逸らして、	Satella looked away
+37619	+	そのまま通り過ぎようとした。	and tried to walk past.
+
+37620	Noah Hakobune	「サテラさん……でした、よね。	「You are... Satella-san, right?
+37621	+	　少し……いいです、か」	　Could we... talk for a moment?」
+
+37622	Satella	「えっ……？」	「Eh...?」
+
+37623	-	隠しようもない震え声が、サテラの足を止めた。	The unmistakably trembling voice stopped Satella.
+
+37624	Noah Hakobune	「お話ししたい事が、あるんです……	「There's something I want to talk about...
+37625	+	　その、できれば…………部屋に」	　If possible... in my room.」
+
+37626	Satella	「……………………」	「........................」
+
+37627	-	ノアはあてがわれた部屋にサテラを招き、	Noah invited Satella into her assigned room,
+37628	+	自らはベッドに腰掛けた。	and sat on the bed.
+
+37629	Satella~	（なんのつもりだ、こいつ……）	（What is this woman planning...?）
+
+37630	Satella~	（後で、シィルに言われて思いだした。	（Later, after Sill reminded her, she remembered.
+37631	+	　そうだ……イシスの実験に使ったよわっちい女だ）	　That's right... the weak woman used in Isis's experiment.）
+
+37632	Satella~	（人間が魔人のおもちゃになるなんて、当たり前だ。	（Humans becoming Fiend toys is only natural.
+37633	+	　魔人の方が圧倒的に優れてるんだからな）	　Fiends are overwhelmingly superior.）
+
+37634	Satella~	（だけど……いちおう、今は……味方だし……	（But... for now... she's an ally...
+37635	+	　少し……人間の見方も変わった……ような）	　My view of humans has... changed a bit...）
+
+37636	Satella~	（だ、だが謝るつもりなんてないぞ。そんなの……	（B-but I have no intention of apologizing. That's...
+37637	+	　そうだ、一番偉いランスはサテラの使徒だ。	　That's right, the greatest Rance is Satella's apostle.
+37638	+	　つまり、サテラは人間よりえらい）	　Which means Satella is superior to humans.）
+
+37639	Noah Hakobune	「ええと、とりあえずお茶でも……	「Um, would you like some tea...
+37640	+	　あ、魔人の方って、飲み物は……」	　Ah, do Fiends drink...?」
+
+37641	Satella	「普通に飲み食いはする。けど要らん。	「We eat and drink normally. But no need.
+37642	+	　用件を言え」	　Get to the point.」
+
+37643	-	ノアの身体が、びくりと震える。	Noah's body trembled.
+
+37644	Satella	「昔の恨み言でも言う気か？	「Planning to complain about the past?
+37645	+	　サテラには関係ないぞ。	　That has nothing to do with Satella.
+37646	+	　お前達が弱っちいせいなんだからな」	　It's because you humans are so weak.」
+
+37647	Satella	「今は協力させてやってるが、	「I'm cooperating with you now, but
+37648	+	　サテラの方が立場は上だ。あ、謝ったりはしない」	　Satella is still above you. And I won't apologize.」
+
+37649	Noah Hakobune	「…………………………」	「........................」
+
+37650	Satella	「う……」	「U...」
+
+37651	-	ノアの視線が、足下へと流れる。	Noah's gaze dropped to the floor.
+37652	+	自分の身体を抱きしめるようにした腕は、	Her arms hugging her own body
+37653	+	サテラに相対しているせいか、震えていた。	were trembling from facing Satella.
+
+37654	Satella	「だ、だが！　まあ……サテラは寛大だ。	「B-but! Well... Satella is generous.
+37655	+	　その……ど、どうしてもと、言うなら……」	　If you really insist...」
+
+37656	Noah Hakobune	「いえ…………そうじゃ、ないんです……」	「No... That's not it...」
+
+37657	Satella	「え？」	「Eh?」
+
+37658	-	身体の奥底から絞り出すような声が、	A voice squeezed from the depths of her body
+37659	+	サテラを遮った。	interrupted Satella.
+
+37660	Noah Hakobune	「あの時の、事は……今でも、夢に見ます……	「I still dream about that time...
+37661	+	　辛かった、ですけど……それは、もういいんです」	　It was painful... but that's over now.」
+
+37662	Satella	「え……え？　じゃあ、何の……」	「Eh... Eh? Then what...」
+
+37663	Noah Hakobune	「……………ッ！」	「.........!」
+
+37664	-	ばっと、ノアの頭が跳ね上がった。	Noah's head suddenly snapped up.
+
+37665	Noah Hakobune	「イ、イ、イシス、さん…………貸してください！！」	「I-Isis-san...... Please lend her to me!!」
+
+37666	Satella	「……………………は？」	「........................Huh?」
+
+37667	-	必死の形相のノアから、	From Noah's desperate face,
+37668	+	ぼろぼろと大粒の涙が流れ出した。	large tears began pouring down.
+
+37669	Noah Hakobune	「う、う、ううわぁあああああああああん！！」	「U-uuwaaaaaaaaah!!」
+
+37670	Satella	「え、え、え？　な、なんだどうした！？	「E-eh? W-what's wrong!?
+37671	+	　ぽんぽん痛いのか！？」	　Does your tummy hurt!?」
+
+37672	Noah Hakobune	「あ、あ、あ、あれから、私……	「E-ever since then, I've...
+37673	+	　おかしくなってしまったんです。	　become strange.
+37674	+	　何度もあの時の夢を見て…………」	　I keep dreaming of that time...」
+
+37675	Noah Hakobune	「傷が癒えて、元気になって……	「After my wounds healed and I recovered...
+37676	+	　何人か、男の人とも付き合ったんですけど……	　I dated a few men...
+37677	+	　その度にアレを思い出して、物足りなくて……！」	　But every time I remembered that and felt unsatisfied...!」
+
+37678	Satella	「え……あ、あ、あぁ……えーと、あーっと……	「Eh... A-ah, um...」
+37679	+	　あ、アレ、って……」	　W-what do you mean by 'that'...」
+
+37680	Noah Hakobune	「セックスです！　夜の営みです！」	「Sex! Nightly activities!」
+
+37681	Satella	「うあっ…………！」	「Uah......!」
+
+37682	Noah Hakobune	「出会った人は、いい人ばかりでしたけど……	「The men I met were all good people...
+37683	+	　身体の相性だけは、どうにもならなくて……	　But the physical compatibility was hopeless...
+37684	+	　私、私、もう…………！」	　I, I can't take it anymore...!」
+
+37685	Satella	「……………………………」	「.................................」
+
+37686	-	あとは、ノアの慟哭が響くだけだった。	All that remained was Noah's wailing.
+37687	+	サテラは何も言えず、ただ困りながら立ち尽くす。	Satella stood there speechless, looking troubled.
+
+37688	Noah Hakobune	「お、お、お願い、します……！	「P-please...!
+37689	+	　一度でいいんです、もう一度…………！」	　Just once more...!」
+
+37690	Satella	「……………………」	「........................」
+
+37691	Noah Hakobune	「お願い、します……サテラさん……」	「Please... Satella-san...」
+
+37692	Satella	「え、えーと…………だな。	「U-um...... Well.
+37693	+	　お前の望みを満たすのは、無理だ」	　I can't fulfill your wish.」
+
+37694	-	躊躇いながら、サテラはそう告げた。	Satella said hesitantly.
+
+37695	Noah Hakobune	「――――っ、え……？」	「-----Eh...?」
+
+37696	Satella	「イシスは、もういない。	「Isis is gone.
+37697	+	　同じ機能を持ったガーディアンは、	　We can't make another guardian with the same functions,
+37698	+	　もう作れない……作る気がない。時間もかかる」	　and we have no intention to. It would take too much time.」
+
+37699	Noah Hakobune	「そんな、ッ……！	「No...!
+37700	+	　どうして、そんな……！」	　Why...!」
+
+37701	Satella~	（あの時は……好奇心と想像であんなの作ったが……	（Back then I made it out of curiosity and imagination...
+37702	+	　今作ったら、絶対あいつのを、お、思い出し……）	　If I made one now I'd definitely remember that thing...）
+
+37703	Rance	「がーーーーーーはははははははは！！	「Gaaaaaaahahahaha!!
+37704	+	　話は全て聞かせて貰った！！」	　I heard the whole story!!」
+
+37705	Satella	「ひゃわああぁぁっ！？」	「Hyawaaa!?」
+
+37706	Noah Hakobune	「ら、ランスさんッ……！？」	「R-Rance-san...!?」
+
+37707	Rance	「話はよく分かった！	「I got the whole picture!
+37708	+	　つまり男運が悪くて粗チンどもに当たったと！	　So you had bad luck with men and kept getting tiny dicks!
+37709	+	　そういうわけだな！」	　That's it, right!」
+
+37710	Noah Hakobune	「え……あ、えぇと……」	「Eh... Ah, um...」
+
+37711	Rance	「そういう事ならばこの俺様が全部解決！	「In that case, this great Rance will solve everything!
+37712	+	　ノアさんを大満足させてやろう！」	　I'll satisfy Noah-san completely!」
+
+37713	Satella	「わ、うわわわ！　所構わずに脱ぐんじゃない！」	「W-wah! Don't strip anywhere!」
+
+37714	Noah Hakobune~	（っ、あ……身体、すごい……っ……	（Ah... His body is incredible...
+37715	+	　ん……これ、なら……もしかして……）	　Nn... With this... maybe...）
+
+37716	-	既に気持ちを昂ぶらせていたノアが、	Noah, whose body was already aroused,
+37717	+	微かに喉を鳴らす。	let out a soft moan.
+
+37718	Rance	「脱がなければノアさんを満足させられんだろう。	「I have to strip to satisfy you, Noah-san.
+37719	+	　お前も一緒するか？　罪滅ぼしだ」	　Want to join, Satella? It's atonement.」
+
+37720	Satella	「ばっ……！　馬鹿者！	「Wha...! Idiot!
+37721	+	　なんで魔人が人間にそんな事をする必要がある！	　Why would a Fiend need to do that with a human!
+37722	+	　使徒のお前が勝手にやっておけ！」	　Do it yourself, her apostle!」
+
+37723	-	サテラは顔を真っ赤にさせながら、	Satella, face bright red,
+37724	+	逃げるようにして部屋を出て行った。	fled the room.
+
+37725	Rance	「さあ、ノアさん。たーっぷりイカせてやるぜ。	「Now, Noah-san. I'll make you cum plenty.
+37726	+	　真の荒々しい男の素晴らしさを教えてやろう」	　I'll teach you the greatness of a real, wild man.」
+
+37727	Noah Hakobune	「あっ……え、い、いえ、っ……そんな……っ」	「Ah... E-eh, no... T-that's...」
+
+37728	Rance	「気にすることはない。	「Don't worry about it.
+37729	+	　俺に任せろ」	　Leave it to me.」
+
+37730	Noah Hakobune	「あっ……！」	「Ah...!」
+
+37731	-	ランスは力強くノアを抱き寄せ、	Rance pulled Noah close with powerful arms,
+37732	+	ノアはそれに抵抗できなかった。	and she could not resist.
+
+37733	Noah Hakobune	「あっ、あっ、あ……！」	「Ah, ah, aah...!」
+
+37734	Rance	「がはははははは！　これでどうだ！	「Gahahahaha! How's this!
+37735	+	　ワイルドだろう」	　Pretty wild, right?」
+
+37736	-	ランスは前戯もそこそこに、ノアを後ろから抱え上げた。	With minimal foreplay, Rance lifted Noah from behind.
+
+37737	Noah Hakobune	「あ、っ……はあ、ぁ……この態勢、は……っ……」	「A-ah... Haa... This position...」
+
+37738	Rance	「うむ。君が昔、あの石くれにやられてた時は	「Yeah. This is similar to when that stone thing did you before.」
+37739	+	　こんな感じだっただろう」	
+
+37740	Noah Hakobune	「っ……は、はい、そう……ですっ……」	「...Y-yes, it was... like this...」
+
+37741	-	ノアは既に息を荒くして、とろとろと自分の秘部から流れる蜜が	Noah was already breathing heavily as honey flowed from her pussy,
+37742	+	その直下のハイパー兵器を濡らしていくのを眺めていた。	soaking the hyper weapon right below.
+
+37743	Noah Hakobune	「身動きもとれない状態にされて……あの、ごつごつしたもので、	「I was completely immobilized... and that rough, bumpy thing,
+37744	+	　否応もなく、掻き回され、て、っ……」	　stirred me up whether I wanted it or not...」
+
+37745	-	ごくんと、ノアの喉が鳴る。	Noah gulped.
+
+37746	Rance	「がははは、今度は更に立派な俺様のモノでお出迎えだ。	「Gahaha, this time you'll be greeted by my even more magnificent cock.
+37747	+	　うりうり、この辺か」	　Rub rub, right around here.」
+
+37748	Noah Hakobune	「ん、っ…………あ、はぁ……ふ、ぅっ…………」	「N-n... Ah, haa... Fuu...」
+
+37749	-	蕩けた秘所の入口を、ハイパー兵器が上下する。	The hyper weapon slid up and down her melted entrance.
+
+37750	-	その場所は既にしとどに濡れ、	It was already soaking wet,
+37751	+	擦られる度にぴくぴくと震えていた。	twitching with every rub.
+
+37752	Noah Hakobune	「あ、っ……すごい……おっきいんですね……	「Ah... It's so big...
+37753	+	　ごつごつして……太くて……あんっ……」	　So bumpy... so thick... Ahn...」
+
+37754	Rance	「おほ、もうぐちゅぐちゅだな。	「Oho, you're already so wet and sloppy.
+37755	+	　ぐふふふふ、ぶち込んで欲しいか？」	　Gufufufu, you want me to thrust it in?」
+
+37756	Noah Hakobune	「あ、ッ……ん、んんっ……焦らさないで……	「A-ah... N-nnh... Don't tease me...
+37757	+	　早く、その、熱いので……ずぼずぼって、してぇっ……」	　Hurry, thrust that hot thing deep inside me...」
+
+37758	-	甘く鼻がかった声で淫らな言葉を撒き散らし、	With a sweet, nasal voice spilling lewd words,
+37759	+	ノアは腰をくねらせた。	Noah twisted her hips.
+
+37760	Rance	「おわ、と、とっ……さっきまでとはえらく様子が違うな。	「Whoa... You're acting completely different from earlier.
+37761	+	　こんなにいきなり乱れるとは」	　So suddenly turning into a slut.」
+
+37762	Noah Hakobune	「ね……んんっ。いいですから、早く、ぅっ……	「Please... Nnh. Hurry, ah...
+37763	+	　掻き回して……奥まで、ねじ込んで……っ……」	　Stir me up... Screw it deep inside...」
+
+37764	Rance	「がははははは、分かった分かった。	「Gahahahaha, alright alright.
+37765	+	　お待ちかねのモノをくれてやるぞ！」	　Here's the cock you've been waiting for!」
+
+37766	Noah Hakobune	「あ、っ…………」	「Ah...」
+
+37767	-	ランスはノアを一度、高く持ち上げて――	Rance lifted Noah high once,
+
+37768	Noah Hakobune	「きゃあぅううんんんっ！」	「Kyaaauuuun!」
+
+37769	-	思い切り、蜜壺の中にハイパー兵器を叩き込んだ。	and slammed his hyper weapon deep into her honey pot.
+
+37770	Rance	「お、ぅぉっ……奥までぐちょぐちょだな……っ、	「O-oooh... It's completely soaked all the way inside...
+37771	+	　うむ、グッドだ！」	　Yeah, perfect!」
+
+37772	-	加減は要らないだろうと、	Figuring no restraint was needed,
+37773	+	ランスはノアの身体を揺らして動き始めた。	Rance began rocking her body hard.
+
+37774	Noah Hakobune	「あ……んんっ、ふぁ、あ、ああ、これ、すごい、っ……	「Ah... Nnh, fua, aah, this is amazing...
+37775	+	　こんなに、熱くて、っ……じんじん、くるぅっ……！」	　So hot... throbbing deep inside...!」
+
+37776	-	がすがすと、ほとんど加減抜きで腰を使うランスに、	Rance pounded her with almost no restraint,
+37777	+	ノアは喉を反らして嬌声をあげる。	and Noah arched her neck, moaning loudly.
+
+37778	Rance	「おぉ…………真面目なノアさんが、こんなに……」	「Ooh... The serious Noah-san is like this...」
+
+37779	Noah Hakobune	「あ、ッ……はぁんっ、あ、ふぁぁぁっ……♪	「A-ah... Haan, a, fuaaa...♪
+37780	+	　もっと、ランスさん、もっと、強ッ、くぅっ！」	　More, Rance-san, harder...!」
+
+37781	-	普段とのギャップに、ハイパー兵器が硬度を増した。	The huge gap from her usual self made the hyper weapon even harder.
+
+37782	Rance	「がはははははは、任せろ！	「Gahahahaha, leave it to me!
+37783	+	　ヒートアーップ！」	　Heat up!」
+
+37784	-	ランスはノアを抱える手に力を込め、	Rance gripped Noah tightly,
+37785	+	道具のようにハイパー兵器でゴリゴリと突き上げる。	and thrust his hyper weapon into her like a tool, grinding hard.
+
+37786	-	激しく擦り立てる結合部からは泡立った愛液と先走りの混合液が、	Foamy love juices and precum mixed and overflowed
+37787	+	一突きごとに溢れて止まらない。	with every powerful thrust.
+
+37788	Noah Hakobune	「は……ぁ、っ……そう、あの、あの時も、こんな、風に……	「Haa... Yes, just like back then...
+37789	+	　オモチャみたいに扱われて……お腹、みっしりいっぱいに……」	　Treated like a toy... my belly stuffed full...」
+
+37790	Rance	「がはははははは、どうだノアさん！	「Gahahahaha, how is it, Noah-san!
+37791	+	　石くれの偽物なんかより、本物のチンコの方がいいだろう！」	　A real cock feels way better than that fake stone thing!」
+
+37792	Noah Hakobune	「はい、ん、あ、あっ……身体が、熱くて、っ……！	「Yes, nnh, a-ah... My body is so hot...!
+37793	+	　奥、奥、がぁ、っ……んん、いい、ですっ、あぁん、っ！」	　Deep, so deep... Nnh, it feels so good, aahn!」
+
+37794	-	ランスが先走りをなすりつけるかのように、	As if smearing his precum,
+37795	+	ハイパー兵器の先端でノアの膣奥を繰り返し小突く。	the tip of the hyper weapon repeatedly poked her deepest parts.
+
+37796	Noah Hakobune	「んんッ、あ、ふああぁっ……もっとです、ッ……	「Nnh, a, fuaaa... More...
+37797	+	　もっと、強くぅっ……！」	　Harder...!」
+
+37798	-	その度にノアは身体をわななかせるが、	Each time her body shook,
+37799	+	それでも刺激が足りないのか、しきりに腰を揺らす。	yet she kept wiggling her hips for more.
+
+37800	Rance	「ぬう、なんてエロエロな身体だ。	「Nuu, what an erotic body.
+37801	+	　こんな身体を持て余してきたとはもったいない」	　What a waste to have wasted such a body.」
+
+37802	Noah Hakobune	「私、だって……っ、こんな、でも、っ……！	「Even I... but... Ah!
+37803	+	　あんっ、あっ、ああぁっ！　きて、ぇっ……！」	　Ahn, ah, aaah! Come...!」
+
+37804	-	ノアは意味をなさない言葉の断片を吐き散らしながら、	Spouting meaningless fragments of words,
+37805	+	蕩けた表情で快楽を貪る。	Noah devoured the pleasure with a melted expression.
+
+37806	Rance	「んっ……よ、っと！」	「Nnh... There!」
+
+37807	Noah Hakobune	「んっ、ふあ……ああっあぁぁっ……」	「Nnh, fua... Aaaah...」
+
+37808	-	ずじゅり、と一度、ハイパー兵器が秘裂から引き抜かれる。	With a wet sound, the hyper weapon was pulled out.
+
+37809	-	ノアは口元を緩ませ、刺激の余韻に身体を震わせながら、	Noah relaxed her mouth, body still trembling from the aftershocks,
+37810	+	名残惜しそうな視線をハイパー兵器に向けた。	and gazed longingly at the hyper weapon.
+
+37811	Rance	「やはりデカチンコがいいか。	「So you really prefer a huge cock.
+37812	+	　他のカス男では満足できんだろうな」	　Those pathetic men could never satisfy you.」
+
+37813	-	ゆらゆらとハイパー兵器を揺らすと、	He swayed the hyper weapon,
+37814	+	ノアの目はそれを追う。	and Noah's eyes followed it.
+
+37815	Noah Hakobune	「いいひと、ばかりでした、けどぉ、っ……	「They were all good men, but...
+37816	+	　だめ、だめなん、ですっ……満足、できなくて……っ」	　It wasn't enough... I couldn't get satisfied...」
+
+37817	-	荒く肩を上下させて、	Breathing heavily,
+37818	+	ノアは口からだらしなく唾液を垂らした。	drool spilled shamelessly from her mouth.
+
+37819	Noah Hakobune	「夫も、恋人も、彼も……っ……	「My husband, my lovers, all of them...
+37820	+	　みんな、みんながんばっては、くれたけど……でもっ……」	　They all tried hard... but still...」
+
+37821	Rance	「ふん。満足させられるのは俺様だけということか！」	「Hmph. So only I can satisfy you!」
+
+37822	Noah Hakobune	「あああぁああぁぁあぁんっ！	「Aaaaaahhhhn!
+37823	+	　やぅっ、きたあああぁぁっ！」	　Yauh, it's hereee!」
+
+37824	-	再び、ランスは淫裂に、大きく勢いを付けて	Once again, Rance thrust powerfully
+37825	+	腰をぶつけるようにして挿入する。	deep into her lewd slit.
+
+37826	Noah Hakobune	「このチンポ、この、チンポがいいんですぅッ！	This cock, this cock is what I need!
+37827	+	　あは、めちゃくちゃに壊されるの、ッ……気持ちいいッ……！」	　Aha, being broken apart... feels so good...!
+
+37828	-	熱に浮かされたような表情で、	With a feverish expression,
+37829	+	ノアは身体の奥に突き刺さった熱い杭を、肉襞でしゃぶる。	Noah sucked on the hot stake deep inside her with her folds.
+
+37830	Rance	「ッ……が、がはははは！　そうだろう、っと！」	「...G-gahaha! That's right!」
+
+37831	-	そのまま、ランスは大きくノアの身体を揺さぶる。	Rance shook Noah's body hard.
+
+37832	-	びちゃぐちゅと粘り気のある音が部屋に広がり、	Lewd sticky sounds filled the room,
+37833	+	往復するごとに粘ついた匂いが満ちていく。	and the thick scent grew stronger with every thrust.
+
+37834	Noah Hakobune	「んんんんッ……！　はぅ、ふああぁっ……！	「Nnnnn...! Hau, fuaaa...!」
+37835	+	　カタ、いぃぃッ……！」	So hard...!」
+
+37836	-	ノアは身を捩らせて、ハイパー兵器を奥へ奥へと	Noah twisted her body, swallowing the hyper weapon deeper,
+37837	+	飲み込んでは、腰を揺らして刺激を高める。	and shook her hips to increase the pleasure.
+
+37838	Rance	「うは、ぬるんぬるんだな……すごい反応だ」	「Uha, so slippery... Amazing reaction.」
+
+37839	Noah Hakobune	「だって、ぇっ……ん、きゃふぅっ……！	「Because... Nnh, kyafuu...!」
+37840	+	　あ、あ、あああぁっ！」	A-ah, aaaah!」
+
+37841	-	ランスが腰に力を入れ、角度を付けてゴリゴリと抉ると、	When Rance put power into his hips and ground at an angle,
+37842	+	その都度ノアの背筋がびくびくと震える。	Noah's spine twitched violently each time.
+
+37843	Noah Hakobune	「あ、んふぁっ……！　こんな、こんなに……ふぅぅんっ！	「A, nfaa...! So, so much... Fuuun!」
+37844	+	　やあ、あぅ、ひいいぃん！」	Yaa, au, hiiiin!」
+
+37845	Rance	「がはははは、良い反応だ！」	「Gahahaha, great reaction!」
+
+37846	-	首筋に舌を這わせると、ノアの奥が反応して、	When he licked her neck, her depths reacted,
+37847	+	ハイパー兵器をぬるりと締めつける。	squeezing the hyper weapon slickly.
+
+37848	Noah Hakobune	「あああぁッ、ひぐ、あ、あ、あああああぁあっ！」	「Aaaaaah, higu, a, a, aaaaaah!」
+
+37849	-	そこをランスが乱暴に前後させると、	When Rance roughly moved back and forth,
+37850	+	絶叫のような喘ぎが天井を叩いた。	screaming moans hit the ceiling.
+
+37851	Rance	「っ、く、ぐふふふふ……！	「...Kuh, gufufufu...!」
+37852	+	　こんなに激しいのが好みとは知らなかったぞ！」	「I didn't know you liked it this rough!」
+
+37853	-	ハイパー兵器が、無遠慮にノアの奥を掻き回す。	The hyper weapon stirred her depths without mercy.
+
+37854	-	行き来する度に白く濁った蜜が掻き出され、	With every movement, white cloudy honey was scooped out,
+37855	+	竿から滴り落ちていく。	dripping down the shaft.
+
+37856	Rance	「ほーれ、こんなのはどうだ！」	「Here, how about this!」
+
+37857	Noah Hakobune	「あ――――んんぁっ！」	「Aaaaaah!」
+
+37858	-	ランスがその態勢のまま、ノアの両足をかぱかぱと開け閉めする。	While holding the position, Rance spread and closed Noah's legs.
+
+37859	-	挿入具合が変化し、同時に更に深く、	The angle of insertion changed, allowing even deeper penetration,
+37860	+	ハイパー兵器がずぶずぶと侵入していった。	as the hyper weapon sank in.
+
+37861	Noah Hakobune	「はぅっぐ、あ、が、はぁ、ふぅぅぅん、ッ……！	「Haugu, a, ga, haa, fuuuun...!」
+37862	+	　あ、あ、おく、奥まで、入って、ぇっ……！」	「A-ah, deep, all the way in...!」
+
+37863	Rance	「ん、ッ……すごいぞ、ここまで入っても平気な女は	「Nnh... Amazing. Not many women can take it this deep.」
+37864	+	　そうそういない」	
+
+37865	Noah Hakobune	「はい、ッ……！　ん、あ、ああぁっ……！	「Yes...! Nnh, a, aaah...!」
+37866	+	　平気、ですから、もっと、ぉっ……！」	「I'm fine, so more...!」
+
+37867	-	行き止まりを強めにノックしても、	Even when he knocked hard against her cervix,
+37868	+	ノアは悦びに悶えるだけで、苦しげな様子もない。	Noah only writhed in pleasure, showing no pain.
+
+37869	Rance	「よーし、ならば本気だ。	「Alright, time to get serious.
+37870	+	　思いっきり行くぞ、とーーーーーー！」	Here I go with everything-----!」
+
+37871	Noah Hakobune	「んぅ、ッ……ふぁ……っ……！」	「Nnu... Fua...!」
+
+37872	-	ランスの動きが激しくなった。	Rance's movements grew even more intense.
+
+37873	-	叩きつけるような腰使いで繰り返し突き上げるのと同時に、	He slammed his hips repeatedly while
+37874	+	両腕を使ってノアの身体を大きく揺さぶる。	using both arms to shake her body violently.
+
+37875	Noah Hakobune	「んんぅぅぅっ！　はぁっふ、んぐぅぅぅぅぅっ！	「Nnuuu! Haafu, nguuuu!」
+37876	+	　あっ、ひぅ、ああ、んんっ！　あっ、ふああぁぁぁっ！」	　Ah, hiu, aah, nnh! Aah, fuaaaa!」
+
+37877	Noah Hakobune	「すご、すごい、ですっ……！　わ、わたしの、おまんこ、っ……	「Amazing, so amazing...! My pussy...
+37878	+	　ぐちゃぐちゃに、されてる、ぅっ……！」	　is being turned into a total mess...!」
+
+37879	Rance	「がははははは！　どーだ！　ぬるぬるでうはうはだ！	「Gahahahaha! How's that! So slippery and sloppy!
+37880	+	　どんどん加速させるぞーー！」	　I'm speeding up-----!」
+
+37881	Noah Hakobune	「んんんッ……！　あ、はぁ、んぅ、あああぁぁ……」	「Nnn...! A, haa, nuu, aaaaa...」
+
+37882	Rance	「……………………んん？」	「........................Nnh?」
+
+37883	-	びくびくと身体を痙攣させたノアは、	Noah convulsed violently,
+37884	+	いつの間にか徐々に脱力し始めていた。	then gradually went limp.
+
+37885	Rance	「む、いかん。やり過ぎたか……	「Mu, not good. Did I overdo it...
+37886	+	　まあ、気絶くらいなら……」	　Well, fainting is fine...」
+
+37887	Noah Hakobune	「あ、はああぁ……っ……ゆる、許して、ぇぇっ……	「A, haaaa... Mercy, pleaseee...
+37888	+	　もう、もう、ガーディアンの、なんて、っ……！」	　No more guardian...!」
+
+37889	-	相変わらず、ざらついた内壁でハイパー兵器を擦り立てながら、	Still grinding her rough inner walls against the hyper weapon,
+37890	+	ノアは口からそんな呟きをこぼし始めていた。	Noah began muttering.
+
+37891	Rance	「ん？　ガーディアン、が、なんだと、ッ……？」	「Hm? Guardian? What about it...?」
+
+37892	Noah Hakobune	「あッ、ああああっ！　すごい、あ、んぅぅぅっ！	「Aah, aaaaaah! Amazing, a, nuuuu!」
+37893	+	　みな、みない、で……っ、らーく……ぅ……！」	　Don't look... at my lewd... face...」
+
+37894	-	人形の様に大きく揺さぶられ、だらしなく開いた口から	Shaken like a doll, with her mouth hanging open,
+37895	+	涎を垂らしながら、ノアの呟きは続く。	drooling, Noah kept muttering.
+
+37896	Rance~	（なんかトリップしてるな……	（She's tripping out...
+37897	+	　サテラの石くれ人形にいじめられた時か？）	　Must be remembering when Satella's stone doll tormented her.）
+
+37898	Noah Hakobune	「あ、ああぅ、ふ、んぐあぅあああぁっ……ちが、ちがうのっ……	「A, aau, fu, nguauaaaa... N-no, it's not...
+37899	+	　こんな、こんなの、で、きもちよく、なんて……ふあァッ！」	　Feeling this good from something like this... Fuaa!」
+
+37900	-	うわごとを垂れ流し始めてから、ノアの中はいっそう滑りを増し、	As she babbled, her insides became even wetter,
+37901	+	突き込まれるハイパー兵器をきゅうきゅうと絞り上げる。	squeezing the thrusting hyper weapon tightly.
+
+37902	Rance	「ぬ、ぬぬぬぬぬっ。これ、はッ……気持ちいい、がっ」	「N-nunu... This feels... so good.」
+
+37903	-	ランスは一度腰を止めて、発射寸前のハイパー兵器を	Rance stopped his hips once and pulled out his hyper weapon
+37904	+	ノアの秘裂から引き抜いた。	that was on the verge of shooting.
+
+37905	Noah Hakobune	「はえ……らんふ、ひゃん…………？」	「Hae... Ranfu, hyan...?」
+
+37906	Rance	「そうだ。このランス様が、今ノアさんをイカせてやるからな。	「That's right. This Rance-sama will make you cum now.
+37907	+	　ぐっちょぐちょに、だ」	　Completely soaked.」
+
+37908	Noah Hakobune	「あ、っ…………」	「Ah...」
+
+37909	-	耳元で囁かれて、ノアは少しだけ、正気を取り戻し……	Whispered in her ear, Noah regained a bit of sanity...
+37910	+	ぶるりと、快感に背を震わせた。	and shivered with pleasure.
+
+37911	Rance	「とーーーーーーーーーーーーーー！！」	「Tooooooorah-----!!」
+
+37912	-	＜ず、っ……ぐじゅずぶぶぶぶぶぶッ！＞	＜Zu... Gujuzububububu!!＞
+
+37913	Noah Hakobune	「ふああぅあああぁぁぁぁっ！？	「Fuaauaaaaah!?」
+37914	+	　あぅ、あぐ、ああぁぁっ！」	　Au, agu, aaaah!」
+
+37915	-	愛液を溢れさせながら、ランスが奥の奥まで	Overflowing with love juices, Rance twisted
+37916	+	容赦なくハイパー兵器を捻り込んだ。	his hyper weapon mercilessly into her deepest depths.
+
+37917	Noah Hakobune	「嘘、ッ……あぐあ、か、はっ……！　ああああぁぁっ！	「No way... Agu, ka, ha...! Aaaaaah!
+37918	+	　んんんんッ！　おなか、おなか、やぶれっ……！」	　Nnnnn! My belly, my belly's breaking...!」
+
+37919	Rance	「がはははははははは！　ずぶーっと入ってしまったぞ！	「Gahahahaha! It went all the way in!
+37920	+	　よーし、そろそろ、ッ……出すぞ！」	　Alright, time to... cum!」
+
+37921	Noah Hakobune	「あぅんッ、く、あ、あ、あッ……！	「Aun, ku, a, a, ah...!」
+37922	+	　は……ッ、はい、あ、あ、ああぁっ！　中に、ッ……！」	　Haa... Yes, a, a, aaah! Inside...!」
+
+37923	-	揺れるノアの身体に、深々とハイパー兵器が突き刺さる。	The hyper weapon thrust deep into her shaking body.
+37924	+	陰嚢が尻を叩く感触にさえ、ノアは吐息を漏らす。	Even the feeling of his balls slapping her ass made her moan.
+
+37925	Rance	「とーーーーーーーうぜんだ！	「Oooooof course!
+37926	+	　うらうらうらうらうらーーーーー！！」	　Ura ura ura ura-----!!」
+
+37927	-	ノアを抱える力を強くして、最奥を掻き回しながら、	Gripping her tighter, stirring her deepest parts,
+37928	+	ランスは衝動のままにハイパー兵器を突き込んだ。	Rance thrust on pure instinct.
+
+37929	Noah Hakobune	「ひぅ、あッ……んんんんふあああああッ！	「Hiu, ah... Nnnn fuaaaaaaah!
+37930	+	　はあぁぅんっ、んんッ、ひぅぁぁぁぁぁぁぁっ……！！」	　Haaauun, nnh, hiuaaaaaaaah...!!」
+
+37931	-	びくびくと、ノアの身体が痙攣した。	Noah's body convulsed violently.
+
+37932	Noah Hakobune	「ひぅ、あ、ああああぁぁぁぁっ……	「Hiu, a, aaaaaah...
+37933	+	　ま、また、また、入って、ぇ……っ、あ、か、はっ……」	　A-again, it's coming in... A, ka, ha...」
+
+37934	-	繰り返し注がれる精液の感覚に、ノアは幾度も身を震わせた。	With each spurt of cum, Noah shook again and again.
+
+37935	Rance	「がはははははは、これが真の男の力強いセックスというものだ。	「Gahahahaha, this is what real powerful man sex feels like.
+37936	+	　どーっぷり出たぞ」	　I filled you up.」
+
+37937	Noah Hakobune	「ひぎぐ、あ、んはあっ！　あ、あ、で、てる……	「Higigu, a, nhaa! A, a, it's coming out...
+37938	+	　どぷどぷ、出てるぅ、っ…………」	　Dopu dopu, pouring out...」
+
+37939	Noah Hakobune	「は……………ぁ、ふぅ、っ…………」	「Haa............ Fuu...」
+
+37940	-	蕩けたようなため息が、船室の空気に溶けあった。	A melted sigh dissolved into the cabin air.
+
+37941	-	…………	............
+
+37942	-	……	......
+
+37943	-	翌朝になった。	The next morning arrived.
+
+37944	Noah Hakobune	「今日は……うん、少し荒れそう……	「Today... yeah, it might get a bit rough...
+37945	+	　一番前の帆だけ横帆にして、	　Make only the foremost sail square,
+37946	+	　後は縦帆にしてください」	　and the rest fore-and-aft.」
+
+37947	?	「へーーーいっ」	「Yeees.」
+
+37948	Rance	「おっ、ノアさんおはよう。	「Oh, good morning, Noah-san.
+37949	+	　昨日はよく眠れたか？　がはははは」	　Did you sleep well last night? Gahahaha.」
+
+37950	Noah Hakobune	「あ、ランスさん。おはようございます」	「Ah, Rance-san. Good morning.」
+
+37951	Rance	「おお……すっかりいつもの真面目なノアさんだな」	「Oh... Back to the usual serious Noah-san.」
+
+37952	Rance	「これからも、欲求不満になったら言うといい。	「If you get frustrated again, just tell me.
+37953	+	　大事な船長さんだからな、いつでも抱いてやるぞ」	　You're our precious captain, so I'll fuck you anytime.」
+
+37954	Noah Hakobune	「っ、ランスさん、そんな……しー、ですよ」	「R-Rance-san, not so loud...」
+
+37955	-	ノアは顔を赤らめて、唇の前で指を立てた。	Noah blushed and put a finger to her lips.
+
+37956	Noah Hakobune	「私も……その。恥ずかしいんですよ？	「I'm... embarrassed too, you know?
+37957	+	　あんな風に、なってしまうなんて……」	　Turning into that kind of woman...」
+
+37958	Rance	「がははは、平気だ平気。	「Gahaha, it's fine.
+37959	+	　気持ちいいのを我慢することはない」	　No need to hold back when it feels good.」
+
+37960	Rance	「だが、その辺のつまらん男と寝るんじゃないぞ。	「But don't sleep with any boring men around here.
+37961	+	　満足させられるのは俺様だけだからな」	　Only I can satisfy you.」
+
+37962	Noah Hakobune	「……………………」	「........................」
+
+37963	Noah Hakobune~	（確かに、ランスさんはすごかった……けど……	（Rance-san was amazing... but...
+37964	+	　でも、もう少し大きければ……もっと……）	　If it were just a bit bigger... even more...）
+
+37965	Rance	「ところでノアさん…………ノアさん？」	「By the way Noah-san...... Noah-san?」
+
+37966	Noah Hakobune	「はい！？　あ、なんでしょう？」	「Yes!? Ah, what is it?」
+
+37967	Rance	「ノアさんはどこに行こうとしてたんだ？	「Where were you trying to go, Noah-san?
+37968	+	　この海、二週間かそこらしか保たないぞ」	　This sea won't last more than two weeks or so.」
+
+37969	Noah Hakobune	「あ、竜宮島を目指していたんです。	「Ah, I was heading for Dragon Palace Island.
+37970	+	　海の楽園と噂される島で……」	　The island rumored to be a paradise of the sea...」
+
+37971	Rance	「ほう……竜宮島。竜宮島ね……」	「Hmm... Dragon Palace Island.」
+
+37972	-	航海四日目が始まった。	The fourth day of the voyage began.

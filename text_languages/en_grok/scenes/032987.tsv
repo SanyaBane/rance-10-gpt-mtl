@@ -1,0 +1,98 @@
+# 32987	深根２／友情イベントＤ	route
+* Tokugawa Tone	深根２	Female
+* El Mofus	エール２	Player's choice
+* Nagata-kun	長田君２	Male
+
+192074	-	深夜――	Late at night――
+
+192075	-	あなたは違和感を覚えて目を覚ます。	You woke up feeling something was off.
+
+192076	Tokugawa Tone	「あ……起きた……」	「Ah... You're awake...」
+
+192077	-	何故か深根があなたの顔を覗き込んでいた。	For some reason Tone was peering right into your face.
+
+192078	Tokugawa Tone	「おはよう、＜エール＞ちゃん」	「Good morning, ＜エール＞-chan.」
+
+192079	-	あなたはとりあえず、	For now you asked
+192080	+	何故深夜にも関わらず	why she was in your tent
+192081	+	自分のテントにいるのか訪ねた。	in the middle of the night.
+
+192082	Tokugawa Tone	「昼間、寝過ぎた。	「I slept too much during the day.
+192083	+	　だから眠れない」	　So I can't sleep.」
+
+192084	Tokugawa Tone	「なんかして遊ぼう」	「Let's play something.」
+
+192085	El Mofus	「…………。」	「............」
+
+192086	Tokugawa Tone	「遊ぼう」	「Let's play.」
+
+192087	-	あなたは半ば無理矢理頷くハメになった。	You ended up nodding half-forced.
+
+192088	Nagata-kun	「うう……俺だって眠いのに……	「Ugh... I'm sleepy too...
+192089	+	　なんでこんな深夜にトランプを……」	　Why are we playing cards this late at night...」
+
+192090	Tokugawa Tone	「ごめんね、長田君」	「Sorry, Nagata.」
+
+192091	Tokugawa Tone	「でも、ありがとう」	「But thank you.」
+
+192092	-	深根がニッコリと微笑んだ。	Tone smiled brightly.
+
+192093	Nagata-kun	「うっ……」	「Ugh...」
+
+192094	Nagata-kun	「へへっ、まあ仕方ねーなー」	「Hehe, well I guess it can't be helped.」
+
+192095	-	長田君は二秒で陥落した。	Nagata surrendered in two seconds.
+
+192096	Nagata-kun	「うっしゃ！　来た来た来た！	「Alright! Here we go!
+192097	+	　こりゃ今回は俺の勝ちだなー！	　This round's my win!
+192098	+	　へへへっ！」	　Hehehe!」
+
+192099	Nagata-kun	「よし、深根、カード取っていいぜー」	「Okay Tone, you can take a card.」
+
+192100	Nagata-kun	「深根ー？　次は深根の番だけど……」	「Tone? It's your turn next...」
+
+192101	Tokugawa Tone	「すうすう……すうすう……」	「Suu suu... Suu suu...」
+
+192102	-	深根はテント内にあるあなたの	Tone had slipped into your
+192103	+	布団に潜り込んで眠っていた。	futon inside the tent and was sound asleep.
+
+192104	Nagata-kun	「や、やりたい放題かよぉ……」	「She does whatever she wants...」
+
+192105	Nagata-kun	「ふわぁ……まあ、寝てくれたんなら、	「Fwaah... Well, if she's sleeping,
+192106	+	　なんでもいいさ、俺らも寝ようぜ」	　that's fine. Let's sleep too.」
+
+192107	-	あなたは頷いて、トランプを片付ける。	You nodded and cleaned up the cards.
+
+192108	Nagata-kun	「しかし、眠れないってんなら、	「Still, if she couldn't sleep,
+192109	+	　志津香さんとかの部屋に行きそうなのに、	　you'd think she'd go to Shizuka's tent,
+192110	+	　なんでこのテントに入ったんだろうな」	　so why come to this one?」
+
+192111	Nagata-kun	「…………」	「............」
+
+192112	Nagata-kun	「はっ！　まさか、俺に惚れてるとか！？」	「Hah! Could it be she's into me!?」
+
+192113	Nagata-kun	「い、いやー、それはちょっと困っちゃうなー」	「W-well, that'd be a bit troublesome.」
+
+192114	-	あなたは長田君の世迷い言を聞きながら、	While listening to Nagata's nonsense,
+192115	+	残ったもう片方の布団の中に潜り込んだ。	you slipped into the remaining futon.
+
+192116	-	ちょっとハニワ臭いのが気になるが、	It smelled a bit like Haniwa, but
+192117	+	眠気はあっという間にやってきた。	sleepiness hit you instantly.
+
+192118	Nagata-kun	「はっ！？　なに、お前当然みたいに	「Hah!? Hey, you're just casually
+192119	+	　俺の布団奪ってんの！？	　stealing my futon!?」
+192120	+	　ちょ、入れて、入れろって！」	　Hey, make some room! Let me in!」
+
+> male
+192121	Nagata-kun	「はあ、なんで男二人で同じ布団になんて……」	「Sigh, why are two guys sharing one futon...」
+
+> female
+192122	Nagata-kun	「うう、狭いよぉ……」	「Ugh, it's so cramped...」
+
+> end
+192123	Tokugawa Tone	「すやすや……すやすや……」	「Suya suya... Suya suya...」
+
+192124	Tokugawa Tone	「うふふ……」	「Ufufu...」
+
+192125	-	深根はあなたの布団の中で、	Inside your futon, Tone
+192126	+	なんとも幸せそうに微笑んでいた。	was smiling with pure bliss.

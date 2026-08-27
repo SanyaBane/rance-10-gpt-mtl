@@ -1,0 +1,102 @@
+# 32982	ザンス２／友情イベントＥ	route
+* Zance Leazas	ザンス２	Male
+* El Mofus	エール２	Player's choice
+
+191877	-	あなたはなんとなくザンスの修行を見ていた。	You were casually watching Zance train.
+
+191878	Zance Leazas	「……あに見てやがんだよ？」	「...What are you staring at?」
+
+191879	El Mofus	「…………。」	「............」
+
+191880	Zance Leazas	「ったく、変な奴だな。	「What a weird guy.
+191881	+	　……おい」	　...Hey.」
+
+191882	-	ザンスから一振りの剣を投げ渡された。	Zance tossed you a sword.
+
+191883	Zance Leazas	「突っ立ってるくらいなら模擬戦でもやるか。	「If you're just gonna stand there, want a spar?
+191884	+	　安心しろ、手加減はしてやっから」	　Don't worry, I'll go easy on you.」
+
+191885	Zance Leazas	「よっ、ほっ、と」	「Yo, ho, to!」
+
+191886	-	ザンスが軽くバイ・ロードを振るうと、	When Zance lightly swung his By Road-road,
+191887	+	それだけであなたは防戦一方となり、	you were immediately forced onto the defensive,
+191888	+	いつまで経っても反撃に転じられずにいた。	and couldn't find any chance to counter.
+
+191889	-	扱いなれない剣だからというのもあるが、	Part of it was the unfamiliar sword,
+191890	+	ザンスの攻撃は、ここだけは来て欲しくないという、	but Zance' attacks always struck
+191891	+	あなたの隙を常に的確に突いてきていた。	exactly where you didn't want them to.
+
+191892	Zance Leazas	「……まっ、こんなもんか。	「...Well, is this all you've got.
+191893	+	　ほれほれ、どしたどした」	　Come on come on, what's wrong?」
+
+191894	-	ザンスの剣の攻撃がより速度を増し、	Zance' sword attacks grew faster,
+191895	+	あなたはついていくのが精一杯になりだす。	and you struggled just to keep up.
+
+191896	Zance Leazas	「ったく、情けない奴だなぁ。	「What a pathetic guy.
+191897	+	　もちっと鍛えとけよな」	　Train more.」
+
+191898	Zance Leazas	「ふんっ、お前、俺に勝てると思うか？」	「Hmph, you think you can beat me?」
+191899	+	「がはははははははははははははは！」	「Gahahahahahahahahahaha!」
+
+191900	Zance Leazas	「はっ……そんなことをよくもまぁ、	「Ha... How can you say something like that
+191901	+	　俺様の目の前で堂々と言えるもんだ……」	　so boldly in front of me...」
+
+191902	Zance Leazas	「テメェが俺に勝てるわけねぇーだろ、タコ」	「No way you can beat me, idiot.」
+
+191903	-	あなたはザンスに怒られてしまった。	Zance got angry at you.
+
+191904	Zance Leazas	「ま、俺様相手にでも	「Well, I don't hate
+191905	+	　そう思える馬鹿は嫌いじゃねーがな」	　an idiot who thinks he can beat me.」
+
+191906	-	ザンスはどこか嬉しそうにニヤニヤしていた。	Zance grinned as if he was somewhat happy.
+
+191907	Zance Leazas	「アホか、お前は」	「You're an idiot.」
+
+191908	Zance Leazas	「戦っている最中にそんな気迫でどうする。	「How can you fight with that weak spirit.
+191909	+	　絶対にブッ殺すくらい言えねぇのか」	　Can't you at least say you'll definitely kill me?」
+
+191910	Zance Leazas	「ぶっちゃければ……	「To be honest...
+191911	+	　お前はもっと強くなれると俺は踏んでんだ」	　I think you can become much stronger.」
+
+> male
+191912	Zance Leazas	「つまり、お前も俺の弟なら	「So if you're my little brother
+191913	+	　情けねえこと言うなってこった」	　don't say pathetic things.」
+
+> female
+191914	Zance Leazas	「つまり、お前も俺の妹なら	「So if you're my little sister
+191915	+	　情けねえこと言うなってこった」	　don't say pathetic things.」
+
+> end
+191916	Zance Leazas	「分かったろうな？　アア？」	「Got it? Aa?」
+
+191917	-	ザンスは真剣な瞳で、あなたを睨んできた。	Zance glared at you with serious eyes.
+
+191918	Zance Leazas	「…………」	「............」
+
+191919	Zance Leazas	「いいか、＜エール＞」	「Listen, ＜エール＞.」
+
+191920	Zance Leazas	「俺様は世界最強になる。	「I will become the strongest in the world.
+191921	+	　乱義のアホもダークランスの兄貴だって……	　That idiot Rangi, big bro Dark Rance...
+191922	+	　そして、当然あの糞親父も倒してな」	　and of course that shitty father too.」
+
+191923	Zance Leazas	「へっ、見てろよ。	「Heh, just watch.
+191924	+	　お前の兄貴が世界最強の男になるところをな」	　Your big brother becoming the strongest man in the world.」
+
+191925	Zance Leazas	「お前が望むならそれを	「If you want, I'll let you
+191926	+	　俺様の一番近くで見せてやってもいいぜ」	　watch it from right beside me.」
+
+191927	Zance Leazas	「ほいっ」	「Here.」
+
+191928	-	ぱこーん。	Pakoon.
+191929	+	ザンスはあなたの頭を剣で叩くと、	Zance lightly tapped your head with the flat of his sword,
+191930	+	バイ・ロードを肩に担いだ。	then shouldered his By Road-road.
+
+191931	-	訓練は終わりということらしい。	It seemed training was over.
+
+191932	Zance Leazas	「うし、そろそろメシにすっか。	「Alright, time for food.
+191933	+	　帰んぞー」	　Let's head back.」
+
+191934	-	ザンスは悠々とキャンプ地へ戻っていく。	Zance casually headed back to the campsite.
+
+191935	-	あなたはザンスとより仲良くなれた、	You felt you had become closer
+191936	+	そんな気がした。	to Zance.

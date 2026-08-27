@@ -1,0 +1,389 @@
+# 33027	６０１／少年の旅立ち	route
+* Crook Mofus	クルックー２	Female
+* El Mofus	エール２	Player's choice
+
+194298	-	自由都市西部の村――	A village in the western Free Cities一
+
+194299	-	なんの変哲もないとある家の中から、	This story begins inside an ordinary house,
+194300	+	この物語は始まる。	with nothing particularly special about it.
+
+194301	-	クルックーの家――	Crook's House一
+
+194302	Crook Mofus	「起きなさい、起きなさい……」	「Wake up, wake up...」
+
+194303	El Mofus	「…………。」	「............」
+
+194304	Crook Mofus	「朝です、＜エール＞」	「It's morning, ＜エール＞.」
+
+194305	-	体をゆさゆさと揺すられている。	Your body is being gently shaken.
+194306	+	母が起こしに来たのだと、	You understand from years of experience
+194307	+	あなたは長年の経験で理解した。	that your mother has come to wake you.
+
+194308	El Mofus	「…………。」	「............」
+
+194309	-	あなたはゆっくりと体を起こした。	You slowly sit up.
+194310	+	まだ頭はボーッとしている。	Your head is still fuzzy.
+
+194311	Crook Mofus	「おや……	「Oh my...
+194312	+	　ひどい寝癖ですね」	　You have terrible bed hair.」
+
+194313	-	あなたの母は少し呆れの色を瞳に滲ませながら、	Your mother lets a hint of exasperation show in her eyes
+194314	+	表情を和らげた。	while softening her expression.
+
+194315	Crook Mofus	「おはようございます、＜エール＞」	「Good morning, ＜エール＞.」
+
+194316	Crook Mofus	「今日は貴方の誕生日です。	「Today is your birthday.
+194317	+	　気分はどうですか？」	　How do you feel?」
+
+194318	El Mofus	「…………。」	「............」
+194319	Crook Mofus	「そのようですね」	「I see.」
+
+194320	Crook Mofus	「では、顔を洗ったら降りてきて下さい。	「Then please wash your face and come downstairs.
+194321	+	　母からとても大事な話があります」	　Mother has something very important to tell you.」
+
+194322	Crook Mofus	「まだ寝ぼけているようですね」	「You still look half-asleep.」
+
+194323	Crook Mofus	「顔を洗ったら降りてきて下さい。	「Wash your face and come downstairs.
+194324	+	　母からとても大事な話があります」	　Mother has something very important to tell you.」
+
+194325	-	パタパタと部屋から出て行く母を	You watch your mother patter out of the room
+194326	+	あなたはボーッとしたまま見送った。	in a daze.
+
+194327	-	…………	............
+
+194328	-	……	...
+
+194329	-	顔を洗ってからダイニングに行くと、	After washing your face and going to the dining room,
+194330	+	母、クルックーの作ってくれた朝ご飯の	the delicious aroma of the breakfast Mother Crook prepared
+194331	+	良い香りが鼻孔をくすぐってきた。	tickles your nostrils.
+
+194332	-	今日が誕生日だからだろうか、	Perhaps because today is your birthday,
+194333	+	朝からなんとも豪華な食事である。	it is an unusually luxurious meal for breakfast.
+
+194334	-	すぐにあなたのお腹は唸り声を上げた。	Your stomach immediately lets out a loud growl.
+
+194335	Crook Mofus	「おや、少し作りすぎたかと思いましたが、	「Oh dear, I thought I might have made a bit too much,
+194336	+	　育ち盛りにはこれくらいが	　but it seems just right
+194337	+	　丁度良かったようですね」	　for a growing child like you.」
+
+194338	Crook Mofus	「冷めない内に召し上がれ」	「Eat it before it gets cold.」
+
+194339	-	母に促され、あなたは食事に手をつける。	Urged by your mother, you begin eating.
+
+> male
+194340	Crook Mofus	「…………」	「............」
+
+194341	-	自分の子供が次から次へと	Mother Crook watches with satisfaction
+194342	+	食べ物を口に運ぶ様子を	as her child brings food to her mouth one after another.
+194343	+	母であるクルックーは満足そうに眺めていた。	
+
+> female
+194344	Crook Mofus	「まったく……」	「Goodness...
+
+194345	Crook Mofus	「貴方は女の子なんですから、	　You are a girl, after all,
+194346	+	　そう、ガツガツと食べるのは、	　so eating so greedily
+194347	+	　はしたないですよ？」	　is quite unladylike, you know?」
+
+194348	-	女の子ながら、男の子顔負けに	Seeing you devour your food with an appetite rivaling a boy's
+194349	+	もりもりご飯を食べるあなたの姿を見て、	despite being a girl,
+194350	+	やれやれと母は嘆息した。	your mother sighs in resignation.
+
+> end
+194351	Crook Mofus	「あっ、そうそう＜エール＞」	「Ah, that's right ＜エール＞.」
+
+194352	Crook Mofus	「今日から貴方には冒険に出てもらいます」	「Starting today, you will set out on an adventure.」
+
+194353	El Mofus	「…………。」	「............」
+
+194354	-	手を止めてあなたは母の顔を見返した。	You stop eating and look at your mother's face.
+
+194355	Crook Mofus	「おや、なんですか、その顔は」	「Oh my, what is that expression?」
+
+194356	El Mofus	「…………。」	「............」
+
+194357	Crook Mofus	「そんな話は聞いてない？」	「You haven't heard about this before?」
+
+194358	Crook Mofus	「そうですね、言ってません」	「That's right, I hadn't told you.」
+
+194359	Crook Mofus	「自分の力が心配かも知れませんが、	「You might be worried about your own strength,
+194360	+	　それなら大丈夫です。	　but there's no need to worry.
+194361	+	　貴方は私が鍛えて来ました」	　I have trained you myself.」
+
+194362	Crook Mofus	「もう一流の冒険者と比べても	「You already have strength that rivals first-class adventurers.」
+194363	+	　遜色のない実力があります」	
+
+194364	Crook Mofus	「後は実際に旅立ち、	「Now all that's left is to actually set out,
+194365	+	　冒険を経て実戦で鍛えるのがいいでしょう」	　gain experience through real adventures, and temper yourself in battle.」
+
+194366	Crook Mofus	「さあ、冒険のせんべつです。	「Here, a parting gift for your adventure.
+194367	+	　受け取りなさい」	　Take it.」
+
+194368	-	『まとまった額のお金』と『食料』を手に入れた。	You obtained 'a decent sum of money' and 'food supplies'.
+194369	+	これならしばらくの間、生活に困らないだろう。	This should be enough to live on for a while.
+
+194370	Crook Mofus	「こちらは誕生日プレゼントです」	「This is your birthday present.」
+
+194371	-	『ひのきの棒』『冒険者の服』を手に入れた。	You obtained 'Wooden Stick' and 'Adventurer's Clothes'.
+
+194372	Crook Mofus	「これで冒険の準備は万端ですね」	「Now your preparations for adventure are complete.」
+
+194373	Crook Mofus	「この世界の状況……	「You know the current state of this world...
+194374	+	　貴方も知っていますね」	　don't you?」
+194375	+	「その通りです。	「That's right.
+194376	+	　よく分かりましたね」	　You've understood well.」
+
+194377	-	少し嬉しそうに母は頷いた。	Mother nods, looking slightly pleased.
+
+194378	Crook Mofus	「かの邪知暴虐の王、	「That wicked and tyrannical king,
+194379	+	　魔王ランスは放置できる存在ではありません」	　Demon King Rance, cannot be left alone.」
+
+194380	Crook Mofus	「そこで貴方の出番です」	「And that is where you come in.」
+
+194381	Crook Mofus	「その通りです。	「That's right.
+194382	+	　最近は小麦の値段がまた値上がりして……」	　Lately the price of wheat has gone up again...」
+
+194383	Crook Mofus	「って、違います。	「Wait, that's not it.
+194384	+	　ぺしっ」	　*light smack*」
+
+194385	Crook Mofus	「魔王ランスの存在です」	「It's the existence of Demon King Rance.」
+
+194386	Crook Mofus	「いずれこの世界を破壊するであろう、	「He will eventually destroy this world,
+194387	+	　魔王ランスを貴方が倒すのです」	　and you are the one who will defeat Demon King Rance.」
+
+194388	El Mofus	「…………。」	「............」
+
+194389	Crook Mofus	「何か言いたげな顔ですね。	「You look like you have something to say.
+194390	+	　質問があるなら伺います」	　If you have questions, ask away.」
+194391	+	「なんだ、そんなことですか」	「What, is that all?」
+
+194392	Crook Mofus	「今や世界の敵とも言える魔王の名ですね」	「The name of the Demon King who can now be called the enemy of the world.」
+
+194393	Crook Mofus	「十五年前に人類軍の矢面に立ち戦った英雄……	「The hero who stood at the forefront of the Human Army fifteen years ago...
+194394	+	　最後には自ら魔王の因縁を背負い、	　In the end he took the burden of the Demon King fate upon himself,
+194395	+	　今では人類の敵となってしまった男です」	　and has now become humanity's enemy.」
+
+194396	Crook Mofus	「…………」	「............」
+
+194397	-	母の動きが止まる。	Mother's movements stop.
+194398	+	なにを考えているのか、	It's impossible to read
+194399	+	その表情からは読み取れない。	what she is thinking from her expression.
+
+194400	Crook Mofus	「＜エール＞……」	「＜エール＞...」
+
+194401	Crook Mofus	「貴方が今日の誕生日を迎えたら	「Once you reached today's birthday,
+194402	+	　ずっと話そうと思っていたことがあります」	　there was something I always planned to tell you.」
+
+194403	Crook Mofus	「今まで貴方には黙っていましたが……」	「I kept it from you until now, but...」
+
+194404	Crook Mofus	「なんと、貴方はあの魔王ランスの子供なのです。	「The truth is, you are a child of that Demon King Rance.
+194405	?	　ばばーん」	　Surprise!」
+
+194406	El Mofus	「…………。」	「............」
+
+194407	Crook Mofus	「おやおや、衝撃の事実に	「My my, such a shocking truth
+194408	+	　言葉を失っているようですね」	　has left you speechless, I see.」
+
+194409	Crook Mofus	「父親の蛮行を止めるは	「Stopping your father's atrocities
+194410	+	　子供の義務でもあります」	　is also a child's duty.」
+
+194411	Crook Mofus	「なに、大丈夫ですよ。	「Don't worry, it'll be fine.
+194412	+	　貴方一人にやらせるつもりはありません」	　I don't intend to make you do it alone.」
+
+194413	Crook Mofus	「魔王ランスの血を継ぐ子供達……	「The children who inherited Demon King Rance's blood...
+194414	+	　通称『魔王の子』達と協力しなさい」	　the ones known as the 'Children of the Demon King'. Cooperate with them.」
+
+194415	Crook Mofus	「貴方は兄弟姉妹の皆さんに	「You have never met your brothers and sisters,
+194416	+	　会ったことがありませんでしたね」	　have you?」
+
+194417	Crook Mofus	「兄弟姉妹に会いに行くついで……	「Think of it as going to meet your siblings on the side...
+194418	+	　と、気楽に考えればいいでしょう」	　and take it easy.」
+
+194419	Crook Mofus	「というわけで頑張って下さいね」	「So do your best, okay?」
+
+194420	-	母は真剣な表情で	Mother looks at you with a serious expression.
+194421	+	あなたの顔を見つめる。	
+
+194422	Crook Mofus	「大丈夫……	「It'll be okay...
+194423	+	　貴方ならきっと出来ます」	　I'm sure you can do it.」
+
+194424	-	そこで、母はパッと表情を和らげた。	Then, Mother suddenly softens her expression.
+
+194425	Crook Mofus	「ま、駄目なら駄目でもいいです。	「Well, if it doesn't work, it doesn't work.
+194426	+	　その時は母がなんとかします」	　In that case, Mother will do something about it.」
+
+194427	Crook Mofus	「さて、他に何か質問はありますか？」	「Now then, do you have any other questions?」
+194428	+	「分かっていたら、	「If it were that easy to understand,
+194429	+	　もうとっくに誰かが倒していますよ」	　someone would have defeated him long ago.」
+
+194430	Crook Mofus	「大事な質問の時間にそれですか？」	「That's what you ask during this important time?」
+
+194431	Crook Mofus	「…………」	「............」
+
+194432	Crook Mofus	「……33だか4です。	「...It's 33 or 34.
+194433	+	　すみません、母も忘れました」	　Sorry, Mother forgot too.」
+
+194434	Crook Mofus	「では、頑張ってきて下さい」	「Then do your best out there.」
+
+194435	-	冒険用の荷物を持つあなたを、	Crook comes to see you off
+194436	+	クルックーが見送りに来た。	as you carry your adventure gear.
+
+194437	Crook Mofus	「気をつけて行ってらっしゃい」	「Take care and have a safe journey.」
+
+194438	El Mofus	「…………。」	「............」
+194439	Crook Mofus	「はい、よく聞いてくれました」	「Yes, thank you for listening well.」
+
+194440	Crook Mofus	「聞かれなかったら	「I was wondering what to do
+194441	+	　どうしようかと思っていたところです」	　if you hadn't asked.」
+
+194442	Crook Mofus	「まずは五つのオーブを探しなさい」	「First, search for the five orbs.」
+
+194443	Crook Mofus	「はい、行きません。	「Yes, I'm not going.
+194444	+	　何故ならこれは貴方の冒険だからです」	　Because this is your adventure.」
+
+194445	Crook Mofus	「母の冒険は、	「Mother's adventure
+194446	+	　もう随分と前に終わりました」	　ended quite a long time ago.」
+
+194447	Crook Mofus	「では、まずは五つのオーブを探すのです」	「So first, search for the five orbs.」
+
+194448	Crook Mofus	「……やる気満々の決意に満ちた	「...What a face full of determination and motivation.」
+194449	+	　苦み走った顔ですね」	
+
+194450	Crook Mofus	「その顔を見て母も安心しました」	「Seeing that face puts Mother at ease.」
+
+194451	Crook Mofus	「まったく、母は親孝行な子供を持ったものです」	「Really, Mother is blessed with such a filial child.」
+
+194452	-	どうやら母にはこの手の意思表示は無意味らしい。	It seems such gestures of reluctance are meaningless to Mother.
+
+194453	Crook Mofus	「では、まずは五つのオーブを探すのです」	「So first, search for the five orbs.」
+
+194454	Crook Mofus	「魔王ランスは特殊な力で守られています。	「Demon King Rance is protected by a special power.
+194455	+	　それを破るのが五つのオーブです」	　The five orbs are what can break it.」
+
+194456	Crook Mofus	「次に……仲間」	「Next... companions.」
+
+194457	Crook Mofus	「先程も言いましたが、	「As I said earlier,
+194458	+	　魔王の子達に協力を仰ぎ、	　seek cooperation from the Children of the Demon King,
+194459	+	　共に魔王ランス打倒を目指すのです」	　and aim to defeat Demon King Rance together.」
+
+194460	Crook Mofus	「＜エール＞は皆とは初対面なのですから、	「Since this will be your first meeting with them, ＜エール＞,
+194461	+	　腹違いの兄弟姉妹とは言え、	　even though they are your half-siblings,
+194462	+	　失礼のないように振る舞うのですよ？」	　make sure to behave politely.」
+
+194463	Crook Mofus	「この六通の紹介状を渡します」	「Here are six letters of introduction.」
+
+194464	-	あなたは紹介状を六通手に入れた。	You obtained six letters of introduction.
+
+194465	Crook Mofus	「この紹介状は、協力を仰ぐ為の書です。	「These letters are for requesting cooperation.
+194466	+	　世界有数の大国の指導者に渡して下さい」	　Deliver them to the leaders of the world's major nations.」
+
+194467	Crook Mofus	「きっとオーブのありか、	「They will surely tell you the locations of the orbs
+194468	+	　そして仲間になる兄弟を紹介してくれます」	　and introduce you to siblings who can become your companions.」
+
+194469	Crook Mofus	「と、貴方に伝えるのはこの辺りでしょうか」	「I think that's about everything I need to tell you.」
+
+194470	Crook Mofus	「ちゃんと分かりましたか？	「Did you understand everything properly?
+194471	+	　説明をもう一度聞きますか？」	　Would you like me to explain again?」
+194472	+	「貴方の目的は魔王ランスの暴走を止めることです」	「Your goal is to stop Demon King Rance's rampage.」
+
+194473	Crook Mofus	「その為に必要なものは二つ」	「For that, you need two things.」
+
+194474	Crook Mofus	「五つのオーブと、強力な仲間達」	「The five orbs and powerful companions.」
+
+194475	Crook Mofus	「魔王ランスを守る結界を破壊する為、	「To destroy the barrier protecting Demon King Rance,
+194476	+	　五つのオーブを探しなさい」	　search for the five orbs.」
+
+194477	Crook Mofus	「しかし魔王は貴方一人では敵いません。	「However, you cannot defeat the Demon King alone.
+194478	+	　オーブを探す道すがら、	　While searching for the orbs,
+194479	+	　魔王の子供達を見つけて仲間にしなさい」	　find the Demon King's children and make them your allies.」
+
+194480	Crook Mofus	「子供達のほとんどは国の有力者の子です」	「Most of the children are offspring of powerful figures in their countries.」
+
+194481	Crook Mofus	「親である大国の有力者には、	「Make sure to properly deliver the letters of introduction
+194482	+	　協力を取り付ける為の紹介状を	　to the powerful leaders of the major nations
+194483	+	　きちんと渡すようにして下さい」	　to secure their cooperation.」
+
+194484	Crook Mofus	「ふう、こんなところですね」	「Whew, that's about it.」
+
+194485	Crook Mofus	「…………」	「............」
+
+194486	Crook Mofus	「ちなみにもう一度は説明しませんよ」	「By the way, I won't explain it a second time.」
+
+194487	Crook Mofus	「そうですか。	「I see.
+194488	+	　さすが私の子です、安心しました」	　As expected of my child, I'm relieved.」
+
+194489	Crook Mofus	「さあ、そろそろ出発なさい」	「Now then, it's time to set off.」
+
+194490	Crook Mofus	「最後に、＜エール＞」	「Finally, ＜エール＞.」
+
+194491	-	ジッと……	She stares intently...
+194492	+	母の優しい瞳が貴方の瞳を見つめる。	Mother's gentle eyes gaze into yours.
+
+194493	Crook Mofus	「きっとこれから……	「I'm sure from now on...
+194494	+	　厳しいことも沢山あると思います」	　there will be many hardships.」
+
+194495	Crook Mofus	「ですが、冒険を楽しみなさい」	「But enjoy the adventure.」
+
+194496	Crook Mofus	「積極的に行動して、	「Act proactively,
+194497	+	　色々なもの、色々な人、色々な事情、	　see many things, meet many people, learn many circumstances,
+194498	+	　それらを見、貴方の力となさい」	　and make them your strength.
+
+194499	Crook Mofus	「そうすると……	「If you do that...
+194500	+	　世界はよりよく輝いて見えるものです」	　the world will shine more beautifully.」
+
+194501	Crook Mofus	「あ、今の母の実体験です」	「Ah, that was from Mother's real experience.」
+
+194502	Crook Mofus	「この世界は……」	「This world is filled...
+
+194503	Crook Mofus	「楽しいこと、面白い人……	　with fun things and interesting people...
+194504	+	　そういうもので満ちています」	　It's full of such things.
+
+194505	Crook Mofus	「だから、楽しんでらっしゃい」	「So enjoy yourself.」
+
+194506	Crook Mofus	「母はいつでも貴方を見守っています。	「Mother will always be watching over you.
+194507	+	　そして、何があろうと母は貴方の味方です」	　No matter what happens, Mother is on your side.
+
+194508	Crook Mofus	「分かりましたか？」	　Understood?」
+
+194509	El Mofus	「…………。」	「............」
+194510	Crook Mofus	「ふふ、そうですか。	「Fufu, I see.
+194511	+	　母は安心しました」	　Mother is relieved.」
+
+194512	Crook Mofus	「ふふ、そうかも知れませんね」	「Fufu, maybe that's true.」
+
+194513	Crook Mofus	「それと実は貴方には魔王を倒すよりも、	「Also, actually you have a mission even more important than defeating the Demon King,
+194514	+	　もっと大事な使命があるのですが……」	　but...
+
+194515	Crook Mofus	「…………」	「............」
+
+194516	Crook Mofus	「あ、すみません。	「Ah, sorry.
+194517	+	　これは貴方には秘密でした」	　That was supposed to be a secret from you.」
+
+194518	Crook Mofus	「まあ、今は忘れて冒険を楽しんで来なさい」	「Well, forget about that for now and enjoy your adventure.」
+
+194519	Crook Mofus	「それと母へのお土産は考えなくていいです。	「Also, you don't need to worry about souvenirs for Mother.
+194520	+	　貴方が無事に帰ってくることが、	　The best souvenir for Mother
+194521	+	　母には何よりのお土産です」	　is you returning home safely.
+
+194522	Crook Mofus	「……でも珍しい貝があったら	　...But if you find any rare shells,
+194523	+	　持ってきて下さい」	　please bring some back.」
+
+194524	Crook Mofus	「…………」	「............」
+
+194525	Crook Mofus	「名残惜しいですが、	「It's hard to say goodbye,
+194526	+	　そろそろ出発の時です、＜エール＞」	　but it's time for you to depart, ＜エール＞.
+
+194527	El Mofus	「…………。」	「............」
+194528	Crook Mofus	「はい、行ってらっしゃい」	「Yes, have a good trip.」
+
+194529	Crook Mofus	「貴方の冒険が楽しいものに	「I pray that your adventure
+194530	+	　なることを祈っています」	　will be a fun one.」
+
+194531	Crook Mofus	「えーい、いいから行きなさーい。	「Come on, just go already.
+194532	+	　べしーん」	　*smack*」
+
+194533	-	あなたは母にお尻を蹴られて、	Your mother kicks you in the butt,
+194534	+	村から追い出されてしまった。	chasing you out of the village.
+
+194535	-	こうして……	And so...
+
+194536	-	あなたの冒険は唐突に始まった。	your adventure began abruptly.

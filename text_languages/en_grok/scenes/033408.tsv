@@ -1,0 +1,276 @@
+# 33408	６０９／酒場１	
+* Reset Kalar	リセット２	Female
+* Nagata-kun	長田君２	Male
+* El Mofus	エール２	Player's choice
+* Shuri Seihajuu Nagasaki	シュリ２	Female
+* Arms Arc	アームズ２	Female
+* Zance Leazas	ザンス２	Male
+* Yamamoto Rangi	乱義２	Male
+
+237243	Reset Kalar	「三回戦に向けての対策会議を始めまーす」	「Time to start our countermeasure meeting for the third round~」
+
+237244	Nagata-kun	「ひゅーひゅー、やんややんや。	「Woo hoo, yay yay.
+237245	+	　どんどんパフパフ」	　Let's do it!」
+
+237246	-	あなた達三人は部屋で、	The three of you started
+237247	+	次の試合の対策会議を始めた。	the strategy meeting for the next match in the room.
+
+237248	Reset Kalar	「ここまで二回も勝ち上がってきた	「＜エール＞-chan has won two matches to get here,
+237249	+	　＜エール＞ちゃんは遂に次が	　and now the next one is
+237250	+	　ブロック代表者を決める戦いだね」	　the match to decide the block representative.」
+
+237251	Nagata-kun	「ベスト8に残っただけでも大したもんだけど……」	「Just reaching the best eight is amazing but...」
+
+237252	Nagata-kun	「へへっ！　ここまで来たらやっぱ狙うは優勝だろ！	「Hehe! Now that we're here, of course we're aiming for the championship!
+237253	+	　なあ、相棒！？」	　Right, partner!?」
+
+237254	El Mofus	「…………。」	「............」
+237255	Nagata-kun	「ン、もう！　謙虚な奴だなぁ、お前は！	「Man! You're so humble!
+237256	+	　そこは狙うは優勝くらい言えって！」	　At least say you're aiming for the win!」
+
+237257	Nagata-kun	「おっ！　よく言った！」	「Oh! Well said!」
+
+237258	Nagata-kun	「い、意外と俗物的だなお前……」	「You're surprisingly materialistic...」
+
+237259	Nagata-kun	「それじゃあ今のところ、	「So right now,
+237260	+	　優勝への最大の障害は……」	　the biggest obstacle to winning is...
+
+237261	Reset Kalar	「やっぱりアームズさんだよねぇ……」	「It's definitely Arms-san...」
+
+237262	Reset Kalar	「というわけで、まずはあそこに行こっか」	「So let's go there first.」
+
+237263	Shuri Seihajuu Nagasaki	「はいはい、アームズ・アーク選手の情報ですね」	「Yes yes, information on Arms Arc player.」
+
+237264	-	あなた達はシュリさんのもとを訪ね、	You visited Shuri-san
+237265	+	アームズの情報を得ることにした。	to obtain information on Arms.
+
+237266	Shuri Seihajuu Nagasaki	「まず、アームズ選手と言えば、	「First, when it comes to Arms player,
+237267	+	　あの魔王ランス以外で、	　besides Demon King Rance himself,
+237268	+	　魔人を倒した人物として有名ですね」	　she's famous as the one who defeated a Fiend.」
+
+237269	Shuri Seihajuu Nagasaki	「伝説はそれに留まらず、	「Her legends don't stop there,
+237270	+	　世界中のボスモンスターを討伐しまくり、	　she's defeated countless boss monsters around the world,
+237271	+	　世界中のレア武具を収集しまくり――」	　and collected rare weapons from all over――
+
+237272	Shuri Seihajuu Nagasaki	「その数は、おそらく今の世界でどころか、	「The number is probably the highest
+237273	+	　歴史上でも最高記録ではと目されてます」	　not just in the current world but in all history.」
+
+237274	Nagata-kun	「改めて聞くと……	「Hearing it again...
+237275	+	　やっぱり化けもんっすね」	　she really is a monster.」
+
+237276	Shuri Seihajuu Nagasaki	「まさしく生きた伝説と言って	「She can truly be called a living legend.」
+237277	+	　差し支えないでしょうねぇ」	
+
+237278	Shuri Seihajuu Nagasaki	「今までの戦績も中々のものですよ」	「Her record so far is also impressive.」
+
+237279	Shuri Seihajuu Nagasaki	「一回戦、骸骨騎士ガシャケィラ選手の時は、	「In the first round against Skeleton Knight Gashakeira,
+237280	+	　武器一つでストレート勝ち」	　she won straight with just one weapon.」
+
+237281	Shuri Seihajuu Nagasaki	「二回戦、ケーちゃん選手の時は、	「In the second round against K-chan,
+237282	+	　なんとたった一太刀で相手が降参したほどです」	　the opponent surrendered after just one slash.」
+
+237283	Shuri Seihajuu Nagasaki	「裏を返すと、	「On the flip side,
+237284	+	　アイテムを使う場面はなかったので、	　she didn't need to use items,
+237285	+	　そっち方面は特に情報がないってことですね」	　so we don't have much info on that side.」
+
+237286	Shuri Seihajuu Nagasaki	「なので、アームズさんってすごく強いですよ、	「So all I can say is that Arms-san is really strong,
+237287	+	　としか言えないんです、ごめんなさい」	　sorry.」
+
+237288	-	残念ながら、受付では	Unfortunately, at the reception desk
+237289	+	これと言った情報は得られなかった。	you couldn't get any notable information.
+
+237290	-	あなた達は作戦会議の為に、	For the strategy meeting,
+237291	+	街の酒場まで来ていた。	you came to the city tavern.
+
+237292	Nagata-kun	「うーん……	「Hmm...
+237293	+	　結局分かったことは、アイテム抜きでも	　In the end, all we learned is that
+237294	+	　めっちゃ強いよ、ってことだけかぁ」	　she's insanely strong even without items.」
+
+237295	Nagata-kun	「ま、そう簡単に弱点とかは分からないよなぁ」	「Well, it's not that easy to find weaknesses.」
+
+237296	Reset Kalar	「昨日会ったからちょっと話をしたんだけど……	「I talked to her a bit yesterday since we met...
+237297	+	　＜エール＞ちゃんとの対戦では	　She said she'll fight seriously
+237298	+	　本気で戦うって言ってた」	　against ＜エール＞-chan.」
+
+237299	Nagata-kun	「うげっ、油断もしてくれないんすか？」	「Ugh, she won't even let us have an opening?」
+
+237300	Reset Kalar	「それも自分が持っている	「And she'll come with
+237301	+	　最強レア武具をフル装備で来るって」	　all her strongest rare equipment fully equipped.」
+
+237302	Nagata-kun	「ままま、マジで本気じゃないっすか！」	「For real, she's going all out!」
+
+237303	Nagata-kun	「うは、大人げない！」	「Uwa, how childish!」
+
+237304	Arms Arc	「誰が大人げないだって？」	「Who are you calling childish?」
+
+237305	Nagata-kun	「どわああああ！？」	「Dwaaaaaah!?」
+
+237306	Reset Kalar	「アームズさん」	「Arms-san.」
+
+237307	Arms Arc	「ふっ、私を倒す為の作戦会議か？」	「Heh, a strategy meeting to defeat me?」
+
+237308	Reset Kalar	「うん、そうなの」	「Yes, that's right.」
+
+237309	Reset Kalar	「そうだ、アームズさん。	「Oh right, Arms-san.
+237310	+	　何か＜エール＞ちゃんにアドバイスないかな？」	　Do you have any advice for ＜エール＞-chan?」
+
+237311	Arms Arc	「あのなぁ……」	「Listen here...」
+
+237312	Arms Arc	「今回は私も本気で戦う。	「This time I'm also fighting seriously.
+237313	+	　これでも優勝は一応目指しているんでね」	　I'm aiming for the championship after all.」
+
+237314	Reset Kalar	「そうですよね……」	「That's true...」
+
+237315	Nagata-kun	「何も敵にまでアドバイス求めなくても……」	「You don't have to ask the enemy for advice...」
+
+237316	Reset Kalar	「教えてくれたらラッキーだなぁって……　	「I thought it would be lucky if she told us...」
+237317	+	　えへへへ……」	　Ehehehe...」
+
+237318	Arms Arc	「ふう……」	「Haa...」
+
+237319	Arms Arc	「しかし、まあ……」	「But well...」
+
+237320	Arms Arc	「二回戦では助言を与えたしな……	「I gave advice in the second round too...
+237321	+	　ここまで来たら最後まで付き合ってやるか」	　Since we've come this far, I might as well stick with you till the end.」
+
+237322	Nagata-kun	「え、マジすか！？」	「Eh, for real!?」
+
+237323	Reset Kalar	「わーい！」	「Yay!」
+
+237324	Arms Arc	「まったく、君達といると調子が狂うな」	「Jeez, being with you guys throws me off.」
+
+237325	Arms Arc	「＜エール＞、アドバイスだ」	「＜エール＞, here's my advice.」
+
+237326	-	アームズの綺麗な瞳が、	Arms's beautiful eyes
+237327	+	あなたの顔をジッと正面から見ていた。	stared straight at your face.
+
+237328	Arms Arc	「本気を出せ。	「Go all out.
+237329	+	　そしていつも通り戦え」	　And fight like you always do.」
+
+237330	Reset Kalar	「へ？」	「Eh?」
+
+237331	Nagata-kun	「それがアドバイス？」	「That's the advice?」
+
+237332	Arms Arc	「ああ、そうだ。	「Yeah, that's it.
+237333	+	　これは何よりのアドバイスだぞ？」	　This is the best advice there is.」
+
+237334	Arms Arc	「これは自慢ではなくただの事実だが――	「This isn't bragging, it's just a fact――
+237335	+	　私に弱点は存在しない」	　I have no weaknesses.」
+
+237336	Arms Arc	「ありとあらゆるレアアイテムを揃えた私は、	「Having gathered every rare item possible,
+237337	+	　どんな状況下においても臨機応変に対応できる」	　I can adapt to any situation.」
+
+237338	Arms Arc	「だから、下手な付け焼き刃で戦うよりも、	「So instead of half-baked tricks,
+237339	+	　ただ全力を出して戦うことだけに集中しろ、と。	　just focus on giving it your all.
+237340	+	　そういう話さ」	　That's what I'm saying.」
+
+237341	Arms Arc	「当然だが……	「Obviously...
+237342	+	　私に勝ちたければ、	　If you want to beat me,
+237343	+	　私より強くなるのが早道だからな」	　the fastest way is to become stronger than me.」
+
+237344	Nagata-kun	「それが難しいって話してんじゃないっすかー！」	「That's exactly why it's hard!」
+
+237345	Arms Arc	「後は知らんさ」	「I don't know about the rest.」
+
+237346	Arms Arc	「ほれ、日光、返すぞ」	「Here, I'm giving Nikkou back.」
+
+237347	-	あなたはアームズに日光を手渡された。	You received Nikkou from Arms.
+
+237348	Arms Arc	「ではな、＜エール＞。	「See you, ＜エール＞.
+237349	+	　せいぜい明日はいい試合にしようじゃないか」	　Let's have a good match tomorrow.」
+
+237350	-	アームズは最後にあなたに笑いかけてから、	Arms gave you one last smile,
+237351	+	カウンター席へと行ってしまった。	then headed to the counter.
+
+237352	Nagata-kun	「あんまり参考にならなかったっすね」	「Not very helpful, huh.」
+
+237353	Reset Kalar	「そんなこともないよ？」	「Not at all?」
+
+237354	Reset Kalar	「アームズさんの言うことは正しいもの。	「What Arms-san said is correct.
+237355	+	　下手な小細工よりも正面から、	　Instead of cheap tricks, let's go at her head-on,
+237356	+	　ドカーンと戦っちゃお」	　with a big bang.」
+
+237357	Nagata-kun	「うーん、まあそれしかないか」	「Hmm, yeah that's all we can do.」
+
+237358	Nagata-kun	「よっし、相棒！	「Alright, partner!
+237359	+	　正面から全力で戦ってやろうぜ！」	　Let's fight her head-on with everything we've got!」
+
+237360	-	それしかなさそうだ。	That seemed to be the only way.
+237361	+	あなたは長田君に頷きを返した。	You nodded back to Nagata-kun.
+
+237362	-	隣の席では、たまたま相席になった	At the neighboring seat, Zance and Rangi
+237363	+	ザンスと乱義が不穏な空気を発していた。	who happened to sit together were giving off a tense atmosphere.
+
+237364	Zance Leazas	「ふっ……」	「Heh...」
+
+237365	Yamamoto Rangi	「…………」	「............」
+
+237366	-	ザンスが手に持っているのは、	What Zance held in his hand
+237367	+	街に出ればいくらでももらえる	was a copy of the tournament bracket
+237368	+	トーナメント表のコピーだった。	that you could get anywhere in the city.
+
+237369	Zance Leazas	「お前とは決勝まで当たらない組み合わせだな」	「Our paths won't cross until the finals.」
+
+237370	Yamamoto Rangi	「……そうだな」	「...Yeah.」
+
+237371	Zance Leazas	「丁度いい。	「Perfect.
+237372	+	　ここでお前と決着をつけてやる」	　I'll settle things with you right here.」
+
+237373	Yamamoto Rangi	「…………」	「............」
+
+237374	Yamamoto Rangi	「ああ、構わない」	「Yeah, I don't mind.」
+
+237375	Yamamoto Rangi	「そのときが来たら、僕も本気で戦おう」	「When that time comes, I'll fight seriously too.」
+
+237376	Zance Leazas	「ククク……	「Kukuku...
+237377	+	　中々面白いことになってきたな」	　Things are getting interesting.」
+
+237378	Zance Leazas	「お前を踏みつけにして武闘大会で優勝。	「I'll trample you and win the fighting tournament.
+237379	+	　わるくねぇ」	　Not bad at all.」
+
+237380	Yamamoto Rangi	「そう、上手くいけばいいがな」	「Yeah, if it goes well.」
+
+237381	Zance Leazas	「ハンッ、上手くいかせんだよ」	「Hah, I'll make sure it does.」
+
+237382	Yamamoto Rangi	「…………」	「............」
+
+237383	-	二人から発せられる静かな闘気は凄まじく、	The quiet fighting spirit radiating from the two was tremendous,
+237384	+	周囲の客は一触即発の空気に怯えていた。	making the surrounding customers tense with fear of an explosion.
+
+237385	Nagata-kun	「って、こらこらこらーーーー！」	「Hey hey hey-----!」
+
+237386	Nagata-kun	「なんでお前らだけで勝手に盛り上がるの！？	「Why are you two getting all hyped up by yourselves!?
+237387	+	　＜エール＞だって戦ってんだからな！」	　＜エール＞ is fighting too!」
+
+237388	Zance Leazas	「アー？　馬ッ鹿、＜エール＞はお前……」	「Huh? Idiot, ＜エール＞ is...」
+
+237389	Zance Leazas	「まあ無理だろ」	「Well it's impossible for her.」
+
+237390	Nagata-kun	「クキーッ！　この子ハッキリ言いやがった！	「Kukii! She said it straight out!
+237391	+	　このお馬鹿、馬鹿馬鹿馬鹿！」	　You idiot, idiot idiot!」
+
+237392	Zance Leazas	「いてーよ、足叩くな。	「Ouch, stop kicking me.
+237393	+	　てか誰が馬鹿だ、割るぞテメェー」	　Who's the idiot? I'll smash you.」
+
+237394	Yamamoto Rangi	「やめなさい、二人とも。	「Stop it, both of you.
+237395	+	　他の客の迷惑になるから」	　You're bothering the other customers.」
+
+237396	Reset Kalar	「ふふふ……」	「Fufufu...」
+
+237397	-	ぎゃーぎゃーと騒がしい皆を見て、	Watching the noisy group,
+237398	+	リセットは楽しそうに微笑んだ。	Reset smiled happily.
+
+237399	Nagata-kun	「もう、何笑ってんすか」	「What are you laughing at?」
+
+237400	Reset Kalar	「あ、ううん」	「Ah, nothing.」
+
+237401	Reset Kalar	「明日は＜エール＞ちゃんだけじゃなく、	「Tomorrow not only ＜エール＞-chan,
+237402	+	　ザンスちゃん、乱義ちゃん、	　but Zance-chan and Rangi-chan
+237403	+	　三人とも試合があって燃えているなぁって」	　are all fired up for their matches.」
+
+237404	Nagata-kun	「ンもう、呑気な！」	「Man, you're so carefree!」
+
+237405	Nagata-kun	「こうなったら、絶対に勝ち上がって、	「In that case, we'll definitely win our way up
+237406	+	　二人の鼻をあかしてやろーぜ！　＜エール＞！」	　and show those two what's what! ＜エール＞!」
+
+237407	-	燃えている長田君にあなたは頷きを返しておいた。	You nodded to the fired-up Nagata-kun.

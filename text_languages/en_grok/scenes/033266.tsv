@@ -1,0 +1,275 @@
+# 33266	６０５／乱義２	route
+* Nagata-kun	長田君２	Male
+* JAPAN Samurai	汎用男武士兵	Male
+* Yamamoto Rangi	乱義２	Male
+* JAPAN Samurai	汎用女武士兵	Female
+* Reset Kalar	リセット２	Female
+* Nagi su Ragarl	ナギ２	Female
+* Masou Shizuka	志津香２	Female
+* Kentou Uzume	ウズメ２	Female
+* Rocky Bank	ロッキー２	Male
+* El Mofus	エール２	Player's choice
+* Houjou Suzu	すず２	Female
+
+219860	Nagata-kun	「ふぅー……	「Phew...
+219861	+	　なんとか無事に倒したな……」	　We somehow defeated them safely...」
+
+219862	-	鬼を倒し、皆が武器をしまう。	After defeating the Oni, everyone sheathed their weapons.
+
+219863	JAPAN Samurai	「乱義様！　ご無事ですか！？」	「Lord Rangi! Are you alright!?」
+
+219864	Yamamoto Rangi	「ええ……」	「Yes...」
+
+219865	Yamamoto Rangi	「皆さん、お疲れ様でした。	「Everyone, thank you for your hard work.
+219866	+	　ここはもう大丈夫のようです。	　This area seems safe now.
+219867	+	　他のところに行って下さい」	　Please head to other areas.」
+
+219868	JAPAN Samurai	「はっ！」	「Yes!」
+
+219869	Yamamoto Rangi	「さて……」	「Now then...」
+
+219870	Yamamoto Rangi	「まずは助太刀、感謝します」	「First, thank you for the assistance.」
+
+219871	-	乱義は改めてあなた達に向き直ると、	Rangi turned to face you all again
+219872	+	礼儀正しく頭を下げた。	and politely bowed his head.
+
+219873	Reset Kalar	「乱義ちゃん、何があったの？」	「Rangi-chan, what happened?」
+
+219874	Yamamoto Rangi	「鬼が大量発生した話は聞いたかい？」	「Have you heard about the massive Oni outbreak?」
+
+219875	Yamamoto Rangi	「それがJAPAN各地に、飛び火し、	「It spread across JAPAN,
+219876	+	　JAPAN軍はそれの鎮圧に全国各地に	　and the JAPAN army was dispatched everywhere
+219877	+	　派遣されていたんだが……」	　to suppress them...」
+
+219878	Yamamoto Rangi	「そのせいでこの織田城の守りが	「Because of that, the defense of Oda Castle
+219879	+	　手薄になり、この有様だ……」	　became thin, leading to this situation...」
+
+219880	Reset Kalar	「だ、大丈夫？」	「A-are you okay?」
+
+219881	Yamamoto Rangi	「ああ、一時は危険だったが、	「Yes, it was dangerous for a while,
+219882	+	　城内の鎮圧と消火作業も	　but the suppression inside the castle
+219883	+	　そろそろ終わるだろうね」	　and firefighting should be almost done.」
+
+219884	Reset Kalar	「ほっ……よかった……」	「Whew... thank goodness...」
+
+219885	Yamamoto Rangi	「それより、リセット……」	「More importantly, Reset...」
+
+219886	Reset Kalar	「な、なにっ！？」	「W-what!?」
+
+219887	-	リセットがビクリと体を震わせた。	Reset's body trembled.
+
+219888	Yamamoto Rangi	「助太刀には感謝する、が……	「I appreciate the help, but...
+219889	+	　城内に飛び込んでくるとは何を考えている」	　what were you thinking, charging into the castle?」
+
+219890	Yamamoto Rangi	「何かあったらどうするつもりだ？」	「What if something happened to you?」
+
+219891	Reset Kalar	「……はい」	「...Yes.」
+
+219892	Yamamoto Rangi	「それと呼び方、乱義ちゃん、	「Also, calling me Rangi-chan
+219893	+	　ではないだろう？」	　isn't appropriate, is it?」
+
+219894	Reset Kalar	「えへへ……ごめんなさい……	「Ehehe... sorry...
+219895	+	　乱義ちゃんの方がお兄ちゃんだけど、	　Even though you're my big brother, Rangi-chan,
+219896	+	　つい子供の頃からの癖で……」	　it's just an old habit from when I was a kid...」
+
+219897	Yamamoto Rangi	「まったく……」	「Good grief...」
+
+219898	-	乱義は溜め息をついた。	Rangi sighed.
+
+219899	Yamamoto Rangi	「……怪我は？」	「...Any injuries?」
+
+219900	Reset Kalar	「うぅん、みんな大丈夫」	「Nope, everyone's fine.」
+
+219901	Yamamoto Rangi	「そうか……」	「I see...」
+
+219902	Yamamoto Rangi	「あまり兄を心配させないでおくれ。	「Don't worry your brother too much.
+219903	+	　いいね」	　Okay?」
+
+219904	Reset Kalar	「えへへ、ごめんなさい」	「Ehehe, sorry.」
+
+219905	Yamamoto Rangi	「ん……」	「Mm...」
+
+219906	Nagi su Ragarl	「まーまー、皆無事だったんだし、	「There there, everyone's safe,
+219907	+	　それくらいで」	　so that's enough.」
+
+219908	Masou Shizuka	「久し振りね」	「It's been a while.」
+
+219909	Yamamoto Rangi	「志津香さんにナギさん。	「Lady Shizuka, Lady Nagi.
+219910	+	　お久し振りです」	　It's been a while.」
+
+219911	Nagi su Ragarl	「乱義、背ぇ伸びた？」	「Rangi, have you grown taller?」
+
+219912	Yamamoto Rangi	「ええ、また少し」	「Yes, a little more.」
+
+219913	Nagi su Ragarl	「う、くう……遂に抜かされたぁ……」	「Ugh... I've finally been overtaken...」
+
+219914	Kentou Uzume	「乱義しゅくーん！」	「Lord Rangi!」
+
+219915	Yamamoto Rangi	「なっ、ウズメ！	「Wha, Uzume!
+219916	+	　生きていたのか！」	　You're alive!」
+
+219917	Kentou Uzume	「にょほほ、久し振りござる。	「Nyohoho, it's been a while.
+219918	+	　不肖ウズメ、帰ってきました」	　This unworthy Uzume has returned.」
+
+219919	Yamamoto Rangi	「まったく……	「Good grief...
+219920	+	　心配をかけるんじゃない」	　Don't make me worry.」
+
+219921	Kentou Uzume	「あう……ごめんねでござる」	「Auu... sorry.」
+
+219922	Yamamoto Rangi	「いや、無事ならいいんだ。	「No, as long as you're safe, it's fine.
+219923	+	　本当に良かった」	　I'm truly glad.」
+
+219924	Kentou Uzume	「にょほほほ」	「Nyohohoho.」
+
+219925	Rocky Bank	「おお、おお……乱義様……	「Ohh, ohh... Lord Rangi...
+219926	+	　しばらく会わない間に、	　In the time we haven't met,
+219927	+	　本当にご立派になられて……」	　you've become so splendid...」
+
+219928	Yamamoto Rangi	「もしかしてロッキーさんですか？	「Could you be Rocky-san?
+219929	+	　ああ、お久し振りです」	　Ah, it's been a while.」
+
+219930	-	乱義が次々と一行と挨拶を交わす。	Rangi greeted each member of the group one by one.
+
+219931	-	その様子を見ているだけで、	Just watching, it was clear
+219932	+	乱義が皆から信頼を受けていることが窺えた。	that Rangi was trusted by everyone.
+
+219933	Yamamoto Rangi	「ところで……	「By the way...
+219934	+	　先程から気になっていたのだけど……」	　I've been wondering since earlier...」
+
+219935	Yamamoto Rangi	「初めまして……	「Nice to meet you...
+219936	+	　で、良かったかな？」	　is that correct?」
+
+219937	-	乱義があなたに向き直った。	Rangi turned to face you.
+
+> male
+219938	Reset Kalar	「うん、こっちは＜エール＞ちゃん。	「Yes, this is ＜エール＞-chan.
+219939	+	　乱義ちゃんの弟よ」	　Rangi-chan's little brother.」
+
+219940	Yamamoto Rangi	「弟……」	「Little brother...」
+
+> female
+219941	Reset Kalar	「うん、こっちは＜エール＞ちゃん。	「Yes, this is ＜エール＞-chan.
+219942	+	　乱義ちゃんの妹よ」	　Rangi-chan's little sister.」
+
+219943	Yamamoto Rangi	「妹……」	「Little sister...」
+
+> end
+219944	Yamamoto Rangi	「父君の逸話を聞くにつけ、	「Hearing Father's stories,
+219945	+	　まだどこかに兄弟姉妹がいるかもと	　I thought there might still be siblings somewhere,
+219946	+	　思っていたが……まさか本当にいたとは……」	　but I never imagined they really existed...」
+
+219947	Nagata-kun	「＜エール＞……	「＜エール＞...
+219948	+	　お前の父ちゃんなんなの？」	　What exactly is your dad?」
+
+> male
+219949	Reset Kalar	「ちなみに法王クルックーさんの息子さん」	「By the way, he's Pope Crook's son.」
+
+> female
+219950	Reset Kalar	「ちなみに法王クルックーさんの娘さん」	「By the way, she's Pope Crook's daughter.」
+
+> end
+219951	Yamamoto Rangi	「なっ……	「Wha...
+219952	+	　あの、法王の……」	　The Pope's...」
+
+219953	Yamamoto Rangi	「そうか、それはさぞ……」	「I see, that must be...
+
+219954	Nagata-kun	「……母ちゃんもなんなの？」	「...What about your mom?」
+
+219955	Yamamoto Rangi	「んっ、こほん……失礼……」	「Ahem... excuse me...」
+
+219956	Yamamoto Rangi	「もう知っているかも知れないが、	「You may already know this, but
+219957	+	　僕の名前は山本乱義。	　my name is Yamamoto Rangi.
+219958	+	　この国、JAPANの国主をしている」	　I serve as the ruler of this country, JAPAN.」
+
+219959	-	そこで、ようやく乱義は柔和な笑みを浮かべた。	Only then did Rangi finally show a gentle smile.
+
+> male
+219960	Yamamoto Rangi	「新しく弟が出来て嬉しいよ。	「I'm happy to have a new little brother.
+219961	+	　これから宜しく」	　Let's get along from now on.」
+
+> female
+219962	Yamamoto Rangi	「新しく妹が出来て嬉しいよ。	「I'm happy to have a new little sister.
+219963	+	　これから宜しく」	　Let's get along from now on.」
+
+> end
+219964	-	あなたの手を取り、乱義が手を繋ぐ。	Rangi took your hand and held it.
+
+219965	-	乱義の手はあなたのより大きく、	Rangi's hand was larger than yours,
+219966	+	どこか自分より相手の方が大人であると感じられた。	making you feel he was more adult than you.
+
+219967	El Mofus	「…………。」	「............」
+219968	-	あなたは失礼にならないよう、	You introduced yourself
+219969	+	できるだけ丁寧に名を名乗った。	as politely as possible so as not to be rude.
+
+219970	Yamamoto Rangi	「ふふ、あまり固くならなくてもいいよ」	「Fufu, you don't have to be so formal.」
+
+219971	-	あなたを安心させる為にだろう。	Probably to put you at ease,
+219972	+	あなたの兄は優しい笑みを浮かべた。	your brother showed a kind smile.
+
+219973	-	あなたは早く仲良くできるよう、	To get close quickly,
+219974	+	できるだけ気さくに名を名乗った。	you introduced yourself as casually as possible.
+
+219975	Yamamoto Rangi	「ふふ、明るい子のようだね。	「Fufu, you seem like a cheerful child.
+219976	+	　ああ、よろしく」	　Yes, nice to meet you.」
+
+219977	-	あなたの兄は笑みを浮かべた。	Your brother smiled.
+219978	+	それはとても穏やかな笑顔だった。	It was a very gentle smile.
+
+219979	-	あなたは一発かましてやった。	You hit him with a one-shot gag.
+
+219980	Yamamoto Rangi	「…………」	「............」
+
+219981	Yamamoto Rangi	「すまない……	「Sorry...
+219982	+	　あまりそういうのには明るくなくて」	　I'm not very good with that kind of thing.」
+
+219983	-	あなたは早速、兄を困らせた。	You immediately troubled your brother.
+
+219984	Yamamoto Rangi	「それで？　皆さんは何故ここに？」	「So? Why are you all here?」
+
+219985	-	あなたは簡単に旅の目的と、	You briefly explained the purpose of your journey
+219986	+	ここにきた理由を告げた。	and why you came here.
+
+219987	Yamamoto Rangi	「なるほど、魔王退治の為、	「I see, to defeat the Demon King,
+219988	+	　僕を誘いに……」	　you came to recruit me...」
+
+219989	Yamamoto Rangi	「ふむ……」	「Hmm...」
+
+219990	Yamamoto Rangi	「すまない、＜エール＞。	「I'm sorry, ＜エール＞.
+219991	+	　魔王退治は僕にとっても重大事、	　Defeating the Demon King is a serious matter for me too,
+219992	+	　協力はしたいが、今は……」	　and I want to help, but right now...」
+
+219993	Reset Kalar	「こんな状況だもん……	「With the situation like this...
+219994	+	　忙しいよねぇ……」	　you're really busy, huh...」
+
+219995	Yamamoto Rangi	「ああ」	「Yes.」
+
+219996	Houjou Suzu	「乱義様……少し宜しいですか？」	「Lord Rangi... may I have a moment?」
+
+219997	-	そのとき、一人の少女が声をかけてきた。	At that moment, a girl called out.
+
+219998	Yamamoto Rangi	「ああ、構いません。	「Yes, of course.
+219999	+	　どうしました？」	　What is it?」
+
+220000	-	少女は恭しく頭を下げた。	The girl bowed respectfully.
+
+220001	Houjou Suzu	「城内の鎮圧作業、消火作業が終わりました。	「The suppression and firefighting operations inside the castle are complete.
+220002	+	　もう安全かと」	　I believe it is safe now.」
+
+220003	Yamamoto Rangi	「ありがとう」	「Thank you.」
+
+220004	Yamamoto Rangi	「評定をすぐに行いたい。	「I want to hold a council meeting right away.
+220005	+	　手透きの者だけで構わないので、	　Only those who are free are fine,
+220006	+	　皆を大広間に集めてくれませんか」	　Could you gather everyone in the great hall?」
+
+220007	Houjou Suzu	「はっ、すぐに」	「Yes, right away.」
+
+220008	Nagata-kun	「ひょうじょう？　ってなーにー？」	「Council? What's that?」
+
+220009	Reset Kalar	「うーん、この場合は	「Hmm, in this case
+220010	+	　偉い人達で集まって会議することかな」	　it means important people gathering for a meeting.」
+
+220011	Yamamoto Rangi	「よければ皆さんも参加して下さい」	「If you'd like, please join us too.」
+
+220012	Nagata-kun	「えっ……？」	「Eh...?」
+
+220013	-	何故かあなた達も参加することになってしまった。	For some reason, you all ended up participating as well.

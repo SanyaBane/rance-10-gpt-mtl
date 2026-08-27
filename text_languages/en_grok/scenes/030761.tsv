@@ -1,0 +1,182 @@
+# 30761	２７０／闘将の部屋１	
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Reset Kalar	リセット	Female
+* Alkanese Rize	アルカネーゼ	Female
+* Sheila Helman	シーラ	Female
+* Patton Helman	パットン	Male
+* Hunty Kalar	ハンティ	Female
+* Caloria Cricket	カロリア	Female
+* Tousho	汎用闘将Ａ	Male
+* Tousho	汎用闘将Ｂ	Male
+* Tousho	汎用闘将Ｃ	Male
+* Miracle Tor	ミラクル	Female
+* Sachiko Centers	サチコ	Female
+
+29852	Rance	「……ん？　なんだこの扉。	「......Hmm? What's this door.
+29853	+	　これだけちゃんと閉じてるな」	　It's properly closed.」
+
+29854	-	見失った宝箱だんごを追ううちに、	While chasing the lost dango,
+29855	+	ランスは部屋を発見した。	Rance found a room.
+
+29856	Rance	「むっ。おいシィル。開けろ」	「Mu. Hey Sill. Open it.」
+
+29857	Sill Plain	「あっ、はい。ひらけごま〜」	「Ah, yes. Open sesame~」
+
+29858	-	シィルの魔力に反応して、	Reacting to Sill's magic power,
+29859	+	扉がゆっくりと開いた。	the door slowly opened.
+
+29860	Rance	「よしよし、ご苦労っと……」	「Good good, nice work......」
+
+29861	Rance	「………………おぉっ……？」	「............Ohhh......?」
+
+29862	-	開けた先に広がっていたのは、	Beyond the door was
+29863	+	鋼鉄の人形たちがずらりと勢揃いした光景だった。	a sight of steel dolls lined up in neat rows.
+
+29864	Reset Kalar	「わ。すごーい……いっぱいあるね……」	「Wow. Amazing...... So many......」
+
+29865	Sill Plain	「動くわけではない……みたいですね」	「They don't seem to be moving......」
+
+29866	Alkanese Rize	「闘将の……倉庫、って感じだな」	「Looks like a Tousho warehouse.」
+
+29867	Sheila Helman	「コントロールパネルが、ありますね……」	「There's a control panel......」
+
+29868	-	僅かに緊張した面持ちで、	With a slightly tense expression,
+29869	+	シーラがランスに目を遣った。	Sheila looked at Rance.
+
+29870	Rance	「やってみろ、シーラ。お前なら操れるんだろ」	「Try it, Sheila. You can control them, right?」
+
+29871	Sheila Helman	「……はい、ランス様」	「......Yes, Rance-sama.」
+
+29872	Patton Helman	「頼むぜ。そいつを動かせるかも知れない	「I'm counting on you. You're the only
+29873	+	　魔鉄匠は、もうお前しかいないんだ」	　Magic Iron Artisan left who can move them.」
+
+29874	Sheila Helman	「…………っ」	「......!」
+
+29875	-	小さく頷き、シーラがコンソールに触れると、	Sheila nodded slightly and touched the console,
+29876	+	コントロールパネル自体がうっすらと発光する。	causing the control panel to glow faintly.
+
+29877	Sheila Helman	「……………………」	「........................」
+
+29878	-	パネルに表示される、作動案内を	Sheila stared intently at the operation guide
+29879	+	シーラは食い入るように見つめながら、	displayed on the panel
+29880	+	慎重に、ひとつずつ作業を進めていく。	and carefully advanced each step.
+
+29881	Sill Plain	「シーラ様……すごく真剣ですね……」	「Sheila-sama...... looks really focused......」
+
+29882	Hunty Kalar	「魔鉄匠の資格があるとはいえ、	「Even with the Magic Iron Artisan qualification,
+29883	+	　聖魔法を学んだ訳じゃないんだ。	　she hasn't studied holy magic.
+29884	+	　最悪、闘将を暴走させるかも知れないしね……」	　Worst case, she might make the Tousho go berserk......」
+
+29885	Patton Helman	「いや……それだけじゃない」	「No...... It's not just that.」
+
+29886	-	パットンの妹を見る目が、	The way Patton looked at his sister
+29887	+	少しだけ気遣うような色を帯びた。	was tinged with concern.
+
+29888	Patton Helman	「ずっと、あいつは思い悩んでいたはずだ。	「She's been worrying for a long time.
+29889	+	　ヘルマンの民を……人類を、守れる力が欲しいと」	　Wanting the power to protect Helman's people...... humanity.」
+
+29890	Patton Helman	「政治も戦場指揮も、できるわけじゃない。	「She can't do politics or battlefield command.
+29891	+	　あいつが居るだけでその場の士気は上がるが、	　Just her presence raises morale,
+29892	+	　それ以上、何ができるわけじゃない」	　but that's about it.」
+
+29893	Patton Helman	「闘将なんて危険で未知の技術でも、	「Even if it's dangerous unknown technology like Tousho,
+29894	+	　手段があるなら、人を守る為に使いたい……	　if there's a way, she wants to use it to protect people......
+29895	+	　ここは、ようやくあいつが得た……戦場なんだ」	　This is finally a battlefield she can fight on.」
+
+29896	Sill Plain	「シーラ様……」	「Sheila-sama......」
+
+29897	-	やがて、コントロールパネルが音を立てる。	Eventually the control panel made a sound.
+29898	+	シーラの視線が、闘将達へと移る。	Sheila's gaze shifted to the Tousho.
+
+29899	Rance	「ふわあぁ……おっ、終わったか」	「Yawn...... Oh, done already?」
+
+29900	Sheila Helman	「はい、手順が正しければ、これで……」	「Yes, if the procedure was correct, this should......」
+
+29901	-	シーラの言葉に、百を超える甲冑が動く音がした。	With Sheila's words, over a hundred suits of armor began to move.
+
+29902	Caloria Cricket	「わ、わ、動いた……！」	「W-wow, they're moving......!」
+
+29903	Sheila Helman	「……………………」	「........................」
+
+29904	-	闘将達が、起動する。	The Tousho activated.
+
+29905	-	一体一体が、一軍に匹敵すると言われた	Each one, said to rival an entire army,
+29906	+	鋼の鬼神たちが、数百年の時を越えて――――	steel war gods crossed hundreds of years――――
+
+29907	-	――新たな主、シーラ・ヘルマンに一斉に傅いた。	and all bowed at once to their new master, Sheila Helman.
+
+29908	Sheila Helman	「あ、っ……！」	「Ah......!」
+
+29909	Tousho	「闘神都市Σ-ｼｸﾞﾏ-第七部隊、闘将132体。	「Toushin City Σ-Sigma Seventh Unit, 132 Tousho.
+29910	+	　貴殿の指揮下に入ります。	　We enter your command.
+29911	+	　我が主……で、よろしいか」	　Our master...... is that acceptable?」
+
+29912	Sheila Helman	「はい。	「Yes.
+29913	+	　私は……イグノンの末裔、シーラ・ヘルマン。	　I am...... Sheila Helman, descendant of Ignon.
+29914	+	　よろしくお願いします」	　Please treat me well.」
+
+29915	-	先頭の闘将が言葉を発し、	The lead Tousho spoke,
+29916	+	シーラはひとつ頷くと、小さく頭を下げた。	and Sheila nodded, bowing her head slightly.
+
+29917	-	主従の礼を終え、数人の闘将は	After the master-servant greeting, several Tousho
+29918	+	やおら起ち上がり…………	suddenly stood up......
+
+29919	Tousho	「イヤッホーーーーーーー！！	「Yeehaaaaaw！！
+29920	+	　今回のマスターは美少女だーーーーー！」	　This time the master is a beautiful girlーーー！」
+
+29921	Tousho	「うひょう、めっちゃ好みーーー！！	「Whoa, totally my typeーーー!!
+29922	+	　困らせたい、怒られたい！」	　I want to tease her and get scolded!」
+
+29923	-	拳を突き上げて、快哉を叫んだ。	They thrust their fists up and cheered.
+
+29924	Rance	「……………………は？」	「........................Huh?」
+
+29925	Sheila Helman	「え、え？」	「E-eh?」
+
+29926	Tousho	「黙らんか貴様ら！　いきなりはしゃぎおって！」	「Shut up, you idiots! Getting excited right away!」
+
+29927	Tousho	「えーっ、いいじゃないッスかー。	「Ehh, what's wrong with that~.
+29928	+	　仕事は楽しくしましょうぜー」	　Let's enjoy our work~」
+
+29929	Sheila Helman	「え、えーっと……？」	「U-umm......?」
+
+29930	Rance	「…………大丈夫か、こいつら。	「............Are these guys gonna be okay?
+29931	+	　なんか……イメージと違うぞ」	　They're kinda...... not what I imagined.」
+
+29932	Miracle Tor	「闘将は生前の人格を保った存在だからな。	「Tousho retain their personalities from life.
+29933	+	　陰気なのもいれば……という事か」	　Some are gloomy, some are like this......」
+
+29934	Miracle Tor	「絶対服従の魔法はかかっている。	「Absolute obedience magic is applied.
+29935	+	　主の命に背いたり危害を加えたりは、ない筈だ」	　They shouldn't disobey or harm their master.」
+
+29936	Tousho	「マスター！　スリーサイズは!?」	「Master! What's your three sizes!?」
+
+29937	Sheila Helman	「そ、そういう質問は困ります！」	「Q-questions like that are troubling!」
+
+29938	Tousho	「うひょーーーーう！　かーわいいーーー！」	「Whoaaa! So cuuuute!」
+
+29939	Rance	「……なんか、ぶっ殺したくなってきた」	「......I'm starting to want to kill them.」
+
+29940	Sachiko Centers	「あれ、学校で見た事ありますよ……	「I've seen that before at school......
+29941	+	　新任の女先生をからかう男子だ……」	　Boys teasing a new female teacher......」
+
+29942	Patton Helman	「まあ……戦力としちゃ問題はなかろう。	「Well...... as fighting strength they should be fine.
+29943	+	　シーラも、あれで手綱は取れるさ」	　Sheila should be able to handle them.」
+
+29944	Patton Helman	「どうする、魔人討伐隊に入れるか？」	「Want to add them to the Fiend Extermination Squad?」
+
+29945	Rance	「うるさいから要らん。	「Too noisy, no need.
+29946	+	　ウルザちゃんにでも預けて、躾けさせとけ」	　Leave them with Urza-chan for training.」
+
+29947	Sheila Helman	「では、移動をお願いします。	「Then please move out.
+29948	+	　場所は……」	　Destination is......」
+
+29949	Tousho	「えーッ！　マスターに命令されたいのにー！」	「Ehh! But I wanted Master to give me orders!」
+
+29950	Rance	「やかましい、さっさと行け！」	「Shut up, get moving!」
+
+29951	-	一部、渋々とした様子ながら、	Some reluctantly,
+29952	+	闘将達は命令通り、ランス城へと移動し始めた。	the Tousho began moving to Rance Castle as ordered.
+
+29953	-	132体の闘将が、人類の麾下に加わった。	132 Tousho joined humanity's forces.

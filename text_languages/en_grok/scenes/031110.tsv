@@ -1,0 +1,518 @@
+# 31110	５３２／ゼス被害２	
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Medusa	メディウサ	Female
+* Alefgard	アレフガルド	Male
+* Zeth Mage Soldier	汎用ゼス女魔法兵	Female
+* Monster General	汎用魔物将軍	Male
+* Nelson Server	ネルソン	Male
+* Papaya Server	パパイア	Female
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Monster Captain	汎用魔物隊長	Male
+
+51759	-	人類がなし得る魔法技術の粋を極め、	Pushing human magical technology to its limit,
+51760	+	巨額の予算と時間を投じて作られた、	built with enormous budget and time,
+51761	+	対魔軍要塞群、マジノライン。	the anti-Monster Army fortress cluster, Maginot Line.
+
+51762	-	幾度も魔軍の侵入を撃退してきた強固な要塞群は、	The sturdy fortresses that had repelled the Monster Army many times
+51763	+	メディウサ軍の突破は許したものの、	allowed Medusa's forces to break through one section,
+51764	+	その機能は未だ、崩壊してはいなかった。	but their functions had not yet collapsed.
+
+51765	-	突破された一区画を除いた各エリアは未だ頑強に	Except for the breached sector, each area still stubbornly
+51766	+	侵入を阻み、魔物界からの決定的な侵攻を	blocked invasion and continued to prevent
+51767	+	防ぎ続けていた。	a decisive assault from the Monster Realm.
+
+51768	-	しかし――――	However――――
+51769	+	その、人類最堅と呼べる軍事拠点は今、	That military stronghold called humanity's strongest
+51770	+	過去の存在になろうとしていた。	was now about to become a thing of the past.
+
+51771	Zeth Mage Soldier	「部隊長！　第二区に、新たに敵部隊侵入！」	「Captain! New enemy unit invading Sector 2!」
+
+51772	Zeth Mage Soldier	「迎撃装置は！」	「What about the interception devices!」
+
+51773	Zeth Mage Soldier	「作動しません！　解除されている模様！」	「They're not working! It looks like they've been disabled!」
+
+51774	Zeth Mage Soldier	「ぐ、馬鹿なっ！　破壊でもなく解除だと！？	「Guh, impossible! Disabled and not destroyed!?
+51775	+	　魔物がそんな真似を……！」	　How could monsters do that...!」
+
+51776	Zeth Mage Soldier	「な、なにか……何か来ます！」	「S-Something... something's coming!」
+
+51777	Medusa	「はーーあーーい。あっそびましょー」	「Heeeere I coooome. Let's plaaay.」
+
+51778	Zeth Mage Soldier	『ま、魔人メディウサ……！』	『F-Fiend Medusa...!』
+
+51779	Medusa	「たまには、外で狩りでもしようかと、ね」	「I thought I'd do some hunting outside for a change.」
+
+51780	Zeth Mage Soldier	『魔人であろうと、っ……！	『Even if you're a Fiend...!
+51781	+	　封印罠、準備…………』	　Prepare the sealing trap......』
+
+51782	Alefgard	「では失礼いたしまして。	「Excuse me then.
+51783	+	　お嬢様の往く道を迷宮掃除とまいりましょう」	　I shall clean the labyrinth along milady's path.」
+
+51784	-	メディウサの侵入経路に合わせ、	Matching Medusa's path of intrusion,
+51785	+	使徒である執事アレフガルドが、	her servant butler Alefgard
+51786	+	邪魔そうな仕掛けを片っ端から解除していく。	neutralized every troublesome trap one by one.
+
+51787	Zeth Mage Soldier	「あいつっ、あいつが、また…………！」	「That guy, that guy again...!」
+
+51788	Zeth Mage Soldier	『ぐ、第二区防衛隊！	『Guh, Sector 2 defense team!
+51789	+	　その魔物を排除してくれ！』	　Eliminate that monster!』
+
+51790	Zeth Mage Soldier	「りょ、了解……！」	「R-Roger...!」
+
+51791	Medusa	「あら。まあまあなの見っけ」	「Oh. Found some decent ones.」
+
+51792	-	隊伍を為してアレフガルドを排除しようと	The female officers formed ranks to eliminate Alefgard
+51793	+	動いた女性士官の前に、メディウサが現れた。	when Medusa appeared before them.
+
+51794	Zeth Mage Soldier	「ひっ……こ、こないで！	「Hii... d-don't come!
+51795	+	　スノーレーザー！」	　Snow Laser!」
+
+51796	Medusa	「はいはい、無駄無駄」	「Yes yes, useless useless.」
+
+51797	Zeth Mage Soldier	「かはっ……！」	「Kah...!」
+
+51798	Medusa	「アレフガルド、パース」	「Alefgard, catch.」
+
+51799	-	意識を失った女性兵士を、	Medusa grabbed the unconscious female soldier
+51800	+	メディウサは片手で掴んで執事へ放る。	with one hand and tossed her to the butler.
+
+51801	Alefgard	「おっとと」	「Whoops.」
+
+51802	Medusa	「傷つけちゃダメよ。自害もね」	「Don't damage them. No suicides either.」
+
+51803	Alefgard	「心得ております」	「Understood.」
+
+51804	-	アレフガルドは女性兵士を抱えたまま、	Carrying the female soldiers,
+51805	+	メディウサの先に立って防衛装置を	Alefgard walked ahead of Medusa
+51806	+	解除していく。	and kept disabling the defense devices.
+
+51807	Zeth Mage Soldier	「ぐ、く、くそっ……！	「Guh, damn it...!
+51808	+	　一区制御ルームより第三班！	　Third squad from Sector 1 control room!
+51809	+	　そちらから、魔人の使徒を……」	　Attack the Fiend's servant from there...」
+
+51810	Zeth Mage Soldier	「うっ！　た、隊長！！	「Ugh! C-Captain!!
+51811	+	　魔人が、こちらに…………！」	　The Fiend is coming this way...!」
+
+51812	Zeth Mage Soldier	「な、っ……！」	「Wha...!」
+
+51813	Medusa	「なぁんだ。男じゃない」	「Oh. Not a man.」
+
+51814	-	防衛隊長の首は無造作に刎ね飛ばされた。	The defense captain's head was casually sliced off.
+51815	+	一瞬の間を置き、その場にいた全ての兵士が	After a brief pause, every soldier present
+51816	+	同じ道を辿る。	followed the same path.
+
+51817	Medusa	「はー、今日も働いた働いた。	「Haa, worked hard again today.
+51818	+	　ちょっとご休憩しよっかな。ね？」	　Time for a little break, don't you think?」
+
+51819	Zeth Mage Soldier	「ひ…………あっ……」	「Hi...... ah...」
+
+51820	-	アレフガルドが運んできた女性士官の頬を、	Medusa's thin snake tongue slowly crawled across
+51821	+	蛇の薄い舌がゆっくりと這い回る。	the cheek of the female officer Alefgard had brought.
+
+51822	Medusa	「アレフガルドー。お茶ー」	「Alefgard~. Tea~」
+
+51823	Alefgard	「はいお嬢様。	「Yes, milady.
+51824	+	　本日はシナモンティーにしてみましたぞ」	　Today I prepared cinnamon tea.」
+
+51825	-	室内で、アレフガルドはデッキチェアと	Inside the room, Alefgard set up a deck chair and
+51826	+	サイドテーブルを置き、	side table,
+51827	+	メディウサは優雅に腰を下ろした。	and Medusa sat down elegantly.
+
+51828	Monster General	「メディウサ様！　それでは……」	「Lady Medusa! Then...」
+
+51829	Medusa	「適当に押し込んどいて」	「Just push them back somehow.」
+
+51830	-	一言で言い捨て、メディウサは部下を手で追い払う。	With one sentence, Medusa waved her subordinates away.
+51831	+	既に興味は、捕らえた女性へと向いていた。	Her interest had already turned to the captured women.
+
+51832	Monster General	「全軍、突撃！	「All forces, charge!
+51833	+	　中央管制室はメディウサ様が落としてくれたぞ！	　Lady Medusa has taken the central control room!
+51834	+	　後は食い放題だ！」	　The rest is an all-you-can-eat buffet!」
+
+51835	-	傍若無人なメディウサに代わり、	In place of the arrogant Medusa,
+51836	+	膨大な数の魔物兵が空を飛び、山道を駆け上がり、	a massive number of monster soldiers flew through the sky and charged up the mountain paths,
+51837	+	各制御ポイントへ押し寄せる。	swarming toward every control point.
+
+51838	Zeth Mage Soldier	「応答してください！	「Please respond!
+51839	+	　一区制御ルーム！　一区制御ルーム！　隊長！」	　Sector 1 control room! Sector 1 control room! Captain!」
+
+51840	Zeth Mage Soldier	「…………どうすりゃいいんだ……！」	「............What should we do...!」
+
+51841	Nelson Server	『――諸君、落ち着け！！』	『――Everyone, calm down!!』
+
+51842	-	突然、各制御ルームの通信に、	Suddenly, an unfamiliar voice rang out
+51843	+	聞き覚えのない声が響いた。	across the communications in every control room.
+
+51844	Nelson Server	『諸君らこそ、ゼス最後の砦だ！	『You are Zeth's final fortress!
+51845	+	　この国を憂う者として、立ち上がれ！』	　As those who care for this nation, rise up!』
+
+51846	Zeth Mage Soldier	「この声……ネルソン・サーバー……？」	「This voice... Nelson Server...?」
+
+51847	Nelson Server	「私はネルソン。ネルソン・サーバー。	「I am Nelson. Nelson Server.
+51848	+	　国家存亡の危機に微力を尽くしに来た！」	　I have come to offer my humble strength in this national crisis!」
+
+51849	Zeth Mage Soldier	『信じられるか、このA級テロリストが！	『You expect us to trust this A-class terrorist!
+51850	+	　以前このマジノラインを破壊した貴様が何を！』	　The man who previously destroyed this very Maginot Line!』
+
+51851	Nelson Server	「あれは必要な闘争だった。	「That was a necessary struggle.
+51852	+	　だがそれを論ずる時ではない」	　But now is not the time to debate it.」
+
+51853	Nelson Server	「全ての区画を、現在の戦力で守る事はできん！	「We cannot defend every sector with our current forces!
+51854	+	　防衛装置が生き残っている箇所へ戦力を集中し、	　Concentrate our forces on sectors where defense devices are still active,
+51855	+	　確実に拠点を残すのだ！」	　and secure at least some strongholds!」
+
+51856	Nelson Server	「今のマジノラインは既に、鉄壁の国境線ではない！	「The current Maginot Line is no longer an iron wall!
+51857	+	　後日、奪還し反攻するための足がかりだ！	　It is now a foothold for future recapture and counterattack!
+51858	+	　決断したまえ、明日のゼスの為に！」	　Make the decision for the sake of tomorrow's Zeth!」
+
+51859	Zeth Mage Soldier	「ど、どうしますか！	「W-What should we do!
+51860	+	　確かに、このままでは…………」	　Indeed, if we stay like this...」
+
+51861	Zeth Mage Soldier	「馬鹿を言え！	「Don't be ridiculous!
+51862	+	　あの血迷って大破壊を引き起こしたペンタゴンの、	　Following the leader of Pentagon who caused that mad great destruction,
+51863	+	　首領だった男に従って動くなど……！」	　is completely insane...!」
+
+51864	Nelson Server	『一区画でも守り抜き、逆転の日まで保たせれば	『If we can hold even one sector until the day of reversal,
+51865	+	　私たちの勝利だ！	　that will be our victory!
+51866	+	　今であれば、それは不可能ではない！』	　Right now, it is not impossible!』
+
+51867	Zeth Mage Soldier	「ええい、やかましいな！」	「Enough, shut up!」
+
+51868	Zeth Mage Soldier~	（……だが、現状ではこちらの戦線、	（...But in the current situation, our lines
+51869	+	　守れるものではない……他に、手は……！）	　cannot be held... is there any other way...!）
+
+51870	Zeth Mage Soldier	「…………やむを、えんか……！」	「............No choice...!」
+
+51871	Zeth Mage Soldier	「では……！？」	「Then...!?」
+
+51872	Zeth Mage Soldier	「現時刻をもってこの区画を放棄！　総員、移動！	「As of now, abandon this sector! All personnel, move!
+51873	+	　持ち場の魔法装置に封印処置を忘れるな！」	　Don't forget to seal the magic devices at your posts!」
+
+51874	-	ネルソンの言葉に呼応したのは、	Responding to Nelson's words,
+51875	+	結局六割ほどの人員だった。	about sixty percent of the personnel moved.
+
+51876	-	防衛装置が健在な第四区に集結し、	They gathered at Sector 4 where the defense devices were still intact,
+51877	+	人力もまじえた防衛体制を整える。	and prepared a defense that included manual reinforcement.
+
+51878	Zeth Mage Soldier	「ネルソン・サーバー。助言は痛み入る。	「Nelson Server. We appreciate the advice.
+51879	+	　が、我々は、貴殿の指揮下に入るわけではない。	　However, we will not fall under your command.
+51880	+	　早々に避難されよ」	　Please evacuate quickly.」
+
+51881	Nelson Server	「もちろんそれで構わないとも。	「Of course, that's fine.
+51882	+	　が、避難はせんよ。	　But I won't evacuate.
+51883	+	　この身ひとつでできる事をするのみだ」	　I'll simply do what I can with this one body.」
+
+51884	Zeth Mage Soldier	「魔軍、来ます！」	「Monster Army incoming!」
+
+51885	Zeth Mage Soldier	「むっ…………！」	「Mu......!」
+
+51886	-	押し寄せてくる魔軍の鼻先に、	Right in front of the advancing Monster Army,
+51887	+	広範囲の闇魔法が突き刺さった。	a wide-area dark magic strike landed.
+
+51888	Zeth Mage Soldier	「おおっ！？」	「Ohh!?」
+
+51889	Papaya Server	「…………あれ」	「............There.」
+
+51890	Zeth Mage Soldier	「パ、パパイア、様っ…………！？	「P-Papaya-sama...!?
+51891	+	　パパイア様だ……！」	　It's Lady Papaya...!」
+
+51892	Zeth Mage Soldier	「っ……パパイア様、って……	「...Lady Papaya...
+51893	+	　元四天王の……？」	　The former Four Lords...?」
+
+51894	Zeth Mage Soldier	「あぁ、禁呪混じりの非人道的な実験をし続けて、	「Ah, the one who kept doing inhuman experiments with forbidden curses
+51895	+	　四天王から外された、っていう…………」	　and was removed from the Four Lords...」
+
+51896	Papaya Server	「……そーぉよん☆	「...That's right☆
+51897	+	　可愛い子は頭から解剖しちゃうわよーん♪」	　I dissect cute kids starting from the head~♪」
+
+51898	Zeth Mage Soldier	「ひっ！？」	「Hii!?」
+
+51899	Papaya Server	「なんて、う・そ♪	「Just kidding♪
+51900	+	　ほら、連中もう来てるわよ」	　Look, they're already coming.」
+
+51901	Zeth Mage Soldier	「はっ……そ、総員、迎撃態勢！」	「Yes... a-all units, prepare to intercept!」
+
+51902	Nelson Server	「生きて……いたのか……	「She's... alive...
+51903	+	　しかも、その立ち振る舞い……」	　And that behavior...」
+
+51904	Papaya Server	「……そっちこそ」	「...Same to you.」
+
+51905	-	親娘がそれだけの言葉を交わしたところで、	After the mother and daughter exchanged those few words,
+51906	+	魔軍が押し寄せてきた。	the Monster Army came rushing in.
+
+51907	-	そこからのゼス軍の守りは頑強だった。	From then on, the Zeth army's defense was stubborn.
+
+51908	-	繰り返し、山を駆け上って攻めかかる魔軍に、	They repeatedly rained magic on the Monster Army charging up the mountain,
+51909	+	魔法を浴びせ、防衛装置を守り、	protected the defense devices,
+51910	+	麓へ突き落としていく。	and knocked them back down to the base.
+
+51911	-	飛行する魔物を叩き落とし、	They shot down flying monsters,
+51912	+	這い上がる魔物を突き落とし、	knocked back climbing monsters,
+51913	+	果てがないかと思われる攻めを、耐え凌ぎ続ける。	and continued enduring what seemed like an endless assault.
+
+51914	Papaya Server	「はいはいはーーい！　死爆、っと！	「Yes yes yeees! Death explosion, there!
+51915	+	　お代は見てのお帰りよん♪」	　Pay on the way out♪」
+
+51916	Nelson Server	「上空、連装弓で迎撃するのだ！	「Intercept the skies with repeating bows!
+51917	+	　右翼の電磁結界発生装置に敵！　魔法の斉射を！	　Enemy at the right wing electromagnetic barrier device! Magic barrage!
+51918	+	　……戦え、明日のために、同胞のために！」	　...Fight, for tomorrow, for your comrades!」
+
+51919	-	――一方、一区制御ルーム。	――Meanwhile, Sector 1 control room.
+
+51920	Zeth Mage Soldier	「んぐっ、あ、ひぐっ、ぎゃあああああああ！！」	「Nguh, ah, higu, gyaaaaaaaaah!!」
+
+51921	Medusa	「ふぅ、ん、っと…………あら？」	「Fuu, n... Oh?」
+
+51922	-	捕らえた少女を弄び終えたメディウサが、	After finishing toying with the captured girl,
+51923	+	ふと外の喧噪が止んでいない事に眉を動かした。	Medusa noticed the noise outside hadn't stopped and raised an eyebrow.
+
+51924	Medusa	「おーい、アレフガルドえもーん」	「Hey~, Alefgard~」
+
+51925	Alefgard	「なんですかな、その呼び方は……	「What kind of way to call me is that...
+51926	+	　外の状況でございますか？」	　Is it about the situation outside?」
+
+51927	Medusa	「ん。まだやってんの？」	「Yeah. Still going at it?」
+
+51928	Alefgard	「なかなか頑強なようですな。	「They seem quite stubborn.
+51929	+	　どうも、指揮官が別にいるようで……」	　It appears there's a separate commander...」
+
+51930	Medusa	「なぁに、それ……」	「What's that...」
+
+51931	-	よっこらしょ、とメディウサが	With a little effort, Medusa
+51932	+	血まみれのデッキチェアから身を起こす。	rose from the blood-stained deck chair.
+
+51933	Alefgard	「行かれますか？」	「Are you going?」
+
+51934	Medusa	「おかわりが居る、かもしんないでしょ？」	「There might be seconds, right?」
+
+51935	Papaya Server	「はい、しばーーーく！」	「Yes, take thiiis!」
+
+51936	-	ひっきりなしに、	Without pause,
+51937	+	パパイアの魔法が魔軍の前衛を叩く。	Papaya's magic struck the Monster Army's vanguard.
+
+51938	Papaya Server	「んー、ノミコン無いとこんなもんねー。	「Hmm, without my familiar it's only this much.
+51939	+	　ま、いっか」	　Well, whatever.」
+
+51940	Zeth Mage Soldier	「パパイア殿、お下がりを！	「Lady Papaya, please step back!
+51941	+	　防衛装置担当と交代してください！」	　Switch with the defense device team!」
+
+51942	Papaya Server	「そろそろガス欠かぁ……	「Running low on gas soon...
+51943	+	　そうね、そうさせてもらうわ」	　Yeah, I'll do that.」
+
+51944	Nelson Server	「第三班はまとめて下がるのだ！　代わりは四班！	「Third squad fall back together! Fourth squad replace them!
+51945	+	　クロスボウ隊は右翼に！	　Crossbow team to the right wing!
+51946	+	　偽エンジェルナイトの翼を狙え！」	　Aim for the fake Angel Knight's wings!」
+
+51947	Zeth Mage Soldier	「クロスボウ隊、迎撃に入る！	「Crossbow team, begin interception!
+51948	+	　総員、クォレル確認！　いくぞ！」	　All units, check quarrels! Let's go!」
+
+51949	-	余計な事を考えたり、	There was no room to think unnecessary thoughts
+51950	+	無用な警戒を抱える余裕などはない。	or hold needless caution.
+
+51951	-	後方から危機を指摘していくネルソンと、	Nelson pointing out dangers from the rear,
+51952	+	先頭で傷つきながら、強力な魔法で戦うパパイアを、	and Papaya fighting at the front with powerful magic while injured,
+51953	+	ゼス兵たちはいつしか受け入れていた。	were eventually accepted by the Zeth soldiers.
+
+51954	-	戦況の悪化と第四区の奮戦を知り、	Learning of the worsening situation and Sector 4's hard fight,
+51955	+	持ち場を放棄して合流する部隊も増えた。	more units abandoned their posts to join them.
+
+51956	Nelson Server	「ここが耐え所だ、精強なるゼスの兵たちよ！	「This is where we hold, proud soldiers of Zeth!
+51957	+	　蹂躙する魔軍から、同胞を、家族を、恋人を守れ！	　Protect your comrades, families, and lovers from the trampling Monster Army!
+51958	+	　一丸となれば楽には勝てぬと魔物に教えてやれ！」	　Show the monsters that together we are not easily defeated!」
+
+51959	Zeth Mage Soldier~	（まったく、いいように煽ってくれる……！）	（He's really good at riling them up...!）
+
+51960	-	だが、語り口によるものか、内容のせいか、	But whether due to his way of speaking or the content,
+51961	+	ネルソンの言葉は不思議と頭の中に入ってくる。	Nelson's words strangely stuck in their minds.
+
+51962	-	祖国を守るためにより良く戦えるのであれば、	If it helped them fight better for their homeland,
+51963	+	口車に乗ってやってもいいかと、思わされるのだ。	they felt it was fine to go along with his words.
+
+51964	Papaya Server	『はぁい、こちらパパイア、制御ルーム。	『Yes, this is Papaya at the control room.
+51965	+	　電磁結界、いくわよ！』	　Electromagnetic barrier, here it comes!』
+
+51966	-	敵陣深くに設定された電磁結界が、	The electromagnetic barrier set deep in enemy lines
+51967	+	ゼス軍の頭越しに魔軍を焼き尽くした。	burned through the Monster Army over the heads of the Zeth forces.
+
+51968	Zeth Mage Soldier	「っ、よしいける、か……？」	「...Alright, is it working...?」
+
+51969	-	転げ落ちていく魔物兵たちの、背後。	Behind the tumbling monster soldiers.
+51970	+	思わず拳を握ったゼス兵の、視線の先で。	In the direction the Zeth soldier was looking while clenching his fist.
+
+51971	-	災厄が、要塞に再びやって来た。	Calamity had returned to the fortress.
+
+51972	-	………………	..............
+
+51973	-	…………	........
+
+51974	-	……	...
+
+51975	Papaya Server	「っ、ひっどい話……	「...What a horrible story...
+51976	+	　めちゃくちゃじゃないのさぁ……」	　It's completely messed up...」
+
+51977	-	モニター越しの外の風景は、	The scenery outside seen through the monitor
+51978	+	つい先ほどとは一変していた。	had completely changed from just moments ago.
+
+51979	Zeth Mage Soldier	『うぐあああぁっ！』	『Uguaaaaah!』
+
+51980	Zeth Mage Soldier	『ぐ、あ、うおおおおおっ……ごはっ！』	『Gu, a, uoooooh... goha!』
+
+51981	-	ただ一人の魔人がピクニック気分で歩いてくるのを、	A single Fiend casually walking in like on a picnic
+51982	+	止める事ができない。	could not be stopped.
+
+51983	-	魔人が持つ無敵結界は物理的な攻撃の全てを遮断し、	The invincible barrier the Fiend possessed blocked all physical attacks,
+51984	+	傷つける事ができない。	making it impossible to injure her.
+51985	+	マジノラインの破壊光線砲でさえ、涼しい顔だった。	Even the Maginot Line's destruction beam cannons didn't faze her.
+
+51986	-	しかも、その爪が、蛇が、携えた剣が、	Moreover, every time her claws, snakes, or carried sword flashed,
+51987	+	閃く度に犠牲者が出る。既に、外は地獄絵図だった。	more victims fell. Outside had already become a scene from hell.
+
+51988	-	マジノラインは対魔軍防衛要塞である。	The Maginot Line was a fortress for defending against the Monster Army.
+51989	+	魔人の侵入も想定し、強力な封印を施したり、	It was designed with Fiend intrusion in mind, with powerful seals
+51990	+	動きを止めるための罠も、存在する……のだが。	and traps to stop movement... or so it should have been.
+
+51991	Papaya Server	「あのぬいぐるみ執事……やってくれるわねー……」	「That stuffed butler... really doing a number on us...」
+
+51992	-	メディウサに一人先行するアレフガルドが、	Alefgard, advancing ahead of Medusa alone,
+51993	+	超人的な働きでそれらの罠を無力化していく。	was neutralizing the traps with superhuman efficiency.
+
+51994	-	ネルソンの指示の元、懸命にアレフガルドを	Under Nelson's instructions they desperately tried to defeat Alefgard,
+51995	+	打倒しようとするのだが、動きを捉えられない。	but couldn't even catch his movements.
+51996	+	その間に、メディウサが暴虐の限りを尽くすのだ。	Meanwhile, Medusa committed every atrocity imaginable.
+
+51997	Papaya Server	「そりゃ、一日で落ちるわよねぇ……	「Of course it would fall in a single day...
+51998	+	　っ！」	　!」
+
+51999	-	頭上から衝撃が来た。	A shock came from above.
+52000	+	対空迎撃が行き届かなくなり、	Anti-air interception could no longer keep up,
+52001	+	飛行する魔物を抑えきれなくなってきていた。	and they could no longer hold back the flying monsters.
+
+52002	Nelson Server	「…………パパイア！」	「............Papaya!」
+
+52003	Green Monster Soldier	「ひへへへへ！　アタマはここかぁ！」	「Hehehehe! The head's right here!」
+
+52004	Papaya Server	「――――！」	「――――！」
+
+52005	-	魔物が、窓を粉砕して部屋に飛び込んできた。	A monster smashed through the window and flew into the room.
+52006	+	その手から投げ込まれた手斧が、凶悪に輝いた。	The hand axe thrown from its hand gleamed viciously.
+
+52007	Nelson Server	「お、おおおぉッ！」	「O, ooooh!」
+
+52008	Nelson Server	「…………っ、ぐ……かはっ……！」	「......Guh... Kah...!」
+
+52009	-	その瞬間、父がその前に割り込んだ。	In that instant, her father jumped in front of her.
+52010	+	苦もなく胸骨が砕かれ、鮮血と共に倒れる。	His sternum was shattered without resistance, and he collapsed in a spray of fresh blood.
+
+52011	Green Monster Soldier	「ちっ、なんだぁっ……！？」	「Tch, what the hell...!?」
+
+52012	Papaya Server	「こ、のっ…………アンコク！」	「Y, you...... Darkness!」
+
+52013	Green Monster Soldier	「ぎゃあっ！」	「Gyaaah!」
+
+52014	-	とっさに、侵入してきた魔物兵を魔法で撃ち抜く。	In a flash, she shot through the invading monster soldier with magic.
+
+52015	Papaya Server	「ちょッ……ちょっと！　大丈夫……！」	「Wait... just a moment! Are you okay...!」
+
+52016	Nelson Server	「な…………っ、ごほ、為すべき事を、為す、のだ。	「Wha...... cough, do what must be done.
+52017	+	　パパイア、っ……」	　Papaya......」
+
+52018	Papaya Server	「分かっ、て……分かってるわよ……！」	「I know... I know that...!」
+
+52019	-	判断すべき、タイミングだった。	It was time to make the decision.
+52020	+	外は、既にほとんどの兵が殺されている。	Outside, most of the soldiers had already been killed.
+52021	+	唇を噛んで、コンソールを叩く。	Biting her lip, she struck the console.
+
+52022	Nelson Server	「はあ…………っ、ぐ……	「Haa...... guh...
+52023	+	　本当に、元に、戻ったのだな……	　You really have returned to yourself...
+52024	+	　何が、あったのか…………」	　What on earth happened......」
+
+52025	Papaya Server	「…………っ…………」	「......」
+
+52026	-	一瞬、パパイアは真実を告げるべきか、逡巡した。	For a moment, Papaya hesitated whether to tell him the truth.
+
+52027	-	愛した男に騙され、魔導書の狂気に冒された……	Deceived by the man she loved, corrupted by the grimoire's madness...
+52028	+	それを告げる事が、死にゆく父の癒しになるのか。	Would telling him that bring any peace to her dying father?
+
+52029	Nelson Server	「私は、国を……変えたかった……	「I wanted to change... the country...
+52030	+	　旧態依然として……腐敗が、止まらぬ……	　Stuck in the old ways... corruption that wouldn't stop...
+52031	+	　世代を重ねる事に腐臭が増す、ばかりの国……」	　A country that only grew more rotten with each generation...」
+
+52032	Nelson Server	「誰かが……なにかをせねば……ならぬと、っ……	「Someone... had to do something...」
+52033	+	　淀んだ沼に……波紋を……生まなければ、とっ……」	　Had to create ripples... in that stagnant swamp...」
+
+52034	Nelson Server	「ペンタゴンの、是非は…………	「Whether the Pentagon was right or wrong...
+52035	+	　後の歴史が、判断して、くれよう……」	　Future history will judge that...」
+
+52036	Nelson Server	「だが、だから、っ……ゼスを、守る、のだ……	「But that's why... we must protect Zeth...
+52037	+	　その後の世を、残す、ためにっ……！」	　To leave behind a future...!」
+
+52038	Papaya Server	「……そうね。いい国になったし、なるわ、ゼスは。	「...Yes. Zeth has become a good country, and it will continue to be.
+52039	+	　きっと、命を賭ける価値がある。	　It's definitely worth risking your life for.
+52040	+	　……贖罪っていう理由が無くても、ね」	　...Even without the reason of atonement.」
+
+52041	Nelson Server	「………………ふふ」	「............Heh heh」
+
+52042	-	穏やかに微笑んで……ネルソンは、静かになった。	With a gentle smile... Nelson fell silent.
+
+52043	Papaya Server	「……………………父様」	「........................Father」
+
+52044	Medusa	「あら。まだ生き残りがいたのね。	「Oh my. There are still survivors.
+52045	+	　らーっきー」	　Lucky me.」
+
+52046	Papaya Server	「…………魔人、か……」	「............A Fiend, huh...」
+
+52047	Medusa	「ふぅん、まあ悪くないかな。	「Hmm, not bad I suppose.
+52048	+	　プライド高そうだし、	　She looks full of pride,
+52049	+	　ぐちゃぐちゃにしたら楽しそう」	　It'd be fun to mess her up completely.」
+
+52050	-	パパイアは、ふっと笑みを浮かべた。	Papaya let out a small smile.
+
+52051	Papaya Server	「まっぴら御免よ、このキチガイ女」	「No thank you, you crazy bitch.」
+
+52052	-	メディウサが踏み込んできた、瞬間。	The moment Medusa stepped forward.
+52053	+	パパイアは迷わず、コンソールのスイッチを押した。	Papaya pressed the console switch without hesitation.
+
+52054	Medusa	「――――――！」	「――――――！」
+
+52055	-	マジノライン四区の制御ルームが、爆炎に包まれた。	The control room of Maginot Line Sector Four was engulfed in explosive flames.
+
+52056	-	それと同時に近辺の山が崩落を起こし、	At the same time, the nearby mountain began to collapse,
+52057	+	一気に崩れていく。	crumbling all at once.
+
+52058	Monster Captain	「う、うおおおおぉっ！？　よ、避けろーーー！！」	「U, uoooooh!? E, evade-----!!」
+
+52059	Green Monster Soldier	「ひっ、な、な、なんだーーーー！？」	「Hii, w, what the hell is this-----!?」
+
+52060	-	反応する暇もなく、岩と土と瓦礫とに、	With no time to react, rocks, dirt, and debris
+52061	+	多数の魔軍が飲み込まれていく。	swallowed up a large number of the Monster Army.
+
+52062	-	もはやマジノラインに防衛能力は	The Maginot Line no longer had any defensive capability left,
+52063	+	残されていなかったが、この最後の自爆によって出た	but the damage inflicted on the Monster Army by this final self-destruction
+52064	+	魔軍の被害は、小さいものではなかった。	was far from small.
+
+52065	Alefgard	「……やれやれ、危ないところでございましたな」	「...Goodness, that was a close call.」
+
+52066	-	それらから離れた所で、	From a safe distance away,
+52067	+	主を救出し終えた執事が安堵の溜息をついた。	the butler who had finished rescuing his mistress let out a relieved sigh.
+
+52068	Medusa	「ふん、面白くないわね。	「Hmph, how boring.
+52069	+	　あたしは別に危なくなかったわよ」	　I wasn't in any danger anyway.」
+
+52070	Alefgard	「いかなお嬢様の無敵結界といえど、	「Even with milady's invincible barrier,
+52071	+	　生き埋めにされたら面倒でございましょう？」	　being buried alive would still be troublesome, would it not?」
+
+52072	Medusa	「うっさいわねっ！」	「Shut up!」
+
+52073	Alefgard	「うぎぎぎぎっ！　し、絞らんでくだされー！」	「Ugyugyugyu! P, please don't squeeze meee!」
+
+52074	Medusa	「ふん。帰る」	「Hmph. We're going home.」
+
+52075	Alefgard	「はい。湯浴みの準備を整えております。	「Yes. Your bath is prepared.
+52076	+	　ごゆるりとお休みくださいませ」	　Please rest at your leisure.」
+
+52077	-	メディウサは一度だけ爆心地を振り仰ぐと、	Medusa glanced once toward the explosion site,
+52078	+	それきり興味を失ったように去っていった。	then left as if she had lost all interest.
+
+52079	-	真っ赤な太陽が、沈んでいく。	The deep red sun was sinking.
+
+52080	-	マジノラインが陥落した。	The Maginot Line had fallen.

@@ -1,0 +1,165 @@
+# 31193	２４０／５／開戦	
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Pizarro	大将軍ピサロ	Male
+* Convert Tax	コンバート	Male
+* Lei	レイ	Male
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Cecil Carna	セシル	Female
+* Copandon Dott	コパンドン	Female
+* Shinoda Gengorou	篠田源五郎	Male
+
+59235	-	そして、翌朝になった。	And so, the next morning arrived.
+
+59236	Green Monster Soldier	「ピサロ閣下！	「General Pizarro!
+59237	+	　第1から第4師団、出撃準備完了いたしました！」	　Divisions 1 through 4 are ready to deploy!」
+
+59238	Pizarro	「うむ」	「Yes.」
+
+59239	Convert Tax	「向こうとも、連絡取れてまっせぇ。	「Contact with the other side is established.
+59240	+	　打ち合わせ通りですわ！」	　Just as planned!」
+
+59241	Pizarro	「…………今度こそ、間違いないのだろうな？	「............This time it's certain, right?
+59242	+	　自信満々に、内通させると抜かしておったが……」	　You were so confident about making them betray...」
+
+59243	Convert Tax	「そらもう！　絶対に成功しますわ！	「Of course! It will definitely succeed!
+59244	+	　ワイのこの、たったひとつの命だって	　I'd even bet my one and only life on it!」
+59245	+	　賭けられまっせぇ！」	
+
+59246	Pizarro	「……よかろう」	「...Very well.」
+
+59247	Lei	「おう」	「Yeah.」
+
+59248	Pizarro	「はっ……レイ様！　おはようございます！」	「Hah... Lady Lei! Good morning!」
+
+59249	Lei	「出るぜ。邪魔するんじゃねェぞ」	「I'm heading out. Don't get in my way.」
+
+59250	Pizarro	「はっ……いえその、しかし！	「Hah... No, but!
+59251	+	　まだお怪我が完治されていないはず……	　Your injuries shouldn't be fully healed yet...
+59252	+	　ここは、なんでしたら我々だけでも……」	　If you want, we can handle it ourselves...」
+
+59253	Lei	「……あぁ？」	「...Huh?」
+
+59254	Pizarro	「うっ……！」	「Ugh...!」
+
+59255	-	髪の奥の眼光がピサロを射貫き、	The sharp glare from behind her hair pierced Pizarro,
+59256	+	その巨体を射すくめる。	freezing his massive body.
+
+59257	Lei	「この程度、ハンデだ。ちょうどいい。	「This much is just a handicap. It's perfect.
+59258	+	　…………試してみるかよ？」	　............Want to test me?」
+
+59259	Pizarro	「いいい、いえいえいえ！	「N-No no no!
+59260	+	　お、お好きになさってください！」	　P-Please do as you wish!」
+
+59261	Lei	「あの野郎も来てるんなら……	「If that bastard is coming too...
+59262	+	　しっかり礼をしなきゃな」	　I need to give him a proper greeting.」
+
+59263	Pizarro~	（く……これ以上引き留めるのは限界か……	（Kuh... I can't hold her back any longer...
+59264	+	　戦況に無関係な所で死んでくれんものか……）	　I wish she'd just die somewhere unrelated to the battle...）
+
+59265	Convert Tax	「ああ、せやせや！	「Ah, that's right!
+59266	+	　レイはん、この、こういう旗印のヤツには、	　Lady Lei, please don't touch anyone with this flag mark,」
+59267	+	　触らんとってくださいや」	
+
+59268	Lei	「なんかガタガタと動いてたのがそれか」	「So that's the ones that were moving around noisily.」
+
+59269	Convert Tax	「ええ、えぇ。仲間になる連中ですさかい」	「Yes, yes. They're the ones who will become our allies.」
+
+59270	Lei	「……全部殺しゃいいのによ」	「...It'd be easier to just kill them all.」
+
+59271	-	つまらなさそうに吐き捨てて、	She spat out those words with boredom,
+59272	+	レイはそのまま姿を消した。	and Lei vanished on the spot.
+
+59273	Pizarro	「……おい！　配置にはついてるのだろうな！」	「...Hey! You're all in position, right!」
+
+59274	Green Monster Soldier	「えっ、あっ、はい！」	「Eh, ah, yes!」
+
+59275	Pizarro	「気を抜くのではないぞ！　きびきび動け！」	「Don't let your guard down! Move sharply!」
+
+59276	Green Monster Soldier	「は、ははっ！」	「Y-Yes!」
+
+59277	Convert Tax~	（ホンマ、相手によって態度変わりよるなぁ……）	（She really changes her attitude depending on who she's talking to...）
+
+59278	Pizarro	「さぁ出撃だ！」	「Now, deploy!」
+
+59279	Rance	「ふあぁぁぁぁ……うむ、朝か……」	「Fuaaaaa... Yeah, it's morning...」
+
+59280	-	その頃。コーヒーの匂いが鼻をくすぐって、	Around that time. The smell of coffee tickled his nose,
+59281	+	ランスはようやく目を覚ましたところだった。	and Rance finally woke up.
+
+59282	Sill Plain	「あっ、おはようございます、ランス様……	「Ah, good morning, Rance-sama...
+59283	+	　ずいぶんお休みでしたね」	　You slept quite a lot.」
+
+59284	Rance	「ふふん、そうだな。	「Heh, yeah.
+59285	+	　ゆうべはちょっと、お楽しみ過ぎたわ」	　Last night I had a bit too much fun.」
+
+59286	-	シィルが淹れたコーヒーを啜りながら、	While sipping the coffee Sill brewed,
+59287	+	ニヤリとランスが笑う。	Rance grinned.
+
+59288	Sill Plain	「う…………あ、う……で、でも、それ……」	「U... Ah, u... B-But, that...」
+
+59289	-	お楽しみ、という言葉に釣られて見ると、	Drawn by the word 'fun', she looked down
+59290	+	ランスの兵器は今日も天を突いている。	and saw Rance's weapon standing tall once again today.
+
+59291	Rance	「ん？　おお、今日も絶好調だな。がはははは！	「Hm? Oh, it's in top form again today. Gahahahaha!
+59292	+	　よしこい、シィル！」	　Come on, Sill!」
+
+59293	Sill Plain	「えっ、え、でも、皆さんお待ちですよ。	「Eh, ehh, but everyone is waiting.
+59294	+	　もう、戦争が始まって……きゃっ！」	　The war has already started... Kyaa!」
+
+59295	Rance	「がはははは、このエロ奴隷が！	「Gahahahaha, you erotic slave!
+59296	+	　ならばさっさとイかせるように努力しろ！」	　Then work hard to make me cum quickly!」
+
+59297	Sill Plain	「あ、ああぁぁっ！　ひんひん……」	「A-Aaahh! Hiiin...」
+
+59298	-	自由都市連合軍　司令部――――	Free Cities Alliance Army Headquarters――――
+
+59299	Free Cities Guard	「前衛、射程距離に入りました！	「Vanguard has entered firing range!
+59300	+	　発砲許可、よろしいですか！」	　Permission to fire?」
+
+59301	Cecil Carna	「ギリギリまで引きつけろ！	「Draw them in as close as possible!
+59302	+	　カスタム砲兵隊、弓兵隊、魔法隊による斉射の後、	　After the volley from the custom artillery, archers, and mages,
+59303	+	　間を置かずに突撃する！」	　charge immediately without pause!」
+
+59304	Copandon Dott	「てばさき隊に帰り木配っといてや！	「Hand out the return rations to the Tebasaki unit!
+59305	+	　軍師はん曰く、今日はこき使われるらしいで！」	　The strategist says we'll be worked hard today!」
+
+59306	Shinoda Gengorou	「例の部隊の準備もいいかな。	「The special unit is ready too, right?
+59307	+	　いつでもピッチに出られるようにしといてね」	　Keep them ready to take the field anytime.」
+
+59308	Rance	「おう。なんだ騒がしいな」	「Yeah. It's pretty noisy out there.」
+
+59309	Copandon Dott	「ランス！　もう始まっとるで」	「Rance! It's already started.」
+
+59310	Rance	「どんな具合だ？」	「How's it looking?」
+
+59311	Copandon Dott	「両軍が接触したトコや。	「Both armies have made contact.
+59312	+	　まだ魔人とか大将軍とか、大物の姿は無いな」	　No sign of Fiend or Great Generals yet.」
+
+59313	Rance	「そーかそーか、よし。	「I see, I see, good.
+59314	+	　そこら辺が出てくるまで見物のつもりだったが、	　I was planning to watch until the big ones show up,
+59315	+	　ちょいと出るか。戦いたい気分だ」	　but I'll head out now. I'm in the mood to fight.」
+
+59316	Copandon Dott	「え、ホンマ？　ええと、ちょっと待ってな……」	「Eh, really? Um, wait a sec...」
+
+59317	Shinoda Gengorou	「総統さん、こっちのルートで行ってくれます？」	「Supreme Leader, could you take this route?」
+
+59318	Rance	「む？」	「Hm?」
+
+59319	-	篠田源五郎が、地図の上に指で線を引いた。	Shinoda Gengo drew a line on the map with his finger.
+
+59320	Shinoda Gengorou	「すごく強いんですよね。	「You're really strong.
+59321	+	　じゃあここをこう進んで……」	　So if you advance like this...」
+
+59322	Rance	「めんどくさい。	「Too troublesome.
+59323	+	　俺は好きなようにドカーンといくのだ」	　I'll just charge in however I like.」
+
+59324	Shinoda Gengorou	「このルートだと、たぶんばっちり活躍できますよ。	「On this route you'll probably shine perfectly.
+59325	+	　ハットトリックだって狙えます」	　You could even aim for a hat trick.」
+
+59326	Rance	「ほう……まぁ、参考程度に聞いておいてやるか」	「Hmm... Well, I'll keep it in mind as reference.」
+
+59327	Sill Plain	「ランス様、皆さん準備いいみたいです」	「Rance-sama, everyone seems ready.」
+
+59328	Rance	「よし行くぞ、突撃だーーー！！」	「Alright, let's go! Charge-----!!」

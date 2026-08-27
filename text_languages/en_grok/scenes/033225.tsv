@@ -1,0 +1,553 @@
+# 33225	６０３／解決編	
+* Old Woman	汎用婆	Female
+* Rocky Bank	ロッキー２	Male
+* Aegis Kalar	イージス	Female
+* Reset Kalar	リセット２	Female
+* Nagata-kun	長田君２	Male
+* Nagi su Ragarl	ナギ２	Female
+* Masou Shizuka	志津香２	Female
+* Vital Fit	バイタル	Male
+* Old Man	汎用爺	Male
+* El Mofus	エール２	Player's choice
+
+214799	-	戻ってきたローブの少女の指示により、	Following the instructions of the returned robed girl,
+214800	+	宿屋のロビーに被害者も含めた	all parties involved in the incident, including the victims,
+214801	+	事件の関係者全てが集められた。	were gathered in the inn lobby.
+
+214802	Old Woman	「あらあら……」	「My my...」
+
+214803	-	そこには昨夜出会った、	There was the old lady from the neighboring room
+214804	+	隣の部屋の老婦人。	whom you met last night.
+
+214805	-	そして――	And――
+
+214806	Rocky Bank	「どきどき……どきどき……	「Thump thump... Thump thump...
+214807	+	　うう、おらどうなっちまうだ……」	　Uuu, what will happen to me...」
+
+214808	-	容疑者であるロッキーの姿もあった。	The suspect Rocky was also present.
+
+214809	Aegis Kalar	「言われた通り、	「As instructed,
+214810	+	　宿屋中の方々を集めました。	　I gathered everyone in the inn.
+214811	+	　これで全てかと」	　I think that's everyone.」
+
+214812	Reset Kalar	「うん、ありがとう、イージスさん」	「Yes, thank you, Aegis-san.」
+
+214813	Nagata-kun	「あれ？　あのカラーの姉ちゃんって……」	「Huh? That Kalar girl is...」
+
+214814	Reset Kalar	「ああ、こちらはイージスさん。	「Ah, this is Aegis-san.
+214815	+	　今回は助手として来てもらったの」	　She's here as my assistant this time.」
+
+214816	Aegis Kalar	「まったく……	「Good grief...
+214817	+	　こんなことがパステル様に知られたら――」	　If Pastel-sama finds out about this――」
+
+214818	Reset Kalar	「えへへ、ごめんね」	「Ehehe, sorry.」
+
+214819	Reset Kalar	「ええと、それでは皆さん、	「Umm, everyone,
+214820	+	　大変お待たせして申し訳ありません。	　sorry for keeping you waiting so long.
+214821	+	　そろそろ始めましょうか」	　Shall we begin?」
+
+214822	Nagi su Ragarl	「ぶーぶー、本当に待ちくたびれたぞー。	「Boo boo, I was really tired of waiting.
+214823	+	　別行動してから、	　After you went off on your own,
+214824	+	　三時間も待たせてくれちゃってー」	　you made us wait three whole hours.」
+
+214825	Masou Shizuka	「ナギ、あんた黙ってなさい」	「Nagi, be quiet.」
+
+214826	Nagi su Ragarl	「はい、お姉様」	「Yes, big sis.」
+
+214827	-	ナギは自分のお口を両手で覆った。	Nagi covered her own mouth with both hands.
+
+214828	Reset Kalar	「もう……」	「Jeez...」
+
+214829	Reset Kalar	「さて、集まって頂いたのは他でもありません」	「Now, the reason I gathered you all here is
+
+214830	Reset Kalar	「この事件の犯人が分かったからです」	　because I have identified the culprit.」
+
+214831	?	「お、おお！」	「O-Oh!」
+
+214832	?	「すごい、あっという間ではないか！」	「Amazing, so quick!」
+
+214833	Reset Kalar	「まず、最初に大事なこと……」	「First, the most important thing...」
+
+214834	Reset Kalar	「容疑者達の中に、	「Among the suspects,
+214835	+	　犯行に及べる方はいませんでした」	　there was no one capable of committing the crime alone.」
+
+214836	Nagi su Ragarl	「え、そうなの？」	「Eh, really?」
+
+214837	Reset Kalar	「うん、理由はいくつかあるけど……	「Yes, there are several reasons...
+214838	+	　盗品の謎もあるしね」	　and the mystery of the missing stolen goods too.」
+
+214839	Nagi su Ragarl	「……なんだっけ、それ？」	「...What was that again?」
+
+214840	Masou Shizuka	「消えた盗品のことでしょ」	「The missing stolen goods, right?」
+
+214841	Masou Shizuka	「容疑者である私達は宿の外に出てないのに、	「We suspects haven't left the inn,
+214842	+	　宿屋内にもないし、売りに出されたわけでもない」	　yet the goods aren't in the inn and haven't been sold.」
+
+214843	Masou Shizuka	「……ただ私が言うことじゃないけど、	「...Though it's not for me to say,
+214844	+	　根拠としては弱いわよ？	　that's weak evidence on its own?
+214845	+	　外に持ち出す手なんていくらでもあるもの」	　There are many ways to smuggle things out.」
+
+214846	Reset Kalar	「うん、他にも理由はあるけど、	「Yes, there are other reasons too,
+214847	+	　とりあえずその話は後で」	　but let's put that aside for now.」
+
+214848	Reset Kalar	「私がまず気になったのは、	「What first caught my attention
+214849	+	　盗品が一点だけ落ちていた、	　was the single stolen item found
+214850	+	　ロッキーさんの部屋でした」	　in Rocky's room.」
+
+214851	Reset Kalar	「より正確に言うと、	「More precisely,
+214852	+	　ロッキーさんの部屋の開きっぱなしの窓です」	　it was the open window in Rocky's room.」
+
+214853	Reset Kalar	「犯人はそこから侵入してたのです」	「The culprit entered through there.」
+
+214854	Nagi su Ragarl	「うん？　でも、当日は魔王ランスのせいで、	「Hm? But on that day because of Demon King Rance,
+214855	+	　厳戒態勢で誰も入れなかったんじゃ？」	　the area was on high alert and no one could enter, right?」
+
+214856	Reset Kalar	「その中でも自由に出入り出来た人物がいるの」	「Even then, there was one person who could freely enter and exit.」
+
+214857	Reset Kalar	「バイタルさん。	「Vital-san.
+214858	+	　事件当夜の施錠の様子はどうでした？」	　What was the state of the locks on the night of the incident?」
+
+214859	Vital Fit	「え、ええと……そうですね……」	「U-Um... Well...」
+
+214860	Vital Fit	「魔王ランスの騒ぎのせいで、	「Because of the Demon King Rance commotion,
+214861	+	　基本的にどの部屋も鍵はかかっていませんでした」	　basically none of the rooms were locked.」
+
+214862	Vital Fit	「盗みに入られた部屋に至っては	「For the rooms that were robbed,
+214863	+	　扉すら閉じてなかったのがほとんどです」	　most didn't even have their doors closed.」
+
+214864	Reset Kalar	「ありがとうございます」	「Thank you.」
+
+214865	Reset Kalar	「つけ加えると、逆に鍵がかかってなくても、	「Additionally, even in rooms without locks,
+214866	+	　扉が開いてない室内からは	　almost nothing was stolen
+214867	+	　何も盗まれてないのがほとんどでした」	　if the doors were closed.」
+
+214868	Reset Kalar	「犯人は扉を開けたくても	「The culprit wanted to open doors
+214869	+	　開けられない事情があったのです」	　but had a reason they couldn't.」
+
+214870	Nagata-kun	「ううん？	「Hmm?
+214871	+	　手が使えないとか？」	　Like they couldn't use their hands?」
+
+214872	Reset Kalar	「そう、犯人にはとある事情があって、	「Yes, the culprit had a certain circumstance
+214873	+	　自分で扉を開けられなかったの」	　that prevented them from opening doors themselves.」
+
+214874	Reset Kalar	「そして、盗まれたものは	「And the stolen items
+214875	+	　貴金属がほとんど……」	　were mostly precious metals...」
+
+214876	Reset Kalar	「これが示すのは……」	「This indicates...」
+
+214877	-	ローブの少女がゆっくりと手を上げ、	The robed girl slowly raised her hand
+214878	+	そして一点を指さした。	and pointed at one spot.
+
+214879	Reset Kalar	「犯人は……あなたです！」	「The culprit is... you!」
+
+214880	Nagata-kun	「え……あれって……」	「Eh... That's...」
+
+214881	?	「…………」	「............」
+
+214882	?	「カーーーッ……」	「Cawww...」
+
+214883	-	ローブの少女が指さしたもの、	What the robed girl pointed at
+214884	+	それは窓の外にいるカラスだった。	was a crow outside the window.
+
+214885	Nagata-kun	「って、カラス！？」	「A crow!?」
+
+214886	Reset Kalar	「うん、そうなの」	「Yes, that's right.」
+
+214887	Reset Kalar	「窓から侵入してきて、扉を開けられず、	「It entered through the window, couldn't open doors,
+214888	+	　貴金属だけ盗む、金目当てでない犯人……」	　and only stole precious metals, not for money...」
+
+214889	Old Man	「光り物を集める習性のあるカラス……	「A crow that has the habit of collecting shiny things...
+214890	+	　だったというわけか！」	　So that's what it was!」
+
+214891	Reset Kalar	「事前に巣の中は調べました。	「I checked the nest in advance.
+214892	+	　イージスさん」	　Aegis-san.」
+
+214893	Aegis Kalar	「調べて出て来たのがこちらです」	「This is what I found when I investigated.」
+
+214894	-	イージスがそっと、大量の貴金属を持ってきた。	Aegis gently brought out a large amount of precious metals.
+
+214895	?	「ああ、そのネックレスは私のよ！」	「Ah, that necklace is mine!」
+
+214896	?	「おおっ、その指輪は私のだ！」	「Ohh, that ring is mine!」
+
+214897	Reset Kalar	「それでは盗まれた物品に関しては、	「Regarding the stolen items,
+214898	+	　後で返却の時間を設けたいと思います」	　we'll set up a time for their return later.」
+
+214899	Reset Kalar	「これにて一件落着。	「This concludes the case.
+214900	+	　皆様、ご静聴ありがとうございましたー」	　Thank you all for listening quietly.」
+
+214901	Nagata-kun	「おー、あっという間に、	「Whoa, in no time at all,
+214902	+	　犯人が見つかったなぁ」	　the culprit was found.」
+
+214903	Nagata-kun	「良かったっすね、ロッキーさん！」	「That's great, Rocky-san!」
+
+214904	Rocky Bank	「こ、これでおら、捕まらずに済みそうだ……」	「W-With this, it looks like I won't get arrested...」
+
+214905	Nagi su Ragarl	「うーん……そうだねぇ……」	「Hmm... Yeah...」
+
+214906	Masou Shizuka	「…………」	「............」
+
+214907	-	皆が喜ぶ中、ナギと志津香は、	While everyone was celebrating, Nagi and Shizuka
+214908	+	浮かない顔をしていた。	had dark expressions.
+
+214909	Masou Shizuka	「＜エール＞、貴方達が盗まれたのって、	「＜エール＞, what was stolen from you
+214910	+	　確か紹介状だったわよね？」	　was the introduction letters, right?」
+
+214911	El Mofus	「…………。」	「............」
+
+214912	-	あなたは頷いた。	You nodded.
+
+214913	Masou Shizuka	「ふぅ〜ん……」	「Hmm...」
+
+214914	Nagata-kun	「ん？　なんすか？」	「Hm? What is it?」
+
+214915	Masou Shizuka	「うぅん、なんでもないの」	「No, it's nothing.」
+
+214916	Nagata-kun	「へ？」	「Eh?」
+
+214917	Old Woman	「…………」	「............」
+
+214918	-	…………	............
+
+214919	-	……	......
+
+214920	-	ロビーでの謎解きが終わった後、	After the mystery solving in the lobby ended,
+214921	+	一部の人間だけがとある客室に集められていた。	only a select few people were gathered in a certain guest room.
+
+214922	Nagata-kun	「あのー、俺らなんで集められたんすか？」	「Um, why were we gathered?」
+
+214923	-	その場には、あなた達と、ローブの少女とイージス、	Present were you, the robed girl, Aegis,
+214924	+	支配人ムラクモ、警備員バイタル、	manager Murakumo, security guard Vital,
+214925	+	あなたの隣の部屋に宿泊したマリー婦人がいた。	and Marie Madam who stayed in the room next to yours.
+
+214926	Old Man	「うむ、何か用があるものと見受けられますが……」	「Hmm, it seems there's something you need...」
+
+214927	Vital Fit	「…………」	「............」
+
+214928	Old Woman	「あのぉ〜……	「Umm...
+214929	+	　ところで、私の盗まれた品だけ、	　By the way, only my stolen items
+214930	+	　まだ返却をしてもらってないのだけど？」	　haven't been returned yet?」
+
+214931	Reset Kalar	「すみません、マリー婦人。	「Sorry, Marie Madam.
+214932	+	　もう少しだけお付き合い下さい。	　Please bear with us a little longer.
+214933	+	　盗品の返却もその後に……」	　We'll return the stolen goods after this...」
+
+214934	Reset Kalar	「では、事件の真相を、	「Now, I will reveal the true nature of this incident
+214935	+	　この場にいる人達だけで	　to only the people present here.」
+214936	+	　明らかにしようと思います」	
+
+214937	Rocky Bank	「え、真相だすか！？」	「Eh, the truth!?」
+
+214938	Nagata-kun	「って、カラスが犯人なんじゃ……」	「But wasn't the crow the culprit...?」
+
+214939	Masou Shizuka	「それだけじゃ説明がつかないことがあるのよ」	「There are things that can't be explained with just that.」
+
+214940	Nagi su Ragarl	「『最高級ルームの施錠』よね」	「The 'Locking of the Highest-Class Room', right?」
+
+214941	Masou Shizuka	「そちらの婦人の部屋と、＜エール＞の部屋、	「Both that lady's room and ＜エール＞'s room
+214942	+	　この二つだけは、	　were the only two
+214943	+	　事件当時は厳重に鍵がかけられていた」	　that were tightly locked at the time of the incident.」
+
+214944	Masou Shizuka	「扉も開けられないカラスには無理よ」	「A crow that can't open doors couldn't do it.」
+
+214945	Nagi su Ragarl	「加えて、＜エール＞の盗まれたものは紙の紹介状。	「Additionally, what was stolen from ＜エール＞ was paper introduction letters.
+214946	+	　カラスじゃあ、ちょっと盗まないよね」	　A crow wouldn't steal those.」
+
+214947	Old Woman	「ああ、なるほど言われてみれば……	「Ah, now that you mention it...
+214948	+	　どういうことか説明して頂けるかしら？」	　Could you explain what this means?」
+
+214949	Reset Kalar	「その為に皆だけ呼びました」	「That's why I called only you here.」
+
+214950	Nagata-kun	「えーと、カラスは犯人じゃなかったってこと？」	「Umm, so the crow wasn't the culprit?」
+
+214951	Reset Kalar	「うぅん、ほとんどの犯行はカラスによるもの。	「No, most of the thefts were done by the crow.
+214952	+	　これは間違いないわ」	　That's certain.」
+
+214953	Reset Kalar	「この事件、本当はとてもシンプルなの」	「This incident is actually very simple.」
+
+214954	Reset Kalar	「単独で犯行可能な人を探そうとすると、	「When looking for someone who could commit the crime alone,
+214955	+	　一人もいないけど……」	　there isn't anyone...」
+
+214956	Reset Kalar	「カラス以外に犯人がもう一人いるだけ」	「There's just one more culprit besides the crow.」
+
+214957	Reset Kalar	「複数の犯人が、別々の場所で、	「Multiple culprits committed
+214958	+	　窃盗という同じ犯罪に手を染めた。	　the same crime of theft in different places.
+214959	+	　ただそれだけの事件だったの」	　That's all this incident was.」
+
+214960	Reset Kalar	「まず、ロッキーさんを始めとした、	「First, Rocky-san and the rest of ＜エール＞-chan's party
+214961	+	　＜エール＞ちゃん達には不可能」	　couldn't have done it
+
+214962	Reset Kalar	「＜エール＞ちゃん達には	　because they couldn't enter
+214963	+	　マリーさんのお部屋に入れないからね」	　Marie-san's room.」
+
+214964	Reset Kalar	「逆も然りで、マリーさんもまた	「The reverse is also true; Marie-san
+214965	+	　＜エール＞ちゃんの部屋には入れない」	　couldn't enter ＜エール＞-chan's room either.」
+
+214966	Reset Kalar	「同様の理由で志津香さんとナギちゃんも無理」	「For the same reason, Shizuka-san and Nagi-chan couldn't either.」
+
+214967	Nagata-kun	「あれ？　容疑者が全員消えた！？」	「Huh? All the suspects disappeared!?」
+
+214968	Masou Shizuka	「忘れたの？	「Did you forget?
+214969	+	　犯人が盗みに入る部屋はたった二つだけよ」	　The culprit only robbed two rooms.」
+
+214970	Nagi su Ragarl	「アリバイがあった人も、	「Even people who had alibis
+214971	+	　そのアリバイがもう崩れてる状態だよ」	　have alibis that no longer hold up.」
+
+214972	Reset Kalar	「両方に入るにはマスターキーが必要で……	「To enter both rooms, you need the master key...
+214973	+	　それを持っているのは支配人のムラクモさん、	　The ones who have it are manager Murakumo-san
+214974	+	　警備員であるバイタルさんの二人だけ」	　and security guard Vital-san.」
+
+214975	Reset Kalar	「ただし、ムラクモさんは、	「However, Murakumo-san
+214976	+	　事件の時にアリバイがある」	　has an alibi for the time of the incident.」
+
+214977	Reset Kalar	「残るのは……一人だけです……」	「The only one left is... one person...」
+
+214978	Reset Kalar	「犯人は……貴方ですよね？」	「The culprit is... you, right?」
+
+214979	Reset Kalar	「警備員バイタルさん」	「Security guard Vital-san.」
+
+214980	Vital Fit	「…………」	「............」
+
+214981	Nagata-kun	「ええ、この人！？」	「Eh, this person!?」
+
+214982	Reset Kalar	「イージスさん」	「Aegis-san.」
+
+214983	Aegis Kalar	「ん。	「Nn.
+214984	+	　すまんが、失礼する」	　Sorry, excuse me.」
+
+214985	-	イージスがバイタルの身体検査を行う。	Aegis performed a body search on Vital.
+
+214986	Aegis Kalar	「…………」	「............」
+
+214987	Aegis Kalar	「……見つかったな。	「...Found it.
+214988	+	　紹介状と指輪だ」	　The introduction letters and a ring.」
+
+214989	Old Woman	「ああ、良かったわ……」	「Ah, thank goodness...」
+
+214990	Nagata-kun	「ってことは、やっぱり！」	「So it really was!」
+
+214991	Vital Fit	「はい……	「Yes...
+214992	+	　私が犯人です」	　I am the culprit.」
+
+214993	Vital Fit	「み、皆さん！　申し訳ありません！」	「E-Everyone! I'm so sorry!」
+
+214994	-	バイタルはその場で	Vital got down on the floor
+214995	+	床に額を擦りつけて土下座した。	right there and pressed his forehead to the ground in apology.
+
+214996	Old Man	「……この馬鹿者が！」	「...You idiot!」
+
+214997	Old Man	「答えろバイタル！	「Answer me, Vital!
+214998	+	　どうしてこのようなことをした！」	　Why did you do something like this!」
+
+214999	Vital Fit	「う、うう……」	「U, uuu...」
+
+215000	-	バイタルは訥々と語り出す。	Vital begins to speak haltingly.
+
+215001	Vital Fit	「わ、私は……	「I, I...
+215002	+	　年老いた母と二人で暮らしています」	　live together with my elderly mother.」
+
+215003	Vital Fit	「貧しいながらも平和な生活……	「It was a poor but peaceful life...
+215004	+	　だったのですが……」	　or so it was...」
+
+215005	Reset Kalar	「最近そのお母様がご病気に……	「Recently your mother fell ill...
+215006	+	　そうよね？」	　right?」
+
+215007	Vital Fit	「…………」	「............」
+
+215008	Vital Fit	「はい、その通りです……」	「Yes, that's correct...」
+
+215009	Vital Fit	「手術が必要なのですが、	「She needs surgery,
+215010	+	　その金額が膨大で自分ではとても……」	　but the cost is enormous and I couldn't possibly...」
+
+215011	Vital Fit	「母の病状は悪くなる一方……	「Her condition keeps getting worse...
+215012	+	　ですがお金はない……」	　but we have no money...」
+
+215013	Vital Fit	「私は参っておりました」	「I was at my wit's end.」
+
+215014	Vital Fit	「そんなとき、昨日の騒ぎが発生し、	「Then yesterday's commotion happened,
+215015	+	　お客様の避難誘導をしている時、	　while I was guiding the guests to evacuate,
+215016	+	　ふと気づいてしまったのです」	　and I suddenly realized something.」
+
+215017	Vital Fit	「今、ここで盗みを働けば、	「If I stole something right here and now,
+215018	+	　母が助かるかも知れない、と……」	　maybe I could save my mother...」
+
+215019	Nagi su Ragarl	「魔が差しちゃったって奴だ」	「That's what happens when the devil tempts you.」
+
+215020	Vital Fit	「……今でも思い出すと、恐ろしくなります」	「...Even now, remembering it scares me.」
+
+215021	Vital Fit	「次の日になると驚きました……	「The next day I was shocked...
+215022	+	　気づけば私の窃盗が宿屋中で	　before I knew it, my theft had been pinned
+215023	+	　行われたことになっていて……」	　as happening all over the inn...」
+
+215024	Vital Fit	「それでロッキー様が捕まるようなことになり……」	「And that led to Rocky-sama getting arrested...」
+
+215025	Reset Kalar	「あー、うん……うん……」	「Ah, yeah... yeah...」
+
+215026	-	何故かローブの少女は気まずそうに	For some reason the girl in the robe awkwardly
+215027	+	顔を逸らしていた。	turned her face away.
+
+215028	Reset Kalar	「ちょ、ちょっといいかな？」	「Um, can I say something?」
+
+215029	Reset Kalar	「バイタルさんが行ったお医者さんね、	「The doctor Vital-san went to,
+215030	+	　その、言いにくいけど……」	　this is hard to say but...
+
+215031	Reset Kalar	「悪徳医師として有名な人なの」	　is famous as a corrupt doctor.」
+
+215032	Vital Fit	「えっ……」	「Eh...」
+
+215033	Masou Shizuka	「あんた、なんでそんなこと知ってるの？」	「How do you know that?」
+
+215034	Nagi su Ragarl	「あっ、分かった。	「Ah, I get it.
+215035	+	　別行動って言って、その辺調べてたんだ」	　You said separate action and went around investigating.」
+
+215036	Reset Kalar	「うん、そうなんだ」	「Yeah, that's right.」
+
+215037	Reset Kalar	「最初にバイタルさんの評判を調べたら……	「When I first looked into Vital-san's reputation...
+215038	+	　絶対に犯罪なんかするような奴じゃないって、	　everyone said she was definitely not the type to commit crimes,
+215039	+	　そんな話ばかり聞くから、何かあるなって」	　so I thought something must be going on.」
+
+215040	Reset Kalar	「それで失礼だと思ったけど、	「I knew it was rude but,
+215041	+	　身辺調査をしたら、お母様のことを知って……」	　I investigated her background and learned about her mother...」
+
+215042	Reset Kalar	「あのお医者さんね……	「That doctor...
+215043	+	　界隈では有名な人なの……	　is well known around here...
+215044	+	　悪徳で法外な値段をふっかけるって」	　for being corrupt and charging insane prices.」
+
+215045	Vital Fit	「そ、そんな……」	「N, no way...」
+
+215046	Reset Kalar	「その分、非合法な人でも診られる、	「On the other hand, he treats illegal patients too,
+215047	+	　イリーガルなお医者さんとして需要もあるから、	　so there's demand for him as an illegal doctor,
+215048	+	　必要悪なところもあるんだけど……」	　he's a necessary evil in some ways...」
+
+215049	Reset Kalar	「いや、だから……とにかく！」	「Anyway, so... in short!」
+
+215050	Reset Kalar	「……ごめんなさい！	「...I'm sorry!
+215051	+	　今回、バイタルさんが騙されたのは、	　This time Vital-san being tricked
+215052	+	　私のせいでもあるの！」	　is partly my fault too!」
+
+215053	Vital Fit	「…………」	「............」
+
+215054	-	バイタルは怒っているというより、	Vital was less angry
+215055	+	唖然と言葉を失っていた。	and more stunned into silence.
+
+215056	Reset Kalar	「お母様なら今は別のお医者様……	「Your mother is now seeing a different doctor...
+215057	+	　こっちはちゃんとした方ね。	　a proper one this time.
+215058	+	　に、診て貰ってるから安心して」	　So you can rest easy.」
+
+215059	Reset Kalar	「手術も必要なく、	「No surgery needed,
+215060	+	　投薬治療で充分治るって」	　medication should be enough to cure her.」
+
+215061	Vital Fit	「そ、それじゃ……	「T, then...
+215062	+	　母は治るんですか？」	　my mother will get better?」
+
+215063	Reset Kalar	「うん、大丈夫」	「Yeah, she'll be fine.」
+
+215064	Vital Fit	「そう、ですか……」	「I, I see...」
+
+215065	Vital Fit	「ああ……」	「Ahh...」
+
+215066	Vital Fit	「良かった……」	「Thank goodness...」
+
+215067	Old Woman	「…………」	「............」
+
+215068	Old Man	「馬鹿者が……」	「You fool...」
+
+215069	Vital Fit	「ほ、本当にありがとうございます……っ」	「Th, thank you so much...!」
+
+215070	Reset Kalar	「うぅん、私はただ紹介しただけで……	「No, I only introduced her...
+215071	+	　大したことはなにも……」	　I didn't do anything major...」
+
+215072	Vital Fit	「……いえ」	「...No.」
+
+215073	Vital Fit	「これで心残りはなくなりました。	「Now I have no regrets.
+215074	+	　安心して罪が償えます」	　I can pay for my crime with peace of mind.」
+
+215075	Vital Fit	「リセット様、本当に……	「Reset-sama, really...
+215076	+	　本当にありがとうございました！」	　thank you so much!」
+
+215077	-	バイタルは幼女相手に、	Vital bowed deeply
+215078	+	臆面もなく土下座した。	without hesitation before the young girl.
+
+215079	Masou Shizuka	「なにはなくとも……」	「At any rate...」
+
+215080	Nagi su Ragarl	「まあ、これで本当に一件落着、だね」	「Well, this case is really closed now.」
+
+215081	Nagi su Ragarl	「あ〜、久し振りに頭使ったから、	「Ah~, using my head after so long,
+215082	+	　疲れちゃったぁ〜」	　I'm exhausted~」
+
+215083	Nagata-kun	「…………」	「............」
+
+215084	Nagata-kun	「え……」	「Eh...」
+
+215085	Nagata-kun	「おい、ちょっと、おっさん。	「Hey, old man.
+215086	+	　あんた、今なんて言った？」	　What did you just say?」
+
+215087	Vital Fit	「え？　リセット様、本当にありがとう、と……」	「Eh? I said thank you so much, Reset-sama...」
+
+215088	Nagata-kun	「…………」	「............」
+
+215089	Nagata-kun	「ええええ！？　リセット！？」	「Ehhhhh!? Reset!?」
+
+215090	Nagata-kun	「じゃあ、まさか、リセット・カラーって！」	「Then, no way, you're Reset Kalar!」
+
+215091	Reset Kalar	「あ……変なところでバレちゃった……」	「Ah... got exposed in a weird way...」
+
+215092	Reset Kalar	「こほん……」	「Ahem...」
+
+215093	-	ローブの少女――あらため、	The girl in the robe一now revealed as,
+215094	+	リセットがあなたの前にちょこんと立つ。	Reset stood cutely in front of you.
+
+215095	Reset Kalar	「それじゃあ……最後に残った謎……	「Well then... the last remaining mystery...
+215096	+	　その種明かしをしましょうか」	　shall I reveal it?」
+
+215097	Reset Kalar	「あるときは謎のローブの少女、	「Sometimes a mysterious girl in a robe,
+215098	+	　またあるときは美少女探偵。	　sometimes a beautiful girl detective.
+215099	+	　しかして、その正体は――」	　And her true identity is一一」
+
+215100	-	少女がローブを脱ぐ。	The girl removed her robe.
+
+215101	Nagata-kun	「ああっ！」	「Aah!」
+
+215102	Reset Kalar	「…………」	「............」
+
+215103	-	そこに立っているのは、	Standing there was,
+215104	+	紛れもなく――	without a doubt一一
+
+215105	Reset Kalar	「カラーの姫兼シャングリラ外交官、	「Kalar's princess and Shangri-La diplomat,
+215106	+	　そして、あなたの姉、	　and your older sister,
+215107	+	　リセット・カラーと申します」	　Reset Kalar.」
+
+215108	-	スカートを持ち上げ、軽く膝を折り、	She lifted her skirt slightly and curtsied,
+215109	+	リセットが正式な挨拶を行う。	performing a formal greeting.
+
+215110	-	そして、すぐににっこりと笑った。	Then she smiled brightly right away.
+
+215111	Reset Kalar	「よろしくね、＜エール＞ちゃん」	「Nice to meet you, ＜エール＞-chan.」
+215112	+	「うん！」	「Yeah!」
+
+215113	Nagi su Ragarl	「でも正体バレバレだったよ？」	「But your identity was totally obvious?」
+
+215114	Masou Shizuka	「そうよね……」	「Right...」
+
+215115	Reset Kalar	「え、ええっ！？」	「E, ehh!?」
+
+215116	Reset Kalar	「あはは、驚いてくれてる？」	「Ahaha, are you surprised?」
+
+215117	Nagi su Ragarl	「でも私達には正体バレバレだったよ？	「But it was completely obvious to us?
+215118	+	　なに遊んでるのかなと思ってた」	　We were wondering what you were playing at.」
+
+215119	Masou Shizuka	「そうよね……」	「Right...」
+
+215120	Reset Kalar	「え、ええっ！？」	「E, ehh!?」
+
+215121	Reset Kalar	「ええっ！？」	「Ehh!?」
+
+215122	Masou Shizuka	「でしょうね……」	「Of course...」
+
+215123	Nagi su Ragarl	「謎？　謎って言った？	「Mystery? You said mystery?
+215124	+	　バレバレだったのに謎って言った？」	　When it was totally obvious?」
+
+215125	Reset Kalar	「う、うわーん！」	「U, uwaaah!」
+
+215126	-	あなたはようやく、姉である	You have finally reunited
+215127	+	リセット・カラーに巡り会えた。	with your older sister, Reset Kalar.

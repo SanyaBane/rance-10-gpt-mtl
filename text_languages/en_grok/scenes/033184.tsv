@@ -1,0 +1,131 @@
+# 33184	６０２／スタート	route
+* Rocky Bank	ロッキー２	Male
+* Wass	ワッス２	Male
+* Doss	ドッス２	Male
+* Nagata-kun	長田君２	Male
+* El Mofus	エール２	Player's choice
+
+210602	-	朝――	Morning――
+
+210603	-	森の中で一夜過ごしたあなたは、	After spending the night in the forest,
+210604	+	瞼を擦りながらテントの中から這い出る。	you rubbed your eyes and crawled out of the tent.
+
+210605	-	朝の森は少し冷たい風が流れ、	A slightly cold wind blew through the morning forest,
+210606	+	寝起きでボーッとする頭が覚醒していくのを	and you felt your sleepy head gradually waking up.
+210607	+	あなたは感じていた。	
+
+210608	Rocky Bank	「あ、おはようございますだ、＜エール＞様。	「Ah, good morning, ＜エール＞-sama.
+210609	+	　朝ご飯、すぐに出来るだすよ」	　Breakfast will be ready soon.」
+
+210610	Wass	「ぺこり……」	「Bow...」
+
+210611	Doss	「……ぺこり」	「...Bow.」
+
+210612	Nagata-kun	「おう、おはよーさん、相棒」	「Yo, morning partner.」
+
+210613	-	一緒に冒険をする仲間達に挨拶をして、	After greeting your adventure companions,
+210614	+	あなたはロッキーに手渡されたコーヒーで	you moistened your throat with the coffee Rocky handed you.
+210615	+	喉を潤した。	
+
+210616	Nagata-kun	「＜エール＞、今日は寝ぼすけさんだったな。	「＜エール＞, you were a sleepyhead today.
+210617	+	　へへ、駄目だぜ？　俺みたいに	　Hehe, that's no good? You gotta wake up early
+210618	+	　早起きして髪の毛セットするくらいじゃなきゃ」	　like me and style your hair.」
+
+210619	Nagata-kun	「見てくれよ！	「Look at this!
+210620	+	　今日はセットがもう会心の出来！	　Today's styling is perfect!
+210621	+	　十年に一度のできばえ！」	　Once in a decade quality!」
+
+> male
+210622	Nagata-kun	「お前も俺みたいに	「If you don't care about fashion
+210623	+	　お洒落に気ぃ使わないと、	　like me,
+210624	+	　女の子にモテないぜーマジ」	　you won't be popular with girls for real.」
+
+> female
+210625	Nagata-kun	「お前も俺みたいに	「If you don't care about fashion
+210626	+	　お洒落に気ぃ使わないと、	　like me,
+210627	+	　男の子にモテないぜーマジ」	　you won't be popular with boys for real.」
+
+> end
+210628	El Mofus	「…………。」	「............」
+210629	-	　	　
+210630	+	　　＜わちゃわちゃ、わちゃわちゃ＞	　　＜Ruffle ruffle, ruffle ruffle＞
+
+210631	-	　	　
+210632	+	　　＜ぐちゃぐちゃ、ぐちゃぐちゃ＞	　　＜Mush mush, mush mush＞
+
+210633	-	　	　
+210634	+	　　＜もみくちゃ、もみくちゃ＞	　　＜Scramble scramble＞
+
+210635	Nagata-kun	「いやーーーーーーー！？」	「Noooooooo!?」
+
+210636	Nagata-kun	「ちょっ！　お前！　マジ！	「Hey! You! Seriously!
+210637	+	　なんでそういうことすっかなー！」	　Why do you do stuff like thisー!」
+
+210638	-	ぺしぺしぺし。	Slap slap slap.
+210639	+	あなたは長田君に叩かれた。	Nagata-kun slapped you.
+
+210640	-	今日も冒険が始まる。	Another day of adventure begins.
+
+210641	-	…………	............
+
+210642	-	……	...
+
+210643	-	メンバーは森の中で、	The party was in the forest,
+210644	+	ロッキー手製の簡単な食事を取り、	eating Rocky's simple homemade meal,
+210645	+	食後の休憩をしていた。	and taking a break after eating.
+
+210646	Rocky Bank	「これから砂漠のシャングリラに行くだすから、	「Since we're heading to the desert Shangri-La,
+210647	+	　砂漠越えの準備もしないといけないだすなぁ」	　we need to prepare for crossing the desert.」
+
+210648	Nagata-kun	「砂漠越えの準備？」	「Preparations for crossing the desert?」
+
+210649	Rocky Bank	「大量の水に、できればうし車、	「Lots of water, preferably an ox cart,
+210650	+	　ああ、それから日よけのマントも」	　ah, and sun protection cloaks too.」
+
+210651	Rocky Bank	「最近は砂漠越えも簡単になったと聞くだすが、	「I've heard crossing the desert has gotten easier lately,
+210652	+	　それでも油断は禁物だすからな」	　but we still can't let our guard down.」
+
+210653	Nagata-kun	「うぇー、面倒そう」	「Uweh, sounds like a pain.」
+
+210654	Rocky Bank	「これもリセット様を仲間にする為だす」	「This is all to recruit Reset-sama.」
+
+210655	Rocky Bank	「＜エール＞様は魔王ランス様を止める使命の為、	「＜エール＞-sama has the mission to stop Demon King Rance-sama,
+210656	+	　これから魔王の子を仲間にしなくちゃいけないだ」	　so we must recruit the Demon King's children.」
+
+210657	Rocky Bank	「シャングリラに行くのは絶対だすから、	「We absolutely must go to Shangri-La,
+210658	+	　がんばっていきましょうだ」	　so let's do our best.」
+
+210659	Nagata-kun	「ふーん、そんなもんっすかぁ」	「Hmm, I see.」
+
+210660	Nagata-kun	「あと、魔王退治に必要なのは、	「Also, to defeat the Demon King we need
+210661	+	　五つのオーブだっけか……」	　five orbs, right...?」
+
+210662	Nagata-kun	「ところで気になってたんだけどさぁ」	「By the way, I've been wondering,
+
+210663	Nagata-kun	「魔王を倒す為に必要な五つのオーブって……	「what exactly are those five orbs needed to defeat the Demon King...
+210664	+	　これ何に使うん？」	　used for?」
+210665	+	「て、適当……」	「Just randomly...」
+
+210666	Nagata-kun	「いや、そんなわけないっしょ！？」	「No way that's it!?」
+
+210667	Nagata-kun	「お前も知らないんかい！」	「You don't know either!」
+
+210668	Nagata-kun	「＜エール＞って……何も知らないよな……」	「＜エール＞... you really don't know anything...」
+
+210669	Rocky Bank	「あ、あはは……」	「A-ahaha...」
+
+210670	Rocky Bank	「それじゃあ、次に目指すは、	「Well then, our next destination is
+210671	+	　国際共同都市シャングリラだす」	　the international joint city Shangri-La.」
+
+210672	Rocky Bank	「お父上であるランス様を止めることも、	「Stopping your father Rance-sama,
+210673	+	　きっと＜エール＞様なら出来る筈ですだ。	　I'm sure ＜エール＞-sama can do it.
+210674	+	　がんばりましょうだー」	　Let's do our bestー.」
+
+210675	Nagata-kun	「おー」	「Yeahー」
+
+210676	Wass	「こくこく……」	「Nod nod...」
+
+210677	Doss	「……こくこく」	「...Nod nod.」
+
+210678	-	あなた達は世界の中心地、	You all set off toward
+210679	+	シャングリラを目指して出発した。	the world's central city, Shangri-La.

@@ -1,0 +1,197 @@
+# 33111	６１１／旅館冒険	
+* Reset Kalar	リセット２	Female
+* Lelikov Helman	レリコフ２	Female
+* Mix Tou	ミックス２	Female
+* Tokugawa Tone	深根２	Female
+* Zance Leazas	ザンス２	Male
+* Yamamoto Rangi	乱義２	Male
+* Nagi su Ragarl	ナギ２	Female
+* Hero Helman	ヒーロー２	Male
+* Nagata-kun	長田君２	Male
+* Sushinu the Gandhi	スシヌ２	Female
+* Dark Rance	ダークランス２	Male
+* Kentou Uzume	ウズメ２	Female
+* Masou Shizuka	志津香２	Female
+
+203830	Reset Kalar	「はーい、ここが男部屋になりまーす」	「Okay~, this will be the boys' room~」
+
+203831	Lelikov Helman	「うっわー！　ひっろーい！」	「Uwaa! It's so biiig!」
+
+203832	Mix Tou	「ん……結構、景色いいわね……」	「Hmm... The view is pretty nice...」
+
+203833	Tokugawa Tone	「んむぅ……畳……いい……」	「Nmuu... Tatami... nice...」
+
+203834	-	あなた達は広い部屋に通される。	You were led to a spacious room.
+203835	+	外の緑豊かな景色が臨める窓は、広く取られ、	The windows offered a wide view of the lush green scenery outside,
+203836	+	開けると優しく風が吹き込んでくる。	and a gentle breeze came in when opened.
+
+203837	-	畳の爽やかな香りが気持ちのいい部屋だった。	It was a pleasant room with the fresh scent of tatami.
+
+203838	Zance Leazas	「って、コラァ！　ここは男部屋だぞ！	「Hey! This is the boys' room!
+203839	+	　テメェらわきゃわきゃしてねぇで出てけ！」	　You girls stop making noise and get out!」
+
+203840	Lelikov Helman	「えー、ここにいちゃ駄目？」	「Ehh, we can't stay here?」
+
+203841	Mix Tou	「ちょっと休憩したら出てくわよ」	「We'll leave after a short break.」
+
+203842	Zance Leazas	「ぐっ、うちの女共はマジでこう……」	「Guh, the girls in my family are seriously like this...」
+
+203843	Yamamoto Rangi	「諦めろ、ザンス。	「Give it up, Zance.
+203844	+	　レリコフは探索楽しんでるし、	　Lelikov Helman is enjoying exploring,
+203845	+	　ナギさんはお茶を淹れ始めた」	　and Nagi-san already started making tea.」
+
+203846	Yamamoto Rangi	「そして……	「And...
+203847	+	　深根はもう寝てる」	　Mine is already asleep.」
+
+203848	Tokugawa Tone	「すやすや……」	「Zzz...」
+
+203849	Yamamoto Rangi	「隣の部屋を男部屋にしよう」	「Let's make the next room the boys' room.」
+
+203850	Zance Leazas	「ったく、こいつらは……」	「Geez, these guys...」
+
+203851	Reset Kalar	「アハハ、先に女部屋に行くべきだったね……」	「Ahaha, we should have gone to the girls' room first...」
+
+203852	Nagi su Ragarl	「ね、ね、晩ご飯って何時からなの？」	「Hey hey, what time is dinner?」
+
+203853	Reset Kalar	「夜の七時に頼んでおいたよ」	「I requested seven in the evening.」
+
+203854	Nagi su Ragarl	「ん〜、結構間があるねぇ」	「N~, that's still quite a while.」
+
+203855	Lelikov Helman	「じゃあ、旅館を冒険しよーっ！」	「Then let's explore the inn!」
+
+203856	Hero Helman	「うん、行こう行こう！」	「Yeah, let's go let's go!」
+
+203857	-	…………	............
+
+203858	-	……	...
+
+203859	-	あなた達は大人数で連れ立ってロビーまで来てみた。	You all went to the lobby together in a big group.
+
+203860	Lelikov Helman	「あっ、卓球台があるよ！	「Ah, there's a ping-pong table!
+203861	+	　ねーねー、やろうよ！」	　Hey hey, let's play!」
+
+203862	Zance Leazas	「ふん、まあ暇を潰すにはちょーどいいか」	「Hmph, well it's perfect for killing time.」
+
+203863	Zance Leazas	「おう」	「Yeah.」
+
+203864	Yamamoto Rangi	「……まあ、いいだろう」	「...Well, I guess it's fine.」
+
+203865	-	二人はわずかな会話と目配せだけで、	With just a few words and glances,
+203866	+	卓球台の前に立ち、ラケットを構える。	the two stood in front of the ping-pong table and readied their paddles.
+
+203867	Zance Leazas	「行くぞ！」	「Here I go!」
+
+203868	-	　	　
+203869	+	　　＜すこ〜ん……かんこん……＞	　　<Boing... clack...>
+
+203870	-	　	　
+203871	+	　　＜すかっ！＞	　　<Swish!>
+
+203872	Nagata-kun	「…………」	「............」
+
+203873	Nagata-kun	「よわっ、へたっ！」	「So weak, so bad!」
+
+203874	Nagata-kun	「えっ……二人はもっと上手いのかと……」	「Eh... I thought you two were better...」
+
+203875	Zance Leazas	「ぐううう……！」	「Guuuuh...!」
+
+203876	Zance Leazas	「こんなチマチマしたスポーツは	「This tiny precise sport
+203877	+	　俺様の趣味じゃねーんだよ！」	　isn't my style!」
+
+203878	Yamamoto Rangi	「……卓球は未経験でね」	「...I've never played ping-pong before.」
+
+203879	Nagata-kun	「にへっ……」	「Nihe...」
+
+203880	Nagata-kun	「ぃよーっし、俺とも勝負しよーぜ！	「Alright, play me too!
+203881	+	　うひひ、この二人に華麗に勝てる	　Hehehe, this is a rare chance
+203882	+	　チャンスはそうそうないからな！」	　to beat these two beautifully!」
+
+203883	Zance Leazas	「十分休憩入れるぞ！」	「I'll give you ten minutes break!」
+
+203884	Yamamoto Rangi	「いいだろう」	「Fine with me.」
+
+203885	Nagata-kun	「って、こらー！　無視すんなよ！？」	「Hey! Don't ignore me!?」
+
+203886	Zance Leazas	「ちょっと黙ってろ！」	「Shut up for a bit!」
+
+203887	-	ザンスはピンポン玉とラケットを持ったまま	Zance, still holding the ping-pong ball and paddle,
+203888	+	壁に向かってブツブツと言い出し、	started muttering toward the wall,
+203889	+	乱義は部屋に置かれていた卓球の本を読み出した。	while Rangi started reading a ping-pong book left in the room.
+
+203890	-	十分後――	Ten minutes later--
+
+203891	Zance Leazas	「ふんっ！」	「Hmph!」
+
+203892	Yamamoto Rangi	「はあっ！」	「Haa!」
+
+203893	-	　	　
+203894	+	　　＜カンコンカンコンカンコンカン！＞	　　<Clack clack clack clack clack!>
+
+203895	Nagata-kun	「って、うわっ！　うまっ！　上手くなっとる！」	「Whoa! They're good! They've gotten better!」
+
+203896	Zance Leazas	「噛み殺されろっ！」	「I'll bite you to death!」
+
+203897	Yamamoto Rangi	「ギアを上げていくぞ！」	「I'm shifting gears!」
+
+203898	-	　	　
+203899	+	　　＜スコココココココ！＞	　　<Skokokokoko!>
+
+203900	-	最早常人には玉を目で追うことすら困難なほどに	The rally had become so intense that normal people
+203901	+	ラリーは白熱していた。	could barely follow the ball with their eyes.
+
+203902	Sushinu the Gandhi	「え、えーい……カコーン」	「E-ei... Kakoon.」
+
+203903	Lelikov Helman	「あわわわっ！　か、カコーン！」	「Awawawah! K-kakoon!」
+
+203904	Sushinu the Gandhi	「おとと……！　カコーン！」	「Oto...! Kakoon!」
+
+203905	Lelikov Helman	「あっ……」	「Ah...」
+
+203906	Sushinu the Gandhi	「わ、わっ、わっ！	「W-wah, wah!
+203907	+	　やった、やったねレリコフちゃん！」	　We did it, we did it Lelikov Helman-chan!」
+
+203908	Lelikov Helman	「二人とも見ててくれたー！？	「Did you two see that!?
+203909	+	　三回ラリー続いたよー！」	　We had a three-hit rally!」
+
+203910	Reset Kalar	「見てたよー。	「I saw~.
+203911	+	　すごいよ、二人とも」	　That was amazing, both of you.」
+
+203912	Dark Rance	「はっはっはっ、やるじゃないか！	「Hahaha, not bad!
+203913	+	　二人とも！」	　Both of you!」
+
+203914	Dark Rance	「うーん、こりゃ二人とも	「Hmm, both of you
+203915	+	　プロ入りだって出来るんじゃないか……」	　could probably go pro...」
+
+203916	Kentou Uzume	「ダークランス兄上……」	「Big brother Dark Rance...」
+
+203917	Kentou Uzume	「兄ばか」	「Brocon.」
+
+203918	Dark Rance	「えー、そうかぁ？」	「Eh~, you think?」
+
+203919	Mix Tou	「…………」	「............」
+
+203920	-	ごうんごうんごうん。	Whirr whirr whirr.
+203921	+	ミックスはマッサージ椅子に	Mix was getting her back
+203922	+	背中をゴリゴリされながら、その風景を眺めていた。	vigorously massaged in the massage chair while watching the scene.
+
+203923	Mix Tou	「平和ねぇ……」	「So peaceful...」
+
+203924	Nagi su Ragarl	「みんなー、時間なくなるし、	「Everyone~, time's running out,
+203925	+	　そろそろお風呂行こー」	　let's go take a bath soon.」
+
+203926	Sushinu the Gandhi	「あ、はーい♪」	「Ah, yeees♪」
+
+203927	Masou Shizuka	「ほら、あんたらも行くわよ。	「Come on, you guys too.
+203928	+	　汗もいい具合にかいたでしょ」	　You've worked up a good sweat.」
+
+203929	Zance Leazas	「アア！？　テメェらだけで行け！	「Aah!? You girls go by yourselves!
+203930	+	　こっちは決着がまだだろーが！」	　We're still in the middle of our match!」
+
+203931	Masou Shizuka	「はいはい、全員で行くの」	「Yes yes, everyone is going.」
+
+203932	Zance Leazas	「うっ、がっ！？　いででで！	「Ugh, gah!? Oww ow ow!
+203933	+	　テメェ、志津香！　耳引っ張んじゃねーよ！」	　You, Shizuka! Don't pull my ear!」
+
+203934	Mix Tou	「…………本当に平和」	「............It's really peaceful.」
+
+203935	Mix Tou	「明日、決戦なんだっけ？」	「The final battle is tomorrow, right?」

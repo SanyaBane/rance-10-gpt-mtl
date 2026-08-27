@@ -1,0 +1,428 @@
+# 32865	３５４／フェリス仲間入り	
+* Sill Plain	シィル	Female
+* Rance	ランス	Male
+* Kentou Kanami	かなみ	Female
+* Feliss	フェリス	Female
+* Bezeleye	ベゼルアイ	Female
+
+183713	Sill Plain	「あ、あら？　ランス様、アレ……」	「A-ah? Rance-sama, that...」
+
+183714	?	「へへ、客が来たな」	「Hehe, we have a guest.」
+
+183715	Sill Plain	「わっ、悪魔ですよ、ランス様」	「Wah, it's a demon, Rance-sama!」
+
+183716	?	「この道は通せんぼだ。	「This path is blocked.
+183717	+	　ここを通りたくば魂の契約をしてもらう！」	　If you want to pass, make a soul contract with me!」
+
+183718	Rance	「魂の契約？」	「Soul contract?」
+
+183719	?	「願い三つ叶える変わりに、	「Grant three wishes in exchange for
+183720	+	　死後の魂をもらうって契約だ」	　your soul after death.」
+
+183721	Rance	「ああ、悪魔お馴染みのアレか」	「Ah, the classic demon deal.」
+
+183722	Rance	「いらん、帰れ」	「Don't need it, go away.」
+
+183723	?	「むう、悪魔相手にちっとも動じないとは、	「Muu, not fazed by a demon at all,
+183724	+	　なかなかの男伊達-ｵﾄｺﾀﾞﾃ-……」	　quite the bold man...」
+
+183725	?	「だが、こっちも商売でな。	「But this is business for me too.
+183726	+	　契約してくれるまでこの道は通らせないぞ」	　I won't let you pass until you make the contract.」
+
+183727	Rance	「なんだとぉ？	「What did you say?
+183728	+	　魂のカツアゲなんて初めて聞いたぞ」	　Soul extortion? First time hearing that.」
+
+183729	?	「ハッキリ言って俺はとっても強いぞぉ。	「To be honest I'm really strong.
+183730	+	　戦うなんて無益なことせず契約した方がいいぞ」	　Better to contract instead of fighting pointlessly.」
+
+183731	?	「というわけで、契約しようぜ、契約」	「So let's make the contract, contract.」
+
+183732	Rance~	（うーん、癪だが確かに	（Ugh, annoying but he's right,
+183733	+	　倒そうと思ったら時間のかかりそうな敵だ）	　taking him down would take time.）
+
+183734	Rance	「ちっ、面倒だな。	「Tch, what a pain.
+183735	+	　おい、シィル、なんかこの道を通る策考えろ」	　Hey Sill, think of a way to get past this path.」
+
+183736	Sill Plain	「えっ、わ、私ですか！？」	「Eh, m-me!?」
+
+183737	Rance	「早くしろ。早くしないと叩く。	「Hurry up. If you don't I'll smack you.
+183738	+	　ごー、よーん、さーん……」	　Five, four, three...」
+
+183739	Sill Plain	「うーん、うーん。	「Umm, umm.
+183740	+	　と、突然言われても……」	　Even if you say it suddenly...」
+
+183741	Rance	「なんかあるだろう。	「There must be something.
+183742	+	　同じ悪魔のフェリスに説得させるとか」	　Like having the same demon Feliss persuade him.」
+
+183743	Sill Plain	「え、フェリスさんですか？」	「Eh, Feliss-san?」
+
+183744	Rance	「…………あ」	「............Ah.」
+
+183745	Kentou Kanami	「あら？　でも今は彼女、	「Oh? But right now she
+183746	+	　ランス城で療養中の筈じゃ……」	　should be recuperating in Rance Castle...」
+
+183747	Sill Plain	「あ、それが、元気になったので	「Ah, she recovered,
+183748	+	　また一緒に戦って下さることに……」	　so she'll fight with us again...」
+
+183749	Rance	「…………う、うむ、まあな」	「............Y-yeah, well.」
+
+183750	-	…………	............
+
+183751	-	……	...
+
+183752	-	ランスがフェリスの部屋を訪ねていた。	Rance was visiting Feliss's room.
+
+183753	Rance	「おーう、入るぞ！」	「Ooh, coming in!」
+
+183754	Feliss	「え、あ……」	「Eh, ah...」
+
+183755	-	突然の闖入者であるランスに向けて、	Feliss turned her tired eyes toward the sudden intruder Rance.
+183756	+	フェリスが気だるげに目を向けた。	
+
+183757	Rance	「む……」	「Mu...」
+
+183758	Rance	「…………うー」	「............Uhh」
+
+183759	Rance	「よう……久しぶりだな……」	「Yo... long time no see...」
+
+183760	Feliss	「…………」	「............」
+
+183761	Feliss	「……うん、久しぶり」	「...Yeah, long time.」
+
+183762	-	二人の間に不穏な空気が流れる。	A tense atmosphere flowed between the two.
+
+183763	Rance~	（なんか……こいつとは妙に気まずくなるな……）	（Somehow... it always gets awkward with her...）
+
+183764	Sill Plain	「あら、ランス様、どうされたんですか？」	「Oh, Rance-sama, what brings you here?」
+
+183765	-	そのとき、シィルが部屋の奥から顔を出した。	At that moment, Sill peeked out from the back of the room.
+
+183766	Rance	「む、どうしてシィルがここに」	「Mu, why is Sill here?」
+
+183767	Sill Plain	「フェリスさんもこのお城で	「I heard Feliss-san is also staying in this castle
+183768	+	　暮らしてると聞いたのでご挨拶に」	　so I came to greet her.」
+
+183769	Rance	「ふーん、そうか」	「Hmm, I see.」
+
+183770	Feliss	「それで……」	「So...」
+
+183771	-	フェリスが、じとっとした目でランスを睨む。	Feliss glared at Rance with damp eyes.
+
+183772	Feliss	「……今度はなんの用？	「...What do you want this time?
+183773	+	　また、何かさせるつもり？」	　Planning to make me do something again?」
+
+183774	Rance	「ん、用は特にない」	「Nn, nothing in particular.」
+
+183775	Feliss	「へ？」	「Heh?」
+
+183776	Rance	「なんとなーく、足がこの部屋に向いただけだ」	「My feet just happened to head this way.」
+
+183777	Rance	「まあ、フェリスの様子でも見ておこうかとな」	「Well, I thought I'd check on how you're doing.」
+
+183778	Feliss	「……そう」	「...I see.」
+
+183779	Rance	「うむ」	「Yeah.」
+
+183780	Feliss	「…………」	「............」
+
+183781	Rance	「…………」	「............」
+
+183782	Sill Plain	「あ、あのぉー……	「U-umm...
+183783	+	　今お茶を入れていたところなんですが、	　I was just making tea,
+183784	+	　ランス様もお飲みになりますか？」	　would you like some, Rance-sama?」
+
+183785	Rance	「……いや、いらん。	「...No, I'm good.
+183786	+	　どうせ用もないんだしな、帰る」	　Since I have no business, I'll leave.」
+
+183787	Sill Plain	「え、あ……」	「Eh, ah...」
+
+183788	Rance~	（うーむ、なんか出てきてしまった。	（Umm, I ended up coming here.
+183789	+	　俺は何をしに来たのだろう……）	　What did I come here for...?）
+
+183790	Rance~	（……ま、いっか）	（...Whatever.）
+
+183791	Sill Plain	「あ、あのぉ、ランス様……」	「U-umm, Rance-sama...」
+
+183792	Rance	「ん、なんだシィル。	「Nn, what is it Sill.
+183793	+	　別についてこんでもいいぞ」	　You don't have to follow me.」
+
+183794	Sill Plain	「あ、いえ……なんとなく気になって……」	「Ah, no... I was just curious...」
+
+183795	Sill Plain	「その……もしかしたら、ですが……	「Um... this might be wrong, but...
+183796	+	　いえ、私の勘違いかもなんですけど……」	　maybe my misunderstanding...」
+
+183797	Rance	「なんだ？　もにょもにょ言わんと、	「What? Don't mumble,
+183798	+	　言いたいことがあるならハッキリ言え」	　if you have something to say, say it clearly.」
+
+183799	Sill Plain	「いえ、ランス様、もしかしたら……」	「No, Rance-sama, maybe...
+
+183800	Sill Plain	「フェリスさんに謝りに来たのかなって……」	　you came to apologize to Feliss-san...」
+
+183801	Rance	「なに？」	「What?」
+
+183802	Sill Plain	「フェリスさんの調子の悪いときに、	「When Feliss-san was feeling bad,
+183803	+	　ランス様が無理矢理、その、エッチをされて、	　Rance-sama forced her to have sex,
+183804	+	　そのせいで子供が産まれて……」	　and because of that she gave birth to a child...」
+
+183805	Sill Plain	「それでフェリスさんが、人間と子を成した罰で、	「And then Feliss-san was punished by demons for having a child with a human,
+183806	+	　悪魔達にあんな……あんなにひどいことを……」	　and they did such... such horrible things to her...」
+
+183807	Sill Plain	「それで、その……もしかしたら、ランス様……	「So, maybe, Rance-sama...
+183808	+	　そのことを……」	　came to apologize for that...」
+
+183809	Sill Plain	「あいたっ！」	「Ouch!」
+
+183810	Rance	「馬鹿、俺様が何をフェリスに謝る必要がある」	「Idiot, why would I need to apologize to Feliss?」
+
+183811	Sill Plain	「は、はい……すみません……」	「Y-yes... sorry...」
+
+183812	Rance	「……………………」	「........................」
+
+183813	Sill Plain	「あの……ランス様……？」	「Um... Rance-sama...?」
+
+183814	Rance	「だが、まあ……うむ……」	「But, well... yeah...」
+
+183815	Rance	「なんか……なんか少しだけ据わりが悪いからな」	「Somehow... it just feels a bit off.」
+
+183816	Rance	「ちょっとだけ……	「Just a little...
+183817	+	　フェリスと話してくる」	　I'll go talk to Feliss.」
+
+183818	Sill Plain	「は、はい」	「Y-yes.」
+
+183819	Sill Plain	「あの……頑張って下さい、ランス様……」	「Um... good luck, Rance-sama...」
+
+183820	Rance	「…………」	「............」
+
+183821	Sill Plain	「あいたっ！」	「Ouch!」
+
+183822	Rance	「ふんっ」	「Hmph.」
+
+183823	-	ランスはシィルを尻目にフェリスの部屋の中に入った。	Rance ignored Sill and entered Feliss's room.
+
+183824	Sill Plain	「どきどき……」	「My heart's pounding...」
+
+183825	-	　	　
+183826	+	　　＜ガシャーーーン！＞	　　＜Crash-----!＞
+
+183827	Sill Plain	「きゃっ！？」	「Kyaa!?」
+
+183828	-	室内から何かが割れる音、	The sound of something breaking inside,
+183829	+	何かが暴れているような音が響いた。	and sounds of something rampaging echoed.
+
+183830	Sill Plain	「び、ビクビク……	「S-scared...
+183831	+	　中で何が……」	　What's happening inside...」
+
+183832	-	　	　
+183833	+	　　＜ガチャッ……＞	　　＜Click...＞
+
+183834	Rance	「あーっ、びっくりした」	「Aah, that surprised me.」
+
+183835	Sill Plain	「あ、ランス様！？」	「Ah, Rance-sama!?」
+
+183836	-	中から顔にひっかき傷を作ったランスが出てきた。	Rance came out with scratch marks on his face.
+
+183837	Sill Plain	「あ、あの、その傷は……」	「U-um, those scratches...」
+
+183838	Rance	「それがアイツ……	「That girl...
+183839	+	　俺様が謝ってやったら、	　When I apologized,
+183840	+	　ぼろぼろ涙を流し出したのだ」	　she started crying buckets.」
+
+183841	Sill Plain	「は、はあ……」	「I-is that so...」
+
+183842	Rance	「ついに声まで上げてわんわん泣き出してな。	「She even started wailing loudly.
+183843	+	　まあそこまではよかったんだが……」	　That was fine, but...」
+
+183844	Rance	「ふざけんなー！	「Don't fuck with meー!
+183845	+	　と叫びながら殴ってきやがった」	　she yelled and attacked me.」
+
+183846	Sill Plain	「あ……う……」	「Ah... u...」
+
+183847	Rance	「だから返り討ちにした」	「So I counterattacked.」
+
+183848	Sill Plain	「返り討ちにしたんですか！？」	「You counterattacked!?」
+
+183849	Rance	「うむ、思わずこっちも手が出た」	「Yeah, I instinctively hit back.」
+
+183850	Sill Plain	「あうあう、私、	「Auu auu, I'll
+183851	+	　フェリスさんの様子を見てきます！」	　go check on Feliss-san!」
+
+183852	Rance	「あ、おい……」	「Ah, hey...」
+
+183853	Rance	「……ちっ、なんなんだ」	「...Tch, what the hell.」
+
+183854	-	…………	............
+
+183855	-	……	...
+
+183856	Sill Plain	「あの、ランス様、どうぞ……」	「Um, Rance-sama, here...」
+
+183857	-	中からシィルに呼ばれ、	Called by Sill from inside,
+183858	+	ランスが中に入ると、	Rance entered,
+183859	+	ぐすぐすと泣いているフェリスがいた。	and found Feliss sobbing.
+
+183860	Feliss	「その……と、取り乱しました……	「Um... I lost my composure...
+183861	+	　すみません……」	　I'm sorry...」
+
+183862	Feliss	「主に手を上げた以上……	「Since I raised my hand against my master...
+183863	+	　その、いかなる罰も……」	　any punishment is...」
+
+183864	Rance	「いや、まあ……	「No, well...
+183865	+	　別に罰とか与えるつもりはないが……」	　I don't plan to punish you...」
+
+183866	Rance~	（なんか、こう……	（Somehow...
+183867	+	　戻ってきてからのフェリスとの会話は、	　talking with Feliss since she returned
+183868	+	　妙にスッキリせんなぁ……）	　just doesn't feel right...）
+
+183869	Rance	「よし、お前、俺様の仕事の手伝いしろ」	「Alright, you, help with my work.」
+
+183870	Feliss	「え？」	「Eh?」
+
+183871	Rance	「また前みたいに俺が呼んだら	「When I call you like before,
+183872	+	　俺様の冒険の手助けをするのだ」	　help me with my adventures.」
+
+183873	Rance~	（そうすりゃ多少は元気も出るかもな）	（That might cheer her up a bit.）
+
+183874	Sill Plain	「でも、ランス様、	「But Rance-sama,
+183875	+	　フェリスさんは悪魔や天使に追われてるので、	　Feliss-san is being chased by demons and angels,
+183876	+	　城の外に出るのは危険なのでは？」	　going outside the castle is dangerous, isn't it?」
+
+183877	Rance	「あ、言われてみりゃそうだな」	「Ah, now that you mention it.」
+
+183878	Feliss	「……いいわよ」	「...It's fine.」
+
+183879	Rance	「お？」	「Oh?」
+
+183880	Feliss	「だからいいわよって。	「I said it's fine.
+183881	+	　一応今の世界状況は話に聞いてるし……	　I've heard about the current world situation...
+183882	+	　にゃんにゃんの手でも借りたいんでしょ」	　You want to borrow this cat's paw, right?」
+
+183883	Feliss	「あ、でも、長時間は無理よ」	「Ah, but I can't do it for long.」
+
+183884	Feliss	「この地区担当の天使は	「The angel in charge of this area
+183885	+	　色々あって私のこと見逃してるけど、	　is overlooking me for various reasons,
+183886	+	　他じゃ悪魔は天使の討伐対象だから」	　but elsewhere demons are targets for extermination.」
+
+183887	Feliss	「戦闘の手伝いくらいなら……	「Helping in battle...
+183888	+	　まあ大丈夫だと思う」	　should be okay.」
+
+183889	Rance	「お、おお、そうか。	「O-oh, I see.
+183890	+	　いいのか、うむ、そうか」	　It's okay? Yeah, got it.」
+
+183891	Rance	「がははは、そうだな！	「Gahahaha, that's right!
+183892	+	　今後もバシバシこき使ってやるから	　I'll work you hard from now on
+183893	+	　覚悟しておけ！」	　so prepare yourself!」
+
+183894	Feliss	「……どうせ最初から拒否権なんてないしね」	「...Anyway, I never had the right to refuse from the start.」
+
+183895	Rance	「まあ……そうなんだが」	「Well... yeah.」
+
+183896	Feliss	「それに外に何度か出れば……	「Besides, if I go out a few times...
+183897	+	　もしかしたら、ダークランスに	　maybe I'll meet Dark Rance
+183898	+	　会えるかも知れない」	　somewhere.」
+
+183899	Rance	「あー……あいつか……」	「Ah... that guy...」
+
+183900	Feliss	「うん、あの子……	「Yeah, that child...
+183901	+	　今頃どこでどうしているか……」	　I wonder where he is now...」
+
+183902	Feliss	「じゃあ、戦闘とかあったら呼んで……	「So if there's a battle, call me...
+183903	+	　いつもみたいにワープで飛んでくし……」	　I'll warp over like usual...」
+
+183904	Rance	「おう」	「Got it.」
+
+183905	-	…………	............
+
+183906	-	……	...
+
+183907	Rance	「フェリスを呼ぶ、ね……」	「Calling Feliss, huh...」
+
+183908	Rance	「……ま、いっか」	「...Whatever.」
+
+183909	Sill Plain	「ランス様？」	「Rance-sama?」
+
+183910	Rance	「うむ、フェリスを使おう。	「Yeah, I'll use Feliss.
+183911	+	　そうだ、遠慮なんて俺様らしくない」	　Yeah, holding back isn't like me.」
+
+183912	Sill Plain	「遠慮？」	「Holding back?」
+
+183913	Rance	「いでよ！　フェーーーリス！」	「Come forth! Feeeeeliss!」
+
+183914	Feliss	「……んっ、来たわよ」	「...Nn, I'm here.」
+
+183915	-	何もない空間からフェリスが現れた。	Feliss appeared from empty space.
+
+183916	Feliss	「ん？　今回は戦闘じゃないの？」	「Nn? Not a battle this time?」
+
+183917	Rance	「おう、あいつをどうにかして欲しいのだ」	「Yeah, I want you to deal with that guy.」
+
+183918	Feliss	「あいつ？	「That guy?
+183919	+	　あっ……」	　Ah...」
+
+183920	?	「ん？　俺と同じ悪魔？」	「Nn? A demon like me?」
+
+183921	?	「しかも俺より階級も下の悪魔か」	「And even lower rank than me.」
+
+183922	?	「ふーん、ほーう、へー」	「Hmm, hoo, hee.」
+
+183923	Feliss	「ひっ……」	「Hii...」
+
+183924	-	舌なめずりをしながら、	While licking his lips,
+183925	+	下卑た目で体を見られ、	the demon looked at her body with vulgar eyes,
+183926	+	フェリスがビクッと震える。	making Feliss tremble.
+
+183927	?	「ふふふん、上玉じゃないか。	「Fufufun, quite the fine piece.
+183928	+	　ちょっくらあっちで相手でも――」	　How about we go over there and have some fun――」
+
+183929	-	馴れ馴れしく悪魔がフェリスの肩に手を置いた。	The demon familiarly placed his hand on Feliss's shoulder.
+
+183930	Feliss	「ひっ！　い、いや――！」	「Hii! N-no――!」
+
+183931	Rance	「死ね！！！！」	「Die!!!!」
+
+183932	?	「あぎゃっ！？」	「Agya!?」
+
+183933	-	ランスアタックが炸裂。	Rance Attack exploded.
+183934	+	哀れ、悪魔は瞬殺された。	The poor demon was instantly killed.
+
+183935	Rance	「ったく、俺様のものに手を出そうとは	「Damn, trying to touch what's mine
+183936	+	　ふてぇ悪魔だ」	　what a rude demon.」
+
+183937	Feliss	「さ、最初から、自分でどうにか出来、るなら、	「If you could handle it yourself from the start,
+183938	+	　自分でやってよ……」	　then do it yourself...」
+
+183939	Rance	「俺もこうなるとは思わなかったのだ」	「I didn't think it would turn out like this either.」
+
+183940	Feliss	「……あ、う、それなら、いいけど」	「...Ah, u, then it's fine.」
+
+183941	Feliss	「それで……私は何したらいいの……？」	「So... what should I do...?」
+
+183942	Rance	「ああ、もういい、もういい」	「Ah, never mind, never mind.」
+
+183943	Rance	「城に戻って	「Go back to the castle
+183944	+	　ビスケッタさんに温かいものでも作ってもらえ」	　and have Biscuitta make you something warm.」
+
+183945	Feliss	「……うん、そうする」	「...Yeah, I'll do that.」
+
+183946	Rance	「戦闘になったらまたガンガン呼ぶからな」	「If a battle starts I'll call you hard.」
+
+183947	Feliss	「……うん、分かった」	「...Yeah, got it.」
+
+183948	-	スーッとフェリスが姿を消した。	Feliss vanished smoothly.
+
+183949	Rance	「うーん、予想以上にへこたれてるな、あいつ」	「Hmm, she's more down than I expected.」
+
+183950	Rance	「よし、リハビリとして	「Alright, as rehabilitation
+183951	+	　今後しばらくコキ使ってやろう。	　I'll work her hard for a while.
+183952	+	　いずれ元に戻るだろう」	　She'll recover eventually.」
+
+183953	Sill Plain	「そ、それは……」	「Th-that's...」
+
+183954	Kentou Kanami	「ランス……ひどい……」	「Rance... that's cruel...」
+
+183955	Sill Plain	「あ、でも、ランス様、	「Ah, but Rance-sama,
+183956	+	　フェリスさんに対しては少し優しいような……」	　seems a bit gentle toward Feliss-san...」
+
+183957	Bezeleye	「その優しさの結論が、コキ使うな辺り、	「The conclusion of that gentleness being working her hard,
+183958	+	　ランス君はランス君ねぇ……」	　that's so you, Rance-kun...」
+
+183959	Sill Plain	「あはは……」	「Ahaha...」

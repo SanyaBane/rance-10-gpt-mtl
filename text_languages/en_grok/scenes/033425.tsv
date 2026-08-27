@@ -1,0 +1,123 @@
+# 33425	６０９／決勝戦／戦闘前	route
+* Shuri Seihajuu Nagasaki	シュリ２	Female
+* Alexander	アレキサンダー２	Male
+* Chaos	カオス	Male
+* Nikkou	日光刀	Female
+
+239823	-	試合場までの石畳の通路を、	You walked down the stone-paved passage to the arena,
+239824	+	コツコツと鳴らして歩く。	your footsteps echoing.
+
+239825	-	何度となく歩いてきた道だ。	It was a path you had walked many times.
+239826	+	緊張はない。	You weren't nervous.
+
+239827	-	通路を抜けると、カッと眩しい光で	When you exited the passage, a dazzling light
+239828	+	目の前が一瞬白く染まる。	made everything in front of you turn white for a moment.
+
+239829	-	その目も次第に慣れていく。	Your eyes gradually adjusted.
+
+239830	-	耳が痛くなるほどの歓声があなたに注がれる。	Deafening cheers poured down on you.
+239831	+	五回目となる慣れた感覚だった。	It was a familiar feeling for the fifth time.
+
+239832	Shuri Seihajuu Nagasaki	『龍の方角より現れました！	『Appearing from the dragon direction!
+239833	+	　法王と魔王の子にして、	　Child of the Pope and the Demon King,
+239834	+	　快進撃を続ける若き戦士！』	　the young warrior on a rapid rise!』
+
+239835	Shuri Seihajuu Nagasaki	『＜エール＞・モフス選手ですっ！』	『It's ＜エール＞ Mofus competitor!』
+
+239836	-	あなたの名が読み上げられた瞬間、	The moment your name was announced,
+239837	+	会場の歓声が最高潮を迎えた。	the venue's cheers reached their peak.
+
+239838	Shuri Seihajuu Nagasaki	『その手には魔王、魔人に対抗できる	『In those hands are the rare items
+239839	+	　世界でも指折りのレアアイテム、	　capable of opposing the Demon King and Fiend,
+239840	+	　聖刀日光、魔剣カオスが握られています！』	　the holy blade Nikkou and demonic sword Chaos!』
+
+239841	Shuri Seihajuu Nagasaki	『この決勝の舞台では	『On this finals stage,
+239842	+	　どのような戦いを見せてくれるのか！』	　what kind of battle will we see!』
+
+239843	Shuri Seihajuu Nagasaki	『あっ、皆様、ご覧下さい！	『Ah, everyone, look!
+239844	+	　そして今、今……今――』	　And now, now... now――』
+
+239845	Shuri Seihajuu Nagasaki	『鬼の方角より現れました！	『Appearing from the oni direction!
+239846	+	　世界最強の男！　老練の格闘王！』	　The strongest man in the world! The veteran fighting king!』
+
+239847	Shuri Seihajuu Nagasaki	『アレキサンダー選手の入場です！』	『It's Alexander competitor's entrance!』
+
+239848	-	あなたのときと同じくらいの歓声が、	Cheers as loud as when you entered
+239849	+	アレキサンダーを出迎え、コロシアムが揺れる。	welcomed Alexander, shaking the coliseum.
+
+239850	Alexander	「…………」	「............」
+
+239851	-	既に戦意は充分なのだろう。	His fighting spirit was already fully ignited.
+239852	+	試合前に会話することもなければ、	There was no conversation before the match,
+239853	+	握手をすることもない。	nor a handshake.
+
+239854	-	アレキサンダーの鋭い眼光は既に、	Alexander's sharp gaze was already
+239855	+	たった一人、あなたにだけ向けられていた。	focused solely on you.
+
+239856	Shuri Seihajuu Nagasaki	『参加表明した戦士、92名！	『92 warriors who declared participation!
+239857	+	　本戦出場した戦士、32名！』	　32 warriors who entered the main tournament!』
+239858	+	　行われた試合は、30試合！』	　30 matches were fought!』
+
+239859	Shuri Seihajuu Nagasaki	『今、今この瞬間――ッ！』	『Now, at this very moment――!』
+
+239860	Shuri Seihajuu Nagasaki	『それらから勝ち上がってきたたった2人の	『The final two who rose victorious from all that
+239861	+	　最後の31試合目が始まろうとしています！』	　are about to begin the 31st and final match!』
+
+239862	Shuri Seihajuu Nagasaki	『果たして闘神大会を制するのは	『Who will claim victory in the Toushin Tournament
+239863	+	　いったいどちらとなるのか！』	　this time!?』
+
+> male
+239864	Chaos	「おい、坊主」	「Hey, kid.」
+
+> female
+239865	Chaos	「おい、嬢ちゃん」	「Hey, young lady.」
+
+> end
+239866	-	左手のカオスがあなたに声をかけてきた。	Chaos in your left hand spoke to you.
+
+239867	Chaos	「＜エール＞、つったか？	「＜エール＞, are you nervous?
+239868	+	　よく聞けよ」	　Listen well.」
+
+239869	Chaos	「ありゃあ強敵だ。	「He's a formidable opponent.
+239870	+	　儂様と日光の試し切りだ、	　This is a test run for me and Nikkou,
+239871	+	　なーんて軽い気持ちじゃ負けるぞ」	　so don't take it lightly or you'll lose.」
+
+239872	Nikkou	「……ええ、そうですね。	「...Yes, that's right.
+239873	+	　＜エール＞さん、気をつけて下さい」	　＜エール＞-san, please be careful.」
+
+239874	Chaos	「まっ、武闘大会なんだから、	「Well, it's a fighting tournament,
+239875	+	　好きにやりゃあいいと思うがね」	　so do whatever you want.」
+
+239876	Nikkou	「……貴方という人は無責任な」	「...You really are irresponsible.」
+
+239877	Chaos	「とっ、んなこと言っとる間に来るぞ」	「Anyway, he's coming while we're talking.」
+
+239878	Nikkou	「最初から本気で行った方が良いかと」	「I think you should go all out from the start.」
+
+239879	-	あなたは改めて前を――	You once again faced forward――
+239880	+	アレキサンダーの方を向く。	toward Alexander.
+
+239881	Alexander	「…………」	「............」
+
+239882	Shuri Seihajuu Nagasaki	『皆さん！　大変長らくお待たせいたしました！』	『Everyone! Thank you for waiting so long!』
+
+239883	Shuri Seihajuu Nagasaki	『試合開始の時刻となりました……』	『It is time for the match to begin...』
+
+239884	Alexander	「…………」	「............」
+
+239885	-	　	　
+239886	+	　　＜ぎゅうううう……＞	　　＜Squeeze...＞
+
+239887	-	拳を握った音が、あなたの耳にまで届く。	The sound of his fist clenching reached even your ears.
+239888	+	そんな幻聴が聞こえるほどに、	His pressure was so intense
+239889	+	構えたアレキサンダーの威圧感はすさまじかった。	it felt like an auditory hallucination.
+
+239890	-	肌にビリビリと突き刺さる圧迫感の中、	In the midst of the tingling pressure on your skin,
+239891	+	あなたもまた両手の武器を構える。	you too readied the weapons in both hands.
+
+239892	Shuri Seihajuu Nagasaki	『第22回、闘神大会！』	『The 22nd Toushin Tournament!』
+
+239893	-	あなたはゆっくりと体を前に傾けて、	You slowly leaned your body forward,
+239894	+	アレキサンダーへ向けて走り出した。	and ran toward Alexander.
+
+239895	Shuri Seihajuu Nagasaki	『決勝戦！　開始ーーーッ！』	『Finals! Beginーーー!』

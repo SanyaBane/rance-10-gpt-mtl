@@ -1,0 +1,605 @@
+# 30672	４２／ヘルマン自力解放６	
+* LeMay	大将軍ルメイ	Male
+* Flying Monster Soldier	汎用飛行魔物兵	Male
+* Patton Helman	パットン	Male
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Hunty Kalar	ハンティ	Female
+* Cantel	キャンテル	Male
+* Hubert Lipton	ヒューバート	Male
+* Sanada Tourin	透琳	Male
+* Cream Ganoblade	クリーム	Female
+* Sheila Helman	シーラ	Female
+* Peruele Kalette	ペルエレ	Female
+
+24249	-	首都近郊――――	Outskirts of the capital――――
+
+24250	LeMay	「おお…………空よ……美しい、空よ……」	「Ooh............ The sky...... Beautiful sky......」
+
+24251	-	ヘルマンの空を、一体の魔物兵が飛ぶ。	A monster soldier flew through the skies of Helman.
+
+24252	LeMay	「見ているがいい、空よ…………	「Watch closely, sky............
+24253	+	　すぐに明るく、素晴らしい……	　Soon it will shine bright and wonderful......
+24254	+	　破滅の光で照らしてくれるぞ……」	　Illuminated by the light of destruction......」
+
+24255	-	魔物兵に抱えられたルメイは、	LeMay, held by the monster soldier,
+24256	+	ひとつの球体を大事に抱えていた。	carefully cradled a single sphere.
+
+24257	LeMay	「人破壊爆弾、か…………くくく。	「The Human Destruction Bomb, huh............ Hehehe.
+24258	+	　そうだ、これだ……」	　Yes, this is it......」
+
+24259	-	ゼス方面軍から貰い受けた、	A magic item received from the Zeth forces,
+24260	+	人間だけを大量殺戮するというマジックアイテム。	designed to massacre only humans in massive numbers.
+24261	+	まさに、ルメイの理想そのものだった。	It was the very embodiment of LeMay's ideals.
+
+24262	LeMay	「これを人間どもに叩きつけてくれよう……	「I'll smash this into those humans......
+24263	+	　ふ、ふふふふふ……」	　Fu, fufufufu......」
+
+24264	-	まっすぐに、北東。	Straight northeast.
+24265	+	狙うはラング・バウ。	The target was Lang Bau.
+
+24266	-	そこには、100万を超える人間がうごめいている。	Over a million humans swarmed there.
+24267	+	狙わない選択肢はなかった。	There was no choice but to target it.
+
+24268	Flying Monster Soldier	「…………しかし、閣下。	「............However, Your Excellency.
+24269	+	　閣下がご自身で直接投下なされなくとも……」	　You don't need to drop it yourself......」
+
+24270	-	飛行する魔物兵が、躊躇いがちに声を掛けた。	The flying monster soldier called out hesitantly.
+
+24271	LeMay	「お前一人を遣わして、撃墜されたらどうする。	「What if I send just you and you get shot down?
+24272	+	　この作戦は、失敗できんのだ」	　This operation cannot fail.」
+
+24273	Flying Monster Soldier	「は、それは……」	「Yes, but......」
+
+24274	LeMay	「それに……俺の手で投下すれば、	「Besides...... If I drop it myself,
+24275	+	　見られるではないか……	　I get to watch......
+24276	+	　人間が破壊されていく様を……」	　the sight of humans being destroyed......」
+
+24277	-	くつくつと、ルメイは堪えきれぬとばかりに笑う。	LeMay chuckled uncontrollably.
+
+24278	LeMay	「さあゆけ、魔物兵エノラゲイよ！	「Now go, monster soldier Enola Gay!
+24279	+	　真のダウンフォール作戦の始まりだ！	　The true Downfall Operation begins!
+24280	+	　やつらの首都を、これで…………」	　With this, their capital will......」
+
+24281	Patton Helman	「――――――おおっと。そうはいかねぇぜ」	「――――――Whoa there. Not gonna happen.」
+
+24282	LeMay	「…………ぬっ？」	「............Nn?」
+
+24283	-	頭上から、声がした。	A voice came from above.
+24284	+	同時に、視界に影が差す。	At the same time, a shadow fell over them.
+
+24285	Flying Monster Soldier	「……ッ……！　か、か、閣下、ッ……！	「......! Y-Your Excellency......!
+24286	+	　上に…………っ……！」	　Above......!」
+
+24287	LeMay	「なんだと、ッ…………！」	「What the, ......!」
+
+24288	Patton Helman	「やぁっと追いついたぜ、魔物大将軍！	「Finally caught up, Great Monster General!
+24289	+	　悪いがそいつは没収だ！」	　Sorry, but I'm confiscating that!」
+
+24290	-	白いドラゴンに乗り、巨漢が……	A giant of a man riding a white dragon......
+24291	+	パットン・ヘルマンが、魔物兵に追いついていた。	Patton Helman had caught up to the monster soldier.
+
+24292	LeMay	「な、に、人間だと！？　貴様、何故……！」	「Wh-what, a human!? How did you......！」
+
+24293	Patton Helman	「ったく、間一髪だったぜ……」	「Man, that was too close......」
+
+24294	-	――一時間ほど前。	――About one hour earlier.
+
+24295	Patton Helman	「おらよ、っと！」	「There!」
+
+24296	Green Monster Soldier	「げふぅっ！」	「Geh!」
+
+24297	-	パットンのハンマーのような拳が、	Patton's hammer-like fist
+24298	+	魔物兵を吹き飛ばした。	sent the monster soldier flying.
+
+24299	Patton Helman	「ちっ、司令部に来たはいいが……カラか」	「Tch, we made it to command but...... it's empty.」
+
+24300	-	表では、既に突撃部隊による攻城戦が始まっている。	Outside, the assault unit had already begun the siege.
+
+24301	-	パットン一行はルメイを撃破するべく、	Patton and his group had sneaked in during the chaos
+24302	+	混乱に乗じてこっそり潜入していた。	to take down LeMay.
+
+24303	Hunty Kalar	「ダメだ、いないよ。	「No good, he's not here.
+24304	+	　逃げたかな、大将軍のやつ」	　The general might have run away.」
+
+24305	Patton Helman	「透琳はその可能性も言ってたがな……	「Tourin did mention that possibility......
+24306	+	　おい、魔物大将軍はどこだ！」	　Hey, where's the Great Monster General!」
+
+24307	Green Monster Soldier	「うぐっ……」	「Ugh......」
+
+24308	-	殴り飛ばした魔物兵を掴み、パットンは凄む。	Patton grabbed the monster soldier he had punched and glared.
+
+24309	Green Monster Soldier	「も、もう、ここにはいない……」	「H-he's not here anymore......」
+
+24310	Patton Helman	「それは見りゃわかる。	「I can see that.
+24311	+	　喋りたくなるようにしてやろうか？」	　Want me to make you feel like talking?」
+
+24312	Green Monster Soldier	「ひっ…………！」	「Hii......！」
+
+24313	-	パットンが拳を鳴らす。	Patton cracked his knuckles.
+24314	+	味わったばかりの破壊力を思い起こし、	Recalling the destructive power he just felt,
+24315	+	魔物兵が息を呑む。	the monster soldier gulped.
+
+24316	Green Monster Soldier	「そ、そそ、空だ！」	「Th-the sky!」
+
+24317	Patton Helman	「あぁん？」	「Huh?」
+
+24318	Green Monster Soldier	「ルメイ大将軍は届け物のマジックアイテムを抱えて	「General LeMay took a delivered magic item
+24319	+	　行ってしまった。なんでも、人破壊爆弾とか……」	　with him. Something called a Human Destruction Bomb......」
+
+24320	Hunty Kalar	「なんだい、そりゃ？　ずいぶんと物騒な名前だね」	「What's that? Sounds pretty dangerous.」
+
+24321	Patton Helman	「……いや待て。それ、どっかで聞いた事あるぞ。	「......Wait, I've heard that name before.
+24322	+	　人破壊、人破壊……人破壊爆弾…………」	　Human Destruction, Human Destruction...... Human Destruction Bomb......」
+
+24323	Hunty Kalar	「あんたのおつむに	「I can't believe I have to rely on your brain......」
+24324	+	　期待しなきゃならないとはねぇ……」	
+
+24325	Patton Helman	「うっせ、黙ってろ。思い出せなくなる……	「Shut up. I'm trying to remember......
+24326	+	　ええと……………	　Uhh......」
+24327	?	おお、そうだ！　ゼスか！」	「Oh yeah! It's from Zeth!」
+
+24328	Green Monster Soldier	「え……あ、そ、そうだ。	「Eh...... Y-yeah.
+24329	+	　ツォトン将軍から受け取ったとか……」	　He received it from General Zedong or something......」
+
+24330	Patton Helman	「ちっ、やばいな……範囲内の人間を	「Tch, this is bad...... It kills every human
+24331	+	　皆殺しにするってシロモノだったはずだ。	　in its range.
+24332	+	　……目的地はどこだ！！」	　......Where's the target!!」
+
+24333	Hunty Kalar	「ラング・バウ……じゃないの。	「Lang Bau...... probably.
+24334	+	　ロレックス達に、ってんじゃなければ……」	　Unless it's aimed at Rolex and the others......」
+
+24335	Green Monster Soldier	「そ、そう……だ。飛行兵に自分を抱えさせて、	「Y-yeah...... He had a flying soldier carry him
+24336	+	　空から、お前達の首都を、と…………」	　and said he'd drop it on your capital from the sky......」
+
+24337	Patton Helman	「急いで追うぞ！」	「Hurry, let's chase him!」
+
+24338	LeMay	「ぐ、ぬうう……お、お、おのれええええ……！」	「Guh, nuuu...... Y-you bastard......！」
+
+24339	Patton Helman	「キャンテルを連れてきてて良かったぜ。	「Good thing I brought Cantel along.
+24340	+	　まさかこんな真似に出るとはな……」	　Didn't expect him to pull something like this......」
+
+24341	Cantel	「私は、寒いの苦手なんだがね……」	「I hate the cold, you know......」
+
+24342	Patton Helman	「まあそう言うな、すぐに終わる。	「Don't complain, it'll be over soon.
+24343	+	　寄せてくれ」	　Bring us closer.」
+
+24344	Cantel	「本気か……？」	「Are you serious......?」
+
+24345	-	いぶかりながらも、	Though doubtful,
+24346	+	キャンテルはパットンの意図を悟り、	Cantel understood Patton's intention
+24347	+	言われるままに魔物兵に接近する。	and approached the monster soldier as told.
+
+24348	Patton Helman	「本気も本気、大本気よ。	「Dead serious.
+24349	+	　……ここは俺の国だ。俺が守る国だ。	　......This is my country. The country I protect.
+24350	+	　舐めた真似をする奴は――――」	　Anyone who looks down on it――――」
+
+24351	-	魔物兵の姿を間近に捉えた瞬間、	The moment he got close to the monster soldier,
+24352	+	パットンはなんの躊躇いもなく竜の背を蹴った。	Patton kicked off the dragon's back without hesitation.
+
+24353	LeMay	「なっ………………！？」	「Wha............!?」
+
+24354	Patton Helman	「――――許さねえぇぇッ！！」	「――――I won't allow it!!!」
+
+24355	-	ルメイの顔面に、パットンの拳がぶち込まれた。	Patton's fist slammed into LeMay's face.
+
+24356	LeMay	「しょ、うきか、きさまあぁぁぁぁぁッ！？」	「You bastard, how dare you!!!？」
+
+24357	Patton Helman	「へっ…………！」	「Heh......！」
+
+24358	-	とんでもない重量と衝撃を受けて、	Taking an unbelievable amount of weight and impact,
+24359	+	ルメイは転落していく。無論、パットンと共に。	LeMay began to fall. Of course, Patton fell with him.
+
+24360	Patton Helman	「ちょいと空中散歩としゃれ込もうぜ、	「Let's enjoy a little sky stroll,
+24361	+	　大将軍さんよ！」	　General!」
+
+24362	LeMay	「う、お、うぉああああああぁぁぁぁぁッ！！」	「U, o, uwoaaaaaaaah!!!」
+
+24363	-	もつれ合い、一筋の流星となって、	Entangled together, becoming a single streak of light,
+24364	+	二人はヘルマンの大地に吸い込まれていった。	the two were swallowed by the earth of Helman.
+
+24365	-	……………………	........................
+
+24366	LeMay	「く、っ……」	「Kh......」
+
+24367	-	ややあって。	A short while later.
+
+24368	-	ルメイが、どうにか身を起こす。	LeMay somehow managed to get up.
+
+24369	LeMay	「差し違えても……という、つもりか……	「So you were willing to trade lives......
+24370	+	　がは、人間めが……やってくれる」	　Gaha, you humans...... not bad.」
+
+24371	LeMay	「は……ば、爆弾！　爆弾は！」	「Ha...... The bomb! Where's the bomb!」
+
+24372	Hunty Kalar	「こっちさ」	「Over here.」
+
+24373	-	爆弾に付けられた取っ手に指を引っかけて、	Hunty stood beside them,
+24374	+	ハンティが傍らに立っていた。	finger hooked on the handle attached to the bomb.
+
+24375	Hunty Kalar	「地面に落としたらヤバそうだったんでね。	「It looked dangerous if it hit the ground.
+24376	+	　その直前で拾っといたよ」	　So I grabbed it right before it fell.」
+
+24377	LeMay	「カラー……人間の、手先か、っ……」	「You...... damn human lackey......」
+
+24378	Hunty Kalar	「……にしても、パットン。あんた、無茶しすぎ」	「......Still, Patton. You are way too reckless.」
+
+24379	LeMay	「……ぬ？」	「......Nn?」
+
+24380	Patton Helman	「そうでもねえさ、っと」	「Not really.」
+
+24381	-	さして傷ついた風もなく、	Looking barely injured,
+24382	+	ひょいとパットンが身を起こした。	Patton casually stood up.
+
+24383	LeMay	「貴様、生きて……」	「You're still alive......」
+
+24384	Patton Helman	「大将軍に下敷きになってもらったからな。	「I used you as a cushion when we landed.
+24385	+	　まあ、大した事はない」	　So no big deal.」
+
+24386	Hunty Kalar	「ンなこと平気で抜かせるのはあんたぐらいだ……	「Only you could say something like that so casually......
+24387	+	　それもそうだけど、爆弾も」	　That aside, the bomb too
+
+24388	Patton Helman	「そっちはフォローしてくれると思ってたぜ。	「I knew you'd back me up on that.
+24389	+	　その辺は信頼してるからな」	　I trust you on that stuff.」
+
+24390	Hunty Kalar	「まったく……考えなしの馬鹿は変わんないね」	「Good grief...... You're still the same reckless idiot.」
+
+24391	LeMay	「く、ククク……まったく……人間という奴は……	「Kuh, kukuku...... Humans really are......
+24392	+	　つくづく、根絶やしにしてやらねば気の済まん……	　I won't be satisfied until I exterminate every last one......
+24393	+	　ゴミだ。ゴミという他ない……！」	　Trash. Nothing but trash......！」
+
+24394	-	ふらつく足で地を踏みしめ、	With unsteady legs, LeMay stepped firmly on the ground,
+24395	+	ルメイは怨念を込めるように呟く。	muttering with deep resentment.
+24396	+	その呼吸には、既に炎がちらついていた。	Flames already flickered in his breath.
+
+24397	Patton Helman	「……………………」	「........................」
+
+24398	-	パットンは表情を改め、両の拳を打ち合わせる。	Patton changed his expression and clapped his fists together.
+
+24399	Patton Helman	「そうはさせねえよ。	「I won't let you.
+24400	+	　これ以上、ヘルマンの民はやらせねえ」	　I won't let you harm the people of Helman any further.」
+
+24401	-	仁王立ちになって、漢が立ちはだかる。	Standing like a guardian deity, the man blocked his path.
+
+24402	Patton Helman	「――――俺が、ヘルマンの盾になる。	「――――I will be Helman's shield.
+24403	+	　砕けるものなら、砕いてみやがれ！」	　If you can break me, then try it!」
+
+24404	-	どこにも行かせぬ。目も逸らさせぬ。	He wouldn't let him go anywhere or look away.
+24405	+	そういう佇まいだった。	That was the aura he gave off.
+
+24406	LeMay	「気に食わん……気に食わん目だ…………！	「I hate those eyes...... Those eyes......!
+24407	+	　その目を抉り抜いて、人間共が嬲り殺される所を、	　I'll gouge them out and make you watch
+24408	+	　たっぷりと見せてくれるわ！」	　as your fellow humans are tortured to death!」
+
+24409	Patton Helman	「ぅお、っと！」	「Whoa!」
+
+24410	-	ルメイの燃え盛る吐息が、パットンを襲う。	LeMay's blazing breath attacked Patton.
+
+24411	-	パットンはとっさに避けるが、太いその腕に	Patton dodged instinctively, but LeMay's thick arms
+24412	+	ルメイの背中から伸びる触腕が絡みつく。	and tentacles from his back wrapped around him.
+
+24413	Patton Helman	「！」	「!」
+
+24414	LeMay	「人間ごとき、触れるのも腹が立つが……！」	「Touching a mere human disgusts me but......！」
+
+24415	-	木の幹程度ならへし折るような怪力で、	With monstrous strength that could snap tree trunks,
+24416	+	ルメイは締め上げると同時に懐まで引きずり込む。	LeMay squeezed and pulled Patton close.
+
+24417	LeMay	「くたばれ！」	「Die!」
+
+24418	-	唸りを上げて、パットンの頭を叩き潰そうと	With a roar, his clawed right arm
+24419	+	かぎ爪の付いた右腕が唸る。	swung down to crush Patton's head.
+
+24420	Patton Helman	「――――ッ」	「――!」
+
+24421	LeMay	「が、は…………！？」	「Ga, ha......!?」
+
+24422	Patton Helman	「……参ったな、こいつは……」	「......This guy's tough......」
+
+24423	-	パットンは、一切を避けなかった。	Patton didn't dodge anything.
+
+24424	-	腕を締め上げる触腕の怪力に耐え、	He endured the crushing tentacles,
+24425	+	かぎ爪を額のヘッドガードで受け止め。	blocked the claws with his headguard,
+
+24426	-	そして、その右拳を深々と、	and drove his right fist deep
+24427	+	ルメイの脇腹に突き刺していた。	into LeMay's flank.
+
+24428	Patton Helman	「わざわざ、俺の得意分野で来てくれるとはな。	「You came right into my specialty.
+24429	+	　我慢比べなら、負けた事はねぇぜ！」	　I've never lost a contest of endurance!」
+
+24430	LeMay	「ふ、ッ、ざけるな、ぁああああ……！	「Don't fuck with me, aaaaa......!
+24431	+	　人間が、ッ……得意だと？	　A human...... is good at this?
+24432	+	　勝てるとでも言うつもりか、このゴミクズがッ！」	　You think you can win, you piece of garbage!」
+
+24433	-	再び、今度は喉笛に手刀が飛ぶ。	Once again, a hand chop flew toward his throat.
+
+24434	Patton Helman	「ッ、おおおおおぉぉ！」	「Ooooooh!」
+
+24435	-	再び、今度は左拳がルメイの腹部に叩きつけられる。	Once again, his left fist slammed into LeMay's abdomen.
+
+24436	-	首当てが砕かれ、パットンの首筋から鮮血が舞うが、	His neck guard shattered and fresh blood sprayed from Patton's neck,
+24437	+	それでもパットンは微動だにしない。	but Patton didn't budge an inch.
+
+24438	LeMay	「ぐッ、がは……く、人間……人間があああ！！」	「Guh, gaha...... Damn humans...... Humans!!!」
+
+24439	Patton Helman	「へ、さっさと下がる方をオススメするがね……ッ」	「Heh, I'd recommend backing off quickly......」
+
+24440	LeMay	「ほざ、ッ……ほざけえええ！	「Keep barking......!
+24441	+	　人間なぞに、俺が、退くかあああぁぁぁ！！」	　As if I'd retreat from mere humans!!!」
+
+24442	-	ほとんど技巧も何もない、	With almost no technique at all,
+24443	+	執拗な潰し合いが始まった。	a brutal slugfest began.
+
+24444	-	片方は人間への侮蔑とプライド故、	One side driven by contempt and pride toward humans,
+24445	+	片方はただ、覚悟故。	the other purely by resolve.
+24446	+	互いに、一歩も引かずに殴り合う。	Neither yielded even a single step as they traded blows.
+
+24447	-	ルメイがパットンの顔面を切り裂けば、	When LeMay slashed Patton's face,
+24448	+	パットンはルメイの腹部を叩く。	Patton struck LeMay's abdomen.
+
+24449	-	ルメイがパットンの心臓部を突いても、	Even when LeMay stabbed at Patton's heart,
+24450	+	やはりパットンはルメイの胴部に膝蹴りを入れる。	Patton countered with a knee to LeMay's torso.
+
+24451	-	岩石程度なら苦もなく粉砕してみせる	LeMay's every blow could pulverize rock,
+24452	+	ルメイの一撃一撃を、	yet Patton endured them
+24453	+	パットンは僅かに動いて急所を外すだけで耐える。	by slightly shifting to avoid vital points.
+
+24454	-	そして、愚直にただただ、胴部を狙って	And with stubborn persistence, he kept targeting the torso,
+24455	+	相打ちを重ねていく。	trading blow for blow.
+
+24456	LeMay~	（く、っ…………！）	(Kh......!)
+
+24457	-	ルメイは内心で、苦鳴を漏らした。	LeMay groaned inwardly.
+
+24458	-	パットンが胴を狙うのは、避けづらく的が大きい、	Patton targeted the torso because it was large and hard to dodge,
+24459	+	という程度の理由であったが、ルメイには……	but for LeMay......
+24460	+	魔物大将軍にとっては、共通の弱点であった。	it was a shared vital point for Great Monster Generals.
+
+24461	-	なにせ、胴部には思考するためのブレインがある。	After all, their thinking brain was located in the torso.
+24462	+	そこが鉄槌かと思うような衝撃を受けると、	Each heavy impact shook his consciousness.
+24463	+	意識を強制的に揺らされる。	
+
+24464	LeMay~	（ヤワな作りではないが、もし、このまま、っ……）	(It's not fragile, but if this continues......)
+
+24465	-	――――ぴしり。	――――Crack.
+
+24466	LeMay	「―――――――！」	「―――――――!」
+
+24467	Patton Helman	「…………おぉ？」	「............Oh?」
+
+24468	-	幾合か。あるいは、幾十合か。	After several exchanges. Or perhaps dozens.
+
+24469	-	繰り返し殴り続けた半透明の胴体に、	A faint crack appeared on the translucent torso
+24470	+	微かな亀裂が走った。	he had been hammering repeatedly.
+
+24471	LeMay	「ッ、ぬおおおおおおお！！」	「Nuoaaaaaaa!!」
+
+24472	Patton Helman	「おわっ……！」	「Whoa......！」
+
+24473	-	ルメイの生存本能が、反射的にパットンを遠ざけた。	LeMay's survival instinct instinctively pushed Patton away.
+24474	+	触腕がパットンの首を締め上げ、	Tentacles wrapped around Patton's neck
+24475	+	拳の間合いから放り捨てる。	and threw him out of punching range.
+
+24476	Patton Helman	「チ、ッ……！」	「Tch......！」
+
+24477	-	一回転して転倒を避け、	He spun once to avoid falling,
+24478	+	再び踏み込もうとするパットンだが、一瞬膝が笑う。	but his knees buckled for a moment as he tried to charge again.
+24479	+	更に頭からの流血が、視界を塞いだ。	Blood flowing from his head further blurred his vision.
+
+24480	LeMay	「バラバラに、砕いてッ…………！」	「I'll tear you to pieces......！」
+
+24481	Hunty Kalar	「ライトニングッ、レーザーーーーー！！」	「Lightning, Laseeeeeer!!」
+
+24482	LeMay	「――――なっ、ぐほぁああっ！？」	「――Wha, guhoaaa!?」
+
+24483	-	パットンのいる方向を除く、左右と背後。	From left, right, and behind一every direction except where Patton stood.
+
+24484	-	三箇所から、完全に同じタイミングで	Lightning struck LeMay from three directions
+24485	+	雷光がルメイを貫いた。	at the exact same moment.
+
+24486	LeMay	「なんだ、これは、ッ……！？	「What is this......!?
+24487	+	　さ、三人、いるとでも…………ッ……」	　Are there...... three of them......」
+
+24488	Patton Helman	「――――ッ！」	「――!」
+
+24489	-	パットンが踏み込む。	Patton charged in.
+
+24490	-	だが、間合いに踏み込むより速く、	But faster than he could close the distance,
+24491	+	ルメイが口を開いた。中に渦巻くのは、業火。	LeMay opened his mouth. Hellfire swirled inside.
+
+24492	LeMay	「灰にしてくれるわッ……！」	「I'll burn you to ash......！」
+
+24493	Hunty Kalar	「ヒビだよ、パットン！　狙え！」	「There's a crack, Patton! Aim there!」
+
+24494	-	パットンの手の中には、一振りの刀が握られていた。	A single blade was now gripped in Patton's hand.
+24495	+	ずっと腰に差していた、友人の刀。	The friend's sword he had kept at his waist.
+
+24496	Patton Helman	「おおおおおおおおおおぉぉぉッ！！」	「Ooooooooooooooh!!!」
+
+24497	-	炎が、パットンを焼き尽くす。	Flames engulfed Patton.
+
+24498	-	だがパットンは避けるでもなく頭から突っ込み、	But Patton charged straight through the fire headfirst,
+24499	+	その白刃を力任せに、胴部へ捻り込んだ。	and drove the white blade with all his strength into the cracked torso.
+
+24500	LeMay	「………………っ、あ、か、あぁぁっ……」	「............ Gh, a, aaah......」
+
+24501	-	胴部のブレインが、深々と貫かれていた。	The brain in his torso had been deeply pierced.
+
+24502	LeMay	「あが、いぎいいいいいいいいいぃぃぃぃ……	「Agh, igiiiiiiiiiiiiiiii......
+24503	+	　に、にんげ、ころ、ころせ……あ……ぁ…………」	　H-human... k-kill... me... a... ah......」
+
+24504	-	血飛沫と体液を吹き出しながら、	While spraying blood and bodily fluids,
+24505	+	ルメイはもがき、倒れ、そして動かなくなった。	LeMay thrashed about, collapsed, and finally stopped moving.
+
+24506	Patton Helman	「ふぅ、っ……」	「Fuu......」
+
+24507	Hunty Kalar	「迫撃水！」	「Water Blast!」
+
+24508	Patton Helman	「おわっぷ」	「Whoah!」
+
+24509	-	魔法で生み出した水を掛けられて、	Hit by the magically created water,
+24510	+	パットンの身体は鎮火された。	Patton's body was extinguished.
+
+24511	Hunty Kalar	「ごくろーさん、パットン。やるじゃん」	「Good work, Patton. Not bad at all.」
+
+24512	Patton Helman	「負けられない戦いだからな。	「I couldn't afford to lose this fight.
+24513	+	　ヘルマンのみんながお膳立てしてくれたんだ、	　Everyone in Helman set the stage for me,
+24514	+	　最後はキメなきゃ……」	　so I had to finish it strong......」
+
+24515	Patton Helman	「っ、とっとと……」	「Ugh......」
+
+24516	-	不意に、パットンの巨体が揺らいだ。	Suddenly, Patton's massive body swayed.
+
+24517	Hunty Kalar	「だいじょぶかい？」	「You okay?」
+
+24518	Patton Helman	「いや、ちょいと目眩がな。	「Nah, just a little dizzy.
+24519	+	　……まあ、大丈夫だ。鍛え方が足りんかな」	　......I'm fine. Maybe I didn't train enough.」
+
+24520	Hunty Kalar	「あんだけ暴れといて、	「After rampaging that much,
+24521	+	　それで済むのはあんたくらいさ。	　only you could get away with just that.
+24522	+	　もう、タフさだけならトーマといい勝負だ」	　In terms of toughness alone, you're almost on par with Thoma.」
+
+24523	Patton Helman	「へ、そいつは嬉しいな」	「Heh, I'll take that as a compliment.」
+
+24524	-	軽く首を回して、パットンは無骨に笑った。	Patton rolled his neck lightly and laughed in his usual rough way.
+
+24525	Patton Helman	「さて、大将軍はくたばった。	「Well, the Great General is dead.
+24526	+	　こいつをヘルマン中に宣伝しなきゃな」	　We need to spread this news all over Helman.」
+
+24527	Hunty Kalar	「それはあたしがやっとくよ。	「I'll handle that.
+24528	+	　パットンは迎えが来るまで休んでな」	　Patton, you rest until the reinforcements arrive.」
+
+24529	Patton Helman	「助かるぜ。水ひっかぶったから寒くて……	「Thanks. I'm freezing after getting soaked......
+24530	+	　ふぇっ、ぶしっ！」	　Achoo!」
+
+24531	Hunty Kalar	「散々頑丈さをアピールしといて、	「After showing off how tough you are,
+24532	+	　風邪なんか引くんじゃないよ？」	　don't go catching a cold now.」
+
+24533	Patton Helman	「誰のせいだ、誰の！」	「Whose fault is that, huh?!」
+
+24534	Hunty Kalar	「バーベキューよりはマシだろ。感謝しなよ」	「Better than becoming barbecue. Be grateful.」
+
+24535	-	他愛ない会話に、屈託ない笑い声が続く。	Their lighthearted chatter continued with carefree laughter.
+
+24536	-	ヘルマンの戦争は、ひとつの落着を見せていた。	The war in Helman was reaching a conclusion.
+
+24537	-	魔物大将軍ルメイ、散る。	The Great Monster General LeMay falls.
+
+24538	-	瞬間移動を十全に用いたハンティによって、	Thanks to Hunty's perfect use of teleportation,
+24539	+	それは瞬く間にヘルマン中に広まった。	the news spread across all of Helman in an instant.
+
+24540	-	未だ戦っていた魔物達はそれを知り、逃走。	The monsters still fighting learned of it and fled.
+24541	+	ヘルマン軍は余力が許す限りの追撃を行い、	The Helman army pursued with all remaining strength,
+24542	+	魔軍の戦力を大きく減じさせた。	greatly reducing the Monster Army's forces.
+
+24543	-	――――こうして。	――――And so.
+24544	+	ヘルマンの長い長い一日は、終わりを告げた。	Helman's long, long day came to an end.
+
+24545	-	翌日、ラング・バウ――	The next day, in Lang Bau――
+
+24546	Hubert Lipton	「終わった、か…………ふぅ……」	「It's over...... Haa......」
+
+24547	-	その報告を受け、ヒューバートは安堵の溜息と共に	Upon receiving the report, Hubert let out a sigh of relief
+24548	+	椅子の背に身を預けた。	and leaned back in his chair.
+
+24549	Sanada Tourin	「最後はパットン殿とハンティ殿が	「It seems Patton-dono and Hunty-dono
+24550	+	　やってくれたようですな」	　finished it in the end.」
+
+24551	Hubert Lipton	「ああ。みんな、良くやってくれた。	「Yeah. Everyone did great.
+24552	+	　真田さんも……」	　You too, Sanada......」
+
+24553	Sanada Tourin	「シーラ殿のおかげで死に損ないました」	「Thanks to Sheila-dono, I barely survived.」
+
+24554	Hubert Lipton	「独りで死地に行くたぁ、水くさいぜ」	「Going to a deadly battlefield alone is pretty cold of you.」
+
+24555	Sanada Tourin	「許されよ。これが私の道ゆえ」	「Forgive me. This is simply my path.」
+
+24556	Hubert Lipton	「ああ……いや、そうさせちまったのは、	「Yeah...... No, it was my lack of strength
+24557	+	　俺の力不足だろう」	　that forced you to do that.」
+
+24558	-	やや苦い表情で、ヒューバートは手を振った。	With a slightly bitter expression, Hubert waved his hand.
+
+24559	Hubert Lipton	「誰かが無理しなきゃ成り立たねぇ、	「If someone always has to push themselves,
+24560	+	　ってのはどっかが狂ってんだ。	　something's wrong with the system.
+24561	+	　そこを気付けなきゃな……」	　I need to fix that......」
+
+24562	Hubert Lipton	「付いてきてくれる奴がいるのに、これじゃダメだ。	「I have people willing to follow me. This won't do.
+24563	+	　もっともっと、成長しなけりゃ……」	　I need to grow even more......」
+
+24564	Sanada Tourin	「………………」	「............」
+
+24565	Hubert Lipton	「っと、すまねえな、真田さん。	「Sorry about that, Sanada.
+24566	+	　みっともない愚痴だ」	　Pretty pathetic complaining.」
+
+24567	Sanada Tourin	「……とんでもありません。	「Not at all.
+24568	+	　貴方は、やはり人の上に立つ器」	　You truly have the caliber to stand above others.」
+
+24569	Hubert Lipton	「よしてくれ。まだまださ」	「Cut it out. I'm still far from that.」
+
+24570	Patton Helman	「よう、戻ったぜ！」	「Yo, we're back!」
+
+24571	Hunty Kalar	「や、ヒュー」	「Hey, Hugh.」
+
+24572	Hubert Lipton	「パットンにハンティ、戻ったか！」	「Patton, Hunty, welcome back!」
+
+24573	Patton Helman	「ああ。キッチリ、野郎にはとどめをさしてやった。	「Yeah. I put that bastard down for good.
+24574	+	　お前の刀も役に立ってくれたぜ」	　Your sword helped a lot too.」
+
+24575	-	そう言って、預かっていた刀を返す。	He said as he returned the borrowed sword.
+
+24576	Hubert Lipton	「おっ、焔-ﾎﾑﾗ-か。	「Oh, Homura.
+24577	+	　予備の刀だと、やっぱ落ち着かなく……て……」	　A spare blade just doesn't feel right......」
+
+24578	-	愛刀を手にしたヒューバートの、表情が凍った。	The moment Hubert took his beloved sword, his expression froze.
+
+24579	Hubert Lipton	「って、なんだこりゃあ！	「What the hell is this!
+24580	+	　柄周りは焦げちまってるし、	　The hilt is all burned,
+24581	+	　刀身も……これ、歪んじまってるじゃねえか！」	　and the blade...... it's all bent out of shape!」
+
+24582	Patton Helman	「ああ。野郎、火ぃ吹きやがったからな」	「Yeah. The guy was spitting fire.」
+
+24583	Hunty Kalar	「その炎の中に刀突っ込んでたけどね」	「He was stabbing his sword right into those flames.」
+
+24584	Hubert Lipton	「あーあーあーあー……	「Aaaah......
+24585	+	　しかも馬鹿力でぶん回しやがったなてめぇ！」	　And you were swinging it around with all your stupid strength!」
+
+24586	Patton Helman	「戦ってたんだからしょうがねえだろ！	「I was fighting! Couldn't be helped!
+24587	+	　飾りじゃねえんだぞ！」	　It's not just for decoration!」
+
+24588	Hubert Lipton	「もうちょっと刀に沿った使い方しろってんだよ！	「Use it more like a proper sword!
+24589	+	　ほんっと、剣士の才能ゼロだなお前！」	　You seriously have zero talent as a swordsman!」
+
+24590	Patton Helman	「なっ……そこまで言う事ぁねーだろ！	「Hey...... no need to go that far!
+24591	+	『俺の魂も連れてけ』とか抜かして	　You were the one who said 'Take my soul with you'
+24592	+	　そっちから渡してきた癖に！」	　and handed it over first!」
+
+24593	Hubert Lipton	「それにしたってお前っ……！」	「Even so, you......!」
+
+24594	Hunty Kalar	「…………ぷっ。くく、あははは……」	「............Pfft. Hehe, ahahaha......」
+
+24595	Cream Ganoblade	「作戦成功、おめでとう……………って、	「Congratulations on the successful operation...... wait,
+24596	+	　なんですか、これは……？」	　what is this......?」
+
+24597	Sheila Helman	「あ、兄様……」	「Ah, Brother......」
+
+24598	Peruele Kalette	「え、何？　ケンカ？」	「Eh, what? Are they fighting?」
+
+24599	-	クリームと連れだって、シーラ達がやってきた。	Cream and the others arrived with Sheila.
+
+24600	Hunty Kalar	「ガキが二人、じゃれてんの。	「Just two kids messing around.
+24601	+	　ほっといていいよ」	　Just leave them be.」
+
+24602	Cream Ganoblade	「…………はあ……なんだか、とんでもなく	「......Sigh...... This feels like
+24603	+	　珍しいものを見ているような気が……」	　I'm witnessing something incredibly rare......」
+
+24604	Sheila Helman	「………………ふふ。	「............Fufu.
+24605	+	　懐かしいです、なんだか……」	　This feels somehow nostalgic......」
+
+24606	Hubert Lipton	「この不器用ゴリラが！	「You clumsy gorilla!
+24607	+	　親父の墓にスターブラスター返してこい！」	　Go return Star Blaster to dad's grave!」
+
+24608	Patton Helman	「うるせえ器用貧乏！	「Shut up, you skill-less jack of all trades!
+24609	+	　ツラに似合わねぇ繊細なモン使ってんじゃねえ！」	　Don't use such a delicate blade with that face of yours!」
+
+24610	-	呆れる者、面白がる者をよそに、	While some watched in disbelief and others in amusement,
+24611	+	二人はしばらく、諍い続けていた。	the two continued arguing for a while.
+
+24612	-	ヘルマン共和国が、平和になった。	The Helman Republic had found peace.

@@ -1,0 +1,180 @@
+# 31199	２４０／５／ジフテリア軍	
+* JAPAN Samurai	汎用男武士兵	Male
+* Biyonhou Osman	ビヨンホウ	Male
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Katyusha Bosch	カチューシャ	Female
+* Convert Tax	コンバート	Male
+* Free Cities Guard	汎用自由都市警備兵Ｂ	Male
+
+59686	JAPAN Samurai	「とにかく！　よろしくお願い申す！	「Anyway! Please!
+59687	+	　こうしてる間にも、勝機は……！」	　While we're doing this, our chance of victory...!」
+
+59688	Biyonhou Osman	「もちろん、承知している。	「Of course, I'm aware.
+59689	+	　だが私の軍にも事情があってね。	　But my army has its own circumstances.
+59690	+	　解決次第、すぐに動くとお伝えしてくれ」	　Tell them we'll move as soon as it's resolved.」
+
+59691	JAPAN Samurai	「ッ、なんなのでござるか、その事情とは！	「What are those circumstances!?
+59692	+	　人類全体が戦っているこの瞬間より、	　Are they more important than this moment
+59693	+	　重要と申されるのか！？」	　when all of humanity is fighting!?」
+
+59694	Biyonhou Osman	「都市内の機密だ」	「It's a secret within the city.」
+
+59695	JAPAN Samurai	「ぐ、ぬ、うううぅぅぅっ……」	「Gu, nu, uuuuuh...」
+
+59696	-	先ほどから、この繰り返しであった。	This exchange had been repeating for a while.
+
+59697	-	出撃するまで梃子でも動かぬと息巻いた使者も、	Even the messenger who had angrily declared he wouldn't move until they deployed,
+59698	+	ビヨンホウの鉄面皮の前に、	could achieve nothing before Biyonhou's poker face.
+59699	+	なんの成果も上げる事は出来なかった。	
+
+59700	Biyonhou Osman	「大丈夫だ。この戦況、容易に有利は動かん。	「It's fine. The situation won't easily turn advantageous.
+59701	+	　使者殿には分からぬ事かもしれんが、	　You may not understand, messenger,
+59702	+	　全ては確実な勝利のために、だ」	　but everything is for certain victory.」
+
+59703	JAPAN Samurai	「………………っ……！」	「............!」
+
+59704	Biyonhou Osman	「そら。そろそろ戻った方がいい。	「There. You should head back soon.
+59705	+	　貴重なてばさき隊だ、仕事は多いだろう」	　Precious Tebasaki unit, you have lots of work.」
+
+59706	-	それは、事実だった。	That was true.
+59707	+	刀を抜きたい衝動を抑えながら、	While suppressing the urge to draw his sword,
+59708	+	使者はてばさきに跨がった。	the messenger mounted his Tebasaki.
+
+59709	JAPAN Samurai	「しかとお伝え申しましたぞ！	「I have delivered the message!
+59710	+	　一刻も早く、出陣を！」	　Deploy as soon as possible!」
+
+59711	Biyonhou Osman	「ああ」	「Yeah.」
+
+59712	-	そっけない対応に、	To the curt response,
+59713	+	使者は一度燃えるような眼光を叩きつけてから、	the messenger shot him a fiery glare once,
+59714	+	てばさきを操り、後方へと走っていった。	then rode off toward the rear.
+
+59715	Biyonhou Osman~	（まったく……ご苦労な事だ）	（Good grief... What a hassle.）
+
+59716	Free Cities Guard	「オスマン様。	「Lord Osman.
+59717	+	　その……何故、動かないのでありますか」	　Um... Why aren't we moving?」
+
+59718	Biyonhou Osman	「む……」	「Mu...」
+
+59719	Free Cities Guard	「その、使者の……というより、司令部の要請は	「The messenger's... or rather, headquarters' request
+59720	+	　正しいと思うのですが……」	　seems correct to me...」
+
+59721	Free Cities Guard	「この戦いは、自由都市地帯全体の……いえ、	「This battle will decide the fate of the entire Free Cities region... no,
+59722	+	　人類の命運を左右する一戦です。	　of all humanity.
+59723	+	　負ければ、我々は…………」	　If we lose, we will......」
+
+59724	Biyonhou Osman	「……………………」	「........................」
+
+59725	Biyonhou Osman~	（そう……負ければ、全ては終わりだ）	（Yes... If we lose, it's all over.）
+
+59726	Biyonhou Osman~	（だからこそ、ジフテリアを……	（That's why I must protect Diphteria...
+59727	+	　私は、私が守るべき者を守らねばならん。	　I must protect those I need to protect.
+59728	+	　何を犠牲にしても、な……）	　No matter what I sacrifice...）
+
+59729	Biyonhou Osman	「裏切り……だと……？	「Betrayal...?」
+59730	+	　なるほど、貴女の考えそうな事だ」	　I see, that's the kind of thing you'd think.」
+
+59731	Katyusha Bosch	「そう的外れな事かしら。	「Is it really that off the mark?
+59732	+	　オスマン都市長は、勝てるとお思い？」	　Do you think we can win, Mayor Osman?」
+
+59733	Biyonhou Osman	「降って助かるとは、到底思えんがな」	「I can't possibly think we'll be saved by surrendering.」
+
+59734	Convert Tax	「それがそーでもないんですわ、都市長はん！」	「That's not necessarily true, Mayor!」
+
+59735	Biyonhou Osman	「………………」	「............」
+
+59736	Katyusha Bosch	「魔軍に出入りしてる、工作員よ。	「She's an operative who goes in and out of the Monster Army.
+59737	+	　向こうの代理人だと思っていいわ」	　You can think of her as their agent.」
+
+59738	Convert Tax	「コンバート言いますねん！	「Name's Convert!
+59739	+	　それでな都市長はん。今がチャンスやねん！	　And now's the chance, Mayor!
+59740	+	　魔軍は人間の協力者を引き込みたいんですわ！」	　The Monster Army wants to pull in human collaborators!」
+
+59741	Convert Tax	「今なら、戦争終わった後の、人間奴隷の管理者に	「Right now, you can get yourself a position managing human slaves
+59742	+	　ねじ込んでもらえるんですわ。ええ、今だけ！」	　after the war ends. Yes, only now!」
+
+59743	Biyonhou Osman	「……………………」	「........................」
+
+59744	Katyusha Bosch	「今……厳しいと思わない？	「Don't you think the current situation is harsh?
+59745	+	　何十万、何百万という敵の戦力と、魔人……」	　Hundreds of thousands, millions of enemy troops and Fiend...」
+
+59746	Katyusha Bosch	「倒せるらしいのは、剣一本握った男一人。	「The only one who can supposedly defeat them is one man holding a sword.
+59747	+	　それも、普通の人間よ。	　And he's just a normal human.
+59748	+	　あの魔人たち全てを、倒せると思う？」	　Do you think he can defeat all those Fiends?」
+
+59749	Katyusha Bosch	「そんなものに……都市長さんは、	「Are you going to bet everything on that...
+59750	+	　賭けちゃうのかしらね。ご家族の、命まで」	　including the lives of your family, Mayor?」
+
+59751	Biyonhou Osman	「………………！」	「............!」
+
+59752	-	ビヨンホウの、表情が変わる。	Biyonhou's expression changed.
+
+59753	-	愛しい者達が脳裏に浮かんだのを、	The images of his beloved ones flashed in his mind,
+59754	+	隠し通そうとして失敗した。	and he failed to hide it.
+
+59755	Katyusha Bosch	「信用、という話なら……私と契約すればいいわ。	「If it's about trust... you can make a contract with me.
+59756	+	　……あなたは分かるでしょう、その意味が」	　...You understand what that means, right?」
+
+59757	Biyonhou Osman	「…………………………	「..............................
+59758	?	分かった」	Understood.」
+
+59759	-	押し殺したような声と共に、	With a suppressed voice,
+59760	+	ビヨンホウは力なく頷いた。	Biyonhou nodded weakly.
+
+59761	Convert Tax	「はっはーーー！　よっしゃよっしゃ！	「Hah haaa! Yes yes!
+59762	+	　ええ判断ですわ！」	　Excellent decision!」
+
+59763	Katyusha Bosch	「決まりね」	「It's decided.」
+
+59764	Biyonhou Osman	「……だが、安堵してもらうのはジフテリア全体だ。	「...But the relief will be for all of Diphteria.
+59765	+	　私には責任がある」	　I have a responsibility.」
+
+59766	Convert Tax	「魔軍に従うなら問題ないやろ。	「If you follow the Monster Army there won't be any problem.
+59767	+	　ほな、あんじょう頼みまっせ。	　So, please take care of it.
+59768	+	　まずは…………」	　First of all............」
+
+59769	Biyonhou Osman	「…………悪いが、選ばせてもらう。確実な……	「...Sorry, but I'll choose the certain path.
+59770	+	　そう、ジフテリアの確実な勝利のために、な」	　Yes, for Diphteria's certain victory.」
+
+59771	Free Cities Guard	「は？」	「Huh?」
+
+59772	Biyonhou Osman	「戦闘準備！　突撃するぞ。	「Prepare for battle! We charge.
+59773	+	　……ただし、魔軍にではない」	　...But not at the Monster Army.」
+
+59774	Free Cities Guard	「ははっ！　…………はっ？」	「Hah! ............Huh?」
+
+59775	Biyonhou Osman	「転進し、自由都市連合軍司令部を押さえる！」	「Turn around and seize the Free Cities Alliance Army Headquarters!」
+
+59776	Free Cities Guard	「なっ……なんですと！？	「Wha... What did you say!?
+59777	+	　オスマン様！　これはどういう……！」	　Lord Osman! What is this...!」
+
+59778	Biyonhou Osman	「…………………………」	「........................」
+
+59779	Free Cities Guard	「う、裏切るのですか！？　じ、人類を……っ」	「U-You're betraying us!? Humanity...!」
+
+59780	Biyonhou Osman	「全ては、人類全体と……ジフテリアのためだ。	「This is all for the sake of all humanity... and Diphteria.
+59781	+	　機会は今しかない。迅速に動け！」	　This is our only chance. Move quickly!」
+
+59782	Free Cities Guard	「し、しかし……！」	「B-But...!」
+
+59783	Free Cities Guard	「よせ！　オスマン様も苦渋の決断なのだ。	「Stop! Lord Osman has made a painful decision.
+59784	+	　……私たちの仕事はなんだ？」	　...What is our job?」
+
+59785	Free Cities Guard	「く……ジフテリアの、ため……	「Kuh... For Diphteria's sake...
+59786	+	　都市長閣下を、お助けする、こと……」	　To assist His Excellency the Mayor...」
+
+59787	Free Cities Guard	「そうだ！　では、何をすべきか分かるな！」	「That's right! Then you know what to do!」
+
+59788	Free Cities Guard	「く…………わかり、ました……！」	「Kuh............ Understood...!」
+
+59789	Biyonhou Osman	「すまん」	「Sorry.」
+
+59790	Free Cities Guard	「い、いいえ！　オスマン様こそ、辛い決断を……	「N-No! Lord Osman, you made such a painful decision...
+59791	+	　すぐに伝達に回ります！」	　I'll relay it immediately!」
+
+59792	-	その通達は、ジフテリア軍全体に	That order spread throughout the entire Diphteria army
+59793	+	衝撃と共に浸透していった。	with a shock.
+
+59794	-	取り返しの付かない破滅を予感した者は	Many sensed an irreversible doom,
+59795	+	少なくなかったが……	but...
+59796	+	それを止められる者は、この場には存在しなかった。	there was no one present who could stop it.

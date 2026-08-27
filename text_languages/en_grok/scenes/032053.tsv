@@ -1,0 +1,229 @@
+# 32053	パレロア／キャライベントＢ	
+* Sill Plain	シィル	Female
+* Rance	ランス	Male
+* Paleloa	パレロア	Female
+* Masou Shizuka	子供志津香	Female
+* Nagi su Ragarl	子供ナギ	Female
+
+119654	Sill Plain	「あら……」	「Oh...」
+
+119655	Rance	「んー、どした、シィル」	「Hmm, what's up, Sill.」
+
+119656	-	散歩中、シィルが何かを発見した。	While on a walk, Sill spotted something.
+
+119657	Sill Plain	「いえ、ランス様。	「No, Rance-sama.
+119658	+	　あちらの……」	　Over there...」
+
+119659	Rance	「ん〜？」	「Hmm~?」
+
+119660	Paleloa	「あら、これはランスさん」	「Oh, it's Rance-san.」
+
+119661	Masou Shizuka	「げっ……」	「Geh...」
+
+119662	Nagi su Ragarl	「おっ、ランスだー」	「Oh, it's Rance~」
+
+119663	Rance	「あれ？」	「Eh?」
+
+119664	-	何故か、志津香とナギの二人が、	For some reason, Shizuka and Nagi
+119665	+	ケッセルリンクのメイドである	were walking together with Paleloa,
+119666	+	パレロアと一緒に歩いていた。	who is one of Kesselring's maids.
+
+119667	-	――仲良く手を繋いで。	――Holding hands affectionately.
+
+119668	Rance	「ナギは別におかしくもないが……」	「Nagi is fine but...
+
+119669	Rance	「志津香、お前までどうした？」	　Shizuka, what about you?」
+
+119670	Masou Shizuka	「ちょ、ちょっと耳貸して……」	「H-Hey, lend me your ear...」
+
+119671	Rance	「な、なんだなんだ？」	「W-What what?」
+
+119672	Masou Shizuka	「実は……その……」	「Actually... um...」
+
+119673	Masou Shizuka	「パレロアさん、私のこと	「Paleloa-san thinks
+119674	+	　見た目通りの年齢だと思ってるのよ」	　I'm the age I look.」
+
+119675	Rance	「ま、普通はそう思うわな」	「Well, that's normal to think.」
+
+119676	Masou Shizuka	「私も説明とか面倒臭がって	「I was too lazy to explain
+119677	+	　わざわざ否定しなかったんだけど……」	　and didn't bother denying it...
+
+119678	Masou Shizuka	「その後、子供にするみたいな世話を	　After that, she kept treating me like a child
+119679	+	　何度もされて、今更否定も出来なくて……」	　so now it's too late to deny it...」
+
+119680	Rance	「お前、地味に面倒臭がりだからな。	「You're pretty lazy about bothersome things.
+119681	+	　自業自得って奴だな」	　This is your own fault.」
+
+119682	Masou Shizuka	「……あんたに言われたくない」	「...Don't want to hear that from you.」
+
+119683	Masou Shizuka	「ま、とにかくそういうことだから、	「Anyway, that's the situation,
+119684	+	　変なことだけは言わないようにして」	　so don't say anything weird.」
+
+119685	Rance	「んー、ま、よかろ」	「Hmm, well, okay.」
+
+119686	Rance	「で、これからどっか行くのか？」	「So, where are you going now?」
+
+119687	Paleloa	「ええ、少し城の裏手まで。	「Yes, just to the back of the castle.
+119688	+	　よければランスさんも	　Would you like to join us,
+119689	+	　ご一緒いたしますか？」	　Rance-san?」
+
+119690	Rance	「んー、いいや。	「Hmm, nah.
+119691	+	　君達で行って来なさい」	　You girls go ahead.」
+
+119692	Paleloa	「はあ……」	「Haa...」
+
+119693	Rance	「？　なんだ不思議そうな顔して」	「? Why the strange look?」
+
+119694	Paleloa	「いえ、見ての通り私は今、	「No, as you can see, right now I'm
+119695	+	　この城とゆかりのある女の子達を	　taking care of girls connected to this castle...
+119696	+	　預かっているわけで……」	
+
+119697	Paleloa	「この子達を預かる時の	　When taking care of these children,
+119698	+	　千姫さんもそうでしたが……	　Senhime-san was the same but...
+119699	+	　敵の女をあまり信頼されても困るな、と」	　it's troublesome if you trust enemy women too much.」
+
+119700	Paleloa	「何か……変なことをするかもと、	「You could at least suspect
+119701	+	　少しくらい思ってもいいのでは？」	　that I might do something weird.」
+
+119702	Rance	「するのか？」	「Are you going to?」
+
+119703	Paleloa	「まさか……」	「Of course not...」
+
+119704	Rance	「千姫は平気と判断したんだろ？	「Senhime judged it was fine, right?
+119705	+	　なら、別に俺から言うことはない」	　Then I have nothing to say.」
+
+119706	Paleloa	「ふふ、なるほど。わかりました」	「Fufu, I see. Understood.」
+
+119707	Rance	「ま、なんかあっても	「Well, even if something happens,
+119708	+	　志津香がいれば平気だろうしな」	　Shizuka is with them so it'll be fine.」
+
+119709	Paleloa	「志津香がいれば？」	「If Shizuka is there?」
+
+119710	Masou Shizuka	「余計なこと言わない！」	「Don't say unnecessary things!」
+
+119711	Rance	「いって！	「Ouch!
+119712	+	　スネを蹴るんじゃない、スネを！」	　Don't kick my shin, my shin!」
+
+119713	Paleloa	「こら、志津香！」	「Hey, Shizuka!」
+
+119714	Masou Shizuka	「え、え？」	「Eh, eh?」
+
+119715	Paleloa	「なんで怒ってるのか分からないけど、	「I don't know why you're angry,
+119716	+	　年上のお兄さんを蹴ったりしては駄目でしょう」	　but you shouldn't kick an older brother.」
+
+119717	-	すぐさまパレロアは志津香と目線を合わせ、	Paleloa immediately knelt to Shizuka's eye level
+119718	+	真剣な表情で説教を始めた。	and began lecturing her seriously.
+
+119719	Masou Shizuka	「え、あ……いや、でも……」	「Eh, ah... no, but...」
+
+119720	Paleloa	「でも、ではないでしょう？」	「No 'buts', alright?」
+
+119721	Rance	「がははは、やーい、怒られてる」	「Gahahaha, hah, you're getting scolded.」
+
+119722	Masou Shizuka	「あんたねぇ！」	「You!」
+
+119723	Paleloa	「こら。	「Hey.
+119724	+	　あんた、も違うでしょう？」	　You shouldn't say 'you' either.」
+
+119725	Masou Shizuka	「あぐっ……」	「Agu...」
+
+119726	Masou Shizuka	「ま、まあ……	「W-Well...
+119727	+	　あまりいい行為ではなかった、わね。	　It wasn't a very good thing to do.
+119728	+	　ごめんなさい」	　I'm sorry.」
+
+119729	Paleloa	「……志津香はちゃんと考えて、	「...Shizuka thought about it properly
+119730	+	　謝ることが出来て偉いわね。	　and apologized, good girl.
+119731	+	　でも、私に謝るのではないでしょう？」	　But you shouldn't apologize to me.」
+
+119732	Masou Shizuka	「へ？」	「Eh?」
+
+119733	Paleloa	「ランスさんにちゃんと、	「You need to properly apologize
+119734	+	　お兄さんごめんなさいって言わないと駄目よ」	　to Rance-san and say 'big brother, I'm sorry'.」
+
+119735	Masou Shizuka	「えっ、それ言わないと駄目なの！？」	「Eh, I have to say that!?」
+
+119736	Paleloa	「駄目よ」	「Yes, you do.」
+
+119737	Masou Shizuka	「うっ、ぐ……う、うううう……」	「Ugh, gu... U, uuuu...」
+
+119738	Masou Shizuka	「…………はあ」	「............Haa」
+
+119739	-	志津香は少し唸ったが、	Shizuka groaned a bit,
+119740	+	観念するとランスに向き直り――	but eventually gave in and turned to Rance――
+
+119741	Rance	「お、おおっ？」	「O-Ohh?」
+
+119742	-	ぺこりと頭を下げた。	She bowed her head with a bob.
+
+119743	Masou Shizuka	「お、お兄さん……ごめんなさい……」	「B-Big brother... I'm sorry...」
+
+119744	Paleloa	「はい、よく出来ました。	「Yes, well done.
+119745	+	　いい子ね、志津香は」	　Good girl, Shizuka.」
+
+119746	-	パレロアが優しく志津香の頭を撫でる。	Paleloa gently stroked Shizuka's head.
+
+119747	Masou Shizuka	「あ、あはは……」	「A, ahaha...」
+
+119748	Rance	「がははははははは！	「Gahahahahahaha!
+119749	+	　まさか、志津香の口から	　To think I'd hear
+119750	+	　そんな言葉が聞けるなんてなー！」	　such words from Shizuka's mouth!」
+
+119751	Paleloa	「ランスさん」	「Rance-san.」
+
+119752	Rance	「へ？」	「Eh?」
+
+119753	-	今度はジロリとした視線が	This time a sharp glare
+119754	+	ランスに向けられる。	was directed at Rance.
+
+119755	Paleloa	「こんな小さな子が頭を下げて、	「Making such a small child bow her head
+119756	+	　それを笑うとは何事ですか？」	　and then laughing at it, what is that?」
+
+119757	Rance	「う、うむ……そう、だな……	「U, um... yeah, that's right...
+119758	+	　すまん……」	　Sorry...」
+
+119759	Paleloa	「私に謝るのではないでしょう？	「You shouldn't apologize to me.
+119760	+	　志津香に言うことはないのですか？」	　Don't you have something to say to Shizuka?」
+
+119761	Rance	「うっ、ぐ……」	「Ugh, gu...」
+
+119762	Rance	「す、すまん、かったな……志津香……」	「S-Sorry... Shizuka...」
+
+119763	Paleloa	「志津香、こう言ってるけど、どう？」	「Shizuka, he said that, what do you think?」
+
+119764	Masou Shizuka	「いや、私は別に、まあ……	「Well, I don't really mind...
+119765	+	　い、いいけど……」	　I-It's fine...」
+
+119766	Rance	「う、うむ……そうか……」	「U, um... I see...」
+
+119767	Sill Plain	「わあ、すごいですね。	「Wow, that's amazing.
+119768	+	　ランス様と志津香さんがこんな素直に！	　Rance-sama and Shizuka being so honest!
+119769	+	　私、初めて見ちゃいました」	　It's my first time seeing this.」
+
+119770	Sill Plain	「あいたっ！	「Ouch!
+119771	+	　クスン、なんで叩くんですかぁ？」	　Sniff, why did you hit me?」
+
+119772	Rance	「や、やかましい！」	「S-Shut up!」
+
+119773	Masou Shizuka	「はあ……」	「Haa...」
+
+119774	Masou Shizuka~	（知らなかった……	（I didn't know...
+119775	+	　私、こういう相手に案外弱いのかも……）	　I might be surprisingly weak against this kind of person...）
+
+119776	Paleloa	「ん？　どうしたの？」	「Hm? What's wrong?」
+
+119777	Masou Shizuka	「い、いえ、なんでも……」	「N-No, nothing...」
+
+119778	Nagi su Ragarl	「ねーねーねー、どうしたのー？	「Hey hey hey, what's wrong~?
+119779	+	　早く行こうよ、行こうよー」	　Let's go quickly, let's go~」
+
+119780	Paleloa	「ああ、はいはい、ごめんね。	「Ah, yes yes, sorry.
+119781	+	　そろそろ行きましょうか」	　Shall we get going?」
+
+119782	Paleloa	「では、失礼しますね、ランスさん」	「Well then, excuse us, Rance-san.」
+
+119783	Rance	「お、おう」	「Y-Yeah.」
+
+119784	-	パレロアはナギと、そして志津香と	Paleloa left hand in hand
+119785	+	仲良くお手々繋いで行ってしまった。	with Nagi and Shizuka.
+
+119786	Rance	「お、おかんパワー……」	「M-Mom power...」

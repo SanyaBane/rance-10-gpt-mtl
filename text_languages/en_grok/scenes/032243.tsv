@@ -1,0 +1,213 @@
+# 32243	０５／村に入る１	
+* Pastel Kalar	パステル	Female
+* Sakura Kalar	サクラ	Female
+* Rance	ランス	Male
+* Reset Kalar	リセット	Female
+* Sill Plain	シィル	Female
+* Kalar	汎用カラー	Female
+* Crook Mofus	クルックー	Female
+
+133592	-	カラーの村――	The Kalar Village--
+133593	+	ペンシルカウ――	Pencilcow--
+
+133594	-	女王の執務室では、	In the queen's office,
+133595	+	パステルが部下であるサクラと	Pastel was holding a meeting with her subordinate Sakura
+133596	+	沈痛な面持ちで会議をしていた。	with a grave expression.
+
+133597	Pastel Kalar	「サクラ、まだこの村は、	「Sakura, the village has still
+133598	+	　魔軍に見つかっておらぬな」	　not been found by the Monster Army, right?」
+
+133599	Sakura Kalar	「はい、それはまだ……」	「Yes, not yet...」
+
+133600	Pastel Kalar	「時が来ればイージスをこちらに呼び戻せ。	「When the time comes, call Aegis back here.
+133601	+	　魔軍との徹底抗戦に備える」	　Prepare for an all-out battle against the Monster Army.」
+
+133602	Sakura Kalar	「いえ、で、ですが……	「No, b-but...
+133603	+	　ここで抗戦をしたところで、到底……」	　Even if we fight here, it's impossible...」
+
+133604	Pastel Kalar	「サクラ、これは女王としての命令じゃ」	「Sakura, this is an order as queen.」
+
+133605	Sakura Kalar	「…………………	「............」
+133606	?	はい」	「Yes.」
+
+133607	Rance	「おーう、邪魔するぞー！」	「Ooh, sorry to intrude!」
+
+133608	Pastel Kalar	「ぎゃあ！？」	「Gyaa!?」
+
+133609	-	執務室の扉が乱暴に開けられ、	The office door was violently opened,
+133610	+	パステルは闖入者を見た。	and Pastel saw the intruder.
+
+133611	Pastel Kalar	「な、なな、なななな……	「W-what, wha-wha-wha...
+133612	+	　お、お前は――」	　Y-you are--」
+
+133613	Reset Kalar	「おとーさん！」	「Daddy!」
+
+133614	Rance	「がははははは！　来たぞー！」	「Gahahahahaha! I'm here!」
+
+133615	Reset Kalar	「おとーさん！　おとーさん！　おとーさん！	「Daddy! Daddy! Daddy!
+133616	+	　おとーさん！　おとーさん！　おとーさん！」	　Daddy! Daddy! Daddy!」
+
+133617	-	リセットがランスの	Reset ran around
+133618	+	足下をちょろちょろと動き回る。	frantically at Rance's feet.
+
+133619	Rance	「だー、落ち着け！」	「Hey, calm down!」
+
+133620	Sill Plain	「ふふ、相変わらず元気一杯ですね」	「Fufu, she's as energetic as ever.」
+
+133621	Reset Kalar	「あー、シィルおねーちゃんだ！」	「Ah, it's big sis Sill!」
+
+133622	Sill Plain	「久しぶり、リセットちゃん。	「Long time no see, Reset-chan.
+133623	+	　ランス城で会った以来ね」	　Since we met at Rance Castle.」
+
+133624	Reset Kalar	「わーい、もふもふ、もこもこ」	「Yay, fluffy, poofy!」
+
+133625	Sill Plain	「ふふふ……」	「Fufufu...」
+
+133626	Pastel Kalar	「だー、こらこらこら！	「Hey, hey, hey!
+133627	+	　リセット！　人間に懐くでないわ！」	　Reset! Don't get attached to humans!」
+
+133628	Pastel Kalar	「ではなくて……」	「That's not the point...」
+
+133629	Pastel Kalar	「何故貴様がここにおる」	「Why are you here?」
+
+133630	Rance	「そんなことはどうでもいいわい」	「That doesn't matter.」
+
+133631	Pastel Kalar	「あいたぁっ！？」	「Ouch!?」
+
+133632	Pastel Kalar	「ちょ、チョップしおったな……	「You just chopped me...
+133633	+	　こ、この、誇り高きカラーの女王の頭に……」	　On the head of this proud queen of the Kalars...」
+
+133634	Rance	「お前らここでのんびりと何しとる」	「What are you all doing relaxing here?」
+
+133635	Pastel Kalar	「何しとるって……」	「What are we doing...」
+
+133636	Rance	「敵は大軍団なんだぞ、	「The enemy is a huge army,
+133637	+	　森の侵入結界でも隠しきれんだろ。	　even the forest's intrusion barrier can't hide you forever.
+133638	+	　なんで誰も逃げる準備もしていない」	　Why hasn't anyone prepared to escape?」
+
+133639	Pastel Kalar	「ふ、ふん、そんなことは分かっておるわ！」	「H-hmph, of course I know that!」
+
+133640	Rance	「何を考えとるのか知らんが、	「I don't know what you're thinking,
+133641	+	　村を捨ててすぐに逃げるぞ」	　but we're abandoning the village and escaping immediately.」
+
+133642	Pastel Kalar	「この村を捨てるじゃと！？	「Abandon this village!?」
+133643	+	　馬鹿を申すな！　このたわけが！」	　Don't talk nonsense! You fool!
+
+133644	Pastel Kalar	「この村は先祖代々が守り続けたペンシルカウ！」	　This village is Pencilcow, protected by our ancestors for generations!」
+
+133645	Pastel Kalar	「始祖様を始めとした、この村を作った者達が、	「The founder and those who built this village
+133646	+	　どれほどの苦労をしたと思っておるのじゃ！」	　went through so much hardship!」
+
+133647	Rance	「あー……	「Ah...
+133648	+	　やっぱり、そういうこと考えてたか」	　So that's what you were thinking after all.」
+
+133649	Pastel Kalar	「む、なんじゃ……	「Mu, what...
+133650	+	　そのアホを見るような目は……」	　That look like you're looking at an idiot...」
+
+133651	Rance	「アホ」	「Idiot.」
+
+133652	Pastel Kalar	「なあっ！？」	「Whaaat!?」
+
+133653	Rance	「それで全員お陀仏になったら意味ないだろうが」	「If everyone dies because of that, there's no point.」
+
+133654	Pastel Kalar	「やかましい！　やかましい！	「Shut up! Shut up!
+133655	+	　とにかく人間の言うこと……	　Anyway, I won't listen to what a human says...
+133656	+	　それも貴様の言うことなんぞ絶対に聞かんわ！」	　especially not you!」
+
+133657	Sakura Kalar	「……その、パステル様はずっとこの調子で」	「...Pastel-sama has been like this the whole time.」
+
+133658	Rance	「む、君は確かパステルの部下の子。	「Mu, you're Pastel's subordinate girl.
+133659	+	　そうか、ずっとこの調子か……」	　I see, she's been like this the whole time...」
+
+133660	Rance	「いっそ、パステルだけ置いて	「Maybe we should just leave Pastel behind
+133661	+	　他の皆だけで逃げるか」	　and escape with everyone else.」
+
+133662	Pastel Kalar	「アホか！」	「Idiot!」
+
+133663	Sakura Kalar	「さすがにそういうわけには……」	「We can't really do that...」
+
+133664	Rance	「……仕方ないな、そこまで言うなら分かった。	「...Can't be helped. If you insist that much, fine.
+133665	+	　無理強いはせん」	　I won't force you.」
+
+133666	Pastel Kalar	「む、う？　いつになく素直な……」	「Mu, u? You're being unusually obedient...」
+
+133667	Rance	「俺様、ちょっと小便」	「I'm gonna take a piss.」
+
+133668	Pastel Kalar	「あ、おい、どこへ……ッ！？」	「Hey, where are you...!?」
+
+133669	-	ランスが部屋を出て行った。	Rance left the room.
+
+133670	-	五分後――	Five minutes later--
+
+133671	Pastel Kalar	「あの男……まだ戻ってこんのか……？」	「That man... hasn't come back yet...?」
+
+133672	Pastel Kalar	「ええい、近くにいると鬱陶しい癖に、	「Jeez, he's annoying when he's near,
+133673	+	　姿が見えぬとそれはそれでおっかない奴め」	　but scary when I can't see him.」
+
+133674	Kalar	「ぱ、パステル様！　大変です！」	「P-Pastel-sama! It's terrible!」
+
+133675	Pastel Kalar	「なんじゃ！？　まさか、ついに魔軍が……！？」	「What!? Don't tell me the Monster Army finally...!?」
+
+133676	Kalar	「い、いえ、違います、とにかくすぐ外へ……ッ！」	「N-no, it's not that, just come outside quickly...!」
+
+133677	Pastel Kalar	「いったい何が……？」	「What on earth...?」
+
+133678	-	　	　
+133679	+	　＜メラメラ、メラメラ……＞	　＜Fwoosh, fwoosh...＞
+
+133680	Pastel Kalar	「わぁーーーーッ！	「Waaaaah!
+133681	+	　むむむ、村が燃えておる！　村が燃えておるー！」	　M-mu-mu, the village is burning! The village is on fire!」
+
+133682	-	村が燃えていた。	The village was burning.
+
+133683	Rance	「燃やしたのは俺だーッ！」	「I set it on fire!」
+
+133684	Pastel Kalar	「アホかーーーーーーーッ！」	「You idiot-----!」
+
+133685	Crook Mofus	「私も手伝いました」	「I helped too.」
+
+133686	Pastel Kalar	「法王！　貴様は何度カラーの村を	「Pope! How many times will you
+133687	+	　危機に陥れれば気が済むんじゃ――！」	　put the Kalar Village in crisis before you're satisfied--!」
+
+133688	Crook Mofus	「火はいいですね……	「Fire is nice...
+133689	+	　ワクワクします……」	　It makes me excited...」
+
+133690	Pastel Kalar	「聞かんかー！　今度こそ完膚無きまでに殺すー！」	「Are you listening!? This time I'll kill you completely!」
+
+133691	Rance	「これでそのうち魔物にここがバレる。	「With this, the monsters will find this place soon.
+133692	+	　すぐに逃げないと、大変なことになるなー」	　If we don't escape immediately, it'll be bad.」
+
+133693	Pastel Kalar	「うわぁーん！　アホかー！　おのれはアホかー！」	「Uwaaaan! Idiot! You idiot!」
+
+133694	Rance	「えーい、泣くな、泣くな。	「Hey, stop crying, stop crying.
+133695	+	　泣いてる暇はないぞ」	　We don't have time for crying.」
+
+133696	Rance	「これで逃げるしか選択肢はなくなった。	「Now there's no choice but to escape.
+133697	+	　さあ、どうする」	　So, what will you do?」
+
+133698	Pastel Kalar	「くっ、くぅぅぅ……この男は……」	「Kuh, kuuuu... This man...」
+
+133699	Reset Kalar	「おかーさん……」	「Mommy...」
+
+133700	-	リセットが心配そうに	Reset worriedly
+133701	+	パステルのスカートをつまんだ。	tugged on Pastel's skirt.
+
+133702	Pastel Kalar	「ぐっ……ぐぅうぅぅう〜〜〜……」	「Gu... Guuuu~~~...」
+
+133703	-	カクンとパステルは首を垂れた。	Pastel drooped her head.
+
+133704	Pastel Kalar	「……ペンシルカウを……ぐっ、放棄する……」	「...We will... guh, abandon Pencilcow...」
+
+133705	Sakura Kalar	「皆の者、女王の言葉を聞きましたね！	「Everyone, you heard the queen's words!
+133706	+	　すぐに避難の用意を！」	　Prepare for evacuation immediately!」
+
+133707	-	サクラの言葉に、村中にいたカラーの一族が	At Sakura's words, the Kalar clan throughout the village
+133708	+	逃亡の準備を始める。	began preparing to flee.
+
+133709	Rance	「おーおー、騒がしくなってきたな」	「Ooh ooh, it's getting noisy.」
+
+133710	Sakura Kalar	「パステル様は神具の用意を」	「Pastel-sama, prepare the divine artifacts.」
+
+133711	Pastel Kalar	「うむ」	「Yes.」
+
+133712	Rance	「神具？」	「Divine artifacts?」

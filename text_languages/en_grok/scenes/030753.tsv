@@ -1,0 +1,105 @@
+# 30753	２７０／スタート	
+* Rance	ランス	Male
+* Toushin Zeta	闘神ゼータ	Male
+* Kibako	キバ子	Female
+* Reset Kalar	リセット	Female
+* Patton Helman	パットン	Male
+* Sheila Helman	シーラ	Female
+
+29501	Rance	「お……」	「Oh......」
+
+29502	-	ランスが中庭をうろついていると、	While Rance was wandering around the courtyard,
+29503	+	ひときわ目立つ大きなものが、立ち尽くしていた。	a massive figure stood out prominently.
+
+29504	Toushin Zeta	「……城主殿か」	「......Lord of the castle?」
+
+29505	Rance	「おうロボ野郎。…………何やってるんだ？」	「Yo, tin can. ......What are you doing?」
+
+29506	Toushin Zeta	「……何もしない、ように腐心しているところだ」	「......I'm making every effort to do nothing.」
+
+29507	Kibako	「うっ、うっ……♪」	「Uhh, uhh......♪」
+
+29508	Reset Kalar	「がははー！」	「Gahaha!」
+
+29509	-	見れば、リセットとキバ子が遊具か何かのように	Reset and Kibako were clinging to Zeta
+29510	+	纏わりつき、ゼータのあちこちにぶら下がっていた。	like playground equipment, hanging all over him.
+
+29511	Rance	「何やってんだホントに……	「What the hell are you doing......
+29512	+	　ビスケッタさんに言って引っぺがさせるか」	　Want me to tell Biscuitta to rip them off?」
+
+29513	Toushin Zeta	「いや……修正は必要ない。	「No...... Correction is unnecessary.
+29514	+	　安全面は、私が気を配っておく」	　I will ensure their safety.」
+
+29515	Rance	「ふーん？　まあいいが。	「Hmm? Whatever.
+29516	+	　ただのでかいオブジェやってないで、	　Stop acting like a giant decoration
+29517	+	　きちんと働けよ」	　and do some actual work.」
+
+29518	Toushin Zeta	「神経回路の拡張は進行中だ。	「Neural expansion is in progress.
+29519	+	　いずれこの闘神都市……いやランス城、だったか。	　Eventually this Toushin city...... or rather Rance Castle.
+29520	+	　この城と同化できるだろう」	　I should be able to merge with this castle.」
+
+29521	Rance	「俺様の城なのに……	「It's my castle though......
+29522	+	　なんか闘神に乗っ取られてると思うと	　Thinking a Toushin is taking it over
+29523	+	　落ち着かんな……」	　makes me uneasy......」
+
+29524	Toushin Zeta	「同化が完了した暁には、	「Once assimilation is complete,
+29525	+	　戦闘用、防衛用ほか、様々な施設が作れる。	　I can create various facilities for combat, defense, and more.
+29526	+	　有為なはずだ」	　It should prove quite useful.」
+
+29527	Rance	「ほう。	「Heh.
+29528	+	　じゃあその調子で飛べるようになったり？」	　So can you fly like that too?」
+
+29529	Toushin Zeta	「それは難しいな……すまない。	「That will be difficult...... My apologies.
+29530	+	　飛行ユニットのシステム面の問題で、	　There is a system issue with the flight unit
+29531	+	　私では直せない」	　that I cannot repair.」
+
+29532	Rance	「ちっ、役に立たん。	「Tch, useless.
+29533	+	　闘神ってのは強い堅いばっかだな」	　You Toushin are all just strong and hard.」
+
+29534	Toushin Zeta	「……質問しても構わないだろうか」	「......May I ask a question?」
+
+29535	Rance	「あん？」	「Huh?」
+
+29536	Toushin Zeta	「城主殿は闘神に含む所があるのか。	「Do you hold a grudge against Toushin, Lord?
+29537	+	　今の時代の人間には、	　To people of this era,
+29538	+	　聖魔教団の遺産はただの遺物のはず……」	　the Holy Magic Sect's relics should just be artifacts......」
+
+29539	Rance	「ああ、別に大したことじゃない。	「Nah, it's nothing major.
+29540	+	　前に何度か襲われて苦労させられたってだけだ。	　They just attacked me a few times and caused me trouble.
+29541	+	　ま、全部ブッ潰してやったがな」	　Well, I smashed them all.」
+
+29542	Toushin Zeta	「…………人間がか？」	「............A human did?」
+
+29543	Rance	「人間が、じゃない。	「Not just any human.
+29544	+	　俺様が、だ。がはははははは」	　It was me. Gahahahaha!」
+
+29545	Reset Kalar	「がははー！」	「Gahaha!」
+
+29546	Toushin Zeta	「……驚いたな…………」	「......I'm surprised......」
+
+29547	Patton Helman	「よう。ここにいたか、大将」	「Yo. Found you, Boss.」
+
+29548	Sheila Helman	「ランス様。出発の準備、できました」	「Rance-sama. Preparations for departure are complete.」
+
+29549	Rance	「おう、よしよし。そろそろ出るか」	「Good, good. Time to head out.」
+
+29550	Toushin Zeta	「これは我が主。	「This is my lord.
+29551	+	　どこかへ出撃だろうか？」	　Heading out to battle?」
+
+29552	Sheila Helman	「こんにちは、ゼータさん」	「Hello, Zeta-san.」
+
+29553	Rance	「お前のような動けないポンコツではなく、	「Not a useless immobile hunk of junk like you,
+29554	+	　なんちゃらいう、ちゃんと動ける闘神を	　but a real, properly functioning Toushin
+29555	+	　掘り起こしに行くのだ」	　called whatever. We're going to dig one up.」
+
+29556	Patton Helman	「闘神シグマだ。	「It's Toushin Sigma.
+29557	+	　けっこう厄介だぜ。気合いを入れてくれよ」	　He's pretty troublesome. Stay sharp.」
+
+29558	Toushin Zeta	「シグマか……困った奴だが、腕は立つ。	「Sigma, huh...... He's a handful, but skilled.
+29559	+	　頼んだぞ」	　I'm counting on you.」
+
+29560	Rance	「がはははは、俺様ならば楽勝だ。	「Gahahaha, it'll be a breeze for me.
+29561	+	　さくっとクリアしてくれるわ」	　I'll clear it in no time.」
+
+29562	-	その場のキバ子やリセットも引き連れ、	Taking Kibako and Reset along with him,
+29563	+	ランスと一行は聖魔教団の遺跡へと出発した。	Rance and the party set off for the Holy Magic Sect ruins.

@@ -1,0 +1,165 @@
+# 31458	１０／戦闘／パットン参加	cg
+* Rance	ランス	Male
+* Chaos	カオス	Male
+* RedEye	レッドアイトッポス	Genderless
+* Sill Plain	シィル	Female
+* Miracle Tor	ミラクル	Female
+* Sachiko Centers	サチコ	Female
+* Toushin Zeta	闘神ゼータ	Male
+* Patton Helman	パットン	Male
+
+76600	Rance	「くそっ……	「Damn...
+76601	+	　相変わらず厄介な奴め……」	　What a troublesome bastard as always...」
+
+76602	Chaos	「おい、大丈夫か心の友！」	「Hey, you okay, soul brother!」
+
+76603	Rance	「や、やかましい！」	「S-Shut up!」
+
+76604	RedEye	「ケケケケ！　メイクドラーーマーー！	「Kekekeke! Make dramaaa!
+76605	+	　ユーら、今からミーにダイされる！」	　You all are about to die by me!」
+
+76606	Rance	「くっ……！　この野郎……！」	「Kuh...! You bastard...!」
+
+76607	-	ランス達の奮戦も空しく、	Despite Rance and the others fighting hard,
+76608	+	レッドアイの強さはすさまじく	RedEye's strength was overwhelming
+76609	+	魔人討伐隊の皆は苦戦を強いられていた。	and the Fiend Extermination Squad was struggling badly.
+
+76610	-	…………	............
+
+76611	-	……	...
+
+76612	-	その時――	At that moment--
+
+76613	-	ランス達のいる場所から遙か上空――	Far above where Rance and the others were--
+
+76614	-	青空の中を落下する一つの物体があった。	a single object was falling through the blue sky.
+
+76615	-	『それ』はCITYを目指し、	『It』 was heading straight for the CITY,
+76616	+	一直線に空気を切り裂いて、	slicing through the air in a straight line,
+76617	+	落ちる、落ちる、落ちる、落ちる……	falling, falling, falling, falling...
+
+76618	-	そして――	And then--
+
+76619	-	高速に迫る大地に轟音を上げて激突した。	it crashed into the rapidly approaching ground with a deafening roar.
+
+76620	Rance	「ぐわああ！？　な、なんだァ！？」	「Gwaaaa!? W-What the hell!?」
+
+76621	-	地が大きく揺れ、	The earth shook violently,
+76622	+	その場にいる全員が立つことすら出来ず座り込む。	and everyone present fell to the ground, unable to stay standing.
+
+76623	-	誰も彼もが戦いを中断して、	Everyone stopped fighting
+76624	+	轟音の方向、地面と激突した『何か』に目を向ける。	and turned their eyes toward the 'something' that had crashed with a roar.
+
+76625	Sill Plain	「ああっ！　ランス様！　あ、あれ！」	「Aah! Lord Rance! L-Look at that!」
+
+76626	-	もうもうと立ちこめる土煙。	Thick clouds of dust rose.
+76627	+	その中に巨大な『何か』のシルエットがあった。	Inside it was the silhouette of a giant 'something'.
+
+76628	Rance	「なんじゃ、あれは……」	「What the hell is that...」
+
+76629	-	土煙が晴れる。	The dust cleared.
+76630	+	その場にあったのは――	What stood there was--
+
+76631	Miracle Tor	「む、これは……」	「Mu, this is...」
+
+76632	-	ミラクルが呟く。	Miracle muttered.
+
+76633	Miracle Tor	「闘神ゼータ……」	「Toushin Zeta...」
+
+76634	Sill Plain	「ああっ、そうですよ、ランス様！　	「Yes, Lord Rance!
+76635	+	　ゼスの博物館にあった闘神さんですよ！」	　It's the Toushin from the Zeth museum!」
+
+76636	Rance	「なんだとぉ！？　それがなんでこんな場所にある！？」	「What!? Why is that thing here!?」
+
+76637	Miracle Tor	「何がしかの原因で封印が解かれた……	「The seal must have been broken for some reason...
+76638	+	　と、考えるのが妥当だろうな」	　That seems the most likely.」
+
+76639	Miracle Tor	「だが、ここで闘神の登場とは。	「But a Toushin appearing here...
+76640	+	　厄介なことになった……」	　This is troublesome...」
+
+76641	Sachiko Centers	「ど、どういうことですか！？」	「W-What do you mean!?」
+
+76642	Miracle Tor	「闘神とは過去、聖魔教団が作った戦闘兵器。	「Toushin are combat weapons created by the Holy Magic Sect in the past.
+76643	+	　トップであるMMルーンは彼らに命令――呪縛を与えた」	　Their leader MM Rune gave them commands--curses.」
+
+76644	Miracle Tor	「与えられた命令は二つ、魔人と	「The two commands given were to exterminate Fiends and
+76645	?	――人類の殲滅」	--humanity.」
+
+76646	Sachiko Centers	「じ、人類もですか！？　じゃあ――」	「H-Humanity too!? Then--」
+
+76647	Miracle Tor	「そうだ、この闘神もまた、余達の敵だ」	「That's right. This Toushin is also our enemy.」
+
+76648	Sachiko Centers	「そんな！　レッドアイ一体でこんなに苦労してるのに！」	「No way! We're already struggling so much against just one RedEye!」
+
+76649	Rance	「戦わなきゃ殺されるだけだ！	「If we don't fight we'll just be killed!
+76650	+	　お前ら構えろ！」	　Everyone get ready!」
+
+76651	Toushin Zeta	「……すまんな、怯えさせたようだ」	「...Sorry for scaring you.」
+
+76652	Rance	「へ？」	「Heh?」
+
+76653	-	それは意外にも、闘神から発せられた優しい声だった。	Surprisingly, it was a gentle voice coming from the Toushin.
+
+76654	RedEye	「ホワット！？」	「What!?」
+
+76655	-	闘神が振り返りざまに、巨大な拳をレッドアイに叩き込んだ。	The Toushin turned and slammed a massive fist into RedEye.
+
+76656	RedEye	「ノォオォォォォォーーーーッ！！！？？？」	「Noooooooo-----!!!???」
+
+76657	-	吹っ飛ばされたレッドアイは巨大な岩石に叩きつけられた。	RedEye was sent flying and smashed into a huge boulder.
+
+76658	Rance	「今、何か喋ってたよな？	「Did it just speak?
+76659	+	　いや、それより今、こちらの味方をした？」	　More importantly, did it just help us?」
+
+76660	Patton Helman	「すまねぇな大将！　遅れちまった！」	「Sorry boss! I'm late!」
+
+76661	Rance	「あ？　この声は……」	「Huh? This voice...」
+
+76662	-	また土煙が巻き上がる。	Dust rose again.
+76663	+	それは上空から吹き付けられた巨大な風によるもの。	This time from a massive wind blowing down from above.
+
+76664	-	バッサバッサと、大袈裟な音を立てて	With loud flapping sounds,
+76665	+	巨大な何かがゆっくりと降下してきた。	a giant something slowly descended.
+
+76666	Sill Plain	「ど、ドラゴン……？」	「A-A dragon...?」
+
+76667	Rance	「って、お前は！？」	「Wait, you're!?」
+
+76668	Patton Helman	「パットン・ヘルマン！　ハンティ・カラー！	「Patton Helman! Hunty Kalar!
+76669	+	　闘神ゼータ！　ドラゴンのキャンテル！」	　Toushin Zeta! Dragon Cantel!」
+
+76670	Patton Helman	「以上、四名！　ただいまをもって、	「That's four of us! Starting now,
+76671	+	　人類軍に加勢をさせてもらうぜ！」	　we'll be joining the human army!」
+
+76672	Rance	「なんだと！？」	「What!?」
+
+76673	Miracle Tor	「ふははは！　面白い！	「Fuhahaha! Interesting!
+76674	+	　その口ぶりからして、貴様まさか――ッ！」	　From the way you speak, you must be--!」
+
+76675	Patton Helman	「おうよ、MMルーンの呪縛、断ち切ってきたぜ！	「That's right, I broke MM Rune's curse!
+76676	+	　この闘神は俺らの味方だ！」	　This Toushin is on our side!」
+
+76677	Toushin Zeta	「よろしく頼む」	「Pleased to meet you.」
+
+76678	-	闘神が礼儀正しく頭を下げた。	The Toushin politely bowed his head.
+
+76679	Rance	「と、闘神が味方だとぉ？」	「The Toushin is on our side!?」
+
+76680	RedEye	「ハハハハ！　ピンチヒッターOK！	「Hahaha! Pinch hitter OK!
+76681	+	　どんな奴が来てもミーにヴィクトリーは！	　No matter who comes, victory is mine!
+76682	+	　絶対に！　誰にも！　不可能！」	　Absolutely! For anyone! Impossible!」
+
+76683	Toushin Zeta	「それはどうかな……」	「We'll see about that...」
+
+76684	Toushin Zeta	「総統閣下殿」	「Your Excellency Supreme Leader.」
+
+76685	Rance	「な、なんだ？」	「W-What?」
+
+76686	Toushin Zeta	「どこまで出来るか分からんが……	「I don't know how far I can go, but...
+76687	+	　魔人レッドアイの攻撃、	　I'll try to block as many of Fiend RedEye's attacks
+76688	+	　出来るだけ止めてみせよう」	　as possible.」
+
+76689	Toushin Zeta	「チャンスを作る。	「I'll create an opening.
+76690	+	　なんとかその間に倒してくれ」	　Please defeat him during that time.」
+
+76691	RedEye	「ユーら、全員キル・あなた！」	「You all, kill you all!」

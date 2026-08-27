@@ -1,0 +1,179 @@
+# 30614	カチューシャ／キャライベントＢ	
+* Desert Guide	砂漠案内人	Female
+* Katyusha Bosch	カチューシャ	Female
+* Freya Idun	フレイア	Female
+* Cream Ganoblade	クリーム	Female
+* Rance	ランス	Male
+
+18535	Desert Guide	「……と、こんな所ですね……」	「...And that's the current situation...」
+
+18536	Katyusha Bosch	「………………」	「............」
+
+18537	-	獄中の扉越しに部下から報告を受け、	Receiving the report from her subordinate through the prison door,
+18538	+	カチューシャは苛立たしげに眉をしかめた。	Katyusha Bosch furrowed her brows in irritation.
+
+18539	Desert Guide	「お分かりでしょうが……	「As you can see...
+18540	+	　ウチのシノギとしては、かなり制限受けてますね。	　Our business operations are facing heavy restrictions.
+18541	+	　本当なら、せっかくの機会なのですが……」	　It should have been a golden opportunity, but...」
+
+18542	Katyusha Bosch	「……………………」	「............」
+
+18543	-	裏市の経営。逃散した街や村の実効支配。	Managing black markets. Effectively controlling abandoned towns and villages.
+18544	+	兵士の脱走の手配や物資の横流し等、	Arranging desertions for soldiers and embezzling supplies,
+18545	+	裏取引の数々……	among countless other illicit deals...
+
+18546	-	そうした、巨額の利潤を生むはずの、大戦争。	A great war that should have generated massive profits.
+18547	+	そのせっかくの市場が、ほとんど活かせていない。	Yet that precious market was barely being utilized.
+
+18548	-	原因はひとえに、会長カチューシャの不在。	The reason was solely due to Chairperson Katyusha Bosch's absence.
+18549	+	そして……デラックスブックによって、	And... because of the Deluxe Book,
+18550	+	人類軍総統ランスの介入を断れないせいだった。	they couldn't refuse the interference of Humanity's Army Supreme Leader, Rance.
+
+18551	Katyusha Bosch	「そろそろ……反逆者が出始めてるんじゃないの？	「Isn't it about time... for rebels to start appearing?
+18552	+	　不甲斐ない会長だー、って」	　Calling me a pathetic chairperson.」
+
+18553	Desert Guide	「不安を煽ろうとしている奴は、	「There are a few among the branch managers
+18554	+	　支部長クラスでちらほら……	　who are trying to stir up unrest...
+18555	+	　ですが、まだまだ顕在化するには遠いですね」	　But it's still far from becoming a real problem.」
+
+18556	Katyusha Bosch	「ふん……根性のない」	「Hmph... Spineless cowards.」
+
+18557	Desert Guide	「互いに迂闊に信用もできない……どころか、	「They can't even trust each other carelessly... in fact,
+18558	+	　同僚が誰かさえ、ハッキリと分からない……	　they don't even know clearly who their colleagues are...
+18559	+	　DXの会をそこまでにしたのは貴女でしょうに」	　But you were the one who made the DX Foundation that way.」
+
+18560	Desert Guide	「大半の下部会員は貴女の事もほとんど知らない……	「Most lower-level members barely even know of you...
+18561	+	　知ってる奴も、ほとんどは捕まった事を疑うか、	　Even those who do either doubt you were captured,
+18562	+	　粛正対象を炙り出す罠と訝しんでますよ」	　or suspect it's a trap to root out those who need purging.」
+
+18563	Katyusha Bosch	「ふぅん……ならいいわ」	「Hmph... Fine then.」
+
+18564	Desert Guide	「で……これから、どう……しますか？	「So... what... will you do now?
+18565	+	　現状のままですか？」	　Will you leave things as they are?」
+
+18566	Katyusha Bosch	「……………………」	「............」
+
+18567	-	DXの会としては、このままで良くはない。	For the DX Foundation, staying like this was not ideal.
+18568	+	しかし、打てる手も――	However, as for the moves she could make一
+
+18569	Freya Idun	「お困りのようね」	「You seem to be in a bind.」
+
+18570	Desert Guide	「っ、な……！　いつの間に……！？」	「Wha-...! When did you...!?」
+
+18571	Katyusha Bosch	「……何か用？」	「...Do you need something?」
+
+18572	Freya Idun	「少し」	「Just a bit.」
+
+18573	Katyusha Bosch	「そ。	「I see.
+18574	+	　…………お前、もう行きなさい。	　............You, leave now.
+18575	+	　追加の指示は追って出す」	　I'll send further instructions later.」
+
+18576	Desert Guide	「は、ははっ……」	「Y-Yes, ma'am...」
+
+18577	-	突然の闖入者にちらちらと視線を送りながら、	Casting nervous glances at the sudden intruder,
+18578	+	配下は去っていった。	the subordinate departed.
+
+18579	Katyusha Bosch	「で…………なんの用？	「So............ what is it?
+18580	+	　闇の翼のブラックスワン」	　Black Swan of the Wings of Darkness.」
+
+18581	Freya Idun	「何の事かしら。	「I'm not sure what you mean.
+18582	+	　私は、上役から……」	　I've been sent by my superiors...」
+
+18583	Katyusha Bosch	「ふぅん。猿芝居の腹芸が好きなら、	「Hmph. If you enjoy playing charades and keeping secrets,
+18584	+	　そういう事にしても良いけど」	　I suppose we can go along with that.」
+
+18585	Freya Idun	「……………………」	「............」
+
+18586	-	一瞬だけ、表情を探る視線を向ける。	For a brief moment, she cast a gaze seeking to read her expression.
+
+18587	Freya Idun	「……調べ済みという事？	「...So you've already investigated?
+18588	+	　わざわざ口にするという事は、	　Though the fact that you went out of your way to say it
+18589	+	　確定情報は得ていないみたいだけど」	　suggests you haven't obtained definitive proof.」
+
+18590	Katyusha Bosch	「確信付きの当て推量……かしら。	「A confident guess... perhaps.
+18591	+	　断片からでも相手の事が分からなければ、	　If you can't understand your opponent even from fragments of info,
+18592	+	　こんな稼業はできないものよ」	　you won't last long in this business.」
+
+18593	Freya Idun	「……なるほど。	「...I see.
+18594	+	　ベッドの上で前会長を暗殺した、	　So it wasn't just luck that let you assassinate
+18595	+	　というだけでもないのね」	　the former chairperson in bed.」
+
+18596	Katyusha Bosch	「あんた達なら、それで良いかもしれないけどね。	「That might be enough for the likes of you.
+18597	+	　用件は？　私もここで、暇じゃないの」	　What's your business? I'm not just idling away my time here.」
+
+18598	Freya Idun	「商売の話。	「A business proposition.
+18599	+	　我々に、戦争の間だけ使われる気はない？」	　Are you willing to be employed by us just for the duration of the war?」
+
+18600	Katyusha Bosch	「…………諜報員、のたぐい？」	「............Some kind of intelligence work?」
+
+18601	Freya Idun	「そんな所ね。	「Something like that.
+18602	+	　違法な手段で動けないなら、	　If you can't operate through illegal means,
+18603	+	　合法な路線に一時切り替える、ということ」	　you can temporarily switch to a legal route.」
+
+18604	Freya Idun	「私たちも、情報収集や破壊工作……	「We have plenty of work in intelligence gathering and sabotage...
+18605	+	　その手の仕事が多い。	　that sort of thing.
+18606	+	　そちらのメンバーなら、それもできるでしょう」	　I'm sure your members would be capable of it.」
+
+18607	Katyusha Bosch	「………………」	「............」
+
+18608	Freya Idun	「………………」	「............」
+
+18609	Katyusha Bosch	「お断りよ。	「I refuse.
+18610	+	　暗殺者にマフィアが使われる？　逆でしょう」	　The mafia being used by assassins? It should be the other way around.」
+
+18611	Katyusha Bosch	「仕事をくださいとお願いしてくるなら、	「If you come begging me for work,
+18612	+	　多少はアウトソーシングしてあげてもいいわよ」	　I might consider outsourcing a few things to you.」
+
+18613	Freya Idun	「………………そう」	「...I see.」
+
+18614	Katyusha Bosch	「あるいは……お得意の手段で、やってみる？	「Or... why not try your usual methods?
+18615	+	　次代の会長は、もっと物わかりがいいかもよ」	　The next chairperson might be more cooperative.」
+
+18616	-	すっと、カチューシャは自らの首を指で引く。	Katyusha Bosch smoothly drew a finger across her own throat.
+
+18617	Freya Idun	「やめておくわ」	「I'll pass.」
+
+18618	Katyusha Bosch	「あら。手枷の嵌った囚人が怖い？	「Oh? Are you afraid of a prisoner in shackles?
+18619	+	　アサシンとか大層な呼び名の割には、	　For someone with the grand title of 'assassin',
+18620	+	　大したことないのね」	　you're not much of a threat.」
+
+18621	Freya Idun	「用件はそれだけ。ではね」	「That's all I had to say. Farewell.」
+
+18622	-	入ってきた時と同様に、	Just as she had entered,
+18623	+	音もなくフレイアは姿を消した。	Freya vanished without a sound.
+
+18624	Katyusha Bosch	「…………チッ。乗ってこなかったか……」	「...Tch. She didn't take the bait...」
+
+18625	Freya Idun	「厄介な相手ね。ダメだったわ」	「A troublesome opponent. It didn't work.」
+
+18626	Cream Ganoblade	「そうでしたか……ありがとうございました」	「I see... Thank you for trying.」
+
+18627	Cream Ganoblade	「形の上でも入り込めれば、	「If we could have gotten in, even just formally,
+18628	+	　少しずつ使いやすくできたと思うのですが……」	　I thought we could have gradually made them more manageable...」
+
+18629	Cream Ganoblade	「非常時に乗じて、内部を健全化。	「Taking advantage of the emergency to clean up the organization.
+18630	+	　最終的には非合法な派閥と切り分けて、	　Ultimately separating the illegal factions
+18631	+	　無害化する……」	　and rendering them harmless...」
+
+18632	Cream Ganoblade	「真田先生の策も、実行は難しいようですね……」	「It seems Master Sanada's plan will be difficult to execute...」
+
+18633	Freya Idun	「そうね……今まで通り、	「Indeed... We'll just have to keep using them
+18634	+	　危険は承知で利用を続けるしかないわね」	　while remaining aware of the risks, as we have been.」
+
+18635	Rance	「おっ、なんだフレイアにクリーム。	「Oh? If it isn't Freya and Cream.
+18636	+	　こんな所で」	　What are you doing here?」
+
+18637	Cream Ganoblade	「総統？　いえ、少し立ち話を。	「Supreme Leader? No, we were just chatting.
+18638	+	　総統は…………」	　And you are............」
+
+18639	Rance	「ちょいともよおしたから地下牢だ。	「I felt a bit of an urge, so I'm heading to the dungeon.
+18640	+	　今日はむちむちのカチューシャの気分なのだ。	　I'm in the mood for that curvaceous Katyusha Bosch today.
+18641	+	　がはははは！」	　Gahahahaha!」
+
+18642	-	ランスは高笑いをしながら、	Laughing loudly,
+18643	+	地下牢へと入っていった。	Rance entered the dungeon.
+
+18644	Cream Ganoblade	「はあ、なんというか…………」	「Sigh, how should I put it............」
+
+18645	Freya Idun	「頼もしい限りね。	「He's certainly reliable.
+18646	+	　……寝首を掻かれなければ、だけど」	　...As long as he doesn't get his throat slit in his sleep, that is.」

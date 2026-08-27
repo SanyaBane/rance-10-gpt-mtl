@@ -1,0 +1,105 @@
+# 32950	ドッスワッス／友情イベントＤ	route
+* Muscle Man	汎用筋肉男	Male
+* Nagata-kun	長田君２	Male
+* Doss	ドッス２	Male
+* Wass	ワッス２	Male
+* El Mofus	エール２	Player's choice
+
+190535	-	あなたと長田君は町の酒場にやってきた。	You and Nagata-kun arrived at the town tavern.
+
+190536	Muscle Man	「おうおう！	「Hey hey!
+190537	+	　ハニーとガキなんかが酒場に来てんじゃねぇぞ！？	　A Hanny and a kid shouldn't be coming to a tavern!?
+190538	+	　ああん！？」	　Ahhn!?」
+
+190539	Nagata-kun	「ひーーーっ！」	「Hiii!」
+
+190540	-	そして、何故かゴロツキに絡まれていた。	And for some reason, they got hassled by the thug.
+
+190541	Nagata-kun	「うう……酒場なんて大人な店、	「Uuu... A grown-up place like a tavern
+190542	+	　やっぱ俺らにゃ早かったのかな……」	　was probably too soon for us...」
+
+> male
+190543	Muscle Man	「ちっ、生意気なガキ共だな……	「Tch, what cheeky brats...
+190544	+	　簀巻きにして川にでも放り込むか？　ああ？」	　Should I wrap you up and throw you in the river? Ah?」
+
+190545	Nagata-kun	「ひーっ！　＜エール＞、助けてー！」	「Hii! ＜エール＞, save me!」
+
+190546	-	ぴゃっと長田君はあなたの背に隠れてしまった。	Nagata-kun quickly hid behind your back.
+
+> female
+190547	Muscle Man	「へへっ、よく見たら。	「Hehe, now that I look closer.
+190548	+	　ガキの見た目は悪くねえな。	　The kid doesn't look half bad.
+190549	+	　げへへへ、おい嬢ちゃん、こっち来いよ」	　Geh hehe, hey little lady, come over here.」
+
+190550	-	馴れ馴れしくゴロツキの大きな手が、	The thug's big hand casually reached
+190551	+	あなたの肩に触れる。	for your shoulder.
+
+190552	Nagata-kun	「あ、こらこらこらー！	「Hey, stop that!
+190553	+	　＜エール＞に触るんじゃねえよ！」	　Don't touch ＜エール＞!」
+
+190554	Muscle Man	「ああん！？」	「Ahhn!?」
+
+190555	Nagata-kun	「ひーーっ！」	「Hiii!」
+
+> end
+190556	-	さて、どうしたものかとあなたが考えていると――	As you were wondering what to do一
+
+190557	Doss	「……何か用か？」	「...Got some business?」
+
+190558	Muscle Man	「うおっ！？」	「Uoh!?」
+
+> male
+190559	Wass	「その方に、近づく……な」	「Don't approach that person...」
+
+> female
+190560	Wass	「気安く触れる……な」	「Don't touch her casually...」
+
+> end
+190561	Muscle Man	「どわわわわ！？」	「Dowawawa!?」
+
+190562	-	ドッスとワッスの二人が、	Doss and Wass
+190563	+	ゴロツキの前に立ちはだかった。	stood blocking the thug.
+
+190564	Muscle Man	「し……」	「Sh...」
+
+190565	Muscle Man	「失礼いたしましたー。	「Sorry for the troubleー.
+190566	+	　えへ、えへ、えへ……」	　Ehe, ehe, ehe...」
+
+190567	-	そそくさと、ゴロツキは	The thug quickly
+190568	+	あっという間に姿を消した。	disappeared in an instant.
+
+190569	Doss	「……ふう」	「...Phew.」
+
+190570	Wass	「大丈夫、です……か？」	「Are you... okay?」
+
+190571	El Mofus	「…………。」	「............」
+
+190572	-	あなたは助けてくれた二人にお礼を言った。	You thanked the two who helped you.
+
+190573	Wass	「い、いえ、これくらい……」	「N-no, this much is nothing...」
+
+190574	Doss	「……大したことじゃ、ない」	「...It was no big deal.」
+
+190575	Wass	「…………」	「............」
+
+190576	Doss	「…………」	「............」
+
+190577	Wass	「うっす……」	「Yess...」
+
+190578	Doss	「……うっす」	「...Yess.」
+
+190579	-	二人が照れているのはあなたの目にも明らかだった。	It was clear to you that the two were embarrassed.
+
+190580	Nagata-kun	「うわーん、ドッス、ワッスー！	「Waaah, Doss, Wassー!
+190581	+	　マジサンキュー！　怖かったよー！」	　Thanks so much! I was scared!」
+
+190582	-	ぴょーんと長田君が二人に抱きつく。	Nagata-kun jumped and hugged the two.
+
+190583	Wass	「う、うっす……」	「U-uss...」
+
+190584	Doss	「…………うっす」	「......Yess.」
+
+190585	-	二人はほんのり頬を赤くまでしていた。	Their cheeks were slightly flushed.
+
+190586	-	その後、あなた達は四人で、	After that, the four of you
+190587	+	酒場で昼ご飯を仲良く食べた。	ate lunch together friendly at the tavern.

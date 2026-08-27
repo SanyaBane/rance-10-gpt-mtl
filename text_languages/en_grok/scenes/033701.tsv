@@ -1,0 +1,9 @@
+# 33701	t２３０／４／３匹の使徒／戦闘後	
+
+252157	?	ふぅ・・なんとか倒した。	「Phew... Somehow we defeated them.」
+252158	+	これで・・・元に戻れる・・てならないのか、くそっ	「With this... we can go back... but it doesn't seem so. Damn.」
+252159	+	　	　
+252160	+	if (確認("法王権限未使用")==1){	if (確認("Pope Authority Unused")==1){
+252161	+	　クルックーは心の中で考える	　Crook thinks to herself
+252162	+	　脱出方法は無い、いずれ・・溶かされてしまう。	　「There's no escape. Eventually... we'll be dissolved.」
+252163	+	　いざとなったら、あの約束を使うしかないかと・・	　「If it comes to it, I have no choice but to use that promise...」

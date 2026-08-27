@@ -1,0 +1,540 @@
+# 33133	６１２／スタート２	route
+* Sushinu the Gandhi	スシヌ２	Female
+* Nagi su Ragarl	ナギ２	Female
+* Masou Shizuka	志津香２	Female
+* Maria Custard	マリア２	Female
+* Dark Rance	ダークランス２	Male
+* Nook 77	ヌーク７７２	Female
+* Chaos	カオス	Male
+* Nikkou	日光刀	Female
+* El Mofus	エール２	Player's choice
+* Nagata-kun	長田君２	Male
+* Zance Leazas	ザンス２	Male
+* Yamamoto Rangi	乱義２	Male
+* Reset Kalar	リセット２	Female
+* Wass	ワッス２	Male
+* Doss	ドッス２	Male
+* Rocky Bank	ロッキー２	Male
+* Princess Panasonic	松下姫	Female
+* Kentou Uzume	ウズメ２	Female
+* Tokugawa Tone	深根２	Female
+* Mix Tou	ミックス２	Female
+* Mouri Motonari	元就２	Male
+* Lelikov Helman	レリコフ２	Female
+* Hero Helman	ヒーロー２	Male
+
+206304	Sushinu the Gandhi	「あれー？　杖、杖、お婆ちゃんの杖どこ……」	「Huh? Staff, staff, where's grandma's staff......」
+
+206305	Sushinu the Gandhi	「スシヌー、こっちよー」	「Sushinuー, over hereー」
+
+206306	Nagi su Ragarl	「お姉様、世色癌持った？」	「Big sis, you got the world cancer?」
+
+206307	Masou Shizuka	「一応ね」	「Just in case.」
+
+206308	Maria Custard	「よしっ、チューリップの点検終わり」	「Alright, Tulip inspection complete.」
+
+206309	Dark Rance	「今更だけど、本当に来るのか？」	「It's a bit late to ask, but are you really coming?」
+
+206310	Maria Custard	「む、私じゃ足手まといってこと？」	「Mu, are you saying I'd be a burden?」
+
+206311	Dark Rance	「いや、そーゆー意味じゃなくて……」	「No, that's not what I meant......」
+
+206312	Maria Custard	「ふふっ。	「Fufu.
+206313	+	　ずっと一緒よ」	　I'll be with you the whole time.」
+
+206314	Dark Rance	「……分かった。	「......Understood.
+206315	+	　もう止めないよ」	　I won't stop you anymore.」
+
+206316	Nook 77	「んっ、こっちも準備完了」	「Nn, preparations complete here too.」
+
+206317	Dark Rance	「今更だけど……	「It's a bit late, but......
+206318	+	　本当にヌークも来るのか？	　are you really coming too, Nuke?
+206319	+	　お前は来なくてもいいんだぞ？」	　You don't have to come.」
+
+206320	Nook 77	「べっ！	「N-no!
+206321	+	　別にあんたの為に行くわけじゃないわよ！」	　It's not like I'm going for your sake!」
+
+206322	Nook 77	「魔王の子達は私にとっても、	「The Demon King's children are my friends too,
+206323	+	　もう友達なんだから、	　so of course I'm going with them!」
+206324	+	　一緒に行くに決まってるじゃない！」	
+
+206325	Dark Rance	「……分かった。	「......Understood.
+206326	+	　もう止めないよ」	　I won't stop you anymore.」
+
+206327	-	食事を終えたあなた達は、	After finishing your meal,
+206328	+	各々がそれぞれの戦闘の用意を進めていた。	each of you prepared for battle in your own way.
+
+206329	Chaos	「…………」	「............」
+
+> male
+206330	Chaos	「坊主、ちょいといいか？	「Kid, got a minute?
+206331	+	　相談があるんだが……」	　Got something to discuss......」
+
+> female
+206332	Chaos	「嬢ちゃん、ちょいといいか？	「Miss, got a minute?
+206333	+	　相談があるんだが……」	　Got something to discuss......」
+
+> end
+206334	Chaos	「おい、ダークランス。	「Hey, Dark Rance.
+206335	+	　お前さん、前の剣がなくなったが、	　Your previous sword is gone,
+206336	+	　代わりの剣はあんのか？」	　got a replacement?」
+
+206337	Dark Rance	「ん？　一応、剣なら代わりを用意したぜ？	「Hm? I did prepare a replacement sword.
+206338	+	　結構奮発して買ったもんだが……」	　It was pretty expensive though......」
+
+206339	Chaos	「ふん、なまくらだな」	「Hmph, a dull blade.」
+
+206340	Chaos	「＜エール＞、儂はダークランスの剣となる。	「＜エール＞, I shall become Dark Rance's sword.
+206341	+	　お前さんには日光もあるしいいだろう」	　You have the Nikkou blade anyway.」
+
+206342	Nikkou	「……そうですね。	「......That's true.
+206343	+	　＜エール＞さんも不慣れな二刀流より、	　＜エール＞-san would be better off not using unfamiliar dual wielding,
+206344	+	　私だけを使った方がいいでしょう」	　and just using me.」
+
+206345	Chaos	「そーゆーこと」	「Exactly.」
+
+206346	Dark Rance	「強い武器が貸してもらえんなら、	「If I can borrow a strong weapon,
+206347	+	　こっちも願ったりだ。	　that works perfectly for me.
+206348	+	　＜エール＞、構わないか？」	　＜エール＞, you okay with that?」
+
+206349	-	あなたは頷き、	You nodded,
+206350	+	ダークランスに魔剣カオスを譲った。	and handed the Demon Sword Chaos to Dark Rance.
+
+206351	Dark Rance	「へへっ、よろしくな。	「Hehe, nice to have you.
+206352	+	　カオス」	　Chaos.」
+
+206353	Chaos	「はーっ、自分で言っといてなんだが、	「Haa, I said it myself but,
+206354	+	　女の子の方が良かったなー！」	　I would've preferred a girlー!」
+
+206355	Dark Rance	「こいつ……」	「This guy......」
+
+206356	El Mofus	「…………。」	「............」
+206357	Dark Rance	「なんだって？」	「What is it?」
+
+206358	Dark Rance	「ふむ、俺にリーダーも譲るってのか……」	「Hmm, you're even handing over the leader role to me......」
+
+206359	Nagata-kun	「ああ、なるほど……確かにダークランスさん、	「Ah, I see...... Dark Rance-san does have
+206360	+	　経験豊富って感じだしめっちゃ強いし……	　a lot of experience and is super strong......
+206361	+	　そっちの方がいい……のかな？」	　so maybe that's better...?」
+
+206362	Zance Leazas	「アア？　今更なに言ってやがんだ、テメェ」	「Hah? What are you saying now, you?」
+
+206363	Nagata-kun	「ひえっ！？」	「Hiee!?」
+
+206364	Masou Shizuka	「ま、確かにリーダーって割と適当に決めたし、	「Well, we did pick the leader kinda randomly,
+206365	+	　＜エール＞以上に相応しい人がいるなら、	　so if there's someone more suitable than ＜エール＞,
+206366	+	　やってもらうのがいいと思うけど……」	　it'd be better to have them do it......」
+
+206367	Masou Shizuka	「その辺はどうなの？」	「What do you think about that?」
+
+206368	-	志津香がダークランスに聞く。	Shizuka asked Dark Rance.
+
+206369	Dark Rance	「で、俺ねぇ……」	「Well, me......」
+
+206370	Dark Rance	「……正直、あんま得意じゃない」	「......To be honest, I'm not very good at it.」
+
+206371	Dark Rance	「悪い癖だと思ってるが、	「I know it's a bad habit,
+206372	+	　俺は出来ることなら自分一人でやろうとする。	　but I try to do everything alone if possible.
+206373	+	　リーダーってのはそうじゃないだろう？」	　That's not what a leader should be, right?」
+
+206374	Dark Rance	「俺は確かにすごく強い。	「I'm definitely very strong.
+206375	+	　強い、が……頭をやるってガラじゃねぇんだ」	　Strong, but...... I'm not the type to use my head.」
+
+206376	Dark Rance	「後、出来そうな奴は……」	「As for who else could do it......」
+
+206377	-	ダークランスが、	Dark Rance looked at
+206378	+	リセットとザンスと乱義を見た。	Reset, Zance, and Rangi.
+
+206379	Yamamoto Rangi	「残念ながら……	「Unfortunately......
+206380	+	　僕とザンスは駄目です」	　Zance and I are no good.」
+
+206381	Zance Leazas	「ケッ、こいつがリーダーやるくらいなら、	「Tch, if this guy becomes leader,
+206382	+	　俺ぁ、今からでも降りんぞ」	　I'll quit right now.」
+
+206383	Yamamoto Rangi	「僕も似たような考えです」	「I feel the same way.」
+
+206384	Nagata-kun	「こいつらは……」	「These guys......」
+
+206385	Reset Kalar	「私も……	「Me too......
+206386	+	　普段の生活や冒険でリーダーはいいけど、	　I'm fine being leader in normal life or adventures,
+206387	+	　こんな本格的な戦闘のリーダーってなると……」	　but for a serious battle like this......」
+
+206388	Reset Kalar	「えへへ、やっぱり＜エール＞ちゃんに、	「Ehehe, so in the end it's best to ask
+206389	+	　お願いしちゃってもいいかな？」	　＜エール＞-chan, right?」
+
+206390	Zance Leazas	「つまり……」	「In other words......」
+
+206391	Zance Leazas	「テメェしかいねぇんだよ。	「You're the only one left.
+206392	+	　この面子のリーダーやれんのはな」	　You're the only one who can lead this group.」
+
+206393	Zance Leazas	「ぶっちゃけ消去法で選ばれただけだが、	「To be blunt, you were chosen by process of elimination,
+206394	+	　それでも選ばれた以上は、	　but since you were chosen,
+206395	+	　ゴタゴタぬかしてねぇで、ビッとしてろ、タコ」	　stop whining and stand tall, idiot.」
+
+206396	Reset Kalar	「期待してるんだから、頑張れ。	「We're counting on you, so do your best.
+206397	+	　俺も応援してんだぜ。	　I'm cheering for you too.
+206398	+	　困ったら助けてやっからな」	　If you're in trouble I'll help you out.」
+
+206399	Reset Kalar	「――だってさ」	「――That's what they said.」
+
+206400	Zance Leazas	「テメェはよぉ、本当によぉ……	「You really......
+206401	+	　人の言葉勝手に都合よくよぉ……	　twist people's words however you like......
+206402	+	　アアン？」	　Huh?」
+
+206403	Reset Kalar	「あだだだだだ……！	「Ouch ouch ouch......!
+206404	+	　あた、頭、グリグリ、やめっ、ふあっ、	　My head, stop grinding it, fuaah,
+206405	+	　んあああああああ……！」	　Naaaaaaaah......!」
+
+206406	Nagata-kun	「ま、これからもリーダーは＜エール＞ってこと！	「Well, ＜エール＞ will continue as leader!
+206407	+	　へへっ、頼んだぜ！」	　Hehe, we're counting on you!」
+
+206408	-	あなたは長田君に言われて、	Prompted by Nagata-kun,
+206409	+	強く頷いた。	you nodded firmly.
+
+206410	-	志津香の言うように適当に決めたものであり、	Just as Shizuka said, it was decided rather casually,
+206411	+	ザンスの言うように消去法でなった、	and as Zance said, by process of elimination,
+206412	+	リーダーという立場。	the position of leader.
+
+206413	-	しかし、そのことに不満を漏らす者は、	However, not a single one of your companions
+206414	+	あなたの仲間の中に一人もいなかった。	complained about it.
+
+206415	-	それは、この旅で、あなたはそれだけの	It was proof that during this journey
+206416	+	信頼を皆から得られたという証しだった。	you had earned that much trust from everyone.
+
+206417	-	あなたには、沢山の仲間が出来た。	You had gained many companions.
+
+206418	Nagata-kun	「よっしゃ、こっちは準備出来たぜ！	「Alright, we're ready over here!
+206419	+	　＜エール＞！」	　＜エール＞!」
+
+206420	-	最初にあなたの仲間にして、	The first one to become your companion,
+206421	+	友達になってくれた、	who became your friend,
+206422	+	お調子者で臆病なハニーの長田君。	the energetic yet cowardly Hanny, Nagata-kun.
+
+206423	Wass	「うっす……」	「Yessir......」
+
+206424	Doss	「……うっす」	「......Yessir.」
+
+206425	-	あなたに恩を感じ、ここまでついてきてくれた、	The two who felt indebted to you and followed you this far,
+206426	+	強面だが、照れ屋なドッスとワッスの二人。	the tough-looking yet shy Doss and Wass.
+
+206427	Rocky Bank	「な、何かあったら、	「If anything happens,
+206428	+	　お、おらが盾になってでも	　I'll become a shield
+206429	+	　絶対にお守りいたしますだ、＜エール＞様」	　and protect you no matter what, ＜エール＞-sama.」
+
+206430	-	魔王の子達の召使いを自称し、	The self-proclaimed servant of the Demon King's children,
+206431	+	実際これまでずっと尽くしてきてくれたロッキー。	Rocky who has truly served you all this time.
+
+206432	Princess Panasonic	「ふん、いつでも行けまちゅわ。	「Hmph, I'm ready anytime.
+206433	+	　＜エール＞、合図は頼むでちわよ」	　＜エール＞, give the signal.」
+
+206434	-	お転婆ながら、レディを目指す、	The tomboyish yet lady-aspiring,
+206435	+	少しおしゃまなポピンズのプリンセス、松下姫。	slightly precocious Poppins princess, Princess Panasonic.
+
+206436	Nagi su Ragarl	「こっちも準備、おっけー！」	「Preparations complete here too!」
+
+206437	Masou Shizuka	「＜エール＞。	「＜エール＞.
+206438	+	　行くときは呼んで頂戴」	　Call me when it's time to go.」
+
+206439	-	大人としてあなた達を見守ってきてくれた、	The sisters who have watched over you as adults,
+206440	+	志津香とナギの姉妹。	Shizuka and Nagi.
+
+206441	Reset Kalar	「えへへ、なんだかドキドキしてきたねぇ」	「Ehehe, my heart's starting to race.」
+
+206442	-	長女としてずっと優しく暖かく、	The eldest sister who has always gently and warmly
+206443	+	あなたと皆を導いてきてくれたリセット。	guided you and everyone, Reset.
+
+206444	Kentou Uzume	「ににんにん、ウズメも準備万端。	「Nininin, Uzume is fully prepared too.
+206445	+	　にょほほ」	　Nyohoho.」
+
+206446	-	あなたを主君と決め、	The one who decided you are her lord
+206447	+	何故かぱしりと名乗る、ウズメ。	and for some reason calls herself your 'pashiri', Uzume.
+
+206448	Zance Leazas	「ヘマしたら、はり倒すからな＜エール＞。	「If you mess up I'll smack you, ＜エール＞.
+206449	+	　気ィ抜くんじゃねーぞ」	　Don't let your guard down.」
+
+206450	-	乱暴で傲岸不遜、常に偉そうだが、	Violent, arrogant, always acting superior,
+206451	+	少しだけ優しいところもあるザンス。	but with a slightly kind side, Zance.
+
+206452	Yamamoto Rangi	「＜エール＞、こいつの言うことは	「＜エール＞, don't think too deeply
+206453	+	　深く考えなくていいから、気楽にね」	　about what this guy says, just relax.」
+
+206454	-	常に冷静沈着で合理的だが、	Always calm, composed, and rational,
+206455	+	皆の分の苦労を背負ってくれる乱義。	Rangi who shoulders everyone's burdens.
+
+206456	Tokugawa Tone	「ふわぁ……	「Fwaa......
+206457	+	　そろそろ行くの？　＜エール＞ちゃん」	　Is it time to go? ＜エール＞-chan.」
+
+206458	-	マイペースでやる気があるのかないのか、	The laid-back little sister whose motivation
+206459	+	よく分からない可愛い妹分の深根。	is hard to tell, cute Tone.
+
+206460	Mix Tou	「……あに、見てるのよ？	「......What are you looking at?
+206461	+	　＜エール＞」	　＜エール＞.」
+
+206462	-	いつもぶっきらぼうで偉そうだが、	Always curt and arrogant on the surface,
+206463	+	本当はとっても優しいミックス。	but actually very kind, Mix.
+
+206464	Sushinu the Gandhi	「えとえと、杖は持ったし、薬もあるし……	「Umm umm, I have my staff and medicine......
+206465	+	　あ、あ、ちょっと待ってね、＜エール＞ちゃん」	　Ah, ah, wait a moment, ＜エール＞-chan.」
+
+206466	-	臆病でいまいち自分に自信こそないが、	Timid and lacking self-confidence,
+206467	+	本当はとても強いスシヌ。	but actually very strong, Sushinu.
+
+206468	Mouri Motonari	「ぐわっははははははははは！	「Gwahahahahahahaha!」
+206469	+	　一暴れといくか！」	　Time to go wild!」
+
+206470	-	誰よりも暴れることが好きで、	The one who loves rampaging more than anyone,
+206471	+	常に前しか見ない切り込み隊長の元就。	the vanguard captain who only looks forward, Motonari.
+
+206472	Lelikov Helman	「ねえねえ、早く行こーよ、＜エール＞！」	「Hey hey, let's go quickly, ＜エール＞!」
+
+206473	Hero Helman	「あ、待ってよ、	「Ah, wait,
+206474	+	　オイラの準備まだ終わってないよー」	　I'm not done preparing yetー」
+
+206475	-	天真爛漫な笑顔で、いつだって明るくパーティーを	With their innocent smiles, the two who always brightly
+206476	+	賑やかにしてくれたレリコフとヒーローの二人。	liven up the party, Lelikov Helman and Hero.
+
+206477	Dark Rance	「ふっ……	「Heh......
+206478	+	　本当に賑やかだな」	　It's really lively.」
+
+206479	-	弟や妹達が大好きで、よく笑い、	The eldest brother who loves his younger siblings,
+206480	+	頼りになる長男のダークランス。	laughs often, and is very dependable, Dark Rance.
+
+206481	-	以上が、この旅で得た、	These are the irreplaceable companions
+206482	+	あなたのかけがえのない仲間達である。	you gained on this journey.
+
+206483	-	そして、	And,
+206484	+	あなたのかけがえのない親友――	your irreplaceable best friend――
+
+206485	Nagata-kun	「へへっ、体が震えてらぁ」	「Hehe, my body's shaking.」
+
+206486	Nagata-kun	「おっと、今日はびびってるわけじゃねーぜ」	「Whoops, it's not because I'm scared today.」
+
+206487	Nagata-kun	「なんてーかなぁ、武者震い？	「How should I put it, battle tremors?
+206488	+	　これから立ち向かうもののすごさに	　My soul as a man trembles
+206489	+	　男として魂が震えるっつーかー？」	　at the greatness of what we're about to face?」
+
+206490	Nagata-kun	「だって、今日は俺達！	「Because today we!
+206491	+	　歴史を変えるんだぜ！？」	　are going to change history!」
+
+206492	Nagata-kun	「うっし、親友！	「Alright, best friend!
+206493	+	　サクッと行くとしようぜ！	　Let's go do this quick!
+206494	+	　世界を救いによ！」	　To save the world!」
+
+206495	Nagata-kun	「…………」	「............」
+
+206496	Nagata-kun	「えへへ、今の格好良くなかった？	「Ehehe, wasn't that cool just now?
+206497	+	　逆に格好つけすぎてたかな？	　Or was I trying too hard?
+206498	+	　どうかな、＜エール＞？」	　What do you think, ＜エール＞?」
+
+206499	-	長田君は今日も長田君だった。	Nagata-kun was being his usual self today too.
+
+206500	Wass	「＜エール＞様……」	「＜エール＞-sama......」
+
+206501	Doss	「……む、無理だけは、する、な」	「......Don't push yourself too hard.」
+
+206502	Wass	「な、何かあれば、お守りします……」	「If anything happens, we'll protect you......」
+
+206503	Doss	「……お、俺らの大事な、親友だから」	「......Because you're our precious best friend.」
+
+206504	Wass	「…………」	「............」
+
+206505	Doss	「…………」	「............」
+
+206506	Wass	「うっす……」	「Yessir......」
+
+206507	Doss	「……うっす」	「......Yessir.」
+
+206508	-	二人は少し照れているようだった。	The two seemed a bit embarrassed.
+
+206509	Princess Panasonic	「＜エール＞、用意はいいでち？」	「＜エール＞, are you ready?」
+
+206510	Princess Panasonic	「遅れは許しまちぇんからね。	「No being late, okay.
+206511	+	　きっちりかっちり、今日で決着でち」	　We'll settle everything properly today.」
+
+206512	Princess Panasonic	「……わ、わたちも傍にいるでち。	「......I'll be right beside you too.
+206513	+	　だから、絶対勝てるでちよ」	　So we'll definitely win.」
+
+206514	-	松下姫は少し照れているのか、	Princess Panasonic seemed a bit shy,
+206515	+	ポソポソと喋っていた。	speaking in a mumble.
+
+206516	Nagi su Ragarl	「ま、気楽に行こっか。	「Well, let's take it easy.
+206517	+	　魔王退治だけどさ、いつも通り、ね」	　Even though it's Demon King extermination, just like always.」
+
+206518	Masou Shizuka	「気、抜きすぎるんじゃないわよ」	「Don't let your guard down too much.」
+
+206519	Masou Shizuka	「＜エール＞もね。	「You too, ＜エール＞.
+206520	+	　あんた変なとこで変なことしそうだから」	　You tend to do weird things at weird times.」
+
+206521	-	念を押すように志津香にギロッと睨まれた。	Shizuka glared at you as if to emphasize the point.
+
+206522	Nagi su Ragarl	「なーに、おかしなことになっても、	「What? Even if things get weird,
+206523	+	　お姉ちゃん達が守ったげるから。	　us big sisters will protect you.
+206524	+	　＜エール＞は＜エール＞のすべきことをして」	　Just do what you need to do, ＜エール＞.」
+
+206525	Nagi su Ragarl	「ねー、お姉様」	「Right, big sis?」
+
+206526	Masou Shizuka	「ふんっ……」	「Hmph......」
+
+206527	Reset Kalar	「＜エール＞ちゃん、緊張してる？」	「＜エール＞-chan, are you nervous?」
+
+206528	Reset Kalar	「お姉ちゃんはちょっとしてる」	「Big sis is a little nervous.」
+
+206529	-	リセットは小刻みに震えている	Reset showed you her small hand
+206530	+	小さな手を見せてきた。	that was trembling slightly.
+
+206531	Reset Kalar	「えへへ、もしもの時は、	「Ehehe, if something happens,
+206532	+	　お姉ちゃんのこと助けてね？」	　help big sis, okay?」
+
+206533	Reset Kalar	「＜エール＞ちゃんが困ってる時は	「When ＜エール＞-chan is in trouble,
+206534	+	　お姉ちゃんが助けるから」	　big sis will help you.」
+
+206535	Reset Kalar	「ふふっ」	「Fufu.」
+
+206536	Zance Leazas	「おい、＜エール＞。	「Hey, ＜エール＞.
+206537	+	　テメェ、ブルってねぇだろうな？」	　You ain't scared, right?」
+
+206538	Zance Leazas	「…………」	「............」
+
+206539	Zance Leazas	「へっ、そんな可愛いタマでもねーか」	「Heh, guess you're not that cute after all.」
+
+206540	Zance Leazas	「ビビッてたら、	「If you were scared,
+206541	+	　喝入れてやろーかと思ってたんだがな」	　I was gonna give you a good scolding.」
+
+206542	Zance Leazas	「準備出来てんなら、行くぞ」	「If you're ready, let's go.」
+
+206543	Zance Leazas	「楽しー、楽しー、魔王退治の時間だ」	「Fun, fun, time to exterminate the Demon King.」
+
+206544	Zance Leazas	「がはははははははははははは！」	「Gahahahahahahahahaha!」
+
+206545	-	ザンスは本当に楽しそうだった。	Zance looked genuinely excited.
+
+206546	Kentou Uzume	「しゅくん殿。	「My lord.
+206547	+	　何かあったらウズメの後ろに隠れてね。	　If anything happens hide behind Uzume.
+206548	+	　ウズメ、盾になってでも守るでござるから」	　Uzume will protect you even as a shield.」
+
+206549	Kentou Uzume	「なんたって、	「After all,
+206550	+	　ウズメはしゅくんの忍者でござるからね」	　Uzume is my lord's ninja.」
+
+206551	Kentou Uzume	「と言っても……」	「That said......」
+
+206552	Kentou Uzume	「へへへー、そんな簡単に守らせては	「Heheheー, I have a feeling
+206553	+	　くれないって気がしてる」	　you won't let me protect you that easily.」
+
+206554	Kentou Uzume	「だから、一緒に頑張ろうでござる」	「So let's do our best together.」
+
+206555	-	決戦前にも関わらず、	Even right before the decisive battle,
+206556	+	ウズメは呑気にそう笑っていた。	Uzume was laughing carefree as usual.
+
+206557	Yamamoto Rangi	「長かった旅も……	「This long journey......
+206558	+	　今日で終わりか」	　ends today.」
+
+206559	Yamamoto Rangi	「悔いのないよう、終わらせよう」	「Let's end it without regrets.」
+
+206560	Yamamoto Rangi	「まあ、そういう点は、	「Well, in that regard,
+206561	+	　＜エール＞なら心配いらないかな」	　I don't think I need to worry if it's ＜エール＞.」
+
+206562	Yamamoto Rangi	「そろそろ行こうか」	「Shall we go now?」
+
+206563	Tokugawa Tone	「＜エール＞ちゃん、準備出来た？」	「＜エール＞-chan, ready?」
+
+206564	Tokugawa Tone	「……ん、そっか」	「......Nn, I see.」
+
+206565	Tokugawa Tone	「私も万全。	「I'm fully prepared too.
+206566	+	　ちゃんと一人で準備したよ？」	　I did it all by myself.」
+
+206567	Tokugawa Tone	「ふふん」	「Fufun.」
+
+206568	-	何故かそれだけのことで、	For some reason just that
+206569	+	深根はえっへんと胸を張っていた。	made Tone puff out her chest proudly.
+
+206570	Tokugawa Tone	「さ、行こっか」	「Well, let's go.」
+
+206571	Mix Tou	「まったく……	「Good grief......
+206572	+	　変なことに巻き込まれて	　Dragged into weird stuff
+206573	+	　こんなとこまで来るなんてね……」	　and ending up here......」
+
+206574	Mix Tou	「あたしにはやることが沢山あるのに……」	「I have so many things I need to do......」
+
+206575	Mix Tou	「＜エール＞、	「＜エール＞,
+206576	+	　ちっちゃっと終わらせるわよ」	　let's finish this quick.」
+
+206577	Mix Tou	「……ん。	「......Nn.
+206578	+	　分かってるなら、いいのよ」	　If you understand, that's fine.」
+
+206579	-	ミックスは少し満足げに、	Mix looked a little satisfied.
+206580	+	あなたの目には映った。	That's how she appeared to you.
+
+206581	Sushinu the Gandhi	「＜エール＞ちゃん……」	「＜エール＞-chan......」
+
+206582	Sushinu the Gandhi	「えっと、その……」	「Umm, that is......」
+
+206583	Sushinu the Gandhi	「が、頑張ろうね！」	「L-let's do our best!」
+
+206584	Sushinu the Gandhi	「えへへ……	「Ehehe......
+206585	+	　そ、それだけ、言いたかったの……」	　T-that's all I wanted to say......」
+
+206586	-	杖をギュッと握って、	Gripping her staff tightly,
+206587	+	スシヌは頼りないいつもの笑顔を浮かべていた。	Sushinu showed her usual unreliable smile.
+
+206588	Mouri Motonari	「この山の頂上に魔王がいるわけだ……」	「So the Demon King is at the top of this mountain......」
+
+206589	Mouri Motonari	「ク、クク、カカカ……」	「Ku, kuku, kakaka......」
+
+206590	Mouri Motonari	「一気に駆け上がるぞ！	「Let's charge up in one go!
+206591	+	　オレはそれ以外興味ない！」	　I'm not interested in anything else!」
+
+206592	Mouri Motonari	「ぐわっははは！	「Gwahahaha!
+206593	+	　さあ行くぞ、さあ行くぞ！」	　Let's go, let's go!」
+
+206594	Mouri Motonari	「この山を地獄の入り口に変えてやる！！！！」	「I'll turn this mountain into the entrance to hell!!!!」
+
+206595	-	元就は残忍な笑い声を上げる。	Motonari let out a savage laugh.
+206596	+	いつだってそうなように、やる気満々だった。	As always, he was full of fighting spirit.
+
+206597	Lelikov Helman	「えっへへー、遂に今日が決戦なんだね」	「Eheheー, today is finally the decisive battle.」
+
+206598	Lelikov Helman	「楽しみだね、＜エール＞、ヒーロー」	「I'm looking forward to it, ＜エール＞, Hero.」
+
+206599	Hero Helman	「うう、オイラはドキドキしてるよ……」	「Uuu, I'm nervous......」
+
+206600	Lelikov Helman	「あはは、ヒーローは駄目だなぁ！」	「Ahaha, Hero is hopeless!」
+
+206601	Lelikov Helman	「＜エール＞、頑張ろーね」	「＜エール＞, let's do our best.」
+
+206602	-	呑気な二人はいつものように、	The carefree pair, as always,
+206603	+	無邪気な顔で笑っていた。	smiled with innocent faces.
+
+206604	Dark Rance	「遂にここまで来た、って感じだな……」	「We've finally made it this far......」
+
+206605	Dark Rance	「本当、よく頑張ったな、＜エール＞。	「You've really worked hard, ＜エール＞.
+206606	+	　ここまで沢山の苦労も困難もあったろうに……	　There must have been so many hardships and difficulties......
+206607	+	　うっ……」	　Ugh......
+
+206608	Dark Rance	「や……兄貴として……うん……」	「As your big brother...... yeah......」
+
+206609	-	あなたの兄は少し涙ぐんでいる……	Your brother seemed a little teary-eyed......
+206610	+	ように、あなたの目には映った。	at least that's how it looked to you.
+
+206611	Dark Rance	「へへ、ま、今日は今までの総決算だ。	「Hehe, well, today is the culmination of everything so far.
+206612	+	　魔王の子達の全力、見せてやろうぜ」	　Let's show the full power of the Demon King's children.」
+
+206613	-	あなた達は改めて、巨大扉の前に立つ。	You all stood once more before the massive gate.
+
+206614	Dark Rance	「うし、行くか」	「Alright, let's go.」
+
+206615	El Mofus	「…………。」	「............」
+206616	-	あなたが五つのオーブをセットすることで、	By setting the five orbs,
+206617	+	翔竜山の巨大扉が姿を消した。	the massive gate of Shoryu Mountain vanished.
+
+206618	Dark Rance	「こっから先はほぼノンストップだ。	「From here on it's almost non-stop.
+206619	+	　頑張ろう」	　Let's do this.」
+
+206620	Reset Kalar	「みんなで一緒に行こうね」	「Let's all go together.」
+
+206621	Nagata-kun	「じゃ、＜エール＞！」	「Well then, ＜エール＞!」
+
+206622	-	長田君に促され、あなたは頷いた。	Prompted by Nagata-kun, you nodded.
+
+206623	-	皆があなたの言葉に頷く。	Everyone nodded at your words.
+
+206624	-	最後の決戦が始まった。	The final decisive battle began.

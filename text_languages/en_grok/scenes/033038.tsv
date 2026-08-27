@@ -1,0 +1,113 @@
+# 33038	６０１／ランス教へ出発	route
+* Old Man	汎用爺	Male
+* Nagata-kun	長田君２	Male
+* Man	汎用男	Male
+
+195231	-	朝になり、あなた達は村の入り口に向かった。	Morning came, and you headed to the village entrance.
+
+195232	Old Man	「奴らのアジトは、	「Their hideout is
+195233	+	　ここを北に行ったところにある、	　north of here,
+195234	+	　メススライム迷宮という所にあります」	　in a place called the Female Slime Labyrinth.」
+
+195235	Old Man	「モンスターもいる危険な場所です。	「It's a dangerous place with monsters too.
+195236	+	　どうか、お気をつけて」	　Please be careful.」
+
+195237	Nagata-kun	「オーケーオーケー。	「Okay okay.
+195238	+	　＜エール＞ちゃんなら、楽勝だから！」	　＜エール＞-chan will handle it easily!」
+
+195239	Nagata-kun	「さ、スパーッと行っちゃおうかー！」	「Let's head out nice and quick!」
+
+195240	Man	「ちょっと待った！」	「Wait a moment!」
+
+195241	Old Man	「む、ヴレッザ」	「Mu, Vlezza.」
+
+195242	Man	「村長、やはりこんなことは卑怯だ。	「Chief, this is still cowardly.
+195243	+	　退治に行ってもらうにも、	　Even if asking them to exterminate the bandits,
+195244	+	　真実はちゃんと伝えなければ……」	　we must tell them the truth...」
+
+195245	Old Man	「むむむ……」	「Mmm...」
+
+195246	Nagata-kun	「ちょーちょー、なーによ。	「Hey hey, what's going on.
+195247	+	　なんの話しちゃってるワケ？」	　What are you talking about?」
+
+195248	Man	「君達、やめた方がいい。	「You two should stop.
+195249	+	　奴らに勝つのは到底無理だ」	　It's impossible to defeat them.」
+
+195250	Nagata-kun	「おいおい、何言っちゃってんの？	「Hey, what are you saying?
+195251	+	　＜エール＞はマジでガチ強いんですけど？」	　＜エール＞ is seriously really strong, you know?」
+
+> male
+195252	Man	「そこの彼が、	「I don't know how strong that guy is,
+195253	+	　どれだけ強いかは知らないけど……	　but...
+195254	+	　奴らに勝つのは到底無理だ」	　It's impossible to win against them.」
+
+> female
+195255	Man	「そこのお嬢ちゃんが、	「I don't know how strong that young lady is,
+195256	+	　どれだけ強いかは知らないけど……	　but...
+195257	+	　奴らに勝つのは到底無理だ」	　It's impossible to win against them.」
+
+> end
+195258	Man	「山賊団の名前は、ランス団」	「The bandit group's name is the Rance Gang.」
+
+195259	Man	「団長はあの魔王ランスの子供なんだからな」	「Their leader is the child of that Demon King Rance.」
+
+195260	Nagata-kun	「え、えーーーっ！？」	「Ehhh!?」
+
+195261	Man	「最初の被害の後、	「After the first attack,
+195262	+	　すぐに領主様の軍隊が鎮圧に来てくれたが……」	　the lord's army came to suppress them right away, but...
+
+195263	Man	「ランスJr.はたった一人で、	「Rance Jr. single-handedly
+195264	+	　十人の兵士をあっという間に叩き殺したよ。	　slaughtered ten soldiers in an instant.
+195265	+	　あんな強い奴、見たことない……」	　I've never seen anyone that strong...」
+
+195266	Man	「それをきっかけにこの村は見捨てられた……」	「After that, this village was abandoned...」
+
+195267	Man	「領主ですらビビッて軍を送ってくれない。	「Even the lord is too scared to send troops.
+195268	+	　冒険者ギルドに頼んでも誰も引き受けてくれない」	　The adventurer guild won't take the request either.」
+
+195269	Man	「だから村長は、君達のような	「That's why the chief tried to get
+195270	+	　旅人に真実を伝えず退治をさせようと……」	　travelers like you to fight without telling the truth...
+
+195271	Man	「既に君達の前にも同じように	　Two other kind adventurer groups
+195272	+	　二組の親切な冒険者が村長の口車に乗ったが……」	　already fell for the chief's words before you...
+
+195273	Man	「…………」	「............」
+
+195274	-	青年は沈痛な面持ちで首を横に振った。	The youth shook his head with a pained expression.
+
+195275	Old Man	「くっ、馬鹿者め……	「Kuh, you fool...
+195276	+	　儂らが生き残るにはこれしかないというのに……」	　This is the only way for us to survive...」
+
+195277	Nagata-kun	「それより、マジかよ……	「More importantly, for real...
+195278	+	　魔王の子って……」	　The Demon King's kid...」
+
+195279	Nagata-kun	「ちょ、マジ冗談じゃねぇぞ……！	「Hey, this isn't a joke...!
+195280	+	　ただの山賊ならともかく、	　If they were normal bandits, sure,
+195281	+	　そんな奴ら勝てっこねぇよぉ！」	　but we can't beat someone like that!」
+
+195282	Nagata-kun	「な、な、＜エール＞ちゃん、やめとこうぜ。	「C, c'mon ＜エール＞-chan, let's stop.
+195283	+	　こんなの俺らがやるこっちゃないぜ」	　This isn't something for us to handle.」
+195284	+	「あ、そうか。	「Ah, that's right.
+195285	+	　元々＜エール＞ちゃんの旅は	　Your journey was originally
+195286	+	　魔王の子集めの旅でもあるんだっけ」	　about gathering the Demon King's children.」
+
+195287	Nagata-kun	「いやいやいや！　それでも駄目だって！	「No no no! Even so, it's impossible!
+195288	+	　相手は山賊だぞ、殺されっぞ！？」	　They're bandits, we'll get killed!?」
+
+195289	Nagata-kun	「うっ……」	「Ugh...」
+
+195290	Nagata-kun	「そりゃ、俺だって見捨てるのは、	「I mean, abandoning them
+195291	+	　ちょっと夢見が悪いけどよぉ……」	　doesn't feel great either...」
+
+195292	Nagata-kun	「お前って奴は……	「You really are...
+195293	+	　正義感が強いんだな……」	　full of justice...」
+
+195294	Nagata-kun	「で、でもよぉ……	「B, but still...
+195295	+	　さすがに相手が悪ぃよ……」	　the opponent is too dangerous...」
+
+195296	Nagata-kun	「な？　考え直そうぜ？」	「Right? Let's rethink this?」
+
+195297	-	あなたはゆっくりと首を横に振った。	You slowly shook your head.
+
+195298	Nagata-kun	「う……それじゃあ……	「Ugh... so that means...
+195299	+	　本当に行くってのかよ？」	　you're really going?」

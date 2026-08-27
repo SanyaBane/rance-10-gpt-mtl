@@ -1,0 +1,207 @@
+# 31346	４４／自由都市自力解放２	
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Pizarro	大将軍ピサロ	Male
+* Monster General	汎用魔物将軍	Male
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Free Cities Guard	汎用自由都市警備兵Ｂ	Male
+* Monster Captain	汎用魔物隊長	Male
+* Papademas Shirusven	パパデマス	Male
+* Nunuhara Cabbage	ヌヌハラ	Female
+* Copandon Dott	コパンドン	Female
+* Pespo Tontone	ペスポ	Male
+* Shinoda Gengorou	篠田源五郎	Male
+* Eleanor Ran	エレノア	Female
+* Asakura Yoshikage	朝倉義景	Male
+
+68067	Green Monster Soldier	「報告いたします！	「Reporting!
+68068	+	　ジオ方面、カスタム方面、共に防衛隊が壊滅！	　Both the Geo and Custom fronts, the defense forces have been annihilated!
+68069	+	　各拠点となる都市に、迫りつつあります……！」	　We're closing in on the key cities...！」
+
+68070	Pizarro	「ちっ、人間どもが調子に乗りおって……	「Tch, those damn humans are getting cocky...
+68071	+	　で、あっちはどうだ？」	　So, what about the other side?」
+
+68072	Green Monster Soldier	「は、あっち、とは……」	「Yes, the other side...?」
+
+68073	Pizarro	「ええい、鈍い奴だな！	「Idiot, you're so slow!
+68074	+	　財宝運搬部隊は撤退出来たのかと聞いている！」	　I'm asking if the treasure transport unit managed to retreat!」
+
+68075	Green Monster Soldier	「あ……は、それは無事です。	「Ah... Yes, they are safe.
+68076	+	　お作りになった目録を確認しまして、	　We checked the inventory you made,
+68077	+	　遺漏なく……」	　and there are no omissions...」
+
+68078	Pizarro	「うむうむ。よし。不幸中の幸いであったわ」	「Good, good. Alright. A silver lining in the misfortune.」
+
+68079	Green Monster Soldier~	（そりゃ魔物将軍まで繰り出して、	（Well, he even sent out Monster Generals,
+68080	+	　4万もの兵で運んでんだからなぁ……）	　and transported it with 40,000 troops...）
+
+68081	-	その兵力を前線に回せば、とはピサロ以外の誰もが	Everyone except Pizarro thought
+68082	+	思いつく事であったが、実行に移されはしなかった。	of redirecting those troops to the front lines, but it was never done.
+
+68083	Monster General	「しかし、まずうございますな。	「However, this is bad.
+68084	+	　人間どもめ、各戦線で押し返しはじめおった」	　Those humans have started pushing back on every front.」
+
+68085	-	魔物将軍の一人がそう口にし、	One of the Monster Generals said so,
+68086	+	場は軍議の流れになっていった。	and the scene turned into a military council.
+
+68087	Monster General	「ジフテリアからのルートは大将軍閣下の直轄軍で塞いでおり、	「The route from Diphteria is blocked by His Excellency the Great General's direct forces,
+68088	+	　南部戦線は、カスタムを拠点にしておりまする」	　and the southern front is based in Custom.」
+
+68089	Monster General	「しかし、ここが落ちてしまうとラジール、カンラ、アイスと、	「However, if this falls, Rajiru, Kanra, and Ice will
+68090	+	　ひと息に肉薄されてしまいまする」	　be pressed all at once.」
+
+68091	Monster General	「ジオ、レッドにも同じ事が言えますな。	「The same can be said for Geo and Red.
+68092	+	　これらの侵攻ルートを潰すには、兵力が……」	　To crush these invasion routes, we need troops...」
+
+68093	Pizarro	「ふん……違うな、そうではない」	「Hmph... Wrong. That's not it.」
+
+68094	Monster General	「は？」	「Huh?」
+
+68095	Pizarro	「前提が間違っているのだ、バカめ。頭を叩き潰せばいいのだ。	「Your premise is wrong, fool. Just smash their heads.
+68096	+	　他の都市を守る必要なんぞ無いわ」	　There's no need to protect the other cities.」
+
+68097	Monster General	「む、それ、は…………」	「Mu, that is...」
+
+68098	Pizarro	「レッド東部に精鋭を集中させろ。他は陽動だ。	「Concentrate the elites in eastern Red. The rest are diversions.
+68099	+	　一気に南下して、司令部のあるMランドを落とす」	　Rush south in one go and take M Land where the headquarters is.」
+
+68100	Monster General	「おおお……！」	「Ooooh...!」
+
+68101	Pizarro	「精鋭を集めろ。	「Gather the elites.
+68102	+	　一気に敵戦線を押し潰し、その勢いで攻めるのだ」	　Crush the enemy lines in one go and charge with that momentum.」
+
+68103	Monster General	「ははっ！　であればデカデカントなど、	「Hah! In that case, let's gather huge monsters like Decadants,
+68104	+	　巨大モンスターを揃えておくとしましょう」	　and prepare giant monsters.」
+
+68105	Pizarro	「うむうむ。それとだな……」	「Good, good. Also...」
+
+68106	Monster General	「は……」	「Yes...」
+
+68107	Pizarro	「財宝運搬部隊を派遣しておく。	「Dispatch the treasure transport unit.
+68108	+	　奪った財宝は運ばせろ」	　Have them carry away the plundered treasures.」
+
+68109	Monster General	「………………はい……」	「............Yes...」
+
+68110	Pizarro	「渡さんぞ……財宝は全て、俺のものだ……！」	「I won't hand them over... All the treasures are mine...!」
+
+68111	-	戦況が激変した。	The war situation changed dramatically.
+
+68112	-	ハンナ、カスタム、他、各地の魔軍が一斉に動き出した。	The Monster Army in Hanna, Custom, and other places all began moving at once.
+
+68113	-	そして対応に走った連合軍の間隙を突き、	Striking at the gaps in the Allied forces rushing to respond,
+68114	+	レッドを南進した魔軍突撃部隊が襲った。	the Monster Army's assault unit advancing south through Red attacked.
+
+68115	-	宿場町　ゴトワナ――	Post Town Gotowana――
+
+68116	Free Cities Guard	「うあああああああッ！」	「Uaaaaaaaah!」
+
+68117	Free Cities Guard	「くっ、化け物が……！」	「Kuh, these monsters...!」
+
+68118	-	デカントの中でも更に選りすぐられた巨体揃いの、	Among the Decants, an elite group of massive bodies,
+68119	+	巨人部隊が進撃する。	the giant unit advanced.
+
+68120	-	天を突くような巨人たちを前線に押し立て、	Pushing giants that seemed to pierce the sky to the front,
+68121	+	魔軍は瞬く間に町の守備兵を壊滅させた。	the Monster Army instantly annihilated the town's defenders.
+
+68122	Monster Captain	「よし！　略奪は控えろ！	「Good! Refrain from looting!
+68123	+	　素早く次へ向かうぞ！」	　Move quickly to the next target!」
+
+68124	Green Monster Soldier	「ちぇ、惜しいよな……奪うチャンスなのによぅ」	「Tch, what a shame... It was a perfect chance to plunder.」
+
+68125	Monster Captain	「この後、大将軍閣下直属の収奪部隊が来るぞ。	「After this, His Excellency the Great General's direct plunder unit will arrive.
+68126	+	　どうせめぼしい物はみんな閣下に集まる」	　Anyway, all the good stuff will go to His Excellency.」
+
+68127	Green Monster Soldier	「アレさえなけりゃーーなぁ……	「If only that guy wasn't around...
+68128	+	　他の大将軍がたより仕えやすいんですがねぇ」	　The other Great Generals would be much easier to serve.」
+
+68129	Monster Captain	「まあ……そうだが無駄口を叩くな。	「Well... true, but don't waste time talking.
+68130	+	　一気にMランドにまで風穴を開ける！」	　We'll punch a hole straight through to M Land!」
+
+68131	-	これまでの、全土に散って各地で局地戦を行う形ではなく、	Instead of the previous style of scattered local battles across the land,
+68132	+	他を陽動とした、なりふり構わぬ一点突破。	this was an all-out single-point breakthrough using diversions elsewhere.
+
+68133	-	魔軍の全兵力の半分をこの狭い戦線に叩きつけた威力は凄まじく、	The power of slamming half the Monster Army's total forces into this narrow front was overwhelming,
+68134	+	人類軍には抵抗も許さずにMランドへの道をこじ開けていった。	forcing open a path to M Land without allowing the human army any resistance.
+
+68135	Papademas Shirusven	「魔軍が！？　やってくるですと！？」	「The Monster Army!? They're coming!?」
+
+68136	Nunuhara Cabbage	「……はい。これを……」	「...Yes. Here...」
+
+68137	-	コンピュータで弾きだした魔軍の動きは、	The Monster Army's movements calculated by computer
+68138	+	絶望的な勢いだった。	showed a despairing momentum.
+
+68139	Copandon Dott	「っ、あかん……！　包囲される……！」	「This is bad...! We're going to be surrounded...!」
+
+68140	Papademas Shirusven	「あーーー！　こんな事ならやっぱりあの時	「Aaaah! If only we had surrendered back then,
+68141	+	　降伏に応じておけば……！」	　this wouldn't have happened...!」
+
+68142	Copandon Dott	「そんなんあったんかいおんどれーっ！」	「You had that option, you idiot!」
+
+68143	Papademas Shirusven	「おうふっ！」	「Oof!」
+
+68144	Pespo Tontone	「おう通信屋の嬢ちゃん。	「Hey, miss communicator.
+68145	+	　セシルの嬢ちゃんの隊を戻したとして……	　Even if we recall Cecil's unit...
+68146	+	　間に合うか？」	　Will we make it in time?」
+
+68147	Nunuhara Cabbage	「…………厳しいですわ。	「...It's tough.
+68148	+	　行軍速度的に、五……いいえ、七日は……」	　In terms of marching speed, five... no, seven days...」
+
+68149	Pespo Tontone	「……ちっ。とにかく、作戦は中止だな。	「...Tch. Anyway, abort the operation.
+68150	+	　出撃した部隊に、なんとか渡りを付けて……」	　Try to get the deployed units across somehow...」
+
+68151	Shinoda Gengorou	「いいえ、だめです」	「No, that's not possible.」
+
+68152	Eleanor Ran	「篠田さん……」	「Shinoda-san...」
+
+68153	Shinoda Gengorou	「ここで防御に回っちゃいけません。	「We cannot switch to defense here.
+68154	+	　相手は全員攻撃で来てるんです。	　The enemy is coming with an all-out attack.
+68155	+	　カウンターで一気にゴールを狙うべきですよ」	　We should aim for a goal in one counterattack.」
+
+68156	Papademas Shirusven	「し、しかし……！	「B-but...!
+68157	+	　ここが落とされては、元も子も……！」	　If we lose this place, we'll lose everything...!」
+
+68158	Shinoda Gengorou	「僕がなんとかしますよ」	「I'll handle it somehow.」
+
+68159	Copandon Dott	「なんとか、って……自分、戦われへんやろ」	「Handle it... You can't even fight.」
+
+68160	Shinoda Gengorou	「防衛部隊が少しはいますからね。	「We still have some defense troops.
+68161	+	　それでなんとかしますよ」	　I'll manage with them.」
+
+68162	Copandon Dott	「あ、あんなんホンマに少しやで。	「Those are really just a few.
+68163	+	　5000もいないやろ」	　Not even 5000.」
+
+68164	Shinoda Gengorou	「技師さん。敵軍の情報、あるだけください」	「Engineer. Give me all the enemy information you have.」
+
+68165	Nunuhara Cabbage	「は、はい……承りましたわ」	「Y-yes... Understood.」
+
+68166	Shinoda Gengorou	「それと、セシルさん達の部隊には、	「Also, for Cecil-san's unit,
+68167	+	　半分帰ってきてくれれば充分と。	　half returning would be enough.
+68168	+	　アイスを落とせる戦力は残してもらって下さい」	　Please leave enough force to take Ice.」
+
+68169	Shinoda Gengorou	「ペスポさん。ハンナには確か、	「Pespo-san. In Hanna there were,
+68170	+	　少しですけどポピンズの技師がいましたよね」	　a few Poppins engineers, right?」
+
+68171	Pespo Tontone	「お？　おぉ。Mランドに詰めてんのは	「Oh? Yeah. The ones stationed in M Land
+68172	+	　20人かそこらっぱかしだが……」	　are about 20 or so...
+
+68173	Shinoda Gengorou	「充分です。それと、てばさき騎兵と……	「That's enough. Also, the Tebasaki cavalry and...
+68174	+	　あ、エレノアさんは予定通りに」	　Ah, Eleanor-san, proceed as planned.
+
+68175	Eleanor Ran	「……大丈夫、なんですね？」	「...Are you sure you'll be okay?」
+
+68176	Shinoda Gengorou	「大丈夫じゃなくても、最悪で相打ちです。	「Even if not, in the worst case it's a mutual kill.
+68177	+	　そうなるように、お願いしますよ」	　Please make it so.」
+
+68178	Eleanor Ran	「……………………」	「........................」
+
+68179	-	逡巡を見せながらも頷き、ランはすぐさま	Though hesitant, she nodded, and Ran immediately
+68180	+	部屋の外へと駆け出した。	dashed out of the room.
+
+68181	Shinoda Gengorou	「妖怪の方々はそのままお任せで。	「I'll leave the yokai to themselves.
+68182	+	　元々、個性的すぎてディフェンスに向きませんし」	　They're too unique for defense anyway.」
+
+68183	Asakura Yoshikage	「伝えましょう」	「I'll relay the message.」
+
+68184	Shinoda Gengorou	「さあ……大変だあ。忙しくなりますよー」	「Alright... This is going to be tough. It's going to get busy~」
+
+68185	-	周囲の、悲壮なまでの緊張感を余所に、	Ignoring the tragic tension around him,
+68186	+	篠田はのほほんと張り切ってみせた。	Shinoda cheerfully acted motivated.

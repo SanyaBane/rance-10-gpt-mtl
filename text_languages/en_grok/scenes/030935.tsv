@@ -1,0 +1,180 @@
+# 30935	２３０／２／飢える町	
+* Sill Plain	シィル	Female
+* Rance	ランス	Male
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Man	汎用男	Male
+* Woman	汎用女	Female
+* Muscle Man	汎用筋肉男	Male
+* Caloria Cricket	カロリア	Female
+* Oda Kouhime	香姫	Female
+* Crook Mofus	クルックー	Female
+* Kentou Kanami	かなみ	Female
+* Miracle Tor	ミラクル	Female
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+
+40756	Sill Plain	「…………あっ」	「............Ah.」
+
+40757	-	更に進むこと、数日。	Several more days passed.
+40758	+	道行きの向こうを、シィルが見晴らした。	Sill looked ahead on the path.
+
+40759	Sill Plain	「ランス様、街に着きますよ」	「Rance-sama, we're arriving at the town.」
+
+40760	Rance	「おっ……やっと到着か」	「Oh... finally arrived.」
+
+40761	-	ゼス東部、ダグザス――	Zeth East, Dagzas――
+
+40762	-	テープを抜け、徐々に北上した一団は、	After passing the Tape and heading north,
+40763	+	中規模の都市へと入っていった。	the group entered a medium-sized city.
+
+40764	-	街は、静まりかえっていた。	The town was eerily quiet.
+
+40765	-	まばらに見える人は歩く姿も鈍重で生気が無く、	The few people visible moved slowly, lifelessly,
+40766	+	死者のようでさえあった。	almost like the walking dead.
+
+40767	Free Cities Guard	「食料を持ってきたぞーーーーーー！！」	「We brought food!!!!!!!!」
+
+40768	-	先頭の男が上げた声は、	The shout from the lead man
+40769	+	一拍置いて……直後、都市中を揺るがした。	echoed, then shook the entire city.
+
+40770	Man	「お、お、おおおおおおおーーーーー！！	「O-o-oooooooooh!!
+40771	+	　め、め、メシだ！　食い物だ！」	　F-food! Real food!」
+
+40772	Woman	「こっちに頂戴！　子供がお腹を空かせてるの！」	「Over here! My child is starving!」
+
+40773	Rance	「う、うおおっ！？」	「U-woah!?」
+
+40774	Muscle Man	「おい押すなよ！　もう一週間近く、水しか……！」	「Don't push! We've only had water for a week...!」
+
+40775	Man	「みんなそうだよ、バカ野郎！	「We're all the same, idiot!
+40776	+	　さっさと退け！！」	　Get out of the way!!」
+
+40777	Rance	「…………うっは。なんつー状態だ」	「............Whoa. What a mess.」
+
+40778	-	ランスは飢えた民衆に荷台から引きずり下ろされ、	Rance was dragged off the cart by the starving crowd,
+40779	+	積み荷が奪い合いになる様を呆然と眺めていた。	and watched in a daze as the supplies were fought over.
+
+40780	Caloria Cricket	「大丈夫、ランス？」	「You okay, Rance?」
+
+40781	Oda Kouhime	「皆さん、苦しんでらしたんですね……」	「Everyone was suffering so much...」
+
+40782	Crook Mofus	「ですが……危険ですね」	「But... this is dangerous.」
+
+40783	Sill Plain	「はい？」	「Yes?」
+
+40784	Man	「うぐっ……！　く、苦しい……！」	「Ugh...! It hurts...!」
+
+40785	Woman	「がふっ、げほっ……！　ぐ、ぐぐぐ……！」	「Gah, geh...! G-guh...!」
+
+40786	-	突然、届けられた食料をその場で貪っていた人々が、	People who had started devouring the food on the spot
+40787	+	腹を押さえて苦しみ始めた。	suddenly clutched their stomachs in pain.
+
+40788	Kentou Kanami	「な、なに、なに！？　まさか、毒……！？」	「W-what's happening!? Poison...!?」
+
+40789	Free Cities Guard	「バッ……そんな馬鹿な！」	「No way... that's impossible!」
+
+40790	Miracle Tor	「……そうではない。	「...It's not poison.
+40791	+	　飢餓状態で急に固形物を腹に入れたせいで、	　After extreme starvation, suddenly eating solid food
+40792	+	　胃をやられたのだ。最悪死ぬぞ」	　shocked their stomachs. It can kill them.」
+
+40793	Crook Mofus	「少し回って、腹ごなしの魔法を掛けてきます」	「I'll go around and cast digestion magic.」
+
+40794	Sill Plain	「あ、わ、私も……構いませんか、ランス様」	「Ah, c-can I help too, Rance-sama?」
+
+40795	Rance	「ああ、やってやれ」	「Yeah, go ahead.」
+
+40796	-	神魔法の心得のある面々が、	Those skilled in divine magic
+40797	+	急いで民衆へと駆けていった。	rushed to help the people.
+
+40798	Kentou Kanami	「す、すぐに食べちゃダメーーー！」	「D-don't eat it right away!」
+
+40799	Man	「う、ううう、うるせえ！	「S-shut up!
+40800	+	　く、食い物が目の前にあるのに、	　With food right in front of us,
+40801	+	　食わずにいられるか！」	　how can we not eat!」
+
+40802	Oda Kouhime	「落ち着いて下さい、落ち着いて……	「Please calm down...
+40803	?	きゃっ！」	Kyaa!」
+
+40804	Rance	「おっと。……ちっ、暴徒になってやがる」	「Whoa... Tch, they're turning into a mob.」
+
+40805	-	何人かが民衆に声を掛けて回るが、	Some tried to calm the crowd,
+40806	+	邪魔する者を突き飛ばしてでも	but people shoved them aside
+40807	+	食料を得ようとする者が後を絶たない。	to get to the food.
+
+40808	Miracle Tor	「ふん。仕方のない連中だ」	「Hmph. Hopeless bunch.」
+
+40809	-	ミラクルは懐から粉末の入った袋を出して、	Miracle took out a bag of powder from his pocket
+40810	+	街の中央の噴水に放り込んだ。	and tossed it into the central fountain.
+
+40811	Miracle Tor	「ブラックアーム！」	「Black Arm!」
+
+40812	Man	「うぐ、ぐぐぐぐ……うわあっ！？	「Ugh, guh... whoa!?
+40813	+	　がぼがぼがぼ…………」	　Gurgle gurgle...」
+
+40814	Woman	「きゃああっ！？」	「Kyaaa!?」
+
+40815	-	そして、魔法で生み出した黒い手で、	Then, with black hands created by magic,
+40816	+	噴水へとどんどん人々を放り込んでいく。	he began throwing people into the fountain.
+
+40817	Miracle Tor	「ははははは！　特製の消化薬を溶かした噴水だ。	「Hahahahaha! It's a fountain filled with my special digestive medicine.
+40818	+	　今すぐ楽にしてくれよう！　はーーーっははは！」	　I'll make you feel better right away! Haaa hahaha!」
+
+40819	-	そうこうしている内にようやく騒ぎは収まり、	Eventually the chaos calmed down,
+40820	+	少しずつ食料は分配されていった。	and the food was gradually distributed.
+
+40821	Caloria Cricket	「はあ……びっくりしちゃった」	「Haa... that was surprising.」
+
+40822	Oda Kouhime	「はい……私も、飢饉の害にあった現場は、	「Yes... this is my first time seeing
+40823	+	　初めてで……」	　the effects of a famine...」
+
+40824	Rance	「うーむ。思った以上に酷いな」	「Hmm. It's worse than I thought.」
+
+40825	Zeth Mage Soldier	「しかし、ここはまだマシです……	「But this place is still better...
+40826	+	　動く気力が、辛うじて残ってましたから」	　They still had the strength to move.」
+
+40827	-	やややつれているが、幾分マシな様子の	A somewhat less exhausted Zeth soldier
+40828	+	ゼス軍人が、ランスの元にやってきた。	approached Rance.
+
+40829	Rance	「お前、ここの責任者か？」	「You in charge here?」
+
+40830	Zeth Mage Soldier	「はっ、ランス総統閣下。連絡は頂いております。	「Yes, Supreme Leader Rance. We received word.
+40831	+	　氷軍第3防衛中隊長、ラブルムと申します」	　I am Rablum, captain of the 3rd Ice Army Defense Squadron.」
+
+40832	Zeth Mage Soldier	「……正直申し上げて、助かりました。	「...Honestly, thank you so much.
+40833	+	　もう1日、2日遅ければ、餓死者で溢れていました」	　Another day or two and we'd have been overrun with corpses.」
+
+40834	Rance	「ふん。お前らがむざむざ降伏するから	「Hmph. This is what happens when you surrender so easily.
+40835	+	　こんなことになるんだろうが。	　Men should fight and die.
+40836	+	　男は戦って死ね」	　That's how it should be.」
+
+40837	Zeth Mage Soldier	「耳が痛い……しかし、他に手段はないのです。	「That stings... but we had no other choice.
+40838	+	　僅かにでも勝ち目があれば、死力を尽くします。	　If there was even a small chance of victory, we'd fight to the death.
+40839	+	　ですが、魔人相手では……」	　But against a Fiend...」
+
+40840	Rance	「けっ、根性無しが」	「Tch, spineless.」
+
+40841	Caloria Cricket	「ランス……無理言っちゃだめだよー」	「Rance... don't be so harsh.」
+
+40842	Zeth Mage Soldier	「魔軍が通り過ぎたと言っても、	「Even after the Monster Army passed,
+40843	+	　魔物の襲撃がまったくないわけではありません。	　monster attacks still happen.
+40844	+	　逃げ遅れた市民を守るためには、これしか……」	　This was the only way to protect the citizens left behind...」
+
+40845	Rance	「結局俺が何とかしてやるしかないのか。	「In the end I have to fix everything.
+40846	+	　ガルティアはどこだ？」	　Where's Galtia?」
+
+40847	Zeth Mage Soldier	「最前線はもう少し北……	「The front line is a bit further north...
+40848	+	　イタリアとテープを挟むニカニカ平原に、	　On the Nikanika Plains between Italia and the Tape,
+40849	+	　炎軍、氷軍両軍の防衛線が展開しているはずです」	　the Flame and Ice Armies have set up defenses.」
+
+40850	Oda Kouhime	「このまま北東を目指せばいいんですね」	「We should head northeast then.」
+
+40851	Rance	「氷軍か……お、そういえば	「Ice Army, huh... Oh yeah,
+40852	+	　氷軍はウスピラちゃんがボスだったな。	　Uspira-chan is the boss of the Ice Army.
+40853	+	　怪我とかしてないだろうな？」	　I hope she's not hurt.」
+
+40854	Zeth Mage Soldier	「は……私が最後に会った時は、ご健在でしたが」	「Yes... she was fine when I last saw her.」
+
+40855	Rance	「ようし、いいぞ。	「Good. Excellent.
+40856	+	　ずばーっと倒して、ウスピラからご褒美を貰おう」	　I'll crush him quick and get a reward from Uspira.」
+
+40857	-	ランス達はうし車の行列と別れて、	Rance's group parted from the ox cart convoy
+40858	+	再び北東へと足を向けた。	and headed northeast once more.

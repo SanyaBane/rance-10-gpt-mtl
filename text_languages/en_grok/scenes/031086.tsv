@@ -1,0 +1,150 @@
+# 31086	２３２／２／魔軍に支配された町１	
+* Monster Captain	汎用魔物隊長	Male
+* Green Monster Soldier	汎用魔物兵緑	Male
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Kentou Kanami	かなみ	Female
+* Man	汎用男	Male
+* Caloria Cricket	カロリア	Female
+* Woman	汎用女	Female
+* Sachiko Centers	サチコ	Female
+* Rocky Bank	ロッキー	Male
+* Crook Mofus	クルックー	Female
+* Old Man	汎用爺	Male
+* Oda Kouhime	香姫	Female
+
+49890	Monster Captain	「つっ、強ぇ………………」	「S-so strong...」
+
+49891	Green Monster Soldier	「ひっ、ひぃっ……た、隊長がやられたーー！」	「Hii, hiii... T-the captain was defeatedー!」
+
+49892	Green Monster Soldier	「お、おおお、俺は逃げるぞ！	「O-oooo, I'm running!
+49893	+	　あんな町守って死ぬなんて冗談じゃねぇ！」	　No way I'm dying defending some town!」
+
+49894	Rance	「がはははははは、勝ーーーーー利！」	「Gahahahahahaha, victooooory!」
+
+49895	-	遭遇した小規模な魔軍を、ランス達は撃退した。	Rance and his party repelled the small Monster Army force they encountered.
+
+49896	Sill Plain	「お疲れ様です、ランス様」	「Good work, Rance-sama.」
+
+49897	Kentou Kanami	「ランス。向こうに、町があるみたい。	「Rance. There's a town over there.
+49898	+	　さっきの連中、そこから来てたみたいね」	　Those guys earlier seemed to come from there.」
+
+49899	Rance	「ほう、町か。まだ魔物兵は残ってるのか？」	「Oh, a town. Are there still monster soldiers left?」
+
+49900	Kentou Kanami	「ううん、魔物兵はもういないみたい。	「No, there don't seem to be any monster soldiers left.
+49901	+	　住人もちらほらいたわ」	　There were a few residents.」
+
+49902	Rance	「そうかそうか、よし、その町に寄るぞ。	「I see, I see. Good, let's stop by that town.
+49903	+	　助けたのだからお礼を頂かんとな、がはははは！」	　Since I saved them, I should get a reward, gahahahaha!」
+
+49904	-	ゼス北部の小さな町、ビーハンデル――	A small town in northern Zeth, Beehandel――
+
+49905	Rance	「ふうん。大した町じゃないが、まあいいだろう」	「Hmm. Not much of a town, but it'll do.」
+
+49906	-	現状を理解しているのかいないのか、	Whether he understood the situation or not,
+49907	+	近くの家から住民らしき男性がふらりと出てきた。	a man who looked like a resident staggered out from a nearby house.
+
+49908	Man	「魔物の連中がいないな……あんたらは？」	「The monsters are gone... Who are you guys?」
+
+49909	Caloria Cricket	「魔軍はやっつけたよ！　もう大丈夫」	「We beat the Monster Army! It's safe now!」
+
+49910	Man	「……ふーん…………あ、そう」	「...Hmm............ Oh, I see.」
+
+49911	Caloria Cricket	「え……」	「Eh...」
+
+49912	-	男は別段、喜ぶでもなく、	The man didn't seem particularly happy,
+49913	+	ぼんやりとした反応を返した。	and gave a dazed response.
+
+49914	Woman	「なぁに……？」	「What...?」
+
+49915	Man	「魔物、町からいなくなったって」	「The monsters left the town.」
+
+49916	Woman	「へぇ、そうなんだ……」	「Heh, is that so...」
+
+49917	Rance	「…………なんだこいつら。	「...What is with these people.
+49918	+	　魔軍どもになんかされてんのか」	　Did the Monster Army do something to them?」
+
+49919	Sill Plain	「そういう訳では、なさそうですけど……」	「It doesn't seem like that but...」
+
+49920	Sachiko Centers	「あの、ここの人たちは魔物に、その……	「Um, did the monsters do anything to the people here...?」
+49921	+	　なにもされなかったんですか？」	
+
+49922	Woman	「んー……よく分からないけど……	「Hmm... Not really sure but...
+49923	+	　抵抗せずに降参したら襲っては来なかったし……	　They didn't attack us when we surrendered without resistance...
+49924	+	　安全だったよ」	　It was safe.」
+
+49925	Kentou Kanami	「……へぇ。珍しい、のかな」	「...Heh. Is that unusual?」
+
+49926	Man	「身分制度を復活させるんだってさ。	「They said they're reviving the class system.
+49927	+	　また、あの……ゼスの、身分制度を」	　The old Zeth class system again.」
+
+49928	Sill Plain	「え…………」	「Eh............」
+
+49929	Rocky Bank	「そ、それって…………」	「T-that means............」
+
+49930	Man	「優秀なやつから、ABCと分けるんだとさ。	「They divide people into A, B, C starting with the talented ones.
+49931	+	　魔法使いやら、学者やら……	　Mages, scholars...
+49932	+	　賢い奴は、みんな連れて行かれたよ」	　All the smart ones were taken away.」
+
+49933	Sill Plain	「ということは、ここにいる方々は……」	「So the people here are...」
+
+49934	Man	「あぁ、俺たちはCなんだとよ。	「Yeah, we're C class.
+49935	+	　阿呆には用がない、ってことじゃないのかね」	　Guess they have no use for idiots.」
+
+49936	-	ふてくされたように、男性は吐き捨てた。	The man spat out the words sullenly.
+
+49937	Sill Plain	「助かって不幸中の幸いだと思いますけど……	「At least you're safe, that's a silver lining...
+49938	+	　ね、ランス様……」	　Right, Rance-sama...?」
+
+49939	Sill Plain	「あ、あれ？　ランス様……？」	「Ah, huh? Rance-sama...?」
+
+49940	Crook Mofus	「先ほど、連れて行かれたと言っていましたが。	「You mentioned people were taken earlier.
+49941	+	　どこにですか？」	　Where to?」
+
+49942	Man	「あ？　あそこだよ、ルールーハンデルって町」	「Ah? Over there, the town called Rulehandel.」
+
+49943	-	男は町のある方を指さした。	The man pointed toward the town.
+
+49944	Crook Mofus	「ありがとうございました」	「Thank you.」
+
+49945	Man	「ふん……優秀な奴らは、優遇されるよな。	「Hmph... The talented ones get special treatment.
+49946	+	　生まれつき、出来が違うんだ。	　Some people are just born better.
+49947	+	　少し前まで奴隷だったのに、何をしろってんだよ」	　We were slaves until recently, what do they expect?」
+
+49948	Old Man	「少し、じゃないさ。儂らはずっと奴隷なんだ。	「Not just recently. We've always been slaves.
+49949	+	　親父も爺さんもそうだった。	　Our fathers and grandfathers too.
+49950	+	　今がおかしかったんだよ」	　The recent times were the strange ones.」
+
+49951	Man	「そうだな……今さら、勉強しろって言われてもな。	「Yeah... Telling us to study now is pointless.
+49952	+	　文字の読み方だってわかんねーよ」	　I don't even know how to read letters.」
+
+49953	Old Man	「昔は良かったよ。	「The old days were better.
+49954	+	　どうすればいいか、全部教えてくれたし……	　They told us exactly what to do...
+49955	+	　今みたいに、無責任に放り出されたりしなかった」	　We weren't irresponsibly abandoned like now.」
+
+49956	Old Man	「ま、ここでゴロゴロしとれば、	「Well, if we just laze around here,
+49957	+	　そのうち誰かが命令してくるさ……」	　someone will eventually give orders...」
+
+49958	Man	「魔軍に殺されるかもだけどな。	「Though we might get killed by the Monster Army.
+49959	+	　まあもう、どうでもいいか…………」	　Well, it doesn't matter anymore...」
+
+49960	Sill Plain	「……あ………………」	「...Ah............」
+
+49961	-	生気なく、人々は口々に毒づいた。	Without energy, the people grumbled one after another.
+
+49962	Kentou Kanami	「なんだか……昔のゼスみたい。	「It feels like... the old Zeth.
+49963	+	　やる気のない二級市民でいっぱいの……」	　Full of unmotivated second-class citizens...」
+
+49964	Rocky Bank	「そういう……昔から変われてない人たちも、	「There are still many people like that...
+49965	+	　まだまだいっぱいいるだすよ。	　who haven't changed from the old days.
+49966	+	　みんながみんな、すぐに変われる訳じゃないだす」	　Not everyone can change right away.」
+
+49967	Caloria Cricket	「ウルザは、ちょっとずつ変えよう、	「Urza said she'd change things little by little,
+49968	+	　って言ってたんだけどね……」	　but...」
+
+49969	Oda Kouhime	「早く街の人たちを助けないと、ですね」	「We need to help the townspeople quickly.」
+
+49970	Sill Plain	「はいっ、がんばりましょう！」	「Yes, let's do our best!」
+
+49971	Sill Plain	「で……ランス様は	「By the way... where did
+49972	+	　どこに行ってしまったのでしょう……？」	　Rance-sama go...?」

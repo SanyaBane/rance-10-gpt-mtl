@@ -1,0 +1,149 @@
+# 33483	３２０／ランス接触４／戦闘後	
+* Scholar	学者	Male
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Muscle	マッスル	Male
+* Swordmaster	剣豪	Male
+* Needle	ニードル	Female
+* Apache	アパッチ	Male
+
+245197	Scholar	「皆さん、撤退しますよ！」	「Everyone, we're retreating!」
+
+245198	Rance	「あ、こら！　毎度毎度逃げるなー！」	「Ah, hey! Stop running away every single timeー!」
+
+245199	-	ランスの声など無視して、	Ignoring Rance's voice,
+245200	+	マエリータ隊はあっという間に姿が見えなくなった。	the Maelita Squad disappeared in an instant.
+
+245201	Rance	「ったく、本当になんなんだあいつら……」	「Geez, what the hell are those guys...」
+
+245202	Sill Plain	「あれ、ランス様、さっきまでいた	「Huh, Rance-sama, the monsters that were here
+245203	+	　モンスターの方、二人が……」	　just now, two of them...」
+
+245204	Rance	「んあ？　いなくなってる？」	「Nnah? They're gone?」
+
+245205	-	…………	............
+
+245206	-	……	......
+
+245207	Muscle	「ふう、さすがに今回は色々とキツかったぜ」	「Phew, this time was pretty tough in a lot of ways.」
+
+245208	Scholar	「ええ、そうですね」	「Yes, it was.」
+
+245209	Swordmaster	「今宵、死ぬには良い月夜だ！」	「Tonight is a good night to die!」
+
+245210	Muscle	「……で、当たり前みたいに戻ってきてるし」	「...And he's back like it's normal.」
+
+245211	Needle	「こらー！　剣豪あんた何考えてんのよー！」	「Heyー! Swordmaster, what were you thinkingー!」
+
+245212	Swordmaster	「つきはむらくもでかげった！」	「The moon is clouded tonight!」
+
+245213	Muscle	「ま、剣豪は元からよく分からん奴だしな。	「Well, the Swordmaster has always been hard to understand.
+245214	+	　それより問題は……」	　More importantly the problem is...」
+
+245215	Scholar	「ええ、あちらですね」	「Yes, over there.」
+
+245216	Apache	「…………」	「............」
+
+245217	-	いつからいたのか、	No one knew when he arrived,
+245218	+	マエリータ隊の前にアパッチが一人立っていた。	but Apache stood alone in front of the Maelita Squad.
+
+245219	Muscle	「おう、裏切り者が姿を見せるたぁ、いい度胸だな。	「Oh, the traitor shows his face, you've got guts.
+245220	+	　なんか言うことはあるか？」	　Got something to say?」
+
+245221	Apache	「ああ……ある」	「Yeah... I do.」
+
+245222	Apache	「……謝罪に来たのだ」	「...I came to apologize.」
+
+245223	Apache	「すまない」	「Sorry.」
+
+245224	-	アパッチは言葉少なに頭を下げた。	Apache bowed his head with few words.
+
+245225	Muscle	「お、おお……？」	「O-oh...?」
+
+245226	Scholar	「…………」	「............」
+
+245227	Apache	「俺が間違っていたこと、	「I was wrong,
+245228	+	　敵となって理解できた」	　I understood after becoming your enemy.」
+
+245229	Apache	「お前らの攻撃には迷いがない。	「Your attacks have no hesitation.
+245230	+	　それは、いつ死んでも悔いのない者の戦いだ」	　That's the fight of someone who has no regrets even in death.」
+
+245231	Apache	「お前らは紛れもなく……戦士だ」	「You are without doubt... true warriors.」
+
+245232	Apache	「そんなことに……	「I didn't realize something like that...
+245233	+	　実際に戦うまで気づくことが出来なかった」	　until I actually fought you.」
+
+245234	Muscle	「案外、素直なんだな……」	「You're surprisingly honest...」
+
+245235	Apache	「魂に嘘はつけない」	「I can't lie to my soul.」
+
+245236	Scholar	「貴方が理解できないのは当然です。	「It's natural that you couldn't understand.
+245237	+	　私達の目指すものは勝利ではありません」	　What we aim for is not mere victory.」
+
+245238	Scholar	「完璧な勝利です」	「It's perfect victory.」
+
+245239	Scholar	「私達はマエリータ隊こそが正しい魔物の姿だと、	「We must show the world that the Maelita Squad
+245240	+	　世界に知らしめねばなりません。	　is the true form of monsters.
+245241	+	　これはその為の戦いでもあるのです」	　This battle is for that purpose too.」
+
+245242	Apache	「……お前もまた……戦っていたのだな」	「...So you were fighting too...」
+
+245243	Scholar	「ええ……貴方とは違うやり方ですが……」	「Yes... though in a different way from you...」
+
+245244	Scholar	「……私の手を取りませんかアパッチ」	「...Won't you take my hand, Apache?」
+
+245245	-	学者がアパッチに手を伸ばす。	The Scholar reached out her hand to Apache.
+
+245246	Apache	「俺のような者まで欲しがるとは、	「To want even someone like me,
+245247	+	　なんと強欲な……」	　how greedy...」
+
+245248	Apache	「俺は……」	「I...」
+
+245249	-	アパッチが手を伸ばしかける。	Apache started to reach out his hand.
+
+245250	Muscle	「待てよ、お前はそれでいいのか？」	「Wait, is that really okay with you?」
+
+245251	Muscle	「お前は剣豪と違って信頼が築けてない。	「Unlike the Swordmaster, you haven't built trust yet.
+245252	+	　本当の仲間になるには長い時間を要するぞ」	　Becoming a true comrade will take a long time.」
+
+245253	Muscle	「辛いぞー？　野に下るなりした方が幸せだ。	「It'll be tough you know? Living freely might be happier.
+245254	+	　俺はそっちを勧めるぜ？	　I recommend that?
+245255	+	　お前、針のむしろに座れるか？」	　Can you sit on a bed of needles?」
+
+245256	Apache	「既に俺の魂が決めたこと。	「My soul has already decided.
+245257	+	　ならば逆らえん」	　So I can't go against it.」
+
+245258	Apache	「俺は、俺を俺と認めてくれる者の為に戦いたい。	「I want to fight for those who recognize me as me.
+245259	+	　それが俺の居場所だ」	　That is my place.」
+
+245260	Apache	「どうか、俺を導いてくれ」	「Please, guide me.」
+
+245261	Scholar	「ええ」	「Yes.」
+
+245262	-	アパッチは手を取り、学者はうなずいた。	Apache took her hand, and the Scholar nodded.
+
+245263	Scholar	「ようこそ、マエリータ隊へ」	「Welcome to the Maelita Squad.」
+
+245264	Swordmaster	「今宵、死ぬには良い月夜だ！」	「Tonight is a good night to die!」
+
+245265	Apache	「ぬお……う、うむ……」	「Nuo... Y-yeah...」
+
+245266	-	剣豪が嬉しそうに声を上げた。	The Swordmaster raised his voice happily.
+
+245267	Needle	「で、剣豪は本当に何がしたかったの？」	「So, what did the Swordmaster really want?」
+
+245268	Muscle	「性格が二人とも似てるし、	「Their personalities are similar,
+245269	+	　アパッチには思うところがあったんだろう」	　he probably had some thoughts about Apache.」
+
+245270	Needle	「似てるって？」	「Similar how?」
+
+245271	Muscle	「昔の剣豪、	「The old Swordmaster
+245272	+	　今のアパッチみたいな性格してたんだぞ」	　had a personality just like Apache now.」
+
+245273	Needle	「うっそだー！」	「No wayー!」
+
+245274	Muscle	「いや、マジマジ」	「No, for real.」
+
+245275	Scholar	「ふふ、ありましたね、そんなこと」	「Fufu, that did happen.」
+
+245276	-	マエリータ隊は新たな仲間を迎え入れた。	The Maelita Squad welcomed new comrades.

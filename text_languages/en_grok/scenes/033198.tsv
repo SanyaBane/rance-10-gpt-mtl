@@ -1,0 +1,227 @@
+# 33198	６０２／サテラ／戦闘後	cg,route
+* Nagata-kun	長田君２	Male
+* Satella	サテラ	Female
+* Rocky Bank	ロッキー２	Male
+* Arms Arc	アームズ２	Female
+* Demon King Rance	ランス２	Male
+* El Mofus	エール２	Player's choice
+
+211712	Nagata-kun	「つ、強ぇ……勝てねぇよぉ……」	「S-so strong... We can't win...」
+
+211713	Satella	「ふん、弱いな」	「Hmph, so weak.」
+
+211714	Satella	「ここまで来るくらいだから、	「Since you made it this far,
+211715	+	　何か秘策でもあるのかと思ったら……」	　I thought you might have some secret plan...」
+
+211716	Satella	「貴様ら、覚悟はいいだろうな……」	「You lot, are you prepared...?」
+
+211717	Satella	「人間の分際で、	「Mere humans,
+211718	+	　魔王様の聖域を汚した罪は万死に値する」	　the crime of defiling Demon King-sama's sanctuary deserves death ten thousand times.」
+
+211719	Satella	「後悔して！　そして死ね！」	「Regret it! And die!」
+
+211720	-	サテラが鞭を構える。	Satella readied her whip.
+
+211721	Rocky Bank	「ま、待って下さいだー！」	「W-wait please!」
+
+211722	Satella	「なんだぁ……？」	「What...?」
+
+211723	Rocky Bank	「お、おらだす！　ロッキーだす！	「I-it's me! Rocky!
+211724	+	　どうかやめて下さいだ、サテラ様！」	　Please stop, Satella-sama!」
+
+211725	Satella	「……はあ？」	「...Haa?」
+
+211726	Satella	「…………」	「............」
+
+211727	Satella	「ああ、いたなぁ、	「Ah, there you were,
+211728	+	　お前みたいな奴……」	　someone like you...」
+
+211729	Rocky Bank	「うう、どうしてこんなひどいことばかり……	「Uuu, why do such terrible things keep happening...
+211730	+	　昔は人間とも仲良くしていただすのに……」	　You used to get along with humans...」
+
+211731	Satella	「……っ」	「...!」
+
+211732	Satella	「ば、馬鹿を言うな！	「D-don't say stupid things!
+211733	+	　誇り高き魔人であるサテラが、	　A proud Fiend like Satella
+211734	+	　どうして人間なんぞと――」	　would never get along with humans――」
+
+211735	Rocky Bank	「で、でも、ランス様やシィルさんとは……」	「B-but with Rance-sama and Sill-san...」
+
+211736	Satella	「な、あ、か……」	「Th-that's...」
+
+211737	Satella	「だ、黙れ黙れ！	「S-shut up shut up!
+211738	+	　その口を今すぐ閉じねば本当に殺すぞ！」	　Close that mouth right now or I'll really kill you!」
+
+211739	Rocky Bank	「お、おらは殺して構わないだす！	「Y-you can kill me if you want!
+211740	+	　そ、その代わり、せめてこちらの方は	　But please at least spare
+211741	+	　見逃して欲しいだ！」	　these people!」
+
+211742	Satella	「なに？」	「What?」
+
+211743	-	ロッキーがあなたに近づく。	Rocky approached you.
+
+> male
+211744	Rocky Bank	「こちらの＜エール＞様は、	「This ＜エール＞-sama is
+211745	+	　ランス様のご子息ですだ！	　Rance-sama's son!
+211746	+	　殺しては駄目だす！」	　You can't kill him!」
+
+211747	Rocky Bank	「こちらの＜エール＞様は、	「This ＜エール＞-sama is
+211748	+	　ランス様のご息女ですだ！	　Rance-sama's daughter!
+211749	+	　殺しては駄目だす！」	　You can't kill her!」
+
+> end
+211750	Satella	「なんだと……」	「What did you say...」
+
+211751	Satella	「くっ……魔王様……」	「Kuh... Demon King-sama...」
+
+211752	Satella	「魔王様は、サテラの……	「Demon King-sama is Satella's...
+211753	+	　サテラだけの魔王様なのに……」	　Satella's one and only...」
+
+211754	Satella	「ぽこぽことあっちこっちに	「Scattering his seed everywhere
+211755	+	　種をばらまきやがってぇぇえ……」	　like that...」
+
+211756	Rocky Bank	「……さ、サテラ様？」	「...S-Satella-sama?」
+
+211757	Satella	「ふ、ふふ……ふふふふ……」	「F-fufu... Fufufufu...」
+
+211758	Satella	「気が変わったぞ……」	「I've changed my mind...」
+
+211759	Satella	「本当はただ殺すだけのつもりだったが……」	「I was just going to kill you all but...」
+
+211760	Satella	「そのガキはせいぜい苦しませてから殺してやる！」	「I'll make that kid suffer before killing them!」
+
+211761	Rocky Bank	「そ、そんな！	「N-no!
+211762	+	　そんなひどいことはしないで欲しいだす！」	　Please don't do something so horrible!」
+
+211763	Satella	「黙れ黙れ黙れ！	「Shut up shut up shut up!
+211764	+	　人間風情がサテラに対等な口を利くな！」	　Don't speak to Satella as an equal, you mere human!」
+
+211765	-	と、そのとき――	And at that moment――
+
+211766	Rocky Bank	「なっ……ひっ！？」	「Wha... Hii!?」
+
+211767	Arms Arc	「ッ！？	「!?」
+211768	+	　こ、この感覚は……！？」	　This feeling...!?」
+
+211769	-	その瞬間、その場にいるサテラ以外の全員が、	In that instant, everyone except Satella
+211770	+	心臓を掴まれたような錯覚を覚えた。	felt as if their heart was being gripped.
+
+211771	-	地に叩きつけられるような圧迫感に、	An overwhelming pressure slammed down,
+211772	+	誰もが全身を硬直させた。	freezing everyone in place.
+
+211773	-	異様な圧迫感。	A bizarre oppressive feeling.
+211774	+	その正体が姿を見せる。	Its true form appeared.
+
+211775	Demon King Rance	「…………」	「............」
+
+211776	Rocky Bank	「な、あ……」	「Wh-what...」
+
+211777	-	魔王が現れた。	The Demon King appeared.
+
+211778	El Mofus	「…………。」	「............」
+
+211779	-	あなたの全身から汗が勝手に噴き出た。	Sweat poured uncontrollably from your entire body.
+211780	+	心臓がバクバクと鼓動を打つ。	Your heart pounded wildly.
+
+211781	-	圧倒的な死の恐怖にあなたは震えていた。	You trembled in overwhelming fear of death.
+
+211782	Satella	「魔王様！？	「Demon King-sama!?
+211783	+	　どうしてこんな場所に！？」	　Why are you in a place like this!?」
+
+211784	Demon King Rance	「……ふん」	「...Hmph.」
+
+211785	Demon King Rance	「ただの散歩だ」	「Just taking a walk.」
+
+211786	Demon King Rance	「城の中にいても退屈だからな」	「It's boring staying inside the castle.」
+
+211787	-	意外にも、その口調には威厳もなく、	Surprisingly, his tone lacked dignity,
+211788	+	喋り方も15年前とそれほど差異はない。	and his way of speaking hadn't changed much from 15 years ago.
+
+211789	-	ただ、感情が消え失せていた。	Only his emotions seemed to have vanished.
+
+211790	Demon King Rance	「それよりお前は何をしてる」	「More importantly, what are you doing?」
+
+211791	Satella	「不埒な侵入者がいたので	「There were insolent intruders,
+211792	+	　蹴散らしていたところです。	　so I was driving them away.
+211793	+	　もう終わるところです」	　It was almost over.」
+
+211794	Demon King Rance	「そうか……」	「I see...」
+
+211795	-	かろうじて声を発せたのはロッキーだった。	The only one who could barely speak was Rocky.
+
+211796	Rocky Bank	「ら……」	「Ra...」
+
+211797	Rocky Bank	「ランス様……だすか？」	「Is that... Rance-sama?」
+
+211798	Demon King Rance	「…………」	「............」
+
+211799	-	ロッキーの声はランスに届かない。	Rocky's voice didn't reach Rance.
+211800	+	まるで生きている場所が違うように。	It was as if they existed in different worlds.
+
+211801	Demon King Rance	「侵入者などどうでもいい。	「Intruders don't matter.
+211802	+	　放っておけ」	　Leave them.」
+
+211803	Demon King Rance	「サテラ、今日は北の方に行く。	「Satella, today we're going north.
+211804	+	　お前も来い」	　You come too.」
+
+211805	Satella	「は、はい！」	「Y-yes!」
+
+211806	Rocky Bank	「ら、ランス様……」	「R-Rance-sama...」
+
+211807	Rocky Bank	「ま、待って下さいだ！	「P-please wait!
+211808	+	　こちらにいるのはランス様のお子様だす！」	　＜エール＞-sama here is your child!」
+
+211809	Rocky Bank	「何か、ひ、一言……」	「Please, just one word...」
+
+211810	Demon King Rance	「行くぞ」	「Let's go.」
+
+211811	Satella	「はい！　魔王様！」	「Yes! Demon King-sama!」
+
+211812	-	一瞥すらせず、	Without even a glance,
+211813	+	魔王ランスはその場から姿を消した。	Demon King Rance vanished from the spot.
+
+211814	Rocky Bank	「あっ……」	「Ah...」
+
+211815	Satella	「ふん……」	「Hmph...」
+
+211816	Satella	「お前ら命拾いしたな。	「You lot got lucky.
+211817	+	　見逃してやるからとっとと帰れ」	　I'll spare you so get lost.」
+
+211818	Satella	「そして、二度とここには来るな！」	「And don't ever come here again!」
+
+211819	Satella	「次来たら……本当に殺すぞ！」	「Next time... I'll really kill you!」
+
+211820	-	そしてサテラも魔王ランスを追い、姿を消した。	Then Satella chased after Demon King Rance and disappeared.
+
+211821	El Mofus	「…………。」	「............」
+
+211822	-	その場に残された者の内、	Among those left behind,
+211823	+	ようやく緊張を解いたのはアームズだった。	Arms was the first to finally relax.
+
+211824	-	アームズが近くの岩にどっかりと腰を下ろす。	Arms plopped down heavily on a nearby rock.
+
+211825	Arms Arc	「ふう……	「Phew...
+211826	+	　魔王ランス、か……」	　Demon King Rance, huh...」
+
+211827	Arms Arc	「あまり良くない状態のようだな……」	「He doesn't seem to be in a good state...」
+
+211828	Arms Arc	「もうかなり、魔王に近づいている……」	「He's already quite close to being a full Demon King...」
+
+211829	Rocky Bank	「う、うう……」	「U-uuu...」
+
+211830	Rocky Bank	「す、すみませんだ、＜エール＞様！」	「S-sorry, ＜エール＞-sama!」
+
+211831	-	ロッキーがあなたに土下座した。	Rocky prostrated himself before you.
+
+211832	Rocky Bank	「おら、こんなことになると思ってなくて……	「I didn't think it would turn out like this...
+211833	+	　もっと、もっと……」	　I should have...」
+
+211834	Arms Arc	「ロッキー、もういい」	「Rocky, that's enough.」
+
+211835	-	ひたすら、何度もただ謝ろうとするロッキーを	Arms placed a hand on Rocky's shoulder
+211836	+	アームズが肩に手を置き制した。	to stop him from endlessly apologizing.
+
+211837	Arms Arc	「運良く見逃してもらえたんだ。	「We got lucky and were spared.
+211838	+	　ここはお情けに預かろうじゃないか」	　Let's accept this mercy.」
+
+211839	Arms Arc	「さ、下山しよう」	「Now, let's head down the mountain.」

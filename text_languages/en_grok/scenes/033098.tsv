@@ -1,0 +1,278 @@
+# 33098	６１１／ペア成立	route
+* Nagata-kun	長田君２	Male
+* Zance Leazas	ザンス２	Male
+* Nagi su Ragarl	ナギ２	Female
+* Masou Shizuka	志津香２	Female
+* Reset Kalar	リセット２	Female
+* Dark Rance	ダークランス２	Male
+* Sushinu the Gandhi	スシヌ２	Female
+* Lelikov Helman	レリコフ２	Female
+* El Mofus	エール２	Player's choice
+* Arms Arc	アームズ２	Female
+* Wass	ワッス２	Male
+* Doss	ドッス２	Male
+* Princess Panasonic	松下姫	Female
+* Kentou Uzume	ウズメ２	Female
+* Yamamoto Rangi	乱義２	Male
+* Tokugawa Tone	深根２	Female
+* Mix Tou	ミックス２	Female
+* Mouri Motonari	元就２	Male
+* Hero Helman	ヒーロー２	Male
+
+201565	-	あなたは手を開いて、	You opened your hand,
+201566	+	自分で掴み取ったクジを確認する。	and checked the lot you drew.
+
+201567	-	何も書かれていないクジに、	On the blank lot,
+201568	+	数字の一がゆっくりと浮かび上がる。	the number one slowly appeared.
+
+201569	-	あなたと同じ数字の、ペアの相手は誰だろう？	Who has the same number as you?
+
+201570	Nagata-kun	「うおー、俺三だー！」	「Whoa, I'm three!」
+
+201571	Zance Leazas	「俺は六か。	「I'm six.
+201572	+	　おい、他に六の奴はいるかー？」	　Hey, anyone else six?」
+
+201573	Nagi su Ragarl	「やったー、お姉様と一緒ー！	「Yay, with big sis!
+201574	+	　ぎゅーっ！」	　Hug~!」
+
+201575	Masou Shizuka	「ま、そうなるわよね……	「Well, of course it would be...
+201576	+	　って、こら、抱きつかない」	　Hey, don't cling to me.」
+
+201577	Reset Kalar	「あ、お兄ちゃんとなんだね♪」	「Ah, with big brother♪」
+
+201578	Dark Rance	「おっ、俺のペアはリセットか。	「Oh, my pair is Reset.
+201579	+	　ハハッ、一緒に冒険なんてガキの頃以来だな」	　Haha, adventuring together since we were kids.」
+
+201580	-	あなたの周りで皆がわいわいとペアを作っていく。	Everyone around you happily formed their pairs.
+
+201581	Nagata-kun	「あ……」	「Ah...」
+
+201582	Sushinu the Gandhi	「う、うう……」	「U-uu...」
+
+201583	Lelikov Helman	「…………」	「............」
+
+201584	El Mofus	「…………。」	「............」
+
+201585	-	なんと、あなたと同じ数字の者は現れなかった。	Surprisingly, no one had the same number as you.
+
+201586	Arms Arc	「…………」	「............」
+
+201587	Arms Arc	「いいもんだぞ？　ソロも」	「Solo is fine too, you know?」
+
+201588	-	あなたは師匠に気遣われた。	Your master showed concern for you.
+
+201589	Nagata-kun	「おっ、＜エール＞は一か……」	「Oh, ＜エール＞ is one...」
+
+201590	Nagata-kun	「ふっふっふっ……」	「Heh heh heh...」
+
+201591	Nagata-kun	「じゃじゃーん！　俺も一だよーん！」	「Ta-dah! I'm one too!」
+
+201592	Nagata-kun	「まあまあまあ、俺と＜エール＞なら	「Well well, if it's me and ＜エール＞
+201593	+	　こうなって当然だよな！	　this was bound to happen!
+201594	+	　なんたってソウルフレンドなんだからよ！」	　After all, we're soul friends!」
+
+201595	-	長田君はとってもご機嫌だった。	Nagata-kun was in an excellent mood.
+
+201596	Nagata-kun	「よっしゃ、やってやろうぜ！　相棒！」	「Alright, let's do this! Partner!」
+
+201597	Wass	「一……」	「One...」
+
+201598	Doss	「……一」	「...One.」
+
+201599	-	ドッスとワッスの二人はお互いに頷き合った。	Doss and Wass nodded to each other.
+
+201600	Wass	「よ、宜しくお願い、します……」	「P-please take care of me...」
+
+201601	Doss	「……う、うっす」	「...Y-yeah.」
+
+201602	-	あなたは二人にペコリと頭を下げられる。	The two bowed politely to you.
+
+201603	-	あなたとペア？　を組むのは、	It seems you are paired
+201604	+	どうやら二人のようだ。	with the two of them.
+
+201605	Princess Panasonic	「えっ、＜エール＞がわたちのペアでち？」	「Eh, ＜エール＞ is my pair?」
+
+201606	Princess Panasonic	「…………」	「............」
+
+201607	Princess Panasonic	「あ、う……よろしくでち……」	「A-um... nice to meet you...」
+
+201608	Princess Panasonic~	（ううっ、何故わたちったらドキドキしてるでち！）	（Uuu, why is my heart pounding so much!）
+
+201609	Nagi su Ragarl	「やったー、お姉様と一緒ー！	「Yay, with big sis!
+201610	+	　ぎゅーっ！」	　Hug~!」
+
+201611	Masou Shizuka	「ま、そうなるわよね……	「Well, of course...
+201612	+	　って、こら、抱きつかない」	　Hey, don't cling.」
+
+201613	Nagi su Ragarl	「って、＜エール＞も一緒？」	「Wait, ＜エール＞ too?」
+
+201614	Nagi su Ragarl	「おー、おいでおいで♪	「Come come♪
+201615	+	　一緒に行こーう♪」	　Let's go together♪」
+
+201616	Masou Shizuka	「＜エール＞、か……	「＜エール＞, huh...
+201617	+	　正直、＜エール＞って苦手なのよね……」	　To be honest, I'm not good with ＜エール＞...」
+
+201618	Nagi su Ragarl	「って言いながら喜んでるから	「She's saying that but she's happy,
+201619	+	　気にしなくていいよ」	　so don't worry.」
+
+201620	Masou Shizuka	「変なこと言わない」	「Don't say weird things.」
+
+201621	Reset Kalar	「あっ、私、＜エール＞ちゃんとペアだよー♪	「Ah, I'm paired with ＜エール＞♪
+201622	+	　ほらほら♪」	　Look look♪」
+
+201623	-	じゃじゃーん！　といった具合に、	Ta-dah! With that flair,
+201624	+	リセットは自分のクジを掲げて見せつける。	Reset showed off her lot.
+
+201625	Reset Kalar	「えへへ、よろしくね、＜エール＞ちゃん」	「Ehehe, nice to work with you, ＜エール＞-chan.」
+
+201626	-	あなたの小さな姉は、	Your little big sister
+201627	+	心から嬉しそうににっこりと微笑んだ。	smiled brightly from the bottom of her heart.
+
+201628	Zance Leazas	「アア？」	「Ah?」
+
+201629	Zance Leazas	「お前も数字の一ってこたぁ……	「So you're number one too...
+201630	+	　なんだ、俺の相棒はテメェかよ」	　So my partner is you.」
+
+201631	Zance Leazas	「フンッ……」	「Hmph...」
+
+201632	Zance Leazas	「ま、泣き虫のスシヌや偽善者の乱義、	「Well, compared to crybaby Sushinu, hypocritical Rangi,
+201633	+	　それに口うるせぇリセットに比べりゃ、	　and noisy Reset,
+201634	+	　幾分はマシってとこか」	　you're a bit better.」
+
+201635	Zance Leazas	「おう、分かってんだろーな？	「Hey, you get it right?
+201636	+	　俺様の足を引っ張ったら捨ててくぞ」	　If you drag me down I'll leave you behind.」
+
+201637	-	あなたは兄であるザンスに、	Your brother Zance
+201638	+	頭をグリグリされた。	rubbed your head roughly.
+
+201639	Kentou Uzume	「おっ！　ウズメのペアは主君殿でござるか！」	「Oh! Uzume's pair is my lord!」
+
+201640	Kentou Uzume	「んふふ、楽しそーな旅になりそうでござるな」	「Nfu fu, looks like it'll be a fun journey.」
+
+201641	Kentou Uzume	「ににんにん、主君のピンチは	「Nin nin, if my lord is in danger
+201642	+	　この野良忍者のウズメがお助け！	　this stray ninja Uzume will help!
+201643	+	　で、ござる！」	　De gozaru!」
+
+201644	-	ウズメはとっても楽しそうだった。	Uzume looked extremely happy.
+
+201645	Yamamoto Rangi	「ん……」	「Mm...」
+
+201646	-	乱義は自分のクジを眺めてから、	Rangi looked at his lot,
+201647	+	あなたにも見せてきた。	then showed it to you.
+201648	+	書かれているのはあなたのと同じ数字の一。	It had the same number one as yours.
+
+201649	Yamamoto Rangi	「僕のパートナーは＜エール＞か……」	「My partner is ＜エール＞...」
+
+201650	Yamamoto Rangi	「……ふっ」	「...Heh.」
+
+201651	Yamamoto Rangi	「しばらくの間、よろしくね」	「Let's get along for a while.」
+
+201652	-	素っ気なくそう言うが、	He said it casually,
+201653	+	乱義は少し嬉しそうにあなたには見えた。	but he looked a little happy to you.
+
+201654	Tokugawa Tone	「おっ」	「Oh.」
+
+201655	Tokugawa Tone	「＜エール＞ちゃん、数字の一？　数字の一？」	「＜エール＞-chan, number one? Number one?」
+
+201656	Tokugawa Tone	「んっふー♪」	「Nfu~♪」
+
+201657	-	これ見よがしに深根は、	Tone proudly showed off
+201658	+	自分が持っている数字の一が書かれたクジを掲げる。	the lot with number one.
+
+201659	Tokugawa Tone	「＜エール＞ちゃん、いっぱいあそぼーね」	「＜エール＞-chan, let's play a lot.」
+
+201660	-	既に深根は遊ぶ気満々だった。	Tone was already in full play mode.
+
+201661	Mix Tou	「あ゛……」	「Ah...」
+
+201662	-	ミックスは自分のクジの数字を見て、	Mix looked at the number on her lot
+201663	+	変な声を上げた。	and made a weird sound.
+
+201664	Mix Tou	「はあ……あたしのペアはあんたか……」	「Haa... my pair is you...」
+
+201665	Mix Tou	「ま、ザンス辺りと比べればマシね……」	「Well, better than Zance...」
+
+201666	Mix Tou	「ほら、何をボーッとしてるの。	「Hey, what are you spacing out for.
+201667	+	　ペアが決まったならとっとと行くわよ」	　Now that the pairs are decided, let's go.」
+
+201668	Sushinu the Gandhi	「ひゃううううう……！？」	「Hyauuuu...!?」
+
+201669	Sushinu the Gandhi	「あ、う……	「A-um...
+201670	+	　私とペアなのって……＜エール＞ちゃん？」	　My pair is... ＜エール＞-chan?」
+
+201671	-	何故かスシヌはわなわなと震えていた。	For some reason Sushinu was trembling.
+
+201672	Sushinu the Gandhi	「よよ、よろ、よろしくお願いしまひゅ！」	「P-p-please take care of me!」
+
+201673	-	スシヌは大袈裟なほど、体全体で頭を下げた。	Sushinu bowed deeply with her whole body.
+
+201674	Sushinu the Gandhi~	（うううう……どうしよう……	（Uuuuh... what do I do...
+201675	+	　これから＜エール＞ちゃんと二人旅なんて……）	　A trip alone with ＜エール＞-chan...）
+
+201676	Sushinu the Gandhi~	（し、心臓がどうにかなっちゃう……）	（M-my heart is going to explode...）
+
+> male
+201677	Sushinu the Gandhi~	（って、私ったら何を考えてるの！？	（Wait, what am I thinking!?」
+201678	+	　弟を相手にそんなこと考えちゃ駄目！）	　I can't think that about my little brother!）
+
+> female
+201679	Sushinu the Gandhi~	（って、私ったら何を考えてるの！？	（Wait, what am I thinking!?」
+201680	+	　＜エール＞ちゃん女の子なのに！	　＜エール＞-chan is a girl!
+201681	+	　ああもう、私の馬鹿馬鹿馬鹿！）	　Aah, I'm such an idiot idiot idiot!）
+
+> end
+201682	Sushinu the Gandhi	「スシヌー、お婆ちゃんもいるわよー」	「Sushinu~, grandma is here too~」
+
+201683	Mouri Motonari	「ぐわっははははは！」	「Gwah hahaha!」
+
+201684	Mouri Motonari	「オレの相棒は大将か！」	「My partner is the general!」
+
+201685	Mouri Motonari	「ククク……」	「Kukuku...」
+
+201686	Mouri Motonari	「面白くなりそうだ！！！！」	「This is going to be fun!!!!」
+
+201687	-	元就は嬉しそうに、	Motonari looked happy,
+201688	+	それでいて残忍に笑っていた。	yet laughed cruelly.
+
+201689	Lelikov Helman	「わーい、ヒーローとペアだー！」	「Yay, paired with Hero!」
+
+201690	Hero Helman	「えへへ、嬉しいね、レリコフ」	「Ehehe, I'm glad, Lelikov Helman.」
+
+201691	Lelikov Helman	「って、＜エール＞もボク達と同じ数字なの？」	「Wait, ＜エール＞ has the same number as us?」
+
+201692	Lelikov Helman	「っ、う……」	「U-uh...」
+
+201693	Lelikov Helman	「わーーーーい！	「Yaaaaay!
+201694	+	　えへへ、楽しい旅になりそう！」	　Ehehe, it's going to be a fun trip!」
+
+> male
+201695	Hero Helman	「わーい！　＜エール＞にーちゃんも一緒なんだね！	「Yay! Big brother ＜エール＞ is with us too!
+201696	+	　よろしくね！」	　Nice to meet you!」
+
+> female
+201697	Hero Helman	「わーい！　＜エール＞ねーちゃんも一緒なんだね！	「Yay! Big sister ＜エール＞ is with us too!
+201698	+	　よろしくね！」	　Nice to meet you!」
+
+> end
+201699	-	二人はあなたとペアだと聞くと、	When they heard they were paired with you,
+201700	+	とても嬉しそうに喜んでくれた。	they were overjoyed.
+
+201701	Dark Rance	「おっ、俺とペアなのは＜エール＞か」	「Oh, my pair is ＜エール＞.」
+
+201702	-	ダークランスがヒラヒラと数字の一が書かれた	Dark Rance fluttered the lot with number one
+201703	+	自分のクジを見せてきた。	and showed it to you.
+
+201704	Dark Rance	「ふっ、これから二人旅だ。	「Heh, it's a two-person journey from now on.
+201705	+	　よろしくな」	　Take care of me.」
+
+201706	-	あなたの兄は子供っぽい顔で嬉しそうに笑った。	Your brother smiled happily with a childish expression.
+
+201707	-	…………	............
+
+201708	-	……	...
+
+201709	-	こうして、あなたはたった一人で、	And so, you set out alone
+201710	+	アームズの遺産探しの旅に出ることになった。	on the journey to find Arms' legacy.
+
+201711	-	こうして、あなたは一番の親友と、	And so, you set out with your best friend
+201712	+	アームズの遺産探しの旅に出ることになった。	on the journey to find Arms' legacy.

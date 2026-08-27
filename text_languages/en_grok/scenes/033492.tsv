@@ -1,0 +1,115 @@
+# 33492	０２０／あてな／戦闘	
+* Muscle	マッスル	Male
+* Needle	ニードル	Female
+* Scholar	学者	Male
+* Apache	アパッチ	Male
+* Athena 2.0	あてな２号	Female
+* Mass-Produced Athena 2.0	量産型あてな２号	Female
+* Helman Soldier	汎用ヘルマン兵	Male
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Leazas Black Soldier	汎用リーザス黒兵	Male
+
+245954	-	マエリータ隊はランス城の廊下を、	The Maelita Squad moved
+245955	+	身をかがめて、しかし急いで進む。	hunched over but quickly through the corridors.
+
+245956	Muscle	「ちっ、しかし魔王はどこにいやがるんだ……	「Tch, but where the hell is the Demon King...
+245957	+	　あんまウロウロするわけにはいかねーぞ」	　We can't wander around too much.」
+
+245958	Needle	「魔王なんて危険な存在、	「A dangerous being like the Demon King,
+245959	+	　普通は地下牢とかじゃないの？」	　would normally be in an underground prison, right?」
+
+245960	Scholar	「普通はそうですね」	「Normally yes.」
+
+245961	Scholar	「……しかし、カオスマスターですからね」	「...But this is the Chaos Master we're talking about.」
+
+245962	Muscle	「あ〜〜〜……	「Aaaah...
+245963	+	　可愛い女は特別扱いかもだってのか……	　Maybe cute girls get special treatment...
+245964	+	　ありうるぜぇ、そりゃ……」	　that's possible...」
+
+245965	Needle	「……ん」	「...Nn.」
+
+245966	Needle	「みんな、隠れてっ」	「Everyone, hide!」
+
+245967	Muscle	「おっと！」	「Whoops!」
+
+245968	-	ニードルの声に反応し、	Reacting to Needle's voice,
+245969	+	マエリータ隊の面々は廊下の影に身を潜める。	the Maelita Squad members hid in the shadows of the corridor.
+
+245970	Scholar	「……暗くてよく分かりませんが、	「...It's too dark to see clearly,
+245971	+	　廊下に未確認物体が多数、ですね」	　but there are many unidentified objects in the corridor.」
+
+245972	Muscle	「……人間達の衛兵か？」	「...Human guards?」
+
+245973	Apache	「いや、この気配は人ではない。	「No, this presence is not human.
+245974	+	　俺には分かる」	　I can tell.」
+
+245975	Muscle	「？　いや、人のようだぞ？」	「? No, they seem human?」
+
+245976	Scholar	「む、来ますよ……」	「Mu, they're coming...」
+
+245977	Athena 2.0	「にゃー、怪談怪談、怪談にれっつごー！」	「Nyaー, ghost stories ghost stories, let's go ghost stories!」
+
+245978	-	あてなと量産型あてなが	Atena and the mass-produced Athena
+245979	+	スキップしながら現れた。	appeared while skipping.
+
+245980	Athena 2.0	「ふふーん、妹達に怪談の	「Fufu-n, I'll teach my little sisters
+245981	+	　楽しみ方を教えてやるのれす。	　how to enjoy ghost stories-desu.
+245982	+	　お化けが出てもお姉ちゃんがやっつけるれすよ」	　Even if ghosts appear, big sis will beat them-desu.」
+
+245983	Mass-Produced Athena 2.0	「お姉様、あちらに魔物がいるのれす」	「Big sis, there are monsters over there-desu.」
+
+245984	Athena 2.0	「わっ！　おばけがいるのれすー！」	「Wah! There are ghosts-desuー!」
+
+245985	Muscle	「いや、どう見てもお化けじゃねーだろ！	「No, they obviously aren't ghosts!
+245986	+	　魔物魔物！」	　Monsters monsters!」
+
+245987	Scholar	「付き合う必要はありません！	「We don't need to engage!
+245988	+	　破壊します！」	　Destroy them!
+
+245989	Athena 2.0	「ゴー！　ゴーストバスターズ！」	「Go! Ghostbusters!」
+
+245990	-	…………	............
+
+245991	-	……	......
+
+245992	Athena 2.0	「あ〜れ〜！	「Aaaah〜!
+245993	+	　や〜ら〜れ〜た〜れす〜！」	　We got beeeaten-desu〜!」
+
+245994	王様とニードル／基本	「くっ……やっつけたは、いいけどさぁ……」	「Kuh... we took them out but...
+
+245995	王様とニードル／基本	「あまりに時間を取られた……の、である……」	「It took too much time... indeed...」
+
+245996	Helman Soldier	「なんだこの騒ぎは！」	「What is this commotion!」
+
+245997	Zeth Mage Soldier	「あ、おい、見ろ！	「Ah, hey, look!
+245998	+	　モンスターだ！」	　Monsters!」
+
+245999	Apache	「くっ、見つかったか！」	「Kuh, we've been spotted!」
+
+246000	Leazas Black Soldier	「サーナキア隊長に連絡を！　急げ！	「Contact Captain Sanakia! Hurry!
+246001	+	　緊急警報もだ！」	　Sound the emergency alarm too!」
+
+246002	Muscle	「ちいっ！　騒ぎがでかくなっちまいやがった！」	「Tch! The commotion's gotten way too big!」
+
+246003	Needle	「まずいよ、学者！	「This is bad, Scholar!
+246004	+	　どんどん人間が集まってきちゃうよ！」	　More and more humans are gathering!」
+
+246005	Scholar	「仕方ありません……」	「No choice...
+
+246006	-	退くか進むか、学者は瞬時に天秤にかける。	Retreat or advance, the Scholar instantly weighs the options.
+
+246007	-	進めば、仲間に死者が出るだろう。	Advancing will likely cause deaths among comrades.
+
+246008	-	退けば、命令は達成できず、	Retreating means failing the mission,
+246009	+	それはストロガノフの立場の悪化、	which would worsen Stroganoff's position,
+246010	+	そして野望が遠のくことを意味している。	and push his ambitions further away.
+
+246011	-	その二つを天秤にかけ、学者は――	Weighing the two, the Scholar一一
+
+246012	Scholar	「ここからは強行突破となります！」	「From here on we break through by force!」
+
+246013	-	学者は進む道を選んだ。	The Scholar chose to advance.
+
+246014	Scholar	「皆さん、行きますよ！」	「Everyone, we're moving!」
+
+246015	Muscle	「おう！」	「Yeah!」

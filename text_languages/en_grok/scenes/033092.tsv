@@ -1,0 +1,109 @@
+# 33092	６１１／立ち直る／冒険をやめる	
+* Reset Kalar	リセット２	Female
+* Lia Parapara Leazas	リア２	Female
+* Oda Kouhime	香姫２	Female
+* Nagata-kun	長田君２	Male
+* Magic the Gandhi	マジック２	Female
+* Sheila Helman	シーラ２	Female
+* Yamamoto Rangi	乱義２	Male
+
+200450	Reset Kalar	「うん、そうだね。	「Yeah, that's right.
+200451	+	　そうしよっか」	　Let's do that.」
+
+200452	-	あなたの選択を、	Reset accepted
+200453	+	リセットは先程言った言葉通り	your choice exactly as she said earlier
+200454	+	決して責めはしなかった。	and didn't blame you at all.
+
+200455	Lia Parapara Leazas	「なら、これで決まりね。	「Then it's decided.
+200456	+	　ここからは国家間の話だわ」	　From here on it's a matter between nations.」
+
+200457	Oda Kouhime	「ええ、そうですね。	「Yes, that's right.
+200458	+	　JAPANで各国家の受け入れを……」	　We'll arrange acceptance of each nation in JAPAN...」
+
+200459	Oda Kouhime	「ただ土地の問題に食糧の問題と、	「But with land issues and food problems,
+200460	+	　考えることは山積みですが……」	　there are mountains of things to consider...」
+
+200461	Lia Parapara Leazas	「お金の問題ならどうとでもするわ」	「If it's a money problem, I can handle it somehow.」
+
+200462	Nagata-kun	「あ、俺達は……」	「Ah, what about us...」
+
+200463	Magic the Gandhi	「そう、ね……」	「Yeah...」
+
+200464	Sheila Helman	「みんなには休んでもらうのはどうでしょう。	「How about letting everyone rest.
+200465	+	　ここまでの戦いで疲れたでしょうから」	　You've all been exhausted from the battles so far.」
+
+200466	Magic the Gandhi	「ああ、それがいいわね。	「Yes, that sounds good.
+200467	+	　ここにいてもらっても、	　Even if they stay here,
+200468	+	　してもらうこともないしね」	　there's nothing for them to do.」
+
+200469	Sheila Helman	「本当に……今までお疲れ様でした。	「Really... thank you for all your hard work until now.
+200470	+	　後は私達に任せてゆっくりしてくださいね」	　Leave the rest to us and take it easy.」
+
+200471	-	後は大人だけの話となるらしい。	It seemed the rest would be adults-only discussion.
+200472	+	あなた達は退室してそれぞれに	You all left the room and returned
+200473	+	あてがわれた部屋に戻った。	to your assigned rooms.
+
+200474	-	…………	............
+
+200475	-	……	......
+
+200476	-	こうして……	And so...
+
+200477	-	あなた達は住居をJAPANに移す。	You moved your residence to JAPAN.
+
+200478	-	冒険をやめることを決定したあの日から、	From the day you decided to end the adventure,
+200479	+	数ヶ月が経過した。	several months had passed.
+
+200480	-	魔王の覚醒はまだ始まらない。	The Demon King's awakening had not yet begun.
+
+200481	Nagata-kun	「おっ、乱義じゃん。	「Oh, it's Rangi.
+200482	+	　会うの久し振りだな」	　It's been a while.」
+
+200483	Yamamoto Rangi	「やあ、二人とも。	「Hey, you two.
+200484	+	　相変わらず仲が良さそうだね」	　You two are as close as ever.」
+
+200485	Nagata-kun	「そっちは相変わらず忙しそうだな。	「You still look busy as always.
+200486	+	　大丈夫か？」	　You okay?」
+
+200487	Yamamoto Rangi	「難民の受け入れ体勢の構築、	「Building the system to accept refugees,
+200488	+	　備蓄の確保、防備の建築……	　securing stockpiles, constructing defenses...
+200489	+	　やることはいくらでもあるからね……」	　There's so much to do...」
+
+200490	Yamamoto Rangi	「まあ、JAPANだけの仕事ではなく、	「Well, it's not just JAPAN's job,
+200491	+	　各国が一丸となっての仕事だから、	　all countries are working together,
+200492	+	　色々と楽出来る面もあるが……」	　so there are some parts that make it easier...」
+
+200493	Yamamoto Rangi	「……まあ、そんな話はいいか」	「...Anyway, enough of that.」
+
+200494	Yamamoto Rangi	「そうそう、明日辺りようやくスシヌも	「Oh right, Sushinu is finally moving here tomorrow too.」
+200495	+	　こっちに移住するって」	
+
+200496	Nagata-kun	「おお、そうか。	「Oh, really.
+200497	+	　スシヌに会うのも久し振りだなぁ」	　It's been a while since I saw Sushinu.」
+
+200498	Yamamoto Rangi	「それでね、志津香さんとナギさんが	「So, Shizuka-san and Nagi-san suggested
+200499	+	　皆でピクニックでもどうかと」	　we all go on a picnic.」
+
+200500	Nagata-kun	「いーねー。	「Sounds good.
+200501	+	　ああ、でも乱義はやっぱ今回も行けないか」	　Ah, but Rangi can't come this time either, right?」
+
+200502	Yamamoto Rangi	「ん……そう、だね……	「Yeah... that's right...
+200503	+	　何しろ忙しくて……」	　I'm so busy...」
+
+200504	Yamamoto Rangi	「ああ、いや、なんとか顔を出すよ。	「Ah, no, I'll try to show up.
+200505	+	　いつも僕だけ不参加だからね」	　I don't want to be the only one missing again.」
+
+200506	Nagata-kun	「おっ、そっか！	「Oh, great!
+200507	+	　じゃあ待ってるからな！」	　We'll be waiting!」
+
+200508	Yamamoto Rangi	「ああ、またその時にでも会おう」	「Yeah, see you then.」
+
+200509	-	それはあなたが想像していたよりも、	It was calmer than you had imagined,
+200510	+	兄弟姉妹達と過ごす穏やかな日々。	peaceful days spent with your brothers and sisters.
+
+200511	-	まるで死期を宣告された患者が、	It was like a patient given a death sentence
+200512	+	最後の思い出作りをしているようだった。	making final memories.
+
+200513	-	…………	............
+
+200514	-	……	......

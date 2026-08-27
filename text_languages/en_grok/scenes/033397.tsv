@@ -1,0 +1,485 @@
+# 33397	６０９／お祭り	route
+* Nagata-kun	長田君２	Male
+* Reset Kalar	リセット２	Female
+* Dark Rance	ダークランス２	Male
+* Maria Custard	マリア２	Female
+* Nook 77	ヌーク７７２	Female
+* Miracle Tor	ミラクル２	Female
+* Mix Tou	ミックス２	Female
+* Monster Captain	汎用魔物隊長	Male
+* El Mofus	エール２	Player's choice
+* Shuri Seihajuu Nagasaki	シュリ２	Female
+
+235867	-	あなた達は情報収集をする為に、	To gather information,
+235868	+	街へと繰り出していた。	you three headed out into the city.
+
+235869	-	闘神都市は初日に見た時と変わらず、	Colosseum City was the same as on the first day,
+235870	+	至るところに屋台が出店し、	with stalls set up everywhere,
+235871	+	大規模なお祭りの風景となっていた。	creating the scene of a massive festival.
+
+235872	Nagata-kun	「うはーっ、もう本当……	「Uwaah, seriously...
+235873	+	　俺こーゆー空気大好き……」	　I love this kind of atmosphere...」
+
+235874	-	長田君はうっとりとしていた。	Nagata-kun looked enchanted.
+
+235875	Reset Kalar	「えへへ、私も大好き」	「Ehehe, I love it too.」
+
+235876	Reset Kalar	「とりあえず朝ご飯を食べよっか。	「Let's get some breakfast first.
+235877	+	　二人とも、なに食べる？」	　What do you two want to eat?」
+
+235878	Nagata-kun	「俺祭りではたこたこ焼き食うって決めてるんで！	「I've decided to eat takoyaki at festivals!
+235879	+	　行こうぜ、＜エール＞！」	　Let's go, ＜エール＞!」
+
+235880	Nagata-kun	「へへっ、やっぱ＜エール＞の隣が	「Hehe, being next to ＜エール＞
+235881	+	　一番しっくり来るなぁ！」	　feels the most right!」
+
+235882	Reset Kalar	「って、あれ？」	「Wait, huh?」
+
+235883	Nagata-kun	「どしたんすか、リセットさん？」	「What's wrong, Reset-san?」
+
+235884	Reset Kalar	「あれ、あれ」	「Look, look.」
+
+235885	Dark Rance	「おっ、＜エール＞達じゃないか！」	「Oh, it's ＜エール＞ and the others!」
+
+235886	Maria Custard	「良かったー、会えたー」	「Thank goodness, we found you.」
+
+235887	Reset Kalar	「お兄ちゃんにマリアさん！？」	「Big brother and Maria-san!?」
+
+235888	Nagata-kun	「どしたんすか！？」	「What's going on!?」
+
+235889	Dark Rance	「はは、どうもこうもないだろう？	「Haha, what do you mean what's going on?
+235890	+	　お前ら、魔王の子が出場したって聞いたから、	　We heard the Demon King's children were participating,
+235891	+	　慌ててやってきたんじゃないか」	　so we rushed over.」
+
+235892	Maria Custard	「もう、ダークランスったら、	「Geez, Dark Rance,
+235893	+	　あいつらの晴れ舞台、絶対に見るんだーって」	　kept saying he absolutely had to see their big moment.」
+
+235894	Dark Rance	「さっき着いたばかりで、一回戦は見逃したが、	「We just arrived, so we missed the first round,
+235895	+	　これからの試合は全部見るからな」	　but we'll watch all the remaining ones.」
+
+235896	Dark Rance	「はは、楽しみだなー」	「Haha, I'm looking forward to it.」
+
+235897	Nagata-kun	「でも、よかったんすか？	「But was it okay?
+235898	+	　やることとかあるんじゃ……」	　Don't you have other things to do...?」
+
+235899	Maria Custard	「ああ、その辺は焦っても	「Yeah, there's no point rushing those things...」
+235900	+	　仕方ないことだから……」	
+
+235901	Maria Custard	「ふふ、それに私だって、	「Fufu, besides, I also
+235902	+	　みんなの頑張るところ見たいもの」	　want to see everyone doing their best.」
+
+> male
+235903	Maria Custard	「＜エール＞君も出るんだよね？	「＜エール＞-kun is participating too, right?
+235904	+	　ふふ、頑張ってね」	　Fufu, do your best.」
+
+> female
+235905	Maria Custard	「＜エール＞ちゃんも出るのよね？	「＜エール＞-chan is participating too, right?
+235906	+	　ふふ、頑張ってね」	　Fufu, do your best.」
+
+> end
+235907	Maria Custard	「あ、でも、怪我はしないようにね」	「Ah, but make sure you don't get hurt.」
+
+235908	Nagata-kun	「武闘大会でそれは無理なんじゃ……」	「That's impossible in a fighting tournament...」
+
+235909	Dark Rance	「おっ、＜エール＞達じゃないか！」	「Oh, it's ＜エール＞ and the others!」
+
+235910	Nook 77	「ああ、良かった。	「Ah, thank goodness.
+235911	+	　ちゃんと会えて」	　We managed to meet up.」
+
+235912	Reset Kalar	「お兄ちゃんにヌークさん！？」	「Big brother and Nuke-san!?」
+
+235913	Nagata-kun	「どしたんすか！？」	「What's going on!?」
+
+235914	Dark Rance	「はは、どうもこうもないだろう？	「Haha, what do you mean what's going on?
+235915	+	　お前ら、魔王の子が出場したって聞いたから、	　We heard the Demon King's children were participating,
+235916	+	　慌ててやってきたんじゃないか」	　so we rushed over.」
+
+235917	Nook 77	「こいつ……	「This guy...
+235918	+	　絶対に皆の晴れ舞台、見るんだーって」	　kept saying he absolutely had to see everyone's big moment.」
+
+235919	Nook 77	「ま、近くにいたから覗きに来たってわけ」	「Well, I was nearby so I came to take a look.」
+
+235920	Dark Rance	「さっき着いたばかりで、一回戦は見逃したが、	「We just arrived, so we missed the first round,
+235921	+	　これからの試合は全部見るからな」	　but we'll watch all the remaining ones.」
+
+235922	Dark Rance	「はは、楽しみだなー」	「Haha, I'm looking forward to it.」
+
+235923	Nook 77	「やれやれ……」	「Good grief...」
+
+235924	Nagata-kun	「ダークランスさんって……」	「Dark Rance-san is...」
+
+235925	Nagata-kun	「で、でも……良かったんすか？」	「B-But... was it okay?」
+
+235926	Nagata-kun~	（二人きりだったろうに……）	（They were alone together...）
+
+235927	-	長田君はチラリとヌークの方を見た。	Nagata-kun glanced at Nuke.
+
+235928	Dark Rance	「ん？」	「Hmm?」
+
+235929	Nook 77	「？　よく分からないけど、気にしないでよ。	「? I don't really get it, but don't worry.
+235930	+	　あたしだって皆の晴れ舞台見たいもん」	　I want to see everyone's big moments too.」
+
+235931	Nook 77~	（あと、ずっと二人きりだと緊張するから、	（Also, being alone with him the whole time makes me nervous,
+235932	+	　出来るだけ他の人も一緒にいて欲しい……）	　so I want other people around as much as possible...）
+
+235933	Nook 77~	（って、いや！　こんなこと思ったら！	（Wait, no! Thinking that makes it sound like
+235934	+	　まるで、あたしがこいつのこと、	　I like this guy!
+235935	+	　す、すすす、好きみたいじゃない！）	　L-L-L-Like him!）
+
+235936	Nook 77~	（そんなこと！　あるわけないじゃない！）	（No way! That's impossible!）
+
+235937	Dark Rance	「ん？　どした？　ヌーク」	「Hmm? What's wrong, Nuke?」
+
+235938	Nook 77	「なに見てんのよ！　スケベ！」	「What are you looking at! Pervert!」
+
+235939	Dark Rance	「ええ……何を怒ってんだよ……」	「Eh... why are you mad...」
+
+235940	Nook 77	「うぐっ……」	「Ugh...」
+
+235941	Nook 77~	（うう〜〜……あたしの馬鹿ァ……）	（Uuuu... I'm such an idiot...）
+
+235942	Nook 77~	（ぐすん……）	（Sniff...）
+
+235943	Nagata-kun	「この二人っていつもこうなんすか？」	「Are these two always like this?」
+
+235944	Reset Kalar	「えへへ、仲良しさんだよねぇ」	「Ehehe, they're really close, aren't they.」
+
+235945	Nagata-kun	「ああ……まあ……	「Ah... well...
+235946	+	　そっすね」	　I guess.」
+
+235947	Reset Kalar	「それじゃあ、せっかくだから、	「Since you're here,
+235948	+	　お兄ちゃん達も私達の	　why don't you and big brother stay
+235949	+	　泊まってる宿屋に一緒に泊まろ」	　at the inn we're staying at too?」
+
+235950	Dark Rance	「お、じゃあ、そうすっか！」	「Oh, sure, let's do that!」
+
+235951	Reset Kalar	「えへへ、今、地図描くねー」	「Ehehe, I'll draw a map now~」
+
+235952	-	あなた達は宿屋に向かったダークランスと別れた。	You parted ways with Dark Rance who headed to the inn.
+
+235953	Reset Kalar	「まさかお兄ちゃん達が	「I never thought big brother and the others
+235954	+	　来るなんて思わなかったねぇ」	　would come.」
+
+235955	Nagata-kun	「そっすねぇ。	「Yeah.
+235956	+	　ま、賑やかになる分には、いっすよね！」	　Well, it'll be more lively, so that's fine!」
+
+235957	Reset Kalar	「ねー」	「Right~」
+
+235958	-	賑やかなのが好きな二人は	The two who loved lively atmospheres
+235959	+	とても嬉しそうだった。	looked very happy.
+
+235960	Reset Kalar	「あ、あれ？」	「Ah, huh?」
+
+235961	Nagata-kun	「うん？　また変なもん見つけたんすか？」	「Hmm? Did you spot something weird again?」
+
+235962	Miracle Tor	「おや、誰かと思えばお前達か」	「Oh, if it isn't you guys.」
+
+235963	Mix Tou	「げっ」	「Geh.」
+
+235964	-	あなた達はミラクルとミックスのコンビに	You ran into the Miracle and Mix duo.」
+235965	+	ばったりと出くわした。	
+
+235966	Nagata-kun	「ひっ！　昨日、俺をバットで叩き割った人だ！」	「Hii! It's the person who smashed me with a bat yesterday!」
+
+235967	Miracle Tor	「はっはっはっ、	「Hahaha,
+235968	+	　試合が終われば戦う理由もない。	　once the match is over there's no reason to fight.
+235969	+	　そう怯えることもあるまい」	　No need to be so scared.」
+
+235970	Reset Kalar	「ミラクルさんもお祭りを見に？」	「Miracle-san, are you here to see the festival too?」
+
+235971	Miracle Tor	「おいおい、気をつけろ、リセット・カラーよ。	「Hey now, be careful, Reset Kalar.
+235972	+	　今の余はミルキー・トーだ」	　Right now I am Milky Tor.」
+
+235973	Miracle Tor	「王がこのような催しに参加し、	「It is not fitting for a king to participate in such spectacles
+235974	+	　見世物になるなどあってはならんからな。	　and become a sideshow.
+235975	+	　世を欺く為に偽名を使っているのだ」	　That's why I use a pseudonym to deceive the world.」
+
+235976	Reset Kalar	「そういうの大好きなような……」	「You seem to love that kind of thing...」
+
+235977	Nagata-kun	「隠す気もないような……」	「You don't seem to be hiding it at all...」
+
+235978	Mix Tou	「くそぉ……	「Damn...
+235979	+	　こんなところ誰かに見られたくなかったのに……」	　I didn't want anyone to see me here with her...」
+
+235980	-	ミラクルと一緒にいるミックスが、	Mix, who was with Miracle,
+235981	+	思いっきり顔をしかめていた。	was making a huge grimace.
+
+235982	Nagata-kun	「…………」	「............」
+
+235983	Nagata-kun	「しっかし、二人が一緒にいるって珍しいね。	「Still, it's rare to see these two together.
+235984	+	　てか、ちょっと意外」	　It's kind of surprising.」
+
+235985	Mix Tou	「…………」	「............」
+
+235986	Mix Tou	「……あ？」	「...Huh?」
+
+235987	Mix Tou	「あんたのパートナー、あたしでしょ？	「I'm your partner, aren't I?
+235988	+	　で、昨日あんたママに負けたでしょ？」	　And you lost to mom yesterday, right?
+
+235989	Mix Tou	「あんたが負けたせいで、	「Because you lost,
+235990	+	　あたしが一緒に行動させられてるのよ！	　I'm stuck going around with you!
+235991	+	　24時間絶対服従だから！」	　24 hours of absolute obedience!
+
+235992	Mix Tou	「手を繋いでいるのはママの魔法で、	　Our hands are stuck together by mom's magic,
+235993	+	　手がくっついて外れなくされたからよ！」	　so they won't come apart!
+
+235994	Mix Tou	「一緒にアイス食ってんのは、	　We're eating ice cream together
+235995	+	　ママに押しつけられたからよ！」	　because mom forced me to!
+
+235996	Mix Tou	「他に聞きたいことはある！？」	　Got any more questions!?」
+
+235997	Nagata-kun	「ママって呼んでるのは？」	「Why are you calling her mom?」
+
+235998	Mix Tou	「へ？」	「Eh?」
+
+235999	Mix Tou	「…………あっ」	............Ah.
+
+236000	-	ボッとミックスの顔が赤く染まる。	Mix's face suddenly flushed bright red.
+
+236001	Mix Tou	「そ、れは……」	Th, that's......
+
+236002	Mix Tou	「あんたなんか文句あるの！？」	「You got a problem with that!?」
+
+236003	Nagata-kun	「ぶるぶるぶる！　ないです！」	「Shake shake shake! No I don't!」
+
+236004	Miracle Tor	「余達はこれから出し物を見に行くつもりだ。	「We are planning to go watch the show now.
+236005	+	　お前らも来るか？」	　You guys coming too?」
+
+236006	Mix Tou	「呼ぶな！　来るな！」	「Don't invite us! Don't come!」
+
+236007	Miracle Tor	「ふむ、母と二人きりがいいか」	「Hmm, you prefer to be alone with mother?」
+
+236008	Mix Tou	「言ってない！」	「I didn't say that!」
+
+236009	Miracle Tor	「はっはっはっ、他の者がいては、	「Hahaha, if others are around,
+236010	+	　母に甘えづらかろうからな」	　it would be hard for you to act spoiled with mother.」
+
+236011	Miracle Tor	「すまないな、皆。	「Sorry everyone.
+236012	+	　今日は遠慮してくれ」	　Please excuse us today.」
+
+236013	Mix Tou	「言ってない！　一つも言ってない！」	「I didn't say anything! Not a single thing!」
+
+236014	Miracle Tor	「さ、行くぞ、愛娘よ」	「Now, let's go, my beloved daughter.」
+
+236015	Mix Tou	「手を引っ張るなーーー！」	「Don't pull my hand-----!」
+
+236016	Nagata-kun	「…………」	............
+
+236017	Nagata-kun	「まあ、祭りを楽しんでるようで何より」	「Well, it's great that you're enjoying the festival.」
+
+236018	Reset Kalar	「仲良しさんだねぇ」	「They're really close, huh.」
+
+236019	-	リセットがぽんやりとした感想を漏らしていた。	Reset absentmindedly voiced her impression.
+
+236020	-	あなた達は適当な屋台からいくつか	You picked up some food from nearby stalls
+236021	+	食べ物を見繕い、ベンチに座り朝ご飯にした。	and sat on a bench to have breakfast.
+
+236022	Nagata-kun	「はふはふ、あちあち。	「Hafu hafu, hot hot.」
+236023	+	　で、情報収集って具体的に何します？」	「So, what exactly are we doing for information gathering?」
+
+236024	Reset Kalar	「そうだねぇ、はむはむ……」	「Let's see, hamu hamu......」
+
+236025	Reset Kalar	「やっぱりこういうときは専門家に……」	「In times like this we should go to the experts......」
+
+236026	Monster Captain	「おやぁ！　＜エール＞様！	「Oh! Lady ＜エール＞!」
+236027	+	　こんなとこで会うとは奇遇だねぇ！」	「What a coincidence meeting you here!」
+
+236028	-	そのとき、どこか下品で暴力的な声が	At that moment, a crude and violent voice
+236029	+	あなた達にかけられた。	called out to you.
+
+236030	Monster Captain	「ケヒヒヒ……」	「Kehihihi......」
+
+236031	Nagata-kun	「へ……」	「Eh......」
+
+236032	Nagata-kun	「って、あっ！　こいつ！」	「Wait, ah! This guy!」
+
+236033	Nagata-kun	「おい、＜エール＞、こいつだよ。	「Hey ＜エール＞, this is the one.
+236034	+	　お前の次の対戦相手、	　Your next opponent,
+236035	+	　魔物隊長ブロビオって奴！」	　Monster Captain Brobio!」
+
+236036	Monster Captain	「ケヒヒヒ……	「Kehihihi......」
+236037	+	　試合を前日に控えてデートたぁ、	「Going on a date the day before the match,
+236038	+	　随分と余裕がおありだねぇ、大将」	　you've got quite the confidence, boss.
+
+236039	Monster Captain	「いっやぁー、さすがは魔王のお子様！	　As expected from the Demon King's child!
+236040	+	　才能がおありなんですなあ。	　What talent you have.
+236041	+	　俺なんて今も必死に修行なくらいなのに！」	　I'm still desperately training even now!
+
+236042	Monster Captain	「なにか秘訣があるんなら是非とも	　If you have any secrets, please
+236043	+	　あやかりてぇもんですよ」	　let me in on them.
+
+236044	Monster Captain	「ああ、親が強いから強いだけか。	　Ah, or are you just strong because your parent is strong?
+236045	+	　いやー、羨ましいねぇ、大将は」	　Man, I'm so jealous, boss.」
+
+236046	-	嫌味ったらしい口調に、お世辞が見え見えの台詞。	His words were full of obvious flattery mixed with sarcasm.
+236047	+	あなたはブロビオに小馬鹿にされていた。	You were being openly mocked by Brobio.
+
+236048	Nagata-kun	「おい、気を許すなよ、＜エール＞。	「Hey, don't let your guard down, ＜エール＞.
+236049	+	　こいつは試合相手の女をそのまま	　This bastard rapes the female opponents
+236050	+	　コロシアムの真ん中でレイプするような奴だぞ」	　right in the middle of the coliseum.」
+
+236051	Monster Captain	「で？　今日はパートナーの娘はいないのかい？	「So? Where's that partner girl of yours today?
+236052	+	　なんでもカラーだとか聞いたが……」	　I heard she's quite the cutie......」
+
+236053	Reset Kalar	「あ……すみません……	「Ah... sorry......
+236054	+	　それ、私です……」	　That's me......」
+
+236055	Monster Captain	「……はあ？」	「......Huh?」
+
+236056	Reset Kalar	「あ、いや、ちっさいのは	「Ah, no, the small one
+236057	+	　ちょっと事情があって――」	　has some circumstances――」
+
+236058	Monster Captain	「ああ、受付の女が	「Ah, the receptionist girl
+236059	+	　そんなようなことを言っていたな……	　did say something like that......
+236060	+	　本当の姿は大人とかなんとか……」	　Her real form is an adult or something......」
+
+236061	Monster Captain	「しかし……ほう？　へえ？	「But...... oh? Heh?
+236062	+	　その娘がパートナーか……」	　So that girl is your partner......」
+
+236063	Monster Captain	「魔物の俺には人間のガキも大人もよく分からん。	「As a monster I can't really tell human brats from adults.
+236064	+	　俺はどっちだって構やしねぇがな……くくく……」	　Either way works for me though...... hehehe......」
+
+236065	Reset Kalar	「え、わっ……」	「E, wah......」
+
+236066	-	ブロビオの瞳がリセットを値踏みするように、	Brobio's eyes lewdly scanned Reset's body
+236067	+	下から上へといやらしく流れていく。	from bottom to top, as if appraising her.
+
+236068	El Mofus	「…………。」	「............」
+236069	Reset Kalar	「あ、＜エール＞ちゃん……」	「Ah, ＜エール＞-chan......」
+
+236070	-	あなたはリセットの前に立って、	You stepped in front of Reset,
+236071	+	ブロビオの視線を遮った。	blocking Brobio's lewd gaze.
+
+236072	Monster Captain	「おっと……」	「Whoops......」
+
+236073	Monster Captain	「へへっ、ナイト様ってわけかい……	「Hehe, playing the knight, huh......
+236074	+	　いや、ご立派なことで」	　How admirable.」
+
+236075	Monster Captain	「おおっと、なんだい怖い顔して」	「Whoa, what's with that scary face?」
+
+236076	Monster Captain	「へへ、そんなに睨まれちゃ、	「Hehe, if you glare at me like that,
+236077	+	　俺みたいな一介の魔物、	　a lowly monster like me
+236078	+	　とてもじゃないが前にいられねぇや」	　can't possibly stay here.」
+
+236079	Nagata-kun	「ええっ！？	「Ehh!?」
+236080	+	　な、なんで俺叱られてんの！？」	　Why am I the one getting scolded!?」
+
+236081	-	突然、あなたに叱られて、長田君は困惑していた。	Suddenly scolded by you, Nagata-kun looked confused.
+
+236082	-	そんなだから駄目なのだと、	You continued lecturing him that this was exactly why he was no good.
+236083	+	あなたは更に説教を続けた。	
+
+236084	Nagata-kun	「あ……	「Ah......
+236085	+	　ご、ごめんなさい……」	　S, sorry......」
+
+236086	-	長田君はとてもしょんぼりした。	Nagata-kun looked very dejected.
+
+236087	Reset Kalar	「あの……＜エール＞ちゃん……」	「Um...... ＜エール＞-chan......」
+
+236088	Monster Captain	「ケヒヒヒ、俺を無視するってなぁ、	「Kehihihi, ignoring me, huh,
+236089	+	　余裕のあらわれかい？　やるねぇ」	　showing off your confidence? Not bad.」
+
+236090	Monster Captain	「ま、ま、放っといても明日にゃ戦うんだ。	「Well well, even if we ignore each other we'll fight tomorrow anyway.
+236091	+	　ピリピリしたのはなしにしよーぜ」	　Let's drop the tension, yeah?」
+
+> female
+236092	Monster Captain	「それに、可愛い顔が台無しだぜ？	「Besides, it'll ruin that cute face, you know?
+236093	+	　ケヒヒ……」	　Kehihi......」
+
+236094	-	ブロビオはあなたにもいやらしい視線を向けてきた。	Brobio turned his lewd gaze toward you as well.
+
+> end
+236095	Monster Captain	「せいぜい明日は手加減してくれよ。	「Go easy on me tomorrow, alright.
+236096	+	　こっちは魔王のお子様なんてすごい存在じゃなく、	　I'm not some amazing Demon King's child,
+236097	+	　ただの魔物なんだから、さ」	　just a regular monster, see?」
+
+236098	Monster Captain	「ケヒヒヒヒヒヒ……」	「Kehihihihihihi......」
+
+236099	-	耳障りな笑い声を残して、	Leaving behind his grating laugh,
+236100	+	魔物隊長ブロビオはようやく去って行った。	Monster Captain Brobio finally left.
+
+236101	Nagata-kun	「なんっっっだよ、あいつ！」	「What the hell is that guy's problem!」
+
+236102	Nagata-kun	「くきーーーーっ！	「Kukiii---!
+236103	+	　今、思い出してもマジ腹が立つー！」	　Just remembering it pisses me off so much!」
+
+236104	-	長田君はプンスカと怒っていた。	Nagata-kun was fuming with anger.
+
+236105	Nagata-kun	「こうなりゃ、アームズさんの対策なんて後々！	「At this point, screw waiting for Arms-san's strategy!
+236106	+	　たこたこ焼きなんて食ってる場合じゃねえ！」	　We don't have time to eat takoyaki!」
+
+236107	Nagata-kun	「今からあいつの対策立てようぜ！　＜エール＞！」	「Let's start planning how to beat that bastard right now! ＜エール＞!」
+
+236108	-	あなた達は情報収集の為、	For information gathering,
+236109	+	受付に顔を出してみた。	you stopped by the reception desk.
+
+236110	Shuri Seihajuu Nagasaki	「そういうことでしたら、	「In that case,
+236111	+	　このシュリさんに、おっまかせー」	　leave it to this Shuri~」
+
+236112	Shuri Seihajuu Nagasaki	「他の選手の情報、	「I'll happily share info on the other competitors,
+236113	+	　ばんばんお教えしますねー」	　no problem~」
+
+236114	Nagata-kun	「そういうのって教えてもらってもいいんすか？」	「Is it really okay to tell us that?」
+
+236115	Shuri Seihajuu Nagasaki	「もっちろん」	「Of course.」
+
+236116	Shuri Seihajuu Nagasaki	「他の方の試合を見て対策練る選手もいますが、	「Some athletes watch other matches to prepare,
+236117	+	　チケットを手に入れられない方もいますからね。	　but not everyone can get tickets.
+236118	+	　不公平をなくす為の処置なんです」	　This is to prevent unfairness.」
+
+236119	Shuri Seihajuu Nagasaki	「それでは早速。	「Let's get started then.
+236120	+	　＜エール＞さんの次の相手、	　＜エール＞-san's next opponent,
+236121	+	　ブロビオ魔物隊長に関してですね」	　Monster Captain Brobio.」
+
+236122	Shuri Seihajuu Nagasaki	「あ〜、ブロビオ選手ですか……」	「Ah~, Brobio-san......」
+
+236123	Nagata-kun	「な、なんすか、その反応……	「Wh, what's with that reaction......
+236124	+	　実はめっっっちゃくちゃ強いとか？」	　Is he actually insanely strong?」
+
+236125	Shuri Seihajuu Nagasaki	「いえいえ、＜エール＞さんなら	「No no, I think ＜エール＞-san
+236126	+	　それほど苦もなく戦えると思いますよ？	　can fight him without too much trouble?
+236127	+	　思いますが……」	　But......」
+
+236128	Shuri Seihajuu Nagasaki	「ちょーっと黒い噂があって……」	「There are some dark rumors about him......」
+
+236129	Reset Kalar	「黒い噂？」	「Dark rumors?」
+
+236130	Shuri Seihajuu Nagasaki	「前回の試合では、ブロビオ選手の相手の方、	「In his previous match, Brobio's opponent
+236131	+	　突然体が動かせなくなったらしく、	　suddenly couldn't move their body,
+236132	+	　そこをボッコボコにしたんです」	　and he beat them senseless.」
+
+236133	Shuri Seihajuu Nagasaki	「……もしかしたら毒かも知れない、と」	「...It might have been poison.」
+
+236134	Nagata-kun	「毒！？」	「Poison!?」
+
+236135	Nagata-kun	「くっそー、なんて卑怯な手を使うんだ！	「Damn it, what a dirty trick!
+236136	+	　あんにゃろ、許せねぇ！」	　I can't forgive that bastard!」
+
+236137	Shuri Seihajuu Nagasaki	「ああ、いえいえ。	「Ah, no no.
+236138	+	　毒攻撃自体は反則じゃないですよ。	　Poison attacks themselves aren't against the rules.
+236139	+	　それも選手の自由です」	　It's part of a fighter's freedom.」
+
+236140	Shuri Seihajuu Nagasaki	「ただ、その辺り、	「However, there are some suspicious points......」
+236141	+	　ちょっと怪しい点が……」	
+
+236142	Reset Kalar	「怪しい点？」	「Suspicious points?」
+
+236143	Shuri Seihajuu Nagasaki	「あっ、いえ、まだ確証がないので、	「Ah, no, there's no solid proof yet,
+236144	+	　運営スタッフの私としてはなんとも……	　as staff I can't really say......
+236145	+	　すみません、忘れて下さい」	　Sorry, please forget I said anything.」
+
+236146	Shuri Seihajuu Nagasaki	「と、とにかく、毒については、	「A, anyway, regarding the poison,
+236147	+	　＜エール＞さんも対策が必要かと」	　＜エール＞-san should prepare countermeasures.
+
+236148	Shuri Seihajuu Nagasaki	「私から言えるのはこんなとこですねぇ」	　That's all I can say.」
+
+236149	Shuri Seihajuu Nagasaki	「頑張って下さいね、＜エール＞さん。	「Do your best, ＜エール＞-san.
+236150	+	　応援してますよ」	　I'm rooting for you.」
+
+236151	Nagata-kun	「毒、毒、毒かぁ……	「Poison, poison, poison huh......
+236152	+	　しかし対策ってどうしたものか……」	　But what kind of countermeasure......」
+
+236153	Reset Kalar	「そういうので頼りになる人のところ、	「Should we go to someone reliable for this?」
+236154	+	　行ってみる？」	
+
+236155	Nagata-kun	「頼りになる人？」	「Someone reliable?」

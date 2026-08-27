@@ -1,0 +1,139 @@
+# 33227	６０３／リセット２	route
+* Nagata-kun	長田君２	Male
+* Rocky Bank	ロッキー２	Male
+* El Mofus	エール２	Player's choice
+* Nagi su Ragarl	ナギ２	Female
+* Masou Shizuka	志津香２	Female
+* Reset Kalar	リセット２	Female
+
+215313	-	あなた達はアウトバーンを歩いていた。	You were walking along the Outbahn.
+
+215314	Nagata-kun	「はあ……結局……	「Haa... in the end...
+215315	+	　リセットさんは仲間に出来ず、か……」	　we couldn't get Reset as a companion...」
+
+215316	Rocky Bank	「うぅん、残念だすなぁ……」	「Uuu, what a shame...」
+
+215317	-	勧誘に失敗した一行は、	The party that failed the recruitment
+215318	+	すっかり意気消沈していた。	was completely dejected.
+
+215319	El Mofus	「…………。」	「............」
+> male
+215320	Nagi su Ragarl	「こらこら、男の子がそんな情けない顔しないの」	「Hey now, boys shouldn't make such pathetic faces.」
+
+> female
+215321	Nagi su Ragarl	「こらこら、そんな溜め息つかないの」	「Hey now, no sighing like that.」
+
+> end
+215322	-	元気づけるように、	Nagi patted your back encouragingly.
+215323	+	ナギがあなたの背中をぽんぽんと叩く。	
+
+215324	Nagi su Ragarl	「今回が駄目だったら、	「If it didn't work this time,
+215325	+	　また来たらいいじゃない」	　we can just come again.」
+
+215326	Masou Shizuka	「ふーん」	「Hmm.」
+
+215327	-	志津香が何か感心したようにあなたを見ていた。	Shizuka looked at you with a somewhat impressed gaze.
+
+215328	Masou Shizuka	「諦めが悪いのね」	「You don't give up easily.」
+
+215329	Masou Shizuka	「そういうとこ、ちょっと似てるわ」	「You're a bit similar in that way.」
+
+215330	-	あなたはよく分からない評価を受けた。	You received a somewhat unclear evaluation.
+
+215331	Nagi su Ragarl	「あははっ、それいい！	「Ahaha, that's good!
+215332	+	　それで行こう！」	　Let's go with that!」
+
+215333	Masou Shizuka	「……やめなさい」	「...Stop that.」
+
+215334	Masou Shizuka	「＜エール＞……	「＜エール＞...
+215335	+	　貴方まさか本気じゃないでしょうね？」	　You're not serious, are you?」
+
+215336	-	あなたは志津香にジロリと睨まれてしまった。	Shizuka glared at you.
+
+215337	Masou Shizuka	「今回が駄目でも、	「Even if it didn't work this time,
+215338	+	　また諦めずに来たらいいでしょ」	　we can just try again without giving up.」
+
+215339	Rocky Bank	「そ、そうだすな。	「Y, yeah.
+215340	+	　おら達が強くなれば、いつかきっと、	　If we get stronger, surely one day
+215341	+	　パステル様も認めて下さる筈だすな」	　Pastel-sama will approve.」
+
+215342	Rocky Bank	「強くなってから、	「After we get stronger,
+215343	+	　またお願いに来ましょうだ」	　we'll come ask again.」
+
+215344	Masou Shizuka	「と言っても……どうせ……」	「Even if you say that... eventually...」
+
+215345	Nagi su Ragarl	「そだね。	「Yeah.
+215346	+	　アウトバーンを越えるまでには……」	　By the time we cross the Outbahn...」
+
+215347	Nagata-kun	「？　なんの話すか？」	「? What are you talking about?」
+
+215348	Masou Shizuka	「リセットもリセットで……	「Reset is quite the handful too...
+215349	+	　かなりやんちゃって話よ」	　She's pretty mischievous.」
+
+215350	Nagata-kun	「それって……」	「That means...」
+
+215351	-	と、その時――	And at that moment一一
+
+215352	-	　	　
+215353	+	　　＜ドドドドドドドドド！！＞	　　<Dodododododo!!>
+
+215354	Nagata-kun	「へ、え、あ……」	「W, wa, ah...」
+
+215355	Nagata-kun	「ぎゃー！　あばれうし車だー！？」	「Gyaa! A rampaging cow cart!?」
+
+215356	-	一両のうし車があなた達目がけて	A cow cart was charging straight toward you.
+215357	+	暴走していた。	
+
+215358	Rocky Bank	「＜エール＞様！？　お、おらの後ろに！」	「＜エール＞-sama!? G, get behind me!」
+
+215359	Nagi su Ragarl	「あっ、長田君が……」	「Ah, Nagata-kun...」
+
+215360	Nagata-kun	「きゃーーーーーーー！？」	「Kyaaaaaaa!?」
+
+215361	-	うし車は長田君の直前で止まった。	The cow cart stopped right in front of Nagata-kun.
+
+215362	Nagata-kun	「あ……」	「Ah...」
+
+215363	Nagata-kun	「あわあわあわあわあわ……	「Awa awa awa awa...」
+215364	+	　死ぬかと思った……」	　I thought I was gonna die...」
+
+215365	Reset Kalar	「ご、ごめーん！　急いでいたから！」	「S, sorry! I was in a hurry!」
+
+215366	-	御者の席にいたリセットが慌てて飛び出してきた。	Reset jumped out frantically from the driver's seat.
+
+215367	Rocky Bank	「って、リセット様！？	「Wait, Reset-sama!?
+215368	+	　どうしてここに！？」	　Why are you here!?」
+
+215369	Reset Kalar	「あ、それは、えーと……」	「Ah, that's, um...」
+
+215370	Reset Kalar	「えへへ、来ちゃった」	「Ehehe, I came anyway.」
+
+215371	Nagi su Ragarl	「わーい！　リセットだー！」	「Yay! It's Reset!」
+
+215372	Masou Shizuka	「はあ、どうせ来るとは思ったけど……	「Haa, I figured you'd come anyway...
+215373	+	　思ったより早かったわ……」	　but sooner than expected...」
+
+215374	Reset Kalar	「ふふっ」	「Fufu.」
+
+215375	Reset Kalar	「だって兄弟旅行に長女の私だけ不参加なんて	「I couldn't stand being the only eldest sister
+215376	+	　絶対に嫌だったんだもん」	　left out of a sibling trip.」
+
+215377	Reset Kalar	「さあさあ、みんな乗り込んで」	「Come on everyone, hop in.」
+
+215378	Nagata-kun	「おーっ、帰りはうし車かー！	「Ohh, we're going back by cow cart!
+215379	+	　こりゃありがてぇや！」	　That's awesome!」
+
+215380	Reset Kalar	「さ、＜エール＞ちゃん」	「Here, ＜エール＞-chan.」
+
+215381	-	リセットが御者席からあなたに向けて手を差しだす。	Reset reached out to you from the driver's seat.
+
+215382	El Mofus	「…………。」	「............」
+
+215383	-	あなたはその小さく、	You firmly grasped
+215384	+	そして温かい手をしっかりと握った。	that small, warm hand.
+
+215385	Reset Kalar	「ふふ、これから宜しくね」	「Fufu, let's get along from now on.」
+
+215386	Reset Kalar	「というわけでレッツゴー！」	「And with that, let's go!」
+
+215387	-	うし車が軽快に走り出した。	The cow cart started running lightly.

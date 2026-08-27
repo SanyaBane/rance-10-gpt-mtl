@@ -1,0 +1,358 @@
+# 31137	２４０／２／レイとメアリー	
+* Lei	レイ	Male
+* Boy	汎用少年	Male
+* Mary Ann	メアリー	Female
+* Man	汎用男	Male
+* Girl	汎用少女	Female
+* Old Man	汎用爺	Male
+* Woman	汎用女	Female
+
+54670	-	自由都市地帯中部、ゴア――――	Central Free Cities region, Goa――――
+
+54671	Lei	「………………」	「............」
+
+54672	-	魔人レイは、単身で	The Fiend Lei had infiltrated
+54673	+	この大きくもない街に潜り込んでいた。	this modest city alone.
+
+54674	-	大きな理由があるわけでもない。	There was no major reason.
+54675	+	先日の戦で部下達の被害が大きく、	His subordinates had suffered heavy losses in the previous battle
+54676	+	動けないというので一人で来た。それだけだ。	and couldn't move, so he came alone. That was all.
+
+54677	-	正面から襲ってやっても良かったが、	He could have attacked head-on,
+54678	+	門番の人間達は、レイを魔人とは見抜けなかった。	but the human gate guards didn't recognize him as a Fiend.
+
+54679	-	それで、なんとなく歩いて、	So he just walked around casually,
+54680	+	暴れられそうな機会を探していた。	looking for a chance to rampage.
+
+54681	Lei~	（……しかし、何もねぇな、この街……）	（...But there's nothing here...）
+
+54682	-	人類側の兵……自由都市連合軍の姿さえない。	There weren't even any human soldiers from the Free Cities Alliance Army.
+54683	+	ただ、夜道を丸腰で歩く女のように、	Just frightened civilians walking the streets like defenseless women at night.」
+54684	+	往来を怯えながら行き交う人間しかいない。	
+
+54685	-	大きめの建物のあちこちにかけられた垂れ幕には、	Banners hung on large buildings read
+54686	+	大きくポップな字体で、こんな事が書かれていた。	in large, flashy letters:
+
+54687	-	『住民投票の結果、無防備宣言第九条を批准！	『By resident vote, Article 9 of the Unarmed Declaration has been approved!
+54688	+	　武器を捨てて、平和な街を！』	　Discard your weapons for a peaceful city!』
+
+54689	-	……それで、兵力を備えることもできず、	...As a result, they couldn't prepare any military force
+54690	+	魔軍が来ることに怯えている。	and were terrified of the Monster Army's arrival.
+54691	+	そういう理由のようだった。	That seemed to be the reason.
+
+54692	Lei~	（………………アホか、くだらねェ）	（............What idiots. Pathetic.）
+
+54693	-	暴れても、楽しいことにはなりそうにない。	Even if he rampaged, it wouldn't be any fun.
+54694	+	引き上げるかと考えた、その瞬間。	Just as he thought about leaving,
+
+54695	-	一人の少年が、人混みに押された風で	A boy bumped into Lei as if pushed by the crowd.」
+54696	+	レイにぶつかった。	
+
+54697	Boy	「うあっ！？」	「Uwah!?」
+
+54698	-	触れられた瞬間、電撃が伝わって、	The moment they touched, an electric shock ran through,
+54699	+	少年の身体が跳ねる。	making the boy's body jolt.
+
+54700	Boy	「あぐ、ご、ごめんなさいっ」	「Agh, s-sorry!」
+
+54701	Lei	「……………………」	「........................」
+
+54702	-	それでも少年は申し訳なさげに会釈をして、	Even so, the boy bowed apologetically
+54703	+	そのまま駆け去ろうとした。	and tried to run off.
+
+54704	Lei~	（……………ハ……ッ、良い根性してやがる）	（......Heh... Got some guts.）
+
+54705	-	魔人の鋭敏すぎる感覚は、	The Fiend's overly sharp senses
+54706	+	人間の子供が懐に手を突っ込んできた感触を、	clearly detected the feeling of the human child slipping a hand into his pocket.
+54707	+	正確に伝えていた。スリだ。	A pickpocket.
+
+54708	-	まったく、くだらない。取るに足りない。	Completely trivial. Not worth anything.
+
+54709	-	心底どうでもいいと思いながら、抑えが利かない。	Though he thought it was utterly worthless, he couldn't suppress it.
+54710	+	同時に、きっかけなんてその程度で充分だとも思う。	At the same time, he thought any excuse was good enough.
+
+54711	Lei~	（じゃあ、やるか、ッ…………！）	（Then let's do it...!）
+
+54712	-	レイの中に生まれた小さな苛立ちは	The small irritation born inside Lei
+54713	+	爆発的な速度で膨れあがり、	swelled explosively,
+54714	+	レイはそれを抑えようともせず、発散しようと――	and Lei made no attempt to hold it back, intending to release it――
+
+54715	Mary Ann	「――こらっ！　そこのお前！」	「Hey! You there!」
+
+54716	Boy	「わ、わわわわっ！　な、なんだよ！」	「W-wah! W-what!」
+
+54717	-	――した、ところで。	――Just as that happened.
+
+54718	Lei	「――――……」	「――――......」
+
+54719	-	街の鬱屈した空気に似つかわしくない声が、	A voice that didn't match the gloomy atmosphere of the city
+54720	+	レイの意識にひっかかってきた。	caught Lei's attention.
+
+54721	Mary Ann	「今、そこの人からなんか盗ったろ！」	「You just stole something from that person!」
+
+54722	Boy	「は、はぁっ！？　知らない……	「H-Huh!? I don't know anything...
+54723	?	　いてててっ！」	　Ouch!」
+
+54724	Mary Ann	「ほら、これ！」	「Here, this!」
+
+54725	-	一人の少女が、スリの少年を捕まえて、	A girl had caught the pickpocket boy
+54726	+	有無を言わさぬ勢いで、レイからスッたものを	and forcefully took back what he had stolen from Lei.」
+54727	+	奪い返していた。	
+
+54728	Boy	「う、うぐぐぐ……！　ち、ちくしょう！	「Ugh... Damn it!
+54729	+	　バーカ！　ブース！」	　Idiot! Booo!」
+
+54730	Mary Ann	「知ってるよ、バカガキ！」	「I know you, you stupid brat!」
+
+54731	-	捨て台詞をぶつけられても堪える風なく、	Unfazed by the parting insult,
+54732	+	少女は言い返して、勢いよく鼻を鳴らした。	the girl shot back and snorted loudly.
+
+54733	Mary Ann	「ほい、これ。あんたのだろ」	「Here, this is yours, right?」
+
+54734	Lei	「……………………」	「........................」
+
+54735	Mary Ann	「物珍しげにきょろきょろしてるから、	「You were looking around curiously,
+54736	+	　あーいうのにひっかかるんだぞ。気をつけろよ」	　that's why you got targeted. Be careful.」
+
+54737	Lei	「………………そりゃどうも」	「............Thanks.」
+
+54738	-	なんとなくタイミングを失って、	Having lost the moment somehow,
+54739	+	レイは大人しく、少女から小袋を受け取った。	Lei quietly accepted the small pouch from the girl.
+
+54740	Mary Ann	「ところでそれ、サイフか？	「By the way, is that a wallet?
+54741	+	　全然音しないけど……」	　It doesn't make any sound though...」
+
+54742	Lei	「…………いや」	「............No.」
+
+54743	-	別に教える義務もないかと思ったが、	He didn't feel obligated to explain,
+54744	+	レイは袋からタハコを出して、火を点けた。	but took out a cigarette from the bag and lit it.
+
+54745	Mary Ann	「なんだ、タハコか」	「Oh, it's cigarettes.」
+
+54746	Lei	「見返りを期待してたんなら残念だったな」	「If you were expecting a reward, too bad.」
+
+54747	Mary Ann	「要るかそんなの。……金持ってないのか」	「Who needs that. ...Don't you have any money?」
+
+54748	Lei	「……ああ。使わねェからな」	「...Yeah. I don't use it.」
+
+54749	-	貨幣制度などない魔物界では、	In the Monster Realm with no currency system,
+54750	+	GOLDは魔物が好む宝飾品でしかない。	GOLD was nothing more than jewelry that monsters liked.
+
+54751	Mary Ann	「そっか。あー、じゃあ腹減ってるんだろ。	「I see. Ah, then you must be hungry.
+54752	+	　ちょっと待ってろ」	　Wait here a sec.」
+
+54753	Lei	「あ、おい……」	「Hey, wait...」
+
+54754	-	人の話も聞かず、その少女は	Without listening, the girl
+54755	+	どこかへと駆けて行ってしまった。	ran off somewhere.
+
+54756	Lei	「………………変なガキだ」	「............Weird kid.」
+
+54757	-	用があるわけでもない。さっさと立ち去っても、	He had no business here. He could have left immediately
+54758	+	街を消し炭に変えても良かったが……	or turned the whole city to ash...
+54759	+	それを能動的に行う理由もまた、レイにはなかった。	but he had no particular reason to do so either.
+
+54760	-	レイには、何もない。	Lei had nothing.
+54761	+	行動をする理由も、しない理由も。	No reason to act, nor not to act.
+
+54762	-	千年を超える過去。人間だった頃。	Over a thousand years ago. When he was human.
+54763	+	レイ・ガットホンには、力があった。	Lei Gatton had power.
+
+54764	-	人間の住む世界を、地獄へとそっくり変えてしまった	The Demon King Jill had turned the human world into hell.
+54765	+	魔王・ジルの治世。	During Jill's reign.
+
+54766	-	各地には人間を飼い、虐げるだけの人間牧場が	Human ranches where humans were kept and abused
+54767	+	あちこちに作られ、家畜化された人間が、	were built everywhere, and livestock humans
+54768	+	いくつかの意味で魔物に食い物にされていた時代。	were devoured by monsters in every sense.
+
+54769	-	そんな時代でありながら、レイにはそれを気にせず、	Even in that era, Lei didn't care
+54770	+	気ままに生きるだけの力が先天的に備わっていた。	and had the innate power to live freely.
+
+54771	-	そしてそれ故に、孤立した。	And because of that, he became isolated.
+
+54772	-	頼ってくる者も少なくなかったが、	Many sought him out,
+54773	+	求めてくるだけの相手に笑顔で奉仕する気質もなく、	but he had no desire to serve those who only wanted something from him with a smile,
+54774	+	英雄だと祭り上げられるのも迷惑だった。	and being worshipped as a hero was annoying.
+
+54775	-	我を抑える理由も気分もないレイの振る舞いに、	His unrestrained behavior
+54776	+	周囲はすぐについていけなくなった。	quickly left those around him behind.
+
+54777	-	レイは独りになった。独りになって、	Lei became alone. And alone,
+54778	+	あちこちを放浪する内に、人狩りの標的になった。	as he wandered, he became a target for human hunters.
+54779	+	この時代では、特に理由の必要もないことだ。	In that era, no particular reason was needed.
+
+54780	-	襲われ、撃退し、それ故にまた襲われ。	Attacked, repelled, then attacked again.
+54781	+	やがて先頭に魔人が立つようになり……	Eventually Fiends led the hunts...
+54782	+	レイは、ついに魔軍の手に落ちた。	and Lei finally fell into the hands of the Monster Army.
+
+54783	-	人間を憎んでいると噂された狂気の魔王ジルは、	The mad Demon King Jill, rumored to hate humans,
+54784	+	囚われの身となってもなお荒れ狂うレイに	saw something in the still-raging Lei even while imprisoned
+54785	+	何を見たか、その血を分け、魔人とした。	and shared his blood, turning him into a Fiend.
+
+54786	-	そして――――	And――――
+
+54787	-	それから、千年あまり。レイは変わっていない。	Since then, over a thousand years. Lei hasn't changed.
+54788	+	人間だろうと魔物だろうと、自分以外は	Whether human or monster, everyone except himself
+54789	+	敵か、暇つぶしの種でしかなかった。	was either an enemy or mere entertainment.
+
+54790	Lei	「………………」	「............」
+
+54791	Mary Ann	「おーい！」	「Hey!」
+
+54792	Mary Ann	「悪いな、屋台の親父がなかなか値下げしなくて。	「Sorry, the stall owner wouldn't lower the price.
+54793	+	　ほい」	　Here.」
+
+54794	Lei	「値切ってたのかよ……」	「You were bargaining...?」
+
+54795	Mary Ann	「…………金、足んなかった……」	「............I didn't have enough money...」
+
+54796	Lei	「アホか……」	「Idiot...」
+
+54797	Mary Ann	「うっさいな、文無し！	「Shut up, broke guy!
+54798	+	　いいから食えよ、腹が膨れたら気分も明るくなる」	　Just eat. You'll feel better with a full stomach.」
+
+54799	-	ぐいぐいと押しつけてくるものを、	She shoved the food at him,
+54800	+	レイは仕方なく受け取った。	and Lei reluctantly took it.
+
+54801	Mary Ann	「あたしはメアリー。メアリー・アン。	「I'm Mary. Mary Ann.
+54802	+	　あんたは？」	　Who are you?」
+
+54803	Lei	「………………レイ。通りすがりだ」	「............Lei. Just passing through.」
+
+54804	Mary Ann	「ふーん……旅人……にも傭兵にも見えないな。	「Hmm... You don't look like a traveler... or a mercenary.
+54805	+	　この街の住人じゃないだろ？」	　You're not from this city, right?」
+
+54806	Lei	「……………………」	「........................」
+
+54807	-	ずけずけと詮索してくるメアリーを避けるように、	Avoiding Mary's nosy questions,
+54808	+	レイは手の中のパンらしきものにかぶりついた。	Lei bit into the bread-like thing in his hand.
+
+54809	Lei	「…………まずッ！　なんだこれ」	「............Disgusting! What the hell is this?」
+
+54810	Mary Ann	「えー？　美味いだろ、うっぴーサンド」	「Eh? It's good, right? Uppie sandwich.」
+
+54811	Lei	「……生臭ェ……うぶっ、げほっ……！」	「...It stinks... Bleh, cough...!」
+
+54812	Mary Ann	「ぷっ、あっはははははっ！	「Pfft, ahahahahaha!
+54813	+	　そんなにまずいかー！？」	　Is it that bad!?」
+
+54814	Lei	「……わざとか、てめェ……？」	「...Did you do that on purpose...?」
+
+54815	Mary Ann	「なわけないだろ。	「Of course not.
+54816	+	　……でも、やっと無表情じゃなくなったな」	　...But at least you aren't expressionless anymore.」
+
+54817	Lei	「――……」	「--......」
+
+54818	-	平気な顔で、何故か嬉しそうに、	With a casual face, somehow looking happy,
+54819	+	メアリーはもぐもぐとうっぴーサンドを平らげる。	Mary munched on the Uppie sandwich.
+
+54820	Lei	「っ、チッ。食えるか、こんなもん」	「Tch. No way I can eat this.」
+
+54821	-	口の中の不快な感触を吐き捨て、	He spat out the unpleasant taste,
+54822	+	残りも捨てて踏みにじる。	threw the rest away and stomped on it.
+
+54823	Mary Ann	「あっ、こら！　食べ物粗末にするな」	「Hey! Don't waste food!」
+
+54824	Lei	「食えねェモンは食い物とは呼ばねぇよ」	「If it can't be eaten, it's not food.」
+
+54825	Mary Ann	「飢えてるくせにグルメな奴だなぁ。	「You're picky for someone who's hungry.
+54826	+	　空腹が調味料になるだろ」	　Hunger is the best seasoning.」
+
+54827	Lei	「飢えちゃいねぇよ。俺は…………」	「I'm not hungry. I am......」
+
+54828	-	いいさして、言葉が勝手に止まる。	The words stopped on their own.
+54829	+	魔人だと、言えばどうなるだろう。	What would happen if he said he was a Fiend?
+
+54830	Mary Ann	「？」	「?」
+
+54831	Lei	「俺は…………ちょいと、立ち寄っただけだ。	「I... just stopped by for a bit.
+54832	+	　すぐに帰ェんだよ」	　I'll leave soon.」
+
+54833	-	何を言おうとしたのか、何を躊躇ったのか、	Without understanding what he was about to say or why he hesitated,
+54834	+	分からないまま踵を返し、去っていく。	Lei turned on his heel and left.
+
+54835	Mary Ann	「あー、そっか……引き留めたか。ごめんな」	「Ah, I see... Sorry for holding you up.」
+
+54836	Mary Ann	「気をつけろよー。またスられたりすんなよ！」	「Be careful! Don't get pickpocketed again!」
+
+54837	-	手を振るメアリーに背を向け、レイは歩きだした。	Turning his back on the waving Mary, Lei started walking.
+
+54838	Mary Ann	「あっ、うわわっ！？」	「Ah, wawah!?」
+
+54839	Lei	「…………？」	「............?」
+
+54840	-	その、背に。	Behind him.
+54841	+	逼迫した声が、突然ぶつかってきた。	A tense voice suddenly hit him.
+
+54842	Mary Ann	「なっ、なにすんだっ！　離せッ！」	「W-What are you doing! Let go!」
+
+54843	-	メアリーは大きな手に首根っこを捕まえられて、	Mary was grabbed by the scruff of her neck by a large hand
+54844	+	路地裏に引きずり込まれていた。	and dragged into an alley.
+
+54845	Man	「おう、こいつかお前を邪魔したってのは……」	「So this is the one who interfered with you...」
+
+54846	Boy	「そう、そうだよ、父ちゃん！	「Yeah, that's her, dad!
+54847	+	　こいつが……」	　She was the one...」
+
+54848	-	メアリーを捕まえた手の持ち主に、	The owner of the hand grabbing Mary
+54849	+	必死に訴えていたのは、スリの少年だった。	was desperately complaining to was the pickpocket boy.
+
+54850	Man	「アンの家のブサイクチビじゃねぇか。	「Isn't this the ugly little shit from An's family.
+54851	+	　親父もくたばったのに、まだ生きてたのか」	　Her dad croaked but she's still alive?」
+
+54852	Man	「それでうちのガキに喧嘩売るってのはなんだ？	「And you're picking a fight with my kid?
+54853	+	　上前でもはねるつもりだったのか？　あぁ？」	　Trying to take a cut or something? Huh?」
+
+54854	Mary Ann	「お、お前の子供がスリなんかしてるから、	「Because your kid was pickpocketing,
+54855	+	　叱っただけだ！　お前がすることだろ！」	　I just scolded him! You should be the one doing that!」
+
+54856	Man	「ッせぇな。こいつがアガリ持って来なきゃ、	「Shut up. If this kid doesn't bring back loot,
+54857	+	　俺はどうやって酒を飲めばいいんだよ」	　how am I supposed to drink?」
+
+54858	-	辟易した声に、きついアルコールの匂いがした。	His irritated voice reeked of strong alcohol.
+
+54859	Mary Ann	「うぶっ……ぐぐ、うぐぐ……！」	「Ugh... Guh, ugh...!」
+
+54860	Man	「金も持ってやがらねぇだろうし……ちっ。	「She probably doesn't have any money either... Tch.
+54861	+	　サンドバックにでもするかな、っと――」	Guess I'll use her as a punching bag--」
+
+54862	Lei	「おい」	「Hey.」
+
+54863	Man	「あぁん？	「Hah?
+54864	+	　なんだ、誰だか知らんが引っ込んで――」	Who the hell are you? Get lost--
+
+54865	Man	「きゅぶっ、が、ば……っ！」	「Kyub, ga, ba...!」
+
+54866	-	レイの蹴りを受けた男は、派手に宙を舞った。	The man kicked by Lei flew spectacularly through the air.
+54867	+	建物の二階ほどの高さまで打ち上がり、	He was launched up to the height of a second floor,
+54868	+	大通りに倒れ込んだ時には既に炭クズになっていた。	and by the time he crashed onto the main street he was already charred remains.
+
+54869	Girl	「きゃあああぁぁっ！　な、なに！？」	「Kyaaaaah! W-What!?」
+
+54870	Old Man	「か、雷、っ……？　なんじゃアイツ……！？	「L-Lightning...? Who the hell is that...!?
+54871	+	　魔法……じゃない……？」	Not... magic...?」
+
+54872	Woman	「ねっ、ねえ…………！	「Hey, hey......!
+54873	+	　確か、戦場で暴れてる、雷の魔人がいるって……」	　Isn't there a lightning Fiend rampaging on the battlefield...?」
+
+54874	Lei	「………………」	「............」
+
+54875	Boy	「と、とうちゃ……とうちゃんが……	「D-Dad... My dad...
+54876	+	　――化け物だ！　こいつ人間じゃねぇ！！」	　--He's a monster! This guy isn't human!!」
+
+54877	Old Man	「ひっ、ひいいいいいい！	「Hii, hiiiiii!
+54878	+	　ま、ま、魔人！　魔人じゃあああああああ！」	　F-F-Fiend! It's a Fiend!!!」
+
+54879	Woman	「なんでっ、どうして……！　いやああぁぁ！」	「Why, how...! Nooooo!」
+
+54880	-	魔人、の一言は何よりも強烈だった。	The word 'Fiend' was more powerful than anything.
+
+54881	-	あっという間に往来はパニックになり、	The street instantly fell into panic,
+54882	+	道行く人々が我先にと逃げ始める。	and people began fleeing in all directions.
+
+54883	Mary Ann	「……………………」	「........................」
+
+54884	Lei	「……………………ふん」	「........................Hmph.」
+
+54885	-	呆然としたメアリーを一瞥だけして、	Lei gave the stunned Mary a single glance,
+54886	+	レイは唇を歪め、悠然と去っていった。	twisted his lips, and calmly walked away.

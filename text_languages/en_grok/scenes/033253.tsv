@@ -1,0 +1,316 @@
+# 33253	６０４／魔物の大軍	
+* Reset Kalar	リセット２	Female
+* Zance Leazas	ザンス２	Male
+* Nagi su Ragarl	ナギ２	Female
+* Kentou Uzume	ウズメ２	Female
+* Red Monster Soldier	汎用魔物兵赤	Male
+* Rocky Bank	ロッキー２	Male
+* Masou Shizuka	志津香２	Female
+* Nagata-kun	長田君２	Male
+* Monster Captain	汎用魔物隊長	Male
+* Magic Monster Soldier	汎用魔法魔物兵	Male
+
+218613	-	廃墟都市の探索を始めて、	After starting the exploration of the ruined city,
+218614	+	既に数時間が経過しようとしていた。	several hours had already passed.
+
+218615	-	あなた達はオーブを、ではなく、	You weren't looking for the Orb, but
+218616	+	魔物将軍ダルソンを探していた。	for Monster General Darson.
+
+218617	-	探索の範囲を徐々に	Gradually expanding the search area
+218618	+	都市の中心地へと進めながら、	toward the center of the city,
+218619	+	あなた達はスケールの中を歩く。	you walked through Scale.
+
+218620	Reset Kalar	「いーい？　ザンスちゃん。	「Listen? Zance-chan.
+218621	+	　まずは話し合いからするんだからね。	　We start with negotiation first, okay.
+218622	+	　いきなり戦おうとしちゃ駄目よ？」	　Don't try to fight right away.」
+
+218623	Zance Leazas	「馬ー鹿、そんなのが通用する相手かよ」	「Idiot, like that would work on this guy.」
+
+218624	Reset Kalar	「話してみないと分からないでしょ？	「You won't know until you talk, right?
+218625	+	　それに――」	　Besides――」
+
+218626	Reset Kalar	「んふふー、そう言いながら、	「Nfufu, even while saying that,
+218627	+	　魔物兵は殺さないように、	　you make sure not to kill the monster soldiers,
+218628	+	　気をつけてくれてるの知ってるんだから」	　I know that.」
+
+218629	Reset Kalar	「ありがとー、ザンスちゃん」	「Thank you, Zance-chan.」
+
+218630	Zance Leazas	「殺すとテメーがブーブーうるせーからだろうが。	「It's because you'd complain if I killed them.
+218631	+	　調子乗んなクソチビが」	　Don't get cocky, you damn midget.」
+
+218632	Reset Kalar	「うう、ザンスちゃん口悪いよ……」	「Uuu, Zance-chan your mouth is so bad...」
+
+218633	Nagi su Ragarl	「ふふふ、照れ隠し照れ隠し」	「Fufufu, tsundere tsundere.」
+
+218634	Zance Leazas	「黙ってろ、ナギ！」	「Shut up, Nagi!」
+
+218635	Kentou Uzume	「ととと、みんなーストップでござるー！」	「Whoa whoa, everyone stop!」
+
+218636	Zance Leazas	「おう、どした、ウズメ」	「Yeah, what's up, Uzume.」
+
+218637	Kentou Uzume	「ザンス兄上どのが	「Big brother Zance's
+218638	+	　大好きな待ち伏せでござる」	　favorite ambush.」
+
+218639	Zance Leazas	「って、あん？」	「Huh?」
+
+218640	-	一直線に伸びた通路、	In the straight passage,
+218641	+	そこにはズラリと百名以上の魔物兵が	over a hundred monster soldiers
+218642	+	待ち構えていた。	were lined up waiting.
+
+218643	Red Monster Soldier	「そこの人間共よ！」	「You humans there!」
+
+218644	-	代表らしき兵が前に出て叫ぶ。	A soldier who seemed to be the representative stepped forward and shouted.
+
+218645	Red Monster Soldier	「この都市は魔軍の領地であり、	「This city is Monster Army territory,
+218646	+	　貴様らのやっていることは侵犯行為である！」	　what you are doing is an invasion!」
+
+218647	Red Monster Soldier	「これは警告だ！	「This is a warning!
+218648	+	　今すぐこの地より去れば良し！	　Leave this land immediately!
+218649	+	　去らねば実力行使を持って応えることとなる！」	　If you do not, we will respond with force!」
+
+218650	Zance Leazas	「けっ、えらっそーに！	「Tch, acting all high and mighty!
+218651	+	　先に侵略行為働いたのはテメーらだろーが！」	　You guys invaded first!」
+
+218652	Zance Leazas	「ふふん……	「Fufun...
+218653	+	　だが、よーやく客をもてなそうって	　But finally you decided to entertain guests
+218654	+	　気になったのは褒めてやる」	　so I'll praise you for that.」
+
+218655	Rocky Bank	「そ、それでこれからどうしますだすか？」	「S-So what do we do now?」
+
+218656	Masou Shizuka	「どうもこうも……	「What else...
+218657	+	　このままじゃ通れないわね……」	　We can't pass like this...」
+
+218658	Nagi su Ragarl	「回り道する？」	「Take a detour?」
+
+218659	Masou Shizuka	「どこもかしこも、	「Everywhere is probably
+218660	+	　多分こんな感じになってると思うけどね」	　like this.」
+
+218661	Reset Kalar	「あ、あのー……すみませーん……」	「Um, excuse me...」
+
+218662	Reset Kalar	「私達はここの魔物将軍である、	「We only want to meet
+218663	+	　ダルソン様にお会いしたいだけなのですが、	　the Monster General here, Darson-sama,
+218664	+	　良ければ取り次いで頂けないでしょうかー？」	　could you please arrange a meeting?」
+
+218665	Reset Kalar	「魔軍と人類の戦争はもう終わりました。	「The war between the Monster Army and humanity has already ended.
+218666	+	　これからは戦わずに平和的な話し合いを――」	　From now on let's have peaceful talks instead of fighting――」
+
+218667	-	　	　
+218668	+	　　＜カカカカカ！＞	　　<Kakakakaka!>
+
+218669	Reset Kalar	「きゃっ！？」	「Kyaa!?」
+
+218670	-	リセットの足下に、	A large number of arrows shot by the monster soldiers
+218671	+	魔物兵達の放った大量の矢が突き刺さった。	pierced the ground at Reset's feet.
+
+218672	Red Monster Soldier	「今のは警告である！	「That was a warning!
+218673	+	　これ以上、近づけば我らは本当に容赦しない！」	　If you approach any further we will show no mercy!」
+
+218674	Reset Kalar	「うう……まあ、そうだよね……」	「Uuu... Yeah, that's true...」
+
+218675	Reset Kalar	「さーて、参ったねえ……	「Well, we're stuck...
+218676	+	　どうしようか……」	　What should we do...
+
+218677	Reset Kalar	「＜エール＞ちゃん、どうする？」	　＜エール＞-chan, what do you want to do?」
+218678	Nagata-kun	「ばっ！　駄目ー！	「No! Don't!
+218679	+	　死ぬ気かお前は！」	　Are you trying to die!?」
+
+218680	Nagi su Ragarl	「けっこー、＜エール＞って好戦的？」	「＜エール＞ is surprisingly warlike?」
+
+218681	Masou Shizuka	「意外と、ね」	「Surprisingly, yeah.」
+
+218682	Reset Kalar	「うーん、それしかないかぁ」	「Hmm, I guess that's the only way.」
+
+218683	Nagi su Ragarl	「問題はそんな抜け道があるか、だねぇ」	「The problem is whether there's a detour.」
+
+218684	Masou Shizuka	「ま、普通に考えたら難しいわよね……	「Well, normally it's difficult...
+218685	+	　最悪正面突破しかないかも」	　In the worst case we might have to break through head-on.」
+
+218686	Nagata-kun	「通してくれる奴に見えるのかよ、お前には……」	「Do they look like they'll let us through...」
+
+218687	Reset Kalar	「うーん、でも何日か続ければ、	「Hmm, but if we keep it up for a few days,
+218688	+	　向こうも折れてくれるかも知れないよ？」	　they might give in.」
+
+218689	Rocky Bank	「って、あれ？」	「Hey, look?」
+
+218690	Rocky Bank	「ああっ！？　皆さん、大変だす！	「Aah!? Everyone, trouble!
+218691	+	　ざ、ザンス様がいないだす！」	　Z-Zance-sama is gone!」
+
+218692	Reset Kalar	「ええっ！？」	「Ehh!?」
+
+218693	Masou Shizuka	「嫌な予感しかしないわね……」	「I have a bad feeling...」
+
+218694	Zance Leazas	「がーーーっはっはっはっはっ！」	「Gaaaah hahaha!」
+
+218695	-	そのとき、馬鹿笑いの声が響く。	At that moment, stupid laughter echoed.
+
+218696	Zance Leazas	「テメェら、こっちを見ろーーー！」	「You guys, look over here-----!」
+
+218697	Masou Shizuka	「ああ、もう……あの馬鹿は……」	「Aah, geez... that idiot...」
+
+218698	Red Monster Soldier	「む、なんだ！？」	「Mu, what!?」
+
+218699	Zance Leazas	「がはははははははははは！」	「Gahahahahahahahaha!」
+
+218700	-	ザンスが通路に面した家屋の屋根に	Zance stood heroically
+218701	+	雄々しく立っていた。	on the roof of a house facing the passage.
+
+218702	Zance Leazas	「はん、簡単に上を取られるとは……	「Hah, letting me take the high ground so easily...
+218703	+	　テメェら真面目に訓練してたのかぁ〜？」	　Were you guys even training seriously~?」
+
+218704	Zance Leazas	「あー、ごほんごほん」	「Ahem ahem.」
+
+218705	Zance Leazas	「これは最終警告である！」	「This is the final warning!」
+
+218706	Zance Leazas	「黙って通せば見逃そう！	「If you let us pass quietly we'll overlook it!
+218707	+	　だが、徹底抗戦が貴様らの望みならば、	　But if you want all-out war,
+218708	+	　こちらもそれ相応の対応をさせてもらう！」	　we will respond accordingly!」
+
+218709	Zance Leazas	「我が名はザンス・リーザス！	「My name is Zance Leazas!
+218710	+	　ゆくゆくはこの世界の王となる男！」	　The man who will one day become king of this world!」
+
+218711	Zance Leazas	「俺様の王道を阻む者は誰であろうと……」	「Anyone who stands in the way of my royal path...」
+
+218712	Zance Leazas	「しばき倒す！！！！」	「I'll beat them down!!!!」
+
+218713	Red Monster Soldier	「ふんっ、いい的ではないか！」	「Hmph, what a good target!」
+
+218714	Red Monster Soldier	「全員、構え！！！！」	「Everyone, ready!!!!」
+
+218715	Red Monster Soldier	「…………」	「............」
+
+218716	Red Monster Soldier	「放てぇぇえ！」	「Fireeeee!」
+
+218717	Reset Kalar	「ザンスちゃん！？」	「Zance-chan!?」
+
+218718	-	大量の矢がザンスめがけて放たれる。	A large number of arrows were fired at Zance.
+
+218719	Zance Leazas	「…………」	「............」
+
+218720	Zance Leazas	「ハッ！　しばき回し決定だ！」	「Hah! Time to beat them all down!」
+
+218721	-	その雨のような矢が当たる寸前、	Right before the rain of arrows hit,
+218722	+	ザンスが獰猛な笑みを浮かべた。	Zance showed a ferocious smile.
+
+218723	Zance Leazas	「フンッ！」	「Hmph!」
+
+218724	-	ザンスがどこかから引っぺがしてきた	Zance tore off a door from somewhere
+218725	+	一枚のドアで体を隠した。	and used it to shield his body.
+
+218726	-	まるでハリネズミのように、	Like a porcupine,
+218727	+	ドアに大量の矢が突き刺さる。	the door was pierced with countless arrows.
+
+218728	Zance Leazas	「がはははははははは！	「Gahahahahahaha!
+218729	+	　中々いい腕してんじゃねーか！」	　Not bad with the bows!」
+
+218730	Zance Leazas	「どうやらちゃんと戦闘訓練は	「Looks like you've had proper combat training!
+218731	+	　してきたようだな！　感心感心！」	　Impressive, impressive!」
+
+218732	Zance Leazas	「で、矢はもう終わりか？	「So, arrows done already?
+218733	+	　もう終わりか終わりか！？」	　Done? Done already!?」
+
+218734	Zance Leazas	「がははははは！	「Gahahahaha!
+218735	+	　なら、剣を抜けぇぇええ！」	　Then draw your swords!!!!」
+
+218736	Red Monster Soldier	「なっ、跳んだ！？」	「Wha, he jumped!?」
+
+218737	-	ザンスがドアを通路に投げ捨て、	Zance threw the door into the passage
+218738	+	屋根から跳び降りた。	and leaped down from the roof.
+
+218739	Zance Leazas	「がはははははははははは！」	「Gahahahahahahahaha!」
+
+218740	Red Monster Soldier	「ころ、殺せぇぇえええ！」	「Kill himmmm!」
+
+218741	Zance Leazas	「遅ぇ！！！！」	「Too slow!!!!」
+
+218742	-	赤い閃光が瞬いた、	A red flash gleamed,
+218743	+	その次の瞬間――	and the next instant――
+
+218744	Red Monster Soldier	「がっ……はあっ……！」	「Gah... Haa...!」
+
+218745	-	まるで魔法のように、	As if by magic,
+218746	+	次々と魔物兵が倒れていった。	monster soldiers fell one after another.
+
+218747	Zance Leazas	「がはははは！　弱い弱い弱い！	「Gahahahaha! Weak weak weak!
+218748	+	　もっと強ぇ奴はいないのか！	　Isn't there anyone stronger!
+218749	+	　たった一人に全滅させられる気かテメェーら！」	　Are you all going to get wiped out by one guy!?」
+
+218750	-	リーザス赤軍将軍に代々授けられる	The red flash of the magic sword Bi-Lord,
+218751	+	魔法剣バイ・ロードの赤い閃光が、	passed down through generations to the Leazas Red Army generals,
+218752	+	振るわれる度に幾度も瞬く。	flashed every time it was swung.
+
+218753	-	伸縮自在の剣を操り、それでも足りなければ	Wielding the extendable sword, and if that wasn't enough
+218754	+	腕を、足を使い、まるで獣が如き速度で	he used his arms and legs at beast-like speed
+218755	+	ザンスが他を蹂躙していく。	to trample everything else.
+
+218756	-	まるでそれは赤い暴風雨のようだった。	It was like a red storm.
+
+218757	Monster Captain	「な、なんだこれはぁ！？	「W-What is this!?
+218758	+	　私は悪夢でも見ているのか！？」	　Am I seeing a nightmare!?"
+
+218759	Magic Monster Soldier	「わ、私は聞いたことがあります！」	「I-I've heard of this!」
+
+218760	Magic Monster Soldier	「赤軍の鎧に、あの赤く輝く魔法剣……」	「Red Army armor and that red glowing magic sword...」
+
+218761	Magic Monster Soldier	「狭い場所での多対一は	「Fighting many against one in tight spaces
+218762	+	　赤の将軍の最も得意とするところと……」	　is the Red General's specialty...」
+
+218763	Monster Captain	「なら、こいつはまさか――！」	「Then this guy is――!」
+
+218764	Magic Monster Soldier	「リーザスにいるという赤い死神……	「The Red Grim Reaper of Leazas...
+218765	+	　おそらくはその二代目かと！」	　Probably the second generation!」
+
+218766	Zance Leazas	「ウララララララアーーーッ！	「Urararararaahhh!
+218767	+	　死ね死ね死ねー！」	　Die die die!」
+
+218768	-	紅にまばゆく輝く光の中、	In the dazzling red light,
+218769	+	ただ一人ザンスだけが残忍に笑っていた。	only Zance was laughing brutally.
+
+218770	Nagata-kun	「うっわー……なんだあいつ……」	「Whoaa... What is that guy...」
+
+218771	Nagata-kun	「つ、強い強いとは思ってたけど……	「I knew he was strong but...
+218772	+	　あそこまで強かったのかよ……」	　not that strong...」
+
+218773	Masou Shizuka	「そりゃそうよ。	「Of course.
+218774	+	　なんたって赤の軍将軍ですもの」	　He is the Red Army General after all.」
+
+218775	Nagi su Ragarl	「粗暴で、色々とまだ若いけど、	「He's rough and still young,
+218776	+	　間違いなく実力は人類最強クラスよ」	　but his strength is definitely top class among humanity.」
+
+218777	Nagata-kun	「う、うわ……	「U-Uwa...
+218778	+	　俺めっちゃ失礼な口きいてた……」	　I was really rude to him...」
+
+218779	Zance Leazas	「おら！　テメェーら、何ボーッとしてやがる！」	「Hey! What are you guys spacing out for!」
+
+218780	Zance Leazas	「道が空いてんだろーが！	「The path is clear!
+218781	+	　今の内に突撃すんだよ！」	　Charge now!」
+
+218782	Zance Leazas	「がははは！　やっぱ、ゴチャゴチャやるより、	「Gahaha! As expected, this straightforward stuff
+218783	+	　こーゆー分かりやすい奴が一番だな！」	　is way better than complicated talks!」
+
+218784	Masou Shizuka	「あーもう、仕方ない！	「Aah geez, no choice!
+218785	+	　行くわよ！」	　Let's go!」
+
+218786	Nagata-kun	「うひー、死ぬー！」	「Uhyee, I'm gonna die!」
+
+218787	-	ザンスの号令により、	At Zance's command,
+218788	+	他の皆も仕方なくザンスに合流を果たす。	the others reluctantly joined him.
+
+218789	Reset Kalar	「こ、これからどうするの！？」	「W-What now!?」
+
+218790	Zance Leazas	「ハッ！　俺が道を切り開く！	「Hah! I'll carve open the path!
+218791	+	　お前らは後からついてこい！」	　You guys follow behind!」
+
+218792	Zance Leazas	「リーザス赤軍！	「Leazas Red Army!
+218793	+	　先駆け部隊将軍の実力！	　The power of the vanguard general!
+218794	+	　存分にその目に刻み込め！」	　Burn it into your eyes!」
+
+218795	Zance Leazas	「これが俺様の、リーザス赤の軍将軍の実力だ！」	「This is the true power of me, the Leazas Red Army General!」
+
+218796	Zance Leazas	「がーーーっはっはっはっはっはっ！」	「Gaaaah hahaha!」
+
+218797	Masou Shizuka	「まったく……」	「Geez...」
+
+218798	Masou Shizuka	「こういうところは……	「In times like this...
+218799	+	　あの馬鹿より乱暴なのよね……」	　he's even more violent than that idiot...」
+
+218800	Zance Leazas	「このまま将軍のところまで突撃すんぞ！」	「We'll charge straight to the general!」

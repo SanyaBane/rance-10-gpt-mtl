@@ -1,0 +1,244 @@
+# 30680	２５５／スタート	
+* Cream Ganoblade	クリーム	Female
+* Arlcoate Marius	アールコート	Female
+* Urza Pranaice	ウルザ	Female
+* Leazas Black Soldier	汎用リーザス黒兵	Male
+* Rance	ランス	Male
+* Yuzuhara Yuzumi	柚美	Female
+* Maria Custard	マリア	Female
+* Pigu Geliciam	ピグ	Female
+* Copandon Dott	コパンドン	Female
+
+25851	-	ランス城、人類軍作戦司令部。	Rance Castle, Human Army Strategy Headquarters.
+
+25852	-	魔軍との戦いを指揮する人類の頭脳たちの指揮は、	The human brains commanding the war against the Monster Army
+25853	+	今日も多忙を極めていた。	were extremely busy today as well.
+
+25854	Cream Ganoblade	「ヘルマン軍の備蓄食料が、	「The Helman army's stockpiled food
+25855	+	　減少傾向にあります。	　is decreasing.
+25856	+	　リーザスからの輸送を増やせませんか？」	　Can we increase shipments from Leazas?」
+
+25857	Arlcoate Marius	「あ、で、でも……これ以上となると、	「B-but...... If we do any more,
+25858	+	　輸送路の整備、護衛に必要になる兵力が	　the troops needed for maintaining supply routes and escorting
+25859	+	　更に増えてしまいますけど……」	　will increase even further......」
+
+25860	Cream Ganoblade	「リーザスの、余剰兵力は……」	「Leazas's reserve forces......」
+
+25861	Arlcoate Marius	「え、えぇと……白の軍から、	「U-um...... We moved troops from the White Army
+25862	+	　擬態に必要な兵があるからと……	　because they were needed for mimicry operations......
+25863	+	　そちらに動員してて、今はかなり少なくて……」	　so right now we have very few left......」
+
+25864	Cream Ganoblade	「…………そうですか。	「............I see.
+25865	+	　しかし、こちらも……」	　But on our side too......」
+
+25866	Urza Pranaice	「ヘルマン側の兵力の一部を、	「Let's reassign some of Helman's troops
+25867	+	　リーザスの援軍に使いましょう。	　as reinforcements for Leazas.
+25868	+	　向こうに行っている間は、食料はリーザス持ちで」	　While they're there, Leazas will cover the food costs.」
+
+25869	Arlcoate Marius	「あ、それは大丈夫……だと、思いますけど……」	「Ah, that should be fine...... I think......」
+
+25870	Cream Ganoblade	「こちらの兵力を減らすのですか。	「Reducing our own forces.
+25871	+	　それは…………」	　That is......」
+
+25872	Urza Pranaice	「ゼスからガーディアンを回します。	「We'll send Guardians from Zeth.
+25873	+	　ガーディアンなら、ごはんは食べませんしね」	　Guardians don't eat after all.」
+
+25874	Cream Ganoblade	「助かります。それなら、なんとか……	「That helps. Then we can manage......
+25875	+	　では、適切な移動経路を割り出しておきます」	　I'll calculate the appropriate routes.」
+
+25876	Urza Pranaice	「お願いします。	「Please do.
+25877	+	　次は、避難民の受け入れ先の話ですね」	　Next is the discussion about where to house the refugees.」
+
+25878	Cream Ganoblade	「特に、ヘルマン、ゼスからの、壊滅した町や村から	「Especially from destroyed towns and villages in Helman and Zeth,
+25879	+	　焼き出された一般人が増えています。	　the number of displaced civilians is increasing.
+25880	+	　保護できる場所が必要なのですが……」	　We need places to shelter them......」
+
+25881	Arlcoate Marius	「JAPANがいいとは、思うのですけど……」	「I think JAPAN would be good, but......」
+
+25882	Cream Ganoblade	「遠い、ですね。道中を考えると……」	「It's far. Considering the journey......」
+
+25883	Urza Pranaice	「経験上、難民の長距離移動は大変ですよ。	「From experience, long-distance refugee movement is very difficult.
+25884	+	　護衛、食料、医療品、その他……	　Escorts, food, medical supplies, and more......
+25885	+	　かなり多くの物が必要です」	　We need quite a lot of supplies.」
+
+25886	Cream Ganoblade	「遊撃……というか、予備の兵力があれば……」	「If only we had some mobile reserves......」
+
+25887	Leazas Black Soldier	「失礼します！　ヘルマン第4軍より入電！	「Excuse me! Incoming message from the Helman 4th Army!
+25888	+	　住民が食料トラブルで暴動の気配があるとの事！	　There are signs of riots among residents due to food shortages!
+25889	+	　万一の場合、鎮圧の許可が求められています！」	　In case of emergency, they are requesting permission to suppress it!」
+
+25890	Cream Ganoblade	「第4軍から？　……そういうことですか。	「From the 4th Army? ......So that's what it is.
+25891	+	　ちょっと待って、それは…………」	　Wait a moment, that......」
+
+25892	Rance	「……なんか、めっちゃ忙しそうだな」	「......Looks like you're all super busy.」
+
+25893	Arlcoate Marius	「あ、お、おじさ……総統」	「Ah, U-uncle...... Supreme Leader.」
+
+25894	Urza Pranaice	「実際、忙しいですから。兵が足りないんです」	「We really are busy. We're short on troops.」
+
+25895	Rance	「魔物ども、数だけは多いからな」	「Those monsters sure have numbers on their side.」
+
+25896	Cream Ganoblade	「質でも向こうが上です。	「They're also superior in quality.
+25897	+	　だから、行動を起こすには、局所的にでも	　That's why, to take action, we need to create
+25898	+	　数的優位を作る必要がありまして……」	local numerical superiority at least......」
+
+25899	Rance	「うーむ……部下が弱っちいと大変だ。	「Hmm...... Having weak subordinates is tough.
+25900	+	　もう兵士は増やせんのか」	　Can't we recruit more soldiers?」
+
+25901	-	ランスが気軽に言うと、	When Rance said it casually,
+25902	+	三人の参謀は揃って難しい顔をした。	the three staff officers all made difficult expressions.
+
+25903	Cream Ganoblade	「……各国とも、限界まで増員しています。	「......Every country has already increased recruitment to the limit.
+25904	+	　これ以上は国のインフラに支障が来ます」	　Any more would harm national infrastructure.」
+
+25905	Arlcoate Marius	「カラーの方々なんて、	「Even the people of Kalar,
+25906	+	　ほとんど全員戦って頂いてますし……」	　are almost all fighting already......」
+
+25907	Rance	「ん……そうか。それだ」	「Hmm...... I see. That's it.」
+
+25908	Arlcoate Marius	「え？」	「Eh?」
+
+25909	Rance	「人間が無理なら亜人を連れてくりゃいい。	「If humans won't do, just bring in demi-humans.
+25910	+	　なんかいただろ、カラーの他に」	　There are others besides the Kalar, right?」
+
+25911	Urza Pranaice	「というと……ポピンズですか」	「You mean...... the Poppins?」
+
+25912	Arlcoate Marius	「うっ……」	「Ugh......」
+
+25913	Cream Ganoblade	「地底に住んでいる、小人の種族……ですね。	「The race of small people living underground...... right.
+25914	+	　かなりの技術力を持つとか……」	　They supposedly have considerable technical skill......」
+
+25915	Rance	「それだそれ。	「That's the one.
+25916	+	　そいつらも引きずり出して戦わせよう」	　Let's drag them out and make them fight too.」
+
+25917	Urza Pranaice	「そうですね……それも議題に上がってはいました。	「That's right...... It has been discussed.
+25918	+	　交渉して、同盟をと」	　We would negotiate and form an alliance.」
+
+25919	Rance	「そんなもん、呼びつけて命令すりゃいいだろ」	「Just summon them and give orders.」
+
+25920	Cream Ganoblade	「そ、そんな……」	「T-that's......」
+
+25921	Urza Pranaice	「だめですよ、ランスさん。	「That's not possible, Rance-san.
+25922	+	　相手もひとつの国なのですから。	　They are a country too.
+25923	+	　こちらから出向いた方がいいです」	　We should go to them.」
+
+25924	Urza Pranaice	「相手も王ですし、ランスさんが代表で赴くのが、	「They also have a king, so it would be best if you, Rance-san,
+25925	+	　一番いいのですが……」	　went as our representative......」
+
+25926	Rance	「そうか……いいだろう。ここはひとつ、	「I see...... Fine. Then I'll just
+25927	+	　ポピンズの国も俺のものにしてやるか。がははは」	　make the Poppins country mine too. Gahahaha.」
+
+25928	Cream Ganoblade	「そ、そうではなく、あくまで同盟を、と……」	「N-no, we mean an alliance, not......」
+
+25929	Rance	「がはは、大丈夫だ大丈夫。任せておけ」	「Gahaha, it'll be fine. Leave it to me.」
+
+25930	Urza Pranaice	「ふぅ…………これは、お目付役が要るかも。	「Sigh...... We might need a chaperone.
+25931	+	　私たちのうち、誰か……」	　Someone among us......」
+
+25932	Arlcoate Marius	「っ…………！」	「......!」
+
+25933	Cream Ganoblade	「……アールコートさん？	「......Arlcoate-san?
+25934	+	　さっきから、少し様子がおかしいけれど……」	　You've been acting strange for a while......」
+
+25935	Arlcoate Marius	「あぅ、あの、その…………	「Auu, um, well......
+25936	+	　ポピンズには、その、前に……」	　With the Poppins, um, before......」
+
+25937	Rance	「ああ、クソ小人に悪戯されたんだったな。	「Oh right, those shitty midgets messed with you.
+25938	+	　あいつらはぶっ殺してやったが……	　I killed them but......
+25939	+	　アールコートちゃんは止めとくか」	　I'll leave you behind this time, Arlcoate-chan.」
+
+25940	Arlcoate Marius	「だ、大丈夫です！　もう平気です！	「I-I'm fine! I'm okay now!
+25941	+	　お、お仕事にそんな事情を……！」	　Don't let personal matters affect work......!」
+
+25942	Rance	「ダメだダメだ。無理するんじゃない。	「No no. Don't push yourself.
+25943	+	　今回は留守番だ」	　You're on house-sitting duty this time.」
+
+25944	Arlcoate Marius	「うぅ……	「Uuu......
+25945	+	　せっかくおじ様とご一緒できる機会なのに……」	　Even though I finally had a chance to go with Uncle......」
+
+25946	Urza Pranaice	「ここをお任せできるなら、私が行きましょうか」	「If you can leave things here to me, I can go.」
+
+25947	Cream Ganoblade	「いえ、ウルザさんは残ってください。	「No, Urza-san should stay.
+25948	+	　ここは私が」	　I'll go.」
+
+25949	Urza Pranaice	「そう……ですか。じゃあ」	「I see...... Then.」
+
+25950	Rance	「お供はクリームちゃんか。	「So Cream-chan is coming with me.
+25951	+	　よーし、楽しくいこう。がははははは」	　Alright, let's have fun. Gahahahahaha.」
+
+25952	Cream Ganoblade	「……いやらしい事には応じませんからね」	「......I won't go along with any perverted stuff.」
+
+25953	Rance	「さーて、地底の小人王国へ出発だ！	「Alright, off to the underground kingdom of the small people!
+25954	+	　……というところなのだが……」	　......Or so I'd like to say......」
+
+25955	Yuzuhara Yuzumi	「ポピンズの国へ行くの？	「Going to the Poppins country?
+25956	+	　行く……絶対行く」	　I'm going...... I'm definitely going.」
+
+25957	Maria Custard	「はー、楽しみだなー」	「Haa, I'm looking forward to it~」
+
+25958	Pigu Geliciam	「ねー」	「Yeah~」
+
+25959	Rance	「お前ら。完全に遊ぶ気分だな……」	「You guys. You're all completely in vacation mode......」
+
+25960	Copandon Dott	「うちはポピンズの王国への案内役やで？	「I'm the guide to the Poppins kingdom, y'know?
+25961	+	　ポピンズたちとも取引はしとるし」	　I do business with them too.」
+
+25962	Rance	「お前、そのうち道ばたのゲジゲジとも	「You'll probably start trading with roadside millipedes soon.」
+25963	+	　商売始めるんじゃないのか？」	
+
+25964	Copandon Dott	「あ。イヤーな言い方やなぁ。	「Hey. That's a rude way to put it.
+25965	+	　でも、儲かるんならすると思うで」	　But if it makes money, I probably would.」
+
+25966	Cream Ganoblade	「私は打ち合わせた通り、交渉役です。	「As planned, I'm the negotiator.
+25967	+	　……総統にお任せできればよかったのですが……」	　......It would have been better if we could leave it to the Supreme Leader......」
+
+25968	Rance	「がははは、クリームちゃんと冒険は	「Gahahaha, this might be my first adventure with Cream-chan.
+25969	+	　初めてかもしれんな。楽しみだ」	　I'm looking forward to it.」
+
+25970	Cream Ganoblade~	（変な事されないよう、気をつけないと……	(I need to be careful so he doesn't do anything weird......
+25971	+	　ポピンズにも、私にも……）	　To the Poppins and to me......)
+
+25972	Maria Custard	「私だって遊ぶだけじゃないわよ。	「I'm not just going to play either.
+25973	+	　ポピンズの技術を間近で見られるチャンス！」	　It's a chance to see Poppins technology up close!」
+
+25974	Rance	「もう目つきがおかしくなってやがる……」	「Your eyes are already going crazy......」
+
+25975	Yuzuhara Yuzumi	「私も、遊び違う……案内人その二。	「I'm not just playing either...... I'm guide number two.
+25976	+	　ポピンズのことなら、詳しい」	　I know a lot about the Poppins.」
+
+25977	Rance	「お……そうなのか。まあいいだろう」	「Oh...... Is that so. Well, fine.」
+
+25978	Copandon Dott	「ちゅーか柚美ちゃん、	「By the way Yuzumi-chan,
+25979	+	　いっぺんうちが案内したったやん」	　I already guided you once before.」
+
+25980	Yuzuhara Yuzumi	「……うん」	「......Yeah.」
+
+25981	Copandon Dott	「なんで今は地上にいるん？	「Why are you on the surface now?
+25982	+	『きゃーーーー、もうここ永住すりゅぅぅぅっ！』	『Kyaaaa, I'm gonna live here forever~~~!』
+25983	+	　とか言うとらんかったか？　あん時」	　Didn't you say something like that back then?」
+
+25984	Yuzuhara Yuzumi	「…………………………	「..............................
+25985	?	　色々、あるの。女の過去には……」	　There are... various reasons. A woman's past......」
+
+25986	Copandon Dott	「そうなん？　ま、ええけど……」	「Is that so? Well, whatever......」
+
+25987	Rance	「がはははは、やはり人間が恋しくなったんだろう。	「Gahahahaha, you got lonely for humans after all.
+25988	+	　俺様のことが忘れられなかったとかな」	　Couldn't forget about me, huh?」
+
+25989	Yuzuhara Yuzumi	「……そういうんじゃ、ない……	「......It's not like that......
+25990	+	　ランスは……ある意味では忘れられないけど……」	　Rance is...... unforgettable in a way, but......」
+
+25991	Rance	「そうだろうそうだろう。俺は魅力的すぎるからな」	「Of course, of course. I'm just too charming.」
+
+25992	Cream Ganoblade	「……そろそろ出発しましょう。	「......Let's depart soon.
+25993	+	　時間に余裕があるわけでもありませんので」	　We don't have much time.」
+
+25994	Rance	「よーし、行くとするか！」	「Alright, let's go!」
+
+25995	Copandon Dott	「ほないこか。迷宮を通って、地下深くや。	「Let's go then. We'll go through the labyrinth, deep underground.
+25996	+	　モンスターもおるさかい、油断しなや」	　There are monsters too, so don't let your guard down.」
+
+25997	Rance	「雑魚モンスターなぞものの数じゃない。	「Weak monsters are nothing.
+25998	+	　お前らも、来たからには足を引っ張るなよ」	　You guys better not slow me down now that you're here.」
+
+25999	-	号令と共に、使節団は出発した。	With that command, the delegation set off.

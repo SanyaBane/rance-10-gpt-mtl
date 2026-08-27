@@ -1,0 +1,552 @@
+# 31433	１０／１／迎撃準備	
+* Rance	ランス	Male
+* Sill Plain	シィル	Female
+* Krutche Muffin	クルーチェ	Female
+* Frostbyne	フロストバイン	Female
+* Tama	タマ	Female
+* Atago McCart	アタゴ	Female
+* Tokugawa Sen	千姫	Male/Female
+* Leazas Black Soldier	汎用リーザス黒兵	Male
+* Helman Soldier	汎用ヘルマン兵	Male
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Urza Pranaice	ウルザ	Female
+* Leila Grecni	レイラ	Female
+* Tilde Sharp	チルディ	Female
+* Julia Lindum	ジュリア	Female
+* Lia Parapara Leazas	リア	Female
+* Magic the Gandhi	マジック	Female
+* Oda Kouhime	香姫	Female
+* Copandon Dott	コパンドン	Female
+* Cream Ganoblade	クリーム	Female
+* Biscuitta Burns	ビスケッタ	Female
+* Klean Bew	クリン	Female
+* Heidi Pankrau	ハイジ	Female
+* Arlcoate Marius	アールコート	Female
+
+73284	-	ランスの命令により徹底抗戦を決めたランス城は	Having decided on a full defense by Rance's order,
+73285	+	眠れぬ夜を過ごしていた。	Rance Castle spent a sleepless night.
+
+73286	Rance	「おお、すごい武士の数だな」	「Whoa, that's a huge number of warriors.」
+
+73287	Sill Plain	「ふわぁ……すごいですね、ランス様……」	「Fwaa... That's amazing, Rance-sama...」
+
+73288	-	辺りの様子を見ていたランスは、	Rance, who had been looking around,
+73289	+	CITYの前に立ち並ぶJAPAN武士達を見て	saw the JAPAN warriors lined up in front of CITY
+73290	+	口を半開きにした。	and stood with his mouth half open.
+
+73291	Krutche Muffin	「おばんっすー、閣下とシィルちゃんさん」	「Good evening, Your Excellency and Sill-chan.」
+
+73292	-	ランス城騎士団の副団長	The vice-captain of the Rance Castle Knight Order,
+73293	+	クルーチェ・マフィンが声をかけてきた。	Krutche Muffin, called out to them.
+
+73294	Rance	「おう、クルーチェ。	「Yo, Krutche.
+73295	+	　こりゃ大した数だな、	　That's quite the number,
+73296	+	　合戦すんのかと思ったぞ」	　I thought a huge battle was starting.」
+
+73297	Krutche Muffin	「うははは」	「Uhahaha.」
+
+73298	Krutche Muffin	「こんなの氷山の一角っすよ。	「This is just the tip of the iceberg.
+73299	+	　向こうの方ではこれの二十倍の数の武士達が……」	　Over there are twenty times this many warriors...」
+
+73300	Sill Plain	「に、二十倍……」	「T-Twenty times...」
+
+73301	Krutche Muffin	「香姫様が寄越してくれた援軍は	「The reinforcements sent by Kouhime
+73302	+	　全部で二万人ほど来る予定だそうで。	　are supposed to total around 20,000.
+73303	+	　まだまだ増えるそっす」	　And there will be more.」
+
+73304	Krutche Muffin	「……そのせいで我らランス城騎士団は、	「...Because of that, we Rance Castle Knights
+73305	+	　救援の兵の案内やらなんやらで、	　are busy guiding the reinforcement troops
+73306	+	　中々眠れないってわけで……はあ……」	　and such, so we can't sleep... Haa...」
+
+73307	Rance	「お前がそんな状況で	「It's rare for you to not be slacking
+73308	+	　サボっとらんとは珍しい」	　in a situation like this.」
+
+73309	Krutche Muffin	「えへへ、サーナキア団長も学習したのか、	「Ehehe, maybe Captain Sanakia learned her lesson,
+73310	+	　ぜーんぶ先手打たれました」	　she got completely outmaneuvered.」
+
+73311	Krutche Muffin	「うちの団長、めっちゃ燃えてます。	「Our captain is super fired up.
+73312	+	　今日と明日はマジですよ、あれ」	　She's serious today and tomorrow.」
+
+73313	Rance	「そうか、サーナキアちゃんマジなのか……	「I see, so Sanakia-chan is serious...
+73314	+	　それは……」	　That's...」
+
+73315	Krutche Muffin	「……心配ですね。	「...I'm worried.
+73316	+	　明日死ななきゃいいんすけど」	　I hope she doesn't die tomorrow.」
+
+73317	Sill Plain	「え、えー……」	「Eh, ehh...」
+
+73318	Rance	「まあいい、お前もサボらず	「Whatever, you should stop slacking too
+73319	+	　たまにはマジになって働けよ」	　and actually work seriously sometimes.」
+
+73320	Krutche Muffin	「あいあいさー。	「Aye aye sir.
+73321	+	　給料分は働く所存ですよ、雇用主様」	　I'll work for my pay, employer.」
+
+73322	Rance	「……まったく、ふにゃふにゃした奴め」	「...What a spineless guy.」
+
+73323	Sill Plain	「それでは失礼します、クルーチェさん。	「Excuse us then, Krutche-san.
+73324	+	　また明日」	　See you tomorrow.」
+
+73325	Krutche Muffin	「うっす。	「Yessir.
+73326	+	　お二人とも、お休みなさ〜い」	　Good night to both of you~」
+
+73327	-	ひらひらと手を振るクルーチェと別れて、	After waving goodbye to Krutche,
+73328	+	二人はランス城の中に入っていく。	the two entered Rance Castle.
+
+73329	Sill Plain	「明日、本当に魔軍が来るんですね……」	「The Monster Army really is coming tomorrow...」
+
+73330	Rance	「うむ、本土決戦を狙ってるんだろうが……」	「Yeah, they're aiming for a decisive battle on our home ground...」
+
+73331	Rance	「がははは、ズガーンと返り討ちだ」	「Gahahaha, we'll crush them completely.」
+
+73332	Sill Plain	「……うう、ドキドキします」	「...Uuu, my heart is pounding.」
+
+73333	Rance	「あん？　なんだあれは……」	「Hm? What's that...」
+
+73334	Frostbyne	「おお、ランスか」	「Oh, it's Rance.」
+
+73335	Tama	「おばんですー」	「Good evening~」
+
+73336	Tama	「って、うわ！　なんですかい、二人揃って	「Wait, whoa! What are you two doing
+73337	+	　夜のお散歩デートとしゃれこんでたんですかい？」	　on a night stroll date together?」
+
+73338	Tama	「かーっ、いやんなっちゃうな。	「Geez, how annoying.
+73339	+	　こっちは夜通しの作業だってのに！」	　We're working all night here!」
+
+73340	Tama	「あいだぁっ！」	「Ouch!」
+
+73341	Rance	「お前ら人様の玉座でこそこそ何やっとるか」	「What are you two sneaking around doing on someone else's throne?」
+
+73342	Frostbyne	「かっかっかっ、見て分からんか！	「Kakkakka, can't you tell by looking!
+73343	+	　ばばん！　量産型あてな2号の制作じゃ！」	　Bam! We're making mass-produced Athena 2.0!」
+
+73344	-	フロストバインの後ろには、	Behind Frostbyne,
+73345	+	あてなそっくりの人形が	dolls that looked exactly like Athena
+73346	+	整然と並んでいた。	were neatly lined up.
+
+73347	Sill Plain	「ごくっ……あてなちゃんがこんなに沢山……	「Gulp... So many Athena-chans...
+73348	+	　う、動くんですか……？」	　A-Are they going to move...?」
+
+73349	Frostbyne	「いや、まだじゃ。	「Not yet.
+73350	+	　じゃが、今夜中にはなんとかしよう」	　But I'll try to finish them tonight.」
+
+73351	Rance	「つんつん、ふにふに、もみもみ。	「Poke poke, squish squish, rub rub.
+73352	+	　うーむ、なんも反応がない、つまらん」	　Hmm, no reaction at all. Boring.」
+
+73353	Rance	「で、なんで玉座で作業しとるんだ」	「So why are you working on the throne?」
+
+73354	Frostbyne	「今夜はどこもバタバタしとって、	「Everywhere is busy tonight,
+73355	+	　落ち着いて作業できる広い場所が	　so the only wide place where I could work calmly
+73356	+	　ここくらいしかなかったんじゃもん」	　was here.」
+
+73357	Rance	「当たり前だ！	「Of course!
+73358	+	　玉座で雑事をしとる奴がいたら俺様が許さんわ！」	　I won't allow anyone doing chores on my throne!」
+
+73359	Tama	「まーまー、そう怒らないで。	「Now now, don't get so mad.
+73360	+	　これさえ完成すれば敵ナシなんすから」	　Once this is complete, no enemy can stop us
+
+73361	Tama	「……なんすよね？」	　...right?」
+
+73362	Frostbyne	「ひょっひょっひょっ！　とーーーぜんじゃ！	「Hyohyohyo! Of coooourse!
+73363	+	　この大天才フロストバインちゃんを信じなさい！」	　Believe in this great genius Frostbyne-chan!」
+
+73364	Rance	「ふんっ、期待せんで待ってやる」	「Hmph, I'll wait without expecting much.」
+
+73365	Frostbyne	「……ちょっとは期待してもいいんじゃよ？」	「...You can have a little expectation, you know?」
+
+73366	Atago McCart	「おーい、夜食持ってきたわよー」	「Hey, I brought late-night snacks~」
+
+73367	Rance	「おっ、アタゴちゃんも残っとったのか」	「Oh, Atago-chan stayed too.」
+
+73368	Atago McCart	「げ、ランス……」	「Ugh, Rance...」
+
+73369	Atago McCart	「はあ……仕方ないでしょ。	「Haa... No choice.
+73370	+	　完全に逃げるタイミング逃しちゃったんだから」	　I completely missed my chance to escape.」
+
+73371	Rance	「がははは、アタゴちゃんも間抜けだな！」	「Gahahaha, Atago-chan is such an idiot too!」
+
+73372	Atago McCart	「あんたが私にカラーの娘達を押しつけるから！	「It's because you pushed all those Kalar girls onto me!
+73373	+	　放っておくわけにもいかなくて逃げ遅れたの！」	　I couldn't just leave them, so I missed my escape!」
+
+73374	Rance	「うん？　そうだったか？」	「Huh? Was that how it went?」
+
+73375	Atago McCart	「こ、こいつ……！」	「T-This guy...!」
+
+73376	Sill Plain	「うう、すみません、すみません。	「Uuu, I'm sorry, I'm sorry.
+73377	+	　ランス様がすみません……」	　It's Rance-sama's fault...」
+
+73378	Rance	「こら、ペコペコすんなシィル。	「Hey, don't bow so much, Sill.
+73379	+	　俺様が舐められるだろうが」	　They'll look down on me.」
+
+73380	Sill Plain	「あう、だ、だって……」	「Auu, b-but...」
+
+73381	Atago McCart	「ん、あんた確かランスの奴隷の	「Hm, you're Rance's slave
+73382	+	　シィルちゃんとか言う……」	　called Sill-chan, right...?」
+
+73383	Atago McCart	「ふーん……」	「Hmm...」
+
+73384	Sill Plain	「あ、あの、なんでしょう？」	「U-Um, what is it?」
+
+73385	Atago McCart	「可哀想に……	「You poor thing...
+73386	+	　貴方も苦労してるのね……」	　You've been through a lot too...」
+
+73387	Sill Plain	「え？」	「Eh?」
+
+73388	Atago McCart	「何か辛いことがあったら私の店に来なさい。	「If you ever have something hard, come to my shop.
+73389	+	　温かいココアくらいなら出してあげるから」	　I'll at least give you some warm cocoa.」
+
+73390	Atago McCart	「…………いや、今のなし。	「............Never mind that.
+73391	+	　その店も明日でなくなるかも知れないんだった」	　That shop might not exist after tomorrow.」
+
+73392	-	ずーんとアタゴが落ち込んだ。	Atago's shoulders slumped heavily.
+
+73393	Rance	「忙しいなアタゴちゃん」	「You're busy, Atago-chan.」
+
+73394	Atago McCart	「はあぁぁ……うだうだしても仕方ないわね……」	「Haaa... Complaining won't help...」
+
+73395	Atago McCart	「明日は勝ちなさいよ。	「You better win tomorrow.
+73396	+	　なんだかんだ……	　After all...
+73397	+	　この街には思い出沢山あるから……」	　This city holds so many memories...」
+
+73398	Rance	「おうおう、任せなさい」	「Yeah yeah, leave it to me.」
+
+73399	Atago McCart	「もし勝てたら、今までのツケ、	「If you win, I'll clear
+73400	+	　ぜーんぶ、チャラにしてあげる」	　all your previous tabs.」
+
+73401	Rance	「おっ、そうか。	「Oh, really.
+73402	+	　これは頑張らないとな」	　Then I have to work hard.」
+
+73403	Rance	「しかし、俺様はそれよりも	「But more than that,
+73404	+	　アタゴちゃんの体でお礼をしてくれた方が……」	　I'd rather you thank me with your body, Atago-chan...」
+
+73405	Atago McCart	「………………死ね」	「............Die.」
+
+73406	-	とても冷たい視線でランスを射貫いて、	With an extremely cold glare piercing Rance,
+73407	+	アタゴはキッパリと背を向けてしまった。	Atago turned her back on him sharply.
+
+73408	Sill Plain	「……うう、ランス様。	「...Uuu, Rance-sama.
+73409	+	　アタゴさんに何したんですか？」	　What did you do to Atago-san?」
+
+73410	Rance	「気持ちいいことだ。	「Something pleasant.
+73411	+	　さて、別の場所見てくか」	　Anyway, shall we check another place?」
+
+73412	-	少し薄暗い廊下を二人が歩く。	The two walked down a dimly lit hallway.
+
+73413	-	時折バタバタと走り去る兵士達とすれ違った。	They occasionally passed soldiers running by in a hurry.
+
+73414	Sill Plain	「今夜は本当にどこも忙しそうですね」	「Everywhere really looks busy tonight.」
+
+73415	Rance	「うむ、まるで夜じゃないみたいだ。	「Yeah, it doesn't feel like night at all.
+73416	+	　なんか変な気分」	　Feels weird.」
+
+73417	Rance	「……ん」	「...Hm.」
+
+73418	Sill Plain	「？　どうかしましたか？　ランス様」	「? What's wrong, Rance-sama?」
+
+73419	Rance	「お前、少しここで待ってろ」	「You wait here for a bit.」
+
+73420	Sill Plain	「え、あ……」	「Eh, ah...」
+
+73421	-	ランスはシィルを置いて一人で	Rance left Sill behind and
+73422	+	部屋に入っていった。	entered the room alone.
+
+73423	Sill Plain	「ここ……保育園……」	「This is... the nursery...」
+
+73424	Rance	「お、真っ暗だな。	「Oh, it's pitch dark.
+73425	+	　さすがにこんな時間じゃ、皆寝てるか」	　At this hour, everyone must be asleep.」
+
+73426	Tokugawa Sen	「しーっ」	「Shhh.」
+
+73427	Rance	「おっと、戦姫……	「Oops, war princess...
+73428	+	　じゃなくて千姫だったな」	　I mean Senhime.」
+
+73429	-	保育園の管理者、千姫がランスの言葉に	The nursery manager Senhime smiled happily
+73430	+	どこか嬉しそうに微笑んだ。	at Rance's words.
+
+73431	Tokugawa Sen	「もう皆ねんねんの時間だが……	「It's already bedtime for everyone, but...
+73432	+	　普段は近づきもしないのにどうした？　	　You usually don't come near here. What brings you?
+73433	+	　それもこんな夜更けに」	　And at this late hour.」
+
+73434	Rance	「なんとなく様子を見に来ただけだ」	「I just came to check on things.」
+
+73435	Tokugawa Sen	「そうか……それは残念だったな」	「I see... That's too bad.
+
+73436	Tokugawa Sen	「今、ちょうど最後まで起きてた	　The last one who was awake,
+73437	+	　深根が寝たところでな。	　Tone, just fell asleep.
+73438	+	　もう少し早ければ少しは会話も出来たろうに」	　If you came a bit earlier you could have talked.」
+
+73439	Rance	「なんだと？　もう喋るのか？」	「What? She can already talk?」
+
+73440	Tokugawa Sen	「ふふ、まだまだ。	「Fufu, not yet.
+73441	+	　だが、あー、だー、くらいなら言えるぞ？」	　But she can say 'ah' and 'da' at least.」
+
+73442	-	千姫が一歩ランスに近づく。	Senhime took a step closer to Rance.
+73443	+	その拍子にふわりと花の香りが	A gentle floral scent
+73444	+	ランスの鼻をかすめた。	wafted to Rance's nose.
+
+73445	Tokugawa Sen	「ほら、よく見てやってくれ。	「Here, take a good look.
+73446	+	　寝顔くらいなら見るだろう？」	　You can at least look at their sleeping faces, right?」
+
+73447	Rance~	（うっ、ガキ共起こさないように	（Ugh, Senhime whispering softly
+73448	+	　ボソボソと喋ってる千姫はこう……	　so as not to wake the kids is...
+73449	+	　なんかすごくいいぞ……色っぽい……）	　really hot... so seductive...）
+
+73450	Tokugawa Sen	「くすっ、皆を起こす気か？」	「Hehe, are you trying to wake them?」
+
+73451	Rance	「む……」	「Muu...」
+
+73452	-	大きく膨らんでいるランスのハイパー兵器を見て、	Seeing Rance's massively swollen hyper weapon,
+73453	+	千姫はそっと先手を打って制した。	Senhime gently stopped him first.
+
+73454	Tokugawa Sen	「なんだ、今生の別れを	「What, did you come to say
+73455	+	　言いに来たわけでもあるまい。	　a final farewell in this life?
+73456	+	　それともこの子達が心配か？」	　Or are you worried about the children?」
+
+73457	Rance	「む、そんなことはないが」	「Muu, it's not that.」
+
+73458	Tokugawa Sen	「明日も明後日も、私はここにいるし、	「I'll be here tomorrow and the day after,
+73459	+	　同様にこの子達もここにいる」	　and so will the children.」
+
+73460	Tokugawa Sen	「安心して戦ってきてくれ。	「Fight with peace of mind.
+73461	+	　お父さん」	　Daddy.」
+
+73462	Rance	「誰がお父さんだ」	「Who are you calling daddy?」
+
+73463	Tokugawa Sen	「ふふ、気負わなければいいよ。	「Fufu, just don't overthink it.
+73464	+	　それできっと上手くいく」	　Then everything will go well.」
+
+73465	Tokugawa Sen	「ここから武運を祈っている」	「I'll be praying for your good fortune from here.」
+
+73466	Rance	「ふん、言われるまでもない。	「Hmph, you don't need to tell me.
+73467	+	　明日はいつも通り戦っていつも通り勝つだけだ」	　Tomorrow I'll fight as usual and win as usual.」
+
+73468	-	…………	............
+
+73469	-	……	...
+
+73470	Rance	「おお……どこも忙しそうだから、	「Whoa... Everywhere looks busy,
+73471	+	　ここも相当だろうとは思ったが……」	　so I figured it would be hectic here too...」
+
+73472	Leazas Black Soldier	「誰だ！　魔法使い部隊を西方に待機させた奴は！	「Who was it! Who stationed the mage unit to the west!
+73473	+	　明日は北方の登り口に配置させると言ったろう！」	　I said to put them at the northern ascent tomorrow!」
+
+73474	Helman Soldier	「ハピネス製薬からの薬の配達はまだか！？	「Is the medicine delivery from Happiness Pharmaceuticals still not here!?
+73475	+	　もう予定を一時間も過ぎてるぞ！？	　It's already an hour late!?
+73476	+	　誰か様子を見に行ってくれないか！？」	　Can someone go check!?」
+
+73477	Zeth Mage Soldier	「おい！　ヘルマン軍とリーザス軍の間で	「Hey! There's a fight breaking out
+73478	+	　喧嘩が起こってる！　誰か一緒に来てくれ！」	　between the Helman and Leazas armies! Someone come with me!」
+
+73479	Sill Plain	「さ、殺気立ってますね……	「It's so tense...
+73480	+	　怖いです……」	　I'm scared...」
+
+73481	Urza Pranaice	「……」	「......」
+
+73482	-	ウルザはランス達に気づいたが、	Urza noticed Rance and the others,
+73483	+	申し訳なさそうに頭を下げると	but after bowing apologetically
+73484	+	部下に呼ばれて消えてしまった。	she was called by a subordinate and disappeared.
+
+73485	Rance	「うーむ、ウルザちゃん達に会いに来たが、	「Hmm, I came to see Urza-chan and the others,
+73486	+	　今はとても無理そうだな」	　but it looks impossible right now.」
+
+73487	Rance	「ん、あそこにいるのは……」	「Hm, over there is...」
+
+73488	Rance	「よう、お前らも来ていたのか」	「Yo, you guys are here too.」
+
+73489	Leila Grecni	「あら、ランス君」	「Oh, Rance-kun.」
+
+73490	Tilde Sharp	「ご無沙汰しておりますわ、ランスさま」	「It's been a while, Rance-sama.」
+
+73491	-	司令部の一角には、リーザスの部隊、	In one corner of the headquarters was the Leazas unit,
+73492	+	大陸一華やかな部隊と言われる	known as the most glamorous unit on the continent,
+73493	+	金の軍ことリーザス親衛隊がいた。	the Golden Army -- Leazas Royal Guard.
+
+73494	Rance	「なんでここに？」	「Why are you here?」
+
+73495	Leila Grecni	「リア様がここまで来る以上、	「Since Lady Lia came all the way here,
+73496	+	　私達だけが城に残るわけにいかないでしょう？」	　we couldn't just stay behind in the castle, right?」
+
+73497	Rance	「それもそうか。	「True.
+73498	+	　ジュリアはどうした？」	　What about Julia?」
+
+73499	Tilde Sharp	「そちらでおねむですわ……」	「She's sleeping over there...」
+
+73500	Julia Lindum	「すぴー、すぴょんょん……	「Zzz, zzz...
+73501	+	　んふふ、もうたべられない……」	　Nfufu, can't eat anymore...」
+
+73502	-	ジュリアは椅子を三つ並べた上に寝転がり	Julia was sprawled across three lined-up chairs
+73503	+	幸せそうに眠っていた。	sleeping happily.
+
+73504	Rance	「ま、いつも通りか……」	「Well, same as always...」
+
+73505	Tilde Sharp	「それよりも後ろの錚々-ｿｳｿｳ-たる方々を……	「More importantly, those distinguished ladies behind...
+73506	+	　ランスさまにどうにかして頂きたいような……」	　I would like Rance-sama to do something about them...」
+
+73507	Rance	「後ろの錚々たる方々？」	「Distinguished ladies behind?」
+
+73508	-	パーテーションで区切られた司令部の一角を見ると、	Looking at the partitioned section of headquarters,
+73509	+	各国の姫達が静かに睨み合っていた。	the princesses from each country were quietly glaring at each other.
+
+73510	Lia Parapara Leazas	「あーっ、ダーリンだー！」	「Ah! It's Darling!」
+
+73511	Magic the Gandhi	「ランス……」	「Rance...」
+
+73512	Oda Kouhime	「こんばんは、兄様」	「Good evening, Brother.」
+
+73513	Copandon Dott	「なんや、夜更かしさんやね、ランス」	「Staying up late, aren't you, Rance.」
+
+73514	Rance	「また喧嘩しとったのか？　お前ら」	「Were you fighting again? You lot.」
+
+73515	Lia Parapara Leazas	「んーん、そんなのしてないよー。	「Nuh-uh, we weren't fighting~.
+73516	+	　それに喧嘩って同じ	　Besides, fighting is something
+73517	+	　レベルの人同士がすることよ？」	　people on the same level do, right?」
+
+73518	Magic the Gandhi	「あらー？　なにか言いたいのかしら？	「Ara~? Got something to say?
+73519	+	　リーザスの女王は」	　Queen of Leazas?」
+
+73520	Lia Parapara Leazas	「んーんー？　別になにもー？」	「Nuh-uh~? Nothing at all~?」
+
+73521	Rance	「まったく……」	「Good grief...」
+
+73522	Copandon Dott	「まあまあ、今日くらいええんちゃうかな」	「Now now, it's fine for today.」
+
+73523	-	コパンドンがこそっとランスにだけ耳打ちする。	Copandon whispered secretly only to Rance.
+
+73524	Copandon Dott	「こうしとる方が皆落ち着くんよ。	「Them bickering like this actually calms everyone down.
+73525	+	　口には出さんけどな」	　They just don't say it out loud.」
+
+73526	Rance	「そんなもんか……」	「Is that so...」
+
+73527	Rance	「しかし、各国の姫全員集合か……	「But all the princesses from every country gathered...
+73528	+	　そう考えると中々すごいメンバーのような」	　That's quite the lineup when you think about it.」
+
+73529	Rance	「あれ？　そういえばシーラがいないな」	「Hm? Now that I think about it, Sheila isn't here.」
+
+73530	Lia Parapara Leazas	「一人だけ逃げたのよ！	「She ran away all by herself!
+73531	+	　ひどいよねー、	　So mean~,
+73532	+	　きっとダーリンなんてどうでもいいんだわ！」	　She must not care about Darling at all!」
+
+73533	Cream Ganoblade	「変なことを言わないで下さい……	「Please don't say weird things...
+73534	+	　シーラ様にはすることがあるだけです」	　Lady Sheila just has something to do.」
+
+73535	Rance	「お、クリームちゃん。	「Oh, Cream-chan.
+73536	+	　なんか知ってるのか？」	　Do you know something?」
+
+73537	Cream Ganoblade	「……いえ、私も詳しくは存じ上げないのですが」	「...No, I don't know the details either,
+
+73538	Cream Ganoblade	「なんでも数日前にパットン皇子がやってきて、	　but apparently Prince Patton came a few days ago
+73539	+	　彼女を連れて行ったとか……	　and took her with him...
+73540	+	　それが必要なことだから、と」	　saying it was necessary.」
+
+73541	Lia Parapara Leazas	「ほらー！　やっぱり逃げたのよー！	「See! She did run away!
+73542	+	　ねねね、ダーリンどう思う？	　Right right, what do you think, Darling?
+73543	+	　ひどい子だと思わない」	　Don't you think she's awful?」
+
+73544	Cream Ganoblade	「お、鬼の首を取ったように……」	「Acting like she caught a demon by the neck...」
+
+73545	-	クリームは何か反論しようとしたが、	Cream tried to argue back,
+73546	+	すぐに部下に呼ばれ、悔しげな表情のまま	but was immediately called by a subordinate
+73547	+	去っていった。	and left with a frustrated look.
+
+73548	Rance	「で、お前らは逃げないのか？」	「So, you girls aren't running away?」
+
+73549	Lia Parapara Leazas	「うん、だって、明日はダーリンが	「Yup, because tomorrow Darling
+73550	+	　どうにかしてくれるんでしょ？	　will take care of everything, right?
+73551	+	　リアはーそれを全力で信じるだけよー」	　Lia will just believe in you with all her heart~」
+
+73552	Magic the Gandhi	「ここまで来ちゃったからね……	「We've come this far...
+73553	+	　今更逃げるなんて選択、ないわ」	　There's no choice to run away now.」
+
+73554	Copandon Dott	「ここがあかんくなったら、	「If this place falls,
+73555	+	　もうぜーんぶあかんってことやもん。	　everything is finished.
+73556	+	　ほたら、ここでランスと一緒におるわ」	　So I'll stay here with Rance.」
+
+73557	Oda Kouhime	「私も……明日は戦います……	「I will... fight tomorrow too...
+73558	+	　がんばりましょう」	　Let's do our best.」
+
+73559	Copandon Dott	「えっ……」	「Eh...」
+
+73560	Oda Kouhime	「え？」	「Eh?」
+
+73561	Rance	「香ちゃん、戦う気だったのか……」	「Kou-chan, you were planning to fight...」
+
+73562	Biscuitta Burns	「皆様、お夜食をお持ちしました」	「Everyone, I have brought late-night snacks.」
+
+73563	Klean Bew	「お持ちしましたー！」	「Brought them~!」
+
+73564	Heidi Pankrau	「サンドイッチよー。	「Sandwiches~.
+73565	+	　ありがたく食べてよね」	　Eat them gratefully, okay?」
+
+73566	Urza Pranaice	「ふう……」	「Phew...」
+
+73567	Urza Pranaice	「では、二十分だけ休憩とします。	「Then, we'll take a twenty-minute break.
+73568	+	　手の空いた者から食事を取って下さい」	　Those who are free, please eat.」
+
+73569	-	その場にいる兵達は威勢良く返事をしたが、	The soldiers replied energetically,
+73570	+	食事に手を伸ばす者はいなかった。	but none reached for the food.
+
+73571	Sill Plain	「ほ、本当に忙しそうですね……」	「It really looks busy...」
+
+73572	Urza Pranaice	「ええ、今日ばかりは	「Yes, today especially
+73573	+	　根を詰めないように、とは言えませんね」	　we can't tell people not to overwork.」
+
+73574	Arlcoate Marius	「明日全部決まっちゃう……	「Tomorrow everything will be decided...
+73575	+	　かも知れませんから……」	　It might all end...」
+
+73576	Rance	「お、ウルザちゃん、アールコートちゃん。	「Oh, Urza-chan, Arlcoate-chan.
+73577	+	　休憩取ってもいいのか？」	　Is it okay for you to take a break?」
+
+73578	Urza Pranaice	「上が休まないと、	「If the leaders don't rest,
+73579	+	　下の方々も休みづらいですからね」	　the subordinates can't rest easily either.」
+
+73580	Urza Pranaice	「ランスさんもちゃんと休息を取って下さいね」	「You should rest properly too, Rance-san.」
+
+73581	Rance	「こっちの台詞だ。	「That's my line.
+73582	+	　お前らも少しは寝ろよ」	　You guys should sleep a little too.」
+
+73583	Arlcoate Marius	「い、いえ、大丈夫です！	「N-No, I'm fine!
+73584	+	　私はまだまだ……！」	　I can still keep going...!」
+
+73585	Urza Pranaice	「後で一時間半ほど仮眠は頂こうかと。	「I'll take a short nap of about an hour and a half later.
+73586	+	　大丈夫、無理はしても無茶はしません」	　Don't worry, I'll push myself but not overdo it.」
+
+73587	Rance	「まあ、それならいいがな」	「Well, if that's the case, fine.」
+
+73588	Lia Parapara Leazas	「リアにもサンドイッチちょーだいー！」	「Give Lia a sandwich too~!」
+
+73589	Magic the Gandhi	「少しは遠慮する気はないの？　あんた」	「Don't you have any intention of holding back? You.」
+
+73590	Biscuitta Burns	「御主人様達も良ければどうぞ」	「Please help yourselves too, Master and everyone.」
+
+73591	Rance	「ん、じゃ一個だけ」	「Hm, just one then.」
+
+73592	Sill Plain	「頂きます」	「Thank you.」
+
+73593	-	ランス達はサンドイッチを食べると、	After eating the sandwiches,
+73594	+	司令部を出た。	Rance and the others left the headquarters.
+
+73595	Sill Plain	「本当に皆……今夜は大変そうですね……」	「Everyone really... looks so busy tonight...」
+
+73596	-	そう言うシィルの横を武士の一団が	A group of warriors rushed past Sill
+73597	+	バタバタと通り過ぎていった。	as she spoke.
+
+73598	Rance	「ふん、明日は戦いなんだ。	「Hmph, tomorrow is battle.
+73599	+	　夜通し働いて当然」	　Working all night is only natural.」
+
+73600	Rance	「……そろそろ寝るか」	「...Shall we sleep soon?」
+
+73601	Sill Plain	「はい、明日に備えて、	「Yes, to prepare for tomorrow,
+73602	+	　今夜はたっぷり寝ましょう」	　let's get plenty of sleep tonight.」
+
+73603	Rance	「うむ」	「Yeah.」
+
+73604	Rance	「だが、その前にたーっぷりと……	「But before that, let's have plenty of...
+73605	+	　ぐふふふ、覚悟しておけ」	　Gufufu, prepare yourself.」
+
+73606	Sill Plain	「あうう……こ、こんな日くらい、	「Auuu... Even on a day like this,
+73607	+	　静かに寝ましょうよぉ……」	　let's just sleep quietly...」
+
+73608	-	…………	............
+
+73609	-	……	...
+
+73610	-	ランス城の長い夜が更けていく。	The long night in Rance Castle grew deeper.

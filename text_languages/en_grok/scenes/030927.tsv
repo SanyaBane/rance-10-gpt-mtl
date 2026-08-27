@@ -1,0 +1,151 @@
+# 30927	２３０／２／食料運搬の手伝い	
+* Rance	ランス	Male
+* Kentou Kanami	かなみ	Female
+* Zeth Mage Soldier	汎用ゼス男魔法兵	Male
+* Free Cities Guard	汎用自由都市警備兵Ａ	Male
+* Sill Plain	シィル	Female
+* Satella	サテラ	Female
+* Crook Mofus	クルックー	Female
+* Miracle Tor	ミラクル	Female
+* Caloria Cricket	カロリア	Female
+
+40071	-	ゼス東部　ポルポレン――	Zeth East - Porporen--
+
+40072	-	マークから東進し、テープを抜け、	Heading east from Mark, passing through the Tape,
+40073	+	ランス達は小さな宿場町にたどり着いた。	Rance's group arrived at a small post town.
+
+40074	Rance	「お……街か。今どの辺だ？」	「Oh... a town. Where are we now?」
+
+40075	Kentou Kanami	「えーっと、テープを過ぎたから……	「Let's see, we passed the Tape so...
+40076	+	　この街の先は、ちょっと山道になるみたい。	　Beyond this town it looks like mountain roads.
+40077	+	　その先に東部の司令部があるって」	　The eastern headquarters should be up ahead.」
+
+40078	Rance	「よし、休憩するぞ」	「Alright, let's take a break.」
+
+40079	-	ランス達は、街の中へ入った。	Rance's group entered the town.
+
+40080	Zeth Mage Soldier	「無茶を言われても困る！	「Don't make unreasonable demands!
+40081	+	　こっちは命がけなんだぞ！」	　We're risking our lives here!」
+
+40082	Free Cities Guard	「そりゃこっちの台詞だよ！」	「That's my line!」
+
+40083	Rance	「…………ん？」	「............Hm?」
+
+40084	-	ゼスの軍服を着込んだ青年と、	A young man in Zeth military uniform
+40085	+	冒険者か傭兵かという風体の男がいがみあっていた。	was arguing with a man who looked like an adventurer or mercenary.
+
+40086	-	その脇には、三十台近くのうし車が並んでおり、	Nearby, nearly thirty ox carts were lined up,
+40087	+	うしたちが口々にみゃーみゃー鳴いている。	with the oxen mooing noisily.
+
+40088	Rance	「なんだなんだ。片方は……ゼス軍か」	「What's this? One side is... Zeth army.」
+
+40089	Kentou Kanami	「もう片方は……あ、あのうし車、	「The other side... Ah, those ox carts,
+40090	+	　幌にコパンドンさんとこの社章があるわ」	　have Copandon's company emblem on the covers.」
+
+40091	Zeth Mage Soldier	「だから！　護衛をつけるのは無理だと言ったろう」	「Like I said! We can't spare any escorts!」
+
+40092	Free Cities Guard	「勘弁してくれよ！　この先は前線なんだろ！？」	「Come on, cut me some slack! This is heading to the front lines, right!?」
+
+40093	Zeth Mage Soldier	「ああ。しかしそちらにはそちらの	「Yes, but you have your own
+40094	+	　護衛がいるだろう？」	　escorts, don't you?」
+
+40095	Free Cities Guard	「急病で倒れちまったんだよ！	「They all got sick and collapsed!
+40096	+	　待ってたら2、3日は遅れるぞ」	　If we wait it'll be two or three days late!」
+
+40097	Zeth Mage Soldier	「う……そ、それは困る……	「Ugh... that's a problem...
+40098	+	　前線じゃ、物資が全く無いんだ。	　The front lines have no supplies at all.
+40099	+	　そんなに遅れたら、それだけ餓死者が増える」	　Any delay means more people starving to death.」
+
+40100	Zeth Mage Soldier	「頼む、急いでくれ。	「Please, hurry.
+40101	+	　物資が届かないと……」	　If the supplies don't arrive...」
+
+40102	Free Cities Guard	「だから護衛をくれって言ってるだろーが！	「That's why I'm asking for escorts!
+40103	+	　あの辺、山賊が暴れ回ってるらしいじゃないか！	　Bandits are running wild in that area!
+40104	+	　実際にこっちも何隊かやられてるんだ」	　We've already lost several groups!」
+
+40105	Zeth Mage Soldier	「うぐ……し、しかし……そんな余裕は本当にない。	「Ugh... but we really don't have any spare men.
+40106	+	　どこもかしこも苦しいんだ」	　Everywhere is struggling.」
+
+40107	Free Cities Guard	「荷車だけで行っても、	「If we go with just the carts,
+40108	+	　届かなきゃなんにもならねーだろ！」	　it won't matter if they don't arrive!」
+
+40109	Rance	「ふーーん……」	「Hmm......」
+
+40110	Kentou Kanami	「物資の輸送か……そうよね、	「Supply transport... right,
+40111	+	　ガルティアのいる辺りは食料無いんだし……」	　the area around Galtia has no food...」
+
+40112	Sill Plain	「行き先は同じみたいですし……	「Our destination is the same...
+40113	+	　助けてあげませんか、ランス様」	　Shall we help them, Rance-sama?」
+
+40114	Rance	「ぬ……」	「Tch......」
+
+40115	Satella	「そんなヒマがあるか。	「We don't have time for that.
+40116	+	　ガルティアをまっすぐ討ち取りに行った方がいい」	　We should go straight for Galtia.」
+
+40117	Crook Mofus	「ざっと見た所、	「From what I see,
+40118	+	　この街も限界まで前線を物資に送っていますね。	　this town is already sending supplies to the limit.
+40119	+	　ここに留まっても、食料の調達は難しそうです」	　Staying here won't make food procurement any easier.」
+
+40120	Rance	「つまみ食いしてれば食うには困らんか。	「I can just snack from the cargo.
+40121	+	　まあいいだろ。おい」	　Fine. Hey you.」
+
+40122	Free Cities Guard	「あん？　なんだ、あんたらは……」	「Huh? Who the hell are you guys...?」
+
+40123	Rance	「世界総統のランス様だ。がはははは、頭が高い！」	「I am Rance, Supreme Leader of the World. Gahahahaha, bow your head!」
+
+40124	Miracle Tor	「世界の覇王となるミラクル・トーなるぞ。	「I am Miracle, who shall become the ruler of the world.
+40125	+	　凡俗が余の目の前に立てた事を光栄に思うがいい。	　You should feel honored to stand before me, mortals.
+40126	+	　はーっはっはっは！」	　Haaah hah hah hah!」
+
+40127	Free Cities Guard	「………………はあ……？」	「............Huh...?」
+
+40128	Caloria Cricket	「ランスランス。	「Rance Rance.
+40129	+	　いきなりそれじゃびっくりしちゃうよ」	　Saying that out of nowhere will scare him.」
+
+40130	Rance	「何を言う。俺のは正しい肩書きだぞ」	「What are you saying? That's my correct title.」
+
+40131	Miracle Tor	「余もだ。世界の真理……という程のことでさえない	「Same for me. It's not even a truth of the world,
+40132	+	　当然の事実だ」	　it's simply an obvious fact.」
+
+40133	Sill Plain	「あのう……護衛を探してらっしゃるんですよね？」	「Um... you're looking for escorts, right?」
+
+40134	Free Cities Guard	「あぁ、もしかして……冒険者か？	「Ah, are you... adventurers?
+40135	+	　仕事のクチを探してたりするのか」	　Looking for work?」
+
+40136	Sill Plain	「はいっ。この先の前線に用があるんです。	「Yes. We have business at the front lines ahead.
+40137	+	　行き先は近いですし、そこまでどうでしょう？」	　Our destinations match, so how about it?」
+
+40138	Free Cities Guard	「そりゃ随分と……」	「That's quite generous...」
+
+40139	Zeth Mage Soldier	「だが、助かる！　是非頼む」	「But we'd be grateful! Please help us.」
+
+40140	Caloria Cricket	「うん！　お任せだよ」	「Yeah! Leave it to us!」
+
+40141	Sill Plain	「よろしくお願いしますね。	「We'll do our best.
+40142	+	　じゃあ……あれ、ランス様は……？」	　Um... where's Rance-sama...?」
+
+40143	Rance	「うーん……おにぎりに干しプリン……	「Hmm... rice balls, dried pudding...
+40144	+	　フツーのものしかないな……」	　Nothing but normal stuff...」
+
+40145	-	ランスは物資を配達するうし車の中を、	Rance rummaged through the ox cart carrying supplies,
+40146	+	ひとつひとつ物色していた。	checking each one.
+
+40147	Rance	「うっぷ……ニンジンか。パスパス。	「Ugh... carrots. Pass.
+40148	+	　おっ、リンゴがぎっしりだ。よしここにしよう」	　Oh, this one's packed with apples. This'll do.」
+
+40149	-	ひとつのうし車の奥に転がり込み、	He rolled into the back of one cart
+40150	+	くつろぎ始める。	and started making himself comfortable.
+
+40151	Zeth Mage Soldier	「あ、あのー……それは飢えてる前線の兵士に	「Um... those are supplies for the starving soldiers at the front...
+40152	+	　届ける物資なんだが……」	　We're supposed to deliver them...」
+
+40153	Rance	「がははは、気にするな。	「Gahahaha, don't worry about it.
+40154	+	　これだけあるんだから大丈夫だろう。	　There's plenty here, it'll be fine.
+40155	+	　出発しろしろ」	　Get moving already.」
+
+40156	Free Cities Guard	「はあ……」	「Sigh...」
+
+40157	Sill Plain	「あ、あの、ごめんなさい……	「Um, sorry about this...
+40158	+	　護衛はきちんとしますので……」	　We'll properly guard you...」
+
+40159	Rance	「ではゆけ、出撃だ！」	「Then let's go! Move out!」

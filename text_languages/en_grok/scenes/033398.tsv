@@ -1,0 +1,304 @@
+# 33398	６０９／アームズと会話	route
+* Arms Arc	アームズ２	Female
+* Reset Kalar	リセット２	Female
+* Nagata-kun	長田君２	Male
+* El Mofus	エール２	Player's choice
+* Atlanta	アトランタ	Female
+
+236156	-	あなたと長田君はリセットの案内で、	Following Reset's guidance, you and Nagata-kun
+236157	+	闘神都市の酒場を訪れた。	visited a tavern in Toushin City.
+
+236158	Arms Arc	「毒を使う相手の対策を教えて欲しい？」	「You want advice on how to counter an opponent who uses poison?」
+
+236159	Reset Kalar	「はい、そうなんです」	「Yes, that's right.」
+
+236160	-	酒の入ったグラスを傾けて、	Arms tilted her glass of alcohol
+236161	+	アームズが気怠げにあなた達に顔を向けた。	and lazily turned toward you.
+
+236162	Nagata-kun	「頼りになる人って……	「The reliable person is......
+236163	+	　アームズさんだったんすか」	　Arms-san?」
+
+236164	Nagata-kun	「ま、まあ確かに頼りにはなるけど……」	「Well, she is reliable but......」
+
+236165	Arms Arc	「あのな……」	「Look here......」
+
+236166	-	アームズは頭痛でもするように、	Arms pressed her temple as if she had a headache.
+236167	+	こめかみを押さえた。	
+
+236168	Arms Arc	「私は優勝を争う対戦相手だぞ、	「I'm your rival aiming for the championship,
+236169	+	　よりにもよってどうして私に聞く」	　why the hell are you asking me of all people?」
+
+236170	Reset Kalar	「敵の特性を調べて、	「Investigate the enemy's traits,
+236171	+	　その特性に合わせた対策を練って、	　come up with tailored countermeasures,
+236172	+	　実際に実行するって……」	　and put them into practice......」
+
+236173	Reset Kalar	「こういうのが一番得意なのは、	「The person best at that,
+236174	+	　私が知る限りやっぱりアームズさんだから」	　as far as I know, is Arms-san.」
+
+236175	Arms Arc	「…………」	「............」
+
+236176	Arms Arc	「せめてそれをお世辞やおだてで言ってるなら、	「If you were at least flattering me,
+236177	+	　いっそ可愛げがあるんだがなぁ……」	　it would be a bit cuter......」
+
+236178	Arms Arc	「リセットは人を助けるのに躊躇がない分、	「Reset has no hesitation helping others,
+236179	+	　人に頼るのにも躊躇がないから恐ろしい」	　and equally no hesitation asking for help. That's terrifying.」
+
+236180	Reset Kalar	「えへへ……」	「Ehehe......」
+
+236181	Arms Arc	「しかし、よりにもよって……	「Still, of all people......
+236182	+	　敵に……」	　to your enemy......」
+
+236183	Arms Arc	「はあ、いや、いい……」	「Haa, whatever, fine......」
+
+236184	Arms Arc	「どうせ時間をかければ分かることだし、	「I'll figure it out eventually anyway,
+236185	+	　君に敗れられては、大会に誘った私も空しいしな」	　and it'd be pointless if you lose after I invited you.」
+
+236186	Arms Arc	「分かった、助言を与えよう」	「Fine, I'll give you some advice.」
+
+236187	Arms Arc	「まず、毒の対策を考えたのは正解だ。	「First, thinking about poison countermeasures was correct.
+236188	+	　魔物隊長ブロビオは毒を使用する」	　Monster Captain Brobio uses poison.」
+
+236189	Arms Arc	「それも、おそらく試合前に、だ」	「And most likely before the match.」
+
+236190	Reset Kalar	「え、でもそれって……」	「Eh, but that would......」
+
+236191	Arms Arc	「もちろん、ルール違反だ。	「Of course it's against the rules.
+236192	+	　試合中ならいざ知らず、な」	　During the match is one thing, but before......」
+
+236193	Nagata-kun	「あ、あの野郎！　許せねぇ！」	「That bastard! Unforgivable!」
+
+236194	Arms Arc	「だが証拠がない。	「But there's no proof.
+236195	+	　それを見つけるのも困難を極めるだろうな」	　Finding it would be extremely difficult.」
+
+236196	Nagata-kun	「む、むぐぐぐ……」	「Mgh, mghghgh......」
+
+236197	Nagata-kun	「じゃあどうにか毒食らうのを防がないと」	「Then we have to prevent getting poisoned somehow.」
+
+236198	Arms Arc	「日常生活の中に潜む毒の脅威。	「The threat of poison hidden in daily life.
+236199	+	　こういうのを防ぐのは困難だ。	　Preventing that is difficult.
+236200	+	　大体、どんな毒を使用するかも読めてないしな」	　We don't even know what kind of poison he uses.」
+
+236201	Nagata-kun	「うむむむ……厄介だなぁ……」	「Ugh...... This is troublesome......」
+
+236202	Nagata-kun	「毒かあ……	「Poison, huh......
+236203	+	　アームズさんならこういう時どうします？」	　What would you do in this situation, Arms-san?」
+
+236204	Arms Arc	「どうもしない。	「I wouldn't do anything.
+236205	+	　私の防具には防毒の効果が付与されている。	　My armor has anti-poison effects.
+236206	+	　最初からどんな毒も効かないんだ」	　No poison works on me from the start.」
+
+236207	Nagata-kun	「うはっ、すご。	「Whoa, amazing.
+236208	+	　……でも参考にはならないなぁ」	　...But that's not helpful for us.」
+
+236209	El Mofus	「…………。」	「............」
+236210	Arms Arc	「君なぁ……」	「You really......」
+
+236211	-	あなたはアームズに呆れられてしまった。	You were looked at with exasperation by Arms.
+
+236212	Arms Arc	「残念ながら、これは一品物だ。	「Unfortunately this is one-of-a-kind.
+236213	+	　手に入れようと思っても……	　Even if you wanted one......
+236214	+	　少なくとも明日の試合には間に合わないな」	　It won't be ready in time for tomorrow's match.」
+
+236215	Arms Arc	「はあ……仕方ない……	「Haa...... Can't be helped......
+236216	+	　リセットには随分と前に	　I owe Reset a big favor from before......」
+236217	+	　助けられた恩があるしな……」	
+
+236218	Arms Arc	「これは大サービスだぞ。	「This is a huge service.
+236219	+	　どくどく薬を手に入れてこい」	　Go get the 'Doku Doku Medicine'.」
+
+236220	Nagata-kun	「どくどく薬？」	「Doku Doku Medicine?」
+
+236221	Arms Arc	「これは毒を防ぐ効果こそないが、	「It doesn't prevent poison,
+236222	+	　毒を受けてもすぐ回復する薬だ。	　but if you get poisoned it heals you quickly.
+236223	+	　それを試合前に飲んでおけば大丈夫だろう」	　Drink it before the match and you should be fine.」
+
+236224	Arms Arc	「試練迷宮の七階にぽつんと店があるだろう？	「There's a lone shop on the seventh floor of the Trial Labyrinth, right?
+236225	+	　あそこに売っているから買ってくるといい」	　Buy it there.」
+
+236226	Nagata-kun	「…………」	「............」
+
+236227	Arms Arc	「ん？　どうした？」	「Hm? What's wrong?」
+
+236228	Nagata-kun	「いや、試練迷宮に地下七階なんかあるんすか？」	「Wait, the Trial Labyrinth has a seventh underground floor?」
+
+236229	Arms Arc	「なに？　＜エール＞の実力なら、	「What? With ＜エール＞'s ability,
+236230	+	　そこまで行くのは簡単だろう？」	　reaching there should be easy, right?」
+
+236231	Nagata-kun	「＜エール＞？」	「＜エール＞？」
+
+236232	-	あなたは行ったことがない。	You had never been there.
+236233	+	首を横に振った。	You shook your head.
+
+236234	Nagata-kun	「いや、その……	「No, um......
+236235	+	　試練迷宮って……」	　The Trial Labyrinth......
+
+236236	Nagata-kun	「……二階で終わりじゃないんすか？」	　...doesn't it end at the second floor?」
+
+236237	-	　	　
+236238	+	　　＜ぷちっ！＞	　　＜Snap!＞
+
+236239	-	どこかで何かが切れた音がした。	Something somewhere snapped.
+
+236240	Arms Arc	「お前ら……」	「You guys......」
+
+236241	Arms Arc	「ついてこい……」	「Follow me......」
+
+236242	Nagata-kun	「ひいっ！？　なんか怒ってる！」	「Hii!? She's mad!」
+
+236243	-	試練迷宮、地下二階――	Trial Labyrinth, Underground Second Floor――
+
+236244	-	あなた達は半ば無理矢理、	You were half-forcibly
+236245	+	試練迷宮の中に連れてこられた。	dragged into the Trial Labyrinth.
+
+236246	Arms Arc	「君はアレだな……	「You're that type......
+236247	+	　能力こそズバ抜けているが、	　Your abilities are outstanding,
+236248	+	　こういうのは致命的に不得意だな」	　but you're fatally bad at this kind of thing.」
+
+236249	Arms Arc~	（この辺は冒険者としての未熟さ故かな……）	（This must be due to inexperience as an adventurer......）
+
+236250	Arms Arc	「大体、情報は全てにおいて命だ。	「Information is life in every situation.
+236251	+	　毎日、用がなくても酒場に来い、	　Visit the tavern every day even if you have nothing to do,
+236252	+	　有益な情報は大抵酒場に転がっているものだ」	　useful information is usually found there.」
+
+236253	Nagata-kun	「そ、そんなもんすか？」	「I, is that how it is?」
+
+236254	Nagata-kun	「あ、ほらほら、向こうの橋。	「Ah, look, the bridge over there.
+236255	+	　途中で切れてるんすよ、	　It's broken in the middle,
+236256	+	　これじゃ渡れないでしょ？　ね？」	　we can't cross like this, right?」
+
+236257	Arms Arc	「ね？　じゃない」	「Not 'right?'」
+
+236258	Arms Arc	「＜エール＞、溺れないから安心しろ」	「＜エール＞, you won't drown so relax.」
+
+236259	-	ドンッ！	Thud!
+236260	+	あなたは後ろからアームズに	Arms pushed you from behind
+236261	+	水の中に叩き落とされた。	and you were thrown into the water.
+
+236262	Reset Kalar	「わっ！　＜エール＞ちゃん！？」	「Wah! ＜エール＞-chan!?」
+
+236263	Nagata-kun	「って、あれ？　無事？」	「Wait, huh? You're okay?」
+
+236264	-	どうやら思ったよりもここは深くないようだ。	It seemed the water wasn't as deep as expected.
+236265	+	あなたの足は水の中の地面についていた。	Your feet touched the bottom.
+
+236266	Arms Arc	「こっそりと浅瀬の道も用意されてるんだ。	「There's a hidden shallow path.
+236267	+	　そこを歩いて渡って、終点にある	　Walk across it, and at the end
+236268	+	　ハンドルを回せば橋が現れるって仕掛けだ」	　turn the handle to make the bridge appear.」
+
+236269	Nagata-kun	「むむむ、こんな謎解き要素があったなんて」	「Mumumu, I didn't know there were puzzle elements like this.」
+
+236270	Arms Arc	「……うーん」	「......Hmm.」
+
+236271	Nagata-kun	「よっしゃー、行ってみようぜ！　＜エール＞！」	「Alright, let's try it! ＜エール＞!」
+
+236272	Nagata-kun	「ガボガボガボ！　ぶぎゃー！	「Glub glub glub! Gyaaah!
+236273	+	　結構深いー！」	　It's pretty deep!」
+
+236274	Arms Arc	「そうだな、案外深いぞ。	「Yeah, surprisingly deep.
+236275	+	　リセットには無理だろうから、	　Reset probably can't do it,
+236276	+	　この子は私が連れて行こう」	　I'll carry her.」
+
+236277	Reset Kalar	「わっ、わっ！？」	「Wah, wah!?」
+
+236278	-	アームズが水の上に降り立った。	Arms stepped onto the water.
+
+236279	Nagata-kun	「ええええ！？　水の上に浮いてるー！？」	「Ehhhh!? She's floating on water!?」
+
+236280	Arms Arc	「ふふん、防水のタリスマンだ。	「Fufun, it's a waterproof talisman.
+236281	+	　私は水の中に沈まないんだ」	　I don't sink.」
+
+236282	Arms Arc	「では先に橋の向こうで待っている」	「I'll wait on the other side of the bridge.」
+
+236283	Reset Kalar	「あ、じゃあ、＜エール＞ちゃん、長田君、	「Ah, then ＜エール＞-chan, Nagata-kun,
+236284	+	　また後でねー」	　see you later~」
+
+236285	Nagata-kun	「うわぁ、いいなぁ、めちゃ楽しそう！」	「Whoa, nice! Looks super fun!」
+
+236286	-	アームズはリセットをお姫様抱っこして、	Arms princess-carried Reset
+236287	+	まるでスケートのように	and glided across the water surface
+236288	+	すいーっと水面を滑って行ってしまった。	like she was skating.
+
+236289	Nagata-kun	「ガボガボガボ！　って死ぬー！	「Glub glub glub! I'm gonna drown!
+236290	+	　＜エール＞ー！　助けてー！」	　＜エール＞! Save me!」
+
+236291	-	あなたは長田君を背負いながら、	While carrying Nagata-kun on your back,
+236292	+	浅瀬を渡ってハンドルを回し、	you crossed the shallows, turned the handle,
+236293	+	次の階層への道を開いた。	and opened the path to the next floor.
+
+236294	-	試練迷宮、地下三階――	Trial Labyrinth, Underground Third Floor――
+
+236295	Nagata-kun	「水ステージの下に森が広がっているって、	「A forest under the water stage,
+236296	+	　よく分からんなここ……まあいいけど」	　this place is weird... but whatever.」
+
+236297	-	試練迷宮、地下四階――	Trial Labyrinth, Underground Fourth Floor――
+
+236298	-	その後もあなた達は地下を進み続け――	You continued advancing underground――
+
+236299	-	試練迷宮、地下五階――	Trial Labyrinth, Underground Fifth Floor――
+
+236300	-	時には仕掛けを解き――	Solving puzzles along the way――
+
+236301	-	試練迷宮、地下六階――	Trial Labyrinth, Underground Sixth Floor――
+
+> male
+236302	Atlanta	「おーほっほっほっ、可愛い坊やね。	「Ohohohoho, what a cute boy.
+236303	+	　でも男はいらないの、殺してあげる」	　But I don't need men, so I'll kill you.」
+
+> female
+236304	Atlanta	「おーほっほっほっ、可愛いお嬢ちゃんね。	「Ohohohoho, what a cute young lady.
+236305	+	　あなたも私のコレクションに加えてあげる」	　I'll add you to my collection too.」
+
+> end
+236306	Atlanta	「あいたーーーっ！」	「Ouch-----!」
+
+236307	-	たまにアトランタを倒したりしながら、	Occasionally defeating Atlanta along the way,
+236308	+	次々と奥に進んでいった。	you advanced deeper and deeper.
+
+236309	Atlanta	「お、おほほほ……	「O, ohohoho......
+236310	+	　次の闘神都市で会いましょー……」	　Let's meet again in the next Toushin City......」
+
+236311	-	試練迷宮、地下七階――	Trial Labyrinth, Underground Seventh Floor――
+
+236312	-	店内――	Inside the shop――
+
+236313	?	「はいよ、どくどく薬だね、確かに。	「Here you go, Doku Doku Medicine, confirmed.
+236314	+	　毎度ありー」	　Thanks for your business~」
+
+236315	-	ついに、あなたは無事薬を買うことに成功した。	You finally succeeded in buying the medicine safely.
+
+236316	Reset Kalar	「おかえり、＜エール＞ちゃん」	「Welcome back, ＜エール＞-chan.」
+
+236317	Nagata-kun	「お、薬は買えたか」	「Oh, you got the medicine?」
+
+236318	Nagata-kun	「はあ、しかし思わず大冒険になったな」	「Haa, that turned into quite the big adventure.」
+
+236319	El Mofus	「…………。」	「............」
+236320	Reset Kalar	「＜エール＞ちゃんが店に入るのを確認したら、	「After confirming ＜エール＞-chan entered the shop,
+236321	+	　先に帰っちゃった」	　Arms went home first.」
+
+236322	Nagata-kun	「お礼言いそびれちまったなぁ」	「We didn't get to thank her.」
+
+236323	Nagata-kun	「うーん……」	「Hmm......」
+
+236324	Nagata-kun	「それにしても、すごい余裕っすね、	「Still, Arms-san sure is relaxed,」
+236325	+	　アームズさん」	
+
+236326	Nagata-kun	「敵である俺達にもこんな手助けして、	　helping us even though we're enemies,
+236327	+	　ここへの道もすいすい進んで……」	　and guiding us so smoothly......」
+
+236328	Reset Kalar	「まあ、アームズさんはベテランさんだしね」	「Well, Arms-san is a veteran after all.」
+
+236329	Nagata-kun	「このまま勝ち進んだら、	「If we keep winning,
+236330	+	　あの人とも戦うんだよな……」	　we'll have to fight her eventually......」
+
+236331	Nagata-kun	「…………」	「............」
+
+236332	Nagata-kun	「ま、まあいいや！	「W, well whatever!
+236333	+	　今はそれよりも魔物隊長ブロビオ！	　Right now we focus on Monster Captain Brobio!
+236334	+	　明日の試合に集中しようぜ！」	　Let's concentrate on tomorrow's match!」
+
+236335	Reset Kalar	「そうだね。	「Yeah.
+236336	+	　それじゃあ今日はもう帰り木で帰ろうー」	　Let's go home with the return branch today~」
+
+236337	-	リセットがパキンと帰り木の枝を折り、	Reset snapped the return branch,
+236338	+	あなた達は闘神都市へと戻っていった。	and you all returned to Toushin City.
