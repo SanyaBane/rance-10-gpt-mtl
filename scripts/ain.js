@@ -15,9 +15,11 @@ import * as path from "path";
 import {spawnSync} from "child_process";
 import {AIN} from "../modules/AinFiles.js";
 import {alice, run} from "../modules/AliceTools.js";
+import {checkCardBack} from "../modules/CardBack.js";
 import {ENEMY_PARTY_JAF, renderEnemyPartyNamesJaf} from "../modules/EnemyPartyNames.js";
-import {ROOT} from "../modules/Env.js";
+import {ensureBuild, ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
+import {ORGANIZATION_JAF, renderOrganizationNamesJaf} from "../modules/OrganizationNames.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
 import {isTranslated, regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
 
@@ -93,6 +95,49 @@ run(async () => {
         + (features.length > 0 ? ` with: ${features.join(", ")}` : " with no optional features"));
 
     /*
+     * The two .jam that replace the back of a card have to say the same thing
+     * about the parts they share, because alice-tools applies whichever comes
+     * last and each therefore has to be right on its own. Checked here, for the
+     * same reason the features are read here: it is a mistake in this
+     * repository, and a minute of dialogue would otherwise go by first.
+     */
+    await checkCardBack();
+
+    /*
+     * The faction on the back of a card, which is neither only translation nor
+     * only a feature: patches/card_back_names.jam draws it and so does the copy
+     * inside features/base-stats-on-card, so the function has to be there for a
+     * Japanese build with that feature as much as for an English one. Rendered
+     * with the game's own words when there is no translation, so that build's
+     * card back is what it always was.
+     *
+     * Only when the build applies something at all. --text-lang=jp with no
+     * features is the game's own .ain byte for byte, and one unused function
+     * would be one byte too many.
+     */
+    const shared = [];
+    if (isTranslated(textLang) || features.length > 0) {
+        /*
+         * The first thing in this entry point to write into build/, and on a
+         * --text-lang=jp run the only thing: the dialogue generator that used
+         * to make that directory for everybody is a child process further down,
+         * and it does not run at all without a translation.
+         */
+        ensureBuild();
+        const rendered = await renderOrganizationNamesJaf({japanese: !isTranslated(textLang)});
+        await fs.writeFile(ORGANIZATION_JAF, rendered.text, "utf-8");
+        /* Its own verb, unlike the two above: a Japanese build translates nothing here. */
+        console.log(rendered.report);
+        for (const complaint of rendered.misnamed) {
+            console.warn(`  ${complaint}`);
+        }
+        for (const japanese of rendered.stale) {
+            console.warn(`  the game has no faction called ${JSON.stringify(japanese)}`);
+        }
+        shared.push("--jaf", path.relative(ROOT, ORGANIZATION_JAF));
+    }
+
+    /*
      * Everything below the features is translation, and the Japanese is the
      * absence of one: no dialogue to render, no race names to generate, and
      * none of the three patches that write English into the .ain. What is left
@@ -140,6 +185,16 @@ run(async () => {
              */
             "--jam", "patches/enemy_panel_cards.jam",
             /*
+             * The faction on the back of a card. Its OrganizationEnglishName is
+             * in the generated .jaf above, which is passed ahead of every .jam
+             * here. features/base-stats-on-card carries this same body plus a
+             * block of its own and, being a feature, is applied after -- so
+             * that copy is the one that runs whenever the feature is built in.
+             * modules/CardBack.js is why they are two files and what keeps them
+             * agreed.
+             */
+            "--jam", "patches/card_back_names.jam",
+            /*
              * The four states the battle log names. A .jam rather than three more
              * lines of text because one of the four, ダウン, is a slot the enemy AI
              * conditions are compared against -- the file says which and why.
@@ -158,6 +213,7 @@ run(async () => {
     }
     return alice([
         "ain", "edit",
+        ...shared,
         ...english,
         ...featureArgs(features),
         "-o", "{game}/Rance10.ain",

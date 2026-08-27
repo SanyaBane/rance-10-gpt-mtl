@@ -330,8 +330,9 @@ glossary's english column wherever the two disagree.
 
 Not blindly, though. That map is written for **prose**, where a character is
 introduced by their full name, and the plate has room for neither the surname
-nor the honorific: 35 of its entries would put `Lv37 Agireda Kosabusshi Zonna
-Abona` on a plate drawn for 22 units. So an entry is taken only when it is a
+nor the honorific: 24 of its entries would put a label like `Lv37 Agireda
+Kosabusshi Zonna Abona` — 35 units on a plate drawn for 22 — where the glossary
+already has a name that fits. So an entry is taken only when it is a
 **respelling** — `Saizel` → `Seizel`, `Girl Ban` → `Galban` — and refused when
 it merely wraps the glossary's name in more words, on either end:
 
@@ -339,10 +340,17 @@ it merely wraps the glossary's name in more words, on either end:
 |---|---|
 | `Yozefu` → `Yosif` | `Eleanor` → `Eleanor Ran` |
 | `Sultan` → `Sorutoan` | `Masamune` → `Dokuganryuu Masamune` |
-| `Frostvine` → `Frostbyne` | `Crook` → `Ms. Crook` |
+| `Frostvine` → `Frostbyne` | `Full` → `Full Kalar` |
 
-Today that takes 8 and refuses 25. The comparison is by whole words, so
-`Caroli` → `Carolie` still counts as a respelling rather than a wrap.
+Today that takes 0 and refuses 24 — every place the two files still disagree is
+a wrap. The kept column is history rather than a live case: all eight
+respellings the rule used to take were written into the glossary itself in
+`0ed55b8e` and `ba2d5159`, once it was clear that in each one the plate table,
+the card's `フルネーム` and the dialogue already agreed and only the glossary
+stood apart. So a count of 0 means there is nothing left to respell, not that
+the rule stopped working — the next edit that lets the two files drift apart
+puts it back above zero. The comparison is by whole words, so `Caroli` →
+`Carolie` still counts as a respelling rather than a wrap.
 
 The rule replaced a hand-written exception list, which it happens to subsume:
 `子供ナギ` is "Nagi" in the map, and taking that would make the child and the
@@ -353,7 +361,7 @@ collision instead of merely reporting it. The generator still warns whenever an
 override newly hands two glossary keys the same English name, since nothing
 guarantees the next one will be caught by the wrap rule.
 
-The glossary is only ever overridden, never extended. The dialogue map holds 72
+The glossary is only ever overridden, never extended. The dialogue map holds 90
 names the glossary does not, but they are places, factions and alternate
 spellings rather than card subjects — and one of them, `魔人`, is an *affix*.
 Adding it as a character name would put it in the substring scan competing with

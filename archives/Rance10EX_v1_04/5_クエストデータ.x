@@ -9532,7 +9532,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "メリムが居る",
-					説明 = "When Merim was possessed",
+					説明 = "If Merim is present",
 				},
 				分岐前 = {
 					！条件 = "メリムが居る",
@@ -11806,7 +11806,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ちぬ",
-					説明 = "Even dragon-class foes\ninstantly die with a single hit.\nSuch a wonderful poison\nyou've prepared☆",
+					説明 = "Even dragon-class foes\ndrop dead on the spot!\nI'll prepare such a\nlovely poison for you☆",
 					背景 = "ＪＡＰＡＮ街道",
 					地名 = "ＪＡＰＡＮ",
 					音楽 = "フィールド／ＪＡＰＡＮ",
@@ -12388,7 +12388,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Com.plete.Vic.to.ry!",
+					説明 = "TO-TAL VIC-TO-RY!",
 				},
 			},
 		},
@@ -17194,7 +17194,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐右 = {
 					条件 = "条件成立",
-					説明 = "Side with the demon god.",
+					説明 = "Side with Fiend.",
 					フラグ = "達成／Ｂペルエレ＝１",
 				},
 				分岐前 = {
@@ -25117,7 +25117,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "メリムが居る",
-					説明 = "When Merim was possessed",
+					説明 = "If Merim is present",
 				},
 				分岐右 = {
 					！条件 = "メリムが居る",
@@ -26148,7 +26148,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "メリムが居る",
-					説明 = "When Merim was possessed",
+					説明 = "If Merim is present",
 				},
 				分岐右 = {
 					！条件 = "メリムが居る",
@@ -31524,7 +31524,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "政宗",
-					説明 = "We're approaching the\nDeath Country soon. Be\ncareful.",
+					説明 = "We're almost at\nLand of the Dead.\nWatch yourself.",
 				},
 			},
 		},

@@ -21,7 +21,7 @@
  * synopsis, and that is the point rather than an overreach. A word is one word
  * per game or it is two names for one thing: 聖骸闘将 is a boss whose HP bar and
  * whose synopsis caption should not disagree, and they did, one calling it a
- * Holy Corpse Tousho and the other a Holy Corpse Fighting General.
+ * Holy Skeletal Tousho and the other a Holy Corpse Fighting General.
  *
  * Nothing here is a verdict. A caption fits twenty full-width characters and a
  * panel is often full, so "the enemy" for 魔軍 is the panel's doing rather than a

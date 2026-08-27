@@ -61,12 +61,26 @@ const readTextLang = async (name) => {
 };
 
 /**
+ * A folder with nothing in it holds no text, so it is not a text language at
+ * all -- an editor's leftover, or a folder made before anything was written
+ * into it. Skipped rather than reported, because an empty folder is nobody's
+ * translation and the alternative is that one stops every build of every other
+ * language, which is a long way from the mistake a missing manifest is.
+ *
+ * A folder with files in it and no manifest still is that mistake, and still an
+ * error: a release with no --text-lang builds what this list holds, so a
+ * translation that fell out of it is one silently left out of the release.
+ */
+const isEmpty = (name) => fs.readdirSync(path.join(TEXT_LANGS_DIR, name)).length === 0;
+
+/**
  * Every text language there is, by name. Sorted, because readdir's order is the
  * filesystem's and this decides the order a release folder is built in.
  */
 export const TEXT_LANGS = Object.fromEntries(await Promise.all(fs.readdirSync(TEXT_LANGS_DIR, {withFileTypes: true})
     .filter(entry => entry.isDirectory())
     .map(entry => entry.name)
+    .filter(name => !isEmpty(name))
     .sort()
     .map(readTextLang)));
 

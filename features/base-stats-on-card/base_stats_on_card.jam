@@ -1,0 +1,452 @@
+; What each card is worth at ★0, in brackets beside the numbers its rank has
+; grown that into -- "(150) 390" where the card back used to say only "390".
+;
+; Half of a feature a build can leave out; the other half is the switch,
+; base_stats_on_card.jaf beside it, and feature.js in this folder names the
+; pair.
+;
+; The figure is the ＨＰ / ＡＴＫ column of archives/Rance10EX_v1_04/8_カードデータ.x
+; times five, five being what CalcTotalHp multiplies by at star 0. So it is a
+; real state of the card rather than a coefficient, and at ★0 it equals the live
+; number beside it exactly. docs/card-base-stats.md has why that figure rather
+; than the column itself.
+;
+; WHAT THE GAME DOES. Every card's displayed HP and ATK is one formula over
+; that column, PlayerCard@CalcTotalHp / @CalcTotalAtk (FUNC 28154 / 28153):
+;
+;     total = (base + 10 * (starRank - 1)) * (5 + star) * (1 + 0.1 * (count - 1))
+;
+; star is the *character's* rank, shared by every card of that character;
+; starRank is the tier it falls in (1 under ★10, then 20, 40, 80, 160, else 6);
+; count is how many copies of the card you hold, capped at 重ね上限 + 1 = 11. The
+; multiplier is the same for every card in the game, so the column in the table
+; is the whole of what tells two characters apart -- and it is the one number
+; the game never shows. docs/card-base-stats.md has the derivation and the
+; check against a screenshot.
+;
+; WHY THIS FUNCTION. CardConstructProcessCacheBackCard@Create is the back
+; face's base layer: it blends the frame, the art and the three text lines
+; (Element, Belong and the card's name), and hands the finished array to
+; m_proc keyed by the card Id. Two things follow.
+;
+; It already holds a FontProperty -- local 7, `fp` -- and already calls
+; ConstructProcess::BlendText through it three times, so the addition needs no
+; local this function was not compiled with, which is the one thing a .jam
+; cannot arrange. The format string is built on the stack the way the layers
+; above build theirs, S_PUSH "(%d)" + S_MOD 2, so it needs no string local
+; either.
+;
+; And the cache key is the card Id, which is exactly what the figure depends
+; on -- the ×5 is a constant, so nothing here moves with the rank. So the
+; bracket is rendered once per card per session, where the rank, the copy count
+; and the two live numbers are in @CreateStatus, which runs on every draw. That
+; is also the one wart: g_cardCache is a global, so creating or deleting the
+; switch file mid-session leaves any card already drawn showing what it was
+; drawn with. Everything else about the switch takes effect at once; this one is
+; effectively read at launch.
+;
+; WHY A .jam. alice-tools' .jaf compiler cannot express any of it. Probed
+; against this .ain, it answers:
+;
+;     card.Hp                            Invalid struct member name: Hp
+;     fp.SetSize(20)                     Invalid struct member name: SetSize
+;     array<CASConstructionProcess> a;   Unresolved typedef
+;     p = ConstructProcess::BlendText()  Invalid type as lvalue: struct
+;
+; -- properties, struct methods, and arrays of struct are all out of reach, and
+; they are the whole of what drawing a line on this card is. So the body below
+; is FUNC 23037 verbatim, from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; with the tail added, and CALLFUNC resolves BaseStatsOnCardEnabled by name --
+; which means alice-tools has to be handed the .jaf *first*, the order
+; feature.js lists them in. Regenerate the body the same way if the game
+; version changes: every number here is an index into one build of one .ain.
+;
+; THE TRANSLATION IN HERE IS NOT PART OF THE FEATURE. The body also draws the
+; faction in English, which is patches/card_back_names.jam's job -- and it has
+; to be in here as well, because alice-tools applies the last --jam it is given
+; and scripts/ain.js hands it the features after the English. With this feature
+; built in, this file is the copy that runs and that one is overwritten whole;
+; leave the feature out and the roles swap. So the two files carry the same
+; body, marked below in two regions that modules/CardBack.js compares byte for
+; byte at the start of every build. Edit one and the build stops until the other
+; says the same thing. What is between the two regions is this feature, and is
+; the only thing the two files disagree about.
+;
+; WHERE THE TEXT GOES. The card is 208x312 -- ConstructProcess::CreateBase says
+; so -- and the overlay CG シス／カード／詳細 draws the two labels at x 16..44,
+; with the rows banded y 112..138 and y 138..165. @CreateStatus right-aligns
+; the live numbers at x=196. So the brackets are left-aligned at x=48, centred
+; on each band at y=125 and y=151 (origin 4: left, middle), which leaves the
+; live number the whole of the rest of the row to grow leftwards into. At font
+; size 20 the widest bracketed figure anything reaches, "(15000)" -- ＡＬＩＣＥ and
+; ネプラカス are the only cards over 2000 in a column -- is about 103px against
+; the 148 between the label and x=196, so it meets the live number only where
+; that number is six digits, which on those cards means a rank in the hundreds.
+;
+; The origin argument is a numpad: 1,4,7 left / 2,5,8 centre / 3,6,9 right for
+; x, and 1,2,3 bottom / 4,5,6 middle / 7,8,9 top for y. It reads backwards from
+; the two switch tables in ConstructProcess::BlendText (FUNC 23076), which
+; adjust local 3 -- y -- first and local 2 -- x -- second.
+;
+; Only this face changes. The front of the card and the 統合部隊DATA face are
+; CardConstructProcessCacheFront and CardConstructProcessCacheBackCardListInfo,
+; separate classes with caches of their own, and neither shows HP or ATK at all.
+;
+; Item cards go through here too, and most of them carry 0 in both columns --
+; so an item reads "(0) 0", which is what it already read minus the brackets.
+; No branch for it: the live number is drawn unconditionally by the game
+; itself, and matching that is cheaper than a special case.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ" -- and an
+; editor that defaults .jam to UTF-8-with-BOM will quietly put one back.
+; >>>>>> SHARED CARD-BACK BODY -- HEAD
+FUNC 23037
+	.LOCALREF proc
+	CALLHLL Array Free 13
+	.LOCALREF orgName
+	.LOCALREF card
+	PUSH 28097
+	CALLMETHOD 0
+	CALLFUNC getOrganizationNameFromId
+	S_ASSIGN
+	DELETE
+	.LOCALREF proc
+	CALLFUNC ConstructProcess::CreateBase
+	CALLHLL Array PushBack 13
+	.LOCALREF card
+	PUSH 28121
+	CALLMETHOD 0
+	IFNZ 0x357b68
+	JUMP 0x357d1c
+0x357b68:
+	.LOCALREF proc
+	S_PUSH "シス／カード／下地／%s所属／アイテム"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF cgName
+	S_PUSH "カード／アイテム／"
+	.LOCALREF card
+	PUSH 28105
+	CALLMETHOD 0
+	CALLFUNC AlternativeImage::GetCg
+	S_ASSIGN
+	DELETE
+	.LOCALREF proc
+	.LOCALREF cgName
+	A_REF
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／枠／%s所属／アイテム"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／詳細"
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／下地／%s所属"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／%s"
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementNameFromId
+	S_MOD 4
+	PUSH 9
+	PUSH 9
+	CALLFUNC ConstructProcess::BlendCgMaxAlpha
+	CALLHLL Array PushBack 13
+	JUMP 0x357e6e
+0x357d1c:
+	.LOCALREF proc
+	S_PUSH "シス／カード／下地／%s所属"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "カード／%s"
+	.LOCALREF card
+	PUSH 28105
+	CALLMETHOD 0
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／詳細"
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／下地／%s所属"
+	.LOCALREF orgName
+	A_REF
+	S_MOD 4
+	PUSH 0
+	PUSH 0
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "シス／カード／属性／%s"
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementNameFromId
+	S_MOD 4
+	PUSH 9
+	PUSH 9
+	CALLFUNC ConstructProcess::BlendCg
+	CALLHLL Array PushBack 13
+0x357e6e:
+	.LOCALASSIGN r 0
+	.LOCALASSIGN g 0
+	.LOCALASSIGN b 0
+	.LOCALCREATE fp FontProperty
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 25
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	PUSHLOCALPAGE
+	PUSH 4
+	PUSHLOCALPAGE
+	PUSH 5
+	PUSHLOCALPAGE
+	PUSH 6
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementColor
+	.LOCALREF fp
+	PUSH 29393
+	.LOCALREF r
+	.LOCALREF g
+	.LOCALREF b
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>"
+	.LOCALREF proc
+	.LOCALREF card
+	PUSH 28099
+	CALLMETHOD 0
+	CALLFUNC getElementNameFromId
+	.LOCALREF fp
+	A_REF
+	PUSH 84
+	PUSH 41
+	PUSH 5
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+	PUSHLOCALPAGE
+	PUSH 4
+	PUSHLOCALPAGE
+	PUSH 5
+	PUSHLOCALPAGE
+	PUSH 6
+	.LOCALREF card
+	PUSH 28097
+	CALLMETHOD 0
+	CALLFUNC getOrganizationColor
+	.LOCALREF fp
+	PUSH 29393
+	.LOCALREF r
+	.LOCALREF g
+	.LOCALREF b
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>#1"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#1"
+; --- changed: the faction drawn in English, at 20 rather than 25 --------------
+;
+; The three lines this replaces were
+;
+;   .LOCALREF proc / .LOCALREF orgName / A_REF
+;
+; -- the same local the five CG names above are built out of. Calling
+; OrganizationEnglishName with the raw 所属 id instead leaves that local alone,
+; so シス／カード／下地／%s所属 and its four siblings still resolve in Japanese and
+; only the drawn word changes. build/organization_names.jaf defines the
+; function, rendered from glossaries/organization_name_glossary.tsv, and returns
+; the game's own word for anything the glossary does not name -- and for every
+; faction in a --text-lang=jp build, which is what lets this same file be the
+; one applied there.
+;
+; The size drops to 20 for this one line and goes back to 25 straight after,
+; because the card's name below is drawn with the same FontProperty and wants
+; the 25. At 25 three of the ten factions run back over the "Belong" label --
+; "Demi-human" is 160px against the 131 between the label and x=198. Nothing
+; clips, so that would be an overlap rather than a truncation.
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 20
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	.LOCALREF proc
+	.LOCALREF card
+	PUSH 28097
+	CALLMETHOD 0
+	CALLFUNC OrganizationEnglishName
+	.LOCALREF fp
+	A_REF
+	PUSH 198
+	PUSH 86
+	PUSH 9
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 25
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+; --- end of the change --------------------------------------------------------
+	.LOCALREF fp
+	PUSH 29393
+	PUSH 255
+	PUSH 255
+	PUSH 255
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	.LOCALREF proc
+	.LOCALREF card
+	PUSH 28089
+	CALLMETHOD 0
+	.LOCALREF fp
+	A_REF
+	PUSH 105
+	PUSH 289
+	PUSH 5
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+; <<<<<< SHARED CARD-BACK BODY -- HEAD
+; --- added: the two bracketed figures --------------------------------------
+;
+;   CALLFUNC BaseStatsOnCardEnabled   is the switch file there
+;   IFZ skip_base_stats               no: leave the card as the game draws it
+;   fp.SetSize(20)                    smaller than the 25 the labels above use
+;   fp.SetColorBody(130, 200, 235)    and a colour no live number is drawn in
+;   proc.PushBack(BlendText("(%d)" % (card.Hp  * 5), fp, 48, 125, 4))
+;   proc.PushBack(BlendText("(%d)" % (card.Atk * 5), fp, 48, 151, 4))
+;
+; PlayerCard@Hp::get is FUNC 28091 and @Atk::get is 28093 -- the raw column,
+; before CalcTotalHp does anything to it. Their #1 twins (28092 / 28094) are the
+; compiler's rvalue copies and are not what CalcTotalHp itself calls.
+;
+; The five is CalcTotalHp's own multiplier at star 0: (5 + star) is 5 there, and
+; the tier bonus is 0 with it, so base * 5 is exactly what the card shows at ★0.
+; Which is the point of multiplying at all. The bare column is a coefficient --
+; a number the game displays nowhere, at no rank -- and a bracket holding one
+; has to be explained before it means anything. base * 5 is a state the card
+; really passes through, so at ★0 the row reads "(150) 150" and says what the
+; bracket is without being told. It costs one digit and reorders nothing: five
+; is a constant, so which card is worth more is the same question either way.
+;
+; The two SetSize / SetColorBody dummies are locals 8 and 11, which the function
+; above has already assigned and deleted, so reusing them by name costs nothing
+; and adds no slot. Nothing after this point reads fp, so leaving it at size 20
+; and blue is safe -- the card's own name was blended white at 25 above.
+	CALLFUNC BaseStatsOnCardEnabled
+	IFZ skip_base_stats
+	.LOCALREF fp
+	PUSH 29387
+	PUSH 20
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetSizeの戻り値>"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	.LOCALREF fp
+	PUSH 29393
+	PUSH 130
+	PUSH 200
+	PUSH 235
+	CALLMETHOD 3
+	.STACK_LOCALASSIGN "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	POP
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	.LOCALREF proc
+	S_PUSH "(%d)"
+	.LOCALREF card
+	PUSH 28091
+	CALLMETHOD 0
+	PUSH 5
+	MUL
+	S_MOD 2
+	.LOCALREF fp
+	A_REF
+	PUSH 48
+	PUSH 125
+	PUSH 4
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+	.LOCALREF proc
+	S_PUSH "(%d)"
+	.LOCALREF card
+	PUSH 28093
+	CALLMETHOD 0
+	PUSH 5
+	MUL
+	S_MOD 2
+	.LOCALREF fp
+	A_REF
+	PUSH 48
+	PUSH 151
+	PUSH 4
+	CALLFUNC ConstructProcess::BlendText
+	CALLHLL Array PushBack 13
+skip_base_stats:
+; --- end of the addition ---------------------------------------------------
+; >>>>>> SHARED CARD-BACK BODY -- TAIL
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#2"
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>#1"
+	.LOCALDELETE "<dummy : FontProperty@SetColorBodyの戻り値>"
+	.LOCALDELETE "<dummy : FontProperty@SetSizeの戻り値>"
+	.LOCALDELETE fp
+	.STRUCTREF CardConstructProcessCacheBackCard m_proc
+	PUSH 35893
+	.LOCALREF card
+	PUSH 28086
+	CALLMETHOD 0
+	.LOCALREF proc
+	A_REF
+	CALLMETHOD 2
+	RETURN
+ENDFUNC CardConstructProcessCacheBackCard@Create
+; <<<<<< SHARED CARD-BACK BODY -- TAIL

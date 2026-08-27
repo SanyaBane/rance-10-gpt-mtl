@@ -550,7 +550,7 @@ different ways.
 
 **Nothing had to be decided, and the corpus's own majority was the wrong side.**
 `glossaries/summary_terms.tsv` has 鬼 as oni; `glossaries/enemy_party_glossary.tsv`
-has Oni, Immobile Oni, Nana-san Dake Oni and Great Oni Kougyoku;
+has Oni, Immobile Oni, Nanasan Mushroom Oni and Great Oni Kougyoku;
 `glossaries/summary_glossary.tsv` writes oni on twenty rows including the very
 scenes the corpus was calling ogres -- 「ナナサンダケを鬼が食べていた」 is "An oni
 had been eating them" there and "those ogres eat it regularly" in the dialogue.

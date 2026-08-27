@@ -1,0 +1,48 @@
+# The English for the ten factions -- 所属 -- as the word after "Belong" on the
+# back of a card. Hand-written; this is the file to edit.
+#
+# Keyed by the Japanese rather than by the faction id, for the reason every
+# glossary here is: the ids belong to one build of one version, and the Japanese
+# does not move. modules/OrganizationNames.js pairs them back up against the
+# game's own table and renders build/organization_names.jaf out of this.
+#
+# A row left blank falls through to the Japanese, which is what the card printed
+# before any of this existed.
+#
+# THIS IS THE ONLY PLACE THE FACTION IS TEXT. Everywhere else the player meets
+# it -- the card frame, the deck tab, the faction flag on the character screen,
+# the quest screen's advantage panel -- it is a picture, and the picture's file
+# name is built out of the Japanese word. So the words below are read by exactly
+# one BlendText, and translating the game's own getOrganizationNameFromId
+# instead would break every one of those lookups. docs/organization-names.md.
+#
+# WIDTH. The line is drawn right-aligned at x=198 with the "Belong" label ending
+# at x=67, so a word has about 131 pixels, and it is drawn at font size 20 where
+# the game drew it at 25 to make the longest of these fit.
+#
+# Nothing measures that, on purpose. A width check was written here and was
+# wrong -- it called "Gods/Demons" too wide when the card has room to spare --
+# because modules/GameFont.js scales one block of a forty-one-block font to any
+# size, and the blocks' proportions are not constant. modules/OrganizationNames.js
+# has the finding. So the instrument for this file is the card on the screen:
+# add a faction, build, look at it. Ten rows is not a thing that needs a
+# machine, and a machine that is wrong about them is worse than none.
+#
+# 神魔 is the one row no table in this repository settles. The prose rendering is
+# "Gods & Demons" -- glossaries/card_name_glossary.tsv has it for the card
+# 伝説の武具神魔 -- and it is too long for the line by any reading. "Gods/Demons"
+# is that shortened to the closest thing keeping both halves, and it was
+# confirmed on the card. Shorter, if it ever has to be: Deity, Gods, Divine,
+# Shinma, Demons, Divine Ones.
+#
+# Japanese	English
+主人公	Protagonist
+リーザス	Leazas
+ヘルマン	Helman
+ゼス	Zeth
+自由都市	Free Cities
+ＪＡＰＡＮ	JAPAN
+その他	Other
+亜人	Demi-Human
+モンスター	Monsters
+神魔	Gods/Demons

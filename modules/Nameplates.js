@@ -29,9 +29,9 @@
  * were of that kind, which is how a warning stops being read. A row keyed by
  * exactly a character's name is the row making a claim about how to spell them.
  *
- * A Japanese name the table spells two ways is satisfied by either: クルックー is
- * "Crook" and again "Ms. Crook", and the second entry is there to fix an
- * honorific's gender rather than to rename her, the same reason
+ * A Japanese name the table spells two ways is satisfied by either: リア is
+ * "Lia" and again "Queen Lia", and the second entry is there to spell the title
+ * the prose gives her rather than to rename her, the same reason
  * modules/NameNormalizer.js leaves those pairs alone.
  *
  * checkCardNames below asks the same question of 9_カード情報.x's フルネーム,

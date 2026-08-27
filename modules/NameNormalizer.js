@@ -34,8 +34,8 @@ const readOptionalTable = async (filePath) => {
  * they are the same wrong spellings whichever name you consider right, and a
  * text language should not have to copy the list to change the answer.
  *
- * The shared table gives a couple of Japanese names two entries -- クルックー is
- * both "Crook" and "Ms. Crook" -- so an override applies to every entry under
+ * The shared table gives a couple of Japanese names two entries -- リア is
+ * both "Lia" and "Queen Lia" -- so an override applies to every entry under
  * that name rather than collapsing them into one, which would quietly drop a
  * repair the build has always made.
  */
@@ -154,10 +154,9 @@ export const createNameFinder = async () => {
          *
          * Strictly longer rather than merely different, because the table
          * carries alias pairs under one key -- リア is both "Lia" and "Queen
-         * Lia", クルックー both "Crook" and "Ms. Crook". Those contain each
-         * other in both directions, so a rule that only asked about containment
-         * would drop one of each arbitrarily and silence five slots that should
-         * still be reported.
+         * Lia". Those contain each other in both directions, so a rule that
+         * only asked about containment would drop one of them arbitrarily and
+         * silence four slots that should still be reported.
          */
         return found.filter(record => !found.some(other =>
             other.shortNameJpn.length > record.shortNameJpn.length
@@ -212,8 +211,8 @@ const pluralisesWithS = (canonical) => !/(?:s|x|z|ch|sh|y)$/i.test(canonical);
  * into "Millk" -- 843 lines of it altogether, produced silently at every build.
  *
  * Only the letter ends of a misspelling are guarded. Plenty of them open or
- * close on something else -- "<Ale>", "Ms. Crook", "Cave-bris" -- and a bracket
- * or a hyphen is a boundary already.
+ * close on something else -- "<Ale>", "*cheer*", "Cave-bris" -- and a bracket,
+ * an asterisk or a hyphen is a boundary already.
  *
  * What this cannot do is finish the repair: a line left saying "Caroli" is no
  * longer mangled but still is not "Carolie", and the way to fix that one is an
@@ -256,8 +255,8 @@ const claimOf = (sentence, nameRecord) => sentence.includes(nameRecord.shortName
  * both. The build says so out loud instead, and the line gets repaired where
  * the rest of the residue does, in the corpus.
  *
- * Entries sharing a Japanese name are left alone: クルックー is "Crook" and again
- * "Ms. Crook" on purpose, and ＜エール＞ is spelled by two entries in turn.
+ * Entries sharing a Japanese name are left alone: リア is "Lia" and again
+ * "Queen Lia" on purpose, and ＜エール＞ is spelled by two entries in turn.
  */
 const contestsOver = (claims) => {
     const complaints = [];

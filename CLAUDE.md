@@ -268,6 +268,25 @@ strings keep their Japanese, so nothing that compares text notices, and `super()
 gives a fallback that can only ever produce the original Japanese. See
 `docs/race-names.md` and `docs/enemy-party-names.md`.
 
+**And sometimes the function is shared too, so patch the caller.** A card's
+faction is worse than a shared string: `getOrganizationNameFromId` has nineteen
+callers and eighteen of them paste the word into a *CG name* — the card's
+background and frame, the deck tabs, the faction flag. Overriding it would leave
+the card with no background. The nineteenth caller is one `BlendText`, the only
+place in the game where the faction is drawn as text, so what is patched is that
+call: `patches/card_back_names.jam` calls the generated
+`build/organization_names.jaf` instead of the local the CG names are built from,
+and every lookup keeps its Japanese. `docs/organization-names.md`.
+
+That file also carries the one case of **two `.jam` replacing the same
+function**. alice-tools applies the last `--jam` it is given and says nothing
+about the earlier one, and `scripts/ain.js` hands it the features after the
+English — so `features/base-stats-on-card/base_stats_on_card.jam`, which
+replaces the same `FUNC 23037`, has to carry the translation too or turning the
+feature on would put the Japanese back. Both files hold the same body between
+marked regions and `modules/CardBack.js` compares them at the start of every
+build. Before adding a third patch to a function, check what already owns it.
+
 ## Some Japanese is data wearing the clothes of text
 
 - A card's `Id` and a character's `識別名` are the keys a save file stores rank

@@ -68,8 +68,8 @@ const MAX_WIDTH = 22;
  * "Lv37 Agireda Kosabusshi Zonna Abona" is 35 units against a budget of 22.
  *
  * So an entry that merely wraps the glossary's name in more words is refused --
- * "Eleanor" -> "Eleanor Ran", "Masamune" -> "Dokuganryuu Masamune", "Crook" ->
- * "Ms. Crook" -- and only a genuinely different spelling is taken, "Saizel" ->
+ * "Eleanor" -> "Eleanor Ran", "Masamune" -> "Dokuganryuu Masamune", "Full" ->
+ * "Full Kalar" -- and only a genuinely different spelling is taken, "Saizel" ->
  * "Seizel", "Girl Ban" -> "Galban". Whole words on either end, so "Caroli" ->
  * "Carolie" still counts as a respelling.
  *
@@ -389,11 +389,12 @@ const translateAffix = (pattern) => {
  * shortNameJpn -> shortNameEng, the spelling the dialogue uses.
  *
  * Two names are listed twice, and the second entry is not a better spelling of
- * the first -- it is a narrower repair. クルックー appears as "Crook" against 44
- * garbled romanisations, then again as "Ms. Crook" against exactly one, "Mr.
- * Crook": that row exists to fix an honorific's gender in prose, not to rename
- * the character. Reading the file in order lets the later row win, which is
- * wrong for a name lookup, and the wrap rule below is what catches it.
+ * the first -- it is a narrower repair. リア appears as "Queen Lia" against the
+ * romanisations that garble the title, then again as bare "Lia" against the
+ * ones that garble the name: neither row renames the character. Reading the
+ * file in order lets the later row win, which is arbitrary for a name lookup,
+ * and the wrap rule below is what catches it when the winner carries a title
+ * the plate has no room for.
  */
 const loadDialogueNames = async () => {
     const records = JSON.parse(await fs.readFile(DIALOGUE_NAMES_PATH, "utf-8"));
