@@ -1,10 +1,16 @@
 # How wide a line is
 
-Text in this game does not wrap and does not clip. A caption too wide for its
-panel runs out over the frame, over the buttons and off the screen edge, so
-every place that has to fit -- the synopsis rows, the `.pactex` layouts --
-measures first and warns. What follows is what that measurement should be, and
-why the one the repository started with was wrong.
+Text in this game does not wrap, anywhere. **The panels do not clip either** --
+a caption too wide for its panel runs out over the frame, over the buttons and
+off the screen edge -- so every place that has to fit, the synopsis rows and the
+`.pactex` layouts, measures first and warns. What follows is what that
+measurement should be, and why the one the repository started with was wrong.
+
+The message window is the exception and was measured separately: it clips, at
+about 36 full-width characters, and the backlog clips earlier still.
+`docs/message-window.md` has the rulers that settled it. Where a panel loses the
+end of a caption off the screen, the window loses it silently at the frame --
+which is why the two are worth keeping apart in one's head.
 
 ## Meiryo is not the game's font, and the error is not a scale
 

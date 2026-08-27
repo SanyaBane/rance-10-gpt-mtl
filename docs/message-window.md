@@ -105,16 +105,61 @@ Measured with `gameTextWidth` and the window's own tracking, `trackingFor(-2,
 Measuring dialogue with the default overstates every line by an eighth of a
 character.
 
-## Whether it clips or overflows is still open
+## It clips, and the edge is measured
 
-`docs/text-languages.md` says the message window clips. Nothing in the layout
-says so — `クリップ領域` is four zeroes — and nothing here settled it. The panels
-in `docs/text-width.md` are known not to clip; a window that clips loses the end
-of the sentence, which is worse, so the question is worth an answer before
-anybody spends the margin.
+Rulers over `ネルソン／キャライベントＣ`, built into the game and screenshotted in
+both windows: thirteen rows, four of them position rulers with a letter every
+fifth character and nine of them ordinary English grown to an exact width and
+labelled with it. The wrap had to be skipped for those rows — at 31.2 the build
+folds every ruler before the game can be asked anything.
 
-The method is the one `docs/text-width.md` describes: put rulers in place of one
-scene's lines, build into a scratch directory, and read the screenshot.
+**It clips. Nothing wraps at runtime.** No ruler moved onto a second line; each
+one simply stops. So a row wider than the window loses its tail rather than
+growing a line, and `docs/text-languages.md` was right.
+
+**The ordinary window draws to about 36 full-width characters, 1570 px.** Three
+rulers agree, which is what makes it a measurement rather than a reading:
+
+| ruler | stops at | width |
+|---|---|---|
+| `[40]`, `[44]`, `[48]` — three different rows | all three at the same word | 36.1 |
+| the `M` ruler | inside the eighth group | 36.7 |
+| full-width digits | about the 36th | 36.0 |
+| `[36]` | drawn whole | 33.3 |
+
+**The backlog cuts earlier**, and it is therefore the binding constraint: `[36]`
+and everything above it stop at the same word there while `[32]` is drawn whole,
+which puts its edge between 30 and 33. Read with the ordinary window's font
+rather than its own, which is smaller — comparing two strings that way is sound
+and quoting an absolute geometry is not, so the range is what this states.
+
+Both numbers are far past the 24.2 the window is drawn for. Being over the
+designed width costs nothing until 36; the design is where Japanese sits
+comfortably, not where the box ends.
+
+### What that settles about the budget
+
+`wrapAt`'s 31.2 sits under the ordinary window and level with the backlog. So
+the trade this file used to leave open — lower the budget to 24 — was the wrong
+direction: it would have converted rows that draw perfectly well into folded
+ones, and a fold costs a fourth line in a three-line window, which is cut at the
+bottom. Horizontal overflow is free up to 36. Vertical overflow is not free at
+all.
+
+There is real headroom, and it is worth naming because it is not where it looks:
+
+| row width | rows | |
+|---|---|---|
+| ≤ 24, the designed width | 213 822 | 80.1% |
+| 24 – 30 | 33 377 | 12.5% |
+| 30 – 31.2 | 3 757 | 1.4% |
+| **31.2 – 36** | **9 080** | **3.4%** — folded today, and the window would have drawn them |
+| > 36 | 6 959 | 2.6% |
+
+Raising the budget toward 35 would stop folding those 9 080 rows and take their
+fourth lines with them. It would be paid for in the backlog, where the tail past
+about 30 is cut. Which of those is worse is a judgement about where a player
+reads, and it is not made here.
 
 ## The current English is wider than the window
 
