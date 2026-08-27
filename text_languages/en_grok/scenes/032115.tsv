@@ -1,4 +1,5 @@
 # 32115	３Ｇ／キャライベントＣ	
+* 3G	３Ｇ	Male
 * Tokugawa Sen	千姫	Male/Female
 * Rance	ランス	Male
 * Oda Kouhime	香姫	Female
@@ -7,31 +8,31 @@
 123502	-	ランス城の保育園に	At the nursery in Rance Castle,
 123503	+	香姫と３Ｇが遊びに来ていた。	Kouhime and 3G had come to play.
 
-123504	３Ｇ／基本	「べろべろべろ」	「Bero bero bero.」
+123504	3G	「べろべろべろ」	「Bero bero bero.」
 
 123505	?	「う〜……」	「Uuu...」
 
-123506	３Ｇ／基本	「ばあああ」	「Baaaa.」
+123506	3G	「ばあああ」	「Baaaa.」
 
 123507	?	「う〜……」	「Uuu...」
 
-123508	３Ｇ／基本	「あっぷっぷー」	「Appuppuu.」
+123508	3G	「あっぷっぷー」	「Appuppuu.」
 
 123509	?	「きゃっきゃっ……」	「Kyakkya...」
 
-123510	３Ｇ／基本	「ほっほっほっ、なんとも元気な子じゃ×３」	「Hoh hoh hoh, what energetic children ×3」
+123510	3G	「ほっほっほっ、なんとも元気な子じゃ×３」	「Hoh hoh hoh, what energetic children ×3」
 
 123511	Tokugawa Sen	「この部屋には客がよく訪れるが……」	「This room gets many visitors, but...」
 
 123512	Tokugawa Sen	「さすが年の功、	「As expected of someone with years of experience,
 123513	+	　子の世話は３Ｇ殿が一番上手いな」	　3G is the best at taking care of children.」
 
-123514	３Ｇ／基本	「ほほほ、慣れてるだけです」	「Hohoho, I'm just used to it.」
+123514	3G	「ほほほ、慣れてるだけです」	「Hohoho, I'm just used to it.」
 
 123515	Tokugawa Sen	「このまま私と一緒に保育士を	「I'd love for you to work as a nursery teacher with me.
 123516	+	　やって頂きたいくらいです」	
 
-123517	３Ｇ／基本	「ほっほっほっ、それもいいですな×３」	「Hoh hoh hoh, that sounds good too ×3」
+123517	3G	「ほっほっほっ、それもいいですな×３」	「Hoh hoh hoh, that sounds good too ×3」
 
 123518	Rance	「デレデレだな」	「You're all lovey-dovey.」
 
@@ -100,7 +101,7 @@
 
 123553	Reset Kalar	「…………」	「............」
 
-123554	３Ｇ／基本	「おやおや、どうかされましたかな？」	「My my, what's wrong?」
+123554	3G	「おやおや、どうかされましたかな？」	「My my, what's wrong?」
 
 123555	Oda Kouhime	「それが……抱きついたまま何も言わなくて……」	「She just hugged and stayed silent...」
 
@@ -113,49 +114,49 @@
 
 123560	-	リセットは３Ｇの足に抱きついた。	Reset hugged 3G's leg tightly.
 
-123561	３Ｇ／基本	「？？」	「??」
+123561	3G	「？？」	「??」
 
 123562	Reset Kalar	「３Ｇさん……	「3G-san...
 123563	+	　こども食べる？」	　Do you eat children?」
 
-123564	３Ｇ／基本	「ほっ？」	「Hoh?」
+123564	3G	「ほっ？」	「Hoh?」
 
 123565	-	３Ｇを見上げるリセットの顔は真剣だった。	Reset's face as she looked up at 3G was dead serious.
 
 123566	Rance	「案外、信じるもんだな」	「She actually believed it.」
 
-123567	３Ｇ／基本	「あっ、ランス殿！」	「Ah, Lord Rance!」
+123567	3G	「あっ、ランス殿！」	「Ah, Lord Rance!」
 
-123568	３Ｇ／基本	「何か妙なこと」	「You told her something weird!」
+123568	3G	「何か妙なこと」	「You told her something weird!」
 
-123569	３Ｇ／基本	「吹き込みましたな！」	「You filled her head with nonsense!」
+123569	3G	「吹き込みましたな！」	「You filled her head with nonsense!」
 
 123570	Rance	「３Ｇは夜になると子供を食うと言ったのだ」	「I said 3G eats children at night.」
 
-123571	３Ｇ／基本	「自分の娘に変なこと教えなさんなー！×３」	「Don't teach weird things to your own daughter! ×3」
+123571	3G	「自分の娘に変なこと教えなさんなー！×３」	「Don't teach weird things to your own daughter! ×3」
 
 123572	Oda Kouhime	「だ、大丈夫、大丈夫よ。	「It's fine, it's fine.
 123573	+	　３Ｇは変なことしないから」	　3G doesn't do weird things.」
 
-123574	３Ｇ／基本	「そうそう」	「That's right.」
+123574	3G	「そうそう」	「That's right.」
 
-123575	３Ｇ／基本	「そうですぞー」	「Exactly.」
+123575	3G	「そうですぞー」	「Exactly.」
 
-123576	３Ｇ／基本	「子供を食べるなど、	「Eating children,
+123576	3G	「子供を食べるなど、	「Eating children,
 123577	+	　ほっほっほっ、まさか……」	　hoh hoh hoh, no way...」
 
 123578	Reset Kalar	「う、うん……」	「Y-yeah...」
 
-123579	３Ｇ／基本	「ぬおおお……	「Nuooh...
+123579	3G	「ぬおおお……	「Nuooh...
 123580	+	　怯えた目で見んで下され……」	　Don't look at me with scared eyes...」
 
-123581	３Ｇ／基本	「うっ……うう……×３」	「Ugh... Uuu... ×3」
+123581	3G	「うっ……うう……×３」	「Ugh... Uuu... ×3」
 
 123582	-	３Ｇはしょぼーんとしてしまった。	3G looked dejected.
 
 123583	Rance	「がははははははは！」	「Gahahahahahaha!」
 
-123584	３Ｇ／基本	「しょーもないことしなさんな！×３」	「Don't do pointless things! ×3」
+123584	3G	「しょーもないことしなさんな！×３」	「Don't do pointless things! ×3」
 
 123585	-	誤解が解けた後、ランスはリセットと３Ｇの	After the misunderstanding was cleared,
 123586	+	二人から説教された。	Rance got lectured by both Reset and 3G.

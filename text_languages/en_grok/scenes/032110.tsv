@@ -1,6 +1,7 @@
 # 32110	香姫／キャライベントＣ	
 * Rance	ランス	Male
 * Oda Kouhime	香姫	Female
+* 3G	３Ｇ	Male
 
 123220	Rance	「よう、お見舞いに来たぞ、香ちゃん」	「Yo, I came to visit you, Kouhime.」
 
@@ -17,27 +18,27 @@
 123227	Oda Kouhime	「ふふ、大丈夫ですよ、兄様。	「Fufu, I'm fine, Nii-sama.
 123228	+	　ただの微熱程度ですから」	　It's just a slight fever.」
 
-123229	３Ｇ／基本	「いえいえ、そうとも限りませんぞ、香様」	「No no, it's not necessarily that simple, Lady Kouhime.」
+123229	3G	「いえいえ、そうとも限りませんぞ、香様」	「No no, it's not necessarily that simple, Lady Kouhime.」
 
-123230	３Ｇ／基本	「うむ、普段から働きすぎなのです」	「Yes, you work too hard normally.」
+123230	3G	「うむ、普段から働きすぎなのです」	「Yes, you work too hard normally.」
 
-123231	３Ｇ／基本	「体が休みたがっておられるのです、きっと」	「Your body is begging for rest.」
+123231	3G	「体が休みたがっておられるのです、きっと」	「Your body is begging for rest.」
 
 123232	Oda Kouhime	「もう……大袈裟なんだから……」	「Geez... You're exaggerating...」
 
-123233	３Ｇ／基本	「本日は香様の普段の仕事は儂が引き受けます。	「Today I will take over your usual duties, Lady Kouhime.
+123233	3G	「本日は香様の普段の仕事は儂が引き受けます。	「Today I will take over your usual duties, Lady Kouhime.
 123234	+	　観念してたっぷり休息を取って下され」	　Resign yourself and rest plenty.」
 
 123235	Oda Kouhime	「うん……ありがとう……」	「Yeah... Thank you...」
 
-123236	３Ｇ／基本	「なんのなんの」	「Think nothing of it.」
+123236	3G	「なんのなんの」	「Think nothing of it.」
 
-123237	３Ｇ／基本	「というわけで儂は席を外すが、	「With that, I shall leave the room, but
+123237	3G	「というわけで儂は席を外すが、	「With that, I shall leave the room, but
 123238	+	　儂がおらん間……」	　while I'm gone...」
 
-123239	３Ｇ／基本	「ランス殿……」	「Lord Rance...」
+123239	3G	「ランス殿……」	「Lord Rance...」
 
-123240	３Ｇ／基本	「変なことするでないぞ！×３」	「Don't do anything weird! ×3」
+123240	3G	「変なことするでないぞ！×３」	「Don't do anything weird! ×3」
 
 123241	-	ビシーッと釘を刺してから	After giving a sharp warning,
 123242	+	３Ｇは退室していった。	3G left the room.

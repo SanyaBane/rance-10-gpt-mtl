@@ -1,6 +1,7 @@
 # 31410	２８９／暇／ＪＰ	
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
+* 3G	３Ｇ	Male
 * Oda Kouhime	香姫	Female
 
 71525	Rance	「暇だ」	「I'm bored.」
@@ -37,22 +38,22 @@
 71544	-	その会話を聞くともなしに聞いていた	While half-listening to that conversation,
 71545	+	隣の部屋では３Ｇがイライラしていた。	3G was getting irritated in the next room.
 
-71546	３Ｇ／基本	「むむむ……	「Mumumu...
+71546	3G	「むむむ……	「Mumumu...
 71547	+	　あの男は大した活動もせずにだらだら……」	　That man is just lazing around without doing much...」
 
-71548	３Ｇ／基本	「来る日も来る日も……」	「Day after day...」
+71548	3G	「来る日も来る日も……」	「Day after day...」
 
-71549	３Ｇ／基本	「むっ！　こうなれば！」	「Hmph! If that's the case!」
+71549	3G	「むっ！　こうなれば！」	「Hmph! If that's the case!」
 
-71550	３Ｇ／基本	「儂だけでも戦場にー！×３」	「Even if it's just us, to the battlefield! ×3」
+71550	3G	「儂だけでも戦場にー！×３」	「Even if it's just us, to the battlefield! ×3」
 
 71551	Oda Kouhime	「３Ｇ」	「3G.」
 
-71552	３Ｇ／基本	「うぐっ……」	「Ugh...」
+71552	3G	「うぐっ……」	「Ugh...」
 
-71553	３Ｇ／基本	「…………はあ」	「............Haa」
+71553	3G	「…………はあ」	「............Haa」
 
-71554	３Ｇ／基本	「分かっております。	「I understand.
+71554	3G	「分かっております。	「I understand.
 71555	+	　今は動こうと思っても動けぬ時期」	　This is a time when we cannot move even if we want to.」
 
 71556	Oda Kouhime	「はい、兄様もきっとそれを分かっています」	「Yes, brother surely understands that too.」
@@ -60,14 +61,14 @@
 71557	Oda Kouhime	「兄様には兄様の考えがおありになる筈。	「Brother must have his own thoughts.
 71558	+	　私達はそれを信じて待ちましょう」	　Let's believe in him and wait.」
 
-71559	３Ｇ／基本	「そうですな。	「Indeed.」
+71559	3G	「そうですな。	「Indeed.」
 71560	+	　頭を疑っては組織は成り立ちませぬ」	　Doubting the head will prevent the organization from functioning.」
 
-71561	３Ｇ／基本	「ですが……」	「However...」
+71561	3G	「ですが……」	「However...」
 
-71562	３Ｇ／基本	「やはり……」	「Still...」
+71562	3G	「やはり……」	「Still...」
 
-71563	３Ｇ／基本	「焦れますな……×３」	「It's frustrating... ×3」
+71563	3G	「焦れますな……×３」	「It's frustrating... ×3」
 
 71564	Oda Kouhime	「今は……耐えましょう……」	「For now... we must endure...」
 

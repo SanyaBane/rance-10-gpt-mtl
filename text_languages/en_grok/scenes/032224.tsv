@@ -6,12 +6,14 @@
 * Lia Parapara Leazas	リア	Female
 * Sheila Helman	シーラ	Female
 * Oda Kouhime	香姫	Female
+* Man	汎用男性	?
 * Crook Mofus	クルックー	Female
 * Generic Other	汎用その他	?
 * Cream Ganoblade	クリーム	Female
 * Copandon Dott	コパンドン	Female
 * Urza Pranaice	ウルザ	Female
 * Papademas Shirusven	パパデマス	Male
+* 3G	３Ｇ	Male
 
 131381	-	翌日、各国の要人が世界中からランス城に集まった。	The next day, important figures from countries all over the world gathered at Rance Castle.
 
@@ -148,7 +150,7 @@
 
 131463	Magic the Gandhi	「なっ！」	「Wha!」
 
-131464	汎用男性／基本	「リア女王、いい加減にされよ！	「Queen Lia, enough already!
+131464	Man	「リア女王、いい加減にされよ！	「Queen Lia, enough already!
 131465	+	　場をかき乱すことが目的なら退室して頂きたい！」	　If your goal is to disrupt the meeting, please leave!」
 
 131466	-	あまりに横暴極まりないリアの態度に、	Lia's extremely arrogant attitude,
@@ -156,24 +158,24 @@
 
 131468	-	しかし、すぐさま自由都市の王がその声を遮る。	But the king of the Free Cities immediately cut him off.
 
-131469	汎用男性／基本	「いや……」	「No...」
+131469	Man	「いや……」	「No...」
 
-131470	汎用男性／基本	「私はリア女王の言葉に賛同する。	「I agree with Queen Lia.
+131470	Man	「私はリア女王の言葉に賛同する。	「I agree with Queen Lia.
 131471	+	　世界はリーザスの元一つになるべきだ」	　The world should unite under Leazas.」
 
-131472	汎用男性／基本	「なんだと！？」	「What did you say!?」
+131472	Man	「なんだと！？」	「What did you say!?」
 
 131473	-	これには他国の有力者も黙ってはいられなかった。	This caused powerful figures from other countries to speak up too.
 
-131474	汎用男性／基本	「貴様！　自分が何を言っているのか分かっているのか！	「You bastard! Do you even know what you're saying!
+131474	Man	「貴様！　自分が何を言っているのか分かっているのか！	「You bastard! Do you even know what you're saying!
 131475	+	　今は世界が一丸とならねば――」	　Right now the world must unite一一」
 
-131476	汎用男性／基本	「戯れ言を！　まとまるのならば、強きリーダーが必要！	「Nonsense! To unite, we need a strong leader!
+131476	Man	「戯れ言を！　まとまるのならば、強きリーダーが必要！	「Nonsense! To unite, we need a strong leader!
 131477	+	　今、この世界でリーザス以外の誰にそれが務まる！」	　Who else in this world besides Leazas can do that!」
 
-131478	汎用男性／基本	「どうせ買収でもされただけの癖に吠えるな！」	「You're just bought off, so shut up!」
+131478	Man	「どうせ買収でもされただけの癖に吠えるな！」	「You're just bought off, so shut up!」
 
-131479	汎用男性／基本	「な、なんだと貴様！？　今の言葉を取り消せ！」	「W-what did you say!? Take that back!」
+131479	Man	「な、なんだと貴様！？　今の言葉を取り消せ！」	「W-what did you say!? Take that back!」
 
 131480	-	遂には議論など誰もが放棄して、	Eventually everyone gave up on discussion,
 131481	+	今にも掴みかかりそうなほど激しく、醜い罵り合いに発展した。	and it turned into an ugly, violent shouting match.
@@ -291,18 +293,18 @@
 
 131550	Rance	「いいな」	「Got it?」
 
-131551	汎用男性／基本	「い……」	「I...」
+131551	Man	「い……」	「I...」
 
 131552	Rance	「ん？」	「Hm?」
 
-131553	汎用男性／基本	「いいわけあるか馬鹿者！」	「Of course not, you idiot!」
+131553	Man	「いいわけあるか馬鹿者！」	「Of course not, you idiot!」
 
-131554	汎用男性／基本	「そんなことが許されると思っておるのか！」	「You think something like that is allowed!?」
+131554	Man	「そんなことが許されると思っておるのか！」	「You think something like that is allowed!?」
 
-131555	汎用男性／基本	「なにを馬鹿馬鹿しい！　不敬だ！	「What nonsense! This is disrespectful!
+131555	Man	「なにを馬鹿馬鹿しい！　不敬だ！	「What nonsense! This is disrespectful!
 131556	+	　今すぐこの場を出ていけ！」	　Get out right now!」
 
-131557	汎用男性／基本	「ただの１城主程度が調子に乗るな！」	「Don't get cocky just because you're the lord of one castle!」
+131557	Man	「ただの１城主程度が調子に乗るな！」	「Don't get cocky just because you're the lord of one castle!」
 
 131558	Rance	「おお、すんごい反発」	「Whoa, huge backlash.」
 
@@ -316,7 +318,7 @@
 
 131564	Crook Mofus	「では、私が収拾つけます」	「Then I will calm things down.」
 
-131565	汎用男性／基本	「ほっ、法王ムーララルー！？」	「Hoh, Pope Mulalaloux!?」
+131565	Man	「ほっ、法王ムーララルー！？」	「Hoh, Pope Mulalaloux!?」
 
 131566	Rance	「む、いたのか」	「Mu, you were here?」
 
@@ -325,7 +327,7 @@
 131568	Crook Mofus	「皆さん、どうか落ち着いて下さい。	「Everyone, please calm down.
 131569	+	　そして、どうか私の言葉に耳を傾けて下さい」	　And please listen to my words.」
 
-131570	汎用男性／基本	「……う、く」	「...U, ku.」
+131570	Man	「……う、く」	「...U, ku.」
 
 131571	-	世界的宗教組織の法王。	The Pope of the world religion.
 
@@ -340,7 +342,7 @@
 
 131578	Crook Mofus	「確かに彼ならば、世界をまとめられるかと」	「I believe he truly can unite the world.」
 
-131579	汎用男性／基本	「なっ！？	「What!?」
+131579	Man	「なっ！？	「What!?」
 131580	+	　なんということを……！？」	　What are you saying...!?」
 
 131581	Crook Mofus	「彼は確かにこの小さな城の持ち主に過ぎません」	「He is indeed only the owner of this small castle.」
@@ -394,7 +396,7 @@
 
 131610	Cream Ganoblade~	（ああ……もう、何を言っても聞かない顔だ……）	（Aah... she's already got that 'I won't listen' face...）
 
-131611	汎用男性／基本	「し、信じられん……ヘルマンは何を考えて……」	「U-unbelievable... What is Helman thinking...」
+131611	Man	「し、信じられん……ヘルマンは何を考えて……」	「U-unbelievable... What is Helman thinking...」
 
 131612	Crook Mofus	「分かりました、まずはヘルマン共和国ですね」	「Understood. First, the Helman Republic.」
 
@@ -410,12 +412,12 @@
 
 131619	Copandon Dott	「んー、ほたら、自由都市も傘下につこうかな」	「Hmm, then the Free Cities will join too.」
 
-131620	汎用男性／基本	「ちょ、ちょっとお待ち下さい！」	「W-wait a moment!」
+131620	Man	「ちょ、ちょっとお待ち下さい！」	「W-wait a moment!」
 
 131621	-	慌てて口を挟んだのは自由都市の	The one who hurriedly interrupted was
 131622	+	小国をまとめる王であった。	the king who unified the small nations of the Free Cities.
 
-131623	汎用男性／基本	「コパンドン殿！	「Lord Copandon!
+131623	Man	「コパンドン殿！	「Lord Copandon!
 131624	+	　あ、貴方は確かに自由都市連合の長だが、	　You may be the leader of the Free Cities Alliance,
 131625	+	　そういったことは連合の皆で決めねば！」	　but such decisions must be made by the entire alliance!」
 
@@ -424,7 +426,7 @@
 131627	Copandon Dott	「順番あべこべになるけど絶対に皆納得させたる。	「The order might be backwards, but I'll convince everyone.
 131628	+	　後で会議するから帰ったらいかんでー」	　We'll hold a meeting later, so don't go home.」
 
-131629	汎用男性／基本	「む、むう……」	「Mu, muu...」
+131629	Man	「む、むう……」	「Mu, muu...」
 
 131630	Crook Mofus	「分かりました。JAPANと、	「Understood. JAPAN and,
 131631	+	　暫定的ではありますが、自由都市も、ですね」	　tentatively, the Free Cities as well.」
@@ -451,10 +453,10 @@
 
 131644	Crook Mofus	「はい、分かりました」	「Yes, understood.」
 
-131645	汎用男性／基本	「い、いったい、どうなっているのだ……	「W-what on earth is happening...
+131645	Man	「い、いったい、どうなっているのだ……	「W-what on earth is happening...
 131646	+	　各国が次々にあの男の傘下に……」	　Countries are joining under that man one after another...」
 
-131647	汎用男性／基本	「あああ、あはは、悪い夢でも見ているようだ……」	「Aaaah, ahaha, this feels like a bad dream...」
+131647	Man	「あああ、あはは、悪い夢でも見ているようだ……」	「Aaaah, ahaha, this feels like a bad dream...」
 
 131648	Magic the Gandhi	「それで？	「So?
 131649	+	　リーザスはどうするのかしら？」	　What will Leazas do?」
@@ -479,14 +481,14 @@
 
 131661	Rance	「おー、よろしくされてやる」	「Yeah, I'll take good care of it.」
 
-131662	汎用男性／基本	「なあっ！？　あ、あのリーザスがこんな……！」	「What!? That Leazas is doing this...!」
+131662	Man	「なあっ！？　あ、あのリーザスがこんな……！」	「What!? That Leazas is doing this...!」
 
 131663	Crook Mofus	「最後となりましたが……	「Lastly...
 131664	+	　ＡＬ教もランスに従います」	　The AL Church will also follow Rance.」
 
 131665	Crook Mofus	「……それが神の御心」	「...This is God's will.」
 
-131666	汎用男性／基本	「こ、これは……いったい、どう判断すれば……」	「T-this... how should we judge this...」
+131666	Man	「こ、これは……いったい、どう判断すれば……」	「T-this... how should we judge this...」
 
 131667	-	呆気にとられた壁際の首脳陣の中から、	From the stunned leaders at the wall,
 131668	+	一人の都市長が立ち上がった。	one city mayor stood up.
@@ -501,14 +503,14 @@
 
 131674	-	一人の都市長の言葉に、辺りがざわつきだす。	The words of one mayor caused the room to stir.
 
-131675	汎用男性／基本	「そ、そうなのか……？	「I-is that so...?
+131675	Man	「そ、そうなのか……？	「I-is that so...?
 131676	+	　そんなにすごい男だったのか……？」	　Was he such an amazing man...?」
 
-131677	汎用男性／基本	「わ、私も賛同いたしますぞ！」	「I-I agree too!」
+131677	Man	「わ、私も賛同いたしますぞ！」	「I-I agree too!」
 
 131678	汎用女性／基本	「私も！」	「Me too!」
 
-131679	汎用男性／基本	「我が国もだ！」	「Our country as well!」
+131679	Man	「我が国もだ！」	「Our country as well!」
 
 131680	-	流れに乗り遅れてはまずいと判断した	Fearing they would miss the wave,
 131681	+	各国の要人達までもが、ランスになびく。	important figures from every country began to side with Rance.
@@ -574,20 +576,20 @@
 131715	Oda Kouhime	「本当は皆に協力するように	「You were only supposed to call for cooperation...
 131716	+	　呼びかけて下さるだけで良かったのに……」	　but it turned into this...」
 
-131717	３Ｇ／基本	「いやはや、まさか世界征服を	「My my, to think world conquest
+131717	3G	「いやはや、まさか世界征服を	「My my, to think world conquest
 131718	+	　こんな形で行うとは……」	　would happen in this form...」
 
-131719	３Ｇ／基本	「しかも、それが勢い任せというか……	「And it was all on momentum...
+131719	3G	「しかも、それが勢い任せというか……	「And it was all on momentum...
 131720	+	　どさくさ紛れというか……」	　or taking advantage of the chaos...」
 
-131721	３Ｇ／基本	「なんとまあ……	「Good grief...
+131721	3G	「なんとまあ……	「Good grief...
 131722	+	　相変わらず、滅茶苦茶な……」	　As chaotic as ever...」
 
 131723	Rance	「……お前いたのか」	「...You guys were here?」
 
-131724	３Ｇ／基本	「いるわ！×３」	「Of course we are! ×3」
+131724	3G	「いるわ！×３」	「Of course we are! ×3」
 
-131725	３Ｇ／基本	「香様だけをお一人で	「We couldn't let Lady Kou
+131725	3G	「香様だけをお一人で	「We couldn't let Lady Kou
 131726	+	　大陸に渡らせるわけあるまい！」	　cross the continent alone!」
 
 131727	Rance	「それもそーか」	「Yeah, that's true.」
@@ -650,13 +652,13 @@
 131761	Rance	「がははははははははは！	「Gahahahahahaha!
 131762	+	　ハーレム専用の部屋とか用意しないとなー！」	　I need to prepare a room just for the harem!」
 
-131763	３Ｇ／基本	「おお……」	「Ooh...」
+131763	3G	「おお……」	「Ooh...」
 
-131764	３Ｇ／基本	「こんな奴に世界の命運が預けられるとは……」	「To think the fate of the world rests on a guy like this...」
+131764	3G	「こんな奴に世界の命運が預けられるとは……」	「To think the fate of the world rests on a guy like this...」
 
-131765	３Ｇ／基本	「不安じゃ……」	「I'm worried...」
+131765	3G	「不安じゃ……」	「I'm worried...」
 
-131766	３Ｇ／基本	「不安じゃああああああ×３」	「I'm so worried x3」
+131766	3G	「不安じゃああああああ×３」	「I'm so worried x3」
 
 131767	Sill Plain	「うう……大丈夫でしょうか……」	「Uuu... will it be okay...?」
 

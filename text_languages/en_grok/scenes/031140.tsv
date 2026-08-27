@@ -6,6 +6,7 @@
 * Pi-R	パイアール	Male
 * Chaos	カオス	Male
 * Satella	サテラ	Female
+* PG	ＰＧ	?
 * Miracle Tor	ミラクル	Female
 * Crook Mofus	クルックー	Female
 
@@ -182,15 +183,15 @@
 55052	-	パイアールの背後から、	From behind Pi-R,
 55053	+	何体もの女性ロボットが現れた。	multiple female robots appeared.
 
-55054	ＰＧ／基本	「どう、したの、パイアール」	「What's wrong, Pi-R?
+55054	PG	「どう、したの、パイアール」	「What's wrong, Pi-R?
 
-55055	ＰＧ／基本	「いつもいっしょ……いっしょよ、パイアール……」	　We're always together... together, Pi-R...」
+55055	PG	「いつもいっしょ……いっしょよ、パイアール……」	　We're always together... together, Pi-R...」
 
 55056	Pi-R	「人間どもを片付けろ、PG」	「Clean up these humans, PG.」
 
-55057	ＰＧ／基本	「うふ、ふふふ。しょうがない、わね」	「Ufufu. Can't be helped, I guess.」
+55057	PG	「うふ、ふふふ。しょうがない、わね」	「Ufufu. Can't be helped, I guess.」
 
-55058	ＰＧ／基本	「お、おと、ぉと……の、たた、ため、だから、ね」	「F-For my older brother... it's for him, okay.」
+55058	PG	「お、おと、ぉと……の、たた、ため、だから、ね」	「F-For my older brother... it's for him, okay.」
 
 55059	Rance	「……………なんだ。	「............What the hell.
 55060	+	　女かと思ったら……人形か」	　I thought they were women... but they're just dolls.」

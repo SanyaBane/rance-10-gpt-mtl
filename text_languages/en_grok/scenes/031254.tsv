@@ -2,6 +2,7 @@
 * Rance	ランス	Male
 * Maria Custard	マリア	Female
 * Sill Plain	シィル	Female
+* PG	ＰＧ	?
 * Yamada Chizuko	千鶴子	Female
 * Copandon Dott	コパンドン	Female
 * Athena 2.0	あてな２号	Female
@@ -18,17 +19,17 @@
 
 62620	Rance	「ハイパービルみたいだな……」	「Looks like Hyperville...」
 
-62621	ＰＧ／基本	「あら、いらっしゃい」	「Ara, welcome.」
+62621	PG	「あら、いらっしゃい」	「Ara, welcome.」
 
 62622	Rance	「げっ、またロボットか！」	「Geh, another robot!」
 
-62623	ＰＧ／基本	「私はルート。……どうしたの？　お姉ちゃんよ」	「I'm Root. ...What's wrong? Big sis here.」
+62623	PG	「私はルート。……どうしたの？　お姉ちゃんよ」	「I'm Root. ...What's wrong? Big sis here.」
 
 62624	Rance	「……襲ってこない、か？」	「...Not attacking, huh?」
 
 62625	Maria Custard	「さっきのと、作りとしては同じっぽいけど……」	「It looks similar in make to the previous one...」
 
-62626	ＰＧ／基本	「ほら、帰ってきたら手を洗わなきゃ。	「Come on, you have to wash your hands when you get home.
+62626	PG	「ほら、帰ってきたら手を洗わなきゃ。	「Come on, you have to wash your hands when you get home.
 62627	+	　一緒に洗面所までいきましょ？」	　Let's go to the washroom together?」
 
 62628	Rance	「……なんか頭がおかしいだけっぽいな。	「...Seems like it's just weird in the head.
@@ -196,7 +197,7 @@
 
 62726	Rance	「……こいつか……」	「...This thing...」
 
-62727	ＰＧ／基本	「ふふふふふふ……おいで、パイアール。	「Fufufufufu... Come here, Pi-R.
+62727	PG	「ふふふふふふ……おいで、パイアール。	「Fufufufufu... Come here, Pi-R.
 62728	+	　いい子、いい子ね……」	　Good boy, good boy...」
 
 62729	Rance	「うーむ……ちょっとおかしい感じはするが……」	「Umu... It feels a bit off but...」
@@ -204,18 +205,18 @@
 62730	Nagi su Ragarl	「ねえねえお姉ちゃん！	「Hey hey big sis!
 62731	+	　この奥ってどう行ったらいいの？」	　How do we get further in?」
 
-62732	ＰＧ／基本	「あらあら、奥に御用なの？」	「Ara ara, you have business deeper in?」
+62732	PG	「あらあら、奥に御用なの？」	「Ara ara, you have business deeper in?」
 
 62733	Nagi su Ragarl	「うん！　パイアールが作った物、	「Yeah! I want to see what Pi-R made!」
 62734	+	　見てみたいんだ！」	
 
-62735	ＰＧ／基本	「まあ……パイアールの……お友達なのかしら……	「Well... Are you Pi-R's... friends...?
+62735	PG	「まあ……パイアールの……お友達なのかしら……	「Well... Are you Pi-R's... friends...?
 62736	+	　まあまあ、大変だわ。よかった……はい、どうぞ」	　My my, how nice. Here you go.」
 
 62737	-	小さな音がしたかと思うと、	There was a small sound,
 62738	+	部屋の外で何か重い音が響き渡った。	and then a heavy sound echoed outside the room.
 
-62739	ＰＧ／基本	「工場長さんの邪魔をしないであげてね」	「Don't disturb the factory manager, okay?」
+62739	PG	「工場長さんの邪魔をしないであげてね」	「Don't disturb the factory manager, okay?」
 
 62740	Nagi su Ragarl	「うん！　ありがとー！」	「Yeah! Thanks!」
 

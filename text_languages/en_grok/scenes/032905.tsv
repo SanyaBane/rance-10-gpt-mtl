@@ -1,5 +1,7 @@
 # 32905	５０５／川中島陥落	
 * Temple Knight	汎用テンプルナイト	Male
+* Battling Centers	ＢＳ	Male
+* Man	汎用男性	?
 * Mi Lordring	ロードリング	Male
 
 187388	-	川中島――	Kawanakajima一一
@@ -23,12 +25,12 @@
 187400	Temple Knight	「まっすぐカイズに向かってきています！	「They're heading straight for Kaiz!
 187401	+	　ご指示を！」	　Your orders!」
 
-187402	ＢＳ／基本	「うむ、法王のご指示通り、すぐに避難を」	「Understood. Evacuate immediately as per the Pope's orders.」
+187402	Battling Centers	「うむ、法王のご指示通り、すぐに避難を」	「Understood. Evacuate immediately as per the Pope's orders.」
 
 187403	Temple Knight	「……やはり、聖地を護る、	「......So we really aren't
 187404	+	　という選択はないのですね」	　going to protect the holy land.」
 
-187405	ＢＳ／基本	「うむ、それが神の御心……	「Yes, that is God's will......
+187405	Battling Centers	「うむ、それが神の御心……	「Yes, that is God's will......
 187406	+	　さあ、急げよ！」	　Now hurry!」
 
 187407	Temple Knight	「はっ！」	「Yes!」
@@ -42,26 +44,26 @@
 187412	-	そのほとんどは特別信仰心の強い、	Most of them were particularly devout
 187413	+	司祭、司教達である。	priests and bishops.
 
-187414	汎用男性／基本	「法王ムーララルーはいったい何をお考えなのだ！	「What is Pope Mulalaloux thinking!
+187414	Man	「法王ムーララルーはいったい何をお考えなのだ！	「What is Pope Mulalaloux thinking!
 187415	+	　この聖地カイズを放棄するなんて！」	　Abandoning this holy land Kaiz!」
 
-187416	汎用男性／基本	「今は戦力を出来るだけ	「Right now she probably wants
+187416	Man	「今は戦力を出来るだけ	「Right now she probably wants
 187417	+	　各主要国に集中させたいのだろう……」	　to concentrate forces in the major countries......」
 
-187418	汎用男性／基本	「それが問題なのだ！	「That's the problem!
+187418	Man	「それが問題なのだ！	「That's the problem!
 187419	+	　聖地より各国の方が優先されたということが！」	　Prioritizing other countries over the holy land!」
 
-187420	汎用男性／基本	「世界中にいるAL教の信者を結集し、	「If we gather all AL Church believers worldwide
+187420	Man	「世界中にいるAL教の信者を結集し、	「If we gather all AL Church believers worldwide
 187421	+	　聖地を護るように命令を出せば……」	　and order them to protect the holy land......」
 
-187422	汎用男性／基本	「うむ、必ずや神は見ていて下さる……	「Yes, God is surely watching over us......
+187422	Man	「うむ、必ずや神は見ていて下さる……	「Yes, God is surely watching over us......
 187423	+	　我らの願いは必ずや成就される筈！」	　Our wishes will surely be granted!」
 
-187424	汎用男性／基本	「こうなれば、せめて我らだけでも……」	「If that's the case, at least we......」
+187424	Man	「こうなれば、せめて我らだけでも……」	「If that's the case, at least we......」
 
 187425	Mi Lordring	「皆の者、待たれよ」	「Everyone, wait.」
 
-187426	汎用男性／基本	「こ、これは、ロードリング司教！」	「T-This is Bishop Lordring!」
+187426	Man	「こ、これは、ロードリング司教！」	「T-This is Bishop Lordring!」
 
 187427	Mi Lordring	「聖地の放棄は、法王ムーララルーである	「The abandonment of the holy land is the will
 187428	+	　モフス殿のお言葉」	　of Pope Mulalaloux, Lady Mofus.」
@@ -69,10 +71,10 @@
 187429	Mi Lordring	「法王ムーララルーのお言葉は神のお言葉。	「The words of Pope Mulalaloux are God's words.
 187430	+	　それを疑うなど、あってはならぬこと」	　Doubting them is unacceptable.」
 
-187431	汎用男性／基本	「そ、それは分かっております……	「W-We understand that......
+187431	Man	「そ、それは分かっております……	「W-We understand that......
 187432	+	　しかし、そうすると神は聖地を放棄せよ、と……」	　But that would mean God is ordering us to abandon the holy land......」
 
-187433	汎用男性／基本	「そ、それは、神が我らを	「D-Does that not mean God has
+187433	Man	「そ、それは、神が我らを	「D-Does that not mean God has
 187434	+	　見放しになったということではないのですか！？」	　abandoned us!?」
 
 187435	Mi Lordring	「否！」	「No!」
@@ -83,16 +85,16 @@
 
 187438	Mi Lordring	「……絶対にだ」	「......Absolutely.」
 
-187439	汎用男性／基本	「む、うう……」	「Muu......」
+187439	Man	「む、うう……」	「Muu......」
 
-187440	汎用男性／基本	「その……根拠は……」	「The...... basis for that......」
+187440	Man	「その……根拠は……」	「The...... basis for that......」
 
 187441	Mi Lordring	「神を疑ってはならぬ。	「We must not doubt God.
 187442	+	　理由などそれだけで充分」	　That alone is reason enough.」
 
-187443	汎用男性／基本	「そう……そうですな……」	「Yes...... That's right......」
+187443	Man	「そう……そうですな……」	「Yes...... That's right......」
 
-187444	汎用男性／基本	「……申し訳ない、我らが間違っていた」	「......Forgive us, we were wrong.」
+187444	Man	「……申し訳ない、我らが間違っていた」	「......Forgive us, we were wrong.」
 
 187445	-	ロードリングは首を静かに横に振った。	Lordring quietly shook his head.
 

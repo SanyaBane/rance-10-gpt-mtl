@@ -1,5 +1,6 @@
 # 32908	１１３／ロードリング	
 * Rance	ランス	Male
+* Man	汎用男性	?
 * Crook Mofus	クルックー	Female
 * Mi Lordring	ロードリング	Male
 * Sachiko Centers	サチコ	Female
@@ -8,11 +9,11 @@
 187524	Rance	「む、こんな場所にテントだと？	「Mu, a tent in a place like this?
 187525	+	　いったい誰が……」	　Who the hell......」
 
-187526	汎用男性／基本	「おや……こんな場所にお客とは珍しい……」	「Oh...... Rare to have visitors in a place like this......」
+187526	Man	「おや……こんな場所にお客とは珍しい……」	「Oh...... Rare to have visitors in a place like this......」
 
 187527	Rance	「む、神父がなんでここに？」	「Mu, why is a priest here?」
 
-187528	汎用男性／基本	「我々は聖地奪還の為に、	「We are volunteers fighting
+187528	Man	「我々は聖地奪還の為に、	「We are volunteers fighting
 187529	+	　魔軍と戦う有志の者です」	　the Monster Army to reclaim the holy land.」
 
 187530	-	辺りを見渡せば、	Looking around,
@@ -130,7 +131,7 @@
 
 187601	Crook Mofus	「……神は皆さんをお見捨てにはなりません」	「......God will not abandon you.」
 
-187602	汎用男性／基本	「お、おお……	「O, oh......
+187602	Man	「お、おお……	「O, oh......
 187603	+	　法王ムーララルー……」	　Pope Mulalaloux......」
 
 187604	-	クルックーの言葉に、	At Crook's words,

@@ -1,4 +1,5 @@
 # 30869	２５８／１／ジフテリア１	
+* Man	汎用男性	?
 * Copandon Dott	コパンドン	Female
 * Urza Pranaice	ウルザ	Female
 * Cream Ganoblade	クリーム	Female
@@ -8,14 +9,14 @@
 
 36325	-	自由都市　ジフテリア――	Free Cities Diphteria――
 
-36326	汎用男性／基本	「積み込み、急げーーーー！」	「Hurry with the loading-----!」
+36326	Man	「積み込み、急げーーーー！」	「Hurry with the loading-----!」
 
 36327	-	潮風に乗って、声が響く。	The voice rang out on the sea breeze.
 
 36328	Copandon Dott	「レモン80樽、干し肉80樽は、オーケーと。	「80 barrels of lemons and 80 of dried meat are okay.
 36329	+	　ヘルマンパン100樽はどないしたー！？」	　What about the 100 barrels of Helman bread!?」
 
-36330	汎用男性／基本	「すみません、運搬途中で隊商がやられたようです！	「Sorry, the caravan got attacked during transport!
+36330	Man	「すみません、運搬途中で隊商がやられたようです！	「Sorry, the caravan got attacked during transport!
 36331	+	　予定の半分少々しか……」	　We only have a bit over half...」
 
 36332	Copandon Dott	「じゃあ普通のパンでもええわ！	「Then normal bread is fine!
@@ -24,7 +25,7 @@
 36334	Urza Pranaice	「真水の樽と飲料水の樽は目印をお願いします！	「Please mark the fresh water barrels and drinking water barrels!
 36335	+	　いざという時、すぐ判別できるように！」	　So we can tell them apart in an emergency!」
 
-36336	汎用男性／基本	「医療品届きましたー！	「Medical supplies have arrived!
+36336	Man	「医療品届きましたー！	「Medical supplies have arrived!
 36337	+	　どこに積み込みましょう！」	　Where should we load them?」
 
 36338	Cream Ganoblade	「それは医務室です。中に入れば	「Those go to the medical room. Once inside

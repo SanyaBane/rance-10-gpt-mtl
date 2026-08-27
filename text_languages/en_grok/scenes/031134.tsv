@@ -1,6 +1,7 @@
 # 31134	２４０／２／マリアの依頼	
 * Copandon Dott	コパンドン	Female
 * Rance	ランス	Male
+* Man	汎用男性	?
 * Maria Custard	マリア	Female
 
 54483	-	――翌朝。	――The next morning.
@@ -64,7 +65,7 @@
 
 54520	Rance	「暇か……さてどうしたものか」	「Bored, huh... What to do...」
 
-54521	汎用男性／基本	「ああ、こちらでしたか、コパンドン社長！」	「Ah, there you are, President Copandon!」
+54521	Man	「ああ、こちらでしたか、コパンドン社長！」	「Ah, there you are, President Copandon!」
 
 54522	-	一人の、身なりのいい壮年が	A well-dressed middle-aged man
 54523	+	コパンドンに駆け寄ってきた。	hurried over to Copandon.
@@ -72,7 +73,7 @@
 54524	Copandon Dott	「ん？　ああ、こりゃユカタンはん。	「Hm? Oh, it's Yucatan.
 54525	+	　どないかしはりました？」	　What can I do for you?」
 
-54526	汎用男性／基本	「例の船団の、艤装の件なのですが……」	「It's about the outfitting of that fleet...」
+54526	Man	「例の船団の、艤装の件なのですが……」	「It's about the outfitting of that fleet...」
 
 54527	Copandon Dott	「あーあー。決める言うたっきりでしたな。	「Ah yes. I said I'd decide but never got around to it.
 54528	+	　いくつか、案は作っといたんやけど……」	　I've prepared a few proposals though...」
@@ -106,13 +107,13 @@
 
 54545	Copandon Dott	「うち、金だけはあるからな。ふふふ」	「I have plenty of money. Hehehe.」
 
-54546	汎用男性／基本	「現在のところ、船はもうほぼできています。	「The ships are almost complete.
+54546	Man	「現在のところ、船はもうほぼできています。	「The ships are almost complete.
 54547	+	　後は艤装をどうするか、だけなのです」	　We just need to decide on the outfitting.」
 
 54548	Copandon Dott	「満ち潮もそろそろやし、いい頃合いなんやけどな。	「The tide is about right too, perfect timing.
 54549	+	　……戦争なんぞがおっ始まらんかったら」	　...If this war hadn't started.」
 
-54550	汎用男性／基本	「うーん、そうですよね……しばらくは……」	「Yeah... For a while...」
+54550	Man	「うーん、そうですよね……しばらくは……」	「Yeah... For a while...」
 
 54551	Rance	「ほう。ほほう。いいな。見たいぞ。面白そうだ」	「Hmm. Hmm. Nice. I want to see them. Sounds fun.」
 

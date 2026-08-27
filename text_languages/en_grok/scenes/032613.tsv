@@ -1,16 +1,18 @@
 # 32613	２１１／２／幸福きゃんきゃの話	
 * Rance	ランス	Male
+* Can Can	きゃんきゃん	?
 * Bezeleye	ベゼルアイ	Female
 * Reset Kalar	リセット	Female
+* Lucky Can Can	幸福きゃんきゃん	?
 
 163325	Rance	「がははは！　幸福きゃんきゃんはどこだー！？	「Gahahaha! Where are the happy kyan kyan!?
 163326	+	　俺様の経験値の肥やしとなれー！」	　Become fodder for my experience points!」
 
-163327	きゃんきゃん／基本	「きゃー！　なんか出たー！」	「Kyaa! Something came out!」
+163327	Can Can	「きゃー！　なんか出たー！」	「Kyaa! Something came out!」
 
 163328	Rance	「お前か！　お前が幸福きゃんきゃんかー！」	「It's you! You're the happy kyan kyan!」
 
-163329	きゃんきゃん／基本	「きゃーきゃーきゃー！」	「Kyaa kyaa kyaa!」
+163329	Can Can	「きゃーきゃーきゃー！」	「Kyaa kyaa kyaa!」
 
 163330	-	きゃんきゃん達がきゃあきゃあ言いながら	The kyan kyan ran around
 163331	+	（ちょっと嬉しそうに）逃げ回る。	（looking a bit happy）screaming.
@@ -109,17 +111,17 @@
 163384	-	ほんわかと笑うリセットにつられて、	Infected by Reset's warm smile,
 163385	+	ランスもちょっとだけ、ほんわかした。	Rance felt a bit warm inside too.
 
-163386	幸福きゃんきゃん／基本	「なになにー♪	「What what~♪
+163386	Lucky Can Can	「なになにー♪	「What what~♪
 163387	+	　楽しいことするのー♪」	　Something fun is happening~♪」
 
-163388	幸福きゃんきゃん／基本	「嬉しそうな空気ー♪」	「A happy atmosphere~♪」
+163388	Lucky Can Can	「嬉しそうな空気ー♪」	「A happy atmosphere~♪」
 
-163389	幸福きゃんきゃん／基本	「しゃーわせー♪」	「So haaappy~♪」
+163389	Lucky Can Can	「しゃーわせー♪」	「So haaappy~♪」
 
 163390	Rance	「わーっ！　本当に出たー！	「Whoa! They really came out!
 163391	+	　それも大量にーーーー！」	　And so many of them!」
 
-163392	幸福きゃんきゃん／基本	「きゃーーーー！　怖いーー！」	「Kyaaaaa! Scary!」
+163392	Lucky Can Can	「きゃーーーー！　怖いーー！」	「Kyaaaaa! Scary!」
 
 163393	Rance	「ああっ！　逃げたぁ！？」	「Aah! They ran away!?」
 

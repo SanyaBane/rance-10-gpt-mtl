@@ -3,6 +3,7 @@
 * Goddess ALICE	女神アリス	Female
 * Am Yisael	アム	Female
 * Quelplan	魂管理局クエルプラン	Female
+* Rudrasaum	ルドラサウム	?
 
 85257	-	そこは――	There――
 
@@ -401,7 +402,7 @@
 85509	-	否、それは真っ白な巨大な生物が、	No, it was a pure white giant creature
 85510	+	辺りの景色を覆っただけだった。	that covered the scenery.
 
-85511	ルドラサウム／基本	「くすくすくす……	「Kusukusu...
+85511	Rudrasaum	「くすくすくす……	「Kusukusu...
 85512	+	　相変わらず勘がいいね、クルックーは」	　Crook, your intuition is as sharp as ever.」
 
 85513	Crook Mofus	「お久し振りです、ルドラサウム様」	「It's been a while, Lord Rudrasaum.」
@@ -432,7 +433,7 @@
 
 85530	Crook Mofus	「こら、＜エール＞！」	「Hey, ＜エール＞!」
 
-85531	ルドラサウム／基本	「ひえっ！？」	「Hie!?」
+85531	Rudrasaum	「ひえっ！？」	「Hie!?」
 
 85532	-	真っ白な巨大な生物が、	The pure white giant creature
 85533	+	クルックーの一言で脈動したかと思うと、	pulsed at Crook's words,
@@ -440,7 +441,7 @@
 
 85535	Crook Mofus	「そんなことを言っては駄目でしょう」	「You mustn't say such things.」
 
-85536	ルドラサウム／基本	「あわわ、ごめんよ、母さん……」	「Awawa, sorry Mom...」
+85536	Rudrasaum	「あわわ、ごめんよ、母さん……」	「Awawa, sorry Mom...」
 
 85537	Crook Mofus	「いいですか、＜エール＞？」	「Listen, ＜エール＞?
 
@@ -450,16 +451,16 @@
 85540	Crook Mofus	「自分が言われて嫌なことは、	「Don't say things to others
 85541	+	　言ってはいけませんよ」	　that you wouldn't want said to you.」
 
-85542	ルドラサウム／基本	「うーん……」	「Hmm...」
+85542	Rudrasaum	「うーん……」	「Hmm...」
 
 85543	Crook Mofus	「それに……悪いことよりも、	「Besides... doing good things
 85544	+	　良いことをした方が気持ちがいいですよ」	　feels much better than bad things.」
 
-85545	ルドラサウム／基本	「うーん、そうかな……」	「Hmm, is that so...」
+85545	Rudrasaum	「うーん、そうかな……」	「Hmm, is that so...」
 
-85546	ルドラサウム／基本	「…………」	「............」
+85546	Rudrasaum	「…………」	「............」
 
-85547	ルドラサウム／基本	「……うん、そうかもね」	「...Yeah, maybe.」
+85547	Rudrasaum	「……うん、そうかもね」	「...Yeah, maybe.」
 
 85548	Crook Mofus	「はい、そういうことです」	「Yes, that's how it is.」
 
@@ -596,7 +597,7 @@
 85627	Quelplan	「……抑えて下さい、女神ALICE。	「...Please restrain yourself, Goddess ALICE.
 85628	+	　ルドラサウム様の御前です」	　We are before Lord Rudrasaum.」
 
-85629	ルドラサウム／基本	「あー、母さん、悪いことしてるー」	「Ah, Mom, you're doing bad things.」
+85629	Rudrasaum	「あー、母さん、悪いことしてるー」	「Ah, Mom, you're doing bad things.」
 
 85630	Crook Mofus	「おっと、確かにそうですね。	「Oops, that's true.
 85631	+	　母は昔いっぱい意地悪されたので、	　Mom was bullied a lot in the past,

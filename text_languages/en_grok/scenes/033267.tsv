@@ -1,5 +1,6 @@
 # 33267	６０５／乱義３	
 * Nagata-kun	長田君２	Male
+* 3G	３Ｇ	Male
 * Reset Kalar	リセット２	Female
 * Rocky Bank	ロッキー２	Male
 * Yamamoto Rangi	乱義２	Male
@@ -54,12 +55,12 @@
 220039	+	　俺は別だぞ？	　I'm different, okay?
 220040	+	　俺は信じていいからな？」	　You can trust me.」
 
-220041	３Ｇ／基本	「さ、乱義様のご家族の皆様はこちらに」	「Now, Rangi-sama's family, please come this way.」
+220041	3G	「さ、乱義様のご家族の皆様はこちらに」	「Now, Rangi-sama's family, please come this way.」
 
 220042	Reset Kalar	「あ、はーい。	「Ah, yeees.
 220043	+	　えへへ、３Ｇさんお久し振りです」	　Ehehe, 3G-san, it's been a while.」
 
-220044	３Ｇ／基本	「ほほほ、リセット様、	「Hohoho, Reset-sama,
+220044	3G	「ほほほ、リセット様、	「Hohoho, Reset-sama,
 220045	+	　お会いするのは数年ぶりでしたかの」	　it's been several years since we last met.」
 
 220046	Nagata-kun	「うおっ、首が三つ！」	「Whoa, three heads!」
@@ -89,13 +90,13 @@
 220061	Nagata-kun	「うわ、ちゃっかりしてんなぁ！	「Wow, how sly!
 220062	+	　あ、じゃあ、俺も失礼を……」	　Ah, then I'll excuse myself too...」
 
-220063	３Ｇ／基本	「皆の衆！」	「Everyone!」
+220063	3G	「皆の衆！」	「Everyone!」
 
-220064	３Ｇ／基本	「静粛に……」	「Silence please...」
+220064	3G	「静粛に……」	「Silence please...」
 
-220065	３Ｇ／基本	「殿の……」	「His Highness's...」
+220065	3G	「殿の……」	「His Highness's...」
 
-220066	３Ｇ／基本	「おなぁーーーりぃーーー！×３」	「His Highness has arrived-----! ×3」
+220066	3G	「おなぁーーーりぃーーー！×３」	「His Highness has arrived-----! ×3」
 
 220067	Nagata-kun	「あ、もう駄目だ……退室できねぇ……」	「Ah, it's over... I can't leave now...」
 
@@ -196,7 +197,7 @@
 220129	JAPAN Samurai	「そんな馬鹿な！	「That's impossible!
 220130	+	　早雲様がこのようなことするわけ！」	　There's no way Souun-sama would do something like this!」
 
-220131	３Ｇ／基本	「静粛に！	「Silence!
+220131	3G	「静粛に！	「Silence!
 220132	+	　まだ殿が喋っている最中である！」	　His Highness is still speaking!」
 
 220133	-	３Ｇの一喝により、大広間に静寂が戻る。	With 3G's sharp rebuke, silence returned to the great hall.
@@ -293,7 +294,7 @@
 
 220190	Yamamoto Rangi	「早雲様の捜索には私も出ます」	「I will also join the search for Souun-sama.」
 
-220191	３Ｇ／基本	「えっ！	「Eh!
+220191	3G	「えっ！	「Eh!
 220192	+	　し、しかし、それはあまりに危険かと……」	　B-But that would be far too dangerous...」
 
 220193	Yamamoto Rangi	「危険だから私が行くのです」	「Precisely because it is dangerous, I must go.」
@@ -305,7 +306,7 @@
 220197	Yamamoto Rangi	「相手取るとなれば、	「If we have to face him,
 220198	+	　生半可な者では歯が立たない」	　ordinary people won't stand a chance.」
 
-220199	３Ｇ／基本	「む、うううう……×３」	「Mu, uuuu... ×3」
+220199	3G	「む、うううう……×３」	「Mu, uuuu... ×3」
 
 220200	Yamamoto Rangi	「さあ、動きが遅れれば被害もそれだけ増える。	「Now, the longer we delay, the more damage will increase.
 220201	+	　皆、迅速に動いてくれ」	　Everyone, move quickly.」
@@ -431,13 +432,13 @@
 220274	+	　既に僕は国主なのです。	　I am already the lord of this nation.
 220275	+	　この程度出来て当然のこと」	　This much is only natural.」
 
-220276	３Ｇ／基本	「いいえ！　まっことご立派ですぞ！」	「No! It was truly magnificent!」
+220276	3G	「いいえ！　まっことご立派ですぞ！」	「No! It was truly magnificent!」
 
-220277	３Ｇ／基本	「左様！　なんとも堂々とした立ち居振る舞い！」	「Indeed! Such a dignified bearing!」
+220277	3G	「左様！　なんとも堂々とした立ち居振る舞い！」	「Indeed! Such a dignified bearing!」
 
-220278	３Ｇ／基本	「見ているだけで！　この爺は、爺は！」	「Just watching! This old man, this old man!」
+220278	3G	「見ているだけで！　この爺は、爺は！」	「Just watching! This old man, this old man!」
 
-220279	３Ｇ／基本	「うおおおおーーーっ！！！！×３」	「Uoooooh!!!! ×3」
+220279	3G	「うおおおおーーーっ！！！！×３」	「Uoooooh!!!! ×3」
 
 220280	Yamamoto Rangi	「……３Ｇ、そういうのを身内びいきと言うんだよ」	「...3G, that's called being biased toward family.」
 

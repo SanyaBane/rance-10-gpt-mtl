@@ -2,6 +2,7 @@
 * Rance	ランス	Male
 * Sill Plain	シィル	Female
 * Man	汎用男	Male
+* Man	汎用男性	?
 * Sachiko Centers	サチコ	Female
 * Alkanese Rize	アルカネーゼ	Female
 * Old Man	汎用爺	Male
@@ -30,12 +31,12 @@
 146282	-	ランスが様子を見に行くと、	When Rance went to check,
 146283	+	村人達と三匹のイカマンが格闘していた。	the villagers were fighting three Squidmen.
 
-146284	汎用男性／基本	「おらー！　イカマン死ねー！」	「Take this! Die, Squidman!」
+146284	Man	「おらー！　イカマン死ねー！」	「Take this! Die, Squidman!」
 
-146285	汎用男性／基本	「ひえーっ、なんて強さだ！	「Hiee, they're so strong!
+146285	Man	「ひえーっ、なんて強さだ！	「Hiee, they're so strong!
 146286	+	　イカマンには敵わねー！」	We can't beat Squidman!」
 
-146287	汎用男性／基本	「ぎゃー！　イカスミだ、みんな避けろー！」	「Gyaa! Ink attack, everyone dodge!」
+146287	Man	「ぎゃー！　イカスミだ、みんな避けろー！」	「Gyaa! Ink attack, everyone dodge!」
 
 146288	Rance	「しょーもな……」	「How lame...」
 
@@ -44,13 +45,13 @@
 146290	-	ランスは軽く剣を振るって、	Rance swung his sword lightly
 146291	+	イカマン達を瞬殺した。	and instantly slaughtered the Squidmen.
 
-146292	汎用男性／基本	「お、おおっ！　すごい！」	「O-Ohh! Amazing!」
+146292	Man	「お、おおっ！　すごい！」	「O-Ohh! Amazing!」
 
-146293	汎用男性／基本	「おい、みんな見ろ！	「Hey, everyone look!
+146293	Man	「おい、みんな見ろ！	「Hey, everyone look!
 146294	+	　あの人、イカマンをあっという間に	　That guy killed the Squidman in an instant
 146295	+	　殺してみせたぞ！　一瞬でだ！」	　Just like that! In a flash!」
 
-146296	汎用男性／基本	「しかもイカマンは三匹もいたのに	「And there were three of them,
+146296	Man	「しかもイカマンは三匹もいたのに	「And there were three of them,
 146297	+	　なんの苦もなく倒してみせた！	　yet he defeated them effortlessly!
 146298	+	　なんて強さだ！　この人、つ、強すぎるーー！」	　What power! This person is t-too strong---!」
 

@@ -1,6 +1,7 @@
 # 32346	２２０／３／捕虜のアナセル	
 * Monster General	汎用魔物将軍	Male
 * Monster Captain	汎用魔物隊長	Male
+* Man	汎用男性	?
 * Anasel Caspora	アナセル	Female
 * Green Monster Soldier	汎用魔物兵緑	Male
 
@@ -53,7 +54,7 @@
 
 143220	Monster Captain	「聞いていたなお前ら！　量を作れ量を！」	「You heard him! Make lots, make quantity!」
 
-143221	汎用男性／基本	「は、はいっ！」	「Y-yes!」
+143221	Man	「は、はいっ！」	「Y-yes!」
 
 143222	-	何列にも並んだ大量の奴隷が	The many rows of slaves
 143223	+	一斉に返事をした。	answered all at once.

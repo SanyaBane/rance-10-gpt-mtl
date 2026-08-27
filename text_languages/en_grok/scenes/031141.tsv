@@ -1,5 +1,6 @@
 # 31141	２４０／２１／マリア落ちる	
 * Rance	ランス	Male
+* PG	ＰＧ	?
 * Maria Custard	マリア	Female
 * Aegis Kalar	イージス	Female
 * Sill Plain	シィル	Female
@@ -10,7 +11,7 @@
 
 55080	Rance	「やたらに堅いが、これでひとつ……」	「Pretty tough, but that's one down...」
 
-55081	ＰＧ／レールキャノン	「あら　あらら　ああら……	「Oh my, oh my my, oh myyy...
+55081	PG	「あら　あらら　ああら……	「Oh my, oh my my, oh myyy...
 55082	+	　おいたは……よく、ないわ」	　That's... not very nice.」
 
 55083	Rance	「げっ！？」	「Geh!?」
@@ -21,7 +22,7 @@
 
 55087	Maria Custard	「チューリップ！」	「Tulip!」
 
-55088	ＰＧ／レールキャノン	「………………」	「............」
+55088	PG	「………………」	「............」
 
 55089	-	マリアの砲撃を、PGの射撃が叩き落とす。	The PG's shot intercepted Maria's cannon fire.
 
@@ -40,7 +41,7 @@
 
 55098	Maria Custard	「ッ、チャンス……そこ、えーーい！」	「Now's our chance... There, take this!」
 
-55099	ＰＧ／基本	「あらやだ」	「Oh dear.」
+55099	PG	「あらやだ」	「Oh dear.」
 
 55100	-	すかさず放たれたチューリップ1号の砲弾は、	The Tulip No. 1 shell fired right after
 55101	+	割って入った無事なPGが庇って止められた。	was blocked by an undamaged PG that jumped in front.
@@ -54,7 +55,7 @@
 55106	Rance	「ええい、チマチマと陣形を変えやがって面倒な！	「Damn it, constantly changing formation, so annoying!
 55107	+	　邪魔だ……！」	　Get out of my way...!」
 
-55108	ＰＧ／ナタ	「はっしゃ……！」	「Fire...!」
+55108	PG	「はっしゃ……！」	「Fire...!」
 
 55109	-	庇われたPGが、残る右腕を天井に向け、	The protected PG pointed its remaining right arm at the ceiling
 55110	+	射撃を放った。	and fired.

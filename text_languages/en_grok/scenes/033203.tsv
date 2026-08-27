@@ -2,6 +2,7 @@
 * Nagata-kun	長田君２	Male
 * Rocky Bank	ロッキー２	Male
 * Princess Panasonic	松下姫	Female
+* Man	汎用男性	?
 * El Mofus	エール２	Player's choice
 
 212207	Nagata-kun	「はぁー、暑い暑いー……」	「Haa, it's hot, so hot...」
@@ -73,12 +74,12 @@
 
 212248	-	長田君が近くにいる商人らしき一団に声をかけた。	Nagata-kun called out to a group that looked like merchants nearby.
 
-212249	汎用男性／基本	「放っておくも何も、できることなんてないしなぁ」	「There's nothing we can do about it anyway.」
+212249	Man	「放っておくも何も、できることなんてないしなぁ」	「There's nothing we can do about it anyway.」
 
-212250	汎用男性／基本	「ああ、クエルプランにちょっかいなんて出しても無意味。	「Yeah, messing with a Quelplan is pointless.
+212250	Man	「ああ、クエルプランにちょっかいなんて出しても無意味。	「Yeah, messing with a Quelplan is pointless.
 212251	+	　自然災害のように過ぎ去るのを待つしかないよ」	　We can only wait for it to pass like a natural disaster.」
 
-212252	汎用男性／基本	「まったく、どこに現れるか分からないというのは困りものだな」	「It's really troublesome that you never know where it'll show up.」
+212252	Man	「まったく、どこに現れるか分からないというのは困りものだな」	「It's really troublesome that you never know where it'll show up.」
 
 212253	El Mofus	「…………。」	「............」
 
@@ -87,18 +88,18 @@
 212255	Rocky Bank	「クエルプランが現れる場所は完璧にランダム。	　Quelplans appear in completely random locations.
 212256	+	　ある日ふと、前触れもなく各地にワープしてくるんだす」	　One day they just warp in without warning.」
 
-212257	汎用男性／基本	「ああ、今回は砂漠のど真ん中に出たから被害者もいないが……	「This time it appeared in the middle of the desert so no victims, but...
+212257	Man	「ああ、今回は砂漠のど真ん中に出たから被害者もいないが……	「This time it appeared in the middle of the desert so no victims, but...
 212258	+	　これがシャングリラに出て来ていたかと思うと……」	　If it had appeared in Shangri-La...
 
-212259	汎用男性／基本	「短ければ三十分、長ければ三日は移動を続けるから、	「It keeps moving for anywhere from thirty minutes to three days,
+212259	Man	「短ければ三十分、長ければ三日は移動を続けるから、	「It keeps moving for anywhere from thirty minutes to three days,
 212260	+	　まあしばらく警戒が必要だなあ」	　so we need to stay alert for a while.」
 
-212261	汎用男性／基本	「幸い、目的地はシャングリラではないみたいだから、	「Luckily our destination isn't Shangri-La,
+212261	Man	「幸い、目的地はシャングリラではないみたいだから、	「Luckily our destination isn't Shangri-La,
 212262	+	　その点は安心なんだが……」	　so that's a relief...」
 
 212263	Nagata-kun	「皆さん、これからどーすんすか？」	「What are you all going to do now?」
 
-212264	汎用男性／基本	「ああ、近づくのは危険だ、俺達は引き返そうかと思う。	「Yeah, getting closer is dangerous, so we're thinking of turning back.
+212264	Man	「ああ、近づくのは危険だ、俺達は引き返そうかと思う。	「Yeah, getting closer is dangerous, so we're thinking of turning back.
 212265	+	　君達はどうするね？」	　What about you guys?」
 
 212266	Rocky Bank	「うーん、迂回していくだすか……」	「Hmm, maybe we should take a detour...」
@@ -106,7 +107,7 @@
 212267	Nagata-kun	「また引き返して改めて、は……	「Going all the way back and starting over...
 212268	+	　さすがにしんどさマックスっすよね」	　That would be way too exhausting.」
 
-212269	汎用男性／基本	「そうかい、アウトバーンを離れる以上、遭難には気をつけなよ。	「I see. If you leave the Outbahn, be careful not to get lost.
+212269	Man	「そうかい、アウトバーンを離れる以上、遭難には気をつけなよ。	「I see. If you leave the Outbahn, be careful not to get lost.
 212270	+	　ま、クエルプランを目印にすれば迷うことはないと思うがね」	　Well, you can use the Quelplan as a landmark so you probably won't get lost.」
 
 212271	-	片手を上げて、商人の一団は去って行った。	Raising one hand, the merchant group departed.

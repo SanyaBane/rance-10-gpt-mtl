@@ -1,5 +1,6 @@
 # 31093	２３２／２／処刑される町／戦闘前	
 * Man	汎用男	Male
+* Man	汎用男性	?
 * Monster Captain	汎用魔物隊長	Male
 * Monster General	汎用魔物将軍	Male
 * Rance	ランス	Male
@@ -30,9 +31,9 @@
 50265	-	そしてある少女は、行きがけの駄賃とばかりに	And one girl was toyed with by monster soldiers
 50266	+	魔物兵に嬲りものにされ、犯されながら殺された。	as a bonus on their way, raped and killed.
 
-50267	汎用男性／基本	「げほっごほっ、ど、どこかに、逃げ……」	「Cough cough, somewhere... escape...」
+50267	Man	「げほっごほっ、ど、どこかに、逃げ……」	「Cough cough, somewhere... escape...」
 
-50268	汎用男性／基本	「が、がは…………」	「Ga... gaha......」
+50268	Man	「が、がは…………」	「Ga... gaha......」
 
 50269	Monster Captain	「一人も逃がすな！　ポル様からのお達しだ！	「Don't let a single one escape! Orders from Lord Por!
 50270	+	　犯すのは程々にしろよ！」	　Don't overdo the raping!」

@@ -19,9 +19,9 @@
 60898	汎用女性／基本	「やあああぁッ……！」	「Yaaaaah...!」
 
 60899	-	その時、不意に倒れていたはずの奴隷娘の一人が	At that moment, one of the slave girls who should have been down
-60900	+	起ち上がり、ランスの背後から短刀で突きかかる。	suddenly stood and stabbed at Rance's back with a short blade.
+60900	+	起ち上がり、ランスの背後から短刀で突きかかる。	suddenly sprang up and lunged at Rance from behind with a dagger.
 
-60901	Rance	「おおっと」	「Whoops.」
+60901	Rance	「おおっと」	「Whoa there.」
 
 60902	-	ランスは余裕を持ってそれを避け、	Rance dodged it with ease
 60903	+	反射的に奴隷娘を突き飛ばす。	and reflexively shoved the slave girl away.
@@ -32,23 +32,23 @@
 
 60906	-	その先に、偶然。カチューシャがいた。	Right in front of her, coincidentally, was Katyusha.
 
-60907	-	短刀を構えたままの少女が、	The girl still holding the short blade
-60908	+	カチューシャに身体ごとぶつかった。	crashed bodily into Katyusha.
+60907	-	短刀を構えたままの少女が、	Still gripping the dagger, the girl
+60908	+	カチューシャに身体ごとぶつかった。	slammed bodily into Katyusha.
 
 60909	Rance	「あッ！？」	「Ah!?」
 
-60910	-	とっさの事に、カチューシャの反応が遅れた。	Caught off guard, Katyusha's reaction was slow.
+60910	-	とっさの事に、カチューシャの反応が遅れた。	Caught completely off guard, Katyusha failed to react in time.
 
 60911	汎用女性／基本	「カ……カチューシャ様……！！」	「Ka... Lady Katyusha...!!」
 
-60912	Katyusha Bosch	「う、うそ、っ……嘘、わたし、が…………っ」	「N-no way... Lie, I...」
+60912	Katyusha Bosch	「う、うそ、っ……嘘、わたし、が…………っ」	「N-no... This can't be... Did I... just...」
 
-60913	-	言葉を、喀血が遮った。	Coughing blood cut off her words.
+60913	-	言葉を、喀血が遮った。	Her words were choked off by a cough of blood.
 
-60914	-	その場の全ての者に信じがたい顔をさせたまま、	Leaving everyone present with disbelieving faces,
-60915	+	カチューシャは膝から崩れ落ちた。	Katyusha collapsed from her knees.
+60914	-	その場の全ての者に信じがたい顔をさせたまま、	Leaving everyone present staring in utter disbelief,
+60915	+	カチューシャは膝から崩れ落ちた。	Katyusha crumpled to her knees.
 
-60916	汎用女性／基本	「か、ちゅーしゃ……さま、っ……あ、あぁっ……」	「Ka... chusha... sama... A, aaah...」
+60916	汎用女性／基本	「か、ちゅーしゃ……さま、っ……あ、あぁっ……」	「Ka... tyusha... sama... A, aaah...」
 
 60917	Rance	「ていっ」	「Tei.」
 

@@ -3,6 +3,7 @@
 * Sanada Tourin	透琳	Male
 * Rance	ランス	Male
 * Sheila Helman	シーラ	Female
+* Man	汎用男性	?
 * Rolex Gadras	ロレックス	Male
 
 146392	-	次の日――	The next day--
@@ -102,7 +103,7 @@
 
 146449	Rance	「……落とし穴でもあったりせんだろうな」	「...There better not be a pitfall or anything.」
 
-146450	汎用男性／基本	「ひぎゃああぁぁあぁあああ！」	「Higyaaaaaaa!」
+146450	Man	「ひぎゃああぁぁあぁあああ！」	「Higyaaaaaaa!」
 
 146451	汎用女性／基本	「うおっ！　ううおおぉおぉお！」	「Uoh! Uuooooooo!」
 
@@ -111,7 +112,7 @@
 146453	-	両側にある牢屋から十数本の手が	Dozens of hands reached out from the cells on both sides
 146454	+	シーラに向けて突き出される。	toward Sheila.
 
-146455	汎用男性／基本	「ああっ、あぐぅぅぅぅぅ……ッ！」	「Aah, aguuuuuu...!」
+146455	Man	「ああっ、あぐぅぅぅぅぅ……ッ！」	「Aah, aguuuuuu...!」
 
 146456	Rance	「な、なんだぁ？」	「W-What the hell?」
 

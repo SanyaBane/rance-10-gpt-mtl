@@ -1,7 +1,9 @@
 # 30335	ガルティア／キャライベントＢ	
 * Galtia	ガルティア	Male
 * Caloria Cricket	カロリア	Female
+* Rance Castle Waiter	ランス城のウェイター	?
 * Martina Curry	マルチナ	Female
+* Rance Castle Cook	ランス城のコック	?
 * Uesugi Kenshin	謙信	Female
 * Rance	ランス	Male
 
@@ -32,12 +34,12 @@
 
 950	-	――――厨房――	――――Kitchen――
 
-951	ランス城のウェイター	「追加注文、来ました！」	「Additional order came in!」
+951	Rance Castle Waiter	「追加注文、来ました！」	「Additional order came in!」
 
 952	Martina Curry	「下ごしらえはしてあるから、すぐに揚げて！	「The prep is done, fry them right away!
 953	+	　三人前って、大皿山盛り3つのことだからね！」	　Three portions means three heaping large plates!」
 
-954	ランス城のコック	「は、はいいいぃぃ！」	「Y, yeees!」
+954	Rance Castle Cook	「は、はいいいぃぃ！」	「Y, yeees!」
 
 955	Galtia	「まあ、答えるのはいいけどよ。	「Well, I'll answer but.
 956	+	　教えることなんか、ないぜ」	　There's nothing special to teach.」
@@ -98,14 +100,14 @@
 992	Caloria Cricket	「かろは……えっと、焦げたもので……	「For me... um, something burnt...
 993	+	　に、二人前でー」	　two portionsー」
 
-994	ランス城のウェイター	「ちゅ、注文がフワッとしてきましたよ！？」	「Th, the order is so vague!?」
+994	Rance Castle Waiter	「ちゅ、注文がフワッとしてきましたよ！？」	「Th, the order is so vague!?」
 
 995	Martina Curry	「焦げたもの……！？　焦げても美味しいものか……	「Burnt food...!? Something delicious even when burnt...
 996	+	　あの娘も中々、無茶振りしてくれるじゃない……」	　That girl sure gives wild requests...」
 
 997	Martina Curry	「ふふ、燃えてきたわ……！　材料の追加を！」	「Fufu, I'm getting fired up...! Add more ingredients!」
 
-998	ランス城のコック	「ぜえぜえ……しょ、承知しましたー！」	「Zee zee... U, understoodー!」
+998	Rance Castle Cook	「ぜえぜえ……しょ、承知しましたー！」	「Zee zee... U, understoodー!」
 
 999	Galtia	「こんな話、俺は親から聞いたもんだがなぁ。	「I heard this story from my parents.
 1000	+	　仲間はいなくなっちまったか……寂しいねえ」	　My comrades are all gone now... how lonely.」
@@ -137,10 +139,10 @@
 
 1016	Uesugi Kenshin	「そうか。では軽食でも……」	「I see. Then perhaps a light meal...」
 
-1017	ランス城のウェイター	「け、謙信さんが！　謙信さんが座りました！	「K-Kenshin-sama! Kenshin-sama sat down!
+1017	Rance Castle Waiter	「け、謙信さんが！　謙信さんが座りました！	「K-Kenshin-sama! Kenshin-sama sat down!
 1018	+	　食事されるつもりです！」	　He's going to eat!」
 
-1019	ランス城のコック	「……………………！」	「........................!」
+1019	Rance Castle Cook	「……………………！」	「........................!」
 
 1020	-	コックが、物も言わずに昏倒した。	The cook collapsed without a word.
 
