@@ -144,6 +144,9 @@ The diff of the patch would have agreed with itself.
 | `extra` | 1283 | 1589 | 1283 `」`, 188 `「`, 94 `）`, 54 `)`, 46 `（`, 33 `(`, 1 `』` out |
 | `straight-quotes` | 21 | 42 | 74 `"` out, 37 `「` and 37 `」` in |
 
+91 of the `both-lost` speeches were later found to have wrapped an inner bracket
+and were reverted -- see the last section -- so the pass stands at 562.
+
 Each was verified against the **effective map** -- every number against the last
 assignment naming it, which is what alice-tools applies -- and never against the
 diff of the patch. 271541 assignments before and after every pass, the changed
@@ -154,12 +157,15 @@ The report predicted 4972 of the 5412 were fixable before any of it ran, and
 
 ## What is left
 
-440 speeches, none of which a rule decides.
+531 speeches, none of which a rule decides -- 440 before the 91 of the last
+section were reverted and reported rather than wrapped.
 
 - **157 in `extra`.** 28 of them put `（…）` in the middle of a line the game does
   not, which is the shape the rule refuses on purpose.
 - **280 in `other`.** The head of it is `「『』」` → `「」`, 88 speeches where the
   inner `『』` dissolved -- sometimes into `'…'`, sometimes into indirect speech.
+- **91 in `both-lost`, marked internal**, whose bracket is an emphasis or a title
+  inside the speech rather than at its ends -- the last section.
 - **3 inside a shifted run**, below.
 - 4 speeches the closing bracket pushed past their window.
 
@@ -198,7 +204,13 @@ The second kind is mechanical -- the speech has the right marks and the game
 says which row each belongs on. The first is not: `030504.tsv` `m[11607]` wraps
 a whole sentence of narration in `『』` where the game brackets only the remark
 inside it, so the fix is a decision about which words are quoted rather than a
-mark to move. Both are unmended.
+mark to move.
+
+The numbers here were measured with the 91 of the last section still wrapped, so
+`m[11607]` counts among them: it was not a draft fault the report left alone but
+a both-lost wrap, since reverted, and the guard keeps it from coming back. The
+first kind is that whole class -- an inner bracket the draft rendered as `'...'`
+-- and it is now reported rather than wrapped.
 
 ## What it found that is not a bracket fault at all
 
@@ -232,11 +244,52 @@ Both reports over `en_grok`, before the passes and after.
 | `shifted` | 18 | 19 |
 | `overflow` | 3347 | 3346 |
 | `blank` | 1333 | 1331 |
-| `bracket` | 3491 | 65 |
+| `bracket` | 3491 | 66 |
 | `untranslated` | 25 | 25 |
-| | **8214** | **4786** |
+| | **8214** | **4787** |
+
+`after` is the state once the 91 of the last section were reverted; `bracket` was
+65 with them still wrapped and is 66 with the one gap the wrap had masked back in
+the open.
 
 `bracket` emptied without `overflow` filling, which is the check that matters:
 the speeches left the report rather than moving to a worse class. `overflow` is
 a net one lower -- `extra` takes characters *off* rows, and that bought back
 more than the four brackets cost.
+
+## The 91 both-lost fixes that wrapped an inner bracket
+
+A review of the passes found the one thing the post-condition is built not to
+catch. `both-lost` puts the opener on the first written row and the closer on
+the last, which is right only where the Japanese opened the speech with the
+bracket and closed the speech with it. **91 speeches carried the pair inside the
+speech instead** -- `『魂』` emphasising a word, `「ドラゴンパッチ６巻」` naming a
+book, `（強引に）` qualifying a clause mid-sentence -- and the draft had rendered
+that inner quote as `'...'`, which `englishShape` cannot see. So the shape read
+`both-lost`, the fix wrapped the whole line, and `verifyFix` passed each one:
+the shape `『』` was right *in order*, and no word moved. A bracket in the wrong
+place is exactly what a check that asks the speech and not the row reads as
+correct.
+
+83 were narration and 8 were annotation, and the wrap turned a paragraph into a
+quote box: `030504.tsv m[11607]` became `『When Gandhi saw ... quite unique.'』`
+around two rows the game leaves as narration. None was a bracket that fell off
+an end; every one was a choice about which words are quoted, which is the thing
+`rowEndBrackets` already refuses when it leaves the middle of a row alone.
+
+The fix is in two halves. **The 91 were reverted to the draft** -- 165 rows, the
+effective map 165 changed and none gone or added, and the draft's `'...'` is the
+house rendering of an inner quote at 5136 rows against 470 that use `『』` at all.
+**`bracketsAtSpeechBoundary` now withholds a lost fix whose bracket the Japanese
+does not carry at the speech's own boundary**, so no future run rewraps them:
+they are reported in `both-lost` marked `!!` as internal, the way a shifted run
+is, and `fix_speech_brackets` writes nothing for them. The guard is exact over
+`en_grok` -- it withholds those 91 and no other, and passes every one of the 562
+both-lost fixes whose bracket really is the speech's own.
+
+The revert surfaced one thing it had been hiding: `032957.tsv m[190803]` is
+narration whose last row is the utterance `「ひゃっ！？」`, and the draft wrote
+`Hya!?` without the closer. The wrap had masked that gap; `find_speech_gaps` now
+reports it, which is why its `bracket` class reads 66 after the revert and 65
+before. It is a real gap the draft owns, not a regression -- the bracket belongs
+on that one row, which is the human decision the guard defers to.
