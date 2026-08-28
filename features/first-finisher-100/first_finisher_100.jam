@@ -1,0 +1,122 @@
+; The treasure bonus writer, with the First Finisher figure raised to 100 when
+; the switch file is there.
+;
+; Half of a feature a build can leave out -- the other half is the switch,
+; first_finisher_100.jaf beside it, and feature.js in this folder is where the
+; pair is named. That file is also where the +100 and its arithmetic live; this
+; one is about where the hook goes.
+;
+; BattleBonusCollection@Set#1 (FUNC 27277) is the three-argument
+; Set(type, value, id) that stores one treasure/experience bonus into the
+; collection -- BattleBonusCalculator::CalcTreasure calls it directly for the
+; First Finisher (Set(初トドメ, 50, id)) and the two-argument Set (FUNC 27276)
+; funnels every other bonus through it with id "". So it sees every bonus, which
+; is why the substitution is gated on the type: 初トドメ is BattleBonusType 8 --
+; the PUSH 8 in CalcTreasure's call and the only value the game ever gives that
+; slot -- and every other type falls straight through with its own figure. See
+; docs/treasure-chest-chance.md for the five bonuses and the roll.
+;
+; WHAT THE PREFIX DOES. Before the original body runs, and only when type is 8,
+; the local `value` (argument 1) is replaced with
+;   FirstFinisher100Value(value)
+; which is 100 with the switch file present and `value` -- the shipped 50 --
+; without it. The rest of the function then stores and adjusts that number as it
+; always did, so the result screen's First Finisher line and the total both read
+; the same figure and still add up. This is the "narrower knob"
+; docs/treasure-chest-chance.md names: a different figure than 50, without
+; touching the other four bonuses or the displayed sum.
+;
+; WHY A .JAM. The figure is the `value` argument to a method whose first
+; parameter is the enum BattleBonusType, which alice-tools' .jaf compiler will
+; not name -- so an `override` of Set#1 cannot be written as source at all (a
+; `BattleBonusType type` parameter is a parse error; an `int type` one fails the
+; type check the moment super() is handed it back). A .jam assembles a whole
+; function and repoints the table at it, past the type system entirely. It adds
+; no locals -- --jam rewrites code and not the FUNC section -- and needs none:
+; the prefix reuses the function's own `type` and `value` arguments.
+;
+; The body below is BattleBonusCollection@Set#1 verbatim from
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+; with the four-instruction prefix in front of it. Regenerate it the same way if
+; the game version changes: 27277, 27284 (Find) and 27283 (AdjustBonusValues)
+; are indices into one build of one .ain, PUSH 8 is 初トドメ's place in one build
+; of the enum, and both would mean something else in the next.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1, and an editor that defaults .jam to
+; UTF-8-with-BOM will quietly put one back.
+;
+;   if (type == 8) value = FirstFinisher100Value(value);   <- the prefix
+FUNC 27277
+	.LOCALREF type
+	PUSH 8
+	NOTE
+	IFNZ ff100_skip
+	PUSHLOCALPAGE
+	PUSH 1
+	.LOCALREF value
+	CALLFUNC FirstFinisher100Value
+	ASSIGN
+	POP
+ff100_skip:
+	PUSHLOCALPAGE
+	PUSH 3
+	PUSHSTRUCTPAGE
+	PUSH 27284
+	.LOCALREF type
+	CALLMETHOD 1
+	ASSIGN
+	POP
+	.LOCALREF index
+	PUSH -1
+	NOTE
+	IFNZ 0x42ebb8
+	JUMP 0x42ec16
+0x42ebb8:
+	.STRUCTREF BattleBonusCollection m_bonus
+	.LOCALREF index
+	REF
+	PUSH 1
+	.LOCALREF value
+	ASSIGN
+	POP
+	.STRUCTREF BattleBonusCollection m_bonus
+	.LOCALREF index
+	REF
+	PUSH 2
+	REF
+	.LOCALREF id
+	A_REF
+	S_ASSIGN
+	DELETE
+	JUMP 0x42ecd2
+0x42ec16:
+	.LOCALCREATE b BattleBonus
+	.LOCALREF b
+	PUSH 0
+	.LOCALREF type
+	ASSIGN
+	POP
+	.LOCALREF b
+	PUSH 1
+	.LOCALREF value
+	ASSIGN
+	POP
+	.LOCALREF b
+	PUSH 2
+	REF
+	.LOCALREF id
+	A_REF
+	S_ASSIGN
+	DELETE
+	.STRUCTREF BattleBonusCollection m_bonus
+	.LOCALREF b
+	A_REF
+	CALLHLL Array PushBack 13
+	.LOCALDELETE b
+0x42ecd2:
+	PUSHSTRUCTPAGE
+	PUSH 27283
+	CALLMETHOD 0
+	RETURN
+ENDFUNC BattleBonusCollection@Set#1

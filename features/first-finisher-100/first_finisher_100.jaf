@@ -1,0 +1,49 @@
+/*
+ * The +50 "First Finisher" treasure bonus paid as +100 instead, written as the
+ * presence of a file: custom_mods\first_finisher_100_on under the game folder,
+ * beside Rance10.exe. Delete it and the bonus goes back to +50. It is read as
+ * the battle result is calculated, so neither direction takes a restart.
+ *
+ * This is the switch half of the feature; the hook that reaches the bonus is
+ * first_finisher_100.jam next door, and feature.js in this folder names the
+ * pair. What each file is and why it is the kind of file it is is said there.
+ *
+ * WHAT +100 BUYS. The chest after a won battle is one RAND(100) <= total, where
+ * total is a plain sum of five bonuses and 100 or more is a guaranteed chest --
+ * docs/treasure-chest-chance.md has the arithmetic. The First Finisher line is
+ * one of the five and ships worth 50. At 100 it clears the threshold on its own,
+ * so a battle that pays it is a certain chest whatever the other four add. On
+ * its own this feature therefore makes the first kill of each character a sure
+ * chest, once per quest; paired with always-first-finisher, which pays the line
+ * on every won battle rather than the first kill, it is a sure chest every won
+ * battle. The two are the "always" and the "full" of the same bonus.
+ *
+ * WHY A HELPER RATHER THAN THE WHOLE OVERRIDE HERE. The figure lives as the
+ * `value` argument to BattleBonusCollection@Set#1, whose first parameter is the
+ * enum BattleBonusType. alice-tools' .jaf compiler will not name that enum -- a
+ * `BattleBonusType type` parameter is a parse error and an `int type` one is a
+ * type error the moment super() is handed it back (expected enum#92; got int).
+ * So the substitution is assembled in the .jam, which has no type system in the
+ * way, and this file is only the part that is cleaner as source: the switch-file
+ * check. The .jam calls it with the shipped value as the fallback, so anything
+ * but the switched-on First Finisher gets its own number back and an .ain with
+ * this feature in it and no switch file behaves exactly as an unpatched one.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not take
+ * a backslash in a string literal at all, and Windows accepts either separator.
+ * It is looked for twice for the reason features/reliable-cooking/
+ * cooking_skill_chance.jaf gives: whether SystemService.GetGameFolderPath() ends
+ * in a separator is something the game does not agree with itself about, and
+ * trying both spellings settles it without running the game. A path that does
+ * not resolve reads as "no file", which is the harmless direction -- the shipped
+ * +50.
+ */
+int FirstFinisher100Value(int fallback)
+{
+	string folder = SystemService.GetGameFolderPath();
+	if (FileOperation.ExistFile(folder + "custom_mods/first_finisher_100_on")
+	 || FileOperation.ExistFile(folder + "/custom_mods/first_finisher_100_on")) {
+		return 100;
+	}
+	return fallback;
+}
