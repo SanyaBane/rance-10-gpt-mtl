@@ -189,15 +189,14 @@ after them. Both were found by playing the game, and neither has a report to
 find them in the corpus, because a record is a number and two lines with no
 speech around it to be wrong about. A scene file has the game's own Japanese,
 the speaker from the bytecode and the row boundaries the `MSG` operands gave, so
-a row's English can be held against the row it sits on. **3348 speeches are
+a row's English can be held against the row it sits on. **3346 speeches are
 drawn in more lines than their window has**, which is the class a player cannot
-miss; `layOutSpeech` takes 2504 of them back and the other 844 hold more
-English than their rows can draw whatever the layout. 18 are shifted, 1333 have
-a blank row where the game speaks, and 3635 have lost a 「 or a 」 at a row
-boundary. `docs/speech-gaps.md` is the write-up, including the shift it cannot
-see: both its signals need the wrong row to *look* wrong, so a misplaced
-sentence that reads plausibly where it landed is invisible and the count is a
-floor.
+miss; `layOutSpeech` takes 2507 of them back and the other 839 hold more
+English than their rows can draw whatever the layout. 19 are shifted and 1331
+have a blank row where the game speaks. `docs/speech-gaps.md` is the write-up,
+including the shift it cannot see: both its signals need the wrong row to *look*
+wrong, so a misplaced sentence that reads plausibly where it landed is invisible
+and the count is a floor.
 
 The expensive mistake there was a false negative, and no run of the report could
 have shown it: **whether a speech fits its window was a flag on one class rather
@@ -219,6 +218,28 @@ rather than padding, because U+30FB is a letter by codepoint and a dot by eye --
 the same middle dot that cost `mentions()` a finding. None of those three
 heuristics goes anywhere near a build: in a report a false positive costs a
 look, and in the patch it costs a line of dialogue.
+
+That lesson has a sibling, and it cost a class of its own.
+`scripts/find_speech_brackets.js` asks whether a speech carries the brackets its
+Japanese does -- `「かっ……か、かかか、かない！？」` came back as `「W-wife!?` and
+the player saw a bubble that never closed. `find_speech_gaps` had had a
+`bracket` class since it was written and it read 3491; asking **every** speech
+rather than only the ones nothing worse is wrong with found 5412, because that
+report files a speech once under its worst class and one that also runs off the
+window never had its brackets looked at. **A count from a report that files each
+finding once is a floor, not a measurement.** 4972 of them were mended over five
+passes and `docs/speech-brackets.md` is the write-up: the three pairs that are
+owed to the English and the marks that are not, why the question is asked of the
+speech and never of the row, and the post-condition that made writing 5634 rows
+safe -- which compares the brackets **in order** rather than counting them,
+because `「」` and `」「` hold the same two characters and only one of them is a
+speech. Two of its lessons are worth carrying anywhere: **a check that
+normalises away the thing being lost is not a check** -- it collapsed `[\s　]+`,
+a tab is `\s`, and 15 rows quietly lost the tabs the scene format escapes on
+purpose -- and that it was caught by the **effective map**, each number against
+the last assignment naming it, where the diff of the patch would have agreed
+with itself. Which is the rule below about reading the result back, one step
+earlier than the built `.ain`.
 
 Two things `find_term_drift` taught that generalise past it. **A phrase that
 contains the settled rendering is not the settled rendering**: "Demon Great General" holds

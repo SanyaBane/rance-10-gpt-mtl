@@ -29,24 +29,29 @@ A scene file has the shape. The Japanese comes from the game's own dump, the
 speaker from the bytecode, and the row boundaries are the `MSG` operands, so a
 row's English can be held against the row it sits on.
 
-## The four classes
+## The five classes
 
-Counted over `en_grok` as of the pass that wrote this, at `WRAP_SAFETY_MARGIN`
-0.95. A speech is reported once, under the worst class it answers, so the counts
-add up to speeches rather than to signals -- and because it is reported once,
-mending one class moves speeches into another rather than straight out of the
-report. Raising the budget from 0.9 to 0.95 took `overflow` from 4469 to 3348,
-and 90 of those 1121 speeches came back under `blank` and `bracket`, which is
-why those two read higher here than in the run before. The other 1031 left the
-report altogether.
+Counted over `en_grok` at `WRAP_SAFETY_MARGIN` 0.95, before and after the
+bracket passes [docs/speech-brackets.md](speech-brackets.md) describes. A speech
+is reported once, under the worst class it answers, so the counts add up to
+speeches rather than to signals -- and because it is reported once, mending one
+class moves speeches into another rather than straight out of the report.
+Raising the budget from 0.9 to 0.95 once took `overflow` from 4469 to 3348, and
+90 of those 1121 speeches came back under `blank` and `bracket` for exactly that
+reason.
 
-| class | speeches | what it is |
-|---|---|---|
-| `shifted` | 18 | the English on a row belongs to a different row |
-| `overflow` | 3348 | the speech draws in more lines than its window has |
-| `blank` | 1333 | the game says something on a row and the English does not |
-| `bracket` | 3635 | the speech opens 「 or closes 」 in Japanese and not in English |
-| `untranslated` | 25 | no English anywhere in the speech |
+| class | before | after | what it is |
+|---|---|---|---|
+| `shifted` | 18 | 19 | the English on a row belongs to a different row |
+| `overflow` | 3347 | 3346 | the speech draws in more lines than its window has |
+| `blank` | 1333 | 1331 | the game says something on a row and the English does not |
+| `bracket` | 3491 | 65 | the speech opens 「 or closes 」 in Japanese and not in English |
+| `untranslated` | 25 | 25 | no English anywhere in the speech |
+
+`bracket` emptied without `overflow` filling, which is the check worth making
+after any pass like that: the speeches left the report rather than moving to a
+worse class. And `shifted` went **up** by one, which is a finding rather than a
+regression -- see below.
 
 **shifted** is the one worth reading first and the one that is not cosmetic. Two
 signals: a row whose Japanese is a thought （…） answered with speech 「…」 or the
@@ -55,11 +60,21 @@ the padding a run of shifted rows ends with. `031792.tsv` has both -- the
 narrator's third row carries Tilde's thought, her thought carries the line after
 it, and the run ends on `............`.
 
+There is a third signal, and it lives in the bracket report rather than here: a
+shifted run cuts every `「…」` in half, so a speech starts with the closer of the
+one before it and ends with the opener of the one after. `033355.tsv`
+`m[230508]`-`m[230530]` is 23 shifted rows that neither signal above can see and
+that shape found at once. The nineteenth finding here arrived the other way
+round -- `033503.tsv` `m[247236]` was padded with `「............」`, its Japanese
+has no brackets, the bracket pass took them off, and the dots signal could
+finally fire. Both signals need the wrong row to *look* wrong, and two brackets
+the draft invented were enough to hide one.
+
 **overflow** is the one a player cannot miss: the speech is drawn in more lines
 than its window has, so the end of it runs off the box. `modules/SpeechRows.js`
-takes 2504 of them back by laying the same words out across the rows the
+takes 2507 of them back by laying the same words out across the rows the
 bytecode gives them -- `ネルソン／キャライベントＣ` is three rows drawn in five,
-and balanced across those three it fits. The other 844 hold more English than
+and balanced across those three it fits. The other 839 hold more English than
 their rows can draw whatever the layout, and want shortening by meaning, the way
 the synopsis panel's overlong captions do.
 
@@ -67,11 +82,27 @@ the synopsis panel's overlong captions do.
 the utterance's first row and left the rest empty, which is the same shape
 `modules/SceneTranslations.js` writes on purpose. What is in this class fits the
 window as it stands, so it is a bubble with a gap in it rather than one that runs
-off. 83 of them have that gap in the middle, where a player sees it; 58 more sit
+off. 93 of them have that gap in the middle, where a player sees it; 47 more sit
 in `overflow`, which is worse in both ways at once.
 
-**bracket** is the largest class and the least urgent. The text is on its own
-row; a quotation mark fell off the end of one row or the start of the next.
+**bracket** used to be the largest class and is now the smallest that is a
+fault. The text is on its own row; a quotation mark fell off the end of one row
+or the start of the next. It is a floor rather than a measurement, because a
+speech that also runs off the window is reported as `overflow` and its missing
+bracket never counted -- 3491 here against 5412 when every speech was asked.
+Which is why the question moved to a report of its own:
+[docs/speech-brackets.md](speech-brackets.md) is the six buckets, the rules that
+decide four of them, and the post-condition that made writing them safe. 4972
+speeches were mended there and 440 are left for somebody to read.
+
+39 of the 65 here are among those 440. **The other 26 are a class that report
+cannot see and this one catches by accident**, which is worth knowing in both
+directions. It asks the speech, so `030380.tsv` `m[4033]` -- `「.....」` on the
+first row and `Gufu` hanging outside the quote on the second, where the game
+closes on the second -- has the brackets the Japanese has and passes. This
+report tests the last character of the rows joined together, which is the last
+row's, so it fails. Two reports disagreeing is how the class was found at all;
+`docs/speech-brackets.md` has what it measures to.
 
 **untranslated** is not a fault to fix but a decision to take: a row with no
 English is left unnamed by the build, and an unnamed row plays in Japanese.

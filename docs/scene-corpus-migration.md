@@ -50,8 +50,8 @@ on one row of a bubble and Japanese on the next.
 
 ### 1. Bake the row layout
 
-4469 speeches are drawn in more lines than their window has and 1269 more have a
-blank row where the game speaks. `modules/SpeechRows.js` takes 3143 of the
+3346 speeches are drawn in more lines than their window has and 1331 more have a
+blank row where the game speaks. `modules/SpeechRows.js` takes 2507 of the
 overflows back by laying the same words across the rows the bytecode gives them.
 
 Bake it into the `.tsv` rather than doing it in the reader, for the reason
@@ -103,12 +103,16 @@ coming in, not a corpus merge.
 
 | | | |
 |---|---|---|
-| speeches too long for any layout | 1326 | shorten by meaning, by hand |
-| a 「 or 」 lost at a row boundary | 3609 | massable, one pass |
-| shifted English | 18 | by hand; 12 are one scene, `031792.tsv`, a letter whose English is fifteen rows of dots and wants translating |
-| untranslated scenario notes | 60 rows | decide whether they are wanted at all |
+| speeches too long for any layout | 839 | shorten by meaning, by hand |
+| ~~a 「 or 」 lost at a row boundary~~ | ~~3609~~ | **done** — 4972 speeches over five passes, [docs/speech-brackets.md](speech-brackets.md) |
+| a bracket on the wrong row of the right speech | 191 | 100 row patterns; the 21 largest are the game's own marks a row too early, the rest a decision about which words are quoted |
+| shifted English | 19 | by hand; 12 are one scene, `031792.tsv`, a letter whose English is fifteen rows of dots and wants translating |
+| a whole shifted run no report sees | 23 rows | `033355.tsv`, held out of the bracket rules by `SHIFTED_RUNS` |
+| untranslated scenario notes | 61 rows | decide whether they are wanted at all |
 
-The first two want doing after the bake, which moves both.
+The first wants doing after the bake, which moves it. The brackets deliberately
+went **before** it: they are written glued to a word, so a bake carries them
+along, and doing them first meant the bake starts from bubbles that close.
 
 ### Left open on purpose
 
