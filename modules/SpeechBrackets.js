@@ -122,13 +122,15 @@ const holdsAllOf = (shape, inner) => {
 };
 
 /**
- * Which bucket the difference between the two shapes falls in, and what to do
- * about it.
+ * Which bucket the difference between the two shapes falls in, and which rule
+ * has an answer for it.
  *
- * The first three are decidable without reading the line: the English shape is
- * the Japanese one with a bracket taken off an end, so putting that bracket
- * back is the only edit that makes them agree. The rest name what somebody has
- * to look at.
+ * The three `lost` buckets are decidable without reading the line: the English
+ * shape is the Japanese one with a bracket taken off an end, so putting that
+ * bracket back is the only edit that makes the two agree. `quotes` and `rows`
+ * are rules rather than deductions and are named as such -- what makes them
+ * safe is not the rule but verifyFix, which asks the rows afterwards. `other`
+ * has no rule, which is the finding.
  */
 const classify = (japanese, english) => {
     if (japanese === english) {
@@ -136,25 +138,47 @@ const classify = (japanese, english) => {
     }
     if (english.includes("\"")) {
         return asJapaneseQuotes(english) === japanese
-            ? {bucket: "straight-quotes", fix: null}
+            ? {bucket: "straight-quotes", fix: {kind: "quotes"}}
             : {bucket: "other", fix: null};
     }
     const opens = OPENERS.includes(japanese[0]);
     const closes = CLOSERS.includes(japanese[japanese.length - 1]);
     if (closes && english === japanese.slice(0, -1)) {
-        return {bucket: "closing-lost", fix: {close: japanese[japanese.length - 1]}};
+        return {bucket: "closing-lost", fix: {kind: "lost", close: japanese[japanese.length - 1]}};
     }
     if (opens && english === japanese.slice(1)) {
-        return {bucket: "opening-lost", fix: {open: japanese[0]}};
+        return {bucket: "opening-lost", fix: {kind: "lost", open: japanese[0]}};
     }
     if (opens && closes && english === japanese.slice(1, -1)) {
-        return {bucket: "both-lost", fix: {open: japanese[0], close: japanese[japanese.length - 1]}};
+        return {bucket: "both-lost",
+            fix: {kind: "lost", open: japanese[0], close: japanese[japanese.length - 1]}};
     }
     if (holdsAllOf(english, japanese)) {
-        return {bucket: "extra", fix: null};
+        return {bucket: "extra", fix: {kind: "rows"}};
     }
     return {bucket: "other", fix: null};
 };
+
+/**
+ * The rows no bracket pass may touch, and why.
+ *
+ * 033355.tsv m[230508]-m[230530] is 23 rows whose English sits one row late:
+ * m[230508] says what m[230509] says in Japanese, and so on until m[230530],
+ * where the run ends on an empty cell and the scene comes back into step. It is
+ * the shifted class of modules/SpeechGaps.js and not this one -- and that class
+ * does not report it, because both of its signals need the wrong row to *look*
+ * wrong. This is a third signal for the same fault: a shifted run cuts every
+ * 「…」 in half, so a speech starts with the closer of the one before it and
+ * ends with the opener of the one after. Seven speeches in the run have the
+ * shape 」「 and nothing else in 5433 scenes does.
+ *
+ * Excluded rather than fixed, because a bracket written onto a row that is
+ * carrying somebody else's sentence makes the wrong text look finished.
+ */
+const SHIFTED_RUNS = [{file: "033355.tsv", from: 230508, to: 230530}];
+
+const isShifted = (file, lineNumber) => SHIFTED_RUNS.some(run =>
+    run.file === file && lineNumber >= run.from && lineNumber <= run.to);
 
 /** Worst first, which is also the order they are worth deciding in. */
 export const BUCKETS = ["closing-lost", "opening-lost", "both-lost", "straight-quotes", "extra", "other"];
@@ -196,13 +220,16 @@ const withoutBrackets = (text) => text
  * Whether a fix did what it said, asked of the rows after it rather than of
  * the rule that made it.
  *
- * Two conditions, and counting the symbols is neither of them: 「」 and 」「 hold
+ * Three conditions, and counting the symbols is none of them: 「」 and 」「 hold
  * the same two characters and only one of them is a speech. So the shape is
  * compared **in order**, as a string, which is the same comparison `classify`
  * makes and subsumes any tally. The second condition is that nothing else on
- * the rows moved.
+ * the rows moved. The third is that no row the fix touched was left empty --
+ * `assemblePatch` reads a blank cell as "not translated" and the row plays in
+ * Japanese, so a rule that takes a 」 off a row holding nothing else would
+ * quietly put one line of the game back into Japanese.
  *
- * @return {{shape: string, kept: boolean, matches: boolean}}
+ * @return {{shape: string, kept: boolean, matches: boolean, filled: boolean}}
  */
 export const verifyFix = (spoken, before, edits) => {
     const after = textsOf(spoken, edits);
@@ -211,15 +238,22 @@ export const verifyFix = (spoken, before, edits) => {
         shape,
         matches: shape === japaneseShape(after.japanese),
         kept: withoutBrackets(after.english) === withoutBrackets(before.english),
+        filled: [...edits.values()].every(text => text.trim()),
     };
 };
 
+/** Whether the whole post-condition holds, which is what the writer gates on. */
+export const holds = (verified) => Boolean(verified?.matches && verified.kept && verified.filled);
+
 /**
- * The English of one speech's rows with the fix written in.
+ * Putting back the bracket that fell off an end of the speech.
  *
  * The opener goes on the first row that has English and the closer on the last,
  * glued to the text rather than spaced off it, and the trailing space the draft
- * left behind 「W-wife!? comes off with it.
+ * left behind 「W-wife!? comes off with it. Glued rather than placed, because
+ * the row layout is about to be baked into the `.tsv` and a bake moves words
+ * between the rows of a speech: a bracket stuck to a word travels with the
+ * word, and one written into a row of its own does not.
  *
  * The continuation indent in front of the opener is taken from **the game's own
  * row**, not from the English cell. The indent sits the text under the 「 that
@@ -227,11 +261,8 @@ export const verifyFix = (spoken, before, edits) => {
  * other -- and the draft put one on the first row of 030331.tsv m[566], where
  * 　「 would draw a full-width space and then the bracket, which is a row the
  * game never writes.
- *
- * @return {Map<number, string>} only the rows that change
  */
-export const applyBracketFix = (rows, fix) => {
-    const written = rows.filter(row => carriesText(row) && englishOf(row));
+const lostBracket = (written, fix) => {
     const edits = new Map();
     if (fix.open) {
         const row = written[0];
@@ -240,10 +271,92 @@ export const applyBracketFix = (rows, fix) => {
     }
     if (fix.close) {
         const row = written[written.length - 1];
-        const text = (edits.get(row.lineNumber) ?? row.english).trimEnd() + fix.close;
-        edits.set(row.lineNumber, text);
+        edits.set(row.lineNumber, (edits.get(row.lineNumber) ?? row.english).trimEnd() + fix.close);
     }
     return edits;
+};
+
+const opensInEnglish = (char) => OPENERS.includes(char) || char === "(";
+const closesInEnglish = (char) => CLOSERS.includes(char) || char === ")";
+
+/**
+ * Taking off the brackets the draft put at the ends of rows the game does not
+ * end there.
+ *
+ * The fork treated each row as a self-contained utterance: it closed 」 on every
+ * row of a bubble rather than on the last, and 759 speeches read 「…」 / …」 with
+ * a closing quote in the middle of them. That is the same mistake that lost the
+ * closers -- a row is not an utterance -- so it is the same rule read the other
+ * way: **a row may carry a bracket at an end only where the game's own row
+ * carries one there.** Asked of the row's Japanese and never of its neighbours,
+ * which is what makes it decidable at all.
+ *
+ * It leaves the middle of a row alone, so a draft that put （…） inside a
+ * sentence the game did not fails the post-condition and is reported instead of
+ * rewritten -- which is the right answer, because that one is a choice about
+ * English rather than a bracket that fell off.
+ */
+const rowEndBrackets = (written) => {
+    const edits = new Map();
+    for (const row of written) {
+        const indent = row.english.startsWith("　") ? "　" : "";
+        const japanese = row.japanese.replace(/^　/, "");
+        let text = row.english.slice(indent.length).trim();
+        if (opensInEnglish(text[0]) && !OPENERS.includes(japanese[0])) {
+            text = text.slice(1).trimStart();
+        }
+        if (closesInEnglish(text[text.length - 1])
+            && !CLOSERS.includes(row.japanese.trimEnd().slice(-1))) {
+            text = text.slice(0, -1).trimEnd();
+        }
+        if (indent + text !== row.english) {
+            edits.set(row.lineNumber, indent + text);
+        }
+    }
+    return edits;
+};
+
+/**
+ * Straight quotes turned back into the brackets they stood in for.
+ *
+ * The alternation runs across the whole speech and not across a row, because a
+ * bubble opened on one row closes on another. Which quote a `"` was depends
+ * only on how many came before it, and `classify` has already checked that
+ * reading them that way reproduces the Japanese exactly -- so this writes what
+ * that check proved rather than guessing again.
+ */
+const straightQuotes = (written) => {
+    const edits = new Map();
+    let open = true;
+    for (const row of written) {
+        const text = [...row.english].map(char => {
+            if (!ENGLISH_FORM.has(char) || ENGLISH_FORM.get(char) !== "\"") {
+                return char;
+            }
+            open = !open;
+            return open ? "」" : "「";
+        }).join("");
+        if (text !== row.english) {
+            edits.set(row.lineNumber, text);
+        }
+    }
+    return edits;
+};
+
+/**
+ * The English of one speech's rows with the fix written in.
+ *
+ * @return {Map<number, string>} only the rows that change
+ */
+export const applyBracketFix = (rows, fix) => {
+    const written = rows.filter(row => carriesText(row) && englishOf(row));
+    if (fix.kind === "rows") {
+        return rowEndBrackets(written);
+    }
+    if (fix.kind === "quotes") {
+        return straightQuotes(written);
+    }
+    return lostBracket(written, fix);
 };
 
 /**
@@ -282,11 +395,15 @@ export const findSpeechBrackets = async (lang, only) => {
 
             const drawn = drawnLines(rows.map(englishOf));
             const budget = rowBudget(rows.length);
-            const edits = verdict.fix ? applyBracketFix(rows, verdict.fix) : new Map();
+            // A shifted run has no bracket fault to fix -- it has somebody
+            // else's sentence on the row -- so no rule is offered one.
+            const shifted = isShifted(fileName, speech.lineNumber);
+            const fix = shifted ? null : verdict.fix;
+            const edits = fix ? applyBracketFix(rows, fix) : new Map();
             const after = drawnLines(rows.map(row => edits.get(row.lineNumber) ?? englishOf(row)));
             // Asked of the rows the fix produced, never of the rule that made
             // it: a fix that is right by construction is a fix nobody checked.
-            const verified = verdict.fix ? verifyFix(spoken, texts, edits) : null;
+            const verified = fix ? verifyFix(spoken, texts, edits) : null;
 
             findings.push({
                 file: fileName,
@@ -298,6 +415,7 @@ export const findSpeechBrackets = async (lang, only) => {
                 rows,
                 edits,
                 verified,
+                shifted,
                 drawn,
                 after,
                 budget,

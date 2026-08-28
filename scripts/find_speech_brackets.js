@@ -15,7 +15,7 @@
  */
 import {flagValue} from "../modules/Argv.js";
 import {run} from "../modules/AliceTools.js";
-import {BUCKETS, countByBucket, englishOf, findSpeechBrackets} from "../modules/SpeechBrackets.js";
+import {BUCKETS, countByBucket, englishOf, findSpeechBrackets, holds} from "../modules/SpeechBrackets.js";
 import {textLangName} from "../modules/TextLanguages.js";
 
 const cell = (text, width) => JSON.stringify(text).slice(0, width).padEnd(width);
@@ -26,10 +26,13 @@ const showFinding = (finding) => {
     const fit = finding.pushedOver
         ? `, and the fix pushes it over the window: ${finding.drawn} -> ${finding.after} of ${finding.budget}`
         : finding.overflowedBefore ? `, already over the window: ${finding.drawn} of ${finding.budget}` : "";
-    const checked = finding.verified && !(finding.verified.matches && finding.verified.kept)
-        ? `  !! the fix does not verify: ${finding.verified.matches ? "" : `shape ${finding.verified.shape || "(none)"}`}`
-            + `${finding.verified.kept ? "" : " the text on the rows changed"}`
-        : "";
+    const checked = finding.shifted
+        ? "  !! inside a shifted run: the English on these rows belongs to other rows"
+        : finding.verified && !holds(finding.verified)
+            ? `  !! the fix does not verify:${finding.verified.matches ? "" : ` shape ${finding.verified.shape || "(none)"}`}`
+                + `${finding.verified.kept ? "" : " the text on the rows changed"}`
+                + `${finding.verified.filled ? "" : " it would leave a row empty"}`
+            : "";
     console.log(`${finding.file} m[${finding.lineNumber}] ${finding.speaker}`
         + ` -- ${finding.bucket}${marks}, ${finding.shape.japanese || "(none)"}`
         + ` -> ${finding.shape.english || "(none)"}${fit}${checked}`);
@@ -74,10 +77,17 @@ await run(async () => {
     // says so. Both halves are asked -- the brackets in order, which subsumes
     // any tally of them, and the rest of the row unmoved.
     const fixable = wanted.filter(finding => finding.verified);
-    const failed = fixable.filter(finding => !finding.verified.matches || !finding.verified.kept);
-    console.log(`\n${fixable.length - failed.length} of ${fixable.length} fixes verify: the English then`
-        + " carries the same brackets in the same order as the Japanese, and nothing else on the rows"
-        + ` moved. ${failed.length} do not${failed.length ? ", and are marked !! below" : "."}`);
+    const failed = fixable.filter(finding => !holds(finding.verified));
+    console.log(`\n${fixable.length - failed.length} of ${wanted.length} findings have a fix that verifies:`
+        + " the English then carries the same brackets in the same order as the Japanese, nothing else on"
+        + " the rows moved, and no row was left empty. The other"
+        + ` ${wanted.length - fixable.length + failed.length} want reading, and are marked !! below.`);
+
+    const shifted = wanted.filter(finding => finding.shifted);
+    if (shifted.length) {
+        console.log(`${shifted.length} of those are inside a shifted run and are not a bracket fault at all:`
+            + " SHIFTED_RUNS in modules/SpeechBrackets.js says which rows and how they were found.");
+    }
 
     const pushed = wanted.filter(finding => finding.pushedOver);
     if (pushed.length) {
