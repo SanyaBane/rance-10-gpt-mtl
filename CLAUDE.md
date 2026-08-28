@@ -401,6 +401,26 @@ alice ain dump -t -o built.txt <built>.ain     # strings and messages
 alice ain dump -c -o built.code <built>.ain    # code, for .jaf overrides
 ```
 
+**For a corpus edit there is a cheaper check that answers more, and it comes
+first.** `scripts/effective_map.js` reads the rendered patch into the map
+alice-tools would end up with -- each number against the **last** assignment
+naming it -- so a snapshot before and after says whether exactly the intended
+numbers changed:
+
+```
+node scripts/regenerate_aai_txt.js && node scripts/effective_map.js save before
+node scripts/regenerate_aai_txt.js && node scripts/effective_map.js save after
+node scripts/effective_map.js diff before after
+```
+
+Hold the changed count against the number of rows edited. Equal is the answer.
+Reading the diff of the patch instead cannot give one: a duplicate `s[N]` is
+invisible there and decisive in a build, and a diff shows what was written
+rather than what arrived. That difference is what caught a bracket pass eating
+the tabs the scene format escapes -- 1622 rows edited against 1620 numbers
+changed, and every other check that ran, including that pass's own
+post-condition, was happy.
+
 Build into a scratch directory rather than the real one while testing:
 `node scripts/ain.js --out=build/scratch` sends every one of the three builds
 somewhere else, resolved against the repository root and created if it is not
