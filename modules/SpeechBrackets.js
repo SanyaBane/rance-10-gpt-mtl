@@ -380,6 +380,41 @@ export const applyBracketFix = (rows, fix) => {
 };
 
 /**
+ * Whether a lost fix's brackets are the speech's own -- the opener at the start
+ * of its first spoken row, the closer at the end of its last.
+ *
+ * A `lost` shape says the English is the Japanese with a bracket taken off an
+ * end, and lostBracket puts that bracket on the first written row or the last.
+ * That is the right place only where the Japanese opened the speech with it and
+ * closed the speech with it. Where the Japanese carries the pair *inside* the
+ * speech instead -- 『魂』 emphasising a word, 「ドラゴンパッチ６巻」 naming a
+ * book, （強引に） qualifying a clause mid-sentence -- the shape still reads as a
+ * lost bucket, because a draft that rendered the inner quote as '...' carries no
+ * bracket englishShape can see. Wrapping such a speech quotes the whole line:
+ * 91 narration and annotation rows became a quote box around a paragraph that
+ * way, and verifyFix passed each because the shape 『』 was right in order and
+ * the words were untouched -- a bracket in the wrong place reads as correct to
+ * a check that asks the speech and not the row.
+ *
+ * So the lost rules refuse an internal bracket, exactly as rowEndBrackets leaves
+ * the middle of a row alone: a bracket inside the text is a choice about which
+ * words are quoted, not a mark that fell off an end, and it is reported for a
+ * human rather than wrapped.
+ */
+const bracketsAtSpeechBoundary = (spoken, fix) => {
+    if (fix.open && spoken[0].japanese.replace(/^　/, "")[0] !== fix.open) {
+        return false;
+    }
+    if (fix.close) {
+        const last = spoken[spoken.length - 1].japanese.replace(spacesAtEnd, "");
+        if (last[last.length - 1] !== fix.close) {
+            return false;
+        }
+    }
+    return true;
+};
+
+/**
  * Every speech whose English does not carry the brackets its Japanese does.
  *
  * @param {string} lang
@@ -418,7 +453,14 @@ export const findSpeechBrackets = async (lang, only) => {
             // A shifted run has no bracket fault to fix -- it has somebody
             // else's sentence on the row -- so no rule is offered one.
             const shifted = isShifted(fileName, speech.lineNumber);
-            const fix = shifted ? null : verdict.fix;
+            // A lost fix whose bracket the Japanese carries inside the speech
+            // rather than at its boundary would wrap the whole speech, so it is
+            // withheld and reported the way rowEndBrackets leaves an internal
+            // bracket alone. Only the lost rules place a bracket at a boundary;
+            // rows and quotes edit in place and cannot make this mistake.
+            const internal = verdict.fix?.kind === "lost"
+                && !bracketsAtSpeechBoundary(spoken, verdict.fix);
+            const fix = shifted || internal ? null : verdict.fix;
             const edits = fix ? applyBracketFix(rows, fix) : new Map();
             const after = drawnLines(rows.map(row => edits.get(row.lineNumber) ?? englishOf(row)));
             // Asked of the rows the fix produced, never of the rule that made
@@ -436,6 +478,7 @@ export const findSpeechBrackets = async (lang, only) => {
                 edits,
                 verified,
                 shifted,
+                internal,
                 drawn,
                 after,
                 budget,

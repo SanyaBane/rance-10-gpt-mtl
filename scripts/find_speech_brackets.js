@@ -28,6 +28,8 @@ const showFinding = (finding) => {
         : finding.overflowedBefore ? `, already over the window: ${finding.drawn} of ${finding.budget}` : "";
     const checked = finding.shifted
         ? "  !! inside a shifted run: the English on these rows belongs to other rows"
+        : finding.internal
+            ? "  !! the bracket is inside the speech, not at its ends: wrapping it would quote the whole line"
         : finding.verified && !holds(finding.verified)
             ? `  !! the fix does not verify:${finding.verified.matches ? "" : ` shape ${finding.verified.shape || "(none)"}`}`
                 + `${finding.verified.kept ? "" : " the text on the rows changed"}`
@@ -87,6 +89,13 @@ await run(async () => {
     if (shifted.length) {
         console.log(`${shifted.length} of those are inside a shifted run and are not a bracket fault at all:`
             + " SHIFTED_RUNS in modules/SpeechBrackets.js says which rows and how they were found.");
+    }
+
+    const internal = wanted.filter(finding => finding.internal);
+    if (internal.length) {
+        console.log(`${internal.length} of those carry the bracket inside the speech rather than at its ends --`
+            + " an emphasised word, a title, a mid-sentence aside -- so no rule wraps them:"
+            + " bracketsAtSpeechBoundary in modules/SpeechBrackets.js says why.");
     }
 
     const pushed = wanted.filter(finding => finding.pushedOver);
