@@ -231,42 +231,42 @@
 141333	-		ホーネットはランスの方は見ず、	Hornet didn't look at Rance,
 141334	+		サテラにのみ話す。	and spoke only to Satella.
 
-141335	Hornet		「あれをここまで暴走させたのは……	「The one who let that one run wild this far...
-141336	+		　止められなかった私に責があります」	　is me, for failing to stop him.」
+141335	Hornet		「あれをここまで暴走させたのは……	「The blame for letting him run wild this far...
+141336	+		　止められなかった私に責があります」	　lies with me, for failing to stop him.」
 
-141337	Hornet		「もちろん、死ぬ気はありません。	「Of course I have no intention of dying.
-141338	+		　勝てると確信を持ってから戦います」	　I will fight only when I'm certain of victory.」
+141337	Hornet		「もちろん、死ぬ気はありません。	「Of course, I have no intention of dying.
+141338	+		　勝てると確信を持ってから戦います」	　I will fight only once I am certain of victory.」
 
-141339	Hornet		「そして、世界をまた以前のような――	「And restore the world to its previous state――
-141340	?		　魔人による調和ある支配を」	　a harmonious rule by the Fiend.」
+141339	Hornet		「そして、世界をまた以前のような――	「And return the world once more to how it was――
+141340	?		　魔人による調和ある支配を」	　to a harmonious rule by the Fiends.」
 
 141341	Rance	怒り	「ええい、何を勝手なこと言っとるか！」	「Hey, what nonsense are you spouting!」
 
 141342	Kentou Kanami	うがー	「そ、そうよそうよ……！	「T-that's right...!
-141343	+		　魔人による支配だなんて……！	　Rule by Fiend...!
-141344	+		　私達はそれを防ぐ為に戦っているのに……！」	　We're fighting to stop that...!」
+141343	+		　魔人による支配だなんて……！	　`Rule by Fiends`?!
+141344	+		　私達はそれを防ぐ為に戦っているのに……！」	　We've been fighting this whole time to prevent that...!」
 
 141345	Hornet	基本	「…………」	「............」
 
-141346	-		ホーネットは人の言葉に心を傾けない。	Hornet paid no mind to human words.
+141346	-		ホーネットは人の言葉に心を傾けない。	Hornet did not take human words to heart.
 
-141347	-		それは、人が犬が吠えているのが	It was as if a human barking like a dog
-141348	+		耳に入らないかのように。	couldn't reach her ears.
+141347	-		それは、人が犬が吠えているのが	Just as a human pays no real mind
+141348	+		耳に入らないかのように。	to the barking of a dog.
 
-141349	-		それでも、彼女は人間に語りかける。	Even so, she spoke to humans.
-141350	+		それはひとえに彼女が優しい魔人だから。	That was simply because she was a kind Fiend.
+141349	-		それでも、彼女は人間に語りかける。	And yet, she still addressed the humans.
+141350	+		それはひとえに彼女が優しい魔人だから。	Solely because she was, in her own way, a kind Fiend.
 
 141351	Hornet		「人の身では……	「From a human's perspective...
 141352	+		　そう感じるのも当然でしょう」	　it's natural to feel that way.」
 
-141353	Hornet		「ですが、これが天命です」	「But this is destiny.」
+141353	Hornet		「ですが、これが天命です」	「However, this is providence.」
 
-141354	Hornet		「人の長、貴方に言います。	「Leader of humans, I say to you.
-141355	+		　勘違いはしないで下さい」	　Do not misunderstand.」
+141354	Hornet		「人の長、貴方に言います。	「Leader of humanity, I tell you this:
+141355	+		　勘違いはしないで下さい」	　do not misunderstand.」
 
-141356	Hornet		「人類に選択権はありません。　	「Humans have no choice.
-141357	+		　貴方達に許された自由は、その支配が……	　The only freedom allowed to you is
-141358	+		　自分達にとって幸福であることを願うだけです」	　to wish that this rule brings you happiness.」
+141356	Hornet		「人類に選択権はありません。　	「Humanity has no choice in the matter.
+141357	+		　貴方達に許された自由は、その支配が……	　The only freedom granted to you...
+141358	+		　自分達にとって幸福であることを願うだけです」	　is to pray that our rule brings you happiness.」
 
 141359	Sill Plain	泣き	「そ、そんな……」	「S-such...」
 
@@ -287,23 +287,23 @@
 
 141369	Hornet		「…………」	「............」
 
-141370	Rance	怒り	「お前は俺様が助けたんだぞ！	「I saved you!
-141371	+		　それなら、俺に感謝して	　So you should be grateful
-141372	+		　俺に抱かれる義務が発生する筈だ！」	　and have the duty to let me fuck you!」
+141370	Rance	怒り	「お前は俺様が助けたんだぞ！	「I'm the one who saved you, you know!
+141371	+		　それなら、俺に感謝して	　Which means you ought to be grateful
+141372	+		　俺に抱かれる義務が発生する筈だ！」	　and fulfill your duty to let me fuck you!」
 
-141373	Satella	あほー	「この馬鹿ーーーーーッ！」	「You idiot-----!」
+141373	Satella	あほー	「この馬鹿ーーーーーッ！」	「You utter idioooooot!」
 
-141374	Rance	基本	「こ、こらこら、何を怒ってる……」	「H-hey hey, why are you mad...」
+141374	Rance	基本	「こ、こらこら、何を怒ってる……」	「H-Hey now, why are you so mad...」
 
-141375	Satella	あほー	「おおお、お前という奴は	「You, you really are
-141376	+		　ほほほ、ホーネット様に向かって	　hohoho, saying such things
-141377	+		　なんて恐れ知らず、なんて恥知らずな！」	　to Hornet-sama, you fearless shameless fool!」
+141375	Satella	あほー	「おおお、お前という奴は	「Y-Y-You... How could you say that
+141376	+		　ほほほ、ホーネット様に向かって	　to H-H-Hornet-sama, of all people?!
+141377	+		　なんて恐れ知らず、なんて恥知らずな！」	　How utterly fearless—how utterly shameless can you be?!」
 
-141378	Silky Littleraisin	笑顔	「くくっ……」	「Kuku...」
+141378	Silky Littleraisin	笑顔	「くくっ……」	「*Snicker*...」
 
 141379	Hornet	基本	「シルキィ」	「Silky.」
 
-141380	Silky Littleraisin		「ふ、ふふ……失礼を……」	「F-fufu... Excuse me...」
+141380	Silky Littleraisin		「ふ、ふふ……失礼を……」	「F-Fufu... My apologies...」
 
 141381	La Hawzel	武装なし／笑顔	「ふふっ……」	「Fufu...」
 
