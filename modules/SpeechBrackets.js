@@ -204,17 +204,31 @@ const textsOf = (spoken, edits) => ({
 });
 
 /**
+ * The space a fix is allowed to move: an ASCII space and a full-width one, and
+ * deliberately not `\s`.
+ *
+ * A tab is whitespace to a regular expression and content to this format. 2929
+ * of the game's messages hold one -- 033734.tsv writes its scenario notes with
+ * two at the start of every row -- and modules/SceneFile.js escapes them for
+ * exactly that reason. A rule that reached for `\s` or for trim() ate 15 of
+ * them, and the post-condition below said nothing because it was collapsing
+ * `\s` too. Both halves now name the two spaces they mean.
+ */
+const spacesAtEnd = /[ 　]+$/;
+const spacesAtStart = /^[ 　]+/;
+
+/**
  * What the speech says with every bracket and every run of space taken out.
  *
  * The second half of the post-condition: the fix is allowed to add or remove a
- * bracket and to tidy the whitespace at the ends of a row it touched, and
- * nothing else. Held against the same string built before the edit, this is
- * what says a rewrite has not eaten a word.
+ * bracket and to close up the space where it was, and nothing else. Held
+ * against the same string built before the edit, this is what says a rewrite
+ * has not eaten a word -- or a tab.
  */
 const withoutBrackets = (text) => text
     .replace(new RegExp(`[${BRACKETS}()"“”]`, "g"), "")
-    .replace(/[\s　]+/g, " ")
-    .trim();
+    .replace(/[ 　]+/g, " ")
+    .replace(/^ | $/g, "");
 
 /**
  * Whether a fix did what it said, asked of the rows after it rather than of
@@ -267,11 +281,12 @@ const lostBracket = (written, fix) => {
     if (fix.open) {
         const row = written[0];
         const indent = row.japanese.startsWith("　") ? "　" : "";
-        edits.set(row.lineNumber, indent + fix.open + row.english.replace(/^[\s　]+/, ""));
+        edits.set(row.lineNumber, indent + fix.open + row.english.replace(spacesAtStart, ""));
     }
     if (fix.close) {
         const row = written[written.length - 1];
-        edits.set(row.lineNumber, (edits.get(row.lineNumber) ?? row.english).trimEnd() + fix.close);
+        const text = edits.get(row.lineNumber) ?? row.english;
+        edits.set(row.lineNumber, text.replace(spacesAtEnd, "") + fix.close);
     }
     return edits;
 };
@@ -299,15 +314,20 @@ const closesInEnglish = (char) => CLOSERS.includes(char) || char === ")";
 const rowEndBrackets = (written) => {
     const edits = new Map();
     for (const row of written) {
-        const indent = row.english.startsWith("　") ? "　" : "";
         const japanese = row.japanese.replace(/^　/, "");
-        let text = row.english.slice(indent.length).trim();
+        const indent = row.english.startsWith("　") ? "　" : "";
+        // Only ever sliced at a bracket and closed up with the space that was
+        // beside it. Never trimmed: this runs over every row of the speech
+        // rather than over the two ends, so a rule that tidies as it goes
+        // rewrites rows that have no bracket on them at all.
+        let text = row.english.slice(indent.length);
         if (opensInEnglish(text[0]) && !OPENERS.includes(japanese[0])) {
-            text = text.slice(1).trimStart();
+            text = text.slice(1).replace(spacesAtStart, "");
         }
-        if (closesInEnglish(text[text.length - 1])
-            && !CLOSERS.includes(row.japanese.trimEnd().slice(-1))) {
-            text = text.slice(0, -1).trimEnd();
+        const untilSpace = text.replace(spacesAtEnd, "");
+        if (closesInEnglish(untilSpace[untilSpace.length - 1])
+            && !CLOSERS.includes(row.japanese.replace(spacesAtEnd, "").slice(-1))) {
+            text = untilSpace.slice(0, -1).replace(spacesAtEnd, "");
         }
         if (indent + text !== row.english) {
             edits.set(row.lineNumber, indent + text);
