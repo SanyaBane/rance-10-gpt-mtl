@@ -265,8 +265,18 @@ reproduces the original exactly:
 Overriding a total changes the roll and the number the result screen prints,
 since `CalcResult` and `InitResultView` read the same getter — which is the right
 behaviour, and worth keeping if anything here is ever tuned. Overriding `Set#1`
-by type is the narrower knob: it is where a different figure than 50 would go
-without touching the other four bonuses.
+by type is the narrower knob: it is where a different figure than 50 goes
+without touching the other four bonuses, and it is exactly what
+`features/first-finisher-100/` now does — the First Finisher line paid as 100
+rather than 50, so the itemised value and the total both move and still agree.
+That feature is a `.jam` plus a switch-file `.jaf` rather than a plain `.jaf`
+`override`, because `Set#1`'s first parameter is the enum `BattleBonusType`,
+which the `.jaf` compiler will not name: an `override` of it is a parse error as
+`BattleBonusType type` and a type error the moment `super()` is handed it back as
+`int type`. So the figure is substituted in assembly, gated on the type being
+`初トドメ` (`BattleBonusType` 8). Paired with `features/always-first-finisher/`,
+which pays that line every won battle rather than the first kill, +100 makes
+every won battle a certain chest.
 
 Whichever it is, verify against the built `.ain` rather than the patch, the way
 the rest of this repository does. An `override` shows up in
