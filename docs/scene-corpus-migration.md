@@ -67,14 +67,35 @@ Two rules it must respect, both learned the hard way:
   full-width spaces. Filling those flattens the author's layout, and asking
   `layOutSpeech` to fill them is what made 101 speeches look impossible to fit
   where the real number is one.
-- **do it while the chunk files still exist.** If a bake goes wrong,
-  `npm run extract-scenes` restores every English cell in one command. After
-  step 2 there is no such undo.
+- **do not reach for the chunk files as an undo.** This step used to say to
+  bake while they still exist, on the grounds that `npm run extract-scenes`
+  restores every English cell in one command. It does not. That script fills the
+  English column from `readCorpus`, which is `gpt_outputs*/`, and writes into
+  `build/scenes/` — so what it hands back is the chunk-era English, and the
+  chunks stopped being the corpus at `1581d8e4`. **6388 of the tree's 269677
+  rows already say something else**: the five bracket passes, develop's refined
+  lines carried in at `41592050`, and two "Refine translation" commits.
+  Restoring from them would reopen 4972 bubbles. The undo is git — commit the
+  bake by itself, and check it by reading the result back rather than by keeping
+  a way to put the draft back.
+
+That count is worth re-taking rather than trusting, because every commit into
+the scenes moves it: `readCorpus(textLangDir("en_grok"), v100ToV104)` held
+against `readTranslatedScenes("en_grok")` and keyed by line number is the whole
+comparison. It also finds 60 rows no chunk record covers at all.
 
 Verify by rendering and comparing the *effective* mapping — each number against
 the last assignment naming it, which is what alice-tools applies — not the file.
+`scripts/effective_map.js` is that comparison, and `docs/speech-brackets.md` is
+what it caught the last time a pass rewrote rows in bulk.
 
 ### 2. Delete `gpt_outputs*/`
+
+Nothing makes this wait for step 1 any more: it was second because of the undo
+above, and there is none. What it does have is one dependency worth knowing
+before starting — the driver's first stage reads `build/scenes/`, which
+`extract_scenes` fills from the chunks, so deleting them without that port stops
+`request-scenes` and `accept-scenes` rather than only the reports.
 
 - `scripts/extract_scenes.js` changes role: it fills the English column from the
   corpus today, and afterwards has to carry forward what the scenes already say.
