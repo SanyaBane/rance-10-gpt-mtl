@@ -1,5 +1,5 @@
 /**
- * The two names the honorific pass could not see, and why each was invisible.
+ * The names the honorific pass could not see, and why each was invisible.
  *
  *   node scripts/fix_honorifics_untabled.js            # what it would do
  *   node scripts/fix_honorifics_untabled.js --write    # do it
@@ -7,7 +7,7 @@
  * scripts/fix_honorifics.js pairs an English name to its Japanese through
  * glossaries/mistranslated_names.json and glossaries/card_name_glossary.tsv,
  * and files everything it cannot pair under `unknown-name` rather than
- * guessing. Two of those are not guesses at all:
+ * guessing. Four of those are not guesses at all, for three reasons:
  *
  * **パイアール is Pi-R**, and the hyphen is the whole reason it was missed:
  * `readNameIndex` admits a name matching `/^[A-Z][A-Za-z]*$/` and the ADDRESS
@@ -19,6 +19,21 @@
  * spelled out in glossaries/character_genders.md and in
  * glossaries/enemy_party_glossary.tsv as `魔人メディウサ → Fiend Medusa`, so it
  * is settled; it is just settled somewhere the pass does not read.
+ *
+ * **香 is Kou and 香姫 is Kouhime**, and the two languages cross them. Neither
+ * name is missing -- glossaries/mistranslated_names.json holds `Kou | 香` and
+ * `Kouhime | 香姫` -- so what is missing is the pairing: these speeches say
+ * 香様 and answer it "Lady Kouhime", or say 香姫様 and answer it "Lady Kou".
+ * The index looks the English up, gets the other form's Japanese, and files
+ * all 14 under `unpaired`, which means "the speech carries no honorific at
+ * all" and here was never true of one of them.
+ *
+ * **The name form is left exactly where it is.** 香様 reads "Kou-sama" 25
+ * times elsewhere in the corpus and 香姫様 reads "Kouhime-sama" 11, so these 14
+ * disagree about which of the two forms to use as well -- and that is a
+ * finding for scripts/find_term_drift.js rather than for this, which has never
+ * done anything but drop the title and write the honorific after the name the
+ * row already carries.
  *
  * Leaving them cost more than a missing substitution. Four rows name two
  * characters who both carry 様 in the same sentence, and only one of them came
@@ -45,16 +60,25 @@ import {translatedScenesDir} from "../modules/SceneTranslations.js";
 import {textLangName} from "../modules/TextLanguages.js";
 
 /**
- * English name to Japanese, for the names no short-name table carries.
+ * English name to Japanese, for the pairings `readNameIndex` cannot make.
  *
- * Neither is a reading. Both are written down in
- * glossaries/character_genders.md -- Pi-R at パイアール, Medusa at メディウサ --
- * and again in glossaries/enemy_party_glossary.tsv as 魔人パイアール and
- * 魔人メディウサ.
+ * None of them is a reading. Pi-R and Medusa are written down in
+ * glossaries/character_genders.md -- at パイアール and メディウサ -- and again in
+ * glossaries/enemy_party_glossary.tsv as 魔人パイアール and 魔人メディウサ. The
+ * other two are in glossaries/mistranslated_names.json already and are here the
+ * other way round, because that is the way round these speeches use them.
+ *
+ * 香 is one common kanji, so the Japanese half of the guard is the weak half:
+ * what keeps the pair honest is the English half, which matches the whole name
+ * and refuses a longer one, so `Lady Kou` cannot match "Lady Kouhime". The
+ * corpus has no 志津香様 for the other end to be wrong about, and nothing here
+ * depends on that staying true.
  */
 const PAIRS = [
     {english: "Pi-R", japanese: "パイアール"},
     {english: "Medusa", japanese: "メディウサ"},
+    {english: "Kouhime", japanese: "香"},
+    {english: "Kou", japanese: "香姫"},
 ];
 
 const escapeForRegExp = (text) => text.replace(/[.*+?^${}()|[\]\\-]/g, "\\$&");
