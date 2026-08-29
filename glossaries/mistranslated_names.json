@@ -571,6 +571,8 @@
         "shortNameEng": "Kayblis",
         "shortNameJpn": "ケイブリス",
         "knownMistranslations": [
+            "Kaebri",
+            "Keyblis",
             "Caveblis",
             "Kaibriss",
             "Cave Bris",
@@ -3338,7 +3340,9 @@
     {
         "shortNameEng": "Darson",
         "shortNameJpn": "ダルソン",
-        "knownMistranslations": []
+        "knownMistranslations": [
+            "Darlson"
+        ]
     },
     {
         "shortNameEng": "Freak",
