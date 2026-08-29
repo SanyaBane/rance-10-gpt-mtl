@@ -1,0 +1,178 @@
+/**
+ * The two names the honorific pass could not see, and why each was invisible.
+ *
+ *   node scripts/fix_honorifics_untabled.js            # what it would do
+ *   node scripts/fix_honorifics_untabled.js --write    # do it
+ *
+ * scripts/fix_honorifics.js pairs an English name to its Japanese through
+ * glossaries/mistranslated_names.json and glossaries/card_name_glossary.tsv,
+ * and files everything it cannot pair under `unknown-name` rather than
+ * guessing. Two of those are not guesses at all:
+ *
+ * **パイアール is Pi-R**, and the hyphen is the whole reason it was missed:
+ * `readNameIndex` admits a name matching `/^[A-Z][A-Za-z]*$/` and the ADDRESS
+ * pattern matches the same shape, so "Lord Pi-R" was read as a name called
+ * "Pi" that no table holds.
+ *
+ * **メディウサ is Medusa**, and it has no short-name row in either table --
+ * only `メディウサメダル → Medusa Medallion`, which is a medal. The name is
+ * spelled out in glossaries/character_genders.md and in
+ * glossaries/enemy_party_glossary.tsv as `魔人メディウサ → Fiend Medusa`, so it
+ * is settled; it is just settled somewhere the pass does not read.
+ *
+ * Leaving them cost more than a missing substitution. Four rows name two
+ * characters who both carry 様 in the same sentence, and only one of them came
+ * out with the honorific: 「レイ様、パイアール様！」 reads "Lei-sama, Lord Pi-R!"
+ * and 「メディウサ様がここを襲ってデスココ様を殺して」 reads "Lady Medusa
+ * attacked here, killed Descoco-sama". **A pass that converts half of one
+ * sentence is worse than one that converts neither**, which is why this closes
+ * the two names rather than only the four rows where the split shows.
+ *
+ * The rule is the one fix_honorifics.js uses, for the same reasons: the
+ * question is asked of the **speech**, because the two languages break lines in
+ * different places and the 様 can sit in a row other than the one carrying the
+ * English name; the answer is written to the **row**, because re-laying-out a
+ * speech to change five characters rewrites what is not broken. "Lord " is 155
+ * units of the message window's 1194 and "-sama" is 166.75, so a row that
+ * fitted before still fits.
+ */
+import * as fs from "fs/promises";
+import * as path from "path";
+import {hasFlag} from "../modules/Argv.js";
+import {run} from "../modules/AliceTools.js";
+import {parseSceneFile, renderSceneFile, speechesOf} from "../modules/SceneFile.js";
+import {translatedScenesDir} from "../modules/SceneTranslations.js";
+import {textLangName} from "../modules/TextLanguages.js";
+
+/**
+ * English name to Japanese, for the names no short-name table carries.
+ *
+ * Neither is a reading. Both are written down in
+ * glossaries/character_genders.md -- Pi-R at パイアール, Medusa at メディウサ --
+ * and again in glossaries/enemy_party_glossary.tsv as 魔人パイアール and
+ * 魔人メディウサ.
+ */
+const PAIRS = [
+    {english: "Pi-R", japanese: "パイアール"},
+    {english: "Medusa", japanese: "メディウサ"},
+];
+
+const escapeForRegExp = (text) => text.replace(/[.*+?^${}()|[\]\\-]/g, "\\$&");
+
+/**
+ * "Lord Pi-R", "Lady Medusa" -- the title and this one whole name.
+ *
+ * Anchored on the entire name rather than on `[A-Z][A-Za-z]*`, which is the
+ * pattern that could not see the hyphen in the first place, and closed with a
+ * negative lookahead so that a longer name starting with this one cannot match.
+ * Built fresh per call, because a `g` regex carries `lastIndex` between uses
+ * and a shared one would skip rows depending on what the previous row matched.
+ */
+const addressOf = (name) =>
+    new RegExp(`\\b(?:Lord|Lady)\\s+${escapeForRegExp(name)}(?![A-Za-z])`, "g");
+
+/** The quotes and parentheses of a row, in the order they are written. */
+const bracketsOf = (text) =>
+    [...text].filter(character => "「」『』（）〈〉《》()".includes(character)).join("");
+
+/**
+ * What has to be true of the rewritten row, asked of the row rather than of
+ * the rule that made it.
+ *
+ * The length is the arithmetic of the substitutions, so a stray character
+ * anywhere else in the row fails it; the brackets are compared **in order**,
+ * because 「」 and 」「 hold the same two characters and only one of them is a
+ * speech; the leading whitespace is compared as bytes, because the
+ * continuation indent is a full-width space that belongs to the row and a tab
+ * is what the scene format escapes on purpose.
+ */
+const holds = (before, after, name, hits) => {
+    const grown = hits * (`${name}-sama`.length - `Lord ${name}`.length);
+    return after.length === before.length + grown
+        && addressOf(name).test(after) === false
+        && !after.includes("-sama-sama")
+        && !after.includes("\t")
+        && after.startsWith(before.match(/^[\s　]*/)[0])
+        && bracketsOf(after) === bracketsOf(before);
+};
+
+await run(async () => {
+    const write = hasFlag("write");
+    const dir = translatedScenesDir(textLangName());
+    const files = (await fs.readdir(dir)).filter(name => name.endsWith(".tsv"));
+
+    let rowsWritten = 0;
+    let occurrences = 0;
+    let filesWritten = 0;
+    const rowsLeft = [];
+    const filesLeft = [];
+
+    for (const file of files) {
+        const on = path.join(dir, file);
+        const text = await fs.readFile(on, "utf-8");
+        const scene = parseSceneFile(text);
+        if (renderSceneFile(scene) !== text) {
+            filesLeft.push(file);
+            continue;
+        }
+        const rows = new Map(scene.rows.map(row => [row.lineNumber, row]));
+        const english = new Map();
+
+        for (const speech of speechesOf(scene)) {
+            for (const {english: name, japanese} of PAIRS) {
+                if (!speech.japanese.includes(`${japanese}様`)
+                    && !speech.japanese.includes(`${japanese}さま`)) {
+                    continue;
+                }
+                for (const number of speech.rows) {
+                    const before = english.get(number) ?? rows.get(number).english;
+                    const hits = [...before.matchAll(addressOf(name))].length;
+                    if (!hits) {
+                        continue;
+                    }
+                    const after = before.replace(addressOf(name), `${name}-sama`);
+                    if (!holds(before, after, name, hits)) {
+                        rowsLeft.push(`${file} m[${number}]`);
+                        continue;
+                    }
+                    console.log(`  ${file} m[${number}]`);
+                    console.log(`    JP ${rows.get(number).japanese.trim()}`);
+                    console.log(`    -  ${before.trim()}`);
+                    console.log(`    +  ${after.trim()}`);
+                    if (!english.has(number)) {
+                        rowsWritten++;
+                    }
+                    english.set(number, after);
+                    occurrences += hits;
+                }
+            }
+        }
+
+        if (!english.size) {
+            continue;
+        }
+        filesWritten++;
+        if (write) {
+            await fs.writeFile(on, renderSceneFile(scene, english), "utf-8");
+        }
+    }
+
+    console.log(`\n${occurrences} occurrences${write ? " written" : " ready"}`
+        + `, on ${rowsWritten} rows in ${filesWritten} scenes`);
+    if (rowsLeft.length) {
+        console.log(`\n${rowsLeft.length} rows left alone -- the fix did not verify:`);
+        for (const row of rowsLeft) {
+            console.log(`  ${row}`);
+        }
+    }
+    if (filesLeft.length) {
+        console.log(`\n${filesLeft.length} scenes left alone -- the file does not reproduce itself:`);
+        for (const file of filesLeft) {
+            console.log(`  ${file}`);
+        }
+    }
+    if (!write) {
+        console.log(`\nNothing written. Add --write.`);
+    }
+    return 0;
+});
