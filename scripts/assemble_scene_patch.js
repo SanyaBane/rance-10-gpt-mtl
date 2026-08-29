@@ -17,7 +17,7 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
-import {loadLineNumbers} from "../modules/LineNumbers.js";
+import {loadGameJapanese} from "../modules/LineNumbers.js";
 import {assemblePatch} from "../modules/SceneTranslations.js";
 import {DEFAULT_TEXT_LANG, isTranslated, textLangName, textLangPatch} from "../modules/TextLanguages.js";
 
@@ -42,7 +42,7 @@ await run(async () => {
 
     // The game's own message count, off a committed dump: no alice-tools, no
     // GAME_DIR, and no dependency on the scenes having been extracted.
-    const {japaneseByLineNumber} = await loadLineNumbers();
+    const japaneseByLineNumber = await loadGameJapanese();
     const total = japaneseByLineNumber.size;
 
     console.log(`Assembled ${scenes} scenes into ${path.relative(ROOT, patch)}`);

@@ -39,7 +39,7 @@ import {checkCardGenders, oneGender, readCardGenders} from "../modules/CardGende
 import {readCharacterGenders} from "../modules/CharacterGenders.js";
 import {readSceneRows} from "../modules/Corpus.js";
 import {width} from "../modules/EastAsianWidth.js";
-import {loadLineNumbers} from "../modules/LineNumbers.js";
+import {loadGameJapanese} from "../modules/LineNumbers.js";
 import {createNameplateResolver} from "../modules/Nameplates.js";
 import {readPortraitGenders} from "../modules/PortraitGenders.js";
 import {readScenes} from "../modules/SceneScript.js";
@@ -160,7 +160,7 @@ await run(async () => {
                 + " plate table gives, or the Japanese portrait key it is resolved from.");
             return 1;
         }
-        const {japaneseByLineNumber} = await loadLineNumbers();
+        const japaneseByLineNumber = await loadGameJapanese();
         const english = new Map((await readSceneRows(lang)).map(row => [row.lineNumber, row.english]));
         console.log(`${speaker.name}: ${speaker.lines} lines in ${speaker.scenes} scenes,`
             + ` behind ${[...speaker.stands].join(", ")}`);

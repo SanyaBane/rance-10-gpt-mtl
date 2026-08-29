@@ -1,46 +1,35 @@
 /**
- * What an m[] line number means, and how one moves between game versions.
+ * What the game says on an m[] number, and how a number moves between game
+ * versions.
  *
- * The translation was written against v1.00 and the game ships v1.04, which
- * inserted lines: a corpus record's lineNumber is a v1.00 index, and the .ain a
- * build edits numbers the same line differently. mapLineNumbers walks the two
- * committed dumps in file order and pairs them by the Japanese, never looking
- * backwards -- so a v1.04 insertion shifts nothing after it, it simply goes
- * unmapped. 264632 of the v1.00 numbers find a partner that way and 5044 v1.04
- * lines are left over, which is what UNMAPPED below holds and what the second
- * corpus folder was translated from. 59 lines have no English even after that.
+ * The first of those is what every caller wants. The game's own Japanese for a
+ * number is the authority a translation is checked against, and a corpus
+ * record's own copy of it was not: 5081 of the chunk corpus's 275293 records
+ * disagreed with the dump. Most of that was a dropped closing bracket or an
+ * ellipsis retyped as dots, but 1461 differed by more than punctuation and
+ * m[8922] had 言わず where the game says 言わさず, because that corpus was written
+ * by a model that re-typed the Japanese rather than copying it. A scene row
+ * carries the dump's Japanese for exactly that reason.
  *
- * Here rather than inline in scripts/regenerate_aai_txt.js because rendering
- * the patch is no longer the only thing that needs it. Anything laying the
- * corpus beside the game -- the English next to the scene and the speaker the
- * bytecode names, say -- has to move its numbers the same way, and a second
- * definition of the same walk would not fail, it would put the English out one
- * line late. That is the failure eec7f479 and 8fbf3793 each spent a commit
- * repairing, and it is invisible until somebody plays the scene.
+ * The second is archaeology now, and is called on purpose rather than paid for
+ * on every run. The translation was written against v1.00 and the game ships
+ * v1.04, which inserted lines: a chunk record's lineNumber was a v1.00 index,
+ * and the .ain a build edits numbers the same line differently. mapLineNumbers
+ * walks the two committed dumps in file order and pairs them by the Japanese,
+ * never looking backwards -- so a v1.04 insertion shifts nothing after it, it
+ * simply goes unmapped. 264632 of the v1.00 numbers find a partner that way and
+ * 5044 v1.04 lines are left over, which is what the second chunk folder was
+ * translated from.
  *
- * japaneseByLineNumber is the other half, and the reason both live in one file:
- * the game's own Japanese for a number, which is the authority. A corpus
- * record's originalJapaneseLine is not -- 5081 of 275293 records disagree with
- * the dump. Most of that is a dropped closing bracket or an ellipsis retyped as
- * dots, but 1461 differ by more than punctuation, and m[8922] has 言わず where
- * the game says 言わさず: the corpus was written by a model that re-typed the
- * Japanese rather than copying it. readPatch reads the dump because a patch
- * carries no Japanese of its own; everything else should read it on purpose.
+ * Nothing in the working tree is keyed by a v1.00 number any more -- the chunk
+ * corpus was deleted on 2026-08-29. What keeps the walk here is that both
+ * corpora are still in git and docs/text-languages.md tells you to read a line
+ * out of one: placing such a number on the game's numbering by eye is the fault
+ * eec7f479 and 8fbf3793 each spent a commit repairing, and it is invisible
+ * until somebody plays the scene.
  */
 import * as fs from "fs/promises";
-import * as path from "path";
 import {AIN_JSON, AIN_V100_JSON} from "./AinFiles.js";
-import {BUILD} from "./Env.js";
-
-/**
- * The v1.04 lines the v1.00 numbering cannot reach.
- *
- * A by-product of the mapping rather than something anybody asks for, and
- * nothing reads it now: what it was for was scripts/translate_chunks.js, the
- * chunk-era translator, which went with the chunks. Left because the mapping
- * still runs and a by-product nobody can see is a by-product nobody checks.
- */
-export const UNMAPPED = path.join(BUILD, "unmapped.ain.json");
 
 /**
  * Pair the two dumps by their Japanese, in file order.
@@ -77,26 +66,35 @@ export const mapLineNumbers = (v100AinData, v104AinData) => {
 };
 
 /**
- * The mapping and the game's Japanese, read off the two committed dumps.
+ * The game's own Japanese, by line number, off the committed v1.04 dump.
  *
- * Both are wanted together often enough -- moving a corpus onto the game's
- * numbering and then asking what those numbers say -- that reading the 30 MB
- * twice for them is the wrong shape. Neither dump is touched by any build, so
+ * One dump rather than two. This read the v1.00 one as well until the mapping
+ * above lost its last caller, which was 543 ms of the 806 it took, on four
+ * scripts, for a Map nobody asked for. Neither dump is touched by any build, so
  * this needs no GAME_DIR and no alice-tools.
  *
- * @return {Promise<{
- *     v100ToV104: Map<number, number>,
- *     unmapped: object[],
- *     japaneseByLineNumber: Map<number, string>,
- * }>}
+ * @return {Promise<Map<number, string>>}
  */
-export const loadLineNumbers = async () => {
-    const v100AinData = JSON.parse(await fs.readFile(AIN_V100_JSON, "utf-8"));
+export const loadGameJapanese = async () => {
     const v104AinData = JSON.parse(await fs.readFile(AIN_JSON, "utf-8"));
+    return new Map(v104AinData.map(rec => [+rec.lineNumber, rec.originalJapaneseLine]));
+};
+
+/**
+ * The v1.00 to v1.04 mapping, and the v1.04 lines it cannot reach.
+ *
+ * No build calls this. What it is for is placing a line out of an archived
+ * corpus -- git show en_gpt-final:text_languages/en_gpt/gpt_outputs/... -- onto
+ * the numbering the game uses, which is the one thing a v1.00 number is still
+ * good for. docs/text-languages.md is where that instruction lives.
+ *
+ * @return {Promise<{v100ToV104: Map<number, number>, unmapped: object[]}>}
+ */
+export const loadLineNumberMap = async () => {
+    const [v100AinData, v104AinData] = await Promise.all([
+        fs.readFile(AIN_V100_JSON, "utf-8").then(JSON.parse),
+        fs.readFile(AIN_JSON, "utf-8").then(JSON.parse),
+    ]);
     const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
-    return {
-        v100ToV104,
-        unmapped,
-        japaneseByLineNumber: new Map(v104AinData.map(rec => [+rec.lineNumber, rec.originalJapaneseLine])),
-    };
+    return {v100ToV104, unmapped};
 };

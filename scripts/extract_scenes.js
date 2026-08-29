@@ -45,7 +45,7 @@ import {run} from "../modules/AliceTools.js";
 import {readCharacterGenders} from "../modules/CharacterGenders.js";
 import {readGalleryScenes} from "../modules/CgGallery.js";
 import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
-import {loadLineNumbers} from "../modules/LineNumbers.js";
+import {loadGameJapanese} from "../modules/LineNumbers.js";
 import {createNameplateResolver} from "../modules/Nameplates.js";
 import {readPortraitGenders, unreachedRows} from "../modules/PortraitGenders.js";
 import {parseSceneFile, renderSceneFile, sceneFileName} from "../modules/SceneFile.js";
@@ -207,7 +207,7 @@ await run(async () => {
             + " it is the game's own Japanese, and every English column would be empty.");
     }
 
-    const {japaneseByLineNumber} = await loadLineNumbers();
+    const japaneseByLineNumber = await loadGameJapanese();
     const englishByLineNumber = await readEnglish(lang);
 
     const {genders, malformed} = await readCharacterGenders();

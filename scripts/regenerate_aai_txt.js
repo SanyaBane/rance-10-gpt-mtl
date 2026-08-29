@@ -11,7 +11,7 @@ import * as path from "path";
 import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
 import {readSceneDialogue} from "../modules/Corpus.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
-import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
+import {loadGameJapanese} from "../modules/LineNumbers.js";
 import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {checkSubstitutionsAreNotMisspellings, createNameNormalizer} from "../modules/NameNormalizer.js";
@@ -55,7 +55,7 @@ try {
 const langRoot = textLangDir(textLang);
 const {normalizeNames, contested} = await createNameNormalizer(langRoot);
 
-const {unmapped, japaneseByLineNumber} = await loadLineNumbers();
+const japaneseByLineNumber = await loadGameJapanese();
 
 const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 
@@ -64,7 +64,6 @@ const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 // Japanese in glossaries/enemy_info_glossary.tsv. See modules/EnemyInfo.js.
 const enemyInfo = await renderEnemyInfo();
 
-await fs.writeFile(UNMAPPED, JSON.stringify(unmapped, null, 4), "utf-8");
 
 /**
  * alice-tools escapes an ain.txt the way JSON does, except that it also lets a
