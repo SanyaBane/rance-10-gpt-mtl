@@ -157,7 +157,19 @@ export const hasPatch = (name) => fs.existsSync(textLangPatch(name));
  */
 export const textLangScenes = (name) => path.join(textLangDir(name), "scenes");
 
-export const hasScenes = (name) => fs.existsSync(textLangScenes(name));
+/**
+ * A folder with no scene files in it is not that language's text.
+ *
+ * Asked of the files rather than of the directory because en_opus keeps an
+ * empty scenes/ -- a .gitattributes pinning the line endings, and nothing else
+ * yet -- beside a finished dialogue.ain.txt of 335 lines. Reading the empty
+ * folder as its dialogue rendered every one of those lines as en_grok's and
+ * said so in a line nobody reads as a fault: "0 lines from 0 scenes, 269616
+ * left to en_grok". The same shape as isEmpty above, and for the same reason:
+ * an empty folder is nobody's translation.
+ */
+export const hasScenes = (name) => fs.existsSync(textLangScenes(name))
+    && fs.readdirSync(textLangScenes(name)).some(entry => entry.endsWith(".tsv"));
 
 /**
  * One patch file per text language rather than one regenerated.ain.txt:
