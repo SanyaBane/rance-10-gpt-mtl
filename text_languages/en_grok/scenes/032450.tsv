@@ -9,9 +9,9 @@
 
 150456	-		ラング・バウ――	Lang Bau--
 
-150457	-		シィルとシーラが戻ってきてから、	After Sill and Sheila returned,
-150458	+		ランスはケッセルリンクのことを	Rance asked them about Kesselring.
-150459	+		二人に聞いていた。	　
+150457	-		シィルとシーラが戻ってきてから、	After Sill and Sheila
+150458	+		ランスはケッセルリンクのことを	returned, Rance asked
+150459	+		二人に聞いていた。	them about Kesselring.
 
 150460	Rance	真剣	「本当に、一切、まったく、これっぽっちも、	「Really, not even the slightest bit,
 150461	+		　ケッセルリンクには触れられてないのだな？」	　Kesselring didn't touch you at all?」
@@ -55,18 +55,18 @@
 150484	Sheila Helman	真剣	「ただ、少しだけお話、聞きました。	「I just heard a little about it.
 150485	+		　あの城にいるメイドさん達のこと」	　About the maids in that castle.」
 
-150486	Sheila Helman		「ケッセルリンクは使徒を欲して、	「Kesselring didn't make them apostles because he wanted them,
-150487	+		　使徒にしたのではなく、	　but to save them,
-150488	+		　彼女達を救う為に使徒にしたのだと」	　that's what I heard.」
+150486	Sheila Helman		「ケッセルリンクは使徒を欲して、	「Kesselring didn't make them
+150487	+		　使徒にしたのではなく、	　apostles because he wanted them, but
+150488	+		　彼女達を救う為に使徒にしたのだと」	　to save them, that's what I heard.」
 
 150489	Rance	基本	「どういうことだ？」	「What do you mean?」
 
 150490	Sheila Helman	真剣	「メイドの方々は誰も彼もが、	「Every single one of the maids
 150491	+		　悲惨な生い立ちを持っていました」	　had tragic backgrounds.」
 
-150492	Sheila Helman		「ケッセルリンクはそんな彼女達に	「Kesselring gave them a place to live and hope,
-150493	+		　生きる場所と希望を与える為、	　and that's why he made them apostles.」
-150494	+		　使徒にしたようなものだと……」	
+150492	Sheila Helman		「ケッセルリンクはそんな彼女達に	「Kesselring gave them a place
+150493	+		　生きる場所と希望を与える為、	　to live and hope, and that's
+150494	+		　使徒にしたようなものだと……」	　why he made them apostles.」
 
 150495	Rance	基本	「なるほど、不幸で可哀相な女は	「I see, so he can't abandon unhappy, pitiful women.
 150496	+		　見捨てておけないタチってわけだ」	　That's his type.」
@@ -97,8 +97,8 @@
 
 150513	Rance	基本	「敵じゃないならどうだ？」	「What if he's not an enemy?」
 
-150514	Satella		「サテラだって魔人のことなら	「Even I don't know everything about Fiend but...」
-150515	+		　なんでも知ってるわけじゃないけど……」	　
+150514	Satella		「サテラだって魔人のことなら	「Even I don't know
+150515	+		　なんでも知ってるわけじゃないけど……」	　everything about Fiend but...」
 
 150516	Satella	思考	「……多分、悪いようにはしない」	「...He probably won't do anything bad.」
 

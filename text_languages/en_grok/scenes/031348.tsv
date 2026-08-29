@@ -58,9 +58,9 @@
 
 68387	Monster General		「ッ、馬鹿な……いつの間に、こんな……」	「Impossible... When did they build something like this...」
 
-68388	-		門の奥を窺い知る事は出来ないものの、	Though they couldn't see beyond the gate,
-68389	+		規模から察すれば、数万程度の兵士は	judging by the size, it could easily house tens of thousands of soldiers.
-68390	+		充分収容出来そうだった。	
+68388	-		門の奥を窺い知る事は出来ないものの、	Though they couldn't see beyond the
+68389	+		規模から察すれば、数万程度の兵士は	gate, judging by the size, it could easily
+68390	+		充分収容出来そうだった。	house tens of thousands of soldiers.
 
 68391	Monster Captain		「これは、いったい……」	「What on earth is this...」
 
@@ -107,8 +107,8 @@
 
 68416	-		魔軍は、二重に時間に縛られている。	The Monster Army was bound by time in two ways.
 
-68417	-		自由都市軍が反転してMランドに来るまでに	They had to capture the headquarters before the Free Cities Army could turn around and reach M Land,
-68418	+		司令部を陥落させなければならないし、	
+68417	-		自由都市軍が反転してMランドに来るまでに	They had to capture the headquarters before the Free
+68418	+		司令部を陥落させなければならないし、	Cities Army could turn around and reach M Land,
 68419	+		食料抜きで兵を無理に動かすにも限界は来る。	and there was a limit to moving troops without food.
 
 68420	-		しかも、道は狭い。	Moreover, the path was narrow.
@@ -196,9 +196,9 @@
 68469	+		落ちた者の後列がまた転落し、	and the ones behind fell in turn,
 68470	+		それを繰り返して隊列は乱れに乱れる。	repeating and throwing the formation into complete chaos.
 
-68471	-		落とし穴は大きく、深く作られていただけで	The pitfall was simply large and deep,
-68472	+		底に仕掛けはなかったが、僚友に押し潰されて	with no traps at the bottom, but crushed by their comrades,
-68473	+		魔物兵たちは何をするでもなく圧死していった。	the monster soldiers were crushed to death without doing anything.
+68471	-		落とし穴は大きく、深く作られていただけで	The pitfall was simply large and deep, with no traps at
+68472	+		底に仕掛けはなかったが、僚友に押し潰されて	the bottom, but crushed by their comrades, the monster
+68473	+		魔物兵たちは何をするでもなく圧死していった。	soldiers were crushed to death without doing anything.
 
 68474	-		巨人部隊のデカント達まで転落するに至り、	Even the giant Decant unit fell,
 68475	+		戦場は大混乱に陥った。	and the battlefield fell into total chaos.
@@ -358,8 +358,8 @@
 
 68568	-		篠田の手には、司令部に繋がる魔法電話がある。	In Shinoda's hand was a magic phone connected to headquarters.
 
-68569	-		センサー地蔵のひとつを抱えさせた器兵コプターを	A mechanical soldier copter carrying one of the sensor Jizo statues
-68570	+		ポピンズ技師が操り、空から撮った映像を元に	was piloted by a Poppins engineer. Based on aerial footage,
+68569	-		センサー地蔵のひとつを抱えさせた器兵コプターを	A mechanical soldier copter carrying one of the sensor Jizo
+68570	+		ポピンズ技師が操り、空から撮った映像を元に	statues was piloted by a Poppins engineer. Based on aerial footage,
 68571	+		ヌヌハラたち司令部の通信兵がナビゲートを行う。	Nunuhara and the headquarters communicators provided navigation.
 
 68572	-		こうする事で、篠田は敵軍の動きに関する情報を、	This way, Shinoda had quite accurate information
@@ -377,9 +377,9 @@
 
 68580	-		雪崩をうって、魔軍本隊が殺到した。	Like an avalanche, the main Monster Army force swarmed in.
 
-68581	-		山道いっぱいに広がった魔軍は、	The Monster Army spreading across the entire mountain path
-68582	+		ただぶつかって押し潰すだけでも	could annihilate them just by crashing and crushing.
-68583	+		殲滅するには充分すぎる。	
+68581	-		山道いっぱいに広がった魔軍は、	The Monster Army spreading across the
+68582	+		ただぶつかって押し潰すだけでも	entire mountain path could annihilate
+68583	+		殲滅するには充分すぎる。	them just by crashing and crushing.
 
 68584	Free Cities Guard		「ぐっ……！」	「Guh...!」
 
@@ -398,8 +398,8 @@
 
 68593	Monster General		「に、逃げられた、だと……！」	「Th-they escaped...!」
 
-68594	Monster Captain		「あれだけの数を拾いあげるほどの帰り木を	「They prepared enough return woods to pick up that many...」
-68595	+		　用意していたとは……！」	
+68594	Monster Captain		「あれだけの数を拾いあげるほどの帰り木を	「They prepared enough return
+68595	+		　用意していたとは……！」	　woods to pick up that many...」
 
 68596	-		進撃を停止し、しばし呆然とした魔軍の頭上で、	As the Monster Army stopped their advance and stood dazed for a moment,
 68597	+		何かの音がした。	a sound came from above.
@@ -415,9 +415,9 @@
 
 68603	-		強烈な爆発が魔軍を襲った。	A powerful explosion struck the Monster Army.
 
-68604	-		個々が強靱な魔物兵のこと、	Tough individual monster soldiers
-68605	+		爆発を耐えきった者も少なからず存在したが、	managed to endure it, but
-68606	+		広範囲に注いだ爆撃は魔軍の動きを堰き止めた。	the wide-area bombing halted the Monster Army's movements.
+68604	-		個々が強靱な魔物兵のこと、	Tough individual monster soldiers managed
+68605	+		爆発を耐えきった者も少なからず存在したが、	to endure it, but the wide-area bombing
+68606	+		広範囲に注いだ爆撃は魔軍の動きを堰き止めた。	halted the Monster Army's movements.
 
 68607	Monster General		「ぐっ、ぐおおおお……ッ……！」	「Guh, guoooooh...!」
 
@@ -600,9 +600,9 @@
 
 68717	-		ふう、と篠田は溜息をついた。	Shinoda sighed.
 
-68718	Shinoda Gengorou	基本	「けれど、今から兵を呼び戻して再編、再出撃。	「But even if you call the troops back now, reorganize, and sortie again.
-68719	+		　そこまでして、Mランドを陥落させられる？	　Can you still take M Land?
-68720	+		　山狩りしてたけど、けっこう逃げちゃったんじゃない？」	　We did some mountain hunting, but quite a few escaped, right?」
+68718	Shinoda Gengorou	基本	「けれど、今から兵を呼び戻して再編、再出撃。	「But even if you call the troops back now, reorganize,
+68719	+		　そこまでして、Mランドを陥落させられる？	　and sortie again. Can you still take M Land? We did
+68720	+		　山狩りしてたけど、けっこう逃げちゃったんじゃない？」	　some mountain hunting, but quite a few escaped, right?」
 
 68721	Monster General		「………………」	「............」
 

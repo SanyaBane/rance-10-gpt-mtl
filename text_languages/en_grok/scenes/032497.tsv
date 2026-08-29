@@ -80,8 +80,8 @@
 
 154676	Rance	だる顔	「……なんでこんな元気なんだ」	「...Why are you so energetic?」
 
-154677	Sill Plain	笑顔	「くすっ、ランス様との再会を	「Hehe, he's happy about reuniting with Rance-sama.」
-154678	+		　喜んで下さっているんですよ」	
+154677	Sill Plain	笑顔	「くすっ、ランス様との再会を	「Hehe, he's happy about
+154678	+		　喜んで下さっているんですよ」	　reuniting with Rance-sama.」
 
 154679	Rance	だる顔	「気色悪い。	「Creepy.
 154680	+		　俺は嬉しくない」	　I'm not happy.」
@@ -110,8 +110,8 @@
 154695	+		　俺なんぞただ頑丈なくらいしか	　I'm just a sturdy guy,
 154696	+		　取り柄がないだけですがな！」	　that's all I have going for me!」
 
-154697	Cordoba Burn		「以前よりランス総統閣下のお噂は	「I've heard rumors about Supreme Leader Rance for a long time!
-154698	+		　かねがね伺っておりました！	
+154697	Cordoba Burn		「以前よりランス総統閣下のお噂は	「I've heard rumors about Supreme
+154698	+		　かねがね伺っておりました！	　Leader Rance for a long time!
 154699	+		　一度お会いしたいと思っていたのです！」	　I've wanted to meet you once!」
 
 154700	-		巨大な手がギュッとランスの手を握った。	A huge hand firmly grasped Rance's hand.
@@ -150,9 +150,9 @@
 154720	-		コルドバは気を取り直し、	Cordoba pulled himself together,
 154721	+		格好悪い姿は見せまいとビシリと敬礼する。	and gave a sharp salute so as not to look pathetic.
 
-154722	Cordoba Burn		「はっ、では次の謁見の機会を	「Yes, then I look forward to the next audience.
-154723	+		　心待ちにしております。	
-154724	+		　その折は、どこにあろうと必ずや馳せ参じ――」	　Whenever it may be, I will rush to your side――」
+154722	Cordoba Burn		「はっ、では次の謁見の機会を	「Yes, then I look forward to the
+154723	+		　心待ちにしております。	　next audience. Whenever it may
+154724	+		　その折は、どこにあろうと必ずや馳せ参じ――」	　be, I will rush to your side――」
 
 154725	Rance		「そんな日は一生こんわ！」	「That day will never come in your lifetime!」
 
@@ -192,9 +192,9 @@
 154747	Haurein Province		「私は父親似ですよ……	「I take after my father...
 154748	+		　色々な意味で」	　In many ways.」
 
-154749	Barres Province	テンション下げ	「はあ……不出来な娘です……	「Haa... She's an unfilial daughter...
-154750	+		　親に逆らい女だてらに騎士になりまして……	　She defied her parents and became a knight despite being a woman...
-154751	+		　嫁にも行き遅れました……」	　And she's late to get married...」
+154749	Barres Province	テンション下げ	「はあ……不出来な娘です……	「Haa... She's an unfilial daughter... She defied
+154750	+		　親に逆らい女だてらに騎士になりまして……	　her parents and became a knight despite being
+154751	+		　嫁にも行き遅れました……」	　a woman... And she's late to get married...」
 
 154752	Haurein Province	基本	「私が騎士を目指すことは、	「Becoming a knight was something
 154753	+		　それこそ幼き頃より言い続けたこと」	　I said I wanted since I was a child.」
@@ -233,8 +233,8 @@
 154773	Barres Province		「このようなこと頼むのは恥と存じておりますが……	「I know it's shameful to ask this but...
 154774	+		　どうか、娘のことよろしく頼みます」	　Please take good care of my daughter.」
 
-154775	Barres Province		「あれは、少し頭に血が	「She tends to get a bit hot-headed...」
-154776	+		　上りやすいところがありまして……」	
+154775	Barres Province		「あれは、少し頭に血が	「She tends to get
+154776	+		　上りやすいところがありまして……」	　a bit hot-headed...」
 
 154777	Barres Province		「ここだけの話なのですが、	「This is just between us,
 154778	+		　儂も心配しておるのです……」	　but I'm worried about her...」
@@ -276,9 +276,9 @@
 
 154798	-		スーがこっくりと頷いた。	Sioux nodded firmly.
 
-154799	Sioux Province		「スー・プロヴァンス。	「Sioux Provence.
-154800	+		　現在は黒の軍、将軍のお世話係をしています。	　I currently serve as the General's caretaker in the Black Army.
-154801	+		　どうぞ、よろしくお願いいたします」	　Please treat me well.」
+154799	Sioux Province		「スー・プロヴァンス。	「Sioux Provence. I currently serve
+154800	+		　現在は黒の軍、将軍のお世話係をしています。	　as the General's caretaker in the
+154801	+		　どうぞ、よろしくお願いいたします」	　Black Army. Please treat me well.」
 
 154802	-		ビシッとスーがリーザス式の敬礼を行うと、	Sioux gave a crisp Leazas-style salute,
 154803	+		ランスとシィルは言葉を失った	leaving Rance and Sill speechless.
@@ -380,8 +380,8 @@
 154862	+		スーの成長を喜ぶように、	watched Sioux's growth with
 154863	+		かすかに表情をほころばせていた。	faint smiles.
 
-154864	Rance	真剣	「……あの、自分はラプの子だと	「...The Sioux who once insisted she was a Lap child
-154865	+		　言い張ってたスーが、	
-154866	+		　今では逆の立場になってるとは」	　is now in the opposite position.」
+154864	Rance	真剣	「……あの、自分はラプの子だと	「...The Sioux who once
+154865	+		　言い張ってたスーが、	　insisted she was a Lap child is
+154866	+		　今では逆の立場になってるとは」	　now in the opposite position.」
 
 154867	Rance	だる顔	「うーーーむ、時の流れって恐ろしい」	「Mmm, the flow of time is scary.」

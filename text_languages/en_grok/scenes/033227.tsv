@@ -24,8 +24,8 @@
 215321	Nagi su Ragarl		「こらこら、そんな溜め息つかないの」	「Hey now, no sighing like that.」
 
 > end
-215322	-		元気づけるように、	Nagi patted your back encouragingly.
-215323	+		ナギがあなたの背中をぽんぽんと叩く。	
+215322	-		元気づけるように、	Nagi patted your
+215323	+		ナギがあなたの背中をぽんぽんと叩く。	back encouragingly.
 
 215324	Nagi su Ragarl		「今回が駄目だったら、	「If it didn't work this time,
 215325	+		　また来たらいいじゃない」	　we can just come again.」
@@ -81,8 +81,8 @@
 
 215355	Nagata-kun		「ぎゃー！　あばれうし車だー！？」	「Gyaa! A rampaging cow cart!?」
 
-215356	-		一両のうし車があなた達目がけて	A cow cart was charging straight toward you.
-215357	+		暴走していた。	
+215356	-		一両のうし車があなた達目がけて	A cow cart was charging
+215357	+		暴走していた。	straight toward you.
 
 215358	Rocky Bank	ガーン	「＜エール＞様！？　お、おらの後ろに！」	「＜エール＞-sama!? G, get behind me!」
 

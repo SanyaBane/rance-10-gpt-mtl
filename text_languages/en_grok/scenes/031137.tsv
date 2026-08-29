@@ -14,9 +14,9 @@
 54672	-		魔人レイは、単身で	The Fiend Lei had infiltrated
 54673	+		この大きくもない街に潜り込んでいた。	this modest city alone.
 
-54674	-		大きな理由があるわけでもない。	There was no major reason.
-54675	+		先日の戦で部下達の被害が大きく、	His subordinates had suffered heavy losses in the previous battle
-54676	+		動けないというので一人で来た。それだけだ。	and couldn't move, so he came alone. That was all.
+54674	-		大きな理由があるわけでもない。	There was no major reason. His subordinates had
+54675	+		先日の戦で部下達の被害が大きく、	suffered heavy losses in the previous battle and
+54676	+		動けないというので一人で来た。それだけだ。	couldn't move, so he came alone. That was all.
 
 54677	-		正面から襲ってやっても良かったが、	He could have attacked head-on,
 54678	+		門番の人間達は、レイを魔人とは見抜けなかった。	but the human gate guards didn't recognize him as a Fiend.
@@ -26,9 +26,9 @@
 
 54681	Lei~		（……しかし、何もねぇな、この街……）	（...But there's nothing here...）
 
-54682	-		人類側の兵……自由都市連合軍の姿さえない。	There weren't even any human soldiers from the Free Cities Alliance Army.
-54683	+		ただ、夜道を丸腰で歩く女のように、	Just frightened civilians walking the streets like defenseless women at night.
-54684	+		往来を怯えながら行き交う人間しかいない。	
+54682	-		人類側の兵……自由都市連合軍の姿さえない。	There weren't even any human soldiers from the
+54683	+		ただ、夜道を丸腰で歩く女のように、	Free Cities Alliance Army. Just frightened civilians
+54684	+		往来を怯えながら行き交う人間しかいない。	walking the streets like defenseless women at night.
 
 54685	-		大きめの建物のあちこちにかけられた垂れ幕には、	Banners hung on large buildings read
 54686	+		大きくポップな字体で、こんな事が書かれていた。	in large, flashy letters:
@@ -45,8 +45,8 @@
 54693	-		暴れても、楽しいことにはなりそうにない。	Even if he rampaged, it wouldn't be any fun.
 54694	+		引き上げるかと考えた、その瞬間。	Just as he thought about leaving,
 
-54695	-		一人の少年が、人混みに押された風で	A boy bumped into Lei as if pushed by the crowd.
-54696	+		レイにぶつかった。	
+54695	-		一人の少年が、人混みに押された風で	A boy bumped into Lei as
+54696	+		レイにぶつかった。	if pushed by the crowd.
 
 54697	Boy		「うあっ！？」	「Uwah!?」
 
@@ -62,9 +62,9 @@
 
 54704	Lei~		（……………ハ……ッ、良い根性してやがる）	（......Heh... Got some guts.）
 
-54705	-		魔人の鋭敏すぎる感覚は、	The Fiend's overly sharp senses
-54706	+		人間の子供が懐に手を突っ込んできた感触を、	clearly detected the feeling of the human child slipping a hand into his pocket.
-54707	+		正確に伝えていた。スリだ。	A pickpocket.
+54705	-		魔人の鋭敏すぎる感覚は、	The Fiend's overly sharp senses clearly
+54706	+		人間の子供が懐に手を突っ込んできた感触を、	detected the feeling of the human child
+54707	+		正確に伝えていた。スリだ。	slipping a hand into his pocket. A pickpocket.
 
 54708	-		まったく、くだらない。取るに足りない。	Completely trivial. Not worth anything.
 
@@ -73,9 +73,9 @@
 
 54711	Lei~	戦闘時	（じゃあ、やるか、ッ…………！）	（Then let's do it...!）
 
-54712	-		レイの中に生まれた小さな苛立ちは	The small irritation born inside Lei
-54713	+		爆発的な速度で膨れあがり、	swelled explosively,
-54714	+		レイはそれを抑えようともせず、発散しようと――	and Lei made no attempt to hold it back, intending to release it――
+54712	-		レイの中に生まれた小さな苛立ちは	The small irritation born inside Lei swelled
+54713	+		爆発的な速度で膨れあがり、	explosively, and Lei made no attempt to
+54714	+		レイはそれを抑えようともせず、発散しようと――	hold it back, intending to release it――
 
 54715	Mary Ann	基本	「――こらっ！　そこのお前！」	「Hey! You there!」
 
@@ -95,9 +95,9 @@
 
 54724	Mary Ann	強い	「ほら、これ！」	「Here, this!」
 
-54725	-		一人の少女が、スリの少年を捕まえて、	A girl had caught the pickpocket boy
-54726	+		有無を言わさぬ勢いで、レイからスッたものを	and forcefully took back what he had stolen from Lei.
-54727	+		奪い返していた。	
+54725	-		一人の少女が、スリの少年を捕まえて、	A girl had caught the pickpocket
+54726	+		有無を言わさぬ勢いで、レイからスッたものを	boy and forcefully took back
+54727	+		奪い返していた。	what he had stolen from Lei.
 
 54728	Boy	基本	「う、うぐぐぐ……！　ち、ちくしょう！	「Ugh... Damn it!
 54729	+		　バーカ！　ブース！」	　Idiot! Booo!」
@@ -170,9 +170,9 @@
 
 54771	-		そしてそれ故に、孤立した。	And because of that, he became isolated.
 
-54772	-		頼ってくる者も少なくなかったが、	Many sought him out,
-54773	+		求めてくるだけの相手に笑顔で奉仕する気質もなく、	but he had no desire to serve those who only wanted something from him with a smile,
-54774	+		英雄だと祭り上げられるのも迷惑だった。	and being worshipped as a hero was annoying.
+54772	-		頼ってくる者も少なくなかったが、	Many sought him out, but he had no desire to serve
+54773	+		求めてくるだけの相手に笑顔で奉仕する気質もなく、	those who only wanted something from him with a
+54774	+		英雄だと祭り上げられるのも迷惑だった。	smile, and being worshipped as a hero was annoying.
 
 54775	-		我を抑える理由も気分もないレイの振る舞いに、	His unrestrained behavior
 54776	+		周囲はすぐについていけなくなった。	quickly left those around him behind.
@@ -323,9 +323,9 @@
 
 54865	Man		「きゅぶっ、が、ば……っ！」	「Kyub, ga, ba...!」
 
-54866	-		レイの蹴りを受けた男は、派手に宙を舞った。	The man kicked by Lei flew spectacularly through the air.
-54867	+		建物の二階ほどの高さまで打ち上がり、	He was launched up to the height of a second floor,
-54868	+		大通りに倒れ込んだ時には既に炭クズになっていた。	and by the time he crashed onto the main street he was already charred remains.
+54866	-		レイの蹴りを受けた男は、派手に宙を舞った。	The man kicked by Lei flew spectacularly through the air. He
+54867	+		建物の二階ほどの高さまで打ち上がり、	was launched up to the height of a second floor, and by the time
+54868	+		大通りに倒れ込んだ時には既に炭クズになっていた。	he crashed onto the main street he was already charred remains.
 
 54869	Girl		「きゃあああぁぁっ！　な、なに！？」	「Kyaaaaah! W-What!?」
 

@@ -45,9 +45,9 @@
 
 44031	Uesugi Kenshin		「んく、んっ、はむっ……おかわり」	「Munch, gulp, chomp... More please.」
 
-44032	-		周囲に料理が並べられては見る見るうちに無くなり、	Dishes were placed around her and vanished in moments,
-44033	+		積み上げられた空き皿が謙信の邪魔にならないように	with empty plates stacked neatly so they wouldn't get in Kenshin's way
-44034	+		運ばれていく。	and quickly cleared away.
+44032	-		周囲に料理が並べられては見る見るうちに無くなり、	Dishes were placed around her and vanished
+44033	+		積み上げられた空き皿が謙信の邪魔にならないように	in moments, with empty plates stacked neatly so they
+44034	+		運ばれていく。	wouldn't get in Kenshin's way and quickly cleared away.
 
 44035	Galtia		「へぇ…………やるもんだ」	「Heh............ Not bad at all.」
 
@@ -124,8 +124,8 @@
 
 44077	Oda Kouhime	武装／焦り	「きゃっ！？」	「Kyaa!?」
 
-44078	-		いつの間にか、ガルティアが香姫の脇にまで	Before anyone noticed, Galtia had moved right beside Kouhime.
-44079	+		接近してきていた。	
+44078	-		いつの間にか、ガルティアが香姫の脇にまで	Before anyone noticed, Galtia
+44079	+		接近してきていた。	had moved right beside Kouhime.
 
 44080	Galtia	基本	「あんたが作ったのか？　一本もらっていいか」	「You made this? Mind if I take one?」
 
@@ -157,9 +157,9 @@
 
 44096	Oda Kouhime	武装／焦り	「え……」	「Eh...」
 
-44097	Galtia	基本	「一口食った途端、刺激が脳天までいってから、	「The moment it hit my tongue, the stimulation shot straight to my brain,
-44098	+		　爪先にまで染み渡りやがる……！	　then spread all the way to my toes...!
-44099	+		　そのくせタレはもったりして……ビリビリくる！」	　Yet the sauce is so thick and rich... It makes my whole body tingle!」
+44097	Galtia	基本	「一口食った途端、刺激が脳天までいってから、	「The moment it hit my tongue, the stimulation shot straight
+44098	+		　爪先にまで染み渡りやがる……！	　to my brain, then spread all the way to my toes...! Yet the
+44099	+		　そのくせタレはもったりして……ビリビリくる！」	　sauce is so thick and rich... It makes my whole body tingle!」
 
 44100	Oda Kouhime	武装／苦笑	「そ、そう、なんですか……」	「I-is that so...」
 

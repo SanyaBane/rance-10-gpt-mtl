@@ -53,8 +53,8 @@
 76026	-		武器を取り、正面山道の兵は未だ諦めない。	They grab their weapons. The soldiers on the main mountain path still refuse to give up.
 
 76027	-		しかし、魔人レッドアイを筆頭とした部隊は	However, the forces led by Fiend RedEye
-76028	+		より侵攻の勢いを強め、	intensified their assault even further,
-76029	+		今や正面山道は総崩れをする寸前であった。	and the main mountain path was on the verge of total collapse.
+76028	+		より侵攻の勢いを強め、	intensified their assault even further, and the main
+76029	+		今や正面山道は総崩れをする寸前であった。	mountain path was on the verge of total collapse.
 
 76030	Copandon Dott		「ほほぉー……	「Hohoo...
 76031	+		　やっとる、やっとる」	　They're really going at it.」
@@ -191,9 +191,9 @@
 76109	RedEye		「クケケケケケ！	「Kukekekeke!
 76110	+		　オール・キル・ユゥゥゥーーー！」	　All kill yooouuu!」
 
-76111	-		神籤棒を掴んだ瞬間、目の前に現れたのは、	The moment she grabbed the fortune stick, right in front of her appeared
-76112	+		コパンドンのいる位置まで迫っていた	Fiend RedEye, who had closed in on Copandon's position.
-76113	+		魔人レッドアイだった。	
+76111	-		神籤棒を掴んだ瞬間、目の前に現れたのは、	The moment she grabbed the fortune stick,
+76112	+		コパンドンのいる位置まで迫っていた	right in front of her appeared Fiend RedEye,
+76113	+		魔人レッドアイだった。	who had closed in on Copandon's position.
 
 76114	Copandon Dott	ため息	「これや……」	「This is it...」
 
@@ -254,9 +254,9 @@
 
 76147	Copandon Dott	強気	「はっはっはっー！　どんなもんやー！」	「Hah hah hah! How do you like that!」
 
-76148	-		大量の落石がまるで雨のように降り注ぐ中、	Amid a downpour of countless falling rocks like rain,
-76149	+		コパンドンはただ一人悠々とレッドアイに向けて	Copandon alone calmly walked straight toward RedEye.
-76150	+		歩を進めていく。	
+76148	-		大量の落石がまるで雨のように降り注ぐ中、	Amid a downpour of countless falling
+76149	+		コパンドンはただ一人悠々とレッドアイに向けて	rocks like rain, Copandon alone calmly
+76150	+		歩を進めていく。	walked straight toward RedEye.
 
 76151	Yutin Fulz	基本	「ここ、コパンドン様！	「Lady Copandon!
 76152	+		　危ないので避難！　避難してー！」	　It's dangerous, take cover! Take cover!」
@@ -268,9 +268,9 @@
 76156	+		落石は彼女の体をすり抜けるように、	the falling rocks passed right through her body,
 76157	+		一つも当たらない。	not a single one hitting her.
 
-76158	-		正確には、落石が降り注ぐのは魔軍のみにであり、	To be precise, the rockslide only rained down on the Monster Army,
-76159	+		『偶然』にも、その場にいる人間には誰一人、	and by 'coincidence' not a single human present
-76160	+		小石一つもぶつかってはいなかった。	was struck by even a pebble.
+76158	-		正確には、落石が降り注ぐのは魔軍のみにであり、	To be precise, the rockslide only rained down
+76159	+		『偶然』にも、その場にいる人間には誰一人、	on the Monster Army, and by 'coincidence' not a
+76160	+		小石一つもぶつかってはいなかった。	single human present was struck by even a pebble.
 
 76161	RedEye	基本	「ぐうっ！　な、なにをした！？	「Guuh! W-What did you do!?
 76162	+		　どんなマジックを使ったー！？」	　What kind of magic was that!?」
@@ -280,9 +280,9 @@
 
 76165	RedEye		「ホワイ！？！？！？」	「Why!?!?!?」
 
-76166	-		そのとき、『偶然』にも超強力な突風が巻き起こり、	At that moment, by 'coincidence' an extremely powerful gust of wind arose,
-76167	+		『偶然』にも魔人レッドアイの体だけを	and by 'coincidence' only lifted Fiend RedEye's body
-76168	+		空中へと持ち上げた。	up into the air.
+76166	-		そのとき、『偶然』にも超強力な突風が巻き起こり、	At that moment, by 'coincidence' an extremely
+76167	+		『偶然』にも魔人レッドアイの体だけを	powerful gust of wind arose, and by 'coincidence'
+76168	+		空中へと持ち上げた。	only lifted Fiend RedEye's body up into the air.
 
 76169	Copandon Dott	驚き	「はぁー、なるほど、こうなるんや」	「Haa, I see, so that's how it works.」
 
@@ -312,9 +312,9 @@
 
 76185	Houjou Souun	基本	「い、いったい……これは……」	「W-What on earth... is this...」
 
-76186	-		レッドアイが吹き飛ばされた頃、	By the time RedEye was blown away,
-76187	+		魔物兵は落石で死ぬか突風で吹き飛ばされるかをし、	the monster soldiers were either crushed by rocks or blown away by the wind,
-76188	+		その場は綺麗に人間以外は掃除されてしまっていた。	and the area was cleanly cleared of everything except humans.
+76186	-		レッドアイが吹き飛ばされた頃、	By the time RedEye was blown away, the monster soldiers
+76187	+		魔物兵は落石で死ぬか突風で吹き飛ばされるかをし、	were either crushed by rocks or blown away by the wind, and
+76188	+		その場は綺麗に人間以外は掃除されてしまっていた。	the area was cleanly cleared of everything except humans.
 
 76189	Copandon Dott		「しっかし、これえげつなぁー」	「Man, that was brutal.」
 
@@ -352,9 +352,9 @@
 
 76210	Copandon Dott		「後はランスに任せよやないか」	「The rest is up to Rance.」
 
-76211	Yutin Fulz	驚き	「ら、ランス様にですか？	「To Lord Rance?
-76212	+		　今、魔人討伐隊の皆さんが捜していますが……	　Right now the Fiend Extermination Squad is searching for him, but...
-76213	+		　行方不明のままなのに……」	　he's still missing...」
+76211	Yutin Fulz	驚き	「ら、ランス様にですか？	「To Lord Rance? Right now the Fiend
+76212	+		　今、魔人討伐隊の皆さんが捜していますが……	　Extermination Squad is searching
+76213	+		　行方不明のままなのに……」	　for him, but... he's still missing...」
 
 76214	Copandon Dott	基本	「大吉君がそう簡単に死ぬかいな」	「There's no way that great blessing guy dies so easily.」
 

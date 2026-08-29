@@ -20,11 +20,11 @@
 * Chaos	カオス	Male
 * Nikkou	日光刀	Female
 
-203219	-		あなたは順調にハニーインザスカイを	You were steadily progressing through Hanny in the Sky.
-203220	+		進み続けていた。	
+203219	-		あなたは順調にハニーインザスカイを	You were steadily progressing
+203220	+		進み続けていた。	through Hanny in the Sky.
 
-203221	-		あなた達は順調にハニーインザスカイを	You all were steadily progressing through Hanny in the Sky.
-203222	+		進み続けていた。	
+203221	-		あなた達は順調にハニーインザスカイを	You all were steadily progressing
+203222	+		進み続けていた。	through Hanny in the Sky.
 
 203223	-		その道中、	Along the way,
 203224	+		雲で出来た大きな橋の上に何かがいるのが見えた。	you saw something on a large bridge made of clouds.
@@ -82,16 +82,16 @@
 
 > end
 203251	Haniko	基本	「そーよそーよ、かわぞえ様は魔人なのよ！	「That's right, Kawazoe-sama is a Fiend!
-203252	+		　奈落の王であるますぞえ様から、	　The new Fiend who succeeded the King of the Abyss, Masuzoe-sama,
-203253	+		　新しい魔人となった、とってもすごい方！」	　a truly amazing person!」
+203252	+		　奈落の王であるますぞえ様から、	　The new Fiend who succeeded the King of the
+203253	+		　新しい魔人となった、とってもすごい方！」	　Abyss, Masuzoe-sama, a truly amazing person!」
 
 203254	Haniko		「その名も、魔人かわぞえ様！	「His name is Fiend Kawazoe-sama!
 203255	+		　奈落の王に代わる新たな王！	　The new king to replace the King of the Abyss!
 203256	+		　天空の王なのよ！」	　The King of the Sky!」
 
-203257	Haniko		「本気になる本気になるって言って、	「Unlike Masuzoe-sama who kept saying he'd get serious
-203258	+		　ちっとも本気にならなかったますぞえ様と違って、	　but never did,
-203259	+		　いつか確実に来るラグナロクの日を待つお方！」	　he is the one waiting for the day of Ragnarok that will surely come!」
+203257	Haniko		「本気になる本気になるって言って、	「Unlike Masuzoe-sama who kept saying he'd
+203258	+		　ちっとも本気にならなかったますぞえ様と違って、	　get serious but never did, he is the one waiting
+203259	+		　いつか確実に来るラグナロクの日を待つお方！」	　for the day of Ragnarok that will surely come!」
 
 203260	Kawazoe		「……………………」	「........................」
 

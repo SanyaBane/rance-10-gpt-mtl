@@ -13,9 +13,9 @@
 51760	+		巨額の予算と時間を投じて作られた、	built with enormous budget and time,
 51761	+		対魔軍要塞群、マジノライン。	the anti-Monster Army fortress cluster, Maginot Line.
 
-51762	-		幾度も魔軍の侵入を撃退してきた強固な要塞群は、	The sturdy fortresses that had repelled the Monster Army many times
-51763	+		メディウサ軍の突破は許したものの、	allowed Medusa's forces to break through one section,
-51764	+		その機能は未だ、崩壊してはいなかった。	but their functions had not yet collapsed.
+51762	-		幾度も魔軍の侵入を撃退してきた強固な要塞群は、	The sturdy fortresses that had repelled the Monster Army
+51763	+		メディウサ軍の突破は許したものの、	many times allowed Medusa's forces to break through
+51764	+		その機能は未だ、崩壊してはいなかった。	one section, but their functions had not yet collapsed.
 
 51765	-		突破された一区画を除いた各エリアは未だ頑強に	Except for the breached sector, each area still stubbornly
 51766	+		侵入を阻み、魔物界からの決定的な侵攻を	blocked invasion and continued to prevent
@@ -129,9 +129,9 @@
 51833	+		　中央管制室はメディウサ様が落としてくれたぞ！	　Lady Medusa has taken the central control room!
 51834	+		　後は食い放題だ！」	　The rest is an all-you-can-eat buffet!」
 
-51835	-		傍若無人なメディウサに代わり、	In place of the arrogant Medusa,
-51836	+		膨大な数の魔物兵が空を飛び、山道を駆け上がり、	a massive number of monster soldiers flew through the sky and charged up the mountain paths,
-51837	+		各制御ポイントへ押し寄せる。	swarming toward every control point.
+51835	-		傍若無人なメディウサに代わり、	In place of the arrogant Medusa, a massive number
+51836	+		膨大な数の魔物兵が空を飛び、山道を駆け上がり、	of monster soldiers flew through the sky and charged up
+51837	+		各制御ポイントへ押し寄せる。	the mountain paths, swarming toward every control point.
 
 51838	Zeth Mage Soldier	絶望	「応答してください！	「Please respond!
 51839	+		　一区制御ルーム！　一区制御ルーム！　隊長！」	　Sector 1 control room! Sector 1 control room! Captain!」
@@ -158,8 +158,8 @@
 51852	+		　だがそれを論ずる時ではない」	　But now is not the time to debate it.」
 
 51853	Nelson Server		「全ての区画を、現在の戦力で守る事はできん！	「We cannot defend every sector with our current forces!
-51854	+		　防衛装置が生き残っている箇所へ戦力を集中し、	　Concentrate our forces on sectors where defense devices are still active,
-51855	+		　確実に拠点を残すのだ！」	　and secure at least some strongholds!」
+51854	+		　防衛装置が生き残っている箇所へ戦力を集中し、	　Concentrate our forces on sectors where defense devices
+51855	+		　確実に拠点を残すのだ！」	　are still active, and secure at least some strongholds!」
 
 51856	Nelson Server		「今のマジノラインは既に、鉄壁の国境線ではない！	「The current Maginot Line is no longer an iron wall!
 51857	+		　後日、奪還し反攻するための足がかりだ！	　It is now a foothold for future recapture and counterattack!
@@ -168,9 +168,9 @@
 51859	Zeth Mage Soldier		「ど、どうしますか！	「W-What should we do!
 51860	+		　確かに、このままでは…………」	　Indeed, if we stay like this...」
 
-51861	Zeth Mage Soldier		「馬鹿を言え！	「Don't be ridiculous!
-51862	+		　あの血迷って大破壊を引き起こしたペンタゴンの、	　Following the leader of Pentagon who caused that mad great destruction,
-51863	+		　首領だった男に従って動くなど……！」	　is completely insane...!」
+51861	Zeth Mage Soldier		「馬鹿を言え！	「Don't be ridiculous! Following the leader
+51862	+		　あの血迷って大破壊を引き起こしたペンタゴンの、	　of Pentagon who caused that mad great
+51863	+		　首領だった男に従って動くなど……！」	　destruction, is completely insane...!」
 
 51864	Nelson Server		『一区画でも守り抜き、逆転の日まで保たせれば	『If we can hold even one sector until the day of reversal,
 51865	+		　私たちの勝利だ！	　that will be our victory!
@@ -242,9 +242,9 @@
 
 51907	-		そこからのゼス軍の守りは頑強だった。	From then on, the Zeth army's defense was stubborn.
 
-51908	-		繰り返し、山を駆け上って攻めかかる魔軍に、	They repeatedly rained magic on the Monster Army charging up the mountain,
-51909	+		魔法を浴びせ、防衛装置を守り、	protected the defense devices,
-51910	+		麓へ突き落としていく。	and knocked them back down to the base.
+51908	-		繰り返し、山を駆け上って攻めかかる魔軍に、	They repeatedly rained magic on the Monster Army
+51909	+		魔法を浴びせ、防衛装置を守り、	charging up the mountain, protected the defense
+51910	+		麓へ突き落としていく。	devices, and knocked them back down to the base.
 
 51911	-		飛行する魔物を叩き落とし、	They shot down flying monsters,
 51912	+		這い上がる魔物を突き落とし、	knocked back climbing monsters,
@@ -253,9 +253,9 @@
 51914	Papaya Server	基本	「はいはいはーーい！　死爆、っと！	「Yes yes yeees! Death explosion, there!
 51915	+		　お代は見てのお帰りよん♪」	　Pay on the way out♪」
 
-51916	Nelson Server	暴走	「上空、連装弓で迎撃するのだ！	「Intercept the skies with repeating bows!
-51917	+		　右翼の電磁結界発生装置に敵！　魔法の斉射を！	　Enemy at the right wing electromagnetic barrier device! Magic barrage!
-51918	+		　……戦え、明日のために、同胞のために！」	　...Fight, for tomorrow, for your comrades!」
+51916	Nelson Server	暴走	「上空、連装弓で迎撃するのだ！	「Intercept the skies with repeating bows! Enemy at
+51917	+		　右翼の電磁結界発生装置に敵！　魔法の斉射を！	　the right wing electromagnetic barrier device! Magic
+51918	+		　……戦え、明日のために、同胞のために！」	　barrage! ...Fight, for tomorrow, for your comrades!」
 
 51919	-		――一方、一区制御ルーム。	――Meanwhile, Sector 1 control room.
 
@@ -309,15 +309,15 @@
 51949	-		余計な事を考えたり、	There was no room to think unnecessary thoughts
 51950	+		無用な警戒を抱える余裕などはない。	or hold needless caution.
 
-51951	-		後方から危機を指摘していくネルソンと、	Nelson pointing out dangers from the rear,
-51952	+		先頭で傷つきながら、強力な魔法で戦うパパイアを、	and Papaya fighting at the front with powerful magic while injured,
-51953	+		ゼス兵たちはいつしか受け入れていた。	were eventually accepted by the Zeth soldiers.
+51951	-		後方から危機を指摘していくネルソンと、	Nelson pointing out dangers from the rear, and
+51952	+		先頭で傷つきながら、強力な魔法で戦うパパイアを、	Papaya fighting at the front with powerful magic while
+51953	+		ゼス兵たちはいつしか受け入れていた。	injured, were eventually accepted by the Zeth soldiers.
 
 51954	-		戦況の悪化と第四区の奮戦を知り、	Learning of the worsening situation and Sector 4's hard fight,
 51955	+		持ち場を放棄して合流する部隊も増えた。	more units abandoned their posts to join them.
 
-51956	Nelson Server	暴走	「ここが耐え所だ、精強なるゼスの兵たちよ！	「This is where we hold, proud soldiers of Zeth!
-51957	+		　蹂躙する魔軍から、同胞を、家族を、恋人を守れ！	　Protect your comrades, families, and lovers from the trampling Monster Army!
+51956	Nelson Server	暴走	「ここが耐え所だ、精強なるゼスの兵たちよ！	「This is where we hold, proud soldiers of Zeth! Protect your
+51957	+		　蹂躙する魔軍から、同胞を、家族を、恋人を守れ！	　comrades, families, and lovers from the trampling Monster Army!
 51958	+		　一丸となれば楽には勝てぬと魔物に教えてやれ！」	　Show the monsters that together we are not easily defeated!」
 
 51959	Zeth Mage Soldier~	基本	（まったく、いいように煽ってくれる……！）	（He's really good at riling them up...!）
@@ -360,24 +360,24 @@
 51981	-		ただ一人の魔人がピクニック気分で歩いてくるのを、	A single Fiend casually walking in like on a picnic
 51982	+		止める事ができない。	could not be stopped.
 
-51983	-		魔人が持つ無敵結界は物理的な攻撃の全てを遮断し、	The invincible barrier the Fiend possessed blocked all physical attacks,
-51984	+		傷つける事ができない。	making it impossible to injure her.
-51985	+		マジノラインの破壊光線砲でさえ、涼しい顔だった。	Even the Maginot Line's destruction beam cannons didn't faze her.
+51983	-		魔人が持つ無敵結界は物理的な攻撃の全てを遮断し、	The invincible barrier the Fiend possessed blocked all
+51984	+		傷つける事ができない。	physical attacks, making it impossible to injure her. Even the
+51985	+		マジノラインの破壊光線砲でさえ、涼しい顔だった。	Maginot Line's destruction beam cannons didn't faze her.
 
 51986	-		しかも、その爪が、蛇が、携えた剣が、	Moreover, every time her claws, snakes, or carried sword flashed,
 51987	+		閃く度に犠牲者が出る。既に、外は地獄絵図だった。	more victims fell. Outside had already become a scene from hell.
 
-51988	-		マジノラインは対魔軍防衛要塞である。	The Maginot Line was a fortress for defending against the Monster Army.
-51989	+		魔人の侵入も想定し、強力な封印を施したり、	It was designed with Fiend intrusion in mind, with powerful seals
-51990	+		動きを止めるための罠も、存在する……のだが。	and traps to stop movement... or so it should have been.
+51988	-		マジノラインは対魔軍防衛要塞である。	The Maginot Line was a fortress for defending against the Monster
+51989	+		魔人の侵入も想定し、強力な封印を施したり、	Army. It was designed with Fiend intrusion in mind, with powerful
+51990	+		動きを止めるための罠も、存在する……のだが。	seals and traps to stop movement... or so it should have been.
 
 51991	Papaya Server	冷静	「あのぬいぐるみ執事……やってくれるわねー……」	「That stuffed butler... really doing a number on us...」
 
 51992	-		メディウサに一人先行するアレフガルドが、	Alefgard, advancing ahead of Medusa alone,
 51993	+		超人的な働きでそれらの罠を無力化していく。	was neutralizing the traps with superhuman efficiency.
 
-51994	-		ネルソンの指示の元、懸命にアレフガルドを	Under Nelson's instructions they desperately tried to defeat Alefgard,
-51995	+		打倒しようとするのだが、動きを捉えられない。	but couldn't even catch his movements.
+51994	-		ネルソンの指示の元、懸命にアレフガルドを	Under Nelson's instructions they desperately tried to
+51995	+		打倒しようとするのだが、動きを捉えられない。	defeat Alefgard, but couldn't even catch his movements.
 51996	+		その間に、メディウサが暴虐の限りを尽くすのだ。	Meanwhile, Medusa committed every atrocity imaginable.
 
 51997	Papaya Server		「そりゃ、一日で落ちるわよねぇ……	「Of course it would fall in a single day...
@@ -433,9 +433,9 @@
 52027	-		愛した男に騙され、魔導書の狂気に冒された……	Deceived by the man she loved, corrupted by the grimoire's madness...
 52028	+		それを告げる事が、死にゆく父の癒しになるのか。	Would telling him that bring any peace to her dying father?
 
-52029	Nelson Server	基本	「私は、国を……変えたかった……	「I wanted to change... the country...
-52030	+		　旧態依然として……腐敗が、止まらぬ……	　Stuck in the old ways... corruption that wouldn't stop...
-52031	+		　世代を重ねる事に腐臭が増す、ばかりの国……」	　A country that only grew more rotten with each generation...」
+52029	Nelson Server	基本	「私は、国を……変えたかった……	「I wanted to change... the country... Stuck in the
+52030	+		　旧態依然として……腐敗が、止まらぬ……	　old ways... corruption that wouldn't stop... A country
+52031	+		　世代を重ねる事に腐臭が増す、ばかりの国……」	　that only grew more rotten with each generation...」
 
 52032	Nelson Server		「誰かが……なにかをせねば……ならぬと、っ……	「Someone... had to do something...
 52033	+		　淀んだ沼に……波紋を……生まなければ、とっ……」	　Had to create ripples... in that stagnant swamp...」
@@ -446,9 +446,9 @@
 52036	Nelson Server		「だが、だから、っ……ゼスを、守る、のだ……	「But that's why... we must protect Zeth...
 52037	+		　その後の世を、残す、ためにっ……！」	　To leave behind a future...!」
 
-52038	Papaya Server		「……そうね。いい国になったし、なるわ、ゼスは。	「...Yes. Zeth has become a good country, and it will continue to be.
-52039	+		　きっと、命を賭ける価値がある。	　It's definitely worth risking your life for.
-52040	+		　……贖罪っていう理由が無くても、ね」	　...Even without the reason of atonement.」
+52038	Papaya Server		「……そうね。いい国になったし、なるわ、ゼスは。	「...Yes. Zeth has become a good country, and it
+52039	+		　きっと、命を賭ける価値がある。	　will continue to be. It's definitely worth risking your
+52040	+		　……贖罪っていう理由が無くても、ね」	　life for. ...Even without the reason of atonement.」
 
 52041	Nelson Server		「………………ふふ」	「............Heh heh」
 
@@ -486,9 +486,9 @@
 52060	-		反応する暇もなく、岩と土と瓦礫とに、	With no time to react, rocks, dirt, and debris
 52061	+		多数の魔軍が飲み込まれていく。	swallowed up a large number of the Monster Army.
 
-52062	-		もはやマジノラインに防衛能力は	The Maginot Line no longer had any defensive capability left,
-52063	+		残されていなかったが、この最後の自爆によって出た	but the damage inflicted on the Monster Army by this final self-destruction
-52064	+		魔軍の被害は、小さいものではなかった。	was far from small.
+52062	-		もはやマジノラインに防衛能力は	The Maginot Line no longer had any defensive
+52063	+		残されていなかったが、この最後の自爆によって出た	capability left, but the damage inflicted on the Monster
+52064	+		魔軍の被害は、小さいものではなかった。	Army by this final self-destruction was far from small.
 
 52065	Alefgard		「……やれやれ、危ないところでございましたな」	「...Goodness, that was a close call.」
 

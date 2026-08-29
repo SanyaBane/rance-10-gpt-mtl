@@ -93,18 +93,18 @@
 20910	-		アリオス・テオマン。	Arios Theoman.
 20911	+		数年前までは、世界を旅する、勇者の名前だった。	Until a few years ago, that was the name of a Hero traveling the world.
 
-20912	-		およそ、十年前。	About ten years ago.
-20913	+		突然現れた、従者を名乗るコーラという少年から、	The days of training began when a boy named Cola, who claimed to be a servant, suddenly appeared
-20914	+		勇者だと宣告されて始まった修行の日々。	and declared him a Hero.
+20912	-		およそ、十年前。	About ten years ago. The days of training
+20913	+		突然現れた、従者を名乗るコーラという少年から、	began when a boy named Cola, who claimed to be a
+20914	+		勇者だと宣告されて始まった修行の日々。	servant, suddenly appeared and declared him a Hero.
 
-20915	-		村が襲われ、幼馴染みのニーナは記憶を失い、	The village was attacked, his childhood friend Nina lost her memory,
-20916	+		そうして、アリオスは勇者として……	and then Arios, as a Hero...
+20915	-		村が襲われ、幼馴染みのニーナは記憶を失い、	The village was attacked, his childhood friend
+20916	+		そうして、アリオスは勇者として……	Nina lost her memory, and then Arios, as a Hero...
 20917	+		魔王を倒すための旅に出た。	set out on a journey to defeat the Demon King.
 
 20918	-		それから七年。	Seven years since then.
 
-20919	-		世界のあちこちを巡り、激しい戦いも経験したが……	He traveled all over the world and experienced fierce battles, but...
-20920	+		魔王を倒す前に、アリオスは勇者の定年を迎えていた。	before he could defeat the Demon King, Arios reached his retirement age as a Hero.
+20919	-		世界のあちこちを巡り、激しい戦いも経験したが……	He traveled all over the world and experienced fierce battles, but... before
+20920	+		魔王を倒す前に、アリオスは勇者の定年を迎えていた。	he could defeat the Demon King, Arios reached his retirement age as a Hero.
 
 20921	Arios Theoman~		（……怒ってるだろうなぁ、コーラの奴。	(...Cola's probably angry.
 20922	+		　そのうち、剣も……返さないとな）	Eventually, I'll have to... return the sword too.)
@@ -114,9 +114,9 @@
 
 20925	-		けれど、その前にと一人で寄った村。	However, he stopped by a village alone first.
 
-20926	-		復興しかけの故郷で、アリオスは見てしまった。	In his hometown, which was in the middle of reconstruction, Arios saw her.
-20927	+		記憶を失ったまま、	His childhood friend, who had lost her memory,
-20928	+		独りぼっちで笑わなくなった幼馴染みの姿を。	was all alone and had stopped smiling.
+20926	-		復興しかけの故郷で、アリオスは見てしまった。	In his hometown, which was in the middle of reconstruction,
+20927	+		記憶を失ったまま、	Arios saw her. His childhood friend, who had lost
+20928	+		独りぼっちで笑わなくなった幼馴染みの姿を。	her memory, was all alone and had stopped smiling.
 
 20929	-		……そこで、何かが切れてしまった。	...At that moment, something snapped.
 20930	+		再び発つ事が、できなくなってしまっていた。	He found himself unable to set out again.
@@ -130,8 +130,8 @@
 20936	+		　誰かが、戦うさ）	someone will fight them.)
 
 20937	-		それからも、多少は色々とあった。	A few things happened after that, as well.
-20938	+		改めて旅に出そうになったこともあったが、	There were times when he almost set out on a journey again,
-20939	+		それも過去のことだ。	but that's all in the past.
+20938	+		改めて旅に出そうになったこともあったが、	There were times when he almost set out on
+20939	+		それも過去のことだ。	a journey again, but that's all in the past.
 
 20940	Arios Theoman~		（何が大事かは、わかった。	(I've learned what's important.
 20941	+		　……大事な物を守るくらいの力も……ある。	...I also have... enough power to protect what's important.
@@ -418,15 +418,15 @@
 21110	Arios Theoman	村人	「き、気まぐれ、って……っ、そんな……！	「A... a whim? That's...!
 21111	+		　そんな、事で、ッ……みんなが、っ…………！」	Because of something like that... everyone is...!」
 
-21112	Cola	基本	「戦争が始まったんですよ。人類と魔軍の。	「A war has begun. Between humanity and the Monster Army.
-21113	+		　こんな平和ボケした田舎にいたから	Maybe you didn't know because you were
-21114	+		　知らなかったのかもしれないですけど」	in this peaceful, backwater countryside.」
+21112	Cola	基本	「戦争が始まったんですよ。人類と魔軍の。	「A war has begun. Between humanity and
+21113	+		　こんな平和ボケした田舎にいたから	　the Monster Army. Maybe you didn't know because
+21114	+		　知らなかったのかもしれないですけど」	　you were in this peaceful, backwater countryside.」
 
 21115	Arios Theoman	村人	「せん、そう……」	「A... war...」
 
-21116	-		それらしいことは、聞いていた。	He had heard rumors of such things.
-21117	+		少し気にすれば、分かっていたかも知れない。	If he had paid a little attention, he might have known.
-21118	+		けれど、自分には、もう、関係がないと……	But he had thought it no longer had anything to do with him...
+21116	-		それらしいことは、聞いていた。	He had heard rumors of such things. If he had paid
+21117	+		少し気にすれば、分かっていたかも知れない。	a little attention, he might have known. But he had
+21118	+		けれど、自分には、もう、関係がないと……	thought it no longer had anything to do with him...
 
 21119	Cola	基本	「今じゃ、こんなのどこにでもありますよ。	「Nowadays, this is happening everywhere.
 21120	+		　さ、エスクードソードを……」	Now then, the Escudo Sword...」
@@ -463,9 +463,9 @@
 
 21141	Arios Theoman	村人	「…………………」	「...............」
 
-21142	Cola	基本	「自己満足ですよ。	「It's self-satisfaction.
-21143	+		　感謝されたいから、自分が気分よく酔えるから、	You want to be thanked, you want to feel good about yourself,
-21144	+		　だからその場の気分で決めて、こうなった」	so you decided on a whim, and this is the result.」
+21142	Cola	基本	「自己満足ですよ。	「It's self-satisfaction. You want to be thanked,
+21143	+		　感謝されたいから、自分が気分よく酔えるから、	　you want to feel good about yourself, so you
+21144	+		　だからその場の気分で決めて、こうなった」	　decided on a whim, and this is the result.」
 
 21145	Arios Theoman	村人	「………………っ……！」	「............!」
 
@@ -600,9 +600,9 @@
 
 21224	Blue Monster Soldier		「へ……………へ？」	「Heh......... huh?」
 
-21225	-		隣の仲間が、声も上げられずに倒れた。	His companion beside him collapsed without even a cry.
-21226	+		首のあった場所から流れる血がブーツを濡らして、	Blood flowing from where the neck once was soaked his boots,
-21227	+		魔物兵は初めて仲間の死を知覚した。	and only then did the monster soldier perceive his comrade's death.
+21225	-		隣の仲間が、声も上げられずに倒れた。	His companion beside him collapsed without even a cry. Blood
+21226	+		首のあった場所から流れる血がブーツを濡らして、	flowing from where the neck once was soaked his boots, and
+21227	+		魔物兵は初めて仲間の死を知覚した。	only then did the monster soldier perceive his comrade's death.
 
 21228	Blue Monster Soldier		「な――――なんだ！　なんなんだてめぇ！	「Wh一一What! What are you?!
 21229	+		　た、ただの人間風情が――」	You're just a measly human一」

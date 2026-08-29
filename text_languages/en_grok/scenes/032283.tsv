@@ -3,16 +3,16 @@
 * Rance	ランス	Male
 * Satella	サテラ	Female
 
-136259	-		人類圏に攻め込む魔軍を率いていた	The supreme commander of the Monster Army that invaded the human realm,
-136260	+		総大将ケイブリス、それに連なる魔人の死は、	Kayblis, and the deaths of the Fiends connected to him,
-136261	+		魔軍にこれ以上ない衝撃を与えた。	dealt the greatest shock to the Monster Army.
+136259	-		人類圏に攻め込む魔軍を率いていた	The supreme commander of the Monster Army that invaded the
+136260	+		総大将ケイブリス、それに連なる魔人の死は、	human realm, Kayblis, and the deaths of the Fiends connected
+136261	+		魔軍にこれ以上ない衝撃を与えた。	to him, dealt the greatest shock to the Monster Army.
 
 136262	-		これを代わりにまとめるのは、	It fell to the winning side,
 136263	+		当然、勝った側、	naturally,
 136264	+		ホーネット派の魔人の仕事だった。	the Fiends of Hornet's faction to take command.
 
-136265	-		命令権を持つ魔物将軍とコンタクトを取り、	They contacted the Monster Generals with command authority
-136266	+		魔軍に人類圏から退くようにと指示を出す。	and ordered the Monster Army to withdraw from the human realm.
+136265	-		命令権を持つ魔物将軍とコンタクトを取り、	They contacted the Monster Generals with command authority and
+136266	+		魔軍に人類圏から退くようにと指示を出す。	ordered the Monster Army to withdraw from the human realm.
 
 136267	-		戦後処理が着実に進んでいく。	Post-war processing proceeded steadily.
 
@@ -34,9 +34,9 @@
 
 136278	Hornet	マントなし	「…………」	「............」
 
-136279	Hornet		「貴方に自覚はないかも知れませんが、	「You may not realize it,
-136280	+		　ランス総統は私にとって大恩ある人。	　but Supreme Leader Rance is someone I owe a great debt to.
-136281	+		　そのような礼を逸したことはしません」	　I would never do anything so rude.」
+136279	Hornet		「貴方に自覚はないかも知れませんが、	「You may not realize it, but Supreme
+136280	+		　ランス総統は私にとって大恩ある人。	　Leader Rance is someone I owe a great debt
+136281	+		　そのような礼を逸したことはしません」	　to. I would never do anything so rude.」
 
 136282	Rance	基本	「律儀な奴。	「What a dutiful girl.
 136283	+		　そんなのどうでもいいだろうに」	　You don't have to be so formal.」
@@ -147,9 +147,9 @@
 136346	Hornet	マントなし／目閉じ	「……分かりました。	「...Understood.
 136347	+		　人が何を望もうと自由です」	　People are free to desire what they want.」
 
-136348	Hornet	マントなし	「ですが、私は、その……	「However, I... have no
-136349	+		　そういった経験がありませんので……	　experience in such matters...
-136350	+		　抱いた後で望みと違っても知りませんよ」	　so don't complain if it's not what you hoped for after you take me.」
+136348	Hornet	マントなし	「ですが、私は、その……	「However, I... have no experience in such
+136349	+		　そういった経験がありませんので……	　matters... so don't complain if it's not
+136350	+		　抱いた後で望みと違っても知りませんよ」	　what you hoped for after you take me.」
 
 136351	Rance	笑顔	「がははは！　やはり処女か！」	「Gahahaha! So you're a virgin after all!」
 

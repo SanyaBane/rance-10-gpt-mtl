@@ -39,9 +39,9 @@
 
 52578	-		すぐさま、マジックは動き出す。	Magic immediately began to move.
 
-52579	-		制御システムを起動。	She activated the control system.
-52580	+		本人と王しか知らないパスワードを入力し、	Entering the password known only to herself and the king,
-52581	+		幾重もの本人認証を越えて作動画面を起動させる。	she bypassed multiple authentications and opened the operation screen.
+52579	-		制御システムを起動。	She activated the control system. Entering the password
+52580	+		本人と王しか知らないパスワードを入力し、	known only to herself and the king, she bypassed
+52581	+		幾重もの本人認証を越えて作動画面を起動させる。	multiple authentications and opened the operation screen.
 
 52582	Magic the Gandhi	思考	「落ち着いて……っ……！」	「Stay calm...!」
 
@@ -136,9 +136,9 @@
 52640	Mysteria Tor		「ほら、四天王から預かった、起動委任キーだ。	「Here, the activation delegation key from the Four Lords.
 52641	+		　これで動くだろうさ」	　This should get it moving.」
 
-52642	Miracle Tor		「感謝します、祖母様。	「Thank you, Grandmother.
-52643	+		　しかし……そうか、この辺りは聖魔教団の……	　But... I see, this area has some influence from the Holy Magic Sect...
-52644	+		　フリーク老の影響が少しだけあるな……」	　Old Freak's influence is here a bit...」
+52642	Miracle Tor		「感謝します、祖母様。	「Thank you, Grandmother. But... I see, this
+52643	+		　しかし……そうか、この辺りは聖魔教団の……	　area has some influence from the Holy Magic
+52644	+		　フリーク老の影響が少しだけあるな……」	　Sect... Old Freak's influence is here a bit...」
 
 52645	Lucy Julietta		「あの頃の遺産はよく使われていた。	「The legacy from that time was used well.
 52646	+		　分析して参考にできる部分は活用していたはずだ」	　They must have analyzed and used the usable parts.」
@@ -294,9 +294,9 @@
 52743	-		メモに視線を落としながら、	Looking at the memo,
 52744	+		志津香はパスワードを入力する。	Shizuka entered the password.
 
-52745	Nagi su Ragarl	笑顔	「んでんでんでーーー！	「And and and-----!
-52746	+		　次は起動委任キーを入れて、	　Next insert the activation delegation key,
-52747	+		　結界の発動規模の設定、他の塔との連動指定……」	　set the barrier activation scale, specify linkage with other towers...」
+52745	Nagi su Ragarl	笑顔	「んでんでんでーーー！	「And and and-----! Next insert the activation
+52746	+		　次は起動委任キーを入れて、	　delegation key, set the barrier activation
+52747	+		　結界の発動規模の設定、他の塔との連動指定……」	　scale, specify linkage with other towers...」
 
 52748	-		説明書を一見しただけとは思われない速度で、	At a speed that didn't seem like she had only glanced at the manual,
 52749	+		ナギがシステム作動の手順を踏んでいく。	Nagi proceeded with the system activation steps.
@@ -342,9 +342,9 @@
 52773	-		ガンジーが、制御システムに起動キーをねじ込むと、	When Gandhi inserted the activation key into the control system,
 52774	+		周囲に小さな光が集まっていく。	small lights gathered around.
 
-52775	Ragnarokarc Super Gandhi	喝	「さあ受けよ魔軍よ！！	「Now receive this, Monster Army!!
-52776	+		　これが長い時間、寄せ集め叩き上げた……	　This is the power humanity has gathered and forged over a long time...
-52777	+		　人類の力だ！！」	　The power of humanity!!」
+52775	Ragnarokarc Super Gandhi	喝	「さあ受けよ魔軍よ！！	「Now receive this, Monster Army!! This is
+52776	+		　これが長い時間、寄せ集め叩き上げた……	　the power humanity has gathered and forged
+52777	+		　人類の力だ！！」	　over a long time... The power of humanity!!」
 
 52778	Hanny	基本	「わーっ、わーっ。秘密の部屋だ！」	「Waa, waa. A secret room!」
 
@@ -368,8 +368,8 @@
 
 52790	-		司令部のコンピュータに、情報が流れてくる。	Information flowed into the headquarters computer.
 
-52791	-		弾倉の塔、日曜の塔、跳躍の塔、王者の塔。	Ammunition Tower, Sunday Tower, Leap Tower, King's Tower.
-52792	+		四つの塔全てから、発動条件を満たした事を示す	From all four towers came signals
+52791	-		弾倉の塔、日曜の塔、跳躍の塔、王者の塔。	Ammunition Tower, Sunday Tower, Leap Tower,
+52792	+		四つの塔全てから、発動条件を満たした事を示す	King's Tower. From all four towers came signals
 52793	+		通信が送られてきていた。	indicating activation conditions were met.
 
 52794	Yamada Chizuko		「どうやら……賭けには、勝ったか……」	「It seems... we won the bet...」
@@ -410,8 +410,8 @@
 
 52815	Green Monster Soldier		「えっ、な、なんだこれ！　この、この！」	「Eh, w, what is this! This, this!」
 
-52816	-		蹴り、殴り、果ては武器を叩きつけるが反応はない。	They kicked, punched, and even struck with weapons, but there was no reaction.
-52817	+		どう頑張っても、中に身体を押し込めない。	No matter how hard they tried, they couldn't push their bodies inside.
+52816	-		蹴り、殴り、果ては武器を叩きつけるが反応はない。	They kicked, punched, and even struck with weapons, but there was no
+52817	+		どう頑張っても、中に身体を押し込めない。	reaction. No matter how hard they tried, they couldn't push their bodies inside.
 
 52818	Green Monster Soldier		「だ、ダメです！　な、中には入れません……！」	「I, it's impossible! We can't get inside...!」
 

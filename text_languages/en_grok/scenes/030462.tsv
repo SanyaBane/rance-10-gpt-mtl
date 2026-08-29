@@ -80,8 +80,8 @@
 8514	Rance	驚き	「うおっ！？　お前、まだいたのか！」	「Whoa!? You were still here!」
 
 8515	Pi-R	基本	「そろそろ再起動が終わるんだ。	「The restart is almost finished.
-8516	+		　もう少し、ファジーな動作に耐える方向に	　I'll adjust it a bit more to handle fuzzier movements...」
-8517	+		　修正をかけるか……」	
+8516	+		　もう少し、ファジーな動作に耐える方向に	　I'll adjust it a bit more to
+8517	+		　修正をかけるか……」	　handle fuzzier movements...」
 
 8518	Rance	だる顔	「相変わらず言ってる事は分からんが……」	「As usual, I don't understand what you're saying...」
 
@@ -110,9 +110,9 @@
 8533	+		　世界を支配下に置いて、全人類を使ってでも、	　Even if it meant ruling the world and using all of humanity,
 8534	+		　姉さんを助けさせればよかった」	　I should have made them save her.」
 
-8535	Pi-R		「過程を問わずに、結果を引き当てるべきだった。	「I should have aimed for the result without caring about the process.
-8536	+		　何より欲しかった結果と、	　The result I wanted most,
-8537	+		　過程の自己満足は切り離すべきだったんだ」	　and self-satisfaction from the process should have been separated.」
+8535	Pi-R		「過程を問わずに、結果を引き当てるべきだった。	「I should have aimed for the result without caring about
+8536	+		　何より欲しかった結果と、	　the process. The result I wanted most, and self-satisfaction
+8537	+		　過程の自己満足は切り離すべきだったんだ」	　from the process should have been separated.」
 
 8538	Pi-R		「子供だった僕は……魔人だった僕は、	「The child I was... the Fiend I was,
 8539	+		　そんなことも見えないくらい、視野が狭かった」	　had such a narrow view that I couldn't see that.」
@@ -173,9 +173,9 @@
 
 8573	Root Ari	基本	「あのう、こちらからパイアールの声が……」	「Um, I heard Pi-R's voice from over here...」
 
-8574	Pi-R		「あっ、姉さん！	「Ah, sister!
-8575	+		　うん、再起動終わったからもう平気だよ。	　Yeah, the restart is done so I'm fine now.
-8576	+		　さあ、猿の部屋にいると獣臭がうつる。いこう？」	　Come on, staying in the monkey's room will make you smell like a beast. Let's go?」
+8574	Pi-R		「あっ、姉さん！	「Ah, sister! Yeah, the restart is done so I'm fine
+8575	+		　うん、再起動終わったからもう平気だよ。	　now. Come on, staying in the monkey's room
+8576	+		　さあ、猿の部屋にいると獣臭がうつる。いこう？」	　will make you smell like a beast. Let's go?」
 
 8577	Rance	怒り	「がっ、ぎ、ぐ……こ、このガキーーーーー！」	「Ga, gi, gu... Y-You braaaat!」
 

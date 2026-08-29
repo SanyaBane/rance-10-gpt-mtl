@@ -43,9 +43,9 @@
 
 155801	Cordoba Burn		「……そんなことをする意味が分かりませんな」	「...I don't see the point of doing that.」
 
-155802	Barres Province		「……死者は無視をすれば良いが、	「...We can ignore the dead, but
-155803	+		　怪我人はそうもいかんからのう。	　injured soldiers are another matter.
-155804	+		　怪我人が増えれば救護にそれだけ兵を取られる」	　More injured means more soldiers tied up in medical care.」
+155802	Barres Province		「……死者は無視をすれば良いが、	「...We can ignore the dead, but injured
+155803	+		　怪我人はそうもいかんからのう。	　soldiers are another matter. More injured
+155804	+		　怪我人が増えれば救護にそれだけ兵を取られる」	　means more soldiers tied up in medical care.」
 
 155805	Barres Province		「現に救護テントは連日、	「In fact the medical tents are
 155806	+		　それこそ戦場のようになっておる」	　like battlefields themselves every day.」
@@ -177,9 +177,9 @@
 155882	Satella		「知らないのは当然って……	「What do you mean it's natural we don't know...
 155883	+		　どういう意味だ？」	　Explain.」
 
-155884	Crook Mofus		「シルキィは本来M・M・ルーン、藤原石丸と並ぶ	「Silky was originally praised alongside M.M. Rune and Fujiwara Ishimaru
-155885	+		　人類歴史上最高の英傑の一人として、	　as one of the greatest heroes in human history,
-155886	+		　未だに称えられるだけのことはしたのですがね」	　and she certainly did enough to deserve it.」
+155884	Crook Mofus		「シルキィは本来M・M・ルーン、藤原石丸と並ぶ	「Silky was originally praised alongside M.M. Rune and
+155885	+		　人類歴史上最高の英傑の一人として、	　Fujiwara Ishimaru as one of the greatest heroes in human
+155886	+		　未だに称えられるだけのことはしたのですがね」	　history, and she certainly did enough to deserve it.」
 
 155887	Crook Mofus		「彼女は歴史から抹消された英雄なんです」	「She is a hero who was erased from history.」
 
@@ -297,9 +297,9 @@
 
 155957	-		……	......
 
-155958	Crook Mofus		「以上がＡＬ教で司教以上に教えられる話です。	「That is the story taught to bishops and higher in the AL Church.
-155959	+		　ある程度の地位がある方なら一度は	　Anyone of a certain status has probably
-155960	+		　耳に入れたことのある話ですよ」	　heard it at least once.」
+155958	Crook Mofus		「以上がＡＬ教で司教以上に教えられる話です。	「That is the story taught to bishops and
+155959	+		　ある程度の地位がある方なら一度は	　higher in the AL Church. Anyone of a certain
+155960	+		　耳に入れたことのある話ですよ」	　status has probably heard it at least once.」
 
 155961	Crook Mofus		「と言っても真偽不明の話で、	「Though its truth is unknown,
 155962	+		　英雄が人類を裏切ったと考えることも出来ます」	　it can also be seen as a hero betraying humanity.」
@@ -322,8 +322,8 @@
 
 155972	Rance	基本	「今まで？」	「All this time?」
 
-155973	Satella	思考	「ホーネット派とケイブリス派の、	「The faction war between Hornet's faction and Kayblis's faction.」
-155974	+		　派閥戦争のことだ」	
+155973	Satella	思考	「ホーネット派とケイブリス派の、	「The faction war between Hornet's
+155974	+		　派閥戦争のことだ」	　faction and Kayblis's faction.」
 
 155975	Satella		「ホーネット派のほとんどは、	「Most of Hornet's faction
 155976	+		　魔王の遺言を守る為に戦ってるにすぎない」	　are simply fighting to protect the Demon King's will.」

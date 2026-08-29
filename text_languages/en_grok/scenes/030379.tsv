@@ -29,8 +29,8 @@
 3937	Miracle Tor		「もぐもぐ、ごくん。よかろう、吉川きく。	「Munch munch, gulp. Very well, Kiku Yoshikawa.
 3938	+		　これを取らす」	　Take this.」
 
-3939	-		ミラクルはメモ帳のようなものを	Miracle handed her something like a notebook.
-3940	+		きくに渡した。	
+3939	-		ミラクルはメモ帳のようなものを	Miracle handed her
+3940	+		きくに渡した。	something like a notebook.
 
 3941	Kikkawa Kiku		「へへ、ありがとよ。	「Hehe, thanks.
 3942	+		　またリクエストがあれば何か作るぜ」	　If you have any more requests I'll make something.」
@@ -52,9 +52,9 @@
 
 3953	Rance		「……なんだこれ。これじゃ何が何だか……」	「......What is this. I can't tell what anything is......」
 
-3954	Kikkawa Kiku	基本	「それでいいのさ。	「That's fine.
-3955	+		　この辺りを探して、自分の目と舌で見つける。	　Search around here and find them with your own eyes and tongue.
-3956	+		　その方が面白ぇだろ」	　That's more fun, right?」
+3954	Kikkawa Kiku	基本	「それでいいのさ。	「That's fine. Search around here
+3955	+		　この辺りを探して、自分の目と舌で見つける。	　and find them with your own eyes
+3956	+		　その方が面白ぇだろ」	　and tongue. That's more fun, right?」
 
 3957	Rance	だる顔	「……ミラクルが好きそうなノリだな」	「......Sounds like something Miracle would like.」
 
@@ -69,9 +69,9 @@
 
 3963	Rance	だる顔	「…………なるか？」	「............Will it?」
 
-3964	Kikkawa Kiku	基本	「まあ、なるさ。JAPANは特にな。	「Well, it will. Especially in JAPAN.
-3965	+		　多少はごたつくかもだが、	　There might be some chaos,
-3966	+		　毛利が満足する戦場はほとんど無くなる」	　but there won't be many battlefields left that satisfy the Mouri.」
+3964	Kikkawa Kiku	基本	「まあ、なるさ。JAPANは特にな。	「Well, it will. Especially in JAPAN. There
+3965	+		　多少はごたつくかもだが、	　might be some chaos, but there won't be
+3966	+		　毛利が満足する戦場はほとんど無くなる」	　many battlefields left that satisfy the Mouri.」
 
 3967	Kikkawa Kiku		「それが嫌ってー訳でもねぇけど。	「It's not that I hate that or anything.
 3968	+		　やる事がねぇのは退屈だ」	　But having nothing to do is boring.」
@@ -107,12 +107,12 @@
 3986	+		　お袋さんが何か仕込んだんだったか」	　had their mom teach them something.」
 
 3987	Kikkawa Kiku		「まー、娘と決まったわけじゃーないが、	「Well, it's not decided it's a daughter,
-3988	+		　お袋の考えが二代目で消えて無くなるのも、	　but it'd be a shame if mom's teachings disappeared with the second generation.」
-3989	+		　ちょっとアレだしな」	
+3988	+		　お袋の考えが二代目で消えて無くなるのも、	　but it'd be a shame if mom's teachings
+3989	+		　ちょっとアレだしな」	　disappeared with the second generation.」
 
-3990	Kikkawa Kiku		「そもそも、赤ん坊のうちは食いモンに	「First of all, while they're babies you have to be careful with food......
-3991	+		　気ィつけなきゃなんねーしな……	
-3992	+		　平気で蜂蜜酒とか飲ませそうだし……」	　They'd probably give them mead without thinking......」
+3990	Kikkawa Kiku		「そもそも、赤ん坊のうちは食いモンに	「First of all, while they're babies you have
+3991	+		　気ィつけなきゃなんねーしな……	　to be careful with food...... They'd probably
+3992	+		　平気で蜂蜜酒とか飲ませそうだし……」	　give them mead without thinking......」
 
 3993	Kikkawa Kiku		「だいたい、戦場にぶち込むのは良いとして、	「Throwing them into battle is one thing,
 3994	+		　それ以外の世話、誰がやるんだ……？	　but who’s gonna take care of everything else......?

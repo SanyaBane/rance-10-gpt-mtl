@@ -89,9 +89,9 @@
 
 232929	Mouri Motonari	ガルル	「んぐっ！　んぐっ！　んぐっ！」	「Ngu! Ngu! Ngu!」
 
-232930	-		元就はザンス達の飲み方のように、	Motonari, unlike Zance and the others who used small glasses,
-232931	+		小さいグラスでは飲まず、	drank straight from the bottle,
-232932	+		瓶ごとラッパ飲みし始めた。	chugging it.
+232930	-		元就はザンス達の飲み方のように、	Motonari, unlike Zance and the
+232931	+		小さいグラスでは飲まず、	others who used small glasses, drank
+232932	+		瓶ごとラッパ飲みし始めた。	straight from the bottle, chugging it.
 
 232933	Mouri Motonari	笑顔	「ぶはーーーーー！	「Buhaaaaaa!
 232934	+		　ぐわっはははははは！」	　Gwah hahahahahaha!」
@@ -218,9 +218,9 @@
 
 233006	El Mofus		「…………。」	「............」
 
-233007	-		ちゃぷっ。	Splash.
-233008	+		靴を脱いで足だけを海の中に入れると、	After taking off your shoes and dipping just your feet into the sea,
-233009	+		思った以上の冷たさにまず驚いた。	you were first surprised by how cold it was.
+233007	-		ちゃぷっ。	Splash. After taking off your shoes and
+233008	+		靴を脱いで足だけを海の中に入れると、	dipping just your feet into the sea, you
+233009	+		思った以上の冷たさにまず驚いた。	were first surprised by how cold it was.
 
 233010	-		足の裏の砂が波によってサラサラと流れ、	The sand under your feet flowed smoothly with the waves,
 233011	+		ともすれば転んでしまいそうになるのを	and you braced your legs to endure the feeling
@@ -247,8 +247,8 @@
 
 233024	Old Man		「はい、そうですじゃ……」	「Yes, that's right...」
 
-233025	Old Man		「この付近にある山は不思議な霧が立ちこめ、	「The mountain near here is covered in mysterious fog,
-233026	+		　その霧を吸い込むと体が若返ってしまうとか……	　and breathing in that fog apparently makes your body younger...
+233025	Old Man		「この付近にある山は不思議な霧が立ちこめ、	「The mountain near here is covered in mysterious fog, and
+233026	+		　その霧を吸い込むと体が若返ってしまうとか……	　breathing in that fog apparently makes your body younger...
 233027	+		　最後には胎児にまで戻り、そして……」	　In the end it turns you back into a fetus, and then...」
 
 233028	-		あまりの恐ろしさ故か、	Perhaps because it was too terrifying,
@@ -309,8 +309,8 @@
 233062	Rance	基本	「ぐえ……抱きついて頭撫でるなよ……」	「Gueh... Don't hug me and pat my head...」
 
 233063	Rance		「格好が当時のものなところからして……	「Judging from the fact that my clothes are from back then...
-233064	+		　本当に若返るというよりも、	　it's less like actual rejuvenation,
-233065	+		　記憶の中の姿に映し変える……って感じかな」	　and more like changing into the appearance from my memories... or something.」
+233064	+		　本当に若返るというよりも、	　it's less like actual rejuvenation, and more like changing
+233065	+		　記憶の中の姿に映し変える……って感じかな」	　into the appearance from my memories... or something.」
 
 233066	Rance		「……ただ筋力とかは昔と同じだ。	「...Though my muscle strength is the same as back then.
 233067	+		　ちょっと厄介なところかもな」	　That part might be a bit troublesome.」
@@ -374,9 +374,9 @@
 
 233101	-		その後の冒険の末――	After the subsequent adventure――
 
-233102	-		全員が子供に若返ってしまった為、苦労したが、	Everyone had become children, which caused trouble,
-233103	+		あなた達は霧の発生源である魔物を	but you managed to defeat the monster that was the source of the fog.
-233104	+		なんとか倒すことに成功した。	Success.
+233102	-		全員が子供に若返ってしまった為、苦労したが、	Everyone had become children, which caused
+233103	+		あなた達は霧の発生源である魔物を	trouble, but you managed to defeat the monster
+233104	+		なんとか倒すことに成功した。	that was the source of the fog. Success.
 
 233105	-		○○月××日――	○○ Month ×× Day――
 
@@ -435,9 +435,9 @@
 233137	-		調子に乗って足を滑らせた二人を、	When the two slipped while getting carried away,
 233138	+		ウズメが慌てて抱きかかえていた。	Uzume hurriedly caught them.
 
-233139	-		洗濯は手慣れたものなロッキーが、	Rocky, experienced with laundry,
-233140	+		不慣れなレリコフとヒーローに指導をし、	gave instructions to the inexperienced Lelikov Helman and Hero,
-233141	+		二人は素直にふんふんと頷く。	and the two nodded obediently.
+233139	-		洗濯は手慣れたものなロッキーが、	Rocky, experienced with laundry, gave
+233140	+		不慣れなレリコフとヒーローに指導をし、	instructions to the inexperienced Lelikov Helman
+233141	+		二人は素直にふんふんと頷く。	and Hero, and the two nodded obediently.
 
 233142	-		川に流されてしまった松下姫を、	Dark Rance hurriedly retrieved Princess Panasonic
 233143	+		ダークランスが慌てて回収し、	who had been swept away by the river,
@@ -455,9 +455,9 @@
 233152	+		早洗濯勝負をすることになり、	and began a quick laundry competition,
 233153	+		志津香に怒られていた。	and got scolded by Shizuka.
 
-233154	-		洗濯が終わると、干す作業に入り、	After finishing the washing, they moved on to hanging the clothes,
-233155	+		ドッスとワッスの二人は皆の手が届かない所まで	and Doss and Wassu reached up to places
-233156	+		手を伸ばして干してくれた。	no one else could reach and hung them.
+233154	-		洗濯が終わると、干す作業に入り、	After finishing the washing, they moved on to
+233155	+		ドッスとワッスの二人は皆の手が届かない所まで	hanging the clothes, and Doss and Wassu reached up
+233156	+		手を伸ばして干してくれた。	to places no one else could reach and hung them.
 
 233157	-		何がそこまで楽しいのか……	What was so fun about it...
 233158	+		リセットはずっとニコニコ笑っていた。	Reset kept smiling the whole time.
@@ -484,9 +484,9 @@
 
 233172	-		長田君の言葉にあなたは頷く。	You nod at Nagata-kun's words.
 
-233173	-		皆でワイワイとはしゃぎながら同じ作業をする。	Doing the same task together while everyone makes noise and has fun.
-233174	+		それだけのことが、とても楽しかったような……	Just that alone felt really enjoyable...
-233175	+		そんな気があなたはした。	That's how you felt.
+233173	-		皆でワイワイとはしゃぎながら同じ作業をする。	Doing the same task together while everyone
+233174	+		それだけのことが、とても楽しかったような……	makes noise and has fun. Just that alone
+233175	+		そんな気があなたはした。	felt really enjoyable... That's how you felt.
 
 233176	-		あなた達は久し振りに	For the first time in a while,
 233177	+		平和で穏やかな時間を楽しんだ。	you enjoyed a peaceful and calm time.

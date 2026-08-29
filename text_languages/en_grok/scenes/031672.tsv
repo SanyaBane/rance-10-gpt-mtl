@@ -9,9 +9,9 @@
 
 96111	-		彼女の秘書としての仕事は膨大である。	Her duties as secretary are enormous.
 
-96112	-		まず、朝。	First, in the morning.
-96113	+		誰よりも早く起きて大統領の簡単な朝食の用意に、	She wakes up earlier than anyone to prepare the President's simple breakfast,
-96114	+		就業前に前日に溜まった書類の整理から始まる。	and starts by organizing the documents piled up from the previous day before work begins.
+96112	-		まず、朝。	First, in the morning. She wakes up earlier than anyone to
+96113	+		誰よりも早く起きて大統領の簡単な朝食の用意に、	prepare the President's simple breakfast, and starts by organizing
+96114	+		就業前に前日に溜まった書類の整理から始まる。	the documents piled up from the previous day before work begins.
 
 96115	Peruele Kalette	ジト目	「ふわぁ〜、おはよー……」	「Fwaa~, good morning...」
 
@@ -58,8 +58,8 @@
 96139	Peruele Kalette	基本	「さぁ〜て、私はもう一眠り……」	「Now then, time for another nap...」
 
 96140	-		秘書といえど全ての仕事をこなすわけではない。	Even as a secretary, she doesn't handle every single task.
-96141	+		時には心を鬼として大統領に職務を渡し、	Sometimes she has to be strict and hand duties back to the President,
-96142	+		政治の現状をより深く伝えることも行う。	and deeply explain the current political situation.
+96141	+		時には心を鬼として大統領に職務を渡し、	Sometimes she has to be strict and hand duties back to the
+96142	+		政治の現状をより深く伝えることも行う。	President, and deeply explain the current political situation.
 
 96143	-		これは特に、大統領と深く通じ合った	This is a job that only an excellent secretary
 96144	+		優秀な秘書にしか出来ない仕事と言え――	who deeply understands the President can do――
@@ -78,8 +78,8 @@
 96152	+		訪問者との面会を調整する仕事である。	and managing meetings with visitors.
 
 96153	-		単純なスケジュール調整の能力はもちろん、	Of course it requires not just simple scheduling ability,
-96154	+		現在の大統領の政界での立ち位置、政治、	but also deep knowledge of the President's current political position,
-96155	+		そして人間関係にも明るくないと出来ない。	politics, and personal relationships.
+96154	+		現在の大統領の政界での立ち位置、政治、	but also deep knowledge of the President's current
+96155	+		そして人間関係にも明るくないと出来ない。	political position, politics, and personal relationships.
 
 96156	-		秘書の仕事の中でも、	Among secretarial duties,
 96157	+		最も多彩な能力が求められる業務と言って	it is one that demands the widest range of skills
@@ -97,9 +97,9 @@
 
 96165	Sheila Helman		「うわ……適当……」	「Wow... so sloppy...」
 
-96166	Peruele Kalette		「いーのいーの。	「It's fine, it's fine.
-96167	+		　こういうのは適当にやっても	　These things often work out even if done casually.」
-96168	+		　案外上手くいくもんよ」	
+96166	Peruele Kalette		「いーのいーの。	「It's fine, it's fine. These
+96167	+		　こういうのは適当にやっても	　things often work out
+96168	+		　案外上手くいくもんよ」	　even if done casually.」
 
 96169	Cream Ganoblade		「ご安心下さい、シーラ様。	「Please rest assured, Sheila-sama.
 96170	+		　私も後で確認いたしますから」	　I'll check them later.」
@@ -123,9 +123,9 @@
 
 96181	Peruele Kalette		「シーラの兄みたいなもんでしょ、あんた」	「You're like Sheila's brother anyway.」
 
-96182	Peruele Kalette		「それよりこれ。	「Anyway, look at this.
-96183	+		　この政治家、なんか臭い。	　This politician smells fishy.
-96184	+		　裏で悪いことしてそうな気がする」	　I get the feeling he's doing shady stuff behind the scenes.」
+96182	Peruele Kalette		「それよりこれ。	「Anyway, look at this. This politician
+96183	+		　この政治家、なんか臭い。	　smells fishy. I get the feeling he's
+96184	+		　裏で悪いことしてそうな気がする」	　doing shady stuff behind the scenes.」
 
 96185	-		ペルエレがぴらぴらと写真を見せる。	Peruele waved a photo around.
 
@@ -175,13 +175,13 @@
 96212	+		秘書の仕事としてはごく一部であり、	is only a small part of a secretary's job,
 96213	+		その内容は多岐に渡りかつ膨大である。	and the actual scope is vast and varied.
 
-96214	-		それほど、国の舵取りとは生半可なことではなく、	Steering a country is no easy task,
-96215	+		誤解を怖れず言えば、大統領よりも秘書の業務の方が	and to be honest without fear of misunderstanding,
-96216	+		責任は重いと言っても決して過言ではあるまい。	the secretary's duties carry even heavier responsibility than the President's.
+96214	-		それほど、国の舵取りとは生半可なことではなく、	Steering a country is no easy task, and to be honest
+96215	+		誤解を怖れず言えば、大統領よりも秘書の業務の方が	without fear of misunderstanding, the secretary's duties
+96216	+		責任は重いと言っても決して過言ではあるまい。	carry even heavier responsibility than the President's.
 
-96217	-		手前味噌ながら、ヘルマン国家が今あるのも、	Though it may sound self-praising, the current Helman nation exists
-96218	+		わたくし、ペルエレ・カレットの活躍が	largely thanks to my, Peruele Calette's, efforts
-96219	+		大いに貢献していることは疑いようのない――	there is no doubt about that――
+96217	-		手前味噌ながら、ヘルマン国家が今あるのも、	Though it may sound self-praising, the current
+96218	+		わたくし、ペルエレ・カレットの活躍が	Helman nation exists largely thanks to my, Peruele
+96219	+		大いに貢献していることは疑いようのない――	Calette's, efforts there is no doubt about that――
 
 96220	Sheila Helman	真剣	「あのー……ペルエレ……」	「Um... Peruele...」
 

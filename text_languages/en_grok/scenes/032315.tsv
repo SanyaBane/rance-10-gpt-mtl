@@ -189,9 +189,9 @@
 
 141308	Hornet	基本	「そうですか……」	「I see...」
 
-141309	Hornet		「サテラ、貴方は元より	「Satella, you've always been
-141310	+		　他者に甘いところがありましたが、	　soft on others,
-141311	+		　随分と人間に心を開いたようですね」	　but it seems you've opened your heart to humans quite a bit.」
+141309	Hornet		「サテラ、貴方は元より	「Satella, you've always been soft on
+141310	+		　他者に甘いところがありましたが、	　others, but it seems you've opened
+141311	+		　随分と人間に心を開いたようですね」	　your heart to humans quite a bit.」
 
 141312	Satella		「へ？」	「Eh?」
 
@@ -295,9 +295,9 @@
 
 141374	Rance	基本	「こ、こらこら、何を怒ってる……」	「H-Hey now, why are you so mad...」
 
-141375	Satella	あほー	「おおお、お前という奴は	「Y-Y-You... How could you say that
-141376	+		　ほほほ、ホーネット様に向かって	　to H-H-Hornet-sama, of all people?!
-141377	+		　なんて恐れ知らず、なんて恥知らずな！」	　How utterly fearless—how utterly shameless can you be?!」
+141375	Satella	あほー	「おおお、お前という奴は	「Y-Y-You... How could you say that to
+141376	+		　ほほほ、ホーネット様に向かって	　H-H-Hornet-sama, of all people?! How utterly
+141377	+		　なんて恐れ知らず、なんて恥知らずな！」	　fearless—how utterly shameless can you be?!」
 
 141378	Silky Littleraisin	笑顔	「くくっ……」	「*Snicker*...」
 
@@ -353,16 +353,16 @@
 
 141408	Silky Littleraisin	基本	「話を元に戻しましょうか」	「Let's get back to the topic.」
 
-141409	Silky Littleraisin		「とにかく、ホーネット様に単独行動を	「Anyway, we cannot let Hornet-sama act alone.」
-141410	+		　させるわけにはいきません」	
+141409	Silky Littleraisin		「とにかく、ホーネット様に単独行動を	「Anyway, we cannot let
+141410	+		　させるわけにはいきません」	　Hornet-sama act alone.」
 
 141411	Silky Littleraisin		「どうか、ランス城にお越し下さい。	「Please come to Rance Castle.
 141412	+		　まずはそこで態勢を立て直しましょう」	　Let's regroup there first.」
 
 141413	La Hawzel	武装なし	「は、話を元に戻しましょう」	「Y-yes, let's get back to the topic.」
 
-141414	La Hawzel		「とにかく、ホーネット様に単独行動を	「Anyway, we cannot let Hornet-sama act alone.」
-141415	+		　させるわけにはいきません」	
+141414	La Hawzel		「とにかく、ホーネット様に単独行動を	「Anyway, we cannot let
+141415	+		　させるわけにはいきません」	　Hornet-sama act alone.」
 
 141416	La Hawzel		「どうか、ランス城にお越し下さい。	「Please come to Rance Castle.
 141417	+		　まずはそこで態勢を立て直しましょう」	　Let's regroup there first.」

@@ -8,9 +8,9 @@
 * Sharon	シャロン	Female
 * LeMay	大将軍ルメイ	Male
 
-145921	-		ヘルマンの西部に、	In western Helman,
-145922	+		月の光すら届かない、鬱蒼と生い茂る、	a deep, dark forest so thick that even moonlight couldn't reach,
-145923	+		深く、暗い森があった。	existed.
+145921	-		ヘルマンの西部に、	In western Helman, a deep,
+145922	+		月の光すら届かない、鬱蒼と生い茂る、	dark forest so thick that even
+145923	+		深く、暗い森があった。	moonlight couldn't reach, existed.
 
 145924	-		トランシルバニアの森――	Transylvania Forest――
 145925	+		そう呼ばれ近隣住民も近づかないこの森には	Called so, even nearby residents avoid this forest,
@@ -166,18 +166,18 @@
 146014	LeMay		「は、そ、そうですか……	「Y-Yes, I see...
 146015	+		　はい、分かりました」	　Understood.」
 
-146016	LeMay		「人間は既にバボラ様も撃破しています。	「The humans have already defeated Lady Babolat.
-146017	+		　ケッセルリンク様に限って、	　I don't believe there is any chance of failure for Lord Kesselring,
-146018	+		　万が一もないかと思いますが、どうか気をつけて」	　but please be careful nonetheless.」
+146016	LeMay		「人間は既にバボラ様も撃破しています。	「The humans have already defeated Lady Babolat. I
+146017	+		　ケッセルリンク様に限って、	　don't believe there is any chance of failure for Lord
+146018	+		　万が一もないかと思いますが、どうか気をつけて」	　Kesselring, but please be careful nonetheless.」
 
 146019	Kesselring		「……ふん」	「...Hmph.」
 
 146020	-		メイドが口にした言葉と	LeMay spoke words similar to what the maid had said.
 146021	+		似たようなことを言うルメイ。	Kesselring understood that this was LeMay's best attempt at sarcasm,
 
-146022	-		それがルメイの精一杯の嫌味だということは	but he had lost even the will to respond
-146023	+		ケッセルリンクにも分かっていたが、	and simply turned his back.
-146024	+		答える気すら失せて背を向けた。	
+146022	-		それがルメイの精一杯の嫌味だということは	but he had lost even
+146023	+		ケッセルリンクにも分かっていたが、	the will to respond and
+146024	+		答える気すら失せて背を向けた。	simply turned his back.
 
 146025	-		目指すはヘルマンの砦。	His destination was the Helman fortress.
 146026	+		ケッセルリンクは単身で向かう。	Kesselring headed there alone.

@@ -65,9 +65,9 @@
 
 55824	Green Monster Soldier		「殺った…………ん、あ、れ……？」	「Got them...... Huh, what...?」
 
-55825	-		だが、崩れたと見せかけた兵は左右に。	But the soldiers who seemed broken routed to the sides.
-55826	+		同時に、別行動で突出したと思われた両翼が、	At the same time, the flanks that seemed to have broken out separately
-55827	+		緩やかに、しかし素早く集まっていく。	gathered smoothly but quickly.
+55825	-		だが、崩れたと見せかけた兵は左右に。	But the soldiers who seemed broken routed to the
+55826	+		同時に、別行動で突出したと思われた両翼が、	sides. At the same time, the flanks that seemed to have
+55827	+		緩やかに、しかし素早く集まっていく。	broken out separately gathered smoothly but quickly.
 
 55828	-		中央の兵たちは絶妙なタイミングで両翼と合流し、	The central soldiers joined the flanks at the perfect timing,
 55829	+		気づけば魔物兵たちを半包囲していた。	and before anyone realized, they had half-encircled the monster soldiers.
@@ -205,9 +205,9 @@
 55910	Copandon Dott	基本	「おんなじ自由都市の、それなりの地位の人間やし。	「We're both from the same Free Cities and hold decent positions.
 55911	+		　まあご近所はん、てとこや」	　Basically neighbors.」
 
-55912	Copandon Dott		「パランチョ王国の強さは有名やからなぁ。	「Parancho Kingdom's strength is well known.
-55913	+		　自由都市連合軍の総隊長にピッテンはんを推す声も	　There were quite a few voices recommending Pitten
-55914	+		　けっこうあったんやけど……」	　as supreme commander of the Free Cities Alliance Army, but...」
+55912	Copandon Dott		「パランチョ王国の強さは有名やからなぁ。	「Parancho Kingdom's strength is well known. There
+55913	+		　自由都市連合軍の総隊長にピッテンはんを推す声も	　were quite a few voices recommending Pitten as supreme
+55914	+		　けっこうあったんやけど……」	　commander of the Free Cities Alliance Army, but...」
 
 55915	Pitten Chao		「連合軍の長は各都市のしがらみのない、	「The tradition is to appoint a mercenary
 55916	+		　傭兵に就かせるというのが伝統でな」	　without ties to any city as leader of the alliance.」
@@ -251,9 +251,9 @@
 55939	Pitten Chao	基本	「鍛え込んだ小勢だからな、局地戦には強い。	「We're a small, well-trained force, strong in local battles.
 55940	+		　大兵力で押し潰されない限りは、抵抗してやるさ」	　As long as we aren't crushed by overwhelming numbers, we'll resist.」
 
-55941	Pitten Chao		「……そのあたりの手管は、ヘルマンの時に	「...I learned plenty of those tactics
-55942	+		　たっぷり学ばせてもらったしな。	　during the Helman incident.
-55943	+		　魔軍相手とはいえ、簡単にはやられんつもりだ」	　Even against the Monster Army, I don't plan to go down easily.」
+55941	Pitten Chao		「……そのあたりの手管は、ヘルマンの時に	「...I learned plenty of those tactics during
+55942	+		　たっぷり学ばせてもらったしな。	　the Helman incident. Even against the Monster
+55943	+		　魔軍相手とはいえ、簡単にはやられんつもりだ」	　Army, I don't plan to go down easily.」
 
 55944	Crook Mofus		「………………」	「............」
 
@@ -278,8 +278,8 @@
 
 55956	Rance	イライラ	「おお、こんな田舎でちんたらする理由なぞないわ」	「Of course, no reason to dawdle in a backwater like this.」
 
-55957	Pitten Chao	基本	「そうか、国に来るなら歓迎しようと思ったが、	「I see. I was going to welcome you if you came to my country,
-55958	+		　仕方ないか。聞いたぞ、今や世界総統か」	　but can't be helped. I heard you're the Supreme Leader of the World now.」
+55957	Pitten Chao	基本	「そうか、国に来るなら歓迎しようと思ったが、	「I see. I was going to welcome you if you came to my country, but
+55958	+		　仕方ないか。聞いたぞ、今や世界総統か」	　can't be helped. I heard you're the Supreme Leader of the World now.」
 
 55959	Rance	怒り	「ふん！　その通り。非常に忙しいのだ。	「Hmph! That's right. I'm extremely busy.
 55960	+		　行くぞ！」	　We're going!」

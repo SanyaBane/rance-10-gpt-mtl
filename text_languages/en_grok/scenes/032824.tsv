@@ -16,8 +16,8 @@
 180333	+		そこはいつも通り戦場さながらの騒がしさだった。	it was as noisy as a battlefield as usual.
 
 180334	Helman Soldier	基本	「ツングース平原で行われた戦闘は終了しました。	「The battle at Tungus Plain has ended.
-180335	+		　魔軍は撃退しましたが、	　We repelled the Monster Army, but
-180336	+		　防衛軍は二割の死傷兵を出した模様！」	　the defense force suffered about twenty percent casualties!」
+180335	+		　魔軍は撃退しましたが、	　We repelled the Monster Army, but the defense
+180336	+		　防衛軍は二割の死傷兵を出した模様！」	　force suffered about twenty percent casualties!」
 
 180337	Zeth Mage Soldier		「リーザスから連絡がありました。	「Report from Leazas.
 180338	+		　東部で発生していた反乱は鎮圧に成功。	　The rebellion in the east has been suppressed.
@@ -27,13 +27,13 @@
 
 180341	Rance	だる顔	「それと、世界も相変わらず目茶苦茶だ」	「And the world is still a total mess.」
 
-180342	JAPAN Samurai	基本	「ゼス王国から定時報告あり。	「Regular report from Zeth Kingdom.
-180343	+		　マジノライン方面に数万の魔軍が追加された模様。	　Tens of thousands more Monster Army troops added toward the Maginot Line.
-180344	+		　尚、各戦線に大きな動きはありません」	　No major movements on other fronts.」
+180342	JAPAN Samurai	基本	「ゼス王国から定時報告あり。	「Regular report from Zeth Kingdom. Tens of thousands
+180343	+		　マジノライン方面に数万の魔軍が追加された模様。	　more Monster Army troops added toward the
+180344	+		　尚、各戦線に大きな動きはありません」	　Maginot Line. No major movements on other fronts.」
 
-180345	Leazas Blue Soldier		「自由都市より報告。	「Report from the Free Cities.
-180346	+		　西部のリーザス国境付近の魔軍の総数ですが、	　The total Monster Army near the western Leazas border
-180347	+		　4万弱から5万強へ修正。敵、増援されています」	　revised from around 40,000 to over 50,000. Enemy reinforcements confirmed.」
+180345	Leazas Blue Soldier		「自由都市より報告。	「Report from the Free Cities. The total Monster
+180346	+		　西部のリーザス国境付近の魔軍の総数ですが、	　Army near the western Leazas border revised from around
+180347	+		　4万弱から5万強へ修正。敵、増援されています」	　40,000 to over 50,000. Enemy reinforcements confirmed.」
 
 180348	Satella	不安	「……魔軍の奴ら、どんどん追加されてるな。	「...The Monster Army keeps adding more troops.
 180349	+		　これじゃあいくら倒してもキリがない」	　No matter how many we defeat, it's endless.」
@@ -137,8 +137,8 @@
 180410	+		　申し訳ありません……よぼよぼ……」	　I'm very sorry...... yobo yobo......」
 
 180411	Cream Ganoblade		「この方の話の通りのルートを通り、	「We followed the route he described
-180412	+		　確認を取らせました。	　and confirmed it.
-180413	+		　確かにシャングリラと思しき建物がありました」	　There were indeed buildings that seemed to be Shangri-La.」
+180412	+		　確認を取らせました。	　and confirmed it. There were indeed
+180413	+		　確かにシャングリラと思しき建物がありました」	　buildings that seemed to be Shangri-La.」
 
 180414	Rance		「ふむ、なら本当にあるのか」	「Hmm, so it really exists.」
 

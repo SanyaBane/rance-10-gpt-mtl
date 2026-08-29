@@ -131,8 +131,8 @@
 24321	Patton Helman	真剣	「……いや待て。それ、どっかで聞いた事あるぞ。	「......Wait, I've heard that name before.
 24322	+		　人破壊、人破壊……人破壊爆弾…………」	　Human Destruction, Human Destruction...... Human Destruction Bomb......」
 
-24323	Hunty Kalar	基本	「あんたのおつむに	「I can't believe I have to rely on your brain......」
-24324	+		　期待しなきゃならないとはねぇ……」	
+24323	Hunty Kalar	基本	「あんたのおつむに	「I can't believe I have to
+24324	+		　期待しなきゃならないとはねぇ……」	　rely on your brain......」
 
 24325	Patton Helman	戸惑い	「うっせ、黙ってろ。思い出せなくなる……	「Shut up. I'm trying to remember......
 24326	+		　ええと……………	　Uhh......
@@ -349,13 +349,13 @@
 
 24457	-		ルメイは内心で、苦鳴を漏らした。	LeMay groaned inwardly.
 
-24458	-		パットンが胴を狙うのは、避けづらく的が大きい、	Patton targeted the torso because it was large and hard to dodge,
-24459	+		という程度の理由であったが、ルメイには……	but for LeMay......
-24460	+		魔物大将軍にとっては、共通の弱点であった。	it was a shared vital point for Great Monster Generals.
+24458	-		パットンが胴を狙うのは、避けづらく的が大きい、	Patton targeted the torso because it was large
+24459	+		という程度の理由であったが、ルメイには……	and hard to dodge, but for LeMay...... it was a
+24460	+		魔物大将軍にとっては、共通の弱点であった。	shared vital point for Great Monster Generals.
 
-24461	-		なにせ、胴部には思考するためのブレインがある。	After all, their thinking brain was located in the torso.
-24462	+		そこが鉄槌かと思うような衝撃を受けると、	Each heavy impact shook his consciousness.
-24463	+		意識を強制的に揺らされる。	
+24461	-		なにせ、胴部には思考するためのブレインがある。	After all, their thinking brain was
+24462	+		そこが鉄槌かと思うような衝撃を受けると、	located in the torso. Each heavy
+24463	+		意識を強制的に揺らされる。	impact shook his consciousness.
 
 24464	LeMay~		（ヤワな作りではないが、もし、このまま、っ……）	(It's not fragile, but if this continues......)
 
@@ -380,9 +380,9 @@
 
 24476	Patton Helman	真剣	「チ、ッ……！」	「Tch......！」
 
-24477	-		一回転して転倒を避け、	He spun once to avoid falling,
-24478	+		再び踏み込もうとするパットンだが、一瞬膝が笑う。	but his knees buckled for a moment as he tried to charge again.
-24479	+		更に頭からの流血が、視界を塞いだ。	Blood flowing from his head further blurred his vision.
+24477	-		一回転して転倒を避け、	He spun once to avoid falling, but his knees buckled
+24478	+		再び踏み込もうとするパットンだが、一瞬膝が笑う。	for a moment as he tried to charge again. Blood
+24479	+		更に頭からの流血が、視界を塞いだ。	flowing from his head further blurred his vision.
 
 24480	LeMay	基本	「バラバラに、砕いてッ…………！」	「I'll tear you to pieces......！」
 
@@ -453,9 +453,9 @@
 24518	Patton Helman		「いや、ちょいと目眩がな。	「Nah, just a little dizzy.
 24519	+		　……まあ、大丈夫だ。鍛え方が足りんかな」	　......I'm fine. Maybe I didn't train enough.」
 
-24520	Hunty Kalar		「あんだけ暴れといて、	「After rampaging that much,
-24521	+		　それで済むのはあんたくらいさ。	　only you could get away with just that.
-24522	+		　もう、タフさだけならトーマといい勝負だ」	　In terms of toughness alone, you're almost on par with Thoma.」
+24520	Hunty Kalar		「あんだけ暴れといて、	「After rampaging that much, only you could
+24521	+		　それで済むのはあんたくらいさ。	　get away with just that. In terms of toughness
+24522	+		　もう、タフさだけならトーマといい勝負だ」	　alone, you're almost on par with Thoma.」
 
 24523	Patton Helman	笑い	「へ、そいつは嬉しいな」	「Heh, I'll take that as a compliment.」
 

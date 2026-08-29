@@ -21,9 +21,9 @@
 
 203833	Tokugawa Tone		「んむぅ……畳……いい……」	「Nmuu... Tatami... nice...」
 
-203834	-		あなた達は広い部屋に通される。	You were led to a spacious room.
-203835	+		外の緑豊かな景色が臨める窓は、広く取られ、	The windows offered a wide view of the lush green scenery outside,
-203836	+		開けると優しく風が吹き込んでくる。	and a gentle breeze came in when opened.
+203834	-		あなた達は広い部屋に通される。	You were led to a spacious room. The windows
+203835	+		外の緑豊かな景色が臨める窓は、広く取られ、	offered a wide view of the lush green scenery
+203836	+		開けると優しく風が吹き込んでくる。	outside, and a gentle breeze came in when opened.
 
 203837	-		畳の爽やかな香りが気持ちのいい部屋だった。	It was a pleasant room with the fresh scent of tatami.
 
@@ -115,8 +115,8 @@
 203886	Zance Leazas		「ちょっと黙ってろ！」	「Shut up for a bit!」
 
 203887	-		ザンスはピンポン玉とラケットを持ったまま	Zance, still holding the ping-pong ball and paddle,
-203888	+		壁に向かってブツブツと言い出し、	started muttering toward the wall,
-203889	+		乱義は部屋に置かれていた卓球の本を読み出した。	while Rangi started reading a ping-pong book left in the room.
+203888	+		壁に向かってブツブツと言い出し、	started muttering toward the wall, while Rangi
+203889	+		乱義は部屋に置かれていた卓球の本を読み出した。	started reading a ping-pong book left in the room.
 
 203890	-		十分後――	Ten minutes later--
 
@@ -170,9 +170,9 @@
 
 203919	Mix Tou	呆れ	「…………」	「............」
 
-203920	-		ごうんごうんごうん。	Whirr whirr whirr.
-203921	+		ミックスはマッサージ椅子に	Mix was getting her back
-203922	+		背中をゴリゴリされながら、その風景を眺めていた。	vigorously massaged in the massage chair while watching the scene.
+203920	-		ごうんごうんごうん。	Whirr whirr whirr. Mix was getting
+203921	+		ミックスはマッサージ椅子に	her back vigorously massaged in the
+203922	+		背中をゴリゴリされながら、その風景を眺めていた。	massage chair while watching the scene.
 
 203923	Mix Tou		「平和ねぇ……」	「So peaceful...」
 

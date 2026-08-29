@@ -22,13 +22,13 @@
 
 64625	Rance	驚き	「げっ……」	「Geh...」
 
-64626	Patricia Bacon	怒り	「やっぱりよく分からない物を使っちゃ	「I told you we shouldn't rely on things we don't fully understand.
-64627	+		　ダメだったのよ。	
-64628	+		　いくら便利でもね、もしもの時に困るでしょう？」	　No matter how convenient, it causes problems in emergencies, right?」
+64626	Patricia Bacon	怒り	「やっぱりよく分からない物を使っちゃ	「I told you we shouldn't rely on things we don't
+64627	+		　ダメだったのよ。	　fully understand. No matter how convenient,
+64628	+		　いくら便利でもね、もしもの時に困るでしょう？」	　it causes problems in emergencies, right?」
 
-64629	Patricia Bacon	基本	「アイスでも、できるだけうしバスじゃなくて	「Even in Ice, we're trying to walk instead of using cow buses
-64630	+		　歩きましょうって流れになってるのよ。	　as much as possible.
-64631	+		　何よりも健康に配慮すべきですものねえ」	　Health comes first, after all.」
+64629	Patricia Bacon	基本	「アイスでも、できるだけうしバスじゃなくて	「Even in Ice, we're trying to walk
+64630	+		　歩きましょうって流れになってるのよ。	　instead of using cow buses as much as
+64631	+		　何よりも健康に配慮すべきですものねえ」	　possible. Health comes first, after all.」
 
 64632	-		最後にはよく分からない主旨に話を発展させながら	Patricia wandered off while steering the conversation
 64633	+		パトリシアは離れていった。	into something vague.
@@ -92,9 +92,9 @@
 
 64670	Rance		「で、直せるのか？」	「So, can you fix it?」
 
-64671	Miracle Tor		「そうだな。	「Well.
-64672	+		　見たところ、発信の都度、異界は開かれている。	　From what I see, a gate opens every time something is sent.
-64673	+		　異常があるなら異界の中でのことだろう」	　If there's an abnormality, it's probably inside the otherworld.」
+64671	Miracle Tor		「そうだな。	「Well. From what I see, a gate opens every time
+64672	+		　見たところ、発信の都度、異界は開かれている。	　something is sent. If there's an abnormality,
+64673	+		　異常があるなら異界の中でのことだろう」	　it's probably inside the otherworld.」
 
 64674	Rance		「てことは……中に入って直すのか。入れるか？」	「So... we have to go inside and fix it. Can we enter?」
 
@@ -107,7 +107,7 @@
 64679	+		　偉大なる貴様の主君に感謝するのだぞ。	　Be grateful to your great lord.
 64680	+		　では――――」	　Now then――――」
 
-64681	-		無造作に、ミラクルはコンピュータの付近で	Casually, Miracle waved her hand near the computer.
-64682	+		手をかざす。	
+64681	-		無造作に、ミラクルはコンピュータの付近で	Casually, Miracle waved her
+64682	+		手をかざす。	hand near the computer.
 
 64683	Miracle Tor	基本	「…………ゲートコネクト！」	「............Gate Connect!」

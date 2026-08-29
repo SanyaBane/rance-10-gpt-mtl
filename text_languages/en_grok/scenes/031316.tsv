@@ -11,17 +11,17 @@
 
 66288	-		――自由都市地帯壊滅まで、あと何日か。	――Only a few days left until the Free Cities are destroyed.
 
-66289	-		戦況を知る者達にそう囁かれるようになってから、	It has been quite a while since people who knew the war situation began whispering that.
-66290	+		既に久しい。	
+66289	-		戦況を知る者達にそう囁かれるようになってから、	It has been quite a while since people who
+66290	+		既に久しい。	knew the war situation began whispering that.
 
 66291	-		雷光の魔人、レイ。	The lightning Fiend, Lei.
 
 66292	-		叡智の魔人、パイアール。	The wisdom Fiend, Pi-R.
 
-66293	-		魔人討伐隊によって、この方面の魔人二体を	Although the Fiend Extermination Squad defeated these two Fiends in this region,
-66294	+		撃破はしたものの、魔物大将軍ピサロ率いる、	the Monster Army led by Great Monster General Pizarro
-66295	+		魔軍	was still overwhelmingly powerful.
-66296	?		は、強大であった。	
+66293	-		魔人討伐隊によって、この方面の魔人二体を	Although the Fiend Extermination Squad
+66294	+		撃破はしたものの、魔物大将軍ピサロ率いる、	defeated these two Fiends in this region, the
+66295	+		魔軍	Monster Army led by Great Monster General
+66296	?		は、強大であった。	Pizarro was still overwhelmingly powerful.
 
 66297	-		既にMランドは本拠地ではなく最前線となっており、	M Land was no longer the rear base but the front line,
 66298	+		後背のポルトガル、そしてJAPANへの道を必死に塞ぎ続けていた。	desperately blocking the path to Portugal and JAPAN behind it.
@@ -37,15 +37,15 @@
 66304	+		　南……本命のポルトガル防衛で、	　but the defense of the south... the main target Portugal,
 66305	+		　戦力が限界なようでしてな……」	　seems to be at its limit...」
 
-66306	Eleanor Ran	基本	「ちょっ……ちょっと待って下さい。	「W-wait a moment please.
-66307	+		　こちらも、疲労や兵器の整備で、限界です！	　We're also at our limit with fatigue and weapon maintenance!
-66308	+		　すぐには動けません」	　We can't move immediately.」
+66306	Eleanor Ran	基本	「ちょっ……ちょっと待って下さい。	「W-wait a moment please. We're
+66307	+		　こちらも、疲労や兵器の整備で、限界です！	　also at our limit with fatigue and weapon
+66308	+		　すぐには動けません」	　maintenance! We can't move immediately.」
 
 66309	Papademas Shirusven		「むむ……しかし、少しくらい……」	「Hmm... but just a little...」
 
-66310	Eleanor Ran	つらい	「すみませんが……不可能です。	「I'm sorry but... it's impossible.
-66311	+		　カスタムの砲兵隊は、元々が兵士ではなく	　The Custom artillery unit consists of engineers, not soldiers,
-66312	+		　技術者なんです」	　so they don't have the stamina.」
+66310	Eleanor Ran	つらい	「すみませんが……不可能です。	「I'm sorry but... it's impossible. The Custom
+66311	+		　カスタムの砲兵隊は、元々が兵士ではなく	　artillery unit consists of engineers, not
+66312	+		　技術者なんです」	　soldiers, so they don't have the stamina.」
 
 66313	Eleanor Ran	警戒	「数が少ないですし、根本的に体力が足りません。	「There are few of them, and fundamentally they lack stamina.
 66314	+		　兵器も、整備なしに動かせるものではないんです」	　The weapons can't be operated without maintenance.」
@@ -116,8 +116,8 @@
 66354	-		しかし、魔人討伐隊が魔人レイに続き、	However, after the Fiend Extermination Squad defeated Lei,
 66355	+		パイアールの脅威を取り除いた事で状況は好転した。	and removed Pi-R's threat, the situation improved.
 
-66356	-		魔軍の前線基地のひとつであった闘神都市を攻めると見せかけ、	They feinted an attack on the Toushin city, one of the Monster Army's forward bases,
-66357	+		その背後に位置するパランチョ王国を少数精鋭で強襲。	then launched a surprise attack with a small elite force on the Parancho Kingdom behind it.
+66356	-		魔軍の前線基地のひとつであった闘神都市を攻めると見せかけ、	They feinted an attack on the Toushin city, one of the Monster Army's forward bases, then
+66357	+		その背後に位置するパランチョ王国を少数精鋭で強襲。	launched a surprise attack with a small elite force on the Parancho Kingdom behind it.
 
 66358	-		パランチョ王を中心とした特別部隊も参加してこれを陥落させ、	With the special unit led by the King of Parancho participating, they captured it,
 66359	+		すぐさま堅固な拠点としての役割を取り戻した。	and immediately restored it as a solid stronghold.
@@ -210,9 +210,9 @@
 66417	Copandon Dott		「まさにそのタイミングですわ。	「This is exactly the right timing.
 66418	+		　そろそろなんでっしゃろ、朝倉はん？」	　It's about time, isn't it, Asakura-san?」
 
-66419	Asakura Yoshikage		「ええ。JAPANより、決戦に向けた大規模な援軍が	「Yes. Large-scale reinforcements from JAPAN
-66420	+		　そろそろ到着する頃合いです。	　for the decisive battle should arrive soon.
-66421	+		　決戦であれば、その時が好機」	　If we're going for the decisive battle, that will be the best opportunity.」
+66419	Asakura Yoshikage		「ええ。JAPANより、決戦に向けた大規模な援軍が	「Yes. Large-scale reinforcements from JAPAN for the
+66420	+		　そろそろ到着する頃合いです。	　decisive battle should arrive soon. If we're going for
+66421	+		　決戦であれば、その時が好機」	　the decisive battle, that will be the best opportunity.」
 
 66422	Patricia Bacon		「あらそうなの？　JAPANの人たちも大変ねぇ。	「Oh really? The people from JAPAN must be busy too.
 66423	+		　迎えの準備しないと。好きな食べ物、何かしら？」	　We need to prepare to welcome them. What food do they like?」

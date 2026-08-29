@@ -24,8 +24,8 @@
 80891	-		ほんのりと甘いお茶で喉を潤し、	Moistening her throat with the faintly sweet tea,
 80892	+		香姫がそっと息を吐く。	Kou gently exhaled.
 
-80893	Oda Kouhime	武装	「こんなにリラックスしたの……	「It's been so long since I felt this relaxed...」
-80894	+		　いつ以来だったでしょう……」	
+80893	Oda Kouhime	武装	「こんなにリラックスしたの……	「It's been so long since
+80894	+		　いつ以来だったでしょう……」	　I felt this relaxed...」
 
 80895	-		とっとと茶を飲み干したランスが	Rance quickly finished his tea
 80896	+		湯飲みをカツンとテーブルに置く。	and placed the cup on the table with a clink.
@@ -49,9 +49,9 @@
 
 80908	Oda Kouhime	武装	「くすっ……」	「Kusu...」
 
-80909	-		普段なら気を抜いてはいけないと諫めるところだが、	Normally she would caution against letting one's guard down,
-80910	+		今回ばかりは楽観的なランスの態度に	but this time, seeing Rance's optimistic attitude,
-80911	+		香姫も心を穏やかにすることが出来た。	Kou too was able to calm her heart.
+80909	-		普段なら気を抜いてはいけないと諫めるところだが、	Normally she would caution against letting one's
+80910	+		今回ばかりは楽観的なランスの態度に	guard down, but this time, seeing Rance's optimistic
+80911	+		香姫も心を穏やかにすることが出来た。	attitude, Kou too was able to calm her heart.
 
 80912	-		明確に見えてきた希望に、	With hope clearly visible,
 80913	+		皆の顔色に温かみが戻り始めていた。	warmth began to return to everyone's faces.
@@ -70,9 +70,9 @@
 
 80921	-		……	......
 
-80922	-		慌ててランス達を読んだメガワスが皆に見せたもの、	What Megass showed everyone after hurriedly calling Rance and the others
-80923	+		それはコールドスリープ装置に	was the time displayed on the cold sleep device.
-80924	+		表示された時間だった。	
+80922	-		慌ててランス達を読んだメガワスが皆に見せたもの、	What Megass showed everyone after
+80923	+		それはコールドスリープ装置に	hurriedly calling Rance and the others was
+80924	+		表示された時間だった。	the time displayed on the cold sleep device.
 
 80925	-		解放までの残り時間――	Remaining time until release――
 
@@ -152,9 +152,9 @@
 80970	Arlcoate Marius	弱気	「申し訳ありません……	「I'm very sorry...
 80971	+		　守り切れず……」	　we couldn't hold it...」
 
-80972	Arlcoate Marius		「私達もJAPANから脱出。	「We also escaped from JAPAN.
-80973	+		　総統達を追ってここまで……	　We chased after the Supreme Leader and the others to here...
-80974	+		　数百人はいた兵も今はこれだけしか……」	　Out of the hundreds of soldiers we had, only this many remain...」
+80972	Arlcoate Marius		「私達もJAPANから脱出。	「We also escaped from JAPAN. We chased after the
+80973	+		　総統達を追ってここまで……	　Supreme Leader and the others to here... Out of the
+80974	+		　数百人はいた兵も今はこれだけしか……」	　hundreds of soldiers we had, only this many remain...」
 
 80975	Oda Kouhime	武装／真剣	「いえ……	「No...
 80976	+		　今まで、よく保たせて下さいました……」	　you held on well until now...」
@@ -165,17 +165,17 @@
 
 80980	Rance	真剣	「ふむ……そか」	「Hmm... I see.」
 
-80981	Rance		「ところで、ウルザちゃんとクリームちゃんは	「By the way, where are Urza-chan and Cream-chan?」
-80982	+		　どこにいった？」	
+80981	Rance		「ところで、ウルザちゃんとクリームちゃんは	「By the way, where are
+80982	+		　どこにいった？」	　Urza-chan and Cream-chan?」
 
 80983	Arlcoate Marius	弱気	「……………………」	「........................」
 
 80984	Arlcoate Marius	基本	「お二人は途中、強襲してきた魔軍との戦闘で、	「The two of them... during a surprise attack by the Monster Army on the way,
 80985	+		　……亡くなりました」	　...lost their lives.」
 
-80986	-		これまで何があったのか、	Whatever had happened until now,
-80987	+		アールコートの瞳は今までの周りの顔色を窺う、	the timid look of gauging others' expressions in Arlcoate's eyes
-80988	+		弱気な色は消え去っていた。	had completely vanished.
+80986	-		これまで何があったのか、	Whatever had happened until now, the
+80987	+		アールコートの瞳は今までの周りの顔色を窺う、	timid look of gauging others' expressions
+80988	+		弱気な色は消え去っていた。	in Arlcoate's eyes had completely vanished.
 
 80989	Rance	真剣	「…………」	「............」
 
@@ -260,8 +260,8 @@
 
 81037	Sill Plain~	真剣	（ランス様……手を……）	（Rance-sama... his hand...）
 
-81038	-		世界が雪で覆われたと錯覚しそうな強い吹雪。	A blizzard so strong it made them think the world was covered in snow.
-81039	+		黒と白の世界にランス達は出た。	Rance and the others stepped into a world of black and white.
+81038	-		世界が雪で覆われたと錯覚しそうな強い吹雪。	A blizzard so strong it made them think the world was covered in
+81039	+		黒と白の世界にランス達は出た。	snow. Rance and the others stepped into a world of black and white.
 
 81040	Rance		「…………」	「............」
 

@@ -82,9 +82,9 @@
 
 233813	Lei	基本	「どうもこうもない、だ？」	「No way around it, you say?」
 
-233814	-		男は前髪で表情こそ確認できないが、	The man’s expression couldn't be seen due to his bangs,
-233815	+		その下で鋭く女性を睨みつけているであろうことは	but it was easy to imagine he was glaring sharply at the woman
-233816	+		想像に難くない、ドスの利いた声を上げた。	with a low, threatening voice.
+233814	-		男は前髪で表情こそ確認できないが、	The man’s expression couldn't be seen due to his
+233815	+		その下で鋭く女性を睨みつけているであろうことは	bangs, but it was easy to imagine he was glaring
+233816	+		想像に難くない、ドスの利いた声を上げた。	sharply at the woman with a low, threatening voice.
 
 233817	Lei		「俺のパートナーじゃ、	「My partner
 233818	+		　パートナーとしての資格を有してないってのか」	　doesn't qualify as a partner?」
@@ -146,8 +146,8 @@
 
 233851	Lei	基本	「おっと」	「Oops.」
 
-233852	-		受付で怒鳴っていた男と	You bumped into the man who was yelling at the reception.
-233853	+		あなたはぶつかってしまった。	
+233852	-		受付で怒鳴っていた男と	You bumped into the man who
+233853	+		あなたはぶつかってしまった。	was yelling at the reception.
 
 > male
 233854	Lei		「悪かったな、坊主」	「Sorry about that, kid.」
@@ -178,8 +178,8 @@
 233867	-		全員が揃ったあなた達に対し、	Facing your fully assembled group,
 233868	+		シュリは晴れ晴れとした笑顔を向けた。	Shuri gave a bright smile.
 
-233869	Shuri Seihajuu Nagasaki	基本	「私は当コロシアムの受付嬢兼その他諸々、	「I am the receptionist and various other roles at this coliseum,
-233870	+		　シュリ・セイハジュウ・ナガサキ。	　Shuri Seihajuu Nagasaki.
+233869	Shuri Seihajuu Nagasaki	基本	「私は当コロシアムの受付嬢兼その他諸々、	「I am the receptionist and various other roles
+233870	+		　シュリ・セイハジュウ・ナガサキ。	　at this coliseum, Shuri Seihajuu Nagasaki.
 233871	+		　気軽にシュリさんって呼んで下さいね」	　Please feel free to call me Shuri-san.」
 
 233872	Shuri Seihajuu Nagasaki		「闘神大会とは、闘神都市で毎年行われる	「The Toushin Tournament is an annual warrior tournament
@@ -195,9 +195,9 @@
 233879	+		シュリは手慣れた手つきで	Shuri spread out the paper in front of her
 233880	+		手元の紙を広げて説明を始めた。	with practiced movements and began explaining.
 
-233881	-		【闘神大会の出場資格】	[Eligibility for the Toushin Tournament]
-233882	+		　１：LV30以上、またはある程度戦闘力があること	　1: LV30 or higher, or possess a certain level of combat ability
-233883	+		　２：美しい女性のパートナーがいること	　2: Have a beautiful female partner
+233881	-		【闘神大会の出場資格】	[Eligibility for the Toushin Tournament] 1: LV30
+233882	+		　１：LV30以上、またはある程度戦闘力があること	or higher, or possess a certain level of combat
+233883	+		　２：美しい女性のパートナーがいること	ability 2: Have a beautiful female partner
 
 233884	Shuri Seihajuu Nagasaki	基本	「この条件を満たしてない方は	「Those who do not meet these conditions
 233885	+		　なにがあろうと参加して頂くことは出来ません。	　cannot participate no matter what.
@@ -214,9 +214,9 @@
 233893	+		　１：相手のパートナーを24時間自由に出来る権利	　1: Right to freely use the opponent's partner for 24 hours
 233894	+		　２：賞金一万GOLDと宝物	　2: Prize money 10,000 GOLD and treasure
 
-233895	-		【優勝したときの褒賞】	[Rewards for Winning the Tournament]
-233896	+		　１：将軍の地位	　1: Status of General
-233897	+		　２：闘神の館でパートナーと共に生涯の生活の保証	　2: Lifetime guaranteed living in the Toushin Mansion with partner
+233895	-		【優勝したときの褒賞】	[Rewards for Winning the Tournament] 1:
+233896	+		　１：将軍の地位	Status of General 2: Lifetime guaranteed
+233897	+		　２：闘神の館でパートナーと共に生涯の生活の保証	living in the Toushin Mansion with partner
 
 233898	-		　３：GOLDカード	　3: GOLD Card
 233899	+		　４：賞金百万GOLDと宝物	　4: Prize money 1,000,000 GOLD and treasure
@@ -230,9 +230,9 @@
 233905	+		　　　または戦闘不能に陥るか、	　　　becomes unable to fight,
 233906	+		　　　降伏したときに決定される	　　　or surrenders.
 
-233907	Shuri Seihajuu Nagasaki		「これ以外にも、	「There are also other rules,
-233908	+		　参加者同士の私闘は厳禁など諸々ありますが、	　such as private fights between participants being strictly prohibited,
-233909	+		　ざっと説明しますとこんなところですね」	　but that's the general overview.」
+233907	Shuri Seihajuu Nagasaki		「これ以外にも、	「There are also other rules, such as private
+233908	+		　参加者同士の私闘は厳禁など諸々ありますが、	　fights between participants being strictly
+233909	+		　ざっと説明しますとこんなところですね」	　prohibited, but that's the general overview.」
 
 233910	Shuri Seihajuu Nagasaki		「ここまでで何か質問はありますか？」	「Any questions so far?」
 
@@ -277,8 +277,8 @@
 233936	+		　観客に見られるわけじゃないのでご安心を。	　are not seen by the audience so please be assured.
 233937	+		　まあ、相手が強要しなければですがね」	　Well, as long as the other party doesn't force it.」
 
-233938	Reset Kalar		「そ、そんな大会になってるなんて	「I didn't know it had become that kind of tournament...」
-233939	+		　知らなかった……」	
+233938	Reset Kalar		「そ、そんな大会になってるなんて	「I didn't know it had become
+233939	+		　知らなかった……」	　that kind of tournament...」
 
 233940	Reset Kalar		「パートナーが美しい女性に限られてるのは、	「The reason partners are limited to beautiful women
 233941	+		　そういう点からですか……」	　is because of that...」

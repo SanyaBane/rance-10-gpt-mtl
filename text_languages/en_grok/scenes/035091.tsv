@@ -1,13 +1,13 @@
 # 35091	t２４０／戦闘／リターン発動	
 
 261199	?		戦闘中の割り込みイベント　リターンデーモン	Interrupt event during battle: Return Demon.
-261200	+		対応に失敗してリターンで飛ばされる	Failed to respond properly and got teleported back by Return.
+261200	+		対応に失敗してリターンで飛ばされる	Failed to respond properly and got teleported
 261201	+		　	 
-261202	+		リターンが発動した。うわっ・・	Return was activated. Whoa...
-261203	+		気が付くと迷宮の入り口。おのれー　いかって突っ込む	When I noticed, I was back at the labyrinth's entrance. Damn it-angrily charging in.
-261204	+		またリターンデーモンと戦闘	Battle again with the Return Demon.
-261205	+		再度、リターン	Return activated again.
-261206	+		迷宮の入り口	The labyrinth entrance.
-261207	+		がっくり、やる気を失ったランス、なんか今回はやるきなくなった帰る	Rance, feeling dejected and losing motivation, somehow loses will this time and goes home.
-261208	+		とランス城に戻っていった	And returned to Rance Castle.
-261209	+		＞このままクエストアウト　失敗になります	> Quest out as is - this will be a failure.
+261202	+		リターンが発動した。うわっ・・	back by Return. Return was activated. Whoa...
+261203	+		気が付くと迷宮の入り口。おのれー　いかって突っ込む	When I noticed, I was back at the labyrinth's
+261204	+		またリターンデーモンと戦闘	entrance. Damn it-angrily charging in. Battle again
+261205	+		再度、リターン	with the Return Demon. Return activated again.
+261206	+		迷宮の入り口	The labyrinth entrance. Rance, feeling dejected
+261207	+		がっくり、やる気を失ったランス、なんか今回はやるきなくなった帰る	and losing motivation, somehow loses will this
+261208	+		とランス城に戻っていった	time and goes home. And returned to Rance
+261209	+		＞このままクエストアウト　失敗になります	Castle. > Quest out as is - this will be a failure.

@@ -89,8 +89,8 @@
 
 79882	Rance~	だる顔	（ぐっ、こいつ……！）	（Guh, this guy...!）
 
-79883	-		ランスが顔を苦々しく歪める。	Rance grimaced bitterly.
-79884	+		直接剣を打ち合うことで、誰よりも強く、	By clashing swords directly, he felt more strongly than anyone
+79883	-		ランスが顔を苦々しく歪める。	Rance grimaced bitterly. By clashing swords
+79884	+		直接剣を打ち合うことで、誰よりも強く、	directly, he felt more strongly than anyone
 79885	+		互いの実力差を読み取っていた。	the overwhelming difference in their abilities.
 
 79886	Chaos~	基本	（駄目だな……	（No good...
@@ -288,9 +288,9 @@
 
 80004	Rance	真剣	「ん、ああ……」	「Mm, yeah...」
 
-80005	-		たった数分の戦いだったが、	It was only a few minutes of battle,
-80006	+		一騎当千の魔人討伐隊の皆は満身創痍で、	yet the peerless Fiend Extermination Squad members were all covered in wounds,
-80007	+		地面に腰を下ろしていた。	and sat down on the ground.
+80005	-		たった数分の戦いだったが、	It was only a few minutes of battle, yet the
+80006	+		一騎当千の魔人討伐隊の皆は満身創痍で、	peerless Fiend Extermination Squad members were
+80007	+		地面に腰を下ろしていた。	all covered in wounds, and sat down on the ground.
 
 80008	Rance		「一ヶ月もせずに来るだと？」	「He's coming in less than a month?」
 
@@ -312,9 +312,9 @@
 
 80018	-		だが、それは希望的な進展には繋がらない。	However, it did not lead to any hopeful progress.
 
-80019	-		魔王美樹の対処も、魔軍との戦争も、	Dealing with Demon King Miki, the war with the Monster Army,
-80020	+		そしてアリオス・テオマンに対する	and countermeasures against Arios Theoman――
-80021	+		対策など何一つ立てられないまま――	none of them could be prepared,
+80019	-		魔王美樹の対処も、魔軍との戦争も、	Dealing with Demon King Miki, the war with the
+80020	+		そしてアリオス・テオマンに対する	Monster Army, and countermeasures against Arios
+80021	+		対策など何一つ立てられないまま――	Theoman―― none of them could be prepared,
 
 80022	-		ただ、時間だけが無為に過ぎた。	and only time passed in vain.
 
@@ -351,5 +351,5 @@
 
 80041	-		男は、何も言わず抜刀した。	The man drew his sword without saying a word.
 
-80042	-		これから死に行く者と会話する言葉を、	He had no words to exchange with those who were about to die.
-80043	+		彼は持ち合わせていなかった。	
+80042	-		これから死に行く者と会話する言葉を、	He had no words to exchange
+80043	+		彼は持ち合わせていなかった。	with those who were about to die.

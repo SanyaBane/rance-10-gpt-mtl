@@ -77,8 +77,8 @@
 
 11759	Sill Plain	ぽか〜ん	「え、ええと…………」	「U-Um......」
 
-11760	-		マルチナはシィルの姿を、	Martina looked Sill up and down carefully.
-11761	+		上から下までしげしげと眺めた。	
+11760	-		マルチナはシィルの姿を、	Martina looked Sill up
+11761	+		上から下までしげしげと眺めた。	and down carefully.
 
 11762	Martina Curry	基本	「……料理自体は、それなりにしてるわよね？」	「......You can cook to some extent, right?」
 
@@ -112,9 +112,9 @@
 11779	+		　私のような外食の料理は、エンターテイメント。	　What I make is entertainment.
 11780	+		　贅沢をして、その瞬間楽しめるかの一発勝負」	　Luxury for that one moment of enjoyment.」
 
-11781	Martina Curry		「一方、家庭料理は違うわ。	「Home cooking is different.
-11782	+		　毎日食べても飽きず、栄養や体調に配慮し、	　It has to be something you don't get tired of eating every day,
-11783	+		　家庭の生活に沿って毎日作らなきゃならない」	with proper nutrition and health in mind.」
+11781	Martina Curry		「一方、家庭料理は違うわ。	「Home cooking is different. It has to be
+11782	+		　毎日食べても飽きず、栄養や体調に配慮し、	　something you don't get tired of eating every
+11783	+		　家庭の生活に沿って毎日作らなきゃならない」	　day, with proper nutrition and health in mind.」
 
 11784	Martina Curry		「言ってみれば短距離走の専門家に	「It's like asking a short-distance sprint specialist
 11785	+		　同じく走るからって長距離のコツを伝授させろって	to teach you long-distance running techniques
@@ -135,9 +135,9 @@
 
 11795	Sill Plain	ぽか〜ん	「へ？」	「Eh?」
 
-11796	Martina Curry	基本	「厳しい道だけど楽しいわよ。	「It's a tough path, but it's fun.
-11797	+		　どんな嫌な奴だって美味しい物を食べた時は	　No matter how nasty someone is, once they eat something delicious
-11798	+		　屈服するしかないの」	they have no choice but to surrender.」
+11796	Martina Curry	基本	「厳しい道だけど楽しいわよ。	「It's a tough path, but it's fun. No matter
+11797	+		　どんな嫌な奴だって美味しい物を食べた時は	　how nasty someone is, once they eat something
+11798	+		　屈服するしかないの」	　delicious they have no choice but to surrender.」
 
 11799	Martina Curry		「純粋な勝ちと負けしかない世界。	「A world of pure victory and defeat.
 11800	+		　上下関係も何もかも無視して……	　Ignoring status and everything else......

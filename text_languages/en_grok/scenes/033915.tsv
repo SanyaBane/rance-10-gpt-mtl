@@ -1,9 +1,9 @@
 # 33915	t２２０／戦闘／バボラ戦１	
 
-253917	?		戦闘中の割り込みイベント　	Interrupt event during battle
-253918	+		この戦闘においては、毎ターン　バボラを混乱させておく必要があります	In this battle, you need to keep Babolat confused every turn.
-253919	+		混乱してないと、正気に戻り、冷静に対処を考えてしまうため、３回正気だとそれで負けます	If not confused, Babolat regains composure and thinks calmly about countermeasures; if it is sane three times, you lose.
+253917	?		戦闘中の割り込みイベント　	Interrupt event during battle In this battle, you need to
+253918	+		この戦闘においては、毎ターン　バボラを混乱させておく必要があります	keep Babolat confused every turn. If not confused, Babolat
+253919	+		混乱してないと、正気に戻り、冷静に対処を考えてしまうため、３回正気だとそれで負けます	regains composure and thinks calmly about countermeasures;
 253920	+		　	
-253921	+		バボラ、皿をもったまま何か考えている	Babolat is thinking about something while holding the plate.
-253922	+		あれ・・なんで食べ物か殴ってくるのだ、痛いよ、これ	Huh... why is it hitting the food? This hurts.
-253923	+		何か考えている	It's thinking about something.
+253921	+		バボラ、皿をもったまま何か考えている	if it is sane three times, you lose. Babolat is thinking
+253922	+		あれ・・なんで食べ物か殴ってくるのだ、痛いよ、これ	about something while holding the plate. Huh... why is it
+253923	+		何か考えている	hitting the food? This hurts. It's thinking about something.

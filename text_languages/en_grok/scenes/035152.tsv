@@ -1,28 +1,28 @@
 # 35152	t２４０／５／セシル面談	
 
-261806	?		セシルの面談です	It is a meeting with Cecil.
-261807	+		条件により２パターンあります	There are two patterns depending on the conditions.
-261808	+		if (確認("セシルルート")==1)\tセシルのエロを見ている／[２４０／５／セシル]発生済み	if (check("CecilRoute") == 1) You have seen Cecil's erotic scene / [240/5/Cecil] event completed
-261809	+		if (確認("セシルルート")==0)\tセシルのエロを見ていない	if (check("CecilRoute") == 0) You have not seen Cecil's erotic scene
+261806	?		セシルの面談です	It is a meeting with Cecil. There are two patterns depending
+261807	+		条件により２パターンあります	on the conditions. if (check("CecilRoute") == 1) You have
+261808	+		if (確認("セシルルート")==1)\tセシルのエロを見ている／[２４０／５／セシル]発生済み	seen Cecil's erotic scene / [240/5/Cecil] event completed
+261809	+		if (確認("セシルルート")==0)\tセシルのエロを見ていない	if (check("CecilRoute") == 0) You have not seen Cecil's
 261810	+		　	
-261811	+		エロを見ている場合	If you have seen the erotic scene
-261812	+		前回私が疑われていた時、ランス総統は信じてくれたはずだが、まだ疑っているのですか	When I was suspected last time, Supreme Leader Rance was supposed to believe me, but are you still doubting?
-261813	+		うむ・・あれから誘っても応じてくれない・・・ぶつぶつ	Hmm... Since then, even when I invite her, she won't accept... grumble grumble
-261814	+		あの時は、そのすまん・・ちょっとやさしさが足りなかった、なんかうれしくてつい調子に乗ったのだ	Back then, sorry... I wasn't gentle enough, I was just so happy that I got carried away.
-261815	+		リベンジさせてくれ、今度はロマンチックに気持ちよくさせてやる。	Let me have my revenge; this time I'll make it romantic and pleasurable for you.
-261816	+		けっこうです。	That's fine.
-261817	+		あっ、そんな事を言うと・・　君が魔軍と通じているぞーなんて決めちゃうぞ	Ah, if you say that... I might decide that you are colluding with the Monster Army.
-261818	+		お好きにどうぞ。	Do as you like.
-261819	+		・・・ま、違うのは分かっているけどな。はぁ・・	...Well, I know it's different, but still. Sigh...
+261811	+		エロを見ている場合	erotic scene If you have seen the erotic scene When I was
+261812	+		前回私が疑われていた時、ランス総統は信じてくれたはずだが、まだ疑っているのですか	suspected last time, Supreme Leader Rance was supposed to
+261813	+		うむ・・あれから誘っても応じてくれない・・・ぶつぶつ	believe me, but are you still doubting? Hmm... Since then,
+261814	+		あの時は、そのすまん・・ちょっとやさしさが足りなかった、なんかうれしくてつい調子に乗ったのだ	even when I invite her, she won't accept... grumble grumble
+261815	+		リベンジさせてくれ、今度はロマンチックに気持ちよくさせてやる。	Back then, sorry... I wasn't gentle enough, I was just so
+261816	+		けっこうです。	happy that I got carried away. Let me have my revenge; this
+261817	+		あっ、そんな事を言うと・・　君が魔軍と通じているぞーなんて決めちゃうぞ	time I'll make it romantic and pleasurable for you. That's
+261818	+		お好きにどうぞ。	fine. Ah, if you say that... I might decide that you are
+261819	+		・・・ま、違うのは分かっているけどな。はぁ・・	colluding with the Monster Army. Do as you like. ...Well, I
 261820	+		　	 
-261821	+		エロを見ていない場合	If you haven't seen the erotic scenes,
-261822	+		やはり私が疑われているのですね・・・なんかどんよりしている。	It seems I'm still being suspected... It's kind of gloomy.
-261823	+		疑われている事、アリオスの事、ともに解決していない状態です	Being suspected, the matter with Arios, both remain unresolved.
-261824	+		アリオスとはどんな関係なんだ・	What kind of relationship do you have with Arios?
-261825	+		それは・・・	That is...
-261826	+		魔人レイの元から脱出したのは、その　あっ、わかった、君みたいな美人だから	I escaped from Fiend Lei because, um, ah, I got it-it's because you're a beautiful woman like him.
-261827	+		言えません	I can't say.
-261828	+		・・・・うーん	...Hmm.
-261829	+		明日の戦いはこの命を自由都市地域を守る為にさざけるつもりです。それで真実を証明したい	Tomorrow's battle, I intend to risk this life to protect the Free Cities region. That way, I want to prove the truth.
-261830	+		うむむ、セシルちゃんはうまく落とせるはずだったのだが、なんかタイミングを逸してしまったな。	Hmm, I should have been able to win over Cecil-chan smoothly, but somehow I missed the timing.
+261821	+		エロを見ていない場合	know it's different, but still. Sigh... If you haven't seen the
+261822	+		やはり私が疑われているのですね・・・なんかどんよりしている。	erotic scenes, It seems I'm still being suspected... It's kind
+261823	+		疑われている事、アリオスの事、ともに解決していない状態です	of gloomy. Being suspected, the matter with Arios, both
+261824	+		アリオスとはどんな関係なんだ・	remain unresolved. What kind of relationship do you have
+261825	+		それは・・・	with Arios? That is... I escaped from Fiend Lei because, um,
+261826	+		魔人レイの元から脱出したのは、その　あっ、わかった、君みたいな美人だから	ah, I got it-it's because you're a beautiful woman like him.
+261827	+		言えません	I can't say. ...Hmm. Tomorrow's battle, I intend to risk this
+261828	+		・・・・うーん	life to protect the Free Cities region. That way, I want to
+261829	+		明日の戦いはこの命を自由都市地域を守る為にさざけるつもりです。それで真実を証明したい	prove the truth. Hmm, I should have been able to win over
+261830	+		うむむ、セシルちゃんはうまく落とせるはずだったのだが、なんかタイミングを逸してしまったな。	Cecil-chan smoothly, but somehow I missed the timing.
 261831	+		ま、それでもこの子が内通者とはとても思えない	Well, even so, I can't possibly think this girl is a traitor.

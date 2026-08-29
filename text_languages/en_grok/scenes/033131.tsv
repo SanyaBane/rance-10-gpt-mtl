@@ -11,8 +11,8 @@
 206008	-		ダークランスは笑いながら自販機から	Dark Rance laughed as he bought drinks from the vending machine
 206009	+		飲み物を買うと二本持って近づいてきた。	and approached you holding two bottles.
 
-206010	Dark Rance		「爆爆茶とレモン谷村どっち飲む？」	「Explosive Tea or Lemon Tanimura, which one do you want?」
-206011	+	安心	「ほいっ。	「Here.
+206010	Dark Rance		「爆爆茶とレモン谷村どっち飲む？」	「Explosive Tea or Lemon Tanimura,
+206011	+	安心	「ほいっ。	　which one do you want?」 「Here.
 206012	+		　明日に引きずるなよ？」	　Don't drag it into tomorrow, okay?」
 
 206013	-		あなたは放り投げられた爆爆茶を受け取る。	You catch the Explosive Tea he tossed over.
@@ -60,9 +60,9 @@
 206039	-		なんとなく、	Somehow,
 206040	+		まったりとした時間が流れる。	a relaxed time flowed gently.
 
-206041	Dark Rance	基本	「そういえば、＜エール＞。	「By the way, ＜エール＞.
-206042	+		　遂に明日が決戦だが、心の準備は出来てるか？」	　Tomorrow is finally the decisive battle. Are you mentally prepared?」
-206043	+	安心	「ふふ、そうか？」	「Fufu, is that so?」
+206041	Dark Rance	基本	「そういえば、＜エール＞。	「By the way, ＜エール＞. Tomorrow
+206042	+		　遂に明日が決戦だが、心の準備は出来てるか？」	　is finally the decisive battle. Are you
+206043	+	安心	「ふふ、そうか？」	　mentally prepared?」 「Fufu, is that so?」
 
 206044	Dark Rance		「お、頼もしいじゃないか」	「Oh, how reliable.」
 
@@ -87,9 +87,9 @@
 206057	Dark Rance		「一人で突っ走りすぎちまうし、	「I tend to charge ahead alone,
 206058	+		　人に任せるってのが苦手でな……」	　and I'm bad at leaving things to others......」
 
-206059	Dark Rance		「魔王の子の中には王の器が三人いる。	「Among the Demon King's children, there are three with the makings of a king.
-206060	+		　乱義とザンス、それとリセット。	　Rangi, Zance, and Reset.
-206061	+		　それぞれタイプは違うがな」	　Each with a different style though.」
+206059	Dark Rance		「魔王の子の中には王の器が三人いる。	「Among the Demon King's children, there are
+206060	+		　乱義とザンス、それとリセット。	　three with the makings of a king. Rangi, Zance,
+206061	+		　それぞれタイプは違うがな」	　and Reset. Each with a different style though.」
 
 206062	Dark Rance	安心	「で、俺はあいつらみたいに王の器じゃないんだ。	「So I'm not like them with the makings of a king.
 206063	+		　昔、真似事はしたがね」	　I tried imitating them once though.」

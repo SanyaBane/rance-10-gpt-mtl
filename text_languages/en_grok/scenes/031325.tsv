@@ -157,9 +157,9 @@
 
 67010	Maria Custard	基本	「そんな事無いわよ。あったことだけ」	「I didn't. I just told him what happened.」
 
-67011	Rance	笑顔	「ふーん……ま、そうだな。	「Hmm... Yeah, that makes sense.
-67012	+		　俺様の偉業を知れば、恐れをなすのは当然だな。	　Anyone who learns of my great deeds would naturally be in awe.
-67013	+		　がははははは」	　Gahahahaha.」
+67011	Rance	笑顔	「ふーん……ま、そうだな。	「Hmm... Yeah, that makes sense. Anyone
+67012	+		　俺様の偉業を知れば、恐れをなすのは当然だな。	　who learns of my great deeds would
+67013	+		　がははははは」	　naturally be in awe. Gahahahaha.」
 
 67014	Maria Custard	基本	「ま……悪い所は、もう充分知ってたしね……	「Well... He already knew plenty about the bad parts...
 67015	+		　知らない所を知れば、	　So learning about the parts he didn't know
@@ -183,8 +183,8 @@
 
 67027	Rance	基本	「あいつならまさか……いや、いくらなんでも……」	「No way that guy would... but still, even so...」
 
-67028	-		ダークランスは、しばらく思案げにその場を	Dark Rance paced around the spot for a while, deep in thought.
-67029	+		ぐるぐる回る。	
+67028	-		ダークランスは、しばらく思案げにその場を	Dark Rance paced around the
+67029	+		ぐるぐる回る。	spot for a while, deep in thought.
 
 67030	Rance		「…………ちょっと、様子見てみるか……	「............Maybe I should go check on them...
 67031	+		　かっこわりーけど、かーちゃんのためだ」	　It's lame but... it's for Mom.」

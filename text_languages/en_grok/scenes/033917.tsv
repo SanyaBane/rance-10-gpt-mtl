@@ -1,10 +1,10 @@
 # 33917	t２２０／戦闘／バボラ戦３	
 
-253934	?		戦闘中の割り込みイベント　	Interrupt event during battle
-253935	+		この戦闘においては、毎ターン　バボラを混乱させておく必要があります	In this battle, you need to keep Babolat confused every turn.
-253936	+		混乱してないと、正気に戻り、冷静に対処を考えてしまうため、３回正気だとそれで負けます	If not confused, Babolat regains composure and thinks calmly about countermeasures; if it is sane three times, you lose.
+253934	?		戦闘中の割り込みイベント　	Interrupt event during battle In this battle, you
+253935	+		この戦闘においては、毎ターン　バボラを混乱させておく必要があります	need to keep Babolat confused every turn. If not
+253936	+		混乱してないと、正気に戻り、冷静に対処を考えてしまうため、３回正気だとそれで負けます	confused, Babolat regains composure and thinks
 253937	+		　	
-253938	+		バボラ考える・・・ぴこーん閃いた	Babolat is thinking... ding! It's had an idea.
-253939	+		おお、そうか	Oh, I see.
-253940	+		皿をひっくり返した、ランス達、あれーーーと落ちる	It flipped the plate over; Rance and the others go 'whah-' and fall.
-253941	+		ｇａｍｅｏｖｅｒ	Game Over
+253938	+		バボラ考える・・・ぴこーん閃いた	calmly about countermeasures; if it is sane three
+253939	+		おお、そうか	times, you lose. Babolat is thinking... ding! It's had
+253940	+		皿をひっくり返した、ランス達、あれーーーと落ちる	an idea. Oh, I see. It flipped the plate over; Rance
+253941	+		ｇａｍｅｏｖｅｒ	and the others go 'whah-' and fall. Game Over

@@ -18,16 +18,16 @@
 
 18542	Katyusha Bosch		「……………………」	「............」
 
-18543	-		裏市の経営。逃散した街や村の実効支配。	Managing black markets. Effectively controlling abandoned towns and villages.
-18544	+		兵士の脱走の手配や物資の横流し等、	Arranging desertions for soldiers and embezzling supplies,
-18545	+		裏取引の数々……	among countless other illicit deals...
+18543	-		裏市の経営。逃散した街や村の実効支配。	Managing black markets. Effectively controlling abandoned
+18544	+		兵士の脱走の手配や物資の横流し等、	towns and villages. Arranging desertions for soldiers and
+18545	+		裏取引の数々……	embezzling supplies, among countless other illicit deals...
 
 18546	-		そうした、巨額の利潤を生むはずの、大戦争。	A great war that should have generated massive profits.
 18547	+		そのせっかくの市場が、ほとんど活かせていない。	Yet that precious market was barely being utilized.
 
-18548	-		原因はひとえに、会長カチューシャの不在。	The reason was solely due to Chairperson Katyusha Bosch's absence.
-18549	+		そして……デラックスブックによって、	And... because of the Deluxe Book,
-18550	+		人類軍総統ランスの介入を断れないせいだった。	they couldn't refuse the interference of Humanity's Army Supreme Leader, Rance.
+18548	-		原因はひとえに、会長カチューシャの不在。	The reason was solely due to Chairperson Katyusha Bosch's
+18549	+		そして……デラックスブックによって、	absence. And... because of the Deluxe Book, they couldn't refuse
+18550	+		人類軍総統ランスの介入を断れないせいだった。	the interference of Humanity's Army Supreme Leader, Rance.
 
 18551	Katyusha Bosch		「そろそろ……反逆者が出始めてるんじゃないの？	「Isn't it about time... for rebels to start appearing?
 18552	+		　不甲斐ない会長だー、って」	　Calling me a pathetic chairperson.」
@@ -38,9 +38,9 @@
 
 18556	Katyusha Bosch		「ふん……根性のない」	「Hmph... Spineless cowards.」
 
-18557	Desert Guide		「互いに迂闊に信用もできない……どころか、	「They can't even trust each other carelessly... in fact,
-18558	+		　同僚が誰かさえ、ハッキリと分からない……	　they don't even know clearly who their colleagues are...
-18559	+		　DXの会をそこまでにしたのは貴女でしょうに」	　But you were the one who made the DX Foundation that way.」
+18557	Desert Guide		「互いに迂闊に信用もできない……どころか、	「They can't even trust each other carelessly... in fact, they
+18558	+		　同僚が誰かさえ、ハッキリと分からない……	　don't even know clearly who their colleagues are... But
+18559	+		　DXの会をそこまでにしたのは貴女でしょうに」	　you were the one who made the DX Foundation that way.」
 
 18560	Desert Guide		「大半の下部会員は貴女の事もほとんど知らない……	「Most lower-level members barely even know of you...
 18561	+		　知ってる奴も、ほとんどは捕まった事を疑うか、	　Even those who do either doubt you were captured,
@@ -90,9 +90,9 @@
 18588	+		　わざわざ口にするという事は、	　Though the fact that you went out of your way to say it
 18589	+		　確定情報は得ていないみたいだけど」	　suggests you haven't obtained definitive proof.」
 
-18590	Katyusha Bosch		「確信付きの当て推量……かしら。	「A confident guess... perhaps.
-18591	+		　断片からでも相手の事が分からなければ、	　If you can't understand your opponent even from fragments of info,
-18592	+		　こんな稼業はできないものよ」	　you won't last long in this business.」
+18590	Katyusha Bosch		「確信付きの当て推量……かしら。	「A confident guess... perhaps. If you can't
+18591	+		　断片からでも相手の事が分からなければ、	　understand your opponent even from fragments
+18592	+		　こんな稼業はできないものよ」	　of info, you won't last long in this business.」
 
 18593	Freya Idun		「……なるほど。	「...I see.
 18594	+		　ベッドの上で前会長を暗殺した、	　So it wasn't just luck that let you assassinate
@@ -110,9 +110,9 @@
 18602	+		　違法な手段で動けないなら、	　If you can't operate through illegal means,
 18603	+		　合法な路線に一時切り替える、ということ」	　you can temporarily switch to a legal route.」
 
-18604	Freya Idun		「私たちも、情報収集や破壊工作……	「We have plenty of work in intelligence gathering and sabotage...
-18605	+		　その手の仕事が多い。	　that sort of thing.
-18606	+		　そちらのメンバーなら、それもできるでしょう」	　I'm sure your members would be capable of it.」
+18604	Freya Idun		「私たちも、情報収集や破壊工作……	「We have plenty of work in intelligence
+18605	+		　その手の仕事が多い。	　gathering and sabotage... that sort of thing. I'm
+18606	+		　そちらのメンバーなら、それもできるでしょう」	　sure your members would be capable of it.」
 
 18607	Katyusha Bosch		「………………」	「............」
 
@@ -151,9 +151,9 @@
 18627	Cream Ganoblade		「形の上でも入り込めれば、	「If we could have gotten in, even just formally,
 18628	+		　少しずつ使いやすくできたと思うのですが……」	　I thought we could have gradually made them more manageable...」
 
-18629	Cream Ganoblade		「非常時に乗じて、内部を健全化。	「Taking advantage of the emergency to clean up the organization.
-18630	+		　最終的には非合法な派閥と切り分けて、	　Ultimately separating the illegal factions
-18631	+		　無害化する……」	　and rendering them harmless...」
+18629	Cream Ganoblade		「非常時に乗じて、内部を健全化。	「Taking advantage of the emergency to clean
+18630	+		　最終的には非合法な派閥と切り分けて、	　up the organization. Ultimately separating the
+18631	+		　無害化する……」	　illegal factions and rendering them harmless...」
 
 18632	Cream Ganoblade	ため息	「真田先生の策も、実行は難しいようですね……」	「It seems Master Sanada's plan will be difficult to execute...」
 
@@ -166,9 +166,9 @@
 18637	Cream Ganoblade		「総統？　いえ、少し立ち話を。	「Supreme Leader? No, we were just chatting.
 18638	+		　総統は…………」	　And you are............」
 
-18639	Rance	笑顔	「ちょいともよおしたから地下牢だ。	「I felt a bit of an urge, so I'm heading to the dungeon.
-18640	+		　今日はむちむちのカチューシャの気分なのだ。	　I'm in the mood for that curvaceous Katyusha Bosch today.
-18641	+		　がはははは！」	　Gahahahaha!」
+18639	Rance	笑顔	「ちょいともよおしたから地下牢だ。	「I felt a bit of an urge, so I'm heading to the
+18640	+		　今日はむちむちのカチューシャの気分なのだ。	　dungeon. I'm in the mood for that curvaceous
+18641	+		　がはははは！」	　Katyusha Bosch today. Gahahahaha!」
 
 18642	-		ランスは高笑いをしながら、	Laughing loudly,
 18643	+		地下牢へと入っていった。	Rance entered the dungeon.

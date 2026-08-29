@@ -54,8 +54,8 @@
 173836	Rance		「あん？　なにがだ？」	「Hm? What?」
 
 173837	Chaos		「儂にまで隠し事するな。	「Don't hide things even from me.
-173838	+		　さっきは空元気でケイブリスを倒すと	　Earlier you were full of empty bravado saying you'd defeat Kayblis
-173839	+		　息巻いておったが……」	　but......」
+173838	+		　さっきは空元気でケイブリスを倒すと	　Earlier you were full of empty bravado
+173839	+		　息巻いておったが……」	　saying you'd defeat Kayblis but......」
 
 173840	Chaos		「……それがまだ無理なことは	「...You know deep down
 173841	+		　今のお前さんでも承知しとるだろ」	　it's still impossible right now.」
@@ -300,9 +300,9 @@
 
 173984	Miracle Tor		「大したことじゃない」	「It was nothing big.」
 
-173985	Miracle Tor	目閉じ	「なんとなぁくこちらに仲間がいる気がするなぁ、	「I had a feeling there were comrades here,
-173986	+		　と人間だけが感じるフェロモンを、	　so I kept releasing pheromones
-173987	+		　魔物界に来てからずっと魔法で放っていただけだ」	　that only humans can sense with magic since coming to the Monster Realm.」
+173985	Miracle Tor	目閉じ	「なんとなぁくこちらに仲間がいる気がするなぁ、	「I had a feeling there were comrades here, so I kept
+173986	+		　と人間だけが感じるフェロモンを、	　releasing pheromones that only humans can sense
+173987	+		　魔物界に来てからずっと魔法で放っていただけだ」	　with magic since coming to the Monster Realm.」
 
 173988	Miracle Tor		「サンセット号とはぐれてから	「After getting separated from the Sunset,
 173989	+		　即席で作った魔法だったが、	　I made the magic on the spot,
@@ -359,6 +359,6 @@
 
 174021	?		「オオッッッッ！」	「Oooohhhh!」
 
-174022	-		魔物界の奥底、	Deep in the Monster Realm,
-174023	+		魔物すら近づかぬ危険な山の地下水路に、	in the dangerous underground waterway of a mountain even monsters avoid,
-174024	+		人間界から来た戦士の声が轟いた。	the voices of warriors from the human world echoed.
+174022	-		魔物界の奥底、	Deep in the Monster Realm, in the dangerous underground
+174023	+		魔物すら近づかぬ危険な山の地下水路に、	waterway of a mountain even monsters avoid, the
+174024	+		人間界から来た戦士の声が轟いた。	voices of warriors from the human world echoed.

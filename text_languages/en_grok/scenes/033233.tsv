@@ -7,8 +7,8 @@
 * Nagi su Ragarl	ナギ２	Female
 * El Mofus	エール２	Player's choice
 
-215808	-		あなたはテントの中で	You slowly woke up inside the tent.
-215809	+		ゆっくりと目を覚ました。	
+215808	-		あなたはテントの中で	You slowly woke
+215809	+		ゆっくりと目を覚ました。	up inside the tent.
 
 215810	Nagata-kun	基本	「お、ようやく起きたか。	「Oh, you're finally awake.
 215811	+		　おはよーさん、＜エール＞」	　Good morning, ＜エール＞.」
@@ -152,9 +152,9 @@
 215898	Nagata-kun		「そ、そうだ、こんな時こそ、	「R, right, now's the time,
 215899	+		　あれだよ、あれ！」	　that thing!」
 
-215900	Nagata-kun		「＜エール＞の母ちゃんからの手紙を	「Let's read the letter from ＜エール＞'s mom!
-215901	+		　読んでみようぜ！	
-215902	+		　何か分かるかも知れないぞ！」	　Maybe it'll tell us something!」
+215900	Nagata-kun		「＜エール＞の母ちゃんからの手紙を	「Let's read the letter from
+215901	+		　読んでみようぜ！	　＜エール＞'s mom! Maybe
+215902	+		　何か分かるかも知れないぞ！」	　it'll tell us something!」
 
 215903	-		あなたは長田君に促され、	Urged by Nagata-kun,
 215904	+		母から送られた手紙を取り出した。	you took out the letter from your mother.
@@ -169,8 +169,8 @@
 
 215910	Nagata-kun		「それでは早速、評価を見てみましょう」	「Now, let's look at his evaluation right away.」
 
-215911	Nagata-kun		「評価点は三つ。	「There are three evaluation points.
-215912	+		　友好は仲良くなる難度、捕捉は捕まえやすさ、	　Friendship is difficulty to get close, Capture is ease of recruiting,
+215911	Nagata-kun		「評価点は三つ。	「There are three evaluation points. Friendship is
+215912	+		　友好は仲良くなる難度、捕捉は捕まえやすさ、	　difficulty to get close, Capture is ease of recruiting,
 215913	+		　命令はあなたの言うことを聞いてくれるかです」	　Command is how well he listens to you.」
 
 215914	-		リーザス赤の軍将軍、	Leazas Red Army General,

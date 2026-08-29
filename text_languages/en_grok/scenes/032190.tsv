@@ -45,8 +45,8 @@
 
 128188	Rance		「なんだ、クルックーから何も聞いてないのか」	「What, didn't Crook tell you anything?」
 
-128189	Sill Plain		「本当に簡単なことだけは	「She only gave me the very basics...」
-128190	+		　説明して頂きましたが……」	
+128189	Sill Plain		「本当に簡単なことだけは	「She only gave me
+128190	+		　説明して頂きましたが……」	　the very basics...」
 
 128191	Rance		「面倒だ、ビスケッタさんに聞け」	「Too much hassle. Ask Biscuitta.」
 
@@ -63,8 +63,8 @@
 
 128199	Sill Plain		「め、メイドさん……」	「A maid...」
 
-128200	Sill Plain		「ランス様、メイドさんを	「Rance-sama hired a maid...」
-128201	+		　お雇いになったんですね……」	
+128200	Sill Plain		「ランス様、メイドさんを	「Rance-sama
+128201	+		　お雇いになったんですね……」	　hired a maid...」
 
 128202	Rance		「あ？	「Huh?
 128203	+		　何を泣きそうな顔してんだ」	　Why do you look like you're about to cry?」
@@ -150,8 +150,8 @@
 
 128254	-		……	......
 
-128255	-		シィルは案内された部屋を、	Sill nervously looked around the room she was led to.
-128256	+		おどおどと見回した。	
+128255	-		シィルは案内された部屋を、	Sill nervously looked around
+128256	+		おどおどと見回した。	the room she was led to.
 
 128257	Sill Plain		「あ、あの……少しお部屋が立派すぎるような……」	「U-um... This room seems a bit too luxurious...」
 
@@ -187,8 +187,8 @@
 128278	+		　私はどうしていたら良いでしょう？	　What should I do now?
 128279	+		　そうだ、私も何かお仕事を……」	　That's right, I should do some work...」
 
-128280	Biscuitta Burns		「シィル様に仕事を	「I cannot have Sill-sama help with the work.」
-128281	+		　手伝って頂くわけには参りません」	
+128280	Biscuitta Burns		「シィル様に仕事を	「I cannot have Sill-sama
+128281	+		　手伝って頂くわけには参りません」	　help with the work.」
 
 128282	Sill Plain		「あ、あう……」	「A-auu...」
 
@@ -300,9 +300,9 @@
 
 128348	Rance		「とりあえず今日は隣の部屋で寝てろ」	「For today just sleep in the room next door.」
 
-128349	Rance		「ふふん、本来ならその辺の床でもいいが、	「Heh, normally the floor would be fine,
-128350	+		　せっかく氷から出てきた日だし特別大サービスだ。	　but since it's the day you got out of the ice, it's a special treat.
-128351	+		　感謝してむせび泣けよ」	　Be grateful and sob with joy.」
+128349	Rance		「ふふん、本来ならその辺の床でもいいが、	「Heh, normally the floor would be fine, but
+128350	+		　せっかく氷から出てきた日だし特別大サービスだ。	　since it's the day you got out of the ice, it's
+128351	+		　感謝してむせび泣けよ」	　a special treat. Be grateful and sob with joy.」
 
 128352	Sill Plain		「……はい」	「...Yes.」
 
@@ -338,16 +338,16 @@
 128370	Sill Plain~		（ランス様……もしかして……	（Rance-sama... could it be...
 128371	+		　もう、私のこと……）	　he's tired of me already...）
 
-128372	Rance		「お前は俺の奴隷だ。	「You are my slave.
-128373	+		　割と苦労して氷の中から出してやったんだからな。	　I went through quite a bit of trouble to pull you out of the ice.
-128374	+		　俺様にもっともっと忠誠を誓えよ」	　Swear even more loyalty to me.」
+128372	Rance		「お前は俺の奴隷だ。	「You are my slave. I went through quite
+128373	+		　割と苦労して氷の中から出してやったんだからな。	　a bit of trouble to pull you out of the
+128374	+		　俺様にもっともっと忠誠を誓えよ」	　ice. Swear even more loyalty to me.」
 
 128375	Rance		「ま、俺様は金持ちになったから、	「Well, I've become rich,
 128376	+		　この城にはメイドさんも沢山だ。	　so this castle has plenty of maids.
 128377	+		　すごいだろう」	　Pretty amazing, right?」
 
-128378	Rance		「だから、まあ、シィルがひーひー働かんでも	「So you don't have to work yourself to death anymore.」
-128379	+		　問題ないのだ」	
+128378	Rance		「だから、まあ、シィルがひーひー働かんでも	「So you don't have to work
+128379	+		　問題ないのだ」	　yourself to death anymore.」
 
 128380	Rance		「あー、だから、うむ、	「Ah, so yeah,
 128381	+		　しばらくはゆっくり過ごすことを許してやる」	　I'll allow you to take it easy for a while.」
@@ -502,9 +502,9 @@
 128473	+		　腹が減ったからたっぷり大盛りで持ってこい。	　I'm hungry so bring a huge portion.
 128474	+		　メニューにぴよぴよ焼き入れろよ」	　Add piyo-piyo grilled to the menu.」
 
-128475	Rance		「後、飲み物は緑茶だ。それも渋いのがいいぞ。	「Also green tea. Make it strong and bitter.
-128476	+		　虎屋のお茶だぞ、濃さも熱さも俺様好みにしろ。	　From Toraya. Match the strength and temperature to my taste.
-128477	+		　ほんの少しでも間違えたらお前にぶちまける」	　If it's even slightly off I'll dump it on you.」
+128475	Rance		「後、飲み物は緑茶だ。それも渋いのがいいぞ。	「Also green tea. Make it strong and bitter. From
+128476	+		　虎屋のお茶だぞ、濃さも熱さも俺様好みにしろ。	　Toraya. Match the strength and temperature to my
+128477	+		　ほんの少しでも間違えたらお前にぶちまける」	　taste. If it's even slightly off I'll dump it on you.」
 
 128478	Rance		「インテリな俺様は新聞も読むぞ。	「As an intellectual I read newspapers too.
 128479	+		　一社の新聞だけじゃない、四社くらい持ってこい。	　Not just one company, bring four.

@@ -10,9 +10,9 @@
 249632	-		それに耐えることが出来ずに、	Unable to endure it,
 249633	+		多くの魔物兵がケイブリスの居住区から離れた。	many monster soldiers left Kayblis's living quarters.
 
-249634	-		本人以外で平気なのは、ケイブニャンとケイブワン、	The only ones fine besides himself were Kaybnyan and Kaybwan,
-249635	+		気合いと忠誠心でひたすらに耐えるストロガノフ。	and Stroganoff who endured with sheer willpower and loyalty.
-249636	+		そして心がないと言い張るシャリエラだけである。	And Shariela, who claims to have no heart.
+249634	-		本人以外で平気なのは、ケイブニャンとケイブワン、	The only ones fine besides himself were Kaybnyan and
+249635	+		気合いと忠誠心でひたすらに耐えるストロガノフ。	Kaybwan, and Stroganoff who endured with sheer willpower
+249636	+		そして心がないと言い張るシャリエラだけである。	and loyalty. And Shariela, who claims to have no heart.
 
 249637	Kayblis	基本	「……どうなってやがる」	「...What the hell is going on」
 
@@ -32,8 +32,8 @@
 249645	Kayblis		「とことん生意気じゃねぇか、ええ？	「They're so fucking arrogant, huh?
 249646	+		　人間って奴ァよぉ……」	　These humans...」
 
-249647	Kayblis		「魔人は何人やられた？	「How many Fiends were taken down?
-249648	+		　弱い弱いと甘く見てりゃこのザマだ。	　This is what happens when you underestimate them as weak.
+249647	Kayblis		「魔人は何人やられた？	「How many Fiends were taken down? This is what
+249648	+		　弱い弱いと甘く見てりゃこのザマだ。	　happens when you underestimate them as weak.
 249649	+		　あの魔王だって見つかっちゃいねぇ」	　We haven't even found that Demon King yet.」
 
 249650	Stroganoff		「……確かに人間はよくやっています。	「...The humans are indeed fighting well.
@@ -91,8 +91,8 @@
 
 249685	Stroganoff		「ですが、それもここまで」	「But this is as far as it goes.」
 
-249686	Stroganoff		「過度な警戒は余計な手間や問題を	「Excessive caution may cause unnecessary trouble and problems.
-249687	+		　発生させる恐れすらありましょう。	
+249686	Stroganoff		「過度な警戒は余計な手間や問題を	「Excessive caution may cause
+249687	+		　発生させる恐れすらありましょう。	　unnecessary trouble and problems.
 249688	+		　どうぞご安心下さい、ケイブリス様」	　Please rest assured, Lord Kayblis.」
 
 249689	Kayblis		「けっ」	「Heh.」
@@ -143,9 +143,9 @@
 249718	-		ストロガノフは、	Stroganoff,
 249719	+		初めてケイブリスに対し異を唱えた。	for the first time voiced opposition to Kayblis.
 
-249720	Stroganoff		「確かに人間とは我らの敵。	「It is true that humans are our enemies.
-249721	+		　それを滅ぼさんとするケイブリス様のお気持ち、	　I fully understand your desire to destroy them, Lord Kayblis.」
-249722	+		　儂にも痛いほどよく分かります」	
+249720	Stroganoff		「確かに人間とは我らの敵。	「It is true that humans are
+249721	+		　それを滅ぼさんとするケイブリス様のお気持ち、	　our enemies. I fully understand your
+249722	+		　儂にも痛いほどよく分かります」	　desire to destroy them, Lord Kayblis.」
 
 249723	Stroganoff		「しかし、奴ら人間の使命の一つには、	「However, I believe one of the humans' roles
 249724	+		　我らの敵であることも入っていると儂は考えます」	　is to be our enemies.」

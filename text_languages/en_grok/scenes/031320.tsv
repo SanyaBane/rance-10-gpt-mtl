@@ -32,9 +32,9 @@
 
 66547	Rance	真剣	「ん？　なんだそれ」	「Hm? What do you mean?」
 
-66548	Asakura Yoshikage	基本	「居場所が一定しないのです。	「His location isn't fixed.
-66549	+		　どうやら、個人的な目的の為に自ら動いている	　It seems he often moves personally for his own purposes.」
-66550	+		　場合が多いようですな」	
+66548	Asakura Yoshikage	基本	「居場所が一定しないのです。	「His location isn't fixed. It
+66549	+		　どうやら、個人的な目的の為に自ら動いている	　seems he often moves personally
+66550	+		　場合が多いようですな」	　for his own purposes.」
 
 66551	Rance	だる顔	「個人的な目的だと？	「Personal purposes?
 66552	+		　大将がうろちょろしやがって……」	　The great general wandering around...」
@@ -49,9 +49,9 @@
 66557	Rance	だる顔	「なんだと？　そんなモンが好きなのか。	「What? He likes that stuff.
 66558	+		　女みたいな奴だな……」	　What a girly guy...」
 
-66559	Copandon Dott	ため息	「支配下の街だけやのうて、前線にまで	「Not just in the cities he controls, but even to the front lines
-66560	+		　そのために来たりしよんねん。	　he comes for that purpose.
-66561	+		　神出鬼没で、意図を読むのに時間掛かったわ」	　He's unpredictable, so it took time to figure out his intentions.」
+66559	Copandon Dott	ため息	「支配下の街だけやのうて、前線にまで	「Not just in the cities he controls, but even to the front
+66560	+		　そのために来たりしよんねん。	　lines he comes for that purpose. He's unpredictable,
+66561	+		　神出鬼没で、意図を読むのに時間掛かったわ」	　so it took time to figure out his intentions.」
 
 66562	Rance	基本	「ふーん……となると、簡単ではないか。	「Hmm... then it's simple.
 66563	+		　奴が欲しがりそうな、極上の財宝を用意して	　Prepare an ultimate treasure that he would crave
@@ -65,8 +65,8 @@
 66569	+		　というわけでコパンドン、財宝は任せた。	　So Copandon, I'm leaving the treasure to you.
 66570	+		　なんか良いエサを用意しろ」	　Prepare some good bait.」
 
-66571	Copandon Dott	ジト目	「あー……うち、金銀とかそのへんは	「Ah... I haven't really dealt with gold and silver much.」
-66572	+		　手ぇ出してないねん」	
+66571	Copandon Dott	ジト目	「あー……うち、金銀とかそのへんは	「Ah... I haven't really dealt
+66572	+		　手ぇ出してないねん」	　with gold and silver much.」
 
 66573	Rance	だる顔	「なんだと？　大金持ちの癖に」	「What? Even though you're rich」
 
@@ -85,13 +85,13 @@
 66582	Pespo Tontone	笑顔	「俺は元嫁への慰謝料と3人……4人だったか？	「I spent it all on alimony for my ex-wives and child support for three... four kids?
 66583	+		　ガキの養育費でスカンピンだ」	　I'm broke.」
 
-66584	Copandon Dott	ジト目	「てかペスポはん、けっこうな額の借金があるって	「By the way Pespo-san, I heard you have quite a lot of debt.」
-66585	+		　話だったような……」	
+66584	Copandon Dott	ジト目	「てかペスポはん、けっこうな額の借金があるって	「By the way Pespo-san, I heard
+66585	+		　話だったような……」	　you have quite a lot of debt.」
 
 66586	Eleanor Ran	つらい	「私は……無いです、そういうのは……」	「I... don't have anything like that...」
 
-66587	Masou Shizuka	呆れ	「ランはもうちょっと、	「Ran should raise her own salary a bit more...」
-66588	+		　自分の給料上げた方がいいと思うけど……」	
+66587	Masou Shizuka	呆れ	「ランはもうちょっと、	「Ran should raise her
+66588	+		　自分の給料上げた方がいいと思うけど……」	　own salary a bit more...」
 
 66589	Rance	真剣	「となると…………」	「Then............」
 
@@ -121,9 +121,9 @@
 66604	+		　こんな時ばっかり静かになりやがって、	　Quiet only at times like this,
 66605	+		　世界のためだぞ、こら！」	　this is for the world, damn it!」
 
-66606	Patricia Bacon	基本	「と、都市長が出さなきゃいけないって話では	「B-but there's no rule saying city lords must hand over their treasures!
-66607	+		　ないのではないかしら！？	
-66608	+		　Mランドにいる富豪から協力を募って……」	　We can ask the wealthy in M Land for cooperation...」
+66606	Patricia Bacon	基本	「と、都市長が出さなきゃいけないって話では	「B-but there's no rule saying city lords
+66607	+		　ないのではないかしら！？	　must hand over their treasures! We can ask
+66608	+		　Mランドにいる富豪から協力を募って……」	　the wealthy in M Land for cooperation...」
 
 66609	Rance	怒り	「そんな暇があるか」	「We don't have time for that.」
 
@@ -244,8 +244,8 @@
 66679	-		ランスとクルックーは、	Rance and Crook
 66680	+		二人でサンマ貝を鑑賞し始めた。	began admiring the Sanma shell together.
 
-66681	Patricia Bacon	怒り	「……あれ、息子が給食から	「...That? My son just brought it home from school lunch.」
-66682	+		　持ち帰ってきただけなんだけど」	
+66681	Patricia Bacon	怒り	「……あれ、息子が給食から	「...That? My son just brought
+66682	+		　持ち帰ってきただけなんだけど」	　it home from school lunch.」
 
 66683	Maria Custard	あかんわ	「ランス達にとってはお宝だろうけど……」	「It's treasure to Rance and the others but...」
 

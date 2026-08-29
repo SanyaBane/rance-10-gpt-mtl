@@ -33,9 +33,9 @@
 235290	Lelikov Helman	きゃはは！	「おっかえりー！　ご飯あるよ！	「Welcome back! Dinner's ready!
 235291	+		　＜エール＞とねーちゃんも食べる！？」	　＜エール＞ and big sis, you eating too!?」
 
-235292	-		レリコフとヒーローは食事を行い、	Lelikov Helman and Hero were eating,
-235293	+		志津香達は魔法ビジョンを見ていたらしい。	while Shizuka and the others seemed to be watching the magic vision.
-235294	+		ベッドではザンスが寝転んで雑誌を読んでいる。	Zance was lying on the bed reading a magazine.
+235292	-		レリコフとヒーローは食事を行い、	Lelikov Helman and Hero were eating, while Shizuka
+235293	+		志津香達は魔法ビジョンを見ていたらしい。	and the others seemed to be watching the magic
+235294	+		ベッドではザンスが寝転んで雑誌を読んでいる。	vision. Zance was lying on the bed reading a magazine.
 
 235295	-		同じ場所にいながら、	Even though they were in the same room,
 235296	+		皆が思い思いの過ごし方で夜を楽しんでいた。	everyone was enjoying the night in their own way.
@@ -144,9 +144,9 @@
 
 235359	Mouri Motonari	不満	「それでここはどこだ？」	「So where is this place?」
 
-235360	Slave Merchant	基本	「あ、いえ、ですから、	「Ah, well, as I've said many times already,
-235361	+		　もう何度も言ったように、	　this is the prison in Colosseum City.」
-235362	+		　闘神都市の刑務所の中でして」	
+235360	Slave Merchant	基本	「あ、いえ、ですから、	「Ah, well, as I've said many
+235361	+		　もう何度も言ったように、	　times already, this is the
+235362	+		　闘神都市の刑務所の中でして」	　prison in Colosseum City.」
 
 235363	Mouri Motonari		「なるほど……」	「I see...」
 
@@ -273,9 +273,9 @@
 235439	Shuri Seihajuu Nagasaki		「あまりのことに私もう見ていられなくて……	「It was so horrible I couldn't watch...
 235440	+		　観客も多くの方が目を背けていました」	　Many spectators turned their eyes away.」
 
-235441	Copandon Dott	ため息	「爽やかに終わった一試合目と	「A refreshing first match
-235442	+		　残虐ショーと化した二試合目、	　followed by a second match that turned into a brutal spectacle,
-235443	+		　どちらも闘神大会らしい試合ってところかな」	　both very fitting for the Toushin Tournament.」
+235441	Copandon Dott	ため息	「爽やかに終わった一試合目と	「A refreshing first match followed by a second
+235442	+		　残虐ショーと化した二試合目、	　match that turned into a brutal spectacle, both
+235443	+		　どちらも闘神大会らしい試合ってところかな」	　very fitting for the Toushin Tournament.」
 
 235444	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「アイヌ選手、茫然自失としていました。	「Ainu was left in a daze.
 235445	+		　あれはさすがにあんまりです……」	　That was really too much...」
@@ -283,15 +283,15 @@
 235446	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｂブロック一戦目、	「Block B first match,
 235447	+		　山本乱義ＶＳソフィア・グリンコフ」	　Yamamoto Rangi vs Sofia Grinkov.」
 
-235448	Shuri Seihajuu Nagasaki		「魔王の子にしてJAPAN国主である美形剣士と	「A handsome swordsman who is both a child of the Demon King and ruler of JAPAN
-235449	+		　金髪白肌のミステリアス美少女魔法使いの戦い」	　versus a mysterious blonde pale-skinned beautiful mage girl.」
+235448	Shuri Seihajuu Nagasaki		「魔王の子にしてJAPAN国主である美形剣士と	「A handsome swordsman who is both a child of the Demon King and ruler
+235449	+		　金髪白肌のミステリアス美少女魔法使いの戦い」	　of JAPAN versus a mysterious blonde pale-skinned beautiful mage girl.」
 
 235450	Shuri Seihajuu Nagasaki		「魔法使いと弓矢使いの戦いに、	「It was expected to be a long-range battle between a mage and archer,
 235451	+		　遠距離戦の対決になると思われましたが……」	　but...」
 
 235452	Shuri Seihajuu Nagasaki		「試合開始と共に乱義選手に一気に距離を詰められ、	「Right at the start Rangi closed the distance instantly,
-235453	+		　刀の刃を首に当てられたソフィア選手、降参。	　pressed his blade to Sofia's neck, and she surrendered.
-235454	+		　得意の氷雪魔法を唱える隙もありませんでした」	　She didn't even have time to cast her signature ice magic.」
+235453	+		　刀の刃を首に当てられたソフィア選手、降参。	　pressed his blade to Sofia's neck, and she surrendered. She
+235454	+		　得意の氷雪魔法を唱える隙もありませんでした」	　didn't even have time to cast her signature ice magic.」
 
 235455	Shuri Seihajuu Nagasaki	ダイジェスト／おめでとう	「乱義さんの華麗な戦いに、	「Rangi's brilliant performance
 235456	+		　コロシアムには黄色い歓声が響き渡りました」	　filled the colosseum with high-pitched cheers.」
@@ -339,16 +339,16 @@
 235484	Copandon Dott	強気	「二回戦はこの二人の対決が見られるわけや。	「So in round two we'll see these two fight.
 235485	+		　中々楽しみになるやないの」	　That's something to look forward to.」
 
-235486	Copandon Dott	笑い	「しかしさっきの試合といい、	「But with that last match,
-235487	+		　Ｂブロックは美男、美女が多くて	　Block B sure has a lot of handsome men and beautiful women.
-235488	+		　目に優しいな〜」	　Easy on the eyes~」
+235486	Copandon Dott	笑い	「しかしさっきの試合といい、	「But with that last match, Block B
+235487	+		　Ｂブロックは美男、美女が多くて	　sure has a lot of handsome men and
+235488	+		　目に優しいな〜」	　beautiful women. Easy on the eyes~」
 
 235489	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｃブロック一戦目、	「Block C first match,
 235490	+		　アレキサンダーＶＳ院外の翁」	　Alexander vs Hermit of the Outer Court.」
 
-235491	Shuri Seihajuu Nagasaki		「先の鬼畜王戦争において人類側の	「Alexander, the hero who fought at the center of humanity's side
-235492	+		　中心で戦った英雄、最強の格闘王、	　during the previous Beast King War,
-235493	+		　アレキサンダー選手の試合」	　the strongest fighting king.」
+235491	Shuri Seihajuu Nagasaki		「先の鬼畜王戦争において人類側の	「Alexander, the hero who fought at the
+235492	+		　中心で戦った英雄、最強の格闘王、	　center of humanity's side during the previous
+235493	+		　アレキサンダー選手の試合」	　Beast King War, the strongest fighting king.」
 
 235494	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「優勝候補の一人として、	「As one of the championship favorites,
 235495	+		　もちろん試合の注目度は高い一戦です」	　this match had high expectations.」
@@ -359,9 +359,9 @@
 
 235499	Copandon Dott	ジト目	「最っ低のエロ爺や……」	「The absolute worst perverted old man...」
 
-235500	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「色々とやっていたみたいですが……	「He tried all sorts of things, but...
-235501	+		　アレキサンダー選手には何一つ通じず、	　nothing worked on Alexander,
-235502	+		　あっさり首に手刀を食らい気絶」	　who casually knocked him out with a hand chop to the neck.」
+235500	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「色々とやっていたみたいですが……	「He tried all sorts of things, but... nothing
+235501	+		　アレキサンダー選手には何一つ通じず、	　worked on Alexander, who casually knocked
+235502	+		　あっさり首に手刀を食らい気絶」	　him out with a hand chop to the neck.」
 
 235503	Copandon Dott	ため息	「うーん、相手が女やったら	「Hmm, if the opponent had been a woman
 235504	+		　いいとこまで行けたかも。	　he might have gotten somewhere.
@@ -374,9 +374,9 @@
 235509	+		　それに対するは、なんとそれよりも巨体の	　faced an even larger opponent,
 235510	+		　自称古代兵器である桜花選手でした」	　the self-proclaimed ancient weapon Sakura.」
 
-235511	Shuri Seihajuu Nagasaki		「全身カラクリ仕掛けって感じの見た目で、	「She looked like a full-body mechanical contraption,
-235512	+		　我、目標、殲滅……我、人間、殲滅……	　repeating 'I, target, exterminate... I, human, exterminate...'
-235513	+		　としか言わない不気味な桜花選手」	　a creepy opponent.」
+235511	Shuri Seihajuu Nagasaki		「全身カラクリ仕掛けって感じの見た目で、	「She looked like a full-body mechanical
+235512	+		　我、目標、殲滅……我、人間、殲滅……	　contraption, repeating 'I, target, exterminate...
+235513	+		　としか言わない不気味な桜花選手」	　I, human, exterminate...' a creepy opponent.」
 
 235514	Copandon Dott	ジト目	「がっちょんがっちょん言うとるやん……	「She's clanking around...
 235515	+		　そもそもどうやって参加したん……」	　How did she even enter...?」
@@ -411,9 +411,9 @@
 235535	Shuri Seihajuu Nagasaki		「JAPANは北条家の宗主、天才陰陽師、	「Houjou Souun, head of the Houjou clan and genius onmyoji of JAPAN,
 235536	+		　北条早雲選手」	　entered the arena.」
 
-235537	Shuri Seihajuu Nagasaki		「対するは本気は出さないがポリシーの	「His opponent was Bilde of the Wind, the weakest of the Four Heavenly Kings
-235538	+		　四天王最弱の男、糸目で怪しいと評判、	　who claims he doesn't go all out as a matter of policy,
-235539	+		　風のビルデさんの試合です」	　famous for his narrow suspicious eyes.」
+235537	Shuri Seihajuu Nagasaki		「対するは本気は出さないがポリシーの	「His opponent was Bilde of the Wind, the weakest of the
+235538	+		　四天王最弱の男、糸目で怪しいと評判、	　Four Heavenly Kings who claims he doesn't go all out as a
+235539	+		　風のビルデさんの試合です」	　matter of policy, famous for his narrow suspicious eyes.」
 
 235540	Copandon Dott	基本	「ああ、四天王ならうちも知っとんで。	「Ah, I know the Four Heavenly Kings.
 235541	+		　確か去年の大会を盛り上げてくれた、	　They really livened up last year's tournament,
@@ -426,9 +426,9 @@
 235546	+		　試合開始直後、対戦相手である早雲選手の	　Right after the match started, Souun's onmyo attacks
 235547	+		　陰陽攻撃にビルデ選手、囲まれてしまいました」	　surrounded Bilde.」
 
-235548	Shuri Seihajuu Nagasaki		「自慢の四天王一の速さを見せることなく、	「Without even showing off his boasted greatest speed among the Four Heavenly Kings,
-235549	+		　あえなくビルデ選手はギブアップ。	　Bilde was forced to give up.
-235550	+		　これにはファンの皆さんも嘆いていました」	　His fans were greatly disappointed.」
+235548	Shuri Seihajuu Nagasaki		「自慢の四天王一の速さを見せることなく、	「Without even showing off his boasted greatest speed
+235549	+		　あえなくビルデ選手はギブアップ。	　among the Four Heavenly Kings, Bilde was forced
+235550	+		　これにはファンの皆さんも嘆いていました」	　to give up. His fans were greatly disappointed.」
 
 235551	Copandon Dott	基本	「ま、本人の談がほんまなら四天王最弱らしいし、	「Well, according to him he's the weakest of the Four Heavenly Kings,
 235552	+		　他の四天王の面々に期待しようやないの」	　so let's look forward to the others.」
@@ -455,9 +455,9 @@
 
 235566	Shuri Seihajuu Nagasaki	ダイジェスト	「コパンドンさん、何かご感想はありますか？」	「Copandon-san, any thoughts?」
 
-235567	Copandon Dott	基本	「優勝候補は沢山おるけど……	「There are many championship contenders, but...
-235568	+		　やっぱりその中でも魔王の子は頭一つか二つ	　the Demon King's children still stand a head or two above the rest.」
-235569	+		　抜けとるね」	
+235567	Copandon Dott	基本	「優勝候補は沢山おるけど……	「There are many championship contenders,
+235568	+		　やっぱりその中でも魔王の子は頭一つか二つ	　but... the Demon King's children still
+235569	+		　抜けとるね」	　stand a head or two above the rest.」
 
 235570	Copandon Dott		「下手すると魔王の子達だけの	「It might end up being their solo dominance,
 235571	+		　独壇場にもなりかねないんやけど……	　but...
@@ -471,8 +471,8 @@
 235576	+		　一つずつつぶさに見守っていきましょう」	　Let's watch each one carefully.」
 
 235577	Shuri Seihajuu Nagasaki	ダイジェスト	「この番組は、コロシアム南西の要塞、	「This program was brought to you by
-235578	+		　堅牢なるトップリゾートでお馴染み、	　the sturdy top resort in the southwest fortress of the colosseum,
-235579	+		　アルカトラズの提供でお送りしました」	　Alcatraz.」
+235578	+		　堅牢なるトップリゾートでお馴染み、	　the sturdy top resort in the southwest
+235579	+		　アルカトラズの提供でお送りしました」	　fortress of the colosseum, Alcatraz.」
 
 235580	-		…………	............
 

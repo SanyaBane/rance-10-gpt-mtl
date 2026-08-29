@@ -36,9 +36,9 @@
 
 119176	Leazas Royal Guard		「は、はいっ！　だだ、大丈夫です！」	「Y-Yes! I'm perfectly fine!」
 
-119177	-		人間風情が体を支えさせて疎ましい。	She thought a mere human supporting her body would be unpleasant,
-119178	+		そう思ってるに違いないと考え、	and quickly stood up in a panic.
-119179	+		少女は慌てて立ち上がった。	
+119177	-		人間風情が体を支えさせて疎ましい。	She thought a mere human supporting
+119178	+		そう思ってるに違いないと考え、	her body would be unpleasant,
+119179	+		少女は慌てて立ち上がった。	and quickly stood up in a panic.
 
 119180	Kesselring		「ん……」	「Nn...」
 
@@ -107,8 +107,8 @@
 
 119218	Rance		「ぐあー、また負けたー！？」	「Guaah, I lost again!?」
 
-119219	Kesselring		「君、そろそろ、駒の動かし方くらい	「You should learn how to move the pieces properly by now.」
-119220	+		　覚えたらどうかね？」	
+119219	Kesselring		「君、そろそろ、駒の動かし方くらい	「You should learn how to move
+119220	+		　覚えたらどうかね？」	　the pieces properly by now.」
 
 119221	Rance		「うるさい、もう一回だ、もう一回」	「Shut up, one more game, one more!」
 

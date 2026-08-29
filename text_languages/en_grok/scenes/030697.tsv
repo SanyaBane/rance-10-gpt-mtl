@@ -24,8 +24,8 @@
 
 26824	Rance	だる顔	「ふん、放っておけ」	「Hmph, ignore him.」
 
-26825	Urza Pranaice	感謝	「お初にお目に掛かります。	「It's a pleasure to meet you.
-26826	+		　こちらが地上の人類の代表、ランス総統です。	　This is Rance, Supreme Leader and representative of surface humanity.
+26825	Urza Pranaice	感謝	「お初にお目に掛かります。	「It's a pleasure to meet you. This is Rance, Supreme
+26826	+		　こちらが地上の人類の代表、ランス総統です。	　Leader and representative of surface humanity.
 26827	+		　私は交渉役を仰せつかりました、ウルザと申します」	　I am Urza, tasked with handling negotiations.」
 
 26828	King Mitsubishi	基本	「うむ。地上の様子はだいたい聞いておる。	「Indeed. I have heard the general situation on the surface.
@@ -38,16 +38,16 @@
 26832	King Mitsubishi	ため息	「ふぅむ……魔物がそこまで来ておるか。	「Hmm...... The monsters have reached that far.
 26833	+		　厄介な話よ」	　This is troublesome.」
 
-26834	Urza Pranaice	真剣	「ポピンズの方々とは、かつて聖魔戦争でも	「I have heard that the Poppins fought alongside us
-26835	+		　手を取り合った歴史があると伺っております。	　during the Holy-Demonic War.
-26836	+		　我々も、過去の先達に倣う時ではないかと」	　Perhaps it is time for us to follow in our predecessors' footsteps.」
+26834	Urza Pranaice	真剣	「ポピンズの方々とは、かつて聖魔戦争でも	「I have heard that the Poppins fought alongside
+26835	+		　手を取り合った歴史があると伺っております。	　us during the Holy-Demonic War. Perhaps it is time
+26836	+		　我々も、過去の先達に倣う時ではないかと」	　for us to follow in our predecessors' footsteps.」
 
 26837	Patton Helman	基本	「……なるほどね。	「......I see.
 26838	+		　もしかして、懐かしいか？」	　Feeling nostalgic?」
 
-26839	Toushin Sigma		「実はそれほどでも。	「Not really.
-26840	+		　ずっと父ちゃんやじっちゃんと研究三昧だったし、	　I was always doing research with dad and grandpa,
-26841	+		　あの頃は地上との行き来も普通だったし」	　and travel between surface and here was normal back then.」
+26839	Toushin Sigma		「実はそれほどでも。	「Not really. I was always doing research
+26840	+		　ずっと父ちゃんやじっちゃんと研究三昧だったし、	　with dad and grandpa, and travel between
+26841	+		　あの頃は地上との行き来も普通だったし」	　surface and here was normal back then.」
 
 26842	King Mitsubishi		「そこな巨人の方は……？」	「And this giant gentleman......?」
 
@@ -67,17 +67,17 @@
 26852	+		　ポピンズとしちゃ、	　It was apparently quite an unusual
 26853	+		　かなり妙な研究だったらしいし……」	　research even for Poppins......」
 
-26854	King Mitsubishi	ため息	「何を言われる。創意工夫の業がポピンズの価値。	「What are you saying? Creativity and ingenuity are the pride of Poppins.
-26855	+		　恨みもない先達に石を投げるほど、	　We are not so foolish as to throw stones at
-26856	+		　ポピンズは物覚えが良くはありませぬ」	　our predecessors who bore us no grudge.」
+26854	King Mitsubishi	ため息	「何を言われる。創意工夫の業がポピンズの価値。	「What are you saying? Creativity and ingenuity are
+26855	+		　恨みもない先達に石を投げるほど、	　the pride of Poppins. We are not so foolish as to throw
+26856	+		　ポピンズは物覚えが良くはありませぬ」	　stones at our predecessors who bore us no grudge.」
 
 26857	Toushin Sigma	基本	「そっか。…………へへ」	「I see. ......Hehe」
 
 26858	Kentou Kanami		「…………そんなことあったの？」	「............That really happened?」
 
-26859	Maria Custard		「……そういえばフリークさんの資料にあったかも。	「......Come to think of it, it might have been in Freak's documents.
-26860	+		　闘将とか闘神のボディの作成に、	　That Poppins master craftsmen helped with the creation
-26861	+		　ポピンズの名工がアイデアをくれたとか……」	　of the Tousho and Toushin bodies......」
+26859	Maria Custard		「……そういえばフリークさんの資料にあったかも。	「......Come to think of it, it might have been in Freak's
+26860	+		　闘将とか闘神のボディの作成に、	　documents. That Poppins master craftsmen helped with
+26861	+		　ポピンズの名工がアイデアをくれたとか……」	　the creation of the Tousho and Toushin bodies......」
 
 26862	Patton Helman		「……もしかして、知り合いだったりするか？」	「......Maybe you knew them?」
 
@@ -113,15 +113,15 @@
 
 26881	Maria Custard		「やらかし、って……」	「Did it......?」
 
-26882	King Mitsubishi	ため息	「我がアニャガス王国を公然と侮辱するような事を	「He publicly insulted our Anyagas Kingdom.
-26883	+		　言いおってな。	　Thanks to that, the people's feelings are at their worst.」
-26884	+		　おかげで、国民感情は最悪よ」	
+26882	King Mitsubishi	ため息	「我がアニャガス王国を公然と侮辱するような事を	「He publicly insulted our Anyagas
+26883	+		　言いおってな。	　Kingdom. Thanks to that, the
+26884	+		　おかげで、国民感情は最悪よ」	　people's feelings are at their worst.」
 
 26885	Copandon Dott	ジト目	「あちゃー……」	「Ouch......」
 
-26886	King Mitsubishi	基本	「それから、両国の仲はどんどん悪化した。	「After that, relations between our countries worsened rapidly.
-26887	+		　カラクリカップを取りやめてこそおらぬが、	　We haven't canceled the Karakuri Cup,
-26888	+		　競技も応援も敵意剥き出しだ」	　but the competition and cheering are full of hostility.」
+26886	King Mitsubishi	基本	「それから、両国の仲はどんどん悪化した。	「After that, relations between our countries worsened
+26887	+		　カラクリカップを取りやめてこそおらぬが、	　rapidly. We haven't canceled the Karakuri Cup, but
+26888	+		　競技も応援も敵意剥き出しだ」	　the competition and cheering are full of hostility.」
 
 26889	Urza Pranaice	真剣	「では、両王家の軋轢だけではなく……」	「So it's not just friction between the royal families......」
 

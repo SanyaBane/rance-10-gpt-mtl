@@ -43,8 +43,8 @@
 
 77805	Leazas Black Soldier		「ぐぎゃあっ！」	「Gugyaa!」
 
-77806	-		リーザス、ヘルマン、ゼス、自由都市、JAPAN、	Leazas, Helman, Zeth, Free Cities, JAPAN,
-77807	+		五つの国の即席の混合軍で固められた北登り口は、	the north climbing entrance fortified by an improvised mixed army of five countries
+77806	-		リーザス、ヘルマン、ゼス、自由都市、JAPAN、	Leazas, Helman, Zeth, Free Cities, JAPAN, the north climbing
+77807	+		五つの国の即席の混合軍で固められた北登り口は、	entrance fortified by an improvised mixed army of five countries
 77808	+		その数でもってしても魔軍を抑えきれない。	could not hold back the Monster Army despite their numbers.
 
 77809	Green Monster Soldier		「ぎゃあはははははは！」	「Gyaa hahahahaha!」
@@ -143,9 +143,9 @@
 77867	-		近くの壁に背を預けたサテラは	Satella leaning against the nearby wall
 77868	+		先ほどから苦い顔を崩さない。	kept a bitter expression on her face.
 
-77869	-		レッドアイが出るまでの間、	Until RedEye appeared,
-77870	+		何度も援軍として戦場と城を	Rance and the others went back and forth
-77871	+		往復し続けたランス達。	many times as reinforcements between the battlefield and the castle.
+77869	-		レッドアイが出るまでの間、	Until RedEye appeared, Rance and the others
+77870	+		何度も援軍として戦場と城を	went back and forth many times as reinforcements
+77871	+		往復し続けたランス達。	between the battlefield and the castle.
 
 77872	-		そして、果たしてレッドアイは現れ、	And finally RedEye appeared,
 77873	+		今は決戦前の最後の休憩だった。	and now was the final rest before the decisive battle.
@@ -239,9 +239,9 @@
 
 77928	Rance	だる顔	「こら！　変な勘違いするな！」	「Hey! Don't get the wrong idea!」
 
-77929	Rance	基本	「俺様はなにもしんがりする為に	「I'm not fighting RedEye to be the rear guard.
-77930	+		　レッドアイと戦うわけじゃないぞ。	
-77931	+		　今度こそ倒す為に戦うのだ」	　I'm fighting to defeat him this time.」
+77929	Rance	基本	「俺様はなにもしんがりする為に	「I'm not fighting RedEye to
+77930	+		　レッドアイと戦うわけじゃないぞ。	　be the rear guard. I'm fighting
+77931	+		　今度こそ倒す為に戦うのだ」	　to defeat him this time.」
 
 77932	Sill Plain		「ら、ランス様……」	「R-Rance-sama...」
 
@@ -272,9 +272,9 @@
 77947	-		レッドアイが戦場を走り抜ける。	RedEye ran across the battlefield.
 77948	+		それだけで大量の人間が吹き飛ばされる。	Just that sent large numbers of humans flying.
 
-77949	-		今回、レッドアイがとりついた生物、	This time, the creature RedEye possessed
-77950	+		それは世界に一体しかいない生物、	was Toppos, a creature unique in the world,
-77951	+		トッポス。	
+77949	-		今回、レッドアイがとりついた生物、	This time, the creature RedEye
+77950	+		それは世界に一体しかいない生物、	possessed was Toppos, a
+77951	+		トッポス。	creature unique in the world,
 
 77952	-		それは普段魔物の森を徘徊し、	which normally roams the monster forest
 77953	+		魔物を狩ることに一生を費やす謎の生き物。	and spends its life hunting monsters.

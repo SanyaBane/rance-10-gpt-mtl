@@ -83,15 +83,15 @@
 213127	-		急ぎがちな食事も落ち着いてきた頃、	Once the hurried meal had calmed down a bit,
 213128	+		不意に長田君が声をかけてきた。	Nagata-kun suddenly spoke up.
 
-213129	Nagata-kun		「前々から気になってたけど、	「I've been wondering for a while,
-213130	+		　なんで最初に仲間にすんのは、	　why is Reset the one we're supposed to recruit first?」
-213131	+		　リセットって決まってんの？」	
+213129	Nagata-kun		「前々から気になってたけど、	「I've been wondering
+213130	+		　なんで最初に仲間にすんのは、	　for a while, why is Reset the one
+213131	+		　リセットって決まってんの？」	　we're supposed to recruit first?」
 
 213132	El Mofus		「…………。」	「............」
 
-213133	-		あなたは鞄の中から、	You took out a letter from your bag
-213134	+		長田君に手紙を渡した。	and handed it to Nagata-kun.
-213135	+		それは旅立つ荷物の中に母が入れたものだった。	It was something your mother had put in your luggage before the journey.
+213133	-		あなたは鞄の中から、	You took out a letter from your bag and handed
+213134	+		長田君に手紙を渡した。	it to Nagata-kun. It was something your mother
+213135	+		それは旅立つ荷物の中に母が入れたものだった。	had put in your luggage before the journey.
 
 213136	Nagata-kun		「なにこれ……	「What's this...
 213137	+		　えーと、なになに……？」	　Um, let's see...」
@@ -100,16 +100,16 @@
 213139	+		　元気で暮らしていますか？	　Are you doing well?
 213140	+		　母です」	　It's Mom.」
 
-213141	Nagata-kun		「最初に仲間にする兄弟は、	「The first sibling you should recruit,
-213142	+		　何はなくともシャングリラにいる	　no matter what, is Reset Kalar who is in Shangri-La.」
-213143	+		　リセット・カラーがお勧めです」	
+213141	Nagata-kun		「最初に仲間にする兄弟は、	「The first sibling you should
+213142	+		　何はなくともシャングリラにいる	　recruit, no matter what, is Reset
+213143	+		　リセット・カラーがお勧めです」	　Kalar who is in Shangri-La.」
 
 213144	Nagata-kun		「彼女の仲間にしやすさなどを	「I visualized how easy she is to recruit and such
 213145	+		　分かりやすく可視化しました」	　in an easy-to-understand way.」
 
-213146	Nagata-kun		「評価点は三つ。	「There are three evaluation points.
-213147	+		　友好は仲良くなる難度、捕捉は捕まえやすさ、	　Friendliness is how hard it is to get close, Capture is how easy she is to catch,
-213148	+		　命令はあなたの言うことを聞いてくれるかです」	　Obedience is whether she'll listen to you.」
+213146	Nagata-kun		「評価点は三つ。	「There are three evaluation points. Friendliness is
+213147	+		　友好は仲良くなる難度、捕捉は捕まえやすさ、	　how hard it is to get close, Capture is how easy she is
+213148	+		　命令はあなたの言うことを聞いてくれるかです」	　to catch, Obedience is whether she'll listen to you.」
 
 213149	Nagata-kun		「では、見てみましょう」	「Now, let's take a look.」
 
@@ -145,12 +145,12 @@
 
 213170	-		長田君が手紙から顔を上げる。	Nagata-kun looked up from the letter.
 
-213171	Nagata-kun		「なるほどねぇ……	「I see...
-213172	+		　これがあるから最初に	　So that's why we're trying to recruit her first...」
-213173	+		　仲間にしようとしてたのか……」	
+213171	Nagata-kun		「なるほどねぇ……	「I see... So that's
+213172	+		　これがあるから最初に	　why we're trying to
+213173	+		　仲間にしようとしてたのか……」	　recruit her first...」
 
-213174	Nagata-kun		「って、どこにいるか	「But we don't even know where she is...」
-213175	+		　分からないんですけどぉ……」	
+213174	Nagata-kun		「って、どこにいるか	「But we don't even
+213175	+		　分からないんですけどぉ……」	　know where she is...」
 
 213176	Nagata-kun		「手紙によると簡単に見つかるっぽいのに……」	「The letter makes it sound easy to find her...」
 
@@ -202,8 +202,8 @@
 
 213203	Nagata-kun	基本	「おう！　おちび、聞いて驚け！」	「Yeah! Listen up, shorty, and be amazed!」
 
-213204	Nagata-kun		「なんと、俺達はあの魔王ランス退治の為、	「We are traveling the world to defeat that Demon King Rance!」
-213205	+		　世界中を旅しているのだ！」	
+213204	Nagata-kun		「なんと、俺達はあの魔王ランス退治の為、	「We are traveling the world to
+213205	+		　世界中を旅しているのだ！」	　defeat that Demon King Rance!」
 
 213206	Reset Kalar	名探偵	「……魔王ランスを？」	「...Demon King Rance?」
 
@@ -253,9 +253,9 @@
 213233	+		　それなら他のみんなも、	　Then the others will probably
 213234	+		　きっと仲間になってくれるよ」	　join you too.」
 
-213235	Nagata-kun	基本	「……だったらいいんだけどよぉ。	「...That'd be nice, but
-213236	+		　現状じゃ、リセット・カラーすら	　right now we can't even find Reset Kalar.」
-213237	+		　見つからないってのが本当のとこでなぁ」	
+213235	Nagata-kun	基本	「……だったらいいんだけどよぉ。	「...That'd be nice,
+213236	+		　現状じゃ、リセット・カラーすら	　but right now we can't
+213237	+		　見つからないってのが本当のとこでなぁ」	　even find Reset Kalar.」
 
 213238	Reset Kalar	名探偵	「くすっ……	「Hehe...
 213239	+		　そんなことないよ？」	　That's not true, you know?」
@@ -266,8 +266,8 @@
 213242	Reset Kalar		「今、こうして一人、	「Right now, one Demon King's child
 213243	+		　仲間になろうって魔王の子が……」	　who wants to join you is right here...」
 
-213244	Nagata-kun	基本	「しっかし、リセット・カラーって	「Still, I wonder what kind of person Reset Kalar is.」
-213245	+		　いったいどんな人なんだろうなぁ」	
+213244	Nagata-kun	基本	「しっかし、リセット・カラーって	「Still, I wonder what kind
+213245	+		　いったいどんな人なんだろうなぁ」	　of person Reset Kalar is.」
 
 213246	-		　	　
 213247	+		　　＜ぴたっ＞	　　<Pat>
@@ -364,8 +364,8 @@
 213302	-		ローブの少女は、顔を赤くしたまま、	The robed girl, still blushing,
 213303	+		何故か自分の胸を押さえた。	pressed her hands against her own chest.
 
-213304	Nagata-kun	基本	「んで、切れ長かつ憂いを帯びた表情、	「And with long, almond-shaped eyes and a melancholic expression,
-213305	+		　胸は大きくてしっとりとした美人。	　big, soft, beautiful breasts.
+213304	Nagata-kun	基本	「んで、切れ長かつ憂いを帯びた表情、	「And with long, almond-shaped eyes and a
+213305	+		　胸は大きくてしっとりとした美人。	　melancholic expression, big, soft, beautiful breasts.
 213306	+		　もちろん髪は床につきそうなロングヘアーよ！」	　Of course with long hair that reaches the floor!」
 
 213307	Reset Kalar	名探偵	「……髪が長いのだけ正解」	「...Only the long hair part is correct.」
@@ -400,8 +400,8 @@
 213325	Reset Kalar	名探偵	「…………」	「............」
 
 213326	-		もうローブの少女は、	The robed girl was
-213327	+		口をパクパクとさせて何を言うべきか	opening and closing her mouth, unsure what to say.
-213328	+		分からなくなっているらしい。	
+213327	+		口をパクパクとさせて何を言うべきか	opening and closing her
+213328	+		分からなくなっているらしい。	mouth, unsure what to say.
 
 213329	Reset Kalar		「いや、それは……どうかなぁ……	「No, that's... I wonder...
 213330	+		　何か別の理由とか……」	　Maybe there's another reason...」

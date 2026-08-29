@@ -85,9 +85,9 @@
 
 36429	Rance		「無理なのか？」	「Is it impossible?」
 
-36430	Urza Pranaice		「無理ですね。	「Yes, it's impossible.
-36431	+		　人が多すぎると居住性が悪くなるだけでなく、	　Too many people not only reduces livability,
-36432	+		　水や食料の消費も大きくなり、積載量は減ります」	　but also increases water and food consumption, reducing cargo capacity.」
+36430	Urza Pranaice		「無理ですね。	「Yes, it's impossible. Too many people not only
+36431	+		　人が多すぎると居住性が悪くなるだけでなく、	　reduces livability, but also increases water and
+36432	+		　水や食料の消費も大きくなり、積載量は減ります」	　food consumption, reducing cargo capacity.」
 
 36433	Rance	だる顔	「ちっ、面倒な……まあいい、仕方ない。	「Tch, what a pain... Fine, can't be helped.
 36434	+		　適当に振り分けとけ」	　Just assign them appropriately.」
@@ -96,9 +96,9 @@
 
 36436	Patton Helman		「おう。ちょいと時間くれ」	「Got it. Give me a bit of time.」
 
-36437	-		その場で短い打ち合わせが行われ、	A quick meeting was held on the spot,
-36438	+		サンセット号とサンライズ号の	and the personnel were assigned between the Sunset and Sunrise.
-36439	+		人員の振り分けが行われた。	
+36437	-		その場で短い打ち合わせが行われ、	A quick meeting was held on the
+36438	+		サンセット号とサンライズ号の	spot, and the personnel were assigned
+36439	+		人員の振り分けが行われた。	between the Sunset and Sunrise.
 
 36440	Patton Helman		「待たせたな、決まったぜ」	「Sorry for the wait, it's decided.」
 
@@ -166,9 +166,9 @@
 
 36478	Peruele Kalette	基本	「あ……うん。…………って、ん……？」	「Ah... Yeah. ......Wait, hmm...?」
 
-36479	Peruele Kalette~		（あ、あれ…………？	（Huh, wait............?
-36480	+		　あたし、魔軍の大ボスへの殴り込み艦隊に、	　I'm naturally assigned to the fleet charging at the Monster Army's big boss...?)
-36481	+		　なんかナチュラルに選ばれてない……？）	
+36479	Peruele Kalette~		（あ、あれ…………？	（Huh, wait............? I'm naturally
+36480	+		　あたし、魔軍の大ボスへの殴り込み艦隊に、	　assigned to the fleet charging at
+36481	+		　なんかナチュラルに選ばれてない……？）	　the Monster Army's big boss...?)
 
 36482	Sheila Helman	笑顔	「頑張ろうね、ペルエレ」	「Let's do our best, Peruele.」
 
@@ -197,9 +197,9 @@
 
 36497	Sheila Helman	笑顔	「うんっ」	「Yeah!」
 
-36498	Amitos Armitage	基本	「で、護衛は私か。	「So I'm the escort, huh.
-36499	+		　本来なら、三軍……ヒューバート司令官の	　Normally this would be the job of the Third Army... Commander Hubert's
-36500	+		　職分の筈なのだがな」	　duty.」
+36498	Amitos Armitage	基本	「で、護衛は私か。	「So I'm the escort, huh. Normally
+36499	+		　本来なら、三軍……ヒューバート司令官の	　this would be the job of the Third
+36500	+		　職分の筈なのだがな」	　Army... Commander Hubert's duty.」
 
 36501	Rance	真剣	「人員がオーバーするから向こうに少し送ってやる、	「We had too many people so I sent some over there,
 36502	+		　というだけの話だ。男なんぞ要らんわ」	　that's all. I don't need men.」

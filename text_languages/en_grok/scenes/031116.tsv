@@ -15,8 +15,8 @@
 52836	-		魔物大将軍ツォトンは、混乱の極にあった。	Great Monster General Zedong was in complete confusion.
 
 52837	-		首都圏を封鎖され、脱出する事ができない。	The capital region was sealed, escape was impossible.
-52838	+		近辺の数千の魔物兵が破壊を試みているが、	Thousands of nearby monster soldiers were trying to destroy it,
-52839	+		効果がないという報告しか送られてこない。	but only reports of no effect came back.
+52838	+		近辺の数千の魔物兵が破壊を試みているが、	Thousands of nearby monster soldiers were trying to
+52839	+		効果がないという報告しか送られてこない。	destroy it, but only reports of no effect came back.
 
 52840	Monster Captain		「大将軍閣下！　今度は東の方です！	「Your Excellency! Now on the east side!
 52841	+		　また、小賢しい人間が……！」	　Those cunning humans again...!」
@@ -31,9 +31,9 @@
 52846	-		追っても、逃亡に使用したらしい道が発見出来ない。	Even when pursued, the escape routes they used could not be found.
 52847	+		実働部隊の、特に魔物隊長がじわじわと殺されていく。	Operational units, especially monster captains, were slowly being killed.
 
-52848	Green Monster Soldier		「ダメです……！　恐らくは魔法です！	「It's impossible...! It's probably magic!
-52849	+		　転移陣の様なものを張り巡らせているようですが、	　They seem to have set up something like teleportation arrays,
-52850	+		　特定できません！」	　but we can't identify them!」
+52848	Green Monster Soldier		「ダメです……！　恐らくは魔法です！	「It's impossible...! It's probably magic! They
+52849	+		　転移陣の様なものを張り巡らせているようですが、	　seem to have set up something like teleportation
+52850	+		　特定できません！」	　arrays, but we can't identify them!」
 
 52851	Zedong		「ぬぐ、ぐぐぐぬぬぬ…………！！」	「Ngu, gugugununu......!!」
 
@@ -112,9 +112,9 @@
 52897	+		　貴方は……ゼスの、歩んできた道を	　You... who tried to turn Zeth's long history
 52898	+		　無に帰そうという貴方は……ゼスの力で、倒す」	　to nothing... will be defeated by Zeth's own power.」
 
-52899	Zedong	基本	「それっぽっちの人間に倒される大将軍ではないわ！	「I am not a Great General who would be defeated by such puny humans!
-52900	+		　一度、せせこましい罠に嵌めたくらいで	　Don't get cocky just because you trapped me once
-52901	+		　いい気になるな！！」	　with a petty trap!!」
+52899	Zedong	基本	「それっぽっちの人間に倒される大将軍ではないわ！	「I am not a Great General who would be defeated
+52900	+		　一度、せせこましい罠に嵌めたくらいで	　by such puny humans! Don't get cocky just
+52901	+		　いい気になるな！！」	　because you trapped me once with a petty trap!!」
 
 52902	Urza Pranaice	怒り	「いきます。総員、戦闘配備！」	「Let's go. All units, prepare for battle!」
 
@@ -123,9 +123,9 @@
 52904	-		魔法に対する耐性が高いツォトンに対して、	Against Zedong, who had high resistance to magic,
 52905	+		攻撃魔法は決め手にならない。	offensive magic was not decisive.
 
-52906	-		必然的に、魔法は付与魔法に限定され、	Naturally, magic was limited to support spells,
-52907	+		戦いはそれを受けた戦士達による斬り合いが	and the battle centered on melee combat by warriors enhanced by them.
-52908	+		中心になっていく。	
+52906	-		必然的に、魔法は付与魔法に限定され、	Naturally, magic was limited to support
+52907	+		戦いはそれを受けた戦士達による斬り合いが	spells, and the battle centered on melee
+52908	+		中心になっていく。	combat by warriors enhanced by them.
 
 52909	Zedong	基本	「ぐおおおおぉぉ！！」	「Guoooooh!!」
 
@@ -241,9 +241,9 @@
 
 52979	-		ウルザはこっそりと、安堵の溜息を長く吐いた。	Urza secretly let out a long sigh of relief.
 
-52980	-		魔法使いとそうでない者が、連携して得た勝利。	A victory gained through cooperation between mages and non-mages.
-52981	+		魔物大将軍には知らぬ事だろうが、	The Great Monster General probably didn't know,
-52982	+		以前のゼスであれば、こうはやれなかっただろう。	but the old Zeth could not have achieved this.
+52980	-		魔法使いとそうでない者が、連携して得た勝利。	A victory gained through cooperation between mages and
+52981	+		魔物大将軍には知らぬ事だろうが、	non-mages. The Great Monster General probably didn't
+52982	+		以前のゼスであれば、こうはやれなかっただろう。	know, but the old Zeth could not have achieved this.
 
 52983	Urza Pranaice	感謝	「やったわ、みんな……」	「We did it, everyone...」
 
@@ -254,12 +254,12 @@
 52986	-		それは、ゼスを蹂躙していた魔軍が、	It meant the Monster Army that had ravaged Zeth
 52987	+		いわば頭を潰されたのと同様の意味を持っていた。	had essentially had its head crushed.
 
-52988	-		同時にマジノラインも陥落し、	At the same time the Maginot Line fell,
-52989	+		開戦時、実に100万を数えた大兵団は、	the great army that numbered a full million at the start of the war
-52990	+		ついにゼスの前に膝を屈した。	finally knelt before Zeth.
+52988	-		同時にマジノラインも陥落し、	At the same time the Maginot Line fell, the
+52989	+		開戦時、実に100万を数えた大兵団は、	great army that numbered a full million at
+52990	+		ついにゼスの前に膝を屈した。	the start of the war finally knelt before Zeth.
 
-52991	-		ゼス軍は統制を失った魔軍の逃亡を妨害はせず、	The Zeth army did not hinder the disorganized Monster Army's retreat,
-52992	+		徹底的にその後背を襲い、魔物界へと追い散らした。	but thoroughly attacked their rear and drove them back to the Monster Realm.
+52991	-		ゼス軍は統制を失った魔軍の逃亡を妨害はせず、	The Zeth army did not hinder the disorganized Monster Army's retreat, but
+52992	+		徹底的にその後背を襲い、魔物界へと追い散らした。	thoroughly attacked their rear and drove them back to the Monster Realm.
 
 52993	-		占領されていた街からは歓声が轟き、	Cheers thundered from the occupied cities,
 52994	+		ある者は生き残った喜びに、	some rejoicing in survival,

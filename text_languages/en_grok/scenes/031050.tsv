@@ -81,8 +81,8 @@
 
 48141	Pigu Geliciam		「ふーん」	「Hmm.」
 
-48142	-		手近なところに飾られた花瓶を、	Pigu casually picked up a nearby flower vase.
-48143	+		ピグはひょいと手に取った。	
+48142	-		手近なところに飾られた花瓶を、	Pigu casually picked up
+48143	+		ピグはひょいと手に取った。	a nearby flower vase.
 
 48144	Alefgard		「おっと」	「Whoops.」
 
@@ -110,9 +110,9 @@
 48158	+		　お世話のし甲斐があるかないか。	　one who is worth serving.
 48159	+		　事の善悪など、語る身ではございませぬ」	　I am not in a position to judge good or evil.」
 
-48160	Alefgard		「そこへいくと、お嬢様は素晴らしい。	「In that regard, my mistress is wonderful.
-48161	+		　美しく、自堕落、放っておけば食事も摂られないし	　Beautiful, decadent, she won't eat if left alone,
-48162	+		　着替えすら面倒くさがる上に我が儘放題」	　can't be bothered to change clothes, and is extremely selfish.」
+48160	Alefgard		「そこへいくと、お嬢様は素晴らしい。	「In that regard, my mistress is wonderful. Beautiful,
+48161	+		　美しく、自堕落、放っておけば食事も摂られないし	　decadent, she won't eat if left alone, can't be
+48162	+		　着替えすら面倒くさがる上に我が儘放題」	　bothered to change clothes, and is extremely selfish.」
 
 48163	Alefgard		「これほど仕え甲斐のある方は二人と居りますまい」	「There are few who are as worth serving as her.」
 
@@ -264,9 +264,9 @@
 48249	-		ほとんど物理的な圧力を伴って、	With almost physical pressure,
 48250	+		情欲に満ちた蛇の視線が絡みつく。	Medusa's lust-filled snake gaze coiled around her.
 
-48251	Medusa	舌なめずり	「嬉しくて、たまんないのよ。	「It makes me so excited.
-48252	+		　ねぇ……魔人なら、壊れないわよねぇ……	　Hey... Fiends won't break easily, right...
-48253	+		　ずぅっと遊んでも、壊れない……おもちゃ」	　Toys that won't break no matter how long I play with them.」
+48251	Medusa	舌なめずり	「嬉しくて、たまんないのよ。	「It makes me so excited. Hey... Fiends
+48252	+		　ねぇ……魔人なら、壊れないわよねぇ……	　won't break easily, right... Toys that won't
+48253	+		　ずぅっと遊んでも、壊れない……おもちゃ」	　break no matter how long I play with them.」
 
 48254	Satella	不安	「とことん狂ってるな、お前……！」	「You're completely insane...!」
 

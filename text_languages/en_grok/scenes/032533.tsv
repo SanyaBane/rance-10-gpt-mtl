@@ -61,8 +61,8 @@
 157336	Monster General		「じ、自分の立場を忘れるなよ、火炎書士。	「Don't forget your position, Flame Scrivener.
 157337	+		　本来ハウゼルはホーネット派の魔人だ」	　Hawzel was originally a Fiend of the Hornet faction.」
 
-157338	Monster General		「使徒である火炎書士、貴様が戦争時、	「You, the Apostle Flame Scrivener, were a spy leaking information
-157339	+		　ケイブリス様に情報を流すスパイだったが故、	　to Lord Kayblis during the war,
+157338	Monster General		「使徒である火炎書士、貴様が戦争時、	「You, the Apostle Flame Scrivener, were a spy
+157339	+		　ケイブリス様に情報を流すスパイだったが故、	　leaking information to Lord Kayblis during the war,
 157340	+		　客将のような立場に置かせてやってるのだ」	　that's why you're treated like a guest general.」
 
 157341	Monster General		「本来であれば貴様など、	「Normally, I could do whatever I wanted with you
@@ -206,12 +206,12 @@
 157423	La Hawzel		「もしも火炎がケイブリス派と内通を	「If Flame hadn't been in contact with the Kayblis faction,
 157424	+		　取っていなかったら今頃どうなっていたか」	　who knows what would have happened by now.」
 
-157425	Flame Scrivener	基本	「こちらからは大して有益な情報は	「We didn't provide much useful information,
-157426	+		　出していなかったのですが、	　but they still trusted us quite a bit.」
-157427	+		　割と信用してもらえましたね」	
+157425	Flame Scrivener	基本	「こちらからは大して有益な情報は	「We didn't provide much
+157426	+		　出していなかったのですが、	　useful information, but they
+157427	+		　割と信用してもらえましたね」	　still trusted us quite a bit.」
 
-157428	Flame Scrivener		「……ケイブリスさんは分かった上で、	「...I think Kayblis knows and just wants to use us.」
-157429	+		　火炎達を働かせたいだけな気もしますが」	
+157428	Flame Scrivener		「……ケイブリスさんは分かった上で、	「...I think Kayblis knows
+157429	+		　火炎達を働かせたいだけな気もしますが」	　and just wants to use us.」
 
 157430	La Hawzel	武装なし	「……それでも構わないわ」	「...Even so, it's fine.」
 
@@ -261,9 +261,9 @@
 157458	Flame Scrivener	基本	「な、ないです、ないです。	「N-No, no way.
 157459	+		　あの疑り深いケイブリスさんは特に」	　Especially that suspicious Kayblis.」
 
-157460	Flame Scrivener		「火炎ちゃんは使徒界一臆病な使徒ですから、	「Flame-chan is the most cowardly Apostle in the Apostle world,
-157461	+		　魔人界一臆病なケイブリスさんの	　so I can somewhat understand
-157462	+		　気持ちはなんとなく分かります」	　the feelings of the most cowardly Fiend Kayblis.」
+157460	Flame Scrivener		「火炎ちゃんは使徒界一臆病な使徒ですから、	「Flame-chan is the most cowardly Apostle in the
+157461	+		　魔人界一臆病なケイブリスさんの	　Apostle world, so I can somewhat understand the
+157462	+		　気持ちはなんとなく分かります」	　feelings of the most cowardly Fiend Kayblis.」
 
 157463	Flame Scrivener		「褒美……	「Reward...
 157464	+		　もらえるとしたら何を貰います？」	　If we could get one, what would you want?」
@@ -273,12 +273,12 @@
 
 157467	Flame Scrivener	基本	「――と、言わせたいんです」	「--That's what we want him to say.」
 
-157468	Flame Scrivener		「ケイブリスさんはまだ全然私達のことを	「Kayblis still doesn't trust us at all.」
-157469	+		　信用なんてしていませんよ」	
+157468	Flame Scrivener		「ケイブリスさんはまだ全然私達のことを	「Kayblis still doesn't
+157469	+		　信用なんてしていませんよ」	　trust us at all.」
 
-157470	Flame Scrivener		「で、褒美を与えて最初に何を求めるかで、	「By seeing what we ask for first when given a reward,
-157471	+		　本当にホーネット様を捨てる気かどうか	　he wants to see if we really intend to abandon Hornet-sama.」
-157472	+		　見極める気だと思います」	
+157470	Flame Scrivener		「で、褒美を与えて最初に何を求めるかで、	「By seeing what we ask for first when
+157471	+		　本当にホーネット様を捨てる気かどうか	　given a reward, he wants to see if we
+157472	+		　見極める気だと思います」	　really intend to abandon Hornet-sama.」
 
 157473	Flame Scrivener		「だから、絶対にホーネット様を解放して、	「That's why we absolutely cannot say
 157474	+		　なんて言ってはいけないんです……」	　we want Hornet-sama released...」
@@ -302,8 +302,8 @@
 
 157485	La Hawzel	武装なし	「…………」	「............」
 
-157486	-		くねくね悶えて喜ぶ火炎書士を	While watching the Flame Scrivener squirm with joy from the corner of her eye,
-157487	+		視界の端に捕らえながらハウゼルが	Hawzel
+157486	-		くねくね悶えて喜ぶ火炎書士を	While watching the Flame Scrivener squirm
+157487	+		視界の端に捕らえながらハウゼルが	with joy from the corner of her eye, Hawzel
 157488	+		地平線を眉根を寄せて睨む。	narrowed her eyes and glared at the horizon.
 
 157489	-		見つめるのは大陸の西、魔物界。	She was looking west across the continent, toward the Monster Realm.
@@ -340,15 +340,15 @@
 157508	-		うじうじしている主に、	Yuki, Seizel's Apostle, poked fun
 157509	+		サイゼルの使徒であるユキがツッコミを入れた。	at her hesitant master.
 
-157510	Yuki		「んな気になるならまずは	「If you're that worried, just go meet her first.
-157511	+		　会いに行けばいーんですよー。	
+157510	Yuki		「んな気になるならまずは	「If you're that worried,
+157511	+		　会いに行けばいーんですよー。	　just go meet her first.
 157512	+		　ていうかマジめんちーんで会え」	　Seriously, just meet up.」
 
 157513	La Seizel	え、ええ〜！？	「ききき、気になってなんてないわよ！」	「I-I'm not worried or anything!」
 
-157514	La Seizel	困り	「そりゃ、せっかく敵対してたハウゼルが	「Well, since Hawzel who was our enemy
-157515	+		　同じ陣営に来たから歓迎してやろうかって	　has come to the same side, I do feel like welcoming her...」
-157516	+		　気持ちもないわけじゃないけど……」	
+157514	La Seizel	困り	「そりゃ、せっかく敵対してたハウゼルが	「Well, since Hawzel who was our
+157515	+		　同じ陣営に来たから歓迎してやろうかって	　enemy has come to the same side,
+157516	+		　気持ちもないわけじゃないけど……」	　I do feel like welcoming her...」
 
 157517	La Seizel	泣き	「でも、合流なんて出来るわけ……」	「But we can't just join up...」
 
@@ -384,9 +384,9 @@
 157537	+		　敵陣営で便利に使われるなんて……	　Being conveniently used by the enemy side...
 157538	+		　どんな目に遭わされるか……」	　who knows what they'll do to her...」
 
-157539	La Seizel		「それに……あのとき私にあんなことした	「Besides... that Rance guy who did that to me back then
-157540	+		　ランスって奴が魔人倒す為に	　seems to be moving to defeat Fiends...」
-157541	+		　動いてるらしいし……」	
+157539	La Seizel		「それに……あのとき私にあんなことした	「Besides... that Rance guy who
+157540	+		　ランスって奴が魔人倒す為に	　did that to me back then seems
+157541	+		　動いてるらしいし……」	　to be moving to defeat Fiends...」
 
 157542	La Seizel	困り	「うう、心配だわ……」	「Uuu, I'm worried...」
 

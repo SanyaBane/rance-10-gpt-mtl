@@ -32,8 +32,8 @@
 
 198519	Lelikov Helman		「あいたーっ！？」	「Ouch!?」
 
-198520	-		宙に浮いたレリコフに容赦なく、	A merciless toe kick stabbed into the floating Lelikov.
-198521	+		爪先蹴りが突き刺さった。	
+198520	-		宙に浮いたレリコフに容赦なく、	A merciless toe kick stabbed
+198521	+		爪先蹴りが突き刺さった。	into the floating Lelikov.
 
 198522	Lelikov Helman	しょんぼり	「あーっ、いちちち……	「Aah, it hurts...
 198523	+		　ガードしたのに骨折られたかと思った」	　I thought my guard broke a bone.」
@@ -58,9 +58,9 @@
 
 198535	-		既に魔人レイとの戦闘は三十分にも及んでいる。	The battle with the Fiend Lei had already lasted thirty minutes.
 
-198536	-		理由はひとえに、レイがすぐ逃げることにあった。	The reason was entirely because Lei kept escaping immediately.
-198537	+		果敢に攻め込んでも逃げられる為に決定打に欠け、	Even with bold attacks, he would escape, so there was no decisive blow,
-198538	+		一向に勝負が決まらない状況が続いていた。	and the fight showed no sign of ending.
+198536	-		理由はひとえに、レイがすぐ逃げることにあった。	The reason was entirely because Lei kept escaping
+198537	+		果敢に攻め込んでも逃げられる為に決定打に欠け、	immediately. Even with bold attacks, he would escape, so there
+198538	+		一向に勝負が決まらない状況が続いていた。	was no decisive blow, and the fight showed no sign of ending.
 
 198539	Lei	基本	「ふんっ、そうがなり立てるな」	「Hmph, stop yelling like that.」
 
@@ -165,9 +165,9 @@
 
 198600	Arms Arc		「ん？　どうした、＜エール＞？」	「Hm? What's wrong, ＜エール＞？」
 
-198601	El Mofus		「…………。」	「............」
-198602	Arms Arc	笑い	「はっはっはっ、	「Hah hah hah,
-198603	+		　弟子に心配されるようでは私もまだまだだな」	　If my disciple is worried about me, I still have a long way to go.」
+198601	El Mofus		「…………。」	「............」 「Hah hah hah, If my
+198602	Arms Arc	笑い	「はっはっはっ、	　disciple is worried about me, I
+198603	+		　弟子に心配されるようでは私もまだまだだな」	　still have a long way to go.」
 
 198604	Arms Arc	ふっ	「ああ……約束だ……」	「Yeah... It's a promise...」
 
@@ -204,8 +204,8 @@
 
 198623	Lei		「がああああああ！」	「Gaaaaah!」
 
-198624	-		二回の跳躍で背後から後頭部へ迫る日光の斬撃を、	The Nikkou slash coming from behind toward his head after two leaps
-198625	+		魔人レイは見えないにも関わらず、	was deflected by the Fiend Lei with a backfist
+198624	-		二回の跳躍で背後から後頭部へ迫る日光の斬撃を、	The Nikkou slash coming from behind toward his head after
+198625	+		魔人レイは見えないにも関わらず、	two leaps was deflected by the Fiend Lei with a backfist
 198626	+		気配だけで裏拳で弾いた。	using only the presence, even though he couldn't see it.
 
 198627	Arms Arc		「ほう……」	「Oh...」

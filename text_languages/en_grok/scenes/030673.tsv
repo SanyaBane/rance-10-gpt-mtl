@@ -39,8 +39,8 @@
 
 24629	Monster Captain		「くはははははは！　隙ありだ！」	「Kuhahahahaha! You're open!」
 
-24630	-		背後から斧の一撃を受け、赤鎧は更に紅く染まった。	Struck by an axe from behind, the red armor became even redder.
-24631	+		よろけた兵士の身体が大剣に斬り刻まれ、首が飛ぶ。	The staggering soldier was hacked apart by a greatsword, his head sent flying.
+24630	-		背後から斧の一撃を受け、赤鎧は更に紅く染まった。	Struck by an axe from behind, the red armor became even redder. The
+24631	+		よろけた兵士の身体が大剣に斬り刻まれ、首が飛ぶ。	staggering soldier was hacked apart by a greatsword, his head sent flying.
 
 24632	Monster Captain		「ふ……こんなものか、リーザス！　人間！	「Hmph...... Is this all you've got, Leazas! Humans!
 24633	+		　このまま押し切ってくれるわ！」	　We'll push right through you!」
@@ -48,8 +48,8 @@
 24634	Leazas Black Soldier		「も、申し上げます！　第一陣、左翼が突破されました！	「R-report! The first line's left wing has been breached!
 24635	+		　このままでは後背に回り込まれ……！」	　At this rate we'll be flanked from behind......！」
 
-24636	Barres Province		「旗で合図。第二陣中央のジブル隊に対応させよ。	「Signal with the flags. Have Jibble's unit in the center of the second line respond.
-24637	+		　左翼の残存兵は撤退して再編」	　Surviving soldiers on the left wing are to retreat and regroup.」
+24636	Barres Province		「旗で合図。第二陣中央のジブル隊に対応させよ。	「Signal with the flags. Have Jibble's unit in the center of the second line
+24637	+		　左翼の残存兵は撤退して再編」	　respond. Surviving soldiers on the left wing are to retreat and regroup.」
 
 24638	Barres Province		「奴らは突破したと、闇雲に突進してこよう。	「They'll charge blindly thinking they've broken through.
 24639	+		　その鼻先を魔法と弓で挫くのじゃ」	　We'll crush their momentum with magic and arrows.」
@@ -147,9 +147,9 @@
 24697	Barres Province	テンション上げ	「さあ……ここからじゃ。	「Now...... this is where it begins.
 24698	+		　バレス・プロヴァンスの真骨頂、見せてくれるわ」	　I'll show you the true worth of Barres Provence.」
 
-24699	-		戦場を走る、魔軍の一団があった。	A group from the Monster Army was charging across the battlefield.
-24700	+		リーザス軍の左翼を突破した、	They were one of the assault units
-24701	+		突撃隊のひとつだった。	that had broken through Leazas' left wing.
+24699	-		戦場を走る、魔軍の一団があった。	A group from the Monster Army was charging
+24700	+		リーザス軍の左翼を突破した、	across the battlefield. They were one of the assault
+24701	+		突撃隊のひとつだった。	units that had broken through Leazas' left wing.
 
 24702	Blue Monster Soldier	基本	「隊長、隊長！　いいんですかい、ゆっくりで！	「Captain, Captain! Is it okay to go this slow?!
 24703	+		　第一分隊の奴ら、先に行っちまってますぜ！」	　The first squad has already gone ahead!」
@@ -165,8 +165,8 @@
 
 24710	Blue Monster Soldier		「げげ、伏兵！？」	「Geh, an ambush!?」
 
-24711	Monster Captain		「ほらな。人間ども、意外としゃらくさい手を	「See? The humans are pulling some clever tricks.」
-24712	+		　打ってきやがる」	
+24711	Monster Captain		「ほらな。人間ども、意外としゃらくさい手を	「See? The humans are
+24712	+		　打ってきやがる」	　pulling some clever tricks.」
 
 24713	Monster Captain		「それに、ゆっくりというか、大回りしてんのにも	「Besides, there's a reason we're taking the long way around.
 24714	+		　ワケはあるんだよ。ほれ」	　Look over there.」
@@ -255,9 +255,9 @@
 24765	-		人間側の陣形は、幾重もの陣を引き、	The human side had multiple layers of formations,
 24766	+		その厚みで戦う形だった。	fighting with depth.
 
-24767	-		どこかの部隊が突破されたかと思えば、	Just as one unit seemed breached,
-24768	+		たちどころに他の部隊が援護に回って戦線を支え、	another would immediately provide support,
-24769	+		撤退した部隊の生き残りは再編してまた前線に来る。	and retreating survivors would regroup and return to the front.
+24767	-		どこかの部隊が突破されたかと思えば、	Just as one unit seemed breached, another would
+24768	+		たちどころに他の部隊が援護に回って戦線を支え、	immediately provide support, and retreating
+24769	+		撤退した部隊の生き残りは再編してまた前線に来る。	survivors would regroup and return to the front.
 
 24770	-		魔軍の猛々しい将兵達にとっても、	Even for the fierce Monster Army soldiers,
 24771	+		些かならず辟易する展開だった。	this was quite a frustrating development.

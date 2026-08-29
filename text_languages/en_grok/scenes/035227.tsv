@@ -1,16 +1,16 @@
 # 35227	t２４１／３／やっと戻った	
 
-262531	?		Ｍランドに戻る	Return to M-Land.
-262532	+		状況を聞いた、コパンドン、セシル	Copandon and Cecil heard about the situation.
-262533	+		ランスが率いる魔人討伐隊がつねに上空から攻撃にさらされる訳か・・	So the Fiend Extermination Squad led by Rance is constantly under attack from above...
-262534	+		動けなくなってしまったね	They've become unable to move.
-262535	+		ランスが動けない＝人類側が魔人に対抗する手段が無いという事か	Rance can't move = humanity has no means to oppose the Fiends.
-262536	+		これはやばい	This is bad.
-262537	+		if (確認("美樹が居る")==1) 健太郎が居る場合、自分もいるよーというが、無視される	if (check("Miki is here") == 1) When Kentarou is present, he says "I'm here too," but is ignored.
-262538	+		いったんランス城に戻るか、戻るといっても衛星攻撃をかいくぐりながらなので大変だが・・	Should I return to Rance Castle for now? Though even returning means dodging the satellite attacks, so it'll be tough...
-262539	+		if (確認("パットンが居る")==1) ハンティが居る場合、俺が連れていってやろうか、老化するかもしれないけど、いひひ	If (check("Patton is here") == 1) If Hunty is here, should I take him along? Might cause aging though, hehe.
-262540	+		戻っても、あれに狙われ続ける事には違いないだろうが	Even if I return, there's no doubt I'll keep being targeted by that thing.
-262541	+		どっちにしろ選択は	Either way, the choice is...
-262542	+		衛星兵器を倒す	Defeat the satellite weapon.
-262543	+		魔人パイアールを倒す、奴を倒せばあれも動かなくなるのだろう。たぶん・・	Defeat the Fiend Pi-R; if we beat him, that thing probably won't operate anymore. Probably...
-262544	+		それか、ランスがずっと外に出ないかだね（これは誰かがちゃかして言う）	Or, Rance just doesn't go outside at all (someone teases saying this).
+262531	?		Ｍランドに戻る	Return to M-Land. Copandon and Cecil heard about
+262532	+		状況を聞いた、コパンドン、セシル	the situation. So the Fiend Extermination Squad led by Rance is
+262533	+		ランスが率いる魔人討伐隊がつねに上空から攻撃にさらされる訳か・・	constantly under attack from above... They've become unable to
+262534	+		動けなくなってしまったね	move. Rance can't move = humanity has no means to oppose the
+262535	+		ランスが動けない＝人類側が魔人に対抗する手段が無いという事か	Fiends. This is bad. if (check("Miki is here") == 1) When Kentarou
+262536	+		これはやばい	is present, he says "I'm here too," but is ignored. Should
+262537	+		if (確認("美樹が居る")==1) 健太郎が居る場合、自分もいるよーというが、無視される	I return to Rance Castle for now? Though even returning means
+262538	+		いったんランス城に戻るか、戻るといっても衛星攻撃をかいくぐりながらなので大変だが・・	dodging the satellite attacks, so it'll be tough... If (check("Patton
+262539	+		if (確認("パットンが居る")==1) ハンティが居る場合、俺が連れていってやろうか、老化するかもしれないけど、いひひ	is here") == 1) If Hunty is here, should I take him along? Might
+262540	+		戻っても、あれに狙われ続ける事には違いないだろうが	cause aging though, hehe. Even if I return, there's no doubt
+262541	+		どっちにしろ選択は	I'll keep being targeted by that thing. Either way, the choice is...
+262542	+		衛星兵器を倒す	Defeat the satellite weapon. Defeat the Fiend Pi-R; if we beat
+262543	+		魔人パイアールを倒す、奴を倒せばあれも動かなくなるのだろう。たぶん・・	him, that thing probably won't operate anymore. Probably... Or,
+262544	+		それか、ランスがずっと外に出ないかだね（これは誰かがちゃかして言う）	Rance just doesn't go outside at all (someone teases saying this).

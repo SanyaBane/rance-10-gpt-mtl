@@ -32,9 +32,9 @@
 248011	-		ワーグとワーグの部隊間の連絡には	Almost all communication between Warg and her troops
 248012	+		ほぼ全て矢文が用いられていた。	was done through these arrow letters.
 
-248013	-		最初は人間に運ばせる手なども考えられたが、	At first they considered using humans to deliver them,
-248014	+		人間ではワーグの能力の範囲内に入った瞬間に	but humans would fall asleep the moment they entered Warg's range.
-248015	+		寝てしまうことが多い。	So in the end,
+248013	-		最初は人間に運ばせる手なども考えられたが、	At first they considered using humans to deliver
+248014	+		人間ではワーグの能力の範囲内に入った瞬間に	them, but humans would fall asleep the moment
+248015	+		寝てしまうことが多い。	they entered Warg's range. So in the end,
 
 248016	-		結局、古典的な矢文に頼るのが	they settled on the classic arrow letter method
 248017	+		もっとも確実という結論に落ち着いたのだった。	as the most reliable option.
@@ -44,9 +44,9 @@
 248019	Warg		「なあなあ、なんて書いてあるんだ？	「Hey hey, what does it say?
 248020	+		　早く読んでくれよー」	　Read it quickー」
 
-248021	-		手紙に書かれているのは	The letter only contained
-248022	+		次の目的地は○○、30分以内に出発されたし、	very simple orders: Next destination is ○○, depart within 30 minutes.
-248023	+		という非常に簡素な指示だけだった。	
+248021	-		手紙に書かれているのは	The letter only contained very
+248022	+		次の目的地は○○、30分以内に出発されたし、	simple orders: Next destination
+248023	+		という非常に簡素な指示だけだった。	is ○○, depart within 30 minutes.
 
 248024	Warg		「ちぇっ、なんだこのつまんない手紙は。	「Tch, what a boring letter.
 248025	+		　せめて時候の挨拶くらいは入れろよなー」	　At least put in a seasonal greeting or somethingー」
@@ -74,8 +74,8 @@
 248038	+		死の香りが漂う魔物界の森には、	and the scent of death lingers,
 248039	+		どうにも不釣り合いな建築物である。	such a building was completely out of place.
 
-248040	-		しかし、中からは更に	However, an even more mismatched figure emerged from inside.
-248041	+		不釣り合いな人物が出てきた。	
+248040	-		しかし、中からは更に	However, an even more mismatched
+248041	+		不釣り合いな人物が出てきた。	figure emerged from inside.
 
 248042	Warg	ラッシーなし	「んっ……」	「Nn...」
 
@@ -120,9 +120,9 @@
 
 248068	Warg		「あの二人ー！」	「Those twoー!」
 
-248069	Warg		「怖がって誰も来ないワーグのもとに、	「Even though everyone is scared and stays away from Warg,
-248070	+		　何度眠っちまっても遊びに来てくれるから、	　they came to play no matter how many times they fell asleep,
-248071	+		　いい奴だと思ったのに！」	　so I thought they were good guys!」
+248069	Warg		「怖がって誰も来ないワーグのもとに、	「Even though everyone is scared and stays away from
+248070	+		　何度眠っちまっても遊びに来てくれるから、	　Warg, they came to play no matter how many times
+248071	+		　いい奴だと思ったのに！」	　they fell asleep, so I thought they were good guys!」
 
 248072	Warg		「戦争で困ってるって言うから、	「They said they were in trouble during the war,
 248073	+		　ワーグは友達の為に戦ってやったってーのに、	　so Warg fought for her friends,
@@ -162,8 +162,8 @@
 248096	Warg	ラッシーなし	「そうね、たまには事件の一つでも起きてくれないと	「Yes, it would be nice if something interesting happened once in a while
 248097	+		　退屈なのが困りものね」	　or I'll die of boredom.」
 
-248098	Warg	基本	「へんっ、事件なんか起きない方が	「Hmph, it's better if nothing happens.」
-248099	+		　いいに決まってらあ」	
+248098	Warg	基本	「へんっ、事件なんか起きない方が	「Hmph, it's better
+248099	+		　いいに決まってらあ」	　if nothing happens.」
 
 248100	Warg		「って、なんだ？　なんか聞こえないか？」	「Wait, what? Don't you hear something?」
 
@@ -199,15 +199,15 @@
 
 248119	Kayblis	基本	「馬ァァァ鹿、野郎がァアアア！」	「You fuuuucking idiot!」
 
-248120	Kayblis		「そんなの関係あるか！	「Who cares about that!
-248121	+		　一度手伝ったなら今後も永遠に手伝わせる！	　If you helped once, you'll help forever!
-248122	+		　そんな無責任が通ると思ってんのかぁ！？！」	　You think you can get away with being that irresponsible!?」
+248120	Kayblis		「そんなの関係あるか！	「Who cares about that! If you helped once,
+248121	+		　一度手伝ったなら今後も永遠に手伝わせる！	　you'll help forever! You think you can
+248122	+		　そんな無責任が通ると思ってんのかぁ！？！」	　get away with being that irresponsible!?」
 
 248123	Warg	ラッシーなし	「……勝手なことを」	「...How selfish.」
 
-248124	Kayblis	基本	「大体、テメェは人類側に	「Besides, you might side with the humans!
-248125	+		　つく可能性だってあんだろうが！	
-248126	+		　そんなの放置出来るか！？　アア！？」	　How can I leave that possibility alone!? Aaah!?」
+248124	Kayblis	基本	「大体、テメェは人類側に	「Besides, you might side with
+248125	+		　つく可能性だってあんだろうが！	　the humans! How can I leave
+248126	+		　そんなの放置出来るか！？　アア！？」	　that possibility alone!? Aaah!?」
 
 248127	Kayblis		「ただでさえテメェは元人間の魔人だ！	「You're already a former human Fiend!
 248128	+		　信用ならねぇこと、この上ねぇぜ！」	　There's nothing more untrustworthy!」
@@ -304,8 +304,8 @@
 248187	Kayblis		「…………」	「............」
 
 248188	Kayblis		「ヘッ！　まあそれでもいいぜえ！	「Heh! Well that's fine too!
-248189	+		　その前にテメェを百回は	　Before that I can rip you apart a hundred times!」
-248190	+		　八つ裂きにできるんだからよぉ！」	
+248189	+		　その前にテメェを百回は	　Before that I can rip you
+248190	+		　八つ裂きにできるんだからよぉ！」	　apart a hundred times!」
 
 248191	Kayblis		「さあさあ、そろそろ決めてもらおうか！	「Now now, time to decide!
 248192	+		　俺様の味方になるのか！　敵になるのか！」	　Will you be my ally or my enemy!?」
@@ -354,8 +354,8 @@
 248218	-		そのことがワーグの背筋を冷やし、	chilled her spine
 248219	+		両足をカクカクと小さく震わせた。	and made her legs tremble.
 
-248220	-		それこそ心配無用の話だが、	That aside, failure is not allowed in this battle.
-248221	+		今回の戦いに失敗は許されない。	
+248220	-		それこそ心配無用の話だが、	That aside, failure is not
+248221	+		今回の戦いに失敗は許されない。	allowed in this battle.
 
 248222	Lassie	基本	「うう、ケイブリス怖いよ……	「Uuu, Kayblis is scary...
 248223	+		　殺されたらどうしよう……」	　What if he kills us...」

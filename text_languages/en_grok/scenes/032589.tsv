@@ -62,8 +62,8 @@
 
 161636	Sill Plain	基本	「は、はい、えと、初めまして……」	「Y-Yes, um, nice to meet you...」
 
-161637	Tilde Sharp	ニコリ	「リアさまの親衛隊、金の軍副将、	「Vice Commander of the Golden Army in Lady Lia's Royal Guard,
-161638	+		　チルディ・シャープと申します。	　Tilde Sharp.
+161637	Tilde Sharp	ニコリ	「リアさまの親衛隊、金の軍副将、	「Vice Commander of the Golden Army
+161638	+		　チルディ・シャープと申します。	　in Lady Lia's Royal Guard, Tilde Sharp.
 161639	+		　以後お見知りおきを」	　Pleased to make your acquaintance.」
 
 161640	Rance	基本	「副将？　お前出世したのか？」	「Vice commander? You got promoted?」
@@ -205,11 +205,11 @@
 161721	-		玉座の間に入った瞬間、	The moment they entered the throne room,
 161722	+		リアがランスの首筋に飛びついた。	Lia leaped onto Rance's neck.
 
-161723	Rance	怒り	「だあ！　いい加減、顔合わせる度に	「Dah! Stop jumping on me every single time we meet!」
-161724	+		　抱きついてくるのやめんか！」	
+161723	Rance	怒り	「だあ！　いい加減、顔合わせる度に	「Dah! Stop jumping on me
+161724	+		　抱きついてくるのやめんか！」	　every single time we meet!」
 
-161725	Lia Parapara Leazas	笑顔	「だーーーって、ダーリンに会えて	「But I was so happy to see my darling!」
-161726	+		　嬉しかったんだもーん！」	
+161725	Lia Parapara Leazas	笑顔	「だーーーって、ダーリンに会えて	「But I was so happy
+161726	+		　嬉しかったんだもーん！」	　to see my darling!」
 
 161727	Sill Plain	基本	「あ、あう、お久しぶりです、リア様……」	「A-Ah, long time no see, Lady Lia...」
 
@@ -277,9 +277,9 @@
 161764	Sill Plain	基本	「くすん……す、すみません……	「Hic... S-Sorry...
 161765	+		　怖いです……」	　I'm scared...」
 
-161766	Lia Parapara Leazas		「ふんっ、またダーリンにべたべたひっついて。	「Hmph, sticking to darling again.
-161767	+		　ずーっと氷の中に	　You should have stayed frozen forever.」
-161768	+		　閉じ込められてれば良かったのに」	
+161766	Lia Parapara Leazas		「ふんっ、またダーリンにべたべたひっついて。	「Hmph, sticking to darling
+161767	+		　ずーっと氷の中に	　again. You should have
+161768	+		　閉じ込められてれば良かったのに」	　stayed frozen forever.」
 
 161769	Rance	真剣	「そんなことはどうでもいい」	「That doesn't matter.」
 
@@ -347,14 +347,14 @@
 161809	Maris Amaryllis		「また山越えが難しいので魔軍はL･C･M山脈とバラオ山脈の	「The difficult mountain crossings mean the Monster Army can only attack
 161810	+		　間からしか攻めてこない状況も味方してくれています」	　between the L.C.M. Mountains and the Barao Mountains.」
 
-161811	Maris Amaryllis		「都市スケールを攻めるハウゼル部隊には、	「Rick's Red Army and Ex's White Army are deployed against Hawzel's forces attacking Scale,」
-161812	+		　リック将軍の赤の軍、エクス将軍の白の軍を配置」	
+161811	Maris Amaryllis		「都市スケールを攻めるハウゼル部隊には、	「Rick's Red Army and Ex's White Army are
+161812	+		　リック将軍の赤の軍、エクス将軍の白の軍を配置」	　deployed against Hawzel's forces attacking Scale,」
 
-161813	Maris Amaryllis		「都市ガマックを占領しているシルキィ部隊には、	「while Barres' Black Army and Cordoba's Blue Army face Silky's forces occupying Gamack.」
-161814	+		　バレス将軍の黒の軍、コルドバ将軍の青の軍を」	
+161813	Maris Amaryllis		「都市ガマックを占領しているシルキィ部隊には、	「while Barres' Black Army and Cordoba's Blue
+161814	+		　バレス将軍の黒の軍、コルドバ将軍の青の軍を」	　Army face Silky's forces occupying Gamack.」
 
-161815	Maris Amaryllis		「またカスタムの技術支援で作った銃砲部隊が首都と一部の都市に	「Additionally, artillery units developed with Custom's technical support
-161816	+		　展開しており、長距離砲で魔軍に多大なダメージを与えています」	　are deployed in the capital and several cities, dealing heavy damage to the Monster Army with long-range fire.」
+161815	Maris Amaryllis		「またカスタムの技術支援で作った銃砲部隊が首都と一部の都市に	「Additionally, artillery units developed with Custom's technical support are deployed in the
+161816	+		　展開しており、長距離砲で魔軍に多大なダメージを与えています」	　capital and several cities, dealing heavy damage to the Monster Army with long-range fire.」
 
 161817	Maris Amaryllis		「兵達の奮闘、銃砲部隊により、持ちこたえているのが現状です」	「Thanks to the soldiers' efforts and the artillery, we are holding for now.」
 
@@ -389,9 +389,9 @@
 161835	Lia Parapara Leazas		「じゃあ、今日はもう遅いし、出発は明日にして、	「It's getting late today, so depart tomorrow.
 161836	+		　今夜は泊まっていってねー」	　Stay the night.」
 
-161837	Lia Parapara Leazas		「リアが今日はたっぷりお世話してあげるね。	「I'll take very good care of you tonight.
-161838	+		　もこもこ奴隷やヘルマンの奴隷なんて	　Way more erotic than that fluffy slave or that Helman slave.」
-161839	+		　目じゃないくらいエッチなのしてあげるー」	
+161837	Lia Parapara Leazas		「リアが今日はたっぷりお世話してあげるね。	「I'll take very good care of you
+161838	+		　もこもこ奴隷やヘルマンの奴隷なんて	　tonight. Way more erotic than that
+161839	+		　目じゃないくらいエッチなのしてあげるー」	　fluffy slave or that Helman slave.」
 
 161840	Rance		「ほほーう、それは楽しみだな。	「Hohou, that sounds fun.
 161841	+		　うむ、良きに計らえー」	　Yes, handle it well.」

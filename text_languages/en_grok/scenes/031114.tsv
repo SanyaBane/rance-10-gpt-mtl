@@ -29,9 +29,9 @@
 
 52377	Monster Captain		「皆殺しにしろ！　岩をどんどん降らせ！」	「Kill them all! Drop more rocks!」
 
-52378	-		魔物将軍ポルの号令一下、	At General Por's command,
-52379	+		魔物隊長達が各司令センターを拠点に指揮を執り、	the monster captains directed from their command centers,
-52380	+		登ってくるゼス軍に対し、苛烈な防戦で応じた。	responding with fierce defense against the climbing Zeth army.
+52378	-		魔物将軍ポルの号令一下、	At General Por's command, the monster captains
+52379	+		魔物隊長達が各司令センターを拠点に指揮を執り、	directed from their command centers, responding
+52380	+		登ってくるゼス軍に対し、苛烈な防戦で応じた。	with fierce defense against the climbing Zeth army.
 
 52381	-		上空から魔物が襲いかかり、	Monsters attacked from the sky,
 52382	+		要塞から身を乗り出した魔物たちが岩を投下して、	while monsters leaning out from the fortress dropped rocks,
@@ -109,13 +109,13 @@
 52427	Uspira Shintou		「援軍の彼らは、将自ら前に出てるのに……	「Their generals are leading from the front...
 52428	+		　って見られると、思わない？」	　We can't let them see us staying back, right?」
 
-52429	-		異論を聞く気のない顔で、ウスピラは見上げた。	With a face that would accept no argument, Uspira looked up.
-52430	+		元々、安全な所から指揮をするのに	She was never suited to commanding from a safe place anyway.
-52431	+		向かない性分だった。	
+52429	-		異論を聞く気のない顔で、ウスピラは見上げた。	With a face that would accept no argument,
+52430	+		元々、安全な所から指揮をするのに	Uspira looked up. She was never suited
+52431	+		向かない性分だった。	to commanding from a safe place anyway.
 
-52432	Saias Crown		「アレの真似しろという兵は、	「I hope there are no soldiers who want to imitate that...
-52433	+		　ゼスにはいないと思いたいが……	　but if that's the case, I'll go.」
-52434	+		　いや、それなら俺が行く」	
+52432	Saias Crown		「アレの真似しろという兵は、	「I hope there are no soldiers
+52433	+		　ゼスにはいないと思いたいが……	　who want to imitate that...
+52434	+		　いや、それなら俺が行く」	　but if that's the case, I'll go.」
 
 52435	Uspira Shintou	怒り	「ダメよ。サイアスは無茶するもの」	「No. You always do reckless things, Saias.」
 
@@ -123,9 +123,9 @@
 
 52437	Uspira Shintou	怒り	「………………」	「............」
 
-52438	Saias Crown	ウスピラ	「わかった。それなら二人でいこう。	「Fine. Then let's go together.
-52439	+		　部隊を再編して、前衛を援護するチームを作る。	　We'll reorganize the unit and form a team to support the vanguard.
-52440	+		　雷帝、構いませんか？」	　Thunder Emperor, is that alright?」
+52438	Saias Crown	ウスピラ	「わかった。それなら二人でいこう。	「Fine. Then let's go together. We'll reorganize
+52439	+		　部隊を再編して、前衛を援護するチームを作る。	　the unit and form a team to support the
+52440	+		　雷帝、構いませんか？」	　vanguard. Thunder Emperor, is that alright?」
 
 52441	Kabachahn the Lightning	基本	「構うか構わんかで言えば、	「If you're asking if I mind,
 52442	+		　ここで問答される方が迷惑じゃ。さっさとゆけ」	　discussing it here is more annoying. Just go.」
@@ -161,9 +161,9 @@
 52460	-		恐れ知らずの毛利兵を先頭に、	With the fearless Mouri soldiers at the lead,
 52461	+		人類軍は各所のポイントへと突き進む。	the human army pushed toward key points.
 
-52462	-		ゼス軍の前衛部隊が登り続けるその背後には、	Behind the Zeth army's vanguard that kept climbing,
-52463	+		二将軍が直々に率いる炎軍、氷軍の混成部隊が続き、	a mixed unit of Flame and Ice armies led personally by the two generals followed,
-52464	+		魔軍の妨害を、魔法で食い止める。	stopping the Monster Army's interference with magic.
+52462	-		ゼス軍の前衛部隊が登り続けるその背後には、	Behind the Zeth army's vanguard that kept climbing, a mixed
+52463	+		二将軍が直々に率いる炎軍、氷軍の混成部隊が続き、	unit of Flame and Ice armies led personally by the two generals
+52464	+		魔軍の妨害を、魔法で食い止める。	followed, stopping the Monster Army's interference with magic.
 
 52465	-		空からの襲撃は雷帝の指揮の下、麓に残る魔法隊と、	Aerial attacks were handled by the mage unit remaining at the base under the Thunder Emperor's command
 52466	+		アニス・沢渡が迎撃に当たる。	and Anise Sawatari.
@@ -254,8 +254,8 @@
 52515	-		けたたましい笑い声と共に、	With a shrill laugh,
 52516	+		魔物兵たちと共に魔物将軍ポルが姿を見せた。	General Por appeared with his monster soldiers.
 
-52517	Monster General		「やはりそれが狙いであったか。	「So that was your aim after all.
-52518	+		　この要塞の兵器を稼働させて、魔軍を襲う。	　To operate this fortress's weapons and attack the Monster Army.
+52517	Monster General		「やはりそれが狙いであったか。	「So that was your aim after all. To operate this
+52518	+		　この要塞の兵器を稼働させて、魔軍を襲う。	　fortress's weapons and attack the Monster Army.
 52519	+		　かつてはそれで逆転した事があったそうだが……」	　It worked for a reversal once before, I hear...」
 
 52520	Monster General		「この要塞の兵器は、全て破壊してある。	「All the weapons in this fortress have been destroyed.
@@ -275,9 +275,9 @@
 
 52530	-		魔軍司令部――	Monster Army Headquarters――
 
-52531	Green Monster Soldier		「閣下！　ポル様より連絡が！	「Your Excellency! Message from Lord Por!
-52532	+		　人間どもが、マジノラインに	　The humans have poured their forces into the Maginot Line!」
-52533	+		　戦力を注ぎ込んできた模様！」	
+52531	Green Monster Soldier		「閣下！　ポル様より連絡が！	「Your Excellency! Message from
+52532	+		　人間どもが、マジノラインに	　Lord Por! The humans have poured
+52533	+		　戦力を注ぎ込んできた模様！」	　their forces into the Maginot Line!」
 
 52534	Zedong		「くくく……そこに、全てを賭けてきたのか。	「Kukuku... So they bet everything on that spot.
 52535	+		　まったく、愚かな連中だ……」	　What fools...」

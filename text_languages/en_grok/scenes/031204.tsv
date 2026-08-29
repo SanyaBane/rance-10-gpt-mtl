@@ -59,9 +59,9 @@
 
 60090	Cecil Carna	基本	「ッ、総員！　逃げッ…………！」	「Everyone! Run...!」
 
-60091	-		周辺全域に、特大の雷の雨が迸った。	A massive rain of lightning poured over the entire area.
-60092	+		地を抉り、空を貫き、直撃した者を消し炭にし、	It gouged the earth, pierced the sky, carbonizing those hit directly,
-60093	+		そうでない者の耳を轟音が貫く。	and the roar pierced the ears of everyone else.
+60091	-		周辺全域に、特大の雷の雨が迸った。	A massive rain of lightning poured over the entire area. It
+60092	+		地を抉り、空を貫き、直撃した者を消し炭にし、	gouged the earth, pierced the sky, carbonizing those hit
+60093	+		そうでない者の耳を轟音が貫く。	directly, and the roar pierced the ears of everyone else.
 
 60094	Rance	驚き	「お、ッ……！」	「O, hh...!」
 
@@ -89,6 +89,6 @@
 
 60109	Kentou Kanami	基本	「っ、分かったわ！」	「Got it!」
 
-60110	-		魔人の敗北と共に通達されたその命は	The order issued alongside the Fiend's defeat
-60111	+		最優先で自由都市連合軍中に伝わり、	was spread throughout the Free Cities Alliance Army as top priority,
-60112	+		全軍はただちに追跡戦に入った。	and the entire army immediately began pursuit.
+60110	-		魔人の敗北と共に通達されたその命は	The order issued alongside the Fiend's defeat was
+60111	+		最優先で自由都市連合軍中に伝わり、	spread throughout the Free Cities Alliance Army as top
+60112	+		全軍はただちに追跡戦に入った。	priority, and the entire army immediately began pursuit.

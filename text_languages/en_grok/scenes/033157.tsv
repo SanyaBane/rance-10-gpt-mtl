@@ -56,9 +56,9 @@
 
 208119	Reset Kalar	笑顔	「えへへ、本当に良かったねぇ」	「Ehehe, I'm so glad.」
 
-208120	-		魔王の子達のほとんどは別室で休憩を取り、	Most of the Demon King's children were resting in another room,
-208121	+		魔王の部屋には大人組だけが事情を	while only the adults remained in the Demon King's room
-208122	+		クルックーに聞こうとしていた。	to hear the full story from Crook.
+208120	-		魔王の子達のほとんどは別室で休憩を取り、	Most of the Demon King's children were resting in
+208121	+		魔王の部屋には大人組だけが事情を	another room, while only the adults remained in the
+208122	+		クルックーに聞こうとしていた。	Demon King's room to hear the full story from Crook.
 
 208123	Demon King Rance	破壊衝動無し／ポカン	「しかし、あの日バードに殺されたシィルが、	「But the Sill who was killed by Bird that day
 208124	+		　偽物だったとはなぁ」	　was a fake, huh.」
@@ -145,8 +145,8 @@
 208171	Sill Plain	全裸／恥	「きゃああああああ！？！？！？	「Kyaaaaaaaah!?
 208172	+		　わ、私、裸ー！？」	　I-I'm naked!?」
 
-208173	Crook Mofus	基本	「では、ここまであったことを	「I'll give you a quick explanation of what happened.」
-208174	+		　簡単に説明します」	
+208173	Crook Mofus	基本	「では、ここまであったことを	「I'll give you a quick
+208174	+		　簡単に説明します」	　explanation of what happened.」
 
 208175	Sill Plain		「わ、わーっ、とってもマイペースさんですー！」	「W-wow, you're so calm about this!」
 
@@ -279,9 +279,9 @@
 208249	Nagi su Ragarl	反省	「また戦うことになるかもって思ってたけど……	「I thought we might have to fight again but...
 208250	+		　なんか意外な展開」	　This is quite the unexpected turn.」
 
-208251	Masou Shizuka	基本	「小さかったから覚えてないだろうけど……	「You were too little to remember but...
-208252	+		　サテラさんってシィルちゃんに	　Satella was really attached to little Sill...」
-208253	+		　よく懐いていたから……」	
+208251	Masou Shizuka	基本	「小さかったから覚えてないだろうけど……	「You were too little
+208252	+		　サテラさんってシィルちゃんに	　to remember but... Satella was
+208253	+		　よく懐いていたから……」	　really attached to little Sill...」
 
 208254	Demon King Rance	破壊衝動無し／笑顔	「がはははははは！	「Gahahahaha!
 208255	+		　ま、なんでもいいわ！」	　Well, whatever!」

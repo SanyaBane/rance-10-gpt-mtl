@@ -80,9 +80,9 @@
 49680	Rance	だる顔	「あぁ……なんかいたな、そういうの。	「Ah... Yeah, there were those kinds of people.
 49681	+		　ウルザちゃんのファンクラブか」	　Your fan club.」
 
-49682	Urza Pranaice	基本	「そういうわけでは……	「Not exactly...
-49683	+		　今は、あちこちいろんな所に散らばって、	　Right now they're scattered in various places,
-49684	+		　私個人の情報網みたいな形になってくれています」	　forming something like my personal information network.」
+49682	Urza Pranaice	基本	「そういうわけでは……	「Not exactly... Right now they're scattered
+49683	+		　今は、あちこちいろんな所に散らばって、	　in various places, forming something
+49684	+		　私個人の情報網みたいな形になってくれています」	　like my personal information network.」
 
 49685	Rance		「で、テストの問題用紙をパチってきたってわけか。	「So you swiped the test papers.
 49686	+		　どんなのだ？」	　What are they like?」
@@ -91,15 +91,15 @@
 
 49688	Rance	だる顔	「……いや、いらん。テストなんか見る気も起きん」	「...No, not needed. No interest in looking at tests.」
 
-49689	Urza Pranaice	基本	「そうですか。一読しましたが……	「I see. I read it once but...
-49690	+		　これくらいなら、だいたい解けると思います。	　I think I can solve most of this level.
-49691	+		　問題は違っても、難易度は変わらないでしょうし」	　Even if the questions differ, the difficulty should be similar.」
+49689	Urza Pranaice	基本	「そうですか。一読しましたが……	「I see. I read it once but... I think I can
+49690	+		　これくらいなら、だいたい解けると思います。	　solve most of this level. Even if the questions
+49691	+		　問題は違っても、難易度は変わらないでしょうし」	　differ, the difficulty should be similar.」
 
 49692	Rance	だる顔	「むう、流石だが……」	「Muu, as expected but...」
 
-49693	Urza Pranaice	真剣	「魔法通信機を持ち込んで、	「I'll bring a magic communicator
-49694	+		　ツォトンの居場所を送信します。	　and send Zedong's location.
-49695	+		　暗号化しますが、千鶴子様なら解読できます」	　I'll encrypt it, but Lady Chizuko should be able to decode it.」
+49693	Urza Pranaice	真剣	「魔法通信機を持ち込んで、	「I'll bring a magic communicator and send
+49694	+		　ツォトンの居場所を送信します。	　Zedong's location. I'll encrypt it, but Lady
+49695	+		　暗号化しますが、千鶴子様なら解読できます」	　Chizuko should be able to decode it.」
 
 49696	Rance		「いかん。いかんいかんいかん。	「No. No no no.
 49697	+		　そんな危険な役、ウルザちゃんにやらせられるか。	　I can't let Urza-chan take such a dangerous role.
@@ -110,9 +110,9 @@
 
 49701	Rance	だる顔	「むう……他にいないのか」	「Muu... No one else?」
 
-49702	Urza Pranaice	基本	「千鶴子様は、さっきも言った、居場所のデータを	「Lady Chizuko needs to receive the location data as mentioned...
-49703	+		　受け取って頂かなくてはなりませんし……	
-49704	+		　マジック様には、無理をして欲しくないですから」	　And I don't want to push Magic-sama.」
+49702	Urza Pranaice	基本	「千鶴子様は、さっきも言った、居場所のデータを	「Lady Chizuko needs to receive the
+49703	+		　受け取って頂かなくてはなりませんし……	　location data as mentioned... And I
+49704	+		　マジック様には、無理をして欲しくないですから」	　don't want to push Magic-sama.」
 
 49705	Rance	真剣	「俺にはウルザちゃんもたいして変わらないように	「To me you and Urza-chan don't seem that different
 49706	+		　見えるがな」	　though.」
@@ -129,9 +129,9 @@
 49712	Rance	だる顔	「ええい、うるさいぞ。	「Ugh, shut up.
 49713	+		　そういう話はまた今度だ」	　We'll talk about that another time.」
 
-49714	Urza Pranaice	基本	「はい、総統閣下。	「Yes, Supreme Leader.
-49715	+		　じゃあ、ツォトンは……お願いします。	　Then, about Zedong... please handle it.
-49716	+		　……あ。一応、私も助けてくれると嬉しいですね」	　...Ah. It would make me happy if you helped me too, of course.」
+49714	Urza Pranaice	基本	「はい、総統閣下。	「Yes, Supreme Leader. Then, about Zedong...
+49715	+		　じゃあ、ツォトンは……お願いします。	　please handle it. ...Ah. It would make me
+49716	+		　……あ。一応、私も助けてくれると嬉しいですね」	　happy if you helped me too, of course.」
 
 49717	Rance	真剣	「ふん」	「Hmph.」
 

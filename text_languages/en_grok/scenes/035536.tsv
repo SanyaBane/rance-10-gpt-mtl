@@ -1,12 +1,12 @@
 # 35536	t２１３／眠ってしまった	
 
-264524	?		このイベントは、ワーグに近寄る途中、ワーグとの戦闘前、ワーグとの戦闘後の	This event occurs either while approaching the Warg, before battle with the Warg, or after battle with the Warg,
-264525	+		どれかの状態でランスが眠ってしまった場合に発生します	if Rance falls asleep in any of these states.
+264524	?		このイベントは、ワーグに近寄る途中、ワーグとの戦闘前、ワーグとの戦闘後の	This event occurs either while approaching the
+264525	+		どれかの状態でランスが眠ってしまった場合に発生します	Warg, before battle with the Warg, or after battle
 264526	+		　	
-264527	+		ランス・・うう・・駄目だ、ねむい・・ばたん	Rance... ugh... no good, I'm sleepy... *collapse*
-264528	+		・・暗転	...Screen goes dark.
-264529	+		そこにワーグ（服を着ている）、そこにケイブワン、ケイブニャンが現れる	There appears a clothed Warg, alongside Kaybwan and Kaybnyan.
-264530	+		よくやったと褒める、どうする・・殺す	They praise 'Well done.' What will you do... kill them?
-264531	+		そうだね、邪魔な連中だから寝ているうちに殺してしまおう。	That's right, they're pesky, so let's kill them while they're asleep.
-264532	+		ぐさっ	*stab*
-264533	+		＜ゲームオーバー＞	<Game Over>
+264527	+		ランス・・うう・・駄目だ、ねむい・・ばたん	with the Warg, if Rance falls asleep in any of
+264528	+		・・暗転	these states. Rance... ugh... no good, I'm sleepy...
+264529	+		そこにワーグ（服を着ている）、そこにケイブワン、ケイブニャンが現れる	*collapse* ...Screen goes dark. There appears a
+264530	+		よくやったと褒める、どうする・・殺す	clothed Warg, alongside Kaybwan and Kaybnyan.
+264531	+		そうだね、邪魔な連中だから寝ているうちに殺してしまおう。	They praise 'Well done.' What will you do... kill
+264532	+		ぐさっ	them? That's right, they're pesky, so let's kill
+264533	+		＜ゲームオーバー＞	them while they're asleep. *stab* <Game Over>

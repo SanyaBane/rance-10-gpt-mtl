@@ -18,8 +18,8 @@
 21745	Arios Theoman	基本	「……………………」	「...」
 
 21746	-		既に、人類と魔物の世界の境界としての	In a corner of a fortress that had long since lost
-21747	+		役割を失って久しい砦の一角で、	its role as the border between man and the world of monsters,
-21748	+		アリオスは静かに目を伏せ、うずくまっていた。	Arios crouched there, eyes quietly lowered.
+21747	+		役割を失って久しい砦の一角で、	its role as the border between man and the world of
+21748	+		アリオスは静かに目を伏せ、うずくまっていた。	monsters, Arios crouched there, eyes quietly lowered.
 
 21749	Cola~		（そうしていても、もう眠れないくらいまで	（Even sitting like that, he's worn so thin
 21750	+		　磨り減ったか……そろそろダメですかね）	he can't even sleep now... about done for, I'd say.）
@@ -75,9 +75,9 @@
 
 21780	Kaybwan		「ケイブリス様からのお便りお届けわん」	「Delivering a message from Kayblis-sama, woof.」
 
-21781	Kaybnyan	笑顔	「にゃ！　そうだった。	「Nya! Right, that's it.
-21782	+		　人間の、勇者でありながら魔軍への手助け、	A human -- a Hero, no less -- lending the Monster Army a hand!
-21783	+		　あっぱれごくろー！」	Splendid! Good work, nya!」
+21781	Kaybnyan	笑顔	「にゃ！　そうだった。	「Nya! Right, that's it. A human
+21782	+		　人間の、勇者でありながら魔軍への手助け、	　-- a Hero, no less -- lending the Monster
+21783	+		　あっぱれごくろー！」	　Army a hand! Splendid! Good work, nya!」
 
 21784	Kaybwan	講釈たれ	「魔軍にかもーん、だって。	「'Come join the Monster Army,' he says.
 21785	+		　幹部にしてくれるらしいわん。すげえ」	They'll even make you an officer, apparently, woof. Sweet.」
@@ -131,9 +131,9 @@
 
 21813	Kayblis		「おごっ、ぐあああぁっ！」	「Gllk, gwaaaah!」
 
-21814	-		アリオスは避けることもせず、	Arios didn't so much as dodge --
-21815	+		頭上に振り下ろされた指を切断してすり抜け、	he sheared clean through the fingers crashing down overhead, slipped past,
-21816	+		巨腕を足がかりに頭部へ駆け上がっていく。	and ran up the giant arm like a foothold, straight for the head.
+21814	-		アリオスは避けることもせず、	Arios didn't so much as dodge -- he sheared clean through
+21815	+		頭上に振り下ろされた指を切断してすり抜け、	the fingers crashing down overhead, slipped past, and ran
+21816	+		巨腕を足がかりに頭部へ駆け上がっていく。	up the giant arm like a foothold, straight for the head.
 
 21817	Kayblis		「う、お、おおおぉっ！	「Uh, gah, nooooo!
 21818	+		　ま、待てッ…………！」	W-wait, WAIT--!」
@@ -142,9 +142,9 @@
 
 21820	Kayblis	怒り	「が、ひゅっ…………おれ、さまの……っ……！」	「Gh, hkk... I... the great... my...!」
 
-21821	-		ケイブリスの巨体が墜ち、城全体が揺れる。	Kayblis's huge frame crashed down, shaking the whole castle.
-21822	+		魔血魂へと姿を変えたところに、	The moment it became a Demonic Blood Soul,
-21823	+		躊躇なくエスクードソードの切っ先が落ちた。	the Escudo Sword's tip fell without hesitation.
+21821	-		ケイブリスの巨体が墜ち、城全体が揺れる。	Kayblis's huge frame crashed down, shaking the
+21822	+		魔血魂へと姿を変えたところに、	whole castle. The moment it became a Demonic Blood
+21823	+		躊躇なくエスクードソードの切っ先が落ちた。	Soul, the Escudo Sword's tip fell without hesitation.
 
 21824	Cola	基本	「あ、終わりました？　さすが刹那モードですねー。	「Oh, all done? That's the Instant Mode for you.
 21825	+		　まあ、前もナイチサ相手に半殺しでしたし、	Well, you beat Nighcisa half to death last time as well,
@@ -157,9 +157,9 @@
 
 21830	Arios Theoman		「人類側か…………それなら、一箇所しかないな」	「With the humans, then... In that case, there's only one place he'd be.」
 
-21831	Cola	スマイル	「ま、そですね。	「Mm, that's right.
-21832	+		　未覚醒だからって、魔王を人間みたいに扱うとか。	Treating the Demon King like some mere human just because he's yet to awaken...
-21833	+		　ちょっと意味分かりませんよ。ねぇ勇者様」	I really don't get it at all. Do you, Hero-sama?」
+21831	Cola	スマイル	「ま、そですね。	「Mm, that's right. Treating the Demon King like
+21832	+		　未覚醒だからって、魔王を人間みたいに扱うとか。	　some mere human just because he's yet to awaken...
+21833	+		　ちょっと意味分かりませんよ。ねぇ勇者様」	　I really don't get it at all. Do you, Hero-sama?」
 
 21834	Arios Theoman	基本	「それも、全て……斬るだけだ」	「That too, all of it... I'll just cut it all down.」
 
@@ -292,8 +292,8 @@
 21910	-		剣を突き出した体勢のまま、	Still holding the stance of his outstretched thrust,
 21911	+		アリオスはその表情に、徐々に感情を蘇らせていた。	Arios felt feeling seep slowly back into his face.
 
-21912	-		姿は、ボロボロだった。	His body was in tatters.
-21913	+		度重なる戦闘と魔王の一撃とで深く傷ついていたが、	Battle upon battle and the Demon King's one blow had cut him deep,
+21912	-		姿は、ボロボロだった。	His body was in tatters. Battle upon battle and
+21913	+		度重なる戦闘と魔王の一撃とで深く傷ついていたが、	the Demon King's one blow had cut him deep,
 21914	+		両目の光は強い。	but the light in both his eyes burned strong.
 
 21915	Rance	怒り	「こ、の……クソ勇者、がっ…………！	「Y-you... damn Hero...!
@@ -373,8 +373,8 @@
 21961	Arios Theoman	抜刀	「何…………？」	「...What?」
 
 21962	Cola	天使モード	「ルドラサウム様は、する事がなくてヒマなんです。	「Rudrasaum-sama has nothing to do. He's bored.
-21963	+		　この地上の生物の営みを	Watching the goings-on of the creatures down here
-21964	+		　眺めて過ごすくらいしかすることないんで」	is just about the only thing left for him to pass the time with.」
+21963	+		　この地上の生物の営みを	　Watching the goings-on of the creatures down here is just
+21964	+		　眺めて過ごすくらいしかすることないんで」	　about the only thing left for him to pass the time with.」
 
 21965	Cola		「その無聊を慰める為、スリリングな展開を作るのが	「And to ease that boredom, cooking up thrilling little turns of events --
 21966	+		　私たち、神の仕事でしてね」	that's the work of us gods, you see.」
@@ -382,9 +382,9 @@
 21967	Arios Theoman	抜刀／絶望	「それが、勇者と……魔王だ、っていうのか……？	「So that's what the Hero and... the Demon King are, then...?
 21968	+		　そんな、そんなもの、が……」	Something -- something like that...」
 
-21969	Cola	天使モード	「はい。正確には、その仕事のひとつ、ですけどね。	「Yes. One of those jobs, to be exact.
-21970	+		　今回は評判いいですよ。	And this round's been very well received.
-21971	+		　そりゃーもう、どこもかしこも阿鼻叫喚ですし」	Well, of course -- it's sheer screaming pandemonium wherever you look.」
+21969	Cola	天使モード	「はい。正確には、その仕事のひとつ、ですけどね。	「Yes. One of those jobs, to be exact. And this
+21970	+		　今回は評判いいですよ。	　round's been very well received. Well, of course -- it's
+21971	+		　そりゃーもう、どこもかしこも阿鼻叫喚ですし」	　sheer screaming pandemonium wherever you look.」
 
 21972	Arios Theoman	抜刀／絶望	「せ、世界は……平和に、ならないのか……？」	「Th-then the world... it'll never know peace...?」
 
@@ -439,9 +439,9 @@
 22001	-		ランスと健太郎、美樹は死に、	Rance, Kentarou, and Miki were dead,
 22002	+		アリオスは二度と立ち上がれない。	and Arios would never rise to his feet again.
 
-22003	-		それを契機にしたかのように、	As if taking that for their cue,
-22004	+		膨大な数の魔物が発する鬨の声が、	the war-cry of a vast horde of monsters
-22005	+		人類最後の砦……ランス城に響こうとしていた。	was rising to echo through humanity's last stronghold... Rance Castle.
+22003	-		それを契機にしたかのように、	As if taking that for their cue, the war-cry of a
+22004	+		膨大な数の魔物が発する鬨の声が、	vast horde of monsters was rising to echo through
+22005	+		人類最後の砦……ランス城に響こうとしていた。	humanity's last stronghold... Rance Castle.
 
 22006	-		…………	...
 

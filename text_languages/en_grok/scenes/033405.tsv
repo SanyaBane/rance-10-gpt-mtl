@@ -61,9 +61,9 @@
 
 236693	Mix Tou	基本	「うわっ、今日も溜まり場になってる」	「Whoa, it's turned into a gathering spot again today.」
 
-236694	-		ミックスの言う通り、	Just as Mix said,
-236695	+		あなたとリセットの部屋は何故か集合所と化し、	your and Reset's room had somehow become a meeting place,
-236696	+		夜になるにつれて皆が後から集まりだしていた。	and as night fell more people kept arriving.
+236694	-		ミックスの言う通り、	Just as Mix said, your and Reset's room
+236695	+		あなたとリセットの部屋は何故か集合所と化し、	had somehow become a meeting place, and
+236696	+		夜になるにつれて皆が後から集まりだしていた。	as night fell more people kept arriving.
 
 236697	Rocky Bank	楽	「はーい、ご飯できただすよー」	「Heeere, dinner's ready~」
 
@@ -90,8 +90,8 @@
 236710	Hero Helman		「本当に何も出来ず負けちゃって、	「I really couldn't do anything and lost,
 236711	+		　それが悔しくってさ修行してたんだ」	　and I was so frustrated I went training.」
 
-236712	Lelikov Helman		「へへへ、ヒーローが修行するなんて、	「Hehehe, Hero training is really rare.」
-236713	+		　本当に珍しいんだよ」	
+236712	Lelikov Helman		「へへへ、ヒーローが修行するなんて、	「Hehehe, Hero
+236713	+		　本当に珍しいんだよ」	　training is really rare.」
 
 236714	Hero Helman		「うん、あのね……	「Yeah, you see......
 236715	+		　試合後にアレキサンダーさんに言われたんだ」	　After the match Alexander-san told me」
@@ -100,8 +100,8 @@
 236717	+		　ちゃんと強くなりなさい、	　you need to get properly strong,
 236718	+		　君にはそれだけの力があるって……」	　you have that much potential......」
 
-236719	Hero Helman		「そっかー、そうだよねーって……	「I see, yeah......
-236720	+		　いい人だから志津香ねーちゃんは	　Since he's a good person, nothing happened to Shizuka nee-chan,
+236719	Hero Helman		「そっかー、そうだよねーって……	「I see, yeah...... Since he's a good person,
+236720	+		　いい人だから志津香ねーちゃんは	　nothing happened to Shizuka nee-chan,
 236721	+		　何もされなかったけど、もし悪い人だったら……」	　but if it had been a bad person......」
 
 236722	Hero Helman		「うん、だからオイラ、	「Yeah, so I
@@ -182,9 +182,9 @@
 236772	+		　怒濤の攻撃も全て撃ち落とされます！	　but every fierce attack is shot down!
 236773	+		　まるで乱義選手の周りに結界があるかの如く！」	　As if a barrier surrounds Rangi!」
 
-236774	Copandon Dott	基本	「その場から一歩も動かん乱義から、	「Arrows flying rapidly from Rangi who doesn't move a step,
-236775	+		　バシュンバシュンと矢が飛んでいく光景は、	　that sight was quite something.」
-236776	+		　中々すごいもんがあったで」	
+236774	Copandon Dott	基本	「その場から一歩も動かん乱義から、	「Arrows flying rapidly from
+236775	+		　バシュンバシュンと矢が飛んでいく光景は、	　Rangi who doesn't move a step,
+236776	+		　中々すごいもんがあったで」	　that sight was quite something.」
 
 236777	Shuri Seihajuu Nagasaki	ダイジェスト	「そして、いつしか攻めていた筈の	「And before long the one who was attacking,
 236778	+		　鎌女選手が弓矢の猛攻に防戦一方に！」	　Kama Woman, was forced into a purely defensive struggle against the arrow barrage!」
@@ -286,9 +286,9 @@
 236844	+		　帰りますの書き置きだけが残され、	　'I have business so I'm going home' remained,
 236845	+		　これにより早雲選手の不戦勝が決定」	　thus Souun wins by default.」
 
-236846	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「闘神都市はこの手の逃亡を	「Toushin City does not tolerate this kind of fleeing,
-236847	+		　絶対に許しません、	　and uses special magic to prevent it.」
-236848	+		　特殊な魔法を使って逃しません」	
+236846	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「闘神都市はこの手の逃亡を	「Toushin City does not tolerate
+236847	+		　絶対に許しません、	　this kind of fleeing, and uses
+236848	+		　特殊な魔法を使って逃しません」	　special magic to prevent it.」
 
 236849	Shuri Seihajuu Nagasaki		「ぜーーったい、ぜーーったい、	「Ab-so-lute-ly, ab-so-lute-ly,
 236850	+		　ぜーーーーーーーーーったい、	　ab-so-lute-ly

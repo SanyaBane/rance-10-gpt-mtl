@@ -16,16 +16,16 @@
 9885	+		　アニスはしょっぱく煮込んだ	　Anise likes daikon stewed until it's falling apart
 9886	+		　溶けかけおでんダイコンが好きです！」	　and salty!」
 
-9887	Free Cities Guard		「いえ、そうではなく……	「No, not that......
-9888	+		　アニス殿に、我が都市の将軍として、	　We would like Lady Anise to become the general of our city,
+9887	Free Cities Guard		「いえ、そうではなく……	「No, not that...... We would like Lady
+9888	+		　アニス殿に、我が都市の将軍として、	　Anise to become the general of our city,
 9889	+		　来て頂けないかと、都市長たっての願いで……」	　at the strong request of our mayor......」
 
 9890	Rance	真剣	「……正気か？	「......Are you sane?
 9891	+		　お前んとこの都市、更地にされるぞ」	　Your city will be flattened.」
 
-9892	Free Cities Guard	基本	「その辺りの噂は存じております。	「We are aware of those rumors.
-9893	+		　……実を申せば、ハニーの傭兵団と、	　......To be honest, we succeeded in making a long-term contract
-9894	+		　長期契約を結ぶことに成功しまして」	　with a Hanny mercenary band,」
+9892	Free Cities Guard	基本	「その辺りの噂は存じております。	「We are aware of those rumors. ......To be
+9893	+		　……実を申せば、ハニーの傭兵団と、	　honest, we succeeded in making a long-term
+9894	+		　長期契約を結ぶことに成功しまして」	　contract with a Hanny mercenary band,」
 
 9895	Free Cities Guard		「魔法の通じぬハニーの後ろから、	「so from behind the magic-immune Hannies,
 9896	+		　アニス殿には存分に魔法を撃ち込んで頂く……と」	　we would like Lady Anise to freely fire her magic......」
@@ -33,9 +33,9 @@
 9897	Rance		「ふーん、なるほどな。	「Hmm, I see.
 9898	+		　戦場に放り込む分には悪くない手だ」	　Not a bad plan for throwing her onto the battlefield.」
 
-9899	Free Cities Guard		「はい。聞けば、ゼスでは役職なしの徒弟扱いとか。	「Yes. I heard that in Zeth she is treated as an apprentice with no position.
-9900	+		　こちらではアニス様のお力を評価しておりまして、	　Here we highly value Lady Anise's power,
-9901	+		　出来うる限りの待遇を、と……」	　and will offer the best possible treatment......」
+9899	Free Cities Guard		「はい。聞けば、ゼスでは役職なしの徒弟扱いとか。	「Yes. I heard that in Zeth she is treated as an apprentice
+9900	+		　こちらではアニス様のお力を評価しておりまして、	　with no position. Here we highly value Lady Anise's
+9901	+		　出来うる限りの待遇を、と……」	　power, and will offer the best possible treatment......」
 
 9902	Rance	だる顔	「……で、なんで俺様まで呼ばれるんだ」	「......So why was I called too?」
 
@@ -122,17 +122,17 @@
 9954	-		そもそも……アニスは、	To begin with...... Anise
 9955	+		ゼスでなければ生まれて来れなかった。	could only have been born in Zeth.
 
-9956	-		あの魔力は生まれつきでね。	That magic power was inborn.
-9957	+		魔力を制御するアイテムが普及してなかったら、	If items to control magic power weren't widespread,
-9958	+		産声を上げた時の暴走で自分ごと消し飛んでた。	she would have blown herself up the moment she cried at birth.
+9956	-		あの魔力は生まれつきでね。	That magic power was inborn. If items to control
+9957	+		魔力を制御するアイテムが普及してなかったら、	magic power weren't widespread, she would have
+9958	+		産声を上げた時の暴走で自分ごと消し飛んでた。	blown herself up the moment she cried at birth.
 
 9959	-		その時はそれで事なきを得たが、	Somehow they managed to prevent disaster then,
 9960	+		一事が万事そのノリだ。	but everything after that was the same.
 9961	+		しかも、成長するに従って魔力は増した。魔力だけ。	Moreover, her magic power only grew stronger as she aged.
 
-9962	-		生まれは小さな村だったが……10才になる頃には、	She was born in a small village...... but by the time she was 10,
-9963	+		誰も近寄ろうとはしなかったそうだ。	no one would approach her.
-9964	+		親でさえ、近づきたくても近づけない。	Even her parents couldn't get close even if they wanted to.
+9962	-		生まれは小さな村だったが……10才になる頃には、	She was born in a small village...... but by the time
+9963	+		誰も近寄ろうとはしなかったそうだ。	she was 10, no one would approach her. Even her
+9964	+		親でさえ、近づきたくても近づけない。	parents couldn't get close even if they wanted to.
 
 9965	-		自分でも制御する手段を知らず……というか、	She didn't know how to control it...... or rather,
 9966	+		制御しようとせず。	she didn't even try.
@@ -142,15 +142,15 @@
 9969	+		いつ爆発するか分からんプチハニー爆弾を	they couldn't just let a tiny walking bomb
 9970	+		好き勝手させられるほどの度量はない。	that might explode at any time run wild.
 
-9971	-		離れの納屋に住んで、飯だって怖々届けられるだけ。	She lived in a detached barn, and even meals were delivered in fear.
-9972	+		まともな会話もできやしない。	She couldn't even have a normal conversation.
+9971	-		離れの納屋に住んで、飯だって怖々届けられるだけ。	She lived in a detached barn, and even meals were delivered
+9972	+		まともな会話もできやしない。	in fear. She couldn't even have a normal conversation.
 9973	+		虐待の意図はなくとも、そうせざるを得なかった。	It wasn't intentional abuse, but they had no choice.
 
 9974	-		そうなると……子供の方だって、不安定になる。	Naturally...... the child became unstable too.
 9975	+		感情が揺れれば、魔法の制御は更に難しくなる……	When emotions fluctuated, controlling the magic became even harder......
 
-9976	-		14歳の時に、ついにでかい暴走を引き起こした。	At 14 years old, she finally caused a major rampage.
-9977	+		魔法災害の報を受けて、軍と共に向かったのが……	The one who rushed there with the army upon receiving news of the magic disaster......
+9976	-		14歳の時に、ついにでかい暴走を引き起こした。	At 14 years old, she finally caused a major rampage. The one who rushed
+9977	+		魔法災害の報を受けて、軍と共に向かったのが……	there with the army upon receiving news of the magic disaster......
 9978	+		当時15歳、四天王になりたての千鶴子様だった。	was Lady Chizuko, who had just become one of the Four Lords at 15.
 
 9979	-		遠距離から本人を仕留めて沈静化させよう……	There were talks of sniping her from afar to calm it down......
@@ -215,9 +215,9 @@
 
 10016	Free Cities Guard	基本	「は？」	「Huh?」
 
-10017	Saias Crown	拙い	「そーなんだよなあ……千鶴子様も、周りも……	「Yeah, that's how it is...... Chizuko-sama and everyone around her......
-10018	+		　一般常識なんてすぐに身につくと思ったんだよ。	　I thought she'd pick up basic common sense right away.
-10019	+		　初めは、な……」	　At the beginning, anyway......」
+10017	Saias Crown	拙い	「そーなんだよなあ……千鶴子様も、周りも……	「Yeah, that's how it is...... Chizuko-sama and everyone
+10018	+		　一般常識なんてすぐに身につくと思ったんだよ。	　around her...... I thought she'd pick up basic common
+10019	+		　初めは、な……」	　sense right away. At the beginning, anyway......」
 
 10020	Rance	真剣	「それが今でも、味方殺しのへっぽこ最強魔女か」	「And yet she's still that clumsy strongest mage who kills her own allies.」
 
