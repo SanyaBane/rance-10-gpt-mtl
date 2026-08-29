@@ -64,8 +64,11 @@ export const BUCKETS = [
     "already", "wrapped",
 ];
 
-/** The two the Japanese decides on its own; the rest are for a person to read. */
-export const FIXABLE = ["sama", "already"];
+/** The ones the Japanese decides on its own; the rest are for a person to read. */
+export const FIXABLE = ["sama", "dono", "already"];
+
+/** Which suffix a bucket writes, where it writes one. */
+const SUFFIX = {sama: "-sama", dono: "-dono"};
 
 /**
  * The English name back to the Japanese it spells.
@@ -102,9 +105,26 @@ export const readNameIndex = async (lang) => {
     return {byEnglish};
 };
 
-/** Whether the Japanese calls this name with this suffix, katakana-run aware. */
-const calls = (japanese, names, suffix) =>
-    names.some(name => mentions(japanese, name + suffix));
+/**
+ * Whether the Japanese calls this name with this suffix, katakana-run aware.
+ *
+ * `mentions` guards the katakana end of a word and leaves the other alone,
+ * which is right for 様 and wrong for 殿: 殿下 is "Your Highness" and holds a
+ * 殿 that belongs to the word after it, so `リア殿` matches inside `リア殿下` and
+ * would answer a title with an honorific. No speech in the corpus does that
+ * today; the guard is here because the report is what the next pass reads.
+ */
+const calls = (japanese, names, suffix) => names.some(name => {
+    if (suffix !== "殿") {
+        return mentions(japanese, name + suffix);
+    }
+    for (let at = japanese.indexOf(name + "殿"); at >= 0; at = japanese.indexOf(name + "殿", at + 1)) {
+        if (japanese[at + name.length + 1] !== "下" && mentions(japanese.slice(at), name + "殿")) {
+            return true;
+        }
+    }
+    return false;
+});
 
 const classify = (speech, row, match, index, {byEnglish}) => {
     const [whole, title, name, possessive = ""] = match;
@@ -153,7 +173,12 @@ const classify = (speech, row, match, index, {byEnglish}) => {
         return {...finding, bucket: "sama", japaneseName};
     }
     if (calls(speech.japanese, names, "殿")) {
-        return {...finding, bucket: "dono", japaneseName};
+        return {
+            ...finding,
+            bucket: "dono",
+            japaneseName,
+            after: `${name}${SUFFIX.dono}${possessive}`,
+        };
     }
     return {...finding, bucket: "unpaired", japaneseName};
 };
@@ -246,7 +271,7 @@ export const holds = (before, after, fixes) => {
     const titles = (text) => (text.match(/\b(?:Lord|Lady)\b/g) ?? []).length;
     return after.length === before.length + grown
         && titles(after) === titles(before) - fixes.length
-        && !after.includes("-sama-sama")
+        && !Object.values(SUFFIX).some(suffix => after.includes(suffix + suffix))
         && !after.includes("\t")
         && after.startsWith(before.match(/^[\s　]*/)[0])
         && bracketsOf(after) === bracketsOf(before)
