@@ -250,7 +250,11 @@ Both reports over `en_grok`, before the passes and after.
 
 `after` is the state once the 91 of the last section were reverted; `bracket` was
 65 with them still wrapped and is 66 with the one gap the wrap had masked back in
-the open.
+the open. Both numbers are the state on the day these passes ran:
+`scripts/bake_speech_rows.js` has since taken `overflow` to 839 and `blank` to 2,
+and `bracket` to 72 -- six speeches that were filed under a worse class and came
+back into this one when it was fixed. [speech-gaps.md](speech-gaps.md) carries
+the current table.
 
 `bracket` emptied without `overflow` filling, which is the check that matters:
 the speeches left the report rather than moving to a worse class. `overflow` is

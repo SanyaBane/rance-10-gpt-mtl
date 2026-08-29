@@ -189,14 +189,23 @@ after them. Both were found by playing the game, and neither has a report to
 find them in the corpus, because a record is a number and two lines with no
 speech around it to be wrong about. A scene file has the game's own Japanese,
 the speaker from the bytecode and the row boundaries the `MSG` operands gave, so
-a row's English can be held against the row it sits on. **3346 speeches are
+a row's English can be held against the row it sits on. **3346 speeches were
 drawn in more lines than their window has**, which is the class a player cannot
-miss; `layOutSpeech` takes 2507 of them back and the other 839 hold more
-English than their rows can draw whatever the layout. 19 are shifted and 1331
-have a blank row where the game speaks. `docs/speech-gaps.md` is the write-up,
-including the shift it cannot see: both its signals need the wrong row to *look*
-wrong, so a misplaced sentence that reads plausibly where it landed is invisible
-and the count is a floor.
+miss, and 1331 more had a blank row where the game speaks.
+`scripts/bake_speech_rows.js` laid 4535 of them into the rows the bytecode gave
+them — `layOutSpeech` balances the same words across the same rows, and the
+count is never touched because it is the `MSG` operands. **839 are left**, and
+they hold more English than their rows can draw whatever the layout: those want
+shortening by meaning, by hand, and `--class=overflow` is the list.
+`docs/speech-gaps.md` is the write-up, including the shift it cannot see — both
+its signals need the wrong row to *look* wrong, so a misplaced sentence that
+reads plausibly where it landed is invisible and the 19 is a floor.
+
+That bake is also where a pass learns how much to touch. Asked of every speech
+it offered to rewrite 62 261 of 166 177, because the layout minimises the widest
+row and so disagrees with nearly every hand-made division that is perfectly
+fine. **A pass that rewrites what is not broken cannot be reviewed**, so its
+work list is the report's own findings and nothing else.
 
 The expensive mistake there was a false negative, and no run of the report could
 have shown it: **whether a speech fits its window was a flag on one class rather

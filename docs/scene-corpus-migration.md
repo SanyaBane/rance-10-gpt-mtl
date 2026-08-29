@@ -43,7 +43,9 @@ ago.
 | `42168774` | a re-extraction carries the scenes forward instead of the draft |
 | `15c8d53c` | the four reports read the scenes, and say which file to open |
 | `b05c7bcf` | the chunk shape dropped from the build, the chunk-era translator deleted |
-| this commit | **`gpt_outputs*/` deleted** — 4891 files, 76 MB, in git and nowhere else |
+| `1e6c56c5` | **`gpt_outputs*/` deleted** — 4891 files, 76 MB, in git and nowhere else |
+| `2d1baad7` | the v1.00 mapping called on purpose rather than paid for every run |
+| `caf5acc0`, `d4dfe066` | **the row layout baked** — 4535 speeches, 19826 rows, 2649 files |
 
 The reader's rule, in one line: **the speech decides and the row is written.** A
 speech with no English is left out whole, so its rows play in Japanese; every row
@@ -53,63 +55,41 @@ on one row of a bubble and Japanese on the next.
 
 ## Left to do, in the order worth doing it
 
-### 1. Bake the row layout
-
-3346 speeches are drawn in more lines than their window has and 1331 more have a
-blank row where the game speaks. `modules/SpeechRows.js` takes 2507 of the
-overflows back by laying the same words across the rows the bytecode gives them.
-
-Bake it into the `.tsv` rather than doing it in the reader, for the reason
-`CLAUDE.md` gives about the name repairs: a file must read the way a build of it
-reads. The bake is idempotent — laying out a laid-out speech was a no-op in
-1723 of 1723 when it was tried on the blank class — so re-running it and
-expecting no change is its own check.
-
-Two rules it must respect, both learned the hard way:
-
-- **lay out only the rows the game speaks on.** 954 speeches hold a row the game
-  itself left blank, and `m[6638]` positions text across the screen with twenty
-  full-width spaces. Filling those flattens the author's layout, and asking
-  `layOutSpeech` to fill them is what made 101 speeches look impossible to fit
-  where the real number is one.
-- **the undo is git, and there is no other.** This step used to say to bake
-  while the chunk files still existed, on the grounds that `npm run
-  extract-scenes` restores every English cell in one command. It never did:
-  that script filled the English column from `gpt_outputs*/`, which stopped
-  being the corpus at `1581d8e4`, so what it handed back was the chunk-era
-  English — 6388 of the tree's 269677 rows already said something else, and
-  restoring from it would have reopened 4972 bubbles. `extract_scenes` carries
-  the scenes forward now and the folders are deleted, so the only way back is a
-  commit. Commit the bake by itself, and check it by reading the result back.
-
-Verify by rendering and comparing the *effective* mapping — each number against
-the last assignment naming it, which is what alice-tools applies — not the file.
-`scripts/effective_map.js` is that comparison, and `docs/speech-brackets.md` is
-what it caught the last time a pass rewrote rows in bulk.
-
-### 2. Carry the format to `develop`
+### 1. Carry the format to `develop`
 
 The one thing that actually blocks future work. `develop` is still in the chunk
 format, and now that the folders are gone from this branch a "Refine
-translation" commit there cannot be merged here at all. Worse, and silently: **develop still spells the player's name literally on
-all 1504 lines where this branch restored `＜エール＞`**, and nothing in a merge
+translation" commit there cannot be merged here at all. Worse, and silently:
+**develop still spells the player's name literally on all 1504 lines where this
+branch restored `＜エール＞`**, and nothing in a merge
 would catch a commit putting one back — `SceneAcceptance` guards a translation
 coming in, not a corpus merge.
 
-### 3. The text repairs the report found
+### 2. The text repairs the report found
 
 | | | |
 |---|---|---|
-| speeches too long for any layout | 839 | shorten by meaning, by hand |
+| speeches too long for any layout | 839 | shorten by meaning, by hand: `find_speech_gaps --class=overflow` is the list |
 | ~~a 「 or 」 lost at a row boundary~~ | ~~3609~~ | **done** — 4972 speeches over five passes, [docs/speech-brackets.md](speech-brackets.md) |
 | a bracket on the wrong row of the right speech | 191 | 100 row patterns; the 21 largest are the game's own marks a row too early, the rest a decision about which words are quoted |
 | shifted English | 19 | by hand; 12 are one scene, `031792.tsv`, a letter whose English is fifteen rows of dots and wants translating |
 | a whole shifted run no report sees | 23 rows | `033355.tsv`, held out of the bracket rules by `SHIFTED_RUNS` |
 | untranslated scenario notes | 61 rows | decide whether they are wanted at all |
 
-The first wants doing after the bake, which moves it. The brackets deliberately
-went **before** it: they are written glued to a word, so a bake carries them
-along, and doing them first meant the bake starts from bubbles that close.
+The first is what the bake leaves behind. It laid 4535 speeches into the rows
+the bytecode gave them and took `overflow` from 3346 to 839 and `blank` from
+1331 to 2; what is left in `overflow` holds more English than its rows can draw
+whatever the layout, so the edit is fewer words rather than a different
+division. The brackets deliberately went **before** the bake: they are written
+glued to a word, so a bake carries them along, and doing them first meant it
+started from bubbles that close.
+
+What the bake taught, and it generalises past this migration: **a pass that
+rewrites what is not broken cannot be reviewed.** Asked of every speech rather
+than of the report's findings, it offered 62 261 speeches across 141 941 rows,
+almost all of it turning one good division into another, because the layout
+minimises the widest row and hand-made divisions rarely do. The work list has to
+be somebody's finding.
 
 ### Left open on purpose
 
@@ -149,10 +129,22 @@ copy taken before the change, and read the built `.ain` back for anything that
 matters:
 
 ```
-node scripts/regenerate_aai_txt.js          # build/regenerated.en_grok.ain.txt
+node scripts/regenerate_aai_txt.js && node scripts/effective_map.js save before
+... the edit ...
+node scripts/regenerate_aai_txt.js && node scripts/effective_map.js save after
+node scripts/effective_map.js diff before after
+
 node scripts/ain.js --out=build/scratch     # never into the game while testing
 alice ain dump -t -o built.txt build/scratch/Rance10.ain
 ```
+
+`scripts/effective_map.js` is that comparison, and the number to hold the answer
+against is the count of rows the edit touched. Equal is the answer; a number
+that went away or appeared is a finding whichever direction it went. Two passes
+have come out one short of their own edit count and both times the missing row
+was one the build renders identically either way -- 1622 rows edited against
+1620 changed for the brackets, 19 826 against 19 825 for the bake, where
+`m[252383]` is folded by `wrapAt` and the change fell inside the fold.
 
 The comparison is per line number against the *last* assignment naming it. The
 patch grew 5676 lines shorter when the reader landed, because reading by number

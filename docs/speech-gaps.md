@@ -40,13 +40,21 @@ Raising the budget from 0.9 to 0.95 once took `overflow` from 4469 to 3348, and
 90 of those 1121 speeches came back under `blank` and `bracket` for exactly that
 reason.
 
-| class | before | after | what it is |
-|---|---|---|---|
-| `shifted` | 18 | 19 | the English on a row belongs to a different row |
-| `overflow` | 3347 | 3346 | the speech draws in more lines than its window has |
-| `blank` | 1333 | 1331 | the game says something on a row and the English does not |
-| `bracket` | 3491 | 65 | the speech opens 「 or closes 」 in Japanese and not in English |
-| `untranslated` | 25 | 25 | no English anywhere in the speech |
+| class | before | after the brackets | after the bake | what it is |
+|---|---|---|---|---|
+| `shifted` | 18 | 19 | 19 | the English on a row belongs to a different row |
+| `overflow` | 3347 | 3346 | **839** | the speech draws in more lines than its window has |
+| `blank` | 1333 | 1331 | **2** | the game says something on a row and the English does not |
+| `bracket` | 3491 | 65 | 72 | the speech opens 「 or closes 」 in Japanese and not in English |
+| `untranslated` | 25 | 25 | 25 | no English anywhere in the speech |
+
+The third column is the five bracket passes, the fourth is
+`scripts/bake_speech_rows.js` laying 4535 speeches into their own rows. `bracket`
+going 65 to 72 across the bake is the filing rather than a regression: a speech
+that was overflowing **and** missing a bracket was only ever counted as
+overflowing, and seven stopped overflowing. Redistributing words cannot lose
+one -- the bake asserts the same word sequence comes back -- and the bracket
+question is asked of the speech, never of the row.
 
 `bracket` emptied without `overflow` filling, which is the check worth making
 after any pass like that: the speeches left the report rather than moving to a
@@ -72,18 +80,36 @@ the draft invented were enough to hide one.
 
 **overflow** is the one a player cannot miss: the speech is drawn in more lines
 than its window has, so the end of it runs off the box. `modules/SpeechRows.js`
-takes 2507 of them back by laying the same words out across the rows the
-bytecode gives them -- `ネルソン／キャライベントＣ` is three rows drawn in five,
-and balanced across those three it fits. The other 839 hold more English than
-their rows can draw whatever the layout, and want shortening by meaning, the way
-the synopsis panel's overlong captions do.
+took 2507 of them back by laying the same words out across the rows the bytecode
+gives them -- `ネルソン／キャライベントＣ` was three rows drawn in five, and
+balanced across those three it fits. `scripts/bake_speech_rows.js` wrote that
+into the scenes, so what is left in this class is the 839 that hold more English
+than their rows can draw whatever the layout, and want shortening by meaning the
+way the synopsis panel's overlong captions do.
 
-**blank** is the fork's own way of translating: it answered a whole utterance on
-the utterance's first row and left the rest empty, which is the same shape
-`modules/SceneTranslations.js` writes on purpose. What is in this class fits the
-window as it stands, so it is a bubble with a gap in it rather than one that runs
-off. 93 of them have that gap in the middle, where a player sees it; 47 more sit
-in `overflow`, which is worse in both ways at once.
+**Reading the 839 is one command**, and it is the hand-work list this report now
+exists for:
+
+```
+node scripts/find_speech_gaps.js --class=overflow          # all of them
+node scripts/find_speech_gaps.js --class=overflow --samples=0
+```
+
+Every line of it names the scene file and the `m[]` number, which is where the
+speech is edited. The layout is already the best division of those words: the
+fix is fewer words.
+
+**blank** was the fork's own way of translating: it answered a whole utterance
+on the utterance's first row and left the rest empty, which is the same shape
+`modules/SceneTranslations.js` writes on purpose. What was in this class fit the
+window as it stood, so it was a bubble with a gap in it rather than one that ran
+off -- 93 of them had that gap in the middle, where a player sees it. The bake
+filled them. The 2 left are the two the bake refuses, and both refusals are
+right. `032749.tsv` `m[173668]` is a drawn-out 「じーーー… over three rows
+answered in one word, so the layout would fill one row and leave the other two
+blank exactly as they are: the fix is a longer stare, which is somebody's
+decision. `033355.tsv` `m[230528]` sits inside the shifted run, where a layout
+would tidy somebody else's sentence into place.
 
 **bracket** used to be the largest class and is now the smallest that is a
 fault. The text is on its own row; a quotation mark fell off the end of one row
