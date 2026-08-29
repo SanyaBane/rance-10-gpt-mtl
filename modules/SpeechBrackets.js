@@ -177,7 +177,7 @@ const classify = (japanese, english) => {
  */
 const SHIFTED_RUNS = [{file: "033355.tsv", from: 230508, to: 230530}];
 
-const isShifted = (file, lineNumber) => SHIFTED_RUNS.some(run =>
+export const isShifted = (file, lineNumber) => SHIFTED_RUNS.some(run =>
     run.file === file && lineNumber >= run.from && lineNumber <= run.to);
 
 /** Worst first, which is also the order they are worth deciding in. */
