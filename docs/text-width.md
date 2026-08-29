@@ -7,8 +7,9 @@ off the screen edge -- so every place that has to fit, the synopsis rows and the
 measurement should be, and why the one the repository started with was wrong.
 
 The message window is the exception and was measured separately: it clips, at
-about 36 full-width characters, and the backlog clips earlier still.
-`docs/message-window.md` has the rulers that settled it. Where a panel loses the
+about 38.6 full-width characters, and the backlog clips earlier, at 35.4, which
+is the one a translation is actually held to. `docs/message-window.md` has the
+rulers that settled both. Where a panel loses the
 end of a caption off the screen, the window loses it silently at the frame --
 which is why the two are worth keeping apart in one's head.
 
@@ -145,12 +146,29 @@ the units never have to be thought about.
 wrapping hangs on it, and rewriting that wrap would rewrite the whole `en_grok`
 patch. The dialogue window itself is settled now — 24 full-width characters by
 three rows, and 31 by two for the `●…Ｅ` commands' window — in
-`docs/message-window.md`, along with what that wrap costs: its budget works out
-to 31.2 full-width characters, so 17.6% of the rendered English is wider than
-the window it is drawn in.
+`docs/message-window.md`, along with what that wrap costs: held against the
+backlog's measured edge, 2279 of the 10 576 messages a build folds would have
+been drawn whole, and folding on `gameTextWidth` instead would take 2280 of
+those folds away without putting a row past that edge.
 
 One thing from there that applies to any panel: **the tracking is per layout.**
 `TRACKING` here is the synopsis panel's `字間隔 4` at font 48. The message window
 says `文字間隔 -2` at font 57, which is negative, and measuring it with the
 default overstates every line by an eighth of a character. `trackingFor` exists
 for exactly that.
+
+That is worth more than a convenience, because it is the whole of one puzzle
+this method left behind. Four rulers -- full-width digits, English, dots and `i`
+-- stopped at one place in the backlog and disagreed by 27% about how wide that
+place was, which read as `gameTextWidth` not describing a window across
+character classes at all. They had been quoted in the ordinary window's tracking
+while standing in the backlog's; read in the right one they agree to about 5%,
+and `docs/message-window.md` has the table.
+
+**About 5%, and not to the character.** A later run says which way the remainder
+goes: at one edge a row of dots measuring 35.60 is cut where a row of `M`
+measuring 35.61 is drawn whole, so wide glyphs are overstated a little and
+narrow ones understated. English falls between, about 1.4% narrow -- the box
+that draws 36 full-width digits stops English at 35.4. So a panel settled by a
+ruler wants the ruler written in the class the panel actually carries, and a
+couple of percent of margin on top of the reading.

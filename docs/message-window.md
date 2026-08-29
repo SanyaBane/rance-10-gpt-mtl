@@ -85,11 +85,13 @@ coordinates are all read from this part, and the row count from the scroll
 bar's `表示数`. The box is therefore the number of characters in the
 placeholder's first line, and that line was thirty-three full-width digits.
 
-Which is checkable, and this commit checked it: widened to thirty-six, the
-backlog drew a row of 34.15 whole -- a width a box of thirty-three could not
-have held. A row of 35.87 is still cut, so the edge now sits between 35.23 and
-35.87. One measurement on one English row, and the character-class caveat below
-applies to it as much as to the rulers.
+Which is checkable, and a ruler of forty-five full-width digits checked it:
+widened to thirty-six, the backlog draws thirty-six of them and stops. The
+declaration is the box, to the character.
+
+What English does in that box is a different number, and it is below -- 35.4
+rather than 36.0, because `gameTextWidth` reads English about a percent and a
+half narrow against full-width digits.
 
 There is not much left to take: 105 leaves almost nothing to the left, and the
 scroll bar at 1254 stands about a character past where thirty-six ends.
@@ -122,6 +124,13 @@ starts at x=337 and its key-wait mark sits at x=1580, which makes a full-width
 character **40.1 px** at `フォントサイズ` 57 — that is 0.70 of the nominal size,
 so `フォントサイズ` is not the advance and cannot be used as one.
 
+A reading rather than a measurement, and about a percent generous: the key-wait
+mark need not sit flush against the last character it waits after, and the
+rulers below put the same division nearer 39.6. Everything in this section is
+within that percent either way; where it matters is that the numbers derived
+from 40.1 are the *designed* box, and the edge a row actually stops at was
+measured instead.
+
 At that scale:
 
 - **the ordinary window is (1440 − 470) / 40.1 = 24.2 characters** — its text
@@ -152,107 +161,122 @@ character.
 
 ## It clips, and the edge is measured
 
-Rulers over `ネルソン／キャライベントＣ`, built into the game and screenshotted in
-both windows: thirteen rows, four of them position rulers with a letter every
-fifth character and nine of them ordinary English grown to an exact width and
-labelled with it. The wrap had to be skipped for those rows — at 31.2 the build
-folds every ruler before the game can be asked anything.
+Rulers built into a scene and screenshotted in both windows. Two kinds: a run of
+full-width digits, which reads a box off directly because a full-width character
+is one unit in every metric here, and English rows grown to an exact width and
+labelled with that width at **both** ends -- so the reading is whether a row's
+closing bracket is on the screen rather than a count of glyphs off a screenshot.
+The wrap has to be skipped for those rows: the build folds every ruler before
+the game can be asked anything.
 
 **It clips. Nothing wraps at runtime.** No ruler moved onto a second line; each
 one simply stops. So a row wider than the window loses its tail rather than
 growing a line, and `docs/text-languages.md` was right.
 
-**The ordinary window draws to about 36 full-width characters, 1570 px.** Three
-rulers agree, which is what makes it a measurement rather than a reading:
+Three runs, and each answered what the one before could not. The first, over
+`ネルソン／キャライベントＣ` with the text area still at x=470, found the ordinary
+window stopping at 36.1 and the backlog somewhere between 30 and 33. The second
+widened the backlog's declared box and put one English row through it. The
+third, over `０２／スタート`, is the two tables below: both windows read after
+both moves, each in its own metric.
 
-| ruler | stops at | width |
+### The ordinary window: 38.4 to 38.8
+
+| ruler | width | drawn |
 |---|---|---|
-| `[40]`, `[44]`, `[48]` — three different rows | all three at the same word | 36.1 |
-| the `M` ruler | inside the eighth group | 36.7 |
-| full-width digits | about the 36th | 36.0 |
-| `[36]` | drawn whole | 33.3 |
+| forty-five full-width digits | -- | **38** of them |
+| `[W37.6]` | 37.60 | whole |
+| `[W38.0]` | 37.99 | whole |
+| `[W38.4]` | 38.39 | whole, closing bracket and all |
+| `[W38.8]` | 38.80 | cut; the last character drawn ends at 38.39 |
+| `[W39.2]` | 39.20 | cut; the last character drawn ends at 38.80 |
 
-Those rulers were read with the origin at 470, and what they found is the
-screen edge rather than a property of the window: 470 + 36.1 × 40.1 = 1918
-against a 1920-wide screen, which is arithmetic agreeing with three rulers to a
-fifth of a character. So the origin is what decides that edge, and moving it to
-390 buys two characters -- **the window draws to about 38.1 now**. Derived
-rather than measured: nobody has put a ruler in it since the move.
+So the edge is in **[38.39, 38.80)**. The 38.1 this file used to carry was
+arithmetic -- 1920 less the origin at 390, over 40.1 px a character -- and it is
+about 1.3% low, because that 40.1 was itself read off where the event window
+puts its key-wait mark rather than measured. These rulers make the same division
+nearer 39.6 px.
 
-**The backlog cuts earlier**, and it is therefore the binding constraint. A
-second run pinned it, with three English rows grown a character at a time so the
-cut would land mid-token rather than at a space — which is what made the first
-run's `[36]`…`[52]` all stop at the same word and say nothing finer:
+What the edge is a property of has not changed: 390 + 38.6 × 39.6 = 1919 against
+a 1920-wide screen. No layout in the `.pactex` tree gives the window a width, so
+what stops a row is the screen, and the origin is the whole of what decides how
+much of it the window gets.
 
-| row | width | what the backlog did |
+### The backlog: 35.4, and it is what binds
+
+| ruler | width | drawn |
 |---|---|---|
-| `[30]` | 29.99 | drawn whole |
-| `[32]` | 31.54 | cut after `walk`, losing two characters |
-| `[34]` | 33.95 | cut in the same place |
+| forty-five full-width digits | -- | **36** of them, the declared box exactly |
+| `[B34.6]` … `[B35.4]` | up to 35.39 | whole |
+| `[B35.6]` | 35.61 | cut; the last character drawn ends at 35.16 |
+| `[B35.8]` | 35.80 | cut; the last character drawn ends at 35.35 |
+| `[B36.0]` | 35.99 | cut through a character, at 35.54 |
 
-So the last character it draws ends at **30.58** and the first it does not
-begins at **31.10**. Call the edge 30.8. `wrapAt`'s budget of 31.2 is a hair
-past it: **1790 rows, 0.67%, lose a character or two there today.**
+**The edge is in [35.39, 35.54)** -- a quarter the width of the 35.23 … 35.87
+one row of the second run left, and it is what a budget is held to. The ordinary
+window is nowhere near binding: at any budget the backlog allows, the widest row
+the build emits is about 33.5 in the window's metric against the 38.4 above.
 
-That kills the headroom the ordinary window seemed to offer. Raising the budget
-to 33 would take the tails off 4360 rows in the backlog, to 35 off 7790. Lowering
-it to 30.5 would fold those 1790 instead, and a fold costs a fourth line that is
-cut at the bottom, which is worse than two characters at the right of a log
-nobody reads twice. **So the budget was left where it was**, and that was the
-measurement saying so rather than a preference.
-
-It held only while the box was thirty-three. The box is declared in the layout,
-widening it is a number, and once it was widened the budget followed -- see
-below.
-
-### One thing the rulers did not explain
-
-Four instruments stop at the same place on the screen and disagree by 27% about
-how wide that place is: the full-width digits say 33.0, the English rows 30.6,
-the dots 26.1, the `i` ruler 28.1.
-
-**The digits were right, and they were reading the box's own declaration.** The
-backlog's width is the character count of the placeholder in `SYS_通常テキスト`,
-and that placeholder was thirty-three full-width digits -- so the instrument that
-answered 33.0 was the one measuring in the same units the designer wrote in. The
-other three were measuring English, dots and `i` against a box declared in
-full-width digits, which is a class the font does not scale between.
-
-So `gameTextWidth` does not describe this window's proportions across character
-classes, and no model here reconciles them. The English rows are what this file
-quotes because the budget is applied to English and they answer in the units
-`wrapAt` uses. Anyone starting a third ruler run should know the other three
-instruments are not calibrated for it.
-
-Both numbers are far past the 24.2 the window is drawn for. Being over the
-designed width costs nothing until 36; the design is where Japanese sits
+Both are far past the 24.2 the window is drawn for. Being over the designed
+width costs nothing up to the edge; the design is where Japanese sits
 comfortably, not where the box ends.
+
+### What the four instruments were disagreeing about
+
+The first run left a puzzle this file recorded as unexplained: four rulers
+stopped at the same place in the backlog and disagreed by 27% about how wide
+that place was -- full-width digits 33.0, English 30.6, dots 26.1, `i` 28.1.
+
+The model is the tracking. All four were quoted in the **ordinary window's**
+metric, `文字間隔 -2` at font 57, while standing in the **backlog**, `字間隔 2`
+at font 40. That is 0.085 of a full-width character per character between them,
+which is nothing across thirty full-width glyphs and most of the width of a
+hundred dots. Read again in the metric of the window they were actually in:
+
+| instrument | quoted | characters | read again |
+|---|---|---|---|
+| full-width digits | 33.0 | 33 | **33.00** |
+| English | 30.6 | 56 | **32.74** |
+| dots | 26.1 | 100 | **32.28** |
+| `i` | 28.1 | 107 | **34.53** |
+
+Against a box of thirty-three. So `gameTextWidth` with the layout's own `字間隔`
+does describe this window across character classes, to about 5%, and the lesson
+is the one `trackingFor` already exists for: **a width quoted without saying
+which layout's tracking it is in is not a width.**
+
+What is left after that is real and small, and the third run's class rulers say
+which way it goes: a row of dots measuring 35.60 is cut where a row of `M`
+measuring 35.61 is drawn whole, so wide glyphs are still overstated a little and
+narrow ones understated. English falls between, about 1.4% narrow -- the box
+that draws 36 full-width digits stops English at 35.4. That is a correction to
+carry on the answer rather than a change to the model, because the question is
+only ever asked about English.
 
 ### What that settles about the budget
 
-The trade this file used to leave open — lower the budget to 24 — was the wrong
-direction: it would have converted rows that draw perfectly well into folded
-ones, and a fold costs a fourth line in a three-line window, which is cut at the
-bottom. Horizontal overflow is free to the edge of the box. Vertical overflow is
-not free at all.
+Lowering the budget toward 24 was always the wrong direction: it would convert
+rows that draw perfectly well into folded ones, and a fold costs a fourth line
+in a three-line window, which is cut at the bottom. Horizontal overflow is free
+to the edge of the box. Vertical overflow is not free at all.
 
-The ordinary window looks like it offers headroom, and the rows are there to
-take it:
+Where the rows sit, in the backlog's metric, over the 268 541 rows carrying
+English a build renders today:
 
 | row width | rows | |
 |---|---|---|
-| ≤ 24, the designed width | 213 822 | 80.1% |
-| 24 – 30 | 33 377 | 12.5% |
-| 30 – 31.2 | 3 757 | 1.4% |
-| **31.2 – 36** | **9 080** | **3.4%** — folded today, and the window would have drawn them |
-| > 36 | 6 959 | 2.6% |
+| ≤ 24, the designed width | 199 756 | 74.4% |
+| 24 – 35.4, over the design and inside the box | 60 486 | 22.5% |
+| > 35.4, past the backlog's edge | 8 299 | 3.1% |
 
-It became spendable when the backlog's box was widened, and the budget was
-raised to take it: `WRAP_SAFETY_MARGIN` is 0.95 rather than 0.9. Running the
-build's own wrap over the whole corpus puts that at 18 801 folded messages down
-to 13 944 -- a quarter of them gone -- with the widest row it emits at 35.1 in
-the backlog's metric, inside the 35.23 the backlog now draws to. Nothing is past
-the edge at 0.95. At 1.00, 3501 rows would be.
+The last row is what no budget reaches: those rows are folded, and shortening
+them by meaning is the only thing that would draw them in one line.
+
+**And there is no headroom left in the margin.** The widest row the build emits
+today is 35.19 against an edge of 35.39, so `WRAP_SAFETY_MARGIN = 0.95` already
+sits two tenths of a character inside the box: 0.96 puts 2 rows past it and 0.97
+puts 45. What is still on the table is the instrument rather than the margin,
+and the section below has that.
 
 ## The current English is wider than the window
 
@@ -263,19 +287,36 @@ the edge at 0.95. At 1.00, 3501 rows would be.
 
 The wrap in `modules/TextNormalization.js` breaks a line at
 `0.95 × getTextWidth(LONGEST_DIALOGUE_LINE)` — 0.9 until the backlog's box was
-widened. The table above was measured at 0.9 and with the ordinary window's
-origin still at 470, so read it as the state before both.
+widened. The table above was measured at 0.9, with the ordinary window's origin
+still at 470, and before `scripts/bake_speech_rows.js` laid 4535 speeches back
+into their rows, so read it as the state before all three. The spread that is
+current is the one in the section above.
 
 That it is measured in Meiryo, which is not the game's font, is the part worth
-knowing. The row these rulers were cut from measures 427.0 Meiryo against a
-budget of 421.7 and is folded; in the game's own font it is 34.15 against an
-edge of 35.23 and would have been drawn whole. The instrument that decides the
-fold is not the one that decides the clip.
+knowing, and with the margin settled it is the only thing left to gain. **The
+instrument that decides the fold is not the one that decides the clip.** Meiryo
+understates capital-heavy English by about a sixth and overstates narrow letters,
+so one budget over one corpus has to carry enough slack for the worst class of
+row -- and the rows that are not that class get folded for nothing. 2279 of the
+10 576 messages a build folds today would have been drawn whole.
 
-Handing `wrapAt` `gameTextWidth` instead is worth 2123 folds at the same edge --
-13 944 down to 11 821, with nothing past the edge either way. It wants a second
-reading of that edge first: 35.23 is one measurement of one English row, and the
-section above says why the other three instruments cannot check it.
+Handing `wrapAt` `gameTextWidth` takes those back, at the measured edge and
+without cutting anything:
+
+| | folds | speeches over their window | rows past 35.39 |
+|---|---|---|---|
+| `getTextWidth` × 0.95, today | 10 576 | 839 | 0 |
+| `getTextWidth` × 0.96 | 9 819 | 780 | 2 |
+| `getTextWidth` × 0.97 | 9 079 | 729 | 45 |
+| `gameTextWidth` ≤ 35.39 | **8 296** | **671** | **0** |
+
+2280 folds, and 168 of the 839 speeches `find_speech_gaps` reports as running off
+the window. The margin buys half of that and starts clipping to do it.
+
+Not a change to make casually: `docs/text-width.md` says why `getTextWidth` is
+still there, `modules/SpeechRows.js` and `modules/SceneAcceptance.js` both ask
+it the same question on purpose, and every row of `en_grok` would render again.
+But the measurement no longer leaves the question open.
 
 ## What a translation may do
 
@@ -299,9 +340,15 @@ shortens the text and not the speech. It is also not expressible today:
 `assemblePatch` in `modules/SceneTranslations.js` reads an empty English cell as
 "not translated yet" and leaves the line to the language underneath.
 
-**Keep a row inside the window.** Twenty-six full-width characters for the
-ordinary window since its origin moved to 390, twenty-four before that; the
-●…Ｅ lines get 31, which the scene file does not say.
+**Keep a row inside the window.** Two different numbers, and they are not the
+same rule. The *designed* width -- where Japanese sits comfortably and where the
+key-wait mark is -- is twenty-six full-width characters for the ordinary window
+since its origin moved to 390, twenty-four before that, and 31 for the ●…Ｅ
+lines, which the scene file does not say. Nothing is lost for being over it.
+
+What is actually lost is the tail of a row past the **edge**, and the backlog's
+is the one that binds: **35.4**. The window's own is 38.4, so a row that survives
+the backlog survives the window with three characters to spare.
 
 ## What acceptance checks
 
