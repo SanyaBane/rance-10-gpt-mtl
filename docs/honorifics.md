@@ -31,8 +31,8 @@ What is left after the first pass, and why each is left:
 
 | Bucket | Left | Why a person has to |
 |---|---|---|
-| `dono` | 184 | `殿` is `-dono`, and the corpus already writes it 184 times elsewhere. Its own pass. |
-| `unknown-name` | 102, now 78 | No table holds the name -- Terra, Rudrasaum, Osman. A missing row, not a missing substitution: `scripts/find_unnamed_terms.js` is the other half. Medusa and Pi-R turned out to be written down elsewhere and are closed below. |
+| `dono` | 184, now 0 | `殿` is `-dono`. Its own pass, and it has had it -- "The 殿 pass" below. |
+| `unknown-name` | 102, now 77 | No table holds the name -- Terra, Rudrasaum, Osman. A missing row, not a missing substitution: `scripts/find_unnamed_terms.js` is the other half. Medusa, Pi-R and Wass turned out to be written down elsewhere and are closed below. |
 | `unpaired` | 60 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. |
 | `followed-by-name` | 26 | The English name runs on past the match. |
 | `wrapped` | 16 | The address is split across two rows, so no row holds it and a substitution cannot see it. |
@@ -46,6 +46,40 @@ would have written "Thunder-sama Emperor" and "Fiend-sama Warg" 26 times. The
 guard does not ask whether the following word is a name a table holds: "Mouri"
 is in neither table and is the one that matters. **Any capitalised word after
 the name is a reason to stop.**
+
+## The 殿 pass
+
+**185 occurrences on 180 rows in 120 scenes**, and every one of them was read by
+hand before it was written -- which is what the bucket was waiting for. 殿 is not
+a second spelling of 様: it is what one soldier calls another and what an ally
+calls Rance, so the speaker matters in a way the 様 pass could take on trust.
+Every finding turned out to be the same shape -- `<name>殿` in the Japanese,
+"Lord"/"Lady <name>" in the English -- and `-dono` is what the corpus already
+wrote 184 times of its own accord. It writes it 369 times now.
+
+`殿下` is the trap the reading did not have to catch, because there is none in
+this bucket, and the guard is in `calls()` anyway: `mentions` protects the
+katakana end of a word and leaves the other alone, so `リア殿` matches inside
+`リア殿下` -- which is "Your Highness", a title, and answering it with an
+honorific would be the same class of error as "Thunder-sama Emperor".
+
+**One row was the reason to look at every row.** 「ドッス殿とワッス殿の二人は」
+came back as "Lord Doss and Lord Wass", and only Doss is in the name table --
+so the pass would have written "Doss-dono and Lord Wass" and left half a
+sentence converted, which is the fault `fix_honorifics_untabled.js` exists for.
+ワッス is not a guess either: it is Wass in `card_name_glossary.tsv` (as ワッス２,
+the card Id, which is why `readNameIndex` skips it), in the master list of
+`character_genders.md`, and six times in `summary_glossary.tsv`. It is now a row
+in `mistranslated_names.json` beside Doss, with no misspellings listed, so it
+renders nothing on its own -- checked -- and the pass can see it.
+
+That row cost ten new complaints from the name checker, and they are a real
+finding rather than noise: the corpus romanises the pair ドッスワッス as
+"Dossuwassu" and "Dosswass" on ten lines, where `summary_glossary.tsv` has said
+"Doss & Wass" all along. A different class, left for its own pass.
+
+  effective map: 180 changed, 0 gone, 0 added, against 180 rows written
+  overflow unmoved at 847 -- `-dono` is 165.75 units against `Lord ` at 155
 
 ## Two guards that were wrong first, and what they cost
 
