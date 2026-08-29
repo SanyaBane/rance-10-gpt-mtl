@@ -18,6 +18,18 @@
  * speech before anything is written, so a line number that moves stops the pass
  * rather than rewriting whatever now sits at it.
  *
+ * **Two of them romanise the title rather than translating it.** 雷帝 is the
+ * Thunder Emperor -- glossaries/summary_terms.tsv settles it and the corpus
+ * writes it that way on fourteen rows -- so 「雷帝様」 as "Lord Raitei" was in
+ * `unknown-name` rather than here only because "Raitei" is one word and no
+ * table spells it. The fix is the one this script already makes three rows
+ * above. The second of the two is licensed by a slur rather than by the word:
+ * a dying Alex Valse says 「らいてい、様……」 in hiragana, in a list where every
+ * name is broken the same way -- 「ウス、ピラ……さん」, 「さいあす、さん」 -- so the
+ * string that licenses it is the break. Those two names are still romanised on
+ * that row and the repair pass cannot reach them either, for the same reason
+ * the break gives; a different class, and left.
+ *
  * **Three of the twenty-five are not honorifics at all** and are left where they
  * are. 前四天王パパイア・サーバー, 四天王チョチョマン・パブリ and 魔王ランス carry no
  * 様 anywhere near them: "Lord" there is the translation of 四天王 and 魔王, which
@@ -48,10 +60,12 @@ const ROWS = [
     {file: "030395.tsv", line: 4876, was: "Lord Toshiba", is: "Toshiba-sama", japanese: "東芝様"},
     {file: "030616.tsv", line: 18767, was: "Lady Katyusha Bosch", is: "Katyusha Bosch-sama", japanese: "カチューシャ、さ、ま"},
     {file: "030616.tsv", line: 18772, was: "Lady Katyusha Bosch", is: "Katyusha Bosch-sama", japanese: "カチューシャさま"},
+    {file: "031008.tsv", line: 45365, was: "Lord Raitei", is: "Thunder Emperor-sama", japanese: "雷帝様"},
     {file: "031011.tsv", line: 45623, was: "Lord Thunder Emperor's", is: "Thunder Emperor-sama's", japanese: "雷帝様"},
     {file: "031017.tsv", line: 45965, was: "Lord Thunder Emperor", is: "Thunder Emperor-sama", japanese: "雷帝様"},
     {file: "031081.tsv", line: 49792, was: "Lord Thunder Emperor", is: "Thunder Emperor-sama", japanese: "雷帝様"},
     {file: "031084.tsv", line: 49863, was: "Lord Guan Yu", is: "Guan Yu-sama", japanese: "関羽さま"},
+    {file: "031109.tsv", line: 51702, was: "Lady Raitei", is: "Thunder Emperor-sama", japanese: "らいてい、様"},
     {file: "031927.tsv", line: 111496, was: "Lady Terra", is: "Terra-sama", japanese: "テラ様"},
     {file: "032200.tsv", line: 129219, was: "Lady Time Serachrolas", is: "Time Serachrolas-sama", japanese: "時のセラクロラス様"},
     {file: "032200.tsv", line: 129265, was: "Lady Time Serachrolas", is: "Time Serachrolas-sama", japanese: "時のセラクロラス様"},
