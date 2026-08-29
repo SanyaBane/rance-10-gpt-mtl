@@ -1,137 +1,38 @@
-﻿# Rance Series — Character Gender Reference
+﻿# Character genders, for pronouns
 
-Sources: AliceSoft Wiki (individual `Sex:` fields), VNDB (all 12 canon games).
-Purpose: fixing gender pronoun errors in `/gpt_outputs/` and `/gpt_outputs_v104/` JSON translations.
+Who is which gender. One of the four tables CLAUDE.md says to consult before
+writing an English proper noun, and the one `modules/CharacterGenders.js` reads:
+it takes the Master Alphabetical List below and nothing else -- four columns,
+keyed by the English name, which is the spelling 立ち絵名札マッピング情報 also uses,
+so a portrait resolves through the plate table into a key this can answer.
 
----
+Sources are the AliceSoft wiki's `Sex:` fields and VNDB across the twelve canon
+games. Where those disagree with the game, the game wins: `8_カードデータ.x` carries
+a 性別 column, and it is what settled Lassie.
 
-## ⚠ OPERATIONAL RULES — READ THIS FIRST AFTER EVERY COMPRESSION
+**Spellings are not settled here.** `glossaries/mistranslated_names.json` is the
+canonical table for those, and `glossaries/card_name_glossary.tsv` is the same for
+anything appearing in a card Id. A name carried in two tables is a name with two
+sources, so what belongs here is the gender -- and the notes below, which are the
+cases where reading the text would get it wrong.
 
-**1. NO SCRIPTS, NO SOFTWARE.**
-The user explicitly forbade any automation: "YOU ARE NOT ALLOWED TO WRITE ANY SCRIPTS", "DON'T USE ANY SOFTWARE". Use only the Read and Edit tools directly on each JSON file.
-
-**2. READ MANUALLY, WITH CONTEXT.**
-Each line is a continuation of the story from the previous line. You must keep that context to correctly identify pronoun errors (who is speaking, who is being spoken about).
-
-**3. PRIMARY GOAL = PRONOUN ERRORS.**
-Fix gender pronouns (he/she, him/her, his/hers) and also person/speaker mixups (you/me, she/you) when clearly wrong. Always check this reference file before fixing any pronoun.
-
-**4. SECONDARY GOAL = WRONG CHARACTER NAME SPELLINGS.**
-GPT sometimes mistranslates names. Fix these when spotted: e.g. "Kular" → "Kalar", "Lance" → "Rance", "Kululuku" → "Crook". Name spelling standard = VNDB / MiraHeze wiki.
-
-**5. DO NOT REFORMAT LINES.**
-Do not remove or add leading spaces, do not change punctuation or formatting. Only fix the translation content. "I asked you to correct the translation, not to reformat lines."
-
-**6. DO NOT STOP.**
-Process every file in `gpt_outputs/` sequentially, then every file in `gpt_outputs_v104/`. Do not wait for user confirmation between files.
-
-**7. UPDATE THIS FILE.**
-After significant progress, update the Task Progress section. This file is the source of truth for character genders — do NOT infer genders from translation context. Only update the character list if the user explicitly tells you a character's gender.
-
-**8. READ THIS FILE AND ALL USER MESSAGES AFTER EVERY COMPRESSION.**
-After each context compression event: (1) read this file; (2) read back everything the user wrote in the compressed portion — their corrections, commands, and feedback — and internalize them. If you find user instructions not yet recorded here, add them to the Past Mistakes table immediately. The compaction summary may miss specific corrections the user gave you mid-session.
-
-**9. DO NOT REMOVE TRANSLATOR'S NOTES.**
-Translator's notes in brackets — e.g., `[slang implying getting a bit aroused or flustered]` — must be preserved exactly as-is. User: "don't remove such notes, they have value." Never delete, replace, or move them.
-
-**10. WHEN NARRATING A FIX, STATE THE REASON — NOT THE ACTION.**
-Before each edit, write one sentence explaining WHY the change is needed (e.g. "Hornet is Female per reference", "GPT hallucinated 'Hawzell' for Hawzel", "Peruele is Female per character list"). Do NOT write what the diff already shows (e.g. "Changing X → Y"). The user: "don't comment on what you do, comment why you do that."
-
-**11. ONLY CHANGE `translatedEnglishLine` VALUES — NEVER TOUCH FILE STRUCTURE.**
-The only permitted change to any gpt_outputs JSON file is the text content of a `translatedEnglishLine` value. Never alter file encoding, line endings, indentation, field order, or any other structural aspect of the file. Specifically: **never use PowerShell `WriteAllText`, `Set-Content`, `Out-File`, or any other tool that rewrites the whole file** — this writes UTF-8 WITH BOM and corrupts the file format. The **Edit tool is the only permitted way to change file content**. If the Edit tool cannot match a string (e.g. due to special characters), leave that line alone — do NOT use any workaround that touches file structure.
-
-**12. ALWAYS CHECK THIS FILE BEFORE FIXING ANY PRONOUN.**
-Never fix a pronoun based on translation context alone. This file is the source of truth for character genders. User: "use the fucking REFERENCE FILE." If a character is not in this list, do not change their pronoun.
-
-**13. NAME STANDARD = VNDB / MiraHeze. NEVER ALTER A NAME THAT IS ALREADY CORRECT.**
-Do not change name spellings without checking VNDB. Do not "fix" names already at VNDB standard. Also check `mistranslated_names.json` when fixing name spellings — e.g. "Jiphtheria" is itself wrong; the correct form is "Diphteria".
-
-**14. DO NOT SPLIT SENTENCES ACROSS TWO LINES.**
-User: "don't mess with splitting sentences, you suck at it." If GPT merged two Japanese lines into one English translation and left the second line empty, leave it as-is. Do NOT split or redistribute content between lines.
-
-**15. WRITE EVERY USER COMMAND INTO THIS FILE IMMEDIATELY.**
-User: "I told you to write all commands I give you into the reference file." Add every instruction or correction here before continuing with any other work.
-
-**16. EXPLAIN EACH CHANGE INDIVIDUALLY — ONE SENTENCE PER EDIT.**
-User: "leave the explanation of the change for each individual change line." Do not batch multiple change explanations into one sentence. Write the reason immediately before each Edit call.
-
-**17. VALIDATE JSON AFTER EVERY EDIT.**
-User: "use json validation software to validate json file validity after your changes to every file." Run PowerShell `[System.IO.File]::ReadAllText($f, [System.Text.Encoding]::UTF8) | ConvertFrom-Json` after every Edit. Must use explicit UTF-8 encoding — default `Get-Content` garbles Japanese. If validation fails, fix immediately before moving on.
-
-**18. ONLY FIX UNAMBIGUOUS ERRORS — NEVER CHALLENGE PHRASING CHOICES.**
-User: "your goal is to fix UNAMBIGUOUS LOGICAL MISTAKES, not challenge vaguity of phrasing choices in the original translation." Only fix: wrong pronoun for a known character, wrong character name spelling. Never flag or alter phrasing that is merely suboptimal.
-
-**19. DO NOT USE SOFTWARE TO INVESTIGATE PAST CHANGES.**
-User: "don't fucking use ANY software". To check what you changed in a file, read the `.jsonl` transcript. Never run git diff, git log, git show, grep, or any other tool for this purpose.
-
-**20. CHECK KANA CAREFULLY — ヴ (V) ≠ ビ (B).**
-ヴィッチ = "Vitch" (derived from "witch"); ビッチ = "bitch". Always check the Japanese kana before assuming a romanization. Also: do not replace `...` with `---`.
-
-**21. DO NOT TREAT COMMON JAPANESE LOANWORDS AS CHARACTER NAMES.**
-マジック in context means "magic" (the concept), not the character "Magic the Gandhi". Only capitalize when the character is actually being addressed or named.
-
-**22. PRONOUN CHECK IS PRIMARY — DO NOT DO SEPARATE NAME-SWEEP PASSES.**
-User: "your main goal is the pronouns check — you were not supposed to do any extra actions specifically for name spelling corrections." Fix a name only when noticed incidentally during contextual reading. Never do a standalone replace_all name-correction pass.
-
-**23. GUARANTEE CONTEXTUAL REVIEW OF EVERY FILE.**
-Every file must be fully Read before any edits. A replace_all without a prior contextual Read does not count as a review. If you cannot confirm a file was properly reviewed, re-read it.
-
-**24. DO NOT ASK THE USER QUESTIONS ANSWERABLE FROM THE FILES.**
-User: "don't ask me such question, you have all the means necessary to answer it yourself." Check this file, the JSONL transcript, and the JSON files first. Only ask if genuinely impossible to determine otherwise.
-
-**25. FIX GPT MISSPELLINGS OF KNOWN NAMES WHEN SPOTTED.**
-- "Seel" / "Shiru" → "Sill" (シィル = Sill Plain)
-- シーラ = "Sheila" (not "Seel", "Shiela", "Shiru", or confused with Sill)
-- "Kaybliss" → "Kayblis"; "Howzel"/"Hauzel"/"Hawzell" → "Hawzel"
-- Always check the character list in this file for the correct spelling.
-
-**26. INCLUDE FULL CURLY-QUOTE PAIR IN EDIT TOOL STRINGS.**
-When editing inside a curly-quoted dialogue string (`"…"`), the old_string must include the closing `"` (U+201D) and the new_string must replicate it. Verify both opening `"` and closing `"` are present after the edit.
+A name this list does not hold is the normal case rather than a fault: the cast is
+far longer than the table, and `scripts/find_gender_gaps.js` is which speakers the
+dialogue names that this does not answer.
 
 ---
 
-## ⚠ PAST MISTAKES — HISTORICAL LOG
-
-| What I did wrong | Why it was wrong |
-|---|---|
-| Changed Galtia "his belly" → "her belly" based on context alone | Galtia is MALE per reference. Context made him seem female. |
-| Changed "Root Ari" → "Root Ali" | VNDB/MiraHeze standard is "Root Ari". |
-| Changed "Crook" → "Krukk" | "Crook Mofus" IS the VNDB name for クルックー. It was already correct. |
-| Removed leading spaces / changed spacing in translation lines | User: "I asked you to correct the translation, not to reformat lines." / "why are you butchering spaces?" |
-| Fixed pronoun without consulting this file | Led to wrong Galtia fix. |
-| Inferred character gender from translation context | This file is the source of truth — never learn genders from the text. |
-| Rewrote a two-line split into unnatural English | User: "don't butcher the lines." |
-| Did not read this file after context compaction | No excuse for skipping mandatory startup reads. |
-| Described edits by what changed, not why | User: "don't comment on what you do, comment why you do that." |
-| Split a line leaving second line without a subject | English needs a subject; result was grammatically broken. |
-| Added movement/action not in the Japanese | マリスは書類が詰まった引き出しから says nothing about going anywhere. Only translate what is in the source. |
-| Changed "Jiphteria" → "Jiphtheria" | "Jiphtheria" is wrong; correct is "Diphteria" per mistranslated_names.json. |
-| Used git / grep to investigate past changes | User: "don't fucking use ANY software". |
-| Rewrote whole file using PowerShell Set-Content | Corrupted file encoding. Only the Edit tool is permitted. |
-| Treated マジック as the character "Magic the Gandhi" | マジック is the Japanese loanword for the concept "magic". |
-| Did not write user instructions into this file immediately | Instructions got lost. Must be recorded before continuing any edits. |
-| Omitted closing curly quote in Edit tool old_string | Dropped the `"` from dialogue lines, corrupting the file. |
-| Did not re-read user messages after compaction | Compaction summary missed specific corrections. |
-| Removed translator's notes in brackets | User: "don't remove such notes, they have value." |
-| Bundled multiple change explanations into one sentence | User: "leave the explanation of the change for each individual change line." |
-| Confused ヴィッチ (Vitch) with ビッチ (bitch) | ヴ = V, ビ = B. Also introduced wrong `---` instead of `...`. |
-| Did not validate JSON after editing | Edits can silently corrupt JSON structure. |
-| Challenged phrasing choices in translations | User: "fix UNAMBIGUOUS LOGICAL MISTAKES, not challenge vaguity of phrasing choices." |
-| Did systematic replace_all name-spelling sweeps | Pronoun check was not performed on those files as a result. |
-| Claimed contextual review when files were only pattern-swept | Must guarantee every file was actually Read with context. |
-
----
-
-## ⚠ Special Cases
+## Special Cases
 
 | Character | Note |
 |---|---|
 | **Uesugi Kenshin** | Historical male — **FEMALE** in Rance universe. Biggest GPT error source. |
-| **Lexington** | Referred to as **MALE** throughout — use **he/him/his**. This row used to ask for "Lord Lexington" as well, and the corpus answered with "Lady Lexington" 32 times against 12; the title is gone either way, because レキシントン様 is `Lexington-sama` now. See `docs/honorifics.md`. |
+| **Lexington** | Referred to as **MALE** throughout — use **he/him/his** — even though the entity wearing the name for much of the story is Nimitz, a female human impersonating him. This row used to ask for "Lord Lexington" as well, and the corpus answered with "Lady Lexington" 32 times against 12; the title is gone either way, because レキシントン様 is `Lexington-sama` now. See `docs/honorifics.md`. |
 | **Kesselring** | **MALE** for the vast majority of the story. Use **he/him/his**; a sex change occurs late, but do not change pronouns unless you are certain the scene is post-change. This row used to ask for "Lord Kesselring" throughout — the dialogue picks no title at all now, and ケッセルリンク様 is `Kesselring-sama`, which is the one rendering that does not have to know which side of the change a scene is on. |
 | **RedEye** | Genderless — avoid gendered pronouns |
 | **Hanny** (generic) | Both sexes exist in the Hanny race |
-| **Magic the Gandhi** | Name doesn't signal gender — **FEMALE** |
+| **Magic the Gandhi** | Name doesn't signal gender — **FEMALE**. マジック on its own is the loanword for "magic", the concept — only read it as this character where somebody is named or addressed. |
+| **Gandhi** (the surname) | Three characters carry it and they are not one gender: Magic the Gandhi (Female), Sushinu the Gandhi (Female), Ragnarokarc Super Gandhi (Male). No sweep over the surname can be right for all three. |
 | **Sanakia Drelshkaf** | Uses ボク pronoun in Japanese (tomboy) — **FEMALE** |
 | **Babolat** | Looks like could be female — **MALE** |
 | **Caesar** | Golem guardian, Roman name — **MALE** |
@@ -150,6 +51,10 @@ When editing inside a curly-quoted dialogue string (`"…"`), the old_string mus
 | **Amades Kakades** | User-confirmed **MALE**. |
 | **Doss (Doessky)** | User-confirmed **MALE**. |
 | **Samezan** | User-confirmed **FEMALE**. |
+
+**ヴ is V and ビ is B.** ヴィッチ is a "Vitch", a word built on "witch"; ビッチ is
+"bitch". One kana apart, naming different things, so the kana decides the
+romanisation rather than the sound of the English.
 
 ---
 
@@ -642,49 +547,3 @@ When editing inside a curly-quoted dialogue string (`"…"`), the old_string mus
 - R01 = Rance 01, R02 = Rance 02, RIII = Rance 03, RIV = Rance IV
 - R41 = Rance 4.1, R42 = Rance 4.2, R5D = Rance 5D, RVI = Rance VI
 - SR = Sengoku Rance, RQ = Rance Quest, RIX = Rance IX, RX = Rance X
-
----
-
-## Task Progress
-
-**LAST STOPPED: 2026-07-20. Resume from `gpt_outputs/166410_166470.json`.**
-
-- [x] Build character gender reference
-- [ ] Scan gpt_outputs/ for gender errors and fix (4805 total files)
-  - **~3166 files sequentially reviewed** (up to 166470_166530.json — NOT inclusive, stop here)
-  - **Next file to read: `gpt_outputs/166410_166470.json`** (was mid-read, not yet edited)
-  - Within that file, lines 166380 and 166382 have Kanami using "her/she" for Lexington — must be fixed to "him/he" (Lexington = Male)
-  - Previous sessions covered 000000–158880 (see commit history for details)
-  - This session covered 158880–166410 sequentially, plus bulk honorific fixes (see below)
-
-  **BULK FIXES APPLIED this session (NOT sequential — may have missed pronoun errors in swept files):**
-  - Lord Hawzel → Lady Hawzel (all gpt_outputs/)
-  - Lord Seizel → Lady Seizel (all gpt_outputs/)
-  - Lord Hornet → Lady Hornet (all gpt_outputs/)
-  - Lord Kenshin → Lady Kenshin (15 files, 123xxx–253xxx range)
-  - Lord Kaybwan/Kaybnyan → Lady (19+ files, 135xxx–248xxx range)
-  - Lord Reset → Lady Reset (10 files, 112xxx–229xxx range)
-  - Lord Maris → Lady Maris (2 files)
-  - Lord Lia → Lady Lia (3 files)
-  - Lord Urza → Lady Urza (1 file)
-  - Lord Warg → Lady Warg (3 files)
-  - Lord Kiku → Lady Kiku (2 files)
-  - Lord Rizna → Lady Rizna (1 file)
-  - Lord Kiratoki → Lady Kiratoki (1 file)
-  - Lord Satella → Lady Satella (1 file)
-  - Lord Gandhi → reverted back to Lord Gandhi (see GANDHI NOTE below)
-  - Lord Lexington → Lord Lexington (kept as male throughout, see LEXINGTON NOTE below)
-
-  **IMPORTANT NOTES:**
-  - **GANDHI**: Two characters share the surname Gandhi: Magic the Gandhi (Female) and Ragnarokarc Super Gandhi (Male). Both are rulers of Zeth. **CANNOT do bulk replace.** Must read each file in context to identify which Gandhi is present before changing any honorific.
-  - **LEXINGTON**: User explicitly confirmed Lexington must be referred to as **MALE** throughout (he/him/his, Lord Lexington), even though the in-game entity is Nimitz (female human) impersonating him. Do not change to she/her.
-  - Files swept with bulk replace may still have individual pronoun errors — the sequential review will catch these when reached.
-  - Files 158880–166410 were both sequentially reviewed AND had bulk fixes. The sequential review is the authoritative pass.
-
-  **Key early fixes (sessions before this one):**
-  - Lucy (7038-39), Arcy (7242), Arlcoate (7823), Galtia (7886), Lei (8066-8082), Pi-R (8378, 8391), Willis (8913, 8922, 8931)
-  - Reverted: Galtia "his belly"→"her belly" (wrong), "Crook"→"Krukk" (wrong), "Root Ari"→"Root Ali" (wrong)
-
-- [ ] Scan gpt_outputs_v104/ for gender errors and fix (85 total files)
-  - Reviewed key files; 003290_003350.json fixed (Lady Hawzel), 004550_004610.json fixed (Housel→Hawzel, Hornet guy→Hornet)
-  - Remaining files likely need sequential review — low priority vs gpt_outputs/
