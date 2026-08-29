@@ -130,8 +130,8 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Character | Note |
 |---|---|
 | **Uesugi Kenshin** | Historical male — **FEMALE** in Rance universe. Biggest GPT error source. |
-| **Lexington** | Referred to as **MALE** throughout — use **he/him/his** and **Lord Lexington**. |
-| **Kesselring** | **MALE** for the vast majority of the story. Use **he/him/his** and **Lord Kesselring** throughout. A sex change occurs late but do not change pronouns unless you are certain the scene is post-change. |
+| **Lexington** | Referred to as **MALE** throughout — use **he/him/his**. This row used to ask for "Lord Lexington" as well, and the corpus answered with "Lady Lexington" 32 times against 12; the title is gone either way, because レキシントン様 is `Lexington-sama` now. See `docs/honorifics.md`. |
+| **Kesselring** | **MALE** for the vast majority of the story. Use **he/him/his**; a sex change occurs late, but do not change pronouns unless you are certain the scene is post-change. This row used to ask for "Lord Kesselring" throughout — the dialogue picks no title at all now, and ケッセルリンク様 is `Kesselring-sama`, which is the one rendering that does not have to know which side of the change a scene is on. |
 | **RedEye** | Genderless — avoid gendered pronouns |
 | **Hanny** (generic) | Both sexes exist in the Hanny race |
 | **Magic the Gandhi** | Name doesn't signal gender — **FEMALE** |
@@ -147,7 +147,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | **El Mofus** | **The player picks**, at ２部旅立ち: 選択_２択 between ルート：性別＝男 and ルート：性別＝女, kept as 主人公性別. There are an エール２男Ａ and an エール２女Ａ card for the same character. So El's 575 lines have to read either way — no he, no she, no "himself", and no "the young man". The player names El too, at the エール入力画面, which is why the dialogue writes ＜エール＞ rather than a name. |
 | **Mi Lordring** | Bishop of AL Church — **MALE** |
 | **Chochoman Publy** | Zeth Four Lord — **MALE** |
-| **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay" — fix to "Lord LeMay". |
+| **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay"; this row used to say to fix that to "Lord LeMay", and where the Japanese says ルメイ様 the answer is `LeMay-sama` rather than either title. |
 | **Kola** (Cola) | Male, but a big reveal at line ~21996 — use "Kola" or "the angel" before the reveal to avoid exposing gender. After reveal: he/him. |
 | **Yutin Fulz** | Copandon's secretary — **Hermaphrodite** (wiki: "Sex Hermaphrodite"). Use they/them or avoid gendered pronouns. |
 | **Amades Kakades** | User-confirmed **MALE**. |

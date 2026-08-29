@@ -106,10 +106,10 @@
 50874	Free Cities Guard	基本	「おおおおぉぉ！　遅れるな！」	「Oooooh! Don't fall behind!」
 
 50875	Zeth Mage Soldier		「ガード、マジック様に	「Guards, don't let a single finger
-50876	+		　指一本傷つけるんじゃないわよ！」	　touch Lady Magic!」
+50876	+		　指一本傷つけるんじゃないわよ！」	　touch Magic-sama!」
 
 50877	Boy		「かあちゃん！　早く！	「Mom! Hurry!
-50878	+		　マジック様が来てくれた！」	　Lady Magic came for us!」
+50878	+		　マジック様が来てくれた！」	　Magic-sama came for us!」
 
 50879	Woman		「ああ、あぁ、ありがたい……！	「Ah, aah, thank goodness...!
 50880	+		　助かった……！」	　We're saved...!」
@@ -171,7 +171,7 @@
 50915	-		ずた袋から寝ぼけまなこで出てきたのは、	Emerging with sleepy eyes from the burlap sack
 50916	+		ゼス最凶の魔法使い、アニス・沢渡だった。	was Zeth's most terrifying mage, Anise Sawatari.
 
-50917	Zeth Mage Soldier		「は！　おはようございますアニス様！	「Ah! Good morning, Lady Anise!
+50917	Zeth Mage Soldier		「は！　おはようございますアニス様！	「Ah! Good morning, Anise-sama!
 50918	+		　実は…………」	　The truth is............」
 
 50919	Anise Sawatari		「あなた人さらいですね！	「You're a kidnapper, aren't you!
@@ -180,7 +180,7 @@
 50921	Zeth Mage Soldier		「わーー、待った待ったーー！	「Waaah, wait, wait, waaaait!
 50922	+		　これ！　山田様からの伝言です！」	　Look! A message from Lady Yamada!」
 
-50923	Anise Sawatari		「うっ、千鶴子様の？	「Urgh, from Lady Chizuko?
+50923	Anise Sawatari		「うっ、千鶴子様の？	「Urgh, from Chizuko-sama?
 50924	+		　ま、まさかぺちゃぱい以外は破門ですとか……」	　D-Don't tell me... 'Anyone who isn't flat-chested is excommunicated' or something...!?」
 
 50925	-		つい今しがた周囲を吹き飛ばしかけた事は忘れ、	Completely forgetting she had almost blown everything to pieces moments ago,
@@ -188,7 +188,7 @@
 
 50927	Anise Sawatari		「あ、これお使いメモじゃないですか。	「Oh, isn't this just an errand list?
 50928	+		　えーと……あ、海の家焼きそばですね。	　Let's see... ah, beach shack yakisoba!
-50929	+		　……はい、お任せください千鶴子様！」	　...Yes, leave it all to me, Lady Chizuko!」
+50929	+		　……はい、お任せください千鶴子様！」	　...Yes, leave it all to me, Chizuko-sama!」
 
 50930	Anise Sawatari		「これとこれは買ってくるとして……？	「Aside from buying this and that...
 50931	+		　この部屋の？　このボタンを押して……」	　In this room? Press this button, and...」
@@ -210,7 +210,7 @@
 50940	+		殲滅力は凄まじく、雲霞のごとき魔軍を	and national power, had overwhelming destructive power, and
 50941	+		数々の兵器で消し飛ばし始めた。	began wiping out the vast Monster Army with its many weapons.
 
-50942	Zeth Mage Soldier		「マジック様！　マジノライン、起動したとの事！」	「Lady Magic! The Maginot Line has activated!」
+50942	Zeth Mage Soldier		「マジック様！　マジノライン、起動したとの事！」	「Magic-sama! The Maginot Line has activated!」
 
 50943	Magic the Gandhi		「ん、いいわ。それ全軍に伝えてちょうだい。	「Good. Relay that to the entire army.
 50944	+		　ついでに、魔軍にもね！」	　And while you're at it, to the Monster Army too!」
@@ -233,14 +233,14 @@
 50954	Uspira Shintou	基本	「では……お供いたします。	「Then... I'll accompany you.
 50955	+		　今はもう、大した指揮も要りませんし」	　We don't need much commanding now anyway.」
 
-50956	Saias Crown		「……それ以上に、マジック様を放っておいたなんて	「...More than that, if people thought we left Lady Magic alone
+50956	Saias Crown		「……それ以上に、マジック様を放っておいたなんて	「...More than that, if people thought we left Magic-sama alone
 50957	+		　思われたら、国民から総叩きに遭いかねない」	　we'd get beaten by the citizens.」
 
 50958	Magic the Gandhi		「竜角惨、飲む？　慣れると美味しいわよ」	「Want some dragon horn sake? It's good once you get used to it.」
 
 50959	Saias Crown	拙い	「……頂きます」	「...I'll have some.」
 
-50960	Zeth Mage Soldier	基本	「マジック様、大変です！」	「Lady Magic, it's terrible!」
+50960	Zeth Mage Soldier	基本	「マジック様、大変です！」	「Magic-sama, it's terrible!」
 
 50961	Magic the Gandhi		「何？　魔軍が反撃してきたの？」	「What? Is the Monster Army counterattacking?」
 
@@ -269,7 +269,7 @@
 
 50977	Magic the Gandhi	目閉じ	『ほっ……よかった』	『Whew... good.』
 
-50978	Urza Pranaice	基本	「マジック様が立ち上がったのと、	「Lady Magic stepping up,
+50978	Urza Pranaice	基本	「マジック様が立ち上がったのと、	「Magic-sama stepping up,
 50979	+		　ハニー軍団の10万が最後まで戦ってくれたのが	　and the 100,000 Hanny army fighting to the end
 50980	+		　大きかったですね」	　were huge factors.」
 
@@ -311,7 +311,7 @@
 51003	-		面白くなさそうに頬杖をついて、	Resting her chin in her hand with an unimpressed look,
 51004	+		リアは魔法ビジョンを眺めていた。	Lia gazed at the Magic Vision screen.
 
-51005	Maris Amaryllis	基本	「リア様……あら、ゼスですか」	「Lady Lia... Oh, is that Zeth?」
+51005	Maris Amaryllis	基本	「リア様……あら、ゼスですか」	「Lia-sama... Oh, is that Zeth?」
 
 51006	Lia Parapara Leazas	目閉じ	「そ。……魔人メディウサの、真似っこよ」	「Yeah. ...Taking a page out of Fiend Medusa's book, is she?」
 
@@ -322,7 +322,7 @@
 51010	+		　長期的には、マイナスになる事もある」	　for the throne. In the long run, it can easily backfire.」
 
 51011	Maris Amaryllis	基本	「リーザスでは……恐らく、そうでしょうね。	「In Leazas... that would likely be the case.
-51012	+		　リア様は、絶対不可侵でなくては」	　Lady Lia must remain an absolute, untouchable presence.」
+51012	+		　リア様は、絶対不可侵でなくては」	　Lia-sama must remain an absolute, untouchable presence.」
 
 51013	Lia Parapara Leazas	真剣	「自分が人気取りの象徴で良いと割り切れないと、	「Unless you can make peace with being nothing more than a popular figurehead,
 51014	+		　アレはできないわよね……」	　you can't pull something like that off...」
