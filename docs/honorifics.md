@@ -35,8 +35,8 @@ What is left after the first pass, and why each is left:
 | `unknown-name` | 102, now 77 | No table holds the name -- Terra, Rudrasaum, Osman. A missing row, not a missing substitution: `scripts/find_unnamed_terms.js` is the other half. Medusa, Pi-R and Wass turned out to be written down elsewhere and are closed below. |
 | `unpaired` | 60 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. |
 | `followed-by-name` | 26 | The English name runs on past the match. |
-| `wrapped` | 16 | The address is split across two rows, so no row holds it and a substitution cannot see it. |
-| `already` | 2 | "Lord Lis-sama" is the honorific twice; the fix is dropping the title, which is a different edit. Fixable, one flag. |
+| `wrapped` | 16, now 2 | The address is split across two rows, so no row holds it and a substitution cannot see it. "The rows that cut an address in half" below. |
+| `already` | 2, now 0 | "Lord Lis-sama" was the honorific twice over, so the fix was dropping the title rather than adding what was there. `--bucket=already`. |
 
 `followed-by-name` is the bucket that earned the whole report. 雷帝様 is
 "Lord Thunder Emperor", 魔人ワーグ様 is "Lady Fiend Warg", 火炎書士様 is
@@ -80,6 +80,38 @@ finding rather than noise: the corpus romanises the pair ドッスワッス as
 
   effective map: 180 changed, 0 gone, 0 added, against 180 rows written
   overflow unmoved at 847 -- `-dono` is 165.75 units against `Lord ` at 155
+
+## The rows that cut an address in half
+
+`scripts/fix_honorifics_wrapped.js`, and **14 of the 16**. The English wraps
+where the Japanese does not, so "Lord" ends one row and the name opens the next
+and no row holds the phrase -- which is the same blindness a wrapped name has
+always had here, and the reason a substitution pass cannot be the only pass.
+
+The edit is spread over the two rows rather than laid out again: four of these
+speeches are the long scenario blobs, one of them 14 rows, and re-flowing a
+bubble to move five characters buries the change. What that costs is the width,
+because this is the one honorific edit that does not keep it -- the first row
+gives up `Lord ` and the second takes the whole of `-sama`.
+
+**The question to ask there is the report's own, and asking a cheaper one got
+it wrong.** A first guard refused any second row wider than the window and threw
+out twelve of the fourteen, because ten of these sit in blobs whose rows run to
+twice the window before anything is edited. `drawnLines` against `rowBudget`
+over the whole speech -- what `find_speech_gaps` asks -- says the thing that
+actually matters: a speech already over is not made worse by eleven units, and a
+speech that fitted and then does not is a fault this pass created. One case is
+the second kind, and it is left alone; `layOutSpeech` is the fallback for it and
+does not fit either.
+
+The other one left is a rank rather than a name. 魔物将軍様 wraps the same way
+and reads "Lord / Monster General", and the corpus renders that rank plain
+elsewhere -- `「魔物将軍様、バボラ様の本日の作戦が完了！」` is "Monster General,
+Babolat-sama's mission for today is complete!". There is no settled honorific
+for it, so it is a decision and not a substitution.
+
+  effective map: 28 changed, 0 gone, 0 added, against 14 pairs of rows
+  overflow unmoved at 847
 
 ## Two guards that were wrong first, and what they cost
 
