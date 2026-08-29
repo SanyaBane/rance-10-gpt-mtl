@@ -1,11 +1,18 @@
 # The `en_grok` dialogue translation
 
+> **This folder holds `scenes/` now** — one file per scene, which is the shape
+> the build reads and a translation is written in. The corpus of chunk files
+> everything below describes was deleted on 2026-08-29 and is in git up to that
+> commit; [docs/scene-corpus-migration.md](../../docs/scene-corpus-migration.md)
+> is the move and what it was worth. What is kept here is the provenance of the
+> English those scenes carry, because no other file records it.
+
 The translation this repository builds: the whole script put through Grok in
 [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) five
 hundred lines at a time, with the English pasted back. It arrived second, into a
-repository whose own translation was `en_gpt`, and sits here in the shape that
+repository whose own translation was `en_gpt`, and was kept in the shape that
 one had -- a corpus of chunk files, one record per line, with the Japanese
-beside the English -- so the same tools and the same habits work on it. It is
+beside the English -- so the same tools and the same habits worked on it. It is
 what `npm run regenerate-ain` builds; see
 [docs/text-languages.md](../../docs/text-languages.md) for the rest
 of the selection, and for where `en_gpt` went.
@@ -121,6 +128,10 @@ drifted apart in 5886 of the 275312 records, usually by a line. That costs
 nothing except the name repairs, which fire when the Japanese beside a line
 names a character the English spells wrong -- so nine lines out of 269617 get a
 different repair here than they got from the patch this folder was built from.
+
+The scenes ended that: a row carries the game's own Japanese, checked against
+the dump at every extraction, so the echo is not read by anything any more and
+the nine lines below are the whole of what it ever cost.
 
 Where the echo names somebody the dump line does not, a repair fires that the
 patch build never made: m[34206] and m[50505] "demon army" to "Monster Army",

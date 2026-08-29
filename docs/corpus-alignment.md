@@ -1,5 +1,15 @@
 # A record's Japanese is not automatically the game's line for its number
 
+> **Closed by the format on 2026-08-29, and kept for the shape of the mistake.**
+> The chunk corpus below is deleted -- `gpt_outputs*/` are in git and nowhere
+> else -- and neither fault it describes can happen in the scenes that replaced
+> it. A scene row carries the game's own Japanese, checked against the dump at
+> every extraction, and every message sits in exactly one scene function, so no
+> number can be claimed twice. What outlasts the format is the reason both faults
+> lived so long: **a key that is compared against nothing can be wrong for
+> years**, and a corpus keyed by line number never had to agree with the line.
+> [scene-corpus-migration.md](scene-corpus-migration.md) is the move.
+
 Every record in `text_languages/en_grok/gpt_outputs*/` carries three things: a
 `lineNumber`, the `originalJapaneseLine` it was translated from, and the
 `translatedEnglishLine`. Only the first of those reaches the game.

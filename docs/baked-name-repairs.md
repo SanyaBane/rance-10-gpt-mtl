@@ -9,10 +9,11 @@ through the swap at every build, and none of them said so on disk. (275 373
 since `d42c50a6`, which dropped the one record sitting on a line number the game
 does not have.)
 
-They say so now. The repairs were written into
-`text_languages/en_grok/gpt_outputs*/` by commit `3eafda3a` — a chunk file reads
-the way a build of it reads. That commit is also the line the corpus's own
-provenance runs to: before it, the English in a chunk is what the translation
+They say so now. The repairs were written into the corpus by commit `3eafda3a`
+— a file reads the way a build of it reads. It was a corpus of chunk files then
+and it is one file per scene now, and the repaired English came across unchanged:
+`docs/scene-corpus-migration.md` is that move. `3eafda3a` is also the line the
+corpus's own provenance runs to — before it, the English is what the translation
 produced and nothing else, which is what `text_languages/en_grok/README.md`
 describes.
 
@@ -35,8 +36,8 @@ and the patch rendered after it were byte for byte the same file.
 
 `normalizeNames` still runs at every build. It is idempotent — a second pass over
 a baked corpus repairs nothing — and it goes on covering what a bake cannot: the
-chunks `scripts/translate_chunks.js` writes next, hand edits, and the misspellings
-the table learns after today.
+scenes a retranslation files, hand edits, and the misspellings the table learns
+after today.
 
 **So the invariant is that the pass finds 0 lines to change.** A non-zero count
 means the corpus and the build have drifted, and the corpus is the one that is
@@ -44,20 +45,16 @@ wrong.
 
 There is no script for the check in the repository, on purpose — the same reason
 the one-shot script that built this corpus is not here either. It is ten lines:
-walk both chunk folders, call `normalizeNames` **imported from the module rather
-than reimplemented**, compare against `translatedEnglishLine`, count.
+walk `text_languages/<lang>/scenes/`, call `normalizeNames` **imported from the
+module rather than reimplemented**, compare against each row's English, count.
 
-Writing a chunk back has to reproduce its shape, or the diff drowns the edit:
-
-```js
-fs.writeFileSync(file, JSON.stringify(data, null, 4).replaceAll("\n", "\r\n"), "utf-8");
-```
-
-Four-space indent, CRLF, and no trailing newline. In that form all 4891 files come
-back byte for byte, so a diff shows the translation lines and nothing else. Only
-`translatedEnglishLine` is ever touched — the line numbers, the Japanese, the API
-metadata of the chunk and the key order all come back out of `JSON.stringify` the
-way they went in.
+Writing a scene back is `renderSceneFile` from `modules/SceneFile.js`, never a
+hand-rolled join. Parsing a file and rendering it unchanged reproduces it byte
+for byte, and `scripts/extract_scenes.js` asserts exactly that over all 5433 of
+them at every run — so a writer that goes through the module cannot lose an
+escaped tab or shift a column, and one that does not, can. It happened: a
+bracket pass normalised runs of whitespace, a tab is whitespace, and 15 rows
+quietly lost the tabs the format escapes on purpose.
 
 The check after any edit to the corpus or the table:
 
@@ -238,8 +235,9 @@ misspellings longest first, so the longest present wins wherever it stands:
 ```
 
 It fires on nothing today, because the corpus is baked and the pass reports 0.
-The case is reachable only through what the pass is still *for*: the chunks
-written next, hand edits, and the misspellings the table learns after today.
+The case is reachable only through what the pass is still *for*: the scenes a
+retranslation files, hand edits, and the misspellings the table learns after
+today.
 
 **Two shapes in the table look like the same problem and are not**, and both are
 worth naming so the next audit of that file stops where this one did. 88 pairs
@@ -259,35 +257,28 @@ The corpus is not literally the patch. `replaceUnicode` in
 and `wrapAt` still decides the line breaks. Wrapping cannot be baked — it is
 layout against a font and a margin. Folding could be, and has not been.
 
-## Two things to watch when editing by line number
+## The traps of editing by line number, and what closed them
 
-`gpt_outputs/` has 5 679 duplicate records: the chunk ranges overlap, so
-`128540_128600.json` and `128550_128610.json` both carry `m[128578]`. The English
-agrees in all but two of them. A fix applied by line number has to reach **every**
-copy, or the build's last-wins rule decides which one a player sees.
+The chunk corpus had four, and every one was arithmetic about a key rather than
+about the text. `gpt_outputs/` carried 5 679 duplicate records, because the
+ranges overlapped and `128540_128600.json` and `128550_128610.json` both held
+`m[128578]`, so a fix by number had to reach every copy or the build's last-wins
+rule decided which one a player saw. 6 495 records keyed `lineNumber` as a JSON
+**string**, so a `Map` keyed on the number walked past them and said nothing.
+The two folders were two numbering spaces, v1.00 mapped forward and v1.04
+already, with 784 numbers naming a different line on each side. And a record's
+Japanese was not the game's line for its number — 4905 were not, two kinds of
+which cost something: `docs/corpus-alignment.md`.
 
-And the number is not always a number. 6 495 of the 275 373 records carry
-`lineNumber` as a JSON **string** — the whole of `gpt_outputs_v104`, and the
-block from `gpt_outputs/132117_132317.json` through `133317_133367.json` — and
-4 261 line numbers exist in no other form. `r.lineNumber === 48582`, or a `Map`
-keyed on the number, walks past every one of them and says nothing. The build
-never trips on it because each of its own reads coerces: `+lr.lineNumber`, in
-`scripts/regenerate_aai_txt.js`. Nor are the two folders one numbering space —
-`gpt_outputs` is the v1.00 numbering that same script maps forward, and
-`gpt_outputs_v104` is already v1.04. The 5 045 numbers on the v104 side are not
-a range of their own either; they run from 94 to 269 677, and 784 of them are
-also a number `gpt_outputs` uses for some other line.
+The scenes closed all four by construction. Every message sits in exactly one
+scene function, so a number is claimed once. The number is parsed by
+`modules/SceneFile.js` rather than carried as whatever JSON held. There is one
+numbering, the game's. And the Japanese is the dump's, checked at every
+extraction.
 
-And a record's Japanese is not automatically the game's line for its number.
-4905 of them are not, almost all of that a dropped closing `」`. Two kinds that
-mattered are gone: 158 lines of six scenes were showing the *next* line's
-English until `eec7f479`, and 386 records carried the *next* line's Japanese --
-which is what `normalizeNames` reads to decide a name repair -- until
-`8fbf3793`. `docs/corpus-alignment.md` has the check and what it still reports.
-
-Both traps have the same answer. Key a one-off repair on **the exact English**
-rather than on the number, and assert that each edit was found as many times as
-you meant it to be — no fewer, which catches the string-keyed record, and no
-more, which catches the duplicate copy you did not know was there. That is what
-carried `m[269231]` through the `火炎` pass: a v104 record whose line number is
-the string `"269231"`.
+What outlasts the format is the habit. **Key a one-off repair on the exact
+English rather than on the number, and assert that each edit was found as many
+times as you meant it to be** — no fewer and no more. That is what carried
+`m[269231]` through the `火炎` pass when its line number was the string
+`"269231"`, and it is the same question `scripts/effective_map.js` now asks of a
+whole pass: the count of changed numbers against the count of rows you edited.

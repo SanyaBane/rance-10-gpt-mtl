@@ -12,9 +12,13 @@
 > - `gpt_outputs/` became `text_languages/en_gpt/gpt_outputs/`, and that text
 >   language has since been removed -- the corpus this file was written against
 >   is in git and nowhere else. The one built today is
->   `text_languages/en_grok/`: the same file names and the same line numbers,
->   with a different translation over them, so the method below still applies to
->   it. See [text-languages.md](text-languages.md).
+>   `text_languages/en_grok/`, which had the same file names and the same line
+>   numbers with a different translation over them. It keeps one file per scene
+>   now and its own chunk folders were deleted on 2026-08-29, so both corpora
+>   this was written against are in git and nowhere else. The method below still
+>   applies -- what it reads is a scene file rather than a chunk. See
+>   [text-languages.md](text-languages.md) and
+>   [scene-corpus-migration.md](scene-corpus-migration.md).
 > - `Files_Check.md`, the running log this file tells the next session to resume
 >   from, was never committed. The one log that survived covers the v104 half of
 >   the corpus and went with the folder:

@@ -36,12 +36,13 @@ scripts/ain.js --text-lang=jp` — or quote it, `npm run regenerate-ain '--'
 ## What a text language is
 
 A directory under `text_languages/`, holding a `text_language.js` and, if it is
-a translation, nothing but data in one of two shapes. A corpus, which is what a
-translation run through the API leaves behind:
+a translation, nothing but data in one of two shapes. One file per scene, which
+is what a translation this repository maintains keeps:
 
 ```
-text_languages/en_grok/gpt_outputs/          the v1.00 translation, one JSON per chunk of lines
-text_languages/en_grok/gpt_outputs_v104/     the same for lines v1.04 added
+text_languages/en_grok/scenes/030774.tsv         one file per scene: the m[] number, the
+                                                 speaker, what the portrait is doing, the
+                                                 game's own Japanese, and the English
 text_languages/en_grok/mistranslated_names.json  optional, see below
 ```
 
@@ -53,12 +54,22 @@ text_languages/<name>/dialogue.ain.txt      m[<line>] = "<text>", the v1.04 numb
 text_languages/<name>/mistranslated_names.json   optional, the same as above
 ```
 
-Nothing here is in that shape at the moment -- `en_grok` arrived that way and was
-moved into a corpus -- but the build still reads it, and it is the cheaper way
-to bring a translation in.
+`en_opus` is in that shape, and `en_grok` arrived in it before it was broken
+into scenes. It is the cheaper way to bring a translation in and the more
+expensive one to work in afterwards: a patch is 270000 numbered fragments with
+no speaker and no scene around them, which is the whole of what
+`docs/scene-corpus-migration.md` is about.
 
-`dialogue.ain.txt` decides which it is: if the file is there the two folders are
-not read, and neither is the v1.00 to v1.04 mapping, because a patch is written
+There was a third shape until 2026-08-29, and it is worth knowing the name
+because the older write-ups are full of it: a corpus of chunk files,
+`gpt_outputs/` and `gpt_outputs_v104/`, one JSON per range of lines with the API
+response it arrived in. That is what a translation run through the API left
+behind, and what the scenes were rendered out of. The folders are in git and
+nowhere else now.
+
+`scenes/` decides which shape it is: if the folder holds files they are the
+language's text, and a `dialogue.ain.txt` beside them is not read. The v1.00 to
+v1.04 mapping places nobody's text any more either -- both shapes are written
 against the numbering the game already uses. Two things follow from a patch
 naming only the lines it has an opinion about. A line it skips would play in
 Japanese, so the default text language is rendered underneath and shows through
@@ -67,13 +78,11 @@ dropped and re-wrapped here, since they were measured against whatever window
 the other build had in mind.
 
 The shape is not a property of the translation, only of how it arrived, and a
-patch can be moved into the other one. That is what happened to `en_grok`: what
-the folder holds is the `en_gpt` corpus with the grok text written over it, line
-number for line number, so the Grok translation could be corrected the way this
-repository had always corrected `en_gpt` -- a chunk file at a time, with the
-Japanese next to the English and `scripts/find_mistranslations.js` able to read
-it. Its README says what the move cost, which is nine lines out of 269617
-rendering differently from the patch it was made from.
+patch can be moved into the other one. That is what happened to `en_grok`
+twice: first into the `en_gpt` corpus of chunk files with the grok text written
+over it line number for line number, and then into the scenes, which is where it
+is now. Its README says what each move cost -- nine lines out of 269617 for the
+first of them.
 
 Everything else is shared and lives outside `text_languages/`, because it is not
 what the translations disagree about:
@@ -92,10 +101,9 @@ what the translations disagree about:
   are not dialogue at all.
 
 So there is one pipeline, not one per text language. Adding another translation
-is adding a folder: either a `dialogue.ain.txt`, or the two corpora in the format
-`scripts/translate_chunks.js` writes, an object with
-`output_parsed.translationLines` holding
-`{lineNumber, originalJapaneseLine, translatedEnglishLine}`.
+is adding a folder: either a `dialogue.ain.txt`, or a `scenes/` written the way
+`modules/SceneFile.js` says -- which is what `npm run accept-scenes` files, so a
+retranslation lands in that shape without anybody formatting anything.
 
 ## The one with no text
 
@@ -164,9 +172,10 @@ already in the pack — deleting it makes the working tree 77 MB lighter and the
 clone not one byte smaller.
 
 What is worth reaching back for is a line. `en_grok` was built out of that
-corpus file for file, so the two share their file names but for one, their line
+corpus file for file, so the two shared their file names but for one, their line
 numbers and the Japanese beside them, and a diff shows the English and nothing
-else:
+else. `en_grok`'s own chunks are in git as well now, up to the commit that
+deleted them, so both sides of that diff are read the same way:
 
 ```
 git show en_gpt-final:text_languages/en_gpt/gpt_outputs/184850_184910.json

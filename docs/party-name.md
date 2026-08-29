@@ -113,7 +113,7 @@ moved the name onto its neighbour -- `ランスの率いる` / `魔人討伐隊�
 came out as "Thus, the Majin Extermination Squad led by Rance" / "headed toward
 the defense line" -- and the normalizer keys on the Japanese of the line it is
 repairing, so it cannot see a name sitting one record away. Thirteen of those were
-edited in `text_languages/en_grok/gpt_outputs/` directly, along with
+edited in the dialogue directly -- then the chunk files, the scenes now -- along with
 `まじんとーばつたい`, which is the same word in kana and no kanji key can match. Two
 are left as they are: `ラング・バウから出発したランス達、` / `魔人討伐隊が昼間、城に到着した。`
 reads "Rance and the others who departed from Lang Bau" / "arrived at the castle

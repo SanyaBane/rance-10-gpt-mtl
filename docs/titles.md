@@ -61,10 +61,11 @@ table anyway -- `scripts/summary_chunk.js` quotes it through `createNameFinder`.
    - `archives/Rance10EX_v1_04/43_秘書データ.x` -- two secretary lines
 
 3. Nine dialogue lines say the title where their own Japanese does not, so the
-   pass cannot see them. They are in `text_languages/en_grok/gpt_outputs/`, at
-   `#9699`, `#12975`, `#17896`, `#19220`, `#19640`, `#42228`, `#57348`, `#58829`
-   and `#107592` -- each one the second half of a sentence whose first half
-   carries the `総統`.
+   pass cannot see them -- each one the second half of a sentence whose first
+   half carries the `総統`. They were `#9699`, `#12975`, `#17896`, `#19220`,
+   `#19640`, `#42228`, `#57348`, `#58829` and `#107592` in the chunk corpus,
+   which numbered by v1.00 and is deleted; in the scenes, find them with
+   `node scripts/lookup_term.js` rather than by those numbers.
 
 Then build and read it back. Anything still saying the old word is one of the
 other four offices above, not a miss: `node scripts/lookup_term.js 総隊長 総大将 大統領`

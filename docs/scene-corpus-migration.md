@@ -39,6 +39,11 @@ ago.
 | `eedf7563` | thirteen lines given back the bubble they belong to |
 | `1581d8e4` | **the build reads the scenes** |
 | `12cdff1c`, `ffc2660c` | the message window measured: it clips at 36, the backlog at 30.8 |
+| five passes | the brackets, 4972 speeches — [docs/speech-brackets.md](speech-brackets.md) |
+| `42168774` | a re-extraction carries the scenes forward instead of the draft |
+| `15c8d53c` | the four reports read the scenes, and say which file to open |
+| `b05c7bcf` | the chunk shape dropped from the build, the chunk-era translator deleted |
+| this commit | **`gpt_outputs*/` deleted** — 4891 files, 76 MB, in git and nowhere else |
 
 The reader's rule, in one line: **the speech decides and the row is written.** A
 speech with no English is left out whole, so its rows play in Japanese; every row
@@ -67,60 +72,31 @@ Two rules it must respect, both learned the hard way:
   full-width spaces. Filling those flattens the author's layout, and asking
   `layOutSpeech` to fill them is what made 101 speeches look impossible to fit
   where the real number is one.
-- **do not reach for the chunk files as an undo.** This step used to say to
-  bake while they still exist, on the grounds that `npm run extract-scenes`
-  restores every English cell in one command. It does not. That script fills the
-  English column from `readCorpus`, which is `gpt_outputs*/`, and writes into
-  `build/scenes/` — so what it hands back is the chunk-era English, and the
-  chunks stopped being the corpus at `1581d8e4`. **6388 of the tree's 269677
-  rows already say something else**: the five bracket passes, develop's refined
-  lines carried in at `41592050`, and two "Refine translation" commits.
-  Restoring from them would reopen 4972 bubbles. The undo is git — commit the
-  bake by itself, and check it by reading the result back rather than by keeping
-  a way to put the draft back.
-
-That count is worth re-taking rather than trusting, because every commit into
-the scenes moves it: `readCorpus(textLangDir("en_grok"), v100ToV104)` held
-against `readTranslatedScenes("en_grok")` and keyed by line number is the whole
-comparison. It also finds 60 rows no chunk record covers at all.
+- **the undo is git, and there is no other.** This step used to say to bake
+  while the chunk files still existed, on the grounds that `npm run
+  extract-scenes` restores every English cell in one command. It never did:
+  that script filled the English column from `gpt_outputs*/`, which stopped
+  being the corpus at `1581d8e4`, so what it handed back was the chunk-era
+  English — 6388 of the tree's 269677 rows already said something else, and
+  restoring from it would have reopened 4972 bubbles. `extract_scenes` carries
+  the scenes forward now and the folders are deleted, so the only way back is a
+  commit. Commit the bake by itself, and check it by reading the result back.
 
 Verify by rendering and comparing the *effective* mapping — each number against
 the last assignment naming it, which is what alice-tools applies — not the file.
 `scripts/effective_map.js` is that comparison, and `docs/speech-brackets.md` is
 what it caught the last time a pass rewrote rows in bulk.
 
-### 2. Delete `gpt_outputs*/`
+### 2. Carry the format to `develop`
 
-Nothing makes this wait for step 1 any more: it was second because of the undo
-above, and there is none. What it does have is one dependency worth knowing
-before starting — the driver's first stage reads `build/scenes/`, which
-`extract_scenes` fills from the chunks, so deleting them without that port stops
-`request-scenes` and `accept-scenes` rather than only the reports.
-
-- `scripts/extract_scenes.js` changes role: it fills the English column from the
-  corpus today, and afterwards has to carry forward what the scenes already say.
-  This is the only substantial edit in the step.
-- port four readers: `find_dropped_terms`, `find_gender_gaps`,
-  `find_mistranslations`, `modules/TermDrift.js`.
-- delete `scripts/translate_chunks.js` and `modules/OpenAiTranslator.js` — the
-  chunk-era translator, dead the moment the folders go.
-- drop the corpus branch from `modules/Corpus.js` and the `own()` fallback in
-  `scripts/regenerate_aai_txt.js`.
-- 13 files of documentation name the chunk format. `docs/corpus-alignment.md`
-  and half of `docs/baked-name-repairs.md` stop being questions rather than
-  needing rewrites: a scene row cannot disagree with the dump and two rows
-  cannot claim one number.
-
-### 3. Carry the format to `develop`
-
-The one thing that actually blocks future work. After step 2 `develop` is still
-in the chunk format and a "Refine translation" commit there cannot be merged
-here. Worse, and silently: **develop still spells the player's name literally on
+The one thing that actually blocks future work. `develop` is still in the chunk
+format, and now that the folders are gone from this branch a "Refine
+translation" commit there cannot be merged here at all. Worse, and silently: **develop still spells the player's name literally on
 all 1504 lines where this branch restored `＜エール＞`**, and nothing in a merge
 would catch a commit putting one back — `SceneAcceptance` guards a translation
 coming in, not a corpus merge.
 
-### 4. The text repairs the report found
+### 3. The text repairs the report found
 
 | | | |
 |---|---|---|

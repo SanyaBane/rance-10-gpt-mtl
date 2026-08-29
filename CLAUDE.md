@@ -31,7 +31,7 @@ these is edited by hand:
 | `glossaries/` | the English, keyed by the Japanese — the tables below, the ones the enemy panel, the quest map's Location plate, the synopsis screen and the achievements screen read, and the words the synopsis settled on |
 | `patches/` | what alice-tools is handed directly by every build: the cherry-picked system strings, the hand-written `.jaf`, and the hand-assembled `.jam` |
 | `features/` | one folder per optional patch: the files that change what the game *does*, and the `feature.js` naming them |
-| `text_languages/` | one folder per text the game can be built with — the translation, and the Japanese it shipped with. The dialogue is **one file per scene** under `<lang>/scenes/`, which is what a build reads and what a translation is written in; `modules/SceneFile.js` is the format and `modules/Corpus.js` is how one is read |
+| `text_languages/` | one folder per text the game can be built with — the translation, and the Japanese it shipped with. The dialogue is **one file per scene** under `<lang>/scenes/`, which is what a build reads and what a translation is written in; `modules/SceneFile.js` is the format and `modules/Corpus.js` is how one is read. A row carries the game's own Japanese, checked against the dump at every extraction, and every message sits in exactly one scene, so neither fault `docs/corpus-alignment.md` records can happen in it |
 | `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
 
@@ -280,37 +280,7 @@ canonical name is a dead entry — `"Babolatat"` holds `"Babolat"` — and undoi
 rendering takes a corpus edit rather than a table one. And a one-word misspelling
 that was worth having on a raw corpus is pure risk on a baked one: `魔人` listed
 `"Demon"`, which is how `前魔王ガイ` shipped as "the former Fiend King Guy" in 71
-lines. `docs/baked-name-repairs.md` has the rest, including how to write a chunk
-back without burying the edit.
-
-## A record's Japanese is not the game's line just because the number says so
-
-**This is about the chunk files, which are on their way out.** A scene row
-carries the game's own Japanese, checked against the dump at every extraction,
-and every message sits in exactly one scene — so neither fault below can happen
-in the format a build now reads. Keep it until `gpt_outputs*/` is deleted;
-`docs/scene-corpus-migration.md` is where that stands.
-
-A corpus record carries a `lineNumber`, the Japanese it was translated from, and
-the English. Only the number reaches the game: `readCorpus` in
-`scripts/regenerate_aai_txt.js` keys on it and compares the Japanese with nothing.
-So a chunk that merged two of the game's lines into one record is numbered one
-short from there on, and the English of every line after it goes out under the
-previous line's number. Six scenes were playing one line out of step that way,
-158 lines of them, until `eec7f479`.
-
-The check is one comparison — a record's `originalJapaneseLine` against the
-game's own dump for that number — and it is not the same question as whether the
-two copies of a duplicated number agree. They agreed on the same wrong text.
-4905 line numbers still fail it, and almost all of that is a dropped closing
-`」` the game never sees. The kind that cost something was the record whose
-Japanese is the **next** line's, because `normalizeNames` reads it to decide
-whether the line names a character: 75 numbers were repaired by the wrong
-sentence, and 386 records in all, since a copy that loses the last-wins sort
-still reads wrong on the page. Written back in `8fbf3793`, and the count is 0
-now. `docs/corpus-alignment.md` has the breakdown, the one gap in the game's own
-numbering that caused most of it, and the trap that a drift run ends where the
-English catches up rather than where the chunk file does.
+lines. `docs/baked-name-repairs.md` has the rest.
 
 ## A string slot is shared by everything that pushes it
 
