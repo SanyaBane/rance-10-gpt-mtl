@@ -14,7 +14,17 @@
  * another row of the speech above, "-" for narration, "?" for a message with no
  * speaker that is not narration either, and a trailing "~" for a thought. Then
  * what the portrait is doing, written only where it changes. Then the
- * Japanese, and then the English the corpus has now.
+ * Japanese, and then the English text_languages/<lang>/scenes/ has now.
+ *
+ * That last column used to come from the corpus of chunk files, and reading it
+ * from the scenes instead is what makes a run comparable with the tree it
+ * refreshes. The chunks stopped being the corpus when the build started reading
+ * the scenes, so a re-extraction handed back the draft as it stood before every
+ * edit made since -- 6388 rows of en_grok by the time anybody held the two side
+ * by side, five bracket passes among them. Now the English is carried forward
+ * verbatim and only the derived columns can move, which is what the count at
+ * the end of a run reports: whether the committed corpus still agrees with the
+ * game and with the tables the speakers and the genders come from.
  *
  * The Japanese comes from the game's own dump rather than from the corpus
  * record beside the English. Those disagree on 5081 records -- see the header
@@ -34,7 +44,6 @@ import * as path from "path";
 import {run} from "../modules/AliceTools.js";
 import {readCharacterGenders} from "../modules/CharacterGenders.js";
 import {readGalleryScenes} from "../modules/CgGallery.js";
-import {readCorpus} from "../modules/Corpus.js";
 import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
 import {createNameplateResolver} from "../modules/Nameplates.js";
@@ -42,7 +51,8 @@ import {readPortraitGenders, unreachedRows} from "../modules/PortraitGenders.js"
 import {parseSceneFile, renderSceneFile, sceneFileName} from "../modules/SceneFile.js";
 import {CG_FLAG, renderSceneIndex, ROUTE_FLAG, SCENES, sceneDir, sceneIndexFile} from "../modules/SceneIndex.js";
 import {readScenes} from "../modules/SceneScript.js";
-import {isTranslated, textLangDir, textLangName} from "../modules/TextLanguages.js";
+import {readTranslatedScenes, translatedScenesDir} from "../modules/SceneTranslations.js";
+import {isTranslated, textLangName} from "../modules/TextLanguages.js";
 
 /**
  * Pin the line endings for anybody keeping these under version control.
@@ -116,6 +126,78 @@ const stateOf = (line) => {
     return parts.join("／") || "基本";
 };
 
+/** Rows of a drifted scene worth printing before the rest are only counted. */
+const SAMPLES = 5;
+
+/**
+ * The English this run carries forward: what the language's scenes say now.
+ *
+ * Kept per row rather than per speech, because this writes rows -- a cell the
+ * translation leaves blank is a blank cell here too, and turning speeches back
+ * into a patch is modules/Corpus.js's question rather than this file's.
+ *
+ * A language with no scene files has nothing to carry forward, and that is an
+ * error rather than an empty column: the alternative is 5433 files of Japanese
+ * with the English silently dropped, which reads exactly like a translation
+ * nobody has made yet.
+ */
+const readEnglish = async (lang) => {
+    const scenes = await readTranslatedScenes(lang);
+    if (!scenes.length) {
+        throw new Error(`The "${lang}" text language keeps no scenes under`
+            + ` ${path.relative(ROOT, translatedScenesDir(lang))}, so there is no English to lay out.`
+            + " modules/Corpus.js is what shapes a text language can hold its dialogue in.");
+    }
+    const english = new Map();
+    for (const {scene} of scenes) {
+        for (const row of scene.rows) {
+            english.set(row.lineNumber, row.english);
+        }
+    }
+    return english;
+};
+
+/**
+ * What this run would change in the committed corpus, which is the only thing
+ * it can say now that the English is carried forward rather than re-read.
+ *
+ * A row that differs differs in a derived column -- the speaker, the portrait's
+ * state, the Japanese, or the scene's header and cast -- and every one of those
+ * comes from the game's own code or from a table under glossaries/. So a
+ * difference is a table corrected since the corpus was written, and copying the
+ * file over is how the correction reaches the dialogue. Nothing here writes
+ * into text_languages/: what a run of this may touch stays under build/.
+ */
+const compareWithCommitted = async (lang, fileName, rendered, drift) => {
+    let committed;
+    try {
+        committed = await fs.readFile(path.join(translatedScenesDir(lang), fileName), "utf-8");
+    } catch (error) {
+        if (error.code !== "ENOENT") {
+            throw error;
+        }
+        ++drift.absent;
+        return;
+    }
+    if (committed === rendered) {
+        return;
+    }
+    ++drift.files;
+    const mine = rendered.split("\n");
+    const theirs = committed.split("\n");
+    for (let at = 0; at < Math.max(mine.length, theirs.length); ++at) {
+        if (mine[at] === theirs[at]) {
+            continue;
+        }
+        ++drift.rows;
+        if (drift.samples.length < SAMPLES) {
+            drift.samples.push(`    ${fileName} line ${at + 1}`
+                + `\n      committed: ${theirs[at] ?? "(no line)"}`
+                + `\n      this run:  ${mine[at] ?? "(no line)"}`);
+        }
+    }
+};
+
 await run(async () => {
     ensureBuild();
 
@@ -125,10 +207,8 @@ await run(async () => {
             + " it is the game's own Japanese, and every English column would be empty.");
     }
 
-    const {v100ToV104, japaneseByLineNumber} = await loadLineNumbers();
-    const corpus = await readCorpus(textLangDir(lang), v100ToV104);
-    // Last wins, the way rendering the patch resolves a line named twice.
-    const englishByLineNumber = new Map(corpus.map(record => [+record.lineNumber, record.translatedEnglishLine]));
+    const {japaneseByLineNumber} = await loadLineNumbers();
+    const englishByLineNumber = await readEnglish(lang);
 
     const {genders, malformed} = await readCharacterGenders();
     const {genders: portraitGenders, malformed: portraitMalformed} = await readPortraitGenders();
@@ -153,9 +233,11 @@ await run(async () => {
     let named = 0;
     /** Rows that name what the portrait is doing, which is where it changed. */
     let stated = 0;
-    /** No corpus record at all, against a record whose English is empty. */
+    /** No row in the scenes at all, against a row whose English is empty. */
     let uncovered = 0;
     let blank = 0;
+    /** How far the committed corpus has fallen behind the game and the tables. */
+    const drift = {files: 0, rows: 0, absent: 0, samples: []};
     let flagged = 0;
     let flaggedLines = 0;
     let routed = 0;
@@ -250,7 +332,9 @@ await run(async () => {
         }
 
         const fileName = sceneFileName(scene.functionId);
-        await fs.writeFile(path.join(outputDir, fileName), renderSceneFile(laidOut), "utf-8");
+        const rendered = renderSceneFile(laidOut);
+        await fs.writeFile(path.join(outputDir, fileName), rendered, "utf-8");
+        await compareWithCommitted(lang, fileName, rendered, drift);
         manifest.push({fileName, flags, lines: scene.lines.length, name: scene.name});
         if (flags.includes(CG_FLAG)) {
             ++flagged;
@@ -311,12 +395,22 @@ await run(async () => {
         + ` into ${path.relative(ROOT, outputDir)}, ${lines} lines`);
     console.log(`  ${named} lines name their speaker (${(named / lines * 100).toFixed(1)}%)`);
     console.log(`  ${stated} lines name what the portrait is doing, which is where it changed`);
-    console.log(`  ${uncovered} lines no corpus record covers, ${blank} whose record is empty`);
+    console.log(`  ${uncovered} lines the scenes do not cover, ${blank} whose English is empty`);
     console.log(`  ${flagged} scenes flagged "${CG_FLAG}" by the recollection gallery,`
         + ` ${flaggedLines} lines (${(flaggedLines / lines * 100).toFixed(1)}%)`);
     console.log(`  ${routed} scenes flagged "${ROUTE_FLAG}", ${routedLines} lines`
         + " the game plays on only one of El's two routes");
     console.log(`  read ${checked} rows back against the game's own dump, all agreed`);
+    const committedDir = path.relative(ROOT, translatedScenesDir(lang));
+    if (drift.files || drift.absent) {
+        console.warn(`  ${drift.files} scenes differ from ${committedDir}, ${drift.rows} rows`
+            + (drift.absent ? `, and ${drift.absent} scenes are not committed there at all` : "")
+            + " -- the game or a table has moved since the corpus was written");
+        drift.samples.forEach(sample => console.warn(sample));
+    } else {
+        console.log(`  every scene matches ${committedDir}:`
+            + " the corpus still agrees with the game and the tables");
+    }
     if (genderless.size) {
         console.warn(`  ${genderless.size} portraits neither gender table answers`
             + " -- node scripts/find_gender_gaps.js lists them");
