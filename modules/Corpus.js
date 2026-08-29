@@ -1,87 +1,24 @@
 /**
  * What one text language says, line by line, on the numbering the game uses.
  *
- * Two shapes, and the first is the one to write new things against.
- *
  * **One file per scene**, under text_languages/<lang>/scenes/. The numbers are
  * the game's already, every message sits in exactly one scene so no number is
  * claimed twice, and the row carries the game's own Japanese beside the English
  * rather than a copy somebody retyped. modules/SceneFile.js is the format.
  *
- * **A corpus of chunk files**, which is what the scenes were rendered out of:
+ * It was one of two until this commit. The other was a corpus of chunk files --
  * gpt_outputs written against v1.00 and gpt_outputs_v104 for the lines v1.04
- * added. Reading one is also moving it onto the game's numbering, which is what
- * modules/LineNumbers.js is for -- a record whose v1.00 number found no partner
- * is dropped, because there is no slot in the game being patched to put it in.
- * It comes back in file order and may name the same line twice, since the chunk
- * ranges overlap; callers key by line number and take the last, which is what
- * rendering the patch has always done.
+ * added -- which the scenes were rendered out of, and reading one was also
+ * moving it onto the game's numbering through modules/LineNumbers.js. Both gave
+ * the same 269617 lines: the Japanese column only ever fed the name repair pass
+ * and those repairs were written into the text years ago, which is
+ * docs/baked-name-repairs.md. docs/scene-corpus-migration.md is the move.
  *
- * Both hand back the same record -- a line number, the Japanese it stands for
- * and the English -- so what reads a language does not have to know which shape
- * it keeps. The Japanese differs between them on 5081 records and it costs
- * nothing: rendering the patch from either gives the same 269617 lines, because
- * the only thing that reads that field is the name repair pass and the repairs
- * were written into the text years ago. docs/baked-name-repairs.md is that.
+ * Two readers below, and choosing between them is a question about blanks: a
+ * build wants what the game should be given, a report wants what the text says.
  */
-import * as fs from "fs/promises";
-import * as path from "path";
 import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
-
-/** One folder of chunk files, read in line-number order, records concatenated. */
-const readTranslations = async (folderPath) => {
-    const chunkFileNames = await fs.readdir(folderPath);
-    const chunkFiles = chunkFileNames
-        .map(fileName => {
-            const [, startLineNumber, endLineNumber] = fileName.match(/^(\d+)_(\d+)\.json$/);
-            return {
-                fileName,
-                startLineNumber: Number(startLineNumber),
-                endLineNumber: Number(endLineNumber),
-            };
-        })
-        .sort((a,b) => a.startLineNumber - b.startLineNumber);
-
-    const allLineRecords = [];
-
-    for (const chunkFile of chunkFiles) {
-        const json = await fs.readFile(folderPath + "/" + chunkFile.fileName, "utf-8");
-        let data;
-        try {
-            data = JSON.parse(json);
-        } catch (error) {
-            error.message += 'At file ' + chunkFile.fileName;
-            throw error;
-        }
-        allLineRecords.push(...data.output_parsed.translationLines);
-    }
-
-    return allLineRecords;
-};
-
-/**
- * A corpus is written against the v1.00 line numbers, plus a second folder for
- * the lines v1.04 added, so reading one is also moving it onto the numbering
- * the game being patched uses.
- *
- * @param {string} root a text language's folder, from modules/TextLanguages.js
- * @param {Map<number, number>} v100ToV104 from modules/LineNumbers.js
- */
-export const readCorpus = async (root, v100ToV104) => {
-    const allLineRecordsV100 = await readTranslations(path.join(root, "gpt_outputs"));
-    const allLineRecordsV104 = await readTranslations(path.join(root, "gpt_outputs_v104"));
-    return allLineRecordsV100
-        .flatMap(lr => {
-            const v104LineNumber = v100ToV104.get(+lr.lineNumber);
-            if (!v104LineNumber) {
-                return [];
-            } else {
-                return { ...lr, lineNumber: v104LineNumber };
-            }
-        })
-        .concat(allLineRecordsV104);
-};
 
 /**
  * The same records out of one file per scene, on the game's numbering already.

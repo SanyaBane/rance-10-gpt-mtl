@@ -7,10 +7,9 @@
  * same whichever translation is being built.
  */
 import * as fs from "fs/promises";
-import * as fsSync from "fs";
 import * as path from "path";
 import {CHERRY_PICKS, checkCherryPickNames} from "../modules/CherryPicks.js";
-import {readCorpus, readSceneDialogue} from "../modules/Corpus.js";
+import {readSceneDialogue} from "../modules/Corpus.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {loadLineNumbers, UNMAPPED} from "../modules/LineNumbers.js";
 import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
@@ -39,15 +38,14 @@ try {
             + " it is the game's own Japanese. There is nothing for this script to do.");
     }
     /*
-     * A language with none of the three shapes has nothing to render, and
-     * saying so beats the ENOENT about a folder that was never going to be
-     * there. Scenes first: that is what a language keeps its dialogue in now,
-     * and the corpus of chunk files is what they were rendered out of.
+     * A language with neither shape has nothing to render, and saying so beats
+     * the ENOENT about a folder that was never going to be there. Scenes first:
+     * that is what a language keeps its dialogue in, and a finished patch is
+     * what one that was never broken into scenes keeps instead.
      */
-    if (!hasScenes(textLang) && !hasPatch(textLang)
-        && !fsSync.existsSync(path.join(textLangDir(textLang), "gpt_outputs"))) {
-        throw new Error(`text_languages/${textLang} holds no dialogue this script can read: no scenes/,`
-            + " no dialogue.ain.txt and no gpt_outputs/. modules/Corpus.js is what the shapes are.");
+    if (!hasScenes(textLang) && !hasPatch(textLang)) {
+        throw new Error(`text_languages/${textLang} holds no dialogue this script can read:`
+            + " no scenes/ and no dialogue.ain.txt. modules/Corpus.js is what the shapes are.");
     }
 } catch (error) {
     console.error(error.message);
@@ -57,7 +55,7 @@ try {
 const langRoot = textLangDir(textLang);
 const {normalizeNames, contested} = await createNameNormalizer(langRoot);
 
-const {v100ToV104, unmapped, japaneseByLineNumber} = await loadLineNumbers();
+const {unmapped, japaneseByLineNumber} = await loadLineNumbers();
 
 const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 
@@ -146,9 +144,8 @@ const own = async (name) => {
         return [patched, `${patched.size} lines of its own`
             + (undescribed ? `, ${undescribed} the v1.04 dump does not describe` : "")];
     }
-    const corpus = await readCorpus(textLangDir(name), v100ToV104);
-    return [new Map(corpus.map(record => [+record.lineNumber, record])),
-        `${corpus.length} chunk records`];
+    throw new Error(`text_languages/${name} holds no dialogue: no scenes/ and no dialogue.ain.txt.`
+        + " modules/Corpus.js is what shapes there are.");
 };
 
 /**

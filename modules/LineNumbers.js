@@ -33,12 +33,12 @@ import {AIN_JSON, AIN_V100_JSON} from "./AinFiles.js";
 import {BUILD} from "./Env.js";
 
 /**
- * The v1.04 lines no corpus covers, for scripts/translate_chunks.js to feed on.
+ * The v1.04 lines the v1.00 numbering cannot reach.
  *
- * A by-product of the mapping rather than something anybody asks for. A
- * constant here because the script that writes it and the script that reads it
- * used to spell the same path separately, which is one rename away from a
- * translator run that silently re-translates last week's leftovers.
+ * A by-product of the mapping rather than something anybody asks for, and
+ * nothing reads it now: what it was for was scripts/translate_chunks.js, the
+ * chunk-era translator, which went with the chunks. Left because the mapping
+ * still runs and a by-product nobody can see is a by-product nobody checks.
  */
 export const UNMAPPED = path.join(BUILD, "unmapped.ain.json");
 

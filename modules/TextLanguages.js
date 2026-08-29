@@ -3,8 +3,8 @@
  * shipped with.
  *
  * A text language is data, not code: a directory under text_languages/ holding
- * the text -- either the two translation corpora or a finished dialogue.ain.txt
- * -- and, if it insists on spelling a name its own way, a
+ * the text -- either one file per scene or a finished dialogue.ain.txt -- and,
+ * if it insists on spelling a name its own way, a
  * mistranslated_names.json layered over the shared one. Everything else -- the
  * cherry-picked system strings, the wrapping and the name repairs -- is the
  * same whichever is selected, so adding a translation is adding a folder.
@@ -135,11 +135,11 @@ export const textLangDir = (name) => path.join(TEXT_LANGS_DIR, name);
 export const releaseFolder = (name) => `rance10-${name}-${PATCH_TAG}`;
 
 /**
- * A translation does not have to arrive as a corpus of chunks. One that was
+ * A translation does not have to arrive broken into scenes. One that was
  * written straight into the file alice-tools applies -- m[<line>] = "<text>",
  * the v1.04 line numbers already -- is a text language too, and this is where
- * the build looks for it. If the file is there it is that language's text and
- * the two chunk folders are not read; the rest of the pipeline does not change.
+ * the build looks for it. Scenes win where a language has both; the rest of the
+ * pipeline does not change either way.
  */
 export const textLangPatch = (name) => path.join(textLangDir(name), "dialogue.ain.txt");
 
@@ -158,23 +158,6 @@ export const hasPatch = (name) => fs.existsSync(textLangPatch(name));
 export const textLangScenes = (name) => path.join(textLangDir(name), "scenes");
 
 export const hasScenes = (name) => fs.existsSync(textLangScenes(name));
-
-/**
- * For the scripts that read or write the chunk files themselves, which have
- * nothing to work with in a text language that arrived as a finished patch.
- * Naming the reason beats the ENOENT they would otherwise die of.
- */
-export const corpusDir = (name) => {
-    if (!isTranslated(name)) {
-        throw new Error(`The "${name}" text language is the game's own Japanese: there is no text in`
-            + ` ${path.relative(ROOT, textLangDir(name))} for this script to work on.`);
-    }
-    if (hasPatch(name)) {
-        throw new Error(`The "${name}" text language is a finished patch, ${textLangPatch(name)},`
-            + ` rather than a corpus of chunk files. This script works on the chunks.`);
-    }
-    return textLangDir(name);
-};
 
 /**
  * One patch file per text language rather than one regenerated.ain.txt:
