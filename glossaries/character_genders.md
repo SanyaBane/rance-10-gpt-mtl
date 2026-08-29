@@ -88,9 +88,6 @@ User: "don't ask me such question, you have all the means necessary to answer it
 **26. INCLUDE FULL CURLY-QUOTE PAIR IN EDIT TOOL STRINGS.**
 When editing inside a curly-quoted dialogue string (`"…"`), the old_string must include the closing `"` (U+201D) and the new_string must replicate it. Verify both opening `"` and closing `"` are present after the edit.
 
-**27. DO NOT COMMIT WITHOUT EXPLICIT USER AUTHORIZATION.**
-Never run `git commit` on your own initiative. Make all file edits freely, but do not commit until the user explicitly says to.
-
 ---
 
 ## ⚠ PAST MISTAKES — HISTORICAL LOG
