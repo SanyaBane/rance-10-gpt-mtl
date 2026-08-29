@@ -32,7 +32,7 @@ What is left after the first pass, and why each is left:
 | Bucket | Left | Why a person has to |
 |---|---|---|
 | `dono` | 184, now 0 | `殿` is `-dono`. Its own pass, and it has had it -- "The 殿 pass" below. |
-| `unknown-name` | 102, now 77 | No table holds the name -- Terra, Rudrasaum, Osman. A missing row, not a missing substitution: `scripts/find_unnamed_terms.js` is the other half. Medusa, Pi-R and Wass turned out to be written down elsewhere and are closed below. |
+| `unknown-name` | 102, now 77 | No table the pass reads holds the name. Almost every one is settled in a glossary it does not read, the way Medusa, Pi-R and Wass were -- "What `unknown-name` turned out to be" below is the resolution, name by name. |
 | `unpaired` | 60 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. |
 | `followed-by-name` | 26, now 3 | The English name runs on past the match. "Where the name ends" below; the 3 left are ranks rather than names. |
 | `wrapped` | 16, now 2 | The address is split across two rows, so no row holds it and a substitution cannot see it. "The rows that cut an address in half" below. |
@@ -80,6 +80,51 @@ finding rather than noise: the corpus romanises the pair ドッスワッス as
 
   effective map: 180 changed, 0 gone, 0 added, against 180 rows written
   overflow unmoved at 847 -- `-dono` is 165.75 units against `Lord ` at 155
+
+## What `unknown-name` turned out to be
+
+77 occurrences over **31 distinct names**, and the bucket is misnamed: almost
+none of them is a name nobody has settled. They are names settled *somewhere the
+pass does not read*, which is what Medusa, Pi-R and Wass each were, and the
+resolution below is a lookup rather than a reading. Nothing here is written yet.
+
+**Settled in another glossary, so the row is the whole of the work:**
+
+| Japanese | English, and where it is written down | Occurrences |
+|---|---|---|
+| ルドラサウム | Rudrasaum -- `enemy_party_glossary.tsv`, `summary_glossary.tsv` | 19 |
+| 東芝 | Toshiba -- `card_name_glossary.tsv` and the master list have 東芝王子 "Prince Toshiba" | 3 |
+| ポル | Por -- `summary_terms.tsv` | 3 |
+| 山田 | Yamada -- the master list, at 山田 千鶴子 | 2 |
+| モフス | Mofus -- `summary_terms.tsv` (`殿`, so `-dono`) | 2 |
+| ダルソン | Darson -- `enemy_party_glossary.tsv`, "Monster General Darson" | 2 |
+| フリーク | Freak -- the master list at Freak Paraffin (`殿`) | 1 |
+| ルーン | Rune -- `summary_terms.tsv` | 1 |
+| 信長 | Nobunaga -- the master list, at 織田 信長 | 1 |
+| マックス | Max -- `summary_glossary.tsv` | 1 |
+| 石丸 | Ishimaru -- `summary_terms.tsv` (`殿`) | 1 |
+
+**A misspelling first, the way ケイブワン was.** Each of these is one of the
+above under a wrong spelling, so the honorific cannot go on until the name does:
+`Keyblis`, `Kaebri` and `Kayblissss` for ケイブリス; `Darlson` for ダルソン;
+`Stroganov` for ストロガノフ, which three tables spell Stroganoff; `Burks` against
+`Barks`; and `Raitei` for 雷帝, which `summary_terms.tsv` settled as Thunder
+Emperor -- the same term this pass has already written as `Thunder Emperor-sama`
+four rows away.
+
+**Not a name at all.** `Lord Squirrel` is リス様 read as the animal.
+
+**Genuinely unsettled, and each is a decision:** オスマン, レーモン, グスマン,
+バンオペタ (the card table writes it "Ban Opeta", in two Ids and as two words), ミト, and
+リス -- which may be a nickname Kaybwan and Kaybnyan use for ケイブリス rather than
+a name of its own, and 「リス様」 is written `Lis-sama` elsewhere in the corpus
+already. アシュタルクー is a disagreement rather than a gap: the name table says
+"Ashutaruku" and the corpus says "Ashtalcu" nine times.
+
+Two of these stretch the honorific rather than the name -- 「ミトさまーーー！」 and
+「ケイブリズさま゛ぁぁ゛ぁ゛〜〜〜」 -- so the English that stretches the *name*
+(`Mitoooo`, `Kayblissss`) is answering the wrong syllable, and where the stretch
+should land is a decision too.
 
 ## Where the name ends
 
