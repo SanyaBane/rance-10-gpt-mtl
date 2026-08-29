@@ -34,7 +34,7 @@ What is left after the first pass, and why each is left:
 | `dono` | 184, now 0 | `殿` is `-dono`. Its own pass, and it has had it -- "The 殿 pass" below. |
 | `unknown-name` | 102, now 77 | No table holds the name -- Terra, Rudrasaum, Osman. A missing row, not a missing substitution: `scripts/find_unnamed_terms.js` is the other half. Medusa, Pi-R and Wass turned out to be written down elsewhere and are closed below. |
 | `unpaired` | 60 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. |
-| `followed-by-name` | 26 | The English name runs on past the match. |
+| `followed-by-name` | 26, now 3 | The English name runs on past the match. "Where the name ends" below; the 3 left are ranks rather than names. |
 | `wrapped` | 16, now 2 | The address is split across two rows, so no row holds it and a substitution cannot see it. "The rows that cut an address in half" below. |
 | `already` | 2, now 0 | "Lord Lis-sama" was the honorific twice over, so the fix was dropping the title rather than adding what was there. `--bucket=already`. |
 
@@ -80,6 +80,35 @@ finding rather than noise: the corpus romanises the pair ドッスワッス as
 
   effective map: 180 changed, 0 gone, 0 added, against 180 rows written
   overflow unmoved at 847 -- `-dono` is 165.75 units against `Lord ` at 155
+
+## Where the name ends
+
+`scripts/fix_honorifics_multiword.js`, and **22 of the 26**. The pattern matches
+one capitalised word and the English name is two or three, so the guard that
+refuses them is the reason "Thunder-sama Emperor" and "Fiend-sama Warg" are not
+in the corpus. Where the name ends is a fact about the sentence: 魔人ワーグ様 is
+"Fiend Warg-sama", 火炎書士様 is "Flame Scrivener-sama", 毛利てる様 is "Teru
+Mouri-sama" with the two halves the other way round from the Japanese -- and
+テラ様 is "Terra-sama" even though the guard fired, because the capitalised word
+behind it was "I'll".
+
+So the 22 decisions are carried in the script, one row apiece, the way
+`fix_honorifics_untabled.js` carries its names. Each row carries the Japanese
+that licenses it and the script checks that against the speech before writing,
+so a line number that moves stops the pass instead of rewriting whatever now
+sits at it. Two are worth reading twice: 「魔剣カオスさん」 is さん and the only
+`-san` in the list, which any rule that trusted the bucket would have written
+`-sama`; and 「あ、あ、カチューシャ、さ、ま……」 stutters the honorific itself
+across two commas, so the string that licenses it is the stutter.
+
+**Three of the twenty-six are not honorifics at all.** 前四天王パパイア・サーバー,
+四天王チョチョマン・パブリ and 魔王ランス carry no 様 anywhere near them: the "Lord"
+there translates 四天王 and 魔王, which are ranks. A fourth turned out to be a
+misspelling first -- 「ケイブワン様」 read "Lady Kabe One", and writing the
+honorific onto it would have baked the misspelling a layer deeper.
+
+  effective map: 22 changed, 0 gone, 0 added, against 22 rows
+  overflow unmoved at 847
 
 ## The rows that cut an address in half
 
