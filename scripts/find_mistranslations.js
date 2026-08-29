@@ -1,27 +1,19 @@
 import * as fs from "fs/promises";
 import * as path from "path";
+import {readSceneRows} from "../modules/Corpus.js";
 import {BUILD, ensureBuild} from "../modules/Env.js";
 import {readNameTable} from "../modules/NameNormalizer.js";
-import {corpusDir, textLangName} from "../modules/TextLanguages.js";
+import {textLangDir, textLangName} from "../modules/TextLanguages.js";
 
-// Reported against the same table and corpus a build of this text language would
-// use, so what it finds is what the build would leave misspelled.
-const CORPUS_ROOT = corpusDir(textLangName());
-const mistranslated_names = await readNameTable(CORPUS_ROOT);
+// Reported against the same table and the same dialogue a build of this text
+// language would use, so what it finds is what the build would leave misspelled.
+const mistranslated_names = await readNameTable(textLangDir(textLangName()));
 
-const ROOT_FOLDER_PATH = path.join(CORPUS_ROOT, "gpt_outputs");
-
-const chunkFileNames = await fs.readdir(ROOT_FOLDER_PATH);
-const chunkFiles = chunkFileNames
-    .map(fileName => {
-        const [, startLineNumber, endLineNumber] = fileName.match(/^(\d+)_(\d+)\.json$/);
-        return {
-            fileName,
-            startLineNumber: Number(startLineNumber),
-            endLineNumber: Number(endLineNumber),
-        };
-    })
-    .sort((a,b) => a.startLineNumber - b.startLineNumber);
+// Every row of the scenes, which is where the dialogue lives. It was 4891 chunk
+// files until those went, and the rows carry the game's own Japanese rather than
+// a copy somebody retyped -- so a name this reports as missing is missing from
+// the line the game actually plays.
+const rows = await readSceneRows(textLangName());
 
 const getSentenceNames = (sentence) => {
     const matches = sentence.matchAll(/[^^.!?] ?([A-Z][\w-]+(?:\s+[A-Z][\w-]+)*)/g);
@@ -30,46 +22,36 @@ const getSentenceNames = (sentence) => {
 
 const charToSentencedToCount = {};
 
-for (const chunkFile of chunkFiles) {
-    const json = await fs.readFile(ROOT_FOLDER_PATH + "/" + chunkFile.fileName, "utf-8");
-    let data;
-    try {
-        data = JSON.parse(json);
-    } catch (error) {
-        error.message += " - while reading " + chunkFile.fileName;
-        throw error;
-    }
-    for (const lineRecord of data.output_parsed.translationLines) {
-        for (const nameRecord of mistranslated_names) {
-            if (!lineRecord.originalJapaneseLine.includes(nameRecord.shortNameJpn)) {
-                continue;
+for (const row of rows) {
+    for (const nameRecord of mistranslated_names) {
+        if (!row.japanese.includes(nameRecord.shortNameJpn)) {
+            continue;
+        }
+        const sentence = row.english;
+        const shortNameEng = nameRecord.shortNameEng;
+        if (sentence.includes(shortNameEng) || shortNameEng === "Hanny" && sentence.toLowerCase().includes("hannies")) {
+            continue;
+        }
+        const alreadyRecorded = nameRecord.knownMistranslations.some(mistranslation => {
+            return sentence.includes(mistranslation);
+        }) || shortNameEng === "Lia" && sentence.includes("ria");
+        const sentenceNames = getSentenceNames(row.english);
+        if (!alreadyRecorded) {
+            charToSentencedToCount[shortNameEng] = charToSentencedToCount[shortNameEng] ?? {};
+            for (const sentenceName of sentenceNames) {
+                charToSentencedToCount[shortNameEng][sentenceName] = charToSentencedToCount[shortNameEng][sentenceName] ?? 0;
+                ++charToSentencedToCount[shortNameEng][sentenceName];
             }
-            const sentence = lineRecord.translatedEnglishLine;
-            const shortNameEng = nameRecord.shortNameEng;
-            if (sentence.includes(shortNameEng) || shortNameEng === "Hanny" && sentence.toLowerCase().includes("hannies")) {
-                continue;
-            }
-            const alreadyRecorded = nameRecord.knownMistranslations.some(mistranslation => {
-                return sentence.includes(mistranslation);
-            }) || shortNameEng === "Lia" && sentence.includes("ria");
-            const sentenceNames = getSentenceNames(lineRecord.translatedEnglishLine);
-            if (!alreadyRecorded) {
-                charToSentencedToCount[shortNameEng] = charToSentencedToCount[shortNameEng] ?? {};
-                for (const sentenceName of sentenceNames) {
-                    charToSentencedToCount[shortNameEng][sentenceName] = charToSentencedToCount[shortNameEng][sentenceName] ?? 0;
-                    ++charToSentencedToCount[shortNameEng][sentenceName];
-                }
-                if (shortNameEng !== 'Kou' &&
-                    shortNameEng !== 'Lia' &&
-                    shortNameEng !== 'Lei' &&
-                    shortNameEng !== 'Am' &&
-                    shortNameEng !== 'Root' &&
-                    shortNameEng !== 'Rance' &&
-                    sentenceNames.length > 0 &&
-                    shortNameEng !== "Sioux"
-                ) {
-                    console.log("Missing name in translation: " + lineRecord.lineNumber + " - " + shortNameEng + " | " + sentenceNames.join(",") + " | " + lineRecord.translatedEnglishLine);
-                }
+            if (shortNameEng !== 'Kou' &&
+                shortNameEng !== 'Lia' &&
+                shortNameEng !== 'Lei' &&
+                shortNameEng !== 'Am' &&
+                shortNameEng !== 'Root' &&
+                shortNameEng !== 'Rance' &&
+                sentenceNames.length > 0 &&
+                shortNameEng !== "Sioux"
+            ) {
+                console.log("Missing name in translation: " + row.scene + " m[" + row.lineNumber + "]" + " - " + shortNameEng + " | " + sentenceNames.join(",") + " | " + row.english);
             }
         }
     }

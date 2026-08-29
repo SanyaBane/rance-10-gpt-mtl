@@ -28,6 +28,7 @@ import * as fs from "fs";
 import * as path from "path";
 import {EX_TXT} from "./AinFiles.js";
 import {CHERRY_PICKS, readSlotJapanese} from "./CherryPicks.js";
+import {readSceneRows} from "./Corpus.js";
 import {ENEMY_INFO_GLOSSARY} from "./EnemyInfo.js";
 import {ENEMY_PARTY_GLOSSARY} from "./EnemyPartyNames.js";
 import {ROOT} from "./Env.js";
@@ -35,7 +36,6 @@ import {CARD_GLOSSARY, NAMEPLATES} from "./Nameplates.js";
 import {SHARED_NAMES} from "./NameNormalizer.js";
 import {RACE_GLOSSARY} from "./RaceNames.js";
 import {SUMMARY_GLOSSARY, SUMMARY_TERMS} from "./SummaryLines.js";
-import {corpusDir} from "./TextLanguages.js";
 import {TROPHY_BONUS_GLOSSARY, TROPHY_GLOSSARY} from "./TrophyNames.js";
 
 const KANJI = /[一-鿿々]/;
@@ -348,29 +348,19 @@ export const readExPairs = () => {
  * minority spelling turned out to be the one the wiki uses -- see
  * docs/terminology-drift.md. Finding the split is the whole of what it does.
  */
-export const readDriftLines = (textLang) => {
+export const readDriftLines = async (textLang) => {
     const lines = [];
 
-    const root = corpusDir(textLang);
-    // Last wins, the way alice-tools reads the rendered patch: the chunk ranges
-    // overlap, so a line number carries two records and only one is played.
-    const winner = new Map();
-    for (const folder of ["gpt_outputs", "gpt_outputs_v104"]) {
-        const dir = path.join(root, folder);
-        for (const name of fs.readdirSync(dir).filter(file => file.endsWith(".json")).sort()) {
-            const data = JSON.parse(fs.readFileSync(path.join(dir, name), "utf-8"));
-            for (const record of data.output_parsed?.translationLines ?? []) {
-                winner.set(`${folder}:${+record.lineNumber}`, {
-                    japanese: record.originalJapaneseLine ?? "",
-                    english: record.translatedEnglishLine ?? "",
-                    source: "corpus",
-                    where: `m[${record.lineNumber}]`,
-                });
-            }
-        }
-    }
-    for (const line of winner.values()) {
-        lines.push(line);
+    // One row per number and nothing to resolve. The chunk files this used to
+    // read had overlapping ranges, so a line number carried two records of
+    // which the patch played the last, and reading them meant saying which.
+    for (const row of await readSceneRows(textLang)) {
+        lines.push({
+            japanese: row.japanese,
+            english: row.english,
+            source: "corpus",
+            where: `m[${row.lineNumber}]`,
+        });
     }
 
     const slots = readSlotJapanese();

@@ -39,7 +39,7 @@ await run(async () => {
     const number = (name, fallback) => (flagValue(name) === undefined ? fallback : Number(flagValue(name)));
 
     const textLang = textLangName();
-    const lines = readDriftLines(textLang);
+    const lines = await readDriftLines(textLang);
     const {split, odd} = findTermDrift(lines, {
         least: number("least", 25),
         precision: number("precision", 0.85),

@@ -37,13 +37,13 @@ import {flagValue, hasFlag} from "../modules/Argv.js";
 import {run} from "../modules/AliceTools.js";
 import {checkCardGenders, oneGender, readCardGenders} from "../modules/CardGenders.js";
 import {readCharacterGenders} from "../modules/CharacterGenders.js";
-import {readCorpus} from "../modules/Corpus.js";
+import {readSceneRows} from "../modules/Corpus.js";
 import {width} from "../modules/EastAsianWidth.js";
 import {loadLineNumbers} from "../modules/LineNumbers.js";
 import {createNameplateResolver} from "../modules/Nameplates.js";
 import {readPortraitGenders} from "../modules/PortraitGenders.js";
 import {readScenes} from "../modules/SceneScript.js";
-import {textLangDir, textLangName} from "../modules/TextLanguages.js";
+import {textLangName} from "../modules/TextLanguages.js";
 
 /**
  * A portrait the game itself marks as drawn for anybody rather than for
@@ -160,9 +160,8 @@ await run(async () => {
                 + " plate table gives, or the Japanese portrait key it is resolved from.");
             return 1;
         }
-        const {v100ToV104, japaneseByLineNumber} = await loadLineNumbers();
-        const corpus = await readCorpus(textLangDir(lang), v100ToV104);
-        const english = new Map(corpus.map(record => [+record.lineNumber, record.translatedEnglishLine]));
+        const {japaneseByLineNumber} = await loadLineNumbers();
+        const english = new Map((await readSceneRows(lang)).map(row => [row.lineNumber, row.english]));
         console.log(`${speaker.name}: ${speaker.lines} lines in ${speaker.scenes} scenes,`
             + ` behind ${[...speaker.stands].join(", ")}`);
         console.log(`  the table says ${genders.get(speaker.name) ?? "nothing about them"}`);

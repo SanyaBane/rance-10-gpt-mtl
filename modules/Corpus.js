@@ -128,3 +128,29 @@ export const readSceneDialogue = async (lang) => {
     }
     return {records, scenes: scenes.length, skipped};
 };
+
+/**
+ * Every row of a language's scenes as it stands, which is what a report wants.
+ *
+ * readSceneDialogue above is what a build reads, and it applies the speech
+ * rule: a speech nobody has translated is left out whole, so what comes back is
+ * what the game would be given. A report asks the other question -- what does
+ * the text say today -- so this hands back the cells as written, blanks
+ * included, with the file each came from, because a finding nobody can open is
+ * half a finding.
+ *
+ * The Japanese is the game's own either way. A scene row carries the dump's,
+ * checked at every extraction, where a chunk record carried a copy a model had
+ * retyped and 5081 of those disagreed with the game.
+ *
+ * @return {Promise<{lineNumber: number, japanese: string, english: string, scene: string}[]>}
+ */
+export const readSceneRows = async (lang) => {
+    const scenes = await readTranslatedScenes(lang);
+    return scenes.flatMap(({fileName, scene}) => scene.rows.map(row => ({
+        lineNumber: row.lineNumber,
+        japanese: row.japanese,
+        english: row.english,
+        scene: fileName,
+    })));
+};

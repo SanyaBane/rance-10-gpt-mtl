@@ -31,13 +31,14 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
+import {readSceneRows} from "../modules/Corpus.js";
 import {ENEMY_INFO_GLOSSARY} from "../modules/EnemyInfo.js";
 import {ENEMY_PARTY_GLOSSARY} from "../modules/EnemyPartyNames.js";
 import {ROOT} from "../modules/Env.js";
 import {CARD_GLOSSARY} from "../modules/Nameplates.js";
 import {RACE_GLOSSARY} from "../modules/RaceNames.js";
 import {SUMMARY_GLOSSARY, createTermChecker} from "../modules/SummaryLines.js";
-import {corpusDir, textLangName} from "../modules/TextLanguages.js";
+import {textLangName} from "../modules/TextLanguages.js";
 import {TROPHY_BONUS_GLOSSARY, TROPHY_GLOSSARY} from "../modules/TrophyNames.js";
 
 const args = process.argv.slice(2);
@@ -86,32 +87,21 @@ for (const file of GLOSSARIES) {
 }
 
 /**
- * The corpus counted rather than listed. The dialogue is four and a half
- * thousand chunk files and a term it never took is a thousand lines of it, so
- * what is worth printing is which term and how often, with a few lines to see
- * what it says instead.
+ * The dialogue counted rather than listed. It is 5433 scenes and a term they
+ * never took is a thousand rows of them, so what is worth printing is which
+ * term and how often, with a few lines to see what it says instead.
+ *
+ * Named by the scene file rather than by the line number alone, because the
+ * point of reading one of these is opening it.
  */
-const readCorpus = async () => {
-    const root = corpusDir(textLangName());
-    const lines = [];
-    for (const folder of ["gpt_outputs", "gpt_outputs_v104"]) {
-        const dir = path.join(root, folder);
-        for (const name of (await fs.readdir(dir)).filter(name => name.endsWith(".json")).sort()) {
-            const data = JSON.parse(await fs.readFile(path.join(dir, name), "utf-8"));
-            for (const record of data.output_parsed?.translationLines ?? []) {
-                lines.push({
-                    where: `${folder}/${name}#${record.lineNumber}`,
-                    japanese: record.originalJapaneseLine ?? "",
-                    english: record.translatedEnglishLine ?? "",
-                });
-            }
-        }
-    }
-    return lines;
-};
+const readDialogue = async () => (await readSceneRows(textLangName())).map(row => ({
+    where: `${row.scene}#${row.lineNumber}`,
+    japanese: row.japanese,
+    english: row.english,
+}));
 
 if (wantsCorpus) {
-    const lines = (await readCorpus()).filter(line => line.japanese && line.english);
+    const lines = (await readDialogue()).filter(line => line.japanese && line.english);
     const missed = new Map();
     for (const line of lines) {
         for (const complaint of checkTerms(line.japanese, line.english)) {
