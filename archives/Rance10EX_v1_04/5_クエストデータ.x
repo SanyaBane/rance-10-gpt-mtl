@@ -18453,7 +18453,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "How to restore the Demon\nKing.",
+					説明 = "How to stop Demon\nKing transformation.",
 				},
 			},
 		},
