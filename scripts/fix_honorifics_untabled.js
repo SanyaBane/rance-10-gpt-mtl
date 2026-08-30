@@ -37,6 +37,19 @@
  * for; the sixteen モドカタ speeches all render the name plain and carry no
  * title for it to touch.
  *
+ * **志津香 is Shizuka and ナギ is Nagi**, and what the tables hold is the child
+ * of each: glossaries/mistranslated_names.json keys both under 子供志津香 and
+ * 子供ナギ, which are a card apiece, and card_name_glossary.tsv adds 志津香2 and
+ * ナギ2, whose English `readNameIndex` refuses because a card Id is not a name.
+ * So the grown women have no row the index can use, and 「志津香さんにナギさん。」
+ * came back "Lady Shizuka, Lady Nagi" while 34 and 15 other speeches say
+ * Shizuka-san and Nagi-san. **One row in the whole corpus titles either name**,
+ * and it is that one, so the two pairs reach exactly what they were written for.
+ *
+ * A pair may name the honorific it answers, which these two do: さん is not 様
+ * and -san is not -sama, and both names are on the same row, so a pair that
+ * converted one of them would leave the sentence half done.
+ *
  * **The name form is left exactly where it is.** 香様 reads "Kou-sama" 25
  * times elsewhere in the corpus and 香姫様 reads "Kouhime-sama" 11, so these 14
  * disagree about which of the two forms to use as well -- and that is a
@@ -89,6 +102,8 @@ const PAIRS = [
     {english: "Kouhime", japanese: "香"},
     {english: "Kou", japanese: "香姫"},
     {english: "Modokata", japanese: "もどかた"},
+    {english: "Shizuka", japanese: "志津香", honorifics: ["さん"], suffix: "-san"},
+    {english: "Nagi", japanese: "ナギ", honorifics: ["さん"], suffix: "-san"},
 ];
 
 const escapeForRegExp = (text) => text.replace(/[.*+?^${}()|[\]\\-]/g, "\\$&");
@@ -120,11 +135,11 @@ const bracketsOf = (text) =>
  * continuation indent is a full-width space that belongs to the row and a tab
  * is what the scene format escapes on purpose.
  */
-const holds = (before, after, name, hits) => {
-    const grown = hits * (`${name}-sama`.length - `Lord ${name}`.length);
+const holds = (before, after, name, hits, suffix) => {
+    const grown = hits * (`${name}${suffix}`.length - `Lord ${name}`.length);
     return after.length === before.length + grown
         && addressOf(name).test(after) === false
-        && !after.includes("-sama-sama")
+        && !after.includes(suffix + suffix)
         && !after.includes("\t")
         && after.startsWith(before.match(/^[\s　]*/)[0])
         && bracketsOf(after) === bracketsOf(before);
@@ -153,9 +168,10 @@ await run(async () => {
         const english = new Map();
 
         for (const speech of speechesOf(scene)) {
-            for (const {english: name, japanese} of PAIRS) {
-                if (!speech.japanese.includes(`${japanese}様`)
-                    && !speech.japanese.includes(`${japanese}さま`)) {
+            for (const pair of PAIRS) {
+                const {english: name, japanese} = pair;
+                const {honorifics = ["様", "さま"], suffix = "-sama"} = pair;
+                if (!honorifics.some(one => speech.japanese.includes(japanese + one))) {
                     continue;
                 }
                 for (const number of speech.rows) {
@@ -164,8 +180,8 @@ await run(async () => {
                     if (!hits) {
                         continue;
                     }
-                    const after = before.replace(addressOf(name), `${name}-sama`);
-                    if (!holds(before, after, name, hits)) {
+                    const after = before.replace(addressOf(name), `${name}${suffix}`);
+                    if (!holds(before, after, name, hits, suffix)) {
                         rowsLeft.push(`${file} m[${number}]`);
                         continue;
                     }

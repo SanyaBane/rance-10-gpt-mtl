@@ -58,17 +58,34 @@ const TITLE_WORDS = new Set([
     "War", "Sea", "Over", "Dread", "Sky", "Under", "First", "Second", "Third",
 ]);
 
-/** Every bucket the report files an occurrence under; only "sama" is fixable. */
+/** Every bucket the report files an occurrence under. */
 export const BUCKETS = [
-    "sama", "dono", "unpaired", "unknown-name", "title-word", "followed-by-name",
-    "already", "wrapped",
+    "sama", "dono", "san", "unpaired", "unknown-name", "title-word",
+    "followed-by-name", "already", "wrapped",
 ];
 
 /** The ones the Japanese decides on its own; the rest are for a person to read. */
-export const FIXABLE = ["sama", "dono", "already"];
+export const FIXABLE = ["sama", "dono", "san", "already"];
 
 /** Which suffix a bucket writes, where it writes one. */
-const SUFFIX = {sama: "-sama", dono: "-dono"};
+const SUFFIX = {sama: "-sama", dono: "-dono", san: "-san", han: "-han"};
+
+/**
+ * The suffix particles that are not 様, and the bucket they share.
+ *
+ * `unpaired` says the speech carries no honorific at all, and that was true of
+ * five of the forty-eight it once held: the rest carry a different one, and a
+ * report that cannot tell those apart hands a person the same word for two
+ * questions. さん and はん are the half of that which is still a substitution --
+ * modules/ScenePrompt.js names -san among the four that stay as the Japanese
+ * wrote them -- so they get a bucket of their own and a sweep with it.
+ *
+ * はん is Kansai for さん and keeps its own spelling, the way the corpus already
+ * writes "Chochoman-han" twice. The titles are the other half and are not here:
+ * 閣下, 主君, 女史, 嬢 and 女王 are words English translates rather than
+ * particles it keeps, and each is a decision. docs/honorifics.md is which.
+ */
+const PARTICLES = [["さん", SUFFIX.san], ["はん", SUFFIX.han]];
 
 /**
  * The English name back to the Japanese it spells.
@@ -201,6 +218,11 @@ const classify = (speech, row, match, index, {byEnglish}) => {
             japaneseName,
             after: `${name}${SUFFIX.dono}${possessive}`,
         };
+    }
+    for (const [honorific, suffix] of PARTICLES) {
+        if (calls(speech.japanese, names, honorific)) {
+            return {...finding, bucket: "san", japaneseName, after: `${name}${suffix}${possessive}`};
+        }
     }
     return {...finding, bucket: "unpaired", japaneseName};
 };
