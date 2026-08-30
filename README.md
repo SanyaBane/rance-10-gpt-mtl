@@ -35,23 +35,34 @@ The patch brings a folder called `custom_mods`, holding empty files with specifi
 Game just check for their existence. 
 Each one switches on an optional change to how the game plays.
 
-These features are designed to improve the gameplay, but at the same time make the game slightly easier 
+These features are designed to improve gameplay, but at the same time they make game slightly easier 
 by reducing the number of routine actions that the player must perform to achieve better results.
 
-| Feature | What it changes                                                                                        | The file that switches it |
-|---|--------------------------------------------------------------------------------------------------------|---|
-| [`enemy-panel`](features/enemy-panel/README.md) | the enemy status panel at the start of every round, not only after Analyze                             | `custom_mods\enemy_panel_on` |
-| [`reliable-cooking`](features/reliable-cooking/README.md) | Meal Preparation and Sweets Making always work, instead of failing a quarter of the time               | `custom_mods\reliable_cooking_on` |
-| [`always-first-finisher`](features/always-first-finisher/README.md) | the +50 First Finisher treasure bonus on every battle, whoever lands the kill                          | `custom_mods\always_first_finisher_on` |
-| [`first-finisher-100`](features/first-finisher-100/README.md) | that same First Finisher bonus paid as +100 instead of +50, which is enough to make any battle paying it a certain chest | `custom_mods\first_finisher_100_on` |
-| [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md) | a rank-up keeps the experience already accumulated toward it, instead of emptying the bar              | `custom_mods\rank_up_keep_progress_on` |
-| [`base-stats-on-card`](features/base-stats-on-card/README.md) | displaying the card's base stats next to the current ones (which change depending on the current rank) | `custom_mods\base_stats_on_card_on` |
-| [`absorbed-damage-in-log`](features/absorbed-damage-in-log/README.md) | the battle log says how much damage an enemy blocked, for the ones that take nothing unless a hit clears their threshold | `custom_mods\absorbed_damage_in_log_on` |
+My advice - **if you play first time, do not use any of them**. 
+
+| Feature                                                               | What it changes                                                                                                                                                                        | The file that switches it               |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| [`enemy-panel`](features/enemy-panel/README.md)                       | Enemy status panel will appear automatically at the start of every round during Battle                                                                                                 | `custom_mods\enemy_panel_on`            |
+| [`reliable-cooking`](features/reliable-cooking/README.md)             | `Meal Preparation` and `Sweets Making` chance to work modified from 75% to 100%                                                                                                        | `custom_mods\reliable_cooking_on`       |
+| [`always-first-finisher`](features/always-first-finisher/README.md)   | `First Finisher` treasure bonus on every battle                                                                                                                                        | `custom_mods\always_first_finisher_on`  |
+| [`first-finisher-100`](features/first-finisher-100/README.md)         | `First Finisher` bonus gives +100%, instead of +50% <br/>**This one is more like cheat than simple QoL**                                                                               | `custom_mods\first_finisher_100_on`     |
+| [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md)   | `Rank Up` keeps the experience already accumulated toward next Rank, instead of emptying the bar to 0%                                                                                 | `custom_mods\rank_up_keep_progress_on`  |
+| [`base-stats-on-card`](features/base-stats-on-card/README.md)         | Card's `base stats` (Rank 0) will be displayed on every card, so you can easier identify which unit is stronger (stats based)                                                          | `custom_mods\base_stats_on_card_on`     |
+| [`absorbed-damage-in-log`](features/absorbed-damage-in-log/README.md) | Shows in `Battle Log` how much damage an enemy blocked, when said enemy has special buff which nullifies damage bellow certain threshold (`Stone Guardian` and other simillar enemies) | `custom_mods\absorbed_damage_in_log_on` |
 
 To turn one off, simply delete its file; to be left with the translation and nothing else, delete the whole
 `custom_mods` folder. Neither needs the game restarted — except `base-stats-on-card`, which is drawn into a
 card the first time you look at it, so a card already seen this session keeps the face it was drawn with.
 
+### Examples
+
+#### base-stats-on-card:
+
+<img width="400" alt="The dialogue window as the game ships it, Sill speaking in Japanese" src="docs/images/features/base-stats-on-card_01.jpg" />
+
+#### absorbed-damage-in-log:
+
+<img width="400" alt="The dialogue window as the game ships it, Sill speaking in Japanese" src="docs/images/features/absorbed-damage-in-log_01.jpg" />
 
 ## About
 
