@@ -18,6 +18,22 @@
  * speech before anything is written, so a line number that moves stops the pass
  * rather than rewriting whatever now sits at it.
  *
+ * **Four of them answered the wrong syllable.** The Japanese stretches the
+ * honorific and the English stretched the name, so the pattern matched a word
+ * no table could ever hold: 「ミトさまーーー！」 read "Lord Mitoooo",
+ * 「アリス様ぁぁあああああ！」 read "Lady Aliceeeeee", and Kaybwan's growled
+ * 「ケイブリズさま゛ぁぁ゛ぁ゛〜〜〜！」 read "Lord Kayblissss". The decoration
+ * changes place and keeps its length -- three o's become three a's, five e's
+ * five, three s's three -- because how long a stretch runs is the translation's
+ * own and only where it sits is wrong. Two of the three agree with the Japanese
+ * on the count as well; アリス's seven kana against five is left as written.
+ *
+ * The fourth breaks rather than stretches. A dying Flame Scrivener says
+ * 「――ハウ、ゼ……さま、っ……にげ、っ……」, snapping the name in half around the
+ * pause, and the English broke it the same way and spelled the first half from
+ * the sound: "Lady Hau... zel". ハウゼル is Hawzel in five tables, so the break
+ * stays where the Japanese put it and the halves are spelled from the name.
+ *
  * **Two of them romanise the title rather than translating it.** 雷帝 is the
  * Thunder Emperor -- glossaries/summary_terms.tsv settles it and the corpus
  * writes it that way on fourteen rows -- so 「雷帝様」 as "Lord Raitei" was in
@@ -80,6 +96,10 @@ const ROWS = [
     {file: "033503.tsv", line: 247250, was: "Lady Fiend Warg", is: "Fiend Warg-sama", japanese: "魔人ワーグ様"},
     {file: "033503.tsv", line: 247284, was: "Lady Fiend Warg", is: "Fiend Warg-sama", japanese: "魔人ワーグ様"},
     {file: "033666.tsv", line: 251824, was: "Lord Fiend Galtia", is: "Fiend Galtia-sama", japanese: "魔人ガルティア様"},
+    {file: "030488.tsv", line: 10245, was: "Lord Mitoooo", is: "Mito-samaaa", japanese: "ミトさまーーー"},
+    {file: "030653.tsv", line: 21518, was: "Lady Hau... zel", is: "Haw... zel-sama", japanese: "ハウ、ゼ……さま"},
+    {file: "031619.tsv", line: 92053, was: "Lady Aliceeeeee", is: "Alice-samaaaaa", japanese: "アリス様ぁぁ"},
+    {file: "032749.tsv", line: 173726, was: "Lord Kayblissss", is: "Kayblis-samaaa", japanese: "ケイブリズさま"},
 ];
 
 const bracketsOf = (text) =>
