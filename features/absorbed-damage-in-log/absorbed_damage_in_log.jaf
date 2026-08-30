@@ -1,0 +1,32 @@
+/*
+ * Whether the battle log says how much damage a 制限装甲 enemy swallowed,
+ * written as the presence of a file: custom_mods\absorbed_damage_in_log_on
+ * under the game folder, beside Rance10.exe. Delete it and the two guard lines
+ * read exactly what they always read.
+ *
+ * absorbed_damage_in_log.jam beside it is what calls this, and says why the
+ * lines it adds could not be written as .jaf themselves -- the short of it is
+ * that the .jaf compiler reaches neither a property (info.PreGuardDamage) nor a
+ * struct method (ShowLog), and building a BattleLog is both. This half is .jaf
+ * because it needs a string local, which a .jam cannot add: --jam rewrites code
+ * and not the FUNC section, so a patched function has exactly the locals it was
+ * compiled with.
+ *
+ * Read once per guarded hit rather than once per frame, so creating or deleting
+ * the file takes effect on the next attack rather than the next launch.
+ *
+ * The path is spelled with forward slashes because the .jaf lexer does not take
+ * a backslash in a string literal at all, and Windows accepts either separator.
+ * It is looked for twice for the reason features/enemy-panel/enemy_info_panel.jaf
+ * gives: whether SystemService.GetGameFolderPath() ends in a separator is
+ * something the game does not agree with itself about, and trying both spellings
+ * settles it without running the game. A path that does not resolve reads as
+ * "no file", which is the harmless direction -- the game behaving exactly as it
+ * does unpatched.
+ */
+bool AbsorbedDamageInLogEnabled(void)
+{
+	string folder = SystemService.GetGameFolderPath();
+	return FileOperation.ExistFile(folder + "custom_mods/absorbed_damage_in_log_on")
+	    || FileOperation.ExistFile(folder + "/custom_mods/absorbed_damage_in_log_on");
+}

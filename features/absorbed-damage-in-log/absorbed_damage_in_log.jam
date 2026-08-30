@@ -1,0 +1,284 @@
+; How much damage a 制限装甲 enemy swallowed, said in the battle log:
+;
+;   Rance's Rance Attack！ resulted in…Limit Broken！ (7340 raw)
+;   Stone Guardian took 100 of damage！
+;
+;   Rance's Rance Attack！ resulted in…Cannot deal damage！(Limit Break) (1780 absorbed)
+;
+; Half of a feature a build can leave out; the other half is the switch,
+; absorbed_damage_in_log.jaf beside it, and feature.js in this folder names the
+; pair. docs/absorbed-damage-log.md is the write-up.
+;
+; WHAT THE GAME DOES. 制限装甲 is skill effect 107, and its value is the
+; threshold N -- twelve tiers, 5 000 to 2 000 000, in
+; archives/Rance10EX_v1_04/11_スキルデータ.x. PlayerAttackDamageCalculator@CalcSpecificAegisEffect
+; (FUNC 26978) compares the finished damage against it:
+;
+;     if (damage > N)  GuardType = GuardBreak;                        -> exactly 100 lands
+;     else           { GuardType = Guard; GuardReason = DamageRange; } -> nothing lands
+;
+; Either way the number the player rolled is dropped. DamageInformation@TotalDamage
+; (FUNC 27053) answers 0 or 100 from then on, and only @PreGuardDamage (FUNC 27055)
+; -- the base damage plus every additional damage, which is the figure that was
+; compared against N -- still knows it. Nothing prints it. On an absorbed hit it
+; is drawn over the enemy and counted down to zero (DamageView@MotionNumber,
+; FUNC 25071, takes the same @PreGuardDamage), so a player who looks away has no
+; way back to it; on a break it is not drawn at all, because the flying number
+; there is the flat 100.
+;
+; WHY THIS FUNCTION. SceneBattle@ShowLogGuard is the one place the guard is put
+; into words, it has the DamageInformation as an argument, and it has one caller
+; -- SceneBattle@ShowAttackDamage (FUNC 24913), the OnDamageEvent handler, which
+; reaches it only for a player attack. So both guard outcomes pass through here
+; and nothing else does.
+;
+; It also already holds three ref BattleLog locals, which is the one thing a .jam
+; cannot arrange: --jam rewrites code and leaves the FUNC section alone, so a
+; patched function has exactly the locals it was compiled with, and building a
+; log needs one. The tail below reuses `log` and the `new BattleLog` dummy the
+; third branch already uses, after that branch has finished with them.
+;
+; WHY THE TWO ENGLISH LITERALS. A literal in a .jam is matched against the
+; string table by *text*, and the text patch has already run by the time
+; alice-tools reads this file. Pushing the Japanese s[3295] / s[3296] here would
+; match no slot -- they say English by that point -- and come back as two new
+; Japanese strings that this function would push, which is the fault
+; patches/leader_state_names.jam exists for. So the English is written in
+; directly.
+;
+; Which slot it then lands on is not something to rely on, and measuring it says
+; so: applied on its own over the rendered dialogue the two literals resolve to
+; s[3295] and s[3296] themselves, and in a real build -- the same text patch,
+; with the English .jaf and .jam ahead of this one -- they come back as two new
+; slots holding the same sentences. Both are correct, because a duplicate
+; holding identical text is what the player reads either way, and both leave
+; s[3295] / s[3296] alone for the callers that keep them (the unpatched function
+; a --without= build runs, and SkillEffectProcessDamageSelf@GetLog, which pushes
+; s[3296] too).
+;
+; What that does mean is that the wording here is load-bearing rather than
+; decorative: with the feature on it is what the player reads, with it off the
+; cherry-picked slot is, and nothing in a diff would show the two drifting
+; apart. So modules/GuardLog.js holds these two lines against what
+; patches/system_cherry_picks.v1.04.ain.txt assigns to those slots at the start
+; of every build: reword one and the build stops until the other says the same
+; thing.
+;
+; The cost is the one thing this feature is not free of: a --text-lang=jp build
+; with it in shows those two lines in English. It builds and it plays, which is
+; what that build is for, but it is the reason to leave the third line -- the
+; number itself -- language-neutral. " raw" and " absorbed" are the only words
+; this feature invents.
+;
+; The body is FUNC 24930 verbatim from
+;
+;   alice ain dump -c game/ain/Rance10.v1.04.ain
+;
+; with the two strings swapped, one JUMP retargeted and the block at the bottom
+; added. Regenerate it the same way if the game version changes: every number
+; here is an index into one build of one .ain.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ" -- and an editor
+; that defaults .jam to UTF-8-with-BOM will quietly put one back.
+FUNC 24930
+	.LOCALREF info
+	PUSH 2
+	REF
+	PUSH 2
+	EQUALE
+	IFNZ 0x3c27bc
+	JUMP 0x3c2828
+; GuardType == GuardBreak: "Limit Broken！", and the 100 that lands is logged
+; after this by SceneBattle@ShowAdditionalDamageLog. The only edit is the JUMP,
+; which used to go straight to the RETURN.
+0x3c27bc:
+	PUSHSTRUCTPAGE
+	PUSH 24944
+	PUSHSTRUCTPAGE
+	PUSH 24931
+	CALLMETHOD 0
+	.STACK_LOCALASSIGN "<dummy : 右辺値参照化用>"
+	CALLMETHOD 1
+	.LOCALDELETE "<dummy : 右辺値参照化用>"
+	.LOCALDELETE "<dummy : 右辺値参照化用>"
+	JUMP show_raw_damage
+0x3c2828:
+	.LOCALREF info
+	PUSH 3
+	REF
+	PUSH 2
+	EQUALE
+	IFNZ 0x3c284e
+	JUMP 0x3c2868
+; MajinShieldType == GuardBreak: the Fiend's barrier is gone and the damage
+; landed in full, so ShowAdditionalDamageLog prints it and there is nothing here
+; to say. Left exactly as it was, JUMP to the RETURN included.
+0x3c284e:
+	PUSHSTRUCTPAGE
+	PUSH 24943
+	S_PUSH "The Fiend's invincible barrier was removed！"
+	CALLMETHOD 1
+	JUMP 0x3c29a2
+0x3c2868:
+	.LOCALREF info
+	PUSH 4
+	REF
+	PUSH 0
+	NOTE
+	IFNZ 0x3c288e
+	JUMP 0x3c29a2
+; GuardReason != None: "Cannot deal damage！(<Any>)", <Any> being
+; DamageInformation@GuardReasonText (FUNC 27051) -- "Limit Break" for this one.
+; Unchanged but for the string, and it now falls through to the block below
+; rather than into the RETURN.
+0x3c288e:
+	PUSHLOCALPAGE
+	PUSH 3
+	DUP2
+	REF
+	DELETE
+	.LOCALREF "<dummy : new BattleLog>"
+	DELETE
+	PUSHLOCALPAGE
+	PUSH 4
+	NEW BattleLog 27212
+	ASSIGN
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : new BattleLog>"
+	.LOCALREF log
+	PUSH 27225
+	S_PUSH "Cannot deal damage！(<Any>)"
+	DUP_X2
+	A_REF
+	CALLMETHOD 1
+	DELETE
+	.LOCALREF log
+	PUSH 11
+	REF
+	.LOCALREF info
+	PUSH 27051
+	CALLMETHOD 0
+	S_ASSIGN
+	DELETE
+	.LOCALREF log
+	PUSH 9
+	PUSH 1
+	ASSIGN
+	POP
+	.LOCALREF log
+	PUSH 8
+	PUSH 0
+	ASSIGN
+	POP
+	PUSHSTRUCTPAGE
+	PUSH 24944
+	.LOCALREF log
+	CALLMETHOD 1
+	.LOCALDELETE "<dummy : new BattleLog>"
+	.LOCALDELETE log
+; --- added: the number that was rolled, as a log entry of its own -----------
+;
+;   CALLFUNC AbsorbedDamageInLogEnabled   is the switch file there
+;   IFZ 0x3c29a2                          no: the log reads what it always read
+;   log = new BattleLog();
+;   log.Text = " ({255,255,0}<Damage>{}<Any>)";
+;   log.AnyString = info.GuardType == GuardBreak ? " raw" : " absorbed";
+;   log.Damage = info.PreGuardDamage;     FUNC 27055 -- base + every additional
+;   log.IsAddMode = true;                 append to the line, do not start one
+;   log.IsShowCenterLog = false;          and no banner across the screen
+;   ShowLog(log);                         FUNC 24944
+;
+; A log entry rather than a longer version of the two lines above, because those
+; two are translation and this is the feature: the entry carries its own text, so
+; turning the feature off leaves them untouched and nothing here needs a second
+; English wording kept in step with anything.
+;
+; BattleLog@ReplaceText (FUNC 27230) fills <Damage> from the Damage member and
+; <Any> from AnyString, and BattleLog@Width strips the {…} colour codes before
+; measuring, so this is 16 units against BattleLogCollection@IsFlushRequired's 60
+; and wraps to the next log line by itself when the sentence before it is long.
+;
+; IsAddMode has to be set because a BattleLog starts with IsAddMode false and
+; IsShowCenterLog *true* (BattleLog@2, FUNC 27213) -- the defaults of a line that
+; announces itself in the middle of the screen, which is why the number cannot
+; simply go through SceneBattle@ShowLog(string).
+;
+; The word is chosen from GuardType rather than from which branch jumped here,
+; so the two paths share one block. It matters that it is chosen at all: on a
+; break the damage was not absorbed, it was replaced by a flat 100.
+;
+; Both branches above have finished with `log` and the `new BattleLog` dummy by
+; the time they reach this label -- the third one deletes both on the line before
+; -- and the GuardBreak branch never touched either, so the DELETE below runs
+; against the -1 a ref local starts at. Which is what the game's own code does
+; here too: the third branch deletes the same uninitialised local before its
+; first assignment.
+show_raw_damage:
+	CALLFUNC AbsorbedDamageInLogEnabled
+	IFZ 0x3c29a2
+	PUSHLOCALPAGE
+	PUSH 3
+	DUP2
+	REF
+	DELETE
+	.LOCALREF "<dummy : new BattleLog>"
+	DELETE
+	PUSHLOCALPAGE
+	PUSH 4
+	NEW BattleLog 27212
+	ASSIGN
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : new BattleLog>"
+	.LOCALREF log
+	PUSH 27225
+	S_PUSH " ({255,255,0}<Damage>{}<Any>)"
+	DUP_X2
+	A_REF
+	CALLMETHOD 1
+	DELETE
+	.LOCALREF log
+	PUSH 11
+	REF
+	.LOCALREF info
+	PUSH 2
+	REF
+	PUSH 2
+	EQUALE
+	IFZ absorbed_word
+	S_PUSH " raw"
+	JUMP raw_damage_word_done
+absorbed_word:
+	S_PUSH " absorbed"
+raw_damage_word_done:
+	S_ASSIGN
+	DELETE
+	.LOCALREF log
+	PUSH 7
+	.LOCALREF info
+	PUSH 27055
+	CALLMETHOD 0
+	ASSIGN
+	POP
+	.LOCALREF log
+	PUSH 9
+	PUSH 1
+	ASSIGN
+	POP
+	.LOCALREF log
+	PUSH 8
+	PUSH 0
+	ASSIGN
+	POP
+	PUSHSTRUCTPAGE
+	PUSH 24944
+	.LOCALREF log
+	CALLMETHOD 1
+	.LOCALDELETE "<dummy : new BattleLog>"
+	.LOCALDELETE log
+; --- end of the addition ---------------------------------------------------
+0x3c29a2:
+	RETURN
+ENDFUNC SceneBattle@ShowLogGuard

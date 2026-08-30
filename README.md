@@ -46,6 +46,7 @@ by reducing the number of routine actions that the player must perform to achiev
 | [`first-finisher-100`](features/first-finisher-100/README.md) | that same First Finisher bonus paid as +100 instead of +50, which is enough to make any battle paying it a certain chest | `custom_mods\first_finisher_100_on` |
 | [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md) | a rank-up keeps the experience already accumulated toward it, instead of emptying the bar              | `custom_mods\rank_up_keep_progress_on` |
 | [`base-stats-on-card`](features/base-stats-on-card/README.md) | displaying the card's base stats next to the current ones (which change depending on the current rank) | `custom_mods\base_stats_on_card_on` |
+| [`absorbed-damage-in-log`](features/absorbed-damage-in-log/README.md) | the battle log says how much damage an enemy blocked, for the ones that take nothing unless a hit clears their threshold | `custom_mods\absorbed_damage_in_log_on` |
 
 To turn one off, simply delete its file; to be left with the translation and nothing else, delete the whole
 `custom_mods` folder. Neither needs the game restarted — except `base-stats-on-card`, which is drawn into a

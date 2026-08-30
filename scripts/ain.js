@@ -19,6 +19,7 @@ import {checkCardBack} from "../modules/CardBack.js";
 import {ENEMY_PARTY_JAF, renderEnemyPartyNamesJaf} from "../modules/EnemyPartyNames.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
+import {checkGuardLog} from "../modules/GuardLog.js";
 import {ORGANIZATION_JAF, renderOrganizationNamesJaf} from "../modules/OrganizationNames.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
 import {isTranslated, regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
@@ -102,6 +103,16 @@ run(async () => {
      * repository, and a minute of dialogue would otherwise go by first.
      */
     await checkCardBack();
+
+    /*
+     * features/absorbed-damage-in-log replaces the function that puts a guard
+     * into words, so it has to re-push two strings the cherry-picks translate --
+     * and a .jam literal is matched by text against the table the text patch has
+     * already written. Held to each other here for the same reason as the pair
+     * above: a battle log that silently reverts to Japanese is worth more than
+     * the second it costs to rule out. modules/GuardLog.js is the reasoning.
+     */
+    await checkGuardLog();
 
     /*
      * The faction on the back of a card, which is neither only translation nor

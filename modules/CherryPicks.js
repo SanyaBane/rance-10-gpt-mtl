@@ -95,6 +95,29 @@ const SETTLED = new Map([
 const ASSIGNMENT = /^s\[(\d+)]\s*=\s*"((?:[^"\\\n]|\\.)*)"/gm;
 
 /**
+ * What each cherry-picked slot ends up saying, by slot number.
+ *
+ * Last assignment wins, because that is the rule alice-tools applies and this
+ * file is appended after the whole rendered dialogue -- so a slot written twice
+ * here says whichever line comes second, and asking anything else would be
+ * asking about a string the game never shows.
+ *
+ * checkCherryPickNames above reads every assignment rather than the last,
+ * because a duplicate is one more line to hold against the name table. This is
+ * the other question: what a build of this file puts in front of the player.
+ * modules/GuardLog.js is what wants it -- a .jam that has to re-push one of
+ * these strings has to spell it the way this file leaves it.
+ */
+export const readSlotEnglish = () => {
+    const bySlot = new Map();
+    const text = fs.readFileSync(CHERRY_PICKS, "utf-8");
+    for (const match of text.matchAll(ASSIGNMENT)) {
+        bySlot.set(+match[1], match[2]);
+    }
+    return bySlot;
+};
+
+/**
  * Every cherry-picked string held to glossaries/mistranslated_names.json.
  *
  * Reported rather than repaired, like checkNameplates: this file's English is
