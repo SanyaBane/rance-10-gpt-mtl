@@ -106,6 +106,26 @@ export const readNameIndex = async (lang) => {
 };
 
 /**
+ * Full-width ASCII letters and digits folded to the half-width the scenes write.
+ *
+ * `glossaries/card_name_glossary.tsv` keys a name in whatever width the game's
+ * own tables use, and the dialogue writes what a translator typed: ＡＬＩＣＥ
+ * against `ALICE様`, ＢＳ against `BS殿`. `mentions` was comparing two spellings
+ * of one name and could never pair either -- nine occurrences, every one a 様
+ * or a 殿 the speech plainly carries.
+ *
+ * **Letters and digits only, and that is the whole of the care this needs.**
+ * `＜エール＞` is the token the game swaps for the name the player typed, and it is
+ * in this index under "El"; folding its brackets would spell a key the game has
+ * never heard of, which is the fault docs/player-name-token.md records arriving
+ * from a third direction. The fold is 1:1 per character, so the katakana-run
+ * guard in `mentions` still measures the neighbours it measured before.
+ */
+const foldWidth = (text) => text.replace(
+    /[０-９Ａ-Ｚａ-ｚ]/g,
+    (character) => String.fromCharCode(character.charCodeAt(0) - 0xFEE0));
+
+/**
  * Whether the Japanese calls this name with this suffix, katakana-run aware.
  *
  * `mentions` guards the katakana end of a word and leaves the other alone,
@@ -114,7 +134,9 @@ export const readNameIndex = async (lang) => {
  * would answer a title with an honorific. No speech in the corpus does that
  * today; the guard is here because the report is what the next pass reads.
  */
-const calls = (japanese, names, suffix) => names.some(name => {
+const calls = (spoken, names, suffix) => names.some(unfolded => {
+    const japanese = foldWidth(spoken);
+    const name = foldWidth(unfolded);
     if (suffix !== "殿") {
         return mentions(japanese, name + suffix);
     }
