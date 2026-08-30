@@ -43,6 +43,7 @@ by reducing the number of routine actions that the player must perform to achiev
 | [`enemy-panel`](features/enemy-panel/README.md) | the enemy status panel at the start of every round, not only after Analyze                             | `custom_mods\enemy_panel_on` |
 | [`reliable-cooking`](features/reliable-cooking/README.md) | Meal Preparation and Sweets Making always work, instead of failing a quarter of the time               | `custom_mods\reliable_cooking_on` |
 | [`always-first-finisher`](features/always-first-finisher/README.md) | the +50 First Finisher treasure bonus on every battle, whoever lands the kill                          | `custom_mods\always_first_finisher_on` |
+| [`first-finisher-100`](features/first-finisher-100/README.md) | that same First Finisher bonus paid as +100 instead of +50, which is enough to make any battle paying it a certain chest | `custom_mods\first_finisher_100_on` |
 | [`rank-up-keep-progress`](features/rank-up-keep-progress/README.md) | a rank-up keeps the experience already accumulated toward it, instead of emptying the bar              | `custom_mods\rank_up_keep_progress_on` |
 | [`base-stats-on-card`](features/base-stats-on-card/README.md) | displaying the card's base stats next to the current ones (which change depending on the current rank) | `custom_mods\base_stats_on_card_on` |
 
