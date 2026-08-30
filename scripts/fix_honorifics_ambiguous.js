@@ -37,6 +37,13 @@
  * Kayblis-sama besides the titles here. Deciding among those is a
  * scripts/find_term_drift.js question about a name rather than an honorific
  * question, so this writes the form the row already carries.
+ *
+ * **The sixth row is that rule proving it means what it says.** Kaybwan's
+ * 「ニャンもリス様、嫌いになっちゃったの？」 reads "hates Lord Kayblis now?" -- the same
+ * address as the five above and the other end of the name in the English, and
+ * the corpus already writes Kayblis-sama for リス様 once elsewhere. Writing
+ * Lis-sama here to match its neighbours would be deciding the drift under
+ * cover of an honorific pass, which is the one thing this file does not do.
  */
 import * as fs from "fs/promises";
 import * as path from "path";
@@ -62,6 +69,7 @@ const ROWS = [
     {file: "030862.tsv", line: 35536, was: "Lord Lis", is: "Lis-sama", japanese: "リス様"},
     {file: "030863.tsv", line: 35568, was: "Lord Lis", is: "Lis-sama", japanese: "リス様"},
     {file: "030863.tsv", line: 35571, was: "Lord Lis's", is: "Lis-sama's", japanese: "リス様"},
+    {file: "032749.tsv", line: 173713, was: "Lord Kayblis", is: "Kayblis-sama", japanese: "リス様"},
 ];
 
 /** The quotes and parentheses of a row, in the order they are written. */

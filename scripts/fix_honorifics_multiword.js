@@ -46,6 +46,15 @@
  * that row and the repair pass cannot reach them either, for the same reason
  * the break gives; a different class, and left.
  *
+ * **One of them asks this file's question of the Japanese instead.** A design
+ * note in 033813 runs two names together with nothing between them --
+ * 「＜＝魔物将軍、イメージ＝ポルポトケイブリス様は」 -- so `mentions` glues the ト of
+ * ポルポト to the ケ of ケイブリス and refuses a 様 that is plainly there, which
+ * is the katakana-run guard being right about the rule and wrong about the row.
+ * Where ポルポト ends and ケイブリス begins is a fact about the sentence in
+ * exactly the way "Fiend Warg" is, so it is a row here rather than a loosening
+ * of the guard: nothing else in the corpus would survive that loosening.
+ *
  * **Three of the twenty-five are not honorifics at all** and are left where they
  * are. 前四天王パパイア・サーバー, 四天王チョチョマン・パブリ and 魔王ランス carry no
  * 様 anywhere near them: "Lord" there is the translation of 四天王 and 魔王, which
@@ -100,6 +109,7 @@ const ROWS = [
     {file: "030653.tsv", line: 21518, was: "Lady Hau... zel", is: "Haw... zel-sama", japanese: "ハウ、ゼ……さま"},
     {file: "031619.tsv", line: 92053, was: "Lady Aliceeeeee", is: "Alice-samaaaaa", japanese: "アリス様ぁぁ"},
     {file: "032749.tsv", line: 173726, was: "Lord Kayblissss", is: "Kayblis-samaaa", japanese: "ケイブリズさま"},
+    {file: "033813.tsv", line: 253075, was: "Lord Kayblis", is: "Kayblis-sama", japanese: "ケイブリス様"},
 ];
 
 const bracketsOf = (text) =>

@@ -28,6 +28,15 @@
  * all 14 under `unpaired`, which means "the speech carries no honorific at
  * all" and here was never true of one of them.
  *
+ * **モドカタ is Modokata**, and the table spells it in katakana while the one
+ * speech that bows to him is in hiragana throughout. Mud Princess Byranrose
+ * sings 「わたしのだんなさまのもどかたさまが♪」, with no kanji and no katakana in
+ * the whole line, so `readNameIndex` looked up モドカタ, found none, and filed
+ * "Lord Modokata" as a speech carrying no honorific. もどかた is one speech in
+ * the corpus and this is it, so the pair reaches exactly the row it was written
+ * for; the sixteen モドカタ speeches all render the name plain and carry no
+ * title for it to touch.
+ *
  * **The name form is left exactly where it is.** 香様 reads "Kou-sama" 25
  * times elsewhere in the corpus and 香姫様 reads "Kouhime-sama" 11, so these 14
  * disagree about which of the two forms to use as well -- and that is a
@@ -79,6 +88,7 @@ const PAIRS = [
     {english: "Medusa", japanese: "メディウサ"},
     {english: "Kouhime", japanese: "香"},
     {english: "Kou", japanese: "香姫"},
+    {english: "Modokata", japanese: "もどかた"},
 ];
 
 const escapeForRegExp = (text) => text.replace(/[.*+?^${}()|[\]\\-]/g, "\\$&");
