@@ -32,8 +32,8 @@ What is left after the first pass, and why each is left:
 | Bucket | Left | Why a person has to |
 |---|---|---|
 | `dono` | 184, now 0 | `殿` is `-dono`. Its own pass, and it has had it -- "The 殿 pass" below. |
-| `unknown-name` | 102, now 77 | No table the pass reads holds the name. Almost every one is settled in a glossary it does not read, the way Medusa, Pi-R and Wass were -- "What `unknown-name` turned out to be" below is the resolution, name by name. |
-| `unpaired` | 60 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. |
+| `unknown-name` | 102, now 0 | No table the pass reads holds the name, which says nothing about whether anybody has settled it. "What `unknown-name` turned out to be" below is the whole of it. |
+| `unpaired` | 60, now 48 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. 14 of the 60 were never that -- "One name, and the two languages crossing it" below. |
 | `followed-by-name` | 26, now 3 | The English name runs on past the match. "Where the name ends" below; the 3 left are ranks rather than names. |
 | `wrapped` | 16, now 2 | The address is split across two rows, so no row holds it and a substitution cannot see it. "The rows that cut an address in half" below. |
 | `already` | 2, now 0 | "Lord Lis-sama" was the honorific twice over, so the fix was dropping the title rather than adding what was there. `--bucket=already`. |
@@ -83,52 +83,157 @@ finding rather than noise: the corpus romanises the pair ドッスワッス as
 
 ## What `unknown-name` turned out to be
 
-77 occurrences over **31 distinct names**, and the bucket is misnamed: almost
-none of them is a name nobody has settled. They are names settled *somewhere the
-pass does not read*, which is what Medusa, Pi-R and Wass each were, and the
-resolution below is a lookup rather than a reading. Nothing here is written yet.
+77 occurrences over **31 English spellings**, and the bucket was misnamed
+throughout. Hardly any of them was a name nobody had settled. It is 0 now, and
+the shapes are worth keeping, because the next bucket will hold the same ones.
 
-**Settled in another glossary, so the row is the whole of the work:**
+**Settled in another glossary, so a row was the whole of the work.** Eleven
+names, 35 occurrences. Each row carries an empty `knownMistranslations`, so
+`normalizeNames` has nothing to apply and the rendered patch does not move --
+checked at 0 changed before either sweep ran, the way the Wass row was checked
+in `51c5dec6c`. None of the eleven Japanese keys is a `card_name_glossary.tsv`
+key either, so no plate moves.
 
-| Japanese | English, and where it is written down | Occurrences |
+| Japanese | English, and where it was already written down | Occurrences |
 |---|---|---|
-| ルドラサウム | Rudrasaum -- `enemy_party_glossary.tsv`, `summary_glossary.tsv` | 19 |
-| 東芝 | Toshiba -- `card_name_glossary.tsv` and the master list have 東芝王子 "Prince Toshiba" | 3 |
+| ルドラサウム | Rudrasaum -- `enemy_party_glossary.tsv`, `summary_terms.tsv` | 19 |
+| 東芝 | Toshiba -- `summary_terms.tsv`; the card table has 東芝王子 | 3 |
 | ポル | Por -- `summary_terms.tsv` | 3 |
-| 山田 | Yamada -- the master list, at 山田 千鶴子 | 2 |
-| モフス | Mofus -- `summary_terms.tsv` (`殿`, so `-dono`) | 2 |
-| ダルソン | Darson -- `enemy_party_glossary.tsv`, "Monster General Darson" | 2 |
+| 山田 | Yamada -- `summary_terms.tsv`, the master list at 山田 千鶴子 | 2 |
+| モフス | Mofus -- `summary_terms.tsv` (`殿`) | 2 |
+| ダルソン | Darson -- `enemy_party_glossary.tsv`, `summary_terms.tsv` | 2 |
 | フリーク | Freak -- the master list at Freak Paraffin (`殿`) | 1 |
 | ルーン | Rune -- `summary_terms.tsv` | 1 |
-| 信長 | Nobunaga -- the master list, at 織田 信長 | 1 |
-| マックス | Max -- `summary_glossary.tsv` | 1 |
+| 信長 | Nobunaga -- the master list at 織田 信長 | 1 |
+| マックス | Max -- `summary_glossary.tsv`, `portrait_genders.tsv` | 1 |
 | 石丸 | Ishimaru -- `summary_terms.tsv` (`殿`) | 1 |
 
-**A misspelling first, the way ケイブワン was.** Each of these is one of the
-above under a wrong spelling, so the honorific cannot go on until the name does:
-`Keyblis`, `Kaebri` and `Kayblissss` for ケイブリス; `Darlson` for ダルソン;
-`Stroganov` for ストロガノフ, which three tables spell Stroganoff; `Burks` against
-`Barks`; and `Raitei` for 雷帝, which `summary_terms.tsv` settled as Thunder
-Emperor -- the same term this pass has already written as `Thunder Emperor-sama`
-four rows away.
+ルーン is the one worth spelling out, because `summary_glossary.tsv` also has
+ルーン命令 as "rune orders". The person is マジック・マスター・ルーン, ルーカ・
+ルーン, spelled "Luca Rune" and "M・M・Rune" across five scenes, and
+「ルーン様らの魔法」 is said in a First Fiend War flashback, which is his century.
 
-**Not a name at all.** `Lord Squirrel` is リス様 read as the animal.
+**Settled outside the repository.** Four more the corpus itself had spelled
+consistently and no table carried: オスマン Osman 10 rows, バンオペタ Banopeta
+11, グスマン Gusman 5 -- one of which already read "G-Gusman-sama" -- and ミト
+Mito 3. The corpus agreeing with itself is not a source, so two were checked
+against the AliceSoft wiki, which lists **Villenhowe Osman** under Diptheria
+against the finding's 「ジフテリアのオスマン様」 and **Banopeta** among the demons
+beside Xacalite; ミト is 征伐のミト, "Punisher Mito", the alias Ragnarokarc Super
+Gandhi travels under, and all three occurrences are his own scene.
 
-**Genuinely unsettled, and each is a decision:** オスマン, レーモン, グスマン,
-バンオペタ (the card table writes it "Ban Opeta", in two Ids and as two words), ミト, and
-リス -- which may be a nickname Kaybwan and Kaybnyan use for ケイブリス rather than
-a name of its own, and 「リス様」 is written `Lis-sama` elsewhere in the corpus
-already. アシュタルクー is a disagreement rather than a gap: the name table says
-"Ashutaruku" and the corpus says "Ashtalcu" nine times.
+**Half a name, twice.** バークスハム is Burksham and the three Julietta sisters
+address him by three different pieces of it -- Arcy says レーモンさま, Lucy says
+ハム殿, Mercy says バークス様 -- so `readNameIndex`, keyed on the whole name,
+could pair none of the three. The wiki settles the set: **Ramon C. Burksham**,
+レーモン・C・バークスハム, whose surname half this repository had spelled right
+all along. `Burks` and `Ham` got rows of their own; every ハム in the corpus is
+either ハム殿 or inside バークスハム and every バークス likewise, so the two rows
+are exact, and `mentions` refuses ハム inside バークスハム on the katakana run.
 
-Two of these stretch the honorific rather than the name -- 「ミトさまーーー！」 and
-「ケイブリズさま゛ぁぁ゛ぁ゛〜〜〜」 -- so the English that stretches the *name*
-(`Mitoooo`, `Kayblissss`) is answering the wrong syllable, and where the stretch
-should land is a decision too.
+**A misspelling first, and it goes in its own commit.** Writing the honorific
+onto a wrong name bakes it a layer deeper, which is what 「ケイブワン様」 cost as
+"Lady Kabe One" in `fe51d604e`. Seven names went that way, in two shapes that
+measure differently:
+
+The table can reach the row -- `normalizeNames` repairs a line only where
+**that line's own Japanese** names the character -- so the wrong spelling goes
+into `knownMistranslations`, the rows are written to match, and the commit takes
+two measurements: the entries and the corpus together against the commit before
+(what the spelling is worth in the game), and the corpus written with the
+entries already in place (0 changed, which is the bake invariant). `Keyblis`,
+`Kaebri` and `Darlson` went that way, and `Darlson` was six rows rather than the
+one the report named -- a spelling swept out of a scene is swept out of the
+scene. So did `Raymond` for レーモン and `Ashtalcu` for アシュタルクー.
+
+The table cannot reach it, so the corpus edit is the whole of the change.
+`Stroganov` sat on a row whose own Japanese does not name him -- the English
+wrapped where the Japanese did not -- while the entry had listed that spelling
+as wrong for as long as it existed and six other rows of the same scene say
+Stroganoff. `Barks` was worse: the table's key is バークスハム and the rows say
+バークス, so nothing could ever have reached them.
+
+アシュタルクー was a disagreement rather than a gap, and the tables won.
+`mistranslated_names.json` and `48_立ち絵名札マッピング情報.x` both say
+Ashutaruku, and the second of those is the plate `AdvNameResolver::Resolve`
+draws over the portrait -- so the player had been reading Ashutaruku on the
+plate and Ashtalcu in the bubble beneath it, in the same window, for the whole
+of scene 032398. That is the キャンテル fault seen from the other side. The wiki
+has no page for him under either spelling or six others.
+
+**No table can ever hold it.** リス is a squirrel -- ケイブリス was one for
+thousands of years before he was a Fiend, and some thirty rows say so -- and
+リス様 is what Kaybwan and Kaybnyan call him, the back half of his name, which
+「ケイブ、リス様……？」 breaks at that seam three times. A row for リス would
+therefore be wrong rather than missing: `mentions` would be true on every
+"squirrel" row and the name check would report all thirty, which is 魔人 listing
+"demon" arriving from the other side. `scripts/fix_honorifics_ambiguous.js`
+carries the five one apiece with the Japanese that licenses each, checked with
+nothing katakana in front of リス様 because ケイブリス様 holds it. One of the five
+was a reading and not only a title: 「リス様ーーーーーーー！」 read "Lord
+Squirrel", and its four neighbours in the same run of scenes already said Lis.
+
+**Answered the wrong syllable.** Four rows matched a word no table could hold
+because the decoration the Japanese put on the honorific had been moved onto the
+name: 「ミトさまーーー！」 read "Lord Mitoooo", 「アリス様ぁぁあああああ！」 read
+"Lady Aliceeeeee", 「ケイブリズさま゛ぁぁ゛ぁ゛〜〜〜！」 read "Lord Kayblissss".
+**The stretch changes place and keeps its length** -- three o's become three a's,
+five e's five, three s's three -- because how long a stretch runs is the
+translation's own and only where it sat was wrong. The fourth breaks rather than
+stretches: a dying Flame Scrivener says 「――ハウ、ゼ……さま、っ……」 and the
+English broke the name in the same place and spelled the first half from the
+sound, so the break stays and the halves are spelled from Hawzel. They are in
+`scripts/fix_honorifics_multiword.js`, because the question that file answers --
+where does the name end -- is the question these ask.
+
+**Two of them were never honorifics**, and say so now. 「さあて、ではそろそろこの
+ミトが……」 and 「後はこのミトの征伐に任せるがよい！」 carry no 様 anywhere:
+Gandhi is referring to himself grandly and "Lord Mito" is the translator's
+flourish. With the row in place they are `unpaired`, which is the bucket that
+means exactly that, rather than `unknown-name`, which meant only that the pass
+could not see the name.
+
+## One name, and the two languages crossing it
+
+`unpaired` means the speech carries no honorific at all, so removing the title
+there is a reading. **Fourteen of the sixty were never that.** 香 is Kou and
+香姫 is Kouhime, `mistranslated_names.json` holds both, and these speeches use
+the forms crosswise: twelve say 香様 and answer it "Lady Kouhime", two say 香姫様
+and answer it "Lady Kou". `readNameIndex` looks the English up, gets the other
+form's Japanese, finds no 様 on it and files the lot as unpaired.
+
+They are Pi-R and Medusa a third time -- a pairing the index cannot make and a
+person can -- so they went where those went, in
+`scripts/fix_honorifics_untabled.js`, which now carries four pairs and three
+reasons. 香 is one common kanji, so the Japanese half of the guard is the weak
+half; what keeps it honest is that the English half matches a whole name and
+refuses a longer one, so `Lady Kou` cannot match "Lady Kouhime".
+
+**The name form was left where it is**, deliberately. 香様 reads "Kou-sama" 25
+times elsewhere in the corpus and 香姫様 reads "Kouhime-sama" 11, so these
+fourteen disagree about which of the two forms to use as well -- writing
+"Kouhime-sama" over 香様 puts twelve rows against twenty-five. That is a
+`find_term_drift` finding rather than an honorific one.
+
+Doing it before the `sama` sweep rather than with the rest of `unpaired` is what
+made that sweep safe. 032114 m[123468] is 「信長様の夢は、香様を市井に暮らすよう
+な普通の女の子にすることじゃった」, both names carry 様, and only 信長 paired --
+so the sweep would have written "Nobunaga-sama's dream was to let Lady Kouhime
+live as an ordinary girl", which is ドッス殿とワッス殿 over again. It was the
+only one of the 31 whose speech carried a second title, and finding it took the
+question worth asking in front of every sweep: for each speech the sweep would
+touch, does its English still hold a Lord or a Lady once this fix has been
+counted? Two lines over the report's own findings, and the answer is the
+difference between a pass that converts a sentence and one that converts half
+of it.
 
 ## Where the name ends
 
-`scripts/fix_honorifics_multiword.js`, and **22 of the 26**. The pattern matches
+`scripts/fix_honorifics_multiword.js`, and **22 of the 26** when it was
+written. It carries 28 rows now: the two 雷帝 and the four that answered the
+wrong syllable were added later, from `unknown-name` rather than from this
+bucket, because the question they ask is this file's -- where does the name end
+-- even though the pattern had filed them elsewhere. The pattern matches
 one capitalised word and the English name is two or three, so the guard that
 refuses them is the reason "Thunder-sama Emperor" and "Fiend-sama Warg" are not
 in the corpus. Where the name ends is a fact about the sentence: 魔人ワーグ様 is
@@ -344,7 +449,41 @@ that is not a decision about all of them at once.
 `48_立ち絵名札マッピング情報.x`. `-sama` is neutral, so the pass cost nothing here;
 the gap is worth closing on its own account.
 
-**207 titled occurrences on 42 converted names are still in the corpus**, which
-is the price of the buckets the first pass left. `Kouhime` is the one worth a
-look: 12 with a title against 11 with the honorific, the only name where a
-partial pass left the title in the majority.
+**45 titled occurrences on 22 converted names are still in the corpus**, which
+is the price of the buckets left, and it was 207 on 42 when the first pass
+stopped. `Kouhime` is no longer among them.
+
+## Where it stands
+
+The report reads **53**, from 142: 48 `unpaired`, 3 `followed-by-name`, 2
+`wrapped`, and nothing at all in `sama`, `dono`, `already`, `title-word` or
+`unknown-name`. Every one of the 53 is left on purpose and this file says why
+for each.
+
+`unpaired` is the one with work left in it, and most of it is not work. The
+Japanese carries no honorific, so dropping the title is a reading and not a
+substitution -- 8 ALICE, 6 Kayblis, 3 Reset, 3 Rangi, and a long tail of ones
+and twos. What the Kouhime fourteen showed is that the bucket is worth reading
+before it is trusted: a finding lands there when the *pairing* fails as well as
+when the Japanese is genuinely bare, and the two look identical in the report.
+
+Two questions this work raised and did not answer, both for
+`scripts/find_term_drift.js` rather than for a honorific pass:
+
+- **リス様 is answered nine ways over thirty rows** -- Ris-sama 7, Lis-sama 11
+  after this work, Risu-sama 6, Master 3, one Cavebris-sama, one Kayblis-sama.
+- **雷帝 is "Lightning Emperor" on four rows against "Thunder Emperor" on
+  fourteen**, and `summary_terms.tsv` settled the second. So is
+  バンオペタの証 as "Ban Opeta's License" in `card_name_glossary.tsv` against
+  Banopeta in one word everywhere else, and ポル against four "Pol".
+
+And one that belongs to the repair pass rather than to this: run
+`normalizeNames` over the corpus and **six rows still change**, which the bake
+invariant says should be none. Three of the six are the pass being wrong.
+「日光を長時間浴びると、溶ける」 is sunlight, and the 日光 entry lists "sunlight"
+as a misspelling of the character, so the patch ships "exposed to direct
+Nikkou"; and 「カオル、クレイン、オルオレ、キャロリ」 names both カオル and
+キャロリ while the キャロリ entry lists "Kaoru" as wrong, so two rows have the
+right name for the first eaten and rewritten as the second. That is the 魔人
+listing "demon" trap `docs/baked-name-repairs.md` names, and a one-word entry on
+a baked corpus is where it comes from every time.
