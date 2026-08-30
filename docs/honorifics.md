@@ -33,7 +33,8 @@ What is left after the first pass, and why each is left:
 |---|---|---|
 | `dono` | 184, now 0 | `殿` is `-dono`. Its own pass, and it has had it -- "The 殿 pass" below. |
 | `unknown-name` | 102, now 0 | No table the pass reads holds the name, which says nothing about whether anybody has settled it. "What `unknown-name` turned out to be" below is the whole of it. |
-| `unpaired` | 60, now 48 | The name is in a table and its speech carries no honorific at all. "Lord" there is the translator's, and removing it is a reading. 14 of the 60 were never that -- "One name, and the two languages crossing it" below. |
+| `unpaired` | 60, now 15 | The name is in a table and its speech carries no honorific at all -- which turned out to be true of five of them. "What `unpaired` turned out to be" below is the read of all 48. |
+| `san` | new, 0 | `さん` and `はん` are particles English keeps, so they are a substitution the way `様` is. The bucket exists because `unpaired` could not tell "no honorific" from "a different one". |
 | `followed-by-name` | 26, now 3 | The English name runs on past the match. "Where the name ends" below; the 3 left are ranks rather than names. |
 | `wrapped` | 16, now 2 | The address is split across two rows, so no row holds it and a substitution cannot see it. "The rows that cut an address in half" below. |
 | `already` | 2, now 0 | "Lord Lis-sama" was the honorific twice over, so the fix was dropping the title rather than adding what was there. `--bucket=already`. |
@@ -226,6 +227,129 @@ touch, does its English still hold a Lord or a Lady once this fix has been
 counted? Two lines over the report's own findings, and the answer is the
 difference between a pass that converts a sentence and one that converts half
 of it.
+
+## What `unpaired` turned out to be
+
+The bucket's name is a claim about the Japanese -- that the speech carries no
+honorific at all, so the "Lord" is the translator's and removing it is a
+reading. All 48 were read, and **the claim is true of five of them.** The other
+43 carry an honorific; the report either could not see it, or could see it and
+had no word for it. **A bucket that means two things hands a person the same
+word for two questions**, which is the whole of what this read found, and the
+`san` bucket is that finding written into the tool.
+
+**Seventeen are a 様 or a 殿 the pairing missed**, and not one of them needed a
+reading.
+
+*Two spellings of one name.* `card_name_glossary.tsv` keys ＡＬＩＣＥ and ＢＳ
+full-width, because the game's own tables do, and the dialogue writes `ALICE様`
+and `BS殿`. `mentions` was comparing two spellings and could pair neither. The
+fix is `foldWidth` in `modules/HonorificDrift.js` rather than nine hand-written
+rows, because a hand row answers these nine and leaves the question every other
+name is asked exactly as wrong. **Letters and digits only:** `＜エール＞` is in
+the same index under "El", and folding its brackets would spell a key the game
+has never heard of. Measured before it was written -- the same 53 findings
+either way, exactly nine changing bucket, and `BS殿` landing in `dono`, which is
+the honorific it actually carries.
+
+*The Japanese's own pause broke the address.* 「魔人……カミーラ、様」,
+「あ、あ、アム、様……」, 「リアさ、ま……」, 「ヨシフ、さま……」, 「ケイブリス、様？」 --
+the comma is the speaker hesitating and the 様 still belongs to the name in
+front of it. `scripts/fix_honorifics_broken.js`, and **the pairing was not
+widened to reach them.** A rule that steps over the pause marks finds 66 places
+in the corpus, and two of them are 「かなみ、様子はどうだ？」 and 「シィル、様子を
+見てこい」 -- 様子 is "the situation", and the rule would answer both with an
+honorific nobody said. Wide enough to reach these is wide enough to invent two,
+and it still misses 「リアさ、ま」, where the break is inside the honorific.
+
+*Three names the index could see and a guard could not.* もどかた is Modokata in
+hiragana and the tables spell him in katakana, which is a pairing for
+`fix_honorifics_untabled.js`. 「リス様」 answered "Lord Kayblis", which is
+`fix_honorifics_ambiguous.js`'s own address and its own rule about writing the
+form the row already carries. And ポルポトケイブリス様 has no separator in it, so
+`mentions` glues the ト to the ケ and refuses a 様 that is plainly there -- the
+katakana-run guard being right about the rule and wrong about the row. Where
+ポルポト ends is a fact about the sentence in exactly the way "Fiend Warg" is, so
+it is a row in `fix_honorifics_multiword.js` rather than a loosening of the
+guard: nothing else in the corpus would survive that loosening.
+
+**Twenty-six carry a different honorific, and that half splits again.**
+
+`さん` and `はん` are *particles*, and `modules/ScenePrompt.js` names -san among
+the four that stay as the Japanese wrote them. The corpus already agrees with
+itself -- アールコートさん is "Arlcoate-san" on six other speeches, ランスさん across
+564 -- so they are a substitution and now a bucket, asked exactly the way 様 and
+殿 are. はん is Kansai for さん and keeps its own spelling, as "Chochoman-han"
+already does twice. Two more were a pairing rather than a particle: what the
+tables hold for 志津香 and ナギ is the *child* of each, 子供志津香 and 子供ナギ, a
+card apiece, so the grown women went to `fix_honorifics_untabled.js` -- which
+now lets a pair name the honorific it answers, because both names sit on one
+row and converting one would leave the sentence half done.
+
+`閣下`, `女史`, `嬢` and `女王` are *words*, and each is a decision:
+`scripts/fix_honorifics_titles.js`, nine rows. 女王 and 嬢 the corpus had settled
+and only these rows disagreed -- リア女王 is "Queen Lia" on 41 speeches, and
+リセット嬢 belongs to Pespo Tontone, who writes "Miss Eleanor" and "Miss Copandon"
+himself. 女史 nothing had settled, because マルチナ女史 is the only 女史 in the
+corpus; it is the formal title for an accomplished woman rather than a mark of
+rank, so "Ms." is the word and "Lady" was reading a noblewoman into a
+compliment about her cooking.
+
+**閣下 is five of eight, and the three left out are the point.** The corpus
+renders it by what stands in front of it: after a rank it is absorbed --
+総統閣下 is "Supreme Leader" 275 times, 大将軍閣下 is "Great General" -- alone it
+is "Your Excellency" 50 times, and after a *name* it drifts four ways, "General
+Pizarro" ×3, "His Excellency Pizarro" ×1, "General Zedong" ×1, against "Lord
+‹Name›" ×8. Two of the eight contradicted themselves inside one line:
+「閣下！　ツォトン閣下！」 read "Your Excellency! Lord Zedong!", the same word
+twice, two ways. It reads "Your Excellency! General Zedong!" now, which is the
+distinction the Japanese is making -- bare address against name plus rank.
+
+The other three are not generals, and no rendering would be a substitution:
+コルドバ閣下's own sentence already says "Blue General of Leazas", ランス閣下 is
+総統 and reads "Supreme Leader Rance" elsewhere, and ケイブリス閣下 is a Fiend the
+rest of the corpus calls Kayblis-sama. Those belong to
+`scripts/find_term_drift.js`'s question about 閣下, not to this pass's about a
+title standing where an honorific was.
+
+`主君` is left whole and is in no file, because it *means* one's lord: "Lord
+Zance" translates ザンス主君 rather than replacing it, and the same speaker's
+bare 「しゅくん、しゅくーん！」 already reads "My lord, my looord!". Seven rows, and
+not drift.
+
+**Five are genuinely bare**, which is what the bucket was always supposed to
+mean. Twice Ragnarokarc Super Gandhi refers to himself grandly -- 「このミトが」
+and 「このミトの征伐」 -- where "Lord Mito" is the translator's flourish;
+「ケッセルリンクという方は」 is "a person called Kesselring"; and 032747 and 032839
+name ケイブリス with nothing on it at all. Dropping a title there is a reading,
+and this pass does not make readings.
+
+## A count from a report is a floor, and this bucket proved it twice
+
+Reading the 48 turned up three rows in **no bucket at all**, invisible to the
+whole report. `ADDRESS` joins the title to the name with `\s+`, so a row that
+copied the Japanese's pause into the English -- and put it in the wrong place,
+between the title and the name instead of between the name and the honorific --
+never matched anything:
+
+    JP 「っ、え、ぁ…………ガンジー、様……」      EN 「Ah, e-erm...... Lord... Gandhi......」
+    JP 「あ、ケッセルリンク……様」             EN 「Ah, Lord... Kesselring.」
+    JP 「よろしくお願いします。ケイブリス、様？」  EN 「Please treat me well. Lord... Kayblis?」
+
+That is the same lesson `docs/speech-brackets.md` records -- a report that files
+each finding once counts a floor -- arriving from a new direction: this one
+files each finding under a pattern, and what the pattern cannot match it does
+not count at all. The five in the bucket were never the size of the class.
+
+`ADDRESS` was not widened for them either, and **this time the cost would have
+landed in the patch rather than in the report.** Allowing dots between the title
+and the name adds five matches, three of them these and two of them noise -- and
+one piece of that noise is 「元四天王……パパイア様だ」 as "a former Lord......
+Papaya-sama", where "Lord" is 四天王 and the name already carries its honorific.
+The trailing `-sama` files it under `already`, whose sweep drops the title, so
+元四天王 would have lost its rank to a pass nobody would think to check. **A
+widening that reaches a fixable bucket has to be measured against that bucket,
+not against the report.**
 
 ## Where the name ends
 
@@ -455,23 +579,45 @@ stopped. `Kouhime` is no longer among them.
 
 ## Where it stands
 
-The report reads **53**, from 142: 48 `unpaired`, 3 `followed-by-name`, 2
-`wrapped`, and nothing at all in `sama`, `dono`, `already`, `title-word` or
-`unknown-name`. Every one of the 53 is left on purpose and this file says why
-for each.
+The report reads **20**, from 142: 15 `unpaired`, 3 `followed-by-name`, 2
+`wrapped`, and nothing at all in `sama`, `dono`, `san`, `already`, `title-word`
+or `unknown-name`. **Every one of the 20 is left on purpose and this file says
+why for each**, which is the first time that has been true of the whole report.
 
-`unpaired` is the one with work left in it, and most of it is not work. The
-Japanese carries no honorific, so dropping the title is a reading and not a
-substitution -- 8 ALICE, 6 Kayblis, 3 Reset, 3 Rangi, and a long tail of ones
-and twos. What the Kouhime fourteen showed is that the bucket is worth reading
-before it is trusted: a finding lands there when the *pairing* fails as well as
-when the Japanese is genuinely bare, and the two look identical in the report.
+The 15 in `unpaired` are the three that 閣下 does not settle, the seven 主君,
+and the five whose Japanese is genuinely bare. The section above is the read of
+all 48 the bucket held, and its two lessons are the ones worth carrying: **a
+bucket whose name is a claim about the Japanese has to have that claim tested
+before it is trusted** -- five of 48 here -- and **what a report's pattern
+cannot match, it does not count**, which is how three rows of a class sat
+outside every bucket while five of the same class sat inside one.
 
-Two questions this work raised and did not answer, both for
+Six passes wrote 33 rows between them, and none of the six was allowed to guess:
+
+| What it wrote | Rows | Where |
+|---|---|---|
+| the full-width fold, and the 8 `sama` + 1 `dono` it freed | 9 | `modules/HonorificDrift.js`, then `fix_honorifics.js` |
+| the addresses the Japanese's own pause broke | 8 | `scripts/fix_honorifics_broken.js` |
+| もどかた, リス様 → Kayblis, ポルポトケイブリス様 | 3 | one row apiece, in the file that already asks each question |
+| the `san` bucket, and 志津香 + ナギ with it | 6 | `modules/HonorificDrift.js`, `fix_honorifics_untabled.js` |
+| the titles English translates rather than keeps | 9 | `scripts/fix_honorifics_titles.js` |
+
+Each was measured the same way: `effective_map` before and after, the changed
+count held against the rows written, 0 gone and 0 added; 5433 scenes still
+reproducing themselves byte for byte; overflow unmoved at 847 every time; and
+the bake invariant still reading the same 6 rows it read before any of this.
+
+Three questions this work raised and did not answer, all for
 `scripts/find_term_drift.js` rather than for a honorific pass:
 
-- **リス様 is answered nine ways over thirty rows** -- Ris-sama 7, Lis-sama 11
-  after this work, Risu-sama 6, Master 3, one Cavebris-sama, one Kayblis-sama.
+- **リス様 is answered six ways over 29 speeches** -- Lis-sama 11, Ris-sama 7,
+  Risu-sama 6, Master 3, Kayblis-sama 2, Cavebris-sama 1. No title is left among
+  them, which is this pass finished and the drift untouched underneath it.
+- **閣下 after a name is answered five ways over its 17 occurrences** --
+  "General ‹Name›" 10 after this work, "Lord ‹Name›" 3 for the three men no
+  rank word fits, "His Excellency ‹Name›" 1, "President Rance" 1, and 2 with no
+  title at all. 総統閣下 as "Supreme Leader" 275 times and bare 閣下 as "Your
+  Excellency" 50 are settled and no part of the question.
 - **雷帝 is "Lightning Emperor" on four rows against "Thunder Emperor" on
   fourteen**, and `summary_terms.tsv` settled the second. So is
   バンオペタの証 as "Ban Opeta's License" in `card_name_glossary.tsv` against
