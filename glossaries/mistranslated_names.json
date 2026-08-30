@@ -3398,5 +3398,12 @@
         "shortNameEng": "Mito",
         "shortNameJpn": "ミト",
         "knownMistranslations": []
+    },
+    {
+        "shortNameEng": "Ramon",
+        "shortNameJpn": "レーモン",
+        "knownMistranslations": [
+            "Raymond"
+        ]
     }
 ]
