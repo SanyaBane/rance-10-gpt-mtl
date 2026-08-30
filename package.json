@@ -1,6 +1,6 @@
 {
     "name": "rance-10-gpt-mtl",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "type": "module",
     "scripts": {
         "release": "node scripts/release.js",
