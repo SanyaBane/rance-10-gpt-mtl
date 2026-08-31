@@ -778,7 +778,7 @@ table スキルデータ = {
     { 1502,"Devil's Song",1,5,"",0,100,59,0,0,0,0,0,"",0,0,"Possession AP disappears" },
     { 1906,"Fiend Transformation",1,6,"",2,100,133,1,0,0,0,0,"",0,0,"Transform into\r[Fiend Lexington]" },
     { 1905,"Transformation",1,6,"",0,100,133,2,0,0,0,0,"３ラウンド以降",0,0,"Transform into\r[Superhuman Agireda]\rCondition: +3 Rounds" },
-    { 1908,"Little Armored",1,6,"",2,100,133,3,0,0,0,0,"",0,0,"Transform into\r[Fiend Silky Little]" },
+    { 1908,"Little Armored",1,6,"",2,100,133,3,0,0,0,0,"",0,0,"Transform into\r[Fiend Silky Littleraisin]" },
     { 1971,"Hero Rebirth",1,6,"",2,100,133,4,0,0,0,0,"支援＜dニーナ遺体＞",0,0,"Transform into\r[Hero Theoman]\rCondition: Nina's head" },
     { 1265,"EXP Gain 1",30,0,"",0,0,90,1,0,0,0,0,"",0,0,"Party effect:\r◆EXP Gain +1%" },
     { 1267,"EXP Gain 5",30,0,"",0,0,90,5,0,0,0,0,"",0,0,"Party effect:\r◆EXP Gain +5%" },
