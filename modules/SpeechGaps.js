@@ -75,6 +75,34 @@ export const CLASSES = ["shifted", "overflow", "blank", "bracket", "untranslated
 const HAS_JAPANESE = /[ぁ-ゖァ-ヺ一-鿿]/;
 /** Dots, full-width dots and ellipses: the padding a shifted run ends with. */
 const ONLY_DOTS = /^[\s　]*[.．・…][\s　.．・…]*$/;
+/**
+ * The one run of rows the game does not draw in `MessageWindow01`, and so the
+ * one run whose width this report may not judge.
+ *
+ * `AdvMessageWindow@GetMessageWindowActivityName` switches on each ADV
+ * command's viewType, and that switch is not the whole answer: a scene can put
+ * a different frame under it. `CALLFUNC ■歴史枠` does, and it happens **once**
+ * in the whole 60 MB of bytecode -- in 033026.tsv, ６０１／プロローグ, before
+ * the chronology of everything since Rance became Demon King. The frame goes up
+ * at m[193987] and `■枠消し` takes it down after m[194532]; between them the
+ * window is `MessageWindowHistory`, eighteen rows and wide enough for the 41
+ * full-width characters the game's own Japanese runs to there.
+ *
+ * docs/message-window.md held those 311 lines out of its census for exactly
+ * this reason and this report did not, so 15 speeches of the `overflow` class
+ * were the report asking a 24-wide question about a 41-wide box. Their English
+ * runs to 128% of a `MessageWindow01` row and fits the frame it is actually in.
+ * Shortening them by meaning -- which is what that class asks for -- would have
+ * thrown away text nothing was wrong with.
+ *
+ * Only `overflow` is held off. The other classes ask what a row says rather
+ * than how wide it is, and those questions are the same in any window.
+ */
+const HISTORY_FRAME = {file: "033026.tsv", from: 193987, to: 194532};
+
+const inHistoryFrame = (file, lineNumber) => file === HISTORY_FRAME.file
+    && lineNumber >= HISTORY_FRAME.from && lineNumber <= HISTORY_FRAME.to;
+
 const opens = (text, bracket) => text.trimStart().startsWith(bracket);
 const closes = (text, bracket) => text.trimEnd().endsWith(bracket);
 
@@ -192,7 +220,7 @@ export const findSpeechGaps = async (lang) => {
                 stillOverflows: !again.fits,
             };
 
-            if (drawn > budget) {
+            if (drawn > budget && !inHistoryFrame(fileName, speech.lineNumber)) {
                 findings.push({
                     ...at,
                     class: "overflow",

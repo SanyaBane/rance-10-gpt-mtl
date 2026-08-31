@@ -156,6 +156,32 @@ A flag on a class answers the question for the members of that class. If the
 question stands on its own -- and "does the player see the end of this line"
 does -- it wants a class of its own.
 
+## The window it was measuring against the wrong box
+
+`overflow` asks whether a speech fits, and until it was asked of scene 033026 it
+was asking about the wrong window. `AdvMessageWindow@GetMessageWindowActivityName`
+switches on each ADV command's viewType, but a scene can put a different frame
+under that switch: `CALLFUNC ■歴史枠` does, once in the whole 60 MB of bytecode,
+in `６０１／プロローグ` before the chronology of everything since Rance became
+Demon King. Between m[193987] and m[194532] the window is `MessageWindowHistory`
+-- eighteen rows, wide enough for the 41 full-width characters the game's own
+Japanese runs to there -- and [message-window.md](message-window.md) held those
+311 lines out of its census for exactly that reason.
+
+This report did not, so 15 of its `overflow` findings were a 24-wide question
+asked about a 41-wide box. Their English runs to 128% of a `MessageWindow01` row
+and fits the frame it is actually in; the class asks for shortening by meaning,
+and shortening these would have thrown away text nothing was wrong with.
+`HISTORY_FRAME` in `modules/SpeechGaps.js` is the range, held off `overflow`
+alone: the other classes ask what a row says rather than how wide it is, and
+those questions are the same in any window.
+
+The lesson is the same one [text-width.md](text-width.md) records about the
+synopsis panel and [message-window.md](message-window.md) about these very
+lines: **a width is a measurement against a particular box, and which box a line
+is in is a property of the line.** A report that knows only one box will call
+every line in the other one broken.
+
 ## Three traps it was written into
 
 All three were false positives, and all three are the same mistake: asking what
