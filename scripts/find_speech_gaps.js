@@ -34,7 +34,7 @@ await run(async () => {
     const overflowingOnly = hasFlag("overflowing");
 
     const textLang = textLangName();
-    const {scenes, speeches, findings} = await findSpeechGaps(textLang);
+    const {scenes, speeches, findings, draftsHeld} = await findSpeechGaps(textLang);
     if (!scenes) {
         console.log(`text_languages/${textLang}/scenes/ holds no scene files, so there is nothing to read.`);
         return 0;
@@ -62,6 +62,14 @@ await run(async () => {
             + ` ${over.filter(f => f.fixes).length}; the other ${over.filter(f => f.stillOverflows).length}`
             + " hold more English than their rows can draw whatever the layout, and want shortening"
             + " by meaning.");
+    }
+    if (draftsHeld) {
+        // Said rather than dropped: a count that quietly leaves out what nobody
+        // will read is a different number from one that names it.
+        console.log(`
+${draftsHeld} more run off the window in a t… scene -- the scenario`
+            + " document the writer handed the scripter, which the game does not play and whose"
+            + " own Japanese runs past the window too. Not counted above.");
     }
 
     for (const name of CLASSES) {

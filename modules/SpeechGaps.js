@@ -98,6 +98,30 @@ const ONLY_DOTS = /^[\s　]*[.．・…][\s　.．・…]*$/;
  * Only `overflow` is held off. The other classes ask what a row says rather
  * than how wide it is, and those questions are the same in any window.
  */
+/**
+ * A scene that is the scenario document rather than a scene the game plays.
+ *
+ * Every scene function has a twin whose name is the same with a `t` in front --
+ * `６０４／ザンス登場２` and `t６０４／ザンス登場２` -- and the twin holds what the
+ * writer handed the scripter: stage directions, casting notes, `＞戦闘` where a
+ * battle goes, and asides like `（書かなくても良い）`. The game's own Japanese in
+ * them runs far past 24 full-width characters, which is why
+ * docs/message-window.md held 4562 of its 9783 over-wide lines out of the
+ * census on exactly this test.
+ *
+ * `overflow` asks whether the player sees the end of a line, and in a draft
+ * there is no player. 420 of the class's 433 findings were in these, and the
+ * remedy the class asks for -- shorten by meaning -- would have rewritten a
+ * source document to fit a window it is never drawn in. They are counted and
+ * said out loud rather than dropped, because "the report is down to 13" and
+ * "down to 13, plus 420 nobody is going to read" are different facts about
+ * the same patch.
+ *
+ * A leading ASCII `t` is the whole test: the game's own scene names are
+ * Japanese and full-width digits, so nothing else starts with one.
+ */
+const isDraftScene = (name) => name.startsWith("t");
+
 const HISTORY_FRAME = {file: "033026.tsv", from: 193987, to: 194532};
 
 const inHistoryFrame = (file, lineNumber) => file === HISTORY_FRAME.file
@@ -173,8 +197,10 @@ export const findSpeechGaps = async (lang) => {
     const scenes = await readTranslatedScenes(lang);
     const findings = [];
     let speeches = 0;
+    let draftsHeld = 0;
 
     for (const {fileName, scene} of scenes) {
+        const draft = isDraftScene(scene.name);
         const byNumber = new Map(scene.rows.map(row => [row.lineNumber, row]));
         for (const speech of speechesOf(scene)) {
             ++speeches;
@@ -221,6 +247,10 @@ export const findSpeechGaps = async (lang) => {
             };
 
             if (drawn > budget && !inHistoryFrame(fileName, speech.lineNumber)) {
+                if (draft) {
+                    ++draftsHeld;
+                    continue;
+                }
                 findings.push({
                     ...at,
                     class: "overflow",
@@ -257,7 +287,7 @@ export const findSpeechGaps = async (lang) => {
         }
     }
 
-    return {scenes: scenes.length, speeches, findings};
+    return {scenes: scenes.length, speeches, findings, draftsHeld};
 };
 
 /** How many findings each class holds, in the order they are worth reading. */

@@ -182,6 +182,31 @@ lines: **a width is a measurement against a particular box, and which box a line
 is in is a property of the line.** A report that knows only one box will call
 every line in the other one broken.
 
+## The 420 that are not dialogue at all
+
+Every scene function in the `.ain` has a twin whose name is the same with a `t`
+in front -- `６０４／ザンス登場２` and `t６０４／ザンス登場２` -- and the twin holds
+what the writer handed the scripter rather than what the game plays: stage
+directions, casting notes, `＞戦闘` where a battle goes, asides like
+`（書かなくても良い）`. [message-window.md](message-window.md) held 4562 of its
+9783 over-wide lines out of its census on exactly this test, because the game's
+own Japanese in them runs far past 24 full-width characters and always did.
+
+`overflow` asks whether the player sees the end of a line, and in a draft there
+is no player. **420 of the class's 433 remaining findings were in these**, and
+the remedy the class asks for -- shorten by meaning -- would have rewritten a
+source document to fit a window it is never drawn in. `isDraftScene` in
+`modules/SpeechGaps.js` holds them off that class, and the report prints the
+count on a line of its own rather than dropping it: "the report is down to 13"
+and "down to 13, plus 420 nobody is going to read" are different facts about
+the same patch.
+
+Which is the same shape as the section above it, and worth stating once for
+both. **A width is a question about a box, and a box is a question about who is
+looking at it.** This report knew one box and assumed one reader, and between
+them that was 435 of its 848 `overflow` findings -- more than half the class --
+asking about text that either is drawn somewhere else or is drawn nowhere.
+
 ## Three traps it was written into
 
 All three were false positives, and all three are the same mistake: asking what
