@@ -78,7 +78,10 @@ export const folds = (rows) => drawnLines(rows) > rows.length;
  * backlog allows, the widest row the build emits is about 33.5 against that
  * window's own edge of 38.4. So a row that clears the backlog clears both.
  */
-const BACKLOG_EDGE = 35.39;
+export const BACKLOG_EDGE = 35.39;
+
+/** The backlog's own tracking: `字間隔 2` at `フォントサイズ 40`. */
+export const backlogTracking = () => trackingFor(2, 40);
 
 /**
  * Whether the backlog would cut this row's tail off.
@@ -96,7 +99,7 @@ const BACKLOG_EDGE = 35.39;
  * table has not been generated yet.
  */
 export const clipsInBacklog = (row) =>
-    gameTextWidth(row, trackingFor(2, 40)) > BACKLOG_EDGE * em();
+    gameTextWidth(row, backlogTracking()) > BACKLOG_EDGE * em();
 
 /**
  * The window's own row, as a string rather than a number, the way
@@ -149,11 +152,17 @@ export const historyFrameTracking = () =>
     trackingFor(HISTORY_FRAME.spacing, HISTORY_FRAME.fontSize);
 
 /**
- * The frame's row as a string, the way WINDOW_ROW is the window's -- which is
- * how a width reaches `wrapAt`, since that measures a reference rather than
- * taking a number.
+ * The frame is 40 wide and that is **not** what its rows are wrapped to.
+ *
+ * The backlog replays every one of them and clips at 35.39, so a row built for
+ * the frame is drawn whole in the prologue and cut in the backlog -- which is
+ * what a screenshot of `Rance suddenly di` showed the day this was first wired
+ * up against `HISTORY_FRAME.width`. The narrower box wins wherever both draw
+ * the same row, and for dialogue that is always the backlog.
+ *
+ * So the width is here for the layout to fill to, and BACKLOG_EDGE above is
+ * what both the layout and the build fold against.
  */
-export const HISTORY_FRAME_ROW = "あ".repeat(HISTORY_FRAME.width);
 
 /** Whether a row is wider than the frame the chronology is drawn in. */
 export const runsPastHistoryFrame = (row) =>

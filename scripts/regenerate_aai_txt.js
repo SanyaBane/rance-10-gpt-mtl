@@ -13,7 +13,8 @@ import {readSceneDialogue} from "../modules/Corpus.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {loadGameJapanese} from "../modules/LineNumbers.js";
 import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
-import {HISTORY_FRAME_ROW, inHistoryFrame} from "../modules/SpeechRows.js";
+import {BACKLOG_EDGE, backlogTracking, inHistoryFrame} from "../modules/SpeechRows.js";
+import {wrapToEms} from "../modules/GameFont.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {checkSubstitutionsAreNotMisspellings, createNameNormalizer} from "../modules/NameNormalizer.js";
 import {checkPlayerNamePlate} from "../modules/Nameplates.js";
@@ -173,22 +174,30 @@ const [allLineRecords, howItWasBuilt] = await readTextLang(textLang);
 const LONGEST_LINE = LONGEST_DIALOGUE_LINE;
 
 /**
- * Which box a row is wrapped against, because there is more than one.
+ * Which box a row is folded against, because there is more than one, and how.
  *
- * `wrapAt` folds against one reference for the whole game, and that reference
- * is the dialogue window's -- about thirty full-width characters once the
- * safety margin is off. The chronology is not in that window. `CALLFUNC ■歴史枠`
- * puts a 40-wide frame up for its 311 rows, so folding them at thirty cut a
- * layout the Japanese states by indentation into ragged prose: 159 of those
- * rows were folded while the widest of them was 39.2 of the frame's own
- * characters, and every one of those folds was the build inventing a line the
- * frame had room for.
+ * `wrapAt` folds against one reference for the whole game -- the dialogue
+ * window's, measured in Meiryo, about thirty full-width characters once the
+ * safety margin is off. The ■歴史枠 chronology is not in that window: its rows
+ * are a table drawn in a 40-wide frame, and folding them at thirty cut a layout
+ * the Japanese states by indentation into ragged prose.
  *
- * docs/message-window.md is the three boxes; modules/SpeechRows.js is where
- * this one is stated. A row outside the frame is unaffected.
+ * **The frame is not what they are folded to either.** The backlog replays every
+ * row the game speaks and clips at 35.39 ems, so a row built for the frame draws
+ * whole in the prologue and is cut in the backlog -- which is exactly what
+ * wrapping these against `HISTORY_FRAME.width` did, and a screenshot of `Rance
+ * suddenly di` is what said so. Where two boxes draw the same row, the narrower
+ * one decides.
+ *
+ * So these fold at the backlog's edge, and in the game's own font rather than
+ * Meiryo -- `wrapToEms` -- because a fold that lands by one instrument and a
+ * clip that lands by another is how a row ends up over the line by 0.3 of a
+ * character. modules/SpeechRows.js states both boxes; docs/message-window.md
+ * measured them. A row outside the frame is untouched.
  */
-const rowWidthFor = (lineNumber) =>
-    inHistoryFrame(lineNumber) ? HISTORY_FRAME_ROW : LONGEST_LINE;
+const foldRow = (text, lineNumber) => inHistoryFrame(lineNumber)
+    ? wrapToEms(text, BACKLOG_EDGE, backlogTracking())
+    : wrapAt(text, LONGEST_LINE);
 
 const output = allLineRecords
     .flatMap(lr => {
@@ -197,7 +206,7 @@ const output = allLineRecords
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
-        text = wrapAt(text, rowWidthFor(lr.lineNumber));
+        text = foldRow(text, lr.lineNumber);
         return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
     // The cherry-picks are a file of their own and start on a line of their

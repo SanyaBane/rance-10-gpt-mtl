@@ -62,15 +62,39 @@ classes; the build wrapped every line in the game against one reference, the
 dialogue window's, which is about thirty full-width characters once
 `WRAP_SAFETY_MARGIN` is off.
 
-So the chronology was folded at thirty in a box that holds forty. **159 of its
+So the chronology was folded at thirty in a frame that holds forty. **159 of its
 311 rows carried a fold while the widest of them was 39.2** of the frame's own
 characters -- every one of those folds a line the build invented and the frame
-had room for. `rowWidthFor` in `scripts/regenerate_aai_txt.js` hands these rows
-`HISTORY_FRAME_ROW` instead, and the count goes to 0.
+had room for.
 
 A report that knows a box and a build that does not is half a measurement. The
-box is stated once now, in `modules/SpeechRows.js`, beside the window's row and
-the backlog's edge, and all three callers read it from there.
+boxes are stated once now, in `modules/SpeechRows.js`, and every caller reads
+them from there.
+
+### The frame is not the box these rows are folded to
+
+Wiring the build against `HISTORY_FRAME.width` was the wrong answer to the right
+question, and one screenshot of the backlog settled it: `Rance suddenly di`, cut
+mid-word, six rows of one entry in a row. **The backlog replays every line the
+game speaks and clips at 35.39.** A row built for the 40-wide frame draws whole
+in the prologue and is cut in the backlog, so widening the fold from thirty to
+forty traded a fold nobody needed for a clip that loses text.
+
+Where two boxes draw the same row, **the narrower one decides**, and for anything
+the game speaks that is always the backlog -- which is the section above this
+file's own table, arrived at again from the other direction. These rows fold at
+`BACKLOG_EDGE` now.
+
+They fold in the game's own font, too. `wrapAt` decides in Meiryo and the game
+clips in its own font, and over one row that gap is small and decisive: the
+hand-written version of one of these rows measured 35.7 against an edge of
+35.39, which reads as fitting and is not. `wrapToEms` in `modules/GameFont.js`
+is the fold in the same instrument the clip happens in, and it carries a leading
+full-width indent onto every line rather than the first -- in a table that
+indent is which column the row is in, not a quote's hanging alignment.
+
+The result, read off the built `.ain`: 311 rows drawn in 450 lines, widest 35.38,
+**nothing past either box**, and all 139 fold continuations still indented.
 
 **And the range was wrong at one end.** It was written as m[193987]..m[194532],
 from where `■枠消し` was read in the bytecode. `033026.tsv`'s own rows stop at

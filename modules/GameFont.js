@@ -135,3 +135,51 @@ export const trackingFor = (spacing, fontSize) => spacing / fontSize * em();
  */
 export const gameTextWidth = (text, tracking = TRACKING) => text.split("")
     .reduce((width, character) => width + advanceOf(character) + tracking, 0);
+
+/**
+ * The same folding `wrapAt` does, decided in the game's own font.
+ *
+ * `wrapAt` in modules/TextNormalization.js measures Meiryo and compares against
+ * a reference string, which is the whole game's instrument and stays that way --
+ * docs/text-width.md says why. This is for a caller that knows the width of its
+ * own box as a number and needs the fold to land where the game will actually
+ * stop drawing: the ■歴史枠 chronology, whose rows are replayed in the backlog
+ * and clipped there at 35.39 ems whatever the frame allows.
+ *
+ * A leading full-width indent is carried onto every line rather than left on the
+ * first. That is the opposite of what `wrapAt` does, and deliberately: there an
+ * indent sits a quote's continuation under its 「, and here it says which column
+ * of a table the row is in. A continuation that loses it changes what the row
+ * means.
+ *
+ * @param {string} text
+ * @param {number} ems the box, in full-width characters
+ * @param {number} [tracking] the layout's own, defaulting to gameTextWidth's
+ */
+export const wrapToEms = (text, ems, tracking) => {
+    if (text.includes("\n")) {
+        return text; // already folded, by this or by wrapAt
+    }
+    const limit = ems * em();
+    const indent = /^　*/.exec(text)[0];
+    const words = text.slice(indent.length).split(/\s+/).filter(Boolean);
+    if (!words.length) {
+        return text;
+    }
+    const lines = [];
+    let line = null;
+    for (const word of words) {
+        const grown = line === null ? word : `${line} ${word}`;
+        // A word wider than the box on its own still goes on a line of its own:
+        // there is nowhere else for it, and breaking inside a word would invent
+        // a hyphen the translation did not write.
+        if (line !== null && gameTextWidth(indent + grown, tracking) > limit) {
+            lines.push(line);
+            line = word;
+        } else {
+            line = grown;
+        }
+    }
+    lines.push(line);
+    return lines.map(one => indent + one).join("\n");
+};
