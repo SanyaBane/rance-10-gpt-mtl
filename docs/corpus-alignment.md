@@ -10,6 +10,13 @@
 > years**, and a corpus keyed by line number never had to agree with the line.
 > [scene-corpus-migration.md](scene-corpus-migration.md) is the move.
 
+> **"No number can be claimed twice" was too strong, and 2026-09-01 is when
+> that was corrected.** The format makes both faults *visible*; it does not
+> make them impossible. Nothing stops a hand pass from writing a number cell,
+> and one did -- three days before this banner was written. The extraction
+> printed it on every run and nobody read the line. "The number claimed twice,
+> after the format closed it" at the end of this file is what that was.
+
 Every record in `text_languages/en_grok/gpt_outputs*/` carries three things: a
 `lineNumber`, the `originalJapaneseLine` it was translated from, and the
 `translatedEnglishLine`. Only the first of those reaches the game.
@@ -257,3 +264,56 @@ Then render and read the result back against the v1.04 dump at the run's start,
 its end, and the line past its end. A line whose Japanese is blank cannot be
 found in the dump by searching for it, so anchor on a distinctive line nearby and
 count forward.
+
+## The number claimed twice, after the format closed it
+
+Both faults this file describes came back on 2026-08-29, in the format that was
+supposed to have made them impossible, and were found on 2026-09-01.
+
+`8a1fdbb4d`, a translation refinement over seven scene files, gave
+`030444.tsv` and `030452.tsv` the block of 19 `m[]` numbers belonging to
+`030448.tsv`, and shortened a Japanese cell in `031544.tsv` from the game's own
+`「がははは` to `「がはは`. The three scenes -- `ラウネア`, `タルゴ` and `サメザン`,
+each a character event with Galtia -- are word-for-word identical apart from the
+name of the food he is hoarding.
+
+What that cost, for three days:
+
+- 38 rows of English went to slots belonging to a third scene;
+- `m[7392..7410]` and `m[7870..7888]` were never named, so two scenes played
+  their opening in Japanese;
+- `m[7692]` said `this Laubri` -- Samezan's food, on Talgo's slot, because the
+  build applies the last assignment it reads and `030452.tsv` sorts last.
+
+**Only one of the 19 numbers ever looked wrong**, and that is the whole reason
+it survived: the other 18 rows are identical in all three scenes, so the built
+`.ain` read correctly everywhere but the food. The check at the top of this file
+cannot see any of it either. It asks whether the record for a number carries
+that number's Japanese, and a duplicate collapses into one record -- the
+winner -- before the question is asked. The two records that were wrong were
+not there to be asked about.
+
+### What did see it, and what did not
+
+`scripts/extract_scenes.js` saw it on every run from the day it was made and
+said so, and the sentence it said it in was `the game or a table has moved since
+the corpus was written` -- which is true of a portrait state renamed in a
+glossary and is the opposite of true here. A misnumbered row is the corpus being
+wrong, not the game moving. Both were counted into one number under that one
+sentence, so the finding arrived pre-excused. It now counts and reports the two
+apart, and keeps misnumbered rows in a sample list of their own so ordinary
+drift cannot crowd them out -- which is the other half of how it stayed unread.
+
+What actually surfaced it was arithmetic, from a different pass entirely.
+`scripts/bake_speech_rows.js` wrote 7046 rows and `scripts/effective_map.js`
+counted 7042 numbers changed. Four rows that were written and did not arrive is
+the finding CLAUDE.md says to expect from holding those two counts against each
+other, and it is the only check in the repository that could have produced it
+from the outside: the corpus agreed with itself, each of the three scene files
+was internally consistent, and every report that reads a scene at a time was
+content.
+
+So the lesson the banner records is right and its conclusion was not. **A key
+that is compared against nothing can be wrong for years** -- and a key that *is*
+compared, by a check whose output nobody reads as an alarm, can be wrong for as
+long as anybody is willing to scroll past it.

@@ -192,17 +192,14 @@ misplaced sentence that is neither is invisible here. So `shifted`'s count is a
 floor and not a measurement, and the report is worth re-running after any pass
 that moves English between rows.
 
-A duplicated `m[]` number, which the fold bake walked into rather than caused.
-The bake wrote 7046 rows and `scripts/effective_map.js` counted 7042 numbers
-changed; the four are `m[7692]` and `m[7693]`, claimed by three scene files at
-once. `030444.tsv` and `030452.tsv` both open with `030448.tsv`'s block of 19
-numbers, where the game gives them blocks of their own at m[7392] and m[7870],
-so 38 rows of English are written to numbers that are not theirs and two
-scenes' own numbers are never assigned. 18 of the 19 rows are word-for-word
-identical across the three scenes -- they differ only in a food name -- which
-is why [corpus-alignment.md](corpus-alignment.md)'s check by number reads 0
-over them. This report cannot see it either: it reads a scene at a time, and
-each of the three is internally consistent.
+A duplicated `m[]` number. This report reads a scene at a time, and a scene
+carrying another scene's numbers is internally consistent, so there is nothing
+here for it to notice. `030444.tsv` and `030452.tsv` both opened with
+`030448.tsv`'s block of 19 -- 38 rows of English on the wrong slots and two
+scenes playing their opening in Japanese -- and what found it was the fold bake
+writing 7046 rows while `scripts/effective_map.js` counted 7042 numbers changed.
+Fixed in `bee89f9ca`; [corpus-alignment.md](corpus-alignment.md) is the class,
+why the check by number could not see it, and what reports it now.
 
 ## The one it did not ask about
 

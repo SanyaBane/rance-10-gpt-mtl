@@ -161,13 +161,35 @@ const readEnglish = async (lang) => {
  * What this run would change in the committed corpus, which is the only thing
  * it can say now that the English is carried forward rather than re-read.
  *
- * A row that differs differs in a derived column -- the speaker, the portrait's
- * state, the Japanese, or the scene's header and cast -- and every one of those
- * comes from the game's own code or from a table under glossaries/. So a
- * difference is a table corrected since the corpus was written, and copying the
- * file over is how the correction reaches the dialogue. Nothing here writes
- * into text_languages/: what a run of this may touch stays under build/.
+ * Two questions, and they are counted apart because they cost different things.
+ *
+ * A row that differs in a derived column -- the speaker, the portrait's state,
+ * the Japanese, or the scene's header and cast -- differs because that column
+ * comes from the game's own code or from a table under glossaries/, so the
+ * difference is a table corrected since the corpus was written and copying the
+ * file over is how the correction reaches the dialogue.
+ *
+ * **A row whose number differs is not that at all.** The number is the join key
+ * and the only thing the game gets back, so a row carrying the wrong one puts
+ * its English on somebody else's slot and leaves its own slot unnamed -- which
+ * plays in Japanese. Nothing about the game moved; the corpus is wrong.
+ *
+ * Both were reported as one number under one sentence, "the game or a table has
+ * moved since the corpus was written", which reads as reassurance and is the
+ * opposite of what a misnumbered row means. `030444.tsv` and `030452.tsv` opened
+ * with `030448.tsv`'s block of 19 numbers for three days that way, 38 rows of
+ * English on the wrong slots and two scenes' own slots never named at all, and
+ * this run printed it every time. 18 of those 19 rows are word-for-word
+ * identical across the three scenes, so only one number in the built .ain ever
+ * looked wrong -- a food name -- and docs/corpus-alignment.md's check by number
+ * cannot see any of it, because a duplicate collapses before that check reads it.
+ *
+ * Nothing here writes into text_languages/: what a run of this may touch stays
+ * under build/.
  */
+/** The m[] number a scene-file line carries, or null for a header or a blank. */
+const numberOf = (line) => /^(\d+)\t/.exec(line ?? "")?.[1] ?? null;
+
 const compareWithCommitted = async (lang, fileName, rendered, drift) => {
     let committed;
     try {
@@ -190,10 +212,20 @@ const compareWithCommitted = async (lang, fileName, rendered, drift) => {
             continue;
         }
         ++drift.rows;
-        if (drift.samples.length < SAMPLES) {
-            drift.samples.push(`    ${fileName} line ${at + 1}`
-                + `\n      committed: ${theirs[at] ?? "(no line)"}`
-                + `\n      this run:  ${mine[at] ?? "(no line)"}`);
+        const sample = `    ${fileName} line ${at + 1}`
+            + `\n      committed: ${theirs[at] ?? "(no line)"}`
+            + `\n      this run:  ${mine[at] ?? "(no line)"}`;
+        // The first cell is the m[] number. A row whose number moved is a
+        // different finding from one whose speaker did, and it is kept in a
+        // list of its own so that benign drift cannot crowd it out of the
+        // samples -- which is most of how it stayed unread.
+        if (numberOf(theirs[at]) !== numberOf(mine[at])) {
+            ++drift.misnumbered;
+            if (drift.misnumberedSamples.length < SAMPLES) {
+                drift.misnumberedSamples.push(sample);
+            }
+        } else if (drift.samples.length < SAMPLES) {
+            drift.samples.push(sample);
         }
     }
 };
@@ -237,7 +269,8 @@ await run(async () => {
     let uncovered = 0;
     let blank = 0;
     /** How far the committed corpus has fallen behind the game and the tables. */
-    const drift = {files: 0, rows: 0, absent: 0, samples: []};
+    const drift = {files: 0, rows: 0, misnumbered: 0, absent: 0,
+        samples: [], misnumberedSamples: []};
     let flagged = 0;
     let flaggedLines = 0;
     let routed = 0;
@@ -402,8 +435,17 @@ await run(async () => {
         + " the game plays on only one of El's two routes");
     console.log(`  read ${checked} rows back against the game's own dump, all agreed`);
     const committedDir = path.relative(ROOT, translatedScenesDir(lang));
+    if (drift.misnumbered) {
+        // First, and in its own words: this one is not the game moving.
+        console.warn(`  ${drift.misnumbered} rows in ${committedDir} carry a number the game`
+            + " does not give them -- their English is written to somebody else's slot and"
+            + " their own plays in Japanese. The corpus is wrong here, not the game.");
+        drift.misnumberedSamples.forEach(sample => console.warn(sample));
+    }
     if (drift.files || drift.absent) {
-        console.warn(`  ${drift.files} scenes differ from ${committedDir}, ${drift.rows} rows`
+        const elsewhere = drift.rows - drift.misnumbered;
+        console.warn(`  ${drift.files} scenes differ from ${committedDir}, ${elsewhere} rows`
+            + (drift.misnumbered ? ` besides the ${drift.misnumbered} above` : "")
             + (drift.absent ? `, and ${drift.absent} scenes are not committed there at all` : "")
             + " -- the game or a table has moved since the corpus was written");
         drift.samples.forEach(sample => console.warn(sample));
