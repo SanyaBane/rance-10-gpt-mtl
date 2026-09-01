@@ -58,7 +58,7 @@ import {PLACE_GLOSSARY} from "./PlaceNames.js";
 import {RACE_GLOSSARY} from "./RaceNames.js";
 import {SUBSTITUTIONS} from "./SceneAcceptance.js";
 import {parseSceneFile, speechesOf} from "./SceneFile.js";
-import {sceneDir} from "./SceneIndex.js";
+import {sceneDir, sceneIndexFile} from "./SceneIndex.js";
 import {SUMMARY_GLOSSARY, SUMMARY_TERMS} from "./SummaryLines.js";
 import {candidatesIn, compoundOf, phrasesIn, readGlossary} from "./TermDrift.js";
 import {TROPHY_BONUS_GLOSSARY, TROPHY_GLOSSARY} from "./TrophyNames.js";
@@ -140,7 +140,13 @@ export const readSceneCorpus = (textLang) => {
             + " They are written by npm run extract-scenes, and build/ is gitignored:"
             + ` run "npm run extract-scenes -- --text-lang=${textLang}" first.`);
     }
-    return names.filter(name => name.endsWith(".tsv")).sort().map(name => {
+    // Every .tsv in there but one. `npm run extract-scenes` writes its index
+    // beside the scenes it indexes, and a row of that -- a file name, a count and
+    // a description -- is four columns where a scene row is five, so reading it as
+    // a scene throws before the report gets to its first term. Excluded by the
+    // path the writer uses rather than by guessing the name.
+    const index = path.basename(sceneIndexFile(textLang));
+    return names.filter(name => name.endsWith(".tsv") && name !== index).sort().map(name => {
         const scene = parseSceneFile(fs.readFileSync(path.join(dir, name), "utf-8"));
         return {
             id: name.slice(0, -".tsv".length),
