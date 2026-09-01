@@ -46,8 +46,8 @@
 
 48574	Medusa	敗北	「あ…………っ、が、く、ぅ、ぁっ……！」	「A...... Gu, ku, u, aah...!」
 
-48575	-		メディウサの四肢に震えが走り、膝から崩れ落ちた。	Tremors ran through Medusa's limbs and she collapsed to her knees.
-48576	+		急速に、死への坂道を転げ落ちていく。	She rapidly tumbled down the path to death.
+48575	-		メディウサの四肢に震えが走り、膝から崩れ落ちた。	Tremors ran through Medusa's limbs and she collapsed to
+48576	+		急速に、死への坂道を転げ落ちていく。	her knees. She rapidly tumbled down the path to death.
 
 48577	Medusa	基本	「それ、その、刀、ッ…………！	「That, that sword...!
 48578	+		　っ……あ、ああぁあぁっ……！」	　A... Aaaaaah...!」
@@ -59,8 +59,8 @@
 48581	-		なおも、誰かに何かを言いつけようとして、	Still trying to give orders to someone,
 48582	+		そのままメディウサは倒れ……動かなくなった。	Medusa collapsed... and stopped moving.
 
-48583	-		ころりと。	With a plop.
-48584	+		その身体は滅び、丸い魔王の血だけが残った。	Her body was destroyed, leaving only a round Demonic Blood Soul.
+48583	-		ころりと。	With a plop. Her body was destroyed,
+48584	+		その身体は滅び、丸い魔王の血だけが残った。	leaving only a round Demonic Blood Soul.
 
 48585	Ogawa Kentarou	刀持ち	「ふぅ。しょーーーーーーり！	「Phew. Victoooory!
 48586	+		　悪の悪いお姉さんは滅んだぞ」	　The evil big sister has been defeated.」
@@ -69,8 +69,8 @@
 
 48588	Kentou Kanami	ジト目	「え……え？　か、勝っちゃった、の？」	「Eh... Eh? We... won?」
 
-48589	Urza Pranaice	真剣	「……かなみさん。	「...Kanami.
-48590	+		　周辺警戒と、総統の救出。お願いします」	　Secure the perimeter and rescue the Supreme Leader. Please.」
+48589	Urza Pranaice	真剣	「……かなみさん。	「...Kanami. Secure the perimeter and
+48590	+		　周辺警戒と、総統の救出。お願いします」	　rescue the Supreme Leader. Please.」
 
 48591	Kentou Kanami	基本	「あ、は、はい！」	「Ah, y-yes!」
 

@@ -57,8 +57,8 @@
 
 142000	Helman Knight	基本	「将軍、新しい情報です――」	「General, new information――」
 
-142001	-		アミトスは次々と部下から入る情報を聞き、	Amitos listened to the incoming reports from his subordinates one after another,
-142002	+		指示を出している。	and gave out orders.
+142001	-		アミトスは次々と部下から入る情報を聞き、	Amitos listened to the incoming reports from his
+142002	+		指示を出している。	subordinates one after another, and gave out orders.
 
 142003	Amitos Armitage	メットなし	「すまないな、見ての通り人手不足で	「Sorry about this. As you can see, we're short on manpower
 142004	+		　あまり相手をしてやれそうにない」	　so I can't really spend much time with you.」
@@ -77,8 +77,8 @@
 142011	Rance	基本	「魔人バボラ。	「Fiend Babolat.
 142012	+		　そうか、お前ら魔人と戦ったのか」	　I see, so you've fought a Fiend.」
 
-142013	Amitos Armitage	メットなし	「戦ったなどとは言えん。	「I wouldn't call it fighting.
-142014	+		　ただ魔人の来る所を予測し民を避難させただけだ」	　I only predicted where the Fiend would appear and evacuated the civilians.」
+142013	Amitos Armitage	メットなし	「戦ったなどとは言えん。	「I wouldn't call it fighting. I only predicted where
+142014	+		　ただ魔人の来る所を予測し民を避難させただけだ」	　the Fiend would appear and evacuated the civilians.」
 
 142015	Amitos Armitage		「魔人が相手となると、勝つ手段――	「When facing a Fiend, we have no means to win――
 142016	?		　いや……戦う手段がないからな……」	　No... we don't even have a way to fight them...」

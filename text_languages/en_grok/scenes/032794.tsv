@@ -73,8 +73,8 @@
 
 176721	Rance	基本	「ふん、雑魚が……！」	「Hmph, small fry...!」
 
-176722	-		突き込まれる切っ先をカオスで捌き、	Rance parried the thrust with Chaos
-176723	+		すれ違いざまに柄頭で肩口を強打する。	and slammed the pommel into Arios’s shoulder as they passed.
+176722	-		突き込まれる切っ先をカオスで捌き、	Rance parried the thrust with Chaos and slammed
+176723	+		すれ違いざまに柄頭で肩口を強打する。	the pommel into Arios’s shoulder as they passed.
 
 176724	Arios Theoman	抜刀	「ぐっ……！？」	「Guh...!?」
 
@@ -107,17 +107,17 @@
 176740	-		その隙に踏み込んだランスの強撃を、	Rance stepped in and delivered a powerful strike
 176741	+		両手に持ち替えた剣でアリオスが凌ぐ。	which Arios blocked with his sword held in both hands.
 
-176742	Arios Theoman	抜刀	「ぐっ……なぜ、分からない！	「Guh... Why don’t you understand!
-176743	+		　人類の為を思うのならば、魔王を……！」	　If you care about humanity, you should kill the Demon King...!」
+176742	Arios Theoman	抜刀	「ぐっ……なぜ、分からない！	「Guh... Why don’t you understand! If you care
+176743	+		　人類の為を思うのならば、魔王を……！」	　about humanity, you should kill the Demon King...!」
 
-176744	Rance	基本	「アホが、人類なんぞどうでもいいわ！	「Idiot, I don’t care about humanity!
-176745	+		　俺と可愛い子以外は、くたばろうが知った事か！」	　Everyone except me and cute girls can drop dead for all I care!」
+176744	Rance	基本	「アホが、人類なんぞどうでもいいわ！	「Idiot, I don’t care about humanity! Everyone except
+176745	+		　俺と可愛い子以外は、くたばろうが知った事か！」	　me and cute girls can drop dead for all I care!」
 
 176746	Arios Theoman	抜刀	「貴様、ッ……！	「You...!
 176747	+		　今現在でしか、物が見れないのかッ……！」	　Can you only see the present...!?」
 
-176748	Rance	基本	「犠牲がないと戦えない負け犬が！	「You loser who can’t fight without sacrifices!
-176749	+		　貴様が弱いのは勝手だが、俺と俺の女を巻き込むんじゃない！」	　Be weak if you want, but don’t drag me and my women into it!」
+176748	Rance	基本	「犠牲がないと戦えない負け犬が！	「You loser who can’t fight without sacrifices! Be weak
+176749	+		　貴様が弱いのは勝手だが、俺と俺の女を巻き込むんじゃない！」	　if you want, but don’t drag me and my women into it!」
 
 176750	Arios Theoman	抜刀	「魔王が覚醒すればッ、人類に未来はないんだぞ！	「If the Demon King awakens, humanity has no future!
 176751	+		　戦いも終わらない！　僕と、同じ過ちを……ッ！」	　The fighting will never end! Don’t make the same mistake as me...!」
@@ -275,8 +275,8 @@
 176842	Arios Theoman		「っ……！　頼む、もう一度……	「...! Please, one more time...
 176843	+		　あの聖女モンスターに会わせてくれ！」	　Let me meet that saint monster again!」
 
-176844	Cola		「どこにいるか知りませんしその気もないです。	「I don’t know where she is and have no intention of finding her.
-176845	+		　もう無駄ですよ、馬鹿アリオス」	　It’s pointless, you idiot Arios.」
+176844	Cola		「どこにいるか知りませんしその気もないです。	「I don’t know where she is and have no intention
+176845	+		　もう無駄ですよ、馬鹿アリオス」	　of finding her. It’s pointless, you idiot Arios.」
 
 176846	Arios Theoman		「…………っ……！」	「......!」
 
@@ -319,8 +319,8 @@
 176871	Cola		「結局……甘いまま。	「In the end... still too soft.
 176872	+		　現実逃避の旅は楽しかったですか？」	　Did you enjoy your journey of escapism?」
 
-176873	Cola		「過去も現在も目を背けたかったから、	「Because you wanted to look away from the past and present,
-176874	+		　未来を見るフリをして……」	　you pretended to look at the future...」
+176873	Cola		「過去も現在も目を背けたかったから、	「Because you wanted to look away from the past
+176874	+		　未来を見るフリをして……」	　and present, you pretended to look at the future...」
 
 176875	Cola		「起きた災難を、何かのせいにしたかったんでしょ？	「You wanted to blame disasters on something else,
 176876	+		　それが、自分自身であっても」	　even if it was yourself.」
@@ -354,8 +354,8 @@
 
 176893	Arios Theoman	基本	「どこに……どこに、行くんだ。コーラ……」	「Where... where are you going, Cola...」
 
-176894	Cola	天使モード	「もちろん、また勇者を探して育てて、旅をします。	「Of course, I’ll search for the next hero, raise him, and travel again.
-176895	+		　じゃ、今度こそ…………さよならです。アリオス」	　Well then, this time... goodbye, Arios.」
+176894	Cola	天使モード	「もちろん、また勇者を探して育てて、旅をします。	「Of course, I’ll search for the next hero, raise him,
+176895	+		　じゃ、今度こそ…………さよならです。アリオス」	　and travel again. Well then, this time... goodbye, Arios.」
 
 176896	-		一瞬だけ、視線を背後の元勇者に送ると、	Glancing once at the former hero behind him,
 176897	+		コーラはそのまま、何処かへと身軽に去っていった。	Cola lightly flew away somewhere.

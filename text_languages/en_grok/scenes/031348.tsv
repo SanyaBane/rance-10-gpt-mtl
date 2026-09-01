@@ -74,8 +74,8 @@
 
 68396	-		城門の上にいたのは、冴えない人間の雄だった。	On top of the castle gate stood an unremarkable human male.
 
-68397	Shinoda Gengorou		「僕は篠田源五郎。	「I'm Shinoda Gengo.
-68398	+		　自由都市連合軍の、まあ警備担当かな」	　Well, sort of the security officer for the Free Cities Alliance Army.」
+68397	Shinoda Gengorou		「僕は篠田源五郎。	「I'm Shinoda Gengo. Well, sort of the security
+68398	+		　自由都市連合軍の、まあ警備担当かな」	　officer for the Free Cities Alliance Army.」
 
 68399	Monster General		「ならば門を開けろ！　死にたくなければな！」	「Then open the gate! If you don't want to die!」
 
@@ -141,8 +141,8 @@
 
 68437	Monster General		「うおおおおッ！？」	「Uoooooh!?」
 
-68438	-		篠田の脇から数名の火縄銃を持った兵士が起ち上がり	Several soldiers with matchlock guns rose from beside Shinoda
-68439	+		不意打ちで魔物将軍を狙撃した。	and sniped the Monster General by surprise.
+68438	-		篠田の脇から数名の火縄銃を持った兵士が起ち上がり	Several soldiers with matchlock guns rose from beside
+68439	+		不意打ちで魔物将軍を狙撃した。	Shinoda and sniped the Monster General by surprise.
 
 68440	-		一発が足を掠めて、ぐらりと身体が揺れる。	One shot grazed his leg, making his body sway.
 
@@ -205,8 +205,8 @@
 
 68476	JAPAN Samurai	非武装	「お、おおおっ……！　篠田殿、撃ちますか！」	「O-ooooh...! Shinoda-dono, shall we fire!?」
 
-68477	Shinoda Gengorou	基本	「あ、いいのいいの。撤退するよ。	「Ah, it's fine. We're retreating.
-68478	+		　借りてきた器兵だけ離して、撃たせて」	　Just release the borrowed mechanical soldiers and let them fire.」
+68477	Shinoda Gengorou	基本	「あ、いいのいいの。撤退するよ。	「Ah, it's fine. We're retreating. Just release the
+68478	+		　借りてきた器兵だけ離して、撃たせて」	　borrowed mechanical soldiers and let them fire.」
 
 68479	JAPAN Samurai	非武装	「そ、そうなのですか……？」	「I-is that so...?」
 
@@ -220,8 +220,8 @@
 68484	Monster General		「どれだけの兵数がいると思っている。	「How many troops do you think we have.
 68485	+		　救助は後回しだ！　押し破れ！」	　Rescue later! Break through!」
 
-68486	-		高所からの器兵の攻撃に悩まされながら、	While troubled by attacks from the mechanical soldiers in high places,
-68487	+		城門に攻撃が始まる。	attacks on the castle gate began.
+68486	-		高所からの器兵の攻撃に悩まされながら、	While troubled by attacks from the mechanical soldiers
+68487	+		城門に攻撃が始まる。	in high places, attacks on the castle gate began.
 
 68488	-		固く閉ざされた重い門をどうにかこじ開け、	Forcing open the tightly closed heavy gate,
 68489	+		その先の光景が魔軍の前に広がった。	the scene beyond spread out before the Monster Army.
@@ -252,8 +252,8 @@
 
 68504	Monster Captain		「前進！　前進だ。行軍を再開するぞ！」	「Forward! Forward. Resume the march!」
 
-68505	-		魔物隊長らが叱咤し、魔軍はのろのろと門を潜って、	Spurred by the monster captains, the Monster Army slowly passed through the gate
-68506	+		その向こうへと歩き始めた。	and began walking beyond it.
+68505	-		魔物隊長らが叱咤し、魔軍はのろのろと門を潜って、	Spurred by the monster captains, the Monster Army slowly
+68506	+		その向こうへと歩き始めた。	passed through the gate and began walking beyond it.
 
 68507	-		……だが、その流れが停止した。	...But that flow stopped.
 
@@ -261,8 +261,8 @@
 
 68509	Monster Captain		「はっ、その……デカントどもが……」	「Yes, well... the Decants...」
 
-68510	-		門は、デカデカント達が潜るには小さすぎ、	The gate was too small for the giant Decadants to pass through,
-68511	+		跨ぎ越すには大きすぎた。	and too big to step over.
+68510	-		門は、デカデカント達が潜るには小さすぎ、	The gate was too small for the giant Decadants
+68511	+		跨ぎ越すには大きすぎた。	to pass through, and too big to step over.
 
 68512	-		結果、窮屈そうに身体を挟みながら、	As a result, while awkwardly squeezing their bodies,
 68513	+		進むも引くも苦労する状態になっていた。	they struggled to move forward or backward.
@@ -270,13 +270,13 @@
 68514	Monster General		「デカントどもは引っこ抜いて、後にしろ！	「Pull the Decants back and leave them behind!
 68515	+		　他の兵が抜けてから、破壊してこい！」	　After the other soldiers pass, destroy it!」
 
-68516	-		捨て鉢気味に命令し、	He ordered recklessly,
-68517	+		魔物将軍も隊列に加わって進み始めた。	and the Monster General joined the column and began advancing.
+68516	-		捨て鉢気味に命令し、	He ordered recklessly, and the Monster General
+68517	+		魔物将軍も隊列に加わって進み始めた。	joined the column and began advancing.
 
 68518	-		兵士の士気が上がらないまま、行軍は続く。	The march continued with the soldiers' morale not rising.
 
-68519	-		こうなるとじわじわと飢えが軍全体を蝕み始めて、	At this point, hunger slowly began gnawing at the entire army,
-68520	+		時折足が止まる兵士も出てくる。	and soldiers occasionally stopped walking.
+68519	-		こうなるとじわじわと飢えが軍全体を蝕み始めて、	At this point, hunger slowly began gnawing at the
+68520	+		時折足が止まる兵士も出てくる。	entire army, and soldiers occasionally stopped walking.
 
 68521	-		しかし、もう数時間もすれば、	However, in just a few more hours,
 68522	+		Mランドに到着するはずだった。	they were supposed to reach M Land.
@@ -294,8 +294,8 @@
 
 68529	Shinoda Gengorou		「わあわあ」	「Waa waa.」
 
-68530	-		篠田に撃ち込まれた魔法は、	The magic shot at Shinoda
-68531	+		脇に控えていた今川ハニーが素早く庇う。	was quickly shielded by Imagawa Hanny standing beside him.
+68530	-		篠田に撃ち込まれた魔法は、	The magic shot at Shinoda was quickly shielded
+68531	+		脇に控えていた今川ハニーが素早く庇う。	by Imagawa Hanny standing beside him.
 
 68532	Monster General		「ぬぐく……人間が、舐めおって……！」	「Ngu... These humans, looking down on me...!」
 
@@ -307,8 +307,8 @@
 
 68537	Monster Captain		「はっ……」	「Yes...」
 
-68538	-		ただちに選抜された、魔物隊長10名の指揮による	Immediately, a selected force of two thousand under ten monster captains
-68539	+		二千の部隊が、城門へと向かった。	headed toward the castle gate.
+68538	-		ただちに選抜された、魔物隊長10名の指揮による	Immediately, a selected force of two thousand under
+68539	+		二千の部隊が、城門へと向かった。	ten monster captains headed toward the castle gate.
 
 68540	-		これでも、無人の可能性のある門には過敏と言えた。	Even so, it was overly cautious for a possibly empty gate.
 
@@ -343,8 +343,8 @@
 68558	-		初めから扉を開けるだけだと、	Since they were only supposed to open the door at first,
 68559	+		武器を手にしていなかった者も多い。	many didn't have weapons in hand.
 
-68560	-		それらに対し、長槍を主武器とした兵三千が、	Against them, three thousand soldiers with long spears as main weapons
-68561	+		散々に突きかかる。	thrust fiercely.
+68560	-		それらに対し、長槍を主武器とした兵三千が、	Against them, three thousand soldiers with
+68561	+		散々に突きかかる。	long spears as main weapons thrust fiercely.
 
 68562	Free Cities Guard		「三人一組で一匹殺せ！　奴らぁ混乱してやがる！」	「Kill one per group of three! They're confused!」
 
@@ -383,8 +383,8 @@
 
 68584	Free Cities Guard		「ぐっ……！」	「Guh...!」
 
-68585	-		と、その時、十数万の魔軍の鬨の声に	At that moment, almost drowned out by the war cries of over a hundred thousand Monster Army,
-68586	+		掻き消されそうになりながら、銃声が響いた。	gunshots rang out.
+68585	-		と、その時、十数万の魔軍の鬨の声に	At that moment, almost drowned out by the war cries of
+68586	+		掻き消されそうになりながら、銃声が響いた。	over a hundred thousand Monster Army, gunshots rang out.
 
 68587	Free Cities Guard		「ッ、二射目…………合図、来たぞ！	「Second volley... The signal came!
 68588	+		　帰り木使用許可ッ！」	　Permission to use return woods!」
@@ -401,8 +401,8 @@
 68594	Monster Captain		「あれだけの数を拾いあげるほどの帰り木を	「They prepared enough return
 68595	+		　用意していたとは……！」	　woods to pick up that many...」
 
-68596	-		進撃を停止し、しばし呆然とした魔軍の頭上で、	As the Monster Army stopped their advance and stood dazed for a moment,
-68597	+		何かの音がした。	a sound came from above.
+68596	-		進撃を停止し、しばし呆然とした魔軍の頭上で、	As the Monster Army stopped their advance and
+68597	+		何かの音がした。	stood dazed for a moment, a sound came from above.
 
 68598	Monster General		「…………？」	「............?」
 
@@ -434,8 +434,8 @@
 
 68615	JAPAN Samurai	非武装	「お、おぉ…………！」	「O-ooooh...!」
 
-68616	Shinoda Gengorou	基本	「空が使えてお金があるならこうしちゃうよねぇ。	「If you can use the sky and have money, this is what you do.
-68617	+		　ひどいなぁ、プチハニー爆弾」	　Petit Hanny bombs are pretty nasty.」
+68616	Shinoda Gengorou	基本	「空が使えてお金があるならこうしちゃうよねぇ。	「If you can use the sky and have money, this is
+68617	+		　ひどいなぁ、プチハニー爆弾」	　what you do. Petit Hanny bombs are pretty nasty.」
 
 68618	JAPAN Samurai	非武装	「いえ、そうですが……しかし、篠田殿もお見事……	「Well, yes... but Shinoda-dono, that was brilliant...
 68619	+		　このように、一方的な……」	　Such a one-sided...」
@@ -493,8 +493,8 @@
 
 68651	JAPAN Samurai	非武装	「ぐっ……はぁっ、はぁっ……おい、動け……！」	「Guh... Hah, hah... Hey, move...!」
 
-68652	-		侍が幾度か煽るが、てばさきは哀しげな顔で	The samurai urged it several times, but the Tebasaki stopped with a sad face
-68653	+		立ち止まってしまった。	and wouldn't move.
+68652	-		侍が幾度か煽るが、てばさきは哀しげな顔で	The samurai urged it several times, but the Tebasaki
+68653	+		立ち止まってしまった。	stopped with a sad face and wouldn't move.
 
 68654	JAPAN Samurai		「ぐ……限界か……」	「Guh... Is this the limit...?」
 
@@ -546,13 +546,13 @@
 68682	Monster General		「Mランドに逃げ込めばよかったものをな。	「You should have run into M Land.
 68683	+		　虚しく死んでいくか」	　Now you'll die in vain.」
 
-68684	Shinoda Gengorou		「何言ってんの。あそこを戦場にしたくないから、	「What are you saying? I didn't want to turn that place into a battlefield,
-68685	+		　わざわざここまで来てもらったんでしょ」	　so I lured you all the way here.」
+68684	Shinoda Gengorou		「何言ってんの。あそこを戦場にしたくないから、	「What are you saying? I didn't want to turn that place
+68685	+		　わざわざここまで来てもらったんでしょ」	　into a battlefield, so I lured you all the way here.」
 
 68686	Monster General		「なに……？」	「What...?」
 
-68687	Shinoda Gengorou		「あそこが戦火に見舞われたら、	「If that place gets caught in the flames of war,
-68688	+		　哀しむ人がいるんだよ。だからだめなの」	　there are people who would be sad. So that's not allowed.」
+68687	Shinoda Gengorou		「あそこが戦火に見舞われたら、	「If that place gets caught in the flames of war, there
+68688	+		　哀しむ人がいるんだよ。だからだめなの」	　are people who would be sad. So that's not allowed.」
 
 68689	Monster General		「………………？」	「............?」
 
@@ -641,11 +641,11 @@
 
 68741	Monster General		「…………あぐあ、あぁッ……」	「............Aguah, aaah...」
 
-68742	Monster General		「お…………のれ……おのれえええぇぇッ……！	「You...... damn...... daaaamn...!
-68743	+		　きさまの……武器も持てぬ輩の、掌でッ……！」	　By the hands of you... who can't even hold a proper weapon...!」
+68742	Monster General		「お…………のれ……おのれえええぇぇッ……！	「You...... damn...... daaaamn...! By the hands of
+68743	+		　きさまの……武器も持てぬ輩の、掌でッ……！」	　you... who can't even hold a proper weapon...!」
 
-68744	-		心底悔しげに将軍は地をもがき、篠田を睨み、	With deep regret, the general writhed on the ground, glaring at Shinoda,
-68745	+		そして動かなくなった。	and then stopped moving.
+68744	-		心底悔しげに将軍は地をもがき、篠田を睨み、	With deep regret, the general writhed on the ground,
+68745	+		そして動かなくなった。	glaring at Shinoda, and then stopped moving.
 
 68746	Cecil Carna		「こんな状況になっているとは思わなかった。	「I didn't expect the situation to be like this.
 68747	+		　よくやってくれたな」	　You did well.」
@@ -667,5 +667,5 @@
 68757	Shinoda Gengorou	不満	「あっ、あっ、聞いてたんですか？	「Ah, ah, you were listening?
 68758	+		　やめてくださいよ、そういうの〜」	　Please stop that~」
 
-68759	-		篠田を確保したセシルは部下と合流し、	Cecil, having secured Shinoda, joined up with her subordinates
-68760	+		Mランドへ帰投していった。	and returned to M Land.
+68759	-		篠田を確保したセシルは部下と合流し、	Cecil, having secured Shinoda, joined up with
+68760	+		Mランドへ帰投していった。	her subordinates and returned to M Land.

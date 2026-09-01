@@ -29,7 +29,7 @@ A scene file has the shape. The Japanese comes from the game's own dump, the
 speaker from the bytecode, and the row boundaries are the `MSG` operands, so a
 row's English can be held against the row it sits on.
 
-## The five classes
+## The six classes
 
 Counted over `en_grok` at `WRAP_SAFETY_MARGIN` 0.95, before and after the
 bracket passes [docs/speech-brackets.md](speech-brackets.md) describes. A speech
@@ -40,16 +40,20 @@ Raising the budget from 0.9 to 0.95 once took `overflow` from 4469 to 3348, and
 90 of those 1121 speeches came back under `blank` and `bracket` for exactly that
 reason.
 
-| class | before | after the brackets | after the bake | what it is |
-|---|---|---|---|---|
-| `shifted` | 18 | 19 | 19 | the English on a row belongs to a different row |
-| `overflow` | 3347 | 3346 | **839** | the speech draws in more lines than its window has |
-| `blank` | 1333 | 1331 | **2** | the game says something on a row and the English does not |
-| `bracket` | 3491 | 65 | 72 | the speech opens 「 or closes 」 in Japanese and not in English |
-| `untranslated` | 25 | 25 | 25 | no English anywhere in the speech |
+| class | before | after the brackets | after the bake | today | what it is |
+|---|---|---|---|---|---|
+| `shifted` | 18 | 19 | 19 | 19 | the English on a row belongs to a different row |
+| `overflow` | 3347 | 3346 | **839** | **2** | the speech draws in more lines than its window has |
+| `blank` | 1333 | 1331 | **2** | 2 | the game says something on a row and the English does not |
+| `fold` | -- | -- | -- | **0** | a row is folded that the same rows could hold whole |
+| `bracket` | 3491 | 65 | 72 | 73 | the speech opens 「 or closes 」 in Japanese and not in English |
+| `untranslated` | 25 | 25 | 25 | 25 | no English anywhere in the speech |
 
 The third column is the five bracket passes, the fourth is
-`scripts/bake_speech_rows.js` laying 4535 speeches into their own rows. `bracket`
+`scripts/bake_speech_rows.js` laying 4535 speeches into their own rows, and the
+fifth is where the report stands now: the `overflow` list shortened by meaning
+down to 2, and `fold` -- a class that did not exist until a screenshot of
+`６０１／プロローグ` arrived -- opened at 3517 and baked to 0 in one pass. `bracket`
 going 65 to 72 across the bake is the filing rather than a regression: a speech
 that was overflowing **and** missing a bracket was only ever counted as
 overflowing, and seven stopped overflowing. Redistributing words cannot lose
@@ -111,6 +115,21 @@ blank exactly as they are: the fix is a longer stare, which is somebody's
 decision. `033355.tsv` `m[230528]` sits inside the shifted run, where a layout
 would tidy somebody else's sentence into place.
 
+**fold** is every row filled, the speech fitting its window, and the build
+folding one of its rows into two drawn lines anyway. Nothing is lost and
+nothing runs off the box: what the player reads is the tail of a row alone on
+a line under a full one -- `world,` under `He declared the birth of the New
+Demon King Army to the`, which is a screenshot of `６０１／プロローグ` rather
+than an example, and worst in the backlog where every speech is on the screen
+at once.
+
+The fault is the division and not the length. `m[193933]` is 38.5 ems over
+28.3 where the same words balance to 34.4 and 32.4, both inside the box, so
+`layOutSpeech` takes the fold out without touching a word. 3517 speeches were
+that shape and the bake wrote all of them, which is what separates this class
+from `overflow`: there the layout has already done its best and the fix is
+fewer words.
+
 **bracket** used to be the largest class and is now the smallest that is a
 fault. The text is on its own row; a quotation mark fell off the end of one row
 or the start of the next. It is a floor rather than a measurement, because a
@@ -133,6 +152,38 @@ row's, so it fails. Two reports disagreeing is how the class was found at all;
 **untranslated** is not a fault to fix but a decision to take: a row with no
 English is left unnamed by the build, and an unnamed row plays in Japanese.
 
+## A fold is not an overflow, which is why nothing reported it
+
+`overflow` asks whether a speech draws in more lines than its window has. A
+two-row speech folded into three draws in three and the window draws three, so
+the budget is satisfied and that class never fires. All 3517 were invisible for
+that reason, including the one that had been on the screen the whole time.
+
+Which is the sibling of "The one it did not ask about" below, one step further
+along. That was a question asked only of the members of another class. This was
+a question nobody thought to ask at all, because the neighbouring question kept
+answering reassuringly. **A budget that is satisfied says nothing about how the
+rows were divided to satisfy it** -- the layout that satisfied it can still be
+the worst one available.
+
+## Which box the fold is held to
+
+The class cannot simply ask whether the layout removes the fold, because the
+two instruments disagree on purpose: the build decides a fold in Meiryo, with
+`getTextWidth`, and the game decides a clip in its own font. `m[193935]` is the
+case that separates them. Folded today, it balances to 35.9 ems over 34.0 --
+which the ordinary window draws whole and the backlog cuts, losing the last
+letter of `at the`. **Trading a ragged line for a lost one is not a fix.**
+
+So a speech is in the class only when every row of the new division is inside
+the backlog's own measured edge of 35.39: `clipsInBacklog` in
+`modules/SpeechRows.js`, and [message-window.md](message-window.md) is where
+that edge was measured and why the backlog binds where the dialogue window does
+not. 169 speeches fail that test. With the 2942 whose best division is too wide
+whatever happens, that is **3111 folds no layout removes**, and they want
+shortening by meaning the way the `overflow` list does. The report prints that
+number on a line of its own, with 33 more that are folded in a `t…` scene.
+
 ## What it cannot see
 
 A shift whose English is plausible where it landed. Both signals need the wrong
@@ -140,6 +191,18 @@ row to *look* wrong -- a bracket on the wrong side, a row of dots -- and a
 misplaced sentence that is neither is invisible here. So `shifted`'s count is a
 floor and not a measurement, and the report is worth re-running after any pass
 that moves English between rows.
+
+A duplicated `m[]` number, which the fold bake walked into rather than caused.
+The bake wrote 7046 rows and `scripts/effective_map.js` counted 7042 numbers
+changed; the four are `m[7692]` and `m[7693]`, claimed by three scene files at
+once. `030444.tsv` and `030452.tsv` both open with `030448.tsv`'s block of 19
+numbers, where the game gives them blocks of their own at m[7392] and m[7870],
+so 38 rows of English are written to numbers that are not theirs and two
+scenes' own numbers are never assigned. 18 of the 19 rows are word-for-word
+identical across the three scenes -- they differ only in a food name -- which
+is why [corpus-alignment.md](corpus-alignment.md)'s check by number reads 0
+over them. This report cannot see it either: it reads a scene at a time, and
+each of the three is internally consistent.
 
 ## The one it did not ask about
 

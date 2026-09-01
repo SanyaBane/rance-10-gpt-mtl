@@ -14,8 +14,8 @@
 * Miracle Tor	ミラクル	Female
 * Crook Mofus	クルックー	Female
 
-55793	-		ランス達は闘神都市を過ぎ、	Rance and the others passed Toushin City
-55794	+		大陸の果てを見物しながら西進する。	and continued west while sightseeing the edge of the continent.
+55793	-		ランス達は闘神都市を過ぎ、	Rance and the others passed Toushin City and continued
+55794	+		大陸の果てを見物しながら西進する。	west while sightseeing the edge of the continent.
 
 55795	Rance	基本	「なんか、ちょっとずつ山がちになってきたか？	「The mountains are getting a bit more frequent?
 55796	+		　足場がごつごつしてきたぞ」	　The footing is getting rougher.」
@@ -115,8 +115,8 @@
 
 55855	Monster Captain		「が、ぶっ…………」	「Ga... buh......」
 
-55856	-		パランチョ王国総大将、王兄ピッテン・チャオの	It was the great sword Parancho wielded by
-55857	+		振るう、大剣パランチョの刃だった。	Pitten Chao, the supreme commander and prince of Parancho Kingdom.
+55856	-		パランチョ王国総大将、王兄ピッテン・チャオの	It was the great sword Parancho wielded by Pitten Chao,
+55857	+		振るう、大剣パランチョの刃だった。	the supreme commander and prince of Parancho Kingdom.
 
 55858	Green Monster Soldier		「ひ、ひいいいぃぃっ！？	「H-Hiiiiii!? 
 55859	+		　た、た、隊長がああぁぁーーーっ！」	　C-Captain, nooooo!」
@@ -148,8 +148,8 @@
 
 55876	-		騎士団が好機に沸き立ち、一気に押し込んでいく中。	While the knight order was excited by their advantage and pushing forward.
 
-55877	-		敵将を討ち取って一息ついたピッテンは、	Pitten, who had just slain the enemy commander and caught his breath,
-55878	+		遠くを行く旅の一団を目に留めた。	noticed a traveling group in the distance.
+55877	-		敵将を討ち取って一息ついたピッテンは、	Pitten, who had just slain the enemy commander and
+55878	+		遠くを行く旅の一団を目に留めた。	caught his breath, noticed a traveling group in the distance.
 
 55879	?		「お疲れ様でしたな、王子」	「Good work, Prince.」
 
@@ -202,8 +202,8 @@
 
 55909	Rance	真剣	「なんだ。お前らこそ、知り合いか」	「What. You two know each other?」
 
-55910	Copandon Dott	基本	「おんなじ自由都市の、それなりの地位の人間やし。	「We're both from the same Free Cities and hold decent positions.
-55911	+		　まあご近所はん、てとこや」	　Basically neighbors.」
+55910	Copandon Dott	基本	「おんなじ自由都市の、それなりの地位の人間やし。	「We're both from the same Free Cities and
+55911	+		　まあご近所はん、てとこや」	　hold decent positions. Basically neighbors.」
 
 55912	Copandon Dott		「パランチョ王国の強さは有名やからなぁ。	「Parancho Kingdom's strength is well known. There
 55913	+		　自由都市連合軍の総隊長にピッテンはんを推す声も	　were quite a few voices recommending Pitten as supreme
@@ -212,8 +212,8 @@
 55915	Pitten Chao		「連合軍の長は各都市のしがらみのない、	「The tradition is to appoint a mercenary
 55916	+		　傭兵に就かせるというのが伝統でな」	　without ties to any city as leader of the alliance.」
 
-55917	Pitten Chao		「俺も剣ならともかく、政が絡む立場は御免でな。	「I'm fine with the sword, but I don't want a political position.
-55918	+		　お互いの事情が噛み合って、けっこうな事だ」	　Our circumstances matched up nicely.」
+55917	Pitten Chao		「俺も剣ならともかく、政が絡む立場は御免でな。	「I'm fine with the sword, but I don't want a political
+55918	+		　お互いの事情が噛み合って、けっこうな事だ」	　position. Our circumstances matched up nicely.」
 
 55919	Copandon Dott		「とまあ、当人がこの調子って事もあってな。	「Well, since the man himself is like this.
 55920	+		　今回は副隊長さんや」	　This time he's vice captain.」
@@ -305,8 +305,8 @@
 
 55973	?		「良き旅であったようですな」	「It seems it was a good journey.」
 
-55974	-		満足そうに頷く老魔術師に、	To the old mage nodding in satisfaction,
-55975	+		黄金の騎士は僅かに唇を歪めただけで応えた。	the golden knight responded with only a slight twist of his lips.
+55974	-		満足そうに頷く老魔術師に、	To the old mage nodding in satisfaction, the golden
+55975	+		黄金の騎士は僅かに唇を歪めただけで応えた。	knight responded with only a slight twist of his lips.
 
 55976	Pitten Chao	基本	「さぁ、引き上げて防衛の準備を整えるぞ。	「Alright, let's withdraw and prepare our defenses.
 55977	+		　易々と負けては、あいつらに向ける顔がない」	　We can't lose easily. I wouldn't be able to face them.」

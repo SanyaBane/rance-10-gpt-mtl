@@ -12,8 +12,8 @@
 
 26050	Sill Plain		「はい、ランス様。ちょっと待ってくださいね」	「Yes, Rance-sama. Please wait a moment.」
 
-26051	-		ランスは適当な岩に腰を下ろし、	Rance sat down on a nearby rock,
-26052	+		シィルは荷物を下ろしてお湯を沸かす準備を始めた。	while Sill put down her luggage and started preparing to boil water.
+26051	-		ランスは適当な岩に腰を下ろし、	Rance sat down on a nearby rock, while Sill put
+26052	+		シィルは荷物を下ろしてお湯を沸かす準備を始めた。	down her luggage and started preparing to boil water.
 
 26053	Rance	真剣	「それなりに深そうだな。まだ結構あるのか？」	「It's pretty deep down here. Still a long way to go?」
 
@@ -22,8 +22,8 @@
 
 26056	Rance	真剣	「あん？」	「Huh?」
 
-26057	Copandon Dott	基本	「あー、前に教えたんはアニャガス王国やからな。	「Ah, the one I told you about before was the Anyagas Kingdom.
-26058	+		　こっちはアレルギー超大国やさかい」	　This is the Allergy Super Empire.」
+26057	Copandon Dott	基本	「あー、前に教えたんはアニャガス王国やからな。	「Ah, the one I told you about before was the
+26058	+		　こっちはアレルギー超大国やさかい」	　Anyagas Kingdom. This is the Allergy Super Empire.」
 
 26059	Rance	だる顔	「……なんのことだ？」	「......What are you talking about?」
 
@@ -77,8 +77,8 @@
 
 26089	Rance	だる顔	「何が言いたい。分かるように話せ」	「What are you trying to say? Speak clearly.」
 
-26090	Copandon Dott	基本	「あー、うん。知らんかってんな。	「Ah, yeah. You didn't know.
-26091	+		　アレルギー超大国は、今お祭り中やねん」	　The Allergy Super Empire is in the middle of their festival right now.」
+26090	Copandon Dott	基本	「あー、うん。知らんかってんな。	「Ah, yeah. You didn't know. The Allergy Super
+26091	+		　アレルギー超大国は、今お祭り中やねん」	　Empire is in the middle of their festival right now.」
 
 26092	Pigu Geliciam		「お祭り？　太鼓でせいやー、って？」	「Festival? The one with drums going 'seiya~'?」
 

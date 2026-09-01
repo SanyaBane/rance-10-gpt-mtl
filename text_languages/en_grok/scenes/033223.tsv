@@ -45,8 +45,8 @@
 214713	Reset Kalar		「宿のマスターキーを	「The ones holding the master key
 214714	+		　持ってるのは支配人と警備員の二人だけ」	　are only the manager and the security guard.」
 
-214715	Reset Kalar		「ただ、支配人さんはその時間、	「However, the manager had an alibi at that time,
-214716	+		　仕事で会食の最中でずっと近くに人がいたって」	　he was in the middle of a business dinner with people nearby.」
+214715	Reset Kalar		「ただ、支配人さんはその時間、	「However, the manager had an alibi at that time, he was
+214716	+		　仕事で会食の最中でずっと近くに人がいたって」	　in the middle of a business dinner with people nearby.」
 
 214717	Reset Kalar		「警備員さんは事件当夜、避難誘導やらで忙しく	「The security guard was busy with evacuation guidance
 214718	+		　動き回っていたからアリバイのない時間も	　that night, so there are times without alibi,
@@ -87,8 +87,8 @@
 
 214741	Reset Kalar	名探偵	「あっ、こほんこほん！」	「Ah, cough cough!」
 
-214742	Reset Kalar		「な、ナギちゃん達が犯人ではないかもって、	「W-Well, something that might show Nagi-chan and the others
-214743	+		　少し擁護できるかも知れないこととしては」	　might not be the culprits」
+214742	Reset Kalar		「な、ナギちゃん達が犯人ではないかもって、	「W-Well, something that might show Nagi-chan
+214743	+		　少し擁護できるかも知れないこととしては」	　and the others might not be the culprits」
 
 214744	Reset Kalar		「盗品がどこにも見つからないんだよねぇ」	「is that the stolen goods can't be found anywhere.」
 
@@ -106,8 +106,8 @@
 
 214753	Masou Shizuka		「消えた盗品、ねぇ……」	「The missing stolen goods, huh...」
 
-214754	-		事件当夜、アリバイのない人間は極端に少なかった。	On the night of the incident, there were extremely few people without alibis.
-214755	+		手がかり『それぞれのアリバイ』を手に入れた。	Obtained clue 'Each Person's Alibi'.
+214754	-		事件当夜、アリバイのない人間は極端に少なかった。	On the night of the incident, there were extremely few
+214755	+		手がかり『それぞれのアリバイ』を手に入れた。	people without alibis. Obtained clue 'Each Person's Alibi'.
 
 214756	-		盗まれた品はロッキーの部屋の一点以外は、	Except for one item in Rocky's room, the stolen goods
 214757	+		宿屋内には見つからず、市場にも流れていない。	were not found inside the inn nor circulating in the market.

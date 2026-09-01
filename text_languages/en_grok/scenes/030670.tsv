@@ -17,8 +17,8 @@
 23843	Green Monster Soldier	基本	「う、うおおおおおおおおおぉぉぉぉ！	「U-Uooooooooh!
 23844	+		　さ、さ、さむ、寒うううううういいいいい！」	　C-C-Cold, so cooooooooold!」
 
-23845	Blue Monster Soldier		「う、う、うるせえこの野郎！	「S-S-Shut up, you bastard!
-23846	+		　寒い寒い騒ぐな！　余計寒くなんだろが！」	　Stop making such a fuss about it being cold! You're making it even colder!」
+23845	Blue Monster Soldier		「う、う、うるせえこの野郎！	「S-S-Shut up, you bastard! Stop making such a fuss
+23846	+		　寒い寒い騒ぐな！　余計寒くなんだろが！」	　about it being cold! You're making it even colder!」
 
 23847	Green Monster Soldier		「正真正銘寒いんだからそんなもん、	「It's genuinely freezing, you can't just
 23848	+		　気のせいで誤魔化せるわけねーだろ！	　brush it off as your imagination!
@@ -57,8 +57,8 @@
 
 23869	Rolex Gadras	真剣	「ここにいやがったか、クソッタレどもがあッ！」	「So this is where you were, you bastards!」
 
-23870	-		先頭に立つ二刀構えの黒騎士が、	The Black Knight at the head of the charge, wielding dual blades,
-23871	+		咆哮を上げて突撃する。	let out a roar and lunged forward.
+23870	-		先頭に立つ二刀構えの黒騎士が、	The Black Knight at the head of the charge, wielding
+23871	+		咆哮を上げて突撃する。	dual blades, let out a roar and lunged forward.
 
 23872	Helman Soldier	基本	「うぉっしゃーーーー！　出番っすねぇ！」	「Hell yeah! It's our turn!」
 
@@ -108,8 +108,8 @@
 23901	+		　俺ぁてめぇらみたいな、どこに出しても救いのねぇ	　I joined the army to slice through irredeemable
 23902	+		　屑共をぶった斬るために、軍に入ったんだ……！」	　trash like you all...!」
 
-23903	-		雪が積もり、息も凍るヘルマンの吹雪さえ苦にせず、	Unaffected even by the freezing Helman blizzard that could turn breath to ice,
-23904	+		ロレックスは地を蹴った。	Rolex kicked off from the ground.
+23903	-		雪が積もり、息も凍るヘルマンの吹雪さえ苦にせず、	Unaffected even by the freezing Helman blizzard that
+23904	+		ロレックスは地を蹴った。	could turn breath to ice, Rolex kicked off from the ground.
 
 23905	Green Monster Soldier	基本	「ひ…………！」	「Hie...!」
 
@@ -144,8 +144,8 @@
 
 23923	Magic Monster Soldier		「ぐっ！」	「Gugh!」
 
-23924	-		やや離れた所から魔法を放とうとしていた魔物が、	A monster that had been trying to cast magic from a slight distance
-23925	+		飛来したクナイに撃ち抜かれる。	was struck down by a flying kunai.
+23924	-		やや離れた所から魔法を放とうとしていた魔物が、	A monster that had been trying to cast magic from
+23925	+		飛来したクナイに撃ち抜かれる。	a slight distance was struck down by a flying kunai.
 
 23926	Oruore the 3rd	笑顔	「……ってぇ真似もできなくなっちまうでしょ？	「...Or I wouldn't be able to pull off moves like that, right?
 23927	+		　にしししし」	　Nishishishishi.」
@@ -154,8 +154,8 @@
 
 23929	-		呼吸をするように、ロレックスは斬り進む。	Rolex continued his onslaught as naturally as breathing.
 
-23930	-		遠間にいれば衝撃波が襲い、	From afar, they were struck by shockwaves,
-23931	+		近間では一合と保たずに切り捨てられる。	and up close, they were cut down before they could even clash once.
+23930	-		遠間にいれば衝撃波が襲い、	From afar, they were struck by shockwaves, and up close,
+23931	+		近間では一合と保たずに切り捨てられる。	they were cut down before they could even clash once.
 
 23932	-		魔軍からすれば、この日のロレックス・ガドラスは	To the Monster Army, Rolex Gadrus on this day
 23933	+		人間の形をした災厄に他ならなかった。	was nothing short of a human-shaped disaster.
@@ -168,8 +168,8 @@
 
 23938	Green Monster Soldier		「お、おおおお、鬼だよ！　人間じゃねえ！」	「H-H-He's a demon! He's not human!」
 
-23939	-		視界さえ途切れる豪雪に、咆哮を上げる鬼と、	In the blizzard where visibility was cut off, the demon roared,
-23940	+		それが率いる群れ。	along with the pack he led.
+23939	-		視界さえ途切れる豪雪に、咆哮を上げる鬼と、	In the blizzard where visibility was cut off,
+23940	+		それが率いる群れ。	the demon roared, along with the pack he led.
 
 23941	-		その凶猛な勢いに、	The monster soldiers were losing their spirit
 23942	+		魔物兵たちは意気を挫かれていた。	before that ferocious momentum.
@@ -221,8 +221,8 @@
 
 23970	-		ヘルマン突撃部隊の進撃が始まった。	The Helman Assault Unit's advance began.
 
-23971	-		北からぐるりと大きく迂回する形で、	Taking a long detour from the north,
-23972	+		突撃部隊は魔軍の敵中を突破していく。	the assault unit broke through the enemy lines of the Monster Army.
+23971	-		北からぐるりと大きく迂回する形で、	Taking a long detour from the north, the assault unit
+23972	+		突撃部隊は魔軍の敵中を突破していく。	broke through the enemy lines of the Monster Army.
 
 23973	-		ブルガリ砦、陥落。	Bulgari Fort has fallen.
 
@@ -237,8 +237,8 @@
 23979	-		一条の矢のように、ヘルマン軍は南下し、	Like a single arrow, the Helman Army headed south.
 23980	+		一路ラボリを目指し、進軍を重ねていった。	They continued their march, making a beeline for Labori.
 
-23981	Monster Captain		「ルメイ閣下！　人間の部隊が、物凄い勢いで……！	「General LeMay! A human unit is approaching with incredible speed...!
-23982	+		　目的地は、お、恐らくここです！」	　Their destination is, p-probably here!」
+23981	Monster Captain		「ルメイ閣下！　人間の部隊が、物凄い勢いで……！	「General LeMay! A human unit is approaching with
+23982	+		　目的地は、お、恐らくここです！」	　incredible speed...! Their destination is, p-probably here!」
 
 23983	LeMay		「ちっ、破れかぶれで突っ込んできおったか……	「Tsk, so they've charged in out of desperation...
 23984	+		　狂いザルどもめ」	　The mad monkeys.」

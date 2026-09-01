@@ -22,8 +22,8 @@
 33188	Sill Plain	基本	「でも、飛んでくれたから私たち、助かりましたよ。	「But thanks to it flying, we were saved.
 33189	+		　あのまま地上にいたら……」	　If we had stayed on the ground...」
 
-33190	Rance	真剣	「そんな事はわかっとる。	「I know that.
-33191	+		　だが、浮いたら動かしたくなるのが人情だろう」	　But once something can fly, you naturally want to move it.」
+33190	Rance	真剣	「そんな事はわかっとる。	「I know that. But once something can
+33191	+		　だが、浮いたら動かしたくなるのが人情だろう」	　fly, you naturally want to move it.」
 
 33192	Sill Plain	苦笑	「そうなのでしょうか……？」	「Is that how it works...?」
 
@@ -84,11 +84,11 @@
 33223	Rance		「うむ。暇そうなお前に、	「Yeah. You look bored,
 33224	+		　重要な任務をくれてやろうと思ってな」	　so I thought I'd give you an important mission.」
 
-33225	Cantel		「いや……哨戒と防衛をしてるんだけど……	「Well... I'm doing patrol and defense...
-33226	+		　ちょくちょく魔物も来るし、暇では……」	　Monsters come from time to time, so I'm not really bored...」
+33225	Cantel		「いや……哨戒と防衛をしてるんだけど……	「Well... I'm doing patrol and defense... Monsters
+33226	+		　ちょくちょく魔物も来るし、暇では……」	　come from time to time, so I'm not really bored...」
 
-33227	Rance	イライラ	「そんなことはどうでもいい！	「I don't care about that!
-33228	+		　総統閣下のご命令だ、謹んで受けるがいい」	　It's an order from the Supreme Leader. Accept it gratefully.」
+33227	Rance	イライラ	「そんなことはどうでもいい！	「I don't care about that! It's an order from
+33228	+		　総統閣下のご命令だ、謹んで受けるがいい」	　the Supreme Leader. Accept it gratefully.」
 
 33229	Cantel	基本	「まあ……いいけど。なんだい？」	「Well... fine. What is it?」
 
@@ -158,8 +158,8 @@
 
 33267	-		白竜が咆哮を上げ、豪腕に血管が浮き上がる。	The white dragon roared, veins bulging on her powerful arms.
 
-33268	-		ロープは限界まで張りつめて、	The rope stretched to its limit,
-33269	+		軋みを上げながら竜の剛力と城の重みに耐える。	creaking as it endured the dragon's strength and the castle's weight.
+33268	-		ロープは限界まで張りつめて、	The rope stretched to its limit, creaking as it endured
+33269	+		軋みを上げながら竜の剛力と城の重みに耐える。	the dragon's strength and the castle's weight.
 
 33270	Rance	笑顔	「がはははは、いいぞいいぞ！	「Gahahaha, good, good!
 33271	+		　この調子で魔物界まで一直線だ！」	　Straight to the Monster Realm at this rate!」

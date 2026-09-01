@@ -19,8 +19,8 @@
 220016	Nagata-kun	基本	「うわ……なんじゃこりゃ……	「Whoa... What the heck is this...
 220017	+		　すごぉ……」	　Amazing...」
 
-220018	-		大広間にはズラリといかつい格好の武士達が並び、	In the great hall, fierce-looking warriors stood lined up in rows,
-220019	+		なんとも物々しい雰囲気に包まれていた。	creating a very solemn and heavy atmosphere.
+220018	-		大広間にはズラリといかつい格好の武士達が並び、	In the great hall, fierce-looking warriors stood lined up
+220019	+		なんとも物々しい雰囲気に包まれていた。	in rows, creating a very solemn and heavy atmosphere.
 
 220020	Nagata-kun		「この人達が全員乱義の部下かよ……」	「All these people are Rangi's subordinates...」
 
@@ -38,8 +38,8 @@
 220028	Nagata-kun		「いいか、＜エール＞。	「Listen, ＜エール＞.
 220029	+		　お前はまだガキだから分かんねぇだろうがよぉ」	　You're still a kid so you probably don't get it yet,」
 
-220030	Nagata-kun		「あんな顔も良くて人望もあって、	「A guy with a good face, great popularity,
-220031	+		　性格も完璧なんてそんなことはありえない」	　and a perfect personality... that kind of thing is impossible.」
+220030	Nagata-kun		「あんな顔も良くて人望もあって、	「A guy with a good face, great popularity, and a
+220031	+		　性格も完璧なんてそんなことはありえない」	　perfect personality... that kind of thing is impossible.」
 
 220032	Nagata-kun		「裏返せば、顔のいい奴は	「In other words, good-looking guys
 220033	+		　九割悪党だと思っていていいぞ。	　are ninety percent villains, you can bet on that.
@@ -110,8 +110,8 @@
 220072	Nagata-kun		「やべやべっ！　皆、頭下げてる！	「Oh crap! Everyone's bowing their heads!
 220073	+		　＜エール＞、真似すんぞ」	　＜エール＞, copy them!」
 
-220074	-		見れば大広間にいた武将、武士達が	Looking around, all the generals and warriors in the great hall
-220075	+		皆一様に乱義に対して頭を下げていた。	were uniformly bowing their heads to Rangi.
+220074	-		見れば大広間にいた武将、武士達が	Looking around, all the generals and warriors in the
+220075	+		皆一様に乱義に対して頭を下げていた。	great hall were uniformly bowing their heads to Rangi.
 
 220076	-		異様な光景に呑まれつつあなた達が真似すると、	While overwhelmed by the bizarre scene, you
 220077	+		乱義がかすかに苦笑しているのが、	copied them, and from the corner of your
@@ -189,13 +189,13 @@
 
 220125	Yamamoto Rangi		「各地で鬼が現れ、人里を襲っているが……」	「Oni have been appearing in various places and attacking villages, but...」
 
-220126	Yamamoto Rangi		「これの犯人は現在、行方不明となっている	「The culprit is most likely
-220127	+		　北条家当主、北条早雲様である可能性が高い」	　Houjou Souun-sama, the current head of the Houjou family, who is now missing.」
+220126	Yamamoto Rangi		「これの犯人は現在、行方不明となっている	「The culprit is most likely Houjou Souun-sama, the
+220127	+		　北条家当主、北条早雲様である可能性が高い」	　current head of the Houjou family, who is now missing.」
 
 220128	JAPAN General		「な、なんと……！」	「W-What...!」
 
-220129	JAPAN Samurai		「そんな馬鹿な！	「That's impossible!
-220130	+		　早雲様がこのようなことするわけ！」	　There's no way Souun-sama would do something like this!」
+220129	JAPAN Samurai		「そんな馬鹿な！	「That's impossible! There's no way
+220130	+		　早雲様がこのようなことするわけ！」	　Souun-sama would do something like this!」
 
 220131	3G		「静粛に！	「Silence!
 220132	+		　まだ殿が喋っている最中である！」	　His Highness is still speaking!」
@@ -207,8 +207,8 @@
 220135	Yamamoto Rangi		「私にとっても早雲様は尊敬しているお方。	「Souun-sama is also someone I deeply respect.
 220136	+		　裏で糸を引く者がいると、こう考える」	　I believe someone is pulling strings behind the scenes.」
 
-220137	Yamamoto Rangi		「この情報を持ってきてくれたのは、	「The one who brought this information
-220138	+		　北条家の使者として来た彼女だ」	　is her, who came as a messenger from the Houjou family.」
+220137	Yamamoto Rangi		「この情報を持ってきてくれたのは、	「The one who brought this information is her, who
+220138	+		　北条家の使者として来た彼女だ」	　came as a messenger from the Houjou family.」
 
 220139	Houjou Suzu		「…………」	「............」
 
@@ -274,8 +274,8 @@
 220177	Yamamoto Rangi		「北条早雲様は我が国の重臣。	「Houjou Souun-sama is an important retainer of our nation.
 220178	+		　私も目標としている立派な方です」	　He is also someone I admire.」
 
-220179	Yamamoto Rangi		「これよりJAPANは、	「From now on, JAPAN will
-220180	+		　鬼の駆除、ひいては早雲様の『救出』の為に動く」	　move to exterminate the oni and to 'rescue' Souun-sama.」
+220179	Yamamoto Rangi		「これよりJAPANは、	「From now on, JAPAN will move to exterminate
+220180	+		　鬼の駆除、ひいては早雲様の『救出』の為に動く」	　the oni and to 'rescue' Souun-sama.」
 
 220181	Houjou Suzu		「あっ……」	「Ah...」
 
@@ -336,8 +336,8 @@
 
 220216	Yamamoto Rangi		「皆、退屈に付き合わさせてすまなかったね」	「Sorry for making you all sit through that boring meeting.」
 
-220217	Yamamoto Rangi		「さて、見て貰った通り、	「As you saw,
-220218	+		　今は国の一大事で少し忙しい」	　right now the country is in a major crisis, so I'm quite busy.」
+220217	Yamamoto Rangi		「さて、見て貰った通り、	「As you saw, right now the country is
+220218	+		　今は国の一大事で少し忙しい」	　in a major crisis, so I'm quite busy.」
 
 220219	Reset Kalar		「乱義ちゃん、早雲さんだけど……」	「Rangi-chan, about Souun-san...」
 
@@ -384,8 +384,8 @@
 
 220246	Nagata-kun		「うむむむむ……」	「Hmmmmm...」
 
-220247	Nagata-kun		「どうやら乱義を仲間にするには、	「To recruit Rangi as a companion,
-220248	+		　早雲って奴をどうにかする必要があるらしいな」	　it seems we need to do something about that Souun guy.」
+220247	Nagata-kun		「どうやら乱義を仲間にするには、	「To recruit Rangi as a companion, it seems we
+220248	+		　早雲って奴をどうにかする必要があるらしいな」	　need to do something about that Souun guy.」
 
 220249	El Mofus		「…………。」	「............」
 220250	Nagata-kun		「お、マジか、＜エール＞」	「Oh, for real, ＜エール＞.」
@@ -442,8 +442,8 @@
 
 220280	Yamamoto Rangi	ため息	「……３Ｇ、そういうのを身内びいきと言うんだよ」	「...3G, that's called being biased toward family.」
 
-220281	Yamamoto Rangi	基本	「まだまだ、僕は香様の足下にも及んでない。	「I still have a long way to go. I can't even reach Kou-sama's feet.
-220282	+		　精進しなければ……」	　I must work harder...」
+220281	Yamamoto Rangi	基本	「まだまだ、僕は香様の足下にも及んでない。	「I still have a long way to go. I can't even
+220282	+		　精進しなければ……」	　reach Kou-sama's feet. I must work harder...」
 
 220283	Yamamoto Rangi		「この国の皆の為にも、ね」	「For the sake of everyone in this country.」
 

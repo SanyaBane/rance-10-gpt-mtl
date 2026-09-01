@@ -73,8 +73,8 @@
 231470	+		出口への道が分からないのも手伝い、	you didn't know the path to the exit,
 231471	+		あなたはここに残って看病することにした。	so you decided to stay here and take care of her.
 
-231472	-		レリコフを寝かせている間、	While Lelikov Helman slept,
-231473	+		あなたも同じ毛布にくるまり隣で寝た。	you also wrapped yourself in the same blanket and slept beside her.
+231472	-		レリコフを寝かせている間、	While Lelikov Helman slept, you also wrapped
+231473	+		あなたも同じ毛布にくるまり隣で寝た。	yourself in the same blanket and slept beside her.
 
 231474	-		風邪が移るかも知れなかったが、	You might catch her cold,
 231475	+		あなたも寒いので贅沢は言えない。	but you were cold too, so you couldn't be picky.
@@ -108,8 +108,8 @@
 
 231492	Lelikov Helman	基本	「あっ、風邪移っちゃうかな？」	「Ah, will you catch my cold?」
 
-231493	-		あなたが狭いから仕方ないと告げると、	When you told her it couldn't be helped because it was cramped,
-231494	+		レリコフはまた嬉しそうに笑った。	Lelikov Helman smiled happily again.
+231493	-		あなたが狭いから仕方ないと告げると、	When you told her it couldn't be helped because it
+231494	+		レリコフはまた嬉しそうに笑った。	was cramped, Lelikov Helman smiled happily again.
 
 231495	Lelikov Helman		「くんくん、くんくん……」	「Sniff sniff, sniff sniff...」
 
@@ -205,5 +205,5 @@
 
 231550	-		非常に疲れた。	You were extremely tired.
 
-231551	-		皆の声が聞こえて気が抜けたのか、	Hearing everyone's voices, the tension left you,
-231552	+		あなたも気づけば気を失うように眠っていた。	and before you knew it you had fallen unconscious into sleep.
+231551	-		皆の声が聞こえて気が抜けたのか、	Hearing everyone's voices, the tension left you, and
+231552	+		あなたも気づけば気を失うように眠っていた。	before you knew it you had fallen unconscious into sleep.

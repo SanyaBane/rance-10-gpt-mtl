@@ -14,8 +14,8 @@
 58468	-		カスタムの東、ゴアの南東に位置するこの平野は、緩やかな丘陵と	This plain, located east of Custom and southeast of Goa, consists of gentle hills,
 58469	+		いくばくかの小さな森、そして広々とした草原で構成されていた。	some small forests, and vast grasslands.
 
-58470	-		そして今回、その地では自由都市で集められる、	And this time, almost all the human army gathered from the Free Cities
-58471	+		ほぼ全ての人類軍が集結していた。	was assembled here.
+58470	-		そして今回、その地では自由都市で集められる、	And this time, almost all the human army gathered
+58471	+		ほぼ全ての人類軍が集結していた。	from the Free Cities was assembled here.
 
 58472	Rance	基本	「お。そろそろ布陣できたか」	「Oh. The formation is almost ready.」
 
@@ -57,8 +57,8 @@
 58495	Rance	真剣	「…………おい。	「......Hey.
 58496	+		　なんか冴えないアホ面の男がいるだけだぞ」	　There's just some dull-looking idiot there.」
 
-58497	Copandon Dott	基本	「せやから、アレや。	「That's him.
-58498	+		　自由都市……いや世界一の軍師、篠田源五郎」	　The greatest strategist in the Free Cities... no, the world, Shinoda Gengo.」
+58497	Copandon Dott	基本	「せやから、アレや。	「That's him. The greatest strategist in the
+58498	+		　自由都市……いや世界一の軍師、篠田源五郎」	　Free Cities... no, the world, Shinoda Gengo.」
 
 58499	Rance	驚き	「………………アレがか？」	「......That guy?」
 
@@ -169,16 +169,16 @@
 
 58567	Copandon Dott	基本	「ん？　どしたん、ユーティン」	「Hmm? What's up, Yutin?」
 
-58568	Yutin Fulz	驚き	「その……少し前から、おかしな噂が流れています。	「Well... there's a strange rumor spreading lately.
-58569	+		　それで、現場の兵士さんたちが妙な雰囲気に……」	　The soldiers on the ground are acting strange because of it...」
+58568	Yutin Fulz	驚き	「その……少し前から、おかしな噂が流れています。	「Well... there's a strange rumor spreading lately. The
+58569	+		　それで、現場の兵士さんたちが妙な雰囲気に……」	　soldiers on the ground are acting strange because of it...」
 
 58570	Rance	基本	「噂？　なんだそれ」	「Rumor? What is it?」
 
 58571	Yutin Fulz	驚き	「その……軍の上層部に、魔軍の内通者がいるとか。	「Um... that there's a spy from the Monster Army in the upper ranks.
 58572	+		　それで、既に裏切っている軍があるとか……」	　And that some armies have already betrayed us...」
 
-58573	Yutin Fulz		「過激な人たちは、探しだして先にやっつけようとか	「Some hotheads are saying we should find them and take them out first,
-58574	+		　言い出してまして……どうしましょう」	　what should we do?」
+58573	Yutin Fulz		「過激な人たちは、探しだして先にやっつけようとか	「Some hotheads are saying we should find them
+58574	+		　言い出してまして……どうしましょう」	　and take them out first, what should we do?」
 
 58575	Copandon Dott	ジト目	「……なんやそれ。内側でオタオタしとったら	「...What the hell. If we panic inside,
 58576	+		　魔軍が喜ぶだけやんけ」	　the Monster Army will just laugh.」

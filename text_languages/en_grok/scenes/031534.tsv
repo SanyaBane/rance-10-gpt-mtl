@@ -37,8 +37,8 @@
 86498	Yamamoto Isoroku	基本	「お待ちしておりました。	「I have been waiting.
 86499	+		　ランス殿」	　Rance-dono.」
 
-86500	-		部屋の襖を開けると、	When the sliding door opened,
-86501	+		中では五十六が三つ指ついて頭を下げていた。	Isoroku was inside kneeling formally with her hands on the floor.
+86500	-		部屋の襖を開けると、	When the sliding door opened, Isoroku was inside
+86501	+		中では五十六が三つ指ついて頭を下げていた。	kneeling formally with her hands on the floor.
 
 86502	Rance		「な、なにしてるのだ、五十六」	「W-what are you doing, Isoroku?」
 
@@ -132,8 +132,8 @@
 
 86555	Yamamoto Isoroku		「いえ、そのようなことは」	「No, not at all.」
 
-86556	Yamamoto Isoroku		「今もあの子はランス城で元気にやっている筈……	「That child should be doing well at Rance Castle even now......
-86557	+		　それだけ分かれば充分……」	　knowing that is enough......」
+86556	Yamamoto Isoroku		「今もあの子はランス城で元気にやっている筈……	「That child should be doing well at Rance
+86557	+		　それだけ分かれば充分……」	　Castle even now...... knowing that is enough......」
 
 86558	Rance		「ふーん、ちょっち冷たいな」	「Hmm, a bit cold.」
 

@@ -9,8 +9,8 @@
 235006	-		街は朝から遂に迎えた	The city was bustling from morning
 235007	+		闘神大会の幕開けに賑わっていた。	with the long-awaited opening of the Toushin Tournament.
 
-235008	-		あなたはリセットと共にコロシアムに赴くと、	You headed to the colosseum with Reset,
-235009	+		控え室で第一戦の開始を待っていた。	and waited in the waiting room for the start of the first match.
+235008	-		あなたはリセットと共にコロシアムに赴くと、	You headed to the colosseum with Reset, and waited
+235009	+		控え室で第一戦の開始を待っていた。	in the waiting room for the start of the first match.
 
 235010	Reset Kalar	憂い	「うう……私の方がハラハラしてきた……」	「Uuu... I'm getting more nervous than you...」
 
@@ -21,14 +21,14 @@
 235014	+		緊張をほぐそうとするように、	the match to begin, Reset and Shuri were having
 235015	+		リセットとシュリが呑気な会話をしていた。	a casual chat as if trying to ease the tension.
 
-235016	Shuri Seihajuu Nagasaki		「さって、それではもうご存じだとは思いますが、	「Well then, I think you already know this, but
-235017	+		　改めて闘神大会のルール説明をしますね」	　I'll explain the rules of the Toushin Tournament once again.」
+235016	Shuri Seihajuu Nagasaki		「さって、それではもうご存じだとは思いますが、	「Well then, I think you already know this, but I'll explain
+235017	+		　改めて闘神大会のルール説明をしますね」	　the rules of the Toushin Tournament once again.」
 
 235018	Shuri Seihajuu Nagasaki	真剣	「闘神大会はトーナメント形式で	「The Toushin Tournament is a tournament format
 235019	+		　32名の戦士達が戦う大会です」	　where 32 warriors will fight.」
 
-235020	Shuri Seihajuu Nagasaki		「優勝まではざっと五連勝すればいい計算ですね。	「To win the championship, you basically need five straight wins.
-235021	+		　まあ、その五連勝が難しいんですけど」	　Well, those five wins are the hard part.」
+235020	Shuri Seihajuu Nagasaki		「優勝まではざっと五連勝すればいい計算ですね。	「To win the championship, you basically need five
+235021	+		　まあ、その五連勝が難しいんですけど」	　straight wins. Well, those five wins are the hard part.」
 
 235022	Shuri Seihajuu Nagasaki		「対戦は一対一の戦闘。	「Matches are one-on-one battles.
 235023	+		　誰かの手助け禁止、回復アイテムの使用禁止。	　No assistance from others, no use of recovery items.
@@ -133,8 +133,8 @@
 
 235090	Shuri Seihajuu Nagasaki	基本	『さーって！　皆様お待たせいたしました！』	『Alright! Thank you for waiting, everyone!』
 
-235091	-		どこかから実況をするのだろう。	She must be commentating from somewhere.
-235092	+		シュリのマイクの声がコロシアムに響く。	Shuri's voice echoed through the colosseum via the microphone.
+235091	-		どこかから実況をするのだろう。	She must be commentating from somewhere. Shuri's
+235092	+		シュリのマイクの声がコロシアムに響く。	voice echoed through the colosseum via the microphone.
 
 235093	Shuri Seihajuu Nagasaki		『これから第22回闘神大会、	『We are about to begin the 22nd Toushin Tournament,
 235094	+		　その記念すべきAブロック第一戦を	　the very first match of Block A!
@@ -170,8 +170,8 @@
 
 235116	Lelikov Helman	きゃはは！	「へへーっ、なんかすごい大袈裟に言われてるね」	「Hehe~, they're making me sound really exaggerated.」
 
-235117	-		レリコフの表情はいたっていつも通り、	Lelikov Helman's expression was completely normal as always,
-235118	+		どうやら緊張のたぐいはないらしい。	seemingly without a hint of nervousness.
+235117	-		レリコフの表情はいたっていつも通り、	Lelikov Helman's expression was completely normal
+235118	+		どうやら緊張のたぐいはないらしい。	as always, seemingly without a hint of nervousness.
 
 235119	Lelikov Helman	基本	「＜エール＞、ちゃんと全力で戦ってよね？」	「＜エール＞, make sure you fight with everything you've got, okay?」
 

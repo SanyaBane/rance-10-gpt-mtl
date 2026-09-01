@@ -9,12 +9,12 @@
 
 5366	Cantel		「……え。なんだい、藪から棒に」	「...Huh? Where is this coming from all of a sudden?」
 
-5367	Rance		「あるな？　俺様の足を嘗め、風呂で背中を流し、	「You do! A debt so massive that you should be licking my boots,
-5368	+		　金銀財宝の在処を知っていたら、	　scrubbing my back in the bath, and spilling the location
-5369	+		　すべて喋ってしまわんといかん程の恩が！」	　of every last hidden treasure you know of!」
+5367	Rance		「あるな？　俺様の足を嘗め、風呂で背中を流し、	「You do! A debt so massive that you should be licking
+5368	+		　金銀財宝の在処を知っていたら、	　my boots, scrubbing my back in the bath, and spilling
+5369	+		　すべて喋ってしまわんといかん程の恩が！」	　the location of every last hidden treasure you know of!」
 
-5370	Cantel		「……そんなには、ないかなぁ……	「...I really don't think I owe you that much...
-5371	+		　住処を潰されたわけだし……」	　Seeing as you are the one who destroyed my home and all...」
+5370	Cantel		「……そんなには、ないかなぁ……	「...I really don't think I owe you that much... Seeing
+5371	+		　住処を潰されたわけだし……」	　as you are the one who destroyed my home and all...」
 
 5372	Rance	怒り	「風邪薬をくれてやっただろうが！」	「I gave you cold medicine, didn't I?!」
 
@@ -24,22 +24,22 @@
 5375	Rance	笑顔	「それでも俺様への恩があることは	「Doesn't matter! The debt you owe to the Great Lord Rance
 5376	+		　永久に変わらんのだ。がはははは」	　shall remain for all eternity! Gahahahaha!」
 
-5377	Cantel	基本	「……まあ、いいけど。何かしてほしい事でも？	「...Well, fine, whatever. Is there something you need me to do?
-5378	+		　どこかへ飛んでいきたいとか……」	　Need a lift somewhere...?」
+5377	Cantel	基本	「……まあ、いいけど。何かしてほしい事でも？	「...Well, fine, whatever. Is there something you
+5378	+		　どこかへ飛んでいきたいとか……」	　need me to do? Need a lift somewhere...?」
 
 5379	Rance		「そんなもの、お前の当然の仕事だ。	「That is just your standard daily duty!
 5380	+		　そんなことじゃあない」	　I am talking about something way bigger!」
 
 5381	Cantel		「……やれやれ。なんだい？」	「...Good grief. What is it this time?」
 
-5382	Rance		「ドラゴンだ。	「Dragons!
-5383	+		　ドラゴンを山ほど連れて、俺の部下にしてこい」	　Go round up a whole mountain of dragons and make them my subordinates!」
+5382	Rance		「ドラゴンだ。	「Dragons! Go round up a whole mountain of
+5383	+		　ドラゴンを山ほど連れて、俺の部下にしてこい」	　dragons and make them my subordinates!」
 
 5384	Cantel		「は？　ドラゴンを……？」	「Huh? Dragons...?」
 
-5385	Rance		「うむ。翔竜山には売るほど居るだろう。	「Yeah! There are plenty of them up on Mt. Soaring Dragon, right?
-5386	+		　そいつらをまとめて連れてきて、	　Round them all up, drag them down here,
-5387	+		　俺の足元にひざまづかせるのだ」	　and make them kneel at my feet!」
+5385	Rance		「うむ。翔竜山には売るほど居るだろう。	「Yeah! There are plenty of them up on Mt. Soaring
+5386	+		　そいつらをまとめて連れてきて、	　Dragon, right? Round them all up, drag them
+5387	+		　俺の足元にひざまづかせるのだ」	　down here, and make them kneel at my feet!」
 
 5388	Cantel		「……………………う〜〜〜〜ん……」	「........................Hrmmmmmmm...」
 
@@ -71,8 +71,8 @@
 5404	Cantel	基本	「うん……時間を無駄にするのも心苦しいし。	「Yeah... I would hate for you to waste your time.
 5405	+		　危険でもあるからねえ……」	　Besides, it is dangerous...」
 
-5406	Patton Helman		「けど、どうしてだ？	「Still, why is that?
-5407	+		　前の魔人戦争の時は、一緒に闘ったんだろう？」	　During the last Fiend War, you fought alongside each other, didn't you?」
+5406	Patton Helman		「けど、どうしてだ？	「Still, why is that? During the last Fiend War,
+5407	+		　前の魔人戦争の時は、一緒に闘ったんだろう？」	　you fought alongside each other, didn't you?」
 
 5408	Cantel		「私たちにとっても、あそこは居心地が良かった。	「That mountain was a comfortable place for us to live.
 5409	+		　戦争の為に雇われた、という訳でもなかったし」	　It is not as if we were hired mercenaries for the war.」
@@ -98,15 +98,15 @@
 
 5422	Rance	真剣	「ぬ？」	「Nu?」
 
-5423	Cantel	基本	「それこそ魔人でもなければ、	「Unless an enemy is an actual Fiend,
-5424	+		　簡単にドラゴンは倒せないだろう。	　taking down a dragon is no easy feat.
-5425	+		　私たちからすれば、空に逃げたっていい」	　Worst comes to worst, we can simply take to the skies and fly away.」
+5423	Cantel	基本	「それこそ魔人でもなければ、	「Unless an enemy is an actual Fiend, taking down
+5424	+		　簡単にドラゴンは倒せないだろう。	　a dragon is no easy feat. Worst comes to worst,
+5425	+		　私たちからすれば、空に逃げたっていい」	　we can simply take to the skies and fly away.」
 
 5426	Cantel		「山の下のことも関係ないし。	「What happens below the mountain is none of our concern.
 5427	+		　対岸の火事というやつだね」	　It is just a fire on the opposite shore, as they say.」
 
-5428	Hunty Kalar		「ま……万事消極的なのさ。	「Well... they are completely passive about everything.
-5429	+		　昔、色々ひどい目に遭ってるからねえ」	　They went through hell and back in the ancient past, after all.」
+5428	Hunty Kalar		「ま……万事消極的なのさ。	「Well... they are completely passive about everything. They
+5429	+		　昔、色々ひどい目に遭ってるからねえ」	　went through hell and back in the ancient past, after all.」
 
 5430	Rance	だる顔	「ぬ、ハンティまで」	「Nu, even Hunty is chiming in.」
 

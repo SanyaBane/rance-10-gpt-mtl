@@ -81,8 +81,8 @@
 
 248043	Warg		「今日もいい天気ね……」	「Nice weather again today...」
 
-248044	-		どんよりと曇る紫色の空を見上げ、	Looking up at the gloomy purple sky,
-248045	+		可憐な少女にしか見えない魔人ワーグは呟いた。	the Fiend Warg who looked like nothing but a delicate girl murmured.
+248044	-		どんよりと曇る紫色の空を見上げ、	Looking up at the gloomy purple sky, the Fiend Warg
+248045	+		可憐な少女にしか見えない魔人ワーグは呟いた。	who looked like nothing but a delicate girl murmured.
 
 248046	Warg		「おはよう、ラッシー」	「Good morning, Lassie.」
 
@@ -128,8 +128,8 @@
 248073	+		　ワーグは友達の為に戦ってやったってーのに、	　so Warg fought for her friends,
 248074	+		　戦争が終わった途端、来なくなりやがった！」	　but the moment the war ended they stopped coming!」
 
-248075	Warg		「……ま、最初から私を戦わせる為に	「...Well, I knew from the start
-248076	+		　友達顔してるだけって分かっていたけどね」	　they were only pretending to be friends to use me in battle.」
+248075	Warg		「……ま、最初から私を戦わせる為に	「...Well, I knew from the start they were only
+248076	+		　友達顔してるだけって分かっていたけどね」	　pretending to be friends to use me in battle.」
 
 248077	Warg		「そうだよー！	「That's rightー!
 248078	+		　ワーグはぜーんぶ分かっていた上で	　Warg knew everything
@@ -159,8 +159,8 @@
 
 248095	Warg	基本	「へへーん、今日も平和そのものだな」	「Hehe~n, it's all peace and quiet again today.」
 
-248096	Warg	ラッシーなし	「そうね、たまには事件の一つでも起きてくれないと	「Yes, it would be nice if something interesting happened once in a while
-248097	+		　退屈なのが困りものね」	　or I'll die of boredom.」
+248096	Warg	ラッシーなし	「そうね、たまには事件の一つでも起きてくれないと	「Yes, it would be nice if something interesting
+248097	+		　退屈なのが困りものね」	　happened once in a while or I'll die of boredom.」
 
 248098	Warg	基本	「へんっ、事件なんか起きない方が	「Hmph, it's better
 248099	+		　いいに決まってらあ」	　if nothing happens.」
@@ -179,8 +179,8 @@
 
 248107	Warg	ラッシーなし	「きゃああああああ！」	「Kyaaaaaaa!」
 
-248108	-		大量の木を薙ぎ倒しながら、	While mowing down a huge number of trees,
-248109	+		暴力と死の魔人、ケイブリスが台風の如く現れた。	the Fiend of violence and death, Kayblis, appeared like a typhoon.
+248108	-		大量の木を薙ぎ倒しながら、	While mowing down a huge number of trees, the Fiend
+248109	+		暴力と死の魔人、ケイブリスが台風の如く現れた。	of violence and death, Kayblis, appeared like a typhoon.
 
 248110	Kayblis	怒り	「ワーグ、てめえ！	「Warg, you bitch!
 248111	+		　俺様の招集を無視しやがるとは、	　Ignoring my summons,
@@ -212,8 +212,8 @@
 248127	Kayblis		「ただでさえテメェは元人間の魔人だ！	「You're already a former human Fiend!
 248128	+		　信用ならねぇこと、この上ねぇぜ！」	　There's nothing more untrustworthy!」
 
-248129	Warg	ラッシーなし	「……今更、人間の側になんて	「...Even if I wanted to,
-248130	+		　戻れるわけないって知ってる癖に」	　I can't go back to the human side anymore and you know it.」
+248129	Warg	ラッシーなし	「……今更、人間の側になんて	「...Even if I wanted to, I can't go back to
+248130	+		　戻れるわけないって知ってる癖に」	　the human side anymore and you know it.」
 
 248131	Kayblis	基本	「…………」	「............」
 
