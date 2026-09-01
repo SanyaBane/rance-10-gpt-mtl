@@ -139,6 +139,7 @@ The rest, and all of these read the sources only:
 |---|---|
 | `node scripts/find_speech_gaps.js` | the whole report: English on the wrong row, blank rows where the game speaks, missing brackets, speeches nobody translated |
 | `node scripts/find_speech_brackets.js` | whether a speech carries the brackets its Japanese does — asked of *every* speech, where the class above only reaches the ones nothing worse is wrong with ([docs/speech-brackets.md](docs/speech-brackets.md)) |
+| `node scripts/find_speech_splits.js` | where the English starts an utterance on a row the game does not — `」 「` in the middle of a row, and sometimes one character's line on another's row ([docs/speech-splits.md](docs/speech-splits.md)) |
 | `node scripts/find_term_drift.js` | where the patch calls one Japanese word two English things ([docs/terminology-drift.md](docs/terminology-drift.md)) |
 | `node scripts/find_dropped_terms.js` | where the English drops a word the tables had already settled |
 | `node scripts/find_mistranslations.js` | names spelled a way `glossaries/mistranslated_names.json` says they are not |
