@@ -87,7 +87,7 @@
 import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
 import {
-    clipsInBacklog, drawnLines, folds, HISTORY_FRAME, inHistoryFrame as inFrameByNumber,
+    clipsInBacklog, drawnLines, folds, inHistoryFrameOf as inHistoryFrame,
     layOutSpeech, rowBudget,
 } from "./SpeechRows.js";
 
@@ -151,12 +151,9 @@ const ONLY_DOTS = /^[\s　]*[.．・…][\s　.．・…]*$/;
  */
 const isDraftScene = (name) => name.startsWith("t");
 
-// The range is modules/SpeechRows.js's now, because the build and the
-// chronology's own layout need it too and three copies of a line number is
-// three chances to mistype one. The file is still checked here: this report
-// reads scene files, and a number is only in the frame if it is in that scene.
-const inHistoryFrame = (file, lineNumber) =>
-    file === HISTORY_FRAME.file && inFrameByNumber(lineNumber);
+// The frame is modules/SpeechRows.js's, asked there by file and number, because
+// the build, the chronology's own layout and bake_speech_rows all need it and
+// four copies of a line number is four chances to mistype one.
 
 const opens = (text, bracket) => text.trimStart().startsWith(bracket);
 const closes = (text, bracket) => text.trimEnd().endsWith(bracket);

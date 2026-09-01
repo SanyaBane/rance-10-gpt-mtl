@@ -232,9 +232,30 @@ This report did not, so 15 of its `overflow` findings were a 24-wide question
 asked about a 41-wide box. Their English runs to 128% of a `MessageWindow01` row
 and fits the frame it is actually in; the class asks for shortening by meaning,
 and shortening these would have thrown away text nothing was wrong with.
-`HISTORY_FRAME` in `modules/SpeechGaps.js` is the range, held off `overflow`
-alone: the other classes ask what a row says rather than how wide it is, and
-those questions are the same in any window.
+`HISTORY_FRAME` in `modules/SpeechRows.js` is the range -- the build and the
+chronology's own layout need it too -- and it is held off `overflow` and `fold`,
+the two classes that ask how wide a row is. The others ask what a row says, and
+that question is the same in any window.
+
+### Held off the report is not held off the writer
+
+`blank` deliberately keeps no guard, and must not: a row where the game speaks
+and the English does not is a real fault in a chronology as much as in a bubble,
+and it would play in Japanese. So the report goes on saying it.
+
+Which leaves a hole, because `scripts/bake_speech_rows.js` takes `overflow`,
+`blank` **and** `fold` as its work list. One blank row anywhere in those 311 --
+and shortening the 66 over-long entries by meaning is exactly the work that
+could leave one -- would have put a chronology speech back in front of
+`layOutSpeech`, which is what flattened it on 2026-08-29. Planting one proves
+it: the pass as it stood offered to lay out 1 speech across 14 rows.
+
+The guard is in the writer instead. The bake declines every speech in the frame
+whatever class reported it, names them, and points at
+`scripts/relayout_chronology.js`, which owns their layout and knows the
+structure. **A check on what is reported is not a check on what is written** --
+the same shape docs/scene-driver.md records about the three passes that rewrite
+an accepted translation on its way to the `.ain`.
 
 The lesson is the same one [text-width.md](text-width.md) records about the
 synopsis panel and [message-window.md](message-window.md) about these very

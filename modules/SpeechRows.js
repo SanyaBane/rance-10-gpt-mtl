@@ -147,6 +147,18 @@ export const HISTORY_FRAME = {
 export const inHistoryFrame = (lineNumber) =>
     lineNumber >= HISTORY_FRAME.from && lineNumber <= HISTORY_FRAME.to;
 
+/**
+ * The same question asked of a row of a scene file, where the file is known.
+ *
+ * Numbers are global across the `.ain`, so the number alone is enough for the
+ * build. A caller reading scene files has the file too and may as well say so --
+ * and both of them asking through one function is the point: the range has
+ * already been wrong at one end once, and the only reason it cost nothing was
+ * that the single caller was narrowing it by hand.
+ */
+export const inHistoryFrameOf = (file, lineNumber) =>
+    file === HISTORY_FRAME.file && inHistoryFrame(lineNumber);
+
 /** The frame's own tracking, read lazily for the reason clipsInBacklog is. */
 export const historyFrameTracking = () =>
     trackingFor(HISTORY_FRAME.spacing, HISTORY_FRAME.fontSize);

@@ -46,7 +46,23 @@
  * see the class in modules/SpeechGaps.js and `clipsInBacklog` in
  * modules/SpeechRows.js.
  *
- * Three things it will not touch.
+ * Four things it will not touch.
+
+ * **A speech in the ■歴史枠 chronology.** Those 311 rows are a table the
+ * Japanese draws with indentation, not a bubble, and this layout is for
+ * bubbles: asked to fit one of them it joins all 18 rows' words and divides
+ * them evenly, which is what it did on 2026-08-29 -- 261 rows moved and 243
+ * lost the indent that says what they are. `scripts/relayout_chronology.js`
+ * owns their layout and knows the structure; this one hands them over.
+ *
+ * The report already holds them out of `overflow` and `fold`, and that is not
+ * enough on its own: the work list is those two **and `blank`**, and `blank`
+ * has no such guard and must not have one -- a row where the game speaks and
+ * the English does not is a real fault there, and it would play in Japanese.
+ * So the report goes on saying it and the writer declines to act on it. A
+ * check on what is reported is not a check on what is written, which is the
+ * same lesson docs/scene-driver.md records about the three passes standing
+ * between an accepted translation and the `.ain`.
  *
  * **A row the game itself left blank.** 954 speeches hold one: a beat inside a
  * bubble, or text positioned across the screen with runs of full-width spaces.
@@ -100,7 +116,7 @@ import {parseSceneFile, renderSceneFile, speechesOf} from "../modules/SceneFile.
 import {translatedScenesDir} from "../modules/SceneTranslations.js";
 import {carriesText, isShifted} from "../modules/SpeechBrackets.js";
 import {findSpeechGaps} from "../modules/SpeechGaps.js";
-import {layOutSpeech} from "../modules/SpeechRows.js";
+import {inHistoryFrameOf, layOutSpeech} from "../modules/SpeechRows.js";
 import {textLangName} from "../modules/TextLanguages.js";
 
 /** One utterance as the layout reads it: the words, and nothing about the rows. */
@@ -150,6 +166,9 @@ await run(async () => {
     let rowsChanged = 0;
     let filesChanged = 0;
     const left = {fine: 0, shifted: 0, silent: 0, untranslated: 0, tooFewWords: 0};
+    // Named rather than counted, because each one is a finding somebody still
+    // has to act on -- just not here.
+    const chronology = [];
     const stillOverflowing = [];
     const refused = [];
     const notRoundTripped = [];
@@ -171,6 +190,10 @@ await run(async () => {
             ++speeches;
             if (!wantsLayout.has(`${fileName}#${speech.lineNumber}`)) {
                 ++left.fine;
+                continue;
+            }
+            if (inHistoryFrameOf(fileName, speech.lineNumber)) {
+                chronology.push(nameOf(fileName, speech));
                 continue;
             }
             const rows = speech.rows.map(number => byNumber.get(number));
@@ -255,6 +278,12 @@ await run(async () => {
     }
     for (const line of changes) {
         console.log(line);
+    }
+    if (chronology.length) {
+        console.warn(`  ${chronology.length} speeches are in the ■歴史枠 chronology, whose rows`
+            + " are a table rather than a bubble -- left alone here, and for"
+            + " scripts/relayout_chronology.js to lay out");
+        chronology.slice(0, samples).forEach(line => console.warn(`    ${line}`));
     }
     if (refused.length) {
         console.warn(`  ${refused.length} speeches refused by the post-condition and left as they were`);
