@@ -27,7 +27,15 @@
  * The unit of layout is not the speech. It is a **run of consecutive rows at the
  * same indent**: one row for a year, one for an event's name, two to four for
  * its body. Each unit's English goes into that unit's own rows and every row
- * keeps the indent of the Japanese it sits on, so a heading stays a heading.
+ * carries an indent of its own, so a heading stays a heading.
+ *
+ * **Half the Japanese's, rounded up.** A full-width space is a whole character
+ * of a box that holds 35, and the Japanese spends four of them on a body row --
+ * over a ninth of the row, before a word is written, in a language that needs
+ * more room for the same sentence rather than less. Halving keeps every level
+ * distinct, which is all the indent is for: 2 becomes 1, 4 becomes 2, and the
+ * 5 of a quoted passage nested inside a body becomes 3 so that it still sits
+ * inside it.
  *
  * ## Filled to the box, with the remainder on the last row
  *
@@ -65,7 +73,7 @@
  * all 311 rows were still exactly what the bake wrote when this was written --
  * so no later work is thrown away.
  *
- * What it cannot do is make the English fit. 49 of the 140 units hold more than
+ * What it cannot do is make the English fit. 66 of the 140 units hold more than
  * their rows can draw, one of them by a factor of nearly two, and no division of
  * those words helps: that is a translation longer than its Japanese and wants
  * shortening by meaning. A run names them rather than cutting them, the same way
@@ -103,6 +111,14 @@ const BEFORE_THE_BAKE = "d8a6d613d";
 
 /** Leading full-width spaces: what the Japanese says a row is. */
 const indentOf = (text) => (/^　*/.exec(text) ?? [""])[0];
+
+/**
+ * The English indent for a row whose Japanese carries this one.
+ *
+ * Rounded up rather than down so no two levels collapse into one: 4 and 5 are a
+ * body and a quotation inside it, and floor would draw them in the same column.
+ */
+const englishIndentFor = (japanese) => "　".repeat(Math.ceil(japanese.length / 2));
 
 const wordsOf = (text) => text.trim().split(/\s+/).filter(Boolean);
 
@@ -210,8 +226,9 @@ await run(async () => {
             continue;
         }
 
-        const filled = fillRows(words, unit.rows.length, unit.indent, limit, tracking);
-        const rows = filled.map((row, at) => indentOf(unit.rows[at].japanese) + row);
+        const indent = englishIndentFor(unit.indent);
+        const filled = fillRows(words, unit.rows.length, indent, limit, tracking);
+        const rows = filled.map(row => indent + row);
 
         // The gate the layout does not get to vote on.
         if (wordsOf(rows.join(" ")).join(" ") !== words.join(" ")) {
@@ -243,7 +260,7 @@ await run(async () => {
         });
         if (shown.length < samples) {
             shown.push(`  m[${unit.rows[0].lineNumber}], ${rows.length} rows at indent`
-                + ` ${unit.indent.length}`
+                + ` ${unit.indent.length} -> ${indent.length}`
                 + rows.map((row, at) => `\n    ${wide(row).toFixed(1).padStart(5)}`
                     + ` ${JSON.stringify(row)}`).join(""));
         }
