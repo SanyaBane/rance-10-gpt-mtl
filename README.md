@@ -111,6 +111,52 @@ game. [docs/scene-driver.md](docs/scene-driver.md) is the loop.
 | `npm run accept-scenes` | judges the answers and writes the ones that pass into `text_languages/<lang>/scenes/` |
 | `npm run assemble-scenes` | turns those scene files into the patch `regenerate-ain` reads |
 
+### Checking a translation
+
+A third kind of command, and the one to reach for after editing the English rather than before.
+None of these builds anything, none writes into the game, and most of them read nothing but the
+scene files — so they cost seconds and can be run after every pass. Each links its own write-up.
+
+**The width question first**, since it is the one refining the translation keeps raising. Text does
+not wrap by itself and the box that binds is the backlog, 35.39 full-width characters — anything
+wider is folded by the build or cut by the game:
+
+| Command | What it answers |
+|---|---|
+| `node scripts/find_speech_gaps.js --held` | the rows holding more English than their rows can draw, widest first, with how far each is over. **This is the list to shorten by meaning** |
+| `node scripts/find_speech_gaps.js --class=overflow --limit=0` | speeches drawn in more lines than their window has, so the end runs off the box |
+| `node scripts/find_speech_gaps.js --class=fold --limit=0` | rows folded where laying the same words back into the same rows would not fold them — a layout fixes these, `node scripts/bake_speech_rows.js --write` does it |
+| `node scripts/relayout_chronology.js` | the same question for the ■歴史枠 chronology, whose rows are a table and whose layout is its own |
+| `node scripts/check_skill_widths.js` | the skill descriptions that do not fit the panel drawing them |
+
+`--scene=033026` narrows any `find_speech_gaps` run to one file, which is usually the one just
+edited. [docs/speech-gaps.md](docs/speech-gaps.md) is the classes and what each is worth;
+[docs/message-window.md](docs/message-window.md) is where the boxes were measured.
+
+The rest, and all of these read the sources only:
+
+| Command | What it answers |
+|---|---|
+| `node scripts/find_speech_gaps.js` | the whole report: English on the wrong row, blank rows where the game speaks, missing brackets, speeches nobody translated |
+| `node scripts/find_speech_brackets.js` | whether a speech carries the brackets its Japanese does — asked of *every* speech, where the class above only reaches the ones nothing worse is wrong with ([docs/speech-brackets.md](docs/speech-brackets.md)) |
+| `node scripts/find_term_drift.js` | where the patch calls one Japanese word two English things ([docs/terminology-drift.md](docs/terminology-drift.md)) |
+| `node scripts/find_dropped_terms.js` | where the English drops a word the tables had already settled |
+| `node scripts/find_mistranslations.js` | names spelled a way `glossaries/mistranslated_names.json` says they are not |
+| `node scripts/find_gender_gaps.js` | speakers the dialogue names that `glossaries/character_genders.md` does not |
+| `node scripts/find_honorific_drift.js` | which `Lord`/`Lady` in the English is a 様 the Japanese actually wrote ([docs/honorifics.md](docs/honorifics.md)) |
+| `node scripts/lookup_term.js 魔軍` | how the patch already renders a word, out of its own dialogue — before choosing a new rendering |
+
+Three want something built first:
+
+| Command | Needs | What it answers |
+|---|---|---|
+| `node scripts/find_unnamed_terms.js` | `npm run extract-scenes` | the Japanese words recurring across scenes with no row anywhere to hand over with ([docs/unnamed-terms.md](docs/unnamed-terms.md)) |
+| `node scripts/find_untranslated.js -o build/scratch` | a build | what a build still leaves in Japanese, read back out of the `.ain` it wrote |
+| `node scripts/effective_map.js save before` … `diff before after` | `node scripts/regenerate_aai_txt.js` | **whether exactly the intended numbers changed.** Snapshot, edit, snapshot, diff: the changed count has to equal the number of rows edited, and a duplicate `m[N]` is invisible in a `git diff` and decisive in a build |
+
+That last one is the check worth making a habit of after any edit to the corpus — it is what found
+three scenes carrying another scene's message numbers, which every other report was content with.
+
 The images (UI) are the one thing here with no command at all — see [The images](#the-images).
 
 ### Where a build goes
