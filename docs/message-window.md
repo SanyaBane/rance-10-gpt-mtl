@@ -167,11 +167,13 @@ twenty full-width characters by seven rows.
 
 `テキストエリア` is an origin and two zeroes: `{337, 170, 0, 0}` for the event
 window, and `{470, 226, 0, 0}` for the ordinary one as the game shipped it. This
-patch moves the latter to `{390, 226, 0, 0}`, where the name plate's own left
-edge is -- `Game/Adv/NamePlate.pactex.x` puts its root child at x=390, and the
-plate is drawn directly above the text that now lines up with it. No part in the
-whole `.pactex` tree carries a text area with a width in it, so there is no
-width to read directly.
+patch moves the latter to `{390, 214, 0, 0}`. The x is the name plate's own left
+edge -- `Game/Adv/NamePlate.pactex.x` puts its root child at x=390, and the
+plate is drawn directly above the text that now lines up with it. The y is half
+a row higher than the game had it, and "Where the window sits" below is that
+half.
+No part in the whole `.pactex` tree carries a text area with a width in it, so
+there is no width to read directly.
 
 ## Twenty-four characters, from three directions
 
@@ -373,6 +375,115 @@ Not a change to make casually: `docs/text-width.md` says why `getTextWidth` is
 still there, `modules/SpeechRows.js` and `modules/SceneAcceptance.js` both ask
 it the same question on purpose, and every row of `en_grok` would render again.
 But the measurement no longer leaves the question open.
+
+## Where the window sits, and what moves it
+
+Everything above this is how wide a row may be. This is the other axis: where
+the window is on the screen, what a row is worth vertically, and which numbers
+move it. `a4d0645f` moved the text's origin left and that was one number.
+Moving it up is three, and finding that out cost two builds and one frame that
+did not draw at all.
+
+### A row is 47 px
+
+The vertical counterpart of the 40.1 px above, and it is just `フォントサイズ` 57
+plus `行間隔` -10. What makes it a measurement rather than arithmetic that
+happens to look plausible is that both windows agree: `MessageWindow01`'s third
+row starts at 226 + 2 × 47 = 320 against a key-wait mark at 342, and
+`MessageWindow02`'s second at 170 + 47 = 217 against one at 236. The mark sits
+about twenty pixels under its own row in each. It is placed by eye, so it is no
+ruler on its own -- but two windows off by the same twenty is one.
+
+That also gives the frame's height, which no file states. The ordinary window
+leaves three and a half rows under its shipped origin of 226, so
+`シス／ＡＤＶ／ト書き` is about 226 + 3.5 × 47 = 390 px tall. Read off the screen
+rather than out of the tree, and worth what that is.
+
+### The frame and the text are one part
+
+`ＣＧ名` and `テキストエリア` are fields of the same `メッセージウィンドウ` part, so
+moving the part moves the gradient with it and leaves the bottom of the screen
+bare -- which is what it did. Nothing in the layout separates them:
+
+| field | over the 2270 parts in the tree |
+|---|---|
+| `表示領域` | 0 on every one; never used |
+| `アンカー` | 0 on every one; never used |
+| `拡大縮小` | 15 away from 1.0, so it works -- but it transforms the whole part, text included |
+
+The tempting way out is a sibling `ＣＧパーツ` tied to the window by
+`メッセージウィンドウ表示連動` and `メッセージウィンドウ視覚効果連動`. **Both flags are 0
+on all 2272 parts in the game.** A part leaning on them is a guess about code
+nothing exercises, and it would also stop answering the transparency and
+brightness the config offers for the message window -- which is what the
+placeholder text in these very files exists to check.
+
+So the frame stays where the game put it and the text moves inside it:
+
+| | shipped | this patch |
+|---|---|---|
+| `MessageWindow01*` `テキストエリア` | `{390, 226, 0, 0}` | `{390, 214, 0, 0}` |
+| `MessageWindow01*` `キー待ちマーク` `座標` | `{1440, 342, 0}` | `{1440, 330, 0}` |
+| `Game/Adv/NamePlate.pactex.x` `Base` `座標` | `{390, 784, 1}` | `{390, 772, 1}` |
+
+All three by the same 12, and that is the whole trick: the mark keeps its twenty
+pixels under the last row and the plate keeps its distance above the first, so
+the clearance is bought without re-deciding any of the spacings the game drew.
+Moving one of the three alone is how they come apart.
+
+12 rather than a round fraction of a row, because the number that settled it was
+read off the screen rather than derived. A whole row (47) lifted the text further
+than it wanted to go and half a row (24) was still a little high; what fixed it
+was a rule about the bottom rather than the top -- **the fourth drawn line should
+cross the screen's edge by a couple of pixels**, so a speech the build folds shows
+that it has folded instead of sitting flush and looking deliberate.
+
+That rule is the useful part, because the number depends on the frame CG's height
+and this repository does not carry the CG. Whoever moves this next should measure
+from a screenshot the same way: where the fourth line's foot sits against 1080
+decides the step, and the three numbers then move by it together. 202/318/760 is
+half a row up, 179/295/737 a full row, 226 the game's own.
+
+The rounding is not free either. Half of 47 is 23.5 and every `テキストエリア` in
+the tree is whole pixels, so a half-row step rounds rather than writing the first
+fractional one -- the rule at the end of this section is about a coordinate's
+*kind* as much as its value.
+
+### The name plate is not part of the window
+
+It is a layout of its own -- `Game/Adv/NamePlate.pactex.x`, `Base` at absolute
+`(390, 784)`, origin mode 1 -- and never a child of the message window, so it
+does not move with it whatever the window does. A screenshot of the first
+attempt is the whole argument: the text went up and the plate stayed on the
+character's chest, over the line it was supposed to be labelling.
+`NamePlateEvent.pactex.x` at `(379, 864)` is the event window's own.
+
+### The rate flag selects an anchor; it is not a fraction
+
+`SYS_メッセージウィンドウ` carries `座標 = {0.0, 1.0, 1}` with
+`座標をレートとして認識する = 1`, which reads as "the bottom of the screen" and makes
+100 px up look like 1 − 100/1080 = 0.907407. It is not. **Seven parts out of
+2272 in the 220 layout files read their coordinate as a rate at all, and every
+one uses 0.0 or 1.0 and nothing between** -- six are these message windows and
+the seventh is the quest map. Handed 0.907407 the game moved the text and drew
+no frame.
+
+Pixels work. Clear the flag and give the part an absolute y: mode 7 pairs with
+absolute coordinates seven times elsewhere in the tree -- `HpBarEnemy`,
+`CategoryButton` at y=1071, `ChapterButton`, `AdmiralView02`, `QuestListView` --
+so it is a combination the game already draws. `{0, 980, 1}` with the flag off
+lifts the whole window exactly 100 px.
+
+And `原点座標モード = 7` anchors the part's **bottom**, which is readable without
+building anything: the anchor sits at y = 1.0 of a 1080-tall screen and the
+window is drawn above it, so it cannot be the top.
+
+That last pair is the lesson worth carrying out of this file. The fraction was
+arithmetically correct and cost a build. The deduction about mode 7 cost none at
+all: it is readable from what the unpatched game already puts on the screen.
+**A value of a kind the game never uses is a guess, however sound the reasoning
+that produced it.** Before writing a number into a layout, count how many parts
+already carry one like it.
 
 ## What a translation may do
 

@@ -455,6 +455,18 @@ freely — nothing reads a row alone, the backlog replays the same rows and the
 game has no voice — while the number of rows cannot change, because they are
 `MSG` operands in the bytecode.
 
+**Editing a layout number is a different question from reading one.** A value of
+a kind the game never uses is a guess, however sound the arithmetic behind it.
+The dialogue window is anchored to the bottom of the screen by a coordinate
+flagged as a rate, so lifting it 100 px looked like 1 − 100/1080 — and that moved
+the text and drew no frame at all. Seven parts in the whole 220-file tree read a
+rate, and every one of them uses 0.0 or 1.0. So before writing a number into a
+layout, count how many parts already carry one of its kind, and prefer the
+pairing that is already on somebody's screen. `docs/message-window.md` has that,
+the 47 px a row is worth vertically, and why the frame and its text cannot be
+moved apart — they are two fields of one part, and nothing in the tree separates
+them.
+
 Then give the line somewhere to go. A caption too wide for one row of the
 synopsis panel is laid across two of the seven the panel draws, because there
 are 597 of them and 2152 of the 2208 events have a row to spare — so writing
