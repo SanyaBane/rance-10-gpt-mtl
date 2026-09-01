@@ -107,6 +107,59 @@ export const clipsInBacklog = (row) =>
 export const WINDOW_ROW = "あ".repeat(24);
 
 /**
+ * The third box, and the one a switch on viewType cannot find.
+ *
+ * `CALLFUNC ■歴史枠` puts `MessageWindowHistory` up once in the whole 60 MB of
+ * bytecode -- in 033026.tsv, ６０１／プロローグ, for the chronology of everything
+ * since Rance became Demon King. Its placeholder states 40 characters by 18
+ * rows, and the game's own Japanese runs to 41 there. docs/message-window.md
+ * has the reading.
+ *
+ * **The range ends where the scene does.** It was written as m[193987]..m[194532]
+ * from where `■枠消し` was read in the bytecode, and 033026.tsv's own rows stop at
+ * m[194297]: the 235 numbers past that belong to 033027.tsv, ６０１／少年の旅立ち,
+ * which is Crook waking a boy up in an ordinary window. That cost nothing while
+ * the only caller also checked the file name, and became live the moment the
+ * build started asking by number alone -- 235 rows of ordinary dialogue wrapped
+ * against a 40-wide box they are not in. A range that is only right because
+ * something else is narrowing it is not a range.
+ *
+ * Here rather than in modules/SpeechGaps.js, which is where the range used to
+ * live, because three callers now need it and each had a reason to disagree
+ * about a digit: the report holds these rows out of the width classes, the
+ * build has to wrap them against this box rather than the dialogue window's,
+ * and scripts/relayout_chronology.js lays them out inside it.
+ */
+export const HISTORY_FRAME = {
+    file: "033026.tsv",
+    from: 193987,
+    to: 194297,
+    rows: 18,
+    width: 40,
+    /** `フォントサイズ` and `字間隔`, from the part's own layout. */
+    fontSize: 50,
+    spacing: -2,
+};
+
+export const inHistoryFrame = (lineNumber) =>
+    lineNumber >= HISTORY_FRAME.from && lineNumber <= HISTORY_FRAME.to;
+
+/** The frame's own tracking, read lazily for the reason clipsInBacklog is. */
+export const historyFrameTracking = () =>
+    trackingFor(HISTORY_FRAME.spacing, HISTORY_FRAME.fontSize);
+
+/**
+ * The frame's row as a string, the way WINDOW_ROW is the window's -- which is
+ * how a width reaches `wrapAt`, since that measures a reference rather than
+ * taking a number.
+ */
+export const HISTORY_FRAME_ROW = "あ".repeat(HISTORY_FRAME.width);
+
+/** Whether a row is wider than the frame the chronology is drawn in. */
+export const runsPastHistoryFrame = (row) =>
+    gameTextWidth(row, historyFrameTracking()) > HISTORY_FRAME.width * em();
+
+/**
  * The indent a continuation row carries inside a quote. The game writes a
  * full-width space at the start of every row of a speech after the first when
  * that speech opened with a bracket, so the text sits under the 「 rather than
@@ -137,15 +190,21 @@ const OPENS_QUOTED = /^[「（]/;
  * speeches. If that function ever learns kerning, this stops being exact and
  * has to go back to asking it.
  *
+ * Exported because the chronology is laid out with it and is not a speech:
+ * scripts/relayout_chronology.js balances each of its structural units across
+ * that unit's own rows, in a box of its own and with the indent the Japanese
+ * carries. What is shared is the division; nothing else about it is.
+ *
  * @param {string[]} words
  * @param {number} count
+ * @param {number} [tracking] the layout's own, defaulting to gameTextWidth's
  * @return {string[]} exactly `count` strings, none of them empty
  */
-const balance = (words, count) => {
-    const space = gameTextWidth(" ");
+export const balanceAcross = (words, count, tracking) => {
+    const space = gameTextWidth(" ", tracking);
     const upTo = [0];
     for (const word of words) {
-        upTo.push(upTo[upTo.length - 1] + gameTextWidth(word));
+        upTo.push(upTo[upTo.length - 1] + gameTextWidth(word, tracking));
     }
     /** The width of `words[from..to)` written out with single spaces. */
     const runWidth = (from, to) => upTo[to] - upTo[from] + space * (to - from - 1);
@@ -223,7 +282,7 @@ export const layOutSpeech = (english, count) => {
         return answer([...words, ...new Array(count - words.length).fill("")], true);
     }
 
-    const rows = balance(words, count);
+    const rows = balanceAcross(words, count);
     if (OPENS_QUOTED.test(text)) {
         for (let i = 1; i < rows.length; i++) {
             rows[i] = INDENT + rows[i];

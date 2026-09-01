@@ -86,7 +86,10 @@
  */
 import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
-import {clipsInBacklog, drawnLines, folds, layOutSpeech, rowBudget} from "./SpeechRows.js";
+import {
+    clipsInBacklog, drawnLines, folds, HISTORY_FRAME, inHistoryFrame as inFrameByNumber,
+    layOutSpeech, rowBudget,
+} from "./SpeechRows.js";
 
 /** Worst first, which is also the order a fix is worth making in. */
 export const CLASSES = ["shifted", "overflow", "blank", "fold", "bracket", "untranslated"];
@@ -148,10 +151,12 @@ const ONLY_DOTS = /^[\s　]*[.．・…][\s　.．・…]*$/;
  */
 const isDraftScene = (name) => name.startsWith("t");
 
-const HISTORY_FRAME = {file: "033026.tsv", from: 193987, to: 194532};
-
-const inHistoryFrame = (file, lineNumber) => file === HISTORY_FRAME.file
-    && lineNumber >= HISTORY_FRAME.from && lineNumber <= HISTORY_FRAME.to;
+// The range is modules/SpeechRows.js's now, because the build and the
+// chronology's own layout need it too and three copies of a line number is
+// three chances to mistype one. The file is still checked here: this report
+// reads scene files, and a number is only in the frame if it is in that scene.
+const inHistoryFrame = (file, lineNumber) =>
+    file === HISTORY_FRAME.file && inFrameByNumber(lineNumber);
 
 const opens = (text, bracket) => text.trimStart().startsWith(bracket);
 const closes = (text, bracket) => text.trimEnd().endsWith(bracket);

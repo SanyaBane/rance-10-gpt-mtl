@@ -13,6 +13,7 @@ import {readSceneDialogue} from "../modules/Corpus.js";
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {loadGameJapanese} from "../modules/LineNumbers.js";
 import {LONGEST_DIALOGUE_LINE, replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
+import {HISTORY_FRAME_ROW, inHistoryFrame} from "../modules/SpeechRows.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {checkSubstitutionsAreNotMisspellings, createNameNormalizer} from "../modules/NameNormalizer.js";
 import {checkPlayerNamePlate} from "../modules/Nameplates.js";
@@ -171,6 +172,24 @@ const [allLineRecords, howItWasBuilt] = await readTextLang(textLang);
 
 const LONGEST_LINE = LONGEST_DIALOGUE_LINE;
 
+/**
+ * Which box a row is wrapped against, because there is more than one.
+ *
+ * `wrapAt` folds against one reference for the whole game, and that reference
+ * is the dialogue window's -- about thirty full-width characters once the
+ * safety margin is off. The chronology is not in that window. `CALLFUNC ■歴史枠`
+ * puts a 40-wide frame up for its 311 rows, so folding them at thirty cut a
+ * layout the Japanese states by indentation into ragged prose: 159 of those
+ * rows were folded while the widest of them was 39.2 of the frame's own
+ * characters, and every one of those folds was the build inventing a line the
+ * frame had room for.
+ *
+ * docs/message-window.md is the three boxes; modules/SpeechRows.js is where
+ * this one is stated. A row outside the frame is unaffected.
+ */
+const rowWidthFor = (lineNumber) =>
+    inHistoryFrame(lineNumber) ? HISTORY_FRAME_ROW : LONGEST_LINE;
+
 const output = allLineRecords
     .flatMap(lr => {
         let text = normalizeNames(lr);
@@ -178,7 +197,7 @@ const output = allLineRecords
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
-        text = wrapAt(text, LONGEST_LINE);
+        text = wrapAt(text, rowWidthFor(lr.lineNumber));
         return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
     // The cherry-picks are a file of their own and start on a line of their

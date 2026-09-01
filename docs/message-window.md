@@ -54,6 +54,38 @@ than dialogue: `（的なことを言ってる）`, `大南さん判断に任せ
 event window, so which window a line is in is a property of the line and not of
 the scene.
 
+## The frame the build did not know about
+
+Knowing which box a line is in was, for a long time, something only the reports
+did anything with. `modules/SpeechGaps.js` held these 311 lines out of its width
+classes; the build wrapped every line in the game against one reference, the
+dialogue window's, which is about thirty full-width characters once
+`WRAP_SAFETY_MARGIN` is off.
+
+So the chronology was folded at thirty in a box that holds forty. **159 of its
+311 rows carried a fold while the widest of them was 39.2** of the frame's own
+characters -- every one of those folds a line the build invented and the frame
+had room for. `rowWidthFor` in `scripts/regenerate_aai_txt.js` hands these rows
+`HISTORY_FRAME_ROW` instead, and the count goes to 0.
+
+A report that knows a box and a build that does not is half a measurement. The
+box is stated once now, in `modules/SpeechRows.js`, beside the window's row and
+the backlog's edge, and all three callers read it from there.
+
+**And the range was wrong at one end.** It was written as m[193987]..m[194532],
+from where `■枠消し` was read in the bytecode. `033026.tsv`'s own rows stop at
+m[194297]; the 235 numbers past that are `033027.tsv`, `６０１／少年の旅立ち`,
+which is Crook waking a boy in an ordinary window. That cost nothing while the
+only caller also checked the file name, and became live the moment the build
+asked by number alone -- 235 rows of ordinary dialogue wrapped against a box
+they are not in. **A range that is only right because something else is
+narrowing it is not a range**, and this one had been carrying a spare 235 for as
+long as it existed.
+
+What the chronology is *inside* that box is a layout of its own, because its
+rows are a table the Japanese draws with full-width spaces rather than a bubble:
+`scripts/relayout_chronology.js` is that pass and what flattened it first.
+
 ## The backlog is somewhere else entirely
 
 Nothing in that switch draws the backlog. `MessageWindowHistory` is the frame
