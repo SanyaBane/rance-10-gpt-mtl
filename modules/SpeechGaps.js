@@ -47,6 +47,32 @@
  * A row the game itself left blank is none of this, and asking the cell
  * instead of the row got it wrong by 954 speeches. See carriesText below.
  *
+ * **fold** -- every row is filled and the speech fits its window, and the
+ * build still folds one of its rows into two drawn lines, where laying the
+ * same words back into the same rows would not. The tail of a row alone on a
+ * line under a full one: `world,` under `He declared the birth of the New Demon
+ * King Army to the`, which is a screenshot rather than an example.
+ *
+ * Not an overflow, which is why no report had it: a two-row speech folded into
+ * three still fits a three-row window, so `rowBudget` is satisfied and the
+ * class above never fires. The fault is the division, not the length -- 38.5
+ * ems over 28.3 where the same words balance to 34.4 and 32.4 -- and the
+ * remedy is a layout rather than somebody's edit, which is what separates this
+ * class from the one above it.
+ *
+ * Held to the backlog rather than to the window, because the backlog is the
+ * binding box and a layout that only cleared the window would trade a ragged
+ * line for a clipped one: see `clipsInBacklog` in modules/SpeechRows.js. A
+ * speech whose fold no layout can remove -- because the widest row of the best
+ * division is still past that edge, or because there is simply more English
+ * than the rows draw -- is not in the class. Those want shortening by meaning,
+ * and they are counted and said out loud rather than dropped.
+ *
+ * It ranks above bracket, so some speeches that would have been filed there
+ * are filed here instead. That costs nothing: scripts/find_speech_brackets.js
+ * asks every speech about its brackets rather than only the ones nothing worse
+ * is wrong with, which is the report that number comes from.
+ *
  * **bracket** -- the speech opens 「 in Japanese and does not in English, or
  * closes 」 and does not. The text is on its own row; a quotation mark fell off
  * the end of one row or the start of the next. Cosmetic, and the largest class.
@@ -60,10 +86,10 @@
  */
 import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
-import {drawnLines, layOutSpeech, rowBudget} from "./SpeechRows.js";
+import {clipsInBacklog, drawnLines, folds, layOutSpeech, rowBudget} from "./SpeechRows.js";
 
 /** Worst first, which is also the order a fix is worth making in. */
-export const CLASSES = ["shifted", "overflow", "blank", "bracket", "untranslated"];
+export const CLASSES = ["shifted", "overflow", "blank", "fold", "bracket", "untranslated"];
 
 /**
  * Kana and kanji, and deliberately not ・ or ー.
@@ -198,6 +224,11 @@ export const findSpeechGaps = async (lang) => {
     const findings = [];
     let speeches = 0;
     let draftsHeld = 0;
+    // Folds no layout can take out, and folds in a scene the game never draws.
+    // Named rather than dropped: "the class is 3517" and "3517, plus 3111 that
+    // want an edit" are different facts about the same corpus.
+    let foldsHeld = 0;
+    let draftFoldsHeld = 0;
 
     for (const {fileName, scene} of scenes) {
         const draft = isDraftScene(scene.name);
@@ -274,6 +305,29 @@ export const findSpeechGaps = async (lang) => {
                 continue;
             }
 
+            // A fold is invisible to the budget above -- two rows drawn in
+            // three still fit a window that draws three -- so it is asked as a
+            // question of its own rather than read off that answer. Every row
+            // is filled by here: the blank class returned already.
+            if (folds(rows.map(englishOf)) && !inHistoryFrame(fileName, speech.lineNumber)) {
+                const unfolds = !again.tooFewWords && !folds(again.rows)
+                    && !again.rows.some(clipsInBacklog);
+                if (!unfolds) {
+                    ++foldsHeld;
+                } else if (draft) {
+                    ++draftFoldsHeld;
+                } else {
+                    findings.push({
+                        ...at,
+                        class: "fold",
+                        kind: "a row folded that the same rows could hold whole",
+                        overflows: false,
+                        ...howItWouldGo,
+                    });
+                    continue;
+                }
+            }
+
             const missing = [];
             if (opens(speech.japanese, "「") && !opens(speech.english, "「")) {
                 missing.push("opening 「");
@@ -287,7 +341,7 @@ export const findSpeechGaps = async (lang) => {
         }
     }
 
-    return {scenes: scenes.length, speeches, findings, draftsHeld};
+    return {scenes: scenes.length, speeches, findings, draftsHeld, foldsHeld, draftFoldsHeld};
 };
 
 /** How many findings each class holds, in the order they are worth reading. */

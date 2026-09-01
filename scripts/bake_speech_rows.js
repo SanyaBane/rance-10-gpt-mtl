@@ -32,9 +32,19 @@
  * run of this offered to rewrite 62 261 of them across 141 941 rows and 4965 of
  * the 5433 files, most of it turning a good split into a differently good one.
  * A pass that rewrites what is not broken cannot be reviewed and buries the
- * edits that matter, so the work list is `find_speech_gaps`'s own `overflow`
- * and `blank` findings -- the speeches drawn in more lines than their window
- * has, and the ones with an empty row where the game speaks.
+ * edits that matter, so the work list is `find_speech_gaps`'s own `overflow`,
+ * `blank` and `fold` findings -- the speeches drawn in more lines than their
+ * window has, the ones with an empty row where the game speaks, and the ones
+ * whose rows the build folds where the same rows laid out again would not.
+ *
+ * That third class is the one this pass was written for and could not see. A
+ * two-row speech folded into three still fits a three-row window, so the
+ * budget never complained and no finding existed -- while the player read
+ * `world,` alone on a line under a full row, in the backlog most of all. The
+ * report holds it to the backlog's own edge rather than the window's, so a
+ * speech reaches this list only when the layout draws every row of it whole:
+ * see the class in modules/SpeechGaps.js and `clipsInBacklog` in
+ * modules/SpeechRows.js.
  *
  * Three things it will not touch.
  *
@@ -110,14 +120,15 @@ await run(async () => {
      * both are asked rather than re-derived: it knows three signals for a shift
      * and a copy here would know whichever one this file remembered.
      *
-     * A speech is reported once, under the worst class it answers, so overflow
-     * and blank are the whole of the work list -- a speech that also overflows
-     * is filed under overflow, and one filed under bracket or shifted has
-     * something wrong with it that a layout must not paper over.
+     * A speech is reported once, under the worst class it answers, so these
+     * three classes are the whole of the work list -- a speech that folds and
+     * also overflows is filed under overflow, and one filed under bracket or
+     * shifted has something wrong with it that a layout must not paper over.
      */
     const {findings} = await findSpeechGaps(textLang);
+    const LAYS_OUT = ["overflow", "blank", "fold"];
     const wantsLayout = new Set(findings
-        .filter(finding => finding.class === "overflow" || finding.class === "blank")
+        .filter(finding => LAYS_OUT.includes(finding.class))
         .map(finding => `${finding.file}#${finding.lineNumber}`));
     const shifted = new Set(findings
         .filter(finding => finding.class === "shifted")

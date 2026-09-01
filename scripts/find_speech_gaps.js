@@ -34,7 +34,8 @@ await run(async () => {
     const overflowingOnly = hasFlag("overflowing");
 
     const textLang = textLangName();
-    const {scenes, speeches, findings, draftsHeld} = await findSpeechGaps(textLang);
+    const {scenes, speeches, findings, draftsHeld, foldsHeld, draftFoldsHeld}
+        = await findSpeechGaps(textLang);
     if (!scenes) {
         console.log(`text_languages/${textLang}/scenes/ holds no scene files, so there is nothing to read.`);
         return 0;
@@ -63,6 +64,23 @@ await run(async () => {
             + " hold more English than their rows can draw whatever the layout, and want shortening"
             + " by meaning.");
     }
+    // The class the budget cannot see: nothing is lost, the division is just
+    // ragged, and a layout takes it out without touching a word.
+    const folded = wanted.filter(finding => finding.class === "fold");
+    if (folded.length) {
+        console.log(`\n${folded.length} speeches fit their window and are still folded --`
+            + " the tail of a row on a line of its own -- where laying the same words back into"
+            + " the same rows draws every one of them whole.");
+    }
+    if (foldsHeld) {
+        console.log(`\n${foldsHeld} more are folded and no layout takes it out: the widest row of`
+            + " the best division still runs past the backlog's edge, or there is more English"
+            + " than the rows draw. Those want shortening by meaning. Not counted above.");
+    }
+    if (draftFoldsHeld) {
+        console.log(`\n${draftFoldsHeld} more are folded in a t… scene, which the game does not`
+            + " draw. Not counted above either.");
+    }
     if (draftsHeld) {
         // Said rather than dropped: a count that quietly leaves out what nobody
         // will read is a different number from one that names it.
@@ -80,11 +98,13 @@ ${draftsHeld} more run off the window in a t… scene -- the scenario`
         console.log(`\n--- ${group.length} ${name} ---`);
         for (const finding of group.slice(0, only ? group.length : limit)) {
             console.log(`${finding.file} m[${finding.lineNumber}] ${finding.speaker} -- ${finding.kind}`
-                + (finding.overflows ? `, drawn in ${finding.drawn} lines of ${finding.budget}` : ""));
+                + (finding.overflows ? `, drawn in ${finding.drawn} lines of ${finding.budget}` : "")
+                + (finding.class === "fold"
+                    ? `, drawn in ${finding.drawn} lines for ${finding.rows.length} rows` : ""));
             for (const row of finding.rows) {
                 showRow(row);
             }
-            if (finding.laidOut && finding.overflows) {
+            if (finding.laidOut && (finding.overflows || finding.class === "fold")) {
                 console.log("      laid out again:");
                 for (const row of finding.laidOut) {
                     console.log(`        ${JSON.stringify(row).slice(0, 76)}`);

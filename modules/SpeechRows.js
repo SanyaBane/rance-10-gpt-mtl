@@ -20,7 +20,7 @@
  * that way (`docs/corpus-alignment.md`). So this always returns exactly the
  * rows it was asked for, and says separately whether they fit.
  */
-import {gameTextWidth} from "./GameFont.js";
+import {em, gameTextWidth, trackingFor} from "./GameFont.js";
 import {LONGEST_DIALOGUE_LINE, wrapAt} from "./TextNormalization.js";
 
 /**
@@ -54,6 +54,49 @@ export const drawnLines = (rows) => rows.reduce((sum, row) =>
  * about the window.
  */
 export const rowBudget = (count) => Math.max(count, WINDOW_ROWS);
+
+/**
+ * Whether the build will fold any of these rows into a second drawn line.
+ *
+ * A fold is not an overflow: three rows folded into four still fit a window
+ * that draws four, so nothing is lost and `rowBudget` has no complaint. What
+ * the player gets is the tail of a row alone on a line of its own -- `world,`
+ * under a full row, in the backlog most of all, where every speech is on the
+ * screen at once and the ragged one is the one the eye lands on.
+ */
+export const folds = (rows) => drawnLines(rows) > rows.length;
+
+/**
+ * The backlog's own tracking and the edge it stops drawing at, in ems.
+ *
+ * `字間隔 2` at `フォントサイズ 40`, from `SYS_通常テキスト` in
+ * `archives/Rance10Pact_v1_04/Asra/バックログ.pactex.x`, and an edge measured
+ * with rulers rather than read off the layout: `[35.39, 35.54)`, the lower end
+ * of which is what a budget is held to. docs/message-window.md has both.
+ *
+ * This is the binding box and the ordinary window is not: at any width the
+ * backlog allows, the widest row the build emits is about 33.5 against that
+ * window's own edge of 38.4. So a row that clears the backlog clears both.
+ */
+const BACKLOG_EDGE = 35.39;
+
+/**
+ * Whether the backlog would cut this row's tail off.
+ *
+ * Asked of `gameTextWidth` where `drawnLines` asks `wrapAt`, and the two
+ * instruments disagree on purpose: the build decides a fold in Meiryo and the
+ * game decides a clip in its own font, so a layout that only satisfied the
+ * first can hand back a row nothing folds and the backlog then cuts. That is
+ * the whole reason this exists -- m[193935] balances to 35.9 ems, which draws
+ * whole in the window and loses its last letter in the backlog. Trading a
+ * ragged line for a lost one is not a fix.
+ *
+ * Read lazily, like everything else that touches the font table: `em()` opens
+ * a file, and a module that measured at import would break a fresh clone whose
+ * table has not been generated yet.
+ */
+export const clipsInBacklog = (row) =>
+    gameTextWidth(row, trackingFor(2, 40)) > BACKLOG_EDGE * em();
 
 /**
  * The window's own row, as a string rather than a number, the way
