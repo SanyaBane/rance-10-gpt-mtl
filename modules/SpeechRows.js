@@ -98,8 +98,15 @@ export const backlogTracking = () => trackingFor(2, 40);
  * a file, and a module that measured at import would break a fresh clone whose
  * table has not been generated yet.
  */
-export const clipsInBacklog = (row) =>
-    gameTextWidth(row, backlogTracking()) > BACKLOG_EDGE * em();
+export const clipsInBacklog = (row) => backlogEms(row) > BACKLOG_EDGE;
+
+/**
+ * How wide a row is in the backlog, in full-width characters.
+ *
+ * The same measurement `clipsInBacklog` answers yes or no about. A report that
+ * asks somebody to shorten a row has to say by how much, and a boolean cannot.
+ */
+export const backlogEms = (row) => gameTextWidth(row, backlogTracking()) / em();
 
 /**
  * The window's own row, as a string rather than a number, the way

@@ -5,6 +5,14 @@
  *   node scripts/find_speech_gaps.js --class=shifted    # one class, all of it
  *   node scripts/find_speech_gaps.js --limit=12         # more of each class
  *   node scripts/find_speech_gaps.js --overflowing      # only what does not fit the window
+ *   node scripts/find_speech_gaps.js --scene=033026     # one scene
+ *   node scripts/find_speech_gaps.js --held             # the rows that want shortening
+ *
+ * `--held` is the list the summary line only ever gave a number for: the folds
+ * no layout takes out, because there is more English than the rows draw. Every
+ * other class names a fix; this one names an edit, and it is the one a pass of
+ * refining the translation adds to. `--scene` narrows any of it to the file
+ * being worked on, which is the difference between a finding and a haystack.
  *
  * This is the question a person kept answering by playing the game: a bubble
  * with a gap in the middle of it, and, rarer and worse, a narrator saying a line
@@ -18,6 +26,7 @@
 import {flagValue, hasFlag} from "../modules/Argv.js";
 import {run} from "../modules/AliceTools.js";
 import {CLASSES, countByClass, findSpeechGaps} from "../modules/SpeechGaps.js";
+import {BACKLOG_EDGE} from "../modules/SpeechRows.js";
 import {textLangName} from "../modules/TextLanguages.js";
 
 /** A row as the report shows it: the number, the Japanese, and what is on it. */
@@ -32,13 +41,17 @@ await run(async () => {
     }
     const limit = flagValue("limit") === undefined ? 4 : Number(flagValue("limit"));
     const overflowingOnly = hasFlag("overflowing");
+    const scene = flagValue("scene");
+    const listHeld = hasFlag("held");
 
     const textLang = textLangName();
-    const {scenes, speeches, findings, draftsHeld, foldsHeld, draftFoldsHeld}
-        = await findSpeechGaps(textLang);
+    const {scenes, speeches, findings, draftsHeld, heldFolds, draftFoldsHeld}
+        = await findSpeechGaps(textLang, scene);
     if (!scenes) {
-        console.log(`text_languages/${textLang}/scenes/ holds no scene files, so there is nothing to read.`);
-        return 0;
+        console.log(scene
+            ? `text_languages/${textLang}/scenes/ has no scene called ${JSON.stringify(scene)}.`
+            : `text_languages/${textLang}/scenes/ holds no scene files, so there is nothing to read.`);
+        return scene ? 1 : 0;
     }
 
     const wanted = findings.filter(finding => (!only || finding.class === only)
@@ -72,10 +85,11 @@ await run(async () => {
             + " the tail of a row on a line of its own -- where laying the same words back into"
             + " the same rows draws every one of them whole.");
     }
-    if (foldsHeld) {
-        console.log(`\n${foldsHeld} more are folded and no layout takes it out: the widest row of`
-            + " the best division still runs past the backlog's edge, or there is more English"
-            + " than the rows draw. Those want shortening by meaning. Not counted above.");
+    if (heldFolds.length) {
+        console.log(`\n${heldFolds.length} more are folded and no layout takes it out: the widest`
+            + " row of the best division still runs past the backlog's edge, or there is more"
+            + " English than the rows draw. Those want shortening by meaning. Not counted"
+            + (listHeld ? " above; below." : " above -- --held lists them."));
     }
     if (draftFoldsHeld) {
         console.log(`\n${draftFoldsHeld} more are folded in a t… scene, which the game does not`
@@ -88,6 +102,23 @@ await run(async () => {
 ${draftsHeld} more run off the window in a t… scene -- the scenario`
             + " document the writer handed the scripter, which the game does not play and whose"
             + " own Japanese runs past the window too. Not counted above.");
+    }
+
+    if (listHeld && heldFolds.length) {
+        console.log(`\n--- ${heldFolds.length} folded, and shortening is the only fix ---`);
+        // Widest first: the row that wants the most cut is the one worth reading.
+        for (const finding of [...heldFolds].sort((a, b) => b.over - a.over)) {
+            console.log(`${finding.file} m[${finding.lineNumber}] ${finding.speaker}`
+                + ` -- ${finding.widest.toFixed(1)} against ${BACKLOG_EDGE},`
+                + ` ${finding.over.toFixed(1)} over`);
+            for (const row of finding.rows) {
+                showRow(row);
+            }
+            console.log("      the best division of it:");
+            for (const row of finding.laidOut) {
+                console.log(`        ${JSON.stringify(row).slice(0, 76)}`);
+            }
+        }
     }
 
     for (const name of CLASSES) {

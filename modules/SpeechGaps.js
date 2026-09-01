@@ -87,8 +87,8 @@
 import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
 import {
-    clipsInBacklog, drawnLines, folds, inHistoryFrameOf as inHistoryFrame,
-    layOutSpeech, rowBudget,
+    backlogEms, BACKLOG_EDGE, clipsInBacklog, drawnLines, folds,
+    inHistoryFrameOf as inHistoryFrame, layOutSpeech, rowBudget,
 } from "./SpeechRows.js";
 
 /** Worst first, which is also the order a fix is worth making in. */
@@ -221,15 +221,28 @@ const blankKind = (filled) => {
  * @param {string} lang
  * @return {Promise<{scenes: number, speeches: number, findings: object[]}>}
  */
-export const findSpeechGaps = async (lang) => {
-    const scenes = await readTranslatedScenes(lang);
+/**
+ * @param {string} lang
+ * @param {string} [only] one scene file, with or without the .tsv, so that a
+ * translator refining one scene reads a report about that scene. Narrowing here
+ * rather than filtering the findings afterwards keeps every count in the run
+ * about the same set of speeches.
+ */
+export const findSpeechGaps = async (lang, only) => {
+    const wanted = only && (only.endsWith(".tsv") ? only : `${only}.tsv`);
+    const scenes = (await readTranslatedScenes(lang))
+        .filter(({fileName}) => !wanted || fileName === wanted);
     const findings = [];
     let speeches = 0;
     let draftsHeld = 0;
     // Folds no layout can take out, and folds in a scene the game never draws.
     // Named rather than dropped: "the class is 3517" and "3517, plus 3111 that
     // want an edit" are different facts about the same corpus.
-    let foldsHeld = 0;
+    //
+    // The first of those is kept whole rather than counted, because it is a work
+    // list: every one of them is a row somebody has to shorten by meaning, and a
+    // number tells them there are three thousand without telling them which.
+    const heldFolds = [];
     let draftFoldsHeld = 0;
 
     for (const {fileName, scene} of scenes) {
@@ -314,10 +327,20 @@ export const findSpeechGaps = async (lang) => {
             if (folds(rows.map(englishOf)) && !inHistoryFrame(fileName, speech.lineNumber)) {
                 const unfolds = !again.tooFewWords && !folds(again.rows)
                     && !again.rows.some(clipsInBacklog);
-                if (!unfolds) {
-                    ++foldsHeld;
-                } else if (draft) {
+                // Draft first: a t… scene is the scenario document and is never
+                // drawn, so neither kind of fold in one is anybody's work. Asking
+                // `unfolds` first put the unfixable ones in the translator's list.
+                if (draft) {
                     ++draftFoldsHeld;
+                } else if (!unfolds) {
+                    const widest = Math.max(...again.rows.map(backlogEms));
+                    heldFolds.push({
+                        ...at,
+                        kind: "more English than its rows can draw",
+                        laidOut: again.rows,
+                        widest,
+                        over: widest - BACKLOG_EDGE,
+                    });
                 } else {
                     findings.push({
                         ...at,
@@ -343,7 +366,7 @@ export const findSpeechGaps = async (lang) => {
         }
     }
 
-    return {scenes: scenes.length, speeches, findings, draftsHeld, foldsHeld, draftFoldsHeld};
+    return {scenes: scenes.length, speeches, findings, draftsHeld, heldFolds, draftFoldsHeld};
 };
 
 /** How many findings each class holds, in the order they are worth reading. */
