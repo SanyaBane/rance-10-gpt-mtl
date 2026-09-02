@@ -4,7 +4,7 @@
 * Reset Kalar	リセット２	Female
 
 235157	-		試合に勝利したあなたは、	After winning the match, you returned to the
-235158	+		レリコフと共に控え室へと戻ってきた。	waiting room together with Lelikov Helman.
+235158	+		レリコフと共に控え室へと戻ってきた。	waiting room together with Lelikov.
 
 235159	Shuri Seihajuu Nagasaki	おめでとう	「一回戦の勝利！	「Congratulations on winning the first round!
 235160	+		　おめでとう、ごっざいまーーーっす！」	　Congraaaatulations!」
@@ -17,12 +17,12 @@
 
 235165	Shuri Seihajuu Nagasaki		「これから先の戦いも頑張って下さいね！」	「Please keep up the great work in the upcoming matches!」
 
-235166	Shuri Seihajuu Nagasaki	笑顔	「レリコフさんも頑張ったのに残念でしたね！	「Lelikov Helman-san fought hard too, what a shame!
+235166	Shuri Seihajuu Nagasaki	笑顔	「レリコフさんも頑張ったのに残念でしたね！	「Lelikov-san fought hard too, what a shame!
 235167	+		　でも格好良かったですよ！」	　But you looked really cool!」
 
 235168	Lelikov Helman	きゃはは！	「へへー、負けちゃった」	「Hehe~, I lost.」
 
-235169	-		あなたの隣にいるレリコフは、	Lelikov Helman standing next to you
+235169	-		あなたの隣にいるレリコフは、	Lelikov standing next to you
 235170	+		あまり気にした様子もなく笑っていた。	was smiling without seeming too bothered.
 
 235171	Shuri Seihajuu Nagasaki	笑み	「さて、話していたように勝利者には、	「As we mentioned earlier, the winner receives
@@ -31,7 +31,7 @@
 235173	Shuri Seihajuu Nagasaki		「宝物やお金もありますが……	「There are treasures and money, but...
 235174	+		　まあ、こっちはオマケですよね」	　well, those are just bonuses.」
 
-235175	Shuri Seihajuu Nagasaki	笑顔	「一番の報酬はレリコフさんのパートナー、	「The best reward is Lelikov Helman-san herself,
+235175	Shuri Seihajuu Nagasaki	笑顔	「一番の報酬はレリコフさんのパートナー、	「The best reward is Lelikov-san herself,
 235176	+		　本人であるレリコフさんでーす」	　your partner for this match.」
 
 235177	Shuri Seihajuu Nagasaki		「これから24時間、殺傷以外のことなら、	「For the next 24 hours, as long as it doesn't involve
@@ -63,15 +63,15 @@
 235192	-		にっこりと太陽のような笑顔で、	With a bright sunny smile,
 235193	+		リセットがあなたの一回戦突破を祝ってくれた。	Reset congratulated you on advancing.
 
-235194	Reset Kalar	基本	「レリコフちゃんも――」	「Lelikov Helman-chan too――」
+235194	Reset Kalar	基本	「レリコフちゃんも――」	「Lelikov-chan too――」
 
 235195	Lelikov Helman		「ん？　なに、ねーちゃん」	「Hmm? What is it, big sis?」
 
 235196	Reset Kalar		「…………」	「............」
 
-235197	-		リセットがそっとレリコフの頭を撫でる。	Reset gently patted Lelikov Helman's head.
+235197	-		リセットがそっとレリコフの頭を撫でる。	Reset gently patted Lelikov's head.
 
-235198	Reset Kalar	笑顔	「レリコフちゃんも、いっぱいいっぱい、	「Lelikov Helman-chan, you gave it your all,
+235198	Reset Kalar	笑顔	「レリコフちゃんも、いっぱいいっぱい、	「Lelikov-chan, you gave it your all,
 235199	+		　がんばったね？」	　didn't you?」
 
 235200	Lelikov Helman	基本	「…………」	「............」
@@ -83,7 +83,7 @@
 235203	Lelikov Helman		「うううううう……」	「Uuuuuuu...」
 
 235204	-		ポロリポロリと、	Large tears began spilling
-235205	+		レリコフの瞳から大粒の涙が溢れ出す。	from Lelikov Helman's eyes one after another.
+235205	+		レリコフの瞳から大粒の涙が溢れ出す。	from Lelikov's eyes one after another.
 
 235206	Lelikov Helman	うわーん	「おね、お姉ちゃ、ん……	「B-Big sis...
 235207	+		　ボク……ボク、負けちゃ、っ、た……」	　I... I lost...」
@@ -98,11 +98,11 @@
 235213	+		　お姉ちゃぁぁぁあん！」	　Big siiiis!」
 
 235214	Reset Kalar	笑顔	「うんうん、そうだね。	「Yeah yeah, that's right.
-235215	+		　とっても格好良かったよ、レリコフちゃん」	　You looked really cool, Lelikov Helman-chan.」
+235215	+		　とっても格好良かったよ、レリコフちゃん」	　You looked really cool, Lelikov-chan.」
 
 235216	Lelikov Helman	基本	「うわあああん！」	「Waaaaah!」
 
-235217	-		レリコフはリセットに抱きついて、	Lelikov Helman clung to Reset
+235217	-		レリコフはリセットに抱きついて、	Lelikov clung to Reset
 235218	+		びえんびえんと泣き出してしまった。	and started bawling loudly.
 
 235219	Shuri Seihajuu Nagasaki	困り	「あ、あらぁ〜」	「Oh my~」
@@ -112,7 +112,7 @@
 
 235222	Shuri Seihajuu Nagasaki		「あははは、それじゃ失礼しまーす」	「Ahahaha, excuse me then~」
 
-235223	-		あなた達はレリコフが泣き止むまで、	You all continued comforting Lelikov Helman
+235223	-		あなた達はレリコフが泣き止むまで、	You all continued comforting Lelikov
 235224	+		慰め続けた。	until she stopped crying.
 
 235225	-		…………	............
@@ -121,7 +121,7 @@
 
 235227	Lelikov Helman	きゃはは！	「えへへ、もう平気だよ」	「Ehehe, I'm okay now.」
 
-235228	-		レリコフはぐしぐしと瞼をぬぐってから、	Lelikov Helman wiped her eyes roughly
+235228	-		レリコフはぐしぐしと瞼をぬぐってから、	Lelikov wiped her eyes roughly
 235229	+		にっこりと笑った。	then smiled brightly.
 
 235230	Lelikov Helman	基本	「じゃ、ボク、ヒーローの所に行ってくるね」	「Well, I'm going to go see Hero now.」
@@ -139,7 +139,7 @@
 235237	-		ちょいちょいと手招きされて、	She beckoned you over,
 235238	+		あなたは腰を落として耳を寄せる。	so you crouched down and leaned your ear closer.
 
-235239	-		転がるようなレリコフの声が、	Lelikov Helman's rolling voice
+235239	-		転がるようなレリコフの声が、	Lelikov's rolling voice
 235240	+		あなたの耳をくすぐる。	tickled your ear.
 
 235241	Lelikov Helman		「あのね、あのね……	「Hey, hey... Keep it a secret that I
@@ -149,7 +149,7 @@
 
 235244	Lelikov Helman		「じゃね！」	「See ya!」
 
-235245	-		元気いっぱいにレリコフは駆けだしていった。	Lelikov Helman ran off full of energy.
+235245	-		元気いっぱいにレリコフは駆けだしていった。	Lelikov ran off full of energy.
 
 > male
 235246	Reset Kalar	基本	「あ、あのー……」	「U-Um...」

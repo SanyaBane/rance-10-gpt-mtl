@@ -72,12 +72,7 @@ export const readSlotJapanese = () => {
  * archives/Rance10EX_v1_04/48_立ち絵名札マッピング情報.x have been asked.
  */
 const SETTLED = new Map([
-    ["3211 レリコフ", "FriendPanel@Name::get, where all nine neighbours are bare given names"],
     ["9187 スシヌ", "the English names nobody, which is better English than repeating him"],
-    ["8186 レリコフ", "the table holds Lelikov Helman; the Japanese calls her by the given name, as s[3211] does"],
-    ["8187 レリコフ", "the table holds Lelikov Helman; the Japanese calls her by the given name, as s[3211] does"],
-    ["8458 レリコフ", "the table holds Lelikov Helman; the Japanese calls her by the given name, as s[3211] does"],
-    ["9309 レリコフ", "the table holds Lelikov Helman; the Japanese calls her by the given name, as s[3211] does"],
     ["9412 ドギ", "the table holds Dogi Magi; the Japanese shouts the short form, which the wiki keeps as a redirect"],
     ["10702 リア", "the Lia entry is satisfied; the Queen Lia entry is the one objecting"],
     ["10813 政宗", "the table holds Dokuganryuu Masamune; the epithet writes the short form"],

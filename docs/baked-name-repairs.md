@@ -136,6 +136,42 @@ So the rule is not "no single words" but "count what the entry did before
 deciding", and a trace against the corpus as the translation produced it is
 how that count is taken.
 
+## `shortNameEng` is the short name, and a full one there rewrites the script
+
+`レリコフ` held `"Lelikov Helman"`. Nothing was wrong with the spelling -- the
+character's full name is exactly that -- and it was wrong anyway, because the
+pass writes `shortNameEng` wherever a record's Japanese carries `shortNameJpn`,
+and the Japanese says the short name almost everywhere. 296 rows across 90
+scenes were rendered with the surname the game does not say there, in speech, in
+address, in narration: "Wait, Lelikov Helman.", "Lelikov Helman was clinging to
+Sheila from behind."
+
+The game says the full name on **13 speeches** out of 292 -- a self-introduction,
+a tournament announcer, an evaluation screen, somebody repeating it back -- and
+`レリコフ・ヘルマン` is a string of its own, so those 13 are exactly the lines
+whose Japanese carries it. The table now has two entries, the short one for
+`レリコフ` and a full one for `レリコフ・ヘルマン`, which is the shape
+`ミラクル` / `ミラクル・トー` already had.
+
+Two things to carry from it.
+
+**The corpus had to be swept by hand, because changing the table alone changes
+nothing.** The pass skips a line whose English already holds the canonical name,
+by plain `String.Contains`, and `"Lelikov Helman"` holds `"Lelikov"` -- the dead
+entry above, arriving from the other direction. So all 296 rows stayed as they
+were until they were rewritten, row by row, wherever the row's *own* Japanese
+did not say `レリコフ・ヘルマン`. Two rows needed naming by hand instead: their
+speech says the full name and their English sits a row away from the Japanese it
+renders, which is the `shifted` class `find_speech_gaps` already reports.
+
+**Five `SETTLED` rows in `modules/CherryPicks.js` went stale the moment it was
+fixed**, and that is the measurement, not a side effect. Every one of them said
+the same thing in different words -- "the table holds Lelikov Helman; the
+Japanese calls her by the given name" -- so the name checker had been reporting
+the fault five times over, and five separate readings had each decided it was
+the cherry-picks that were the exception. A complaint that keeps arriving about
+different slots for the same reason is a complaint about the table.
+
 ### Dropping an entry leaves a residue, and nothing reports it
 
 Each removal above was verified to change 0 lines the day it went, which says
