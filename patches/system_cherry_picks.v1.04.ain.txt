@@ -19,73 +19,105 @@
 ; the string still has to say it in English. Those spell it the way the glossary
 ; does, on purpose. docs/enemy-party-names.md has the whole of it.
 
-; QuestMapParamAccessor@GetDesc
+; QuestMapParamAccessor@GetDesc: the label on a quest-map branch button, which
+; QuestMapSelectionButton@Init writes into the button's Text. The 説明 the button
+; usually carries is a character's line -- 5_クエストデータ.x has "Let's go.",
+; "Rescue Lia.", "Hack & Slash!" -- and 次へ進む is what the button says when a
+; branch has no line written for it. It is the plain dictionary form where those
+; are spoken, so the English stays a label rather than borrowing their voice.
 s[4223] = "Advance"
 
 ; SceneQuestMapGetCardDialog@LoadActivity
-s[2844] = "Card Acquired"
-s[2845] = "You obtained the card [%s]"
+s[2844] = "Card Obtained"
+s[2845] = "Obtained the card [%s]"
 
 ; SceneReplayMemoDialog@<lambda : SceneReplayMemoDialog@<lambda : SceneReplayMemoDialog@0(ref SceneStack, string)(18, 54)>(string, int, string, string)(31, 44)>
-s[2578] = "You obtained the encyclopedia entry [%s]。\nWould you like to check it now？"
+s[2578] = "Codex entry [%s] obtained.\nWould you like to view it now?"
 
-; QuestMapSystemEventDispatcher::Run
+; QuestMapSystemEventDispatcher::Run. Two of its RunImageDialog calls draw a
+; caption this file cannot reach. The damage one passes s[2566] ダメージ as both
+; the illustration's CG name and the caption, and that slot is a STRSWITCH case
+; in QuestMapSystemEvent::Convert on top of that. The secretary one captions the
+; dialog with the quest data's own 秘書登録 value -- サテラ, リセット, 長田君 --
+; which is the key AssistantAdd::get looks the secretary up by. The message under
+; each is a slot of its own, so it is translated and the caption stays Japanese:
+; the same trade s[3167] and s[3168] make below.
 s[4158] = "Recovery Point"
-s[4159] = "HP/Skills|Refill|Yay"
+s[4159] = "HP and skill uses|are restored|Yay!"
+s[4160] = "You took %d damage."
+s[4161] = "Difficulty Up"
+s[4162] = "From here on, the difficulty increases."
+s[4163] = "%s is now your secretary."
 
 ; PlayerCommonParamEvent::AddFoodTicket
-s[3681] = "Food ticket acquired！"
-s[3682] = "You have obtained a food ticket。"
-s[4161] = "Difficulty UP"
-s[4162] = "From here on, the difficulty level will increase"
-s[3684] = "Gold Bullion Obtained！"
-s[3685] = "You have acquiRed a gold bullion。"
-s[3687] = "FRiendship Gained！"
-s[3688] = "You have gained FRiendship。"
+s[3681] = "Meal Ticket Obtained!"
+s[3682] = "You have obtained a meal ticket."
 
-; SceneQuestMap@CheckNoLeader
+; PlayerCommonParamEvent::AddGold
+s[3684] = "Gold Bullion Obtained!"
+s[3685] = "You have obtained gold bullion."
+
+; PlayerCommonParamEvent::AddFriend
+s[3687] = "Friendship Gained!"
+s[3688] = "You have gained friendship."
+
+; SceneQuestMap@CheckNoLeader and SceneParty@ShowLeaderIsEmptyDialog. All three
+; of their RunInformationDialog calls share s[2837] as the caption, so it is
+; written once here rather than beside one of the three messages.
+s[2837] = "Formation"
 s[2838] = "The leader is missing. Please organize your party"
-s[2839] = "There are no more characters available to add to the party"
-s[3168] = "There were no characters eligible for the food ticket"
+s[2839] = "There are no characters left to assign."
+s[3026] = "Please assign at least one character"
+
+; SceneFoodTicketInMap@Run. Its caption s[3167] is 食券 and stays Japanese:
+; QuestMapSystemEvent::Convert runs a STRSWITCH over that same slot, so
+; translating it would break the quest map's system-event lookup.
+s[3168] = "There were no characters eligible for a meal ticket"
 
 ; PlayerCommonParamEvent::AddHonor
-s[3690] = "Medal Obtained！"
-s[3691] = "You have obtained a medal。"
+s[3690] = "Medal Obtained!"
+s[3691] = "You have obtained a medal."
 
 ; PlayerCommonParamEvent::AddAchieve
-s[3695] = "War Success Acquired！"
-s[3696] = "You have obtained battle results。"
+s[3695] = "War Results Obtained!"
+s[3696] = "You have obtained war results."
+
+; PlayerCommonParamEvent::AddItemStar. s[3697] アイテムＵＰ is the illustration's
+; CG name -- シス／ダイアログ／イラスト／アイテムＵＰ -- and stays Japanese, the
+; way the five 獲得 images above it do. ★Rank is what s[3988] below and the
+; skill table in archives/ call the star this raises.
+s[3698] = "Item ★Rank Up!"
+s[3699] = "An item's ★Rank has increased."
 
 ; SaveObjectView@OnButtonBaseClick
-s[3544] = "Load this save？"
+s[3544] = "Load this save?"
 
 ; SceneLoad@OnClickDeleteAll
-s[3560] = "All save data without a ★ will be deleted。Are you sure？"
+s[3560] = "All save data without a ★ will be deleted. Are you sure?"
 ;
 ; DialogScenes::RunInformationDialog(title, message), twice: SceneSave@OnClick and
 ; CommonMenu@OnClick. s[2599] is the title of both and is pushed nowhere else.
 ; s[2600] carries its line break as a bare r, which English cannot -- every r in
 ; a word would be one -- so it takes the \n that s[2360] below already uses.
 s[2599] = "Save"
-s[2600] = "Save failed。\nDelete unneeded save data from the load screen"
-s[3564] = "Save failed。"
+s[2600] = "Save failed.\nDelete unneeded save data from the load screen"
+s[3564] = "Save failed."
 ;
 ; Not the other two dialogs the .ain still has in Japanese. s[2854] and s[2898]
 ; both go to DialogScenes::RunTestDialog, and that function is one instruction:
 ; RETURN. Translating either would be work nobody could ever see, the way
 ; patching 表示規模 would have been.
 
-s[2360] = "Do you want to quit the game？\n\n※Unsaved data will be lost."
+s[2360] = "Do you want to quit the game?\n\n※Unsaved data will be lost."
 
 ; SceneCommonMenu@LoadSnapShot
 s[2608] = "The battle will restart from the beginning. Are you sure?"
 
+; ScenePlayerDetail@InitButton, which is handed the button's flat and its label
+; together. s[3079] is the flat -- 幅４００ is the 400px-wide button graphic
+; rather than anything drawn as text -- so only the label is translated.
 ;s[3079] = "幅４００"
 s[3080] = "Character Events"
-
-; SceneParty@ShowLeaderIsEmptyDialog
-s[2837] = "Squad"
-s[3026] = "The squad can't be empty."
 
 ; AssistantMessageView@SetText
 s[2527] = "\r"
@@ -112,8 +144,17 @@ s[2527] = "\r"
 ;s[3251] = "Race：%s"
 ;s[3255] = "Small Size"
 ;s[3256] = "Large Size"
-s[12684] = "Keep Distance"
-s[5999] = "Monster Captain"
+s[12684] = "Away From Enemy"
+;
+; Not s[5999]. 魔物隊長 reads like the plate over the reinforcement it names, but
+; Ｔ武将計算 hands it to Ｐ武将更新 as cgName rather than name -- the same argument
+; s[5767] below is passed in, and the same broken portrait. Ｔ敵本体生成 assigns it
+; as well, and the war-situation report has been looking up a CG called "Monster
+; Captain" for as long as this line was here. Nothing is lost by taking it out:
+; the plate that does say Monster Captain comes from glossaries/enemy_party_glossary.tsv
+; through the Enemy@Id::get override, which patches the function and leaves the
+; slot its Japanese.
+;s[5999] = "Monster Captain"
 ;s[2673] = "Name"
 ;s[2565] = "Desc"
 
@@ -124,49 +165,83 @@ s[5999] = "Monster Captain"
 ; DON'T CHANGE! Breaks icons in War Status Report screen
 ;s[5767] = "Monster General"
 
+; The war-situation report, which Ｔ武将計算 builds and Ｐ武将更新 draws. Every entry
+; is three strings and only two of them are text: positionName is the unit, name
+; is who leads it, and **cgName is a portrait lookup**. So ヨシフ, ルメイ, ツォトン
+; and ピサロ stay Japanese below even though the line naming each general spells
+; them out, and so do 汎用武将, 泥姫バイランローズ, ガーディアン and バイランローズ.
+; ポピンズ軍団 and ハニー軍団 are positionName and would be safe, except
+; TadaFlags::Parse compares against those two slots; s[14790] and s[14791] are the
+; debug log rather than the screen. Nothing else in 14790-14910 is a key: the only
+; strings this function compares are event names like リーザス１ and ワーグ決戦.
 s[14869] = "Free Cities Alliance"
 s[14870] = "City Mayor Copandon"
 s[14871] = "Free Cities Alliance Army"
+s[14872] = "Mercenary Commander　Viyan Peko"
+s[14873] = "Vice Commander　Cecil"
 s[14874] = "Mercenary Commander　Cecil"
+s[14875] = "Vice Commander　Cagliostro"
 s[14876] = "Vice Commander　Pitten"
-s[14877] = "Strategist　Gengorou Shinoda"
+s[14877] = "Strategist　Shinoda Gengorou"
 s[14878] = "Tulip Armored Company"
 s[14879] = "Engineer　Maria"
 s[14880] = "ＪＡＰＡＮ Allied Forces"
-s[14881] = "General　Yoshikage Asakura"
+s[14881] = "Samurai General　Asakura Yoshikage"
 s[14883] = "Fiend　Pi-R"
+s[14885] = "Fiend　Lei"
 s[14886] = "Great Monster General　Pizarro"
 s[14867] = "Great Monster General　Zedong"
 s[14813] = "Great Monster General　Joseph"
 s[14844] = "Great Monster General　LeMay"
+s[14816] = "Fiend　Hawzel"
+s[14821] = "Fiend　Warg"
+s[14823] = "Captain　Scholar"
 s[14824] = "Helman Republic"
 s[14825] = "President　Sheila"
 s[14826] = "Helman 1st Army"
 s[14827] = "General　Amitos"
-s[14828] = "Helman 2nd Army（Banura Garrison）"
+s[14828] = "Helman 2nd Army (Banura Garrison)"
 s[14829] = "General　Bodou"
 s[14830] = "Vice General　Tolstoy"
-s[14831] = "Helman 3rd Army（Imperial Capital Garrison）"
+s[14831] = "Helman 3rd Army (Imperial Capital Garrison)"
 s[14832] = "Great General　Hubert"
 s[14833] = "Helman 4th Army"
-s[14834] = "General Kondratenko"
+s[14834] = "General　Kondratenko"
 s[14835] = "City Garrison"
+s[14836] = "Garrison Captain Al"
 s[14837] = "Nameless Brave General"
 s[14838] = "ＪＡＰＡＮ Uesugi Army"
-s[14839] = "General　Kenshin Uesugi"
+s[14839] = "Samurai General　Uesugi Kenshin"
+s[14861] = "ＪＡＰＡＮ Mouri Army"
+s[14862] = "Samurai General　Mouri Teru"
+s[14906] = "ＪＡＰＡＮ Army"
+s[14907] = "Warlord　Narita Tokitsune"
+s[14909] = "Warlord　Minamoto Sanma"
+s[14910] = "Warlord　Taira Moromi"
 s[14840] = "Maid Unit"
 s[14841] = "Fiend　Kesselring"
 s[14842] = "Babolat Care Team"
 s[14843] = "Fiend　Babolat"
 s[14863] = "Slaughter Unit"
 s[14864] = "Fiend　Medusa"
-s[14865] = "Hoguhofu Garrison"
+s[14865] = "Hoffhoff Garrison"
 s[14866] = "Fiend　Galtia"
 s[14797] = "Supreme Leader Rance"
+s[14898] = "Rance Castle Unit"
+s[14899] = "Commander Sanakia"
+s[14900] = "Kalar Unit"
+s[14901] = "Queen Pastel"
+s[14902] = "Shangri-La Garrison"
+s[14903] = "Apostle　Kaybnyan"
+s[14904] = "Monster General　Ali Baba"
+s[14792] = "Hornet Faction Remnants"
+s[14793] = "Monster Captain　Rakan"
+s[14795] = "Excavated Tousho Unit"
 s[14846] = "Zeth Kingdom"
-s[14847] = "King Gandhi"
+s[14847] = "King　Gandhi"
 s[14848] = "Four Towers Defense Army"
 s[14849] = "Four Lords Magic"
+s[14850] = "King　Magic"
 s[14852] = "Four Lords Chochoman"
 s[14851] = "Capital Defense Squad"
 s[14853] = "Zeth Light Army"
@@ -187,7 +262,7 @@ s[14892] = "Independent Mobile Unit"
 s[14893] = "Fiend　RedEye"
 s[14894] = "２３rd Division"
 s[14896] = "２４th Division"
-s[14895] = "Monster General 　Karadamirai"
+s[14895] = "Monster General　Karadamirai"
 s[14897] = "Monster General　Blue Noah"
 s[14798] = "Leazas Kingdom"
 s[14799] = "Queen　Lia"
@@ -202,7 +277,7 @@ s[14807] = "General　Ex"
 s[14808] = "Artillery Unit"
 s[14809] = "Engineer　Kasumi"
 s[14810] = "ＪＡＰＡＮ Southern Army"
-s[14811] = "General　Agireda"
+s[14811] = "Samurai General　Agireda"
 
 
 ; BadConditionDescView@0
@@ -221,7 +296,11 @@ s[14811] = "General　Agireda"
 ; StringHelper::Split
 s[3717] = "\r|"
 
-; LocalSave::GetCurrentGameStateComment
+; LocalSave::GetCurrentGameStateComment, which is the phase name in a save slot's
+; comment. Ｔ秘書／フェイズ説明 does compare s[4246] and s[4247] against the phase it
+; is handed, which would make these two keys -- but that function has no caller at
+; all, the way 表示規模 has none, so nothing reads the comparison. getPhaseText,
+; the other reader, returns them.
 s[4242] = "Prologue"
 s[4243] = "Turn Start"
 s[4244] = "Turn Start Phase"
@@ -235,7 +314,11 @@ s[4251] = "Shop Phase"
 s[4252] = "Friendship Phase"
 s[4253] = "Unknown Phase %d"
 
-; BattleBonus@Caption::get
+; BattleBonus@Caption::get. The dialogue never says any of these, so what they mean
+; comes from BattleBonusType@String, which names the same eleven values: the first
+; five are Exp… and the last six Treasure…, which is why 部隊 is "Unit" on one side
+; and the chest rate on the other. 累計失敗ボーナス is TreasureNotGetCount -- a run of
+; battles that dropped no chest, not a run of missed attacks.
 s[3934] = "Unit: EXP Increase"
 s[3935] = "Victory"
 s[3936] = "Victory within 3 Rounds"
@@ -258,9 +341,23 @@ s[12594] = "Ancient Body"
 s[3950] = "The round changed！"
 
 ; BattleInfoView@GetProcessTypeString
-s[3355] = "Advance"
+; Not s[3355], however much 進む reads like the label it also is. It is the type
+; argument of AssistantMessageCollection's PlayMessage, and GetAll builds the .ex
+; path 秘書データ.<secretary>.%s out of it -- so "Advance" asks 43_秘書データ.x for a
+; 進む list under a name that file has never had, and the secretary says nothing
+; when the party advances on the quest map. Same class as s[3268] 戦闘開始 below.
+;
+; Unlike s[3268] this one *is* drawn: BattleInfoView@GetProcessTypeString writes it
+; into the Win part of the pre-battle screen, with s[3354] (特殊ルート) after it. Both
+; stay Japanese until somebody patches that function the way race and party names
+; are patched -- the string cannot be two things at once.
+;s[3355] = "Advance"
+;s[3354] = "(Special Route)"
 
-s[3636] = "View"
+; ThumbnailButton@InitParts, the button on a 図鑑 thumbnail. 解説を\n見る is two rows
+; and its layout agrees -- the Caption part is laid out around "Replay\nScene" -- so
+; the English keeps both rows and says what it opens rather than only that it opens.
+s[3636] = "Read\nEntry"
 
 ; The counter word 難易度調整 puts inside the (25匹) it appends to a group's name.
 ; It is Ｔ敵本体生成's ◆匹, and this slot is the 匹 that function starts every enemy
