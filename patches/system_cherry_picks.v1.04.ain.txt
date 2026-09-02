@@ -1358,7 +1358,7 @@ s[8150] = "Let's go on a date"
 s[8151] = "Let me pat your head"
 s[8168] = "I was a little nervous"
 s[8180] = "That was fun. Let's do it again"
-s[8181] = "It's not fun"
+s[8181] = "It wasn't fun"
 s[8186] = "Want to try it too, Lelikov?"
 s[8187] = "You'll do it with someone wonderful someday, Lelikov"
 
@@ -1376,9 +1376,9 @@ s[8222] = "Where should I go?"
 s[8223] = "Aren't you going with me?"
 s[8224] = "Look dissatisfied"
 s[8225] = "Please explain it again"
-s[8226] = "It's okay, I understand it"
+s[8226] = "It's okay, I've got it perfectly"
 s[8227] = "...I understand"
-s[8228] = "...I don't understand"
+s[8228] = "...I don't really understand"
 s[8229] = "I'm off"
 s[8230] = "...Do I have to go?"
 
@@ -1386,7 +1386,7 @@ s[8230] = "...Do I have to go?"
 s[8231] = "Take a step forward"
 s[8233] = "Call out"
 s[8234] = "Don't call out"
-s[8235] = "Goodbye"
+s[8235] = "Farewell"
 s[8236] = "Good luck!"
 s[8237] = "Namu Amida Butsu..."
 s[8238] = "Nothing in particular"
@@ -1426,7 +1426,7 @@ s[8263] = "Actually, I've fallen in love"
 ; 601/Dosswassu appears/finishes
 s[8264] = "Just because"
 s[8265] = "My body just moved on its own..."
-s[8266] = "So refreshing!"
+s[8266] = "That felt great!"
 
 ; 601/Arrives at the village
 s[6183] = "Bandit A"
@@ -1453,10 +1453,10 @@ s[8280] = "I failed"
 s[8281] = "Let me try"
 s[8282] = "Let me meet the boss"
 s[8283] = "I'm here to deliver pizza"
-s[8284] = "Damn you, villains!"
+s[8284] = "Drop dead, you villains!"
 
 ; 601 / Hideout Entrance / After Battle
-s[8285] = "Let's enter the labyrinth"
+s[8285] = "Let's storm the labyrinth"
 s[8286] = "I'll protect you"
 s[8287] = "Are you scared?"
 s[8288] = "You can go home now"
@@ -1478,7 +1478,7 @@ s[8302] = "I want to know more about you"
 s[8303] = "Who are you?"
 s[8304] = "Tell him I'm the Demon King's child"
 s[8306] = "I look forward to working with you"
-s[8307] = "Go home"
+s[8307] = "Please go home"
 s[8308] = "Put shaved ice on his head"
 
 ; Talk to 601/Rocky
@@ -1492,24 +1492,24 @@ s[8314] = "It's a little scary, but I'll go"
 s[8315] = "The kidnapped girl."
 s[8316] = "Be humble"
 s[8317] = "Be embarrassed"
-s[8318] = "Attack"
+s[8318] = "Jump her"
 
 ; 601/Nagata flees
 s[8319] = "Let's go ahead by ourselves"
 s[8320] = "Let's search a little more"
 
 ; 601/Nagata rescues
-s[8321] = "Drop weapon"
+s[8321] = "Drop your weapon"
 s[8322] = "Try to persuade him somehow"
 s[8323] = "Split Nagata-kun"
-s[8324] = "Extend hand"
-s[8325] = "Accuse Nagata-kun"
-s[8326] = "Lightly punch his head"
+s[8324] = "Hold out your hand"
+s[8325] = "Blame Nagata-kun"
+s[8326] = "Bonk him on the head"
 
 ; 601/Lance Jr./Pre-battle
 s[8327] = "Let's defeat the Demon King together"
 s[8328] = "Let's cooperate for world peace"
-s[8329] = "Let's be friends, bro"
+s[8329] = "Let's get along, big brother"
 
 ; 601 / Lance Jr. / After the battle
 s[8332] = "The man claiming to be the Demon King's son"
@@ -1518,9 +1518,9 @@ s[8333] = "Grrr!"
 ; 601 / Epilogue
 s[8334] = "Yeah, that's right!"
 s[8335] = "Avert your eyes in silence"
-s[8336] = "Yay!"
+s[8336] = "Let's do this!"
 
-s[8611] = "Stare back"
+s[8611] = "Glare back"
 s[8618] = "I promise not to die"
 
 ; 602 / Start
@@ -1540,7 +1540,7 @@ s[8757] = "Hold hands"
 s[8758] = "Move on quickly"
 
 ; 602 / Who is Demon King Rance?
-s[8759] = "I don't really care"
+s[8759] = "I don't really mind"
 s[8760] = "I won't forgive you. I'll tear you to pieces"
 
 ; 602 / Hero Geymark
@@ -1563,7 +1563,7 @@ s[8773] = "Arms Arc?"
 s[8774] = "I didn't know"
 s[8775] = "I knew"
 s[8776] = "To defeat Demon King Rance"
-s[8777] = "To visit my brother"
+s[8777] = "To go see my siblings"
 s[8778] = "Sightseeing trip"
 s[8779] = "Would you like to join me?"
 s[8780] = "Please join me if you like"
@@ -1580,10 +1580,10 @@ s[8789] = "What should I do?"
 
 ; 602 / Satera / Before the battle
 s[8790] = "There's a gate, so there's surely no way around"
-s[8791] = "I'm tired, I'll give up"
+s[8791] = "I'm tired, let's give up"
 s[8792] = "I came to see my father"
 s[8793] = "I came to defeat the Demon King"
-s[8794] = "I came to sightsee"
+s[8794] = "I came sightseeing"
 
 ; 602 / Completed
 s[8795] = "It's impossible"
@@ -1593,7 +1593,7 @@ s[8798] = "I want to get stronger"
 s[8799] = "I'll try again"
 s[8800] = "Let's do our best together"
 s[8801] = "I'll win next time"
-s[8802] = "I really want you to join my team"
+s[8802] = "I really want you to join us"
 
 ; 603 / Start
 s[8803] = "Let's do our best"
@@ -1690,8 +1690,8 @@ s[8881] = "Is that really impossible?"
 
 ; 603 / Shizuka and Nagi join
 s[8882] = "Congratulate"
-s[8883] = "Kick away"
-s[8884] = "Split"
+s[8883] = "Kick them flying"
+s[8884] = "Split him"
 
 ; 603 / Incident Occurred
 s[8885] = "Murakumo."
@@ -1708,15 +1708,15 @@ s[8895] = "I believe he's innocent"
 
 ; 603 / Mystery / Before the Battle
 s[8896] = "Let me help you"
-s[8897] = "I'm watching from here"
+s[8897] = "I'll watch from here"
 
 ; 603 / Mystery 1 / After the Battle
-s[8898] = "Perfect"
+s[8898] = "Nailed it"
 s[8899] = "I can't find anything"
 
 ; 603 / Mystery 3 / After the Battle
 s[8901] = "Of course, I knew that"
-s[8902] = "I've made a theory, but I wasn't sure"
+s[8902] = "I've made a theory, but I'm not sure"
 
 ; 603/Solution
 s[8903] = "Male Customer"
@@ -1754,12 +1754,12 @@ s[8926] = "To do something about the Demon King"
 s[8927] = "Because the adventure looked fun"
 s[8928] = "Grateful?"
 s[8929] = "I look forward to it, too"
-s[8930] = "I didn't really understand"
+s[8930] = "I don't really get it"
 s[8931] = "Pull both her ears"
 s[8932] = "No, playing pranks is not good"
 
 ; 604/About Zans
-s[8933] = "Put a mandarin orange on top of her"
+s[8933] = "Put a mandarin orange on her head"
 s[8934] = "He seems like an interesting guy"
 s[8935] = "I have to make him my ally"
 s[8936] = "I'll hold your hand, so it'll be okay"
@@ -1769,7 +1769,7 @@ s[8940] = "Plead with him to stop doing this"
 s[8941] = "Denounce him for killing over a reason like that"
 s[8942] = "Yell 'BAAALD!' at him"
 
-s[8943] = "Suddenly learn a new divine magic"
+s[8943] = "Learn a new divine magic"
 s[8944] = "Chop her head at a 45-degree angle"
 s[8945] = "Slam Nagata-kun into her head"
 s[8947] = "Buy me some juice"
@@ -1838,7 +1838,7 @@ s[8997] = "Amazing..."
 s[8998] = "I've slept with a thousand women"
 
 ; 604/Female Demon Soldier 1
-s[8999] = "Thank you"
+s[8999] = "Thank her"
 s[9000] = "Put a skewer of dumplings on her head"
 s[9001] = "It's dangerous to be alone. I'm worried, so I'll go check on him"
 s[9002] = "...I'll go eat with him"
@@ -1856,7 +1856,7 @@ s[9010] = "I'll let you touch my chest"
 
 ; 604 / Horde of Monsters
 s[9011] = "Fight head-on"
-s[9012] = "Take a detour and take a different route"
+s[9012] = "Detour and go another way"
 s[9013] = "Raise a white flag and get them to let us through"
 
 ; 604 / Fire Orb
@@ -1875,7 +1875,7 @@ s[9023] = "Let's go to Zeth"
 
 ; 604 / Beast Curse / Pre-Battle
 s[9024] = "Sure. I'll accept that"
-s[9025] = "I see, is that so..."
+s[9025] = "I see, so that's how it was"
 s[9026] = "Shy guy, you"
 
 ; 605/Tenmabashi
@@ -1941,18 +1941,18 @@ s[9072] = "I don't need a break"
 ; 605 / Rangi and Zans 2
 s[9074] = "I'll do my best"
 s[9075] = "It's a pain"
-s[9076] = "I'm not sure"
+s[9076] = "I'm not confident"
 s[9077] = "Are you on bad terms with Rangi?"
 s[9078] = "Why don't you get along with Rangi?"
 s[9079] = "Are you on bad terms with Zance?"
 s[9080] = "Can't you get along with Zance?"
 s[9081] = "Just a little"
-s[9082] = "Attacked by East Helman"
+s[9082] = "I was attacked by East Helman"
 ; will probably break her sprite - should remove if so
 s[3218] = "Tone"
 
 ; 605 / Ooni / Before the battle
-s[9083] = "Just step in and say 'Come on, come on.'"
+s[9083] = "Step in with a 'now, now'"
 s[9084] = "Turn a blind eye"
 s[9085] = "Have Nagata-kun stop it"
 ; Seems like sound effects? There were no choices like these
@@ -1960,10 +1960,10 @@ s[9085] = "Have Nagata-kun stop it"
 ; s[9087] = "Dang!"
 s[9087] = "Rock-Paper-Scissors!"
 
-s[9088] = "It's a bit hot"
+s[9088] = "This is a bit rough"
 s[9089] = "Don't like the heat?"
 s[9091] = "I think it's good"
-s[9092] = "I don't think it's good"
+s[9092] = "I think it's a bad idea"
 
 ; 605/Orb Shrine
 s[9098] = "It's underground"
@@ -1991,7 +1991,7 @@ s[9115] = "Use an item"
 s[9116] = "Run away"
 
 ; 605 / Dark Lance
-s[9119] = "Nice to meet you"
+s[9119] = "Please take care of me"
 s[9120] = "Thank you for your help"
 s[9121] = "...demon?"
 s[9122] = "Would you like to join us?"
@@ -2027,7 +2027,7 @@ s[9141] = "A genius beautiful doctor?"
 ; 606 / Miracle from Another World
 s[9143] = "Arrogant Female Voice"
 
-s[9146] = "No"
+s[9146] = "Nothing"
 
 ; 606 / Information 1
 s[9149] = "Information about Demon King Rance"
@@ -2091,8 +2091,8 @@ s[9188] = "Cheer up"
 s[9189] = "It's okay to fail"
 s[9190] = "It's okay to cause trouble"
 s[9191] = "I'll do something about it"
-s[9192] = "We're family, so we complement each other"
-s[9193] = "I love Sushinu, so I'll help you"
+s[9192] = "We're family, so we cover for each other"
+s[9193] = "I love you, Sushinu, so I'll help"
 s[9196] = "Help me when I'm in trouble, okay?"
 s[9197] = "We're family, so don't worry about it"
 s[9198] = "I'm glad you're feeling better"
@@ -2124,7 +2124,7 @@ s[9216] = "Nagata-kun and Sushinu"
 ; 607 / Accompanying Motonari
 s[9217] = "Shall we hold hands?"
 s[9219] = "Persuade"
-s[9220] = "Break an arrow"
+s[9220] = "Break the arrow"
 s[9221] = "I couldn't resist the temptation"
 s[9222] = "I wanted to know what would happen"
 s[9223] = "It looked like it would feel good to break it"
@@ -2163,7 +2163,7 @@ s[9268] = "Let's defeat that man"
 
 ; 607 / Male / King of the Naked Tribe / Before the Battle
 s[9269] = "Tell me more about the Naked Cult"
-s[9270] = "Tell me about the magic that makes you naked"
+s[9270] = "Tell me about the magic that strips people naked"
 s[9271] = "Hold hands with Sushinu"
 s[9272] = "Encourage her not to give up"
 s[9273] = "Your actions are selfish!"
@@ -2184,12 +2184,12 @@ s[9285] = "Let's hold hands"
 
 ; 607 / Female / Entering the Naked Area 1
 s[9286] = "You'll grow up someday"
-s[9290] = "I am embarrassed"
-s[9291] = "I am not embarrassed"
+s[9290] = "I'm embarrassed"
+s[9291] = "I'm not embarrassed"
 
 ; 607 / Epilogue
 s[9297] = "Look at her face with concern"
-s[9298] = "Take her forehead temperature"
+s[9298] = "Feel her forehead"
 s[9299] = "Put a steamed bun on her head"
 s[9300] = "Hehehe"
 s[9301] = "The third person."
@@ -2232,10 +2232,10 @@ s[9328] = "It's scary, but let's do our best"
 s[9329] = "Tonight we're eating Winter General hotpot"
 
 ; 608 / Winter General / After the battle
-s[9330] = "Let's watch here"
+s[9330] = "Let's watch from here"
 
 ; 608 / Ale alone
-s[9332] = "Check if anyone is nearby"
+s[9332] = "Call out to see if anyone is nearby"
 s[9333] = "Try again"
 s[9334] = "Give up, it's taking too much energy"
 s[9335] = "Escape reality to calm down"
@@ -2293,7 +2293,7 @@ s[9370] = "Stroke her cheek"
 
 ; 608 / Epilogue
 s[9371] = "Draw Nikkou"
-s[9372] = "For some reason, I managed to get it"
+s[9372] = "For some reason, I could hold it"
 s[9373] = "This is the power of the chosen one, rumble rumble"
 s[9374] = "I'm giving it back"
 s[9375] = "Can I have it?"
@@ -2302,7 +2302,7 @@ s[9377] = "Spectator A"
 s[9378] = "Spectator B"
 
 s[9380] = "Remain silent"
-s[9381] = "I'll ignore the flow and get revenge for the attack"
+s[9381] = "Ignore the mood and pay them back for the attack"
 
 ; 609/M Land 1
 s[9382] = "Is Copandon here?"
@@ -2324,7 +2324,7 @@ s[9415] = "We'll advance"
 s[9416] = "I'll defeat you in the main tournament"
 
 ; 609 / Qualifier 3 / Pre-battle
-s[9418] = "It's okay"
+s[9418] = "I'm okay"
 
 ; 609 / Tournament bracket announcement
 s[9422] = "Let's go"
@@ -2343,7 +2343,7 @@ s[9441] = "I'll give it my all"
 ; 609 / Round 1 Relikov / Pre-battle
 s[9443] = "Toushin Tournament Staff"
 s[9444] = "I'll do my best!"
-s[9445] = "I won't try my best!"
+s[9445] = "I won't do my best!"
 s[9447] = "I'm nervous"
 s[9448] = "I'm getting fired up"
 s[9449] = "I don't care"
@@ -2439,7 +2439,7 @@ s[9528] = "Why are you laughing?"
 s[9529] = "Draw Chaos"
 
 ; 609 / What to Do in the Finals
-s[9530] = "Extend and shake hands"
+s[9530] = "Reach out and shake hands"
 
 ; 609 / Festival 2
 s[9531] = "Wander around the festival"
@@ -2463,12 +2463,12 @@ s[9547] = "Just doing my best"
 s[9548] = "I need to pee..."
 
 ; Dark Rance Bond Level 5
-s[8210] = "Why fight?"
-s[8211] = "Why chase Neplacus?"
+s[8210] = "Why do you fight?"
+s[8211] = "Why are you chasing Neplacus?"
 
 ; Sushinu Bond Level 5
-s[8166] = "Dates are fun"
-s[8167] = "Sightseeing is fun"
+s[8166] = "This date is fun, isn't it?"
+s[8167] = "Sightseeing is fun, isn't it?"
 ;s[8168] = "... feel a little nervous"
 
 ; 610 / Start
@@ -2493,7 +2493,7 @@ s[8356] = "A useless queen"
 s[8361] = "A quiet pope"
 
 ; 610 / General Tiger / After Battle
-s[8366] = "Heal"
+s[8366] = "Heal her"
 
 ; 610/Gate Destroyed
 s[8370] = "Insert the last orb"
@@ -2507,7 +2507,7 @@ s[8378] = "Disagree, it's too dangerous"
 
 ; 610 / Hero Geymark / After Battle
 s[8379] = "I want to put him out of his misery..."
-s[8380] = "I don't care"
+s[8380] = "I feel nothing"
 
 ; 610 / Monster Captain 1
 s[8387] = "The voice of a violent monster"
@@ -2530,7 +2530,7 @@ s[8401] = "SX Stone Guardian"
 ; 610 / Emergency Meeting
 s[8404] = "I agree with Zance's opinion"
 s[8405] = "I agree with Rangi's opinion"
-s[8406] = "I agree with both of their opinions"
+s[8406] = "I agree with both of them"
 
 ; 610 / Many Battles
 s[8407] = "Let's take a break"
@@ -2550,13 +2550,13 @@ s[8423] = "Where am I?"
 s[8424] = "Nagata-kun?"
 
 ; 610 / Rance's Room
-s[8426] = "Well, let's fight"
+s[8426] = "No choice, let's fight"
 s[8427] = "Let's defeat him here and now"
 s[8428] = "Let's run away anyway"
 
 ; 610 / Rance's Punishment
-s[8430] = "Act surprised"
-s[8431] = "Reject"
+s[8430] = "Be surprised"
+s[8431] = "Refuse"
 s[8432] = "...Nod"
 
 ; 610/Querplan inside the body
@@ -2597,13 +2597,13 @@ s[8471] = "Nagata-kun is... well..."
 
 ; 611/Intensive Training Begins
 s[8474] = "I have no choice but to train"
-s[8475] = "Should I give up?"
+s[8475] = "Should we give up?"
 s[8480] = "Almond Sharp"
 
 ; 611 / Training Ended
 s[8486] = "I want you to let me ride on your back"
 s[8487] = "Glad to have you"
-s[8488] = "No"
+s[8488] = "No, thank you"
 
 ; 611 / Legacy of Arms
 s[8489] = "Thank you"
@@ -2643,7 +2643,7 @@ s[8584] = "Maybe there is"
 s[8585] = "No"
 
 ; ６１１／決戦前夜／長田君
-s[8588] = "What's going on at this time?"
+s[8588] = "What are you doing up at this hour?"
 s[8589] = "I confess I'm the same"
 s[8590] = "I understand and agree"
 s[8591] = "Can we win?"
@@ -2667,7 +2667,7 @@ s[8600] = "Go ahead"
 s[8601] = "I'm lonely too"
 s[8602] = "Shall we continue our adventure together?"
 s[8603] = "Did you have fun?"
-s[8604] = "It was fun"
+s[8604] = "It was fun, wasn't it?"
 
 ; 611 / The Night Before the Final Battle / Uzume
 s[8605] = "Yeah, I guess so"
@@ -2681,8 +2681,8 @@ s[8612] = "Aren't you going to say anything?"
 s[8613] = "Okay"
 s[8614] = "No"
 s[8615] = "I promise to be your subordinate"
-s[8616] = "What are you talking about?"
-s[8617] = "It's bothering me when you hide something"
+s[8616] = "What were you going to say?"
+s[8617] = "Now you've got me curious"
 
 ; 611 / The Night Before the Final Battle / Fukane
 s[8619] = "I can't sleep for some reason"
@@ -2692,7 +2692,7 @@ s[8621] = "Let's play together more"
 s[8622] = "I promise again"
 
 ; 611 / The Night Before the Final Battle / Mix
-s[8623] = "I praise you for being kind"
+s[8623] = "Tell her she's kind"
 
 ; 611 / The Night Before the Battle / Sushinu
 s[8628] = "Even without me..."
@@ -2711,7 +2711,7 @@ s[8639] = "I won't disappear"
 
 ; 611 / The Night Before the Battle / Dark Lance
 s[8640] = "Explosive Tea"
-s[8642] = "It's okay"
+s[8642] = "I'm fine"
 s[8643] = "I'm excited"
 s[8644] = "It's scary, but I'll do my best"
 
@@ -2740,7 +2740,7 @@ s[8660] = "Have you forgotten to wear at least one piece of clothing?"
 ; ６１２／サテラ／戦闘前
 s[8663] = "We're going to win this time!"
 s[8664] = "Let me through there"
-s[8665] = "I'm going to make you scream!"
+s[8665] = "I'm going to make you whimper!"
 
 ; ６１２／魔王ランス／戦闘前
 s[8666] = "Open the door"
@@ -2755,7 +2755,7 @@ s[8677] = "Block"
 s[8678] = "Deflect it"
 s[8679] = "Crouch"
 s[8680] = "Jump forward"
-s[8681] = "Hide in the shadow of the ice sculpture"
+s[8681] = "Hide behind the ice statue"
 
 ; ６１３／ランスと子供達
 s[8694] = "Pull Rance's cheeks"
