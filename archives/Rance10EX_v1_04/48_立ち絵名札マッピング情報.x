@@ -1388,7 +1388,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "なぎ　す　らがーる／", "NAGI SU RAGARL" },
 	{ "ぱすてる　からー／", "PASTEL KALAR" },
 	{ "りせっと　からー／", "RESET KALAR" },
-	{ "じいさま／", "Gramps" },
+	{ "じいさま／", "Grandpa" },
 	{ "あげは／", "Ageha" },
 	{ "まねした／", "Maneshita" },
 	{ "はるまき／", "Harumaki" },

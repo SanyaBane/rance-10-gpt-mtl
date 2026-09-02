@@ -52,7 +52,7 @@ export const GUARD_LOG_JAM = path.join(ROOT, "features", "absorbed-damage-in-log
  * it is, for a message somebody can act on without opening the dump.
  */
 const OWNED = new Map([
-    [3295, "the Fiend's invincible barrier being removed"],
+    [3295, "the Fiend's Invincibility Field being removed"],
     [3296, "the line an absorbed hit prints, \"Cannot deal damage！(<Any>)\""],
 ]);
 

@@ -117,7 +117,7 @@ FUNC 24930
 0x3c284e:
 	PUSHSTRUCTPAGE
 	PUSH 24943
-	S_PUSH "The Fiend's invincible barrier was removed！"
+	S_PUSH "The Fiend's Invincibility Field was removed！"
 	CALLMETHOD 1
 	JUMP 0x3c29a2
 0x3c2868:

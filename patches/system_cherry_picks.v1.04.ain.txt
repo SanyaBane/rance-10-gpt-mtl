@@ -371,8 +371,9 @@ s[3636] = "Read\nEntry"
 
 ; SkillEffectProcessAbsorption@Evaluate
 s[3947] = "<Enemy> was absorbed！"
-; SkillEffectProcessAddAegisEffect@Process
-s[3948] = "<AegisEffect> is in effect！"
+; SkillEffectProcessAddAegisEffect@Process. The buff being put on, against
+; s[3955] below taking one off, so the pair reads added / removed.
+s[3948] = "<AegisEffect> was added！"
 ; SkillEffectProcessAddCombo@Evaluate
 s[3949] = "Combo Added！"
 ; SkillEffectProcessAssasination@Evaluate
@@ -380,11 +381,20 @@ s[3951] = "<Enemy> was assassinated！"
 s[3952] = "Failed to assassinate <Enemy>！"
 ; SkillEffectProcessBoost@Evaluate
 s[3303] = "Boost Activated！"
-s[3955] = "Removed！"
-; SceneBattle@ShowLogActionPre
-s[3286] = " resulted in…"
-; SkillEffectProcessDecAp@GetLog
-s[3954] = "ＡＰ decreased！"
+; SkillEffectProcessDeleteAegisEffect@Evaluate -- not Boost, which is the line
+; above. This one is a suffix rather than a line: the function calls
+; LogHelper::JoinAegisEffectString, which joins the buff names with s[3945], and
+; S_ADDs this onto the end of them. So it needs the leading space the Japanese
+; particle did not, or the log reads "PoisonRemoved！", and it has to work for a
+; list as well as for one name.
+s[3955] = " removed！"
+; SceneBattle@ShowLogActionPre. A whole log line of its own -- the slot is handed
+; straight to the log constructor -- so it is the noun the Japanese is, not the
+; dangling " resulted in…" it read as before.
+s[3286] = "Result…"
+; SkillEffectProcessDecAp@GetLog. ＡＰ is full-width in the Japanese; the English
+; side of the log spells it AP everywhere else (s[3971], and s[3794] below).
+s[3954] = "AP decreased！"
 ; SkillEffectProcessShowEnemyInformation@GetLog
 s[3973] = "Enemy Analyzed！"
 ; SkillEffectProcessEnemyActionAbort@Evaluate. 行動阻止 deletes one of the queued
@@ -405,6 +415,15 @@ s[3962] = "Clausen's Hand！(success)"
 s[3969] = "A random ally went down！"
 ; SceneBattle@OnBadConditionBlockAction
 s[3271] = "<BadCondition> prevented the action！"
+
+; The separator both of the battle log's list joins use: LogHelper::JoinAegisEffectString
+; puts it between buff names for the removal line above, and
+; SkillEffectProcessLeaderState@GetLeadersName between the leaders of the "%s: %s！"
+; line below. Nothing compares it -- the third push is 表示敵本体弱点, which only
+; TadaFunc::GetEnemyWeakPoint calls and nothing calls that. The game already
+; spells the same join ", " itself in s[771], which SceneBattle@ShowAdditionalDamageLog
+; hands to the same Join helper.
+s[3945] = ", "
 
 ; SkillEffectProcessLeaderState@Evaluate, and the state names it fills in.
 ; A list of leaders and one state, so the colon rather than a verb: "is" is
@@ -436,8 +455,12 @@ s[3280] = "<Target> woke up！"
 s[3285] = "{255,200,0}Extra Action{} activated！<Player> can act once more！"
 ; SceneBattle@LogPlayerAction
 s[3294] = "■■%s's [%s]■■"
-; SceneBattle@ShowLogGuard
-s[3295] = "The Fiend's invincible barrier was removed！"
+; SceneBattle@ShowLogGuard. 無敵結界 is Invincibility Field, and had been three
+; different things: this line and s[3893] said Invincible Barrier, the buff's own
+; label s[12612] said Invincible Field, and the dialogue said both -- so a player
+; read one name on the enemy and another in the log about it. The corpus was
+; swept with the same word, 50 speeches of it.
+s[3295] = "The Fiend's Invincibility Field was removed！"
 ; SceneBattle@CreateLogNormalGuardBreak
 s[3297] = "Limit Broken！"
 ; SceneBattle@ProcessCountDown. Death Sentence is what glossaries/enemy_info_glossary.tsv
@@ -468,14 +491,37 @@ s[6438] = "Stone Guardian"
 s[7771] = "Monster A"
 s[7772] = "Monster B"
 s[7773] = "Monster C"
-s[8006] = "Devils"
+; Singular, because this slot is drawn verbatim in both places it reaches.
+; AdvNamePlate@InnerCreate uses ●台詞Ａ's `name` argument as the plate when it is
+; not empty -- Resolve and 48_立ち絵名札マッピング情報.x are the other branch, for
+; the portrait -- and ３５４／フェリス仲間入り passes this slot as `name` on the
+; twelve lines one devil speaks. That table settled 悪魔／ as "Devil" for exactly
+; that plate. On the HP bar the count is separate, so "Devil ×3" reads right too.
+s[8006] = "Devil"
 s[9610] = "Maelita Squad"
 s[12393] = "Monster Mages"
 
 s[5889] = "Holy Skeletal Tousho"
 
+; The five elemental immunities and the two innate ones, from Ｔ支援状態生成. Each
+; buff there is built from a pair: "d炎無効" is the key, quoted back inside the
+; enemy AI condition strings, and the slot after it is the name on the chip. Only
+; the second half is translatable, and these are the second halves -- every key
+; is left alone. Two of the five were English and three were not, which is what
+; put a Japanese chip beside an English one on the same enemy.
+;
+; 11_スキルデータ.x settles all seven: effect type 112 runs Fire / Ice / Lightning
+; / Light / Darkness-element across skills 1301-1305, and skills 1306 and 2008
+; are themselves called "Poison Immunity" and "Sleep Immunity". 体質 is dropped
+; from those last two the way the skill names drop it -- the chip has no room for
+; a word that only says the immunity is innate.
 s[12668] = "Fire Immunity"
 s[12670] = "Ice Immunity"
+s[12672] = "Lightning Immunity"
+s[12674] = "Light Immunity"
+s[12676] = "Darkness Immunity"
+s[12618] = "Poison Immunity"
+s[12620] = "Sleep Immunity"
 s[12203] = "Apostle Launea"
 s[12209] = "Apostle Samezan"
 
@@ -487,6 +533,12 @@ s[12209] = "Apostle Samezan"
 ; but 表示種族 pushes are commented out: the panel no longer reads them and
 ; nothing else ever did. Left here rather than deleted, because they are the
 ; record of which ones were safe.
+;
+; One of them is not that, and is commented out for a harder reason: 人類 has a
+; second push in SituationGauge@GetColorString, which is one of the two %s that
+; SituationGauge@InitParts substitutes into s[2517] = "シス／準備／進行度／%s／%s".
+; That is a CG name, so translating it would leave the war-situation gauge with
+; no image at all rather than with a Japanese word.
 ;
 ; The three still live are pushed somewhere else as well: 女の子モンスター is a
 ; speaker's nameplate, 魔物兵 and 魔法生物 are enemies' own names -- so both of those
@@ -506,7 +558,16 @@ s[7658] = "Gal Monster"
 ;s[11300] = "Demi-human"
 ;s[11301] = "Alien"
 ;s[11305] = "Apostle"
-s[6368] = "Monster Soldiers"
+; Singular, for the reason s[8006] above is: two scenes push this slot as ●台詞Ａ's
+; and ●台詞Ｅ's `name`, which AdvNamePlate@InnerCreate draws verbatim, so the
+; plural was labelling one monster soldier as a group. 48_立ち絵名札マッピング情報.x
+; keeps the distinction itself -- 魔物兵／ is "Monster Soldier" and 魔物兵達／ is
+; "Monster Soldiers" -- and race_name_glossary.tsv says the singular too. The one
+; reader that wanted the plural is the enemy plate, where the count is a separate
+; piece the .jaf appends, so "Monster Soldier ×5" reads right there as well. Every
+; other slot in this block that is both an enemy name and a nameplate was already
+; singular; this was the last plural one.
+s[6368] = "Monster Soldier"
 ;s[11306] = "Machine"
 ;s[11307] = "Cyber"
 ;s[11308] = "Generated Creature"
@@ -539,10 +600,10 @@ s[4010] = "Combined Squad"
 s[3281] = "ＭＩＳＳ (missed)"
 
 ; SceneBattle@ShowActionMiss
-s[3279] = "ＭＩＳＳ（skill activation failed）"
+s[3279] = "ＭＩＳＳ (skill activation failed)"
 
 ; BattleLog@0
-s[3909] = "<Target> suffered <BadCondition> debuff！"
+s[3909] = "<Target> suffered the <BadCondition> debuff！"
 
 ; translates, but breaks icon
 ;s[3769] = "Poison"
@@ -555,10 +616,10 @@ s[3273] = "The <Party> recovered thanks to Hanny Zippo！"
 s[3288] = "<AegisEffect>'s <Skill>！"
 s[3289] = "<Player>'s <Skill>！"
 s[3290] = "<Enemy>'s <Skill>！"
-s[3287] = "<Player>'s {255,200,0}Assist Action{}！"
+s[3287] = "<Player>'s {255,200,0}Assist Attack{}！"
 
 ; SkillEffectProcessRecoverAp@Evaluate
-s[3971] = "AP of <Any> recovered！"
+s[3971] = "<Any> AP recovered！"
 
 ; SkillEffectProcessHealing@Process
 s[3275] = "<Target> recovered {0,255,160}<Damage>{} HP！"
@@ -579,21 +640,33 @@ s[3269] = "<Target> is asleep and cannot act！"
 
 ; SceneBattle@ProcessPostPlayerTurn
 
-; BadCondition::GetDescFromType
+; BadCondition::GetDescFromType -- the debuff's own description, drawn by
+; Game/Battle/BadCondition/BadConditionDescView.pactex.x at font 24 with 字間隔 -2.
+; That part is two lines: its placeholder is 説明×12 then 説明×16, and four of the
+; Japanese descriptions carry the break themselves. The English had been written
+; as one long line in twelve of the fourteen, and one line is all the box draws
+; before the text runs off it -- s[3792] was 2192 px against the 1104 the
+; placeholder states and the 1226 the widest Japanese line proves.
+;
+; So they are laid onto the two lines the part already has. Ten needed nothing
+; but the break; s[3782] and s[3787] hold more English than two lines draw and
+; were shortened by meaning, which is the only thing here that is a translation
+; change rather than a layout one. Every one of the fourteen is now inside the
+; placeholder's own width, not merely inside what the Japanese happens to use.
 s[3781] = "Causes action failure"
-s[3782] = "Attack power decreases, making the\runit more vulnerable to damage"
-s[3783] = "Takes damage every round"
-s[3784] = "Takes damage when the effect ends"
+s[3782] = "Attack power drops,\rtakes more damage"
+s[3783] = "Takes damage\revery round"
+s[3784] = "Takes damage when\rthe effect ends"
 s[3785] = "Accuracy decreases"
-s[3786] = "HP can no longer be recovered"
-s[3787] = "Becomes unable to act, evasion rate\rdrops to 0, cured when taking damage"
-s[3788] = "Fire attribute damage increases"
-s[3789] = "Ice attribute damage increases"
-s[3790] = "Lightning attribute damage increases"
-s[3791] = "Attack power greatly decreases"
-s[3792] = "HP and damage values are no longer displayed"
-s[3793] = "Dies instantly when reaching zero"
-s[3794] = "Recovered AP decreases by 1"
+s[3786] = "HP can no longer\rbe recovered"
+s[3787] = "Cannot act, evasion 0,\rcured when damaged"
+s[3788] = "Fire attribute\rdamage increases"
+s[3789] = "Ice attribute\rdamage increases"
+s[3790] = "Lightning attribute\rdamage increases"
+s[3791] = "Attack power\rgreatly decreases"
+s[3792] = "HP and damage values\rare no longer shown"
+s[3793] = "Dies instantly\rwhen reaching zero"
+s[3794] = "Recovered AP\rdecreases by 1"
 
 ; Buffs
 s[12461] = "Morale"
@@ -601,21 +674,21 @@ s[12572] = "Meal Ticket"
 s[12602] = "Green Body"
 s[12603] = "Blue Body"
 s[12604] = "Red Body"
-s[12639] = "Puryo Body(1/2)"
-s[12640] = "Puryo Body(2/2)"
+s[12639] = "Puryo Body (1/2)"
+s[12640] = "Puryo Body (2/2)"
 
 s[12632] = "Reflective"
 s[12467] = "Bishamonten"
 s[4704] = "Grandpa"
-s[4831] = "Swallowtail"
+s[4831] = "Ageha"
 s[12177] = "Split Pigu (1/4)"
 s[12178] = "Split Pigu (2/4)"
 s[12179] = "Split Pigu (3/4)"
 s[12180] = "Split Pigu (4/4)"
-s[12718] = "Heavy Armor １"
-s[12719] = "Heavy Armor ２"
-s[12720] = "Heavy Armor ３"
-s[12721] = "Heavy Armor ５"
+s[12718] = "Heavy Armor 1"
+s[12719] = "Heavy Armor 2"
+s[12720] = "Heavy Armor 3"
+s[12721] = "Heavy Armor 5"
 s[12441] = "Wall"
 s[12576] = "Sensor Jizo"
 s[12472] = "Magic Circle (1/4)"
@@ -626,10 +699,10 @@ s[12734] = "Magic Barrier"
 s[12190] = "Zeth Magic Weapon"
 s[12757] = "Rolulu Horus"
 s[12609] = "Flying"
-s[12426] = "Defence (1/4)"
-s[12427] = "Defence (2/4)"
-s[12428] = "Defence (3/4)"
-s[12429] = "Defence (4/4)"
+s[12426] = "Defense (1/4)"
+s[12427] = "Defense (2/4)"
+s[12428] = "Defense (3/4)"
+s[12429] = "Defense (4/4)"
 s[12523] = "Strategy (1/6)"
 s[12524] = "Strategy (2/6)"
 s[12525] = "Strategy (3/6)"
@@ -640,13 +713,14 @@ s[12732] = "Gate Preparation"
 s[12503] = "Evasive"
 s[12626] = "Lei's Body"
 s[12624] = "Lei's Counter"
-s[12612] = "Invincible Field"
+; 無敵結界, the same one s[3295] and s[3893] name -- see the note by s[3295].
+s[12612] = "Invincibility Field"
 s[12304] = "Patton Corps"
 s[10738] = "Toushin Zeta"
-s[12435] = "Phys Def １"
-s[12437] = "Phys Def １＋"
-s[12446] = "Phys Def ２"
-s[12454] = "Phys Def ３"
+s[12435] = "Phys Def 1"
+s[12437] = "Phys Def 1+"
+s[12446] = "Phys Def 2"
+s[12454] = "Phys Def 3"
 s[12540] = "Ambush"
 s[12395] = "Supply Monsters"
 s[12391] = "Ranged Monsters"
@@ -654,7 +728,7 @@ s[12389] = "Assault Monsters"
 
 s[3475] = "%s's %s"
 s[3478] = "Four Cards of Same Attribute"
-s[3476] = "Five Card of Same Attribute"
+s[3476] = "Five Cards of Same Attribute"
 s[3480] = "Damage halved!"
 s[3481] = "Damage nullified!"
 s[3482] = "Experience x2!"
@@ -676,7 +750,7 @@ s[3890] = "Unknown Effect"
 
 ; DamageInformation@GuardReasonText::get
 s[3891] = "Limit Break"
-s[3893] = "Fiend's Invincible Barrier"
+s[3893] = "Fiend's Invincibility Field"
 s[174]  = "Unknown"
 ; s[3892] 属性無効 is this reason too, translated under
 ; SkillEffectProcessDamageSelf@GetLog below, which pushes the same slot.

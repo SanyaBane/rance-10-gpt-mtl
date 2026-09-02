@@ -10273,7 +10273,7 @@ tree カード情報 = {
 	},
 	"魔剣 カオス" = {
 		説明１ = "A rare talking sword",
-		説明２ = "Breaks Invincible Field",
+		説明２ = "Breaks Invincibility Field",
 		説明３ = "Lewd",
 	},
 	"魔剣 真カオス" = {
@@ -10819,7 +10819,7 @@ tree カード情報 = {
 	"聖刀 日光" = {
 		説明１ = "An smart sword, twin",
 		説明２ = "to Demon Sword Chaos",
-		説明３ = "Break Invincible Field",
+		説明３ = "Break Invincibility Field",
 	},
 	耐性宝冠アレル = {
 		説明１ = "Radiance from the crown",
