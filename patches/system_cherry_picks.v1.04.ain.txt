@@ -2829,3 +2829,59 @@ s[3500] = "%s (turn %d) over"
 ; against `alice ain dump -C --no-macros`: S_PUSH 0xa69 and S_PUSH 0xa6a.
 s[2665] = "El Mofus"
 s[2666] = " Mofus"
+
+; The 21 choices nobody had translated.
+;
+; FUNC 23320 -- `■選択肢(string caption)`, CALLFUNC 0x5b18 -- draws every
+; answer the player clicks, and its argument comes from 882 slots. 861 were
+; here already; these are the rest, found by collecting the S_PUSH before each
+; call in `alice ain dump -C --no-macros` rather than by reading the file.
+;
+; Two of them are the silent option, which is most of the count: s[6970] is
+; pushed by 36 menus of the 442 and s[9500] by one. The corpus renders
+; 「…………。」 as twelve dots in 4663 places, so they do too.
+
+; 941 / Krook's trial. Ludrasoum is asked to pick between the two, and answers
+; in a drawl the tilde carries and English has to do without.
+s[6950] = "Peace is better, don't you think"
+s[6951] = "Destruction is more fun"
+s[6953] = "Look around"
+
+; The silent option, and the goodbye beside it in 941.
+s[6970] = "............"
+s[9500] = "............"
+s[6971] = "Bye-bye"
+
+; 長田君２ / friendship E. Doss and Wass are inventing a 合体技 and ask El
+; for ideas, so these two are the names of moves rather than descriptions of
+; them, and they are capitalised the way a move name is.
+s[8067] = "Nagata-kun Throw"
+s[8068] = "Nagata-kun Guard"
+
+; ドッスワッス / friendship E. The two of them have carried El to the tent and
+; Doss is apologising for having had to; 二人とも is both of them.
+s[8076] = "It felt kind of nice"
+s[8077] = "Thank you both, as always"
+
+; 松下姫 / friendship E. She cannot reach it and you can.
+s[8082] = "Get it for her"
+s[8083] = "Pick up Princess Panasonic"
+
+; 611 / the night before. One apiece for Uzume, Tone, Sushinu and Motonari,
+; each answering the line that character has just said.
+s[8607] = "I want you to come back safe too, Uzume"
+s[8620] = "I'm glad you didn't die"
+s[8627] = "You're strong, Sushinu"
+s[8632] = "I haven't thought about it at all"
+s[8633] = "You've thought about it more than I'd have guessed..."
+
+; Dark Lance offers a drink. s[8640] beside it is the other one, and the corpus
+; line that offers them both calls this one Lemon Tanimura.
+s[8641] = "Lemon Tanimura"
+
+; Yes to a question each, where the no was translated and the yes was not.
+s[8974] = "There is"
+s[9029] = "I have"
+
+; 609 / round two.
+s[9476] = "Don't touch Reset"
