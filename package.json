@@ -14,6 +14,7 @@
         "regenerate-enemy-party-names": "node scripts/extract_enemy_party_names.js",
         "regenerate-font-widths": "node scripts/extract_font_widths.js",
         "regenerate-race-names": "node scripts/extract_race_names.js",
+        "regenerate-title-keys": "node scripts/extract_title_keys.js",
         "regenerate-ex": "node scripts/ex.js",
         "regenerate-pack": "node scripts/pack.js"
     },

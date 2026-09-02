@@ -328,6 +328,18 @@ is generated from `patches/system_cherry_picks.v1.04.ain.txt` itself, so the two
 cannot drift apart the way a glossary row keyed on a slot the cherry-picks have
 already translated does. `docs/party-bonus-icons.md`.
 
+**The same override runs backwards for a lookup key, and a title block is full
+of them.** `Ｔ肩書き` is 313 compares of a character's name answered by some 250
+title slots, and the cherry-picks hold both in one block in the same syntax --
+nothing about a line says which it is. `AdvNamePlate@InnerCreate` asks it with
+the Japanese name it splits out of the standing CG, so a key that was translated
+stops matching and the character simply loses the line under their name, with
+the plate still drawing fine. Four such keys nothing draws went back to
+Japanese; the eleven that are also a `FriendPanel` name, a `●台詞` argument or a
+buff's `desc` keep their English and `build/title_keys.jaf` hands the Japanese
+back to `super()`. `game/extracted/title_keys.v1.04.tsv` is which slots are keys,
+because that is in the code and nowhere else. `docs/title-keys.md`.
+
 **And sometimes the function is shared too, so patch the caller.** A card's
 faction is worse than a shared string: `getOrganizationNameFromId` has nineteen
 callers and eighteen of them paste the word into a *CG name* — the card's

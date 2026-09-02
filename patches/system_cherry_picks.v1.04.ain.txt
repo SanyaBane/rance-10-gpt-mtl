@@ -1251,7 +1251,11 @@ s[10859] = "Fiend Ruling the Monster Realm"
 s[10860] = "Apostle of Kayblis"
 s[10862] = "Kayblis Faction Fiend"
 s[10192] = "Kesselring's Maid"
-s[10872] = "RedEye Magical Monster Soldier"
+; Not s[10872] either, and for the same reason: レッドアイ魔法魔物兵 has one push in
+; the whole game, in Ｔ肩書き, answered by S_EQUALE. It is the key its own title
+; s[10873] is filed under and nothing draws it. build/title_keys.jaf exists for
+; the keys that are also drawn somewhere; this one is not.
+;s[10872] = "RedEye Magical Monster Soldier"
 s[10873] = "Kayblis Faction Fiend (Parasite in Monster)"
 s[10875] = "Kayblis Faction Fiend (Parasite in Anise)"
 s[10877] = "Kayblis Faction Fiend (Parasite in Toppos)"

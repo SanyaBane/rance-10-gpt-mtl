@@ -23,6 +23,7 @@ import {checkGuardLog} from "../modules/GuardLog.js";
 import {ORGANIZATION_JAF, renderOrganizationNamesJaf} from "../modules/OrganizationNames.js";
 import {PARTY_BONUS_ICON_JAF, renderPartyBonusIconsJaf} from "../modules/PartyBonusIcons.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
+import {renderTitleKeysJaf, TITLE_FUNCTION, TITLE_KEY_JAF} from "../modules/TitleKeys.js";
 import {isTranslated, regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
 
 /**
@@ -39,15 +40,17 @@ const node = (args) => {
 };
 
 /**
- * The three translations that patch a function rather than a string: the race
- * on the enemy status panel, the name over the enemy's HP bar, and the party
- * bonus icons. The first two are generated from a hand-written glossary, by
- * modules/RaceNames.js and modules/EnemyPartyNames.js, and each says why it
- * cannot be a translated string -- the words are keys somewhere else.
+ * The four translations that patch a function rather than a string: the race on
+ * the enemy status panel, the name over the enemy's HP bar, the party bonus
+ * icons, and the title under a speaker's name. The first two are generated from
+ * a hand-written glossary, by modules/RaceNames.js and modules/EnemyPartyNames.js,
+ * and each says why it cannot be a translated string -- the words are keys
+ * somewhere else.
  *
- * The third is the same problem from the other end: those names *are* already
- * translated strings, and modules/PartyBonusIcons.js undoes that for the one
- * caller that wants a CG name rather than a label.
+ * The last two are the same problem from the other end: those names *are*
+ * already translated strings, and the .jaf undoes that for the one caller that
+ * wanted the Japanese -- a CG name in modules/PartyBonusIcons.js, a lookup key
+ * in modules/TitleKeys.js.
  *
  * Written here rather than by the dialogue generator because none is dialogue
  * and none varies by text language; alice-tools takes as many --jaf as it is
@@ -65,6 +68,13 @@ const GENERATED_JAF = [
         file: ENEMY_PARTY_JAF,
         overlong: "wider than the HP bar it labels",
         stale: (japanese) => `the game has no enemy called ${JSON.stringify(japanese)}`,
+    },
+    {
+        render: renderTitleKeysJaf,
+        file: TITLE_KEY_JAF,
+        overlong: "too wide for the speaker's nameplate",
+        stale: (slot) => `${slot} is one of ${TITLE_FUNCTION}'s keys and the dump has no`
+            + " string for it, so that character keeps whatever title they have",
     },
     {
         render: renderPartyBonusIconsJaf,
@@ -206,6 +216,13 @@ run(async () => {
              * translated label has to be undone for one caller.
              */
             "--jaf", path.relative(ROOT, PARTY_BONUS_ICON_JAF),
+            /*
+             * The Japanese behind a character's English name, for the title
+             * Ｔ肩書き files under it. Nothing resolves against this one
+             * either; modules/TitleKeys.js says why twelve names have to be
+             * handed back in Japanese to a function nothing else calls.
+             */
+            "--jaf", path.relative(ROOT, TITLE_KEY_JAF),
             /*
              * The enemy panel's two card Ids in English. Not optional -- it is
              * translation -- and after the .jaf above, whose CardEnglishLabel
