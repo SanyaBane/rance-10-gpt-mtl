@@ -1402,7 +1402,7 @@ s[8247] = "Well, I look forward to working with you"
 
 ; 601 / Camping with Nagata
 s[6972] = "Thank you"
-s[8248] = "I don't really need it"
+s[8248] = "...I don't really need it"
 s[8249] = "Put a mandarin orange on his head"
 
 ; 601 / Where is our destination?
@@ -1465,8 +1465,8 @@ s[8288] = "You can go home now"
 s[8292] = "Help"
 s[8293] = "Stare intently"
 s[8294] = "See you again someday!"
-s[8295] = "But I still want to see Rance Jr.!"
-s[8296] = "I can't back down for the sake of the village!"
+s[8295] = "But I still want to see Rance Jr."
+s[8296] = "I can't back down for the sake of the village"
 s[8297] = "Everyone who stands in my way is my enemy. Let's fight!"
 
 ; 601 / Rocky / After Battle
@@ -1653,7 +1653,7 @@ s[8845] = "A young mother"
 ; 603 / Encounter with Reset
 s[8846] = "Let's do our best tomorrow too"
 s[8847] = "We'll definitely recruit Reset"
-s[8848] = "Is the food ready yet?"
+s[8848] = "...Is the food ready yet?"
 s[5320] = "The waitress"
 s[6714] = "The mysterious girl"
 s[8850] = "I'm having trouble finding her"
@@ -1876,7 +1876,7 @@ s[9023] = "Let's go to Zeth"
 ; 604 / Beast Curse / Pre-Battle
 s[9024] = "Sure. I'll accept that"
 s[9025] = "I see, is that so..."
-s[9026] = "... Shy guy"
+s[9026] = "Shy guy, you"
 
 ; 605/Tenmabashi
 s[9027] = "Yeah, that's amazing"
@@ -2098,7 +2098,7 @@ s[9197] = "We're family, so don't worry about it"
 s[9198] = "I'm glad you're feeling better"
 s[9199] = "I'm sorry too"
 s[9200] = "It was an accident, so don't worry about it"
-s[9201] = "It was soft..."
+s[9201] = "It was soft"
 
 ; 607 / Zess Departure
 s[9202] = "Are you okay?"
@@ -2319,7 +2319,7 @@ s[9405] = "Show Me Your Adult Side"
 
 ; 609 / Qualifier 2
 s[9412] = "You're Dogi Magi!"
-s[9413] = "Who are you?"
+s[9413] = "Who are you!?"
 s[9415] = "We'll advance"
 s[9416] = "I'll defeat you in the main tournament"
 
@@ -2349,7 +2349,7 @@ s[9448] = "I'm getting fired up"
 s[9449] = "I don't care"
 
 ; 609 / Relikov and the Waiting Room
-s[9450] = "I won't do that!"
+s[9450] = "I won't do that"
 s[9451] = "You mean?"
 s[9452] = "Then you'll take her place, big sister..."
 
@@ -2405,7 +2405,7 @@ s[9489] = "That's really disappointing..."
 s[9490] = "Yes, thank you"
 s[9491] = "I'll do my best"
 s[9492] = "I want to embrace you..."
-s[9493] = "I understand..."
+s[9493] = "I understand"
 
 ; 609 / Bar 2
 s[9495] = "Haniko?"
@@ -2503,7 +2503,7 @@ s[8374] = "I don't really get it"
 
 ; 610 / Hero Geymark / Pre-battle
 s[8377] = "Agree, let's defeat him"
-s[8378] = "Disgree, it's too dangerous"
+s[8378] = "Disagree, it's too dangerous"
 
 ; 610 / Hero Geymark / After Battle
 s[8379] = "I want to put him at ease..."
@@ -2783,7 +2783,7 @@ s[8711] = "Let's go and check on her"
 s[8731] = "Maybe..."
 
 ; ６１３／エピローグ
-s[8735] = ".... Is it finally over?"
+s[8735] = "...Is it over?"
 s[8736] = "Quelplan?"
 
 ; BraveModeView@SetParam
