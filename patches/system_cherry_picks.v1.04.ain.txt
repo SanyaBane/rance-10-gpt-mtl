@@ -1352,15 +1352,15 @@ s[8114] = "Even when sleeping?"
 s[8128] = "I think we can win if we try our best"
 s[8129] = "Zance is stronger"
 s[8137] = "Did something happen?"
-s[8140] = "Doodle on their face"
-s[8141] = "Cover them with a blanket"
+s[8140] = "Doodle on his face"
+s[8141] = "Cover him with a blanket"
 s[8150] = "Let's go on a date"
 s[8151] = "Let me pat your head"
 s[8168] = "I was a little nervous"
 s[8180] = "That was fun. Let's do it again"
 s[8181] = "It's not fun"
-s[8186] = "Want to try it too, Lelikov Helman?"
-s[8187] = "You'll do it with someone wonderful someday, Lelikov Helman"
+s[8186] = "Want to try it too, Lelikov?"
+s[8187] = "You'll do it with someone wonderful someday, Lelikov"
 
 ; Part 2 / Start
 s[8213] = "Mother's Voice"
@@ -1470,7 +1470,7 @@ s[8296] = "I can't back down for the sake of the village"
 s[8297] = "Everyone who stands in my way is my enemy. Let's fight!"
 
 ; 601 / Rocky / After Battle
-s[8298] = "Treat injuries"
+s[8298] = "Treat his injuries"
 s[8299] = "Leave him alone"
 s[8300] = "Finish him off"
 s[8301] = "Why are you so concerned about Rance Jr.?"
@@ -1622,7 +1622,7 @@ s[8819] = "Destroy the demon"
 s[8820] = "Try talking to him"
 
 ; 603/About Dark Rance
-s[8823] = "Yeah, it was cool"
+s[8823] = "Yeah, he was cool"
 s[8824] = "I was surprised..."
 s[8825] = "I'm cooler than him"
 s[8826] = "We'll meet again someday"
@@ -1770,7 +1770,7 @@ s[8941] = "Accus him for killing you for such a reason"
 s[8942] = "Curse him"
 
 s[8943] = "Suddenly learn a new divine magic"
-s[8944] = "Chop his head at a 45-degree angle"
+s[8944] = "Chop her head at a 45-degree angle"
 s[8945] = "I'll hit Nagata-kun on the head"
 s[8947] = "Buy me some juice"
 s[8948] = "Can I give you a naughty command?"
@@ -1839,7 +1839,7 @@ s[8998] = "I've slept with a thousand women"
 
 ; 604/Female Demon Soldier 1
 s[8999] = "Thank you"
-s[9000] = "Put a skewer of dumplings on their head"
+s[9000] = "Put a skewer of dumplings on her head"
 s[9001] = "It's dangerous to be alone. I'm worried, so I'll go and check on you"
 s[9002] = "...I'll eat dinner with you"
 s[9003] = "I'll just check on you"
@@ -1852,7 +1852,7 @@ s[9007] = "Don't touch her"
 s[9008] = "Poor guy..."
 s[9009] = "Sounds painful"
 ; Unsure
-s[9010] = "I'll let you touch my breasts"
+s[9010] = "I'll let you touch my chest"
 
 ; 604 / Horde of Monsters
 s[9011] = "Fight head-on"
@@ -2021,7 +2021,7 @@ s[9138] = "Greet her casually"
 
 ; 606/Otherworld Mix 4
 s[9139] = "Mix-chan?"
-s[9140] = "To-san?"
+s[9140] = "Tou-san?"
 s[9141] = "A genius beautiful doctor?"
 
 ; 606 / Miracle from Another World
@@ -2036,7 +2036,7 @@ s[9151] = "Miracle's age"
 
 ; 606 / Information 2
 s[9153] = "About the Demon King's children"
-s[9154] = "What does Miracle think of the Demon King?"
+s[9154] = "What do you think of the Demon King, Miracle?"
 s[9155] = "About romance with the opposite sex"
 
 ; 606 / Information 3
@@ -2165,18 +2165,18 @@ s[9268] = "Let's defeat that man"
 s[9269] = "Tell me more about the Naked Cult"
 s[9270] = "Tell me about the magic that makes you naked"
 s[9271] = "Hold hands with Sushinu"
-s[9272] = "Encourage him not to give up"
+s[9272] = "Encourage her not to give up"
 s[9273] = "Your actions are selfish!"
 s[9274] = "Everyone is different!"
 s[9275] = "No words needed. Take off your clothes and take your weapon"
 
 ; 607 / Male / King of the Naked Tribe / After the Battle
 s[9277] = "I didn't do anything"
-s[9278] = "Sushinu looked cool"
+s[9278] = "You looked cool, Sushinu"
 s[9279] = "I'm always here to help you"
 
 ; 607 / Entering the Naked Area / Female Route
-s[9280] = "Is Zance coming too?"
+s[9280] = "Are you coming too, Zance?"
 s[9281] = "Wait here"
 
 ; 607 / Female / Entering the Naked Area
@@ -2209,7 +2209,7 @@ s[9307] = "Just be yourself and you'll be fine"
 
 ; 608/Strategy Meeting
 s[9308] = "Put pork soup on Rangi's head"
-s[9309] = "I'm looking forward to meeting Lelikov Helman"
+s[9309] = "I'm looking forward to meeting Lelikov"
 s[9310] = "Follow me!"
 s[9311] = "Let's all work together and do our best!"
 
@@ -2257,7 +2257,7 @@ s[9344] = "Get help"
 s[9345] = "Do nothing"
 
 ; 608/Recuperation
-s[9346] = "Did Mix heal me?"
+s[9346] = "Did you heal me, Mix?"
 s[9347] = "Thank you for healing me"
 s[9348] = "Pat Mix's head"
 s[9349] = "I think I'm fine now"
@@ -2288,8 +2288,8 @@ s[9366] = "It was fun"
 
 ; 608 / Sunlight Ritual
 s[9367] = "What should we do?"
-s[9369] = "Touch the chest"
-s[9370] = "Stroke the cheek"
+s[9369] = "Touch her chest"
+s[9370] = "Stroke her cheek"
 
 ; 608 / Epilogue
 s[9371] = "Draw Nikkou"
@@ -2318,7 +2318,7 @@ s[9404] = "Do Your Best"
 s[9405] = "Show Me Your Adult Side"
 
 ; 609 / Qualifier 2
-s[9412] = "You're Dogi Magi!"
+s[9412] = "You're Dogi!"
 s[9413] = "Who are you!?"
 s[9415] = "We'll advance"
 s[9416] = "I'll defeat you in the main tournament"
@@ -2583,7 +2583,7 @@ s[8454] = "There's still something I can do"
 s[8455] = "I want to win this time"
 s[8456] = "I don't want to give up"
 s[8457] = "If we get stronger, we can win"
-s[8458] = "Doesn't Lelikov Helman want to win?"
+s[8458] = "Doesn't Lelikov want to win?"
 s[8459] = "If we work together properly, we can win"
 s[8460] = "We can win"
 s[8462] = "If we don't fight, it's the same in the end"
@@ -2654,8 +2654,8 @@ s[8593] = "Of course I remember"
 s[8594] = "I want us to continue being together"
 
 ; 611 / The Night Before the Battle / Princess Panasonic
-s[8595] = "Is Princess Panasonic scared too?"
-s[8596] = "It's surprising that Princess Panasonic is nervous"
+s[8595] = "Are you scared too, Princess Panasonic?"
+s[8596] = "It's surprising that you get nervous, Princess Panasonic"
 s[8597] = "I won't go away"
 s[8598] = "It'll be fine"
 s[8599] = "I promise"
@@ -2671,7 +2671,7 @@ s[8604] = "It was fun"
 
 ; 611 / The Night Before the Final Battle / Uzume
 s[8605] = "Yeah, I guess so"
-s[8606] = "Uzume doesn't need to do that"
+s[8606] = "You don't need to do that, Uzume"
 s[8608] = "I promise I'll come back alive"
 
 ; 611 / The Night Before the Final Battle / Zans
@@ -2710,7 +2710,7 @@ s[8638] = "Is this right?"
 s[8639] = "I won't disappear"
 
 ; 611 / The Night Before the Battle / Dark Lance
-s[8640] = "Bomb-Bomb Tea"
+s[8640] = "Explosive Tea"
 s[8642] = "It's okay"
 s[8643] = "I'm excited"
 s[8644] = "It's scary, but I'll do my best"
