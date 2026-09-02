@@ -743,7 +743,7 @@ s[3970] = "<Player> has ranked up！"
 ; AdditionalDamage@Name::get
 s[3885] = "Special Move Effect"
 s[3886] = "Attribute Effect"
-s[3887] = "Species Effect"
+s[3887] = "Race Effect"
 s[3888] = "Combo Effect"
 s[3889] = "Status Effect"
 s[3890] = "Unknown Effect"
@@ -752,14 +752,14 @@ s[3890] = "Unknown Effect"
 s[3891] = "Limit Break"
 s[3893] = "Fiend's Invincibility Field"
 s[174]  = "Unknown"
-; s[3892] 属性無効 is this reason too, translated under
-; SkillEffectProcessDamageSelf@GetLog below, which pushes the same slot.
+; s[3892] 属性無効 is the third reason; it sits with the guard log below,
+; beside the line it is substituted into.
 
 ; SkillEffectExecuter@InnerProcess
 s[3946] = "No Effect！"
 
 ; SkillEffectProcessDeleteBadCondition@Evaluate
-s[3956] = "Status ailments / Stun / Petrification have been removed!"
+s[3956] = "Status Ailments / Stun / Petrification have been removed！"
 
 ; SkillEffectProcessPostDown@GetLog
 s[3968] = "Down after action！"
@@ -769,23 +769,34 @@ s[3278] = "Defense activated！"
 
 ; SkillEffectProcessDamageSelf@GetLog
 s[3972] = "<Target> caused a massive explosion！"
+
+; SceneBattle@ShowLogGuard. <Any> is DamageInformation@GuardReasonText::get,
+; so the three reasons above read as the parenthetical of this line -- which
+; is why they are noun phrases and capitalised alike.
 s[3296] = "Cannot deal damage！(<Any>)"
-s[3892] = "Attribute nullified"
+; DamageInformation@GuardReasonText::get, the third of its reasons.
+s[3892] = "Attribute Nullified"
 
 ; SceneBattle@IsEnemySkillActionFailed
 ; s[3292] is one line for two causes: an action s[3958] has just deleted, and a
 ; skill whose own 発動条件 did not hold. The second is why it does not say
 ; interrupted -- nothing interrupted a skill that never qualified to run.
 s[3292] = "<Enemy>'s <Skill> was prevented！"
-s[3291] = "<BadCondition> stunned the <Player>！"
+s[3291] = "<BadCondition> stunned <Player>！"
 s[3963] = "<BadCondition> prevented recovery！"
 s[3272] = "<Enemy> was defeated！"
 
-; PartyBonus@GetName
+; PartyBonus@GetName. Every one of these is a CG name as well as a label:
+; PartyBonus@GetIconSubName hands what this returns to
+; s[3029] = "シス／部隊ボーナス／アイコン／%s", so a translated name asks for an
+; icon no archive has and the button draws none. build/party_bonus_icons.jaf
+; puts the Japanese back on the way to SetCg and is generated from these very
+; lines, so editing one here needs nothing done there.
+; docs/party-bonus-icons.md, and modules/PartyBonusIcons.js.
 s[4020] = "Add Leader Slot"
 s[4021] = "Increase Max AP"
 s[4022] = "AP Recovery"
-s[4023] = "Early Switch"
+s[4023] = "Leader Swap"
 s[4024] = "Unl. Gods/Demons"
 s[4025] = "Boost Chance"
 s[4026] = "Kill Follow-up"
@@ -794,11 +805,30 @@ s[4028] = "Physical Boost"
 s[4029] = "Magic Boost"
 s[4030] = "EXP Gain"
 s[4031] = "Boost Items ★"
-s[4032] = "Rare Card Rate+"
+s[4032] = "Rare Luck Up"
 s[4033] = "Hanny Zippo"
 s[4034] = "All-Stat Up"
-s[4035] = "Stat Limit Cap"
-s[4037] = "+1 On Even Turns"
+s[4035] = "Stat Cap Up"
+
+; PartyBonus@GetDesc, the second row of the same button. The other three it
+; returns carry no words: "＋%D" and "＋%D％" are formats, and "６→１０" is what
+; ApMaxUp does to the AP bar -- which is how that one is known to be the AP
+; gauge rather than a rank.
+;
+; Do not measure this panel with gameTextWidth. Its フォントサイズ is 32 and the
+; table in game/extracted/font_advances.v1.04.tsv is one block of the font
+; scaled to any size, so it made "Add Leader Slot" 251 px against a Japanese
+; worst case of 240 -- and on the screen that label has most of a word to
+; spare. modules/OrganizationNames.js records the same finding for the card.
+; The instrument here is a screenshot of the panel.
+s[4037] = "+1 on even turns"
+
+; Not s[4039] 全アイテム強化 or s[4040] 部隊強化. They are the only two strings
+; PartyBonus@GetIconSubName returns without asking GetName -- the first for the
+; one bonus whose own name carries a ★, the second as its fallback -- so both go
+; straight into s[3029] and are CG names rather than text.
+; archives/Rance10CG2_manifest.txt lists
+; シス／部隊ボーナス／アイコン／全アイテム強化.ajp under exactly that name.
 
 ; ClearPointBonus@Name::get
 s[3985] = "Unit Rank Increase"

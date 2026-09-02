@@ -316,6 +316,18 @@ strings keep their Japanese, so nothing that compares text notices, and `super()
 gives a fallback that can only ever produce the original Japanese. See
 `docs/race-names.md` and `docs/enemy-party-names.md`.
 
+**And when it is the other way round — the string is already English and one
+caller wanted the Japanese — the override runs backwards.** The sixteen party
+bonus names are a label on the button and half of the icon's CG name, because
+`PartyBonus@GetIconSubName` hands what `GetName` returns to
+`"シス／部隊ボーナス／アイコン／%s"`. They had been translated for years and every one
+of those icons was blank. `build/party_bonus_icons.jaf` overrides that one
+accessor and maps the English back to the Japanese the archive files the icon
+under, so the label stays English and `SetCg` gets what it always got. Its table
+is generated from `patches/system_cherry_picks.v1.04.ain.txt` itself, so the two
+cannot drift apart the way a glossary row keyed on a slot the cherry-picks have
+already translated does. `docs/party-bonus-icons.md`.
+
 **And sometimes the function is shared too, so patch the caller.** A card's
 faction is worse than a shared string: `getOrganizationNameFromId` has nineteen
 callers and eighteen of them paste the word into a *CG name* — the card's

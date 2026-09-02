@@ -290,6 +290,17 @@ instead of `Monster Soldiers(25匹)`. `npm run regenerate-enemy-party-names` re-
 the `.ain`, and `npm run regenerate-ain` generates the `.jaf` and applies it. See
 [docs/enemy-party-names.md](docs/enemy-party-names.md).
 
+### The party bonus icons
+
+The same problem inside out. The sixteen party bonus names were translated as ordinary strings, and
+`PartyBonus@GetIconSubName` hands what that accessor returns to `"シス／部隊ボーナス／アイコン／%s"` — so
+the button asked for an icon called `Add Leader Slot`, which no archive has, and every one of those
+icons has been blank ever since. The label is worth keeping in English, so the override runs the
+other way: `build/party_bonus_icons.jaf` maps the English back to the Japanese the icon is filed
+under, on the one call that wants a CG name. Its table is generated from the cherry-picks
+themselves, so the two cannot drift. `npm run regenerate-ain` generates it and applies it. See
+[docs/party-bonus-icons.md](docs/party-bonus-icons.md).
+
 ### The name over your own HP bar
 
 The plate at the other end of the same screen is the one surface here that needed no new machinery.

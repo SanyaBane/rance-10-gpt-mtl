@@ -21,6 +21,7 @@ import {ensureBuild, ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
 import {checkGuardLog} from "../modules/GuardLog.js";
 import {ORGANIZATION_JAF, renderOrganizationNamesJaf} from "../modules/OrganizationNames.js";
+import {PARTY_BONUS_ICON_JAF, renderPartyBonusIconsJaf} from "../modules/PartyBonusIcons.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
 import {isTranslated, regeneratedTxt, textLangName} from "../modules/TextLanguages.js";
 
@@ -38,15 +39,19 @@ const node = (args) => {
 };
 
 /**
- * The two translations that patch a function rather than a string: the race on
- * the enemy status panel, and the name over the enemy's HP bar. Both are
- * generated from a hand-written glossary, by modules/RaceNames.js and
- * modules/EnemyPartyNames.js, and each says why it cannot be a translated
- * string -- the words are keys somewhere else.
+ * The three translations that patch a function rather than a string: the race
+ * on the enemy status panel, the name over the enemy's HP bar, and the party
+ * bonus icons. The first two are generated from a hand-written glossary, by
+ * modules/RaceNames.js and modules/EnemyPartyNames.js, and each says why it
+ * cannot be a translated string -- the words are keys somewhere else.
  *
- * Written here rather than by the dialogue generator because neither is
- * dialogue and neither varies by text language; alice-tools takes as many --jaf
- * as it is given.
+ * The third is the same problem from the other end: those names *are* already
+ * translated strings, and modules/PartyBonusIcons.js undoes that for the one
+ * caller that wants a CG name rather than a label.
+ *
+ * Written here rather than by the dialogue generator because none is dialogue
+ * and none varies by text language; alice-tools takes as many --jaf as it is
+ * given.
  */
 const GENERATED_JAF = [
     {
@@ -60,6 +65,13 @@ const GENERATED_JAF = [
         file: ENEMY_PARTY_JAF,
         overlong: "wider than the HP bar it labels",
         stale: (japanese) => `the game has no enemy called ${JSON.stringify(japanese)}`,
+    },
+    {
+        render: renderPartyBonusIconsJaf,
+        file: PARTY_BONUS_ICON_JAF,
+        overlong: "too wide for the party bonus button",
+        stale: (japanese) => `archives/Rance10CG2_manifest.txt has no`
+            + ` シス／部隊ボーナス／アイコン／${japanese}.ajp, so that button would draw no icon`,
     },
 ];
 
@@ -187,6 +199,13 @@ run(async () => {
              * generated .jaf.
              */
             "--jaf", path.relative(ROOT, ENEMY_PARTY_JAF),
+            /*
+             * The Japanese behind a party bonus's English name, which its icon
+             * is filed under. Nothing resolves against this one either, so its
+             * place in the list is free; modules/PartyBonusIcons.js says why a
+             * translated label has to be undone for one caller.
+             */
+            "--jaf", path.relative(ROOT, PARTY_BONUS_ICON_JAF),
             /*
              * The enemy panel's two card Ids in English. Not optional -- it is
              * translation -- and after the .jaf above, whose CardEnglishLabel
