@@ -74,7 +74,6 @@ export const readSlotJapanese = () => {
 const SETTLED = new Map([
     ["3211 レリコフ", "FriendPanel@Name::get, where all nine neighbours are bare given names"],
     ["9187 スシヌ", "the English names nobody, which is better English than repeating him"],
-    ["10690 フル", "the table holds Full Kalar; this file's house form is the short one"],
     ["10702 リア", "the Lia entry is satisfied; the Queen Lia entry is the one objecting"],
     ["10813 政宗", "the table holds Dokuganryuu Masamune; the epithet writes the short form"],
     ["10814 政宗", "the table holds Dokuganryuu Masamune; the epithet writes the short form"],
