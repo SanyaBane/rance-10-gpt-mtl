@@ -67,7 +67,7 @@ table クエスト情報 = {
     {195,"本番に向けて休息／ＪＰ",1,"Solo: Rest Before Mission","What matters is next strategy phase","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ＪＡＰＡＮ",0},
     {152,"精鋭をスカウト",10,"Solo: Recruit Elites","Three skilled warriors for Fiend Slayers","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
     {154,"美樹を取り返す",1,"Solo: Save the Demon King","Somehow deal with the kidnapped Demon King...","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
-    {155,"ＤＸの会の妨害",1,"Solo: ×OP. Impossible×","DX Society sabotage occurs","　Story Only","　Reward　　　−−−","",0,1,1,0,0,"ランス城",0},
+    {155,"ＤＸの会の妨害",1,"Solo: ×OP. Impossible×","DX Association sabotage occurs","　Story Only","　Reward　　　−−−","",0,1,1,0,0,"ランス城",0},
     {166,"天満橋は渡れない／ＪＰ",1,"Solo: Scout the Continent","Cross Tenman Bridge, invade continent","　Story Only","　Reward　　　Meal Ticket","",0,1,5,0,0,"ＪＡＰＡＮ",0},
     {167,"ランス砦の日々／砦",1,"Solo: Rance Fortress","Explore Rance Fort","　Story Only","　Reward　　　Meal Ticket","",0,1,5,0,0,"ランス城",0},
     {170,"動かす手段／飛行",1,"Solo: Floating Rance Castle","Still want to move, advance forces","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
