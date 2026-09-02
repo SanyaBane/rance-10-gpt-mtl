@@ -1369,8 +1369,8 @@ s[8215] = "...I'm still a little sleepy"
 s[8216] = "The Demon King exists"
 s[8217] = "The economy is very poor"
 s[8218] = "Why me?"
-s[8219] = "About the Demon King Rance"
-s[8220] = "How to defeat the Demon King Rance"
+s[8219] = "About Demon King Rance"
+s[8220] = "How to defeat Demon King Rance"
 s[8221] = "How old is my mother?"
 s[8222] = "Where should I go?"
 s[8223] = "Aren't you going with me?"
@@ -1524,9 +1524,9 @@ s[8611] = "Stare back"
 s[8618] = "I promise not to die"
 
 ; 602 / Start
-s[8748] = "Ruffling hair"
-s[8749] = "Messing hair"
-s[8750] = "Mustangling hair"
+s[8748] = "Ruffle his hair"
+s[8749] = "Mess up his hair"
+s[8750] = "Tousle his hair"
 s[8751] = "I don't know?"
 s[8752] = "Don't worry about it"
 s[8753] = "I was wondering about that too"
@@ -1537,7 +1537,7 @@ s[8756] = "Don't get carried away"
 
 ; 602 / Foot of Shoryu Mountain
 s[8757] = "Hold hands"
-s[8758] = "Moving on quickly"
+s[8758] = "Move on quickly"
 
 ; 602 / Who is Demon King Rance?
 s[8759] = "I don't really care"
@@ -1562,7 +1562,7 @@ s[8771] = "Tonight's feast"
 s[8773] = "Arms Arc?"
 s[8774] = "I didn't know"
 s[8775] = "I knew"
-s[8776] = "To defeat the Demon King Rance"
+s[8776] = "To defeat Demon King Rance"
 s[8777] = "To visit my brother"
 s[8778] = "Sightseeing trip"
 s[8779] = "Would you like to join me?"
@@ -1618,7 +1618,7 @@ s[8817] = "A voice..."
 
 ; 603/Neplacus/Before the battle
 s[8818] = "Sneak through"
-s[8819] = "Destroy the Demon"
+s[8819] = "Destroy the demon"
 s[8820] = "Try talking to him"
 
 ; 603/About Dark Rance
@@ -1866,9 +1866,9 @@ s[9016] = "A bold king"
 s[9017] = "An arrogant thug"
 
 ; 604 / Zans' Detour
-s[9018] = "Let's Keep It Up"
-s[9019] = "Proceed Carefully From Here"
-s[9020] = "Let's Take a Short Break"
+s[9018] = "Let's keep it up"
+s[9019] = "Let's proceed carefully from here"
+s[9020] = "Let's take a short break"
 s[9021] = "Let's go to JAPAN"
 s[9022] = "Let's go to Helman"
 s[9023] = "Let's go to Zeth"
@@ -1993,14 +1993,14 @@ s[9116] = "Run away"
 ; 605 / Dark Lance
 s[9119] = "Nice to meet you"
 s[9120] = "Thank you for your help"
-s[9121] = "...Demon?"
+s[9121] = "...demon?"
 s[9122] = "Would you like to join us?"
 
 ; 605 / Epilogue
 s[9030] = "No"
 s[9124] = "Nothing important"
 s[9125] = "About the power within me"
-s[9126] = "Sexy Stories"
+s[9126] = "Sexy stuff"
 
 ; 606 / Teleport
 s[9128] = "My curiosity is piqued. Let's go and take a look"
@@ -2071,8 +2071,8 @@ s[9173] = "I see"
 s[9174] = "This seems suspicious..."
 
 ; 607/Zess the next morning
-s[9175] = "Going to look for Sushinu"
-s[9176] = "Going to look for the orb"
+s[9175] = "Go look for Sushinu"
+s[9176] = "Go look for the orb"
 
 ; 607/Sushinu's room
 s[9177] = "Let's go together"
@@ -2221,8 +2221,8 @@ s[9316] = "I'd like a man"
 s[9317] = "I'd like a woman"
 
 ; 608 / Arrived in Siberia
-s[9322] = "Praising Reset"
-s[9323] = "Lifting Reset up high"
+s[9322] = "Praise Reset"
+s[9323] = "Lift Reset up high"
 s[9324] = "Mysterious Dragon"
 s[9325] = "Let's chase him"
 
@@ -2238,7 +2238,7 @@ s[9330] = "Let's watch here"
 s[9332] = "Check if anyone is nearby"
 s[9333] = "Try again"
 s[9334] = "Give up, it's taking too much energy"
-s[9335] = "Escaping reality to calm down"
+s[9335] = "Escape reality to calm down"
 s[9336] = "Leave here to find allies"
 s[9337] = "Stay still while waiting for allies to be rescued"
 s[9338] = "I don't care about my teammates, I'm going to sleep"
@@ -2306,12 +2306,12 @@ s[9381] = "I'll ignore the flow and get revenge for the attack"
 
 ; 609/M Land 1
 s[9382] = "Is Copandon here?"
-s[9383] = "What Ride?"
+s[9383] = "What should we ride?"
 s[9391] = "Copandon's subordinate"
 
 ; 609/Arrival in God of War City
-s[9392] = "Eat at a Food Stall"
-s[9393] = "Find an Inn"
+s[9392] = "Eat at a food stall"
+s[9393] = "Find an inn"
 
 ; 609/Participation
 s[9404] = "Do Your Best"
@@ -2360,7 +2360,7 @@ s[9453] = "Former Jail Boss"
 s[9461] = "Monster Captain Brobio"
 s[9462] = "Protect Reset"
 s[9463] = "Glare at Brobio"
-s[9464] = "Scolding Nagata-kun"
+s[9464] = "Scold Nagata-kun"
 
 ; 609 / Talk to Arms
 s[9465] = "Give me that armor"
@@ -2434,16 +2434,16 @@ s[9522] = "Female Body Sushi"
 s[9523] = "Yamada-kun"
 s[9525] = "Watching Person A"
 s[9526] = "Watching Person B"
-s[9527] = "Pick Up the Wooden Orb"
-s[9528] = "Why Are You Laughing?"
-s[9529] = "Pull Out Chaos"
+s[9527] = "Pick up the Wooden Orb"
+s[9528] = "Why are you laughing?"
+s[9529] = "Draw Chaos"
 
 ; 609 / What to Do in the Finals
 s[9530] = "Extend and shake hands"
 
 ; 609 / Festival 2
-s[9531] = "Wander Around the Festival"
-s[9532] = "Would You Like to Join Us?"
+s[9531] = "Wander around the festival"
+s[9532] = "Would you like to join us?"
 s[9534] = "Believer Nakhtu"
 s[9537] = "Take a short break"
 s[9538] = "Passing monster"
@@ -2452,7 +2452,7 @@ s[9540] = "Embarrassed, so bring Nagata-kun forward"
 s[9541] = "Give the middle finger because it's annoying"
 
 ; 609 / Toushin Digest 8
-s[9542] = "See the magic vision"
+s[9542] = "Watch Magic Vision"
 s[9543] = "You were whining..."
 s[9544] = "You confessing your love"
 s[9545] = "It was hot, so you got naked..."
@@ -2475,7 +2475,7 @@ s[8167] = "Sightseeing is fun"
 s[8338] = "There was also an incident where a villager turned into a Hanny"
 s[8339] = "The naked village created by the Naked Cult was fun"
 s[8340] = "The love potion incident..."
-s[8342] = "Let's fight the Demon King Rance"
+s[8342] = "Let's fight Demon King Rance"
 s[8343] = "Let's go to Mount Shoryu"
 s[8344] = "Pull her nose"
 
@@ -2620,7 +2620,7 @@ s[8512] = "Entourage Haniko B"
 s[8513] = "Entourage Haniko C"
 
 ; 611/Clear the Trial
-s[8517] = "Open the Treasure Chest"
+s[8517] = "Open the treasure chest"
 
 ; 611/Before the Battle
 s[8521] = "Let's go! To Mount Shoryu!"
@@ -2629,9 +2629,9 @@ s[8521] = "Let's go! To Mount Shoryu!"
 s[8523] = "My first time at a hot spring"
 
 ; 611 / Hot Springs / Men's Bath
-s[8529] = "Massaging Zance's breasts"
-s[8530] = "Massaging Rangi's breasts"
-s[8531] = "Massaging Nagata-kun's breasts"
+s[8529] = "Squeeze Zance's chest"
+s[8530] = "Squeeze Rangi's chest"
+s[8531] = "Squeeze Nagata-kun's chest"
 
 ; 611 / Hot Springs / Women's Bath
 s[8559] = "Let me massage Nagi's breasts"
