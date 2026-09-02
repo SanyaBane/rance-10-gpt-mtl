@@ -605,7 +605,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "ジャハルッカス／", "Jhahlckas" },
 	{ "村人Ａ／", "Villager A" },
 	{ "魔血魂／", "Demonic Blood Soul" },
-	{ "翔竜山／", "Mt. Shoryu" },
+	{ "翔竜山／", "Mt. Rising Dragon" },
 	{ "ベテラン売春婦／", "Veteran Prostitute" },
 	{ "遙か高位の存在／", "A Being of Far Higher Rank" },
 	{ "山賊Ｃ／", "Bandit C" },

@@ -7464,7 +7464,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Target change: aiming for\nMount Shoryu.",
+					説明 = "Target change: aiming for\nMt. Rising Dragon.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 				},
@@ -7488,7 +7488,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Climbing Mount Shoryu.",
+					説明 = "Climbing Mt. Rising Dragon.",
 					地名 = "翔竜山　標高５００",
 				},
 			},
@@ -7675,7 +7675,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "To Mount Shoryu... to\nDemon King Rance...",
+					説明 = "To Mt. Rising Dragon... to\nDemon King Rance...",
 				},
 			},
 		},

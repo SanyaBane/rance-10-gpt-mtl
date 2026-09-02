@@ -1413,7 +1413,7 @@ s[8253] = "Let's defeat Demon King Rance quickly"
 s[8254] = "Peace will return soon"
 s[8255] = "What's that?"
 s[8256] = "So that's where he is..."
-s[8257] = "...Mount Shoryu?"
+s[8257] = "...Mt. Rising Dragon?"
 s[8258] = "Really?"
 s[8259] = "...I didn't know that"
 s[8260] = "Wow..."
@@ -1535,7 +1535,7 @@ s[8753] = "I was wondering about that too"
 s[8755] = "Yeah, I agree"
 s[8756] = "Don't get carried away"
 
-; 602 / Foot of Shoryu Mountain
+; 602 / Foot of Mt. Rising Dragon
 s[8757] = "Hold hands"
 s[8758] = "Move on quickly"
 
@@ -1569,7 +1569,7 @@ s[8779] = "Would you like to join me?"
 s[8780] = "Please join me if you like"
 s[8781] = "Please become my subordinate if you like"
 
-; 602 / Gate of Shoryu Mountain
+; 602 / Gate of Mt. Rising Dragon
 s[8782] = "Try pushing it"
 s[8783] = "Pizza delivery!"
 s[8784] = "Show your lockpicking skills"
@@ -2476,10 +2476,10 @@ s[8338] = "There was also an incident where a villager turned into a Hanny"
 s[8339] = "The naked village created by the Naked Cult was fun"
 s[8340] = "The love potion incident..."
 s[8342] = "Let's fight Demon King Rance"
-s[8343] = "Let's go to Mount Shoryu"
+s[8343] = "Let's go to Mt. Rising Dragon"
 s[8344] = "Pull her nose"
 
-; 610 / Arrived at Shoryuzan
+; 610 / Arrived at Mt. Rising Dragon
 s[8345] = "Nod vigorously"
 s[8346] = "Are you coming as well, Nagata-kun?"
 s[8347] = "Let's go"
@@ -2623,7 +2623,7 @@ s[8513] = "Entourage Haniko C"
 s[8517] = "Open the treasure chest"
 
 ; 611/Before the Battle
-s[8521] = "Let's go! To Mount Shoryu!"
+s[8521] = "Let's go! To Mt. Rising Dragon!"
 
 ; 611 / Arrived at the Inn
 s[8523] = "My first time at a hot spring"

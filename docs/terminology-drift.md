@@ -209,7 +209,7 @@ sweep's own literal walked past in `fd60f026`.
 | `リッチ` | `Rich` | Ritch, Richie, Lich |
 | `番裏の砦` | `Fort Banura` | Banri, Banri no Toride, "the fortress at the back of the gate" |
 | `聖櫃` | `the Sacred Ark` | Holy Ark, on the whole of the corpus |
-| `翔竜山` | `Mount Shoryu` | Soaring Dragon Mountain, Dragon Mountain |
+| `翔竜山` | `Mt. Rising Dragon` | Mount Shoryu, Shoryu Mountain, Mt. Shoryu, Shoryuzan, Soaring Dragon Mountain |
 | `妖怪王` | `Youkai King` | Yokai King, Monster King, Demon King |
 | `聖女モンスター` | `Holy Gal Monster` | seven renderings, Saint Monster the commonest |
 | `ベズドグ山` | `Mount Bezdog` | Bezudog |
@@ -217,14 +217,40 @@ sweep's own literal walked past in `fd60f026`.
 
 **The bucket is wholly read now**, which no other one is. Seven findings remain
 in split and every one is a shape this file already names: セキガハラ is not
-drift, `翔竜山`'s 30 lines writing "Mt. Shoryu" are an abbreviation of the
-settled name, ラグナロックアーク's "Royal Capital" is 王都 sitting next to it,
+drift, ラグナロックアーク's "Royal Capital" is 王都 sitting next to it,
 カスタム's "Four Witches" is 四魔女 sitting next to it the same way, 聖魔教団's
 "The Holy Magic" is a phrase holding the settled rendering, and 神魔法's
 "Throwing", "Blacksmith" and "Crafting" -- with 聖魔's "Crafting" -- are the
 *other* skills on the same card's `スキル` line, one column listing several
 values. 中島 was an eighth and is gone -- not swept but no longer reported, which
 is what the component cut is for.
+
+### 翔竜山 was reopened, and the wiki decided it
+
+`Mount Shoryu` was this file's own settlement, and the three spellings under it
+-- `Shoryu Mountain` x46, `Mt. Shoryu` x32 and `Shoryuzan` x3 -- had been left
+as abbreviations and near-misses of a settled name rather than as drift. The
+name itself was never held against a source: 翔竜 is a *rising* dragon, and the
+AliceSoft wiki names the mountain **Rising Dragon Mountain** on 76 lines across
+a dozen articles -- unmistakably this one, with Amazing Castle on its summit and
+the El Party climbing it.
+
+So the term is `Mt. Rising Dragon`, in the abbreviated form rather than the
+wiki's own, because the long one costs width the Location plate has none of to
+spare and the short one costs nothing: all twenty 翔竜山 rows of
+`glossaries/place_name_glossary.tsv` were already past the plate's 300 px before
+the rename, and the number of names past it -- 123 of 250 -- and the widest of
+them are the same after it. 169 replacements over 83 files, plus six rows where
+the name was split across two rows of one speech and had to be written by hand,
+plus four speeches the new length pushed past the window, laid out again by
+`scripts/bake_speech_rows.js`.
+
+翔竜草, the herb Cantel fetches from it, went with it: the wiki spells that
+**Rising Dragon Grass**, and it is on the one line that also names the mountain.
+
+**A closed bucket says the renderings agree, not that the one they agree on is
+right.** This term was in the tabled list above with its variants swept, and the
+spelling they had all been swept to was still nobody's but ours.
 
 ### 天界 was the last unread one, and the report showed two of its six renderings
 
@@ -313,7 +339,7 @@ out to be the rule rather than the exception.
 Six of the nine remain. `軍司令部` is not a name but the suffix of half a dozen
 armies' headquarters, and its only split is `summary_glossary.tsv`'s "Monster
 Army HQ" against the prose's "Monster Army headquarters" -- the panel's
-abbreviation, like "Mt. Shoryu". `兄様`, `内容若干変化`, `上杉軍`, `防衛隊` and
+abbreviation of the prose form. `兄様`, `内容若干変化`, `上杉軍`, `防衛隊` and
 `連合軍` are the noise this file already describes. The other three -- `帝国`,
 `試練` and `達成` -- the component cut now drops on its own.
 
