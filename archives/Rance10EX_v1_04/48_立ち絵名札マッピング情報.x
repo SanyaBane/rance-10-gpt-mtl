@@ -1280,7 +1280,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "ベゼルアイの通訳／", "Bezeleye's Interpreter" },
 	{ "ベンティ／", "Venti" },
 	{ "行き倒れハニー／", "Collapsed Hanny" },
-	{ "魂管理局クエルプラン？／", "Soul Bureau Quelplan?" },
+	{ "魂管理局クエルプラン？／", "Soul Management Bureau Quelplan?" },
 	{ "ルドラサウム／", "Rudrasaum" },
 	{ "シオコ＝ンブ／", "Shioko=nbu" },
 	{ "シヨカラ・イカー／", "Shiyokara Ikar" },

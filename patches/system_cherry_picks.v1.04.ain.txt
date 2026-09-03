@@ -1489,7 +1489,7 @@ s[8313] = "Of course"
 s[8314] = "It's a little scary, but I'll go"
 
 ; Rescue 601/Creamin
-s[8315] = "The kidnapped girl."
+s[8315] = "Kidnapped Girl"
 s[8316] = "Be humble"
 s[8317] = "Be embarrassed"
 s[8318] = "Jump her"
@@ -1639,25 +1639,25 @@ s[8831] = "Let's find Reset"
 ; 603 / Reset Topic
 s[8832] = "Easy win"
 s[8835] = "Gather information from a Kalar girl"
-s[8836] = "The talkative Kalar"
+s[8836] = "Talkative Kalar"
 s[8833] = "I'll do my best"
 s[8834] = "It'll all work out"
 s[8837] = "Gather information from monsters"
-s[8838] = "Former monster commander."
+s[8838] = "Former Monster Captain"
 s[8839] = "Gather information from artificial lifeforms"
 s[8840] = "Gather information from a pair of men"
-s[8841] = "A fan of Reset"
-s[8842] = "A friend of a fan of Reset"
+s[8841] = "A Fan of Reset"
+s[8842] = "Friend of a Fan of Reset"
 s[8843] = "Gather information from a parent and child"
-s[8844] = "A lively girl"
-s[8845] = "A young mother"
+s[8844] = "Lively Girl"
+s[8845] = "Young Mother"
 
 ; 603 / Encounter with Reset
 s[8846] = "Let's do our best tomorrow too"
 s[8847] = "We'll definitely recruit Reset"
 s[8848] = "...Is the food ready yet?"
-s[5320] = "The waitress"
-s[6714] = "The mysterious girl"
+s[5320] = "Shop Clerk"
+s[6714] = "Mysterious Girl"
 s[8850] = "I'm having trouble finding her"
 s[8851] = "Do you know where she is?"
 s[8852] = "She's such a nice person"
@@ -1670,8 +1670,8 @@ s[8856] = "Mrs. Marie"
 ; 603 / Bath / Male
 s[8857] = "I'm looking forward to it"
 s[8858] = "I'm going to the women's bath"
-s[8859] = "Female customer voice 1"
-s[8860] = "Female customer voice 2"
+s[8859] = "Female Customer's Voice 1"
+s[8860] = "Female Customer's Voice 2"
 
 ; 603 / Bath / Female
 s[8861] = "I'll go into the men's bath too"
@@ -1696,11 +1696,11 @@ s[8883] = "Kick them flying"
 s[8884] = "Split him"
 
 ; 603 / Incident Occurred
-s[8885] = "Murakumo."
+s[8885] = "Murakumo"
 s[8886] = "Innkeeper"
 s[8887] = "Something important has been stolen"
-s[8888] = "Regular Customer 1"
-s[8889] = "Regular Customer 2"
+s[8888] = "Patron 1"
+s[8889] = "Patron 2"
 s[8890] = "Let's just follow orders here"
 s[8891] = "Let's make a big fuss and get away"
 s[8892] = "The Mysterious Beautiful Detective."
@@ -1722,7 +1722,7 @@ s[8902] = "I've made a theory, but I'm not sure"
 
 ; 603/Solution
 s[8903] = "Male Customer"
-s[8904] = "Old Customer"
+s[8904] = "Elderly Customer"
 s[8905] = "Crow"
 s[8906] = "Female Customer"
 s[8908] = "Nice to meet you, big sister"
@@ -1742,7 +1742,7 @@ s[8916] = "Shangri-La Security Guard"
 s[8917] = "This is fine"
 s[8918] = "It's pretty scary"
 s[8919] = "It's actually fun"
-s[8920] = "Aegis subordinate."
+s[8920] = "Aegis's Subordinate"
 
 ; 604/Start
 s[8921] = "Reread today's diary"
@@ -1790,7 +1790,7 @@ s[8957] = "I'm not confident, but I'll do my best"
 s[8958] = "Nagata-kun, you're the rude one"
 ; Not s[8959]. 銅鑼 is the gong struck before the herald speaks, and its one
 ; push is the szSoundName argument of ■効果音 -- a file name, not a plate.
-s[8960] = "Arrogant man's voice."
+s[8960] = "Arrogant Man's Voice"
 
 ; 604 / Zans and the Yell Man
 s[8961] = "He's annoying"
@@ -1907,12 +1907,12 @@ s[9042] = "Tell a joke"
 s[9044] = "You're welcome"
 s[9045] = "I'm glad everyone's safe"
 s[9046] = "I look forward to the reward"
-s[9048] = "Soldiers."
+s[9048] = "Soldiers"
 s[9049] = "We'll help you too"
 s[9050] = "We'll wait here"
 
 ; 605/Fukane accompanies
-s[9051] = "A woman's voice inside"
+s[9051] = "Woman's Voice Inside"
 s[9054] = "Nice to meet you"
 s[9055] = "You're beautiful"
 s[9056] = "Steamed buns"
@@ -1935,7 +1935,7 @@ s[9067] = "We have no choice but to go"
 s[9068] = "I'll hold your hand"
 
 ; 605 / Meanwhile, Neplakas and Soun
-s[9070] = "The mysterious old man"
+s[9070] = "Mysterious Old Man"
 
 ; 605 / Rangi and Zans
 s[9071] = "I need a break"
@@ -1978,7 +1978,7 @@ s[9103] = "Let's take a bath"
 s[9104] = "Pick up the Golden Orb"
 
 ; 605/Quelplan occurs.
-s[9107] = "The voice of an old man."
+s[9107] = "Old Man's Voice"
 
 ; 605 / Quelplan / Pre-battle
 s[9110] = "Defeat Quelplan"
@@ -2009,7 +2009,7 @@ s[9126] = "Sexy stuff"
 s[9128] = "My curiosity is piqued. Let's go and take a look"
 s[9129] = "It might be dangerous. Let's move away"
 s[9130] = "I'm not interested. Either way is fine"
-s[9131] = "The voice of a mysterious object."
+s[9131] = "Voice of the Mysterious Object"
 
 ; 606/Otherworld Mix 1
 s[9132] = "Was I asleep?"
@@ -2028,7 +2028,7 @@ s[9140] = "Tou-san?"
 s[9141] = "A genius beautiful doctor?"
 
 ; 606 / Miracle from Another World
-s[9143] = "Arrogant Female Voice"
+s[9143] = "Haughty Woman's Voice"
 
 s[9146] = "Nothing"
 
@@ -2063,8 +2063,8 @@ s[9165] = "Pat"
 s[9167] = "Go in on the count"
 s[9168] = "Get in first"
 s[9169] = "On the count...? Really?"
-s[8178] = "Female passerby"
-s[8179] = "Male passerby"
+s[8178] = "Female Passerby"
+s[8179] = "Male Passerby"
 s[9170] = "I'm worried we'll attract some weirdo"
 s[9171] = "It's lively and fun"
 s[9172] = "Shizuka-san is pretty conspicuous, too"
@@ -2195,7 +2195,7 @@ s[9297] = "Look at her face with concern"
 s[9298] = "Feel her forehead"
 s[9299] = "Put a steamed bun on her head"
 s[9300] = "Hehehe"
-s[9301] = "The third person."
+s[9301] = "The Third Person"
 
 ; 608 / Start
 
@@ -2300,7 +2300,7 @@ s[9372] = "For some reason, I could hold it"
 s[9373] = "This is the power of the chosen one, rumble rumble"
 s[9374] = "I'm giving it back"
 s[9375] = "Can I have it?"
-s[9376] = "Bar Owner"
+s[9376] = "Tavern Owner"
 s[9377] = "Spectator A"
 s[9378] = "Spectator B"
 
@@ -2310,7 +2310,7 @@ s[9381] = "Ignore the mood and pay them back for the attack"
 ; 609/M Land 1
 s[9382] = "Is Copandon here?"
 s[9383] = "What should we ride?"
-s[9391] = "Copandon's subordinate"
+s[9391] = "Copandon's Subordinate"
 
 ; 609/Arrival in God of War City
 s[9392] = "Eat at a food stall"
@@ -2346,7 +2346,7 @@ s[9433] = "Turn on Magic Vision"
 s[9441] = "I'll give it my all"
 
 ; 609 / Round 1 Relikov / Pre-battle
-s[9443] = "Toushin Tournament Staff"
+s[9443] = "Toushin Tournament Official"
 s[9444] = "I'll do my best!"
 s[9445] = "I won't do my best!"
 s[9447] = "I'm nervous"
@@ -2370,7 +2370,7 @@ s[9464] = "Scold Nagata-kun"
 ; 609 / Talk to Arms
 s[9465] = "Give me that armor"
 s[9466] = "Where can I get that armor?"
-s[9467] = "Unfriendly store clerk"
+s[9467] = "Surly Shop Clerk"
 s[9468] = "Where is Arms?"
 
 ; 609 / Round 2 / Before the battle
@@ -2437,8 +2437,8 @@ s[9520] = "Adult Lunch"
 s[9521] = "Takara Morning Soup"
 s[9522] = "Female Body Sushi"
 s[9523] = "Yamada-kun"
-s[9525] = "Watching Person A"
-s[9526] = "Watching Person B"
+s[9525] = "Onlooker A"
+s[9526] = "Onlooker B"
 s[9527] = "Pick up the Wooden Orb"
 s[9528] = "Why are you laughing?"
 s[9529] = "Draw Chaos"
@@ -2449,9 +2449,9 @@ s[9530] = "Reach out and shake hands"
 ; 609 / Festival 2
 s[9531] = "Wander around the festival"
 s[9532] = "Would you like to join us?"
-s[9534] = "Believer Nakhtu"
+s[9534] = "Believer Naaktu"
 s[9537] = "Take a short break"
-s[9538] = "Passing monster"
+s[9538] = "Passerby Monster"
 s[9539] = "Wave back because you're happy"
 s[9540] = "Embarrassed, so bring Nagata-kun forward"
 s[9541] = "Give the middle finger because it's annoying"
@@ -2490,12 +2490,12 @@ s[8346] = "Are you coming as well, Nagata-kun?"
 s[8347] = "Let's go"
 
 ; 610 / Mothers at that time 1
-s[8349] = "A serious-looking queen"
-s[8351] = "A noble president"
-s[8353] = "An arrogant queen"
-s[8355] = "A respectable princess"
-s[8356] = "A useless queen"
-s[8361] = "A quiet pope"
+s[8349] = "Serious-Looking Queen"
+s[8351] = "Noble President"
+s[8353] = "Haughty Queen"
+s[8355] = "Dignified Princess"
+s[8356] = "Useless Queen"
+s[8361] = "Quiet Pope"
 
 ; 610 / General Tiger / After Battle
 s[8366] = "Heal her"
@@ -2515,7 +2515,7 @@ s[8379] = "I want to put him out of his misery..."
 s[8380] = "I feel nothing"
 
 ; 610 / Monster Captain 1
-s[8387] = "The voice of a violent monster"
+s[8387] = "Voice of the Violent Monster"
 s[8390] = "Needle"
 s[8391] = "King"
 s[8394] = "Retreat for now"
@@ -2549,7 +2549,7 @@ s[8412] = "Don't die"
 s[8413] = "I will definitely defeat the Demon King"
 
 ; 610 / Kidnapped Children
-s[8421] = "Someone's voice"
+s[8421] = "Someone's Voice"
 s[8422] = "...Good morning"
 s[8423] = "Where am I?"
 s[8424] = "Nagata-kun?"
