@@ -3,103 +3,103 @@
 * Zance Leazas	ザンス２	Male
 * El Mofus	エール２	Player's choice
 
-217390	-		二日目の昼下がり、	Afternoon of the second day,
-217391	+		あなたは長田君と城内を散歩していた。	you were taking a walk inside the castle with Nagata-kun.
+217390	-		二日目の昼下がり、	In the early afternoon of the second day,
+217391	+		あなたは長田君と城内を散歩していた。	you were taking a stroll through the castle grounds with Nagata-kun.
 
 > male
-217392	Nagata-kun	基本	「う〜、まだ頭がガンガンするぅぅ……」	「Ugh... my head is still pounding...」
+217392	Nagata-kun	基本	「う〜、まだ頭がガンガンするぅぅ……」	「Ugh... My head is still pounding so bad...」
 
-217393	Nagata-kun		「本当……昨日はひどい目に遭ったよな……」	「Seriously... yesterday was awful...」
+217393	Nagata-kun		「本当……昨日はひどい目に遭ったよな……」	「Seriously... Yesterday was a total nightmare...」
 
-217394	Nagata-kun		「もうあいつには近づかないようにしようぜ。	「Let's stay away from that guy from now on.
-217395	+		　ろくな目に遭う気がしねぇわ、俺。	　I don't think anything good will come from it.
-217396	+		　うぐぅっ……」	　Ugh...」
+217394	Nagata-kun		「もうあいつには近づかないようにしようぜ。	「Let's make sure we steer clear of that guy from now on.
+217395	+		　ろくな目に遭う気がしねぇわ、俺。	　I've got a bad feeling nothing good will come of it.
+217396	+		　うぐぅっ……」	　Ughhh...」
 
-217397	-		長田君はフラフラだった。	Nagata-kun was staggering.
+217397	-		長田君はフラフラだった。	Nagata-kun was stumbling unsteadily.
 
 > female
-217398	Nagata-kun		「まったく、唐突に乳揉みだしたり、	「Seriously, suddenly groping boobs,
-217399	+		　俺の子を孕めって言い出したり、	　telling me to get pregnant with his kid,
-217400	+		　本当にあいつ、ろくなもんじゃねえな！」	　that guy is seriously no good!」
+217398	Nagata-kun		「まったく、唐突に乳揉みだしたり、	「Seriously! Grabbing boobs out of nowhere,
+217399	+		　俺の子を孕めって言い出したり、	　telling you to bear his children...
+217400	+		　本当にあいつ、ろくなもんじゃねえな！」	　That guy is absolute bad news!」
 
-217401	Nagata-kun		「いいか、あの男は要注意だからな？	「Listen, that man is dangerous, got it?
-217402	+		　隙を見せたら即襲われると思っとけよ？」	　If you let your guard down he'll attack immediately.」
+217401	Nagata-kun		「いいか、あの男は要注意だからな？	「Listen, you need to watch out for that guy, got it?
+217402	+		　隙を見せたら即襲われると思っとけよ？」	　Let your guard down for a second, and he will jump you on the spot!」
 
-217403	Nagata-kun		「……お前ボーッとしてっからなあ。	「...You're always spacing out.
-217404	+		　ったく、心配で目が離せねぇよ」	　I can't take my eyes off you.」
+217403	Nagata-kun		「……お前ボーッとしてっからなあ。	「...You're always daydreaming, too.
+217404	+		　ったく、心配で目が離せねぇよ」	　Good grief, I'm worried sick. I can't take my eyes off you.」
 
-217405	-		長田君にとってあなたは目が離せないらしい。	To Nagata-kun, you seem impossible to leave unsupervised.
+217405	-		長田君にとってあなたは目が離せないらしい。	It seemed Nagata-kun found it impossible to leave you unsupervised.
 
 > end
-217406	Nagata-kun		「お、見ろよ、＜エール＞。	「Oh, look ＜エール＞.
-217407	+		　赤の軍が訓練してるぜ」	　The Red Army is training.」
+217406	Nagata-kun		「お、見ろよ、＜エール＞。	「Oh, look, ＜エール＞.
+217407	+		　赤の軍が訓練してるぜ」	　The Red Army's training over there.」
 
-217408	-		中庭では大量の赤軍の兵が	In the courtyard, a large number of Red Army soldiers
-217409	+		整然と並んで素振りを行っていた。	were neatly lined up doing practice swings.
+217408	-		中庭では大量の赤軍の兵が	In the courtyard, vast ranks of Red Army soldiers
+217409	+		整然と並んで素振りを行っていた。	were lined up in neat formation, practicing their sword swings.
 
-217410	Zance Leazas	不満	「おら！　なんだそのへっぴり腰は！	「Oi! What's with those weak stances!
-217411	+		　テメェらやる気あんのか！」	　You guys motivated or what!?」
+217410	Zance Leazas	不満	「おら！　なんだそのへっぴり腰は！	「Hey! What kind of weak-ass stance is that?!
+217411	+		　テメェらやる気あんのか！」	　You bastards got any fight in you or what?!」
 
-217412	-		ザンスが叫ぶと、数百人はいる	When Zance shouted, the hundreds of
-217413	+		赤の軍の兵士達が大音声で返事をし、	Red Army soldiers replied in a booming voice,
-217414	+		それだけで空気がビリビリと震えた。	making the air itself tremble.
+217412	-		ザンスが叫ぶと、数百人はいる	At Zance's roar, the hundreds of
+217413	+		赤の軍の兵士達が大音声で返事をし、	Red Army soldiers shouted back in unison,
+217414	+		それだけで空気がビリビリと震えた。	sending tremors straight through the air.
 
-217415	Nagata-kun	基本	「すげぇ……	「Amazing...
-217416	+		　あいつ、＜エール＞と大して年の差ない癖に、	　He's not much older than ＜エール＞,
-217417	+		　もうあんだけ大人達を従えてんのかよ……」	　yet he already commands so many adults...」
+217415	Nagata-kun	基本	「すげぇ……	「Whoa, amazing...
+217416	+		　あいつ、＜エール＞と大して年の差ない癖に、	　That guy's barely any older than ＜エール＞,
+217417	+		　もうあんだけ大人達を従えてんのかよ……」	　yet he's already commanding all those grown-ups...」
 
-217418	Nagata-kun		「ま、まあ親の七光りで	「W-well, it's probably just riding on his parents' coattails
-217419	+		　将軍やってるだけに決まってるけどなー」	　that he's a general.」
+217418	Nagata-kun		「ま、まあ親の七光りで	「W-Well, he's obviously only a general
+217419	+		　将軍やってるだけに決まってるけどなー」	　because he's riding on his parents' prestige, though.」
 
 217420	Zance Leazas		「あん？」	「Huh?」
 
 217421	Nagata-kun		「げっ、見つかった！」	「Geh, he spotted us!」
 
-217422	Zance Leazas		「おい、俺は用がある。	「Hey, I have business.
-217423	+		　お前こいつら見てろ」	　You watch these guys.」
+217422	Zance Leazas		「おい、俺は用がある。	「Hey, I've got something to take care of.
+217423	+		　お前こいつら見てろ」	　Keep an eye on these guys.」
 
-217424	Nagata-kun		「わわわ、来る来る！」	「Wah wah, he's coming!」
+217424	Nagata-kun		「わわわ、来る来る！」	「Wah-wah-wah, he's coming over!」
 
-217425	Zance Leazas		「おう、なにをコソコソ見てやがる」	「Yo, what are you sneaking around watching?」
+217425	Zance Leazas		「おう、なにをコソコソ見てやがる」	「Oi, what are you creeps sneaking around watching?」
 
 217426	El Mofus		「…………。」	「............」
 217427	Zance Leazas		「ふ〜ん……」	「Hmm...」
 
-217428	-		大して興味はないのか	Not particularly interested,
+217428	-		大して興味はないのか	Showing little interest,
 217429	+		ザンスは気のない返事を返した。	Zance gave a half-hearted reply.
 
-217430	Zance Leazas	微笑み	「はっ！」	「Hah!」
+217430	Zance Leazas	微笑み	「はっ！」	「Ha!」
 
-217431	Zance Leazas		「そんなひょろい体で剣士にでもなる気か？	「With that skinny body you want to become a swordsman?
-217432	+		　やめとけやめとけ」	　Give it up.」
+217431	Zance Leazas		「そんなひょろい体で剣士にでもなる気か？	「You thinking of becoming a swordsman with a scrawny body like that?
+217432	+		　やめとけやめとけ」	　Give it up, just give it up.」
 
-217433	-		あなたは鼻で笑われてしまった。	You were laughed at scornfully.
+217433	-		あなたは鼻で笑われてしまった。	A scornful snort was directed your way.
 
 217434	Zance Leazas		「へえ……？」	「Heh...?」
 
-217435	-		生意気な口をきかれても、	Even when spoken to arrogantly,
-217436	+		ザンスは怒ることなく、むしろ嬉しそうに笑った。	Zance didn't get angry, instead smiling as if amused.
+217435	-		生意気な口をきかれても、	Even when met with such defiance,
+217436	+		ザンスは怒ることなく、むしろ嬉しそうに笑った。	Zance did not get angry; instead, he broke into an amused grin.
 
-217437	-		しかし、その笑顔は獰猛な肉食獣が	However, that smile was like a ferocious carnivore
-217438	+		口を開く時のような危険な笑みだった。	opening its mouth 一 dangerous and predatory.
+217437	-		しかし、その笑顔は獰猛な肉食獣が	Yet that grin held the dangerous edge of a ferocious predator
+217438	+		口を開く時のような危険な笑みだった。	baring its fangs.
 
-217439	Nagata-kun	基本	「な、なんだよ、文句あるのか！？	「W-what, you got a problem!?
+217439	Nagata-kun	基本	「な、なんだよ、文句あるのか！？	「Wh-What, you got a problem?!
 217440	+		　き、昨日からずっと思っていたけど、	　I-I've been thinking this since yesterday,
-217441	+		　お前生意気だぞー」	　you're so cocky!」
+217441	+		　お前生意気だぞー」	　but you're way too cocky!」
 
 217442	Zance Leazas		「…………」	「............」
 
-217443	Nagata-kun		「ひっ！」	「Hii!」
+217443	Nagata-kun		「ひっ！」	「Hieee!」
 
-217444	-		ザンスがジロリと長田君に目をやると、	When Zance glared at Nagata-kun,
-217445	+		長田君は慌ててあなたの後ろに隠れた。	Nagata-kun quickly hid behind you.
+217444	-		ザンスがジロリと長田君に目をやると、	When Zance shot Nagata-kun a sharp glare,
+217445	+		長田君は慌ててあなたの後ろに隠れた。	Nagata-kun scrambled behind you in a panic.
 
 217446	Zance Leazas		「少し気になっていたが……	「I've been wondering...
-217447	+		　そのハニーはお前のなんなんだ？」	　What is that Hanny to you?」
+217447	+		　そのハニーはお前のなんなんだ？」	　What is that Hanny to you, anyway?」
 
 217448	El Mofus		「…………。」	「............」
-217449	Nagata-kun		「そ、そうだ！　俺は＜エール＞のダチよ！	「T-that's right! I'm ＜エール＞'s buddy!
-217450	+		　ななな、なんか文句あっか！？」	　G-got a problem with that!?」
+217449	Nagata-kun		「そ、そうだ！　俺は＜エール＞のダチよ！	「Th-That's right! I'm ＜エール＞'s pal!
+217450	+		　ななな、なんか文句あっか！？」	　G-G-Got a problem with that?!」
 
 217451	Zance Leazas		「友達、ねえ……」	「Friends, huh...」
 
@@ -107,139 +107,139 @@
 
 217453	Zance Leazas		「ハニーが？」	「A Hanny?」
 
-217454	Nagata-kun	基本	「な、なんだよ！　文句あんのかー？」	「W-what! Got a problem!?」
+217454	Nagata-kun	基本	「な、なんだよ！　文句あんのかー？」	「Wh-What?! You got a problem with that?!」
 
-217455	Zance Leazas		「……頭おかしいんじゃねーのか？」	「...Are you crazy?」
+217455	Zance Leazas		「……頭おかしいんじゃねーのか？」	「...Are you out of your damn mind?」
 
-217456	Nagata-kun		「なーっ！？」	「What!?」
+217456	Nagata-kun		「なーっ！？」	「Whaaat?!」
 
-217457	-		あなたはハッキリと言われてしまった。	You were told straight to your face.
+217457	-		あなたはハッキリと言われてしまった。	You were told straight to your face without hesitation.
 
-217458	Nagata-kun		「ちょ！？	「Hey!?
-217459	+		　ばっか、俺らマブのダチ！	　We're super close buddies!
-217460	+		　略してマブダチだろうが！？」	　Mabudachi for short!」
+217458	Nagata-kun		「ちょ！？	「Hold on!?
+217459	+		　ばっか、俺らマブのダチ！	　Idiot, we're bosom buddies!
+217460	+		　略してマブダチだろうが！？」	　Best pals for life, damn it!」
 
-217461	Nagata-kun		「あ、おっけ、マジ分かった。	「Ah, okay, I get it.
-217462	+		　照れてる的な？　いつものアレだろ？」	　You're just embarrassed, right? Same as always?」
+217461	Nagata-kun		「あ、おっけ、マジ分かった。	「Ah, okay, I totally get it.
+217462	+		　照れてる的な？　いつものアレだろ？」	　You're just being shy, right? The usual routine, huh?」
 
 217463	Nagata-kun		「…………」	「............」
 
-217464	Nagata-kun		「なんとか言えよー！？」	「Say something!」
+217464	Nagata-kun		「なんとか言えよー！？」	「Say something, come on!」
 
 217465	Zance Leazas		「…………」	「............」
 
-217466	Zance Leazas		「はんっ」	「Hah.」
+217466	Zance Leazas		「はんっ」	「Hmph.」
 
-217467	-		あなたは鼻で笑われてしまった。	You were scoffed at.
+217467	-		あなたは鼻で笑われてしまった。	You were scoffed at with a snort.
 
-217468	Zance Leazas		「一つだけ言わせろ。	「Let me say one thing.
+217468	Zance Leazas		「一つだけ言わせろ。	「Let me tell you one thing.
 217469	+		　足手まといはパーティーに入れるな」	　Don't bring dead weight into the party.」
 
-217470	Zance Leazas		「旅の目的は魔王ランスを倒すことだ。	「The goal of this journey is to defeat Demon King Rance.
+217470	Zance Leazas		「旅の目的は魔王ランスを倒すことだ。	「The purpose of this journey is to defeat Demon King Rance.
 217471	+		　弱い奴はいらん」	　We don't need weaklings.」
 
-217472	Nagata-kun		「ば、馬鹿言うなよ！	「D-don't be stupid!
-217473	+		　仲間は多い方がいいに決まってんじゃねーか！」	　More allies is always better!」
+217472	Nagata-kun		「ば、馬鹿言うなよ！	「D-Don't be stupid!
+217473	+		　仲間は多い方がいいに決まってんじゃねーか！」	　It's obvious that the more comrades you have, the better!」
 
-217474	Zance Leazas		「……何故、魔王の子を集めるのか、	「...Do you not understand
+217474	Zance Leazas		「……何故、魔王の子を集めるのか、	「...Do you seriously not understand
 217475	+		　理由が分かってないのか？」	　why we're gathering the Demon King's children?」
 217476	+		「ま、正解ではあるな。	「Well, that's part of it.
-217477	+		　だが本質はそこじゃねぇ」	　But that's not the core reason.」
+217477	+		　だが本質はそこじゃねぇ」	　But that's not the real reason.」
 
-217478	Zance Leazas		「はっ！　そんなのが通用する相手かよ！」	「Hah! As if that would work against him!」
+217478	Zance Leazas		「はっ！　そんなのが通用する相手かよ！」	「Ha! As if something like that would ever work against him!」
 
-217479	Zance Leazas		「馬ーーー鹿。	「Idiot.
-217480	+		　なんで俺様が親父のケツなんぞ	　Why the hell should I
-217481	+		　拭いてやらなきゃいけねぇんだ」	　wipe my dad's ass?」
+217479	Zance Leazas		「馬ーーー鹿。	「I-di-ot.
+217480	+		　なんで俺様が親父のケツなんぞ	　Why the hell should the Great Zance
+217481	+		　拭いてやらなきゃいけねぇんだ」	　have to wipe the old man's ass?」
 
-217482	Zance Leazas		「俺達に共通する、	「We all share
-217483	+		　とある特殊体質が理由だ」	　a certain special trait.」
+217482	Zance Leazas		「俺達に共通する、	「The real reason is a certain unique constitution
+217483	+		　とある特殊体質が理由だ」	　that we all share.」
 
-217484	Nagata-kun		「と、特殊体質？」	「S-special trait?」
+217484	Nagata-kun		「と、特殊体質？」	「A-A unique constitution?」
 
-217485	Zance Leazas		「高すぎる才能限界値だ」	「Extremely high talent limit.」
+217485	Zance Leazas		「高すぎる才能限界値だ」	「Absurdly high talent limits.」
 
-217486	Zance Leazas		「一般人は特別優れた奴ですら、	「Even the most talented normal person
-217487	+		　才能限界値は30程度、	　has a talent limit of around 30,
-217488	+		　40もあればめでたく騎士団長になれる」	　40 is enough to become a knight captain.」
+217486	Zance Leazas		「一般人は特別優れた奴ですら、	「Even exceptionally gifted normal people
+217487	+		　才能限界値は30程度、	　only have a talent limit around 30.
+217488	+		　40もあればめでたく騎士団長になれる」	　Reaching 40 is enough to make someone a Knight Commander.」
 
-217489	Zance Leazas		「なら、俺達はどれだけあるか分かるか？」	「So how high do you think ours are?」
-217490	+		「はんっ」	「Hah.」
+217489	Zance Leazas		「なら、俺達はどれだけあるか分かるか？」	「So, do you have any clue what ours are?」
+217490	+		「はんっ」	「Hmph.」
 
-217491	Zance Leazas		「――測定不能だよ」	「--Unmeasurable.」
+217491	Zance Leazas		「――測定不能だよ」	「—Unmeasurable.」
 
-217492	Zance Leazas		「俺も一度どこまで上がるか試したが、	「I tried to see how high I could go once,
-217493	+		　結局限界に辿り着くことはなかった」	　but never reached a limit.」
+217492	Zance Leazas		「俺も一度どこまで上がるか試したが、	「I tried pushing to see how high mine would go once,
+217493	+		　結局限界に辿り着くことはなかった」	　but in the end, I never hit any ceiling.」
 
-217494	Zance Leazas		「理由は不明だが、魔王ランスには	「The reason is unknown, but Demon King Rance
-217495	+		　才能の限界値がなかったらしい。	　apparently had no talent limit.
-217496	+		　俺らにも受け継がれてる可能性は……」	　There's a chance we inherited it...」
+217494	Zance Leazas		「理由は不明だが、魔王ランスには	「For reasons unknown, Demon King Rance
+217495	+		　才能の限界値がなかったらしい。	　apparently had no talent limit at all.
+217496	+		　俺らにも受け継がれてる可能性は……」	　As for the chances that we inherited it...」
 
-217497	Zance Leazas		「まー、あるわな」	「Well, yeah.」
+217497	Zance Leazas		「まー、あるわな」	「Well, it's pretty obvious.」
 
-217498	Zance Leazas		「俺ら、魔王の子のほとんどは、	「Most of us Demon King's children
-217499	+		　現在既に世界トップクラスの戦闘力がある」	　already have world-class combat power.」
+217498	Zance Leazas		「俺ら、魔王の子のほとんどは、	「Most of us children of the Demon King
+217499	+		　現在既に世界トップクラスの戦闘力がある」	　already possess world-class combat strength as it is.」
 
-217500	Zance Leazas		「ならここから更に冒険して経験を積めば……」	「If we adventure more and gain experience...」
+217500	Zance Leazas		「ならここから更に冒険して経験を積めば……」	「So if we go on an adventure and gain even more experience...」
 
-217501	Zance Leazas		「魔人はもちろん、魔王すら倒せる	「We should become the strongest party in history,
-217502	+		　人類史上最強の戦闘パーティーになれる筈だ」	　capable of defeating even Fiend and the Demon King.」
+217501	Zance Leazas		「魔人はもちろん、魔王すら倒せる	「We're bound to become the strongest combat party in human history—
+217502	+		　人類史上最強の戦闘パーティーになれる筈だ」	　capable of defeating not just Fiends, but even the Demon King himself.」
 
-217503	Nagata-kun		「お、おー！　マジか！　スゲー！」	「O-oh! For real! Awesome!」
+217503	Nagata-kun		「お、おー！　マジか！　スゲー！」	「O-Oh! For real?! That's insane!」
 
 217504	Zance Leazas		「だから……」	「That's why...」
 
-217505	Zance Leazas		「こんな意味の分からんハニーとか、	「Useless Hannies like this,
-217506	+		　あの世話焼きのロッキー……」	　that meddlesome Rocky...」
+217505	Zance Leazas		「こんな意味の分からんハニーとか、	「Bizarre Hannies like this one,
+217506	+		　あの世話焼きのロッキー……」	　that fussbudget Rocky...」
 
-217507	Zance Leazas		「それから無口なチンピラ二人」	「those two silent punks,」
+217507	Zance Leazas		「それから無口なチンピラ二人」	「those two quiet thugs,」
 
-217508	Zance Leazas		「あと、生意気なポピンズの姫」	「and that arrogant Poppins princess」
+217508	Zance Leazas		「あと、生意気なポピンズの姫」	「and that bratty Poppins princess—」
 
-217509	Zance Leazas		「そんな一般人共は、	「are just dead weight.
-217510	+		　俺らの足を引っ張る以外のことは出来ねえ」	　They can't do anything but slow us down.」
+217509	Zance Leazas		「そんな一般人共は、	「regular people like that
+217510	+		　俺らの足を引っ張る以外のことは出来ねえ」	　will do nothing but drag us down.」
 
 217511	Zance Leazas		「今すぐ切り捨てろ」	「Cut them loose right now.」
 
-217512	Nagata-kun		「お、お、お……」	「Y-you...」
+217512	Nagata-kun		「お、お、お……」	「Y-Y-You...」
 
-217513	Nagata-kun		「おまーっ！	「You bastard!
-217514	+		　それをよくもまあ、本人の前で言えるなー！」	　How can you say that right in front of them!」
+217513	Nagata-kun		「おまーっ！	「You absolute bastard!
+217514	+		　それをよくもまあ、本人の前で言えるなー！」	　How the hell can you say that right to their faces?!」
 
-217515	Zance Leazas		「ちっと黙ってろ」	「Shut up for a second.」
+217515	Zance Leazas		「ちっと黙ってろ」	「Shut your trap for a second.」
 
-217516	Nagata-kun		「あんっ！」	「An!」
+217516	Nagata-kun		「あんっ！」	「Gahh!」
 
-217517	-		長田君は割られた。	Nagata-kun was smashed.
+217517	-		長田君は割られた。	Nagata-kun got cracked.
 
-217518	Zance Leazas		「決断は早い方がいい。	「Better to decide quickly.
+217518	Zance Leazas		「決断は早い方がいい。	「The sooner you make up your mind, the better.
 217519	+		　明日の出立までに別れを済ませな」	　Say your goodbyes before we depart tomorrow.」
 
 217520	El Mofus		「…………。」	「............」
-217521	Zance Leazas		「ほう……	「Oh...
-217522	+		　兄貴の言うことに逆らうってのか？」	　You're going against your big brother's words?」
+217521	Zance Leazas		「ほう……	「Hoh...
+217522	+		　兄貴の言うことに逆らうってのか？」	　Defying your big brother's orders, are you?」
 
-217523	Zance Leazas	不満	「アア？　友達だからなんだよ？」	「Aa? So what if they're friends?」
+217523	Zance Leazas	不満	「アア？　友達だからなんだよ？」	「Aah? So what if you're friends?」
 
-217524	Zance Leazas	基本	「俺がこんな残骸に、	「What can I possibly gain
-217525	+		　何があったら助けられることになるんだ？」	　from helping this wreck?」
+217524	Zance Leazas	基本	「俺がこんな残骸に、	「What could possibly happen where I'd need help
+217525	+		　何があったら助けられることになるんだ？」	　from a pile of broken clay like this?」
 
 217526	Zance Leazas		「…………」	「............」
 
-217527	Zance Leazas		「フン、勝手にしろ」	「Hmph, do whatever you want.」
+217527	Zance Leazas		「フン、勝手にしろ」	「Hmph, suit yourself.」
 
 217528	Zance Leazas~		（馬鹿な奴だな……	（What an idiot...
-217529	+		　苦しむのは俺らじゃなくて、	　The ones who'll suffer aren't us,
-217530	+		　こいつらの方だってのによ）	　but them.）
+217529	+		　苦しむのは俺らじゃなくて、	　We're not the ones who'll end up suffering—
+217530	+		　こいつらの方だってのによ）	　they are.）
 
-217531	Zance Leazas~		（ま、言ってやる義理もねーから言わねえがな）	（Well, not my problem so I won't say it.）
+217531	Zance Leazas~		（ま、言ってやる義理もねーから言わねえがな）	（Well, it's not like I owe it to them to explain, so I won't.）
 
-217532	-		ザンスはあなたを一睨みだけして、	Zance gave you one sharp glare
-217533	+		赤軍の方に戻っていった。	and returned to the Red Army.
+217532	-		ザンスはあなたを一睨みだけして、	Zance shot you one final glare,
+217533	+		赤軍の方に戻っていった。	then walked back toward the Red Army.
 
-217534	Nagata-kun		「べ、べーーーっ！」	「Bleeeh!」
+217534	Nagata-kun		「べ、べーーーっ！」	「B-Bllleeehh!」
 
-217535	Nagata-kun		「けっ、マジ嫌な奴だなあいつ！」	「Tch, what a horrible guy!」
+217535	Nagata-kun		「けっ、マジ嫌な奴だなあいつ！」	「Tch, that guy is seriously the worst!」
 
 217536	-		長田君は何度もザンスに向けて	Nagata-kun stuck his tongue out
-217537	+		あかんべーをしていた。	at Zance repeatedly.
+217537	+		あかんべーをしていた。	at Zance's back repeatedly.
