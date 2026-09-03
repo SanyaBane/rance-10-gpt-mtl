@@ -4,72 +4,72 @@
 * Rance	ランス	Male
 * Barres Province	バレス	Male
 
-103247	-		廊下でシィルとスーが簡単な打ち合わせをしていた。	Sill and Sioux were having a quick meeting in the hallway.
+103247	-		廊下でシィルとスーが簡単な打ち合わせをしていた。	In the hallway, Sill and Sioux were having a brief briefing.
 
-103248	Sioux Province	基本	「というわけで次回の行軍は、	「So for the next march,
-103249	+		　途中の補給が難しく、	　resupply along the way will be difficult,
-103250	+		　荷物が増えてしまいそうで……」	　so we'll probably have more luggage...」
+103248	Sioux Province	基本	「というわけで次回の行軍は、	「And so, regarding our next march,
+103249	+		　途中の補給が難しく、	　resupply en route will be difficult,
+103250	+		　荷物が増えてしまいそうで……」	　which means our baggage train will likely increase...」
 
 103251	Sill Plain		「はい、はい。	「Yes, yes.
 103252	+		　分かりました」	　Understood.」
 
 103253	Rance	真剣	「…………」	「............」
 
-103254	-		ランスは二人の会話を聞くともなしに聞いていた。	Rance was half-listening to their conversation.
+103254	-		ランスは二人の会話を聞くともなしに聞いていた。	Rance listened absently to their conversation.
 
-103255	Sioux Province	基本	「はい、では宜しくお願いします」	「Yes, please take care of it.」
+103255	Sioux Province	基本	「はい、では宜しくお願いします」	「All right, then I leave the preparations in your capable hands.」
 
-103256	Sioux Province		「ランスさんも、理解してくれましたか？」	「Rance-san, did you understand too?」
+103256	Sioux Province		「ランスさんも、理解してくれましたか？」	「Did you manage to follow along as well, Rance-san?」
 
-103257	Rance		「んー、なんとなく」	「Yeah, more or less.」
+103257	Rance		「んー、なんとなく」	「Mmm, more or less.」
 
-103258	Sioux Province		「はい、それなら結構です」	「Yes, that's fine then.」
+103258	Sioux Province		「はい、それなら結構です」	「Very well, that will suffice.」
 
 103259	Rance		「…………」	「............」
 
-103260	Sioux Province		「……どうしました？	「...What's wrong?
-103261	+		　何か引っかかるような顔をして」	　You look like something's bothering you.」
+103260	Sioux Province		「……どうしました？	「...Is something the matter?
+103261	+		　何か引っかかるような顔をして」	　You have a rather perplexed look on your face.」
 
-103262	Rance		「いや、今日はなんか機嫌がいいな。	「Nah, you're in a good mood today.
-103263	+		　いつもガミガミ怒られてるから違和感だ」	　Usually you're always scolding me, so it's weird.」
+103262	Rance		「いや、今日はなんか機嫌がいいな。	「No, it's just that you seem in a surprisingly good mood today.
+103263	+		　いつもガミガミ怒られてるから違和感だ」	　You're usually nagging and yelling at me, so this feels bizarre.」
 
-103264	Sioux Province	思考	「それはいつもランスさんが	「That's because you always say things
-103265	+		　怒らせるようなこと言うからです」	　that deserve scolding.」
+103264	Sioux Province	思考	「それはいつもランスさんが	「That is solely because Rance-san always says things
+103265	+		　怒らせるようなこと言うからです」	　that warrant a scolding in the first place.」
 
-103266	Rance	だる顔	「むう……クリームちゃんみたいなことを……」	「Muu... saying things like Cream-chan...」
+103266	Rance	だる顔	「むう……クリームちゃんみたいなことを……」	「Mmmgh... Sounding just like Cream-chan...」
 
-103267	Sill Plain	苦笑	「あ、あはは……」	「A, ahaha...」
+103267	Sill Plain	苦笑	「あ、あはは……」	「Ah, ahaha...」
 
-103268	Sioux Province	基本	「今日は真面目に聞いてくれたので、	「Because you listened seriously today,
-103269	+		　私も機嫌がいいです」	　I'm in a good mood too.」
+103268	Sioux Province	基本	「今日は真面目に聞いてくれたので、	「Because you actually listened quietly and seriously today,
+103269	+		　私も機嫌がいいです」	　I am in high spirits as well.」
 
-103270	Sioux Province		「いつもこうして気持ち良ーく、	「Please let me work comfortably
-103271	+		　お仕事させて下さいね」	　like this from now on too.」
+103270	Sioux Province		「いつもこうして気持ち良ーく、	「Please allow me to conduct my duties
+103271	+		　お仕事させて下さいね」	　in such a pleasant, smooth manner from now on, all right?」
 
-103272	Rance	真剣	「うーん、気持ち良く仕事させられる自信はないな」	「Hmm, not sure I can promise comfortable work.」
+103272	Rance	真剣	「うーん、気持ち良く仕事させられる自信はないな」	「Mmm, I can't promise work will always feel pleasant for you.」
 
-103273	Rance	基本	「だが、気持ち良ーくなら、してやれるぞ？」	「But I can make you feel good, you know?」
+103273	Rance	基本	「だが、気持ち良ーくなら、してやれるぞ？」	「However, I can certainly make *you* feel real good, you know?」
 
-103274	Rance	エロ顔	「今、すぐにでも。	「Right now, if you want.
-103275	+		　ぐふふふ……」	　Gufufu...」
+103274	Rance	エロ顔	「今、すぐにでも。	「Right here, right now, if you'd like.
+103275	+		　ぐふふふ……」	　Gheheheh...」
 
-103276	Sioux Province	思考	「じとーーー……」	「Staaaare......」
+103276	Sioux Province	思考	「じとーーー……」	「*Staaaaaaaaare...*」
 
-103277	Rance	基本	「な、なんだ？」	「W-what?」
+103277	Rance	基本	「な、なんだ？」	「Wh-What?」
 
 103278	Sioux Province	思考	「ランスさん、	「Rance-san,
-103279	?		親父臭い」	　you smell like a dad.」
+103279	?		親父臭い」	　you sound like a creepy middle-aged man.」
 
-103280	Rance	驚き	「ぐはああああっ！？」	「Guhaaaaaah!?」
+103280	Rance	驚き	「ぐはああああっ！？」	「GUWAAAAAAAARGH?!」
 
-103281	Sill Plain	慌て	「わあ、ランス様、大丈夫ですか？	「Wah, Rance-sama, are you okay?
-103282	+		　気を確かに持って下さい」	　Stay strong!」
+103281	Sill Plain	慌て	「わあ、ランス様、大丈夫ですか？	「Oh goodness! Rance-sama, are you all right?!
+103282	+		　気を確かに持って下さい」	　Please, pull yourself together!」
 
-103283	Rance	だる顔	「くうっ……あの純真なスーが、	「Kuu... That pure Sioux
-103284	+		　こんなお堅い育ち方をするとは……」	　turned out so prim and proper...」
+103283	Rance	だる顔	「くうっ……あの純真なスーが、	「Gh... To think that once-pure Sioux
+103284	+		　こんなお堅い育ち方をするとは……」	　would grow up into such an uptight, prim-and-proper prude...」
 
-103285	Sill Plain	基本	「でも本当に立派になって	「But she's really grown up nicely
-103286	+		　見違えちゃいましたね」	　and become so impressive.」
+103285	Sill Plain	基本	「でも本当に立派になって	「Still, she has grown into such a fine young lady,
+103286	+		　見違えちゃいましたね」	　I hardly recognized her at first!」
 
 103287	Sioux Province		「…………」	「............」
 
@@ -77,51 +77,51 @@
 
 103289	Sioux Province	思考	「あ、いえ……」	「Ah, no...」
 
-103290	Sioux Province		「すみません……	「Sorry...
-103291	+		　少し、いえ……照れました……」	　I got a little... embarrassed...」
+103290	Sioux Province		「すみません……	「Pardon me...
+103291	+		　少し、いえ……照れました……」	　I got a little... well... embarrassed...」
 
-103292	-		スーはもじもじとしながら、	Sioux fidgeted,
-103293	+		居心地悪そうに頬をかいていた。	scratching her cheek awkwardly.
+103292	-		スーはもじもじとしながら、	Fidgeting self-consciously, Sioux
+103293	+		居心地悪そうに頬をかいていた。	scratched her blushing cheek in bashful awkwardness.
 
-103294	Sill Plain	基本	（ふふふ、こういうところは	（Fufu, this part of her
-103295	+		　変わってないですね、ランス様）	　hasn't changed at all, Rance-sama.）
+103294	Sill Plain	基本	（ふふふ、こういうところは	（*Giggle*... She hasn't changed a bit in that regard,
+103295	+		　変わってないですね、ランス様）	　has she, Rance-sama?）
 
-103296	Rance	真剣	（ふんっ）	（Hmph.）
+103296	Rance	真剣	（ふんっ）	（Hmph!）
 
-103297	Rance	だる顔	「だが、昔の方が良かった……	「But the old days were better...
-103298	+		　あの頃は人間の勉強をさせてさせてと、	　Back then she kept begging for human lessons,
-103299	+		　それはもう何度も迫ってきて……」	　over and over...」
+103297	Rance	だる顔	「だが、昔の方が良かった……	「Still, the good old days were vastly superior...
+103298	+		　あの頃は人間の勉強をさせてさせてと、	　Back then, she kept begging me nonstop for 'human studies,'
+103299	+		　それはもう何度も迫ってきて……」	　pouncing on me over and over again...」
 
-103300	Sioux Province	基本	「わーーっ！　わーーーーっ！」	「Waaah! Waaaaah!」
+103300	Sioux Province	基本	「わーーっ！　わーーーーっ！」	「Waaah! Waaaaaaah!」
 
-103301	Sill Plain	きょとん	「人間の勉強？」	「Human lessons?」
+103301	Sill Plain	きょとん	「人間の勉強？」	「Human studies?」
 
-103302	Rance	真剣	「ん？　言ってなかったか？	「Hm? Didn't I mention it?
-103303	+		　スーが人間世界の勉強がしたいというので、	　Sioux wanted to study the human world,
-103304	+		　夜な夜なベッドの中で何度も……」	　so night after night in bed we...」
+103302	Rance	真剣	「ん？　言ってなかったか？	「Hm? Didn't I tell you?
+103303	+		　スーが人間世界の勉強がしたいというので、	　Sioux said she wanted to study the ways of the human world,
+103304	+		　夜な夜なベッドの中で何度も……」	　so night after night in bed, we—」
 
-103305	Sioux Province	思考	「昔の話はやめて下さい！」	「Stop talking about the past!」
+103305	Sioux Province	思考	「昔の話はやめて下さい！」	「Please cease bringing up ancient history!」
 
-103306	Sioux Province		「……というか、あの頃は	「...Besides, back then
-103307	+		　何も知らない私によくもあんなこと！」	　you did all those things to innocent me!」
+103306	Sioux Province		「……というか、あの頃は	「...In fact, taking advantage of my sheer ignorance back then
+103307	+		　何も知らない私によくもあんなこと！」	　to do all those indecent things to me! How dare you!」
 
-103308	Rance	基本	「うげっ……怒ってる……」	「Ugh... she's mad...」
+103308	Rance	基本	「うげっ……怒ってる……」	「Ugh... She's genuinely furious...」
 
 103309	Sioux Province	思考	「当然です！」	「Of course I am!」
 
-103310	Sioux Province		「法的手段に訴えないだけ、	「Just be grateful I
-103311	+		　マシだと思って下さい」	　didn't take legal action.」
+103310	Sioux Province		「法的手段に訴えないだけ、	「You should consider yourself profoundly fortunate
+103311	+		　マシだと思って下さい」	　that I am not pursuing legal action against you!」
 
-103312	Rance	だる顔	「ほ、法的手段だなんてインテリな言葉を……	「L-legal action, such an intellectual word...
-103313	+		　うぐぅ……」	　Uguu...」
+103312	Rance	だる顔	「ほ、法的手段だなんてインテリな言葉を……	「L-Legal action?! Such high-brow, educated words...!
+103313	+		　うぐぅ……」	　Ughhh...」
 
-103314	Rance		「あんなやんちゃだったスーが……	「That wild Sioux back then...
-103315	+		　どうしてこんな子に……」	　How did she become like this...」
+103314	Rance		「あんなやんちゃだったスーが……	「That once wild and mischievous Sioux...
+103315	+		　どうしてこんな子に……」	　How on earth did she turn out like this...?!」
 
-103316	Barres Province	基本	「おや、ランス殿、こんなところで何を？」	「Oh, Rance-dono, what are you doing here?」
+103316	Barres Province	基本	「おや、ランス殿、こんなところで何を？」	「Oho, Rance-dono, whatever are you doing in a place like this?」
 
-103317	Rance		「お前のせいかー！」	「This is all your fault!」
+103317	Rance		「お前のせいかー！」	「THIS IS ALL YOUR FAULT, YOU BASTARD!」
 
-103318	Barres Province	テンション下げ	「ふぐぉぉっ！？」	「Fugoooh!?」
+103318	Barres Province	テンション下げ	「ふぐぉぉっ！？」	「FUGH-OBOOOOGH?!」
 
-103319	Sioux Province	思考	「お父様を蹴らないで下さい！」	「Don't kick my father!」
+103319	Sioux Province	思考	「お父様を蹴らないで下さい！」	「Please refrain from kicking my father!」
