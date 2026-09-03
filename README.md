@@ -301,6 +301,19 @@ under, on the one call that wants a CG name. Its table is generated from the che
 themselves, so the two cannot drift. `npm run regenerate-ain` generates it and applies it. See
 [docs/party-bonus-icons.md](docs/party-bonus-icons.md).
 
+### The "new" badge on a button
+
+`MENU` and the party button wear a badge when there is something behind them you have not seen, and
+`TextButton@Init` decides that by comparing the button's own label against `ＭＥＮＵ` and `部隊編成`.
+So the label is a display string and a lookup key in one, and it is the one case here where the two
+cannot be pulled apart — the string being compared is the string being drawn, so keeping the key
+would mean keeping the Japanese on the button. The comparison is patched instead:
+`patches/new_mark_buttons.jam` re-emits that function with both literals reached through
+`build/new_mark_buttons.jaf`, which maps an English label back to its key and hands every other
+button through unchanged. The label itself is never touched — it has already been drawn by the time
+the comparison runs. `npm run regenerate-ain` generates the `.jaf` and applies both. See
+[docs/new-mark-buttons.md](docs/new-mark-buttons.md).
+
 ### The name over your own HP bar
 
 The plate at the other end of the same screen is the one surface here that needed no new machinery.

@@ -340,6 +340,22 @@ buff's `desc` keep their English and `build/title_keys.jaf` hands the Japanese
 back to `super()`. `game/extracted/title_keys.v1.04.tsv` is which slots are keys,
 because that is in the code and nowhere else. `docs/title-keys.md`.
 
+**And when the string being compared is the string being drawn, neither
+direction is available and what gets patched is the comparison.**
+`TextButton@Init` draws the label the layout gave it and then tests that same
+label against `ＭＥＮＵ` and `部隊編成` to decide whether the button wears a "new"
+badge -- so keeping the key means keeping the Japanese on the button, and
+translating the button switches the badge off. Both had been: `部隊編成` in seven
+layouts, `ＭＥＮＵ` on the title screen, each in its own commit, each silent,
+because a badge is absent exactly when there is nothing new. So
+`patches/new_mark_buttons.jam` re-emits that function with both literals reached
+through a generated `.jaf` that maps the English back to the key. The label is
+untouched -- `SetText` has already run by then -- and everything else the game
+labels a button with passes through unchanged. `docs/new-mark-buttons.md` also
+has what the `.jaf` compiler cannot do that made a `.jam` necessary: it
+segfaults on `param.Numof()`, and a method of the class being overridden does
+not resolve.
+
 **And sometimes the function is shared too, so patch the caller.** A card's
 faction is worse than a shared string: `getOrganizationNameFromId` has nineteen
 callers and eighteen of them paste the word into a *CG name* — the card's

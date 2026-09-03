@@ -20,6 +20,7 @@ import {ENEMY_PARTY_JAF, renderEnemyPartyNamesJaf} from "../modules/EnemyPartyNa
 import {ensureBuild, ROOT} from "../modules/Env.js";
 import {featureArgs, selectedFeatures} from "../modules/Features.js";
 import {checkGuardLog} from "../modules/GuardLog.js";
+import {NEW_MARK_JAF, renderNewMarkButtonsJaf} from "../modules/NewMarkButtons.js";
 import {ORGANIZATION_JAF, renderOrganizationNamesJaf} from "../modules/OrganizationNames.js";
 import {PARTY_BONUS_ICON_JAF, renderPartyBonusIconsJaf} from "../modules/PartyBonusIcons.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
@@ -40,17 +41,17 @@ const node = (args) => {
 };
 
 /**
- * The four translations that patch a function rather than a string: the race on
+ * The five translations that patch a function rather than a string: the race on
  * the enemy status panel, the name over the enemy's HP bar, the party bonus
- * icons, and the title under a speaker's name. The first two are generated from
- * a hand-written glossary, by modules/RaceNames.js and modules/EnemyPartyNames.js,
- * and each says why it cannot be a translated string -- the words are keys
- * somewhere else.
+ * icons, the title under a speaker's name, and the key two button labels are
+ * compared against. The first two are generated from a hand-written glossary, by
+ * modules/RaceNames.js and modules/EnemyPartyNames.js, and each says why it
+ * cannot be a translated string -- the words are keys somewhere else.
  *
- * The last two are the same problem from the other end: those names *are*
+ * The last three are the same problem from the other end: those names *are*
  * already translated strings, and the .jaf undoes that for the one caller that
  * wanted the Japanese -- a CG name in modules/PartyBonusIcons.js, a lookup key
- * in modules/TitleKeys.js.
+ * in modules/TitleKeys.js, and the badge test in modules/NewMarkButtons.js.
  *
  * Written here rather than by the dialogue generator because none is dialogue
  * and none varies by text language; alice-tools takes as many --jaf as it is
@@ -82,6 +83,14 @@ const GENERATED_JAF = [
         overlong: "too wide for the party bonus button",
         stale: (japanese) => `archives/Rance10CG2_manifest.txt has no`
             + ` シス／部隊ボーナス／アイコン／${japanese}.ajp, so that button would draw no icon`,
+    },
+    {
+        render: renderNewMarkButtonsJaf,
+        file: NEW_MARK_JAF,
+        overlong: "wider than the button it labels",
+        stale: (entry) => `no button in archives/Rance10Pact_v1_04/ is labelled ${entry.key}`
+            + ` or anything modules/NewMarkButtons.js recognises as its English, so the badge`
+            + ` for ${entry.badge} has nothing to appear on`,
     },
 ];
 
@@ -224,6 +233,13 @@ run(async () => {
              */
             "--jaf", path.relative(ROOT, TITLE_KEY_JAF),
             /*
+             * The Japanese key behind an English button label, for the two
+             * buttons whose label TextButton@Init compares against to decide
+             * whether they carry a "new" badge. Resolved by name from
+             * patches/new_mark_buttons.jam below, which has to come after it.
+             */
+            "--jaf", path.relative(ROOT, NEW_MARK_JAF),
+            /*
              * The enemy panel's two card Ids in English. Not optional -- it is
              * translation -- and after the .jaf above, whose CardEnglishLabel
              * and 表示種族 it resolves by name; the other order stops with
@@ -254,6 +270,15 @@ run(async () => {
              * the three functions patches/lp_date.jaf defines above.
              */
             "--jam", "patches/lp_date.jam",
+            /*
+             * The "new" badge on the MENU and Form Squad buttons, which their
+             * English labels had switched off: the label is the key the badge
+             * test compares against, so the test is what gets patched. A .jam
+             * because the .jaf compiler can neither count an array argument nor
+             * call a method of the class being overridden -- the file says
+             * which errors -- and it calls the .jaf above by name.
+             */
+            "--jam", "patches/new_mark_buttons.jam",
         );
     } else if (features.length === 0) {
         console.log("  which is the game's own Rance10.ain: no text and no features is nothing to apply");

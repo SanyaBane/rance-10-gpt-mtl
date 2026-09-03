@@ -1,0 +1,224 @@
+; TextButton@Init, re-emitted so that the "new" badge survives an English label.
+;
+; The function sets the label the layout carries and then compares that same
+; string against ＭＥＮＵ and 部隊編成, giving the button a NewMarkView when it
+; matches -- the badge for something unseen behind the menu, and for a party
+; bonus nobody has looked at. So those two labels are display text and a lookup
+; key in one string, and translating either in the archive switched its badge
+; off: 部隊編成 in seven layouts, ＭＥＮＵ in Game/Title/SceneTitle.pactex.x.
+;
+; Keeping the key the way the repository usually does -- Japanese in the data,
+; English in the display function -- is not available here, because the string
+; compared is the string drawn. So the comparison is patched instead: both
+; literals are now reached through TextButtonNewMarkKey, which maps an English
+; label back to the Japanese key and hands everything else straight back. The
+; label is untouched, because 22897 SetText has already run four instructions
+; above the first comparison.
+;
+; That function is generated into build/new_mark_buttons.jaf by
+; modules/NewMarkButtons.js, which also holds the table of labels; alice-tools
+; has to be handed it before this file or it stops with "Unable to resolve
+; function". docs/new-mark-buttons.md has the whole of it.
+;
+; A .jam rather than an override for two reasons, both of them the .jaf
+; compiler's: `param.Numof()` segfaults it, and a method of the class being
+; overridden does not resolve -- `SetText(text)` and `this.SetText(text)` are
+; both "Undefined variable", so an override cannot put the English back after
+; calling super() with the key.
+;
+; Save this file as UTF-8 with no BOM. The assembler reads a byte order mark as
+; an instruction and stops on line 1 -- "Invalid instruction: ϻ" -- and an
+; editor that defaults .jam to UTF-8-with-BOM will quietly put one back.
+;
+; The body is that function verbatim from
+;
+;   alice ain dump --function=TextButton@Init game/ain/Rance10.v1.04.ain
+;
+; with two CALLFUNC inserted and nothing else touched; regenerate it the same way
+; if the game version changes, since every number in it indexes one build of one
+; .ain. It adds no local, which is what makes it possible at all -- --jam
+; rewrites code and leaves the FUNC section alone, so a function keeps the
+; locals it was compiled with.
+FUNC 22890
+	.LOCALREF param
+	CALLHLL Array Numof 12
+	PUSH 2
+	NOTE
+	IFNZ 0x34ede2
+	JUMP 0x34ede4
+0x34ede2:
+	RETURN
+0x34ede4:
+	PUSHSTRUCTPAGE
+	PUSH 22896
+	.LOCALREF param
+	PUSH 0
+	CALLHLL Array At 12
+	.STACK_LOCALASSIGN "<dummy : Atの戻り値>"
+	DUP
+	PUSH -1
+	EQUALE
+	IFZ 0x34ee56
+	POP
+	S_PUSH ""
+	.STACK_LOCALASSIGN "<dummy : 右辺値参照化用>"
+0x34ee56:
+	A_REF
+	CALLMETHOD 1
+	.LOCALDELETE "<dummy : 右辺値参照化用>"
+	.LOCALDELETE "<dummy : Atの戻り値>"
+	.LOCALREF text
+	.LOCALREF param
+	PUSH 1
+	CALLHLL Array At 12
+	.STACK_LOCALASSIGN "<dummy : Atの戻り値>#1"
+	DUP
+	PUSH -1
+	EQUALE
+	IFZ 0x34ef02
+	POP
+	S_PUSH ""
+	.STACK_LOCALASSIGN "<dummy : 右辺値参照化用>#1"
+0x34ef02:
+	A_REF
+	S_ASSIGN
+	.LOCALDELETE "<dummy : 右辺値参照化用>#1"
+	.LOCALDELETE "<dummy : Atの戻り値>#1"
+	DELETE
+	PUSHSTRUCTPAGE
+	PUSH 22897
+	.LOCALREF text
+	A_REF
+	CALLMETHOD 1
+	.LOCALREF text
+	A_REF
+	CALLFUNC TextButtonNewMarkKey
+	S_PUSH "ＭＥＮＵ"
+	S_EQUALE
+	IFNZ 0x34ef72
+	JUMP 0x34f0f4
+0x34ef72:
+	PUSHSTRUCTPAGE
+	PUSH 4
+	DUP2
+	REF
+	.LOCALREF "<dummy : new NewMarkView>"
+	DELETE
+	PUSHLOCALPAGE
+	PUSH 6
+	NEW NewMarkView -1
+	ASSIGN
+	SWAP
+	DELETE
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : new NewMarkView>"
+	.STRUCTREF TextButton m_newMarkView
+	PUSH 0
+	DUP_U2
+	PUSH 0
+	REF
+	SWAP
+	PUSH 0
+	ADD
+	REF
+	.LOCALREF "<dummy : new array<string>>"
+	DUP
+	CALLHLL Array Free 12
+	DUP
+	S_PUSH "Menu"
+	CALLHLL Array PushBack 12
+	A_REF
+	CALLMETHOD 1
+	.STRUCTREF TextButton m_newMarkView
+	PUSH 0
+	DUP_U2
+	PUSH 0
+	REF
+	SWAP
+	PUSH 3
+	ADD
+	REF
+	.STRUCTREF TextButton m_act
+	PUSH 29078
+	S_PUSH ""
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : Activity@GetPartsの戻り値>"
+	PUSH 29598
+	CALLMETHOD 0
+	DUP_X2
+	CALLMETHOD 1
+	POP
+	.LOCALDELETE "<dummy : Activity@GetPartsの戻り値>"
+	.LOCALDELETE "<dummy : Activity@GetPartsの戻り値>"
+	.LOCALREF "<dummy : new array<string>>"
+	CALLHLL Array Free 12
+	.LOCALDELETE "<dummy : new NewMarkView>"
+	JUMP 0x34f290
+0x34f0f4:
+	.LOCALREF text
+	A_REF
+	CALLFUNC TextButtonNewMarkKey
+	S_PUSH "部隊編成"
+	S_EQUALE
+	IFNZ 0x34f114
+	JUMP 0x34f290
+0x34f114:
+	PUSHSTRUCTPAGE
+	PUSH 4
+	DUP2
+	REF
+	.LOCALREF "<dummy : new NewMarkView>#1"
+	DELETE
+	PUSHLOCALPAGE
+	PUSH 9
+	NEW NewMarkView -1
+	ASSIGN
+	SWAP
+	DELETE
+	ASSIGN
+	SP_INC
+	.LOCALDELETE "<dummy : new NewMarkView>#1"
+	.STRUCTREF TextButton m_newMarkView
+	PUSH 0
+	DUP_U2
+	PUSH 0
+	REF
+	SWAP
+	PUSH 0
+	ADD
+	REF
+	.LOCALREF "<dummy : new array<string>>#1"
+	DUP
+	CALLHLL Array Free 12
+	DUP
+	S_PUSH "NewMarkFlagTypeLocal::PartyBonus"
+	CALLHLL Array PushBack 12
+	A_REF
+	CALLMETHOD 1
+	.STRUCTREF TextButton m_newMarkView
+	PUSH 0
+	DUP_U2
+	PUSH 0
+	REF
+	SWAP
+	PUSH 3
+	ADD
+	REF
+	.STRUCTREF TextButton m_act
+	PUSH 29078
+	S_PUSH ""
+	CALLMETHOD 1
+	.STACK_LOCALASSIGN "<dummy : Activity@GetPartsの戻り値>#1"
+	PUSH 29598
+	CALLMETHOD 0
+	DUP_X2
+	CALLMETHOD 1
+	POP
+	.LOCALDELETE "<dummy : Activity@GetPartsの戻り値>#1"
+	.LOCALDELETE "<dummy : Activity@GetPartsの戻り値>#1"
+	.LOCALREF "<dummy : new array<string>>#1"
+	CALLHLL Array Free 12
+	.LOCALDELETE "<dummy : new NewMarkView>#1"
+0x34f290:
+	RETURN
