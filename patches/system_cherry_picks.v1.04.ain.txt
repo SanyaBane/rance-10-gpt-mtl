@@ -1512,7 +1512,7 @@ s[8328] = "Let's cooperate for world peace"
 s[8329] = "Let's get along, big brother"
 
 ; 601 / Lance Jr. / After the battle
-s[8332] = "The man claiming to be the Demon King's son"
+s[8332] = "Man Who Posed as the Demon King's Son"
 ; Not s[8333]. ブブー is a sound rather than a line: its one push in the whole
 ; game is the szSoundName argument of ■効果音. Translated, the scene asks for a
 ; sound file named "Grrr!", which the game does not have.
@@ -1703,7 +1703,7 @@ s[8888] = "Patron 1"
 s[8889] = "Patron 2"
 s[8890] = "Let's just follow orders here"
 s[8891] = "Let's make a big fuss and get away"
-s[8892] = "The Mysterious Beautiful Detective."
+s[8892] = "Mysterious Beautiful Girl Detective"
 s[8893] = "I don't think he's the culprit"
 s[8894] = "Absolutely not"
 s[8895] = "I believe he's innocent"
