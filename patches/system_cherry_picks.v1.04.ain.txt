@@ -1513,7 +1513,9 @@ s[8329] = "Let's get along, big brother"
 
 ; 601 / Lance Jr. / After the battle
 s[8332] = "The man claiming to be the Demon King's son"
-s[8333] = "Grrr!"
+; Not s[8333]. ブブー is a sound rather than a line: its one push in the whole
+; game is the szSoundName argument of ■効果音. Translated, the scene asks for a
+; sound file named "Grrr!", which the game does not have.
 
 ; 601 / Epilogue
 s[8334] = "Yeah, that's right!"
@@ -1786,7 +1788,8 @@ s[8957] = "I'm not confident, but I'll do my best"
 
 ; 604 / Leazas Castle
 s[8958] = "Nagata-kun, you're the rude one"
-s[8959] = "Gong."
+; Not s[8959]. 銅鑼 is the gong struck before the herald speaks, and its one
+; push is the szSoundName argument of ■効果音 -- a file name, not a plate.
 s[8960] = "Arrogant man's voice."
 
 ; 604 / Zans and the Yell Man
@@ -2329,7 +2332,9 @@ s[9418] = "I'm okay"
 ; 609 / Tournament bracket announcement
 s[9422] = "Let's go"
 s[9423] = "Can I have another one?"
-s[9424] = "Tournament bracket"
+; Not s[9424]. トーナメント表 is the event CG of the bracket itself: all four of
+; its pushes are the szCgName argument of ■イベント, and a translated one names
+; no picture, so the screen the scene talks over is simply not drawn.
 s[9425] = "I'll give it my all"
 s[9426] = "...I think I'll withdraw"
 s[9427] = "It'll be an easy win"
@@ -2766,7 +2771,10 @@ s[8696] = "Put a shell on Rance's head"
 s[8698] = "Something's coming..."
 
 ; ６１３／クエルプラン発生
-s[8701] = "Quelplan"
+; Not s[8701]. クエルプラン here is the sound of the god arriving -- both of its
+; pushes are the szSoundName argument of ■効果音, each followed by a screen
+; shake. The plate that does say the name is drawn from
+; archives/Rance10EX_v1_04/48_立ち絵名札マッピング情報.x, which already says Quelplan.
 
 ; ６１３／ランス突入
 s[8703] = "Could it be to let us escape?"
