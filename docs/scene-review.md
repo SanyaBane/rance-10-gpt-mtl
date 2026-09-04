@@ -180,6 +180,18 @@ however its English is edited afterwards. And it is committed rather than left
 under `build/`, because a pass over 5433 scenes is months of asking and `build/`
 is documented as safe to delete outright.
 
+`text_languages/<lang>/held.tsv` is its sibling and is committed for the same
+reason, one row per correction held for the sweep: the scene, the number, the
+Japanese, the line before and after, and the reason given. **Holding a name only
+pays if the finding survives until somebody sweeps it**, and
+`build/scene-review.tsv` is the wrong place for it twice over -- it is rewritten
+whole by the next run, so a batch's names are gone the moment the next batch is
+accepted, which is how `030324`'s four went missing between the run that found
+them and the run after it. The Japanese is in the row because that is what a
+sweep is keyed on: `scripts/find_term_drift.js` starts from a Japanese
+substring. Nothing takes a row out again -- a finding whose word has since been
+swept is answered by the built file rather than by an edit here.
+
 ## What the first runs measured
 
 Four scenes, read by Sonnet 5, one agent apiece.

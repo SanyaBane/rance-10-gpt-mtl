@@ -584,7 +584,8 @@ export const applyReview = (fileName, scene, edits, repairs = (japanese, english
              * swept over the whole corpus at once; the header says why.
              */
             if (holds.has(kind)) {
-                collected.push({lineNumber: at, why, kind, before: unit.english, english});
+                collected.push({lineNumber: at, why, kind, japanese: unit.japanese,
+                    before: unit.english, english});
                 continue;
             }
             const kept = keepDivision(voiceRows, english);
@@ -801,4 +802,52 @@ export const appendReviewed = async (lang, row) => {
     const line = [row.fileName, row.date, row.speeches, row.applied, row.refused, row.held, row.by]
         .join("\t");
     await fs.writeFile(file, head.endsWith("\n") ? head + line + "\n" : `${head}\n${line}\n`, "utf-8");
+};
+
+/**
+ * The corrections that were held rather than written, kept beside the
+ * translation for whoever runs the sweep.
+ *
+ * A `name:` correction is deliberately not applied: a name spelled wrong in one
+ * scene is spelled wrong in every scene that says it, so mending this copy
+ * finishes nothing and scripts/find_term_drift.js sweeps them all in one commit.
+ * That routing only pays if the finding survives until somebody sweeps it, and
+ * build/scene-review.tsv is the wrong place for it twice over. It is rewritten
+ * whole by the next run, so a batch's held findings are gone the moment the
+ * next batch is accepted -- which is how the four that 030324 found went
+ * missing. And build/ is documented as safe to delete outright, while a pass
+ * over 5433 scenes is months of asking with the sweep at the end of it.
+ *
+ * So this is reviewed.tsv's sibling and works the same way: append only,
+ * committed, one row per held correction, an event rather than a state. A
+ * finding whose word has since been swept stays in the file and is answered by
+ * the sweep rather than by an edit here -- CLAUDE.md's rule is that a sweep is
+ * finished when the built file says so, which no ledger can say.
+ *
+ * The Japanese is carried in the row because that is what a sweep is keyed on:
+ * find_term_drift.js starts from a Japanese substring, and a held row that
+ * named only the English would have to be looked up again in the scene.
+ */
+export const HELD = "held.tsv";
+
+const heldFile = (lang) => path.join(textLangDir(lang), HELD);
+
+const HELD_HEADER = "# file\tspeech\tdate\tkind\tjapanese\tbefore\tafter\twhy\tby";
+
+/**
+ * @param {string} lang
+ * @param {object[]} rows one per held correction, as applyReview collected them
+ */
+export const appendHeld = async (lang, rows) => {
+    if (!rows.length) {
+        return;
+    }
+    const file = heldFile(lang);
+    /* Read back normalised, for the reason appendReviewed gives above. */
+    const had = await fs.readFile(file, "utf-8").catch(() => "");
+    const head = had.replaceAll("\r\n", "\n") || `${HELD_HEADER}\n`;
+    const cell = (text) => String(text ?? "").replaceAll("\t", " ").replaceAll("\n", " ");
+    const body = rows.map(row => [row.fileName, row.lineNumber, row.date, row.kind, cell(row.japanese),
+        cell(row.before), cell(row.english), cell(row.why), row.by].join("\t")).join("\n") + "\n";
+    await fs.writeFile(file, head.endsWith("\n") ? head + body : `${head}\n${body}`, "utf-8");
 };

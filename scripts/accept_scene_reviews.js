@@ -52,8 +52,8 @@ import {flagValue, hasFlag} from "../modules/Argv.js";
 import {ROOT} from "../modules/Env.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
 import {parseSceneFile, renderSceneFile} from "../modules/SceneFile.js";
-import {answerFile, appendLog, appendReviewed, applyReview, promptFile, readReview, renderReport,
-    REPORT, REVIEW, verifyReview} from "../modules/SceneReview.js";
+import {answerFile, appendHeld, appendLog, appendReviewed, applyReview, promptFile, readReview,
+    renderReport, REPORT, REVIEW, verifyReview} from "../modules/SceneReview.js";
 import {isTranslated, textLangDir, textLangName, textLangScenes} from "../modules/TextLanguages.js";
 
 /** How a line reads in the run's own output: short enough to scan, long enough to judge. */
@@ -162,9 +162,17 @@ await run(async () => {
             ++filesChanged;
         }
 
+        const date = new Date().toISOString().slice(0, 10);
+        /*
+         * The held findings go beside the ledger, not into the report: that
+         * file is rewritten whole by the next run, so a batch's names would be
+         * gone as soon as another batch was accepted. The module's header has
+         * the rest.
+         */
+        await appendHeld(lang, collected.map(one => ({...one, fileName, date, by})));
         await appendReviewed(lang, {
             fileName,
-            date: new Date().toISOString().slice(0, 10),
+            date,
             speeches: scene.rows.length,
             applied: applied.length,
             refused: refused.length + problems.length,
