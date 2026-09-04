@@ -111,6 +111,15 @@ game. [docs/scene-driver.md](docs/scene-driver.md) is the loop.
 | `npm run accept-scenes` | judges the answers and writes the ones that pass into `text_languages/<lang>/scenes/` |
 | `npm run assemble-scenes` | turns those scene files into the patch `regenerate-ain` reads |
 
+Two more read the translation that is already there rather than writing a new one, and change only
+what it gets wrong -- a pronoun for the wrong person, a negation that fell out.
+[docs/scene-review.md](docs/scene-review.md) is that pass.
+
+| Command | What it does |
+|---|---|
+| `npm run request-reviews` | writes the next scenes' prompts into `build/scene-review/`, the English beside the Japanese |
+| `npm run accept-reviews` | judges each correction on its own and writes the ones that stand |
+
 ### Checking a translation
 
 A third kind of command, and the one to reach for after editing the English rather than before.

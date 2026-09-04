@@ -104,7 +104,7 @@ const PUNCTUATION = /[「」（）｛｝【】、。！？…‥・゛゜\s]/g;
  * honorific ＜エール＞様 rendered as "Lady El" is the single commonest way the
  * existing draft gives El a gender, fourteen times over.
  */
-const GENDERED = /\b(he|him|his|himself|she|her|hers|herself|lady|lord|sir|madam|mistress|mister|brother|sister|son|daughter|boy|girl|woman|prince|princess)\b/i;
+export const GENDERED = /\b(he|him|his|himself|she|her|hers|herself|lady|lord|sir|madam|mistress|mister|brother|sister|son|daughter|boy|girl|woman|prince|princess)\b/i;
 
 const differsMaterially = (a, b) => {
     const left = a.replace(PUNCTUATION, "");

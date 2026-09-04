@@ -98,6 +98,24 @@ const englishShape = (text) => [...text]
     .filter(Boolean)
     .join("");
 
+/**
+ * Whether a speech's English carries the brackets its Japanese does, in order.
+ *
+ * The same comparison `classify` opens with, asked as a yes or no, because a
+ * pass that rewrites a whole speech needs it as a gate rather than as a bucket:
+ * modules/SceneReview.js holds a corrected line against the line it replaces and
+ * refuses one that would drop a 」 the old one had. In order rather than by
+ * count -- 「」 and 」「 hold the same two characters and only one of them is a
+ * speech.
+ *
+ * A speech written with straight quotes does not agree by this, and that is
+ * right for a gate that compares before with after: the answer is the same on
+ * both sides, so it decides nothing there, and a fix that turned 「」 into "" on
+ * its way past would be caught.
+ */
+export const bracketsAgree = (japanese, english) =>
+    englishShape(english) === japaneseShape(japanese);
+
 /** `"` alternating open, close, open -- what a draft using straight quotes meant. */
 const asJapaneseQuotes = (shape) => {
     let open = true;

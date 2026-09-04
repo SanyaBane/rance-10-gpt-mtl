@@ -85,7 +85,7 @@ export const readSceneGlossaries = async () => ({
  * the end of one line against the start of the next and invents a name that is
  * in neither.
  */
-const glossaryFor = (scene, {names, tables}) => {
+export const glossaryFor = (scene, {names, tables}) => {
     const japanese = scene.rows.map(row => row.japanese).filter(Boolean);
     const found = new Map();
     for (const line of japanese) {
@@ -124,7 +124,7 @@ const glossaryFor = (scene, {names, tables}) => {
  * decides at ２部旅立ち and the game plays the same lines to both, so the line
  * has to work either way. modules/SceneAcceptance.js warns when it does not.
  */
-const castBlock = (scene, voices) => scene.cast
+export const castBlock = (scene, voices) => scene.cast
     .map(member => `- **${member.speaker}** (${member.stand}) -- ${member.gender}`
         + (voices.get(member.speaker) ? `. ${voices.get(member.speaker)}` : ""))
     .join("\n");
@@ -163,7 +163,12 @@ const sceneBlock = (scene) => {
     return lines.join("\n");
 };
 
-const RULES = `## The rules
+/**
+ * The shape of the answer, which is the one part a review pass does not share:
+ * it is asked for a whole scene and a review is asked for the speeches it would
+ * change. modules/SceneReview.js writes its own and reuses the two below.
+ */
+const ANSWER_RULES = `## The rules
 
 **Send back every speech, and only these speeches.** One line per speech below:
 the number, a tab, the English. Nothing else on the line -- no speaker, no
@@ -180,9 +185,16 @@ answer reveals.
 **One speech, one line of answer.** No tab and no line break inside the English:
 the first moves every column when the scene is written back, the second is read
 as the end of the answer. Where the Japanese is empty, send the number and an
-empty English.
+empty English.`;
 
-**Keep ＜エール＞ exactly as it is**, brackets and all. The game replaces it at
+/**
+ * What the English has to carry whoever is writing it, and whatever they were
+ * asked to do. A retranslation and a review both end up writing a line into the
+ * same window, past the same three passes, so both are told this and in the
+ * same words: two copies of a rule about ＜エール＞ is one of them left behind
+ * the next time the token's story changes.
+ */
+export const TEXT_RULES = `**Keep ＜エール＞ exactly as it is**, brackets and all. The game replaces it at
 runtime with the name the player typed for the protagonist. Resolving it to "El"
 writes one player's name into everybody's game. Other ＜…＞ are sound effects and
 are translated inside the brackets.
@@ -193,19 +205,36 @@ decoration, and the build reads them to lay the speech out.
 
 **Write the rest in plain ASCII.** The build rewrites ... for an ellipsis, a
 hyphen for a dash, straight quotes for curly ones, and strips accents, so
-writing them plainly is what you will get either way.
+writing them plainly is what you will get either way.`;
 
-**…… is "...", three dots**, however many Japanese characters it runs to. Not
+/**
+ * How many dots an ellipsis is, which is a rule for writing a line and not one
+ * for correcting a line that exists.
+ *
+ * A translation being written can be asked for three. The translation that
+ * exists answers …… with a run of dots that matches it -- 20 457 rows of them
+ * -- and that is its house style rather than 20 457 mistakes. So
+ * modules/SceneReview.js leaves this rule out: carrying it, a review of one
+ * scene reported eight ellipses and buried the pronoun it had been asked for.
+ */
+export const ELLIPSIS_RULE = `**…… is "...", three dots**, however many Japanese characters it runs to. Not
 one dot apiece. 「ぐすっ……奴隷です……」 is "「Sniff... Your slave...」" and not
 "「Sniff...... Your slave......」"; the second is a transcription of the source
-rather than a line of English.
+rather than a line of English.`;
 
-**A number the Japanese writes in digits stays in digits.** 20万 is "200,000",
+/** True of a line whoever is writing it, so the review prompt carries it too. */
+export const NUMBER_RULE = `**A number the Japanese writes in digits stays in digits.** 20万 is "200,000",
 not "two hundred thousand": a figure spelled out reads as prose where the
 Japanese meant a figure. Multiply 万 and 億 out on the way, because English has
-no unit for either -- 20万 is 200,000 and never "20 man" or "20 myriad".
+no unit for either -- 20万 is 200,000 and never "20 man" or "20 myriad".`;
 
-## How it has to sound
+/**
+ * How the line has to sound, which a review needs for the same reason a
+ * translation does: a corrected line is a line somebody wrote, and the
+ * commonest way a careful correction goes wrong is by tidying the speaker up
+ * while it is in there fixing the pronoun.
+ */
+export const SOUND_RULES = `## How it has to sound
 
 This is a game script. Every line is somebody talking, or the narrator telling
 you what you just did. It is not a document, and the commonest way a careful
@@ -264,6 +293,9 @@ protesting, English has the same construction, and turning it into a statement
 leaves somebody calmly reporting their own expectations. The same goes the
 other way -- an order stays an order, a mutter stays a mutter.`;
 
+/** The three back in one, which is what a translation prompt has always said. */
+const RULES = [ANSWER_RULES, TEXT_RULES, ELLIPSIS_RULE, NUMBER_RULE, SOUND_RULES].join("\n\n");
+
 const ROUTE_RULE = `## The two Els
 
 Lines between \`> male\` and \`> end\` are played only to a player who made El a
@@ -273,7 +305,7 @@ both, so one English sentence used for the pair is one of the two players
 reading a line written for the other. 深根 calls El 兄様 on one route and 姉様 on
 the other; "big sibling" is a translation of neither.`;
 
-const EL_RULE = `## El's gender is the player's
+export const EL_RULE = `## El's gender is the player's
 
 El Mofus is in this scene and the game does not say whether El is a man or a
 woman -- the player chose at ２部旅立ち, and these lines are played word for word
