@@ -518,7 +518,11 @@ characters by three rows, 31 by two for the `●…Ｅ` commands. Which matters 
 retranslation, because the words of one speech may be moved between its rows
 freely — nothing reads a row alone, the backlog replays the same rows and the
 game has no voice — while the number of rows cannot change, because they are
-`MSG` operands in the bytecode.
+`MSG` operands in the bytecode. **Freely inside one voice**: 297 speeches
+change speaker without the click that would end them, and a layout that
+balances those as one text puts Reset Kalar's question inside El's silence.
+Which reaches the game through the bake rather than through the build — one
+such join is in the corpus today. `docs/speech-voices.md`.
 
 **Editing a layout number is a different question from reading one.** A value of
 a kind the game never uses is a guess, however sound the arithmetic behind it.

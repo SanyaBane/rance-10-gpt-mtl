@@ -116,7 +116,7 @@ import {parseSceneFile, renderSceneFile, speechesOf} from "../modules/SceneFile.
 import {translatedScenesDir} from "../modules/SceneTranslations.js";
 import {carriesText, isShifted} from "../modules/SpeechBrackets.js";
 import {findSpeechGaps} from "../modules/SpeechGaps.js";
-import {inHistoryFrameOf, layOutSpeech} from "../modules/SpeechRows.js";
+import {inHistoryFrameOf, layOutVoices} from "../modules/SpeechRows.js";
 import {textLangName} from "../modules/TextLanguages.js";
 
 /** One utterance as the layout reads it: the words, and nothing about the rows. */
@@ -219,7 +219,12 @@ await run(async () => {
                 continue;
             }
 
-            const laid = layOutSpeech(speech.english, spoken.length);
+            // Voice by voice, the way the build lays it out: a speech whose speaker
+            // changes part way is two people's rows, and words may not move across
+            // that point. docs/speech-voices.md.
+            const spokenAt = new Set(spoken.map(row => row.lineNumber));
+            const laid = layOutVoices(speech.voices,
+                voiceRows => voiceRows.filter(number => spokenAt.has(number)));
             if (laid.tooFewWords) {
                 ++left.tooFewWords;
                 continue;

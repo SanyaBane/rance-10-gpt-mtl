@@ -174,6 +174,18 @@ export const parseSceneFile = (text) => {
  * the quote and belongs to the row, not to the sentence. SpeechRows puts it
  * back on whichever rows end up being continuations.
  *
+ * **A speech is not always one person talking**, which is what `voices` is for.
+ * 297 of them change speaker part way through without the click that would end
+ * them -- El's 「…………。」 and the answer to it in the same window, a character's
+ * thought running straight into the narration that answers it. The speech is
+ * still the unit: it is one window, one click, one budget, and it is what a
+ * translator is handed. But the rows of one voice are not the rows of the next,
+ * so **the layout may move words inside a voice and never across one**, or
+ * Reset Kalar's line starts inside El's silence: laid out as one text,
+ * m[191402] comes back as `「............」 「Eh,`. The bake writes what the
+ * layout says straight into the corpus, and one such join is in the game
+ * today. `docs/speech-voices.md` is the class and what it has cost.
+ *
  * @param {ReturnType<parseSceneFile>} scene
  * A speech's state is the first its rows name, and almost always the only one:
  * the portrait changes inside an utterance in 372 of the game's 166172
@@ -188,8 +200,23 @@ export const parseSceneFile = (text) => {
  *     rows: number[],
  *     japanese: string,
  *     english: string,
+ *     voices: {speaker: string, rows: number[], japanese: string, english: string}[],
  * }[]}
  */
+/**
+ * A speaker cell that carries the row on rather than naming somebody new.
+ *
+ * "+" says so outright -- scripts/extract_scenes.js writes it only when the row
+ * continues *and* resolves to the same speaker. "?" is the subtler one, and
+ * reading it as a voice of its own would cut 592 speeches where nobody new is
+ * speaking: it is what that script writes for a message with neither a portrait
+ * nor the narration flag, and what those rows are is the rest of the line
+ * above. 「で、中身は………… / 　っ、きゃああああぁぁぁっ！？」 is one of Sanakia's
+ * sentences across two `MSG`, the second of which the bytecode gives no
+ * portrait; the continuation indent on it says the same thing.
+ */
+const CONTINUES = new Set(["+", "?"]);
+
 export const speechesOf = (scene) => {
     const speeches = [];
     for (const row of scene.rows) {
@@ -203,6 +230,7 @@ export const speechesOf = (scene) => {
                 rows: [],
                 japanese: "",
                 english: "",
+                voices: [],
             });
         }
         const speech = speeches[speeches.length - 1];
@@ -210,6 +238,16 @@ export const speechesOf = (scene) => {
         speech.rows.push(row.lineNumber);
         speech.japanese += row.japanese.replace(/^　/, "");
         speech.english += (speech.english && row.english ? " " : "")
+            + row.english.replace(/^　/, "");
+
+        const openVoice = speech.voices[speech.voices.length - 1];
+        if (!openVoice || (!CONTINUES.has(row.speaker) && row.speaker !== openVoice.speaker)) {
+            speech.voices.push({speaker: row.speaker, rows: [], japanese: "", english: ""});
+        }
+        const voice = speech.voices[speech.voices.length - 1];
+        voice.rows.push(row.lineNumber);
+        voice.japanese += row.japanese.replace(/^　/, "");
+        voice.english += (voice.english && row.english ? " " : "")
             + row.english.replace(/^　/, "");
     }
     return speeches;

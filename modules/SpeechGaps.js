@@ -88,7 +88,7 @@ import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
 import {
     backlogEms, BACKLOG_EDGE, clipsInBacklog, drawnLines, folds,
-    inHistoryFrameOf as inHistoryFrame, layOutSpeech, rowBudget,
+    inHistoryFrameOf as inHistoryFrame, layOutVoices, rowBudget,
 } from "./SpeechRows.js";
 
 /** Worst first, which is also the order a fix is worth making in. */
@@ -281,7 +281,13 @@ export const findSpeechGaps = async (lang, only) => {
             // only rows a layout may put words in.
             const drawn = drawnLines(rows.map(englishOf));
             const budget = rowBudget(rows.length);
-            const again = layOutSpeech(speech.english, spoken.length);
+            // Voice by voice, the way the build lays it out: a speech whose
+            // speaker changes part way is two people's rows and the layout may
+            // not move words between them. Offering a fix the build would not
+            // produce is worse than offering none.
+            const spokenAt = new Set(spoken.map(row => row.lineNumber));
+            const again = layOutVoices(speech.voices,
+                voiceRows => voiceRows.filter(lineNumber => spokenAt.has(lineNumber)));
             const howItWouldGo = {
                 drawn,
                 budget,

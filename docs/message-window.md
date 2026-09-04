@@ -3,7 +3,8 @@
 What a translation is allowed to do with the length of a line of dialogue. The
 short answer: **the words may be moved freely between the rows of one speech,
 the number of rows may not change, and a row is twenty-four full-width
-characters wide.**
+characters wide.** Freely inside one voice: a speech that changes speaker part
+way through is two people's rows, and `docs/speech-voices.md` is that class.
 
 `docs/text-width.md` is the same question for the panels, and its font table and
 its two measured constants are what this uses. What it says about the dialogue
@@ -488,7 +489,9 @@ already carry one like it.
 ## What a translation may do
 
 **Move words between the rows of one speech: yes, freely.** Nothing reads a row
-on its own.
+on its own -- with one exception, which is a speech whose speaker changes part
+way through: 297 of them do, and words may not cross that point.
+`docs/speech-voices.md`.
 
 - The backlog is fed by the same three functions — `AddText` per row,
   `AddNewLine` per `R`, `AddNewPage` per `A` — so it replays whatever the window

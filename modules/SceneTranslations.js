@@ -30,7 +30,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {parseSceneFile, renderSceneFile, sceneFileName, speechesOf} from "./SceneFile.js";
-import {layOutSpeech} from "./SpeechRows.js";
+import {layOutVoices} from "./SpeechRows.js";
 import {textLangScenes} from "./TextLanguages.js";
 
 /** text_languages/<lang>/scenes: the translation, one file per scene. */
@@ -118,6 +118,11 @@ export const readTranslatedScenes = async (lang) => {
  * speechesOf joins the rows of a speech back into the utterance before this
  * ever sees them, so an older file is simply laid out again.
  *
+ * **The unit is the speech and the layout is per voice.** 297 speeches change
+ * speaker without the click that would end them -- El's 「…………。」 and the
+ * answer to it in the same window -- and words may not move across that point.
+ * `layOutVoices` is where that lives; docs/speech-voices.md is the class.
+ *
  * @return {Promise<{text: string, scenes: number, lines: number, skipped: number}>}
  */
 export const assemblePatch = async (lang) => {
@@ -127,20 +132,32 @@ export const assemblePatch = async (lang) => {
     let skipped = 0;
     for (const {fileName, scene} of translated) {
         for (const speech of speechesOf(scene)) {
-            if (!speech.english) {
-                skipped += speech.rows.length;
-                continue;
-            }
-            const {rows} = layOutSpeech(speech.english, speech.rows.length);
-            speech.rows.forEach((lineNumber, at) => {
+            /*
+             * A voice at a time, not a speech.
+             *
+             * The speech is one window and the layout may move words freely
+             * inside it -- except across the point where somebody else starts
+             * talking. 297 speeches change speaker without the click that would
+             * end them, and balancing those as one text puts the second
+             * character's first words on the first character's row --
+             * m[191402] comes back as `「............」 「Eh,`, Reset Kalar's
+             * question inside El's silence. Each voice keeps its own rows.
+             * docs/speech-voices.md.
+             */
+            const laid = layOutVoices(speech.voices);
+            // Left unnamed rather than written empty, for the reason the header
+            // gives: the game's own Japanese is the better of the two things an
+            // untranslated row can play.
+            skipped += laid.skipped.length;
+            for (const [lineNumber, text] of laid.byLineNumber) {
                 if (owner.has(lineNumber)) {
                     throw new Error(`line ${lineNumber} is claimed by both ${owner.get(lineNumber)}`
-                        + ` and ${fileName}. A line belongs to one scene, so the line numbers have moved --`
-                        + " regenerate the scenes before assembling this.");
+                        + ` and ${fileName}. A line belongs to one scene, so the line numbers have`
+                        + " moved -- regenerate the scenes before assembling this.");
                 }
                 owner.set(lineNumber, fileName);
-                byLineNumber.set(lineNumber, rows[at]);
-            });
+                byLineNumber.set(lineNumber, text);
+            }
         }
     }
     const text = [...byLineNumber.keys()]

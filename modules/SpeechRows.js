@@ -293,6 +293,64 @@ export const balanceAcross = (words, count, tracking) => {
  * @param {number} count how many `m[]` rows the speech has
  * @return {{rows: string[], fits: boolean, tooFewWords: boolean}}
  */
+/**
+ * A whole speech laid out, one voice at a time.
+ *
+ * The layout may move words anywhere inside one person's line and never past
+ * the point where somebody else starts talking: 297 speeches change speaker
+ * without the click that would end them, and balanced as one text they put the
+ * second character's opening words on the first character's row -- m[191402]
+ * comes back as `「............」 「Eh,`, El's silence with Reset Kalar's
+ * question starting inside it. What makes that more than a hypothetical is
+ * scripts/bake_speech_rows.js, which writes a layout into the corpus and so
+ * into the game: m[204578] carried the narration's tail onto Wass's row from
+ * d4dfe0661 until this. modules/SceneFile.js is where a voice comes from and
+ * docs/speech-voices.md is the class.
+ *
+ * `fits` is still asked of the whole speech, because the window is: the rows of
+ * every voice are drawn together and the click is at the end of the last one.
+ * Asking it per voice would give a three-row budget to each half of a four-row
+ * speech and call six drawn lines a fit.
+ *
+ * `rowsToFill` is for the callers that lay out only the rows the game speaks
+ * on -- modules/SpeechGaps.js and the bake -- since a row the game itself left
+ * blank owes a translation nothing. It narrows each voice's rows; a voice left
+ * with none is skipped, and one with no English of its own is skipped too, so
+ * the build leaves those numbers unnamed and they play in Japanese.
+ *
+ * @param {{speaker: string, rows: number[], english: string}[]} voices
+ * @param {(rows: number[]) => number[]} [rowsToFill]
+ * @return {{byLineNumber: Map<number, string>, rows: string[], fits: boolean,
+ *     tooFewWords: boolean, skipped: number[]}}
+ */
+export const layOutVoices = (voices, rowsToFill = (rows) => rows) => {
+    const byLineNumber = new Map();
+    const laidOut = [];
+    const skipped = [];
+    let tooFewWords = false;
+    for (const voice of voices) {
+        const rows = rowsToFill(voice.rows);
+        if (!rows.length) {
+            continue;
+        }
+        if (!voice.english.trim()) {
+            skipped.push(...rows);
+            continue;
+        }
+        const laid = layOutSpeech(voice.english, rows.length);
+        rows.forEach((lineNumber, at) => byLineNumber.set(lineNumber, laid.rows[at]));
+        laidOut.push(...laid.rows);
+        tooFewWords ||= laid.tooFewWords;
+    }
+    return {
+        byLineNumber,
+        rows: laidOut,
+        fits: drawnLines(laidOut) <= rowBudget(laidOut.length),
+        tooFewWords,
+        skipped,
+    };
+};
+
 export const layOutSpeech = (english, count) => {
     const text = english.trim();
     const words = text.split(/\s+/).filter(Boolean);
