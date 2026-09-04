@@ -6,175 +6,175 @@
 
 205385	-		あなたの前に現れたのは乱義だった。	The one who appeared before you was Rangi.
 
-205386	Yamamoto Rangi		「決戦前夜だから眠れないかい？」	「Can't sleep because it's the night before the decisive battle?」
+205386	Yamamoto Rangi		「決戦前夜だから眠れないかい？」	「Unable to sleep on the night before the decisive battle?」
 
-205387	-		あなたは頷く。	You nod.
-205388	+		それを見て乱義の笑みは深くなった。	Seeing that, Rangi's smile deepened.
+205387	-		あなたは頷く。	You nodded.
+205388	+		それを見て乱義の笑みは深くなった。	Seeing that, Rangi's smile deepened warmly.
 
-205389	Yamamoto Rangi	微笑み	「僕も似たようなものさ。	「I'm the same way.
-205390	+		　やはり気が昂ぶってしまって……」	　My blood is boiling...」
+205389	Yamamoto Rangi	微笑み	「僕も似たようなものさ。	「I am in much the same state.
+205390	+		　やはり気が昂ぶってしまって……」	　My spirits are restless and stirred up, after all...」
 
-205391	Yamamoto Rangi		「ここ、座ってもいいかな？」	「Can I sit here?」
+205391	Yamamoto Rangi		「ここ、座ってもいいかな？」	「May I take a seat here?」
 
-205392	-		あなたが頷くのを確認してから、	After confirming you nodded,
-205393	+		乱義はあなたの向かいのソファーに腰を下ろした。	Rangi sat on the sofa across from you.
+205392	-		あなたが頷くのを確認してから、	After confirming your nod of approval,
+205393	+		乱義はあなたの向かいのソファーに腰を下ろした。	Rangi took a seat on the sofa across from you.
 
 205394	Yamamoto Rangi	カッコつけ	「それにしても、ふふ……	「Even so, fufu...
-205395	+		　決戦前夜なのに随分と騒がしいものだね」	It's quite lively the night before the decisive battle.」
+205395	+		　決戦前夜なのに随分と騒がしいものだね」	　For the night before a decisive battle, everyone is certainly making quite a racket.」
 
-205396	Yamamoto Rangi		「少なくとも五年前は、	「At least five years ago,
-205397	+		　皆が静かに過ごしたものだったんだが……」	　everyone spent it quietly...」
+205396	Yamamoto Rangi		「少なくとも五年前は、	「Five years ago, at the very least,
+205397	+		　皆が静かに過ごしたものだったんだが……」	　everyone spent that eve in solemn, quiet contemplation...」
 
-205398	Yamamoto Rangi	微笑み	「賑やかな方が僕達らしいのかもね」	「Being lively suits us better, maybe.」
+205398	Yamamoto Rangi	微笑み	「賑やかな方が僕達らしいのかもね」	「Though perhaps being loud and cheerful suits us far better.」
 
-205399	-		乱義の声に呆れや見下すような色はなく、	There was no exasperation or condescension
-205400	+		むしろ兄弟姉妹達に対する親しみ、	in Rangi's voice, instead you felt affection
-205401	+		愛情が込められているとあなたは感じた。	and fondness for his brothers and sisters.
+205399	-		乱義の声に呆れや見下すような色はなく、	There was neither exasperation nor condescension in Rangi's voice.
+205400	+		むしろ兄弟姉妹達に対する親しみ、	Instead, you could feel a deep, genuine warmth
+205401	+		愛情が込められているとあなたは感じた。	and affection for all his siblings.
 
-205402	Yamamoto Rangi	基本	「でも、今は静かな夜だ……」	「But tonight is a quiet night...」
+205402	Yamamoto Rangi	基本	「でも、今は静かな夜だ……」	「Yet here, tonight is such a peaceful night...」
 
 205403	Yamamoto Rangi		「…………」	「............」
 
-205404	-		ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
-205405	+		二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
+205404	-		ロビーにはあなた達以外、誰もいない。	There was no one else in the lobby besides the two of you.
+205405	+		二人の会話もどこか途切れ途切れ。	The conversation flowed quietly, with gentle pauses in between.
 
-205406	-		しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
-205407	+		むしろ落ち着くとあなたは思った。	In fact, you feel calm.
+205406	-		しかし、居心地の悪さはまったく感じない。	Yet there was not the slightest hint of awkwardness.
+205407	+		むしろ落ち着くとあなたは思った。	If anything, you found the quiet presence deeply comforting.
 
-205408	-		なんとなく、	Somehow,
-205409	+		まったりとした時間が流れる。	a relaxed time flows gently.
+205408	-		なんとなく、	A peaceful,
+205409	+		まったりとした時間が流れる。	tender moment drifted by.
 
-205410	Yamamoto Rangi		「まだ、戦いが終わったわけじゃないけど……」	「The battle isn't over yet but...」
+205410	Yamamoto Rangi		「まだ、戦いが終わったわけじゃないけど……」	「The battle is not yet over, of course, but...」
 
-205411	Yamamoto Rangi	微笑み	「ここまで、本当にお疲れ様、＜エール＞」	「You've worked really hard to get here, ＜エール＞.」
+205411	Yamamoto Rangi	微笑み	「ここまで、本当にお疲れ様、＜エール＞」	「You have worked so very hard to bring us this far, ＜エール＞.」
 
-205412	Yamamoto Rangi		「思ったよりも、長い旅になった。	「It became a longer journey than expected.
-205413	+		　＜エール＞も疲れただろう」	　You must be tired too.」
+205412	Yamamoto Rangi		「思ったよりも、長い旅になった。	「It turned out to be a far longer journey than anyone anticipated.
+205413	+		　＜エール＞も疲れただろう」	　You must be thoroughly exhausted as well.」
 
-205414	Yamamoto Rangi		「ふふ、特に魔王の子達は……	「Fufu, especially the Demon King's children...
-205415	+		　ああだからね」	　That's why.」
+205414	Yamamoto Rangi		「ふふ、特に魔王の子達は……	「Fufu, particularly given how... unique
+205415	+		　ああだからね」	　our fellow siblings happen to be.」
 
 205416	Yamamoto Rangi	基本	「…………」	「............」
 
-205417	-		不意に、天井を見上げて乱義は溜め息をついた。	Suddenly Rangi looked up at the ceiling and sighed.
+205417	-		不意に、天井を見上げて乱義は溜め息をついた。	Rangi looked up at the ceiling and let out a gentle sigh.
 
-205418	Yamamoto Rangi	カッコつけ	「ああ、でも……	「Ah, but...
-205419	+		　本当に楽しい旅だった」	　It really was a fun journey.」
+205418	Yamamoto Rangi	カッコつけ	「ああ、でも……	「Ah, but still...
+205419	+		　本当に楽しい旅だった」	　It truly was a wonderful journey.」
 
-205420	-		それは、心の底からわき出たような、	It was a heartfelt,
-205421	+		しみじみとした声だった。	deeply felt voice.
+205420	-		それは、心の底からわき出たような、	Those words were spoken in a quiet, heartfelt tone
+205421	+		しみじみとした声だった。	that welled up from the very depths of his soul.
 
-205422	-		責任感の強い乱義が楽しいと	For the highly responsible Rangi to say it was fun
-205423	+		感じていたというのは、あなたにとって――	was quite surprising to you--
+205422	-		責任感の強い乱義が楽しいと	To hear such a serious, duty-bound leader say he genuinely had fun
+205423	+		感じていたというのは、あなたにとって――	was quite surprising to you—
 
-205424	Yamamoto Rangi	微笑み	「ふふ、意外だったかい？」	「Fufu, were you surprised?」
+205424	Yamamoto Rangi	微笑み	「ふふ、意外だったかい？」	「Fufu, does that come as a surprise?」
 
-205425	-		天井を見上げていた乱義が、	Rangi, who was looking at the ceiling,
-205426	+		ちらりとあなたに視線を向けた。	glanced at you.
+205425	-		天井を見上げていた乱義が、	Rangi, who had been staring at the ceiling,
+205426	+		ちらりとあなたに視線を向けた。	turned his gaze toward you.
 
-205427	Yamamoto Rangi		「今回の旅は賑やかで……	「This journey was lively...
-205428	+		　呑気だったからね」	　and carefree.」
+205427	Yamamoto Rangi		「今回の旅は賑やかで……	「Our journey together was so lively...
+205428	+		　呑気だったからね」	　and so delightfully carefree.」
 
 205429	Yamamoto Rangi		「リセットは家族旅行のようなものと言ったが、	「Reset called it a family trip,
-205430	+		　あながち間違いでもなかった」	　and she wasn't entirely wrong.」
+205430	+		　あながち間違いでもなかった」	　and in truth, she was not entirely mistaken.」
 
 > male
-205431	Yamamoto Rangi		「面白い弟とも出会えた」	「I met an interesting little brother.」
+205431	Yamamoto Rangi		「面白い弟とも出会えた」	「I was able to meet a fascinating little brother, after all.」
 
 > female
-205432	Yamamoto Rangi		「面白い妹とも出会えた」	「I met an interesting little sister.」
+205432	Yamamoto Rangi		「面白い妹とも出会えた」	「I was able to meet a fascinating little sister, after all.」
 
 > end
-205433	Yamamoto Rangi	説明するよ	「……少し変な子ではあるけどね」	「...Though they are a bit strange.」
+205433	Yamamoto Rangi	説明するよ	「……少し変な子ではあるけどね」	「...Even if you are a rather quirky one.」
 
-205434	-		呆れと好感を半分ほど混ぜたような顔で、	With a face mixing exasperation and fondness,
-205435	+		乱義はそう言った。	Rangi said.
+205434	-		呆れと好感を半分ほど混ぜたような顔で、	Rangi said with a wry smile that blended
+205435	+		乱義はそう言った。	exasperation and fond affection in equal measure.
 
 205436	Yamamoto Rangi	基本	「…………」	「............」
 
-205437	Yamamoto Rangi		「皆、それぞれに自分の国がある」	「Everyone has their own country.」
+205437	Yamamoto Rangi		「皆、それぞれに自分の国がある」	「Everyone has their own country to shoulder.」
 
-205438	Yamamoto Rangi		「国のうねり、動きは……	「The tides and movements of nations...
-205439	+		　例え国主であっても完璧には止められない」	　Even a ruler cannot stop them completely.」
+205438	Yamamoto Rangi		「国のうねり、動きは……	「The political tides and historic currents of nations...
+205439	+		　例え国主であっても完璧には止められない」	　Even a supreme ruler cannot halt them entirely.」
 
-205440	Yamamoto Rangi		「あいつは……	「That guy...
-205441	+		　それほど馬鹿ではないが」	　isn't that stupid, but」
+205440	Yamamoto Rangi		「あいつは……	「That man...
+205441	+		　それほど馬鹿ではないが」	　is not entirely a fool, but...」
 
-205442	Yamamoto Rangi		「JAPANとリーザスが	「JAPAN and Leazas
-205443	+		　戦争になることもあるかも知れない」	　might go to war someday.」
+205442	Yamamoto Rangi		「JAPANとリーザスが	「A day may come when JAPAN and Leazas
+205443	+		　戦争になることもあるかも知れない」	　find themselves at war.」
 
-205444	-		それは冗談や突拍子もない考えではないのだろう。	It didn't sound like a joke or wild idea.
-205445	+		乱義の表情は真剣だった。	Rangi's expression was completely serious.
+205444	-		それは冗談や突拍子もない考えではないのだろう。	His words were neither a joke nor an outlandish hypothetical.
+205445	+		乱義の表情は真剣だった。	Rangi's expression was utterly grave.
 
-205446	Yamamoto Rangi		「＜エール＞、忘れないようにね。	「＜エール＞, don't forget.
-205447	+		　もしかしたら……こんな時間は、	　Moments like this...
-205448	+		　本当に貴重なものかも知れないということを」	　might truly be precious.」
+205446	Yamamoto Rangi		「＜エール＞、忘れないようにね。	「＜エール＞, please do not forget.
+205447	+		　もしかしたら……こんな時間は、	　Time spent like this...
+205448	+		　本当に貴重なものかも知れないということを」	　may very well be something precious beyond measure.」
 
-205449	Yamamoto Rangi		「……こうして、魔王の子達だけで旅なんて、	「...Traveling just with the Demon King's children like this
-205450	+		　二度とないかも知れないことを」	　might never happen again.」
+205449	Yamamoto Rangi		「……こうして、魔王の子達だけで旅なんて、	「...Traveling together solely as the children of the Demon King like this
+205450	+		　二度とないかも知れないことを」	　is something that may never happen again.」
 
 205451	Yamamoto Rangi		「…………」	「............」
 
-205452	Yamamoto Rangi	カッコつけ	「まあ、リセットも僕もいる。	「Well, Reset and I are here.
-205453	+		　言葉ほどは心配はしてないけどね」	　I'm not as worried as I sound.」
+205452	Yamamoto Rangi	カッコつけ	「まあ、リセットも僕もいる。	「Well, Reset and I are both here.
+205453	+		　言葉ほどは心配はしてないけどね」	　I am not quite as pessimistic as my words might suggest.」
 
-205454	Yamamoto Rangi	微笑み	「でも、その思いがあるから……	「But because of those feelings...
-205455	+		　本当に今回の旅は、楽しかった」	　this journey was truly enjoyable.」
+205454	Yamamoto Rangi	微笑み	「でも、その思いがあるから……	「Yet precisely because I cherish those thoughts...
+205455	+		　本当に今回の旅は、楽しかった」	　this journey was truly, deeply enjoyable.」
 
-205456	Yamamoto Rangi		「本当に、ね……」	「Really...」
+205456	Yamamoto Rangi		「本当に、ね……」	「Truly so...」
 
-205457	Yamamoto Rangi	基本	「明日は……皆で戦い、そして……	「Tomorrow... we fight together, and then...
-205458	+		　皆で無事に帰ろう」	　let's all return safely.」
+205457	Yamamoto Rangi	基本	「明日は……皆で戦い、そして……	「Tomorrow... we shall fight together, and then...
+205458	+		　皆で無事に帰ろう」	　let us all return home safely.」
 
-205459	Yamamoto Rangi		「誰一人欠けることなく」	「Without losing a single person.」
+205459	Yamamoto Rangi		「誰一人欠けることなく」	「Without leaving a single one of us behind.」
 
-205460	Yamamoto Rangi		「＜エール＞、その為の尽力は惜しまないと、	「＜エール＞, will you promise me
-205461	+		　僕と約束してくれるかい？」	　you'll spare no effort for that?」
+205460	Yamamoto Rangi		「＜エール＞、その為の尽力は惜しまないと、	「＜エール＞, will you give me your word
+205461	+		　僕と約束してくれるかい？」	　that you will spare no effort to ensure that outcome?」
 
 205462	El Mofus		「…………。」	「............」
 205463	Yamamoto Rangi	微笑み	「ふっ……	「Heh...
-205464	+		　じゃあ、最後に念押しだ」	　One last thing.」
+205464	+		　じゃあ、最後に念押しだ」	　Then, allow me to make one final, crucial point.」
 
 205465	Yamamoto Rangi	基本	「＜エール＞。	「＜エール＞.
-205466	+		　皆の中には自分も入っていることを	　Make sure you include yourself
-205467	+		　忘れないようにね」	　among everyone.」
+205466	+		　皆の中には自分も入っていることを	　Do not forget that 'everyone'
+205467	+		　忘れないようにね」	　includes yourself as well.」
 
-205468	-		こちらが本題だったのだろう。	This was probably the main point.
-205469	+		乱義の表情は真剣そのものだった。	Rangi's expression was utterly serious.
+205468	-		こちらが本題だったのだろう。	This was clearly the heart of what he wished to say.
+205469	+		乱義の表情は真剣そのものだった。	Rangi's expression turned entirely serious.
 
-205470	Yamamoto Rangi		「……みんな心配している」	「...Everyone is worried.」
+205470	Yamamoto Rangi		「……みんな心配している」	「...Everyone is worried about you.」
 
-205471	Yamamoto Rangi		「＜エール＞はおそらく自覚ないだろうが、	「You probably don't realize it, but you have an air
-205472	+		　ある日、ふらっと消えそうな雰囲気があるから」	　about you like you might suddenly vanish one day.」
+205471	Yamamoto Rangi		「＜エール＞はおそらく自覚ないだろうが、	「You are likely unaware of it yourself, ＜エール＞,
+205472	+		　ある日、ふらっと消えそうな雰囲気があるから」	　but you carry this ethereal presence... as though you might simply vanish without a trace one day.」
 
-205473	Yamamoto Rangi		「特に明日は決戦だ。	「Especially tomorrow is the decisive battle.
-205474	+		　リセットやスシヌはかなり＜エール＞を……」	　Reset and Sushinu are really worried about ＜エール＞...」
+205473	Yamamoto Rangi		「特に明日は決戦だ。	「Especially with the decisive battle tomorrow.
+205474	+		　リセットやスシヌはかなり＜エール＞を……」	　Reset and Sushinu are both terribly worried about ＜エール＞...」
 
 205475	Yamamoto Rangi		「…………」	「............」
 
-205476	Yamamoto Rangi	カッコつけ	「いや、こんな言い方は良くないね」	「No, that's not a good way to say it.」
+205476	Yamamoto Rangi	カッコつけ	「いや、こんな言い方は良くないね」	「No, phrasing it like that is cowardly of me.」
 
-205477	Yamamoto Rangi	基本	「僕が心配なんだ。	「I'm the one who's worried.
-205478	+		　＜エール＞のことが」	　About ＜エール＞.」
+205477	Yamamoto Rangi	基本	「僕が心配なんだ。	「I am worried about you.
+205478	+		　＜エール＞のことが」	　Deeply so, ＜エール＞.」
 
 205479	Yamamoto Rangi		「約束、してくれるかい？	「Will you promise me?
-205480	+		　必ず無事に帰ってくると」	　That you'll definitely return safely.」
+205480	+		　必ず無事に帰ってくると」	　That you will return safely, without fail.」
 
 205481	El Mofus		「…………。」	「............」
-205482	Yamamoto Rangi	微笑み	「……うん」	「...Yeah.」
+205482	Yamamoto Rangi	微笑み	「……うん」	「...Good.」
 
-205483	Yamamoto Rangi	笑顔	「それなら、安心だ」	「Then I'm relieved.」
+205483	Yamamoto Rangi	笑顔	「それなら、安心だ」	「Then my mind is at ease.」
 
-205484	-		口約束をどれほど信頼してくれたのか。	He trusted the verbal promise that much.
-205485	+		乱義は本当に安心したような声をしていた。	Rangi's voice sounded truly relieved.
+205484	-		口約束をどれほど信頼してくれたのか。	Placing absolute faith in your verbal promise,
+205485	+		乱義は本当に安心したような声をしていた。	Rangi spoke in a voice resonant with profound relief.
 
 205486	-		…………	............
 
 205487	-		……	......
 
-205488	-		あなたは『親友』との	You spent irreplaceable time
+205488	-		あなたは『親友』との	You spent an irreplaceable moment
 205489	+		かけがえのない時間を過ごした。	with your 'best friend'.
 
 205490	-		そして……	And then...
 
-205491	-		運命の朝を迎える。	You greet the fated morning.
+205491	-		運命の朝を迎える。	You welcomed the dawn of destiny.

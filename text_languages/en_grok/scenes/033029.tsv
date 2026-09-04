@@ -2,108 +2,108 @@
 * Nagata-kun	長田君２	Male
 * El Mofus	エール２	Player's choice
 
-194685	Nagata-kun	基本	「はい、ご飯できたよーん」	「Here, food's ready~」
+194685	Nagata-kun	基本	「はい、ご飯できたよーん」	「Here we go, dinner's served~!」
 
-194686	-		長田君が器用に作った料理が	The food Nagata-kun skillfully prepared
-194687	+		ミカン箱の上に次々と並べられる。	is lined up one after another on a tangerine box.
+194686	-		長田君が器用に作った料理が	The dishes Nagata-kun had skillfully prepared
+194687	+		ミカン箱の上に次々と並べられる。	were set down one after another atop an orange crate.
 
-194688	Nagata-kun		「へへ、どうよどうよ？	「Hehe, how is it, how is it?
-194689	+		　ちょっとしたもんっしょ？」	　Pretty good, right?」
+194688	Nagata-kun		「へへ、どうよどうよ？	「Heheh, so how does it look?
+194689	+		　ちょっとしたもんっしょ？」	　Pretty impressive, right?」
 
-194690	Nagata-kun		「俺、料理はこう見えても得意分野、	「Cooking is actually one of my strong points, ＜エール＞,
-194691	+		　＜エール＞も料理できねぇとモテねぇよ？」	　if you can't cook you won't be popular, you know?」
+194690	Nagata-kun		「俺、料理はこう見えても得意分野、	「Believe it or not, cooking is actually one of my strong suits.
+194691	+		　＜エール＞も料理できねぇとモテねぇよ？」	　If you don't learn how to cook, ＜エール＞, you'll never be popular, you know?」
 
 > male
-194692	Nagata-kun		「スパーッと手際よく料理してみせると、	「If you cook skillfully and swiftly,
-194693	+		　もう女の子もメロメロって寸法よ」	　girls will totally fall for you.」
+194692	Nagata-kun		「スパーッと手際よく料理してみせると、	「If you whip up a meal swiftly and stylishly,
+194693	+		　もう女の子もメロメロって寸法よ」	　the girls will be head over heels for you in no time flat.」
 
 > female
-194694	Nagata-kun		「ま！　俺は料理出来ない女なんて、女じゃねぇ！	「Well! I don't say a girl who can't cook isn't a girl!
-194695	+		　なーんて古いことは言わないけどな！」	　That's old-fashioned thinking though!」
+194694	Nagata-kun		「ま！　俺は料理出来ない女なんて、女じゃねぇ！	「I mean, I'm not some old-fashioned fossil who claims
+194695	+		　なーんて古いことは言わないけどな！」	　a girl who can't cook isn't a real woman or anything, though!」
 
 > end
-194696	Nagata-kun		「と言っても基本は結構出来てたよね。	「That said, you were already pretty good at the basics.
-194697	+		　テントの設営も手慣れてたし」	　You were also quite skilled at setting up the tent.」
+194696	Nagata-kun		「と言っても基本は結構出来てたよね。	「That said, you're already pretty solid on the fundamentals.
+194697	+		　テントの設営も手慣れてたし」	　You handled pitching the tent like a seasoned pro too.」
 
-194698	Nagata-kun		「なに？　＜エール＞、案外旅慣れてる？」	「What? ＜エール＞, are you surprisingly used to traveling?」
+194698	Nagata-kun		「なに？　＜エール＞、案外旅慣れてる？」	「What's the deal, ＜エール＞? Are you surprisingly accustomed to traveling?」
 
 194699	El Mofus		「…………。」	「............」
 
-194700	Nagata-kun		「今回が初めての冒険？　マジ？」	「Is this your first adventure? For real?」
+194700	Nagata-kun		「今回が初めての冒険？　マジ？」	「This is your very first adventure? For real?!」
 
 194701	El Mofus		「…………。」	「............」
 
-194702	Nagata-kun		「冒険は初めてだけど、	「This is your very first adventure,
-194703	+		　幼い頃から冒険用の訓練を受けていた？」	　but you have been training for it since you were a kid?」
+194702	Nagata-kun		「冒険は初めてだけど、	「It's your first adventure,
+194703	+		　幼い頃から冒険用の訓練を受けていた？」	　but you've been subjected to rigorous survival training ever since you were a kid...?」
 
 194704	Nagata-kun		「…………」	「............」
 
-194705	Nagata-kun		「……マジかよ」	「...Are you for real?」
+194705	Nagata-kun		「……マジかよ」	「...Are you serious?」
 
-194706	Nagata-kun~		（可哀想に……＜エール＞の奴……	(Man, that is rough... Poor ＜エール＞...
-194707	+		　親にわけの分からない虐待を……）	　Being subjected to such bizarre parental abuse...)
+194706	Nagata-kun~		（可哀想に……＜エール＞の奴……	（Man, that is awful... Poor ＜エール＞...
+194707	+		　親にわけの分からない虐待を……）	　To be put through such bizarre parental abuse...）
 
-194708	Nagata-kun~		（見ず知らずの俺に弁当くれるくらいに	(Such a genuinely good person, too, sharing lunch
-194709	+		　いい奴だってのによぉ……）	　with a complete stranger like me...)
+194708	Nagata-kun~		（見ず知らずの俺に弁当くれるくらいに	（And after being such a genuinely sweet kid, sharing a boxed lunch
+194709	+		　いい奴だってのによぉ……）	　with a total stranger like me...）
 
-194710	Nagata-kun~		（マジ許せねぇ親だぜ！）	（I seriously can't forgive those parents!）
+194710	Nagata-kun~		（マジ許せねぇ親だぜ！）	（I can never forgive parents like that!）
 
-194711	Nagata-kun		「よーし、そういうことならいいぜ！」	「Alright, if that's the case then it's fine!」
+194711	Nagata-kun		「よーし、そういうことならいいぜ！」	「All right then, leave it to me!」
 
-194712	Nagata-kun		「冒険なら俺の方が先輩だからよ！	「Since it's an adventure, I'm the senior here!
-194713	+		　なんでも教えてやんよ！」	　I'll teach you anything!」
+194712	Nagata-kun		「冒険なら俺の方が先輩だからよ！	「When it comes to adventuring, I'm the senior here!
+194713	+		　なんでも教えてやんよ！」	　I'll teach you everything you need to know!」
 
 194714	El Mofus		「…………。」	「............」
 
-194715	Nagata-kun		「いーっていーって！	「It's fine, it's fine!
-194716	+		　俺と＜エール＞の仲っしょ？	　We're buddies, right?
-194717	+		　したらこれくらい当然っしょ？」	　So this much is natural, right?」
+194715	Nagata-kun		「いーっていーって！	「Don't sweat it, don't sweat it!
+194716	+		　俺と＜エール＞の仲っしょ？	　It's you and me, ＜エール＞, right?
+194717	+		　したらこれくらい当然っしょ？」	　Helping each other out is only natural!」
 
-194718	Nagata-kun		「ま、困ったことがあったらいつでも頼れよ！	「Well, if you ever have any trouble, rely on me anytime!
-194719	+		　うちらマジもんのベストフレンドじゃん！？」	　We're real best friends after all!?」
+194718	Nagata-kun		「ま、困ったことがあったらいつでも頼れよ！	「So if you ever run into trouble, just rely on me anytime!
+194719	+		　うちらマジもんのベストフレンドじゃん！？」	　We're true, bona fide best friends, aren't we?!」
 
-194720	-		あなたは長田君にとって	To Nagata-kun,
-194721	+		すっかりベストフレンドとなったようだ。	you have completely become best friends.
+194720	-		あなたは長田君にとって	It seemed you had officially become
+194721	+		すっかりベストフレンドとなったようだ。	Nagata-kun's sworn best friend.
 
-194722	Nagata-kun		「ちょ、そーゆーのいいから！」	「Hey, enough of that!」
+194722	Nagata-kun		「ちょ、そーゆーのいいから！」	「Whoa, hey, cut that out!」
 
-194723	Nagata-kun		「マジ水臭いわー！	「That's so cold!
-194724	+		　＜エール＞ちゃん距離あるわー！」	　＜エール＞-chan, you're keeping your distanceー!」
+194723	Nagata-kun		「マジ水臭いわー！	「That's way too formal!
+194724	+		　＜エール＞ちゃん距離あるわー！」	　Why are you putting up a wall between us, ＜エール＞-chan?!」
 
-194725	Nagata-kun		「へへっ、さあ、	「Hehe, come on,
-194726	+		　飯が冷めない内に食べようぜ！」	　let's eat before the food gets cold!」
+194725	Nagata-kun		「へへっ、さあ、	「Heheh, come on,
+194726	+		　飯が冷めない内に食べようぜ！」	　let's dig in before the food gets cold!」
 
-194727	Nagata-kun		「ほれほれ！	「Here here!
-194728	+		　＜エール＞ちゃんには大盛りにしてやんよ！	　I'll give ＜エール＞-chan a big serving!
-194729	+		　たっぷりと食えよな！」	　Eat up plenty!」
+194727	Nagata-kun		「ほれほれ！	「Here, here!
+194728	+		　＜エール＞ちゃんには大盛りにしてやんよ！	　I gave ＜エール＞-chan an extra-large mountain of food!
+194729	+		　たっぷりと食えよな！」	　Eat as much as your heart desires!」
 
-194730	Nagata-kun		「ちょ！？　なんでそーゆーこと言うの！？」	「Hey!? Why are you saying that!?」
+194730	Nagata-kun		「ちょ！？　なんでそーゆーこと言うの！？」	「Wait, what?! Why would you say something like that?!」
 
-194731	Nagata-kun		「……あ」	「...Ah.」
+194731	Nagata-kun		「……あ」	「...Oh.」
 
-194732	Nagata-kun		「照れてる的な？	「Are you being shy?
-194733	+		　逆に？	　The opposite?
-194734	+		　逆に照れてる的な？」	　Shy in the opposite way?」
+194732	Nagata-kun		「照れてる的な？	「Is this you being shy?
+194733	+		　逆に？	　The reverse-psychology kind?
+194734	+		　逆に照れてる的な？」	　Like, being so shy you go full tsundere?」
 
-194735	Nagata-kun		「しゃーないなー＜エール＞は」	「＜エール＞ really can't be helped.」
+194735	Nagata-kun		「しゃーないなー＜エール＞は」	「You really are something else, ＜エール＞.」
 
-194736	Nagata-kun		「ま、とにかくこれからも宜しくな！」	「Anyway, let's keep getting along from now on!」
+194736	Nagata-kun		「ま、とにかくこれからも宜しくな！」	「Well, either way, let's keep getting along from now on!」
 
-194737	Nagata-kun		「ほれほれ飯食えよ、飯！	「Here here, eat your food, food!
-194738	+		　お前には大盛りにしてやんよ！」	　I'll give you a big serving!」
+194737	Nagata-kun		「ほれほれ飯食えよ、飯！	「Come on, eat up, eat up!
+194738	+		　お前には大盛りにしてやんよ！」	　I piled a whole heap of food just for you!」
 
-194739	Nagata-kun		「ちょっ！？　なんで蜜柑乗せたー！？」	「Wait!? Why did you put tangerine on it!?」
+194739	Nagata-kun		「ちょっ！？　なんで蜜柑乗せたー！？」	「Wha—?! Why did you balance a tangerine on top of my head?!」
 
-194740	Nagata-kun		「あ、手が届かない！	「Ah, I can't reach it!
-194741	+		　あっ、ちょ、くっ……！」	　Ah, hey, ugh...!」
+194740	Nagata-kun		「あ、手が届かない！	「Agh, my hands can't reach!
+194741	+		　あっ、ちょ、くっ……！」	　Ah, hey, wait, hrnnngh...!」
 
-194742	-		数分の苦戦の末に、	After several minutes of struggle, Nagata-kun finally
-194743	+		長田君は頭の上から蜜柑をどかした。	removes the tangerine from on top of his head.
+194742	-		数分の苦戦の末に、	After several minutes of intense struggle,
+194743	+		長田君は頭の上から蜜柑をどかした。	Nagata-kun finally managed to dislodge the tangerine from the top of his head.
 
-194744	Nagata-kun		「えー……	「Ehh...
-194745	+		　この子意味分からない……	　This kid doesn't make any sense...
-194746	+		　最近の若者、怖いわー……」	　Young people these days are scary...」
+194744	Nagata-kun		「えー……	「Ugh...
+194745	+		　この子意味分からない……	　This kid makes zero sense...
+194746	+		　最近の若者、怖いわー……」	　The youth of today truly terrify me...」
 
-194747	Nagata-kun		「ま、まあ、飯が冷めない内に食おうぜ」	「W-well, let's eat before the food gets cold.」
+194747	Nagata-kun		「ま、まあ、飯が冷めない内に食おうぜ」	「W-Well, whatever! Let's just eat before the food gets cold.」
 
-194748	-		あなたは長田君と更に仲良くなれた気がした。	You feel like you became even closer with Nagata-kun.
+194748	-		あなたは長田君と更に仲良くなれた気がした。	You felt as though you had grown even closer to Nagata-kun.

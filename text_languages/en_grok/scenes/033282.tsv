@@ -11,205 +11,205 @@
 
 221928	Houjou Suzu	基本	「…………」	「............」
 
-221929	-		すずは、早雲の姿を見て、	Suzu, seeing Souun's state,
-221930	+		どう行動するべきか分からず、	didn't know what to do
-221931	+		固まっているようだった。	and stood frozen.
+221929	-		すずは、早雲の姿を見て、	Seeing Souun in such a state, Suzu stood frozen,
+221930	+		どう行動するべきか分からず、	at a complete loss for words,
+221931	+		固まっているようだった。	uncertain of what she should do.
 
 221932	Reset Kalar	真剣	「すずさん」	「Suzu-san.」
 
-221933	Houjou Suzu	基本	「あ、リセットさん」	「Ah, Reset-san.」
+221933	Houjou Suzu	基本	「あ、リセットさん」	「Ah, Reset-san...」
 
-221934	-		そのとき、隣にそっと寄り添い、	At that moment, Reset gently moved beside her
-221935	+		すずの手を握ったのはリセットだった。	and took Suzu's hand.
+221934	-		そのとき、隣にそっと寄り添い、	At that moment, Reset stepped gently up beside her
+221935	+		すずの手を握ったのはリセットだった。	and warmly took Suzu's hand.
 
 221936	Reset Kalar		「…………」	「............」
 
-221937	-		リセットは小さく笑みを浮かべていた。	Reset had a small smile on her face.
+221937	-		リセットは小さく笑みを浮かべていた。	Reset gave her a soft, encouraging smile.
 
-221938	Reset Kalar		「大丈夫、大丈夫。	「It's okay, it's okay.
-221939	+		　ね、だから――」	　See, so一一」
+221938	Reset Kalar		「大丈夫、大丈夫。	「Everything is going to be all right.
+221939	+		　ね、だから――」	　So... go on—」
 
 221940	Reset Kalar		「早雲さんのところに」	「Go to Souun-san.」
 
 221941	Houjou Suzu		「…………」	「............」
 
-221942	-		一度、コクリと小さく頷き、すずは歩き出した。	Suzu gave a small nod once, then began walking.
+221942	-		一度、コクリと小さく頷き、すずは歩き出した。	Suzu gave a small, resolute nod and stepped forward.
 
 221943	Houjou Suzu		「早雲様……」	「Souun-sama...」
 
-221944	-		すずはその場にひざまづき、	Suzu knelt on the spot
-221945	+		早雲の手を取った。	and took Souun's hand.
+221944	-		すずはその場にひざまづき、	Suzu dropped to her knees beside him
+221945	+		早雲の手を取った。	and took Souun's trembling hand.
 
 221946	Houjou Souun		「すず……	「Suzu...
-221947	+		　お前が何故ここに……」	　Why are you here...」
+221947	+		　お前が何故ここに……」	　Why are you here...?」
 
 221948	Houjou Suzu		「……何故？」	「...Why?」
 
-221949	Houjou Suzu		「早雲様に戻ってもらう為に	「To bring you back, Souun-sama.
-221950	+		　決まってるじゃないですか……」	　Of course.」
+221949	Houjou Suzu		「早雲様に戻ってもらう為に	「To bring you back home, Souun-sama.
+221950	+		　決まってるじゃないですか……」	　Why else could it possibly be...?」
 
-221951	Houjou Souun		「戻って……」	「Come back...」
+221951	Houjou Souun		「戻って……」	「Bring me back...」
 
-221952	Houjou Suzu		「お願いします、戻って下さい……」	「Please, come back...」
+221952	Houjou Suzu		「お願いします、戻って下さい……」	「I beg of you, please come home...」
 
-221953	-		早雲は力なく首を横に振る。	Souun weakly shook his head.
+221953	-		早雲は力なく首を横に振る。	Souun shook his head in feeble resignation.
 
-221954	Houjou Souun		「しかし……	「But...
+221954	Houjou Souun		「しかし……	「No...
 221955	+		　俺にもうその資格は……」	　I no longer have the right...」
 
-221956	Houjou Suzu		「資格なんて……	「Rights or whatever...
-221957	+		　早雲様でなければいけない方が	　There are so many in the Houjou family
-221958	+		　北条家にはあんなに沢山……」	　who need you to be the head...」
+221956	Houjou Suzu		「資格なんて……	「Right?! What does a right have to do with anything...?!
+221957	+		　早雲様でなければいけない方が	　There are so many people in the Houjou Clan
+221958	+		　北条家にはあんなに沢山……」	　who need you, and only you, as our Head...!」
 
 221959	Houjou Souun	目閉じ	「いや……」	「No...」
 
-221960	Houjou Souun		「俺は情けない男だ……	「I am a pathetic man...
-221961	+		　当主など……	　Being the head...
-221962	+		　今までずっと無理してきただけ……」	　I've only been forcing myself all this time...」
+221960	Houjou Souun		「俺は情けない男だ……	「I am a pathetic, wretched man...
+221961	+		　当主など……	　Being the Clan Head...
+221962	+		　今までずっと無理してきただけ……」	　I was only forcing myself to play the part all along...」
 
-221963	Houjou Souun		「なによりこんな男に……	「Above all, someone like me...
-221964	+		　誰かを率いることなど――」	　has no right to lead others一一」
+221963	Houjou Souun		「なによりこんな男に……	「Above all, a man like me...
+221964	+		　誰かを率いることなど――」	　has no business leading anyone ever again—」
 
-221965	Houjou Suzu	怒り	「ああもう！　男がぐちぐち言わない！」	「Aah geez! Stop whining like that, you're a man!」
+221965	Houjou Suzu	怒り	「ああもう！　男がぐちぐち言わない！」	「Aaagh, enough! Stop whining and groveling like a coward! You are a grown man!」
 
-221966	Houjou Souun	基本	「す、すず……」	「S-Suzu...」
+221966	Houjou Souun	基本	「す、すず……」	「S-Suzu...?」
 
-221967	Houjou Suzu	怒り	「操られたからなんだってのよ！	「You were controlled, so what!
-221968	+		　それなら次は操られないように	　Next time just make sure you
-221969	+		　気をつければいいじゃない！」	　don't get controlled again!」
+221967	Houjou Suzu	怒り	「操られたからなんだってのよ！	「So what if you were manipulated?!
+221968	+		　それなら次は操られないように	　Then all you have to do is make sure
+221969	+		　気をつければいいじゃない！」	　it never happens again!」
 
-221970	Houjou Suzu		「一人じゃ不安だって言うなら、	「If you're worried about doing it alone,
-221971	+		　私も！　他の人もみんな！	　I'll support you! Everyone will!
-221972	+		　支えるくらいなんとも思わないわよ！」	　It's nothing for us to support you!」
+221970	Houjou Suzu		「一人じゃ不安だって言うなら、	「If you are worried about bearing it alone,
+221971	+		　私も！　他の人もみんな！	　then I will support you! Everyone in the clan will support you!
+221972	+		　支えるくらいなんとも思わないわよ！」	　Supporting you is nothing for us!」
 
-221973	Houjou Suzu		「早雲様以上に優れた陰陽師なんていないんだから、	「There is no better onmyoji than Souun-sama,
-221974	+		　早雲様は黙ってドンと	　so just sit firmly
-221975	+		　当主の座に座ってればいいんです！」	　on the head's seat!」
+221973	Houjou Suzu		「早雲様以上に優れた陰陽師なんていないんだから、	「There is no onmyoji in the entire realm greater than you, Souun-sama!
+221974	+		　早雲様は黙ってドンと	　So just sit tall and proud
+221975	+		　当主の座に座ってればいいんです！」	　upon the seat of Clan Head without another word!」
 
 221976	Houjou Souun	基本	「すず……？」	「Suzu...?」
 
-221977	Houjou Suzu	目閉じ	「私が、私がいやなんです……！」	「I... I can't stand it...!」
+221977	Houjou Suzu	目閉じ	「私が、私がいやなんです……！」	「I... I just cannot bear it...!」
 
-221978	-		ぽろりと――	A single tear一一
+221978	-		ぽろりと――	A single tear—
 
-221979	-		滴がすずの頬を伝って落ちる。	rolled down Suzu's cheek.
+221979	-		滴がすずの頬を伝って落ちる。	welled up and rolled down Suzu's cheek.
 
-221980	Houjou Suzu	泣き	「早雲様がいないなんて……	「The thought of no Souun-sama...
-221981	+		　私が……耐えられないんです……！」	　I... can't bear it...!」
+221980	Houjou Suzu	泣き	「早雲様がいないなんて……	「A world without you, Souun-sama...
+221981	+		　私が……耐えられないんです……！」	　I... I cannot endure it...!」
 
-221982	Houjou Suzu		「だから、お願いですから……」	「So please...」
+221982	Houjou Suzu		「だから、お願いですから……」	「So I beg of you, please...」
 
-221983	Houjou Suzu		「そんなこと……言わないで……」	「Don't say such things...」
+221983	Houjou Suzu		「そんなこと……言わないで……」	「Do not ever say... such awful things again...」
 
-221984	Houjou Suzu		「うっ……」	「Uhh...」
+221984	Houjou Suzu		「うっ……」	「*Sob*...」
 
-221985	Houjou Suzu		「ううううう……！」	「Uuuuuu...!」
+221985	Houjou Suzu		「ううううう……！」	「Uwaaaah...!」
 
 221986	Houjou Souun	基本	「…………」	「............」
 
 221987	Houjou Souun		「すず」	「Suzu.」
 
-221988	Houjou Souun		「すまない……	「I'm sorry...
-221989	+		　君にここまで言わせてしまって」	　for making you say all that.」
+221988	Houjou Souun		「すまない……	「Forgive me...
+221989	+		　君にここまで言わせてしまって」	　for driving you to say all of that.」
 
-221990	Houjou Souun	微笑	「俺は……本当に情けないな……」	「I really am... pathetic...」
+221990	Houjou Souun	微笑	「俺は……本当に情けないな……」	「I truly am... a pathetic man, am I not...?」
 
-221991	Houjou Suzu	泣き	「早雲様は……情けなくなんて、ない、です……」	「Souun-sama... is not pathetic... at all...」
+221991	Houjou Suzu	泣き	「早雲様は……情けなくなんて、ない、です……」	「You are not... pathetic at all, Souun-sama...!」
 
-221992	Houjou Souun	微笑	「ああ……そうだね……	「Ah... that's right...
-221993	+		　そう、あろうと思うよ」	　Yes, I believe so.」
+221992	Houjou Souun	微笑	「ああ……そうだね……	「Ah... you are right...
+221993	+		　そう、あろうと思うよ」	　I shall strive to be worthy of your words.」
 
-221994	Houjou Souun		「……もう二度と、	「...Never again,
-221995	+		　誰にもこの心を操られたりはしないと誓う」	　will I let anyone manipulate this heart. I swear it.」
+221994	Houjou Souun		「……もう二度と、	「...Never again
+221995	+		　誰にもこの心を操られたりはしないと誓う」	　will I allow anyone to manipulate this heart. I swear it.」
 
-221996	Houjou Souun		「女の子を泣かせたままとあっては、	「If I leave a girl crying like this, I would be unfit
-221997	+		　北条家当主の前に男として失格になってしまう」	　as a man, let alone the head of the Houjou family.」
+221996	Houjou Souun		「女の子を泣かせたままとあっては、	「Leaving a girl in tears like this
+221997	+		　北条家当主の前に男として失格になってしまう」	　would make me a failure as a man, let alone as Head of the Houjou Clan.」
 
-221998	Houjou Souun		「すまなかった……」	「I'm sorry...」
+221998	Houjou Souun		「すまなかった……」	「I am so sorry...」
 
-221999	-		早雲がふわりと包み込むように	Souun gently wrapped his arms around her
+221999	-		早雲がふわりと包み込むように	Souun gently reached out
 222000	+		すずを抱きしめる。	and pulled Suzu into a tender embrace.
 
-222001	Houjou Souun		「本当に、すまなかったね……すず……」	「I'm truly sorry... Suzu...」
+222001	Houjou Souun		「本当に、すまなかったね……すず……」	「I am truly, truly sorry... Suzu...」
 
-222002	Houjou Suzu	基本	「うわぁぁぁああ！　早雲様！」	「Uwaaaaaah! Souun-sama!」
+222002	Houjou Suzu	基本	「うわぁぁぁああ！　早雲様！」	「Uwaaaaah! Souun-sama!」
 
 222003	Reset Kalar		「…………」	「............」
 
-222004	Nagata-kun		「これで……解決？　っすかね？」	「So... is this resolved? I guess?」
+222004	Nagata-kun		「これで……解決？　っすかね？」	「So... is that case closed, then? I guess?」
 
-222005	Reset Kalar		「うん、そうだね……きっと……」	「Yeah, I think so... probably...」
+222005	Reset Kalar		「うん、そうだね……きっと……」	「Yes, I think so... surely...」
 
 222006	Gigai		「ふぅー、やれやれ……」	「Phew... good grief...」
 
-222007	Gigai		「しかし女ってのは怖いねぇ」	「But damn, women sure are scary.」
+222007	Gigai		「しかし女ってのは怖いねぇ」	「Women truly are terrifying creatures, are they not?」
 
-222008	Zance Leazas		「あん？　なんのこっちゃ？」	「Huh? What are you on about?」
+222008	Zance Leazas		「あん？　なんのこっちゃ？」	「Hah? What the hell are you babbling about?」
 
-222009	Gigai		「早雲には愛する恋人がいた、	「Souun had a beloved girlfriend,
-222010	+		　南条蘭って名前の女で……	　a woman named Nanjou Ran...
-222011	+		　まあとある理由からそいつは死んだんだが」	　Well, she died for certain reasons.」
+222009	Gigai		「早雲には愛する恋人がいた、	「Souun once had a beloved lover,
+222010	+		　南条蘭って名前の女で……	　a woman by the name of Nanjou Ran...
+222011	+		　まあとある理由からそいつは死んだんだが」	　Though she met her demise due to certain circumstances back then.」
 
-222012	Gigai		「あのすずって女、	「That girl Suzu,
+222012	Gigai		「あのすずって女、	「That girl Suzu over there
 222013	+		　その蘭の生まれ変わりだ」	　is her reincarnation.」
 
-222014	Zance Leazas		「はあ！？」	「Haa!?」
+222014	Zance Leazas		「はあ！？」	「Haaah?!」
 
-222015	Gigai		「どっかで見たような気はしていたんだ」	「I did think she looked familiar somewhere.」
+222015	Gigai		「どっかで見たような気はしていたんだ」	「I knew she looked familiar the moment I laid eyes on her.」
 
-222016	Gigai		「いやー、執念だねぇー、やるねぇー。	「Man, what persistence. Impressive.
-222017	+		　死んで生まれ変わっても	　Even after dying and being reborn,
-222018	+		　惚れた男の元にまた戻るたぁ」	　she came back to the man she loved.」
+222016	Gigai		「いやー、執念だねぇー、やるねぇー。	「Man, talk about sheer devotion. I am impressed.
+222017	+		　死んで生まれ変わっても	　Even after dying and being reborn into another life,
+222018	+		　惚れた男の元にまた戻るたぁ」	　she still found her way back to the man she loved.」
 
-222019	Reset Kalar		「それって記憶は……」	「Does that mean her memories...」
+222019	Reset Kalar		「それって記憶は……」	「Does that mean her memories are...」
 
-222020	Gigai		「多少は残ってるかもな」	「Some might remain.」
+222020	Gigai		「多少は残ってるかもな」	「A fragment might still linger, perhaps.」
 
-222021	Gigai		「だが、あくまでも多少だ」	「But only a little.」
+222021	Gigai		「だが、あくまでも多少だ」	「But only a faint trace at best.」
 
-222022	Gigai		「完全には戻ってないだろうし、	「They probably haven't fully returned,
-222023	+		　自分と同一人物とは思えないだろう」	　and she likely doesn't see herself as the same person.」
+222022	Gigai		「完全には戻ってないだろうし、	「Her past memories certainly have not fully returned,
+222023	+		　自分と同一人物とは思えないだろう」	　and she likely does not even view herself as the same person.」
 
-222024	Gigai		「あの女は他人である前世の女の影に、	「That woman will forever be tormented by the shadow
-222025	+		　男のそばにいる限りずっと苦しめられるわけだ」	　of her previous life's self as long as she's by that man's side.」
+222024	Gigai		「あの女は他人である前世の女の影に、	「Which means that as long as she stays by that man's side,
+222025	+		　男のそばにいる限りずっと苦しめられるわけだ」	　she will be forever tormented by the shadow of a stranger who was once her past self.」
 
-222026	Reset Kalar		「そんな……」	「That's...」
+222026	Reset Kalar		「そんな……」	「That is so...」
 
-222027	Gigai		「まっ、心配はいらねぇーだろ」	「Well, no need to worry.」
+222027	Gigai		「まっ、心配はいらねぇーだろ」	「Well, no need to lose sleep over it.」
 
-222028	Gigai		「もう、ほっといても上手くいくだろうさ」	「Things will probably work out even if we leave them alone.」
+222028	Gigai		「もう、ほっといても上手くいくだろうさ」	「Things will work out just fine between them if you leave them be.」
 
 222029	Nagi su Ragarl		「……そうなの？」	「...Is that so?」
 
-222030	Masou Shizuka		「私に聞かれてもね」	「Don't ask me.」
+222030	Masou Shizuka		「私に聞かれてもね」	「Do not look at me.」
 
-222031	Nagata-kun		「え、なんで、この面子の中で	「Eh, why is the one who seems most experienced with love
-222032	+		　一番恋愛に精通してそうなのが	　in this group
-222033	+		　このホモなの……やだ……」	　this homo... gross...」
+222031	Nagata-kun		「え、なんで、この面子の中で	「Wait, why does this homosexual fellow
+222032	+		　一番恋愛に精通してそうなのが	　happen to be the most romantically enlightened person
+222033	+		　このホモなの……やだ……」	　in our entire party...?! I hate this...」
 
 222034	Gigai	喜び	「はははははははははは！」	「Hahahahahahaha!」
 
-222035	Zance Leazas	不満	「けっ、誰と誰がくっついたかなんて、	「Tch, who hooks up with who
+222035	Zance Leazas	不満	「けっ、誰と誰がくっついたかなんて、	「Tch, who hooks up with whom
 222036	+		　どーーでもいいんだよ」	　is none of my damn business.」
 
 222037	Zance Leazas	基本	「おう、＜エール＞。	「Hey, ＜エール＞.
-222038	+		　オーブを探しに行くぞ」	　Let's go find the Orb.」
+222038	+		　オーブを探しに行くぞ」	　Let us go find that Orb.」
 
 222039	Nagata-kun		「あっ、すっかり忘れてた！	「Ah, I completely forgot!
-222040	+		　そういやオーブも死国にあるんだったな！」	　Right, the Orb is in the Land of the Dead too!」
+222040	+		　そういやオーブも死国にあるんだったな！」	　That is right, the Orb is here in Shikoku too!」
 
-222041	Yamamoto Rangi		「あの二人は……」	「Those two...」
+222041	Yamamoto Rangi		「あの二人は……」	「What about those two...?」
 
-222042	Reset Kalar		「しばらくあのままにしておこう。	「Let's leave them be for a while.
-222043	+		　なんとなく、その方がいい気がする」	　Somehow it feels like the right thing to do.」
+222042	Reset Kalar		「しばらくあのままにしておこう。	「Let us leave them be for a little while.
+222043	+		　なんとなく、その方がいい気がする」	　Somehow, I feel that is for the best.」
 
-222044	Yamamoto Rangi		「そうだね。	「Yeah.
-222045	+		　幸いこの近くには鬼はいなさそうだし」	　Luckily there don't seem to be any Oni nearby.」
+222044	Yamamoto Rangi		「そうだね。	「Indeed.
+222045	+		　幸いこの近くには鬼はいなさそうだし」	　Fortunately, there do not appear to be any Oni nearby.」
 
-222046	Gigai		「心配なら俺が見といてやるから、	「If you're worried, I'll keep an eye on them,
-222047	+		　安心して行って来な」	　so go on without worry.」
+222046	Gigai		「心配なら俺が見といてやるから、	「If you are worried, I will keep watch over them,
+222047	+		　安心して行って来な」	　so go on ahead without worry.」
 
-222048	Zance Leazas		「むしろお前が一番信用ならねーよ」	「You're the last person I'd trust.」
+222048	Zance Leazas		「むしろお前が一番信用ならねーよ」	「You are literally the last person I would ever trust.」
 
-222049	-		あなた達は早雲達を置いて、	You left Souun and the others behind,
-222050	+		オーブを探索に出かけた。	and set out to search for the Orb.
+222049	-		あなた達は早雲達を置いて、	Leaving Souun and Suzu to their moment,
+222050	+		オーブを探索に出かけた。	the party set out in search of the Orb.

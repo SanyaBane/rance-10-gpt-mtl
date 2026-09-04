@@ -2,217 +2,217 @@
 * Kentou Uzume	ウズメ２	Female
 * El Mofus	エール２	Player's choice
 
-205009	Kentou Uzume	基本	「あれ？　主君殿でござるか？」	「Huh? Is that you, my lord?」
+205009	Kentou Uzume	基本	「あれ？　主君殿でござるか？」	「Huh? Is that you, my Liege-de gozaru?」
 
 205010	-		あなたの前に現れたのはウズメだった。	The one who appeared before you was Uzume.
 
-205011	Kentou Uzume	テレ	「あっ、さては主君殿も、	「Ah, I bet my lord is also
-205012	+		　緊張して眠れないとかでござるか？」	　unable to sleep from nervousness?」
+205011	Kentou Uzume	テレ	「あっ、さては主君殿も、	「Ah, could it be that my Liege
+205012	+		　緊張して眠れないとかでござるか？」	　is also too nervous to fall asleep-de gozaru?」
 
-205013	Kentou Uzume	にょほほ	「えへへー、実はウズメもそうだったりして」	「Ehehe~ Actually Uzume is the same way.」
+205013	Kentou Uzume	にょほほ	「えへへー、実はウズメもそうだったりして」	「Ehehe~ In truth, Uzume is in the exact same boat.」
 
-205014	Kentou Uzume	基本	「……お隣、いいでござるかね？」	「...May I sit next to you?」
+205014	Kentou Uzume	基本	「……お隣、いいでござるかね？」	「...May I take a seat beside you-de gozaru?」
 
-205015	-		あなたが頷くと、ウズメはしずしずと	When you nod, Uzume quietly
-205016	+		隣のソファーに腰を下ろした。	sat down on the neighboring sofa.
+205015	-		あなたが頷くと、ウズメはしずしずと	When you nodded, Uzume quietly slipped over
+205016	+		隣のソファーに腰を下ろした。	and sat down on the sofa next to you.
 
-205017	Kentou Uzume		「……静かでござるねぇ」	「...It's very quiet, isn't it?」
+205017	Kentou Uzume		「……静かでござるねぇ」	「...It is so peaceful and quiet-de gozaru, isn't it?」
 
-205018	-		ロビーにはあなた達以外、誰もいない。	There is no one else in the lobby but the two of you.
-205019	+		二人の会話もどこか途切れ途切れ。	Your conversation is somewhat intermittent.
+205018	-		ロビーにはあなた達以外、誰もいない。	There was no one else in the lobby besides the two of you.
+205019	+		二人の会話もどこか途切れ途切れ。	The conversation flowed quietly, with gentle pauses in between.
 
-205020	-		しかし、居心地の悪さはまったく感じない。	Yet it doesn't feel uncomfortable at all.
-205021	+		むしろ落ち着くとあなたは思った。	In fact, you feel calm.
+205020	-		しかし、居心地の悪さはまったく感じない。	Yet there was not the slightest hint of awkwardness.
+205021	+		むしろ落ち着くとあなたは思った。	If anything, you found the quiet presence deeply comforting.
 
-205022	-		なんとなく、	Somehow,
-205023	+		まったりとした時間が流れる。	a relaxed time flows gently.
+205022	-		なんとなく、	A peaceful,
+205023	+		まったりとした時間が流れる。	tender moment drifted by.
 
-205024	Kentou Uzume		「んーーーーっ、それにしても……」	「Mmm~~~~~ anyway...」
+205024	Kentou Uzume		「んーーーーっ、それにしても……」	「Nnnngh... Even so...」
 
-205025	-		ウズメが大きく伸びをする。	Uzume stretches widely.
+205025	-		ウズメが大きく伸びをする。	Uzume let out a long, sweeping stretch.
 
-205026	Kentou Uzume	にょほほ	「ほんっとーーーに、	「It was reaaaaally
-205027	+		　楽しかったでござるなあ」	　fun, wasn't it?」
+205026	Kentou Uzume	にょほほ	「ほんっとーーーに、	「It was truuuuly
+205027	+		　楽しかったでござるなあ」	　so much fun-de gozaru, wasn't it?」
 
-205028	Kentou Uzume	基本	「このままずっと	「I wanted to keep
-205029	+		　冒険していたかったくらいでござる」	　adventuring forever like this.」
-205030	+	にょほほ	「にゅふふ、毎日賑やかでござったからね」	「Nyufufu, every day was so lively.」
+205028	Kentou Uzume	基本	「このままずっと	「Uzume wished we could keep adventuring
+205029	+		　冒険していたかったくらいでござる」	　together forever like this-de gozaru.」
+205030	+	にょほほ	「にゅふふ、毎日賑やかでござったからね」	「Nyufufu, every single day was so cheerful and lively-de gozaru.」
 
-205031	Kentou Uzume	テレ	「お、マジでござる？	「Oh, really?
+205031	Kentou Uzume	テレ	「お、マジでござる？	「Oh, are you serious-de gozaru?
 205032	+		　そういうこと言うと、	　If you say things like that,
-205033	+		　ウズメ本気にするでござるよ」	　Uzume will take it seriously.」
+205033	+		　ウズメ本気にするでござるよ」	　Uzume will take your words to heart, you know?」
 
 205034	Kentou Uzume	基本	「…………」	「............」
 
 205035	Kentou Uzume		「明日は決戦。	「Tomorrow is the decisive battle.
-205036	+		　全部終わるでござるね……」	　Everything will end...」
+205036	+		　全部終わるでござるね……」	　Everything will finally come to an end-de gozaru...」
 
-205037	Kentou Uzume		「その前に……	「Before that...
-205038	+		　ちょっと言っておきたいこと、	　there's just one thing
-205039	+		　一つだけあるでござる」	　I want to say.」
+205037	Kentou Uzume		「その前に……	「Before that happens...
+205038	+		　ちょっと言っておきたいこと、	　there is just one little thing
+205039	+		　一つだけあるでござる」	　Uzume wishes to say-de gozaru.」
 
-205040	Kentou Uzume		「うーんと……」	「Umm......」
+205040	Kentou Uzume		「うーんと……」	「Umm, let's see...」
 
-205041	-		ウズメは頭の中で、	Uzume seems to be organizing
-205042	+		どう話すか筋道を考えているようだった。	her thoughts on how to say it.
+205041	-		ウズメは頭の中で、	Uzume seemed to be carefully gathering her thoughts
+205042	+		どう話すか筋道を考えているようだった。	in her head on how best to explain.
 
-205043	Kentou Uzume		「ウズメ、子供の頃から、	「Ever since I was a child,
-205044	+		　母上殿に言われていたことがあるでござる」	　Mother told me something.」
+205043	Kentou Uzume		「ウズメ、子供の頃から、	「Ever since Uzume was a little child,
+205044	+		　母上殿に言われていたことがあるでござる」	　there are three things Mother-dono always told me-de gozaru.」
 
-205045	Kentou Uzume		「まず一つ、くのいちにはならないこと」	「First, do not become a kunoichi.」
+205045	Kentou Uzume		「まず一つ、くのいちにはならないこと」	「First: do not become a kunoichi.」
 
-205046	Kentou Uzume		「もう一つ、出来れば普通の女の子になって欲しい」	「Second, if possible, become a normal girl.」
+205046	Kentou Uzume		「もう一つ、出来れば普通の女の子になって欲しい」	「Second: if possible, grow up into an ordinary girl.」
 
-205047	Kentou Uzume		「最後の一つ、力は正しいことに使うこと」	「And last, use your power for what is right.」
+205047	Kentou Uzume		「最後の一つ、力は正しいことに使うこと」	「And third: make sure you use your power only for what is right.」
 
-205048	Kentou Uzume	テレ	「でも、ウズメは正しいことって、	「But Uzume doesn't really understand
-205049	+		　いまいちよく分からんちん」	　what 'right' means.」
+205048	Kentou Uzume	テレ	「でも、ウズメは正しいことって、	「However, Uzume doesn't really have
+205049	+		　いまいちよく分からんちん」	　the foggiest clue what 'right' actually means.」
 
-205050	Kentou Uzume	基本	「だからウズメは主君を探しているのでござる」	「That's why Uzume has been searching for a lord.」
+205050	Kentou Uzume	基本	「だからウズメは主君を探しているのでござる」	「That is why Uzume has been searching for a worthy Liege-de gozaru.」
 
-205051	Kentou Uzume		「ウズメの力を正しいことに、	「Someone who will use Uzume's power
-205052	+		　多くの人を助けることに使ってくれる方。	　for what is right, to help many people.
-205053	+		　そういう方がウズメの理想」	　That is Uzume's ideal.」
+205051	Kentou Uzume		「ウズメの力を正しいことに、	「Someone who will wield Uzume's skills for the greater good,
+205052	+		　多くの人を助けることに使ってくれる方。	　to rescue and protect countless people.
+205053	+		　そういう方がウズメの理想」	　Such a master is Uzume's ultimate ideal.」
 
-205054	Kentou Uzume		「だから、仮の主君は皆、	「That's why all my temporary lords were people
-205055	+		　優れた王になりそうな方ばかり」	　who seemed like they could become great kings.」
+205054	Kentou Uzume		「だから、仮の主君は皆、	「That is why all of my temporary masters
+205055	+		　優れた王になりそうな方ばかり」	　were remarkable individuals who looked fit to become great kings.」
 
 205056	Kentou Uzume		「ザンス主君、乱義主君……	「Lord Zance, Lord Rangi...
 205057	+		　それにリセット主君」	　and Lord Reset.」
 
-205058	Kentou Uzume		「害ある敵を倒すならザンス主君、	「Lord Zance to defeat harmful enemies,
-205059	+		　豊かな国の運営なら乱義主君、	　Lord Rangi to run a prosperous country,
-205060	+		　沢山の人が喜ぶことならリセット主君」	　Lord Reset to make lots of people happy.」
+205058	Kentou Uzume		「害ある敵を倒すならザンス主君、	「If it's striking down wicked foes, there is Lord Zance;
+205059	+		　豊かな国の運営なら乱義主君、	　for governing a prosperous realm, Lord Rangi;
+205060	+		　沢山の人が喜ぶことならリセット主君」	　and for bringing joy and smiles to the people, Lord Reset.」
 
 205061	Kentou Uzume	にょほほ	「それぞれにウズメを	「Each of them seemed like
-205062	+		　上手に使ってくれそうでござる」	　they would use Uzume well.」
+205062	+		　上手に使ってくれそうでござる」	　they would put Uzume's talents to splendid use-de gozaru.」
 
-205063	Kentou Uzume	基本	「でも、不思議なのが……	「But what is strange...
-205064	+		　＜エール＞主君でござるね……」	　is Lord ＜エール＞...」
+205063	Kentou Uzume	基本	「でも、不思議なのが……	「Yet what remains so mysterious...
+205064	+		　＜エール＞主君でござるね……」	　is Lord ＜エール＞-de gozaru...」
 
-205065	Kentou Uzume	テレ	「ぶっちゃけ、	「To be honest,
-205066	+		　＜エール＞主君だけそんなんとも違うでござる」	　Lord ＜エール＞ feels a bit different.」
+205065	Kentou Uzume	テレ	「ぶっちゃけ、	「To be completely frank,
+205066	+		　＜エール＞主君だけそんなんとも違うでござる」	　Lord ＜エール＞ doesn't fit into any of those molds at all-de gozaru.」
 
-205067	Kentou Uzume		「うーん、ウズメの直感、結構当たるのに……	「Hmm, my intuition is usually pretty accurate...
-205068	+		　不思議不思議」	　It's a mystery.」
+205067	Kentou Uzume		「うーん、ウズメの直感、結構当たるのに……	「Huuuumph... Uzume's ninja instincts are usually spot-on, so...
+205068	+		　不思議不思議」	　it is a true mystery, a true mystery.」
 
-205069	Kentou Uzume	基本	「でも、ウズメの勘に間違いはないでござる」	「But Uzume's instincts are never wrong.」
+205069	Kentou Uzume	基本	「でも、ウズメの勘に間違いはないでござる」	「Still, Uzume's gut is never mistaken-de gozaru.」
 
-205070	Kentou Uzume		「＜エール＞殿もまた、	「Lord ＜エール＞ is also
-205071	+		　ウズメの主君でござる」	　Uzume's lord.」
+205070	Kentou Uzume		「＜エール＞殿もまた、	「＜エール＞-dono is also, without a doubt,
+205071	+		　ウズメの主君でござる」	　Uzume's true Liege-de gozaru.」
 
-205072	Kentou Uzume		「だから……」	「Therefore...」
+205072	Kentou Uzume		「だから……」	「And so...」
 
 205073	Kentou Uzume		「…………」	「............」
 
-205074	-		真剣な表情を浮かべると、	With a serious expression,
-205075	+		ウズメはあなたの前に跪いた。	Uzume knelt before you.
+205074	-		真剣な表情を浮かべると、	Assuming an entirely solemn demeanor,
+205075	+		ウズメはあなたの前に跪いた。	Uzume dropped to one knee before you.
 
-205076	Kentou Uzume		「主君……」	「My lord...」
+205076	Kentou Uzume		「主君……」	「My Liege...」
 
-205077	Kentou Uzume		「だから……	「So...
-205078	+		　明日は死なないで欲しいでござる」	　please don't die tomorrow.」
+205077	Kentou Uzume		「だから……	「That is why...
+205078	+		　明日は死なないで欲しいでござる」	　please, do not die tomorrow-de gozaru.」
 
-205079	Kentou Uzume		「＜エール＞殿って……	「Lord ＜エール＞...
-205080	+		　なんとなぁーく危なそうな気がして……」	　somehow feels a bit dangerous...」
+205079	Kentou Uzume		「＜エール＞殿って……	「There is something about ＜エール＞-dono...
+205080	+		　なんとなぁーく危なそうな気がして……」	　that feels so terribly fragile and precarious...」
 
-205081	Kentou Uzume		「この身は闇に生きる忍びの身。	「This body lives in the shadows as a ninja.
-205082	+		　もしもの時はウズメがなんとしても守ります。	　If anything happens, Uzume will protect you no
-205083	+		　だからなんとしても生き残ることをお考え下さい」	　matter what. So please make sure you survive.」
+205081	Kentou Uzume		「この身は闇に生きる忍びの身。	「This body is a shinobi dwelling within the shadows.
+205082	+		　もしもの時はウズメがなんとしても守ります。	　Should danger arise, Uzume shall protect you no matter what the cost.
+205083	+		　だからなんとしても生き残ることをお考え下さい」	　So please, make sure your only priority is surviving-de gozaru.」
 
 205084	El Mofus		「…………。」	「............」
-205085	Kentou Uzume	テレ	「ウズメ、主君の忍者でござるのに？」	「Uzume is my lord's ninja, you know?」
+205085	Kentou Uzume	テレ	「ウズメ、主君の忍者でござるのに？」	「Even though Uzume is your loyal ninja, my Liege-de gozaru?」
 
 205086	El Mofus	基本	「…………。」	「............」
 
-205087	Kentou Uzume		「うい、そうでござるね」	「Yes, that's right.」
+205087	Kentou Uzume		「うい、そうでござるね」	「Aye, you are right-de gozaru.」
 
-205088	Kentou Uzume	にょほほ	「＜エール＞殿はウズメの主君であっても、	「Even if Lord ＜エール＞ is Uzume's lord,
-205089	+		　ウズメは＜エール＞殿の部下では、	　Uzume is not Lord ＜エール＞'s subordinate,
+205088	Kentou Uzume	にょほほ	「＜エール＞殿はウズメの主君であっても、	「Even if ＜エール＞-dono is Uzume's Liege,
+205089	+		　ウズメは＜エール＞殿の部下では、	　Uzume is not merely ＜エール＞-dono's subordinate,
 205090	+		　ないでござるからね……」	　after all...」
 
 205091	Kentou Uzume	基本	「…………」	「............」
 
-205092	Kentou Uzume		「まあ、そう言うでござるよねぇ」	「Well, I guess that's how it is.」
+205092	Kentou Uzume		「まあ、そう言うでござるよねぇ」	「Well, Uzume figured you would say something like that-de gozaru.」
 
-205093	Kentou Uzume		「半ば分かってたでござる」	「I half expected it.」
+205093	Kentou Uzume		「半ば分かってたでござる」	「Uzume half expected it all along-de gozaru.」
 
 205094	Kentou Uzume		「…………」	「............」
 
-205095	Kentou Uzume	テレ	「しかし、そんなこと言われると、	「But when you say that,
-205096	+		　照れちゃうでござるね」	　it makes me shy.」
+205095	Kentou Uzume	テレ	「しかし、そんなこと言われると、	「Still, hearing you say that
+205096	+		　照れちゃうでござるね」	　makes Uzume blush-de gozaru.」
 
-205097	-		ほんのりとウズメは	Uzume's cheeks
-205098	+		頬を赤くしていた。	faintly turned red.
+205097	-		ほんのりとウズメは	A faint flush of crimson
+205098	+		頬を赤くしていた。	spread across Uzume's cheeks.
 
-205099	Kentou Uzume	基本	「ういうい」	「Uiu i.」
+205099	Kentou Uzume	基本	「ういうい」	「Aye-aye!」
 
-205100	Kentou Uzume	にょほほ	「指切りげんまん、でござる」	「Pinky promise.」
+205100	Kentou Uzume	にょほほ	「指切りげんまん、でござる」	「Pinky promise, hope to die-de gozaru!」
 
-205101	-		あなたとウズメは	You and Uzume
-205102	+		小指を絡め合って約束をした。	linked pinkies and made the promise.
+205101	-		あなたとウズメは	You and Uzume intertwined your little fingers,
+205102	+		小指を絡め合って約束をした。	sealing your mutual promise.
 
 205103	Kentou Uzume	基本	「＜エール＞ちゃんに限らず、	「Not just ＜エール＞-chan,
-205104	+		　みんないなくならないで欲しいでござるね」	　I don't want anyone to disappear.」
+205104	+		　みんないなくならないで欲しいでござるね」	　but Uzume doesn't want anyone to disappear-de gozaru.」
 
-205105	Kentou Uzume		「ウズメはみんなのこと、大好きでござるから」	「Because Uzume loves everyone so much.」
+205105	Kentou Uzume		「ウズメはみんなのこと、大好きでござるから」	「Because Uzume loves everyone so very dearly-de gozaru.」
 
-205106	Kentou Uzume		「ダークランス兄上は明るくて楽しいお兄ちゃん、	「Big brother Dark Rance is a bright and fun older brother,
-205107	+		　リセット姉上は優しいお姉ちゃん」	　big sister Reset is a kind older sister.」
+205106	Kentou Uzume		「ダークランス兄上は明るくて楽しいお兄ちゃん、	「Dark Rance-aniue is a cheerful, dependable big brother;
+205107	+		　リセット姉上は優しいお姉ちゃん」	　Reset-aneue is a wonderfully gentle big sister.」
 
-205108	Kentou Uzume	テレ	「志津香姉上とナギ姉上は、	「Big sister Shizuka and big sister Nagi
-205109	+		　それぞれ親戚のお姉さんって感じかな？」	　feel like cousin older sisters?」
+205108	Kentou Uzume	テレ	「志津香姉上とナギ姉上は、	「Shizuka-aneue and Nagi-aneue
+205109	+		　それぞれ親戚のお姉さんって感じかな？」	　feel like cool older cousins, perhaps?」
 
-205110	Kentou Uzume	基本	「それで行くと松下姫は隣のお姉さんでござるかね」	「Then Princess Panasonic feels like the neighbor older sister.」
+205110	Kentou Uzume	基本	「それで行くと松下姫は隣のお姉さんでござるかね」	「And following that logic, Princess Panasonic feels like the haughty older girl next door-de gozaru.」
 
-205111	Kentou Uzume		「ロッキーは心配性で感激屋の執事さん？」	「Rocky is the worrywart and easily moved butler?」
+205111	Kentou Uzume		「ロッキーは心配性で感激屋の執事さん？」	「Rocky is our loyal, easily moved worrywart of a butler, yes?」
 
 205112	Kentou Uzume	にょほほ	「ドッス殿とワッス殿の二人は	「Doss-dono and Wass-dono are
-205113	+		　頼れるボディガード、みたいな」	　like reliable bodyguards.」
+205113	+		　頼れるボディガード、みたいな」	　like reliable, stalwart bodyguards.」
 
-205114	Kentou Uzume	基本	「ザンス兄上は乱暴だけど頼り甲斐がある兄貴で、	「Big brother Zance is rough but dependable,
-205115	+		　乱義兄上はいつも心配してくれるお兄さん」	　big brother Rangi is the always caring older brother.」
+205114	Kentou Uzume	基本	「ザンス兄上は乱暴だけど頼り甲斐がある兄貴で、	「Zance-aniue is rough-edged yet thoroughly dependable,
+205115	+		　乱義兄上はいつも心配してくれるお兄さん」	　while Rangi-aniue is the caring older brother who always looks out for us.」
 
-205116	Kentou Uzume	にょほほ	「スシヌ姉上はからかい甲斐のある	「Big sister Sushinu is a
-205117	+		　可愛いお姉ちゃん」	　teasable and cute older sister.」
+205116	Kentou Uzume	にょほほ	「スシヌ姉上はからかい甲斐のある	「Sushinu-aneue is an adorable,
+205117	+		　可愛いお姉ちゃん」	　easily teased big sister.」
 
-205118	Kentou Uzume	基本	「深根ちゃんは甘えん坊な妹ちゃん」	「Tone-chan is a spoiled little sister.」
+205118	Kentou Uzume	基本	「深根ちゃんは甘えん坊な妹ちゃん」	「Tone-chan is a delightfully spoiled little sister.」
 
-205119	Kentou Uzume		「元就ちゃんは面白いことする弟」	「Motonari-chan is a brother who does funny things.」
+205119	Kentou Uzume		「元就ちゃんは面白いことする弟」	「Motonari-chan is a hilarious, wild little brother.」
 
-205120	Kentou Uzume	テレ	「ミックスちゃんは怒りっぽいけど優しい姉」	「Mix-chan is a short-tempered but kind older sister.」
+205120	Kentou Uzume	テレ	「ミックスちゃんは怒りっぽいけど優しい姉」	「Mix-chan is a sharp-tongued yet deeply caring sister.」
 
-205121	Kentou Uzume	基本	「レリコフちゃんはおてんばな妹で、	「Lelikov-chan is a tomboyish little sister,
-205122	+		　ヒーローちゃんは素直で可愛い弟」	　Hero-chan is an honest and cute little brother.」
+205121	Kentou Uzume	基本	「レリコフちゃんはおてんばな妹で、	「Lelikov-chan is our tomboyish little sister,
+205122	+		　ヒーローちゃんは素直で可愛い弟」	　and Hero-chan is our honest, adorable little brother.」
 
 205123	Kentou Uzume		「それで……」	「And then...」
 
-205124	Kentou Uzume		「それで主君殿は……」	「And my lord is...」
+205124	Kentou Uzume		「それで主君殿は……」	「And then, my Liege is...」
 
 205125	Kentou Uzume		「…………」	「............」
 
-205126	-		クスッと微笑み、	With a small smile,
-205127	+		ウズメはそれ以上は口にしなかった。	Uzume didn't say anything more.
+205126	-		クスッと微笑み、	Offering a sweet, mischievous giggle,
+205127	+		ウズメはそれ以上は口にしなかった。	Uzume said nothing more.
 
-205128	Kentou Uzume	にょほほ	「本当に本当に、毎日楽しいでござるね」	「It really was so much fun every single day.」
+205128	Kentou Uzume	にょほほ	「本当に本当に、毎日楽しいでござるね」	「Truly, truly, every single day has been an absolute delight-de gozaru.」
 
-205129	Kentou Uzume	基本	「はあ〜、ウズメ……	「Haa~ Uzume...
-205130	+		　こんな幸せでいいのかしら」	　is it really okay to be this happy?」
+205129	Kentou Uzume	基本	「はあ〜、ウズメ……	「Haaah~ Is it truly all right for Uzume
+205130	+		　こんな幸せでいいのかしら」	　to be this wonderfully happy...?」
 
-205131	-		その笑顔は、羨ましく感じるほど、	Her smile was so genuinely happy
-205132	+		本当に幸せそうな笑顔だった。	that it made you envious.
+205131	-		その笑顔は、羨ましく感じるほど、	Her smile was radiant with such genuine,
+205132	+		本当に幸せそうな笑顔だった。	heartwarming bliss that it made you feel envious.
 
-205133	Kentou Uzume		「絶対、守ろうねでござる」	「I will definitely protect you.」
+205133	Kentou Uzume		「絶対、守ろうねでござる」	「We shall protect each other no matter what-de gozaru!」
 
-205134	Kentou Uzume	にょほほ	「にょほほほ」	「Nyohohoho.」
+205134	Kentou Uzume	にょほほ	「にょほほほ」	「Nyohohoho!」
 
 205135	-		…………	............
 
 205136	-		……	......
 
-205137	-		あなたは『親友』との	You spent irreplaceable time
+205137	-		あなたは『親友』との	You spent an irreplaceable moment
 205138	+		かけがえのない時間を過ごした。	with your 'best friend'.
 
 205139	-		そして……	And then...
 
-205140	-		運命の朝を迎える。	You greet the fated morning.
+205140	-		運命の朝を迎える。	You welcomed the dawn of destiny.
