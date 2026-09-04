@@ -27,481 +27,481 @@
 * Reset Kalar	リセット	Female
 
 232891	-		西ヘルマンを出発したあなた達は、	Having departed from West Helman,
-232892	+		現在、自由都市を目指していた。	you were currently heading toward the Free Cities.
+232892	+		現在、自由都市を目指していた。	the party was currently heading toward the Free Cities.
 
 232893	-		…………	............
 
 232894	-		……	...
 
 232895	-		あなたは今日も一日の終わりに	Today as well, at the end of the day,
-232896	+		日課である日記を書き上げて、ペンを置く。	you finished writing your daily diary and put down the pen.
+232896	+		日課である日記を書き上げて、ペンを置く。	you set down your pen after finishing your daily journal entry.
 
-232897	-		立ち寄った街の酒場で、	In a tavern in the city you stopped by,
-232898	+		騒ぎが起きていると聞き	hearing there was a commotion,
-232899	+		あなたと長田君は覗きに来た。	you and Nagata-kun came to take a look.
+232897	-		立ち寄った街の酒場で、	Hearing that a commotion had broken out
+232898	+		騒ぎが起きていると聞き	at a tavern in the city you were passing through,
+232899	+		あなたと長田君は覗きに来た。	you and Nagata-kun went to take a look.
 
-232900	Zance Leazas	不満	「ッカーーーーー！」	「Gahhhhh!」
+232900	Zance Leazas	不満	「ッカーーーーー！」	「Gaaahhhhh!」
 
-232901	Yamamoto Rangi	基本	「……ん、ふう」	「...N, fuu.」
+232901	Yamamoto Rangi	基本	「……ん、ふう」	「...Ngh, whew.」
 
-232902	-		行ってみると、	When you went to look,
-232903	+		何故かザンスと乱義の二人が	for some reason Zance and Rangi
-232904	+		飲み比べをしていた。	were having a drinking contest.
+232902	-		行ってみると、	Upon checking it out,
+232903	+		何故かザンスと乱義の二人が	you found Zance and Rangi
+232904	+		飲み比べをしていた。	locked in a drinking contest for reasons unknown.
 
-232905	Zance Leazas	呆れ	「おっ……お前られるかぁ……！	「Oh... you came...!
-232906	+		　なんの用らって……らったったぁ？」	　What do you want... slurred.」
+232905	Zance Leazas	呆れ	「おっ……お前られるかぁ……！	「O-Oh... Ish you guysh...!
+232906	+		　なんの用らって……らったったぁ？」	　Whatcha here for... ya punks?!」
 
-232907	Nagata-kun	基本	「べろべろじゃん！」	「You're completely drunk!」
+232907	Nagata-kun	基本	「べろべろじゃん！」	「You're completely hammered!」
 
-232908	Zance Leazas	怒り	「アア！？　酔ってれーよ！	「Hah!? I'm not drunk!
-232909	+		　余裕らぁ、ろっけがぁ！」	　I've got plenty of room, you idiot!」
+232908	Zance Leazas	怒り	「アア！？　酔ってれーよ！	「Hah?! I ain't drunk!
+232909	+		　余裕らぁ、ろっけがぁ！」	　I've got sh-plenty of room, ya bastards!」
 
-232910	Nagata-kun	基本	「え、なんて？」	「Eh, what?」
+232910	Nagata-kun	基本	「え、なんて？」	「Wait, what did you even say?」
 
 232911	Yamamoto Rangi	説明するよ	「…………」	「............」
 
-232912	-		一方、乱義はそっと自分の目を覆っていた。	Meanwhile Rangi quietly covered his eyes.
+232912	-		一方、乱義はそっと自分の目を覆っていた。	Meanwhile, Rangi quietly covered his eyes.
 
-232913	Yamamoto Rangi		「……眼球が燃えてる」	「...My eyeballs are burning.」
+232913	Yamamoto Rangi		「……眼球が燃えてる」	「...My eyeballs are on fire.」
 
-232914	Nagata-kun	基本	「燃えてないよ！？」	「They're not burning!?」
+232914	Nagata-kun	基本	「燃えてないよ！？」	「They are not on fire?!」
 
-232915	Zance Leazas	怒り	「とにかく！	「Anyway!
-232916	+		　今、勝負の最中らがが、邪魔すんじゃれーぞ！」	　We're in the middle of a contest, don't interrupt!」
+232915	Zance Leazas	怒り	「とにかく！	「Anywho!
+232916	+		　今、勝負の最中らがが、邪魔すんじゃれーぞ！」	　We're in the middle of a match right now, sho don't you dare get in our way!」
 
-232917	Nagata-kun	基本	「えー……えー……	「Ehh... ehh...
-232918	+		　何してんのこの二人……」	　What are these two doing...」
+232917	Nagata-kun	基本	「えー……えー……	「Ugh... Wow...
+232918	+		　何してんのこの二人……」	　What are these two even doing...?」
 
-232919	Man		「さっきからこの調子でね、	「They've been like this for a while,
-232920	+		　うちのいっとうキツい酒をパカパカと……」	　drinking our strongest liquor nonstop...」
+232919	Man		「さっきからこの調子でね、	「They've been at it like that for a while now,
+232920	+		　うちのいっとうキツい酒をパカパカと……」	　tossing back our strongest rotgut like it's water...」
 
-232921	Slave Merchant		「し、しかし……	「B, but...
-232922	+		　こっんなキツい酒を意地だけであれほど……	　drinking such strong liquor on sheer willpower...
-232923	+		　ごくり……根性のあるガキ共だぜ……」	　gulp... those kids have guts...」
+232921	Slave Merchant		「し、しかし……	「B-But still...
+232922	+		　こっんなキツい酒を意地だけであれほど……	　to down that much vicious booze on sheer stubborn pride alone...
+232923	+		　ごくり……根性のあるガキ共だぜ……」	　*gulp*... Those brats have serious grit...」
 
-232924	Muscle Man		「ああ……俺には分かる……	「Yeah... I can tell... These guys will
-232925	+		　こいつら将来きっとひとかどの人物になるぜ」	　definitely become somebody in the future.」
+232924	Muscle Man		「ああ……俺には分かる……	「Yeah... I can tell just by looking at them...
+232925	+		　こいつら将来きっとひとかどの人物になるぜ」	　Those kids are definitely going to make a name for themselves one day.」
 
-232926	Mouri Motonari	笑顔	「ぐわっははははは！	「Gwah hahahahaha!
-232927	+		　勝負だと！？　何故オレを呼ばない！」	　A contest!? Why didn't you call me!」
+232926	Mouri Motonari	笑顔	「ぐわっははははは！	「Gwahahahahaha!
+232927	+		　勝負だと！？　何故オレを呼ばない！」	　A contest, you say?! Why did you not invite me?!」
 
-232928	Mouri Motonari	基本	「これを飲めばいいんだな！！！！」	「I just need to drink this!!!!」
+232928	Mouri Motonari	基本	「これを飲めばいいんだな！！！！」	「All I have to do is drink this, right?!」
 
-232929	Mouri Motonari	ガルル	「んぐっ！　んぐっ！　んぐっ！」	「Ngu! Ngu! Ngu!」
+232929	Mouri Motonari	ガルル	「んぐっ！　んぐっ！　んぐっ！」	「*chug!* *gulp!* *glug!*」
 
-232930	-		元就はザンス達の飲み方のように、	Motonari, unlike Zance and the
-232931	+		小さいグラスでは飲まず、	others who used small glasses, drank
-232932	+		瓶ごとラッパ飲みし始めた。	straight from the bottle, chugging it.
+232930	-		元就はザンス達の飲み方のように、	Unlike Zance and Rangi
+232931	+		小さいグラスでは飲まず、	sipping from small glasses,
+232932	+		瓶ごとラッパ飲みし始めた。	Motonari tipped the bottle straight to his mouth and began chugging.
 
-232933	Mouri Motonari	笑顔	「ぶはーーーーー！	「Buhaaaaaa!
-232934	+		　ぐわっはははははは！」	　Gwah hahahahahaha!」
+232933	Mouri Motonari	笑顔	「ぶはーーーーー！	「Pffhhhaaaaah!
+232934	+		　ぐわっはははははは！」	　Gwahahahahahaha!」
 
-232935	-		ばたーん！	Bam!
-232936	+		元就がブッ倒れた。	Motonari collapsed.
+232935	-		ばたーん！	*THUD!*
+232936	+		元就がブッ倒れた。	Motonari collapsed flat on his face.
 
-232937	Zance Leazas	呆れ	「大声で喚くな……」	「Don't yell so loud...」
+232937	Zance Leazas	呆れ	「大声で喚くな……」	「Quit bellowing in my ear...」
 
-232938	Yamamoto Rangi	ため息	「……酔いが回る」	「...The alcohol is hitting.」
+232938	Yamamoto Rangi	ため息	「……酔いが回る」	「...The room is spinning.」
 
-232939	Lelikov Helman	きゃはは！	「あーっ！　なんだか楽しそうなことしてるー！」	「Ah! Something fun is happening!」
+232939	Lelikov Helman	きゃはは！	「あーっ！　なんだか楽しそうなことしてるー！」	「Aah! What's this? Looks like fun!」
 
-232940	Zance Leazas	基本	「うっせーのが次々に……」	「Noisy people keep coming...」
+232940	Zance Leazas	基本	「うっせーのが次々に……」	「Another noisy brat showing up...」
 
-232941	Lelikov Helman		「これをみんなで飲んでるのー？」	「Everyone's drinking this?」
+232941	Lelikov Helman		「これをみんなで飲んでるのー？」	「Is everyone drinking this?」
 
-232942	-		レリコフはザンスと乱義が飲んでいる	Lelikov lifted the barrel
-232943	+		酒の入った樽を持ち上げた。	that Zance and Rangi were drinking from.
+232942	-		レリコフはザンスと乱義が飲んでいる	Lelikov hoisted the entire wooden cask
+232943	+		酒の入った樽を持ち上げた。	that Zance and Rangi had been drinking from.
 
-232944	Nagata-kun		「あ、ちょちょちょ！	「Ah, wait wait wait!
-232945	+		　レリコフ、それは！？」	　Lelikov, that's!?」
+232944	Nagata-kun		「あ、ちょちょちょ！	「Wh-Whoa, hold on a second!
+232945	+		　レリコフ、それは！？」	　Lelikov, that's—?!」
 
-232946	Lelikov Helman		「んぐっ！　んぐっ！　んぐっ！」	「Ngu! Ngu! Ngu!」
+232946	Lelikov Helman		「んぐっ！　んぐっ！　んぐっ！」	「*gulp!* *chug!* *glug!*」
 
-232947	-		樽ごと傾けて、中の酒をあっという間に	Tilting the whole barrel, Lelikov
-232948	+		ゴクゴクと喉を鳴らして飲み下していくレリコフ。	gulped it down with loud glugging sounds.
+232947	-		樽ごと傾けて、中の酒をあっという間に	Tilting the entire cask back, Lelikov downed every last drop
+232948	+		ゴクゴクと喉を鳴らして飲み下していくレリコフ。	in a matter of seconds, her throat gulping rhythmically.
 
-232949	Lelikov Helman	きゃはは！	「っぱーーーーー！」	「Paaaa!」
+232949	Lelikov Helman	きゃはは！	「っぱーーーーー！」	「Pwaaaah!」
 
 232950	Nagata-kun	基本	「…………」	「............」
 
-232951	Lelikov Helman		「うーん」	「Hmm.」
+232951	Lelikov Helman		「うーん」	「Hmm...」
 
-232952	Lelikov Helman	きゃはは！	「アハハ！　美味しくないね、これ！」	「Ahaha! This doesn't taste good!」
+232952	Lelikov Helman	きゃはは！	「アハハ！　美味しくないね、これ！」	「Ahaha! This tastes terrible!」
 
-232953	-		ガシャーン！	Crash! Zance and Rangi both collapsed
-232954	+		ザンスと乱義の二人が同時に机に突っ伏して倒れた。	onto the table at the same time.
+232953	-		ガシャーン！	*CRASH!*
+232954	+		ザンスと乱義の二人が同時に机に突っ伏して倒れた。	Zance and Rangi simultaneously slumped forward, face-planting onto the table.
 
 232955	Nagata-kun	基本	「レリコフ……	「Lelikov...
-232956	+		　お酒強かったんだ……」	　You were strong with alcohol...」
+232956	+		　お酒強かったんだ……」	　You have an insane tolerance for alcohol...」
 
-232957	-		○○月××日――	○○ Month ×× Day--
+232957	-		○○月××日――	Month ○○, Day ××—
 
 232958	Nagi su Ragarl	笑顔	「わーい！　海だー！」	「Yay! The sea!」
 
-232959	Reset Kalar		「海だー！」	「The sea!」
+232959	Reset Kalar		「海だー！」	「The sea~!」
 
-232960	Mouri Motonari	な	「うおおおおお！	「Uoooooh!
+232960	Mouri Motonari	な	「うおおおおお！	「WOOOOOOOO!
 232961	+		　ザンス！　大変だ！」	　Zance! This is huge!」
 
 232962	Mouri Motonari		「海は！　	「The sea!
 232963	?		舐めると！　	　When you lick it!
 232964	+		しょっぱい！」	　It's salty!」
 
-232965	Zance Leazas	基本	「そうかよ……」	「I see...」
+232965	Zance Leazas	基本	「そうかよ……」	「Good for you...」
 
-232966	Mouri Motonari	笑顔	「ぐわっははははははははは！！！！	「Gwah hahahahahahahaha!!!!
-232967	+		　これが海かあああああああ！！！！」	　So this is the sea!!!!」
+232966	Mouri Motonari	笑顔	「ぐわっははははははははは！！！！	「GWAHAHAHAHAHAHAHA!!!!
+232967	+		　これが海かあああああああ！！！！」	　SO THIS IS THE OCEAN!!!!」
 
-232968	-		あなた達は世界唯一の海がある、	You had come to the beach of the Cina Sea
-232969	+		川中島の近辺、シナ海の浜辺に来ていた。	near Kawanakajima, the only sea in the world.
+232968	-		あなた達は世界唯一の海がある、	The party had arrived at the shores of the Cina Sea
+232969	+		川中島の近辺、シナ海の浜辺に来ていた。	near Kawanakajima, the only ocean in the entire world.
 
-232970	Masou Shizuka	基本	「スシヌ、転ばないように気をつけるのよ」	「Sushinu, be careful not to fall.」
+232970	Masou Shizuka	基本	「スシヌ、転ばないように気をつけるのよ」	「Sushinu, be careful not to trip.」
 
-232971	Sushinu the Gandhi		「はーい。	「Yeees.
-232972	+		　あっ、結構冷たいね、きゃっ……」	　Ah, it's quite cold, kyaa...」
+232971	Sushinu the Gandhi		「はーい。	「Okay~
+232972	+		　あっ、結構冷たいね、きゃっ……」	　Ah, it is quite chilly... Eep...」
 
-232973	Zance Leazas		「ったく、どいつもこいつも……」	「Geez, every single one of them...」
+232973	Zance Leazas		「ったく、どいつもこいつも……」	「Good grief, look at all of them goofing off...」
 
-232974	Yamamoto Rangi	微笑み	「まあ、そう言うな。	「Come on, don't say that.
-232975	+		　ここまで旅のし通しなんだ。	　We've been traveling nonstop.
-232976	+		　休息も時には必要だろう」	　Rest is necessary sometimes.」
+232974	Yamamoto Rangi	微笑み	「まあ、そう言うな。	「Come now, do not be like that.
+232975	+		　ここまで旅のし通しなんだ。	　We have been on the road nonstop.
+232976	+		　休息も時には必要だろう」	　Everyone needs a little rest now and then.」
 
-232977	Zance Leazas	基本	「ちっ、軟弱もの共が……」	「Tch, you weaklings...」
+232977	Zance Leazas	基本	「ちっ、軟弱もの共が……」	「Tch, bunch of softies...」
 
 232978	Lelikov Helman	きゃはは！	「キャハハハ！	「Kyahahaha!
-232979	+		　ヒーロー、もっと水ばちゃーしてー！」	　Hero, splash more water!」
+232979	+		　ヒーロー、もっと水ばちゃーしてー！」	　Hero, splash me more!」
 
-232980	Hero Helman	基本	「いくよー！　とーう！」	「Here I go! Tou!」
+232980	Hero Helman	基本	「いくよー！　とーう！」	「Here it comes! Hup!」
 
-232981	-		ヒーローが海をかき上げて、	Hero scooped up seawater
-232982	+		大量の海水をレリコフにぶっかけた。	and splashed a huge amount on Lelikov.
+232981	-		ヒーローが海をかき上げて、	Hero scooped up a wave with both hands
+232982	+		大量の海水をレリコフにぶっかけた。	and sent a huge splash of seawater flying straight at Lelikov.
 
 232983	Lelikov Helman	きゃはは！	「キャー！」	「Kyaa!」
 
-232984	Lelikov Helman	基本	「ウズメもやってー！」	「Uzume do it too!」
+232984	Lelikov Helman	基本	「ウズメもやってー！」	「Uzume, you do it too!」
 
-232985	Kentou Uzume	にょほほ	「了解！　ににんにん！	「Roger! Nin nin!
-232986	+		　水遁大津波の術！　とーう！」	　Water Style Great Tsunami Technique! Tou!」
+232985	Kentou Uzume	にょほほ	「了解！　ににんにん！	「Aye-aye! Nin-nin-nin!
+232986	+		　水遁大津波の術！　とーう！」	　Water Style: Great Tsunami Jutsu! Hup!」
 
-232987	Lelikov Helman	基本	「キャーーー！　流されるーーー！」	「Kyaaa! I'm being swept away!」
+232987	Lelikov Helman	基本	「キャーーー！　流されるーーー！」	「KYAAA! I'm getting washed awayyyy!」
 
-232988	Hero Helman		「わーーーーー！」	「Waaaa!」
+232988	Hero Helman		「わーーーーー！」	「Waaaaah!」
 
-232989	Dark Rance		「あんまり遠くに行くなよー！」	「Don't go too far!」
+232989	Dark Rance		「あんまり遠くに行くなよー！」	「Don't wander out too far, you two!」
 
-232990	-		今回もたまたま会ったダークランスが、	Dark Rance, who happened to meet you again this time,
-232991	+		唇を緩めながら皆に注意を呼びかけていた。	called out to everyone with a relaxed smile.
+232990	-		今回もたまたま会ったダークランスが、	Dark Rance, who had coincidentally crossed paths with the party again,
+232991	+		唇を緩めながら皆に注意を呼びかけていた。	called out warnings to everyone with a relaxed smile.
 
-232992	Dark Rance		「で、ミックスは行かないのか？」	「So, Mix isn't going?」
+232992	Dark Rance		「で、ミックスは行かないのか？」	「So, Mix, you aren't going in?」
 
 232993	Mix Tou		「濡れるのは嫌いだから。	「I hate getting wet.
-232994	+		　あたしはここで砂遊びしてる」	　I'll play in the sand here.」
+232994	+		　あたしはここで砂遊びしてる」	　I'll just play in the sand here.」
 
-232995	Mix Tou		「兄さんも行って来ていいわよ」	「Big brother can go too.」
+232995	Mix Tou		「兄さんも行って来ていいわよ」	「You can go join them if you want, Big Brother.」
 
-232996	Dark Rance	安心	「や、俺もここで付き合うさ」	「Nah, I'll stay here with you.」
+232996	Dark Rance	安心	「や、俺もここで付き合うさ」	「Nah, I'll keep you company here.」
 
 232997	Tokugawa Tone	基本	「ミックスちゃん、	「Mix-chan,
-232998	+		　トンネル作るからそっちも掘ってー」	　I'm making a tunnel so dig from your side too.」
+232998	+		　トンネル作るからそっちも掘ってー」	　I'm building a tunnel, so start digging from your side too.」
 
-232999	Mix Tou	我関せず	「はいはい」	「Yeah yeah.」
+232999	Mix Tou	我関せず	「はいはい」	「Yeah, yeah.」
 
 233000	Maria Custard	笑顔	「ふふ……」	「Fufu...」
 
-233001	Nagata-kun	基本	「うっひょー、海ー、海ー！	「Woohooー, the seaー, the seaー!
-233002	+		　無駄にテンション上がるー！」	　My tension is rising for no reasonー!」
+233001	Nagata-kun	基本	「うっひょー、海ー、海ー！	「Woo-hoo! The beach! The ocean!
+233002	+		　無駄にテンション上がるー！」	　My hype levels are rising for absolutely no reason!」
 
-233003	Nagata-kun		「おい、＜エール＞！　お前も来いよ！」	「Hey, ＜エール＞! You come too!」
+233003	Nagata-kun		「おい、＜エール＞！　お前も来いよ！」	「Hey, ＜エール＞! Come on in, too!」
 
-233004	-		あなたは長田君に手を引かれ、	You were pulled by the hand by Nagata-kun,
-233005	+		海の中に足を踏み入れた。	and stepped into the sea.
+233004	-		あなたは長田君に手を引かれ、	Nagata-kun pulled you by the hand,
+233005	+		海の中に足を踏み入れた。	leading you into the ocean.
 
 233006	El Mofus		「…………。」	「............」
 
-233007	-		ちゃぷっ。	Splash. After taking off your shoes and
-233008	+		靴を脱いで足だけを海の中に入れると、	dipping just your feet into the sea, you
-233009	+		思った以上の冷たさにまず驚いた。	were first surprised by how cold it was.
+233007	-		ちゃぷっ。	*Splash.*
+233008	+		靴を脱いで足だけを海の中に入れると、	Taking off your footwear and dipping just your bare feet into the water,
+233009	+		思った以上の冷たさにまず驚いた。	you were first taken aback by how brisk and cold it felt.
 
-233010	-		足の裏の砂が波によってサラサラと流れ、	The sand under your feet flowed smoothly with the waves,
-233011	+		ともすれば転んでしまいそうになるのを	and you braced your legs to endure the feeling
-233012	+		あなたは足を踏ん張って耐えた。	that you might slip and fall at any moment.
+233010	-		足の裏の砂が波によってサラサラと流れ、	As the waves smoothly washed away the sand beneath your feet,
+233011	+		ともすれば転んでしまいそうになるのを	threatening to throw you off balance,
+233012	+		あなたは足を踏ん張って耐えた。	you dug your heels in firmly to stay upright.
 
-233013	Nagata-kun		「ぎゃー！」	「Gyaa!」
+233013	Nagata-kun		「ぎゃー！」	「Gyaaaah!」
 
-233014	-		隣で長田君が転んでいた。	Nagata-kun had fallen over right beside you.
+233014	-		隣で長田君が転んでいた。	Right beside you, Nagata-kun had wiped out completely.
 
 233015	El Mofus		「…………。」	「............」
 
-233016	-		初めて見る海は、	The sea you saw for the first time,
-233017	+		とても広く、雄大で、綺麗だった。	was incredibly wide, majestic, and beautiful.
+233016	-		初めて見る海は、	The ocean you laid eyes on for the first time
+233017	+		とても広く、雄大で、綺麗だった。	was vast, majestic, and breathtakingly beautiful.
 
-233018	-		いつまで見ていても飽きない。	You could stare at it forever without getting tired.
-233019	+		そんな気持ちがした。	That's how you felt.
+233018	-		いつまで見ていても飽きない。	You felt as though you could gaze out at the horizon forever
+233019	+		そんな気持ちがした。	without ever growing tired of it.
 
-233020	-		あなたは生まれて始めて、	For the first time in your life,
+233020	-		あなたは生まれて始めて、	For the very first time in your life,
 233021	+		家族で海に遊びに行った。	you went to the sea with your family.
 
-233022	-		○○月××日――	○○ Month ×× Day――
+233022	-		○○月××日――	Month ○○, Day ××—
 
-233023	Dark Rance		「若返りの山？」	「Mountain of Rejuvenation?」
+233023	Dark Rance		「若返りの山？」	「A mountain of rejuvenation?」
 
-233024	Old Man		「はい、そうですじゃ……」	「Yes, that's right...」
+233024	Old Man		「はい、そうですじゃ……」	「Yes, that is correct, sir...」
 
-233025	Old Man		「この付近にある山は不思議な霧が立ちこめ、	「The mountain near here is covered in mysterious fog, and
-233026	+		　その霧を吸い込むと体が若返ってしまうとか……	　breathing that fog apparently makes your body younger...
-233027	+		　最後には胎児にまで戻り、そして……」	　In the end it turns you back into a fetus, and then...」
+233025	Old Man		「この付近にある山は不思議な霧が立ちこめ、	「A mysterious mist envelops the mountain near our village,
+233026	+		　その霧を吸い込むと体が若返ってしまうとか……	　and anyone who inhales it finds their body growing younger and younger...
+233027	+		　最後には胎児にまで戻り、そして……」	　until eventually they revert all the way to a fetus, and then...」
 
-233028	-		あまりの恐ろしさ故か、	Perhaps because it was too terrifying,
-233029	+		村長はそれ以上は口にしなかった。	the village chief didn't say anything more.
+233028	-		あまりの恐ろしさ故か、	Perhaps finding it too horrifying to put into words,
+233029	+		村長はそれ以上は口にしなかった。	the village chief fell silent.
 
-233030	Old Man		「以前は普通の山だったのです……	「It used to be a normal mountain...
-233031	+		　このままでは村も霧に飲み込まれるのではと、	　At this rate the village might be swallowed by the fog,
-233032	+		　村人も恐れております……」	　and the villagers are all terrified...」
+233030	Old Man		「以前は普通の山だったのです……	「It used to be an ordinary mountain...
+233031	+		　このままでは村も霧に飲み込まれるのではと、	　But the villagers are terrified that the fog will soon spill down
+233032	+		　村人も恐れております……」	　and swallow our homes whole...」
 
-233033	Old Man		「見たところ、皆様かなり腕が立つご様子。	「You all seem quite skilled.
-233034	+		　この一件を解決しては頂けないでしょうか」	　Could you please resolve this matter for us?」
+233033	Old Man		「見たところ、皆様かなり腕が立つご様子。	「From the look of it, you all possess exceptional combat prowess.
+233034	+		　この一件を解決しては頂けないでしょうか」	　Could you find it in your hearts to resolve this crisis for us?」
 
 233035	Reset Kalar		「そういうことなら……」	「If that's the case...」
 
-233036	Dark Rance		「おう、行ってみっか」	「Alright, let's go check it out.」
+233036	Dark Rance		「おう、行ってみっか」	「Yeah, let's go check it out.」
 
-233037	-		あなた達は村の村長に頼まれて、	At the village chief's request,
-233038	+		付近の山の調査に来た。	you came to investigate the nearby mountain.
+233037	-		あなた達は村の村長に頼まれて、	At the village chief's plea,
+233038	+		付近の山の調査に来た。	the party set off to investigate the nearby mountain.
 
-233039	Reset Kalar		「というわけで調査がんばろー。	「So let's do our best with the investigation.
-233040	+		　あ、でも、危なくなったらすぐ逃げようね」	　Ah, but if it gets dangerous let's run away right away.」
+233039	Reset Kalar		「というわけで調査がんばろー。	「All right, let's do our best with the investigation!
+233040	+		　あ、でも、危なくなったらすぐ逃げようね」	　Ah, but if things get dangerous, we run away immediately, okay?」
 
 233041	Dark Rance	グラムあり	「ま、村人達が困ってるってんじゃ、	「Well, if the villagers are in trouble,
-233042	+		　放っておくのも寝覚めが悪いしな」	　it'd feel bad to just ignore it.」
+233042	+		　放っておくのも寝覚めが悪いしな」	　turning a blind eye would leave a bad taste in my mouth.」
 
-233043	Zance Leazas	不満	「ったく……	「Geez...
-233044	+		　いっつもこうだ……」	　It's always like this...」
+233043	Zance Leazas	不満	「ったく……	「Good grief...
+233044	+		　いっつもこうだ……」	　It's always like this with them...」
 
-233045	Masou Shizuka	ため息	「なんであいつの長男と長女が、	「Why did that guy's eldest son and daughter
-233046	+		　こんな風に育つんだか……」	　grow up like this...」
+233045	Masou Shizuka	ため息	「なんであいつの長男と長女が、	「How on earth did that man's eldest son and daughter
+233046	+		　こんな風に育つんだか……」	　manage to turn out like this...?」
 
-233047	-		そして、ロッキーが若返った。	And then, Rocky became younger.
+233047	-		そして、ロッキーが若返った。	And then, Rocky suddenly reverted in age.
 
-233048	Rocky Bank	ガーン	「ええっ！？」	「Ehh!?」
+233048	Rocky Bank	ガーン	「ええっ！？」	「Eeeeh?!」
 
-233049	Nagata-kun	基本	「唐突に若返った！？」	「He suddenly got younger!?」
+233049	Nagata-kun	基本	「唐突に若返った！？」	「He shrank out of nowhere?!」
 
-233050	Rocky Bank	ガーン	「おおお、おらもビックリだすー！」	「Oooooh, I'm surprised tooー!」
+233050	Rocky Bank	ガーン	「おおお、おらもビックリだすー！」	「W-W-Well I'll be darned, I'm just as shocked, I am!」
 
-233051	Dark Rance	グラムあり	「……聞いたことはあったんだよな。	「...I've heard about it before. There's supposedly
-233052	+		　この世には時間を狂わせる霧があるとか」	　fog in this world that messes with time.」
+233051	Dark Rance	グラムあり	「……聞いたことはあったんだよな。	「...I remember hearing rumors about this before.
+233052	+		　この世には時間を狂わせる霧があるとか」	　Supposedly, there is a fog in this world that distorts time itself.」
 
-233053	Dark Rance		「あんまりチンタラしてると、	「If we dawdle too much,
-233054	+		　身動き取れないくらい若返るかも知れん。	　we might get so young we can't even move.
-233055	+		　みんな、気をつけながら――」	　Everyone, stay alert while we――」
+233053	Dark Rance		「あんまりチンタラしてると、	「If we dawdle around too long,
+233054	+		　身動き取れないくらい若返るかも知れん。	　we might regress so much we won't even be able to walk.
+233055	+		　みんな、気をつけながら――」	　Everyone, stay sharp while we—」
 
-233056	Rance	基本	「急いで進むとしよう」	「Let's hurry forward.」
+233056	Rance	基本	「急いで進むとしよう」	「Hurry it up.」
 
-233057	Reset Kalar		「……へ？」	「...Eh?」
+233057	Reset Kalar		「……へ？」	「...Huh?」
 
-233058	Rance	怒り	「うおっ！　俺も若返った！？」	「Uoh! I got younger too!?」
+233058	Rance	怒り	「うおっ！　俺も若返った！？」	「Whoa! I got turned into a kid too?!」
 
-233059	Masou Shizuka	基本	「……なるほど、こういうところなわけね」	「...I see, so this is what it's like.」
+233059	Masou Shizuka	基本	「……なるほど、こういうところなわけね」	「...I see. So that's how it works.」
 
-233060	Nagi su Ragarl	笑顔	「アハハハ、可愛い可愛い！	「Ahahaha, so cute, so cute!
-233061	+		　お兄ちゃん可愛い〜〜！」	　Big brother is so cute〜〜!」
+233060	Nagi su Ragarl	笑顔	「アハハハ、可愛い可愛い！	「Ahahaha! So cute, so cute!
+233061	+		　お兄ちゃん可愛い〜〜！」	　Big Brother is adorableeee~!」
 
-233062	Rance	基本	「ぐえ……抱きついて頭撫でるなよ……」	「Gueh... Don't hug me and pat my head...」
+233062	Rance	基本	「ぐえ……抱きついて頭撫でるなよ……」	「Gwah... Stop glomping me and patting my head...」
 
-233063	Rance		「格好が当時のものなところからして……	「Judging from the fact that my clothes are from back then...
-233064	+		　本当に若返るというよりも、	　it's less like actual rejuvenation, and more like changing
-233065	+		　記憶の中の姿に映し変える……って感じかな」	　into the appearance from my memories... or something.」
+233063	Rance		「格好が当時のものなところからして……	「Given that my clothes changed to what I wore back then...
+233064	+		　本当に若返るというよりも、	　It's less like actual biological regression and more like our forms
+233065	+		　記憶の中の姿に映し変える……って感じかな」	　are being rewritten into our past memories, I suppose.」
 
-233066	Rance		「……ただ筋力とかは昔と同じだ。	「...Though my muscle strength is the same as back then.
-233067	+		　ちょっと厄介なところかもな」	　That part might be a bit troublesome.」
+233066	Rance		「……ただ筋力とかは昔と同じだ。	「...Though my physical strength seems to match what I had back then too.
+233067	+		　ちょっと厄介なところかもな」	　That could prove a bit problematic.」
 
-233068	Masou Shizuka		「これ、治るの？」	「Will this get fixed?」
+233068	Masou Shizuka		「これ、治るの？」	「Can this be reversed?」
 
-233069	Rance		「原因さえなんとかすれば、	「If we deal with the cause,
-233070	+		　元に戻る……と、思う」	　I think we'll go back to normal...」
+233069	Rance		「原因さえなんとかすれば、	「As long as we take care of the source,
+233070	+		　元に戻る……と、思う」	　we should return to normal... I think.」
 
-233071	Maria Custard	笑顔	「はぁ〜、それにしても可愛い〜……	「Haa~, but still, so cute~...
-233072	+		　カメラ持ってくれば良かった」	　I should have brought a camera.」
+233071	Maria Custard	笑顔	「はぁ〜、それにしても可愛い〜……	「Haaah... Still, you're so precious...
+233072	+		　カメラ持ってくれば良かった」	　I really should have brought a camera.」
 
-233073	Rance	基本	「可愛いとか言ってくれるなよ……」	「Don't call me cute...」
+233073	Rance	基本	「可愛いとか言ってくれるなよ……」	「Would you stop calling me cute already...?」
 
-233074	Maria Custard		「それにしても、昔のダークランスって、	「Still, the old Dark Rance really
-233075	+		　本当に生意気そうな顔してるね」	　had such an arrogant-looking face.」
+233074	Maria Custard		「それにしても、昔のダークランスって、	「Come to think of it, you really did have
+233075	+		　本当に生意気そうな顔してるね」	　such an insolent little scowl back in the day, Dark Rance.」
 
-233076	Rance		「わ、悪かったな……」	「S-Sorry about that...」
+233076	Rance		「わ、悪かったな……」	「W-Well, excuse me for existing...」
 
-233077	Maria Custard	笑顔	「あはは、拗ねた？　拗ねちゃったの？」	「Ahaha, are you sulking? Did you get sulky?」
+233077	Maria Custard	笑顔	「あはは、拗ねた？　拗ねちゃったの？」	「Ahaha, what, are you pouting? Are you sulking now?」
 
-233078	Nook 77	基本	「はっ、あぐ……うう……」	「Hah, agu... uu...」
+233078	Nook 77	基本	「はっ、あぐ……うう……」	「*gasp*... *whimper*... Ungh...」
 
-233079	Rance		「ん？　ヌーク、どうかしたか？」	「Hm? Nuke, what's wrong?」
+233079	Rance		「ん？　ヌーク、どうかしたか？」	「Hm? Nook, what's wrong with you?」
 
-233080	Nook 77~	ツンデレ	（あ゛ああ゛あぁぁ゛ぁ゛あああ゛ああぁ！！！！	（Aaaahhh so cute so cute so cute so cute so cute!!!
-233081	+		　可愛い可愛い可愛い可愛い可愛い可愛い！！！！）	　Cute cute cute cute cute cute!!!!）
+233080	Nook 77~	ツンデレ	（あ゛ああ゛あぁぁ゛ぁ゛あああ゛ああぁ！！！！	（AAAAAAAGHHHHHH HE IS SO CUUUUUUTE!!!!
+233081	+		　可愛い可愛い可愛い可愛い可愛い可愛い！！！！）	　ADORABLE ADORABLE ADORABLE ADORABLE ADORABLE!!!!）
 
-233082	-		ヌークは内心で悶えていた。	Nuke was writhing inside her heart.
+233082	-		ヌークは内心で悶えていた。	Nook was writhing in silent ecstasy within her heart.
 
-233083	Rance	怒り	「お、おい、どうした！？	「H-Hey, what's wrong!?
-233084	+		　大丈夫か、ヌーク！？」	　Are you okay, Nuke!?」
+233083	Rance	怒り	「お、おい、どうした！？	「H-Hey, what's the matter?!
+233084	+		　大丈夫か、ヌーク！？」	　Are you all right, Nook?!」
 
-233085	Nook 77	ツンデレ	「わあああ、近寄らないで！？	「Waaaah, don't come near me!?
-233086	+		　死んじゃうから！」	　I'll die!」
+233085	Nook 77	ツンデレ	「わあああ、近寄らないで！？	「Waaaaah, stay back!
+233086	+		　死んじゃうから！」	　Don't look at me or I'll die of a heart attack!」
 
-233087	Rance	怒り	「ええっ！？」	「Ehh!?」
+233087	Rance	怒り	「ええっ！？」	「Whaaat?!」
 
-233088	Masou Shizuka	基本	「あ、私達も若返った」	「Ah, we got younger too.」
+233088	Masou Shizuka	基本	「あ、私達も若返った」	「Ah, we turned into kids too.」
 
-233089	Nagi su Ragarl		「あっ、お姉様！」	「Ah, big sister!」
+233089	Nagi su Ragarl		「あっ、お姉様！」	「Ah, Big Sister!」
 
 233090	Nagi su Ragarl	笑顔	「この年なら……	「At this age...
-233091	+		　温泉で男湯入れる！」	　I can enter the men's bath at the hot springs!」
+233091	+		　温泉で男湯入れる！」	　I can sneak into the men's bath at the hot springs!」
 
-233092	Masou Shizuka	呆れ	「……入りたいの？」	「...You want to go in?」
+233092	Masou Shizuka	呆れ	「……入りたいの？」	「...Why would you even want to do that?」
 
-233093	Nagi su Ragarl	基本	「入っちゃいけない場所、入りたくない？」	「Don't you want to enter a place you're not supposed to?」
+233093	Nagi su Ragarl	基本	「入っちゃいけない場所、入りたくない？」	「Doesn't it make you want to go in precisely because you're not allowed?」
 
-233094	Nagata-kun		「二人ともすごい落ち着いてますね……」	「You two are really calm about this...」
+233094	Nagata-kun		「二人ともすごい落ち着いてますね……」	「You two are taking this remarkably in stride...」
 
-233095	Masou Shizuka		「冒険生活も長いから……	「We've been adventuring for a long time...
-233096	+		　もうこういう荒唐無稽なの慣れたわ」	　I'm already used to this kind of ridiculous stuff.」
+233095	Masou Shizuka		「冒険生活も長いから……	「We've been adventuring for a very long time...
+233096	+		　もうこういう荒唐無稽なの慣れたわ」	　One gets used to this brand of absurdity.」
 
-233097	Reset Kalar		「と、とにかく急ごう！	「A-Anyway let's hurry!
-233098	+		　このままじゃどこまで若返るか分からないよ！」	　We don't know how young we'll get if we stay like this!」
+233097	Reset Kalar		「と、とにかく急ごう！	「A-At any rate, let's hurry!
+233098	+		　このままじゃどこまで若返るか分からないよ！」	　If we stay like this, who knows how young we'll end up!」
 
-233099	Nagi su Ragarl		「リセット、変わらないね……」	「Reset hasn't changed at all...」
+233099	Nagi su Ragarl		「リセット、変わらないね……」	「Reset, you haven't changed at all...」
 
 233100	Reset Kalar	怒り	「もうっ、ナギちゃん！」	「Geez, Nagi-chan!」
 
-233101	-		その後の冒険の末――	After the subsequent adventure――
+233101	-		その後の冒険の末――	After venturing deeper—
 
-233102	-		全員が子供に若返ってしまった為、苦労したが、	Everyone had become children, which caused
-233103	+		あなた達は霧の発生源である魔物を	trouble, but you managed to defeat the monster
-233104	+		なんとか倒すことに成功した。	that was the source of the fog. Success.
+233102	-		全員が子供に若返ってしまった為、苦労したが、	Despite the hardship of everyone being turned into children,
+233103	+		あなた達は霧の発生源である魔物を	the party managed to locate and defeat the monster generating the mist,
+233104	+		なんとか倒すことに成功した。	resolving the crisis.
 
-233105	-		○○月××日――	○○ Month ×× Day――
+233105	-		○○月××日――	Month ○○, Day ××—
 
-233106	Reset Kalar	基本	「わっせ、わっせ、わっせ……」	「Wasse, wasse, wasse...」
+233106	Reset Kalar	基本	「わっせ、わっせ、わっせ……」	「Heave, ho, heave, ho...」
 
-233107	-		リセットが沢山の洗濯物を抱えていた。	Reset was carrying a huge pile of laundry.
+233107	-		リセットが沢山の洗濯物を抱えていた。	Reset was carrying an enormous basket of laundry.
 
-233108	Reset Kalar	口開き	「あ、＜エール＞ちゃんに長田君。	「Ah, ＜エール＞-chan and Nagata-kun.
-233109	+		　えへへ、久し振りのお天気だから、	　Ehehe, it's been a while since we've had nice weather,
-233110	+		　溜まってる分、全部洗濯しちゃうの」	　so I'm washing all the accumulated laundry.」
+233108	Reset Kalar	口開き	「あ、＜エール＞ちゃんに長田君。	「Ah, ＜エール＞-chan and Nagata-kun!
+233109	+		　えへへ、久し振りのお天気だから、	　Ehehe, it's been so long since we had clear skies,
+233110	+		　溜まってる分、全部洗濯しちゃうの」	　so I'm washing all the laundry that piled up!」
 
-233111	Reset Kalar	基本	「あ、もし良かったら、	「Ah, if you want,
-233112	+		　二人も手伝ってくれない」	　can you two help me?」
+233111	Reset Kalar	基本	「あ、もし良かったら、	「If you don't mind,
+233112	+		　二人も手伝ってくれない」	　would you two like to help out?」
 
-233113	Nagata-kun		「いっすよー！	「Sureー!
-233114	+		　なあ、相棒！」	　Right, partner!」
+233113	Nagata-kun		「いっすよー！	「Count me in!
+233114	+		　なあ、相棒！」	　Right, partner?!」
 
 233115	El Mofus		「…………。」	「............」
 
-233116	-		長田君の言葉にあなたは頷く。	You nod at Nagata-kun's words.
+233116	-		長田君の言葉にあなたは頷く。	You nodded in agreement at Nagata-kun's words.
 
-233117	Sushinu the Gandhi	外套なし	「あ、そういうことなら手伝うよー」	「Ah, if that's the case I'll help tooー」
+233117	Sushinu the Gandhi	外套なし	「あ、そういうことなら手伝うよー」	「Ah, in that case, I will lend a hand too~」
 
-233118	Dark Rance	基本	「おっ、洗濯か。	「Oh, laundry huh.
-233119	+		　俺にも出来ることあるか？」	　Is there anything I can do?」
+233118	Dark Rance	基本	「おっ、洗濯か。	「Oho, doing laundry?
+233119	+		　俺にも出来ることあるか？」	　Is there anything I can help with?」
 
-233120	Masou Shizuka	帽子なし	「どうせなら、みんなでやって、	「Might as well do it together,
-233121	+		　とっとと終わらせましょ」	　and finish it quickly.」
+233120	Masou Shizuka	帽子なし	「どうせなら、みんなでやって、	「If we are doing this, we might as well all pitch in
+233121	+		　とっとと終わらせましょ」	　and get it over with quickly.」
 
-233122	Masou Shizuka		「というわけで、あんた達も来なさい」	「So you all come too.」
+233122	Masou Shizuka		「というわけで、あんた達も来なさい」	「That means the rest of you, over here right now.」
 
-233123	Nagi su Ragarl	帽子なし／不満	「え〜……」	「Ehh〜...」
+233123	Nagi su Ragarl	帽子なし／不満	「え〜……」	「Eeeeh~...」
 
 233124	Zance Leazas	基本	「アア？　俺らもかよ」	「Aah? Us too?」
 
-233125	Mouri Motonari		「断る！！！！」	「I refuse!!!!」
+233125	Mouri Motonari		「断る！！！！」	「I REFUSE!!!!」
 
-233126	Masou Shizuka	帽子なし／睨み	「……いいから、手伝いなさい」	「...Just help already.」
+233126	Masou Shizuka	帽子なし／睨み	「……いいから、手伝いなさい」	「...Just shut up and help.」
 
-233127	Nagi su Ragarl	帽子なし／反省	「あ、は〜い」	「Ah, okaaay.」
+233127	Nagi su Ragarl	帽子なし／反省	「あ、は〜い」	「Ah, yeees, ma'am.」
 
 233128	Zance Leazas	不満	「チィ……」	「Tch...」
 
-233129	Mouri Motonari	な	「お、おう……」	「O-Okay...」
+233129	Mouri Motonari	な	「お、おう……」	「O-Ooh...」
 
-233130	-		結局、全員で集まって川に向かい、	In the end everyone gathered and headed to the river,
-233131	+		洗濯物をやっつけることとなった。	and decided to tackle the laundry together.
+233130	-		結局、全員で集まって川に向かい、	In the end, everyone gathered by the riverside
+233131	+		洗濯物をやっつけることとなった。	to tackle the mountain of laundry together.
 
-233132	-		間違えて女性の下着を洗おうとした長田君が、	Nagata-kun who tried to wash women's underwear
-233133	+		例の如くパリーンと景気よく割れる。	by mistake, shattered with a crisp sound as usual.
+233132	-		間違えて女性の下着を洗おうとした長田君が、	Nagata-kun, who mistakenly tried to wash the women's undergarments,
+233133	+		例の如くパリーンと景気よく割れる。	was smashed to pieces with a resounding crack, as is tradition.
 
-233134	-		スシヌとナギが裸足で川に入り、	Sushinu and Nagi entered the river barefoot,
-233135	+		シーツを足で洗濯して、	and washed the sheets with their feet,
-233136	+		キャーキャーと笑っていた。	laughing excitedly.
+233134	-		スシヌとナギが裸足で川に入り、	Sushinu and Nagi stepped barefoot into the river,
+233135	+		シーツを足で洗濯して、	stomping clean the bedsheets with their feet
+233136	+		キャーキャーと笑っていた。	while giggling excitedly.
 
-233137	-		調子に乗って足を滑らせた二人を、	When the two slipped while getting carried away,
-233138	+		ウズメが慌てて抱きかかえていた。	Uzume hurriedly caught them.
+233137	-		調子に乗って足を滑らせた二人を、	When the two got carried away and slipped,
+233138	+		ウズメが慌てて抱きかかえていた。	Uzume frantically swooped in to catch them.
 
-233139	-		洗濯は手慣れたものなロッキーが、	Rocky, experienced with laundry, gave
-233140	+		不慣れなレリコフとヒーローに指導をし、	instructions to the inexperienced Lelikov
-233141	+		二人は素直にふんふんと頷く。	and Hero, and the two nodded obediently.
+233139	-		洗濯は手慣れたものなロッキーが、	Rocky, an expert at laundry,
+233140	+		不慣れなレリコフとヒーローに指導をし、	gave gentle guidance to the inexperienced Lelikov and Hero,
+233141	+		二人は素直にふんふんと頷く。	who both nodded along earnestly.
 
-233142	-		川に流されてしまった松下姫を、	Dark Rance hurriedly retrieved Princess Panasonic
-233143	+		ダークランスが慌てて回収し、	who had been swept away by the river,
-233144	+		びしょ濡れの二人がトボトボと戻ってきた。	and the two soaking wet people trudged back.
+233142	-		川に流されてしまった松下姫を、	Dark Rance scrambled into the rapids to fish out Princess Panasonic
+233143	+		ダークランスが慌てて回収し、	after she got swept away,
+233144	+		びしょ濡れの二人がトボトボと戻ってきた。	and the two came trudging back completely soaked.
 
-233145	-		元就が適当に洗った洗濯物を、	Mix, who was particular about cleanliness,
-233146	+		清潔に一家言あるミックスが駄目だしし、	rejected Motonari's sloppily washed laundry
-233147	+		やり直しをさせていた。	and made him redo it.
+233145	-		元就が適当に洗った洗濯物を、	Mix, who had strict standards for cleanliness,
+233146	+		清潔に一家言あるミックスが駄目だしし、	thoroughly rejected Motonari's half-hearted scrubbing
+233147	+		やり直しをさせていた。	and forced him to wash everything over again.
 
-233148	-		途中まで頑張っていた深根は、	Tone, who had been working hard at first,
-233149	+		気づけば手が疲れたと言い残し眠りだし、	suddenly said her hands were tired and fell asleep,
-233150	+		志津香に怒られていた。	and got scolded by Shizuka.
+233148	-		途中まで頑張っていた深根は、	Tone, who worked diligently at first,
+233149	+		気づけば手が疲れたと言い残し眠りだし、	abruptly announced her hands were tired and fell fast asleep on the spot,
+233150	+		志津香に怒られていた。	earning a swift scolding from Shizuka.
 
-233151	-		いつもの如くザンスと乱義は喧嘩を始め、	As usual Zance and Rangi started fighting,
-233152	+		早洗濯勝負をすることになり、	and began a quick laundry competition,
-233153	+		志津香に怒られていた。	and got scolded by Shizuka.
+233151	-		いつもの如くザンスと乱義は喧嘩を始め、	As expected, Zance and Rangi got into a quarrel
+233152	+		早洗濯勝負をすることになり、	and turned the chore into a speed-washing contest,
+233153	+		志津香に怒られていた。	earning a swift scolding from Shizuka.
 
-233154	-		洗濯が終わると、干す作業に入り、	After finishing the washing, they moved on to
-233155	+		ドッスとワッスの二人は皆の手が届かない所まで	hanging the clothes, and Doss and Wassu reached up
-233156	+		手を伸ばして干してくれた。	to places no one else could reach and hung them.
+233154	-		洗濯が終わると、干す作業に入り、	Once the washing was done, they moved on to hanging the sheets,
+233155	+		ドッスとワッスの二人は皆の手が届かない所まで	with Doss and Wass stretching their long arms
+233156	+		手を伸ばして干してくれた。	to reach high spots nobody else could.
 
-233157	-		何がそこまで楽しいのか……	What was so fun about it...
-233158	+		リセットはずっとニコニコ笑っていた。	Reset kept smiling the whole time.
+233157	-		何がそこまで楽しいのか……	Whatever brought her such immense joy...
+233158	+		リセットはずっとニコニコ笑っていた。	Reset wore a radiant smile the entire time.
 
 233159	-		　	　
-233160	+		　　＜バサッッッッ！＞	　　<Flap!!!>
+233160	+		　　＜バサッッッッ！＞	　　<Flap, flutter!>
 
-233161	-		大量に干された洗濯物が日の光を浴びて、	The large amount of laundry hung out absorbed the sunlight,
-233162	+		気持ち良さそうに風にたなびく。	and fluttered pleasantly in the wind.
+233161	-		大量に干された洗濯物が日の光を浴びて、	Basking in the bright sunlight, the sea of hung laundry
+233162	+		気持ち良さそうに風にたなびく。	fluttered pleasantly in the gentle breeze.
 
-233163	-		皆でそれを眺めながら休憩していると、	While everyone was resting and watching it,
-233164	+		ジンと疲れの溜まった体が温まって、	their tired bodies warmed up,
-233165	+		ウトウトと眠ってしまいそうだった。	and they felt drowsy.
+233163	-		皆でそれを眺めながら休憩していると、	Resting together while watching the white sheets billow,
+233164	+		ジンと疲れの溜まった体が温まって、	a soothing warmth seeped through everyone's exhausted bodies,
+233165	+		ウトウトと眠ってしまいそうだった。	making them comfortably drowsy.
 
-233166	Nagata-kun	基本	「やれやれ……	「Good grief...
-233167	+		　腰と手がもうガッタガタ」	　My back and hands are already wrecked.」
+233166	Nagata-kun	基本	「やれやれ……	「Man, oh man...
+233167	+		　腰と手がもうガッタガタ」	　My back and hands are totally shot.」
 
-233168	Nagata-kun		「でも、結構楽しかったしさ、	「But it was pretty fun,
-233169	+		　たまにはこーゆーのもいいよな」	　doing this once in a while is nice.」
+233168	Nagata-kun		「でも、結構楽しかったしさ、	「Still, that was pretty damn fun.
+233169	+		　たまにはこーゆーのもいいよな」	　Doing stuff like this once in a while isn't half bad.」
 
-233170	Nagata-kun		「へへっ」	「Hehe.」
+233170	Nagata-kun		「へへっ」	「Heheh.」
 
 233171	El Mofus		「…………。」	「............」
 
-233172	-		長田君の言葉にあなたは頷く。	You nod at Nagata-kun's words.
+233172	-		長田君の言葉にあなたは頷く。	You nodded in agreement at Nagata-kun's words.
 
-233173	-		皆でワイワイとはしゃぎながら同じ作業をする。	Doing the same task together while everyone
-233174	+		それだけのことが、とても楽しかったような……	makes noise and has fun. Just that alone
-233175	+		そんな気があなたはした。	felt really enjoyable... That's how you felt.
+233173	-		皆でワイワイとはしゃぎながら同じ作業をする。	Doing ordinary chores together while laughing and making noise.
+233174	+		それだけのことが、とても楽しかったような……	You felt that something so simple
+233175	+		そんな気があなたはした。	had been wonderfully fulfilling.
 
-233176	-		あなた達は久し振りに	For the first time in a while,
-233177	+		平和で穏やかな時間を楽しんだ。	you enjoyed a peaceful and calm time.
+233176	-		あなた達は久し振りに	For the first time in a long while,
+233177	+		平和で穏やかな時間を楽しんだ。	the party enjoyed a moment of warm, peaceful tranquility.
 
-233178	-		○○月××日――	○○ Month ×× Day――
+233178	-		○○月××日――	Month ○○, Day ××—
 
-233179	-		△△月□□日――	△△ Month □□ Day――
+233179	-		△△月□□日――	Month △△, Day □□—
 
-233180	-		××月△△日――	×× Month △△ Day――
+233180	-		××月△△日――	Month ××, Day △△—
 
 233181	-		…………	............
 
-233182	-		……	......
+233182	-		……	...
 
-233183	-		ヘルマンを飛び出して二週間――	Two weeks after leaving Helman――
+233183	-		ヘルマンを飛び出して二週間――	Two weeks after leaving Helman—
 
-233184	-		あなたはいくつもの冒険を経て、	After many adventures,
+233184	-		あなたはいくつもの冒険を経て、	Having braved countless adventures,
 233185	+		また自由都市に戻ってきた。	you returned once again to the Free Cities.
