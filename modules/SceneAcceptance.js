@@ -116,6 +116,62 @@ const differsMaterially = (a, b) => {
 };
 
 /**
+ * The gender branches one English sentence is being made to cover.
+ *
+ * The game plays a line inside "> male" to a player who made El a man and the
+ * line inside "> female" to one who made her a woman, and no player ever sees
+ * both. So two such lines with the same English throw the branch away: 深根
+ * calls El 兄様 on one route and 姉様 on the other, and "big sibling" would be a
+ * translation of neither.
+ *
+ * This is the failure the scene format itself creates. Translated a line at a
+ * time, as the existing draft was, the two halves are a fortnight apart and get
+ * different English by accident. Handed a whole scene, a translator sees two
+ * nearly identical Japanese lines together, and the shorter way out is one
+ * sentence used twice -- which is what six lines of the current draft did while
+ * it still had the excuse of never having seen them.
+ *
+ * Every male line against every female one, rather than pairing them off. The
+ * blocks are not the same length -- 深根２／友情イベントＣ has 24 lines on one
+ * route and 29 on the other -- and any alignment guess would miss the pair that
+ * matters. What keeps that from crying wolf is differsMaterially, not the
+ * pairing.
+ *
+ * Here rather than inside acceptTranslation because the same question is worth
+ * asking of a scene file that is already written -- modules/SceneIntegrity.js
+ * asks it -- and a second implementation of a rule this fiddly is a second set
+ * of pairs it decides differently.
+ *
+ * @param {ReturnType<import("./SceneFile.js").speechesOf>} speeches
+ * @param {Map<number, string>} english keyed by each speech's first row
+ * @return {{male: object, female: object, said: string}[]}
+ */
+export const flattenedRoutes = (speeches, english) => {
+    const onRoute = (route) => speeches.filter(speech => speech.route === route);
+    const flattened = [];
+    for (const male of onRoute("male")) {
+        for (const female of onRoute("female")) {
+            const said = english.get(male.lineNumber);
+            if (!said || said !== english.get(female.lineNumber)) {
+                continue;
+            }
+            if (!differsMaterially(male.japanese, female.japanese)) {
+                continue;
+            }
+            flattened.push({male, female, said});
+        }
+    }
+    return flattened;
+};
+
+/** One of those as a line to read, so both callers say the same thing about it. */
+export const describeFlattenedRoute = ({male, female, said}) =>
+    `speeches ${male.lineNumber} and ${female.lineNumber} are both ${JSON.stringify(said)}, but the`
+    + ` game plays the first only to a male El and the second only to a female one --`
+    + ` ${JSON.stringify(male.japanese)} against ${JSON.stringify(female.japanese)}. Nobody sees both,`
+    + " so one English for the two is one of the two players reading the wrong line.";
+
+/**
  * Hold what came back against the scene it was asked about.
  *
  * @param {import("./SceneFile.js").parseSceneFile} scene the source scene
@@ -239,44 +295,10 @@ export const acceptTranslation = (scene, returned) => {
         }
     }
 
-    /*
-     * A gender branch flattened into one sentence.
-     *
-     * The game plays a line inside "> male" to a player who made El a man and
-     * the line inside "> female" to one who made her a woman, and no player
-     * ever sees both. So two such lines with the same English throw the branch
-     * away: 深根 calls El 兄様 on one route and 姉様 on the other, and "big
-     * sibling" would be a translation of neither.
-     *
-     * This is the failure the scene format itself creates. Translated a line at
-     * a time, as the existing draft was, the two halves are a fortnight apart
-     * and get different English by accident. Handed a whole scene, a translator
-     * sees two nearly identical Japanese lines together, and the shorter way
-     * out is one sentence used twice -- which is what six lines of the current
-     * draft did while it still had the excuse of never having seen them.
-     *
-     * Every male line against every female one, rather than pairing them off.
-     * The blocks are not the same length -- 深根２／友情イベントＣ has 24 lines on
-     * one route and 29 on the other -- and any alignment guess would miss the
-     * pair that matters. What keeps that from crying wolf is
-     * differsMaterially, not the pairing.
-     */
-    const onRoute = (route) => speeches.filter(speech => speech.route === route);
-    for (const male of onRoute("male")) {
-        for (const female of onRoute("female")) {
-            const said = english.get(male.lineNumber);
-            if (!said || said !== english.get(female.lineNumber)) {
-                continue;
-            }
-            if (!differsMaterially(male.japanese, female.japanese)) {
-                continue;
-            }
-            problems.push(`speeches ${male.lineNumber} and ${female.lineNumber} are both`
-                + ` ${JSON.stringify(said)}, but the game plays the first only to a male El and the`
-                + ` second only to a female one -- ${JSON.stringify(male.japanese)} against`
-                + ` ${JSON.stringify(female.japanese)}. Nobody sees both, so one English for the two`
-                + " is one of the two players reading the wrong line.");
-        }
+    // A gender branch flattened into one sentence, which is a refusal:
+    // flattenedRoutes above says why, and what keeps it from crying wolf.
+    for (const flattened of flattenedRoutes(speeches, english)) {
+        problems.push(describeFlattenedRoute(flattened));
     }
 
     /*

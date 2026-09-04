@@ -291,6 +291,31 @@ that was worth having on a raw corpus is pure risk on a baked one: `魔人` list
 `"Demon"`, which is how `前魔王ガイ` shipped as "the former Fiend King Guy" in 71
 lines. `docs/baked-name-repairs.md` has the rest.
 
+## Only the English column of a scene file is ours
+
+The other four — the `m[]` number, the speaker, what the portrait is doing, the
+Japanese — are the game's, and they are in the file as a checksum. The driver in
+`docs/scene-driver.md` cannot move them: a translator answers rows of
+`N<tab>english` and `writeTranslatedScene` writes the file from the *source*
+scene, taking only the English out of that answer. **Anything else that edits a
+`.tsv` has no such guard**, and an agent handed the file and asked to improve the
+English is exactly that.
+
+So after any edit to a scene file that did not come through the driver:
+
+```
+node scripts/check_scenes.js
+```
+
+It holds the Japanese and the numbers against the committed dump, and the
+speaker, the portrait and the speech boundaries against `build/scenes/<lang>/`,
+which `npm run extract-scenes` writes. What it caught the day it was written was
+a commit that had joined two narration speeches into one and split a third,
+without touching a word of English — **the blank line is the speech boundary**,
+so moving it moves the English across a click, and a diff of a file where every
+line legitimately changed is not read line by line.
+`docs/scene-integrity.md` is the six classes and what each is worth.
+
 ## A string slot is shared by everything that pushes it
 
 `s[4018]` is the race `モンスター`, and it is also what
