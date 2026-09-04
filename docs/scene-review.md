@@ -125,6 +125,47 @@ translation in place:
   words that went in, and no other row may have moved. A file that fails that is
   put back as it was.
 
+## Handing them out in batches
+
+```
+node scripts/request_scene_reviews.js --count=60 --batch-kb=120
+```
+
+groups the scenes it hands out into batches of at most 120 KB of prompt and at
+most twelve scenes, and prints them grouped. Without `--batch-kb` the listing is
+one line per scene, as it was.
+
+**The batch is sized before it is handed over, not while it is being read.** The
+obvious arrangement is to let a reviewer take scenes until its context is some
+fraction full, and it cannot: a subagent has no way to read its own token count,
+so that rule is an estimate made by the one party that cannot measure it --
+which is the mistake `CLAUDE.md` records about guessing at context by feel, one
+level down. A prompt is a file, its size is known before anybody sees it, and
+the fixed part is the same 9 KB of rules every time, so a batch's cost is
+arithmetic.
+
+What a kilobyte of prompt is worth in tokens is measured rather than assumed:
+an agent reports its own usage when it finishes, and the first batches are what
+sets the budget. The one datum to start from is a single scene of 171 rows, a
+30 KB prompt, which cost 96k tokens -- of which some 70k was the agent's own
+overhead, paid once per agent whatever it is given. That overhead is the whole
+argument for batching: a scene of two rows costs the same 70k as a scene of two
+hundred.
+
+**The scene cap is not about context.** It is about attention, and it comes from
+`docs/coherence-sweep.md`: twelve sessions of reading scenes by hand, and what
+that run caught itself doing was going quietly blunt sixty files in, with
+nothing but a spot re-check to say so. A batch of forty short scenes costs
+almost nothing in tokens and is forty chances to stop looking.
+
+**Running batches in parallel costs nothing in context and buys nothing in
+safety.** Each reviewer has its own window, so four at once make none of them
+larger. What serialising does buy is the chance to read
+`build/scene-review.tsv` between batches: a reviewer that has started correcting
+style, or has found a class nobody wanted, shows up after the first batch
+instead of the eighth. Worth it for the first few, and after that the report is
+still read every time.
+
 ## Coverage is a ledger, and that is not a mistake
 
 For a retranslation, coverage is a directory listing: a scene is translated
