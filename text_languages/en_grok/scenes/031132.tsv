@@ -89,7 +89,7 @@
 54083	+		　志津香やナギはどうした？　元気か？」	　How are Shizuka and Nagi? Doing well?」
 
 54084	Eleanor Ran	警戒	「ええ。……でも、ランスさんには	「Yes... But I have no intention
-54085	+		　会わせる気は、ないです」	　of letting you meet them.」
+54085	+		　会わせる気は、ないです」	　of letting Rance-san meet them.」
 
 54086	Rance	基本	「むっ……」	「Mgh...」
 
@@ -122,9 +122,9 @@
 54102	Maria Custard	あかんわ	「う、うーん、それが、なんて言えばいいかな……	「U-umm, how should I put this...
 54103	+		　ラン、ちょっと無気力になった時期があって……」	　Ran went through a phase where she lost motivation...」
 
-54104	Rance	基本	「生きる目標がなさそうだったから、くれてやった。	「She seemed to have no goal in life, so I gave her one.
-54105	+		　鬼畜外道の俺様の手からマリア達を守るという、	　By threatening to kill Maria and the others
-54106	+		　嘘っぱちの理由をな」	　if she didn't obey. A total lie, of course.」
+54104	Rance	基本	「生きる目標がなさそうだったから、くれてやった。	「She seemed to have no goal in life, so I gave
+54105	+		　鬼畜外道の俺様の手からマリア達を守るという、	　her one. Protecting Maria and the others from
+54106	+		　嘘っぱちの理由をな」	　brutal, depraved me. A total lie, of course.」
 
 54107	Sill Plain	きょとん	「ま、守る……？」	「P-Protect...?」
 
@@ -151,7 +151,7 @@
 
 54122	Rance		「……む？　なんだ、おっさん」	「...Hm? Who the hell are you, old man?」
 
-54123	Copandon Dott		「あっと、ペスポはん。	「Ah, Pespo.
+54123	Copandon Dott		「あっと、ペスポはん。	「Ah, Pespo-han.
 54124	+		　こっちに居らはったんですね」	　You were here.」
 
 54125	Pespo Tontone		「おーぅ、コパ嬢ちゃん。	「Hey there, Copandon girl.
@@ -168,8 +168,8 @@
 54132	Pespo Tontone		「ペスポ・トントーネってんだ。	「Pespo Tontone.
 54133	+		　ハンナで都市長やってる」	　Mayor of Hanna.」
 
-54134	Rance	真剣	「ほう。俺様はランス様だ。	「Oh. I'm Rance-sama.
-54135	+		　人類を統べる大総統様だぞ」	　The Great Supreme Leader who rules over all humanity.」
+54134	Rance	真剣	「ほう。俺様はランス様だ。	「Oh. I'm Rance-sama. The Great Supreme
+54135	+		　人類を統べる大総統様だぞ」	　Leader-sama who rules all humanity.」
 
 54136	Pespo Tontone	笑顔	「はぁっはっはっは！　そりゃー立派だな。	「Hahaha! That's impressive.
 54137	+		　俺ぁ今の仕事でも、めんどくさくって	　Even my current job is such a pain
@@ -193,7 +193,7 @@
 54149	Biyonhou Osman		「ようこそおいでくださいました、ムーララルー。	「Welcome, Mulalaloux.
 54150	+		　ご無沙汰しております」	　It has been a while.」
 
-54151	Crook Mofus		「はい。どうも、オスマンさん」	「Yes. Hello, Mr. Osman.」
+54151	Crook Mofus		「はい。どうも、オスマンさん」	「Yes. Hello, Osman-san.」
 
 54152	-		折り目正しく、ビヨンホウは	With perfect etiquette, Biyonhou
 54153	+		クルックーの前に跪いた。	knelt before Crook.
@@ -221,7 +221,7 @@
 
 54167	Rance	だる顔	「うげ……おばはんか……パス」	「Ugh... an old lady... Pass.」
 
-54168	Copandon Dott	基本	「アイスのパトリシアはんやね。	「That's Patricia from Ice.
+54168	Copandon Dott	基本	「アイスのパトリシアはんやね。	「That's Patricia-han from Ice.
 54169	+		　アイスって、ランスの故郷なんやろ？」	　Ice is your hometown, right Rance?」
 
 54170	Rance	真剣	「故郷じゃないが、しばらく本拠地にはしていたな」	「Not exactly my hometown, but I did use it as a base for a while.」
@@ -239,7 +239,7 @@
 54177	+		　ありそうな顔ね！	　city's wanted posters! But that's
 54178	+		　でもいいわ。人間、顔じゃないもの！」	　fine. It's not the face that matters!」
 
-54179	Patricia Bacon	怒り	「ねえ総統さん、早く私の都市を奪回する兵を	「Hey Supreme Leader, send troops
+54179	Patricia Bacon	怒り	「ねえ総統さん、早く私の都市を奪回する兵を	「Hey Supreme Leader-san, send troops
 54180	+		　起こしてちょうだいな！	　to retake my city already! The other
 54181	+		　他の都市長、まったく頼りにならないの！」	　mayors are completely useless!」
 
@@ -259,10 +259,10 @@
 
 54192	Rance	驚き	「ぐっ……お、お、おおぅ……」	「Guh... O-oooh...」
 
-54193	Copandon Dott	笑い	「ま、ま、まぁまぁまぁパトリシアはん！	「N-now now, Patricia!
+54193	Copandon Dott	笑い	「ま、ま、まぁまぁまぁパトリシアはん！	「N-now now, Patricia-han!
 54194	+		　総統もこっち着いたばっかやし、落ち着いて……」	　The Supreme Leader just arrived, so calm down...」
 
-54195	Patricia Bacon	基本	「まあコパンドンさん！！　私は冷静だわ！	「My, Copandon!! I'm perfectly calm!
+54195	Patricia Bacon	基本	「まあコパンドンさん！！　私は冷静だわ！	「My, Copandon-san!! I'm perfectly calm!
 54196	+		　ゆっくりしていたらそれだけ、	　The longer we wait,
 54197	+		　市民に被害が広がるでしょう！？」	　the more citizens will suffer!」
 
@@ -328,7 +328,7 @@
 54234	Rance	エロ顔	「ほうほほう。お近づきにね。	「Hmm, get close, huh.
 54235	+		　いいぞいいぞ。さっそく……」	　Good, good. Right away...」
 
-54236	Copandon Dott	笑い	「あー、ごめんなぁカチューシャはん。	「Ah, sorry Katyusha. The Supreme Leader
+54236	Copandon Dott	笑い	「あー、ごめんなぁカチューシャはん。	「Ah, sorry Katyusha-han. The Supreme Leader
 54237	+		　総統、旅してきたばっかで疲れてんねん。	　just arrived after a long trip and is tired.
 54238	+		　込み入った話は、また今度にしてもろてええかな」	　Can we save the complicated talk for later?」
 
@@ -345,7 +345,7 @@
 54245	+		　……が、今夜疲れる予定はあったかもな、ぐふふ」	　...Though I do have plans to get tired tonight, hehehe.」
 
 54246	Copandon Dott	ジト目	「うー……ああもう、それでええわ。	「Ugh... Fine, whatever.
-54247	+		　そういうわけでカチューシャはん、またな」	　So that's that, Katyusha. See you later.」
+54247	+		　そういうわけでカチューシャはん、またな」	　So that's that, Katyusha-han. See you later.」
 
 54248	Katyusha Bosch	基本	「ふぅん…………そうね、また」	「Hmm...... I see. Until next time.」
 
