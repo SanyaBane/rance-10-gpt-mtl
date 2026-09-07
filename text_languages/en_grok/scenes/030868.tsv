@@ -120,8 +120,8 @@
 36000	Menad Shisei		「ランス……何か聞いてる？	「Rance... Are you listening?
 36001	+		　かなみちゃん」	　Kanami-chan.」
 
-36002	Kentou Kanami		「ううん、知らない……	「No, I don't know...
-36003	+		　何か、色々調べさせてたのは知ってるけど……」	　I know he had her investigating a lot of things, but...」
+36002	Kentou Kanami		「ううん、知らない……	「No, I don't know... I know he had
+36003	+		　何か、色々調べさせてたのは知ってるけど……」	　somebody looking into things, but...」
 
 36004	Menad Shisei		「そっか。	「I see.
 36005	+		　でも……大丈夫だよ、ランスなら」	　But... it'll be fine if it's Rance.」
@@ -135,15 +135,15 @@
 36010	+		　それ以上でしたら、中庭にお願いいたします」	　If they are bigger, please use the courtyard.」
 
 36011	Peruele Kalette		「まったく、変なのが増えたったら……	「Geez, we've got even more weirdos now...
-36012	+		　あれ、将軍さん？　どこ行ってたの」	　Huh, General? Where were you?」
+36012	+		　あれ、将軍さん？　どこ行ってたの」	　Huh, General-san? Where were you?」
 
-36013	Hubert Lipton		「昔、世話んなったドラゴンがいたんでな。	「There was a dragon I took care of a long time ago.
-36014	+		　表でちょっと挨拶だ」	　I just went out to say hello.」
+36013	Hubert Lipton		「昔、世話んなったドラゴンがいたんでな。	「There was a dragon who took care of me a
+36014	+		　表でちょっと挨拶だ」	　long time ago. I just went out to say hello.」
 
-36015	Rolex Gadras		「意外と顔広いな、うちの司令官殿は」	「Our commander has quite the wide network.」
+36015	Rolex Gadras		「意外と顔広いな、うちの司令官殿は」	「Our commander-dono has quite the wide network.」
 
 36016	Oruore the 3rd	笑顔	「そうっすねぇ。物理的な広さだと、	「Yeah. In terms of physical size though,
-36017	+		　パットンさんにゃ負けますけど」	　Patton wins.」
+36017	+		　パットンさんにゃ負けますけど」	　Patton-san wins.」
 
 36018	Amitos Armitage	基本	「この面々…………決戦、か……」	「With this lineup............ it's the final battle, huh...」
 
@@ -188,7 +188,7 @@
 
 36043	Nagi su Ragarl		「あ！　なんか知ってんのコパンドンお姉ちゃん！」	「Ah! Big sis Copandon knows something!」
 
-36044	Masou Shizuka		「あいつに何か言われてたとか……そういう事？」	「Did someone say something to her... Is that it?」
+36044	Masou Shizuka		「あいつに何か言われてたとか……そういう事？」	「Did that guy tell you something...? Is that it?」
 
 36045	Copandon Dott	笑い	「ネタバレは無しや。すぐに分かる」	「No spoilers. You'll find out soon.」
 
@@ -289,7 +289,7 @@
 
 36106	Mary Ann	笑い	「なんか知らないけど、でっかい作戦なんだろ。	「I don't know the details, but it's a huge operation, right?
 36107	+		　レイが変な所に放り込まれるなら、	　If they're gonna throw Lei into some weird place,
-36108	+		　あたしが文句言ってやるからな！」	　I'll complain on her behalf!」
+36108	+		　あたしが文句言ってやるからな！」	　I'll complain on his behalf!」
 
 36109	Lei	基本	「……そりゃどーも」	「...Thanks for that.」
 
@@ -458,9 +458,9 @@
 36210	+		　何体もの魔人を撃破。そして、	　here, we have defeated many Fiends. And, we have also
 36211	+		　魔軍の中継基地であるシャングリラも陥落」	　captured Shangri-La, the Monster Army's relay base.」
 
-36212	Urza Pranaice		「本拠地である総統府……ランス城の位置が	「Although the location of our headquarters, Rance Castle,
-36213	+		　把握されてしまいましたが、パットンさんたちが	　was discovered, the Holy Magic Sect legacy that Patton
-36214	+		　もたらした聖魔教団の遺産により、こうして浮上」	　and the others brought lets us float up here like this.」
+36212	Urza Pranaice		「本拠地である総統府……ランス城の位置が	「Rance Castle, our headquarters, was
+36213	+		　把握されてしまいましたが、パットンさんたちが	　found, but the Holy Magic Sect's legacy
+36214	+		　もたらした聖魔教団の遺産により、こうして浮上」	　Patton-san brought lets us float up here.」
 
 36215	Urza Pranaice	感謝	「敵主力の攻撃は避ける事が可能となり、	「We can now avoid the enemy main force's attacks, and
 36216	+		　敵飛行部隊だけの攻撃は防げています」	　hold off attacks from their air units alone.」

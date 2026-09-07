@@ -7,7 +7,7 @@
 * Satella	サテラ	Female
 * Caesar	シーザー	Male
 
-37109	Maria Custard	怒り	「船長さん！　こっち、いつでもいけるよ！	「Captain! We're ready over here!
+37109	Maria Custard	怒り	「船長さん！　こっち、いつでもいけるよ！	「Captain-san! We're ready over here!
 37110	+		　使うでしょ！？」	　We're using it, right!?」
 
 37111	-		船倉から、マリアが飛び出してきた。	Maria burst out from the hold.
@@ -31,7 +31,7 @@
 37122	+		　いけますぜ！」	　We can do this!」
 
 37123	Kentou Kanami		「ランス！　サンセット号から、	「Rance! From the Sunset,
-37124	+		　キャンテルさんたちが飛んで来てる！」	　Cantel and the others are flying over!」
+37124	+		　キャンテルさんたちが飛んで来てる！」	　Cantel-san and the others are flying over!」
 
 37125	Satella	怒り	「シーザー、そこの錨を持ち上げろ！	「Caesar, lift that anchor!
 37126	+		　奴らに投げ渡して、船を引かせろ！」	　Throw it to them and have them pull us!」
@@ -52,16 +52,16 @@
 
 37135	Rance	基本	「なんだ、そんなのがあったのか」	「Oh, so we had something like that.」
 
-37136	Maria Custard		「コパンドンさんに相談されて、一応ね。	「I talked with Copandon about it, just in case.
+37136	Maria Custard		「コパンドンさんに相談されて、一応ね。	「I talked with Copandon-san about it, just in case.
 37137	+		　スクリュー……まあいっか、とにかく	　Screw propeller... anyway,
 37138	+		　潮の流れとは関係なく進む補助動力よ」	　it's auxiliary power that works regardless of the current.」
 
 37139	Rance	だる顔	「なんだあの船長の野郎。	「What the hell, that captain.
 37140	+		　そんなのがあるのにグダグダ言いやがって」	　Complaining even though we had this.」
 
-37141	Maria Custard	基本	「あくまで補助だから。	「It's only auxiliary.
-37142	+		　それに、船長さんには扱えない装置だもの。	　Plus the captain can't operate it.
-37143	+		　仕方ないわよ」	　So it can't be helped.」
+37141	Maria Custard	基本	「あくまで補助だから。	「It's only auxiliary. Plus
+37142	+		　それに、船長さんには扱えない装置だもの。	　Captain-san can't operate
+37143	+		　仕方ないわよ」	　it. So it can't be helped.」
 
 37144	Rance		「ふん、そうか。	「Hmph, I see.
 37145	+		　……しかし、あの端っこから落ちると	　...But what happens if you fall from that edge?
@@ -71,8 +71,8 @@
 
 37148	Rance		「下に落ちるとどうなるんだ」	「What happens when you fall down?」
 
-37149	Maria Custard	あかんわ	「……試した人はいないわよ。	「...No one's ever come back to tell us.
-37150	+		　あ、試して帰ってきた人がいない、が正確かな」	　More precisely, no one who tried has returned.」
+37149	Maria Custard	あかんわ	「……試した人はいないわよ。	「...No one has ever tried it. Ah, more
+37150	+		　あ、試して帰ってきた人がいない、が正確かな」	　precisely, no one who tried has returned.」
 
 37151	Captain	基本	「こ、今度はそれを試す、なんて言わんだろうな……	「You're not gonna suggest trying that next, are you...
 37152	+		　もう殺されても付き合わんぞ」	　I won't go along even if you kill me.」
