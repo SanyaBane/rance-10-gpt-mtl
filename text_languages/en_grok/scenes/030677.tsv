@@ -14,8 +14,8 @@
 
 25383	-		リーザス城――	Leazas Castle――
 
-25384	Maris Amaryllis	基本	「リア様。先ほど、バレス将軍が帰還いたしました。	「Queen Lia. General Barres has just returned.
-25385	+		　パラパラ砦周辺の魔軍の掃討が完了したそうです」	　The extermination of the Monster Army around Parapara Fort is complete.」
+25384	Maris Amaryllis	基本	「リア様。先ほど、バレス将軍が帰還いたしました。	「Lia-sama. General Barres has just returned. The extermination
+25385	+		　パラパラ砦周辺の魔軍の掃討が完了したそうです」	　of the Monster Army around Parapara Fort is complete.」
 
 25386	Lia Parapara Leazas	目閉じ	「そ。労っておいて」	「I see. Make sure to thank him.」
 
@@ -34,8 +34,8 @@
 25394	Leazas White Soldier		「何回したっていいんだよ！	「As many times as we want!
 25395	+		　リーザスの、人類の勝ちだーーーーー！！」	　This is a victory for Leazas, for humanity!!!」
 
-25396	-		街には既にリーザス軍の戦勝が伝えられ、	News of the Leazas army's victory had already spread through the city,
-25397	+		一角を開放しての宴会が繰り広げられていた。	and celebrations were in full swing in every district.
+25396	-		街には既にリーザス軍の戦勝が伝えられ、	News of the Leazas army's victory had already spread, and
+25397	+		一角を開放しての宴会が繰り広げられていた。	one quarter of the city was thrown open for celebrations.
 
 25398	Menad Shisei		「みんな、お疲れ様。	「Everyone, good work. Enjoy yourselves,
 25399	+		　明日に響かないように、たっぷり楽しんでね」	　but don't overdo it so it affects tomorrow.」
@@ -74,9 +74,9 @@
 25420	-		スーが声を低めたのに合わせ、	Matching Sioux's lowered voice,
 25421	+		バレスも軽く周囲を見渡した。	Barres also glanced around lightly.
 
-25422	Sioux Province	思考	「リア様の所在地の情報を流して、	「Leaking information about Queen Lia's location
-25423	+		　魔軍の動きを釣る……それも、	　to lure the Monster Army...... and doing so
-25424	+		　リア様には無断で、内密に…………」	　without her permission, in secret......」
+25422	Sioux Province	思考	「リア様の所在地の情報を流して、	「Leaking information about Lia-sama's
+25423	+		　魔軍の動きを釣る……それも、	　location to lure the Monster Army...... and
+25424	+		　リア様には無断で、内密に…………」	　doing so without her permission, in secret......」
 
 25425	Sioux Province	基本	「あの手紙によれば、赤の軍の攻勢にも加減をさせ、	「According to that letter, he also held back the Red army's attack
 25426	+		　被害を抑えて……向こうに選択の余地を与えたと」	　to limit casualties...... and gave them room to choose.」
@@ -84,15 +84,15 @@
 25427	Barres Province	テンション下げ	「………………」	「............」
 
 25428	Sioux Province	思考	「上手くはいきましたけど、いちかばちかでした。	「It worked out, but it was a huge gamble. If Joseph
-25429	+		　もし、ヨシフが本気でリア様を狙って	　had seriously targeted Queen Lia and charged with
+25429	+		　もし、ヨシフが本気でリア様を狙って	　had seriously targeted Lia-sama and charged with
 25430	+		　突撃してきたら、どうなっていたか分かりません」	　full force, I don't know what would have happened.」
 
 25431	Barres Province	テンション下げ	「……あ奴は直属の部隊で情報を徹底して収集し、	「That man thoroughly gathered information with his own
 25432	+		　ヨシフの性格を把握した上で、あの手を打った。	　units, understood Joseph's personality, and then made
 25433	+		　それでも賭けである事は承知していたじゃろう」	　that move. Even so, he knew it was still a gamble.」
 
-25434	Sioux Province	思考	「……良くないと、思いました。	「......I thought it was wrong.
-25435	+		　リア様に万一の事があれば……」	　If something had happened to Queen Lia......」
+25434	Sioux Province	思考	「……良くないと、思いました。	「......I thought it was wrong. If something
+25435	+		　リア様に万一の事があれば……」	　had happened to Lia-sama......」
 
 25436	Barres Province	テンション下げ	「……その時は、己の命をもって、	「......In that case, he would have given his own life
 25437	+		　リア様の盾となって先に死んだであろうな」	　to become her shield and die first.」
@@ -104,9 +104,9 @@
 
 25441	Sioux Province		「……………………」	「........................」
 
-25442	Barres Province		「それよりスーよ。今の話、他言は無用じゃぞ。	「Anyway, Sioux. Keep what we just discussed to yourself.
-25443	+		　儂とお主と、エクスと……	　It is known only to me, you, Ex......
-25444	+		　リア様でさえ、ご存じない話なのじゃからな」	　and not even Queen Lia.」
+25442	Barres Province		「それよりスーよ。今の話、他言は無用じゃぞ。	「Anyway, Sioux. Keep what we just
+25443	+		　儂とお主と、エクスと……	　discussed to yourself. It is known only to
+25444	+		　リア様でさえ、ご存じない話なのじゃからな」	　me, you, Ex...... and not even Lia-sama.」
 
 25445	Sioux Province		「はい、それはもちろん」	「Yes, of course.」
 
@@ -118,7 +118,7 @@
 
 25449	Lia Parapara Leazas		「エクス？」	「Ex?」
 
-25450	Ex Banquet		「これはリア様。	「Queen Lia. Since we are on the battlefield,
+25450	Ex Banquet		「これはリア様。	「Lia-sama. Since we are on the battlefield,
 25451	+		　戦場ですので、立ったままで失礼します」	　please excuse me for remaining standing.」
 
 25452	Lia Parapara Leazas	真剣	「それももう終わりみたいだけど。	「It looks like that's over now too.
@@ -177,7 +177,7 @@
 25484	Lia Parapara Leazas	基本	「ま、今は……勝利を祝いましょ。	「Well, for now...... let's celebrate our victory.
 25485	+		　リアたちもね」	　Us too.」
 
-25486	Maris Amaryllis		「はい、リア様」	「Yes, Queen Lia.」
+25486	Maris Amaryllis		「はい、リア様」	「Yes, Lia-sama.」
 
 25487	-		リアとマリスは赤ワインが注がれたグラスを合わせ、	Lia and Maris clinked their glasses filled with red wine,
 25488	+		小さく音を鳴らした。	making a soft clink.

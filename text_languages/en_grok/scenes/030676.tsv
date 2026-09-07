@@ -59,7 +59,7 @@
 25079	+		　戦術の教科書に載せたいくらいでしたぞ」	　It was so perfect I'd want to put it in a tactics textbook.」
 
 25080	Barres Province		「お主もよくやってくれた。	「You did well too. Thanks to you holding
-25081	+		　カーソンを固めてくれたおかげで楽ができたわ」	　the line, things went much smoother.」
+25081	+		　カーソンを固めてくれたおかげで楽ができたわ」	　Carson, things went much smoother.」
 
 25082	Cordoba Burn		「持ち場を固めるくらいしか能がありませんからな。	「All I can do is hold my position firmly.
 25083	+		　そう言って頂けると光栄です」	　I'm honored to hear you say that.」
@@ -67,12 +67,12 @@
 25084	Lia Parapara Leazas	拗ね	「でも、青の軍の護衛はちょっと暑苦しいのよね。	「But the Blue army's escort feels a bit overbearing.
 25085	+		　親衛隊がいないから、仕方ないけど」	　Can't be helped since my personal guards aren't here.」
 
-25086	Cordoba Burn	笑顔	「わぁっはっは！　すみませんな、リア様！	「Wahaha! My apologies, Queen Lia!
-25087	+		　ですが部下どもは喜んでおりましたぞ」	　But my men were thrilled to be of service!」
+25086	Cordoba Burn	笑顔	「わぁっはっは！　すみませんな、リア様！	「Wahaha! My apologies, Lia-sama! But
+25087	+		　ですが部下どもは喜んでおりましたぞ」	　my men were thrilled to be of service!」
 
-25088	Maris Amaryllis	真剣	「しかし、リア様。今日は前に出すぎです。	「However, Queen Lia. You were too far
-25089	+		　影武者を置いて、居場所を特定されないように	　forward today. We placed body doubles so your
-25090	+		　してはいましたが……」	　location wouldn't be pinpointed, but still......」
+25088	Maris Amaryllis	真剣	「しかし、リア様。今日は前に出すぎです。	「However, Lia-sama. You were too far forward
+25089	+		　影武者を置いて、居場所を特定されないように	　today. We placed body doubles so your location
+25090	+		　してはいましたが……」	　wouldn'\\''t be pinpointed, but still......」
 
 25091	Lia Parapara Leazas	目閉じ	「士気が重要な局面でしょ。	「It was a critical moment for morale.
 25092	+		　そのくらいのリスクは構わないわ」	　That much risk was acceptable.」
@@ -235,8 +235,8 @@
 
 25194	Leazas Black Soldier		「魔軍、来ます！　す、すごい数で……！」	「The Monster Army is coming! T-there's so many......!」
 
-25195	Maris Amaryllis	叫び	「お下がりください、リア様！	「Please fall back, Queen Lia!
-25196	+		　はるまきをお忘れなきよう」	　Don't forget your stomach band!」
+25195	Maris Amaryllis	叫び	「お下がりください、リア様！	「Please fall back, Lia-sama!
+25196	+		　はるまきをお忘れなきよう」	　Don'\\''t forget your stomach band!」
 
 25197	Lia Parapara Leazas	真剣	「ん、分かったわ」	「Got it.」
 
@@ -268,9 +268,9 @@
 25213	-		両者は正面から激突し、	Both sides clashed head-on,
 25214	+		あっという間に死者が量産されていく。	and casualties mounted in the blink of an eye.
 
-25215	Maris Amaryllis~	真剣	（いくら魔物とはいえ、なりふりを構わなすぎる……	(Even for monsters, they're being far too reckless......
-25216	+		　リア様を狙って……？	　Are they targeting Queen Lia......?
-25217	+		　いや、複数の影武者を置いているのに……）	　No, we placed multiple body doubles......)
+25215	Maris Amaryllis~	真剣	（いくら魔物とはいえ、なりふりを構わなすぎる……	（Even for monsters, they'\\''re being far too
+25216	+		　リア様を狙って……？	　reckless...... Are they targeting Lia-sama......?
+25217	+		　いや、複数の影武者を置いているのに……）	　No, we placed multiple body doubles......）
 
 25218	-		戦場は、泥沼と化した。	The battlefield turned into a quagmire.
 
@@ -455,8 +455,8 @@
 25334	-		幾度とない攻勢を、リーザス軍は凌ぎ続けていた。	The Leazas army continued to endure countless assaults.
 25335	+		兵たちも交代で休ませてはいるが、疲労の色が濃い。	The soldiers rotated rest, but exhaustion was clear on their faces.
 
-25336	Maris Amaryllis	叫び	「ここで引いてはなりません！	「We cannot retreat here!
-25337	+		　リア様をお守りし……！」	　We must protect Queen Lia......!」
+25336	Maris Amaryllis	叫び	「ここで引いてはなりません！	「We cannot retreat here! We
+25337	+		　リア様をお守りし……！」	　must protect Lia-sama......!」
 
 25338	Ex Banquet	基本	「マリス殿、ご無事で」	「Maris-dono, I see you are safe.」
 
