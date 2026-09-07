@@ -28,7 +28,7 @@
 
 78365	Klean Bew	心ここにあらず	「おはようございます」	「Good morning.」
 
-78366	Heidi Pankrau	基本	「食事の支度に参りましたー」	「Breakfast is ready.」
+78366	Heidi Pankrau	基本	「食事の支度に参りましたー」	「I've come to prepare the meal.」
 
 78367	Sill Plain		「あ、いつもありがとうございます」	「Ah, thank you as always.」
 
@@ -42,7 +42,7 @@
 78372	Rance	全裸／真剣	「…………ん？	「......Hm?
 78373	+		　なんか違和感が」	　Something feels off.」
 
-78374	Rance	全裸	「そうだ、ビスケッタさんはどうした？	「Right, where's Biscuitta?
+78374	Rance	全裸	「そうだ、ビスケッタさんはどうした？	「Right, where's Biscuitta-san?
 78375	+		　いつも、こういうときは彼女が来たもんだが」	　She usually comes at times like this.」
 
 78376	Heidi Pankrau	基本	「え、それ……	「Eh, that......
@@ -66,7 +66,7 @@
 
 78387	Rance	真剣	「お前らは知っていたのか？」	「Did you all know?」
 
-78388	Rance		「――ビスケッタさんが行方不明なこと」	「--That Biscuitta is missing.」
+78388	Rance		「――ビスケッタさんが行方不明なこと」	「--That Biscuitta-san is missing.」
 
 78389	Arlcoate Marius	弱気	「あっ……」	「Ah......」
 
@@ -74,15 +74,15 @@
 
 78391	Rance	基本	「知ってしまいましたか、だとぉ！？」	「You found out!?」
 
-78392	Oda Kouhime	真剣	「兄様、やめて下さい」	「Big brother, stop.」
+78392	Oda Kouhime	真剣	「兄様、やめて下さい」	「Nii-sama, stop.」
 
 78393	Rance	基本	「む、香ちゃん」	「Hm, Kou-chan.」
 
-78394	Oda Kouhime	真剣	「……兄様や状況が落ち着くまでは、	「...Until big brother and the situation calmed down,
-78395	+		　この件は伏せておこうと言ったのは私です」	　I suggested we keep this quiet.」
+78394	Oda Kouhime	真剣	「……兄様や状況が落ち着くまでは、	「...Until Nii-sama and the situation calmed
+78395	+		　この件は伏せておこうと言ったのは私です」	　down, I suggested we keep this quiet.」
 
 78396	Oda Kouhime	困り	「戦いに敗れ、ランス城を奪われ……	「We were defeated in battle, Rance Castle was seized......
-78397	+		　その上ビスケッタさんまで、と……	　and on top of that, to lose Biscuitta as well...... I'm so
+78397	+		　その上ビスケッタさんまで、と……	　and on top of that, to lose Biscuitta-san as well...... I'm so
 78398	+		　すみません、話す勇気がなかったんです……」	　sorry, I just didn't have the courage to tell you......」
 
 78399	Rance	真剣	「む……」	「Hm......」
@@ -104,14 +104,14 @@
 78408	-		唇をキュッと引き結び、	She pressed her lips tight,
 78409	+		それでも香姫は少しずつ話し始めた。	but still began to speak bit by bit.
 
-78410	Oda Kouhime	真剣	「兄様がレッドアイとの戦闘で倒れた	「Right after big brother fell in battle against RedEye
-78411	+		　すぐ後のことです……」	　......」
+78410	Oda Kouhime	真剣	「兄様がレッドアイとの戦闘で倒れた	「Right after Nii-sama fell in
+78411	+		　すぐ後のことです……」	　battle against RedEye ......」
 
 78412	Oda Kouhime		「戦線をランス城まで後退させ、	「We pulled the front line back to Rance Castle
 78413	+		　私達は撤退の準備を始めました」	　and began preparing to retreat.」
 
 78414	Oda Kouhime		「その撤退戦が成功したのは……	「The retreat succeeded thanks to......
-78415	+		　ひとえにビスケッタさんのおかげです」	　Biscuitta alone.」
+78415	+		　ひとえにビスケッタさんのおかげです」	　Biscuitta-san alone.」
 
 78416	Oda Kouhime		「あの方は私達全員を逃す為に、	「She stayed behind as the rear guard
 78417	+		　殿-ｼﾝｶﾞﾘ-として立ち	　to buy time for all of us to escape
@@ -120,7 +120,7 @@
 78419	Rance	基本	「…………」	「............」
 
 78420	Oda Kouhime	困り	「結局それが……	「In the end that was......
-78421	+		　私達がビスケッタさんを見た最後となりました」	　the last time we saw Biscuitta.」
+78421	+		　私達がビスケッタさんを見た最後となりました」	　the last time we saw Biscuitta-san.」
 
 78422	Sill Plain	基本	「……あう」	「...Auu」
 
@@ -129,20 +129,20 @@
 78424	-		今話を聞いたランス以外の誰もが、	Everyone except Rance who just heard it
 78425	+		既にビスケッタを死者として扱っていた。	had already treated Biscuitta as dead.
 
-78426	Rance	真剣	「……あのビスケッタさんが死んだだと？」	「...Biscuitta died?」
+78426	Rance	真剣	「……あのビスケッタさんが死んだだと？」	「...Biscuitta-san died?」
 
 78427	Rance		「…………」	「............」
 
 78428	Rance		「俺は信じないぞ」	「I don't believe it.」
 
-78429	Oda Kouhime	基本	「兄様……	「Big brother......
-78430	+		　信じたくないのは私も同じです、	　I don't want to believe it either,
-78431	+		　でも……」	　but......」
+78429	Oda Kouhime	基本	「兄様……	「Nii-sama...... I
+78430	+		　信じたくないのは私も同じです、	　don't want to believe
+78431	+		　でも……」	　it either, but......」
 
 78432	Rance		「違う、あのビスケッタさんが	「No, I mean there's no way
-78433	+		　簡単に死ぬなどありえんという意味だ」	　that Biscuitta would die so easily.」
+78433	+		　簡単に死ぬなどありえんという意味だ」	　that Biscuitta-san would die so easily.」
 
-78434	Rance	真剣	「ビスケッタさんの死体は誰か見たのか？」	「Did anyone see Biscuitta's body?」
+78434	Rance	真剣	「ビスケッタさんの死体は誰か見たのか？」	「Did anyone see Biscuitta-san's body?」
 
 78435	Oda Kouhime	基本	「え？	「Eh?
 78436	+		　いえ……それは誰も……」	　No... nobody...」
@@ -152,7 +152,7 @@
 78438	Urza Pranaice	基本	「……ランス総統。	「...Supreme Leader Rance.
 78439	+		　あの、何を考えて……」	　What are you thinking...」
 
-78440	Rance		「ビスケッタさんはまだ生きてる」	「Biscuitta is still alive.」
+78440	Rance		「ビスケッタさんはまだ生きてる」	「Biscuitta-san is still alive.」
 
 78441	Rance		「だから、ランス城に行って、	「So I'm going to Rance Castle
 78442	+		　ちょっと探してくる」	　to look for her.」
@@ -179,7 +179,7 @@
 
 78455	Rance	真剣	「俺一人の世話ならシィルで充分だ。	「Sill is enough to take care of me alone.
 78456	+		　だが、部下達全員の世話をするのは、	　But taking care of all my subordinates
-78457	+		　ビスケッタさんでないと無理」	　is something only Biscuitta can do.」
+78457	+		　ビスケッタさんでないと無理」	　is something only Biscuitta-san can do.」
 
 78458	Rance		「彼女はこの城に必要なのだ」	「This castle needs her.」
 
