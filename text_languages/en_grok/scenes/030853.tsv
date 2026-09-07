@@ -137,8 +137,8 @@
 34487	Tilde Sharp	ニコリ	「あら……真田先生もこちらでしたの。	「Oh... Sanada-sensei is here too.
 34488	+		　てっきりJAPAN軍に行かれているかと」	　I thought you went with the JAPAN army.」
 
-34489	Sanada Tourin	基本	「既にJAPANは出奔した身。	「JAPAN has already left me behind.
-34490	+		　国も残っておりませぬし、戻る場所はありません」	　There's no country left, no place to return to.」
+34489	Sanada Tourin	基本	「既にJAPANは出奔した身。	「I already left JAPAN behind. There's
+34490	+		　国も残っておりませぬし、戻る場所はありません」	　no country left, no place to return to.」
 
 34491	Sanada Tourin	思考	「……それに、ヘルマンとは縁ができました。	「...Besides, I've formed ties with Helman.
 34492	+		　私に貸せる力があるなら、それを注ぎたい」	　If I have any power to lend, I want to pour it in.」
@@ -189,13 +189,13 @@
 34520	Sheila Helman	基本	「そうですね……あちらは、	「That's true... Over there
 34521	+		　ここよりは温かいはずですけど」	　should be warmer than here.」
 
-34522	Peruele Kalette		「すぐ脱ぐからねぇ……あの男……	「That man will strip right away...
-34523	+		　なんとかは風邪引かないって言うけど」	　He says he won't catch a cold though.」
+34522	Peruele Kalette		「すぐ脱ぐからねぇ……あの男……	「That man will strip right away... Well, they
+34523	+		　なんとかは風邪引かないって言うけど」	　do say a certain sort never catches a cold.」
 
 34524	Menad Shisei		「あはは。実際には、	「Ahaha. In reality,
 34525	+		　周りの女の子が気を配るんだろうけどね」	　the girls around him will take care of it.」
 
-34526	Sheila Helman		「そうですね。シィルさんがいれば、	「Yes. If Sill is with him,
+34526	Sheila Helman		「そうですね。シィルさんがいれば、	「Yes. If Sill-san is with him,
 34527	+		　きっと大丈夫です」	　I'm sure it'll be fine.」
 
 34528	Leazas Red Soldier		「失礼します、メナド副将！	「Excuse me, Vice General Menad!
@@ -250,7 +250,7 @@
 
 34560	Sheila Helman		「……ありがとうございます、心配してくれて」	「...Thank you for worrying about me.」
 
-34561	Hubert Lipton		「闘将達から離れるなよ」	「Don't leave the Tousho' side.」
+34561	Hubert Lipton		「闘将達から離れるなよ」	「Don't leave the Tousho's side.」
 
 34562	Peruele Kalette		「はーあ。まったく、	「Haa. Really, you could have stayed
 34563	+		　暖かい所でヌクヌク指揮してても良いのに」	　warm and commanded comfortably.」
@@ -469,7 +469,7 @@
 34696	+		　お前なーーー！　ホントなーーー！	　You-----! Really-----!
 34697	+		　いい加減に……！」	　Enough already...!」
 
-34698	Arlcoate Marius	基本	「おじ様……北方面軍から、合図が」	「Uncle... Signal from the northern army.」
+34698	Arlcoate Marius	基本	「おじ様……北方面軍から、合図が」	「Ojisama... Signal from the northern army.」
 
 34699	Urza Pranaice	真剣	「南方面軍からも。準備、できました」	「From the southern army too. Preparations complete.」
 
@@ -498,7 +498,7 @@
 
 34713	Uesugi Kenshin	基本	「毘沙門天よ……ご加護を」	「Bishamonten... Grant us your protection.」
 
-34714	Nagi su Ragarl		「さー、最後だよ……がんばろ、お姉様」	「Come on, it's the last one... Let's do our best, big sis.」
+34714	Nagi su Ragarl		「さー、最後だよ……がんばろ、お姉様」	「Come on, it's the last... Let's do our best, onee-sama.」
 
 34715	Masou Shizuka		「………………」	「............」
 
@@ -520,7 +520,7 @@
 34724	Rance	真剣	『魔王……美樹ちゃんを探し出す。	『Find the Demon King... Find Miki-chan.
 34725	+		　そして、舐めた真似をした魔物どもにやり返す』	　Then pay back those monsters who looked down on us.』
 
-34726	Oda Kouhime	武装	「兄様…………」	「Big brother............」
+34726	Oda Kouhime	武装	「兄様…………」	「Nii-sama............」
 
 34727	Rance	怒り	「全軍突撃だ！	「All forces, charge!
 34728	?		　――――ぶち殺せ！」	　――――Kill them all!」

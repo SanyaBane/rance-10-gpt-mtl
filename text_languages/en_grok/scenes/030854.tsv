@@ -45,7 +45,7 @@
 34738	Blue Monster Soldier		「あーあ、あんだけ勢い込んどいて負けんだもんな。	「Man, they were so pumped up and still lost.
 34739	+		　上の方々にも困ったもんだぜ」	　The higher-ups are a real pain.」
 
-34740	Green Monster Soldier		「魔人とか、もうケイブリス様以外居ないんだろ？	「Aren't the only Fiend left Kayblis-sama?
+34740	Green Monster Soldier		「魔人とか、もうケイブリス様以外居ないんだろ？	「Isn't Kayblis-sama the only Fiend left?
 34741	+		　ひっでー目に遭ったぜ。	　We went through hell.
 34742	+		　早くこのスーツ、脱ぎてぇよ」	　I want to take this suit off already.」
 
@@ -99,7 +99,7 @@
 
 34772	Oruore the 3rd	基本	「そりゃま、将軍はほら、おトシがね」	「Well, the general is getting old after all.」
 
-34773	Rolex Gadras	真剣	「タァコ！　鎧のせいだっつーの！」	「Tch! It's the armor!」
+34773	Rolex Gadras	真剣	「タァコ！　鎧のせいだっつーの！」	「Ya idiot! It's the armor!」
 
 34774	Sanada Tourin	基本	「両軍とも、疾く駆けられよ！	「Both armies, charge swiftly!
 34775	+		　今は深く深く、切り込む時！」	　Now is the time to cut deep!」
@@ -116,8 +116,8 @@
 34782	Sioux Province		「はい……前進が速すぎることはありませんか？	「Yes... Isn't the advance too fast?
 34783	+		　速度を合わせることを、一考しても……」	　Should we consider matching speeds...?」
 
-34784	Barres Province		「三桂あって詰まぬ事無し、じゃ。	「With the three桂, there is no deadlock.
-34785	+		　あれだけの戦力が揃っておれば、	　With that much fighting power,
+34784	Barres Province		「三桂あって詰まぬ事無し、じゃ。	「They say with three knights there's no mate
+34785	+		　あれだけの戦力が揃っておれば、	　you can't force. With that much fighting power,
 34786	+		　この局面は押し込むだけでよい」	　we just need to push through this situation.」
 
 34787	Barres Province		「じゃが先を考えれば、ここは脱落者を出さぬ事が	「But thinking ahead, our job is to not let anyone fall behind.
@@ -137,16 +137,16 @@
 
 34796	Green Monster Soldier		「は、早く報告を！　雪崩れ込まれちまいます！」	「H-hurry and report! They'll overrun us!」
 
-34797	Monster Captain		「ほ、報告する先がない……！	「There's no one to report to...! General Pol and
-34798	+		　ポル将軍もコルテス将軍も、先の戦いで……」	　General Cortes were in the previous battle...」
+34797	Monster Captain		「ほ、報告する先がない……！	「There's no one to report to...! General Por and
+34798	+		　ポル将軍もコルテス将軍も、先の戦いで……」	　General Cortes, both of them, in the last battle...」
 
 34799	Green Monster Soldier		「あっ……！？	「Ah...!?
-34800	+		　じゃあええと、魔人様は……」	　Then, um, the Fiends...」
+34800	+		　じゃあええと、魔人様は……」	　Then, um, the Fiend-sama...」
 
 34801	Monster Captain		「ケイブリス様に報告するのか！？　直接！？」	「Report directly to Kayblis-sama!?」
 
 34802	Green Monster Soldier		「う、ううっ……	「U-uuu...
-34803	+		　い、いや流石にどこかに将軍様が……」	　No, surely there's a general somewhere...」
+34803	+		　い、いや流石にどこかに将軍様が……」	　No, surely there's a General-sama somewhere...」
 
 34804	Monster Captain		「いるかもしれんが、居場所がわからぬ……	「There might be, but we don't know where...
 34805	+		　もう、数えるほどしか……」	　Only a few left...」
@@ -211,9 +211,9 @@
 34842	Houjou Souun	基本	「北条陰陽隊は周辺の探索、警戒に専念！	「The Houjou Onmyou Squad will focus on scouting and vigilance!
 34843	+		　この地形だ、伏兵と援軍は必ずあると思え！」	　With this terrain, expect ambushes and reinforcements!」
 
-34844	Cecil Carna	怒り	「傭兵部隊、前進！	「Mercenary units, advance!
-34845	+		　隊長は首を上げればよし、	　Captains get bonus for heads,
-34846	+		　将軍は発見だけでも追加報酬があるぞ！」	　Generals get extra reward just for spotting!」
+34844	Cecil Carna	怒り	「傭兵部隊、前進！	「Mercenary units, advance! A captain's head
+34845	+		　隊長は首を上げればよし、	　is enough to collect on, and for a general
+34846	+		　将軍は発見だけでも追加報酬があるぞ！」	　there's extra reward just for spotting one!」
 
 34847	-		叩きつけるような勢いで、	With crushing momentum,
 34848	+		南方面軍は貫き、進んでゆく。	the southern army pierced through and advanced.
