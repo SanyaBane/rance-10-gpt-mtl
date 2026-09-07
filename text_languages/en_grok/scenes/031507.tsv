@@ -93,7 +93,7 @@
 81807	Rance	真剣	「ふむ……そういや、少し疑問なんだが……」	「Hmm... Now that you mention it, I have a question...」
 
 81808	Rance		「お前らって、どっちも魔人なのに、	「You guys are both Fiends,
-81809	+		　魔人同士で戦争なんてするんだな」	　yet you're having a war between Fiend.」
+81809	+		　魔人同士で戦争なんてするんだな」	　yet you're having a war between Fiends.」
 
 81810	Satella	基本	「そんなの人間だって同じだろう？	「Humans do the same thing, don't they?
 81811	+		　考えが違えば争いは起こるものだ」	　If your ideas differ, conflict arises.」
@@ -102,12 +102,12 @@
 81813	+		　誰が魔王になるかで争いが始まった」	　who would become the Demon King.」
 
 81814	Rance	基本	「魔王ってのはアレだ。	「The Demon King is that thing.
-81815	+		　魔物と魔人連中の王様」	　The king of monsters and Fiend.」
+81815	+		　魔物と魔人連中の王様」	　The king of monsters and Fiends.」
 
 81816	Satella		「ま、ザックリ言ってしまえばそうだな」	「Well, roughly speaking, yes.」
 
 81817	Satella		「魔王とは絶対的な支配者。	「The Demon King is an absolute ruler. An existence
-81818	+		　全ての魔物、使徒、魔人を従える存在だ」	　that commands all monsters, apostles, and Fiend.」
+81818	+		　全ての魔物、使徒、魔人を従える存在だ」	　that commands all monsters, apostles, and Fiends.」
 
 81819	Satella		「その魔王である	「When the previous Demon King,
 81820	+		　先代のガイ様がいた頃は平和で……	　Gai-sama, was around, it was peaceful...
@@ -132,9 +132,9 @@
 
 81834	Rance	基本	「なに？」	「What?」
 
-81835	Satella	不安	「魔王の空位。	「The vacant Demon King position.
-81836	+		　これを好機と見た魔人の一人である	　One Fiend who saw this as an opportunity
-81837	+		　ケイブリスの馬鹿がよりにもよって――」	　that idiot Kayblis――」
+81835	Satella	不安	「魔王の空位。	「The vacant Demon King position. That
+81836	+		　これを好機と見た魔人の一人である	　idiot Kayblis, one of the Fiends who saw
+81837	+		　ケイブリスの馬鹿がよりにもよって――」	　this as an opportunity, of all things――」
 
 81838	Satella	思考	「自分が魔王になると、言い出した」	「Declared that he would become the Demon King.」
 
@@ -245,7 +245,7 @@
 
 81906	Satella	不安	「ば、ば、ば……」	「I- i- i...」
 
-81907	Rance	基本	「ば？」	「Ba?」
+81907	Rance	基本	「ば？」	「I?」
 
 81908	Satella	怒り	「馬鹿ーーーー！」	「Idiooooot!」
 
@@ -401,7 +401,7 @@
 
 82008	Rance	基本	「あー、はいはい」	「Yeah yeah, sure.」
 
-82009	Rance~	真剣	（しかし、魔人か……）	（But she's a Fiend, huh...）
+82009	Rance~	真剣	（しかし、魔人か……）	（But, Fiends, huh...）
 
 82010	Rance~		（ま、確かにどいつもこいつも厄介なんだろうが）	（Well, they're all troublesome in their own way.）
 

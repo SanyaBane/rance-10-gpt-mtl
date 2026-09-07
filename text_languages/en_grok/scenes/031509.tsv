@@ -58,8 +58,8 @@
 
 82137	Rance	真剣	「シィル、俺様の天ぷらはちゃんと特大にしたか？」	「Sill, did you make my tempura extra large?」
 
-82138	Sill Plain	基本	「はい、大丈夫ですよ、ランス様。	「Yes, it's fine, Rance-sama.
-82139	+		　海老も特別に二尾入れました」	　I even put in two extra large shrimp.」
+82138	Sill Plain	基本	「はい、大丈夫ですよ、ランス様。	「Yes, it's fine, Rance-sama. I
+82139	+		　海老も特別に二尾入れました」	　even put in two shrimp specially.」
 
 82140	Rance	笑顔	「がははは、衣ばっかでかい奴ー。	「Gahahaha, the one with the huge batter一.
 82141	+		　ばりばり、ばりばり」	　Crunch crunch.」
@@ -307,7 +307,7 @@
 82285	Cordoba Burn	笑顔	「がっはっはっ、なーにこれくらい	「Gahaha, this much
 82286	+		　まだまだ序の口ですとも！」	　is just the beginning!」
 
-82287	Cordoba Burn		「ささ！　アレックス殿も！」	「Come on! Sir Alex too!」
+82287	Cordoba Burn		「ささ！　アレックス殿も！」	「Come on! Alex-dono too!」
 
 82288	Alex Valse	ジャケットなし	「い、いえ、僕はもう……	「N-no, I've already...
 82289	+		　うぷ……」	　Ugh...」
@@ -341,7 +341,7 @@
 82306	Hubert Lipton		「はいはい、嬢ちゃんは	「Yeah yeah, good luck to you too, miss.
 82307	+		　今年も大変だろうが宜しくな」	　It's gonna be tough again this year.」
 
-82308	Saias Crown		「それじゃあここは、	「Then here we,
+82308	Saias Crown		「それじゃあここは、	「Then here's to
 82309	+		　つれない総統閣下が	　hoping the cold Supreme Leader
 82310	+		　心変わりして戻ってくることを祈って――」	　will have a change of heart and come back一一」
 
@@ -363,7 +363,7 @@
 82320	Urza Pranaice		「私達も夜風で体を冷ましたら、	「How about we cool down with some night air,
 82321	+		　冷えすぎない内に寝ましょうか」	　then go to bed before we get too cold?」
 
-82322	Cream Ganoblade		「あら、アールコートさんは……」	「Oh, what about Arlcoate...」
+82322	Cream Ganoblade		「あら、アールコートさんは……」	「Oh, what about Arlcoate-san...」
 
 82323	Arlcoate Marius		「すー……すー……」	「Zzz... zzz...」
 
@@ -721,7 +721,7 @@
 82535	+		　あと今日何回言うつもりだ……」	　How many more times are you planning to say it today...」
 
 82536	Oda Kouhime		「今から皆でたこ揚げをしようとなりまして、	「We're going to fly kites together now,
-82537	+		　兄様もお誘いに来たのです」	　so I came to invite you too, brother.」
+82537	+		　兄様もお誘いに来たのです」	　so I came to invite you too, Nii-sama.」
 
 82538	Rance		「ほう、見に行こうかな」	「Hmm, maybe I'll go watch.」
 
@@ -731,7 +731,7 @@
 
 82541	Rance		「なぁーにぃー？　お年玉だとー？」	「Whaaat? New Year's money?」
 
-82542	Reset Kalar		「３Ｇさんはくれたよ」	「3G gave us some.」
+82542	Reset Kalar		「３Ｇさんはくれたよ」	「3G-san gave us some.」
 
 82543	Rance		「そりゃあの爺はホクホク顔で	「That old man would happily
 82544	+		　渡すだろうがなぁ……」	　give it with a big grin...」
