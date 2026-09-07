@@ -8,7 +8,7 @@
 
 102923	Arlcoate Marius		「あ、ハウレーン副将」	「Ah, Vice Commander Haurein.」
 
-102924	Sioux Province		「城内で会うなんて珍しいですね、お姉様。	「Meeting inside the castle is rare, big sister.
+102924	Sioux Province		「城内で会うなんて珍しいですね、お姉様。	「Meeting inside the castle is rare, onee-sama.
 102925	?		　で、ではなくて！　ハウレーン副将……！」	　Wait, not that! Vice Commander Haurein...!」
 
 102926	Haurein Province	笑顔	「ふっ……」	「Fufu...」
@@ -16,7 +16,7 @@
 102927	-		ハウレーンは口元を緩めてスーの頭に手を乗せた。	Haurein smiled softly and placed her hand on Sioux's head.
 
 102928	Haurein Province		「今の私は休憩中だ。	「I'm on break right now.
-102929	+		　お姉様で構わんさ」	　You can call me big sister.」
+102929	+		　お姉様で構わんさ」	　You can call me onee-sama.」
 
 102930	Sioux Province	思考	「そ、そんなわけには……」	「T-That's not proper...」
 
@@ -46,9 +46,9 @@
 
 102946	Sioux Province	思考	「……ッ！」	「...!」
 
-102947	Haurein Province	基本	「すまないな、アールコート。	「Sorry, Arlcoate.
-102948	+		　スーは内弁慶の格好つけだから、	　Sioux acts tough outside but is actually shy,
-102949	+		　苦労するだろう」	　so it must be hard.」
+102947	Haurein Province	基本	「すまないな、アールコート。	「Sorry, Arlcoate. Sioux acts
+102948	+		　スーは内弁慶の格好つけだから、	　tough at home but is actually
+102949	+		　苦労するだろう」	　shy outside, so it must be hard.」
 
 102950	Arlcoate Marius		「そそそ、そんなことは！」	「N-No, not at all!」
 
@@ -84,7 +84,7 @@
 
 102969	Arlcoate Marius		「ご、ごちそうさまでした！」	「Thank you for the meal!」
 
-102970	Sioux Province		「ごちそうさまでした。お姉様」	「Thank you for the meal, big sister.」
+102970	Sioux Province		「ごちそうさまでした。お姉様」	「Thank you for the meal, onee-sama.」
 
 102971	-		店から出たアールコートとスーが、	After leaving the store, Arlcoate and Sioux
 102972	+		揃ってハウレーンに頭を下げた。	bowed together to Haurein.
@@ -96,10 +96,10 @@
 
 102976	Arlcoate Marius	基本	「あ、は、はい。またいずれ」	「Ah, y-yes. Another time.」
 
-102977	Sioux Province	思考	「お姉様、やめて下さい」	「Big sister, stop.」
+102977	Sioux Province	思考	「お姉様、やめて下さい」	「Onee-sama, stop.」
 
-102978	Sioux Province	基本	「それでは、お姉様、	「Well then, big sister,
-102979	+		　私達は寄るところがあるのでここで」	　we have somewhere to go so we'll stop here.」
+102978	Sioux Province	基本	「それでは、お姉様、	「Well then, onee-sama, we have
+102979	+		　私達は寄るところがあるのでここで」	　somewhere to go so we'll stop here.」
 
 102980	Arlcoate Marius		「本当にごちそうさまでした。	「Thank you so much for the meal.
 102981	+		　また後日、お礼をさせて下さい」	　Let me thank you properly another day.」
