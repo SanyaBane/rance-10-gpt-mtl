@@ -163,7 +163,7 @@
 68449	+		　ここを抜ければ、敵の司令部は襲い放題だぞ！」	　Once we break through here, the enemy headquarters is ours to raid!」
 
 68450	Green Monster Soldier		「ちぇ、簡単に言ってくれるぜ……	「Tch, easy for you to say...
-68451	+		　将軍殿はたっぷり食ってるからってよ……」	　The general has plenty to eat...」
+68451	+		　将軍殿はたっぷり食ってるからってよ……」	　General-dono has plenty to eat...」
 
 68452	Blue Monster Soldier		「しっ、よせよ」	「Shh, stop that.」
 
@@ -513,8 +513,8 @@
 68662	JAPAN Samurai		「な……も、持っていたのですか！？	「Wha... You had one!?
 68663	+		　ではなぜ……！」	　Then why...!」
 
-68664	Shinoda Gengorou	基本	「うーん、これ細くて、一人用なんだよね。	「Hmm, this one is thin and single-use.
-68665	+		　それに、もうちょっと時間稼ぎしなきゃ」	　Besides, I need to buy a bit more time.」
+68664	Shinoda Gengorou	基本	「うーん、これ細くて、一人用なんだよね。	「Hmm, this one is thin and only good for one
+68665	+		　それに、もうちょっと時間稼ぎしなきゃ」	　person. Besides, I need to buy a bit more time.」
 
 68666	JAPAN Samurai	非武装	「…………………！」	「...........!」
 
@@ -530,7 +530,7 @@
 68672	Green Monster Soldier	基本	「おい、こっちだ！　いた、いたぞ！	「Hey, over here! Found him, found him!
 68673	+		　ぶっ殺してやる！！」	　I'll kill him!!」
 
-68674	Blue Monster Soldier		「バカ、よせ！　将軍様を待て！	「Idiot, stop! Wait for the General!
+68674	Blue Monster Soldier		「バカ、よせ！　将軍様を待て！	「Idiot, stop! Wait for General-sama!
 68675	+		　あの様子じゃ、下手したら俺たちまで……」	　At this rate, we might end up...」
 
 68676	-		どぎつい怒号が飛び交い、	Harsh roars flew around,
@@ -567,7 +567,7 @@
 68695	Monster General		「寝不足だと？　それは貴様らが……ぬ……？	「Sleep-deprived? That's you guys who... nu...?
 68696	+		　いや待て、いちいち叩き起こしてきたのは……」	　Wait, the ones who kept waking us up were...」
 
-68697	Shinoda Gengorou		「JAPANの忍者さんに頼んでね。	「I asked the ninjas from JAPAN.
+68697	Shinoda Gengorou		「JAPANの忍者さんに頼んでね。	「I asked the ninja-san from JAPAN.
 68698	+		　目覚めエモンっていう、	　There's something called Mezame Emmon,
 68699	+		　聞くと絶対に目覚める銅鑼があるの」	　a gong that wakes you up for sure when you hear it.」
 
@@ -585,8 +585,8 @@
 
 68708	-		そこで、将軍の表情が変わる。	At that point, the general's expression changed.
 
-68709	-		軍が時間に縛られている事を、	He remembered that the army was bound by time,
-68710	+		憎い人間の将をついに捕らえた興奮で忘れていた。	forgotten in the excitement of finally capturing the hated human commander.
+68709	-		軍が時間に縛られている事を、	He had forgotten that the army was bound by
+68710	+		憎い人間の将をついに捕らえた興奮で忘れていた。	time, in the excitement of finally capturing the hated human commander.
 
 68711	Monster General		「……時間稼ぎが狙いか。	「...So the goal was to buy time.
 68712	+		　倒す気など初めから無く……」	　You never intended to defeat me from the start...」
@@ -653,8 +653,8 @@
 68748	-		セシルは、まだ呆然としていた篠田に、	Cecil offered her hand to the still dazed Shinoda
 68749	+		手を貸して笑いかけた。	and smiled at him.
 
-68750	Cecil Carna		「私たちが出撃していった方角に逃げるとは……	「To think you would flee in the direction we sortied from...
-68751	+		　抜け目のない」	　No openings at all.」
+68750	Cecil Carna		「私たちが出撃していった方角に逃げるとは……	「To think you would flee in the direction
+68751	+		　抜け目のない」	　we sortied from... How shrewd.」
 
 68752	Shinoda Gengorou		「いや……策なんてものじゃないです。	「No... It wasn't really a strategy.
 68753	+		　右か左かのPK戦でした」	　It was more like a penalty kick game of right or left.」
