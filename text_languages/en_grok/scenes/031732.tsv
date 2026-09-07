@@ -37,11 +37,11 @@
 
 99372	Patton Helman	基本	「はいはい、順番な順番」	「Okay okay, one at a time.」
 
-99373	Nagi su Ragarl		「姉様も来て！」	「Big sis Shizuka too!」
+99373	Nagi su Ragarl		「姉様も来て！」	「Onee-sama, come too!」
 
 99374	Masou Shizuka		「えっ！　いや、私はいいわよ……」	「Eh! No, I'm fine...」
 
-99375	Nagi su Ragarl		「姉様にもやってあげて！」	「Do it for big sis too!」
+99375	Nagi su Ragarl		「姉様にもやってあげて！」	「Do it for onee-sama too!」
 
 99376	Patton Helman		「あいよっ」	「Here we go.」
 
@@ -54,14 +54,14 @@
 
 99381	Patton Helman	笑い	「はははは、視界がまったく違うだろうからなあ」	「Hahaha, the view is completely different from up there.」
 
-99382	Sheila Helman	笑顔	「くすくす、兄様、大人気ですね」	「Hehe, big brother is so popular.」
+99382	Sheila Helman	笑顔	「くすくす、兄様、大人気ですね」	「Hehe, Nii-sama is so popular.」
 
 99383	Patton Helman	基本	「おっ、シーラか」	「Oh, Sheila.」
 
 99384	Patton Helman		「はは、気づいたら変なことになっちまってな」	「Haha, before I knew it things got weird.」
 
 99385	Sheila Helman		「懐かしいですね。	「Brings back memories.
-99386	+		　私も昔、よく兄様にしてもらいましたね」	　You used to lift me like this all the time.」
+99386	+		　私も昔、よく兄様にしてもらいましたね」	　Nii-sama used to lift me like this all the time.」
 
 99387	Patton Helman		「おう、そうだったな。	「Yeah, that's right.
 99388	+		　ガキの頃はもう勘弁してくれーってくらい、	　When we were kids you begged me so much
@@ -74,8 +74,8 @@
 
 99393	Sheila Helman	笑顔	「くすくす、さすがに言いません」	「Hehe, not at my age.」
 
-99394	Reset Kalar	基本	「シーラおねえちゃんもおいでよー、	「Big sis Sheila, come on~
-99395	+		　たのしいよ！」	　it's fun!」
+99394	Reset Kalar	基本	「シーラおねえちゃんもおいでよー、	「Sheila-neechan,
+99395	+		　たのしいよ！」	　come on~ it's fun!」
 
 99396	Sheila Helman	苦笑	「えっ、えっ……？」	「Eh, eh...?」
 
@@ -108,7 +108,7 @@
 99412	-		自分の体を持ち上げる大きな手に、	She placed her small hand on the large one
 99413	+		自分の手を添える。	lifting her body.
 
-99414	Sheila Helman		「……いつもありがとうございます、兄様」	「...Thank you always, big brother.」
+99414	Sheila Helman		「……いつもありがとうございます、兄様」	「...Thank you always, Nii-sama.」
 
 99415	Patton Helman		「…………なに、軽いもんさ」	「...It's nothing, you're light.」
 
@@ -123,15 +123,15 @@
 99420	Rance	真剣	「あん？　パットンか……	「Huh? Patton...
 99421	?		　――って、なんだそりゃ」	　--Wait, what the hell is that?」
 
-99422	-		パットンは両手にナギと志津香、	Patton held Nagi and Shizuka in his hands,
-99423	+		それぞれの両肩にピグとカロリア。	Pigu and Caloria on his shoulders,
-99424	+		リセットを抱えたシーラを肩車していた。	and carried Reset on Sheila's shoulders.
+99422	-		パットンは両手にナギと志津香、	Patton held Nagi and Shizuka in his hands, Pigu
+99423	+		それぞれの両肩にピグとカロリア。	and Caloria on his shoulders, and gave Sheila,
+99424	+		リセットを抱えたシーラを肩車していた。	who was holding Reset, a ride on his shoulders.
 
 99425	Rance	基本	「止まり木みたいになってるぞ、お前」	「You look like a perch.」
 
 99426	Patton Helman		「気づいたらすごいことになってた」	「Before I knew it, it turned into this.」
 
-99427	Sheila Helman	エロ顔	「……あの、兄様……そろそろ降ろして」	「...Um, big brother... can you let me down soon?」
+99427	Sheila Helman	エロ顔	「……あの、兄様……そろそろ降ろして」	「...Um, Nii-sama... can you let me down soon?」
 
 99428	-		シーラは肩車されたまま、	Still on his shoulders,
 99429	+		顔を真っ赤にしていた。	Sheila's face was bright red.
