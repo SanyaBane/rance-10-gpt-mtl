@@ -43,7 +43,7 @@
 
 59254	Pizarro		「うっ……！」	「Ugh...!」
 
-59255	-		髪の奥の眼光がピサロを射貫き、	The sharp glare from behind her hair pierced Pizarro,
+59255	-		髪の奥の眼光がピサロを射貫き、	The sharp glare from behind his hair pierced Pizarro,
 59256	+		その巨体を射すくめる。	freezing his massive body.
 
 59257	Lei		「この程度、ハンデだ。ちょうどいい。	「This much is just a handicap. It's perfect.
@@ -55,8 +55,8 @@
 59261	Lei		「あの野郎も来てるんなら……	「If that bastard is coming too...
 59262	+		　しっかり礼をしなきゃな」	　I need to give him a proper greeting.」
 
-59263	Pizarro~		（く……これ以上引き留めるのは限界か……	（Kuh... I can't hold her back any longer... I wish
-59264	+		　戦況に無関係な所で死んでくれんものか……）	　she'd just die somewhere unrelated to the battle...）
+59263	Pizarro~		（く……これ以上引き留めるのは限界か……	（Kuh... I can't hold him back any longer... I wish
+59264	+		　戦況に無関係な所で死んでくれんものか……）	　he'd just die somewhere unrelated to the battle...）
 
 59265	Convert Tax		「ああ、せやせや！	「Ah, that's right! Lei-han,
 59266	+		　レイはん、この、こういう旗印のヤツには、	　please don't touch anyone
@@ -68,7 +68,7 @@
 
 59270	Lei		「……全部殺しゃいいのによ」	「...It'd be easier to just kill them all.」
 
-59271	-		つまらなさそうに吐き捨てて、	She spat out those words with boredom,
+59271	-		つまらなさそうに吐き捨てて、	He spat out those words with boredom,
 59272	+		レイはそのまま姿を消した。	and Lei vanished on the spot.
 
 59273	Pizarro		「……おい！　配置にはついてるのだろうな！」	「...Hey! You're all in position, right!」
@@ -79,7 +79,7 @@
 
 59276	Green Monster Soldier		「は、ははっ！」	「Y-Yes!」
 
-59277	Convert Tax~		（ホンマ、相手によって態度変わりよるなぁ……）	（She really changes her attitude depending on who she's talking to...）
+59277	Convert Tax~		（ホンマ、相手によって態度変わりよるなぁ……）	（He really changes his attitude depending on who he's talking to...）
 
 59278	Pizarro		「さぁ出撃だ！」	「Now, deploy!」
 
@@ -123,7 +123,7 @@
 59303	+		　間を置かずに突撃する！」	　mages, charge immediately without pause!」
 
 59304	Copandon Dott		「てばさき隊に帰り木配っといてや！	「Hand out the return rations to the Tebasaki unit!
-59305	+		　軍師はん曰く、今日はこき使われるらしいで！」	　The strategist says we'll be worked hard today!」
+59305	+		　軍師はん曰く、今日はこき使われるらしいで！」	　Strategist-han says we'll be worked hard today!」
 
 59306	Shinoda Gengorou	基本	「例の部隊の準備もいいかな。	「The special unit is ready too, right?
 59307	+		　いつでもピッチに出られるようにしといてね」	　Keep them ready to take the field anytime.」
@@ -143,7 +143,7 @@
 
 59316	Copandon Dott	驚き	「え、ホンマ？　ええと、ちょっと待ってな……」	「Eh, really? Um, wait a sec...」
 
-59317	Shinoda Gengorou	基本	「総統さん、こっちのルートで行ってくれます？」	「Supreme Leader, could you take this route?」
+59317	Shinoda Gengorou	基本	「総統さん、こっちのルートで行ってくれます？」	「Supreme Leader-san, could you take this route?」
 
 59318	Rance	真剣	「む？」	「Hm?」
 
