@@ -23,7 +23,7 @@
 19545	Man		「わ、わかってますよ、パトリシア市長！	「I-I know that, Mayor Patricia! To be precise...
 19546	+		　ずばり……総統ランス記念館です！」	　it's the Supreme Leader Rance Memorial Hall!」
 
-19547	Patricia Bacon		「あら、総統さんの？」	「Oh, for the Supreme Leader?」
+19547	Patricia Bacon		「あら、総統さんの？」	「Oh, for the Supreme Leader-san?」
 
 19548	Man		「は、はい！	「Y-Yes!
 19549	+		　子供はやっぱり、英雄に憧れるものですし！	Children look up to heroes, after all!
@@ -161,7 +161,7 @@
 19634	Man		「はっ、はい！　全然そんな事はありません！」	「Y-Yes! Nothing like that at all!」
 
 19635	Patricia Bacon	怒り	「それより内容だけど、もっと市民たちが関心のある	「As for the content, I think it should be something
-19636	+		　総統さんに踏み込んだものにするべきだと思うわ」	that delves deeper into the Supreme Leader, something citizens are interested in.」
+19636	+		　総統さんに踏み込んだものにするべきだと思うわ」	that delves deeper into the Supreme Leader-san, something citizens are interested in.」
 
 19637	Patricia Bacon		「それはテーマパークのように奇をてらった施設も、	「Unconventional facilities like theme parks are fun too,
 19638	+		　楽しいとは思うわよ？　けどそれは初めだけの事。	　I'm sure. But that's only at the beginning. It needs to be
@@ -169,16 +169,16 @@
 
 19640	Man	基本	「う、っ…………」	「Ugh...」
 
-19641	Patricia Bacon	怒り	「人は支え合って生きているの。人類を今束ねている	「People live by supporting each other. If he is the Supreme
-19642	+		　総統さんなら、それは痛感しているはずよ。その足	　Leader uniting humanity now, he must feel that deeply.
-19643	+		　跡、必ずあるはずよ。そういうのを追わなくちゃ」	　His footsteps must be there. You have to trace those.」
+19641	Patricia Bacon	怒り	「人は支え合って生きているの。人類を今束ねている	「People live by supporting each other. If Supreme
+19642	+		　総統さんなら、それは痛感しているはずよ。その足	　Leader-san unites humanity now, he must feel it
+19643	+		　跡、必ずあるはずよ。そういうのを追わなくちゃ」	　deeply. His footsteps are there. You must trace them.」
 
 19644	Man~	基本	（ちっ、違います……！	(N-No, that's wrong...!
 19645	+		　無いんですよ！　あいつにそんなのぉ……！）	He doesn't have anything like that...!)
 
-19646	Patricia Bacon		「あなたが見せてくれる資料の総統さん、	「The Supreme Leader in the materials you've shown me
-19647	+		　ずいぶん趣味も何もない方なのねえ……貝だけ？	seems to have no hobbies... just shells?
-19648	+		　やっぱり、昼夜無く戦ってらっしゃるの？」	Is he fighting day and night after all?」
+19646	Patricia Bacon		「あなたが見せてくれる資料の総統さん、	「Supreme Leader-san in these materials
+19647	+		　ずいぶん趣味も何もない方なのねえ……貝だけ？	　seems to have no hobbies... just shells?
+19648	+		　やっぱり、昼夜無く戦ってらっしゃるの？」	　Is he fighting day and night after all?」
 
 19649	Man		「あはっ、あはははっ……そう……ですね！	「Aha, ahahaha... Yes... that's right!
 19650	+		　そうみたいで……」	It seems like it...」
@@ -197,7 +197,7 @@
 19658	Kentou Kanami	安い女	「えっ、え、ええっと！　こ、恋人……というか……	「Eh, e-err! L-Lovers... or rather...
 19659	+		　わっ、あはっ、て、照れる……」	Wah, haha, I'm... I'm embarrassed...」
 
-19660	Alkanese Rize	困り	「弟分なんだけど……」	「I'm his sworn brother, though...」
+19660	Alkanese Rize	困り	「弟分なんだけど……」	「He's like a little brother to me, though...」
 
 19661	Crook Mofus	基本	「はい。ランスの女です」	「Yes. I am Rance's woman.」
 
@@ -209,7 +209,7 @@
 
 19666	Patricia Bacon		「内容の吟味は……ううん、どうなの？	「As for the examination of the content... well, I don't
 19667	+		　ほとんど白紙ねえ……総統さんのご家族とかに、	　know. It's almost a blank slate... Maybe mention the
-19668	+		　触れた方が良いんじゃない？」	　Supreme Leader's family? Wouldn't that be better?」
+19668	+		　触れた方が良いんじゃない？」	　Supreme Leader-san's family? Wouldn't that be better?」
 
 19669	Man		「は……か、家族……ですか」	「H-Family... you say?」
 
@@ -220,8 +220,8 @@
 
 19673	Rance	真剣	「は？　家族？　おらんぞそんなもん」	「Hah? Family? I don't have anything like that.」
 
-19674	Man	基本	「うぇ……あ、い、今のご家族でも！	「Ugh... A-Even his current family!
-19675	+		　そちらの奥様とのなれそめとか……」	Like how he met his wife there...」
+19674	Man	基本	「うぇ……あ、い、今のご家族でも！	「Ugh... A-Even your current family!
+19675	+		　そちらの奥様とのなれそめとか……」	Like how you met your wife there...」
 
 19676	Sill Plain	笑顔	「お、奥様……っ……あ、あはは」	「W-Wife... Ah, ahaha.」
 
@@ -269,9 +269,9 @@
 19700	Copandon Dott	ジト目	「はぁ……そうなる思いましたけど。	「Sigh... I thought that might happen.
 19701	+		　これ、彼が最後に残しとったもんだそうで」	Apparently, he left this behind at the end.」
 
-19702	Patricia Bacon	基本	「……カブトムシの標本コーナー……？	「...A stag beetle specimen corner...?
-19703	+		　ビー玉展示場……	A marble exhibition hall...
-19704	+		　これ、総統さんとどう関係があるのかしら……」	How does this relate to the Supreme Leader, I wonder...」
+19702	Patricia Bacon	基本	「……カブトムシの標本コーナー……？	「...A rhinoceros beetle corner...? A marble
+19703	+		　ビー玉展示場……	　exhibition hall... How does this relate
+19704	+		　これ、総統さんとどう関係があるのかしら……」	　to Supreme Leader-san, I wonder...」
 
 19705	Copandon Dott	ため息	「……………………」	「..................」
 
