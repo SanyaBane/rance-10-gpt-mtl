@@ -13,7 +13,7 @@
 16561	Arlcoate Marius	弱気	「あっ……え、ええっ……！」	「Ah... Wh-What...?!」
 
 16562	Leazas White Soldier	基本	「がっ、頑張ってください、	「H-Hang in there,
-16563	+		　アールコートさん……！」	　Lady Arlcoate...!」
+16563	+		　アールコートさん……！」	　Arlcoate-san...!」
 
 16564	Arlcoate Marius	弱気	「くっ……じゃあ、これ、で……」	「Kgh... Then, with this...!」
 
@@ -27,16 +27,16 @@
 16569	Urza Pranaice	基本	「あ、総統。	「Ah, Supreme Leader.
 16570	+		　休み時間にチェスを少し」	　We are playing a little chess during our break.」
 
-16571	Rance	真剣	「チェスだと？	「Chess?
-16572	+		　アールコートちゃんと……	　Between little Arlcoate and...
-16573	+		　あの篠田とかいう冴えないのでか」	　that utterly plain Shinoda guy?」
+16571	Rance	真剣	「チェスだと？	「Chess? Between
+16572	+		　アールコートちゃんと……	　Arlcoate-chan and... that
+16573	+		　あの篠田とかいう冴えないのでか」	　utterly plain Shinoda guy?」
 
-16574	Urza Pranaice	基本	「初めは他の者がやっていたんですが……	「Some of the others were playing initially...
-16575	+		　ふらっといらした篠田さんが、口を挟まれて。	　However, Mr. Shinoda happened to wander by and offered a few pointers.
-16576	+		　それが的確だったもので……」	　And his advice was so remarkably astute...」
+16574	Urza Pranaice	基本	「初めは他の者がやっていたんですが……	「Some of the others were playing initially... However,
+16575	+		　ふらっといらした篠田さんが、口を挟まれて。	　Shinoda-san happened to wander by and offered a few
+16576	+		　それが的確だったもので……」	　pointers. And his advice was so remarkably astute...」
 
 16577	Rance	真剣	「実際にやらせてみた、というわけか。	「So you decided to sit him down for a real match.
-16578	+		　なんでアールコートちゃんが？」	　Why is Arlcoate playing him, though?」
+16578	+		　なんでアールコートちゃんが？」	　Why is Arlcoate-chan playing him, though?」
 
 16579	Urza Pranaice		「他に勝てそうな人がいないんですよ。	「No one else stands even a remote chance of winning.
 16580	+		　私も手も足も出ませんでした」	　I was completely helpless against him myself.」
@@ -52,8 +52,8 @@
 16586	+		　対戦相手の心理を読むのが異常に上手いですね。	　He possesses an uncanny knack for reading his opponent's psychology.
 16587	+		　魔法を使っている風はないのですが……」	　He does not appear to be using magic, and yet...」
 
-16588	Urza Pranaice	基本	「ちゃんとチェスの形になっているだけ、	「Just managing to keep it a proper, functional game of chess
-16589	+		　アールコートさんはすごいです」	　is a testament to Lady Arlcoate's brilliance.」
+16588	Urza Pranaice	基本	「ちゃんとチェスの形になっているだけ、	「Just managing to keep it a proper, functional game
+16589	+		　アールコートさんはすごいです」	　of chess is a testament to Arlcoate-san's brilliance.」
 
 16590	Rance	真剣	「むむむ……」	「Mmmgh...」
 
@@ -78,7 +78,7 @@
 
 16601	Arlcoate Marius	南無	「う、ううう……」	「U-uuu...」
 
-16602	Rance	基本	「ふふん。困ってるのかアールコートちゃん。	「Fufun! In a tight spot, are you, little Arlcoate?
+16602	Rance	基本	「ふふん。困ってるのかアールコートちゃん。	「Fufun! In a tight spot, are you, Arlcoate-chan?
 16603	+		　ではこの俺が一手で引き分けにしてやろう」	　Then I shall turn this into a draw in a single move!」
 
 16604	Arlcoate Marius		「あっ、おじ様……！」	「Ah, Uncle...!」
@@ -97,8 +97,8 @@
 
 16611	-		ランスは上機嫌で去っていった。	Rance left in a great mood.
 
-16612	Cream Ganoblade	ため息	「はあ……やっぱり……失礼しました、篠田さん。	「*Sigh*... Just as I feared... My sincere apologies, Mr. Shinoda.
-16613	+		　素晴らしいお手並みでしたのに……」	　And after you displayed such magnificent skill...」
+16612	Cream Ganoblade	ため息	「はあ……やっぱり……失礼しました、篠田さん。	「*Sigh*... Just as I feared... My sincere apologies,
+16613	+		　素晴らしいお手並みでしたのに……」	　Shinoda-san. And after you displayed such magnificent skill...」
 
 16614	Urza Pranaice	基本	「そうですね……世界一の軍師というのは、	「Indeed... Your reputation as the world's greatest strategist
 16615	+		　伊達ではありませんでした」	　was clearly not just for show.」
@@ -117,9 +117,9 @@
 
 16624	Cream Ganoblade		「全部…………？」	「Every single piece...?」
 
-16625	Shinoda Gengorou		「枠の抜け道を探す……どころか、枠組みを壊せる。	「Rather than looking for loopholes within the rules... he smashes the framework itself.
-16626	+		　いいなあ、総統さん……サッカーやらないかな。	　Must be nice, the Supreme Leader... I wonder if he'd ever play soccer.
-16627	+		　あ、でもすぐに一発退場だな。ふふ」	　Ah, but he'd get a straight red card in no time. Heheh.」
+16625	Shinoda Gengorou		「枠の抜け道を探す……どころか、枠組みを壊せる。	「Rather than looking for loopholes within the rules... he smashes the
+16626	+		　いいなあ、総統さん……サッカーやらないかな。	　framework itself. Must be nice, Supreme Leader-san... I wonder if he'd
+16627	+		　あ、でもすぐに一発退場だな。ふふ」	　ever play soccer. Ah, but he'd get a straight red card in no time. Heheh.」
 
 16628	-		何故か機嫌良く、篠田は会釈をして	For reasons known only to himself, Shinoda bowed pleasantly
 16629	+		司令部を退出していった。	and strolled out of the command room in high spirits.
