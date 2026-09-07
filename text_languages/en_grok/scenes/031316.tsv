@@ -43,9 +43,9 @@
 
 66309	Papademas Shirusven		「むむ……しかし、少しくらい……」	「Hmm... but just a little...」
 
-66310	Eleanor Ran	つらい	「すみませんが……不可能です。	「I'm sorry but... it's impossible. The Custom
-66311	+		　カスタムの砲兵隊は、元々が兵士ではなく	　artillery unit consists of engineers, not
-66312	+		　技術者なんです」	　soldiers, so they don't have the stamina.」
+66310	Eleanor Ran	つらい	「すみませんが……不可能です。	「I'm sorry but... it's impossible.
+66311	+		　カスタムの砲兵隊は、元々が兵士ではなく	　The Custom artillery unit consists
+66312	+		　技術者なんです」	　of engineers, not soldiers.」
 
 66313	Eleanor Ran	警戒	「数が少ないですし、根本的に体力が足りません。	「There are few of them, and fundamentally they lack stamina.
 66314	+		　兵器も、整備なしに動かせるものではないんです」	　The weapons can't be operated without maintenance.」
@@ -99,8 +99,8 @@
 
 66344	Pespo Tontone	基本	「…………だな」	「...Yeah.」
 
-66345	Shinoda Gengorou		「あ。じゃあちょっとラレラレ石見ていいですか？	「Ah. Then can I watch the Larerare match?
-66346	+		　見逃してた試合があって……」	　I missed one...」
+66345	Shinoda Gengorou		「あ。じゃあちょっとラレラレ石見ていいですか？	「Ah. Then can I take a look at the
+66346	+		　見逃してた試合があって……」	　Larerare Stone? I missed a match...」
 
 66347	Copandon Dott	怒り	「そこまで緩めとは言うてへんわ！	「I didn't say to relax that much!
 66348	+		　作戦考えんかーい！」	　Think of a strategy!」
@@ -131,7 +131,7 @@
 66364	-		未だに兵力では互角ではあるものの、自由都市連合軍は、	Though still even in numbers, the Free Cities Alliance was
 66365	+		戦略面で魔軍の脅威を徐々に押し返しつつあった。	slowly pushing the Monster Army's threat back by strategy.
 
-66366	Copandon Dott	基本	「おー、セシルはんが戻ったで！」	「Oh, Cecil-san is back!」
+66366	Copandon Dott	基本	「おー、セシルはんが戻ったで！」	「Oh, Cecil-han is back!」
 
 66367	Papademas Shirusven	おべっか	「いやー、お疲れ様です。	「Wow, great work.
 66368	+		　イフォの森での大勝、おめでとうございます！	　Congratulations on the great victory in Ifo Forest!
@@ -155,7 +155,7 @@
 66380	Papademas Shirusven		「さて、そろそろそれでは、次はジオですかな？」	「Well then, next is Geo?」
 
 66381	Shinoda Gengorou		「んー、ジオは放置しておけるかな。	「Hmm, we can probably leave Geo alone for now.
-66382	+		　JAPANの忍者さん達が、色々妨害してくれてますし。	　The JAPAN ninjas are causing them all sorts of trouble.
+66382	+		　JAPANの忍者さん達が、色々妨害してくれてますし。	　JAPAN's ninja-san are causing them all sorts of trouble.
 66383	+		　意外と食糧自給率低いんですね、ジオ」	　Geo has surprisingly low food self-sufficiency.」
 
 66384	Papademas Shirusven		「んな！？　そ、それはそうですが……	「What!? W-well, that's true but...
@@ -202,13 +202,13 @@
 
 66413	Cecil Carna		「えー……しかしだな……」	「Well... but......」
 
-66414	Copandon Dott		「まあまあパトリシアはん、落ち着いて……」	「Now now Patricia-san, calm down...」
+66414	Copandon Dott		「まあまあパトリシアはん、落ち着いて……」	「Now now Patricia-han, calm down...」
 
 66415	Patricia Bacon		「まあ！　でもドットさん、	「My! But Dot-san,
 66416	+		　こういうのはタイミングが大事と聞いたわ！」	　I heard timing is important for this!」
 
 66417	Copandon Dott		「まさにそのタイミングですわ。	「This is exactly the right timing.
-66418	+		　そろそろなんでっしゃろ、朝倉はん？」	　It's about time, isn't it, Asakura-san?」
+66418	+		　そろそろなんでっしゃろ、朝倉はん？」	　It's about time, isn't it, Asakura-han?」
 
 66419	Asakura Yoshikage		「ええ。JAPANより、決戦に向けた大規模な援軍が	「Yes. Large-scale reinforcements from JAPAN for the
 66420	+		　そろそろ到着する頃合いです。	　decisive battle should arrive soon. If we're going for
