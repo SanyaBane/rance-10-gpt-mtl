@@ -19,9 +19,9 @@
 20507	Rance	だる顔	「あーくそ。なんか調子が悪い気がする……	「Ah, damn it. I feel like I'm in a bit of a slump...
 20508	+		　ん？　どうしたシィル」	Hm? What's wrong, Sill?」
 
-20509	Sill Plain	苦笑	「あ……その、ランス様。	「Ah... well, Master Rance.
-20510	+		　村の方々が、魔軍の人たちが来るのが怖いから、	The villagers are afraid of the Monster Army coming,
-20511	+		　村に留まって欲しいと……」	So they're asking if we could stay in the village...」
+20509	Sill Plain	苦笑	「あ……その、ランス様。	「Ah... well, Rance-sama. The villagers are
+20510	+		　村の方々が、魔軍の人たちが来るのが怖いから、	　afraid of the Monster Army coming, So they're
+20511	+		　村に留まって欲しいと……」	　asking if we could stay in the village...」
 
 20512	Old Man	基本	「お、お願いしますじゃ……	「P-Please, I beg of you...
 20513	+		　この村には自衛するだけの力は……」	This village lacks the power to defend itself...」
@@ -35,10 +35,10 @@
 
 20518	Old Man	基本	「そそそそ、そんな！」	「H-H-H-How could you!」
 
-20519	Sill Plain	恥	「ああっ、酷いですよぅ、ランス様……」	「Aah, that's cruel, Master Rance...」
+20519	Sill Plain	恥	「ああっ、酷いですよぅ、ランス様……」	「Aah, that's cruel, Rance-sama...」
 
-20520	Rance	真剣	「俺たちは忙しいのだ。	「We are busy men. Besides, there's no reason
-20521	+		　だいたい、いつ来るかも分からん魔軍の為に	　to be held up for the sake of a Monster Army
+20520	Rance	真剣	「俺たちは忙しいのだ。	「We're busy. Besides, there's no reason to
+20521	+		　だいたい、いつ来るかも分からん魔軍の為に	　be held up for the sake of a Monster Army
 20522	+		　足止めを食う理由はない」	　that we don't even know when will arrive.」
 
 20523	Old Man	基本	「お、お礼ならさせていただきます！	「W-We will reward you!
@@ -47,7 +47,7 @@
 20525	Rance	だる顔	「えーい、要るかそんなもん！	「Bah, who wants that crap!
 20526	+		　…………ん、待てよ」	...Hm, wait a second.」
 
-20527	Sill Plain	きょとん	「……ランス様？」	「...Master Rance?」
+20527	Sill Plain	きょとん	「……ランス様？」	「...Rance-sama?」
 
 20528	Rance	真剣	「おいシィル。	「Hey, Sill.
 20529	+		　ヤツは今、トイレに行ってるらしいな？」	I believe that person is currently in the bathroom?」
@@ -73,7 +73,7 @@
 20542	+		　さー、出撃だ！　人類を救うためにな！	Come on, let's move out! To save humanity!
 20543	+		　がはははははははは！」	Gahahaha!」
 
-20544	Sill Plain	慌て	「あっ、あっ、待ってください、ランス様ー！」	「Ah, ah, please wait, Master Rance!」
+20544	Sill Plain	慌て	「あっ、あっ、待ってください、ランス様ー！」	「Ah, ah, please wait, Rance-sama!」
 
 20545	-		慌ただしく、ランス達は出立した。	In a flurry of activity, Rance and his group departed.
 
