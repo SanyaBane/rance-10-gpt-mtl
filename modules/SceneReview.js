@@ -192,6 +192,16 @@ rest of the sentence exactly as it stands. A correction that also tidies the
 grammar around it is two edits, one of which nobody asked for, and it hides the
 one that mattered.
 
+**An honorific the Japanese has is a \`meaning:\` correction every time.** さん,
+様, ちゃん, 君, 殿 and はん are carried into the English as -san, -sama, -chan,
+-kun, -dono and -han, and **no English title is invented in their place** -- not
+"Lord", not "Lady", not "Sir", not "Miss". This holds for a title as much as for
+a name: 雷帝様 is "Thunder Emperor-sama" and 総統さん is "Supreme Leader-san".
+The corpus drops one in 7357 speeches and turns 140 more into "Lord Kesselring"
+or "Lord Rance", so **you will find that most other lines do it the other way,
+and that is the backlog rather than the convention**. Correct the ones in front
+of you; do not reason from what the rest of the corpus does.
+
 ## Before you answer, name the pronouns
 
 Read the scene through once. Then go back over it and, **for every he, him,
@@ -204,6 +214,18 @@ exists for and the one that is invisible to a reading. Read for meaning, "I knew
 he liked rare items" is a perfectly good sentence about somebody; asked who
 \`he\` is, it is Miracle, and Miracle is a woman. A run that was not asked to name
 them found three faults of four in a scene, and the one it missed was that.
+
+**The cast list is who speaks, not who is spoken about.** Somebody the scene
+only mentions is not on it and has a gender all the same, and the commonest way
+that happens is a character called by the office they hold rather than by their
+name. 法王 is Crook Mofus, who is Female, and the English calls her "he". A run
+handed that scene with four faults planted in it returned three and left that
+one, saying in as many words that the Pope was not on the cast list -- so it
+read an unanswerable question where there was an answer two lines away in
+\`glossaries/character_genders.md\`. **Not being on the list is a reason to go
+and find out who somebody is, never a reason to leave a pronoun unchecked.** If
+after looking you genuinely cannot tell, say which pronoun and why in the prose
+part; that is a finding too, and it is not the same as passing over it.
 
 ## What is not worth changing
 

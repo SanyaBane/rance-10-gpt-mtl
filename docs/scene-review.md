@@ -256,6 +256,54 @@ corrections were all names, and a name is corpus-wide. They are held now rather
 than written, which is why that scene's file is unchanged and its ledger row
 reads four held.
 
+**The Pope came back.** The same four faults were planted again after 213 scenes
+had been read, to see what the pass catches now, and a reviewer returned three
+of them and left the pronoun -- saying in as many words that 法王 was not on the
+cast list and so it had left the `he` alone. Which is the prompt's own doing:
+the cast block is built from `scene.cast`, the speakers, and it had told the
+reviewer that the gender beside each name is what the pronouns have to agree
+with. A character the scene only *mentions*, and above all one called by the
+office they hold, was outside everything the page said. **A rule that names its
+evidence tells you what to do when the evidence is missing, and this one said
+nothing**, so a run that had done the work correctly stopped one step short.
+The pronoun paragraph now carries the case out loud.
+
+## What is corpus-wide, and what it costs to be told again
+
+A reviewer reads one scene and cannot see that what it has found is in nine
+thousand others. Each of these has been measured, and each is a sweep with its
+own commit rather than anything a scene may fix:
+
+| | |
+|---|---|
+| the stray `ー` in an English cell | 3114 cells; `replaceUnicode` draws it as `~` |
+| the numeral `一` standing in for a dash | 580 cells; `replaceUnicode` draws it as `-` |
+| full-width `！` and `？` in an English cell | 9659 cells, so the house norm rather than a mistake |
+Those three are answered by leaving them alone: they are one character apiece,
+the build already draws two of them as a dash, and mending three of nine
+thousand finishes nothing while making every diff longer.
+
+**The honorifics are the opposite, and are corrected on sight.** They are the
+same size --
+
+| | |
+|---|---|
+| an honorific replaced by an invented title | 140 speeches in 77 scenes -- `ケッセルリンク様` as "Lord Kesselring" 36 times, `ランス様` 22 |
+| an honorific simply dropped | 7357 speeches, 45% of the 16 104 that carry one |
+
+-- and they are not the same kind of thing. A tilde where a dash was meant is a
+character nobody reads twice; a name that arrives as "Lord Kesselring" or with
+its さん gone has had a word of the Japanese thrown away and another put in its
+place. **A name or a title carrying さん, 様, ちゃん, 君, 殿 or はん keeps it in
+the English, and no English title is invented for it** -- no "Lord", no "Lady",
+no "Sir", no "Miss". That holds for a title exactly as for a name: `雷帝様` is
+"Thunder Emperor-sama", `総統さん` is "Supreme Leader-san".
+
+**A reviewer who answers that the corpus drops it elsewhere is describing the
+7357, not a convention**, and that is the one argument not to accept here: this
+pass is where those get mended, one scene at a time as it reaches them, and a
+scene read without mending them is a scene that will have to be read again.
+
 ## A word-for-word correction keeps the rows it found
 
 `modules/SpeechRows.js` divides an utterance again from scratch, which is right
