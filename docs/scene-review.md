@@ -336,3 +336,152 @@ Applying a correction re-lays out the whole speech, so a one-word fix shows up
 as every row of that bubble changing. That is the row division being computed
 again from the corrected utterance, not the words moving: the report shows the
 utterance before and after, which is where to read what actually changed.
+
+## One wave, end to end
+
+Nine reviewers at once has been the shape of it. The scenes go out, the answers
+come back, and what stands between them is a person reading each finding against
+the Japanese that produced it.
+
+```
+node scripts/effective_map.js save before
+node scripts/request_scene_reviews.js --count=45
+node scripts/pack_scene_reviews.js                 # nine batches of what is pending
+      ... nine reviewers write build/scene-review/<scene>.answer.tsv ...
+node scripts/check_scene_answers.js --fix          # before the acceptance, not after
+node scripts/accept_scene_reviews.js --by=<who> --dry-run
+node scripts/accept_scene_reviews.js --by=<who>
+node scripts/check_scenes.js
+node scripts/regenerate_aai_txt.js
+node scripts/effective_map.js save after
+node scripts/effective_map.js diff before after
+node scripts/check_review_diff.js
+```
+
+[scene-review-brief.md](scene-review-brief.md) is what each reviewer reads once
+before its first scene: the corpus-wide classes a scene in front of somebody
+gives no way to see. It is a file rather than something an orchestrator types
+out per run, because a rule learned in one session and retyped from memory in
+the next is a rule that drifts -- which is the argument `held.tsv` above makes
+one level down.
+
+**`--count=N` hands out N scenes on top of what is already pending**, rather
+than topping up to N. Running it twice doubles the queue, and the surplus simply
+waits.
+
+`scripts/pack_scene_reviews.js` reads the folder rather than the run, so it sees
+what an earlier wave could not fit and what nobody answered.
+`request_scene_reviews.js --batch-kb` groups only the scenes of its own run and
+is the right tool when that is the question. What does not fit prints as NO FIT
+and is first in line next time; scene prompts run 2 KB to 17 KB and the later
+scenes are markedly longer, so 45 of them came to 951 KB once and ten waited.
+
+`text_languages/<lang>/declined.tsv` is the third ledger: the scenes a reviewer
+refused on content grounds. Their prompts stay on disk unanswered for ever, so
+without it every deal hands them out again -- and a skip list kept under
+`build/` is one that comes back empty the morning somebody deletes the folder.
+
+## Three kinds of refusal, and only one of them is yours to mend
+
+**Width.** "needs 4 lines and the window draws 3", or a row past the backlog's
+edge. Nought to three a wave, and every one of them has been mended by giving a
+word back rather than by dropping the correction: "is the death penalty" became
+"means execution", "will be delighted" became "will be glad" and went from 36.65
+em to 33.69. `scripts/fit_speech.js` measures the candidate whole and
+`scripts/row_width.js` one row of it.
+
+**A row the game leaves blank.** "the game says nothing on 1 of this speech's
+rows and the English does". One of the 954 speeches where the Japanese draws
+nothing on a row and the English filled it; the acceptance will not re-lay such
+a speech out, so the correction cannot go through this pass at all. Leave it
+refused -- the report records it -- and it waits for whatever sweeps that class.
+`032887` m[185445] is the standing example, and what stands there is a whole
+clause the Japanese never says.
+
+**The ■歴史枠 chronology.** Its rows are a table rather than a bubble and
+`scripts/relayout_chronology.js` owns their layout. A reviewer applied the digit
+rule to seven lines of it in `033026` and all of them were refused, correctly.
+
+There is a fourth thing that is not a refusal and is worth knowing anyway: a
+correction with **exactly as many words** as the speech it replaces keeps the
+division already on disk instead of being laid out again. That is a trap when a
+row quietly gains a `-sama` and `fit_speech.js` still says `fits true`, and a
+tool when the speech is a hand-formatted block whose `　` indents must not move.
+
+## Settled by count
+
+The prompt carries the settled English for what its own scene names, built out
+of the glossaries. These are the ones that are settled by the corpus instead,
+where the count is the whole of the argument and a reviewer with one scene in
+front of it cannot see them.
+
+| | |
+|---|---|
+| `Ojisama` 92, `Rance-kun` 274, `Ho-Raga` 194, `Serachrolas-sama` 29 | against 1 "Sera-sama" |
+| `Yosif` 13 against 5 "Yo-Zef" | `card_name_glossary.tsv` agrees |
+| `Mysteria Tor` 111 against 1 "Mysteria Toa" | `character_genders.md` agrees |
+| `Rudrasaum` 51 against 2 "Rudra Saum" | `summary_terms.tsv` agrees |
+| `Pigu Geliciam` 467 against 1 | |
+| `Mother-dono` 4 | all of them in `032974`, which is what settles `母上殿` |
+| "big brother" 234 against 14 "onii-chan" | `おにいちゃん` is **not** a finding |
+| "Eh?" 609 against 20 "Heh?" | for `へ？` |
+| "Hero" 562 against 214 "hero" | and `summary_terms.tsv` says lowercase, so `勇者` is a `name:` for the sweep rather than a correction in a scene |
+| "my Liege" 10, "Liege-dono" 0 | `主君どの` has no base noun yet -- "my lord" three lines down the same scene |
+
+Carried from earlier passes and not re-counted here: `onee-sama`,
+`Onee-sama`, `-neesama`, `Nii-sama`, `-niisama`, `-neechan`, `Kou-chan`,
+`Masamune-san`, `Biscuitta-san`, `Kesselring-sama`, `Rance-dono`, `Patton-san`,
+`Hawzel-sama`, `Seizel-sama`, `Hawzel-chan`, `Flame-chan`, `Kouhime-sama`,
+`Supreme Leader-sama`, `Demon King-sama`, `Pope-sama`, `Kayblis`, `Haurein`,
+`Youkai King`, `Orime`, `Maid-san`, `phantasm beast`, `King of Zeth`,
+`Magic King`, lowercase `apostle`, `Supreme Leader Rance`, `Fiend` and `Fiends`,
+`Sensor Jizo`, `Hapoko Road`, `Freya Idun`, `Holy Gal Monster`, `Human-san`,
+`Rolex`, `Babolat`, `Ashutaruku`, `Darling`, `Rich` the city, `Eternal Dungeon`,
+`Am Yisael`, `Nod nod` for `こくこく`.
+
+## What the pass still owes
+
+Every one of these was found by reading scenes and none of them has a report
+that would find the rest. They are separate commits, not something a wave may
+fix as it goes past.
+
+- **The sweep over `held.tsv`.** `scripts/find_term_drift.js` is the tool and
+  the built file is what says it is finished. The largest classes it holds:
+  `恐瘴気` as anything but "miasma of terror" (17 rows in 13 scenes), `ジオ` as
+  The-O, `連合軍` as the Alliance Army, `聖女モンスター`, `永久地下牢`,
+  `シャリエラ`, `タロコンソード`, `ローレングラード`, `総統司令部` without its
+  article, and the bare kinship vocatives.
+- **A character the corpus calls by the wrong pronoun.** Open, and it surfaces
+  every wave. **A title, an office or a kinship word standing in for a name is
+  the most reliable way this hides; a feminine speech register is the second;
+  and narration where the Japanese carries no pronoun at all is the third and
+  commonest.** Recently: Hero Helman as "her", Chaos as "she", Kaybwan as "his",
+  Miracle Tor three times, the desert guide who is only ever named by the job.
+- **El's gender.** 575 lines have to read either way and the corpus gendered the
+  protagonist in at least five of them -- "she resembles Rance-sama", "She's
+  seriously amazing", and "Lady ＜エール＞" three times, which invents a title
+  and a gender at once. Worth a scan of `＜エール＞` against he/she/his/her.
+- **Honorifics.** Some 7357 speeches drop one and 140 replace it with an
+  invented title. "Master Kesselring" is 19 rows still standing. Kansai `はん` is
+  the one that goes missing most.
+- **A speech shifted, or borrowing from its neighbour.** The most valuable class
+  and the one with no report at all: a sentence that reads plausibly where it
+  landed is invisible to `find_speech_gaps` and to `find_term_drift` both.
+- **Raw Japanese inside an English phrase.** `032980` had `the威光 of my armor`,
+  and seven more are on record. A scan of the English column for kana and kanji
+  would find the class in one pass.
+- **A speech that lost its `「」` altogether.** `033030` held five in a row.
+  `scripts/find_speech_brackets.js` asks whether the brackets match; whether they
+  are there at all in a narration-shaped English line is the neighbouring
+  question.
+- **A missing possessive `'s`.** "Zance' pants" five times in two scenes, and
+  six "Kayblis corpse"-shaped ones before that.
+- **A name written twice at once**, transliterated and translated: "his By
+  Road-road" for `バイ・ロード`, twice in one scene.
+- **The digit rule inside the ■歴史枠 chronology.** Seven lines of `033026`
+  spell out `１００万`, `第１次`, `３年前`, `４体`, `２年`, `４年` and `１０年`.
+  They need a pass that can lay that table out.
+- **Small things mendable in place when a wave reaches them**: a Japanese `っ`
+  in an English cell (~15 rows), `へ？` as "He?" (5), a doubled space inside a
+  sentence (5), a sentence whose tail is cut off, a stray mark before punctuation
+  ("Rance Jr.-sama.!", "his girlfriend?.").

@@ -147,6 +147,13 @@ rewritten to read better is a scene nobody can review.
 Most scenes should come back with nothing in them, or with one line. That is the
 expected answer, not a failure to find anything.
 
+**Read \`docs/scene-review-brief.md\` once before your first scene.** This page
+carries what belongs to a scene; that one carries what belongs to the corpus --
+the classes that have been counted across all 5433 of them, the shape an
+honorific takes when it lands on a noun, and the dozen things reviewers keep
+reporting that are the house style rather than a fault. It is not repeated here
+because it is the same four kilobytes every time.
+
 ## Send back only the speeches you are changing
 
 One line per correction -- the number, a tab, the whole corrected speech, a tab,
@@ -824,6 +831,40 @@ export const appendReviewed = async (lang, row) => {
     const line = [row.fileName, row.date, row.speeches, row.applied, row.refused, row.held, row.by]
         .join("\t");
     await fs.writeFile(file, head.endsWith("\n") ? head + line + "\n" : `${head}\n${line}\n`, "utf-8");
+};
+
+/**
+ * The scenes a reviewer refused to read, and why.
+ *
+ * A third ledger beside the other two, and committed for the third time for the
+ * same reason: a refusal is a fact about the scene rather than about the run.
+ * Its prompt stays in build/scene-review/ unanswered for ever, so every deal of
+ * the pending prompts would hand it out again -- and `build/` is documented as
+ * safe to delete, so a skip list kept there is a skip list that comes back
+ * empty one morning with nothing to say it ever had rows.
+ *
+ * Nothing takes a row out again. A scene whose refusal was a misreading is
+ * answered by deleting its row deliberately, which is a commit somebody can
+ * see, rather than by a script quietly re-dealing it.
+ */
+export const DECLINED = "declined.tsv";
+
+/** @return {Promise<Set<string>>} the scene ids, `030599` rather than `030599.tsv`. */
+export const readDeclined = async (lang) => {
+    const text = await fs.readFile(path.join(textLangDir(lang), DECLINED), "utf-8").catch(error => {
+        if (error.code === "ENOENT") {
+            return "";
+        }
+        throw error;
+    });
+    const ids = new Set();
+    for (const line of text.split(/\r?\n/)) {
+        if (!line.trim() || line.startsWith("#")) {
+            continue;
+        }
+        ids.add(stem(line.split("\t")[0]));
+    }
+    return ids;
 };
 
 /**
