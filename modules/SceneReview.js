@@ -152,7 +152,7 @@ carries what belongs to a scene; that one carries what belongs to the corpus --
 the classes that have been counted across all 5433 of them, the shape an
 honorific takes when it lands on a noun, and the dozen things reviewers keep
 reporting that are the house style rather than a fault. It is not repeated here
-because it is the same four kilobytes every time.
+because it is the same ten kilobytes every time.
 
 ## Send back only the speeches you are changing
 
