@@ -2811,6 +2811,17 @@ s[8736] = "Quelplan?"
 ; that leaves. "(turn %d) complete" is 1121, wider even than the Japanese.
 s[3500] = "%s (turn %d) over"
 
+; The line-break separator this screen and DialogScenes::RunImageDialog split on,
+; and the last of the three that still held the letter. String.Split takes a set
+; of characters rather than a delimiter, so "|r" broke on every r of the English
+; as well: "HP and skill uses|are restored|Yay!" was drawn as six lines, four of
+; them fragments, and the war report broke inside "under" and "Monster". CR takes
+; the letter out of the set and leaves | alone, which is what s[2527] and s[3717]
+; have said for years -- nothing else in the .ain pushes this slot, so no lookup
+; and no comparison moves with it. Every line that means a break here already
+; writes it as \r. docs/r-line-breaks.md.
+s[3501] = "|\r"
+
 ; AdvNamePlate@InnerCreate -- the name over El Mofus's portrait
 ;
 ; The player names the protagonist of the second half at the エール入力画面, and
