@@ -24,13 +24,11 @@
  * named scene function -- the one that is not is the engine's own empty m[1] --
  * and 5433 functions hold them.
  *
- * The dump has to be the macro form, `alice ain dump -c`. The -C --no-macros
- * form other scripts use writes operands as slot numbers, which is what
- * scripts/extract_enemy_info.js wants and exactly wrong here: it turns the
- * portrait into an integer that would need joining back through the text dump
- * to say a name. It is also 78 MB against 60. Either way the dump is a
- * by-product, written into build/ and regenerated in about three seconds, so
- * nothing here reads a file anybody has to keep.
+ * The dump has to be the macro form, `alice ain dump -c`, which is what
+ * modules/CodeDump.js produces. The -C --no-macros form other scripts use
+ * writes operands as slot numbers, which is what scripts/extract_enemy_info.js
+ * wants and exactly wrong here: it turns the portrait into an integer that
+ * would need joining back through the text dump to say a name.
  *
  * Two things this deliberately does not carry. The background and the music --
  * ■背景, ■音楽 -- are pushed the same way and could be had for free, but they
@@ -41,14 +39,8 @@
  * translated.
  */
 import * as fs from "fs/promises";
-import * as path from "path";
-import {AIN} from "./AinFiles.js";
-import {alice} from "./AliceTools.js";
-import {BUILD} from "./Env.js";
+import {CODE_JAM, ensureCodeDump} from "./CodeDump.js";
 import {createNameplateResolver} from "./Nameplates.js";
-
-/** The code dump, written here rather than kept: see the header. */
-export const CODE_JAM = path.join(BUILD, "Rance10.v1.04.code.jam");
 
 /**
  * A speech bubble with a portrait behind it. ●中台詞Ｂ, ●台詞Ａ, ●右思考Ｂ and
@@ -90,30 +82,6 @@ const ROUTE_FLAG = /^S_PUSH "主人公は(男|女)"$/;
 
 /** "0xa968ae:" -- where a branch begins and where the jump past it lands. */
 const LABEL = /^(0x[0-9a-f]+):$/;
-
-/**
- * Produce the code dump if build/ does not already have one.
- *
- * Kept rather than re-dumped every run because three seconds is three seconds,
- * and thrown away by deleting build/. A game version bump cannot be served a
- * stale one silently: it moves every line number, and modules/LineNumbers.js is
- * what would notice.
- */
-const ensureCodeDump = async () => {
-    try {
-        await fs.access(CODE_JAM);
-        return false;
-    } catch (error) {
-        if (error.code !== "ENOENT") {
-            throw error;
-        }
-    }
-    const status = alice(["ain", "dump", "-c", "-o", CODE_JAM, AIN]);
-    if (status !== 0) {
-        throw new Error(`alice ain dump -c failed with status ${status}`);
-    }
-    return true;
-};
 
 /**
  * Every scene that holds a line of dialogue, in the order the .ain defines them.
