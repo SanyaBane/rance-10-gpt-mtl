@@ -448,12 +448,12 @@
 202189	Lelikov Helman		「はむもぐ、ごく、ガツガツガツ！」	「Ham munch, gulp, chomp chomp chomp!」
 
 > male
-202190	Hero Helman		「うん！　美味しい！	「Yeah! Delicious!
-202191	+		　＜エール＞にーちゃんのお弁当美味しいよ！」	　＜エール＞ big brother's lunch box is delicious!」
+202190	Hero Helman		「うん！　美味しい！	「Yeah! Delicious! ＜エール＞-niichan's
+202191	+		　＜エール＞にーちゃんのお弁当美味しいよ！」	　lunch box is delicious!」
 
 > female
-202192	Hero Helman		「うん！　美味しい！	「Yeah! Delicious!
-202193	+		　＜エール＞ねーちゃんのお弁当美味しいよ！」	　＜エール＞ big sister's lunch box is delicious!」
+202192	Hero Helman		「うん！　美味しい！	「Yeah! Delicious! ＜エール＞-neechan's
+202193	+		　＜エール＞ねーちゃんのお弁当美味しいよ！」	　lunch box is delicious!」
 
 > end
 202194	Lelikov Helman	きゃはは！	「ぷはーっ、ごちそうさまでした！」	「Pwah~! Thank you for the meal!」
@@ -472,9 +472,9 @@
 202202	+		レリコフは後ろ向きに雲の地面に	meal, Lelikov flopped
 202203	+		ごろーんと寝転がった。	backward onto the cloud ground.
 
-202204	Hero Helman		「あーっ、レリコフー。	「Ah~, Lelikov.
-202205	+		　食べた後すぐ寝るとうしさんになっちゃうよ。	　If you sleep right after eating you'll turn into a cow.
-202206	+		　……へへっ、って言いながらオイラもー」	　...Hehe, Hero said while flopping down too.」
+202204	Hero Helman		「あーっ、レリコフー。	「Ah~, Lelikov. If you sleep right
+202205	+		　食べた後すぐ寝るとうしさんになっちゃうよ。	　after eating you'll turn into a cow.
+202206	+		　……へへっ、って言いながらオイラもー」	　...Hehe, and here I am doing it too~」
 
 202207	Lelikov Helman		「えへへへ、＜エール＞ー。	「Ehehehe, ＜エール＞-.
 202208	+		　また今度、ご飯作ってね」	　Make food for us again next time.」
