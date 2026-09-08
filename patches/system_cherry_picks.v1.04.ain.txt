@@ -1,5 +1,13 @@
-; note: "r" character is apparently interpreted as line break. Nothing smarter than always replacing it with "R" did not come to my mind yet. Unicode characters don't compile it seems
-; upd.: nowadays it should be good
+; The letter r is the game's own line-break marker -- free in Japanese, where
+; there are no Latin letters, and unaffordable in English. It is not compiled in:
+; thirteen places read it, and between them they push three string slots, all
+; three of which this file now overrides with CR so that the letter is an
+; ordinary letter again. s[2527] "r", s[3501] "|r", s[3717] "r|"; each is beside
+; the function that pushes it, and docs/r-line-breaks.md is the whole of it.
+;
+; So write a line break as \r, which is CR and which every path here draws. The
+; capital-R workaround this note used to describe -- "Repelled", "Reinforcements"
+; -- is no longer needed and is no longer in the file.
 
 ; The enemy status lines -- the four hints under an enemy's stats in battle --
 ; used to be picked out one at a time here, which left the same line translated

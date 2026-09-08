@@ -400,6 +400,20 @@ feature on would put the Japanese back. Both files hold the same body between
 marked regions and `modules/CardBack.js` compares them at the start of every
 build. Before adding a third patch to a function, check what already owns it.
 
+**And sometimes the shared slot is the fix rather than the hazard.** The game's
+line-break marker is the ASCII letter `r` — free in Japanese, where there are no
+Latin letters, and unaffordable in English: `String.Split` takes a *set* of
+characters, so `"|r"` broke `"HP and skill uses|are restored|Yay!"` into six
+lines. But the separator is not compiled in. Thirteen places read it and they
+push three slots between them — `s[2527]`, `s[3501]`, `s[3717]` — and nothing
+else in the `.ain` pushes any of the three, so cherry-picking each as CR takes
+the letter out of the set with no `.jam` and no change to a single line of text.
+Two had been that way for years, which is why the fault showed on some screens
+and not others; the third was found by asking the question of all thirteen at
+once. A break is written `\r` from then on. `scripts/find_r_breaks.js` says
+which separators are open, and `docs/r-line-breaks.md` says why the marker is a
+letter rather than the CR the dumps make it look like.
+
 ## Some Japanese is data wearing the clothes of text
 
 - A card's `Id` and a character's `識別名` are the keys a save file stores rank
