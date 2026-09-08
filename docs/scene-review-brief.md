@@ -55,6 +55,12 @@ Japanese term rendered the same wrong way -- file **one** row for the first
 occurrence and name the other m[] numbers in the reason. A sweep is keyed on the
 Japanese and finds them all either way.
 
+**That is for `name:` alone.** A `meaning:` or `english:` correction is written
+into the patch by the number it names and by nothing else, so a repeat filed in
+somebody else's reason is a repeat left in the game. One reviewer collapsed four
+`お姉様` into one row and the report then said four lines were mended where three
+still read "Big Sister". Write a row per line, however alike they are.
+
 ## Honorifics
 
 The scene prompt says they are corrected on sight and that no English title is
@@ -79,9 +85,17 @@ invented for them. What it does not say is where the suffix goes.
 - **A bare kinship vocative, or a generic title whose base noun the corpus has
   not settled, is `name:`** -- `姉さん`, `姐さん`, `兄さん`, `おにーちゃん`,
   `じいさま`, `アニキ`, `お婆様`, `婿殿`, `姫様`, `お義姉ちゃん`, `巫女様`,
-  `天女様`, `騎士様`, `主君どの`. That last one is the worked example: the
-  corpus says "my Liege" ten times and "my lord" three lines further down the
-  same scene, so there is nothing yet to hang the -dono on.
+  `天女様`, `騎士様`, `主君どの`, `父様`, `母様`. That third from last is the
+  worked example: the corpus says "my Liege" ten times and "my lord" three lines
+  further down the same scene, so there is nothing yet to hang the -dono on.
+- **A form the corpus has none of is not a form you may write.** The test is a
+  count, and it is one line: `(cd text_languages/en_grok/scenes && grep -ro
+  "Mother-sama" . | wc -l)`. `父様や母様、兄様や姉様` came back as "Father-sama,
+  Mother-sama, Nii-sama, and Onee-sama" -- and Nii-sama and Onee-sama are settled
+  83 and 33 times while "Father-sama" is there once and "Mother-sama" never. Mend
+  the half the corpus has settled and send the other half to the sweep; a
+  sentence that is half mended and half held is the right answer, because what
+  makes the two halves agree is a sweep and not a scene.
 
 ## Pronouns, beyond what the prompt asks
 
