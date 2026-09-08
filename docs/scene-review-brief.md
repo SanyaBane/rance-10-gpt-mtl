@@ -15,8 +15,8 @@ It lives here rather than inside `renderReviewPrompt` because it is the same
 ten kilobytes for every scene: pasted into 45 prompts a wave it is half a
 megabyte nobody reads twice, and read once per reviewer it is 96 KB. It is a
 file rather than something an orchestrator types out because a rule learned in
-one session and typed from memory in the next is a rule that quietly drifts -- which is the
-same argument `text_languages/<lang>/held.tsv` exists for one level down.
+one session and typed from memory in the next is a rule that quietly drifts --
+which is the same argument `text_languages/<lang>/held.tsv` exists for one level down.
 
 ## The answer file, and the five ways it has been got wrong
 
