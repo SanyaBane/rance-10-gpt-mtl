@@ -117,9 +117,30 @@ made of that slot.
   marker. That guard is asked of the Japanese only: intent is what it measures,
   and what the game does to the English is every `r` there is.
 
-Two things it does not answer. It says nothing about `archives/`, where the same
-marker lives in four tables and only `11_スキルデータ.x` was ever converted --
-`5_クエストデータ.x` had the marker in 671 fields and its English has none, so
-669 quest-branch labels lost a break somewhere in the translation and nobody has
-looked. And it cannot tell an intended break from an accident in a line that
-never had a Japanese counterpart, which is why the walk half exists.
+One thing it does not answer: it cannot tell an intended break from an accident
+in a line that never had a Japanese counterpart, which is why the walk half
+exists.
+
+## The `.ex` side was already converted, in two different ways
+
+The same marker lives in four tables of `Rance10EX.ex`, and all four are past it
+-- counted against the game's own copy in `game/ex/`, which is the only place
+their Japanese survives:
+
+| Table | Marker fields in the game | What ours holds |
+|---|---|---|
+| `11_スキルデータ.x` | 776 | 781 fields with `\r` |
+| `5_クエストデータ.x` | 671 | 824 fields with `\n` |
+| `43_秘書データ.x` | 325 | 335 fields with `\n` |
+| `41_識別名情報.x` | 11 | the same 11, still Japanese |
+
+Two conventions rather than one, and both work: `\r` is CR, which is what the
+separators were rewritten to, and `\n` is LF, which the text part draws whatever
+any separator says. So a skill description breaks because its marker was
+translated into the separator, and a quest-branch label breaks because its
+marker was translated into the newline underneath -- neither needs the other.
+
+The eleven left are `41_識別名情報.x`'s untranslated placeholder,
+`特殊カードの説明r後でここに入れますr種類別にいろいろrかくのよー`, which is a note to a
+developer and is not drawn. It stopped breaking when `s[2527]` was closed in
+2025-11-27 and nothing noticed, which is the measure of how much it matters.
