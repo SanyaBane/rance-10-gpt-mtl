@@ -6403,7 +6403,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "レリコフ",
-					説明 = "Heartbeat (nervous/excited)",
+					説明 = "Heart-pounding",
 				},
 			},
 		},
