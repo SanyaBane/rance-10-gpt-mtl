@@ -813,7 +813,7 @@ s[4028] = "Physical Boost"
 s[4029] = "Magic Boost"
 s[4030] = "EXP Gain"
 s[4031] = "Boost Items ★"
-s[4032] = "Rare Luck Up"
+s[4032] = "Rare Card Rate+"
 s[4033] = "Hanny Zippo"
 s[4034] = "All-Stat Up"
 s[4035] = "Stat Cap Up"
@@ -2506,7 +2506,7 @@ s[8356] = "Useless Queen"
 s[8361] = "Quiet Pope"
 
 ; 610 / General Tiger / After Battle
-s[8366] = "Heal her"
+s[8366] = "Heal him"
 
 ; 610/Gate Destroyed
 s[8370] = "Insert the last orb"
@@ -2592,7 +2592,7 @@ s[8451] = "Thank you for helping me"
 s[8453] = "Who's that?"
 
 ; 611 / Recover / Continue the adventure
-s[8454] = "There's still something I can do"
+s[8454] = "There's still something we can do"
 s[8455] = "I want to win this time"
 s[8456] = "I don't want to give up"
 s[8457] = "If we get stronger, we can win"

@@ -65,9 +65,9 @@
 
 233709	Yamamoto Rangi	説明するよ	「まず、魔剣カオスの所在について話しておこうか」	「First, allow me to explain the current whereabouts of the Demon Sword Chaos.」
 
-233710	Yamamoto Rangi	基本	「魔剣カオスとは今＜エール＞が持っている	「Along with the Holy Sword Nikkou that ＜エール＞ currently wields,
-233711	+		　聖刀日光と同じく、この世で唯一	　the Demon Sword Chaos is the only other weapon in the entire world
-233712	+		　魔人、魔王に対抗できる武器のこと」	　capable of combating Fiends and the Demon King.」
+233710	Yamamoto Rangi	基本	「魔剣カオスとは今＜エール＞が持っている	「Along with the Holy Sword Nikkou that ＜エール＞ currently
+233711	+		　聖刀日光と同じく、この世で唯一	 wields, the Demon Sword Chaos is the only other weapon
+233712	+		　魔人、魔王に対抗できる武器のこと」	　in the entire world capable of combating Fiends and the Demon King.」
 
 233713	Yamamoto Rangi		「既に聖刀日光を擁しているとは言え……	「Even though we already possess Nikkou...
 233714	+		　魔王に対抗する武器は一つでも多い方がいい。	　the more weapons we have against the Demon King, the better.
@@ -89,15 +89,15 @@
 233725	Yamamoto Rangi		「その際に岩に突き刺さり、	「When it landed, it drove deep into an enormous boulder,
 233726	+		　常人には簡単に抜けない状態に陥り――」	　becoming lodged in a state where ordinary folk could not possibly pull it free—」
 
-233727	Yamamoto Rangi		「少し馬鹿馬鹿しい話だが……	「It sounds somewhat comical, but
-233728	+		　この岩は皆が引き抜こうとチャレンジする	　that very stone ended up becoming a famous tourist attraction
+233727	Yamamoto Rangi		「少し馬鹿馬鹿しい話だが……	「It sounds somewhat comical, but that very stone
+233728	+		　この岩は皆が引き抜こうとチャレンジする	　ended up becoming a famous tourist attraction
 233729	+		　有名な観光名所となっていたらしい」	　where challengers from all over gather to test their might.」
 
 233730	Reset Kalar		「で、ここからが本題」	「And here is where it gets interesting!」
 
-233731	Reset Kalar	口開き	「なんと闘神都市がその岩ごとカオスを買い取って、	「Amazingly, the government of Toushin City bought out the entire boulder, sword and all,
-233732	+		　毎年闘神都市で行われる	　making it the bonus prize for their annual martial arts clash,
-233733	+		　武闘大会、闘神大会の副賞としちゃったの」	　the Toushin Tournament!」
+233731	Reset Kalar	口開き	「なんと闘神都市がその岩ごとカオスを買い取って、	「Amazingly, the government of Toushin City bought out
+233732	+		　毎年闘神都市で行われる	　the entire boulder, sword and all, making it the bonus prize
+233733	+		　武闘大会、闘神大会の副賞としちゃったの」	 for their annual martial arts clash, the Toushin Tournament!」
 
 233734	Masou Shizuka	基本	「副賞？」	「A bonus prize?」
 

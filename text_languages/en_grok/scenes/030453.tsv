@@ -9,119 +9,119 @@
 * Samezan	サメザン	Female
 * Sill Plain	シィル	Female
 
-7948	-		ランス城付近に現れた魔軍の部隊を、	The Monster Army unit that appeared near Rance Castle
-7949	+		ランス達は迎撃に出ていた。	was intercepted by Rance and the others.
+7948	-		ランス城付近に現れた魔軍の部隊を、	A detachment of the Monster Army appeared near Rance Castle,
+7949	+		ランス達は迎撃に出ていた。	and Rance's party set out to intercept them.
 
-7950	Rance	怒り	「がーーー、この雑魚どもッ！」	「Gaaaah, you small fries!」
+7950	Rance	怒り	「がーーー、この雑魚どもッ！」	「Gaaah! Out of my way, you small fry!」
 
-7951	Green Monster Soldier	基本	「がは、っ……！」	「Gaha...!」
+7951	Green Monster Soldier	基本	「がは、っ……！」	「Gaha...kgh...!」
 
-7952	Galtia	戦闘時使徒なし	「悪いな、死んでくれ」	「Sorry, die for me.」
+7952	Galtia	戦闘時使徒なし	「悪いな、死んでくれ」	「Sorry about this. Just die for me, will you?」
 
-7953	-		踊るような足捌きで、	With dancing footwork,
-7954	+		魔人ガルティアが敵を斬り刻む。	the Fiend Galtia sliced through the enemies.
+7953	-		踊るような足捌きで、	With swift, dance-like footwork,
+7954	+		魔人ガルティアが敵を斬り刻む。	the Fiend Galtia cleaved through the enemy ranks.
 
 7955	Galtia		「サメザン！」	「Samezan!」
 
-7956	-		サメザンに肩口を掴ませて、	Letting Samezan's claws grab his shoulder,
-7957	+		一度大空に舞い上がってから、魔軍に強襲をかける。	he soared into the sky once before launching a fierce assault on the Monster Army.
+7956	-		サメザンに肩口を掴ませて、	Allowing Samezan's talons to grasp his shoulders,
+7957	+		一度大空に舞い上がってから、魔軍に強襲をかける。	he soared high into the sky before executing a devastating dive attack upon the Monster Army.
 
-7958	Monster Captain	基本	「ひっ、ひいいいいっ……！」	「Hii, hiiiiii...!」
+7958	Monster Captain	基本	「ひっ、ひいいいいっ……！」	「Heeek, heeeeeeeek...!」
 
-7959	Rance	笑顔	「がはははは、いいそいいぞ。	「Gahahahaha, good good.
-7960	+		　しっかり働け、下僕」	　Work hard, my servant.」
+7959	Rance	笑顔	「がはははは、いいそいいぞ。	「Gahahahaha! That is it, keep it up!
+7960	+		　しっかり働け、下僕」	　Put your back into it, minion!」
 
-7961	Kentou Kanami	基本	「ランス。だいたい片付いたわ」	「Rance. It's mostly cleaned up.」
+7961	Kentou Kanami	基本	「ランス。だいたい片付いたわ」	「Rance, that is just about the last of them.」
 
-7962	Rance		「ようし、決まった。帰るぞー」	「Alright, settled. Let's head backー.」
+7962	Rance		「ようし、決まった。帰るぞー」	「All right, wrap it up! We are heading back!」
 
-7963	Kentou Kanami~	ジト目	（あれ……魔軍の死体の数……	（Huh... The number of Monster Army corpses...
-7964	+		　なんかちょっと少ないような……？）	　seems a bit low...?）
+7963	Kentou Kanami~	ジト目	（あれ……魔軍の死体の数……	(Wait... The number of Monster Army corpses...
+7964	+		　なんかちょっと少ないような……？）	　does it not seem a little low...?)」
 
-7965	Rance	真剣	「は……？　異臭騒ぎ？」	「Ha...? Strange smell commotion?」
+7965	Rance	真剣	「は……？　異臭騒ぎ？」	「Hah...? A commotion over a foul stench?」
 
-7966	Cream Ganoblade	基本	「はい。妙なものの匂いが、	「Yes. A strange smell,
-7967	+		　城にまで流れてきてるとか」	　is apparently drifting all the way to the castle.」
+7966	Cream Ganoblade	基本	「はい。妙なものの匂いが、	「Yes. A bizarre and putrid odor
+7967	+		　城にまで流れてきてるとか」	　is reportedly drifting all the way into the castle.」
 
-7968	Rance	真剣	「…………ふん。おーい、ビスケッタさん」	「............Hmph. Hey, Biscuitta-san.」
+7968	Rance	真剣	「…………ふん。おーい、ビスケッタさん」	「............Hmph. Haaay, Biscuitta-san!」
 
-7969	Biscuitta Burns	基本	「お呼びでしょうか」	「You called?」
+7969	Biscuitta Burns	基本	「お呼びでしょうか」	「You summoned me, Master?」
 
-7970	Rance	真剣	「異臭騒ぎとやら、知ってたか？」	「Did you know about this strange smell commotion?」
+7970	Rance	真剣	「異臭騒ぎとやら、知ってたか？」	「Do you know anything about this stench everyone is talking about?」
 
-7971	Biscuitta Burns	基本	「はい、一応は。城内は当たりましたが、	「Yes, more or less. I checked inside the castle,
-7972	+		　これといって怪しいものは」	　but there was nothing particularly suspicious.」
+7971	Biscuitta Burns	基本	「はい、一応は。城内は当たりましたが、	「Yes, to a degree. I searched the castle grounds,
+7972	+		　これといって怪しいものは」	　but found nothing particularly suspicious within the walls.」
 
-7973	Biscuitta Burns		「裏山を抜けた辺りですね、	「The source seems to be beyond
-7974	+		　異臭の根元は」	　the mountain behind the castle.」
+7973	Biscuitta Burns		「裏山を抜けた辺りですね、	「It appears the source of the foul odor
+7974	+		　異臭の根元は」	　originates somewhere beyond the mountain behind the castle.」
 
-7975	Rance		「よーしありがとう。	「Alright, thanks.
-7976	+		　何があるか分からんからな……	　We don't know what's there...
-7977	+		　ちょっと見に行ってやるか」	　I'll go check it out.」
+7975	Rance		「よーしありがとう。	「All right, thanks.
+7976	+		　何があるか分からんからな……	　No telling what might be out there...
+7977	+		　ちょっと見に行ってやるか」	　I suppose I will go take a look myself.」
 
-7978	-		――――裏山の、一角。	――――A corner of the mountain behind the castle.
+7978	-		――――裏山の、一角。	—In a remote corner of the mountain behind the castle...
 
-7979	Rance	怒り	「な、なんじゃこりゃーーーーーーーっ！」	「W-What the hell is thiiiiis!」
+7979	Rance	怒り	「な、なんじゃこりゃーーーーーーーっ！」	「W-WHAT IN THE LIVING HELL IS THIIIIIIIS?!」
 
-7980	Kentou Kanami	基本	「あ、あの串刺しになってるの……	「Ah, those skewered things...
-7981	+		　もしかして、ま、魔物兵……？」	　Could they be monster soldiers...?」
+7980	Kentou Kanami	基本	「あ、あの串刺しになってるの……	「A-All those skewered bodies...
+7981	+		　もしかして、ま、魔物兵……？」	　A-Are those monster soldiers...?!」
 
-7982	Galtia	基本使徒なし	「あー。サメザンだなこれは」	「Aah. This is Samezan's doing.」
+7982	Galtia	基本使徒なし	「あー。サメザンだなこれは」	「Ah. Yep, this is definitely Samezan's doing.」
 
-7983	Rance	真剣	「あーっと……お前の使徒のか？」	「Uhh... Your servant's?」
+7983	Rance	真剣	「あーっと……お前の使徒のか？」	「Wait... You mean your Apostle did this?」
 
-7984	Galtia	基本使徒なし	「ああ。サメザンは狩りに成功すると、	「Yeah. When Samezan succeeds in a hunt,
-7985	+		　こうやって保管しとくんだよ」	　she stores them like this.」
+7984	Galtia	基本使徒なし	「ああ。サメザンは狩りに成功すると、	「Yeah. Whenever Samezan successfully hunts prey,
+7985	+		　こうやって保管しとくんだよ」	　she stores it all up like this.」
 
-7986	Kentou Kanami	ジト目	「ほ、保管……」	「St-storing...」
+7986	Kentou Kanami	ジト目	「ほ、保管……」	「S-Stores it...?」
 
-7987	Samezan	基本	「………………ピィ！」	「............Pii!」
+7987	Samezan	基本	「………………ピィ！」	「............*Pii!*」
 
-7988	-		サメザンがガルティア達に気づいて、	Noticing Galtia and the others, Samezan
-7989	+		急いで飛んできた。	hurriedly flew over.
+7988	-		サメザンがガルティア達に気づいて、	Spotting Galtia and the group, Samezan
+7989	+		急いで飛んできた。	hurriedly fluttered down to them.
 
-7990	Galtia	基本使徒なし	「また溜め込んだなあ、サメザン」	「You've stockpiled again, Samezan.」
+7990	Galtia	基本使徒なし	「また溜め込んだなあ、サメザン」	「You have been stockpiling quite a hoard again, Samezan.」
 
-7991	Samezan	基本	「ピイッ！　ピイイイィッ！」	「Pii! Piiii!」
+7991	Samezan	基本	「ピイッ！　ピイイイィッ！」	「*Pii! Piiiiii!*」
 
-7992	-		朗らかに笑うガルティアを、	Samezan repeatedly poked
-7993	+		サメザンは何度も突いて追い出そうとする。	the cheerfully laughing Galtia, trying to drive him away.
+7992	-		朗らかに笑うガルティアを、	Samezan repeatedly pecked and nudged
+7993	+		サメザンは何度も突いて追い出そうとする。	at the cheerfully laughing Galtia, desperately trying to shove him away.
 
-7994	Galtia	基本使徒なし	「恥ずかしがることないだろ。ははは」	「No need to be embarrassed. Hahaha.」
+7994	Galtia	基本使徒なし	「恥ずかしがることないだろ。ははは」	「There is no need to be so embarrassed. Hahaha.」
 
-7995	Kentou Kanami	混乱	「恥ずかしがってるのこれ！？」	「This is embarrassment!?」
+7995	Kentou Kanami	混乱	「恥ずかしがってるのこれ！？」	「THAT is supposed to be embarrassment?!」
 
-7996	Rance	だる顔	「悪夢みたいな地獄絵図を作っといて……」	「Creating a hellish nightmare scene...」
+7996	Rance	だる顔	「悪夢みたいな地獄絵図を作っといて……」	「She builds a nightmarish hellscape of gore and gets shy about it...?」
 
-7997	Galtia	基本使徒なし	「魔法冷蔵庫に食材を溜めるみたいなもので……	「It's like stockpiling ingredients in a magic refrigerator...
-7998	+		　いたた、はいはい分かった、退散するよ」	　Ouch, okay okay, I get it, we're leaving.」
+7997	Galtia	基本使徒なし	「魔法冷蔵庫に食材を溜めるみたいなもので……	「It is pretty much like stocking groceries in a magic refrigerator...
+7998	+		　いたた、はいはい分かった、退散するよ」	　Ow-ow-ow, all right, all right, I get it, we are leaving!」
 
-7999	Samezan	基本	「ピイイイ！」	「Piiii!」
+7999	Samezan	基本	「ピイイイ！」	「*Piiii!*」
 
-8000	Rance	真剣	「やれやれ……えぐいものを見た。	「Good grief... I saw something gruesome.
-8001	+		　片付けさせろよ、いいな」	　Make them clean it up, alright?」
+8000	Rance	真剣	「やれやれ……えぐいものを見た。	「Good grief... What a revolting sight to stumble upon.
+8001	+		　片付けさせろよ、いいな」	　Make sure she cleans this mess up, got it?」
 
-8002	Galtia	基本使徒なし	「まあ、そのうち食うだろ」	「Well, she'll eat them eventually.」
+8002	Galtia	基本使徒なし	「まあ、そのうち食うだろ」	「Well, she will get around to eating them sooner or later.」
 
-8003	Sill Plain	慌て	「あっ、ランス様！	「Ah, Rance-sama!
-8004	+		　また魔軍の方々が攻めて来たそうですよ！	　The Monster Army forces have attacked again!
-8005	+		　ウルザさんたちが迎撃をと……」	　Urza-san and the others are intercepting them...」
+8003	Sill Plain	慌て	「あっ、ランス様！	「Aah, Rance-sama!
+8004	+		　また魔軍の方々が攻めて来たそうですよ！	　Word has arrived that the Monster Army is attacking again!
+8005	+		　ウルザさんたちが迎撃をと……」	　Urza-san and the vanguard are currently moving to intercept them...!」
 
-8006	Rance	真剣	「なんだと？　ちっ、しょうがない……」	「What? Tch, can't be helped...」
+8006	Rance	真剣	「なんだと？　ちっ、しょうがない……」	「Say what? Tch, no rest for the wicked...」
 
-8007	Samezan	基本	「ピイイイイイイィィィ……！」	「Piiiiiiiiii...!」
+8007	Samezan	基本	「ピイイイイイイィィィ……！」	「*PIIIIIIIIIIIIIIII...!*」
 
 8008	Kentou Kanami		「あっ…………」	「Ah............」
 
-8009	-		サメザンがランスの頭上を飛び越えて、	Samezan flew over Rance's head,
-8010	+		迎撃地点へと消えていく。	and disappeared toward the interception point.
+8009	-		サメザンがランスの頭上を飛び越えて、	Samezan swooped right over Rance's head
+8010	+		迎撃地点へと消えていく。	and vanished toward the interception point.
 
-8011	Galtia	基本使徒なし	「おっ、サメザンも見つけたか。	「Oh, Samezan found them too.
-8012	+		　やる気あるねぇ」	　She's motivated.」
+8011	Galtia	基本使徒なし	「おっ、サメザンも見つけたか。	「Oh, looks like Samezan spotted them too.
+8012	+		　やる気あるねぇ」	　She is certainly eager.」
 
-8013	Rance	怒り	「こらーーーーーーーーー！！	「Heyyyyyyyy!!
-8014	+		　この鳥！　グロいコレクションを	　You bird! Don't expand
-8015	+		　これ以上充実させるんじゃねーー！」	　that gross collection any further!」
+8013	Rance	怒り	「こらーーーーーーーーー！！	「HEY, YOUUUUUUUUU!!
+8014	+		　この鳥！　グロいコレクションを	　Stupid bird! Do NOT go adding any more corpses
+8015	+		　これ以上充実させるんじゃねーー！」	　to that grotesque collection of yours!!」
 
-8016	-		ランス達は慌てて、	Rance and the others hurriedly
-8017	+		その後を追って走り始めた。	ran after them.
+8016	-		ランス達は慌てて、	Rance and the others scrambled in a panic,
+8017	+		その後を追って走り始めた。	racing furiously after her.

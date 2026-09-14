@@ -15,240 +15,240 @@
 * Hero Helman	ヒーロー２	Male
 * El Mofus	エール２	Player's choice
 
-239055	-		魔剣カオスを無事に手に入れたあなた達は	After safely obtaining the demonic sword Chaos,
-239056	+		再度宿屋へ戻ってきていた。	you all returned to the inn once again.
+239055	-		魔剣カオスを無事に手に入れたあなた達は	Having safely secured the Demon Sword Chaos,
+239056	+		再度宿屋へ戻ってきていた。	your party returned once again to the inn.
 
-239057	Zance Leazas	怒り	「ぬっがーーーーーっ！」	「Nugaaaah!」
+239057	Zance Leazas	怒り	「ぬっがーーーーーっ！」	「Ngggaaaaaah!」
 
-239058	-		そしてザンスが叫んでいた。	Zance was shouting.
+239058	-		そしてザンスが叫んでいた。	And right on cue, Zance was roaring at the top of his lungs.
 
-239059	Dark Rance	基本	「いい加減、諦めたらどうだ？	「Why don't you just give up already?
-239060	+		　別にいいだろ、カオスなんて持てなくても」	　It's fine even if you can't hold Chaos.」
+239059	Dark Rance	基本	「いい加減、諦めたらどうだ？	「Why do you not just give it up already?
+239060	+		　別にいいだろ、カオスなんて持てなくても」	　It is not like it matters if you cannot wield Chaos anyway.」
 
-239061	Zance Leazas	不満	「ふっ、ざっ、けるな！	「Don't fuck with me!
-239062	+		　この俺様がーーーーッ！	　This meーーー!
-239063	+		　がー、どんだけ重いんだこいつはー！」	　Gah, how heavy is this thingー!」
+239061	Zance Leazas	不満	「ふっ、ざっ、けるな！	「Quit messing with me!
+239062	+		　この俺様がーーーーッ！	　The Great Zance will not be denied!
+239063	+		　がー、どんだけ重いんだこいつはー！」	　Gaaah, how in the world is this damn thing so heavy?!」
 
-239064	Chaos	基本	「お前さんには儂は持てんよ、ぜーったい。	「I absolutely won't let you hold me.
-239065	+		　だって儂、お前さん特別きらーい」	　Because I really hate you.」
+239064	Chaos	基本	「お前さんには儂は持てんよ、ぜーったい。	「You will never be able to lift me, never ever.
+239065	+		　だって儂、お前さん特別きらーい」	　Because I have a very special hatred reserved just for you.」
 
-239066	Zance Leazas	怒り	「叩き折んぞ、テメェ！」	「I'll snap you in half, you bastard!」
+239066	Zance Leazas	怒り	「叩き折んぞ、テメェ！」	「I will snap you in two, you piece of junk!」
 
 239067	Arms Arc	基本	「ザンス、ザンス。	「Zance, Zance.
-239068	+		　次は私の番だ、私の番」	　It's my turn next, my turn.」
+239068	+		　次は私の番だ、私の番」	　It is my turn next. Let me try.」
 
 239069	-		ザンスとアームズが順番に	Zance and Arms took turns
-239070	+		カオスを持とうと悪戦苦闘していた。	struggling desperately to hold Chaos.
+239070	+		カオスを持とうと悪戦苦闘していた。	desperately struggling to lift Chaos.
 
-239071	Yamamoto Rangi		「しかし……	「However...
-239072	+		　話に聞いていたときはカオスのオーナーは	　From what I heard, I thought the owner of Chaos would be
-239073	+		　ザンスになるかと思っていたが……」	　Zance...」
+239071	Yamamoto Rangi		「しかし……	「Still...
+239072	+		　話に聞いていたときはカオスのオーナーは	　from what we had heard, I assumed Chaos's master
+239073	+		　ザンスになるかと思っていたが……」	　would end up being Zance...」
 
-239074	Yamamoto Rangi	説明するよ	「まさか、＜エール＞が選ばれるとはね」	「I never expected ＜エール＞ to be chosen.」
+239074	Yamamoto Rangi	説明するよ	「まさか、＜エール＞が選ばれるとはね」	「To think that ＜エール＞ was chosen instead.」
 
 239075	Rocky Bank	男泣き	「おおおおおお……	「Ooooooh...
-239076	+		　素晴らしいですだ、＜エール＞様……	　That's wonderful, ＜エール＞-sama...
-239077	+		　おら、もう涙で前が見えませんだ……」	　I can't see anything through my tears...」
+239076	+		　素晴らしいですだ、＜エール＞様……	　That is truly magnificent, ＜エール＞-sama, ya see...
+239077	+		　おら、もう涙で前が見えませんだ……」	　I can hardly see a thing through all my tears, I did...」
 
-239078	Nagata-kun	基本	「ま、ま、ま、＜エール＞なら	「W-well, if it's ＜エール＞
-239079	+		　これくらい楽勝っしょ！」	　this much is a piece of cake!」
+239078	Nagata-kun	基本	「ま、ま、ま、＜エール＞なら	「W-Well, when it comes to ＜エール＞,
+239079	+		　これくらい楽勝っしょ！」	　something like this is a total walk in the park!」
 
-239080	Nagi su Ragarl	帽子なし	「何故、君が誇らしげにするのかね？」	「Why are you looking so proud?」
+239080	Nagi su Ragarl	帽子なし	「何故、君が誇らしげにするのかね？」	「And why, pray tell, are you looking so proud about it?」
 
-239081	Chaos	ため息	「はぁーあー、まさかこんな奴が	「Haaah, I never thought someone like this
-239082	+		　儂の次のオーナーになるとはのー」	　would become my next owner.」
+239081	Chaos	ため息	「はぁーあー、まさかこんな奴が	「*Sigh*... To think a runt like this
+239082	+		　儂の次のオーナーになるとはのー」	　would end up as my next master...」
 
-239083	Nikkou	基本	「愚痴とはらしくないですね」	「Complaining doesn't suit you.」
+239083	Nikkou	基本	「愚痴とはらしくないですね」	「Complaining so openly does not become you.」
 
 239084	Chaos		「うぐっ……	「Ugh...
-239085	+		　日光と同じオーナーってのが……更に……」	　Having the same owner as Nikkou... moreover...」
+239085	+		　日光と同じオーナーってのが……更に……」	　Having the exact same master as Nikkou just adds insult to injury...」
 
-239086	Chaos		「しかし、まさか儂様と日光、	「But to think both me and Nikkou
-239087	+		　二振りのオーナーに正式になる者が出るとは……	　would have a proper owner...
-239088	+		　いずれそんな奴も出るかとは思っとったが……」	　I did think someone like that might appear eventually...」
+239086	Chaos		「しかし、まさか儂様と日光、	「Still, to think someone would officially become
+239087	+		　二振りのオーナーに正式になる者が出るとは……	　the true master of both the Great Chaos and Nikkou...
+239088	+		　いずれそんな奴も出るかとは思っとったが……」	　I figured someone might manage it eventually, but still...」
 
-239089	Chaos		「いったい、こいつは何者なんじゃい？」	「Just who the hell is this kid?」
+239089	Chaos		「いったい、こいつは何者なんじゃい？」	「Just who in the world is this kid anyway?」
 
-239090	Reset Kalar		「＜エール＞・モフスちゃん。	「＜エール＞ Mofus-chan.
-239091	+		　法王クルックーさんとお父さんの子だよ」	　She's the child of Pope Crook-san and her father.」
+239090	Reset Kalar		「＜エール＞・モフスちゃん。	「＜エール＞ Mofus-chan!
+239091	+		　法王クルックーさんとお父さんの子だよ」	　The child of Pope Crook-san and Daddy!」
 
-239092	Chaos	驚き	「ええっ、ら、ランスはともかく、	「Ehh, well Rance aside,
-239093	+		　あの法王の子かい……！」	　she's that Pope's child...!」
+239092	Chaos	驚き	「ええっ、ら、ランスはともかく、	「Eeeh?! S-Setting Rance aside,
+239093	+		　あの法王の子かい……！」	　a child of that Pope...?!」
 
-239094	Chaos	ため息	「んもー、じゃあ尚更やーだー」	「Ugh, then I hate it even moreー」
+239094	Chaos	ため息	「んもー、じゃあ尚更やーだー」	「Good grief, that makes me hate this even more!」
 
-239095	Nagata-kun	基本	「魔剣に嫌われるって何したのお前の母ちゃん……」	「What did your mom do to make the demonic sword hate her...」
+239095	Nagata-kun	基本	「魔剣に嫌われるって何したのお前の母ちゃん……」	「Just what did your mom do to get on a demon sword's bad side...?」
 
-239096	-		それはあなたも預かり知らぬことだった。	That was something even you didn't know.
+239096	-		それはあなたも預かり知らぬことだった。	That was something far beyond even your knowledge.
 
-239097	Chaos		「しかし……おかしいのう……	「However... this is strange...
-239098	+		　儂は本気で嫌がったから、	　I seriously didn't want this,
-239099	+		　普通なら持てん筈だが……」	　normally you shouldn't have been able to pull me...」
+239097	Chaos		「しかし……おかしいのう……	「Still... this makes no sense...
+239098	+		　儂は本気で嫌がったから、	　I was genuinely refusing with all my might,
+239099	+		　普通なら持てん筈だが……」	　so normally nobody should have been able to draw me...」
 
-239100	Masou Shizuka	帽子なし	「ま、＜エール＞ってそんな子よ」	「Well, that's just the kind of kid ＜エール＞ is.」
+239100	Masou Shizuka	帽子なし	「ま、＜エール＞ってそんな子よ」	「Well, that is just the kind of kid ＜エール＞ is.」
 
-239101	Nagi su Ragarl	帽子なし／反省	「＜エール＞は案外美味しいとこ持ってくよねー」	「＜エール＞ sure knows how to snatch the good partsー」
+239101	Nagi su Ragarl	帽子なし／反省	「＜エール＞は案外美味しいとこ持ってくよねー」	「＜エール＞ always has a knack for walking away with the prize~」
 
 239102	Chaos	基本	「あいつと法王の子……」	「That guy's kid with the Pope...」
 
-239103	Chaos		「ああ、うん……さもありなん……」	「Ah, yeah... that makes sense...」
+239103	Chaos		「ああ、うん……さもありなん……」	「Ah, well... I suppose that explains it...」
 
-239104	Chaos		「ま、よっぽど波長が合えばそういうこともあるか」	「Well, if the wavelengths match really well, it can happen.」
+239104	Chaos		「ま、よっぽど波長が合えばそういうこともあるか」	「Well, if our wavelengths happened to align just right, I guess it is possible.」
 
-239105	Nagata-kun		「さて、後残されたのは決勝戦だけだな」	「Alright, the only thing left is the finals.」
+239105	Nagata-kun		「さて、後残されたのは決勝戦だけだな」	「All right, the only thing left now is the grand finals!」
 
-239106	Nagata-kun		「オーブを手に入れて、	「We got the orb,
-239107	+		　魔剣カオスも手に入れて……	　we got the demonic sword Chaos...
-239108	+		　スパーッと優勝してから出て行こうぜ！」	　Let's win the whole thing in one shot and then head out!」
+239106	Nagata-kun		「オーブを手に入れて、	「We secured the orb,
+239107	+		　魔剣カオスも手に入れて……	　we claimed the Demon Sword Chaos...
+239108	+		　スパーッと優勝してから出て行こうぜ！」	　Let us blow through the finals, take the championship, and get out of here!」
 
 239109	Zance Leazas		「…………」	「............」
 
 239110	Zance Leazas	微笑み	「へっ」	「Heh.」
 
-239111	-		ザンスは鼻で笑っていた。	Zance laughed through his nose.
+239111	-		ザンスは鼻で笑っていた。	Zance let out a dismissive snort.
 
 239112	Reset Kalar	基本	「ザンスちゃん？」	「Zance-chan?」
 
-239113	Zance Leazas		「いや、出なくてもいいんじゃねーかってな」	「Nah, I was thinking maybe I don't even need to enter.」
+239113	Zance Leazas		「いや、出なくてもいいんじゃねーかってな」	「Nah, I was just thinking we might not even need to show up.」
 
-239114	Zance Leazas		「もう目当てのもんは手に入れたし、	「I already got what I wanted,
-239115	+		　明日の結果だってもう見えてらぁ」	　and I can already see tomorrow's result.」
+239114	Zance Leazas		「もう目当てのもんは手に入れたし、	「We already got what we came for,
+239115	+		　明日の結果だってもう見えてらぁ」	　and tomorrow's outcome is already in the bag anyway.」
 
-239116	Nagata-kun		「まー、そうだよなー！	「Yeah, that's trueー!
-239117	+		　＜エール＞の勝ちは決まってるよなー！」	　＜エール＞'s victory is already decidedー!」
+239116	Nagata-kun		「まー、そうだよなー！	「Well, that is true!
+239117	+		　＜エール＞の勝ちは決まってるよなー！」	　＜エール＞'s victory is practically guaranteed!」
 
-239118	Reset Kalar		「でも、決勝に出ないわけには……」	「But we can't skip the finals...」
+239118	Reset Kalar		「でも、決勝に出ないわけには……」	「Still, we cannot simply skip the finals...」
 
 239119	-		　	　
-239120	+		　　＜コンコン＞	　　＜Knock knock＞
+239120	+		　　＜コンコン＞	　　＜Knock, knock＞
 
-239121	Nagi su Ragarl	帽子なし	「およ？　誰かお客さん？」	「Oh? A visitor?」
+239121	Nagi su Ragarl	帽子なし	「およ？　誰かお客さん？」	「Oho? Do we have a visitor?」
 
-239122	Sushinu the Gandhi	基本	「あ、行ってくるねー」	「Ah, I'll get itー」
+239122	Sushinu the Gandhi	基本	「あ、行ってくるねー」	「Ah, I will go get it~」
 
-239123	-		部屋の扉がノックされて、スシヌが出迎える。	There was a knock at the door and Sushinu went to answer it.
+239123	-		部屋の扉がノックされて、スシヌが出迎える。	There is a knock at the door, and Sushinu goes to answer it.
 
-239124	Sushinu the Gandhi		「きゃっ！？　わわわわ！？	「Kyaa!? W-w-w-w!?
-239125	+		　あ、は、はい、大丈夫です！」	　Ah, y-yes, it's fine!」
+239124	Sushinu the Gandhi		「きゃっ！？　わわわわ！？	「Eek?! W-W-Wah?!
+239125	+		　あ、は、はい、大丈夫です！」	　A-Ah, y-yes, I am fine!」
 
-239126	Sushinu the Gandhi		「あわわわ、こちらへどうぞぉ」	「Awa wa wa, this way please.」
+239126	Sushinu the Gandhi		「あわわわ、こちらへどうぞぉ」	「A-Awawa, please, right this way!」
 
-239127	Zance Leazas		「アア？　なんだぁ？」	「Aah? What is it?」
+239127	Zance Leazas		「アア？　なんだぁ？」	「Haaah? Who is it?」
 
-239128	Sushinu the Gandhi		「あ、あの、お客さんが来ました」	「U-um, we have a visitor.」
+239128	Sushinu the Gandhi		「あ、あの、お客さんが来ました」	「U-Um, we have a guest...」
 
-239129	Alexander		「失礼する」	「Excuse me.」
+239129	Alexander		「失礼する」	「Pardon the intrusion.」
 
-239130	Zance Leazas		「アア！？　テメェは！」	「Aah!? It's you!」
+239130	Zance Leazas		「アア！？　テメェは！」	「Haaah?! It is you!」
 
 239131	Reset Kalar		「アレキサンダーさん！」	「Alexander-san!」
 
-239132	Hero Helman		「わーい、おじさん、どうしたの？」	「Yay, uncle, what brings you here?」
+239132	Hero Helman		「わーい、おじさん、どうしたの？」	「Yay! Mister, what are you doing here?」
 
-239133	Zance Leazas		「テメェ、懐いてんじゃねーぞ、ヒーロー！」	「Don't get attached to him, Hero!」
+239133	Zance Leazas		「テメェ、懐いてんじゃねーぞ、ヒーロー！」	「Hey, do not go cozying up to him, Hero!」
 
-239134	Hero Helman		「いた、いたたた！	「Ow, ow ow!
-239135	+		　シッポ握らないでよ、にーちゃん！」	　Don't grab my tail, bro!」
+239134	Hero Helman		「いた、いたたた！	「Ow, ow-ow-ow!
+239135	+		　シッポ握らないでよ、にーちゃん！」	　Do not grab my tail, big bro!」
 
 239136	Alexander		「…………」	「............」
 
 239137	Alexander		「……賑やかだな」	「...Quite lively.」
 
-239138	-		表情こそ変わらないものの――	Though his expression didn't change――
-239139	+		巌のような顔の筋肉をほんの少し緩めた、	his rock-like facial muscles loosened just a little,
-239140	+		あなたの目にはそう映った。	or at least that's how it looked to you.
+239138	-		表情こそ変わらないものの――	Though his stone-faced expression did not shift—
+239139	+		巌のような顔の筋肉をほんの少し緩めた、	the craggy muscles of his face relaxed ever so slightly,
+239140	+		あなたの目にはそう映った。	or at least that was how it appeared to you.
 
-239141	Alexander		「存在はもちろん知っていたが、	「I of course knew of your existence,
-239142	+		　あの男の、子供達がいると聞いたのでな……」	　but I heard that man had children...」
+239141	Alexander		「存在はもちろん知っていたが、	「I was naturally aware of your existence,
+239142	+		　あの男の、子供達がいると聞いたのでな……」	　but hearing that the children of that man were all gathered here...」
 
-239143	Alexander		「挨拶に来たのだ」	「So I came to greet you.」
+239143	Alexander		「挨拶に来たのだ」	「I felt compelled to come and greet you in person.」
 
-239144	Alexander		「あの男と戦った者として、	「As someone who fought that man,
-239145	+		　そして、あの男といつか共に戦った者としてな」	　and as someone who once fought alongside him.」
+239144	Alexander		「あの男と戦った者として、	「As one who once crossed blades with that man,
+239145	+		　そして、あの男といつか共に戦った者としてな」	　and as one who later fought alongside him on the battlefield.」
 
-239146	Reset Kalar		「お久し振りです、アレキサンダーさん」	「It's been a while, Alexander-san.」
+239146	Reset Kalar		「お久し振りです、アレキサンダーさん」	「It has been a long time, Alexander-san!」
 
-239147	Masou Shizuka	帽子なし	「先日はどうも」	「Thank you for last time.」
+239147	Masou Shizuka	帽子なし	「先日はどうも」	「Thank you for the other day.」
 
-239148	Nagata-kun	基本	「あ、もしかして、結構知り合い多い？」	「Ah, do you have quite a lot of acquaintances?」
+239148	Nagata-kun	基本	「あ、もしかして、結構知り合い多い？」	「Oh, do you guys have a lot of history with him?」
 
-239149	Reset Kalar		「知り合いは私達と乱義ちゃんと、	「Our acquaintances are us, Rangi-chan,
-239150	+		　お兄ちゃんくらいかな？」	　and big brother I think?」
+239149	Reset Kalar		「知り合いは私達と乱義ちゃんと、	「The ones who know him are us, Rangi-chan,
+239150	+		　お兄ちゃんくらいかな？」	　and our big brother, I think.」
 
-239151	Nagi su Ragarl	帽子なし	「アレキサンダーおじさん有名人だから」	「Alexander uncle is a famous person after all.」
+239151	Nagi su Ragarl	帽子なし	「アレキサンダーおじさん有名人だから」	「Uncle Alexander is a famous celebrity, after all.」
 
 239152	Zance Leazas	基本	「おい、おっさん」	「Hey, old man.」
 
 239153	Alexander		「む」	「Hm.」
 
-239154	Zance Leazas		「お前はいずれ俺の部下にする。	「I'll make you my subordinate someday.
-239155	+		　それまで首を洗って待っとけよ」	　Wash your neck and wait until then.」
+239154	Zance Leazas		「お前はいずれ俺の部下にする。	「I will make you my subordinate one day.
+239155	+		　それまで首を洗って待っとけよ」	　Wash your neck and wait until that day comes!」
 
 239156	Alexander		「…………」	「............」
 
-239157	Alexander		「そうだな、私に圧勝するほど強くなれば、	「Indeed. If you become strong enough to
-239158	+		　私も考えさせてもらおう」	　completely defeat me, I'll consider it then.」
+239157	Alexander		「そうだな、私に圧勝するほど強くなれば、	「Very well. If you grow mighty enough
+239158	+		　私も考えさせてもらおう」	　to defeat me decisively, I shall give it consideration.」
 
-239159	Alexander		「いつでも来てくれて構わない。	「You can come anytime.
-239160	+		　いつ、どこであろうと、挑戦は拒まぬ」	　I won't refuse a challenge no matter when or where.」
+239159	Alexander		「いつでも来てくれて構わない。	「You may come at me whenever you wish.
+239160	+		　いつ、どこであろうと、挑戦は拒まぬ」	　I refuse no challenge, regardless of time or place.」
 
 239161	Zance Leazas		「けっ！」	「Tch!」
 
-239162	Alexander		「＜エール＞・モフスはいるだろうか」	「Is ＜エール＞ Mofus here?」
+239162	Alexander		「＜エール＞・モフスはいるだろうか」	「Is ＜エール＞ Mofus present?」
 
-239163	Nagata-kun		「あ、あ、ここに！」	「Ah, yes, right here!」
+239163	Nagata-kun		「あ、あ、ここに！」	「A-Ah, right over here!」
 
-239164	Alexander		「うむ」	「Yes.」
+239164	Alexander		「うむ」	「I see.」
 
-239165	-		アレキサンダーがあなたの前に立つ。	Alexander stood in front of you.
+239165	-		アレキサンダーがあなたの前に立つ。	Alexander steps forward and stands before you.
 
-239166	-		首を傾けて見上げる。	You tilted your head up to look at him.
-239167	+		こうして目の前にすると、	Up close like this,
-239168	+		身長差がまるで大人と子供だった。	the height difference was like an adult and a child.
+239166	-		首を傾けて見上げる。	You tilt your head back to look up at him.
+239167	+		こうして目の前にすると、	Face-to-face like this,
+239168	+		身長差がまるで大人と子供だった。	the difference in height is truly that of an adult and a child.
 
 239169	Alexander		「…………」	「............」
 
-239170	Alexander		「明日は良い試合にしよう」	「Let's have a good match tomorrow.」
+239170	Alexander		「明日は良い試合にしよう」	「Let us have a worthy match tomorrow.」
 
-239171	-		あなたは手を差し出された。	He held out his hand to you.
+239171	-		あなたは手を差し出された。	He extends a massive hand toward you.
 
 239172	El Mofus		「…………。」	「............」
-239173	-		あなたはあれこれ考える前に、	Before you could think about it,
-239174	+		気づけば手を差しだしていた。	you found yourself reaching out your hand.
+239173	-		あなたはあれこれ考える前に、	Before you can even begin to think,
+239174	+		気づけば手を差しだしていた。	you find yourself reaching out your own hand.
 
-239175	-		もしかしたら、アレキサンダーに	Perhaps you were
-239176	+		圧倒されていたのかも知れない。	overwhelmed by Alexander.
+239175	-		もしかしたら、アレキサンダーに	Perhaps you were simply overwhelmed
+239176	+		圧倒されていたのかも知れない。	by Alexander's towering presence.
 
 239177	-		　	　
 239178	+		　　＜ぎゅうっ＞	　　＜Squeeze＞
 
-239179	-		アレキサンダーの大きな手が	Alexander's large hand
-239180	+		あなたの手を包み込むように握られた。	enveloped yours as he shook it.
+239179	-		アレキサンダーの大きな手が	Alexander's massive hand
+239180	+		あなたの手を包み込むように握られた。	envelops yours in a firm, powerful grip.
 
-239181	-		触れている掌ですら固く、大きい。	Even his palm was hard and huge.
-239182	+		腕などはまるで岩のような固さが想像された。	His arms seemed as hard as rock.
+239181	-		触れている掌ですら固く、大きい。	Even his palm feels rock-solid and colossal.
+239182	+		腕などはまるで岩のような固さが想像された。	One can easily imagine the boulder-like density running through his arms.
 
-239183	Alexander		「これで失礼する。	「I'll take my leave now.
-239184	+		　顔を見ておきたかっただけなのでね」	　I just wanted to see your face.」
+239183	Alexander		「これで失礼する。	「With that, I shall take my leave.
+239184	+		　顔を見ておきたかっただけなのでね」	　I merely wished to look upon your face before the battle.」
 
 239185	Masou Shizuka	帽子なし	「お茶でも飲んでいけばいいのに」	「You could have stayed for some tea.」
 
-239186	Alexander	基本	「明日は互いに戦う身、	「We will be fighting each other tomorrow,
-239187	+		　馴れ合いすぎては戦意が鈍ろう」	　getting too friendly would dull our fighting spirit.」
+239186	Alexander	基本	「明日は互いに戦う身、	「Tomorrow, we meet as combatants in the arena.
+239187	+		　馴れ合いすぎては戦意が鈍ろう」	　Becoming too familiar would only dull our fighting spirit.」
 
-239188	Alexander		「では」	「Well then.」
+239188	Alexander		「では」	「Farewell.」
 
-239189	-		一礼してからアレキサンダーは退室した。	After bowing, Alexander left the room.
+239189	-		一礼してからアレキサンダーは退室した。	After a respectful bow, Alexander takes his leave.
 
-239190	Sushinu the Gandhi		「はあ……すごい緊張感だったぁ……」	「Haa... that was so tense...」
+239190	Sushinu the Gandhi		「はあ……すごい緊張感だったぁ……」	「Phew... that was so incredibly tense...」
 
 239191	Reset Kalar		「＜エール＞ちゃん、	「＜エール＞-chan,
-239192	+		　明日、決勝に出ないわけにいかなくなったね」	　you can't skip the finals tomorrow anymore.」
+239192	+		　明日、決勝に出ないわけにいかなくなったね」	　looks like skipping the finals tomorrow is out of the question now.」
 
 239193	Zance Leazas		「けっ、勝手にしろ」	「Tch, do whatever you want.」
 
-239194	Reset Kalar	笑顔	「もしも負けても、	「Even if you lose,
-239195	+		　私がどうにかされることは絶対にないから、	　I definitely won't get hurt,
-239196	+		　安心してドーンとぶつかって行こうね」	　so go all out without worry.」
+239194	Reset Kalar	笑顔	「もしも負けても、	「Even if you were to lose,
+239195	+		　私がどうにかされることは絶対にないから、	　nothing bad will ever happen to me,
+239196	+		　安心してドーンとぶつかって行こうね」	　so do not worry and give it everything you have got with a bang!」
 
-239197	-		リセットは朗らかに笑っていた。	Reset smiled brightly.
+239197	-		リセットは朗らかに笑っていた。	Reset beams with a bright, reassuring smile.

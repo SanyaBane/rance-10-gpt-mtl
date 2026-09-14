@@ -14,184 +14,184 @@
 * Shuri Seihajuu Nagasaki	シュリ２	Female
 * Copandon Dott	コパンドン２	Female
 
-235279	-		あなたが試合後、	After the match,
-235280	+		試練迷宮で修行を終えた頃になると、	when you finished training in the Trial Labyrinth,
-235281	+		すっかり空には夜の帳が落ちていた。	night had completely fallen over the sky.
+235279	-		あなたが試合後、	By the time you concluded your post-match training
+235280	+		試練迷宮で修行を終えた頃になると、	in the depths of the Trial Labyrinth,
+235281	+		すっかり空には夜の帳が落ちていた。	the curtain of night had completely fallen across the sky.
 
-235282	Masou Shizuka	帽子なし	「あら、お帰りなさい」	「Oh, welcome back.」
+235282	Masou Shizuka	帽子なし	「あら、お帰りなさい」	「Oh? Welcome back.」
 
-235283	-		夜になり部屋に戻ると、	When you returned to the room at night,
-235284	+		入り口付近にいた志津香が	Shizuka who was near the entrance
+235283	-		夜になり部屋に戻ると、	Upon returning to the room in the evening,
+235284	+		入り口付近にいた志津香が	Shizuka, who was standing near the entrance,
 235285	+		まずあなたとリセットを迎えてくれた。	greeted you and Reset first.
 
-235286	Yamamoto Rangi	説明するよ	「やあ、二人とも。	「Hey, you two.
-235287	+		　お邪魔しているよ」	　Sorry for intruding.」
+235286	Yamamoto Rangi	説明するよ	「やあ、二人とも。	「Greetings, you two.
+235287	+		　お邪魔しているよ」	　Pardon the intrusion.」
 
-235288	Nagata-kun	基本	「よう！　一回戦突破、おめでとう！	「Yo! Congratulations on winning the first round!
-235289	+		　やったなぁ、＜エール＞！」	　You did it, ＜エール＞!」
+235288	Nagata-kun	基本	「よう！　一回戦突破、おめでとう！	「Yo! Congrats on clearing the first round!
+235289	+		　やったなぁ、＜エール＞！」	　You really pulled it off, ＜エール＞!」
 
-235290	Lelikov Helman	きゃはは！	「おっかえりー！　ご飯あるよ！	「Welcome back! Dinner's ready!
-235291	+		　＜エール＞とねーちゃんも食べる！？」	　＜エール＞ and big sis, you eating too!?」
+235290	Lelikov Helman	きゃはは！	「おっかえりー！　ご飯あるよ！	「Welcome baaack! Dinner is ready!
+235291	+		　＜エール＞とねーちゃんも食べる！？」	　Are ＜エール＞ and big sis hungry too?!」
 
-235292	-		レリコフとヒーローは食事を行い、	Lelikov and Hero were eating, while Shizuka
-235293	+		志津香達は魔法ビジョンを見ていたらしい。	and the others seemed to be watching the magic
-235294	+		ベッドではザンスが寝転んで雑誌を読んでいる。	vision. Zance was lying on the bed reading a magazine.
+235292	-		レリコフとヒーローは食事を行い、	Lelikov and Hero were happily digging into their food,
+235293	+		志津香達は魔法ビジョンを見ていたらしい。	while Shizuka and the others watched the magic vision.
+235294	+		ベッドではザンスが寝転んで雑誌を読んでいる。	Meanwhile, Zance lay sprawled across the bed, flipping through a magazine.
 
-235295	-		同じ場所にいながら、	Even though they were in the same room,
-235296	+		皆が思い思いの過ごし方で夜を楽しんでいた。	everyone was enjoying the night in their own way.
+235295	-		同じ場所にいながら、	Despite sharing the very same space,
+235296	+		皆が思い思いの過ごし方で夜を楽しんでいた。	everyone was enjoying the evening entirely at their own pace.
 
-235297	-		何故かあなたの部屋で。	For some reason in your room.
+235297	-		何故かあなたの部屋で。	For some reason, right inside your room.
 
-235298	Mix Tou	我関せず	「ここ、姉さんとあんたの部屋だからね。	「This is your and your sister's room after all.
-235299	+		　集まりやすい」	　It's easy for everyone to gather here.」
+235298	Mix Tou	我関せず	「ここ、姉さんとあんたの部屋だからね。	「This happens to be your and your sister's suite, after all.
+235299	+		　集まりやすい」	　It makes for the most convenient gathering hub.」
 
-235300	-		あなたの部屋はたまり場にされていた。	Your room had become the gathering spot.
+235300	-		あなたの部屋はたまり場にされていた。	Your room had effectively become the party's official hangout.
 
-235301	Nagi su Ragarl	帽子なし／笑顔	「おっ、＜エール＞！　おっかえりー！	「Oh, ＜エール＞! Welcome back!
-235302	+		　試合、見てたよー、おめでとーう！」	　I watched the match, congratulations!」
+235301	Nagi su Ragarl	帽子なし／笑顔	「おっ、＜エール＞！　おっかえりー！	「Ooh, ＜エール＞! Welcome back!
+235302	+		　試合、見てたよー、おめでとーう！」	　I watched your match! Congraaaatulations!」
 
-235303	Nagi su Ragarl	帽子なし／反省	「んっちゅー」	「Mwah.」
+235303	Nagi su Ragarl	帽子なし／反省	「んっちゅー」	「*Smooooch.*」
 
-235304	Reset Kalar	驚き	「わあっ、ナギちゃん！」	「Wah, Nagi-chan!」
+235304	Reset Kalar	驚き	「わあっ、ナギちゃん！」	「Wah! Nagi-chan!」
 
-235305	-		顔を赤くしたナギが、	A blushing Nagi
-235306	+		酒瓶片手にあなたに抱きつき、	hugged you while holding a sake bottle
-235307	+		おでこにキスをしてきた。	and kissed your forehead.
+235305	-		顔を赤くしたナギが、	A thoroughly flushed Nagi
+235306	+		酒瓶片手にあなたに抱きつき、	embraced you with a sake bottle in one hand
+235307	+		おでこにキスをしてきた。	and planted a sloppy kiss right on your forehead.
 
-235308	Reset Kalar	困り	「って、お酒飲んでるの？」	「Wait, are you drinking?」
+235308	Reset Kalar	困り	「って、お酒飲んでるの？」	「Wait, have you been drinking already?」
 
-235309	Nagi su Ragarl	帽子なし／からかい	「だってー、今日は私のパートナーの	「Because today my partner
-235310	+		　乱義が勝ったんだしー、祝杯だしー」	　Rangi won, so we're celebrating~」
+235309	Nagi su Ragarl	帽子なし／からかい	「だってー、今日は私のパートナーの	「Well, of course! My wonderful partner
+235310	+		　乱義が勝ったんだしー、祝杯だしー」	　Rangi won his match today, so we are celebrating~!」
 
-235311	Nagi su Ragarl	帽子なし／笑顔	「お酒は飲める時に飲むんじゃよー」	「You should drink when you can~」
+235311	Nagi su Ragarl	帽子なし／笑顔	「お酒は飲める時に飲むんじゃよー」	「One must drink whenever the opportunity arises, you know~!」
 
-235312	Yamamoto Rangi	基本	「はあ、やれやれ……」	「Sigh, good grief...」
+235312	Yamamoto Rangi	基本	「はあ、やれやれ……」	「*Sigh*... Good grief...」
 
-235313	Sushinu the Gandhi		「あっ、あのあの、＜エール＞ちゃん！」	「Ah, um um, ＜エール＞-chan!」
+235313	Sushinu the Gandhi		「あっ、あのあの、＜エール＞ちゃん！」	「A-Ah, u-um, ＜エール＞-chan!」
 
-235314	Sushinu the Gandhi		「し、試合……見てた……」	「I-I watched... the match...」
+235314	Sushinu the Gandhi		「し、試合……見てた……」	「I... I watched your match...!」
 
-235315	Sushinu the Gandhi		「すっごく格好良かった！」	「You were really cool!」
+235315	Sushinu the Gandhi		「すっごく格好良かった！」	「You looked so wonderfully gallant out there!」
 
-235316	Sushinu the Gandhi		「あ、えと、そうじゃなくて……	「Ah, um, that's not it...
-235317	+		　い、一回戦突破、おめでとう……」	　C-Congratulations on winning the first round...」
+235316	Sushinu the Gandhi		「あ、えと、そうじゃなくて……	「A-Ah, wait, no, what I meant was...
+235317	+		　い、一回戦突破、おめでとう……」	　C-Congratulations on advancing past the first round...!」
 
-235318	Sushinu the Gandhi	パニック	「そ、それじゃあ……！」	「W-Well then...!」
+235318	Sushinu the Gandhi	パニック	「そ、それじゃあ……！」	「W-Well then, excuse meeee!」
 
-235319	-		パタパタとスシヌは部屋の隅に行ってしまった。	Sushinu pattered off to the corner of the room.
+235319	-		パタパタとスシヌは部屋の隅に行ってしまった。	Sushinu scurried in a flustered panic toward the furthest corner of the room.
 
-235320	Sushinu the Gandhi	基本	「はあ、はあ……	「Haa, haa...
-235321	+		　なんでだろ、すごく緊張した……」	　Why am I so nervous...」
+235320	Sushinu the Gandhi	基本	「はあ、はあ……	「*Pant, pant*...
+235321	+		　なんでだろ、すごく緊張した……」	　Why did that make me so incredibly nervous...?」
 
-235322	Parsley Rig Zeth		「ぐっどよ、スシヌ。	「Good job, Sushinu.
-235323	+		　いっぱいがんばったわね〜」	　You tried really hard~」
+235322	Parsley Rig Zeth		「ぐっどよ、スシヌ。	「Splendidly done, Sushinu.
+235323	+		　いっぱいがんばったわね〜」	　You gave it your absolute best~」
 
 235324	Sushinu the Gandhi		「え？　えへへ……？」	「Eh? Ehehe...?」
 
-235325	Nagata-kun		「へへっ、やるじゃんか、＜エール＞！」	「Hehe, not bad, ＜エール＞!」
+235325	Nagata-kun		「へへっ、やるじゃんか、＜エール＞！」	「Heh! Not bad at all, ＜エール＞!」
 
-235326	Nagata-kun		「まっ、俺の相棒ならこれくらい当然だけどな！」	「Well, of course my partner would do at least this much!」
+235326	Nagata-kun		「まっ、俺の相棒ならこれくらい当然だけどな！」	「Then again, I would expect nothing less from my partner!」
 
-235327	Nagata-kun		「俺とザンスは明日が試合！	「Zance and I have our match tomorrow!
-235328	+		　俺も負けないからな！」	　I won't lose either!」
+235327	Nagata-kun		「俺とザンスは明日が試合！	「Zance and I have our official matches tomorrow!
+235328	+		　俺も負けないからな！」	　I am not about to lose either!」
 
 235329	Nagata-kun		「……へへっ」	「...Hehe.」
 
-235330	-		長田君は燃えていた。	Nagata-kun was fired up.
+235330	-		長田君は燃えていた。	Nagata-kun was burning with fierce fighting spirit.
 
-235331	Nagata-kun		「そういえば……」	「Now that I think about it...」
+235331	Nagata-kun		「そういえば……」	「Come to think of it...」
 
-235332	Nagata-kun		「うちら、ここに全員揃ってる……	「We're all gathered here...
-235333	+		　んだよな？」	　right?」
+235332	Nagata-kun		「うちら、ここに全員揃ってる……	「Are all of us actually gathered in here...
+235333	+		　んだよな？」	　right now?」
 
-235334	Nagata-kun		「誰か足りなくね？」	「Isn't someone missing?」
+235334	Nagata-kun		「誰か足りなくね？」	「Are we not missing someone?」
 
-235335	Zance Leazas		「アア？　気づいてなかったのか？	「Aa? You didn't notice?
-235336	+		　いねーのは元就だよ」	　The one missing is Motonari.」
+235335	Zance Leazas		「アア？　気づいてなかったのか？	「Haaah? You only just realized?
+235336	+		　いねーのは元就だよ」	　The only one not here is Motonari.」
 
-235337	Nagata-kun		「ああっ！？	「Aah!?
-235338	+		　そういえば元就がいない！	　Now that you mention it, Motonari isn't here!
-235339	+		　あいつどこ行ったん！？」	　Where did that guy go!?」
+235337	Nagata-kun		「ああっ！？	「Aaaah?!
+235338	+		　そういえば元就がいない！	　Now that you mention it, Motonari is completely gone!
+235339	+		　あいつどこ行ったん！？」	　Where on earth did that guy go?!」
 
-235340	Yamamoto Rangi		「闘神都市に来た途端に騒ぎを起こしてね、	「As soon as he arrived in Colosseum City he caused trouble,
-235341	+		　街の刑務所にブチ込まれたよ」	　so he got thrown into the city prison.」
+235340	Yamamoto Rangi		「闘神都市に来た途端に騒ぎを起こしてね、	「He started a brawl the instant he set foot in Toushin City,
+235341	+		　街の刑務所にブチ込まれたよ」	　so he was thrown straight into the municipal prison.」
 
-235342	Nagata-kun		「ええっ！？」	「Eeeh!?」
+235342	Nagata-kun		「ええっ！？」	「Whaaaaat?!」
 
-235343	-		闘神都市――	Colosseum City――
-235344	+		刑務所――	Prison――
+235343	-		闘神都市――	Toushin City—
+235344	+		刑務所――	The Municipal Prison—
 
-235345	Slave Merchant		「ははーーーっ！	「Hahaaaah!
-235346	+		　今日からこの部屋のボスは	　Starting today, the boss of this room
-235347	+		　あなた様でございますー！」	　is you, sir!」
+235345	Slave Merchant		「ははーーーっ！	「Bwahaha!
+235346	+		　今日からこの部屋のボスは	　From this day forth, the undisputed boss of this cell
+235347	+		　あなた様でございますー！」	　is none other than your esteemed self, sir!」
 
-235348	Mouri Motonari		「おう！	「Yeah!
-235349	+		　今日からオレが――」	　Starting today, I――」
+235348	Mouri Motonari		「おう！	「Damn right!
+235349	+		　今日からオレが――」	　Starting today, I—」
 
-235350	Mouri Motonari		「この部屋のボスだ！！！！」	「am the boss of this room!!!!」
+235350	Mouri Motonari		「この部屋のボスだ！！！！」	「AM THE UNDISPUTED BOSS OF THIS JOINT!!!!」
 
-235351	Mouri Motonari	笑顔	「ぐわーーっはっはっはっはっ！	「Gwahahahahaha!
-235352	+		　良きに計らえ！」	　Do as you see fit!」
+235351	Mouri Motonari	笑顔	「ぐわーーっはっはっはっはっ！	「Gwahahahahahaha!
+235352	+		　良きに計らえ！」	　Carry on as you see fit!」
 
-235353	Slave Merchant	基本	「は、はい、それはもう！	「Y-Yes, of course!
-235354	+		　牢屋の全員、あなた様に締められたわけで、	　Everyone in the prison has already been subdued by you,
-235355	+		　もう逆らう気なんて、とてもとても！」	　no one has any intention of defying you!」
+235353	Slave Merchant	基本	「は、はい、それはもう！	「Y-Yes, sir! Absolutely!
+235354	+		　牢屋の全員、あなた様に締められたわけで、	　Every single thug in this cell block was pummeled senseless by your fists,
+235355	+		　もう逆らう気なんて、とてもとても！」	　so none of us would dare dream of defying you!」
 
-235356	-		元就は牢屋内にいる囚人達に、	Motonari had all the prisoners in the cell
-235357	+		頭を下げられていた。	bowing their heads to him.
+235356	-		元就は牢屋内にいる囚人達に、	Every inmate within the cell block
+235357	+		頭を下げられていた。	prostrated themselves reverently before Motonari.
 
 235358	Mouri Motonari		「は、はは……」	「Ha, haha...」
 
-235359	Mouri Motonari	不満	「それでここはどこだ？」	「So where is this place?」
+235359	Mouri Motonari	不満	「それでここはどこだ？」	「So... where the hell is this place anyway?」
 
-235360	Slave Merchant	基本	「あ、いえ、ですから、	「Ah, well, as I've said many
-235361	+		　もう何度も言ったように、	　times already, this is the
-235362	+		　闘神都市の刑務所の中でして」	　prison in Colosseum City.」
+235360	Slave Merchant	基本	「あ、いえ、ですから、	「Ah, well, as I have mentioned
+235361	+		　もう何度も言ったように、	　several times already,
+235362	+		　闘神都市の刑務所の中でして」	　this is the inside of the Toushin City prison.」
 
 235363	Mouri Motonari		「なるほど……」	「I see...」
 
-235364	Mouri Motonari	ガルル	「何故、オレはそんなところにいる！？」	「Why the hell am I in a place like this!?」
+235364	Mouri Motonari	ガルル	「何故、オレはそんなところにいる！？」	「AND WHY THE HELL AM I IN A PLACE LIKE THIS?!」
 
-235365	Slave Merchant	基本	「……知りません。	「...I don't know.
+235365	Slave Merchant	基本	「……知りません。	「...Search me.
 235366	+		　なんででしょうね？」	　Why indeed?」
 
-235367	Mouri Motonari		「分からん！」	「I don't get it!」
+235367	Mouri Motonari		「分からん！」	「I have no damn clue!」
 
-235368	Mouri Motonari		「分からんから……」	「Since I don't get it...」
+235368	Mouri Motonari		「分からんから……」	「And since I don't get it...」
 
-235369	Mouri Motonari	笑顔	「寝る！！！！」	「I'm sleeping!!!!」
+235369	Mouri Motonari	笑顔	「寝る！！！！」	「I'M GOING TO SLEEP!!!!」
 
-235370	Mouri Motonari		「ぐわっはははははははは！」	「Gwahahahahahaha!」
+235370	Mouri Motonari		「ぐわっはははははははは！」	「GWAHAHAHAHAHAHAHA!」
 
-235371	Zance Leazas	基本	「ま、あいつはあいつで今頃楽しくやってるだろ」	「Well, he's probably having fun in his own way right about now.」
+235371	Zance Leazas	基本	「ま、あいつはあいつで今頃楽しくやってるだろ」	「Well, that brute is probably having a grand old time in his own way right about now.」
 
-235372	Nagata-kun		「いいの！？　そんなんで！？」	「Is that okay!? Really!?」
+235372	Nagata-kun		「いいの！？　そんなんで！？」	「Is that seriously fine?! Just leaving him there?!」
 
-235373	Zance Leazas		「あいつ出すとうっせーから、	「If we let him out he'll be loud,
-235374	+		　絶対に出そうとすんじゃねーぞ」	　so don't even think about it.」
+235373	Zance Leazas		「あいつ出すとうっせーから、	「Letting him out would only give us a massive headache,
+235374	+		　絶対に出そうとすんじゃねーぞ」	　so do not even think about bailing him out.」
 
-235375	Yamamoto Rangi	説明するよ	「死にはしないだろうし、	「He won't die,
-235376	+		　帰る頃、迎えに行くよ」	　I'll go pick him up when it's time to leave.」
+235375	Yamamoto Rangi	説明するよ	「死にはしないだろうし、	「He is far too sturdy to die in a place like that.
+235376	+		　帰る頃、迎えに行くよ」	　I shall pick him up when we are ready to depart.」
 
-235377	Nagata-kun	基本	「二人とも男兄弟には結構厳しいね……」	「You two are pretty strict with your male siblings...」
+235377	Nagata-kun	基本	「二人とも男兄弟には結構厳しいね……」	「You two are awfully cold to your brothers...」
 
-235378	Nagata-kun		「ま、俺らは闘神大会に集中すっか」	「Anyway, let's focus on the Toushin Tournament.」
+235378	Nagata-kun		「ま、俺らは闘神大会に集中すっか」	「Well, I guess we had better keep our minds on the tournament.」
 
 235379	Nagata-kun		「あ、闘神大会と言えば……」	「Oh, speaking of the Toushin Tournament...」
 
-235380	Nagata-kun		「ドギの奴も今日が試合だったらしいぜ」	「I heard Dogi had his match today too.」
+235380	Nagata-kun		「ドギの奴も今日が試合だったらしいぜ」	「I heard Dogi had his first-round match today too.」
 
-235381	Nagata-kun		「あいつが本当に強くなってたら……	「If that guy has actually gotten stronger...
-235382	+		　結構怖いよな」	　that'd be pretty scary.」
+235381	Nagata-kun		「あいつが本当に強くなってたら……	「If that guy actually managed to power up...
+235382	+		　結構怖いよな」	　it could get pretty scary.」
 
-235383	Nagata-kun		「闘神ダイジェスト！　確認してみようぜ！」	「Let's check the Toushin Digest!」
+235383	Nagata-kun		「闘神ダイジェスト！　確認してみようぜ！」	「Toushin Digest! Let us tune in and check the results!」
 
-235384	Zance Leazas	微笑み	「お、もうそんな時間か！」	「Oh, it's already that time!」
+235384	Zance Leazas	微笑み	「お、もうそんな時間か！」	「Oh? Is it that time already?!」
 
-235385	Masou Shizuka	帽子なし	「どれどれ？」	「Let's see?」
+235385	Masou Shizuka	帽子なし	「どれどれ？」	「Let us see what happened.」
 
-235386	-		長田君が魔法ビジョンのスイッチを入れると、	When Nagata-kun turned on the magic vision,
-235387	+		室内にいた皆も注目を始めた。	everyone in the room started paying attention.
+235386	-		長田君が魔法ビジョンのスイッチを入れると、	As Nagata-kun switched on the magic vision,
+235387	+		室内にいた皆も注目を始めた。	everyone in the room turned their full attention toward the screen.
 
 235388	-		…………	............
 
@@ -199,285 +199,285 @@
 
 235390	Shuri Seihajuu Nagasaki	ダイジェスト	「闘神ダイジェスト！」	「Toushin Digest!」
 
-235391	Shuri Seihajuu Nagasaki	ダイジェスト／おめでとう	「こんばんはー、司会のシュリお姉さんでーす」	「Good evening~, this is your host big sis Shuri~」
+235391	Shuri Seihajuu Nagasaki	ダイジェスト／おめでとう	「こんばんはー、司会のシュリお姉さんでーす」	「Gooood evening! This is your host, big sister Shuri!」
 
-235392	Copandon Dott	笑い	「解説のコパンドンお姉さんやでー」	「And I'm commentator big sis Copandon~」
+235392	Copandon Dott	笑い	「解説のコパンドンお姉さんやでー」	「And your commentator, big sister Copandon!」
 
-235393	Shuri Seihajuu Nagasaki	ダイジェスト	「さて、本日から遂に試合が始まりました！	「Well then, the matches have finally begun today!
-235394	+		　白熱した試合の連続にコロシアムの熱気は凄まじいまでに！」	　The colosseum is incredibly heated from the string of intense matches!」
+235393	Shuri Seihajuu Nagasaki	ダイジェスト	「さて、本日から遂に試合が始まりました！	「The official tournament matches have finally commenced today!
+235394	+		　白熱した試合の連続にコロシアムの熱気は凄まじいまでに！」	　An unbroken sequence of blistering clashes has whipped the colosseum into a fever pitch!」
 
-235395	Copandon Dott	基本	「やー、初日から盛り上がっとんなー。	「Wow, it's heating up right from day one.
-235396	+		　いや、みんな若くて結構」	　Everyone's so young and lively.」
+235395	Copandon Dott	基本	「やー、初日から盛り上がっとんなー。	「My, oh my, the excitement was off the charts right from day one!
+235396	+		　いや、みんな若くて結構」	　Ah, to see youth bursting with such raw vigor!」
 
-235397	Shuri Seihajuu Nagasaki	ダイジェスト	「本日は四ブロックから二試合ずつ、計八試合が行われました。	「Today we had two matches per block across four blocks, for a total of eight matches.
-235398	+		　一つ一つ解説していきましょう」	　Let's go over them one by one.」
+235397	Shuri Seihajuu Nagasaki	ダイジェスト	「本日は四ブロックから二試合ずつ、計八試合が行われました。	「Today featured two matches from each of our four blocks, totaling eight thrilling bouts.
+235398	+		　一つ一つ解説していきましょう」	　Let us review the highlights one by one!」
 
-235399	Shuri Seihajuu Nagasaki		「名前の左が勝者、右が敗者です」	「The name on the left is the winner, right is the loser.」
+235399	Shuri Seihajuu Nagasaki		「名前の左が勝者、右が敗者です」	「As a reminder, the victor appears on the left, and the defeated on the right!」
 
-235400	Shuri Seihajuu Nagasaki		「Ａブロック一戦目、	「Block A first match,
-235401	+		　＜エール＞・モフスＶＳレリコフ・ヘルマン」	　＜エール＞ Mofus vs Lelikov Helman.」
+235400	Shuri Seihajuu Nagasaki		「Ａブロック一戦目、	「Block A, Match One:
+235401	+		　＜エール＞・モフスＶＳレリコフ・ヘルマン」	　＜エール＞ Mofus VS Lelikov Helman!」
 
-235402	Shuri Seihajuu Nagasaki		「同じ魔王を父に持つ注目の一戦は、	「A highly anticipated match between two children
-235403	+		　＜エール＞選手の勝利」	　of the same Demon King, won by ＜エール＞.」
+235402	Shuri Seihajuu Nagasaki		「同じ魔王を父に持つ注目の一戦は、	「A highly anticipated showdown between two warriors sharing the Demon King as their sire,
+235403	+		　＜エール＞選手の勝利」	　culminating in victory for Contestant ＜エール＞!」
 
-235404	Shuri Seihajuu Nagasaki		「レリコフ選手が素早い連続攻撃で	「Lelikov launched fast consecutive attacks
-235405	+		　果敢に攻め続けましたが一歩及ばず」	　bravely, but fell just short.」
+235404	Shuri Seihajuu Nagasaki		「レリコフ選手が素早い連続攻撃で	「Contestant Lelikov mounted a ferocious and relentless offensive
+235405	+		　果敢に攻め続けましたが一歩及ばず」	　with her lightning-quick flurries, but fell just short of triumph!」
 
-235406	Copandon Dott	ジト目	「それにしても……えげつなぁ〜……	「Still... that was brutal...
-235407	+		　魔王の子が強いんは知っとったけど、	　I knew the Demon King's children were strong,
-235408	+		　一回戦からハイレベルな戦いやったね」	　but that was a high-level fight right from round one.」
+235406	Copandon Dott	ジト目	「それにしても……えげつなぁ〜……	「Goodness gracious... talk about intense!
+235407	+		　魔王の子が強いんは知っとったけど、	　I knew the Demon King's bloodline was terrifying,
+235408	+		　一回戦からハイレベルな戦いやったね」	　but seeing such world-class combat in the very first round was something else!」
 
-235409	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「そ、そうなんですよね……	「Y-Yeah...
-235410	+		　これ下手すると魔王の子達だけの	　At this rate it might turn into
-235411	+		　独壇場になっちゃうんじゃ……」	　a one-sided show by the Demon King's children...」
+235409	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「そ、そうなんですよね……	「I-Indeed...
+235410	+		　これ下手すると魔王の子達だけの	　If things continue at this rate,
+235411	+		　独壇場になっちゃうんじゃ……」	　the entire tournament might turn into an exclusive showcase for the Demon King's children...」
 
-235412	Shuri Seihajuu Nagasaki	ダイジェスト	「ああ、いえいえ、でもこれからですよ。	「Oh no no, the real show is still to come. There are
-235413	+		　まだ見ぬつわものがきっといます」	　surely more strong warriors we haven't seen yet.」
+235412	Shuri Seihajuu Nagasaki	ダイジェスト	「ああ、いえいえ、でもこれからですよ。	「Oh, goodness, but the true battles are only just beginning!
+235413	+		　まだ見ぬつわものがきっといます」	　There are bound to be hidden juggernauts waiting in the wings!」
 
-235414	Copandon Dott	基本	「そやね、焦って決めつけるもんやないわ」	「That's right, no need to jump to conclusions.」
+235414	Copandon Dott	基本	「そやね、焦って決めつけるもんやないわ」	「Quite right! No sense jumping to premature conclusions.」
 
-235415	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「試合後には二人で握手を交わすなど、	「After the match the two even shook hands,
-235416	+		　なんとも爽やかな戦いが	　what a refreshing and wholesome fight
-235417	+		　闘神大会の幕開けをしてくれました」	　to open the Toushin Tournament.」
+235415	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「試合後には二人で握手を交わすなど、	「The duel concluded with a warm, respectful handshake between competitors,
+235416	+		　なんとも爽やかな戦いが	　providing a wonderfully refreshing opening
+235417	+		　闘神大会の幕開けをしてくれました」	　to this year's Toushin Tournament!」
 
-235418	Shuri Seihajuu Nagasaki	ダイジェスト	「Ａブロック二戦目、	「Block A second match,
-235419	+		　魔物隊長ブロビオＶＳ無心アイヌ」	　Monster Captain Brobio vs Heartless Ainu.」
+235418	Shuri Seihajuu Nagasaki	ダイジェスト	「Ａブロック二戦目、	「Block A, Match Two:
+235419	+		　魔物隊長ブロビオＶＳ無心アイヌ」	　Monster Captain Brobio VS Heartless Ainu!」
 
-235420	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「試合直前、アイヌ選手の口から、	「Right before the match, Ainu revealed
-235421	+		　父の仇がブロビオ選手という	　that Brobio was the one who killed her father
-235422	+		　衝撃の真実が明らかにされました」	　in a shocking revelation.」
+235420	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「試合直前、アイヌ選手の口から、	「Moments before the match, Contestant Ainu shocked the arena
+235421	+		　父の仇がブロビオ選手という	　by revealing that Brobio
+235422	+		　衝撃の真実が明らかにされました」	　was the very fiend who slaughtered her father!」
 
-235423	Copandon Dott	ため息	「因縁の対決いう奴やね」	「A fateful grudge match.」
+235423	Copandon Dott	ため息	「因縁の対決いう奴やね」	「A classic blood-grudge duel, is it?」
 
-235424	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「刀を持たぬ特異な剣術、	「Ainu, master of the unique bladeless sword style,
-235425	+		　無心無刀流の師範代であるアイヌ選手、	　attacked fiercely with hand blades seeking revenge,
-235426	+		　父の仇とばかりに手刀の猛攻をしますが……」	　but...」
+235424	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「刀を持たぬ特異な剣術、	「As the master instructor of the unique weaponless style, the Shin-Musou School,
+235425	+		　無心無刀流の師範代であるアイヌ選手、	　Contestant Ainu unleashed a savage barrage of barehanded blade strikes
+235426	+		　父の仇とばかりに手刀の猛攻をしますが……」	　to avenge her fallen sire...」
 
-235427	Shuri Seihajuu Nagasaki		「突然動きの鈍くなったアイヌ選手、	「Suddenly Ainu's movements slowed,
-235428	+		　身動き一つ取ることなく棒立ちのまま	　and she stood frozen, unable to move,
-235429	+		　ブロビオ選手の攻撃を受けて決着！」	　taking Brobio's attacks until the match ended!」
+235427	Shuri Seihajuu Nagasaki		「突然動きの鈍くなったアイヌ選手、	「However, Contestant Ainu's movements suddenly ground to a halt!
+235428	+		　身動き一つ取ることなく棒立ちのまま	　Left completely paralyzed and unable to twitch a finger,
+235429	+		　ブロビオ選手の攻撃を受けて決着！」	　she absorbed Brobio's brutal onslaught until the match concluded!」
 
-235430	Copandon Dott	基本	「ん〜？　毒でも食らったんかな？」	「Hmm? Did she get poisoned or something?」
+235430	Copandon Dott	基本	「ん〜？　毒でも食らったんかな？」	「Hmm? Did she get tagged by some sort of paralytic venom?」
 
-235431	Shuri Seihajuu Nagasaki	ダイジェスト	「そのようなのですが……	「It seems so, but...
-235432	+		　傷を受けた様子はなく、	　there were no visible wounds,
-235433	+		　この辺りはよく分かっていません」	　so we're not entirely sure.」
+235431	Shuri Seihajuu Nagasaki	ダイジェスト	「そのようなのですが……	「That appears to be the case...
+235432	+		　傷を受けた様子はなく、	　Though she showed no outward signs of injury prior,
+235433	+		　この辺りはよく分かっていません」	　so the exact mechanism remains unclear.」
 
-235434	Shuri Seihajuu Nagasaki		「さて、話はまだそれだけで終わらず……	「But the story doesn't end there...
-235435	+		　アイヌ選手のパートナー役は本人だったのですが」	　Ainu was supposed to be her own partner, but」
+235434	Shuri Seihajuu Nagasaki		「さて、話はまだそれだけで終わらず……	「Tragically, the grim tale did not end there...
+235435	+		　アイヌ選手のパートナー役は本人だったのですが」	　As Contestant Ainu served as her own partner...」
 
-235436	Shuri Seihajuu Nagasaki	ダイジェスト／叫び	「衆人環視の下、アイヌ選手が	「In front of the entire crowd,
-235437	+		　無惨にもブロビオ選手に……な、なんと……	　Ainu was brutally... by Brobio... w-what...
-235438	+		　レイプされてしまいました」	　she was raped.」
+235436	Shuri Seihajuu Nagasaki	ダイジェスト／叫び	「衆人環視の下、アイヌ選手が	「Before the eyes of the entire horrified crowd,
+235437	+		　無惨にもブロビオ選手に……な、なんと……	　Contestant Ainu was mercilessly and brutally...
+235438	+		　レイプされてしまいました」	　violated on the arena floor by Contestant Brobio.」
 
-235439	Shuri Seihajuu Nagasaki		「あまりのことに私もう見ていられなくて……	「It was so horrible I couldn't watch...
-235440	+		　観客も多くの方が目を背けていました」	　Many spectators turned their eyes away.」
+235439	Shuri Seihajuu Nagasaki		「あまりのことに私もう見ていられなくて……	「It was such an appalling sight that I could barely watch...
+235440	+		　観客も多くの方が目を背けていました」	　Many in the audience averted their eyes in shock.」
 
-235441	Copandon Dott	ため息	「爽やかに終わった一試合目と	「A refreshing first match followed by a second
-235442	+		　残虐ショーと化した二試合目、	　match that turned into a brutal spectacle, both
-235443	+		　どちらも闘神大会らしい試合ってところかな」	　very fitting for the Toushin Tournament.」
+235441	Copandon Dott	ため息	「爽やかに終わった一試合目と	「A wholesome first match followed by a second bout
+235442	+		　残虐ショーと化した二試合目、	　that devolved into an atrocity...
+235443	+		　どちらも闘神大会らしい試合ってところかな」	　Both extremes are quintessentially Toushin Tournament, I suppose.」
 
-235444	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「アイヌ選手、茫然自失としていました。	「Ainu was left in a daze.
-235445	+		　あれはさすがにあんまりです……」	　That was really too much...」
+235444	Shuri Seihajuu Nagasaki	ダイジェスト／真剣	「アイヌ選手、茫然自失としていました。	「Contestant Ainu was left in a total state of catatonic shock.
+235445	+		　あれはさすがにあんまりです……」	　That truly crossed the line into cruelty...」
 
-235446	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｂブロック一戦目、	「Block B first match,
-235447	+		　山本乱義ＶＳソフィア・グリンコフ」	　Yamamoto Rangi vs Sofia Grinkov.」
+235446	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｂブロック一戦目、	「Block B, Match One:
+235447	+		　山本乱義ＶＳソフィア・グリンコフ」	　Yamamoto Rangi VS Sophia Grinkov!」
 
-235448	Shuri Seihajuu Nagasaki		「魔王の子にしてJAPAN国主である美形剣士と	「A handsome swordsman, child of the Demon King and ruler of
-235449	+		　金髪白肌のミステリアス美少女魔法使いの戦い」	　JAPAN, against a mysterious pale blonde girl mage.」
+235448	Shuri Seihajuu Nagasaki		「魔王の子にしてJAPAN国主である美形剣士と	「A stunning clash between the dashing warrior-ruler of JAPAN, child of the Demon King,
+235449	+		　金髪白肌のミステリアス美少女魔法使いの戦い」	　and the fair-skinned, blonde-haired mysterious maiden mage!」
 
-235450	Shuri Seihajuu Nagasaki		「魔法使いと弓矢使いの戦いに、	「It was expected to be a long-range
-235451	+		　遠距離戦の対決になると思われましたが……」	　battle between a mage and archer, but...」
+235450	Shuri Seihajuu Nagasaki		「魔法使いと弓矢使いの戦いに、	「While anticipated to be an epic long-range duel
+235451	+		　遠距離戦の対決になると思われましたが……」	　between an archer and a sorceress...」
 
-235452	Shuri Seihajuu Nagasaki		「試合開始と共に乱義選手に一気に距離を詰められ、	「Right at the start Rangi closed the distance instantly,
-235453	+		　刀の刃を首に当てられたソフィア選手、降参。	　pressed his blade to Sofia's neck, and she gave up. She
-235454	+		　得意の氷雪魔法を唱える隙もありませんでした」	　didn't even have time to cast her signature ice magic.」
+235452	Shuri Seihajuu Nagasaki		「試合開始と共に乱義選手に一気に距離を詰められ、	「Contestant Rangi closed the gap in the blink of an eye upon the opening bell,
+235453	+		　刀の刃を首に当てられたソフィア選手、降参。	　pressing his blade directly to Sophia's throat and forcing an instant surrender!
+235454	+		　得意の氷雪魔法を唱える隙もありませんでした」	　She was not even afforded a split second to chant her signature cryomancy!」
 
-235455	Shuri Seihajuu Nagasaki	ダイジェスト／おめでとう	「乱義さんの華麗な戦いに、	「Rangi's brilliant performance
-235456	+		　コロシアムには黄色い歓声が響き渡りました」	　filled the colosseum with high-pitched cheers.」
+235455	Shuri Seihajuu Nagasaki	ダイジェスト／おめでとう	「乱義さんの華麗な戦いに、	「Rangi's dazzling and elegant swordsmanship
+235456	+		　コロシアムには黄色い歓声が響き渡りました」	　elicited deafening squeals of admiration from the female spectators!」
 
-235457	Copandon Dott	笑い	「女性ファンががっぽり出来たやろうな〜。	「He's probably gained a ton of female fans~.
-235458	+		　グッズ展開とかやらせて欲しいわ」	　I'd love to do some merch with him.」
+235457	Copandon Dott	笑い	「女性ファンががっぽり出来たやろうな〜。	「He must have reeled in a massive legion of fangirls with that move!
+235458	+		　グッズ展開とかやらせて欲しいわ」	　I would love to license his likeness for official merchandise!」
 
-235459	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｂブロック二戦目、	「Block B second match,
-235460	+		　鎌女-ｶﾏﾒ-ＶＳワートナー」	　Kama-me vs Wartner.」
+235459	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｂブロック二戦目、	「Block B, Match Two:
+235460	+		　鎌女-ｶﾏﾒ-ＶＳワートナー」	　Kama-me VS Wartner!」
 
-235461	Copandon Dott	基本	「くのいちと老魔法使いの対決やね」	「A kunoichi versus an old mage.」
+235461	Copandon Dott	基本	「くのいちと老魔法使いの対決やね」	「A classic duel between a lethal kunoichi and a veteran archmage!」
 
-235462	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「ワートナー選手はそれはもう偉大な魔法使いで、	「Wartner is a truly great mage,
-235463	+		　得意魔法のてぃるとうぇいとは凄まじい威力」	　his specialty 'Tilt Way' has incredible power.」
+235462	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「ワートナー選手はそれはもう偉大な魔法使いで、	「Contestant Wartner is a truly renowned sage,
+235463	+		　得意魔法のてぃるとうぇいとは凄まじい威力」	　whose ultimate spell, 'Tiltowait,' boasts cataclysmic destructive power!」
 
-235464	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「だったのですが……	「However...
-235465	+		　鎌女選手の高速の鎖がま攻撃の前には	　against Kama-me's high-speed sickle chain attacks
-235466	+		　為す術なく倒され早々と決着がつきました」	　he was helpless and the match ended quickly.」
+235464	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「だったのですが……	「Or so we expected...
+235465	+		　鎌女選手の高速の鎖がま攻撃の前には	　However, against the blinding speed of Kama-me's chained scythe strikes,
+235466	+		　為す術なく倒され早々と決着がつきました」	　he was helpless to retaliate, bringing the bout to a swift conclusion!」
 
-235467	Copandon Dott	ため息	「まー、速さ勝負のくのいちと、	「Well, a speed-focused kunoichi versus
-235468	+		　溜めてどかんの魔法使いじゃ、	　a charge-up big-boom mage
-235469	+		　相性悪すぎや、しゃーないね」	　is just a terrible matchup.」
+235467	Copandon Dott	ため息	「まー、速さ勝負のくのいちと、	「Well, a hyper-agile ninja versus
+235468	+		　溜めてどかんの魔法使いじゃ、	　a heavy artillery caster requiring a long cast time
+235469	+		　相性悪すぎや、しゃーないね」	　is simply a terrible matchup. Nothing to be done about that.」
 
-235470	Shuri Seihajuu Nagasaki	ダイジェスト	「……と、普段ならここで終わりなのですが」	「...Normally that would be the end, but」
+235470	Shuri Seihajuu Nagasaki	ダイジェスト	「……と、普段ならここで終わりなのですが」	「...Now, ordinarily, the match would end right there, but—」
 
-235471	Copandon Dott	基本	「お？」	「Oh?」
+235471	Copandon Dott	基本	「お？」	「Oho?」
 
-235472	Shuri Seihajuu Nagasaki	ダイジェスト／叫び	「なんと、どちらかが死ぬまで決着はない！	「As if saying the match isn't over until one is dead!
-235473	+		　とでも言わんばかりに、無防備になった	　Kama-me's sickle rushed toward the now defenseless
-235474	+		　ワートナー選手に鎌女選手の鎌が迫りました！」	　Wartner!」
+235472	Shuri Seihajuu Nagasaki	ダイジェスト／叫び	「なんと、どちらかが死ぬまで決着はない！	「As though declaring that victory only comes with slaughter,
+235473	+		　とでも言わんばかりに、無防備になった	　Contestant Kama-me hurled her scythe directly
+235474	+		　ワートナー選手に鎌女選手の鎌が迫りました！」	　at the defenseless, defeated Wartner!」
 
-235475	Shuri Seihajuu Nagasaki		「キーン！	「Clang!
-235476	+		　それを止めたのは試合を見ていた	　It was stopped by Rangi's arrow,
-235477	+		　乱義選手の弓矢！」	　who was watching the match!」
+235475	Shuri Seihajuu Nagasaki		「キーン！	「*CLANG!*
+235476	+		　それを止めたのは試合を見ていた	　The lethal blow was miraculously intercepted
+235477	+		　乱義選手の弓矢！」	　by an arrow fired from the stands by Contestant Rangi!」
 
-235478	Copandon Dott	笑い	「まるで主人公みたいやな、この子はほんま」	「This guy really acts like the main character.」
+235478	Copandon Dott	笑い	「まるで主人公みたいやな、この子はほんま」	「This young man really carries himself like the story's main protagonist, doesn't he?」
 
-235479	Shuri Seihajuu Nagasaki	ダイジェスト	「二人はしばし睨み合いましたが、	「The two glared at each other for a moment,
-235480	+		　諦めたのか、鎌女選手が離れていきます」	　but Kama-me eventually backed off.」
+235479	Shuri Seihajuu Nagasaki	ダイジェスト	「二人はしばし睨み合いましたが、	「The two locked eyes in a tense standoff,
+235480	+		　諦めたのか、鎌女選手が離れていきます」	　until Kama-me relented and withdrew from the arena.」
 
-235481	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「ちなみに決着後だったので、	「By the way, since it was after the match ended,
-235482	+		　乱義選手は失格にならずに済むそうです。	　Rangi wasn't disqualified.
-235483	+		　女性ファンの皆さん良かったですね」	　Great news for his female fans.」
+235481	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「ちなみに決着後だったので、	「Incidentally, because the official match had already concluded,
+235482	+		　乱義選手は失格にならずに済むそうです。	　Contestant Rangi narrowly escaped disqualification!
+235483	+		　女性ファンの皆さん良かったですね」	　A massive sigh of relief for his adoring fanbase!」
 
-235484	Copandon Dott	強気	「二回戦はこの二人の対決が見られるわけや。	「So in round two we'll see these two fight.
-235485	+		　中々楽しみになるやないの」	　That's something to look forward to.」
+235484	Copandon Dott	強気	「二回戦はこの二人の対決が見られるわけや。	「Which means round two will pit these two directly against each other.
+235485	+		　中々楽しみになるやないの」	　Now that is a grudge match well worth anticipating!」
 
-235486	Copandon Dott	笑い	「しかしさっきの試合といい、	「But with that last match, Block B
-235487	+		　Ｂブロックは美男、美女が多くて	　sure has a lot of handsome men and
-235488	+		　目に優しいな〜」	　beautiful women. Easy on the eyes~」
+235486	Copandon Dott	笑い	「しかしさっきの試合といい、	「Though between that and the previous bout,
+235487	+		　Ｂブロックは美男、美女が多くて	　Block B is absolutely overflowing with handsome men and gorgeous maidens.
+235488	+		　目に優しいな〜」	　A real treat for the eyes~!」
 
-235489	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｃブロック一戦目、	「Block C first match,
-235490	+		　アレキサンダーＶＳ院外の翁」	　Alexander vs Hermit of the Outer Court.」
+235489	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｃブロック一戦目、	「Block C, Match One:
+235490	+		　アレキサンダーＶＳ院外の翁」	　Alexander VS Hermit of the Outer Court!」
 
-235491	Shuri Seihajuu Nagasaki		「先の鬼畜王戦争において人類側の	「Alexander, the hero who fought at the
-235492	+		　中心で戦った英雄、最強の格闘王、	　center of humanity's side during the previous
-235493	+		　アレキサンダー選手の試合」	　Beast King War, the strongest fighting king.」
+235491	Shuri Seihajuu Nagasaki		「先の鬼畜王戦争において人類側の	「The supreme fighting champion and legendary hero who stood at the vanguard
+235492	+		　中心で戦った英雄、最強の格闘王、	　of mankind's survival during the previous Brutal King War:
+235493	+		　アレキサンダー選手の試合」	　Contestant Alexander took the stage!」
 
-235494	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「優勝候補の一人として、	「As one of the championship favorites,
-235495	+		　もちろん試合の注目度は高い一戦です」	　this match had high expectations.」
+235494	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「優勝候補の一人として、	「As a prime favorite to take the championship,
+235495	+		　もちろん試合の注目度は高い一戦です」	　expectations were astronomically high for his opening duel!」
 
-235496	Shuri Seihajuu Nagasaki	ダイジェスト	「これに対する院外の翁選手。	「His opponent, the Hermit of the Outer Court,
-235497	+		　最も得意とするは幻惑魔法やら催淫魔法と、	　specializes in illusion and aphrodisiac magic,
-235498	+		　要は相手をえっちな気分にさせる魔法ですね」	　basically magic that makes the opponent horny.」
+235496	Shuri Seihajuu Nagasaki	ダイジェスト	「これに対する院外の翁選手。	「Facing him was the Hermit of the Outer Court,
+235497	+		　最も得意とするは幻惑魔法やら催淫魔法と、	　whose arsenal consists primarily of illusions and aphrodisiac sorcery—
+235498	+		　要は相手をえっちな気分にさせる魔法ですね」	　essentially magic designed to arouse and distract the opponent!」
 
-235499	Copandon Dott	ジト目	「最っ低のエロ爺や……」	「The absolute worst perverted old man...」
+235499	Copandon Dott	ジト目	「最っ低のエロ爺や……」	「The absolute scummiest perverted geezer alive...」
 
-235500	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「色々とやっていたみたいですが……	「He tried all sorts of things, but... nothing
-235501	+		　アレキサンダー選手には何一つ通じず、	　worked on Alexander, who casually knocked
-235502	+		　あっさり首に手刀を食らい気絶」	　him out with a hand chop to the neck.」
+235500	Shuri Seihajuu Nagasaki	ダイジェスト／笑み	「色々とやっていたみたいですが……	「He attempted an assortment of underhanded tricks, but...
+235501	+		　アレキサンダー選手には何一つ通じず、	　not a single spell phased Alexander in the slightest,
+235502	+		　あっさり首に手刀を食らい気絶」	　who casually rendered the old man unconscious with a single chop to the neck!」
 
-235503	Copandon Dott	ため息	「うーん、相手が女やったら	「Hmm, if the opponent had been a woman
-235504	+		　いいとこまで行けたかも。	　he might have gotten somewhere.
-235505	+		　これもクジ運の妙やね」	　That's the luck of the draw.」
+235503	Copandon Dott	ため息	「うーん、相手が女やったら	「Well, had his opponent been a woman,
+235504	+		　いいとこまで行けたかも。	　he might have made some headway.
+235505	+		　これもクジ運の妙やね」	　That is the cruel luck of the tournament draw for you.」
 
-235506	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｃブロック二戦目、	「Block C second match,
-235507	+		　ヒーロー・ヘルマンＶＳ古代兵器・桜花」	　Hero Helman vs Ancient Weapon Sakura.」
+235506	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｃブロック二戦目、	「Block C, Match Two:
+235507	+		　ヒーロー・ヘルマンＶＳ古代兵器・桜花」	　Hero Helman VS Ancient Weapon Ohka!」
 
-235508	Shuri Seihajuu Nagasaki		「二メートルを越す巨体のヒーロー選手、	「Hero, a giant over two meters tall,
-235509	+		　それに対するは、なんとそれよりも巨体の	　faced an even larger opponent,
-235510	+		　自称古代兵器である桜花選手でした」	　the self-proclaimed ancient weapon Sakura.」
+235508	Shuri Seihajuu Nagasaki		「二メートルを越す巨体のヒーロー選手、	「Standing well over two meters tall, Contestant Hero
+235509	+		　それに対するは、なんとそれよりも巨体の	　faced an even more colossal adversary:
+235510	+		　自称古代兵器である桜花選手でした」	　the self-proclaimed ancient weapon, Contestant Ohka!」
 
-235511	Shuri Seihajuu Nagasaki		「全身カラクリ仕掛けって感じの見た目で、	「She looked like a full-body mechanical
-235512	+		　我、目標、殲滅……我、人間、殲滅……	　contraption, repeating 'I, target, exterminate...
-235513	+		　としか言わない不気味な桜花選手」	　I, human, exterminate...' a creepy opponent.」
+235511	Shuri Seihajuu Nagasaki		「全身カラクリ仕掛けって感じの見た目で、	「Resembling a massive, fully mechanical contraption,
+235512	+		　我、目標、殲滅……我、人間、殲滅……	　she repeated chilling phrases like, 'Target, exterminate... Humans, exterminate...'
+235513	+		　としか言わない不気味な桜花選手」	　A truly uncanny and terrifying contender!」
 
-235514	Copandon Dott	ジト目	「がっちょんがっちょん言うとるやん……	「She's clanking around...
-235515	+		　そもそもどうやって参加したん……」	　How did she even enter...?」
+235514	Copandon Dott	ジト目	「がっちょんがっちょん言うとるやん……	「She was clanking and grinding all over the place...
+235515	+		　そもそもどうやって参加したん……」	　How in the world did a machine even pass registration...?」
 
-235516	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「試合開始と同時に挨拶代わりと言わんばかりに	「Right at the start she fired a laser beam
-235517	+		　レーザービームを放ちました……」	　as if it were a greeting...」
+235516	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「試合開始と同時に挨拶代わりと言わんばかりに	「Right upon the opening bell, she unleashed a devastating laser beam
+235517	+		　レーザービームを放ちました……」	　as if offering a casual greeting...」
 
-235518	Copandon Dott	ジト目	「今大会で一番わけの分からん選手や……」	「The most incomprehensible contestant in this tournament...」
+235518	Copandon Dott	ジト目	「今大会で一番わけの分からん選手や……」	「Easily the most incomprehensible participant in the entire tournament...」
 
-235519	Shuri Seihajuu Nagasaki	ダイジェスト	「ヒーロー選手も怯えて逃げ回りましたが……	「Hero ran around in fear at first, but...
-235520	+		　控え室にいたパートナーに何か言われると、	　after something his partner in the waiting room said,
-235521	+		　覚悟を決めたか相手に向き直り戦いだします」	　he steeled himself and faced her.」
+235519	Shuri Seihajuu Nagasaki	ダイジェスト	「ヒーロー選手も怯えて逃げ回りましたが……	「Contestant Hero scrambled around in sheer terror at first, but...
+235520	+		　控え室にいたパートナーに何か言われると、	　after hearing encouraging words from his partner in the lounge,
+235521	+		　覚悟を決めたか相手に向き直り戦いだします」	　he steeled his resolve and turned to face the mechanical behemoth!」
 
-235522	Shuri Seihajuu Nagasaki		「その後も桜花選手は電ノコ攻撃に	「Sakura continued her fierce assault with electric saws
-235523	+		　スタンガンアタックと多彩な猛攻を行いますが、	　and stun gun attacks, but
-235524	+		　そのことごとくを耐え続けるヒーロー選手」	　Hero endured every single one.」
+235522	Shuri Seihajuu Nagasaki		「その後も桜花選手は電ノコ攻撃に	「Contestant Ohka unleashed a relentless barrage with buzzsaws
+235523	+		　スタンガンアタックと多彩な猛攻を行いますが、	　and high-voltage stun weapons,
+235524	+		　そのことごとくを耐え続けるヒーロー選手」	　yet Contestant Hero stoically endured every single blow!」
 
-235525	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「大量の傷も作りましたが、	「Though covered in wounds,
-235526	+		　一撃必殺のラリアットアタックが炸裂！	　his one-hit-kill lariat attack exploded!
-235527	+		　ヒーロー選手が辛くも勝利を収めました！」	　Hero barely secured the victory!」
+235525	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「大量の傷も作りましたが、	「Despite suffering grievous wounds across his body,
+235526	+		　一撃必殺のラリアットアタックが炸裂！	　his devastating, all-or-nothing lariat detonated upon the machine!
+235527	+		　ヒーロー選手が辛くも勝利を収めました！」	　Contestant Hero seized a hard-fought, narrow victory!」
 
-235528	Copandon Dott	笑い	「まさに肉を斬らせて骨を断つ！	「Truly a 'cut the flesh to break the bone' strategy!
-235529	+		　派手で見応えある試合やったなー！	　A flashy and thrilling match!
-235530	+		　両選手ともよう頑張った！」	　Both fighters did great!」
+235528	Copandon Dott	笑い	「まさに肉を斬らせて骨を断つ！	「A true masterclass in taking the flesh to cleave the bone!
+235529	+		　派手で見応えある試合やったなー！	　Flashy, explosive, and thoroughly entertaining!
+235530	+		　両選手ともよう頑張った！」	　Kudos to both warriors for giving it their all!」
 
-235531	Copandon Dott	ジト目	「しっかし、ドラゴン対古代兵器って……	「Still, a dragon versus an ancient weapon...
-235532	+		　今大会で一番の異色対決やったんちゃうか？」	　might be the most unique matchup in this tournament.」
+235531	Copandon Dott	ジト目	「しっかし、ドラゴン対古代兵器って……	「Still, a dragon squaring off against an ancient mechanized relic...
+235532	+		　今大会で一番の異色対決やったんちゃうか？」	　Talk about the most bizarre matchup of the entire competition!」
 
-235533	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｄブロック一戦目、	「Block D first match,
-235534	+		　北条早雲ＶＳ四天王・風のビルデ」	　Houjou Souun vs Four Heavenly Kings - Wind's Bilde.」
+235533	Shuri Seihajuu Nagasaki	ダイジェスト	「Ｄブロック一戦目、	「Block D, Match One:
+235534	+		　北条早雲ＶＳ四天王・風のビルデ」	　Houjou Souun VS Four Heavenly Kings: Bilde of the Wind!」
 
-235535	Shuri Seihajuu Nagasaki		「JAPANは北条家の宗主、天才陰陽師、	「Houjou Souun, head of the Houjou clan and
-235536	+		　北条早雲選手」	　genius onmyoji of JAPAN, entered the arena.」
+235535	Shuri Seihajuu Nagasaki		「JAPANは北条家の宗主、天才陰陽師、	「Representing JAPAN: the master of the Houjou clan, the genius onmyoji,
+235536	+		　北条早雲選手」	　Contestant Houjou Souun!」
 
-235537	Shuri Seihajuu Nagasaki		「対するは本気は出さないがポリシーの	「His opponent was Bilde of the Wind, the weakest of the
-235538	+		　四天王最弱の男、糸目で怪しいと評判、	　Four Heavenly Kings who claims he doesn't go all out as a
-235539	+		　風のビルデさんの試合です」	　matter of policy, famous for his narrow suspicious eyes.」
+235537	Shuri Seihajuu Nagasaki		「対するは本気は出さないがポリシーの	「Facing him was the man whose creed is to never exert full effort—
+235538	+		　四天王最弱の男、糸目で怪しいと評判、	　the self-proclaimed weakest of the Four Heavenly Kings, known for his squinting gaze,
+235539	+		　風のビルデさんの試合です」	　Contestant Bilde of the Wind!」
 
-235540	Copandon Dott	基本	「ああ、四天王ならうちも知っとんで。	「Ah, I know the Four Heavenly Kings.
-235541	+		　確か去年の大会を盛り上げてくれた、	　They really livened up last year's tournament,
-235542	+		　四人の戦士やねんな」	　those four warriors.」
+235540	Copandon Dott	基本	「ああ、四天王ならうちも知っとんで。	「Ah, I know the Four Heavenly Kings well!
+235541	+		　確か去年の大会を盛り上げてくれた、	　Those were the four warriors who brought such incredible fanfare
+235542	+		　四人の戦士やねんな」	　to last year's tournament, right?」
 
-235543	Shuri Seihajuu Nagasaki	ダイジェスト	「はい、というわけで、	「Yes, and so great expectations were
-235544	+		　今年の出場にも大いに期待が寄せられています」	　placed on their participation this year too.」
+235543	Shuri Seihajuu Nagasaki	ダイジェスト	「はい、というわけで、	「Indeed! As such, enormous expectations
+235544	+		　今年の出場にも大いに期待が寄せられています」	　were placed on their return this year!」
 
 235545	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「し、しかし……	「H-However...
-235546	+		　試合開始直後、対戦相手である早雲選手の	　Right after the match started, Souun's onmyo attacks
-235547	+		　陰陽攻撃にビルデ選手、囲まれてしまいました」	　surrounded Bilde.」
+235546	+		　試合開始直後、対戦相手である早雲選手の	　the moment the match began, Souun's mystical onmyodo barriers
+235547	+		　陰陽攻撃にビルデ選手、囲まれてしまいました」	　completely enveloped Bilde from all sides!」
 
-235548	Shuri Seihajuu Nagasaki		「自慢の四天王一の速さを見せることなく、	「Without even showing off his boasted greatest speed
-235549	+		　あえなくビルデ選手はギブアップ。	　among the Four Heavenly Kings, Bilde was forced
-235550	+		　これにはファンの皆さんも嘆いていました」	　to give up. His fans were greatly disappointed.」
+235548	Shuri Seihajuu Nagasaki		「自慢の四天王一の速さを見せることなく、	「Without having a single opportunity to showcase his famed top speed,
+235549	+		　あえなくビルデ選手はギブアップ。	　Contestant Bilde was forced into a pathetic surrender,
+235550	+		　これにはファンの皆さんも嘆いていました」	　leaving his loyal fans in sheer despair!」
 
-235551	Copandon Dott	基本	「ま、本人の談がほんまなら四天王最弱らしいし、	「Well, according to him he's the weakest of the Four
-235552	+		　他の四天王の面々に期待しようやないの」	　Heavenly Kings, so let's look forward to the others.」
+235551	Copandon Dott	基本	「ま、本人の談がほんまなら四天王最弱らしいし、	「Well, if his own words hold true, he was the weakest link anyway.
+235552	+		　他の四天王の面々に期待しようやないの」	　Let us pin our hopes on the remaining three Heavenly Kings!」
 
-235553	Shuri Seihajuu Nagasaki	ダイジェスト	「そうですね」	「Indeed.」
+235553	Shuri Seihajuu Nagasaki	ダイジェスト	「そうですね」	「Quite so!」
 
-235554	Shuri Seihajuu Nagasaki		「Ｄブロック二戦目、	「Block D second match,
-235555	+		　アスタリスクＶＳドギ・マギ」	　Asterisk vs Dogi Magi.」
+235554	Shuri Seihajuu Nagasaki		「Ｄブロック二戦目、	「Block D, Match Two:
+235555	+		　アスタリスクＶＳドギ・マギ」	　Asterisk VS Dogi Magi!」
 
-235556	Shuri Seihajuu Nagasaki		「嫁を沢山抱えたニヤケ顔の男、アスタ選手と、	「Aster, the smirking man with many wives,
-235557	+		　元山賊のかしらである不細工で	　versus the ugly giant former bandit leader Dogi
-235558	+		　巨漢の斧使いドギ選手と対照的な戦い」	　with his huge axe, a complete contrast.」
+235556	Shuri Seihajuu Nagasaki		「嫁を沢山抱えたニヤケ顔の男、アスタ選手と、	「A stark contrast between Contestant Aster, the smirking swordsman surrounded by his harem of wives,
+235557	+		　元山賊のかしらである不細工で	　and Contestant Dogi, the hulking, unsightly axe-wielder
+235558	+		　巨漢の斧使いドギ選手と対照的な戦い」	　and former bandit leader!」
 
-235559	Shuri Seihajuu Nagasaki		「結果はアスタ選手が	「The result was Aster's overwhelming victory
-235560	+		　ざくざくしゅぱーんで圧勝」	　with rapid stabs and slashes.」
+235559	Shuri Seihajuu Nagasaki		「結果はアスタ選手が	「The match concluded in an overwhelming, one-sided victory for Aster,
+235560	+		　ざくざくしゅぱーんで圧勝」	　who shredded his opponent with lightning slashes!」
 
-235561	Shuri Seihajuu Nagasaki		「アスタさんの嫁達も大喜びで	「Aster's wives were overjoyed
-235562	+		　コロシアムでキスまで披露してくれちゃいました」	　and even kissed him in the colosseum.」
+235561	Shuri Seihajuu Nagasaki		「アスタさんの嫁達も大喜びで	「Aster's adoring wives erupted in celebration,
+235562	+		　コロシアムでキスまで披露してくれちゃいました」	　even showering him with passionate kisses right in the middle of the arena!」
 
-235563	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「これじゃあ、あんまりに可哀想だと	「It was so one-sided that
-235564	+		　ドギ選手に同情の声まで上がったとかなんとか」	　some voices of sympathy rose for Dogi.」
+235563	Shuri Seihajuu Nagasaki	ダイジェスト／困り	「これじゃあ、あんまりに可哀想だと	「The defeat was so humiliatingly lopsided
+235564	+		　ドギ選手に同情の声まで上がったとかなんとか」	　that murmurs of pity were reportedly heard across the stands for Dogi...」
 
-235565	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「と、今回の試合はこんな感じでーっす」	「And that's how today's matches went~」
+235565	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「と、今回の試合はこんな感じでーっす」	「And that wraps up today's exciting matchups!」
 
-235566	Shuri Seihajuu Nagasaki	ダイジェスト	「コパンドンさん、何かご感想はありますか？」	「Copandon-san, any thoughts?」
+235566	Shuri Seihajuu Nagasaki	ダイジェスト	「コパンドンさん、何かご感想はありますか？」	「Copandon-san, any final thoughts on today's action?」
 
-235567	Copandon Dott	基本	「優勝候補は沢山おるけど……	「There are many championship contenders,
-235568	+		　やっぱりその中でも魔王の子は頭一つか二つ	　but... the Demon King's children still
-235569	+		　抜けとるね」	　stand a head or two above the rest.」
+235567	Copandon Dott	基本	「優勝候補は沢山おるけど……	「We have plenty of formidable championship contenders,
+235568	+		　やっぱりその中でも魔王の子は頭一つか二つ	　but the Demon King's children undeniably stand
+235569	+		　抜けとるね」	　a head and shoulders above the competition.」
 
-235570	Copandon Dott		「下手すると魔王の子達だけの	「It might end up being their solo dominance,
-235571	+		　独壇場にもなりかねないんやけど……	　but...
-235572	+		　その牙城を崩す選手が出るかどうか」	　whether someone can break their stronghold」
+235570	Copandon Dott		「下手すると魔王の子達だけの	「If this keeps up, it could easily turn into their private playground...
+235571	+		　独壇場にもなりかねないんやけど……	　The real question is:
+235572	+		　その牙城を崩す選手が出るかどうか」	　will any challenger emerge strong enough to shatter their fortress?」
 
-235573	Copandon Dott		「その辺りが今大会の見所の一つになるやろね」	「is one of the highlights of this tournament.」
+235573	Copandon Dott		「その辺りが今大会の見所の一つになるやろね」	「That will undoubtedly be one of the greatest spectacles of this tournament!」
 
-235574	Shuri Seihajuu Nagasaki	ダイジェスト	「なるほど」	「I see.」
+235574	Shuri Seihajuu Nagasaki	ダイジェスト	「なるほど」	「Indeed!」
 
-235575	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「明日以降も試合は沢山あります。	「There are still many matches ahead starting tomorrow.
-235576	+		　一つずつつぶさに見守っていきましょう」	　Let's watch each one carefully.」
+235575	Shuri Seihajuu Nagasaki	ダイジェスト／笑顔	「明日以降も試合は沢山あります。	「Countless thrilling matches await us starting tomorrow.
+235576	+		　一つずつつぶさに見守っていきましょう」	　Let us watch every single duel unfold with bated breath!」
 
-235577	Shuri Seihajuu Nagasaki	ダイジェスト	「この番組は、コロシアム南西の要塞、	「This program was brought to you by
-235578	+		　堅牢なるトップリゾートでお馴染み、	　the sturdy top resort in the southwest
-235579	+		　アルカトラズの提供でお送りしました」	　fortress of the colosseum, Alcatraz.」
+235577	Shuri Seihajuu Nagasaki	ダイジェスト	「この番組は、コロシアム南西の要塞、	「This broadcast was brought to you by the impenetrable luxury resort
+235578	+		　堅牢なるトップリゾートでお馴染み、	　situated in the southwest fortress of the colosseum—
+235579	+		　アルカトラズの提供でお送りしました」	　Alcatraz!」
 
 235580	-		…………	............
 
 235581	-		……	...
 
-235582	Nagata-kun	基本	「って、ドギ負けてんじゃん！」	「Wait, Dogi lost!」
+235582	Nagata-kun	基本	「って、ドギ負けてんじゃん！」	「Wait, Dogi lost already?!」
 
-235583	-		ドギは負けていた。	Dogi had lost.
+235583	-		ドギは負けていた。	Dogi had, in fact, been thoroughly crushed.
