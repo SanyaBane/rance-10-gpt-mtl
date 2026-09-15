@@ -6,192 +6,192 @@
 * La Hawzel	ハウゼル	Female
 * Leazas White Knight	汎用リーザス白騎士	Male
 
-115931	Rance	基本	「お、もう炊き出しの時間か」	「Oh, is it already time for the field kitchen?」
+115931	Rance	基本	「お、もう炊き出しの時間か」	「Oh, is it time for mess rations already?」
 
-115932	-		野営地の一角にテントが作られ、	A tent was set up in a corner of the encampment,
-115933	+		兵達に食事が配られていた。	and meals were being distributed to the soldiers.
+115932	-		野営地の一角にテントが作られ、	A tent had been set up in a corner of the encampment,
+115933	+		兵達に食事が配られていた。	where meals were being distributed to the soldiers.
 
-115934	Sill Plain		「ランス様、どうしましょう。	「Rance-sama, what should we do.
-115935	+		　こちらでいただきますか？	　Shall we eat here?
-115936	+		　それとも何か作りますか？」	　Or shall I make something?」
+115934	Sill Plain		「ランス様、どうしましょう。	「What should we do, Rance-sama?
+115935	+		　こちらでいただきますか？	　Shall we eat here,
+115936	+		　それとも何か作りますか？」	　or would you prefer I make something?」
 
-115937	Rance	怒り	「馬鹿もん、総統閣下様であらせられる俺が	「You idiot, how could the Supreme Leader himself
-115938	+		　木っ端の兵どもと同じものが食えるか！」	　eat the same thing as lowly soldiers!」
+115937	Rance	怒り	「馬鹿もん、総統閣下様であらせられる俺が	「Fool! How could the great and exalted Supreme Leader
+115938	+		　木っ端の兵どもと同じものが食えるか！」	　eat the same swill as low-ranking grunts?!」
 
-115939	Rance	基本	「と、言いたいところだが……	「That's what I'd like to say but......
-115940	+		　時には同じものを食うのも大事だな。	　Sometimes eating the same thing is important too.
-115941	+		　今日は炊き出しの飯を食うぞ」	　Today we'll eat the field kitchen meal.」
+115939	Rance	基本	「と、言いたいところだが……	「Or so I'd like to say...
+115940	+		　時には同じものを食うのも大事だな。	　but eating the same rations as the troops is important from time to time.
+115941	+		　今日は炊き出しの飯を食うぞ」	　Today we're having camp grub!」
 
-115942	Sill Plain		「はい、ランス様、	「Yes, Rance-sama,
-115943	+		　炊き出しご飯、お好きですものね」	　you do like field kitchen meals.」
+115942	Sill Plain		「はい、ランス様、	「Yes, Rance-sama.
+115943	+		　炊き出しご飯、お好きですものね」	　You've always loved camp rations, after all.」
 
-115944	Sill Plain	ひんひん	「あいたっ」	「Ouch.」
+115944	Sill Plain	ひんひん	「あいたっ」	「Ouch!」
 
-115945	Rance	だる顔	「人を貧乏舌みたいに言うな」	「Don't make me sound like I have poor taste.」
+115945	Rance	だる顔	「人を貧乏舌みたいに言うな」	「Don't make it sound like I've got cheap tastes.」
 
-115946	Sill Plain	基本	「そんなこと言ってないです……」	「I didn't say that......」
+115946	Sill Plain	基本	「そんなこと言ってないです……」	「I never said that...」
 
-115947	Rance		「よし、早速取ってこい」	「Alright, go get some quickly.」
+115947	Rance		「よし、早速取ってこい」	「Alright, go fetch some right now.」
 
-115948	Sill Plain		「はーい、行ってきます」	「Okaaay, I'll be right back.」
+115948	Sill Plain		「はーい、行ってきます」	「Okaaay, right away!」
 
-115949	Rance	真剣	「あ、って待てシィル」	「Ah, wait Sill.」
+115949	Rance	真剣	「あ、って待てシィル」	「Ah, wait a second, Sill.」
 
-115950	Rance	驚き	「……な、なんだぁ？」	「...W-what?」
+115950	Rance	驚き	「……な、なんだぁ？」	「...Wh-What is that?」
 
-115951	-		配給所を見ると、	Looking at the distribution point,
-115952	+		不自然なほど長蛇の列が一列だけあった。	there was one unnaturally long line.
+115951	-		配給所を見ると、	Looking over at the ration station,
+115952	+		不自然なほど長蛇の列が一列だけあった。	there was one single line that was unnaturally long.
 
-115953	Rance	だる顔	「なんだこの列……	「What's with this line......
-115954	+		　他の二倍、や、三倍はあるぞ」	　It's twice, no, three times longer than the others.」
+115953	Rance	だる顔	「なんだこの列……	「What's with this line...?
+115954	+		　他の二倍、や、三倍はあるぞ」	　It's twice, no, three times longer than any other.」
 
-115955	Sill Plain	基本	「すごい大人気ですね……	「It's extremely popular......
-115956	+		　他のとこならすぐご飯頂けるのに、	　We could get food right away elsewhere,
-115957	+		　皆さんここに並んでますよ」	　but everyone is lining up here.」
+115955	Sill Plain	基本	「すごい大人気ですね……	「It's remarkably popular...
+115956	+		　他のとこならすぐご飯頂けるのに、	　Even though they could get food right away at the other counters,
+115957	+		　皆さんここに並んでますよ」	　everyone is queuing up here.」
 
-115958	Rance		「よし、ここのを食うぞ。	「Alright, we'll eat from here.
-115959	+		　きっととんでもない美味いものを	　They must be serving something incredibly delicious
+115958	Rance		「よし、ここのを食うぞ。	「Alright, we're eating from this one.
+115959	+		　きっととんでもない美味いものを	　They must be dishing out something crazy good
 115960	+		　出してるに違いない」	　to have a line like this.」
 
-115961	Sill Plain	考え中	「あ、でもそうすると、	「Ah, but if we do that,
-115962	+		　食べられるまで時間がかかりますが……」	　it'll take a while until we can eat......」
+115961	Sill Plain	考え中	「あ、でもそうすると、	「Ah, but if we do,
+115962	+		　食べられるまで時間がかかりますが……」	　it's going to take quite a while before we can eat...」
 
-115963	Rance	だる顔	「アホ、なんで俺が	「Idiot, why should I
-115964	+		　わざわざ並ばにゃならんのだ」	　have to wait in line?」
+115963	Rance	だる顔	「アホ、なんで俺が	「Idiot, why in the world
+115964	+		　わざわざ並ばにゃならんのだ」	　would I ever stand in line?」
 
-115965	Rance	怒り	「おらおら、どけー、お前ら！」	「Out of the way, you lot!」
+115965	Rance	怒り	「おらおら、どけー、お前ら！」	「Out of the way! Move it, you lot!」
 
 115966	Leazas White Soldier	基本	「うわあ、ひどい総統！」	「Whoa, what a terrible Supreme Leader!」
 
-115967	Leazas Red Soldier		「うっ、ぐすっ……当たり前のように……」	「Ugh, sob... acting like it's normal......」
+115967	Leazas Red Soldier		「うっ、ぐすっ……当たり前のように……」	「Ugh, *sob*... He cuts in like it's totally normal...」
 
-115968	Sill Plain	恥	「うう、ランス様、割り込みは駄目ですよぉ……」	「Uuu, Rance-sama, cutting in line is bad......」
+115968	Sill Plain	恥	「うう、ランス様、割り込みは駄目ですよぉ……」	「Uuu, Rance-sama, cutting in line is wrong...」
 
 115969	Rance	基本	「って、あれ？」	「Wait, huh?」
 
 115970	La Hawzel	武装なし	「あら、総統？」	「Oh, Supreme Leader?」
 
-115971	-		列の最前列まで進むと、	When he reached the front of the line,
-115972	+		大鍋の前で食事を配給しているハウゼルがいた。	Hawzel was there distributing food from a large pot.
+115971	-		列の最前列まで進むと、	Pushing his way to the front of the line,
+115972	+		大鍋の前で食事を配給しているハウゼルがいた。	he found Hawzel ladling out food before a massive cauldron.
 
 115973	Rance	基本	「って、ハウゼル？	「Wait, Hawzel?
-115974	+		　なにしてんだ？」	　What are you doing?」
+115974	+		　なにしてんだ？」	　What are you doing here?」
 
-115975	La Hawzel	武装なし	「ご覧の通り、炊き出しのお手伝いに」	「As you can see, helping with the field kitchen.」
+115975	La Hawzel	武装なし	「ご覧の通り、炊き出しのお手伝いに」	「As you can see, I am helping with the meal distribution.」
 
-115976	Rance	基本	「なんと。	「Wow.
-115977	+		　これ君が作ったのか」	　Did you make this?」
+115976	Rance	基本	「なんと。	「Well, look at that.
+115977	+		　これ君が作ったのか」	　You made this?」
 
-115978	La Hawzel	武装なし	「はい、簡単な料理なら出来ますし、	「Yes, I can make simple dishes,
-115979	+		　戦争中はよく火炎と一緒に	　and during the war I often cooked with Flame
-115980	+		　魔物達へのご飯を作ってたんですよ？」	　for the monsters.」
+115978	La Hawzel	武装なし	「はい、簡単な料理なら出来ますし、	「Yes. I can manage simple home cooking,
+115979	+		　戦争中はよく火炎と一緒に	　and back during the war, Flame and I often
+115980	+		　魔物達へのご飯を作ってたんですよ？」	　prepared meals for the monsters.」
 
-115981	Rance	だる顔	「なるほど……	「I see......
-115982	+		　兵共が並ぶわけだ」	　That's why the soldiers are lining up.」
+115981	Rance	だる顔	「なるほど……	「I see...
+115982	+		　兵共が並ぶわけだ」	　No wonder these grunts are lining up.」
 
-115983	Leazas Red Soldier	非武装	「えへへ……」	「Ehehe......」
+115983	Leazas Red Soldier	非武装	「えへへ……」	「Ehehe...」
 
-115984	Leazas White Knight		「戦場では、この手の癒やしは……	「On the battlefield, this kind of healing......
-115985	+		　本当に貴重ですから」	　is truly precious.」
+115984	Leazas White Knight		「戦場では、この手の癒やしは……	「On the battlefield, this sort of gentle comfort...
+115985	+		　本当に貴重ですから」	　is truly priceless.」
 
-115986	Leazas Red Soldier		「ハウゼル殿が作り、	「Food made by Hawzel-dono,
-115987	+		　ハウゼル殿から手渡されたものを	　and handed directly by her,
-115988	+		　食べられるなんて、もう夢のようであります」	　it's like a dream.」
+115986	Leazas Red Soldier		「ハウゼル殿が作り、	「To eat food cooked by Hawzel-dono,
+115987	+		　ハウゼル殿から手渡されたものを	　handed to us directly by her own hands...
+115988	+		　食べられるなんて、もう夢のようであります」	　It is practically a dream come true, sir!」
 
-115989	La Hawzel	武装なし	「まあ……」	「Well......」
+115989	La Hawzel	武装なし	「まあ……」	「My...」
 
-115990	La Hawzel	武装なし／笑顔	「ふふっ、皆さんお世辞がお上手なんですね」	「Fufu, you all are good with flattery.」
+115990	La Hawzel	武装なし／笑顔	「ふふっ、皆さんお世辞がお上手なんですね」	「Fufu, you are all far too generous with your flattery.」
 
-115991	-		柔らかく、たおやかにハウゼルが微笑む。	Hawzel smiled softly and gracefully.
+115991	-		柔らかく、たおやかにハウゼルが微笑む。	Hawzel gave a soft, graceful smile.
 
-115992	Leazas Red Soldier	非武装	「ほわ……」	「Howa......」
+115992	Leazas Red Soldier	非武装	「ほわ……」	「Whoaaa...」
 
-115993	-		たったそれだけで、周りにいた	With just that, the many
-115994	+		大量のリーザス兵達はすっかり骨抜きにされた。	Leazas soldiers around her were completely enchanted.
+115993	-		たったそれだけで、周りにいた	With just that single gesture, the crowd of
+115994	+		大量のリーザス兵達はすっかり骨抜きにされた。	Leazas soldiers around her melted completely.
 
-115995	Leazas Red Soldier		「天使様だ……天使様がご光臨なされた……」	「It's an angel... An angel has descended......」
+115995	Leazas Red Soldier		「天使様だ……天使様がご光臨なされた……」	「An angel... A true angel has descended upon us...」
 
-115996	Leazas White Knight		「ああ、戦場の禁欲生活だと、ちと毒だがな」	「Yeah, after the ascetic life on the battlefield, this is a bit poisonous.」
+115996	Leazas White Knight		「ああ、戦場の禁欲生活だと、ちと毒だがな」	「Aye, though living an ascetic life on the battlefield makes this sweetness almost deadly.」
 
-115997	La Hawzel	武装なし	「はい？」	「Yes?」
+115997	La Hawzel	武装なし	「はい？」	「Pardon?」
 
-115998	Rance	だる顔	「……君はちょっと、色々と無自覚すぎるな」	「...You're a bit too unaware of a lot of things.」
+115998	Rance	だる顔	「……君はちょっと、色々と無自覚すぎるな」	「...You really are oblivious to your own effect on people.」
 
 115999	La Hawzel	武装なし	「ところで、ランス総統」	「By the way, Supreme Leader Rance.」
 
 116000	Rance	基本	「なにかね？	「What is it?
-116001	+		　あ、大盛りで。	　Ah, extra large.
-116002	+		　そこのでかい肉入れてくれ」	　Put that big chunk of meat in there.」
+116001	+		　あ、大盛りで。	　Ah, make mine extra large.
+116002	+		　そこのでかい肉入れてくれ」	　Toss that huge chunk of meat in there.」
 
-116003	La Hawzel	武装なし	「割り込みはいけません。	「Cutting in line is not allowed.
-116004	+		　最後尾から並び直して下さい」	　Please go to the back and line up again.」
+116003	La Hawzel	武装なし	「割り込みはいけません。	「Cutting in line is strictly forbidden.
+116004	+		　最後尾から並び直して下さい」	　Please go to the very back and wait your turn.」
 
-116005	Rance	基本	「むっ……俺、総統閣下……」	「Muu... I'm the Supreme Leader...」
+116005	Rance	基本	「むっ……俺、総統閣下……」	「Mmh... But I'm the Supreme Leader...」
 
-116006	La Hawzel	武装なし	「総統なら、なおのこと、	「If you're the Supreme Leader, all the more reason
-116007	+		　皆の手本になって頂かないと。	　you should set an example for everyone.
-116008	+		　さ、ランス総統」	　Now, Supreme Leader Rance.」
+116006	La Hawzel	武装なし	「総統なら、なおのこと、	「If you are the Supreme Leader, then all the more reason
+116007	+		　皆の手本になって頂かないと。	　you must lead by example.
+116008	+		　さ、ランス総統」	　Now then, Supreme Leader Rance.」
 
-116009	Rance	だる顔	「……仕方ないな」	「...Can't be helped.」
+116009	Rance	だる顔	「……仕方ないな」	「...Fine, whatever.」
 
-116010	Rance	真剣	「シィーール、代わりに並んどけ」	「Sill, go line up in my place.」
+116010	Rance	真剣	「シィーール、代わりに並んどけ」	「Siiill, go line up in my place.」
 
-116011	Sill Plain	恥	「うう、はい、分かりましたぁ」	「Uuu, yes, understood.」
+116011	Sill Plain	恥	「うう、はい、分かりましたぁ」	「Uuu, yes, right away...」
 
-116012	La Hawzel	武装なし	「ふう、ようやく配膳が終わりました」	「Whew, the serving is finally done.」
+116012	La Hawzel	武装なし	「ふう、ようやく配膳が終わりました」	「Phew, meal service is finally finished.」
 
-116013	Rance	基本	「今からようやく飯か。	「So now we finally eat.
-116014	+		　大変だったな」	　That was rough.」
+116013	Rance	基本	「今からようやく飯か。	「Finally time for your own food, huh?
+116014	+		　大変だったな」	　That was quite a chore.」
 
-116015	La Hawzel	武装なし	「いえ、今の私が出来ることなんて、	「No, this is about all I can do right now,
-116016	+		　これくらいですから……」	　so...」
+116015	La Hawzel	武装なし	「いえ、今の私が出来ることなんて、	「Not at all. Helping out like this
+116016	+		　これくらいですから……」	　is about the only thing I can do right now...」
 
 116017	Rance	基本	「しかし……	「Still...
-116018	+		　君は本当に変わってるな」	　you're really unusual.」
+116018	+		　君は本当に変わってるな」	　you really are an odd one.」
 
 116019	Rance		「人間に協力するだけでも、	「Just cooperating with humans is
-116020	+		　魔人の中じゃ変わり者だろうに、	　already rare among Fiend, yet you're
-116021	+		　人間に食事の配膳までするなんて」	　even serving meals to humans.」
+116020	+		　魔人の中じゃ変わり者だろうに、	　eccentric enough for a Fiend,
+116021	+		　人間に食事の配膳までするなんて」	　yet you're even serving meals to humans on top of that.」
 
 116022	La Hawzel	武装なし／笑顔	「ふふ」	「Fufu.」
 
-116023	Rance	基本	「ん、なんだ？」	「Hm, what?」
+116023	Rance	基本	「ん、なんだ？」	「Hm? What's funny?」
 
-116024	La Hawzel	武装なし／笑顔	「サイゼルや、サテラにも、	「Both Seizel and Satella
-116025	+		　似たようなことを言われます」	　say similar things to me.」
+116024	La Hawzel	武装なし／笑顔	「サイゼルや、サテラにも、	「Seizel and Satella
+116025	+		　似たようなことを言われます」	　tell me the exact same thing.」
 
-116026	La Hawzel		「皆さんのお力になりたいこと、	「Wanting to help everyone,
-116027	+		　皆さんと仲良くしたいと思うこと、	　wanting to get along with everyone,
+116026	La Hawzel		「皆さんのお力になりたいこと、	「Wanting to lend everyone a hand,
+116027	+		　皆さんと仲良くしたいと思うこと、	　wanting to get along in harmony...
 116028	+		　そんなにおかしいことでしょうか？」	　is that really so strange?」
 
-116029	Rance	基本	「む」	「Mu.」
+116029	Rance	基本	「む」	「Mmh.」
 
-116030	La Hawzel	武装なし／笑顔	「人、それぞれですよ」	「People are all different.」
+116030	La Hawzel	武装なし／笑顔	「人、それぞれですよ」	「Everyone has their own way.」
 
-116031	La Hawzel	武装なし	「誰よりも偉く振る舞うことが好きな方もいれば、	「Some people love acting superior to others,
-116032	+		　私のように平和でありたい人も……」	　while others like me just want peace...」
+116031	La Hawzel	武装なし	「誰よりも偉く振る舞うことが好きな方もいれば、	「There are those who relish acting superior above all else,
+116032	+		　私のように平和でありたい人も……」	　just as there are those who simply wish for peace, like me...」
 
-116033	La Hawzel		「苦労も多いですが……	「It's full of hardships but...
-116034	+		　私は自分の生き方に後悔はありません」	　I have no regrets about how I live.」
+116033	La Hawzel		「苦労も多いですが……	「Though it brings many hardships...
+116034	+		　私は自分の生き方に後悔はありません」	　I have no regrets about the way I choose to live.」
 
-116035	La Hawzel		「今までも……そして、これからも」	「In the past... and in the future too.」
+116035	La Hawzel		「今までも……そして、これからも」	「Not in the past... and not in the future, either.」
 
 116036	-		今までの戦争での犠牲者達を思い出し、	Recalling the victims of past wars,
 116037	+		ハウゼルの表情が愁いを帯びる。	Hawzel's expression became tinged with sorrow.
 
 116038	La Hawzel	武装なし／目閉じ	「戦争なんて……	「War...
-116039	+		　早く、終わってしまえばいいのに」	　I wish it would end soon.」
+116039	+		　早く、終わってしまえばいいのに」	　If only it would all just end quickly.」
 
-116040	-		そうこぼしながら夜空を見上げる	Muttering that while gazing at the night sky,
+116040	-		そうこぼしながら夜空を見上げる	Looking up at the night sky as she whispered those words,
 116041	+		ハウゼルの横顔はうっとりするほど美しかった。	Hawzel's profile was breathtakingly beautiful.
 
-116042	Rance	笑顔	「がははは、それなら安心したまえ。	「Gahahaha, then rest easy.
-116043	+		　こんな下らん戦争、	　This worthless war,
-116044	+		　俺様がとっとと終わらせてくれるわ！」	　I'll end it quickly for you!」
+116042	Rance	笑顔	「がははは、それなら安心したまえ。	「Gahahaha! Then you can rest easy!
+116043	+		　こんな下らん戦争、	　The Great Rance will bring this pointless war
+116044	+		　俺様がとっとと終わらせてくれるわ！」	　to a swift end in no time!」
 
-116045	Rance	基本	「その為にもハウゼル、	「For that, Hawzel,
-116046	+		　君にも協力してもらうからな」	　I'll need your help too.」
+116045	Rance	基本	「その為にもハウゼル、	「And for that, Hawzel,
+116046	+		　君にも協力してもらうからな」	　I'll be counting on your cooperation as well.」
 
-116047	La Hawzel	武装なし／笑顔	「くすっ……」	「Hehe...」
+116047	La Hawzel	武装なし／笑顔	「くすっ……」	「*giggle*...」
 
 116048	La Hawzel		「はい、喜んで」	「Yes, with pleasure.」
