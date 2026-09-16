@@ -1,6 +1,6 @@
 # 34555	t１５３／スタート	
 
-257779	?		　条件：[英雄ブリティシュ]実行済み、アムが居る	Condition: [Hero British] completed, Am is present. Rance
+257779	?		　条件：[英雄ブリティシュ]実行済み、アムが居る	　Condition: [Hero British] completed, Am is present. Rance
 257780	+		ランス城	Castle The battle is fraught with difficulty, a feeling that tough times
 257781	+		戦いは前途多難、大変な状況が続いているという雰囲気	continue. Watching Rance and the others, Chaos and Cafe are chatting
 257782	+		そんなランス達を見て、縁側の爺婆ぽい会話をしているカオス、カフェ（なんなら日光も	like old folks on the porch (and if you like, Nikkou too). It's tough
@@ -9,10 +9,10 @@
 257785	+		ホラガの話になる、神に全ての知識を求めた。何かこの状況を打破出来る事を知っているかもしれない	we don't know how to handle, if only we had more information...
 257786	+		カフェは、うーん、やめた方が・・とか（彼女は一度会っている）	The conversation turns to Horaga, who sought all knowledge from the
 257787	+		他の誰かも来て、ランスも会話に入り、それならぜひ行くべきだという流れになる	god. He might know something to break this situation. Cafe says, hmm,
-257788	+		　　ケイブリスを倒す方法とか知っているかも	better not... (she has met him once before). Someone else comes,
-257789	+		　　あてな、人間になる方法を知っているかも	Rance joins the conversation, and the flow leads to 'We definitely
-257790	+		　　美樹、健太郎、魔王を直す方法を知っているかも	should go'. He might know how to defeat Kayblis. Maybe he knows
-257791	+		　　パットン、この飛んでいるだけのランス城を動かす方法を知っているかも（　確認("ランス城は飛んでいる")==1	how to become human. Might know how to fix Miki, Kentarou, and the
+257788	+		　　ケイブリスを倒す方法とか知っているかも	　　better not... (she has met him once before). Someone else comes,
+257789	+		　　あてな、人間になる方法を知っているかも	　　Rance joins the conversation, and the flow leads to 'We definitely
+257790	+		　　美樹、健太郎、魔王を直す方法を知っているかも	　　should go'. He might know how to defeat Kayblis. Maybe he knows
+257791	+		　　パットン、この飛んでいるだけのランス城を動かす方法を知っているかも（　確認("ランス城は飛んでいる")==1	　　how to become human. Might know how to fix Miki, Kentarou, and the
 257792	+		・・・	Demon King. Patton might know how to move this flying Rance Castle
 257793	+		・・	(check "Rance Castle is flying"==1). ... .. Then Rance and the others
 257794	+		そしてヘルマン北部、シベリア地方にランス達はやってきた。	arrived at the northern Helman, Siberian region. Check the map... wow,

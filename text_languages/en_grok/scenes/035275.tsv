@@ -6,23 +6,23 @@
 262896	+		ランスに説明しているというより、ユーザーに分かればいいです	or occasionally by characters' dialogue. It's not so much explaining
 262897	+		　	 
 262898	+		確認("自由都市ピンチ")==1	to Rance as making it clear to the user. Check ("Free Cities in Danger")
-262899	+		　地図　自由都市１／合戦３１　を使って戦況説明	== 1 Use map Free Cities 1 / Battle 31 to explain the battle situation.
-262900	+		　魔軍の方が圧倒的に多く滅亡の可能性がある状態	The Monster Army is overwhelmingly larger, and there's a possibility
-262901	+		　ランス達がこの方面に来た魔人を殲滅してくれはしたが、魔物大将軍ピサロ率いる	of annihilation. Rance and his group annihilated the Fiends arriving in
-262902	+		　S(Ｔ敵軍兵力());万にも及ぶ大軍は自由都市連合軍を徐々に追い詰めていた	this area, but the Great Monster General Pizarro leads... An army of tens
-262903	+		　魔軍は自由都市地帯を突破してＪＡＰＡＮへ迫ろうとしていた	of thousands, S(T enemy forces), was gradually cornering the Free Cities
-262904	+		　コパンドンと都市長達の会話、セシル隊長などの出番	Alliance Army. The Monster Army was breaking through the Free Cities
-262905	+		　今がふんばり所やで、あきらめたらそれで試合終了や、まだ逆転のチャンスはある	area and advancing toward JAPAN. Conversation between Copandon and
-262906	+		　とコパンドンがみんなを奮起	the city mayors, with Captain Cecil's appearance. Now's the time to hold
+262899	+		　地図　自由都市１／合戦３１　を使って戦況説明	　== 1 Use map Free Cities 1 / Battle 31 to explain the battle situation.
+262900	+		　魔軍の方が圧倒的に多く滅亡の可能性がある状態	　The Monster Army is overwhelmingly larger, and there's a possibility
+262901	+		　ランス達がこの方面に来た魔人を殲滅してくれはしたが、魔物大将軍ピサロ率いる	　of annihilation. Rance and his group annihilated the Fiends arriving in
+262902	+		　S(Ｔ敵軍兵力());万にも及ぶ大軍は自由都市連合軍を徐々に追い詰めていた	　this area, but the Great Monster General Pizarro leads... An army of tens
+262903	+		　魔軍は自由都市地帯を突破してＪＡＰＡＮへ迫ろうとしていた	　of thousands, S(T enemy forces), was gradually cornering the Free Cities
+262904	+		　コパンドンと都市長達の会話、セシル隊長などの出番	　Alliance Army. The Monster Army was breaking through the Free Cities
+262905	+		　今がふんばり所やで、あきらめたらそれで試合終了や、まだ逆転のチャンスはある	　area and advancing toward JAPAN. Conversation between Copandon and
+262906	+		　とコパンドンがみんなを奮起	　the city mayors, with Captain Cecil's appearance. Now's the time to hold
 262907	+		　	
 262908	+		確認("自由都市ピンチ")==0	on; if you give up, the game is over. There's still a chance to turn things
-262909	+		　地図　自由都市１／合戦３２　を使って戦況説明	around. Copandon motivates everyone like this. Check ("Free Cities
-262910	+		　戦力的には均衡している、どちらかという少し押している	in Danger") == 0 Use map Free Cities 1 / Battle 32 to explain the battle
-262911	+		　セシルの指揮する部隊が大勝利をして帰還してきた所	situation. The forces are balanced, though slightly leaning toward one
-262912	+		　都市長達が褒め称える、さすがですとちやほや	side. The unit under Cecil's command has returned after a great victory.
-262913	+		　２日前の合戦でハンナ南部の敵軍をおおかた撃破してきた。	City mayors praise them, lavishly flattering with 'As expected'. Two days
-262914	+		　次はアイス方面に立て籠もる大将軍ピサロを含む敵主力ですね	ago's battle mostly defeated the enemy forces in southern Hanna. Next
-262915	+		　すぐにでもとセシルに迫る都市長だが	is the enemy main force including General Pizarro entrenched in the Ice
-262916	+		　そんな簡単には勝てない・	direction. The city mayor urges Cecil to act immediately, but... It won't
-262917	+		　コパンドン、こないだ連絡があったＪＡＰＡＮからの大規模援軍が来まで	be that easy to win. Copandon says, until the large reinforcements from
-262918	+		　待ちましょうとかうんぬん	JAPAN, which were recently contacted, arrive... Let's wait and so on.
+262909	+		　地図　自由都市１／合戦３２　を使って戦況説明	　around. Copandon motivates everyone like this. Check ("Free Cities
+262910	+		　戦力的には均衡している、どちらかという少し押している	　in Danger") == 0 Use map Free Cities 1 / Battle 32 to explain the battle
+262911	+		　セシルの指揮する部隊が大勝利をして帰還してきた所	　situation. The forces are balanced, though slightly leaning toward one
+262912	+		　都市長達が褒め称える、さすがですとちやほや	　side. The unit under Cecil's command has returned after a great victory.
+262913	+		　２日前の合戦でハンナ南部の敵軍をおおかた撃破してきた。	　City mayors praise them, lavishly flattering with 'As expected'. Two days
+262914	+		　次はアイス方面に立て籠もる大将軍ピサロを含む敵主力ですね	　ago's battle mostly defeated the enemy forces in southern Hanna. Next
+262915	+		　すぐにでもとセシルに迫る都市長だが	　is the enemy main force including General Pizarro entrenched in the Ice
+262916	+		　そんな簡単には勝てない・	　direction. The city mayor urges Cecil to act immediately, but... It won't
+262917	+		　コパンドン、こないだ連絡があったＪＡＰＡＮからの大規模援軍が来まで	　be that easy to win. Copandon says, until the large reinforcements from
+262918	+		　待ちましょうとかうんぬん	　JAPAN, which were recently contacted, arrive... Let's wait and so on.

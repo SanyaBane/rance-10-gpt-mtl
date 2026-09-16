@@ -18,13 +18,13 @@
 18818	Rance		「何がだ？」	「What is what?」
 
 18819	Katyusha Bosch		「……いちいち言わないと分からない？	「...Must I spell out everything?
-18820	+		　なんで牢獄から客室に移したかって事」	Why did you move me from the dungeon to a guest room?」
+18820	+		　なんで牢獄から客室に移したかって事」	　Why did you move me from the dungeon to a guest room?」
 
 18821	Rance		「なんだ、牢獄が良かったのか」	「What, did you prefer the dungeon?」
 
 18822	Katyusha Bosch		「はぐらかさないで。	「Don't dodge the question.
-18823	+		　小娘の身体に変化させて……	Just because you transformed me into a young girl...
-18824	+		　それで危険が無くなったとでも思うの？」	Do you really think I'm no longer a threat?」
+18823	+		　小娘の身体に変化させて……	　Just because you transformed me into a young girl...
+18824	+		　それで危険が無くなったとでも思うの？」	　Do you really think I'm no longer a threat?」
 
 18825	Rance		「どっちみち、お前を利用するつもりなんだ。	「Either way, I intend to make use of you. It's just a hassle
 18826	+		　牢獄であれこれさせるのもめんどくさいだけだ」	　to have you doing things while you're in the dungeon.」
@@ -32,13 +32,13 @@
 18827	Katyusha Bosch		「……………………」	「............」
 
 18828	Rance	笑顔	「それにお前がオロオロしてるのを見るのが面白い。	「Besides, it's fun to see you so flustered.
-18829	+		　がははははははは！」	Gahahahahahahaha!」
+18829	+		　がははははははは！」	　Gahahahahahahaha!」
 
 18830	Katyusha Bosch	素	「なにをっ、この…………！」	「Why you............!」
 
 18831	Rance	笑顔	「図星か、がはははははは！	「Hit the mark, did I? Gahahahahahaha!
-18832	+		　まあ、若返った身体を楽しめ！	Well, enjoy your rejuvenated body!
-18833	+		　そのうち俺も楽しませて貰うがな！」	I'll be getting some enjoyment out of it before long, too!」
+18832	+		　まあ、若返った身体を楽しめ！	　Well, enjoy your rejuvenated body!
+18833	+		　そのうち俺も楽しませて貰うがな！」	　I'll be getting some enjoyment out of it before long, too!」
 
 18834	-		カッとなったカチューシャだが、	Katyusha Bosch was fuming,
 18835	+		ランスは取り合わず、どこかへ行ってしまった。	but Rance paid her no mind and left.
@@ -46,24 +46,24 @@
 18836	Katyusha Bosch	素	「忌々しい男……」	「What a loathsome man...」
 
 18837	Katyusha Bosch~	悔しい	（でも、あの顔を見る度……動悸がする。	（But every time I see that face... my heart races.
-18838	+		　手も膝も……震えを抑えなきゃならない）	I have to force my hands and knees to stop shaking.）
+18838	+		　手も膝も……震えを抑えなきゃならない）	　I have to force my hands and knees to stop shaking.）
 
 18839	Katyusha Bosch~		（身体が……された事を覚えてるとでも、	（Is my body... really remembering...
-18840	+		　言うの……）	what was done to it...?）
+18840	+		　言うの……）	　what was done to it...?）
 
 18841	-		恐怖は身体に擦り込むもの。	Fear is something that's etched into the body.
 18842	+		暴力は、慣れない者から理性を奪い、	Violence strips those who are unaccustomed to it of
 18843	+		否応なく隷属させる。	their reason, and inevitably forces them into servitude.
 
 18844	Katyusha Bosch~	基本	（それは、頭では分かってる……	（I understand that intellectually...
-18845	+		　でも、身体がそれを理解して、克服したのは……	But my body's understanding and overcoming of it...
-18846	+		　この肉体より、ずっと未来のこと……）	happened far in the future compared to this body...）
+18845	+		　でも、身体がそれを理解して、克服したのは……	　But my body's understanding and overcoming of it...
+18846	+		　この肉体より、ずっと未来のこと……）	　happened far in the future compared to this body...）
 
 18847	-		ぶるりと、かつて自分を変えた地獄の日々が	With a shudder, the hellish days that once changed her
 18848	+		脳裏に蘇り、身体が勝手に震える。	resurfaced in her mind, and her body began to shake on its own.
 
 18849	Katyusha Bosch~		（……ううん。頭では分かっているもの。	（...No. I understand with my head.
-18850	+		　それに、そのうち元に戻るらしいし……）	Besides, I'll return to normal eventually...）
+18850	+		　それに、そのうち元に戻るらしいし……）	　Besides, I'll return to normal eventually...）
 
 18851	-		自分自身に言い聞かせながら、	Telling herself this,
 18852	+		カチューシャは廊下を歩く。	Katyusha Bosch walked down the corridor.
@@ -75,7 +75,7 @@
 18855	-		その歩みの先に、カラーの少女がいた。	Further along her path was a Kalar girl.
 
 18856	Katyusha Bosch~	素	（確か……リセット・カラー。	（If I recall... Reset Kalar.
-18857	+		　あの男の、娘……）	That man's... daughter...）
+18857	+		　あの男の、娘……）	　That man's... daughter...）
 
 18858	Reset Kalar	うきゃー	「こんにちは！」	「Hello!」
 
@@ -84,10 +84,10 @@
 18860	Reset Kalar	基本	「お客さん？」	「Are you a guest?」
 
 18861	Katyusha Bosch	素	「ええ。カチューシャというの。	「Yes. My name is Katyusha Bosch.
-18862	+		　貴女は…………」	And you are............」
+18862	+		　貴女は…………」	　And you are............」
 
 18863	Katyusha Bosch~	基本	（カラーでも、ほとんど素人ね。	（She's a Kalar, but basically a complete amateur.
-18864	+		　…………周囲に人影は、無し）	............No one else around.）
+18864	+		　…………周囲に人影は、無し）	　............No one else around.）
 
 18865	Reset Kalar		「わ」	「Whoa.」
 
@@ -107,15 +107,15 @@
 18874	+		人間の屑でもほだされるだろう。	would likely win over even the lowest of scoundrels.
 
 18875	Katyusha Bosch~	素	（ランス……やはりただの馬鹿ね。	（Rance... you really are just a fool.
-18876	+		　私が大人しくするとでも思ったの？）	Did you actually think I would behave myself?）
+18876	+		　私が大人しくするとでも思ったの？）	　Did you actually think I would behave myself?）
 
 18877	-		だが、カチューシャには響かない。	However, it had no effect on Katyusha Bosch.
 18878	+		いくばくかの嗜虐心がもたげて、それだけだ。	Only a slight surge of sadism was stirred.
 18879	+		心は凍てつき、揺らぐことはない。	Her heart was frozen and would not waver.
 
 18880	Katyusha Bosch~		（目の前で首の骨をへし折ってやれば、さぞ……	（If I snapped her neck right in front of him, I'm sure...
-18881	+		　それにしても抱き心地良いわね……	Even so, she's quite soft to hold...
-18882	+		　いやそれはどうでもいい。上手く使って……）	No, that doesn't matter. If I use this well...）
+18881	+		　それにしても抱き心地良いわね……	　Even so, she's quite soft to hold...
+18882	+		　いやそれはどうでもいい。上手く使って……）	　No, that doesn't matter. If I use this well...）
 
 18883	-		　	　
 18884	+		　　＜く〜、きゅるる……＞	　　<Grumble... rumble...>
@@ -139,7 +139,7 @@
 18895	Katyusha Bosch		「あっ……」	「Ah...」
 
 18896	Reset Kalar		「カチューシャさん、お腹空いた？	「Are you hungry, Katyusha Bosch-san?
-18897	+		　じゃあ、おやつ！　いこ！」	Then let's go have a snack! Come on!」
+18897	+		　じゃあ、おやつ！　いこ！」	　Then let's go have a snack! Come on!」
 
 18898	Katyusha Bosch		「あ、あ、ちょっと、っ……」	「A一Ah, wait a second...」
 
@@ -161,8 +161,8 @@
 18907	Katyusha Bosch~	基本	（なんか……増えてるし……）	（Somehow... there's even more of them now...）
 
 18908	Katyusha Bosch~	素	（でも……この四人、全員がランスの近くにいる……	（But... all four of them are close to Rance...
-18909	+		　あぁ。いい匂い……じゃなくて……	Ah... it smells so good... no, that's not it...
-18910	+		　誰でもいい、襲えば……）	If I just attack any of them...）
+18909	+		　あぁ。いい匂い……じゃなくて……	　Ah... it smells so good... no, that's not it...
+18910	+		　誰でもいい、襲えば……）	　If I just attack any of them...）
 
 18911	Masou Shizuka	基本	「………………」	「............」
 
@@ -191,8 +191,8 @@
 18925	Nagi su Ragarl		「ううん！　めっちゃ綺麗！　すげー！」	「No way! It's super pretty! Awesome!」
 
 18926	Katyusha Bosch		「こういうのは、要するに	「This sort of thing is simply the most logical way
-18927	+		　汚さないように食べるための理屈だから……	to eat without making a mess...
-18928	+		　ああもう、汚れてるじゃないの」	Good grief, you've already made a mess, haven't you?」
+18927	+		　汚さないように食べるための理屈だから……	　to eat without making a mess...
+18928	+		　ああもう、汚れてるじゃないの」	　Good grief, you've already made a mess, haven't you?」
 
 18929	Nagi su Ragarl	笑顔	「むぐむぐ、ごしごし……ありがとー！」	「*Mumble mumble*, *scrub scrub*... Thanks!」
 
@@ -208,7 +208,7 @@
 18935	+		遊びに付き合い、城の内外を駆けずり回った。	to play, and she ended up running all around the castle.
 
 18936	Katyusha Bosch~	悔しい	（だめだ……身体……身体の、欲求に逆らえない……	（It's no use... I can't resist the urges... of my body...
-18937	+		　ただの小娘の頃の……私の、身体に……！）	The body I had back when I was just a little girl...!）
+18937	+		　ただの小娘の頃の……私の、身体に……！）	　The body I had back when I was just a little girl...!）
 
 18938	-		絶望に似た感情を抱きながら、	Even as she felt a sense akin to despair,
 18939	+		疲労した身体は柔らかなベッドに沈み込み、	her exhausted body sank into the soft bed,

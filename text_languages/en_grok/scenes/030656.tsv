@@ -16,12 +16,12 @@
 22011	Rance	だる顔	「ぬ。ぬぬぬぬ。こいつ……見たことがあるぞ」	「Nu. Nununununu. This guy... I've seen him before.」
 
 22012	Miracle Tor	基本	「ほう……アリオス・テオマン。	「Ho... Arios Theoman.
-22013	+		　元勇者ではないか」	The former Hero, is it not?」
+22013	+		　元勇者ではないか」	　The former Hero, is it not?」
 
 22014	Rance	真剣	「あぁ……そういえば、そんな名前だったか」	「Ah... now that you mention it, that was his name.」
 
 22015	Miracle Tor	基本	「知り合いか、カオスマスター。	「Is he an acquaintance, Chaos Master?
-22016	+		　いつぞやも妙な反応だったが」	You had a strange reaction to him once before too.」
+22016	+		　いつぞやも妙な反応だったが」	　You had a strange reaction to him once before too.」
 
 22017	Rance	イライラ	「気に食わん男という事だけは覚えてる。	「I only remember that he's a guy I don't like. As for
 22018	+		　お前こそ、前みたくいちいち勧誘に走るなよ」	　you, don't go running off to recruit him like last time.」
@@ -32,8 +32,8 @@
 22021	Arios Theoman	基本	「……魔人を倒しているのか」	「...Are you defeating the Fiends?」
 
 22022	Rance		「それがどうした。	「What of it?
-22023	+		　言っとくが、今更お前みたいなのは要らんぞ。	I'm telling you now, I don't need someone like you anymore.
-22024	+		　どーしてもというなら、土下座でもして……」	If you insist, you can get on your knees and...」
+22023	+		　言っとくが、今更お前みたいなのは要らんぞ。	　I'm telling you now, I don't need someone like you anymore.
+22024	+		　どーしてもというなら、土下座でもして……」	　If you insist, you can get on your knees and...」
 
 22025	Arios Theoman		「手を引いて欲しい」	「I want you to back off.」
 
@@ -43,8 +43,8 @@
 22028	+		　魔人を倒すのは、しばらく待ってくれないか」	　you wait for a while before defeating any more Fiends?」
 
 22029	Rance		「ふん、何を抜かすかと思えば。	「Hmph, I wondered what you were going to say.
-22030	+		　ちんたら待つ道理も、	I have no reason to wait around,
-22031	+		　お前の言うことを大人しく聞く道理もないわ」	and no reason to quietly listen to what you say.」
+22030	+		　ちんたら待つ道理も、	　I have no reason to wait around,
+22031	+		　お前の言うことを大人しく聞く道理もないわ」	　and no reason to quietly listen to what you say.」
 
 22032	Arios Theoman		「頼む。人類のためだ。……信じて欲しい」	「I beg you. It is for humanity. ...Please believe me.」
 
@@ -53,7 +53,7 @@
 22034	Rance		「いやなこった。話は終わりだ。失せろ」	「Not a chance. We're done talking. Get lost.」
 
 22035	Arios Theoman	抜刀	「話に、ならないか……	「So talking won't work...
-22036	+		　では力尽くで止めるしか、ないな」	Then I have no choice but to stop you by force.」
+22036	+		　では力尽くで止めるしか、ないな」	　Then I have no choice but to stop you by force.」
 
 22037	-		アリオスが、背負っていた剣を抜く。	Arios draws the sword he was carrying on his back.
 
@@ -62,12 +62,12 @@
 22039	-		ランスも剣を抜いた。	Rance also drew his sword.
 
 22040	Cola		「あ、魔剣カオス。いーなー、	「Ah, Demon Sword Chaos. Nice一
-22041	+		　あれ魔王も魔人もいつでも殺れるんですよね」	That thing can kill Demon Kings and Fiends anytime, right?」
+22041	+		　あれ魔王も魔人もいつでも殺れるんですよね」	　That thing can kill Demon Kings and Fiends anytime, right?」
 
 22042	Rance	真剣	「なんだクソガキ。お前も相手か」	「What, you brat? Are you an opponent too?」
 
 22043	Cola	基本	「あ、私そういうんじゃないんで。	「Ah, I'm not like that.
-22044	+		　どうぞどうぞ」	Go right ahead.」
+22044	+		　どうぞどうぞ」	　Go right ahead.」
 
 22045	Rance	だる顔	「なんだありゃ……」	「What the hell is that...」
 
@@ -187,14 +187,14 @@
 22112	-		アリオスは倒れ伏し、そのまま動かなくなった。	Arios falls to the ground and stops moving.
 
 22113	Rance	笑顔	「がーはははは、楽勝！	「Gah-hahahaha, easy win!
-22114	+		　雑魚が俺の邪魔をするからこうなるのだ」	This is what happens when trash gets in my way.」
+22114	+		　雑魚が俺の邪魔をするからこうなるのだ」	　This is what happens when trash gets in my way.」
 
 22115	Miracle Tor	基本	「……死んだのか？」	「...Is he dead?」
 
 22116	Rance		「知らん。……まあ、どうでもいい。行くぞ」	「Dunno. ...Well, whatever. Let's go.」
 
 22117	Miracle Tor	目閉じ	「勇者は希少種なのだがな。	「The Hero is a rare specimen, after all.
-22118	+		　色々調べてみたくはあるが……時間がないか」	I'd like to investigate him in various ways... but there's no time, I suppose.」
+22118	+		　色々調べてみたくはあるが……時間がないか」	　I'd like to investigate him in various ways... but there's no time, I suppose.」
 
 22119	Crook Mofus	基本	「……そうですね。時間の無駄です」	「...Indeed. It is a waste of time.」
 
@@ -205,7 +205,7 @@
 22122	-		一人残されたコーラが、軽く肩を竦める。	Left alone, Cola lightly shrugs her shoulders.
 
 22123	Cola		「偉そうに挑んでおいて、負けちゃいましたね。	「He challenged him so arrogantly, yet lost.
-22124	+		　ださっ」	So lame.」
+22124	+		　ださっ」	　So lame.」
 
 22125	Arios Theoman	抜刀	「………………」	「............」
 
@@ -218,7 +218,7 @@
 22130	Arios Theoman		「強い……な。僕も、まだレベルが足りない」	「He is strong... Indeed. I am still lacking in levels.」
 
 22131	Cola		「ある意味……今こうなってるのも、	「In a sense... the reason things are like this now
-22132	+		　あのランスのせいですよね」	is because of that Rance.」
+22132	+		　あのランスのせいですよね」	　is because of that Rance.」
 
 22133	Arios Theoman		「……何が言いたい？」	「...What are you trying to say?」
 
@@ -229,7 +229,7 @@
 22137	Arios Theoman		「……………………」	「............」
 
 22138	Cola		「リーザスの事件やらカスタムの事件やら……	「The Leazas incident, the Custom incident...
-22139	+		　本来は、勇者が解決するはずだったんですけどね」	Originally, the Hero was supposed to solve them.」
+22139	+		　本来は、勇者が解決するはずだったんですけどね」	　Originally, the Hero was supposed to solve them.」
 
 22140	Cola	スマイル	「そしたら、もしかしてこんな事をしなくても……」	「If that happened, perhaps we wouldn't have had to do this...」
 
@@ -237,6 +237,6 @@
 22142	+		　魔王を仕留める為に、やるべき事をやるだけだ」	　must be done to strike down the Demon King.」
 
 22143	Cola		「……ま、そうですねー。はいはい。	「...Well, I suppose. Right, right.
-22144	+		　ふん、からかいがいのない……」	Hmph, you're no fun to tease...」
+22144	+		　ふん、からかいがいのない……」	　Hmph, you're no fun to tease...」
 
 22145	-		主従は連れだって、いずこかへと姿を消した。	The master and servant together vanished toward somewhere.

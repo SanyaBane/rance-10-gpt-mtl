@@ -148,8 +148,12 @@ const ONLY_DOTS = /^[\s　]*[.．・…][\s　.．・…]*$/;
  *
  * A leading ASCII `t` is the whole test: the game's own scene names are
  * Japanese and full-width digits, so nothing else starts with one.
+ *
+ * Exported because modules/SpeechIndent.js holds its own width findings apart
+ * the same way, and a second spelling of this test is a second opinion about
+ * which scenes the player ever sees.
  */
-const isDraftScene = (name) => name.startsWith("t");
+export const isDraftScene = (name) => name.startsWith("t");
 
 // The frame is modules/SpeechRows.js's, asked there by file and number, because
 // the build, the chronology's own layout and bake_speech_rows all need it and

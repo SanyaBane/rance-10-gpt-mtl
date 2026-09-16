@@ -4,8 +4,8 @@
 262587	+		ドラゴンを発見する	a dragon. Alright, another battle it
 262588	+		よし、また戦闘するか・・	is... if (check("Lia is in the deck") == 1)
 262589	+		if (確認("デッキにリア有り")==1){	{ Only when Lia's card is implemented,
-262590	+		　リアのカードが実装されている時のみ、はるまき関係の設定説明	explanation related to Harumaki.
-262591	+		　　はるまき（ライトニングドラゴンの子供）	Harumaki (child of the Lightning Dragon)
-262592	+		　　　大きなドラゴンが小さくて可愛いボディになっている	A big dragon turned into a small and
-262593	+		　　　多分誰か高位の魔法使いか何者かに呪いをかけられたのでしょう。	cute body. Probably cursed by some
+262590	+		　リアのカードが実装されている時のみ、はるまき関係の設定説明	　explanation related to Harumaki.
+262591	+		　　はるまき（ライトニングドラゴンの子供）	　　Harumaki (child of the Lightning Dragon)
+262592	+		　　　大きなドラゴンが小さくて可愛いボディになっている	　　　A big dragon turned into a small and
+262593	+		　　　多分誰か高位の魔法使いか何者かに呪いをかけられたのでしょう。	　　　cute body. Probably cursed by some
 262594	+		＞戦闘	high-level magician or someone. ＞Battle

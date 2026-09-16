@@ -250,6 +250,21 @@ the last assignment naming it, where the diff of the patch would have agreed
 with itself. Which is the rule below about reading the result back, one step
 earlier than the built `.ain`.
 
+The third of that family asks where a row *starts*.
+`scripts/fix_speech_indent.js` holds each row's English against the full-width
+space the game's own row opens with -- the indent that sits a continuation under
+the `「` that opened the quote. 2926 rows were flush where the game is indented,
+or answered `　` with an ASCII space a third as wide that `wrapAt` drops
+outright, and the bubble drew with its middle line hanging out to the left. It
+is the counterpart to the bracket rule above and worth holding beside it:
+**a bracket belongs to the utterance and an indent belongs to the row**, so this
+one is asked of the row and of nothing around it -- which also leaves no
+judgement in it, the Japanese column being the game's own. The cost is the same
+third rule the brackets carry: an indent is a character wide, so 43 speeches
+that fitted stopped fitting, and the overflow was always the game's rather than
+the pass's. `docs/speech-indent.md` is the write-up, including the three
+neighbouring classes it counts and deliberately does not touch.
+
 Two things `find_term_drift` taught that generalise past it. **A phrase that
 contains the settled rendering is not the settled rendering**: "Demon Great General" holds
 "Great General", so a plain `includes()` counted 34 wrong lines as agreeing, and
