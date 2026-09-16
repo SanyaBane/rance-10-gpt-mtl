@@ -265,6 +265,20 @@ that fitted stopped fitting, and the overflow was always the game's rather than
 the pass's. `docs/speech-indent.md` is the write-up, including the three
 neighbouring classes it counts and deliberately does not touch.
 
+That pass also settled a question the layout had been answering from the wrong
+column. `layOutSpeech` indented a continuation when the **English** opened with
+`「` or `（`, which is a guess about the translation with the answer sitting in
+the column beside it: it disagreed with the game on 63 rows of its own work
+list, 49 of them rows the indent pass had just repaired, so the next bake would
+have taken them off again. It reads `leadingIndent` of the row's own Japanese
+now, and the report was changed in the same commit as the writer -- a report
+proposing rows that differ from the written ones by an indent is measuring a row
+nobody draws, and it had been calling a speech fixable that only fitted because
+the layout dropped a character. `scripts/bake_speech_rows.js` also takes
+`--only=<file>` from that, naming the speeches to lay out: the rule that a work
+list is the report's findings so a pass can be reviewed does not survive a run
+of 1526 when 43 of them are the ones a named change put there.
+
 Two things `find_term_drift` taught that generalise past it. **A phrase that
 contains the settled rendering is not the settled rendering**: "Demon Great General" holds
 "Great General", so a plain `includes()` counted 34 wrong lines as agreeing, and

@@ -88,7 +88,7 @@ import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
 import {
     backlogEms, BACKLOG_EDGE, clipsInBacklog, drawnLines, folds,
-    inHistoryFrameOf as inHistoryFrame, layOutVoices, rowBudget,
+    inHistoryFrameOf as inHistoryFrame, layOutVoices, leadingIndent, rowBudget,
 } from "./SpeechRows.js";
 
 /** Worst first, which is also the order a fix is worth making in. */
@@ -290,8 +290,13 @@ export const findSpeechGaps = async (lang, only) => {
             // not move words between them. Offering a fix the build would not
             // produce is worse than offering none.
             const spokenAt = new Set(spoken.map(row => row.lineNumber));
+            // And with each row's indent read off the game's own row rather
+            // than guessed from the English, which is what the bake writes:
+            // a report whose proposed rows differ from the written ones in the
+            // indent is a report that measured a row nobody draws.
             const again = layOutVoices(speech.voices,
-                voiceRows => voiceRows.filter(lineNumber => spokenAt.has(lineNumber)));
+                voiceRows => voiceRows.filter(lineNumber => spokenAt.has(lineNumber)),
+                lineNumber => leadingIndent(byNumber.get(lineNumber).japanese));
             const howItWouldGo = {
                 drawn,
                 budget,

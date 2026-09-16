@@ -109,8 +109,8 @@ await run(async () => {
     if (!scene && !only) {
         const {englishOnly, strayAsciiSpace} = await countOppositeIndents(textLang);
         console.log(`\n${englishOnly} rows carry an indent the Japanese does not, and are left:`
-            + " layOutSpeech indents every continuation of a quoted speech whatever the row underneath"
-            + " says, so most of those are this repository's own layout rather than a fault.");
+            + " most are what layOutSpeech wrote while it inferred the indent from the bracket a speech"
+            + " opens with rather than from the row underneath, which it no longer does.");
         console.log(`${strayAsciiSpace} rows open with an ASCII space where the Japanese has no indent.`
             + " That is a stray character rather than an indent written wrong, and nothing in the"
             + " Japanese says what should be there instead.");

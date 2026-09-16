@@ -69,13 +69,15 @@
  * rather than this one's.
  *
  * **An indent the English carries and the Japanese does not.** 141 rows, and
- * most of them are this repository's own doing: `layOutSpeech` indents every
- * continuation of a speech that opens with a bracket, whatever the Japanese
- * under it says, and scripts/bake_speech_rows.js writes that into the corpus.
- * Taking those off would be undoing the layout rather than repairing the text,
- * so the pass runs one way only.
+ * most of them are this repository's own doing: `layOutSpeech` used to infer
+ * the indent from the bracket a speech opens with rather than from the row
+ * underneath, and scripts/bake_speech_rows.js wrote that into the corpus. That
+ * guess is gone -- the layout reads `leadingIndent` of each row's Japanese now,
+ * so a bake agrees with this pass instead of undoing it -- but the rows it
+ * already wrote are text somebody may have since edited, and reading them back
+ * off would be a sweep of its own rather than this one.
  *
- * **A leading ASCII space on a row whose Japanese has no indent.** 199 rows.
+ * **A leading ASCII space on a row whose Japanese has no indent.** 75 rows.
  * That is a stray character rather than an indent that was written wrong, and
  * nothing in the Japanese says what should be there instead.
  *
@@ -87,13 +89,15 @@
  * and they are named rather than quietly accepted. Every one of them is a row
  * the game draws one character further right than the English did, so the
  * overflow was always there and the corpus was hiding it; `pushedOver` is where
- * it surfaces, and scripts/bake_speech_rows.js is what lays 38 of the 43 back
- * into their rows.
+ * it surfaces. 20 of the 43 are in scenario documents the game never draws;
+ * scripts/bake_speech_rows.js laid 12 of the other 23 back into their rows, and
+ * the 11 left hold more English than two or three rows can draw whatever the
+ * layout, which is somebody's edit rather than a pass's.
  */
 import {speechesOf} from "./SceneFile.js";
 import {readTranslatedScenes} from "./SceneTranslations.js";
 import {isDraftScene} from "./SpeechGaps.js";
-import {drawnLines, inHistoryFrameOf, rowBudget} from "./SpeechRows.js";
+import {drawnLines, inHistoryFrameOf, leadingIndent, rowBudget} from "./SpeechRows.js";
 
 /** The two ways a row can be missing the indent its Japanese carries. */
 export const BUCKETS = ["missing", "ascii-space"];
@@ -111,9 +115,6 @@ export const englishOf = (row) => (row.english.trim() ? row.english : "");
  * translation owes it an indent.
  */
 export const carriesText = (row) => Boolean(row.japanese.trim());
-
-/** The full-width spaces a row opens with: the game's statement of where its text starts. */
-export const leadingIndent = (text) => text.match(/^　*/)[0];
 
 /**
  * The English of a row with the indent its Japanese carries.

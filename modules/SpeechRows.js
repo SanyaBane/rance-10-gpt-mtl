@@ -195,8 +195,37 @@ export const runsPastHistoryFrame = (row) =>
  */
 const INDENT = "　";
 
-/** The brackets whose continuation rows are indented. 「 for speech, （ for a thought. */
+/**
+ * The brackets whose continuation rows are indented. 「 for speech, （ for a
+ * thought.
+ *
+ * **This is the guess, and a caller that can read the game's own rows should
+ * not be using it.** It asks the English what the row wants, and the English is
+ * whatever the draft happened to open the speech with: a thought written `(`
+ * rather than `（`, a notice in `『』`, a narrator's aside. Measured over the
+ * layout's own work list, that came to 49 rows where the game indents and this
+ * would not, and 14 the other way -- and the 49 are rows
+ * `scripts/fix_speech_indent.js` had just put the indent back on, so a bake
+ * would have taken it off again the same week. `docs/speech-indent.md` is that
+ * class; the lesson underneath is the one CLAUDE.md states about blank rows,
+ * **ask what the row is for and not what the cell holds**, one field over.
+ *
+ * So `indents` below is the answer wherever the caller has the scene, and this
+ * is the fallback for the callers that do not -- scripts/fit_speech.js, which
+ * is handed loose text on the command line, and the two passes that work from
+ * an utterance rather than from its rows.
+ */
 const OPENS_QUOTED = /^[「（]/;
+
+/**
+ * The full-width spaces a row of the game opens with.
+ *
+ * Here rather than beside the pass that repairs them, because this is where the
+ * layout writes one back and a second spelling of the question would be a
+ * second opinion about where a row starts. modules/SpeechIndent.js reads it
+ * from here.
+ */
+export const leadingIndent = (text) => text.match(/^　*/)[0];
 
 /**
  * Every way to cut `words` into exactly `count` non-empty runs, scored by the
@@ -318,12 +347,19 @@ export const balanceAcross = (words, count, tracking) => {
  * with none is skipped, and one with no English of its own is skipped too, so
  * the build leaves those numbers unnamed and they play in Japanese.
  *
+ * `indentOf` is how a caller that has the scene says where each row starts in
+ * the game -- `leadingIndent` of that row's Japanese. Every caller here does
+ * have it, and passes it: without one the layout falls back to guessing the
+ * indent off the English's first character, which disagrees with the game on 63
+ * rows of its own work list. See OPENS_QUOTED above.
+ *
  * @param {{speaker: string, rows: number[], english: string}[]} voices
  * @param {(rows: number[]) => number[]} [rowsToFill]
+ * @param {(lineNumber: number) => string} [indentOf]
  * @return {{byLineNumber: Map<number, string>, rows: string[], fits: boolean,
  *     tooFewWords: boolean, skipped: number[]}}
  */
-export const layOutVoices = (voices, rowsToFill = (rows) => rows) => {
+export const layOutVoices = (voices, rowsToFill = (rows) => rows, indentOf) => {
     const byLineNumber = new Map();
     const laidOut = [];
     const skipped = [];
@@ -337,7 +373,8 @@ export const layOutVoices = (voices, rowsToFill = (rows) => rows) => {
             skipped.push(...rows);
             continue;
         }
-        const laid = layOutSpeech(voice.english, rows.length);
+        const laid = layOutSpeech(voice.english, rows.length,
+            indentOf && rows.map(lineNumber => indentOf(lineNumber)));
         rows.forEach((lineNumber, at) => byLineNumber.set(lineNumber, laid.rows[at]));
         laidOut.push(...laid.rows);
         tooFewWords ||= laid.tooFewWords;
@@ -351,24 +388,44 @@ export const layOutVoices = (voices, rowsToFill = (rows) => rows) => {
     };
 };
 
-export const layOutSpeech = (english, count) => {
+/**
+ * @param {string} english one speech, as the translator wrote it
+ * @param {number} count how many `m[]` rows the speech has
+ * @param {string[]} [indents] what each of those rows opens with in the game,
+ *        from `leadingIndent` of its Japanese. Given, it decides; absent, the
+ *        bracket guess above does.
+ */
+export const layOutSpeech = (english, count, indents) => {
     const text = english.trim();
     const words = text.split(/\s+/).filter(Boolean);
     const budget = rowBudget(count);
+    /*
+     * The indent goes on before the width is asked, because it is a character
+     * wide and a layout that measured the row without it would hand back a
+     * `fits` about a row nobody draws. Never onto an empty row: a cell holding
+     * only the indent is a blank row wearing a character, which is three
+     * different wrong answers downstream -- modules/SpeechGaps.js says which.
+     */
+    const indented = (rows) => (indents
+        ? rows.map((row, at) => (row ? (indents[at] ?? "") + row : row))
+        : rows);
     const answer = (rows, tooFewWords) =>
         ({rows, fits: drawnLines(rows) <= budget, tooFewWords});
 
     if (count <= 1 || words.length <= 1) {
         const rows = [text, ...new Array(Math.max(0, count - 1)).fill("")];
-        return answer(rows.slice(0, Math.max(count, 1)), count > 1);
+        return answer(indented(rows.slice(0, Math.max(count, 1))), count > 1);
     }
 
     if (words.length < count) {
         // Nothing to balance: every word on its own row, and the rest empty.
-        return answer([...words, ...new Array(count - words.length).fill("")], true);
+        return answer(indented([...words, ...new Array(count - words.length).fill("")]), true);
     }
 
     const rows = balanceAcross(words, count);
+    if (indents) {
+        return answer(indented(rows), false);
+    }
     if (OPENS_QUOTED.test(text)) {
         for (let i = 1; i < rows.length; i++) {
             rows[i] = INDENT + rows[i];

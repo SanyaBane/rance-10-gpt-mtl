@@ -4,6 +4,7 @@
  *   node scripts/bake_speech_rows.js                     # what it would do
  *   node scripts/bake_speech_rows.js --write             # do it
  *   node scripts/bake_speech_rows.js --scene=030335      # one scene
+ *   node scripts/bake_speech_rows.js --only=list.txt     # only the speeches named there
  *   node scripts/bake_speech_rows.js --samples=8         # more of each list
  *
  * The draft answered a whole utterance on its speech's first row, left the rest
@@ -94,6 +95,22 @@
  * row it was reported for stays either way: the fix is a longer translation,
  * which is somebody's decision rather than this pass's.
  *
+ * **`--only` narrows the work list to speeches somebody named**, as
+ * `<scene>.tsv#<m[] number>` one per line. It is the same rule the paragraph
+ * above states, one turn further: the work list is the report's findings so
+ * that a pass can be reviewed, and a run that lays out 1526 speeches cannot be
+ * reviewed either when 43 of them are the ones a named change put there.
+ * `docs/speech-indent.md` is the first such change -- the indent it wrote back
+ * is a character wide, and the speeches that stopped fitting because of it are
+ * a list somebody can read to the end.
+ *
+ * It only ever narrows. A key the report does not complain about is **not** laid
+ * out, and is named at the end instead: nothing may reach the layout that a
+ * report has not first called broken, or the flag becomes a way to bake a
+ * speech by asserting it needs it. That is what holds the 20 findings of any
+ * such list that sit in a t… scenario document out -- the game never draws
+ * those, so the report does not report them, so this does not touch them.
+ *
  * Two gates stand in front of every write, and neither trusts the layout:
  *
  * **The words have to survive, in order.** What goes into the rows, read back
@@ -116,7 +133,7 @@ import {parseSceneFile, renderSceneFile, speechesOf} from "../modules/SceneFile.
 import {translatedScenesDir} from "../modules/SceneTranslations.js";
 import {carriesText, isShifted} from "../modules/SpeechBrackets.js";
 import {findSpeechGaps} from "../modules/SpeechGaps.js";
-import {inHistoryFrameOf, layOutVoices} from "../modules/SpeechRows.js";
+import {inHistoryFrameOf, layOutVoices, leadingIndent} from "../modules/SpeechRows.js";
 import {textLangName} from "../modules/TextLanguages.js";
 
 /** One utterance as the layout reads it: the words, and nothing about the rows. */
@@ -143,9 +160,28 @@ await run(async () => {
      */
     const {findings} = await findSpeechGaps(textLang);
     const LAYS_OUT = ["overflow", "blank", "fold"];
-    const wantsLayout = new Set(findings
+    const reported = new Set(findings
         .filter(finding => LAYS_OUT.includes(finding.class))
         .map(finding => `${finding.file}#${finding.lineNumber}`));
+
+    /*
+     * The narrowing, and it can only ever narrow: a named speech the report
+     * does not complain about is held back rather than laid out, so the flag
+     * cannot become a way to bake a speech by asserting it needs it.
+     */
+    const listed = flagValue("only");
+    const named = listed
+        ? new Set((await fs.readFile(path.resolve(ROOT, listed), "utf-8")).split(/\r?\n/)
+            .map(line => line.trim()).filter(Boolean))
+        : null;
+    const notReported = named ? [...named].filter(key => !reported.has(key)) : [];
+    const wantsLayout = named
+        ? new Set([...reported].filter(key => named.has(key)))
+        : reported;
+    if (named) {
+        console.log(`${named.size} speeches named by --only, ${wantsLayout.size} of them in the report's`
+            + ` work list${notReported.length ? `, ${notReported.length} it does not complain about` : ""}`);
+    }
     const shifted = new Set(findings
         .filter(finding => finding.class === "shifted")
         .map(finding => `${finding.file}#${finding.lineNumber}`));
@@ -223,8 +259,14 @@ await run(async () => {
             // changes part way is two people's rows, and words may not move across
             // that point. docs/speech-voices.md.
             const spokenAt = new Set(spoken.map(row => row.lineNumber));
+            // Each row's indent from the game's own row, never guessed off the
+            // English's first character. That guess disagrees with the game on
+            // 63 rows of this work list -- 49 of them rows
+            // scripts/fix_speech_indent.js had just put the indent back on,
+            // which a bake would have taken off again. docs/speech-indent.md.
             const laid = layOutVoices(speech.voices,
-                voiceRows => voiceRows.filter(number => spokenAt.has(number)));
+                voiceRows => voiceRows.filter(number => spokenAt.has(number)),
+                number => leadingIndent(byNumber.get(number).japanese));
             if (laid.tooFewWords) {
                 ++left.tooFewWords;
                 continue;
@@ -273,7 +315,7 @@ await run(async () => {
     console.log(`${fileNames.length} scenes, ${speeches} speeches`);
     console.log(`  ${laidOut} speeches to lay out, ${rowsChanged} rows in ${filesChanged} files`);
     console.log(`  ${unchanged} of the report's own speeches already lie that way`);
-    console.log(`  left alone: ${left.fine} the report does not complain about,`
+    console.log(`  left alone: ${left.fine} this run is not laying out,`
         + ` ${left.shifted} shifted, ${left.silent} the game says nothing on,`
         + ` ${left.untranslated} untranslated, ${left.tooFewWords} with fewer words than rows`);
     if (stillOverflowing.length) {
@@ -289,6 +331,12 @@ await run(async () => {
             + " are a table rather than a bubble -- left alone here, and for"
             + " scripts/relayout_chronology.js to lay out");
         chronology.slice(0, samples).forEach(line => console.warn(`    ${line}`));
+    }
+    if (notReported.length) {
+        console.warn(`  ${notReported.length} speeches named by --only are not in the report's work list`
+            + " and were not laid out -- a t… scenario document the game never draws is the usual"
+            + " reason, and nothing reaches the layout that a report has not called broken");
+        notReported.slice(0, samples).forEach(key => console.warn(`    ${key.replace("#", " m[")}]`));
     }
     if (refused.length) {
         console.warn(`  ${refused.length} speeches refused by the post-condition and left as they were`);

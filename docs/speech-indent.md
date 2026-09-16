@@ -92,13 +92,12 @@ this one's. Which is the same rule that report learned the expensive way --
 **ask what the row is for, not what the cell holds**.
 
 **An indent the English carries and the Japanese does not.** 141 rows, and most
-of them are this repository's own doing: `layOutSpeech` indents every
-continuation of a speech that opens with a bracket, whatever the Japanese under
-it says, and `scripts/bake_speech_rows.js` writes that into the corpus. Taking
-those off would be undoing the layout rather than repairing the text, so the
-pass runs one way only. The report counts them and says so, because a report
-that only names what it changes reads as though the rest had been looked at and
-found right.
+of them are this repository's own doing -- the layout used to guess the indent
+rather than read it, which is the section below. The guess is gone; the rows it
+already wrote are text somebody may have edited since, and reading them back off
+would be a sweep of its own. The report counts them and says so, because a
+report that only names what it changes reads as though the rest had been looked
+at and found right.
 
 **A leading ASCII space on a row whose Japanese has no indent.** 75 rows. A
 stray character rather than an indent written wrong, and nothing in the Japanese
@@ -119,7 +118,61 @@ Worth being clear about what that number is. The overflow was always the game's:
 it draws those rows a character further right than the English did, so what
 changed is that the corpus stopped hiding it. What takes it out is a layout
 rather than an edit to this pass -- `scripts/bake_speech_rows.js` lays the same
-words back into the same rows, and it fits 38 of the 43.
+words back into the same rows. Run on exactly those 23 it laid out 12 of them,
+42 rows in 13 files, and `overflow` came back to 761. The **11 left hold more
+English than two or three rows can draw whatever the layout**, and want
+shortening by meaning:
+
+```
+030395.tsv m[4873]    030629.tsv m[19602]   030641.tsv m[20287]
+030663.tsv m[22964]   030741.tsv m[28891]   031946.tsv m[112664]
+032264.tsv m[134950]  032286.tsv m[137178]  032582.tsv m[160979]
+032582.tsv m[160982]  033393.tsv m[235144]
+```
+
+## The bake had to be fixed before it could be run
+
+`layOutSpeech` did not read the indent off the row. It inferred it from the
+English: `OPENS_QUOTED` matched `「` or `（` at the start of the **speech**, and
+indented every row after the first if it did. Which is a guess about the
+translation where the answer is sitting in the column beside it, and it is wrong
+whenever the draft opened a thought with an ASCII `(`, or the game quoted a
+notice in `『』`, or the speech is narration the game indents anyway.
+
+Measured over the layout's own work list the day the indent pass landed: **49
+rows where the game indents and the guess would not, and 14 the other way.** The
+49 were rows this pass had just put the indent back on, so the first bake after
+it would have taken them off again -- which is what the dry run showed, and why
+the flag below exists rather than a run of the whole list.
+
+So `layOutSpeech` takes an `indents` argument now and `layOutVoices` an
+`indentOf`, and the three callers that have the scene -- the bake,
+`modules/SpeechGaps.js` and `assemblePatch` -- all pass `leadingIndent` of the
+row's own Japanese. `OPENS_QUOTED` stays as the fallback for
+`scripts/fix_honorifics_wrapped.js`, `modules/SceneReview.js` and
+`scripts/fit_speech.js`, which are handed an utterance rather than its rows.
+After it, the layout agrees with the game on all 3694 rows of the work list, in
+both directions.
+
+The report had to change with the writer, not after it. `find_speech_gaps` shows
+what laying a speech out again *would* put in its rows, and a report proposing
+rows that differ from the written ones by an indent is a report measuring a row
+nobody draws -- it was also calling a speech fixable that only fitted because
+the layout had dropped a character.
+
+## `--only`, and why the bake grew a flag
+
+`scripts/bake_speech_rows.js` takes its work list from `find_speech_gaps`'s
+`overflow`, `blank` and `fold` findings, which on the day was 1526 speeches. Its
+own header says why that list is the report's rather than everything: **a pass
+that rewrites what is not broken cannot be reviewed.** The same sentence one
+turn further is that a run of 1526 cannot be reviewed either when 43 of them are
+the ones a named change put there, so `--only=<file>` narrows it to speeches
+named as `<scene>.tsv#<m[] number>`.
+
+It only ever narrows. A key the report does not complain about is **not** laid
+out and is named at the end instead -- which is what held the 20 `t…` findings
+out, the game never drawing those.
 
 ## What was checked
 
@@ -134,7 +187,11 @@ node scripts/effective_map.js diff before after
 ```
 
 **2926 changed, 0 gone, 0 added**, against 2926 rows edited. Equal is the answer,
-and it is the check a diff of the patch cannot give.
+and it is the check a diff of the patch cannot give. The bake that followed read
+**42 changed, 0 gone, 0 added** against its 42 rows, and the layout change on its
+own read **0**, which is the point `docs/speech-voices.md` and CLAUDE.md both
+make about a `scenes/` language: the build renders the rows verbatim, so a
+layout reaches the game only when the bake writes it into the files.
 
 Three more held:
 
@@ -146,3 +203,5 @@ Three more held:
 - every line of the diff read back as a diff: 2926 removed and 2926 added, each
   one the same five columns with the English's leading ASCII spaces replaced by
   the Japanese's own run of full-width spaces, and nothing else on any row.
+- and after the bake, this pass again: **0 rows**. The layout gave every indent
+  back, which is the one check that the two passes agree rather than take turns.

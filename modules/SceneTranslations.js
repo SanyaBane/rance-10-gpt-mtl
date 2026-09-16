@@ -30,7 +30,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {parseSceneFile, renderSceneFile, sceneFileName, speechesOf} from "./SceneFile.js";
-import {layOutVoices} from "./SpeechRows.js";
+import {layOutVoices, leadingIndent} from "./SpeechRows.js";
 import {textLangScenes} from "./TextLanguages.js";
 
 /** text_languages/<lang>/scenes: the translation, one file per scene. */
@@ -131,6 +131,7 @@ export const assemblePatch = async (lang) => {
     const owner = new Map();
     let skipped = 0;
     for (const {fileName, scene} of translated) {
+        const byNumber = new Map(scene.rows.map(row => [row.lineNumber, row]));
         for (const speech of speechesOf(scene)) {
             /*
              * A voice at a time, not a speech.
@@ -144,7 +145,12 @@ export const assemblePatch = async (lang) => {
              * question inside El's silence. Each voice keeps its own rows.
              * docs/speech-voices.md.
              */
-            const laid = layOutVoices(speech.voices);
+            // Each row's indent taken from the game's own row rather than
+            // guessed off the English's first character: docs/speech-indent.md,
+            // and OPENS_QUOTED in modules/SpeechRows.js is the guess it
+            // replaces.
+            const laid = layOutVoices(speech.voices, undefined,
+                lineNumber => leadingIndent(byNumber.get(lineNumber).japanese));
             // Left unnamed rather than written empty, for the reason the header
             // gives: the game's own Japanese is the better of the two things an
             // untranslated row can play.
