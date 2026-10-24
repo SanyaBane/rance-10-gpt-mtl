@@ -3,100 +3,100 @@
 * Sill Plain	シィル	Female
 * Hornet	ホーネット	Female
 
-135015	Rance	だる顔	「まったく、いつも結論が出ないんじゃ、	「Seriously, if we never reach a conclusion,
-135016	+		　あんな作戦会議、やるだけ無駄だな」	　those strategy meetings are just a waste of time.」
+135015	Rance	だる顔	「まったく、いつも結論が出ないんじゃ、	「Good grief, if we never reach a conclusion,
+135016	+		　あんな作戦会議、やるだけ無駄だな」	　holding those strategy meetings is just a waste of time.」
 
-135017	Sill Plain	恥	「そ、それは……」	「T-that's...」
+135017	Sill Plain	恥	「そ、それは……」	「T-That is...」
 
-135018	-		ランスはシィルをつれて	Rance took Sill with him
-135019	+		ぶちぶちと文句を垂れていた。	and kept grumbling complaints.
+135018	-		ランスはシィルをつれて	With Sill in tow, Rance
+135019	+		ぶちぶちと文句を垂れていた。	continued grumbling his complaints.
 
-135020	Sill Plain	真剣	「でも、ケイブリスを倒さない限り、	「But unless we defeat Kayblis,
-135021	+		　この戦争は終わらないんですよね……」	　this war won't end...」
+135020	Sill Plain	真剣	「でも、ケイブリスを倒さない限り、	「Still, unless we defeat Kayblis,
+135021	+		　この戦争は終わらないんですよね……」	　this war will never end...」
 
-135022	Rance	だる顔	「ちっ、面倒なことを始めてくれたもんだな、	「Tch, that Kayblis guy started something really annoying,
-135023	+		　そのケイブリスって奴は」	　didn't he.」
+135022	Rance	だる顔	「ちっ、面倒なことを始めてくれたもんだな、	「Tch. That Kayblis bastard really went and started
+135023	+		　そのケイブリスって奴は」	　a massive pain in the ass.」
 
-135024	Rance	真剣	「ま、いずれどうにかするさ」	「Well, I'll deal with him eventually.」
+135024	Rance	真剣	「ま、いずれどうにかするさ」	「Well, I will deal with him eventually.」
 
-135025	Sill Plain	基本	「うう……そんな適当な……」	「Uuu... So casual...」
+135025	Sill Plain	基本	「うう……そんな適当な……」	「Uuu... That is so irresponsible...」
 
-135026	Rance~	真剣	（うーん、だが冗談抜きで、	（Hmm, but no joke, if we leave it like
-135027	+		　このまま放置すると世界中の	　this, all the women across the world who
-135028	+		　いずれ俺様に抱かれる女達が死ぬだけだ）	　will eventually be fucked by me will die.）
+135026	Rance~	真剣	（うーん、だが冗談抜きで、	（Mmh, but jokes aside...
+135027	+		　このまま放置すると世界中の	　if we just leave things as they are,
+135028	+		　いずれ俺様に抱かれる女達が死ぬだけだ）	　all the women in the world meant to be bedded by the Great Rance will end up dead.）
 
-135029	Rance~		（早いとこ、どうにかせねばな）	（I need to do something about it soon.）
+135029	Rance~		（早いとこ、どうにかせねばな）	（I had better take care of this soon.）
 
-135030	Hornet	マントなし	「む……」	「Mu...」
+135030	Hornet	マントなし	「む……」	「Hm...?」
 
-135031	Sill Plain	基本	「あ、ホーネット様、こんにちは」	「Ah, Hornet-sama, hello.」
+135031	Sill Plain	基本	「あ、ホーネット様、こんにちは」	「Ah, Hornet-sama! Hello.」
 
-135032	Hornet	マントなし	「どうも、シィルさん。	「Hello, Sill-san.
+135032	Hornet	マントなし	「どうも、シィルさん。	「Good day, Sill-san.
 135033	+		　ランス総統」	　Supreme Leader Rance.」
 
-135034	Rance~	だる顔	（俺よりシィルに先に挨拶するのか……	（She greeted Sill before me...
-135035	+		　むむむ……）	　Mmm...）
+135034	Rance~	だる顔	（俺よりシィルに先に挨拶するのか……	（She greeted Sill before me...?
+135035	+		　むむむ……）	　Mrmmm...）
 
-135036	Rance	真剣	「お前ホーネットといつの間に	「When the hell did you
-135037	+		　そんな親しくなった」	　get so close with Hornet?」
+135036	Rance	真剣	「お前ホーネットといつの間に	「When the hell did you two
+135037	+		　そんな親しくなった」	　get so friendly with each other?」
 
-135038	Sill Plain	基本	「え？　し、親しいわけでは……	「Eh? W-we're not that close...
-135039	+		　失礼ですよ、ランス様……」	　That's rude, Rance-sama...」
+135038	Sill Plain	基本	「え？　し、親しいわけでは……	「Huh? W-We are not that close...
+135039	+		　失礼ですよ、ランス様……」	　That is rude, Rance-sama...」
 
-135040	Hornet	マントなし	「いえ、お気になさらず」	「No, please don't mind it.」
+135040	Hornet	マントなし	「いえ、お気になさらず」	「No, please do not pay it any mind.」
 
-135041	Sill Plain	基本	「あ、あの、それより大丈夫ですか？	「U-um, more importantly,
-135042	+		　ホーネット様、すごく疲れた顔を	　are you okay? Hornet-sama,
-135043	+		　してらっしゃいますけど……」	　you look really tired...」
+135041	Sill Plain	基本	「あ、あの、それより大丈夫ですか？	「U-Um, more importantly, are you alright?
+135042	+		　ホーネット様、すごく疲れた顔を	　Hornet-sama, you look
+135043	+		　してらっしゃいますけど……」	　terribly exhausted...」
 
 135044	Hornet	マントなし	「…………」	「............」
 
 135045	Hornet	マントなし／目閉じ	「いえ……」	「No...」
 
-135046	Hornet	マントなし	「なんということはありませんよ。	「It's nothing serious.
-135047	+		　心配してくれてありがとうございます」	　Thank you for worrying about me.」
+135046	Hornet	マントなし	「なんということはありませんよ。	「It is nothing of concern.
+135047	+		　心配してくれてありがとうございます」	　Thank you for your consideration.」
 
-135048	Hornet		「では……」	「Well then...」
+135048	Hornet		「では……」	「If you will excuse me...」
 
-135049	-		軽く一礼し、ホーネットは	After a light bow, Hornet
-135050	+		振り返りもせず行ってしまった。	walked away without looking back.
+135049	-		軽く一礼し、ホーネットは	Bowing lightly, Hornet
+135050	+		振り返りもせず行ってしまった。	walked away without once looking back.
 
 135051	Sill Plain	真剣	「ホーネットさん……	「Hornet-san...
-135052	+		　思い詰めた顔してましたね」	　She looked really desperate.」
+135052	+		　思い詰めた顔してましたね」	　She looked so deeply troubled.」
 
-135053	Rance	基本	「うむ、あいつは憂い顔が似合うな。	「Yeah, that worried look really suits her.
-135054	+		　エロい雰囲気が増し増しだ」	　It makes her erotic aura even stronger.」
+135053	Rance	基本	「うむ、あいつは憂い顔が似合うな。	「Yeah, a melancholy look really suits her.
+135054	+		　エロい雰囲気が増し増しだ」	　It ramps up her sexiness even more.」
 
-135055	Sill Plain	恥	「ランス様ぁ……」	「Rance-sama...」
+135055	Sill Plain	恥	「ランス様ぁ……」	「Rance-samaaa...」
 
 135056	Rance	真剣	「…………」	「............」
 
 135057	Sill Plain	基本	「ランス様？」	「Rance-sama?」
 
-135058	Rance	真剣	「よし決めた、俺はやるぞ」	「Alright, I've decided. I'm doing it.」
+135058	Rance	真剣	「よし決めた、俺はやるぞ」	「Alright, my mind is made up. I am going to do it.」
 
 135059	Sill Plain	基本	「？　何をですか？」	「? What are you going to do?」
 
-135060	Sill Plain	恥	「あ、あっ……」	「A-ah...」
+135060	Sill Plain	恥	「あ、あっ……」	「A-Ah...」
 
-135061	Rance	真剣	「馬鹿、なに顔赤くしとるか」	「Idiot, why are you blushing?」
+135061	Rance	真剣	「馬鹿、なに顔赤くしとるか」	「You idiot, what are you turning red for?」
 
-135062	Rance		「男には無理と分かっていても	「Even if a man knows it's impossible,
-135063	+		　挑まねばならぬ時があるのだ」	　there are times when he must challenge it.」
+135062	Rance		「男には無理と分かっていても	「There comes a time in every man's life
+135063	+		　挑まねばならぬ時があるのだ」	　when he must rise to the challenge, even knowing it is impossible!」
 
-135064	Rance		「魔人ケイブリスをブッ殺す」	「I'll slaughter the Fiend Kayblis.」
+135064	Rance		「魔人ケイブリスをブッ殺す」	「I am going to slaughter that Fiend Kayblis!」
 
-135065	Rance	エロ顔	「そして、ホーネットを抱くぞ」	「And then I'll fuck Hornet.」
+135065	Rance	エロ顔	「そして、ホーネットを抱くぞ」	「And then, I am going to bed Hornet!」
 
-135066	Sill Plain	基本	「あの、でも、どんな方法で……	「Um, but how exactly... It seems
-135067	+		　とてもケイブリスのいる城までは	　almost impossible to reach
-135068	+		　辿り着けなさそうですけど……」	　the castle where Kayblis is...」
+135066	Sill Plain	基本	「あの、でも、どんな方法で……	「U-Um, but how exactly...?
+135067	+		　とてもケイブリスのいる城までは	　It seems practically impossible
+135068	+		　辿り着けなさそうですけど……」	　to ever reach the castle where Kayblis is...」
 
-135069	Rance	真剣	「うーむ、これだけはやりたくなかったが、	「Ugh, this is the one thing I didn't want to do,
-135070	+		　仕方ない……」	　but no choice...」
+135069	Rance	真剣	「うーむ、これだけはやりたくなかったが、	「Mrmm... This was the one thing I did not want to do,
+135070	+		　仕方ない……」	　but there is no helping it...」
 
-135071	Rance		「正面突破する」	「We'll break through from the front.」
+135071	Rance		「正面突破する」	「We will break right through the front!」
 
-135072	Sill Plain	きょとん	「え……」	「Eh...」
+135072	Sill Plain	きょとん	「え……」	「Huh...?」
 
-135073	Sill Plain	慌て	「えーーーーーーーーーーっ！」	「Ehhhhhhhhhhhhh!」
+135073	Sill Plain	慌て	「えーーーーーーーーーーっ！」	「Ehhhhhhhhhhhhh?!」
